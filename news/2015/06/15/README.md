@@ -28,7 +28,7 @@ Apparel retailer Gap Inc (GPS.N) said it would close a quarter of Gap specialty 
 _Context: Alibaba Group Holding Limited, China Film Group Corporation, Netflix_
 
 ### [Nepal announces plans to reopen heritage sites in the Kathmandu Valley two months after the April 2015 Nepal earthquake. ](/news/2015/06/15/nepal-announces-plans-to-reopen-heritage-sites-in-the-kathmandu-valley-two-months-after-the-april-2015-nepal-earthquake.md)
-_Context: April 2015 Nepal earthquake, Kathmandu Valley, Nepal_
+_Context: Kathmandu Valley, Nepal, suspicions_
 
 ### [Hurricane Carlos hits southwestern Mexico with heavy rain ahead of making landfall as a tropical storm later in the week. ](/news/2015/06/15/hurricane-carlos-hits-southwestern-mexico-with-heavy-rain-ahead-of-making-landfall-as-a-tropical-storm-later-in-the-week.md)
 _Context: 2015 Pacific hurricane season, Hurricane Carlos, Mexico, tropical storm_

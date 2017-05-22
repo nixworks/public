@@ -1,7 +1,7 @@
 ## [2014-06-18](/news/2014/06/18/index.md)
 
 ### [40 Indians working for a Turkish construction company are abducted by militants in Mosul. ](/news/2014/06/18/40-indians-working-for-a-turkish-construction-company-are-abducted-by-militants-in-mosul.md)
-_Context: 2014 Northern Iraq offensive, Indians, Mosul, Turks_
+_Context: 2014 Northern Iraq offensive, Indians, Mosul, Turkish_
 
 ### [US drones launch a series of missiles against militants in North Waziristan, resulting in at least four deaths. ](/news/2014/06/18/us-drones-launch-a-series-of-missiles-against-militants-in-north-waziristan-resulting-in-at-least-four-deaths.md)
 _Context: North Waziristan, War in North-West Pakistan, drones launch_

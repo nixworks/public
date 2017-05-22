@@ -1,7 +1,7 @@
 ## [2016-02-28](/news/2016/02/28/index.md)
 
 ### [Two police officers are killed after a bomb explodes in Helmand Province. ](/news/2016/02/28/two-police-officers-are-killed-after-a-bomb-explodes-in-helmand-province.md)
-_Context: Afghan police, Helmand Province, War in Afghanistan (2015-present)_
+_Context: Afghan, Helmand Province, War in Afghanistan (2015-present)_
 
 ### [Two suicide bombers kill 70 people and injure more than 100 others at a crowded market in Sadr City, Iraq. ISIL claims responsibility for the attack.  ](/news/2016/02/28/two-suicide-bombers-kill-70-people-and-injure-more-than-100-others-at-a-crowded-market-in-sadr-city-iraq-isil-claims-responsibility-for-th.md)
 Over 70 people were killed and 100 others wounded in Sadr City, a southern suburb of the Iraqi capital, as two bombs went off at a crowded market, according to Reuters. Islamic State militants claim the attack.

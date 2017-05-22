@@ -16,7 +16,7 @@ A recovery team will attempt to reach the wreckage of a sightseeing plane Friday
  South Korea reported an additional two deaths from Middle East Respiratory Syndrome (MERS) Thursday, along with an additional case that put the total number of people diagnosed with the disease at 180.
 
 ### [India offers Nepal an additional billion dollars to help it recover from the April 2015 Nepal earthquake. ](/news/2015/06/25/india-offers-nepal-an-additional-billion-dollars-to-help-it-recover-from-the-april-2015-nepal-earthquake.md)
-_Context: April 2015 Nepal earthquake, India, Nepal_
+_Context: India, Nepal, suspicions_
 
 ### [South Africa reviews its participation in the International Criminal Court following a failed attempt to arrest the President of Sudan, Omar al-Bashir, on South African soil. ](/news/2015/06/25/south-africa-reviews-its-participation-in-the-international-criminal-court-following-a-failed-attempt-to-arrest-the-president-of-sudan-omar.md)
 _Context: International Criminal Court, Omar al-Bashir, President of Sudan, South Africa_

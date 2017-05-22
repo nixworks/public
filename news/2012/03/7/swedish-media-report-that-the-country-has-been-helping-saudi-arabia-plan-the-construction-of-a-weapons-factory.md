@@ -11,7 +11,7 @@ Opposition condemns government after broadcaster reveals documents said to show 
 
 ### Related:
 
-1. [U.S. President Donald Trump arrives in Saudi Arabia, his first of three scheduled foreign trips. Trump signs an arms deal  with  Saudi Arabia King Salman worth more than US$100 billion. ](/news/2017/05/20/u-s-president-donald-trump-arrives-in-saudi-arabia-his-first-of-three-scheduled-foreign-trips-trump-signs-an-arms-deal-with-saudi-arabi.md) _Context: Saudi Arabia_
+1. [U.S. President Donald Trump arrives in Saudi Arabia, his first of three scheduled foreign trips. Trump signs an arms deal with King Salman worth more than US$100 billion. ](/news/2017/05/20/u-s-president-donald-trump-arrives-in-saudi-arabia-his-first-of-three-scheduled-foreign-trips-trump-signs-an-arms-deal-with-king-salman-w.md) _Context: Saudi Arabia_
 2. [''Assange v Swedish Prosecution Authority''Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/assange-v-swedish-prosecution-authority-pswedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian.md) _Context: Swedish_
 3. [Saudi Arabia announces the arrest of 46 of what it describes as militants connected with the summer 2016 suicide bombing of Al-Masjid an-Nabawi in Medina.  ](/news/2017/05/1/saudi-arabia-announces-the-arrest-of-46-of-what-it-describes-as-militants-connected-with-the-summer-2016-suicide-bombing-of-al-masjid-an-nab.md) _Context: Saudi Arabia_
 4. [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _Context: Swedish_

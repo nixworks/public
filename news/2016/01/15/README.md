@@ -58,7 +58,7 @@ The American rapper best known as Mos Def is ordered to leave South Africa withi
 A special court is being set up in The Hague to try war crimes committed during the war in Kosovo, the Dutch government says.
 
 ### [Twelve Turkish  academics are detained for signing a declaration opposing military action against Kurdistan Workers Party forces in southeast Turkey. ](/news/2016/01/15/twelve-turkish-academics-are-detained-for-signing-a-declaration-opposing-military-action-against-kurdistan-workers-party-forces-in-southeas.md)
-_Context: Kurdistan Workers' Party, PKK rebellion (2015-present), Turkish, Turks_
+_Context: Kurdistan Workers' Party, PKK rebellion (2015-present), Turkish, Turkish_
 
 ### [Wei Hong, Governor of Sichuan province, is announced to be under investigation for "breaching discipline" by the Central Commission for Discipline Inspection. ](/news/2016/01/15/wei-hong-governor-of-sichuan-province-is-announced-to-be-under-investigation-for-breaching-discipline-by-the-central-commission-for-disc.md)
 _Context: Anti-corruption campaign in China, Central Commission for Discipline Inspection, Sichuan, Wei Hong_

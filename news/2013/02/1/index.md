@@ -37,7 +37,7 @@ Unbridled candor and unyielding chutzpah made three-term mayor stand out in a ci
 _Context: Chris Evans, Labor Party, Ministry of Education, Senate_
 
 ### [Muqrin bin Abdulaziz Al Saud, the former head of Saudi Arabia's Intelligence Directorate, is appointed second deputy Prime Minister, making him second in line to the Saudi throne. ](/news/2013/02/1/muqrin-bin-abdulaziz-al-saud-the-former-head-of-saudi-arabia-s-intelligence-directorate-is-appointed-second-deputy-prime-minister-making.md)
-_Context: Intelligence Directorate, King of Saudi Arabia, Muqrin bin Abdulaziz Al Saud, Prime Minister, Saudi Arabia, Succession to the Saudi Arabian throne_
+_Context: Intelligence Directorate, King, Muqrin bin Abdulaziz Al Saud, Prime Minister, Saudi Arabia, Succession to the Saudi Arabian throne_
 
 ### [Steven Chu steps down as United States Secretary of Energy. ](/news/2013/02/1/steven-chu-steps-down-as-united-states-secretary-of-energy.md)
 WASHINGTON -- Energy Secretary Steven Chu said he is leaving the Obama administration, ending a tenure marked by active development of alternative energy that won plaudits from environmentalists and...

@@ -4,7 +4,7 @@
 _Context: Turkish, bird flu_
 
 ### [ The King of Saudi Arabia, Abdullah al-Saud, offers to pay for repairs to the Jama Masjid in Delhi, India. The King also offers to fund education in India. ](/news/2006/01/4/the-king-of-saudi-arabia-abdullah-al-saud-offers-to-pay-for-repairs-to-the-jama-masjid-in-delhi-india-the-king-also-offers-to-fund-educ.md)
-_Context: Abdullah, Delhi, Jama Masjid, King of Saudi Arabia_
+_Context: Abdullah, Delhi, Jama Masjid, King_
 
 ### [ Conflict in Iraq: At least 50 die following a series of insurgent attacks across Iraq, including a suicide bomb at a Shia funeral which left 36 mourners dead. ](/news/2006/01/4/conflict-in-iraq-at-least-50-die-following-a-series-of-insurgent-attacks-across-iraq-including-a-suicide-bomb-at-a-shia-funeral-which-lef.md)
 _Context: Conflict in Iraq, Iraq, Shia, suicide bomb_

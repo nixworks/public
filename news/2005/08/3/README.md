@@ -43,7 +43,7 @@ _Context: Labor Party, Morris Iemma, Premier_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In Saudi Arabia the new King Abdullah has been invested. Tony Blair and Jacques Chirac, along with many European Monarchs are present for the "bayaa" ceremony while George H. W. Bush and Dick Cheney will meet with the new King the following day. ](/news/2005/08/3/in-saudi-arabia-the-new-king-abdullah-has-been-invested-tony-blair-and-jacques-chirac-along-with-many-european-monarchs-are-present-for-t.md)
-_Context: Abdullah, Bayaa, Dick Cheney, George H. W. Bush, Jacques Chirac, King of Saudi Arabia, Saudi Arabia, Tony Blair_
+_Context: Abdullah, Bayaa, Dick Cheney, George H. W. Bush, Jacques Chirac, King, Saudi Arabia, Tony Blair_
 
 ### [ In Malaysia, former deputy premier Anwar Ibrahim receives apology and compensation from former chief of police Rahim Noor, who beat him September 1999 ago when he was arrested on dubious grounds. In return, Ibrahim drops the case again him.  ](/news/2005/08/3/in-malaysia-former-deputy-premier-anwar-ibrahim-receives-apology-and-compensation-from-former-chief-of-police-rahim-noor-who-beat-him-sep.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

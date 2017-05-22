@@ -13,7 +13,7 @@ _Context: Belgium, forms a temporary coalition government, general election_
 _Context: 2007 Pakistani state of emergency, Pakistan, activists, emergency_
 
 ### [ King Abdullah of Saudi Arabia visits the Vatican in what is the first audience by the head of the Roman Catholic Church with a Saudi monarch. ](/news/2007/11/6/king-abdullah-of-saudi-arabia-visits-the-vatican-in-what-is-the-first-audience-by-the-head-of-the-roman-catholic-church-with-a-saudi-monarc.md)
-_Context: Abdullah, King of Saudi Arabia, Saudi Arabia, Vatican_
+_Context: Abdullah, King, Saudi Arabia, Vatican_
 
 ### [ Scores of students are injured and arrested ahead of protests in Venezuela. The demonstrations, scheduled for Wednesday, are to demand a delay to a referendum aimed at expanding the powers of Hugo Chavez. ](/news/2007/11/6/scores-of-students-are-injured-and-arrested-ahead-of-protests-in-venezuela-the-demonstrations-scheduled-for-wednesday-are-to-demand-a-de.md)
 More than 50 people were injured and 35 arrested as Venezuelan university students clashed with police two days before planned protests against President Hugo Chavez&#039;s constitutional reforms.

@@ -70,7 +70,7 @@ _Context: British military personnel, United Kingdom_
 They&#39;re off the payroll until they decide about 2012.
 
 ### [Thousands of Turkish Cypriots protest against Government of Turkey inspired spending cuts in Nicosia. ](/news/2011/03/2/thousands-of-turkish-cypriots-protest-against-government-of-turkey-inspired-spending-cuts-in-nicosia.md)
-_Context: Cyprus, Nicosia, Turkish government, Turks_
+_Context: Cyprus, Nicosia, Turkish, Turkish government_
 
 ### [The Wisconsin Senate votes to fine missing Democrats $100 a day for their absence during the 2011 Wisconsin protests. ](/news/2011/03/2/the-wisconsin-senate-votes-to-fine-missing-democrats-100-a-day-for-their-absence-during-the-2011-wisconsin-protests.md)
 Senate Republicans stepped up their efforts Wednesday to compel the 14 Senate Democrats who fled Wisconsin two weeks ago to come home.

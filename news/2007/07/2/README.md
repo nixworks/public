@@ -34,7 +34,7 @@ _Context: Cyprus, Thomas K. Mooney, United States Embassy, lieutenant colonel, m
 _Context: 2007 attack, Brisbane, detective, planned car bomb attacks_
 
 ### [ The trial over the murder of Turkish-Armenian journalist Hrant Dink opens in Istanbul, Turkey. ](/news/2007/07/2/the-trial-over-the-murder-of-turkish-armenian-journalist-hrant-dink-opens-in-istanbul-turkey.md)
-_Context: Armenia, Hrant Dink, Istanbul, Turkish, Turks, journalist, trial_
+_Context: Armenia, Hrant Dink, Istanbul, Turkish, Turkish, journalist, trial_
 
 ## [Previous Day...](/news/2007/07/1/index.md)
 

@@ -1,7 +1,7 @@
 ## [2015-09-2](/news/2015/09/2/index.md)
 
 ### [Masked men in military uniforms kidnap 16 Turkish workers in Baghdad. ](/news/2015/09/2/masked-men-in-military-uniforms-kidnap-16-turkish-workers-in-baghdad.md)
-_Context: Baghdad, Iraq War (2014-present), Turks_
+_Context: Baghdad, Iraq War (2014-present), Turkish_
 
 ### [A car bomb kills at least seven people in the Latakia Governorate. ](/news/2015/09/2/a-car-bomb-kills-at-least-seven-people-in-the-latakia-governorate.md)
 At least ten people were killed and scores wounded when a car bomb exploded in the Syrian city of Latakia Wednesday, state television said, in a rare attack in a coastal stronghold of President Bashar al-Assad.

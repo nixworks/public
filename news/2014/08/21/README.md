@@ -28,7 +28,7 @@ _Context: Alenka Bratusek, Commission for the Prevention of Corruption, Slovenia
 _Context: National Assembly of Thailand, Prayuth Chan-ocha, Prime Minister of Thailand, military coup_
 
 ### [The Turkish Justice and Development Party chooses foreign minister Ahmet Davutoglu as its leader meaning that he will become the new Prime Minister. ](/news/2014/08/21/the-turkish-justice-and-development-party-chooses-foreign-minister-ahmet-davutoalu-as-its-leader-meaning-that-he-will-become-the-new-prime.md)
-_Context: Ahmet Davutoglu, Prime Minister of Turkey, Turks, ruling party_
+_Context: Ahmet Davutoglu, Prime Minister of Turkey, Turkish, ruling party_
 
 ## [Previous Day...](/news/2014/08/20/index.md)
 

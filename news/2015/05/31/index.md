@@ -13,7 +13,7 @@ _Context: Boko Haram, Maiduguri, Nigeria_
 _Context: 2015 Indian heat wave_
 
 ### [Thousands of schools open in Nepal after the devastating earthquake of April 2015 which destroyed more than 25,000 classrooms and killed more than 8,000 people. ](/news/2015/05/31/thousands-of-schools-open-in-nepal-after-the-devastating-earthquake-of-april-2015-which-destroyed-more-than-25-000-classrooms-and-killed-mor.md)
-_Context: April 2015 Nepal earthquake, Nepal_
+_Context: Nepal, suspicions_
 
 ### [Russia announces that it will join the People's Republic of China in naval drills in the South China Sea in May 2016. ](/news/2015/05/31/russia-announces-that-it-will-join-the-people-s-republic-of-china-in-naval-drills-in-the-south-china-sea-in-may-2016.md)
 Russia will take part in naval military exercises together with its Asia Pacific allies, according to Russian Deputy Defense Minister Anatoly Antonov.

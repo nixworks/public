@@ -49,7 +49,7 @@ _Context: Haiti, Haitian general election, 2010-2011, Jean Bertrand-Aristide, Pr
 _Context: North Korea, Supreme People's Assembly_
 
 ### [King Abdullah of Saudi Arabia addresses the nation in the context of regional unrest. ](/news/2011/03/18/king-abdullah-of-saudi-arabia-addresses-the-nation-in-the-context-of-regional-unrest.md)
-_Context: Abdullah, King of Saudi Arabia, regional unrest_
+_Context: Abdullah, King, regional unrest_
 
 ### [Former United States Secretary of State Warren Christopher died. ](/news/2011/03/18/former-united-states-secretary-of-state-warren-christopher-died.md)
 _Context: United States Secretary of State, Warren Christopher_

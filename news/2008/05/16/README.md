@@ -28,7 +28,7 @@ _Context: Beijing Olympiad, Court of Arbitration for Sport, IAAF, Oscar Pistoriu
 _Context: Colombo, Sri Lanka_
 
 ### [ The President of the United States George W. Bush arrives in Saudi Arabia to discuss rising fuel prices with King Abdullah of Saudi Arabia. Saudi Arabia later announces plans to raise its output by 300,000 barrels a day. ](/news/2008/05/16/the-president-of-the-united-states-george-w-bush-arrives-in-saudi-arabia-to-discuss-rising-fuel-prices-with-king-abdullah-of-saudi-arabia.md)
-_Context: Abdullah, George W. Bush, King of Saudi Arabia, Saudi Arabia, U.S. President_
+_Context: Abdullah, George W. Bush, King, Saudi Arabia, U.S. President_
 
 ### [ The runoff election for the 2008 presidential election between the President of Zimbabwe Robert Mugabe and Morgan Tsvangirai of the Movement for Democratic Change is set for June 27. ](/news/2008/05/16/the-runoff-election-for-the-2008-presidential-election-between-the-president-of-zimbabwe-robert-mugabe-and-morgan-tsvangirai-of-the-movemen.md)
 _Context: June 27, Morgan Tsvangirai, Movement for Democratic Change, President of Zimbabwe, Robert Mugabe, presidential election, runoff election_

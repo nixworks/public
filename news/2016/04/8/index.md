@@ -31,7 +31,7 @@ _Context: Angoon, Southeast Alaska, U.S._
 Friday&#39;s public announcement is unusual for South Korea, which typically keeps a low-profile about defections.
 
 ### [King of Saudi Arabia Salman bin Abdulaziz Al Saud announces, during his trip to Cairo, that a bridge crossing the Red Sea will be built, linking Egypt and Saudi Arabia. Egyptian President Abdel Fattah el-Sisi says the bridge will be named after the Saudi monarch. A Saudi-Egypt Causeway project has been in the works for years. ](/news/2016/04/8/king-of-saudi-arabia-salman-bin-abdulaziz-al-saud-announces-during-his-trip-to-cairo-that-a-bridge-crossing-the-red-sea-will-be-built-lin.md)
-_Context: Abdel Fattah el-Sisi, Cairo, Egypt, Egypt-Saudi Arabia relations, Egyptian President, King of Saudi Arabia, Red Sea, Saudi Arabia, Saudi Arabia King Salman, Saudi-Egypt Causeway_
+_Context: Abdel Fattah el-Sisi, Cairo, Egypt, Egypt-Saudi Arabia relations, Egyptian President, King, Red Sea, Salman, Saudi Arabia, Saudi-Egypt Causeway_
 
 ### [Syria releases American freelance photographer Kevin Patrick Dawes who was kidnapped in 2012. ](/news/2016/04/8/syria-releases-american-freelance-photographer-kevin-patrick-dawes-who-was-kidnapped-in-2012.md)
 The 33-year-old from San Diego disappeared after crossing into Syria from Turkey in 2012.

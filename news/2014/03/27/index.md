@@ -37,7 +37,7 @@ _Context: Iwao Hakamada, death row_
 Turkey begins blocking access to YouTube after a recording is posted on it purporting to show ministers discussing a possible military operation in Syria.
 
 ### [Prince Muqrin bin Abdulaziz Al Saud is confirmed as second-in-line to the Saudi Arabian throne. ](/news/2014/03/27/prince-muqrin-bin-abdulaziz-al-saud-is-confirmed-as-second-in-line-to-the-saudi-arabian-throne.md)
-_Context: King of Saudi Arabia, Muqrin bin Abdulaziz Al Saud_
+_Context: King, Muqrin bin Abdulaziz Al Saud_
 
 ### [Sir Peter Cosgrove is sworn into office as Governor General of Australia. ](/news/2014/03/27/sir-peter-cosgrove-is-sworn-into-office-as-governor-general-of-australia.md)
 Peter Cosgrove is sworn in as the Governor-General and becomes a knight in the Order of Australia.

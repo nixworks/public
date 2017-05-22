@@ -4,7 +4,7 @@
 Iraqi officials say a suicide blast targeting security forces and subsequent clashes with Islamic State militants have killed at least 23 troops and allied Sunni fighters in the embattled western Prov
 
 ### [A suicide bomber kills herself and a policeman in an attack on a police station in a popular tourist district in the Turkish city of Istanbul. ](/news/2015/01/6/a-suicide-bomber-kills-herself-and-a-policeman-in-an-attack-on-a-police-station-in-a-popular-tourist-district-in-the-turkish-city-of-istanbu.md)
-_Context: Istanbul, Turks, kills, suicide bomber_
+_Context: Istanbul, Turkish, kills, suicide bomber_
 
 ### [Officials in the American state of Massachusetts open a time capsule left behind by founding fathers Paul Revere and Samuel Adams. ](/news/2015/01/6/officials-in-the-american-state-of-massachusetts-open-a-time-capsule-left-behind-by-founding-fathers-paul-revere-and-samuel-adams.md)
 BOSTON (Reuters) - A 220-year-old time capsule containing coins, documents and other artifacts left by U.S. founding fathers Samuel Adams and Paul Revere was opened by Massachusetts officials on Tuesday. &quot;The history of Massachusetts is the history of America,&quot; Secretary of the Commonwealth

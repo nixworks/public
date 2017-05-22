@@ -7,7 +7,7 @@ Hundreds of people have been found dead in the northeast Nigerian town of Damasa
 Fitch Ratings downgraded Japan&#039;s credit rating by one notch, the agency said on Monday.
 
 ### [The death toll from the earthquakes in Nepal rises to more than 3,700 with reports that tens of thousands of people are homeless. There are fears that the death toll could rise to over 5,000. ](/news/2015/04/27/the-death-toll-from-the-earthquakes-in-nepal-rises-to-more-than-3-700-with-reports-that-tens-of-thousands-of-people-are-homeless-there-are.md)
-_Context: April 2015 Nepal earthquake, Nepal_
+_Context: Nepal, suspicions_
 
 ### [Philippines President Benigno Aquino III asks Indonesian President Joko Widodo to spare the life of Mary Jane Veloso, a migrant domestic worker sentenced to death for drug trafficking.  ](/news/2015/04/27/philippines-president-benigno-aquino-iii-asks-indonesian-president-joko-widodo-to-spare-the-life-of-mary-jane-veloso-a-migrant-domestic-wor.md)
 _Context: Benigno Aquino III, Indonesia, Joko Widodo, Mary Jane Veloso, Philippines, domestic worker_
