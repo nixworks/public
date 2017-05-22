@@ -1,15 +1,33 @@
 ## [News](/news/2017/05/22/index.md)
 
-### [In an act of God, a giant sinkhole opens up in the Mar-a-Lago resort of United States President Donald Trump in Florida. ](/news/2017/05/22/in-an-act-of-god-a-giant-sinkhole-opens-up-in-the-mar-a-lago-resort-of-united-states-president-donald-trump-in-florida.md)
-_Context: Donald Trump, Florida, Mar-a-Lago, United States, act of God, sinkhole_
+### ["My Family's Slave"A controversial piece written in ''The Atlantic'' magazine about the Filipino servant caste and the Filipino American family involved in it triggers a debate in both the Philippines and the United States. ](/news/2017/05/22/my-family-s-slave-pa-controversial-piece-written-in-the-atlantic-magazine-about-the-filipino-servant-caste-and-the-filipino-american-fa.md)
+Lola and the universality of women’s exploitation
+
+### [In an act of God, a giant sinkhole opens up on the street in front of the Mar-a-Lago resort of United States President Donald Trump in Florida. ](/news/2017/05/22/in-an-act-of-god-a-giant-sinkhole-opens-up-on-the-street-in-front-of-the-mar-a-lago-resort-of-united-states-president-donald-trump-in-flori.md)
+_Context: Donald Trump, Florida, Mar-a-Lago, United States President, act of God, sinkhole_
 
 ### [North Korea's official Korean Central News Agency reports the country's leader, Kim Jong-un, has approved deployment of the  Pukguksong-2 intermediate-range ballistic missile, and ordered mass production  of the system. The United Nations Security Council will hold a closed-door session Tuesday to discuss the test. ](/news/2017/05/22/north-koreaas-official-korean-central-news-agency-reports-the-country-s-leader-kim-jong-un-has-approved-deployment-of-the-pukguksong-2.md)
 The United Nations Security Council will hold a closed-door session Tuesday to discuss the latest missile test. 
 
+### [The Philippines clarifies a controversial remark about a potential "war" with China amid criticism from Filipinos. ](/news/2017/05/22/the-philippines-clarifies-a-controversial-remark-about-a-potential-war-with-china-amid-criticism-from-filipinos.md)
+President Rodrigo Duterte said Xi Jinping had warned him there would be war if the Philippines tried to search for oil in the South China Sea.
+
+### [Turkey calls on the United States to conduct a full investigation on the clashes that broke out on May 16. ](/news/2017/05/22/turkey-calls-on-the-united-states-to-conduct-a-full-investigation-on-the-clashes-that-broke-out-on-may-16.md)
+_Context: 2017 clashes at the Turkish Embassy in the United States, Turkey, United States_
+
 ### [The United States Supreme Court rejects two of North Carolina's congressional districts because they violated the Constitution by relying  too heavily on race in drawing them. ](/news/2017/05/22/the-united-states-supreme-court-rejects-two-of-north-carolina-s-congressional-districts-because-they-violated-the-constitution-by-relying-t.md)
 Redistricting is part of a bare-knuckled fight in North Carolina, where Democrats and Republicans uneasily share political power.
 
-### [Alleged Russian interference in the 2016 United States electionsAccording to sources familiar with his decision, former U.S. National Security Advisor Michael Flynn invokes his Fifth Amendment protection against self-incrimination and declines to comply with a subpoena from the Senate Intelligence Committee investigating possible Russian interference in the 2016 U.S. election. ](/news/2017/05/22/alleged-russian-interference-in-the-2016-united-states-electionspaccording-to-sources-familiar-with-his-decision-former-u-s-national-secur.md)
+### [U.S. Attorney General Jeff Sessions reneges on his threats against so-called sanctuary cities. ](/news/2017/05/22/u-s-attorney-general-jeff-sessions-reneges-on-his-threats-against-so-called-sanctuary-cities.md)
+The move by Attorney General Jeff Sessions comes after a federal judge blocked a key part of the directive, the threat of withholding federal funds.
+
+### [The temporary protected status of Haitians living in the United States has been extended for six months. ](/news/2017/05/22/the-temporary-protected-status-of-haitians-living-in-the-united-states-has-been-extended-for-six-months.md)
+Tens of thousands of Haitians live in the U.S. under Temporary Protected Status.
+
+### [British Prime Minister Theresa May faces backlash after accusations emerge that the Conservatives allegedly planned on reducing social welfare spending. ](/news/2017/05/22/british-prime-minister-theresa-may-faces-backlash-after-accusations-emerge-that-the-conservatives-allegedly-planned-on-reducing-social-welfa.md)
+Prime minister spends day battling against accusations of indecision after change to policy outlined in manifesto
+
+### [According to sources familiar with his decision, former U.S. National Security Advisor Michael Flynn invokes his Fifth Amendment protection against self-incrimination and declines to comply with a subpoena from the Senate Intelligence Committee investigating possible Russian interference in the 2016 U.S. election. ](/news/2017/05/22/according-to-sources-familiar-with-his-decision-former-u-s-national-security-advisor-michael-flynn-invokes-his-fifth-amendment-protection.md)
 Former White House national security adviser Michael Flynn declined on Monday to comply with a subpoena from the Senate Intelligence Committee as it investigates possible Russian interference in the 2016 U.S. election.
 
 ### [Japanese scientists discover that mouse sperm held on the International Space Station for 9 months is able to produce healthy mice. ](/news/2017/05/22/japanese-scientists-discover-that-mouse-sperm-held-on-the-international-space-station-for-9-months-is-able-to-produce-healthy-mice.md)
