@@ -3,8 +3,11 @@
 ### ["My Family's Slave"A controversial piece written in ''The Atlantic'' magazine about the Filipino servant caste and the Filipino American family involved in it triggers a debate in both the Philippines and the United States. ](/news/2017/05/22/my-family-s-slave-pa-controversial-piece-written-in-the-atlantic-magazine-about-the-filipino-servant-caste-and-the-filipino-american-fa.md)
 Lola and the universality of women’s exploitation
 
-### [In an act of God, a giant sinkhole opens up on the street in front of the Mar-a-Lago resort of United States President Donald Trump in Florida. ](/news/2017/05/22/in-an-act-of-god-a-giant-sinkhole-opens-up-on-the-street-in-front-of-the-mar-a-lago-resort-of-united-states-president-donald-trump-in-flori.md)
-_Context: Donald Trump, Florida, Mar-a-Lago, United States President, act of God, sinkhole_
+### [Greater Manchester Police report deadly explosions at Manchester Arena in Manchester, England, at the end of Ariana Grande's performance on her Dangerous Woman Tour. ](/news/2017/05/22/greater-manchester-police-report-deadly-explosions-at-manchester-arena-in-manchester-england-at-the-end-of-ariana-grandeas-performance-o.md)
+The explosion happened at the end of a pop concert by the US singer Ariana Grande.
+
+### [A giant sinkhole opens up on the street in front of the Mar-a-Lago resort of United States President Donald Trump in Florida. ](/news/2017/05/22/a-giant-sinkhole-opens-up-on-the-street-in-front-of-the-mar-a-lago-resort-of-united-states-president-donald-trump-in-florida.md)
+_Context: Donald Trump, Florida, Mar-a-Lago, United States President, sinkhole_
 
 ### [North Korea's official Korean Central News Agency reports the country's leader, Kim Jong-un, has approved deployment of the  Pukguksong-2 intermediate-range ballistic missile, and ordered mass production  of the system. The United Nations Security Council will hold a closed-door session Tuesday to discuss the test. ](/news/2017/05/22/north-koreaas-official-korean-central-news-agency-reports-the-country-s-leader-kim-jong-un-has-approved-deployment-of-the-pukguksong-2.md)
 The United Nations Security Council will hold a closed-door session Tuesday to discuss the latest missile test. 
