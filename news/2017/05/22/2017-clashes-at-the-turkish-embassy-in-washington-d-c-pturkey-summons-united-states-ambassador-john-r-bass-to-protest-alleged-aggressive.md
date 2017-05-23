@@ -1,6 +1,6 @@
 ### [2017-05-22](/news/2017/05/22/index.md)
 
-# 2017 clashes at the Turkish Embassy in Washington, D.C. Turkey summons United States Ambassador John R. Bass to protest alleged aggressive and unprofessional actions by American security personnel against Turkish bodyguards,  and calls on the United States to conduct a full investigation of the May 17 clashes.  The American ambassador told Turkey's government its guards violated U.S. laws. Last week, the U.S. summoned Turkish  Ambassador Serdar Kilic about Turkish security officers hitting and kicking peaceful protesters outside the Turkish ambassador's residence in Washington, D.C. 
+# 2017 clashes at the Turkish Embassy in Washington, D.C. Turkey summons United States Ambassador John R. Bass to protest alleged "aggressive and unprofessional actions" by American security personnel against Turkish bodyguards, calling for the United States to conduct a full investigation on the May 17 clashes.  The American ambassador told Turkey's government that its guards violated U.S. laws. Last week, the U.S. summoned Turkish  Ambassador Serdar Kilic to discuss about Turkish security officers hitting and kicking peaceful protesters outside the Turkish ambassador's residence in Washington, D.C. 
 
 Turkey is calling for a full investigation of &quot;aggressive&quot; actions taken by American security personnel following a protest-turned-brawl outside the Turkish Embassy in Washington, D.C.
 
