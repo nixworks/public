@@ -12,7 +12,7 @@ The actor, best known for his suave portrayal of James Bond, has died aged 89, h
 ### [An Indian Air Force Sukhoi Su-30 goes missing near the border with China and is presumed to have crashed along with its two pilots. ](/news/2017/05/23/an-indian-air-force-sukhoi-su-30-goes-missing-near-the-border-with-china-and-is-presumed-to-have-crashed-along-with-its-two-pilots.md)
 _Context: China, Indian Air Force, Sukhoi Su-30_
 
-### [The White House releases a proposed budget that includes an increase in spending for the military and immigration but a decrease in healthcare and scientific research. ](/news/2017/05/23/the-white-house-releases-a-proposed-budget-that-includes-an-increase-in-spending-for-the-military-and-immigration-but-a-decrease-in-healthca.md)
+### [The White House releases a proposed budget that includes an increase in spending for the military but a decrease in healthcare and welfare. ](/news/2017/05/23/the-white-house-releases-a-proposed-budget-that-includes-an-increase-in-spending-for-the-military-but-a-decrease-in-healthcare-and-welfare.md)
 The White House says it is a &quot;taxpayer first&quot; budget, but even grizzled conservatives are baulking.
 
 ### [Apple Inc. and Nokia agree to increase their partnership after settling a patent dispute. ](/news/2017/05/23/apple-inc-and-nokia-agree-to-increase-their-partnership-after-settling-a-patent-dispute.md)
