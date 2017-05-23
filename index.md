@@ -1,5 +1,8 @@
 ## [News](/news/2017/05/23/index.md)
 
+### [Philippines president Rodrigo Duterte declares martial law in Mindanao during a military offensive by the armed forces against the Maute militant group. ](/news/2017/05/23/philippines-president-rodrigo-duterte-declares-martial-law-in-mindanao-during-a-military-offensive-by-the-armed-forces-against-the-maute-mil.md)
+Philippine President Rodrigo Duterte makes the declaration while on an official visit to Russia, as Maute Group members attack Marawi City in Mindanao
+
 ### [Campaigning in the general election is suspended after the bombing at the Manchester Arena. The death toll is 22 with 59 injured. ](/news/2017/05/23/campaigning-in-the-general-election-is-suspended-after-the-bombing-at-the-manchester-arena-the-death-toll-is-22-with-59-injured.md)
 Children were among those killed in the blast after a concert by US singer Ariana Grande.
 
