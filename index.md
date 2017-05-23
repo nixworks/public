@@ -3,13 +3,13 @@
 ### [Campaigning in the general election is suspended after the bombing at the Manchester Arena. The death toll is 22 with 59 injured. ISIL claims responsibility. ](/news/2017/05/23/campaigning-in-the-general-election-is-suspended-after-the-bombing-at-the-manchester-arena-the-death-toll-is-22-with-59-injured-isil-claim.md)
 Children were among those killed in the blast after a concert by US singer Ariana Grande.
 
-### [Philippine President Rodrigo Duterte declares martial law on the island of Mindanao after ISIL-linked Maute group militants clash with Philippine Army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/philippine-president-rodrigo-duterte-declares-martial-law-on-the-island-of-mindanao-after-isil-linked-maute-group-militants-clash-with-phili.md)
+### [Philippine president Rodrigo Duterte declares martial law on the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/philippine-president-rodrigo-duterte-declares-martial-law-on-the-island-of-mindanao-after-maute-militants-clash-with-army-troops-in-marawi.md)
 Philippine President Rodrigo Duterte makes the declaration while on an official visit to Russia, as Maute Group members attack Marawi City in Mindanao
 
 ### [Sir Roger Moore, who played James Bond between 1973 and 1985, dies aged 89. ](/news/2017/05/23/sir-roger-moore-who-played-james-bond-between-1973-and-1985-dies-aged-89.md)
 The actor, best known for his suave portrayal of James Bond, has died aged 89, his family announces.
 
-### [The White House releases a proposed budget that includes a increase in spending for the military and immigration but a decrease in healthcare and scientific research. ](/news/2017/05/23/the-white-house-releases-a-proposed-budget-that-includes-a-increase-in-spending-for-the-military-and-immigration-but-a-decrease-in-healthcar.md)
+### [The White House releases a proposed budget that includes an increase in spending for the military and immigration but a decrease in healthcare and scientific research. ](/news/2017/05/23/the-white-house-releases-a-proposed-budget-that-includes-an-increase-in-spending-for-the-military-and-immigration-but-a-decrease-in-healthca.md)
 The White House says it is a &quot;taxpayer first&quot; budget, but even grizzled conservatives are baulking.
 
 ### [Apple Inc. and Nokia agree to increase their partnership after settling a patent dispute. ](/news/2017/05/23/apple-inc-and-nokia-agree-to-increase-their-partnership-after-settling-a-patent-dispute.md)
@@ -34,9 +34,6 @@ The explosion happened at the end of a pop concert by the US singer Ariana Grand
 
 ### ["My Family's Slave"A controversial piece written in ''The Atlantic'' magazine about the Filipino servant caste and the Filipino American family involved in it triggers a debate in both the Philippines and the United States. ](/news/2017/05/22/my-family-s-slave-pa-controversial-piece-written-in-the-atlantic-magazine-about-the-filipino-servant-caste-and-the-filipino-american-fa.md)
 Lola and the universality of women’s exploitation
-
-### [A small sinkhole opens up on the street in front of the Mar-a-Lago resort of United States President Donald Drumpf in Florida. ](/news/2017/05/22/a-small-sinkhole-opens-up-on-the-street-in-front-of-the-mar-a-lago-resort-of-united-states-president-donald-drumpf-in-florida.md)
-_Context: Donald Drumpf, Florida, Mar-a-Lago, United States President, sinkhole_
 
 ### [Because of a nationwide shortage of  intravenous sodium bicarbonate (i.e., baking soda solution), United States hospitals are  rationing its use in  heart surgery, chemotherapy, for patients whose blood is too acidic, and  as an antidote to certain poisons. The two primary producers, Amphastar and Pfizer, indicate that supplies will not increase until late June. ](/news/2017/05/22/because-of-a-nationwide-shortage-of-intravenous-sodium-bicarbonate-i-e-baking-soda-solution-united-states-hospitals-are-rationing-its.md)
 _Context: Amphastar, Pfizer, chemotherapy, heart surgery, intravenous sodium bicarbonate_

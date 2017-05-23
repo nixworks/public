@@ -3,13 +3,13 @@
 ### [Campaigning in the general election is suspended after the bombing at the Manchester Arena. The death toll is 22 with 59 injured. ISIL claims responsibility. ](/news/2017/05/23/campaigning-in-the-general-election-is-suspended-after-the-bombing-at-the-manchester-arena-the-death-toll-is-22-with-59-injured-isil-claim.md)
 Children were among those killed in the blast after a concert by US singer Ariana Grande.
 
-### [Philippine President Rodrigo Duterte declares martial law on the island of Mindanao after ISIL-linked Maute group militants clash with Philippine Army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/philippine-president-rodrigo-duterte-declares-martial-law-on-the-island-of-mindanao-after-isil-linked-maute-group-militants-clash-with-phili.md)
+### [Philippine president Rodrigo Duterte declares martial law on the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/philippine-president-rodrigo-duterte-declares-martial-law-on-the-island-of-mindanao-after-maute-militants-clash-with-army-troops-in-marawi.md)
 Philippine President Rodrigo Duterte makes the declaration while on an official visit to Russia, as Maute Group members attack Marawi City in Mindanao
 
 ### [Sir Roger Moore, who played James Bond between 1973 and 1985, dies aged 89. ](/news/2017/05/23/sir-roger-moore-who-played-james-bond-between-1973-and-1985-dies-aged-89.md)
 The actor, best known for his suave portrayal of James Bond, has died aged 89, his family announces.
 
-### [The White House releases a proposed budget that includes a increase in spending for the military and immigration but a decrease in healthcare and scientific research. ](/news/2017/05/23/the-white-house-releases-a-proposed-budget-that-includes-a-increase-in-spending-for-the-military-and-immigration-but-a-decrease-in-healthcar.md)
+### [The White House releases a proposed budget that includes an increase in spending for the military and immigration but a decrease in healthcare and scientific research. ](/news/2017/05/23/the-white-house-releases-a-proposed-budget-that-includes-an-increase-in-spending-for-the-military-and-immigration-but-a-decrease-in-healthca.md)
 The White House says it is a &quot;taxpayer first&quot; budget, but even grizzled conservatives are baulking.
 
 ### [Apple Inc. and Nokia agree to increase their partnership after settling a patent dispute. ](/news/2017/05/23/apple-inc-and-nokia-agree-to-increase-their-partnership-after-settling-a-patent-dispute.md)

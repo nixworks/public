@@ -6,9 +6,6 @@ The explosion happened at the end of a pop concert by the US singer Ariana Grand
 ### ["My Family's Slave"A controversial piece written in ''The Atlantic'' magazine about the Filipino servant caste and the Filipino American family involved in it triggers a debate in both the Philippines and the United States. ](/news/2017/05/22/my-family-s-slave-pa-controversial-piece-written-in-the-atlantic-magazine-about-the-filipino-servant-caste-and-the-filipino-american-fa.md)
 Lola and the universality of women’s exploitation
 
-### [A small sinkhole opens up on the street in front of the Mar-a-Lago resort of United States President Donald Drumpf in Florida. ](/news/2017/05/22/a-small-sinkhole-opens-up-on-the-street-in-front-of-the-mar-a-lago-resort-of-united-states-president-donald-drumpf-in-florida.md)
-_Context: Donald Drumpf, Florida, Mar-a-Lago, United States President, sinkhole_
-
 ### [Because of a nationwide shortage of  intravenous sodium bicarbonate (i.e., baking soda solution), United States hospitals are  rationing its use in  heart surgery, chemotherapy, for patients whose blood is too acidic, and  as an antidote to certain poisons. The two primary producers, Amphastar and Pfizer, indicate that supplies will not increase until late June. ](/news/2017/05/22/because-of-a-nationwide-shortage-of-intravenous-sodium-bicarbonate-i-e-baking-soda-solution-united-states-hospitals-are-rationing-its.md)
 _Context: Amphastar, Pfizer, chemotherapy, heart surgery, intravenous sodium bicarbonate_
 
