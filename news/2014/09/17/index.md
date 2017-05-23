@@ -16,7 +16,7 @@ _Context: PNS Zulfiquar, Pakistani Navy, Terrorism in Pakistan_
 King Richard III was probably killed by two blows to the head during a &quot;sustained attack&quot;, according to new research.
 
 ### [King Carl XVI Gustaf of Sweden is involved in a car accident on the Nockebybron bridge west of Stockholm. ](/news/2014/09/17/king-carl-xvi-gustaf-of-sweden-is-involved-in-a-car-accident-on-the-nockebybron-bridge-west-of-stockholm.md)
-_Context: Carl XVI Gustaf, Nockebybron, Stockholm, Swedish_
+_Context: Carl XVI Gustaf, Nockebybron, Stockholm, Sweden_
 
 ### [Evacuations continue from the area surrounding the Mayon Volcano in the Philippines as lava flows down the mountain ahead of a possible eruption. ](/news/2014/09/17/evacuations-continue-from-the-area-surrounding-the-mayon-volcano-in-the-philippines-as-lava-flows-down-the-mountain-ahead-of-a-possible-erup.md)
 Lava is flowing down the Philippines&#039; most active volcano as thousands evacuated.

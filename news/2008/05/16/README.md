@@ -13,10 +13,10 @@ _Context: Lagos, Nigeria, pipeline explosion_
 _Context: aftershock, deadly earthquake_
 
 ### [ Former United States Olympic sprinter Tim Montgomery is sentenced to 46 months imprisonment for his involvement in a check fraud and money laundering scheme. ](/news/2008/05/16/former-united-states-olympic-sprinter-tim-montgomery-is-sentenced-to-46-months-imprisonment-for-his-involvement-in-a-check-fraud-and-money.md)
-_Context: Olympic Games, Tim Montgomery, U.S., check fraud, money laundering, sprint runner_
+_Context: Olympic Games, Tim Montgomery, United States, check fraud, money laundering, sprint runner_
 
 ### [ The United States reaches a deal with North Korea to resume food aid with 500,000 tonnes of food to be sent to North Korea during the next year. ](/news/2008/05/16/the-united-states-reaches-a-deal-with-north-korea-to-resume-food-aid-with-500-000-tonnes-of-food-to-be-sent-to-north-korea-during-the-next.md)
-_Context: North Korea, U.S., food aid, tonne_
+_Context: North Korea, United States, food aid, tonne_
 
 ### [ The State Peace and Development Council in Burma doubles the death toll from Cyclone Nargis to 78,000 with 55,917 people missing and 19,359 people injured. ](/news/2008/05/16/the-state-peace-and-development-council-in-burma-doubles-the-death-toll-from-cyclone-nargis-to-78-000-with-55-917-people-missing-and-19-359.md)
 The government’s revised death toll almost doubled, and it also raised the number of missing to 55,917.
@@ -28,7 +28,7 @@ _Context: Beijing Olympiad, Court of Arbitration for Sport, IAAF, Oscar Pistoriu
 _Context: Colombo, Sri Lanka_
 
 ### [ The President of the United States George W. Bush arrives in Saudi Arabia to discuss rising fuel prices with King Abdullah of Saudi Arabia. Saudi Arabia later announces plans to raise its output by 300,000 barrels a day. ](/news/2008/05/16/the-president-of-the-united-states-george-w-bush-arrives-in-saudi-arabia-to-discuss-rising-fuel-prices-with-king-abdullah-of-saudi-arabia.md)
-_Context: Abdullah, George W. Bush, King, Saudi Arabia, U.S. President_
+_Context: Abdullah, George W. Bush, King, Saudi Arabia, United States President_
 
 ### [ The runoff election for the 2008 presidential election between the President of Zimbabwe Robert Mugabe and Morgan Tsvangirai of the Movement for Democratic Change is set for June 27. ](/news/2008/05/16/the-runoff-election-for-the-2008-presidential-election-between-the-president-of-zimbabwe-robert-mugabe-and-morgan-tsvangirai-of-the-movemen.md)
 _Context: June 27, Morgan Tsvangirai, Movement for Democratic Change, President of Zimbabwe, Robert Mugabe, presidential election, runoff election_

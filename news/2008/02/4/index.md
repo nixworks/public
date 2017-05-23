@@ -4,7 +4,7 @@
 _Context: Congress of France, Constitution of France, European Union, France, National Assembly, Senate, Treaty of Lisbon_
 
 ### [ United States district court judge Florence-Marie Cooper rules that President George W. Bush cannot exempt the United States Navy from complying with environmental laws banning sonar training. ](/news/2008/02/4/united-states-district-court-judge-florence-marie-cooper-rules-that-president-george-w-bush-cannot-exempt-the-united-states-navy-from-comp.md)
-_Context: George W. Bush, U.S. Navy, U.S. President, U.S. federal court, judge, sonar_
+_Context: George W. Bush, U.S. Navy, U.S. federal court, United States President, judge, sonar_
 
 ### [ Thomas S. Monson is chosen as the 16th president of The Church of Jesus Christ of Latter-day Saints. ](/news/2008/02/4/thomas-s-monson-is-chosen-as-the-16th-president-of-the-church-of-jesus-christ-of-latter-day-saints.md)
 _Context: The Church of Jesus Christ of Latter-day Saints, Thomas S. Monson_
@@ -19,7 +19,7 @@ _Context: Dimona, Israel, kills a woman and injures at least 10 people, suicide 
 _Context: Chad, N'Djamena_
 
 ### [ The United States military says that it accidentally killed nine Iraqi civilians in an operation targeting Al-Qaeda south of Baghdad. ](/news/2008/02/4/the-united-states-military-says-that-it-accidentally-killed-nine-iraqi-civilians-in-an-operation-targeting-al-qaeda-south-of-baghdad.md)
-_Context: Baghdad, Iraq, U.S., al-Qaeda, civilian_
+_Context: Baghdad, Iraq, United States, al-Qaeda, civilian_
 
 ### [ 2008 submarine cable disruption: the Egyptian transport ministry reports that footage of the areas where cables were snapped or damaged shows no maritime traffic. ](/news/2008/02/4/2008-submarine-cable-disruption-the-egyptian-transport-ministry-reports-that-footage-of-the-areas-where-cables-were-snapped-or-damaged-sho.md)
 _Context: Egypt, break, maritime_

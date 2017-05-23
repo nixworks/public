@@ -28,7 +28,7 @@ _Context: Indian police, Israel, New Delhi_
 Mustafa Abdel Jalil accuses Arab countries of funding effort to carve out eastern state and threatens force against it.
 
 ### [Sweden's Prime Minister Fredrik Reinfeldt and his wife, Stockholm county council chair Filippa Reinfeldt, separate after two decades of marriage. ](/news/2012/03/7/sweden-s-prime-minister-fredrik-reinfeldt-and-his-wife-stockholm-county-council-chair-filippa-reinfeldt-separate-after-two-decades-of-marr.md)
-_Context: Filippa Reinfeldt, Fredrik Reinfeldt, Stockholm county council, Swedish, prime minister_
+_Context: Filippa Reinfeldt, Fredrik Reinfeldt, Stockholm county council, Sweden, prime minister_
 
 ### [The biggest solar flare in five years that occurred on March 6 nears Earth with the capacity to disrupt power grids, GPS systems and airline flights. ](/news/2012/03/7/the-biggest-solar-flare-in-five-years-that-occurred-on-march-6-nears-earth-with-the-capacity-to-disrupt-power-grids-gps-systems-and-airline.md)
 Huge solar storm heading toward Earth could disrupt power grids and airplane flights.

@@ -7,7 +7,7 @@ _Context: Ecuador, Tungurahua, Tungurahua_
 Senate Republicans on Wednesday blocked a Democratic-backed $157 billion economic stimulus plan that would have provided benefits for the long-term unemployed and expanded proposed tax rebates to include retirees and disabled veterans.
 
 ### [ The Turkish freighter ship ''UND Adriyatik'' catches fire off Croatia. ](/news/2008/02/6/the-turkish-freighter-ship-und-adriyatik-catches-fire-off-croatia.md)
-_Context: Croatia, Turkish, UND Adriyatik_
+_Context: Croatia, Turkey, UND Adriyatik_
 
 ### [ President of Italy Giorgio Napolitano dismisses the parliament; the cabinet sets early elections for 13 and 14 April. ](/news/2008/02/6/president-of-italy-giorgio-napolitano-dismisses-the-parliament-the-cabinet-sets-early-elections-for-13-and-14-april.md)
 _Context: 13, 14 April, Giorgio Napolitano, Italian Parliament, President of Italy, re-elected_

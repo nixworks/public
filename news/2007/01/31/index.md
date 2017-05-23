@@ -7,7 +7,7 @@ _Context: Cash for honours, Cashpoint, John Yates, Labour Party, Lord Levy, Scot
 _Context: International Herald Tribune, Iranian government, Israel, Jacques Chirac, Middle East, Tehran, nuclear warheads_
 
 ### [ Ross Wilson, the Ambassador of the United States to Turkey, says the Bush administration opposes a bill in the United States Congress that will recognize the Armenian Genocide, which the United States Government does not recognize. ](/news/2007/01/31/ross-wilson-the-ambassador-of-the-united-states-to-turkey-says-the-bush-administration-opposes-a-bill-in-the-united-states-congress-that.md)
-_Context: American, George W. Bush administration, Turkish, U.S. Congressional, genocide of Armenians_
+_Context: American, George W. Bush administration, Turkey, U.S. Congressional, genocide of Armenians_
 
 ### [ Canadian Prime Minister Stephen Harper is criticized after it is revealed that he described the Kyoto global warming protocol as a "socialist scheme to suck money out of wealth-producing nations" in a 2002 letter. ](/news/2007/01/31/canadian-prime-minister-stephen-harper-is-criticized-after-it-is-revealed-that-he-described-the-kyoto-global-warming-protocol-as-a-sociali.md)
 _Context: Kyoto Protocol, Stephen Harper, socialist_

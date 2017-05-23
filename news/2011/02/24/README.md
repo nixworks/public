@@ -25,7 +25,7 @@ _Context: Etta James, Riverside County, California, Superior Court, blues_
 CBS has pulled the plug on “Two and a Half Men”… for now.
 
 ### [Toyota recalls more than two million  vehicles in the United States to address problems with accelerator pedals being trapped in floormats. ](/news/2011/02/24/toyota-recalls-more-than-two-million-vehicles-in-the-united-states-to-address-problems-with-accelerator-pedals-being-trapped-in-floormats.md)
-_Context: Toyota, U.S., accelerator_
+_Context: Toyota, United States, accelerator_
 
 ### [Allison Transmission, a maker of transmissions for trucks and buses, is planning an initial public offering expected to raise between US$500 million and $1 billion, according to Reuters, which cites "four sources familiar with the situation."  ](/news/2011/02/24/allison-transmission-a-maker-of-transmissions-for-trucks-and-buses-is-planning-an-initial-public-offering-expected-to-raise-between-us-500.md)
 Private equity-backed Allison Transmission has hired banks and is planning an initial public offering that could raise around $1 billion in the third quarter of the year, four sources familiar with the situation said.
@@ -49,7 +49,7 @@ _Context: Burma, Myanmar Times_
 The authorities in Shanghai, China, announce they will introduce a one-dog policy to bring the canine population under control.
 
 ### [A Saudi Arabian student is arrested in Texas for allegedly planning a terrorist attack against the Dallas home of former President of the United States George W. Bush as a target as well as New York City and dams in California and Colorado. ](/news/2011/02/24/a-saudi-arabian-student-is-arrested-in-texas-for-allegedly-planning-a-terrorist-attack-against-the-dallas-home-of-former-president-of-the-un.md)
-_Context: California, Colorado, Dallas, Texas, George W. Bush, New York City, Saudi Arabia, Texas, U.S. President_
+_Context: California, Colorado, Dallas, Texas, George W. Bush, New York City, Saudi Arabia, Texas, United States President_
 
 ### [A British judge orders Julian Assange to be extradited to Sweden but the Wikileaks founder says that he will appeal. ](/news/2011/02/24/a-british-judge-orders-julian-assange-to-be-extradited-to-sweden-but-the-wikileaks-founder-says-that-he-will-appeal.md)
 A BRITISH judge has ordered Julian Assange to be extradited to Sweden to face sexual assault allegations, but the Australian plans to lodge an appeal and still hopes the matter can be finalised in the UK.
@@ -73,7 +73,7 @@ A carbon price scheme will be rolled out from July 2012 with a fixed price for t
 _Context: Providence Public School District, Providence, Rhode Island, School Board_
 
 ### [The United States Space Shuttle Discovery takes off for its final mission. ](/news/2011/02/24/the-united-states-space-shuttle-discovery-takes-off-for-its-final-mission.md)
-_Context: Discovery, U.S., final mission_
+_Context: Discovery, United States, final mission_
 
 ## [Previous Day...](/news/2011/02/23/index.md)
 

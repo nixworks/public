@@ -16,7 +16,7 @@ _Context: Challenger Deep, Mariana Trench, Nereus, Pacific, remotely operated ve
 _Context: India, Lok Sabha, MP, Meira Kumar, Parliament of India, Speaker, becomes_
 
 ### [ Al-Qaeda founder Osama bin Laden criticizes United States President Barack Obama on an audio cassette. ](/news/2009/06/3/al-qaeda-founder-osama-bin-laden-criticizes-united-states-president-barack-obama-on-an-audio-cassette.md)
-_Context: Barack Obama, Osama bin Laden, U.S., U.S. President, al-Qaeda, cassette, criticizes_
+_Context: Barack Obama, Osama bin Laden, United States, United States President, al-Qaeda, cassette, criticizes_
 
 ### [ President Jacob Zuma vows to create 500,000 jobs through 2009 in South Africa's State of the Nation Address. ](/news/2009/06/3/president-jacob-zuma-vows-to-create-500-000-jobs-through-2009-in-south-africa-s-state-of-the-nation-address.md)
 _Context: 2009, Jacob Zuma, President of South Africa, South Africa, State of the Nation Address_
@@ -28,7 +28,7 @@ _Context: Enugu, Nigeria, government, prison escape_
 _Context: 2013, Madagascar, Marc Ravalomanana, President, in absentia, incarceration, misconduct in office, political crisis_
 
 ### [ American author Marilynne Robinson wins the Orange Prize for Fiction for her novel ''Home''. ](/news/2009/06/3/american-author-marilynne-robinson-wins-the-orange-prize-for-fiction-for-her-novel-home.md)
-_Context: Home, Marilynne Robinson, Orange Prize for Fiction, U.S., author, novel_
+_Context: Home, Marilynne Robinson, Orange Prize for Fiction, United States, author, novel_
 
 ### [ The U.S. state of New Hampshire legalizes same-sex marriage. ](/news/2009/06/3/the-u-s-state-of-new-hampshire-legalizes-same-sex-marriage.md)
 _Context: New Hampshire, legalizes, same-sex marriage, state_

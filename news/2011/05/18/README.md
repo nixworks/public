@@ -16,7 +16,7 @@ _Context: Al Jazeera, Dorothy Parvaz, Iran, Syria_
 At least 12 people are shot dead and 80 wounded by security forces in northern Afghanistan during a protest against a Nato-led raid.
 
 ### [The United States announces plans to impose sanctions on the President of Syria, Bashar al-Assad, and six members of his government, for alleged human rights breaches during the 2011 Syrian uprising. ](/news/2011/05/18/the-united-states-announces-plans-to-impose-sanctions-on-the-president-of-syria-bashar-al-assad-and-six-members-of-his-government-for-all.md)
-_Context: 2011 Syrian uprising, Bashar al-Assad, Human rights, President, U.S._
+_Context: 2011 Syrian uprising, Bashar al-Assad, Human rights, President, United States_
 
 ### [The United Nations claims that Sudan has bombed a village in Darfur. ](/news/2011/05/18/the-united-nations-claims-that-sudan-has-bombed-a-village-in-darfur.md)
 Sudan has carried out another air strike on a village in the troubled western region of Darfur, according to the UN.
@@ -43,7 +43,7 @@ _Context: Argentina, Flight 5428, Patagonia, Saab 340, Sol Lneas Areas_
 The Palestinian Authority wants Israel to reinstate the lost residency rights of up to 140,000 people from the West Bank, Yolande Knell reports.
 
 ### [Dmitry Medvedev, the President of Russia, warns of a potential new Cold War if the United States does not listen to Russia's concerns about its proposed missile defense system. ](/news/2011/05/18/dmitry-medvedev-the-president-of-russia-warns-of-a-potential-new-cold-war-if-the-united-states-does-not-listen-to-russia-s-concerns-about.md)
-_Context: Cold War, Dmitry Medvedev, Russia, Russian President, U.S., missile defense shield_
+_Context: Cold War, Dmitry Medvedev, Russia, Russian President, United States, missile defense shield_
 
 ### [UK royal state visit to Ireland: Queen Elizabeth II of the United Kingdom visits Croke Park in Dublin, where British troops killed 20 people in the Bloody Sunday massacre of 1920. ](/news/2011/05/18/uk-royal-state-visit-to-ireland-queen-elizabeth-ii-of-the-united-kingdom-visits-croke-park-in-dublin-where-british-troops-killed-20-people.md)
 _Context: Bloody Sunday massacre of 1920, Croke Park, Dublin, Queen Elizabeth II, UK royal state visit to Ireland, United Kingdom_

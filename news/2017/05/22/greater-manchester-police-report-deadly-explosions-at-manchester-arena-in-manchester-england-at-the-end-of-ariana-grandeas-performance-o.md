@@ -10,6 +10,7 @@ The explosion happened at the end of a pop concert by the US singer Ariana Grand
 1. [BBC](http://www.bbc.com/news/uk-england-manchester-40007886)
 2. [NBC News](http://www.nbcphiladelphia.com/news/national-international/British-Police-Incident-Reports-at-Manchester-Arena-423715894.html)
 3. [The Guardian](https://www.theguardian.com/uk-news/2017/may/22/manchester-arena-police-explosion-ariana-grande-concert-england)
+4. [The Northern Echo](http://www.thenorthernecho.co.uk/news/15302333.19_killed__50_injured_in_explosion_at_Manchester_Arena_concert/)
 
 ### Related:
 

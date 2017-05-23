@@ -8,13 +8,13 @@ _Context: Bolivia, Evo Morales, Oruro, President of Bolivia, dynamite_
 _Context: Apex, Environmental Quality Industrial Services, North Carolina, state_
 
 ### [ Negotiators from the European Union and the United States reach a deal on sharing trans-Atlantic passenger data used in anti-terrorism investigations. ](/news/2006/10/6/negotiators-from-the-european-union-and-the-united-states-reach-a-deal-on-sharing-trans-atlantic-passenger-data-used-in-anti-terrorism-inve.md)
-_Context: European Union, U.S._
+_Context: European Union, United States_
 
 ### [ The Roman Catholic Church's Theological Commission are reviewing the teaching of ''limbus infantium'' (limbo for infants who died before being baptised) and may recommend to Pope Benedict XVI that it be amended. ](/news/2006/10/6/the-roman-catholic-church-s-theological-commission-are-reviewing-the-teaching-of-limbus-infantium-limbo-for-infants-who-died-before-be.md)
 _Context: Benedict XVI, Roman Catholic Church, baptised, limbus infantium_
 
 ### [ The new Swedish Prime Minister, Fredrik Reinfeldt, presents his new cabinet. ](/news/2006/10/6/the-new-swedish-prime-minister-fredrik-reinfeldt-presents-his-new-cabinet.md)
-_Context: Cabinet of Fredrik Reinfeldt, Fredrik Reinfeldt, Swedish, prime minister_
+_Context: Cabinet of Fredrik Reinfeldt, Fredrik Reinfeldt, Sweden, prime minister_
 
 ### [ 2006 Southeast Asian haze: Smoke from fires in western Indonesia causes air quality and visibility to plummet to unhealthy levels in neighboring Malaysia. ](/news/2006/10/6/2006-southeast-asian-haze-smoke-from-fires-in-western-indonesia-causes-air-quality-and-visibility-to-plummet-to-unhealthy-levels-in-neighb.md)
 _Context: 2006 Southeast Asian haze, Indonesia, Malaysia, fire_

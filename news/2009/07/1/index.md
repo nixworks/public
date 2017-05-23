@@ -10,7 +10,7 @@ Ireland has been declared free of a cattle disease, which cost the country milli
 A flurry of negotiations began on Wednesday to lay the groundwork for a possible return of the nation’s ousted president, Manuel Zelaya.
 
 ### [ Swedish Prime Minister Fredrik Reinfeldt assumes the rotating presidency over the European Union. ](/news/2009/07/1/swedish-prime-minister-fredrik-reinfeldt-assumes-the-rotating-presidency-over-the-european-union.md)
-_Context: European Union, Fredrik Reinfeldt, Swedish_
+_Context: European Union, Fredrik Reinfeldt, Sweden_
 
 ### [ Officials in Comoros confirm that one passenger from Yemenia Flight 626, a 14-year-old girl, has been found alive. ](/news/2009/07/1/officials-in-comoros-confirm-that-one-passenger-from-yemenia-flight-626-a-14-year-old-girl-has-been-found-alive.md)
 _Context: Comoros, Yemenia Flight 626_

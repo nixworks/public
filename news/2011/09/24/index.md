@@ -4,7 +4,7 @@
 _Context: Arab Spring, Libyan Civil War, Muammar Gaddafi, National Transitional Council, Sirte_
 
 ### [Turkey seizes a Syrian ship possibly carrying weapons to the Syrian Army, as the 2011 Syrian uprising continues. ](/news/2011/09/24/turkey-seizes-a-syrian-ship-possibly-carrying-weapons-to-the-syrian-army-as-the-2011-syrian-uprising-continues.md)
-_Context: 2011 Syrian uprising, Syria, Syrian Army, Turkish_
+_Context: 2011 Syrian uprising, Syria, Syrian Army, Turkey_
 
 ### [Six people die in a house fire in the London suburb of Neasden. ](/news/2011/09/24/six-people-die-in-a-house-fire-in-the-london-suburb-of-neasden.md)
 Six members of the same family, including three children and two teenagers, have died following a house fire in Neasden, north west London.

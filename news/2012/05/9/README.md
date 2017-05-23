@@ -46,7 +46,7 @@ A journalist with a top Honduran radio station was kidnapped Wednesday on his wa
 _Context: Ukrainians, Yulia Tymoshenko_
 
 ### [United States President Barack Obama officially states that he supports the right for same-sex partners to marry. ](/news/2012/05/9/united-states-president-barack-obama-officially-states-that-he-supports-the-right-for-same-sex-partners-to-marry.md)
-_Context: Barack Obama, U.S. President, same-sex marriage_
+_Context: Barack Obama, United States President, same-sex marriage_
 
 ## [Previous Day...](/news/2012/05/8/index.md)
 

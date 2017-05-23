@@ -10,7 +10,7 @@ _Context: North Korea, North Korea and weapons of mass destruction, sanctions, s
 Pakistani security forces said Indian troops fired on their positions near Lahore as border tensions between the two nuclear-armed foes simmer.
 
 ### [Mehmet Ali Agca, the man who shot Pope John Paul II in May 1981, is released from a Turkish prison after almost 30 years behind bars. ](/news/2010/01/18/mehmet-ali-aaca-the-man-who-shot-pope-john-paul-ii-in-may-1981-is-released-from-a-turkish-prison-after-almost-30-years-behind-bars.md)
-_Context: Mehmet Ali Agca, Pope, Pope John Paul II, Turkish_
+_Context: Mehmet Ali Agca, Pope, Pope John Paul II, Turkey_
 
 ### [Somalia sends a letter of protest to Kenya after the arrest of MPs and other officials, including Muslim leader Al-Amin Kimathi, over recent riots. ](/news/2010/01/18/somalia-sends-a-letter-of-protest-to-kenya-after-the-arrest-of-mps-and-other-officials-including-muslim-leader-al-amin-kimathi-over-recent.md)
 _Context: Al-Amin Kimathi, Kenya, MP, Muslim, Somalia_

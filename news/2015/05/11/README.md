@@ -22,10 +22,10 @@ Fifteen people died and 20 others were injured, six of them critically, when a b
 _Context: Japan, Philippines, Typhoon Noul_
 
 ### [The death toll from a tornado outbreak in the United States rises to five with dozens injured and eight people missing. ](/news/2015/05/11/the-death-toll-from-a-tornado-outbreak-in-the-united-states-rises-to-five-with-dozens-injured-and-eight-people-missing.md)
-_Context: May 5-10, 2015 tornado outbreak sequence, U.S._
+_Context: May 5-10, 2015 tornado outbreak sequence, United States_
 
 ### [A new strain of bird flu caused by the H5N8 virus is identified in a backyard poultry flock in Whitley County, Indiana, in the United States. ](/news/2015/05/11/a-new-strain-of-bird-flu-caused-by-the-h5n8-virus-is-identified-in-a-backyard-poultry-flock-in-whitley-county-indiana-in-the-united-states.md)
-_Context: Avian flu virus, H5N8, U.S., Whitley County, Indiana, poultry_
+_Context: Avian flu virus, H5N8, United States, Whitley County, Indiana, poultry_
 
 ### [Malaysia detains over a thousand Bangladeshi and Rohingya people asylum seekers who arrived by boat on Monday. The Indonesian Navy confirms that it had turned the boats away. ](/news/2015/05/11/malaysia-detains-over-a-thousand-bangladeshi-and-rohingya-people-asylum-seekers-who-arrived-by-boat-on-monday-the-indonesian-navy-confirms.md)
 _Context: Bangladesh, Indonesian Navy, Malaysia, Rohingya minority_
@@ -46,7 +46,7 @@ _Context: Guyana, Guyanese general election_
 Chilean President Michelle Bachelet names a new cabinet as she seeks to overcome a fall in popularity and a series of political scandals.
 
 ### [The Prime Minister of the United Kingdom David Cameron announces a new Cabinet consisting of members of the Conservative Party. ](/news/2015/05/11/the-prime-minister-of-the-united-kingdom-david-cameron-announces-a-new-cabinet-consisting-of-members-of-the-conservative-party.md)
-_Context: Conservative, David Cameron, Prime Minster, Second Cameron ministry_
+_Context: Conservatives, David Cameron, Prime Minster, Second Cameron ministry_
 
 ## [Previous Day...](/news/2015/05/10/index.md)
 

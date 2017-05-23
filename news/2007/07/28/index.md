@@ -1,13 +1,13 @@
 ## [2007-07-28](/news/2007/07/28/index.md)
 
 ### [ Pakistan raises concerns about a draft bill adopted by the United States Congress that ties United States foreign aid to progress in the fight against Al Qaeda and the Taliban. ](/news/2007/07/28/pakistan-raises-concerns-about-a-draft-bill-adopted-by-the-united-states-congress-that-ties-united-states-foreign-aid-to-progress-in-the-fi.md)
-_Context: Pakistan, Taliban, U.S., U.S. Congressional, al-Qaeda, foreign aid_
+_Context: Pakistan, Taliban, U.S. Congressional, United States, al-Qaeda, foreign aid_
 
 ### [ Colombia's intelligence chief Andres Penate claims FARC rebels accidentally killed 11 politicians it was holding, after running into another rebel unit. ](/news/2007/07/28/colombia-s-intelligence-chief-andra-c-s-pea-ate-claims-farc-rebels-accidentally-killed-11-politicians-it-was-holding-after-running-into-anot.md)
 _Context: Andres Penate, Colombia, FARC_
 
 ### [ The President of the United States George W. Bush urges  Congress to pass legislation to expand potential surveillance targets. ](/news/2007/07/28/the-president-of-the-united-states-george-w-bush-urges-congress-to-pass-legislation-to-expand-potential-surveillance-targets.md)
-_Context: George W. Bush, U.S. Congressional, U.S. President_
+_Context: George W. Bush, U.S. Congressional, United States President_
 
 ### [ The death toll from the Summer 2007 United Kingdom floods rises to nine as police find a body near Tewkesbury in Gloucestershire. ](/news/2007/07/28/the-death-toll-from-the-summer-2007-united-kingdom-floods-rises-to-nine-as-police-find-a-body-near-tewkesbury-in-gloucestershire.md)
 Police say emergency workers have found a man&#039;s body in a submerged field, bringing to at least nine the death toll in Britain&#039;s worst floods for 60 years.

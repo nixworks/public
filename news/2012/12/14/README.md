@@ -1,7 +1,7 @@
 ## [2012-12-14](/news/2012/12/14/index.md)
 
 ### [Syrian civil war:American admiral James G. Stavridis, NATO's Supreme Allied Commander Europe claims that Scud missiles fired by Syria at rebel forces have landed "fairly close" to the border with Turkey. ](/news/2012/12/14/syrian-civil-war-pamerican-admiral-james-g-stavridis-nato-s-supreme-allied-commander-europe-claims-that-scud-missiles-fired-by-syria-at-re.md)
-_Context: Americans, James G. Stavridis, NATO, Scud missiles, Supreme Allied Commander Europe, Syria, Syrian Civil War, Turkish, admiral_
+_Context: Americans, James G. Stavridis, NATO, Scud missiles, Supreme Allied Commander Europe, Syria, Syrian Civil War, Turkey, admiral_
 
 ### [Kenneth Kendall, who became the BBC's first in-vision television newsreader in 1955, dies aged 88. ](/news/2012/12/14/kenneth-kendall-who-became-the-bbc-s-first-in-vision-television-newsreader-in-1955-dies-aged-88.md)
 Kenneth Kendall, former BBC newsreader and presenter of the popular UK game show Treasure Hunt, dies aged 88.

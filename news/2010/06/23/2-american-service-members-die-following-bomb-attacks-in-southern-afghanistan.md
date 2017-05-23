@@ -11,7 +11,7 @@ June On Track to Become 1 of Deadliest Months of War as Uncertainty Over U.S. Co
 
 ### Related:
 
-1. [A Taliban raid kills at least twenty Afghan police officers in southern Afghanistan. ](/news/2017/05/21/a-taliban-raid-kills-at-least-twenty-afghan-police-officers-in-southern-afghanistan.md) _Context: Afghanistan_
+1. [A Taliban raid kills at least 20 Afghan police officers in southern Afghanistan. ](/news/2017/05/21/a-taliban-raid-kills-at-least-20-afghan-police-officers-in-southern-afghanistan.md) _Context: Afghanistan_
 2. [A U.S. special forces service member is killed while taking part in an operation against ISIL militants in Afghanistan's eastern Nangarhar Province. ](/news/2017/04/8/a-u-s-special-forces-service-member-is-killed-while-taking-part-in-an-operation-against-isil-militants-in-afghanistan-s-eastern-nangarhar-p.md) _Context: Afghanistan_
 3. [Two U.S. service members are killed and a third is injured during a raid against ISIL militants in Afghanistan's Nangarhar Province. ](/news/2017/04/27/two-u-s-service-members-are-killed-and-a-third-is-injured-during-a-raid-against-isil-militants-in-afghanistan-s-nangarhar-province.md) _Context: Afghanistan_
 4. [The Afghan Minister of Defense, Abdullah Habibi and the Chief of Staff of the Afghan National Army, Qadam Shah Shahim, resign after a Taliban attack on Camp Shaheen near Mazar-i-Sharif that claimed over 140 lives. ](/news/2017/04/24/the-afghan-minister-of-defense-abdullah-habibi-and-the-chief-of-staff-of-the-afghan-national-army-qadam-shah-shahim-resign-after-a-taliba.md) _Context: Afghanistan_

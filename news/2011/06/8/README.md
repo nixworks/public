@@ -52,7 +52,7 @@ Plans to offer sentence discounts of up to 50% for an early guilty plea could be
 The Internet has been rolling along for decades on the strength of IPv4 and its numbering system, which has supplied billions of addresses. 
 
 ### [The Russian Federal Space Agency successfully launches a Soyuz TMA-02M carrying a Russian, American and Japanese astronaut towards the International Space Station. ](/news/2011/06/8/the-russian-federal-space-agency-successfully-launches-a-soyuz-tma-02m-carrying-a-russian-american-and-japanese-astronaut-towards-the-inter.md)
-_Context: International Space Station, Japanese, Russian, Russian Federal Space Agency, Soyuz TMA-02M, U.S._
+_Context: International Space Station, Japanese, Russian, Russian Federal Space Agency, Soyuz TMA-02M, United States_
 
 ## [Previous Day...](/news/2011/06/7/index.md)
 

@@ -13,7 +13,7 @@ _Context: July 2006 Java earthquake, tsunami_
 _Context: Iraq, Kufa, car bomb_
 
 ### [ A doctor and two nurses from Memorial Medical Center in the U.S. city of New Orleans are charged with murder in connection with the possible mercy killings of 34 patients in the immediate aftermath of Hurricane Katrina. ](/news/2006/07/18/a-doctor-and-two-nurses-from-memorial-medical-center-in-the-u-s-city-of-new-orleans-are-charged-with-murder-in-connection-with-the-possibl.md)
-_Context: A doctor, Hurricane Katrina, Memorial Medical Center, New Orleans, U.S., murder, whether or not to continue_
+_Context: A doctor, Hurricane Katrina, Memorial Medical Center, New Orleans, United States, murder, whether or not to continue_
 
 ### [ The United States House of Representatives fails to pass a constitutional amendment to ban same-sex marriage with a 236-187 vote; 47 short of the necessary two-thirds support needed to pass an amendment. ](/news/2006/07/18/the-united-states-house-of-representatives-fails-to-pass-a-constitutional-amendment-to-ban-same-sex-marriage-with-a-236-187-vote-47-short.md)
 _Context: United States House of Representatives, constitutional amendment to ban, same-sex marriage_
@@ -25,7 +25,7 @@ _Context: Cape Hatteras, North Carolina, Tropical Storm Beryl, hurricane, state_
 The Crown Princess, owned by Princess Cruises, listed heavily due to a steering problem while on its way to New York on Tuesday, injuring some passengers, Coast Guard officials said.
 
 ### [ Turkey calls for Iraq and the United States to crack down on Kurdish guerrillas based in northern Iraq, and issued a veiled threat to attack the rebel bases if there was no progress.  Meanwhile, the International Crisis Group releases a report entitled "Iraq and the Kurds: The Brewing Battle over Kirkuk" which examines the dangerously neglected looming conflict in and around the northern Iraqi city. ](/news/2006/07/18/turkey-calls-for-iraq-and-the-united-states-to-crack-down-on-kurdish-guerrillas-based-in-northern-iraq-and-issued-a-veiled-threat-to-attac.md)
-_Context: International Crisis Group, Kirkuk, Kurd, Turkish_
+_Context: International Crisis Group, Kirkuk, Kurd, Turkey_
 
 ### [ On the first day of the 90th International Four Days Marches Nijmegen, two participants die of heart failure due to exhaustion caused by the exceptionally warm weather in the Netherlands. Because even higher temperatures are predicted for the second day, the organization decides to cancel the remainder of the event. ](/news/2006/07/18/on-the-first-day-of-the-90th-international-four-days-marches-nijmegen-two-participants-die-of-heart-failure-due-to-exhaustion-caused-by-th.md)
 _Context: International Four Days Marches Nijmegen, Netherlands_

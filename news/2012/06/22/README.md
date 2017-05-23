@@ -1,7 +1,7 @@
 ## [2012-06-22](/news/2012/06/22/index.md)
 
 ### [Syrian uprising (2011-present):The Syrian military shoots down a Turkish F-4 Phantom fighter jet after it had entered Syrian airpsace over the Mediterranean Sea. ](/news/2012/06/22/syrian-uprising-2011-present-pthe-syrian-military-shoots-down-a-turkish-f-4-phantom-fighter-jet-after-it-had-entered-syrian-airpsace-over.md)
-_Context: F-4 Phantom II, Mediterranean Sea, Syria, Syrian Military, Syrian uprising (2011-present), Turkish_
+_Context: F-4 Phantom II, Mediterranean Sea, Syria, Syrian Military, Syrian uprising (2011-present), Turkey_
 
 ### [NATO-backed Afghan security forces end a 12-hour siege carried out by Taliban insurgents on the Spozhmai Hotel outside Kabul, killing all five insurgents. ](/news/2012/06/22/nato-backed-afghan-security-forces-end-a-12-hour-siege-carried-out-by-taliban-insurgents-on-the-spozhmai-hotel-outside-kabul-killing-all-fi.md)
 _Context: Afghanistan, Kabul, NATO, Taliban_

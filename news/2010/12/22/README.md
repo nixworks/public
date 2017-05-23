@@ -25,7 +25,7 @@ More than $4bn committed to help rescuers and residents whose health was affecte
 Flood waters on Tuesday ripped through a retirement community in northwestern Arizona, washing away four homes; Utah, Nevada besieged.
 
 ### [The United States House of Representatives decides not to take up a resolution declaring the mass killings of Armenians early last century a genocide, helping the administration to avoid a diplomatic clash with Turkey. ](/news/2010/12/22/the-united-states-house-of-representatives-decides-not-to-take-up-a-resolution-declaring-the-mass-killings-of-armenians-early-last-century-a.md)
-_Context: Armenian, Turkish, United States House of Representatives, genocide of Armenians_
+_Context: Armenian, Turkey, United States House of Representatives, genocide of Armenians_
 
 ### [The United States Senate votes to ratify the New START Treaty with the Russia, which halves the number of deployed strategic nuclear missile launchers maintained by each nation. ](/news/2010/12/22/the-united-states-senate-votes-to-ratify-the-new-start-treaty-with-the-russia-which-halves-the-number-of-deployed-strategic-nuclear-missile.md)
 _Context: New START Treaty, Russia, United States Senate, nuclear missile_
@@ -56,7 +56,7 @@ _Context: Metropolitan Police Authority, kettling_
 Former Argentine military ruler Jorge Videla is sentenced to life in prison for crimes against humanity.
 
 ### [President of the United States Barack Obama signs into law the Don't Ask, Don't Tell Repeal Act of 2010, which will bring an end the "don't ask, don't tell" policy of discriminating against the presence of openly gay people in the country's military. More than 13,000 people were sacked by the United States under this policy. ](/news/2010/12/22/president-of-the-united-states-barack-obama-signs-into-law-the-don-t-ask-don-t-tell-repeal-act-of-2010-which-will-bring-an-end-the-don-t.md)
-_Context: Barack Obama, Don't Ask, Don't Tell Repeal Act of 2010, U.S. President, don't ask, don't tell, openly gay_
+_Context: Barack Obama, Don't Ask, Don't Tell Repeal Act of 2010, United States President, don't ask, don't tell, openly gay_
 
 ### [The fears of British Liberal Democrat government ministers over policies relating to welfare and tuition fees are secretly recorded by ''The Daily Telegraph'' newspaper. ](/news/2010/12/22/the-fears-of-british-liberal-democrat-government-ministers-over-policies-relating-to-welfare-and-tuition-fees-are-secretly-recorded-by-the.md)
 Fresh secret recording released by a newspaper shows Liberal Democrat ministers expressing concerns over coalition government policies.

@@ -25,7 +25,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 _Context: Balochistan, Islam, Muslim, Pakistan, fatwa, heroin_
 
 ### [ In Turkey, authorities close down the Bosphorus shipping channel after a cargo ship that carried liquiefied petroleum gas sinks due to bad weather. It takes hours for the shipping authorities to collect gas tanks. ](/news/2005/03/13/in-turkey-authorities-close-down-the-bosphorus-shipping-channel-after-a-cargo-ship-that-carried-liquiefied-petroleum-gas-sinks-due-to-bad.md)
-_Context: Bosphorus, Turkish, crude oil_
+_Context: Bosphorus, Turkey, crude oil_
 
 ### [ In Italy, explosion in the Motta di Livenza injures three people. Officials suspect serial bomber ](/news/2005/03/13/in-italy-explosion-in-the-motta-di-livenza-injures-three-people-officials-suspect-serial-bomber.md)
 _Context: Motta di Livenza_

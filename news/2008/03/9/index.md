@@ -1,7 +1,7 @@
 ## [2008-03-9](/news/2008/03/9/index.md)
 
 ### [ Swedish Minister for Foreign Affairs Carl Bildt says that Kosovo may become a European Union member state even if it is not a member of the United Nations. ](/news/2008/03/9/swedish-minister-for-foreign-affairs-carl-bildt-says-that-kosovo-may-become-a-european-union-member-state-even-if-it-is-not-a-member-of-the.md)
-_Context: Carl Bildt, European Union, Foreign Minister, Kosovo, Swedish, United Nations_
+_Context: Carl Bildt, European Union, Foreign Minister, Kosovo, Sweden, United Nations_
 
 ### [ Kosovar Prime Minister Hashim Thai unveils a "Welcome to the Republic of Kosovo" sign (in Albanian, Serbian, and English) at the border with Serbia. ](/news/2008/03/9/kosovar-prime-minister-hashim-thaci-unveils-a-welcome-to-the-republic-of-kosovo-sign-in-albanian-serbian-and-english-at-the-border-wi.md)
 _Context: Albanian, English, Hashim Thai, Kosovo, Prime Minister, Serbia, Serbian_

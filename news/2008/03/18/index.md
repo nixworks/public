@@ -4,10 +4,10 @@
 _Context: Angela Merkel's, Chancellor, German, Israel, Jewish state, parliament in Israel_
 
 ### [ The United States Federal Reserve System cuts the federal funds rate by 75 basis points to 2.25%. ](/news/2008/03/18/the-united-states-federal-reserve-system-cuts-the-federal-funds-rate-by-75-basis-points-to-2-25.md)
-_Context: Federal Reserve System, U.S., federal funds interest rate_
+_Context: Federal Reserve System, United States, federal funds interest rate_
 
 ### [ The United States embassy in Yemen is closed after three mortar shells detonate near the embassy compound. Two people are killed in the attack. ](/news/2008/03/18/the-united-states-embassy-in-yemen-is-closed-after-three-mortar-shells-detonate-near-the-embassy-compound-two-people-are-killed-in-the-att.md)
-_Context: Mortar, U.S., Yemen, embassies_
+_Context: Mortar, United States, Yemen, embassies_
 
 ### [ The Organization of American States condemns Colombia's recent raid into Ecuador's territory as "a clear violation of the OAS charter."  ](/news/2008/03/18/the-organization-of-american-states-condemns-colombia-s-recent-raid-into-ecuador-s-territory-as-a-clear-violation-of-the-oas-charter.md)
 _Context: Colombia, Ecuador, Organization of American States_
@@ -28,7 +28,7 @@ _Context: Beijing, Beijing Olympiad, Bernard Kouchner, Chinese, European Union, 
 _Context: Dutch, Eindhoven, European Swimming Championships, relay_
 
 ### [ Sweden's Supreme Court rules in favor of late film director Vilgot Sjoman who had sued a TV channel for copyright infringement after it ran three commercial breaks during the director's film. ](/news/2008/03/18/swedenas-supreme-court-rules-in-favor-of-late-film-director-vilgot-sjapman-who-had-sued-a-tv-channel-for-copyright-infringement-after-it.md)
-_Context: Supreme Court, Swedish, TV channel, Vilgot Sjoman, advertising, copyright infringement_
+_Context: Supreme Court, Sweden, TV channel, Vilgot Sjoman, advertising, copyright infringement_
 
 ## [Previous Day...](/news/2008/03/17/index.md)
 

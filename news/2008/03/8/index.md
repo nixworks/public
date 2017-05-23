@@ -4,7 +4,7 @@
 Senator Barack Obama beat Senator Hillary Rodham Clinton by a wide margin, continuing his string of victories in caucus states.
 
 ### [ Swedish Minister for Foreign Affairs Carl Bildt becomes the first foreign minister to visit Kosovo since the country declared its independence. ](/news/2008/03/8/swedish-minister-for-foreign-affairs-carl-bildt-becomes-the-first-foreign-minister-to-visit-kosovo-since-the-country-declared-its-independe.md)
-_Context: Carl Bildt, Kosovo, Swedish, unilateral declaration of independence_
+_Context: Carl Bildt, Kosovo, Sweden, unilateral declaration of independence_
 
 ### [ Police in Memphis, Tennessee make an arrest in connection with the killing of four adults and two children. ](/news/2008/03/8/police-in-memphis-tennessee-make-an-arrest-in-connection-with-the-killing-of-four-adults-and-two-children.md)
 _Context: Memphis, Tennessee, police_
@@ -22,7 +22,7 @@ _Context: Vietnam, hamster_
 _Context: Barisan National, Malaysia, Malaysian general election, 2008_
 
 ### [ The United States and Iraq commence talks about the future of relationships between the two nations including a longer term US military presence in Iraq. ](/news/2008/03/8/the-united-states-and-iraq-commence-talks-about-the-future-of-relationships-between-the-two-nations-including-a-longer-term-us-military-pre.md)
-_Context: Iraq, U.S._
+_Context: Iraq, United States_
 
 ## [Previous Day...](/news/2008/03/7/index.md)
 

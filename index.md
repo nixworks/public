@@ -1,13 +1,16 @@
 ## [News](/news/2017/05/22/index.md)
 
-### ["My Family's Slave"A controversial piece written in ''The Atlantic'' magazine about the Filipino servant caste and the Filipino American family involved in it triggers a debate in both the Philippines and the United States. ](/news/2017/05/22/my-family-s-slave-pa-controversial-piece-written-in-the-atlantic-magazine-about-the-filipino-servant-caste-and-the-filipino-american-fa.md)
-Lola and the universality of women’s exploitation
-
 ### [Greater Manchester Police report deadly explosions at Manchester Arena in Manchester, England, at the end of Ariana Grande's performance on her Dangerous Woman Tour. ](/news/2017/05/22/greater-manchester-police-report-deadly-explosions-at-manchester-arena-in-manchester-england-at-the-end-of-ariana-grandeas-performance-o.md)
 The explosion happened at the end of a pop concert by the US singer Ariana Grande.
 
+### ["My Family's Slave"A controversial piece written in ''The Atlantic'' magazine about the Filipino servant caste and the Filipino American family involved in it triggers a debate in both the Philippines and the United States. ](/news/2017/05/22/my-family-s-slave-pa-controversial-piece-written-in-the-atlantic-magazine-about-the-filipino-servant-caste-and-the-filipino-american-fa.md)
+Lola and the universality of women’s exploitation
+
 ### [A giant sinkhole opens up on the street in front of the Mar-a-Lago resort of United States President Donald Trump in Florida. ](/news/2017/05/22/a-giant-sinkhole-opens-up-on-the-street-in-front-of-the-mar-a-lago-resort-of-united-states-president-donald-trump-in-florida.md)
 _Context: Donald Trump, Florida, Mar-a-Lago, United States President, sinkhole_
+
+### [Because of a nationwide shortage of  intravenous sodium bicarbonate (i.e., baking soda solution), United States hospitals are  rationing its use in  heart surgery, chemotherapy, for patients whose blood is too acidic, and  as an antidote to certain poisons. The two primary producers, Amphastar and Pfizer, indicate that supplies will not increase until late June. ](/news/2017/05/22/because-of-a-nationwide-shortage-of-intravenous-sodium-bicarbonate-i-e-baking-soda-solution-united-states-hospitals-are-rationing-its.md)
+_Context: Amphastar, Pfizer, chemotherapy, heart surgery, intravenous sodium bicarbonate_
 
 ### [North Korea's official Korean Central News Agency reports the country's leader, Kim Jong-un, has approved deployment of the  Pukguksong-2 intermediate-range ballistic missile, and ordered mass production  of the system. The United Nations Security Council will hold a closed-door session Tuesday to discuss the test. ](/news/2017/05/22/north-koreaas-official-korean-central-news-agency-reports-the-country-s-leader-kim-jong-un-has-approved-deployment-of-the-pukguksong-2.md)
 The United Nations Security Council will hold a closed-door session Tuesday to discuss the latest missile test. 
@@ -21,7 +24,7 @@ _Context: 2017 clashes at the Turkish Embassy in the United States, Turkey, Unit
 ### [The United States Supreme Court rejects two of North Carolina's congressional districts because they violated the Constitution by relying  too heavily on race in drawing them. ](/news/2017/05/22/the-united-states-supreme-court-rejects-two-of-north-carolina-s-congressional-districts-because-they-violated-the-constitution-by-relying-t.md)
 Redistricting is part of a bare-knuckled fight in North Carolina, where Democrats and Republicans uneasily share political power.
 
-### [U.S. Attorney General Jeff Sessions reneges on his threats against so-called sanctuary cities. ](/news/2017/05/22/u-s-attorney-general-jeff-sessions-reneges-on-his-threats-against-so-called-sanctuary-cities.md)
+### [U.S. Attorney General Jeff Sessions narrows the scope of the order against so-called sanctuary cities. ](/news/2017/05/22/u-s-attorney-general-jeff-sessions-narrows-the-scope-of-the-order-against-so-called-sanctuary-cities.md)
 The move by Attorney General Jeff Sessions comes after a federal judge blocked a key part of the directive, the threat of withholding federal funds.
 
 ### [The temporary protected status of Haitians living in the United States has been extended for six months. ](/news/2017/05/22/the-temporary-protected-status-of-haitians-living-in-the-united-states-has-been-extended-for-six-months.md)

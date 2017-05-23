@@ -13,7 +13,7 @@ _Context: Cambridge, Catherine, Duchess of Cambridge, Duke of Cambridge, Prince 
 Former 1980s pop musician Elizabeth Price was tonight awarded the Turner Prize for her “seductive and immersive” video trilogy, the first video artist to win for over a decade.
 
 ### [The U.S. Supreme Court is allowing former employees of General Motors to pursue a lawsuit against a unit of State Street Corp. over the alleged mismanagement of their retirement savings. ](/news/2012/12/3/the-u-s-supreme-court-is-allowing-former-employees-of-general-motors-to-pursue-a-lawsuit-against-a-unit-of-state-street-corp-over-the-alle.md)
-_Context: General Motors, State Street Corp., U.S. Supreme Court_
+_Context: General Motors, State Street Corp., United States Supreme Court_
 
 ### [The Government of Japan orders an inspection of road tunnels across the country following the Sasago Tunnel collapse on Saturday, December 1. ](/news/2012/12/3/the-government-of-japan-orders-an-inspection-of-road-tunnels-across-the-country-following-the-sasago-tunnel-collapse-on-saturday-december-1.md)
 Japan orders emergency inspections of road tunnels after nine people were killed in a roof collapse west of the capital Tokyo.

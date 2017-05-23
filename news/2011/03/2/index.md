@@ -31,7 +31,7 @@ Bangladeshi Nobel laureate Muhammad Yunus seeks legal advice after the central b
 _Context: BSkyB, Competition Commission, News Corporation, Rupert Murdoch, Sky News_
 
 ### [MetLife, the largest life insurance company in the United States, claims that shares held by the American International Group (AIG) have been sold for $6.35 billion to help pay back the United States government for the bailout. ](/news/2011/03/2/metlife-the-largest-life-insurance-company-in-the-united-states-claims-that-shares-held-by-the-american-international-group-aig-have-bee.md)
-_Context: AIG, MetLife, U.S., life insurance_
+_Context: AIG, MetLife, United States, life insurance_
 
 ### [Apple Inc unveils the latest model of its tablet computer, the iPad 2. ](/news/2011/03/2/apple-inc-unveils-the-latest-model-of-its-tablet-computer-the-ipad-2.md)
 _Context: Apple Inc., iPad 2, tablets_
@@ -76,7 +76,7 @@ _Context: Cyprus, Nicosia, Turkish, Turkish government_
 Senate Republicans stepped up their efforts Wednesday to compel the 14 Senate Democrats who fled Wisconsin two weeks ago to come home.
 
 ### [The President of the United States Barack Obama signs a bill preventing a shutdown of the United States government for another two weeks. ](/news/2011/03/2/the-president-of-the-united-states-barack-obama-signs-a-bill-preventing-a-shutdown-of-the-united-states-government-for-another-two-weeks.md)
-_Context: Barack Obama, U.S. President, United States government_
+_Context: Barack Obama, United States President, United States government_
 
 ### [The South Dakota Senate passes a bill requiring additional steps to provide informed consent before a woman can have an abortion. ](/news/2011/03/2/the-south-dakota-senate-passes-a-bill-requiring-additional-steps-to-provide-informed-consent-before-a-woman-can-have-an-abortion.md)
 After a long and emotional debate, the South Dakota Senate on Wednesday approved a bill requiring additional steps to provide informed consent before a woman can have an abortion.
@@ -88,7 +88,7 @@ _Context: D, Daniel Akaka, Hawaii, Senator, United States Senate election in Haw
 _Context: Dutch provincial elections of 2011, Elections in the Netherlands, Labour Party, People's Party for Freedom and Democracy_
 
 ### [The Eastern Cougar is declared extinct in the United States. ](/news/2011/03/2/the-eastern-cougar-is-declared-extinct-in-the-united-states.md)
-_Context: Eastern Cougar, U.S._
+_Context: Eastern Cougar, United States_
 
 ## [Previous Day...](/news/2011/03/1/index.md)
 

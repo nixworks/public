@@ -10,7 +10,7 @@ _Context: Atlanta, Georgia, Congregationalist, General Synod, United Church of C
 _Context: Bali bomber, Indonesia, Jakarta_
 
 ### [ U.S. Supreme Court Justice Sandra Day O'Connor announces her retirement after 24 years of service on the Court. (n:United States Supreme Court Justice O'Connor to retire) ([http://www.nytimes.com/2005/07/01/politics/01cnd-oconnor.html? NYTimes.com])](/news/2005/07/1/u-s-supreme-court-justice-sandra-day-o-connor-announces-her-retirement-after-24-years-of-service-on-the-court-n-united-states-supreme-co.md)
-_Context: Sandra Day O'Connor, U.S. Supreme Court, n:United States Supreme Court Justice O'Connor to retire_
+_Context: Sandra Day O'Connor, United States Supreme Court, n:United States Supreme Court Justice O'Connor to retire_
 
 ### [ The UK assumes the rotating presidency of the European Union amidst its funding crisis. ([http://news.bbc.co.uk/1/hi/uk_politics/4639683.stm BBC News])](/news/2005/07/1/the-uk-assumes-the-rotating-presidency-of-the-european-union-amidst-its-funding-crisis-http-news-bbc-co-uk-1-hi-uk_politics-4639683-st.md)
 _Context: European Union_

@@ -19,7 +19,7 @@ _Context: North Waziristan, Pakistan, Times Square bomber_
 Pope Benedict XVI has begun a four-day trip to Portugal, during which he is likely to call for solidarity across Europe&#39;s struggling economies and urge people to uphold Christian values.
 
 ### [Gulf of Mexico oil spill:United States Coast Guard commander, Admiral Thad Allen, is appointed by President Obama to lead the federal response to the Gulf of Mexico oil spill. ](/news/2010/05/11/gulf-of-mexico-oil-spill-punited-states-coast-guard-commander-admiral-thad-allen-is-appointed-by-president-obama-to-lead-the-federal-respo.md)
-_Context: Barack Obama, Deepwater Horizon oil spill, Thad Allen, U.S. Coast Guard, U.S. President, admiral_
+_Context: Barack Obama, Deepwater Horizon oil spill, Thad Allen, U.S. Coast Guard, United States President, admiral_
 
 ### [Air travel disruption after the 2010 Eyjafjallajkull eruption:Four airports in the Canary Islands and three in southern Spain are closed, Spain's air traffic control agency Aena said. ](/news/2010/05/11/air-travel-disruption-after-the-2010-eyjafjallajokull-eruption-pfour-airports-in-the-canary-islands-and-three-in-southern-spain-are-closed.md)
 _Context: Aena, Air travel disruption after the 2010 Eyjafjallajkull eruption, Canary Islands', Spain_
@@ -28,7 +28,7 @@ _Context: Aena, Air travel disruption after the 2010 Eyjafjallajkull eruption, C
 _Context: China, Gansu province_
 
 ### [Swedish artist Lars Vilks is headbutted and has his glasses broken by a man sitting in the front row while delivering a lecture about the limits of artistic freedom at Uppsala University, with police using pepper spray and batons on the crowd. ](/news/2010/05/11/swedish-artist-lars-vilks-is-headbutted-and-has-his-glasses-broken-by-a-man-sitting-in-the-front-row-while-delivering-a-lecture-about-the-li.md)
-_Context: Lars Vilks, Swedish, Uppsala University, baton, headbutt, pepper spray_
+_Context: Lars Vilks, Sweden, Uppsala University, baton, headbutt, pepper spray_
 
 ### [South Africa's team manager Sipho Nkumane and commercial director Victor Nosi are suspended by the South African Football Association (SAFA) one month before the start of the 2010 FIFA World Cup. ](/news/2010/05/11/south-africa-s-team-manager-sipho-nkumane-and-commercial-director-victor-nosi-are-suspended-by-the-south-african-football-association-safa.md)
 _Context: 2010 FIFA World Cup, Sipho Nkumane, South Africa national football team, South African Football Association, Victor Nosi_

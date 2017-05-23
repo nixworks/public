@@ -11,7 +11,7 @@ At least nine killed and 20 wounded in suicide attack at funeral in Baghlan prov
 
 ### Related:
 
-1. [A Taliban raid kills at least twenty Afghan police officers in southern Afghanistan. ](/news/2017/05/21/a-taliban-raid-kills-at-least-twenty-afghan-police-officers-in-southern-afghanistan.md) _Context: Afghan, Afghanistan_
+1. [A Taliban raid kills at least 20 Afghan police officers in southern Afghanistan. ](/news/2017/05/21/a-taliban-raid-kills-at-least-20-afghan-police-officers-in-southern-afghanistan.md) _Context: Afghan, Afghanistan_
 2. [Four policemen are killed and another seven wounded when one of their colleagues opened fire on them in Kandahar, Afghanistan. ](/news/2016/02/11/four-policemen-are-killed-and-another-seven-wounded-when-one-of-their-colleagues-opened-fire-on-them-in-kandahar-afghanistan.md) _Context: Afghan, Afghanistan_
 3. [The Afghan government claims that Taliban leader Mohammad Omar died in April 2013 in Pakistan of natural causes. ](/news/2015/07/29/the-afghan-government-claims-that-taliban-leader-mohammad-omar-died-in-april-2013-in-pakistan-of-natural-causes.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
 4. [At least 20 people are killed as gunmen open fire at a wedding celebration in Afghanistan's Baghlan province. ](/news/2015/07/26/at-least-20-people-are-killed-as-gunmen-open-fire-at-a-wedding-celebration-in-afghanistan-s-baghlan-province.md) _Context: Afghanistan, Baghlan province_

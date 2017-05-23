@@ -1,7 +1,7 @@
 ## [2006-10-12](/news/2006/10/12/index.md)
 
 ### [ The Federal Reserve finds that economic growth in the United States is "moderate or mixed" with "widespread cooling" in the housing market. ](/news/2006/10/12/the-federal-reserve-finds-that-economic-growth-in-the-united-states-is-moderate-or-mixed-with-widespread-cooling-in-the-housing-market.md)
-_Context: Federal Reserve, U.S., economic growth, housing market_
+_Context: Federal Reserve, United States, economic growth, housing market_
 
 ### [ Members of the Janjaweed militia attack Sudanese refugees from the Darfur region in eastern Chad. [http://news.bbc.co.uk/2/hi/africa/6042096.stm (BBC)]. ](/news/2006/10/12/members-of-the-janjaweed-militia-attack-sudanese-refugees-from-the-darfur-region-in-eastern-chad-http-news-bbc-co-uk-2-hi-africa-604209.md)
 _Context: Chad, Darfur, Janjaweed, Sudanese, militia_
@@ -22,7 +22,7 @@ _Context: Baghdad, Iraq Insurgency_
 _Context: Amish, Nickel Mines, Pennsylvania_
 
 ### [ Turkish writer Orhan Pamuk, whose novels discover "new symbols for the clash and interlacing of cultures", wins the 2006 Nobel Prize in Literature. ](/news/2006/10/12/turkish-writer-orhan-pamuk-whose-novels-discover-new-symbols-for-the-clash-and-interlacing-of-cultures-wins-the-2006-nobel-prize-in-lit.md)
-_Context: Nobel Prize in Literature, Orhan Pamuk, Turkish_
+_Context: Nobel Prize in Literature, Orhan Pamuk, Turkey_
 
 ## [Previous Day...](/news/2006/10/11/index.md)
 

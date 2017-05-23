@@ -52,7 +52,7 @@ _Context: Dmitry Medvedev, Russian President, Ukrainians_
 A man has been rescued after his light aircraft ditched into the sea off Co Wexford this afternoon.
 
 ### [ Swedish Princess Madeleine announces her engagement to lawyer and longterm boyfriend Jonas Bergstrom, becoming the second royal in Sweden to announce her engagment after Crown Princess Victoria. ](/news/2009/08/11/swedish-princess-madeleine-announces-her-engagement-to-lawyer-and-longterm-boyfriend-jonas-bergstrapm-becoming-the-second-royal-in-sweden.md)
-_Context: Crown Princess Victoria, Jonas Bergstrom, Princess Madeleine, Swedish_
+_Context: Crown Princess Victoria, Jonas Bergstrom, Princess Madeleine, Sweden_
 
 ### [ A Russian woman is arrested after throwing a teacup at the ''Mona Lisa'' portrait in the Louvre, Paris. ](/news/2009/08/11/a-russian-woman-is-arrested-after-throwing-a-teacup-at-the-mona-lisa-portrait-in-the-louvre-paris.md)
 _Context: Louvre, Mona Lisa, Paris, Russia_

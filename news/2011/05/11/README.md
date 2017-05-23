@@ -34,7 +34,7 @@ WikiLeaks founder Julian Assange is given an award by the Sydney Peace Foundatio
 A US report says 48 women and girls are raped every hour in DR Congo, a rate significantly higher than a previous UN estimate.
 
 ### [The trial of United States citizens Josh Fattal and Shane Bauer in Tehran, Iran, on espionage charges is again delayed. ](/news/2011/05/11/the-trial-of-united-states-citizens-josh-fattal-and-shane-bauer-in-tehran-iran-on-espionage-charges-is-again-delayed.md)
-_Context: Iran, Josh Fattal and Shane Bauer, Tehran, U.S., espionage_
+_Context: Iran, Josh Fattal and Shane Bauer, Tehran, United States, espionage_
 
 ### [The Supreme Court of India dismisses a government petition for seven people convicted for their role in the Bhopal disaster in 1984 to receive tougher sentences. ](/news/2011/05/11/the-supreme-court-of-india-dismisses-a-government-petition-for-seven-people-convicted-for-their-role-in-the-bhopal-disaster-in-1984-to-recei.md)
 _Context: Bhopal disaster, Government of India, Supreme Court of India_
@@ -43,7 +43,7 @@ _Context: Bhopal disaster, Government of India, Supreme Court of India_
 _Context: Phillip A. Hamilton, Virginia House of Delegates_
 
 ### [A  judge grants John Hinckley, Jr., the man who tried to assassinate then-President of the United States Ronald Reagan in 1981, additional visits to his family from the Washington, DC psychiatric hospital where he is confined. ](/news/2011/05/11/a-judge-grants-john-hinckley-jr-the-man-who-tried-to-assassinate-then-president-of-the-united-states-ronald-reagan-in-1981-additional-v.md)
-_Context: John Hinckley Jr, Ronald Reagan, U.S. President, Washington DC, shot by John W. Hinckley_
+_Context: John Hinckley Jr, Ronald Reagan, United States President, Washington DC, shot by John W. Hinckley_
 
 ### [Two people are arrested in New York City for allegedly planning a terrorist attack. ](/news/2011/05/11/two-people-are-arrested-in-new-york-city-for-allegedly-planning-a-terrorist-attack.md)
 The suspects, whom a law enforcement official characterized as “homegrown,” intended to carry out a terrorist attack in New York City, law enforcement officials said.

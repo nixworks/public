@@ -31,7 +31,7 @@ Ethiopia says 23 prisoners have died after a fire at a prison where prominent an
 Singapore has added 91 new Zika cases since Friday, with a possible new cluster in the city-state&#039;s east, according to government agencies.
 
 ### [U.S. President Barack Obama and Russian President Vladimir Putin fail to agree on a peace deal regarding the Syrian civil war. ](/news/2016/09/5/u-s-president-barack-obama-and-russian-president-vladimir-putin-fail-to-agree-on-a-peace-deal-regarding-the-syrian-civil-war.md)
-_Context: 2016 G20 Hangzhou summit, Barack Obama, Russian President, Syrian Civil War, U.S. President, Vladimir Putin_
+_Context: 2016 G20 Hangzhou summit, Barack Obama, Russian President, Syrian Civil War, United States President, Vladimir Putin_
 
 ### [U.S. President Barack Obama cancels a scheduled meeting with the President of the Philippines,  Rodrigo Duterte, after Duterte referred to Obama as a "son of a whore", while adding "I am no American puppet", in response to Obama's recent criticism of his war on drugs. ](/news/2016/09/5/u-s-president-barack-obama-cancels-a-scheduled-meeting-with-the-president-of-the-philippines-rodrigo-duterte-after-duterte-referred-to-o.md)
 An intemperate remark from Rodrigo Duterte derailed a bilateral meeting.
@@ -40,7 +40,7 @@ An intemperate remark from Rodrigo Duterte derailed a bilateral meeting.
 North Korea fires three ballistic missiles into the sea off its east coast, South Korea says.
 
 ### [''Philippines v. China''Chinese vessels are seen positioned near the disputed Scarborough Shoal off the coast of the Philippines. ](/news/2016/09/5/philippines-v-china-pchinese-vessels-are-seen-positioned-near-the-disputed-scarborough-shoal-off-the-coast-of-the-philippines.md)
-_Context: China, Philippines v. China, Scarborough Shoal, disputed_
+_Context: China, Philippines v. China, Scarborough Shoal, war_
 
 ### [Nathan Law becomes the youngest-ever Hong Kong legislator at age 23. ](/news/2016/09/5/nathan-law-becomes-the-youngest-ever-hong-kong-legislator-at-age-23.md)
 Nathan Law Kwun-chung, a 23-year-old pro-independence candidate has just been elected to Hong Kong&#39;s legislature.

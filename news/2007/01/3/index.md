@@ -7,7 +7,7 @@ Clashes between Hamas, Fatah result in abductions from both sides, including nep
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ The North Korean Korean Central News Agency reports that Foreign Minister Paek Nam-sun has died, without describing the cause of death. ](/news/2007/01/3/the-north-korean-korean-central-news-agency-reports-that-foreign-minister-paek-nam-sun-has-died-without-describing-the-cause-of-death.md)
-_Context: North Korea, Paek Nam-sun, state media_
+_Context: Korean Central News Agency, North Korea, Paek Nam-sun_
 
 ### [ Fourteen-year-old Michael Perham becomes the youngest person to ever sail single-handedly across the Atlantic Ocean, when he completes a six-week voyage from Gibraltar by docking in Antigua. ](/news/2007/01/3/fourteen-year-old-michael-perham-becomes-the-youngest-person-to-ever-sail-single-handedly-across-the-atlantic-ocean-when-he-completes-a-si.md)
 News and opinion from The Times &amp; The Sunday Times

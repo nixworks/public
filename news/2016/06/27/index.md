@@ -31,7 +31,7 @@ After six years of estrangement over a deadly clash in the waters outside of Gaz
 _Context: Moldovan Prime Minister, Vlad Filat_
 
 ### [The Supreme Court of the United States strikes down a law that would have required abortion clinics in Texas to upgrade in order to meet new "hospital-like" standards. Supporters of abortion rights said that the proposed law would force nearly all abortion clinics in the state to shut down, while their opponents argued for women's health benefits. ](/news/2016/06/27/the-supreme-court-of-the-united-states-strikes-down-a-law-that-would-have-required-abortion-clinics-in-texas-to-upgrade-in-order-to-meet-new.md)
-_Context: Texas, U.S. Supreme Court, Whole Woman's Health v. Hellerstedt_
+_Context: Texas, United States Supreme Court, Whole Woman's Health v. Hellerstedt_
 
 ### [United Kingdom withdrawal from the European Union:Peter Altmaier, German Chancellor Angela Merkel's chief of staff, warns Britain of dire consequences of exit from the European Union, saying in a newspaper interview that UK leaders should not rule out the possibility of another referendum on the same issue. ](/news/2016/06/27/united-kingdom-withdrawal-from-the-european-union-ppeter-altmaier-german-chancellor-angela-merkelas-chief-of-staff-warns-britain-of-dire.md)
 German Chancellor Angela Merkel’s chief of staff urged a time-out in Britain’s exit from the European Union, saying in a newspaper interview that U.K. leaders should pause to consider the implications.

@@ -7,7 +7,7 @@ State media say rebels forced out of areas near Aleppo airport as the UN chooses
 Two US soldiers are shot dead by a local policeman in Afghanistan, officials for the international Nato-led force in the country say.
 
 ### [Turkey urges its citizens not to travel to Lebanon after the kidnapping of two Turkish nationals. ](/news/2012/08/17/turkey-urges-its-citizens-not-to-travel-to-lebanon-after-the-kidnapping-of-two-turkish-nationals.md)
-_Context: Lebanon, Turkish_
+_Context: Lebanon, Turkey_
 
 ### [More than 60 fishermen are rescued after being abducted by pirates in the Bay of Bengal. ](/news/2012/08/17/more-than-60-fishermen-are-rescued-after-being-abducted-by-pirates-in-the-bay-of-bengal.md)
 _Context: Bay of Bengal, Pirate_

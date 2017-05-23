@@ -16,7 +16,7 @@ A video emerges purportedly showing the beheadings of 21 Egyptian Christians who
 12 people were killed and two others injured when a house on which construction work was going on collapsed in Dulhipur locality in Mughalsarai area in Uttar Pradesh, police said today.
 
 ### [A Turkish court remands seventeen police officers into custody for allegedly being part of an illegal wiretapping program targeting politicians, bureaucrats, and businessmen. ](/news/2015/02/15/a-turkish-court-remands-seventeen-police-officers-into-custody-for-allegedly-being-part-of-an-illegal-wiretapping-program-targeting-politici.md)
-_Context: Turkish, wiretapping_
+_Context: Turkey, wiretapping_
 
 ### [Voters in the German city state of Hamburg go to the polls with the governing Social Democratic Party of Germany led by Olaf Scholz retaining power. ](/news/2015/02/15/voters-in-the-german-city-state-of-hamburg-go-to-the-polls-with-the-governing-social-democratic-party-of-germany-led-by-olaf-scholz-retainin.md)
 Angela Merkel’s conservative Christian Democratic Union (CDU) suffered a rather unexpected defeat in regional elections in Hamburg. The election results were the worst for the Christian Democrats since World War II. Merkel’s Christian Democrats received only 16 percent of the vote in the city-state, while the Social Democrats (SPD) took the election with 47 percent &hellip;

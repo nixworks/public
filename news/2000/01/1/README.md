@@ -22,7 +22,7 @@ _Context: Szeged, University of Szeged_
 _Context: IC 814, Indian Airlines, Indian Governement_
 
 ### [Sweden disestablishes the Church of Sweden as the official state religion.](/news/2000/01/1/sweden-disestablishes-the-church-of-sweden-as-the-official-state-religion.md)
-_Context: Lutheran Church, Swedish, state religion_
+_Context: Lutheran Church, Sweden, state religion_
 
 ## [Previous Day...](/news/1999/12/31/index.md)
 

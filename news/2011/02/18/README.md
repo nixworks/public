@@ -52,7 +52,7 @@ Federal prosecutors have shelved a criminal investigation of Angelo R. Mozilo af
 _Context: Japan, Sea Shepherd, whaling_
 
 ### [President of the United States Barack Obama is announced to visit Brazil, Chile and El Salvador from March 19 to 23. ](/news/2011/02/18/president-of-the-united-states-barack-obama-is-announced-to-visit-brazil-chile-and-el-salvador-from-march-19-to-23.md)
-_Context: Barack Obama, Brazil, Chile, El Salvador, U.S. President_
+_Context: Barack Obama, Brazil, Chile, El Salvador, United States President_
 
 ### [Prime Minister of Italy Silvio Berlusconi proposes a reform of the Italian judiciary system restricting  telephone taps, one of the methods used by prosecutors in the Ruby Rubacuori scandal. ](/news/2011/02/18/prime-minister-of-italy-silvio-berlusconi-proposes-a-reform-of-the-italian-judiciary-system-restricting-telephone-taps-one-of-the-methods.md)
 Italian PM Silvio Berlusconi launches an attempt to reform the judicial system, days after being charged with having sex with an under-age prostitute.
@@ -61,10 +61,10 @@ Italian PM Silvio Berlusconi launches an attempt to reform the judicial system, 
 A Chinese-born US geologist loses his appeal against an eight-year sentence in China on charges of stealing state secrets.
 
 ### [A Turkish court jails three journalists associated with a dissident website pending trials on being part of the Ergenekon organisation allegedly plotting to overthrow the Government of Turkey. ](/news/2011/02/18/a-turkish-court-jails-three-journalists-associated-with-a-dissident-website-pending-trials-on-being-part-of-the-ergenekon-organisation-alleg.md)
-_Context: Ergenekon, Turkish, Turkish government, dissident_
+_Context: Ergenekon, Turkey, Turkish government, dissident_
 
 ### [A McCann family spokesman insists reports that Madeleine McCann was taken to the United States after being snatched during a family holiday in Portugal must be treated with caution. ](/news/2011/02/18/a-mccann-family-spokesman-insists-reports-that-madeleine-mccann-was-taken-to-the-united-states-after-being-snatched-during-a-family-holiday.md)
-_Context: Madeleine McCann, Portugal, U.S._
+_Context: Madeleine McCann, Portugal, United States_
 
 ### [New Caledonia's coalition government collapses after the pro-independence Caledonian Union party withdraws its support for President Philippe Gomes in a dispute over the use of New Caledonian flags. ](/news/2011/02/18/new-caledonia-s-coalition-government-collapses-after-the-pro-independence-caledonian-union-party-withdraws-its-support-for-president-philipp.md)
 _Context: Caledonian Union, New Caledonia, New Caledonian flags, Philippe Gomes, President of New Caledonia, coalition government_
@@ -73,7 +73,7 @@ _Context: Caledonian Union, New Caledonia, New Caledonian flags, Philippe Gomes,
 Museveni confident of a fourth term while opposition threatens mass protests if vote is deemed to be rigged.
 
 ### [The ''Washington Post'' reports that United States Senator Jeff Bingaman of New Mexico will announce that he will not contest the 2012 Senate election for New Mexico. ](/news/2011/02/18/the-washington-post-reports-that-united-states-senator-jeff-bingaman-of-new-mexico-will-announce-that-he-will-not-contest-the-2012-senat.md)
-_Context: 2012 Senate election for New Mexico, Jeff Bingaman, New Mexico, Senator, U.S., Washington Post_
+_Context: 2012 Senate election for New Mexico, Jeff Bingaman, New Mexico, Senator, United States, Washington Post_
 
 ### [The Obama administration rescinds most of a regulation designed to protect health care workers who refuse to provide a service that they find objectionable but retains protections against performing abortions when you have strong anti-abortion convictions. ](/news/2011/02/18/the-obama-administration-rescinds-most-of-a-regulation-designed-to-protect-health-care-workers-who-refuse-to-provide-a-service-that-they-fin.md)
 _Context: Obama Administration, abortion, health care, regulation_

@@ -4,7 +4,7 @@
 _Context: Kunar Province, NATO, Taliban, War in Afghanistan_
 
 ### [Thousands of Syrians flee into Turkey as Kurdish fighters come closer to capturing the border town of Tell Abyad from Islamic State in Iraq and the Levant. ](/news/2015/06/14/thousands-of-syrians-flee-into-turkey-as-kurdish-fighters-come-closer-to-capturing-the-border-town-of-tell-abyad-from-islamic-state-in-iraq.md)
-_Context: Islamic State in Iraq and the Levant, Kurdish, Syria, Syrian Civil War, Tell Abyad, Turkish_
+_Context: Islamic State in Iraq and the Levant, Kurdish, Syria, Syrian Civil War, Tell Abyad, Turkey_
 
 ### [Flooding in the Georgian capital, Tbilisi, destroys animal enclosures at a zoo resulting in the release of potentially dangerous animals and the death of three zookeepers and six other people. ](/news/2015/06/14/flooding-in-the-georgian-capital-tbilisi-destroys-animal-enclosures-at-a-zoo-resulting-in-the-release-of-potentially-dangerous-animals-and.md)
 At least 12 people are reported to have died and a number of others were missing following flooding that destroyed enclosures at the zoo in Georgia&#39;s capital of Tbilisi, leaving animals including lions and tigers roaming the city.

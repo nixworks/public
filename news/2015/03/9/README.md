@@ -10,7 +10,7 @@ Two helicopters collide in mid-air over northern Argentina, killing 10 people in
 The lawyer wife of actor George Clooney has asked the United Nations Human Rights Committee (UNHRC) to call on the Philippine government to issue a public apology for violating the rights of former President Gloria Macapagal-Arroyo under the International Covenant on Civil and Political Rights (ICCPR). 
 
 ### [U.S. President Barack Obama signs an executive order declaring Venezuela a national security threat to the U.S. ](/news/2015/03/9/u-s-president-barack-obama-signs-an-executive-order-declaring-venezuela-a-national-security-threat-to-the-u-s.md)
-_Context: Barack Obama, U.S. President, Venezuela, executive order_
+_Context: Barack Obama, United States President, Venezuela, executive order_
 
 ### [The U.S.'s Federal Bureau of Investigation (FBI) Director, James Comey, announces an increased reward of $5 million (up from $1 million, issued in 2012) for information leading to the return of a former FBI agent Robert Levinson (who disappeared March 9, 2007, in Iran and who was paid by the Central Intelligence Agency (CIA) to gather information about Iran's nuclear program). ](/news/2015/03/9/the-u-s-s-federal-bureau-of-investigation-fbi-director-james-comey-announces-an-increased-reward-of-5-million-up-from-1-million-iss.md)
 _Context: Central Intelligence Agency, FBI Director, Federal Bureau of Investigation, Iran, James Comey, Robert Levinson_

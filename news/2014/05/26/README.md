@@ -10,7 +10,7 @@ _Context: 276 girls kidnapped from northern Nigeria, Abuja, Boko Haram, Nigeria_
 _Context: Boko Haram, Islam, Islamist insurgency in Nigeria, Nigeria, Yobe State_
 
 ### [Drugmaker Pfizer says it will not proceed with its attempted $119 billion bid for AstraZeneca. ](/news/2014/05/26/drugmaker-pfizer-says-it-will-not-proceed-with-its-attempted-119-billion-bid-for-astrazeneca.md)
-_Context: AstraZeneca, Pfizer Inc._
+_Context: AstraZeneca, Pfizer_
 
 ### [At least 25 people are killed and 100 injured as a passenger train rams into a goods train in Uttar Pradesh, India.](/news/2014/05/26/at-least-25-people-are-killed-and-100-injured-as-a-passenger-train-rams-into-a-goods-train-in-uttar-pradesh-india.md)
 40 people have died after the Gorakhdham Express rammed a stationary goods train near Khalilabad in Uttar Pradesh, said officials. At least 100 others have been injured.

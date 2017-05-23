@@ -4,7 +4,7 @@
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ A man named Ogn Samast is arrested in Samsun by Turkish authorities for killing Armenian-Turkish writer Hrant Dink. ](/news/2007/01/20/a-man-named-ogun-samast-is-arrested-in-samsun-by-turkish-authorities-for-killing-armenian-turkish-writer-hrant-dink.md)
-_Context: Armenian, Hrant Dink, Ogn  Samast, Samsun, Turkish_
+_Context: Armenian, Hrant Dink, Ogn  Samast, Samsun, Turkey_
 
 ### [ War in Somalia: Somali gunmen attacks government and Ethiopian troops in a crowded market, killing 4 people. ](/news/2007/01/20/war-in-somalia-somali-gunmen-attacks-government-and-ethiopian-troops-in-a-crowded-market-killing-4-people.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

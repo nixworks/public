@@ -11,4 +11,5 @@ After 146 years, the curtain is coming down on &quot;The Greatest Show on Earth.
 
 ### Related:
 
-1. [The American Ringling Bros. and Barnum & Bailey Circus will phase-out the inclusion of elephants in their performances by 2018. ](/news/2015/03/5/the-american-ringling-bros-and-barnum-bailey-circus-will-phase-out-the-inclusion-of-elephants-in-their-performances-by-2018.md) _Context: Ringling Bros. and Barnum & Bailey Circus_
+1. [After 146 years, the Ringling Bros. and Barnum & Bailey Circus comes to a close. ](/news/2017/05/21/after-146-years-the-ringling-bros-and-barnum-bailey-circus-comes-to-a-close.md) _Context: Ringling Bros. and Barnum & Bailey Circus_
+2. [The American Ringling Bros. and Barnum & Bailey Circus will phase-out the inclusion of elephants in their performances by 2018. ](/news/2015/03/5/the-american-ringling-bros-and-barnum-bailey-circus-will-phase-out-the-inclusion-of-elephants-in-their-performances-by-2018.md) _Context: Ringling Bros. and Barnum & Bailey Circus_

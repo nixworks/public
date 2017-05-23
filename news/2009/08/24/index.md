@@ -7,7 +7,7 @@ Pop star Michael Jackson died from a lethal dose of the powerful anesthetic prop
 _Context: BitTorrent, ISP, Stockholm, The Pirate Bay_
 
 ### [ Sweden's TeliaSonera AB announces cash offers worth around $687.7 million in total for shares it doesn't already own in Baltic operators Teo LT and Eesti Telekom. ](/news/2009/08/24/sweden-s-teliasonera-ab-announces-cash-offers-worth-around-687-7-million-in-total-for-shares-it-doesn-t-already-own-in-baltic-operators-te.md)
-_Context: Baltics, Eesti Telekom, Swedish, TeliaSonera, Teo LT_
+_Context: Baltics, Eesti Telekom, Sweden, TeliaSonera, Teo LT_
 
 ### [ Former Cuban leader Fidel Castro appears on television for the first time in more than a year. ](/news/2009/08/24/former-cuban-leader-fidel-castro-appears-on-television-for-the-first-time-in-more-than-a-year.md)
 Former president shown meeting students, suggesting his health has improved.

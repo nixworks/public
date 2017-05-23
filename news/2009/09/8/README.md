@@ -7,7 +7,7 @@ Schoolchildren and their parents on their way to start the new school year were 
 _Context: Milwaukee, North Side Strangler, USA_
 
 ### [ A colossal statue of Apollo is discovered at a UNESCO World Heritage Site at Hierapolis, Turkey. ](/news/2009/09/8/a-colossal-statue-of-apollo-is-discovered-at-a-unesco-world-heritage-site-at-hierapolis-turkey.md)
-_Context: Apollo, Hierapolis, Turkish, UNESCO, World Heritage Site, statue_
+_Context: Apollo, Hierapolis, Turkey, UNESCO, World Heritage Site, statue_
 
 ### [ Two Norwegians, Joshua French and Tjostolv Moland, on trial for alleged murder and espionage, are found guilty on both counts and sentenced to death by a Congolese military tribunal.  ](/news/2009/09/8/two-norwegians-joshua-french-and-tjostolv-moland-on-trial-for-alleged-murder-and-espionage-are-found-guilty-on-both-counts-and-sentenced.md)
 _Context: Democratic Republic of Congo, Joshua French and Tjostolv Moland, Norway, espionage, murder_

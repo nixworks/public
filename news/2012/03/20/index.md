@@ -19,7 +19,7 @@ An actor who featured in the Harry Potter films is jailed for two years for taki
 _Context: India_
 
 ### [The U.S. Supreme Court unanimously rejects two patents held by Prometheus Laboratories, a unit of Nestle S.A., continuing a trend in recent years toward a narrowing of the grounds of patentability. ](/news/2012/03/20/the-u-s-supreme-court-unanimously-rejects-two-patents-held-by-prometheus-laboratories-a-unit-of-nestla-c-s-a-continuing-a-trend-in-recent.md)
-_Context: Nestle S.A., Prometheus Laboratories, U.S. Supreme Court, patent_
+_Context: Nestle S.A., Prometheus Laboratories, United States Supreme Court, patent_
 
 ### [A 7.4-magnitude earthquake strikes near the border of the Mexican states of Guerrero and Oaxaca. ](/news/2012/03/20/a-7-4-magnitude-earthquake-strikes-near-the-border-of-the-mexican-states-of-guerrero-and-oaxaca.md)
 _Context: 7.4-magnitude earthquake, Guerrero, Mexican state, Oaxaca_

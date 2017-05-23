@@ -43,7 +43,7 @@ Japanese researchers have found radiation in all 15 people tested last month fro
 Tropical Storm Meari raked the west coast of South Korea over the weekend, leaving at least nine people dead and three missing, the National Emergency Management Agency (NEMA) said Monday.
 
 ### [1 person is killed and 17 others are injured in a gas station explosion in Urfa, Turkey. ](/news/2011/06/27/1-person-is-killed-and-17-others-are-injured-in-a-gas-station-explosion-in-urfa-turkey.md)
-_Context: Turkish, Urfa_
+_Context: Turkey, Urfa_
 
 ### [Las Conchas WildfireThe Los Alamos National Laboratory in the U.S. state of New Mexico is temporarily closed due to a wildfire burning nearby. ](/news/2011/06/27/las-conchas-wildfirepthe-los-alamos-national-laboratory-in-the-u-s-state-of-new-mexico-is-temporarily-closed-due-to-a-wildfire-burning-near.md)
 A raging wildfire near the Los Alamos National Laboratory in New Mexico has prompted the evacuation of more than 10,000 residents in the town as firefighters battle hot temperatures and high winds, authorities said Monday.
@@ -67,7 +67,7 @@ British military advisers sent to Pakistan to help in the fight against the Tali
 The Israeli foreign ministry on Sunday rejected as &quot;ludicrous&quot; suggestions that Israel and the United States were using economic pressure to force fiscally strapped Greece into preventing boats from participating in an international flotilla to Gaza.
 
 ### [''Brown v. Entertainment Merchants Association'': In a 7-2 decision, the Supreme Court of the United States strikes down a 2005 California law prohibiting minors' access to violent or offensive video games, citing them as protected speech under the First Amendment. ](/news/2011/06/27/brown-v-entertainment-merchants-association-in-a-7-2-decision-the-supreme-court-of-the-united-states-strikes-down-a-2005-california-l.md)
-_Context: Brown v. Entertainment Merchants Association, California, U.S. Supreme Court, freedom of speech, violent or offensive video games_
+_Context: Brown v. Entertainment Merchants Association, California, United States Supreme Court, freedom of speech, violent or offensive video games_
 
 ### [A United Nations-backed tribunal in Cambodia holds its first hearings in the trial of four former senior Khmer Rouge officials, including former head of state Khieu Samphan and Pol Pot's deputy Nuon Chea. ](/news/2011/06/27/a-united-nations-backed-tribunal-in-cambodia-holds-its-first-hearings-in-the-trial-of-four-former-senior-khmer-rouge-officials-including-fo.md)
 _Context: Cambodia, Khieu Samphan, Khmer Rouge, Nuon Chea, Pol Pot, United Nations, head of state_

@@ -37,7 +37,7 @@ The Chinese Army is believed to have built an underground &quot;Great Wall&quot;
 _Context: Austria, Hypo Alpe-Adria-Bank International_
 
 ### [ TeliaSonera opens the world's first 4G LTE cellular network for public in Oslo, Norway, and Stockholm, Sweden. ](/news/2009/12/14/teliasonera-opens-the-world-s-first-4g-lte-cellular-network-for-public-in-oslo-norway-and-stockholm-sweden.md)
-_Context: 4G, LTE, Norway, Oslo, Stockholm, Swedish, TeliaSonera, cellular network_
+_Context: 4G, LTE, Norway, Oslo, Stockholm, Sweden, TeliaSonera, cellular network_
 
 ## [Previous Day...](/news/2009/12/13/index.md)
 

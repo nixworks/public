@@ -1,7 +1,7 @@
 ## [2011-09-5](/news/2011/09/5/index.md)
 
 ### [Turkish air force strikes kill four members of the PKK in Northern Iraq. ](/news/2011/09/5/turkish-air-force-strikes-kill-four-members-of-the-pkk-in-northern-iraq.md)
-_Context: Iraqi Kurdistan, Kurdistan Workers' Party, Turkish, Turkish_
+_Context: Iraqi Kurdistan, Kurdistan Workers' Party, Turkey, Turkish_
 
 ### [One person is killed and two injured by Iranian artillery shelling near the Iraqi border town of Siydah Khan, near Arbil. ](/news/2011/09/5/one-person-is-killed-and-two-injured-by-iranian-artillery-shelling-near-the-iraqi-border-town-of-siydah-khan-near-arbil.md)
 _Context: Arbil, Iran, Iraq_

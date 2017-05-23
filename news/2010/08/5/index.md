@@ -112,7 +112,7 @@ The date for long-delayed presidential elections in Ivory Coast is set, in a mov
 Hip hop star Wyclef Jean formally registers to stand for president of his native Haiti as it rebuilds after the earthquake.
 
 ### [The United States Senate confirms the nomination of Elena Kagan as an associate justice of the U.S. Supreme Court. ](/news/2010/08/5/the-united-states-senate-confirms-the-nomination-of-elena-kagan-as-an-associate-justice-of-the-u-s-supreme-court.md)
-_Context: Elena Kagan, Justice, U.S. Supreme Court, United States Senate, confirms_
+_Context: Elena Kagan, Justice, United States Senate, United States Supreme Court, confirms_
 
 ### [Newly released files, which can be ](/news/2010/08/5/newly-released-files-which-can-be.md)
 Wartime British prime minister Winston Churchill banned the reporting of an alleged UFO incident because of fears it would create mass panic, according to new claims made public.
@@ -124,7 +124,7 @@ _Context: 2010 Commonwealth Games, Anil Khanna, Delhi_
 Uruguay striker Diego Forlan attracts huge crowds in the Indian city of Calcutta.
 
 ### [In United States baseball, a group led by Nolan Ryan buys the Texas Rangers at a bankruptcy auction. ](/news/2010/08/5/in-united-states-baseball-a-group-led-by-nolan-ryan-buys-the-texas-rangers-at-a-bankruptcy-auction.md)
-_Context: Nolan Ryan, Texas Rangers, U.S., baseball game_
+_Context: Nolan Ryan, Texas Rangers, United States, baseball game_
 
 ## [Previous Day...](/news/2010/08/4/index.md)
 

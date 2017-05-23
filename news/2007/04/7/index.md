@@ -1,7 +1,7 @@
 ## [2007-04-7](/news/2007/04/7/index.md)
 
 ### [ Turkish soldiers are killed in a clash with Kurdistan Workers' Party forces in Sirnak province. ](/news/2007/04/7/turkish-soldiers-are-killed-in-a-clash-with-kurdistan-workers-party-forces-in-aa-rnak-province.md)
-_Context: Kurdistan Workers' Party, Sirnak Province, Turkish_
+_Context: Kurdistan Workers' Party, Sirnak Province, Turkey_
 
 ### [ A recently released Iranian diplomat claims that he was tortured by the CIA while in captivity in Iraq. ](/news/2007/04/7/a-recently-released-iranian-diplomat-claims-that-he-was-tortured-by-the-cia-while-in-captivity-in-iraq.md)
 _Context: Central Intelligence Agency, Foreign relations of Iran, Iran, Iraq, torture_

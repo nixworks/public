@@ -10,7 +10,7 @@ _Context: Mercedes-Benz, People's Republic of China_
 _Context: US$, United States trade deficit, billion_
 
 ### [The North American International Auto Show (NAIAS) is held in Detroit, Michigan, US. Green vehicles are seen as a response to the late 2000s recession. Automotive News World Congress is held at the Renaissance Center. ](/news/2010/01/13/the-north-american-international-auto-show-naias-is-held-in-detroit-michigan-us-green-vehicles-are-seen-as-a-response-to-the-late-2000s.md)
-_Context: Detroit, Green vehicle, Michigan, North American International Auto Show, Renaissance Center, U.S., late 2000s recession_
+_Context: Detroit, Green vehicle, Michigan, North American International Auto Show, Renaissance Center, United States, late 2000s recession_
 
 ### [Shares in Japan Airlines fall by 81%. ](/news/2010/01/13/shares-in-japan-airlines-fall-by-81.md)
 _Context: Japan Airlines_
@@ -22,7 +22,7 @@ _Context: Amsterdam, Arkefly, Boeing 767, Netherlands Antilles, Shannon Airport_
 _Context: Burkina Faso, Guinea, Moroccan, Moussa Dadis Camara_
 
 ### [Turkey threatens to recall its ambassador from Israel over a dispute involving Turkey's ambassador to the country. Israel apologized later. ](/news/2010/01/13/turkey-threatens-to-recall-its-ambassador-from-israel-over-a-dispute-involving-turkey-s-ambassador-to-the-country-israel-apologized-later.md)
-_Context: Israel, Turkish_
+_Context: Israel, Turkey_
 
 ### [The Kiev Court of Appeal accuses Joseph Stalin and other leaders of the former Soviet Union and Soviet Ukraine of organizing mass famine in Ukraine in 1932-1933. ](/news/2010/01/13/the-kiev-court-of-appeal-accuses-joseph-stalin-and-other-leaders-of-the-former-soviet-union-and-soviet-ukraine-of-organizing-mass-famine-in.md)
 _Context: Court of Appeal, Joseph Stalin, Kiev, Soviet, Soviet Ukraine, famine in Ukraine in 1932-1933_

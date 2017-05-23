@@ -10,7 +10,7 @@ Mutinous soldiers said they seized power in Mali on Thursday and ordered its bor
 _Context: 2011-2012 Syrian uprising, Aleppo, Damascus, Daraa, Hama, Homs, Idlib, Lattakia, military_
 
 ### [12 people are killed in an operation against PKK rebels in southeastern Turkey. ](/news/2012/03/22/12-people-are-killed-in-an-operation-against-pkk-rebels-in-southeastern-turkey.md)
-_Context: Kurdistan Workers' Party, Turkish_
+_Context: Kurdistan Workers' Party, Turkey_
 
 ### [Several thousands of students in Montreal, Canada protest against proposed post-secondary education tuition hikes. ](/news/2012/03/22/several-thousands-of-students-in-montreal-canada-protest-against-proposed-post-secondary-education-tuition-hikes.md)
 _Context: Montreal, Canada_

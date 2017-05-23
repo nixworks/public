@@ -43,7 +43,7 @@ _Context: Afghanistan, Kandahar Province, suicide bomber_
 U.S. President George W. Bush on Saturday approved a pre-landfall emergency declaration for Texas to provide federal help if the state is hit by Hurricane Dean, White House spokesman Gordon Johndroe said.
 
 ### [ An Atlas Jet plane en route from Nicosia in Cyprus to Istanbul in Turkey is hijacked. Some passengers were freed while the plane refueled in Antalya in southern Turkey. All 142 people escape unhurt while the hijackers surrender. ](/news/2007/08/18/an-atlas-jet-plane-en-route-from-nicosia-in-cyprus-to-istanbul-in-turkey-is-hijacked-some-passengers-were-freed-while-the-plane-refueled-i.md)
-_Context: Antalya, Atlas Jet, Cyprus, Istanbul, Nicosia, Turkish, aircraft piracy_
+_Context: Antalya, Atlas Jet, Cyprus, Istanbul, Nicosia, Turkey, aircraft piracy_
 
 ### [ Pakistani President Pervez Musharraf says he will contend in the upcoming presidential election "because the country needs him." ](/news/2007/08/18/pakistani-president-pervez-musharraf-says-he-will-contend-in-the-upcoming-presidential-election-because-the-country-needs-him.md)
 _Context: Pakistan, Pervez Musharraf, President, upcoming presidential election_

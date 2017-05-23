@@ -7,7 +7,7 @@ _Context: Burma, Chinese_
 _Context: 2014 pro-Russian unrest in Ukraine, Belgorod, Bryansk, Rostov, Russian President, Vladimir Putin_
 
 ### [AstraZeneca rejects the latest, and likely the last, takeover price from Pfizer, close to 70 billion pounds or US$118 billion.  ](/news/2014/05/19/astrazeneca-rejects-the-latest-and-likely-the-last-takeover-price-from-pfizer-close-to-70-billion-pounds-or-us-118-billion.md)
-_Context: AstraZeneca, Pfizer Inc._
+_Context: AstraZeneca, Pfizer_
 
 ### [Sinking of the MV ''Sewol'':Park Geun-Hye, the President of South Korea, announces that the Republic of Korea Coast Guard will be broken up in the wake of the ferry disaster. ](/news/2014/05/19/sinking-of-the-mv-sewol-ppark-geun-hye-the-president-of-south-korea-announces-that-the-republic-of-korea-coast-guard-will-be-broken-up.md)
 South Korea plans to break up its coastguard in the wake of the ferry disaster in which more than 300 people died, says President Park Geun-hye.

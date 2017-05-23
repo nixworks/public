@@ -4,7 +4,7 @@
 _Context: 2006, Sri Lanka, massacre of 17 aid workers_
 
 ### [ The Swedish national postal service will merge with its Danish counterpart, the new group will be based in Stockholm. ](/news/2008/04/1/the-swedish-national-postal-service-will-merge-with-its-danish-counterpart-the-new-group-will-be-based-in-stockholm.md)
-_Context: Denmark, Stockholm, Swedish, counterpart, postal service_
+_Context: Denmark, Stockholm, Sweden, counterpart, postal service_
 
 ### [ Finland's Foreign Minister Ilkka Kanerva is forced to resign after a scandal involving 200 text messages sent to a stripper. ](/news/2008/04/1/finland-s-foreign-minister-ilkka-kanerva-is-forced-to-resign-after-a-scandal-involving-200-text-messages-sent-to-a-stripper.md)
 _Context: Finland, Ilkka Kanerva, stripper, text messages_

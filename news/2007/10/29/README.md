@@ -28,7 +28,7 @@ Regulators hailed the arrests, made during a nationwide crackdown on tainted foo
 _Context: Nepal, Richter scale, earthquake, magnitude_
 
 ### [ All banks and post offices in Borlnge, Sweden, are kept closed by the local police due to an "elevated risk level of bank robbery". ](/news/2007/10/29/all-banks-and-post-offices-in-borlange-sweden-are-kept-closed-by-the-local-police-due-to-an-elevated-risk-level-of-bank-robbery.md)
-_Context: Borlnge, Swedish, bank robbery_
+_Context: Borlnge, Sweden, bank robbery_
 
 ### [ Kasereka Kabamba, a Mai Mai militia leader in the Democratic Republic of the Congo, surrenders to Nord-Kivu Army Chief Vainqueur Mayala. Kabamba maintains his forces fought against rebels loyal to Laurent Kabila, in the service of the government. ](/news/2007/10/29/kasereka-kabamba-a-mai-mai-militia-leader-in-the-democratic-republic-of-the-congo-surrenders-to-nord-kivu-army-chief-vainqueur-mayala-ka.md)
 _Context: Democratic Republic of the Congo, Kasereka Kabamba, Laurent Kabila, Mai Mai, Nord-Kivu_

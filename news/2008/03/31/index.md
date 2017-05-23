@@ -10,7 +10,7 @@ _Context: City Council, Manhattan, Mayor, Michael Bloomberg_
 _Context: Belgrade, Dragan Sutanovac, Kosovo, Serbia, Vojislav Kostunica_
 
 ### [ The Italian city of Milan is selected to host the 2015 World Exposition after winning 86 to 65 in a vote against Turkish Izmir. ](/news/2008/03/31/the-italian-city-of-milan-is-selected-to-host-the-2015-world-exposition-after-winning-86-to-65-in-a-vote-against-turkish-adegzmir.md)
-_Context: Expo 2015, Italian, Izmir, Milan, Turkish_
+_Context: Expo 2015, Italian, Izmir, Milan, Turkey_
 
 ### [ War in Somalia (2008): Somali Islamists have seized control of a central town after clashes with government forces that left 11 people dead, residents and Islamists said. ](/news/2008/03/31/war-in-somalia-2008-somali-islamists-have-seized-control-of-a-central-town-after-clashes-with-government-forces-that-left-11-people-dead.md)
 _Context: 2008, two years of helping_

@@ -1,7 +1,7 @@
 ## [2008-12-7](/news/2008/12/7/index.md)
 
 ### [ Mary Jo Kilroy wins the final outstanding United States House of Representatives seat in the 2008 general elections by capturing the 15th congressional district of Ohio. This translates to an overall gain of 21 seats for the Democratic Party in the House. ](/news/2008/12/7/mary-jo-kilroy-wins-the-final-outstanding-united-states-house-of-representatives-seat-in-the-2008-general-elections-by-capturing-the-15th-c.md)
-_Context: 2008 general elections, D, Mary Jo Kilroy, Ohio, U.S., United States House of Representatives, capturing the 15th congressional district_
+_Context: 2008 general elections, D, Mary Jo Kilroy, Ohio, United States, United States House of Representatives, capturing the 15th congressional district_
 
 ### [ The government of the People's Republic of China lodges a protest for a meeting between French President Nicolas Sarkozy and the Dalai Lama in Poland. ](/news/2008/12/7/the-government-of-the-people-s-republic-of-china-lodges-a-protest-for-a-meeting-between-french-president-nicolas-sarkozy-and-the-dalai-lama.md)
 _Context: Dalai Lama, France, Nicolas Sarkozy, People's Republic of China, Poland, President of France, government_

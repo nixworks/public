@@ -40,10 +40,10 @@ As soon as the guided-missile destroyer USS Lassen breached 12-nautical-mile ter
 The Obama administration is moving to increase and accelerate the number of Syrian refugees who might be admitted into the United States by opening new screening outposts in Iraq and Lebanon, administration officials told Reuters on Friday.
 
 ### [The U.S Air Force deploys six F-15C fighter jets to Turkey's  Incirlik Air Base to help defend Turkish airspace against potential intruders. ](/news/2015/11/6/the-u-s-air-force-deploys-six-f-15c-fighter-jets-to-turkey-s-incirlik-air-base-to-help-defend-turkish-airspace-against-potential-intruders.md)
-_Context: F-15, Incirlik Air Base, Turkey-United States relations, Turkish, United States Air Force, international airspace_
+_Context: F-15, Incirlik Air Base, Turkey, Turkey-United States relations, United States Air Force, international airspace_
 
 ### [Egypt receives the final four of its order of 20 Lockheed Martin F-16 Block 52 multi-role fighters, according to the Defense Ministry. The United States had delayed delivery   following the 2013 coup d'etat. ](/news/2015/11/6/egypt-receives-the-final-four-of-its-order-of-20-lockheed-martin-f-16-block-52-multi-role-fighters-according-to-the-defense-ministry-the-u.md)
-_Context: 2013 coup d'etat, Defense Ministry, Egypt, Egypt-United States relations, Lockheed Martin F-16 Block 52 multi-role fighters, U.S._
+_Context: 2013 coup d'etat, Defense Ministry, Egypt, Egypt-United States relations, Lockheed Martin F-16 Block 52 multi-role fighters, United States_
 
 ### [Okinawa Governor Takeshi Onaga says he "cannot comply with the recommendation" from Tokyo's Land Minister Keiichi Ishii, and will not retract his revocation of a U.S. military base relocation permit. ](/news/2015/11/6/okinawa-governor-takeshi-onaga-says-he-cannot-comply-with-the-recommendation-from-tokyo-s-land-minister-keiichi-ishii-and-will-not-retrac.md)
 A dispute in Okinawa is escalating after the governor of the island refused to retract a revocation of a U.S. military base relocation permit.

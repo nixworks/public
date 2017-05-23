@@ -10,13 +10,13 @@ _Context: (Wikinews), Belgian Army, Belgium, Bloed, Bodem, Eer en Trouw, negatio
 _Context: Ibb, Saleh, Yemen, Yemeni President, stampede_
 
 ### [ Tom Noe, a rare-coin dealer and fundraiser for the United States Republican Party, is sentenced to two years jail for illegally channelling US$45,000 into President George W. Bush's re-election campaign. ](/news/2006/09/12/tom-noe-a-rare-coin-dealer-and-fundraiser-for-the-united-states-republican-party-is-sentenced-to-two-years-jail-for-illegally-channelling.md)
-_Context: George W. Bush, R, Tom Noe, U.S., U.S. President, US$_
+_Context: George W. Bush, R, Tom Noe, US$, United States, United States President_
 
 ### [ Norwegian politician Erik Solheim announces that the Government of Sri Lanka and the Tamil Tigers have agreed to hold "unconditional peace talks" in October in Oslo. The Sri Lankan government denies ever agreeing to talks without conditions, and criticizes the Government of Norway for violating Sri Lankan sovereignty. ](/news/2006/09/12/norwegian-politician-erik-solheim-announces-that-the-government-of-sri-lanka-and-the-tamil-tigers-have-agreed-to-hold-unconditional-peace.md)
 _Context: Erik Solheim, Norway, Oslo, Tamil Tigers, government, government of Norway_
 
 ### [ An explosion in Diyarbakir in the mainly Kurdish southeast of Turkey kills at least seven people, five of whom were children, and injures 14. ](/news/2006/09/12/an-explosion-in-diyarbakir-in-the-mainly-kurdish-southeast-of-turkey-kills-at-least-seven-people-five-of-whom-were-children-and-injures-1.md)
-_Context: Diyarbakir, Kurd, Turkish_
+_Context: Diyarbakir, Kurd, Turkey_
 
 ### [ Japan's new baby prince is officially named Hisahito. ](/news/2006/09/12/japan-s-new-baby-prince-is-officially-named-hisahito.md)
 _Context: Hisahito, Japan_

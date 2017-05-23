@@ -13,7 +13,7 @@ _Context: Andrs Manuel Lpez Obrador, Disputed Mexican election, Federal Electora
 _Context: Comptroller, Ehud Olmert, Israel, Likud Party, Micha Lindenstrauss_
 
 ### [ Three bombs explode in the Turkish coastal town of Marmaris following an explosion in Istanbul shortly after midnight local time (2100 UTC Sunday). At least 22 people have been injured in the explosions. A further explosion occurred hours later in nearby Antalya, killing at least three people. ](/news/2006/08/28/three-bombs-explode-in-the-turkish-coastal-town-of-marmaris-following-an-explosion-in-istanbul-shortly-after-midnight-local-time-2100-utc.md)
-_Context: Antalya, Istanbul, Marmaris, Turkish_
+_Context: Antalya, Istanbul, Marmaris, Turkey_
 
 ### [ Dozens are killed in an explosion at a disused pipeline near Diwaniya, Iraq, apparently while scavenging for petrol.](/news/2006/08/28/dozens-are-killed-in-an-explosion-at-a-disused-pipeline-near-diwaniya-iraq-apparently-while-scavenging-for-petrol.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

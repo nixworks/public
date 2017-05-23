@@ -13,7 +13,7 @@ _Context: Iraq, Karbala, bombing occurs, mosque_
 _Context: Aftab Ahmad Khan Sherpao, Pakistan, suicide bombing_
 
 ### [ Turkey's army warns against questioning the country's secular system after a disputed first-round presidential vote in parliament. ](/news/2007/04/28/turkey-s-army-warns-against-questioning-the-country-s-secular-system-after-a-disputed-first-round-presidential-vote-in-parliament.md)
-_Context: Turkish, first-round presidential vote_
+_Context: Turkey, first-round presidential vote_
 
 ### [ An earthquake of magnitude 4.3 on the Richter scale strikes Kent, England. ](/news/2007/04/28/an-earthquake-of-magnitude-4-3-on-the-richter-scale-strikes-kent-england.md)
 _Context: An earthquake, England, Kent, Richter scale_
@@ -22,7 +22,7 @@ _Context: An earthquake, England, Kent, Richter scale_
 _Context: 29th Dil, Irish general election, Mary McAleese, President, Republic of Ireland_
 
 ### [ 80,000 people gather throughout the United States joining 'Displace Me' to raise awareness of displaced refugees in Northern Uganda. ](/news/2007/04/28/80-000-people-gather-throughout-the-united-states-joining-displace-me-to-raise-awareness-of-displaced-refugees-in-northern-uganda.md)
-_Context: Displace Me, U.S._
+_Context: Displace Me, United States_
 
 ## [Previous Day...](/news/2007/04/27/index.md)
 

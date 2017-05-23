@@ -4,7 +4,7 @@
 A group of ultra-Orthodox Jews attempting to illegally visit a holy site in the West Bank set ablaze last week were assaulted by Palestinians while five were also arrested, authorities said today.
 
 ### [Turkish police conduct pre-dawn raids on 17 locations in Istanbul and detain some 50 people suspected of being linked to the Islamic State group, according to Turkey's state-run news agency. ](/news/2015/10/18/turkish-police-conduct-pre-dawn-raids-on-17-locations-in-istanbul-and-detain-some-50-people-suspected-of-being-linked-to-the-islamic-state-g.md)
-_Context: Islamic State, Istanbul, Turkey-ISIL conflict, Turkish, Turkish police_
+_Context: Islamic State, Istanbul, Turkey, Turkey-ISIL conflict, Turkish police_
 
 ### [Two Turkish soldiers are killed after a roadside bomb hit their vehicle in the eastern Tunceli Province. ](/news/2015/10/18/two-turkish-soldiers-are-killed-after-a-roadside-bomb-hit-their-vehicle-in-the-eastern-tunceli-province.md)
 Two Turkish soldiers were killed when a roadside bomb hit their vehicle in the province of Tunceli, security sources said on Sunday, bringing the military death toll in two days of violence in the predominantly Kurdish east to six.

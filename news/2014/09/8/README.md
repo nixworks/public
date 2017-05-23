@@ -10,7 +10,7 @@ Pro-Russian rebels have released 1,200 people they had taken captive, Ukrainian 
 The Duchess of Cambridge is pregnant with her second child, Kensington Palace announces.
 
 ### [Sweden's AB Electrolux, the parent company of the U.S. brands Electrolux and Frigidaire, buys General Electric's appliances business for $3.3 billion. ](/news/2014/09/8/sweden-s-ab-electrolux-the-parent-company-of-the-u-s-brands-electrolux-and-frigidaire-buys-general-electric-s-appliances-business-for-3.md)
-_Context: Electrolux, General Electric, Swedish_
+_Context: Electrolux, General Electric, Sweden_
 
 ### [American food manufacturer General Mills buys organic food producer Annie's Homegrown for $820 million. ](/news/2014/09/8/american-food-manufacturer-general-mills-buys-organic-food-producer-annie-s-homegrown-for-820-million.md)
 General Mills will acquire organic food producer Annie&#039;s for about $820M in cash as it works to boost its presence in the natural food space. 

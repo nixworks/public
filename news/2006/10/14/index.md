@@ -13,7 +13,7 @@ _Context: 2006, North Korea, Resolution 1718, United Nations Security Council_
 _Context: Anglo-Saxon, Battle of Hastings, England, King Harold II, Norman conquest, Normandy, Sussex, UK, William_
 
 ### [ Maria Borelius, Minister for Foreign Trade in the Cabinet of Fredrik Reinfeldt in Sweden, resigns after one week in office following allegations of tax evasion. ](/news/2006/10/14/maria-borelius-minister-for-foreign-trade-in-the-cabinet-of-fredrik-reinfeldt-in-sweden-resigns-after-one-week-in-office-following-allega.md)
-_Context: Cabinet of Fredrik Reinfeldt, Maria Borelius, Swedish_
+_Context: Cabinet of Fredrik Reinfeldt, Maria Borelius, Sweden_
 
 ### [ Chelsea FC goalkeepers Petr Cech and Carlo Cudicini both suffered serious injuries in a game against Reading FC. Cech suffered a depressed fracture of the skull after colliding with Reading midfielder Stephen Hunt. The injury kept him out of action until January 20, 2007. Cudicini suffered concussion after colliding with Reading defender Ibrahima Sonko as the ball curled in from a corner. John Terry took the position as goalkeeper for the remainder of the game.](/news/2006/10/14/chelsea-fc-goalkeepers-petr-aech-and-carlo-cudicini-both-suffered-serious-injuries-in-a-game-against-reading-fc-cech-suffered-a-depressed.md)
 _Context: Chelsea FC, Cudicini, Ibrahima Sonko, John Terry, Petr Cech, Reading FC, Stephen Hunt, concussion, depressed fracture of the skull_

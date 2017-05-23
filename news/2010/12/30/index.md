@@ -58,7 +58,7 @@ _Context: Thailand, yellow shirt_
 Four Belarus opposition figures are charged with organising riots after the re-election of President Alexander Lukashenko.
 
 ### [Anders Hogstrom, a Swedish man, is sentenced to two years and eight months imprisonment after being convicted of orchestrating the theft of Arbeit macht frei from the Auschwitz entry gate last December. ](/news/2010/12/30/anders-hogstrom-a-swedish-man-is-sentenced-to-two-years-and-eight-months-imprisonment-after-being-convicted-of-orchestrating-the-theft-of.md)
-_Context: Arbeit macht frei, Auschwitz, Swedish_
+_Context: Arbeit macht frei, Auschwitz, Sweden_
 
 ### [Minnesota sues 3M claiming they pumped PFCs, a very toxic chemical according to the United States Environmental Protection Agency, into local waterways.](/news/2010/12/30/minnesota-sues-3m-claiming-they-pumped-pfcs-a-very-toxic-chemical-according-to-the-united-states-environmental-protection-agency-into-loca.md)
 _Context: 3M, Minnesota, PFC, the agency, toxic_

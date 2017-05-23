@@ -25,7 +25,7 @@ Total indicates that $14.02 million worth of recreational pot was sold.
 _Context: JoS. A. Bank Clothiers, Men's Wearhouse_
 
 ### [Territorial disputes in the South China Sea:Two Philippine ships are expelled by the Chinese Coast Guard from Ayungin Shoal in the Spratly group of islands. ](/news/2014/03/11/territorial-disputes-in-the-south-china-sea-ptwo-philippine-ships-are-expelled-by-the-chinese-coast-guard-from-ayungin-shoal-in-the-spratly.md)
-_Context: Chinese Coast Guard, Spratly Islands, disputed_
+_Context: Chinese Coast Guard, Spratly Islands, war_
 
 ### [The search of one of Congress's stand-alone computers is referred to the Justice Department for investigation. ](/news/2014/03/11/the-search-of-one-of-congress-s-stand-alone-computers-is-referred-to-the-justice-department-for-investigation.md)
 At issue is whether the CIA violated an agreement made with the committee about monitoring the panel&#39;s use of CIA computers.
@@ -34,7 +34,7 @@ At issue is whether the CIA violated an agreement made with the committee about 
 _Context: Atlantic slave trade, Caribbean, France, Netherlands, United Kingdom_
 
 ### [Joran van der Sloot faces an extradition case in the United States. ](/news/2014/03/11/joran-van-der-sloot-faces-an-extradition-case-in-the-united-states.md)
-_Context: Joran van der Sloot, U.S._
+_Context: Joran van der Sloot, United States_
 
 ### [The Libyan Parliament sacks Prime Minister Ali Zeidan and appoints former defense secretary Abdullah al-Thani as acting prime minister. ](/news/2014/03/11/the-libyan-parliament-sacks-prime-minister-ali-zeidan-and-appoints-former-defense-secretary-abdullah-al-thani-as-acting-prime-minister.md)
 * Parliament appoints defence minister as acting PM* Clashes between rebels, pro-government militias reported* Western powers fear chaos in o

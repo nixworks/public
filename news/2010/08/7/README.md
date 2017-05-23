@@ -55,7 +55,7 @@ _Context: Mahmoud Ahmadinejad, Malam Bacai Sanha, President, Tehran, acting pres
 _Context: Colombian President, Ecuador, Juan Manuel Santos, Venezuela_
 
 ### [A Turkish court annuls an arrest warrant issued against 102 military officers over an alleged coup plot in 2003. ](/news/2010/08/7/a-turkish-court-annuls-an-arrest-warrant-issued-against-102-military-officers-over-an-alleged-coup-plot-in-2003.md)
-_Context: Turkish, coup d'tat_
+_Context: Turkey, coup d'tat_
 
 ### [An appeals court in Iran upholds a five year jail sentence against the owner of Mehdi Karroubi's opposition website. ](/news/2010/08/7/an-appeals-court-in-iran-upholds-a-five-year-jail-sentence-against-the-owner-of-mehdi-karroubi-s-opposition-website.md)
 _Context: Iran, Mehdi Karroubi_

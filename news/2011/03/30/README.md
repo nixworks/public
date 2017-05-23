@@ -13,7 +13,7 @@ Peru gives a grandiose welcome to hundreds of Inca artefacts returned by Yale Un
 _Context: Amin Maalouf, Anne Tyler, Dacia Maraini, David Malouf, James Kelman, John le Carre, Juan Goytisolo, Man Booker International Prize, Marilynne Robinson, Philip Pullman, Philip Roth, Rohinton Mistry, Su Tong, Wang Anyi_
 
 ### [The oldest copy of ''Codex Holmiensis'', dating from 1280, is returned to Denmark after 300 years in Sweden. [http://www.dr.dk/Nyheder/Kultur/2011/03/30/103038.htm] (Danish)](/news/2011/03/30/the-oldest-copy-of-codex-holmiensis-dating-from-1280-is-returned-to-denmark-after-300-years-in-sweden-http-www-dr-dk-nyheder-kultu.md)
-_Context: Codex Holmiensis, Denmark, Swedish_
+_Context: Codex Holmiensis, Denmark, Sweden_
 
 ### [The orca Tilikum resumes performing shows at Seaworld Orlando 13 months after being involved in the death of trainer Dawn Blancheau. ](/news/2011/03/30/the-orca-tilikum-resumes-performing-shows-at-seaworld-orlando-13-months-after-being-involved-in-the-death-of-trainer-dawn-blancheau.md)
 _Context: Seaworld Orlando, Tilikum, orca_

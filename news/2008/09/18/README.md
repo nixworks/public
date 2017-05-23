@@ -16,7 +16,7 @@ The suspension of trading in Russian markets had incited fears that the credit c
 The federal government, trying to boost investor confidence in the face of a market crisis, took the dramatic step Friday of temporarily banning betting against financial stocks.
 
 ### [ A United States Army CH-47 Chinook helicopter crashes in southern Iraq killing seven United States soldiers. ](/news/2008/09/18/a-united-states-army-ch-47-chinook-helicopter-crashes-in-southern-iraq-killing-seven-united-states-soldiers.md)
-_Context: CH-47 Chinook, Iraq, U.S., United States Army_
+_Context: CH-47 Chinook, Iraq, United States, United States Army_
 
 ### [ Pirates hijack a Greek bulk carrier with 25 crew aboard off the coast of Somalia. ](/news/2008/09/18/pirates-hijack-a-greek-bulk-carrier-with-25-crew-aboard-off-the-coast-of-somalia.md)
 _Context: Greek, Pirate, Somalia, bulk carrier_

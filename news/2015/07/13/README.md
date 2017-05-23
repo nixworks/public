@@ -25,7 +25,7 @@ A former MEP who fraudulently claimed almost £500,000 in European Parliament ex
 Curtis James Jackson III, the rapper better known as 50 Cent, files for chapter 11 bankruptcy protection in Hartford, Conn.
 
 ### [President Barack Obama commutes the sentences of 46 American prison inmates serving long sentences for drug related offences. ](/news/2015/07/13/president-barack-obama-commutes-the-sentences-of-46-american-prison-inmates-serving-long-sentences-for-drug-related-offences.md)
-_Context: Barack Obama, U.S. President_
+_Context: Barack Obama, United States President_
 
 ### [Son of Boston police captain is charged with a foiled plot to bomb a university, inspired by Boston Marathon bombing, on alleged behalf of ISIS. He is scheduled Tuesday for a bail hearing at a federal court in Springfield. ](/news/2015/07/13/son-of-boston-police-captain-is-charged-with-a-foiled-plot-to-bomb-a-university-inspired-by-boston-marathon-bombing-on-alleged-behalf-of-i.md)
 _Context: Boston Marathon bombing, Springfield_

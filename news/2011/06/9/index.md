@@ -13,7 +13,7 @@ US newspaper says the move is aimed at preventing suspected fighters from consol
 Nine people are killed and nine wounded as unidentified gunmen attack a wedding party in eastern Afghanistan, officials say.
 
 ### [2011 Libyan civil war:Turkey sets up a US$100 million fund to support the Libyan rebel National Transitional  Council. ](/news/2011/06/9/2011-libyan-civil-war-pturkey-sets-up-a-us-100-million-fund-to-support-the-libyan-rebel-national-transitional-council.md)
-_Context: Libya, Libyan Civil War, National Transitional Council, Turkish_
+_Context: Libya, Libyan Civil War, National Transitional Council, Turkey_
 
 ### [2011 Yemeni uprising: President Ali Abdullah Saleh undergoes surgery in Saudi Arabia for injuries sustained in a bomb blast. ](/news/2011/06/9/2011-yemeni-uprising-president-ali-abdullah-saleh-undergoes-surgery-in-saudi-arabia-for-injuries-sustained-in-a-bomb-blast.md)
 Yemeni President Ali Abdullah Saleh has undergone &quot;successful&quot; surgery in Riyadh, Saudi Arabia, where he is being treated for bomb blast wounds, officials said.
@@ -22,7 +22,7 @@ Yemeni President Ali Abdullah Saleh has undergone &quot;successful&quot; surgery
 _Context: Citigroup, Financial Times, hackers_
 
 ### [The U.S. Supreme Court upholds a 2009 jury verdict in a patent dispute at the expense of software giant Microsoft in favor of Canadian company i4i. ](/news/2011/06/9/the-u-s-supreme-court-upholds-a-2009-jury-verdict-in-a-patent-dispute-at-the-expense-of-software-giant-microsoft-in-favor-of-canadian-compa.md)
-_Context: Microsoft, U.S. Supreme Court, i4i, jury, patent, software_
+_Context: Microsoft, United States Supreme Court, i4i, jury, patent, software_
 
 ### [Fukushima Daiichi nuclear disaster:The Government of Japan submits a report to the International Atomic Energy Agency calling for revision of nuclear reactor design standards in the wake of the disaster.](/news/2011/06/9/fukushima-daiichi-nuclear-disaster-pthe-government-of-japan-submits-a-report-to-the-international-atomic-energy-agency-calling-for-revision.md)
 _Context: Fukushima Daiichi nuclear disaster, International Atomic Energy Agency, Japanese government, nuclear reactor_

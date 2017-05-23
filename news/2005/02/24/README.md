@@ -46,7 +46,7 @@ _Context: Diego Maradona, back taxes, euro_
 _Context: European Union, lottery scam_
 
 ### [ The parliament of Turkey grants amnesty to 677,000 people who have been expelled from university in recent years ](/news/2005/02/24/the-parliament-of-turkey-grants-amnesty-to-677-000-people-who-have-been-expelled-from-university-in-recent-years.md)
-_Context: Turkish, universities_
+_Context: Turkey, universities_
 
 ### [ In Kyrgyzstan, thousands of people protest in support of opposition politicians who were barred from elections ](/news/2005/02/24/in-kyrgyzstan-thousands-of-people-protest-in-support-of-opposition-politicians-who-were-barred-from-elections.md)
 _Context: Kyrgyzstan, opposition_

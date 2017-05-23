@@ -4,7 +4,7 @@
 _Context: Ipil, Palid, Philippines, Southern Philippines, Zamboanga Sibugay_
 
 ### [South Korea and the United States cancel a joint naval drill against North Korea in the Yellow Sea, citing its previous anti-submarine training -- held from Sept. 27 to Oct. 1 -- and a desire "not to irritate neighboring countries" ahead of the upcoming 2010 G-20 Seoul summit. ](/news/2010/10/24/south-korea-and-the-united-states-cancel-a-joint-naval-drill-against-north-korea-in-the-yellow-sea-citing-its-previous-anti-submarine-train.md)
-_Context: 2010 G-20 Seoul summit, North Korea, South Korea, U.S., Yellow Sea_
+_Context: 2010 G-20 Seoul summit, North Korea, South Korea, United States, Yellow Sea_
 
 ### [Despite the law enforcement agencies being on alert in Karachi city of Pakistan, four more people are killed in the Agra Taj Colony, Kausar Niazi Colony. ](/news/2010/10/24/despite-the-law-enforcement-agencies-being-on-alert-in-karachi-city-of-pakistan-four-more-people-are-killed-in-the-agra-taj-colony-kausar.md)
 _Context: Agra Taj Colony, Karachi, Kausar Niazi Colony_
@@ -89,7 +89,7 @@ _Context: Peter Tatchell, same-sex marriage_
 
 ### [Three U.S. citizens are to stand trial on charges of spying in Iran after illegally entering the country. ](/news/2010/10/24/three-u-s-citizens-are-to-stand-trial-on-charges-of-spying-in-iran-after-illegally-entering-the-country.md)
 ### [Swedish police say they do not have a suspect for the serial shooting of 15 immigrants in Malmo. ](/news/2010/10/24/swedish-police-say-they-do-not-have-a-suspect-for-the-serial-shooting-of-15-immigrants-in-malmap.md)
-_Context: 2009-10 Malmo shootings, Malmo, Swedish_
+_Context: 2009-10 Malmo shootings, Malmo, Sweden_
 
 ### [Four employees of Chinese dairy giant Mengniu are arrested in Hohhot, Inner Mongolia for allegedly hiring a public relations firm to spread false rumours online about products of industry rival Yili Group. ](/news/2010/10/24/four-employees-of-chinese-dairy-giant-mengniu-are-arrested-in-hohhot-inner-mongolia-for-allegedly-hiring-a-public-relations-firm-to-spread.md)
 _Context: Hohhot, Inner Mongolia, Mengniu, PR, Yili Group_

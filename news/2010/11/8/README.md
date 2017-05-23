@@ -46,7 +46,7 @@ _Context: Gaza Strip, German Foreign Minister, Gilad Shalit, Guido Westerwelle, 
 Last week’s four-day annual plenary meeting of the diamond-regulating Kimberley Process (KP)failed to find a solution to the ongoing issue of diamond exports from the Marange region.
 
 ### [President of the United States Barack Obama backs a permanent seat for India on the UN Security Council. ](/news/2010/11/8/president-of-the-united-states-barack-obama-backs-a-permanent-seat-for-india-on-the-un-security-council.md)
-_Context: Barack Obama, U.S. President, UN Security Council_
+_Context: Barack Obama, UN Security Council, United States President_
 
 ### [The Obama administration bans cargo shipments from Somalia in the wake of the Yemen bomb attacks. ](/news/2010/11/8/the-obama-administration-bans-cargo-shipments-from-somalia-in-the-wake-of-the-yemen-bomb-attacks.md)
 _Context: Obama Administration, Somalia, Yemen bomb attacks_
@@ -55,7 +55,7 @@ _Context: Obama Administration, Somalia, Yemen bomb attacks_
 Israel reveals plans to build nearly 1,300 housing units for Jewish settlers in occupied East Jerusalem.
 
 ### [The United States offers to drop Sudan from its list of "state sponsors of terrorism", ending its isolation, if two scheduled referendums take place with respected results. ](/news/2010/11/8/the-united-states-offers-to-drop-sudan-from-its-list-of-state-sponsors-of-terrorism-ending-its-isolation-if-two-scheduled-referendums-ta.md)
-_Context: Sudan, U.S._
+_Context: Sudan, United States_
 
 ### [Libyan authorities arrest 10 reporters apparently for criticizing Libya's leadership. ](/news/2010/11/8/libyan-authorities-arrest-10-reporters-apparently-for-criticizing-libya-s-leadership.md)
 _Context: Libya_

@@ -1,7 +1,7 @@
 ## [2007-11-1](/news/2007/11/1/index.md)
 
 ### [ The Swedish Mint (Myntverket) in Eskilstuna, Sweden, loses the competition to produce Swedish national coins to Rahapaja Oy of Finland, ending a more than 1000-year-long tradition of minting Swedish coins in Sweden. ](/news/2007/11/1/the-swedish-mint-myntverket-in-eskilstuna-sweden-loses-the-competition-to-produce-swedish-national-coins-to-rahapaja-oy-of-finland-end.md)
-_Context: Eskilstuna, Finland, Myntverket, Rahapaja Oy, SKr, Swedish, minting_
+_Context: Eskilstuna, Finland, Myntverket, Rahapaja Oy, SKr, Sweden, minting_
 
 ### [ Automaker Chrysler announces plans for cutting an additional 12,000 jobs worldwide as part of a major restructuring plan. ](/news/2007/11/1/automaker-chrysler-announces-plans-for-cutting-an-additional-12-000-jobs-worldwide-as-part-of-a-major-restructuring-plan.md)
 _Context: Chrysler_

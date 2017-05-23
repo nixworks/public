@@ -1,7 +1,7 @@
 ## [2008-06-3](/news/2008/06/3/index.md)
 
 ### [ Antonio Pettigrew hands back the gold medal he won as part of the United States Olympic 400 metre relay team at the 2000 Summer Olympics in Sydney following an admission that he used EPO and human growth hormone between 1997 and 2003. Michael Johnson, another member of the team, returns his gold medal on the grounds that it was "tainted". ](/news/2008/06/3/antonio-pettigrew-hands-back-the-gold-medal-he-won-as-part-of-the-united-states-olympic-400-metre-relay-team-at-the-2000-summer-olympics-in.md)
-_Context: 2000 Olympics, Antonio Pettigrew, EPO, Michael Johnson, Olympic Games, Sydney, U.S., human growth hormone, relay_
+_Context: 2000 Olympics, Antonio Pettigrew, EPO, Michael Johnson, Olympic Games, Sydney, United States, human growth hormone, relay_
 
 ### [ China National Petroleum Corporation signs an agreement to produce oil in Niger. ](/news/2008/06/3/china-national-petroleum-corporation-signs-an-agreement-to-produce-oil-in-niger.md)
 _Context: China National Petroleum Corporation, Niger, produce oil_

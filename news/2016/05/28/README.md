@@ -1,7 +1,7 @@
 ## [2016-05-28](/news/2016/05/28/index.md)
 
 ### [Turkey claims that its artillery fire together with U.S. air strikes killed more than 104 ISIL militants after rockets fired from northern Syria killed several people in the Turkish town of Kilis. ](/news/2016/05/28/turkey-claims-that-its-artillery-fire-together-with-u-s-air-strikes-killed-more-than-104-isil-militants-after-rockets-fired-from-northern-s.md)
-_Context: Islamic State in Iraq and the Levant, Kilis, Spillover of the Syrian Civil War, Syria, Turkish_
+_Context: Islamic State in Iraq and the Levant, Kilis, Spillover of the Syrian Civil War, Syria, Turkey_
 
 ### [The Niger Delta Avengers militant group destroy gas and oil pipelines belonging to Shell and Agip in Nigeria. ](/news/2016/05/28/the-niger-delta-avengers-militant-group-destroy-gas-and-oil-pipelines-belonging-to-shell-and-agip-in-nigeria.md)
 _Context: Agip, Conflict in the Niger Delta, Niger Delta Avengers, Nigeria, Royal Dutch Shell_

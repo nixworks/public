@@ -55,7 +55,7 @@ _Context: Abdoulaye Badie, Niger, Supreme Council for the Restoration of Democra
 Sharif Ahmed names Mohamed Abdullahi Mohamed as new prime minister of the transitional government.
 
 ### [18-year-old Anton Abele becomes Sweden's youngest ever MP; he is a member of the ruling Moderate Party. ](/news/2010/10/14/18-year-old-anton-abele-becomes-sweden-s-youngest-ever-mp-he-is-a-member-of-the-ruling-moderate-party.md)
-_Context: Anton Abele, Moderate Party, Swedish_
+_Context: Anton Abele, Moderate Party, Sweden_
 
 ### [Burmese pro-democracy leader Aung San Suu Kyi announces that she will boycott next month's general election. ](/news/2010/10/14/burmese-pro-democracy-leader-aung-san-suu-kyi-announces-that-she-will-boycott-next-month-s-general-election.md)
 Burmese pro-democracy leader Aung San Suu Kyi will boycott the country&#039;s general election next month.

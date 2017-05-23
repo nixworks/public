@@ -13,7 +13,7 @@ _Context: Abu Sayeeda, Baqubah, Diyala Governorate, Iraq, Shi'ite, mosque_
 Houthi rebels clash with government-allied tribesmen in north of country.
 
 ### [The United States threatens to impose new sanctions on North Korea as part of its attempt to halt perceived nuclear weapons ambitions; North Korea describes United States military exercises in the Sea of Japan as "very dangerous sabre-rattling". ](/news/2010/07/21/the-united-states-threatens-to-impose-new-sanctions-on-north-korea-as-part-of-its-attempt-to-halt-perceived-nuclear-weapons-ambitions-north.md)
-_Context: North Korea, Sea of Japan, U.S._
+_Context: North Korea, Sea of Japan, United States_
 
 ### [Assailants launch an attack on a hydroelectric plant in Kabardino-Balkaria in southern Russia killing two guards and letting off bombs. ](/news/2010/07/21/assailants-launch-an-attack-on-a-hydroelectric-plant-in-kabardino-balkaria-in-southern-russia-killing-two-guards-and-letting-off-bombs.md)
 _Context: Kabardino-Balkaria, Russia, hydroelectric_
@@ -88,10 +88,10 @@ Sudan president arrives in Chad despite being wanted on genocide and war crimes 
 _Context: Australia, Fiji, Melanesian Spearhead Group, New Zealand, South Pacific_
 
 ### [Hillary Clinton, the United States Secretary of State, announces that the United States will impose further sanctions against North Korea as a result of the sinking of the South Korean warship ROKS ''Cheonan''. ](/news/2010/07/21/hillary-clinton-the-united-states-secretary-of-state-announces-that-the-united-states-will-impose-further-sanctions-against-north-korea-as.md)
-_Context: Hillary Clinton, North Korea, ROKS ''Cheonan'', South Korean Navy, U.S., United States Secretary of State, sanctions, sinking_
+_Context: Hillary Clinton, North Korea, ROKS ''Cheonan'', South Korean Navy, United States, United States Secretary of State, sanctions, sinking_
 
 ### [Mexico states that it has the support of Bolivia, Cuba, Ecuador, Ghana, Guatemala, the Federated States of Micronesia, Panama, Senegal, Turkey, and Uruguay in pursuing its case against Arizona's immigration law. ](/news/2010/07/21/mexico-states-that-it-has-the-support-of-bolivia-cuba-ecuador-ghana-guatemala-the-federated-states-of-micronesia-panama-senegal-turk.md)
-_Context: Arizona, Bolivia, Cuba, Ecuador, Federated States of Micronesia, Ghana, Guatemala, Mexico, Panama, Senegal, Turkish, Uruguay, immigration law_
+_Context: Arizona, Bolivia, Cuba, Ecuador, Federated States of Micronesia, Ghana, Guatemala, Mexico, Panama, Senegal, Turkey, Uruguay, immigration law_
 
 ### [An Arab residing in Israel is convicted of "rape by deception" and jailed for 18 months for having consensual sexual intercourse in 2008 with an Israeli woman alleged to believe he was Jewish. ](/news/2010/07/21/an-arab-residing-in-israel-is-convicted-of-rape-by-deception-and-jailed-for-18-months-for-having-consensual-sexual-intercourse-in-2008-wit.md)
 Man sentenced to 18 months in prison after telling an Israeli woman he was Jewish.

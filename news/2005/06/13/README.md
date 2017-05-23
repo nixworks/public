@@ -10,7 +10,7 @@ _Context: Bolivia, Chile, Tarapaca, earthquake, epicenter_
 _Context: Michael Jackson's trial for child molestation, acquits_
 
 ### [ Swedish diplomat Jan Eliasson is unanimously elected President of the United Nations General Assembly. He will take over the presidency on September 20, 2005. ](/news/2005/06/13/swedish-diplomat-jan-eliasson-is-unanimously-elected-president-of-the-united-nations-general-assembly-he-will-take-over-the-presidency-on.md)
-_Context: 2005, Jan Eliasson, President of the United Nations General Assembly, September 20, Swedish, diplomat_
+_Context: 2005, Jan Eliasson, President of the United Nations General Assembly, September 20, Sweden, diplomat_
 
 ### [ Ninety-two people, almost all children, have died after a flash flood hit a school in Shalan, Heilongjiang province, China. [http://news.bbc.co.uk/2/hi/asia-pacific/4086602.stm (BBC)].](/news/2005/06/13/ninety-two-people-almost-all-children-have-died-after-a-flash-flood-hit-a-school-in-shalan-heilongjiang-province-china-http-news-bb.md)
 _Context: China, Flash flooding, Heilongjiang, Shalan_
@@ -37,7 +37,7 @@ _Context: CAN$, Canada, Cineplex Odeon, Famous Players, Viacom_
 _Context: Niger River, Nigeria, Olusegun Obasanjo, refinery_
 
 ### [ In Mexico, army soldiers and federales take over the city of Nuevo Laredo near the US border. The whole local police force is detained for investigation in connection to drug trafficking and for drug testing. City's just-appointed police chief Alejandro Dominguez was assassinated last Wednesday. On Saturday, a policeman shot a federal agent ](/news/2005/06/13/in-mexico-army-soldiers-and-federales-take-over-the-city-of-nuevo-laredo-near-the-us-border-the-whole-local-police-force-is-detained-for.md)
-_Context: Mexico, Nuevo Laredo, U.S., drug testing, drug trafficking, federales, police_
+_Context: Mexico, Nuevo Laredo, United States, drug testing, drug trafficking, federales, police_
 
 ### [ 14 people drown off the coast of Morocco in a boat that tried to reach Spain ](/news/2005/06/13/14-people-drown-off-the-coast-of-morocco-in-a-boat-that-tried-to-reach-spain.md)
 _Context: Moroccan, Spain_

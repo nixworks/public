@@ -7,7 +7,7 @@ PA forces douse the flames and disperse some hundred rioters, who caused heavy d
 Turkey shot down a drone on Friday in an incident highlighting the dangers of multiple air combat operations over Syria, where government troops and their allies backed by Russian jets have launched an offensive against rebels near Aleppo.
 
 ### [Turkey says it has shot down a drone near the Syrian border after it failed to leave Turkish airspace. ](/news/2015/10/16/turkey-says-it-has-shot-down-a-drone-near-the-syrian-border-after-it-failed-to-leave-turkish-airspace.md)
-_Context: Spillover of the Syrian Civil War, Syrian border, Turkish, drone_
+_Context: Spillover of the Syrian Civil War, Syrian border, Turkey, drone_
 
 ### [A United States appeals court rules the Google Books Library Project, the scanning of millions of books with snippets searchable online, is legal under copyright law, affirming a 2013 district court decision. ](/news/2015/10/16/a-united-states-appeals-court-rules-the-google-books-library-project-the-scanning-of-millions-of-books-with-snippets-searchable-online-is.md)
 It&#39;s legal under copyright law for Google to scan millions of books and make snippets of them searchable, a U.S. appeals court ruled Friday.

@@ -7,7 +7,7 @@ _Context: Augusto Pinochet, Raul Iturriaga_
 The month-old fire in northern Santa Barbara County has burned an estimated 44,400 acres — or 70 square miles — and was 60 percent contained, said Santa Barbara fire Capt. Eli Iskow.
 
 ### [ US President George W. Bush signs a bill to implement recommendations of the 9-11 Commission. ](/news/2007/08/3/us-president-george-w-bush-signs-a-bill-to-implement-recommendations-of-the-9-11-commission.md)
-_Context: 9/11 Commission, George W. Bush, U.S. President_
+_Context: 9/11 Commission, George W. Bush, United States President_
 
 ### [ The United States Congress allocates $250 million to rebuild the I-35W Mississippi River bridge in Minneapolis, Minnesota. ](/news/2007/08/3/the-united-states-congress-allocates-250-million-to-rebuild-the-i-35w-mississippi-river-bridge-in-minneapolis-minnesota.md)
 _Context: I-35W Mississippi River bridge, Minneapolis, U.S. Congressional, US$_
@@ -46,7 +46,7 @@ _Context: George W. Bush, United Nations, post-Kyoto agreement on greenhouse gas
 Monsoon floods have forced almost 20 million people out of their homes in northern India, Bangladesh and Nepal.
 
 ### [ Turkey's two largest cities, Ankara and Istanbul, struggle with water shortages with Ankara rationing water to two days on, two days off as a result of having 5% left in their reservoirs. ](/news/2007/08/3/turkey-s-two-largest-cities-ankara-and-istanbul-struggle-with-water-shortages-with-ankara-rationing-water-to-two-days-on-two-days-off-as.md)
-_Context: Ankara, Istanbul, Turkish, rationing water, reservoirs_
+_Context: Ankara, Istanbul, Turkey, rationing water, reservoirs_
 
 ### [ The Supreme Court of Pakistan frees Javed Hashmi, the leader of the Alliance for the Restoration of Democracy and Pakistan Muslim League faction leader, who was jailed in 2003 for writing a letter critical of the President of Pakistan Pervez Musharraf. ](/news/2007/08/3/the-supreme-court-of-pakistan-frees-javed-hashmi-the-leader-of-the-alliance-for-the-restoration-of-democracy-and-pakistan-muslim-league-fa.md)
 _Context: Javed Hashmi, Pakistan Muslim League, Pervez Musharraf, President, Supreme Court_

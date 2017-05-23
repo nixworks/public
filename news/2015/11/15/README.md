@@ -31,7 +31,7 @@ The series of terrorist attacks that killed more than 120 people in Paris on Fri
 World’s tallest building draped in colours of the French national flag
 
 ### [Swedish police increase checks of asylum facilities in the country's southwest amid reports refugees are leaving to avoid being registered by immigration officials. ](/news/2015/11/15/swedish-police-increase-checks-of-asylum-facilities-in-the-country-s-southwest-amid-reports-refugees-are-leaving-to-avoid-being-registered-b.md)
-_Context: European migrant crisis, Swedish, asylum facilities, immigration officials, refugee_
+_Context: European migrant crisis, Sweden, asylum facilities, immigration officials, refugee_
 
 ### [Reuters reports Japanese Prime Minister Shinzo Abe and Philippine President Benigno Aquino are set to agree on a deal paving the way for Tokyo to directly supply Manila with used military equipment. An announcement is expected this week during the Asia-Pacific Economic Cooperation (APEC) summit in Manila. ](/news/2015/11/15/reuters-reports-japanese-prime-minister-shinza-abe-and-philippine-president-benigno-aquino-are-set-to-agree-on-a-deal-paving-the-way-for-to.md)
 The Japanese and Philippine leaders will agree this week on a deal paving the way for Tokyo to supply Manila with used military equipment, possibly including aircraft that could be deployed to patrol the disputed South China Sea, sources said.

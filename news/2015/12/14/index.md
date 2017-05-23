@@ -13,7 +13,7 @@ Terrorist from East Jerusalem rams his car into people waiting at a bus stop nea
 Syrian government forces have regained control of a military airbase on the eastern outskirts of Damascus, activists and military sources say.
 
 ### [At least seven people are killed in clashes between Turkish security forces and Kurdish protesters across southeast Turkey, as Turkish authorities declare new curfews across the restive region. According to the Human Rights Foundation of Turkey, 52 curfews have been imposed since mid-August by Turkish authorities across seven Turkish provinces in the region, placing around 1.3 million people under curfew. ](/news/2015/12/14/at-least-seven-people-are-killed-in-clashes-between-turkish-security-forces-and-kurdish-protesters-across-southeast-turkey-as-turkish-autho.md)
-_Context: 2015 PKK rebellion, Human Rights Foundation of Turkey, Kurdish, Turkish, Turkish provinces_
+_Context: 2015 PKK rebellion, Human Rights Foundation of Turkey, Kurdish, Turkey, Turkish provinces_
 
 ### [Oil price reached its lowest since December 2008. Other indicators in broader markets caused investor jitters ahead of the expected interest rate hike by the U.S. central bank on Wednesday. ](/news/2015/12/14/oil-price-reached-its-lowest-since-december-2008-other-indicators-in-broader-markets-caused-investor-jitters-ahead-of-the-expected-interest.md)
 Global equity markets swung between gains and losses on Monday, as volatile oil prices rebounded from multi-year lows while weakness in credit markets weighed on sentiment ahead of an expected U.S. interest rate hike later this week.

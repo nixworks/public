@@ -10,7 +10,7 @@ An airstrike has killed a top al-Qaeda commander and two other fighters in Syria
 Five people have been murdered after a gunman opened fire at a Shiite meeting hall in the city of Saihat in Saudi Arabia, before being shot by the police. Islamic State has officially taken responsibility for the sectarian attack.
 
 ### [Three Turkish troops, including a lieutenant colonel, are killed following clashes with PKK insurgents around Daglica vlliage, in the southeastern Hakkari Province. At least 17 PKK insurgents were also reportedly killed in the fighting. ](/news/2015/10/17/three-turkish-troops-including-a-lieutenant-colonel-are-killed-following-clashes-with-pkk-insurgents-around-daala-ca-vlliage-in-the-sout.md)
-_Context: 2015 PKK rebellion, Daglica, Hakkari Province, PKK, Turkish_
+_Context: 2015 PKK rebellion, Daglica, Hakkari Province, PKK, Turkey_
 
 ### [A Saudi-led coalition airstrike targeting Houthis in the southern Taiz Governorate mistakenly hits a Hadi-loyalist position, killing at least 20 fighters. ](/news/2015/10/17/a-saudi-led-coalition-airstrike-targeting-houthis-in-the-southern-taiz-governorate-mistakenly-hits-a-hadi-loyalist-position-killing-at-leas.md)
 The Saudi-led air coalition targeting Shia Houthi rebels in Yemen mistakenly hits a pro-government position, killing at least 20 troops, reports say.
@@ -28,7 +28,7 @@ _Context: Harper's Magazine, Stephen Glass_
 _Context: Hindu, India, Narendra Modi, National Academy of Letters, Nayantara Sahgal, Salman Rushdie_
 
 ### [The United States cancels two potential Arctic lease sales off Alaska's northern coast, and announces Shell and Statoil current leases will not be extended because of  "current market conditions and low industry interest." ](/news/2015/10/17/the-united-states-cancels-two-potential-arctic-lease-sales-off-alaska-s-northern-coast-and-announces-shell-and-statoil-current-leases-will.md)
-_Context: Alaska, Arctic, Royal Dutch Shell, Statoil, U.S._
+_Context: Alaska, Arctic, Royal Dutch Shell, Statoil, United States_
 
 ### [US Airways final flight, Flight 1939 - named for the airline's founding year, landed at Philadelphia International Airport at 5:54 a.m. Saturday. Future flights will fly under the American Airlines banner, completing the merger announced in 2013.  ](/news/2015/10/17/us-airways-final-flight-flight-1939-a-named-for-the-airline-s-founding-year-landed-at-philadelphia-international-airport-at-5-54-a-m-sa.md)
 The final US Airways flight is heading from San Francisco to Philadelphia, making the last leg of its roundtrip journey.

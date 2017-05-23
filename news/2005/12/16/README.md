@@ -7,7 +7,7 @@ _Context: Bulgaria, Iraq, U.S.-led troops_
 _Context: Chechnya_
 
 ### [ United States Government: Senator John McCain persuades President George W. Bush to accept a ban on cruel, inhuman and degrading treatment of detainees. ](/news/2005/12/16/united-states-government-p-senator-john-mccain-persuades-president-george-w-bush-to-accept-a-ban-on-cruel-inhuman-and-degrading-treatment.md)
-_Context: American, George W. Bush, John McCain, U.S. President, United States Senate_
+_Context: American, George W. Bush, John McCain, United States President, United States Senate_
 
 ### [ Conflict in Iraq: Iraqi Police claim that they captured Abu Musab al-Zarqawi in 2004 and then released him by mistake. ](/news/2005/12/16/conflict-in-iraq-iraqi-police-claim-that-they-captured-abu-musab-al-zarqawi-in-2004-and-then-released-him-by-mistake.md)
 _Context: 2004, Abu Musab al-Zarqawi, Conflict in Iraq, Iraqi Police_
@@ -22,7 +22,7 @@ _Context: Changchun, China, Jilin province, Liaoyuan_
 West Bank shooting: One man dead, two women suffer from shock after gunmen traveling in vehicle open fire at Israeli car south of Hebron Friday; Fatah, Islamic Jihad claim responsibility
 
 ### [ Intellectual property dispute: a US federal judge upholds Pfizer's two main patents for Lipitor, which had been challenged by Ranbaxy Laboratories. The decision is the latest defeat for Ranbaxy, an Indian generic drugmaker, which has also lost in a UK court. ](/news/2005/12/16/intellectual-property-dispute-a-us-federal-judge-upholds-pfizer-s-two-main-patents-for-lipitor-which-had-been-challenged-by-ranbaxy-labor.md)
-_Context: Lipitor, Pfizer Inc., intellectual property_
+_Context: Lipitor, Pfizer, intellectual property_
 
 ### [ Denis Donaldson is expelled from Sinn Fin for being a British spy. He later confirms this in a statement. ](/news/2005/12/16/denis-donaldson-is-expelled-from-sinn-fein-for-being-a-british-spy-he-later-confirms-this-in-a-statement.md)
 _Context: Denis Donaldson, Sinn Fin, espionage_

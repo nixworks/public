@@ -13,7 +13,7 @@ Islamist militants killed two Tunisian policemen in clashes on Thursday in the n
 _Context: Gorongosa, Mozambique, Renamo, soldiers_
 
 ### [Swedish archaeologists in Old Uppsala unearth a great number of mysterious posts in perfect alignment for more than a kilometre in what is suggested to be a display of power of a fifth century Swedish chieftain. ](/news/2013/10/17/swedish-archaeologists-in-old-uppsala-unearth-a-great-number-of-mysterious-posts-in-perfect-alignment-for-more-than-a-kilometre-in-what-is-s.md)
-_Context: Old Uppsala, Swedish, chieftain, fifth century_
+_Context: Old Uppsala, Sweden, chieftain, fifth century_
 
 ### [President of the United States Barack Obama signs a bipartisan deal approved by Congress to end the Government shutdown and the debt ceiling crisis. ](/news/2013/10/17/president-of-the-united-states-barack-obama-signs-a-bipartisan-deal-approved-by-congress-to-end-the-government-shutdown-and-the-debt-ceiling.md)
 President Obama signed a deal to reopen the government and raise the debt ceiling on Thursday morning.

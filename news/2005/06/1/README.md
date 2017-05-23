@@ -22,7 +22,7 @@ The American Family Association has fired another missile in its long war agains
 _Context: Afghanistan, Kandahar_
 
 ### [ Sweden shuts down the Barsebck 2 nuclear reactor. ](/news/2005/06/1/sweden-shuts-down-the-barseback-2-nuclear-reactor.md)
-_Context: Barsebck 2, Swedish_
+_Context: Barsebck 2, Sweden_
 
 ### [ In Australia, embassy of Indonesia was closed after it received a package containing suspected "biological agent". The case is probably related to the sentence of Schapelle Corby ](/news/2005/06/1/in-australia-embassy-of-indonesia-was-closed-after-it-received-a-package-containing-suspected-biological-agent-the-case-is-probably-rel.md)
 _Context: Australia, Schapelle Corby, embassy of Indonesia was closed_

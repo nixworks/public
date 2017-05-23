@@ -7,7 +7,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 _Context: Arbaeen, Balad Ruz, Diyala Governorate, Iraq, Karbala, Shia, cafe, suicide bomber_
 
 ### [ Three Jordanians go on trial for plotting to assassinate U.S. President George W. Bush. ](/news/2007/03/7/three-jordanians-go-on-trial-for-plotting-to-assassinate-u-s-president-george-w-bush.md)
-_Context: George W. Bush, Jordan, U.S. President, assassinate_
+_Context: George W. Bush, Jordan, United States President, assassinate_
 
 ### [ The People's Republic of China announces that its first probe to the Moon, Chang'e 1, will be launched later in 2007, with the eventual goal of landing a man on the moon by 2022.  The probe is supposed to orbit the Moon at least three times. ([http://news.bbc.co.uk/2/hi/science/nature/6423323.stm BBC])](/news/2007/03/7/the-people-s-republic-of-china-announces-that-its-first-probe-to-the-moon-chang-e-1-will-be-launched-later-in-2007-with-the-eventual-goa.md)
 _Context: 2007, 2022, Chang'e 1, Moon, People's Republic of China, space probe_
@@ -40,7 +40,7 @@ _Context: Fiji, Human rights, United States Department of State, coup in 2006_
 _Context: Ali Reza Askari, Iran, Istanbul_
 
 ### [ Turkey bans user generated content web site YouTube after insulting clips of Turkish founder Mustafa Kemal Atatrk are discovered. ](/news/2007/03/7/turkey-bans-user-generated-content-web-site-youtube-after-insulting-clips-of-turkish-founder-mustafa-kemal-ataturk-are-discovered.md)
-_Context: Mustafa Kemal Atatrk, Turkish, YouTube, founder, user generated content, video, web site_
+_Context: Mustafa Kemal Atatrk, Turkey, YouTube, founder, user generated content, video, web site_
 
 ## [Previous Day...](/news/2007/03/6/index.md)
 

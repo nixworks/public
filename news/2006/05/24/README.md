@@ -26,10 +26,10 @@ _Context: Dili, East Timor, East Timorese army_
 
 ### [ Namah Services, the free web portal was found by Pradeep Chowdhary.](/news/2006/05/24/namah-services-the-free-web-portal-was-found-by-pradeep-chowdhary.md)
 ### [ A large fire breaks out at the cargo terminal of Atatrk International Airport in Istanbul, Turkey, forcing the suspension of air traffic. ](/news/2006/05/24/a-large-fire-breaks-out-at-the-cargo-terminal-of-ataturk-international-airport-in-istanbul-turkey-forcing-the-suspension-of-air-traffic.md)
-_Context: Atatrk International Airport, Istanbul, Turkish_
+_Context: Atatrk International Airport, Istanbul, Turkey_
 
 ### [ President of Mexico Vicente Fox begins a tour of the United States in Salt Lake City by criticizing a proposed border wall. This comes amid the U.S. Senate passing a sweeping immigration bill. [http://news.yahoo.com/s/ap/20060523/ap_on_re_us/us_fox_visit_11;_ylt=Ak6VI6_GWm8p29y3g7pcJAkdl.0A;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl (AP via Yahoo!)] [http://news.yahoo.com/s/ap/20060524/ap_on_go_ca_st_pe/immigration_26;_ylt=Ags18swU_uP6Rs0jkyCi_mBQuk0A;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl (AP)] [http://www.latimes.com/news/nationworld/nation/la-na-fox24may24,1,3193193.story?coll=la-headlines-nation (LA Times)].](/news/2006/05/24/president-of-mexico-vicente-fox-begins-a-tour-of-the-united-states-in-salt-lake-city-by-criticizing-a-proposed-border-wall-this-comes-amid.md)
-_Context: President, Salt Lake City, U.S., Vicente Fox, illegal worker_
+_Context: President, Salt Lake City, United States, Vicente Fox, illegal worker_
 
 ## [Previous Day...](/news/2006/05/23/index.md)
 

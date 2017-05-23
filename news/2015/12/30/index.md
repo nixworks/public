@@ -16,7 +16,7 @@ _Context: Alejandro Garcia Padilla, Puerto Rico_
 High winds caused by Storm Frank have resulted in long delays at Belfast airport. As well as departures, travellers also faced a wait to disembark from nine flights as wind speeds reached 55 knots (63mph). The conditions meant it was not immediately possible to get aircraft access steps into place. Some passengers reportedly faced delays of up to 10 hours as flights were grounded. The airport said the disruption would have a knock-on effect on scheduled departures to Gatwick, Glasgow, Bristol, Newcastle, Edinburgh, Liverpool and Manchester. Jack Graham, who was delayed at Belfast for five hours, told ITV News there had been a lack of information for those waiting. Describing the mood among passengers as &quot;absolutely dreadful&quot;, he said: &quot;There are no easyJet staff anywhere, no managers on site.&quot; 
 
 ### [Iraq's Foreign Minister, Ibrahim al-Jaafari, renewed demands that Turkey fully withdraw its troops from northern Iraq, asserting that Turkey must respect Iraq's sovereignty or face potential military action. Last month the Turkish army mounted a big offensive invasion into Iraq's Kurdish territory including tanks and artillery without permission or even negotiation with the Iraqi government. ](/news/2015/12/30/iraq-s-foreign-minister-ibrahim-al-jaafari-renewed-demands-that-turkey-fully-withdraw-its-troops-from-northern-iraq-asserting-that-turkey.md)
-_Context: Foreign Minister, Ibrahim al-Jaafari, Iraq, Iraq-Turkey relations, Iraqi Civil War (2014-present), Turkish_
+_Context: Foreign Minister, Ibrahim al-Jaafari, Iraq, Iraq-Turkey relations, Iraqi Civil War (2014-present), Turkey_
 
 ### [Belgium cancels New Year's Eve firework celebrations in Brussels amid fears of an Islamic terrorist attack in an unspecified European capital city. ](/news/2015/12/30/belgium-cancels-new-year-s-eve-firework-celebrations-in-brussels-amid-fears-of-an-islamic-terrorist-attack-in-an-unspecified-european-capita.md)
 France&#039;s capital replaces fireworks with a video as Brussels cancels festivities and arrests another man over November&#039;s attacks.
@@ -31,7 +31,7 @@ Two policewomen and eight soldiers alleged to have engaged in group sex while co
 The turmoil and an upsurge of violence in the capital Bangui in September repeatedly forced authorities to delay the polls. More recently some have cast doubts on whether the election can be organised successfully.
 
 ### [The freak weather system responsible for heavy rain and tornadoes in the U.S., and high winds and rainfall in the British Isles, also has impacted the Arctic where the average winter temperature is normally around -20|F|C. Temperatures around the North Pole have surpassed the 32|F|C threshold for a brief moment, according to the  U.S. National Oceanic and Atmospheric Administration's Ocean Prediction Center, which is 50|F-change|1 higher than usual for December. ](/news/2015/12/30/the-freak-weather-system-responsible-for-heavy-rain-and-tornadoes-in-the-u-s-and-high-winds-and-rainfall-in-the-british-isles-also-has-im.md)
-_Context: Arctic, British Isles, National Oceanic and Atmospheric Administration, North Pole, Ocean Prediction Center, U.S._
+_Context: Arctic, British Isles, National Oceanic and Atmospheric Administration, North Pole, Ocean Prediction Center, United States_
 
 ## [Previous Day...](/news/2015/12/29/index.md)
 

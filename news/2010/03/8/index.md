@@ -10,7 +10,7 @@ Minister for Arts, Sport and Tourism Martin Cullen is to resign from the Cabinet
 _Context: Eric Massa, New York, sexual harassment_
 
 ### [A strong earthquake in Turkey kills dozens. ](/news/2010/03/8/a-strong-earthquake-in-turkey-kills-dozens.md)
-_Context: Turkish, strong earthquake_
+_Context: Turkey, strong earthquake_
 
 ### [Female poet Simin Behbahani says the government of Iran has issued her with a "travel ban" after confiscating her passport at Tehran International Airport as she was about to travel to France. ](/news/2010/03/8/female-poet-simin-behbahani-says-the-government-of-iran-has-issued-her-with-a-travel-ban-after-confiscating-her-passport-at-tehran-interna.md)
 _Context: France, Iran, Simin Behbahani, Tehran International Airport_

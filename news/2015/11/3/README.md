@@ -7,7 +7,7 @@ _Context: 2014-15 India-Pakistan border skirmishes, India, Indian Army, Kashmir,
 Suspected Russian warplanes bombed the outskirts of Islamic State-held Palmyra on Monday, sending smoke rising out of an area that includes a historic castle overlooking the Syrian city&#039;s Roman ruins, activists said.
 
 ### [ISIS claims responsibility for the deaths of two Syrian refugee activists who fled to Sanliurfa, Turkey, raising concerns about the group's reach in countries outside of Syria and Iraq. Ibrahim Abdel Qader, a founder of Raqqa Is Being Slaughtered Silently, and Fares Hammadi are said to have been killed by an acquaintance posing as a defector from ISIS. ](/news/2015/11/3/isis-claims-responsibility-for-the-deaths-of-two-syrian-refugee-activists-who-fled-to-sanliurfa-turkey-raising-concerns-about-the-groupa.md)
-_Context: ISIS, Iraq, Islamic State in Iraq and the Levant, Raqqa Is Being Slaughtered Silently, Sanliurfa, Syria, Turkish_
+_Context: ISIS, Iraq, Islamic State in Iraq and the Levant, Raqqa Is Being Slaughtered Silently, Sanliurfa, Syria, Turkey_
 
 ### [British bank Standard Chartered announces that it will axe 15,000 jobs around the world as part of a restructure. ](/news/2015/11/3/british-bank-standard-chartered-announces-that-it-will-axe-15-000-jobs-around-the-world-as-part-of-a-restructure.md)
 _Context: Standard Chartered_
@@ -37,7 +37,7 @@ The U.S.’s Pacific Fleet commander vowed in a Beijing speech to continue patro
 _Context: Europe, European Union, General National Congress, Libya, Libyan Crisis (2011-present), Tripoli, radical Islamists_
 
 ### [Japan has delivered two more ships to Vietnam that will be refurbished into patrol boats. The ships, which arrived in the port city of Da Nang, are the second delivery of a 2014 deal in which Tokyo is to provide Vietnam with six used fishing vessels that will be converted into patrol boats for Vietnam's coast guard in the South China Sea. ](/news/2015/11/3/japan-has-delivered-two-more-ships-to-vietnam-that-will-be-refurbished-into-patrol-boats-the-ships-which-arrived-in-the-port-city-of-da-na.md)
-_Context: Coast Guard, Japan, Japan-Vietnam relations, South China Sea, Tokyo, Vietnam, disputed, port city of Da Nang_
+_Context: Coast Guard, Japan, Japan-Vietnam relations, South China Sea, Tokyo, Vietnam, port city of Da Nang, war_
 
 ### [ German Chancellor Angela Merkel announces a plan  to register and distribute incoming refugees evenly throughout the European Union. Refugees would be stopped at EU borders, have  their application processed, and then, if accepted, sent to one of the Union's 28 member states. ](/news/2015/11/3/german-chancellor-angela-merkel-announces-a-plan-to-register-and-distribute-incoming-refugees-evenly-throughout-the-european-union-refuge.md)
 German Chancellor Angela Merkel announced a plan to register and distribute incoming refugees evenly throughout the European Union.

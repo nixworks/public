@@ -19,7 +19,7 @@ _Context: Adama Dieng, Adolf Hitler, Philippines and the United Nations, Rodrigo
 A Chinese man has confessed to killing his parents and then killing 17 neighbours in an attempt to cover up his crime, state media report.
 
 ### [The Alabama Court of the Judiciary finds Alabama Supreme Court Chief Justice Roy Moore guilty of six charges of violation of canon of judicial ethics and suspends him for the remainder of his term which is slated to end in 2019. The judge told other judges to ignore the Supreme Court of the United States ruling on gay marriage (''Obergefell v. Hodges''). ](/news/2016/09/30/the-alabama-court-of-the-judiciary-finds-alabama-supreme-court-chief-justice-roy-moore-guilty-of-six-charges-of-violation-of-canon-of-judici.md)
-_Context: Alabama Court of the Judiciary, Alabama Supreme Court, Obergefell v. Hodges, Roy Moore, U.S. Supreme Court_
+_Context: Alabama Court of the Judiciary, Alabama Supreme Court, Obergefell v. Hodges, Roy Moore, United States Supreme Court_
 
 ### [The European Space Agency's ''Rosetta'' space probe ends its 12-year mission studying comet 67P/Churyumov-Gerasimenko in a "collision maneuver" into the comet's surface. ](/news/2016/09/30/the-european-space-agency-s-rosetta-space-probe-ends-its-12-year-mission-studying-comet-67p-churyumovagerasimenko-in-a-collision-mane.md)
 The Rosetta spacecraft has crashed into a comet, bringing to an end one of the most important space missions in recent history. Final preparations were made to send the craft into the comet that it has spent months circling, destroying the probe and ending operations on the £1bn mission.

@@ -1,7 +1,7 @@
 ## [2009-10-22](/news/2009/10/22/index.md)
 
 ### [ Sweden's Lutheran Church decides to conduct same-sex marriages, becoming the first major church to do so. ](/news/2009/10/22/sweden-s-lutheran-church-decides-to-conduct-same-sex-marriages-becoming-the-first-major-church-to-do-so.md)
-_Context: Lutheran Church, Swedish, decides, same-sex marriage_
+_Context: Lutheran Church, Sweden, decides, same-sex marriage_
 
 ### [ China's economy grows at 8.9% in the third quarter from a year earlier, the fastest pace in a year. ](/news/2009/10/22/china-s-economy-grows-at-8-9-in-the-third-quarter-from-a-year-earlier-the-fastest-pace-in-a-year.md)
 _Context: Chinese economy, People's Republic of China_

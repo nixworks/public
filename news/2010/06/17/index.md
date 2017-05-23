@@ -38,7 +38,7 @@ _Context: 2010 FIFA World Cup, World Cup_
 First Game 7 of Finals in Five Years Ends with Los Angeles Win
 
 ### [Turkish warplanes carry out a series of airstrikes against suspected Kurdish targets in Iraq and Turkish soldiers withdraw from Iraqi territory after sending troops in pursuit of Kurdish rebels in the latest fighting between Turkey and Kurdish rebels. ](/news/2010/06/17/turkish-warplanes-carry-out-a-series-of-airstrikes-against-suspected-kurdish-targets-in-iraq-and-turkish-soldiers-withdraw-from-iraqi-territ.md)
-_Context: Iraq, Iraqi Kurdistan, Kurdistan Workers' Party, Turkish, disarm_
+_Context: Iraq, Iraqi Kurdistan, Kurdistan Workers' Party, Turkey, disarm_
 
 ### [The Times Square bombing attempt suspect is indicted on 10 terrorism and weapons charges in New York City. ](/news/2010/06/17/the-times-square-bombing-attempt-suspect-is-indicted-on-10-terrorism-and-weapons-charges-in-new-york-city.md)
 _Context: New York City, Times Square bomber_
@@ -65,7 +65,7 @@ _Context: Austria, Austrian politics, Hans Dichand_
 _Context: Kenya, Mwai Kibaki, Wilfred Machage, president_
 
 ### [Rwanda releases from custody an American lawyer for health reasons. The lawyer is charged with genocide denial and threatening state security, the first outsider tried under the country's 2003 anti-genocide legislation. ](/news/2010/06/17/rwanda-releases-from-custody-an-american-lawyer-for-health-reasons-the-lawyer-is-charged-with-genocide-denial-and-threatening-state-securit.md)
-_Context: Rwanda, U.S._
+_Context: Rwanda, United States_
 
 ### [Hundreds of surveillance cameras, alleged to be part of a counter-terrorism operation in highly Muslim areas, are put into temporary disuse in parts of Birmingham, England, after protest by the local population. ](/news/2010/06/17/hundreds-of-surveillance-cameras-alleged-to-be-part-of-a-counter-terrorism-operation-in-highly-muslim-areas-are-put-into-temporary-disuse.md)
 Bags are to be put over dozens of surveillance cameras in parts of Birmingham with large Muslim populations, after objections.

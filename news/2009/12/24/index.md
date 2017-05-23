@@ -22,7 +22,7 @@ Court decision brings to 22 number of those awaiting execution over unrest.
 _Context: Communist Party, Human rights, Le Cong Dinh, Vietnam_
 
 ### [ Turkish police arrest over 43 campaigners and members of the banned Kurdish Communities Union in raids. ](/news/2009/12/24/turkish-police-arrest-over-43-campaigners-and-members-of-the-banned-kurdish-communities-union-in-raids.md)
-_Context: Kurdish Communities Union, Turkish_
+_Context: Kurdish Communities Union, Turkey_
 
 ### [ At least three bodies have been recovered and 23 are missing after a collision between a ferry and a fishing boat in the Philippines. ](/news/2009/12/24/at-least-three-bodies-have-been-recovered-and-23-are-missing-after-a-collision-between-a-ferry-and-a-fishing-boat-in-the-philippines.md)
 Three bodies were recovered from Manila Bay in the Philippines on Thursday as rescuers continued to look for another 24 people missing after a ferry and a fishing boat collided.

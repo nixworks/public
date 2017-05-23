@@ -16,7 +16,7 @@ _Context: Iran, United Nations Security Council, nuclear scientist_
 _Context: British troops, Iraq, Iraq War, Prime Minister, Tony Blair, U.K._
 
 ### [ At least five people die as an apartment building collapses in Istanbul, Turkey. ](/news/2007/02/21/at-least-five-people-die-as-an-apartment-building-collapses-in-istanbul-turkey.md)
-_Context: Istanbul, Turkish, apartment-building_
+_Context: Istanbul, Turkey, apartment-building_
 
 ### [ Juniata College defeats Susquehanna University in men's basketball to win first playoff game in the history of the program which is over 100 years old](/news/2007/02/21/juniata-college-defeats-susquehanna-university-in-men-s-basketball-to-win-first-playoff-game-in-the-history-of-the-program-which-is-over-10.md)
 ## [Previous Day...](/news/2007/02/20/index.md)

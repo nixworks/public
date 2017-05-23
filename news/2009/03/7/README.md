@@ -19,7 +19,7 @@ _Context: English, Kuala Lumpur, Malaysia, Royal Police, demonstration, school_
 _Context: London, Protest, Tibet_
 
 ### [ Anti-Israel protestors and Sweden's Police Service clash in Malm, where the two countries were playing a Davis Cup tennis match. ](/news/2009/03/7/anti-israel-protestors-and-sweden-s-police-service-clash-in-malmo-where-the-two-countries-were-playing-a-davis-cup-tennis-match.md)
-_Context: Anti, Davis Cup, Israel, Malm, Police Service, Protest, Swedish, tennis_
+_Context: Anti, Davis Cup, Israel, Malm, Police Service, Protest, Sweden, tennis_
 
 ### [ Palestinian National Authority Prime Minister Salam Fayyad resigns. ](/news/2009/03/7/palestinian-national-authority-prime-minister-salam-fayyad-resigns.md)
 The Palestinian prime minister, Salam Fayyad, resigned on Saturday in a move intended to pave the way for a power-sharing deal between the two rival Palestinian political forces &ndash; Hamas and Fatah.

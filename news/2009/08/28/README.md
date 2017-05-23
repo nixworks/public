@@ -4,13 +4,13 @@
 A suicide bomber tried to assassinate the head of Saudi Arabia’s antiterrorism efforts, the official news agency reported from the Saudi capital, Riyadh.
 
 ### [ ''Reading Rainbow'', the third longest-running children's show on United States public-service television network PBS, ends its 26-year run.  ](/news/2009/08/28/reading-rainbow-the-third-longest-running-children-s-show-on-united-states-public-service-television-network-pbs-ends-its-26-year-run.md)
-_Context: PBS, Reading Rainbow, U.S._
+_Context: PBS, Reading Rainbow, United States_
 
 ### [ The detailed chemical structure of a single molecule has been imaged for the first time. The physical shape of single carbon nanotubes has been outlined before, using similar techniques,  but the new method even shows up chemical bonds. ](/news/2009/08/28/the-detailed-chemical-structure-of-a-single-molecule-has-been-imaged-for-the-first-time-the-physical-shape-of-single-carbon-nanotubes-has.md)
 _Context: carbon nanotubes, chemical bonds, chemical structure, molecule, similar techniques_
 
 ### [ The United Nations warns that poultry farms could become infected with the H1N1 virus, following the discovery of the virus in turkeys in Chile last week. ](/news/2009/08/28/the-united-nations-warns-that-poultry-farms-could-become-infected-with-the-h1n1-virus-following-the-discovery-of-the-virus-in-turkeys-in-c.md)
-_Context: Chile, Turkish, United Nations, pandemic H1N1/09 virus, poultry, virus_
+_Context: Chile, Turkey, United Nations, pandemic H1N1/09 virus, poultry, virus_
 
 ### [ According to declassified documents released this week, a survival manual produced by Transport Canada was used by U.S. interrogators to set limits on dousing detainees with cold water as a form of water torture. ](/news/2009/08/28/according-to-declassified-documents-released-this-week-a-survival-manual-produced-by-transport-canada-was-used-by-u-s-interrogators-to-se.md)
 _Context: Guantanamo Bay detention camp, Transport Canada, detainees, dousing, survival manual, water torture_
@@ -22,7 +22,7 @@ _Context: Japan, unemployment rate_
 _Context: Iceland, Icesave, Netherlands, US$, United Kingdom, parliament (Althing)_
 
 ### [ The Los Angeles County coroner rules that American entertainer and musician Michael Jackson's death was a homicide caused by acute intoxication from the drug propofol. ](/news/2009/08/28/the-los-angeles-county-coroner-rules-that-american-entertainer-and-musician-michael-jackson-s-death-was-a-homicide-caused-by-acute-intoxica.md)
-_Context: Los Angeles County, California, Michael Jackson, U.S., coronial, death, drug, homicide, intoxication, propofol_
+_Context: Los Angeles County, California, Michael Jackson, United States, coronial, death, drug, homicide, intoxication, propofol_
 
 ### [ Prime Minister of Italy Silvio Berlusconi launches legal action against French weekly ''Nouvel Observateur'', Spanish newspaper ''El Pas'', and Italian newspaper ''La Repubblica'', and has authorized his attorneys to prepare cases against British newspapers, charging the newspapers with libel.  ](/news/2009/08/28/prime-minister-of-italy-silvio-berlusconi-launches-legal-action-against-french-weekly-nouvel-observateur-spanish-newspaper-el-pais.md)
 Italian Prime Minister Silvio Berlusconi is launching legal actions against media in Italy and abroad, including Britain, France and Spain, for libel in their coverage of his private life, his lawyer said on Friday.

@@ -7,7 +7,7 @@ _Context: Akmal Shaikh, European Union, Gordon Brown, People's Republic of China
 _Context: South Sudan, Sudanese parliament, independent, referendum_
 
 ### [ A Turkish court sentences a Kurdish man to life in prison for a minibus bombing in 2005 that killed five people. ](/news/2009/12/29/a-turkish-court-sentences-a-kurdish-man-to-life-in-prison-for-a-minibus-bombing-in-2005-that-killed-five-people.md)
-_Context: Kurdish, Turkish, minibus bombing in 2005_
+_Context: Kurdish, Turkey, minibus bombing in 2005_
 
 ### [ Bangladesh says it will repatriate 9,000 Rohingya refugees staying at camps in the country back to Burma. ](/news/2009/12/29/bangladesh-says-it-will-repatriate-9-000-rohingya-refugees-staying-at-camps-in-the-country-back-to-burma.md)
 _Context: Bangladesh, Burma, Rohingya minority_
@@ -31,10 +31,10 @@ A Greek-owned cargo ship and a British-flagged chemical tanker have been seized,
 _Context: China, Japan, U.S._
 
 ### [ An American Christian activist is reportedly arrested after crossing into North Korea from China, according to North Korean media. ](/news/2009/12/29/an-american-christian-activist-is-reportedly-arrested-after-crossing-into-north-korea-from-china-according-to-north-korean-media.md)
-_Context: Christian, North Korea, People's Republic of China, U.S., state media_
+_Context: Christian, North Korea, People's Republic of China, United States, state media_
 
 ### [ Two Italians are injured and one American is killed in a shooting incident in Badghis Province, Afghanistan. ](/news/2009/12/29/two-italians-are-injured-and-one-american-is-killed-in-a-shooting-incident-in-badghis-province-afghanistan.md)
-_Context: Afghanistan, Badghis Province, Italian, U.S._
+_Context: Afghanistan, Badghis Province, Italian, United States_
 
 ## [Previous Day...](/news/2009/12/28/index.md)
 

@@ -1,10 +1,10 @@
 ## [2008-08-1](/news/2008/08/1/index.md)
 
 ### [ The International Atomic Energy Agency unanimously approves a safeguards agreement with India, a precondition of the nuclear deal with the United States. ](/news/2008/08/1/the-international-atomic-energy-agency-unanimously-approves-a-safeguards-agreement-with-india-a-precondition-of-the-nuclear-deal-with-the.md)
-_Context: India, International Atomic Energy Agency, U.S._
+_Context: India, International Atomic Energy Agency, United States_
 
 ### [ Unemployment in the United States rises to 5.7 per cent, its highest rate in more than four years. ](/news/2008/08/1/unemployment-in-the-united-states-rises-to-5-7-per-cent-its-highest-rate-in-more-than-four-years.md)
-_Context: U.S., unemployment_
+_Context: United States, unemployment_
 
 ### [ Vietnam's capital Hanoi absorbs the neighboring province of H Ty, tripling its area and doubling its population. ](/news/2008/08/1/vietnam-s-capital-hanoi-absorbs-the-neighboring-province-of-ha-tay-tripling-its-area-and-doubling-its-population.md)
 _Context: H Ty, Hanoi, Vietnam, province_
@@ -22,7 +22,7 @@ _Context: 2008 Olympic Games, Beijing Olympiad, Beijing Organizing Committee, In
 _Context: King Tupou V, Monarch of Tonga_
 
 ### [ At least 11 people die following the collapse of a three-story girls' dormitory due to an explosion in the village of Balcilar in Konya Province in central Anatolia, Turkey. ](/news/2008/08/1/at-least-11-people-die-following-the-collapse-of-a-three-story-girls-dormitory-due-to-an-explosion-in-the-village-of-balcilar-in-konya-pro.md)
-_Context: Anatolia, Konya Province, Turkish_
+_Context: Anatolia, Konya Province, Turkey_
 
 ### [ The South Asian Association for Regional Cooperation holds a summit meeting in Colombo, Sri Lanka, with terrorism high on the agenda. ](/news/2008/08/1/the-south-asian-association-for-regional-cooperation-holds-a-summit-meeting-in-colombo-sri-lanka-with-terrorism-high-on-the-agenda.md)
 _Context: Colombo, South Asian Association for Regional Cooperation, Sri Lanka, terrorism_

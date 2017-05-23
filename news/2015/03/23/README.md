@@ -19,7 +19,7 @@ Former Grand Slam tennis champion Bob Hewitt, 75, has been found guilty of two c
 Former NFL star Darren Sharper admitted in court on Monday to drugging and raping women in California and Arizona and was expected to plead guilty in similar Nevada and Louisiana cases in plea deals prosecutors say will land him in prison for at least nine years.
 
 ### [The U.S. Supreme Court affirms Wisconsin's law requiring voters to present photo identification to cast a ballot. ](/news/2015/03/23/the-u-s-supreme-court-affirms-wisconsin-s-law-requiring-voters-to-present-photo-identification-to-cast-a-ballot.md)
-_Context: U.S. Supreme Court, Wisconsin_
+_Context: United States Supreme Court, Wisconsin_
 
 ### [The U.S. state of Utah reinstates the use of execution by firing squad for situations where lethal injection is not possible. ](/news/2015/03/23/the-u-s-state-of-utah-reinstates-the-use-of-execution-by-firing-squad-for-situations-where-lethal-injection-is-not-possible.md)
 _Context: Utah, execution by firing squad, lethal injection_

@@ -31,7 +31,7 @@ _Context: Illegal immigration from Africa to Europe_
 Exit poll puts his PRI party ahead with 33% in the lower house elections dominated by violence and fears about corruption and the economy
 
 ### [Voters in Turkey go to the polls for a general election with the ruling AKP seeking enough votes to enable them to change the constitution. However, early projections show that they will lose their majority in the new parliament.  ](/news/2015/06/7/voters-in-turkey-go-to-the-polls-for-a-general-election-with-the-ruling-akp-seeking-enough-votes-to-enable-them-to-change-the-constitution.md)
-_Context: Turkish, constitution, election in June, ruling party_
+_Context: Turkey, constitution, election in June, ruling party_
 
 ## [Previous Day...](/news/2015/06/6/index.md)
 

@@ -10,7 +10,7 @@ _Context: Gabon, Omar Bongo, President, Spain_
 _Context: Bosnia, Bosnian War, Ratko Mladic, Serbia, genocide_
 
 ### [ Swedish sports car maker Koenigsegg is to buy Saab Automobile from General Motors with support from Norwegian investors.](/news/2009/06/11/swedish-sports-car-maker-koenigsegg-is-to-buy-saab-automobile-from-general-motors-with-support-from-norwegian-investors.md)
-_Context: General Motors, Koenigsegg, Norway, Saab Automobile, Swedish_
+_Context: General Motors, Koenigsegg, Norway, Saab Automobile, Sweden_
 
 ### [ Dail Eireann debates the findings of the Commission to Inquire into Child Abuse, delayed by the motion of no confidence in the Irish Government opened by Fine Gael. ](/news/2009/06/11/da-il-aireann-debates-the-findings-of-the-commission-to-inquire-into-child-abuse-delayed-by-the-motion-of-no-confidence-in-the-irish-gove.md)
 _Context: Commission to Inquire into Child Abuse, Dail Eireann, Fine Gael, Irish government, no-confidence_

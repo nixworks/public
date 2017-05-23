@@ -19,7 +19,7 @@ _Context: Cuba, Tropical Depression Chris_
 _Context: 2006, Floyd Landis, cyclist, testosterone_
 
 ### [ Southeastern Anatolia Project: Construction of the Ilisu Dam, which upon completion would cause the flooding of the ancient city of Hasankeyf in Turkey, starts. ](/news/2006/08/5/southeastern-anatolia-project-construction-of-the-ila-su-dam-which-upon-completion-would-cause-the-flooding-of-the-ancient-city-of-hasank.md)
-_Context: Hasankeyf, Ilisu Dam, Southeastern Anatolia Project, Turkish_
+_Context: Hasankeyf, Ilisu Dam, Southeastern Anatolia Project, Turkey_
 
 ## [Previous Day...](/news/2006/08/4/index.md)
 

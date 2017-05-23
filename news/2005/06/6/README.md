@@ -22,7 +22,7 @@ _Context: Debian GNU/Linux_
 _Context: Apple Computer, IBM, Intel, Macintosh_
 
 ### [ The Supreme Court of the United States found for the federal government in a 6-3 decision in the medical marijuana case Ashcroft v. Raich. The court also decided in Spector v. Norwegian Cruise Line Ltd. by ruling that the ADA applies to foreign cruise ships.](/news/2005/06/6/the-supreme-court-of-the-united-states-found-for-the-federal-government-in-a-6-3-decision-in-the-medical-marijuana-case-ashcroft-v-raich.md)
-_Context: ADA, Ashcroft v. Raich, Medical marijuana, Spector v. Norwegian Cruise Line Ltd., U.S. Supreme Court_
+_Context: ADA, Ashcroft v. Raich, Medical marijuana, Spector v. Norwegian Cruise Line Ltd., United States Supreme Court_
 
 ### [ U.S. Secretary of State Condoleezza Rice opened the 35th General Assembly meeting of the Organization of American States Sunday in Fort Lauderdale, Florida. Secretary Rice called on member states to do more to protect democracy in the region, and strengthen civil society. ](/news/2005/06/6/u-s-secretary-of-state-condoleezza-rice-opened-the-35th-general-assembly-meeting-of-the-organization-of-american-states-sunday-in-fort-lau.md)
 _Context: Condoleezza Rice, Florida, Fort Lauderdale, Florida, Organization of American States_
@@ -40,7 +40,7 @@ _Context: Bougainville Island, Joseph Kabui, autonomous government_
 _Context: Australia, Chen Yonglin, People's Republic of China, espionage, political asylum_
 
 ### [ In Washington state, United States, the battle over the results of the 2004 gubernatorial election is settled by a county judge, approving the final count in favor of Christine Gregoire.](/news/2005/06/6/in-washington-state-united-states-the-battle-over-the-results-of-the-2004-gubernatorial-election-is-settled-by-a-county-judge-approving.md)
-_Context: 2004 gubernatorial election, Christine Gregoire, U.S., Washington_
+_Context: 2004 gubernatorial election, Christine Gregoire, United States, Washington_
 
 ## [Previous Day...](/news/2005/06/5/index.md)
 

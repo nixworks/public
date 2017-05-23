@@ -49,7 +49,7 @@ _Context: Carbapenem-resistant enterobacteriaceae, FDA, February 19, Olympus Cor
 _Context: Murder of Travis Alexander, Phoenix, Arizona_
 
 ### [The U.S. Supreme Court schedules oral arguments for hearing cases regarding the bans by states of gay marriage on April 28, 2015. ](/news/2015/03/5/the-u-s-supreme-court-schedules-oral-arguments-for-hearing-cases-regarding-the-bans-by-states-of-gay-marriage-on-april-28-2015.md)
-_Context: U.S. Supreme Court, gay marriage_
+_Context: United States Supreme Court, gay marriage_
 
 ### [A mob storms the central jail in Dimapur, India, and kills Farid Khan, an undocumented migrant from Bangladesh in custody as a rape suspect. The mob ransacks and destroys over 20 shops and torches ten vehicles including a police jeep. ](/news/2015/03/5/a-mob-storms-the-central-jail-in-dimapur-india-and-kills-farid-khan-an-undocumented-migrant-from-bangladesh-in-custody-as-a-rape-suspect.md)
 A rape accused was lynched by a mob in Dimapur; one person died in police firing

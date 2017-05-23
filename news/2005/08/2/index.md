@@ -34,7 +34,7 @@ _Context: Brandenburg, German, Sabine H., infanticide_
 Frontpage | New Straits Times : Authoritative source for Malaysia latest news on politics, business, sports, world and entertainment
 
 ### [ In Turkey, two explosions injure 6 people in Antalya, a popular tourist resort. The tourism minister blames gas leaks but the police are investigating. ](/news/2005/08/2/in-turkey-two-explosions-injure-6-people-in-antalya-a-popular-tourist-resort-the-tourism-minister-blames-gas-leaks-but-the-police-are-in.md)
-_Context: Antalya, Turkish, natural gas leak, police_
+_Context: Antalya, Turkey, natural gas leak, police_
 
 ### [ In France, medical authorities investigate a case where remains of 351 stillborn fetuses had been kept in storage in St Vincent de Paul hospital against the law and the parents' consent. ](/news/2005/08/2/in-france-medical-authorities-investigate-a-case-where-remains-of-351-stillborn-fetuses-had-been-kept-in-storage-in-st-vincent-de-paul-hos.md)
 _Context: France, St Vincent de Paul hospital, fetus, stillborn_

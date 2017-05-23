@@ -1,7 +1,7 @@
 ## [2006-01-4](/news/2006/01/4/index.md)
 
 ### [ Turkey announces two confirmed human cases of the avian influenza. ](/news/2006/01/4/turkey-announces-two-confirmed-human-cases-of-the-avian-influenza.md)
-_Context: Turkish, bird flu_
+_Context: Turkey, bird flu_
 
 ### [ The King of Saudi Arabia, Abdullah al-Saud, offers to pay for repairs to the Jama Masjid in Delhi, India. The King also offers to fund education in India. ](/news/2006/01/4/the-king-of-saudi-arabia-abdullah-al-saud-offers-to-pay-for-repairs-to-the-jama-masjid-in-delhi-india-the-king-also-offers-to-fund-educ.md)
 _Context: Abdullah, Delhi, Jama Masjid, King_

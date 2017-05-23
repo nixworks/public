@@ -19,7 +19,7 @@ _Context: California, Ronald Whyte, U.S. federal court, freedom of speech, judge
 A U.S. Border Patrol agent must stand trial for murder in the shooting of a Mexican man trying to enter the United States, an Arizona judge ruled Monday in a case that drew criticism from Mexico.
 
 ### [ The United States Food and Drug Administration approves Pfizer's AIDS drug Selzentry. ](/news/2007/08/6/the-united-states-food-and-drug-administration-approves-pfizer-s-aids-drug-selzentry.md)
-_Context: AIDS, Pfizer Inc., Selzentry, United States Food and Drug Administration, drug_
+_Context: AIDS, Pfizer, Selzentry, United States Food and Drug Administration, drug_
 
 ### [ 50 feared dead when a boat carrying 130 passengers overturned in the midstream of River Ganges in Bihar, India.](/news/2007/08/6/50-feared-dead-when-a-boat-carrying-130-passengers-overturned-in-the-midstream-of-river-ganges-in-bihar-india.md)
 _Context: Bihar, Ganges_

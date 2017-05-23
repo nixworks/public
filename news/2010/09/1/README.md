@@ -28,7 +28,7 @@ Actress Zsa Zsa Gabor is rushed back to hospital in Los Angeles after slipping i
 _Context: A Journey, Prime Minster, Tony Blair, United Kingdom, autobiography, bestseller_
 
 ### [United States rapper T.I. and his wife singer Tameka Cottle are arrested on Sunset Boulevard in Los Angeles for illegal drug possession. ](/news/2010/09/1/united-states-rapper-t-i-and-his-wife-singer-tameka-cottle-are-arrested-on-sunset-boulevard-in-los-angeles-for-illegal-drug-possession.md)
-_Context: Los Angeles, California, Sunset Boulevard, T.I., Tameka Cottle, U.S., rapper_
+_Context: Los Angeles, California, Sunset Boulevard, T.I., Tameka Cottle, United States, rapper_
 
 ### [Archaeologists discover 200 year old bottles of beer in a shipwreck south of the autonomous Aland Islands in the Baltic Sea believed to be the world's oldest. ](/news/2010/09/1/archaeologists-discover-200-year-old-bottles-of-beer-in-a-shipwreck-south-of-the-autonomous-aland-islands-in-the-baltic-sea-believed-to-be-t.md)
 _Context: Aland Islands, Archaeologist, Baltic Sea, beer, shipwreck_
@@ -67,7 +67,7 @@ European countries asked Kenyan ambassadors to explain why Kenya refused to arre
 The United States on Wednesday added the Pakistani Taliban to its list of foreign terrorist organizations and set rewards of up to $5 million for information leading to the capture of two of its leaders.
 
 ### [President of the United States Barack Obama meets with a range of Middle East leaders in pursuit of peace between Israel and Palestine, including Prime Minister of Israel Benjamin Netanyahu, President of the Palestinian Authority Mahmoud Abbas, King of Jordan Abdullah II and President of Egypt Hosni Mubarak. ](/news/2010/09/1/president-of-the-united-states-barack-obama-meets-with-a-range-of-middle-east-leaders-in-pursuit-of-peace-between-israel-and-palestine-incl.md)
-_Context: Abdullah II, Barack Obama, Benjamin Netanyahu, Egyptian President, Hosni Mubarak, Israel, Jordanian King, Mahmoud Abbas, Middle East, Palestinian, President of the Palestinian Authority, Prime Minister of Israel, U.S. President_
+_Context: Abdullah II, Barack Obama, Benjamin Netanyahu, Egyptian President, Hosni Mubarak, Israel, Jordanian King, Mahmoud Abbas, Middle East, Palestinian, President of the Palestinian Authority, Prime Minister of Israel, United States President_
 
 ### [Greece brings into force a smoking ban. ](/news/2010/09/1/greece-brings-into-force-a-smoking-ban.md)
 A new law comes into force in Greece banning smoking in enclosed public spaces and prohibiting tobacco advertising.
@@ -79,7 +79,7 @@ Four Afghan asylum seekers have been hospitalised with dehydration after pushing
 Two Yemenis arrested in Amsterdam on suspicion of planning a terror attack are released, prosecutors in the Netherlands say.
 
 ### [Swedish prosecutors decide to reopen a rape case against Wikileaks founder Julian Assange; Assange denies the allegations. ](/news/2010/09/1/swedish-prosecutors-decide-to-reopen-a-rape-case-against-wikileaks-founder-julian-assange-assange-denies-the-allegations.md)
-_Context: Julian Assange, Swedish, WikiLeaks, prosecutor, rape_
+_Context: Julian Assange, Sweden, WikiLeaks, prosecutor, rape_
 
 ### [A man upset with the Discovery Channel's environmental programs takes several people hostage at its headquarters in Silver Spring, Maryland, near Washington, DC. Police snipers eventually kill him with the hostages being safe. ](/news/2010/09/1/a-man-upset-with-the-discovery-channel-s-environmental-programs-takes-several-people-hostage-at-its-headquarters-in-silver-spring-maryland.md)
 _Context: Discovery Channel, Silver Spring, Maryland, Washington DC, environmental, takes several people hostage_

@@ -19,7 +19,7 @@ Special services are being held in Brazil in memory of the 237 people who died i
 _Context: Iran, Kazakhstan_
 
 ### [In response to Israeli air strikes on Syria, Prime Minister of Turkey Recep Tayyip Erdogan says Israel's government is waging "state terrorism". ](/news/2013/02/3/in-response-to-israeli-air-strikes-on-syria-prime-minister-of-turkey-recep-tayyip-erdoaan-says-israel-s-government-is-waging-state-terror.md)
-_Context: Israel, Prime Minister of Turkey, Recep Tayyip Erdogan, Syria, Turkish_
+_Context: Israel, Prime Minister of Turkey, Recep Tayyip Erdogan, Syria, Turkey_
 
 ## [Previous Day...](/news/2013/02/2/index.md)
 

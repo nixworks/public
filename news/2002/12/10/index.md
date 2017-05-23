@@ -13,7 +13,7 @@ _Context: New York, death penalty_
 _Context: Christos Pantelis, MRI scans, The Lancet, University of Melbourne, brain, mental illness, schizophrenia_
 
 ### [Nobel Prize awards in Stockholm, Sweden and Oslo, Norway.](/news/2002/12/10/nobel-prize-awards-in-stockholm-sweden-and-oslo-norway.md)
-_Context: Nobel Prize, Norway, Oslo, Stockholm, Swedish_
+_Context: Nobel Prize, Norway, Oslo, Stockholm, Sweden_
 
 ### [The Southern Association of Colleges and Schools revoked the accreditation of Morris Brown College in Atlanta, Georgia, for financial irregularities.](/news/2002/12/10/the-southern-association-of-colleges-and-schools-revoked-the-accreditation-of-morris-brown-college-in-atlanta-georgia-for-financial-irregu.md)
 _Context: Atlanta, Georgia, Morris Brown College_

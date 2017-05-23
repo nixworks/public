@@ -19,7 +19,7 @@ Heavy rain causes flash flooding in a north Devon coastal village, damaging home
 The first private clinic to offer abortions to women in Northern Ireland is due to open next week, but pro-life campaigners say they will fight to have it shut down.
 
 ### [Seven prisoners from Amasya Prison in Turkey say that they began "indefinite and irreversible" hunger strikes on October 5, and their health is at serious risk. ](/news/2012/10/11/seven-prisoners-from-amasya-prison-in-turkey-say-that-they-began-indefinite-and-irreversible-hunger-strikes-on-october-5-and-their-health.md)
-_Context: Amasya, Turkish, hunger strike_
+_Context: Amasya, Turkey, hunger strike_
 
 ### [Turkey says investigators found Russian-made ammunition and military communications equipment in a Syrian passenger plane heading to Damascus from Moscow. Syria accuses Turkey of aircraft piracy, says the plane did not carry the alleged equipment and challenges Turkey to show evidence. ](/news/2012/10/11/turkey-says-investigators-found-russian-made-ammunition-and-military-communications-equipment-in-a-syrian-passenger-plane-heading-to-damascu.md)
 Syria has accused Turkey of “air piracy” after Turkish fighter jets on Wednesday forced a civilian Syrian aircraft to land in Ankara — an event that is likely to cement political ties among Syria, Rus

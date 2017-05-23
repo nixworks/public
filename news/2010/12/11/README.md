@@ -7,7 +7,7 @@ _Context: Davao City, New People's Army, Philippines_
 Suspected drug lord Nazario Moreno was gunned down late on Thursday by security forces amid an ongoing crackdown in western Mexico, Mexican national security spokesman Alejandro Poire said on Friday.
 
 ### [At least two car bombs explode in Stockholm, Sweden, killing at least one person and injuring two more. ](/news/2010/12/11/at-least-two-car-bombs-explode-in-stockholm-sweden-killing-at-least-one-person-and-injuring-two-more.md)
-_Context: Stockholm, Swedish, car bombs explode_
+_Context: Stockholm, Sweden, car bombs explode_
 
 ### [Inflation in China reaches a 28-month high, at 5.1%. ](/news/2010/12/11/inflation-in-china-reaches-a-28-month-high-at-5-1.md)
 _Context: People's Republic of China_

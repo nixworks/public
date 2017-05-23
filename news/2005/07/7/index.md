@@ -22,7 +22,7 @@ _Context: AIDS, circumcision_
 _Context: Brazil, firearm, gun control, referendum_
 
 ### [ In Turkey, a land mine placed on the tracks derails a freight train. There are no reports of casualties. ](/news/2005/07/7/in-turkey-a-land-mine-placed-on-the-tracks-derails-a-freight-train-there-are-no-reports-of-casualties.md)
-_Context: Turkish, freight, land mine, train_
+_Context: Turkey, freight, land mine, train_
 
 ### [ In Hungary, a hoaxed bomb threat forces evacuation of three shopping malls. ](/news/2005/07/7/in-hungary-a-hoaxed-bomb-threat-forces-evacuation-of-three-shopping-malls.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

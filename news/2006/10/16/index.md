@@ -19,7 +19,7 @@ _Context: Hong Kong Stock Exchange, IPO, Industrial and Commercial Bank of China
 _Context: LTTE, Sri Lankan Navy_
 
 ### [ Swedish Minister for Culture Cecilia Steg Chil resigns after 11 days in office, the second resignation within the Cabinet of Fredrik Reinfeldt. ](/news/2006/10/16/swedish-minister-for-culture-cecilia-stego-chilo-resigns-after-11-days-in-office-the-second-resignation-within-the-cabinet-of-fredrik-rein.md)
-_Context: Cabinet of Fredrik Reinfeldt, Cecilia Steg Chil, Swedish_
+_Context: Cabinet of Fredrik Reinfeldt, Cecilia Steg Chil, Sweden_
 
 ### [ The government of Hong Kong will not appeal a court ruling striking down the territory's sodomy law. ](/news/2006/10/16/the-government-of-hong-kong-will-not-appeal-a-court-ruling-striking-down-the-territory-s-sodomy-law.md)
 _Context: Hong Kong, sodomy law_

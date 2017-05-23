@@ -19,7 +19,7 @@ _Context: Iraq, Mehdi Army, Muqtada al-Sadr, militia_
 Sen. Tim Johnson, a Democrat who has been recovering from brain surgery since December, plans to return to his Senate office on September 5, his office said on Wednesday.
 
 ### [ The United States Department of Defense's inspector general launches an investigation into the United States military's inability to account for weapons sent to Iraq after reports that Kurdish militants were using US weapons to attack Turkey. ](/news/2007/08/29/the-united-states-department-of-defense-s-inspector-general-launches-an-investigation-into-the-united-states-military-s-inability-to-accoun.md)
-_Context: Defense Department, Iraq, Kurd, Turkish_
+_Context: Defense Department, Iraq, Kurd, Turkey_
 
 ### [ Thousands of people protest in Chile against the economic policies of the President Michelle Bachelet with 350 arrests made when they attempt to enter the grounds of the presidential palace. ](/news/2007/08/29/thousands-of-people-protest-in-chile-against-the-economic-policies-of-the-president-michelle-bachelet-with-350-arrests-made-when-they-attem.md)
 Thousands of workers have marched in Santiago against the economic policies of President Michelle Bachelet, arguing for more social equality.
@@ -58,7 +58,7 @@ _Context: Agra, India, curfew_
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ The United States releases seven Iranians hours after detaining them in a Baghdad hotel. ](/news/2007/08/29/the-united-states-releases-seven-iranians-hours-after-detaining-them-in-a-baghdad-hotel.md)
-_Context: Baghdad, Iran, U.S._
+_Context: Baghdad, Iran, United States_
 
 ### [ Three people are killed - including a father and son - in a "targeted incident" involving firearms at a house in Bishop's Stortford. Two others are injured, but a 3 year-old girl is unharmed. Police are hunting "two Asian men" in connection with the attack. ](/news/2007/08/29/three-people-are-killed-including-a-father-and-son-in-a-targeted-incident-involving-firearms-at-a-house-in-bishop-s-stortford-two-ot.md)
 _Context: Bishop's Stortford_

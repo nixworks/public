@@ -10,7 +10,7 @@ _Context: Mount Everest, Ueli Steck_
 At least 10 people had died and two children were missing late Sunday as a result of tornadoes and flooding in the South and Midwest, brought by a storm that also dumped a rare late-season blizzard in western Kansas on Sunday.
 
 ### [Saeed Karimian, the founder and director of GEM TV, a Persian language network based in Dubai, is shot dead in Istanbul, Turkey, along with his Kuwaiti business partner. Karimian had previously been tried in absentia by a Tehran court and sentenced to six years in prison for spreading propaganda against Iran. ](/news/2017/04/30/saeed-karimian-the-founder-and-director-of-gem-tv-a-persian-language-network-based-in-dubai-is-shot-dead-in-istanbul-turkey-along-with.md)
-_Context: Dubai, GEM TV, Iran, Istanbul, Persian language, Saeed Karimian, Turkish_
+_Context: Dubai, GEM TV, Iran, Istanbul, Persian language, Saeed Karimian, Turkey_
 
 ### [Former Italian Prime Minister Matteo Renzi regains the role of Secretary of the Democratic Party, after his resignation in February, in an open primary election. ](/news/2017/04/30/former-italian-prime-minister-matteo-renzi-regains-the-role-of-secretary-of-the-democratic-party-after-his-resignation-in-february-in-an-o.md)
 Italians voted yesterday overwhelmingly to elect Matteo Renzi as the new head of the ruling Democratic Party, returning him to frontline politics as the party faces a growing challenge from populist politicians.

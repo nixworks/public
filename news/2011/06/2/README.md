@@ -4,7 +4,7 @@
 _Context: Abyei, South Sudan, Sudan_
 
 ### [Syrian civil war: At least 13 people are killed in a continuing crackdown by security forces in Syria; opposition leaders meeting in Turkey call for President Bashar al-Assad to step down. ](/news/2011/06/2/syrian-civil-war-at-least-13-people-are-killed-in-a-continuing-crackdown-by-security-forces-in-syria-opposition-leaders-meeting-in-turkey.md)
-_Context: Bashar al-Assad, President, Syria, Syrian Civil War, Turkish_
+_Context: Bashar al-Assad, President, Syria, Syrian Civil War, Turkey_
 
 ### [Twenty-five Pakistan Army soldiers die after an attack by Afghan militants on a border post in the Dir District. ](/news/2011/06/2/twenty-five-pakistan-army-soldiers-die-after-an-attack-by-afghan-militants-on-a-border-post-in-the-dir-district.md)
 _Context: Afghan, Dir District, Pakistan Army_
@@ -40,7 +40,7 @@ _Context: Russia, Udmurt Republic, ammo depot_
 UN says up to 150 bodies found off the Tunisian coast a day after a boat reportedly carrying 850 people capsized.
 
 ### [South Korea and the United States launch an investigation into allegations by former United States Army soldiers that chemicals including Agent Orange were dumped at Camp Carroll near the city of Daegu. ](/news/2011/06/2/south-korea-and-the-united-states-launch-an-investigation-into-allegations-by-former-united-states-army-soldiers-that-chemicals-including-ag.md)
-_Context: Agent Orange, Camp Carroll, Daegu, South Korea, U.S., United States Army_
+_Context: Agent Orange, Camp Carroll, Daegu, South Korea, United States, United States Army_
 
 ### [WikiLeaks releases secret documents on Egypt's nuclear power plant. ](/news/2011/06/2/wikileaks-releases-secret-documents-on-egypt-s-nuclear-power-plant.md)
 _Context: Egypt, WikiLeaks, nuclear power plants_

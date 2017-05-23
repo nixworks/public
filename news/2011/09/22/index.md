@@ -31,10 +31,10 @@ _Context: Anniston Chemical Activity, Chemical Weapons Treaty, chemical weapons,
 Pope Benedict XVI faces a clamour for change as he heads to Germany for his first state visit, with calls for reform on many fronts &ndash; from recognising gays to ordaining women to the priesthood.
 
 ### [China warns the United States over its proposed sale of newer versions of the General Dynamics F-16 Fighting Falcon to Taiwan. ](/news/2011/09/22/china-warns-the-united-states-over-its-proposed-sale-of-newer-versions-of-the-general-dynamics-f-16-fighting-falcon-to-taiwan.md)
-_Context: China, F-16, Taiwan, U.S._
+_Context: China, F-16, Taiwan, United States_
 
 ### [Representatives of the United States and European nations walk out of the General Assembly of the United Nations during an accusatory speech by the President of Iran, Mahmoud Ahmadinejad. ](/news/2011/09/22/representatives-of-the-united-states-and-european-nations-walk-out-of-the-general-assembly-of-the-united-nations-during-an-accusatory-speech.md)
-_Context: Europe, General Assembly of the United Nations, Mahmoud Ahmadinejad, President, U.S._
+_Context: Europe, General Assembly of the United Nations, Mahmoud Ahmadinejad, President, United States_
 
 ### [The Federal Bureau of Investigation arrests suspected members of the computer hacking groups LulzSec and Anonymous in the US cities of Phoenix, Arizona and San Francisco, California. ](/news/2011/09/22/the-federal-bureau-of-investigation-arrests-suspected-members-of-the-computer-hacking-groups-lulzsec-and-anonymous-in-the-us-cities-of-phoen.md)
 The FBI arrested two alleged members of the hacking collectives LulzSec and Anonymous on Thursday morning in San Francisco and Phoenix and secured charges against a third suspect from Ohio, as first reported by FoxNews.com

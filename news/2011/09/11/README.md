@@ -7,7 +7,7 @@ Ten years on from the day the 9/11 terrorist attacks changed so much for so many
 _Context: Afghanistan, Wardak province, car bomb, military outpost_
 
 ### [Police in Gothenburg, Sweden, arrest four people after a suspected failed terrorist attack. ](/news/2011/09/11/police-in-gothenburg-sweden-arrest-four-people-after-a-suspected-failed-terrorist-attack.md)
-_Context: Gothenburg, Swedish_
+_Context: Gothenburg, Sweden_
 
 ### [At least 22 people are dead in the Indian state of Orissa as a result of flooding. ](/news/2011/09/11/at-least-22-people-are-dead-in-the-indian-state-of-orissa-as-a-result-of-flooding.md)
 _Context: India, Orissa State, flood_

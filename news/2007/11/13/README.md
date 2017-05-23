@@ -4,7 +4,7 @@
 _Context: Kenya, Nakalipithecus nakayamai, fossil, great ape, prehistoric_
 
 ### [ Turkish helicopters bomb several Kurdistan Workers Party positions in northern Iraq. ](/news/2007/11/13/turkish-helicopters-bomb-several-kurdistan-workers-party-positions-in-northern-iraq.md)
-_Context: Iraq, Kurdistan Workers' Party, Turkish, helicopter_
+_Context: Iraq, Kurdistan Workers' Party, Turkey, helicopter_
 
 ### [ 21 Cameroonian soldiers are killed by unknown attackers in the Bakassi peninsula. ](/news/2007/11/13/21-cameroonian-soldiers-are-killed-by-unknown-attackers-in-the-bakassi-peninsula.md)
 _Context: Bakassi, Cameroon_

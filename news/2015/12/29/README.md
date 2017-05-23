@@ -43,7 +43,7 @@ Gov. Eloy S. Inos has passed away in the U.S. mainland, sources told Saipan Trib
 The former New York governor had complained the race had turned into a &quot;reality gong show.”
 
 ### [North Korea's state media says Kim Yang-gon, a top aide to supreme leader Kim Jong-un and secretary of the ruling Workers' Party of Korea (WPK), who was also in charge of ties with South Korea, dies in a car crash. ](/news/2015/12/29/north-korea-s-state-media-says-kim-yang-gon-a-top-aide-to-supreme-leader-kim-jong-un-and-secretary-of-the-ruling-workers-party-of-korea-w.md)
-_Context: Kim Jong-un, Kim Yang-gon, North Korea, South Korea, Workers' Party of Korea, state media_
+_Context: Kim Jong-un, Kim Yang-gon, Korean Central News Agency, North Korea, South Korea, Workers' Party of Korea_
 
 ## [Previous Day...](/news/2015/12/28/index.md)
 

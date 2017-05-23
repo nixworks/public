@@ -7,7 +7,7 @@ _Context: Philippine general election, Philippines_
 _Context: Colombian National Police, Guillermo Chavez, Jorge Daniel Castro, wiretapping_
 
 ### [ A death threat was mailed by PKK to CHP, MHP, DYP and AKP to withdraw their Van and Hakkri candidates to the 2007 general election in Turkey. ](/news/2007/05/14/a-death-threat-was-mailed-by-pkk-to-chp-mhp-dyp-and-akp-to-withdraw-their-van-and-hakkari-candidates-to-the-2007-general-election-in-turk.md)
-_Context: CHP, DYP, Hakkri, Kurdistan Workers' Party, MHP, Turkish, Van, death threat, general elections, ruling party, was mailed_
+_Context: CHP, DYP, Hakkri, Kurdistan Workers' Party, MHP, Turkey, Van, death threat, general elections, ruling party, was mailed_
 
 ### [ United States Deputy Attorney General Paul McNulty will resign, two Justice Department officials tell The Associated Press. ](/news/2007/05/14/united-states-deputy-attorney-general-paul-mcnulty-will-resign-two-justice-department-officials-tell-the-associated-press.md)
 _Context: Deputy Attorney General, Paul McNulty, U.S. Justice Department_
@@ -16,7 +16,7 @@ _Context: Deputy Attorney General, Paul McNulty, U.S. Justice Department_
 _Context: Fatah, Hamas, Hani Kawasmeh, Palestinian, ceasefire_
 
 ### [ President George W. Bush orders United States government agencies to take regulatory steps to reduce automobile emissions. ](/news/2007/05/14/president-george-w-bush-orders-united-states-government-agencies-to-take-regulatory-steps-to-reduce-automobile-emissions.md)
-_Context: Auto, George W. Bush, U.S., U.S. President_
+_Context: Auto, George W. Bush, United States, United States President_
 
 ### [ The U.S. military is to block troops from using YouTube and MySpace and 11 other popular websites for sharing photos, video clips and messages. ](/news/2007/05/14/the-u-s-military-is-to-block-troops-from-using-youtube-and-myspace-and-11-other-popular-websites-for-sharing-photos-video-clips-and-messa.md)
 _Context: MySpace, YouTube, military, video clips_

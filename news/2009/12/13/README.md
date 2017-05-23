@@ -28,7 +28,7 @@ _Context: Hu Jintao, Kazakhstan-China oil pipeline, People's Republic of China_
 _Context: Belgrade, Bosnia and Herzegovina, Sarejevo, Serbia_
 
 ### [ Violence erupts in Turkey after the Constitutional Court of Turkey bans the Democratic Society Party over its alleged terrorist links. ](/news/2009/12/13/violence-erupts-in-turkey-after-the-constitutional-court-of-turkey-bans-the-democratic-society-party-over-its-alleged-terrorist-links.md)
-_Context: Constitutional Court of Turkey, Democratic Society Party, Turkish_
+_Context: Constitutional Court of Turkey, Democratic Society Party, Turkey_
 
 ### [ India successfully test fires its nuclear-capable "Dhanush" missile off the Orissa coast. ](/news/2009/12/13/india-successfully-test-fires-its-nuclear-capable-dhanush-missile-off-the-orissa-coast.md)
 _Context: "Dhanush" missile, India, Orissa State_

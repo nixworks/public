@@ -28,7 +28,7 @@ _Context: Alexis Tsipras, ERT_
 At least 41 people were killed and eight injured on Thursday in a landslide triggered by heavy rainfall that buried six villages in Nepal’s mountainous northeast, the second major disaster to hit the
 
 ### [Health officials in the United States are advising doctors to be on the lookout for MERS following an outbreak in South Korea. ](/news/2015/06/11/health-officials-in-the-united-states-are-advising-doctors-to-be-on-the-lookout-for-mers-following-an-outbreak-in-south-korea.md)
-_Context: Middle East respiratory syndrome, South Korea, U.S._
+_Context: Middle East respiratory syndrome, South Korea, United States_
 
 ### [NGO Federal Interior Ministry of Pakistan has sealed the offices of the NGO Save the Children in Pakistan and issued order for its foreign staff to leave the country within 15 days on account of the NGO's anti-Pakistan activities. [http://tribune.com.pk/story/902072/ngo-save-the-children-ordered-to-leave-pakistan-officials/ (Express Tribune)].](/news/2015/06/11/ngo-federal-interior-ministry-of-pakistan-has-sealed-the-offices-of-the-ngo-save-the-children-in-pakistan-and-issued-order-for-its-foreign-s.md)
 _Context: Pakistan, Save the Children_

@@ -1,7 +1,7 @@
 ## [2007-08-4](/news/2007/08/4/index.md)
 
 ### [ A natural gas pipeline between Turkey and Greece is completed allowing gas to be sent from the Middle East to Europe. ](/news/2007/08/4/a-natural-gas-pipeline-between-turkey-and-greece-is-completed-allowing-gas-to-be-sent-from-the-middle-east-to-europe.md)
-_Context: Europe, Greek, Middle East, Turkish, natural gas_
+_Context: Europe, Greek, Middle East, Turkey, natural gas_
 
 ### [ An outbreak of foot-and-mouth disease in Surrey, England prompts the banning of exports of British livestock and other animal products. ](/news/2007/08/4/an-outbreak-of-foot-and-mouth-disease-in-surrey-england-prompts-the-banning-of-exports-of-british-livestock-and-other-animal-products.md)
 _Context: England, Surrey, foot-and-mouth disease, livestock, outbreak of 2007_
@@ -31,7 +31,7 @@ _Context: Alex Rodriguez, Barry Bonds, Hank Aaron, Major League Baseball, San Fr
 _Context: Chauncey Bailey, Oakland, California, The Oakland Post, police_
 
 ### [ United States forces claim that they have killed Haitham al-Badri, the leader of al-Qaeda in Salahuddin province in Iraq and believed to be the man responsible for the bombing of the Al-Askari Mosque in Samarra in June. ](/news/2007/08/4/united-states-forces-claim-that-they-have-killed-haitham-al-badri-the-leader-of-al-qaeda-in-salahuddin-province-in-iraq-and-believed-to-be.md)
-_Context: Al-Askari Mosque, Haitham al-Badri, Iraq, Salahuddin province, Samarra, U.S., al-Qaeda_
+_Context: Al-Askari Mosque, Haitham al-Badri, Iraq, Salahuddin province, Samarra, United States, al-Qaeda_
 
 ### [ NASA launches the Phoenix Mars Lander which is due to land in Planum Boreum on the Martian northern ice cap next year. ](/news/2007/08/4/nasa-launches-the-phoenix-mars-lander-which-is-due-to-land-in-planum-boreum-on-the-martian-northern-ice-cap-next-year.md)
 _Context: Martian, NASA, Phoenix Mars Lander, Planum Boreum_

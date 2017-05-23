@@ -28,7 +28,7 @@ _Context: Adelaide, Hobart, Melbourne_
 _Context: Belgium, Brussels, European Union, climate change, energy security_
 
 ### [ Turkish prosecutor Abdurrahman Yalcinkaya asks the Constitutional Court of Turkey to ban the ruling Justice and Development Party for anti-secular activities. ](/news/2008/03/13/turkish-prosecutor-abdurrahman-yalassa-nkaya-asks-the-constitutional-court-of-turkey-to-ban-the-ruling-justice-and-development-party-for-ant.md)
-_Context: Abdurrahman Yalcinkaya, Constitutional Court of Turkey, Turkish, ruling party, secular_
+_Context: Abdurrahman Yalcinkaya, Constitutional Court of Turkey, Turkey, ruling party, secular_
 
 ## [Previous Day...](/news/2008/03/12/index.md)
 

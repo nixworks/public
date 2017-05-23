@@ -7,7 +7,7 @@ Internet regulators on Thursday voted to relax rules on domain names like .com o
 _Context: Afghanistan, Pakistan, Taliban_
 
 ### [ North Korea releases details of its nuclear program and the United States removes it from its list of state sponsors of terrorism. ](/news/2008/06/26/north-korea-releases-details-of-its-nuclear-program-and-the-united-states-removes-it-from-its-list-of-state-sponsors-of-terrorism.md)
-_Context: North Korea, U.S., begins, terrorism_
+_Context: North Korea, United States, begins, terrorism_
 
 ### [ The Austrian SPO states that in the future, it wants to hold referendums on EU treaties. ](/news/2008/06/26/the-austrian-spa-states-that-in-the-future-it-wants-to-hold-referendums-on-eu-treaties.md)
 _Context: Austria, EU treaties, health spa_
@@ -19,7 +19,7 @@ Latest environmental news, features and updates. Pictures, video and more.
 A deal to keep disqualified drivers off the roads in the whole of Ireland and Britain has been signed by transport ministers.
 
 ### [ In a 5-4 decision, the Supreme Court of the United States holds in ''District of Columbia v. Heller'' that the Second Amendment to the United States Constitution protects an individual right to own a firearm and keep it on their property, ruling a District of Columbia gun control law unconstitutional and putting many other similar measures in jeopardy. ](/news/2008/06/26/in-a-5a4-decision-the-supreme-court-of-the-united-states-holds-in-district-of-columbia-v-heller-that-the-second-amendment-to-the-un.md)
-_Context: District of Columbia v. Heller, Second Amendment, U.S. Supreme Court, Washington, D.C., firearm, gun control_
+_Context: District of Columbia v. Heller, Second Amendment, United States Supreme Court, Washington, D.C., firearm, gun control_
 
 ### [ A bus and a truck collide in China's Henan Province, leaving five dead and eight injured. ](/news/2008/06/26/a-bus-and-a-truck-collide-in-china-s-henan-province-leaving-five-dead-and-eight-injured.md)
 _Context: China, Henan Province_

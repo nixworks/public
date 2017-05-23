@@ -20,7 +20,7 @@ British Prime Minister Gordon Brown launched an international initiative, which 
 _Context: 2008, Fred Thompson, R, United States Senate_
 
 ### [ Judge William Hoeveler places a stay on ex-Panamanian leader Manuel Noriega's extradition from the United States to France so that his defence can present a new appeal. ](/news/2007/09/5/judge-william-hoeveler-places-a-stay-on-ex-panamanian-leader-manuel-noriega-s-extradition-from-the-united-states-to-france-so-that-his-defe.md)
-_Context: France, Manuel Noriega, Panama, U.S., William Hoeveler, extradited_
+_Context: France, Manuel Noriega, Panama, United States, William Hoeveler, extradited_
 
 ### [ Lawyers for U.S. Senator Larry Craig (R-ID) ask the Senate Select Committee on Ethics to reject a complaint following a guilty plea to disorderly conduct charges in Minneapolis. The Ethics Committee rejects his plea. ](/news/2007/09/5/lawyers-for-u-s-senator-larry-craig-r-id-ask-the-senate-select-committee-on-ethics-to-reject-a-complaint-following-a-guilty-plea-to-diso.md)
 Sen. Larry Craig has all but dropped any notion of trying to complete his term, and is focused on helping Idaho send a new senator to Washington within a few weeks, his top spokesman said Thursday
@@ -44,13 +44,13 @@ _Context: 5th congressional district, Ohio, Paul Gillmor, United States Represen
 _Context: Australian, Mohamed Haneef, visa-free travel_
 
 ### [ The Swedish Minister for Foreign Trade Sten Tolgfors becomes Defense Minister, succeeding Mikael Odenberg who resigned after being overruled by the Finance Minister Anders Borg in budget talks. ](/news/2007/09/5/the-swedish-minister-for-foreign-trade-sten-tolgfors-becomes-defense-minister-succeeding-mikael-odenberg-who-resigned-after-being-overrule.md)
-_Context: Anders Borg, Mikael Odenberg, Minister for Foreign Trade, Sten Tolgfors, Swedish_
+_Context: Anders Borg, Mikael Odenberg, Minister for Foreign Trade, Sten Tolgfors, Sweden_
 
 ### [ Three suspects arrested on terrorism charges yesterday appear before the Federal Court of Justice of Germany in Karlsruhe. ](/news/2007/09/5/three-suspects-arrested-on-terrorism-charges-yesterday-appear-before-the-federal-court-of-justice-of-germany-in-karlsruhe.md)
 _Context: Federal Court of Justice, Karlsruhe, terrorism_
 
 ### [ War in Afghanistan: Afghan and U.S led coalition forces kill 20 insurgents while two Afghan policeman die in a bomb attack. ](/news/2007/09/5/war-in-afghanistan-afghan-and-u-s-led-coalition-forces-kill-20-insurgents-while-two-afghan-policeman-die-in-a-bomb-attack.md)
-_Context: Afghanistan, U.S., War in Afghanistan (2001-present)_
+_Context: Afghanistan, United States, War in Afghanistan (2001-present)_
 
 ### [ Israeli tanks and bulldozers enter the Gaza Strip in a limited operation against rocket launchers. ](/news/2007/09/5/israeli-tanks-and-bulldozers-enter-the-gaza-strip-in-a-limited-operation-against-rocket-launchers.md)
 _Context: Gaza Strip, Israel_

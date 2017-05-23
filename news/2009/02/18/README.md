@@ -7,7 +7,7 @@ _Context: 2009, Eurovision Song Contest, Georgia, Moscow, Prime Minister, Russia
 The nearly complete skeleton of a massive Columbian mammoth who died during the last ice age has been dug out of a construction site near the La Brea Tar Pits in downtown Los Angeles, a remarkable find even in the fossil-rich area, scientists said Wednesday.
 
 ### [ Switzerland's UBS AG will pay the United States federal government US$780 million in fines and restitution after admitting to helping American clients avoid taxes. ](/news/2009/02/18/switzerland-s-ubs-ag-will-pay-the-united-states-federal-government-us-780-million-in-fines-and-restitution-after-admitting-to-helping-ameri.md)
-_Context: American, Swiss, U.S., UBS AG, US$, avoid taxes, fine, restitution_
+_Context: American, Swiss, UBS AG, US$, United States, avoid taxes, fine, restitution_
 
 ### [ A Eurocopter Super Puma carrying 18 people ditches into the North Sea. ](/news/2009/02/18/a-eurocopter-super-puma-carrying-18-people-ditches-into-the-north-sea.md)
 _Context: Eurocopter Super Puma, North Sea, ditches_
@@ -31,7 +31,7 @@ _Context: GEO Television, Pakistan, Swat, Pakistan, War in North-West Pakistan_
 Lucent, Ericsson to upgrade radio network
 
 ### [ Swedish Minister of Enterprise and Energy Maud Olofsson criticizes General Motors for "abandoning" the struggling automaker Saab Automobile. ](/news/2009/02/18/swedish-minister-of-enterprise-and-energy-maud-olofsson-criticizes-general-motors-for-abandoning-the-struggling-automaker-saab-automobile.md)
-_Context: General Motors, Maud Olofsson, Minister of Enterprise and Energy, Saab Automobile, Swedish, automakers_
+_Context: General Motors, Maud Olofsson, Minister of Enterprise and Energy, Saab Automobile, Sweden, automakers_
 
 ### [ The Czech Republic's Chamber of Deputies approves the Treaty of Lisbon. ](/news/2009/02/18/the-czech-republic-s-chamber-of-deputies-approves-the-treaty-of-lisbon.md)
 _Context: Chamber of Deputies, Czech, Treaty of Lisbon_

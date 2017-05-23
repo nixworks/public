@@ -34,7 +34,7 @@ _Context: Fiji, High Commissioner, Voreqe Bainimarama, military government_
 _Context: Cuba, Puerto Rico, United Nations, United Nations General Assembly, Vieques_
 
 ### [ The San Antonio Spurs defeat the Cleveland Cavaliers in Game 4 of the 2007 NBA Finals to win the 2007 National Basketball Association Championship. ](/news/2007/06/14/the-san-antonio-spurs-defeat-the-cleveland-cavaliers-in-game-4-of-the-2007-nba-finals-to-win-the-2007-national-basketball-association-champ.md)
-_Context: 2007 NBA Finals, Cleveland Cavaliers, National Basketball Association, San Antonio Spurs_
+_Context: 2007 NBA Finals, Cleveland Cavaliers, NBA's, San Antonio Spurs_
 
 ### [ Sidney Crosby of the Pittsburgh Penguins wins the Hart Memorial Trophy as the National Hockey League's most valuable player during the  2006&ndash;07 season in the annual NHL awards. ](/news/2007/06/14/sidney-crosby-of-the-pittsburgh-penguins-wins-the-hart-memorial-trophy-as-the-national-hockey-league-s-most-valuable-player-during-the-200.md)
 _Context:  2006&ndash;07 season, Hart Memorial Trophy, National Hockey League, Pittsburgh Penguins, Sidney Crosby_
