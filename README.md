@@ -3,8 +3,11 @@
 ### [Campaigning in the United Kingdom general election is suspended after the bombing at the Manchester Arena. The death toll is 22 with 59 injured. ISIL claims responsibility. Singer/actress Ariana Grande suspends her "Dangerous Woman" tour. ](/news/2017/05/23/campaigning-in-the-united-kingdom-general-election-is-suspended-after-the-bombing-at-the-manchester-arena-the-death-toll-is-22-with-59-inju.md)
 Children were among those killed in the blast after a concert by US singer Ariana Grande.
 
-### [Philippine president Rodrigo Duterte declares martial law on the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/philippine-president-rodrigo-duterte-declares-martial-law-on-the-island-of-mindanao-after-maute-militants-clash-with-army-troops-in-marawi.md)
+### [Moro conflict Philippine president Rodrigo Duterte declares martial law on the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/moro-conflict-pphilippine-president-rodrigo-duterte-declares-martial-law-on-the-island-of-mindanao-after-maute-militants-clash-with-army-tro.md)
 Philippine President Rodrigo Duterte makes the declaration while on an official visit to Russia, as Maute Group members attack Marawi City in Mindanao
+
+### [ The U.S. Navy SEAL Team Six's raid on an  Al Qaeda in Yemen compound in the Ma'rib Governorate kills at least seven militants. Seal Team Six also suffered unspecified injuries that were treated at the site. ](/news/2017/05/23/the-u-s-navy-seal-team-six-s-raid-on-an-al-qaeda-in-yemen-compound-in-the-ma-rib-governorate-kills-at-least-seven-militants-seal-team-si.md)
+At least seven militants were killed during a raid by U.S. Special Forces troops against an al Qaeda compound in Yemen on Tuesday morning, the Pentagon said, the deepest the United States has penetrated Yemen to target the group.
 
 ### [Sir Roger Moore, who played James Bond between 1973 and 1985, dies at age 89. ](/news/2017/05/23/sir-roger-moore-who-played-james-bond-between-1973-and-1985-dies-at-age-89.md)
 The actor, best known for his suave portrayal of James Bond, has died aged 89, his family announces.

@@ -12,6 +12,8 @@ Children were among those killed in the blast after a concert by US singer Arian
 3. [BBC](http://www.bbc.com/news/uk-40020168)
 4. [BBC](http://www.bbc.com/news/uk-england-manchester-40010124)
 5. [CNN](http://money.cnn.com/2017/05/23/media/ariana-grande-tour-suspended/)
+6. [The New York Times](https://www.nytimes.com/2017/05/23/world/europe/manchester-arena-attack-ariana-grande.html?_r=0)
+7. [The Washington Post](https://www.washingtonpost.com/world/lone-attacker-detonated-device-at-manchester-concert-killing-22-including-children/2017/05/23/027d414c-3f57-11e7-b29f-f40ffced2ddb_story.html)
 
 ### Related:
 
