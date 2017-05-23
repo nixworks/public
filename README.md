@@ -6,8 +6,11 @@ Children were among those killed in the blast after a concert by US singer Arian
 ### [Philippine president Rodrigo Duterte declares martial law on the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/philippine-president-rodrigo-duterte-declares-martial-law-on-the-island-of-mindanao-after-maute-militants-clash-with-army-troops-in-marawi.md)
 Philippine President Rodrigo Duterte makes the declaration while on an official visit to Russia, as Maute Group members attack Marawi City in Mindanao
 
-### [Sir Roger Moore, who played James Bond between 1973 and 1985, dies aged 89. ](/news/2017/05/23/sir-roger-moore-who-played-james-bond-between-1973-and-1985-dies-aged-89.md)
+### [Sir Roger Moore, who played James Bond between 1973 and 1985, dies at age 89. ](/news/2017/05/23/sir-roger-moore-who-played-james-bond-between-1973-and-1985-dies-at-age-89.md)
 The actor, best known for his suave portrayal of James Bond, has died aged 89, his family announces.
+
+### [An Indian Air Force Sukhoi Su-30 goes missing near the border with China and is presumed to have crashed along with its two pilots. ](/news/2017/05/23/an-indian-air-force-sukhoi-su-30-goes-missing-near-the-border-with-china-and-is-presumed-to-have-crashed-along-with-its-two-pilots.md)
+_Context: China, Indian Air Force, Sukhoi Su-30_
 
 ### [The White House releases a proposed budget that includes an increase in spending for the military and immigration but a decrease in healthcare and scientific research. ](/news/2017/05/23/the-white-house-releases-a-proposed-budget-that-includes-an-increase-in-spending-for-the-military-and-immigration-but-a-decrease-in-healthca.md)
 The White House says it is a &quot;taxpayer first&quot; budget, but even grizzled conservatives are baulking.
