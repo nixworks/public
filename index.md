@@ -1,10 +1,22 @@
 ## [News](/news/2017/05/23/index.md)
 
-### [Philippines president Rodrigo Duterte declares martial law in Mindanao during a military offensive by the armed forces against the Maute militant group. ](/news/2017/05/23/philippines-president-rodrigo-duterte-declares-martial-law-in-mindanao-during-a-military-offensive-by-the-armed-forces-against-the-maute-mil.md)
+### [Campaigning in the general election is suspended after the bombing at the Manchester Arena. The death toll is 22 with 59 injured. ISIL claims responsibility. ](/news/2017/05/23/campaigning-in-the-general-election-is-suspended-after-the-bombing-at-the-manchester-arena-the-death-toll-is-22-with-59-injured-isil-claim.md)
+Children were among those killed in the blast after a concert by US singer Ariana Grande.
+
+### [Philippine President Rodrigo Duterte declares martial law on the island of Mindanao after ISIL-linked Maute group militants clash with Philippine Army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/philippine-president-rodrigo-duterte-declares-martial-law-on-the-island-of-mindanao-after-isil-linked-maute-group-militants-clash-with-phili.md)
 Philippine President Rodrigo Duterte makes the declaration while on an official visit to Russia, as Maute Group members attack Marawi City in Mindanao
 
-### [Campaigning in the general election is suspended after the bombing at the Manchester Arena. The death toll is 22 with 59 injured. ](/news/2017/05/23/campaigning-in-the-general-election-is-suspended-after-the-bombing-at-the-manchester-arena-the-death-toll-is-22-with-59-injured.md)
-Children were among those killed in the blast after a concert by US singer Ariana Grande.
+### [Sir Roger Moore, who played James Bond between 1973 and 1985, dies aged 89. ](/news/2017/05/23/sir-roger-moore-who-played-james-bond-between-1973-and-1985-dies-aged-89.md)
+The actor, best known for his suave portrayal of James Bond, has died aged 89, his family announces.
+
+### [The White House releases a proposed budget that includes a increase in spending for the military and immigration but a decrease in healthcare and scientific research. ](/news/2017/05/23/the-white-house-releases-a-proposed-budget-that-includes-a-increase-in-spending-for-the-military-and-immigration-but-a-decrease-in-healthcar.md)
+The White House says it is a &quot;taxpayer first&quot; budget, but even grizzled conservatives are baulking.
+
+### [Apple Inc. and Nokia agree to increase their partnership after settling a patent dispute. ](/news/2017/05/23/apple-inc-and-nokia-agree-to-increase-their-partnership-after-settling-a-patent-dispute.md)
+_Context: Apple Inc., Nokia, patent_
+
+### [Two Indonesian men are publicly caned by local authorities on accusation of homosexual intercourse, which is illegal in the Muslim-majority autonomous province of Aceh. ](/news/2017/05/23/two-indonesian-men-are-publicly-caned-by-local-authorities-on-accusation-of-homosexual-intercourse-which-is-illegal-in-the-muslim-majority.md)
+Hooded men inflicted 82 lashes on each of the men as hundreds of people watched.
 
 ### [Scientists discover 7.2 million-year-old "pre-human" remains in the Balkans area near Bulgaria and Greece. ](/news/2017/05/23/scientists-discover-7-2-million-year-old-pre-human-remains-in-the-balkans-area-near-bulgaria-and-greece.md)
 The common lineage of great apes and humans split several hundred thousand earlier than hitherto assumed, according to an international research team headed by Professor Madelaine Böhme from the Senckenberg Centre for Human Evolution and Palaeoenvironment at the University of Tübingen and Professor Nikolai Spassov from the Bulgarian Academy of Sciences. The researchers investigated two fossils of Graecopithecus freybergi with state-of-the-art methods and came to the conclusion that they belong to pre-humans. Their findings, published today in two papers in the journal PLOS ONE, further indicate that the split of the human lineage occurred in the Eastern Mediterranean and not - as customarily assumed - in Africa.
@@ -23,8 +35,8 @@ The explosion happened at the end of a pop concert by the US singer Ariana Grand
 ### ["My Family's Slave"A controversial piece written in ''The Atlantic'' magazine about the Filipino servant caste and the Filipino American family involved in it triggers a debate in both the Philippines and the United States. ](/news/2017/05/22/my-family-s-slave-pa-controversial-piece-written-in-the-atlantic-magazine-about-the-filipino-servant-caste-and-the-filipino-american-fa.md)
 Lola and the universality of women’s exploitation
 
-### [A very small sinkhole opens up on the street in front of the Mar-a-Lago resort of United States President Donald Trump in Florida. ](/news/2017/05/22/a-very-small-sinkhole-opens-up-on-the-street-in-front-of-the-mar-a-lago-resort-of-united-states-president-donald-trump-in-florida.md)
-_Context: Donald Trump, Florida, Mar-a-Lago, United States President, sinkhole_
+### [A small sinkhole opens up on the street in front of the Mar-a-Lago resort of United States President Donald Drumpf in Florida. ](/news/2017/05/22/a-small-sinkhole-opens-up-on-the-street-in-front-of-the-mar-a-lago-resort-of-united-states-president-donald-drumpf-in-florida.md)
+_Context: Donald Drumpf, Florida, Mar-a-Lago, United States President, sinkhole_
 
 ### [Because of a nationwide shortage of  intravenous sodium bicarbonate (i.e., baking soda solution), United States hospitals are  rationing its use in  heart surgery, chemotherapy, for patients whose blood is too acidic, and  as an antidote to certain poisons. The two primary producers, Amphastar and Pfizer, indicate that supplies will not increase until late June. ](/news/2017/05/22/because-of-a-nationwide-shortage-of-intravenous-sodium-bicarbonate-i-e-baking-soda-solution-united-states-hospitals-are-rationing-its.md)
 _Context: Amphastar, Pfizer, chemotherapy, heart surgery, intravenous sodium bicarbonate_
@@ -35,7 +47,7 @@ The United Nations Security Council will hold a closed-door session Tuesday to d
 ### [The Philippines clarifies a controversial remark about a potential "war" with China amid criticism from Filipinos. ](/news/2017/05/22/the-philippines-clarifies-a-controversial-remark-about-a-potential-war-with-china-amid-criticism-from-filipinos.md)
 President Rodrigo Duterte said Xi Jinping had warned him there would be war if the Philippines tried to search for oil in the South China Sea.
 
-### [2017 clashes at the Turkish Embassy in Washington, D.C. Turkey summons United States Ambassador John R. Bass to protest  aggressive and unprofessional actions by American security personnel against Turkish bodyguards,  and calls on the United States to conduct a full investigation of the May 17 clashes.  The American ambassador told Turkey's government its guards violated U.S. laws. Last week, the U.S. summoned Turkish  Ambassador Serdar Kilic about Turkish security officers hitting and kicking protesters outside the Turkish ambassador's residence. ](/news/2017/05/22/2017-clashes-at-the-turkish-embassy-in-washington-d-c-pturkey-summons-united-states-ambassador-john-r-bass-to-protest-aggressive-and-unp.md)
+### [2017 clashes at the Turkish Embassy in Washington, D.C. Turkey summons United States Ambassador John R. Bass to protest alleged aggressive and unprofessional actions by American security personnel against Turkish bodyguards,  and calls on the United States to conduct a full investigation of the May 17 clashes.  The American ambassador told Turkey's government its guards violated U.S. laws. Last week, the U.S. summoned Turkish  Ambassador Serdar Kilic about Turkish security officers hitting and kicking peaceful protesters outside the Turkish ambassador's residence in Washington, D.C. ](/news/2017/05/22/2017-clashes-at-the-turkish-embassy-in-washington-d-c-pturkey-summons-united-states-ambassador-john-r-bass-to-protest-alleged-aggressive.md)
 Turkey is calling for a full investigation of &quot;aggressive&quot; actions taken by American security personnel following a protest-turned-brawl outside the Turkish Embassy in Washington, D.C.
 
 ### [The United States Supreme Court rejects two of North Carolina's congressional districts because they violated the Constitution by relying  too heavily on race in drawing them. ](/news/2017/05/22/the-united-states-supreme-court-rejects-two-of-north-carolina-s-congressional-districts-because-they-violated-the-constitution-by-relying-t.md)
