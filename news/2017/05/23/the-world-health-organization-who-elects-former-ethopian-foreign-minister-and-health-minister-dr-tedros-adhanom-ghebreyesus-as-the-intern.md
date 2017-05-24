@@ -1,6 +1,6 @@
 ### [2017-05-23](/news/2017/05/23/index.md)
 
-# The World Health Organization (WHO) elects former Ethopian Foreign Minister and Health Minister Dr. Tedros Adhanom Ghebreyesus as the international organization's new Director-General  succeeding Dr. Margaret Chan, who has been in office since 2006. Tedros is the first African Director-General and the first non-medical doctor; he has a PhD in Community Health from the University of Nottingham. 
+# The World Health Organization (WHO) elects former Ethopian Foreign Minister and Health Minister Dr. Tedros Adhanom Ghebreyesus as the international organization's new Director-General succeeding Dr. Margaret Chan, who has been in office since 2006. Tedros is the first African Director-General and the first non-medical doctor; he has a PhD in Community Health from the University of Nottingham. 
 
 Today the Member States of WHO elected Dr Tedros Adhanom Ghebreyesus as the new Director-General of WHO. #WHA70
 

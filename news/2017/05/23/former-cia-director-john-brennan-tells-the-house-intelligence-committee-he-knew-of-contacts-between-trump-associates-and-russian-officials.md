@@ -1,6 +1,6 @@
 ### [2017-05-23](/news/2017/05/23/index.md)
 
-# Former CIA Director John Brennan tells the House Intelligence Committee  he knew of contacts between Trump associates and Russian officials, but is not sure collusion existed. Brennan said he warned the Russian intelligence service last August against meddling in the U.S. election.  
+# Former CIA Director John Brennan tells the House Intelligence Committee he knew of contacts between Trump associates and Russian officials, but is not sure collusion existed. Brennan said he warned the Russian intelligence service last August against meddling in the U.S. election. 
 
 Director of National Intelligence Dan Coats on Tuesday refused to address — but he did not deny — reports that President Donald Trump asked him to push back against allegations the Trump campaign colluded with Russia, while a former CIA chief testified he was aware of &quot;interactions&quot; between the campaign and Moscow.
 
