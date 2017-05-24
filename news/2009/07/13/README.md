@@ -16,7 +16,7 @@ _Context: Austria, Bulgaria, Hungary, Nabucco natural gas pipeline, Romania, Tur
 _Context: Mian Channu, Pakistan, bomb blast_
 
 ### [ Greek police use bulldozers to completely clear a sprawling migrant camp that had been in place in the port town of Patras for over a decade.  ](/news/2009/07/13/greek-police-use-bulldozers-to-completely-clear-a-sprawling-migrant-camp-that-had-been-in-place-in-the-port-town-of-patras-for-over-a-decad.md)
-_Context: Greek, Patras, migrants_
+_Context: Greece, Patras, migrants_
 
 ### [ The United Kingdom halts some arms sales to Israel following the Gaza conflict. ](/news/2009/07/13/the-united-kingdom-halts-some-arms-sales-to-israel-following-the-gaza-conflict.md)
 _Context: 2008-2009 Gaza War, Israel, United Kingdom_

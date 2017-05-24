@@ -4,7 +4,7 @@
 A three-day truce comes into effect between Israel and the Palestinians in Gaza, after a day of intense diplomacy in Egypt.
 
 ### [2014 Iraq conflict:The President of Iraqi Kurdistan, Massoud Barzani, appeals for international military aid to help defeat Islamist militants. ](/news/2014/08/10/2014-iraq-conflict-pthe-president-of-iraqi-kurdistan-massoud-barzani-appeals-for-international-military-aid-to-help-defeat-islamist-milita.md)
-_Context: 2014 Iraq conflict, Islamic State, Massoud Barzani, President of Iraqi Kurdistan_
+_Context: 2014 Iraq conflict, ISIL, Massoud Barzani, President of Iraqi Kurdistan_
 
 ### [Typhoon Halong makes landfall on Shikoku in Japan with warnings of the potential of flooding and landslides with at least 39 people killed and nine injured. ](/news/2014/08/10/typhoon-halong-makes-landfall-on-shikoku-in-japan-with-warnings-of-the-potential-of-flooding-and-landslides-with-at-least-39-people-killed-a.md)
 Typhoon Halong slammed into western Japan on Sunday, leaving dozens of people injured while the coastguard searched for a man who went missing apparently while surfing when the storm hit.

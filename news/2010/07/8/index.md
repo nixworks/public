@@ -49,7 +49,7 @@ _Context: Federal Bureau of Investigations, Russia, Russian Spy Ring in the Unit
 The involuntary manslaughter conviction of a white former transit officer in the death of an unarmed black man set the stage for a sentencing that could be just as explosive as the trial. 
 
 ### [Greece heads for a general strike after legislators raise the retirement age from 60 to 65. ](/news/2010/07/8/greece-heads-for-a-general-strike-after-legislators-raise-the-retirement-age-from-60-to-65.md)
-_Context: Greek_
+_Context: Greece_
 
 ### [The IMF raises global economic growth forecast for this year from 4.2% to 4.6%. ](/news/2010/07/8/the-imf-raises-global-economic-growth-forecast-for-this-year-from-4-2-to-4-6.md)
 The International Monetary Fund raises its world economic growth forecast for 2010 from 4.2% to 4.6%, but downgrades the UK.

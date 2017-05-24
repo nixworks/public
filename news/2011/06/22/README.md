@@ -7,7 +7,7 @@ Protesters take to the streets, clashing with police after eight Shia activists 
 _Context: Denmark, Libya, Libyan Civil War, National Transitional Council_
 
 ### [Philippine Army soldiers capture five suspected members of the terrorist group Abu Sayyaf in a raid on Basilan Island. ](/news/2011/06/22/philippine-army-soldiers-capture-five-suspected-members-of-the-terrorist-group-abu-sayyaf-in-a-raid-on-basilan-island.md)
-_Context: Abu Sayyaf, Basilan Island, Philippine Army, terrorism_
+_Context: Abu Sayyaf, Basilan Island, army, terrorism_
 
 ### [A photographer is shot during violence in east Belfast in Northern Ireland. ](/news/2011/06/22/a-photographer-is-shot-during-violence-in-east-belfast-in-northern-ireland.md)
 Police believe dissident republicans were responsible for shooting a photographer during trouble in east Belfast on Tuesday night.

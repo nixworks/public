@@ -34,7 +34,7 @@ Gay and lesbian activists eluded Russian security services in a five-hour game o
 _Context: Bingu wa Mutharika, Malawi, President of Malawi, homosexuality, pardon_
 
 ### [More than 50,000 Greeks with diabetes are left with insulin after Novo Nordisk, the world's leading supplier of the drug, withdraws from Greece in a "brutal capitalist blackmail" after being asked to reduce the cost of its medicine by the Greek government. ](/news/2010/05/29/more-than-50-000-greeks-with-diabetes-are-left-with-insulin-after-novo-nordisk-the-world-s-leading-supplier-of-the-drug-withdraws-from-gre.md)
-_Context: Greek, Novo Nordisk, diabetes, insulin_
+_Context: Greece, Novo Nordisk, diabetes, insulin_
 
 ### [At least 14 people are wounded after dozens of handball fans belonging to rival teams PAOK Thessaloniki and AEK Athens attack each other with petrol bombs, knives, bricks and furniture, leading to a street battle in Lamia. Police deploy tear gas to bring the city under their control. ](/news/2010/05/29/at-least-14-people-are-wounded-after-dozens-of-handball-fans-belonging-to-rival-teams-paok-thessaloniki-and-aek-athens-attack-each-other-wit.md)
 Fans of rival hanball teams clash in the central Greek town of Lamia, with at least 14 people hurt.

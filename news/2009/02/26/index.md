@@ -1,7 +1,7 @@
 ## [2009-02-26](/news/2009/02/26/index.md)
 
 ### [ United States President Barack Obama will withdraw most soldiers from the Iraq War by August 2010. ](/news/2009/02/26/united-states-president-barack-obama-will-withdraw-most-soldiers-from-the-iraq-war-by-august-2010.md)
-_Context: Barack Obama, Iraq, Iraq War, U.S. military personnel, United States, United States President_
+_Context: Barack Obama, Iraq, Iraq War, U.S. President, U.S. military personnel, United States_
 
 ### [ The Bangladesh Rifles surrender after the government promises amnesty. ](/news/2009/02/26/the-bangladesh-rifles-surrender-after-the-government-promises-amnesty.md)
 _Context: 2009 Bangladesh Rifles revolt, Bangladesh, Bangladesh Rifles, amnesty, government_

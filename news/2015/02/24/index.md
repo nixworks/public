@@ -4,7 +4,7 @@
 MIDEAST-CRISIS/BAGHDAD (UPDATE 1):UPDATE 1-Wave of bombings in Baghdad kills 37 people
 
 ### [The Syrian Observatory for Human Rights estimates that ISIL kidnapped at least 150 people from Assyrian Christian villages in Syria in a series of February 23 raids. ](/news/2015/02/24/the-syrian-observatory-for-human-rights-estimates-that-isil-kidnapped-at-least-150-people-from-assyrian-christian-villages-in-syria-in-a-ser.md)
-_Context: Assyrian Christians, Christian, Islamic State, Syria, Syrian Observatory for Human Rights_
+_Context: Assyrian Christians, Christian, ISIL, Syria, Syrian Observatory for Human Rights_
 
 ### [The Congolese Army launches an offensive against FDLR rebels in South Kivu. ](/news/2015/02/24/the-congolese-army-launches-an-offensive-against-fdlr-rebels-in-south-kivu.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

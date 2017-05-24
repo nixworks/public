@@ -19,7 +19,7 @@ Authorities charged Oscar Ramiro Ortega-Hernandez with trying to assassinate Pre
 _Context: Apia, Polynesian Leaders Group, Samoa_
 
 ### [Reports emerge that nearly 14,000 North Korean anti-chemical-weapon suits, believed destined for Syria, were seized by Greek authorities in November 2009. ](/news/2011/11/17/reports-emerge-that-nearly-14-000-north-korean-anti-chemical-weapon-suits-believed-destined-for-syria-were-seized-by-greek-authorities-in.md)
-_Context: Greek, North Korea, Syria, chemical weapon_
+_Context: Greece, North Korea, Syria, chemical weapon_
 
 ### [The United States House of Representatives considers censoring the Internet for the first time with the Stop Online Piracy Act. ](/news/2011/11/17/the-united-states-house-of-representatives-considers-censoring-the-internet-for-the-first-time-with-the-stop-online-piracy-act.md)
 Several Web giants are voicing their opposition to the new Internet piracy bill being debated in Congress, called the Stop Online Piracy Act , known as SOPA.

@@ -1,7 +1,7 @@
 ## [2011-07-28](/news/2011/07/28/index.md)
 
 ### [At least seven Philippine Army soldiers are killed and 21 injured in a confrontation with Abu Sayyaf militants on Jolo Island. ](/news/2011/07/28/at-least-seven-philippine-army-soldiers-are-killed-and-21-injured-in-a-confrontation-with-abu-sayyaf-militants-on-jolo-island.md)
-_Context: Abu Sayyaf, Jolo Island, Philippine Army_
+_Context: Abu Sayyaf, Jolo Island, army_
 
 ### [The United Nations accuses Eritrea of attempting to bomb an African Union summit in Ethiopia. ](/news/2011/07/28/the-united-nations-accuses-eritrea-of-attempting-to-bomb-an-african-union-summit-in-ethiopia.md)
 A United Nations report accuses Eritrea of planning to set off a car bomb at a summit of the African Union in Ethiopia last January.

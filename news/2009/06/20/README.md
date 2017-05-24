@@ -13,7 +13,7 @@ The US will order all its troops in Afghanistan to undergo new training after co
 _Context: Nai Yin Xue, New Zealand, convicts_
 
 ### [ Greece's Acropolis Museum in Athens is unveiled. ](/news/2009/06/20/greece-s-acropolis-museum-in-athens-is-unveiled.md)
-_Context: Acropolis Museum, Athens, Greek_
+_Context: Acropolis Museum, Athens, Greece_
 
 ### [ The bodies of two British hostages in Iraq are discovered. ](/news/2009/06/20/the-bodies-of-two-british-hostages-in-iraq-are-discovered.md)
 Two British hostages held in Iraq since 2007 are feared dead after two bodies were discovered in Baghdad, the Foreign Office has disclosed.

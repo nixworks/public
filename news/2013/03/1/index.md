@@ -10,7 +10,7 @@ _Context: 2013 Lahad Datu standoff, Malaysia, Malaysian Armed Forces, Sabah, Sul
 _Context: Abdelhamid Abou Zeid, Africa, Azawad, Islamist, Military, Northern Mali conflict (2012-present), al-Qaeda_
 
 ### [China's Purchasing Managers Index declines to 50.1 indicating a possible slowdown in the Chinese economy. ](/news/2013/03/1/china-s-purchasing-managers-index-declines-to-50-1-indicating-a-possible-slowdown-in-the-chinese-economy.md)
-_Context: China, Chinese economy, Purchasing Managers Index_
+_Context: China, Economy of the People's Republic of China, Purchasing Managers Index_
 
 ### [A study concludes that clogged arteries around the heart are a risk factor for brain injury from stroke. ](/news/2013/03/1/a-study-concludes-that-clogged-arteries-around-the-heart-are-a-risk-factor-for-brain-injury-from-stroke.md)
 _Context: brain injury, clogged arteries, heart, risk factor, stroke_

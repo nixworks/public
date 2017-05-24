@@ -25,7 +25,7 @@ _Context: Articles of Impeachment, Dennis Kucinich, United States House of Repre
 _Context: Anheuser-Busch, InBev, US$, United States, brewing, takeover_
 
 ### [ Estonia, Greece and Finland ratify the Treaty of Lisbon. ](/news/2008/06/11/estonia-greece-and-finland-ratify-the-treaty-of-lisbon.md)
-_Context: Estonia, Finland, Greek, Treaty of Lisbon_
+_Context: Estonia, Finland, Greece, Treaty of Lisbon_
 
 ### [ Norway legalises same-sex marriage. ](/news/2008/06/11/norway-legalises-same-sex-marriage.md)
 _Context: Norway, same-sex marriage_

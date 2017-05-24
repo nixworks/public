@@ -13,7 +13,7 @@ _Context: South Kordofan, Sudan, United Nations, conflict, war crime_
 _Context: Afghanistan, American Refugee Committee, Pakistan, United States, War in North-West Pakistan_
 
 ### [Israel's navy confiscates a French yacht bound for Gaza, which departed from Greece and attempted to run the blockade after repeated warnings to make for Ashdod instead.  No casualties are reported. ](/news/2011/07/19/israel-s-navy-confiscates-a-french-yacht-bound-for-gaza-which-departed-from-greece-and-attempted-to-run-the-blockade-after-repeated-warning.md)
-_Context: Ashdod, France, Gaza Strip, Greek, Israeli Navy, blockade_
+_Context: Ashdod, France, Gaza Strip, Greece, Israeli Navy, blockade_
 
 ### [A 6.1 magnitude earthquake strikes in southern Kyrgyzstan, near the border with Uzbekistan. ](/news/2011/07/19/a-6-1-magnitude-earthquake-strikes-in-southern-kyrgyzstan-near-the-border-with-uzbekistan.md)
 _Context: Kyrgyzstan, Uzbekistan, earthquake_

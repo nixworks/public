@@ -19,7 +19,7 @@ Around 400 migrants died when their boat capsized during an attempt to reach Ita
 A cruise ship with more than100 passengers and crew suffering from a gastrointestinalailment caused by Norovirus, have arrived in San Diego, a cruiseline spokeswoman said on Thursday.
 
 ### [President of the United States Barack Obama endorses a proposal to remove Cuba from a list of countries that sponsor terrorism. ](/news/2015/04/14/president-of-the-united-states-barack-obama-endorses-a-proposal-to-remove-cuba-from-a-list-of-countries-that-sponsor-terrorism.md)
-_Context: Barack Obama, Cuba, United States President, state sponsor of terrorism_
+_Context: Barack Obama, Cuba, U.S. President, state sponsor of terrorism_
 
 ### [The United Nations Security Council votes to impose sanctions on Yemen's Houthi rebels. ](/news/2015/04/14/the-united-nations-security-council-votes-to-impose-sanctions-on-yemen-s-houthi-rebels.md)
 The United Nations Security Council voted Tuesday to impose an arms embargo on Yemen’s Iran-backed Houthi rebels in an attempt to quell violence that the world body’s envoy to the impoverished Middle East country has warned is on a “rapid downward spiral.”

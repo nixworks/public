@@ -1,7 +1,7 @@
 ## [2013-09-21](/news/2013/09/21/index.md)
 
 ### [Islamic insurgency in the Philippines:Zamboanga City crisis: Six people die in the Philippines city of Zamboanga as fighting continues between the Army and Moro National Liberation Front insurgents. ](/news/2013/09/21/islamic-insurgency-in-the-philippines-pzamboanga-city-crisis-six-people-die-in-the-philippines-city-of-zamboanga-as-fighting-continues-betw.md)
-_Context: Islamic insurgency in the Philippines, Moro National Liberation Front, Philippine Army, Philippines, Zamboanga City, Zamboanga City crisis_
+_Context: Islamic insurgency in the Philippines, Moro National Liberation Front, Philippines, Zamboanga City, Zamboanga City crisis, army_
 
 ### [Iraqi insurgency (post-U.S. withdrawal):Over 100 people are killed in a series of attacks across Iraq, most of them in a twin suicide bombing at a Shiite funeral in Baghdad's Sadr City neighborhood. ](/news/2013/09/21/iraqi-insurgency-post-u-s-withdrawal-pover-100-people-are-killed-in-a-series-of-attacks-across-iraq-most-of-them-in-a-twin-suicide-bombi.md)
 At least 60 people have been killed and 120 injured at a funeral in the mainly Shia Sadr City district of the Iraqi capital, Baghdad.

@@ -1,7 +1,7 @@
 ## [2015-12-22](/news/2015/12/22/index.md)
 
 ### [The Iraqi Army advances into the center of Ramadi, the latest development in the effort, which began in November, to regain the city from the Islamic State of Iraq and the Levant. ](/news/2015/12/22/the-iraqi-army-advances-into-the-center-of-ramadi-the-latest-development-in-the-effort-which-began-in-november-to-regain-the-city-from-th.md)
-_Context: Battle of Ramadi, Iraqi Army, Islamic State, Ramadi_
+_Context: Battle of Ramadi, ISIL, Iraqi Army, Ramadi_
 
 ### [More than 1 million children have been forced out of school as a result of Boko Haram terrorism in northeastern Nigeria and its neighboring countries, which leaves the children more susceptible to violence, poverty and child marriage,  Manuel Fontaine, UNICEF's West and Central Africa regional director, said in a statement. ](/news/2015/12/22/more-than-1-million-children-have-been-forced-out-of-school-as-a-result-of-boko-haram-terrorism-in-northeastern-nigeria-and-its-neighboring.md)
 By Kieran GuilbertDAKAR (Thomson Reuters Foundation) - Violence in northeast Nigeria and neighboring countries targeted by Boko Haram has forced more
@@ -19,7 +19,7 @@ An aircraft crashed into a wall and burst into flames in Dwarka area, on the out
 _Context: Mexico, Villahermosa, pipeline_
 
 ### [Turkey's state-run Anadolu Agency reports 11 migrants, including three children, drowned, and the Turkish coast guard rescued seven Syrians from a capsized boat headed to the Greek island of Samos. ](/news/2015/12/22/turkey-s-state-run-anadolu-agency-reports-11-migrants-including-three-children-drowned-and-the-turkish-coast-guard-rescued-seven-syrians.md)
-_Context: Anadolu News Agency, European migrant crisis, Greek, Samos, Syrian, Turkey, Turkish Coast Guard, migrants_
+_Context: Anadolu News Agency, European migrant crisis, Greece, Samos, Syrian, Turkey, Turkish Coast Guard, migrants_
 
 ### [The Philippines becomes the first country in Asia, and second in the world (after Mexico), to approve use of the dengue vaccine. ](/news/2015/12/22/the-philippines-becomes-the-first-country-in-asia-and-second-in-the-world-after-mexico-to-approve-use-of-the-dengue-vaccine.md)
 Dengvaxia, manufactured by French pharmaceutical giant Sanofi, is also being reviewed by around 20 countries in Asia and Latin America

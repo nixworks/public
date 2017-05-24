@@ -7,13 +7,13 @@ _Context: People's Republic of China_
 _Context: European Pressurized Reactor, Flamanville Nuclear Power Plant, France, deal with China_
 
 ### [ United States President George W. Bush writes to North Korean leader Kim Jong-Il asking him to fully disclose North Korea's nuclear program. ](/news/2007/12/6/united-states-president-george-w-bush-writes-to-north-korean-leader-kim-jong-il-asking-him-to-fully-disclose-north-korea-s-nuclear-program.md)
-_Context: George W. Bush, Kim Jong-il, North Korea, North Korea and weapons of mass destruction, United States, United States President_
+_Context: George W. Bush, Kim Jong-il, North Korea, North Korea and weapons of mass destruction, U.S. President, United States_
 
 ### [ The United States Central Intelligence Agency admits to destroying at least two videotapes documenting the interrogation of two al-Qaeda operatives in custody following Congressional scrutiny. ](/news/2007/12/6/the-united-states-central-intelligence-agency-admits-to-destroying-at-least-two-videotapes-documenting-the-interrogation-of-two-al-qaeda-op.md)
 The C.I.A. destroyed videotapes in 2005 amid scrutiny about its secret detention program, according to government officials, raising questions about whether C.I.A. officials withheld information from the courts and the Sept. 11 commission.
 
 ### [ United States President George W. Bush outlines a plan to freeze mortgage rates for five years to help homeowners hit by the subprime mortgage crisis in the United States' housing market. ](/news/2007/12/6/united-states-president-george-w-bush-outlines-a-plan-to-freeze-mortgage-rates-for-five-years-to-help-homeowners-hit-by-the-subprime-mortg.md)
-_Context: 2007 subprime mortgage financial crisis, George W. Bush, United States, United States President, housing market_
+_Context: 2007 subprime mortgage financial crisis, George W. Bush, U.S. President, United States, housing market_
 
 ### [ One person is killed and one is seriously injured after a letter bomb explosion in a law office building in the 8th arrondissement of Paris, France. ](/news/2007/12/6/one-person-is-killed-and-one-is-seriously-injured-after-a-letter-bomb-explosion-in-a-law-office-building-in-the-8th-arrondissement-of-paris.md)
 _Context: 8th arrondissement of Paris, France, letter bomb_

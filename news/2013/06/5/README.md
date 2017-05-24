@@ -40,7 +40,7 @@ _Context: A$, US$_
 Samsung Electronics scored a victory over rival Apple Inc intheir long-running dispute over mobile device patents after aU.S. trade agency issued an order banning older butstill-popular Apple products from the U.S. market.
 
 ### [The International Monetary Fund (IMF) says it underestimated the damage austerity would do to Greece. ](/news/2013/06/5/the-international-monetary-fund-imf-says-it-underestimated-the-damage-austerity-would-do-to-greece.md)
-_Context: Greek, International Monetary Fund, austerity measures_
+_Context: Greece, International Monetary Fund, austerity measures_
 
 ### [Online retailer Amazon.com begins operations in India. ](/news/2013/06/5/online-retailer-amazon-com-begins-operations-in-india.md)
 Amazons India launch is expected to add to the pressure on incumbent online retailers which are cutting costs after a spending spree to win new customers.

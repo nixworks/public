@@ -16,7 +16,7 @@ At least nine Afghans on their way to a wedding in the north are killed by a roa
 _Context: 68th Golden Globe Awards, Colin Firth, Natalie Portman, The Social Network_
 
 ### [A ship carrying 263 migrants sinks off the coast of Greece; 22 are missing. ](/news/2011/01/16/a-ship-carrying-263-migrants-sinks-off-the-coast-of-greece-22-are-missing.md)
-_Context: Greek_
+_Context: Greece_
 
 ### [Further landslides and more rain are feared in Brazil which is dealing with the worst disaster in its history. ](/news/2011/01/16/further-landslides-and-more-rain-are-feared-in-brazil-which-is-dealing-with-the-worst-disaster-in-its-history.md)
 Authorities struggle to cope with the aftermath of floods and landslides that have killed at least 626 people.

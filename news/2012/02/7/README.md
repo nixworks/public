@@ -13,7 +13,7 @@ State governor says issue can be resolved through negotiations after state legis
 _Context: Mali, Tuareg Rebellion (2011-present)_
 
 ### [Greek government debt crisis: discussions among the three parties within the ruling coalition in Greece are postponed, at least in part because the paperwork wasn't ready. ](/news/2012/02/7/greek-government-debt-crisis-discussions-among-the-three-parties-within-the-ruling-coalition-in-greece-are-postponed-at-least-in-part-beca.md)
-_Context: Greek, Greek government-debt crisis_
+_Context: Greece, Greek government-debt crisis_
 
 ### [Rescuers in the Philippines search for survivors of the 2012 Negros Oriental earthquake with the death toll so far confirmed at 43. ](/news/2012/02/7/rescuers-in-the-philippines-search-for-survivors-of-the-2012-negros-oriental-earthquake-with-the-death-toll-so-far-confirmed-at-43.md)
 Rescuers in the Philippines are digging through rubble with shovels and their bare hands after a powerful earthquake triggered landslides, killing 43.

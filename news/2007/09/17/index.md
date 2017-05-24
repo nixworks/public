@@ -34,7 +34,7 @@ _Context: Mindoro Island, Mindoro Stripe-Faced Fruit bat, Philippines, bat_
 A total of 55 foreigners, including one Australian, have been confirmed among the 88 people killed after a budget Thai airliner crashed whilst attempting to land on the resort island of Phuket yesterday.
 
 ### [ Greek conservative Prime Minister Costas Karamanlis early Monday declared victory in Sunday's general elections after early results gave his ruling New Democracy party a lead of over four percent over the opposition Pasok socialists. ](/news/2007/09/17/greek-conservative-prime-minister-costas-karamanlis-early-monday-declared-victory-in-sunday-s-general-elections-after-early-results-gave-hi.md)
-_Context: Costas Karamanlis, Greek, New Democracy, PASOK, Sunday's general elections_
+_Context: Costas Karamanlis, Greece, New Democracy, PASOK, Sunday's general elections_
 
 ### [ Incumbent parties lose two of three by-elections in Canadian federal parliamentary ridings in Quebec. Thomas Mulcair takes the Liberal stronghold of Outremont, bringing the New Democratic Party its second-ever victory in Quebec. Conservative Denis Lebel takes the Bloc-held riding of Roberval--Lac-Saint-Jean, while Eve-Mary Thai Thi Lac holds Saint-Hyacinthe--Bagot for the Bloc Quebecois. ](/news/2007/09/17/incumbent-parties-lose-two-of-three-by-elections-in-canadian-federal-parliamentary-ridings-in-quebec-thomas-mulcair-takes-the-liberal-stro.md)
 _Context: Bloc Quebecois, Canada, Canadian House of Commons, Conservative Party's, Denis Lebel, Eve-Mary Thai Thi Lac, Liberal Party's, New Democratic Party, Outremont, Quebec, Roberval--Lac-Saint-Jean, Saint-Hyacinthe--Bagot, Thomas Mulcair, by-election_

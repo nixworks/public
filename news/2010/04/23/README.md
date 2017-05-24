@@ -19,7 +19,7 @@ _Context: CPC party chief, Wang Lequan, Xinjiang Uyghur Autonomous Region, Zhang
 _Context: 2010 Thai political protests, Parliament, Veera Musikapong, red shirt_
 
 ### [Greece activates the EUR45 billion aid package it was offered by Europe earlier in the month to combat the country's debt crisis. ](/news/2010/04/23/greece-activates-the-a-45-billion-aid-package-it-was-offered-by-europe-earlier-in-the-month-to-combat-the-country-s-debt-crisis.md)
-_Context: European Union, Greek, downgrades_
+_Context: European Union, Greece, downgrades_
 
 ### [A Spanish hospital claims to have performed the world's "first full-face transplant". ](/news/2010/04/23/a-spanish-hospital-claims-to-have-performed-the-world-s-first-full-face-transplant.md)
 _Context: face transplant_

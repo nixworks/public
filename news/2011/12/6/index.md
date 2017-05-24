@@ -25,7 +25,7 @@ _Context: 541 days of negotiations, Belgium, Elio di Rupo, Walloon_
 _Context: Moscow, parliamentary elections_
 
 ### [The Parliament of Greece approves an austerity budget. ](/news/2011/12/6/the-parliament-of-greece-approves-an-austerity-budget.md)
-_Context: Greek, Hellenic Parliament_
+_Context: Greece, Hellenic Parliament_
 
 ## [Previous Day...](/news/2011/12/5/index.md)
 

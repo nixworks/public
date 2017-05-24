@@ -16,7 +16,7 @@ _Context: North Korea, Yongbyon Nuclear Scientific Research Center, begins, nucl
 Prime Minister Johanna Sigurdardottir, buoyed by an election victory, said she would move to protect her country’s battered economy.
 
 ### [ Somali pirates hijack Germany's MV ''Patriot'' and release a Greek ship. ](/news/2009/04/25/somali-pirates-hijack-germany-s-mv-patriot-and-release-a-greek-ship.md)
-_Context: German, Greek, MV, Somali pirates, Somalia, anti-piracy, ship_
+_Context: German, Greece, MV, Somali pirates, Somalia, anti-piracy, ship_
 
 ### [ University of Georgia Professor George Zinkhan allegedly kills three people in Athens, Georgia, United States. ](/news/2009/04/25/university-of-georgia-professor-george-zinkhan-allegedly-kills-three-people-in-athens-georgia-united-states.md)
 _Context: Athens, George Zinkhan, Georgia, United States, University of Georgia, professor_

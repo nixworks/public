@@ -16,7 +16,7 @@ _Context: Boko Haram, Boko Haram insurgency in Cameroon, Cameroon, Far North Reg
 Turkish warplanes struck Kurdistan Workers Party (PKK) militant targets in northern Iraq and southeastern Turkey on Saturday and Sunday, pressing their military campaign a day after the rebel group ordered its fighters to halt attacks on Turkish soil.
 
 ### [Iraq's military reports bombing a convoy possibly carrying Islamic State of Iraq and the Levant leader, Abu Bakr al-Baghdadi.  The group was headed to a meeting in the western Al Anbar Governorate, close to the Syrian border. Eight senior ISIS figures were killed, but al-Baghdadi did not appear to be among them according to Iraqi officials.  ](/news/2015/10/11/iraq-s-military-reports-bombing-a-convoy-possibly-carrying-islamic-state-of-iraq-and-the-levant-leader-abu-bakr-al-baghdadi-the-group-was.md)
-_Context: Abu Bakr al-Baghdadi, Anbar province, Iraq, Iraqi Civil War (2014-present), Islamic State, Syria_
+_Context: Abu Bakr al-Baghdadi, Anbar province, ISIL, Iraq, Iraqi Civil War (2014-present), Syria_
 
 ### [An Arab coalition airstrike on a prison in Yemen's central Al Bayda Governorate, reportedly kills 20 prisoners. The prison which held more than 100 prisoners was controlled by the Houthis. ](/news/2015/10/11/an-arab-coalition-airstrike-on-a-prison-in-yemen-s-central-al-bayda-governorate-reportedly-kills-20-prisoners-the-prison-which-held-more-t.md)
 Sanaa, Oct 12 (IANS) At least 20 prisoners were killed when warplanes of the Saudi-led coalition bombed a prison in Yemen&#x27;s al-Bayda province on Sunday, medical sources and witnesses said. The prison which held more than 100 prisoners was controlled by the Shia Houthi group, the sources said, adding

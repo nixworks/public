@@ -10,7 +10,7 @@ WA residents in the north-west Pilbara region are bracing for strong wind gusts 
 _Context: Geumsansa Temple, Gimje, North Jeolla Province, South Korea_
 
 ### [Almost 40 people are killed and 75 are rescued after a boat carrying migrants sinks between Turkey and Greece. ](/news/2016/01/30/almost-40-people-are-killed-and-75-are-rescued-after-a-boat-carrying-migrants-sinks-between-turkey-and-greece.md)
-_Context: European migrant crisis, Greek, Turkey_
+_Context: European migrant crisis, Greece, Turkey_
 
 ### [Jamaican health officials confirm the country's first case of the Zika virus in a 4-year-old child who recently returned from a trip to Texas. ](/news/2016/01/30/jamaican-health-officials-confirm-the-country-s-first-case-of-the-zika-virus-in-a-4-year-old-child-who-recently-returned-from-a-trip-to-texa.md)
 Health minister says 4-year-old showed symptoms after returning from trip to Texas.

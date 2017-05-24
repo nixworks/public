@@ -22,7 +22,7 @@ It was the deadliest and most ambitious attack in years in Yemen, a country wher
 _Context: BBC, HBOS, Lloyd's HBOS, housing crisis_
 
 ### [ India deploys Sukhoi Su-30MKI fighter jets capable of carrying nuclear warheads in Jammu and Kashmir amidst continuing ceasefire violations with Pakistan along the Line of Control. ](/news/2008/09/17/india-deploys-sukhoi-su-30mki-fighter-jets-capable-of-carrying-nuclear-warheads-in-jammu-and-kashmir-amidst-continuing-ceasefire-violations.md)
-_Context: India, Jammu and Kashmir, Line of Control, Pakistan, Sukhoi Su-30MKI, ceasefire, nuclear warhead_
+_Context: India, Jammu and Kashmir, Line of Control, Pakistan, Sukhoi Su-30, ceasefire, nuclear warhead_
 
 ### [ 2008 Thai political crisis: Somchai Wongsawat has been elected as the next Prime Minister of Thailand by the National Assembly of Thailand with King Bhumibol Adulyadej having to endorse the selection. ](/news/2008/09/17/2008-thai-political-crisis-somchai-wongsawat-has-been-elected-as-the-next-prime-minister-of-thailand-by-the-national-assembly-of-thailand.md)
 _Context: Bhumibol Adulyadej, National Assembly of Thailand, Prime Minister of Thailand, Somchai Wongsawat, assemble_

@@ -28,7 +28,7 @@ _Context: Washington, D.C._
 IDF launches operation &#39;First Rain,&#39; hits Hamas, al-Aqsa Martyrs&#39; Brigades targets in Gaza Strip in response to Qassam rocket barrage directed at Israeli communities over weekend. More than 20 Palestinians hurt; earlier, cabinet approves harsh measures, including renewed targeted killings, artillery fire, attacks on infrastructure in Gaza; meanwhile, 150 wanted Palestinians arrested in broad overnight operation
 
 ### [ Eurobasket 2005: Greece beats Germany 78 to 62 and wins for the second time in its history the Eurobasket.](/news/2005/09/25/eurobasket-2005-greece-beats-germany-78-to-62-and-wins-for-the-second-time-in-its-history-the-eurobasket.md)
-_Context: Eurobasket 2005, Greek_
+_Context: Eurobasket 2005, Greece_
 
 ## [Previous Day...](/news/2005/09/24/index.md)
 

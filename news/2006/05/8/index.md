@@ -4,7 +4,7 @@
 _Context: Deputy President, HIV, Jacob Zuma, South Africa, rape_
 
 ### [ Iranian President Mahmoud Ahmadinejad writes to United States President George W. Bush. This marks the first time in 27 years that an Iranian President has written to a U.S. President. ](/news/2006/05/8/iranian-president-mahmoud-ahmadinejad-writes-to-united-states-president-george-w-bush-this-marks-the-first-time-in-27-years-that-an-irani.md)
-_Context: George W. Bush, Iranian President, Mahmoud Ahmadinejad, United States President_
+_Context: George W. Bush, Iranian President, Mahmoud Ahmadinejad, U.S. President_
 
 ### [ The Italian parliament starts to vote in order to elect the successor of Carlo Azeglio Ciampi as President of the Italian Republic. Gianni Letta leads after the first round of balloting.](/news/2006/05/8/the-italian-parliament-starts-to-vote-in-order-to-elect-the-successor-of-carlo-azeglio-ciampi-as-president-of-the-italian-republic-gianni.md)
 _Context: Carlo Azeglio Ciampi, Gianni Letta, Italian, President, elected_

@@ -10,7 +10,7 @@ A bomb killed a French teenager and wounded at least 20 other people in a crowde
 _Context: African Union, Al-Shabaab, Burundi, Mogadishu, Somalia, military installations, peacekeepers, suicide bomb attack_
 
 ### [ Greek convicts Vassilis Paleokostas and Alket Rizai escape from Athens' Korydallos Prison via a helicopter. ](/news/2009/02/22/greek-convicts-vassilis-paleokostas-and-alket-rizai-escape-from-athens-korydallos-prison-via-a-helicopter.md)
-_Context: Athens, Greek, Korydallos Prison, Vassilis Paleokostas, convicted, escape_
+_Context: Athens, Greece, Korydallos Prison, Vassilis Paleokostas, convicted, escape_
 
 ### [ Iraq's Abu Ghraib prison reopens under the new name Baghdad Central Prison. ](/news/2009/02/22/iraq-s-abu-ghraib-prison-reopens-under-the-new-name-baghdad-central-prison.md)
 _Context: Baghdad Central Prison, Iraq_
@@ -31,7 +31,7 @@ _Context: Kirimetiyagara, LTTE, Sri Lanka, Sri Lankan Civil War_
 _Context: Gujarat, India, hepatitis B, outbreak_
 
 ### [ Somali pirates hijack Greece's MV ''Saldanha'' in the Gulf of Aden. ](/news/2009/02/22/somali-pirates-hijack-greece-s-mv-saldanha-in-the-gulf-of-aden.md)
-_Context: Greek, Gulf of Aden, MV, Somali pirates, Somalia_
+_Context: Greece, Gulf of Aden, MV, Somali pirates, Somalia_
 
 ### [ The European Council meets in Berlin, Germany, to discuss the current economic crisis. ](/news/2009/02/22/the-european-council-meets-in-berlin-germany-to-discuss-the-current-economic-crisis.md)
 _Context: Berlin, European Council, German, current financial crisis_

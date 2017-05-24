@@ -34,7 +34,7 @@ A French court fines a man 750 euros for insulting the national flag - the first
 Romanian Prime Minister Emil Boc has survived the latest no-confidence motion against his government, in the most dramatic of circumstances. His speech to pa...
 
 ### [The Greek Parliament approves sweeping cuts in its budget; some Greeks disagree and protest. ](/news/2010/12/23/the-greek-parliament-approves-sweeping-cuts-in-its-budget-some-greeks-disagree-and-protest.md)
-_Context: Greek, Hellenic Parliament_
+_Context: Greece, Hellenic Parliament_
 
 ### [The ''Daily Telegraph'' publishes further details of taped conversations with Liberal Democrat MPs, which include comments that British Prime Minister David Cameron cannot be trusted and Chancellor George Osborne has "a capacity to get up one's nose". ](/news/2010/12/23/the-daily-telegraph-publishes-further-details-of-taped-conversations-with-liberal-democrat-mps-which-include-comments-that-british-prim.md)
 Lib Dem ministers apologise to Tory coalition colleagues after being secretly taped suggesting they cannot be trusted and are out of touch.

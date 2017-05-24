@@ -16,7 +16,7 @@ _Context: Royal Dutch Shell_
 _Context: Alaska, Nikiski, Seabulk Pride, oil tanker_
 
 ### [ The mobile phones of high ranking Greek government officials, including Prime Minister Costas Karamanlis have been revealed to have been tapped by unknown eavesdroppers. ](/news/2006/02/2/the-mobile-phones-of-high-ranking-greek-government-officials-including-prime-minister-costas-karamanlis-have-been-revealed-to-have-been-ta.md)
-_Context: Costas Karamanlis, Greek, have been tapped by unknown eavesdroppers_
+_Context: Costas Karamanlis, Greece, have been tapped by unknown eavesdroppers_
 
 ## [Previous Day...](/news/2006/02/1/index.md)
 

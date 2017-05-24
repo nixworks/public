@@ -4,7 +4,7 @@
 _Context: Lutheran Church, Sweden, decides, same-sex marriage_
 
 ### [ China's economy grows at 8.9% in the third quarter from a year earlier, the fastest pace in a year. ](/news/2009/10/22/china-s-economy-grows-at-8-9-in-the-third-quarter-from-a-year-earlier-the-fastest-pace-in-a-year.md)
-_Context: Chinese economy, People's Republic of China_
+_Context: Economy of the People's Republic of China, People's Republic of China_
 
 ### [ In a change of policy, the British Broadcasting Corporation controversially gives a platform on ''Question Time'' to the far right British National Party (BNP) leader Nick Griffin. ](/news/2009/10/22/in-a-change-of-policy-the-british-broadcasting-corporation-controversially-gives-a-platform-on-question-time-to-the-far-right-british.md)
 _Context: BBC, British National Party, Nick Griffin, Question Time, controversially gives a platform_
@@ -28,7 +28,7 @@ _Context: Sri Lankan Civil War, Sri Lankan Military, Tamil Tigers, U.S. Congress
 _Context: China, Northern Mariana Islands, Russia, U.S. Department of Homeland Security, tourists, visa-free travel_
 
 ### [ The Olympic Flame was lit during a ceremony in Olympia, Greece to start the 2010 Winter Olympics Torch Relay.([http://www.gamesbids.com/eng/mobile/other_news/1216134797.html Gamesbids.com])](/news/2009/10/22/the-olympic-flame-was-lit-during-a-ceremony-in-olympia-greece-to-start-the-2010-winter-olympics-torch-relay-http-www-gamesbids-com-eng.md)
-_Context: 2010 Winter Olympics, Greek, Olympia, Greece, Olympic Torch, Torch Relay_
+_Context: 2010 Winter Olympics, Greece, Olympia, Greece, Olympic Torch, Torch Relay_
 
 ### [ The U.S. House Financial Services Committee approved a measure establishing a Consumer Financial Protection Agency.([http://www.washingtonpost.com/wp-dyn/content/article/2009/10/22/AR2009102200312.html?hpid=moreheadlines Washington Post])](/news/2009/10/22/the-u-s-house-financial-services-committee-approved-a-measure-establishing-a-consumer-financial-protection-agency-http-www-washingtonp.md)
 _Context: Consumer Financial Protection Agency, U.S. House Financial Services Committee_

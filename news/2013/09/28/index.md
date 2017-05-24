@@ -13,7 +13,7 @@ _Context: Jordan, Syrian Civil War, Syrian rebels, military_
 Officials say a major earthquake of 6.8 magnitude or larger has hit southwest Pakistan, less than a week after a massive temblor in the same region killed at least 359 people.
 
 ### [Nikolaos Michaloliakos, the leader of the Greek far-right party Golden Dawn, is arrested on charges of forming a criminal organization. ](/news/2013/09/28/nikolaos-michaloliakos-the-leader-of-the-greek-far-right-party-golden-dawn-is-arrested-on-charges-of-forming-a-criminal-organization.md)
-_Context: Golden Dawn, Greek, Nikolaos Michaloliakos_
+_Context: Golden Dawn, Greece, Nikolaos Michaloliakos_
 
 ### [U.S. Navy Vice Admiral Tim Giardina is suspended from his duties as #2 of the U.S. Strategic Command due to an investigation into gambling-related issues. ](/news/2013/09/28/u-s-navy-vice-admiral-tim-giardina-is-suspended-from-his-duties-as-2-of-the-u-s-strategic-command-due-to-an-investigation-into-gambling-r.md)
 _Context: Tim Giardina, U.S. Navy, U.S. Strategic Command, Vice Admiral_

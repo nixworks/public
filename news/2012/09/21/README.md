@@ -13,7 +13,7 @@ _Context: Democratic Party, Prime Minister, Yoshihiko Noda_
 _Context: Ansar al-Sharia, Benghazi, Libya_
 
 ### [Pastafarian "Elder Pastitsios" arrested for blasphemy in Greece. ](/news/2012/09/21/pastafarian-elder-pastitsios-arrested-for-blasphemy-in-greece.md)
-_Context: Elder Pastitsios, Greek, Pastafarian, blasphemy_
+_Context: Elder Pastitsios, Greece, Pastafarian, blasphemy_
 
 ### [During a Green Day performance at Las Vegas' IHeartRadio music festival, Billie Joe Armstrong became agitated onstage and stopped the band's set midway through their performance. In an expletive-filled rant, Armstrong criticized the event's promoters for allegedly cutting short the band's performance before smashing his guitar and storming off stage.](/news/2012/09/21/during-a-green-day-performance-at-las-vegas-iheartradio-music-festival-billie-joe-armstrong-became-agitated-onstage-and-stopped-the-band-s.md)
 _Context: Billie Joe Armstrong, Green Day, IHeartRadio music festival_

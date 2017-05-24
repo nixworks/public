@@ -7,7 +7,7 @@ _Context: Boko Haram, Chad, N'Djamena_
 Over a hundred Baluch militants fighting against Pakistani forces in the separatist-insurgency wracked southwestern Baluchistan province have surrendered and pledged their allegiance to the country, officials said on Sunday. A group of 59 militants including two key commanders appeared before the media
 
 ### [Kurdish YPG forces and Free Syrian Army rebels seize control of the ISIL stronghold of Tell Abyad in northern Al-Raqqah Governorate. ](/news/2015/06/15/kurdish-ypg-forces-and-free-syrian-army-rebels-seize-control-of-the-isil-stronghold-of-tell-abyad-in-northern-al-raqqah-governorate.md)
-_Context: Al-Raqqah Governorate, Free Syrian Army, Islamic State, Syrian Civil War, Tell Abyad, YPG_
+_Context: Al-Raqqah Governorate, Free Syrian Army, ISIL, Syrian Civil War, Tell Abyad, YPG_
 
 ### [The 800th anniversary of the sealing of the Magna Carta by King John of England is commemorated around the world. ](/news/2015/06/15/the-800th-anniversary-of-the-sealing-of-the-magna-carta-by-king-john-of-england-is-commemorated-around-the-world.md)
 _Context: King John of England, Magna Carta_
@@ -16,7 +16,7 @@ _Context: King John of England, Magna Carta_
 CVS Health and Target on Monday announced a deal for CVS to acquire Target&#039;s pharmacy and clinic businesses for about $1.9 billion. 
 
 ### [Greece and its creditors harden their stances after the collapse of talks aimed at preventing a default. ](/news/2015/06/15/greece-and-its-creditors-harden-their-stances-after-the-collapse-of-talks-aimed-at-preventing-a-default.md)
-_Context: Greek, Greek government-debt crisis, default_
+_Context: Greece, Greek government-debt crisis, default_
 
 ### [The Central Bank of Russia lowers the interest rate to 11.5%. ](/news/2015/06/15/the-central-bank-of-russia-lowers-the-interest-rate-to-11-5.md)
 The Russian central bank cut its main lending rate further on Monday, in line with market expectations, but said the pace of policy easing could slow in the coming months because of risks to inflation.

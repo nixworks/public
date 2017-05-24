@@ -1,7 +1,7 @@
 ## [2009-05-1](/news/2009/05/1/index.md)
 
 ### [ Police and protesters battle during May Day demonstrations in Germany, Greece, and Turkey. ](/news/2009/05/1/police-and-protesters-battle-during-may-day-demonstrations-in-germany-greece-and-turkey.md)
-_Context: German, Greek, May Day, Protest, Turkey, battle, demonstration, police_
+_Context: German, Greece, May Day, Protest, Turkey, battle, demonstration, police_
 
 ### [ The Pakistani Army kills approximately 60 Taliban militants during Operation Black Thunder. ](/news/2009/05/1/the-pakistani-army-kills-approximately-60-taliban-militants-during-operation-black-thunder.md)
 _Context: Pakistan, Pakistan Army, Taliban, War in North-West Pakistan, militant_

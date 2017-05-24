@@ -10,7 +10,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Lahore, Pakistan, a suicide bombing_
 
 ### [Abu Sayyaf guerillas kill six Philippine Army soldiers outside the town of Basilan. ](/news/2014/11/2/abu-sayyaf-guerillas-kill-six-philippine-army-soldiers-outside-the-town-of-basilan.md)
-_Context: Abu Sayyaf, Basilan island, Philippine Army, guerillas_
+_Context: Abu Sayyaf, Basilan island, army, guerillas_
 
 ### [An assault on a police barracks by suspected members of the Mombasa Republican Council separatist group leaves one officer and six attackers dead in Mombasa, Kenya. ](/news/2014/11/2/an-assault-on-a-police-barracks-by-suspected-members-of-the-mombasa-republican-council-separatist-group-leaves-one-officer-and-six-attackers.md)
 Kenyan soldiers shot dead six suspected members of a separatist group after they hacked an officer to death in an attack on barracks in the port city of Mombasa, police and military officials said on Sunday.

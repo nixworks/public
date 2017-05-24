@@ -13,7 +13,7 @@ _Context: Cairo, Egypt, Egyptian Muslim Brotherhood, Giza, Nasser al-Hafi_
 The measure passed by an overwhelming margin at the denomination&#x27;s national assembly in Salt Lake City on Wednesday.
 
 ### [Greece becomes the first advanced economy to miss a payment to the International Monetary Fund  in the 71-year history of the IMF, unwinding decades of precedent and affecting consequences for the fund's future rescues. ](/news/2015/07/1/greece-becomes-the-first-advanced-economy-to-miss-a-payment-to-the-international-monetary-fund-in-the-71-year-history-of-the-imf-unwinding.md)
-_Context: Greek, Greek government-debt crisis, International Monetary Fund_
+_Context: Greece, Greek government-debt crisis, International Monetary Fund_
 
 ### [The World Bank urges the People's Republic of China to undertake financial reforms to keep economic growth on track. ](/news/2015/07/1/the-world-bank-urges-the-people-s-republic-of-china-to-undertake-financial-reforms-to-keep-economic-growth-on-track.md)
 _Context: People's Republic of China, World Bank_

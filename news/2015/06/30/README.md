@@ -7,7 +7,7 @@ A Yemeni security official says some 1,200 inmates fled a prison after guards de
 The Philippines has put off signing an agreement to join the China-led Asian Infrastructure and Investment Bank (AIIB), noting the need to carefully study the proposal. 
 
 ### [The Greek bailout program by the European Union ends today with Greece failing to make a payment to the International Monetary Fund. ](/news/2015/06/30/the-greek-bailout-program-by-the-european-union-ends-today-with-greece-failing-to-make-a-payment-to-the-international-monetary-fund.md)
-_Context: European Union, Greek, Greek government-debt crisis, International Monetary Fund_
+_Context: European Union, Greece, Greek government-debt crisis, International Monetary Fund_
 
 ### [British reinsurance broker the Willis Group announces a merger with American company Towers Watson to create an $18 billion company. ](/news/2015/06/30/british-reinsurance-broker-the-willis-group-announces-a-merger-with-american-company-towers-watson-to-create-an-18-billion-company.md)
 _Context: Towers Watson, Willis Group, reinsurance_

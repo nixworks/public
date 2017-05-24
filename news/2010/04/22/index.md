@@ -46,13 +46,13 @@ Founder of electronics chain faces 15 years in jail if convicted of corruption c
 Death sentences imposed on two Norwegians in the DRC for killing a driver have been overturned but the men would be retried.
 
 ### [The Euro falls to near year-low levels amid concerns about Greece's debt crisis. ](/news/2010/04/22/the-euro-falls-to-near-year-low-levels-amid-concerns-about-greece-s-debt-crisis.md)
-_Context: Greek, euro_
+_Context: Greece, euro_
 
 ### [Indian police investigate potential attacks on shopping centres in New Delhi. ](/news/2010/04/22/indian-police-investigate-potential-attacks-on-shopping-centres-in-new-delhi.md)
 Officials say alert follows intercepted telephonic messages of fighter groups.
 
 ### [President of the United States Barack Obama calls on Wall Street to join him in his efforts to reform the financial sector in a visit to Manhattan. ](/news/2010/04/22/president-of-the-united-states-barack-obama-calls-on-wall-street-to-join-him-in-his-efforts-to-reform-the-financial-sector-in-a-visit-to-man.md)
-_Context: Barack Obama, Manhattan, United States President, Wall Street_
+_Context: Barack Obama, Manhattan, U.S. President, Wall Street_
 
 ### [The Melbourne Storm are stripped of their 2007 and 2009 National Rugby League titles after being found to have cheated the salary cap. ](/news/2010/04/22/the-melbourne-storm-are-stripped-of-their-2007-and-2009-national-rugby-league-titles-after-being-found-to-have-cheated-the-salary-cap.md)
 _Context: 2007, 2009, Melbourne Storm, National Rugby League, salary cap_

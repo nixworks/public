@@ -1,7 +1,7 @@
 ## [2007-08-4](/news/2007/08/4/index.md)
 
 ### [ A natural gas pipeline between Turkey and Greece is completed allowing gas to be sent from the Middle East to Europe. ](/news/2007/08/4/a-natural-gas-pipeline-between-turkey-and-greece-is-completed-allowing-gas-to-be-sent-from-the-middle-east-to-europe.md)
-_Context: Europe, Greek, Middle East, Turkey, natural gas_
+_Context: Europe, Greece, Middle East, Turkey, natural gas_
 
 ### [ An outbreak of foot-and-mouth disease in Surrey, England prompts the banning of exports of British livestock and other animal products. ](/news/2007/08/4/an-outbreak-of-foot-and-mouth-disease-in-surrey-england-prompts-the-banning-of-exports-of-british-livestock-and-other-animal-products.md)
 _Context: England, Surrey, foot-and-mouth disease, livestock, outbreak of 2007_

@@ -16,7 +16,7 @@ Tonga begins celebrations to mark the coronation of King Tupou VI with a kava ce
 After more than a week of a brutal selloff in Chinese stocks, the country’s central bank took a rare easing step, cutting both its benchmark interest rates and the amount of reserves certain banks are required to hold.
 
 ### [Eurozone finance ministers reject a request by Greece to extend debt negotiations past Tuesday's deadline. ](/news/2015/06/27/eurozone-finance-ministers-reject-a-request-by-greece-to-extend-debt-negotiations-past-tuesday-s-deadline.md)
-_Context: Eurozone, Greek, Greek government-debt crisis_
+_Context: Eurozone, Greece, Greek government-debt crisis_
 
 ### [Malaysia announces that they will host a memorial for the victims of MH17 on July 11 at Kuala Lumpur International Airport. ](/news/2015/06/27/malaysia-announces-that-they-will-host-a-memorial-for-the-victims-of-mh17-on-july-11-at-kuala-lumpur-international-airport.md)
 The memorial will be held at 10am on Jul 11, 2015 at Bunga Raya Complex at Kuala Lumpur International Airport. Attendees include Malaysian Prime Minister Najib Razak and the next-of-kin of MH17 victims.

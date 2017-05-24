@@ -28,7 +28,7 @@ _Context: Copenhagen, Global Green Growth_
 Australian airline Qantas says it is keeping its Airbus A380s grounded for further checks after finding &quot;anomalies&quot; with three engines.
 
 ### [Express delivery company DHL promises better screening of customers and parcels before they are sent to airports after recent parcel bombs sent from Yemen and Greece. ](/news/2010/11/8/express-delivery-company-dhl-promises-better-screening-of-customers-and-parcels-before-they-are-sent-to-airports-after-recent-parcel-bombs-s.md)
-_Context: DHL, Greek, Yemen bomb attacks, parcel bomb_
+_Context: DHL, Greece, Yemen bomb attacks, parcel bomb_
 
 ### [A government conservation campaign, and possible hoarding by state oil companies, causes a severe shortage on diesel fuel in the People's Republic of China, disrupting industry and commerce. ](/news/2010/11/8/a-government-conservation-campaign-and-possible-hoarding-by-state-oil-companies-causes-a-severe-shortage-on-diesel-fuel-in-the-people-s-re.md)
 _Context: People's Republic of China, diesel fuel_
@@ -46,7 +46,7 @@ _Context: Gaza Strip, German Foreign Minister, Gilad Shalit, Guido Westerwelle, 
 Last week’s four-day annual plenary meeting of the diamond-regulating Kimberley Process (KP)failed to find a solution to the ongoing issue of diamond exports from the Marange region.
 
 ### [President of the United States Barack Obama backs a permanent seat for India on the UN Security Council. ](/news/2010/11/8/president-of-the-united-states-barack-obama-backs-a-permanent-seat-for-india-on-the-un-security-council.md)
-_Context: Barack Obama, UN Security Council, United States President_
+_Context: Barack Obama, U.S. President, UN Security Council_
 
 ### [The Obama administration bans cargo shipments from Somalia in the wake of the Yemen bomb attacks. ](/news/2010/11/8/the-obama-administration-bans-cargo-shipments-from-somalia-in-the-wake-of-the-yemen-bomb-attacks.md)
 _Context: Obama Administration, Somalia, Yemen bomb attacks_

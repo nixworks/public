@@ -13,7 +13,7 @@ Goldman Sachs reported strong earnings on Thursday, but the bank reduced the sha
 _Context: 2010 Haiti earthquake, Haiti, United States, relief_
 
 ### [Chinese economy grows 8.7% in 2009. ](/news/2010/01/21/chinese-economy-grows-8-7-in-2009.md)
-_Context: Chinese economy, People's Republic of China_
+_Context: Economy of the People's Republic of China, People's Republic of China_
 
 ### [Virginia, United States shootings suspect Christopher Speight is charged with first degree murder. ](/news/2010/01/21/virginia-united-states-shootings-suspect-christopher-speight-is-charged-with-first-degree-murder.md)
 _Context: Christopher Speight, United States, Virginia, first-degree murder_

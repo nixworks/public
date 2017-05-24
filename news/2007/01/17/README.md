@@ -1,7 +1,7 @@
 ## [2007-01-17](/news/2007/01/17/index.md)
 
 ### [ United States President George W. Bush announces that the NSA has ended its practice of warrantless wiretapping for domestic surveillance, and will go to the courts for warrants in the future. ](/news/2007/01/17/united-states-president-george-w-bush-announces-that-the-nsa-has-ended-its-practice-of-warrantless-wiretapping-for-domestic-surveillance.md)
-_Context: George W. Bush, National Security Agency, United States, United States President, warrant, warrantless wiretapping_
+_Context: George W. Bush, National Security Agency, U.S. President, United States, warrant, warrantless wiretapping_
 
 ### [ Lieutenant-General Dan Halutz, the Chief of Staff of the Israeli Army, resigns while inquiries into the performance of the Israel Defense Forces in the action against Hezbollah continue. ](/news/2007/01/17/lieutenant-general-dan-halutz-the-chief-of-staff-of-the-israeli-army-resigns-while-inquiries-into-the-performance-of-the-israel-defense-f.md)
 _Context: Dan Halutz, Hezbollah, Israel, Israel Defense Forces_
@@ -11,7 +11,7 @@ _Context: Dan Halutz, Hezbollah, Israel, Israel Defense Forces_
 _Context: Days of Our Lives, Jeff Zucker, NBC, NBC Universal Television, Passions, soap opera_
 
 ### [ The Philippine Army kills Abu Sulaiman, the leader of Abu Sayyaf, a terrorist organization affiliated with Al Qaeda that operates in the Philippines. ](/news/2007/01/17/the-philippine-army-kills-abu-sulaiman-the-leader-of-abu-sayyaf-a-terrorist-organization-affiliated-with-al-qaeda-that-operates-in-the-ph.md)
-_Context: Abu Sayyaf, Abu Sulaiman, Philippine Army, Philippines, al-Qaeda_
+_Context: Abu Sayyaf, Abu Sulaiman, Philippines, al-Qaeda, army_
 
 ### [ Members of the Senate of the United States agree on a draft resolution opposing the proposed increase in the number of troops in Iraq. ](/news/2007/01/17/members-of-the-senate-of-the-united-states-agree-on-a-draft-resolution-opposing-the-proposed-increase-in-the-number-of-troops-in-iraq.md)
 _Context: Iraq, Iraq War troop surge of 2007, Senator_

@@ -1,7 +1,7 @@
 ## [2015-07-24](/news/2015/07/24/index.md)
 
 ### [Turkish warplanes strike ISIS positions in northern Syria following an exchange of gunfire on the Turkish-Syrian border which left one Turkish soldier dead. The airstrikes are said to have killed as many as 35 ISIS militants. ](/news/2015/07/24/turkish-warplanes-strike-isis-positions-in-northern-syria-following-an-exchange-of-gunfire-on-the-turkish-syrian-border-which-left-one-turki.md)
-_Context: Islamic State, Spillover of the Syrian Civil War, Syria, Syrian border, Turkish involvement in the Syrian Civil War_
+_Context: ISIL, Spillover of the Syrian Civil War, Syria, Syrian border, Turkish involvement in the Syrian Civil War_
 
 ### [Health insurance company Anthem Inc. agrees to buy Cigna in a deal worth $48 billion. ](/news/2015/07/24/health-insurance-company-anthem-inc-agrees-to-buy-cigna-in-a-deal-worth-48-billion.md)
 Anthem Inc. agreed to buy Cigna Corp. for $48.4 billion in a transaction that, along with a previously proposed combination of rivals, could reshape the U.S. health industry.

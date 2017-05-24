@@ -10,7 +10,7 @@ _Context: Boko Haram, Islamist, Maiduguri, Nigeria, Nigerian Sharia conflict_
 Leading Indian filmmaker Mani Kaul dies in the capital, Delhi, aged 66.
 
 ### [The European Commission denounces international credit ratings agencies as "questionable" after Portugal is downgraded by Moody's, while  Greece's foreign minister Stavros Lambrinidis calls their behaviour "madness". ](/news/2011/07/6/the-european-commission-denounces-international-credit-ratings-agencies-as-questionable-after-portugal-is-downgraded-by-moody-s-while-gr.md)
-_Context: European Commission, Greek, Moody's, Portugal, Stavros Lambrinidis_
+_Context: European Commission, Greece, Moody's, Portugal, Stavros Lambrinidis_
 
 ### [Japan's Jiji Press reports that the country will conduct stress tests for all nuclear reactors in the country. ](/news/2011/07/6/japan-s-jiji-press-reports-that-the-country-will-conduct-stress-tests-for-all-nuclear-reactors-in-the-country.md)
 _Context: Japan, Jiji Press, nuclear reactor_

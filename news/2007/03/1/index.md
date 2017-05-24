@@ -46,7 +46,7 @@ _Context: 1975, Balibo, Balibo Five, East Timor, Indonesia, New South Wales, Yun
 _Context: France, International Polar Year, North Pole, Paris, South Pole_
 
 ### [ Greek archaeologists announce that a 2,200-year-old statue of the goddess Hera has been found during excavations in the ruins of ancient Dion, a city under Mount Olympus. ](/news/2007/03/1/greek-archaeologists-announce-that-a-2-200-year-old-statue-of-the-goddess-hera-has-been-found-during-excavations-in-the-ruins-of-ancient-di.md)
-_Context: Dion, Greek, Hera, Mount Olympus_
+_Context: Dion, Greece, Hera, Mount Olympus_
 
 ## [Previous Day...](/news/2007/02/28/index.md)
 

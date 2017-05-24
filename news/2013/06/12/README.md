@@ -7,7 +7,7 @@ _Context: Austria, Golan Heights, Syrian Civil War, United Nations, peacekeepers
 Gunmen have kidnapped a British man working for an energy company in the restive Indonesian province of Aceh, officials said today.
 
 ### [The government of Greece shuts down the public radio and television broadcaster ERT, calling it a "haven of waste". ](/news/2013/06/12/the-government-of-greece-shuts-down-the-public-radio-and-television-broadcaster-ert-calling-it-a-haven-of-waste.md)
-_Context: ERT, Greek_
+_Context: ERT, Greece_
 
 ### [Jiroemon Kimura, who had been the world's oldest living person and the verified longest lived man ever, dies in the Japanese city of Kyotango. ](/news/2013/06/12/jiroemon-kimura-who-had-been-the-world-s-oldest-living-person-and-the-verified-longest-lived-man-ever-dies-in-the-japanese-city-of-kyatan.md)
 Japan&#039;s Jiroemon Kimura, recognised by Guinness World Records as the oldest man in recorded history, has died at the age of 116.

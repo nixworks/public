@@ -7,7 +7,7 @@ Syrian troops massed onthe Turkish border overnight, witnesses said on Thursday,
 _Context: 2010-2011 Senegal protests, Dakar, riot police, rubber bullet, tear gas_
 
 ### [France announces plans to withdraw troops from Afghanistan in a similar timeframe to that announced for United States forces by President Barack Obama yesterday. ](/news/2011/06/23/france-announces-plans-to-withdraw-troops-from-afghanistan-in-a-similar-timeframe-to-that-announced-for-united-states-forces-by-president-ba.md)
-_Context: Afghanistan, Barack Obama, France, United States, United States President_
+_Context: Afghanistan, Barack Obama, France, U.S. President, United States_
 
 ### [After Hamas rejects a call from the International Red Cross for access to  Israeli soldier Gilad Shalit, held incommunicado since he was captured nearly five years ago, Israeli Prime Minister Benjamin Netanyahu says Israel will reduce Palestinian prisoners' privileges in response. ](/news/2011/06/23/after-hamas-rejects-a-call-from-the-international-red-cross-for-access-to-israeli-soldier-gilad-shalit-held-incommunicado-since-he-was-cap.md)
 Noam Schalit asks why it took Israeli governments five years to make move; Hamas rejects Red Cross call for sign of life.
@@ -76,7 +76,7 @@ _Context: Arizona, Don Lapre, Tempe, fraud, pitchman_
 Former nightclub doorman Levi Bellfield is found guilty of murdering 13-year-old Milly Dowler in Surrey in 2002.
 
 ### [The President of the United States Barack Obama states that gay and lesbian couples "deserve the same legal rights as every other couple in this country" at a function for LGBT people in New York City. ](/news/2011/06/23/the-president-of-the-united-states-barack-obama-states-that-gay-and-lesbian-couples-deserve-the-same-legal-rights-as-every-other-couple-in.md)
-_Context: Barack Obama, New York City, United States President, gay and bisexual men_
+_Context: Barack Obama, New York City, U.S. President, gay and bisexual men_
 
 ### [The New Jersey General Assembly passes a bill overhauling the health and pension benefits of public employees. ](/news/2011/06/23/the-new-jersey-general-assembly-passes-a-bill-overhauling-the-health-and-pension-benefits-of-public-employees.md)
 After three hours of debate, the bill overhauling public worker pension and benefits passed 46-32 

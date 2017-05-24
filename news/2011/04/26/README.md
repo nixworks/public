@@ -22,7 +22,7 @@ A France Telecom worker and father of four commits suicide by setting himself on
 _Context: France, Groupe Lactalis, Italian, Parmalat, euro_
 
 ### [Greece's budget deficit for 2010 is 10.5% of gross domestic product, significantly higher than expected. ](/news/2011/04/26/greece-s-budget-deficit-for-2010-is-10-5-of-gross-domestic-product-significantly-higher-than-expected.md)
-_Context: GDP, Greek, budget deficit_
+_Context: GDP, Greece, budget deficit_
 
 ### [Ukraine commemorates the 25th anniversary of the Chernobyl disaster. ](/news/2011/04/26/ukraine-commemorates-the-25th-anniversary-of-the-chernobyl-disaster.md)
 _Context: Chernobyl disaster, Ukrainians_

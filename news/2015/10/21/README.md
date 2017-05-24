@@ -4,7 +4,7 @@
 Map detailing Taliban-controlled or contested districts. Click colored district for information. Based on an analysis by The Long War Journal, 36 of Afghanistan&#039;s 398 districts are under Taliban control, and another 36 districts are contested. Map created by Bill Roggio, Caleb Weiss, and Patrick Megahan. Updated to include report of Afghan military retaking the district center. The Afghan Taliban claimed that it overran the district center of Ghoryan in the western province of Herat today. The jihadist group made the claim on Voice of Jihad, its official propaganda website: Mujahideen of Islamic Emirate in Herat province launched coordinated attacks late afternoon hours today on Ghoryan district administration center and police HQ. Officials say that heavy fighting is underway at the moment, more details about which will be updated later. Update: Fresh reports arriving from Herat province say that Ghoryan district administration center, police HQ and all government buildings have been
 
 ### [ISIL orders males aged 14 and older in Raqqa, its de facto Syrian capital, to register with the police, an action seen as the first step toward forced conscriptions in this region. ](/news/2015/10/21/isil-orders-males-aged-14-and-older-in-raqqa-its-de-facto-syrian-capital-to-register-with-the-police-an-action-seen-as-the-first-step-tow.md)
-_Context: Islamic State, Raqqa, Syria, Syrian Civil War_
+_Context: ISIL, Raqqa, Syria, Syrian Civil War_
 
 ### [Rockets fired by Houthi forces reportedly kill 14 people in city of Taiz, southwestern Yemen. ](/news/2015/10/21/rockets-fired-by-houthi-forces-reportedly-kill-14-people-in-city-of-taiz-southwestern-yemen.md)
 _Context: Houthi, Taiz, Yemen, Yemeni Civil War (2015)_

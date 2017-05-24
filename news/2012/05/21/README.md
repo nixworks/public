@@ -40,7 +40,7 @@ _Context: Rajat Gupta, insider trading_
 Interim Mali President Dioncounda Traore is briefly hospitalised with a head wound after being attacked in his office by demonstrators, officials say.
 
 ### [Greek leftist politician Alexis Tsipras, head of the Coalition of the Radical Left, begins a tour of European capitals. ](/news/2012/05/21/greek-leftist-politician-alexis-tsipras-head-of-the-coalition-of-the-radical-left-begins-a-tour-of-european-capitals.md)
-_Context: Alexis Tsipras, Greek, SYRIZA_
+_Context: Alexis Tsipras, Greece, SYRIZA_
 
 ### [A rare annular solar eclipse occurs, visible from East Asia, the North Pacific, and the Western United States. ](/news/2012/05/21/a-rare-annular-solar-eclipse-occurs-visible-from-east-asia-the-north-pacific-and-the-western-united-states.md)
 Sky watchers in parts of Asia have glimpsed an annular solar eclipse as the moon passed in front of the sun today.

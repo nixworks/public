@@ -16,7 +16,7 @@ A magnitude-7.9 earthquake strikes in Nepal and northern India, killing more tha
 _Context: Italian Navy, Libya_
 
 ### [The ''New York Times'' reports that Russian hackers read President of the United States unclassified emails indicating that the breach of the White House's computer system was more extensive than previously revealed. ](/news/2015/04/25/the-new-york-times-reports-that-russian-hackers-read-president-of-the-united-states-unclassified-emails-indicating-that-the-breach-of-th.md)
-_Context: New York Times, Russia, United States President, White House, hacker_
+_Context: New York Times, Russia, U.S. President, White House, hacker_
 
 ### [Twelve people are arrested in the American city of Baltimore as protests against the death of Freddie Gray in police custody turn violent. ](/news/2015/04/25/twelve-people-are-arrested-in-the-american-city-of-baltimore-as-protests-against-the-death-of-freddie-gray-in-police-custody-turn-violent.md)
 Another @BmoreCityDOT warning about traffic congestion, &quot;unpredictable conditions&quot; through evening commute today because of protests.

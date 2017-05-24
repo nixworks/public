@@ -10,7 +10,7 @@ At least 20 soldiers are killed and 12 injured in a rebel attack on a troop conv
 _Context: Oxford University, St Benet's Hall_
 
 ### [Officials of the ruling Syriza party in Greece say that they cannot accept a last-minute deal proposed by the country's creditors: default deadline looms. ](/news/2015/06/4/officials-of-the-ruling-syriza-party-in-greece-say-that-they-cannot-accept-a-last-minute-deal-proposed-by-the-country-s-creditors-default-d.md)
-_Context: Greek, Syriza_
+_Context: Greece, Syriza_
 
 ### [The death toll from the Monday night sinking of the cruise ship in the Yangtze River rises to 75 with most of the 450 passengers on board still missing. ](/news/2015/06/4/the-death-toll-from-the-monday-night-sinking-of-the-cruise-ship-in-the-yangtze-river-rises-to-75-with-most-of-the-450-passengers-on-board-st.md)
 Rescuers cut into upside-down hull of capsized Eastern Star in the Yangtze river, which a maritime agency found was cited for safety violations in 2013

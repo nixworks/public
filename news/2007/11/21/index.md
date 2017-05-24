@@ -7,7 +7,7 @@ _Context: 2007 Pakistani state of emergency, Imran Khan, Pakistan Tehreek-e-Insa
 _Context: government, management, pension reform, public-sector strikes, strike, transport, unionize_
 
 ### [ United States Secretary of State Condoleezza Rice says the White House wants to broker a permanent deal between Israel and the Palestinian Authority before President George W. Bush leaves office. ](/news/2007/11/21/united-states-secretary-of-state-condoleezza-rice-says-the-white-house-wants-to-broker-a-permanent-deal-between-israel-and-the-palestinian.md)
-_Context: Condoleezza Rice, George W. Bush, Israel, Palestinian Authority, United States, United States President, United States Secretary of State, White House_
+_Context: Condoleezza Rice, George W. Bush, Israel, Palestinian Authority, U.S. President, United States, United States Secretary of State, White House_
 
 ### [ Portuguese Minister of Foreign Affairs Lus Amado says Zimbabwean President Robert Mugabe is not welcome at the December European Union-African Union summit in Lisbon. United Kingdom Prime Minister Gordon Brown says he will not attend if Mugabe is present. ](/news/2007/11/21/portuguese-minister-of-foreign-affairs-luis-amado-says-zimbabwean-president-robert-mugabe-is-not-welcome-at-the-december-european-union-afr.md)
 _Context: African Union, European Union, Gordon Brown, Lisbon, Lus Amado, Minister of Foreign Affairs, Portugal, President of Zimbabwe, Prime Minster, Robert Mugabe, United Kingdom, Zimbabwe_
@@ -16,7 +16,7 @@ _Context: African Union, European Union, Gordon Brown, Lisbon, Lus Amado, Minist
 _Context: Croatia, England, Euro 2008_
 
 ### [ Former White House Press Secretary Scott McClellan claims that United States President George W. Bush was involved in the Plame affair. ](/news/2007/11/21/former-white-house-press-secretary-scott-mcclellan-claims-that-united-states-president-george-w-bush-was-involved-in-the-plame-affair.md)
-_Context: CIA leak scandal, George W. Bush, Scott McClellan, United States, United States President, White House, White House Press Secretary_
+_Context: CIA leak scandal, George W. Bush, Scott McClellan, U.S. President, United States, White House, White House Press Secretary_
 
 ### [ Former President of France Jacques Chirac is probed by a judge for alleged embezzlement of public funds when he was Mayor of Paris. ](/news/2007/11/21/former-president-of-france-jacques-chirac-is-probed-by-a-judge-for-alleged-embezzlement-of-public-funds-when-he-was-mayor-of-paris.md)
 _Context: Jacques Chirac, Mayor of Paris, President of France, embezzlement, public funds_

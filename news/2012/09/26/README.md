@@ -4,7 +4,7 @@
 Rebels say dozens dead while Syrian military claims guards only wounded and top brass safe.
 
 ### [Trade unions in Greece call a general strike in protest against continuing austerity measures. ](/news/2012/09/26/trade-unions-in-greece-call-a-general-strike-in-protest-against-continuing-austerity-measures.md)
-_Context: Greek, general strike, unionize_
+_Context: Greece, general strike, unionize_
 
 ### [Russia and Japan schedule a sub-cabinet level meeting for October in Tokyo to discuss the Kuril Islands dispute. ](/news/2012/09/26/russia-and-japan-schedule-a-sub-cabinet-level-meeting-for-october-in-tokyo-to-discuss-the-kuril-islands-dispute.md)
 _Context: Japan, Russia, Tokyo, rival territorial claims_

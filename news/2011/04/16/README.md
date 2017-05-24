@@ -10,7 +10,7 @@ _Context: Ivorian Popular Front, Ivory Coast, Laurent Gbagbo, President, Second 
 Fighting escalates in the Libyan port of Misrata and elsewhere as government forces attempt to retake the rebel-held city after a two-month siege.
 
 ### [Philippine Army soldiers kill two Abu Sayyaf fighters in Al-Barka, Basilan. ](/news/2011/04/16/philippine-army-soldiers-kill-two-abu-sayyaf-fighters-in-al-barka-basilan.md)
-_Context: Abu Sayyaf, Al-Barka, Basilan island, Philippine Army_
+_Context: Abu Sayyaf, Al-Barka, Basilan island, army_
 
 ### [The United Nations calls for an investigation after an Iraqi raid into an Iranian opposition Camp Ashraf which left 34 people dead. ](/news/2011/04/16/the-united-nations-calls-for-an-investigation-after-an-iraqi-raid-into-an-iranian-opposition-camp-ashraf-which-left-34-people-dead.md)
 _Context: Camp Ashraf, Iran, Iraq, United Nations_

@@ -10,7 +10,7 @@ _Context: 2011 Syrian uprising, Bashar al-Assad, President, Syrian Army_
 _Context: Beijing-Shanghai High-Speed Railway, Chinese, high-speed rail_
 
 ### [The United States Court of Appeals for the Eleventh Circuit strikes down the health insurance mandate of President Barack Obama's Patient Protection and Affordable Care Act. ](/news/2011/08/12/the-united-states-court-of-appeals-for-the-eleventh-circuit-strikes-down-the-health-insurance-mandate-of-president-barack-obama-s-patient-pr.md)
-_Context: Barack Obama, Patient Protection and Affordable Care Act, United States Court of Appeals for the Eleventh Circuit, United States President, health insurance mandate_
+_Context: Barack Obama, Patient Protection and Affordable Care Act, U.S. President, United States Court of Appeals for the Eleventh Circuit, health insurance mandate_
 
 ## [Previous Day...](/news/2011/08/11/index.md)
 

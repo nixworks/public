@@ -25,7 +25,7 @@ _Context: Mexico City, closes, freshwater, water supply_
 _Context: Japan, US$, economic stimulus package_
 
 ### [ Three people are shot at OAED Vocational College near Athens, Greece. ](/news/2009/04/10/three-people-are-shot-at-oaed-vocational-college-near-athens-greece.md)
-_Context: Athens, Greek, OAED Vocational College, shot_
+_Context: Athens, Greece, OAED Vocational College, shot_
 
 ## [Previous Day...](/news/2009/04/9/index.md)
 

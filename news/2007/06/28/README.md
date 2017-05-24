@@ -22,7 +22,7 @@ _Context: 737, Angola, Europe, European Union, TAAG-Angola Airlines, commercial 
 _Context: bacteria, genetic material, synthetic life_
 
 ### [ Record high temperatures in Greece lead to nine deaths through heat stroke; outbreaks of wildfires, killing two people; and extensive power cuts. ](/news/2007/06/28/record-high-temperatures-in-greece-lead-to-nine-deaths-through-heat-stroke-outbreaks-of-wildfires-killing-two-people-and-extensive-power.md)
-_Context: Greek, heat stroke, wildfire_
+_Context: Greece, heat stroke, wildfire_
 
 ### [ A bill to legalize millions of illegal immigrants living in the United States is defeated in the United States Senate. ](/news/2007/06/28/a-bill-to-legalize-millions-of-illegal-immigrants-living-in-the-united-states-is-defeated-in-the-united-states-senate.md)
 _Context: United States, United States Senate, illegal worker_

@@ -7,7 +7,7 @@ _Context: Israel, Tel Aviv, homosexuality, shooting attack_
 4,000 people have been evacuated from their homes on one of Spain&#39;s Canary Islands due to severe forest fires.
 
 ### [ Former President of the Philippines Corazon Aquino dies at the age of 76 of cardiopulmonary arrest after complications of colon cancer. A memorial service and funeral is scheduled for August 5. ](/news/2009/08/1/former-president-of-the-philippines-corazon-aquino-dies-at-the-age-of-76-of-cardiopulmonary-arrest-after-complications-of-colon-cancer-a-m.md)
-_Context: Corazon Aquino, Philippine President, cardiopulmonary arrest, colon cancer_
+_Context: Corazon Aquino, cardiopulmonary arrest, colon cancer, president_
 
 ### [ Russia signs a deal to open a second military base in Kyrgyzstan at a Collective Security Treaty Organisation summit. ](/news/2009/08/1/russia-signs-a-deal-to-open-a-second-military-base-in-kyrgyzstan-at-a-collective-security-treaty-organisation-summit.md)
 _Context: Collective Security Treaty Organisation, Kyrgyzstan, Russia_

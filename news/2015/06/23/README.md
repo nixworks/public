@@ -10,7 +10,7 @@ _Context: Japan, Shin Kyung-sook, South Korea, Yukio Mishima_
 _Context: Australian, Miles Franklin Award, Sofie Laguna, The Eye of the Sheep_
 
 ### [The deputy speaker of the Greek parliament, Alexis Mitropoulos, warns that the body may reject concessions the government had made to the country's creditors. ](/news/2015/06/23/the-deputy-speaker-of-the-greek-parliament-alexis-mitropoulos-warns-that-the-body-may-reject-concessions-the-government-had-made-to-the-co.md)
-_Context: Greek_
+_Context: Greece_
 
 ### [The death toll from the 2015 Pakistan heatwave rises to 450. ](/news/2015/06/23/the-death-toll-from-the-2015-pakistan-heatwave-rises-to-450.md)
 Nearly 700 people have died in a severe three-day heatwave in Pakistan, officials said Tuesday, with medics battling to treat patients as a state of emergency was declared in hospitals. The majority of people died in government-run hospitals in the port city of Karachi, Pakistan&#x27;s economic hub of

@@ -10,7 +10,7 @@ _Context: Pope John Paul II, Roman Curia, hospital, pneumonia, pontiff_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Greece hands over Dejan Milenkovic, main suspect of the murder of Serbian Prime Minister Zoran Dindic, to Serbian authorities. ](/news/2005/02/3/greece-hands-over-dejan-milenkovia-main-suspect-of-the-murder-of-serbian-prime-minister-zoran-ainaia-to-serbian-authorities.md)
-_Context: Dejan Milenkovic, Greek, Serbia, Zoran Dindic_
+_Context: Dejan Milenkovic, Greece, Serbia, Zoran Dindic_
 
 ### [ King Gyanendra of Nepal includes media censorship as part of the emergency measures he has declared. ](/news/2005/02/3/king-gyanendra-of-nepal-includes-media-censorship-as-part-of-the-emergency-measures-he-has-declared.md)
 _Context: Gyanendra of Nepal, Nepal, censorship, mass media_

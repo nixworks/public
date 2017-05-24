@@ -1,7 +1,7 @@
 ## [2016-01-28](/news/2016/01/28/index.md)
 
 ### [At least seven people are killed in a suicide bomb attack near the presidential palace in Aden, Yemen. The Islamic State of Iraq and the Levant claims it was behind the attack. ](/news/2016/01/28/at-least-seven-people-are-killed-in-a-suicide-bomb-attack-near-the-presidential-palace-in-aden-yemen-the-islamic-state-of-iraq-and-the-lev.md)
-_Context: Aden, Islamic State, Yemen, Yemeni Civil War (2015-present)_
+_Context: Aden, ISIL, Yemen, Yemeni Civil War (2015-present)_
 
 ### [A boat carrying Iraqi Kurd migrants sinks off the Greek island of Samos  in the Aegean Sea off Turkey's Anatolian coast, killing at least 24 people, including several children, with 11 others missing. ](/news/2016/01/28/a-boat-carrying-iraqi-kurd-migrants-sinks-off-the-greek-island-of-samos-in-the-aegean-sea-off-turkey-s-anatolian-coast-killing-at-least-24.md)
 At least 24 migrants - including 9 children - have died after their boat sank off a Greek island, coastguard officials and an aid group said.

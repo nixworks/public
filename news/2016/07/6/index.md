@@ -1,7 +1,7 @@
 ## [2016-07-6](/news/2016/07/6/index.md)
 
 ### [Twenty Philippine Army soldiers are under investigation after they are suspected of mutilating the body of a New People's Army member. The communist militant's eyes were gouged, his tongue was cut off and his throat was slit. ](/news/2016/07/6/twenty-philippine-army-soldiers-are-under-investigation-after-they-are-suspected-of-mutilating-the-body-of-a-new-people-s-army-member-the-c.md)
-_Context: CPP-NPA-NDF rebellion, New People's Army, Philippine Army, gouged_
+_Context: CPP-NPA-NDF rebellion, New People's Army, army, gouged_
 
 ### [A suicide car bomb, that targeted the Central Security headquarters in the port city of Aden, Yemen, kills at least 26 people. Following the blast, militants stormed the compound and clashed with soldiers. No group immediately claimed responsibility but it is similar to an Islamic State in Iraq and the Levant attack on the port of Al Mukalla. ](/news/2016/07/6/a-suicide-car-bomb-that-targeted-the-central-security-headquarters-in-the-port-city-of-aden-yemen-kills-at-least-26-people-following-the.md)
 _Context: Aden, Al Mukalla, Central Security, Islamic State in Iraq and the Levant, Yemen, Yemeni Civil War_

@@ -19,7 +19,7 @@ _Context: 2016 Taiwan earthquake_
 The natural gas leak that flowed for three months and sickened hundreds near Los Angeles has been temporarily capped, gas company officials said.
 
 ### [A Hellenic Navy helicopter crashes while taking part in a military exercise in the Aegean Sea, near the Greek island of Kinaros, three Greek naval airmen are feared dead. ](/news/2016/02/11/a-hellenic-navy-helicopter-crashes-while-taking-part-in-a-military-exercise-in-the-aegean-sea-near-the-greek-island-of-kinaros-three-greek.md)
-_Context: Aegean Sea, Greek, Hellenic Navy, Kinaros_
+_Context: Aegean Sea, Greece, Hellenic Navy, Kinaros_
 
 ### [A yellow fever outbreak has killed 37 people in Angola since December 2015. ](/news/2016/02/11/a-yellow-fever-outbreak-has-killed-37-people-in-angola-since-december-2015.md)
 _Context: Angola, yellow fever_

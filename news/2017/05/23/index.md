@@ -12,14 +12,14 @@ At least seven militants were killed during a raid by U.S. Special Forces troops
 ### [Sir Roger Moore, who played James Bond between 1973 and 1985, dies at age 89. ](/news/2017/05/23/sir-roger-moore-who-played-james-bond-between-1973-and-1985-dies-at-age-89.md)
 The actor, best known for his suave portrayal of James Bond, has died aged 89, his family announces.
 
-### [An Indian Air Force Sukhoi Su-30 goes missing near the border with China and is presumed to have crashed along with its two pilots. ](/news/2017/05/23/an-indian-air-force-sukhoi-su-30-goes-missing-near-the-border-with-china-and-is-presumed-to-have-crashed-along-with-its-two-pilots.md)
-_Context: China, Indian Air Force, Sukhoi Su-30_
-
 ### [The White House releases a proposed budget that includes an increase in spending for the military but a decrease in healthcare and welfare. ](/news/2017/05/23/the-white-house-releases-a-proposed-budget-that-includes-an-increase-in-spending-for-the-military-but-a-decrease-in-healthcare-and-welfare.md)
 The White House says it is a &quot;taxpayer first&quot; budget, but even grizzled conservatives are baulking.
 
 ### [Apple Inc. and Nokia agree to increase their partnership after settling a patent dispute. ](/news/2017/05/23/apple-inc-and-nokia-agree-to-increase-their-partnership-after-settling-a-patent-dispute.md)
 _Context: Apple Inc., Nokia, patent_
+
+### [An Indian Air Force Sukhoi Su-30 goes missing near the border with China and is presumed to have crashed along with its two pilots. ](/news/2017/05/23/an-indian-air-force-sukhoi-su-30-goes-missing-near-the-border-with-china-and-is-presumed-to-have-crashed-along-with-its-two-pilots.md)
+_Context: China, Indian Air Force, Sukhoi Su-30_
 
 ### [Two Indonesian men are publicly caned by local authorities on accusation of homosexual intercourse, which is illegal in the Muslim-majority autonomous province of Aceh. ](/news/2017/05/23/two-indonesian-men-are-publicly-caned-by-local-authorities-on-accusation-of-homosexual-intercourse-which-is-illegal-in-the-muslim-majority.md)
 Hooded men inflicted 82 lashes on each of the men as hundreds of people watched.

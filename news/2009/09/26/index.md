@@ -13,7 +13,7 @@ _Context: Metro Manila, Philippines, Tropical Storm Ketsana_
 Three detainees held at the U.S. military prison at Guantanamo Bay, Cuba, have been sent to Ireland and Yemen, the Justice Department said on Saturday, the latest transfers as President Barack Obama tries to close the facility by January.
 
 ### [ Kenyan President Mwai Kibaki writes to President of the United States Barack Obama to express his concern and disappointment over threats it has received from that country concerning a travel ban on Kenyan officials it blames for hindering reforms. ](/news/2009/09/26/kenyan-president-mwai-kibaki-writes-to-president-of-the-united-states-barack-obama-to-express-his-concern-and-disappointment-over-threats-i.md)
-_Context: Barack Obama, Kenya, Mwai Kibaki, United States President, president_
+_Context: Barack Obama, Kenya, Mwai Kibaki, U.S. President, president_
 
 ### [ Two car bomb blasts kill at least 12 people in northwestern Pakistan. ](/news/2009/09/26/two-car-bomb-blasts-kill-at-least-12-people-in-northwestern-pakistan.md)
 Police officers and civilians among casualties of car-bomb attacks in Bannu and Peshawar.

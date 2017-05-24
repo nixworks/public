@@ -1,7 +1,7 @@
 ## [2006-06-8](/news/2006/06/8/index.md)
 
 ### [ Scientists in Greece announce to have revealed previously hidden ancient Greek letters on the Antikythera mechanism, thought to be one of the world's first known analog computers. ](/news/2006/06/8/scientists-in-greece-announce-to-have-revealed-previously-hidden-ancient-greek-letters-on-the-antikythera-mechanism-thought-to-be-one-of-t.md)
-_Context: Antikythera mechanism, Greek, analog computer_
+_Context: Antikythera mechanism, Greece, analog computer_
 
 ### [ A delegation from the rebel Lord's Resistance Army arrives in Juba, Sudan for peace talks with the Ugandan government to be mediated by Riek Machar, Vice President of Southern Sudan.](/news/2006/06/8/a-delegation-from-the-rebel-lord-s-resistance-army-arrives-in-juba-sudan-for-peace-talks-with-the-ugandan-government-to-be-mediated-by-rie.md)
 _Context: Juba, Lord's Resistance Army, Riek Machar, Southern Sudan, Uganda_

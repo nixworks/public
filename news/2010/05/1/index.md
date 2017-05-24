@@ -25,7 +25,7 @@ _Context: Johnson & Johnson, United States_
 Nationwide shutdown announced after prime minister refused calls to step down.
 
 ### [Greek police shoot tear gas at protesters in Athens during an anti-government march. ](/news/2010/05/1/greek-police-shoot-tear-gas-at-protesters-in-athens-during-an-anti-government-march.md)
-_Context: Athens, Greek, tear gas_
+_Context: Athens, Greece, tear gas_
 
 ### [Thousands of people protest in Tirana, demanding a recount of votes from last June's parliamentary elections. ](/news/2010/05/1/thousands-of-people-protest-in-tirana-demanding-a-recount-of-votes-from-last-june-s-parliamentary-elections.md)
 Opposition socialists plan hunger strike as stalemate over June elections drags on.
