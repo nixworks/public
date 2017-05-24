@@ -1,6 +1,6 @@
 ## [News](/news/2017/05/24/index.md)
 
-### [2017 Manchester Arena bombing As part of an ongoing investigation, British police arrest four people in connection with Monday's deadly explosion, including a 23-year-old man who was taken into custody Tuesday. ](/news/2017/05/24/2017-manchester-arena-bombing-pas-part-of-an-ongoing-investigation-british-police-arrest-four-people-in-connection-with-monday-s-deadly-exp.md)
+### [2017 Manchester Arena bombing As part of an ongoing investigation, British police arrest six people in connection with Monday's deadly explosion, including a 23-year-old man who was taken into custody Tuesday. ](/news/2017/05/24/2017-manchester-arena-bombing-pas-part-of-an-ongoing-investigation-british-police-arrest-six-people-in-connection-with-monday-s-deadly-expl.md)
 Three more arrests have been made in connection with the deadly suicide bombing at an Ariana Grande concert in Manchester, England, Monday, that killed 22 people including children and a police officer, authorities said today. The three men were arrested after police executed search warrants in...
 
 ### [A bomb in Jakarta kills at least two people. ](/news/2017/05/24/a-bomb-in-jakarta-kills-at-least-two-people.md)
@@ -9,7 +9,7 @@ TWO people have been killed and several injured, including a police officer, fol
 ### [Five people are killed in a raid on a house of a Shia cleric in Bahrain. ](/news/2017/05/24/five-people-are-killed-in-a-raid-on-a-house-of-a-shia-cleric-in-bahrain.md)
 The interior ministry calls those killed &quot;outlaws&quot;, but activists say they were peaceful protesters.
 
-### [Moody's Investors Service downgrades the credit rating of the People's Republic of China from Aa3 to A1. ](/news/2017/05/24/moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa3-to-a1.md)
+### [Moody's Investors Service downgrades the credit rating of the People's Republic of China from AA3 to A1. ](/news/2017/05/24/moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa3-to-a1.md)
 Moody&rsquo;s has downgraded China rating to A1 from Aa3, with a stable outlook.
 
 ### [The Italian Coast Guard reports that at least 20 migrants are killed when their 500-passenger boat capsizes in the  Mediterranean Sea off Libya's coast. About 1,700 people have been rescued in 15 operations since Tuesday. ](/news/2017/05/24/the-italian-coast-guard-reports-that-at-least-20-migrants-are-killed-when-their-500-passenger-boat-capsizes-in-the-mediterranean-sea-off-li.md)
@@ -32,6 +32,9 @@ On May 16, a story was posted on the Fox News website on the investigation into 
 
 ### [Vermont governor Phil Scott (R) vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-r-vetoes-a-bill-legalizing-marijuana-in-the-state.md)
 _Context: Legality of cannabis, Phil Scott, R, Vermont, marijuana_
+
+### [President Donald Trump's proposed budget for fiscal year 2018, titled "America First: A Budget Blueprint to Make America Great Again,"  has a $2 trillion accounting error over 10 years because it  uses the same money twice for two different purposes. ](/news/2017/05/24/president-donald-trump-s-proposed-budget-for-fiscal-year-2018-titled-america-first-a-budget-blueprint-to-make-america-great-again-has.md)
+&quot;A New Foundation for American Greatness&quot; was built on quicksand, and the president&#x27;s defenders are happy to keep shoveling it.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
