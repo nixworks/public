@@ -6,14 +6,23 @@ Three more arrests have been made in connection with the deadly suicide bombing 
 ### [A bomb in Jakarta kills at least two people. ](/news/2017/05/24/a-bomb-in-jakarta-kills-at-least-two-people.md)
 TWO people have been killed and several injured, including a police officer, following two explosions near a bus station in Indonesia, according to local reports.
 
+### [A raid in the house of a Shia cleric in Bahrain kills five. ](/news/2017/05/24/a-raid-in-the-house-of-a-shia-cleric-in-bahrain-kills-five.md)
+The interior ministry calls those killed &quot;outlaws&quot;, but activists say they were peaceful protesters.
+
 ### [Moody's Investors Service downgrades the credit rating of the People's Republic of China from Aa3 to A1. ](/news/2017/05/24/moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa3-to-a1.md)
 Moody&rsquo;s has downgraded China rating to A1 from Aa3, with a stable outlook.
 
 ### [The Italian Coast Guard reports at least 20 migrants are killed when their 500-passenger boat capsizes in the  Mediterranean Sea off Libya's coast. About 1,700 people have been rescued in 15 operations since Tuesday. ](/news/2017/05/24/the-italian-coast-guard-reports-at-least-20-migrants-are-killed-when-their-500-passenger-boat-capsizes-in-the-mediterranean-sea-off-libya-s.md)
 _Context: European migrant crisis, Italian Coast Guard, Libya, Mediterranean Sea_
 
-### [Same-sex-marriage is legalized in Taiwan after the Supreme Court rules in favor. ](/news/2017/05/24/same-sex-marriage-is-legalized-in-taiwan-after-the-supreme-court-rules-in-favor.md)
+### [After the Supreme Court rules in favor, same-sex-marriage is on its way to be legalized in Taiwan, the first country in Asia to do so. ](/news/2017/05/24/after-the-supreme-court-rules-in-favor-same-sex-marriage-is-on-its-way-to-be-legalized-in-taiwan-the-first-country-in-asia-to-do-so.md)
 A top Taiwan court ruled in favor of gay marriage Wednesday, a landmark ruling that paves the way for the island to become the first place in Asia to legalize same sex unions. Current top breaking Philippine headlines regarding the nation, world, metro manila, regions and exclusive special investigative reports.
+
+### [It is reported that during the phone call of U.S. president Donald Trump to Philippine strongman Rodrigo Duterte that Trump apparently congratulated Duterte for his drug war. ](/news/2017/05/24/it-is-reported-that-during-the-phone-call-of-u-s-president-donald-trump-to-philippine-strongman-rodrigo-duterte-that-trump-apparently-congr.md)
+“I just wanted to congratulate you because I am hearing of the unbelievable job on the drug problem,” Trump said, according to an official transcript.
+
+### [Fox News makes a retraction about their claims regarding the murder. ](/news/2017/05/24/fox-news-makes-a-retraction-about-their-claims-regarding-the-murder.md)
+On May 16, a story was posted on the Fox News website on the investigation into the 2016 murder of DNC Staffer Seth Rich. The article was not initially subjected to the high degree of editorial scrutiny we require for all our reporting. Upon appropriate review, the article was found not to meet those standards and has since been removed.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -23,7 +32,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/05/23/index.md)
 
-### [Campaigning in the United Kingdom general election is suspended after the bombing at the Manchester Arena. The death toll is 22 with 59 injured. ISIL claims responsibility. Singer/actress Ariana Grande suspends her "Dangerous Woman" tour. ](/news/2017/05/23/campaigning-in-the-united-kingdom-general-election-is-suspended-after-the-bombing-at-the-manchester-arena-the-death-toll-is-22-with-59-inju.md)
+### [Campaigning in the United Kingdom general election is suspended after the bombing at the Manchester Arena. The death toll is 22 with 59 injured. ISIL claims responsibility. Singer and actress Ariana Grande suspends her Dangerous Woman Tour. ](/news/2017/05/23/campaigning-in-the-united-kingdom-general-election-is-suspended-after-the-bombing-at-the-manchester-arena-the-death-toll-is-22-with-59-inju.md)
 Children were among those killed in the blast after a concert by US singer Ariana Grande.
 
 ### [2017 Marawi clash Philippine president Rodrigo Duterte declares martial law on the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/2017-marawi-clash-pphilippine-president-rodrigo-duterte-declares-martial-law-on-the-island-of-mindanao-after-maute-militants-clash-with-army.md)

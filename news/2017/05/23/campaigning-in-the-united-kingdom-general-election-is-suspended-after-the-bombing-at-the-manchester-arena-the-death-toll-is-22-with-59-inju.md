@@ -1,6 +1,6 @@
 ### [2017-05-23](/news/2017/05/23/index.md)
 
-# Campaigning in the United Kingdom general election is suspended after the bombing at the Manchester Arena. The death toll is 22 with 59 injured. ISIL claims responsibility. Singer/actress Ariana Grande suspends her "Dangerous Woman" tour. 
+# Campaigning in the United Kingdom general election is suspended after the bombing at the Manchester Arena. The death toll is 22 with 59 injured. ISIL claims responsibility. Singer and actress Ariana Grande suspends her Dangerous Woman Tour. 
 
 Children were among those killed in the blast after a concert by US singer Ariana Grande.
 
@@ -17,7 +17,7 @@ Children were among those killed in the blast after a concert by US singer Arian
 
 ### Related:
 
-1. [Greater Manchester Police (GMP) report deadly explosions at Manchester Arena in Manchester, England, at the end of Ariana Grande's performance on her Dangerous Woman Tour. ](/news/2017/05/22/greater-manchester-police-gmp-report-deadly-explosions-at-manchester-arena-in-manchester-england-at-the-end-of-ariana-grandeas-perform.md) _Context: 2017 Manchester Arena bombing, Ariana Grande, Manchester Arena_
+1. [Greater Manchester Police (GMP) report deadly explosions at Manchester Arena in Manchester, England, at the end of Ariana Grande's performance on her Dangerous Woman Tour. ](/news/2017/05/22/greater-manchester-police-gmp-report-deadly-explosions-at-manchester-arena-in-manchester-england-at-the-end-of-ariana-grandeas-perform.md) _Context: 2017 Manchester Arena bombing, Ariana Grande, Dangerous Woman Tour, Manchester Arena_
 2. [Despite opposition from Turkey, President Donald Trump authorizes an arms deal with the Syrian Kurds to assist the Syrian Democratic Forces in their fight against Islamic State of Iraq and the Levant (ISIL). ](/news/2017/05/9/despite-opposition-from-turkey-president-donald-trump-authorizes-an-arms-deal-with-the-syrian-kurds-to-assist-the-syrian-democratic-forces.md) _Context: ISIL_
 3. [Conservative politician Theresa May accuses European Union officials of trying to influence the upcoming elections. ](/news/2017/05/3/conservative-politician-theresa-may-accuses-european-union-officials-of-trying-to-influence-the-upcoming-elections.md) _Context: United Kingdom general election_
 4. [2017 Manchester Arena bombing U.K. police arrest four people  in connection with Monday's deadly explosion, including a 23-year-old man who was taken into custody Tuesday. The investigation continues. ](/news/2017/05/24/2017-manchester-arena-bombing-pu-k-police-arrest-four-people-in-connection-with-monday-s-deadly-explosion-including-a-23-year-old-man-who.md) _Context: 2017 Manchester Arena bombing_

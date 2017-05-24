@@ -1,6 +1,6 @@
 ## [2017-05-23](/news/2017/05/23/index.md)
 
-### [Campaigning in the United Kingdom general election is suspended after the bombing at the Manchester Arena. The death toll is 22 with 59 injured. ISIL claims responsibility. Singer/actress Ariana Grande suspends her "Dangerous Woman" tour. ](/news/2017/05/23/campaigning-in-the-united-kingdom-general-election-is-suspended-after-the-bombing-at-the-manchester-arena-the-death-toll-is-22-with-59-inju.md)
+### [Campaigning in the United Kingdom general election is suspended after the bombing at the Manchester Arena. The death toll is 22 with 59 injured. ISIL claims responsibility. Singer and actress Ariana Grande suspends her Dangerous Woman Tour. ](/news/2017/05/23/campaigning-in-the-united-kingdom-general-election-is-suspended-after-the-bombing-at-the-manchester-arena-the-death-toll-is-22-with-59-inju.md)
 Children were among those killed in the blast after a concert by US singer Ariana Grande.
 
 ### [2017 Marawi clash Philippine president Rodrigo Duterte declares martial law on the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/2017-marawi-clash-pphilippine-president-rodrigo-duterte-declares-martial-law-on-the-island-of-mindanao-after-maute-militants-clash-with-army.md)
