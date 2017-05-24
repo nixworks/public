@@ -3,7 +3,7 @@
 ### [Campaigning in the United Kingdom general election is suspended after the bombing at the Manchester Arena. The death toll is 22 with 59 injured. ISIL claims responsibility. Singer/actress Ariana Grande suspends her "Dangerous Woman" tour. ](/news/2017/05/23/campaigning-in-the-united-kingdom-general-election-is-suspended-after-the-bombing-at-the-manchester-arena-the-death-toll-is-22-with-59-inju.md)
 Children were among those killed in the blast after a concert by US singer Ariana Grande.
 
-### [Moro conflict Philippine president Rodrigo Duterte declares martial law on the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/moro-conflict-pphilippine-president-rodrigo-duterte-declares-martial-law-on-the-island-of-mindanao-after-maute-militants-clash-with-army-tro.md)
+### [2017 Marawi clash Philippine president Rodrigo Duterte declares martial law on the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/2017-marawi-clash-pphilippine-president-rodrigo-duterte-declares-martial-law-on-the-island-of-mindanao-after-maute-militants-clash-with-army.md)
 Philippine President Rodrigo Duterte makes the declaration while on an official visit to Russia, as Maute Group members attack Marawi City in Mindanao
 
 ### [ The U.S. Navy SEAL Team Six's raid on an  Al Qaeda in Yemen compound in the Ma'rib Governorate kills at least seven militants. Seal Team Six also suffered unspecified injuries that were treated at the site. ](/news/2017/05/23/the-u-s-navy-seal-team-six-s-raid-on-an-al-qaeda-in-yemen-compound-in-the-ma-rib-governorate-kills-at-least-seven-militants-seal-team-si.md)
@@ -19,10 +19,19 @@ The White House says it is a &quot;taxpayer first&quot; budget, but even grizzle
 _Context: Apple Inc., Nokia, patent_
 
 ### [An Indian Air Force Sukhoi Su-30 goes missing near the border with China and is presumed to have crashed along with its two pilots. ](/news/2017/05/23/an-indian-air-force-sukhoi-su-30-goes-missing-near-the-border-with-china-and-is-presumed-to-have-crashed-along-with-its-two-pilots.md)
-_Context: China, Indian Air Force, Sukhoi Su-30_
+_Context: Indian Air Force, People's Republic of China, Sukhoi Su-30_
 
-### [Two Indonesian men are publicly caned by local authorities on accusation of homosexual intercourse, which is illegal in the Muslim-majority autonomous province of Aceh. ](/news/2017/05/23/two-indonesian-men-are-publicly-caned-by-local-authorities-on-accusation-of-homosexual-intercourse-which-is-illegal-in-the-muslim-majority.md)
+### [Newark Liberty International Airport in northern New Jersey was closed for almost two hours this evening  after flames were spotted coming from one of the  United Airlines Boeing 757 jet engines. All 124 passengers and seven crew members safely evacuated the plane. ](/news/2017/05/23/newark-liberty-international-airport-in-northern-new-jersey-was-closed-for-almost-two-hours-this-evening-after-flames-were-spotted-coming-f.md)
+Newark Liberty International Airport in New Jersey reopened late on Tuesday after being shut down when 131 people were evacuated from a United Airlines flight over flames seen emerging from an aircraft engine.
+
+### [The World Health Organization (WHO) elects former Ethopian Foreign Minister and Health Minister Dr. Tedros Adhanom Ghebreyesus as the international organization's new Director-General  succeeding Dr. Margaret Chan, who has been in office since 2006. Tedros is the first African Director-General and the first non-medical doctor; he has a PhD in Community Health from the University of Nottingham. ](/news/2017/05/23/the-world-health-organization-who-elects-former-ethopian-foreign-minister-and-health-minister-dr-tedros-adhanom-ghebreyesus-as-the-intern.md)
+Today the Member States of WHO elected Dr Tedros Adhanom Ghebreyesus as the new Director-General of WHO. #WHA70
+
+### [Two Indonesian men are publicly caned by local authorities in Aceh on accusation of illegal homosexual intercourse. ](/news/2017/05/23/two-indonesian-men-are-publicly-caned-by-local-authorities-in-aceh-on-accusation-of-illegal-homosexual-intercourse.md)
 Hooded men inflicted 82 lashes on each of the men as hundreds of people watched.
+
+### [The United States Fourth Circuit Court of Appeals  rules that Wikimedia Foundation has the legal right to challenge the National Security Agency Upstream program of mass online surveillance. This decision reinstates the suit that had been dismissed by a  Federal district judge in Baltimore, Maryland. Eight other organizations, including Amnesty International USA and the Global Fund for Women, are also plaintiffs in this case. ](/news/2017/05/23/the-united-states-fourth-circuit-court-of-appeals-rules-that-wikimedia-foundation-has-the-legal-right-to-challenge-the-national-security-ag.md)
+_Context: Amnesty International USA, Baltimore, Federal district judge, Fourth Circuit Court of Appeals, Global Fund for Women, Maryland, National Security Agency, Upstream program, Wikimedia Foundation, Wikimedia Foundation v. NSA_
 
 ### [Former CIA Director John Brennan tells the House Intelligence Committee  he knew of contacts between Trump associates and Russian officials, but is not sure collusion existed. Brennan said he warned the Russian intelligence service last August against meddling in the U.S. election.  ](/news/2017/05/23/former-cia-director-john-brennan-tells-the-house-intelligence-committee-he-knew-of-contacts-between-trump-associates-and-russian-officials.md)
 Director of National Intelligence Dan Coats on Tuesday refused to address — but he did not deny — reports that President Donald Trump asked him to push back against allegations the Trump campaign colluded with Russia, while a former CIA chief testified he was aware of &quot;interactions&quot; between the campaign and Moscow.
