@@ -8,7 +8,6 @@
 ### Source:
 
 1. [NBC News](http://www.nbcnews.com/business/economy/trump-team-stands-budget-s-2-trillion-math-error-n763996)
-2. [The New York Times](https://www.nytimes.com/2017/05/24/opinion/trumps-budget-the-math-is-phony-but-the-cruelty-isnt.html?_r=0)
 
 ### Related:
 

@@ -36,5 +36,8 @@ _Context: Legality of cannabis, Phil Scott, R, Vermont, marijuana_
 ### [President Donald Trump's proposed budget for fiscal year 2018, titled "America First: A Budget Blueprint to Make America Great Again,"  has a $2 trillion accounting error over 10 years because it  uses the same money twice for two different purposes. ](/news/2017/05/24/president-donald-trump-s-proposed-budget-for-fiscal-year-2018-titled-america-first-a-budget-blueprint-to-make-america-great-again-has.md)
 &quot;A New Foundation for American Greatness&quot; was built on quicksand, and the president&#x27;s defenders are happy to keep shoveling it.
 
+### [Protestors set fire to the Ministry of Agriculture headquarters in Brasilia amid calls for the impeachment or resignation of Michel Temer as President of Brazil over allegations of corruption. ](/news/2017/05/24/protestors-set-fire-to-the-ministry-of-agriculture-headquarters-in-brasalia-amid-calls-for-the-impeachment-or-resignation-of-michel-temer-a.md)
+Around 35,000 demonstrators took to the streets of the capital Brasilia angry at alleged corruption.
+
 ## [Previous Day...](/news/2017/05/23/index.md)
 
