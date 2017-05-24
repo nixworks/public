@@ -9,6 +9,9 @@ Philippine President Rodrigo Duterte makes the declaration while on an official 
 ### [ The U.S. Navy SEAL Team Six's raid on an Al Qaeda in Yemen compound in the Ma'rib Governorate kills at least seven militants. Seal Team Six also suffered unspecified injuries that were treated at the site. ](/news/2017/05/23/the-u-s-navy-seal-team-six-s-raid-on-an-al-qaeda-in-yemen-compound-in-the-ma-rib-governorate-kills-at-least-seven-militants-seal-team-six.md)
 At least seven militants were killed during a raid by U.S. Special Forces troops against an al Qaeda compound in Yemen on Tuesday morning, the Pentagon said, the deepest the United States has penetrated Yemen to target the group.
 
+### [A speech by a Chinese-national student in the University of Maryland creates controversy. ](/news/2017/05/23/a-speech-by-a-chinese-national-student-in-the-university-of-maryland-creates-controversy.md)
+Shuping Yang praised the &quot;fresh air of free speech&quot; in the U.S. during her commencement address at the University of Maryland. That sparked a backlash from classmates and from people in China.
+
 ### [Sir Roger Moore, who played James Bond between 1973 and 1985, dies at age 89. ](/news/2017/05/23/sir-roger-moore-who-played-james-bond-between-1973-and-1985-dies-at-age-89.md)
 The actor, best known for his suave portrayal of James Bond, has died aged 89, his family announces.
 
