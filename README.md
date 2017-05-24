@@ -1,5 +1,8 @@
 ## [News](/news/2017/05/24/index.md)
 
+### [2017 Manchester Arena bombing U.K. police arrest four people  in connection with Monday's deadly explosion, including a 23-year-old man who was taken into custody Tuesday. The investigation continues. ](/news/2017/05/24/2017-manchester-arena-bombing-pu-k-police-arrest-four-people-in-connection-with-monday-s-deadly-explosion-including-a-23-year-old-man-who.md)
+Three more arrests have been made in connection with the deadly suicide bombing at an Ariana Grande concert in Manchester, England, Monday, that killed 22 people including children and a police officer, authorities said today. The three men were arrested after police executed search warrants in...
+
 ### [Moody's Investors Service downgrades the credit rating of the People's Republic of China from Aa3 to A1. ](/news/2017/05/24/moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa3-to-a1.md)
 Moody&rsquo;s has downgraded China rating to A1 from Aa3, with a stable outlook.
 
@@ -32,7 +35,7 @@ _Context: Apple Inc., Nokia, patent_
 ### [An Indian Air Force Sukhoi Su-30 goes missing near the border with China and is presumed to have crashed along with its two pilots. ](/news/2017/05/23/an-indian-air-force-sukhoi-su-30-goes-missing-near-the-border-with-china-and-is-presumed-to-have-crashed-along-with-its-two-pilots.md)
 _Context: Indian Air Force, People's Republic of China, Sukhoi Su-30_
 
-### [Newark Liberty International Airport in northern New Jersey is closed for almost two hours after flames are spotted coming from one of the United Airlines Boeing 757 jet engines. All 124 passengers and seven crew members safely evacuate the plane. ](/news/2017/05/23/newark-liberty-international-airport-in-northern-new-jersey-is-closed-for-almost-two-hours-after-flames-are-spotted-coming-from-one-of-the-u.md)
+### [Newark Liberty International Airport in northern New Jersey is closed for almost two hours after flames are spotted coming from a United Airlines Boeing 757 jet engine. All 124 passengers and seven crew members safely evacuate the plane. ](/news/2017/05/23/newark-liberty-international-airport-in-northern-new-jersey-is-closed-for-almost-two-hours-after-flames-are-spotted-coming-from-a-united-air.md)
 Newark Liberty International Airport in New Jersey reopened late on Tuesday after being shut down when 131 people were evacuated from a United Airlines flight over flames seen emerging from an aircraft engine.
 
 ### [The World Health Organization (WHO) elects former Ethopian Foreign Minister and Health Minister Dr. Tedros Adhanom Ghebreyesus as the international organization's new Director-General  succeeding Dr. Margaret Chan, who has been in office since 2006. Tedros is the first African Director-General and the first non-medical doctor; he has a PhD in Community Health from the University of Nottingham. ](/news/2017/05/23/the-world-health-organization-who-elects-former-ethopian-foreign-minister-and-health-minister-dr-tedros-adhanom-ghebreyesus-as-the-intern.md)
