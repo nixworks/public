@@ -1,6 +1,6 @@
 ## [News](/news/2017/05/25/index.md)
 
-### [British police suspend sharing intelligence with the United States in connection with Monday's deadly attack after raising concerns the U.S. leaked sensitive information regarding the investigation.  British Prime Minister Theresa May states she will emphasize the sensitive nature of said information when she meets with President Donald Trump during their meeting at NATO later today.  Trump calls for an investigation into the leaks. ](/news/2017/05/25/british-police-suspend-sharing-intelligence-with-the-united-states-in-connection-with-monday-s-deadly-attack-after-raising-concerns-the-u-s.md)
+### [British police suspend sharing intelligence with the United States in connection with Monday's deadly attack after The New York Times publishes sensitive information leaked by U.S. officials on suspected bomber Salman Abedi.  British Prime Minister Theresa May states she will emphasize the sensitive nature of said information when she meets with U.S. President Donald Trump during their meeting at NATO later today.  Trump calls for an investigation into the leaks. ](/news/2017/05/25/british-police-suspend-sharing-intelligence-with-the-united-states-in-connection-with-monday-s-deadly-attack-after-the-new-york-times-publis.md)
 President Donald Trump said on Thursday that &quot;deeply troubling&quot; leaks to U.S. media about the Manchester suicide bombing would be investigated, after irate British police stopped sharing information with U.S. agencies.
 
 ### [Former Greek Prime Minister Lucas Papademos is injured in an explosion inside his vehicle in Athens. ](/news/2017/05/25/former-greek-prime-minister-lucas-papademos-is-injured-in-an-explosion-inside-his-vehicle-in-athens.md)
@@ -11,6 +11,9 @@ Chinese warships warned a U.S. Navy destroyer to leave after the ship sailed les
 
 ### [Voters in Montana pick between Republican Greg Gianforte and  Democrat Rob Quist in the special congressional election to replace Ryan Zinke, who is now President Trump's Secretary of the Interior. ](/news/2017/05/25/voters-in-montana-pick-between-republican-greg-gianforte-and-democrat-rob-quist-in-the-special-congressional-election-to-replace-ryan-zinke.md)
 Greg Gianforte, the Republican candidate for a special House election in Montana, was officially charged with assaulting a journalist — just one day before the election.
+
+### [The United States Court of Appeals for the Fourth Circuit refuses to reinstate Executive Order 13780 on the basis of religious discrimination. ](/news/2017/05/25/the-united-states-court-of-appeals-for-the-fourth-circuit-refuses-to-reinstate-executive-order-13780-on-the-basis-of-religious-discriminatio.md)
+_Context: Executive Order 13780, United States Court of Appeals for the Fourth Circuit_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -100,7 +103,7 @@ Today the Member States of WHO elected Dr Tedros Adhanom Ghebreyesus as the new 
 Hooded men inflicted 82 lashes on each of the men as hundreds of people watched.
 
 ### [''Wikimedia Foundation v. NSA''The United States Fourth Circuit Court of Appeals rules that Wikimedia Foundation has the legal right to challenge the National Security Agency Upstream program of mass online surveillance. This decision reinstates the suit that had been dismissed by a Federal district judge in Baltimore, Maryland. Eight other organizations, including Amnesty International USA and the Global Fund for Women, are also plaintiffs in this case. ](/news/2017/05/23/wikimedia-foundation-v-nsa-pthe-united-states-fourth-circuit-court-of-appeals-rules-that-wikimedia-foundation-has-the-legal-right-to-cha.md)
-_Context: Amnesty International USA, Baltimore, Federal district judge, Fourth Circuit Court of Appeals, Global Fund for Women, Maryland, National Security Agency, Upstream program, Wikimedia Foundation, Wikimedia Foundation v. NSA_
+_Context: Amnesty International USA, Baltimore, Federal district judge, Global Fund for Women, Maryland, National Security Agency, United States Court of Appeals for the Fourth Circuit, Upstream program, Wikimedia Foundation, Wikimedia Foundation v. NSA_
 
 ### [Former CIA Director John Brennan tells the House Intelligence Committee he knew of contacts between Trump associates and Russian officials, but is not sure collusion existed. Brennan said he warned the Russian intelligence service last August against meddling in the U.S. election. ](/news/2017/05/23/former-cia-director-john-brennan-tells-the-house-intelligence-committee-he-knew-of-contacts-between-trump-associates-and-russian-officials.md)
 Director of National Intelligence Dan Coats on Tuesday refused to address — but he did not deny — reports that President Donald Trump asked him to push back against allegations the Trump campaign colluded with Russia, while a former CIA chief testified he was aware of &quot;interactions&quot; between the campaign and Moscow.
