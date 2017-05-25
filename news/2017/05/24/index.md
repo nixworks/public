@@ -1,6 +1,6 @@
 ## [2017-05-24](/news/2017/05/24/index.md)
 
-### [2017 Manchester Arena bombing As part of an ongoing investigation, British police arrest six people in connection with Monday's deadly explosion, including a 23-year-old man who was taken into custody Tuesday. ](/news/2017/05/24/2017-manchester-arena-bombing-pas-part-of-an-ongoing-investigation-british-police-arrest-six-people-in-connection-with-monday-s-deadly-expl.md)
+### [As part of an ongoing investigation, British police arrest six people in connection with Monday's deadly explosion, including a 23-year-old man who was taken into custody Tuesday. ](/news/2017/05/24/as-part-of-an-ongoing-investigation-british-police-arrest-six-people-in-connection-with-monday-s-deadly-explosion-including-a-23-year-old.md)
 Three more arrests have been made in connection with the deadly suicide bombing at an Ariana Grande concert in Manchester, England, Monday, that killed 22 people including children and a police officer, authorities said today. The three men were arrested after police executed search warrants in...
 
 ### [Three police officers are killed in a suicide bombing at a bus station in Jatinegara, Jakarta. ](/news/2017/05/24/three-police-officers-are-killed-in-a-suicide-bombing-at-a-bus-station-in-jatinegara-jakarta.md)
@@ -30,8 +30,8 @@ U.S. President Donald Trump told his Philippine counterpart that Washington has 
 ### [Fox News retracts their claims regarding the murder. ](/news/2017/05/24/fox-news-retracts-their-claims-regarding-the-murder.md)
 On May 16, a story was posted on the Fox News website on the investigation into the 2016 murder of DNC Staffer Seth Rich. The article was not initially subjected to the high degree of editorial scrutiny we require for all our reporting. Upon appropriate review, the article was found not to meet those standards and has since been removed.
 
-### [Vermont governor Phil Scott (R) vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-r-vetoes-a-bill-legalizing-marijuana-in-the-state.md)
-_Context: Legality of cannabis, Phil Scott, R, Vermont, marijuana_
+### [Vermont governor Phil Scott vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.md)
+_Context: Legality of cannabis, Phil Scott, Vermont, marijuana_
 
 ### [President Donald Trump's proposed budget for fiscal year 2018, titled "America First: A Budget Blueprint to Make America Great Again,"  has a $2 trillion accounting error over 10 years because it  uses the same money twice for two different purposes. ](/news/2017/05/24/president-donald-trump-s-proposed-budget-for-fiscal-year-2018-titled-america-first-a-budget-blueprint-to-make-america-great-again-has.md)
 &quot;A New Foundation for American Greatness&quot; was built on quicksand, and the president&#x27;s defenders are happy to keep shoveling it.
