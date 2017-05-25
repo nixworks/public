@@ -9,11 +9,11 @@ President Donald Trump said on Thursday that &quot;deeply troubling&quot; leaks 
 ### [The USS Dewey sails within 12 nautical miles of the disputed Mischief Reef in the South China Sea. ](/news/2017/05/25/the-uss-dewey-sails-within-12-nautical-miles-of-the-disputed-mischief-reef-in-the-south-china-sea.md)
 _Context: Mischief Reef, South China Sea, Territorial disputes in the South China Sea, USS Dewey_
 
+### [The United States Court of Appeals for the Fourth Circuit refuses to reinstate Executive Order 13780 on the basis of religious discrimination, upholding the District Court for Maryland's March 7 ruling. ](/news/2017/05/25/the-united-states-court-of-appeals-for-the-fourth-circuit-refuses-to-reinstate-executive-order-13780-on-the-basis-of-religious-discriminatio.md)
+In a stinging rebuke to President Donald Trump, a U.S. appeals court refused on Thursday to reinstate his temporary travel ban on people from six Muslim-majority nations, setting the stage for a possible legal showdown in the Supreme Court.
+
 ### [Voters in Montana pick between Republican Greg Gianforte and  Democrat Rob Quist in the special congressional election to replace Ryan Zinke, who is now President Trump's Secretary of the Interior. ](/news/2017/05/25/voters-in-montana-pick-between-republican-greg-gianforte-and-democrat-rob-quist-in-the-special-congressional-election-to-replace-ryan-zinke.md)
 Greg Gianforte, the Republican candidate for a special House election in Montana, was officially charged with assaulting a journalist — just one day before the election.
-
-### [The United States Court of Appeals for the Fourth Circuit refuses to reinstate Executive Order 13780 on the basis of religious discrimination. ](/news/2017/05/25/the-united-states-court-of-appeals-for-the-fourth-circuit-refuses-to-reinstate-executive-order-13780-on-the-basis-of-religious-discriminatio.md)
-_Context: Executive Order 13780, Immigration policy of Donald Trump, United States Court of Appeals for the Fourth Circuit_
 
 ## [Previous Day...](/news/2017/05/24/index.md)
 
