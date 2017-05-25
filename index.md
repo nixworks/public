@@ -1,5 +1,11 @@
 ## [News](/news/2017/05/25/index.md)
 
+### [British police suspend sharing intelligence in connection with Monday's deadly attack after raising concerns the United States leaked sensitive information regarding the investigation.  British Prime Minister Theresa May states she will emphasize the sensitive nature of said information when she meets with President Donald Trump during their meeting at NATO later today.](/news/2017/05/25/british-police-suspend-sharing-intelligence-in-connection-with-monday-s-deadly-attack-after-raising-concerns-the-united-states-leaked-sensit.md)
+_Context: 2017 Manchester Arena bombing, British police, Donald Trump, NATO, President, Prime Minister, Theresa May, United States_
+
+### [The Ministry of National Defense of the People's Republic of China says the USS Dewey United States Navy destroyer was warned to leave an area less than 12 nautical miles from a man-made island near Mischief Reef in the South China Sea. The United States Department of Defense says it operates in accordance with international law. ](/news/2017/05/25/the-ministry-of-national-defense-of-the-people-s-republic-of-china-says-the-uss-dewey-united-states-navy-destroyer-was-warned-to-leave-an-ar.md)
+Chinese warships warned a U.S. Navy destroyer to leave after the ship sailed less than 12 nautical miles away from a man-made island in the South China Sea, a Chinese defense official said Thursday.
+
 ### [Voters in Montana pick between Republican Greg Gianforte and  Democrat Rob Quist in electing for a seat in the U.S. Congress. ](/news/2017/05/25/voters-in-montana-pick-between-republican-greg-gianforte-and-democrat-rob-quist-in-electing-for-a-seat-in-the-u-s-congress.md)
 _Context: Greg Gianforte, Montana, Montana's at-large congressional district special election, 2017, Rob Quist_
 
@@ -26,7 +32,7 @@ Moody&rsquo;s has downgraded China rating to A1 from Aa3, with a stable outlook.
 ### [The Italian Coast Guard reports that at least 20 migrants are killed when their 500-passenger boat capsizes in the  Mediterranean Sea off Libya's coast. About 1,700 people have been rescued in 15 operations since Tuesday. ](/news/2017/05/24/the-italian-coast-guard-reports-that-at-least-20-migrants-are-killed-when-their-500-passenger-boat-capsizes-in-the-mediterranean-sea-off-li.md)
 _Context: European migrant crisis, Italian Coast Guard, Libya, Mediterranean Sea_
 
-### [Four climbers are found dead on Mount Everest, bringing this season's death toll to 10. ](/news/2017/05/24/four-climbers-are-found-dead-on-mount-everest-bringing-this-season-s-death-toll-to-10.md)
+### [Four Climbers are found dead on Mount Everest, bringing this season's death toll to 10. ](/news/2017/05/24/four-climbers-are-found-dead-on-mount-everest-bringing-this-season-s-death-toll-to-10.md)
 The four were discovered by a rescue team sent to retrieve the body of another dead climber.
 
 ### [A landslide at Big Sur blocks off a portion of California State Route 1 just south of Gorda; no injuries have been reported. ](/news/2017/05/24/a-landslide-at-big-sur-blocks-off-a-portion-of-california-state-route-1-just-south-of-gorda-no-injuries-have-been-reported.md)
@@ -50,7 +56,7 @@ _Context: Legality of cannabis, Phil Scott, Vermont, marijuana_
 ### [Protestors set fire to the Ministry of Agriculture headquarters in Brasilia amid calls for the impeachment or resignation of Michel Temer as President of Brazil over allegations of corruption. ](/news/2017/05/24/protestors-set-fire-to-the-ministry-of-agriculture-headquarters-in-brasalia-amid-calls-for-the-impeachment-or-resignation-of-michel-temer-a.md)
 Around 35,000 demonstrators took to the streets of the capital Brasilia angry at alleged corruption.
 
-### [Republican Greg Gianforte bodyslams a reporter from ''The Guardian'' who reported the situation to police. Gianforte is running against Democrat Rob Quist. ](/news/2017/05/24/republican-greg-gianforte-bodyslams-a-reporter-from-the-guardian-who-reported-the-situation-to-police-gianforte-is-running-against-demo.md)
+### [Republican Greg Gianforte bodyslams a reporter from ''The Guardian'' who then reports the situation to police. Gianforte is running against Democrat Rob Quist. ](/news/2017/05/24/republican-greg-gianforte-bodyslams-a-reporter-from-the-guardian-who-then-reports-the-situation-to-police-gianforte-is-running-against.md)
 Audio of Greg Gianforte attacking Ben Jacobs corroborated by Fox News journalists in the room, who described candidate ‘slamming him to the ground’
 
 ---

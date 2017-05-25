@@ -1,6 +1,6 @@
 ### [2017-05-24](/news/2017/05/24/index.md)
 
-# Four climbers are found dead on Mount Everest, bringing this season's death toll to 10. 
+# Four Climbers are found dead on Mount Everest, bringing this season's death toll to 10. 
 
 The four were discovered by a rescue team sent to retrieve the body of another dead climber.
 
