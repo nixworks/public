@@ -4,7 +4,7 @@
 _Context: GAM, Indonesia_
 
 ### [ Andrei Illarionov, an adviser to Russian President Vladimir Putin quits, saying Russia is "no longer free". ](/news/2005/12/27/andrei-illarionov-an-adviser-to-russian-president-vladimir-putin-quits-saying-russia-is-no-longer-free.md)
-_Context: Andrei Illarionov, Russia, Russian President, Vladimir Putin_
+_Context: Andrei Illarionov, Russia, Russia President, Vladimir Putin_
 
 ### [ The government of Poland announces it will keep troops in Iraq until the end of 2006, longer than previously planned. ](/news/2005/12/27/the-government-of-poland-announces-it-will-keep-troops-in-iraq-until-the-end-of-2006-longer-than-previously-planned.md)
 _Context: Iraq, Poland_

@@ -7,7 +7,7 @@ _Context: Bethlehem, Israel_
 _Context: Aung San Suu Kyi, Burma, National League for Democracy, general elections_
 
 ### [Suicide bombers detonate two bombs at Moscow Metro stations Lubyanka and Park Kultury, killing at least 36 with the death toll expected to rise. ](/news/2010/03/29/suicide-bombers-detonate-two-bombs-at-moscow-metro-stations-lubyanka-and-park-kultury-killing-at-least-36-with-the-death-toll-expected-to-r.md)
-_Context: 2010 Moscow Metro bombings, Lubyanka, Moscow Metro, Park Kultury, suicide bomb attack_
+_Context: 2010 Moscow Metro bombings, Lubyanka, Moscow Metro, Park Kultury, suicide bombing_
 
 ### [The stern of the South Korean warship which exploded on Friday with 46 crewmen still missing is located and the military is expected to attempt a dive. ](/news/2010/03/29/the-stern-of-the-south-korean-warship-which-exploded-on-friday-with-46-crewmen-still-missing-is-located-and-the-military-is-expected-to-atte.md)
 _Context: ROKS ''Cheonan'', South Korea, stern_

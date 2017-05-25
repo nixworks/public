@@ -7,13 +7,13 @@ _Context: European Parliament, Telecommunications data retention_
 _Context: Cannon House Office Building, Federal Budget, Jim Wallis, Sojourners Magazine, U.S. Capitol building, Washington, D.C._
 
 ### [ U.S. President George W. Bush says that the decision to invade Iraq in 2003 was the result of faulty intelligence, and accepts responsibility for that decision. He maintains that his decision was still justified. ](/news/2005/12/14/u-s-president-george-w-bush-says-that-the-decision-to-invade-iraq-in-2003-was-the-result-of-faulty-intelligence-and-accepts-responsibili.md)
-_Context: George W. Bush, Iraq, U.S. President, intelligence_
+_Context: George W. Bush, Iraq, President, intelligence_
 
 ### [ Doctors in Pakistan marvel at the survival of Naqsha Bibi, rescued last Saturday, 63 days after she was buried in the 8 October 2005 Kashmir earthquake. ](/news/2005/12/14/doctors-in-pakistan-marvel-at-the-survival-of-naqsha-bibi-rescued-last-saturday-63-days-after-she-was-buried-in-the-8-october-2005-kashmi.md)
 _Context: 2005 Kashmir earthquake, 8 October, Naqsha Bibi, Pakistan_
 
 ### [ The President of Brazil, Luiz Inacio Lula da Silva announces that Brazil will clear its International Monetary Fund debt of $15.5bn two years early. ](/news/2005/12/14/the-president-of-brazil-luiz-inacio-lula-da-silva-announces-that-brazil-will-clear-its-international-monetary-fund-debt-of-15-5bn-two-yea.md)
-_Context: International Monetary Fund, Luiz Incio Lula da Silva, President, US$_
+_Context: International Monetary Fund, Luiz Incio Lula da Silva, President of Brazil, US$_
 
 ### [ In India, 11 Hindus are sentenced to life imprisonment for their roles in the murder of Muslims in the 2002 Gujarat violence. ](/news/2005/12/14/in-india-11-hindus-are-sentenced-to-life-imprisonment-for-their-roles-in-the-murder-of-muslims-in-the-2002-gujarat-violence.md)
 _Context: Hindu, India, Muslim, life imprisonment, riots_

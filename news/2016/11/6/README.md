@@ -34,7 +34,7 @@ _Context: Bulgaria, Bulgarian presidential election, 2016, Rumen Radev, Tsetska 
 Nicaraguan leader Daniel Ortega wins a third consecutive term, but the opposition cries foul.
 
 ### [In Hong Kong, police clash with protesters after more than 10,000 locals march against the Chinese government interpretation of the Basic Law in the Legislative Council oath-taking controversy. ](/news/2016/11/6/in-hong-kong-police-clash-with-protesters-after-more-than-10-000-locals-march-against-the-chinese-government-interpretation-of-the-basic-la.md)
-_Context: Basic Law, China, Hong Kong, oath-taking controversy_
+_Context: Basic Law, Hong Kong, People's Republic of China, oath-taking controversy_
 
 ### [Federal Bureau of Investigation chief James Comey tells the United States Congress that he has found no evidence of criminality by Hillary Clinton in relation to a new batch of emails. ](/news/2016/11/6/federal-bureau-of-investigation-chief-james-comey-tells-the-united-states-congress-that-he-has-found-no-evidence-of-criminality-by-hillary-c.md)
 An FBI investigation finds no evidence of criminality in the latest batch of Hillary Clinton emails.

@@ -13,7 +13,7 @@ Whole Foods will pay $500,000 to resolve an investigation into whether it charge
 Police set up an exclusion zone around the wreckage in the Australian outback and three people suffer minor injuries.
 
 ### [A Chinese official who sanctioned a dump of construction debris that led to a deadly landslide in the southern city of Shenzhen that killed at least 7 people and has left over 70 missing, kills himself by jumping from a building in the city's Nanshan district, according to the ''South China Morning Post''. ](/news/2015/12/28/a-chinese-official-who-sanctioned-a-dump-of-construction-debris-that-led-to-a-deadly-landslide-in-the-southern-city-of-shenzhen-that-killed.md)
-_Context: 2015 Shenzhen landslide, China, Nanshan district, Shenzhen, South China Morning Post_
+_Context: 2015 Shenzhen landslide, Nanshan district, People's Republic of China, Shenzhen, South China Morning Post_
 
 ### [Japan and South Korea agree to 'irreversibly' resolve a long-running dispute over Korean women the Japanese military used as sex slaves during World War II. Japanese Prime Minister Shinzo Abe will issue a formal apology to the so-called "comfort women." Tokyo will set up an aid fund of about 1 billion yen ($8.3 million). ](/news/2015/12/28/japan-and-south-korea-agree-to-irreversibly-resolve-a-long-running-dispute-over-korean-women-the-japanese-military-used-as-sex-slaves-duri.md)
 The foreign ministers of South Korea and Japan said Monday they had reached a deal meant to resolve a decades-long impasse over Korean women forced into Japanese military-run brothels during World War II.

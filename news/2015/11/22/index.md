@@ -49,7 +49,7 @@ _Context: Kim Young-sam, President, Seoul, South Korea_
 _Context: Cairo, Egypt, Egyptian parliamentary election, 2015_
 
 ### [United States President Barack Obama orders an assessment of whether intelligence reports from U.S. Central Command were changed by supervisory military personnel before formal submission to present a more optimistic picture of the American military campaign against Daesh (Islamic State). The Pentagon's Office of the Inspector General investigators seized emails from military servers over the last few weeks. ](/news/2015/11/22/united-states-president-barack-obama-orders-an-assessment-of-whether-intelligence-reports-from-u-s-central-command-were-changed-by-supervis.md)
-_Context: Barack Obama, CENTCOM, ISIL, Pentagon's Office of the Inspector General, U.S. President, U.S. military personnel_
+_Context: Barack Obama, CENTCOM, ISIL, Pentagon's Office of the Inspector General, President, U.S. military personnel_
 
 ### [Nola, a 41-year-old female northern white rhino, dies at the San Diego Zoo Safari Park. She was euthanized after her health took a turn for the worse. Nola was rescued from violent poaching in the southern savanna woodlands of Sudan and came to the park in 1989. Only three animals of this endangered species are known left in the world. ](/news/2015/11/22/nola-a-41-year-old-female-northern-white-rhino-dies-at-the-san-diego-zoo-safari-park-she-was-euthanized-after-her-health-took-a-turn-for.md)
 The 41-year-old rhino has been under veterinary care for a bacterial infection and age-related health issues. Her condition took a turn for the worse over the weekend and the San Diego Zoo Safari Park team “made the difficult decision to euthanize her.”

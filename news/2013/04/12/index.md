@@ -49,7 +49,7 @@ JUBA, Apr 12 - Sudan&#039;s President Omar al-Bashir will visit South Sudan Frid
 The Obama administration imposed sanctions on about two dozen Russians under a new law that has soured ties with Moscow, but avoided targeting many high-level government figures.
 
 ### [A representative from the Vietnamese Foreign Ministry's National Boundary Commission hands over a diplomatic note to a representative of the Chinese Embassy in Hanoi to protest China's recent plan to bring tourists to the disputed Paracel archipelago. ](/news/2013/04/12/a-representative-from-the-vietnamese-foreign-ministryas-national-boundary-commission-hands-over-a-diplomatic-note-to-a-representative-of-t.md)
-_Context: China, Chinese Embassy, Foreign Ministry, Hanoi, Paracel Islands, Vietnam, archipelago, tourists_
+_Context: Chinese Embassy, Foreign Ministry, Hanoi, Paracel Islands, People's Republic of China, Vietnam, archipelago, tourists_
 
 ### [India's Supreme Court clears the way for the execution of Devinder Pal Singh Bhullar, a Sikh militant, rejecting his appeal for his sentence to be commuted to life imprisonment. ](/news/2013/04/12/india-s-supreme-court-clears-the-way-for-the-execution-of-devinder-pal-singh-bhullar-a-sikh-militant-rejecting-his-appeal-for-his-sentence.md)
 _Context: Devinder Pal Singh Bhullar, India, Khalistan Liberation Force, Sikh, Supreme Court of India, death, life imprisonment_
@@ -70,7 +70,7 @@ Minutes before an unidentified gunman opened fire at a Virginia mall on Friday a
 Hassan Rowhani, who resigned as nuclear negotiator in 2005, joins dozens looking to replace Mahmoud Ahmadinejad in June.
 
 ### [Russian President Vladimir Putin unveils a new $50 billion drive for the country to preserve its status as a top space power, including the construction of the new Vostochny Cosmodrome to fly humans to space by the end of the decade. ](/news/2013/04/12/russian-president-vladimir-putin-unveils-a-new-50-billion-drive-for-the-country-to-preserve-its-status-as-a-top-space-power-including-the.md)
-_Context: Russia, Russian President, US$, Vladimir Putin, Vostochny Cosmodrome, fly humans to space_
+_Context: Russia, Russia President, US$, Vladimir Putin, Vostochny Cosmodrome, fly humans to space_
 
 ### [A 32-foot tall, 60,000 ton stone monument found in the Sea of Galilee in 2003 is determined to be man-made, dating to approximately 2000 B.C. ](/news/2013/04/12/a-32-foot-tall-60-000-ton-stone-monument-found-in-the-sea-of-galilee-in-2003-is-determined-to-be-man-made-dating-to-approximately-2000-b-c.md)
 _Context: B.C., Sea of Galilee, monument, stone_

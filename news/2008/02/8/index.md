@@ -19,7 +19,7 @@ _Context: Egg, Austria, nursing home_
 _Context: Baton Rouge, Louisiana Technical College_
 
 ### [ Scotland Yard detectives investigating the death of former Prime Minister of Pakistan Benazir Bhutto say that she died from the effect of a bomb blast not gunfire. ](/news/2008/02/8/scotland-yard-detectives-investigating-the-death-of-former-prime-minister-of-pakistan-benazir-bhutto-say-that-she-died-from-the-effect-of-a.md)
-_Context: Benazir Bhutto, Prime Minister, Scotland Yard, detective, suicide bomb attack_
+_Context: Benazir Bhutto, Prime Minister, Scotland Yard, detective, suicide bombing_
 
 ### [ A woman attacks two pilots on Eagle Airways Flight 2279 from Blenheim to Christchurch, New Zealand. The aircraft lands safely at Christchurch and the suspect is arrested and charged with hijacking and three counts of assault. ](/news/2008/02/8/a-woman-attacks-two-pilots-on-eagle-airways-flight-2279-from-blenheim-to-christchurch-new-zealand-the-aircraft-lands-safely-at-christchur.md)
 _Context: Blenheim, Christchurch, Eagle Airways Flight 2279, New Zealand_

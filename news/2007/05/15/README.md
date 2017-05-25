@@ -16,7 +16,7 @@ _Context: Dominique de Villepin, France_
 _Context: Fatah, Hamas, clashes_
 
 ### [ The United States Secretary of State Condoleezza Rice meets with the President of Russia Vladimir Putin. ](/news/2007/05/15/the-united-states-secretary-of-state-condoleezza-rice-meets-with-the-president-of-russia-vladimir-putin.md)
-_Context: Condoleezza Rice, Russian President, United States Secretary of State, Vladimir Putin_
+_Context: Condoleezza Rice, Russia President, United States Secretary of State, Vladimir Putin_
 
 ### [ Canadian publisher The Thomson Corporation agrees to buy Reuters for 8.7 billion creating the world's biggest financial news and data group. ](/news/2007/05/15/canadian-publisher-the-thomson-corporation-agrees-to-buy-reuters-for-ps8-7-billion-creating-the-world-s-biggest-financial-news-and-data-grou.md)
 _Context: Canada, Reuters, The Thomson Corporation_

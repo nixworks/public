@@ -1,7 +1,7 @@
 ## [2011-01-7](/news/2011/01/7/index.md)
 
 ### [A suicide bomber kills 17 people and wounds at least 20 others in a public bathhouse in Kandahar province, Afghanistan; the Taliban claims responsibility for the attack. ](/news/2011/01/7/a-suicide-bomber-kills-17-people-and-wounds-at-least-20-others-in-a-public-bathhouse-in-kandahar-province-afghanistan-the-taliban-claims-r.md)
-_Context: Afghanistan, Kandahar Province, Taliban, suicide bomb attack_
+_Context: Afghanistan, Kandahar Province, Taliban, suicide bombing_
 
 ### [Seven people are killed in Jos and at least two people are killed at a rally in Bayelsa State. ](/news/2011/01/7/seven-people-are-killed-in-jos-and-at-least-two-people-are-killed-at-a-rally-in-bayelsa-state.md)
 At least 20 killed in violence that erupts after news spreads of Muslims killed by Christian youths in city of Jos.

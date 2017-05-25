@@ -31,7 +31,7 @@ Deposed president rallies allies at home and abroad to force congress to reverse
 _Context: Israel, Syria, Vladimir Putin, nuclear scientist_
 
 ### [The pre-trial hearing of imprisoned U.S. serviceman Bradley Manning takes place at Fort Meade, Maryland. ](/news/2012/06/25/the-pre-trial-hearing-of-imprisoned-u-s-serviceman-bradley-manning-takes-place-at-fort-meade-maryland.md)
-_Context: Bradley Manning, Fort Meade, MD_
+_Context: Bradley Manning, Fort Meade, Maryland_
 
 ### [The mother of Julian Assange reports that the WikiLeaks editor-in-chief has been "buoyed" by the public's support since he sought refuge in Ecuador's London embassy, refers to U.S. threats to withdraw billions of dollars in aid from Ecuador if it granted asylum, and condemns the Australian government, which has not sought to intervene on behalf of her son, as "nothing more than a puppet" of the United States. ](/news/2012/06/25/the-mother-of-julian-assange-reports-that-the-wikileaks-editor-in-chief-has-been-buoyed-by-the-public-s-support-since-he-sought-refuge-in.md)
 The mother of Wikileaks founder Julian Assange says he is &quot;buoyed&quot; by the support he has received since seeking refuge in the Ecuadorean embassy.

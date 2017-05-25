@@ -24,7 +24,7 @@ _Context: Big Sur, California State Route 1, Gorda_
 ### [After the Supreme Court rules in favor, same-sex-marriage is on its way to being legalized in Taiwan, the first country in Asia to do so. ](/news/2017/05/24/after-the-supreme-court-rules-in-favor-same-sex-marriage-is-on-its-way-to-being-legalized-in-taiwan-the-first-country-in-asia-to-do-so.md)
 A top Taiwan court ruled in favor of gay marriage Wednesday, a landmark ruling that paves the way for the island to become the first place in Asia to legalize same sex unions. Current top breaking Philippine headlines regarding the nation, world, metro manila, regions and exclusive special investigative reports.
 
-### [During a phone call between U.S. president Donald Trump and Philippine president Rodrigo Duterte, Trump allegedly congratulates Duterte on his drug war. ](/news/2017/05/24/during-a-phone-call-between-u-s-president-donald-trump-and-philippine-president-rodrigo-duterte-trump-allegedly-congratulates-duterte-on-h.md)
+### [During a phone call between U.S. president Donald Trump and Philippine president Rodrigo Duterte, Trump allegedly congratulates Duterte on his drug war, which has been widely criticized for its brutality by human rights organizations. ](/news/2017/05/24/during-a-phone-call-between-u-s-president-donald-trump-and-philippine-president-rodrigo-duterte-trump-allegedly-congratulates-duterte-on-h.md)
 U.S. President Donald Trump told his Philippine counterpart that Washington has sent two nuclear submarines to waters off the Korean peninsula, the New York Times said, comments likely to raise questions about his handling of sensitive information.
 
 ### [Fox News retracts their claims regarding the murder. ](/news/2017/05/24/fox-news-retracts-their-claims-regarding-the-murder.md)

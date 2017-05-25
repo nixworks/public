@@ -19,7 +19,7 @@ _Context: Democratic Republic of Congo, United Nations, peacekeepers, sexual abu
 _Context: Abdullahi Yusuf, African Union, Exile, Mogadishu, President of Somalia, Somalia, Somalian government_
 
 ### [ In Brazil, President Luiz Incio Lula da Silva meets Venezuelan president Hugo Chvez in Caracas. They start talks about an alliance, joint energy projects and the sale of Brazilian fighter aircraft.  ](/news/2005/02/14/in-brazil-president-luiz-inacio-lula-da-silva-meets-venezuelan-president-hugo-chavez-in-caracas-they-start-talks-about-an-alliance-joint.md)
-_Context: Caracas, Hugo Chvez, Luiz Incio Lula da Silva, President, President_
+_Context: Caracas, Hugo Chvez, Luiz Incio Lula da Silva, President, President of Brazil_
 
 ### [ In French Polynesia, people vote for a new local assembly for the two main islands. The poll is contested between the pro-independence party of Oscar Temaru and the party of pro-Paris conservative leader Gaston Flosse. The results of the last year's general election were cancelled and a new poll ordered to settle the dispute.  ](/news/2005/02/14/in-french-polynesia-people-vote-for-a-new-local-assembly-for-the-two-main-islands-the-poll-is-contested-between-the-pro-independence-part.md)
 _Context: French Polynesia, Gaston Flosse, Oscar Temaru, Paris, independent_

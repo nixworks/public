@@ -25,7 +25,7 @@ _Context: Egypt, heat wave_
 Seven people are arrested in eastern Pakistan on suspicion of involvement in a widespread child sexual abuse and extortion scandal.
 
 ### [Former U.S. President Jimmy Carter, aged 90, announces that recent liver surgery revealed that he is suffering from an as-yet unspecified form of cancer which has spread to other parts of his body. ](/news/2015/08/12/former-u-s-president-jimmy-carter-aged-90-announces-that-recent-liver-surgery-revealed-that-he-is-suffering-from-an-as-yet-unspecified-fo.md)
-_Context: Jimmy Carter, U.S. President, cancer, liver, spread, surgery_
+_Context: Jimmy Carter, President, cancer, liver, spread, surgery_
 
 ### [North Korea's vice premier Choe Yong-gon is believed to have been executed by firing squad this year for voicing frustration at the policies of leader Kim Jong-Un. ](/news/2015/08/12/north-korea-s-vice-premier-choe-yong-gon-is-believed-to-have-been-executed-by-firing-squad-this-year-for-voicing-frustration-at-the-policies.md)
 _Context: Choe Yong-gon, Kim Jong-un, North Korea_

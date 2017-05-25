@@ -10,7 +10,7 @@ _Context: Al Jazeera, Israel, fire_
 _Context: California, IOU, state government_
 
 ### [ Afghanistan's National Directorate of Security eliminates a Pakistani terrorist cell responsible for at least six suicide bombings in Kabul. ](/news/2009/02/3/afghanistan-s-national-directorate-of-security-eliminates-a-pakistani-terrorist-cell-responsible-for-at-least-six-suicide-bombings-in-kabul.md)
-_Context: Afghanistan, Kabul, National Directorate of Security, Pakistan, suicide bomb attack, supply lines, terrorism_
+_Context: Afghanistan, Kabul, National Directorate of Security, Pakistan, suicide bombing, supply lines, terrorism_
 
 ### [ Sri Lankan Civil War: The Armed Forces claim to have captured an underground bunker used by the Tamil Tigers. ](/news/2009/02/3/sri-lankan-civil-war-p-the-armed-forces-claim-to-have-captured-an-underground-bunker-used-by-the-tamil-tigers.md)
 _Context: LTTE, Sri Lanka, Sri Lankan Civil War, armed forces, bunker_

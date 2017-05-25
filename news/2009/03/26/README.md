@@ -1,7 +1,7 @@
 ## [2009-03-26](/news/2009/03/26/index.md)
 
 ### [ United States President Barack Obama announces a new military strategy for the War in North-West Pakistan and the War in Afghanistan. ](/news/2009/03/26/united-states-president-barack-obama-announces-a-new-military-strategy-for-the-war-in-north-west-pakistan-and-the-war-in-afghanistan.md)
-_Context: Afghanistan, Barack Obama, Khyber Pakhtunkhwa, Pakistan, U.S. President, United States, War in Afghanistan (2001-present), War in North-West Pakistan, military strategy_
+_Context: Afghanistan, Barack Obama, Khyber Pakhtunkhwa, Pakistan, President, United States, War in Afghanistan (2001-present), War in North-West Pakistan, military strategy_
 
 ### [ Franco-Russian mathematician Mikhail Gromov receives the 2009 Abel Prize.  ](/news/2009/03/26/franco-russian-mathematician-mikhail-gromov-receives-the-2009-abel-prize.md)
 _Context: Abel Prize, France, Mathematicians, Mikhail Gromov, Russia_
@@ -25,7 +25,7 @@ _Context: Baghdad, Iraq, car bomb_
 Get the latest news, images, videos and more from humanity&#039;s home in orbit -- the International Space Station.
 
 ### [ A Taliban suicide attack kills at least 11 people and injures 20 others in Jandola, Pakistan. ](/news/2009/03/26/a-taliban-suicide-attack-kills-at-least-11-people-and-injures-20-others-in-jandola-pakistan.md)
-_Context: Jandola, Pakistan, Taliban, suicide bomb attack_
+_Context: Jandola, Pakistan, Taliban, suicide bombing_
 
 ### [ Two tornadoes injure 24 people and damage 108 homes in Mississippi, United States. ](/news/2009/03/26/two-tornadoes-injure-24-people-and-damage-108-homes-in-mississippi-united-states.md)
 _Context: Mississippi, United States, tornado_

@@ -4,7 +4,7 @@
 _Context: 2007 IIHF World Hockey Championship, Finland, Moscow, Russia, Team Canada, gold medal_
 
 ### [ Two cargo ships collide in heavy fog near Dalian, China. 16 sailors are missing. ](/news/2007/05/13/two-cargo-ships-collide-in-heavy-fog-near-dalian-china-16-sailors-are-missing.md)
-_Context: China, Dalian, cargo ship_
+_Context: Dalian, People's Republic of China, cargo ship_
 
 ### [ At least one million people gather in Izmir, Turkey for the fifth mass rally to demand their country remain a secular state, stepping up pressure on the Islamist-rooted Justice and Development Party (AKP) government before July elections. ](/news/2007/05/13/at-least-one-million-people-gather-in-adegzmir-turkey-for-the-fifth-mass-rally-to-demand-their-country-remain-a-secular-state-stepping-up-p.md)
 _Context: Islamist, Izmir, July elections, Turkey, fifth mass rally, ruling party, secular state_

@@ -19,7 +19,7 @@ _Context: Caribbean, ExxonMobil Corporation, Guyana, Venezuela_
 Eccentric real-estate heir Robert Durst faced an extradition hearing on a murder charge Monday, hours after an HBO documentary was aired in which he mumbled &quot;What did I do? Kill them all, of course.&quot;
 
 ### [The cancellation of several of Russian President Vladimir Putin's scheduled meetings leads to widespread social media speculations regarding the reason for his public absence. ](/news/2015/03/14/the-cancellation-of-several-of-russian-president-vladimir-putin-s-scheduled-meetings-leads-to-widespread-social-media-speculations-regarding.md)
-_Context: Russian President, Vladimir Putin_
+_Context: Russia President, Vladimir Putin_
 
 ## [Previous Day...](/news/2015/03/13/index.md)
 

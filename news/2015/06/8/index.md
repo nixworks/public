@@ -10,7 +10,7 @@ The past few years have seen a shift from owning music to accessing as much as y
 SINGAPORE - June 8 has been declared a Day of National Remembrance for the victims of the Sabah earthquake. State flags on all government buildings will be flown at half-mast. One minute of silence will be observed at the beginning of the day at all SEA Games venues.. Read more at straitstimes.com.
 
 ### [The death toll from last week's sinking on China's Yangtze River rises to 434 with eight people missing and 14 survivors. ](/news/2015/06/8/the-death-toll-from-last-week-s-sinking-on-china-s-yangtze-river-rises-to-434-with-eight-people-missing-and-14-survivors.md)
-_Context: China, Sinking of ''Dong Fang Zhi Xing'', Yangtze River_
+_Context: People's Republic of China, Sinking of ''Dong Fang Zhi Xing'', Yangtze River_
 
 ### [The number of deaths from MERS in South Korea rises to six with 23 new cases reported. ](/news/2015/06/8/the-number-of-deaths-from-mers-in-south-korea-rises-to-six-with-23-new-cases-reported.md)
 SEOUL (AFP/REUTERS) - South Korea recorded its sixth death and biggest single-day jump in Middle East respiratory syndrome (Mers) infections on Monday, with 23 new cases in the largest outbreak of the potentially deadly virus outside Saudi Arabia.. Read more at straitstimes.com.

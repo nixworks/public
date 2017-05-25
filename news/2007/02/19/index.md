@@ -22,7 +22,7 @@ _Context: United Kingdom, letterbomb_
 _Context: East Timor, Indonesia, referendum, truth commission_
 
 ### [ Iraq War: Two suicide car bombs kill at least eleven people in Ramadi. ](/news/2007/02/19/iraq-war-p-two-suicide-car-bombs-kill-at-least-eleven-people-in-ramadi.md)
-_Context: Iraq War, Ramadi, car bomb, suicide bomb attack_
+_Context: Iraq War, Ramadi, car bomb, suicide bombing_
 
 ### [ Samjhauta Express bombings: At least 66 people die in bomb blasts on the Samjhauta Express travelling from India to Pakistan. The blasts occurred near Deewana, 80 kilometres north of New Delhi. ](/news/2007/02/19/samjhauta-express-bombings-at-least-66-people-die-in-bomb-blasts-on-the-samjhauta-express-travelling-from-india-to-pakistan-the-blasts-oc.md)
 _Context: India, New Delhi, Pakistan, Samjhauta Express, Samjhauta Express bombings_

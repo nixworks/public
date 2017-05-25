@@ -28,7 +28,7 @@ Turkey and Greece have agreed to ask for a NATO mission to monitor refugee flows
 _Context: President, Recep Tayyip Erdogan, Rojava conflict, Syrian Kurdish groups, United States, terrorism_
 
 ### [A shootout in Abingdon, Maryland results in the deaths of two Harford County Sheriff's Office deputies and the suspected gunman. ](/news/2016/02/10/a-shootout-in-abingdon-maryland-results-in-the-deaths-of-two-harford-county-sheriff-s-office-deputies-and-the-suspected-gunman.md)
-_Context: Abingdon, Harford County Sheriff's Office, MD_
+_Context: Abingdon, Harford County Sheriff's Office, Maryland_
 
 ### [North Korea reportedly executes Ri Yong-gil, Chief of the General Staff of the Korean People's Army on charges of corruption, according to South Korean media. ](/news/2016/02/10/north-korea-reportedly-executes-ri-yong-gil-chief-of-the-general-staff-of-the-korean-people-s-army-on-charges-of-corruption-according-to-s.md)
 North Korea has executed its army chief of staff Ri Yong-gil, according to unconfirmed South Korean media reports.

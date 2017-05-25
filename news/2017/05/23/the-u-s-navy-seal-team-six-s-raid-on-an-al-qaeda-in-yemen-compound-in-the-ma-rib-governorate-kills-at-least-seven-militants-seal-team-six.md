@@ -1,6 +1,6 @@
 ### [2017-05-23](/news/2017/05/23/index.md)
 
-#  The U.S. Navy SEAL Team Six's raid on an Al Qaeda in Yemen compound in the Ma'rib Governorate kills at least seven militants. Seal Team Six also suffered unspecified injuries that were treated at the site. 
+#  The U.S. Navy SEAL Team Six's raid on an Al Qaeda in Yemen compound in the Ma'rib Governorate kills at least seven militants. SEAL Team Six also suffered unspecified injuries that were treated at the site. 
 
 At least seven militants were killed during a raid by U.S. Special Forces troops against an al Qaeda compound in Yemen on Tuesday morning, the Pentagon said, the deepest the United States has penetrated Yemen to target the group.
 

@@ -10,7 +10,7 @@ _Context: Fatah, Hamas, clashes_
  Many heavy smokers quit immediately and permanently when a small structure deep in the brain is damaged, a finding that provides a new lead in the search for smoking-cessation treatments, a study says. 
 
 ### [ UK retail giant Tesco opens its first own-brand supermarket branch in China, in the capital, Beijing. ](/news/2007/01/26/uk-retail-giant-tesco-opens-its-first-own-brand-supermarket-branch-in-china-in-the-capital-beijing.md)
-_Context: Beijing, China, Tesco, UK, retail, supermarket chain_
+_Context: Beijing, People's Republic of China, Tesco, UK, retail, supermarket chain_
 
 ### [ An argument has erupted between Adam Air and the Indonesian government over who bears the cost of recovering the black box of the crashed plane Adam Air Flight 574. ](/news/2007/01/26/an-argument-has-erupted-between-adam-air-and-the-indonesian-government-over-who-bears-the-cost-of-recovering-the-black-box-of-the-crashed-p.md)
 _Context: Adam Air, Flight 574, Indonesian government_

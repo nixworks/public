@@ -13,7 +13,7 @@ _Context: Adre, Sudan, War in Chad (2005-present)_
 _Context: Rwanda, earthquake_
 
 ### [ Sri Lankan Civil War: At least eight people die and up to 100 are hurt in a suicide attack in the main railway station in Colombo. ](/news/2008/02/3/sri-lankan-civil-war-at-least-eight-people-die-and-up-to-100-are-hurt-in-a-suicide-attack-in-the-main-railway-station-in-colombo.md)
-_Context: Colombo, Sri Lankan Civil War, suicide bomb attack_
+_Context: Colombo, Sri Lankan Civil War, suicide bombing_
 
 ### [ Raila Odinga, the leader of the Orange Democratic Movement calls for the African Union to quell the violence that has followed the Kenyan presidential election, 2007. ](/news/2008/02/3/raila-odinga-the-leader-of-the-orange-democratic-movement-calls-for-the-african-union-to-quell-the-violence-that-has-followed-the-kenyan-p.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

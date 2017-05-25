@@ -4,7 +4,7 @@
 _Context: Congress of France, Constitution of France, European Union, France, National Assembly, Senate, Treaty of Lisbon_
 
 ### [ United States district court judge Florence-Marie Cooper rules that President George W. Bush cannot exempt the United States Navy from complying with environmental laws banning sonar training. ](/news/2008/02/4/united-states-district-court-judge-florence-marie-cooper-rules-that-president-george-w-bush-cannot-exempt-the-united-states-navy-from-comp.md)
-_Context: George W. Bush, U.S. Navy, U.S. President, U.S. federal court, judge, sonar_
+_Context: George W. Bush, President, U.S. Navy, U.S. federal court, judge, sonar_
 
 ### [ Thomas S. Monson is chosen as the 16th president of The Church of Jesus Christ of Latter-day Saints. ](/news/2008/02/4/thomas-s-monson-is-chosen-as-the-16th-president-of-the-church-of-jesus-christ-of-latter-day-saints.md)
 _Context: The Church of Jesus Christ of Latter-day Saints, Thomas S. Monson_
@@ -13,7 +13,7 @@ _Context: The Church of Jesus Christ of Latter-day Saints, Thomas S. Monson_
 _Context: Iran, Kavoshgar-1, space program_
 
 ### [ A suicide bomber kills a woman and injures at least 10 people in Dimona, Israel. ](/news/2008/02/4/a-suicide-bomber-kills-a-woman-and-injures-at-least-10-people-in-dimona-israel.md)
-_Context: Dimona, Israel, kills a woman and injures at least 10 people, suicide bomb attack_
+_Context: Dimona, Israel, kills a woman and injures at least 10 people, suicide bombing_
 
 ### [ Chadian rebels claim to have withdrawn voluntarily from N'Djamena. ](/news/2008/02/4/chadian-rebels-claim-to-have-withdrawn-voluntarily-from-n-djamena.md)
 _Context: Chad, N'Djamena_

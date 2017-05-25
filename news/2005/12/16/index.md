@@ -7,7 +7,7 @@ _Context: Bulgaria, Iraq, U.S.-led troops_
 _Context: Chechnya_
 
 ### [ United States Government: Senator John McCain persuades President George W. Bush to accept a ban on cruel, inhuman and degrading treatment of detainees. ](/news/2005/12/16/united-states-government-p-senator-john-mccain-persuades-president-george-w-bush-to-accept-a-ban-on-cruel-inhuman-and-degrading-treatment.md)
-_Context: American, George W. Bush, John McCain, U.S. President, United States Senate_
+_Context: American, George W. Bush, John McCain, President, United States Senate_
 
 ### [ Conflict in Iraq: Iraqi Police claim that they captured Abu Musab al-Zarqawi in 2004 and then released him by mistake. ](/news/2005/12/16/conflict-in-iraq-iraqi-police-claim-that-they-captured-abu-musab-al-zarqawi-in-2004-and-then-released-him-by-mistake.md)
 _Context: 2004, Abu Musab al-Zarqawi, Conflict in Iraq, Iraqi Police_
@@ -16,7 +16,7 @@ _Context: 2004, Abu Musab al-Zarqawi, Conflict in Iraq, Iraqi Police_
 _Context: Hamas, Palestinian, West Bank_
 
 ### [ At least 39 people, 33 of whom were patients, die after a fire breaks out in a hospital in the city of Liaoyuan, near Changchun in China's Jilin Province. The cause of the fire is unknown. ](/news/2005/12/16/at-least-39-people-33-of-whom-were-patients-die-after-a-fire-breaks-out-in-a-hospital-in-the-city-of-liaoyuan-near-changchun-in-china-s.md)
-_Context: Changchun, China, Jilin province, Liaoyuan_
+_Context: Changchun, Jilin province, Liaoyuan, People's Republic of China_
 
 ### [ Israeli-Palestinian conflict: An Israeli settler dies following a drive-by shooting claimed by the al-Aqsa Martyrs' Brigades and Islamic Jihad. ](/news/2005/12/16/israeli-palestinian-conflict-an-israeli-settler-dies-following-a-drive-by-shooting-claimed-by-the-al-aqsa-martyrs-brigades-and-islamic-ji.md)
 West Bank shooting: One man dead, two women suffer from shock after gunmen traveling in vehicle open fire at Israeli car south of Hebron Friday; Fatah, Islamic Jihad claim responsibility

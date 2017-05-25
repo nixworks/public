@@ -7,7 +7,7 @@ _Context: Democratic Republic of Congo, Jean-Pierre Bemba, Kinshasa, Senator_
 _Context: Bosnia and Herzegovina, British military personnel, European Union Force, United Kingdom_
 
 ### [ War in Iraq: At least 47 people die in insurgent strikes including 20 as a result of a suicide truck bomb in a Baghdad police station. ](/news/2007/03/24/war-in-iraq-at-least-47-people-die-in-insurgent-strikes-including-20-as-a-result-of-a-suicide-truck-bomb-in-a-baghdad-police-station.md)
-_Context: Baghdad, Iraq Insurgency, War in Iraq, car bomb, police station, suicide bomb attack_
+_Context: Baghdad, Iraq Insurgency, War in Iraq, car bomb, police station, suicide bombing_
 
 ### [ The United Nations Security Council unanimously adopts Resolution 1747, imposing additional economic sanctions on the Islamic Republic of Iran for its ongoing nuclear programme. ](/news/2007/03/24/the-united-nations-security-council-unanimously-adopts-resolution-1747-imposing-additional-economic-sanctions-on-the-islamic-republic-of-i.md)
 _Context: Islamic Republic of Iran, Resolution 1747, United Nations Security Council, economic sanction, produce nuclear fuel on an industrial scale_

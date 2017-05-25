@@ -10,7 +10,7 @@ _Context: Government of Uganda, Lord's Resistance Army, Sudan_
 _Context: Andijan massacre, European Union, Government of Uzbekistan, Human Rights Watch, May 2005, sanctions_
 
 ### [ United States President George W. Bush approves a Pentagon plan for establishing a new command center in Africa. ](/news/2007/02/6/united-states-president-george-w-bush-approves-a-pentagon-plan-for-establishing-a-new-command-center-in-africa.md)
-_Context: AFRICOM, Africa, George W. Bush, The Pentagon, U.S. President_
+_Context: AFRICOM, Africa, George W. Bush, President, The Pentagon_
 
 ### [ An international passenger train crashes into a freight train in Komrom, Hungary, causing the engineer's death. Two of the 25 passengers also suffered injury. ](/news/2007/02/6/an-international-passenger-train-crashes-into-a-freight-train-in-komarom-hungary-causing-the-engineer-s-death-two-of-the-25-passengers-a.md)
 _Context: Hungary, Komrom, freight train, train_

@@ -37,7 +37,7 @@ _Context: Marine Corps Base Camp Pendleton, Southern California, United States M
 The United States formally designated Nigerian militant groups Boko Haram and Ansaru as &quot;Foreign Terrorist Organizations and Specially Designated Global Terrorists&quot; on Wednesday, the White House said in a statement.
 
 ### [China, Russia, Cuba, Saudi Arabia, Vietnam, and Algeria are elected to the United Nations Human Rights Council. ](/news/2013/11/13/china-russia-cuba-saudi-arabia-vietnam-and-algeria-are-elected-to-the-united-nations-human-rights-council.md)
-_Context: Algeria, China, Cuba, Human Rights Council, Russia, Saudi Arabia, United Nations, Vietnam_
+_Context: Algeria, Cuba, Human Rights Council, People's Republic of China, Russia, Saudi Arabia, United Nations, Vietnam_
 
 ### [Kevin Rudd announces his retirement from Australian politics. ](/news/2013/11/13/kevin-rudd-announces-his-retirement-from-australian-politics.md)
 _Context: Australia, Kevin Rudd, politics_

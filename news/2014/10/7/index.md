@@ -7,7 +7,7 @@ _Context: Korean maritime border incidents, North Korea, South Korea_
 _Context: ISIL, Iraq, Tal Afar_
 
 ### [A magnitude 6.0 earthquake hits China's Yunnan province with at least one death reported. ](/news/2014/10/7/a-magnitude-6-0-earthquake-hits-china-s-yunnan-province-with-at-least-one-death-reported.md)
-_Context: China, Yunnan Province, earthquake_
+_Context: People's Republic of China, Yunnan Province, earthquake_
 
 ### [Supertyphoon Vongfong becomes the most intense storm of the year as it heads for Japan. ](/news/2014/10/7/supertyphoon-vongfong-becomes-the-most-intense-storm-of-the-year-as-it-heads-for-japan.md)
 Typhoon Vongfong in the Western Pacific rapidly strengthened overnight into the most powerful super typhoon of 2014.

@@ -1,7 +1,7 @@
 ## [2010-05-10](/news/2010/05/10/index.md)
 
 ### [Iraqi insurgents kill 102 and injure over 200 people, mostly Iraqi civilians, in a series of suicide bombings from Mosul to Basra in Iraq, the highest number in one day this year, and jeopardizing a planned US withdrawal. ](/news/2010/05/10/iraqi-insurgents-kill-102-and-injure-over-200-people-mostly-iraqi-civilians-in-a-series-of-suicide-bombings-from-mosul-to-basra-in-iraq-t.md)
-_Context: Basra, Iraq, Iraqi insurgency, Mosul, suicide bomb attack_
+_Context: Basra, Iraq, Iraqi insurgency, Mosul, suicide bombing_
 
 ### [Prime Minister of the United Kingdom Gordon Brown announces his intention to resign as Leader of the Labour Party, and calls for a leadership election to be completed by September. ](/news/2010/05/10/prime-minister-of-the-united-kingdom-gordon-brown-announces-his-intention-to-resign-as-leader-of-the-labour-party-and-calls-for-a-leadershi.md)
 _Context: Gordon Brown, Leader of the Labour Party, Prime Minster, being elected_
@@ -10,7 +10,7 @@ _Context: Gordon Brown, Leader of the Labour Party, Prime Minster, being elected
 _Context: European Union, International Monetary Fund, economically troubled euro-zone nations, stock market_
 
 ### [President Obama nominates Solicitor General  Elena Kagan as the youngest Justice and third woman for the Supreme Court of the United States. ](/news/2010/05/10/president-obama-nominates-solicitor-general-elena-kagan-as-the-youngest-justice-and-third-woman-for-the-supreme-court-of-the-united-states.md)
-_Context: Barack Obama, Elena Kagan, Justice, U.S. President, United States Supreme Court, United States solicitor general_
+_Context: Barack Obama, Elena Kagan, Justice, President, United States Supreme Court, United States solicitor general_
 
 ### [German Chancellor Angela Merkel's government loses its majority in the upper house of parliament in a state election marked by voter anger over the bailout to avoid the Greek debt crisis. ](/news/2010/05/10/german-chancellor-angela-merkelas-government-loses-its-majority-in-the-upper-house-of-parliament-in-a-state-election-marked-by-voter-anger.md)
 _Context: Angela Merkel's, German Chancellor, economically troubled euro-zone nations, upper house of parliament_

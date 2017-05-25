@@ -25,7 +25,7 @@ _Context: International Air Transport Association_
 _Context: Vodafone Group Plc, crore, rupee_
 
 ### [At least 119 people are killed in a fire at a poultry farm in Jilin Province in northeastern China. ](/news/2013/06/3/at-least-119-people-are-killed-in-a-fire-at-a-poultry-farm-in-jilin-province-in-northeastern-china.md)
-_Context: China, Jilin Baoyuanfeng Poultry Plant fire, Jilin province_
+_Context: Jilin Baoyuanfeng Poultry Plant fire, Jilin province, People's Republic of China_
 
 ### [2013 European floods:Flooding across Europe kills seven people and leaves others unaccounted for. ](/news/2013/06/3/2013-european-floods-pflooding-across-europe-kills-seven-people-and-leaves-others-unaccounted-for.md)
 State of emergency declared in several regions as heavy flooding kills eight and leaves nine more missing across Europe.

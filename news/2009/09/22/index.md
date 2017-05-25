@@ -10,7 +10,7 @@ _Context: AWACS, Ilyushin Il-76, Iran, mid-air collision_
 _Context: Moscow, Russia, racial bias_
 
 ### [ U.S. President Barack Obama calls for the resumption of the Middle East peace process in meetings with the Prime Minister of Israel Benjamin Netanyahu and the President of the Palestinian Authority Mahmoud Abbas. ](/news/2009/09/22/u-s-president-barack-obama-calls-for-the-resumption-of-the-middle-east-peace-process-in-meetings-with-the-prime-minister-of-israel-benjami.md)
-_Context: Barack Obama, Benjamin Netanyahu, Mahmoud Abbas, Middle East, Palestinian Authority President, Prime Minister of Israel, U.S. President_
+_Context: Barack Obama, Benjamin Netanyahu, Mahmoud Abbas, Middle East, Palestinian Authority President, President, Prime Minister of Israel_
 
 ### [ Honduran soldiers break up protests outside the Brazilian embassy in Tegucigalpa in support of deposed President Manuel Zelaya, who is staying inside. ](/news/2009/09/22/honduran-soldiers-break-up-protests-outside-the-brazilian-embassy-in-tegucigalpa-in-support-of-deposed-president-manuel-zelaya-who-is-stay.md)
 Honduras de facto leader Roberto Micheleti demanded that Brazil hand over deposed constitutional president Manuel Zelaya who is currently in the Brazilian embassy in Tegucigalpa following a dramatic secret return to the country.
@@ -61,7 +61,7 @@ _Context: Bayo Ohu, Lagos, Nigeria, The Guardian_
 _Context: South Africa, murder, robbery, sexual offences_
 
 ### [ Chinese President Hu Jintao tells a U.N. summit on climate change that China will reduce greenhouse gas emissions and increase reliance on clean energy sources in coming years. ](/news/2009/09/22/chinese-president-hu-jintao-tells-a-u-n-summit-on-climate-change-that-china-will-reduce-greenhouse-gas-emissions-and-increase-reliance-on.md)
-_Context: China, President Hu Jintao, U.N., climate change, greenhouse gas emissions_
+_Context: People's Republic of China, President Hu Jintao, U.N., climate change, greenhouse gas emissions_
 
 ### [ The 2009 Pacific Mini Games opens in Rarotonga, Cook Islands. ](/news/2009/09/22/the-2009-pacific-mini-games-opens-in-rarotonga-cook-islands.md)
 _Context: 2009 Pacific Mini Games, Cook Islands, Rarotonga_

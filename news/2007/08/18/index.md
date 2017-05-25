@@ -4,7 +4,7 @@
 _Context: Crandall Canyon mine, Huntington, Utah, mine_
 
 ### [ The death toll of a bridge collapse in Fenghuang, China rises to 64. ](/news/2007/08/18/the-death-toll-of-a-bridge-collapse-in-fenghuang-china-rises-to-64.md)
-_Context: China, Fenghuang, bridge_
+_Context: Fenghuang, People's Republic of China, bridge_
 
 ### [ A fire in the former Deutsche Bank Building near New York's Ground Zero kills two firefighters. ](/news/2007/08/18/a-fire-in-the-former-deutsche-bank-building-near-new-york-s-ground-zero-kills-two-firefighters.md)
 _Context: Deutsche Bank Building, Ground Zero, New York City, firefighter_

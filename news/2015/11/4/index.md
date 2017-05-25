@@ -22,13 +22,13 @@ An Antonov-12 Soviet-made cargo plane has crash-landed near South Sudan’s airp
 At&#x20;least&#x20;18&#x20;people&#x20;were&#x20;killed&#x20;and&#x20;up&#x20;to&#x20;150&#x20;trapped&#x20;on&#x20;Wednesday&#x20;when&#x20;a&#x20;factory&#x20;collapsed&#x20;near&#x20;the&#x20;eastern&#x20;Pakistani&#x20;city&#x20;of&#x20;Lahore,&#x20;officials&#x20;said,&#x20;adding&#x20;to&#x20;a&#x20;number&#x20;of&#x20;industrial&#x20;disasters&#x20;to&#x20;hit&#x20;the&#x20;South&#x20;Asian&#x20;nation.
 
 ### [The presidents of China and Taiwan are scheduled to meet in Singapore on November 7th, the first such meeting since the Chinese Communist Revolution. ](/news/2015/11/4/the-presidents-of-china-and-taiwan-are-scheduled-to-meet-in-singapore-on-november-7th-the-first-such-meeting-since-the-chinese-communist-re.md)
-_Context: 2015 Ma-Xi Meeting, China, Chinese Communist Revolution, Cross-Strait relations, Singapore, Taiwan_
+_Context: 2015 Ma-Xi Meeting, Chinese Communist Revolution, Cross-Strait relations, People's Republic of China, Singapore, Taiwan_
 
 ### [An Association of Southeast Asian Nations (ASEAN) meeting in Malaysia fails to agree on a joint communique following disagreement between China and other nations over the South China Sea. ](/news/2015/11/4/an-association-of-southeast-asian-nations-asean-meeting-in-malaysia-fails-to-agree-on-a-joint-communique-following-disagreement-between-ch.md)
 _Context: Association of Southeast Asian Nations, Malaysia, South China Sea_
 
 ### [South Korea and China agree to establish an emergency navy and military hotline. ](/news/2015/11/4/south-korea-and-china-agree-to-establish-an-emergency-navy-and-military-hotline.md)
-_Context: China, South Korea, hotline_
+_Context: People's Republic of China, South Korea, hotline_
 
 ### [Territorial disputes in the South China Sea, U.S. Secretary of Defense Ashton Carter and his counterpart from Malaysia, Hishammuddin Hussein, will visit the USS Theodore Roosevelt (CVN-71) as it cruises in the South China Sea, this in the wake of China's dismay over a U.S. Navy ship's sailing in the vicinity of artificial islands constructed by China in the Spratly Islands. ](/news/2015/11/4/territorial-disputes-in-the-south-china-sea-u-s-secretary-of-defense-ashton-carter-and-his-counterpart-from-malaysia-hishammuddin-hussein.md)
 Defense Secretary Ash Carter and Malaysian Defense Minister Hishammuddin Hussein will visit the aircraft carrier USS Theodore Roosevelt on Thursday as it passes through the South China Sea and conducts routine operations.

@@ -11,7 +11,7 @@ Brasília (AFP) - Brazil announced a massive $17 billion austerity package Monda
 
 ### Related:
 
-1. [Moody's Investors Service downgrades the credit rating of the People's Republic of China from AA to Aa3. ](/news/2017/05/24/moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa-to-aa3.md) _Context: credit rating_
+1. [Moody's Investors Service downgrades the credit rating of the People's Republic of China from AA3 to A1. ](/news/2017/05/24/moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa3-to-a1.md) _Context: credit rating_
 2. [The Brazilian Supreme Federal Court releases a plea bargain testimony from JBS S.A., revealing that the company paid 500 million reais in bribes to politicians, including current President Michel Temer and his predecessors Dilma and Lula. ](/news/2017/05/19/the-brazilian-supreme-federal-court-releases-a-plea-bargain-testimony-from-jbs-s-a-revealing-that-the-company-paid-500-million-reais-in-br.md) _Context: Brazil_
 3. [A general strike is held in Brazil, the first one in twenty years. ](/news/2017/04/28/a-general-strike-is-held-in-brazil-the-first-one-in-twenty-years.md) _Context: Brazil_
 4. [In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based Primeiro Comando da Capital criminal gang, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. ](/news/2017/04/24/in-paraguay-around-50-armed-men-allegedly-belonging-to-the-brazil-based-primeiro-comando-da-capital-criminal-gang-storm-a-security-vault.md) _Context: Brazil_

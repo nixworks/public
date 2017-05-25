@@ -13,7 +13,7 @@ Prosecutors investigating the 2014 downing of flight MH17 over eastern Ukraine s
 Pepe the Frog, a cartoon character turned Internet meme, has been added to the Anti-Defamation League’s database of hate symbols.
 
 ### [Typhoon Megi makes landfall in eastern China a day after killing four people and injuring 260 on Taiwan. ](/news/2016/09/28/typhoon-megi-makes-landfall-in-eastern-china-a-day-after-killing-four-people-and-injuring-260-on-taiwan.md)
-_Context: 2016 Pacific typhoon season, China, Taiwan, Typhoon Megi_
+_Context: 2016 Pacific typhoon season, People's Republic of China, Taiwan, Typhoon Megi_
 
 ### [Indonesia authorities evacuate over 1,000 tourists from the island of Lombok after Mount Barujari erupts. ](/news/2016/09/28/indonesia-authorities-evacuate-over-1-000-tourists-from-the-island-of-lombok-after-mount-barujari-erupts.md)
 _Context: Indonesia, Lombok, Mount Barujari_
@@ -22,7 +22,7 @@ _Context: Indonesia, Lombok, Mount Barujari_
 South Australians are preparing for one of the most extreme weather systems to hit the state in recent decades.
 
 ### [The United States Senate and House of Representatives override the veto of President Barack Obama in regards to the Justice Against Sponsors of Terrorism Act. The act narrows the scope of the legal doctrine of foreign sovereign immunity, specifically, in this instance against the sovereign nation of Saudi Arabia. The action is the first such congressional veto override to Obama. ](/news/2016/09/28/the-united-states-senate-and-house-of-representatives-override-the-veto-of-president-barack-obama-in-regards-to-the-justice-against-sponsors.md)
-_Context: Barack Obama, Justice Against Sponsors of Terrorism Act, Saudi Arabia, U.S. President, United States House of Representatives, United States Senate, sovereign immunity_
+_Context: Barack Obama, Justice Against Sponsors of Terrorism Act, President, Saudi Arabia, United States House of Representatives, United States Senate, sovereign immunity_
 
 ### [Members of the 19th South Asian Association for Regional Cooperation (SAARC) summit, scheduled to be held in Pakistan during November 2016, postpone the meeting following a Indian-led boycott, including Afghanistan, Bangladesh and Bhutan in response to Pakistan's alleged involvement in a deadly terrorist attack on a Indian Army base in Uri, Jammu and Kashmir, on September 18. ](/news/2016/09/28/members-of-the-19th-south-asian-association-for-regional-cooperation-saarc-summit-scheduled-to-be-held-in-pakistan-during-november-2016.md)
 India&rsquo;s efforts to isolate Pakistan on the issue of terrorism got a boost on Wednesday with Afghanistan, Bangladesh and Bhutan also deciding to skip the Saarc Summit in...

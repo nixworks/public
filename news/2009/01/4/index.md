@@ -1,7 +1,7 @@
 ## [2009-01-4](/news/2009/01/4/index.md)
 
 ### [ A suicide bombing kills six people and injures 20 in Dera Ismail Khan, North-West Frontier Province, Pakistan. ](/news/2009/01/4/a-suicide-bombing-kills-six-people-and-injures-20-in-dera-ismail-khan-north-west-frontier-province-pakistan.md)
-_Context: Dera Ismail Khan, Khyber Pakhtunkhwa, Pakistan, suicide bomb attack_
+_Context: Dera Ismail Khan, Khyber Pakhtunkhwa, Pakistan, suicide bombing_
 
 ### [ A suicide bombing outside a Shia shrine in northern Baghdad, Iraq, kills at least 40 people and wounds at least 72. ](/news/2009/01/4/a-suicide-bombing-outside-a-shia-shrine-in-northern-baghdad-iraq-kills-at-least-40-people-and-wounds-at-least-72.md)
 At least 40 people were killed and 72 were wounded Sunday in a suicide bombing in Baghdad at the doorstep of one of Iraq’s holiest Shiite shrines.

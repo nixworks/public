@@ -1,6 +1,6 @@
 ### [2017-05-24](/news/2017/05/24/index.md)
 
-# During a phone call between U.S. president Donald Trump and Philippine president Rodrigo Duterte, Trump allegedly congratulates Duterte on his drug war. 
+# During a phone call between U.S. president Donald Trump and Philippine president Rodrigo Duterte, Trump allegedly congratulates Duterte on his drug war, which has been widely criticized for its brutality by human rights organizations. 
 
 U.S. President Donald Trump told his Philippine counterpart that Washington has sent two nuclear submarines to waters off the Korean peninsula, the New York Times said, comments likely to raise questions about his handling of sensitive information.
 

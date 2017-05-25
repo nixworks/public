@@ -4,7 +4,7 @@
 _Context: Essen, European Capital of Culture, European Union_
 
 ### [ A suspected suicide bomber detonates a bomb at a religious gathering in Karachi, Pakistan, killing at least 47 and injuring more than 80 celebrating  Mawlid al-Nabi. ](/news/2006/04/11/a-suspected-suicide-bomber-detonates-a-bomb-at-a-religious-gathering-in-karachi-pakistan-killing-at-least-47-and-injuring-more-than-80-ce.md)
-_Context: Karachi, Mawlid al-Nabi, suicide bomb attack_
+_Context: Karachi, Mawlid al-Nabi, suicide bombing_
 
 ### [ Bernardo Provenzano, boss of the Sicilian Mafia (''capo di tutti i capi''), is caught near the town of Corleone. ](/news/2006/04/11/bernardo-provenzano-boss-of-the-sicilian-mafia-capo-di-tutti-i-capi-is-caught-near-the-town-of-corleone.md)
 _Context: Bernardo Provenzano, Corleone, Mafia, Sicily_

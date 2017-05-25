@@ -37,7 +37,7 @@ _Context: Omar Romano, soccer_
 _Context: Catholics, Rwanda, Rwandan Genocide, Thaddee Ntihinyurwa, gacaca_
 
 ### [ In China, a group of farmers in Shengyou village in Hebei province that demonstrated over seizure of an arable land for the power plant, win in a dispute. ](/news/2005/07/21/in-china-a-group-of-farmers-in-shengyou-village-in-hebei-province-that-demonstrated-over-seizure-of-an-arable-land-for-the-power-plant-wi.md)
-_Context: China, Hebei, Shengyou_
+_Context: Hebei, People's Republic of China, Shengyou_
 
 ### [ Malaysian government also remove the ringgit's peg to US dollar. ](/news/2005/07/21/malaysian-government-also-remove-the-ringgit-s-peg-to-us-dollar.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

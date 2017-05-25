@@ -43,7 +43,7 @@ _Context: 'Ndrangheta, Calabria, Italian_
 _Context: Cao Gangchuan, Japan, Masahiko Komura, People's Republic of China_
 
 ### [ The Chinese Finance Minister, Jin Renqing, resigns due to "personal reasons". ](/news/2007/08/30/the-chinese-finance-minister-jin-renqing-resigns-due-to-personal-reasons.md)
-_Context: China, Jin Renqing_
+_Context: Jin Renqing, People's Republic of China_
 
 ### [ A report into the Virginia Tech massacre criticises staff for not acting quickly enough after Seung-Hui Cho's first killings. ](/news/2007/08/30/a-report-into-the-virginia-tech-massacre-criticises-staff-for-not-acting-quickly-enough-after-seung-hui-cho-s-first-killings.md)
 _Context: Seung-Hui Cho, massacre_

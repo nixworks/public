@@ -31,7 +31,7 @@ _Context: Goldman Sachs, United States Justice Department_
 _Context: House of Representatives, Nigeria, ten new states_
 
 ### [China and South Korea discuss the potential security threat presented by North Korean aggression. ](/news/2010/04/30/china-and-south-korea-discuss-the-potential-security-threat-presented-by-north-korean-aggression.md)
-_Context: China, North Korea, South Korea_
+_Context: North Korea, People's Republic of China, South Korea_
 
 ### [The United States announces it will begin mediating indirect peace talks between Israel and Palestine. ](/news/2010/04/30/the-united-states-announces-it-will-begin-mediating-indirect-peace-talks-between-israel-and-palestine.md)
 Israeli and Palestinian negotiators will not be in the same room, many experts agree that the chances of a breakthrough are small, and some say the exercise is just a warm-up.

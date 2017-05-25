@@ -4,7 +4,7 @@
 _Context: New York Philharmonic, North Korea, United States, musical ensemble_
 
 ### [ A suicide bomber in Rawalpindi, Pakistan, kills 8 people including Pakistan's Surgeon General, Lieutenant General Mushtaq Ahmed Baig. ](/news/2008/02/25/a-suicide-bomber-in-rawalpindi-pakistan-kills-8-people-including-pakistan-s-surgeon-general-lieutenant-general-mushtaq-ahmed-baig.md)
-_Context: Lieutenant General, Mushtaq Ahmed Baig, Pakistan, Rawalpindi, suicide bomb attack_
+_Context: Lieutenant General, Mushtaq Ahmed Baig, Pakistan, Rawalpindi, suicide bombing_
 
 ### [ Chairman of the United States Federal Communications Commission Kevin Martin says he is "ready, willing and able," to prevent broadband Internet service providers from interfering with the speed of their subscribers' Internet access. ](/news/2008/02/25/chairman-of-the-united-states-federal-communications-commission-kevin-martin-says-he-is-ready-willing-and-able-to-prevent-broadband-int.md)
 _Context: Chairman, Federal Communications Commission, Internet, Kevin Martin, United States, broadband, broadband providers, internet access, prevent_

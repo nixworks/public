@@ -22,7 +22,7 @@ _Context: Baghdad, Bremer wall, Government of Iraq, Iraq_
 _Context: Khartoum, Nile, Sudan_
 
 ### [ Two United States journalists, Laura Ling and Euna Lee, who had been detained by North Korea, return home with former U.S. President Bill Clinton. ](/news/2009/08/5/two-united-states-journalists-laura-ling-and-euna-lee-who-had-been-detained-by-north-korea-return-home-with-former-u-s-president-bill-c.md)
-_Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, U.S. President, United States, detained_
+_Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, President, United States, detained_
 
 ### [ Former Madagascar leader Marc Ravalomanana is hopeful that a relaunch of peace talks between the country's rival factions will bring progress toward a return of political stability. ](/news/2009/08/5/former-madagascar-leader-marc-ravalomanana-is-hopeful-that-a-relaunch-of-peace-talks-between-the-country-s-rival-factions-will-bring-progre.md)
 _Context: Madagascar, Marc Ravalomanana_
@@ -37,7 +37,7 @@ _Context: Collier Township, LA Fitness, Pennsylvania, United States, shot_
 _Context: Airbus A320, Paris-Orly Airport, catches fire_
 
 ### [ Three more men are charged with plotting a suicide attack on a military base in Australia. ](/news/2009/08/5/three-more-men-are-charged-with-plotting-a-suicide-attack-on-a-military-base-in-australia.md)
-_Context: Australia, suicide bomb attack_
+_Context: Australia, suicide bombing_
 
 ### [ Ireland's Health Service Executive threatens several pharmacies with High Court injunctions if they do not adhere with their contracts to dispense drugs. ](/news/2009/08/5/ireland-s-health-service-executive-threatens-several-pharmacies-with-high-court-injunctions-if-they-do-not-adhere-with-their-contracts-to-d.md)
 The HSE says it has written to a number of pharmacies warning them of possible High Court injunctions to compel them to adhere&hellip;

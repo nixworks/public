@@ -19,7 +19,7 @@ _Context: Cecile Manorohanta, Defense Minister, Madagascar_
 _Context: Australia, Victoria, recent bushfires_
 
 ### [ A Tamil Tiger suicide bomber kills 28 people and injures 90 others at a Sri Lankan refugee camp. ](/news/2009/02/9/a-tamil-tiger-suicide-bomber-kills-28-people-and-injures-90-others-at-a-sri-lankan-refugee-camp.md)
-_Context: LTTE, Sri Lanka, Sri Lankan Civil War, refugee camp, suicide bomb attack_
+_Context: LTTE, Sri Lanka, Sri Lankan Civil War, refugee camp, suicide bombing_
 
 ### [ The Associated Press receives a video showing Pakistani militants beheading kidnapped Polish engineer Piotr Stanczak. ](/news/2009/02/9/the-associated-press-receives-a-video-showing-pakistani-militants-beheading-kidnapped-polish-engineer-piotr-stanczak.md)
 _Context: Associated Press, Pakistan, Poland, engineer, militant_

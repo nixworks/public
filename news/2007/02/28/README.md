@@ -7,7 +7,7 @@ _Context: Bolivia, Evo Morales, President of Bolivia, homeless_
 Without some form of population control, elephants will soon overwhelm public parks and private game reserves, the nation’s environment minister said.
 
 ### [ United States Presidential Election, 2008: Senator John McCain (R- AZ) announces his candidacy for president on the ''Late Show with David Letterman''. ](/news/2007/02/28/united-states-presidential-election-2008-senator-john-mccain-r-az-announces-his-candidacy-for-president-on-the-late-show-with-david.md)
-_Context: 2008, Arizona, John McCain, Late Show with David Letterman, R, U.S. President, United States Senate_
+_Context: 2008, Arizona, John McCain, Late Show with David Letterman, President, R, United States Senate_
 
 ### [ Romano Prodi, the Prime Minister of Italy, survives a no-confidence motion in the Senate. ](/news/2007/02/28/romano-prodi-the-prime-minister-of-italy-survives-a-no-confidence-motion-in-the-senate.md)
 _Context: Italian Prime Minister, Romano Prodi, Senate of Italy_
@@ -19,7 +19,7 @@ _Context: Airbus, Europe_
 _Context: Bosnia-Herzegovina, European Union, European Union Force_
 
 ### [ Strong wind blows a passenger train off the tracks near Turpan, Xinjiang, China, killing four and injuring 30 more. ](/news/2007/02/28/strong-wind-blows-a-passenger-train-off-the-tracks-near-turpan-xinjiang-china-killing-four-and-injuring-30-more.md)
-_Context: China, Turpan, Xinjiang, train_
+_Context: People's Republic of China, Turpan, Xinjiang, train_
 
 ### [ Authorities monitor a volcano on the island of Stromboli off the north coast of Sicily as lava pours down its slope for a second successive day. ](/news/2007/02/28/authorities-monitor-a-volcano-on-the-island-of-stromboli-off-the-north-coast-of-sicily-as-lava-pours-down-its-slope-for-a-second-successive.md)
 _Context: Sicily, Stromboli, lava, volcanic activity_

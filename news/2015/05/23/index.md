@@ -19,7 +19,7 @@ _Context: Angelo Amato, Congregation for the Causes of Saints, Oscar Romero, Pop
 _Context: Edinburgh, Quintinshill rail disaster, Scotland_
 
 ### [The death toll from China's latest round of flooding rises to at least 48. ](/news/2015/05/23/the-death-toll-from-china-s-latest-round-of-flooding-rises-to-at-least-48.md)
-_Context: China_
+_Context: People's Republic of China_
 
 ### [An Indian heat wave claims over 200 lives with the states of Andhra Pradesh and Telangana worst affected. ](/news/2015/05/23/an-indian-heat-wave-claims-over-200-lives-with-the-states-of-andhra-pradesh-and-telangana-worst-affected.md)
 Down south in A.P., among those who succumbed to the killer heat were 40 persons in Prakasam district and 12 in Visakhapatnam. In Telangana, 28 persons died.

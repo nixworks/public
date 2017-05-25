@@ -10,7 +10,7 @@ _Context: 2013 Lahad Datu standoff, Malaysia, Malaysian Armed Forces, Sabah, Sul
 _Context: Abdelhamid Abou Zeid, Africa, Azawad, Islamist, Military, Northern Mali conflict (2012-present), al-Qaeda_
 
 ### [China's Purchasing Managers Index declines to 50.1 indicating a possible slowdown in the Chinese economy. ](/news/2013/03/1/china-s-purchasing-managers-index-declines-to-50-1-indicating-a-possible-slowdown-in-the-chinese-economy.md)
-_Context: China, Economy of the People's Republic of China, Purchasing Managers Index_
+_Context: Economy of the People's Republic of China, People's Republic of China, Purchasing Managers Index_
 
 ### [A study concludes that clogged arteries around the heart are a risk factor for brain injury from stroke. ](/news/2013/03/1/a-study-concludes-that-clogged-arteries-around-the-heart-are-a-risk-factor-for-brain-injury-from-stroke.md)
 _Context: brain injury, clogged arteries, heart, risk factor, stroke_
@@ -22,7 +22,7 @@ _Context: fishermen, shark_
 Eight South African police officers are arrested over the death of a Mozambican man who was dragged through the streets behind a police vehicle.
 
 ### [Myanmar drug lord and convicted murderer Naw Kham is executed by lethal injection in Kunming, Yunnan Province, China. ](/news/2013/03/1/myanmar-drug-lord-and-convicted-murderer-naw-kham-is-executed-by-lethal-injection-in-kunming-yunnan-province-china.md)
-_Context: China, Kunming, Myanmar, Naw Kham, Yunnan Province, drug kingpin, lethal injection_
+_Context: Kunming, Myanmar, Naw Kham, People's Republic of China, Yunnan Province, drug kingpin, lethal injection_
 
 ### [Google wins a copyright case in the German Bundestag over whether they can put news stories on their website without having to pay. ](/news/2013/03/1/google-wins-a-copyright-case-in-the-german-bundestag-over-whether-they-can-put-news-stories-on-their-website-without-having-to-pay.md)
 Google was handed a small victory in Germany this week when lawmakers there approved a bill that will allow the search giant to freely include headlines and snippets from German publishers on services like Google News.

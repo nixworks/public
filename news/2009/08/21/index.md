@@ -19,7 +19,7 @@ _Context: My Lai, Vietnam War, William Calley, mass killings_
 _Context: Afghanistan, Pakistan, combat drone_
 
 ### [ Four policemen are killed after 4 suicide bombs on bicycles detonate in Grozny, Chechnya. ](/news/2009/08/21/four-policemen-are-killed-after-4-suicide-bombs-on-bicycles-detonate-in-grozny-chechnya.md)
-_Context: Chechnya, Grozny, bicycles, suicide bomb attack_
+_Context: Chechnya, Grozny, bicycles, suicide bombing_
 
 ### [ A North Korean delegation arrives in South Korea to mourn the death of former South Korean President Kim Dae-jung. ](/news/2009/08/21/a-north-korean-delegation-arrives-in-south-korea-to-mourn-the-death-of-former-south-korean-president-kim-dae-jung.md)
 Team visits Seoul to pay respects to former president, but will not attend funeral.
@@ -34,7 +34,7 @@ At least five holidaymakers were crushed to death when part of a cliff collapsed
 Small-scale possession is decriminalised as part of attempt to focus on traffickers.
 
 ### [ U.S. President Barack Obama condemns Lockerbie bomber Abdelbaset al-Megrahi's homecoming in Libya.  ](/news/2009/08/21/u-s-president-barack-obama-condemns-lockerbie-bomber-abdelbaset-al-megrahi-s-homecoming-in-libya.md)
-_Context: Abdelbaset al-Megrahi, Barack Obama, Libya, Lockerbie bombing, U.S. President_
+_Context: Abdelbaset al-Megrahi, Barack Obama, Libya, Lockerbie bombing, President_
 
 ### [ A 34-year-old Tunisian woman from Gafsa, thought to have been pregnant with 12 babies and whose story had attracted international attention, is determined to have been the victim of a phantom pregnancy. ](/news/2009/08/21/a-34-year-old-tunisian-woman-from-gafsa-thought-to-have-been-pregnant-with-12-babies-and-whose-story-had-attracted-international-attention.md)
 _Context: Gafsa, Tunisia, phantom pregnancy, pregnancy_

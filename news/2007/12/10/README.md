@@ -13,7 +13,7 @@ _Context: Atlanta Falcons, Michael Vick, his involvement in a dogfighting ring_
 _Context: Conrad Black, Mail fraud, United States, obstruction of justice_
 
 ### [ Russian President Vladimir Putin announces at a party meeting that he will support Dmitry Medvedev as his successor in the March 2008 presidential election. ](/news/2007/12/10/russian-president-vladimir-putin-announces-at-a-party-meeting-that-he-will-support-dmitry-medvedev-as-his-successor-in-the-march-2008-presi.md)
-_Context: Dmitry Medvedev, Russia, Russian President, Vladimir Putin, go to the polls_
+_Context: Dmitry Medvedev, Russia, Russia President, Vladimir Putin, go to the polls_
 
 ### [ Hard rock band Led Zeppelin reunites in London's O2 Arena.](/news/2007/12/10/hard-rock-band-led-zeppelin-reunites-in-london-s-o2-arena.md)
 _Context: Led Zeppelin, The O2 Arena_

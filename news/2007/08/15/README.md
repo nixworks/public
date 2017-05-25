@@ -13,7 +13,7 @@ _Context: Lesser Antilles, Martinique, St. Lucia, Tropical Storm Dean, hurricane
 _Context: Gaza Strip, Israel, Israeli Defence Force_
 
 ### [ President of the United States George W. Bush, President of Mexico Felipe Calderon and the Prime Minister of Canada Stephen Harper to meet later this month under the North American Security and Prosperity Partnership (SPP) mechanism to discuss economic and security issues. ](/news/2007/08/15/president-of-the-united-states-george-w-bush-president-of-mexico-felipe-caldera3n-and-the-prime-minister-of-canada-stephen-harper-to-meet.md)
-_Context: Canadian Prime Minister, Felipe Calderon, George W. Bush, President, Security and Prosperity Partnership of North America, Stephen Harper, U.S. President_
+_Context: Canadian Prime Minister, Felipe Calderon, George W. Bush, President, President, Security and Prosperity Partnership of North America, Stephen Harper_
 
 ### [ Jack McConnell resigns as the leader of the Scottish Labour Party with Wendy Alexander likely to be elected as his replacement as leader. ](/news/2007/08/15/jack-mcconnell-resigns-as-the-leader-of-the-scottish-labour-party-with-wendy-alexander-likely-to-be-elected-as-his-replacement-as-leader.md)
 _Context: Jack McConnell, Scottish Labour Party, Wendy Alexander_

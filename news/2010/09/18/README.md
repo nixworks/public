@@ -16,7 +16,7 @@ _Context: England, George Michael, Highpoint Prison, Pentonville Prison, Suffolk
 _Context: 200th anniversary, 2010 Copiap mining accident, Chile, Chilean Independence Day_
 
 ### [China slightly increased its holdings of  United States treasury debt to US$846.7 billion, this July. ](/news/2010/09/18/china-slightly-increased-its-holdings-of-united-states-treasury-debt-to-us-846-7-billion-this-july.md)
-_Context:  debt, China_
+_Context:  debt, People's Republic of China_
 
 ### [A large storm in New Zealand leaves 100,000 people without power and takes the roof off Stadium Southland in Invercargill on the South Island. ](/news/2010/09/18/a-large-storm-in-new-zealand-leaves-100-000-people-without-power-and-takes-the-roof-off-stadium-southland-in-invercargill-on-the-south-islan.md)
 _Context: Invercargill, New Zealand, South Island, Stadium Southland_

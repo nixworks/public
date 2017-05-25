@@ -13,7 +13,7 @@ _Context: Azim Isabekov, Felix Kulov, Prime Minister_
 _Context: ICU insurgency, Mogadishu, two years of helping_
 
 ### [ Three civilians are killed in a suicide bombing in the southern Israeli city of Eilat. ](/news/2007/01/29/three-civilians-are-killed-in-a-suicide-bombing-in-the-southern-israeli-city-of-eilat.md)
-_Context: Eilat, Israel, suicide bomb attack_
+_Context: Eilat, Israel, suicide bombing_
 
 ## [Previous Day...](/news/2007/01/28/index.md)
 

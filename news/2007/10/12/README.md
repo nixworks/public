@@ -4,7 +4,7 @@
 The Prime Minister of Canada has appointed a member of the opposition Liberal Party to set up an advisory committee on Afghanistan.
 
 ### [ The President of Russia Vladimir Putin threatens to renounce the Cold War-era INF Treaty while calling on the United States to abandon a proposed European missile shield in talks with the United States Secretary of State Condoleezza Rice and Secretary of Defence Robert Gates. ](/news/2007/10/12/the-president-of-russia-vladimir-putin-threatens-to-renounce-the-cold-war-era-inf-treaty-while-calling-on-the-united-states-to-abandon-a-pr.md)
-_Context: Cold War, Condoleezza Rice, Europe, INF Treaty, Robert Gates, Russian President, United States, United States Secretary of Defence, United States Secretary of State, Vladimir Putin, missile interceptor_
+_Context: Cold War, Condoleezza Rice, Europe, INF Treaty, Robert Gates, Russia President, United States, United States Secretary of Defence, United States Secretary of State, Vladimir Putin, missile interceptor_
 
 ### [ Former U.S. Vice President Al Gore and the UN Intergovernmental Panel on Climate Change (IPCC) share the 2007 Nobel Peace Prize. ](/news/2007/10/12/former-u-s-vice-president-al-gore-and-the-un-intergovernmental-panel-on-climate-change-ipcc-share-the-2007-nobel-peace-prize.md)
 _Context: Al Gore, Intergovernmental Panel on Climate Change, Nobel Peace Prize, U.S. Vice President, United Nations_

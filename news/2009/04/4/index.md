@@ -16,7 +16,7 @@ Reports from Pakistan say a US drone aircraft has fired a missile in the country
 NATO leaders agreed unanimously on Saturday to appoint Danish Prime Minister Anders Fogh Rasmussen as the next head of the alliance after Turkey dropped its objections. NATO Secretary-General Jaap de Hoop Scheffer told a joint news conference with Rasmussen: &quot;You know that there has been discussion over the past 36 hours, but the fact that we are standing here next to each other means a solution has been found also for the concerns expressed by Turkey, and we all very much agree and are unanimous.&quot; Rasmussen, whose nomination was controversial because of his handling of a 2006 crisis over cartoons of the Prophet Mohammad in a Danish newspaper, will succeed the Dutch diplomat on Aug. 1. (reporting by Tim Hepher, editing by Timothy Heritage)
 
 ### [ Six Frontier Corpsmen are killed during a suicide attack in Islamabad, Pakistan. ](/news/2009/04/4/six-frontier-corpsmen-are-killed-during-a-suicide-attack-in-islamabad-pakistan.md)
-_Context: Islamabad, Pakistan, killed, paramilitary soldiers, suicide bomb attack_
+_Context: Islamabad, Pakistan, killed, paramilitary soldiers, suicide bombing_
 
 ### [ Mon Mome wins the 2009 Grand National in Aintree, England. ](/news/2009/04/4/mon-mome-wins-the-2009-grand-national-in-aintree-england.md)
 _Context: 2009, Aintree, England, Grand National, Mon Mome_

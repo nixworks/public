@@ -1,7 +1,7 @@
 ## [2009-12-14](/news/2009/12/14/index.md)
 
 ### [ The Group of 77 (including China, India, UAE, Qatar, and Saudi Arabia) suspends participation in treaty negotiations at the Copenhagen Climate Change Conference, citing the unwillingness of developed nations to live up to the Kyoto Protocol and what they view as a lack of open negotiations. ](/news/2009/12/14/the-group-of-77-including-china-india-uae-qatar-and-saudi-arabia-suspends-participation-in-treaty-negotiations-at-the-copenhagen-clim.md)
-_Context: China, Conference on Climate Change, Copenhagen, Group of 77, India, Kyoto Protocol, Qatar, Saudi Arabia, UAE_
+_Context: Conference on Climate Change, Copenhagen, Group of 77, India, Kyoto Protocol, People's Republic of China, Qatar, Saudi Arabia, UAE_
 
 ### [ Antonio Maria Costa, head of the UN Office on Drugs and Crime, claims that some banks were rescued during the recent global financial crisis by billions of dollars that originated from the illegal drug trade. ](/news/2009/12/14/antonio-maria-costa-head-of-the-un-office-on-drugs-and-crime-claims-that-some-banks-were-rescued-during-the-recent-global-financial-crisi.md)
 _Context: Antonio Maria Costa, UN Office on Drugs and Crime, anti-drug plan_

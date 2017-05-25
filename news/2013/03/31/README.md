@@ -28,7 +28,7 @@ GALAX, Va. (AP) — Virginia State Police say three people have been killed and 
 At LEAST 11 people have died in flooding in the Mauritian capital Port Louis, officials have said.
 
 ### [Two people die in China from H7N9 avian influenza infection - a sub-type that had not previously been transmitted to humans. ](/news/2013/03/31/two-people-die-in-china-from-h7n9-avian-influenza-infection-a-a-sub-type-that-had-not-previously-been-transmitted-to-humans.md)
-_Context: Avian flu virus, China, H7N9 avian flu virus_
+_Context: Avian flu virus, H7N9 avian flu virus, People's Republic of China_
 
 ### [President of Afghanistan Hamid Karzai meets with Sheikh Hamad bin Khalifa Al Thani, the Emir of Qatar, to discuss plans for the Taliban to open an office in Doha in order to help solve the conflict in Afghanistan. ](/news/2013/03/31/president-of-afghanistan-hamid-karzai-meets-with-sheikh-hamad-bin-khalifa-al-thani-the-emir-of-qatar-to-discuss-plans-for-the-taliban-to-o.md)
 Afghan president and Qatari emir discussed opening of office for Taliban in Doha which could help broker an end to war.

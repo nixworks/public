@@ -34,7 +34,7 @@ _Context: California, Forestville, Sonoma County, United States_
 Parents, sons 5 and 12, were found dead at apartment in Johns Creek, Ga.
 
 ### [Brazilian President Dilma Rousseff launches a new national economy politics based on rising the price of local oil over the reduction of light consumption prices. ](/news/2013/02/5/brazilian-president-dilma-rousseff-launches-a-new-national-economy-politics-based-on-rising-the-price-of-local-oil-over-the-reduction-of-lig.md)
-_Context: Brazil, Dilma, President_
+_Context: Brazil, Dilma, President of Brazil_
 
 ### [The United Kingdom's House of Commons votes overwhelmingly in favour of government legislation to introduce same-sex marriages. ](/news/2013/02/5/the-united-kingdom-s-house-of-commons-votes-overwhelmingly-in-favour-of-government-legislation-to-introduce-same-sex-marriages.md)
 MPs approve same-sex marriage in England and Wales in a key Commons vote, although more Conservative MPs voted against the bill than for it.

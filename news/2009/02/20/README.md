@@ -25,7 +25,7 @@ _Context: Saab Automobile, bankruptcy, bankruptcy protection_
 _Context: Benjamin Netanyahu, Israel, Likud, Politics of Israel, President, Shimon Peres_
 
 ### [ A suicide attack kills 25 people in Dera Ismail Khan, Pakistan. ](/news/2009/02/20/a-suicide-attack-kills-25-people-in-dera-ismail-khan-pakistan.md)
-_Context: Dera Ismail Khan, Pakistan, suicide bomb attack_
+_Context: Dera Ismail Khan, Pakistan, suicide bombing_
 
 ### [ Forty-seven people are injured when a Northwest Airlines flight from the Philippines to Japan experiences severe turbulence. ](/news/2009/02/20/forty-seven-people-are-injured-when-a-northwest-airlines-flight-from-the-philippines-to-japan-experiences-severe-turbulence.md)
 _Context: Japan, Northwest Airlines, Philippines, turbulence_

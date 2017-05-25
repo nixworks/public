@@ -25,7 +25,7 @@ Thai PM Yingluck Shinawatra in court for hearing that may lead to her dismissal 
 _Context: 276 girls kidnapped from northern Nigeria, Boko Haram_
 
 ### [Russian President Vladimir Putin signs into law a bill that bans profanity at arts, cultural and entertainment events.  ](/news/2014/05/6/russian-president-vladimir-putin-signs-into-law-a-bill-that-bans-profanity-at-arts-cultural-and-entertainment-events.md)
-_Context: Russian President, Vladimir Putin_
+_Context: Russia President, Vladimir Putin_
 
 ### [Six people are injured in a knife attack at a Chinese train station in Guangzhou.  ](/news/2014/05/6/six-people-are-injured-in-a-knife-attack-at-a-chinese-train-station-in-guangzhou.md)
 At least six people are injured in a knife attack at a station in Guangzhou, Chinese officials say, in the third such attack on a transport hub in three months.

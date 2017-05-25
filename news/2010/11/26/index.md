@@ -19,7 +19,7 @@ There has been a third explosion at the Pike River coal mine in New Zealand, whe
 North Korea warns that US-South Korean plans for military maneuvers put peninsula on brink of war; S.Korean official says 20 blasts heard.
 
 ### [China warns the U.S. against performing any military acts within their exclusive economic zone, ahead of joint South Korean-U.S. military exercises aimed at  threatening North Korea. ](/news/2010/11/26/china-warns-the-u-s-against-performing-any-military-acts-within-their-exclusive-economic-zone-ahead-of-joint-south-korean-u-s-military-ex.md)
-_Context:  threatening, China, North Korea, South Korean, U.S., economic exclusion zone_
+_Context:  threatening, North Korea, People's Republic of China, South Korean, U.S., economic exclusion zone_
 
 ### [Lebanon's Prime Minister Saad Hariri visits Iran, seeking help to prevent violence if a U.N.-backed tribunal indicts Hezbollah members for killing former prime minister, Rafiq Hariri, and 21 others in a car bombing ](/news/2010/11/26/lebanon-s-prime-minister-saad-hariri-visits-iran-seeking-help-to-prevent-violence-if-a-u-n-backed-tribunal-indicts-hezbollah-members-for-k.md)
 _Context: Hezbollah, Lebanese Prime Minister, Rafiq Hariri, Saad Hariri, U.N., killing former prime minister_
@@ -28,7 +28,7 @@ _Context: Hezbollah, Lebanese Prime Minister, Rafiq Hariri, Saad Hariri, U.N., k
 _Context:  United Democratic Forces, Rwanda, Victoire Ingabire_
 
 ### [Pakistani police arrest two Islamist militants planning a suicide bombing attack against a mosque and a government building in Islamabad. ](/news/2010/11/26/pakistani-police-arrest-two-islamist-militants-planning-a-suicide-bombing-attack-against-a-mosque-and-a-government-building-in-islamabad.md)
-_Context: Islamabad, Pakistani police, radical Islamists, suicide bomb attack_
+_Context: Islamabad, Pakistani police, radical Islamists, suicide bombing_
 
 ### [Authorities in Saudi Arabia arrest 149 people with links to al-Qaeda suspected of planning attacks on government officials and journalists. ](/news/2010/11/26/authorities-in-saudi-arabia-arrest-149-people-with-links-to-al-qaeda-suspected-of-planning-attacks-on-government-officials-and-journalists.md)
 Authorities have arrested 124 Saudis and 25 foreigners, who were planning attacks on government and security officials.

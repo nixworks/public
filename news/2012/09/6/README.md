@@ -16,7 +16,7 @@ _Context: Annecy murders, Chevaline, Haute-Savoie, France, Iraq, Lake Annecy, Un
 A human rights organization says it has collected evidence of two previously unreported cases in which U.S. agents used waterboarding or a similar harsh interrogation technique on Libyan militants held by American forces in Afghanistan.
 
 ### [After Sri Lanka, Liang Guanglie leaves India for Laos. It has been the first visit to India of a Chinese Minister of Defence in eight years. ](/news/2012/09/6/after-sri-lanka-liang-guanglie-leaves-india-for-laos-it-has-been-the-first-visit-to-india-of-a-chinese-minister-of-defence-in-eight-years.md)
-_Context: China, Chinese Defense Ministry, India, Laos, Liang Guanglie, Sri Lanka_
+_Context: Chinese Defense Ministry, India, Laos, Liang Guanglie, People's Republic of China, Sri Lanka_
 
 ### [Admiral James Winnefeld, Vice Chairman of the U.S. Joint Chiefs of Staff, is in Israel. The Pentagon recently has scaled down a joint military exercise, planned for October. The drill should help blend both countries' missile defense capabilities. ](/news/2012/09/6/admiral-james-winnefeld-vice-chairman-of-the-u-s-joint-chiefs-of-staff-is-in-israel-the-pentagon-recently-has-scaled-down-a-joint-milita.md)
 Time reports Pentagon radically cuts back number of troops, equipment slated to partake in joint US-Israel military drill in October; Pentagon insists drill will still be &#39;biggest ever&#39;

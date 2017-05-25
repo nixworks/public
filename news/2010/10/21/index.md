@@ -28,7 +28,7 @@ There should be a complete naval and air blockade of Somalia, the African Union 
 Guillermo Farinas, the Cuban dissident who held a 135-day hunger strike earlier this year, has been awarded the European Parliament&#039;s Sakharov human rights prize.
 
 ### [China condemns a United Nations report that says Chinese bullets were used in attacks on international peacekeeping forces in the Darfur region of Sudan. ](/news/2010/10/21/china-condemns-a-united-nations-report-that-says-chinese-bullets-were-used-in-attacks-on-international-peacekeeping-forces-in-the-darfur-reg.md)
-_Context: African Union - United Nations Hybrid Operation in Darfur, China, Darfur, Sudan, United Nations_
+_Context: African Union - United Nations Hybrid Operation in Darfur, Darfur, People's Republic of China, Sudan, United Nations_
 
 ### [President of Venezuela Hugo Chavez finishes a two-day visit to Iran, signing agreements on oil, energy and commerce. ](/news/2010/10/21/president-of-venezuela-hugo-cha-vez-finishes-a-two-day-visit-to-iran-signing-agreements-on-oil-energy-and-commerce.md)
 _Context: Hugo Chavez, Iran, President_
@@ -55,7 +55,7 @@ _Context: Myanmar, Republic of the Union of Myanmar, Union of Myanmar, the natio
 Thousands of people demonstrated in the Argentine capital Buenos Aires in protest at the murder of a left-wing activist during a labour dispute.
 
 ### [The Brazil hydroelectric plant in Foz do Iguacu is second largest hydroelectric plant in world after the Three Gorges in China. ](/news/2010/10/21/the-brazil-hydroelectric-plant-in-foz-do-iguacu-is-second-largest-hydroelectric-plant-in-world-after-the-three-gorges-in-china.md)
-_Context: Brazil, China, Three Gorges, hydroelectric_
+_Context: Brazil, People's Republic of China, Three Gorges, hydroelectric_
 
 ### [Microsoft Research and Wikipedia have joined forces to launch a beta version of a new multilingual content creation tool for Wikipedia named WikiBhasha. ](/news/2010/10/21/microsoft-research-and-wikipedia-have-joined-forces-to-launch-a-beta-version-of-a-new-multilingual-content-creation-tool-for-wikipedia-named.md)
 Microsoft Research and Wikipedia have joined forces to launch a beta version of a new multilingual content creation tool for Wikipedia.

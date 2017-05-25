@@ -19,7 +19,7 @@ _Context: 4th quarter of 2007 and the second quarter of 2009, International Mone
 _Context: Lesotho, Pakalitha Mosisili, Prime Minister, assassinated_
 
 ### [ Two suicide attacks near Baqubah and in Baghdad, Iraq, kill at least 87 people. ](/news/2009/04/23/two-suicide-attacks-near-baqubah-and-in-baghdad-iraq-kill-at-least-87-people.md)
-_Context: Baghdad, Baqubah, Iraq, kill, suicide bomb attack_
+_Context: Baghdad, Baqubah, Iraq, kill, suicide bombing_
 
 ### [ Iraq's government calculates that more than 110,000 Iraqis have died since the Iraq War began in 2003. ](/news/2009/04/23/iraq-s-government-calculates-that-more-than-110-000-iraqis-have-died-since-the-iraq-war-began-in-2003.md)
 _Context: 2003 invasion of Iraq, Iraq, Iraq War, Iraqi, government_

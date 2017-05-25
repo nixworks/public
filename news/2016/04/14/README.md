@@ -13,7 +13,7 @@ KIEV, Ukraine (AP) — Ukrainian officials have announced the recovery of four p
 A strong earthquake hit southwestern Japan on Thursday, bringing down some buildings, killing at least nine people and injuring hundreds, local media said, but the nuclear regulator reported no problems at power plants.
 
 ### [At least 18 people are killed after a 80-tonne crane collapses on a temporary structure during a thunderstorm in the city of Dongguan, China. ](/news/2016/04/14/at-least-18-people-are-killed-after-a-80-tonne-crane-collapses-on-a-temporary-structure-during-a-thunderstorm-in-the-city-of-dongguan-china.md)
-_Context: China, Dongguan, thunderstorm_
+_Context: Dongguan, People's Republic of China, thunderstorm_
 
 ### [North Korea deploys one or two intermediate-range ballistic missiles on its east coast, possibly preparing for launch on or around Friday, the anniversary of the birth of the country's founder Kim Il-sung, according to South Korea's Yonhap news agency. ](/news/2016/04/14/north-korea-deploys-one-or-two-intermediate-range-ballistic-missiles-on-its-east-coast-possibly-preparing-for-launch-on-or-around-friday-t.md)
 News - Your daily dose of information: European and International latest breaking news, economic news, business news and more. Stay up to date with Euronews.

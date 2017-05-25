@@ -11,7 +11,7 @@ Moody&#039;s cuts the ratings of Australia&#039;s big four banks from Aa2 to Aa1
 
 ### Related:
 
-1. [Moody's Investors Service downgrades the credit rating of the People's Republic of China from AA to Aa3. ](/news/2017/05/24/moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa-to-aa3.md) _Context: Moody's Investors Service, credit rating_
+1. [Moody's Investors Service downgrades the credit rating of the People's Republic of China from AA3 to A1. ](/news/2017/05/24/moody-s-investors-service-downgrades-the-credit-rating-of-the-people-s-republic-of-china-from-aa3-to-a1.md) _Context: Moody's Investors Service, credit rating_
 2. [For the first time ever, Moody's Investors Service downgrades the United Kingdom's bond credit rating from AAA to AA1. ](/news/2013/02/22/for-the-first-time-ever-moody-s-investors-service-downgrades-the-united-kingdom-s-bond-credit-rating-from-aaa-to-aa1.md) _Context: Moody's Investors Service, credit rating_
 3. [The Australia and New Zealand Banking Group announces plans to cut 1000 jobs in Australia. ](/news/2012/02/13/the-australia-and-new-zealand-banking-group-announces-plans-to-cut-1000-jobs-in-australia.md) _Context: Australia, Australia and New Zealand Banking Group_
 4. [Moody's Investors Service downgrades the credit ratings of several European Union members including Italy, Malta, Portugal, Slovakia, Slovenia and Spain and issues a negative outlook for the ratings of Austria, France and the United Kingdom. ](/news/2012/02/13/moody-s-investors-service-downgrades-the-credit-ratings-of-several-european-union-members-including-italy-malta-portugal-slovakia-sloven.md) _Context: Moody's Investors Service, credit rating_

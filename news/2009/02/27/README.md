@@ -16,7 +16,7 @@ _Context: ASEAN, Australia, New Zealand, agreement, commerce, current financial 
 _Context: 2009 Bangladesh Rifles revolt, Bangladesh, Bangladesh Rifles, mass grave, military_
 
 ### [ United States President Barack Obama announces he will withdraw most soldiers from the Iraq War by August 2010. ](/news/2009/02/27/united-states-president-barack-obama-announces-he-will-withdraw-most-soldiers-from-the-iraq-war-by-august-2010.md)
-_Context: Barack Obama, Iraq War, U.S. President, U.S. military personnel, United States_
+_Context: Barack Obama, Iraq War, President, U.S. military personnel, United States_
 
 ### [ Seven million euros are stolen from the Bank of Ireland in Dublin. ](/news/2009/02/27/seven-million-euros-are-stolen-from-the-bank-of-ireland-in-dublin.md)
 Up to &euro;7 million may have been stolen from a Dublin bank following a so-called tiger kidnapping in Co Kildare this morning.

@@ -19,7 +19,7 @@ _Context: Kurmanbek Bakiyev, Kyrgyzstan, President, constitutional changes in a 
 _Context: Dick Cheney, Iran, U.S. Vice President, United States, Washington Institute for Near East Policy, nuclear warheads_
 
 ### [ A fire in an illegal shoe factory kills at least 34 people in Putian in Fujian province, China. ](/news/2007/10/21/a-fire-in-an-illegal-shoe-factory-kills-at-least-34-people-in-putian-in-fujian-province-china.md)
-_Context: China, Fujian, Putian, factory_
+_Context: Fujian, People's Republic of China, Putian, factory_
 
 ### [ The Boston Red Sox defeat the Cleveland Indians 11-2 winning the 2007 American League Championship Series and going on to meet the Colorado Rockies, the 2007 National League champions, in the 2007 World Series. ](/news/2007/10/21/the-boston-red-sox-defeat-the-cleveland-indians-11-2-winning-the-2007-american-league-championship-series-and-going-on-to-meet-the-colorado.md)
 Boston charged to its third straight win, completing yet another October comeback by overpowering the Cleveland Indians 11-2 Sunday night in Game 7 of the AL championship series behind a new pair of rookie Sox.

@@ -22,7 +22,7 @@ _Context: Ancient Egypt, Czech, Fifth Dynasty, Khentakawess III_
 _Context: Israel, Jesus, Old City of Jerusalem, Tower of David Museum_
 
 ### [China relaxes controls over the export of rare earth elements after losing a case brought by the United States at the World Trade Organization. ](/news/2015/01/5/china-relaxes-controls-over-the-export-of-rare-earth-elements-after-losing-a-case-brought-by-the-united-states-at-the-world-trade-organizati.md)
-_Context: China, United States, World Trade Organization, rare earth element_
+_Context: People's Republic of China, United States, World Trade Organization, rare earth element_
 
 ### [Ireland becomes the first European nation to be allowed to export beef to the United States since the mad cow disease scare 15 years ago. ](/news/2015/01/5/ireland-becomes-the-first-european-nation-to-be-allowed-to-export-beef-to-the-united-states-since-the-mad-cow-disease-scare-15-years-ago.md)
 _Context: Europe, Republic of Ireland, United States, mad cow disease_

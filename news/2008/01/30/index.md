@@ -4,7 +4,7 @@
 _Context: Hurricane Katrina, New Orleans, Louisiana, Stanwood Duval, U.S. Army Corps of Engineers, U.S. federal court, class action, judge, levee_
 
 ### [ Russian Finance Minister Alexei Kudrin and state electricity chief Anatoly Chubais call for a less hawkish foreign policy. Analysts claim the two are close to the likely next President of Russia Dmitry Medvedev. ](/news/2008/01/30/russian-finance-minister-alexei-kudrin-and-state-electricity-chief-anatoly-chubais-call-for-a-less-hawkish-foreign-policy-analysts-claim-t.md)
-_Context: Alexei Kudrin, Anatoly Chubais, Dmitry Medvedev, Russia, Russian President_
+_Context: Alexei Kudrin, Anatoly Chubais, Dmitry Medvedev, Russia, Russia President_
 
 ### [ The United States Federal Reserve cuts the federal funds rate by half a point to 3 per cent, the second cut in this key interest rate in eight days as it acts to head off a recession. ](/news/2008/01/30/the-united-states-federal-reserve-cuts-the-federal-funds-rate-by-half-a-point-to-3-per-cent-the-second-cut-in-this-key-interest-rate-in-ei.md)
 In lowering its benchmark rate by a half-point to 3 percent, the Fed said that it was worried mainly about an economic slowdown, not rising inflation. 
@@ -16,7 +16,7 @@ _Context: Australia, February 13, Indigenous Australian, Parliament, stolen gene
 Rudolph W. Giuliani endorsed Senator John McCain for the Republican nomination. Also Mr. McCain’s aides said he would be endorsed by Gov. Arnold Schwarzenegger.
 
 ### [ As snowstorms continue to worsen in China, Premier Wen Jiabao offers an apology to the public while visiting Changsha train station in Hunan as millions are stranded in train stations waiting to go home during Chinese New Year. ](/news/2008/01/30/as-snowstorms-continue-to-worsen-in-china-premier-wen-jiabao-offers-an-apology-to-the-public-while-visiting-changsha-train-station-in-huna.md)
-_Context: 2008 Chinese winter storms, Changsha, China, Chinese New Year, Hunan, Wen Jiabao, stranded in train stations_
+_Context: 2008 Chinese winter storms, Changsha, Chinese New Year, Hunan, People's Republic of China, Wen Jiabao, stranded in train stations_
 
 ### [ Government probe finds that Israel "failed ... to provide an effective military response to the challenge posed to it by the war in Lebanon." ](/news/2008/01/30/government-probe-finds-that-israel-failed-to-provide-an-effective-military-response-to-the-challenge-posed-to-it-by-the-war-in-lebanon.md)
 _Context: Israel, Lebanon_

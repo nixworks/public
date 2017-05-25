@@ -22,7 +22,7 @@ A high-speed TGV train derails on a test run near the French city of Strasbourg,
 _Context: Churchstanton, Somerset, light aircraft_
 
 ### [  Indonesia announces that it is planning to take China to court over the Natuna Islands. ](/news/2015/11/14/indonesia-announces-that-it-is-planning-to-take-china-to-court-over-the-natuna-islands.md)
-_Context: China, China-Indonesia relations, Indonesia, Natuna Islands, war_
+_Context: China-Indonesia relations, Indonesia, Natuna Islands, People's Republic of China, war_
 
 ### [Scott N. Johansen, a Utah Juvenile Court judge, reverses his original order to remove a foster child from same sex-parents.   The state Division of Child and Family Services and foster parents all filed motions asking for the reconsideration and promising an appeal.  The new decision eliminates the phrase, "It is not in the best interest of children to be raised by same-sex couples" and strikes an order for the child to be placed with a non-same-sex couple. ](/news/2015/11/14/scott-n-johansen-a-utah-juvenile-court-judge-reverses-his-original-order-to-remove-a-foster-child-from-same-sex-parents-the-state-divi.md)
 _Context: Juvenile Court, Utah, sex-parents_

@@ -40,7 +40,7 @@ _Context: New Caledonia, Philippe Gomes, President, elected_
 _Context: Chongqing, People's Republic of China, landslide_
 
 ### [ A suicide attack kills at least 38 people at a mosque in Upper Dir District, Pakistan. ](/news/2009/06/5/a-suicide-attack-kills-at-least-38-people-at-a-mosque-in-upper-dir-district-pakistan.md)
-_Context: Pakistan, Upper Dir District, War in North-West Pakistan, mosque, suicide bomb attack_
+_Context: Pakistan, Upper Dir District, War in North-West Pakistan, mosque, suicide bombing_
 
 ### [ Former United States State Department employee Kendall Myers and his wife, Gwendolyn, are arrested and charged with spying for Cuba's government. ](/news/2009/06/5/former-united-states-state-department-employee-kendall-myers-and-his-wife-gwendolyn-are-arrested-and-charged-with-spying-for-cuba-s-gover.md)
 _Context: Cuba, Kendall Myers, United States, United States Department of State, espionage, government_

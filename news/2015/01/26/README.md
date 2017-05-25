@@ -25,7 +25,7 @@ The accused trio allegedly tried to recruit women at a New York university, spok
 _Context: CIA, Jeffrey Alexander Sterling, US Eastern District Court of Virginia, nuclear scientist_
 
 ### [Chinese authorities name Huang Lixin as the Communist Party Secretary of Nanjing, following the investigation and dismissal of former party chief Yang Weize. Huang becomes the first woman in city history to take the top office. ](/news/2015/01/26/chinese-authorities-name-huang-lixin-as-the-communist-party-secretary-of-nanjing-following-the-investigation-and-dismissal-of-former-party.md)
-_Context: China, Communist Party Secretary, Huang Lixin, Nanjing, Yang Weize_
+_Context: Communist Party Secretary, Huang Lixin, Nanjing, People's Republic of China, Yang Weize_
 
 ### [A single day after the radical-left SYRIZA party wins the Greek elections, it forms an anti-austerity coalition government with the right-wing Independent Greeks ](/news/2015/01/26/a-single-day-after-the-radical-left-syriza-party-wins-the-greek-elections-it-forms-an-anti-austerity-coalition-government-with-the-right-wi.md)
 _Context: Greek elections, Independent Greeks, Syriza, coalition government_

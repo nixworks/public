@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Moro conflict Philippine president Rodrigo Duterte declares martial law on the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/moro-conflict-pphilippine-president-rodrigo-duterte-declares-martial-law-on-the-island-of-mindanao-after-maute-militants-clash-with-army-tro.md) _Context: army_
+1. [2017 Marawi clash Philippine president Rodrigo Duterte declares martial law on the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/2017-marawi-clash-pphilippine-president-rodrigo-duterte-declares-martial-law-on-the-island-of-mindanao-after-maute-militants-clash-with-army.md) _Context: army_
 2. [More than 10,000 people are left homeless after a fire ravages a densely populated neighborhood of the Philippines capital Manila. ](/news/2017/02/8/more-than-10-000-people-are-left-homeless-after-a-fire-ravages-a-densely-populated-neighborhood-of-the-philippines-capital-manila.md) _Context: Manila_
 3. [As many as fifty thousand people gather in Manila for a march organized by the Philippine Catholic Church to protest the Philippine Drug War. ](/news/2017/02/18/as-many-as-fifty-thousand-people-gather-in-manila-for-a-march-organized-by-the-philippine-catholic-church-to-protest-the-philippine-drug-war.md) _Context: Manila_
 4. [Former Philippines president and current mayor of Manila Joseph Estrada is hospitalized for pneumonia. ](/news/2016/12/23/former-philippines-president-and-current-mayor-of-manila-joseph-estrada-is-hospitalized-for-pneumonia.md) _Context: Manila_

@@ -13,7 +13,7 @@ _Context: Mali, United Nations, siege_
 Russia’s Crimea has switched to autonomous reserve power after transmission towers in the adjacent Ukrainian Kherson region were blown up, causing a blackout. Meanwhile, the Right Sector and Crimean Tatar “activists” have been attempting to block repairs.
 
 ### [A suicide bomb attack in Fotokol, a town in Cameroon's Far North Region near the Nigerian border kills at least nine people. ](/news/2015/11/21/a-suicide-bomb-attack-in-fotokol-a-town-in-cameroon-s-far-north-region-near-the-nigerian-border-kills-at-least-nine-people.md)
-_Context: Boko Haram insurgency, Cameroon, Far North Region, Fotokol, Nigeria, suicide bomb attack_
+_Context: Boko Haram insurgency, Cameroon, Far North Region, Fotokol, Nigeria, suicide bombing_
 
 ### [A Palestinian terrorist stabs four people, including a 13-year-old girl, in the southern Israeli town of Kiryat Gat; he flees and evades police for five hours before being arrested. ](/news/2015/11/21/a-palestinian-terrorist-stabs-four-people-including-a-13-year-old-girl-in-the-southern-israeli-town-of-kiryat-gat-he-flees-and-evades-pol.md)
 After 5-hour manhunt, police capture Muhammad Tarada, 18, in yard of private residence; 2 other Palestinians also arrested on suspicion of aiding terrorist
@@ -22,7 +22,7 @@ After 5-hour manhunt, police capture Muhammad Tarada, 18, in yard of private res
 _Context: 25, Adele, British people_
 
 ### [Miss World Canada Anastasia Lin says that she is prevented from competing in China by the Chinese authorities after she spoke up against human rights abuses in the country. ](/news/2015/11/21/miss-world-canada-anastasia-lin-says-that-she-is-prevented-from-competing-in-china-by-the-chinese-authorities-after-she-spoke-up-against-hum.md)
-_Context: Anastasia Lin, China, Human rights in China, Miss World 2015, Miss World Canada_
+_Context: Anastasia Lin, Human rights in China, Miss World 2015, Miss World Canada, People's Republic of China_
 
 ### [Muslim cleric Sheikh Ahmed al-Tayeb, the head of al-Azhar in Egypt, says violence has no link to authentic Islam, terrorism is a life philosophy whose adherents were willing to die and is an intellectual and psychological disease that uses religion as a front. ](/news/2015/11/21/muslim-cleric-sheikh-ahmed-al-tayeb-the-head-of-al-azhar-in-egypt-says-violence-has-no-link-to-authentic-islam-terrorism-is-a-life-philos.md)
 _Context: Egypt, Muslim, al-Azhar_
@@ -31,7 +31,7 @@ _Context: Egypt, Muslim, al-Azhar_
 Bodies of four tourists still on Fox Glacier unlikely to be recovered until at least Wednesday, police say.
 
 ### [A fire in a coal mine in China's northeast Heilongjiang province results in 21 deaths and one person missing. ](/news/2015/11/21/a-fire-in-a-coal-mine-in-china-s-northeast-heilongjiang-province-results-in-21-deaths-and-one-person-missing.md)
-_Context: China, Heilongjiang, coal mine_
+_Context: Heilongjiang, People's Republic of China, coal mine_
 
 ### [A landslide near a jade mine  in northern Myanmar kills up to 60 people with more than a hundred missing. ](/news/2015/11/21/a-landslide-near-a-jade-mine-in-northern-myanmar-kills-up-to-60-people-with-more-than-a-hundred-missing.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

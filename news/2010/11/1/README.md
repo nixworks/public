@@ -31,7 +31,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 China begins its first national census in 10 years as it tries to document its 1.3 billion-strong population.
 
 ### [India and China help boost Asian shares outside Japan by 1.7%. ](/news/2010/11/1/india-and-china-help-boost-asian-shares-outside-japan-by-1-7.md)
-_Context: China, India, Japan_
+_Context: India, Japan, People's Republic of China_
 
 ### [Ambac Financial Group announces that it may have to declare bankruptcy, though it is still in talks with its senior bondholders about a consensual rescheduling of its debts.  Before the 2008 financial crisis, Ambac was one of the two dominant bond insurance companies. ](/news/2010/11/1/ambac-financial-group-announces-that-it-may-have-to-declare-bankruptcy-though-it-is-still-in-talks-with-its-senior-bondholders-about-a-cons.md)
 * Chapter 11 possible this year, creditor talks continue * Bond insurer misses $2.8 million debt payment * Shares slide 50.4 percent (Add
@@ -49,7 +49,7 @@ _Context: Andhra Pradesh, Elamanchili, India, Nakapalli, Payakaraopeta, Rambilli
 _Context: Schmalkalden_
 
 ### [Disputed islands:The President of Russia Dmitry Medvedev visits Kunashiri, one of the southern Kuril Islands that are the subject of the Kuril Islands dispute between Russia and Japan. ](/news/2010/11/1/disputed-islands-pthe-president-of-russia-dmitry-medvedev-visits-kunashiri-one-of-the-southern-kuril-islands-that-are-the-subject-of-the-ku.md)
-_Context: Dmitry Medvedev, Japan, Kunashiri, Kuril Islands, Russia, Russian President, rival territorial claims_
+_Context: Dmitry Medvedev, Japan, Kunashiri, Kuril Islands, Russia, Russia President, rival territorial claims_
 
 ### [Three suspected ivory poachers are shot dead by rangers in Kenya in separate incidents. ](/news/2010/11/1/three-suspected-ivory-poachers-are-shot-dead-by-rangers-in-kenya-in-separate-incidents.md)
 _Context: Kenya, poachers_

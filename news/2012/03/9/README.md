@@ -31,7 +31,7 @@ _Context: Oxfam, West Africa_
 _Context: Bangkok, Thailand_
 
 ### [China returns 31 North Korean refugees to North Korea, according to activists. ](/news/2012/03/9/china-returns-31-north-korean-refugees-to-north-korea-according-to-activists.md)
-_Context: China, North Korea_
+_Context: North Korea, People's Republic of China_
 
 ### [Chinese politician Bo Xilai speaks out for the first time since his aide attempted to defect at the American consulate. ](/news/2012/03/9/chinese-politician-bo-xilai-speaks-out-for-the-first-time-since-his-aide-attempted-to-defect-at-the-american-consulate.md)
 Bo Xilai, the embattled Communist Party chief of Chongqing, said that he had failed to supervise a trusted aide who recently fled to an American consulate, causing a national sensation.

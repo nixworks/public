@@ -37,7 +37,7 @@ _Context: Glendale, Arizona, Independence High School, Phoenix, Arizona_
 Thousands of Egyptian doctors demonstrated in Cairo on Friday in a rare protest at what rights groups call police impunity after two doctors were alleged to have been assaulted in a hospital in the city last month.
 
 ### [Stuart Robert representing the Liberal Party, Australia's Minister for Veterans' Affairs and for Human Services, resigns for breaching ministerial standards during his 2014 business trip to China while Assistant Minister for Defence. ](/news/2016/02/12/stuart-robert-representing-the-liberal-party-australia-s-minister-for-veterans-affairs-and-for-human-services-resigns-for-breaching-minis.md)
-_Context: Assistant Minister for Defence, China, Human Services, Liberal Party, Minister for Veterans' Affairs, Stuart Robert_
+_Context: Assistant Minister for Defence, Human Services, Liberal Party, Minister for Veterans' Affairs, People's Republic of China, Stuart Robert_
 
 ### [Salva Kiir, the President of South Sudan, appoints rebel leader Riek Machar as Vice President in a bid to end a two year civil war. ](/news/2016/02/12/salva-kiir-the-president-of-south-sudan-appoints-rebel-leader-riek-machar-as-vice-president-in-a-bid-to-end-a-two-year-civil-war.md)
 South Sudanese President Salva Kiir reappointed rebel leader Riek Machar as his deputy, a key step in a deal to end a two-year civil war that’s killed tens of thousands of people in the oil-producing nation.

@@ -10,7 +10,7 @@ _Context: Iraq, prison escape, suicide bombing_
 The Duke and Duchess of Cambridge name their son George Alexander Louis, Kensington Palace says.
 
 ### [Two earthquakes strike Gansu province, China, killing at least 89 people and injuring over 500. ](/news/2013/07/22/two-earthquakes-strike-gansu-province-china-killing-at-least-89-people-and-injuring-over-500.md)
-_Context: China, Gansu province, earthquakes_
+_Context: Gansu province, People's Republic of China, earthquakes_
 
 ### [A Southwest Airlines Boeing 737-700 '''crash-lands''' at New York's LaGuardia Airport, injuring ten passengers. ](/news/2013/07/22/a-southwest-airlines-boeing-737-700-crash-lands-at-new-york-s-laguardia-airport-injuring-ten-passengers.md)
 A Boeing 737 is left with its nose resting against the runway at LaGuardia airport after its landing gear failed.

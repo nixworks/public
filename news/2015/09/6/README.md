@@ -4,7 +4,7 @@
 At least 10 people have died after clinging to their capsized charter boat for 10 hours.
 
 ### [The death toll from the September 1 chemical factory blast in China rises to 13. ](/news/2015/09/6/the-death-toll-from-the-september-1-chemical-factory-blast-in-china-rises-to-13.md)
-_Context: China_
+_Context: People's Republic of China_
 
 ### [A Spain car rally race crash leaves six dead after a car veers off a straight section into spectators. ](/news/2015/09/6/a-spain-car-rally-race-crash-leaves-six-dead-after-a-car-veers-off-a-straight-section-into-spectators.md)
 Six people, including a pregnant woman, are killed after a car veers off the road during a car rally in north-western Spain.

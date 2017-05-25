@@ -16,7 +16,7 @@ _Context: Alan Johnson, Home Secretary, Joint Terrorism Analysis Centre, United 
 _Context: Guantanamo Bay detention camp, United States, United States Justice Department, detainees, detention camps, task force_
 
 ### [Former U.S. Air Force lieutenant colonel James Fondren is sentenced to three years in prison for providing classified documents to Chinese spy Tai Shen Kuo. ](/news/2010/01/22/former-u-s-air-force-lieutenant-colonel-james-fondren-is-sentenced-to-three-years-in-prison-for-providing-classified-documents-to-chinese-s.md)
-_Context: China, James Fondren, Tai Shen Kuo, United States, United States Air Force, classified document, espionage, lieutenant colonel, prison_
+_Context: James Fondren, People's Republic of China, Tai Shen Kuo, United States, United States Air Force, classified document, espionage, lieutenant colonel, prison_
 
 ### [A Nuremberg court issues an arrest warrant for former Argentine leader Jorge Rafael Videla, on suspicion of killing a German man. ](/news/2010/01/22/a-nuremberg-court-issues-an-arrest-warrant-for-former-argentine-leader-jorge-rafael-videla-on-suspicion-of-killing-a-german-man.md)
 _Context: Argentina, German, Jorge Rafael Videla, Nuremberg, arrest warrant_
@@ -25,7 +25,7 @@ _Context: Argentina, German, Jorge Rafael Videla, Nuremberg, arrest warrant_
 _Context: Belgrade, Bishop Irinej of Nis, Electoral Synod, Serbian Orthodox Church, Serbian Patriarch_
 
 ### [European banking stocks drop sharply following U.S. President Barack Obama's plans to restrict activities of the biggest American banks. ](/news/2010/01/22/european-banking-stocks-drop-sharply-following-u-s-president-barack-obama-s-plans-to-restrict-activities-of-the-biggest-american-banks.md)
-_Context: Barack Obama, Europe, U.S. President, United States, banking_
+_Context: Barack Obama, Europe, President, United States, banking_
 
 ### [The Supreme Court of Nigeria gives the government 14 days to decide whether ailing President Umaru Yar'Adua is fit to rule the country. ](/news/2010/01/22/the-supreme-court-of-nigeria-gives-the-government-14-days-to-decide-whether-ailing-president-umaru-yar-adua-is-fit-to-rule-the-country.md)
 _Context: Nigeria, President of Nigeria, Supreme Court, Umaru Yar'Adua, government_

@@ -25,7 +25,7 @@ A new Saudi-led Islamic alliance to fight terrorism will share information and t
 United Nations experts said in a new report on Tuesday the launch used ballistic missile technology banned under a June 2010 resolution.
 
 ### [A Baltimore, Maryland deadlocked jury was told by the trial judge to resume deliberations after closing arguments in the first trial of police officer William Porter, charged in the death of Freddie Gray.  With demonstrations and unrest following the death, the city has cancelled leave for police officers and the mayor has called for calm when a verdict is announced. ](/news/2015/12/15/a-baltimore-maryland-deadlocked-jury-was-told-by-the-trial-judge-to-resume-deliberations-after-closing-arguments-in-the-first-trial-of-poli.md)
-_Context: Baltimore, MD, death of Freddie Gray_
+_Context: Baltimore, Maryland, death of Freddie Gray_
 
 ### [Schools in the Los Angeles Unified School District close after receiving an unspecified "electronic" threat. Later, authorities conclude the threat was a hoax, and announce schools will reopen Wednesday. New York City schools' initial response to a similar threatening email was to treat it as a hoax. The emails were largely identical and had been routed through a server in Frankfurt, apparently by the same person. ](/news/2015/12/15/schools-in-the-los-angeles-unified-school-district-close-after-receiving-an-unspecified-electronic-threat-later-authorities-conclude-the.md)
 More than 1,000 schools in Los Angeles are closed and being searched after receiving an unspecified email threat, say US police.

@@ -22,7 +22,7 @@ Royal Marines are deployed to help with the sandbagging of properties at risk fr
 Rescue workers at the Doornkop gold mine in South Africa say they have recovered eight bodies after a fire, with one miner still unaccounted for.
 
 ### [Chinese media criticizes Philippine President Benigno Aquino III for his remarks the previous day. ](/news/2014/02/6/chinese-media-criticizes-philippine-president-benigno-aquino-iii-for-his-remarks-the-previous-day.md)
-_Context: Benigno Aquino III, China, Philippine_
+_Context: Benigno Aquino III, People's Republic of China, Philippine_
 
 ### [In an Olympic first, UN Secretary-General Ban Ki-moon today addresses the IOC Session in advance of the Olympic Winter Games in Sochi. ](/news/2014/02/6/in-an-olympic-first-un-secretary-general-ban-ki-moon-today-addresses-the-ioc-session-in-advance-of-the-olympic-winter-games-in-sochi.md)
 _Context: Ban Ki-moon_

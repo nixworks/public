@@ -25,7 +25,7 @@ _Context: African National Congress, Congress of South African Trade Unions, Jac
 _Context: Afghanistan, Italian, state funeral_
 
 ### [ Russia's first President Boris Yeltsin spent his retirement in a "golden cage", his phone tapped and the Kremlin controlling visitors, a colleague reveals. ](/news/2009/09/21/russia-s-first-president-boris-yeltsin-spent-his-retirement-in-a-golden-cage-his-phone-tapped-and-the-kremlin-controlling-visitors-a-co.md)
-_Context: Boris Yeltsin, Russia, Russian Government, Russian President_
+_Context: Boris Yeltsin, Russia, Russia President, Russian Government_
 
 ### [ Sir Alex Ferguson, Gary Lineker and Fabio Capello are among 1,000 guests at a memorial service held for the recently deceased football manager Sir Bobby Robson. ](/news/2009/09/21/sir-alex-ferguson-gary-lineker-and-fabio-capello-are-among-1-000-guests-at-a-memorial-service-held-for-the-recently-deceased-football-mana.md)
 _Context: Fabio Capello, Gary Lineker, Sir Alex Ferguson, Sir Bobby Robson, association football_

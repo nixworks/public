@@ -4,7 +4,7 @@
 _Context: Mexico, Oaxaca_
 
 ### [ President of Brazil Luiz Inacio Lula da Silva wins a second term in a landslide victory with 61 per cent of voters supporting him. ](/news/2006/10/29/president-of-brazil-luiz-ina-cio-lula-da-silva-wins-a-second-term-in-a-landslide-victory-with-61-per-cent-of-voters-supporting-him.md)
-_Context: Lula, President, a landslide victory_
+_Context: Lula, President of Brazil, a landslide victory_
 
 ### [ Serbian constitutional referendum, 2006: Serbian voters approve the new constitution. ([http://news.bbc.co.uk/2/hi/europe/6097344.stm BBC])](/news/2006/10/29/serbian-constitutional-referendum-2006-serbian-voters-approve-the-new-constitution-http-news-bbc-co-uk-2-hi-europe-6097344-stm-bbc.md)
 _Context: Serbian constitutional referendum, 2006_

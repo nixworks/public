@@ -7,7 +7,7 @@ _Context: June 24, May 27, Ukrainian President, Ukrainian parliamentary election
 _Context: Iraq, October 1, United States, United States House of Representatives, legislation_
 
 ### [ Boris Yeltsin, the first President of Russia, is buried at Novodevichy Cemetery following a funeral service in central Moscow. ](/news/2007/04/25/boris-yeltsin-the-first-president-of-russia-is-buried-at-novodevichy-cemetery-following-a-funeral-service-in-central-moscow.md)
-_Context: Boris Yeltsin, Moscow, Novodevichy Cemetery, Russian President, funeral_
+_Context: Boris Yeltsin, Moscow, Novodevichy Cemetery, Russia President, funeral_
 
 ### [ Former Polish government minister Barbara Blida commits suicide during a police searching of her house ](/news/2007/04/25/former-polish-government-minister-barbara-blida-commits-suicide-during-a-police-searching-of-her-house.md)
 _Context: Barbara Blida, Poland, suicide_
@@ -19,7 +19,7 @@ _Context: Assistant Secretary of State for European and Eurasian Affairs, Belaru
 _Context: 2007 presidential election, Democratic Party, European Union, France, Franois Bayrou, Union for French Democracy, centrist, go to the polls_
 
 ### [ China detains four United States citizens who were protesting for Tibetan independence and against the Beijing Olympics at the Mount Everest base camp. ](/news/2007/04/25/china-detains-four-united-states-citizens-who-were-protesting-for-tibetan-independence-and-against-the-beijing-olympics-at-the-mount-everes.md)
-_Context: Beijing Olympiad, China, Mount Everest, Tibetan independence, United States, base camp_
+_Context: Beijing Olympiad, Mount Everest, People's Republic of China, Tibetan independence, United States, base camp_
 
 ### [ Japanese police raid the offices of a pro-North Korean group in relation to the alleged kidnapping of two children in the 1970s. ](/news/2007/04/25/japanese-police-raid-the-offices-of-a-pro-north-korean-group-in-relation-to-the-alleged-kidnapping-of-two-children-in-the-1970s.md)
 _Context: Japanese police, kidnapped, pro-North Korean group_

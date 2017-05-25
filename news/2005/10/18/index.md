@@ -19,7 +19,7 @@ _Context: Australia, First World War, William Evan Allan_
 _Context: Portsmouth, Spinnaker Tower, United Kingdom_
 
 ### [ Authorities closed one of two highway tunnels carrying traffic under Baltimore, Maryland's harbor following a threat to detonate explosive filled vehicles.](/news/2005/10/18/authorities-closed-one-of-two-highway-tunnels-carrying-traffic-under-baltimore-maryland-s-harbor-following-a-threat-to-detonate-explosive.md)
-_Context: Baltimore, MD_
+_Context: Baltimore, Maryland_
 
 ## [Previous Day...](/news/2005/10/17/index.md)
 

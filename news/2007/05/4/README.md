@@ -10,7 +10,7 @@ _Context: Alaska, Republican, United States, Veco Corp, bribe_
 A heavy-lift Ariane-5 rocket blasted off from French Guiana on Friday putting into orbit two telecommunications satellites, space officials said.
 
 ### [ The Prime Minister of Singapore Lee Hsien Loong visits Washington D.C. for talks with the President of the United States George W. Bush about South East Asia. ](/news/2007/05/4/the-prime-minister-of-singapore-lee-hsien-loong-visits-washington-d-c-for-talks-with-the-president-of-the-united-states-george-w-bush-abo.md)
-_Context: George W. Bush, Lee Hsien Loong, Prime Minister of Singapore, South-East Asia, U.S. President, Washington, D.C._
+_Context: George W. Bush, Lee Hsien Loong, President, Prime Minister of Singapore, South-East Asia, Washington, D.C._
 
 ### [ The Labour Party performs poorly in local and regional elections in the UK, with the Scottish National Party winning the most seats in the Scottish Parliament and the Conservatives performing well in English local government elections. ](/news/2007/05/4/the-labour-party-performs-poorly-in-local-and-regional-elections-in-the-uk-with-the-scottish-national-party-winning-the-most-seats-in-the.md)
 The outcome was a sharp rebuke to Tony Blair and an embarrassing debut for Gordon Brown, a Scot who is expected to become Britain’s next prime minister.
@@ -25,7 +25,7 @@ _Context: Front for Democracy and the Republic, Mali, last Sunday's presidential
 _Context: 1982, 1983, Carlos the Jackal, France, terrorist_
 
 ### [ International delegates reach agreement at the Intergovernmental Panel on Climate Change on the summary report on mitigating climate change despite some concerns raised by China. ](/news/2007/05/4/international-delegates-reach-agreement-at-the-intergovernmental-panel-on-climate-change-on-the-summary-report-on-mitigating-climate-change.md)
-_Context: China, Intergovernmental Panel on Climate Change, summary report on mitigating climate change_
+_Context: Intergovernmental Panel on Climate Change, People's Republic of China, summary report on mitigating climate change_
 
 ### [ Major world and Middle East powers discuss the future of Iraq on the second day of an International Compact for Iraq conference in Egypt. ](/news/2007/05/4/major-world-and-middle-east-powers-discuss-the-future-of-iraq-on-the-second-day-of-an-international-compact-for-iraq-conference-in-egypt.md)
 _Context: Egypt, International Compact for Iraq, Iraq, Middle East_

@@ -10,7 +10,7 @@ A suicide bomber targeted a foreign forces convoy in downtown Kabul during morni
 _Context: Hezbollah, Idlib, Lebanon, Russia, Russian military intervention in the Syrian Civil War, Syrian Army, Syrian Civil War, Syrian Observatory for Human Rights_
 
 ### [At least eight people are killed following a suicide bomb attack in northern Cameroon's Sangueleri region near the Nigerian border. Boko Haram have previously carried out attacks in the region. ](/news/2015/10/11/at-least-eight-people-are-killed-following-a-suicide-bomb-attack-in-northern-cameroon-s-sangueleri-region-near-the-nigerian-border-boko-har.md)
-_Context: Boko Haram, Boko Haram insurgency in Cameroon, Cameroon, Far North Region, Nigeria, suicide bomb attack_
+_Context: Boko Haram, Boko Haram insurgency in Cameroon, Cameroon, Far North Region, Nigeria, suicide bombing_
 
 ### [The Turkish Air Force launches a wave of airstrikes against PKK targets in northern Iraq and southeastern Turkey. Turkish security officials have also rejected a PKK ceasefire declared on Saturday shortly after the bombings in Ankara, saying "The PKK ceasefire means nothing for us. The operations will continue without a break". ](/news/2015/10/11/the-turkish-air-force-launches-a-wave-of-airstrikes-against-pkk-targets-in-northern-iraq-and-southeastern-turkey-turkish-security-officials.md)
 Turkish warplanes struck Kurdistan Workers Party (PKK) militant targets in northern Iraq and southeastern Turkey on Saturday and Sunday, pressing their military campaign a day after the rebel group ordered its fighters to halt attacks on Turkish soil.

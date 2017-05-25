@@ -1,7 +1,7 @@
 ## [2015-07-22](/news/2015/07/22/index.md)
 
 ### [ A suicide bomb attack kills at least 15 people in northern Afghanistan. ](/news/2015/07/22/a-suicide-bomb-attack-kills-at-least-15-people-in-northern-afghanistan.md)
-_Context: Afghanistan, suicide bomb attack_
+_Context: Afghanistan, suicide bombing_
 
 ### [ Two explosions in the Nigerian city of Gombe killed at least 29 people. ](/news/2015/07/22/two-explosions-in-the-nigerian-city-of-gombe-killed-at-least-29-people.md)
 At least 29 people died and 60 were wounded in multiple bomb blasts at two bus stations in the northern Nigerian city of Gombe on Wednesday evening, a Red Cross official said.

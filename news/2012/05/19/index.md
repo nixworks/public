@@ -23,7 +23,7 @@ A rally car ploughs into spectators in the Var region of southern France, killin
 Trio accused of making petrol bombs and plotting attacks, but supporters say suspect materials were beer-making kit.
 
 ### [Chinese activist Chen Guangcheng and his wife and children arrive at Newark Liberty International Airport, New Jersey, after boarding a flight from Beijing. ](/news/2012/05/19/chinese-activist-chen-guangcheng-and-his-wife-and-children-arrive-at-newark-liberty-international-airport-new-jersey-after-boarding-a-flig.md)
-_Context: Beijing, Chen Guangcheng, Newark Liberty_
+_Context: Beijing, Chen Guangcheng, Newark Liberty International Airport_
 
 ### [Retired American psychiatrist Robert Spitzer apologises for his "fatally flawed" study, published in 2001, which falsely lent credence to the myth that gay people could be "cured". ](/news/2012/05/19/retired-american-psychiatrist-robert-spitzer-apologises-for-his-fatally-flawed-study-published-in-2001-which-falsely-lent-credence-to-th.md)
 _Context: Robert Spitzer_

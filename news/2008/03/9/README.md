@@ -22,7 +22,7 @@ _Context: People's Party, Socialist Workers' Party, Spain, general election_
 _Context: Argentina, Buenos Aires, Dolores, Mar del Plata_
 
 ### [ An official reports that last week a flight crew prevented an apparent attempt to crash a Chinese jetliner. ](/news/2008/03/9/an-official-reports-that-last-week-a-flight-crew-prevented-an-apparent-attempt-to-crash-a-chinese-jetliner.md)
-_Context: China_
+_Context: People's Republic of China_
 
 ## [Previous Day...](/news/2008/03/8/index.md)
 

@@ -64,7 +64,7 @@ _Context: Central Tibetan Administration, Lobsang Sangay, Prime Minister of the,
 _Context: People Action Party, Singapore, election_
 
 ### [In response to persistent accusations by potential Republican primary candidate Donald Trump and others, President of the United States Barack Obama releases his long-form birth certificate, certifying his birth in the state of Hawaii. ](/news/2011/04/27/in-response-to-persistent-accusations-by-potential-republican-primary-candidate-donald-trump-and-others-president-of-the-united-states-bara.md)
-_Context: Barack Obama, Barack Obama citizenship conspiracy theories, Donald Trump, Hawaii, U.S. President, birth certificate, nomination_
+_Context: Barack Obama, Barack Obama citizenship conspiracy theories, Donald Trump, Hawaii, President, birth certificate, nomination_
 
 ### [Governor Brian Sandoval of Nevada appoints US Congressman Dean Heller to replace Senator John Ensign. ](/news/2011/04/27/governor-brian-sandoval-of-nevada-appoints-us-congressman-dean-heller-to-replace-senator-john-ensign.md)
 Republican Congressman Dean Heller is appointed to replace a Nevada senator who is resigning over an inquiry into his affair with an aide.

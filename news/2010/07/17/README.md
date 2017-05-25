@@ -55,7 +55,7 @@ Two oil pipelines in the Chinese port city of Dalian have exploded, starting a f
 _Context: Greece_
 
 ### [Twenty-eight coal miners die after a fire in their mine near Hancheng City in China's Shaanxi Province. ](/news/2010/07/17/twenty-eight-coal-miners-die-after-a-fire-in-their-mine-near-hancheng-city-in-china-s-shaanxi-province.md)
-_Context: China, Hancheng City, Shaanxi province, coal mine_
+_Context: Hancheng City, People's Republic of China, Shaanxi province, coal mine_
 
 ### [German Foreign Minister Guido Westerwelle criticises a reported Israeli plan that would lead to Gaza's separation from the rest of the Palestinian territories becoming final. ](/news/2010/07/17/german-foreign-minister-guido-westerwelle-criticises-a-reported-israeli-plan-that-would-lead-to-gaza-s-separation-from-the-rest-of-the-pales.md)
 German Foreign Minister Guido Westerwelle criticized on Saturday a reported Israeli plan that would lead to Gaza’s separation from the rest of the Palestinian territories becoming final. “We don’t wan

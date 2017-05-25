@@ -4,7 +4,7 @@
 _Context: Biloxi, Mississippi, Greater New Orleans, Gulf Coast of the United States, Houston, Texas, Hurricane Katrina, Louisiana Superdome, New Orleans, Louisiana, Ray Nagin, Reliant Astrodome, Strategic Petroleum Reserve, Texas, United States_
 
 ### [ Baghdad bridge stampede:  Close to 1,200 people were crushed to death or died in a stampede on the Al-Aaimmah bridge over the river Tigris in Baghdad on Wednesday when thousands of Shia Muslims began marching to a shrine to the Imam Musa al-Kazim. The stampede appears to have been caused by rumours of a series of suicide attacks. Earlier seven people in attendance died when insurgents fired mortars into the crowd. ](/news/2005/08/31/baghdad-bridge-stampede-p-close-to-1-200-people-were-crushed-to-death-or-died-in-a-stampede-on-the-al-aaimmah-bridge-over-the-river-tigris.md)
-_Context: Al-Aaimmah bridge, Baghdad, Baghdad bridge stampede, Mortar, Musa al-Kazim, Shi'a, Tigris River, militant, shrine, suicide bomb attack_
+_Context: Al-Aaimmah bridge, Baghdad, Baghdad bridge stampede, Mortar, Musa al-Kazim, Shi'a, Tigris River, militant, shrine, suicide bombing_
 
 ### [ The relatives of the four Israeli Arabs killed on a bus in Galilee have been denied the usual terrorism compensation payments because their killer was a Jew, and thus not an "enemy of Israel" as defined by Israeli law. ](/news/2005/08/31/the-relatives-of-the-four-israeli-arabs-killed-on-a-bus-in-galilee-have-been-denied-the-usual-terrorism-compensation-payments-because-their.md)
 _Context: Galilee, Israeli Arab, Jew_

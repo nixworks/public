@@ -28,7 +28,7 @@ The Taliban appoint a successor to Mullah Omar and confirm that the veteran lead
 Former high-ranking Chinese army figure Guo Boxiong is expelled from the Communist Party amid corruption allegations.
 
 ### [Chen Min'er replaces Zhao Kezhi as the Communist Party Secretary of Guizhou province, China. Zhao awaits assignment. ](/news/2015/07/30/chen-min-er-replaces-zhao-kezhi-as-the-communist-party-secretary-of-guizhou-province-china-zhao-awaits-assignment.md)
-_Context: Chen Min'er, China, Communist Party Secretary, Guizhou, Zhao Kezhi_
+_Context: Chen Min'er, Communist Party Secretary, Guizhou, People's Republic of China, Zhao Kezhi_
 
 ## [Previous Day...](/news/2015/07/29/index.md)
 

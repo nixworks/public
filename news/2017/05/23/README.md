@@ -6,7 +6,7 @@ Children were among those killed in the blast after a concert by US singer Arian
 ### [2017 Marawi clash Philippine president Rodrigo Duterte declares martial law on the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/2017-marawi-clash-pphilippine-president-rodrigo-duterte-declares-martial-law-on-the-island-of-mindanao-after-maute-militants-clash-with-army.md)
 Philippine President Rodrigo Duterte makes the declaration while on an official visit to Russia, as Maute Group members attack Marawi City in Mindanao
 
-### [ The U.S. Navy SEAL Team Six's raid on an Al Qaeda in Yemen compound in the Ma'rib Governorate kills at least seven militants. Seal Team Six also suffered unspecified injuries that were treated at the site. ](/news/2017/05/23/the-u-s-navy-seal-team-six-s-raid-on-an-al-qaeda-in-yemen-compound-in-the-ma-rib-governorate-kills-at-least-seven-militants-seal-team-six.md)
+### [ The U.S. Navy SEAL Team Six's raid on an Al Qaeda in Yemen compound in the Ma'rib Governorate kills at least seven militants. SEAL Team Six also suffered unspecified injuries that were treated at the site. ](/news/2017/05/23/the-u-s-navy-seal-team-six-s-raid-on-an-al-qaeda-in-yemen-compound-in-the-ma-rib-governorate-kills-at-least-seven-militants-seal-team-six.md)
 At least seven militants were killed during a raid by U.S. Special Forces troops against an al Qaeda compound in Yemen on Tuesday morning, the Pentagon said, the deepest the United States has penetrated Yemen to target the group.
 
 ### [A speech by a Chinese-national student in the University of Maryland creates controversy. ](/news/2017/05/23/a-speech-by-a-chinese-national-student-in-the-university-of-maryland-creates-controversy.md)

@@ -25,7 +25,7 @@ _Context: Berlin, JPMorgan, London_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [China's 2013 economy figures show the slowest rate of growth since 1999. However, the 7.8% growth figure was higher than the predicted number of 7.5%. ](/news/2014/01/20/china-s-2013-economy-figures-show-the-slowest-rate-of-growth-since-1999-however-the-7-8-growth-figure-was-higher-than-the-predicted-numbe.md)
-_Context: China_
+_Context: People's Republic of China_
 
 ### [A 6.2 magnitude earthquake occurs on the lower North Island of New Zealand near the capital Wellington. ](/news/2014/01/20/a-6-2-magnitude-earthquake-occurs-on-the-lower-north-island-of-new-zealand-near-the-capital-wellington.md)
 Do you have any photos or video? Contact the Herald here . - New Zealand Herald

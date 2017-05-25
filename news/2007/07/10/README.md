@@ -1,7 +1,7 @@
 ## [2007-07-10](/news/2007/07/10/index.md)
 
 ### [ President Luiz Incio Lula da Silva announces plans to build a nuclear-powered submarine to patrol the waters off Brazil's coast at a cost of US$500 million. ](/news/2007/07/10/president-luiz-inacio-lula-da-silva-announces-plans-to-build-a-nuclear-powered-submarine-to-patrol-the-waters-off-brazil-s-coast-at-a-cost.md)
-_Context: Brazil, Luiz Incio Lula da Silva, President, US$, nuclear submarine_
+_Context: Brazil, Luiz Incio Lula da Silva, President of Brazil, US$, nuclear submarine_
 
 ### [ Mexico's Interior Ministry increases security on strategic installations following attacks on pipelines. The People's Revolutionary Army (EPR) has claimed responsibility. ](/news/2007/07/10/mexico-s-interior-ministry-increases-security-on-strategic-installations-following-attacks-on-pipelines-the-people-s-revolutionary-army-e.md)
 _Context: Mexico, People's Revolutionary Army, Secretary of the Interior, pipeline_

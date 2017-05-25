@@ -37,7 +37,7 @@ _Context: Detroit, Michigan, Windsor, Ontario, a bridge between_
 Japanese police arrest the last fugitive of the Aum Shinrikyo cult wanted for the 1995 nerve gas attack on the Tokyo subway, ending a 17-year manhunt.
 
 ### [China suspends three officials and the government of Ankang city apologizes to a woman, Feng Jianmei, 23, who is forced to undergo an illegal abortion seven months into her pregnancy after graphic photos of the mother and her dead baby are circulated online. ](/news/2012/06/15/china-suspends-three-officials-and-the-government-of-ankang-city-apologizes-to-a-woman-feng-jianmei-23-who-is-forced-to-undergo-an-illega.md)
-_Context: Ankang city, China, Feng Jianmei_
+_Context: Ankang city, Feng Jianmei, People's Republic of China_
 
 ### [Baker Atyani, ''Al Arabiya{{'}}s'' TV bureau chief for southeast Asia, disappears with four other people on the restive southern Philippine island of Jolo where Muslim militants are active. ](/news/2012/06/15/baker-atyani-al-arabiya-s-tv-bureau-chief-for-southeast-asia-disappears-with-four-other-people-on-the-restive-southern-philippine.md)
 _Context: Al Arabiya, Jolo, Southeast Asia_

@@ -10,7 +10,7 @@ Russia said Wednesday it would press ahead with its bombing campaign in Syria un
 The Syrian army and its allies have broken a three-year rebel siege of two Shi’ite towns in northwest Syria, government and rebel groups said on Wednesday, cutting off a main insurgent route to nearby Turkey.
 
 ### [China's state owned ChemChina offers to buy Swiss pesticide and seed manufacturer Syngenta for $43 billion. ](/news/2016/02/3/china-s-state-owned-chemchina-offers-to-buy-swiss-pesticide-and-seed-manufacturer-syngenta-for-43-billion.md)
-_Context: ChemChina, China, Swiss, Syngenta, pesticides_
+_Context: ChemChina, People's Republic of China, Swiss, Syngenta, pesticides_
 
 ### [A Daallo Airlines operated commercial plane, bound for Djibouti, makes an emergency landing at Aden Adde International Airport in Mogadishu, following an unexplained explosion that left a gaping hole in its fuselage. ](/news/2016/02/3/a-daallo-airlines-operated-commercial-plane-bound-for-djibouti-makes-an-emergency-landing-at-aden-adde-international-airport-in-mogadishu.md)
 An investigation is launched in Somalia after a plane made an emergency landing with a gaping hole in its fuselage in the capital, Mogadishu.

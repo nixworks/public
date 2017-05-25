@@ -7,7 +7,7 @@ Egyptian forces kill 20 people during air strikes on Sinai, in response to deadl
 Jordan says Riyad Hijab and his family arrived Wednesday, contradicting earlier reports he entered kingdom on Monday.
 
 ### [China announces plan to close one-third of the nation's 23 rare earth mines and about half of 99 smelting companies. ](/news/2012/08/8/china-announces-plan-to-close-one-third-of-the-nation-s-23-rare-earth-mines-and-about-half-of-99-smelting-companies.md)
-_Context: China, rare earth element_
+_Context: People's Republic of China, rare earth element_
 
 ### [2012 Pacific typhoon season:Typhoon Haikui makes landfall over Xiangshan County in the Chinese province of Zhejiang. ](/news/2012/08/8/2012-pacific-typhoon-season-ptyphoon-haikui-makes-landfall-over-xiangshan-county-in-the-chinese-province-of-zhejiang.md)
 Nineteen people are now known to have died in severe floods in the Philippines, as officials warn heavy rain will continue to fall.

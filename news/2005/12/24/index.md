@@ -10,7 +10,7 @@ _Context: 2004 Indian Ocean tsunami, Thailand, United Kingdom_
 _Context: African Union, Condoleezza Rice, Congressman, Darfur conflict_
 
 ### [ A tourism-promoting agency announced that it is purchasing the Maryland land, and the small one-room building thereon, said to have been the original location that inspired the novel "Uncle Tom's Cabin," written by Harriet Beecher Stowe. ](/news/2005/12/24/a-tourism-promoting-agency-announced-that-it-is-purchasing-the-maryland-land-and-the-small-one-room-building-thereon-said-to-have-been-th.md)
-_Context: Harriet Beecher Stowe, MD, Uncle Tom's Cabin_
+_Context: Harriet Beecher Stowe, Maryland, Uncle Tom's Cabin_
 
 ## [Previous Day...](/news/2005/12/23/index.md)
 

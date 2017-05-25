@@ -13,7 +13,7 @@ _Context: India, Pakistan, its border_
 _Context: South Korea, television workers_
 
 ### [ China's J-10B, the newest member of the Chengdu J-10 family (also known as the '''FC-20'''), makes a successful maiden flight at Chengdu. About 36-100 of these J-10Bs will be delivered to the Pakistani Air Force this year under the designation "FC-20"[http://cnair.top81.cn/J-10_J-11_FC-1.htm][http://forum.pakistanidefence.com/index.php?showtopic=79705].](/news/2008/12/26/china-s-j-10b-the-newest-member-of-the-chengdu-j-10-family-also-known-as-the-fc-20-makes-a-successful-maiden-flight-at-chengdu-a.md)
-_Context: Chengdu, Chengdu J-10, China, J-10B, Pakistani Air Force_
+_Context: Chengdu, Chengdu J-10, J-10B, Pakistani Air Force, People's Republic of China_
 
 ## [Previous Day...](/news/2008/12/25/index.md)
 

@@ -22,7 +22,7 @@ Pieces of an ancient Egyptian necropolis which were pillaged from Egypt in 1999 
 A cartoonist has disappeared from public view because she&#39;s on an Islamic cleric&#39;s hitlist for declaring &quot;Everybody Draw Mohammed Day&quot; last spring, according to a newspaper.
 
 ### [A Chinese survey shows that 91 percent of the population oppose raising retirement age. The retirement age in China is generally set at 60 for men and 50-55 for women. ](/news/2010/09/15/a-chinese-survey-shows-that-91-percent-of-the-population-oppose-raising-retirement-age-the-retirement-age-in-china-is-generally-set-at-60-f.md)
-_Context: China, retirement_
+_Context: People's Republic of China, retirement_
 
 ### [Japan intervenes in the foreign exchange market for the first time in six years to reduce the exchange rate for the yen in order to stimulate the Japanese economy. ](/news/2010/09/15/japan-intervenes-in-the-foreign-exchange-market-for-the-first-time-in-six-years-to-reduce-the-exchange-rate-for-the-yen-in-order-to-stimulat.md)
 _Context: Japan, Japanese economy, exchange rate, foreign exchange, yen_

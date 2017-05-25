@@ -13,7 +13,7 @@ _Context: 2013 Hawija clashes, Hawija, Iraq, Sunni Muslim_
 _Context: Pakistan, Pakistani police, Pervez Musharraf, President, War in North-West Pakistan, car bomb, house arrest_
 
 ### [2013 Xinjiang unrest:Violence in Bachu County, Kashgar Prefecture, of China's Xinjiang results in 21 people killed, including 15 police and social workers. Of the 15 government casualties, 10 members are ethnic Uighur, 3 are Han Chinese, and 2 are ethnic Mongolian. ](/news/2013/04/23/2013-xinjiang-unrest-pviolence-in-bachu-county-kashgar-prefecture-of-china-s-xinjiang-results-in-21-people-killed-including-15-police-and.md)
-_Context: 2013 Xinjiang unrest, Bachu County, China, Chinese, Kashgar Prefecture, Mongolia, Uighur, Xinjiang_
+_Context: 2013 Xinjiang unrest, Bachu County, Chinese, Kashgar Prefecture, Mongolia, People's Republic of China, Uighur, Xinjiang_
 
 ### [Senkaku Islands dispute:The Government of Japan summons the ambassador from the People's Republic of China after a flotilla of Chinese ships sail near the dispute Senkaku Islands. ](/news/2013/04/23/senkaku-islands-dispute-pthe-government-of-japan-summons-the-ambassador-from-the-people-s-republic-of-china-after-a-flotilla-of-chinese-ship.md)
 Japanese prime minister threatens force if China attempts to land on island chain in East China Sea.

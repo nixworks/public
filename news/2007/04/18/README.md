@@ -34,7 +34,7 @@ The mayor of the Japanese city of Nagasaki died early on Wednesday after being g
 _Context: People's Republic of China, high-speed rail_
 
 ### [ Thirty-two steel workers are killed and two more injured in China after a ladle full of liquid steel failed, engulfing an adjacent room full of workers. ](/news/2007/04/18/thirty-two-steel-workers-are-killed-and-two-more-injured-in-china-after-a-ladle-full-of-liquid-steel-failed-engulfing-an-adjacent-room-ful.md)
-_Context: China, ladle_
+_Context: People's Republic of China, ladle_
 
 ### [ UEFA chooses Poland and Ukraine as joint hosts for the 2012 UEFA European Football Championship. ](/news/2007/04/18/uefa-chooses-poland-and-ukraine-as-joint-hosts-for-the-2012-uefa-european-football-championship.md)
 _Context: 2012 UEFA European Football Championship, Poland, UEFA, Ukrainians_

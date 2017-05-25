@@ -10,7 +10,7 @@ _Context: Alabama, Geneva County, United States, shooting spree_
 _Context: Eurovision Song Contest, Georgia, Stephane & 3G, We Don't Wanna Put In, pop_
 
 ### [ A suicide attack kills 33 people in Baghdad, Iraq. ](/news/2009/03/10/a-suicide-attack-kills-33-people-in-baghdad-iraq.md)
-_Context: Baghdad, Iraq, suicide bomb attack_
+_Context: Baghdad, Iraq, suicide bombing_
 
 ### [ Northern Ireland's Police Service arrests two men in Craigavon for murdering an officer. ](/news/2009/03/10/northern-ireland-s-police-service-arrests-two-men-in-craigavon-for-murdering-an-officer.md)
 Two man have been arrested amid widespread condemnation of the murder of a policeman in Northern Ireland.

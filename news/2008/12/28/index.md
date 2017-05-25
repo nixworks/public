@@ -13,7 +13,7 @@ _Context: Ban Ki-moon, European Union, France, People's Republic of China, Russi
 _Context: 2008 Garamba offensive, Democratic Republic of the Congo, Lord's Resistance Army, Uganda, Ugandan soldier_
 
 ### [ A suicide bomber kills at least 16 people, 14 of them children, and injures 58 in Afghanistan's Khost Province. ](/news/2008/12/28/a-suicide-bomber-kills-at-least-16-people-14-of-them-children-and-injures-58-in-afghanistan-s-khost-province.md)
-_Context: Afghanistan, Khost, suicide bomb attack_
+_Context: Afghanistan, Khost, suicide bombing_
 
 ### [ A suicide bomber kills five Department of Civil Defence members and injures four others in Wattala, Sri Lanka. ](/news/2008/12/28/a-suicide-bomber-kills-five-department-of-civil-defence-members-and-injures-four-others-in-wattala-sri-lanka.md)
 _Context: Department of Civil Defence, Sri Lanka, Wattala_

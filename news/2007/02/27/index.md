@@ -25,7 +25,7 @@ _Context: FDA, Sanofi-Aventis, bird flu, vaccine_
 _Context: Israel Defence Forces, Nablus, West Bank_
 
 ### [ 2007 Bagram Air Base bombing: A suicide attack at Bagram Air Base while Vice President of the United States Dick Cheney is visiting kills 23, but the Vice President is not injured.  The Taliban claims responsibility, and declares that Cheney was their intended target. ](/news/2007/02/27/2007-bagram-air-base-bombing-a-suicide-attack-at-bagram-air-base-while-vice-president-of-the-united-states-dick-cheney-is-visiting-kills-2.md)
-_Context: 2007 Bagram Air Base bombing, Bagram Air Base, Dick Cheney, Taliban, U.S. Vice President, assassinated, suicide bomb attack_
+_Context: 2007 Bagram Air Base bombing, Bagram Air Base, Dick Cheney, Taliban, U.S. Vice President, assassinated, suicide bombing_
 
 ### [ North Korea and South Korea meet at a ministerial level for the first time since the conclusion of six-party talks about the North Korean nuclear weapons program. ](/news/2007/02/27/north-korea-and-south-korea-meet-at-a-ministerial-level-for-the-first-time-since-the-conclusion-of-six-party-talks-about-the-north-korean-n.md)
 _Context: North Korea, North Korean nuclear weapons program, South Korea, six-party talks_

@@ -7,7 +7,7 @@ The last survivors of a Taliban suicide squad have been killed ending a 20 hour 
 _Context: Babil Province, Iraq, car bombing_
 
 ### [Archaeologists in the US state of Maryland claim to have found a fort in the Zekiah Swamp in Charles County built to protect the "friendly" Piscataway Indians in 1680. ](/news/2011/09/14/archaeologists-in-the-us-state-of-maryland-claim-to-have-found-a-fort-in-the-zekiah-swamp-in-charles-county-built-to-protect-the-friendly.md)
-_Context: Archaeologist, Charles County, MD, Piscataway Indians, Zekiah Swamp_
+_Context: Archaeologist, Charles County, Maryland, Piscataway Indians, Zekiah Swamp_
 
 ### [Robert Zoellick, the President of the World Bank, claims that the world economy has entered the "danger zone", with the United States, European Union and Japan having to make tough decisions. ](/news/2011/09/14/robert-zoellick-the-president-of-the-world-bank-claims-that-the-world-economy-has-entered-the-danger-zone-with-the-united-states-europ.md)
 _Context: European Union, Japan, Robert Zoellick, United States, World Bank_

@@ -19,7 +19,7 @@ China rejects allegations of involvement in a cyber-spying campaign targeting th
 Judges including journalist John Pilger voted unanimously for the WikiLeaks founder, calling him &#039;brave, determined, and independent&#039;
 
 ### [The finals of the Scripps National Spelling Bee are held in the US town of Oxon Hill, Maryland with Sukanya Roy of South Abington, Pennsylvania.  ](/news/2011/06/2/the-finals-of-the-scripps-national-spelling-bee-are-held-in-the-us-town-of-oxon-hill-maryland-with-sukanya-roy-of-south-abington-pennsylva.md)
-_Context: MD, Oxon Hill, Pennsylvania, Scripps National Spelling Bee, South Abington_
+_Context: Maryland, Oxon Hill, Pennsylvania, Scripps National Spelling Bee, South Abington_
 
 ### [Following the PlayStation Network outage, the Sony website SonyPictures.com has been hacked, with unencrypted passwords and personal information of Sony customers within the website's database being discovered by the hackers. ](/news/2011/06/2/following-the-playstation-network-outage-the-sony-website-sonypictures-com-has-been-hacked-with-unencrypted-passwords-and-personal-informa.md)
 A hacker group says it has attacked SonyPictures.com and stolen more than one million passwords, e-mail addresses and other information.

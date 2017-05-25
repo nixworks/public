@@ -16,7 +16,7 @@ _Context: Alabama, Don Siegelman, Governor of Alabama, state_
 View the basic ^DJI stock chart on Yahoo Finance. Change the date range, chart type and compare Dow Jones Industrial Average against other companies.
 
 ### [ A suicide bomber attacks the funeral of a Shiite soldier in Kirkuk, Iraq, killing four and wounding 27. ](/news/2006/06/29/a-suicide-bomber-attacks-the-funeral-of-a-shiite-soldier-in-kirkuk-iraq-killing-four-and-wounding-27.md)
-_Context: Iraq, Kirkuk, Shiite, suicide bomb attack_
+_Context: Iraq, Kirkuk, Shiite, suicide bombing_
 
 ### [ The  Supreme Court of the United States rules in ''Hamdan v. Rumsfeld'' that the Bush Administration has no authority to try detained prisoners held in Guantanamo Bay by military tribunal, and that the proceedings violate the Geneva Convention as well as the US constitution. ](/news/2006/06/29/the-supreme-court-of-the-united-states-rules-in-hamdan-v-rumsfeld-that-the-bush-administration-has-no-authority-to-try-detained-priso.md)
 _Context: Geneva Convention, George W. Bush administration, Guantnamo Bay detainment camp, Hamdan v. Rumsfeld, US constitution, United States Supreme Court_

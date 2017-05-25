@@ -7,7 +7,7 @@ _Context: $, New York Mercantile Exchange, barrel, crude oil, price, surge_
 _Context: Clashes in Kenya (2007-present), Kenya_
 
 ### [ Islamic insurgency in Algeria (2002-present): A suicide attack kills at least three people in Naciria, east of Algiers. ](/news/2008/01/2/islamic-insurgency-in-algeria-2002apresent-a-suicide-attack-kills-at-least-three-people-in-naciria-east-of-algiers.md)
-_Context: Algiers, Islamic insurgency in Algeria (2002-present), Naciria, suicide bomb attack_
+_Context: Algiers, Islamic insurgency in Algeria (2002-present), Naciria, suicide bombing_
 
 ### [ A bomb targeting a military bus in Colombo, Sri Lanka kills at least four people including 2 soldiers and injures another 20. ](/news/2008/01/2/a-bomb-targeting-a-military-bus-in-colombo-sri-lanka-kills-at-least-four-people-including-2-soldiers-and-injures-another-20.md)
 _Context: Colombo, Sri Lanka, bomb_

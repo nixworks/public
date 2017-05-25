@@ -7,7 +7,7 @@ _Context: Ted Williams, baseball game, cryonics_
 _Context: Jharkhand_
 
 ### [Senator Trent Lott resigned as Senate Majority Leader, concluding that his approving statements of fellow Senator Strom Thurmond's segregationist run for President of the United States in 1948 had limited his effectiveness and that of his fellow Republicans.](/news/2002/12/20/senator-trent-lott-resigned-as-senate-majority-leader-concluding-that-his-approving-statements-of-fellow-senator-strom-thurmond-s-segregati.md)
-_Context: Republican, Senate Majority Leader, Strom Thurmond, Trent Lott, U.S. President, United States Senate, segregationist_
+_Context: President, Republican, Senate Majority Leader, Strom Thurmond, Trent Lott, United States Senate, segregationist_
 
 ### [Portland Trail Blazers players, Golden State Warriors players and Warriors' fans get involved in a melee after the Trail Blazers beat the Warriors, 113-111 in Oakland. It might be the first time in NBA history that a home team's fans attack the visiting team during or after a game.](/news/2002/12/20/portland-trail-blazers-players-golden-state-warriors-players-and-warriors-fans-get-involved-in-a-melee-after-the-trail-blazers-beat-the-wa.md)
 _Context: Golden State Warriors, NBA's, Oakland, California, Portland Trail Blazers_

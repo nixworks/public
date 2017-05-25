@@ -16,7 +16,7 @@ _Context: Americans, Atlanta, Georgia, Reese Witherspoon_
 Former Divinyls singer Chrissy Amphlett has died aged 53 after suffering from breast cancer and multiple sclerosis.
 
 ### [A mining accident in China's Jilin Province kills at least 18 people and injures 12 others. ](/news/2013/04/21/a-mining-accident-in-china-s-jilin-province-kills-at-least-18-people-and-injures-12-others.md)
-_Context: China, Jilin province, mining accident_
+_Context: Jilin province, People's Republic of China, mining accident_
 
 ### [River flooding continues in six states in the midwestern United States with several towns north of St. Louis, Missouri, expecting the Mississippi River to reach a crest. ](/news/2013/04/21/river-flooding-continues-in-six-states-in-the-midwestern-united-states-with-several-towns-north-of-st-louis-missouri-expecting-the-missis.md)
 _Context: Mississippi River, Missouri, St. Louis's, United States, crest, flooding, midwestern_

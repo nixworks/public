@@ -28,7 +28,7 @@ _Context: David S. Rohde, Taliban, The New York Times_
 Security forces enter Lalgarh region of West Bengal under rebel control.
 
 ### [ At least 67 people are killed and over 200 are injured in a suicide attack near Kirkuk in Iraq. ](/news/2009/06/20/at-least-67-people-are-killed-and-over-200-are-injured-in-a-suicide-attack-near-kirkuk-in-iraq.md)
-_Context: Iraq, Kirkuk, Taza bombing, suicide bomb attack_
+_Context: Iraq, Kirkuk, Taza bombing, suicide bombing_
 
 ## [Previous Day...](/news/2009/06/19/index.md)
 

@@ -10,7 +10,7 @@ _Context: Abdullahi Yusuf Ahmed, President, Somalia, assassinated_
 _Context: British Parliament, Treaty of Lisbon_
 
 ### [ The United States and China agree to negotiate an investment treaty and to cooperate more closely on energy security and global pollution. ](/news/2008/06/18/the-united-states-and-china-agree-to-negotiate-an-investment-treaty-and-to-cooperate-more-closely-on-energy-security-and-global-pollution.md)
-_Context: China, United States, energy security_
+_Context: People's Republic of China, United States, energy security_
 
 ### [ The European Parliament passes legislation to allow undocumented aliens to be held in detention centres for up to 18 months and banned from European Union territory for five years. ](/news/2008/06/18/the-european-parliament-passes-legislation-to-allow-undocumented-aliens-to-be-held-in-detention-centres-for-up-to-18-months-and-banned-from.md)
 Lawmakers voted to allow undocumented migrants to be held in detention centers for up to 18 months and banned from European Union territory for five years.

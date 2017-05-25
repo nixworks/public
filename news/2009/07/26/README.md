@@ -25,7 +25,7 @@ _Context: Guinea-Bissau, Kumba Iala, Malam Bacai Sanha, presidential election_
 French President Nicolas Sarkozy was rushed to hospital after falling ill while jogging and will stay there overnight for tests.
 
 ### [ At least five people are killed and more are wounded by a suicide attack at a concert hall in the Chechen capital Grozny. ](/news/2009/07/26/at-least-five-people-are-killed-and-more-are-wounded-by-a-suicide-attack-at-a-concert-hall-in-the-chechen-capital-grozny.md)
-_Context: Chechnya, Grozny, suicide bomb attack_
+_Context: Chechnya, Grozny, suicide bombing_
 
 ## [Previous Day...](/news/2009/07/25/index.md)
 

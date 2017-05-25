@@ -34,7 +34,7 @@ Seven people die after a Hawker Hunter jet crashes into several vehicles on the 
 An explosion and fire has occurred at a chemical warehouse in Shandong province in eastern China, shattering windows in nearby houses and injuring at least nine people. The site which contains potentially dangerous chemicals is only one kilometer from a residential area.
 
 ### [A landslide in China's Yunnan Province leaves three people dead and eight missing. ](/news/2015/08/22/a-landslide-in-china-s-yunnan-province-leaves-three-people-dead-and-eight-missing.md)
-_Context: China, Yunnan Province_
+_Context: People's Republic of China, Yunnan Province_
 
 ### [The Prime Minister of Russia Dmitry Medvedev visits the disputed Kuril Islands prompting a protest from Japan. ](/news/2015/08/22/the-prime-minister-of-russia-dmitry-medvedev-visits-the-disputed-kuril-islands-prompting-a-protest-from-japan.md)
 TOKYO/ITURUP (Reuters) - Japan on Saturday lodged a protest over Russian Prime Minister Dmitry Medvedev&#x27;s visit to one of four disputed Pacific islands which have strained ties between the two countries since the end of World War Two. The decades-old argument over the territory, claimed by both

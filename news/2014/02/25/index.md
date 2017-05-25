@@ -22,7 +22,7 @@ _Context: Parliament of Ukraine_
 While a crowd outside the court chanted “freedom” and “shame”, a judge in Moscow has imprisoned seven out of eight people convicted for “rioting and
 
 ### [China's National Meteorological Center of CMA warns of heavy smog in northern and central China over the next two days. ](/news/2014/02/25/china-s-national-meteorological-center-of-cma-warns-of-heavy-smog-in-northern-and-central-china-over-the-next-two-days.md)
-_Context: China, National Meteorological Center, People's Republic of China, smog_
+_Context: National Meteorological Center, People's Republic of China, People's Republic of China, smog_
 
 ## [Previous Day...](/news/2014/02/24/index.md)
 

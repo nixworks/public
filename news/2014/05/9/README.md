@@ -13,7 +13,7 @@ Symbol of defeat of Nazi Germany seen in new light by neighbouring states
 _Context: Bloomberg, Rupert Murdoch, pay TV_
 
 ### [2014 Crimean crisis:Russian President Vladimir Putin visits Crimea for the first time since the annexation, arriving in Sevastopol for Victory Day celebrations. ](/news/2014/05/9/2014-crimean-crisis-prussian-president-vladimir-putin-visits-crimea-for-the-first-time-since-the-annexation-arriving-in-sevastopol-for-vict.md)
-_Context: 2014 Crimean crisis, Crimea, Russian President, Sevastopol, Victory Day, Vladimir Putin, annexation by Russia_
+_Context: 2014 Crimean crisis, Crimea, Russia President, Sevastopol, Victory Day, Vladimir Putin, annexation by Russia_
 
 ### [North Korea-South Korea relations:South Korea's Ministry of National Defense announces that three drones found in their territory came from North Korea.  ](/news/2014/05/9/north-koreaasouth-korea-relations-psouth-korea-s-ministry-of-national-defense-announces-that-three-drones-found-in-their-territory-came-fr.md)
 _Context: Ministry of National Defense, North Korea, North Korea-South Korea relations, South Korea_

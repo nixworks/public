@@ -1,7 +1,7 @@
 ## [2015-12-29](/news/2015/12/29/index.md)
 
 ### [A suicide-bomb attack outside the regional office of the National Database and Registration Authority (NADRA) in the northwestern Pakistani city of Mardan, Khyber Pakhtunkhwa, leaves at least 26 people dead and 45 wounded. The militant Islamist group Jamaat-ul-Ahrar, a Tehrik-i-Taliban Pakistan splinter group, claims responsibility for the attack. ](/news/2015/12/29/a-suicide-bomb-attack-outside-the-regional-office-of-the-national-database-and-registration-authority-nadra-in-the-northwestern-pakistani.md)
-_Context: Jamaat-ul-Ahrar, Khyber Pakhtunkhwa, Mardan, National Database and Registration Authority, Pakistan, Tehrik-i-Taliban Pakistan, War in North-West Pakistan, radical Islamists, suicide bomb attack_
+_Context: Jamaat-ul-Ahrar, Khyber Pakhtunkhwa, Mardan, National Database and Registration Authority, Pakistan, Tehrik-i-Taliban Pakistan, War in North-West Pakistan, radical Islamists, suicide bombing_
 
 ### [Syrian Civil War, Military intervention against ISIL The United States military announces that a key Islamic State leader with ties to the Paris attack terrorists was killed in a coalition airstrike on December 24, 2015.  Charaffe al Mouadan is the  tenth ISIL leader killed by an airstrike since December 7. ](/news/2015/12/29/syrian-civil-war-military-intervention-against-isil-pthe-united-states-military-announces-that-a-key-islamic-state-leader-with-ties-to-the.md)
 Charaffe al Mouadan grew up with one of the Paris attackers, a French newspaper reported Tuesday.

@@ -25,7 +25,7 @@ South Korea issued a cyber attack alert on Tuesday after hackers apparently pene
 Italian police searches on Tuesday of more than 30 Italian soccer clubs includes two teams listed on the stock exchange, SS Lazio and Juventus FC, judicial and police sources told Reuters.
 
 ### [Russian president Vladimir Putin confirms that Edward Snowden is currently in a Moscow airport's international area; Russia rejects United States extradition demands. ](/news/2013/06/25/russian-president-vladimir-putin-confirms-that-edward-snowden-is-currently-in-a-moscow-airport-s-international-area-russia-rejects-united-s.md)
-_Context: Edward Snowden, Moscow, Russian President, Vladimir Putin, extradited_
+_Context: Edward Snowden, Moscow, Russia President, Vladimir Putin, extradited_
 
 ### [Nine are killed in gun battles between paramilitary forces and drug gangs in Rio de Janeiro favelas. ](/news/2013/06/25/nine-are-killed-in-gun-battles-between-paramilitary-forces-and-drug-gangs-in-rio-de-janeiro-favelas.md)
 At least nine people have died in gun battles with drug dealers in a favela in the Brazilian city of Rio de Janeiro, police say.

@@ -4,7 +4,7 @@
 _Context: Capitoline Wolf, Etruscan_
 
 ### [ China claims to have foiled the disruption of the 2008 Summer Olympics by suspected terrorists of separatist East Turkestan Islamic Movement from Xinjiang province. ](/news/2008/07/10/china-claims-to-have-foiled-the-disruption-of-the-2008-summer-olympics-by-suspected-terrorists-of-separatist-east-turkestan-islamic-movemen.md)
-_Context: Beijing Olympiad, China, East Turkestan Islamic Movement, Xinjiang, terrorists_
+_Context: Beijing Olympiad, East Turkestan Islamic Movement, People's Republic of China, Xinjiang, terrorists_
 
 ### [ The Senate of the United States confirms the appointment of General David Petraeus as the Commander of the United States Central Command and Raymond T. Odierno as the Commander of the Multinational Force Iraq replacing General Petraeus. ](/news/2008/07/10/the-senate-of-the-united-states-confirms-the-appointment-of-general-david-petraeus-as-the-commander-of-the-united-states-central-command-an.md)
 _Context: CENTCOM, David Petraeus, Multinational Force Iraq, Raymond T. Odierno, Senator_

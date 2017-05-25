@@ -24,7 +24,7 @@ _Context: Big Sur, California State Route 1, Gorda_
 ### [After the Supreme Court rules in favor, same-sex-marriage is on its way to being legalized in Taiwan, the first country in Asia to do so. ](/news/2017/05/24/after-the-supreme-court-rules-in-favor-same-sex-marriage-is-on-its-way-to-being-legalized-in-taiwan-the-first-country-in-asia-to-do-so.md)
 A top Taiwan court ruled in favor of gay marriage Wednesday, a landmark ruling that paves the way for the island to become the first place in Asia to legalize same sex unions. Current top breaking Philippine headlines regarding the nation, world, metro manila, regions and exclusive special investigative reports.
 
-### [During a phone call between U.S. president Donald Trump and Philippine president Rodrigo Duterte, Trump allegedly congratulates Duterte on his drug war. ](/news/2017/05/24/during-a-phone-call-between-u-s-president-donald-trump-and-philippine-president-rodrigo-duterte-trump-allegedly-congratulates-duterte-on-h.md)
+### [During a phone call between U.S. president Donald Trump and Philippine president Rodrigo Duterte, Trump allegedly congratulates Duterte on his drug war, which has been widely criticized for its brutality by human rights organizations. ](/news/2017/05/24/during-a-phone-call-between-u-s-president-donald-trump-and-philippine-president-rodrigo-duterte-trump-allegedly-congratulates-duterte-on-h.md)
 U.S. President Donald Trump told his Philippine counterpart that Washington has sent two nuclear submarines to waters off the Korean peninsula, the New York Times said, comments likely to raise questions about his handling of sensitive information.
 
 ### [Fox News retracts their claims regarding the murder. ](/news/2017/05/24/fox-news-retracts-their-claims-regarding-the-murder.md)
@@ -53,7 +53,7 @@ Children were among those killed in the blast after a concert by US singer Arian
 ### [2017 Marawi clash Philippine president Rodrigo Duterte declares martial law on the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/2017-marawi-clash-pphilippine-president-rodrigo-duterte-declares-martial-law-on-the-island-of-mindanao-after-maute-militants-clash-with-army.md)
 Philippine President Rodrigo Duterte makes the declaration while on an official visit to Russia, as Maute Group members attack Marawi City in Mindanao
 
-### [ The U.S. Navy SEAL Team Six's raid on an Al Qaeda in Yemen compound in the Ma'rib Governorate kills at least seven militants. Seal Team Six also suffered unspecified injuries that were treated at the site. ](/news/2017/05/23/the-u-s-navy-seal-team-six-s-raid-on-an-al-qaeda-in-yemen-compound-in-the-ma-rib-governorate-kills-at-least-seven-militants-seal-team-six.md)
+### [ The U.S. Navy SEAL Team Six's raid on an Al Qaeda in Yemen compound in the Ma'rib Governorate kills at least seven militants. SEAL Team Six also suffered unspecified injuries that were treated at the site. ](/news/2017/05/23/the-u-s-navy-seal-team-six-s-raid-on-an-al-qaeda-in-yemen-compound-in-the-ma-rib-governorate-kills-at-least-seven-militants-seal-team-six.md)
 At least seven militants were killed during a raid by U.S. Special Forces troops against an al Qaeda compound in Yemen on Tuesday morning, the Pentagon said, the deepest the United States has penetrated Yemen to target the group.
 
 ### [A speech by a Chinese-national student in the University of Maryland creates controversy. ](/news/2017/05/23/a-speech-by-a-chinese-national-student-in-the-university-of-maryland-creates-controversy.md)

@@ -19,7 +19,7 @@ The UN has warned that up to 200,000 people have been forced to flee after Islam
 _Context: Banco Espirito Santo, Bank of Portugal_
 
 ### [A magnitude 6.1 earthquake kills at least 367 people and injures more than 1,700 in Yunnan, China. ](/news/2014/08/3/a-magnitude-6-1-earthquake-kills-at-least-367-people-and-injures-more-than-1-700-in-yunnan-china.md)
-_Context: 2014 Ludian earthquake, China, Yunnan_
+_Context: 2014 Ludian earthquake, People's Republic of China, Yunnan_
 
 ### [In a joint ceremony at the Hartmannswillerkopf cemetery, French President Francois Hollande and his German counterpart, Joachim Gauck, commemorate the 100th anniversary of Germany's declaration of war on France in the beginning of World War I. ](/news/2014/08/3/in-a-joint-ceremony-at-the-hartmannswillerkopf-cemetery-french-president-franassois-hollande-and-his-german-counterpart-joachim-gauck-comm.md)
 Breaking&#x20;news&#x20;and&#x20;world&#x20;news&#x20;from&#x20;France&#x20;24&#x20;on&#x20;Business,&#x20;Sports,&#x20;Culture.&#x20;Video&#x20;news.&#x20;News&#x20;from&#x20;the&#x20;US,&#x20;Europe,&#x20;Asia&#x20;Pacific,&#x20;Africa,&#x20;Middle&#x20;East,&#x20;America

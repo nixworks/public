@@ -43,7 +43,7 @@ FRENCH Prime Minister Jean-Marc Ayrault has ordered the &quot;dissolution&quot; 
 New Jersey Gov. Chris Christie announced Thursday he will appoint the state&rsquo;s Republican attorney general Jeffrey Chiesa to serve as an interim senator to succeed the late Sen. Frank Lautenberg. Chiesa, a longtime Christie aide and former feder
 
 ### [The President of Brazil, Dilma Rousseff, approves a bill to modernize the infrastructure of all national ports in her country. She vetoes 13 contradictory sections. ](/news/2013/06/6/the-president-of-brazil-dilma-rousseff-approves-a-bill-to-modernize-the-infrastructure-of-all-national-ports-in-her-country-she-vetoes-13.md)
-_Context: Brazil, Dilma, President, infrastructure, modernize, port_
+_Context: Brazil, Dilma, President of Brazil, infrastructure, modernize, port_
 
 ## [Previous Day...](/news/2013/06/5/index.md)
 

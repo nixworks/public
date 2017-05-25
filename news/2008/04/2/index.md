@@ -25,7 +25,7 @@ One person has been killed and several others injured in storms across Victoria.
 The European Commission on Wednesdayopened an in-depth investigation of British plans torestructure troubled mortgage lender Northern Rock, saying itneeded to look at potential distortion to the market.
 
 ### [ The President of the United States George W. Bush supports the bids by Georgia and Ukraine to become members of the North Atlantic Treaty Organization. ](/news/2008/04/2/the-president-of-the-united-states-george-w-bush-supports-the-bids-by-georgia-and-ukraine-to-become-members-of-the-north-atlantic-treaty-o.md)
-_Context: George W. Bush, Georgia, NATO, U.S. President, Ukrainians_
+_Context: George W. Bush, Georgia, NATO, President, Ukrainians_
 
 ### [ Cuban citizens now have access to what were formerly "tourist-only" hotels and cellphones. ](/news/2008/04/2/cuban-citizens-now-have-access-to-what-were-formerly-tourist-only-hotels-and-cellphones.md)
 ### [ Morgan Tsvangirai's Movement for Democratic Change defeats Robert Mugabe's ZANU-PF in the Zimbabean '''parliamentary''' elections. ](/news/2008/04/2/morgan-tsvangirai-s-movement-for-democratic-change-defeats-robert-mugabe-s-zanu-pf-in-the-zimbabean-parliamentary-elections.md)

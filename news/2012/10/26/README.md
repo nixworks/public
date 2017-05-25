@@ -22,7 +22,7 @@ _Context: Russia, Sergei Udaltsov_
 _Context: Italian, Silvio Berlusconi_
 
 ### [Chinese politician Bo Xilai is stripped of his membership of the National People's Congress. ](/news/2012/10/26/chinese-politician-bo-xilai-is-stripped-of-his-membership-of-the-national-people-s-congress.md)
-_Context: Bo Xilai, China, parliament_
+_Context: Bo Xilai, People's Republic of China, parliament_
 
 ## [Previous Day...](/news/2012/10/25/index.md)
 

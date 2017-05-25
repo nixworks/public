@@ -22,7 +22,7 @@ President McAleese has described recent racist attacks in Belfast as distressing
 _Context: New York, Pedro Espada, legislative deadlock_
 
 ### [ Russian President Dmitry Medvedev meets Egyptian President Hosni Mubarak in Cairo at the start of a four-day trip to Africa. ](/news/2009/06/23/russian-president-dmitry-medvedev-meets-egyptian-president-hosni-mubarak-in-cairo-at-the-start-of-a-four-day-trip-to-africa.md)
-_Context: Africa, Cairo, Dmitry Medvedev, Egypt, Egyptian President, Hosni Mubarak, Russia, Russian President_
+_Context: Africa, Cairo, Dmitry Medvedev, Egypt, Egyptian President, Hosni Mubarak, Russia, Russia President_
 
 ### [ The government of Antigua and Barbuda dismisses its chief financial regulator, Leroy King, following claims of a collaboration with Allen Stanford. ](/news/2009/06/23/the-government-of-antigua-and-barbuda-dismisses-its-chief-financial-regulator-leroy-king-following-claims-of-a-collaboration-with-allen-s.md)
 The Antigua and Barbuda government has dismissed its chief financial regulator, Leroy King.
