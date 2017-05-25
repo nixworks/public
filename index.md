@@ -3,7 +3,7 @@
 ### [Former Greek Prime Minister Lucas Papademos is injured when a booby-trapped package explodes inside his vehicle in Athens. Authorities report his injuries are not  life threatening.  ](/news/2017/05/25/former-greek-prime-minister-lucas-papademos-is-injured-when-a-booby-trapped-package-explodes-inside-his-vehicle-in-athens-authorities-repor.md)
 A former Greek prime minister was injured when a booby-trapped package exploded in his car in central Athens on Thursday in the worst act of violence targeting politicians in the crisis-hit country for several years.
 
-### [The United States military reports that their investigation found 105 civilians were killed and 36 people are still missing from the bombing of a Mosul building on March 24. ](/news/2017/05/25/the-united-states-military-reports-that-their-investigation-found-105-civilians-were-killed-and-36-people-are-still-missing-from-the-bombing.md)
+### [The United States military reports that their investigation found 105 civilians were killed and 36 people are still missing from the bombing of a Mosul building on March 17. ](/news/2017/05/25/the-united-states-military-reports-that-their-investigation-found-105-civilians-were-killed-and-36-people-are-still-missing-from-the-bombing.md)
 A Pentagon investigation has found that more than 100 civilians were killed after the U.S. dropped a bomb on a building in Mosul, Iraq, in March.
 
 ### [British police suspend sharing intelligence with the United States in connection with Monday's deadly attack after U.S. officials allegedly leak "sensitive information" to ''The New York Times''.  British Prime Minister Theresa May states she will emphasize the sensitive nature of said information when she meets with U.S. President Donald Trump during their meeting at NATO later today.  Trump calls for an investigation into the leaks. ](/news/2017/05/25/british-police-suspend-sharing-intelligence-with-the-united-states-in-connection-with-monday-s-deadly-attack-after-u-s-officials-allegedly.md)
@@ -70,6 +70,9 @@ Around 35,000 demonstrators took to the streets of the capital Brasilia angry at
 
 ### [Republican Greg Gianforte bodyslams a reporter from ''The Guardian'' who then reports the situation to police. Gianforte is running against Democrat Rob Quist. ](/news/2017/05/24/republican-greg-gianforte-bodyslams-a-reporter-from-the-guardian-who-then-reports-the-situation-to-police-gianforte-is-running-against.md)
 Audio of Greg Gianforte attacking Ben Jacobs corroborated by Fox News journalists in the room, who described candidate ‘slamming him to the ground’
+
+### [The non-partisan Congressional Budget Office reports the new health care bill recently approved by the House of Representatives will leave 23 million more Americans uninsured by 2026 than under current law. ](/news/2017/05/24/the-non-partisan-congressional-budget-office-reports-the-new-health-care-bill-recently-approved-by-the-house-of-representatives-will-leave-2.md)
+_Context: American Health Care Act of 2017, Congressional Budget Office, more Americans uninsured_
 
 ---
 
