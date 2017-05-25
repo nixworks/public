@@ -40,7 +40,7 @@ Former White House national security adviser Michael Flynn declined on Monday to
 Protesters set fire to late President Hugo Chavez&apos;s childhood home in western Venezuela on Monday, an opposition lawmaker said.
 
 ### [Japanese scientists discover that mouse sperm held on the International Space Station for 9 months is able to produce healthy mice. ](/news/2017/05/22/japanese-scientists-discover-that-mouse-sperm-held-on-the-international-space-station-for-9-months-is-able-to-produce-healthy-mice.md)
-_Context: Japanese_
+_Context: Japan_
 
 ## [Previous Day...](/news/2017/05/21/index.md)
 
