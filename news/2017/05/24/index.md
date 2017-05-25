@@ -3,7 +3,7 @@
 ### [2017 Manchester Arena bombing As part of an ongoing investigation, British police arrest six people in connection with Monday's deadly explosion, including a 23-year-old man who was taken into custody Tuesday. ](/news/2017/05/24/2017-manchester-arena-bombing-pas-part-of-an-ongoing-investigation-british-police-arrest-six-people-in-connection-with-monday-s-deadly-expl.md)
 Three more arrests have been made in connection with the deadly suicide bombing at an Ariana Grande concert in Manchester, England, Monday, that killed 22 people including children and a police officer, authorities said today. The three men were arrested after police executed search warrants in...
 
-### [A bomb in Jakarta kills at least two people. ](/news/2017/05/24/a-bomb-in-jakarta-kills-at-least-two-people.md)
+### [Three police officers are killed in a suicide bombing at a bus station in Jatinegara, Jakarta. ](/news/2017/05/24/three-police-officers-are-killed-in-a-suicide-bombing-at-a-bus-station-in-jatinegara-jakarta.md)
 TWO people have been killed and several injured, including a police officer, following two explosions near a bus station in Indonesia, according to local reports.
 
 ### [Five people are killed in a raid on a house of a Shia cleric in Bahrain. ](/news/2017/05/24/five-people-are-killed-in-a-raid-on-a-house-of-a-shia-cleric-in-bahrain.md)
