@@ -39,5 +39,8 @@ _Context: Legality of cannabis, Phil Scott, R, Vermont, marijuana_
 ### [Protestors set fire to the Ministry of Agriculture headquarters in Brasilia amid calls for the impeachment or resignation of Michel Temer as President of Brazil over allegations of corruption. ](/news/2017/05/24/protestors-set-fire-to-the-ministry-of-agriculture-headquarters-in-brasalia-amid-calls-for-the-impeachment-or-resignation-of-michel-temer-a.md)
 Around 35,000 demonstrators took to the streets of the capital Brasilia angry at alleged corruption.
 
+### [Republican Greg Gianforte bodyslams a reporter from ''The Guardian'' who reported the situation to police. Gianforte is running against Democrat Rob Quist. ](/news/2017/05/24/republican-greg-gianforte-bodyslams-a-reporter-from-the-guardian-who-reported-the-situation-to-police-gianforte-is-running-against-demo.md)
+Audio of Greg Gianforte attacking Ben Jacobs corroborated by Fox News journalists in the room, who described candidate ‘slamming him to the ground’
+
 ## [Previous Day...](/news/2017/05/23/index.md)
 

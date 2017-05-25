@@ -1,7 +1,7 @@
 ## [2017-05-8](/news/2017/05/8/index.md)
 
-### [At the Fort Lauderdale-Hollywood In    ternational Airport, Spirit Airlines cancels eleven flights and delays 30 due to a dispute between the airline and its pilots (as talks occur between the airline and the pilots' union, Air Line Pilots Association, International). Protests break out and three travelers are arrested. ](/news/2017/05/8/at-the-fort-lauderdaleahollywood-in-ternational-airport-spirit-airlines-cancels-eleven-flights-and-delays-30-due-to-a-dispute-between.md)
-_Context: Air Line Pilots Association, International, Fort Lauderdale-Hollywood In    ternational Airport, Spirit Airlines_
+### [At the Fort Lauderdale-Hollywood International Airport, Spirit Airlines cancels eleven flights and delays 30 due to a dispute between the airline and its pilots (as talks occur between the airline and the pilots' union, Air Line Pilots Association, International). Protests break out and three travelers are arrested. ](/news/2017/05/8/at-the-fort-lauderdaleahollywood-international-airport-spirit-airlines-cancels-eleven-flights-and-delays-30-due-to-a-dispute-between-the.md)
+_Context: Air Line Pilots Association, International, Fort Lauderdale-Hollywood International Airport, Spirit Airlines_
 
 ### [The United Nations Human Rights Council conducts a periodic review of the human rights situation in the Philippines. ](/news/2017/05/8/the-united-nations-human-rights-council-conducts-a-periodic-review-of-the-human-rights-situation-in-the-philippines.md)
 The Philippine government will present the human rights situation before the United Nations Human Rights Council in Geneva, Switzerland during the third cycle of its Universal Periodic Review. LIVE at 3 p.m. 
