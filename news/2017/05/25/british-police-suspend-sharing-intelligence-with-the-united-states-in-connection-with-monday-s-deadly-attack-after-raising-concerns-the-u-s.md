@@ -1,6 +1,6 @@
 ### [2017-05-25](/news/2017/05/25/index.md)
 
-# British police suspend sharing intelligence with the United States in connection with Monday's deadly attack after raising concerns the U.S. leaked sensitive information regarding the investigation.  British Prime Minister Theresa May states she will emphasize the sensitive nature of said information when she meets with President Donald Trump during their meeting at NATO later today. 
+# British police suspend sharing intelligence with the United States in connection with Monday's deadly attack after raising concerns the U.S. leaked sensitive information regarding the investigation.  British Prime Minister Theresa May states she will emphasize the sensitive nature of said information when she meets with President Donald Trump during their meeting at NATO later today.  Trump calls for an investigation into the leaks. 
 
 President Donald Trump said on Thursday that &quot;deeply troubling&quot; leaks to U.S. media about the Manchester suicide bombing would be investigated, after irate British police stopped sharing information with U.S. agencies.
 
@@ -9,6 +9,7 @@ President Donald Trump said on Thursday that &quot;deeply troubling&quot; leaks 
 
 1. [CNN](http://www.cnn.com/2017/05/25/europe/manchester-terror-attack-uk/index.html)
 2. [Reuters](https://www.reuters.com/article/us-britain-security-manchester-idUSKBN18L0QU)
+3. [The New York Times](https://www.nytimes.com/2017/05/25/world/europe/trump-may-leaks-manchester.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news&_r=0)
 
 ### Related:
 
