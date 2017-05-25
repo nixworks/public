@@ -2,12 +2,13 @@
 
 # Voters in Montana pick between Republican Greg Gianforte and  Democrat Rob Quist in electing for a seat in the U.S. Congress. 
 
-
+Greg Gianforte, the Republican candidate for a special House election in Montana, was officially charged with assaulting a journalist — just one day before the election.
 
 
 ### Source:
 
-1. [NPR](http://www.npr.org/2017/05/24/529862697/republican-s-altercation-with-reporter-shakes-up-montana-race-on-eve-of-voting)
+1. [Fox News](http://www.foxnews.com/politics/2017/05/25/greg-gianforte-look-at-congressional-candidate-accused-assaulting-reporter.html)
+2. [NPR](http://www.npr.org/2017/05/24/529862697/republican-s-altercation-with-reporter-shakes-up-montana-race-on-eve-of-voting)
 
 ### Related:
 
