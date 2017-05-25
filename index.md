@@ -1,7 +1,10 @@
 ## [News](/news/2017/05/25/index.md)
 
-### [Former Greek Prime Minister Lucas Papademos is injured in an explosion inside his vehicle in Athens. ](/news/2017/05/25/former-greek-prime-minister-lucas-papademos-is-injured-in-an-explosion-inside-his-vehicle-in-athens.md)
-_Context: Athens, Greek Prime Minister, Lucas Papademos_
+### [Former Greek Prime Minister Lucas Papademos is injured when a booby-trapped package explodes inside his vehicle in Athens. Authorities report his injuries are not  life threatening.  ](/news/2017/05/25/former-greek-prime-minister-lucas-papademos-is-injured-when-a-booby-trapped-package-explodes-inside-his-vehicle-in-athens-authorities-repor.md)
+A former Greek prime minister was injured when a booby-trapped package exploded in his car in central Athens on Thursday in the worst act of violence targeting politicians in the crisis-hit country for several years.
+
+### [The United States military reports that their investigation found 105 civilians were killed and 36 people are still missing from the bombing of a Mosul building on March 24. ](/news/2017/05/25/the-united-states-military-reports-that-their-investigation-found-105-civilians-were-killed-and-36-people-are-still-missing-from-the-bombing.md)
+A Pentagon investigation has found that more than 100 civilians were killed after the U.S. dropped a bomb on a building in Mosul, Iraq, in March.
 
 ### [British police suspend sharing intelligence with the United States in connection with Monday's deadly attack after U.S. officials allegedly leak "sensitive information" to ''The New York Times''.  British Prime Minister Theresa May states she will emphasize the sensitive nature of said information when she meets with U.S. President Donald Trump during their meeting at NATO later today.  Trump calls for an investigation into the leaks. ](/news/2017/05/25/british-police-suspend-sharing-intelligence-with-the-united-states-in-connection-with-monday-s-deadly-attack-after-u-s-officials-allegedly.md)
 President Donald Trump said on Thursday that &quot;deeply troubling&quot; leaks to U.S. media about the Manchester suicide bombing would be investigated, after irate British police stopped sharing information with U.S. agencies.
@@ -14,6 +17,9 @@ In a stinging rebuke to President Donald Trump, a U.S. appeals court refused on 
 
 ### [Voters in Montana pick between Republican Greg Gianforte and  Democrat Rob Quist in the special congressional election to replace Ryan Zinke, who is now President Trump's Secretary of the Interior. ](/news/2017/05/25/voters-in-montana-pick-between-republican-greg-gianforte-and-democrat-rob-quist-in-the-special-congressional-election-to-replace-ryan-zinke.md)
 Greg Gianforte, the Republican candidate for a special House election in Montana, was officially charged with assaulting a journalist — just one day before the election.
+
+### [The U.S.  National Oceanic and Atmospheric Administration says warm ocean waters could fuel an above-normal Atlantic hurricane season. The forecast calls for 11 to 17 named storms with five to nine hurricanes, warmer-than-average waters across the tropical Atlantic Ocean and Caribbean Sea, and  a weak or nonexistent El Nino. ](/news/2017/05/25/the-u-s-national-oceanic-and-atmospheric-administration-says-warm-ocean-waters-could-fuel-an-above-normal-atlantic-hurricane-season-the-f.md)
+El Ni&ntilde;o conditions known for suppressing storms expected to be scarce during Atlantic hurricane season
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
