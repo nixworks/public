@@ -1,6 +1,6 @@
 ### [2017-05-25](/news/2017/05/25/index.md)
 
-# Rocket Lab launches its 3D-printed Electron rocket on a test flight from   Mahia Peninsula in New Zealand.  This is the first launch from New Zealand and the first from a private facility. Electron is 17 meters high, is intended for frequent launches of small payloads, and costs $5 million per liftoff. SpaceX's Falcon 9 stands at 70 meters, carries up to  22,800 kilograms to the ISS, and costs $62 million per. 
+# Rocket Lab launches its 3D-printed Electron rocket on a test flight from   Mahia Peninsula in New Zealand.  This is the first launch from New Zealand and the first from a private facility. Electron is 17 meters high, is intended for frequent launches of small payloads, and costs $5 million per liftoff. SpaceX's Falcon 9 stands at 70 meters, carries up to  22,800 kilograms to the ISS, and costs $62 million per launch. 
 
 The first ever launch from New Zealand is a step towards making it cheaper to get cargo into space.
 
