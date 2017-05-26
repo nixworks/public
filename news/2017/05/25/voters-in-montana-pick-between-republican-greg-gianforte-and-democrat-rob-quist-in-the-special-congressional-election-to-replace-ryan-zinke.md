@@ -8,10 +8,11 @@ Greg Gianforte, the Republican candidate for a special House election in Montana
 ### Source:
 
 1. [Billings Gazette](http://billingsgazette.com/news/government-and-politics/greg-gianforte-cited-for-body-slamming-reporter-on-eve-of/article_3a6bf896-6c25-5dd9-a4b8-d7e097a950e4.html)
-2. [CNN via KTLA](http://ktla.com/2017/05/25/montana-gop-congressional-candidate-charged-after-allegedly-body-slamming-reporter-night-before-special-election/)
-3. [Fox News](http://www.foxnews.com/politics/2017/05/25/greg-gianforte-look-at-congressional-candidate-accused-assaulting-reporter.html)
-4. [NPR](http://www.npr.org/2017/05/24/529862697/republican-s-altercation-with-reporter-shakes-up-montana-race-on-eve-of-voting)
-5. [The New York Times](https://www.nytimes.com/elections/results/montana-house-special-election)
+2. [Bloomberg](https://www.bloomberg.com/view/articles/2017-05-25/montana-s-surprise-is-just-one-strike-against-early-voting)
+3. [CNN via KTLA](http://ktla.com/2017/05/25/montana-gop-congressional-candidate-charged-after-allegedly-body-slamming-reporter-night-before-special-election/)
+4. [Fox News](http://www.foxnews.com/politics/2017/05/25/greg-gianforte-look-at-congressional-candidate-accused-assaulting-reporter.html)
+5. [NPR](http://www.npr.org/2017/05/24/529862697/republican-s-altercation-with-reporter-shakes-up-montana-race-on-eve-of-voting)
+6. [The New York Times](https://www.nytimes.com/elections/results/montana-house-special-election)
 
 ### Related:
 

@@ -12,6 +12,9 @@ The U.N. human rights chief called on all air forces operating in Syria on Frida
 ### [The National Constitutional Convention of Aboriginal Australians and Torres Strait Islanders at Mutitjulu concludes with Indigenous leaders calling for a treaty and reforms to the Constitution of Australia, beyond the proposed written recognition, including entrenchment of representative bodies and commissions for Indigenous rights. ](/news/2017/05/26/the-national-constitutional-convention-of-aboriginal-australians-and-torres-strait-islanders-at-mutitjulu-concludes-with-indigenous-leaders.md)
 Indigenous leaders from across the country reject the idea of being recognised in the constitution, endorsing a treaty instead and calling for a referendum for a voice in Parliament.
 
+### [Right-wing media personality Katie Hopkins is to leave LBC with "immediate effect" after Hopkins posted on Twitter calling for a so-called "final solution" to the United Kingdom's Islamic terrorism problem following the Manchester Arena bombing which left 22 people dead. ](/news/2017/05/26/right-wing-media-personality-katie-hopkins-is-to-leave-lbc-with-immediate-effect-after-hopkins-posted-on-twitter-calling-for-a-so-called.md)
+Katie Hopkins is to leave LBC with immediate effect, the radio station has confirmed.
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
