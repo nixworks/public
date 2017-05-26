@@ -15,5 +15,8 @@ Indigenous leaders from across the country reject the idea of being recognised i
 ### [Right-wing media personality Katie Hopkins is to leave LBC with "immediate effect" after Hopkins posted on Twitter calling for a so-called "final solution" to the United Kingdom's Islamic terrorism problem following the Manchester Arena bombing which left 22 people dead. ](/news/2017/05/26/right-wing-media-personality-katie-hopkins-is-to-leave-lbc-with-immediate-effect-after-hopkins-posted-on-twitter-calling-for-a-so-called.md)
 Katie Hopkins is to leave LBC with immediate effect, the radio station has confirmed.
 
+### [Disaster Management Centre of Sri Lanka reports that 91 people are killed and missing 110 people from 14 districts due to flood and landslide. ](/news/2017/05/26/disaster-management-centre-of-sri-lanka-reports-that-91-people-are-killed-and-missing-110-people-from-14-districts-due-to-flood-and-landslid.md)
+Flooding and mudslides caused by monsoon rains leave at least 91 dead and more than 100 missing.
+
 ## [Previous Day...](/news/2017/05/25/index.md)
 
