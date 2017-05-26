@@ -1,7 +1,7 @@
 ## [News](/news/2017/05/26/index.md)
 
-### [A convention of Indigenous Australians at Mutitjulu concludes. Leaders deliver a statement to the Government of Australia outlining their position on amendments to the Constitution of Australia, including constitutional recognition. ](/news/2017/05/26/a-convention-of-indigenous-australians-at-mutitjulu-concludes-leaders-deliver-a-statement-to-the-government-of-australia-outlining-their-po.md)
-In the shadow of Uluru, Indigenous people will present a historic position on changes to the constitution today.
+### [The National Constitutional Convention of Aboriginal Australians and Torres Strait Islanders at Mutitjulu concludes with Indigenous leaders calling for a treaty and reforms to the Constitution of Australia, beyond the proposed written recognition, including entrenchment of representative bodies and commissions for Indigenous rights. ](/news/2017/05/26/the-national-constitutional-convention-of-aboriginal-australians-and-torres-strait-islanders-at-mutitjulu-concludes-with-indigenous-leaders.md)
+Indigenous leaders from across the country reject the idea of being recognised in the constitution, endorsing a treaty instead and calling for a referendum for a voice in Parliament.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -38,7 +38,7 @@ El Ni&ntilde;o conditions known for suppressing storms expected to be scarce dur
 ### [Results of the Juno mission are announced by NASA researchers, revealing new and unexpected information concerning Jupiter's poles, meteorology, and magnetic and gravitational fields. ](/news/2017/05/25/results-of-the-juno-mission-are-announced-by-nasa-researchers-revealing-new-and-unexpected-information-concerning-jupiter-s-poles-meteorol.md)
 _Context: Juno mission, Jupiter, NASA, meteorology, poles_
 
-### [Rocket Lab launches its 3D-printed Electron rocket on a test flight from   Mahia Peninsula in New Zealand.  The is the first launch from New Zealand and the first from a private facility. Electron is 17 meters high, is intended for frequent launches of small payloads, and costs $5 million per liftoff. Space7's Falcon 9 stands at 70 meters, carries up to  22,800 kilograms to the ISS, and costs $62 million per. ](/news/2017/05/25/rocket-lab-launches-its-3d-printed-electron-rocket-on-a-test-flight-from-mahia-peninsula-in-new-zealand-the-is-the-first-launch-from-ne.md)
+### [Rocket Lab launches its 3D-printed Electron rocket on a test flight from   Mahia Peninsula in New Zealand.  The is the first launch from New Zealand and the first from a private facility. Electron is 17 meters high, is intended for frequent launches of small payloads, and costs $5 million per liftoff. SpaceX's Falcon 9 stands at 70 meters, carries up to  22,800 kilograms to the ISS, and costs $62 million per. ](/news/2017/05/25/rocket-lab-launches-its-3d-printed-electron-rocket-on-a-test-flight-from-mahia-peninsula-in-new-zealand-the-is-the-first-launch-from-ne.md)
 The first ever launch from New Zealand is a step towards making it cheaper to get cargo into space.
 
 ---
