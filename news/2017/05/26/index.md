@@ -6,6 +6,9 @@ Children are among at least 26 people massacred in Egypt and dozens more injured
 ### [Taliban militants attack an Afghan National Army base in Shah Wali Kot District, Kandahar Province, killing at least 15 soldiers. ](/news/2017/05/26/taliban-militants-attack-an-afghan-national-army-base-in-shah-wali-kot-district-kandahar-province-killing-at-least-15-soldiers.md)
 The attack comes days after the militants stormed another military base in the same area.
 
+### [United Nations High Commissioner for Human Rights Zeid bin Ra'ad calls on all air forces in Syria to better distinguish between military targets and civilians. ](/news/2017/05/26/united-nations-high-commissioner-for-human-rights-zeid-bin-ra-ad-calls-on-all-air-forces-in-syria-to-better-distinguish-between-military-tar.md)
+The U.N. human rights chief called on all air forces operating in Syria on Friday to take greater care to distinguish between legitimate military targets and civilians in their escalating air strikes especially in the northeast against Islamic State.
+
 ### [The National Constitutional Convention of Aboriginal Australians and Torres Strait Islanders at Mutitjulu concludes with Indigenous leaders calling for a treaty and reforms to the Constitution of Australia, beyond the proposed written recognition, including entrenchment of representative bodies and commissions for Indigenous rights. ](/news/2017/05/26/the-national-constitutional-convention-of-aboriginal-australians-and-torres-strait-islanders-at-mutitjulu-concludes-with-indigenous-leaders.md)
 Indigenous leaders from across the country reject the idea of being recognised in the constitution, endorsing a treaty instead and calling for a referendum for a voice in Parliament.
 
