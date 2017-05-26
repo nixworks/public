@@ -38,6 +38,9 @@ El Ni&ntilde;o conditions known for suppressing storms expected to be scarce dur
 ### [Results of the Juno mission are announced by NASA researchers, revealing new and unexpected information concerning Jupiter's poles, meteorology, and magnetic and gravitational fields. ](/news/2017/05/25/results-of-the-juno-mission-are-announced-by-nasa-researchers-revealing-new-and-unexpected-information-concerning-jupiter-s-poles-meteorol.md)
 _Context: Juno mission, Jupiter, NASA, meteorology, poles_
 
+### [Rocket Lab launches its 3D-printed Electron rocket on a test flight from   Mahia Peninsula in New Zealand.  The is the first launch from New Zealand and the first from a private facility. Electron is 17 meters high, is intended for frequent launches of small payloads, and costs $5 million per liftoff. Space7's Falcon 9 stands at 70 meters, carries up to  22,800 kilograms to the ISS, and costs $62 million per. ](/news/2017/05/25/rocket-lab-launches-its-3d-printed-electron-rocket-on-a-test-flight-from-mahia-peninsula-in-new-zealand-the-is-the-first-launch-from-ne.md)
+The first ever launch from New Zealand is a step towards making it cheaper to get cargo into space.
+
 ---
 
 ## [Day Before Yesterday](/news/2017/05/24/index.md)
@@ -57,7 +60,7 @@ Moody&rsquo;s has downgraded China rating to A1 from Aa3, with a stable outlook.
 ### [The Italian Coast Guard reports that at least 20 migrants are killed when their 500-passenger boat capsizes in the  Mediterranean Sea off Libya's coast. About 1,700 people have been rescued in 15 operations since Tuesday. ](/news/2017/05/24/the-italian-coast-guard-reports-that-at-least-20-migrants-are-killed-when-their-500-passenger-boat-capsizes-in-the-mediterranean-sea-off-li.md)
 _Context: European migrant crisis, Italian Coast Guard, Libya, Mediterranean Sea_
 
-### [Four Climbers are found dead on Mount Everest, bringing this season's death toll to 10. ](/news/2017/05/24/four-climbers-are-found-dead-on-mount-everest-bringing-this-season-s-death-toll-to-10.md)
+### [Four climbers are found dead on Mount Everest, bringing this season's death toll to 10. ](/news/2017/05/24/four-climbers-are-found-dead-on-mount-everest-bringing-this-season-s-death-toll-to-10.md)
 The four were discovered by a rescue team sent to retrieve the body of another dead climber.
 
 ### [A landslide at Big Sur blocks off a portion of California State Route 1 just south of Gorda; no injuries have been reported. ](/news/2017/05/24/a-landslide-at-big-sur-blocks-off-a-portion-of-california-state-route-1-just-south-of-gorda-no-injuries-have-been-reported.md)
