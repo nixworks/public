@@ -1,6 +1,6 @@
 ## [News](/news/2017/05/26/index.md)
 
-### [Gunmen open fire on buses carrying Coptic Christians in Minya Governorate, Egypt, killing at least 24 people and injuring dozens more. ](/news/2017/05/26/gunmen-open-fire-on-buses-carrying-coptic-christians-in-minya-governorate-egypt-killing-at-least-24-people-and-injuring-dozens-more.md)
+### [Gunmen open fire on buses carrying Coptic Christians in Minya Governorate, Egypt, killing at least 28 people and injuring dozens more. ](/news/2017/05/26/gunmen-open-fire-on-buses-carrying-coptic-christians-in-minya-governorate-egypt-killing-at-least-28-people-and-injuring-dozens-more.md)
 Children are among at least 26 people massacred in Egypt and dozens more injured after gunmen opened fire on a bus carrying Coptic Christians. The health ministry said the victims had been on their way to the St Samuel Monastery when they were surrounded by eight to 10 attackers wearing military uniforms. The Christians&#039; bus had been blocked by three vehicles as it drove through the Minya region, which is home to a sizeable Christian minority.
 
 ### [Taliban militants attack an Afghan National Army base in Shah Wali Kot District, Kandahar Province, killing at least 15 soldiers. ](/news/2017/05/26/taliban-militants-attack-an-afghan-national-army-base-in-shah-wali-kot-district-kandahar-province-killing-at-least-15-soldiers.md)
