@@ -24,7 +24,7 @@ _Context: 2011 Jordanian protests, Amman, Muslim Brotherhood_
 ### [Israeli-Palestinian conflict:Israeli war planes roam at low attitudes across the skies of Gaza. ](/news/2011/04/4/israeliapalestinian-conflict-pisraeli-war-planes-roam-at-low-attitudes-across-the-skies-of-gaza.md)
 Prominent Israeli filmmaker and peace activist was the son of a Jewish mother and a Christian Arab father from Nazareth.
 
-### [War on Terror: 5 people, including Khalid Sheikh Mohammed, are to be put on trial by the United States military at the U.S.-operated Guantanamo Bay detention camp, it is announced. ](/news/2011/04/4/war-on-terror-p5-people-including-khalid-sheikh-mohammed-are-to-be-put-on-trial-by-the-united-states-military-at-the-u-s-operated-guanta.md)
+### [War on Terror:5 people, including Khalid Sheikh Mohammed, are to be put on trial by the United States military at the U.S.-operated Guantanamo Bay detention camp, it is announced. ](/news/2011/04/4/war-on-terror-p5-people-including-khalid-sheikh-mohammed-are-to-be-put-on-trial-by-the-united-states-military-at-the-u-s-operated-guantan.md)
 The alleged mastermind of the 9/11 attacks and four alleged co-conspirators will be tried at Guantanamo Bay, rather than a US civilian court.
 
 ### [Greek fighter jets escort a British civilian airliner as it makes an emergency landing in Athens after a bomb threat; no one is hurt. ](/news/2011/04/4/greek-fighter-jets-escort-a-british-civilian-airliner-as-it-makes-an-emergency-landing-in-athens-after-a-bomb-threat-no-one-is-hurt.md)

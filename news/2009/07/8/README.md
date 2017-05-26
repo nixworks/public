@@ -24,7 +24,7 @@ Voting begins with more than 170 million registered voters and 500,000 polling s
 ### [ Malaysian opposition leader Anwar Ibrahim's trial on sodomy charges of engaging in sexual intercourse with a male aide is delayed after his main defence lawyer falls ill. ](/news/2009/07/8/malaysian-opposition-leader-anwar-ibrahim-s-trial-on-sodomy-charges-of-engaging-in-sexual-intercourse-with-a-male-aide-is-delayed-after-his.md)
 _Context: Anwar Ibrahim, Malaysia, sexual intercourse, sodomy_
 
-### [ July 2009 Mindanao bombings  The UN Development Program suspends feeding operations for Mindanao refugees. ](/news/2009/07/8/july-2009-mindanao-bombings-p-the-un-development-program-suspends-feeding-operations-for-mindanao-refugees.md)
+### [  The UN Development Program suspends feeding operations for Mindanao refugees. ](/news/2009/07/8/the-un-development-program-suspends-feeding-operations-for-mindanao-refugees.md)
 _Context: July 2009 Mindanao bombings, Mindanao, UN Development Program_
 
 ### [ Strikes by 70,000 workers in South Africa halt work on the World Cup 2010 stadiums. ](/news/2009/07/8/strikes-by-70-000-workers-in-south-africa-halt-work-on-the-world-cup-2010-stadiums.md)

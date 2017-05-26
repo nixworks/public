@@ -15,7 +15,7 @@ A powerful earthquake struck northeast Iran on Wednesday near the holy city of M
 ### [North Korea fires a medium-range ballistic missile about 60 kilometers (37 miles) into its eastern waters, in the direction of Japan according to United States and South Korean officials. ](/news/2017/04/5/north-korea-fires-a-medium-range-ballistic-missile-about-60-kilometers-37-miles-into-its-eastern-waters-in-the-direction-of-japan-accordi.md)
 SEOUL, South Korea (AP) — North Korea fired a newly developed powerful ballistic missile into its eastern waters Wednesday, U.S. and South Korean officials said, amid worries the North might conduct nuclear or long-range…
 
-### [China-Finland relations Chinese president Xi Jinping visits Finland on his way to the United States. ](/news/2017/04/5/chinaafinland-relations-pchinese-president-xi-jinping-visits-finland-on-his-way-to-the-united-states.md)
+### [Chinese president Xi Jinping visits Finland on his way to the United States. ](/news/2017/04/5/chinese-president-xi-jinping-visits-finland-on-his-way-to-the-united-states.md)
 China and Finland will increase cooperation under the China-European Union framework, President Xi Jinping said on Wednesday after arriving in Finland for his first visit as head of state.
 
 ### [Mexican Beltran Leyva Cartel drug lord Alfredo Beltran Leyva is sentenced to life in prison and ordered to forfeit $US529,200,000. ](/news/2017/04/5/mexican-beltra-n-leyva-cartel-drug-lord-alfredo-beltra-n-leyva-is-sentenced-to-life-in-prison-and-ordered-to-forfeit-us529-200-000.md)

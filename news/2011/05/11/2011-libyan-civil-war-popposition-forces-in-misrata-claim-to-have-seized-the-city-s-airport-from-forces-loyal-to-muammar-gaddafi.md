@@ -1,6 +1,6 @@
 ### [2011-05-11](/news/2011/05/11/index.md)
 
-# 2011 Libyan civil war: Opposition forces in Misrata claim to have seized the city's airport from forces loyal to Muammar Gaddafi. 
+# 2011 Libyan civil war:Opposition forces in Misrata claim to have seized the city's airport from forces loyal to Muammar Gaddafi. 
 
 Opposition fighters in besieged western city continue advance after breaking through government lines two days ago.
 

@@ -1,6 +1,6 @@
 ### [2007-10-7](/news/2007/10/7/index.md)
 
-#  2007 Pacific typhoon season:  Typhoon Krosa moves towards China's southern Zhejiang and northern Fujian provinces. 
+#  2007 Pacific typhoon season: Typhoon Krosa moves towards China's southern Zhejiang and northern Fujian provinces. 
 
 
 

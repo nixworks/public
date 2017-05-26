@@ -19,7 +19,7 @@ _Context: Barack Obama, Lawrence Summers, President, United States National Econ
 _Context: Mark Cuban, SEC, insider trading_
 
 ### [Tropical Storm Lisa forms in the Atlantic Ocean off the Cape Verde Islands. ](/news/2010/09/21/tropical-storm-lisa-forms-in-the-atlantic-ocean-off-the-cape-verde-islands.md)
-_Context: 2010 Atlantic hurricane season, Atlantic, Cape Verde Islands_
+_Context: 2010 Atlantic hurricane season, Atlantic Ocean, Cape Verde Islands_
 
 ### [China rules out a meeting with Japanese Prime Minister Naoto Kan at the United Nations to resolve an ongoing diplomatic row, saying the timing is "not proper". ](/news/2010/09/21/china-rules-out-a-meeting-with-japanese-prime-minister-naoto-kan-at-the-united-nations-to-resolve-an-ongoing-diplomatic-row-saying-the-timi.md)
 _Context: Japan, Naoto Kan, People's Republic of China, Prime Minister, United Nations_

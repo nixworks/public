@@ -3,7 +3,7 @@
 ### [2011 Syrian uprising: Syrian Army tanks shell the suburb of Bab Amro in the city of Homs, killing at least five people. ](/news/2011/05/11/2011-syrian-uprising-syrian-army-tanks-shell-the-suburb-of-bab-amro-in-the-city-of-homs-killing-at-least-five-people.md)
 Nineteen people reported killed in shelling of Homs and al-Harah despite calls from UN for end to crackdown on protests.
 
-### [2011 Libyan civil war: Opposition forces in Misrata claim to have seized the city's airport from forces loyal to Muammar Gaddafi. ](/news/2011/05/11/2011-libyan-civil-war-popposition-forces-in-misrata-claim-to-have-seized-the-city-s-airport-from-forces-loyal-to-muammar-gaddafi.md)
+### [2011 Libyan civil war:Opposition forces in Misrata claim to have seized the city's airport from forces loyal to Muammar Gaddafi. ](/news/2011/05/11/2011-libyan-civil-war-popposition-forces-in-misrata-claim-to-have-seized-the-city-s-airport-from-forces-loyal-to-muammar-gaddafi.md)
 Opposition fighters in besieged western city continue advance after breaking through government lines two days ago.
 
 ### [Two grenades are thrown into the Saudi Arabian consulate in Karachi, Pakistan; no injures are reported. ](/news/2011/05/11/two-grenades-are-thrown-into-the-saudi-arabian-consulate-in-karachi-pakistan-no-injures-are-reported.md)

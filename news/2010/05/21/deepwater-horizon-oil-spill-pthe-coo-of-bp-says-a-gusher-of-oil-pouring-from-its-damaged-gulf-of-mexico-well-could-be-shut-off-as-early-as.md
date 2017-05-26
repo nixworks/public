@@ -1,6 +1,6 @@
 ### [2010-05-21](/news/2010/05/21/index.md)
 
-# Deepwater Horizon oil spill : The COO of BP says a gusher of oil pouring from its damaged Gulf of Mexico well could be shut off as early as next week, but noted the plugging operation is "quite complex" and has never been tried in water that deep. 
+# Deepwater Horizon oil spill :The COO of BP says a gusher of oil pouring from its damaged Gulf of Mexico well could be shut off as early as next week, but noted the plugging operation is "quite complex" and has never been tried in water that deep. 
 
 
 

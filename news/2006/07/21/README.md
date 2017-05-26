@@ -15,7 +15,7 @@ _Context: Cassini spacecraft, Saturn, Titan_
 ### [ Charles Taylor, the former President of Liberia, appears in court in The Hague to face 11 charges of war crimes and crimes against humanity. ](/news/2006/07/21/charles-taylor-the-former-president-of-liberia-appears-in-court-in-the-hague-to-face-11-charges-of-war-crimes-and-crimes-against-humanity.md)
 _Context: Charles G. Taylor, President of Liberia, Special Court for Sierra Leone, The Hague_
 
-### [ Iraq War:  Four U.S. soldiers accused of murdering suspected insurgents say that officers commanded them to "kill all military age males".](/news/2006/07/21/iraq-war-p-four-u-s-soldiers-accused-of-murdering-suspected-insurgents-say-that-officers-commanded-them-to-kill-all-military-age-males.md)
+### [ Iraq War: Four U.S. soldiers accused of murdering suspected insurgents say that officers commanded them to "kill all military age males".](/news/2006/07/21/iraq-war-p-four-u-s-soldiers-accused-of-murdering-suspected-insurgents-say-that-officers-commanded-them-to-kill-all-military-age-males.md)
 Four U.S. soldiers accused of murdering suspected insurgents during a raid in Iraq said they were under orders to &#8220;kill all military age males,&#8221; according to sworn statements obtained by The Associated Press.
 
 ## [Previous Day...](/news/2006/07/20/index.md)

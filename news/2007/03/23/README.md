@@ -9,7 +9,7 @@ _Context: Palestinian Islamic Jihad, Sami Al-Arian_
 ### [ Jorge Noguera, former Colombian intelligence chief, is freed from prison following a ruling by an appeals court after having been jailed last month for collaborating with right wing militia. ](/news/2007/03/23/jorge-noguera-former-colombian-intelligence-chief-is-freed-from-prison-following-a-ruling-by-an-appeals-court-after-having-been-jailed-la.md)
 _Context: Colombia, Jorge Noguera, appeals court, militia, prison_
 
-### [ War in Afghanistan (2001-present):  A Taliban attack on a convoy carrying supplies to foreign troops in southern Afghanistan kills 17 Afghan security guards and drivers. ](/news/2007/03/23/war-in-afghanistan-2001apresent-p-a-taliban-attack-on-a-convoy-carrying-supplies-to-foreign-troops-in-southern-afghanistan-kills-17-af.md)
+### [ War in Afghanistan (2001-present): A Taliban attack on a convoy carrying supplies to foreign troops in southern Afghanistan kills 17 Afghan security guards and drivers. ](/news/2007/03/23/war-in-afghanistan-2001apresent-p-a-taliban-attack-on-a-convoy-carrying-supplies-to-foreign-troops-in-southern-afghanistan-kills-17-afg.md)
 _Context: Afghanistan, Taliban, War in Afghanistan (2001-present), convoy_
 
 ### [ The President of Iran Mahmoud Ahmadinejad cancels a trip to address the United Nations Security Council before it decides whether to impose further sanctions, saying the United States government had been "obstructive" in issuing visas to members of his entourage. ](/news/2007/03/23/the-president-of-iran-mahmoud-ahmadinejad-cancels-a-trip-to-address-the-united-nations-security-council-before-it-decides-whether-to-impose.md)

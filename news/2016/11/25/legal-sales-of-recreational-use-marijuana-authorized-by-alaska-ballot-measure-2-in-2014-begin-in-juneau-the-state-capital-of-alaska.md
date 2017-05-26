@@ -11,7 +11,7 @@ Even the mayor was there. On Wednesday night, Rainforest Farms made the first le
 
 ### Related:
 
-1. [Vermont governor Phil Scott (R) vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-r-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _Context: Legality of cannabis, marijuana_
+1. [Vermont governor Phil Scott vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _Context: Legality of cannabis, marijuana_
 2. [Colombian President Juan Manuel Santos signs a decree fully legalizing medical marijuana. Growers must apply to the National Narcotics Council for a license. Earlier, Colombia decriminalized personal possession of up to 20 grams. ](/news/2015/12/22/colombian-president-juan-manuel-santos-signs-a-decree-fully-legalizing-medical-marijuana-growers-must-apply-to-the-national-narcotics-counc.md) _Context: Legality of cannabis_
 3. [Effective midnight, Washington, D.C. joins Alaska, Colorado, and Washington state as the only places in the United States that locally purport to override federal law and allow the use of marijuana for recreational purposes. ](/news/2015/02/26/effective-midnight-washington-d-c-joins-alaska-colorado-and-washington-state-as-the-only-places-in-the-united-states-that-locally-purpo.md) _Context: marijuana_
 4. [Colorado says it has collected $2 million in taxes from marijuana sales in the month of January. ](/news/2014/03/11/colorado-says-it-has-collected-2-million-in-taxes-from-marijuana-sales-in-the-month-of-january.md) _Context: marijuana_

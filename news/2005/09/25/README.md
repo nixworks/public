@@ -15,7 +15,7 @@ _Context: Alliance of the Democratic Left, Civic Platform, Law and Justice, Poli
 ### [ Swiss voters approve a referendum by 56% to 44% to allow citizens from the 10 newest European Union member countries to travel and work in Switzerland. Quotas will be applied until 2011 on the number of people allowed to settle. ](/news/2005/09/25/swiss-voters-approve-a-referendum-by-56-to-44-to-allow-citizens-from-the-10-newest-european-union-member-countries-to-travel-and-work-in.md)
 _Context: 2011, European Union, Swiss, referendum_
 
-### [ Conflict in Iraq:  At least four Shia Muslims, believed to be members of the Mahdi Army are killed by US soldiers in a gunfight following a U.S. raid into Sadr City, eastern Baghdad. ](/news/2005/09/25/conflict-in-iraq-p-at-least-four-shia-muslims-believed-to-be-members-of-the-mahdi-army-are-killed-by-us-soldiers-in-a-gunfight-following.md)
+### [ Conflict in Iraq: At least four Shia Muslims, believed to be members of the Mahdi Army are killed by US soldiers in a gunfight following a U.S. raid into Sadr City, eastern Baghdad. ](/news/2005/09/25/conflict-in-iraq-p-at-least-four-shia-muslims-believed-to-be-members-of-the-mahdi-army-are-killed-by-us-soldiers-in-a-gunfight-following-a.md)
 _Context: Baghdad, Conflict in Iraq, Mahdi Army, Muslim, Sadr City, Shia, US soldiers, United States_
 
 ### [ Conflict in Afghanistan: 5 US soldiers die when a Chinook helicopter crashes in Zabul, southern Afghanistan. ](/news/2005/09/25/conflict-in-afghanistan-5-us-soldiers-die-when-a-chinook-helicopter-crashes-in-zabul-southern-afghanistan.md)

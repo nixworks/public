@@ -1,6 +1,6 @@
 ## [2011-05-8](/news/2011/05/8/index.md)
 
-### [2011 Syrian protests: Syrian forces enter the cities of Homs and Tafas, where anti-government demonstrations were taking place. ](/news/2011/05/8/2011-syrian-protests-psyrian-forces-enter-the-cities-of-homs-and-tafas-where-anti-government-demonstrations-were-taking-place.md)
+### [2011 Syrian protests:Syrian forces enter the cities of Homs and Tafas, where anti-government demonstrations were taking place. ](/news/2011/05/8/2011-syrian-protests-psyrian-forces-enter-the-cities-of-homs-and-tafas-where-anti-government-demonstrations-were-taking-place.md)
 Syrian security forces enter the city of Homs making a number of arrests, as nationwide operations continue against anti-government protests.
 
 ### [Bahrain's King Hamad bin Isa Al Khalifa orders an end to the emergency law imposed after anti-government protests. ](/news/2011/05/8/bahrain-s-king-hamad-bin-isa-al-khalifa-orders-an-end-to-the-emergency-law-imposed-after-anti-government-protests.md)

@@ -1,6 +1,6 @@
 ### [2006-09-17](/news/2006/09/17/index.md)
 
-#  Swedish general election, 2006 is held to elect 349 members to the Riksdag. Elections to County and Municipal councils are on the same day. Voting is between 08:00 - 20:00. CEST (UTC+2)  Sweden's center-right opposition alliance Alliance for Sweden declares victory after nearly complete official election results showed it narrowly defeating the governing Swedish Social Democratic Party. The Prime Minister of Sweden, Gran Persson, conceded defeat. 
+#  Swedish general election, 2006 is held to elect 349 members to the Riksdag. Elections to County and Municipal councils are on the same day. Voting is between 08:00 - 20:00. CEST (UTC+2) Sweden's center-right opposition alliance Alliance for Sweden declares victory after nearly complete official election results showed it narrowly defeating the governing Swedish Social Democratic Party. The Prime Minister of Sweden, Gran Persson, conceded defeat. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

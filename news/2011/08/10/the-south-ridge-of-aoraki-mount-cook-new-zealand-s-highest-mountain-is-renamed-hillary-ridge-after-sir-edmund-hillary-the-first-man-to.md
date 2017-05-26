@@ -11,7 +11,7 @@ WELLINGTON (Reuters Life!) - New Zealand will name a part of its highest mountai
 
 ### Related:
 
-1. [Four climbers are found dead on Mount Everest, bringing this season's death toll to 10. ](/news/2017/05/24/four-climbers-are-found-dead-on-mount-everest-bringing-this-season-s-death-toll-to-10.md) _Context: Mount Everest_
+1. [Four Climbers are found dead on Mount Everest, bringing this season's death toll to 10. ](/news/2017/05/24/four-climbers-are-found-dead-on-mount-everest-bringing-this-season-s-death-toll-to-10.md) _Context: Mount Everest_
 2. [Mountaineers led by Tim Mosedale confirm suspicions that Mount Everest's famous Hillary Step had completely collapsed. ](/news/2017/05/21/mountaineers-led-by-tim-mosedale-confirm-suspicions-that-mount-everest-s-famous-hillary-step-had-completely-collapsed.md) _Context: Mount Everest_
 3. [Severe flooding caused by Cyclone Debbie forces the evacuation of Edgecumbe, New Zealand, and nearby areas. ](/news/2017/04/6/severe-flooding-caused-by-cyclone-debbie-forces-the-evacuation-of-edgecumbe-new-zealand-and-nearby-areas.md) _Context: New Zealand_
 4. [Swiss mountain climber Ueli Steck dies in a mountaineering accident near Mount Everest. ](/news/2017/04/30/swiss-mountain-climber-ueli-steck-dies-in-a-mountaineering-accident-near-mount-everest.md) _Context: Mount Everest_

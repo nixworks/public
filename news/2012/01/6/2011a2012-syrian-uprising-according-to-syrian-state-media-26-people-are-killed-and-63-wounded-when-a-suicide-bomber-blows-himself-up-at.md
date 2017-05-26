@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Syrian Civil War: A suicide bomber kills 16 Syrian Army soldiers at a checkpoint near Damascus. ](/news/2013/10/19/syrian-civil-war-pa-suicide-bomber-kills-16-syrian-army-soldiers-at-a-checkpoint-near-damascus.md) _Context: Damascus, suicide bomber_
+1. [Syrian Civil War:A suicide bomber kills 16 Syrian Army soldiers at a checkpoint near Damascus. ](/news/2013/10/19/syrian-civil-war-pa-suicide-bomber-kills-16-syrian-army-soldiers-at-a-checkpoint-near-damascus.md) _Context: Damascus, suicide bomber_
 2. [A suicide bomber kills at least five people in the Syrian capital Damascus. ](/news/2012/04/27/a-suicide-bomber-kills-at-least-five-people-in-the-syrian-capital-damascus.md) _Context: Damascus, suicide bomber_
 3. [Syrian uprising:Syrian armed forces continue to shell the city of Hama and at least 59 civilians are reported killed across Syria, in Idlib, Homs, Hama, Daraa, Lattakia, Aleppo and Damascus. ](/news/2012/03/22/syrian-uprising-psyrian-armed-forces-continue-to-shell-the-city-of-hama-and-at-least-59-civilians-are-reported-killed-across-syria-in-idlib.md) _Context: 2011-2012 Syrian uprising, Damascus_
 4. [Syrian uprising:At least 30 people are reported killed in fighting between Syrian rebels and government forces in the Damascus neighborhood of al-Mazzeh. ](/news/2012/03/19/syrian-uprising-pat-least-30-people-are-reported-killed-in-fighting-between-syrian-rebels-and-government-forces-in-the-damascus-neighborhood.md) _Context: 2011-2012 Syrian uprising, Damascus_

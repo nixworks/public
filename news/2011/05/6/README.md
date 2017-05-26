@@ -3,7 +3,7 @@
 ### [2011 Yemeni protests: Protests continue in Yemen. ](/news/2011/05/6/2011-yemeni-protests-protests-continue-in-yemen.md)
 GCC-brokered exit deal on hold as Saleh rejects calls to quit and pro- and anti-government crowds return to the streets.
 
-### [2011 Syrian uprising: 27 people are killed in a "day of defiance" against the regime in Syria on Friday, including 15 protesters, and 5 security forces in Homs. ](/news/2011/05/6/2011-syrian-uprising-p27-people-are-killed-in-a-day-of-defiance-against-the-regime-in-syria-on-friday-including-15-protesters-and-5-sec.md)
+### [2011 Syrian uprising:27 people are killed in a "day of defiance" against the regime in Syria on Friday, including 15 protesters, and 5 security forces in Homs. ](/news/2011/05/6/2011-syrian-uprising-p27-people-are-killed-in-a-day-of-defiance-against-the-regime-in-syria-on-friday-including-15-protesters-and-5-secu.md)
 The White House warns Syria it will take &quot;additional steps&quot; if Damascus continues a crackdown on protests, as at least 21 people are reported killed.
 
 ### [Tunisian Revolution: Riot police break up an anti-government demonstration calling for a "new revolution" in the capital Tunis. ](/news/2011/05/6/tunisian-revolution-riot-police-break-up-an-anti-government-demonstration-calling-for-a-new-revolution-in-the-capital-tunis.md)
@@ -69,7 +69,7 @@ _Context: Maldives_
 ### [Police in Azerbaijan break up a demonstration against a ban on female students wearing the hijab. ](/news/2011/05/6/police-in-azerbaijan-break-up-a-demonstration-against-a-ban-on-female-students-wearing-the-hijab.md)
 _Context: Azerbaijan, Hijab_
 
-### [Iranian politics: A political row between Iranian President Mahmoud Ahmadinejad and Supreme Leader Ayatollah Ali Khamenei intensifies, with Ahmadinejad said to contemplating resignation. ](/news/2011/05/6/iranian-politics-pa-political-row-between-iranian-president-mahmoud-ahmadinejad-and-supreme-leader-ayatollah-ali-khamenei-intensifies-with.md)
+### [Iranian politics:A political row between Iranian President Mahmoud Ahmadinejad and Supreme Leader Ayatollah Ali Khamenei intensifies, with Ahmadinejad said to contemplating resignation. ](/news/2011/05/6/iranian-politics-pa-political-row-between-iranian-president-mahmoud-ahmadinejad-and-supreme-leader-ayatollah-ali-khamenei-intensifies-with.md)
 Iranian president said to be considering resignation after intelligence chief he fired was reinstated by supreme leader.
 
 ### [The counting of votes in UK local elections continues with the Labour Party making gains and the Liberal Democrats losing seats. ](/news/2011/05/6/the-counting-of-votes-in-uk-local-elections-continues-with-the-labour-party-making-gains-and-the-liberal-democrats-losing-seats.md)

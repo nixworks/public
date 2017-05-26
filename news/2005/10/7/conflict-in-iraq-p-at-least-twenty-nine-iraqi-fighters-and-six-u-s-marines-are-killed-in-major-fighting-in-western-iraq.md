@@ -1,6 +1,6 @@
 ### [2005-10-7](/news/2005/10/7/index.md)
 
-#  Conflict in Iraq:  At least twenty-nine Iraqi fighters and six U.S. Marines are killed in major fighting in western Iraq. 
+#  Conflict in Iraq: At least twenty-nine Iraqi fighters and six U.S. Marines are killed in major fighting in western Iraq. 
 
 
 

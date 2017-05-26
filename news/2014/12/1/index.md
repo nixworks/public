@@ -33,7 +33,7 @@ A group of 30 men with guns and machetes hold up a PNG airport, keeping passenge
 ### [Former Polish prime minister Donald Tusk becomes the second full-time President of the European Union. ](/news/2014/12/1/former-polish-prime-minister-donald-tusk-becomes-the-second-full-time-president-of-the-european-union.md)
 EU Council chief Van Rompuy is ending his five-year term true to his nature, with no glam or pomp. But his legacy is significant, particularly in the eurozone crisis and its institutional follow-up.
 
-### [Moldovan parliamentary election, 2014 Moldova's pro-European parties begin consultations on forming a coalition as near-complete results show them gaining 54 seats in the 101-seat parliament. ](/news/2014/12/1/moldovan-parliamentary-election-2014-pmoldova-s-pro-european-parties-begin-consultations-on-forming-a-coalition-as-near-complete-results-sh.md)
+### [Moldova's pro-European parties begin consultations on forming a coalition as near-complete results show them gaining 54 seats in the 101-seat parliament. ](/news/2014/12/1/moldova-s-pro-european-parties-begin-consultations-on-forming-a-coalition-as-near-complete-results-show-them-gaining-54-seats-in-the-101-sea.md)
 _Context: Moldova, Moldovan Parliament, Moldovan parliamentary election, 2014_
 
 ### [Pro-democracy demonstrators and the Hong Kong Police Force clash outside the headquarters of the Government of Hong Kong. Dozens of people are arrested. ](/news/2014/12/1/pro-democracy-demonstrators-and-the-hong-kong-police-force-clash-outside-the-headquarters-of-the-government-of-hong-kong-dozens-of-people-a.md)

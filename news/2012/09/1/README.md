@@ -37,7 +37,7 @@ _Context: 16th Summit of the Non-Aligned Movement, Iran, Palestinian, People's R
 State media declares dos Santos as president-elect after his MPLA party takes unassailable lead in general elections.
 
 ### [U.S.environmentalists vow to legally fight the federal end of protecting the wolf in Wyoming, saying the species still needs protection to maintain its successful recovery. ](/news/2012/09/1/u-s-environmentalists-vow-to-legally-fight-the-federal-end-of-protecting-the-wolf-in-wyoming-saying-the-species-still-needs-protection-to-m.md)
-_Context: American, United States, Wyoming, environmental activists, needs protection, wolf_
+_Context: United States, United States, Wyoming, environmental activists, needs protection, wolf_
 
 ### [Ten days after public remarks, U.S. presidential running mate Paul Ryan's personal record on the marathon run goes from less than 3 to over 4 hours. ](/news/2012/09/1/ten-days-after-public-remarks-u-s-presidential-running-mate-paul-ryan-s-personal-record-on-the-marathon-run-goes-from-less-than-3-to-over.md)
 _Context: Paul Ryan, marathon, running mate_

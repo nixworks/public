@@ -28,7 +28,7 @@ _Context: Bandung, Fokker F27, Indonesia, West Java, airliner, crashes_
 _Context: ETA, France, French police, Grenoble, Isere, bomb, raid_
 
 ### [ Australia's government announces a A$43-billion investment for the National Broadband Network. ](/news/2009/04/7/australia-s-government-announces-a-a-43-billion-investment-for-the-national-broadband-network.md)
-_Context: A$, Australia, Australia's government, National Broadband Network, financial investment_
+_Context: A$, Australia, Government of Australia, National Broadband Network, financial investment_
 
 ### [ The General Assembly legalizes same-sex marriage in Vermont, United States. ](/news/2009/04/7/the-general-assembly-legalizes-same-sex-marriage-in-vermont-united-states.md)
 _Context: General Assembly, United States, Vermont, legalizes, same-sex marriage_

@@ -1,6 +1,6 @@
 ### [2014-05-22](/news/2014/05/22/index.md)
 
-# May 2014 Urumqi attack: An explosion occurs in the city of Urumqi, the capital of China's far-western Xinjiang Uyghur Autonomous Region, resulting in at least 31 deaths and 91 injuries. 
+# May 2014 Urumqi attack:An explosion occurs in the city of Urumqi, the capital of China's far-western Xinjiang Uyghur Autonomous Region, resulting in at least 31 deaths and 91 injuries. 
 
 At least 31 people have died in an explosion in the capital of China&#39;s western region of Xinjiang.
 

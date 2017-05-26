@@ -1,0 +1,25 @@
+### [2012-08-30](/news/2012/08/30/index.md)
+
+# Syrian civil war:Egyptian president Mohammed Morsi describes the conflict as an uprising against an "oppressive regime" and likens it to the Palestinians, sparking a walkout from the Syrian delegation at a meeting of the Non-Aligned Movement in Iran. 
+
+
+
+
+### Source:
+
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/201283055952298905.html)
+2. [BBC](http://www.bbc.co.uk/news/world-middle-east-19418556)
+3. [The Washington Post](http://www.washingtonpost.com/world/middle_east/syrian-opposition-says-president-assads-speech-is-attempt-to-explain-military-stalemate/2012/08/30/32e06d36-f28c-11e1-b74c-84ed55e0300b_story.html)
+
+### Related:
+
+1. [Egypt's state news agency says President Mohammed Morsi is to attend the upcoming Non-Aligned Movement meeting in Iran at the end of August. ](/news/2012/08/18/egypt-s-state-news-agency-says-president-mohammed-morsi-is-to-attend-the-upcoming-non-aligned-movement-meeting-in-iran-at-the-end-of-august.md) _Context: Egypt, Iran, Mohammed Morsi, Non-aligned Movement_
+2. [Egyptian officials deny that newly elected Egyptian President Mohammed Morsi will visit Iran to attend a conference. ](/news/2012/07/4/egyptian-officials-deny-that-newly-elected-egyptian-president-mohammed-morsi-will-visit-iran-to-attend-a-conference.md) _Context: Egypt, Iran, Mohammed Morsi_
+3. [A memorandum is signed by Russia, Iran, and Turkey calling for de-escalation of the Syrian Civil War, although neither the Syrian government nor the Syrian opposition are signatories. ](/news/2017/05/4/a-memorandum-is-signed-by-russia-iran-and-turkey-calling-for-de-escalation-of-the-syrian-civil-war-although-neither-the-syrian-government.md) _Context: Iran, Syrian Civil War_
+4. [The second day of peace negotiations in Astana, Kazakhstan, end with the sponsors of the talks, Russia, Turkey and Iran, agreeing to set up commission between the three to monitor and enforce the fragile ceasefire to the Syrian Civil War. ](/news/2017/01/24/the-second-day-of-peace-negotiations-in-astana-kazakhstan-end-with-the-sponsors-of-the-talks-russia-turkey-and-iran-agreeing-to-set-up.md) _Context: Iran, Syrian Civil War_
+5. [Seven Pakistani crew members on Iranian cargo ship MV ''Joya'', sailing from Egypt to Dubai, UAE, are killed in a rocket attack off Yemen's coast. ](/news/2016/12/22/seven-pakistani-crew-members-on-iranian-cargo-ship-mv-joya-sailing-from-egypt-to-dubai-uae-are-killed-in-a-rocket-attack-off-yemen-s.md) _Context: Egypt, Iran_
+6. [Around ten heads of state attend the 17th Non-aligned Movement summit in Isla Margarita, Venezuela, including Evo Morales of Bolivia, Raul Castro of Cuba, Rafael Correa of Ecuador, Hassan Rouhani of Iran, Mahmoud Abbas of the State of Palestine, Robert Mugabe of Zimbabwe, and Venezuela's president Nicolas Maduro. ](/news/2016/09/17/around-ten-heads-of-state-attend-the-17th-non-aligned-movement-summit-in-isla-margarita-venezuela-including-evo-morales-of-bolivia-raaol.md) _Context: Iran, Non-aligned Movement_
+7. [Iran confirms that Russia will stop using its Hamadan Airbase to launch attacks in Syria, saying Russia's use of Hamadan Airbase was "temporary, based on a Russian request," and that Russian operations are "finished for now". Iranian Defence Minister Hossein Dehghan earlier criticized Russia's announcement of its use of the base in Iran, saying "There has been a kind of showing-off and inconsiderate attitude behind the announcement of this news." ](/news/2016/08/22/iran-confirms-that-russia-will-stop-using-its-hamadan-airbase-to-launch-attacks-in-syria-saying-russia-s-use-of-hamadan-airbase-was-tempor.md) _Context: Iran, Syrian Civil War_
+8. [   At least 13 Iranian soldiers are killed in a battle with Islamist militants in a village near Aleppo, Syria. This is the largest single day loss for the Iranians since the start of the conflict. ](/news/2016/05/7/at-least-13-iranian-soldiers-are-killed-in-a-battle-with-islamist-militants-in-a-village-near-aleppo-syria-this-is-the-largest-single-d.md) _Context: Iran, Syrian Civil War_
+9. [Saudi Arabian  Foreign Minister Adel al-Jubeir says the country's recent tensions with Iran will not interfere with Syrian peace talks scheduled to begin in Geneva, Switzerland, later this month. ](/news/2016/01/5/saudi-arabian-foreign-minister-adel-al-jubeir-says-the-country-s-recent-tensions-with-iran-will-not-interfere-with-syrian-peace-talks-sched.md) _Context: Iran, Syrian Civil War_
+10. [Lebanese Customs seize five tonnes of Captagon amphetamine pills and Hashish, concealed in primary school desks that were to be shipped to Egypt, at Beirut-Rafic Hariri International Airport. Meanwhile, security forces in northern Lebanon found two workshops producing Captagon and other drugs during a series of raids. The drug is infamous as being used by Islamist militants in the Syrian civil war. ](/news/2015/12/29/lebanese-customs-seize-five-tonnes-of-captagon-amphetamine-pills-and-hashish-concealed-in-primary-school-desks-that-were-to-be-shipped-to-e.md) _Context: Egypt, Syrian Civil War_

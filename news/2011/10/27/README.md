@@ -1,6 +1,6 @@
 ## [2011-10-27](/news/2011/10/27/index.md)
 
-### [Aftermath of Libyan civil war: The United Nations Security Council confirms that the NATO-enforced no-fly zone over Libya will be terminated on October 31. ](/news/2011/10/27/aftermath-of-libyan-civil-war-pthe-united-nations-security-council-confirms-that-the-nato-enforced-no-fly-zone-over-libya-will-be-terminate.md)
+### [Aftermath of Libyan civil war:The United Nations Security Council confirms that the NATO-enforced no-fly zone over Libya will be terminated on October 31. ](/news/2011/10/27/aftermath-of-libyan-civil-war-pthe-united-nations-security-council-confirms-that-the-nato-enforced-no-fly-zone-over-libya-will-be-terminated.md)
 The UN Security Council votes to end seven months of international military action in Libya, carried out under a mandate to protect civilians.
 
 ### [18 people are killed and at least 36 wounded by twin bombings in the Iraqi capital Baghdad. ](/news/2011/10/27/18-people-are-killed-and-at-least-36-wounded-by-twin-bombings-in-the-iraqi-capital-baghdad.md)

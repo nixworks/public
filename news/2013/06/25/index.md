@@ -43,7 +43,7 @@ Representative Edward J. Markey of Massachusetts won a promotion to the Senate o
 _Context: Emir of Qatar, Hamad bin Khalifa Al Thani, Tamim bin Hamad Al Thani_
 
 ### [The Prime Minister of Greece, Antonis Samaras, reshuffles his cabinet giving more positions to his Panhellenic Socialist Movement coalition partner, appointing its leader Evangelos Venizelos as Deputy Prime Minister and Foreign Minister. ](/news/2013/06/25/the-prime-minister-of-greece-antonis-samaras-reshuffles-his-cabinet-giving-more-positions-to-his-panhellenic-socialist-movement-coalition.md)
-_Context: Antonis Samaras, Deputy Prime Minister, Evangelos Venizelos, Foreign Minister, Greek prime minister, PASOK_
+_Context: Antonis Samaras, Deputy Prime Minister, Evangelos Venizelos, Foreign Minister, Greek Prime Minister, PASOK_
 
 ### [FICCI calls on the government of India to legalize sports betting. ](/news/2013/06/25/ficci-calls-on-the-government-of-india-to-legalize-sports-betting.md)
 Amidst the uproar over the spot-fixing and betting scandal, industry body FICCI has yet again called for the government to legalize regulated sports betting.

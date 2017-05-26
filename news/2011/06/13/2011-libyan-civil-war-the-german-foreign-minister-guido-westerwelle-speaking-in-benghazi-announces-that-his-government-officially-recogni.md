@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [2011 Libyan civil war: Russia announces plans to send another planeload of humanitarian aid to the Libyan cities of Benghazi and Tripoli. ](/news/2011/07/7/2011-libyan-civil-war-prussia-announces-plans-to-send-another-planeload-of-humanitarian-aid-to-the-libyan-cities-of-benghazi-and-tripoli.md) _Context: Benghazi, Libyan Civil War_
+1. [2011 Libyan civil war:Russia announces plans to send another planeload of humanitarian aid to the Libyan cities of Benghazi and Tripoli. ](/news/2011/07/7/2011-libyan-civil-war-prussia-announces-plans-to-send-another-planeload-of-humanitarian-aid-to-the-libyan-cities-of-benghazi-and-tripoli.md) _Context: Benghazi, Libyan Civil War_
 2. [Arab Spring:2011 Libyan civil war:Hospitals in Benghazi are reported to be running low on vital supplies. ](/news/2011/06/28/arab-spring-p2011-libyan-civil-war-phospitals-in-benghazi-are-reported-to-be-running-low-on-vital-supplies.md) _Context: Benghazi, Libyan Civil War_
 3. [2011 Libyan civil war:A humanitarian ship from Turkey rescues more than 250 injured people from Misrata and safely delivers them to the rebel stronghold of Benghazi. ](/news/2011/04/4/2011-libyan-civil-war-pa-humanitarian-ship-from-turkey-rescues-more-than-250-injured-people-from-misrata-and-safely-delivers-them-to-the-reb.md) _Context: Benghazi, Libyan Civil War_
 4. [2011 Libyan civil war:Two US airmen safely eject prior to their F-15E crashing near Benghazi, Libya, due to mechanical failure. ](/news/2011/03/22/2011-libyan-civil-war-ptwo-us-airmen-safely-eject-prior-to-their-f-15e-crashing-near-benghazi-libya-due-to-mechanical-failure.md) _Context: Benghazi, Libyan Civil War_

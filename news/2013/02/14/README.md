@@ -21,7 +21,7 @@ Warren Buffett and Brazilian financier Jorge Paulo Lemann are teaming up to buy 
 ### [Two people are killed and a third injured following an avalanche in the Scottish Highlands. ](/news/2013/02/14/two-people-are-killed-and-a-third-injured-following-an-avalanche-in-the-scottish-highlands.md)
 A man and a woman die and a man is critically injured after being caught in an avalanche in the Highlands of Scotland.
 
-### [2013 meat adulteration scandal: German authorities find horse meat in lasagne sold in Germany, as in Italy further tests will be conducted soon. ](/news/2013/02/14/2013-meat-adulteration-scandal-pgerman-authorities-find-horse-meat-in-lasagne-sold-in-germany-as-in-italy-further-tests-will-be-conducted.md)
+### [2013 meat adulteration scandal:German authorities find horse meat in lasagne sold in Germany, as in Italy further tests will be conducted soon. ](/news/2013/02/14/2013-meat-adulteration-scandal-pgerman-authorities-find-horse-meat-in-lasagne-sold-in-germany-as-in-italy-further-tests-will-be-conducted-s.md)
 Germany is the latest country to report horsemeat DNA in processed beef, as authorities across the EU are told to conduct tests.
 
 ### [South African amputee sprint runner Oscar Pistorius, who competed in the 2012 Summer Olympics, is charged with the murder of his girlfriend, Reeva Steenkamp, who was shot dead at Pistorius's home in Pretoria. ](/news/2013/02/14/south-african-amputee-sprint-runner-oscar-pistorius-who-competed-in-the-2012-summer-olympics-is-charged-with-the-murder-of-his-girlfriend.md)

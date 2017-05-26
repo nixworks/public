@@ -11,4 +11,4 @@ The Reform Party, a right of center, market-liberal force that has played a domi
 
 ### Related:
 
-1. [ Estonian parliamentary election, 2007: Andrus Ansip's Reform Party wins 27% of the vote raising its mandate in the Riigikogu to 31 seats from 19.   Approximately 30,000 voters take advantage of electronic voting, becoming the first nationwide election where part of the votecasting was allowed via the Internet. ](/news/2007/03/4/estonian-parliamentary-election-2007-p-andrus-ansip-s-reform-party-wins-27-of-the-vote-raising-its-mandate-in-the-riigikogu-to-31-seats-f.md) _Context: Reform Party_
+1. [ Estonian parliamentary election, 2007: Andrus Ansip's Reform Party wins 27% of the vote raising its mandate in the Riigikogu to 31 seats from 19. Approximately 30,000 voters take advantage of electronic voting, becoming the first nationwide election where part of the votecasting was allowed via the Internet. ](/news/2007/03/4/estonian-parliamentary-election-2007-p-andrus-ansip-s-reform-party-wins-27-of-the-vote-raising-its-mandate-in-the-riigikogu-to-31-seats-f.md) _Context: Reform Party_

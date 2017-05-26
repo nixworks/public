@@ -3,7 +3,7 @@
 ### [Kachin conflict:President Thein Sein of Myanmar orders the Myanmar Armed Forces to observe a ceasefire with Kachin rebels. ](/news/2013/01/18/kachin-conflict-ppresident-thein-sein-of-myanmar-orders-the-myanmar-armed-forces-to-observe-a-ceasefire-with-kachin-rebels.md)
 The Myanmar military will observe a ceasefire in its fight with ethnic Kachin rebels with effect from Saturday, state television reported, but rebels would not immediately commit to uphold the truce.
 
-### [Northern Mali conflict (2012-present):Battle of Konna: The Military of Mali recaptures the town of Konna three days after French jets drove out Islamist militants. ](/news/2013/01/18/northern-mali-conflict-2012apresent-pbattle-of-konna-pthe-military-of-mali-recaptures-the-town-of-konna-three-days-after-french-jets-dr.md)
+### [Northern Mali conflict (2012-present):Battle of Konna:The Military of Mali recaptures the town of Konna three days after French jets drove out Islamist militants. ](/news/2013/01/18/northern-mali-conflict-2012apresent-pbattle-of-konna-pthe-military-of-mali-recaptures-the-town-of-konna-three-days-after-french-jets-dro.md)
 Islamist fighters have withdrawn from two towns in central Mali after French air strikes, local officials say.
 
 ### [In Amenas hostage crisis:About 60 foreign hostages are unaccounted for in the standoff with Islamist militants now entering its third day. ](/news/2013/01/18/in-ama-c-nas-hostage-crisis-pabout-60-foreign-hostages-are-unaccounted-for-in-the-standoff-with-islamist-militants-now-entering-its-third-day.md)

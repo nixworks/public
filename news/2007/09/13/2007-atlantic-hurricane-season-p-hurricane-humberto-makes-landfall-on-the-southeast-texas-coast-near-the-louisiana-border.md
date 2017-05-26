@@ -1,6 +1,6 @@
 ### [2007-09-13](/news/2007/09/13/index.md)
 
-#  2007 Atlantic hurricane season:  Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. 
+#  2007 Atlantic hurricane season: Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. 
 
 
 

@@ -9,7 +9,7 @@ Iraqi forces backed by U.S.-led coalition air strikes reached the center of the 
 ### [ISIL militants reportedly execute 175 workers who were captured earlier this week at a cement factory situated to the east of Damascus. ](/news/2016/04/8/isil-militants-reportedly-execute-175-workers-who-were-captured-earlier-this-week-at-a-cement-factory-situated-to-the-east-of-damascus.md)
 Islamic State militants have killed 175 workers who were captured at a cement factory situated to the east of Damascus, Sputnik Arabic reported, citing its sources.
 
-### [2016 Armenian-Azerbaijani clashes An ethnic Armenian soldier dies in overnight clashes. ](/news/2016/04/8/2016-armenianaazerbaijani-clashes-pan-ethnic-armenian-soldier-dies-in-overnight-clashes.md)
+### [An ethnic Armenian soldier dies in overnight clashes. ](/news/2016/04/8/an-ethnic-armenian-soldier-dies-in-overnight-clashes.md)
 _Context: 2016 Armenian-Azerbaijani clashes, Armenian_
 
 ### [Pope Francis issues ''Amoris Laetitia'' or the Joy of Love, a document on the Roman Catholic approach to love, sex, marriage and family life.  ](/news/2016/04/8/pope-francis-issues-amoris-laetitia-or-the-joy-of-love-a-document-on-the-roman-catholic-approach-to-love-sex-marriage-and-family-life.md)

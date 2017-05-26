@@ -9,7 +9,7 @@ India conferred one of its highest civilian awards on billionaire philanthropist
 ### [Standard & Poor's ratings agency cuts Russia's credit rating to junk status due to the impact of falling oil prices and sanctions. ](/news/2015/01/26/standard-poor-s-ratings-agency-cuts-russia-s-credit-rating-to-junk-status-due-to-the-impact-of-falling-oil-prices-and-sanctions.md)
 _Context: 2014-15 Russian financial crisis, Standard & Poor's, junk bond_
 
-### [January 2015 nor'easter The blizzard begins as an ongoing winter storm across the Central and Eastern United States. States of New Jersey through New York and New England enact blizzard warnings. ](/news/2015/01/26/january-2015-nor-easter-pthe-blizzard-begins-as-an-ongoing-winter-storm-across-the-central-and-eastern-united-states-states-of-new-jersey-t.md)
+### [The blizzard begins as an ongoing winter storm across the Central and Eastern United States. States of New Jersey through New York and New England enact blizzard warnings. ](/news/2015/01/26/the-blizzard-begins-as-an-ongoing-winter-storm-across-the-central-and-eastern-united-states-states-of-new-jersey-through-new-york-and-new-e.md)
 Watch scenes from across America&#039;s East Coast as Winter Storm Juno causes travel chaos
 
 ### [An F-16 jet belonging to the Hellenic Air Force crashes in southern Spain during a NATO exercise, killing ten people and injuring 21. ](/news/2015/01/26/an-f-16-jet-belonging-to-the-hellenic-air-force-crashes-in-southern-spain-during-a-nato-exercise-killing-ten-people-and-injuring-21.md)

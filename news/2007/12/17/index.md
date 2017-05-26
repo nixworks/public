@@ -1,7 +1,7 @@
 ## [2007-12-17](/news/2007/12/17/index.md)
 
 ### [ The leaders of Brazil, Bolivia, and Chile agree to build a highway by 2009 that will link the Atlantic (in Santos, Brazil) and the Pacific (in Iquique, Chile) coasts of South America. ](/news/2007/12/17/the-leaders-of-brazil-bolivia-and-chile-agree-to-build-a-highway-by-2009-that-will-link-the-atlantic-in-santos-brazil-and-the-pacific.md)
-_Context: Atlantic, Bolivia, Brazil, Chile, Iquique, Pacific, Santos, South America_
+_Context: Atlantic Ocean, Bolivia, Brazil, Chile, Iquique, Pacific, Santos, South America_
 
 ### [ Zarkasih, the leader of the Islamic militant organisation Jemaah Islamiyah, goes on trial in Indonesia on terrorism charges. ](/news/2007/12/17/zarkasih-the-leader-of-the-islamic-militant-organisation-jemaah-islamiyah-goes-on-trial-in-indonesia-on-terrorism-charges.md)
 _Context: Indonesia, Islam, Islamists, Jemaah Islamiyah_

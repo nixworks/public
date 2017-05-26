@@ -1,6 +1,6 @@
 ### [2013-06-18](/news/2013/06/18/index.md)
 
-# U.S. government surveillance programs (including PRISM): Several Federal officials, including National Security Agency (NSA) Director Keith Alexander, testify at a hearing held by the U.S. House Intelligence Committee over government surveillance programs whose existence was leaked earlier this month.  
+# U.S. government surveillance programs (including PRISM):Several Federal officials, including National Security Agency (NSA) Director Keith Alexander, testify at a hearing held by the U.S. House Intelligence Committee over government surveillance programs whose existence was leaked earlier this month.  
 
 
 

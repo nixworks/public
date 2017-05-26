@@ -13,7 +13,7 @@ Fourteen people have been killed in China in the heaviest rains in a century bro
 
 ### Related:
 
-1. [2015 Pacific typhoon season	Taiwan evacuates hundreds of people ahead of Typhoon Soudelor (2015). ](/news/2015/08/7/2015-pacific-typhoon-season-ptaiwan-evacuates-hundreds-of-people-ahead-of-typhoon-soudelor-2015.md) _Context: 2015 Pacific typhoon season, Taiwan, Typhoon Soudelor_
+1. [Taiwan evacuates hundreds of people ahead of Typhoon Soudelor (2015). ](/news/2015/08/7/taiwan-evacuates-hundreds-of-people-ahead-of-typhoon-soudelor-2015.md) _Context: 2015 Pacific typhoon season, Taiwan, Typhoon Soudelor_
 2. [Typhoon Soudelor (Hanna) strengthens to the strongest storm of 2015; it is expected to be equivalent to a Category 3 or Category 4 hurricane when it hits Taiwan. ](/news/2015/08/5/typhoon-soudelor-hanna-strengthens-to-the-strongest-storm-of-2015-it-is-expected-to-be-equivalent-to-a-category-3-or-category-4-hurricane.md) _Context: 2015 Pacific typhoon season, Taiwan, Typhoon Soudelor_
 3. [Typhoon Dujuan hits mainland China in Fujian province after hitting Taiwan, where it caused two deaths and injured 300. ](/news/2015/09/29/typhoon-dujuan-hits-mainland-china-in-fujian-province-after-hitting-taiwan-where-it-caused-two-deaths-and-injured-300.md) _Context: 2015 Pacific typhoon season, Taiwan_
 4. [Taiwan prepares for the impact of Typhoon Dujuan tonight, with thousands of people evacuated from outlying islands ahead of this. ](/news/2015/09/28/taiwan-prepares-for-the-impact-of-typhoon-dujuan-tonight-with-thousands-of-people-evacuated-from-outlying-islands-ahead-of-this.md) _Context: 2015 Pacific typhoon season, Taiwan_

@@ -25,7 +25,7 @@ _Context: 110P1, Amazonas, Brazil, Embraer, air taxi_
 _Context: Antananarivo, Madagascar, anti-government, demonstrations, police_
 
 ### [ Jennifer Frigge becomes the first woman to swim across the Atlantic Ocean. ](/news/2009/02/7/jennifer-frigge-becomes-the-first-woman-to-swim-across-the-atlantic-ocean.md)
-_Context: Atlantic, Jennifer Frigge_
+_Context: Atlantic Ocean, Jennifer Frigge_
 
 ### [ French Polynesian President Gaston Tong Sang resigns. ](/news/2009/02/7/french-polynesian-president-gaston-tong-sang-resigns.md)
 _Context: French Polynesia, Gaston Tong Sang, President_

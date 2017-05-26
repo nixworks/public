@@ -1,6 +1,6 @@
 ## [2011-06-30](/news/2011/06/30/index.md)
 
-### [Arab Spring:2011 Syrian uprising: The Syrian army kills a man and his 1 year old infant son after they attack his house in the village of al-Bara. ](/news/2011/06/30/arab-spring-p2011-syrian-uprising-pthe-syrian-army-kills-a-man-and-his-1-year-old-infant-son-after-they-attack-his-house-in-the-village-of.md)
+### [Arab Spring:2011 Syrian uprising:The Syrian army kills a man and his 1 year old infant son after they attack his house in the village of al-Bara. ](/news/2011/06/30/arab-spring-p2011-syrian-uprising-pthe-syrian-army-kills-a-man-and-his-1-year-old-infant-son-after-they-attack-his-house-in-the-village-of-a.md)
 Syrian tanks and helicopters opened fire and killed at least two civilians as the military advanced through a series of villages in northwestern Syria Thursday, a push that sent residents running for the hills, a villager told CNN.
 
 ### [Afghanistan:Two freed French journalists, Herve Ghesquiere and Stephane Taponier, return to France after being held captive in Afghanistan by the Taliban for 18 months. ](/news/2011/06/30/afghanistan-ptwo-freed-french-journalists-herve-ghesquiere-and-stephane-taponier-return-to-france-after-being-held-captive-in-afghanistan.md)

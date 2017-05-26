@@ -43,7 +43,7 @@ _Context: Truong Tan Sang, Vietnam_
 _Context: Dianna Duran, New Mexico Secretary of State, embezzlement, fraud, money laundering_
 
 ### [Interim Prime Minister of Greece Vassiliki Thanou-Christophilou, the country's first female prime minister, was sworn in Thursday. The PM named her caretaker government cabinet that will oversee implementation of austerity measures required by the latest debt bailout with Eurogroup. Elections, required after Alexis Tsipras resigned last week, are scheduled for September 20, 2015, the third time Greeks will be going to the polls this year. ](/news/2015/08/28/interim-prime-minister-of-greece-vassiliki-thanou-christophilou-the-country-s-first-female-prime-minister-was-sworn-in-thursday-the-pm-na.md)
-_Context: Alexis Tsipras, Eurogroup, Greek government-debt crisis, Greek prime minister, Vassiliki Thanou-Christophilou, austerity measures, caretaker government_
+_Context: Alexis Tsipras, Eurogroup, Greek Prime Minister, Greek government-debt crisis, Vassiliki Thanou-Christophilou, austerity measures, caretaker government_
 
 ## [Previous Day...](/news/2015/08/27/index.md)
 

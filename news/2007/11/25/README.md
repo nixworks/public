@@ -18,7 +18,7 @@ _Context: California, Malibu, Santa Ana winds, wildfire_
 ### [ Russia protests of 2007: Russia prepares for new protests after Garry Kasparov's arrest. ](/news/2007/11/25/russia-protests-of-2007-p-russia-prepares-for-new-protests-after-garry-kasparov-s-arrest.md)
 _Context: Garry Kasparov, Russia, Russia protests of 2007_
 
-### [ 2007 Pacific typhoon season:  Three typhoons are forecast to batter the Philippines in the following days. ](/news/2007/11/25/2007-pacific-typhoon-season-p-three-typhoons-are-forecast-to-batter-the-philippines-in-the-following-days.md)
+### [ 2007 Pacific typhoon season: Three typhoons are forecast to batter the Philippines in the following days. ](/news/2007/11/25/2007-pacific-typhoon-season-p-three-typhoons-are-forecast-to-batter-the-philippines-in-the-following-days.md)
 Officials in the Philippines say seven people have been killed in two provinces in flooding ahead of typhoon Mitag.
 
 ### [ The bodies of five Singaporeans are found after their dragon boat capsized two days ago at the end of a 1,500-metre Cambodia-ASEAN Traditional Boat Race event during the Bon Om Thook races on the Tonl Sap in Phnom Penh. 17 other members of the team survived. ](/news/2007/11/25/the-bodies-of-five-singaporeans-are-found-after-their-dragon-boat-capsized-two-days-ago-at-the-end-of-a-1-500-metre-cambodia-asean-traditio.md)

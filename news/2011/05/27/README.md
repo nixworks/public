@@ -3,10 +3,10 @@
 ### [The cities of Yafran and al-Qalaa in the Nafusa Mountains are in critical condition following ongoing attacks by Muammar Gaddafi's forces, with heavy artillery shelling continuing, water supplies shut off, and no food or medical supplies coming into the towns for weeks. ](/news/2011/05/27/the-cities-of-yafran-and-al-qalaa-in-the-nafusa-mountains-are-in-critical-condition-following-ongoing-attacks-by-muammar-gaddafi-s-forces-w.md)
 _Context: Libyan Civil War, Muammar Gaddafi, Nafusa Mountains, Yafran_
 
-### [2011 Yemeni protests: Government planes bomb tribesmen opposed to President Ali Abdullah Saleh. ](/news/2011/05/27/2011-yemeni-protests-pgovernment-planes-bomb-tribesmen-opposed-to-president-ali-abdullah-saleh.md)
+### [2011 Yemeni protests:Government planes bomb tribesmen opposed to President Ali Abdullah Saleh. ](/news/2011/05/27/2011-yemeni-protests-pgovernment-planes-bomb-tribesmen-opposed-to-president-ali-abdullah-saleh.md)
 The Yemeni air force Friday bombed tribesmen fighting to overthrow President Ali Abdullah Saleh, a high-level official said.
 
-### [2011 Syrian protests: More towns witness large anti-government demonstrations; three people are reportedly killed by security forces. ](/news/2011/05/27/2011-syrian-protests-pmore-towns-witness-large-anti-government-demonstrations-three-people-are-reportedly-killed-by-security-forces.md)
+### [2011 Syrian protests:More towns witness large anti-government demonstrations; three people are reportedly killed by security forces. ](/news/2011/05/27/2011-syrian-protests-pmore-towns-witness-large-anti-government-demonstrations-three-people-are-reportedly-killed-by-security-forces.md)
 _Context: Syrian uprising_
 
 ### [David Cameron, the Prime Minister of the United Kingdom, confirms that his government will be sending AgustaWestland Apache attack helicopters to Libya to assist the 2011 Libyan civil war. ](/news/2011/05/27/david-cameron-the-prime-minister-of-the-united-kingdom-confirms-that-his-government-will-be-sending-agustawestland-apache-attack-helicopte.md)

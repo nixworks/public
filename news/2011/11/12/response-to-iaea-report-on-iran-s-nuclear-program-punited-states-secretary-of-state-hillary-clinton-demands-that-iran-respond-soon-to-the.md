@@ -1,6 +1,6 @@
 ### [2011-11-12](/news/2011/11/12/index.md)
 
-# Response to IAEA report on Iran's nuclear program: United States Secretary of State Hillary Clinton demands that Iran respond soon to  the "serious concerns" raised by the International Atomic Energy Agency report that Iran appeared to be working on nuclear bomb technology. 
+# Response to IAEA report on Iran's nuclear program:United States Secretary of State Hillary Clinton demands that Iran respond soon to  the "serious concerns" raised by the International Atomic Energy Agency report that Iran appeared to be working on nuclear bomb technology. 
 
 Secretary of State says Iran must &quot;answer the serious questions&quot; raised by IAEA report, repeats calls for Assad to step down.
 

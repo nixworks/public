@@ -1,6 +1,6 @@
 ## [2011-06-25](/news/2011/06/25/index.md)
 
-### [Arab Spring:2011 Syrian uprising: Over 1,000 Syrians flee into Lebanon to escape the unrest. ](/news/2011/06/25/arab-spring-p2011-syrian-uprising-pover-1-000-syrians-flee-into-lebanon-to-escape-the-unrest.md)
+### [Arab Spring:2011 Syrian uprising:Over 1,000 Syrians flee into Lebanon to escape the unrest. ](/news/2011/06/25/arab-spring-p2011-syrian-uprising-pover-1-000-syrians-flee-into-lebanon-to-escape-the-unrest.md)
 A group of Libyan football figures, including members of the national team, tell the BBC they have decided to defect to the rebels.
 
 ### [War in Afghanistan (2001-present):](/news/2011/06/25/war-in-afghanistan-2001apresent.md)

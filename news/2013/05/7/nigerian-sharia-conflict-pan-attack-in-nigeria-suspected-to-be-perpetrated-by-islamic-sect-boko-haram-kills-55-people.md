@@ -1,6 +1,6 @@
 ### [2013-05-7](/news/2013/05/7/index.md)
 
-# Nigerian Sharia conflict: An attack in Nigeria, suspected to be perpetrated by Islamic sect Boko Haram, kills 55 people. 
+# Nigerian Sharia conflict:An attack in Nigeria, suspected to be perpetrated by Islamic sect Boko Haram, kills 55 people. 
 
 The Nigerian Islamist sect Boko Haram is thought to have been behind a deadly siege on the northeastern town of Bama on Tuesday that left 55 people dead.
 

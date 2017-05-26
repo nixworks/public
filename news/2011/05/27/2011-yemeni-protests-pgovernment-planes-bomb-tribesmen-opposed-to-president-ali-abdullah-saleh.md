@@ -1,6 +1,6 @@
 ### [2011-05-27](/news/2011/05/27/index.md)
 
-# 2011 Yemeni protests: Government planes bomb tribesmen opposed to President Ali Abdullah Saleh. 
+# 2011 Yemeni protests:Government planes bomb tribesmen opposed to President Ali Abdullah Saleh. 
 
 The Yemeni air force Friday bombed tribesmen fighting to overthrow President Ali Abdullah Saleh, a high-level official said.
 

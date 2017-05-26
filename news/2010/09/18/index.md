@@ -36,7 +36,7 @@ _Context: Abdelaziz Bouteflika, Algiers, Mahmoud Ahmadinejad, President, Preside
 ### [Iranian human rights activist Shiva Nazar Ahari is convicted of gathering and plotting to commit crimes against the Iranian state, propaganda against the establishment and waging war against God. ](/news/2010/09/18/iranian-human-rights-activist-shiva-nazar-ahari-is-convicted-of-gathering-and-plotting-to-commit-crimes-against-the-iranian-state-propagand.md)
 Shiva Nazar Ahari sentenced to six years in prison for plotting crimes against state and waging war against God.
 
-### [Afghan parliamentary election, 2010: Voters in Afghanistan go to the polls braving threats from the Taliban with voter turnout calculated at 40 per cent. ](/news/2010/09/18/afghan-parliamentary-election-2010-pvoters-in-afghanistan-go-to-the-polls-braving-threats-from-the-taliban-with-voter-turnout-calculated-a.md)
+### [Afghan parliamentary election, 2010:Voters in Afghanistan go to the polls braving threats from the Taliban with voter turnout calculated at 40 per cent. ](/news/2010/09/18/afghan-parliamentary-election-2010-pvoters-in-afghanistan-go-to-the-polls-braving-threats-from-the-taliban-with-voter-turnout-calculated-at.md)
 Afghan officials hail a parliamentary vote as a success despite low turnout, attacks that killed 14 people and widespread fraud.
 
 ### [Voters in Slovakia go to the polls to vote on a referendum to reduce the size of the National Council of the Slovak Republic and cut political perks amongst other things. ](/news/2010/09/18/voters-in-slovakia-go-to-the-polls-to-vote-on-a-referendum-to-reduce-the-size-of-the-national-council-of-the-slovak-republic-and-cut-politic.md)

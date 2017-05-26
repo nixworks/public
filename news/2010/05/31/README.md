@@ -33,7 +33,7 @@ _Context: Cape Cod, Ottawa, Wildfires_
 ### [Afghan authorities suspend two Christian foreign aid groups, Church World Service and Norwegian Church Aid, on suspicion of proselytizing in the strictly Islamic republic and said a follow-up investigation would include whether other groups were trying to convert Muslims. ](/news/2010/05/31/afghan-authorities-suspend-two-christian-foreign-aid-groups-church-world-service-and-norwegian-church-aid-on-suspicion-of-proselytizing-in.md)
 _Context: Afghanistan, Christian, Church World Service, Islamic republic, Norwegian Church Aid, proselytizing_
 
-### [Gaza flotilla clash: A number of Israeli warships follow the Gaza-bound international flotilla as it nears its destination and an aircraft flies overhead.  ](/news/2010/05/31/gaza-flotilla-clash-pa-number-of-israeli-warships-follow-the-gaza-bound-international-flotilla-as-it-nears-its-destination-and-an-aircraft.md)
+### [Gaza flotilla clash:A number of Israeli warships follow the Gaza-bound international flotilla as it nears its destination and an aircraft flies overhead.  ](/news/2010/05/31/gaza-flotilla-clash-pa-number-of-israeli-warships-follow-the-gaza-bound-international-flotilla-as-it-nears-its-destination-and-an-aircraft-f.md)
 Freedom Flotilla changes course and slows down after Israeli navy ships flank it.
 
 ### [Pope Benedict XVI and child sexual abuse in the Roman Catholic Church:The Vatican announces details of the Apostolic Visitation, a special inquiry into sexual abuse in the Catholic Church in Ireland. ](/news/2010/05/31/pope-benedict-xvi-and-child-sexual-abuse-in-the-roman-catholic-church-pthe-vatican-announces-details-of-the-apostolic-visitation-a-special.md)

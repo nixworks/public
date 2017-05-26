@@ -1,6 +1,6 @@
 ### [2012-04-11](/news/2012/04/11/index.md)
 
-# 2012 South Sudan-Sudan border conflict: Sudan says that after a battle South Sudan controls Heglig, its largest oil field. 
+# 2012 South Sudan-Sudan border conflict:Sudan says that after a battle South Sudan controls Heglig, its largest oil field. 
 
 
 

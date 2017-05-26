@@ -45,7 +45,7 @@ _Context: Christopher R. Hill, North Korea_
 ### [ Peerzada Muhammad Sayeed, the Education Minister of Jammu and Kashmir survives an assassination attempt by Islamist militants near Patandate=April 2012. ](/news/2007/09/2/peerzada-muhammad-sayeed-the-education-minister-of-jammu-and-kashmir-survives-an-assassination-attempt-by-islamist-militants-near-patandat.md)
 _Context: Islamist, Jammu and Kashmir, Patan, Peerzada Muhammad Sayeed, assassinated_
 
-### [ Hurricane Felix  Hurricane Felix becomes a Category 2 hurricane early today as Aruba, Bonaire and Curacao have a hurricane watch in place. ](/news/2007/09/2/hurricane-felix-p-hurricane-felix-becomes-a-category-2-hurricane-early-today-as-aruba-bonaire-and-curaassao-have-a-hurricane-watch-in-place.md)
+### [  Hurricane Felix becomes a Category 2 hurricane early today as Aruba, Bonaire and Curacao have a hurricane watch in place. ](/news/2007/09/2/hurricane-felix-becomes-a-category-2-hurricane-early-today-as-aruba-bonaire-and-curaassao-have-a-hurricane-watch-in-place.md)
 _Context: Aruba, Bonaire, Curacao, Hurricane Felix, hurricane_
 
 ### [ The Prime Minister of Australia John Howard announces that Justice Ian Callinan will conduct an inquiry into the 2007 Australian equine influenza outbreak. ](/news/2007/09/2/the-prime-minister-of-australia-john-howard-announces-that-justice-ian-callinan-will-conduct-an-inquiry-into-the-2007-australian-equine-inf.md)

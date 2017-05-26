@@ -37,7 +37,7 @@ _Context: Haider al-Abadi, Iraq Prime Minister, Iraqi Interior Minister, July 20
 And then there were three - Theresa May heads the Tory leadership race, as Liam Fox and Stephen Crabb leave the contest.
 
 ### [NASA's ''Juno'' spacecraft reaches Jupiter and enters into its orbit after a five-year flight. ](/news/2016/07/5/nasa-s-juno-spacecraft-reaches-jupiter-and-enters-into-its-orbit-after-a-five-year-flight.md)
-_Context: ''Juno'', Jupiter, NASA_
+_Context: Juno mission, Jupiter, NASA_
 
 ### [Cybersecurity software maker Check Point reports  ''HummingBad'' malware has infected at least 10 million Android devices, mostly in China and India. Check Point says a team of developers based in Beijing is behind ''HummingBad'' which gives hackers administrative-level access to infected devices.  Apple devices have been hit by similar malware.  ](/news/2016/07/5/cybersecurity-software-maker-check-point-reports-hummingbad-malware-has-infected-at-least-10-million-android-devices-mostly-in-china-a.md)
 _Context: Android devices, Apple Inc., Beijing, Check Point, Computer security, HummingBad, India, People's Republic of China, malware_

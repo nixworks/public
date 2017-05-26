@@ -1,6 +1,6 @@
 ## [2015-11-13](/news/2015/11/13/index.md)
 
-### [Islamic State in Iraq and the Levant The United States conducts airstrikes targeting Kuwaiti-British militant Jihadi John. Later, the U.S. says it is "reasonably certain" a drone strike in Syria killed Jihadi John, ne Mohammed Emwazi.  ](/news/2015/11/13/islamic-state-in-iraq-and-the-levant-pthe-united-states-conducts-airstrikes-targeting-kuwaiti-british-militant-jihadi-john-later-the-u-s.md)
+### [The United States conducts airstrikes targeting Kuwaiti-British militant Jihadi John. Later, the U.S. says it is "reasonably certain" a drone strike in Syria killed Jihadi John, ne Mohammed Emwazi.  ](/news/2015/11/13/the-united-states-conducts-airstrikes-targeting-kuwaiti-british-militant-jihadi-john-later-the-u-s-says-it-is-reasonably-certain-a-dron.md)
 A Pentagon spokesman says the US is &quot;reasonably certain&quot; that a drone strike in Syria killed the Islamic State militant known as Jihadi John.
 
 ### [Kurdish Peshmerga forces backed by U.S. airstrikes seize control of Sinjar in northern Iraq. Sinjar has been under Islamic State of Iraq and the Levant occupation since August 2014. ](/news/2015/11/13/kurdish-peshmerga-forces-backed-by-u-s-airstrikes-seize-control-of-sinjar-in-northern-iraq-sinjar-has-been-under-islamic-state-of-iraq-and.md)

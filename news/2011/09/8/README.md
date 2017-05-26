@@ -19,7 +19,7 @@ _Context: Japan, Typhoon Talas_
 Millions were left in the dark Thursday, but SDG&E said it was making progress.
 
 ### [Tropical Storm Nate causes heavy rain on Mexico's Atlantic Ocean coast. ](/news/2011/09/8/tropical-storm-nate-causes-heavy-rain-on-mexico-s-atlantic-ocean-coast.md)
-_Context: Atlantic, Mexico, Tropical Storm Nate_
+_Context: Atlantic Ocean, Mexico, Tropical Storm Nate_
 
 ### [Secretary General Tuiloma Neroni Slade is reappointed to a second, three-year term as head of the Pacific Islands Forum. ](/news/2011/09/8/secretary-general-tuiloma-neroni-slade-is-reappointed-to-a-second-three-year-term-as-head-of-the-pacific-islands-forum.md)
 _Context: Pacific Islands Forum, Tuiloma Neroni Slade_

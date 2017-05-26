@@ -1,6 +1,6 @@
 ## [2012-08-30](/news/2012/08/30/index.md)
 
-### [Syrian civil war: Egyptian president Mohammed Morsi describes the conflict as an uprising against an "oppressive regime" and likens it to the Palestinians, sparking a walkout from the Syrian delegation at a meeting of the Non-Aligned Movement in Iran. ](/news/2012/08/30/syrian-civil-war-pegyptian-president-mohammed-morsi-describes-the-conflict-as-an-uprising-against-an-oppressive-regime-and-likens-it-to-t.md)
+### [Syrian civil war:Egyptian president Mohammed Morsi describes the conflict as an uprising against an "oppressive regime" and likens it to the Palestinians, sparking a walkout from the Syrian delegation at a meeting of the Non-Aligned Movement in Iran. ](/news/2012/08/30/syrian-civil-war-pegyptian-president-mohammed-morsi-describes-the-conflict-as-an-uprising-against-an-oppressive-regime-and-likens-it-to-th.md)
 _Context: Egypt, Iran, Mohammed Morsi, Non-aligned Movement, Palestinian, Syrian Civil War_
 
 ### [The Venezuelan government is to investigate an alleged massacre of indigenous people in the Amazon rainforest whom were attacked from a helicopter. ](/news/2012/08/30/the-venezuelan-government-is-to-investigate-an-alleged-massacre-of-indigenous-people-in-the-amazon-rainforest-whom-were-attacked-from-a-heli.md)

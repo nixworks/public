@@ -1,6 +1,6 @@
 ### [2010-04-30](/news/2010/04/30/index.md)
 
-# Expo 2010: Hailed as the largest World's Fair in history, Expo 2010 opens in Shanghai, China. 
+# Expo 2010:Hailed as the largest World's Fair in history, Expo 2010 opens in Shanghai, China. 
 
 (Adds PM&#039;s, PN&#039;s and PL&#039;s get well wishes) President George Abela accidentally sustained an injury before leaving his hotel in China this morning and is recovering in hospital. The Department of Information said the President was admitted to Ruijin Hospital where he was diagnosed as suffering...
 

@@ -1,6 +1,6 @@
 ### [2012-10-31](/news/2012/10/31/index.md)
 
-# Syrian civil war: A Syrian Air Force commander is assassinated by opposition forces in Damascus. 
+# Syrian civil war:A Syrian Air Force commander is assassinated by opposition forces in Damascus. 
 
 The government announced that Gen. Abdullah Mahmud al-Khalidi was killed by “terrorists,” and a rebel coalition claimed responsibility.
 

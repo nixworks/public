@@ -11,7 +11,7 @@ Tens of thousands seek shelter as powerful Typhoon Hagupit heads towards parts o
 
 ### Related:
 
-1. [Typhoon Hagupit (Ruby), a strong tropical cyclone, makes landfall hitting the Philippines. ](/news/2014/12/6/typhoon-hagupit-ruby-a-strong-tropical-cyclone-makes-landfall-hitting-the-philippines.md) _Context: Philippines, Typhoon Hagupit_
+1. [Typhoon Hagupit (Ruby), a strong tropical cyclone, makes landfall hitting the Philippines. ](/news/2014/12/6/typhoon-hagupit-ruby-a-strong-tropical-cyclone-makes-landfall-hitting-the-philippines.md) _Context: Philippines, Typhoon Hagupit (Ruby)_
 2. [The United Nations Human Rights Council conducts a periodic review of the human rights situation in the Philippines. ](/news/2017/05/8/the-united-nations-human-rights-council-conducts-a-periodic-review-of-the-human-rights-situation-in-the-philippines.md) _Context: Philippines_
 3. [The Philippines clarifies a controversial remark about a potential "war" with China amid criticism from Filipinos. ](/news/2017/05/22/the-philippines-clarifies-a-controversial-remark-about-a-potential-war-with-china-amid-criticism-from-filipinos.md) _Context: Philippines_
 4. ["My Family's Slave"A controversial piece written in ''The Atlantic'' magazine about the Filipino servant caste and the Filipino American family involved in it triggers a debate in both the Philippines and the United States. ](/news/2017/05/22/my-family-s-slave-pa-controversial-piece-written-in-the-atlantic-magazine-about-the-filipino-servant-caste-and-the-filipino-american-fa.md) _Context: Philippines_

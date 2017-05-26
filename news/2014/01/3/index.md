@@ -1,6 +1,6 @@
 ## [2014-01-3](/news/2014/01/3/index.md)
 
-### [Israeli-Palestinian conflict 	An 85-year-old man dies during Israeli suppression of a violent riot at Kufr Qaddoum near Nablus; he is the first Palestinian casualty from conflict with Israel in 2014. ](/news/2014/01/3/israeliapalestinian-conflict-pan-85-year-old-man-dies-during-israeli-suppression-of-a-violent-riot-at-kufr-qaddoum-near-nablus-he-is-the.md)
+### [An 85-year-old man dies during Israeli suppression of a violent riot at Kufr Qaddoum near Nablus; he is the first Palestinian casualty from conflict with Israel in 2014. ](/news/2014/01/3/an-85-year-old-man-dies-during-israeli-suppression-of-a-violent-riot-at-kufr-qaddoum-near-nablus-he-is-the-first-palestinian-casualty-from.md)
 _Context: Israeli-Palestinian conflict, Kufr Qaddoum, Nablus_
 
 ### [Post-coup unrest in Egypt:Thirteen people are killed in clashes between Muslim Brotherhood supporters, police and opponents. ](/news/2014/01/3/post-coup-unrest-in-egypt-pthirteen-people-are-killed-in-clashes-between-muslim-brotherhood-supporters-police-and-opponents.md)

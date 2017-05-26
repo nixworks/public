@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [2011 Yemeni protests: Government planes bomb tribesmen opposed to President Ali Abdullah Saleh. ](/news/2011/05/27/2011-yemeni-protests-pgovernment-planes-bomb-tribesmen-opposed-to-president-ali-abdullah-saleh.md) _Context: 2011 Yemeni protests, President, Saleh_
+1. [2011 Yemeni protests:Government planes bomb tribesmen opposed to President Ali Abdullah Saleh. ](/news/2011/05/27/2011-yemeni-protests-pgovernment-planes-bomb-tribesmen-opposed-to-president-ali-abdullah-saleh.md) _Context: 2011 Yemeni protests, President, Saleh_
 2. [2011 Yemeni protests:Large explosions are reported in the Yemeni capital of Sana'a in the midst of ongoing  protests against President Ali Abdullah Saleh; opposition forces claim that the violence threatens to escalate into a civil war. ](/news/2011/05/26/2011-yemeni-protests-plarge-explosions-are-reported-in-the-yemeni-capital-of-sana-a-in-the-midst-of-ongoing-protests-against-president-ali.md) _Context: 2011 Yemeni protests, President, Saleh_
 3. [Yemeni President Ali Abdullah Saleh announces plans to move towards a parliamentary democracy, following weeks of demonstrations. ](/news/2011/03/10/yemeni-president-ali-abdullah-saleh-announces-plans-to-move-towards-a-parliamentary-democracy-following-weeks-of-demonstrations.md) _Context: 2011 Yemeni protests, President, Saleh_
 4. [Arab Spring:Yemeni uprising:A truce between the Yemeni government of President Ali Abdullah Saleh and opposing tribal groups breaks down increasing the chance of a civil war. ](/news/2011/05/31/arab-spring-pyemeni-uprising-pa-truce-between-the-yemeni-government-of-president-ali-abdullah-saleh-and-opposing-tribal-groups-breaks-down-i.md) _Context: President, Saleh_

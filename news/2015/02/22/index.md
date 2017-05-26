@@ -12,7 +12,7 @@ _Context: Al Abraq International Airport, Iran, Islamic State in Iraq and the Le
 ### [ISIS burns more than 8,000 rare books and manuscripts in Mosul, Iraq. ](/news/2015/02/22/isis-burns-more-than-8-000-rare-books-and-manuscripts-in-mosul-iraq.md)
 More than 8,000 rare books and manuscripts – including books printed in Iraq’s first printing house in the 19th century – have been burned by Islamic State militants in Mosul, despite pleas from the public.
 
-### [87th Academy Awards Alejandro Gonzalez Inarritu becomes the second Mexican director to win Academy Award for Best Director for ''Birdman''. ''Birdman'' then wins the Academy Award for Best Picture. ](/news/2015/02/22/87th-academy-awards-palejandro-gonza-lez-ia-a-rritu-becomes-the-second-mexican-director-to-win-academy-award-for-best-director-for-birdman.md)
+### [Alejandro Gonzalez Inarritu becomes the second Mexican director to win Academy Award for Best Director for ''Birdman''. ''Birdman'' then wins the Academy Award for Best Picture. ](/news/2015/02/22/alejandro-gonza-lez-ia-a-rritu-becomes-the-second-mexican-director-to-win-academy-award-for-best-director-for-birdman-birdman-then.md)
 The full list of winners at the 2015 Oscars
 
 ### [A rescue operation is underway in Bangladesh as a ferry carrying 100 passengers capsizes in the Padma River after colliding with a trawler. The death toll has reached 41. ](/news/2015/02/22/a-rescue-operation-is-underway-in-bangladesh-as-a-ferry-carrying-100-passengers-capsizes-in-the-padma-river-after-colliding-with-a-trawler.md)

@@ -11,7 +11,7 @@ The U.S. Army expects to keep its troop strength in Iraq at the current level of
 
 ### Related:
 
-1. [ Conflict in Iraq:  Four U.S. soldiers are killed in two insurgent attacks north of Baghdad, Iraq. ](/news/2005/10/20/conflict-in-iraq-p-four-u-s-soldiers-are-killed-in-two-insurgent-attacks-north-of-baghdad-iraq.md) _Context: Conflict in Iraq, Iraq, United States Army_
+1. [ Conflict in Iraq: Four U.S. soldiers are killed in two insurgent attacks north of Baghdad, Iraq. ](/news/2005/10/20/conflict-in-iraq-p-four-u-s-soldiers-are-killed-in-two-insurgent-attacks-north-of-baghdad-iraq.md) _Context: Conflict in Iraq, Iraq, United States Army_
 2. [The United States Army's elite Delta Force captures their first suspected ISIL operative during a raid in northern Iraq. The detainee is being interrogated by the U.S. and is expected to be turned over to Iraqi officials in the coming days. ](/news/2016/03/1/the-united-states-army-s-elite-delta-force-captures-their-first-suspected-isil-operative-during-a-raid-in-northern-iraq-the-detainee-is-bei.md) _Context: Iraq, United States Army_
 3. [The last convoy of United States Army soldiers withdraws from Iraq, marking the formal end of the Iraq War. ](/news/2011/12/18/the-last-convoy-of-united-states-army-soldiers-withdraws-from-iraq-marking-the-formal-end-of-the-iraq-war.md) _Context: Iraq, United States Army_
 4. [ United States Army Major General Anthony Cucolo makes pregnancy a court-martial offense for both female and male troops under his command in northern Iraq. ](/news/2009/12/20/united-states-army-major-general-anthony-cucolo-makes-pregnancy-a-court-martial-offense-for-both-female-and-male-troops-under-his-command-i.md) _Context: Iraq, United States Army_

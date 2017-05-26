@@ -13,7 +13,7 @@ Hurricane Emily like a &quot;freight train&quot; as it passed over houses in the
 _Context: Okinawa, Taiwan, Typhoon Haitang_
 
 ### [ In Australia, Indigenous leaders pay tribute to Sir Ronald Wilson, white Indigenous rights campaigner, who died last Friday ](/news/2005/07/18/in-australia-indigenous-leaders-pay-tribute-to-sir-ronald-wilson-white-indigenous-rights-campaigner-who-died-last-friday.md)
-_Context: Australia, Indigenous Australian, Ronald Wilson_
+_Context: Australia, Indigenous Australians, Ronald Wilson_
 
 ### [ In Malaysia, a group of 30 people attacks the religious commune of Sky Kingdom ](/news/2005/07/18/in-malaysia-a-group-of-30-people-attacks-the-religious-commune-of-sky-kingdom.md)
 _Context: Malaysia, Sky Kingdom_

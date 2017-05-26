@@ -1,6 +1,6 @@
 ### [2012-11-4](/news/2012/11/4/index.md)
 
-# Syrian civil war: Syrian opposition groups hold a meeting in Doha, Qatar, to discuss reforming the structure of the group, a few days after a War Crime investigation commenced at the UN. 
+# Syrian civil war:Syrian opposition groups hold a meeting in Doha, Qatar, to discuss reforming the structure of the group, a few days after a War Crime investigation commenced at the UN. 
 
 Syrian rebels capture a key oilfield in eastern Deir Ezzor province, activists say, the first time such a facility has been taken.
 

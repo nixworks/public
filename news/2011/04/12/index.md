@@ -6,7 +6,7 @@ Moammar Gadhafi&#39;s forces fired rockets along the eastern front line and shel
 ### [Almost all of 169 Chinese Christians detained on Sunday, after they tried to hold an outdoor prayer session, are released; the unofficial Chinese church vows to hold more services. ](/news/2011/04/12/almost-all-of-169-chinese-christians-detained-on-sunday-after-they-tried-to-hold-an-outdoor-prayer-session-are-released-the-unofficial-ch.md)
 An unofficial Chinese church says it will continue to hold outdoor services, after the authorities detained more than 100 worshippers on Sunday.
 
-### [Fukushima I nuclear accidents The Government of Japan raises the crisis level of the accidents to level 7, the highest level on the international scale and equivalent to the Chernobyl disaster. ](/news/2011/04/12/fukushima-i-nuclear-accidents-pthe-government-of-japan-raises-the-crisis-level-of-the-accidents-to-level-7-the-highest-level-on-the-interna.md)
+### [The Government of Japan raises the crisis level of the accidents to level 7, the highest level on the international scale and equivalent to the Chernobyl disaster. ](/news/2011/04/12/the-government-of-japan-raises-the-crisis-level-of-the-accidents-to-level-7-the-highest-level-on-the-international-scale-and-equivalent-to.md)
 _Context: Chernobyl disaster, Fukushima I nuclear accidents, Japanese government_
 
 ### [The state of emergency in New Zealand following the 2011 Canterbury earthquake is extended for another week. ](/news/2011/04/12/the-state-of-emergency-in-new-zealand-following-the-2011-canterbury-earthquake-is-extended-for-another-week.md)

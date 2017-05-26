@@ -1,6 +1,6 @@
 ## [2010-08-25](/news/2010/08/25/index.md)
 
-### [Battle of Mogadishu (2010): Clashes continue in Mogadishu after a rebel advance on the presidential palace is repelled. ](/news/2010/08/25/battle-of-mogadishu-2010-pclashes-continue-in-mogadishu-after-a-rebel-advance-on-the-presidential-palace-is-repelled.md)
+### [Battle of Mogadishu (2010):Clashes continue in Mogadishu after a rebel advance on the presidential palace is repelled. ](/news/2010/08/25/battle-of-mogadishu-2010-pclashes-continue-in-mogadishu-after-a-rebel-advance-on-the-presidential-palace-is-repelled.md)
 _Context: Battle of Mogadishu (2010), Mogadishu_
 
 ### [A military spokesperson claims that a suicide bomber was shot and killed when he tried to drive a truckload of explosives into a Mauritanian army barracks in Nema near the border with Mali. ](/news/2010/08/25/a-military-spokesperson-claims-that-a-suicide-bomber-was-shot-and-killed-when-he-tried-to-drive-a-truckload-of-explosives-into-a-mauritanian.md)

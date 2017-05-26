@@ -22,7 +22,7 @@ _Context: Chernobyl, Group of Eight, Ukrainians, nuclear plant_
 _Context: Ahmad Didi, Fathimath Nisreen, Maldives, Mohamed Zaki_
 
 ### [ The Egyptian parliament approves a constitutional amendment that would allow presidential elections to be contested. ](/news/2005/05/10/the-egyptian-parliament-approves-a-constitutional-amendment-that-would-allow-presidential-elections-to-be-contested.md)
-_Context: Egypt, constitutional amendment, presidential election_
+_Context: Egypt, amendment, presidential election_
 
 ### [ President George W. Bush and Georgian President Mikhail Saakashvili met in Tbilisi, Georgia and Bush gets a hand grenade thrown at him, but does not detonate.](/news/2005/05/10/president-george-w-bush-and-georgian-president-mikhail-saakashvili-met-in-tbilisi-georgia-and-bush-gets-a-hand-grenade-thrown-at-him-but.md)
 _Context: George W. Bush, Georgia, Mikhail Saakashvili, Tbilisi_

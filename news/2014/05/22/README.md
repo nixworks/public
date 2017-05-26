@@ -6,7 +6,7 @@ Editor&#039;s Note: On May 11, the People&#039;s Republics of Donetsk and Luhans
 ### [Korean maritime border incidents:South Korean media claims that North Korea fired shells in a disputed area near a Republic of Korea Navy ship. ](/news/2014/05/22/korean-maritime-border-incidents-psouth-korean-media-claims-that-north-korea-fired-shells-in-a-disputed-area-near-a-republic-of-korea-navy-s.md)
 _Context: Korean maritime border incidents, South Korean Navy_
 
-### [May 2014 Urumqi attack: An explosion occurs in the city of Urumqi, the capital of China's far-western Xinjiang Uyghur Autonomous Region, resulting in at least 31 deaths and 91 injuries. ](/news/2014/05/22/may-2014-ara1-4mqi-attack-pan-explosion-occurs-in-the-city-of-ara1-4mqi-the-capital-of-china-s-far-western-xinjiang-uyghur-autonomous-region.md)
+### [May 2014 Urumqi attack:An explosion occurs in the city of Urumqi, the capital of China's far-western Xinjiang Uyghur Autonomous Region, resulting in at least 31 deaths and 91 injuries. ](/news/2014/05/22/may-2014-ara1-4mqi-attack-pan-explosion-occurs-in-the-city-of-ara1-4mqi-the-capital-of-china-s-far-western-xinjiang-uyghur-autonomous-region.md)
 At least 31 people have died in an explosion in the capital of China&#39;s western region of Xinjiang.
 
 ### [Marathon Oil agrees to buy Hess Corporation's retail gas stations for $2.87 billion. ](/news/2014/05/22/marathon-oil-agrees-to-buy-hess-corporation-s-retail-gas-stations-for-2-87-billion.md)

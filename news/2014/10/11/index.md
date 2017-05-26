@@ -10,7 +10,7 @@ _Context: Amadou Ali, Boko Haram, Cameroon, radical Islamists_
 Seven die in a stampede at a rally addressed by Pakistani opposition politician Imran Khan in Multan, with around 40 others injured.
 
 ### [Typhoon Vongphong heads for the Japanese island of Okinawa leading to power losses and flight disruptions. ](/news/2014/10/11/typhoon-vongphong-heads-for-the-japanese-island-of-okinawa-leading-to-power-losses-and-flight-disruptions.md)
-_Context: Japan, Okinawa, Pacific typhoon season, Typhoon Vongfong_
+_Context: 2014 Pacific typhoon season, Japan, Okinawa, Typhoon Vongfong_
 
 ### [Cyclone Hudhud strengthens over the Bay of Bengal with one person having already died in the storm. Mass evacuations of thousands of people is occurring as the storm approaches the east coast. ](/news/2014/10/11/cyclone-hudhud-strengthens-over-the-bay-of-bengal-with-one-person-having-already-died-in-the-storm-mass-evacuations-of-thousands-of-people.md)
 India has begun evacuating thousands of people from fishing villages as it braces for cyclone Hudhud barrelling towards its east coast.

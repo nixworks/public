@@ -6,7 +6,7 @@ _Context: Afghanistan, Helmand Province, United States Army, War in Afghanistan 
 ### [ Militants kill at least 8 members of the Ahmadiyya faith inside a Mosque as worshippers were performing Salah. The attack occurred in Mandi Bahauddin in Punjab, Pakistan. ](/news/2005/10/7/militants-kill-at-least-8-members-of-the-ahmadiyya-faith-inside-a-mosque-as-worshippers-were-performing-salah-the-attack-occurred-in-mandi.md)
 _Context: Ahmadiyya, Mandi Bahauddin, Pakistan, Punjab, Salah, mosque_
 
-### [ Conflict in Iraq:  At least twenty-nine Iraqi fighters and six U.S. Marines are killed in major fighting in western Iraq. ](/news/2005/10/7/conflict-in-iraq-p-at-least-twenty-nine-iraqi-fighters-and-six-u-s-marines-are-killed-in-major-fighting-in-western-iraq.md)
+### [ Conflict in Iraq: At least twenty-nine Iraqi fighters and six U.S. Marines are killed in major fighting in western Iraq. ](/news/2005/10/7/conflict-in-iraq-p-at-least-twenty-nine-iraqi-fighters-and-six-u-s-marines-are-killed-in-major-fighting-in-western-iraq.md)
 _Context: Conflict in Iraq, Iraq, United States Marine Corps_
 
 ### [ The UN International Atomic Energy Agency and its Director General Mohamed ElBaradei share the 2005 Nobel Peace Prize for their efforts to limit the spread of atomic weapons. ](/news/2005/10/7/the-un-international-atomic-energy-agency-and-its-director-general-mohamed-elbaradei-share-the-2005-nobel-peace-prize-for-their-efforts-to.md)

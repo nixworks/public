@@ -1,6 +1,6 @@
 ## [2011-06-26](/news/2011/06/26/index.md)
 
-### [Arab Spring:2011 Syrian uprising: A Syrian military spokesman says more than 400 members of security forces have been killed in the months-long unrest as videos surface allegedly showing children killed in the violence.  ](/news/2011/06/26/arab-spring-p2011-syrian-uprising-pa-syrian-military-spokesman-says-more-than-400-members-of-security-forces-have-been-killed-in-the-months.md)
+### [Arab Spring:2011 Syrian uprising:A Syrian military spokesman says more than 400 members of security forces have been killed in the months-long unrest as videos surface allegedly showing children killed in the violence.  ](/news/2011/06/26/arab-spring-p2011-syrian-uprising-pa-syrian-military-spokesman-says-more-than-400-members-of-security-forces-have-been-killed-in-the-months.md)
 _Context: 2011 Syrian uprising, Arab Spring, Syrian Army_
 
 ### [Israeli-Palestinian conflict:Following accusations by the Foreign Press Association that Israel is intimidating journalists on the 10-ship flotilla due to sail to the Gaza Strip, Prime Minister Benjamin Netanyahu says that the journalists will not to be sanctioned. ](/news/2011/06/26/israeliapalestinian-conflict-pfollowing-accusations-by-the-foreign-press-association-that-israel-is-intimidating-journalists-on-the-10-shi.md)

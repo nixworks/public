@@ -3,7 +3,7 @@
 ### [ Crude oil prices surge past $100 a barrel briefly in trading on the New York Mercantile Exchange. ](/news/2008/01/2/crude-oil-prices-surge-past-100-a-barrel-briefly-in-trading-on-the-new-york-mercantile-exchange.md)
 _Context: $, New York Mercantile Exchange, barrel, crude oil, price, surge_
 
-### [ Clashes in Kenya (2007-present):  Both sides in Kenya's disputed election accuse the other of violence as diplomatic efforts intensify to defuse the country's political crisis. ](/news/2008/01/2/clashes-in-kenya-2007-present-p-both-sides-in-kenya-s-disputed-election-accuse-the-other-of-violence-as-diplomatic-efforts-intensify-to.md)
+### [ Clashes in Kenya (2007-present): Both sides in Kenya's disputed election accuse the other of violence as diplomatic efforts intensify to defuse the country's political crisis. ](/news/2008/01/2/clashes-in-kenya-2007-present-p-both-sides-in-kenya-s-disputed-election-accuse-the-other-of-violence-as-diplomatic-efforts-intensify-to-d.md)
 _Context: Clashes in Kenya (2007-present), Kenya_
 
 ### [ Islamic insurgency in Algeria (2002-present): A suicide attack kills at least three people in Naciria, east of Algiers. ](/news/2008/01/2/islamic-insurgency-in-algeria-2002apresent-a-suicide-attack-kills-at-least-three-people-in-naciria-east-of-algiers.md)

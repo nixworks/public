@@ -39,7 +39,7 @@ _Context: Amnesty International, Guantanamo Bay, U.S. military_
 ### [ The ventromedial prefrontal  cortex is identified as the part of the human brain that combines logic and emotion in order to make moral decisions. ](/news/2007/03/22/the-ventromedial-prefrontal-cortex-is-identified-as-the-part-of-the-human-brain-that-combines-logic-and-emotion-in-order-to-make-moral-dec.md)
 _Context: cerebral cortex, emotion, human brain, logic, moral, ventromedial prefrontal_
 
-### [ Insurgency in Somalia:  Clashes flare up in Mogadishu between the interim government forces and local militiamen. ](/news/2007/03/22/insurgency-in-somalia-p-clashes-flare-up-in-mogadishu-between-the-interim-government-forces-and-local-militiamen.md)
+### [ Insurgency in Somalia: Clashes flare up in Mogadishu between the interim government forces and local militiamen. ](/news/2007/03/22/insurgency-in-somalia-p-clashes-flare-up-in-mogadishu-between-the-interim-government-forces-and-local-militiamen.md)
 _Context:  Insurgency in Somalia, Mogadishu, interim government forces_
 
 ## [Previous Day...](/news/2007/03/21/index.md)

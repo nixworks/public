@@ -1,6 +1,6 @@
 ### [2005-10-27](/news/2005/10/27/index.md)
 
-#  Israeli-Palestinian Conflict:  Israeli troops raid the Palestinian town of Jenin, in the West Bank. 
+#  Israeli-Palestinian Conflict: Israeli troops raid the Palestinian town of Jenin, in the West Bank. 
 
 
 

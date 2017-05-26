@@ -1,6 +1,6 @@
 ### [2000-01-23](/news/2000/01/23/index.md)
 
-# ''The Sopranos'' wins the Golden Globe Award for Best Television Series - Drama; ''Sex and the City'' wins for Best Television Series - Musical or Comedy,  ''Toy Story 2'' wins the Golden Globe Award for Best Motion Picture - Musical or Comedy while ''American Beauty'' wins the Golden Globe Award for Best Motion Picture - Drama.
+# ''The Sopranos'' wins the Golden Globe Award for Best Television Series - Drama; ''Sex and the City'' wins for Best Television Series - Musical or Comedy,''Toy Story 2'' wins the Golden Globe Award for Best Motion Picture - Musical or Comedy while ''American Beauty'' wins the Golden Globe Award for Best Motion Picture - Drama.
 
 
 

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Iraq War:  A suicide car bomber kills at least 18 and injuries at least 25, mostly Iraqi Police, in an ambush in the northern Iraqi city of Kirkuk. ](/news/2005/11/23/iraq-war-p-a-suicide-car-bomber-kills-at-least-18-and-injuries-at-least-25-mostly-iraqi-police-in-an-ambush-in-the-northern-iraqi-city-o.md) _Context: Iraq, Iraq War, car bomb_
+1. [ Iraq War: A suicide car bomber kills at least 18 and injuries at least 25, mostly Iraqi Police, in an ambush in the northern Iraqi city of Kirkuk. ](/news/2005/11/23/iraq-war-p-a-suicide-car-bomber-kills-at-least-18-and-injuries-at-least-25-mostly-iraqi-police-in-an-ambush-in-the-northern-iraqi-city-of.md) _Context: Iraq, Iraq War, car bomb_
 2. [Car-bombings across Iraq kill at least 57 people. The attacks include a rare bombing in the southern Basra province leaving 10 people dead. The Islamic State of Iraq and the Levant is suspected of being behind the attacks. ](/news/2015/10/5/car-bombings-across-iraq-kill-at-least-57-people-the-attacks-include-a-rare-bombing-in-the-southern-basra-province-leaving-10-people-dead.md) _Context: Iraq, car bomb_
 3. [A car bomb targets a government building in the Iraqi Kurdish capital Irbil, resulting in four deaths. ](/news/2014/11/19/a-car-bomb-targets-a-government-building-in-the-iraqi-kurdish-capital-irbil-resulting-in-four-deaths.md) _Context: Iraq, car bomb_
 4. [Post-Iraq War:The International Criminal Court will conduct a preliminary examination in the claims that United Kingdom forces abused Iraqi detainees between 2003 and 2008. ](/news/2014/05/13/post-iraq-war-pthe-international-criminal-court-will-conduct-a-preliminary-examination-in-the-claims-that-united-kingdom-forces-abused-iraqi.md) _Context: Iraq, Iraq War_

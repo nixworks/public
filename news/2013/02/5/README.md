@@ -7,7 +7,7 @@ A Chinese vessel locked its weapon-targeting radar on a Japanese ship near dispu
 Michael Dell will take Dell Inc private for $24.4 billion in the biggest leveraged buyout since the financial crisis, a deal that allows the billionaire chief executive to attempt a revival of his struggling computer company without Wall Street scrutiny.
 
 ### [Standard & Poor's says it expects a lawsuit by the US government over its assessment of mortgage bonds prior to the subprime mortgage crisis. ](/news/2013/02/5/standard-poor-s-says-it-expects-a-lawsuit-by-the-us-government-over-its-assessment-of-mortgage-bonds-prior-to-the-subprime-mortgage-crisis.md)
-_Context: American, Standard & Poor's, housing crisis, mortgage_
+_Context: Standard & Poor's, United States, housing crisis, mortgage_
 
 ### [IBM issues a $1 billion two year corporate bond deal at a negative spread to Libor (the London Interbank Offered Rate). ](/news/2013/02/5/ibm-issues-a-1-billion-two-year-corporate-bond-deal-at-a-negative-spread-to-libor-the-london-interbank-offered-rate.md)
 By Danielle RobinsonFeb 5 (IFR) - IBM Corp on Tuesday made the most of a surgein demand for floating-rate notes in the corporate bond marketby issu

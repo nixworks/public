@@ -1,6 +1,6 @@
 ### [2012-11-11](/news/2012/11/11/index.md)
 
-# Syrian civil war: Syrian opposition groups sign a deal in Qatar to form a coalition against president Bashar al-Assad. 
+# Syrian civil war:Syrian opposition groups sign a deal in Qatar to form a coalition against president Bashar al-Assad. 
 
 Syrian opposition groups havesigned an initial agreement to form a new coalition of forcesfighting to end the rule of President Bashar al-Assad, a Syriandelegate at talks in Doha said on Sunday.
 

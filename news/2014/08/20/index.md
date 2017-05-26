@@ -1,6 +1,6 @@
 ## [2014-08-20](/news/2014/08/20/index.md)
 
-### [2014 Israel-Gaza conflict	In response to rocket fire six hours before the end of a cease-fire, Israeli airstrikes kill 11 Palestinians including the wife and infant son of Hamas military leader Mohammed Deif - the first deaths in a week - while Hamas launches over 130 missiles at Israel during the day. This is the 11th cease-fire broken by rocket fire from Hamas. ](/news/2014/08/20/2014-israelagaza-conflict-pin-response-to-rocket-fire-six-hours-before-the-end-of-a-cease-fire-israeli-airstrikes-kill-11-palestinians-in.md)
+### [In response to rocket fire six hours before the end of a cease-fire, Israeli airstrikes kill 11 Palestinians including the wife and infant son of Hamas military leader Mohammed Deif - the first deaths in a week - while Hamas launches over 130 missiles at Israel during the day. This is the 11th cease-fire broken by rocket fire from Hamas. ](/news/2014/08/20/in-response-to-rocket-fire-six-hours-before-the-end-of-a-cease-fire-israeli-airstrikes-kill-11-palestinians-including-the-wife-and-infant-s.md)
 Hamas says militant chief Mohammed Deif is alive and leading its response to Israeli air strikes that killed 19 people in Gaza, including his wife and child.
 
 ### [Dozens of people die in heavy fighting between Ukrainian government forces and rebels in eastern Ukraine. ](/news/2014/08/20/dozens-of-people-die-in-heavy-fighting-between-ukrainian-government-forces-and-rebels-in-eastern-ukraine.md)

@@ -1,6 +1,6 @@
 ### [2011-07-7](/news/2011/07/7/index.md)
 
-# War in Afghanistan: Canada ends mission in Afghanistan and withdraws 2850 troops. 
+# War in Afghanistan:Canada ends mission in Afghanistan and withdraws 2850 troops. 
 
 The United States took complete charge of Kandahar Thursday, formally ending over five years of Canadian involvement in southern Afghanistan.
 

@@ -1,6 +1,6 @@
 ### [2011-12-28](/news/2011/12/28/index.md)
 
-# 2011 Syrian uprising: The Washington-based organisation Human Rights Watch accuses Syria of hiding hundreds of political detainees during a visit by Arab League monitors. 
+# 2011 Syrian uprising:The Washington-based organisation Human Rights Watch accuses Syria of hiding hundreds of political detainees during a visit by Arab League monitors. 
 
 Syria releases 755 people detained in the nine-month uprising against President Assad, state TV says, as Arab League monitors continue their visit amid ongoing violence.
 

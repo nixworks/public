@@ -1,6 +1,6 @@
 ### [2006-12-25](/news/2006/12/25/index.md)
 
-#  War in Somalia:  Ethiopian jets have bombed two airports in Somalia in a widening operation against the Islamic Courts Union. 
+#  War in Somalia: Ethiopian jets have bombed two airports in Somalia in a widening operation against the Islamic Courts Union. 
 
 
 

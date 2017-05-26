@@ -1,6 +1,6 @@
 ### [2012-12-25](/news/2012/12/25/index.md)
 
-# Syrian civil war: Rebels take over the city of Harem in Idlib Governorate on the border with Turkey, about 55 kms west of Aleppo. 
+# Syrian civil war:Rebels take over the city of Harem in Idlib Governorate on the border with Turkey, about 55 kms west of Aleppo. 
 
 The Pope calls for a political solution to the conflict in Syria during his Christmas message, delivered to thousands of pilgrims at the Vatican.
 
@@ -14,7 +14,7 @@ The Pope calls for a political solution to the conflict in Syria during his Chri
 
 ### Related:
 
-1. [Syrian Civil War Airstrikes hit  Darkush in Idlib Province near the Turkish border, killing at least 23 people, according to the Syrian Observatory for Human Rights.  At least 25 died when rebels shelled government-held areas of Aleppo. Friday is the last day of a 72-hour Syrian Army-sponsored ceasefire. ](/news/2016/07/8/syrian-civil-war-pairstrikes-hit-darkush-in-idlib-province-near-the-turkish-border-killing-at-least-23-people-according-to-the-syrian-obs.md) _Context: Aleppo, Idlib, Syrian Civil War, Turkey_
+1. [Airstrikes hit  Darkush in Idlib Province near the Turkish border, killing at least 23 people, according to the Syrian Observatory for Human Rights.  At least 25 died when rebels shelled government-held areas of Aleppo. Friday is the last day of a 72-hour Syrian Army-sponsored ceasefire. ](/news/2016/07/8/airstrikes-hit-darkush-in-idlib-province-near-the-turkish-border-killing-at-least-23-people-according-to-the-syrian-observatory-for-human.md) _Context: Aleppo, Idlib, Syrian Civil War, Turkey_
 2. [The Syrian Army says it is now in full control of the city of Aleppo following the evacuation of the last group of rebels to the Idlib Governorate. ](/news/2016/12/22/the-syrian-army-says-it-is-now-in-full-control-of-the-city-of-aleppo-following-the-evacuation-of-the-last-group-of-rebels-to-the-idlib-gover.md) _Context: Aleppo, Idlib, Syrian Civil War_
 3. [Turkey's Anadolu Agency reports that 45 Islamic State of Iraq and the Levant militants have been killed by a combination  of Turkish Army shelling and a U.S. air strike north of Aleppo. ](/news/2016/05/14/turkey-s-anadolu-agency-reports-that-45-islamic-state-of-iraq-and-the-levant-militants-have-been-killed-by-a-combination-of-turkish-army-sh.md) _Context: Aleppo, Syrian Civil War, Turkey_
 4. [Syrian civil war:Syrian rebels capture Menagh Military Airbase in Aleppo near the Turkish border. ](/news/2013/08/6/syrian-civil-war-psyrian-rebels-capture-menagh-military-airbase-in-aleppo-near-the-turkish-border.md) _Context: Aleppo, Syrian Civil War, Turkey_

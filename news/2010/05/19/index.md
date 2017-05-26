@@ -12,7 +12,7 @@ _Context: 2010 North Indian Ocean cyclone season, Cyclone Laila, India, Tamil Na
 ### [Battle of Bangkok:Red shirt protesters surrender in Bangkok, Thailand. ](/news/2010/05/19/battle-of-bangkok-pred-shirt-protesters-surrender-in-bangkok-thailand.md)
 Bangkok and about a third of the rest of Thailand spend a first night under curfew after protest leaders surrender.
 
-### [2010 Kyrgyzstani uprising: Two people are killed and a state of emergency is declared in the city of Jalal-Abad, Kyrgyzstan after protesters attempted to storm an Uzbek university. ](/news/2010/05/19/2010-kyrgyzstani-uprising-ptwo-people-are-killed-and-a-state-of-emergency-is-declared-in-the-city-of-jalal-abad-kyrgyzstan-after-protester.md)
+### [2010 Kyrgyzstani uprising:Two people are killed and a state of emergency is declared in the city of Jalal-Abad, Kyrgyzstan after protesters attempted to storm an Uzbek university. ](/news/2010/05/19/2010-kyrgyzstani-uprising-ptwo-people-are-killed-and-a-state-of-emergency-is-declared-in-the-city-of-jalal-abad-kyrgyzstan-after-protesters.md)
 The interim government of Kyrgyzstan declares a state of emergency in the southern city of Jalalabad after clashes killed two people.
 
 ### [At least 40,000 Romanians rally in Bucharest to protest planned wage cuts the government says are needed to shore up the ailing economy. ](/news/2010/05/19/at-least-40-000-romanians-rally-in-bucharest-to-protest-planned-wage-cuts-the-government-says-are-needed-to-shore-up-the-ailing-economy.md)

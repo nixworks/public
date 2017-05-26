@@ -1,6 +1,6 @@
 ## [2013-01-30](/news/2013/01/30/index.md)
 
-### [Northern Mali conflict (2012-present): French forces enter the city of Kidal in northern Mali after seizing its airport overnight. ](/news/2013/01/30/northern-mali-conflict-2012apresent-pfrench-forces-enter-the-city-of-kidal-in-northern-mali-after-seizing-its-airport-overnight.md)
+### [Northern Mali conflict (2012-present):French forces enter the city of Kidal in northern Mali after seizing its airport overnight. ](/news/2013/01/30/northern-mali-conflict-2012apresent-pfrench-forces-enter-the-city-of-kidal-in-northern-mali-after-seizing-its-airport-overnight.md)
 French forces say they have entered Kidal in northern Mali, the last major town they have yet to secure in their drive against Islamist militants.
 
 ### [Syrian civil war:Israeli forces attack an arms convoy on the Lebanon-Syria border overnight destined from Syria to Hezbollah. ](/news/2013/01/30/syrian-civil-war-pisraeli-forces-attack-an-arms-convoy-on-the-lebanonasyria-border-overnight-destined-from-syria-to-hezbollah.md)

@@ -3,7 +3,7 @@
 ### [ British "Shoot to Kill" Police Policy: The British Police member who shot an innocent Brazilian man seven times in the head and once in the shoulder has been given a free holiday, paid for by Scotland Yard.](/news/2005/07/27/british-shoot-to-kill-police-policy-p-the-british-police-member-who-shot-an-innocent-brazilian-man-seven-times-in-the-head-and-once-in-th.md)
 News and opinion from The Times &amp; The Sunday Times
 
-### [ Conflict in Iraq:  Two US Troops were killed following a bomb in Baghdad. ](/news/2005/07/27/conflict-in-iraq-p-two-us-troops-were-killed-following-a-bomb-in-baghdad.md)
+### [ Conflict in Iraq: Two US Troops were killed following a bomb in Baghdad. ](/news/2005/07/27/conflict-in-iraq-p-two-us-troops-were-killed-following-a-bomb-in-baghdad.md)
 _Context: Baghdad, Conflict in Iraq, US Troops_
 
 ### [ 2005 Maharashtra floods: The death toll from the series of heavy monsoon rains and landslides they have triggered has been raised to at least 418 people in India's western state of Maharashtra.](/news/2005/07/27/2005-maharashtra-floods-the-death-toll-from-the-series-of-heavy-monsoon-rains-and-landslides-they-have-triggered-has-been-raised-to-at-lea.md)

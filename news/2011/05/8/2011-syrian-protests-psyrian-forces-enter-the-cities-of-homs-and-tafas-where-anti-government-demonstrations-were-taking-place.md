@@ -1,6 +1,6 @@
 ### [2011-05-8](/news/2011/05/8/index.md)
 
-# 2011 Syrian protests: Syrian forces enter the cities of Homs and Tafas, where anti-government demonstrations were taking place. 
+# 2011 Syrian protests:Syrian forces enter the cities of Homs and Tafas, where anti-government demonstrations were taking place. 
 
 Syrian security forces enter the city of Homs making a number of arrests, as nationwide operations continue against anti-government protests.
 

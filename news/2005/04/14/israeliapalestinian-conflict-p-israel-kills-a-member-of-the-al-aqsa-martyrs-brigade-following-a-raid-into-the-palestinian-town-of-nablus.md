@@ -1,6 +1,6 @@
 ### [2005-04-14](/news/2005/04/14/index.md)
 
-#  Israeli-Palestinian conflict:  Israel kills a member of the Al Aqsa Martyrs Brigade following a raid into the Palestinian town of Nablus. Palestinians maintain that a special unit disguised as Arabs carried out the act. Israeli Defence Forces say the man was a "ticking bomb" and that soldier shot only after he opened fire on them. Witnesses from the Balata camp, however, say the Israelis opened fire without warning and then took the body away. 
+#  Israeli-Palestinian conflict: Israel kills a member of the Al Aqsa Martyrs Brigade following a raid into the Palestinian town of Nablus. Palestinians maintain that a special unit disguised as Arabs carried out the act. Israeli Defence Forces say the man was a "ticking bomb" and that soldier shot only after he opened fire on them. Witnesses from the Balata camp, however, say the Israelis opened fire without warning and then took the body away. 
 
 
 

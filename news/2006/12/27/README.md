@@ -15,7 +15,7 @@ Internet connections at some banks, companies and government offices in South Ko
 ### [ The French Space Agency (CNES) spacecraft COROT was successfully launched in Baikonur Cosmodrome in Kazakhstan at 14:28 UTC (GMT+4) to search for extrasolar planets.](/news/2006/12/27/the-french-space-agency-cnes-spacecraft-corot-was-successfully-launched-in-baikonur-cosmodrome-in-kazakhstan-at-14-28-utc-gmt-4-to-sear.md)
 _Context: Baikonur Cosmodrome, CoRoT, French Space Agency, Kazakhstan, extrasolar planet, spacecraft_
 
-### [ War in Somalia:  Ethiopian/Transitional Federal Government forces regain Jowhar after heavy fighting. The Islamist militia go into a retreat towards Mogadishu. ](/news/2006/12/27/war-in-somalia-p-ethiopian-transitional-federal-government-forces-regain-jowhar-after-heavy-fighting-the-islamist-militia-go-into-a-retre.md)
+### [ War in Somalia: Ethiopian/Transitional Federal Government forces regain Jowhar after heavy fighting. The Islamist militia go into a retreat towards Mogadishu. ](/news/2006/12/27/war-in-somalia-p-ethiopian-transitional-federal-government-forces-regain-jowhar-after-heavy-fighting-the-islamist-militia-go-into-a-retrea.md)
 _Context: Ethiopia, Islamist, Jowhar, Mogadishu, Transitional Federal Government, War in Somalia, regain_
 
 ### [ Former U.S. Senator and 2004 Democratic Vice-Presidential Candidate John Edwards will run for the 2008 Democratic Presidential Nomination. ](/news/2006/12/27/former-u-s-senator-and-2004-democratic-vice-presidential-candidate-john-edwards-will-run-for-the-2008-democratic-presidential-nomination.md)

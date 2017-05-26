@@ -1,6 +1,6 @@
 ### [2012-10-29](/news/2012/10/29/index.md)
 
-# Syrian civil war: Two deadly car bombings rock Damascus, according to Syrian state media. 
+# Syrian civil war:Two deadly car bombings rock Damascus, according to Syrian state media. 
 
 Two car bombings in the Syrian capital Damascus kill at least 10 people, state media report, as a supposed ceasefire draws to an end.
 

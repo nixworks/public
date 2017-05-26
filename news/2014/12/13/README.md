@@ -12,7 +12,7 @@ _Context: German, Wetten, dass..?_
 ### [Landslides caused by heavy rain in Java, Indonesia, kill at least 17 people with a hundred still unaccounted for. ](/news/2014/12/13/landslides-caused-by-heavy-rain-in-java-indonesia-kill-at-least-17-people-with-a-hundred-still-unaccounted-for.md)
 _Context: Indonesia, Java, landslide, landslide_
 
-### [''Philippines v. China'' Vietnam files an intervention in the arbitration case about the South China Sea with Vietnam rejecting China's claims. ](/news/2014/12/13/philippines-v-china-pvietnam-files-an-intervention-in-the-arbitration-case-about-the-south-china-sea-with-vietnam-rejecting-china-s-cla.md)
+### [''Philippines v. China''Vietnam files an intervention in the arbitration case about the South China Sea with Vietnam rejecting China's claims. ](/news/2014/12/13/philippines-v-china-pvietnam-files-an-intervention-in-the-arbitration-case-about-the-south-china-sea-with-vietnam-rejecting-china-s-clai.md)
 _Context: People's Republic of China, Philippines v. China, South China Sea, Vietnam_
 
 ### [India and Russia sign deals on infrastructure, nuclear energy, and defence. ](/news/2014/12/13/india-and-russia-sign-deals-on-infrastructure-nuclear-energy-and-defence.md)

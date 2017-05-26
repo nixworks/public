@@ -34,7 +34,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: North Korea, North Korea and weapons of mass destruction, submarine-launched ballistic missile_
 
 ### [President of Russia Vladimir Putin accuses the United States of reneging on a 16-year-old deal that called for reducing Russia's and the United States' stockpiles of weapons-grade plutonium. He accused Washington of trying to preserve its ability to turn some of its plutonium stockpile back into a form usable for nuclear weapons. ](/news/2016/04/23/president-of-russia-vladimir-putin-accuses-the-united-states-of-reneging-on-a-16-year-old-deal-that-called-for-reducing-russia-s-and-the-uni.md)
-_Context: American, Russia, Russia President, Russia-United States relations, Vladimir Putin, plutonium_
+_Context: Russia, Russia President, Russia-United States relations, United States, Vladimir Putin, plutonium_
 
 ### [Reuters reports the Friday afternoon truce between Kurdish Asayish forces and pro-Syrian government forces, declared following a three-day outbreak of violence that killed at least 26 people,  is holding. ](/news/2016/04/23/reuters-reports-the-friday-afternoon-truce-between-kurdish-asayish-forces-and-pro-syrian-government-forces-declared-following-a-three-day-o.md)
 Regional Kurdish security forces and pro-Syrian government forces have declared a ceasefire in northeastern Syria, the Kurdish side said, calming a three-day outbreak of violence which killed more than 26 people.

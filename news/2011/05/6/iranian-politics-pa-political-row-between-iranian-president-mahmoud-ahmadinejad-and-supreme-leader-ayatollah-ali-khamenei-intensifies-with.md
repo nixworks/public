@@ -1,6 +1,6 @@
 ### [2011-05-6](/news/2011/05/6/index.md)
 
-# Iranian politics: A political row between Iranian President Mahmoud Ahmadinejad and Supreme Leader Ayatollah Ali Khamenei intensifies, with Ahmadinejad said to contemplating resignation. 
+# Iranian politics:A political row between Iranian President Mahmoud Ahmadinejad and Supreme Leader Ayatollah Ali Khamenei intensifies, with Ahmadinejad said to contemplating resignation. 
 
 Iranian president said to be considering resignation after intelligence chief he fired was reinstated by supreme leader.
 

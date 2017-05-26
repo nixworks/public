@@ -25,7 +25,7 @@ The State Department is warning American citizens about the risks of travel to A
 A teenager is arrested in New Mexico over the fatal shootings of two adults and three children near Albuquerque.
 
 ### [A drug lord named Mario Smith Pomare, who had long been wanted by the police in Colombia, is arrested at his villa on the Atlantic coast of Honduras. ](/news/2013/01/20/a-drug-lord-named-mario-smith-pomare-who-had-long-been-wanted-by-the-police-in-colombia-is-arrested-at-his-villa-on-the-atlantic-coast-of.md)
-_Context: Atlantic, Colombia, Honduran, drug kingpin_
+_Context: Atlantic Ocean, Colombia, Honduran, drug kingpin_
 
 ### [The second inauguration of Barack Obama as the President of the United States takes place in the Blue Room of the White House. ](/news/2013/01/20/the-second-inauguration-of-barack-obama-as-the-president-of-the-united-states-takes-place-in-the-blue-room-of-the-white-house.md)
 Barack Obama is officially sworn in for his second term as US president in a small ceremony at the White House.

@@ -7,7 +7,7 @@ A car bomb hit the center of Kabul late on Monday, just hours after a Taliban su
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 ### [With 2,400 people dead so far, Rodrigo Duterte, the President of the Philippines, says that "plenty will be killed" in the war against drugs. ](/news/2016/09/5/with-2-400-people-dead-so-far-rodrigo-duterte-the-president-of-the-philippines-says-that-plenty-will-be-killed-in-the-war-against-drugs.md)
-_Context: Philippine Drug War, Rodrigo Duterte, president_
+_Context: Philippine Drug War, President, Rodrigo Duterte_
 
 ### [An asteroid is named in honour of Freddie Mercury on what would have been his 70th birthday. ](/news/2016/09/5/an-asteroid-is-named-in-honour-of-freddie-mercury-on-what-would-have-been-his-70th-birthday.md)
 _Context: Freddie Mercury_
@@ -40,7 +40,7 @@ An intemperate remark from Rodrigo Duterte derailed a bilateral meeting.
 North Korea fires three ballistic missiles into the sea off its east coast, South Korea says.
 
 ### [''Philippines v. China''Chinese vessels are seen positioned near the disputed Scarborough Shoal off the coast of the Philippines. ](/news/2016/09/5/philippines-v-china-pchinese-vessels-are-seen-positioned-near-the-disputed-scarborough-shoal-off-the-coast-of-the-philippines.md)
-_Context: People's Republic of China, Philippines v. China, Scarborough Shoal, war_
+_Context: People's Republic of China, Philippines v. China, Scarborough Shoal, Territorial disputes in the South China Sea_
 
 ### [Nathan Law becomes the youngest-ever Hong Kong legislator at age 23. ](/news/2016/09/5/nathan-law-becomes-the-youngest-ever-hong-kong-legislator-at-age-23.md)
 Nathan Law Kwun-chung, a 23-year-old pro-independence candidate has just been elected to Hong Kong&#39;s legislature.

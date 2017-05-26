@@ -6,7 +6,7 @@ Get the latest news on celebrity scandals, engagements, and divorces! Check out 
 ### [ Farrah Fawcett dies at approximately 9:28 a.m. in the intensive care unit of Saint John's Health Center in Santa Monica, California, with Ryan O'Neal and Alana Stewart by her side. ](/news/2009/06/25/farrah-fawcett-dies-at-approximately-9-28-a-m-in-the-intensive-care-unit-of-saint-john-s-health-center-in-santa-monica-california-with-r.md)
 Farrah Fawcett , who soared to fame as a national sex symbol in the late 1970s on television&apos;s campy &quot;Charlie&apos;s Angels&quot; and in a swimsuit poster that showcased her feathery mane and made her a generation&apos;s favorite pinup, died Thursday. She was 62.
 
-### [ Iran  A mourning ceremony for protesters who died in the post-election protests is cancelled. ](/news/2009/06/25/iran-p-a-mourning-ceremony-for-protesters-who-died-in-the-post-election-protests-is-cancelled.md)
+### [  A mourning ceremony for protesters who died in the post-election protests is cancelled. ](/news/2009/06/25/a-mourning-ceremony-for-protesters-who-died-in-the-post-election-protests-is-cancelled.md)
 A mourning ceremony for protestors who have died in Iran&#39;s post-election turmoil has been called off.
 
 ### [ Campaigning begins for a legislative election in Iraqi Kurdistan. ](/news/2009/06/25/campaigning-begins-for-a-legislative-election-in-iraqi-kurdistan.md)

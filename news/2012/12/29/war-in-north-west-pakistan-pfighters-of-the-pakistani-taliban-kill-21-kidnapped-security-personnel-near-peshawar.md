@@ -1,6 +1,6 @@
 ### [2012-12-29](/news/2012/12/29/index.md)
 
-# War in North-West Pakistan: Fighters of the Pakistani Taliban kill 21 kidnapped security personnel near Peshawar. 
+# War in North-West Pakistan:Fighters of the Pakistani Taliban kill 21 kidnapped security personnel near Peshawar. 
 
 Militants in north-west Pakistan have killed at least 20 of the paramilitaries they seized from checkpoints near Peshawar, officials say.
 

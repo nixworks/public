@@ -9,7 +9,7 @@ _Context: Gordon Brown, Prime Minster_
 ### [ Danish police arrest more than 400 people in protests in Copenhagen over the closure of the Ungdomshuset youth centre earlier in the year. ](/news/2007/10/6/danish-police-arrest-more-than-400-people-in-protests-in-copenhagen-over-the-closure-of-the-ungdomshuset-youth-centre-earlier-in-the-year.md)
 _Context: Copenhagen, Denmark, Ungdomshuset_
 
-### [ 2007 Pacific typhoon season:  Typhoon Krosa hits Taiwan, killing at least four people and injuring 40 more. ](/news/2007/10/6/2007-pacific-typhoon-season-p-typhoon-krosa-hits-taiwan-killing-at-least-four-people-and-injuring-40-more.md)
+### [ 2007 Pacific typhoon season: Typhoon Krosa hits Taiwan, killing at least four people and injuring 40 more. ](/news/2007/10/6/2007-pacific-typhoon-season-p-typhoon-krosa-hits-taiwan-killing-at-least-four-people-and-injuring-40-more.md)
 _Context: 2007 Pacific typhoon season, Taiwan, Typhoon Krosa_
 
 ### [ War in Afghanistan: A suicide bomb attack on a United States convoy in Kabul kills a U.S. soldier and five civilians. ](/news/2007/10/6/war-in-afghanistan-a-suicide-bomb-attack-on-a-united-states-convoy-in-kabul-kills-a-u-s-soldier-and-five-civilians.md)

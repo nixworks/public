@@ -18,7 +18,7 @@ Windows XP still runs on millions of computers out there. Here&#039;s what to do
 ### [Oso, Washington mudslide:The death toll reaches 36 as rescuers struggle to find 10 who are still missing. ](/news/2014/04/9/oso-washington-mudslide-pthe-death-toll-reaches-36-as-rescuers-struggle-to-find-10-who-are-still-missing.md)
 _Context: Oso, Washington mudslide_
 
-### [Franklin Regional High School stabbing. A student stabs 20 people at Franklin Regional High School in Murrysville, Pennsylvania, USA. ](/news/2014/04/9/franklin-regional-high-school-stabbing-pa-student-stabs-20-people-at-franklin-regional-high-school-in-murrysville-pennsylvania-usa.md)
+### [Franklin Regional High School stabbing.A student stabs 20 people at Franklin Regional High School in Murrysville, Pennsylvania, USA. ](/news/2014/04/9/franklin-regional-high-school-stabbing-pa-student-stabs-20-people-at-franklin-regional-high-school-in-murrysville-pennsylvania-usa.md)
 The stabbings were reported at Franklin Regional High School, in the suburb of Murrysville.
 
 ### [Four people are stabbed in an office in Toronto, Ontario, Canada. ](/news/2014/04/9/four-people-are-stabbed-in-an-office-in-toronto-ontario-canada.md)

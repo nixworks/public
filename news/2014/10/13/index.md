@@ -4,7 +4,7 @@
 BAGHDAD (Reuters) - Three bombs exploded in Shi&#x27;ite parts of Baghdad on Monday, killing 30 people, police and medical officials said, continuing a wave of attacks targeting Iraq&#x27;s majority religious group. Baghdad&#x27;s largest Shi&#x27;ite neighbourhood, Sadr City, was rocked by two blasts: a
 
 ### [Typhoon Vongfong makes landfall in the Japanese island of Kyushu causing the evacuation of 150,000 people and disruption to plane and train services. ](/news/2014/10/13/typhoon-vongfong-makes-landfall-in-the-japanese-island-of-kyushu-causing-the-evacuation-of-150-000-people-and-disruption-to-plane-and-train.md)
-_Context: Japan, Kyushu, Pacific typhoon season, Typhoon Vongfong_
+_Context: 2014 Pacific typhoon season, Japan, Kyushu, Typhoon Vongfong_
 
 ### [Cyclone Hudhud is downgraded to a tropical depression having caused at least 8 deaths in India with 5 dead in Andhra Pradesh and 3 people dead in Orissa. ](/news/2014/10/13/cyclone-hudhud-is-downgraded-to-a-tropical-depression-having-caused-at-least-8-deaths-in-india-with-5-dead-in-andhra-pradesh-and-3-people-de.md)
 _Context: 2014 North Indian Ocean cyclone season, Andhra Pradesh, Cyclone Hudhud, India, Orissa State_

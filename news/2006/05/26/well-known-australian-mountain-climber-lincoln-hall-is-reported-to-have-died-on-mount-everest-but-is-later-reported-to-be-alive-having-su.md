@@ -13,7 +13,7 @@
 ### Related:
 
 1. [Rare specimens of daisies from the 1850s originally held in the National Museum of Natural History in Paris were reportedly destroyed by Australia in March allegedly due to incomplete paperwork. ](/news/2017/05/8/rare-specimens-of-daisies-from-the-1850s-originally-held-in-the-national-museum-of-natural-history-in-paris-were-reportedly-destroyed-by-aus.md) _Context: Australia_
-2. [Four climbers are found dead on Mount Everest, bringing this season's death toll to 10. ](/news/2017/05/24/four-climbers-are-found-dead-on-mount-everest-bringing-this-season-s-death-toll-to-10.md) _Context: Mount Everest_
+2. [Four Climbers are found dead on Mount Everest, bringing this season's death toll to 10. ](/news/2017/05/24/four-climbers-are-found-dead-on-mount-everest-bringing-this-season-s-death-toll-to-10.md) _Context: Mount Everest_
 3. [Mountaineers led by Tim Mosedale confirm suspicions that Mount Everest's famous Hillary Step had completely collapsed. ](/news/2017/05/21/mountaineers-led-by-tim-mosedale-confirm-suspicions-that-mount-everest-s-famous-hillary-step-had-completely-collapsed.md) _Context: Mount Everest_
 4. [Swiss mountain climber Ueli Steck dies in a mountaineering accident near Mount Everest. ](/news/2017/04/30/swiss-mountain-climber-ueli-steck-dies-in-a-mountaineering-accident-near-mount-everest.md) _Context: Mount Everest_
 5. [The United Kingdom government agrees to sell the UK Green Investment Bank to a group led chiefly by Australian financial firm Macquarie Group for $3 billion, in a deal criticized as not securing the future of the bank. ](/news/2017/04/20/the-united-kingdom-government-agrees-to-sell-the-uk-green-investment-bank-to-a-group-led-chiefly-by-australian-financial-firm-macquarie-grou.md) _Context: Australia_

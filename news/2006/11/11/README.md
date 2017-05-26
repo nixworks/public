@@ -9,7 +9,7 @@ _Context: Beit Hanoun November 2006 incident, Gaza Strip, Israel, United Nations
 ### [ Aung San Suu Kyi meets with a United Nations official Ibrahim Gambari in Myanmar. It is the first time she has left her house since having been placed under house arrest in May. ](/news/2006/11/11/aung-san-suu-kyi-meets-with-a-united-nations-official-ibrahim-gambari-in-myanmar-it-is-the-first-time-she-has-left-her-house-since-having.md)
 _Context: Aung San Suu Kyi, Ibrahim Gambari, Myanmar, United Nations_
 
-### [ Somali Civil War (2006-present):  Somalia's Islamist leaders say they have agreed a deal to avoid hostilities with the transitional government. ](/news/2006/11/11/somali-civil-war-2006-present-p-somalia-s-islamist-leaders-say-they-have-agreed-a-deal-to-avoid-hostilities-with-the-transitional-govern.md)
+### [ Somali Civil War (2006-present): Somalia's Islamist leaders say they have agreed a deal to avoid hostilities with the transitional government. ](/news/2006/11/11/somali-civil-war-2006-present-p-somalia-s-islamist-leaders-say-they-have-agreed-a-deal-to-avoid-hostilities-with-the-transitional-governm.md)
 _Context: Somalia, War in Somalia_
 
 ### [ Iraq insurgency: At least eight people are killed and thirty injured in two simultaneous explosions in Baghdad, Iraq. ](/news/2006/11/11/iraq-insurgency-at-least-eight-people-are-killed-and-thirty-injured-in-two-simultaneous-explosions-in-baghdad-iraq.md)

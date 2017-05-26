@@ -1,6 +1,6 @@
 ## [2007-03-4](/news/2007/03/4/index.md)
 
-### [ Estonian parliamentary election, 2007: Andrus Ansip's Reform Party wins 27% of the vote raising its mandate in the Riigikogu to 31 seats from 19.   Approximately 30,000 voters take advantage of electronic voting, becoming the first nationwide election where part of the votecasting was allowed via the Internet. ](/news/2007/03/4/estonian-parliamentary-election-2007-p-andrus-ansip-s-reform-party-wins-27-of-the-vote-raising-its-mandate-in-the-riigikogu-to-31-seats-f.md)
+### [ Estonian parliamentary election, 2007: Andrus Ansip's Reform Party wins 27% of the vote raising its mandate in the Riigikogu to 31 seats from 19. Approximately 30,000 voters take advantage of electronic voting, becoming the first nationwide election where part of the votecasting was allowed via the Internet. ](/news/2007/03/4/estonian-parliamentary-election-2007-p-andrus-ansip-s-reform-party-wins-27-of-the-vote-raising-its-mandate-in-the-riigikogu-to-31-seats-f.md)
 _Context: Andrus Ansip, Estonian parliamentary election, 2007, Internet, Reform Party, Riigikogu, electronic voting_
 
 ### [ Abkhazian parliamentary election, 2007: Separatists in the breakaway Georgian republic of Abkhazia hold elections. The Government of Georgia claims that the elections are not legitimate. ](/news/2007/03/4/abkhazian-parliamentary-election-2007-separatists-in-the-breakaway-georgian-republic-of-abkhazia-hold-elections-the-government-of-georgi.md)

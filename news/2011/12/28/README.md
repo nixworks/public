@@ -1,6 +1,6 @@
 ## [2011-12-28](/news/2011/12/28/index.md)
 
-### [2011 Syrian uprising: The Washington-based organisation Human Rights Watch accuses Syria of hiding hundreds of political detainees during a visit by Arab League monitors. ](/news/2011/12/28/2011-syrian-uprising-pthe-washington-based-organisation-human-rights-watch-accuses-syria-of-hiding-hundreds-of-political-detainees-during-a.md)
+### [2011 Syrian uprising:The Washington-based organisation Human Rights Watch accuses Syria of hiding hundreds of political detainees during a visit by Arab League monitors. ](/news/2011/12/28/2011-syrian-uprising-pthe-washington-based-organisation-human-rights-watch-accuses-syria-of-hiding-hundreds-of-political-detainees-during-a.md)
 Syria releases 755 people detained in the nine-month uprising against President Assad, state TV says, as Arab League monitors continue their visit amid ongoing violence.
 
 ### [A bomb is thrown into an Arabic school in southern Nigeria's Delta State, injuring seven people. ](/news/2011/12/28/a-bomb-is-thrown-into-an-arabic-school-in-southern-nigeria-s-delta-state-injuring-seven-people.md)

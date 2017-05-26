@@ -11,8 +11,8 @@ Finnish authorities were holding a man and a woman on Saturday for alleged invol
 
 ### Related:
 
-1. [Finnish municipal elections, 2017 Voters go to the polls for municipal elections in Finland. ](/news/2017/04/9/finnish-municipal-elections-2017-pvoters-go-to-the-polls-for-municipal-elections-in-finland.md) _Context: Finland_
-2. [China-Finland relations Chinese president Xi Jinping visits Finland on his way to the United States. ](/news/2017/04/5/chinaafinland-relations-pchinese-president-xi-jinping-visits-finland-on-his-way-to-the-united-states.md) _Context: Finland_
+1. [Voters go to the polls for municipal elections in Finland. ](/news/2017/04/9/voters-go-to-the-polls-for-municipal-elections-in-finland.md) _Context: Finland_
+2. [Chinese president Xi Jinping visits Finland on his way to the United States. ](/news/2017/04/5/chinese-president-xi-jinping-visits-finland-on-his-way-to-the-united-states.md) _Context: Finland_
 3. [Russian president Vladimir Putin attends the International Arctic Forum in Arkhangelsk, Russia. He says there that he is ready to meet U.S. President Donald Trump in Helsinki, Finland. ](/news/2017/03/30/russian-president-vladimir-putin-attends-the-international-arctic-forum-in-arkhangelsk-russia-he-says-there-that-he-is-ready-to-meet-u-s.md) _Context: Finland_
 4. [Three women, the Imatra Town Council chairwoman and two local reporters, are shot dead outside a restaurant in Imatra, Finland, a town east of the capital, Helsinki. A 23-year-old suspect is apprehended by police. ](/news/2016/12/4/three-women-the-imatra-town-council-chairwoman-and-two-local-reporters-are-shot-dead-outside-a-restaurant-in-imatra-finland-a-town-east.md) _Context: Finland_
 5. [Avian flu virus H5N8 outbreaks are reported in birds in India, Germany, Finland, Ireland, the Netherlands, and  several other European nations. The World Health Organization advised on 17 November that human infection is possible, but unlikely, based on information available. ](/news/2016/11/26/avian-flu-virus-h5n8-outbreaks-are-reported-in-birds-in-india-germany-finland-ireland-the-netherlands-and-several-other-european-natio.md) _Context: Finland_

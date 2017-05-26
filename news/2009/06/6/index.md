@@ -25,7 +25,7 @@ _Context: Amazon, Peru, Peruvian Army, deadly clashes, indigenous Amazon groups_
 _Context: Somalia, Transitional Federal Government, War in Somalia (2009-), militant, radical Islamists_
 
 ### [ Two male bodies and several luggage items are recovered from Air France Flight 447 in the Atlantic Ocean. ](/news/2009/06/6/two-male-bodies-and-several-luggage-items-are-recovered-from-air-france-flight-447-in-the-atlantic-ocean.md)
-_Context: Air France, Atlantic, crash of Air France Flight 447_
+_Context: Air France, Atlantic Ocean, crash of Air France Flight 447_
 
 ### [ The Philippines' Army kill 30 Moro Islamic Liberation Front members and capture a "bomb factory" on Mindanao. ](/news/2009/06/6/the-philippines-army-kill-30-moro-islamic-liberation-front-members-and-capture-a-bomb-factory-on-mindanao.md)
 _Context: Mindanao, Moro Islamic Liberation Front, Philippines, army, communist insurgency_
@@ -40,7 +40,7 @@ _Context: Harvard University, coagulation, molecule_
 _Context: 1944, American Cemetery and Memorial, D-Day, France, Normandy, World War II, veteran_
 
 ### [ The International Labour Organization requests that Burma's government amend a clause in its Constitution that may justify forced labor. ](/news/2009/06/6/the-international-labour-organization-requests-that-burma-s-government-amend-a-clause-in-its-constitution-that-may-justify-forced-labor.md)
-_Context: Burma, Constitution, International Labour Organization, clause, constitutional amendment, forced labor, government_
+_Context: Burma, Constitution, International Labour Organization, amendment, clause, forced labor, government_
 
 ### [ Palm, Inc. launches its new Palm Pre smartphone. ](/news/2009/06/6/palm-inc-launches-its-new-palm-pre-smartphone.md)
 _Context: Palm Pre, Palm, Inc., smartphone_

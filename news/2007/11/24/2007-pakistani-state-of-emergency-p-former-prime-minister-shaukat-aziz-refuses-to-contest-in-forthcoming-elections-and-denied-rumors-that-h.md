@@ -1,6 +1,6 @@
 ### [2007-11-24](/news/2007/11/24/index.md)
 
-#  2007 Pakistani state of emergency: Former Prime Minister Shaukat Aziz refuses to contest in forthcoming elections and denied rumors that he is leaving the country.  Two suicide car bombings kill at least 30 people and injure many more in Rawalpindi. 
+#  2007 Pakistani state of emergency: Former Prime Minister Shaukat Aziz refuses to contest in forthcoming elections and denied rumors that he is leaving the country. Two suicide car bombings kill at least 30 people and injure many more in Rawalpindi. 
 
 
 

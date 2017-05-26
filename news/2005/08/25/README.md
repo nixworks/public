@@ -12,7 +12,7 @@ _Context: Egypt, Sinai_
 ### [ At least 42 people die following a series of floods throughout Europe. ](/news/2005/08/25/at-least-42-people-die-following-a-series-of-floods-throughout-europe.md)
 _Context: 2005 European floods, Europe_
 
-### [ Conflict in Iraq:  36 male corpses have been found in a shallow river near the town of Kut, Iraq. ](/news/2005/08/25/conflict-in-iraq-p-36-male-corpses-have-been-found-in-a-shallow-river-near-the-town-of-kut-iraq.md)
+### [ Conflict in Iraq: 36 male corpses have been found in a shallow river near the town of Kut, Iraq. ](/news/2005/08/25/conflict-in-iraq-p-36-male-corpses-have-been-found-in-a-shallow-river-near-the-town-of-kut-iraq.md)
 _Context: Conflict in Iraq, Iraq, Kut_
 
 ### [ The German Constitutional Court rules that early elections on September 18 may go ahead. ](/news/2005/08/25/the-german-constitutional-court-rules-that-early-elections-on-september-18-may-go-ahead.md)

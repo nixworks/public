@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [Moldovan parliamentary election, 2014 Moldova's pro-European parties begin consultations on forming a coalition as near-complete results show them gaining 54 seats in the 101-seat parliament. ](/news/2014/12/1/moldovan-parliamentary-election-2014-pmoldova-s-pro-european-parties-begin-consultations-on-forming-a-coalition-as-near-complete-results-sh.md) _Context: Moldovan parliamentary election, 2014_
+1. [Moldova's pro-European parties begin consultations on forming a coalition as near-complete results show them gaining 54 seats in the 101-seat parliament. ](/news/2014/12/1/moldova-s-pro-european-parties-begin-consultations-on-forming-a-coalition-as-near-complete-results-show-them-gaining-54-seats-in-the-101-sea.md) _Context: Moldovan parliamentary election, 2014_

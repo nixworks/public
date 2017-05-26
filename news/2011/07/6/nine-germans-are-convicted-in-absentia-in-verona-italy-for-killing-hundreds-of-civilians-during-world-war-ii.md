@@ -11,7 +11,7 @@ An Italian court sentences nine German men in absentia to life in prison for kil
 
 ### Related:
 
-1. [2017 Verona bus crash A bus carrying Hungarian students crashes near Verona in northern Italy with at least 18 people dead and 50 injured. ](/news/2017/01/20/2017-verona-bus-crash-pa-bus-carrying-hungarian-students-crashes-near-verona-in-northern-italy-with-at-least-18-people-dead-and-50-injured.md) _Context: Italian, Verona_
+1. [A bus carrying Hungarian students crashes near Verona in northern Italy with at least 18 people dead and 50 injured. ](/news/2017/01/20/a-bus-carrying-hungarian-students-crashes-near-verona-in-northern-italy-with-at-least-18-people-dead-and-50-injured.md) _Context: Italian, Verona_
 2. [The sunken Italian World War II flagship ''Roma'' is discovered off the coast of Sardinia. ](/news/2012/06/29/the-sunken-italian-world-war-ii-flagship-roma-is-discovered-off-the-coast-of-sardinia.md) _Context: Italian, World War II_
 3. [German prosecutors reopen hundreds of investigations into Nazi concentration camp guards, following the successful prosecution of retired U.S. autoworker John Demjanjuk for his role at the Sobibor extermination camp in Poland during World War II. ](/news/2011/10/5/german-prosecutors-reopen-hundreds-of-investigations-into-nazi-concentration-camp-guards-following-the-successful-prosecution-of-retired-u.md) _Context: German, World War II_
 4. [ Cesare Battisti, convicted ''in absentia'' of two murders in Italy in the 1970s and who later became a crime writer in France, is arrested in Brazil. ](/news/2007/03/18/cesare-battisti-convicted-in-absentia-of-two-murders-in-italy-in-the-1970s-and-who-later-became-a-crime-writer-in-france-is-arrested.md) _Context: Italian, in absentia_

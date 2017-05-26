@@ -15,7 +15,7 @@ _Context: American Apparel_
 ### [The World Bank estimates that 9.6 percent of the world's population is living in extreme poverty this year, down from 12.8% in 2012. The bank also updated its global poverty line from $1.25 per day to $1.90 per day to reflect inflation and changes in purchasing power around the world; it was last adjusted in 2008. ](/news/2015/10/5/the-world-bank-estimates-that-9-6-percent-of-the-worldas-population-is-living-in-extreme-poverty-this-year-down-from-12-8-in-2012-the-b.md)
 It projects 702 million people or 9.6% of the world’s population will be living in extreme poverty in 2015, down from 902 million people or 12.8% in 2012
 
-### [October 2015 nor'easter Additional search and rescue efforts take place in the American city of Columbia, South Carolina. ](/news/2015/10/5/october-2015-nor-easter-padditional-search-and-rescue-efforts-take-place-in-the-american-city-of-columbia-south-carolina.md)
+### [Additional search and rescue efforts take place in the American city of Columbia, South Carolina. ](/news/2015/10/5/additional-search-and-rescue-efforts-take-place-in-the-american-city-of-columbia-south-carolina.md)
 South Carolina Gov. Nikki Haley confirmed nine weather-related fatalities amid historic flooding across the state.
 
 ### [The El Faro, missing since Thursday, is categorized as sunk with 33 people on board during Hurricane Joaquin after a debris field is found. ](/news/2015/10/5/the-el-faro-missing-since-thursday-is-categorized-as-sunk-with-33-people-on-board-during-hurricane-joaquin-after-a-debris-field-is-found.md)

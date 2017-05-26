@@ -1,6 +1,6 @@
 ### [2014-08-16](/news/2014/08/16/index.md)
 
-# War in Donbass: Ukrainian government forces recapture control of the city of Zhdanivka from pro-Russian insurgents. 
+# War in Donbass:Ukrainian government forces recapture control of the city of Zhdanivka from pro-Russian insurgents. 
 
 
 

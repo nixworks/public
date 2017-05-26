@@ -10,7 +10,7 @@ Australian author Richard Flanagan wins the £50,000 Man Booker Prize for his wa
 * BPCE to launch service to transfer money by tweet* Twitter testing ways to expand own e-commerce offerings* Tech giants Apple, Facebook, Tw
 
 ### [Typhoon Vongfong leaves Japan as a tropical storm having caused at least one death, two people missing and 93 injured. ](/news/2014/10/14/typhoon-vongfong-leaves-japan-as-a-tropical-storm-having-caused-at-least-one-death-two-people-missing-and-93-injured.md)
-_Context: Japan, Pacific typhoon season, Typhoon Vongfong, tropical storm_
+_Context: 2014 Pacific typhoon season, Japan, Typhoon Vongfong, tropical storm_
 
 ### [The death toll from Cyclone Hudhud rises to 24 with 400,000 people needing assistance in India's Andhra Pradesh and Orissa states. ](/news/2014/10/14/the-death-toll-from-cyclone-hudhud-rises-to-24-with-400-000-people-needing-assistance-in-india-s-andhra-pradesh-and-orissa-states.md)
 _Context: 2014 North Indian Ocean cyclone season, Andhra Pradesh, Cyclone Hudhud, India, Orissa State_

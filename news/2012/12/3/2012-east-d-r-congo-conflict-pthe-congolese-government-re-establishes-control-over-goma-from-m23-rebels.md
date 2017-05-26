@@ -1,6 +1,6 @@
 ### [2012-12-3](/news/2012/12/3/index.md)
 
-# 2012 East D.R. Congo conflict: The Congolese government re-establishes control over Goma from M23 rebels. 
+# 2012 East D.R. Congo conflict:The Congolese government re-establishes control over Goma from M23 rebels. 
 
 
 

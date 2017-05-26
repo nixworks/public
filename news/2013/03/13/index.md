@@ -42,7 +42,7 @@ Terry Mills has been dumped as Chief Minister of the NT, with Adam Giles the new
 ### [After her Siumut party wins the parliamentary election, Aleqa Hammond is set to become first female Prime Minister of Greenland. ](/news/2013/03/13/after-her-siumut-party-wins-the-parliamentary-election-aleqa-hammond-is-set-to-become-first-female-prime-minister-of-greenland.md)
 _Context: Aleqa Hammond, Greenland, Prime Minister, Siumut, parliamentary election_
 
-### [Papal conclave, 2013: Black smoke rises from the Vatican's Sistine Chapel, signalling that Roman Catholic Cardinals had not elected a new pope in the morning session of the second day of voting at their conclave. ](/news/2013/03/13/papal-conclave-2013-pblack-smoke-rises-from-the-vatican-s-sistine-chapel-signalling-that-roman-catholic-cardinals-had-not-elected-a-new-p.md)
+### [Papal conclave, 2013:Black smoke rises from the Vatican's Sistine Chapel, signalling that Roman Catholic Cardinals had not elected a new pope in the morning session of the second day of voting at their conclave. ](/news/2013/03/13/papal-conclave-2013-pblack-smoke-rises-from-the-vatican-s-sistine-chapel-signalling-that-roman-catholic-cardinals-had-not-elected-a-new-po.md)
 Catholic cardinals meeting at the Vatican have been holding another round of voting to choose a new Pope, but there is no sign of a positive result.
 
 ### [The European Southern Observatory's ALMA telescope begins service in Chile's Atacama Desert. ](/news/2013/03/13/the-european-southern-observatory-s-alma-telescope-begins-service-in-chile-s-atacama-desert.md)

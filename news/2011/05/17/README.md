@@ -1,6 +1,6 @@
 ## [2011-05-17](/news/2011/05/17/index.md)
 
-### [2011 Libyan civil war: A NATO airstrike on the Libyan capital Tripoli damages two government buildings. ](/news/2011/05/17/2011-libyan-civil-war-pa-nato-airstrike-on-the-libyan-capital-tripoli-damages-two-government-buildings.md)
+### [2011 Libyan civil war:A NATO airstrike on the Libyan capital Tripoli damages two government buildings. ](/news/2011/05/17/2011-libyan-civil-war-pa-nato-airstrike-on-the-libyan-capital-tripoli-damages-two-government-buildings.md)
 Sources say minister is on his way to Tunisian capital as NATO warplanes continue to hit targets in Tripoli.
 
 ### [2011 Syrian uprising: At least one mass grave is reported to have been discovered in the city of Daraa; the government denies it exists. ](/news/2011/05/17/2011-syrian-uprising-at-least-one-mass-grave-is-reported-to-have-been-discovered-in-the-city-of-daraa-the-government-denies-it-exists.md)

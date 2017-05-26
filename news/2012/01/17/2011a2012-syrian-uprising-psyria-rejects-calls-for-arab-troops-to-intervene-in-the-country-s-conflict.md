@@ -1,6 +1,6 @@
 ### [2012-01-17](/news/2012/01/17/index.md)
 
-# 2011-2012 Syrian uprising: Syria rejects calls for Arab troops to intervene in the country's conflict. 
+# 2011-2012 Syrian uprising:Syria rejects calls for Arab troops to intervene in the country's conflict. 
 
 
 

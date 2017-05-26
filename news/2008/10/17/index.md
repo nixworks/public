@@ -25,7 +25,7 @@ The Supreme Court overturned a lower court’s order that would have made challe
 _Context: North Korea, State Department, nuclear reactor_
 
 ### [ The National Oceanic and Atmospheric Administration declares that the beluga whale of Alaska's Cook Inlet is an endangered species. ](/news/2008/10/17/the-national-oceanic-and-atmospheric-administration-declares-that-the-beluga-whale-of-alaska-s-cook-inlet-is-an-endangered-species.md)
-_Context: Alaska, Cook Inlet, National Oceanic and Atmospheric Administration, beluga whale, endangered animal parts_
+_Context: Alaska, Cook Inlet, U.S.  National Oceanic and Atmospheric Administration, beluga whale, endangered animal parts_
 
 ### [ Global financial crisis of September-October 2008: The Parliament of Germany passes a 500 billion euro ($673.8 billion) bank bailout. ](/news/2008/10/17/global-financial-crisis-of-septemberaoctober-2008-p-the-parliament-of-germany-passes-a-500-billion-euro-673-8-billion-bank-bailout.md)
 Measure approved under fast-track procedure as European markets rally.

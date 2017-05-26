@@ -34,7 +34,7 @@ _Context: France's foreign ministers, foreign minister of Germany, talks about I
 Read the latest World and International news headlines from Sky News Australia. For coverage of breaking news from around the World visit skynews.com.au.
 
 ### [Pakistan orders foreign nationals working for the Save the Children NGO to leave the country within four weeks. The Pakistani government has accused the organization of being linked to the fake vaccination program used in the hunt for Osama bin Laden. The charity and the U.S. government deny any links. ](/news/2012/09/7/pakistan-orders-foreign-nationals-working-for-the-save-the-children-ngo-to-leave-the-country-within-four-weeks-the-pakistani-government-has.md)
-_Context: American, Dr. Shakil Afridi, NGO, Osama bin Laden, Pakistan, Save the Children, hunt_
+_Context: Dr. Shakil Afridi, NGO, Osama bin Laden, Pakistan, Save the Children, United States, hunt_
 
 ### [ Asia-Pacific Economic Cooperation (APEC):Economic leaders assemble on Russky Island, off the coast of Vladivostok, Russia, for the forum's 24th summit on September 8th and 9th. ](/news/2012/09/7/asia-pacific-economic-cooperation-apec-peconomic-leaders-assemble-on-russky-island-off-the-coast-of-vladivostok-russia-for-the-forum-s.md)
 Harper to meet with Chinese president during Asia-Pacific Economic Co-operation leaders’ summit

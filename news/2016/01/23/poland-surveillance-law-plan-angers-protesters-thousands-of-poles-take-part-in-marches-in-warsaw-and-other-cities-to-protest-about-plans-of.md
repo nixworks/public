@@ -11,4 +11,4 @@ Thousands of Poles take part in marches in Warsaw and other cities to protest ab
 
 ### Related:
 
-1. [Polish Constitutional Court crisis, 2015.  Thousands of people take to the streets of Warsaw and other cities in Poland in protest against the government after it refused to publish the Constitutional Court's ruling that the government cannot change how the court works. ](/news/2016/03/12/polish-constitutional-court-crisis-2015-pthousands-of-people-take-to-the-streets-of-warsaw-and-other-cities-in-poland-in-protest-against.md) _Context: Polish Constitutional Court crisis, 2015_
+1. [Polish Constitutional Court crisis, 2015.Thousands of people take to the streets of Warsaw and other cities in Poland in protest against the government after it refused to publish the Constitutional Court's ruling that the government cannot change how the court works. ](/news/2016/03/12/polish-constitutional-court-crisis-2015-pthousands-of-people-take-to-the-streets-of-warsaw-and-other-cities-in-poland-in-protest-against-th.md) _Context: Polish Constitutional Court crisis, 2015_

@@ -31,7 +31,7 @@ Resolution passed by national assembly allows president to stay in power for 90 
 Agreement reached after three days of talks in Moscow paving the way for the formation of a new National Council.
 
 ### [Global temperatures rose to the hottest level on record for 2016 for a third successive record according to NASA and the US National Oceanic and Atmospheric Administration. ](/news/2017/01/18/global-temperatures-rose-to-the-hottest-level-on-record-for-2016-for-a-third-successive-record-according-to-nasa-and-the-us-national-oceanic.md)
-_Context: NASA, National Oceanic and Atmospheric Administration_
+_Context: NASA, U.S.  National Oceanic and Atmospheric Administration_
 
 ## [Previous Day...](/news/2017/01/17/index.md)
 

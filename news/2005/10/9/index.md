@@ -16,7 +16,7 @@ _Context: Anglican, Catholic, House of Lords, United Kingdom, whether or not to 
 _Context: Glenda Jackson, Labour Party, MP, Tony Blair, United Kingdom_
 
 ### [ Tropical Storm Vince, the 20th named storm of the season (making the current Atlantic hurricane season the 2nd most active since recording first took place) is gaining hurricane strength while heading towards Europe. It is unusual for such a storm to form so far east in the Atlantic Ocean, and more so gaining hurricane strength, since the waters are much cooler than in the Caribbean area. ](/news/2005/10/9/tropical-storm-vince-the-20th-named-storm-of-the-season-making-the-current-atlantic-hurricane-season-the-2nd-most-active-since-recording.md)
-_Context: 2005 Atlantic hurricane season, Atlantic, Caribbean, Europe, tropical cyclone_
+_Context: 2005 Atlantic hurricane season, Atlantic Ocean, Caribbean, Europe, tropical cyclone_
 
 ### [ Southend Pier, in the East of England, is devastated by a fire. ](/news/2005/10/9/southend-pier-in-the-east-of-england-is-devastated-by-a-fire.md)
 _Context: East of England, Southend Pier_

@@ -1,6 +1,6 @@
 ## [2016-11-14](/news/2016/11/14/index.md)
 
-### [Terrorism in Indonesia A child is killed and three other children are wounded in an attack in Samarinda. ](/news/2016/11/14/terrorism-in-indonesia-pa-child-is-killed-and-three-other-children-are-wounded-in-an-attack-in-samarinda.md)
+### [A child is killed and three other children are wounded in an attack in Samarinda. ](/news/2016/11/14/a-child-is-killed-and-three-other-children-are-wounded-in-an-attack-in-samarinda.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 ### [Pakistan Army's Inter-Services Public Relations (ISPR) reports seven Pakistani soldiers have been killed by Indian cross-border shelling in Bhimber District, Azad Kashmir. ](/news/2016/11/14/pakistan-army-s-inter-services-public-relations-ispr-reports-seven-pakistani-soldiers-have-been-killed-by-indian-cross-border-shelling-in.md)

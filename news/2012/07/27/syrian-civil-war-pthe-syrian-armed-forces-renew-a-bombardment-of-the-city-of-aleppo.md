@@ -1,6 +1,6 @@
 ### [2012-07-27](/news/2012/07/27/index.md)
 
-# Syrian civil war: The Syrian Armed Forces renew a bombardment of the city of Aleppo. 
+# Syrian civil war:The Syrian Armed Forces renew a bombardment of the city of Aleppo. 
 
 
 

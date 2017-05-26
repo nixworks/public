@@ -1,6 +1,6 @@
 ### [2007-03-4](/news/2007/03/4/index.md)
 
-#  Estonian parliamentary election, 2007: Andrus Ansip's Reform Party wins 27% of the vote raising its mandate in the Riigikogu to 31 seats from 19.   Approximately 30,000 voters take advantage of electronic voting, becoming the first nationwide election where part of the votecasting was allowed via the Internet. 
+#  Estonian parliamentary election, 2007: Andrus Ansip's Reform Party wins 27% of the vote raising its mandate in the Riigikogu to 31 seats from 19. Approximately 30,000 voters take advantage of electronic voting, becoming the first nationwide election where part of the votecasting was allowed via the Internet. 
 
 
 

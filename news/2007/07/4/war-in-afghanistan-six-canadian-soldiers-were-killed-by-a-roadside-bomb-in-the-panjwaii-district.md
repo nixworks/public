@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [War in Afghanistan: Canada ends mission in Afghanistan and withdraws 2850 troops. ](/news/2011/07/7/war-in-afghanistan-pcanada-ends-mission-in-afghanistan-and-withdraws-2850-troops.md) _Context: Canada, War in Afghanistan (2001-present)_
+1. [War in Afghanistan:Canada ends mission in Afghanistan and withdraws 2850 troops. ](/news/2011/07/7/war-in-afghanistan-pcanada-ends-mission-in-afghanistan-and-withdraws-2850-troops.md) _Context: Canada, War in Afghanistan (2001-present)_
 2. [ War in Afghanistan: Two NATO Canadian soldiers and an interpreter are killed by a roadside bomb in Panjawi, Kandahar province. Three more soldiers are wounded. ](/news/2007/11/17/war-in-afghanistan-two-nato-canadian-soldiers-and-an-interpreter-are-killed-by-a-roadside-bomb-in-panjawi-kandahar-province-three-more-s.md) _Context: Canada, War in Afghanistan (2001-present)_
 3. [A state of emergency is declared in Montreal, Canada as 1,200 Canadian Forces personnel are deployed in the province of Quebec to help with rising floodwaters. 146 communities are affected and more than 1,500 residents have been evacuated from their homes. ](/news/2017/05/7/a-state-of-emergency-is-declared-in-montreal-canada-as-1-200-canadian-forces-personnel-are-deployed-in-the-province-of-quebec-to-help-with.md) _Context: Canada_
 4. [A series of earthquakes, the largest registering 6.3, strike near Mosquito Lake, Alaska, near the Alaskan border with British Columbia, Canada. At least one office building and two schools were heavily damaged and evacuated in the Yukon. ](/news/2017/05/1/a-series-of-earthquakes-the-largest-registering-6-3-strike-near-mosquito-lake-alaska-near-the-alaskan-border-with-british-columbia-cana.md) _Context: Canada_

@@ -1,6 +1,6 @@
 ### [2006-11-26](/news/2006/11/26/index.md)
 
-#  War in Chad (2005-present):  Chad's armed forces have retaken Abeche with no major fighting being reported. 
+#  War in Chad (2005-present): Chad's armed forces have retaken Abeche with no major fighting being reported. 
 
 
 
@@ -17,7 +17,7 @@
 3. [ War in Chad (2005-present): Battle of N'Djamena: Chadian rebels enter the capital N'Djamena and head for the presidential palace. ](/news/2008/02/2/war-in-chad-2005apresent-p-battle-of-n-djamena-chadian-rebels-enter-the-capital-n-djamena-and-head-for-the-presidential-palace.md) _Context: Chad, War in Chad (2005-present)_
 4. [ War in Chad (2005-present): Chad's army claims to have killed hundreds of rebel fighters in heavy fighting near Sudan's Darfur region. ](/news/2007/11/26/war-in-chad-2005apresent-chad-s-army-claims-to-have-killed-hundreds-of-rebel-fighters-in-heavy-fighting-near-sudan-s-darfur-region.md) _Context: Chad, War in Chad (2005-present)_
 5. [ War in Chad (2005-present)/Darfur conflict: Chadian rebels have attacked the eastern town of Guereda, neighbouring Sudan's war-torn Darfur region. ](/news/2006/12/2/war-in-chad-2005apresent-darfur-conflict-chadian-rebels-have-attacked-the-eastern-town-of-gua-c-ra-c-da-neighbouring-sudan-s-war-torn-dar.md) _Context: Chad, War in Chad (2005-present)_
-6. [ War in Chad (2005-present):  Chadian rebels said they shot down a government military plane with a captured ground-to-air missile in fighting near the eastern town of Abeche, which they briefly seized at the weekend. ](/news/2006/11/28/war-in-chad-2005apresent-p-chadian-rebels-said-they-shot-down-a-government-military-plane-with-a-captured-ground-to-air-missile-in-fig.md) _Context: Chad, War in Chad (2005-present)_
+6. [ War in Chad (2005-present): Chadian rebels said they shot down a government military plane with a captured ground-to-air missile in fighting near the eastern town of Abeche, which they briefly seized at the weekend. ](/news/2006/11/28/war-in-chad-2005apresent-p-chadian-rebels-said-they-shot-down-a-government-military-plane-with-a-captured-ground-to-air-missile-in-figh.md) _Context: Chad, War in Chad (2005-present)_
 7. [ War in Chad (2005-present) and Central African Republic Bush War: Chad has offered to send troops to the Central African Republic to help fight rebels it claims are backed by Sudan. ](/news/2006/11/18/war-in-chad-2005apresent-and-central-african-republic-bush-war-p-chad-has-offered-to-send-troops-to-the-central-african-republic-to-hel.md) _Context: Chad, War in Chad (2005-present)_
 8. [The Extraordinary African Chambers tribunal in Dakar, Senegal, upholds its conviction of former Chadian president Hissene Habre for crimes against humanity, but acquits him of rape. ](/news/2017/04/27/the-extraordinary-african-chambers-tribunal-in-dakar-senegal-upholds-its-conviction-of-former-chadian-president-hissa-ne-habra-c-for-crimes.md) _Context: Chad_
 9. [Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. ](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.md) _Context: Chad_

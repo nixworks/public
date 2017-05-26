@@ -1,6 +1,6 @@
 ### [2009-01-20](/news/2009/01/20/index.md)
 
-#  United States Inauguration Day 2009:  Barack Obama is inaugurated as the 44th and first African-American President of the United States. 
+#  United States Inauguration Day 2009: Barack Obama is inaugurated as the 44th and first African-American President of the United States. 
 
 
 

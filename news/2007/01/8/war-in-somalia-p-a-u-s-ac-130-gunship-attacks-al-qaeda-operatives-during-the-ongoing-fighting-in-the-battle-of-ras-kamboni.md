@@ -1,6 +1,6 @@
 ### [2007-01-8](/news/2007/01/8/index.md)
 
-#  War in Somalia:  A U.S. AC-130 gunship attacks Al Qaeda operatives during the ongoing fighting in the Battle of Ras Kamboni 
+#  War in Somalia: A U.S. AC-130 gunship attacks Al Qaeda operatives during the ongoing fighting in the Battle of Ras Kamboni 
 
 
 

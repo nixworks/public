@@ -15,7 +15,7 @@ _Context: Pakistan_
 ### [ 30 suspected mobsters arrested around Naples in "war against the Camorra". ](/news/2008/09/30/30-suspected-mobsters-arrested-around-naples-in-war-against-the-camorra.md)
 _Context: Camorra, Naples_
 
-### [ Piracy in Somalia:  Pirates deny reports of three of their own killed in a shoot-out aboard the Ukrainian ship (MV Faina) off the African coast. ](/news/2008/09/30/piracy-in-somalia-p-pirates-deny-reports-of-three-of-their-own-killed-in-a-shoot-out-aboard-the-ukrainian-ship-mv-faina-off-the-african.md)
+### [ Piracy in Somalia: Pirates deny reports of three of their own killed in a shoot-out aboard the Ukrainian ship (MV Faina) off the African coast. ](/news/2008/09/30/piracy-in-somalia-p-pirates-deny-reports-of-three-of-their-own-killed-in-a-shoot-out-aboard-the-ukrainian-ship-mv-faina-off-the-african-c.md)
 Somali pirates who seized a Ukrainian ship laden with military hardware last week remained at large on Tuesday, even as they denied reports that three of their own were killed in a shootout aboard the ship.
 
 ### [ The Dow Jones Industrial Average goes up almost 500 points, following its largest one day point drop in history yesterday.](/news/2008/09/30/the-dow-jones-industrial-average-goes-up-almost-500-points-following-its-largest-one-day-point-drop-in-history-yesterday.md)

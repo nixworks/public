@@ -4,7 +4,7 @@
 Shrimpers in Louisiana andAlabama have filed class-action lawsuits against oil giant BPPlc (BP.L) and owners of the drilling platform that exploded inthe Gulf of Mexico, as claims for economic losses anticipatedfrom the disaster began to mount.
 
 ### [A U.S. government panel, the U.S. Commission on International Religious Freedom,  names Saudi Arabia and China among 13 countries as the most serious violators of religious freedom. ](/news/2010/04/29/a-u-s-government-panel-the-u-s-commission-on-international-religious-freedom-names-saudi-arabia-and-china-among-13-countries-as-the-mos.md)
-_Context: American, China, Saudi Arabia, U.S. Commission on International Religious Freedom, religious freedom_
+_Context: China, Saudi Arabia, U.S. Commission on International Religious Freedom, United States, religious freedom_
 
 ### [Millions of mostly Asian women who work in countries  like Saudi Arabia, Lebanon and the United Arab Emirates remain at risk of human trafficking, forced labor, confinement and sexual violence, the New York-based Human Rights Watch group reports. ](/news/2010/04/29/millions-of-mostly-asian-women-who-work-in-countries-like-saudi-arabia-lebanon-and-the-united-arab-emirates-remain-at-risk-of-human-traffi.md)
 _Context: Human Rights Watch, Lebanon, New York City, Saudi Arabia, United Arab Emirates, forced labor, human trafficking, incarceration, migrant workers, sexual violence_

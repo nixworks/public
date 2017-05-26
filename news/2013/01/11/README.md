@@ -1,6 +1,6 @@
 ## [2013-01-11](/news/2013/01/11/index.md)
 
-### [Syrian civil war: Rebel forces take over the strategic Taftanaz airbase in northern Syria. ](/news/2013/01/11/syrian-civil-war-prebel-forces-take-over-the-strategic-taftanaz-airbase-in-northern-syria.md)
+### [Syrian civil war:Rebel forces take over the strategic Taftanaz airbase in northern Syria. ](/news/2013/01/11/syrian-civil-war-prebel-forces-take-over-the-strategic-taftanaz-airbase-in-northern-syria.md)
 Syrian activists say Islamic militants seeking to topple President Bashar Assad have taken full control of a strategic northwestern air base in a significant blow to the Assad regime.
 
 ### [Northern Mali conflict (2012-present):France commits troops to aid government forces in the Northern Mali conflict. ](/news/2013/01/11/northern-mali-conflict-2012apresent-pfrance-commits-troops-to-aid-government-forces-in-the-northern-mali-conflict.md)

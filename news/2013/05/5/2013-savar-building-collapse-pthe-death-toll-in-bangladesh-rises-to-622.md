@@ -1,6 +1,6 @@
 ### [2013-05-5](/news/2013/05/5/index.md)
 
-# 2013 Savar building collapse: The death toll in Bangladesh rises to 622. 
+# 2013 Savar building collapse:The death toll in Bangladesh rises to 622. 
 
 
 

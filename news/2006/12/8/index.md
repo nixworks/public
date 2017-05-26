@@ -15,7 +15,7 @@ _Context: ASEAN Summit, December 10, Philippines, Severe Tropical Storm Utor_
 ### [ Research linking the spread of the AIDS virus with malarial infections in Africa is published in ''Science''. ](/news/2006/12/8/research-linking-the-spread-of-the-aids-virus-with-malarial-infections-in-africa-is-published-in-science.md)
 _Context: AIDS, Africa, Science, malaria, virus_
 
-### [ 2006 Fijian coup d'tat:  Fiji is suspended from the Commonwealth of Nations following a meeting of Commonwealth foreign ministers in London. ](/news/2006/12/8/2006-fijian-coup-d-etat-p-fiji-is-suspended-from-the-commonwealth-of-nations-following-a-meeting-of-commonwealth-foreign-ministers-in-lond.md)
+### [ 2006 Fijian coup d'tat: Fiji is suspended from the Commonwealth of Nations following a meeting of Commonwealth foreign ministers in London. ](/news/2006/12/8/2006-fijian-coup-d-etat-p-fiji-is-suspended-from-the-commonwealth-of-nations-following-a-meeting-of-commonwealth-foreign-ministers-in-londo.md)
 _Context: Commonwealth of Nations, Fiji, London, coup in 2006_
 
 ### [ Alaska State Representative Tom Anderson (R) is taken into custody by the FBI in connection with the probe of alleged unethical association by Alaska Legislature with VECO Corporation.  ](/news/2006/12/8/alaska-state-representative-tom-anderson-r-is-taken-into-custody-by-the-fbi-in-connection-with-the-probe-of-alleged-unethical-association.md)

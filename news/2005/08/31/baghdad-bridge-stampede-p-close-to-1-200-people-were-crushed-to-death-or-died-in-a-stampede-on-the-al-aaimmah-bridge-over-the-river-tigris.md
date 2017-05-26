@@ -1,6 +1,6 @@
 ### [2005-08-31](/news/2005/08/31/index.md)
 
-#  Baghdad bridge stampede:  Close to 1,200 people were crushed to death or died in a stampede on the Al-Aaimmah bridge over the river Tigris in Baghdad on Wednesday when thousands of Shia Muslims began marching to a shrine to the Imam Musa al-Kazim. The stampede appears to have been caused by rumours of a series of suicide attacks. Earlier seven people in attendance died when insurgents fired mortars into the crowd. 
+#  Baghdad bridge stampede: Close to 1,200 people were crushed to death or died in a stampede on the Al-Aaimmah bridge over the river Tigris in Baghdad on Wednesday when thousands of Shia Muslims began marching to a shrine to the Imam Musa al-Kazim. The stampede appears to have been caused by rumours of a series of suicide attacks. Earlier seven people in attendance died when insurgents fired mortars into the crowd. 
 
 
 

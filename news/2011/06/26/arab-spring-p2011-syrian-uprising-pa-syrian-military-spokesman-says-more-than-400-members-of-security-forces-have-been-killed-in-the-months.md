@@ -1,6 +1,6 @@
 ### [2011-06-26](/news/2011/06/26/index.md)
 
-# Arab Spring:2011 Syrian uprising: A Syrian military spokesman says more than 400 members of security forces have been killed in the months-long unrest as videos surface allegedly showing children killed in the violence.  
+# Arab Spring:2011 Syrian uprising:A Syrian military spokesman says more than 400 members of security forces have been killed in the months-long unrest as videos surface allegedly showing children killed in the violence.  
 
 
 

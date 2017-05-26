@@ -3,7 +3,7 @@
 ### [ Somali Civil War: The Islamic Courts Union that controls much of southern Somalia has dispatched thousands of troops to within 15km of the border with Ethiopia. ](/news/2006/11/26/somali-civil-war-the-islamic-courts-union-that-controls-much-of-southern-somalia-has-dispatched-thousands-of-troops-to-within-15km-of-the.md)
 _Context: Ethiopia, Islamic Courts Union, Somalia, War in Somalia_
 
-### [ War in Chad (2005-present):  Chad's armed forces have retaken Abeche with no major fighting being reported. ](/news/2006/11/26/war-in-chad-2005apresent-p-chad-s-armed-forces-have-retaken-aba-c-cha-c-with-no-major-fighting-being-reported.md)
+### [ War in Chad (2005-present): Chad's armed forces have retaken Abeche with no major fighting being reported. ](/news/2006/11/26/war-in-chad-2005apresent-p-chad-s-armed-forces-have-retaken-aba-c-cha-c-with-no-major-fighting-being-reported.md)
 _Context: Abeche, Chad, War in Chad (2005-present)_
 
 ### [ Peter Hain, the Secretary of State for Northern Ireland criticizes "murky murders" associated with Vladimir Putin's regime in Russia following the poisoning of Alexander Litvinenko. ](/news/2006/11/26/peter-hain-the-secretary-of-state-for-northern-ireland-criticizes-murky-murders-associated-with-vladimir-putin-s-regime-in-russia-follow.md)
@@ -12,7 +12,7 @@ _Context: Alexander Litvinenko, Northern Ireland, Peter Hain, Russia, Secretary 
 ### [ Sunni and Shia Islamists score big victories in Bahrain's parliamentary elections as results are announced from yesterday's poll ](/news/2006/11/26/sunni-and-shia-islamists-score-big-victories-in-bahrain-s-parliamentary-elections-as-results-are-announced-from-yesterday-s-poll.md)
 _Context: Al Wefaq, Bahrain, Islamist, Sunni, parliamentary elections_
 
-### [ Israeli-Palestinian conflict:  A ceasefire commences between Israeli and Palestinian fighters in the Gaza Strip. It followed negotiations between the Palestinian President Mahmoud Abbas and Israeli Prime Minister Ehud Olmert. ](/news/2006/11/26/israeli-palestinian-conflict-p-a-ceasefire-commences-between-israeli-and-palestinian-fighters-in-the-gaza-strip-it-followed-negotiations.md)
+### [ Israeli-Palestinian conflict: A ceasefire commences between Israeli and Palestinian fighters in the Gaza Strip. It followed negotiations between the Palestinian President Mahmoud Abbas and Israeli Prime Minister Ehud Olmert. ](/news/2006/11/26/israeli-palestinian-conflict-p-a-ceasefire-commences-between-israeli-and-palestinian-fighters-in-the-gaza-strip-it-followed-negotiations-b.md)
 Rocket fire from Gaza subsided Sunday after a daybreak cease-fire, raising hopes for an end to five months of bloody destruction and a new opening toward peace talks.
 
 ### [ One NATO soldier and 57 insurgents are killed in fighting in southern Afghanistan. ](/news/2006/11/26/one-nato-soldier-and-57-insurgents-are-killed-in-fighting-in-southern-afghanistan.md)

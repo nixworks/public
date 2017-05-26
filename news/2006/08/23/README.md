@@ -1,6 +1,6 @@
 ## [2006-08-23](/news/2006/08/23/index.md)
 
-### [ 2006 Israel-Lebanon conflict:  Amnesty International accuses Israel of war crimes, saying it broke international law by deliberately destroying Lebanon's civilian infrastructure during its recent war with Hezbollah guerrillas. ](/news/2006/08/23/2006-israel-lebanon-conflict-p-amnesty-international-accuses-israel-of-war-crimes-saying-it-broke-international-law-by-deliberately-destr.md)
+### [ 2006 Israel-Lebanon conflict: Amnesty International accuses Israel of war crimes, saying it broke international law by deliberately destroying Lebanon's civilian infrastructure during its recent war with Hezbollah guerrillas. ](/news/2006/08/23/2006-israel-lebanon-conflict-p-amnesty-international-accuses-israel-of-war-crimes-saying-it-broke-international-law-by-deliberately-destro.md)
 _Context: Amnesty International, war, war crime_
 
 ### [ The United States says that Iran's proposal to the United Nations about its nuclear program "falls short of the conditions set by the Security Council." ](/news/2006/08/23/the-united-states-says-that-iran-s-proposal-to-the-united-nations-about-its-nuclear-program-falls-short-of-the-conditions-set-by-the-secur.md)

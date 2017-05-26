@@ -1,6 +1,6 @@
 ## [2012-01-23](/news/2012/01/23/index.md)
 
-### [2011-2012 Syrian uprising: At least 22 civilians are shot dead across Syria by security forces under the Syrian government. ](/news/2012/01/23/2011a2012-syrian-uprising-pat-least-22-civilians-are-shot-dead-across-syria-by-security-forces-under-the-syrian-government.md)
+### [2011-2012 Syrian uprising:At least 22 civilians are shot dead across Syria by security forces under the Syrian government. ](/news/2012/01/23/2011a2012-syrian-uprising-pat-least-22-civilians-are-shot-dead-across-syria-by-security-forces-under-the-syrian-government.md)
 _Context: 2011-2012 Syrian uprising, Syria_
 
 ### [A group of Gaddafi loyalists take control of part of the town of Bani Walid and fly the green flag after a battle with NTC forces left 5 dead and 20 injured. ](/news/2012/01/23/a-group-of-gaddafi-loyalists-take-control-of-part-of-the-town-of-bani-walid-and-fly-the-green-flag-after-a-battle-with-ntc-forces-left-5-dea.md)

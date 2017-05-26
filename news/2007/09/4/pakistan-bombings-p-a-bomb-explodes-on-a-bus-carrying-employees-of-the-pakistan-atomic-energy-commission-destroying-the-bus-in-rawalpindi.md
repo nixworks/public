@@ -1,6 +1,6 @@
 ### [2007-09-4](/news/2007/09/4/index.md)
 
-#  Pakistan bombings: A bomb explodes on a bus carrying employees of the Pakistan Atomic Energy Commission destroying the bus in Rawalpindi, Pakistan while a second bomb on a motorbike explodes in a bazaar. [http://www.reuters.com/article/worldNews/idUSISL3739620070904 (Reuters)] The death toll from the two bombings reaches at least 24 with 66 injured. [http://www.abc.net.au/news/stories/2007/09/04/2023991.htm (ABC News Australia and Reuters)]  Security is raised in many areas of Pakistan. 
+#  Pakistan bombings: A bomb explodes on a bus carrying employees of the Pakistan Atomic Energy Commission destroying the bus in Rawalpindi, Pakistan while a second bomb on a motorbike explodes in a bazaar. [http://www.reuters.com/article/worldNews/idUSISL3739620070904 (Reuters)] The death toll from the two bombings reaches at least 24 with 66 injured. [http://www.abc.net.au/news/stories/2007/09/04/2023991.htm (ABC News Australia and Reuters)] Security is raised in many areas of Pakistan. 
 
 
 

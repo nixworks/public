@@ -1,6 +1,6 @@
 ## [2011-01-14](/news/2011/01/14/index.md)
 
-### [2010-2011 Tunisian protests: Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. ](/news/2011/01/14/2010a2011-tunisian-protests-pthousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-al.md)
+### [2010-2011 Tunisian protests:Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. ](/news/2011/01/14/2010a2011-tunisian-protests-pthousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-ali.md)
 Thousands of demonstrators stage an unprecedented protest in the Tunisian capital, calling on President Zine al-Abidine Ben Ali to quit immediately.
 
 ### [Mexican Drug War:14 people are killed in a shootout after 100 soldiers, marines and police in Xalapa, Veracruz, surround a house. ](/news/2011/01/14/mexican-drug-war-p14-people-are-killed-in-a-shootout-after-100-soldiers-marines-and-police-in-xalapa-veracruz-surround-a-house.md)

@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [ 2008 Summer Olympics  Michael Phelps of the United States wins his sixth gold medal of the Beijing Olympics in the men's 200 metres individual medley setting a new world record. ](/news/2008/08/15/2008-summer-olympics-p-michael-phelps-of-the-united-states-wins-his-sixth-gold-medal-of-the-beijing-olympics-in-the-menas-200-metres-indi.md) _Context: Beijing Olympiad, gold medal_
+1. [  Michael Phelps of the United States wins his sixth gold medal of the Beijing Olympics in the men's 200 metres individual medley setting a new world record. ](/news/2008/08/15/michael-phelps-of-the-united-states-wins-his-sixth-gold-medal-of-the-beijing-olympics-in-the-menas-200-metres-individual-medley-setting.md) _Context: Beijing Olympiad, gold medal_
 2. [ Czech Prime Minister Bohuslav Sobotka has announced that he will submit his government's resignation because of a disagreement with Finance Minister Andrej Babis. ](/news/2017/05/2/czech-prime-minister-bohuslav-sobotka-has-announced-that-he-will-submit-his-government-s-resignation-because-of-a-disagreement-with-finance.md) _Context: Czech_
 3. [Czech police announce the arrest of a man at a Prague hotel two weeks ago who they claim is a Russian hacker suspected of targeting the U.S. ](/news/2016/10/19/czech-police-announce-the-arrest-of-a-man-at-a-prague-hotel-two-weeks-ago-who-they-claim-is-a-russian-hacker-suspected-of-targeting-the-u-s.md) _Context: Czech_
 4. [ Six people are hurt as an unknown assailant fires shots at a Czech tourist bus on the A7 autoroute near Saulce-sur-Rhone in southeastern France. ](/news/2016/06/5/six-people-are-hurt-as-an-unknown-assailant-fires-shots-at-a-czech-tourist-bus-on-the-a7-autoroute-near-saulce-sur-rha-ne-in-southeastern-f.md) _Context: Czech_

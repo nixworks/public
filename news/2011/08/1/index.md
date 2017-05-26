@@ -3,7 +3,7 @@
 ### [At least 11 people, including 5 suspects, are killed and 15 others are injured on Sunday's violence in China's Xinjiang region, raising the death toll to 20 over the weekend attacks in Kashgar. ](/news/2011/08/1/at-least-11-people-including-5-suspects-are-killed-and-15-others-are-injured-on-sunday-s-violence-in-china-s-xinjiang-region-raising-the.md)
 _Context: Kashgar, People's Republic of China, Xinjiang, recent unrest_
 
-### [2011 Syrian uprising: More than 142 people are killed across the country in a continuing crackdown on protests. ](/news/2011/08/1/2011-syrian-uprising-pmore-than-142-people-are-killed-across-the-country-in-a-continuing-crackdown-on-protests.md)
+### [2011 Syrian uprising:More than 142 people are killed across the country in a continuing crackdown on protests. ](/news/2011/08/1/2011-syrian-uprising-pmore-than-142-people-are-killed-across-the-country-in-a-continuing-crackdown-on-protests.md)
 More deaths reported in several cities, a day after activists said 142 were killed across the country.
 
 ### [The Lebanese Armed Forces exchanged fire with the Israeli Defense Forces patrolling the border, with one Lebanese soldier being injured. ](/news/2011/08/1/the-lebanese-armed-forces-exchanged-fire-with-the-israeli-defense-forces-patrolling-the-border-with-one-lebanese-soldier-being-injured.md)
@@ -25,7 +25,7 @@ _Context: Anna Bligh, Premier, floods, inquiry_
 Italian authorities found 25 dead bodies in a boat that was carrying refugees and was discovered off the coast of the southern island of Lampedusa, an Italian official news agency reported Monday.
 
 ### [Tropical Storm Emily forms in the Atlantic Ocean with tropical storm warnings issued for Puerto Rico, Guadeloupe, Desirade, Les Saintes, Marie Galante and the Dominican Republic. ](/news/2011/08/1/tropical-storm-emily-forms-in-the-atlantic-ocean-with-tropical-storm-warnings-issued-for-puerto-rico-guadeloupe-desirade-les-saintes-mar.md)
-_Context: Atlantic, Desirade, Dominican Republic, Guadeloupe, Hurricane Rina, Les Saintes, Marie Galante, Puerto Rico, tropical storm_
+_Context: Atlantic Ocean, Desirade, Dominican Republic, Guadeloupe, Hurricane Rina, Les Saintes, Marie Galante, Puerto Rico, tropical storm_
 
 ### [North Korea agrees to further talks with the United States as part of efforts to restore Six Party talks on its nuclear weapons program. ](/news/2011/08/1/north-korea-agrees-to-further-talks-with-the-united-states-as-part-of-efforts-to-restore-six-party-talks-on-its-nuclear-weapons-program.md)
 _Context: North Korea, North Korea and weapons of mass destruction, United States, six-party talks_

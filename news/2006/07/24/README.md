@@ -12,7 +12,7 @@ _Context: CFA Franc, Chadian President, Idriss Deby, Mahamat Abdoulaye, Mahamat 
 ### [ 2006 Israel-Lebanon conflict: Hezbollah leader Hassan Nasrallah announces in an interview with Al-Jazeera that he discussed the abduction of the two Israeli soldiers with Lebanese political leaders  before the attack occurred. ](/news/2006/07/24/2006-israel-lebanon-conflict-p-hezbollah-leader-hassan-nasrallah-announces-in-an-interview-with-al-jazeera-that-he-discussed-the-abduction.md)
 _Context: Al Jazeera, Hassan Nasrallah, Hezbollah, war_
 
-### [ Iraq War:  Saddam Hussein, 69, the deposed former Iraqi President, has been force-fed in a Baghdad hospital through a tube after 16 days of hunger strike. ](/news/2006/07/24/iraq-war-p-saddam-hussein-69-the-deposed-former-iraqi-president-has-been-force-fed-in-a-baghdad-hospital-through-a-tube-after-16-days-o.md)
+### [ Iraq War: Saddam Hussein, 69, the deposed former Iraqi President, has been force-fed in a Baghdad hospital through a tube after 16 days of hunger strike. ](/news/2006/07/24/iraq-war-p-saddam-hussein-69-the-deposed-former-iraqi-president-has-been-force-fed-in-a-baghdad-hospital-through-a-tube-after-16-days-of.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ## [Previous Day...](/news/2006/07/23/index.md)

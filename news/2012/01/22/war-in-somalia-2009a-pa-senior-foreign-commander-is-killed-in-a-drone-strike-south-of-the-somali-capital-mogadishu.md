@@ -1,6 +1,6 @@
 ### [2012-01-22](/news/2012/01/22/index.md)
 
-# War in Somalia (2009-): A senior foreign commander is killed in a drone strike south of the Somali capital Mogadishu. 
+# War in Somalia (2009-):A senior foreign commander is killed in a drone strike south of the Somali capital Mogadishu. 
 
 Bilal al-Barjawi, 27, who had been fighting alongside Shabab Islamic militants, was killed in an American drone strike a few miles south of the Somali capital.
 

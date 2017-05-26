@@ -1,6 +1,6 @@
 ## [2011-05-15](/news/2011/05/15/index.md)
 
-### [2011 Bahraini uprising: Saudi armored vehicles roll into the city of Sitra as fresh video footage of atrocities committed by Saudi-backed Bahraini forces surface. ](/news/2011/05/15/2011-bahraini-uprising-psaudi-armored-vehicles-roll-into-the-city-of-sitra-as-fresh-video-footage-of-atrocities-committed-by-saudi-backed-b.md)
+### [2011 Bahraini uprising:Saudi armored vehicles roll into the city of Sitra as fresh video footage of atrocities committed by Saudi-backed Bahraini forces surface. ](/news/2011/05/15/2011-bahraini-uprising-psaudi-armored-vehicles-roll-into-the-city-of-sitra-as-fresh-video-footage-of-atrocities-committed-by-saudi-backed-ba.md)
 _Context: 2011 Bahraini uprising, Bahrain, Saudi Arabia, Sitra_
 
 ### [2011 Egyptian revolution:Muslim mobs attack Christian protesters calling for the Egyptian government to take action to reduce religious tensions in Cairo; 65 people are injured. ](/news/2011/05/15/2011-egyptian-revolution-pmuslim-mobs-attack-christian-protesters-calling-for-the-egyptian-government-to-take-action-to-reduce-religious-ten.md)

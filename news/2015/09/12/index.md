@@ -1,6 +1,6 @@
 ## [2015-09-12](/news/2015/09/12/index.md)
 
-### [Yemeni Civil War (2015), Al-Qaeda insurgency in Yemen, Saudi Arabian-led intervention in Yemen A drone strike kills four suspected Al-Qaeda militants in northern Yemen. ](/news/2015/09/12/yemeni-civil-war-2015-al-qaeda-insurgency-in-yemen-saudi-arabian-led-intervention-in-yemen-pa-drone-strike-kills-four-suspected-al-qaeda.md)
+### [Yemeni Civil War (2015), A drone strike kills four suspected Al-Qaeda militants in northern Yemen. ](/news/2015/09/12/yemeni-civil-war-2015-a-drone-strike-kills-four-suspected-al-qaeda-militants-in-northern-yemen.md)
 At least 16 Yemeni civilians including ten people from a single family were killed in nationwide air strikes by a Saudi-led military coalition on Saturday, medics in three provinces said.
 
 ### [Chinese and Indian troops face-off in the Burtse region of northern Ladakh after Indian troops crossed the mutually-agreed patrolling line to dismantle a disputed watchtower the Chinese were building close to line. ](/news/2015/09/12/chinese-and-indian-troops-face-off-in-the-burtse-region-of-northern-ladakh-after-indian-troops-crossed-the-mutually-agreed-patrolling-line-t.md)

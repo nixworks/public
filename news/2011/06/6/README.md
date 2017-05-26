@@ -3,7 +3,7 @@
 ### [2011 Libyan civil war: Rebels retake the town of Yafran in the west of the country. ](/news/2011/06/6/2011-libyan-civil-war-rebels-retake-the-town-of-yafran-in-the-west-of-the-country.md)
 _Context: Libyan Civil War, Yafran_
 
-### [2011 Syrian uprising: At least 120 members of the Syrian security forces are killed in clashes in the northern town of Jisr al-Shughour, according to state media. ](/news/2011/06/6/2011-syrian-uprising-pat-least-120-members-of-the-syrian-security-forces-are-killed-in-clashes-in-the-northern-town-of-jisr-al-shughour-ac.md)
+### [2011 Syrian uprising:At least 120 members of the Syrian security forces are killed in clashes in the northern town of Jisr al-Shughour, according to state media. ](/news/2011/06/6/2011-syrian-uprising-pat-least-120-members-of-the-syrian-security-forces-are-killed-in-clashes-in-the-northern-town-of-jisr-al-shughour-acc.md)
 _Context: 2011 Syrian uprising, Jisr al-Shughour, Syria_
 
 ### [2011 Bahraini protests: Medical staff who treated anti-government demonstrators are charged with attempting to overthrow the monarchy. ](/news/2011/06/6/2011-bahraini-protests-medical-staff-who-treated-anti-government-demonstrators-are-charged-with-attempting-to-overthrow-the-monarchy.md)

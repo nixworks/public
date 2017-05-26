@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Yemeni Civil War (2015), Al-Qaeda insurgency in Yemen, Saudi Arabian-led intervention in Yemen A drone strike kills four suspected Al-Qaeda militants in northern Yemen. ](/news/2015/09/12/yemeni-civil-war-2015-al-qaeda-insurgency-in-yemen-saudi-arabian-led-intervention-in-yemen-pa-drone-strike-kills-four-suspected-al-qaeda.md) _Context: Al-Qaeda insurgency in Yemen, al-Qaeda_
+1. [Yemeni Civil War (2015), A drone strike kills four suspected Al-Qaeda militants in northern Yemen. ](/news/2015/09/12/yemeni-civil-war-2015-a-drone-strike-kills-four-suspected-al-qaeda-militants-in-northern-yemen.md) _Context: Al-Qaeda insurgency in Yemen, al-Qaeda_
 2. [Some 1,200 people escape from a Yemeni prison including al Qaeda members. ](/news/2015/06/30/some-1-200-people-escape-from-a-yemeni-prison-including-al-qaeda-members.md) _Context: Al-Qaeda insurgency in Yemen, al-Qaeda_
 3. [A joint operation by U.S. and Yemeni special operations forces on an al-Qaeda hideout in eastern Yemen rescues 8 hostages and leaves 7 militants dead. ](/news/2014/11/25/a-joint-operation-by-u-s-and-yemeni-special-operations-forces-on-an-al-qaeda-hideout-in-eastern-yemen-rescues-8-hostages-and-leaves-7-milit.md) _Context: Al-Qaeda insurgency in Yemen, al-Qaeda_
 4. [Clashes between al-Qaeda and security forces leave 20 soldiers and 3 militants dead in Hodeidah province of western Yemen. ](/news/2014/11/1/clashes-between-al-qaeda-and-security-forces-leave-20-soldiers-and-3-militants-dead-in-hodeidah-province-of-western-yemen.md) _Context: Al-Qaeda insurgency in Yemen, al-Qaeda_

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Syrian civil war: Rebel forces take over the strategic Taftanaz airbase in northern Syria. ](/news/2013/01/11/syrian-civil-war-prebel-forces-take-over-the-strategic-taftanaz-airbase-in-northern-syria.md) _Context: Syria, Syrian Civil War, Taftanaz_
+1. [Syrian civil war:Rebel forces take over the strategic Taftanaz airbase in northern Syria. ](/news/2013/01/11/syrian-civil-war-prebel-forces-take-over-the-strategic-taftanaz-airbase-in-northern-syria.md) _Context: Syria, Syrian Civil War, Taftanaz_
 2. [A memorandum is signed by Russia, Iran, and Turkey calling for de-escalation of the Syrian Civil War, although neither the Syrian government nor the Syrian opposition are signatories. ](/news/2017/05/4/a-memorandum-is-signed-by-russia-iran-and-turkey-calling-for-de-escalation-of-the-syrian-civil-war-although-neither-the-syrian-government.md) _Context: Syria, Syrian Civil War_
 3. [According to the Syrian Observatory for Human Rights, at least 38 people are killed, including civilians and Syrian Democratic Forces fighters, after ISIL militants attack a camp for displaced Syrian and Iraqi refugees near Al-Shaddadah, Al-Hasakah Governorate. ](/news/2017/05/2/according-to-the-syrian-observatory-for-human-rights-at-least-38-people-are-killed-including-civilians-and-syrian-democratic-forces-fighte.md) _Context: Syria, Syrian Civil War_
 4. [United States aircraft bomb a convoy belonging to the Syrian pro-government militia within a so-called "deconfliction zone" around Al-Tanf. ](/news/2017/05/18/united-states-aircraft-bomb-a-convoy-belonging-to-the-syrian-pro-government-militia-within-a-so-called-deconfliction-zone-around-al-tanf.md) _Context: Syria, Syrian Civil War_

@@ -57,7 +57,7 @@ AU-PRINCE (Reuters) - Haitians have chosen banana exporter Jovenel Moise as thei
 ### [Park Geun-hye says she is willing to resign and offers to begin the process of removing herself from power. ](/news/2016/11/29/park-geun-hye-says-she-is-willing-to-resign-and-offers-to-begin-the-process-of-removing-herself-from-power.md)
 _Context: 2016 South Korean political scandal, Park Geun-hye_
 
-### [Presidential transition of Donald Trump 	President-elect Donald Trump names Tom Price as United States Secretary of Health and Human Services; former President George W. Bush Administration official and wife of Mitch McConnell Elaine Chao as United States Secretary of Transportation;  ](/news/2016/11/29/presidential-transition-of-donald-trump-ppresident-elect-donald-trump-names-tom-price-as-united-states-secretary-of-health-and-human-servic.md)
+### [President-elect Donald Trump names Tom Price as United States Secretary of Health and Human Services; former President George W. Bush Administration official and wife of Mitch McConnell Elaine Chao as United States Secretary of Transportation;  ](/news/2016/11/29/president-elect-donald-trump-names-tom-price-as-united-states-secretary-of-health-and-human-services-former-president-george-w-bush-admini.md)
 Former Goldman Sachs executive Steve Mnuchin confirms he will be the new US treasury secretary.
 
 ### [Protesters in Brazil hold a violent demonstration against a proposed public spending cap in the capital Brasilia. Police used tear gas and rubber bullets in order to disperse the demonstrators. ](/news/2016/11/29/protesters-in-brazil-hold-a-violent-demonstration-against-a-proposed-public-spending-cap-in-the-capital-brasilia-police-used-tear-gas-and-r.md)

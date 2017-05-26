@@ -1,6 +1,6 @@
 ### [2015-02-16](/news/2015/02/16/index.md)
 
-# Voters in Saint Kitts and Nevis go to the polls for a national election with the governing Labour Party, led by Prime Minister Denzil Douglas. seeking a fifth term. The opposition Team Unity, an alliance of three opposition parties led by former foreign minister Timothy Harris, wins the election, with Douglas conceding defeat on February 17th. 
+# Voters in Saint Kitts and Nevis go to the polls for a national election with the governing Labour Party, led by Prime Minister Denzil Douglas. seeking a fifth term.The opposition Team Unity, an alliance of three opposition parties led by former foreign minister Timothy Harris, wins the election, with Douglas conceding defeat on February 17th. 
 
 An alliance of three opposition parties won parliamentary elections in St. Kitts and Nevis, denying its prime minister a fifth consecutive term in power, o
 

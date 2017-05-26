@@ -6,7 +6,7 @@ _Context: Homs, LCC, Syria, Syrian Army, Syrian Civil War_
 ### [2012 Central African Republic rebellion:Rebels in the Central African Republic have made fresh gains and are now in control of a key central city. ](/news/2012/12/29/2012-central-african-republic-rebellion-prebels-in-the-central-african-republic-have-made-fresh-gains-and-are-now-in-control-of-a-key-centra.md)
 Rebels in the Central African Republic have made fresh gains and are now in control of a key central city, officials say.
 
-### [War in North-West Pakistan: Fighters of the Pakistani Taliban kill 21 kidnapped security personnel near Peshawar. ](/news/2012/12/29/war-in-north-west-pakistan-pfighters-of-the-pakistani-taliban-kill-21-kidnapped-security-personnel-near-peshawar.md)
+### [War in North-West Pakistan:Fighters of the Pakistani Taliban kill 21 kidnapped security personnel near Peshawar. ](/news/2012/12/29/war-in-north-west-pakistan-pfighters-of-the-pakistani-taliban-kill-21-kidnapped-security-personnel-near-peshawar.md)
 Militants in north-west Pakistan have killed at least 20 of the paramilitaries they seized from checkpoints near Peshawar, officials say.
 
 ### [A Tupolev Tu-204 airliner with eight people on board crashes in a ditch between the airport fence and the M3 highway after overshooting a runway at Vnukovo International Airport in Moscow, Russia, killing five people and leaving three others critically injured. ](/news/2012/12/29/a-tupolev-tu-204-airliner-with-eight-people-on-board-crashes-in-a-ditch-between-the-airport-fence-and-the-m3-highway-after-overshooting-a-ru.md)

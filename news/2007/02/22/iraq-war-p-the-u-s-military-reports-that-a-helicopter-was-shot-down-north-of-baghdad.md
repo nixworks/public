@@ -1,6 +1,6 @@
 ### [2007-02-22](/news/2007/02/22/index.md)
 
-#  Iraq War:  The U.S. military reports that a helicopter was shot down north of Baghdad. 
+#  Iraq War: The U.S. military reports that a helicopter was shot down north of Baghdad. 
 
 Harry, 22, is a junior officer in the upper-crust Blues and Royals regiment of the Household Cavalry.
 

@@ -1,7 +1,7 @@
 ## [2009-06-2](/news/2009/06/2/index.md)
 
 ### [ Brazilian Defense Minister Nelson Jobim confirms that debris discovered in the Atlantic Ocean, near Fernando de Noronha, is the wreckage of Air France Flight 447. ](/news/2009/06/2/brazilian-defense-minister-nelson-jobim-confirms-that-debris-discovered-in-the-atlantic-ocean-near-fernando-de-noronha-is-the-wreckage-of.md)
-_Context: Air France, Atlantic, Brazil, Fernando de Noronha, Minister of Defence, Nelson Jobim, crash of Air France Flight 447, debris_
+_Context: Air France, Atlantic Ocean, Brazil, Fernando de Noronha, Minister of Defence, Nelson Jobim, crash of Air France Flight 447, debris_
 
 ### [ General Motors sells its Hummer brand to the Sichuan Tengzhong Heavy Industrial Machinery Company. ](/news/2009/06/2/general-motors-sells-its-hummer-brand-to-the-sichuan-tengzhong-heavy-industrial-machinery-company.md)
 A machinery company with ambitions to become a carmaker is the buyer, at an undisclosed price.

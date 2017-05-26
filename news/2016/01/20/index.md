@@ -16,7 +16,7 @@ _Context: Kyrgyzstan_
 _Context: 2015-16 protests in Moldova, Moldova, Parliament_
 
 ### [NASA and the National Oceanic and Atmospheric Administration announce that 2015 was the hottest year on record since the beginning of meteorological records in 1890. ](/news/2016/01/20/nasa-and-the-national-oceanic-and-atmospheric-administration-announce-that-2015-was-the-hottest-year-on-record-since-the-beginning-of-meteor.md)
-_Context: NASA, National Oceanic and Atmospheric Administration_
+_Context: NASA, U.S.  National Oceanic and Atmospheric Administration_
 
 ### [A team of astronomers at Caltech infer the existence of a potential new planet (Planet Nine) in the outer Solar System ](/news/2016/01/20/a-team-of-astronomers-at-caltech-infer-the-existence-of-a-potential-new-planet-planet-nine-in-the-outer-solar-system.md)
 The massive planet could take over 10,000 years to orbit the sun.

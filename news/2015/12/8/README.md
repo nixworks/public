@@ -6,7 +6,7 @@ San Bernardino shooters Syed Farook and Tashfeen Malik first met in person and b
 ### [Iraqi officials say the country's forces have managed to retake large parts of the key city of Ramadi from Islamic State of Iraq and the Levant militants. ](/news/2015/12/8/iraqi-officials-say-the-country-s-forces-have-managed-to-retake-large-parts-of-the-key-city-of-ramadi-from-islamic-state-of-iraq-and-the-lev.md)
 Iraqi forces retake large parts of the key city of Ramadi from Daesh militants.
 
-### [Military intervention against ISIL U.S. television network NBC has calculated that ISIS  and its sympathizers  killed 525 people in six attacks in six countries outside its alleged caliphate since October 10, 2015. ](/news/2015/12/8/military-intervention-against-isil-pu-s-television-network-nbc-has-calculated-that-isis-and-its-sympathizers-killed-525-people-in-six-att.md)
+### [U.S. television network NBC has calculated that ISIS  and its sympathizers  killed 525 people in six attacks in six countries outside its alleged caliphate since October 10, 2015. ](/news/2015/12/8/u-s-television-network-nbc-has-calculated-that-isis-and-its-sympathizers-killed-525-people-in-six-attacks-in-six-countries-outside-its-al.md)
 ISIS and its sympathizers have killed more than 500 people in attacks around the world in the past two months.
 
 ### [Several Taliban insurgents storm into Kandahar International Airport and engage Afghan security forces in a firefight. ](/news/2015/12/8/several-taliban-insurgents-storm-into-kandahar-international-airport-and-engage-afghan-security-forces-in-a-firefight.md)

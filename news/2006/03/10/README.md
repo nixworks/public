@@ -25,7 +25,7 @@ _Context: Dera Bugti, Pakistan, Twenty-six people are killed, landmine, planted 
 _Context: LaGuardia Airport, New York City_
 
 ### [ Gale Norton has announced her resignation as United States Secretary of the Interior, effective March 31, 2006. ](/news/2006/03/10/gale-norton-has-announced-her-resignation-as-united-states-secretary-of-the-interior-effective-march-31-2006.md)
-_Context: Gale Norton, United States Secretary of the Interior_
+_Context: Gale Norton, Secretary of the Interior_
 
 ## [Previous Day...](/news/2006/03/9/index.md)
 

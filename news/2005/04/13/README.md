@@ -9,7 +9,7 @@ _Context: Lebanon, Omar Karami, Prime Minister, form of government_
 ### [ The European Parliament votes to allow Bulgaria and Romania to join the European Union in 2007. ](/news/2005/04/13/the-european-parliament-votes-to-allow-bulgaria-and-romania-to-join-the-european-union-in-2007.md)
 _Context: 2007, Bulgaria, European Parliament, European Union, Romania_
 
-### [ Conflict in Iraq:  At least nine Iraqi police have been killed by insurgents in Kirkuk.  The police were defusing a decoy bomb, when another nearby bomb detonated and killed them. ](/news/2005/04/13/conflict-in-iraq-p-at-least-nine-iraqi-police-have-been-killed-by-insurgents-in-kirkuk-the-police-were-defusing-a-decoy-bomb-when-anoth.md)
+### [ Conflict in Iraq: At least nine Iraqi police have been killed by insurgents in Kirkuk.  The police were defusing a decoy bomb, when another nearby bomb detonated and killed them. ](/news/2005/04/13/conflict-in-iraq-p-at-least-nine-iraqi-police-have-been-killed-by-insurgents-in-kirkuk-the-police-were-defusing-a-decoy-bomb-when-anothe.md)
 _Context: Conflict in Iraq, Iraq, Iraqi insurgency, Kirkuk, decoy, police_
 
 ### [ Japan increases the already boiling tension with China as Japan's Ministry of Economy, Trade and Industry begins allowing Japanese companies rights to drill for oil in a part of the East China Sea claimed by both nations. ](/news/2005/04/13/japan-increases-the-already-boiling-tension-with-china-as-japan-s-ministry-of-economy-trade-and-industry-begins-allowing-japanese-companie.md)
@@ -34,7 +34,7 @@ _Context: Adolphus Wabara, Fabion Osuji, Nigeria_
 _Context: Armin Meiwes, German, eat, murder_
 
 ### [ A group of Indigenous Australians threaten to disrupt the Commonwealth Games next year unless prime minister John Howard and others are charged with genocide. ](/news/2005/04/13/a-group-of-indigenous-australians-threaten-to-disrupt-the-commonwealth-games-next-year-unless-prime-minister-john-howard-and-others-are-cha.md)
-_Context: Commonwealth, Indigenous Australian, John Howard, genocide_
+_Context: Commonwealth, Indigenous Australians, John Howard, genocide_
 
 ### [ Burundi's last rebel group, Hutu Forces for National Liberation, states that they are ready to negotiate with the government. ](/news/2005/04/13/burundi-s-last-rebel-group-hutu-forces-for-national-liberation-states-that-they-are-ready-to-negotiate-with-the-government.md)
 _Context: Burundi, Hutu Forces for National Liberation_

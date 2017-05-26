@@ -34,7 +34,7 @@ _Context: Libya, Muammar Gaddafi, Saif al-Islam Gaddafi, Supreme Court, central 
 _Context: Belize, Chetumal, Hurricane Dean, Mexico, Yucatn Peninsula_
 
 ### [ The governments of Angola and the Democratic Republic of the Congo are negotiating over a line demarcating each nation's respective rights to petroleum in the Atlantic Ocean. The DRC is expected to gain exploration rights to billions of untapped barrels worth of oil. ](/news/2007/08/21/the-governments-of-angola-and-the-democratic-republic-of-the-congo-are-negotiating-over-a-line-demarcating-each-nation-s-respective-rights.md)
-_Context: Angola, Atlantic, Democratic Republic of the Congo_
+_Context: Angola, Atlantic Ocean, Democratic Republic of the Congo_
 
 ### [ Dr Mohamed Haneef wins his bid in the Federal Court to have his Australian work visa reinstated after Immigration Minister Kevin Andrews canceled it after Dr Haneef was charged with "providing material support to a terrorist organization." [http://www.abc.net.au/news/stories/2007/08/21/2010804.htm (ABC News Australia)] Andrews later says the Australian government would appeal against the court ruling. ](/news/2007/08/21/dr-mohamed-haneef-wins-his-bid-in-the-federal-court-to-have-his-australian-work-visa-reinstated-after-immigration-minister-kevin-andrews-ca.md)
 _Context: Australia, Federal Court of Australia, Kevin Andrews, Mohamed Haneef, terrorist, visa-free travel_

@@ -1,6 +1,6 @@
 ## [2010-04-30](/news/2010/04/30/index.md)
 
-### [Expo 2010: Hailed as the largest World's Fair in history, Expo 2010 opens in Shanghai, China. ](/news/2010/04/30/expo-2010-phailed-as-the-largest-world-s-fair-in-history-expo-2010-opens-in-shanghai-china.md)
+### [Expo 2010:Hailed as the largest World's Fair in history, Expo 2010 opens in Shanghai, China. ](/news/2010/04/30/expo-2010-phailed-as-the-largest-world-s-fair-in-history-expo-2010-opens-in-shanghai-china.md)
 (Adds PM&#039;s, PN&#039;s and PL&#039;s get well wishes) President George Abela accidentally sustained an injury before leaving his hotel in China this morning and is recovering in hospital. The Department of Information said the President was admitted to Ruijin Hospital where he was diagnosed as suffering...
 
 ### [At least eight villagers die following a landslide in Kenya, with others hospitalised or missing and homes destroyed. ](/news/2010/04/30/at-least-eight-villagers-die-following-a-landslide-in-kenya-with-others-hospitalised-or-missing-and-homes-destroyed.md)

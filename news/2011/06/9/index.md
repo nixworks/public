@@ -1,6 +1,6 @@
 ## [2011-06-9](/news/2011/06/9/index.md)
 
-### [2011 Syrian uprising: The United Nations Security Council considers a resolution condemning the crackdown on Syrian protesters by security forces. ](/news/2011/06/9/2011-syrian-uprising-pthe-united-nations-security-council-considers-a-resolution-condemning-the-crackdown-on-syrian-protesters-by-security.md)
+### [2011 Syrian uprising:The United Nations Security Council considers a resolution condemning the crackdown on Syrian protesters by security forces. ](/news/2011/06/9/2011-syrian-uprising-pthe-united-nations-security-council-considers-a-resolution-condemning-the-crackdown-on-syrian-protesters-by-security-f.md)
 Video emerges appearing to show body of Syrian boy killed in crackdown, as Russia rejects Security Council resolution.
 
 ### [The Government of Somalia claims to have killed a Canadian member of the al-Shabab terrorist organization. ](/news/2011/06/9/the-government-of-somalia-claims-to-have-killed-a-canadian-member-of-the-al-shabab-terrorist-organization.md)

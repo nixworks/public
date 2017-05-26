@@ -1,6 +1,6 @@
 ## [2012-04-11](/news/2012/04/11/index.md)
 
-### [2012 South Sudan-Sudan border conflict: Sudan says that after a battle South Sudan controls Heglig, its largest oil field. ](/news/2012/04/11/2012-south-sudanasudan-border-conflict-psudan-says-that-after-a-battle-south-sudan-controls-heglig-its-largest-oil-field.md)
+### [2012 South Sudan-Sudan border conflict:Sudan says that after a battle South Sudan controls Heglig, its largest oil field. ](/news/2012/04/11/2012-south-sudanasudan-border-conflict-psudan-says-that-after-a-battle-south-sudan-controls-heglig-its-largest-oil-field.md)
 _Context: 2012 South Sudan-Sudan border conflict, South Sudan, Sudan_
 
 ### [A bomb on a bus kills at least two people in the Philippines town of Carmen in Cotabato Province. ](/news/2012/04/11/a-bomb-on-a-bus-kills-at-least-two-people-in-the-philippines-town-of-carmen-in-cotabato-province.md)
@@ -34,7 +34,7 @@ North Korea fueled up a rocket Wednesday in preparation for what appeared to be 
 _Context: Ahmed Ben Bella, Algeria, President_
 
 ### [Lucas Papademos resigns as the Prime Minister of Greece, calling an election for May 6. ](/news/2012/04/11/lucas-papademos-resigns-as-the-prime-minister-of-greece-calling-an-election-for-may-6.md)
-_Context: Greek prime minister, Lucas Papademos, first election on May 6_
+_Context: Greek Prime Minister, Lucas Papademos, first election on May 6_
 
 ## [Previous Day...](/news/2012/04/10/index.md)
 

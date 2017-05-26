@@ -21,7 +21,7 @@ _Context: OPEC, Russia_
 ### [The Financial Industry Regulatory Authority announces it has fined Bank of America Merrill Lynch $7 million for failure to supervise the use of leverage in its brokerage accounts, especially in connection with Puerto Rico municipal bonds. ](/news/2016/11/30/the-financial-industry-regulatory-authority-announces-it-has-fined-bank-of-america-merrill-lynch-7-million-for-failure-to-supervise-the-use.md)
 The Financial Industry Regulatory Authority said on Wednesday it fined Bank of America (BAC.N) Merrill Lynch $7 million for inadequate supervision of client brokerage accounts that used leverage to buy Puerto Rican municipal bonds and other securities.
 
-### [2016 Southeastern United States wildfires  At least three deaths and several injuries caused by wildfires in Tennessee are reported near Dolly Parton's Dollywood resort. ](/news/2016/11/30/2016-southeastern-united-states-wildfires-pat-least-three-deaths-and-several-injuries-caused-by-wildfires-in-tennessee-are-reported-near-do.md)
+### [At least three deaths and several injuries caused by wildfires in Tennessee are reported near Dolly Parton's Dollywood resort. ](/news/2016/11/30/at-least-three-deaths-and-several-injuries-caused-by-wildfires-in-tennessee-are-reported-near-dolly-parton-s-dollywood-resort.md)
 Dolly Parton is &quot;heartbroken&quot; over wildfires that have claimed three lives in her Tennessee resort hometown.
 
 ### [Three people are dead after a tornado hits in Jackson County in the U.S. state of Alabama. Four other people are injured in neighboring De Kalb County. ](/news/2016/11/30/three-people-are-dead-after-a-tornado-hits-in-jackson-county-in-the-u-s-state-of-alabama-four-other-people-are-injured-in-neighboring-de-k.md)

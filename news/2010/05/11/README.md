@@ -4,7 +4,7 @@
 _Context: Conservative Party, David Cameron, Gordon Brown, Labour Party, Prime Minster, Queen Elizabeth II, kisses the hands_
 
 ### [The son of Corazon Aquino, Benigno Aquino III, appears set to win the presidency in the Philippine elections, which have been marred by deadly violence and malfunctioning voting machines.  ](/news/2010/05/11/the-son-of-corazon-aquino-benigno-aquino-iii-appears-set-to-win-the-presidency-in-the-philippine-elections-which-have-been-marred-by-dead.md)
-_Context: Corazon Aquino, Noynoy Aquino, Philippine general election, 2010, president_
+_Context: Corazon Aquino, Noynoy Aquino, Philippine general election, 2010, President_
 
 ### [The Egyptian parliament votes to extend the country's almost three decade state of emergency for a further two years, drawing criticism from foreign governments, opposition groups, dissidents and human-rights organizations concerned with the effect that extensive police powers and the suspension of constitutional rights has on human rights in Egypt.](/news/2010/05/11/the-egyptian-parliament-votes-to-extend-the-country-s-almost-three-decade-state-of-emergency-for-a-further-two-years-drawing-criticism-from.md)
 Egyptian opposition groups bash decision to extend 29-year-old emergency law for another two years.

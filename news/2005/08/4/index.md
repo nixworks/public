@@ -3,7 +3,7 @@
 ### [ Ayman al-Zawahri, a leader of Al-Qaeda, has issued a televised statement blaming Tony Blair and his government's foreign policy for the July 2005 London bombings. ](/news/2005/08/4/ayman-al-zawahri-a-leader-of-al-qaeda-has-issued-a-televised-statement-blaming-tony-blair-and-his-government-s-foreign-policy-for-the-jul.md)
 _Context: Ayman al-Zawahri, Foreign Policy, July 2005 London bombings, Tony Blair, al-Qaeda_
 
-### [ Israeli-Palestinian Conflict:  The Ministry of Housing in Israel has issued tenders for the construction of a further 72 houses in an Israeli settlement of Betar Illit, near Bethlehem, on the West Bank. ](/news/2005/08/4/israeli-palestinian-conflict-p-the-ministry-of-housing-in-israel-has-issued-tenders-for-the-construction-of-a-further-72-houses-in-an-isra.md)
+### [ Israeli-Palestinian Conflict: The Ministry of Housing in Israel has issued tenders for the construction of a further 72 houses in an Israeli settlement of Betar Illit, near Bethlehem, on the West Bank. ](/news/2005/08/4/israeli-palestinian-conflict-p-the-ministry-of-housing-in-israel-has-issued-tenders-for-the-construction-of-a-further-72-houses-in-an-israe.md)
 _Context: Betar Illit, Bethlehem, Israel, Israeli settlement, Israeli-Palestinian conflict, West Bank_
 
 ### [ In the UK, the Bank of England's Monetary Policy Committee has cut its interest rate by a quarter percent to 4.5% ](/news/2005/08/4/in-the-uk-the-bank-of-england-s-monetary-policy-committee-has-cut-its-interest-rate-by-a-quarter-percent-to-4-5.md)

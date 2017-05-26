@@ -1,6 +1,6 @@
 ### [2006-11-7](/news/2006/11/7/index.md)
 
-#  Trial of Saddam Hussein:  The trial of Saddam Hussein for alleged genocide of Kurds during the Anfal campaign resumes today. 
+#  Trial of Saddam Hussein: The trial of Saddam Hussein for alleged genocide of Kurds during the Anfal campaign resumes today. 
 
 
 

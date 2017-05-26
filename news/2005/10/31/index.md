@@ -13,7 +13,7 @@ _Context: George W. Bush, President, Samuel Alito, Third Circuit Court of Appeal
 _Context: Chief Cabinet Secretary, Heizo Takenaka, Interior Minister, Japan, Japanese Foreign Minister, Junichiro Koizumi, Liberal Democratic Party, Prime Minister, Shinzo Abe, Taro Aso_
 
 ### [ Conflict in Iraq: A Pentagon report suggests that since 2004 about 26,000 Iraqi people have been either killed or injured in attacks by insurgents. ](/news/2005/10/31/conflict-in-iraq-p-a-pentagon-report-suggests-that-since-2004-about-26-000-iraqi-people-have-been-either-killed-or-injured-in-attacks-by-in.md)
-_Context: 2004, Conflict in Iraq, Iraq, The Pentagon_
+_Context: 2004, Conflict in Iraq, Iraq, United States military_
 
 ### [ Israeli-Palestinian Conflict: 3 Palestinian militants die following an Israeli attack in the West Bank city of Jenin. ](/news/2005/10/31/israeli-palestinian-conflict-3-palestinian-militants-die-following-an-israeli-attack-in-the-west-bank-city-of-jenin.md)
 _Context: Israel, Israeli-Palestinian conflict, Jenin, Palestinian, West Bank_

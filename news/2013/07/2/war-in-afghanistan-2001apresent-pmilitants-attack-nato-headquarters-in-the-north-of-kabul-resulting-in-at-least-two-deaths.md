@@ -1,6 +1,6 @@
 ### [2013-07-2](/news/2013/07/2/index.md)
 
-# War in Afghanistan (2001-present): Militants attack NATO headquarters in the north of Kabul resulting in at least two deaths. 
+# War in Afghanistan (2001-present):Militants attack NATO headquarters in the north of Kabul resulting in at least two deaths. 
 
 Taliban insurgents including a suicide bomber in a truck killed six people in an attack on a foreign logistics and supply company in Kabul on Tuesday, police said, the latest in a string of daring assaults in the Afghan capital.
 

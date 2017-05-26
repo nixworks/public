@@ -4,7 +4,7 @@
 _Context: 2007 Lebanon conflict, Fatah al-Islam, Lebanese Army, Nahr el-Bared_
 
 ### [ Subtropical Storm Gabrielle forms southeast of the Carolina coast in the Atlantic Ocean. ](/news/2007/09/7/subtropical-storm-gabrielle-forms-southeast-of-the-carolina-coast-in-the-atlantic-ocean.md)
-_Context: Atlantic, Carolina, Subtropical Storm Gabrielle_
+_Context: Atlantic Ocean, Carolina, Subtropical Storm Gabrielle_
 
 ### [ Two owners of a New Orleans nursing home are found not guilty of negligent homicide concerning the death of 35 residents after Hurricane Katrina. ](/news/2007/09/7/two-owners-of-a-new-orleans-nursing-home-are-found-not-guilty-of-negligent-homicide-concerning-the-death-of-35-residents-after-hurricane-ka.md)
 The trial over the drowning of 35 residents was the only prosecution to result from deaths in Hurricane Katrina.
@@ -54,7 +54,7 @@ _Context: BBC, Institute for Animal Health, Pirbright, biosecurity, foot-and-mou
 ### [ Voters in Morocco go to the polls for the Moroccan parliamentary election, 2007. ](/news/2007/09/7/voters-in-morocco-go-to-the-polls-for-the-moroccan-parliamentary-election-2007.md)
 _Context: Moroccan, parliamentary elections_
 
-### [ APEC:  The President of Russia Vladimir Putin signs a uranium deal with the Prime Minister of Australia John Howard before meeting with the President of the United States George W. Bush. ](/news/2007/09/7/apec-p-the-president-of-russia-vladimir-putin-signs-a-uranium-deal-with-the-prime-minister-of-australia-john-howard-before-meeting-with-th.md)
+### [ APEC: The President of Russia Vladimir Putin signs a uranium deal with the Prime Minister of Australia John Howard before meeting with the President of the United States George W. Bush. ](/news/2007/09/7/apec-p-the-president-of-russia-vladimir-putin-signs-a-uranium-deal-with-the-prime-minister-of-australia-john-howard-before-meeting-with-the.md)
 Russian President Vladimir Putinis set to sign a nuclear energy deal with Australia and holdtough talks with U.S. President George W. Bush after arrivingfor the APEC meetings on Friday.
 
 ### [ 2007 Pacific typhoon season: Typhoon Fitow passes over Tokyo with one casualty occurring in Nagano Prefecture last night. ](/news/2007/09/7/2007-pacific-typhoon-season-typhoon-fitow-passes-over-tokyo-with-one-casualty-occurring-in-nagano-prefecture-last-night.md)

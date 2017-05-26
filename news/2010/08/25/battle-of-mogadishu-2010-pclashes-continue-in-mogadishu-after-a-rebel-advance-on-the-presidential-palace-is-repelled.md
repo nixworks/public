@@ -1,6 +1,6 @@
 ### [2010-08-25](/news/2010/08/25/index.md)
 
-# Battle of Mogadishu (2010): Clashes continue in Mogadishu after a rebel advance on the presidential palace is repelled. 
+# Battle of Mogadishu (2010):Clashes continue in Mogadishu after a rebel advance on the presidential palace is repelled. 
 
 
 

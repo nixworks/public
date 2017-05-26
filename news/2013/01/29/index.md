@@ -3,7 +3,7 @@
 ### [War in Somalia (2009-present):A suicide attack against the Somali government offices kills at least two people and injures dozens in Mogadishu. ](/news/2013/01/29/war-in-somalia-2009apresent-pa-suicide-attack-against-the-somali-government-offices-kills-at-least-two-people-and-injures-dozens-in-moga.md)
 _Context: Mogadishu, Somali government, War in Somalia (2009-present)_
 
-### [Northern Mali conflict (2012-present): The UK announces it will deploy 330 military personnel to Mali and other West African countries in support of French forces operating in the area. ](/news/2013/01/29/northern-mali-conflict-2012apresent-pthe-uk-announces-it-will-deploy-330-military-personnel-to-mali-and-other-west-african-countries-in.md)
+### [Northern Mali conflict (2012-present):The UK announces it will deploy 330 military personnel to Mali and other West African countries in support of French forces operating in the area. ](/news/2013/01/29/northern-mali-conflict-2012apresent-pthe-uk-announces-it-will-deploy-330-military-personnel-to-mali-and-other-west-african-countries-in.md)
 The UK is to deploy about 330 military personnel to Mali and West Africa to support French forces there, Downing Street says.
 
 ### [Syrian civil war:At least 65 corpses are discovered in the Queiq River near Aleppo. All of them appear to have been executed with gunshots. ](/news/2013/01/29/syrian-civil-war-pat-least-65-corpses-are-discovered-in-the-queiq-river-near-aleppo-all-of-them-appear-to-have-been-executed-with-gunshots.md)

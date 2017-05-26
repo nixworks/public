@@ -1,6 +1,6 @@
 ### [2007-10-8](/news/2007/10/8/index.md)
 
-#  Pakistan: A helicopter escorting the helicopter of President Pervez Musharraf crashes in Pakistan-administered Kashmir, killing four security officials and injuring his spokesman.date=December 2007  Forty five Pakistani soldiers and 130 pro-Taliban militants have died in two days of fierce fighting in North Waziristan, the Pakistani army says. 
+#  Pakistan: A helicopter escorting the helicopter of President Pervez Musharraf crashes in Pakistan-administered Kashmir, killing four security officials and injuring his spokesman.date=December 2007 Forty five Pakistani soldiers and 130 pro-Taliban militants have died in two days of fierce fighting in North Waziristan, the Pakistani army says. 
 
 
 

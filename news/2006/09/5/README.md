@@ -15,7 +15,7 @@ Lebanese troops moved on Tuesday into a town wrecked by Israel&#8217;s war with 
 ### [ In Lebanon, a roadside bomb seriously wounds Lt. Col. Samir Shehade, a Lebanese police officer and kills four of his aides. Shehade was involved in the August 2005 arrest of four pro-Syrian Lebanese generals, on suspicion of involvement in the February 2005 assassination of former Lebanese PM Rafik Hariri. ](/news/2006/09/5/in-lebanon-a-roadside-bomb-seriously-wounds-lt-col-samir-shehade-a-lebanese-police-officer-and-kills-four-of-his-aides-shehade-was-inv.md)
 _Context: February 2005 assassination, Lebanon, Lt. Col., Rafik Hariri, Samir Shehade, Syria_
 
-### [ Waziristan War:  Pakistan has signed a truce with pro-Taliban militants on the Afghanistan border agreeing to withdraw most Pakistani troops in exchange for the militants' promise not to support cross-border violence. ](/news/2006/09/5/waziristan-war-p-pakistan-has-signed-a-truce-with-pro-taliban-militants-on-the-afghanistan-border-agreeing-to-withdraw-most-pakistani-troo.md)
+### [ Waziristan War: Pakistan has signed a truce with pro-Taliban militants on the Afghanistan border agreeing to withdraw most Pakistani troops in exchange for the militants' promise not to support cross-border violence. ](/news/2006/09/5/waziristan-war-p-pakistan-has-signed-a-truce-with-pro-taliban-militants-on-the-afghanistan-border-agreeing-to-withdraw-most-pakistani-troop.md)
 _Context: Afghanistan, Pakistan, Taliban, Waziristan War_
 
 ### [ Fidel Castro claims that he is recovering well despite losing 18 kg (41 lb) as a result of intestinal surgery. ](/news/2006/09/5/fidel-castro-claims-that-he-is-recovering-well-despite-losing-18-kg-41-lb-as-a-result-of-intestinal-surgery.md)

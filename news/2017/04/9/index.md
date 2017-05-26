@@ -21,7 +21,7 @@ Video of police officers dragging a passenger from an overcrowded United Airline
 ### [Voters in the breakaway state of South Ossetia go to the polls for an election and a referendum. The referendum will ask voters if the country's official name should be changed to "Republic of South Ossetia-the State of Alania". ](/news/2017/04/9/voters-in-the-breakaway-state-of-south-ossetia-go-to-the-polls-for-an-election-and-a-referendum-the-referendum-will-ask-voters-if-the-count.md)
 _Context: Name change referendum, 2017, South Ossetia, South Ossetian presidential election_
 
-### [Finnish municipal elections, 2017 Voters go to the polls for municipal elections in Finland. ](/news/2017/04/9/finnish-municipal-elections-2017-pvoters-go-to-the-polls-for-municipal-elections-in-finland.md)
+### [Voters go to the polls for municipal elections in Finland. ](/news/2017/04/9/voters-go-to-the-polls-for-municipal-elections-in-finland.md)
 Finland&amp;#039;s municipal elections are underway, as today Sunday, April 9 is Election Day. Over 26 percent of people who are eligible to vote already cast their votes in advance voting, and experts predict total voting percentages may exceed 60 percent. The elections were moved from the autumn to the spring in order to encourage more people to go to the polls.
 
 ## [Previous Day...](/news/2017/04/8/index.md)

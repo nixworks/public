@@ -10,9 +10,9 @@ _Context: Alexei Kudrin, Anatoly Chubais, Dmitry Medvedev, Russia, Russia Presid
 In lowering its benchmark rate by a half-point to 3 percent, the Fed said that it was worried mainly about an economic slowdown, not rising inflation. 
 
 ### [ The Government of Australia announces that it will apologize to the "stolen generation" of indigenous Australians in the Parliament of Australia on February 13. ](/news/2008/01/30/the-government-of-australia-announces-that-it-will-apologize-to-the-stolen-generation-of-indigenous-australians-in-the-parliament-of-aust.md)
-_Context: Australia, February 13, Indigenous Australian, Parliament, stolen generation_
+_Context: Australia, February 13, Indigenous Australians, Parliament, stolen generation_
 
-### [ United States presidential election, 2008:  Former North Carolina Senator John Edwards withdraws his candidacy. ](/news/2008/01/30/united-states-presidential-election-2008-p-former-north-carolina-senator-john-edwards-withdraws-his-candidacy.md)
+### [ United States presidential election, 2008: Former North Carolina Senator John Edwards withdraws his candidacy. ](/news/2008/01/30/united-states-presidential-election-2008-p-former-north-carolina-senator-john-edwards-withdraws-his-candidacy.md)
 Rudolph W. Giuliani endorsed Senator John McCain for the Republican nomination. Also Mr. McCain’s aides said he would be endorsed by Gov. Arnold Schwarzenegger.
 
 ### [ As snowstorms continue to worsen in China, Premier Wen Jiabao offers an apology to the public while visiting Changsha train station in Hunan as millions are stranded in train stations waiting to go home during Chinese New Year. ](/news/2008/01/30/as-snowstorms-continue-to-worsen-in-china-premier-wen-jiabao-offers-an-apology-to-the-public-while-visiting-changsha-train-station-in-huna.md)

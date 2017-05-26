@@ -1,6 +1,6 @@
 ### [2011-02-28](/news/2011/02/28/index.md)
 
-# Arab Spring:Libya: Al Jazeera reports that many African migrant workers in Libya have been victims of violence due to suspicions that they are mercenaries for Muammar Gaddafi's regime. 
+# Arab Spring:Libya:Al Jazeera reports that many African migrant workers in Libya have been victims of violence due to suspicions that they are mercenaries for Muammar Gaddafi's regime. 
 
 Rights groups fear dozens killed in violent backlash against supposed Gaddafi-hired mercenaries from sub-Saharan Africa.
 

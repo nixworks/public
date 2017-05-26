@@ -1,6 +1,6 @@
 ### [2007-09-13](/news/2007/09/13/index.md)
 
-#  Iraq War:  A key US ally, Sheikh Sittar, is killed by a bomb. 
+#  Iraq War: A key US ally, Sheikh Sittar, is killed by a bomb. 
 
 
 

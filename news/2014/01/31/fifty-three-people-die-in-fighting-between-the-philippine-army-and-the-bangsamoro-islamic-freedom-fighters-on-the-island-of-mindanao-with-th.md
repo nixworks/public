@@ -11,7 +11,7 @@ MANILA, Jan 31 - Three child soldiers recruited by hardline Muslim rebels were a
 
 ### Related:
 
-1. [2017 Marawi clash Philippine president Rodrigo Duterte declares martial law on the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/2017-marawi-clash-pphilippine-president-rodrigo-duterte-declares-martial-law-on-the-island-of-mindanao-after-maute-militants-clash-with-army.md) _Context: Mindanao, army_
+1. [President Rodrigo Duterte declares martial law in the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/president-rodrigo-duterte-declares-martial-law-in-the-island-of-mindanao-after-maute-militants-clash-with-army-troops-in-marawi-lanao-del-s.md) _Context: Mindanao, army_
 2. [Fugitive Abdul Basit Usman dies in a clash in Mindanao. ](/news/2015/05/3/fugitive-abdul-basit-usman-dies-in-a-clash-in-mindanao.md) _Context: Mindanao, Moro insurgency in the Philippines_
 3. [Moro insurgency in the Philippines:Philippines President Benigno Aquino III submits a bill to the Congress of the Philippines that will give autonomy to Filipino Muslims in Bangsamoro and bring peace to Mindanao.](/news/2014/09/10/moro-insurgency-in-the-philippines-pphilippines-president-benigno-aquino-iii-submits-a-bill-to-the-congress-of-the-philippines-that-will-giv.md) _Context: Mindanao, Moro insurgency in the Philippines_
 4. [Moro insurgency in the Philippines:12 people are injured by a bomb attack in Mindanao. ](/news/2014/02/1/moro-insurgency-in-the-philippines-p12-people-are-injured-by-a-bomb-attack-in-mindanao.md) _Context: Mindanao, Moro insurgency in the Philippines_

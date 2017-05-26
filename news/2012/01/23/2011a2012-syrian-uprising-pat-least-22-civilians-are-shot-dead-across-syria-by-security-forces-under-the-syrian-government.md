@@ -1,6 +1,6 @@
 ### [2012-01-23](/news/2012/01/23/index.md)
 
-# 2011-2012 Syrian uprising: At least 22 civilians are shot dead across Syria by security forces under the Syrian government. 
+# 2011-2012 Syrian uprising:At least 22 civilians are shot dead across Syria by security forces under the Syrian government. 
 
 
 

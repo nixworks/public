@@ -21,7 +21,7 @@ _Context: Ehud Olmert, Israel, Palestinian, Prime Minister of Israel, U.S._
 ### [ Iraq War: 18 February 2007 Baghdad bombings: At least 56 people are killed and more than 120 injured in two car bombs in a Shia district of Baghdad, police sources have said. ](/news/2007/02/18/iraq-war-p-18-february-2007-baghdad-bombings-at-least-56-people-are-killed-and-more-than-120-injured-in-two-car-bombs-in-a-shia-district-o.md)
 _Context: 18 February 2007 Baghdad bombings, Baghdad, Iraq War, Shia, car bomb_
 
-### [ War in Afghanistan (2001-present):  Eight U.S. troops are killed and 14 wounded in a helicopter crash in south-eastern Afghanistan, the U.S.-led coalition has said. ](/news/2007/02/18/war-in-afghanistan-2001apresent-p-eight-u-s-troops-are-killed-and-14-wounded-in-a-helicopter-crash-in-south-eastern-afghanistan-the.md)
+### [ War in Afghanistan (2001-present): Eight U.S. troops are killed and 14 wounded in a helicopter crash in south-eastern Afghanistan, the U.S.-led coalition has said. ](/news/2007/02/18/war-in-afghanistan-2001apresent-p-eight-u-s-troops-are-killed-and-14-wounded-in-a-helicopter-crash-in-south-eastern-afghanistan-the-u.md)
 _Context: Afghanistan, War in Afghanistan (2001-present), helicopter crash, military_
 
 ### [ Police in Pakistan detain 36 people, mainly Afghan refugees, over a suicide bombing inside a Quetta courtroom that killed a judge and 15 other people. ](/news/2007/02/18/police-in-pakistan-detain-36-people-mainly-afghan-refugees-over-a-suicide-bombing-inside-a-quetta-courtroom-that-killed-a-judge-and-15-ot.md)

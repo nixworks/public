@@ -11,7 +11,7 @@ An aid worker in Chad with the UK charity Oxfam has been kidnapped, the interior
 
 ### Related:
 
-1. [ War in Chad (2005-present):  Chad's armed forces have retaken Abeche with no major fighting being reported. ](/news/2006/11/26/war-in-chad-2005apresent-p-chad-s-armed-forces-have-retaken-aba-c-cha-c-with-no-major-fighting-being-reported.md) _Context: Abeche, Chad_
+1. [ War in Chad (2005-present): Chad's armed forces have retaken Abeche with no major fighting being reported. ](/news/2006/11/26/war-in-chad-2005apresent-p-chad-s-armed-forces-have-retaken-aba-c-cha-c-with-no-major-fighting-being-reported.md) _Context: Abeche, Chad_
 2. [ War in Chad (2005-present): Rebel fighters are reported to have entered the key eastern Chadian city of Abeche, following clashes with government troops. ](/news/2006/11/25/war-in-chad-2005apresent-rebel-fighters-are-reported-to-have-entered-the-key-eastern-chadian-city-of-aba-c-cha-c-following-clashes-with.md) _Context: Abeche, Chad_
 3. [The Extraordinary African Chambers tribunal in Dakar, Senegal, upholds its conviction of former Chadian president Hissene Habre for crimes against humanity, but acquits him of rape. ](/news/2017/04/27/the-extraordinary-african-chambers-tribunal-in-dakar-senegal-upholds-its-conviction-of-former-chadian-president-hissa-ne-habra-c-for-crimes.md) _Context: Chad_
 4. [Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. ](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.md) _Context: Chad_

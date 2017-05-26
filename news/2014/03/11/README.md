@@ -25,7 +25,7 @@ Total indicates that $14.02 million worth of recreational pot was sold.
 _Context: JoS. A. Bank Clothiers, Men's Wearhouse_
 
 ### [Territorial disputes in the South China Sea:Two Philippine ships are expelled by the Chinese Coast Guard from Ayungin Shoal in the Spratly group of islands. ](/news/2014/03/11/territorial-disputes-in-the-south-china-sea-ptwo-philippine-ships-are-expelled-by-the-chinese-coast-guard-from-ayungin-shoal-in-the-spratly.md)
-_Context: Chinese Coast Guard, Spratly Islands, war_
+_Context: Chinese Coast Guard, Spratly Islands, Territorial disputes in the South China Sea_
 
 ### [The search of one of Congress's stand-alone computers is referred to the Justice Department for investigation. ](/news/2014/03/11/the-search-of-one-of-congress-s-stand-alone-computers-is-referred-to-the-justice-department-for-investigation.md)
 At issue is whether the CIA violated an agreement made with the committee about monitoring the panel&#39;s use of CIA computers.

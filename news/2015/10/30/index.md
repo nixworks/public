@@ -31,7 +31,7 @@ A rare intense tropical cyclone is forecast to dump two years of rain on one of 
 A building undergoing demolition in New York partially collapsed on Friday, killing one construction worker and temporarily trapping another in the rubble, authorities said.
 
 ### [Greek prime minister Alexis Tsipras lashes out at European "ineptness" in handling the continent's massive immigration crisis. The Associated Press reports 31 more people -- mostly children -- drowned in shipwrecks in the Mediterranean Sea near the islands of Kalymnos and Rhodes. Turkey's state-run agency says four children drowned and two others are missing after two new accidents with boats headed to Greece's Lesbos and Samos islands. The death toll in the Aegean Sea over the past three days is at least 50. The Greek coast guard says they rescued 600 people in the past 24 hours, while thousands more made it safely from Turkey to Greece's southeastern islands. ](/news/2015/10/30/greek-prime-minister-alexis-tsipras-lashes-out-at-european-ineptness-in-handling-the-continent-s-massive-immigration-crisis-the-associate.md)
-_Context: Aegean Sea, Alexis Tsipras, Associated Press, Europe, European migrant crisis, Greek prime minister, Kalymnos, Lesbos, Mediterranean Sea, Rhodes, Samos, Turkey_
+_Context: Aegean Sea, Alexis Tsipras, Associated Press, Europe, European migrant crisis, Greek Prime Minister, Kalymnos, Lesbos, Mediterranean Sea, Rhodes, Samos, Turkey_
 
 ### [Storms hit the American state of Texas causing at least two deaths with one person reported missing. Rivers overflowed as more than a foot of rain fell in some areas while tornadoes ripped through buildings outside San Antonio. ](/news/2015/10/30/storms-hit-the-american-state-of-texas-causing-at-least-two-deaths-with-one-person-reported-missing-rivers-overflowed-as-more-than-a-foot-o.md)
 School buses were trapped in near San Antonio and a tornado may have touched down in D&#x27;Hanis, destroying a bank and damaging other buildings.
@@ -46,7 +46,7 @@ A Virginia school bus overturned Friday after a traffic collision, injuring 28 s
 British resident Shaker Aamer, who spent 13 years in Guantanamo Bay, arrives back in the UK and thanks supporters for his release.
 
 ### [The European Union sides with the United States over Tuesday's U.S.-Chinese patrolling incident in the South China Sea. ](/news/2015/10/30/the-european-union-sides-with-the-united-states-over-tuesday-s-u-s-chinese-patrolling-incident-in-the-south-china-sea.md)
-_Context: European Union, People's Republic of China, South China Sea, United States, war_
+_Context: European Union, People's Republic of China, South China Sea, Territorial disputes in the South China Sea, United States_
 
 ### [Representatives from about 20 countries meet in Vienna, Austria, seeking a political solution to Syria's four-year civil war that has killed more than 250,000 people, including dozens more today. For the first time Iran is at the table, where diplomats seek peace through a ceasefire plan followed by a transitional government. ](/news/2015/10/30/representatives-from-about-20-countries-meet-in-vienna-austria-seeking-a-political-solution-to-syria-s-four-year-civil-war-that-has-killed.md)
 Dozens killed as diplomats seek political solution to end four-year civil war.

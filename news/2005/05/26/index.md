@@ -34,7 +34,7 @@ _Context: Brazil, Flash flooding, Sao Paulo_
 Get the latest breaking news and top news headlines at Reuters.com
 
 ### [ Australia observes the National Sorry Day as a way to remember the Stolen Generation of Indigenous Australians. ](/news/2005/05/26/australia-observes-the-national-sorry-day-as-a-way-to-remember-the-stolen-generation-of-indigenous-australians.md)
-_Context: Australia, Indigenous Australian, National Sorry Day, Stolen Generation_
+_Context: Australia, Indigenous Australians, National Sorry Day, Stolen Generation_
 
 ### [ India and Pakistan begin talks to resolve a military stand-off on the Siachen glacier. ](/news/2005/05/26/india-and-pakistan-begin-talks-to-resolve-a-military-stand-off-on-the-siachen-glacier.md)
 Get the latest breaking news and top news headlines at Reuters.com

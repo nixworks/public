@@ -7,7 +7,7 @@ _Context: Miami_
 _Context: Earth, Google, Moon, US$, gigabyte, space transport_
 
 ### [ 2007 Atlantic hurricane season: Tropical Storm Ingrid forms in the Atlantic Ocean 800 miles from the outer Caribbean islands. ](/news/2007/09/13/2007-atlantic-hurricane-season-tropical-storm-ingrid-forms-in-the-atlantic-ocean-800-miles-from-the-outer-caribbean-islands.md)
-_Context: 2007 Atlantic hurricane season, Atlantic, Caribbean_
+_Context: 2007 Atlantic hurricane season, Atlantic Ocean, Caribbean_
 
 ### [ Ethiopia will deploy 5,000 troops as part of a joint United Nations - African Union mission in the Darfur region of Sudan. ](/news/2007/09/13/ethiopia-will-deploy-5-000-troops-as-part-of-a-joint-united-nations-african-union-mission-in-the-darfur-region-of-sudan.md)
 _Context: African Union, Darfur, Ethiopia, Sudan, United Nations_
@@ -30,10 +30,10 @@ _Context: ABC News, Alan Greenspan, Alexis Debat, Barack Obama, Rue 89, The Nati
 ### [ Rita Verdonk, a controversial and popular Dutch politician, is expelled from the VVD. ](/news/2007/09/13/rita-verdonk-a-controversial-and-popular-dutch-politician-is-expelled-from-the-vvd.md)
 _Context: Netherlands, People's Party for Freedom and Democracy, Rita Verdonk_
 
-### [ Iraq War:  A key US ally, Sheikh Sittar, is killed by a bomb. ](/news/2007/09/13/iraq-war-p-a-key-us-ally-sheikh-sittar-is-killed-by-a-bomb.md)
+### [ Iraq War: A key US ally, Sheikh Sittar, is killed by a bomb. ](/news/2007/09/13/iraq-war-p-a-key-us-ally-sheikh-sittar-is-killed-by-a-bomb.md)
 _Context: Iraq War, Sheikh Sittar_
 
-### [ 2007 Atlantic hurricane season:  Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. ](/news/2007/09/13/2007-atlantic-hurricane-season-p-hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.md)
+### [ 2007 Atlantic hurricane season: Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. ](/news/2007/09/13/2007-atlantic-hurricane-season-p-hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.md)
 _Context: 2007 Atlantic hurricane season, Hurricane Humberto, Louisiana, Texas_
 
 ### [ Shinzo Abe is hospitalised the day after his resignation. ](/news/2007/09/13/shinzo-abe-is-hospitalised-the-day-after-his-resignation.md)

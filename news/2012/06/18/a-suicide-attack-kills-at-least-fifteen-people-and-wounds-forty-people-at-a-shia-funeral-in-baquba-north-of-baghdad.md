@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Conflict in Iraq:  More than 20 people die when a car bomb detonates in Howaider, a Shia village near Baquba, 60 miles north of Baghdad. ](/news/2005/10/29/conflict-in-iraq-p-more-than-20-people-die-when-a-car-bomb-detonates-in-howaider-a-shia-village-near-baquba-60-miles-north-of-baghdad.md) _Context: Baghdad, Baquba, Shia_
+1. [ Conflict in Iraq: More than 20 people die when a car bomb detonates in Howaider, a Shia village near Baquba, 60 miles north of Baghdad. ](/news/2005/10/29/conflict-in-iraq-p-more-than-20-people-die-when-a-car-bomb-detonates-in-howaider-a-shia-village-near-baquba-60-miles-north-of-baghdad.md) _Context: Baghdad, Baquba, Shia_
 2. [ISIL bombings kill 21 and wound more than 100 others in Shia neighborhoods of Baghdad. ](/news/2015/08/15/isil-bombings-kill-21-and-wound-more-than-100-others-in-shia-neighborhoods-of-baghdad.md) _Context: Baghdad, Shia_
 3. [Iraqi insurgency (post-U.S. withdrawal):Bombings in Baghdad and Shia provinces kill at least 21 people. ](/news/2013/09/15/iraqi-insurgency-post-u-s-withdrawal-pbombings-in-baghdad-and-shia-provinces-kill-at-least-21-people.md) _Context: Baghdad, Shia_
 4. [A suicide bomber attacks a Shia pilgrimage in Baghdad, Iraq killing at least 41 and wounding 174. ](/news/2010/07/7/a-suicide-bomber-attacks-a-shia-pilgrimage-in-baghdad-iraq-killing-at-least-41-and-wounding-174.md) _Context: Baghdad, Shia_

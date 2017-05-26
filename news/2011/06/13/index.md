@@ -9,7 +9,7 @@ Trial of 48 medical workers accused of attempting to topple the monarchy opens a
 ### [Tunisian revolution: It is announced that the trial of Zine El Abidine Ben Ali, ousted from power during the popular revolution, is to begin on 20 June. ](/news/2011/06/13/tunisian-revolution-it-is-announced-that-the-trial-of-zine-el-abidine-ben-ali-ousted-from-power-during-the-popular-revolution-is-to-begin.md)
 _Context: Jasmine Revolution of 2011, Zine El Abidine Ben Ali_
 
-### [2011 Syrian uprising: The Syrian regime claims to have retaken Jisr al-Shughour, while residents who fled speak of fighting, divisions and defections among government troops as police and workers arm themselves to defend the town against the army. ](/news/2011/06/13/2011-syrian-uprising-pthe-syrian-regime-claims-to-have-retaken-jisr-al-shughour-while-residents-who-fled-speak-of-fighting-divisions-and.md)
+### [2011 Syrian uprising:The Syrian regime claims to have retaken Jisr al-Shughour, while residents who fled speak of fighting, divisions and defections among government troops as police and workers arm themselves to defend the town against the army. ](/news/2011/06/13/2011-syrian-uprising-pthe-syrian-regime-claims-to-have-retaken-jisr-al-shughour-while-residents-who-fled-speak-of-fighting-divisions-and-d.md)
 _Context: 2011 Syrian uprising, Jisr al-Shughour_
 
 ### [Egyptian officials report the arrest of the 27-year-old Israeli-American Ilan Grapel on suspicion of espionage for Israel. Israeli officials have rejected the Egyptian accusations.](/news/2011/06/13/egyptian-officials-report-the-arrest-of-the-27-year-old-israeli-american-ilan-grapel-on-suspicion-of-espionage-for-israel-israeli-officials.md)

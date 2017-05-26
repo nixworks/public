@@ -1,6 +1,6 @@
 ### [2008-01-30](/news/2008/01/30/index.md)
 
-#  United States presidential election, 2008:  Former North Carolina Senator John Edwards withdraws his candidacy. 
+#  United States presidential election, 2008: Former North Carolina Senator John Edwards withdraws his candidacy. 
 
 Rudolph W. Giuliani endorsed Senator John McCain for the Republican nomination. Also Mr. McCain’s aides said he would be endorsed by Gov. Arnold Schwarzenegger.
 
@@ -22,4 +22,4 @@ Rudolph W. Giuliani endorsed Senator John McCain for the Republican nomination. 
 7. [ United States presidential election, 2008: John Edwards, a former contender to be the Democratic Party nominee, endorses the bid of Barack Obama. ](/news/2008/05/14/united-states-presidential-election-2008-john-edwards-a-former-contender-to-be-the-democratic-party-nominee-endorses-the-bid-of-barack.md) _Context: 2008, John Edwards_
 8. [ United States presidential election, 2008: Illinois Senator Barack Obama takes the lead in support from superdelegates to the Democratic National Convention ](/news/2008/05/10/united-states-presidential-election-2008-illinois-senator-barack-obama-takes-the-lead-in-support-from-superdelegates-to-the-democratic-na.md) _Context: 2008, United States Senate_
 9. [ United States presidential election, 2008: Illinois  Senator Barack Obama  wins the Wyoming Democratic caucus. ](/news/2008/03/8/united-states-presidential-election-2008-illinois-senator-barack-obama-wins-the-wyoming-democratic-caucus.md) _Context: 2008, United States Senate_
-10. [ United States presidential election, Super Tuesday II:  Arizona Senator John McCain wins the Vermont, Texas, Rhode Island, and Ohio Republican primaries, giving him enough delegates to be able to win the Republican Party nomination. ](/news/2008/03/4/united-states-presidential-election-super-tuesday-ii-p-arizona-senator-john-mccain-wins-the-vermont-texas-rhode-island-and-ohio-republ.md) _Context: 2008, United States Senate_
+10. [ United States presidential election, 2008: Illinois Senator Barack Obama wins the Mississippi Democratic primary. ](/news/2008/03/11/united-states-presidential-election-2008-illinois-senator-barack-obama-wins-the-mississippi-democratic-primary.md) _Context: 2008, United States Senate_

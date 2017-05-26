@@ -1,6 +1,6 @@
 ### [2011-02-13](/news/2011/02/13/index.md)
 
-# 53rd Grammy Awards: Dave Haywood, Josh Kear, Charles Kelley and Hillary Scott wins the Grammy Award for Song of the Year for the song "Need You Now" performed by Lady Antebellum. 
+# 53rd Grammy Awards:Dave Haywood, Josh Kear, Charles Kelley and Hillary Scott wins the Grammy Award for Song of the Year for the song "Need You Now" performed by Lady Antebellum. 
 
 
 

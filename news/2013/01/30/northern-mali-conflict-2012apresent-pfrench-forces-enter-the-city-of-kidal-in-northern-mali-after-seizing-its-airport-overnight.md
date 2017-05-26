@@ -1,6 +1,6 @@
 ### [2013-01-30](/news/2013/01/30/index.md)
 
-# Northern Mali conflict (2012-present): French forces enter the city of Kidal in northern Mali after seizing its airport overnight. 
+# Northern Mali conflict (2012-present):French forces enter the city of Kidal in northern Mali after seizing its airport overnight. 
 
 French forces say they have entered Kidal in northern Mali, the last major town they have yet to secure in their drive against Islamist militants.
 

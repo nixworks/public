@@ -1,6 +1,6 @@
 ## [2013-11-7](/news/2013/11/7/index.md)
 
-### [War in North-West Pakistan: The Pakistani Taliban names Maulana Fazlullah as its new leader six days after Hakimullah Mehsud was killed in a drone attack in North Waziristan. ](/news/2013/11/7/war-in-north-west-pakistan-pthe-pakistani-taliban-names-maulana-fazlullah-as-its-new-leader-six-days-after-hakimullah-mehsud-was-killed-in.md)
+### [War in North-West Pakistan:The Pakistani Taliban names Maulana Fazlullah as its new leader six days after Hakimullah Mehsud was killed in a drone attack in North Waziristan. ](/news/2013/11/7/war-in-north-west-pakistan-pthe-pakistani-taliban-names-maulana-fazlullah-as-its-new-leader-six-days-after-hakimullah-mehsud-was-killed-in-a.md)
 _Context: Hakimullah Mehsud, Maulana Fazlullah, North Waziristan, Tehrik-i-Taliban Pakistan, War in North-West Pakistan, drones launch_
 
 ### [M23 rebellion:M23 rebel chief Sultani Makenga, along with hundreds of rebels, surrenders to authorities in Mgahinga Gorilla National Park, Uganda. ](/news/2013/11/7/m23-rebellion-pm23-rebel-chief-sultani-makenga-along-with-hundreds-of-rebels-surrenders-to-authorities-in-mgahinga-gorilla-national-park.md)

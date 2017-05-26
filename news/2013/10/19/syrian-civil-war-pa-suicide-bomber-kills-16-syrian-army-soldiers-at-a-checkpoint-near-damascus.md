@@ -1,6 +1,6 @@
 ### [2013-10-19](/news/2013/10/19/index.md)
 
-# Syrian Civil War: A suicide bomber kills 16 Syrian Army soldiers at a checkpoint near Damascus. 
+# Syrian Civil War:A suicide bomber kills 16 Syrian Army soldiers at a checkpoint near Damascus. 
 
 
 
@@ -18,6 +18,6 @@
 5. [Syrian civil war:The Syrian Army launches a large missile on the southern Damascus neighborhood of Yarmouk, largely inhabited by Palestinian refugees. ](/news/2013/08/7/syrian-civil-war-pthe-syrian-army-launches-a-large-missile-on-the-southern-damascus-neighborhood-of-yarmouk-largely-inhabited-by-palestinia.md) _Context: Damascus, Syrian Army, Syrian Civil War_
 6. [Syrian civil war:Locals and activists in Damascus report that the Syrian Army killed over 500 people in the suburb of Jdeit al-Fadel. ](/news/2013/04/21/syrian-civil-war-plocals-and-activists-in-damascus-report-that-the-syrian-army-killed-over-500-people-in-the-suburb-of-jdeit-al-fadel.md) _Context: Damascus, Syrian Army, Syrian Civil War_
 7. [Syrian civil war:Syrian Army forces kill 30 army deserters in an ambush on the Damascus Airport road. ](/news/2013/03/12/syrian-civil-war-psyrian-army-forces-kill-30-army-deserters-in-an-ambush-on-the-damascus-airport-road.md) _Context: Damascus, Syrian Army, Syrian Civil War_
-8. [Syrian civil war: The Syrian Army clashes with rebels close to Damascus. ](/news/2012/12/4/syrian-civil-war-pthe-syrian-army-clashes-with-rebels-close-to-damascus.md) _Context: Damascus, Syrian Army, Syrian Civil War_
+8. [Syrian civil war:The Syrian Army clashes with rebels close to Damascus. ](/news/2012/12/4/syrian-civil-war-pthe-syrian-army-clashes-with-rebels-close-to-damascus.md) _Context: Damascus, Syrian Army, Syrian Civil War_
 9. [Syrian civil war:The Syrian Army reportedly fires rockets and artillery barrages at the rebel-held Damascus suburb of Al-Tall. ](/news/2012/07/25/syrian-civil-war-pthe-syrian-army-reportedly-fires-rockets-and-artillery-barrages-at-the-rebel-held-damascus-suburb-of-al-tall.md) _Context: Damascus, Syrian Army, Syrian Civil War_
 10. [The Syrian Army captures at least 23 villages in North East Aleppo Governorate from ISIL in a matter of hours after an ISIL withdrawal caused by the SAA capturing Al-Khafsah. ](/news/2017/03/7/the-syrian-army-captures-at-least-23-villages-in-north-east-aleppo-governorate-from-isil-in-a-matter-of-hours-after-an-isil-withdrawal-cause.md) _Context: Syrian Army, Syrian Civil War_

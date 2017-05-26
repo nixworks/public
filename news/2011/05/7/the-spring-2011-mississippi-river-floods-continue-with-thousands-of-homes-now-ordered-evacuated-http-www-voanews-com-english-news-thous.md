@@ -1,6 +1,6 @@
 ### [2011-05-7](/news/2011/05/7/index.md)
 
-# The Spring 2011 Mississippi River Floods continue, with thousands of homes now ordered evacuated. [http://www.voanews.com/english/news/Thousands-Evacuating-Mississippi-River-Flooding-in-US-121438494.html ''(Voice of America)''] The 1927 Mississippi flooding record expected to be broken. [http://slatest.slate.com/posts/2011/05/07/mississippi_river_flooding_eminent_residents_brace_for_worst.html ''(Slate)'']The floods have disrupted major food and energy distribution in affected states. [http://www.bloomberg.com/news/2011-05-07/mississippi-river-swells-close-to-record-in-tennessee-prompts-evacuations.html ''(Bloomberg)''].
+# The Spring 2011 Mississippi River Floods continue, with thousands of homes now ordered evacuated. [http://www.voanews.com/english/news/Thousands-Evacuating-Mississippi-River-Flooding-in-US-121438494.html ''(Voice of America)'']The 1927 Mississippi flooding record expected to be broken. [http://slatest.slate.com/posts/2011/05/07/mississippi_river_flooding_eminent_residents_brace_for_worst.html ''(Slate)'']The floods have disrupted major food and energy distribution in affected states. [http://www.bloomberg.com/news/2011-05-07/mississippi-river-swells-close-to-record-in-tennessee-prompts-evacuations.html ''(Bloomberg)''].
 
 
 

@@ -30,7 +30,7 @@ _Context: Ludwig Scotty, Nauruan parliamentary election, 2007, Rene Harris_
 ### [  Seven more unexploded bombs are found in Hyderabad, Andhra Pradesh, India a day after the bombings. ](/news/2007/08/26/seven-more-unexploded-bombs-are-found-in-hyderabad-andhra-pradesh-india-a-day-after-the-bombings.md)
 _Context: Hyderabad, Andhra Pradesh, India, bomb, bomb blasts_
 
-### [ 2007 Greek fires:  European Union countries send firefighters and equipment to help fight hundreds of fires.](/news/2007/08/26/2007-greek-fires-p-european-union-countries-send-firefighters-and-equipment-to-help-fight-hundreds-of-fires.md)
+### [ 2007 Greek fires: European Union countries send firefighters and equipment to help fight hundreds of fires.](/news/2007/08/26/2007-greek-fires-p-european-union-countries-send-firefighters-and-equipment-to-help-fight-hundreds-of-fires.md)
 Several European Union countries are sending firefighters and equipment to Greece to help fight hundreds of forest fires that have killed at least 49 people.
 
 ## [Previous Day...](/news/2007/08/25/index.md)

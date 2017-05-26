@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ United States presidential election, 2008:  Former North Carolina Senator John Edwards withdraws his candidacy. ](/news/2008/01/30/united-states-presidential-election-2008-p-former-north-carolina-senator-john-edwards-withdraws-his-candidacy.md) _Context: John Edwards, North Carolina, United States Senate_
+1. [ United States presidential election, 2008: Former North Carolina Senator John Edwards withdraws his candidacy. ](/news/2008/01/30/united-states-presidential-election-2008-p-former-north-carolina-senator-john-edwards-withdraws-his-candidacy.md) _Context: John Edwards, North Carolina, United States Senate_
 2. [John Edwards, former United States presidential candidate and Senator representing North Carolina, is indicted on charges of conspiracy and violating campaign finance laws in connection to his affair with Rielle Hunter; Edwards denies he broke any laws. ](/news/2011/06/3/john-edwards-former-united-states-presidential-candidate-and-senator-representing-north-carolina-is-indicted-on-charges-of-conspiracy-and.md) _Context: John Edwards, North Carolina_
 3. [ Former U.S. Senator and Democratic ex-presidential candidate John Edwards admits to an affair with Rielle Hunter after having earlier denied it. ](/news/2008/08/8/former-u-s-senator-and-democratic-ex-presidential-candidate-john-edwards-admits-to-an-affair-with-rielle-hunter-after-having-earlier-denie.md) _Context: John Edwards, an affair_
 4. [The United States Senate confirms Heather Wilson as Secretary of the Air Force. ](/news/2017/05/8/the-united-states-senate-confirms-heather-wilson-as-secretary-of-the-air-force.md) _Context: United States Senate_

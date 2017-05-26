@@ -1,6 +1,6 @@
 ### [2012-11-6](/news/2012/11/6/index.md)
 
-# Syrian civil war: The brother of the Syrian parliament speaker is shot and killed by gunmen in the capital Damascus. 
+# Syrian civil war:The brother of the Syrian parliament speaker is shot and killed by gunmen in the capital Damascus. 
 
 Gunmen shoot and kill the brother of Syria&#39;s parliament speaker as he drives to work in the capital Damascus.
 

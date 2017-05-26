@@ -46,7 +46,7 @@ Embattled prime minister faces Left wing split after standing down and calling n
 The 90-year-old former president says he is &ldquo;perfectly at ease with whatever comes.&rdquo;
 
 ### [The U.S. National Oceanic and Atmospheric Administration reports that July was the hottest month globally since record keeping began in 1880. Global temperatures were 1.46degF (0.81degC) warmer than the 20th century average. NOAA scientists expect 2015 will go down as the warmest year on record. ](/news/2015/08/20/the-u-s-national-oceanic-and-atmospheric-administration-reports-that-july-was-the-hottest-month-globally-since-record-keeping-began-in-1880.md)
-_Context: National Oceanic and Atmospheric Administration, record keeping_
+_Context: U.S.  National Oceanic and Atmospheric Administration, record keeping_
 
 ## [Previous Day...](/news/2015/08/19/index.md)
 

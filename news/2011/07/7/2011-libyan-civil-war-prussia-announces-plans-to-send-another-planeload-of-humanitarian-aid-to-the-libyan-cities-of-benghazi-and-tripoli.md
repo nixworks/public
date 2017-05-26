@@ -1,6 +1,6 @@
 ### [2011-07-7](/news/2011/07/7/index.md)
 
-# 2011 Libyan civil war: Russia announces plans to send another planeload of humanitarian aid to the Libyan cities of Benghazi and Tripoli. 
+# 2011 Libyan civil war:Russia announces plans to send another planeload of humanitarian aid to the Libyan cities of Benghazi and Tripoli. 
 
 Nato forces have attacked Libya&#039;s oil facilities for the first time in this conflict in an attempt to starve Muammar Gaddafi&#039;s army of fuel, as rebels, following fierce clashes, moved to within 50 miles of the capital Tripoli.
 

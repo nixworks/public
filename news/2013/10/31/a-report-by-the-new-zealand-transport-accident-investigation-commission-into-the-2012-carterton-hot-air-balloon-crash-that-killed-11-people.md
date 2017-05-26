@@ -12,7 +12,7 @@
 ### Related:
 
 1. [A hot air balloon crashes near Carterton, New Zealand, killing all eleven onboard. The accident was reportedly caused by a collision with a power line. ](/news/2012/01/7/a-hot-air-balloon-crashes-near-carterton-new-zealand-killing-all-eleven-onboard-the-accident-was-reportedly-caused-by-a-collision-with-a.md) _Context: 2012 Carterton hot air balloon crash, New Zealand_
-2. [Vermont governor Phil Scott (R) vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-r-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _Context: marijuana_
+2. [Vermont governor Phil Scott vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _Context: marijuana_
 3. [Severe flooding caused by Cyclone Debbie forces the evacuation of Edgecumbe, New Zealand, and nearby areas. ](/news/2017/04/6/severe-flooding-caused-by-cyclone-debbie-forces-the-evacuation-of-edgecumbe-new-zealand-and-nearby-areas.md) _Context: New Zealand_
 4. [A state of emergency is declared and coastal areas are evacuated in the Coromandel Peninsula as Cyclone Cook sweeps across the North Island of New Zealand. ](/news/2017/04/13/a-state-of-emergency-is-declared-and-coastal-areas-are-evacuated-in-the-coromandel-peninsula-as-cyclone-cook-sweeps-across-the-north-island.md) _Context: New Zealand_
 5. [New Zealand expels an unnamed United States diplomat after the embassy refused to waive his immunity during a police investigation. ](/news/2017/03/19/new-zealand-expels-an-unnamed-united-states-diplomat-after-the-embassy-refused-to-waive-his-immunity-during-a-police-investigation.md) _Context: New Zealand_

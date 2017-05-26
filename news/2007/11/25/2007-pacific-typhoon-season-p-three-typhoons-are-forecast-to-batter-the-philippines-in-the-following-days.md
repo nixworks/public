@@ -1,6 +1,6 @@
 ### [2007-11-25](/news/2007/11/25/index.md)
 
-#  2007 Pacific typhoon season:  Three typhoons are forecast to batter the Philippines in the following days. 
+#  2007 Pacific typhoon season: Three typhoons are forecast to batter the Philippines in the following days. 
 
 Officials in the Philippines say seven people have been killed in two provinces in flooding ahead of typhoon Mitag.
 
@@ -15,7 +15,7 @@ Officials in the Philippines say seven people have been killed in two provinces 
 
 1. [Koppu strengthens to a typhoon ahead of threatening lives and properties in the Philippines island of Luzon over the weekend. ](/news/2015/10/16/koppu-strengthens-to-a-typhoon-ahead-of-threatening-lives-and-properties-in-the-philippines-island-of-luzon-over-the-weekend.md) _Context: Philippines, typhoon_
 2. [Typhoon Megi:One person is missing and thousands of people have fled as Typhoon Megi, the first supertyphoon of the 2010 Pacific typhoon season, makes landfall in the Philippines. ](/news/2010/10/18/typhoon-megi-pone-person-is-missing-and-thousands-of-people-have-fled-as-typhoon-megi-the-first-supertyphoon-of-the-2010-pacific-typhoon-se.md) _Context: Philippines, typhoon_
-3. [ 2007 Pacific typhoon season:  Typhoon Wipha (Goring) makes landfall in eastern China before weakening to a Category 2 typhoon as it heads inland. ](/news/2007/09/19/2007-pacific-typhoon-season-p-typhoon-wipha-goring-makes-landfall-in-eastern-china-before-weakening-to-a-category-2-typhoon-as-it-heads.md) _Context: 2007 Pacific typhoon season, typhoon_
+3. [ 2007 Pacific typhoon season: Typhoon Wipha (Goring) makes landfall in eastern China before weakening to a Category 2 typhoon as it heads inland. ](/news/2007/09/19/2007-pacific-typhoon-season-p-typhoon-wipha-goring-makes-landfall-in-eastern-china-before-weakening-to-a-category-2-typhoon-as-it-heads-i.md) _Context: 2007 Pacific typhoon season, typhoon_
 4. [The United Nations Human Rights Council conducts a periodic review of the human rights situation in the Philippines. ](/news/2017/05/8/the-united-nations-human-rights-council-conducts-a-periodic-review-of-the-human-rights-situation-in-the-philippines.md) _Context: Philippines_
 5. [The Philippines clarifies a controversial remark about a potential "war" with China amid criticism from Filipinos. ](/news/2017/05/22/the-philippines-clarifies-a-controversial-remark-about-a-potential-war-with-china-amid-criticism-from-filipinos.md) _Context: Philippines_
 6. ["My Family's Slave"A controversial piece written in ''The Atlantic'' magazine about the Filipino servant caste and the Filipino American family involved in it triggers a debate in both the Philippines and the United States. ](/news/2017/05/22/my-family-s-slave-pa-controversial-piece-written-in-the-atlantic-magazine-about-the-filipino-servant-caste-and-the-filipino-american-fa.md) _Context: Philippines_

@@ -1,6 +1,6 @@
 ## [2012-12-25](/news/2012/12/25/index.md)
 
-### [Syrian civil war: Rebels take over the city of Harem in Idlib Governorate on the border with Turkey, about 55 kms west of Aleppo. ](/news/2012/12/25/syrian-civil-war-prebels-take-over-the-city-of-harem-in-idlib-governorate-on-the-border-with-turkey-about-55-kms-west-of-aleppo.md)
+### [Syrian civil war:Rebels take over the city of Harem in Idlib Governorate on the border with Turkey, about 55 kms west of Aleppo. ](/news/2012/12/25/syrian-civil-war-prebels-take-over-the-city-of-harem-in-idlib-governorate-on-the-border-with-turkey-about-55-kms-west-of-aleppo.md)
 The Pope calls for a political solution to the conflict in Syria during his Christmas message, delivered to thousands of pilgrims at the Vatican.
 
 ### [Al-Qaeda insurgency in Yemen:Six AQAP militants and two Yemeni soldiers are killed after clashes near a damaged oil pipeline in Ma'rib Governorate. Separately, gunmen target military officials and the home of the transport minister in the capital Sana'a, killing a brigadier general and injuring four others. ](/news/2012/12/25/al-qaeda-insurgency-in-yemen-psix-aqap-militants-and-two-yemeni-soldiers-are-killed-after-clashes-near-a-damaged-oil-pipeline-in-ma-rib-gove.md)

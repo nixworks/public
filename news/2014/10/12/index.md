@@ -10,7 +10,7 @@ _Context: Libya, Post-civil war violence in Libya_
 _Context: Nigeria, Plateau State_
 
 ### [At least 28 people are injured on the Japanese islands of Okinawa and Kyushu  with 150,000 evacuated as Typhoon Vongfong approaches. ](/news/2014/10/12/at-least-28-people-are-injured-on-the-japanese-islands-of-okinawa-and-kyushu-with-150-000-evacuated-as-typhoon-vongfong-approaches.md)
-_Context: Japan, Kyushu, Okinawa, Pacific typhoon season, Typhoon Vongfong_
+_Context: 2014 Pacific typhoon season, Japan, Kyushu, Okinawa, Typhoon Vongfong_
 
 ### [Eastern India feels the impact of Cyclone Hudhud which makes landfall around noon near the city of Visakhapatnam. The death toll in Andhra Pradesh is at least three.](/news/2014/10/12/eastern-india-feels-the-impact-of-cyclone-hudhud-which-makes-landfall-around-noon-near-the-city-of-visakhapatnam-the-death-toll-in-andhra-p.md)
 The cyclone, which crossed the Visakhapatnam coast, seems to be in a period of lull in the first hour, but people should follow the advisory as it may suddenly aggravate later, officials said.

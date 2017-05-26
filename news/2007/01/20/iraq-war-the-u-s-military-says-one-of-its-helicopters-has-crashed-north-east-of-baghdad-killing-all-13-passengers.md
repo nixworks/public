@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [ Iraq War:  The U.S. military reports that a helicopter was shot down north of Baghdad. ](/news/2007/02/22/iraq-war-p-the-u-s-military-reports-that-a-helicopter-was-shot-down-north-of-baghdad.md) _Context: Baghdad, Iraq War, U.S. military_
+1. [ Iraq War: The U.S. military reports that a helicopter was shot down north of Baghdad. ](/news/2007/02/22/iraq-war-p-the-u-s-military-reports-that-a-helicopter-was-shot-down-north-of-baghdad.md) _Context: Baghdad, Iraq War, U.S. military_
 2. [The United States flag is lowered in Baghdad marking the end of U.S. military operations in Iraq after eight years of the Iraq War. ](/news/2011/12/15/the-united-states-flag-is-lowered-in-baghdad-marking-the-end-of-u-s-military-operations-in-iraq-after-eight-years-of-the-iraq-war.md) _Context: Baghdad, Iraq War_
 3. [Iraq War: At least eight explosions rock Baghdad and kill at least 35 people and wound over 140 others. ](/news/2010/04/6/iraq-war-at-least-eight-explosions-rock-baghdad-and-kill-at-least-35-people-and-wound-over-140-others.md) _Context: Baghdad, Iraq War_
 4. [ The private military company Xe (formerly Blackwater Worldwide) ends its operations in Baghdad, Iraq. ](/news/2009/05/7/the-private-military-company-xe-formerly-blackwater-worldwide-ends-its-operations-in-baghdad-iraq.md) _Context: Baghdad, Iraq War_

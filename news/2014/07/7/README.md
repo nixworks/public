@@ -13,7 +13,7 @@ _Context: Baghdad, ISIL, Iraqi Army, Iraqi Parliament, Iraqi insurgency (post-U.
 A military helicopter has crashed close to the Vietnamese capital of Hanoi, killing 16 people and injuring five others, officials say.
 
 ### [Japan braces for the impact of Typhoon Neoguri which is expected to hit Okinawa and then Kyushu on Tuesday. ](/news/2014/07/7/japan-braces-for-the-impact-of-typhoon-neoguri-which-is-expected-to-hit-okinawa-and-then-kyushu-on-tuesday.md)
-_Context: Japan, Kyushu, Okinawa, Pacific typhoon season, Typhoon Neoguri_
+_Context: 2014 Pacific typhoon season, Japan, Kyushu, Okinawa, Typhoon Neoguri_
 
 ### [A 6.9 magnitude earthquake hits southern Mexico and Guatemala, causing at least three deaths. ](/news/2014/07/7/a-6-9-magnitude-earthquake-hits-southern-mexico-and-guatemala-causing-at-least-three-deaths.md)
 A strong earthquake rocked southern Mexico and Guatemala, killing at least four people and causing damage across the region.

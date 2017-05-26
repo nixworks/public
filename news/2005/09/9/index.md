@@ -16,7 +16,7 @@ _Context: Providence, Rhode Island, Rhode Island, Richard Hatch, Survivor: Pulau
 _Context: Papua New Guinea, Richter scale, earthquake_
 
 ### [ Australian Federal Opposition Leader Kim Beazley says the Australian Government's proposed new anti-terrorism laws would not deter terrorism.  Others say the laws would radicalise young Muslims and   civil liberty groups say the laws would make Australian society more dangerous.](/news/2005/09/9/australian-federal-opposition-leader-kim-beazley-says-the-australian-government-s-proposed-new-anti-terrorism-laws-would-not-deter-terroris.md)
-_Context: Australia's government, Kim Beazley, anti-terrorism_
+_Context: Government of Australia, Kim Beazley, anti-terrorism_
 
 ### [ The Australian Security Intelligence Organisation plans to recruit an additional 500 spies for its current staffing of 1,000 to counter terrorism. ](/news/2005/09/9/the-australian-security-intelligence-organisation-plans-to-recruit-an-additional-500-spies-for-its-current-staffing-of-1-000-to-counter-ter.md)
 _Context: ASIO_

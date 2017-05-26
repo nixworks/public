@@ -1,6 +1,6 @@
 ## [2015-08-17](/news/2015/08/17/index.md)
 
-### [2015 Attock bombing The U.S. offers to assist Pakistan with its investigation into the suicide bombing attack on Sunday that killed at least 19 people, including Shuja Khanzada, the interior minister of the Punjab Province. ](/news/2015/08/17/2015-attock-bombing-pthe-u-s-offers-to-assist-pakistan-with-its-investigation-into-the-suicide-bombing-attack-on-sunday-that-killed-at-leas.md)
+### [The U.S. offers to assist Pakistan with its investigation into the suicide bombing attack on Sunday that killed at least 19 people, including Shuja Khanzada, the interior minister of the Punjab Province. ](/news/2015/08/17/the-u-s-offers-to-assist-pakistan-with-its-investigation-into-the-suicide-bombing-attack-on-sunday-that-killed-at-least-19-people-includin.md)
 ISLAMABAD (Online) - The United States has offered help to probe the terrorist attack incident in Attock, which left 21 people including Punjab Home Minister Shuja Khanzada dead. In a statement iss
 
 ### [A bomb explodes near the Erawan Shrine in Bangkok, Thailand, killing at least 19 people and injuring 123 others. No one claims responsibility. Thai Society president Songvut Manoonpong says that parties opposing the Thai military government are responsible. ](/news/2015/08/17/a-bomb-explodes-near-the-erawan-shrine-in-bangkok-thailand-killing-at-least-19-people-and-injuring-123-others-no-one-claims-responsibilit.md)

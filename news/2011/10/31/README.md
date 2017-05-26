@@ -28,7 +28,7 @@ _Context: Dean, Graeme Knowles, London, Occupy London, St Paul's Cathedral_
 _Context: Abdurrahim El-Keib, Libyan Prime Minister, National Transitional Council_
 
 ### [The Prime Minister of Greece George Papandreou calls a referendum on the new European Union debt deal. ](/news/2011/10/31/the-prime-minister-of-greece-george-papandreou-calls-a-referendum-on-the-new-european-union-debt-deal.md)
-_Context: European Union, George Papandreou, Greek prime minister, referendum_
+_Context: European Union, George Papandreou, Greek Prime Minister, referendum_
 
 ### [The United Nations Population Division estimates that the world population has reached seven billion people. ](/news/2011/10/31/the-united-nations-population-division-estimates-that-the-world-population-has-reached-seven-billion-people.md)
 It took only a dozen years for humanity to add another billion people to the planet, reaching the milestone of 7 billion Monday — give or take a few months. Demographers at the United Nations...

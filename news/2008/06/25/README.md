@@ -6,7 +6,7 @@ _Context: European Union, Kosovo, Montenegro, Pieter Feith_
 ### [ Zimbabwean President Robert Mugabe is stripped of his honorary Order of the Bath knighthood, upon the advice of the UK Secretary of State for Foreign and Commonwealth Affairs. ](/news/2008/06/25/zimbabwean-president-robert-mugabe-is-stripped-of-his-honorary-order-of-the-bath-knighthood-upon-the-advice-of-the-uk-secretary-of-state-f.md)
 _Context: Order of the Bath, President of Zimbabwe, Robert Mugabe, Secretary of State for Foreign and Commonwealth Affairs, United Kingdom, Zimbabwe, knighthood_
 
-### [ United States Supreme Court  The US Supreme Court rules in ''Exxon Shipping Co. v. Baker'' that the damages awarded in the Exxon Valdez case were excessive and reduces them from $2.7 billion to $507 million. ](/news/2008/06/25/united-states-supreme-court-p-the-us-supreme-court-rules-in-exxon-shipping-co-v-baker-that-the-damages-awarded-in-the-exxon-valdez-ca.md)
+### [  The US Supreme Court rules in ''Exxon Shipping Co. v. Baker'' that the damages awarded in the Exxon Valdez case were excessive and reduces them from $2.7 billion to $507 million. ](/news/2008/06/25/the-us-supreme-court-rules-in-exxon-shipping-co-v-baker-that-the-damages-awarded-in-the-exxon-valdez-case-were-excessive-and-reduces.md)
 In a 5-4 decision, the justices struck down a Louisiana law, ruling that it would violate the Constitution’s ban on cruel and unusual punishment.
 
 ### [ Violent protests over the Amarnath shrine immobilize Srinagar and other parts of Indian Jammu and Kashmir. ](/news/2008/06/25/violent-protests-over-the-amarnath-shrine-immobilize-srinagar-and-other-parts-of-indian-jammu-and-kashmir.md)

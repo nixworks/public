@@ -13,7 +13,7 @@ _Context: Nepal, Protest, journalist_
 _Context: Pakistan, Pervez Musharraf, President, rape_
 
 ### [ Hurricane Ophelia is downgraded to a tropical storm as it appears to head out to the Atlantic Ocean. ](/news/2005/09/16/hurricane-ophelia-is-downgraded-to-a-tropical-storm-as-it-appears-to-head-out-to-the-atlantic-ocean.md)
-_Context: Atlantic, Hurricane Ophelia, tropical storm_
+_Context: Atlantic Ocean, Hurricane Ophelia, tropical storm_
 
 ### [ The Bicentennial of the Battle of Trafalgar and the death of Admiral Lord Nelson is commemorated by a re-enactment of the 1806 waterborne state funeral procession on the River Thames in London. ](/news/2005/09/16/the-bicentennial-of-the-battle-of-trafalgar-and-the-death-of-admiral-lord-nelson-is-commemorated-by-a-re-enactment-of-the-1806-waterborne-s.md)
 _Context: 1806, Admiral Lord Nelson, Battle of Trafalgar, London, River Thames, anniversary, re-enactment, state funeral_

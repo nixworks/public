@@ -15,7 +15,7 @@ Officials say foreign passport holders will now be allowed to freely visit north
 ### [Israeli forces kill two Palestinian militants and wound one more in the Gaza Strip. ](/news/2011/07/5/israeli-forces-kill-two-palestinian-militants-and-wound-one-more-in-the-gaza-strip.md)
 Two Palestinians are killed and one is injured in an attack by the Israeli military in the central Gaza Strip, reports say.
 
-### [Freedom Flotilla II: The ''Dignite al Karama'', the French vessel, manages to set sail for Gaza without being obstructed. Those on board include Olivier Besancenot and MEP Nicole Kiil-Nielsen. ](/news/2011/07/5/freedom-flotilla-ii-pthe-dignite-al-karama-the-french-vessel-manages-to-set-sail-for-gaza-without-being-obstructed-those-on-board-in.md)
+### [Freedom Flotilla II:The ''Dignite al Karama'', the French vessel, manages to set sail for Gaza without being obstructed. Those on board include Olivier Besancenot and MEP Nicole Kiil-Nielsen. ](/news/2011/07/5/freedom-flotilla-ii-pthe-dignite-al-karama-the-french-vessel-manages-to-set-sail-for-gaza-without-being-obstructed-those-on-board-inc.md)
 Activists sail from Greece as others pledge to continue efforts to reach Palestinian territory with humanitarian aid.
 
 ### [Ghulam Nabi Azad, health minister of India, describes homosexual sex as "unnatural" and homosexuality as a "disease" which is "spreading fast" throughout the country. ](/news/2011/07/5/ghulam-nabi-azad-health-minister-of-india-describes-homosexual-sex-as-unnatural-and-homosexuality-as-a-disease-which-is-spreading-fas.md)

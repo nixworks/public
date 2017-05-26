@@ -42,7 +42,7 @@ _Context: Celebratory gunfire, New Year, Philippines, firecracker_
 ### [Similar to numbers in previous years, 1193 empty parked cars are set on fire during New Year's Eve 'celebrations' across France. ](/news/2013/01/1/similar-to-numbers-in-previous-years-1193-empty-parked-cars-are-set-on-fire-during-new-year-s-eve-celebrations-across-france.md)
 PARIS (AP) — Hundreds of empty, parked cars go up in flames in France each New Year&#x27;s Eve, set afire by young revelers, a much lamented tradition that remained intact this year with 1,193 vehicles burned, Interior Minister Manuel Valls said Tuesday.
 
-### [United States "fiscal cliff" debate: The U.S. Senate bipartisanly approves a deal to avert general tax hikes and spending cuts known as the "fiscal cliff". ](/news/2013/01/1/united-states-fiscal-cliff-debate-pthe-u-s-senate-bipartisanly-approves-a-deal-to-avert-general-tax-hikes-and-spending-cuts-known-as-the.md)
+### [United States "fiscal cliff" debate:The U.S. Senate bipartisanly approves a deal to avert general tax hikes and spending cuts known as the "fiscal cliff". ](/news/2013/01/1/united-states-fiscal-cliff-debate-pthe-u-s-senate-bipartisanly-approves-a-deal-to-avert-general-tax-hikes-and-spending-cuts-known-as-the.md)
 The US Senate approves a deal to avert a combination of tax hikes and spending cuts known as the &quot;fiscal cliff&quot;, hours after missing a deadline.
 
 ### [North Korea's leader Kim Jong-un makes a rare New Year broadcast, calling for an improved economy and a reunified Korea. ](/news/2013/01/1/north-korea-s-leader-kim-jong-un-makes-a-rare-new-year-broadcast-calling-for-an-improved-economy-and-a-reunified-korea.md)

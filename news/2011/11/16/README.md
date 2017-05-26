@@ -31,7 +31,7 @@ _Context: Economy Minister, European sovereign-debt crisis, Eurozone, Italian Pr
 _Context: Gordon Lilo Darcy, Milner Tozaka, National Coalition for Reform and Advancement, Prime Minister of the Solomon Islands_
 
 ### [The new Greek prime minister, Lucas Papademos, wins a vote of confidence in Parliament, opening the way for his government of national unity to take the steps to restore financial stability in Greece. ](/news/2011/11/16/the-new-greek-prime-minister-lucas-papademos-wins-a-vote-of-confidence-in-parliament-opening-the-way-for-his-government-of-national-unity.md)
-_Context: Greek government-debt crisis, Greek prime minister, Hellenic Parliament, Lucas Papademos_
+_Context: Greek Prime Minister, Greek government-debt crisis, Hellenic Parliament, Lucas Papademos_
 
 ## [Previous Day...](/news/2011/11/15/index.md)
 

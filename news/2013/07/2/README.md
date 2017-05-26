@@ -6,7 +6,7 @@ An embattled Mohammed Morsi made a last-ditch bid to stay in power last night, t
 ### [Naxalite-Maoist insurgency: Six policemen in the eastern India state of Jharkhand are killed in an attack by Naxalites. ](/news/2013/07/2/naxalite-maoist-insurgency-six-policemen-in-the-eastern-india-state-of-jharkhand-are-killed-in-an-attack-by-naxalites.md)
 Six policemen, including a Superintendent of Police, have been killed in an ambush by Maoists in Dumka, Jharkhand.
 
-### [War in Afghanistan (2001-present): Militants attack NATO headquarters in the north of Kabul resulting in at least two deaths. ](/news/2013/07/2/war-in-afghanistan-2001apresent-pmilitants-attack-nato-headquarters-in-the-north-of-kabul-resulting-in-at-least-two-deaths.md)
+### [War in Afghanistan (2001-present):Militants attack NATO headquarters in the north of Kabul resulting in at least two deaths. ](/news/2013/07/2/war-in-afghanistan-2001apresent-pmilitants-attack-nato-headquarters-in-the-north-of-kabul-resulting-in-at-least-two-deaths.md)
 Taliban insurgents including a suicide bomber in a truck killed six people in an attack on a foreign logistics and supply company in Kabul on Tuesday, police said, the latest in a string of daring assaults in the Afghan capital.
 
 ### [Iraqi insurgency (post-U.S. withdrawal):A wave of market bomb attacks mostly targeting Shi'ite Muslims kills 46 people ](/news/2013/07/2/iraqi-insurgency-post-u-s-withdrawal-pa-wave-of-market-bomb-attacks-mostly-targeting-shi-ite-muslims-kills-46-people.md)

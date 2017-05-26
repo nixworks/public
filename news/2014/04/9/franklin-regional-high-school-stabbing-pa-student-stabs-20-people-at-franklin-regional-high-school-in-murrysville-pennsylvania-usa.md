@@ -1,6 +1,6 @@
 ### [2014-04-9](/news/2014/04/9/index.md)
 
-# Franklin Regional High School stabbing. A student stabs 20 people at Franklin Regional High School in Murrysville, Pennsylvania, USA. 
+# Franklin Regional High School stabbing.A student stabs 20 people at Franklin Regional High School in Murrysville, Pennsylvania, USA. 
 
 The stabbings were reported at Franklin Regional High School, in the suburb of Murrysville.
 

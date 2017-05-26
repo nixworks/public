@@ -1,6 +1,6 @@
 ### [2006-08-13](/news/2006/08/13/index.md)
 
-#  Iraq sectarian violence:  Three successive explosions in south Baghdad kill at least 62 people and injure more than 140. 
+#  Iraq sectarian violence: Three successive explosions in south Baghdad kill at least 62 people and injure more than 140. 
 
 
 

@@ -1,6 +1,6 @@
 ## [2011-07-2](/news/2011/07/2/index.md)
 
-### [Arab Spring:2011 Libyan civil war: According to ''The Daily Telegraph'', the Sudanese army invades Libya, taking control of the southeastern town of Al-Kufra. ](/news/2011/07/2/arab-spring-p2011-libyan-civil-war-paccording-to-the-daily-telegraph-the-sudanese-army-invades-libya-taking-control-of-the-southeaste.md)
+### [Arab Spring:2011 Libyan civil war:According to ''The Daily Telegraph'', the Sudanese army invades Libya, taking control of the southeastern town of Al-Kufra. ](/news/2011/07/2/arab-spring-p2011-libyan-civil-war-paccording-to-the-daily-telegraph-the-sudanese-army-invades-libya-taking-control-of-the-southeaster.md)
 The Sudanese army has seized a town in southern Libya that is the gateway to oilfields crucial to rebel hopes of establishing financial independence.
 
 ### [Somali and African Union forces make gains against al-Shabaab rebels in Mogadishu. ](/news/2011/07/2/somali-and-african-union-forces-make-gains-against-al-shabaab-rebels-in-mogadishu.md)

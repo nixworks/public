@@ -1,6 +1,6 @@
 ### [2013-01-11](/news/2013/01/11/index.md)
 
-# Syrian civil war: Rebel forces take over the strategic Taftanaz airbase in northern Syria. 
+# Syrian civil war:Rebel forces take over the strategic Taftanaz airbase in northern Syria. 
 
 Syrian activists say Islamic militants seeking to topple President Bashar Assad have taken full control of a strategic northwestern air base in a significant blow to the Assad regime.
 

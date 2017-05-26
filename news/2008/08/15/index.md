@@ -16,7 +16,7 @@ _Context: Chad, Hissene Habre, President of Chad, military assault_
 ### [ 2008 South Ossetia war: Russia will provide 'at least' 10 billion Roubles (approx. EUR270 million, US$420 million) aid to South Ossetia to help rebuild Tskhinvali 'leveled' during the Georgian 'lasting artillery shelling' of 7th and 8th of August. ](/news/2008/08/15/2008-south-ossetia-war-p-russia-will-provide-at-least-10-billion-roubles-approx-a-270-million-us-420-million-aid-to-south-ossetia-to.md)
 The conflict may be over, but not the war of words. Moscow claims some Western newspapers have taken a one-sided view of the Georgian-South Ossetian conflict...
 
-### [ 2008 Summer Olympics  Michael Phelps of the United States wins his sixth gold medal of the Beijing Olympics in the men's 200 metres individual medley setting a new world record. ](/news/2008/08/15/2008-summer-olympics-p-michael-phelps-of-the-united-states-wins-his-sixth-gold-medal-of-the-beijing-olympics-in-the-menas-200-metres-indi.md)
+### [  Michael Phelps of the United States wins his sixth gold medal of the Beijing Olympics in the men's 200 metres individual medley setting a new world record. ](/news/2008/08/15/michael-phelps-of-the-united-states-wins-his-sixth-gold-medal-of-the-beijing-olympics-in-the-menas-200-metres-individual-medley-setting.md)
 _Context: Beijing Olympiad, Michael Phelps, United States, gold medal_
 
 ### [ Five people are arrested in Beijing after unfurling a "free Tibet" banner on the Central TV Tower, the highest building in Beijing. ](/news/2008/08/15/five-people-are-arrested-in-beijing-after-unfurling-a-free-tibet-banner-on-the-central-tv-tower-the-highest-building-in-beijing.md)

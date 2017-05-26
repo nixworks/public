@@ -1,6 +1,6 @@
 ## [2012-11-6](/news/2012/11/6/index.md)
 
-### [Syrian civil war: The brother of the Syrian parliament speaker is shot and killed by gunmen in the capital Damascus. ](/news/2012/11/6/syrian-civil-war-pthe-brother-of-the-syrian-parliament-speaker-is-shot-and-killed-by-gunmen-in-the-capital-damascus.md)
+### [Syrian civil war:The brother of the Syrian parliament speaker is shot and killed by gunmen in the capital Damascus. ](/news/2012/11/6/syrian-civil-war-pthe-brother-of-the-syrian-parliament-speaker-is-shot-and-killed-by-gunmen-in-the-capital-damascus.md)
 Gunmen shoot and kill the brother of Syria&#39;s parliament speaker as he drives to work in the capital Damascus.
 
 ### [Charcoal shipments continue in the Somali port of Kismayo under the watch of African Union peacekeepers, despite a national and international ban on such shipments. ](/news/2012/11/6/charcoal-shipments-continue-in-the-somali-port-of-kismayo-under-the-watch-of-african-union-peacekeepers-despite-a-national-and-internationa.md)

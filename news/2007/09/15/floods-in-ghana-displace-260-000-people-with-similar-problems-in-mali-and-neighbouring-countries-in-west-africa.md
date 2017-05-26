@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Northern Mali conflict (2012-present): The UK announces it will deploy 330 military personnel to Mali and other West African countries in support of French forces operating in the area. ](/news/2013/01/29/northern-mali-conflict-2012apresent-pthe-uk-announces-it-will-deploy-330-military-personnel-to-mali-and-other-west-african-countries-in.md) _Context: Mali, West Africa_
+1. [Northern Mali conflict (2012-present):The UK announces it will deploy 330 military personnel to Mali and other West African countries in support of French forces operating in the area. ](/news/2013/01/29/northern-mali-conflict-2012apresent-pthe-uk-announces-it-will-deploy-330-military-personnel-to-mali-and-other-west-african-countries-in.md) _Context: Mali, West Africa_
 2. [2012 Northern Mali conflict: West African nations agree to send a 3,300-strong force to northern Mali to regain area controlled by Islamist insurgent groups. ](/news/2012/11/11/2012-northern-mali-conflict-west-african-nations-agree-to-send-a-3-300-strong-force-to-northern-mali-to-regain-area-controlled-by-islamist.md) _Context: Mali, West Africa_
 3. [Mali's ruling junta rejects a West African regional plan to extend the life of an interim civilian government. ](/news/2012/04/28/mali-s-ruling-junta-rejects-a-west-african-regional-plan-to-extend-the-life-of-an-interim-civilian-government.md) _Context: Mali, West Africa_
 4. [A large tree falls into a pool at the base of the Kintampo waterfalls in Ghana, killing at least 18 people and injuring 22 others. ](/news/2017/03/20/a-large-tree-falls-into-a-pool-at-the-base-of-the-kintampo-waterfalls-in-ghana-killing-at-least-18-people-and-injuring-22-others.md) _Context: Ghana_

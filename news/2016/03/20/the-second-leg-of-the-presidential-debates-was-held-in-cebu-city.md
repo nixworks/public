@@ -11,7 +11,7 @@ A Philippine presidential debate erupted into heated exchanges Sunday over alleg
 
 ### Related:
 
-1. [Philippine presidential election, 2016. The final leg of the Philippine presidential debate series is held in Dagupan. ](/news/2016/04/24/philippine-presidential-election-2016-pthe-final-leg-of-the-philippine-presidential-debate-series-is-held-in-dagupan.md) _Context: Philippine presidential election, 2016, debate series_
+1. [Philippine presidential election, 2016.The final leg of the Philippine presidential debate series is held in Dagupan. ](/news/2016/04/24/philippine-presidential-election-2016-pthe-final-leg-of-the-philippine-presidential-debate-series-is-held-in-dagupan.md) _Context: Philippine presidential election, 2016, debate series_
 2. [The debate series, ''PiliPinas Debates 2016'', kicks off in Cagayan de Oro. ](/news/2016/02/21/the-debate-series-pilipinas-debates-2016-kicks-off-in-cagayan-de-oro.md) _Context: Philippine presidential election, 2016, debate series_
 3. [Bongbong Marcos asks the Philippine Supreme Court to dismiss a counter-protest by current vice president Leni Robredo regarding her narrow victory in last year's national elections. ](/news/2017/04/20/bongbong-marcos-asks-the-philippine-supreme-court-to-dismiss-a-counter-protest-by-current-vice-president-leni-robredo-regarding-her-narrow-v.md) _Context: Philippine presidential election, 2016_
 4. [Bongbong Marcos pays [?]36 million, half of the required amount to hold a recount against Philippine vice president Leni Robredo.](/news/2017/04/17/bongbong-marcos-pays-a-36-million-half-of-the-required-amount-to-hold-a-recount-against-philippine-vice-president-leni-robredo.md) _Context: Philippine presidential election, 2016_

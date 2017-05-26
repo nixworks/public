@@ -1,6 +1,6 @@
 ## [2013-10-11](/news/2013/10/11/index.md)
 
-### [Syrian civil war: The Islamic State of Iraq and the Levant is accused by Human Rights Watch of killing at least 190 villagers in pro-government areas and kidnapping hundreds more. ](/news/2013/10/11/syrian-civil-war-pthe-islamic-state-of-iraq-and-the-levant-is-accused-by-human-rights-watch-of-killing-at-least-190-villagers-in-pro-govern.md)
+### [Syrian civil war:The Islamic State of Iraq and the Levant is accused by Human Rights Watch of killing at least 190 villagers in pro-government areas and kidnapping hundreds more. ](/news/2013/10/11/syrian-civil-war-pthe-islamic-state-of-iraq-and-the-levant-is-accused-by-human-rights-watch-of-killing-at-least-190-villagers-in-pro-governm.md)
 Human Rights Watch says Latakia residents were gunned down or stabbed during a planned attack.
 
 ### [An Israeli man is killed and his wife injured after an attack by Palestinian militants inside their house on the West Bank. ](/news/2013/10/11/an-israeli-man-is-killed-and-his-wife-injured-after-an-attack-by-palestinian-militants-inside-their-house-on-the-west-bank.md)

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [War in Somalia (2009-): A senior foreign commander is killed in a drone strike south of the Somali capital Mogadishu. ](/news/2012/01/22/war-in-somalia-2009a-pa-senior-foreign-commander-is-killed-in-a-drone-strike-south-of-the-somali-capital-mogadishu.md) _Context: Somalia, War in Somalia (2009-)_
+1. [War in Somalia (2009-):A senior foreign commander is killed in a drone strike south of the Somali capital Mogadishu. ](/news/2012/01/22/war-in-somalia-2009a-pa-senior-foreign-commander-is-killed-in-a-drone-strike-south-of-the-somali-capital-mogadishu.md) _Context: Somalia, War in Somalia (2009-)_
 2. [War in Somalia:Somali journalists walk out of the GBC radio station seized by Islamist rebels after refusing to take orders. ](/news/2010/09/23/war-in-somalia-psomali-journalists-walk-out-of-the-gbc-radio-station-seized-by-islamist-rebels-after-refusing-to-take-orders.md) _Context: Somalia, War in Somalia (2009-)_
 3. [ Radio Shabelle director Moqtar Mohamed Hirabe is killed in Mogadishu, Somalia. ](/news/2009/06/7/radio-shabelle-director-moqtar-mohamed-hirabe-is-killed-in-mogadishu-somalia.md) _Context: Somalia, War in Somalia (2009-)_
 4. [ At least 36 people die during combat between the Transitional Federal Government and Islamist militants in Webho, Somalia. ](/news/2009/06/6/at-least-36-people-die-during-combat-between-the-transitional-federal-government-and-islamist-militants-in-webho-somalia.md) _Context: Somalia, War in Somalia (2009-)_

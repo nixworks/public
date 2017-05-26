@@ -15,7 +15,7 @@ _Context: Plasco Building, Tehran_
 ### [Italian emergency crews rescue 10 people, including four children, from 161/2 feet of snow and wreckage from the luxury Hotel Rigopiano following yesterday's Gran Sasso mountain avalanche. Searchers find four bodies, while families of at least 16 people still missing wait for news. ](/news/2017/01/20/italian-emergency-crews-rescue-10-people-including-four-children-from-16a1-2-feet-of-snow-and-wreckage-from-the-luxury-hotel-rigopiano-follo.md)
 Among the people pulled out alive was a plucky 6-year-old who just wanted her favorite cookies
 
-### [2017 Verona bus crash A bus carrying Hungarian students crashes near Verona in northern Italy with at least 18 people dead and 50 injured. ](/news/2017/01/20/2017-verona-bus-crash-pa-bus-carrying-hungarian-students-crashes-near-verona-in-northern-italy-with-at-least-18-people-dead-and-50-injured.md)
+### [A bus carrying Hungarian students crashes near Verona in northern Italy with at least 18 people dead and 50 injured. ](/news/2017/01/20/a-bus-carrying-hungarian-students-crashes-near-verona-in-northern-italy-with-at-least-18-people-dead-and-50-injured.md)
 Sixteen people were killed and about 40 injured when a bus carrying students from Hungary hit a pillar and burst into flames on a highway in northern Italy, police and the fire service said on Saturday.
 
 ### [U.S. President Donald Trump nominates New York Jets owner Woody Johnson to be the next United States Ambassador to the United Kingdom. ](/news/2017/01/20/u-s-president-donald-trump-nominates-new-york-jets-owner-woody-johnson-to-be-the-next-united-states-ambassador-to-the-united-kingdom.md)

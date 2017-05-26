@@ -12,7 +12,7 @@
 ### Related:
 
 1. [2013 Savar building collapse:The death toll in Bangladesh rises to 823. ](/news/2013/05/8/2013-savar-building-collapse-pthe-death-toll-in-bangladesh-rises-to-823.md) _Context: 2013 Savar building collapse, Bangladesh_
-2. [2013 Savar building collapse: The death toll in Bangladesh rises to 622. ](/news/2013/05/5/2013-savar-building-collapse-pthe-death-toll-in-bangladesh-rises-to-622.md) _Context: 2013 Savar building collapse, Bangladesh_
+2. [2013 Savar building collapse:The death toll in Bangladesh rises to 622. ](/news/2013/05/5/2013-savar-building-collapse-pthe-death-toll-in-bangladesh-rises-to-622.md) _Context: 2013 Savar building collapse, Bangladesh_
 3. [2013 Savar building collapse:The death toll in Bangladesh rises to 547. ](/news/2013/05/3/2013-savar-building-collapse-pthe-death-toll-in-bangladesh-rises-to-547.md) _Context: 2013 Savar building collapse, Bangladesh_
 4. [The search of the wreckage of the 2013 Savar building collapse in Bangladesh ends with 1,127 people found dead. ](/news/2013/05/13/the-search-of-the-wreckage-of-the-2013-savar-building-collapse-in-bangladesh-ends-with-1-127-people-found-dead.md) _Context: 2013 Savar building collapse, Bangladesh_
 5. [2013 Savar building collapse:The death toll in Bangladesh rises to 401. ](/news/2013/04/26/2013-savar-building-collapse-pthe-death-toll-in-bangladesh-rises-to-401.md) _Context: 2013 Savar building collapse, Bangladesh_

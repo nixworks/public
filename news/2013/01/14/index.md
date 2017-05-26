@@ -3,7 +3,7 @@
 ### [Syrian civil war:Government forces conduct air raids against rebels south of Damascus, as well as in Aleppo, with local observers reporting dozens of deaths, including children. ](/news/2013/01/14/syrian-civil-war-pgovernment-forces-conduct-air-raids-against-rebels-south-of-damascus-as-well-as-in-aleppo-with-local-observers-reporting.md)
 Eight children reported killed in airstrikes southwest of capital, amid calls for Syria to be charged with war crimes.
 
-### [Northern Mali conflict (2012-present): Islamists rebels capture the Malian town of Diabaly after fierce fighting with government troops, as French airplanes strike targets in Gao. ](/news/2013/01/14/northern-mali-conflict-2012apresent-pislamists-rebels-capture-the-malian-town-of-diabaly-after-fierce-fighting-with-government-troops.md)
+### [Northern Mali conflict (2012-present):Islamists rebels capture the Malian town of Diabaly after fierce fighting with government troops, as French airplanes strike targets in Gao. ](/news/2013/01/14/northern-mali-conflict-2012apresent-pislamists-rebels-capture-the-malian-town-of-diabaly-after-fierce-fighting-with-government-troops-a.md)
 West African defense chiefs will on Tuesday approve plans to speed up the deployment of African troops against Islamist rebels in northern Mali, with some regional soldiers seen arriving next week.
 
 ### [Kachin conflict:Myanmar government forces shell the rebel stronghold of Laiza for the first time since the resumption of hostilities in 2011, killing 3 civilians and injuring 6 others. ](/news/2013/01/14/kachin-conflict-pmyanmar-government-forces-shell-the-rebel-stronghold-of-laiza-for-the-first-time-since-the-resumption-of-hostilities-in-201.md)

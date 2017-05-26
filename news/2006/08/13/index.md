@@ -1,6 +1,6 @@
 ## [2006-08-13](/news/2006/08/13/index.md)
 
-### [ Iraq sectarian violence:  Three successive explosions in south Baghdad kill at least 62 people and injure more than 140. ](/news/2006/08/13/iraq-sectarian-violence-p-three-successive-explosions-in-south-baghdad-kill-at-least-62-people-and-injure-more-than-140.md)
+### [ Iraq sectarian violence: Three successive explosions in south Baghdad kill at least 62 people and injure more than 140. ](/news/2006/08/13/iraq-sectarian-violence-p-three-successive-explosions-in-south-baghdad-kill-at-least-62-people-and-injure-more-than-140.md)
 _Context: Baghdad, Iraq sectarian violence_
 
 ### [ 2006 Israel-Lebanon conflict: Israeli government endorses the UN Security Council resolution calling for an end to fighting in southern Lebanon. ](/news/2006/08/13/2006-israel-lebanon-conflict-p-israeli-government-endorses-the-un-security-council-resolution-calling-for-an-end-to-fighting-in-southern-le.md)

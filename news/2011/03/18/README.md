@@ -6,7 +6,7 @@ Tribal leaders in the Pakistani region of North Waziristan vow revenge against t
 ### [At least 41 people are killed in Yemen as security forces open fire on anti-government demonstrators. ](/news/2011/03/18/at-least-41-people-are-killed-in-yemen-as-security-forces-open-fire-on-anti-government-demonstrators.md)
 Yemen&#39;s president has declared a state of emergency after at least 25 protesters were killed at an anti-government rally.
 
-### [2010-2011 Ivorian crisis: Disputed Cote d'Ivoire President Laurent Gbagbo calls on civilians to join in the fighting to "neutralise" supporters of Alassane Ouattara. ](/news/2011/03/18/2010a2011-ivorian-crisis-pdisputed-ca-te-d-ivoire-president-laurent-gbagbo-calls-on-civilians-to-join-in-the-fighting-to-neutralise-sup.md)
+### [2010-2011 Ivorian crisis:Disputed Cote d'Ivoire President Laurent Gbagbo calls on civilians to join in the fighting to "neutralise" supporters of Alassane Ouattara. ](/news/2011/03/18/2010a2011-ivorian-crisis-pdisputed-ca-te-d-ivoire-president-laurent-gbagbo-calls-on-civilians-to-join-in-the-fighting-to-neutralise-supp.md)
 The shelling of an Abidjan market by Ivory Coast security forces which killed at least 25 people may be a crime against humanity, the UN says.
 
 ### [Clashes between the Sudan People's Liberation Army/Movement and rebel forces led by George Athor kill 70 people in South Sudan. ](/news/2011/03/18/clashes-between-the-sudan-people-s-liberation-army-movement-and-rebel-forces-led-by-george-athor-kill-70-people-in-south-sudan.md)
@@ -34,7 +34,7 @@ _Context: Highway 401, Hydro One, Pearson International Airport, Richview neighb
 Chinese security officers in Sichuan Province released Tibetan monks detained after a monk’s self-immolation in protest of Chinese rule.
 
 ### [The Government of Australia sends additional Australian Federal Police officers to Christmas Island following a series of riots at the Christmas Island Immigration Detention Centre. ](/news/2011/03/18/the-government-of-australia-sends-additional-australian-federal-police-officers-to-christmas-island-following-a-series-of-riots-at-the-chris.md)
-_Context: Australia's government, Christmas Island, Christmas Island Immigration Detention Centre, police_
+_Context: Christmas Island, Christmas Island Immigration Detention Centre, Government of Australia, police_
 
 ### [Former British Airways software engineer Rajib Karim, of Newcastle upon Tyne, United Kingdom is jailed for 30 years for plotting to blow up a plane. ](/news/2011/03/18/former-british-airways-software-engineer-rajib-karim-of-newcastle-upon-tyne-united-kingdom-is-jailed-for-30-years-for-plotting-to-blow-up.md)
 A British Airways computer expert is jailed for 30 years for plotting to blow up a plane after contacting an al-Qaeda preacher based in Yemen.

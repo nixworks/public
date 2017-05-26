@@ -1,6 +1,6 @@
 ### [2012-07-31](/news/2012/07/31/index.md)
 
-# 2012 northern India power grid failure: A second power cut hits northern India and leaves 670 million people without electricity. 
+# 2012 northern India power grid failure:A second power cut hits northern India and leaves 670 million people without electricity. 
 
 Hundreds of millions are left without electricity in northern and eastern India, after a massive power cut that also cripples much of the transport system.
 

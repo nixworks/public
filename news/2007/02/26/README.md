@@ -12,7 +12,7 @@ _Context: Film director, Human remains, James Cameron, Jesus, Mary Magdalene, Ta
 ### [ Insurgency in Saudi Arabia: At least three French citizens have been shot dead in an attack near the historical site of Madain Saleh. ](/news/2007/02/26/insurgency-in-saudi-arabia-at-least-three-french-citizens-have-been-shot-dead-in-an-attack-near-the-historical-site-of-madain-saleh.md)
 _Context: France, Madain Saleh, insurgency in Saudi Arabia_
 
-### [ Iraq:  The Iraqi Government has come to an agreement to divide oil revenue and encourage foreign investment in the country. ](/news/2007/02/26/iraq-p-the-iraqi-government-has-come-to-an-agreement-to-divide-oil-revenue-and-encourage-foreign-investment-in-the-country.md)
+### [ Iraq: The Iraqi Government has come to an agreement to divide oil revenue and encourage foreign investment in the country. ](/news/2007/02/26/iraq-p-the-iraqi-government-has-come-to-an-agreement-to-divide-oil-revenue-and-encourage-foreign-investment-in-the-country.md)
 The attack was the most serious breach of an Iraqi government building since November.
 
 ### [ The International Court of Justice finds Serbia guilty of failing to prevent genocide in the Srebrenica massacre, but clears it of direct responsibility and complicity in a case brought forth by Bosnia and Herzegovina. ](/news/2007/02/26/the-international-court-of-justice-finds-serbia-guilty-of-failing-to-prevent-genocide-in-the-srebrenica-massacre-but-clears-it-of-direct-r.md)

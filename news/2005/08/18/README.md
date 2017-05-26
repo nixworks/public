@@ -12,7 +12,7 @@ _Context: BTK Killer, Dennis Rader_
 ### [ Pope Benedict XVI made his first foreign trip to his homeland Germany, attending the World Youth Day 2005. He was welcomed with cheers and made several speeches to leaders of Germany and to pilgrims at the Rhine banks at a ship as well as in front of the Cologne cathedrale. - [http://news.bbc.co.uk/1/hi/in_pictures/4163022.stm BBC Pictures]; [http://news.bbc.co.uk/1/hi/world/europe/4161706.stm BBC News]; [http://www.msnbc.msn.com/id/8974211/ MSNBC].](/news/2005/08/18/pope-benedict-xvi-made-his-first-foreign-trip-to-his-homeland-germany-attending-the-world-youth-day-2005-he-was-welcomed-with-cheers-and.md)
 _Context: Benedict XVI, Cologne, German, Rhine, World Youth Day 2005_
 
-### [ Conflict in Iraq:  Insurgents kill 4 US Troops in an IED explosion in Samarra, north of Baghdad, Iraq. ](/news/2005/08/18/conflict-in-iraq-p-insurgents-kill-4-us-troops-in-an-ied-explosion-in-samarra-north-of-baghdad-iraq.md)
+### [ Conflict in Iraq: Insurgents kill 4 US Troops in an IED explosion in Samarra, north of Baghdad, Iraq. ](/news/2005/08/18/conflict-in-iraq-p-insurgents-kill-4-us-troops-in-an-ied-explosion-in-samarra-north-of-baghdad-iraq.md)
 _Context: Baghdad, Conflict in Iraq, IED, Iraq, Iraqi insurgency, Samarra, US Troops_
 
 ### [ NASA has decided to push the next shuttle mission STS-121 to March 2006 and reassign it to the Space Shuttle ''Discovery'' ](/news/2005/08/18/nasa-has-decided-to-push-the-next-shuttle-mission-sts-121-to-march-2006-and-reassign-it-to-the-space-shuttle-discovery.md)

@@ -3,7 +3,7 @@
 ### [Three Tunisian security officers are killed in a clash with gunmen in the north of the country. ](/news/2011/05/18/three-tunisian-security-officers-are-killed-in-a-clash-with-gunmen-in-the-north-of-the-country.md)
 _Context: Tunisia_
 
-### [2011 Libyan civil war: Forces loyal to Muammar Gaddafi shell towns and villages in the western mountains in an attempt to capture higher ground. ](/news/2011/05/18/2011-libyan-civil-war-pforces-loyal-to-muammar-gaddafi-shell-towns-and-villages-in-the-western-mountains-in-an-attempt-to-capture-higher-gr.md)
+### [2011 Libyan civil war:Forces loyal to Muammar Gaddafi shell towns and villages in the western mountains in an attempt to capture higher ground. ](/news/2011/05/18/2011-libyan-civil-war-pforces-loyal-to-muammar-gaddafi-shell-towns-and-villages-in-the-western-mountains-in-an-attempt-to-capture-higher-gro.md)
 Government forces seek to capture high ground as UN official calls for pause in fighting to facilitate humanitarian aid.
 
 ### [Militants attack a checkpoint near the city of Peshawar in northwest Pakistan, resulting in the deaths of two police officers and 15 insurgents. ](/news/2011/05/18/militants-attack-a-checkpoint-near-the-city-of-peshawar-in-northwest-pakistan-resulting-in-the-deaths-of-two-police-officers-and-15-insurge.md)

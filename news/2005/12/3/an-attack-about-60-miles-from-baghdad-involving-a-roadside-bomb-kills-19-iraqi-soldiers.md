@@ -12,8 +12,8 @@
 ### Related:
 
 1. [ Edward Pietrzyk, the Polish ambassador to Iraq, is hurt and his bodyguard is killed by a bomb attack in Baghdad. ](/news/2007/10/3/edward-pietrzyk-the-polish-ambassador-to-iraq-is-hurt-and-his-bodyguard-is-killed-by-a-bomb-attack-in-baghdad.md) _Context: Baghdad, IED_
-2. [ Conflict in Iraq:  Four American soldiers are killed following an IED attack in the Iraqi capital Baghdad. ](/news/2005/12/13/conflict-in-iraq-p-four-american-soldiers-are-killed-following-an-ied-attack-in-the-iraqi-capital-baghdad.md) _Context: Baghdad, IED_
-3. [ Conflict in Iraq:  Insurgents kill 4 US Troops in an IED explosion in Samarra, north of Baghdad, Iraq. ](/news/2005/08/18/conflict-in-iraq-p-insurgents-kill-4-us-troops-in-an-ied-explosion-in-samarra-north-of-baghdad-iraq.md) _Context: Baghdad, IED_
+2. [ Conflict in Iraq: Four American soldiers are killed following an IED attack in the Iraqi capital Baghdad. ](/news/2005/12/13/conflict-in-iraq-p-four-american-soldiers-are-killed-following-an-ied-attack-in-the-iraqi-capital-baghdad.md) _Context: Baghdad, IED_
+3. [ Conflict in Iraq: Insurgents kill 4 US Troops in an IED explosion in Samarra, north of Baghdad, Iraq. ](/news/2005/08/18/conflict-in-iraq-p-insurgents-kill-4-us-troops-in-an-ied-explosion-in-samarra-north-of-baghdad-iraq.md) _Context: Baghdad, IED_
 4. [A car bomb attack on a police checkpoint in Baghdad kills at least 15 people and injures 40 others. ](/news/2017/03/29/a-car-bomb-attack-on-a-police-checkpoint-in-baghdad-kills-at-least-15-people-and-injures-40-others.md) _Context: Baghdad_
 5. [A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-others.md) _Context: Baghdad_
 6. [The Iraqi Air Force strikes ISIL targets inside Syria for the first time in response to recent bombings in Baghdad. ](/news/2017/02/24/the-iraqi-air-force-strikes-isil-targets-inside-syria-for-the-first-time-in-response-to-recent-bombings-in-baghdad.md) _Context: Baghdad_

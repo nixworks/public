@@ -1,6 +1,6 @@
 ## [2010-05-13](/news/2010/05/13/index.md)
 
-### [2010 Thai political protests: A general associated with the National United Front of Democracy Against Dictatorship, Khattiya Sawasdipol, is seriously injured after being shot in the head while giving an interview. ](/news/2010/05/13/2010-thai-political-protests-pa-general-associated-with-the-national-united-front-of-democracy-against-dictatorship-khattiya-sawasdipol-i.md)
+### [2010 Thai political protests:A general associated with the National United Front of Democracy Against Dictatorship, Khattiya Sawasdipol, is seriously injured after being shot in the head while giving an interview. ](/news/2010/05/13/2010-thai-political-protests-pa-general-associated-with-the-national-united-front-of-democracy-against-dictatorship-khattiya-sawasdipol-is.md)
 A rogue Thai general leading a militant wing of anti-government protesters was shot in the head and critically wounded on Thursday, and a man was killed when the army used force to blockade a five-week street rally.
 
 ### [5 people are killed and a further 19 injured in two bombings in Baghdad. ](/news/2010/05/13/5-people-are-killed-and-a-further-19-injured-in-two-bombings-in-baghdad.md)

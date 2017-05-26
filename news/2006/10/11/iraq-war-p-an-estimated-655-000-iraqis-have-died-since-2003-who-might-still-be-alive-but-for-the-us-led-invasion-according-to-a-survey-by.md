@@ -1,6 +1,6 @@
 ### [2006-10-11](/news/2006/10/11/index.md)
 
-#  Iraq War:  An estimated 655,000 Iraqis have died since 2003 who might still be alive but for the US-led invasion, according to a survey by Johns Hopkins Bloomberg School of Public Health. The study is in dispute though since The Iraqi Ministry of Health places the death toll at 50,000. 
+#  Iraq War: An estimated 655,000 Iraqis have died since 2003 who might still be alive but for the US-led invasion, according to a survey by Johns Hopkins Bloomberg School of Public Health. The study is in dispute though since The Iraqi Ministry of Health places the death toll at 50,000. 
 
 
 

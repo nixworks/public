@@ -21,7 +21,7 @@ _Context: 2007 North Sea flood, COBRA, English Channel, Environment Agency, Gord
 ### [ At least seven construction workers are killed and 15 others injured when a bridge under construction collapses in Dubai, United Arab Emirates. ](/news/2007/11/8/at-least-seven-construction-workers-are-killed-and-15-others-injured-when-a-bridge-under-construction-collapses-in-dubai-united-arab-emira.md)
 _Context: Dubai, United Arab Emirates_
 
-### [ 2007 Georgian demonstrations:  Georgia's opposition says it is suspending anti-government protests in Tbilisi, after President Mikheil Saakashvili declared a state of emergency and closed all independent news outlets. ](/news/2007/11/8/2007-georgian-demonstrations-p-georgia-s-opposition-says-it-is-suspending-anti-government-protests-in-tbilisi-after-president-mikheil-saa.md)
+### [ 2007 Georgian demonstrations: Georgia's opposition says it is suspending anti-government protests in Tbilisi, after President Mikheil Saakashvili declared a state of emergency and closed all independent news outlets. ](/news/2007/11/8/2007-georgian-demonstrations-p-georgia-s-opposition-says-it-is-suspending-anti-government-protests-in-tbilisi-after-president-mikheil-saak.md)
 The surprise announcement appeared to be an effort to alleviate the domestic unrest and international concern after police action in Tbilisi.
 
 ### [ The United States Congress overrides President George W. Bush's veto of the $23 billion Water Resource Bill. ](/news/2007/11/8/the-united-states-congress-overrides-president-george-w-bush-s-veto-of-the-23-billion-water-resource-bill.md)

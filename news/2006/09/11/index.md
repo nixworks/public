@@ -10,7 +10,7 @@ _Context: India, Mahatma Gandhi's, non-violent, peace, satyagraha_
 _Context: George W. Bush, President, United States, terrorism_
 
 ### [ Tropical Storm Gordon forms in the open Atlantic Ocean with 45 mph winds and is expected to head towards Bermuda. ](/news/2006/09/11/tropical-storm-gordon-forms-in-the-open-atlantic-ocean-with-45-mph-winds-and-is-expected-to-head-towards-bermuda.md)
-_Context: Atlantic, Bermuda, Tropical Storm Gordon_
+_Context: Atlantic Ocean, Bermuda, Tropical Storm Gordon_
 
 ### [ U.S. & New York leaders, along with families and friends of those who died in the September 11, 2001 attacks, remember the 5th anniversary of the attacks with speeches and moments of silence. ](/news/2006/09/11/u-s-new-york-leaders-along-with-families-and-friends-of-those-who-died-in-the-september-11-2001-attacks-remember-the-5th-anniversary.md)
 _Context: New York, September 11, 2001 attacks, United States, three minutes of silence_

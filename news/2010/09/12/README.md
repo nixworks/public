@@ -31,7 +31,7 @@ The Brazilian authorities say they have rescued 95 farm workers who were being k
 Specially trained dogs this evening found three victims, bringing the total to seven fatalities of the explosion, which happened at about 6:15 p.m. Thursday evening near Skyline Boulevard and San Bruno Avenue. Homes that have been completely destroyed will remain off-limits, while other residents whose houses have sustained moderate damage may only be allowed back to collect some belongings, said City Manager Connie Jackson.
 
 ### [2010 Atlantic hurricane season:Hurricane Igor strengthens to Category 4 in the Atlantic Ocean. ](/news/2010/09/12/2010-atlantic-hurricane-season-phurricane-igor-strengthens-to-category-4-in-the-atlantic-ocean.md)
-_Context: 2010 Atlantic hurricane season, Atlantic_
+_Context: 2010 Atlantic hurricane season, Atlantic Ocean_
 
 ### [Prime Minister of Israel Benjamin Netanyahu states that 10-month restrictions on the building of Israeli settlements in the West Bank will no longer apply after they expire later this month. ](/news/2010/09/12/prime-minister-of-israel-benjamin-netanyahu-states-that-10-month-restrictions-on-the-building-of-israeli-settlements-in-the-west-bank-will-n.md)
 Israeli PM says current restrictions on building in West Bank to end, but indicates possible limits on future building.

@@ -25,7 +25,7 @@ _Context: Denver, United States_
 The prime minister said he would dissolve the Islamist-led government after a politician, Chokri Belaid, was killed and thousands took to the streets in protest.
 
 ### [U.S. President Barack Obama nominates CEO of REI Sally Jewell to be the next Secretary of the Interior. ](/news/2013/02/6/u-s-president-barack-obama-nominates-ceo-of-rei-sally-jewell-to-be-the-next-secretary-of-the-interior.md)
-_Context: Barack Obama, President, REI, Sally Jewell, United States Secretary of the Interior, chief executive officer_
+_Context: Barack Obama, President, REI, Sally Jewell, Secretary of the Interior, chief executive officer_
 
 ## [Previous Day...](/news/2013/02/5/index.md)
 

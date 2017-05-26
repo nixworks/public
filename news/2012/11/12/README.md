@@ -1,6 +1,6 @@
 ## [2012-11-12](/news/2012/11/12/index.md)
 
-### [Syrian civil war: A second mortar shell from Syria has been fired at an Israeli military outpost in the Golan Heights, after a similar incident the day before. The Israel Defence Forces have responded with tank fire at the source of the bombardment, scoring several direct hits on artillery units belonging to the Syrian Army. ](/news/2012/11/12/syrian-civil-war-pa-second-mortar-shell-from-syria-has-been-fired-at-an-israeli-military-outpost-in-the-golan-heights-after-a-similar-inci.md)
+### [Syrian civil war:A second mortar shell from Syria has been fired at an Israeli military outpost in the Golan Heights, after a similar incident the day before. The Israel Defence Forces have responded with tank fire at the source of the bombardment, scoring several direct hits on artillery units belonging to the Syrian Army. ](/news/2012/11/12/syrian-civil-war-pa-second-mortar-shell-from-syria-has-been-fired-at-an-israeli-military-outpost-in-the-golan-heights-after-a-similar-incid.md)
 For a second consecutive day, Israel confronted fire along its border with Syria on Monday as the Israeli army said it fired shells toward the source of a mortar shell, hitting Syrian artillery units.
 
 ### [At least 38 police officers are killed in northern Kenya amid clashes with cattle rustlers. ](/news/2012/11/12/at-least-38-police-officers-are-killed-in-northern-kenya-amid-clashes-with-cattle-rustlers.md)

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [War in Somalia (2009-): A senior foreign commander is killed in a drone strike south of the Somali capital Mogadishu. ](/news/2012/01/22/war-in-somalia-2009a-pa-senior-foreign-commander-is-killed-in-a-drone-strike-south-of-the-somali-capital-mogadishu.md) _Context: Mogadishu, Somalia, War in Somalia (2009-)_
+1. [War in Somalia (2009-):A senior foreign commander is killed in a drone strike south of the Somali capital Mogadishu. ](/news/2012/01/22/war-in-somalia-2009a-pa-senior-foreign-commander-is-killed-in-a-drone-strike-south-of-the-somali-capital-mogadishu.md) _Context: Mogadishu, Somalia, War in Somalia (2009-)_
 2. [ Three civilians die during combat between Islamist insurgents and the African Union Mission in Mogadishu, Somalia. ](/news/2009/05/20/three-civilians-die-during-combat-between-islamist-insurgents-and-the-african-union-mission-in-mogadishu-somalia.md) _Context: Mogadishu, Somalia, War in Somalia (2009-)_
 3. [ Combat between the government and the Islamic Courts Union kills at least 123 people in Mogadishu, Somalia. ](/news/2009/05/12/combat-between-the-government-and-the-islamic-courts-union-kills-at-least-123-people-in-mogadishu-somalia.md) _Context: Mogadishu, Somalia, War in Somalia (2009-)_
 4. [A United States Navy SEAL is killed, becoming the first U.S. service member killed in Somalia since 1993, and three others are injured in a gunfight with al-Shabaab militants, west of Mogadishu.  ](/news/2017/05/6/a-united-states-navy-seal-is-killed-becoming-the-first-u-s-service-member-killed-in-somalia-since-1993-and-three-others-are-injured-in-a.md) _Context: Mogadishu, Somalia_

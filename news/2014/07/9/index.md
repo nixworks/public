@@ -16,7 +16,7 @@ _Context: President of Somalia, Somalia, War in Somalia (2009-present), al-Shaba
 Stocks finished higher on Wednesday, rebounding from a sharp two-day selloff, after minutes from the last Federal Reserve meeting showed policymakers have started to detail how the central bank will end its easy monetary policy.
 
 ### [Typhoon Neoguri leaves two dead on Okinawa as it departs for Japan's main islands threatening heavy rain. ](/news/2014/07/9/typhoon-neoguri-leaves-two-dead-on-okinawa-as-it-departs-for-japan-s-main-islands-threatening-heavy-rain.md)
-_Context: Japan, Okinawa, Pacific typhoon season, Typhoon Neoguri_
+_Context: 2014 Pacific typhoon season, Japan, Okinawa, Typhoon Neoguri_
 
 ### [South Korea claims that North Korea has fired two short range missiles into the ocean to the east of the Korean Peninsula. ](/news/2014/07/9/south-korea-claims-that-north-korea-has-fired-two-short-range-missiles-into-the-ocean-to-the-east-of-the-korean-peninsula.md)
 _Context: Korean Peninsula, North Korea, South Korea_

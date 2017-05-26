@@ -16,7 +16,7 @@ _Context: Council of the European Union, Lithuania, Lithuania adopts the euro, e
 Over 40 people are feared dead after a TransAsia Airways plane crashed Wednesday while making an emergency landing in bad weather in the Penghu Islands off the coast of Taiwan.
 
 ### [2014 Pacific typhoon season:The total death toll for Typhoon Rammasun (Glenda) reaches 151 as Typhoon Matmo (Henry) hits Taiwan. Typhoon Matmo has been described as a likely cause of the crash of Transasia Airways Flight 222.  ](/news/2014/07/23/2014-pacific-typhoon-season-pthe-total-death-toll-for-typhoon-rammasun-glenda-reaches-151-as-typhoon-matmo-henry-hits-taiwan-typhoon-ma.md)
-_Context: Pacific typhoon season, Taiwan, Typhoon Rammasun (Glenda)_
+_Context: 2014 Pacific typhoon season, Taiwan, Typhoon Rammasun (Glenda)_
 
 ### [A glitch in the United States Department of State Consular Consolidated Database causes delays to issuing of US passports and visas around the world. ](/news/2014/07/23/a-glitch-in-the-united-states-department-of-state-consular-consolidated-database-causes-delays-to-issuing-of-us-passports-and-visas-around-t.md)
 _Context: United States Department of State_

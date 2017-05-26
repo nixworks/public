@@ -1,6 +1,6 @@
 ### [2008-05-10](/news/2008/05/10/index.md)
 
-#  2008 unrest in Lebanon:  The Prime Minister of Lebanon Fuad Saniora accuses Hezbollah of staging "an armed coup" against Lebanon. 
+#  2008 unrest in Lebanon: The Prime Minister of Lebanon Fuad Saniora accuses Hezbollah of staging "an armed coup" against Lebanon. 
 
 
 

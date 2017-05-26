@@ -16,7 +16,7 @@ Germany&#039;s decision to expel the US CIA station chief in Berlin has met with
 _Context: Myanmar, Yangon_
 
 ### [Typhoon Neoguri hits the main Japanese island of Honshu causing flooding, landslides and three deaths. ](/news/2014/07/10/typhoon-neoguri-hits-the-main-japanese-island-of-honshu-causing-flooding-landslides-and-three-deaths.md)
-_Context: Honshu Island, Japan, Pacific typhoon season, Typhoon Neoguri_
+_Context: 2014 Pacific typhoon season, Honshu Island, Japan, Typhoon Neoguri_
 
 ## [Previous Day...](/news/2014/07/9/index.md)
 

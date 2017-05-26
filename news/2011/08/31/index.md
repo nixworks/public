@@ -22,7 +22,7 @@ _Context: Oklahoma!, Texas, wildfire_
 _Context: Hurricane Katia, Hurricane Rina, hurricane_
 
 ### [The High Court of Australia rules against plans by the government of Australia to send 800 asylum seekers to Malaysia. ](/news/2011/08/31/the-high-court-of-australia-rules-against-plans-by-the-government-of-australia-to-send-800-asylum-seekers-to-malaysia.md)
-_Context: Australia's government, High Court of Australia, Malaysia, asylum seeker_
+_Context: Government of Australia, High Court of Australia, Malaysia, asylum seeker_
 
 ## [Previous Day...](/news/2011/08/30/index.md)
 

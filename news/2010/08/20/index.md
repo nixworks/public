@@ -100,7 +100,7 @@ Thousands show support for Bakiyev-appointed official amid rumours of his dismis
 The Indian cabinet clears a proposal to raise the salaries of members of parliament by more than three-fold.
 
 ### [The Pentagon vows to prevent "internal threats" in the United States. ](/news/2010/08/20/the-pentagon-vows-to-prevent-internal-threats-in-the-united-states.md)
-_Context: The Pentagon, United States_
+_Context: United States, United States military_
 
 ### [More than half of politicians in Benin call for impeachment proceedings against President Boni Yayi over his involvement in a Ponzi scheme. ](/news/2010/08/20/more-than-half-of-politicians-in-benin-call-for-impeachment-proceedings-against-president-boni-yayi-over-his-involvement-in-a-ponzi-scheme.md)
 _Context: Beninese, Boni Yayi, Ponzi scheme, impeach_

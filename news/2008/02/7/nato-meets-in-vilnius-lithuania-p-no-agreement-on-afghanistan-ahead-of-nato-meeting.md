@@ -1,6 +1,6 @@
 ### [2008-02-7](/news/2008/02/7/index.md)
 
-#  NATO meets in Vilnius, Lithuania.  No agreement on Afghanistan ahead of NATO meeting. 
+#  NATO meets in Vilnius, Lithuania. No agreement on Afghanistan ahead of NATO meeting. 
 
 
 

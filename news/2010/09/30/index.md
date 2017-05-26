@@ -9,7 +9,7 @@ _Context: Afghanistan, Kandahar_
 ### [Two policemen and a civilian are killed and four others wounded in a failed bank robbery in southern Baghdad. ](/news/2010/09/30/two-policemen-and-a-civilian-are-killed-and-four-others-wounded-in-a-failed-bank-robbery-in-southern-baghdad.md)
 _Context: Baghdad_
 
-### [2010 Ecuador crisis	A state of emergency is declared in Ecuador after troops storm the international airport and police storm the Congress, in which the government declared was an attempted coup d'etat. ](/news/2010/09/30/2010-ecuador-crisis-pa-state-of-emergency-is-declared-in-ecuador-after-troops-storm-the-international-airport-and-police-storm-the-congress.md)
+### [A state of emergency is declared in Ecuador after troops storm the international airport and police storm the Congress, in which the government declared was an attempted coup d'etat. ](/news/2010/09/30/a-state-of-emergency-is-declared-in-ecuador-after-troops-storm-the-international-airport-and-police-storm-the-congress-in-which-the-governm.md)
 A state of emergency is declared in Ecuador after President Rafael Correa accuses the opposition and the security forces of a &quot;coup attempt&quot;.
 
 ### [A convoy of at least 27 fuel tankers headed for NATO forces in Afghanistan is attacked in Pakistan's Sindh province. ](/news/2010/09/30/a-convoy-of-at-least-27-fuel-tankers-headed-for-nato-forces-in-afghanistan-is-attacked-in-pakistan-s-sindh-province.md)

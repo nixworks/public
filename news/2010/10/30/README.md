@@ -9,7 +9,7 @@ _Context: Honduran_
 ### [NATO forces repel a Taliban attack on an outpost in Afghanistan's Paktika Province, killing at least 80 insurgents. ](/news/2010/10/30/nato-forces-repel-a-taliban-attack-on-an-outpost-in-afghanistan-s-paktika-province-killing-at-least-80-insurgents.md)
 At least 19 Taliban insurgents are killed after they launched an attack on a combat outpost in south-eastern Afghanistan, Nato forces say.
 
-### [2010 cargo plane bomb plot The United States searches on Saturday for the people behind the attempts to send mail bombs to Chicago synagogues. ](/news/2010/10/30/2010-cargo-plane-bomb-plot-pthe-united-states-searches-on-saturday-for-the-people-behind-the-attempts-to-send-mail-bombs-to-chicago-synagogu.md)
+### [The United States searches on Saturday for the people behind the attempts to send mail bombs to Chicago synagogues. ](/news/2010/10/30/the-united-states-searches-on-saturday-for-the-people-behind-the-attempts-to-send-mail-bombs-to-chicago-synagogues.md)
 The bomb found on a plane in the UK was designed to go off on the aircraft, the British PM says, as Yemen arrests a woman suspected of involvement.
 
 ### [President of Afghanistan Hamid Karzai reprimands Russia after its forces enter the country without permission and "violate Afghan sovereignty" in a joint mission with United States agents. Karzai orders an investigation.  ](/news/2010/10/30/president-of-afghanistan-hamid-karzai-reprimands-russia-after-its-forces-enter-the-country-without-permission-and-violate-afghan-sovereignt.md)

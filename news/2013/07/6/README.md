@@ -3,7 +3,7 @@
 ### [English rock band, Muse held a concert in Rome, which is called "Live at Rome Olympic Stadium". The concert become the first ever live concert recorded in 4K resolution. [http://www.muse.mu]](/news/2013/07/6/english-rock-band-muse-held-a-concert-in-rome-which-is-called-live-at-rome-olympic-stadium-the-concert-become-the-first-ever-live-conce.md)
 _Context: 4K resolution, Live at Rome Olympic Stadium, Muse, rock music_
 
-### [Nigerian Sharia conflict: Islamic extremists kill 42 people, mainly students, in an attack on the Government Secondary School boarding school in the Nigerian town of Mamudo in Yobe state. ](/news/2013/07/6/nigerian-sharia-conflict-pislamic-extremists-kill-42-people-mainly-students-in-an-attack-on-the-government-secondary-school-boarding-scho.md)
+### [Nigerian Sharia conflict:Islamic extremists kill 42 people, mainly students, in an attack on the Government Secondary School boarding school in the Nigerian town of Mamudo in Yobe state. ](/news/2013/07/6/nigerian-sharia-conflict-pislamic-extremists-kill-42-people-mainly-students-in-an-attack-on-the-government-secondary-school-boarding-schoo.md)
 _Context: Nigeria, Nigerian Sharia conflict, Yobe, boarding school, kill 42 people_
 
 ### [War in North-West Pakistan:A bomb in a market street kills 4 people and wounds 47 others in eastern Pakistan. ](/news/2013/07/6/war-in-north-west-pakistan-pa-bomb-in-a-market-street-kills-4-people-and-wounds-47-others-in-eastern-pakistan.md)

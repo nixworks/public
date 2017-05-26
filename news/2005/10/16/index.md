@@ -1,7 +1,7 @@
 ## [2005-10-16](/news/2005/10/16/index.md)
 
 ### [ Louis Farrakhan, leader of the Nation of Islam, addresses the Millions More event in Washington DC and condemns George W. Bush for the federal government's response to Hurricane Katrina. ](/news/2005/10/16/louis-farrakhan-leader-of-the-nation-of-islam-addresses-the-millions-more-event-in-washington-dc-and-condemns-george-w-bush-for-the-fede.md)
-_Context: American, George W. Bush, Hurricane Katrina, Louis Farrakhan, Millions More, Nation of Islam, Washington DC_
+_Context: George W. Bush, Hurricane Katrina, Louis Farrakhan, Millions More, Nation of Islam, United States, Washington DC_
 
 ### [ South Thailand insurgency: A Buddhist monk and five other people are killed and a Buddhist temple is set on fire. ](/news/2005/10/16/south-thailand-insurgency-a-buddhist-monk-and-five-other-people-are-killed-and-a-buddhist-temple-is-set-on-fire.md)
 _Context: Buddhist, South Thailand insurgency_

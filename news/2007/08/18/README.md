@@ -39,7 +39,7 @@ _Context: Alaska, Pavlof Volcano_
 ### [ Afghanistan: A suicide bomber kills at least 15 people in the southern Kandahar province. ](/news/2007/08/18/afghanistan-p-a-suicide-bomber-kills-at-least-15-people-in-the-southern-kandahar-province.md)
 _Context: Afghanistan, Kandahar Province, suicide bomber_
 
-### [ Hurricane Dean (2007):  Hurricane Dean has already claimed three lives in the Lesser Antilles and is due to pass south of Haiti and the Dominican Republic en route to Jamaica where emergency shelters have been opened. ](/news/2007/08/18/hurricane-dean-2007-p-hurricane-dean-has-already-claimed-three-lives-in-the-lesser-antilles-and-is-due-to-pass-south-of-haiti-and-the-do.md)
+### [ Hurricane Dean (2007): Hurricane Dean has already claimed three lives in the Lesser Antilles and is due to pass south of Haiti and the Dominican Republic en route to Jamaica where emergency shelters have been opened. ](/news/2007/08/18/hurricane-dean-2007-p-hurricane-dean-has-already-claimed-three-lives-in-the-lesser-antilles-and-is-due-to-pass-south-of-haiti-and-the-dom.md)
 U.S. President George W. Bush on Saturday approved a pre-landfall emergency declaration for Texas to provide federal help if the state is hit by Hurricane Dean, White House spokesman Gordon Johndroe said.
 
 ### [ An Atlas Jet plane en route from Nicosia in Cyprus to Istanbul in Turkey is hijacked. Some passengers were freed while the plane refueled in Antalya in southern Turkey. All 142 people escape unhurt while the hijackers surrender. ](/news/2007/08/18/an-atlas-jet-plane-en-route-from-nicosia-in-cyprus-to-istanbul-in-turkey-is-hijacked-some-passengers-were-freed-while-the-plane-refueled-i.md)

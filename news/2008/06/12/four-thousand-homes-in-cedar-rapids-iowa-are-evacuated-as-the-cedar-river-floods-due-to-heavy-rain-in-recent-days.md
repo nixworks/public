@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [ June 2008 Midwest United States floods:  The Governor of Iowa Chet Culver declares that 83 of the 99 counties in Iowa are disaster areas as flooding leads to evacuations in Cedar Rapids and Des Moines. ](/news/2008/06/13/june-2008-midwest-united-states-floods-p-the-governor-of-iowa-chet-culver-declares-that-83-of-the-99-counties-in-iowa-are-disaster-areas-a.md) _Context: Cedar Rapids_
+1. [ June 2008 Midwest United States floods: The Governor of Iowa Chet Culver declares that 83 of the 99 counties in Iowa are disaster areas as flooding leads to evacuations in Cedar Rapids and Des Moines. ](/news/2008/06/13/june-2008-midwest-united-states-floods-p-the-governor-of-iowa-chet-culver-declares-that-83-of-the-99-counties-in-iowa-are-disaster-areas-as.md) _Context: Cedar Rapids_

@@ -6,7 +6,7 @@ _Context: BBC, ITV, Michael Grade_
 ### [ The Supreme Court of the Democratic Republic of the Congo confirms that Joseph Kabila had won the 2006 presidential election. ](/news/2006/11/27/the-supreme-court-of-the-democratic-republic-of-the-congo-confirms-that-joseph-kabila-had-won-the-2006-presidential-election.md)
 _Context: Joseph Kabila, Supreme Court of the Democratic Republic of the Congo, presidential candidate in 2006_
 
-### [ Iraq War:  A U.S. F-16 fighter aircraft has gone down near the city of Fallujah in western Iraq. The United States Air Force said the plane's pilot was missing and an investigation into the cause of the incident has been launched. ](/news/2006/11/27/iraq-war-p-a-u-s-f-16-fighter-aircraft-has-gone-down-near-the-city-of-fallujah-in-western-iraq-the-united-states-air-force-said-the-plan.md)
+### [ Iraq War: A U.S. F-16 fighter aircraft has gone down near the city of Fallujah in western Iraq. The United States Air Force said the plane's pilot was missing and an investigation into the cause of the incident has been launched. ](/news/2006/11/27/iraq-war-p-a-u-s-f-16-fighter-aircraft-has-gone-down-near-the-city-of-fallujah-in-western-iraq-the-united-states-air-force-said-the-plane.md)
 _Context: F-16, Fallujah, Iraq, Iraq War, United States Air Force, downed by ground fire_
 
 ### [ Somali Civil War: The Islamic Courts Union that controls much of southern Somalia has revealed they would attack Ethiopian forces in Galkayo in Mudug province, central Somalia. ](/news/2006/11/27/somali-civil-war-the-islamic-courts-union-that-controls-much-of-southern-somalia-has-revealed-they-would-attack-ethiopian-forces-in-galkay.md)

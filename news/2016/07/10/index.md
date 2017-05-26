@@ -9,7 +9,7 @@ THE son of slain al Qaeda leader Osama bin Laden has threatened revenge against 
 ### [An ancient Philistine cemetery has been unearthed in Israel. ](/news/2016/07/10/an-ancient-philistine-cemetery-has-been-unearthed-in-israel.md)
 Archaeologists in Israel say they hope the discovery of a Philistine cemetery will shed new light on the mysterious migrant people.
 
-### [Foreign relations of the United States The United Arab Emirates and Bahrain issue a travel warning for their citizens heading to American cities where protests are occuring following ethnic tensions in the country. This comes after The Bahamas issued its own travel warning yesterday, after the shooting of Dallas police officers. ](/news/2016/07/10/foreign-relations-of-the-united-states-pthe-united-arab-emirates-and-bahrain-issue-a-travel-warning-for-their-citizens-heading-to-american-c.md)
+### [The United Arab Emirates and Bahrain issue a travel warning for their citizens heading to American cities where protests are occuring following ethnic tensions in the country. This comes after The Bahamas issued its own travel warning yesterday, after the shooting of Dallas police officers. ](/news/2016/07/10/the-united-arab-emirates-and-bahrain-issue-a-travel-warning-for-their-citizens-heading-to-american-cities-where-protests-are-occuring-follow.md)
 Middle East countries tell citizens to be careful around demonstrations following recent police shootings of black men.
 
 ### [Kem Ley, a popular Cambodian political commentator and frequent critic of Prime Minister Hun Sen, is shot dead at a gas station in Phnom Penh. ](/news/2016/07/10/kem-ley-a-popular-cambodian-political-commentator-and-frequent-critic-of-prime-minister-hun-sen-is-shot-dead-at-a-gas-station-in-phnom-pen.md)

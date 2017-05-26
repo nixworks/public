@@ -1,6 +1,6 @@
 ### [2016-11-17](/news/2016/11/17/index.md)
 
-# The 17th Annual Latin Grammy Awards are held at the T-Mobile Arena in Paradise, Nevada. [http://www.ew.com/article/2016/11/17/latin-grammy-awards-2016-winners-list (''Entertainment Weekly'')]"La Bicicleta" by Carlos Vives and Shakira wins the Latin Grammy Awards for Song of the Year and Record of the Year. Juan Gabriel posthumously wins the Latin Grammy Award for Album of the Year for ''Los Duo, Vol. 2''
+# The 17th Annual Latin Grammy Awards are held at the T-Mobile Arena in Paradise, Nevada. [http://www.ew.com/article/2016/11/17/latin-grammy-awards-2016-winners-list (''Entertainment Weekly'')]"La Bicicleta" by Carlos Vives and Shakira wins the Latin Grammy Awards for Song of the Year and Record of the Year.Juan Gabriel posthumously wins the Latin Grammy Award for Album of the Year for ''Los Duo, Vol. 2''
 
 
 

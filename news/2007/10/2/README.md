@@ -30,7 +30,7 @@ _Context: Kim Jong-il, Korean Demilitarized Zone, North Korea, President, Pyongy
 ### [ Manhattan Community Board 5 voted to add the Hotel Pennsylvania to the list of NYC Historic buildings. ](/news/2007/10/2/manhattan-community-board-5-voted-to-add-the-hotel-pennsylvania-to-the-list-of-nyc-historic-buildings.md)
 _Context: Hotel Pennsylvania, Manhattan Community Board 5_
 
-### [ 2007 Burmese anti-government protests:  United Nations special envoy Ibrahim Gambari meets with Burmese General Than Shwe to tell him to stop the killing of dissidents. ](/news/2007/10/2/2007-burmese-anti-government-protests-p-united-nations-special-envoy-ibrahim-gambari-meets-with-burmese-general-than-shwe-to-tell-him-to-s.md)
+### [ 2007 Burmese anti-government protests: United Nations special envoy Ibrahim Gambari meets with Burmese General Than Shwe to tell him to stop the killing of dissidents. ](/news/2007/10/2/2007-burmese-anti-government-protests-p-united-nations-special-envoy-ibrahim-gambari-meets-with-burmese-general-than-shwe-to-tell-him-to-st.md)
 _Context: 2007 Burmese anti-government protests, Burma, General, Ibrahim Gambari, Than Shwe, United Nations_
 
 ## [Previous Day...](/news/2007/10/1/index.md)

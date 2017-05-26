@@ -1,6 +1,6 @@
 ### [2011-06-10](/news/2011/06/10/index.md)
 
-# 2011 Syrian uprising: The Syrian Army begins operations to "restore security" to Jisr al-Shughour and the surrounding area. 
+# 2011 Syrian uprising:The Syrian Army begins operations to "restore security" to Jisr al-Shughour and the surrounding area. 
 
 Syrian state TV reports the army has begun operations in Jisr al-Shughour, where the government said 120 security troops were killed.
 
@@ -22,5 +22,5 @@ Syrian state TV reports the army has begun operations in Jisr al-Shughour, where
 6. [2011 Syrian uprising: Massive protests are planned against the President Bashar al-Assad, after recent raids by the Army. ](/news/2011/08/12/2011-syrian-uprising-massive-protests-are-planned-against-the-president-bashar-al-assad-after-recent-raids-by-the-army.md) _Context: 2011 Syrian uprising, Syrian Army_
 7. [2011 Syrian uprising: Human Rights Watch issues a report claiming that Syrian Army soldiers have been issued orders to shoot protesters participating in demonstrations. ](/news/2011/07/9/2011-syrian-uprising-human-rights-watch-issues-a-report-claiming-that-syrian-army-soldiers-have-been-issued-orders-to-shoot-protesters-part.md) _Context: 2011 Syrian uprising, Syrian Army_
 8. [2011 Syrian uprising: Over a thousand people flee Hama in fear of a government attack by the Syrian Army. ](/news/2011/07/7/2011-syrian-uprising-over-a-thousand-people-flee-hama-in-fear-of-a-government-attack-by-the-syrian-army.md) _Context: 2011 Syrian uprising, Syrian Army_
-9. [2011 Syrian uprising: At least 120 members of the Syrian security forces are killed in clashes in the northern town of Jisr al-Shughour, according to state media. ](/news/2011/06/6/2011-syrian-uprising-pat-least-120-members-of-the-syrian-security-forces-are-killed-in-clashes-in-the-northern-town-of-jisr-al-shughour-ac.md) _Context: 2011 Syrian uprising, Jisr al-Shughour_
+9. [2011 Syrian uprising:At least 120 members of the Syrian security forces are killed in clashes in the northern town of Jisr al-Shughour, according to state media. ](/news/2011/06/6/2011-syrian-uprising-pat-least-120-members-of-the-syrian-security-forces-are-killed-in-clashes-in-the-northern-town-of-jisr-al-shughour-acc.md) _Context: 2011 Syrian uprising, Jisr al-Shughour_
 10. [Syrian uprising:At least 34 more protesters are killed by Syrian security forces in protest marches dedicated to children who have died during the demonstrations. ](/news/2011/06/3/syrian-uprising-pat-least-34-more-protesters-are-killed-by-syrian-security-forces-in-protest-marches-dedicated-to-children-who-have-died-dur.md) _Context: 2011 Syrian uprising, Syrian Army_

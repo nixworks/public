@@ -1,6 +1,6 @@
 ### [2013-06-22](/news/2013/06/22/index.md)
 
-# Syrian Civil War: The Friends of Syria Group agrees to give urgent assistance to the rebels. 
+# Syrian Civil War:The Friends of Syria Group agrees to give urgent assistance to the rebels. 
 
 Western and Arab countries opposed to President Bashar al-Assad agreed at talks in Qatar on Saturday to give urgent military support to Syrian rebels fighting for his overthrow, and to channel it through a Western-backed rebel military command.
 

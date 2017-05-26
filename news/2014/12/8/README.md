@@ -3,7 +3,7 @@
 ### [Merck agrees to buy "superbug"-fighter Cubist Pharmaceuticals for $9.5 billion. ](/news/2014/12/8/merck-agrees-to-buy-superbug-fighter-cubist-pharmaceuticals-for-9-5-billion.md)
 Merck will buy Cubist Pharmaceuticals in a $9.5 billion deal, giving the major drugmaker an entry into the market for drugs that target so-called superbugs.
 
-### [Typhoon Hagupit The Philippine Red Cross estimates 27 people killed in Eastern Samar province with 15 in Borongan. ](/news/2014/12/8/typhoon-hagupit-pthe-philippine-red-cross-estimates-27-people-killed-in-eastern-samar-province-with-15-in-borongan.md)
+### [The Philippine Red Cross estimates 27 people killed in Eastern Samar province with 15 in Borongan. ](/news/2014/12/8/the-philippine-red-cross-estimates-27-people-killed-in-eastern-samar-province-with-15-in-borongan.md)
 Typhoon Hagupit weakened to a tropical storm as it churned close to the Philippine capital on Monday, after killing 27 people on the eastern island of Samar island where it flattened homes, toppled trees and cut power and communications.
 
 ### [Two raging fires in Los Angeles destroy a massive residential complex under construction, heavily damage a building undergoing renovations, and snarl rush hour traffic. ](/news/2014/12/8/two-raging-fires-in-los-angeles-destroy-a-massive-residential-complex-under-construction-heavily-damage-a-building-undergoing-renovations.md)

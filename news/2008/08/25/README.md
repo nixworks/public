@@ -7,7 +7,7 @@ _Context: Canada, Maple Leaf Foods, Toronto, listeriosis outbreak_
 _Context: 2008 National Convention, Colorado, D, Denver, U.S._
 
 ### [ Tropical Storm Gustav forms in the Atlantic Ocean and heads for the Dominican Republic and Haiti. ](/news/2008/08/25/tropical-storm-gustav-forms-in-the-atlantic-ocean-and-heads-for-the-dominican-republic-and-haiti.md)
-_Context: Atlantic, Dominican Republic, Haiti, Tropical Storm Gustav_
+_Context: Atlantic Ocean, Dominican Republic, Haiti, Tropical Storm Gustav_
 
 ### [ Former  Prime Minister Nawaz Sharif announces that he is withdrawing his Pakistan Muslim League (N) party from Pakistan's governing coalition. ](/news/2008/08/25/former-prime-minister-nawaz-sharif-announces-that-he-is-withdrawing-his-pakistan-muslim-league-n-party-from-pakistan-s-governing-coaliti.md)
 Nawaz Sharif pulls out of Pakistan&#039;s government, leaving a dangerously feeble regime even weaker.

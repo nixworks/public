@@ -1,6 +1,6 @@
 ### [2013-01-29](/news/2013/01/29/index.md)
 
-# Northern Mali conflict (2012-present): The UK announces it will deploy 330 military personnel to Mali and other West African countries in support of French forces operating in the area. 
+# Northern Mali conflict (2012-present):The UK announces it will deploy 330 military personnel to Mali and other West African countries in support of French forces operating in the area. 
 
 The UK is to deploy about 330 military personnel to Mali and West Africa to support French forces there, Downing Street says.
 
@@ -22,4 +22,4 @@ The UK is to deploy about 330 military personnel to Mali and West Africa to supp
 7. [Northern Mali conflict:10 Chadian soldiers and 28 Islamist insurgents are killed in heavy fighting in the Adrar des Ifoghas mountains of northern Mali. ](/news/2013/02/24/northern-mali-conflict-p10-chadian-soldiers-and-28-islamist-insurgents-are-killed-in-heavy-fighting-in-the-adrar-des-ifoghas-mountains-of-no.md) _Context: Mali, Northern Mali conflict (2012-present)_
 8. [Northern Mali conflict (2012-present):Insurgents launch an attack on the strategic city of Gao, capturing a police station and sparking a day-long firefight that included Malian troops, as well as French attack helicopters. ](/news/2013/02/11/northern-mali-conflict-2012apresent-pinsurgents-launch-an-attack-on-the-strategic-city-of-gao-capturing-a-police-station-and-sparking-a.md) _Context: Mali, Northern Mali conflict (2012-present)_
 9. [Northern Mali conflict (2012-present):Firefights between Islamists and the Malian Army break out in Gao, Mali. ](/news/2013/02/10/northern-mali-conflict-2012apresent-pfirefights-between-islamists-and-the-malian-army-break-out-in-gao-mali.md) _Context: Mali, Northern Mali conflict (2012-present)_
-10. [Northern Mali conflict (2012-present): French forces enter the city of Kidal in northern Mali after seizing its airport overnight. ](/news/2013/01/30/northern-mali-conflict-2012apresent-pfrench-forces-enter-the-city-of-kidal-in-northern-mali-after-seizing-its-airport-overnight.md) _Context: Mali, Northern Mali conflict (2012-present)_
+10. [Northern Mali conflict (2012-present):French forces enter the city of Kidal in northern Mali after seizing its airport overnight. ](/news/2013/01/30/northern-mali-conflict-2012apresent-pfrench-forces-enter-the-city-of-kidal-in-northern-mali-after-seizing-its-airport-overnight.md) _Context: Mali, Northern Mali conflict (2012-present)_

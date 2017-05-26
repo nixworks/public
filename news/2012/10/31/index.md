@@ -1,6 +1,6 @@
 ## [2012-10-31](/news/2012/10/31/index.md)
 
-### [Syrian civil war: A Syrian Air Force commander is assassinated by opposition forces in Damascus. ](/news/2012/10/31/syrian-civil-war-pa-syrian-air-force-commander-is-assassinated-by-opposition-forces-in-damascus.md)
+### [Syrian civil war:A Syrian Air Force commander is assassinated by opposition forces in Damascus. ](/news/2012/10/31/syrian-civil-war-pa-syrian-air-force-commander-is-assassinated-by-opposition-forces-in-damascus.md)
 The government announced that Gen. Abdullah Mahmud al-Khalidi was killed by “terrorists,” and a rebel coalition claimed responsibility.
 
 ### [The New York Stock Exchange reopens following a two-day closure due to Hurricane Sandy, with stocks trending lower. ](/news/2012/10/31/the-new-york-stock-exchange-reopens-following-a-two-day-closure-due-to-hurricane-sandy-with-stocks-trending-lower.md)

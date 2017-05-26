@@ -3,7 +3,7 @@
 ### [Syrian civil war:Four Filipino UN peacekeepers are kidnapped by armed men while patrolling the demilitarized area between Syria and the Israeli-annexed Golan Heights. ](/news/2013/05/7/syrian-civil-war-pfour-filipino-un-peacekeepers-are-kidnapped-by-armed-men-while-patrolling-the-demilitarized-area-between-syria-and-the-isr.md)
 Four Filipino UN peacekeepers are seized while patrolling the demilitarised area between Syria and the Israeli-occupied Golan Heights.
 
-### [Nigerian Sharia conflict: An attack in Nigeria, suspected to be perpetrated by Islamic sect Boko Haram, kills 55 people. ](/news/2013/05/7/nigerian-sharia-conflict-pan-attack-in-nigeria-suspected-to-be-perpetrated-by-islamic-sect-boko-haram-kills-55-people.md)
+### [Nigerian Sharia conflict:An attack in Nigeria, suspected to be perpetrated by Islamic sect Boko Haram, kills 55 people. ](/news/2013/05/7/nigerian-sharia-conflict-pan-attack-in-nigeria-suspected-to-be-perpetrated-by-islamic-sect-boko-haram-kills-55-people.md)
 The Nigerian Islamist sect Boko Haram is thought to have been behind a deadly siege on the northeastern town of Bama on Tuesday that left 55 people dead.
 
 ### [American special effects innovator Ray Harryhausen dies at the age of 92. ](/news/2013/05/7/american-special-effects-innovator-ray-harryhausen-dies-at-the-age-of-92.md)

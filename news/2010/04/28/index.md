@@ -22,7 +22,7 @@ A Palestinian demonstrator was shot dead and at least four other men died in a t
 An investigative report released Wednesday blames pilot error for the 2007 crash in Cameroon of a Kenya Airways flight.
 
 ### [United States Secretary of the Interior Ken Salazar approves Cape Wind, the nation's first off-shore wind farm. ](/news/2010/04/28/united-states-secretary-of-the-interior-ken-salazar-approves-cape-wind-the-nation-s-first-off-shore-wind-farm.md)
-_Context: Cape Wind, Ken Salazar, United States, United States Secretary of the Interior, wind farm_
+_Context: Cape Wind, Ken Salazar, Secretary of the Interior, United States, wind farm_
 
 ### [Team China is stripped of a 2000 Olympics bronze medal in women's gymnastics after it is revealed that one member of the team was underage. ](/news/2010/04/28/team-china-is-stripped-of-a-2000-olympics-bronze-medal-in-women-s-gymnastics-after-it-is-revealed-that-one-member-of-the-team-was-underage.md)
 The U.S. will be awarded the bronze medal after a female gymnast was found to be under-age at the 2000 Games.

@@ -1,6 +1,6 @@
 ### [2012-01-1](/news/2012/01/1/index.md)
 
-# Arab Spring:2011-2012 Syrian uprising: The Arab Inter-parliamentary Union, an advisory body to the Arab League, calls for the removal of its monitors in Syria, saying that they are inadvertently helping the government cover up ongoing violence. 
+# Arab Spring:2011-2012 Syrian uprising:The Arab Inter-parliamentary Union, an advisory body to the Arab League, calls for the removal of its monitors in Syria, saying that they are inadvertently helping the government cover up ongoing violence. 
 
 Arab League observers face calls for their immediate withdrawal, while divisions re-emerge among Syria opposition.
 

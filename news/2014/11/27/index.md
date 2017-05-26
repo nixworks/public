@@ -3,7 +3,7 @@
 ### [War in Afghanistan:A suicide bomber kills 5 in a targeted attack on a British embassy vehicle in Kabul, Afghanistan. ](/news/2014/11/27/war-in-afghanistan-pa-suicide-bomber-kills-5-in-a-targeted-attack-on-a-british-embassy-vehicle-in-kabul-afghanistan.md)
 A suicide bomber strikes a UK embassy vehicle in the Afghan capital Kabul, with a British worker and an Afghan staff member among those killed.
 
-### [Sudanese nomadic conflicts: At least 133 people were killed and 100 wounded, in the aftermath of clashes between Awlad Omran and Al-Ziyoud groups of the Mesiria tribe. The clashes occurred in the Kwak area of the West Kurdufan state, Sudan. ](/news/2014/11/27/sudanese-nomadic-conflicts-pat-least-133-people-were-killed-and-100-wounded-in-the-aftermath-of-clashes-between-awlad-omran-and-al-ziyoud.md)
+### [Sudanese nomadic conflicts:At least 133 people were killed and 100 wounded, in the aftermath of clashes between Awlad Omran and Al-Ziyoud groups of the Mesiria tribe. The clashes occurred in the Kwak area of the West Kurdufan state, Sudan. ](/news/2014/11/27/sudanese-nomadic-conflicts-pat-least-133-people-were-killed-and-100-wounded-in-the-aftermath-of-clashes-between-awlad-omran-and-al-ziyoud-g.md)
 News - Your daily dose of information: European and International latest breaking news, economic news, business news and more. Stay up to date with Euronews.
 
 ### [Islamist insurgency in Nigeria:A roadside bomb planted at a bus station near the town of Mubi in northeastern Nigeria kills 40, including 5 soldiers. ](/news/2014/11/27/islamist-insurgency-in-nigeria-pa-roadside-bomb-planted-at-a-bus-station-near-the-town-of-mubi-in-northeastern-nigeria-kills-40-including-5.md)

@@ -15,7 +15,7 @@ _Context: General Motors, airbag_
 ### [An engineer from Volkswagen pleads guilty for his role in the emissions cheating scandal. ](/news/2016/09/9/an-engineer-from-volkswagen-pleads-guilty-for-his-role-in-the-emissions-cheating-scandal.md)
 A Volkswagen engineer from Southern California pleaded guilty to charges he helped design and implement a software system that enabled the automaker’s diesel engines defeat emissions tests.
 
-### [Dakota Access Pipeline A U.S. federal judge denies a request to stop construction of a pipeline that runs through the Standing Rock Reservation of the Sioux people. ](/news/2016/09/9/dakota-access-pipeline-pa-u-s-federal-judge-denies-a-request-to-stop-construction-of-a-pipeline-that-runs-through-the-standing-rock-reserva.md)
+### [A U.S. federal judge denies a request to stop construction of a pipeline that runs through the Standing Rock Reservation of the Sioux people. ](/news/2016/09/9/a-u-s-federal-judge-denies-a-request-to-stop-construction-of-a-pipeline-that-runs-through-the-standing-rock-reservation-of-the-sioux-people.md)
 But federal authorities quickly said the pipeline near a lake will not go forward pending more reviews, and said the case highlights need for reform.
 
 ### [One or more unnamed authors at the European Commission, in their internal discussion, regards the United Kingdom as having lost direction in its Brexit policy and planning and thinks the UK will eventually 'plead' for a deal. ](/news/2016/09/9/one-or-more-unnamed-authors-at-the-european-commission-in-their-internal-discussion-regards-the-united-kingdom-as-having-lost-direction-in.md)

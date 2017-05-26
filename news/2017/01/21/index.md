@@ -1,6 +1,6 @@
 ## [2017-01-21](/news/2017/01/21/index.md)
 
-### [War in North-West Pakistan At least 22 people are killed and around 90 injured after a bomb explodes at a vegetable market in Parachinar in the Federally Administered Tribal Areas of Pakistan. ](/news/2017/01/21/war-in-north-west-pakistan-pat-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetable-market-in-parachinar-in.md)
+### [At least 22 people are killed and around 90 injured after a bomb explodes at a vegetable market in Parachinar in the Federally Administered Tribal Areas of Pakistan. ](/news/2017/01/21/at-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetable-market-in-parachinar-in-the-federally-administered.md)
 The blast happened at the time when dozens of people were busy shopping in the vegetable market located in Parachinar area of Kurram Agency, a semi-autonomous tribal region along Pakistan-Afghanistan.
 
 ### [A car bomb attack occurs in the Rakban refugee camp near the Jordanian border. Casualty counts are currently unknown and no one has yet taken credit for the attack. ](/news/2017/01/21/a-car-bomb-attack-occurs-in-the-rakban-refugee-camp-near-the-jordanian-border-casualty-counts-are-currently-unknown-and-no-one-has-yet-take.md)

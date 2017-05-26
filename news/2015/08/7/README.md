@@ -12,7 +12,7 @@ Group tells the girls&#039; families not to expect their bodies for burial
 ### [North Korea will change its time zone to UTC+08:30 on August 15, returning to the time used by the Korean Empire until Japanese occupation in 1910. ](/news/2015/08/7/north-korea-will-change-its-time-zone-to-utc-08-30-on-august-15-returning-to-the-time-used-by-the-korean-empire-until-japanese-occupation-i.md)
 North Korea will put its standard time back by half an hour on 15 August to break from the time zone imposed by &quot;wicked&quot; imperialist Japan.
 
-### [2015 Pacific typhoon season	Taiwan evacuates hundreds of people ahead of Typhoon Soudelor (2015). ](/news/2015/08/7/2015-pacific-typhoon-season-ptaiwan-evacuates-hundreds-of-people-ahead-of-typhoon-soudelor-2015.md)
+### [Taiwan evacuates hundreds of people ahead of Typhoon Soudelor (2015). ](/news/2015/08/7/taiwan-evacuates-hundreds-of-people-ahead-of-typhoon-soudelor-2015.md)
 Taiwan evacuated hundreds of people from their homes on Friday as the strongest typhoon to threaten the island in two years churned towards it and was expected to make landfall early on Saturday.
 
 ### [The United Nations Security Council unanimously adopts a resolution aimed at identifying those responsible for deploying chlorine and other chemical weapons in attacks in Syria. ](/news/2015/08/7/the-united-nations-security-council-unanimously-adopts-a-resolution-aimed-at-identifying-those-responsible-for-deploying-chlorine-and-other.md)

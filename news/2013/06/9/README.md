@@ -21,7 +21,7 @@ _Context: Lagos_
 ### [An outbreak of Hepatitis A linked to a fruit juice product made by Townsend Farms sickens 79 people in the United States. ](/news/2013/06/9/an-outbreak-of-hepatitis-a-linked-to-a-fruit-juice-product-made-by-townsend-farms-sickens-79-people-in-the-united-states.md)
 _Context: Hepatitis A_
 
-### [U.S. government surveillance programs (including PRISM): A former CIA employee named Edward Snowden comes forward as the source of recent NSA leaks in the United States. Fearful of prosecution for his actions, he defects to Hong Kong. ](/news/2013/06/9/u-s-government-surveillance-programs-including-prism-pa-former-cia-employee-named-edward-snowden-comes-forward-as-the-source-of-recent-n.md)
+### [U.S. government surveillance programs (including PRISM):A former CIA employee named Edward Snowden comes forward as the source of recent NSA leaks in the United States. Fearful of prosecution for his actions, he defects to Hong Kong. ](/news/2013/06/9/u-s-government-surveillance-programs-including-prism-pa-former-cia-employee-named-edward-snowden-comes-forward-as-the-source-of-recent-ns.md)
 Some in the administration and Congress say whoever leaked the information should be prosecuted.
 
 ### [300 Muslims are arrested in Moscow, Russia while they pray at a mosque in an apparent crackdown on radical Islam. ](/news/2013/06/9/300-muslims-are-arrested-in-moscow-russia-while-they-pray-at-a-mosque-in-an-apparent-crackdown-on-radical-islam.md)

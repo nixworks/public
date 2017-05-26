@@ -13,7 +13,7 @@ Small-scale possession is decriminalised as part of attempt to focus on traffick
 ### Related:
 
 1. [ The Congress of Mexico passes a bill which, if signed by the President, will decriminalize possession of small amounts of marijuana, cocaine, heroin, opium, LSD, hallucinogenic mushrooms, amphetamines, and peyote. ](/news/2006/04/28/the-congress-of-mexico-passes-a-bill-which-if-signed-by-the-president-will-decriminalize-possession-of-small-amounts-of-marijuana-cocain.md) _Context: cocaine, heroin, marijuana_
-2. [Vermont governor Phil Scott (R) vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-r-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _Context: marijuana_
+2. [Vermont governor Phil Scott vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _Context: marijuana_
 3. [An unknown gunman shoots and kills veteran journalist Javier Valdez Crdenas, who is noted for his investigative reporting on Mexico's war on drugs, in Culiacn, Sinaloa. ](/news/2017/05/15/an-unknown-gunman-shoots-and-kills-veteran-journalist-javier-valdez-cardenas-who-is-noted-for-his-investigative-reporting-on-mexico-s-war-o.md) _Context: Mexico_
 4. [Ciudad Juarez-based newspaper ''Norte'' closes its print edition, citing a lack of security in Mexico. ](/news/2017/04/2/ciudad-jua-rez-based-newspaper-norte-closes-its-print-edition-citing-a-lack-of-security-in-mexico.md) _Context: Mexico_
 5. [Mexico states that it will reject third-country deportees. ](/news/2017/02/24/mexico-states-that-it-will-reject-third-country-deportees.md) _Context: Mexico_

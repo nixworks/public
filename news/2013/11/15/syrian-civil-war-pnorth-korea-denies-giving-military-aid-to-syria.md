@@ -1,6 +1,6 @@
 ### [2013-11-15](/news/2013/11/15/index.md)
 
-# Syrian civil war: North Korea denies giving military aid to Syria. 
+# Syrian civil war:North Korea denies giving military aid to Syria. 
 
 
 

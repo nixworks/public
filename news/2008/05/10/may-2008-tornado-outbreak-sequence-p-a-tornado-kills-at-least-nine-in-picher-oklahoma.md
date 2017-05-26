@@ -1,6 +1,6 @@
 ### [2008-05-10](/news/2008/05/10/index.md)
 
-#  May 2008 tornado outbreak sequence:  A tornado kills at least nine in Picher, Oklahoma. 
+#  May 2008 tornado outbreak sequence: A tornado kills at least nine in Picher, Oklahoma. 
 
 
 

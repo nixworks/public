@@ -13,7 +13,7 @@
 
 1. [2013 Savar building collapse:The death toll rises to 1,006 - Bangladesh's worst industrial accident and the deadliest structural collapse in modern human history. ](/news/2013/05/9/2013-savar-building-collapse-pthe-death-toll-rises-to-1-006-bangladesh-s-worst-industrial-accident-and-the-deadliest-structural-collapse-i.md) _Context: 2013 Savar building collapse_
 2. [2013 Savar building collapse:The death toll in Bangladesh rises to 823. ](/news/2013/05/8/2013-savar-building-collapse-pthe-death-toll-in-bangladesh-rises-to-823.md) _Context: 2013 Savar building collapse_
-3. [2013 Savar building collapse: The death toll in Bangladesh rises to 622. ](/news/2013/05/5/2013-savar-building-collapse-pthe-death-toll-in-bangladesh-rises-to-622.md) _Context: 2013 Savar building collapse_
+3. [2013 Savar building collapse:The death toll in Bangladesh rises to 622. ](/news/2013/05/5/2013-savar-building-collapse-pthe-death-toll-in-bangladesh-rises-to-622.md) _Context: 2013 Savar building collapse_
 4. [2013 Savar building collapse:The death toll in Bangladesh rises to 547. ](/news/2013/05/3/2013-savar-building-collapse-pthe-death-toll-in-bangladesh-rises-to-547.md) _Context: 2013 Savar building collapse_
 5. [The search of the wreckage of the 2013 Savar building collapse in Bangladesh ends with 1,127 people found dead. ](/news/2013/05/13/the-search-of-the-wreckage-of-the-2013-savar-building-collapse-in-bangladesh-ends-with-1-127-people-found-dead.md) _Context: 2013 Savar building collapse_
 6. [2013 Savar building collapse:The death toll reaches 1,042 with many people still missing. ](/news/2013/05/10/2013-savar-building-collapse-pthe-death-toll-reaches-1-042-with-many-people-still-missing.md) _Context: 2013 Savar building collapse_

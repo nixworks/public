@@ -1,6 +1,6 @@
 ## [2003-12-1](/news/2003/12/1/index.md)
 
-### [ Occupation of Iraq:  The firefight in which more than 50 Iraqis are reported killed is now thought to have been an attempted currency heist. ](/news/2003/12/1/occupation-of-iraq-p-the-firefight-in-which-more-than-50-iraqis-are-reported-killed-is-now-thought-to-have-been-an-attempted-currency-heis.md)
+### [ Occupation of Iraq: The firefight in which more than 50 Iraqis are reported killed is now thought to have been an attempted currency heist. ](/news/2003/12/1/occupation-of-iraq-p-the-firefight-in-which-more-than-50-iraqis-are-reported-killed-is-now-thought-to-have-been-an-attempted-currency-heist.md)
 _Context: Iraq, Occupation of Iraq, currency_
 
 ### [ World AIDS Day: US Health Secretary Tommy Thompson warns that the world is losing the war against AIDS. Thompson said, "We need America, the European Union and everybody. Nobody is going to be spared unless we all come together in the fight against this disease." ](/news/2003/12/1/world-aids-day-p-us-health-secretary-tommy-thompson-warns-that-the-world-is-losing-the-war-against-aids-thompson-said-we-need-america-t.md)

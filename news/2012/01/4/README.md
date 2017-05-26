@@ -28,7 +28,7 @@ _Context: Amado Boudou, Cristina Kirchner, President of Argentina, thyroid cance
 _Context: 2012 Iowa Caucus, Mitt Romney, Republican primaries, Rick Santorum, Ron Paul_
 
 ### [Former Prime Minister of Greece George Papandreou announces that he will resign as head of the Panhellenic Socialist Movement. ](/news/2012/01/4/former-prime-minister-of-greece-george-papandreou-announces-that-he-will-resign-as-head-of-the-panhellenic-socialist-movement.md)
-_Context: George Papandreou, Greek prime minister, PASOK_
+_Context: George Papandreou, Greek Prime Minister, PASOK_
 
 ### [Armed commandos will be ordered to protect endangered tigers in India's Bandipur and Nagarhole national parks. ](/news/2012/01/4/armed-commandos-will-be-ordered-to-protect-endangered-tigers-in-india-s-bandipur-and-nagarhole-national-parks.md)
 Armed commandos are to be deployed in the jungles of southern India to deter poachers from capturing and killing endangered tigers.

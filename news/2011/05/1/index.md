@@ -49,7 +49,7 @@ Hundreds of thousands of Cubans turn out for May Day parades in what was billed 
 _Context: Fukushima I nuclear accidents, International Atomic Energy Agency, Japan_
 
 ### [The Memory Unit of the Flight Data Recorder from Air France 447 is recovered from the bottom of the Atlantic Ocean, nearly two years after the jet crashed. ](/news/2011/05/1/the-memory-unit-of-the-flight-data-recorder-from-air-france-447-is-recovered-from-the-bottom-of-the-atlantic-ocean-nearly-two-years-after-t.md)
-_Context: Air France 447, Atlantic, flight data recorder_
+_Context: Air France 447, Atlantic Ocean, flight data recorder_
 
 ### [The Indian Air Force searches unsuccessfully for a helicopter containing Dorjee Khandu, the Chief Minister of Arunachal Pradesh state and four others. ](/news/2011/05/1/the-indian-air-force-searches-unsuccessfully-for-a-helicopter-containing-dorjee-khandu-the-chief-minister-of-arunachal-pradesh-state-and-fo.md)
 _Context: Arunachal Pradesh, Chief Minister, Dorjee Khandu, Indian Air Force, helicopter_

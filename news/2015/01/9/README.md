@@ -27,7 +27,7 @@ Raif Badawi was sentenced to 10 years in prison and 1,000 lashes, the remainder 
 ### [A shooting into a car in San Francisco, California, U.S., leaves four men dead. ](/news/2015/01/9/a-shooting-into-a-car-in-san-francisco-california-u-s-leaves-four-men-dead.md)
 (Reuters) - Four men were shot dead in a car in a trendy neighborhood in San Francisco, California late on Friday evening, local media reported. Gunfire erupted at about 10 p.m. local time in the Hayes Valley neighborhood, said the San Francisco Chronicle newspaper, citing police. It said no arrests
 
-### [Sri Lankan presidential election, 2015 Mahinda Rajapaksa concedes defeat to Maithripala Sirisena. ](/news/2015/01/9/sri-lankan-presidential-election-2015-pmahinda-rajapaksa-concedes-defeat-to-maithripala-sirisena.md)
+### [Mahinda Rajapaksa concedes defeat to Maithripala Sirisena. ](/news/2015/01/9/mahinda-rajapaksa-concedes-defeat-to-maithripala-sirisena.md)
 Shock as authoritarian president’s office reports that he has left official residence
 
 ### [Barack Obama proposes a new program to waive tuition at community colleges in the United States for the first two years. ](/news/2015/01/9/barack-obama-proposes-a-new-program-to-waive-tuition-at-community-colleges-in-the-united-states-for-the-first-two-years.md)

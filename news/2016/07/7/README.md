@@ -6,7 +6,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 ### [The Eastern Bloc of the FARC-EP, a unit of the FARC rebel group, announces its rejection of the recent ceasefire signed by its leader Timoleon Jimenez and the Colombian government of President Juan Manuel Santos, declaring it will not lay down its arms and demobilize and will continue to fight the government. ](/news/2016/07/7/the-eastern-bloc-of-the-farc-ep-a-unit-of-the-farc-rebel-group-announces-its-rejection-of-the-recent-ceasefire-signed-by-its-leader-timole.md)
 Armando Rios First Front calls on other units to join in the ‘fight for the taking of power by the people for the people’
 
-### [Iraqi Civil War (2014-present) At least 35 people are killed and 60 others injured in an attack on a Shiite mausoleum located in north of Baghdad. Islamic State in Iraq and the Levant have claimed responsibility. ](/news/2016/07/7/iraqi-civil-war-2014apresent-pat-least-35-people-are-killed-and-60-others-injured-in-an-attack-on-a-shiite-mausoleum-located-in-north-of.md)
+### [At least 35 people are killed and 60 others injured in an attack on a Shiite mausoleum located in north of Baghdad. Islamic State in Iraq and the Levant have claimed responsibility. ](/news/2016/07/7/at-least-35-people-are-killed-and-60-others-injured-in-an-attack-on-a-shiite-mausoleum-located-in-north-of-baghdad-islamic-state-in-iraq-an.md)
 _Context: Baghdad, Iraqi Civil War (2014-present), Islamic State in Iraq and the Levant, Shiite, mausoleum_
 
 ### [French food company Danone agrees to buy American company WhiteWave Foods for $10 billion. ](/news/2016/07/7/french-food-company-danone-agrees-to-buy-american-company-whitewave-foods-for-10-billion.md)

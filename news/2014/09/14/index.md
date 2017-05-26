@@ -19,7 +19,7 @@ Forty people died after a building collapse at the megachurch of one of Nigeria&
 _Context: 2014 Pacific hurricane season, Baja California, Hurricane Odile, Mexico_
 
 ### [Typhoon Kalmaegi hits the northeast Philippines with warnings of potential floods and landslides. ](/news/2014/09/14/typhoon-kalmaegi-hits-the-northeast-philippines-with-warnings-of-potential-floods-and-landslides.md)
-_Context: Pacific typhoon season, Philippines, Typhoon Kalmaegi_
+_Context: 2014 Pacific typhoon season, Philippines, Typhoon Kalmaegi_
 
 ### [A boat carrying 250 people from Africa to Europe sinks off the coast off Tajoura in Libya with most people feared drowned. ](/news/2014/09/14/a-boat-carrying-250-people-from-africa-to-europe-sinks-off-the-coast-off-tajoura-in-libya-with-most-people-feared-drowned.md)
 _Context: Africa, Europe, Libya, Tajoura_

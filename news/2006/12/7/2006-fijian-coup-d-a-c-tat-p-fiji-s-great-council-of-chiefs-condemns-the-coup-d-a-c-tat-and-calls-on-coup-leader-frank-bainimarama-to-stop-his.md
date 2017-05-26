@@ -1,6 +1,6 @@
 ### [2006-12-7](/news/2006/12/7/index.md)
 
-#  2006 Fijian coup d'etat:  Fiji's Great Council of Chiefs condemns the coup d'etat and calls on coup leader Frank Bainimarama to stop his activities. It refuses to meet with him. 
+#  2006 Fijian coup d'etat: Fiji's Great Council of Chiefs condemns the coup d'etat and calls on coup leader Frank Bainimarama to stop his activities. It refuses to meet with him. 
 
 
 

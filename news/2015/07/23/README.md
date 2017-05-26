@@ -6,7 +6,7 @@ First cross-border clashes between Turkey and Isil break out after Turkish soldi
 ### [China's People's Liberation Army conducts a series of military exercises simulating an attack on Taiwan's Presidential Office Building. ](/news/2015/07/23/china-s-people-s-liberation-army-conducts-a-series-of-military-exercises-simulating-an-attack-on-taiwan-s-presidential-office-building.md)
 This is pretty scary if you&#039;re Taiwanese.
 
-### [ Greek government-debt crisis timeline  A majority in the Greek parliament votes to approve a second bailout reform package. ](/news/2015/07/23/greek-government-debt-crisis-timeline-p-a-majority-in-the-greek-parliament-votes-to-approve-a-second-bailout-reform-package.md)
+### [  A majority in the Greek parliament votes to approve a second bailout reform package. ](/news/2015/07/23/a-majority-in-the-greek-parliament-votes-to-approve-a-second-bailout-reform-package.md)
 _Context: Greek government-debt crisis timeline, Hellenic Parliament, bailout_
 
 ### [ Pearson PLC agrees to sell Financial Times Group to Nikkei Inc. for PS844 million. ](/news/2015/07/23/pearson-plc-agrees-to-sell-financial-times-group-to-nikkei-inc-for-aps844-million.md)

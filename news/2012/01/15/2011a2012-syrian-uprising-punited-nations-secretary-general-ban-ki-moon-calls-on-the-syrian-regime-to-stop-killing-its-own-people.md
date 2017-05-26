@@ -1,6 +1,6 @@
 ### [2012-01-15](/news/2012/01/15/index.md)
 
-# 2011-2012 Syrian uprising: United Nations Secretary-General Ban Ki-moon calls on the Syrian regime to "stop killing its own people". 
+# 2011-2012 Syrian uprising:United Nations Secretary-General Ban Ki-moon calls on the Syrian regime to "stop killing its own people". 
 
 United Nations Secretary-General Ban Ki-Moon Sunday called on Syria’s President Bashar Assad to stop killing his own people.
 

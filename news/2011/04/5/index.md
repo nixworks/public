@@ -1,6 +1,6 @@
 ## [2011-04-5](/news/2011/04/5/index.md)
 
-### [2010-2011 Ivorian crisis: Forces loyal to Alassane Ouattara claim to have captured Laurent Gbagbo's Presidential Palace in Abidjan. ](/news/2011/04/5/2010a2011-ivorian-crisis-pforces-loyal-to-alassane-ouattara-claim-to-have-captured-laurent-gbagbo-s-presidential-palace-in-abidjan.md)
+### [2010-2011 Ivorian crisis:Forces loyal to Alassane Ouattara claim to have captured Laurent Gbagbo's Presidential Palace in Abidjan. ](/news/2011/04/5/2010a2011-ivorian-crisis-pforces-loyal-to-alassane-ouattara-claim-to-have-captured-laurent-gbagbo-s-presidential-palace-in-abidjan.md)
 _Context: 2010-2011 Ivorian crisis, Abidjan, Alassane Ouattara, Laurent Gbagbo, Presidential Palace_
 
 ### [1,000 students protest at Kabul University as protests continue in Afghanistan over the burning of a Qur'an "found guilty" by pastor Terry Jones' church in the U.S. state of Florida. ](/news/2011/04/5/1-000-students-protest-at-kabul-university-as-protests-continue-in-afghanistan-over-the-burning-of-a-qur-an-found-guilty-by-pastor-terry-j.md)

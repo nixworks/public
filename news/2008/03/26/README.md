@@ -12,7 +12,7 @@ _Context: Cairo, Egypt, Suez Canal, U.S. Navy, United States_
 ### [ 2008 unrest in Tibet: The first foreign journalists allowed in Tibet since the outbreak of the unrest arrive in Lhasa. ](/news/2008/03/26/2008-unrest-in-tibet-p-the-first-foreign-journalists-allowed-in-tibet-since-the-outbreak-of-the-unrest-arrive-in-lhasa.md)
 President Bush has told Chinese President Hu Jintao that a mistake was made in the shipment of nuclear missile fuses to Taiwan.
 
-### [ Iraq war:  The death toll from the Battle of Basra (2008) rises to 40 dead and 200 injured in two days of fighting between Shiite militias and the Iraqi military. ](/news/2008/03/26/iraq-war-p-the-death-toll-from-the-battle-of-basra-2008-rises-to-40-dead-and-200-injured-in-two-days-of-fighting-between-shiite-militias.md)
+### [ Iraq war: The death toll from the Battle of Basra (2008) rises to 40 dead and 200 injured in two days of fighting between Shiite militias and the Iraqi military. ](/news/2008/03/26/iraq-war-p-the-death-toll-from-the-battle-of-basra-2008-rises-to-40-dead-and-200-injured-in-two-days-of-fighting-between-shiite-militias.md)
 _Context: Battle of Basra (2008), Iraq War, Iraqi security forces, Shiite_
 
 ### [ The South Korean government decides to vote for a resolution on North Korean human rights violations in the United Nations Human Rights Council. ](/news/2008/03/26/the-south-korean-government-decides-to-vote-for-a-resolution-on-north-korean-human-rights-violations-in-the-united-nations-human-rights-cou.md)

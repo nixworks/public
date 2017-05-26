@@ -6,7 +6,7 @@ _Context: Afghan police, Kandahar, War in Afghanistan (2001-present)_
 ### [Syrian civil war:Reports claim that elite Syrian military forces shell the town of Darayya just southwest of Damascus. ](/news/2013/01/27/syrian-civil-war-preports-claim-that-elite-syrian-military-forces-shell-the-town-of-darayya-just-southwest-of-damascus.md)
 _Context: Damascus, Darayya, Syria, Syrian Civil War_
 
-### [Northern Mali conflict (2012-present): French forces prepare an attack on Timbuktu to defeat Islamists, as more African troops are sent into Mali. ](/news/2013/01/27/northern-mali-conflict-2012apresent-pfrench-forces-prepare-an-attack-on-timbuktu-to-defeat-islamists-as-more-african-troops-are-sent-i.md)
+### [Northern Mali conflict (2012-present):French forces prepare an attack on Timbuktu to defeat Islamists, as more African troops are sent into Mali. ](/news/2013/01/27/northern-mali-conflict-2012apresent-pfrench-forces-prepare-an-attack-on-timbuktu-to-defeat-islamists-as-more-african-troops-are-sent-in.md)
 French and Malian forces move on Timbuktu after recapturing other northern towns from rebels, as African states discuss sending more troops.
 
 ### [2012-2013 Egyptian protests:Seven more people are killed and 630 injured during the funerals for 33 people killed the day before in Port Said. ](/news/2013/01/27/2012a2013-egyptian-protests-pseven-more-people-are-killed-and-630-injured-during-the-funerals-for-33-people-killed-the-day-before-in-port.md)

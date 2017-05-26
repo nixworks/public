@@ -6,7 +6,7 @@ _Context: 524 East 72nd Street, Cory Lidle, Manhattan, New York City, Upper East
 ### [ Minutes from the United States Federal Reserve meeting held on September 20 predict a "modestly better inflation outlook" due to a softening economy and lower energy prices. The Federal Reserve held interest rates steady. ](/news/2006/10/11/minutes-from-the-united-states-federal-reserve-meeting-held-on-september-20-predict-a-modestly-better-inflation-outlook-due-to-a-softenin.md)
 _Context: Federal Reserve, inflation_
 
-### [ Iraq War:  An estimated 655,000 Iraqis have died since 2003 who might still be alive but for the US-led invasion, according to a survey by Johns Hopkins Bloomberg School of Public Health. The study is in dispute though since The Iraqi Ministry of Health places the death toll at 50,000. ](/news/2006/10/11/iraq-war-p-an-estimated-655-000-iraqis-have-died-since-2003-who-might-still-be-alive-but-for-the-us-led-invasion-according-to-a-survey-by.md)
+### [ Iraq War: An estimated 655,000 Iraqis have died since 2003 who might still be alive but for the US-led invasion, according to a survey by Johns Hopkins Bloomberg School of Public Health. The study is in dispute though since The Iraqi Ministry of Health places the death toll at 50,000. ](/news/2006/10/11/iraq-war-p-an-estimated-655-000-iraqis-have-died-since-2003-who-might-still-be-alive-but-for-the-us-led-invasion-according-to-a-survey-by.md)
 _Context: 2003, Iraq, Iraq War, Johns Hopkins Bloomberg School of Public Health, incursions_
 
 ### [ Twelve people have died following a train crash at Zoufftgen in north-east France, near the Luxembourg border. ](/news/2006/10/11/twelve-people-have-died-following-a-train-crash-at-zoufftgen-in-north-east-france-near-the-luxembourg-border.md)

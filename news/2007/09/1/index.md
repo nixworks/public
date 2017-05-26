@@ -82,7 +82,7 @@ _Context: Asia-Pacific Economic Cooperation, Sydney, concrete, steel_
 _Context: Malaysia, dengue fever_
 
 ### [ 2007 Greek forest fires: The Prime Minister of Greece Costas Karamanlis says that the fires are now under control after killing 64 people and causing PS800 million worth of damage. ](/news/2007/09/1/2007-greek-forest-fires-the-prime-minister-of-greece-costas-karamanlis-says-that-the-fires-are-now-under-control-after-killing-64-people-a.md)
-_Context: 2007 Greek forest fires, Costas Karamanlis, Greek prime minister, PS_
+_Context: 2007 Greek forest fires, Costas Karamanlis, Greek Prime Minister, PS_
 
 ### [ New laws come into effect giving the People's Republic of China more control over the selection of the Dalai Lama. ](/news/2007/09/1/new-laws-come-into-effect-giving-the-people-s-republic-of-china-more-control-over-the-selection-of-the-dalai-lama.md)
 _Context: Dalai Lama, People's Republic of China_

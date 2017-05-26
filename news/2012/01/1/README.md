@@ -1,6 +1,6 @@
 ## [2012-01-1](/news/2012/01/1/index.md)
 
-### [Arab Spring:2011-2012 Syrian uprising: The Arab Inter-parliamentary Union, an advisory body to the Arab League, calls for the removal of its monitors in Syria, saying that they are inadvertently helping the government cover up ongoing violence. ](/news/2012/01/1/arab-spring-p2011a2012-syrian-uprising-pthe-arab-inter-parliamentary-union-an-advisory-body-to-the-arab-league-calls-for-the-removal-of.md)
+### [Arab Spring:2011-2012 Syrian uprising:The Arab Inter-parliamentary Union, an advisory body to the Arab League, calls for the removal of its monitors in Syria, saying that they are inadvertently helping the government cover up ongoing violence. ](/news/2012/01/1/arab-spring-p2011a2012-syrian-uprising-pthe-arab-inter-parliamentary-union-an-advisory-body-to-the-arab-league-calls-for-the-removal-of.md)
 Arab League observers face calls for their immediate withdrawal, while divisions re-emerge among Syria opposition.
 
 ### [At least two people are killed in attacks on bars in northern Kenya near the border with Somalia, with Islamist al-Shabaab militants possibly responsible. ](/news/2012/01/1/at-least-two-people-are-killed-in-attacks-on-bars-in-northern-kenya-near-the-border-with-somalia-with-islamist-al-shabaab-militants-possibl.md)

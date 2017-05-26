@@ -18,7 +18,7 @@ _Context: International Monetary Fund, Luiz Incio Lula da Silva, President of Br
 ### [ In India, 11 Hindus are sentenced to life imprisonment for their roles in the murder of Muslims in the 2002 Gujarat violence. ](/news/2005/12/14/in-india-11-hindus-are-sentenced-to-life-imprisonment-for-their-roles-in-the-murder-of-muslims-in-the-2002-gujarat-violence.md)
 _Context: Hindu, India, Muslim, life imprisonment, riots_
 
-### [ Israeli-Palestinian Conflict:  An Israeli Air-Strike in the Gaza Strip leaves four Palestinians dead. Israel claims that all four were militants and were about to launch a rocket attack into Israel. ](/news/2005/12/14/israeli-palestinian-conflict-p-an-israeli-air-strike-in-the-gaza-strip-leaves-four-palestinians-dead-israel-claims-that-all-four-were-mil.md)
+### [ Israeli-Palestinian Conflict: An Israeli Air-Strike in the Gaza Strip leaves four Palestinians dead. Israel claims that all four were militants and were about to launch a rocket attack into Israel. ](/news/2005/12/14/israeli-palestinian-conflict-p-an-israeli-air-strike-in-the-gaza-strip-leaves-four-palestinians-dead-israel-claims-that-all-four-were-mili.md)
 _Context: Gaza Strip, Israel, Israeli-Palestinian conflict, Palestinian, air strike_
 
 ### [ The President of Iran, Mahmoud Ahmadinejad, describes the Holocaust as a myth. He also said that Europe should house the Jews of the world, rather than the Palestinians. ](/news/2005/12/14/the-president-of-iran-mahmoud-ahmadinejad-describes-the-holocaust-as-a-myth-he-also-said-that-europe-should-house-the-jews-of-the-world.md)

@@ -1,6 +1,6 @@
 ### [2016-04-24](/news/2016/04/24/index.md)
 
-# Philippine presidential election, 2016. The final leg of the Philippine presidential debate series is held in Dagupan. 
+# Philippine presidential election, 2016.The final leg of the Philippine presidential debate series is held in Dagupan. 
 
 
 

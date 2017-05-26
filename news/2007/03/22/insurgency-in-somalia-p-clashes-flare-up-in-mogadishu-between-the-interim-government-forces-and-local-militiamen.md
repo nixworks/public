@@ -1,6 +1,6 @@
 ### [2007-03-22](/news/2007/03/22/index.md)
 
-#  Insurgency in Somalia:  Clashes flare up in Mogadishu between the interim government forces and local militiamen. 
+#  Insurgency in Somalia: Clashes flare up in Mogadishu between the interim government forces and local militiamen. 
 
 
 

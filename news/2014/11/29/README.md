@@ -1,6 +1,6 @@
 ## [2014-11-29](/news/2014/11/29/index.md)
 
-### [Xinjiang conflict Chinese police apprehend and execute eleven Uyghur terrorists following an attack with 15 killed and 14 injured in Yarkant County, China. ](/news/2014/11/29/xinjiang-conflict-pchinese-police-apprehend-and-execute-eleven-uyghur-terrorists-following-an-attack-with-15-killed-and-14-injured-in-yarkan.md)
+### [Chinese police apprehend and execute eleven Uyghur terrorists following an attack with 15 killed and 14 injured in Yarkant County, China. ](/news/2014/11/29/chinese-police-apprehend-and-execute-eleven-uyghur-terrorists-following-an-attack-with-15-killed-and-14-injured-in-yarkant-county-china.md)
 Fifteen people have been killed and 14 others wounded in a &quot;terrorist attack&quot; in China&#x27;s mostly Muslim Xinjiang region, the official Chinese news agency said Saturday. Eleven &quot;terrorists&quot; were also shot dead during the violence, according to CCTV, China&#x27;s state broadcaster
 
 ### [Iraqi airstrikes kill 17 Iraqi citizens within ISIL controlled areas. ](/news/2014/11/29/iraqi-airstrikes-kill-17-iraqi-citizens-within-isil-controlled-areas.md)

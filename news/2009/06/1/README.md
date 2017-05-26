@@ -10,7 +10,7 @@ _Context: Crdoba banknotes, Nicaragua_
 _Context: Cisco, Citigroup, Dow Jones & Company, Dow Jones Industrial Average, General Motors, June 8, Travelers Companies_
 
 ### [ Air France Flight 447 disappears over the Atlantic Ocean, near Brazil. ](/news/2009/06/1/air-france-flight-447-disappears-over-the-atlantic-ocean-near-brazil.md)
-_Context: Air France, Atlantic, Brazil, crash of Air France Flight 447_
+_Context: Air France, Atlantic Ocean, Brazil, crash of Air France Flight 447_
 
 ### [ The United States Congressional Research Service reports that China is aiding the development of Pakistan's program of nuclear weaponry. ](/news/2009/06/1/the-united-states-congressional-research-service-reports-that-china-is-aiding-the-development-of-pakistan-s-program-of-nuclear-weaponry.md)
 China is providing assistance to Pakistan in developing its plutonium-based nuclear weapons programme, a Congressional report has told US lawmakers.

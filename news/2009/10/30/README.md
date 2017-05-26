@@ -10,7 +10,7 @@ Manila prepares for the worst as fourth storm in last two months makes landfall.
 _Context: Internet Corporation for Assigned Names and Numbers, Latin_
 
 ### [ NASA reveals that a partial parachute failure resulted in damage to the Ares I-X test booster upon splashdown in the Atlantic Ocean following its test flight on Wednesday. ](/news/2009/10/30/nasa-reveals-that-a-partial-parachute-failure-resulted-in-damage-to-the-ares-i-x-test-booster-upon-splashdown-in-the-atlantic-ocean-followi.md)
-_Context: Ares I-X, Atlantic, NASA, parachute, splashdown_
+_Context: Ares I-X, Atlantic Ocean, NASA, parachute, splashdown_
 
 ### [ A U.S. judge orders a trial for two doctors and a lawyer accused of providing American sex symbol Anna Nicole Smith with drugs. ](/news/2009/10/30/a-u-s-judge-orders-a-trial-for-two-doctors-and-a-lawyer-accused-of-providing-american-sex-symbol-anna-nicole-smith-with-drugs.md)
 _Context: Anna Nicole Smith, United States, sex symbol_

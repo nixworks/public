@@ -1,6 +1,6 @@
 ### [2007-10-6](/news/2007/10/6/index.md)
 
-#  2007 Pacific typhoon season:  Typhoon Krosa hits Taiwan, killing at least four people and injuring 40 more. 
+#  2007 Pacific typhoon season: Typhoon Krosa hits Taiwan, killing at least four people and injuring 40 more. 
 
 
 

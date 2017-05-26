@@ -35,7 +35,7 @@ _Context: 2015 Atlantic hurricane season, Caribbean, Dominican, Tropical Storm E
 _Context: $, David H. Murdock, Dole Food Company_
 
 ### [Vassiliki Thanou-Christophilou, the head of the Court of Cassation, is appointed as interim Prime Minister of Greece for the duration of the upcoming election. She is the first woman to hold the post. ](/news/2015/08/27/vassiliki-thanou-christophilou-the-head-of-the-court-of-cassation-is-appointed-as-interim-prime-minister-of-greece-for-the-duration-of-the.md)
-_Context: Court of Cassation, Greek legislative election, September 2015, Greek prime minister, Vassiliki Thanou-Christophilou_
+_Context: Court of Cassation, Greek Prime Minister, Greek legislative election, September 2015, Vassiliki Thanou-Christophilou_
 
 ### [Thousands of protesters joined a Guatemalan national strike Thursday demanding the resignation of President Otto Perez Molina for corruption. Five of 13 cabinet ministers have resigned since Friday, and Tuesday, the Supreme Court unanimously approved a motion to impeach the president. ](/news/2015/08/27/thousands-of-protesters-joined-a-guatemalan-national-strike-thursday-demanding-the-resignation-of-president-otto-pa-c-rez-molina-for-corruptio.md)
 An estimated 70,000 protesters filled a central plaza in Guatemala City on Thursday as part of a national strike that saw some businesses close and marchers block highways demanding President Otto Perez Molina resign for alleged bribery.

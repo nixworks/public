@@ -1,0 +1,25 @@
+### [2005-02-26](/news/2005/02/26/index.md)
+
+#  Israeli-Palestinian conflict: Israel's Defence Minister blames Syria for complicity in yesterday's suicide bombing in Tel Aviv which killed 4 people. Syria denies links to the bombing. Islamic Jihad, from its headquarters in Damascus claims responsibility for the attack, stating it was designed to damage the Palestinian Authority for acting "''according to American interests''". 
+
+
+
+
+### Source:
+
+1. [AP](http://story.news.yahoo.com/news?tmpl=story&u=/ap/syria_tel_aviv_bombing)
+2. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2005/02/27/MNGI4BHMKE1.DTL)
+3. [Yahoo!](http://story.news.yahoo.com/news?tmpl=story&u=/nm/mideast_dc)
+
+### Related:
+
+1. [ Israeli-Palestinian Conflict: At least 32 people are injured, including one seriously, when a Palestinian suicide bomber detonates himself at a food stand near Tel Aviv's central bus station. Palestinian Islamic Jihad's al-Quds brigades claims responsibility for the attack. It is the first terrorist attack of the year in Israel. ](/news/2006/01/19/israeli-palestinian-conflict-at-least-32-people-are-injured-including-one-seriously-when-a-palestinian-suicide-bomber-detonates-himself.md) _Context: Israeli-Palestinian conflict, Palestinian Islamic Jihad, Tel Aviv_
+2. [ Israeli-Palestinian Conflict: Hamas leader Khaled Mashal declares at a rally in Damascus, Syria that its informal ceasefire with Israel, which expires at the end of the year, will not be renewed. ](/news/2005/12/8/israeli-palestinian-conflict-p-hamas-leader-khaled-mashal-declares-at-a-rally-in-damascus-syria-that-its-informal-ceasefire-with-israel-w.md) _Context: Damascus, Israeli-Palestinian conflict, Syria_
+3. [ Israeli-Palestinian Conflict: A  Palestinian Islamic Jihad suicide bomber kills himself and injures close to 50 people in the southern Israeli city of Beersheba near the main bus terminal. According to sources, the bomber was trying to make his way to Beersheba's Soroka Hospital. ](/news/2005/08/28/israeli-palestinian-conflict-a-palestinian-islamic-jihad-suicide-bomber-kills-himself-and-injures-close-to-50-people-in-the-southern-isra.md) _Context: Israeli-Palestinian conflict, Palestinian Islamic Jihad, suicide bombing_
+4. [ Israeli-Palestinian conflict: Following an Israeli raid on the Palestinian city of Tulkarm, one Israeli soldier and one Islamic Jihad leader are killed. The soldier was killed in a gunfight with 3 members of Palestinian Islamic Jihad. The three were suspected to have been part of the cell which was involved in Tel Aviv "Stage" club bombing in February 2005. Shafiq Abdul Rani, the leader of the Jihad cell in Tulkarm was killed and another militant was arrested. ](/news/2005/05/2/israeli-palestinian-conflict-p-following-an-israeli-raid-on-the-palestinian-city-of-tulkarm-one-israeli-soldier-and-one-islamic-jihad-lead.md) _Context: Israeli-Palestinian conflict, Palestinian Islamic Jihad, Tel Aviv_
+5. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus, Syria_
+6. [Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left-dozens-dead.md) _Context: Damascus, Syria_
+7. [Allegedly Israeli fighter jets strike a suspected Hezbollah weapons convoy near Damascus, Syria. ](/news/2016/11/30/allegedly-israeli-fighter-jets-strike-a-suspected-hezbollah-weapons-convoy-near-damascus-syria.md) _Context: Damascus, Syria_
+8. [Several bombings kill at least 40 people in government and Kurdish held territory across Syria, including Tartus, Homs, Al-Hasakah and Damascus. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/09/5/several-bombings-kill-at-least-40-people-in-government-and-kurdish-held-territory-across-syria-including-tartus-homs-al-hasakah-and-damas.md) _Context: Damascus, Syria_
+9. [A suicide bomb attack in Syria's capital Damascus kills at least 10 people. The Islamic State of Iraq and the Levant claims responsibility.  ](/news/2016/02/9/a-suicide-bomb-attack-in-syria-s-capital-damascus-kills-at-least-10-people-the-islamic-state-of-iraq-and-the-levant-claims-responsibility.md) _Context: Damascus, Syria_
+10. [Syrian rebels fire volleys of mortar shells into Damascus,  killing three people and wounding at least 30. Government forces respond with airstrikes into rebel-controlled Douma, just northeast of the capital, and surface-to-surface missiles into Eastern Ghouta and Saqba, that  kill at least 35  people and injure many more, according to the Syrian Observatory for Human Rights.  ](/news/2015/12/13/syrian-rebels-fire-volleys-of-mortar-shells-into-damascus-killing-three-people-and-wounding-at-least-30-government-forces-respond-with-ai.md) _Context: Damascus, Syria_

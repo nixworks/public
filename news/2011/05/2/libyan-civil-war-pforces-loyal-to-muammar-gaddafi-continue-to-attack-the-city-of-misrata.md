@@ -14,7 +14,7 @@ Forces loyal to Libyan leader Muammar Gaddafi have launched a new armoured incur
 
 ### Related:
 
-1. [2011 Libyan civil war: Opposition forces in Misrata claim to have seized the city's airport from forces loyal to Muammar Gaddafi. ](/news/2011/05/11/2011-libyan-civil-war-popposition-forces-in-misrata-claim-to-have-seized-the-city-s-airport-from-forces-loyal-to-muammar-gaddafi.md) _Context: Libyan Civil War, Misrata, Muammar Gaddafi_
+1. [2011 Libyan civil war:Opposition forces in Misrata claim to have seized the city's airport from forces loyal to Muammar Gaddafi. ](/news/2011/05/11/2011-libyan-civil-war-popposition-forces-in-misrata-claim-to-have-seized-the-city-s-airport-from-forces-loyal-to-muammar-gaddafi.md) _Context: Libyan Civil War, Misrata, Muammar Gaddafi_
 2. [2011 Libyan civil war:Forces loyal to Muammar Gaddafi continue to shell the western city of Misrata. ](/news/2011/04/3/2011-libyan-civil-war-pforces-loyal-to-muammar-gaddafi-continue-to-shell-the-western-city-of-misrata.md) _Context: Libyan Civil War, Misrata, Muammar Gaddafi_
 3. [2011 Libyan civil war: Human rights groups accuse pro-Gaddafi troops of using cluster bombs in Misrata. ](/news/2011/04/15/2011-libyan-civil-war-human-rights-groups-accuse-pro-gaddafi-troops-of-using-cluster-bombs-in-misrata.md) _Context: Libyan Civil War, Misrata, Muammar Gaddafi_
 4. [Forces loyal to Muammar Gaddafi continue to attack the city of Misrata. ](/news/2011/04/13/forces-loyal-to-muammar-gaddafi-continue-to-attack-the-city-of-misrata.md) _Context: Libyan Civil War, Misrata, Muammar Gaddafi_
