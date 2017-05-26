@@ -1,4 +1,15 @@
-## [News](/news/2017/05/25/index.md)
+## [News](/news/2017/05/26/index.md)
+
+### [A convention of Indigenous Australians at Mutitjulu concludes. Leaders deliver a statement to the Government of Australia outlining their position on amendments to the Constitution of Australia, including constitutional recognition. ](/news/2017/05/26/a-convention-of-indigenous-australians-at-mutitjulu-concludes-leaders-deliver-a-statement-to-the-government-of-australia-outlining-their-po.md)
+In the shadow of Uluru, Indigenous people will present a historic position on changes to the constitution today.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/05/25/index.md)
 
 ### [Former Greek Prime Minister Lucas Papademos is injured when a booby-trapped package explodes inside his vehicle in Athens. Authorities report his injuries are not  life threatening.  ](/news/2017/05/25/former-greek-prime-minister-lucas-papademos-is-injured-when-a-booby-trapped-package-explodes-inside-his-vehicle-in-athens-authorities-repor.md)
 A former Greek prime minister was injured when a booby-trapped package exploded in his car in central Athens on Thursday in the worst act of violence targeting politicians in the crisis-hit country for several years.
@@ -6,7 +17,7 @@ A former Greek prime minister was injured when a booby-trapped package exploded 
 ### [The United States military reports that their investigation found 105 civilians were killed and 36 people are still missing from the bombing of a Mosul building on March 17. ](/news/2017/05/25/the-united-states-military-reports-that-their-investigation-found-105-civilians-were-killed-and-36-people-are-still-missing-from-the-bombing.md)
 A Pentagon investigation has found that more than 100 civilians were killed after the U.S. dropped a bomb on a building in Mosul, Iraq, in March.
 
-### [British police suspend sharing intelligence with the United States in connection with Monday's deadly attack after U.S. officials allegedly leak "sensitive information" to ''The New York Times''.  British Prime Minister Theresa May states she will emphasize the sensitive nature of said information when she meets with U.S. President Donald Trump during their meeting at NATO later today.  Trump calls for an investigation into the leaks. ](/news/2017/05/25/british-police-suspend-sharing-intelligence-with-the-united-states-in-connection-with-monday-s-deadly-attack-after-u-s-officials-allegedly.md)
+### [British police suspend sharing intelligence with the United States in connection with Monday's Manchester bombing attack for most of the day, after U.S. officials allegedly leak "sensitive information" to ''The New York Times''. British Prime Minister Theresa May emphasized the sensitive nature of said information when she met with U.S. President Donald Trump during their meeting at the NATO summit in Brussels. Trump calls for an investigation into the leaks. ](/news/2017/05/25/british-police-suspend-sharing-intelligence-with-the-united-states-in-connection-with-monday-s-manchester-bombing-attack-for-most-of-the-day.md)
 President Donald Trump said on Thursday that &quot;deeply troubling&quot; leaks to U.S. media about the Manchester suicide bombing would be investigated, after irate British police stopped sharing information with U.S. agencies.
 
 ### [The USS Dewey sails within 12 nautical miles of the disputed Mischief Reef in the South China Sea. ](/news/2017/05/25/the-uss-dewey-sails-within-12-nautical-miles-of-the-disputed-mischief-reef-in-the-south-china-sea.md)
@@ -18,16 +29,18 @@ In a stinging rebuke to President Donald Trump, a U.S. appeals court refused on 
 ### [Voters in Montana pick between Republican Greg Gianforte and  Democrat Rob Quist in the special congressional election to replace Ryan Zinke, who is now President Trump's Secretary of the Interior. ](/news/2017/05/25/voters-in-montana-pick-between-republican-greg-gianforte-and-democrat-rob-quist-in-the-special-congressional-election-to-replace-ryan-zinke.md)
 Greg Gianforte, the Republican candidate for a special House election in Montana, was officially charged with assaulting a journalist — just one day before the election.
 
+### [Jared Kushner, son-in-law of and Senior Advisor to the President of the United States, is identified as a main focus of investigations into Russian ties by the Federal Bureau of Investigation. ](/news/2017/05/25/jared-kushner-son-in-law-of-and-senior-advisor-to-the-president-of-the-united-states-is-identified-as-a-main-focus-of-investigations-into.md)
+Investigators are looking in particular at meetings the president&rsquo;s son-in-law held in December with Russians, people familiar with the matter said.
+
 ### [The U.S.  National Oceanic and Atmospheric Administration says warm ocean waters could fuel an above-normal Atlantic hurricane season. The forecast calls for 11 to 17 named storms with five to nine hurricanes, warmer-than-average waters across the tropical Atlantic Ocean and Caribbean Sea, and  a weak or nonexistent El Nino. ](/news/2017/05/25/the-u-s-national-oceanic-and-atmospheric-administration-says-warm-ocean-waters-could-fuel-an-above-normal-atlantic-hurricane-season-the-f.md)
 El Ni&ntilde;o conditions known for suppressing storms expected to be scarce during Atlantic hurricane season
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+### [Results of the Juno mission are announced by NASA researchers, revealing new and unexpected information concerning Jupiter's poles, meteorology, and magnetic and gravitational fields. ](/news/2017/05/25/results-of-the-juno-mission-are-announced-by-nasa-researchers-revealing-new-and-unexpected-information-concerning-jupiter-s-poles-meteorol.md)
+_Context: Juno mission, Jupiter, NASA, meteorology, poles_
 
 ---
 
-## [Yesterday](/news/2017/05/24/index.md)
+## [Day Before Yesterday](/news/2017/05/24/index.md)
 
 ### [As part of an ongoing investigation, British police arrest six people in connection with Monday's deadly explosion, including a 23-year-old man who was taken into custody Tuesday. ](/news/2017/05/24/as-part-of-an-ongoing-investigation-british-police-arrest-six-people-in-connection-with-monday-s-deadly-explosion-including-a-23-year-old.md)
 Three more arrests have been made in connection with the deadly suicide bombing at an Ariana Grande concert in Manchester, England, Monday, that killed 22 people including children and a police officer, authorities said today. The three men were arrested after police executed search warrants in...
@@ -76,53 +89,7 @@ _Context: American Health Care Act of 2017, Congressional Budget Office, more Am
 
 ---
 
-## [Day Before Yesterday](/news/2017/05/23/index.md)
-
-### [Campaigning in the United Kingdom general election is suspended after the bombing at the Manchester Arena. The death toll is 22 with 59 injured. ISIL claims responsibility. Singer and actress Ariana Grande suspends her Dangerous Woman Tour. ](/news/2017/05/23/campaigning-in-the-united-kingdom-general-election-is-suspended-after-the-bombing-at-the-manchester-arena-the-death-toll-is-22-with-59-inju.md)
-Children were among those killed in the blast after a concert by US singer Ariana Grande.
-
-### [President Rodrigo Duterte declares martial law in the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/president-rodrigo-duterte-declares-martial-law-in-the-island-of-mindanao-after-maute-militants-clash-with-army-troops-in-marawi-lanao-del-s.md)
-Philippine President Rodrigo Duterte makes the declaration while on an official visit to Russia, as Maute Group members attack Marawi City in Mindanao
-
-### [ The U.S. Navy SEAL Team Six's raid on an Al Qaeda in Yemen compound in the Ma'rib Governorate kills at least seven militants. SEAL Team Six also suffered unspecified injuries that were treated at the site. ](/news/2017/05/23/the-u-s-navy-seal-team-six-s-raid-on-an-al-qaeda-in-yemen-compound-in-the-ma-rib-governorate-kills-at-least-seven-militants-seal-team-six.md)
-At least seven militants were killed during a raid by U.S. Special Forces troops against an al Qaeda compound in Yemen on Tuesday morning, the Pentagon said, the deepest the United States has penetrated Yemen to target the group.
-
-### [A speech by a Chinese-national student in the University of Maryland creates controversy. ](/news/2017/05/23/a-speech-by-a-chinese-national-student-in-the-university-of-maryland-creates-controversy.md)
-Shuping Yang praised the &quot;fresh air of free speech&quot; in the U.S. during her commencement address at the University of Maryland. That sparked a backlash from classmates and from people in China.
-
-### [Sir Roger Moore, who played James Bond between 1973 and 1985, dies at age 89. ](/news/2017/05/23/sir-roger-moore-who-played-james-bond-between-1973-and-1985-dies-at-age-89.md)
-The actor, best known for his suave portrayal of James Bond, has died aged 89, his family announces.
-
-### [The White House releases a proposed budget that includes an increase in spending for the military but a decrease in healthcare and welfare. ](/news/2017/05/23/the-white-house-releases-a-proposed-budget-that-includes-an-increase-in-spending-for-the-military-but-a-decrease-in-healthcare-and-welfare.md)
-The White House says it is a &quot;taxpayer first&quot; budget, but even grizzled conservatives are baulking.
-
-### [Apple Inc. and Nokia agree to increase their partnership after settling a patent dispute. ](/news/2017/05/23/apple-inc-and-nokia-agree-to-increase-their-partnership-after-settling-a-patent-dispute.md)
-_Context: Apple Inc., Nokia, patent_
-
-### [An Indian Air Force Sukhoi Su-30 goes missing near the border with China and is presumed to have crashed along with its two pilots. ](/news/2017/05/23/an-indian-air-force-sukhoi-su-30-goes-missing-near-the-border-with-china-and-is-presumed-to-have-crashed-along-with-its-two-pilots.md)
-_Context: Indian Air Force, People's Republic of China, Sukhoi Su-30_
-
-### [Newark Liberty International Airport in northern New Jersey is closed for almost two hours after flames are spotted coming from a United Airlines Boeing 757 jet engine. All 124 passengers and seven crew members safely evacuate the plane. ](/news/2017/05/23/newark-liberty-international-airport-in-northern-new-jersey-is-closed-for-almost-two-hours-after-flames-are-spotted-coming-from-a-united-air.md)
-Newark Liberty International Airport in New Jersey reopened late on Tuesday after being shut down when 131 people were evacuated from a United Airlines flight over flames seen emerging from an aircraft engine.
-
-### [The World Health Organization (WHO) elects former Ethopian Foreign Minister and Health Minister Dr. Tedros Adhanom Ghebreyesus as the international organization's new Director-General succeeding Dr. Margaret Chan, who has been in office since 2006. Tedros is the first African Director-General and the first non-medical doctor; he has a PhD in Community Health from the University of Nottingham. ](/news/2017/05/23/the-world-health-organization-who-elects-former-ethopian-foreign-minister-and-health-minister-dr-tedros-adhanom-ghebreyesus-as-the-intern.md)
-Today the Member States of WHO elected Dr Tedros Adhanom Ghebreyesus as the new Director-General of WHO. #WHA70
-
-### [Two Indonesian men are publicly caned by local authorities in Aceh on accusation of illegal homosexual intercourse. ](/news/2017/05/23/two-indonesian-men-are-publicly-caned-by-local-authorities-in-aceh-on-accusation-of-illegal-homosexual-intercourse.md)
-Hooded men inflicted 82 lashes on each of the men as hundreds of people watched.
-
-### [''Wikimedia Foundation v. NSA''The United States Fourth Circuit Court of Appeals rules that Wikimedia Foundation has the legal right to challenge the National Security Agency Upstream program of mass online surveillance. This decision reinstates the suit that had been dismissed by a Federal district judge in Baltimore, Maryland. Eight other organizations, including Amnesty International USA and the Global Fund for Women, are also plaintiffs in this case. ](/news/2017/05/23/wikimedia-foundation-v-nsa-pthe-united-states-fourth-circuit-court-of-appeals-rules-that-wikimedia-foundation-has-the-legal-right-to-cha.md)
-_Context: Amnesty International USA, Baltimore, District Court for Maryland's, Global Fund for Women, Maryland, National Security Agency, United States Court of Appeals for the Fourth Circuit, Upstream program, Wikimedia Foundation, Wikimedia Foundation v. NSA_
-
-### [Former CIA Director John Brennan tells the House Intelligence Committee he knew of contacts between Trump associates and Russian officials, but is not sure collusion existed. Brennan said he warned the Russian intelligence service last August against meddling in the U.S. election. ](/news/2017/05/23/former-cia-director-john-brennan-tells-the-house-intelligence-committee-he-knew-of-contacts-between-trump-associates-and-russian-officials.md)
-Director of National Intelligence Dan Coats on Tuesday refused to address — but he did not deny — reports that President Donald Trump asked him to push back against allegations the Trump campaign colluded with Russia, while a former CIA chief testified he was aware of &quot;interactions&quot; between the campaign and Moscow.
-
-### [Scientists discover 7.2 million-year-old "pre-human" remains in the Balkans area near Bulgaria and Greece. ](/news/2017/05/23/scientists-discover-7-2-million-year-old-pre-human-remains-in-the-balkans-area-near-bulgaria-and-greece.md)
-The common lineage of great apes and humans split several hundred thousand earlier than hitherto assumed, according to an international research team headed by Professor Madelaine Böhme from the Senckenberg Centre for Human Evolution and Palaeoenvironment at the University of Tübingen and Professor Nikolai Spassov from the Bulgarian Academy of Sciences. The researchers investigated two fossils of Graecopithecus freybergi with state-of-the-art methods and came to the conclusion that they belong to pre-humans. Their findings, published today in two papers in the journal PLOS ONE, further indicate that the split of the human lineage occurred in the Eastern Mediterranean and not - as customarily assumed - in Africa.
-
----
-
-## [Previous Day...](/news/2017/05/22/index.md)
+## [Previous Day...](/news/2017/05/23/index.md)
 
 ---
 
