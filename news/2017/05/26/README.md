@@ -21,8 +21,11 @@ Flooding and mudslides caused by monsoon rains leave at least 91 dead and more t
 ### [The Turkish government issues an arrest warrant for NBA Oklahoma City Thunder player Enes Kanter suspected of being a member of a "terror group."  Kanter, a vocal supporter of Fethullah Gulen, was returning to the U.S. from a charity tour when, last Saturday, he was detained in Bucharest, Romania, because  his Turkish passport had been revoked. Kanter says  he plans on becoming a United States citizen. ](/news/2017/05/26/the-turkish-government-issues-an-arrest-warrant-for-nba-oklahoma-city-thunder-player-enes-kanter-suspected-of-being-a-member-of-a-terror-gr.md)
 _Context: Bucharest, Enes Kanter, Fethullah Gulen, Oklahoma City Thunder, Romania, Turkish government, United States citizen_
 
-### [Two people are killed and one injured in a stabbing in Portland, Oregon. The main suspect is taken into custody. ](/news/2017/05/26/two-people-are-killed-and-one-injured-in-a-stabbing-in-portland-oregon-the-main-suspect-is-taken-into-custody.md)
+### [Two people are killed and one injured in a stabbing on  a light-rail train in Portland, Oregon, where they had intervened when a man yelled  racial slurs at two young women, one of whom was wearing a hijab.  The main suspect is taken into custody. ](/news/2017/05/26/two-people-are-killed-and-one-injured-in-a-stabbing-on-a-light-rail-train-in-portland-oregon-where-they-had-intervened-when-a-man-yelled.md)
 Two people are dead and another was injured after a &quot;disturbance and stabbing&quot; Friday afternoon on a light-rail train in Portland, Oregon, involving a man uttering hate speech, police said. The suspect is in custody and there is no further risk to the public, the Portland Police Department said in...
+
+### [Hackers  stole customer payment data from most  Chipotle Mexican Grill restaurants over a span of three weeks starting in the end of March, a restaurant spokesman says. ](/news/2017/05/26/hackers-stole-customer-payment-data-from-most-chipotle-mexican-grill-restaurants-over-a-span-of-three-weeks-starting-in-the-end-of-march.md)
+_Context: Chipotle Mexican Grill_
 
 ## [Previous Day...](/news/2017/05/25/index.md)
 
