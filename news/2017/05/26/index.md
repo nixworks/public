@@ -21,7 +21,7 @@ Flooding and mudslides caused by monsoon rains leave at least 91 dead and more t
 ### [The Turkish government issues an arrest warrant for NBA Oklahoma City Thunder player Enes Kanter suspected of being a member of a "terror group."  Kanter, a vocal supporter of Fethullah Gulen, was returning to the U.S. from a charity tour when, last Saturday, he was detained in Bucharest, Romania, because  his Turkish passport had been revoked. Kanter says  he plans on becoming a United States citizen. ](/news/2017/05/26/the-turkish-government-issues-an-arrest-warrant-for-nba-oklahoma-city-thunder-player-enes-kanter-suspected-of-being-a-member-of-a-terror-gr.md)
 _Context: Bucharest, Enes Kanter, Fethullah Gulen, Oklahoma City Thunder, Romania, Turkish government, United States citizen_
 
-### [Hackers stole customer payment data from most Chipotle Mexican Grill restaurants over a span of three weeks starting in the end of March, a restaurant spokesman says. ](/news/2017/05/26/hackers-stole-customer-payment-data-from-most-chipotle-mexican-grill-restaurants-over-a-span-of-three-weeks-starting-in-the-end-of-march-a.md)
+### [A spokesman for the Chipotle Mexican Grill restaurant chain reveals that hackers stole customer payment data from most of their stores over a span of three weeks starting from the end of March. ](/news/2017/05/26/a-spokesman-for-the-chipotle-mexican-grill-restaurant-chain-reveals-that-hackers-stole-customer-payment-data-from-most-of-their-stores-over.md)
 _Context: Chipotle Mexican Grill_
 
 ## [Previous Day...](/news/2017/05/25/index.md)
