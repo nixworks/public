@@ -79,7 +79,7 @@ _Context: Big Society, David Cameron, Lord Wei_
 The morning after Democrat Kathy Hochul used the Medicare issue to win what had been a Republican House seat in New York, House Budget Committee chairman Paul Ryan, R-Wisc., went on the counter-offensive, defending his plan to redesign the program.
 
 ### [The Soyuz TMA-20 spacecraft, carrying half of the members of Expedition 27 back from their crew rotation aboard the International Space Station, lands safely in Kazakhstan. ](/news/2011/05/24/the-soyuz-tma-20-spacecraft-carrying-half-of-the-members-of-expedition-27-back-from-their-crew-rotation-aboard-the-international-space-stat.md)
-_Context: Expedition 27, International Space Station, Kazakhstan, Soyuz TMA-20_
+_Context: Expedition 27, ISS, Kazakhstan, Soyuz TMA-20_
 
 ## [Previous Day...](/news/2011/05/23/index.md)
 

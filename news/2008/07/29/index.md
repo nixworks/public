@@ -19,7 +19,7 @@ _Context: 5.4 magnitude earthquake, California, Chino Hills, Las Vegas, Nevada, 
 _Context: George W. Bush, President, Ronald A. Gray, United States Army, death penalty, military execution, murder, rape_
 
 ### [ The government of Australia ends its mandatory detention of all asylum seekers. ](/news/2008/07/29/the-government-of-australia-ends-its-mandatory-detention-of-all-asylum-seekers.md)
-_Context: Government of Australia, asylum seeker, detention of children and family groups_
+_Context: Australia's government, asylum seeker, detention of children and family groups_
 
 ## [Previous Day...](/news/2008/07/28/index.md)
 

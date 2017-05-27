@@ -31,7 +31,7 @@ A brigadier general and colonel detail atrocities in damning resignation letters
 _Context: 2017 Belarusian protests, Gomel, second city_
 
 ### [SpaceX successfully launches a Falcon 9 rocket from Kennedy Space Center, placing a Dragon spacecraft in orbit and recovering the launcher's first stage. The spacecraft will resupply the International Space Station.](/news/2017/02/19/spacex-successfully-launches-a-falcon-9-rocket-from-kennedy-space-center-placing-a-dragon-spacecraft-in-orbit-and-recovering-the-launcher-s.md)
-_Context: Dragon, Falcon 9, International Space Station, Kennedy Space Center, SpaceX, SpaceX CRS-10_
+_Context: Dragon, Falcon 9, ISS, Kennedy Space Center, SpaceX, SpaceX CRS-10_
 
 ## [Previous Day...](/news/2017/02/18/index.md)
 

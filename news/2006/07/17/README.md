@@ -1,7 +1,7 @@
 ## [2006-07-17](/news/2006/07/17/index.md)
 
 ### [ Space Shuttle ''Discovery'' lands successfully on Runway 33 at the Shuttle Landing Facility of the Kennedy Space Center, ending a 13-day mission to the International Space Station. ](/news/2006/07/17/space-shuttle-discovery-lands-successfully-on-runway-33-at-the-shuttle-landing-facility-of-the-kennedy-space-center-ending-a-13-day-mi.md)
-_Context: 13-day mission, Discovery, International Space Station, John F. Kennedy Space Center, Shuttle Landing Facility, Space Shuttle program_
+_Context: 13-day mission, Discovery, ISS, John F. Kennedy Space Center, Shuttle Landing Facility, Space Shuttle program_
 
 ### [ In the United Kingdom, the Crown Prosecution Service announce that police officers involved in the fatal shooting of Jean Charles de Menezes in the aftermath of the attempted bombings of London on July 21, 2005 will not face criminal charges, although the Metropolitan Police Service is to be prosecuted under the Health and Safety at Work Act. ](/news/2006/07/17/in-the-united-kingdom-the-crown-prosecution-service-announce-that-police-officers-involved-in-the-fatal-shooting-of-jean-charles-de-meneze.md)
 _Context: 21 July 2005 London bombings, Crown Prosecution Service, Health and Safety at Work Act, Jean Charles de Menezes, Scotland Yard, United Kingdom_

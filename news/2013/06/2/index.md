@@ -7,7 +7,7 @@ _Context: Damascus, Jobar, Syrian Civil War, car bomb_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Mandawuy Yunupingu, frontman of the Aboriginal band Yothu Yindi dies at 56. ](/news/2013/06/2/mandawuy-yunupingu-frontman-of-the-aboriginal-band-yothu-yindi-dies-at-56.md)
-_Context: Aboriginal, Mandawuy Yunupingu, Yothu Yindi_
+_Context: Aboriginal Australians, Mandawuy Yunupingu, Yothu Yindi_
 
 ### [A 6.2-magnitude earthquake strikes central Taiwan, killing at least one person. ](/news/2013/06/2/a-6-2-magnitude-earthquake-strikes-central-taiwan-killing-at-least-one-person.md)
 _Context: Taiwan, earthquake_

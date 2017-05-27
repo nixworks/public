@@ -7,7 +7,7 @@ _Context: Al Jazeera bombing memo, O'Connor - Keogh official secrets trial_
 _Context: Amnesty International, Camp Delta, Cuba, Guantanamo Bay_
 
 ### [ Japanese whalers and anti-whaling environmental groups continue to clash in Antarctic waters near Australia, as calls for the Australian Government to intervene intensify. ](/news/2006/01/10/japanese-whalers-and-anti-whaling-environmental-groups-continue-to-clash-in-antarctic-waters-near-australia-as-calls-for-the-australian-go.md)
-_Context: Antarctic, Government of Australia, hunt_
+_Context: Antarctic, Australia's government, hunt_
 
 ### [ Ukraine's parliament dismisses the Cabinet over its gas deal with Russia. ](/news/2006/01/10/ukraine-s-parliament-dismisses-the-cabinet-over-its-gas-deal-with-russia.md)
 _Context: Ukrainians, Verkhovna Rada, forming a government, restarts_

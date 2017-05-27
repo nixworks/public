@@ -28,7 +28,7 @@ _Context: Pakistan, Shaheen II missile, nuclear warheads_
 _Context: Sri Lanka, Sri Lanka Navy, Tamil Tiger_
 
 ### [ Australia: New South Wales, Queensland and South Australia as well as the Australian Capital Territory have agreed to hand over control of the Murray-Darling Basin to the federal government. Negotiations continue with Victoria. ](/news/2007/02/23/australia-p-new-south-wales-queensland-and-south-australia-as-well-as-the-australian-capital-territory-have-agreed-to-hand-over-control-of.md)
-_Context: Australia, Australian Capital Territory, Government of Australia, Murray-Darling basin, New South Wales, Queensland, South Australia, Victoria_
+_Context: Australia, Australia's government, Australian Capital Territory, Murray-Darling basin, New South Wales, Queensland, South Australia, Victoria_
 
 ## [Previous Day...](/news/2007/02/22/index.md)
 

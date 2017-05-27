@@ -40,7 +40,7 @@ _Context: Harvard University, coagulation, molecule_
 _Context: 1944, American Cemetery and Memorial, D-Day, France, Normandy, World War II, veteran_
 
 ### [ The International Labour Organization requests that Burma's government amend a clause in its Constitution that may justify forced labor. ](/news/2009/06/6/the-international-labour-organization-requests-that-burma-s-government-amend-a-clause-in-its-constitution-that-may-justify-forced-labor.md)
-_Context: Burma, Constitution, International Labour Organization, amendment, clause, forced labor, government_
+_Context: Burma, Constitution, International Labour Organization, clause, constitutional amendment, forced labor, government_
 
 ### [ Palm, Inc. launches its new Palm Pre smartphone. ](/news/2009/06/6/palm-inc-launches-its-new-palm-pre-smartphone.md)
 _Context: Palm Pre, Palm, Inc., smartphone_

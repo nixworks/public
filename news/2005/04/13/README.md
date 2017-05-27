@@ -34,7 +34,7 @@ _Context: Adolphus Wabara, Fabion Osuji, Nigeria_
 _Context: Armin Meiwes, German, eat, murder_
 
 ### [ A group of Indigenous Australians threaten to disrupt the Commonwealth Games next year unless prime minister John Howard and others are charged with genocide. ](/news/2005/04/13/a-group-of-indigenous-australians-threaten-to-disrupt-the-commonwealth-games-next-year-unless-prime-minister-john-howard-and-others-are-cha.md)
-_Context: Commonwealth, Indigenous Australians, John Howard, genocide_
+_Context: Commonwealth, Indigenous, John Howard, genocide_
 
 ### [ Burundi's last rebel group, Hutu Forces for National Liberation, states that they are ready to negotiate with the government. ](/news/2005/04/13/burundi-s-last-rebel-group-hutu-forces-for-national-liberation-states-that-they-are-ready-to-negotiate-with-the-government.md)
 _Context: Burundi, Hutu Forces for National Liberation_

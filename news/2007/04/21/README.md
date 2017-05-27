@@ -4,7 +4,7 @@
 _Context: Chile, earthquake_
 
 ### [ Soyuz TMA-9, with space tourist Charles Simonyi and two crew from Expedition 14 to the International Space Station on board, safely return to Earth. ](/news/2007/04/21/soyuz-tma-9-with-space-tourist-charles-simonyi-and-two-crew-from-expedition-14-to-the-international-space-station-on-board-safely-return.md)
-_Context: Charles Simonyi, Earth, Expedition 14, International Space Station, Soyuz TMA-9, space tourist_
+_Context: Charles Simonyi, Earth, Expedition 14, ISS, Soyuz TMA-9, space tourist_
 
 ### [ An aircraft of the United States Navy's Blue Angels precision flight team crashes during an air show in Beaufort, South Carolina, killing the pilot and injuring eight people on the ground. ](/news/2007/04/21/an-aircraft-of-the-united-states-navy-s-blue-angels-precision-flight-team-crashes-during-an-air-show-in-beaufort-south-carolina-killing-t.md)
 Investigators looked through wreckage Sunday to determine what caused a Navy Blue Angel jet to crash during a maneuver, while the military identified the fallen pilot as a 32-year-old who was performing in one of his first air shows with the team.

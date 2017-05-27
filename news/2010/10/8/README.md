@@ -10,7 +10,7 @@ _Context: Khyber Agency_
 _Context: Kunduz, Mohammad Omar_
 
 ### [German officials say that Islamic militants whose disclosures have triggered a Europe-wide terror alert, have links to the perpetrators of the September 11 attacks on the United States in 2001. ](/news/2010/10/8/german-officials-say-that-islamic-militants-whose-disclosures-have-triggered-a-europe-wide-terror-alert-have-links-to-the-perpetrators-of-t.md)
-_Context: Europe-wide terror alert, German, Islamists, September 11 attacks, United States_
+_Context: Europe-wide terror alert, German, Islamic terrorism, September 11 attacks, United States_
 
 ### [A Taiwanese ship initially believed to have been hijacked off the coast of Madagascar is later found safe. ](/news/2010/10/8/a-taiwanese-ship-initially-believed-to-have-been-hijacked-off-the-coast-of-madagascar-is-later-found-safe.md)
 A Taiwanese ship reported to have been seized by pirates east of Madagascar had just &quot;lost touch&quot; with its owner, according to the EU naval force fighting piracy in the Indian Ocean.
@@ -88,7 +88,7 @@ The Murray-Darling Basin Authority calls for water consumption from some of the 
 _Context: Chang'e 2_
 
 ### [Two Russian cosmonauts, Aleksandr Kaleri and Oleg Skripochka, and American astronaut Scott Kelly leave on mission Soyuz TMA-01M for the International Space Station from Kazakhstan's Baikonur Cosmodrome. ](/news/2010/10/8/two-russian-cosmonauts-aleksandr-kaleri-and-oleg-skripochka-and-american-astronaut-scott-kelly-leave-on-mission-soyuz-tma-01m-for-the-inte.md)
-_Context: Aleksandr Kaleri, Baikonur Cosmodrome, International Space Station, Kazakhstan, Oleg Skripochka, Russia, Scott Kelly, Soyuz TMA-01M, United States, astronaut, cosmonaut_
+_Context: Aleksandr Kaleri, Baikonur Cosmodrome, ISS, Kazakhstan, Oleg Skripochka, Russia, Scott Kelly, Soyuz TMA-01M, United States, astronaut, cosmonaut_
 
 ### [Anthropologists claim to have proven that Yersinia pestis was responsible for the Black Death in  Medieval Europe. ](/news/2010/10/8/anthropologists-claim-to-have-proven-that-yersinia-pestis-was-responsible-for-the-black-death-in-medieval-europe.md)
 Anthropologists say they have confirmed long-running suspicions that a germ called Yersinia pestis caused the plague that wiped out an estimated third of Europe&#039;s population in the Middle Ages.

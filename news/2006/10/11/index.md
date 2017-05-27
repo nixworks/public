@@ -22,7 +22,7 @@ _Context: Save the Children, United Nations_
 _Context: Australia, Eureka Tower, Melbourne, residential apartment, second tallest, southern hemisphere_
 
 ### [ In the International Space Station Gyro Failures may spell doom if focus of next Shuttle mission is not changed.[http://www.spaceflightnow.com/shuttle/sts116/061010cmg/]](/news/2006/10/11/in-the-international-space-station-gyro-failures-may-spell-doom-if-focus-of-next-shuttle-mission-is-not-changed-http-www-spaceflightnow.md)
-_Context: International Space Station, Space Shuttle_
+_Context: ISS, Space Shuttle_
 
 ### [ In New York, It is officially declared "Final Fantasy XII" day. ](/news/2006/10/11/in-new-york-it-is-officially-declared-final-fantasy-xii-day.md)
 _Context: New York_

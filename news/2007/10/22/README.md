@@ -37,7 +37,7 @@ _Context: US$, euro_
 _Context: Ak Zhol, December 2007, Kurmanbek Bakiyev, Kyrgyzstan, President, constitutional changes in a referendum, parliament, snap legislative election_
 
 ### [ At least 25 killed when Tamil Tiger fighters attack a Sri Lankan air force base in the Anuradhapura district with heavy fighting reported. ](/news/2007/10/22/at-least-25-killed-when-tamil-tiger-fighters-attack-a-sri-lankan-air-force-base-in-the-anuradhapura-district-with-heavy-fighting-reported.md)
-_Context: Air Force, Anuradhapura, Sri Lanka, Tamil Tiger_
+_Context: Anuradhapura, Sri Lanka, Tamil Tiger, air force_
 
 ### [ Four new members join the Politburo Standing Committee of the Communist Party of China, China's ''de facto'' top power organ. They are Xi Jinping, Li Keqiang, He Guoqiang and Zhou Yongkang. President Hu Jintao and Premier Wen Jiabao retain their seats. ](/news/2007/10/22/four-new-members-join-the-politburo-standing-committee-of-the-communist-party-of-china-china-s-de-facto-top-power-organ-they-are-xi-j.md)
 _Context: Communist Party of China, He Guoqiang, Hu Jintao, Li Keqiang, Politburo Standing Committee, Wen Jiabao, Xi Jinping, Zhou Yongkang, de facto_

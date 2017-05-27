@@ -40,7 +40,7 @@ _Context: Mohamed Ghannouchi, President of Tunisia, Tunisia, Zine El Abidine Ben
 Irish Prime Minister Brian Cowenwill address the media at 1400 GMT on Saturday, his Fianna Failparty said in a statement, following growing speculation abouthis future as leader of the ruling party.
 
 ### [An unmanned Japanese H-II Transfer Vehicle HTV-2 Resupply Craft was launched atop the H-IIB rocket Saturday on a mission to deliver cargo to the International Space Station. ](/news/2011/01/22/an-unmanned-japanese-h-ii-transfer-vehicle-htv-2-resupply-craft-was-launched-atop-the-h-iib-rocket-saturday-on-a-mission-to-deliver-cargo-to.md)
-_Context: H-II Transfer Vehicle, H-IIB, International Space Station_
+_Context: H-II Transfer Vehicle, H-IIB, ISS_
 
 ## [Previous Day...](/news/2011/01/21/index.md)
 

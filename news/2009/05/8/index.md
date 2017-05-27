@@ -13,7 +13,7 @@ _Context: Director, Louis Caldera, White House Military Office, resigns_
 A Californian bushfire that consumed 75 homes has raged for a fourth day, forcing at least 30,000 people to flee.
 
 ### [ Islamic terrorist and Singaporean fugitive Mas Selamat bin Kastari is arrested in Malaysia. ](/news/2009/05/8/islamic-terrorist-and-singaporean-fugitive-mas-selamat-bin-kastari-is-arrested-in-malaysia.md)
-_Context: Islam, Islamists, Malaysia, Mas Selamat bin Kastari, Singapore, fugitive_
+_Context: Islam, Islamic terrorism, Malaysia, Mas Selamat bin Kastari, Singapore, fugitive_
 
 ### [ At least 45,000 people evacuate as war between the government and the Taliban continues in Swat, Pakistan. ](/news/2009/05/8/at-least-45-000-people-evacuate-as-war-between-the-government-and-the-taliban-continues-in-swat-pakistan.md)
 _Context: Pakistan, Swat, Pakistan, Taliban, War in North-West Pakistan, evacuation centers, government_

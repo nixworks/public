@@ -52,7 +52,7 @@ _Context: Bangladesh, Muhammad Yunus, Nobel Prize, Norway_
 _Context: Atlanta, Defense of Marriage Act, King & Spalding, Paul Clement_
 
 ### [Nearly 500 prisoners, many of them Afghan-based Islamic militants, escape from Kandahar's Sarposa prison. ](/news/2011/04/25/nearly-500-prisoners-many-of-them-afghan-based-islamic-militants-escape-from-kandahar-s-sarposa-prison.md)
-_Context: Afghan-based, Islamists, Kandahar, Sarposa prison_
+_Context: Afghan-based, Islamic terrorism, Kandahar, Sarposa prison_
 
 ### [The United Nations publishes the full ''Reprt of the Secretary-General's Panel of Experts on Accountability In Sri Lanka'' which finds "credible allegations" which, if proven, indicate that war crimes and crimes against humanity were committed both by the Government of Sri Lanka and the LTTE in the final stages of the Sri Lankan Civil War. ](/news/2011/04/25/the-united-nations-publishes-the-full-reprt-of-the-secretary-general-s-panel-of-experts-on-accountability-in-sri-lanka-which-finds-cred.md)
 Sri Lankan troops carried out widespread shelling which killed most of the thousands of civilians who died in a 2009 offensive against Tamil Tigers, UN experts say.

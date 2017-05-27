@@ -10,7 +10,7 @@ _Context: Canada, Kandahar, NATO, Taliban insurgency_
 _Context: Abdullahi Yusuf, Somalia, assassinated_
 
 ### [ A chemical spill is reported on the International Space Station and a fire is feared, although this latter report proves to be unfounded. ](/news/2006/09/18/a-chemical-spill-is-reported-on-the-international-space-station-and-a-fire-is-feared-although-this-latter-report-proves-to-be-unfounded.md)
-_Context: International Space Station_
+_Context: ISS_
 
 ### [ 2006 referendum in Transnistria: The vast majority of the population of Transdniestr, a self-proclaimed republic in Moldova, voted for independence and future accession to Russia, the central election committee said. ](/news/2006/09/18/2006-referendum-in-transnistria-the-vast-majority-of-the-population-of-transdniestr-a-self-proclaimed-republic-in-moldova-voted-for-inde.md)
 _Context: 2006 referendum in Transnistria, Moldova, Russia_

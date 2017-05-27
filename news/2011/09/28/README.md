@@ -28,7 +28,7 @@ _Context: Copenhagen, K.B. Hallen_
 _Context: Korean, Seoul, comfort women_
 
 ### [Australian newspaper columnist Andrew Bolt loses an action in the Federal Court of Australia in relation to  breaches of the Racial Discrimination Act in columns about nine prominent aborigines. ](/news/2011/09/28/australian-newspaper-columnist-andrew-bolt-loses-an-action-in-the-federal-court-of-australia-in-relation-to-breaches-of-the-racial-discrimi.md)
-_Context: Aboriginal, Andrew Bolt, Federal Court of Australia, Racial Discrimination Act, newspaper columnist_
+_Context: Aboriginal Australians, Andrew Bolt, Federal Court of Australia, Racial Discrimination Act, newspaper columnist_
 
 ### [The FBI arrests Rezwan Ferdaus, a 26-year-old American citizen, for plotting to fly remotely-controlled planes filled with explosives into The Pentagon and the United States Capitol in Washington, D.C. ](/news/2011/09/28/the-fbi-arrests-rezwan-ferdaus-a-26-year-old-american-citizen-for-plotting-to-fly-remotely-controlled-planes-filled-with-explosives-into-t.md)
 A US citizen is arrested in Boston accused of planning to bomb the Pentagon and US Capitol building, after an undercover investigation by the FBI.

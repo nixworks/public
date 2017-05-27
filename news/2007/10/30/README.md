@@ -1,7 +1,7 @@
 ## [2007-10-30](/news/2007/10/30/index.md)
 
 ### [ An International Space Station solar wing relocated by the crew of STS-120 is torn during deployment. ](/news/2007/10/30/an-international-space-station-solar-wing-relocated-by-the-crew-of-sts-120-is-torn-during-deployment.md)
-_Context: International Space Station, STS-120_
+_Context: ISS, STS-120_
 
 ### [ A moderate earthquake of 5.6 magnitude strikes 9 miles northeast of San Jose, California. ](/news/2007/10/30/a-moderate-earthquake-of-5-6-magnitude-strikes-9-miles-northeast-of-san-jose-california.md)
 _Context: San Jose, California, earthquake, magnitude_

@@ -13,7 +13,7 @@ Two people were killed and four others seriously injured on Thursday in an explo
 _Context: Dow Jones Industrial Average, United States_
 
 ### [ NASA confirms that it discovered the apparent sabotage of a non-critical component of the International Space Station due to be carried up by the Space Shuttle Endeavour on August 7. ](/news/2007/07/26/nasa-confirms-that-it-discovered-the-apparent-sabotage-of-a-non-critical-component-of-the-international-space-station-due-to-be-carried-up.md)
-_Context: International Space Station, NASA, Saboteurs, Space Shuttle ''Endeavour''_
+_Context: ISS, NASA, Saboteurs, Space Shuttle ''Endeavour''_
 
 ### [ A car bomb in Baghdad kills at least 25 Iraqis and injures at least 50 more. ](/news/2007/07/26/a-car-bomb-in-baghdad-kills-at-least-25-iraqis-and-injures-at-least-50-more.md)
 A powerful car bomb has rocked central Baghdad, killing at least 25 bystanders, wounding more than 75 and destroying a row of shops in a busy commercial district.

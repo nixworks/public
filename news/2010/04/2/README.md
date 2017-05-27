@@ -13,7 +13,7 @@ _Context: Shanxi province_
 _Context: Brazil, Para, Pedro Alcantara de Souza_
 
 ### [Soyuz TMA-18 is launched from the Baikonur Cosmodrome, carrying three members of the Expedition 23 crew of the International Space Station. ](/news/2010/04/2/soyuz-tma-18-is-launched-from-the-baikonur-cosmodrome-carrying-three-members-of-the-expedition-23-crew-of-the-international-space-station.md)
-_Context: Baikonur Cosmodrome, Expedition 23, International Space Station, Soyuz TMA-18_
+_Context: Baikonur Cosmodrome, Expedition 23, ISS, Soyuz TMA-18_
 
 ### [3 men are charged with murder in the fatal stabbings of two men on a New York City subway over the weekend. ](/news/2010/04/2/3-men-are-charged-with-murder-in-the-fatal-stabbings-of-two-men-on-a-new-york-city-subway-over-the-weekend.md)
 _Context: subway_

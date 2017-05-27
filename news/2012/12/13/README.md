@@ -64,7 +64,7 @@ _Context: British, MI-6, Muammar Gaddafi, Tripoli_
 _Context: Earth, North Korea, South Korea, U.S., first, orbit, released an object into orbit, rocket launch, successfully_
 
 ### [U.S. space agency NASA admits it posted online a photograph taken from the International Space Station of an Indian mountain Saser Muztagh, claiming it as Mount Everest. With Nepalese netizens left puzzled by this, it took a Nepalese expert to point out the agency's inaccuracy. ](/news/2012/12/13/u-s-space-agency-nasa-admits-it-posted-online-a-photograph-taken-from-the-international-space-station-of-an-indian-mountain-saser-muztagh.md)
-_Context: India, International Space Station, Mount Everest, NASA, Nepal, Netizen, Saser Muztagh, U.S., photograph_
+_Context: ISS, India, Mount Everest, NASA, Nepal, Netizen, Saser Muztagh, U.S., photograph_
 
 ## [Previous Day...](/news/2012/12/12/index.md)
 

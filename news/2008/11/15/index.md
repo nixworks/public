@@ -10,7 +10,7 @@ Authorities in Romania say at least 12 miners have been killed in two explosions
 _Context: G20, Washington, D.C., current economic crisis, meets_
 
 ### [ Mission STS-126 commences with the launch of Space Shuttle ''Endeavour''. The spacecraft will deliver equipment required to increase the crew capacity of the International Space Station from three to six members. ](/news/2008/11/15/mission-sts-126-commences-with-the-launch-of-space-shuttle-endeavour-the-spacecraft-will-deliver-equipment-required-to-increase-the-cr.md)
-_Context: International Space Station, STS-126, Space Shuttle, Space Shuttle ''Endeavour''_
+_Context: ISS, STS-126, Space Shuttle, Space Shuttle ''Endeavour''_
 
 ### [ Israel shuts down Gaza border crossings after Qassam rockets are launched toward Israel in breach of an armistice. ](/news/2008/11/15/israel-shuts-down-gaza-border-crossings-after-qassam-rockets-are-launched-toward-israel-in-breach-of-an-armistice.md)
 The Gaza Strip is in danger of running out of food and fuel after Israel locked down a vital border crossing over the past two days.

@@ -7,7 +7,7 @@ _Context: 2008 unrest in Tibet, Central Tibetan Administration, government in ex
 The Fed approved a $30 billion loan for the takeover of Bear Stearns and announced a new lending tool for investment firms.
 
 ### [ The Australian Government announces that the wreck of the German auxiliary cruiser ''Kormoran'' has been found off the coast of Western Australia. The ship sank after a battle in 1941. ](/news/2008/03/16/the-australian-government-announces-that-the-wreck-of-the-german-auxiliary-cruiser-kormoran-has-been-found-off-the-coast-of-western-aus.md)
-_Context: Australia, German auxiliary cruiser ''Kormoran'', Government of Australia, battle in 1941, been found_
+_Context: Australia, Australia's government, German auxiliary cruiser ''Kormoran'', battle in 1941, been found_
 
 ### [ Data from the United Nations Environment Programme shows the 2006 global glacial shrinkage rate is more than double that of 2005. ](/news/2008/03/16/data-from-the-united-nations-environment-programme-shows-the-2006-global-glacial-shrinkage-rate-is-more-than-double-that-of-2005.md)
 _Context: 2006, Environment Programme, Retreat of glaciers since 1850, United Nations_

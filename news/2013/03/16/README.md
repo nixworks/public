@@ -37,7 +37,7 @@ _Context: Democratic Party, Italian, Laura Boldrini, Left Ecology Freedom, Mafia
 Pope Francis says he wants a &quot;poor Church for the poor&quot; as he confirms he took his name from the 12th Century saint, Francis of Assisi.
 
 ### [Soyuz TMA-06M: Three astronauts return safely to Earth from the International Space Station aboard a Russian capsule. ](/news/2013/03/16/soyuz-tma-06m-three-astronauts-return-safely-to-earth-from-the-international-space-station-aboard-a-russian-capsule.md)
-_Context: Earth, International Space Station, Russia, Soyuz TMA-06M, astronauts_
+_Context: Earth, ISS, Russia, Soyuz TMA-06M, astronauts_
 
 ## [Previous Day...](/news/2013/03/15/index.md)
 

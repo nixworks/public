@@ -64,7 +64,7 @@ Disgraced Barnsley Central MP resigns days before he is due to be sentenced for 
 _Context: USA PATRIOT Act, United States House of Representatives_
 
 ### [Brazilian environmentalists and indigenous rights activists protest against the Belo Monte Dam in Brasilia. ](/news/2011/02/8/brazilian-environmentalists-and-indigenous-rights-activists-protest-against-the-belo-monte-dam-in-brasilia.md)
-_Context: Belo Monte Dam, Brasilia, Brazil, indigenous rights_
+_Context: Belo Monte Dam, Brasilia, Brazil, Indigenous rights_
 
 ## [Previous Day...](/news/2011/02/7/index.md)
 

@@ -19,7 +19,7 @@ _Context: 2007 Solomon Islands earthquake, New Georgia Islands, Ranongga, World 
 _Context: Greece, M/S ''Sea Diamond'', criminal negligence, cruise ship_
 
 ### [ Hungarian American software developer Charles Simonyi launches on board Soyuz TMA-10 towards the International Space Station, becoming the fifth space tourist. ](/news/2007/04/7/hungarian-american-software-developer-charles-simonyi-launches-on-board-soyuz-tma-10-towards-the-international-space-station-becoming-the.md)
-_Context: Charles Simonyi, Hungarian American, International Space Station, Soyuz TMA-10, commercial space flights, software_
+_Context: Charles Simonyi, Hungarian American, ISS, Soyuz TMA-10, commercial space flights, software_
 
 ### [ A jeep carrying a gelatin-based explosive for a highway construction project explodes in the Indian village of Chendur in Tamil Nadu killing at least 16 people. ](/news/2007/04/7/a-jeep-carrying-a-gelatin-based-explosive-for-a-highway-construction-project-explodes-in-the-indian-village-of-chendur-in-tamil-nadu-killin.md)
 _Context: Chendur, India, Tamil Nadu, explosive, gelatin, highway_

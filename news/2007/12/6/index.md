@@ -19,7 +19,7 @@ _Context: 2007 subprime mortgage financial crisis, George W. Bush, President, Un
 _Context: 8th arrondissement of Paris, France, letter bomb_
 
 ### [ The launch of Space Shuttle ''Atlantis'''s STS-122 mission, which will deliver ESA's Columbus module to the International Space Station, is delayed for one day due to a sensor malfunction. ](/news/2007/12/6/the-launch-of-space-shuttle-atlantis-s-sts-122-mission-which-will-deliver-esa-s-columbus-module-to-the-international-space-station-is.md)
-_Context: Columbus module, European Space Agency, International Space Station, STS-122, Space Shuttle, Space Shuttle Atlantis_
+_Context: Columbus module, European Space Agency, ISS, STS-122, Space Shuttle, Space Shuttle Atlantis_
 
 ### [ The 2007 laureates of the Right Livelihood Award (aka "Alternative Nobel Prize") for "ongoing successful work" are presented in  Christopher Weeramantry for his lifetime of groundbreaking work to strengthen and expand the rule of international law. ](/news/2007/12/6/the-2007-laureates-of-the-right-livelihood-award-aka-alternative-nobel-prize-for-ongoing-successful-work-are-presented-in-christophe.md)
 _Context: Christopher Weeramantry, Right Livelihood Award, Stockholm, Sweden_

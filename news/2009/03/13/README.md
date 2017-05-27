@@ -7,7 +7,7 @@ _Context: Guantanamo Bay, Guantanamo Bay detention camp, United States, detainee
 _Context: Darfur, Italian, Medecins Sans Frontieres, Ministry of Foreign Affairs, Sudan, conflict, volunteer_
 
 ### [ United Nations High Commissioner for Human Rights Navanethem Pillay accuses Sri Lanka's Armed Forces and the Tamil Tigers of possible war crimes. ](/news/2009/03/13/united-nations-high-commissioner-for-human-rights-navanethem-pillay-accuses-sri-lanka-s-armed-forces-and-the-tamil-tigers-of-possible-war-c.md)
-_Context: High Commissioner for Human Rights, LTTE, Navanethem Pillay, Sri Lanka, Sri Lankan Civil War, United Nations, armed forces, war crime_
+_Context: LTTE, Navanethem Pillay, Sri Lanka, Sri Lankan Civil War, United Nations, United Nations High Commissioner for Human Rights, armed forces, war crime_
 
 ### [ Police are mobilized in Pakistan as thousands of protestors march toward Islamabad. ](/news/2009/03/13/police-are-mobilized-in-pakistan-as-thousands-of-protestors-march-toward-islamabad.md)
 Police in Pakistan have blocked highways and banned political gatherings in three provinces as thousands of protesters attempt to march to the capital, Islamabad.

@@ -10,7 +10,7 @@ _Context: North Korea, Sea of Japan, Taepodong-2, United States Department of St
 _Context: Ashkelon, Gaza Strip, Hamas, Israel, Qassam rocket, high school_
 
 ### [ The Space Shuttle ''Discovery'' takes off from Cape Canaveral for the International Space Station at 2:38pm EDT (1838 UTC) after its liftoff had been postponed twice. ](/news/2006/07/4/the-space-shuttle-discovery-takes-off-from-cape-canaveral-for-the-international-space-station-at-2-38pm-edt-1838-utc-after-its-liftof.md)
-_Context: Cape Canaveral, Discovery, EDT, International Space Station_
+_Context: Cape Canaveral, Discovery, EDT, ISS_
 
 ### [ A bomb scare in the arrivals area of Dublin Airport results in a complete closure of the main building. The man who is responsible for the scare has been arrested; he claims to be a member of al-Qaeda.  Approximately 9,000 passengers and 50 flights were affected during the two-hour disruption. (Wikinews)](/news/2006/07/4/a-bomb-scare-in-the-arrivals-area-of-dublin-airport-results-in-a-complete-closure-of-the-main-building-the-man-who-is-responsible-for-the.md)
 _Context: (Wikinews), Dublin Airport, al-Qaeda_
