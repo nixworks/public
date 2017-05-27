@@ -19,7 +19,7 @@ Katie Hopkins is to leave LBC with immediate effect, the radio station has confi
 Flooding and mudslides caused by monsoon rains leave at least 91 dead and more than 100 missing.
 
 ### [The Turkish government issues an arrest warrant for NBA Oklahoma City Thunder player Enes Kanter suspected of being a member of a "terror group."  Kanter, a vocal supporter of Fethullah Gulen, was returning to the U.S. from a charity tour when, last Saturday, he was detained in Bucharest, Romania, because  his Turkish passport had been revoked. Kanter says  he plans on becoming a United States citizen. ](/news/2017/05/26/the-turkish-government-issues-an-arrest-warrant-for-nba-oklahoma-city-thunder-player-enes-kanter-suspected-of-being-a-member-of-a-terror-gr.md)
-_Context: Bucharest, Enes Kanter, Oklahoma City Thunder, Romania, Turkish government, United States citizen_
+_Context: Bucharest, Enes Kanter, Fethullah Gulen, Oklahoma City Thunder, Romania, Turkish government, United States citizen_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
