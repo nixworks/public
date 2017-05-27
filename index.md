@@ -12,6 +12,9 @@ All British Airways flights leaving Heathrow and Gatwick are cancelled until 18:
 ### [ Colombey authorities report the tomb of French national hero Charles de Gaulle has been vandalized. ](/news/2017/05/27/colombey-authorities-report-the-tomb-of-french-national-hero-charles-de-gaulle-has-been-vandalized.md)
 _Context: Charles de Gaulle, Colombey, French_
 
+### [Portland, Oregon: American Christian terrorist Jeremy Joseph Christian (born 1982) murders two train commuters for defending a Muslim girl from his racist abuse. ](/news/2017/05/27/portland-oregon-american-christian-terrorist-jeremy-joseph-christian-born-1982-murders-two-train-commuters-for-defending-a-muslim-girl-f.md)
+Two men are stabbed to death on a train in Portland as they try to stop a man abusing two women.
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
