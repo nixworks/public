@@ -42,8 +42,8 @@ Around 35,000 demonstrators took to the streets of the capital Brasilia angry at
 ### [Republican Greg Gianforte bodyslams a reporter from ''The Guardian'' who then reports the situation to police. Gianforte is running against Democrat Rob Quist. ](/news/2017/05/24/republican-greg-gianforte-bodyslams-a-reporter-from-the-guardian-who-then-reports-the-situation-to-police-gianforte-is-running-against.md)
 Audio of Greg Gianforte attacking Ben Jacobs corroborated by Fox News journalists in the room, who described candidate ‘slamming him to the ground’
 
-### [The non-partisan Congressional Budget Office reports the new health care bill recently approved by the House of Representatives will leave 23 million more Americans uninsured by 2026 than under current law. ](/news/2017/05/24/the-non-partisan-congressional-budget-office-reports-the-new-health-care-bill-recently-approved-by-the-house-of-representatives-will-leave-2.md)
-_Context: American Health Care Act of 2017, Congressional Budget Office, more Americans uninsured_
+### [The Congressional Budget Office predicts that in the next decade, the new health care bill recently approved by the U.S. House of Representatives will reduce the federal deficit by $120 billion and leave 23 million more Americans uninsured, as opposed to current law. ](/news/2017/05/24/the-congressional-budget-office-predicts-that-in-the-next-decade-the-new-health-care-bill-recently-approved-by-the-u-s-house-of-representa.md)
+The Congressional Budget Office gave its projections Wednesday on the costs and impact of the version of the American Health Care Act passed by the House earlier this month.
 
 ## [Previous Day...](/news/2017/05/23/index.md)
 
