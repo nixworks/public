@@ -7,7 +7,7 @@ At least 18 people, mostly civilians, were killed when a suicide car bomber targ
 
 ### Source:
 
-1. [Independent](http://www.independent.co.uk/news/world/middle-east/afghanistan-suicide-bombing-convoy-dead-attack-first-day-ramadan-a7758711.html)
+1. [The Independent](http://www.independent.co.uk/news/world/middle-east/afghanistan-suicide-bombing-convoy-dead-attack-first-day-ramadan-a7758711.html)
 
 ### Related:
 
