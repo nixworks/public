@@ -1,6 +1,8 @@
 ## [News](/news/2017/05/27/index.md)
 
-### [ ](/news/2017/05/27/.md)
+### [At least 18 people were killed and 6 others injured in a car bomb explosion in Khost, eastern Afghanistan. ](/news/2017/05/27/at-least-18-people-were-killed-and-6-others-injured-in-a-car-bomb-explosion-in-khost-eastern-afghanistan.md)
+At least 18 people, mostly civilians, were killed when a suicide car bomber targeted a convoy of provincial security forces in eastern Afghanistan, an Interior Ministry official said. Najib Danish, the ministry&#039;s deputy spokesman, said the target of the bomber was a group of guards providing security for US forces in Khost province, but most of the victims were civilians. No group immediately claimed responsibility, but Taliban insurgents have increased their attacks against Afghan security forces since announcing their spring offensive last month.
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -32,6 +34,9 @@ Flooding and mudslides caused by monsoon rains leave at least 91 dead and more t
 
 ### [The Turkish government issues an arrest warrant for NBA Oklahoma City Thunder player Enes Kanter suspected of being a member of a "terror group."  Kanter, a vocal supporter of Fethullah Gulen, was returning to the U.S. from a charity tour when, last Saturday, he was detained in Bucharest, Romania, because  his Turkish passport had been revoked. Kanter says  he plans on becoming a United States citizen. ](/news/2017/05/26/the-turkish-government-issues-an-arrest-warrant-for-nba-oklahoma-city-thunder-player-enes-kanter-suspected-of-being-a-member-of-a-terror-gr.md)
 _Context: Bucharest, Enes Kanter, Fethullah Gulen, Oklahoma City Thunder, Romania, Turkish government, United States citizen_
+
+### [Polish-American diplomat Zbigniew Brzezinski, counselor to President Lyndon B. Johnson (1966-1968) and President Jimmy Carter's National Security Advisor (1977-1981) dies at the age of 89. ](/news/2017/05/26/polish-american-diplomat-zbigniew-brzezinski-counselor-to-president-lyndon-b-johnson-1966a1968-and-president-jimmy-carter-s-national-s.md)
+President Carter&rsquo;s national security adviser, Zbigniew Brzezinski, has died.
 
 ---
 

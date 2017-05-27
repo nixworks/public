@@ -24,5 +24,8 @@ Flooding and mudslides caused by monsoon rains leave at least 91 dead and more t
 ### [The Turkish government issues an arrest warrant for NBA Oklahoma City Thunder player Enes Kanter suspected of being a member of a "terror group."  Kanter, a vocal supporter of Fethullah Gulen, was returning to the U.S. from a charity tour when, last Saturday, he was detained in Bucharest, Romania, because  his Turkish passport had been revoked. Kanter says  he plans on becoming a United States citizen. ](/news/2017/05/26/the-turkish-government-issues-an-arrest-warrant-for-nba-oklahoma-city-thunder-player-enes-kanter-suspected-of-being-a-member-of-a-terror-gr.md)
 _Context: Bucharest, Enes Kanter, Fethullah Gulen, Oklahoma City Thunder, Romania, Turkish government, United States citizen_
 
+### [Polish-American diplomat Zbigniew Brzezinski, counselor to President Lyndon B. Johnson (1966-1968) and President Jimmy Carter's National Security Advisor (1977-1981) dies at the age of 89. ](/news/2017/05/26/polish-american-diplomat-zbigniew-brzezinski-counselor-to-president-lyndon-b-johnson-1966a1968-and-president-jimmy-carter-s-national-s.md)
+President Carter&rsquo;s national security adviser, Zbigniew Brzezinski, has died.
+
 ## [Previous Day...](/news/2017/05/25/index.md)
 
