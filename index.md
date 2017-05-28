@@ -3,6 +3,9 @@
 ### [At least 126 people are dead, and 97 missing, after mudslides and floods caused by heavy rain in Sri Lanka. One hundred thousand people have been displaced. ](/news/2017/05/28/at-least-126-people-are-dead-and-97-missing-after-mudslides-and-floods-caused-by-heavy-rain-in-sri-lanka-one-hundred-thousand-people-have.md)
 _Context: 2017 Sri Lankan flood and landslide, Sri Lanka_
 
+### [The Russian Irkut MC-21 airliner makes its maiden flight. ](/news/2017/05/28/the-russian-irkut-mc-21-airliner-makes-its-maiden-flight.md)
+The plane was successful, said a source at the Irkutsk aviation plant
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -62,6 +65,9 @@ _Context: Bucharest, Enes Kanter, Fethullah Gulen, Oklahoma City Thunder, Romani
 
 ### [A spokesman for the Chipotle Mexican Grill restaurant chain reveals that hackers stole customer payment data from most of their stores over a span of three weeks starting from the end of March. ](/news/2017/05/26/a-spokesman-for-the-chipotle-mexican-grill-restaurant-chain-reveals-that-hackers-stole-customer-payment-data-from-most-of-their-stores-over.md)
 _Context: Chipotle Mexican Grill_
+
+### [Two men are stabbed to death in a train in Portland, Oregon, after they attempt to intervene while a man shouts racial slurs at two Muslim teenage girls. ](/news/2017/05/26/two-men-are-stabbed-to-death-in-a-train-in-portland-oregon-after-they-attempt-to-intervene-while-a-man-shouts-racial-slurs-at-two-muslim-t.md)
+Police say two men were stabbed to death when they tried to intervene as a man shouted hate speech at two young women
 
 ### [Construction begins on the European Extremely Large Telescope (ELT) in northern Chile. The ELT is expected to become operational in 2024. ](/news/2017/05/26/construction-begins-on-the-european-extremely-large-telescope-elt-in-northern-chile-the-elt-is-expected-to-become-operational-in-2024.md)
 _Context: Chile, European Extremely Large Telescope_
