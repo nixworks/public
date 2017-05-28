@@ -10,7 +10,7 @@ TD Ameritrade (AMTD.O) has agreed to buy Scottrade for $2.7 billion in a deal th
 A plane has crashed in Malta, killing all five people on board in the country&#039;s worst peacetime air disaster. Maltese officials said French customs officials were among victims on the flight, which was heading for the city of Misrata in Libya.
 
 ### [France clears the Calais Jungle, relocating six thousand migrants. ](/news/2016/10/24/france-clears-the-calais-jungle-relocating-six-thousand-migrants.md)
-_Context: Calais Jungle, France_
+_Context: Calais Jungle, French_
 
 ### [Wendy Demchick-Alloy, a Montgomery County court judge in Norristown, sentences former Pennsylvania Attorney General Kathleen Kane to serve 10 to 23 months in county jail for leaking confidential grand jury information and then lying about it to investigators. Specifically, she was convicted on August 15 on charges of perjury, false swearing, obstruction of justice, official oppression, and conspiracy. ](/news/2016/10/24/wendy-demchick-alloy-a-montgomery-county-court-judge-in-norristown-sentences-former-pennsylvania-attorney-general-kathleen-kane-to-serve-1.md)
 Former Pennsylvania Attorney General Kathleen Kane was sentenced on Monday to serve 10 to 23 months in county jail for leaking confidential grand jury information and then lying about it to investigators.

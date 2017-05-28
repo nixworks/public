@@ -76,7 +76,7 @@ _Context: Federal Bureau of Investigation, Philadelphia, Sicilian Mafia, United 
 _Context: Dimeji Bankole, House of Representatives, Nigeria_
 
 ### [France announces that it will stop teaching indigenous languages in schools in all of its Overseas departments and territories of France. ](/news/2011/06/6/france-announces-that-it-will-stop-teaching-indigenous-languages-in-schools-in-all-of-its-overseas-departments-and-territories-of-france.md)
-_Context: France, Overseas departments and territories of France, indigenous language_
+_Context: French, Overseas departments and territories of France, indigenous language_
 
 ### [Ollanta Humala is elected President of Peru in the Peruvian general election, defeating opposition leader Keiko Fujimori. ](/news/2011/06/6/ollanta-humala-is-elected-president-of-peru-in-the-peruvian-general-election-defeating-opposition-leader-keiko-fujimori.md)
 _Context: Keiko Fujimori, Ollanta Humala, Peruvian general election, President_
@@ -85,7 +85,7 @@ _Context: Keiko Fujimori, Ollanta Humala, Peruvian general election, President_
 _Context: Anthony Weiner, New York, Twitter, United States House of Representatives_
 
 ### [Austan Goolsbee announces plans to leave the position of Chairman of President of the United States Council of Economic Advisers by September. ](/news/2011/06/6/austan-goolsbee-announces-plans-to-leave-the-position-of-chairman-of-president-of-the-united-states-council-of-economic-advisers-by-septembe.md)
-_Context: Austan Goolsbee, Council of Economic Advisers, President_
+_Context: Austan Goolsbee, Council of Economic Advisers, U.S. President_
 
 ## [Previous Day...](/news/2011/06/5/index.md)
 

@@ -4,7 +4,7 @@
 _Context: Abhisit Vejjajiva, Prime Minister of Thailand, Thailand, blood, red shirt_
 
 ### [A French police officer dies in a shootout with Basque nationalist group ETA in Paris, the first French officer to do so. ](/news/2010/03/17/a-french-police-officer-dies-in-a-shootout-with-basque-nationalist-group-eta-in-paris-the-first-french-officer-to-do-so.md)
-_Context: Basque separatist, ETA, France, Paris_
+_Context: Basque separatist, ETA, French, Paris_
 
 ### [30 members of the "Ladies in White" opposition movement in Cuba are arrested at a demonstration in the capital Havana. ](/news/2010/03/17/30-members-of-the-ladies-in-white-opposition-movement-in-cuba-are-arrested-at-a-demonstration-in-the-capital-havana.md)
 Female relatives of dissidents heckled during march outside Havana, then removed in buses.

@@ -37,7 +37,7 @@ _Context: 2004, Amnesty International, death penalty, execution_
 _Context: Alice Mobolaji Osomo, Nigeria, Olusegun Obasanjo, President of Nigeria, anti-corruption_
 
 ### [ The United Nations Security Council extends the mandate of UN and French peacekeepers in Cote d'Ivoire. ](/news/2005/04/4/the-united-nations-security-council-extends-the-mandate-of-un-and-french-peacekeepers-in-ca-te-d-ivoire.md)
-_Context: Cote d'Ivoire, France, United Nations, United Nations Security Council, peacekeeper_
+_Context: Cote d'Ivoire, French, United Nations, United Nations Security Council, peacekeeper_
 
 ### [ South African president Thabo Mbeki hosts a meeting between rebels and the Cote d'Ivoire government in his presidential palace. ](/news/2005/04/4/south-african-president-thabo-mbeki-hosts-a-meeting-between-rebels-and-the-ca-te-d-ivoire-government-in-his-presidential-palace.md)
 _Context: South Africa, Thabo Mbeki_

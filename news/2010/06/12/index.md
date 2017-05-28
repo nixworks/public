@@ -40,7 +40,7 @@ _Context: Buddhist, Buddhist monks, Gautama Buddha, Jiangsu Province_
 _Context: Barack Obama, David Cameron, Deepwater Horizon oil spill, Prime Minster, U.S. President, United Kingdom_
 
 ### [A French fishing boat rescues US teenage sailor Abby Sunderland in the Southern Ocean. ](/news/2010/06/12/a-french-fishing-boat-rescues-us-teenage-sailor-abby-sunderland-in-the-southern-ocean.md)
-_Context: Abby Sunderland, France, Southern Ocean, United States, fishing boat, sailor, teenage_
+_Context: Abby Sunderland, French, Southern Ocean, United States, fishing boat, sailor, teenage_
 
 ### [Pilots for the American low-cost carrier Spirit Airlines go on strike. ](/news/2010/06/12/pilots-for-the-american-low-cost-carrier-spirit-airlines-go-on-strike.md)
 _Context: Spirit Airlines, United States, airline pilot, low-cost carrier, strike_

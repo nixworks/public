@@ -22,7 +22,7 @@ _Context: Africa, Benedict XVI, Mass, Rome, Vatican, bishop, synod_
 _Context: Kim Jong-il, North Korea, People's Republic of China, Premier, Wen Jiabao_
 
 ### [ The British and French governments announce a "historic" PS2.5 billion allocation to the International Monetary Fund to help less wealthy countries. ](/news/2009/10/4/the-british-and-french-governments-announce-a-historic-aps2-5-billion-allocation-to-the-international-monetary-fund-to-help-less-wealthy-c.md)
-_Context: France, International Monetary Fund, United Kingdom_
+_Context: French, International Monetary Fund, United Kingdom_
 
 ### [ One of the last prominent militant leaders in Nigeria's Niger Delta region, Government Ekpemupolo (Tompolo), agrees to an amnesty with the government. ](/news/2009/10/4/one-of-the-last-prominent-militant-leaders-in-nigeria-s-niger-delta-region-government-ekpemupolo-tompolo-agrees-to-an-amnesty-with-the.md)
 *Ateke Tom&#8217;s men leave creeks for Port Harcourt *Tompolo scheduled to meet Yar&#8217;Adua Don&#8217;t rejoice yet, MEND tells FG By Emma Amaize, George Onah and agency reports THE zero hour is here : The deadlineÂ given militants on June 26, 2009, by President Umaru Yarâ€™Adua to lay down their arms and be granted amnesty. AsRead More

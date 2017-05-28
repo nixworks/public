@@ -34,7 +34,7 @@ The face of Yonge Street in Downtown Toronto has been forever changed thanks to 
 _Context: Africa, Beninese, Cape Verde, Cote d'Ivoire, Kenya, Laurent Gbagbo, President, Sierra Leone, amnesty_
 
 ### [According to a new Wikileaks document, U.S. ambassador to France, Craig Stapleton, asked Washington to penalize nations, including France, who do not support genetically modified crops.](/news/2011/01/3/according-to-a-new-wikileaks-document-u-s-ambassador-to-france-craig-stapleton-asked-washington-to-penalize-nations-including-france-w.md)
-_Context: 250,000 documents, Craig Stapleton, France, U.S., genetically modified crops_
+_Context: 250,000 documents, Craig Stapleton, French, U.S., genetically modified crops_
 
 ### [An Iranian judiciary official says that Sakineh Mohammadi Ashtiani could be spared execution by stoning for murder, manslaughter, and adultery, pointing out that ambiguities remain in her case. ](/news/2011/01/3/an-iranian-judiciary-official-says-that-sakineh-mohammadi-ashtiani-could-be-spared-execution-by-stoning-for-murder-manslaughter-and-adulte.md)
 _Context: Iran's conservative judiciary, Sakineh Mohammadi Ashtiani, adultery, halt executions, manslaughter, murder_

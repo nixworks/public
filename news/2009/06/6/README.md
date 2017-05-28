@@ -1,7 +1,7 @@
 ## [2009-06-6](/news/2009/06/6/index.md)
 
 ### [ The European Union's parliamentary election continues in Cyprus, Italy, Latvia, Malta, Slovakia, the Czech Republic, and France's overseas departments and territories. ](/news/2009/06/6/the-european-union-s-parliamentary-election-continues-in-cyprus-italy-latvia-malta-slovakia-the-czech-republic-and-france-s-overseas.md)
-_Context: Cyprus, Czech, European Parliament, European Union, France, Italian, Latvia, Maltese, Overseas departments and territories of France, Slovakia's, elections_
+_Context: Cyprus, Czech, European Parliament, European Union, French, Italian, Latvia, Maltese, Overseas departments and territories of France, Slovakia's, elections_
 
 ### [ The ruling party Fianna Fail endures significant losses in Ireland's local elections and parliamentary by-elections in Dublin Central and Dublin South. ](/news/2009/06/6/the-ruling-party-fianna-fa-il-endures-significant-losses-in-ireland-s-local-elections-and-parliamentary-by-elections-in-dublin-central-and.md)
 _Context: Dublin Central, Dublin South, Fianna Fail, Republic of Ireland, by-election, local elections, parliament, ruling party_
@@ -37,7 +37,7 @@ _Context: East Germany, Karl-Heinz Kurras, Stasi, West Berlin, espionage, police
 _Context: Harvard University, coagulation, molecule_
 
 ### [ The American Cemetery and Memorial honors World War II veterans who landed at Normandy, France, in 1944. ](/news/2009/06/6/the-american-cemetery-and-memorial-honors-world-war-ii-veterans-who-landed-at-normandy-france-in-1944.md)
-_Context: 1944, American Cemetery and Memorial, D-Day, France, Normandy, World War II, veteran_
+_Context: 1944, American Cemetery and Memorial, D-Day, French, Normandy, World War II, veteran_
 
 ### [ The International Labour Organization requests that Burma's government amend a clause in its Constitution that may justify forced labor. ](/news/2009/06/6/the-international-labour-organization-requests-that-burma-s-government-amend-a-clause-in-its-constitution-that-may-justify-forced-labor.md)
 _Context: Burma, Constitution, International Labour Organization, clause, constitutional amendment, forced labor, government_

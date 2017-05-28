@@ -1,7 +1,7 @@
 ## [2013-11-26](/news/2013/11/26/index.md)
 
 ### [Central African Republic conflict (2012-13):France announces that it plans to intervene in the conflict in the Central African Republic. ](/news/2013/11/26/central-african-republic-conflict-2012a13-pfrance-announces-that-it-plans-to-intervene-in-the-conflict-in-the-central-african-republic.md)
-_Context: Central African Republic conflict (2012-13), Central-African, France_
+_Context: Central African Republic conflict (2012-13), Central-African, French_
 
 ### [Typhoon Haiyan:39 musicians, including The Beatles, U2, Madonna, Lady Gaga, Beyonce, Katy Perry, Lorde, One Direction, and Justin Bieber, release a charity album to help the victims. ](/news/2013/11/26/typhoon-haiyan-p39-musicians-including-the-beatles-u2-madonna-lady-gaga-beyonca-c-katy-perry-lorde-one-direction-and-justin-bieber.md)
 Isn&#39;t it nice when everyone bands together for a cause? The compilation album &#39;Songs for the Philippines,&#39; on sale at iTunes, includes tracks by Beyonce, U2 and Adele and benefits the Philippine Red Cross.

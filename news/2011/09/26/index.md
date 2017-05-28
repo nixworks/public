@@ -4,7 +4,7 @@
 _Context: Libyan Civil War, Muammar Gaddafi, National Transitional Council, Sirte_
 
 ### [The President of Indonesia, Susilo Bambang Yudhoyono, orders the National Police's Detachment 88 counter-terrorism squad to investigate a recent suicide bombing in Solo, Java. ](/news/2011/09/26/the-president-of-indonesia-susilo-bambang-yudhoyono-orders-the-national-police-s-detachment-88-counter-terrorism-squad-to-investigate-a-re.md)
-_Context: Detachment 88, Indonesian police, President of Indonesia, Solo, Java, Susilo Bambang Yudhoyono, counterterrorism, suicide bombing_
+_Context: Detachment 88, Indonesian police, President of Indonesia, Solo, Java, Susilo Bambang Yudhoyono, counter-terrorism, suicide bombing_
 
 ### [Some of the Dead Sea Scrolls are published online in a joint project between Israel's national museum and Google. ](/news/2011/09/26/some-of-the-dead-sea-scrolls-are-published-online-in-a-joint-project-between-israel-s-national-museum-and-google.md)
 _Context: Dead Sea Scrolls, Google, Israel's national museum_

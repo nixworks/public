@@ -73,7 +73,7 @@ Shadow immigration minister Phil Woolas vows to fight a decision to declare his 
 Nigel Farage is re-elected as leader of the UK Independence Party, replacing Lord Pearson in the post he previously held between 2006 and 2009.
 
 ### [A protest by French anti-nuclear organisation GANVA blocks a train carrying nuclear waste near Caen in northwestern France. ](/news/2010/11/5/a-protest-by-french-anti-nuclear-organisation-ganva-blocks-a-train-carrying-nuclear-waste-near-caen-in-northwestern-france.md)
-_Context: Caen, France, GANVA, nuclear waste_
+_Context: Caen, French, GANVA, nuclear waste_
 
 ### [The President of Tanzania Jakaya Kikwete is reelected to a second term despite allegations of vote-rigging. ](/news/2010/11/5/the-president-of-tanzania-jakaya-kikwete-is-reelected-to-a-second-term-despite-allegations-of-vote-rigging.md)
 Tanzanian president Jakaya Kikwete has won a second term in office, despite allegations of vote rigging.

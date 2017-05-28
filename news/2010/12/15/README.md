@@ -59,7 +59,7 @@ _Context: Southern Sudan, Southern Sudanese Independence Referendum, Sudan_
 Ouattara’s camp asks supporters to help them take over state television and government buildings
 
 ### [Cuba refuses to grant a visa to dissident Guillermo Farias so that he could receive the Sakharov Prize in France. ](/news/2010/12/15/cuba-refuses-to-grant-a-visa-to-dissident-guillermo-farinas-so-that-he-could-receive-the-sakharov-prize-in-france.md)
-_Context: Cuba, France, Guillermo Farias, Sakharov Prize for Freedom of Thought, visa-free travel_
+_Context: Cuba, French, Guillermo Farias, Sakharov Prize for Freedom of Thought, visa-free travel_
 
 ### [Credit card companies such as Visa and MasterCard that prevented card-holders from donating money to the whistleblower website WikiLeaks could have their operating licenses taken away in Iceland. A parliament investigation is ongoing. ](/news/2010/12/15/credit-card-companies-such-as-visa-and-mastercard-that-prevented-card-holders-from-donating-money-to-the-whistleblower-website-wikileaks-cou.md)
 Representatives from Mastercard and Visa were called before a parliamentary committee to explain the credit companies’ refusal to process donations to the whistle-blowing website WikiLeaks.

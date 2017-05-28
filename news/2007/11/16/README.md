@@ -13,7 +13,7 @@ _Context: 2007 Georgian demonstrations, President of Georgia, Saakashvili, state
 _Context: Nepal, Nepalese Constituent Assembly election, 2008, Supreme Court, legal, moral_
 
 ### [ Strikes in France: French train drivers' strike against President Nicolas Sarkozy's pension reform enters its third day. ](/news/2007/11/16/strikes-in-france-french-train-drivers-strike-against-president-nicolas-sarkozy-s-pension-reform-enters-its-third-day.md)
-_Context: France, Nicolas Sarkozy, President of France, pension reform, public-sector strikes, strike, train driver_
+_Context: French, Nicolas Sarkozy, President of France, pension reform, public-sector strikes, strike, train driver_
 
 ### [ German architect Heike Hanada of Weimar wins the international competition for extending the Stockholm Public Library. ](/news/2007/11/16/german-architect-heike-hanada-of-weimar-wins-the-international-competition-for-extending-the-stockholm-public-library.md)
 _Context: German, Heike Hanada, Weimar, architect, central library, competition_
@@ -43,7 +43,7 @@ _Context: Civic Platform, Donald Tusk, Polish People's Party, Polish Prime Minis
 _Context: India, Jaish-e-Mohammed, Kidnap, Pakistan, Uttar Pradesh_
 
 ### [ Japanese Prime Minister Yasuo Fukuda flies to the United States to hold talks with U.S. President George W. Bush. ](/news/2007/11/16/japanese-prime-minister-yasuo-fukuda-flies-to-the-united-states-to-hold-talks-with-u-s-president-george-w-bush.md)
-_Context: George W. Bush, Japan, President, Prime Minister, United States, Yasuo Fukuda_
+_Context: George W. Bush, Japan, Prime Minister, U.S. President, United States, Yasuo Fukuda_
 
 ### [ The death toll from Cyclone Sidr increases to 242 as the storm weakens and passes through the Bangladeshi capital Dhaka. ](/news/2007/11/16/the-death-toll-from-cyclone-sidr-increases-to-242-as-the-storm-weakens-and-passes-through-the-bangladeshi-capital-dhaka.md)
 _Context: Bangladesh, Dhaka, cyclone Sidr_

@@ -10,7 +10,7 @@ _Context: Afghan calendar, Afghanistan, Ahmad Shah Massoud, Haftai Shahid, Kabul
 A teenage suicide bomber kills at least six people including a number of children near the headquarters of the Nato-led coalition in the Afghan capital Kabul.
 
 ### [For the first time in nearly eighteen months, a sign of life appears of four French nationals kidnapped by Al-Qa'eda in Arlit, Niger. A videotape shows them healthy; they ask France to negotiate their release. ](/news/2012/09/8/for-the-first-time-in-nearly-eighteen-months-a-sign-of-life-appears-of-four-french-nationals-kidnapped-by-al-qa-eda-in-arlit-niger-a-vide.md)
-_Context: Arlit, France, Niger, al-Qaeda_
+_Context: Arlit, French, Niger, al-Qaeda_
 
 ### [Kim Ki-duk's violent tale ''Pieta'' wins the Golden Lion at the Venice Film Festival. Kim thanks the audience and the jury by singing a song. ](/news/2012/09/8/kim-ki-duk-s-violent-tale-pieta-wins-the-golden-lion-at-the-venice-film-festival-kim-thanks-the-audience-and-the-jury-by-singing-a-son.md)
 _Context: Golden Lion, Kim Ki-duk, Pieta, Venice Film Festival_

@@ -10,7 +10,7 @@ A chief provider and curator of Catholic information on the web since 1996. Our 
 _Context: National Democratic Alliance, Sudan, peace treaty, umbrella group_
 
 ### [ The Airbus A380 is officially launched at a ceremony in the main French Airbus factory in Toulouse. Carrying between 550 and 840 passengers (depending on configuration), the double decker A380 is now the largest passenger airliner in the world.  ](/news/2005/01/18/the-airbus-a380-is-officially-launched-at-a-ceremony-in-the-main-french-airbus-factory-in-toulouse-carrying-between-550-and-840-passengers.md)
-_Context: Airbus, Airbus A380, France, Toulouse, airliner_
+_Context: Airbus, Airbus A380, French, Toulouse, airliner_
 
 ### [ The United Nations World Food Program appeals for aid to Mauritania, after drought and large locust swarms destroy the harvest. ](/news/2005/01/18/the-united-nations-world-food-program-appeals-for-aid-to-mauritania-after-drought-and-large-locust-swarms-destroy-the-harvest.md)
 _Context: Mauritania, United Nations World Food Program, drought, locust, swarm_
@@ -25,7 +25,7 @@ _Context: Bao Tong, Beijing, Tiananmen Square protests of 1989, Zhao Ziyang, pol
 _Context: 1995, Bosnia and Herzegovina, Dragan Jokic, Serb, Srebrenica, Vidoje Blagojevic_
 
 ### [ In France, labour unions are threatening to begin a succession of strikes to protest against the government of president Jacques Chirac. ](/news/2005/01/18/in-france-labour-unions-are-threatening-to-begin-a-succession-of-strikes-to-protest-against-the-government-of-president-jacques-chirac.md)
-_Context: France, Jacques Chirac, labour union, strike_
+_Context: French, Jacques Chirac, labour union, strike_
 
 ### [ Mark Latham, leader of Australia's opposition Labor Party, resigns from his position and from parliament due to ill health. Possible replacements include former deputy prime minister Kim Beazley, shadow foreign minister Kevin Rudd and shadow health minister Julia Gillard. ](/news/2005/01/18/mark-latham-leader-of-australia-s-opposition-labor-party-resigns-from-his-position-and-from-parliament-due-to-ill-health-possible-replac.md)
 _Context: Australia, Julia Gillard, Kevin Rudd, Kim Beazley, Labor Party, Mark Latham, Parliament_

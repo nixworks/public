@@ -43,7 +43,7 @@ _Context: Atlanta, Georgia, Georgia_
 The US military says it is withdrawing some of the more than 200 troops it has in Pakistan, after a request from the government in Islamabad.
 
 ### [Leaders of the Group of Eight countries meet in Deauville, France, for the 37th G8 summit. ](/news/2011/05/26/leaders-of-the-group-of-eight-countries-meet-in-deauville-france-for-the-37th-g8-summit.md)
-_Context: 37th G8 summit, Deauville, France, Group of Eight_
+_Context: 37th G8 summit, Deauville, French, Group of Eight_
 
 ### [Rwandan genocide suspect Bernard Munyagishari is arrested, accused of murdering Tutsis and moderate Hutus in 1994. ](/news/2011/05/26/rwandan-genocide-suspect-bernard-munyagishari-is-arrested-accused-of-murdering-tutsis-and-moderate-hutus-in-1994.md)
 A Rwandan genocide suspect, Bernard Munyagishari, is arrested in eastern DR of Congo after being on the run for 17 years.

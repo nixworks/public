@@ -25,7 +25,7 @@ _Context: Bavaria, German, Landshut, shooting_
 _Context: Bandung, Fokker F27, Indonesia, West Java, airliner, crashes_
 
 ### [ French police raid the Basque Homeland and Freedom's "bomb factory" in Grenoble, Isere. ](/news/2009/04/7/french-police-raid-the-basque-homeland-and-freedom-s-bomb-factory-in-grenoble-isa-re.md)
-_Context: ETA, France, French police, Grenoble, Isere, bomb, raid_
+_Context: ETA, French, French police, Grenoble, Isere, bomb, raid_
 
 ### [ Australia's government announces a A$43-billion investment for the National Broadband Network. ](/news/2009/04/7/australia-s-government-announces-a-a-43-billion-investment-for-the-national-broadband-network.md)
 _Context: A$, Australia, Australia's government, National Broadband Network, financial investment_

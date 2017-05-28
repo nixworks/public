@@ -7,7 +7,7 @@ Gunmen have killed at least 20 people in a dawn attack in a remote village in no
 Protesters leave St Paul&#039;s after staging a protest in solidarity with Russian anarcho-punk band Pussy Riot.
 
 ### [President of Mauritania Mohamed Ould Abdel Aziz, shot by troops yesterday, is flown to France. ](/news/2012/10/14/president-of-mauritania-mohamed-ould-abdel-aziz-shot-by-troops-yesterday-is-flown-to-france.md)
-_Context: France, Mohamed Ould Abdel Aziz, President of Mauritania_
+_Context: French, Mohamed Ould Abdel Aziz, President of Mauritania_
 
 ### [A collection of manuscripts by  Franz Kafka and Max Brod must be handed over to the National Library of Israel, says the judge in Tel Aviv, sanctioning the heirs of Esther Hoffe, Brod's secretary. ](/news/2012/10/14/a-collection-of-manuscripts-by-franz-kafka-and-max-brod-must-be-handed-over-to-the-national-library-of-israel-says-the-judge-in-tel-aviv.md)
 Decision ends five-year battle by archive holders hoping to sell trove of papers to Germany

@@ -19,7 +19,7 @@ _Context: Athens, Cyprus, Czech, Flight 522, Helios Airways, Larnaca, Prague_
 _Context: Andrew Mwenda, John Garang, Sudan, Uganda, sedition_
 
 ### [ Liberian football hero George Weah has been given the go-ahead to contest the country's presidency. Liberia's election commission dismissed a complaint that his French citizenship barred him from standing.](/news/2005/08/14/liberian-football-hero-george-weah-has-been-given-the-go-ahead-to-contest-the-country-s-presidency-liberia-s-election-commission-dismissed.md)
-_Context: France, George Weah, Liberia, citizenship, contest the country's presidency_
+_Context: French, George Weah, Liberia, citizenship, contest the country's presidency_
 
 ## [Previous Day...](/news/2005/08/13/index.md)
 

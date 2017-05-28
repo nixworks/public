@@ -13,7 +13,7 @@ Syrian forces retake the largest rebel-held district in eastern Aleppo, with civ
 Government troops have killed at least 11 members of a rebel group in the southern Philippines that has pledged allegiance to Islamic State, the military said, sending local communities fleeing as a battle raged on Sunday.
 
 ### [The chief executive of Royal Dutch Shell, Ben van Beurden, denies the claim that his company's balance sheet contains any assets that will  be "stranded," that is that will have to be written off, due to the Paris Climate Accord. ](/news/2016/11/26/the-chief-executive-of-royal-dutch-shell-ben-van-beurden-denies-the-claim-that-his-company-s-balance-sheet-contains-any-assets-that-will.md)
-_Context: Ben van Beurden, Paris Climate Accord, Royal Dutch Shell, balance sheet_
+_Context: Ben van Beurden, Paris Agreement, Royal Dutch Shell, balance sheet_
 
 ### [At least seven people are dead, one person is missing and three others are rescued after a chartered fishing boat capsizes due to large waves in Kaipara Harbour, New Zealand. ](/news/2016/11/26/at-least-seven-people-are-dead-one-person-is-missing-and-three-others-are-rescued-after-a-chartered-fishing-boat-capsizes-due-to-large-wave.md)
 Seven people were killed and another person was missing after a chartered fishing boat disappeared from view in large waves at the entrance to a harbor near Auckland, New Zealand authorities said.

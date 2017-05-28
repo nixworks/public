@@ -7,7 +7,7 @@ _Context: India, Mumbai, monsoon, recent floods_
 _Context: 21 July 2005 London bombings, Brighton_
 
 ### [ Wim Duisenberg, the former head of the Rabobank, the Central Bank of the Netherlands and the European Central Bank, is found dead in the pool of his villa in the south of France. His death seems to have been caused by a cardiac arrest. ](/news/2005/07/31/wim-duisenberg-the-former-head-of-the-rabobank-the-central-bank-of-the-netherlands-and-the-european-central-bank-is-found-dead-in-the-po.md)
-_Context: Central Bank of the Netherlands, European Central Bank, France, Rabobank, Wim Duisenberg_
+_Context: Central Bank of the Netherlands, European Central Bank, French, Rabobank, Wim Duisenberg_
 
 ### [ Chile's Christian Democratic Party declares Michelle Bachelet as the presidential candidate of the ruling coalition ](/news/2005/07/31/chile-s-christian-democratic-party-declares-michelle-bachelet-as-the-presidential-candidate-of-the-ruling-coalition.md)
 _Context: Chile, Christian Democrat, Michelle Bachelet_

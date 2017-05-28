@@ -19,7 +19,7 @@ _Context: German, School shooting, Winnenden, killed_
 _Context: Ali Hassan al-Majid, Deputy Prime Minister, Intelligence Service, Iraq, Tariq Aziz, crimes against humanity_
 
 ### [ President Nicolas Sarkozy announces that France will rejoin NATO's military command.  ](/news/2009/03/11/president-nicolas-sarkozy-announces-that-france-will-rejoin-nato-s-military-command.md)
-_Context: France, NATO, Nicolas Sarkozy, President of France, military command_
+_Context: French, NATO, Nicolas Sarkozy, President of France, military command_
 
 ## [Previous Day...](/news/2009/03/10/index.md)
 

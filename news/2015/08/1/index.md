@@ -19,7 +19,7 @@ _Context: Chersonesus, Russia President, Russian Government, Vladimir Putin_
 _Context: Gubernatorial Chief of Staff, Puerto Rico, Victor Suarez_
 
 ### [Debris suspected to be from Malaysia Airlines Flight 370 that disappeared last year arrives in France for investigation in Toulouse. ](/news/2015/08/1/debris-suspected-to-be-from-malaysia-airlines-flight-370-that-disappeared-last-year-arrives-in-france-for-investigation-in-toulouse.md)
-_Context: France, Malaysia Airlines Flight 370, Toulouse_
+_Context: French, Malaysia Airlines Flight 370, Toulouse_
 
 ### [The President of Myanmar Thein Sein declares a state of emergency in four regions, Chin State, Magwe Region, Sagaing Region and Rakhine State, after floods kill at least 27 people. ](/news/2015/08/1/the-president-of-myanmar-thein-sein-declares-a-state-of-emergency-in-four-regions-chin-state-magwe-region-sagaing-region-and-rakhine-stat.md)
 As torrential rain continues, dozens die in eastern India and neighbouring Myanmar, where disaster zones have been declared.

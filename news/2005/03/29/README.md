@@ -34,7 +34,7 @@ _Context: Boy Scouts of America, Douglas S. Smith Jr, United States, child porno
 _Context: Domestic Relations Bill, Kampala, Muslim, Uganda, polygamy_
 
 ### [ France intends to change law that allows girls to marry at the age of 15  ](/news/2005/03/29/france-intends-to-change-law-that-allows-girls-to-marry-at-the-age-of-15.md)
-_Context: France, marriage_
+_Context: French, marriage_
 
 ### [ Dam bursts in South-eastern Afghanistan near the city of Ghazni. At least 6 people dead. ](/news/2005/03/29/dam-bursts-in-south-eastern-afghanistan-near-the-city-of-ghazni-at-least-6-people-dead.md)
 _Context: Afghanistan, Ghazni, dam_

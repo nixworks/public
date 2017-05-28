@@ -43,7 +43,7 @@ _Context: Alberto Fujimori, Peru, anti-corruption, murder_
 _Context: 1989, Abdul Rahman Ghassemlou, Austria, Iran, Kurd, Mahmoud Ahmadinejad, Vienna_
 
 ### [ In France, large forest fires rage in the French Riviera. Authorities evacuate thousands. ](/news/2005/07/5/in-france-large-forest-fires-rage-in-the-french-riviera-authorities-evacuate-thousands.md)
-_Context: France, French Riviera, forest fire_
+_Context: French, French Riviera, forest fire_
 
 ### [ Sudanese government and two rebels groups, including Sudan Liberation Movement and Justice and Equality Movement, sign a declaration of principles towards the peace talks. This ends three weeks of negotiations in the Nigerian capital Abuja. Talks are adjourned until August 24. ](/news/2005/07/5/sudanese-government-and-two-rebels-groups-including-sudan-liberation-movement-and-justice-and-equality-movement-sign-a-declaration-of-pri.md)
 _Context: Abuja, Justice and Equality Movement, Niger, Sudan, Sudan Liberation Movement, peace talks_

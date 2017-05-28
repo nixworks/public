@@ -10,7 +10,7 @@ _Context: Juarez, Mexico, prison, riot_
 _Context: Gordon Brown, Prime Minster, U.S. Congressional, United Kingdom, United States, joint session of Congress_
 
 ### [ President Nicolas Sarkozy and eight other top French politicians receive death threats. ](/news/2009/03/4/president-nicolas-sarkozy-and-eight-other-top-french-politicians-receive-death-threats.md)
-_Context: France, Nicolas Sarkozy, President of France, death threat, politician_
+_Context: French, Nicolas Sarkozy, President of France, death threat, politician_
 
 ### [ China plans to increase its military budget by 14.9% in 2009. ](/news/2009/03/4/china-plans-to-increase-its-military-budget-by-14-9-in-2009.md)
 _Context: People's Republic of China, military budget_

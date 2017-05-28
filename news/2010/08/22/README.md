@@ -31,7 +31,7 @@ About 150,000 people leave their homes in Sindh as flood defences are threatened
 Thirty-three&#x20;Chilean&#x20;miners&#x20;trapped&#x20;more&#x20;than&#x20;two&#x20;weeks&#x20;underground&#x20;sent&#x20;up&#x20;a&#x20;message&#x20;tied&#x20;to&#x20;a&#x20;drill&#x20;that&#x20;said&#x20;they&#x20;were&#x20;all&#x20;alive.&#x20;President&#x20;Pinera&#x20;said&#x20;he&#x20;was&#x20;hopeful&#x20;of&#x20;a&#x20;&quot;happy&#x20;ending&quot;,&#x20;even&#x20;though&#x20;it&#x20;would&#x20;take&#x20;months&#x20;to&#x20;get&#x20;them&#x20;out.
 
 ### [A Bolivian-flagged all-female international aid ship bound for Gaza is delayed as Cyprus bans it from passing, with Israel's Ehud Barak calling on France and the United States to prevent it from sailing because, he says, it is "a needless provocation". ](/news/2010/08/22/a-bolivian-flagged-all-female-international-aid-ship-bound-for-gaza-is-delayed-as-cyprus-bans-it-from-passing-with-israel-s-ehud-barak-call.md)
-_Context: Bolivia, Cyprus, Ehud Barak, France, Gaza Strip, Israel, United States_
+_Context: Bolivia, Cyprus, Ehud Barak, French, Gaza Strip, Israel, United States_
 
 ### [Iran unveils a long range unmanned bomber, the Karrar drone their latest addition in a number of recently disclosed military hardware. ](/news/2010/08/22/iran-unveils-a-long-range-unmanned-bomber-the-karrar-drone-their-latest-addition-in-a-number-of-recently-disclosed-military-hardware.md)
 _Context: Iran, drone aircraft_

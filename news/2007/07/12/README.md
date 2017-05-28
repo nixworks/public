@@ -16,7 +16,7 @@ _Context: Luis Echeverria, Mexico, President, genocide_
 Spanish police have boarded a boat operated by a US company which Madrid believes may have taken treasure worth hundreds of millions of dollars from a Spanish galleon.
 
 ### [ Cecilia Sarkozy, the wife of French President Nicolas Sarkozy, flies to Libya and visits the Bulgarian medics condemned to death for allegedly infecting children with HIV and also the families of the infected children. She will also meet Colonel Muammar al-Gaddafi, the President of Libya. ](/news/2007/07/12/ca-c-cilia-sarkozy-the-wife-of-french-president-nicolas-sarkozy-flies-to-libya-and-visits-the-bulgarian-medics-condemned-to-death-for-alleg.md)
-_Context: Bulgaria, Cecilia Sarkozy, Colonel, France, HIV trial in Libya, Libya, Muammar al-Gaddafi, Nicolas Sarkozy, President of France, President of Libya, death penalty_
+_Context: Bulgaria, Cecilia Sarkozy, Colonel, French, HIV trial in Libya, Libya, Muammar al-Gaddafi, Nicolas Sarkozy, President of France, President of Libya, death penalty_
 
 ### [ The Nepalese government introduces a budget that scraps payments to King Gyanendra of Nepal and nationalises royal property. ](/news/2007/07/12/the-nepalese-government-introduces-a-budget-that-scraps-payments-to-king-gyanendra-of-nepal-and-nationalises-royal-property.md)
 Nepal&#039;s Government has scrapped payments to King Gyanendra and vowed to nationalise royal property in a Budget presented to Parliament that deals a major blow to the embattled monarch.
@@ -61,7 +61,7 @@ _Context: Colombo, Tamil Tiger, Thoppigala, government_
 _Context: Charles G. Taylor, Liberia, Parliament, President of Liberia, government_
 
 ### [ At a press conference, U.S. President George W. Bush admits for the first time that someone in his administration may have leaked the name of CIA agent Valerie Plame. ](/news/2007/07/12/at-a-press-conference-u-s-president-george-w-bush-admits-for-the-first-time-that-someone-in-his-administration-may-have-leaked-the-name.md)
-_Context: CIA leak scandal, Central Intelligence Agency, George W. Bush, President, United States, Valerie Plame, press conference_
+_Context: CIA leak scandal, Central Intelligence Agency, George W. Bush, U.S. President, United States, Valerie Plame, press conference_
 
 ## [Previous Day...](/news/2007/07/11/index.md)
 

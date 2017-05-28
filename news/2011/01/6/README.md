@@ -22,7 +22,7 @@ The United States will temporarily send 1,400 more Marines to Afghanistan in an 
 A U.S. Army corporal was sentenced to 90 days of hard labor and a bad conduct discharge on Wednesday after pleading guilty to keeping war souvenir photos of Afghan civilians, beating a platoon member and smoking hashish.
 
 ### [A French market regulator approves a takeover defense adopted by the Hermes family, who own the manufacturer of Birkin and Kelly handbags. This improves the odds that Hermes will preserve its independence in the face of a bid by LVMH. ](/news/2011/01/6/a-french-market-regulator-approves-a-takeover-defense-adopted-by-the-herma-s-family-who-own-the-manufacturer-of-birkin-and-kelly-handbags.md)
-_Context: France, Hermes, LVMH_
+_Context: French, Hermes, LVMH_
 
 ### [22 people are killed after a bus falls into a gorge in Uttarakhand, northern India. ](/news/2011/01/6/22-people-are-killed-after-a-bus-falls-into-a-gorge-in-uttarakhand-northern-india.md)
 Dehra Dun: 22 killed as bus falls into gorge

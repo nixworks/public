@@ -10,7 +10,7 @@ _Context: Condoleezza Rice, East Jerusalem, Israel, Middle East, United States S
 _Context: Discovery, STS-124_
 
 ### [ The President of the United States George W. Bush and the President of France Nicolas Sarkozy warn Syria to break with Iran and state that they will not allow Iran to obtain nuclear weapons. ](/news/2008/06/14/the-president-of-the-united-states-george-w-bush-and-the-president-of-france-nicolas-sarkozy-warn-syria-to-break-with-iran-and-state-that.md)
-_Context: George W. Bush, Iran, Iran and weapons of mass destruction, Nicolas Sarkozy, President, President of France, Syria_
+_Context: George W. Bush, Iran, Iran and weapons of mass destruction, Nicolas Sarkozy, President of France, Syria, U.S. President_
 
 ### [ A fire breaks out at Campsfield House, a privately run Immigration detention Centre near Oxford in the United Kingdom. ](/news/2008/06/14/a-fire-breaks-out-at-campsfield-house-a-privately-run-immigration-detention-centre-near-oxford-in-the-united-kingdom.md)
 _Context: Campsfield House, Oxford, detention facilities_
@@ -22,7 +22,7 @@ _Context: Afghanistan, Farah Province, military_
 _Context: 2008 Iwate earthquake, Honshu Island, Iwate prefecture, Japan, Miyagi Prefecture, magnitude_
 
 ### [ The French Defense Ministry announces France is increasing its military presence in Djibouti following border clashes with Eritrea. France has a mutual defense agreement with Djibouti. ](/news/2008/06/14/the-french-defense-ministry-announces-france-is-increasing-its-military-presence-in-djibouti-following-border-clashes-with-eritrea-france.md)
-_Context: Djibouti, Eritrea, France, border clashes_
+_Context: Djibouti, Eritrea, French, border clashes_
 
 ## [Previous Day...](/news/2008/06/13/index.md)
 

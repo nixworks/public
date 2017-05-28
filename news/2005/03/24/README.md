@@ -16,7 +16,7 @@ _Context: Bobby Fischer, Copenhagen, Iceland, Japan_
 Keep your mind and body sharp with the latest health and fitness news and information from Reuters.com.
 
 ### [ France presents a draft resolution to vote at the United Nations. It would give war crime cases in Darfur region of Sudan to the International Criminal Court in the Hague. US resists the idea. ](/news/2005/03/24/france-presents-a-draft-resolution-to-vote-at-the-united-nations-it-would-give-war-crime-cases-in-darfur-region-of-sudan-to-the-internatio.md)
-_Context: Darfur, France, International Criminal Court, Sudan, The Hague, United Nations, war crime_
+_Context: Darfur, French, International Criminal Court, Sudan, The Hague, United Nations, war crime_
 
 ### [ World Expo 2005 opens in Nagoya, Japan. ](/news/2005/03/24/world-expo-2005-opens-in-nagoya-japan.md)
 The Asahi Shimbun is widely regarded for its journalism as the most respected daily newspaper in Japan. The English version offers selected articles from the vernacular Asahi Shimbun, as well as extensive coverage of cool Japan,focusing on manga, travel and other timely news

@@ -4,7 +4,7 @@
 A rogue officer who &quot;went berserk&quot; was responsible for an attack on a police station in western Kenya on Thursday in which seven people died, a police spokesman said.
 
 ### [A truck plows into a mass of revelers during the Bastille Day fireworks on the Promenade des Anglais in Nice, France, with a death toll as high as 80 and 100 people injured. ](/news/2016/07/14/a-truck-plows-into-a-mass-of-revelers-during-the-bastille-day-fireworks-on-the-promenade-des-anglais-in-nice-france-with-a-death-toll-as-h.md)
-_Context: 2016 Nice attack, Bastille Day, France, Nice, Promenade des Anglais_
+_Context: 2016 Nice attack, Bastille Day, French, Nice, Promenade des Anglais_
 
 ### [The nominees are announced in Los Angeles. ''Game of Thrones'', ''Veep'' and ''The People v. O. J. Simpson: American Crime Story'' lead in nominations. ](/news/2016/07/14/the-nominees-are-announced-in-los-angeles-game-of-thrones-veep-and-the-people-v-o-j-simpson-american-crime-story-lead-in-n.md)
 The 2016 Emmy Award nominees were announced this morning by Anthony Anderson and Lauren Graham. The award ceremony will be held on Sunday, Sept. 18, at the

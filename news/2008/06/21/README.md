@@ -1,7 +1,7 @@
 ## [2008-06-21](/news/2008/06/21/index.md)
 
 ### [ France and Algeria sign an agreement that could lead to French nuclear power technology being employed in Algerian reactors. ](/news/2008/06/21/france-and-algeria-sign-an-agreement-that-could-lead-to-french-nuclear-power-technology-being-employed-in-algerian-reactors.md)
-_Context: Algeria, France, French nuclear power technology_
+_Context: Algeria, French, French nuclear power technology_
 
 ### [ Militants in Pakistan fire mortars on a NATO base and Afghan army base. ](/news/2008/06/21/militants-in-pakistan-fire-mortars-on-a-nato-base-and-afghan-army-base.md)
  A NATO base in Afghanistan and a local army compound were attacked from across the border with Pakistan on Saturday, the force said. 

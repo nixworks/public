@@ -13,7 +13,7 @@ _Context: Caltech, xenon, zeptogram_
 _Context: La Scala, Milan, Riccardo Muti, music director, opera house_
 
 ### [ In France, radical wine producers attack the offices of agriculture ministries in Montpellier and Carcassonne with dynamite. A group calling itself ''Comit Rgional d'Action Viticole'' (Crav) takes responsibility.](/news/2005/04/2/in-france-radical-wine-producers-attack-the-offices-of-agriculture-ministries-in-montpellier-and-carcassonne-with-dynamite-a-group-callin.md)
-_Context: Carcassonne, Comit Rgional d'Action Viticole, France, Montpellier, agriculture, dynamite, wine_
+_Context: Carcassonne, Comit Rgional d'Action Viticole, French, Montpellier, agriculture, dynamite, wine_
 
 ### [ In Nepal, former prime minister Girija Prasad Koirala is released from house arrest and demands the return to democracy. ](/news/2005/04/2/in-nepal-former-prime-minister-girija-prasad-koirala-is-released-from-house-arrest-and-demands-the-return-to-democracy.md)
 _Context: Girija Prasad Koirala, Nepal, democratic progress, house arrest_

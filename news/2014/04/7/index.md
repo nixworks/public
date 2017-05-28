@@ -4,7 +4,7 @@
 Russian soldier shoots dead naval officer in Crimea, defence ministry says 
 
 ### [The Finance Minister of France says that his country is committed to both budget cuts and growth, and willing to make "tough brave" decisions. ](/news/2014/04/7/the-finance-minister-of-france-says-that-his-country-is-committed-to-both-budget-cuts-and-growth-and-willing-to-make-tough-brave-decision.md)
-_Context: Finance Minister, France_
+_Context: Finance Minister, French_
 
 ### [President of Ireland, Michael D. Higgins arrives in the United Kingdom for a state visit, the first to the UK by an Irish Head of State. ](/news/2014/04/7/president-of-ireland-michael-d-higgins-arrives-in-the-united-kingdom-for-a-state-visit-the-first-to-the-uk-by-an-irish-head-of-state.md)
 President Michael D Higgins has arrived in London ahead of his State visit to the UK, which he said is &quot;very important in many ways&quot; and &quot;it is important for both countries to engage in our shared past&quot;.

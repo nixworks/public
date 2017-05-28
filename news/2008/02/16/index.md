@@ -13,7 +13,7 @@ _Context: Brown pelican_
 _Context: Debate, Harvard University, Speech_
 
 ### [ The President of the United States George W. Bush arrives in Benin on the first leg of a five-nation African tour. ](/news/2008/02/16/the-president-of-the-united-states-george-w-bush-arrives-in-benin-on-the-first-leg-of-a-five-nation-african-tour.md)
-_Context: Africa, Beninese, George W. Bush, President_
+_Context: Africa, Beninese, George W. Bush, U.S. President_
 
 ### [ United States presidential election, 2008: A majority of Michigan's Republican delegates say that they will support John McCain following the withdrawal of Michigan primary winner Mitt Romney from the race. McCain has also won the allegiance of a majority of Louisiana delegates. ](/news/2008/02/16/united-states-presidential-election-2008-a-majority-of-michigan-s-republican-delegates-say-that-they-will-support-john-mccain-following-t.md)
 _Context: 2008, John McCain, Louisiana, Michigan, Mitt Romney, R, primary election_

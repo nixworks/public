@@ -1,7 +1,7 @@
 ## [2011-12-9](/news/2011/12/9/index.md)
 
 ### [Credit rating agency Moody's downgrades the ratings of France's three biggest banks, Credit Agricole, BNP Paribas and Societe Generale. ](/news/2011/12/9/credit-rating-agency-moody-s-downgrades-the-ratings-of-france-s-three-biggest-banks-cra-c-dit-agricole-bnp-paribas-and-socia-c-ta-c-ga-c-na-c-rale.md)
-_Context: BNP Paribas, Credit Agricole, France, Moody's, Societe Generale, credit rating_
+_Context: BNP Paribas, Credit Agricole, French, Moody's, Societe Generale, credit rating_
 
 ### [Stock prices rise at stock exchanges around the world, and some analysts see this as a reaction to a fiscal agreement among the leaders of the eurozone. ](/news/2011/12/9/stock-prices-rise-at-stock-exchanges-around-the-world-and-some-analysts-see-this-as-a-reaction-to-a-fiscal-agreement-among-the-leaders-of-t.md)
 _Context: stock exchange_

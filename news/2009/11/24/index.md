@@ -4,7 +4,7 @@
 _Context: Casablanca, Chahib Khayari, Moroccan_
 
 ### [ Two French charity workers are kidnapped in the Central African Republic, in the latest in a series of kidnappings. ](/news/2009/11/24/two-french-charity-workers-are-kidnapped-in-the-central-african-republic-in-the-latest-in-a-series-of-kidnappings.md)
-_Context: Central-African, France_
+_Context: Central-African, French_
 
 ### [ Four people are killed in a helicopter crash off the coast of Netanya in northern Israel. ](/news/2009/11/24/four-people-are-killed-in-a-helicopter-crash-off-the-coast-of-netanya-in-northern-israel.md)
 _Context: Israel, Netanya_

@@ -4,7 +4,7 @@
 _Context: Jean-Pierre Bemba, Joseph Kabila, Kinshasa, presidential candidate in 2006_
 
 ### [ 2006 Israel-Lebanon conflict: Italy offers to lead the United Nations peacekeeping forces in Lebanon instead of France. Italy has offered to provide 2,000 forces, more than any other nation, and France is only offering to provide 200 civil engineers. ](/news/2006/08/21/2006-israel-lebanon-conflict-p-italy-offers-to-lead-the-united-nations-peacekeeping-forces-in-lebanon-instead-of-france-italy-has-offered.md)
-_Context: France, Italian, Lebanon, United Nations, war_
+_Context: French, Italian, Lebanon, United Nations, war_
 
 ### [ The government of Kyrgyzstan warns that the Islamic Movement of Uzbekistan, a terrorist group affiliated with al Qaeda, and other militant Islamic groups, are preparing to attack southern cities like Osh. ](/news/2006/08/21/the-government-of-kyrgyzstan-warns-that-the-islamic-movement-of-uzbekistan-a-terrorist-group-affiliated-with-al-qaeda-and-other-militant.md)
 _Context: Islamic Movement of Uzbekistan, Kyrgyzstan, Osh, al-Qaeda_
@@ -13,7 +13,7 @@ _Context: Islamic Movement of Uzbekistan, Kyrgyzstan, Osh, al-Qaeda_
 _Context: 2006 transatlantic aircraft plot, United Kingdom, martyrdom video_
 
 ### [ The Channel Tunnel, which connects the UK to France, closes after smoke is seen coming from a freight train in the tunnel. ](/news/2006/08/21/the-channel-tunnel-which-connects-the-uk-to-france-closes-after-smoke-is-seen-coming-from-a-freight-train-in-the-tunnel.md)
-_Context: Channel Tunnel, France, UK_
+_Context: Channel Tunnel, French, UK_
 
 ### [ U.S. university Virginia Tech closed campus and canceled classes today, the first day of classes, during the search for a man who was suspected of murdering a hospital security guard and a police officer. The suspect, William Morva, is in custody. ](/news/2006/08/21/u-s-university-virginia-tech-closed-campus-and-canceled-classes-today-the-first-day-of-classes-during-the-search-for-a-man-who-was-suspe.md)
 WTOP brings you the latest news, traffic, and weather information for the Washington, D.C. region. Catch up on the issues and topics important to you today.

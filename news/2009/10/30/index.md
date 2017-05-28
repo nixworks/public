@@ -22,7 +22,7 @@ _Context: African Union, Sudan, conflict_
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 ### [ Former French President Jacques Chirac is ordered to stand trial on corruption charges. ](/news/2009/10/30/former-french-president-jacques-chirac-is-ordered-to-stand-trial-on-corruption-charges.md)
-_Context: France, Jacques Chirac, President of France, anti-corruption_
+_Context: French, Jacques Chirac, President of France, anti-corruption_
 
 ### [ Honduras' de facto leader Roberto Micheletti and ousted President Manuel Zelaya agree a deal to end the political crisis, reinstating Zelaya as President. ](/news/2009/10/30/honduras-de-facto-leader-roberto-micheletti-and-ousted-president-manuel-zelaya-agree-a-deal-to-end-the-political-crisis-reinstating-zelay.md)
 _Context: Honduran, Manuel Zelaya, President, Roberto Micheletti, political crisis in the country_

@@ -28,7 +28,7 @@ _Context: Patriarch, Patriarch Kirill, Russia, Russian_
 _Context: Puthukkudiyiruppu, Sri Lanka, Sri Lankan Army, Sri Lankan Civil War, Tamil_
 
 ### [ France defeats Croatia to win the Men's World Handball Championship. ](/news/2009/02/1/france-defeats-croatia-to-win-the-men-s-world-handball-championship.md)
-_Context: Croatia, France, handball_
+_Context: Croatia, French, handball_
 
 ### [ The International Cospas-Sarsat Satellite System ceases monitoring for 121.5 MHz and 243 MHz (Class B) signals from distress radiobeacons. ](/news/2009/02/1/the-international-cospas-sarsat-satellite-system-ceases-monitoring-for-121-5-mhz-and-243-mhz-class-b-signals-from-distress-radiobeacons.md)
 _Context: Cospas-Sarsat, distress radiobeacon_

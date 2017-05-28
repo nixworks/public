@@ -52,7 +52,7 @@ The Portuguese parliament has approved at first reading a bill to legalise gay m
 _Context: Uganda, homosexuality_
 
 ### [French research in ''Analytical Chemistry'' suggests that the heavy eye make-up of Cleopatra could be medically useful. ](/news/2010/01/8/french-research-in-analytical-chemistry-suggests-that-the-heavy-eye-make-up-of-cleopatra-could-be-medically-useful.md)
-_Context: Analytical Chemistry, Cleopatra, France_
+_Context: Analytical Chemistry, Cleopatra, French_
 
 ## [Previous Day...](/news/2010/01/7/index.md)
 

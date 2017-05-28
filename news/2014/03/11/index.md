@@ -31,7 +31,7 @@ _Context: Chinese Coast Guard, Spratly Islands, Territorial disputes in the Sout
 At issue is whether the CIA violated an agreement made with the committee about monitoring the panel&#39;s use of CIA computers.
 
 ### [Fourteen Caribbean nations file a lawsuit against the United Kingdom, France, and the Netherlands for damages caused during the Atlantic slave trade. ](/news/2014/03/11/fourteen-caribbean-nations-file-a-lawsuit-against-the-united-kingdom-france-and-the-netherlands-for-damages-caused-during-the-atlantic-sla.md)
-_Context: Atlantic slave trade, Caribbean, France, Netherlands, United Kingdom_
+_Context: Atlantic slave trade, Caribbean, French, Netherlands, United Kingdom_
 
 ### [Joran van der Sloot faces an extradition case in the United States. ](/news/2014/03/11/joran-van-der-sloot-faces-an-extradition-case-in-the-united-states.md)
 _Context: Joran van der Sloot, United States_

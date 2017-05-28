@@ -4,7 +4,7 @@
 The US condemns the killing of Iranian nuclear scientist Mostafa Ahmadi-Roshan in a car bomb attack in north Tehran.
 
 ### [A French journalist is killed, along with eight others, by a mortar in the Syrian city of Homs. ](/news/2012/01/11/a-french-journalist-is-killed-along-with-eight-others-by-a-mortar-in-the-syrian-city-of-homs.md)
-_Context: France, Homs, Mortar, Syria_
+_Context: French, Homs, Mortar, Syria_
 
 ### [Joran van der Sloot pleads guilty to killing a Peruvian woman. ](/news/2012/01/11/joran-van-der-sloot-pleads-guilty-to-killing-a-peruvian-woman.md)
 _Context: Joran van der Sloot, Peruvian_
@@ -13,7 +13,7 @@ _Context: Joran van der Sloot, Peruvian_
 _Context: Golan Heights, Israel, refugees from Syria_
 
 ### [Republican candidates for United States President are campaigning in South Carolina for the upcoming South Carolina primaries. ](/news/2012/01/11/republican-candidates-for-united-states-president-are-campaigning-in-south-carolina-for-the-upcoming-south-carolina-primaries.md)
-_Context: President, Republican candidates, South Carolina, South Carolina primaries_
+_Context: Republican candidates, South Carolina, South Carolina primaries, U.S. President_
 
 ## [Previous Day...](/news/2012/01/10/index.md)
 

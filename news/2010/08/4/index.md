@@ -58,7 +58,7 @@ Russian president critical of government response to fire disaster.
 _Context: 2010 China floods_
 
 ### [Eurotunnel has "apologised profusely" after train passengers brought to Calais, France, through the Channel Tunnel are locked into their carriages upon arrival and immediately returned to Kent, England. ](/news/2010/08/4/eurotunnel-has-apologised-profusely-after-train-passengers-brought-to-calais-france-through-the-channel-tunnel-are-locked-into-their-car.md)
-_Context: Calais, Channel Tunnel, England, Eurotunnel, France, Kent_
+_Context: Calais, Channel Tunnel, England, Eurotunnel, French, Kent_
 
 ### [Three barns collapse at the largest egg farm in the U.S. state of Ohio in Croton, with at least one worker dead. ](/news/2010/08/4/three-barns-collapse-at-the-largest-egg-farm-in-the-u-s-state-of-ohio-in-croton-with-at-least-one-worker-dead.md)
 _Context: Croton, Ohio, barn, egg farm, state_

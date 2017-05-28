@@ -28,7 +28,7 @@ _Context: 2008, Tom Vilsack_
 _Context: Mahathir Mohamad, Malaysian Prime Minister, heart attack_
 
 ### [ France successfully performs the first flight test of its new nuclear missile, the M51. ](/news/2006/11/9/france-successfully-performs-the-first-flight-test-of-its-new-nuclear-missile-the-m51.md)
-_Context: France, M51_
+_Context: French, M51_
 
 ### [ Hundreds of young British Muslims are being radicalised, groomed and set on a path to mass murder, according to the head of MI5 (Security Service), Dame Eliza Manningham-Buller. ](/news/2006/11/9/hundreds-of-young-british-muslims-are-being-radicalised-groomed-and-set-on-a-path-to-mass-murder-according-to-the-head-of-mi5-security-s.md)
 News and opinion from The Times &amp; The Sunday Times

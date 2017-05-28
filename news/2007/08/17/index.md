@@ -10,7 +10,7 @@ _Context: India, Mumbai_
 _Context: Afghanistan, Helmand Province, Taliban, ambush_
 
 ### [ France circulates a draft United Nations Security Council resolution extending the mandate of the 13,600 United Nations peacekeeping force in Lebanon. ](/news/2007/08/17/france-circulates-a-draft-united-nations-security-council-resolution-extending-the-mandate-of-the-13-600-united-nations-peacekeeping-force.md)
-_Context: France, Lebanon, United Nations, United Nations Security Council_
+_Context: French, Lebanon, United Nations, United Nations Security Council_
 
 ### [ Interpol issues warrants for the arrest of Saddam Hussein's eldest daughter Raghad Hussein and his first wife Sajida Khairalla Tulfa for providing support to Iraqi insurgents. ](/news/2007/08/17/interpol-issues-warrants-for-the-arrest-of-saddam-hussein-s-eldest-daughter-raghad-hussein-and-his-first-wife-sajida-khairalla-tulfa-for-pr.md)
 Iraqi officials would not discuss the specific charges against Raghad Saddam Hussein and her mother, Sajida Khairalla Tulfa.

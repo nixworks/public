@@ -37,7 +37,7 @@ _Context: United Kingdom, fingerprint_
 _Context: England, Green Party, Wales, climate change_
 
 ### [ France plans to introduce biometric ID cards in 2007. ](/news/2005/04/15/france-plans-to-introduce-biometric-id-cards-in-2007.md)
-_Context: France, biometric_
+_Context: French, biometric_
 
 ### [ The European Union denies ruling out lifting an EU arms embargo on the People's Republic of China before June. ](/news/2005/04/15/the-european-union-denies-ruling-out-lifting-an-eu-arms-embargo-on-the-people-s-republic-of-china-before-june.md)
 _Context: European Union, People's Republic of China_

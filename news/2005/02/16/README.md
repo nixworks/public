@@ -40,7 +40,7 @@ _Context: Iran, Mohammad Reza Aref, Mohammed Naji al-Otari, Syria_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Six Rwandans file a lawsuit in France that accuses French soldiers of complicity in the Rwandan Genocide of 1994. ](/news/2005/02/16/six-rwandans-file-a-lawsuit-in-france-that-accuses-french-soldiers-of-complicity-in-the-rwandan-genocide-of-1994.md)
-_Context: France, Rwanda, Rwandan Genocide_
+_Context: French, Rwanda, Rwandan Genocide_
 
 ### [ In Tunisia, authorities continue to clean up an oil spill near the town of Korbous that was caused by a Moroccan container ship running aground late the day before.  ](/news/2005/02/16/in-tunisia-authorities-continue-to-clean-up-an-oil-spill-near-the-town-of-korbous-that-was-caused-by-a-moroccan-container-ship-running-agr.md)
 Clean-up operations resumed Thursday on the Tunisian coast after a Moroccan container ship leaked tons of oil from its fuel tanks when it ran aground in stormy seas. Seven Dutch experts were due at the scene to help plug the leaks to prevent nearly 200 tons of heavy oil and dies-el escaping.&lt;BR>

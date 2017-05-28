@@ -88,7 +88,7 @@ _Context: European Union, Facebook_
 Customs officers at Kuala Lumpur airport recover more than 400 rare tortoises and frogs smuggled from Madagascar.
 
 ### [Police in Grenoble, France arrest four people for attempted murder whom they claim protested the fatal shooting of a man by police. ](/news/2010/07/18/police-in-grenoble-france-arrest-four-people-for-attempted-murder-whom-they-claim-protested-the-fatal-shooting-of-a-man-by-police.md)
-_Context: France, Grenoble_
+_Context: French, Grenoble_
 
 ### [Israeli Prime Minister Benjamin Netanyahu announces that he will oppose a conversion bill that would give the Chief Rabbinate of Israel the legal power to decide whether any conversion is legitimate and could cause immigrants who converted to Judaism abroad to be denied Israeli citizenship. ](/news/2010/07/18/israeli-prime-minister-benjamin-netanyahu-announces-that-he-will-oppose-a-conversion-bill-that-would-give-the-chief-rabbinate-of-israel-the.md)
 _Context: Benjamin Netanyahu, Chief Rabbinate of Israel, Israeli Prime Minister, Israeli citizenship, Jewish_

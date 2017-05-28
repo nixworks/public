@@ -10,7 +10,7 @@ US President George W Bush has welcomed the death penalty verdict in Saddam Huss
 _Context: 2006 general election, Daniel Ortega, Eduardo Montealegre, National Assembly, Nicaragua, Nicaraguan President, Sandinista_
 
 ### [ A large area of Western Europe is  affected by power cuts, starting when two high-voltage transmission lines fail in Germany, and causing a cascading failure which also knocks out power in areas of France and other surrounding nations. ](/news/2006/11/5/a-large-area-of-western-europe-is-affected-by-power-cuts-starting-when-two-high-voltage-transmission-lines-fail-in-germany-and-causing-a.md)
-_Context: France, German, Western Europe, cascading failure, power cut_
+_Context: French, German, Western Europe, cascading failure, power cut_
 
 ### [ The Prime Minister of Australia, John Howard, calls State Premiers to a crisis meeting to discuss the current drought and problems in the Murray-Darling Basin. ](/news/2006/11/5/the-prime-minister-of-australia-john-howard-calls-state-premiers-to-a-crisis-meeting-to-discuss-the-current-drought-and-problems-in-the-m.md)
 _Context: John Howard, Murray-Darling basin, Prime Minister of Australia, drought_

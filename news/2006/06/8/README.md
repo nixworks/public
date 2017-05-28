@@ -10,7 +10,7 @@ _Context: Juba, Lord's Resistance Army, Riek Machar, Southern Sudan, Uganda_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Haya Rashed Al-Khalifa, a former ambassador to France and one of the first women in Bahrain to practice law, is elected President of the Sixty-first United Nations General Assembly. ](/news/2006/06/8/haya-rashed-al-khalifa-a-former-ambassador-to-france-and-one-of-the-first-women-in-bahrain-to-practice-law-is-elected-president-of-the-si.md)
-_Context: Bahrain, France, Haya Rashed Al-Khalifa, President of the United Nations General Assembly_
+_Context: Bahrain, French, Haya Rashed Al-Khalifa, President of the United Nations General Assembly_
 
 ### [ The Broadmead area of Bristol, United Kingdom is temporarily closed following the discovery of a suspected unexploded German bomb from World War II [http://news.bbc.co.uk/1/hi/england/bristol/5060770.stm (BBC)].](/news/2006/06/8/the-broadmead-area-of-bristol-united-kingdom-is-temporarily-closed-following-the-discovery-of-a-suspected-unexploded-german-bomb-from-worl.md)
 _Context: Bristol, Broadmead, United Kingdom, World War II_

@@ -22,7 +22,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 A co-ordinated plot by British cabinet ministers was behind the resignations last week that came close to forcing Gordon Brown to step down, it can be disclosed.
 
 ### [ Dalai Lama Tenzin Gyatso is granted honorary citizenship in Paris, France. ](/news/2009/06/7/dalai-lama-tenzin-gyatso-is-granted-honorary-citizenship-in-paris-france.md)
-_Context: 14th Dalai Lama, Dalai Lama, France, Paris, honorary citizenship_
+_Context: 14th Dalai Lama, Dalai Lama, French, Paris, honorary citizenship_
 
 ### [ Radio Shabelle director Moqtar Mohamed Hirabe is killed in Mogadishu, Somalia. ](/news/2009/06/7/radio-shabelle-director-moqtar-mohamed-hirabe-is-killed-in-mogadishu-somalia.md)
 _Context: Mogadishu, Somalia, War in Somalia (2009-)_

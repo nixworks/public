@@ -16,7 +16,7 @@ _Context: Eric S. Maskin, Leonid Hurwicz, Nobel Prize in Economics, Roger B. Mye
 _Context: Ibrahim Gambari, Myanmar, State Peace and Development Council, United Nations_
 
 ### [ Airbus delivers its first A380 aircraft to launch customer Singapore Airlines in a ceremony in Toulouse, France, almost 18 months behind schedule, but denies rumours that further delays to the programme are looming. ](/news/2007/10/15/airbus-delivers-its-first-a380-aircraft-to-launch-customer-singapore-airlines-in-a-ceremony-in-toulouse-france-almost-18-months-behind-sc.md)
-_Context: Airbus, Airbus A380, France, Singapore Airlines, Toulouse_
+_Context: Airbus, Airbus A380, French, Singapore Airlines, Toulouse_
 
 ### [ William Street underground platforms and The Esplanade Station begin service in Perth, Western Australia. Part of the New MetroRail project, they are the first stations to open on the new Mandurah Line. ](/news/2007/10/15/william-street-underground-platforms-and-the-esplanade-station-begin-service-in-perth-western-australia-part-of-the-new-metrorail-project.md)
 _Context: Mandurah Line, New MetroRail, Perth, The Esplanade Station, Western Australia, William Street underground platforms_

@@ -1,7 +1,7 @@
 ## [2007-11-15](/news/2007/11/15/index.md)
 
 ### [ Strikes in France: French transport workers' strike against President Nicolas Sarkozy's pension reform enters its second day, but energy workers and CFDT members return to work. ](/news/2007/11/15/strikes-in-france-french-transport-workers-strike-against-president-nicolas-sarkozy-s-pension-reform-enters-its-second-day-but-energy-wo.md)
-_Context: CFDT, France, Nicolas Sarkozy, President of France, energy, pension reform, public-sector strikes, strike, transport_
+_Context: CFDT, French, Nicolas Sarkozy, President of France, energy, pension reform, public-sector strikes, strike, transport_
 
 ### [ German train drivers extend their strike action against Deutsche Bahn, starting a 48-hour passenger service strike. ](/news/2007/11/15/german-train-drivers-extend-their-strike-action-against-deutsche-bahn-starting-a-48-hour-passenger-service-strike.md)
 _Context: Deutsche Bahn, German, passenger, strike, train driver_

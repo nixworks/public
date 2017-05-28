@@ -28,7 +28,7 @@ _Context: European Court of Justice, vitamin_
 _Context: Elias Murr, Lebanon, Syria_
 
 ### [ In France, bus company Transports Schiocchet Excursions sues a group of cleaning women for operating a carpool using their own cars, on the ground of "unfair competition". ](/news/2005/07/12/in-france-bus-company-transports-schiocchet-excursions-sues-a-group-of-cleaning-women-for-operating-a-carpool-using-their-own-cars-on-the.md)
-_Context: France, Transports Schiocchet Excursions, carpool_
+_Context: French, Transports Schiocchet Excursions, carpool_
 
 ### [ In Washington, D.C., Presidential Press Secretary Scott McClellan refused for the second day in a row to respond to reporters' questions about Newsweek's revelation that  Karl Rove disclosed the identity of CIA agent Valerie Plame. McClellan had asserted Rove's innocence on many occasions in the past. The President, at a photo-op today, ignored reporters who asked if his pledge to fire any staffer involved was still operative. ](/news/2005/07/12/in-washington-d-c-presidential-press-secretary-scott-mcclellan-refused-for-the-second-day-in-a-row-to-respond-to-reporters-questions-ab.md)
 _Context: CIA, George W. Bush, Karl Rove, Newsweek, Scott McClellan, Valerie Plame, Washington, D.C._

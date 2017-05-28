@@ -22,7 +22,7 @@ _Context: Korean War, North Korea, South Korea, train_
 _Context: Algeria, People's National Assembly, go to the polls, recent bomb attacks_
 
 ### [ French President Sarkozy appoints Franois Fillon as his Prime Minister. ](/news/2007/05/17/french-president-sarkozy-appoints-francois-fillon-as-his-prime-minister.md)
-_Context: France, Franois Fillon, Nicolas Sarkozy, Prime Minister_
+_Context: Franois Fillon, French, Nicolas Sarkozy, Prime Minister_
 
 ### [ The Canadian Radio-television and Telecommunications Commission announces that all over-the-air TV broadcasts must be digital by August 31, 2011. ](/news/2007/05/17/the-canadian-radio-television-and-telecommunications-commission-announces-that-all-over-the-air-tv-broadcasts-must-be-digital-by-august-31.md)
 _Context: Canadian Radio-television and Telecommunications Commission_

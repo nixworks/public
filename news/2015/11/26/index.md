@@ -34,7 +34,7 @@ _Context: Dominican Republic_
 He also called for a &ldquo;new culture&rdquo; of sustainable development that would end abuses of the natural world.
 
 ### [2015 United Nations Climate Change Conference (COP21)France is deploying more than 10,000 personnel to provide security for the two-week UN Climate Change Conference that opens in Le Bourget in Paris on Monday, November 30, 2015. Around 150 heads of state or government are expected to attend COP21's  opening day. ](/news/2015/11/26/2015-united-nations-climate-change-conference-cop21-pfrance-is-deploying-more-than-10-000-personnel-to-provide-security-for-the-two-week-un.md)
-_Context: 2015 United Nations Climate Change Conference, France, Le Bourget, Paris, UN Climate Change Conference, security_
+_Context: 2015 United Nations Climate Change Conference, French, Le Bourget, Paris, UN Climate Change Conference, security_
 
 ### [Queen Elizabeth II (U.K.) arrives in Malta for the Commonwealth summit what begins tomorrow. The then-future Queen and the Duke of Edinburgh lived on the island from 1949-51. The Commonwealth is a group of 53 nations; most member states were once part of the British Empire, and 16 retain the Queen as head of state. ](/news/2015/11/26/queen-elizabeth-ii-u-k-arrives-in-malta-for-the-commonwealth-summit-what-begins-tomorrow-the-then-future-queen-and-the-duke-of-edinburgh.md)
 Armed Forces band of Malta sets the tone as they chose to play Thanks For The Memory while Her Majesty inspects guard of honour in Valletta

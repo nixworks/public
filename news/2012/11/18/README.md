@@ -22,7 +22,7 @@ _Context: Dubai, Jumeirah Lake Towers, Tamweel Tower, UAE_
 _Context: 7th, ASEAN, East Asia Summit, Human rights_
 
 ### [Clashes take place at an anti-gay marriage protest in Paris, France. ](/news/2012/11/18/clashes-take-place-at-an-anti-gay-marriage-protest-in-paris-france.md)
-_Context: France, Paris, same-sex marriage_
+_Context: French, Paris, same-sex marriage_
 
 ## [Previous Day...](/news/2012/11/17/index.md)
 

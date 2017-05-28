@@ -28,7 +28,7 @@ _Context: Iran, Iranian Revolutionary guards, bomb attack_
 A Boeing 707-330C cargo plane, registered ST-AKW, was destroyed in an accident 1,6 km NW of Sharjah Airport (SHJ), United Arab Emirates. There were three passengers and three crew members on board. The airplane operated on a flight from Sharjah Airport (SHJ) to Khartoum-Civil Airport (KRT).
 
 ### [ Armed men take six people captive at a Lidl supermarket in Sevran, France. ](/news/2009/10/21/armed-men-take-six-people-captive-at-a-lidl-supermarket-in-sevran-france.md)
-_Context: France, Lidl, Sevran_
+_Context: French, Lidl, Sevran_
 
 ### [ At least thirteen people die in India's Rajasthan state after the Goa Express crashes into the stationary Mewar Express. ](/news/2009/10/21/at-least-thirteen-people-die-in-india-s-rajasthan-state-after-the-goa-express-crashes-into-the-stationary-mewar-express.md)
 _Context: Goa Express, India, Mewar Express, Rajasthan_

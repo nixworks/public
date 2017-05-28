@@ -16,7 +16,7 @@ _Context: Arthur Penn, Bonnie and Clyde, New York City, United States, congestiv
 Oracle Corp ORCL.O hassued Micron Technology Inc (MU.O) for fixing prices of computermemory chips, in a continuance of litigation it inherited fromSun Microsystems.
 
 ### [A 4.5 earthquake shakes offshore of Oleron, France, with no reported casualties. ](/news/2010/09/28/a-4-5-earthquake-shakes-offshore-of-ola-c-ron-france-with-no-reported-casualties.md)
-_Context: France, Oleron_
+_Context: French, Oleron_
 
 ### [300 homes are buried by a landslide in Santa Maria Tlahuitoltepec in the southern Mexican state of Oaxaca which is feared to have killed hundreds while they slept. The landslide was caused by Tropical Storm Matthew.  ](/news/2010/09/28/300-homes-are-buried-by-a-landslide-in-santa-maraa-tlahuitoltepec-in-the-southern-mexican-state-of-oaxaca-which-is-feared-to-have-killed-hu.md)
 A landslide triggered by heavy rain hits a town in southern Mexico, engulfing a number of houses, officials say.

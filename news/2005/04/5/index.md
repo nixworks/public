@@ -17,7 +17,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Peter Jennings, United States, chemotherapy, lung cancer_
 
 ### [ Rwandan official Aloys Mutabingwa, a representative at the International Criminal Tribunal for Rwanda, says that 100 Rwandans connected to the Rwandan genocide are "comfortably living in France". ](/news/2005/04/5/rwandan-official-aloys-mutabingwa-a-representative-at-the-international-criminal-tribunal-for-rwanda-says-that-100-rwandans-connected-to.md)
-_Context: Aloys Mutabingwa, France, International Criminal Tribunal for Rwanda, Rwanda, Rwandan Genocide_
+_Context: Aloys Mutabingwa, French, International Criminal Tribunal for Rwanda, Rwanda, Rwandan Genocide_
 
 ### [ Mumbai, India police investigate a fire in which 21 circus animals died. They suspect that the Russian Circus on Ice intentionally abandoned the animals. ](/news/2005/04/5/mumbai-india-police-investigate-a-fire-in-which-21-circus-animals-died-they-suspect-that-the-russian-circus-on-ice-intentionally-abandone.md)
 _Context: India, Mumbai, Russian Circus on Ice, circus_

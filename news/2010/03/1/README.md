@@ -22,7 +22,7 @@ Georgian official says move does not indicate warming of ties between nations.
 _Context: Alvaro Uribe, Colombia, Colombian President, ETA, FARC, Spain, Venezuela_
 
 ### [Goalkeeper Kodjovi Obilale, shot in the Togo national football team attack prior to the 2010 Africa Cup of Nations in Angola, is to return to France after emergency surgery in Johannesburg. ](/news/2010/03/1/goalkeeper-kodjovi-obilala-c-shot-in-the-togo-national-football-team-attack-prior-to-the-2010-africa-cup-of-nations-in-angola-is-to-return.md)
-_Context: 2010 Africa Cup of Nations, Angola, France, Johannesburg, Kodjovi Obilale, Togo national football team attack_
+_Context: 2010 Africa Cup of Nations, Angola, French, Johannesburg, Kodjovi Obilale, Togo national football team attack_
 
 ### [63-year-old former President of the Federation of Bosnia and Herzegovina Ejup Ganic is detained at London Heathrow Airport while trying to leave the UK to escape charges of war crimes. ](/news/2010/03/1/63-year-old-former-president-of-the-federation-of-bosnia-and-herzegovina-ejup-gania-is-detained-at-london-heathrow-airport-while-trying-to.md)
 A former president of Bosnia accused of war crimes was arrested today at Heathrow airport as he tried to leave the country.

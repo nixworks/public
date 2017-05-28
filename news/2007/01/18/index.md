@@ -16,7 +16,7 @@ _Context: 1993, 1999, Bavaria, CSU, Edmund Stoiber_
 _Context: Al Arabiya, Kuwait, oil_
 
 ### [ The French newspaper ''Le Monde'' reports that Spanish cyclist scar Pereiro has produced two positive urine samples for salbutamol during the 2006 Tour de France. Pereiro had finished second in the Tour. The contested winner, Floyd Landis, had tested positive for testosterone during the Tour. ](/news/2007/01/18/the-french-newspaper-le-monde-reports-that-spanish-cyclist-oscar-pereiro-has-produced-two-positive-urine-samples-for-salbutamol-during.md)
-_Context: 2006, France, Le Monde, salbutamol, scar Pereiro, testosterone_
+_Context: 2006, French, Le Monde, salbutamol, scar Pereiro, testosterone_
 
 ### [ Two people are killed in the Jumeirah Lake Towers fire in Dubai. ](/news/2007/01/18/two-people-are-killed-in-the-jumeirah-lake-towers-fire-in-dubai.md)
 _Context: Dubai, Jumeirah Lake Towers_

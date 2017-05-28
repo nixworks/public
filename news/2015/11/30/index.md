@@ -1,7 +1,7 @@
 ## [2015-11-30](/news/2015/11/30/index.md)
 
 ### [French intelligence services are reportedly operating under the theory that Paris-attacks suspect Salah Abdeslam has escaped to Syria despite country-wide martial law in 3 different countries. ](/news/2015/11/30/french-intelligence-services-are-reportedly-operating-under-the-theory-that-paris-attacks-suspect-salah-abdeslam-has-escaped-to-syria-despit.md)
-_Context: France, November 2015 Paris Attacks, Paris attack aftermath, Salah Abdeslam, Syria, intelligence services, martial law_
+_Context: French, November 2015 Paris Attacks, Paris attack aftermath, Salah Abdeslam, Syria, intelligence services, martial law_
 
 ### [Iraqi Civil War, With the support of Combined Joint Task Force - Operation Inherent Resolve, Iraqi Armed Forces have launched operations to retake Ramadi from ISIL. ](/news/2015/11/30/iraqi-civil-war-with-the-support-of-combined-joint-task-force-a-operation-inherent-resolve-iraqi-armed-forces-have-launched-operations-t.md)
 Iraqi forces have launched an offensive to retake Ramadi from Islamic State militants, U.S. officials said Thursday.

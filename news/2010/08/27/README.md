@@ -43,7 +43,7 @@ Doctors remove 13 nails and five needles from a Sri Lankan housemaid who said he
 _Context: Gainesville, Florida, Jakarta, Muslim, September 11 attacks, United States, burn Korans, church_
 
 ### [France rejects criticism from the United Nations Committee on the Elimination of Discrimination over its Romani removal strategy. ](/news/2010/08/27/france-rejects-criticism-from-the-united-nations-committee-on-the-elimination-of-discrimination-over-its-romani-removal-strategy.md)
-_Context: France, Roma, United Nations_
+_Context: French, Roma, United Nations_
 
 ### [A draft United Nations report says crimes by the Rwandan army and allied rebels in Democratic Republic of the Congo during the Second Congo War could be classified as genocide. ](/news/2010/08/27/a-draft-united-nations-report-says-crimes-by-the-rwandan-army-and-allied-rebels-in-democratic-republic-of-the-congo-during-the-second-congo.md)
 Killings by the Rwandan army and allied rebels in Zaire and DR Congo in the 1990s could be classified as genocide, a draft UN report says.

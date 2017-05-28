@@ -19,7 +19,7 @@ _Context: England, London, Nude, Green Leaves and Bust, Picasso, Tate Gallery_
 Warner Bros. has just fired Charlie Sheen from &quot;Two and a Half Men.&quot;Warner Bros. issued the following statement: &quot;After careful consideration, Warner&hellip;
 
 ### [The ''New York Times'' reports that French luxury group LVMH will take control of Italy's Bulgari in an all-share deal. ](/news/2011/03/7/the-new-york-times-reports-that-french-luxury-group-lvmh-will-take-control-of-italy-s-bulgari-in-an-all-share-deal.md)
-_Context: Bulgari, France, Italian, LVMH, New York Times_
+_Context: Bulgari, French, Italian, LVMH, New York Times_
 
 ### [Oil prices rise to their highest level in 29 months as fighting in Libya intensifies. ](/news/2011/03/7/oil-prices-rise-to-their-highest-level-in-29-months-as-fighting-in-libya-intensifies.md)
 _Context: Libya, Libyan Civil War_
@@ -73,7 +73,7 @@ _Context: 2012, John Ensign, Nevada, Senator_
 US President Barack Obama is lifting the two-year freeze on new military trials for detainees at the Guantanamo Bay prison.
 
 ### [ABC News reports that President Barack Obama will nominate the United States Secretary of Commerce Gary Locke as the next United States ambassador to the People's Republic of China. ](/news/2011/03/7/abc-news-reports-that-president-barack-obama-will-nominate-the-united-states-secretary-of-commerce-gary-locke-as-the-next-united-states-amba.md)
-_Context: ABC News, Barack Obama, Gary Locke, People's Republic of China, President, United States, United States Secretary of Commerce_
+_Context: ABC News, Barack Obama, Gary Locke, People's Republic of China, U.S. President, United States, United States Secretary of Commerce_
 
 ### [A possible discovery of extraterrestrial life forms in samples of CI1 meteorites is reported in the ''Journal of Cosmology'' by Richard B. Hoover. ](/news/2011/03/7/a-possible-discovery-of-extraterrestrial-life-forms-in-samples-of-ci1-meteorites-is-reported-in-the-journal-of-cosmology-by-richard-b-h.md)
 Top NASA scientists have hosed down claims from a colleague that fossils of alien microbes were found in meteorites.

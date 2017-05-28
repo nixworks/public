@@ -13,7 +13,7 @@ Deadly downpours cause widespread flooding along the Cape Coast as the West Afri
 _Context: Guangdong province, Paiwan aboriginal tribe, People's Republic of China, Taiwan, Tsai Ing-wen, national anthem_
 
 ### [France deports twenty Russian football fans including Alexander Shprygin, the leader of the All-Russia Supporters Union, following violence at the England-Russia match in Marseille. ](/news/2016/06/16/france-deports-twenty-russian-football-fans-including-alexander-shprygin-the-leader-of-the-all-russia-supporters-union-following-violence.md)
-_Context: England, France, Marseille, Russia, Russian, Violence at UEFA Euro 2016_
+_Context: England, French, Marseille, Russia, Russian, Violence at UEFA Euro 2016_
 
 ### [Switzerland's Federal Assembly votes to officially withdraw the country's application to join the European Union. Following the vote, foreign minister Didier Burkhalter was quoted as saying that the government will now tell the EU to "consider the application as withdrawn". ](/news/2016/06/16/switzerland-s-federal-assembly-votes-to-officially-withdraw-the-country-s-application-to-join-the-european-union-following-the-vote-foreig.md)
 Switzerland&amp;#39;s Parliament votes to officially withdraw long-dormant application to join the EU&nbsp;

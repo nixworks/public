@@ -1,7 +1,7 @@
 ## [2016-08-17](/news/2016/08/17/index.md)
 
 ### [Federal Security Service (FSB) officers kill at least four suspected North Caucasus Islamic militants during a counter-terrorism raid on an apartment building in the Russian city of Saint Petersburg. ](/news/2016/08/17/federal-security-service-fsb-officers-kill-at-least-four-suspected-north-caucasus-islamic-militants-during-a-counter-terrorism-raid-on-an.md)
-_Context: Federal Security Service, North Caucasus, Russia, Saint Petersburg, counterterrorism_
+_Context: Federal Security Service, North Caucasus, Russia, Saint Petersburg, counter-terrorism_
 
 ### [Cisco announces a cut of 5,500 jobs in their shift from switches to software. ](/news/2016/08/17/cisco-announces-a-cut-of-5-500-jobs-in-their-shift-from-switches-to-software.md)
 _Context: Cisco_

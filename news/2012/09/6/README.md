@@ -10,7 +10,7 @@ _Context: Colombian armed conflict (1964-present), Norway, Oslo, Revolutionary A
 A boat carrying migrants capsizes off the coast of western Turkey killing at least 60 people, about half of them said to be children.
 
 ### [A toddler is found alive, hours after a shooting leaves four dead and another child heavily injured in a wood in Chevaline, Haute-Savoie near Lake Annecy, France. A car with a British licence plate is involved. British tourists, the male Iraqi-passport-holding driver and two women in the car, and a local inhabitant on a cycle, who was on paternity leave, are among the deaths. ](/news/2012/09/6/a-toddler-is-found-alive-hours-after-a-shooting-leaves-four-dead-and-another-child-heavily-injured-in-a-wood-in-chevaline-haute-savoie-nea.md)
-_Context: Annecy murders, Chevaline, Haute-Savoie, France, Iraq, Lake Annecy, United Kingdom_
+_Context: Annecy murders, Chevaline, Haute-Savoie, French, Iraq, Lake Annecy, United Kingdom_
 
 ### [Human Rights Watch says it has evidence of more cases of waterboarding involving United States operatives. ](/news/2012/09/6/human-rights-watch-says-it-has-evidence-of-more-cases-of-waterboarding-involving-united-states-operatives.md)
 A human rights organization says it has collected evidence of two previously unreported cases in which U.S. agents used waterboarding or a similar harsh interrogation technique on Libyan militants held by American forces in Afghanistan.

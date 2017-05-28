@@ -67,7 +67,7 @@ A Tunisian court has sentenced a television journalist to four years in prison f
 Human Rights Watch calls on Iran to stop the execution by stoning of a woman convicted of adultery.
 
 ### [French prosecutors launch an investigation into alleged illegal campaign funding for French President Nicolas Sarkozy. ](/news/2010/07/7/french-prosecutors-launch-an-investigation-into-alleged-illegal-campaign-funding-for-french-president-nicolas-sarkozy.md)
-_Context: France, Nicolas Sarkozy, President of France_
+_Context: French, Nicolas Sarkozy, President of France_
 
 ### [New Zealand environmental activist Peter Bethune is given a two year suspended sentence in a Tokyo District Court for his role in boarding a Japanese whaling ship. ](/news/2010/07/7/new-zealand-environmental-activist-peter-bethune-is-given-a-two-year-suspended-sentence-in-a-tokyo-district-court-for-his-role-in-boarding-a.md)
 When Pete Bethune&#039;s family in Auckland heard the New Zealand environmental activist had been sentenced in Tokyo, they thought he was going to be locked up in Japan for two years.

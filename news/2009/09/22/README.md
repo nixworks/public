@@ -10,7 +10,7 @@ _Context: AWACS, Ilyushin Il-76, Iran, mid-air collision_
 _Context: Moscow, Russia, racial bias_
 
 ### [ U.S. President Barack Obama calls for the resumption of the Middle East peace process in meetings with the Prime Minister of Israel Benjamin Netanyahu and the President of the Palestinian Authority Mahmoud Abbas. ](/news/2009/09/22/u-s-president-barack-obama-calls-for-the-resumption-of-the-middle-east-peace-process-in-meetings-with-the-prime-minister-of-israel-benjami.md)
-_Context: Barack Obama, Benjamin Netanyahu, Mahmoud Abbas, Middle East, Palestinian Authority President, President, Prime Minister of Israel_
+_Context: Barack Obama, Benjamin Netanyahu, Mahmoud Abbas, Middle East, Palestinian Authority President, Prime Minister of Israel, U.S. President_
 
 ### [ Honduran soldiers break up protests outside the Brazilian embassy in Tegucigalpa in support of deposed President Manuel Zelaya, who is staying inside. ](/news/2009/09/22/honduran-soldiers-break-up-protests-outside-the-brazilian-embassy-in-tegucigalpa-in-support-of-deposed-president-manuel-zelaya-who-is-stay.md)
 Honduras de facto leader Roberto Micheleti demanded that Brazil hand over deposed constitutional president Manuel Zelaya who is currently in the Brazilian embassy in Tegucigalpa following a dramatic secret return to the country.
@@ -25,7 +25,7 @@ _Context: Communist Party of India-Marxist, India, Maoist, West Bengal_
 For the first time since 1995 more people left Ireland than moved here, according to new figures.
 
 ### [ French riot police detain 278 migrants in Calais in an operation to dismantle the "jungle" camp. ](/news/2009/09/22/french-riot-police-detain-278-migrants-in-calais-in-an-operation-to-dismantle-the-jungle-camp.md)
-_Context: Calais, France, migrants_
+_Context: Calais, French, migrants_
 
 ### [ China bans foreigners from entering Tibet, ahead of the 60th anniversary celebrations of the People's Republic. ](/news/2009/09/22/china-bans-foreigners-from-entering-tibet-ahead-of-the-60th-anniversary-celebrations-of-the-people-s-republic.md)
 _Context: 60th anniversary of the founding, People's Republic of China, Tibet Autonomous Region_

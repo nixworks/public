@@ -25,7 +25,7 @@ _Context: Haiti, Jean Enold Buteau, Movement for National Reconstruction_
 A panel of Sofia City Court released Serbian war crimes suspect Cedomir Brankovic, who was arrested late on Tuesday in the Bulgarian capital. 
 
 ### [ In France, Bernard Guillet, an aide to former interior minister Charles Pasqua is questioned in connection with the oil for food probe. ](/news/2005/04/28/in-france-bernard-guillet-an-aide-to-former-interior-minister-charles-pasqua-is-questioned-in-connection-with-the-oil-for-food-probe.md)
-_Context: Bernard Guillet, Charles Pasqua, France, oil-for-food_
+_Context: Bernard Guillet, Charles Pasqua, French, oil-for-food_
 
 ### [ Swiss engineers blast through the Lotschberg Tunnel through the Alps from Germany to Italy. The tunnel will be ready for traffic in two years. ](/news/2005/04/28/swiss-engineers-blast-through-the-laptschberg-tunnel-through-the-alps-from-germany-to-italy-the-tunnel-will-be-ready-for-traffic-in-two-ye.md)
 _Context: Alps, German, Italian, Lotschberg Tunnel, Swiss_

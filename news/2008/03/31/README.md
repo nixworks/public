@@ -16,7 +16,7 @@ _Context: Expo 2015, Italian, Izmir, Milan, Turkey_
 _Context: 2008, two years of helping_
 
 ### [ French liquor group Pernod Ricard is buying Vin & Sprit, the maker of Absolut Vodka, for SEK 55 billion ($9.24 billion). ](/news/2008/03/31/french-liquor-group-pernod-ricard-is-buying-vin-sprit-the-maker-of-absolut-vodka-for-sek-55-billion-9-24-billion.md)
-_Context: Absolut Vodka, France, Pernod Ricard, Vin & Sprit_
+_Context: Absolut Vodka, French, Pernod Ricard, Vin & Sprit_
 
 ### [ The Zimbabwe Electoral Commission starts releasing results of the Zimbabwean parliamentary election, 2008 and Zimbabwean presidential election, 2008 with the Opposition Movement for Democratic Change claiming victory on the basis of unofficial results. ](/news/2008/03/31/the-zimbabwe-electoral-commission-starts-releasing-results-of-the-zimbabwean-parliamentary-election-2008-and-zimbabwean-presidential-elect.md)
 _Context: Movement for Democratic Change, parliamentary, run-off presidential election_

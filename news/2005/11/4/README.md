@@ -10,7 +10,7 @@ _Context: Old Bailey, United Kingdom, race hate, white supremacists_
 _Context: Terrorism Act, United Kingdom_
 
 ### [ The 2005 Paris suburb riots continue for an eighth consecutive night. Hundreds of arson attacks have taken place in the last few nights. Shots fired at police and firefighters. Rioting continues to spread. France described as facing a crisis. ](/news/2005/11/4/the-2005-paris-suburb-riots-continue-for-an-eighth-consecutive-night-hundreds-of-arson-attacks-have-taken-place-in-the-last-few-nights-sh.md)
-_Context: 2005 Paris suburb riots, France, riot_
+_Context: 2005 Paris suburb riots, French, riot_
 
 ### [ Israelis begin to mark the 10th anniversary of the assassination of Prime Minister Yitzhak Rabin. ](/news/2005/11/4/israelis-begin-to-mark-the-10th-anniversary-of-the-assassination-of-prime-minister-yitzhak-rabin.md)
 _Context: Israelis, Prime Minister of Israel, Yitzhak Rabin, assassinated_

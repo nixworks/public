@@ -12,8 +12,17 @@ _Context: Allman Brothers, Gregg Allman, Savannah, Georgia_
 ### [British Airways cancels all flights from Heathrow Airport and Gatwick Airport amid a "major IT system failure", that is causing severe disruption to flight operations worldwide. ](/news/2017/05/27/british-airways-cancels-all-flights-from-heathrow-airport-and-gatwick-airport-amid-a-major-it-system-failure-that-is-causing-severe-disru.md)
 All British Airways flights leaving Heathrow and Gatwick are cancelled until 18:00 BST.
 
-### [ Colombey authorities report the tomb of French national hero Charles de Gaulle has been vandalized. ](/news/2017/05/27/colombey-authorities-report-the-tomb-of-french-national-hero-charles-de-gaulle-has-been-vandalized.md)
+### [The meeting of Group of 7 leaders in Taormina, Italy, concludes with a disagreement on whether to uphold the Paris Agreement; U.S. President Donald Trump is the only leader not to confirm commitment to the agreement, due to his climate change skepticism. ](/news/2017/05/27/the-meeting-of-group-of-7-leaders-in-taormina-italy-concludes-with-a-disagreement-on-whether-to-uphold-the-paris-agreement-u-s-president.md)
+Germany called the climate change talks &quot;very unsatisfactory&quot;, describing them as &quot;six against one&quot;.
+
+### [Colombey authorities report the tomb of French national hero Charles de Gaulle has been vandalized. ](/news/2017/05/27/colombey-authorities-report-the-tomb-of-french-national-hero-charles-de-gaulle-has-been-vandalized.md)
 _Context: Charles de Gaulle, Colombey, French_
+
+### [Theresa May announces that the British terror threat level has been downgraded from "critical" to "severe" and that Operation Temperer will be phased out shortly, following productive counter-terrorism investigations. ](/news/2017/05/27/theresa-may-announces-that-the-british-terror-threat-level-has-been-downgraded-from-critical-to-severe-and-that-operation-temperer-will.md)
+Threat level is reduced but Operation Temperer, which allows military to be deployed to key sites, will continue until end of bank holiday weekend
+
+### [President of the Philippines Rodrigo Duterte tells soldiers fighting in Mindanao, where he proclaimed martial law earlier this week, that he will accept responsibility for abuses they commit, and jokes that "[i]f you had raped three, I will admit it, that's on me." ](/news/2017/05/27/president-of-the-philippines-rodrigo-duterte-tells-soldiers-fighting-in-mindanao-where-he-proclaimed-martial-law-earlier-this-week-that-he.md)
+Philippines President Rodrigo Duterte has sought to reassure soldiers who might be accused of committing abuses under martial law.
 
 ## [Previous Day...](/news/2017/05/26/index.md)
 

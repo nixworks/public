@@ -10,7 +10,7 @@ _Context: CIA, Lithuania, al-Qaeda_
 _Context: Moldova_
 
 ### [ French police uncover a large cache of weapons and explosives belonging to terrorist group ETA. ](/news/2009/08/26/french-police-uncover-a-large-cache-of-weapons-and-explosives-belonging-to-terrorist-group-eta.md)
-_Context: ETA, France_
+_Context: ETA, French_
 
 ### [ The Iranian Supreme Leader Ali Khamenei says he has no evidence that opposition protests were backed by foreign countries. ](/news/2009/08/26/the-iranian-supreme-leader-ali-khamenei-says-he-has-no-evidence-that-opposition-protests-were-backed-by-foreign-countries.md)
 _Context: Ali Khamenei, Iran, Supreme Leader of Iran, protests against the regime_

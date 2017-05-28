@@ -4,7 +4,7 @@
 _Context: 2007 Pakistani state of emergency, Pakistan, Pakistan Army, Qazi Mohammad Farooq, Swat, Pakistan, Taliban, arrest, by-elections, government, journalist, media, militant, state of emergency_
 
 ### [ November 2007 strikes in France: French President Nicolas Sarkozy vows to continue his economic reforms. ](/news/2007/11/20/november-2007-strikes-in-france-p-french-president-nicolas-sarkozy-vows-to-continue-his-economic-reforms.md)
-_Context: France, Nicolas Sarkozy, President of France, economic, public-sector strikes, reform_
+_Context: French, Nicolas Sarkozy, President of France, economic, public-sector strikes, reform_
 
 ### [ Israeli-Palestinian conflict: The Prime Minister of Israel Ehud Olmert and the President of the Palestinian Authority Mahmoud Abbas are formally invited to the 2007 Mideast peace conference. ](/news/2007/11/20/israeli-palestinian-conflict-p-the-prime-minister-of-israel-ehud-olmert-and-the-president-of-the-palestinian-authority-mahmoud-abbas-are-fo.md)
 _Context: 2007 Mideast peace conference, Ehud Olmert, Israel, Israeli-Palestinian conflict, Mahmoud Abbas, Palestinian Authority, President of the Palestinian Authority, Prime Minister of Israel_

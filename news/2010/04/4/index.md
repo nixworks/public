@@ -7,7 +7,7 @@ _Context: People's Republic of China, Shanxi province, death toll in Wangjialing
 _Context: Naxalite-Maoist insurgency_
 
 ### [President of Senegal Abdoulaye Wade announces in a televised address marking 50 years of independence that his country is to resume control of all military bases held by former colonial power France. ](/news/2010/04/4/president-of-senegal-abdoulaye-wade-announces-in-a-televised-address-marking-50-years-of-independence-that-his-country-is-to-resume-control.md)
-_Context: Abdoulaye Wade, France, President, Senegal_
+_Context: Abdoulaye Wade, French, President, Senegal_
 
 ### [The Chinese coal ship ''Shen Neng 1'' is reported to be leaking oil after it ran aground on the Great Barrier Reef off Queensland, Australia. ](/news/2010/04/4/the-chinese-coal-ship-shen-neng-1-is-reported-to-be-leaking-oil-after-it-ran-aground-on-the-great-barrier-reef-off-queensland-australia.md)
 Chinese vessel leaking oil after running aground on the Great Barrier Reef.

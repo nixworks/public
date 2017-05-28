@@ -10,13 +10,13 @@ _Context: Florida, Lisa Nowak, Space Shuttle, astronaut, kidnapped_
 _Context: Alexander Litvinenko, Andrei Lugovoi, BBC, Boris Berezovsky, murder of Russian spy Alexander Litvinenko_
 
 ### [ U.S. President George W. Bush has submitted a $2.9 trillion budget to Congress including almost $700 billion in new military spending. ](/news/2007/02/5/u-s-president-george-w-bush-has-submitted-a-2-9-trillion-budget-to-congress-including-almost-700-billion-in-new-military-spending.md)
-_Context: 110th United States Congress, George W. Bush, President, US$, United States, budget, military spending_
+_Context: 110th United States Congress, George W. Bush, U.S. President, US$, United States, budget, military spending_
 
 ### [ Syrian President Bashar al-Assad has said his country can play a major role in international efforts to end the Civil war in Iraq. ](/news/2007/02/5/syrian-president-bashar-al-assad-has-said-his-country-can-play-a-major-role-in-international-efforts-to-end-the-civil-war-in-iraq.md)
 _Context: Bashar al-Assad, Civil war in Iraq, President, Syria_
 
 ### [ French police arrest 13 Kurdish Turks for allegedly funding PKK terrorist operations. ](/news/2007/02/5/french-police-arrest-13-kurdish-turks-for-allegedly-funding-pkk-terrorist-operations.md)
-_Context: France, Kurdish, Kurdistan Workers' Party_
+_Context: French, Kurdish, Kurdistan Workers' Party_
 
 ### [ Iranian President Mahmoud Ahmadinejad will present a herbal treatment for AIDS that the Iranian government says is effective in helping patients to cure their symptoms. ](/news/2007/02/5/iranian-president-mahmoud-ahmadinejad-will-present-a-herbal-treatment-for-aids-that-the-iranian-government-says-is-effective-in-helping-pat.md)
 Iran was set to make fantastic claims on the anniversary of the Islamic Revolution, including finding an herbal cure for AIDS, an Israeli news agency reported Sunday.

@@ -22,7 +22,7 @@ _Context: Chinese President, Hu Jintao, Qingzang railway_
 The Age 404 Page
 
 ### [ A ceremony is held at Thiepval, Picardy, in France, to commemorate the 90th anniversary of the Battle of the Somme.  ([http://news.bbc.co.uk/1/hi/uk/5135878.stm BBC])](/news/2006/07/1/a-ceremony-is-held-at-thiepval-picardy-in-france-to-commemorate-the-90th-anniversary-of-the-battle-of-the-somme-http-news-bbc-co-u.md)
-_Context: Battle of the Somme, France, Picardy, Thiepval_
+_Context: Battle of the Somme, French, Picardy, Thiepval_
 
 ## [Previous Day...](/news/2006/06/30/index.md)
 

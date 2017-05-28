@@ -1,6 +1,6 @@
 ### [2017-05-27](/news/2017/05/27/index.md)
 
-#  Colombey authorities report the tomb of French national hero Charles de Gaulle has been vandalized. 
+# Colombey authorities report the tomb of French national hero Charles de Gaulle has been vandalized. 
 
 
 

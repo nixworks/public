@@ -7,7 +7,7 @@ _Context: Yahoo Inc., layoff_
 _Context: Americas, Florida, UNITAS Gold, United States, maritime forces, military exercise_
 
 ### [ The World Digital Library launches at UNESCO's headquarters in Paris, France. ](/news/2009/04/21/the-world-digital-library-launches-at-unesco-s-headquarters-in-paris-france.md)
-_Context: France, Paris, UNESCO, World Digital Library_
+_Context: French, Paris, UNESCO, World Digital Library_
 
 ### [ ''The Wall Street Journal'' reports that cyber-spies have hacked the U.S. Joint Strike Fighter Program. ](/news/2009/04/21/the-wall-street-journal-reports-that-cyber-spies-have-hacked-the-u-s-joint-strike-fighter-program.md)
 The Pentagon and Lockheed Martin Corp, its top supplier, discounted a Wall Street Journal report that cyber spies had stolen secrets of the F-35 Joint Strike Fighter aircraft being built for the United States and nearly a dozen allies.

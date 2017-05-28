@@ -16,7 +16,7 @@ Pro-establishment group threatens to move against red shirts if government fails
 _Context: Timothy Torlot, United Kingdom, Yemen, suicide bombing_
 
 ### [Former dictator of Panama, Manuel Noriega is extradited from the United States to France. ](/news/2010/04/26/former-dictator-of-panama-manuel-noriega-is-extradited-from-the-united-states-to-france.md)
-_Context: France, Manuel Noriega, Panama, United States, extradited_
+_Context: French, Manuel Noriega, Panama, United States, extradited_
 
 ### [Noma, located in Copenhagen, Denmark, is named as the "world's best restaurant" in ''Restaurant'' magazine's annual survey. ](/news/2010/04/26/noma-located-in-copenhagen-denmark-is-named-as-the-world-s-best-restaurant-in-restaurant-magazine-s-annual-survey.md)
 _Context: ''Restaurant'', Copenhagen, Denmark, Noma, annual survey_

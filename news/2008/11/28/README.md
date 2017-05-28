@@ -1,7 +1,7 @@
 ## [2008-11-28](/news/2008/11/28/index.md)
 
 ### [ Five people are arrested in France and Romania as a result of an investigation into the killing of Brahim Deby, a son of the President of Chad Idriss Deby. ](/news/2008/11/28/five-people-are-arrested-in-france-and-romania-as-a-result-of-an-investigation-into-the-killing-of-brahim-deby-a-son-of-the-president-of-c.md)
-_Context: Brahim Deby, France, Idriss Deby, President of Chad, Romania_
+_Context: Brahim Deby, French, Idriss Deby, President of Chad, Romania_
 
 ### [ Black Friday: As the Christmas shopping season begins in the United States, two are shot at a Toys R Us store in Palm Desert, California, and a Wal-Mart employee is crushed in a stampede after shoppers broke down a front door in Valley Stream, New York. ](/news/2008/11/28/black-friday-as-the-christmas-shopping-season-begins-in-the-united-states-two-are-shot-at-a-toys-r-us-store-in-palm-desert-california-a.md)
 _Context: Black Friday, California, Christmas, New York, Palm Desert, Toys R Us, United States, Valley Stream, Wal-Mart, stampede_

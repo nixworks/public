@@ -10,7 +10,7 @@ _Context: Central Africa, Human Rights Watch, Lord's Resistance Army, Uganda_
 Dozens hurt in police clash after demonstrating against frequent power outages.
 
 ### [The United Nations condemns France's crackdown on 40 gypsy camps. ](/news/2010/08/12/the-united-nations-condemns-france-s-crackdown-on-40-gypsy-camps.md)
-_Context: France, Roma, United Nations_
+_Context: French, Roma, United Nations_
 
 ### [At least two people are killed, including one case of self-immolation from a balcony, while more than 80 sustain wounds after troops interrupt a protest against poor conditions with batons and flashbangs at a prison in Astana, Kazakhstan. ](/news/2010/08/12/at-least-two-people-are-killed-including-one-case-of-self-immolation-from-a-balcony-while-more-than-80-sustain-wounds-after-troops-interru.md)
 At least two inmates are killed and more than 80 injured during a prison riot in Kazakhstan, in an apparent protest over poor conditions.

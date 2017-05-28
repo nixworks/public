@@ -28,7 +28,7 @@ _Context: Afghanistan, parliamentary election_
 _Context: North Korea, North Korea and weapons of mass destruction, South Korea, declaration of war, pre-emptive strike_
 
 ### [At the NRJ Music Awards in Cannes, France, hip hop band Black Eyed Peas are mistakenly presented with an award for best international group which was intended for Tokio Hotel, while Rihanna falls off the stage during a live performance of "Russian Roulette". ](/news/2010/01/24/at-the-nrj-music-awards-in-cannes-france-hip-hop-band-black-eyed-peas-are-mistakenly-presented-with-an-award-for-best-international-group.md)
-_Context: Black Eyed Peas, Cannes, France, NRJ Music Awards, Rihanna, Russian Roulette, Tokio Hotel_
+_Context: Black Eyed Peas, Cannes, French, NRJ Music Awards, Rihanna, Russian Roulette, Tokio Hotel_
 
 ### [Quentin Tarantino's ''Inglourious Basterds'' wins the top prize at the 16th Screen Actors Guild Awards, with Jeff Bridges and Sandra Bullock winning best actors. ](/news/2010/01/24/quentin-tarantino-s-inglourious-basterds-wins-the-top-prize-at-the-16th-screen-actors-guild-awards-with-jeff-bridges-and-sandra-bullock.md)
 _Context: 16th Screen Actors Guild Awards, Inglourious Basterds, Jeff Bridges, Quentin Tarantino, Sandra Bullock_

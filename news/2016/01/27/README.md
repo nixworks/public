@@ -22,7 +22,7 @@ _Context: Amnesty International, Human rights in Iran, Iran_
 The Marshall Islands parliament has elected Hilda Heine as the country&#39;s new president, making her the first woman to head the government of an independent Pacific Island nation.
 
 ### [Christiane Taubira, differing with President Francois Hollande concerning  pending terrorist/citizenship legislation, resigns as the Minister of Justice in France. ](/news/2016/01/27/christiane-taubira-differing-with-president-franassois-hollande-concerning-pending-terrorist-citizenship-legislation-resigns-as-the-minist.md)
-_Context: Christiane Taubira, France, Francois Hollande, Minister of Justice, November 2015 Paris Attacks, President of France_
+_Context: Christiane Taubira, Francois Hollande, French, Minister of Justice, November 2015 Paris Attacks, President of France_
 
 ### [Vietnam reelects conservative Nguyen Phu Trong as  General Secretary of the Communist Party of Vietnam.  Deputy Prime Minister Nguyen Xuan Phuc, a member of the Politburo, is expected to replace Nguyen Tan Dung  as prime minister. Dung is not eligible for another term. ](/news/2016/01/27/vietnam-reelects-conservative-nguya-n-phao-tra-ng-as-general-secretary-of-the-communist-party-of-vietnam-deputy-prime-minister-nguya-n.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

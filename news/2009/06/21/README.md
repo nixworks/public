@@ -19,7 +19,7 @@ _Context: Somalia, War in Somalia (2009-), state of emergency_
 _Context: 2008 referendum, Greenland, Self-rule_
 
 ### [ Seven people, including six amusement park employees, are killed in a French rural helicopter crash. ](/news/2009/06/21/seven-people-including-six-amusement-park-employees-are-killed-in-a-french-rural-helicopter-crash.md)
-_Context: France_
+_Context: French_
 
 ### [ 2009 Iranian election protests: Iranian state television claims at least ten people are dead following protests over the recent election. ](/news/2009/06/21/2009-iranian-election-protests-p-iranian-state-television-claims-at-least-ten-people-are-dead-following-protests-over-the-recent-election.md)
 Iranian opposition leader Mir-Hossein Mousavi urged his supporters to continue their protests over a disputed presidential election.
@@ -37,7 +37,7 @@ _Context: Belfast_
 _Context: Italian, Mafia, Salvatore Miceli, Venezuela_
 
 ### [ United States President Barack Obama tells a television news crew his country is "fully prepared" for a possible missile test by North Korea over the Pacific Ocean. ](/news/2009/06/21/united-states-president-barack-obama-tells-a-television-news-crew-his-country-is-fully-prepared-for-a-possible-missile-test-by-north-kore.md)
-_Context: Barack Obama, North Korea, Pacific, President, United States_
+_Context: Barack Obama, North Korea, Pacific, U.S. President, United States_
 
 ## [Previous Day...](/news/2009/06/20/index.md)
 

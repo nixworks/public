@@ -28,7 +28,7 @@ _Context: Gulf Coast of the United States, Hurricane Isaac, Louisiana, category 
 Israel was not at fault for the death of US activist Rachel Corrie, killed in Gaza by an Israeli army bulldozer in 2003, an Israeli court rules.
 
 ### [French officials open up a murder case in the death of Palestinian leader Yasser Arafat following a "complaint against X" by his widow. ](/news/2012/08/28/french-officials-open-up-a-murder-case-in-the-death-of-palestinian-leader-yasser-arafat-following-a-complaint-against-x-by-his-widow.md)
-_Context: France, Palestinian, Yasser Arafat, death_
+_Context: French, Palestinian, Yasser Arafat, death_
 
 ### [The United States Republican Party officially nominates Mitt Romney as its candidate in the 2012 presidential election at the National Convention in Tampa, Florida. ](/news/2012/08/28/the-united-states-republican-party-officially-nominates-mitt-romney-as-its-candidate-in-the-2012-presidential-election-at-the-national-conve.md)
 _Context: Mitt Romney, National Convention, R, Tampa, United States, United States presidential election, 2012_

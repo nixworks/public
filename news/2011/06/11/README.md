@@ -16,7 +16,7 @@ _Context: 2011 Yemeni uprising, Saleh, Yemen, Yemeni President_
 _Context: Libyan Civil War, Tripoli, Zawiya_
 
 ### [South Korea welcomes the return of ancient Korean royal books looted by French troops in 1866, during an invasion of  Ganghwa Island in retaliation for Koreans' persecution of French Catholic missionaries.  ](/news/2011/06/11/south-korea-welcomes-the-return-of-ancient-korean-royal-books-looted-by-french-troops-in-1866-during-an-invasion-of-ganghwa-island-in-reta.md)
-_Context: France, South Korea, ancient Korean royal books_
+_Context: French, South Korea, ancient Korean royal books_
 
 ### [Entertainer Bruce Forsyth is knighted in the Queen's Birthday Honours. Others recognised for their contribution to society include actor Colin Firth, and the team which secured England's Ashes victory over Australia. ](/news/2011/06/11/entertainer-bruce-forsyth-is-knighted-in-the-queen-s-birthday-honours-others-recognised-for-their-contribution-to-society-include-actor-col.md)
 Entertainment legend Bruce Forsyth is knighted in a list which also recognises Oscar winner Colin Firth, the Ashes heroes and hundreds of &quot;unsung heroes&quot;.

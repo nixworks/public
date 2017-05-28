@@ -7,7 +7,7 @@ _Context: Pakistan, Taliban, U.S. Congressional, United States, al-Qaeda, foreig
 _Context: Andres Penate, Colombia, FARC_
 
 ### [ The President of the United States George W. Bush urges  Congress to pass legislation to expand potential surveillance targets. ](/news/2007/07/28/the-president-of-the-united-states-george-w-bush-urges-congress-to-pass-legislation-to-expand-potential-surveillance-targets.md)
-_Context: George W. Bush, President, U.S. Congressional_
+_Context: George W. Bush, U.S. Congressional, U.S. President_
 
 ### [ The death toll from the Summer 2007 United Kingdom floods rises to nine as police find a body near Tewkesbury in Gloucestershire. ](/news/2007/07/28/the-death-toll-from-the-summer-2007-united-kingdom-floods-rises-to-nine-as-police-find-a-body-near-tewkesbury-in-gloucestershire.md)
 Police say emergency workers have found a man&#039;s body in a submerged field, bringing to at least nine the death toll in Britain&#039;s worst floods for 60 years.
@@ -22,7 +22,7 @@ _Context: Islamabad, Lal Masjid, Pakistan, suicide bombing_
 An Indian doctor freed from jail after Australia dropped terrorism charges against him will be leaving Australia on Saturday after receiving the go-ahead from immigration officials, his lawyer said.
 
 ### [ Bernard Kouchner, the French Foreign Minister, arrives in Lebanon to reduce tensions between the Prime Minister of Lebanon Fouad Siniora and the pro-Syrian opposition. ](/news/2007/07/28/bernard-kouchner-the-french-foreign-minister-arrives-in-lebanon-to-reduce-tensions-between-the-prime-minister-of-lebanon-fouad-siniora-an.md)
-_Context: Bernard Kouchner, Fouad Siniora, France, Lebanon, Prime Minister, Syria_
+_Context: Bernard Kouchner, Fouad Siniora, French, Lebanon, Prime Minister, Syria_
 
 ### [ Rwanda abolishes capital punishment. ](/news/2007/07/28/rwanda-abolishes-capital-punishment.md)
 _Context: Rwanda, death penalty_

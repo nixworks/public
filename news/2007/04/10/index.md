@@ -16,7 +16,7 @@ _Context: Baghdad, Iraq War, Sunni, United States, three-mile wall_
 _Context: Baghdad, February 2007, Iraq, Iraq War, United States, helicopters, launch of a security crackdown_
 
 ### [ Seven French doctors will face charges related to the deaths of 110 patients who developed Creutzfeldt-Jakob disease after taking growth hormones in the 1980s. ](/news/2007/04/10/seven-french-doctors-will-face-charges-related-to-the-deaths-of-110-patients-who-developed-creutzfeldt-jakob-disease-after-taking-growth-ho.md)
-_Context: 1980s, Creutzfeldt-Jakob disease, France, doctor, growth hormone_
+_Context: 1980s, Creutzfeldt-Jakob disease, French, doctor, growth hormone_
 
 ### [ India's largest private airline, Jet Airways, has restarted talks to purchase Air Sahara. ](/news/2007/04/10/india-s-largest-private-airline-jet-airways-has-restarted-talks-to-purchase-air-sahara.md)
 _Context: Air Sahara, India, Jet Airways, commercial air traffic_

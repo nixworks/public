@@ -46,7 +46,7 @@ _Context: Japan, People's Republic of China, Wen Jiabao, rare earth element_
 Residents blame aluminium company for toxic spill that killed four people and devastated three villages.
 
 ### [Maltese chemical tanker YM Uranus||2 is reported to be sinking following a collision with the Panamanian cargo ship ''Hanjin Rizhao'' off the coast of Brittany, France. ](/news/2010/10/8/maltese-chemical-tanker-ym-uranus-2-is-reported-to-be-sinking-following-a-collision-with-the-panamanian-cargo-ship-hanjin-rizhao-off-th.md)
-_Context: Brittany, France, Maltese, Panama, Tanker, cargo ship_
+_Context: Brittany, French, Maltese, Panama, Tanker, cargo ship_
 
 ### [One person died and 42 others remain hospitalized in the Tibetan Autonomous Prefecture of Garze. Over 100 people, mostly tourists and hotel staff, were affected. ](/news/2010/10/8/one-person-died-and-42-others-remain-hospitalized-in-the-tibetan-autonomous-prefecture-of-garze-over-100-people-mostly-tourists-and-hotel.md)
 _Context: Tibetan Autonomous Prefecture of Garze_
@@ -73,7 +73,7 @@ _Context: Ashfaq Parvez Kayani, Chief of Army Staff, Pakistan Army, Pakistani, f
 _Context: Aung San Suu Kyi, Burma, house arrest_
 
 ### [France's highest legal authority rules in favour of a ban on facial veils. ](/news/2010/10/8/france-s-highest-legal-authority-rules-in-favour-of-a-ban-on-facial-veils.md)
-_Context: France_
+_Context: French_
 
 ### [United States National Security Advisor General James L. Jones announces his resignation effective in two weeks; his deputy Thomas E. Donilon is expected to replace him. ](/news/2010/10/8/united-states-national-security-advisor-general-james-l-jones-announces-his-resignation-effective-in-two-weeks-his-deputy-thomas-e-donilo.md)
 In an afternoon statement in the White House Rose Garden, President Barack Obama announced Friday that he will name Tom Donilon to be his next National Security Adviser, replacing retiring Gen. James Jones. 

@@ -19,7 +19,7 @@ The armed Basque separatist group Eta has decided not to carry out &quot;armed a
 _Context: Hugo Awards, Melbourne, Worldcon_
 
 ### [British academic Peter Gumbel causes controversy in France by alleging in his book that their education system lowers the self-esteem of pupils. ](/news/2010/09/5/british-academic-peter-gumbel-causes-controversy-in-france-by-alleging-in-his-book-that-their-education-system-lowers-the-self-esteem-of-pup.md)
-_Context: France, Peter Gumbel, their education system_
+_Context: French, Peter Gumbel, their education system_
 
 ### [A state of emergency is declared in Guatemala after heavy rains and landslides kill at least 18 people. ](/news/2010/09/5/a-state-of-emergency-is-declared-in-guatemala-after-heavy-rains-and-landslides-kill-at-least-18-people.md)
 A state of emergency is declared in Guatemala where heavy rain has caused widespread flooding and landslides, killing at least 20 people.

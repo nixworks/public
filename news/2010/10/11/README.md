@@ -49,7 +49,7 @@ A Greek policeman is sentenced to life in jail for murdering a schoolboy in 2008
 _Context: 7 July, Heather Hallett, United Kingdom, inquest_
 
 ### [Benigno Aquino III, the President of the Philippines, elects only for administrative, and no criminal charges to be laid in relation to the botched Manila hostage crisis in August. ](/news/2010/10/11/benigno-aquino-iii-the-president-of-the-philippines-elects-only-for-administrative-and-no-criminal-charges-to-be-laid-in-relation-to-the.md)
-_Context: Benigno Aquino III, Manila hostage crisis, President_
+_Context: Benigno Aquino III, Manila hostage crisis, President of the Philippines_
 
 ### [A woman accused of sexually abusing girls at the Oprah Winfrey Leadership Academy for Girls in Meyerton, South Africa, is acquitted. ](/news/2010/10/11/a-woman-accused-of-sexually-abusing-girls-at-the-oprah-winfrey-leadership-academy-for-girls-in-meyerton-south-africa-is-acquitted.md)
 _Context: Leadership Academy for Girls, Meyerton, Oprah Winfrey, South Africa, sexual abuse_

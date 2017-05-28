@@ -55,7 +55,7 @@ The suit, filed by a rights group, was based on Cisco sales materials. Cisco sai
 The man known as the father of the so-called &#034;Great Firewall of China&#034; was pelted with eggs and shoes by a students protesting against China&#039;s draconian online censorship regime, online reports in China claimed.
 
 ### [The daughter of Uzbek President Islam Karimov sues a French website for calling her father a "dictator". ](/news/2011/05/19/the-daughter-of-uzbek-president-islam-karimov-sues-a-french-website-for-calling-her-father-a-dictator.md)
-_Context: France, Islam Karimov, Uzbekistan, dictator_
+_Context: French, Islam Karimov, Uzbekistan, dictator_
 
 ### [Authorities in Egypt suspend the prison sentences of 120 protesters who participated in the 2011 Egyptian revolution. ](/news/2011/05/19/authorities-in-egypt-suspend-the-prison-sentences-of-120-protesters-who-participated-in-the-2011-egyptian-revolution.md)
 _Context: 2011 Egyptian revolution, Egypt_

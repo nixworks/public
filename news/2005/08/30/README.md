@@ -10,7 +10,7 @@ Miss. governor estimates 80 could be dead in one county alone; two levees break 
 _Context: Ariel Sharon, Binyamin Netanyahu, Likud, Prime Minister of Israel_
 
 ### [ In Paris, France, seven die and fourteen are injured when a fire burns down an apartment housing African immigrants owned by the Socit Immobilire d'conomie Mixte de la Ville de Paris 22:00 (GMT+1) ](/news/2005/08/30/in-paris-france-seven-die-and-fourteen-are-injured-when-a-fire-burns-down-an-apartment-housing-african-immigrants-owned-by-the-societe-im.md)
-_Context: France, Paris, fire_
+_Context: French, Paris, fire_
 
 ### [ Prime Minister Manmohan Singh announced India would give US$50 million in additional aid for the reconstruction of Afghanistan during his meetings with Hamid Karzai. Earlier, it had pledged US$500 million to help rebuild the war-ravaged country.](/news/2005/08/30/prime-minister-manmohan-singh-announced-india-would-give-us-50-million-in-additional-aid-for-the-reconstruction-of-afghanistan-during-his-m.md)
 _Context: Afghanistan, Hamid Karzai, India, India's Prime Minister, Manmohan Singh_

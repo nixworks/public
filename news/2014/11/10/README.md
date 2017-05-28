@@ -13,7 +13,7 @@ _Context: Karachi, Pakistani police, Rawalpindi, Terrorism in Pakistan_
 Girlfriend of Almog Shiloni, who was stabbed to death in Tel Aviv attack, says they were set to get married, calls him &#8216;an angel&#8217;
 
 ### [Isabel dos Santos, a billionaire and the eldest daughter of the President of Angola, has entered an auction for Portugal Telecom, bidding against a France based company, Altice. ](/news/2014/11/10/isabel-dos-santos-a-billionaire-and-the-eldest-daughter-of-the-president-of-angola-has-entered-an-auction-for-portugal-telecom-bidding-ag.md)
-_Context: Angola, France, Isabel dos Santos, Portugal Telecom_
+_Context: Angola, French, Isabel dos Santos, Portugal Telecom_
 
 ### [Members of the Asia Pacific Economic Cooperation forum gather in Beijing. ](/news/2014/11/10/members-of-the-asia-pacific-economic-cooperation-forum-gather-in-beijing.md)
 The leaders of China and Japan hold formal talks on the sidelines of a major Asian summit, after years of tension over a territorial row.

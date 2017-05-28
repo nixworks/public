@@ -10,7 +10,7 @@ _Context: Federal Reserve, inflation_
 _Context: 2003, Iraq, Iraq War, Johns Hopkins Bloomberg School of Public Health, incursions_
 
 ### [ Twelve people have died following a train crash at Zoufftgen in north-east France, near the Luxembourg border. ](/news/2006/10/11/twelve-people-have-died-following-a-train-crash-at-zoufftgen-in-north-east-france-near-the-luxembourg-border.md)
-_Context: France, Luxembourg, Zoufftgen, train crash_
+_Context: French, Luxembourg, Zoufftgen, train crash_
 
 ### [ 2006 North Korean nuclear testing A North Korean official stationed in Beijing tells the Yonhap news agency that "If all out sanctions are implemented, we will take it as a declaration of war". ](/news/2006/10/11/2006-north-korean-nuclear-testingp-a-north-korean-official-stationed-in-beijing-tells-the-yonhap-news-agency-that-if-all-out-sanctions-are.md)
 _Context: 2006, Beijing, North Korea, Yonhap, sanctions_

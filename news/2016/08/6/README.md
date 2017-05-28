@@ -13,7 +13,7 @@ _Context: Abu Sayyaf, Autonomous Region in Muslim Mindanao, Moro conflict, Patik
 Nissan Motor Co (7201.T) is in talks with Panasonic Corp (6752.T) and overseas companies including Chinese firms over the possible sale of its controlling stake in a car battery manufacturing venture, sources said.
 
 ### [A fire kills at least 13 people in a bar in the French city of Rouen. ](/news/2016/08/6/a-fire-kills-at-least-13-people-in-a-bar-in-the-french-city-of-rouen.md)
-_Context: 2016 Rouen fire, France, Rouen_
+_Context: 2016 Rouen fire, French, Rouen_
 
 ### [Tropical Storm Earl makes its final landfall near Veracruz in eastern Mexico, producing flooding rains that kill at least six. ](/news/2016/08/6/tropical-storm-earl-makes-its-final-landfall-near-veracruz-in-eastern-mexico-producing-flooding-rains-that-kill-at-least-six.md)
 _Context: 2016 Atlantic hurricane season, Earl's, Mexico, Veracruz_

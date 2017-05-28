@@ -31,7 +31,7 @@ _Context: Europe, Middle East, United States, stock market_
 Romanian weather officials announced on Wednesday that snow and wind will intensify across the country starting February 23, 11 p.m. until Friday, 18 p.m.
 
 ### [President of the Philippines Benigno Aquino says the country has not resolved a row with Taiwan over deportations. ](/news/2011/02/23/president-of-the-philippines-benigno-aquino-says-the-country-has-not-resolved-a-row-with-taiwan-over-deportations.md)
-_Context: Benigno Aquino III, President, Taiwan_
+_Context: Benigno Aquino III, President of the Philippines, Taiwan_
 
 ### [Senegal severs diplomatic relations with Iran, accusing it of supplying weapons to anti-government rebels that killed Senegalese soldiers. ](/news/2011/02/23/senegal-severs-diplomatic-relations-with-iran-accusing-it-of-supplying-weapons-to-anti-government-rebels-that-killed-senegalese-soldiers.md)
 _Context: Iran, Senegal, diplomatic relations_

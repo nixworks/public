@@ -22,7 +22,7 @@ _Context: 2008 National People's Congress, 2008 unrest in Tibet, Premier of the 
 Canada followed the lead of about 30 other countries Tuesday and formally recognized Kosovo, a former Serbian province that declared its independence last month.
 
 ### [ French Foreign Minister Bernard Kouchner says the EU should consider punishing China's crackdown in Tibet with a boycott of the opening ceremony of the Olympic Games in Beijing. ](/news/2008/03/18/french-foreign-minister-bernard-kouchner-says-the-eu-should-consider-punishing-china-s-crackdown-in-tibet-with-a-boycott-of-the-opening-cer.md)
-_Context: Beijing, Beijing Olympiad, Bernard Kouchner, Chinese, European Union, France, Tibet, boycott_
+_Context: Beijing, Beijing Olympiad, Bernard Kouchner, Chinese, European Union, French, Tibet, boycott_
 
 ### [ The Netherlands sets a new world record in the 400-metres relay at the European swimming championships in Eindhoven. ](/news/2008/03/18/the-netherlands-sets-a-new-world-record-in-the-400-metres-relay-at-the-european-swimming-championships-in-eindhoven.md)
 _Context: Dutch, Eindhoven, European Swimming Championships, relay_

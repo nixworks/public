@@ -16,7 +16,7 @@ _Context: Angela Merkel's, German Chancellor, Government of Germany, Moscow, Wor
 A former Chechen police officer was likely tortured into confessing to the murder of Russian opposition activist Boris Nemtsov, a member of the Kremlin&#x27;s human rights council said Wednesday, prompting a spat with investigators. The statement from a body close to President Vladimir Putin and often
 
 ### [At least 15 armed assailants ambush two vans on a highway in Burgundy, France  carrying millions of euros worth of jewels. It was the latest in a string of big jewel heists in France. ](/news/2015/03/11/at-least-15-armed-assailants-ambush-two-vans-on-a-highway-in-burgundy-france-carrying-millions-of-euros-worth-of-jewels-it-was-the-latest.md)
-_Context: Burgundy, France, jewels_
+_Context: Burgundy, French, jewels_
 
 ### [A United States immigration appeals panel approves the deportation of former El Salvador Defence Minister Carlos Eugenio Vides Casanova to potentially face human rights abuses charges in his homeland. ](/news/2015/03/11/a-united-states-immigration-appeals-panel-approves-the-deportation-of-former-el-salvador-defence-minister-carlos-eugenio-vides-casanova-to-p.md)
 An appeals panel has upheld the deportation order of a former El Salvadorean defense minister who oversaw the torture and killings of thousands.

@@ -1,7 +1,7 @@
 ## [2008-06-9](/news/2008/06/9/index.md)
 
 ### [ French foreign minister Bernard Kouchner warns Ireland, saying the Irish would be the "first victim" if they reject the EU Treaty of Lisbon. ](/news/2008/06/9/french-foreign-minister-bernard-kouchner-warns-ireland-saying-the-irish-would-be-the-first-victim-if-they-reject-the-eu-treaty-of-lisbon.md)
-_Context: Bernard Kouchner, European Union, France, Ireland, Treaty of Lisbon, the second Irish referendum_
+_Context: Bernard Kouchner, European Union, French, Ireland, Treaty of Lisbon, the second Irish referendum_
 
 ### [ June 2008 Midwest Flood: A stalled storm system  in the midwest of the United States causes further heavy flooding in Indiana, Iowa and Wisconsin with storms on the weekend causing 10 deaths in four states. ](/news/2008/06/9/june-2008-midwest-flood-a-stalled-storm-system-in-the-midwest-of-the-united-states-causes-further-heavy-flooding-in-indiana-iowa-and-wis.md)
 A stalled storm system poured heavy rain on parts of the Midwest, setting off severe flooding in Indiana, Iowa and Wisconsin.
@@ -43,7 +43,7 @@ _Context: Spain, diesel fuel, strike, truck drivers_
 _Context: Gujjar, Rajasthan, reservations_
 
 ### [ The President of the United States George W. Bush commences the last visit to Europe of his presidency. ](/news/2008/06/9/the-president-of-the-united-states-george-w-bush-commences-the-last-visit-to-europe-of-his-presidency.md)
-_Context: Europe, George W. Bush, President_
+_Context: Europe, George W. Bush, U.S. President_
 
 ### [ The United States Secretary of Defense Robert Gates nominates Norton Schwartz to be the next Chief of Staff of the United States Air Force with Michael B. Donley nominated as the next United States Secretary of the Air Force. ](/news/2008/06/9/the-united-states-secretary-of-defense-robert-gates-nominates-norton-schwartz-to-be-the-next-chief-of-staff-of-the-united-states-air-force.md)
 _Context: Chief of Staff of the United States Air Force, Michael B. Donley, Norton Schwartz, Robert Gates, Secretary of Defense, Secretary of the Air Force_

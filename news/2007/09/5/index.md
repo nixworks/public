@@ -20,7 +20,7 @@ British Prime Minister Gordon Brown launched an international initiative, which 
 _Context: 2008, Fred Thompson, R, United States Senate_
 
 ### [ Judge William Hoeveler places a stay on ex-Panamanian leader Manuel Noriega's extradition from the United States to France so that his defence can present a new appeal. ](/news/2007/09/5/judge-william-hoeveler-places-a-stay-on-ex-panamanian-leader-manuel-noriega-s-extradition-from-the-united-states-to-france-so-that-his-defe.md)
-_Context: France, Manuel Noriega, Panama, United States, William Hoeveler, extradited_
+_Context: French, Manuel Noriega, Panama, United States, William Hoeveler, extradited_
 
 ### [ Lawyers for U.S. Senator Larry Craig (R-ID) ask the Senate Select Committee on Ethics to reject a complaint following a guilty plea to disorderly conduct charges in Minneapolis. The Ethics Committee rejects his plea. ](/news/2007/09/5/lawyers-for-u-s-senator-larry-craig-r-id-ask-the-senate-select-committee-on-ethics-to-reject-a-complaint-following-a-guilty-plea-to-diso.md)
 Sen. Larry Craig has all but dropped any notion of trying to complete his term, and is focused on helping Idaho send a new senator to Washington within a few weeks, his top spokesman said Thursday

@@ -4,7 +4,7 @@
 New Zealand launched its first commercially available biofuel Wednesday. The fuel is made up of 90 percent petrol and 10 percent bioethanol made from cows’ milk.
 
 ### [ The President of the United States George W. Bush orders senior adviser Karl Rove not to testify before a United States Senate committee on the Dismissal of U.S. attorneys controversy. ](/news/2007/08/1/the-president-of-the-united-states-george-w-bush-orders-senior-adviser-karl-rove-not-to-testify-before-a-united-states-senate-committee-on.md)
-_Context: George W. Bush, Karl Rove, President, United States Senate, firings_
+_Context: George W. Bush, Karl Rove, U.S. President, United States Senate, firings_
 
 ### [ The Bombay Stock Exchange Sensex lost 615 points in a single day becoming the third biggest such crash in its history.](/news/2007/08/1/the-bombay-stock-exchange-sensex-lost-615-points-in-a-single-day-becoming-the-third-biggest-such-crash-in-its-history.md)
 _Context: Bombay Stock Exchange, Sensex_
@@ -19,7 +19,7 @@ Canadian researchers said the body of a nameless child who died aboard the Titan
 _Context: 2008, Association of South East Asian Nations, Australia, Free Trade Agreement, New Zealand_
 
 ### [ A French court orders the release of two suspects in the 1994 Rwandan genocide. ](/news/2007/08/1/a-french-court-orders-the-release-of-two-suspects-in-the-1994-rwandan-genocide.md)
-_Context: 1994, France, Rwandan Genocide_
+_Context: 1994, French, Rwandan Genocide_
 
 ### [ At least 28 people die in Uttar Pradesh, India as an overcrowded boat carrying flood evacuees and aid workers capsizes on the Rohni River. Monsoon floods have killed more than 150 people in India during July while at least 82 people have died in Nepal over the past two weeks and 38 in Bangladesh. ](/news/2007/08/1/at-least-28-people-die-in-uttar-pradesh-india-as-an-overcrowded-boat-carrying-flood-evacuees-and-aid-workers-capsizes-on-the-rohni-river.md)
 _Context: Bangladesh, India, Nepal, Rohni River, Uttar Pradesh, flood, monsoon_

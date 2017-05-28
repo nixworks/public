@@ -28,7 +28,7 @@ _Context: Augustine Geve, Harold Keke, Solomon Islands_
 _Context: Bosnia and Herzegovina, Croat, Sefer Halilovic, Yugoslav Wars_
 
 ### [ In France, 16 people and companies go on trial for effective manslaughter for the Mont Blanc Tunnel fire in 1999. ](/news/2005/01/31/in-france-16-people-and-companies-go-on-trial-for-effective-manslaughter-for-the-mont-blanc-tunnel-fire-in-1999.md)
-_Context: 1999, France, Mont Blanc Tunnel, manslaughter_
+_Context: 1999, French, Mont Blanc Tunnel, manslaughter_
 
 ### [ Car bomb explodes in Dushanbe, the capital of Tajikistan. ](/news/2005/01/31/car-bomb-explodes-in-dushanbe-the-capital-of-tajikistan.md)
 _Context: Dushanbe, Tajikistan, car bomb_

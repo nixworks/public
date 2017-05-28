@@ -13,7 +13,7 @@ _Context: Afghanistan under the Taliban, Obaidullah Akhund, Pakistan_
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ### [ Ten French tourists are kidnapped in northern Ethiopia. ](/news/2007/03/1/ten-french-tourists-are-kidnapped-in-northern-ethiopia.md)
-_Context: Ethiopia, France, tourist_
+_Context: Ethiopia, French, tourist_
 
 ### [ The Spanish Government moves hungerstriking ETA prisoner Iaki de Juana Chaos from a cell in Madrid to one in the Basque Country. ](/news/2007/03/1/the-spanish-government-moves-hungerstriking-eta-prisoner-inaki-de-juana-chaos-from-a-cell-in-madrid-to-one-in-the-basque-country.md)
 _Context: Basque, ETA, Iaki de Juana Chaos, Madrid, hunger strike_
@@ -43,7 +43,7 @@ _Context: Chhattisgarh, India, landmine_
 _Context: 1975, Balibo, Balibo Five, East Timor, Indonesia, New South Wales, Yunus Yosfiah, arrest, coronial, warrant_
 
 ### [ The fourth International Polar Year, a $1.5 billion research program to study both the North Pole and South Pole is launched in Paris, France. ](/news/2007/03/1/the-fourth-international-polar-year-a-1-5-billion-research-program-to-study-both-the-north-pole-and-south-pole-is-launched-in-paris-fran.md)
-_Context: France, International Polar Year, North Pole, Paris, South Pole_
+_Context: French, International Polar Year, North Pole, Paris, South Pole_
 
 ### [ Greek archaeologists announce that a 2,200-year-old statue of the goddess Hera has been found during excavations in the ruins of ancient Dion, a city under Mount Olympus. ](/news/2007/03/1/greek-archaeologists-announce-that-a-2-200-year-old-statue-of-the-goddess-hera-has-been-found-during-excavations-in-the-ruins-of-ancient-di.md)
 _Context: Dion, Greece, Hera, Mount Olympus_

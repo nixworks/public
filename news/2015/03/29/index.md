@@ -16,7 +16,7 @@ _Context: Death of Lee Kuan Yew, Lee Kuan Yew, Prime Minister of Singapore_
 As results from Nigeria’s closely contested elections started coming in on Sunday, the main opposition called for a re-run in the key oil-producing Rivers state, where it alleged widespread rigging and intimidation.
 
 ### [Voters in France go to the polls for local government elections with initial polling suggesting favorable results for former President Nicolas Sarkozy's UMP. ](/news/2015/03/29/voters-in-france-go-to-the-polls-for-local-government-elections-with-initial-polling-suggesting-favorable-results-for-former-president-nicol.md)
-_Context: France, Nicolas Sarkozy, President of France, UMP, local government elections_
+_Context: French, Nicolas Sarkozy, President of France, UMP, local government elections_
 
 ### [Voters in Uzbekistan go to the polls for a presidential election with incumbent President Islam Karimov set to win against token opposition. ](/news/2015/03/29/voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-islam-karimov-set-to-win-against-token-opposition.md)
 More than 90 percent turnout reported in vote in which 26-year ruler Islam Karimov&#39;s victory is a foregone conclusion.

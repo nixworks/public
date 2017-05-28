@@ -19,7 +19,7 @@ _Context: International Criminal Tribunal for Rwanda, Rwanda genocide, mass medi
 _Context: 2004 Canadian Federal Election, Canadian Prime Minister, Canadian political history, December 12, Herb Dhaliwal, India, Natural Resources Minister, Paul Martin, forming a government, political organisation_
 
 ### [ In Abidjan, Cte d'Ivoire, police fire tear gas at hundreds of protesters who want France to withdraw its 3,800 peacekeepers so that the Christian and animist government of President Laurent Gbagbo in the south can march against Muslim rebel-held areas in the north. [http://news.bbc.co.uk/1/hi/world/africa/3257264.stm][http://www.iht.com/articles/119994.html]](/news/2003/12/3/in-abidjan-cote-d-ivoire-police-fire-tear-gas-at-hundreds-of-protesters-who-want-france-to-withdraw-its-3-800-peacekeepers-so-that-the-ch.md)
-_Context: Abidjan, Christian, Cte d'Ivoire, France, Laurent Gbagbo, Muslim, President, animist, police, tear gas_
+_Context: Abidjan, Christian, Cte d'Ivoire, French, Laurent Gbagbo, Muslim, President, animist, police, tear gas_
 
 ### [ The Parliament of New Zealand voted 68-52 to pass the Smokefree Environments Amendment Bill, introducing a progressive ban on smoking in all workplaces including offices, clubs, pubs, restaurants, airports, schools etc.](/news/2003/12/3/the-parliament-of-new-zealand-voted-68-52-to-pass-the-smokefree-environments-amendment-bill-introducing-a-progressive-ban-on-smoking-in-al.md)
 _Context: Parliament of New Zealand, Smokefree Environments Amendment Bill_

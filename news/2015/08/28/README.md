@@ -34,7 +34,7 @@ Colombia and Venezuela recall their ambassadors amid growing tension, a week aft
 Turkish police detain two British journalists from Vice News covering the unrest in the restive Kurdish dominated southeast.
 
 ### [Authorities arrest two French journalists for allegedly attempting to blackmail King Mohammed VI of Morocco. ](/news/2015/08/28/authorities-arrest-two-french-journalists-for-allegedly-attempting-to-blackmail-king-mohammed-vi-of-morocco.md)
-_Context: France, King Mohammed VI of Morocco, blackmail_
+_Context: French, King Mohammed VI of Morocco, blackmail_
 
 ### [President Truong Tan Sang of Vietnam signs two directives granting amnesty to 18,539 prisoners including murderers, rapists, human traffickers, and other criminals, but no political prisoners were released. ](/news/2015/08/28/president-traedegae-ng-taoy-n-sang-of-vietnam-signs-two-directives-granting-amnesty-to-18-539-prisoners-including-murderers-rapists-human-traff.md)
 _Context: Truong Tan Sang, Vietnam_

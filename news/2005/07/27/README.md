@@ -31,10 +31,10 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In France, court in Angers sentences 62 members of a child sex ring to up to 28 years in jail. Trial lasted 5 months ](/news/2005/07/27/in-france-court-in-angers-sentences-62-members-of-a-child-sex-ring-to-up-to-28-years-in-jail-trial-lasted-5-months.md)
-_Context: Angers, France_
+_Context: Angers, French_
 
 ### [ Other French court in Bonneville finds 13 people and companies guilty of manslaughter for the March 24 1999 Mont Blanc tunnel fire. Gerard Roncoli, the French head of security, received six months in jail and 24 months of suspended sentence  ](/news/2005/07/27/other-french-court-in-bonneville-finds-13-people-and-companies-guilty-of-manslaughter-for-the-march-24-1999-mont-blanc-tunnel-fire-gerard.md)
-_Context: 1999, Bonneville, France, March 24, Mont Blanc tunnel fire, manslaughter_
+_Context: 1999, Bonneville, French, March 24, Mont Blanc tunnel fire, manslaughter_
 
 ## [Previous Day...](/news/2005/07/26/index.md)
 

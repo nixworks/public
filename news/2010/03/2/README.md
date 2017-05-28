@@ -4,7 +4,7 @@
 _Context: Benjamin Netanyahu, Dubai, Israel, Mossad, Prime Minister of Israel, the assassination_
 
 ### [Agathe Habyarimana, the widow of former Rwandan President Juvnal Habyarimana, accused of helping plan the 1994 genocide, is arrested in France. ](/news/2010/03/2/agathe-habyarimana-the-widow-of-former-rwandan-president-juvenal-habyarimana-accused-of-helping-plan-the-1994-genocide-is-arrested-in-fra.md)
-_Context: Agathe Habyarimana, France, Juvnal Habyarimana, Rwanda, Rwandan Genocide_
+_Context: Agathe Habyarimana, French, Juvnal Habyarimana, Rwanda, Rwandan Genocide_
 
 ### [More than a dozen Chinese newspapers publish a rare joint editorial calling for the end of the hukou system of household registration. ](/news/2010/03/2/more-than-a-dozen-chinese-newspapers-publish-a-rare-joint-editorial-calling-for-the-end-of-the-hukou-system-of-household-registration.md)
 _Context: People's Republic of China, hukou system_

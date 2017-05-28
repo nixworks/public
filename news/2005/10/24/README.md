@@ -19,7 +19,7 @@ _Context: Gordon Strachan, World Cup_
 _Context: Google, Zhou Shaoning_
 
 ### [ 11 Nepali Sherpa and 7 French mountaineers are feared dead by an attempt to climb 6981 metre (20000 feet) Mount Kanguru in north-west Nepal. ](/news/2005/10/24/11-nepali-sherpa-and-7-french-mountaineers-are-feared-dead-by-an-attempt-to-climb-6981-metre-20000-feet-mount-kanguru-in-north-west-nepal.md)
-_Context: France, Mount Kanguru, Nepal, Sherpa, mountaineering_
+_Context: French, Mount Kanguru, Nepal, Sherpa, mountaineering_
 
 ### [ U.S. President George W. Bush nominates Ben Bernanke to succeed Alan Greenspan as chair of the Federal Reserve Board. ](/news/2005/10/24/u-s-president-george-w-bush-nominates-ben-bernanke-to-succeed-alan-greenspan-as-chair-of-the-federal-reserve-board.md)
 _Context: Alan Greenspan, Ben Bernanke, Federal Reserve Board, George W. Bush_

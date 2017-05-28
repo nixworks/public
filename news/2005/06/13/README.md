@@ -43,7 +43,7 @@ _Context: Mexico, Nuevo Laredo, United States, drug testing, drug trafficking, f
 _Context: Moroccan, Spain_
 
 ### [ In France, police arrest serial impostor Frederic Bourdin, who had taken a role of a schoolboy ](/news/2005/06/13/in-france-police-arrest-serial-impostor-frederic-bourdin-who-had-taken-a-role-of-a-schoolboy.md)
-_Context: France, Frederic Bourdin, impostor_
+_Context: Frederic Bourdin, French, impostor_
 
 ## [Previous Day...](/news/2005/06/12/index.md)
 

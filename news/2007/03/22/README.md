@@ -4,7 +4,7 @@
 _Context: Maputo, Mozambique, explodes_
 
 ### [ French space agency CNES releases its UFO files to the public via its website. ](/news/2007/03/22/french-space-agency-cnes-releases-its-ufo-files-to-the-public-via-its-website.md)
-_Context: CNES, France, space agency, unidentified flying object, website_
+_Context: CNES, French, space agency, unidentified flying object, website_
 
 ### [ Jamaican Police announce that Bob Woolmer, the coach of the Pakistan national cricket team, was murdered on Sunday, and proceed to question all members of the team. ](/news/2007/03/22/jamaican-police-announce-that-bob-woolmer-the-coach-of-the-pakistan-national-cricket-team-was-murdered-on-sunday-and-proceed-to-question.md)
 _Context: Bob Woolmer, Jamaica Constabulary Force, Pakistan national cricket team_

@@ -13,7 +13,7 @@ _Context: Eric Massa, New York, sexual harassment_
 _Context: Turkey, strong earthquake_
 
 ### [Female poet Simin Behbahani says the government of Iran has issued her with a "travel ban" after confiscating her passport at Tehran International Airport as she was about to travel to France. ](/news/2010/03/8/female-poet-simin-behbahani-says-the-government-of-iran-has-issued-her-with-a-travel-ban-after-confiscating-her-passport-at-tehran-interna.md)
-_Context: France, Iran, Simin Behbahani, Tehran International Airport_
+_Context: French, Iran, Simin Behbahani, Tehran International Airport_
 
 ### [Interpol issues "red notices" for 16 more individuals in connection with the assassination of Mahmoud al-Mabhouh, bringing to 27 the number of people wanted for the assassination. ](/news/2010/03/8/interpol-issues-red-notices-for-16-more-individuals-in-connection-with-the-assassination-of-mahmoud-al-mabhouh-bringing-to-27-the-number.md)
 International Criminal Police Organization announces 27 people now wanted for alleged involvement in Hamas figure&#39;s killing. Interpol secretary-general says Dubai police&#39;s thorough probe has established clear link between passport records, security footage, DNA 

@@ -13,7 +13,7 @@ _Context: Mehsud, North Waziristan, Pakistan, Tehreek-i-Taliban Pakistan, Urmuz_
 _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
 
 ### [World leaders travel to Normandy in France to commemorate the 70th anniversary of D-Day, the first day of the Western Allies Invasion of Normandy during World War II. ](/news/2014/06/6/world-leaders-travel-to-normandy-in-france-to-commemorate-the-70th-anniversary-of-d-day-the-first-day-of-the-western-allies-invasion-of-nor.md)
-_Context: D-Day, France, Invasion of Normandy, Normandy, Western Allies, World War II_
+_Context: D-Day, French, Invasion of Normandy, Normandy, Western Allies, World War II_
 
 ### [Nun turned singer Cristina Scuccia wins the seventh season of ''The Voice of Italy''. ](/news/2014/06/6/nun-turned-singer-cristina-scuccia-wins-the-seventh-season-of-the-voice-of-italy.md)
 _Context: Cristina Scuccia, Nun, The Voice of Italy_

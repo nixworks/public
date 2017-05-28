@@ -10,7 +10,7 @@ Philippe Varin, chief executive of the Anglo-Dutch steel company Corus, will suc
 _Context: Coalition for a European Montenegro, Montenegro, Parliament of Montenegro, wins_
 
 ### [ Mayotte's referendum on becoming an overseas department of France is approved. ](/news/2009/03/29/mayotte-s-referendum-on-becoming-an-overseas-department-of-france-is-approved.md)
-_Context: France, Mayotte, overseas department, referendum_
+_Context: French, Mayotte, overseas department, referendum_
 
 ### [ Jenson Button of Brawn GP wins Formula One's 2009 Australian Grand Prix. ](/news/2009/03/29/jenson-button-of-brawn-gp-wins-formula-one-s-2009-australian-grand-prix.md)
 _Context: 2009, Australian Grand Prix, Brawn GP, Formula One, Jenson Button_

@@ -22,7 +22,7 @@ _Context: War in Afghanistan_
 _Context: India, clean technology, energy efficiency_
 
 ### [French unions continue mass strikes for a second day with over one million people protesting on Tuesday against pension reform. ](/news/2010/10/13/french-unions-continue-mass-strikes-for-a-second-day-with-over-one-million-people-protesting-on-tuesday-against-pension-reform.md)
-_Context: France_
+_Context: French_
 
 ### [The Australian dollar reaches its highest level against the United States dollar in 27 years. ](/news/2010/10/13/the-australian-dollar-reaches-its-highest-level-against-the-united-states-dollar-in-27-years.md)
 _Context: A$, US$_

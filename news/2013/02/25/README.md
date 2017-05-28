@@ -55,7 +55,7 @@ _Context: Archbishop of St. Andrews and Edinburgh, Cardinal, Keith O'Brien, free
 Fragments of an ancient continent are buried beneath the floor of the Indian Ocean, a new study suggests.
 
 ### [Indian Space Research Organisation successfully launches Indo-French satellite SARAL using PSLV rocket from the spaceport in Sriharikota, Andhra Pradesh, India. ](/news/2013/02/25/indian-space-research-organisation-successfully-launches-indo-french-satellite-saral-using-pslv-rocket-from-the-spaceport-in-sriharikota-an.md)
-_Context: Andhra Pradesh, France, India, Indian Space Research Organisation, Polar Satellite Launch Vehicle, SARAL, Satish Dhawan Space Centre, Sriharikota, launches_
+_Context: Andhra Pradesh, French, India, Indian Space Research Organisation, Polar Satellite Launch Vehicle, SARAL, Satish Dhawan Space Centre, Sriharikota, launches_
 
 ### [British explorer Ranulph Fiennes abandons The Coldest Journey expedition, his attempt to cross Antarctica in the heart of the region's winter due to a case of frostbite. ](/news/2013/02/25/british-explorer-ranulph-fiennes-abandons-the-coldest-journey-expedition-his-attempt-to-cross-antarctica-in-the-heart-of-the-region-s-winte.md)
 Explorer Sir Ranulph Fiennes has to pull out of an expedition across Antarctica hailed as the last great polar challenge because of severe frostbite.

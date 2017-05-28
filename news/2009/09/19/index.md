@@ -40,7 +40,7 @@ _Context: German, Northern Sea Route_
 Bittersweet memories of other difficult times helped push an anthology of reissued World War II-era songs to the top of the British music charts.
 
 ### [ France's government holds emergency talks with farmers to avert protests over falling dairy prices. ](/news/2009/09/19/france-s-government-holds-emergency-talks-with-farmers-to-avert-protests-over-falling-dairy-prices.md)
-_Context: France_
+_Context: French_
 
 ### [ Pope Benedict XVI announces he is to hold a special meeting of Roman Catholic bishops to discuss the concerns and challenges of the Church in the Middle East in October 2010. ](/news/2009/09/19/pope-benedict-xvi-announces-he-is-to-hold-a-special-meeting-of-roman-catholic-bishops-to-discuss-the-concerns-and-challenges-of-the-church.md)
 Pope Benedict today announced he would hold a special meeting next year of Roman Catholic bishops to discuss the concerns and&hellip;

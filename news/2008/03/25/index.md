@@ -4,7 +4,7 @@
 _Context: International reaction to the 2008 Kosovo declaration of independence, Kosovo, Liechtenstein_
 
 ### [ French President Nicolas Sarkozy says he might boycott the opening ceremony of the Beijing Olympics if China continues its crackdown in Tibet. ](/news/2008/03/25/french-president-nicolas-sarkozy-says-he-might-boycott-the-opening-ceremony-of-the-beijing-olympics-if-china-continues-its-crackdown-in-tib.md)
-_Context: 2008 unrest in Tibet, Beijing Olympiad, France, Nicolas Sarkozy, People's Republic of China, President of France, Tibet, boycott_
+_Context: 2008 unrest in Tibet, Beijing Olympiad, French, Nicolas Sarkozy, People's Republic of China, President of France, Tibet, boycott_
 
 ### [ Adam Air Flight 574: A final report finds the 102 on board died when pilots preoccupied with an instrument failure did not realise the 737 was descending out of control. ](/news/2008/03/25/adam-air-flight-574-a-final-report-finds-the-102-on-board-died-when-pilots-preoccupied-with-an-instrument-failure-did-not-realise-the-737.md)
 _Context: 737, Adam Air, Flight 574_

@@ -1,7 +1,7 @@
 ## [2008-06-2](/news/2008/06/2/index.md)
 
 ### [ A SNCF train runs into a school bus at a level crossing at Mesinges, near the town of Allinges in the mountainous Haute Savoie area of France with at least six people killed. ](/news/2008/06/2/a-sncf-train-runs-into-a-school-bus-at-a-level-crossing-at-mesinges-near-the-town-of-allinges-in-the-mountainous-haute-savoie-area-of-fran.md)
-_Context: Allinges, France, France's national railway company, Haute Savoie, level crossing_
+_Context: Allinges, France's national railway company, French, Haute Savoie, level crossing_
 
 ### [ Astronomers using the Mount John University Observatory discover MOA-2007-BLG-192-L b, the smallest known extrasolar planet which does not orbit a pulsar. ](/news/2008/06/2/astronomers-using-the-mount-john-university-observatory-discover-moa-2007-blg-192-l-b-the-smallest-known-extrasolar-planet-which-does-not.md)
 _Context: MOA-2007-BLG-192-L b, Mount John University Observatory, extrasolar planet, orbit a pulsar_

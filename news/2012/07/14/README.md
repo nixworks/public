@@ -16,7 +16,7 @@ _Context: Dagestan, Insurgency in the North Caucasus, Kabardino-Balkaria, Russia
 Long-running West End show Chicago &amp;#8211; which has featured an array of star names &amp;#8211; is to close after nearly 15 years.
 
 ### [Italian and French rescue crews recover the bodies of two climbers on Mont Blanc in the Alps, two days following an avalanche that swept away nine climbers. ](/news/2012/07/14/italian-and-french-rescue-crews-recover-the-bodies-of-two-climbers-on-mont-blanc-in-the-alps-two-days-following-an-avalanche-that-swept-awa.md)
-_Context: France, Italian, Mont Blanc, the Alps_
+_Context: French, Italian, Mont Blanc, the Alps_
 
 ### [About a quarter of a million people are asked to leave the southern Japanese island of Kyushu after flooding caused by days of heavy rain leaves 20 people dead. ](/news/2012/07/14/about-a-quarter-of-a-million-people-are-asked-to-leave-the-southern-japanese-island-of-kyushu-after-flooding-caused-by-days-of-heavy-rain-le.md)
 Evacuation order issued for 240,000 people hit by heavy rains on main southern island of Kyushu.

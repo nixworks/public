@@ -16,7 +16,7 @@ China, the euro zone and Britain loosened monetary policy in the space of less t
 _Context: County Down, Newcastle, Newry, Northern Ireland_
 
 ### [France's Bureau of Investigation and Analysis issues its final report on the crash of Air France Flight 447, determining that a series of errors by pilots and a failure to react to technical problems led to the disaster that killed all 228 people on board. ](/news/2012/07/5/france-s-bureau-of-investigation-and-analysis-issues-its-final-report-on-the-crash-of-air-france-flight-447-determining-that-a-series-of-er.md)
-_Context: Bureau of Investigation and Analysis, France, crash of Air France Flight 447_
+_Context: Bureau of Investigation and Analysis, French, crash of Air France Flight 447_
 
 ### [South Korea announces plans to start "scientific" whaling  of minke whales at a meeting of the International Whaling Commission in Panama City. ](/news/2012/07/5/south-korea-announces-plans-to-start-scientific-whaling-of-minke-whales-at-a-meeting-of-the-international-whaling-commission-in-panama-ci.md)
 _Context: International Whaling Commission , Panama City, South Korea, hunt, minke whales_

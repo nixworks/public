@@ -34,7 +34,7 @@ Former Prime Minister Tony Blair criticises parties held to &quot;celebrate&quot
 Uhuru Kenyatta was sworn in as Kenyan president on Tuesday, presenting Western states with the challenge of how to deal with a leader indicted by the International Criminal Court (ICC).
 
 ### [The French Senate adopts article 1 of Bill 344, which legalizes same-sex marriage, in a 179-157 vote. ](/news/2013/04/9/the-french-senate-adopts-article-1-of-bill-344-which-legalizes-same-sex-marriage-in-a-179a157-vote.md)
-_Context: Bill 344, France, French Senate, same-sex marriages_
+_Context: Bill 344, French, French Senate, same-sex marriages_
 
 ### [Grenada Prime Minister Keith Mitchell announces that Dr. Cecile La Grenade will become the country's first female Governor General. She will succeed Sir Carlyle Glean. ](/news/2013/04/9/grenada-prime-minister-keith-mitchell-announces-that-dr-cecile-la-grenade-will-become-the-country-s-first-female-governor-general-she-will.md)
 _Context: Carlyle Glean, Governor General, Grenada, Keith Mitchell, Prime Minister_

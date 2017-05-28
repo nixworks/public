@@ -46,7 +46,7 @@ _Context: Lake Mweru, Zambia_
 _Context: 2011 Canterbury earthquake, Christchurch, New Zealand, dust storm_
 
 ### [Prosecutors in Paris, France, say that British fashion designer John Galliano will face criminal charges over alleged anti-Semitic remarks. ](/news/2011/03/2/prosecutors-in-paris-france-say-that-british-fashion-designer-john-galliano-will-face-criminal-charges-over-alleged-anti-semitic-remarks.md)
-_Context: France, John Galliano, Paris, anti-Semitism, fashion designer, prosecutor_
+_Context: French, John Galliano, Paris, anti-Semitism, fashion designer, prosecutor_
 
 ### [Frankfurt shootingsTwo United States Air Force personnel are killed and two others injured after a gunman opens fire at Frankfurt Airport in Germany - a suspect is arrested in connection with the incident. ](/news/2011/03/2/frankfurt-shootingsptwo-united-states-air-force-personnel-are-killed-and-two-others-injured-after-a-gunman-opens-fire-at-frankfurt-airport-i.md)
 _Context: Frankfurt Airport, German, United States Air Force_
@@ -76,7 +76,7 @@ _Context: Cyprus, Nicosia, Turkish, Turkish government_
 Senate Republicans stepped up their efforts Wednesday to compel the 14 Senate Democrats who fled Wisconsin two weeks ago to come home.
 
 ### [The President of the United States Barack Obama signs a bill preventing a shutdown of the United States government for another two weeks. ](/news/2011/03/2/the-president-of-the-united-states-barack-obama-signs-a-bill-preventing-a-shutdown-of-the-united-states-government-for-another-two-weeks.md)
-_Context: Barack Obama, President, United States government_
+_Context: Barack Obama, U.S. President, United States government_
 
 ### [The South Dakota Senate passes a bill requiring additional steps to provide informed consent before a woman can have an abortion. ](/news/2011/03/2/the-south-dakota-senate-passes-a-bill-requiring-additional-steps-to-provide-informed-consent-before-a-woman-can-have-an-abortion.md)
 After a long and emotional debate, the South Dakota Senate on Wednesday approved a bill requiring additional steps to provide informed consent before a woman can have an abortion.

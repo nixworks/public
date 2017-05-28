@@ -31,7 +31,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 The Moscow Times offers everything you need to know about Russia: breaking news, features, analysis, opinion, cultural events and tips.
 
 ### [ France extradites Holger Pfahls, former German deputy defence minister suspected of corruption. ](/news/2005/01/21/france-extradites-holger-pfahls-former-german-deputy-defence-minister-suspected-of-corruption.md)
-_Context: France, Holger Pfahls, anti-corruption, extradited_
+_Context: French, Holger Pfahls, anti-corruption, extradited_
 
 ## [Previous Day...](/news/2005/01/20/index.md)
 

@@ -37,7 +37,7 @@ _Context: Human rights, Kimberley Process, Zimbabwe_
 _Context: Constitutional Court, Russia, death penalty_
 
 ### [ Philippine President Gloria Macapagal-Arroyo steps down as head of the ruling Lakas-Kampi-CMD party and endorses her former defense minister Gilberto Teodoro for President. ](/news/2009/11/19/philippine-president-gloria-macapagal-arroyo-steps-down-as-head-of-the-ruling-lakas-kampi-cmd-party-and-endorses-her-former-defense-ministe.md)
-_Context: Gilberto Teodoro, Gloria Macapagal Arroyo, Lakas-Kampi-CMD, Philippine, President_
+_Context: Gilberto Teodoro, Gloria Macapagal Arroyo, Lakas-Kampi-CMD, Philippine, President of the Philippines_
 
 ### [ Cambodia takes control of a Thai-owned air traffic control firm in a deepening diplomatic row between the two countries. ](/news/2009/11/19/cambodia-takes-control-of-a-thai-owned-air-traffic-control-firm-in-a-deepening-diplomatic-row-between-the-two-countries.md)
 Thai nationals working for a Cambodian air traffic control firm were suspended after one of them was charged with spying, officials said.
