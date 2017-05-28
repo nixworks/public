@@ -1,6 +1,6 @@
 ### [2017-05-27](/news/2017/05/27/index.md)
 
-# The meeting of Group of 7 leaders in Taormina, Italy, concludes with a disagreement on whether to uphold the Paris Agreement; U.S. President Donald Trump is the only leader not to confirm commitment to the agreement, due to his climate change skepticism. 
+# The meeting of Group of 7 leaders in Taormina, Italy, concludes with a disagreement on whether to uphold the Paris Agreement; U.S. President Donald Trump is the only leader not to confirm commitment to the agreement, due to his climate change denial. 
 
 Germany called the climate change talks &quot;very unsatisfactory&quot;, describing them as &quot;six against one&quot;.
 

@@ -23,7 +23,7 @@ _Context: Allman Brothers, Gregg Allman, Savannah, Georgia_
 ### [British Airways cancels all flights from Heathrow Airport and Gatwick Airport amid a "major IT system failure", that is causing severe disruption to flight operations worldwide. ](/news/2017/05/27/british-airways-cancels-all-flights-from-heathrow-airport-and-gatwick-airport-amid-a-major-it-system-failure-that-is-causing-severe-disru.md)
 All British Airways flights leaving Heathrow and Gatwick are cancelled until 18:00 BST.
 
-### [The meeting of Group of 7 leaders in Taormina, Italy, concludes with a disagreement on whether to uphold the Paris Agreement; U.S. President Donald Trump is the only leader not to confirm commitment to the agreement, due to his climate change skepticism. ](/news/2017/05/27/the-meeting-of-group-of-7-leaders-in-taormina-italy-concludes-with-a-disagreement-on-whether-to-uphold-the-paris-agreement-u-s-president.md)
+### [The meeting of Group of 7 leaders in Taormina, Italy, concludes with a disagreement on whether to uphold the Paris Agreement; U.S. President Donald Trump is the only leader not to confirm commitment to the agreement, due to his climate change denial. ](/news/2017/05/27/the-meeting-of-group-of-7-leaders-in-taormina-italy-concludes-with-a-disagreement-on-whether-to-uphold-the-paris-agreement-u-s-president.md)
 Germany called the climate change talks &quot;very unsatisfactory&quot;, describing them as &quot;six against one&quot;.
 
 ### [Colombey authorities report the tomb of French national hero Charles de Gaulle has been vandalized. ](/news/2017/05/27/colombey-authorities-report-the-tomb-of-french-national-hero-charles-de-gaulle-has-been-vandalized.md)
