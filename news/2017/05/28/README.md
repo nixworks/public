@@ -3,6 +3,9 @@
 ### [The Philippine military says it has found the bodies of 16 people believed killed by  Islamist gang Abu Sayyaf. Authorities  say the death toll after six days of fighting is 95, including 19 civilians. ](/news/2017/05/28/the-philippine-military-says-it-has-found-the-bodies-of-16-people-believed-killed-by-islamist-gang-abu-sayyaf-authorities-say-the-death-t.md)
 _Context:  Islamist, Abu Sayyaf, Marawi crisis_
 
+### [''The Square'', a Swedish film directed by Ruben stlund, wins the ''Palme d'Or'', the top award at the Cannes Film Festival. ](/news/2017/05/28/the-square-a-swedish-film-directed-by-ruben-ostlund-wins-the-palme-d-or-the-top-award-at-the-cannes-film-festival.md)
+&quot;The Square&quot;, a Swedish movie about the curator of a museum filled with grotesquely pretentious conceptual art was awarded the top prize at the Cannes Film Festival on Sunday.
+
 ### [At least 126 people are dead, and 97 missing, after mudslides and floods caused by heavy rain in Sri Lanka. One hundred thousand people have been displaced. ](/news/2017/05/28/at-least-126-people-are-dead-and-97-missing-after-mudslides-and-floods-caused-by-heavy-rain-in-sri-lanka-one-hundred-thousand-people-have.md)
 _Context: 2017 Sri Lankan flood and landslide, Sri Lanka_
 
