@@ -24,5 +24,8 @@ _Context: Bucharest, Enes Kanter, Fethullah Gulen, Oklahoma City Thunder, Romani
 ### [A spokesman for the Chipotle Mexican Grill restaurant chain reveals that hackers stole customer payment data from most of their stores over a span of three weeks starting from the end of March. ](/news/2017/05/26/a-spokesman-for-the-chipotle-mexican-grill-restaurant-chain-reveals-that-hackers-stole-customer-payment-data-from-most-of-their-stores-over.md)
 _Context: Chipotle Mexican Grill_
 
+### [Construction begins on the European Extremely Large Telescope (ELT) in northern Chile. The ELT is expected to become operational in 2024. ](/news/2017/05/26/construction-begins-on-the-european-extremely-large-telescope-elt-in-northern-chile-the-elt-is-expected-to-become-operational-in-2024.md)
+_Context: Chile, European Extremely Large Telescope_
+
 ## [Previous Day...](/news/2017/05/25/index.md)
 
