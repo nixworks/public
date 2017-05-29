@@ -29,8 +29,11 @@ _Context: Abu Sayyaf, ISIL, Marawi crisis_
 ### [''The Square'', a Swedish film directed by Ruben stlund, wins the ''Palme d'Or'', the top award at the Cannes Film Festival. ](/news/2017/05/28/the-square-a-swedish-film-directed-by-ruben-ostlund-wins-the-palme-d-or-the-top-award-at-the-cannes-film-festival.md)
 &quot;The Square&quot;, a Swedish movie about the curator of a museum filled with grotesquely pretentious conceptual art was awarded the top prize at the Cannes Film Festival on Sunday.
 
-### [At least 126 people are dead, and 97 missing, after mudslides and floods caused by heavy rain in Sri Lanka. Over 100,000 people have been displaced. ](/news/2017/05/28/at-least-126-people-are-dead-and-97-missing-after-mudslides-and-floods-caused-by-heavy-rain-in-sri-lanka-over-100-000-people-have-been-di.md)
+### [At least 126 people are dead, and 97 missing, after mudslides and floods caused by heavy  rain in Sri Lanka. Over 100,000 people have been displaced. ](/news/2017/05/28/at-least-126-people-are-dead-and-97-missing-after-mudslides-and-floods-caused-by-heavy-rain-in-sri-lanka-over-100-000-people-have-been-d.md)
 _Context: 2017 Sri Lankan flood and landslide, Sri Lanka_
+
+### [Four people, including a pregnant woman, are killed and dozens injured when a rush of  fans try to enter an already-at-capacity Tiburcio Caras Andino Stadium before the Honduran Clausura final in Tegucigalpa, Honduras. Police are investigating possible overselling of tickets.  ](/news/2017/05/28/four-people-including-a-pregnant-woman-are-killed-and-dozens-injured-when-a-rush-of-fans-try-to-enter-an-already-at-capacity-tiburcio-car.md)
+A tragic stampede ahead of the Clausura final between Motagua and Progreso cost four fans their lives amid fears the capacity was exceeded
 
 ### [Eight people, including a Lincoln County Sheriff's Department deputy, are fatally shot overnight at  three locations in rural Mississippi. A suspect is in custody; he says he intended for it to be "suicide by cop." ](/news/2017/05/28/eight-people-including-a-lincoln-county-sheriff-s-department-deputy-are-fatally-shot-overnight-at-three-locations-in-rural-mississippi-a.md)
 Eight people, including a sheriff&#x27;s deputy, were killed in a shooting Saturday night in rural Mississippi, authorities said.
