@@ -40,7 +40,7 @@ _Context: Arunachal Pradesh, Chief Minister, Dorjee Khandu, India, helicopter_
 The Mississippi river spilled out across huge swaths of farmland in the American South and Midwest on Wednesday, creating massive flooding from Minnesota to Louisiana.
 
 ### [Two trains collide near US Highway 30 near the US city of Portland, Oregon, causing a fire and necessitating the evacuation of nearby residents. ](/news/2011/05/4/two-trains-collide-near-us-highway-30-near-the-us-city-of-portland-oregon-causing-a-fire-and-necessitating-the-evacuation-of-nearby-reside.md)
-_Context: Oregon, Portland, US Highway 30_
+_Context: Oregon, Portland, Oregon, US Highway 30_
 
 ### [A building explosion occurs in the US city of Warren, Michigan. ](/news/2011/05/4/a-building-explosion-occurs-in-the-us-city-of-warren-michigan.md)
 _Context: Michigan, Warren_

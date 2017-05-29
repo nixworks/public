@@ -22,7 +22,7 @@ Scotland Yard launches a formal criminal investigation into the Sir Jimmy Savile
 _Context: Sian O'Callaghan, Swindon, Taxicab_
 
 ### [The remains of a missing young Oregon woman, Whitney Heichel, 21, a Starbucks barista from the Portland, Oregon suburb of Gresham, Oregon, are found on Larch Mountain, Multnomah County, Oregon; after DNA testing and fingerprint analysis, Gresham Police arrested a neighbor who lived nearby in her Gresham apartment complex, Jonathan Holt, 24, on suspicion of aggravated first-degree murder. ](/news/2012/10/19/the-remains-of-a-missing-young-oregon-woman-whitney-heichel-21-a-starbucks-barista-from-the-portland-oregon-suburb-of-gresham-oregon-a.md)
-_Context: DNA testing, Gresham, Oregon, Jonathan Holt, Larch Mountain, Multnomah County, Oregon, Portland, Starbucks, Whitney Heichel, barista, fingerprint, first-degree murder_
+_Context: DNA testing, Gresham, Oregon, Jonathan Holt, Larch Mountain, Multnomah County, Oregon, Portland, Oregon, Starbucks, Whitney Heichel, barista, fingerprint, first-degree murder_
 
 ### [A woman is killed and 12 other people injured in a series of hit and run incidents in Cardiff, south Wales. A 31-year-old van driver is arrested by police. ](/news/2012/10/19/a-woman-is-killed-and-12-other-people-injured-in-a-series-of-hit-and-run-incidents-in-cardiff-south-wales-a-31-year-old-van-driver-is-arre.md)
 Community leaders and politicians speak of their shock and sadness after a woman died and 12 other people were injured in a series of hit-and-runs in Cardiff.

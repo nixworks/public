@@ -13,7 +13,7 @@ _Context: 2008 economic meltdown, Geir Haarde, Iceland, Icelandic Prime Minister
 _Context: Pfizer, US$, United States, Wyeth, pharmaceutical companies_
 
 ### [ A gunman kills two people and injures seven others in Portland, Oregon, before shooting and critically wounding himself. ](/news/2009/01/26/a-gunman-kills-two-people-and-injures-seven-others-in-portland-oregon-before-shooting-and-critically-wounding-himself.md)
-_Context: Oregon, Portland, kills two people and injures seven others_
+_Context: Oregon, Portland, Oregon, kills two people and injures seven others_
 
 ### [ Forty people are killed when a riverboat sinks in central Vietnam. ](/news/2009/01/26/forty-people-are-killed-when-a-riverboat-sinks-in-central-vietnam.md)
 _Context: Vietnam, riverboat_

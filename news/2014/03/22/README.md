@@ -7,7 +7,7 @@ _Context: Benghazi, Libyan National Army, Post-civil war violence in Libya_
 Russian troops storm a Ukrainian airbase in Crimea throwing stun grenades and firing guns in the air, as Moscow tightens its grip on the region.
 
 ### [Top leaders and couple of the CPP-NPA-NDF, Benito and Wilma Tiamzon was arrested by joint military and police forces in Aloguinsan, Cebu. Wilma Tiamzon is the secretary general of militant group while Benito is the chairman. ](/news/2014/03/22/top-leaders-and-couple-of-the-cpp-npa-ndf-benito-and-wilma-tiamzon-was-arrested-by-joint-military-and-police-forces-in-aloguinsan-cebu-wi.md)
-_Context: Aloguinsan, Cebu, Communist Party of the Philippines, Communist insurgency in the Philippines, NDF, New People's Army_
+_Context: Aloguinsan, Cebu, Communist Party, Communist insurgency in the Philippines, NDF, New People's Army_
 
 ### [A member of the governing council of the European Central Bank says that the ECB may yet cut interest rates still further, into negative territory. ](/news/2014/03/22/a-member-of-the-governing-council-of-the-european-central-bank-says-that-the-ecb-may-yet-cut-interest-rates-still-further-into-negative-ter.md)
 The European Central Bank can still cut interest rates further from the current record-low rates, including taking its deposit rate to negative territory, Governing Council member Erkki Liikanen said on Saturday.

@@ -10,7 +10,7 @@ _Context: Iraq, Saudi Arabia, government, separation barrier_
 _Context: Bhutan, Jigme Singye Wangchuck_
 
 ### [ A severe windstorm hits the Pacific Northwest overnight, with wind gusts reported as high as 97 miles per hour. Three people were killed in Washington, and at the peak of the storm about one million homes in western Washington and over 400,000 in the Greater Portland area were without electricity. In British Columbia, Stanley Park sustains more than $9 million damage. ](/news/2006/12/15/a-severe-windstorm-hits-the-pacific-northwest-overnight-with-wind-gusts-reported-as-high-as-97-miles-per-hour-three-people-were-killed-in.md)
-_Context: Pacific Northwest, Portland, Stanley Park, Washington, windstorm_
+_Context: Pacific Northwest, Portland, Oregon, Stanley Park, Washington, windstorm_
 
 ### [ United States district court judge Jeremy Fogel imposes a moratorium on lethal injections in California stating that they are unconstitutional. In an unrelated incident, the Governor of Florida Jeb Bush has suspended lethal injections in Florida pending an investigation into the system after the recent execution of ngel Nieves Daz took 34 minutes after it was botched. ](/news/2006/12/15/united-states-district-court-judge-jeremy-fogel-imposes-a-moratorium-on-lethal-injections-in-california-stating-that-they-are-unconstitutio.md)
 _Context: California, Florida, Governor of Florida, Jeb Bush, Jeremy Fogel, U.S. federal court, lethal injection, moratorium, ngel Nieves Daz_

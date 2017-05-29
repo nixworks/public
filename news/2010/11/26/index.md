@@ -19,7 +19,7 @@ There has been a third explosion at the Pike River coal mine in New Zealand, whe
 North Korea warns that US-South Korean plans for military maneuvers put peninsula on brink of war; S.Korean official says 20 blasts heard.
 
 ### [China warns the U.S. against performing any military acts within their exclusive economic zone, ahead of joint South Korean-U.S. military exercises aimed at  threatening North Korea. ](/news/2010/11/26/china-warns-the-u-s-against-performing-any-military-acts-within-their-exclusive-economic-zone-ahead-of-joint-south-korean-u-s-military-ex.md)
-_Context:  threatening, North Korea, People's Republic of China, South Korean, U.S., economic exclusion zone_
+_Context:  threatening, North Korea, People's Republic of China, South Korean, U.S., exclusive economic zone_
 
 ### [Lebanon's Prime Minister Saad Hariri visits Iran, seeking help to prevent violence if a U.N.-backed tribunal indicts Hezbollah members for killing former prime minister, Rafiq Hariri, and 21 others in a car bombing ](/news/2010/11/26/lebanon-s-prime-minister-saad-hariri-visits-iran-seeking-help-to-prevent-violence-if-a-u-n-backed-tribunal-indicts-hezbollah-members-for-k.md)
 _Context: Hezbollah, Lebanese Prime Minister, Rafiq Hariri, Saad Hariri, U.N., killing former prime minister_
