@@ -3,11 +3,17 @@
 ### [Philippine forces continue to battle Maute militants for the city of Marawi. ](/news/2017/05/29/philippine-forces-continue-to-battle-maute-militants-for-the-city-of-marawi.md)
 _Context: Marawi, Marawi crisis, Maute, Philippine_
 
-### [Damascus's governor says the last group of rebels and civilians have left  the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md)
+### [Damascus's governor says the last group of rebels and civilians have left the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md)
 _Context: Barzeh, Damascus, Syrian Civil War_
 
 ### [Japan Tobacco announces plans to quadruple its output of smokeless tobacco by the end of next year. ](/news/2017/05/29/japan-tobacco-announces-plans-to-quadruple-its-output-of-smokeless-tobacco-by-the-end-of-next-year.md)
 Japan Tobacco Inc (2914.T) plans to spend $500 million to quadruple its smokeless tobacco production capacity by the end of 2018, as it races against bigger rival Philip Morris (PM.N) for a larger share of the Japanese vaping products market.
+
+### [A female zookeeper is killed at Hamerton Zoo Park in Cambridgeshire, England, following an incident in the zoo's Tiger enclosure. ](/news/2017/05/29/a-female-zookeeper-is-killed-at-hamerton-zoo-park-in-cambridgeshire-england-following-an-incident-in-the-zoo-s-tiger-enclosure.md)
+_Context: Cambridgeshire, Hamerton Zoo Park, Tiger, zookeeper_
+
+### [At least 11 people are killed and 69 are injured as a severe thunderstorm hits Moscow, Russia. ](/news/2017/05/29/at-least-11-people-are-killed-and-69-are-injured-as-a-severe-thunderstorm-hits-moscow-russia.md)
+The storm could be the deadliest to hit the Russian capital in more than 100 years.
 
 ### [North Korea launches a Short-Range Ballistic missile near Wonsan towards the Sea of Japan, according to South Korea. The missile reportedly lands in Japan's exclusive economic zone (EEZ) after traveling 450 km. ](/news/2017/05/29/north-korea-launches-a-short-range-ballistic-missile-near-wansan-towards-the-sea-of-japan-according-to-south-korea-the-missile-reportedly.md)
 North Korea fired off an apparent short-range missile Monday morning that was believed to have landed in Japan&#039;s exclusive economic zone &#8212; the latest
@@ -40,6 +46,9 @@ A tragic stampede ahead of the Clausura final between Motagua and Progreso cost 
 
 ### [Eight people, including a Lincoln County Sheriff's Department deputy, are fatally shot overnight at  three locations in rural Mississippi. A suspect is in custody; he says he intended for it to be "suicide by cop." ](/news/2017/05/28/eight-people-including-a-lincoln-county-sheriff-s-department-deputy-are-fatally-shot-overnight-at-three-locations-in-rural-mississippi-a.md)
 Eight people, including a sheriff&#x27;s deputy, were killed in a shooting Saturday night in rural Mississippi, authorities said.
+
+### [In a speech in Munich, Angela Merkel says that Europe must not rely on its former allies. ](/news/2017/05/28/in-a-speech-in-munich-angela-merkel-says-that-europe-must-not-rely-on-its-former-allies.md)
+There’s a statesmanship – a vision, a morality and a core – to her that was thrown into sharp relief by Donald Trump’s shambling visit to Europe
 
 ### [The Russian Irkut MC-21 airliner makes its maiden flight. ](/news/2017/05/28/the-russian-irkut-mc-21-airliner-makes-its-maiden-flight.md)
 The plane was successful, said a source at the Irkutsk aviation plant

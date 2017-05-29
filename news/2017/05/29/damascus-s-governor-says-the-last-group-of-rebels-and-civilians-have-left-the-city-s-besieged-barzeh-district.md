@@ -1,6 +1,6 @@
 ### [2017-05-29](/news/2017/05/29/index.md)
 
-# Damascus's governor says the last group of rebels and civilians have left  the city's besieged Barzeh district. 
+# Damascus's governor says the last group of rebels and civilians have left the city's besieged Barzeh district. 
 
 
 

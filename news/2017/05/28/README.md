@@ -18,6 +18,9 @@ A tragic stampede ahead of the Clausura final between Motagua and Progreso cost 
 ### [Eight people, including a Lincoln County Sheriff's Department deputy, are fatally shot overnight at  three locations in rural Mississippi. A suspect is in custody; he says he intended for it to be "suicide by cop." ](/news/2017/05/28/eight-people-including-a-lincoln-county-sheriff-s-department-deputy-are-fatally-shot-overnight-at-three-locations-in-rural-mississippi-a.md)
 Eight people, including a sheriff&#x27;s deputy, were killed in a shooting Saturday night in rural Mississippi, authorities said.
 
+### [In a speech in Munich, Angela Merkel says that Europe must not rely on its former allies. ](/news/2017/05/28/in-a-speech-in-munich-angela-merkel-says-that-europe-must-not-rely-on-its-former-allies.md)
+There’s a statesmanship – a vision, a morality and a core – to her that was thrown into sharp relief by Donald Trump’s shambling visit to Europe
+
 ### [The Russian Irkut MC-21 airliner makes its maiden flight. ](/news/2017/05/28/the-russian-irkut-mc-21-airliner-makes-its-maiden-flight.md)
 The plane was successful, said a source at the Irkutsk aviation plant
 
