@@ -1,6 +1,6 @@
 ### [2017-05-28](/news/2017/05/28/index.md)
 
-# Eight people, including a Lincoln County Sheriff's Department deputy, are fatally shot overnight at  three locations in rural Mississippi. A suspect is in custody; he says he intended for this to be, "suicide by cop." 
+# Eight people, including a Lincoln County Sheriff's Department deputy, are fatally shot overnight at  three locations in rural Mississippi. A suspect is in custody; he says he intended for it to be "suicide by cop." 
 
 Eight people, including a sheriff&#x27;s deputy, were killed in a shooting Saturday night in rural Mississippi, authorities said.
 
