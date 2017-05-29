@@ -3,6 +3,9 @@
 ### [Philippine forces continue to battle Maute militants for the city of Marawi. ](/news/2017/05/29/philippine-forces-continue-to-battle-maute-militants-for-the-city-of-marawi.md)
 _Context: Marawi, Marawi crisis, Maute, Philippine_
 
+### [Damascus's governor says the last group of rebels and civilians have left  the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md)
+_Context: Barzeh, Damascus, Syrian Civil War_
+
 ### [Japan Tobacco announces plans to quadruple its output of smokeless tobacco by the end of next year. ](/news/2017/05/29/japan-tobacco-announces-plans-to-quadruple-its-output-of-smokeless-tobacco-by-the-end-of-next-year.md)
 Japan Tobacco Inc (2914.T) plans to spend $500 million to quadruple its smokeless tobacco production capacity by the end of 2018, as it races against bigger rival Philip Morris (PM.N) for a larger share of the Japanese vaping products market.
 
