@@ -6,7 +6,7 @@ At least 18 people, mostly civilians, were killed when a suicide car bomber targ
 ### [Ansar al-Sharia announces it is formally dissolving amid heavy losses that have wiped out its leadership and decimated its fighters. The group was responsible for the 2012 Benghazi attack. ](/news/2017/05/27/ansar-al-sharia-announces-it-is-formally-dissolving-amid-heavy-losses-that-have-wiped-out-its-leadership-and-decimated-its-fighters-the-gro.md)
 Libyan Islamist group Ansar al-Sharia, a group linked to Al-Qaeda, is formally dissolving itself, it said in a statement on Saturday.
 
-### [Gregg Allman, cofounder, vocalist and keyboard player of the Allman Brothers, dies in Savannah, Georgia. ](/news/2017/05/27/gregg-allman-cofounder-vocalist-and-keyboard-player-of-the-allman-brothers-dies-in-savannah-georgia.md)
+### [Gregg Allman, co-founder, vocalist and keyboard player of the Allman Brothers, dies in Savannah, Georgia. ](/news/2017/05/27/gregg-allman-co-founder-vocalist-and-keyboard-player-of-the-allman-brothers-dies-in-savannah-georgia.md)
 _Context: Allman Brothers, Gregg Allman, Savannah, Georgia_
 
 ### [British Airways cancels all flights from Heathrow Airport and Gatwick Airport amid a "major IT system failure", that is causing severe disruption to flight operations worldwide. ](/news/2017/05/27/british-airways-cancels-all-flights-from-heathrow-airport-and-gatwick-airport-amid-a-major-it-system-failure-that-is-causing-severe-disru.md)
