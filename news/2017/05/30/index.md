@@ -15,5 +15,8 @@ _Context: Manuel Noriega, Panama_
 ### [Michael Dubke resigns as President Trump's White House Communications Director after three months on the job. ](/news/2017/05/30/michael-dubke-resigns-as-president-trump-s-white-house-communications-director-after-three-months-on-the-job.md)
 Mike Dubke resigns, and press secretary Sean Spicer will reportedly give fewer briefings.
 
+### [  The Manchester Victoria train station, adjoined to the Manchester Arena, re-opens more than a week after the terrorist bombing that killed 22.](/news/2017/05/30/the-manchester-victoria-train-station-adjoined-to-the-manchester-arena-re-opens-more-than-a-week-after-the-terrorist-bombing-that-killed.md)
+_Context: 2017 Manchester Arena bombing, Manchester Arena, Manchester Victoria, train station_
+
 ## [Previous Day...](/news/2017/05/29/index.md)
 

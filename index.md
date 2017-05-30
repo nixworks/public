@@ -15,6 +15,9 @@ _Context: Manuel Noriega, Panama_
 ### [Michael Dubke resigns as President Trump's White House Communications Director after three months on the job. ](/news/2017/05/30/michael-dubke-resigns-as-president-trump-s-white-house-communications-director-after-three-months-on-the-job.md)
 Mike Dubke resigns, and press secretary Sean Spicer will reportedly give fewer briefings.
 
+### [  The Manchester Victoria train station, adjoined to the Manchester Arena, re-opens more than a week after the terrorist bombing that killed 22.](/news/2017/05/30/the-manchester-victoria-train-station-adjoined-to-the-manchester-arena-re-opens-more-than-a-week-after-the-terrorist-bombing-that-killed.md)
+_Context: 2017 Manchester Arena bombing, Manchester Arena, Manchester Victoria, train station_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -47,7 +50,7 @@ The storm could be the deadliest to hit the Russian capital in more than 100 yea
 ### [North Korea launches a Short-Range Ballistic missile near Wonsan towards the Sea of Japan, according to South Korea. The missile reportedly lands in Japan's exclusive economic zone (EEZ) after traveling 450 km. ](/news/2017/05/29/north-korea-launches-a-short-range-ballistic-missile-near-wansan-towards-the-sea-of-japan-according-to-south-korea-the-missile-reportedly.md)
 North Korea fired off an apparent short-range missile Monday morning that was believed to have landed in Japan&#039;s exclusive economic zone &#8212; the latest
 
-### [Tiger Woods, an American professional golfer, is arrested for driving under the influence. ](/news/2017/05/29/tiger-woods-an-american-professional-golfer-is-arrested-for-driving-under-the-influence.md)
+### [Tiger Woods, an American professional golfer, is arrested for driving under the influence due to mixing medications, no alcohol was detected in his system. ](/news/2017/05/29/tiger-woods-an-american-professional-golfer-is-arrested-for-driving-under-the-influence-due-to-mixing-medications-no-alcohol-was-detected.md)
 A look at Tiger Woods&#x27; troubles since the Thanksgiving incident of 2009. 
 
 ### [Labour leader Jeremy Corbyn debates with Conservative leader Theresa May. ](/news/2017/05/29/labour-leader-jeremy-corbyn-debates-with-conservative-leader-theresa-may.md)
