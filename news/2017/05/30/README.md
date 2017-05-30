@@ -6,13 +6,16 @@
 ### [North Korea warns that it plans to send the United States a "bigger gift package." ](/news/2017/05/30/north-korea-warns-that-it-plans-to-send-the-united-states-a-bigger-gift-package.md)
 North Korean leader Kim Jong Un supervised the test of a new ballistic missile controlled by a precision guidance system, KCNA news reported. 
 
+### [The Dutch Senate approves the European Union's Association Agreement with Ukraine, setting the stage for it to be ratified as early as July, pending royal promulgation. The process was previously delayed by a non-binding referendum where a majority of Dutch voters rejected ratification of the agreement. ](/news/2017/05/30/the-dutch-senate-approves-the-european-union-s-association-agreement-with-ukraine-setting-the-stage-for-it-to-be-ratified-as-early-as-july.md)
+_Context: Dutch Senate, European Union's Association Agreement with Ukraine, Ukraine-European Union relations, non-binding referendum_
+
 ### [More than 300,000 people are evacuated in Bangladesh as Cyclone Mora approaches. ](/news/2017/05/30/more-than-300-000-people-are-evacuated-in-bangladesh-as-cyclone-mora-approaches.md)
 _Context: 2017 North Indian Ocean cyclone season, Bangladesh_
 
 ### [Former Panama leader Manuel Noriega dies. ](/news/2017/05/30/former-panama-leader-manuel-noriega-dies.md)
 _Context: Manuel Noriega, Panama_
 
-### [Michael Dubke resigns as President Trump's White House Communications Director after three months in office. ](/news/2017/05/30/michael-dubke-resigns-as-president-trump-s-white-house-communications-director-after-three-months-in-office.md)
+### [Michael Dubke resigns as President Trump's White House Communications Director after three months on the job. ](/news/2017/05/30/michael-dubke-resigns-as-president-trump-s-white-house-communications-director-after-three-months-on-the-job.md)
 Mike Dubke resigns, and press secretary Sean Spicer will reportedly give fewer briefings.
 
 ## [Previous Day...](/news/2017/05/29/index.md)
