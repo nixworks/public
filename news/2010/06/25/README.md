@@ -4,7 +4,7 @@
 At least 24 people were killed and 50 injured when an overcrowded bus collided with a truck in eastern India.
 
 ### [13 people have died of dengue fever in Honduras in 2010 as 10,200 others were hit by the disease, the Honduran Health Ministry said. ](/news/2010/06/25/13-people-have-died-of-dengue-fever-in-honduras-in-2010-as-10-200-others-were-hit-by-the-disease-the-honduran-health-ministry-said.md)
-_Context: Honduran, Honduran Health Ministry, dengue_
+_Context: Honduran Health Ministry, Honduras, dengue_
 
 ### [Millions of protesters take to the streets in Rome, Naples, Milan and other Italian cities to protest their government's austerity measures which cut funds and affects public sector salaries and to test Silvio Berlusconi. ](/news/2010/06/25/millions-of-protesters-take-to-the-streets-in-rome-naples-milan-and-other-italian-cities-to-protest-their-government-s-austerity-measures.md)
 Union stages action in latest string of protests across Europe over budget cuts.

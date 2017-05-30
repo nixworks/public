@@ -31,7 +31,7 @@ _Context: Bulandshahr, Uttar Pradesh_
 _Context: Indonesia, West Papua, flood_
 
 ### [2010 Atlantic hurricane season: Tropical Storm Paula forms near Honduras and is expected to become a hurricane by Tuesday. ](/news/2010/10/11/2010-atlantic-hurricane-season-tropical-storm-paula-forms-near-honduras-and-is-expected-to-become-a-hurricane-by-tuesday.md)
-_Context: 2010 Atlantic hurricane season, Honduran, Tropical Storm Paula (2010), hurricane_
+_Context: 2010 Atlantic hurricane season, Honduras, Tropical Storm Paula (2010), hurricane_
 
 ### [Israeli Prime Minister Benjamin Netanyahu says that he will extend the settlement freeze if the Palestinian leadership recognizes Israel as a Jewish state. The Palestinians quickly reject the offer. ](/news/2010/10/11/israeli-prime-minister-benjamin-netanyahu-says-that-he-will-extend-the-settlement-freeze-if-the-palestinian-leadership-recognizes-israel-as.md)
 _Context: Benjamin Netanyahu, Israel, Palestinian, Prime Minister of Israel_

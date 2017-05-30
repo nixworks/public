@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Two men are stabbed to death in a train in Portland, Oregon, after they attempt to intervene while a man shouts racial slurs at two Muslim teenage girls. ](/news/2017/05/26/two-men-are-stabbed-to-death-in-a-train-in-portland-oregon-after-they-attempt-to-intervene-while-a-man-shouts-racial-slurs-at-two-muslim-t.md) _Context: stabbed_
+1. [Two men are stabbed to death in a train in Portland, Oregon, after they attempt to intervene while a man shouts racial slurs at two teenage girls, one of them wearing a hijab. ](/news/2017/05/26/two-men-are-stabbed-to-death-in-a-train-in-portland-oregon-after-they-attempt-to-intervene-while-a-man-shouts-racial-slurs-at-two-teenage.md) _Context: stabbed_
 2. [Voters in Guam head to the polls to vote in the Democratic presidential caucus. ](/news/2016/05/7/voters-in-guam-head-to-the-polls-to-vote-in-the-democratic-presidential-caucus.md) _Context: Guam_
 3. [The 12th Festival of Pacific Arts opens at Paseo Stadium in Guam. ](/news/2016/05/22/the-12th-festival-of-pacific-arts-opens-at-paseo-stadium-in-guam.md) _Context: Guam_
 4. [A United States Air Force B-52 Stratofortress crashes at Andersen Air Force Base on Guam. All seven aircrew members escaped. No injuries have been reported. ](/news/2016/05/18/a-united-states-air-force-b-52-stratofortress-crashes-at-andersen-air-force-base-on-guam-all-seven-aircrew-members-escaped-no-injuries-hav.md) _Context: Guam_

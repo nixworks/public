@@ -73,7 +73,7 @@ Resignations an attempt to regain credibility in the cabinet but it is unclear i
 Noel Dempsey, Dermot Ahern and Tony Killeen have joined Mary Harney in resigning from Cabinet.
 
 ### [Britain's Shadow Chancellor Alan Johnson resigns from the Labour Party's frontbench team for "personal" reasons. ](/news/2011/01/20/britain-s-shadow-chancellor-alan-johnson-resigns-from-the-labour-party-s-frontbench-team-for-personal-reasons.md)
-_Context: Alan Johnson, Chancellor of the Exchequer, Labour Party, Shadow_
+_Context: Alan Johnson, Chancellor of the Exchequer, Labour, Shadow_
 
 ### [2010 tied for the warmest year ever recorded, and the last decade was the warmest ever recorded, since records began in the 1800s.](/news/2011/01/20/2010-tied-for-the-warmest-year-ever-recorded-and-the-last-decade-was-the-warmest-ever-recorded-since-records-began-in-the-1800s.md)
 Last year tied for the hottest year on record, confirming a long-term warming trend which will continue unless greenhouse gas emissions are cut, the World Meteorological Organization (WMO) said on Thursday.

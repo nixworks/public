@@ -28,7 +28,7 @@ _Context: Anna Politkovskaya, Russia, Supreme Court, murder_
 _Context: Burma, Kang Nam 1, North Korea, United Nations, United States_
 
 ### [ Honduran President Manuel Zelaya fires his armed forces chief after he refuses to give logistical support for a referendum on constitutional change. The Supreme Court then orders that he be returned to his job immediately. ](/news/2009/06/25/honduran-president-manuel-zelaya-fires-his-armed-forces-chief-after-he-refuses-to-give-logistical-support-for-a-referendum-on-constitutiona.md)
-_Context: Honduran, Manuel Zelaya, President, Supreme Court, constitutional referendum_
+_Context: Honduras, Manuel Zelaya, President, Supreme Court, constitutional referendum_
 
 ### [ Qantas Airways cancelled half of a 30-plan order for  787 Dreamliners from Boeing Co., a cancellation that may amount to a $3.1 billion hit for Boeing. ](/news/2009/06/25/qantas-airways-cancelled-half-of-a-30-plan-order-for-787-dreamliners-from-boeing-co-a-cancellation-that-may-amount-to-a-3-1-billion-hit.md)
 _Context: Boeing, Boeing 787, Qantas Airways_

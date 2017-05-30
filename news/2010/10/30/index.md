@@ -4,7 +4,7 @@
 _Context: Pakistan, Rawalpindi_
 
 ### [Gunman opened fire on a group of people on a neighborhood sports field in northern Honduras and killed at least 14. ](/news/2010/10/30/gunman-opened-fire-on-a-group-of-people-on-a-neighborhood-sports-field-in-northern-honduras-and-killed-at-least-14.md)
-_Context: Honduran_
+_Context: Honduras_
 
 ### [NATO forces repel a Taliban attack on an outpost in Afghanistan's Paktika Province, killing at least 80 insurgents. ](/news/2010/10/30/nato-forces-repel-a-taliban-attack-on-an-outpost-in-afghanistan-s-paktika-province-killing-at-least-80-insurgents.md)
 At least 19 Taliban insurgents are killed after they launched an attack on a combat outpost in south-eastern Afghanistan, Nato forces say.
@@ -74,13 +74,13 @@ _Context: Mustafa Kemal Ataturk, Turkey, YouTube_
 Two people remain in detention in connection with alleged attack plot in Gothenburg.
 
 ### [Fourteen people are killed by gunmen at a soccer field in San Pedro Sula, Honduras. ](/news/2010/10/30/fourteen-people-are-killed-by-gunmen-at-a-soccer-field-in-san-pedro-sula-honduras.md)
-_Context: Honduran, San Pedro Sula, soccer_
+_Context: Honduras, San Pedro Sula, soccer_
 
 ### [An estimated 200,000 people attend the Rally to Restore Sanity and/or Fear by political satirists Jon Stewart and Stephen Colbert on the National Mall in Washington, D.C. ](/news/2010/10/30/an-estimated-200-000-people-attend-the-rally-to-restore-sanity-and-or-fear-by-political-satirists-jon-stewart-and-stephen-colbert-on-the-nat.md)
 Gathering in Washington called attempt to inject humour and tone down partisan division.
 
 ### [Harriet Harman, the deputy leader of the British Labour Party, issues an apology for branding Danny Alexander, a member of the British Government, a "ginger rodent". Mr Alexander tweets in response: "I am proud to be ginger and rodents do valuable work cleaning up mess others leave behind". ](/news/2010/10/30/harriet-harman-the-deputy-leader-of-the-british-labour-party-issues-an-apology-for-branding-danny-alexander-a-member-of-the-british-gover.md)
-_Context: Danny Alexander, Harriet Harman, Labour Party, Twitter, red hair_
+_Context: Danny Alexander, Harriet Harman, Labour, Twitter, red hair_
 
 ### [In an interview with ''Al-Hayat'' later quoted by Israeli television, senior Hamas official Mahmoud al-Zahar calls a "rebel" against Hamas policy anyone who fires rockets from Gaza into Israel. ](/news/2010/10/30/in-an-interview-with-al-hayat-later-quoted-by-israeli-television-senior-hamas-official-mahmoud-al-zahar-calls-a-rebel-against-hamas-p.md)
 Top Hamas official Mahmoud Zahar says Islamist group agreed to truce with Israel following Gaza war and violations of the truce could result in anarchy.

@@ -40,7 +40,7 @@ Iranian media say the Islamic Republic has tested short-range missiles and plans
 Silvio Berlusconi, Italy&#039;s gaffe-prone prime minister, has again referred to US President Barack Obama as &#034;suntanned&#034;, days after being snubbed by Michelle Obama at the G20 meeting in Pittsburgh.
 
 ### [ Honduras issues a 10-day deadline to Brazil asking it to decide the status of deposed President Manuel Zelaya, who is residing in its embassy in the capital Tegucigalpa. ](/news/2009/09/27/honduras-issues-a-10-day-deadline-to-brazil-asking-it-to-decide-the-status-of-deposed-president-manuel-zelaya-who-is-residing-in-its-embas.md)
-_Context: Brazil, Honduran, Manuel Zelaya, President, Tegucigalpa_
+_Context: Brazil, Honduras, Manuel Zelaya, President, Tegucigalpa_
 
 ### [ ''Discworld'' author Terry Pratchett, who has Alzheimer's disease, criticises new guidelines on assisted suicide. ](/news/2009/09/27/discworld-author-terry-pratchett-who-has-alzheimer-s-disease-criticises-new-guidelines-on-assisted-suicide.md)
 _Context: Alzheimer's disease, Discworld, Terry Pratchett, assisted suicide_

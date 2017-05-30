@@ -13,7 +13,7 @@ A strong earthquake shook Japan on Saturday near the southwestern city of Kobe, 
 More than 100 airline passengers escaped with their lives on Saturday when a plane crashed into the sea as it tried to land on the Far Eastern holiday island of Bali.
 
 ### [The main airport in Tegucigalpa, Honduras, is shutdown due to smoke from a forest fire. ](/news/2013/04/13/the-main-airport-in-tegucigalpa-honduras-is-shutdown-due-to-smoke-from-a-forest-fire.md)
-_Context: Honduran, Tegucigalpa, forest fire, main airport, smoke_
+_Context: Honduras, Tegucigalpa, forest fire, main airport, smoke_
 
 ### [A seven-year-old girl is confirmed as the first person in Beijing, China, to catch the Influenza A virus subtype H7N9 bird flu. ](/news/2013/04/13/a-seven-year-old-girl-is-confirmed-as-the-first-person-in-beijing-china-to-catch-the-influenza-a-virus-subtype-h7n9-bird-flu.md)
 _Context: Beijing, H7N9 avian flu virus, People's Republic of China, bird flu, girl_

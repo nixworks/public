@@ -16,7 +16,7 @@ _Context: New York City, Upper East Side_
 _Context: Croatian Army, Mirko Norac, Operation Medak Pocket, Rahim Ademi, government_
 
 ### [ Grupo TACA Flight 390, an Airbus A320 flying from San Salvador, El Salvador, crashes in Tegucigalpa, Honduras, after failing to land due to a wet runway. 18 casualties are reported, including the chairman of the Central American Bank for Economic Integration who suffered a heart attack after the crash. ](/news/2008/05/30/grupo-taca-flight-390-an-airbus-a320-flying-from-san-salvador-el-salvador-crashes-in-tegucigalpa-honduras-after-failing-to-land-due-to.md)
-_Context: Airbus A320, Central American Bank for Economic Integration, El Salvador, Flight 390, Grupo TACA, Honduran, San Salvador, Tegucigalpa_
+_Context: Airbus A320, Central American Bank for Economic Integration, El Salvador, Flight 390, Grupo TACA, Honduras, San Salvador, Tegucigalpa_
 
 ### [ The Texas Department of Family and Protective Services reaches agreement with some of the families of the YFZ Ranch to start returning the children on Monday. ](/news/2008/05/30/the-texas-department-of-family-and-protective-services-reaches-agreement-with-some-of-the-families-of-the-yfz-ranch-to-start-returning-the.md)
 _Context: Texas Department of Family and Protective Services, YFZ Ranch_

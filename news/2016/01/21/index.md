@@ -4,7 +4,7 @@
 Somali security forces retake control of a popular beachside restaurant in the capital, Mogadishu, after an attack by Islamist militants that left 20 killed.
 
 ### [Local Tajikistan police  have shaved nearly 13,000 men's beards, closed more than 150 shops selling traditional Muslim clothing, and convinced around 1,800 women and girls to stop wearing headscarves in 2015 as part of a campaign to eradicate foreign influences in the former Soviet Republic. ](/news/2016/01/21/local-tajikistan-police-have-shaved-nearly-13-000-men-s-beards-closed-more-than-150-shops-selling-traditional-muslim-clothing-and-convinc.md)
-_Context: Hijab, Muslim clothing, Soviet Republic, Tajikistan_
+_Context: Muslim clothing, Soviet Republic, Tajikistan, hijab_
 
 ### [The World Health Organisation confirms a second new case of Ebola virus in Sierra Leone. ](/news/2016/01/21/the-world-health-organisation-confirms-a-second-new-case-of-ebola-virus-in-sierra-leone.md)
 A new case of Ebola has been confirmed in Sierra Leone, officials said Thursday, the second since west Africa celebrated the end of the epidemic last week. The World Health Organization said the new case involved the aunt of 22-year-old Marie Jalloh, who died of Ebola on January 12. The 38-year-old

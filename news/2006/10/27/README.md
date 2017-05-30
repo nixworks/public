@@ -1,7 +1,7 @@
 ## [2006-10-27](/news/2006/10/27/index.md)
 
 ### [ Australia's senior Muslim cleric Sheikh Taj El-Din Hilaly is barred from preaching for three months after his controversial speech comparing women who did not wear the hijab to "uncovered meat". ](/news/2006/10/27/australia-s-senior-muslim-cleric-sheikh-taj-el-din-hilaly-is-barred-from-preaching-for-three-months-after-his-controversial-speech-comparin.md)
-_Context: Australia, Hijab, Muslim, Taj El-Din Hilaly_
+_Context: Australia, Muslim, Taj El-Din Hilaly, hijab_
 
 ### [ Baseball: The St. Louis Cardinals win the 2006 World Series, beating the Detroit Tigers 4 games to 1. This is the Cardinals' first title since 1982. David Eckstein is named the World Series MVP, winning his second ring. ](/news/2006/10/27/baseball-the-st-louis-cardinals-win-the-2006-world-series-beating-the-detroit-tigers-4-games-to-1-this-is-the-cardinals-first-title-si.md)
 Favored by few, the Cardinals used an unlikely cast of characters to win their first World Series in nearly a quarter century.

@@ -7,7 +7,7 @@ _Context: Japan, yen_
 &lt;p>Pro-government militiamen assaulted university students demonstrating for a second straight day Tuesday and hardliners on motorcycles harassed the top opposition leader at his office, signs of a possible intensified crackdown after the biggest anti-government demonstrations in months.&nbsp;The new unrest came as Iran&#39;s top prosecutor warned of even.&lt;/p>
 
 ### [ Gunmen in Honduras shoot dead the head of the country's anti-drug trafficking unit, Julian Aristides Gonzalez. ](/news/2009/12/8/gunmen-in-honduras-shoot-dead-the-head-of-the-country-s-anti-drug-trafficking-unit-julian-aristides-gonzalez.md)
-_Context: Honduran, Julian Aristides Gonzalez, drug trafficking_
+_Context: Honduras, Julian Aristides Gonzalez, drug trafficking_
 
 ### [ For the second time in as many years, CBS cancels a United States-produced soap opera, this time ''As the World Turns'' after 54 years, in effect putting Procter & Gamble, the creators of said genre, out of that business. ](/news/2009/12/8/for-the-second-time-in-as-many-years-cbs-cancels-a-united-states-produced-soap-opera-this-time-as-the-world-turns-after-54-years-in.md)
 _Context: As the World Turns, CBS, Procter & Gamble, United States, soap opera_

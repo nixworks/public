@@ -10,7 +10,7 @@ _Context: Staphylococcus aureus, antibiotic, antibiotic-resistant bacteria, vanc
 _Context: Ahram Online, Egypt, Harvard University, Ireland, Israel, Nazism, Oxford University, Palestinian, Tom Paulin, anti-Semitism, guerillas_
 
 ### [ R&B Super Group, TLC released their fourth studio album, 3D (TLC album), seven months after the tragic death of their band member, rapper Lisa Lopes, resulting from a deadly car accident in the Honduras.](/news/2002/11/12/r-b-super-group-tlc-released-their-fourth-studio-album-3d-tlc-album-seven-months-after-the-tragic-death-of-their-band-member-rapper-l.md)
-_Context: 3D (TLC album), Honduran, Lisa Lopes, TLC_
+_Context: 3D (TLC album), Honduras, Lisa Lopes, TLC_
 
 ## [Previous Day...](/news/2002/11/11/index.md)
 

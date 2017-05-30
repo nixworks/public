@@ -10,7 +10,7 @@ _Context: Alan Johnston, Army of Islam, BBC, Middle East_
 The CIA worked with three American mobsters in a botched &quot;gangster-type&quot; attempt to assassinate Cuban leader Fidel Castro in the early 1960s, according to documents released by the CIA on Tuesday.
 
 ### [ On the eve of Gordon Brown's assuming office as Prime Minister of the United Kingdom, Conservative Member of Parliament Quentin Davies defects to the Labour Party. ](/news/2007/06/26/on-the-eve-of-gordon-brown-s-assuming-office-as-prime-minister-of-the-united-kingdom-conservative-member-of-parliament-quentin-davies-defe.md)
-_Context: Conservative Party, Gordon Brown, Labour Party, MP, Prime Minster, Quentin Davies_
+_Context: Conservative, Gordon Brown, Labour, MP, Prime Minster, Quentin Davies_
 
 ### [ An International Atomic Energy Agency team heads to North Korea to see if Pyongyang's nuclear reactor has been shut down. ](/news/2007/06/26/an-international-atomic-energy-agency-team-heads-to-north-korea-to-see-if-pyongyang-s-nuclear-reactor-has-been-shut-down.md)
 _Context: International Atomic Energy Agency, North Korea, Pyongyang, nuclear reactor_

@@ -25,7 +25,7 @@ The State Department is warning American citizens about the risks of travel to A
 A teenager is arrested in New Mexico over the fatal shootings of two adults and three children near Albuquerque.
 
 ### [A drug lord named Mario Smith Pomare, who had long been wanted by the police in Colombia, is arrested at his villa on the Atlantic coast of Honduras. ](/news/2013/01/20/a-drug-lord-named-mario-smith-pomare-who-had-long-been-wanted-by-the-police-in-colombia-is-arrested-at-his-villa-on-the-atlantic-coast-of.md)
-_Context: Atlantic Ocean, Colombia, Honduran, drug kingpin_
+_Context: Atlantic Ocean, Colombia, Honduras, drug kingpin_
 
 ### [The second inauguration of Barack Obama as the President of the United States takes place in the Blue Room of the White House. ](/news/2013/01/20/the-second-inauguration-of-barack-obama-as-the-president-of-the-united-states-takes-place-in-the-blue-room-of-the-white-house.md)
 Barack Obama is officially sworn in for his second term as US president in a small ceremony at the White House.
@@ -37,7 +37,7 @@ Rahul Gandhi, appointed the Congress&#039; number 2 on Saturday evening, will be
 The Cabinet Committee on Political Affairs (CCPA) on Thursday raised the cap on supply of subsidised LPG cylinders to nine bottles from six per year per household and authorised the oil marketing comp
 
 ### [In Germany, Chancellor Angela Merkel's centre-left opponents win a narrow victory in Lower Saxony state election. ](/news/2013/01/20/in-germany-chancellor-angela-merkel-s-centre-left-opponents-win-a-narrow-victory-in-lower-saxony-state-election.md)
-_Context: Angela Merkel's, German, German Chancellor, Lower Saxony state election_
+_Context: Angela Merkel, German, German Chancellor, Lower Saxony state election_
 
 ### [Austrian conscription referendum, 2013:Austria holds a national referendum, choosing between keeping the current system of a conscripted army and optional social service for young men, or introducing a professional army and a voluntary community service. ](/news/2013/01/20/austrian-conscription-referendum-2013-paustria-holds-a-national-referendum-choosing-between-keeping-the-current-system-of-a-conscripted-ar.md)
 _Context: Austria, army, community service, national referendum, professional army_

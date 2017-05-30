@@ -22,7 +22,7 @@ _Context: Shanxi province_
 Six people were killed and 15 others wounded in a roadside bomb attack in the Iraqi city of Qaim.
 
 ### [2 journalists are shot dead, in the northeastern region of Olancho in Honduras. ](/news/2010/03/28/2-journalists-are-shot-dead-in-the-northeastern-region-of-olancho-in-honduras.md)
-_Context: Honduran, Olancho_
+_Context: Honduras, Olancho_
 
 ### [Thai Prime Minister Abhisit Vejjajiva meets with leaders of the National United Front of Democracy Against Dictatorship on live television to help bring about an end to the political crisis in the country. ](/news/2010/03/28/thai-prime-minister-abhisit-vejjajiva-meets-with-leaders-of-the-national-united-front-of-democracy-against-dictatorship-on-live-television-t.md)
 Abhisit Vejjajiva, the Thai prime minister met his political opponents on live television in an attempt to defuse a crisis that has seen thousands demonstrate against him demanding he quit.

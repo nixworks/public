@@ -16,7 +16,7 @@ Mount Sinabung has been spewing out red-hot ash and rocks up to five miles into 
 Iran agrees to halt some of its work on uranium enrichment for six months, as part of a landmark nuclear deal reached with six world powers in Geneva.
 
 ### [Honduran general election, 2013:Voters in Honduras go to the polls to select a new President, Congress, local government officials and representatives in the Central American Parliament. ](/news/2013/11/24/honduran-general-election-2013-pvoters-in-honduras-go-to-the-polls-to-select-a-new-president-congress-local-government-officials-and-repr.md)
-_Context: Central American Parliament, Congress, Honduran, Honduran general election, 2013, President_
+_Context: Central American Parliament, Congress, Honduran general election, 2013, Honduras, President_
 
 ### [Malian parliamentary election, 2013:Votes in Mali go to the polls for the first round of parliamentary elections with reports of low voter turnout and abuses. ](/news/2013/11/24/malian-parliamentary-election-2013-pvotes-in-mali-go-to-the-polls-for-the-first-round-of-parliamentary-elections-with-reports-of-low-voter.md)
 Low turnout and vote abuses marred Sunday elections meant to complete democratic transition in Mali, after a coup last year led to an Islamist takeover of the north that was crushed by French military intervention.

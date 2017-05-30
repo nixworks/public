@@ -6,6 +6,9 @@ _Context: Marawi, Marawi crisis, Maute, Philippine_
 ### [Damascus's governor says the last group of rebels and civilians have left the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md)
 _Context: Barzeh, Damascus, Syrian Civil War_
 
+### [Iraq's Popular Mobilization Forces, assisted by Iran,  say they cleared ISIL out of several villages north of Ba'aj on the border with Syria. ](/news/2017/05/29/iraq-s-popular-mobilization-forces-assisted-by-iran-say-they-cleared-isil-out-of-several-villages-north-of-ba-aj-on-the-border-with-syria.md)
+_Context: Ba'aj, ISIL, Iran, Iranian intervention, Iraqi Civil War, Popular Mobilization Forces, Syria_
+
 ### [Japan Tobacco announces plans to quadruple its output of smokeless tobacco by the end of next year. ](/news/2017/05/29/japan-tobacco-announces-plans-to-quadruple-its-output-of-smokeless-tobacco-by-the-end-of-next-year.md)
 Japan Tobacco Inc (2914.T) plans to spend $500 million to quadruple its smokeless tobacco production capacity by the end of 2018, as it races against bigger rival Philip Morris (PM.N) for a larger share of the Japanese vaping products market.
 

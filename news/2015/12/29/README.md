@@ -34,7 +34,7 @@ _Context: Beirut-Rafic Hariri International Airport, Captagon amphetamine pills,
 _Context: Chicago, Illinois, Jason Van Dyke, Laquan McDonald_
 
 ### [El Salvador's murder rate surges by 70% in 2015, an increase that may lead to the Central American nation edging out Honduras as the world's most murderous nation. ](/news/2015/12/29/el-salvador-s-murder-rate-surges-by-70-in-2015-an-increase-that-may-lead-to-the-central-american-nation-edging-out-honduras-as-the-world-s.md)
-_Context: Central America, El Salvador, Honduran, world's most murderous nation_
+_Context: Central America, El Salvador, Honduras, world's most murderous nation_
 
 ### [Eloy Inos, the Governor of the Northern Mariana Islands since 2013, dies in office. ](/news/2015/12/29/eloy-inos-the-governor-of-the-northern-mariana-islands-since-2013-dies-in-office.md)
 Gov. Eloy S. Inos has passed away in the U.S. mainland, sources told Saipan Tribune this morning. Press secretary Ivan Blanco declined to comment when Saipan Tribune asked if the reports were true on Inos’ passing, but then stated that a Cabinet meeting is being set and a press conference is scheduled this afternoon. Facebook has been inundated with condolences and messages to the Inos family. Inos’ death comes nearly a year after he was inaugurated for his first term as governor alongside Lt. Gov. Ralph DLG Torres, who has been acting governor in his behalf since Inos has been hospitalized for a heart ailment in Seattle, WA. Inos took over from former governor Benigno R. Fitial, who resigned his term in February 2013 after being impeached by the House of Representatives on corruption charges.

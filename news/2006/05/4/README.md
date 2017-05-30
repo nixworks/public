@@ -19,7 +19,7 @@ _Context: ''Dora Maar With Cat'', Picasso, U.S. dollar, most expensive work of a
 _Context: Barisan Nasional, Dewan Rakyat, Malaysia, Parliament of Malaysia, Shahrir Abdul Samad_
 
 ### [ British Prime Minister Tony Blair's Labour Party suffers one of its worst electoral defeats, losing more than 200 council seats in the 2006 UK local elections, and coming third in total votes, behind the Conservatives and Liberal Democrats. ](/news/2006/05/4/british-prime-minister-tony-blair-s-labour-party-suffers-one-of-its-worst-electoral-defeats-losing-more-than-200-council-seats-in-the-2006.md)
-_Context: 2006 UK local elections, British Prime Minister, Labour Party, Tony Blair_
+_Context: 2006 UK local elections, British Prime Minister, Labour, Tony Blair_
 
 ### [ The latest update is the 2006 Red List. It evaluates 40,168 species as a whole, plus an additional 2,160 subspecies, varieties, aquatic stocks, and subpopulations.](/news/2006/05/4/the-latest-update-is-the-2006-red-list-it-evaluates-40-168-species-as-a-whole-plus-an-additional-2-160-subspecies-varieties-aquatic-sto.md)
 _Context: 2006, Red List_

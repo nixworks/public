@@ -43,7 +43,7 @@ _Context: 83-year-old nun, Tennessee, Y-12 National Security Complex_
 Karnataka has delivered an unambiguous verdict. The Congress will form the next government and will not need help. The party is leading in 119 seats, which will give it a majority in the 224-seat Assembly.
 
 ### [British Conservative Party MP Nadine Dorries is allowed to rejoin the party, having been suspended in November 2012 for her appearance on a reality television show during parliamentary time. ](/news/2013/05/8/british-conservative-party-mp-nadine-dorries-is-allowed-to-rejoin-the-party-having-been-suspended-in-november-2012-for-her-appearance-on-a.md)
-_Context: Conservative Party, Nadine Dorries_
+_Context: Conservative, Nadine Dorries_
 
 ## [Previous Day...](/news/2013/05/7/index.md)
 

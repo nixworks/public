@@ -4,7 +4,7 @@
 _Context: India, Panchayat, Uttar Pradesh_
 
 ### [A clash in the north of Honduras kills two policemen and four criminals. ](/news/2010/10/10/a-clash-in-the-north-of-honduras-kills-two-policemen-and-four-criminals.md)
-_Context: Honduran_
+_Context: Honduras_
 
 ### [110 people are injured and 200 people are arrested as anti-gay protesters and police clash in Belgrade at Serbia's first gay pride parade event since 2001. ](/news/2010/10/10/110-people-are-injured-and-200-people-are-arrested-as-anti-gay-protesters-and-police-clash-in-belgrade-at-serbia-s-first-gay-pride-parade-ev.md)
 Security forces deployed to protect gay-rights marchers clash with protesters, triggering violence in Belgrade.

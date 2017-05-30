@@ -7,7 +7,7 @@ _Context: 1964, African-American, James Seale, Ku Klux Klan, Mississippi, conspi
 _Context: Fatah-Hamas conflict, Gaza Strip, Palestinian Authority_
 
 ### [ Golf's U.S. Open begins at Oakmont Country Club in Oakmont, Pennsylvania. ](/news/2007/06/14/golf-s-u-s-open-begins-at-oakmont-country-club-in-oakmont-pennsylvania.md)
-_Context: Golf, Oakmont Country Club, Oakmont, Pennsylvania, U.S. Open_
+_Context: Oakmont Country Club, Oakmont, Pennsylvania, U.S. Open, golf_
 
 ### [ Music producer and alleged con artist Lou Pearlman is arrested in Nusa Dua, Bali, Indonesia and deported to the United States territory of Guam.  He is accused of defrauding over 1,800 individual investors out of a total of $317-million.  He will eventually be returned to Florida to face criminal charges and a growing list of civil litigation. ](/news/2007/06/14/music-producer-and-alleged-con-artist-lou-pearlman-is-arrested-in-nusa-dua-bali-indonesia-and-deported-to-the-united-states-territory-of.md)
 _Context: Bali, Florida, Guam, Indonesia, Lou Pearlman, Music producer, Nusa Dua, US$, con artist, deportees_

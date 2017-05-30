@@ -25,7 +25,7 @@ One of more than 1000 aftershocks has cut off a key route into earthquake-strick
 Bolivian authorities say the deputy interior minister has been kidnapped and killed by striking miners.
 
 ### [An assassination attempt against Angela Merkel is foiled by Czech police. ](/news/2016/08/26/an-assassination-attempt-against-angela-merkel-is-foiled-by-czech-police.md)
-_Context: Angela Merkel's, Czech_
+_Context: Angela Merkel, Czech_
 
 ### [Philippine president Rodrigo Duterte  unintentionally reveals that a US$1 million ransom was given to the Abu Sayyaf terror group in exchange for a Norwegian hostage. ](/news/2016/08/26/philippine-president-rodrigo-duterte-unintentionally-reveals-that-a-us-1-million-ransom-was-given-to-the-abu-sayyaf-terror-group-in-exchang.md)
 President Rodrigo Duterte says ransom has been paid for Norwegian hostage Kjartan Sekkingstad, who has yet to be released by the Abu Sayyaf

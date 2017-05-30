@@ -25,7 +25,7 @@ _Context: Congress of France, Nicolas Sarkozy, Palace of Versailles, President o
 _Context: London, Morgan Tsvangirai, Southwark Cathedral, Zimbabwe_
 
 ### [ Conservative MP John Bercow is elected the new Speaker of the House of Commons of the United Kingdom. ](/news/2009/06/22/conservative-mp-john-bercow-is-elected-the-new-speaker-of-the-house-of-commons-of-the-united-kingdom.md)
-_Context: Conservative Party, House of Commons, John Bercow, MP, Speaker of the British House of Commons, elected_
+_Context: Conservative, House of Commons, John Bercow, MP, Speaker of the British House of Commons, elected_
 
 ### [ French President Nicolas Sarkozy calls for the burqa to be banned in France. ](/news/2009/06/22/french-president-nicolas-sarkozy-calls-for-the-burqa-to-be-banned-in-france.md)
 _Context: French, Nicolas Sarkozy, President of France, burqa_

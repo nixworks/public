@@ -1,7 +1,7 @@
 ## [2009-07-6](/news/2009/07/6/index.md)
 
 ### [  Honduran President Manuel Zelaya diverts his jet to Nicaragua after being barred from landing in Tegucigalpa as ground troops kill two in a battle against supporters with the country in turmoil. ](/news/2009/07/6/honduran-president-manuel-zelaya-diverts-his-jet-to-nicaragua-after-being-barred-from-landing-in-tegucigalpa-as-ground-troops-kill-two-in.md)
-_Context: Honduran, Manuel Zelaya, Nicaragua, President, Tegucigalpa, a ''coup d'tat''_
+_Context: Honduras, Manuel Zelaya, Nicaragua, President, Tegucigalpa, a ''coup d'tat''_
 
 ### [ Riots in China's Xinjiang region leave 156 dead and more than 800 injured. ](/news/2009/07/6/riots-in-china-s-xinjiang-region-leave-156-dead-and-more-than-800-injured.md)
 At least 156 people were killed and more than 800 injured in by far the worst instance of ethnic violence in Urumqi, the capital of China&rsquo;s restive western province of Xinjiang. 
@@ -10,7 +10,7 @@ At least 156 people were killed and more than 800 injured in by far the worst in
 _Context: South Africa_
 
 ### [ Egyptians mourn the death of Marwa El-Sherbini, called the "hijab martyr" after she was killed in a German courtroom by a man convicted of insulting her religion. ](/news/2009/07/6/egyptians-mourn-the-death-of-marwa-el-sherbini-called-the-hijab-martyr-after-she-was-killed-in-a-german-courtroom-by-a-man-convicted-of.md)
-_Context: Egyptians, German, Hijab, Marwa El-Sherbini_
+_Context: Egyptians, German, Marwa El-Sherbini, hijab_
 
 ### [ Burundi and Rwanda join the East African Community Customs Union. ](/news/2009/07/6/burundi-and-rwanda-join-the-east-african-community-customs-union.md)
 _Context: Burundi, East African Community, Rwanda_

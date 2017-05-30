@@ -7,7 +7,7 @@ _Context: Afghanistan, Kandahar Province, Taliban, suicide bombing_
 At least 20 killed in violence that erupts after news spreads of Muslims killed by Christian youths in city of Jos.
 
 ### [Eight people are killed and three injured following an armed attack on a bus traveling between Catacamas and Juticalpa in eastern Honduras. ](/news/2011/01/7/eight-people-are-killed-and-three-injured-following-an-armed-attack-on-a-bus-traveling-between-catacamas-and-juticalpa-in-eastern-honduras.md)
-_Context: Catacamas, Honduran, Juticalpa_
+_Context: Catacamas, Honduras, Juticalpa_
 
 ### [Six people are killed and 20 injured in political violence in West Bengal, India. ](/news/2011/01/7/six-people-are-killed-and-20-injured-in-political-violence-in-west-bengal-india.md)
 _Context: India, West Bengal_

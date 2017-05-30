@@ -18,8 +18,8 @@ _Context: Ottawa, new flag_
 ### [Szeged's universities are unified into a single institution called the University of Szeged.](/news/2000/01/1/szeged-s-universities-are-unified-into-a-single-institution-called-the-university-of-szeged.md)
 _Context: Szeged, University of Szeged_
 
-### [The hostages of Indian Airlines flight IC 814 return home after the Indian Governement releases the prisoners demanded by the hijackers.](/news/2000/01/1/the-hostages-of-indian-airlines-flight-ic-814-return-home-after-the-indian-governement-releases-the-prisoners-demanded-by-the-hijackers.md)
-_Context: IC 814, Indian Airlines, Indian Governement_
+### [The hostages of Indian Airlines flight IC 814 return home after the Government of India releases the prisoners demanded by the hijackers.](/news/2000/01/1/the-hostages-of-indian-airlines-flight-ic-814-return-home-after-the-government-of-india-releases-the-prisoners-demanded-by-the-hijackers.md)
+_Context: Government of India, IC 814, Indian Airlines_
 
 ### [Sweden disestablishes the Church of Sweden as the official state religion.](/news/2000/01/1/sweden-disestablishes-the-church-of-sweden-as-the-official-state-religion.md)
 _Context: Lutheran Church, Sweden, state religion_

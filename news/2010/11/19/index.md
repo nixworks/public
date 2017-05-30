@@ -70,7 +70,7 @@ _Context: Thailand, United Front for Democracy Against Dictatorship_
 _Context: Colombo, Mahinda Rajapakse, President of Sri Lanka_
 
 ### [British Conservative Party politician Lord Young resigns as the coalition government's enterprise adviser after claiming that most Britons "have never had it so good" in spite of the recession. ](/news/2010/11/19/british-conservative-party-politician-lord-young-resigns-as-the-coalition-government-s-enterprise-adviser-after-claiming-that-most-britons.md)
-_Context: Conservative Party, Lord Young, government_
+_Context: Conservative, Lord Young, government_
 
 ## [Previous Day...](/news/2010/11/18/index.md)
 

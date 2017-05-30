@@ -16,7 +16,7 @@ Foreign minister Kevin Rudd has announced additional sanctions against Iran afte
 _Context: Fairfax, Virginia, Federal Aviation Administration, Randy Babbitt, Virginia, driving under the influence_
 
 ### [A journalist, Luz Marina Paz Villalobos, is killed in Honduras becoming the 17th journalist shot in the past two years. ](/news/2011/12/6/a-journalist-luz-marina-paz-villalobos-is-killed-in-honduras-becoming-the-17th-journalist-shot-in-the-past-two-years.md)
-_Context: Honduran_
+_Context: Honduras_
 
 ### [After 541 days of negotiations, the longest in history, the new federal government of Belgium is sworn in, with Elio di Rupo as Prime Minister, making him the first Walloon to reach this position in 38 years and the second openly gay head of government in the world. ](/news/2011/12/6/after-541-days-of-negotiations-the-longest-in-history-the-new-federal-government-of-belgium-is-sworn-in-with-elio-di-rupo-as-prime-minist.md)
 _Context: 541 days of negotiations, Belgium, Elio di Rupo, Walloon_

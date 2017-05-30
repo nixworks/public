@@ -22,7 +22,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: California, R, Randy "Duke" Cunningham, United States House of Representatives_
 
 ### [ British Labour Party MPs close to Gordon Brown call for Culture Secretary Tessa Jowell to resign over her husband, David Mills' alleged acceptance of money from Silvio Berlusconi. ](/news/2006/03/3/british-labour-party-mps-close-to-gordon-brown-call-for-culture-secretary-tessa-jowell-to-resign-over-her-husband-david-mills-alleged-acc.md)
-_Context: David Mills, Gordon Brown, Labour Party, MP, Silvio Berlusconi, Tessa Jowell_
+_Context: David Mills, Gordon Brown, Labour, MP, Silvio Berlusconi, Tessa Jowell_
 
 ### [ The 2006 Chinese People's Political Consultative Conference opens in Beijing. ](/news/2006/03/3/the-2006-chinese-people-s-political-consultative-conference-opens-in-beijing.md)
 _Context: 2006 Chinese People's Political Consultative Conference, Beijing_

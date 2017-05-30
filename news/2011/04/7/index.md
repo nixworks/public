@@ -73,7 +73,7 @@ Group of elderly Kenyans who say they were tortured by British officers in the 1
 _Context: Barack Obama, Barack Obama citizenship conspiracy theories, Hawaii Intermediate Court of Appeals, U.S. President, birth certificate_
 
 ### [Former British Labour Party minister Elliot Morley pleads guilty to dishonestly claiming more than PS30,000 in parliamentary expenses. ](/news/2011/04/7/former-british-labour-party-minister-elliot-morley-pleads-guilty-to-dishonestly-claiming-more-than-aps30-000-in-parliamentary-expenses.md)
-_Context: Elliot Morley, Labour Party, MPs expenses_
+_Context: Elliot Morley, Labour, MPs expenses_
 
 ### [Nicola Roxon, the Australian Minister for Health, announces plans to introduce legislation requiring tobacco products to be sold in plain packaging. ](/news/2011/04/7/nicola-roxon-the-australian-minister-for-health-announces-plans-to-introduce-legislation-requiring-tobacco-products-to-be-sold-in-plain-pa.md)
 Australia will become the first country in the world to require tobacco products to be sold in plain packaging, to reduce their appeal to consumers.

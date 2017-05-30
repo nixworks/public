@@ -10,7 +10,7 @@ _Context: Kuwait, Kuwait City, militant_
 _Context: Beja, Sudan_
 
 ### [ Former UK Labour Culture Secretary, Chris Smith, states he has been HIV positive for 17 years. ](/news/2005/01/30/former-uk-labour-culture-secretary-chris-smith-states-he-has-been-hiv-positive-for-17-years.md)
-_Context: Chris Smith, HIV, Labour Party, Secretary of State for Culture, Media and Sport, United Kingdom_
+_Context: Chris Smith, HIV, Labour, Secretary of State for Culture, Media and Sport, United Kingdom_
 
 ### [ In Spain, a bomb explodes at a hotel in the southwest town Denia injuring one. Police officials say the detonation occurred after a telephone warning from the Basque ETA group. Spanish parliament is scheduled to debate and vote on a Basque plan for independence from Spain in two days. ](/news/2005/01/30/in-spain-a-bomb-explodes-at-a-hotel-in-the-southwest-town-denia-injuring-one-police-officials-say-the-detonation-occurred-after-a-telepho.md)
 _Context: Basque, Denia, ETA, Spain_

@@ -16,7 +16,7 @@ _Context: Hizbollah, Israel, North Korea, Syria, destroyed, international airspa
 Get local Bay Area news plus Bay Area breaking news, business, green, national, and world news from NBC Bay Area.
 
 ### [ Hurricane Felix: The death toll from Hurricane Felix in Honduras and Nicaragua rises to at least 98, with a high casualty level amongst Miskito Indians who failed to evacuate. Thousands of houses have also been destroyed. ](/news/2007/09/6/hurricane-felix-the-death-toll-from-hurricane-felix-in-honduras-and-nicaragua-rises-to-at-least-98-with-a-high-casualty-level-amongst-mis.md)
-_Context: Honduran, Hurricane Felix (2007), Miskito, Nicaragua_
+_Context: Honduras, Hurricane Felix (2007), Miskito, Nicaragua_
 
 ### [ An Islamist website claims it will soon carry a new video of al Qaeda leader Osama bin Laden to mark the sixth anniversary of the September 11, 2001 attacks on U.S. cities. ](/news/2007/09/6/an-islamist-website-claims-it-will-soon-carry-a-new-video-of-al-qaeda-leader-osama-bin-laden-to-mark-the-sixth-anniversary-of-the-september.md)
 An Islamist Web site said on Friday it would soon carry a new video of al Qaeda leader Osama bin Laden to mark the sixth anniversary of the September 11 attacks on U.S. cities.

@@ -11,7 +11,7 @@ _Context: African-American, James Byrd Jr., white supremacist_
 _Context: Austria, avalanche_
 
 ### [ The R&B trio TLC releases their third album FanMail after their five year hiatus from the release of their second album in 1994, CrazySexyCool. It debuted at #1 on this billboard 200 and spent 5 non-consecutive weeks at #1. This was the last TLC studio album released with all three original members living, rapper Lisa Lopes would die in a treacherous car accident in Honduras just three years later, in 2002.](/news/1999/02/23/the-r-b-trio-tlc-releases-their-third-album-fanmail-after-their-five-year-hiatus-from-the-release-of-their-second-album-in-1994-crazysexyc.md)
-_Context: CrazySexyCool, FanMail, Honduran, Lisa Lopes, TLC_
+_Context: CrazySexyCool, FanMail, Honduras, Lisa Lopes, TLC_
 
 ## [Previous Day...](/news/1999/02/22/index.md)
 

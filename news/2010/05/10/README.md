@@ -13,7 +13,7 @@ _Context: European Union, International Monetary Fund, economically troubled eur
 _Context: Barack Obama, Elena Kagan, Justice, U.S. President, United States Supreme Court, United States solicitor general_
 
 ### [German Chancellor Angela Merkel's government loses its majority in the upper house of parliament in a state election marked by voter anger over the bailout to avoid the Greek debt crisis. ](/news/2010/05/10/german-chancellor-angela-merkelas-government-loses-its-majority-in-the-upper-house-of-parliament-in-a-state-election-marked-by-voter-anger.md)
-_Context: Angela Merkel's, German Chancellor, economically troubled euro-zone nations, upper house of parliament_
+_Context: Angela Merkel, German Chancellor, economically troubled euro-zone nations, upper house of parliament_
 
 ### [BP sprays more chemicals into the main massive undersea oil leak in the Gulf of Mexico using a deep-sea robot in an attempt to thin the oil which is rushing up from the seabed at the rate of about 210,000 gallons (795,000 liters) per day. ](/news/2010/05/10/bp-sprays-more-chemicals-into-the-main-massive-undersea-oil-leak-in-the-gulf-of-mexico-using-a-deep-sea-robot-in-an-attempt-to-thin-the-oil.md)
 _Context: BP, Deepwater Horizon oil spill, Gulf of Mexico_

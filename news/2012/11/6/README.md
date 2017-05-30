@@ -28,7 +28,7 @@ As the US election campaign approaches its crescendo, voters in the tiny Pacific
 _Context: Anatoly Serdyukov, Russia, Vladimir Putin_
 
 ### [British Conservative Party MP Nadine Dorries is suspended from the party after her decision to become the first serving politician to appear on a reality television series. The move could take her away from Parliamentary business for up to a month. ](/news/2012/11/6/british-conservative-party-mp-nadine-dorries-is-suspended-from-the-party-after-her-decision-to-become-the-first-serving-politician-to-appear.md)
-_Context: Conservative Party, Nadine Dorries_
+_Context: Conservative, Nadine Dorries_
 
 ### [Patriarch Maxim of the Bulgarian Orthodox Church dies at age 98 at a Sofia hospital. ](/news/2012/11/6/patriarch-maxim-of-the-bulgarian-orthodox-church-dies-at-age-98-at-a-sofia-hospital.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

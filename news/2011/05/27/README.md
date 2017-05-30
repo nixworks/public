@@ -19,7 +19,7 @@ A camp in Tunisia for people fleeing the conflict in Libya is nearly completely 
 _Context: Italian, Lebanon, UNIFIL_
 
 ### [British Labour Party leader Ed Miliband marries his long term partner Justine Thornton in a low-key ceremony at Langar Hall in Nottinghamshire. ](/news/2011/05/27/british-labour-party-leader-ed-miliband-marries-his-long-term-partner-justine-thornton-in-a-low-key-ceremony-at-langar-hall-in-nottinghamshi.md)
-_Context: Ed Miliband, Justine Thornton, Labour Party, Langar Hall, Nottinghamshire_
+_Context: Ed Miliband, Justine Thornton, Labour, Langar Hall, Nottinghamshire_
 
 ### [India gives Tanzania US$180 million in aid to support its development. ](/news/2011/05/27/india-gives-tanzania-us-180-million-in-aid-to-support-its-development.md)
 India said on Friday it would give Tanzania $180 million to upgrade water supplies in the East African nation, and the two countries agreed to remove tax hurdles and boost bilateral trade.

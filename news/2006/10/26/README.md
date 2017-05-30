@@ -4,7 +4,7 @@
 _Context: (Wikinews), George W. Bush, The Secure Fence Act of 2006, U.S.-Mexico border_
 
 ### [ In Australia, Sheikh Taj El-Din Hilaly apologizes after a public uproar over his statement comparing women who did not wear the hijab to "uncovered meat". ](/news/2006/10/26/in-australia-sheikh-taj-el-din-hilaly-apologizes-after-a-public-uproar-over-his-statement-comparing-women-who-did-not-wear-the-hijab-to-u.md)
-_Context: Australia, Hijab, Taj El-Din Hilaly_
+_Context: Australia, Taj El-Din Hilaly, hijab_
 
 ### [ The National Assembly of Nicaragua passes a law banning all abortions in the run-up to general elections.](/news/2006/10/26/the-national-assembly-of-nicaragua-passes-a-law-banning-all-abortions-in-the-run-up-to-general-elections.md)
 _Context: 2006 general election, National Assembly, Nicaragua, abortion law_

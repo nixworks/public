@@ -25,7 +25,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 _Context: French, Jacques Chirac, President of France, anti-corruption_
 
 ### [ Honduras' de facto leader Roberto Micheletti and ousted President Manuel Zelaya agree a deal to end the political crisis, reinstating Zelaya as President. ](/news/2009/10/30/honduras-de-facto-leader-roberto-micheletti-and-ousted-president-manuel-zelaya-agree-a-deal-to-end-the-political-crisis-reinstating-zelay.md)
-_Context: Honduran, Manuel Zelaya, President, Roberto Micheletti, political crisis in the country_
+_Context: Honduras, Manuel Zelaya, President, Roberto Micheletti, political crisis in the country_
 
 ### [ South Korea's spy agency, the National Intelligence Service, names North Korea's telecommunications ministry as responsible for a wave of cyber attacks in July. ](/news/2009/10/30/south-korea-s-spy-agency-the-national-intelligence-service-names-north-korea-s-telecommunications-ministry-as-responsible-for-a-wave-of-c.md)
 _Context: North Korea, South Korea, South Korea's intelligence agency, wave of cyber attacks_

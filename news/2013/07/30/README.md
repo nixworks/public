@@ -28,7 +28,7 @@ At least eight people are injured in a series of explosions at a propane gas pla
 _Context: train that derailed_
 
 ### [Honduras declares a state of emergency after an outbreak of dengue fever kills 16 people and sickens 12,000. ](/news/2013/07/30/honduras-declares-a-state-of-emergency-after-an-outbreak-of-dengue-fever-kills-16-people-and-sickens-12-000.md)
-_Context: Honduran, dengue fever, state of emergency_
+_Context: Honduras, dengue fever, state of emergency_
 
 ### [US Secretary of State, John Kerry, announces that Israeli and Palestinian officials have agreed to resume negotiations for a peace agreement. ](/news/2013/07/30/us-secretary-of-state-john-kerry-announces-that-israeli-and-palestinian-officials-have-agreed-to-resume-negotiations-for-a-peace-agreement.md)
 Israelis and Palestinians will aim to reach a final-status agreement to end their conflict over the next nine months, US Secretary of State John Kerry says in Washington.

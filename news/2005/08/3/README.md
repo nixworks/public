@@ -13,7 +13,7 @@ _Context: Istanbul_
 _Context: BBC, British Government, Israel, nuclear programme_
 
 ### [ The chairman of the British Council of Mosques and Imams has advised British Muslim women to refrain from wearing clothing, such as the Hijab, which identifies them as Muslim following a large increase in "Islamophobia" and Hate crimes. ](/news/2005/08/3/the-chairman-of-the-british-council-of-mosques-and-imams-has-advised-british-muslim-women-to-refrain-from-wearing-clothing-such-as-the-hij.md)
-_Context: Council of Mosques and Imams, Hijab, Muslim, anti-Islam, hate crime_
+_Context: Council of Mosques and Imams, Muslim, anti-Islam, hate crime, hijab_
 
 ### [ Mo Mowlam, the former Northern Ireland Secretary, has been admitted to hospital, apparently critically ill. ](/news/2005/08/3/mo-mowlam-the-former-northern-ireland-secretary-has-been-admitted-to-hospital-apparently-critically-ill.md)
 _Context: Mo Mowlam, Northern Ireland Secretary_

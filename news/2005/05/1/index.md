@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Honduran president Ricardo Maduro, and his daughter survive with minor injuries when their plane crashes into the sea near Tela. ](/news/2005/05/1/honduran-president-ricardo-maduro-and-his-daughter-survive-with-minor-injuries-when-their-plane-crashes-into-the-sea-near-tela.md)
-_Context: Honduran, Ricardo Maduro, Tela_
+_Context: Honduras, Ricardo Maduro, Tela_
 
 ## [Previous Day...](/news/2005/04/30/index.md)
 

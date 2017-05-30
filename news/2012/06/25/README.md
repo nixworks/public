@@ -22,7 +22,7 @@ _Context: Greece, Vassilis Rapanos_
 The fifth eurozone nation to seek help says it wants to limit exposure of its financial institutions to Greece crisis.
 
 ### [UK Labour MP Tom Watson adds his voice to the growing opposition to the extradition of Richard O'Dwyer, calling it an example of a younger generation being "hung out to dry by lawmakers". ](/news/2012/06/25/uk-labour-mp-tom-watson-adds-his-voice-to-the-growing-opposition-to-the-extradition-of-richard-o-dwyer-calling-it-an-example-of-a-younger-g.md)
-_Context: Labour Party, Richard O'Dwyer, Tom Watson_
+_Context: Labour, Richard O'Dwyer, Tom Watson_
 
 ### [Fernando Lugo, the deposed President of Paraguay, rallies allies at home and abroad, and creates a parallel cabinet intent on returning to power. ](/news/2012/06/25/fernando-lugo-the-deposed-president-of-paraguay-rallies-allies-at-home-and-abroad-and-creates-a-parallel-cabinet-intent-on-returning-to-p.md)
 Deposed president rallies allies at home and abroad to force congress to reverse a vote to remove him.

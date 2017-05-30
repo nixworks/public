@@ -40,7 +40,7 @@ Iraq has broadcast a video of a Saddam Hussein loyalist confessing to orchestrat
 _Context: Zimbabwe, cabinet members, electoral fraud, ruling party_
 
 ### [ Honduras's Supreme Court rejects a Costa Rica-brokered deal to restore ousted President Manuel Zelaya to power and orders his arrest if he returns. ](/news/2009/08/23/honduras-s-supreme-court-rejects-a-costa-rica-brokered-deal-to-restore-ousted-president-manuel-zelaya-to-power-and-orders-his-arrest-if-he.md)
-_Context: Costa Rica, Honduran, Manuel Zelaya, President, Supreme Court_
+_Context: Costa Rica, Honduras, Manuel Zelaya, President, Supreme Court_
 
 ### [ Stefania Fernandez of Venezuela was crowned Miss Universe 2009 by her compatriot Dayana Mendoza, the first in the history. She was crowned at the Atlantis Paradise Island, Nassau, The Bahamas.](/news/2009/08/23/stefania-fernandez-of-venezuela-was-crowned-miss-universe-2009-by-her-compatriot-dayana-mendoza-the-first-in-the-history-she-was-crowned.md)
 _Context: Atlantis Paradise Island, Dayana Mendoza, Miss Universe 2009, Nassau, Stefania Fernandez, Venezuela, the Bahamas_

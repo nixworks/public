@@ -16,7 +16,7 @@ _Context: Africa, Bill Clinton, Democratic Republic of the Congo, Hillary Clinto
 Ecuadorean President Rafael Correa was sworn in for a second term on Monday vowing to deepen his socialist &#147;revolution&#148;. Announcing his vision for a new term, Correa said he sought to fight inequality and invest in projects to help the poor, improve education and improve the lives of long-neglected Andean indigenous groups.
 
 ### [ The interim government in Honduras agrees to accept a delegation from the Organization of American States to help solve the political crisis in the country. ](/news/2009/08/10/the-interim-government-in-honduras-agrees-to-accept-a-delegation-from-the-organization-of-american-states-to-help-solve-the-political-crisi.md)
-_Context: Honduran, Organization of American States, political crisis in the country_
+_Context: Honduras, Organization of American States, political crisis in the country_
 
 ### [ Pope Benedict XVI triggers a "scandalous poverty" debate in Argentina, with Buenos Aires province governor Daniel Scioli preparing to meet with all Catholic bishops of his area. ](/news/2009/08/10/pope-benedict-xvi-triggers-a-ascandalous-povertya-debate-in-argentina-with-buenos-aires-province-governor-daniel-scioli-preparing-to-m.md)
 Buenos Aires province governor Daniel Scioli will be meeting this week with all Catholic bishops of his area following the controversy triggered by Pope Benedict XVI who in one his homilies spoke of the &ldquo;scandalous poverty&rdquo; and social inequality in Argentina.

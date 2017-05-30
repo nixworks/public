@@ -7,7 +7,7 @@ The Organization of American States lifted its 47-year suspension of Cuba on Wed
 The Leaving Certificate English Paper Two has been postponed after it emerged that students in one centre have already seen the paper.
 
 ### [ Labour Party Members of the United Kingdom's Parliament circulate an e-mail that requests Prime Minister Gordon Brown's resignation. ](/news/2009/06/3/labour-party-members-of-the-united-kingdom-s-parliament-circulate-an-e-mail-that-requests-prime-minister-gordon-brown-s-resignation.md)
-_Context: British Parliament, Gordon Brown, Labour Party, MP, Prime Minster, United Kingdom, e-mail_
+_Context: British Parliament, Gordon Brown, Labour, MP, Prime Minster, United Kingdom, e-mail_
 
 ### [ The remotely operated vehicle ''Nereus'' reaches the Challenger Deep in the Pacific Ocean's Mariana Trench. ](/news/2009/06/3/the-remotely-operated-vehicle-nereus-reaches-the-challenger-deep-in-the-pacific-ocean-s-mariana-trench.md)
 _Context: Challenger Deep, Mariana Trench, Nereus, Pacific, remotely operated vehicle_

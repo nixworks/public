@@ -10,7 +10,7 @@ _Context: Irenaios I, Jerusalem, Metropolitan Cornelius of Petra, Orthodox Churc
 _Context: Baidoa, Somalia, Transitional Federal Government of Somalia_
 
 ### [ Angela Merkel is elected by the CDU/CSU as candidate to become Chancellor of Germany in the upcoming German federal election, 2005. ](/news/2005/05/30/angela-merkel-is-elected-by-the-cdu-csu-as-candidate-to-become-chancellor-of-germany-in-the-upcoming-german-federal-election-2005.md)
-_Context: Angela Merkel's, CSU, Chancellor, Christian Democratic Union, German federal election, 2005_
+_Context: Angela Merkel, CSU, Chancellor, Christian Democratic Union, German federal election, 2005_
 
 ### [ Amnesty International has urged foreign governments to investigate high level US government officials for human rights violations committed in Afghanistan, Iraq, and Guantanamo Bay.](/news/2005/05/30/amnesty-international-has-urged-foreign-governments-to-investigate-high-level-us-government-officials-for-human-rights-violations-committed.md)
 _Context: Afghanistan, Amnesty International, Guantnamo Bay detainment camp, Human rights, Iraq_

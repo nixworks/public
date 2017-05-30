@@ -25,7 +25,7 @@ _Context: People's Republic of China, Tibet, unrest in 2008_
 _Context: Charles Pasqua, Franois Mitterrand, French, Jean-Christophe Mitterrand, President of France, illegal arms sales to Angola_
 
 ### [ A nephew of Honduran interim leader Robert Micheletti and a high ranking army officer are found murdered. ](/news/2009/10/27/a-nephew-of-honduran-interim-leader-robert-micheletti-and-a-high-ranking-army-officer-are-found-murdered.md)
-_Context: Honduran, Robert Micheletti_
+_Context: Honduras, Robert Micheletti_
 
 ### [ A British couple are missing after their yacht is hijacked by Somali pirates off the Seychelles. ](/news/2009/10/27/a-british-couple-are-missing-after-their-yacht-is-hijacked-by-somali-pirates-off-the-seychelles.md)
 _Context: Seychelles, Somali pirates, United Kingdom_

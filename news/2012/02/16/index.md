@@ -19,7 +19,7 @@ _Context: Australian, Qantas_
 HUNDREDS of passengers have vented their fury at Air Australia after the airline went bust this morning and grounded flights, leaving them stranded.
 
 ### [Senior prison officials are suspended and an investigation is opened into the cause of a deadly prison fire in Comayagua, Honduras, in which over 350 inmates died. ](/news/2012/02/16/senior-prison-officials-are-suspended-and-an-investigation-is-opened-into-the-cause-of-a-deadly-prison-fire-in-comayagua-honduras-in-which.md)
-_Context: Comayagua, Honduran, deadly prison fire_
+_Context: Comayagua, Honduras, deadly prison fire_
 
 ### [Thirty-two people die after a head on collision between two buses in Nigeria's Bauchi State. ](/news/2012/02/16/thirty-two-people-die-after-a-head-on-collision-between-two-buses-in-nigeria-s-bauchi-state.md)
 _Context: Bauchi State, Nigeria_

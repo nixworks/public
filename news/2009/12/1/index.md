@@ -1,7 +1,7 @@
 ## [2009-12-1](/news/2009/12/1/index.md)
 
 ### [ Porfirio Lobo Sosa is elected President of Honduras. Turnout increases dramatically despite ousted former President Manuel Zelaya's plea for a boycott.  ](/news/2009/12/1/porfirio-lobo-sosa-is-elected-president-of-honduras-turnout-increases-dramatically-despite-ousted-former-president-manuel-zelaya-s-plea-fo.md)
-_Context: Honduran, Manuel Zelaya, Porfirio Lobo Sosa, President, elected_
+_Context: Honduras, Manuel Zelaya, Porfirio Lobo Sosa, President, elected_
 
 ### [ In a major policy speech, South African President Jacob Zuma announces the country will treat all HIV positive babies and expand testing. ](/news/2009/12/1/in-a-major-policy-speech-south-african-president-jacob-zuma-announces-the-country-will-treat-all-hiv-positive-babies-and-expand-testing.md)
 _Context: HIV, Jacob Zuma, South Africa_

@@ -34,7 +34,7 @@ _Context: 2010 FIFA World Cup, South Africa_
 _Context: North Korea, South Korea, United States, cyber-war_
 
 ### [ Exiled Honduran President Manuel Zelaya and interim President Roberto Micheletti agree to talks under mediation by Costa Rica. ](/news/2009/07/8/exiled-honduran-president-manuel-zelaya-and-interim-president-roberto-micheletti-agree-to-talks-under-mediation-by-costa-rica.md)
-_Context: Costa Rica, Honduran, Manuel Zelaya, President, Roberto Micheletti_
+_Context: Costa Rica, Honduras, Manuel Zelaya, President, Roberto Micheletti_
 
 ### [ Iran says two thirds of protesters have already been released and another 100 will be freed in the aftermath of the disputed presidential election. ](/news/2009/07/8/iran-says-two-thirds-of-protesters-have-already-been-released-and-another-100-will-be-freed-in-the-aftermath-of-the-disputed-presidential-e.md)
 _Context: Iran, protests against the regime, re-election_

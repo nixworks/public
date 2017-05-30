@@ -25,7 +25,7 @@ Politicians vote 33 to 28 to start membership talks with the European Union.
 Oscar Wilde, whose flamboyant homosexuality shocked Britain in the 19th century, won an unlikely endorsement from the Vatican on Thursday.
 
 ### [ Interim Honduran President Roberto Micheletti says he is willing to step down, only if Jose Manuel Zelaya ceases his claim to the presidency. ](/news/2009/07/16/interim-honduran-president-roberto-micheletti-says-he-is-willing-to-step-down-only-if-jose-manuel-zelaya-ceases-his-claim-to-the-presidenc.md)
-_Context: Honduran, Jose Manuel Zelaya, President, Roberto Micheletti_
+_Context: Honduras, Jose Manuel Zelaya, President, Roberto Micheletti_
 
 ### [ Omar Bongo's son, Ali-Ben Bongo, is chosen to stand as the ruling party's presidential candidate in Gabon. ](/news/2009/07/16/omar-bongo-s-son-ali-ben-bongo-is-chosen-to-stand-as-the-ruling-party-s-presidential-candidate-in-gabon.md)
 _Context: Ali Bongo Ondimba, Omar Bongo, disputed presidential election_

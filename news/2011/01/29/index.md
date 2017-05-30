@@ -40,7 +40,7 @@ _Context: David Kato, Uganda, gay activist, lesbian_
 The Dutch government freezes all contacts with Iran in protest over the hanging of a Dutch-Iranian woman for drug smuggling.
 
 ### [British Labour Party leader Ed Miliband pays his first visit to Afghanistan. ](/news/2011/01/29/british-labour-party-leader-ed-miliband-pays-his-first-visit-to-afghanistan.md)
-_Context: Afghanistan, Ed Miliband, Labour Party_
+_Context: Afghanistan, Ed Miliband, Labour_
 
 ### [A Buddhist monk is the first person to be charged under a strict anti-smoking law in Bhutan, introduced in 2005. ](/news/2011/01/29/a-buddhist-monk-is-the-first-person-to-be-charged-under-a-strict-anti-smoking-law-in-bhutan-introduced-in-2005.md)
 _Context: Bhutan, Buddhist_

@@ -28,7 +28,7 @@ _Context: Leveson Inquiry, News of the World, Piers Morgan, The Sun_
 _Context: Carlos the Jackal, French, Venezuela_
 
 ### [A by-election is held in the UK constituency of Feltham and Heston following the death of Labour's Alan Keen. ](/news/2011/12/15/a-by-election-is-held-in-the-uk-constituency-of-feltham-and-heston-following-the-death-of-labour-s-alan-keen.md)
-_Context: Alan Keen, Feltham and Heston, Feltham and Heston by-election, Labour Party_
+_Context: Alan Keen, Feltham and Heston, Feltham and Heston by-election, Labour_
 
 ### [Negotiators from the United States Senate and House of Representatives reach a budget agreement. ](/news/2011/12/15/negotiators-from-the-united-states-senate-and-house-of-representatives-reach-a-budget-agreement.md)
 Congressional negotiators signed off Thursday evening on a $1 trillion spending agreement for 2012 for federal agencies, barely 27 hours before a deadline that could have led to a government shutdown....

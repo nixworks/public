@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Two men are stabbed to death in a train in Portland, Oregon, after they attempt to intervene while a man shouts racial slurs at two Muslim teenage girls. ](/news/2017/05/26/two-men-are-stabbed-to-death-in-a-train-in-portland-oregon-after-they-attempt-to-intervene-while-a-man-shouts-racial-slurs-at-two-muslim-t.md) _Context: stabbed_
+1. [Two men are stabbed to death in a train in Portland, Oregon, after they attempt to intervene while a man shouts racial slurs at two teenage girls, one of them wearing a hijab. ](/news/2017/05/26/two-men-are-stabbed-to-death-in-a-train-in-portland-oregon-after-they-attempt-to-intervene-while-a-man-shouts-racial-slurs-at-two-teenage.md) _Context: stabbed_
 2. [Workers' Party of Belgium representative Raoul Hedebouw gets stabbed in the thigh, moments before holding a speech in Liege, Belgium. The presumed assailant is arrested.  ](/news/2017/05/1/workers-party-of-belgium-representative-raoul-hedebouw-gets-stabbed-in-the-thigh-moments-before-holding-a-speech-in-lia-ge-belgium-the-p.md) _Context: Belgium_
 3. [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md) _Context: Belgium_
 4. [A power outage plunges the Belgian capital of Brussels into darkness. ](/news/2017/02/9/a-power-outage-plunges-the-belgian-capital-of-brussels-into-darkness.md) _Context: Belgium_

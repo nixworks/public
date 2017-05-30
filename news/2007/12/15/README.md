@@ -1,7 +1,7 @@
 ## [2007-12-15](/news/2007/12/15/index.md)
 
 ### [ Sikhanyiso Ndlovu, the Information Minister of Zimbabwe, calls Chancellor Angela Merkel of Germany a "Nazi". Ndlovu responded to the German government's criticism of rising human rights abuses in Zimbabwe by telling Merkel to "shut up". ](/news/2007/12/15/sikhanyiso-ndlovu-the-information-minister-of-zimbabwe-calls-chancellor-angela-merkel-of-germany-a-nazi-ndlovu-responded-to-the-german.md)
-_Context: Angela Merkel's, German, Nazi, Sikhanyiso Ndlovu, West German chancellor, Zimbabwe, human rights abuses_
+_Context: Angela Merkel, German, Nazi, Sikhanyiso Ndlovu, West German chancellor, Zimbabwe, human rights abuses_
 
 ### [ Pitcher Andy Pettitte of the New York Yankees admits to using human growth hormone to recover from an elbow injury two days after the release of the Mitchell Report. ](/news/2007/12/15/pitcher-andy-pettitte-of-the-new-york-yankees-admits-to-using-human-growth-hormone-to-recover-from-an-elbow-injury-two-days-after-the-relea.md)
 _Context: Andy Pettitte, Mitchell Report, New York Yankees, elbow, human growth hormone, pitcher_

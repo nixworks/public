@@ -1,7 +1,7 @@
 ## [2008-03-18](/news/2008/03/18/index.md)
 
 ### [ In an address to the Israeli Knesset, German Chancellor Angela Merkel says "Germany will always stand by the Jewish state." ](/news/2008/03/18/in-an-address-to-the-israeli-knesset-german-chancellor-angela-merkel-says-germany-will-always-stand-by-the-jewish-state.md)
-_Context: Angela Merkel's, Chancellor, German, Israel, Jewish state, parliament in Israel_
+_Context: Angela Merkel, Chancellor, German, Israel, Jewish state, parliament in Israel_
 
 ### [ The United States Federal Reserve System cuts the federal funds rate by 75 basis points to 2.25%. ](/news/2008/03/18/the-united-states-federal-reserve-system-cuts-the-federal-funds-rate-by-75-basis-points-to-2-25.md)
 _Context: Federal Reserve System, United States, federal funds interest rate_

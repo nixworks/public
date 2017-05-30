@@ -49,7 +49,7 @@ _Context: Radovan Karadzic_
 _Context: Kim Dotcom, Megaupload, New Zealand, search warrants_
 
 ### [The BBC uncovers files showing that Raymond Mawby, a Conservative Minister during the 1960s, passed information to Czechoslovak agents in exchange for money. ](/news/2012/06/28/the-bbc-uncovers-files-showing-that-raymond-mawby-a-conservative-minister-during-the-1960s-passed-information-to-czechoslovak-agents-in-ex.md)
-_Context: BBC, Conservative Party, Czechoslovak, Raymond Mawby_
+_Context: BBC, Conservative, Czechoslovak, Raymond Mawby_
 
 ### [British Prime Minister David Cameron says the management of Barclays faces "serious questions" about its role in distorting key interest rates to rig international markets. ](/news/2012/06/28/british-prime-minister-david-cameron-says-the-management-of-barclays-faces-serious-questions-about-its-role-in-distorting-key-interest-rat.md)
 _Context: Barclays, David Cameron_
