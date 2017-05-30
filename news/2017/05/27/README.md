@@ -24,5 +24,8 @@ Threat level is reduced but Operation Temperer, which allows military to be depl
 ### [President of the Philippines Rodrigo Duterte tells soldiers fighting in Mindanao, where he proclaimed martial law earlier this week, that he will accept responsibility for abuses they commit, and jokes that "[i]f you had raped three, I will admit it, that's on me." ](/news/2017/05/27/president-of-the-philippines-rodrigo-duterte-tells-soldiers-fighting-in-mindanao-where-he-proclaimed-martial-law-earlier-this-week-that-he.md)
 Philippines President Rodrigo Duterte has sought to reassure soldiers who might be accused of committing abuses under martial law.
 
+### [ Police are searching for an driver who witnesses believe was driving aggressively around campers in Grays Harbor County, Washington, and deliberately backed over two campers while yelling racial slurs, killing Jimmy Kramer and injuring another friend from the Quinault Indian Nation. ](/news/2017/05/27/police-are-searching-for-an-driver-who-witnesses-believe-was-driving-aggressively-around-campers-in-grays-harbor-county-washington-and-de.md)
+Investigators are searching for the driver of a pickup who witnesses say intentionally ran down two Quinault tribal members at a campground, killing one and injuring the other.
+
 ## [Previous Day...](/news/2017/05/26/index.md)
 
