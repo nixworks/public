@@ -1,6 +1,6 @@
 ## [2017-05-30](/news/2017/05/30/index.md)
 
-### [ A car bomb explosion outside a popular ice cream parlor in central Baghdad kills 13 people and injures 24. ISIL claims responsibility for the attack. ](/news/2017/05/30/a-car-bomb-explosion-outside-a-popular-ice-cream-parlor-in-central-baghdad-kills-13-people-and-injures-24-isil-claims-responsibility-for-t.md)
+### [  A car bomb explosion outside a popular ice cream parlor in central Baghdad kills 13 people and injures 24. ISIL claims responsibility for the attack. ](/news/2017/05/30/a-car-bomb-explosion-outside-a-popular-ice-cream-parlor-in-central-baghdad-kills-13-people-and-injures-24-isil-claims-responsibility-for.md)
  BAGHDAD (AP) — A car bomb exploded outside a popular ice cream shop in central Baghdad just after midnight on Monday, killing 13 people and wounding 24, hospital and police offici
 
 ### [North Korea warns that it plans to send the United States a "bigger gift package." ](/news/2017/05/30/north-korea-warns-that-it-plans-to-send-the-united-states-a-bigger-gift-package.md)
