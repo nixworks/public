@@ -64,7 +64,7 @@ _Context: Herald Sun, New York Post, News Corporation, The Sun, The Wall Street 
 _Context: Indus River, Pakistan_
 
 ### [ The Slender-billed Vulture, one of the world's most endangered birds and said to be rarer than the Tiger, is twice successfully bred in Haryana and West Bengal. ](/news/2009/08/6/the-slender-billed-vulture-one-of-the-world-s-most-endangered-birds-and-said-to-be-rarer-than-the-tiger-is-twice-successfully-bred-in-har.md)
-_Context: Haryana, Slender-billed Vulture, Tiger, West Bengal_
+_Context: Haryana, Slender-billed Vulture, West Bengal, tiger_
 
 ## [Previous Day...](/news/2009/08/5/index.md)
 

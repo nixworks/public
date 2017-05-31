@@ -97,7 +97,7 @@ _Context: Benjamin Netanyahu, Chief Rabbinate of Israel, Israeli Prime Minister,
 _Context: Johannesburg, Krugersdorp, rhinoceros_
 
 ### [Golfer Louis Oosthuizen of South Africa wins the 139th Open Championship, played at the Old Course at St Andrews, Scotland. ](/news/2010/07/18/golfer-louis-oosthuizen-of-south-africa-wins-the-139th-open-championship-played-at-the-old-course-at-st-andrews-scotland.md)
-_Context: 139th, Louis Oosthuizen, Old Course at St Andrews, Open Championship, Scotland, South Africa, golf_
+_Context: 139th, Louis Oosthuizen, Old Course at St Andrews, Open Championship, Scotland, South Africa, golfer_
 
 ## [Previous Day...](/news/2010/07/17/index.md)
 

@@ -16,7 +16,7 @@ _Context: Austria, Josef Fritzl, life imprisonment_
 _Context: Andry Rajoelina, Madagascar, Parliament, President, parliament's dissolution, political crisis_
 
 ### [ Pope Benedict XVI leads a Roman Catholic Mass in Yaound, Cameroon. ](/news/2009/03/19/pope-benedict-xvi-leads-a-roman-catholic-mass-in-yaounde-cameroon.md)
-_Context: Benedict XVI, Cameroon, Mass, Pope, Roman Catholic Church, Yaounde_
+_Context: Cameroon, Mass, Pope, Pope Benedict XVI, Roman Catholic Church, Yaounde_
 
 ### [ Namibia declares a state of emergency after floods kill 92 people and render 25,000 homeless. ](/news/2009/03/19/namibia-declares-a-state-of-emergency-after-floods-kill-92-people-and-render-25-000-homeless.md)
 _Context: Namibia, floods, homeless people, state of emergency_

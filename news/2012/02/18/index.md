@@ -22,7 +22,7 @@ _Context: Dakar, Senegalese police, elected_
 The New Hope Baptist Church, where pop star Whitney Houston first sang and family and friends will gather on Saturday to pay her a final tribute, sits in a hardscrabble corner of Newark, New Jersey. Its well-maintained red-brick facade seems at odds with the dusty parking lot and derelict housing projects around it.
 
 ### [Roman Catholic Church:Pope Benedict XVI formally appoints 22 new Cardinals. ](/news/2012/02/18/roman-catholic-church-ppope-benedict-xvi-formally-appoints-22-new-cardinals.md)
-_Context: Benedict XVI, Cardinal, Roman Catholic Church_
+_Context: Cardinal, Pope Benedict XVI, Roman Catholic Church_
 
 ### [The Italian film ''Caesar Must Die'' wins the Golden Bear at the 62nd Berlin International Film Festival. ](/news/2012/02/18/the-italian-film-caesar-must-die-wins-the-golden-bear-at-the-62nd-berlin-international-film-festival.md)
 The Italian docudrama shows the staging of Shakespeare’s Julius Ceasar in a maximum security prison in Rome.

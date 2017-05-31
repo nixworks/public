@@ -13,7 +13,7 @@
 ### Related:
 
 1. [ US golfer Tiger Woods wins his second Open Championship title on the Old Course at St Andrews.](/news/2005/07/17/us-golfer-tiger-woods-wins-his-second-open-championship-title-on-the-old-course-at-st-andrews.md) _Context: Old Course at St Andrews, Open Championship_
-2. [Tiger Woods, a professional golfer, is arrested for driving under the influence. ](/news/2017/05/29/tiger-woods-a-professional-golfer-is-arrested-for-driving-under-the-influence.md) _Context: golf_
+2. [Tiger Woods, an American professional golfer, is arrested for driving under the influence due to mixing medications, no alcohol was detected in his system. ](/news/2017/05/29/tiger-woods-an-american-professional-golfer-is-arrested-for-driving-under-the-influence-due-to-mixing-medications-no-alcohol-was-detected.md) _Context: golfer_
 3. [At least 20 schoolchildren are killed after their minibus collides with a truck in Mpumalanga, South Africa. ](/news/2017/04/21/at-least-20-schoolchildren-are-killed-after-their-minibus-collides-with-a-truck-in-mpumalanga-south-africa.md) _Context: South Africa_
 4. [Scotland's First Minister Nicola Sturgeon announces she will seek a second referendum on Scottish independence from the United Kingdom. ](/news/2017/03/13/scotland-s-first-minister-nicola-sturgeon-announces-she-will-seek-a-second-referendum-on-scottish-independence-from-the-united-kingdom.md) _Context: Scotland_
 5. [At least nine people are killed in fires overnight in Cape Town, South Africa. ](/news/2017/03/11/at-least-nine-people-are-killed-in-fires-overnight-in-cape-town-south-africa.md) _Context: South Africa_

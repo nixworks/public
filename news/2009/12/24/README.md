@@ -1,7 +1,7 @@
 ## [2009-12-24](/news/2009/12/24/index.md)
 
 ### [ Pope Benedict XVI is knocked down by a woman during a procession before the Christmas Eve Mass at St. Peter's Basilica in the Vatican City. He is uninjured, but Roger Cardinal Etchegaray suffers a hip fracture. ](/news/2009/12/24/pope-benedict-xvi-is-knocked-down-by-a-woman-during-a-procession-before-the-christmas-eve-mass-at-st-peter-s-basilica-in-the-vatican-city.md)
-_Context: Benedict XVI, Christmas Eve, Mass, Roger Cardinal Etchegaray, Vatican City, hip fracture_
+_Context: Christmas Eve, Mass, Pope Benedict XVI, Roger Cardinal Etchegaray, Vatican City, hip fracture_
 
 ### [ At least 40 people are killed and many injured after a tour bus plunges into a ravine near Cuzco, Peru. ](/news/2009/12/24/at-least-40-people-are-killed-and-many-injured-after-a-tour-bus-plunges-into-a-ravine-near-cuzco-peru.md)
 A bus careened into a ravine in Peru Thursday, leaving at least 40 people dead and eight others injured, authorities said.

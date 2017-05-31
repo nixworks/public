@@ -7,7 +7,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Greece_
 
 ### [An internal plot among cardinals to kill Pope Benedict XVI is alleged in Italy. ](/news/2012/02/10/an-internal-plot-among-cardinals-to-kill-pope-benedict-xvi-is-alleged-in-italy.md)
-_Context: Benedict XVI, Cardinal, Italian_
+_Context: Cardinal, Italian, Pope Benedict XVI_
 
 ### [A protester is shot dead by security forces in Qatif, eastern Saudi Arabia, amid a demonstration calling for the release of Shia prisoners and democratic reforms. ](/news/2012/02/10/a-protester-is-shot-dead-by-security-forces-in-qatif-eastern-saudi-arabia-amid-a-demonstration-calling-for-the-release-of-shia-prisoners-a.md)
 A protester has been shot dead by security forces in the city of Qatif in eastern Saudi Arabia, activists say.

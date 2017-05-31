@@ -10,7 +10,7 @@ _Context: United States, mad cow disease_
 _Context: Bulgaria, Bulgarian Prime Minister, Elections in Bulgaria, Simeon Saxe-Coburg, Tsar_
 
 ### [ Pope Benedict XVI's new book contains material critical of the European Union's efforts that he characterizes as an "attempt to build a human community absolutely without God" and Western liberalization of abortion. ](/news/2005/06/25/pope-benedict-xvi-s-new-book-contains-material-critical-of-the-european-union-s-efforts-that-he-characterizes-as-an-attempt-to-build-a-hum.md)
-_Context: Benedict XVI, European Union, Pope, abortion_
+_Context: European Union, Pope, Pope Benedict XVI, abortion_
 
 ### [ Hong Kong's new leader, Donald Tsang, promises to rebuild the trust of the people in the government of the Chinese territory. ](/news/2005/06/25/hong-kong-s-new-leader-donald-tsang-promises-to-rebuild-the-trust-of-the-people-in-the-government-of-the-chinese-territory.md)
 _Context: Donald Tsang, Hong Kong, People's Republic of China_

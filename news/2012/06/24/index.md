@@ -28,7 +28,7 @@ Part of the roof of a shopping mall in Elliot Lake, Ont., has collapsed, apparen
 The iconic game show personality was admitted into Cedars-Sinai Medical Center on Saturday and is under observation.
 
 ### [Pope Benedict XVI chooses Fox News reporter and Opus Dei member Greg Burke to take a strategic communication role in the Vatican's most important government department, the secretariat of state. ](/news/2012/06/24/pope-benedict-xvi-chooses-fox-news-reporter-and-opus-dei-member-greg-burke-to-take-a-strategic-communication-role-in-the-vatican-s-most-impo.md)
-_Context: Benedict XVI, Fox News, Greg Burke, Opus Dei, secretariat of state_
+_Context: Fox News, Greg Burke, Opus Dei, Pope Benedict XVI, secretariat of state_
 
 ### [Antonis Samaras, the Prime Minister of Greece, is to miss a European Union summit as he recovers from an eye operation. ](/news/2012/06/24/antonis-samaras-the-prime-minister-of-greece-is-to-miss-a-european-union-summit-as-he-recovers-from-an-eye-operation.md)
 _Context: Antonis Samaras, European Union, Greek Prime Minister_

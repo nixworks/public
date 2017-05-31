@@ -43,7 +43,7 @@ _Context: North Korea, North Korea and weapons of mass destruction, People's Rep
 _Context: People's Republic of China, Xinjiang_
 
 ### [Thai police seize six tiger cubs at the house of a suspected weapons dealer. ](/news/2011/02/23/thai-police-seize-six-tiger-cubs-at-the-house-of-a-suspected-weapons-dealer.md)
-_Context: Thailand, Tiger_
+_Context: Thailand, tiger_
 
 ### [Three people are arrested in the United Kingdom in connection with an alleged attempt to blackmail Coleen Rooney, the wife of Manchester United F.C. star Wayne Rooney. ](/news/2011/02/23/three-people-are-arrested-in-the-united-kingdom-in-connection-with-an-alleged-attempt-to-blackmail-coleen-rooney-the-wife-of-manchester-uni.md)
 _Context: Coleen Rooney, Manchester United, United Kingdom, Wayne Rooney, blackmail_

@@ -25,7 +25,7 @@ _Context: BSE Sensex, Bombay Stock Exchange_
 _Context: Canada, Floyd Roland, Premier of the Northwest Territories_
 
 ### [ Pope Benedict XVI announces he will create twenty-three new members of the College of Cardinals in the consistory of November 24. ](/news/2007/10/17/pope-benedict-xvi-announces-he-will-create-twenty-three-new-members-of-the-college-of-cardinals-in-the-consistory-of-november-24.md)
-_Context: Benedict XVI, College of Cardinals, Consistory_
+_Context: College of Cardinals, Consistory, Pope Benedict XVI_
 
 ## [Previous Day...](/news/2007/10/16/index.md)
 

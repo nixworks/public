@@ -25,7 +25,7 @@ _Context: Romanian President, Traian Basescu, presidential impeachment referendu
 _Context: Diouncounda Traore, Mali_
 
 ### [Pope Benedict XVI appoints bishop Salvatore J. Cordileone ninth Metropolitan Archbishop of San Francisco ](/news/2012/07/27/pope-benedict-xvi-appoints-bishop-salvatore-j-cordileone-ninth-metropolitan-archbishop-of-san-francisco.md)
-_Context: Benedict XVI, Metropolitan Archbishop of San Francisco, Salvatore J. Cordileone_
+_Context: Metropolitan Archbishop of San Francisco, Pope Benedict XVI, Salvatore J. Cordileone_
 
 ## [Previous Day...](/news/2012/07/26/index.md)
 

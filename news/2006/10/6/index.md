@@ -11,7 +11,7 @@ _Context: Apex, Environmental Quality Industrial Services, North Carolina, state
 _Context: European Union, United States_
 
 ### [ The Roman Catholic Church's Theological Commission are reviewing the teaching of ''limbus infantium'' (limbo for infants who died before being baptised) and may recommend to Pope Benedict XVI that it be amended. ](/news/2006/10/6/the-roman-catholic-church-s-theological-commission-are-reviewing-the-teaching-of-limbus-infantium-limbo-for-infants-who-died-before-be.md)
-_Context: Benedict XVI, Roman Catholic Church, baptised, limbus infantium_
+_Context: Pope Benedict XVI, Roman Catholic Church, baptised, limbus infantium_
 
 ### [ The new Swedish Prime Minister, Fredrik Reinfeldt, presents his new cabinet. ](/news/2006/10/6/the-new-swedish-prime-minister-fredrik-reinfeldt-presents-his-new-cabinet.md)
 _Context: Cabinet of Fredrik Reinfeldt, Fredrik Reinfeldt, Sweden, prime minister_

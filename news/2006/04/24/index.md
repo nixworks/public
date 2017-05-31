@@ -16,7 +16,7 @@ _Context: Maoist, reinstated last week after a 4-year hiatus_
 _Context: 2006 Dahab bombings, Dahab, Egypt, Sinai_
 
 ### [ Pope Benedict XVI is reported to have agreed to a relaxation of rules for the use of condoms.  ](/news/2006/04/24/pope-benedict-xvi-is-reported-to-have-agreed-to-a-relaxation-of-rules-for-the-use-of-condoms.md)
-_Context: Benedict XVI, condom_
+_Context: Pope Benedict XVI, condom_
 
 ### [ Dubai International Finance Centre, owner of the Dubai stock exchange, announces that it has increased its equity stake in Euronext NV, which runs stock exchanges in four European capitals. There are rumors of an impending take-over bid. ](/news/2006/04/24/dubai-international-finance-centre-owner-of-the-dubai-stock-exchange-announces-that-it-has-increased-its-equity-stake-in-euronext-nv-whi.md)
 _Context: Dubai, Dubai International Finance Centre, Euronext NV, equity stake_

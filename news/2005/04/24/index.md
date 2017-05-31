@@ -16,7 +16,7 @@ _Context: Armenians, Ottoman-era, genocide of Armenians_
 From newly charted astronomical anomalies at the far reaches of the universe to the rise of nanotechnology, nobody covers science and the latest discoveries like Reuters.com.
 
 ### [ Pope Benedict XVI is formally installed as Pope of the Catholic Church in an inaugural mass. ](/news/2005/04/24/pope-benedict-xvi-is-formally-installed-as-pope-of-the-catholic-church-in-an-inaugural-mass.md)
-_Context: Benedict XVI, Catholic faithful, Mass, Pope, papal inauguration_
+_Context: Catholic faithful, Mass, Pope, Pope Benedict XVI, papal inauguration_
 
 ### [ Ousted president of Ecuador, Lucio Gutirrez, moves to exile in Brazil. ](/news/2005/04/24/ousted-president-of-ecuador-lucio-gutierrez-moves-to-exile-in-brazil.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

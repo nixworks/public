@@ -13,7 +13,7 @@ _Context: Ireland, Six Nations Championship, Wales, defeats, rugby union_
 Liberal National Party leader Lawrence Springborg has conceded defeat in the Queensland State Election.
 
 ### [ Two people are killed and eight injured during a stampede to see Pope Benedict XVI in Luanda, Angola. ](/news/2009/03/21/two-people-are-killed-and-eight-injured-during-a-stampede-to-see-pope-benedict-xvi-in-luanda-angola.md)
-_Context: Angola, Benedict XVI, Luanda, Pope, stampede_
+_Context: Angola, Luanda, Pope, Pope Benedict XVI, stampede_
 
 ### [ Venezuela's military seizes key airports and sea ports throughout the country. ](/news/2009/03/21/venezuela-s-military-seizes-key-airports-and-sea-ports-throughout-the-country.md)
 _Context: Venezuela, airport, military, port_

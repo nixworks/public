@@ -13,7 +13,7 @@ U.S. regulators on Thursday lifted a warning on tomatoes and repeated a warning 
 _Context: Gulf War, Iraq, Kuwait, ambassador_
 
 ### [ Pope Benedict XVI speaks to 150,000 pilgrims in Sydney for World Youth Day 2008. ](/news/2008/07/17/pope-benedict-xvi-speaks-to-150-000-pilgrims-in-sydney-for-world-youth-day-2008.md)
-_Context: Benedict XVI, Sydney, World Youth Day 2008, pilgrims_
+_Context: Pope Benedict XVI, Sydney, World Youth Day 2008, pilgrims_
 
 ### [ The Chinese National People's Congress holds a press conference and releases mid-year financial statistics on the nation's gross domestic product. ](/news/2008/07/17/the-chinese-national-people-s-congress-holds-a-press-conference-and-releases-mid-year-financial-statistics-on-the-nation-s-gross-domestic-p.md)
 _Context: GDP, People's Republic of China, parliament_

@@ -13,7 +13,7 @@ A Paris court rejected a bid to block the sale of two bronze sculptures claimed 
 _Context: Dow Jones Industrial Average, S&P 500_
 
 ### [ Pope Benedict XVI selects Archbishop Timothy Dolan to succeed Cardinal Edward Egan as New York's Archdiocese. ](/news/2009/02/23/pope-benedict-xvi-selects-archbishop-timothy-dolan-to-succeed-cardinal-edward-egan-as-new-york-s-archdiocese.md)
-_Context: Archbishop, Archdiocese, Benedict XVI, Cardinal, Edward Egan, New York, Pope, Timothy Dolan_
+_Context: Archbishop, Archdiocese, Cardinal, Edward Egan, New York, Pope, Pope Benedict XVI, Timothy Dolan_
 
 ### [ The death toll from recent bushfires in Victoria reaches 210 as they threaten Belgrave. ](/news/2009/02/23/the-death-toll-from-recent-bushfires-in-victoria-reaches-210-as-they-threaten-belgrave.md)
 Victoria&#039;s bushfire death toll has reached 210 as authorities warn of an extreme threat from new blazes in the state.

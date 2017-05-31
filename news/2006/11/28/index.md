@@ -22,7 +22,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Pope Benedict XVI arrives in Turkey at the start of a four day tour that has sparked protests. ](/news/2006/11/28/pope-benedict-xvi-arrives-in-turkey-at-the-start-of-a-four-day-tour-that-has-sparked-protests.md)
-_Context: Benedict XVI, Turkey_
+_Context: Pope Benedict XVI, Turkey_
 
 ### [ The Thai Government lifts martial law in 41 of the country's 76 provinces as recommended by coup leader Sonthi Boonyaratglin. ](/news/2006/11/28/the-thai-government-lifts-martial-law-in-41-of-the-country-s-76-provinces-as-recommended-by-coup-leader-sonthi-boonyaratglin.md)
 _Context: Sonthi Boonyaratglin, Thailand, coup, martial law_

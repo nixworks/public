@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Chen Guangcheng, Chinese_
 
 ### [The Vatican confirms that the butler to Pope Benedict XVI has been arrested for allegedly leaking confidential documents. ](/news/2012/05/26/the-vatican-confirms-that-the-butler-to-pope-benedict-xvi-has-been-arrested-for-allegedly-leaking-confidential-documents.md)
-_Context: Benedict XVI, Holy See_
+_Context: Holy See, Pope Benedict XVI_
 
 ### [The "Miami cannibal attack" on the MacArthur Causeway in Miami, Florida.](/news/2012/05/26/the-miami-cannibal-attack-on-the-macarthur-causeway-in-miami-florida.md)
 _Context: Miami cannibal attack_

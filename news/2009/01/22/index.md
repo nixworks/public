@@ -13,7 +13,7 @@ _Context: Barack Obama, Guantanamo Bay, Guantanamo Bay detention camp, U.S. Pres
 With sales of PCs falling, Microsoft said it would lay off 5 percent of its work force, and warned that technology spending could wane for years to come.
 
 ### [ Pope Benedict XVI will rescind the excommunications of four bishops consecrated in 1988 by French Archbishop Marcel Lefebvre. ](/news/2009/01/22/pope-benedict-xvi-will-rescind-the-excommunications-of-four-bishops-consecrated-in-1988-by-french-archbishop-marcel-lefebvre.md)
-_Context: 1988, Archbishop, Benedict XVI, French, Marcel Lefebvre, Pope, consecrated, excommunicate, four bishops_
+_Context: 1988, Archbishop, French, Marcel Lefebvre, Pope, Pope Benedict XVI, consecrated, excommunicate, four bishops_
 
 ### [ Iceland's National Police uses teargas against protesters for the first time since anti-NATO riots in 1949. ](/news/2009/01/22/iceland-s-national-police-uses-teargas-against-protesters-for-the-first-time-since-anti-nato-riots-in-1949.md)
 _Context: 1949, Iceland, NATO, National Police, protesters, riots, tear gas_

@@ -4,7 +4,7 @@
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Pope Benedict XVI speaks inside a synagogue at World Youth Day 2005 about the Judeo-Christian relationship. He also speaks with Protestant and Orthodox Christians about upcoming challenges within Christianity. ](/news/2005/08/19/pope-benedict-xvi-speaks-inside-a-synagogue-at-world-youth-day-2005-about-the-judeo-christian-relationship-he-also-speaks-with-protestant.md)
-_Context: Benedict XVI, Eastern Orthodox Church, Judeo-Christian, Protestantism, World Youth Day 2005, synagogue_
+_Context: Eastern Orthodox Church, Judeo-Christian, Pope Benedict XVI, Protestantism, World Youth Day 2005, synagogue_
 
 ### [ Conflict in Iraq: 3 members of the main Sunni Arab political party in Iraq are kidnapped and killed as they put up posters urging people to vote in the upcoming elections in Mosul. ](/news/2005/08/19/conflict-in-iraq-p-3-members-of-the-main-sunni-arab-political-party-in-iraq-are-kidnapped-and-killed-as-they-put-up-posters-urging-people-t.md)
 _Context: Arab, Conflict in Iraq, Iraq, Mosul, Sunni, political party_

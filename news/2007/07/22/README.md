@@ -13,7 +13,7 @@ _Context: Khurshid Kasuri, Pakistan, Taliban, United States, al-Qaeda_
 _Context: Bangkok, Thailand_
 
 ### [ Irish golfer Pdraig Harrington wins the British Open defeating Sergio Garca in a playoff. ](/news/2007/07/22/irish-golfer-padraig-harrington-wins-the-british-open-defeating-sergio-garcia-in-a-playoff.md)
-_Context: Ireland, Open Championship (British Open), Pdraig Harrington, Sergio Garca, golf_
+_Context: Ireland, Open Championship (British Open), Pdraig Harrington, Sergio Garca, golfer_
 
 ### [ A bus crash in the French Alps kills 27 Polish pilgrims. ](/news/2007/07/22/a-bus-crash-in-the-french-alps-kills-27-polish-pilgrims.md)
 _Context: French Alps_

@@ -7,7 +7,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Austria, German, Swiss, flood_
 
 ### [ Chinese railroad workers in Tibet laid rail tracks on the Tanggula Mountain Pass in the Tanggula Mountains in Tibet at 5,072 m (16,640 ft) above sea level, surpassing the altitude of the highest Peruvian railway by 255 m (837 ft).  This section of the Qinghai-Tibet Railway is now the highest railway in the world.  The railway also includes the highest railway station in the world at Lhasa, 5,068 m (16,627 ft) above sea level.  The railway is expected to open later in 2005. ](/news/2005/08/24/chinese-railroad-workers-in-tibet-laid-rail-tracks-on-the-tanggula-mountain-pass-in-the-tanggula-mountains-in-tibet-at-5-072-m-16-640-ft.md)
-_Context: 2005, Lhasa, People's Republic of China, Peru, Qinghai-Tibet Railway, Tanggula Mountain Pass, Tanggula Mountains, Tibet, Train station, above sea level, rail tracks_
+_Context: 2005, Lhasa, People's Republic of China, Peru, Qinghai-Tibet Railway, Tanggula Mountain Pass, Tanggula Mountains, Tibet, above sea level, rail tracks, train station_
 
 ### [ American televangelist and former Presidential candidate, Pat Robertson apologizes for calling for the assassination of Venezuelan President Hugo Chvez. ](/news/2005/08/24/american-televangelist-and-former-presidential-candidate-pat-robertson-apologizes-for-calling-for-the-assassination-of-venezuelan-presiden.md)
 _Context: Hugo Chvez, Pat Robertson, assassinated, televangelist_

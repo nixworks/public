@@ -25,7 +25,7 @@ _Context: Abuja_
 Colombian President Juan Manuel Santos condemns an attack by left-wing Farc rebels which has killed a police commander in Antioquia province.
 
 ### [Pope Benedict XVI launches a new Vatican website, ](/news/2011/06/29/pope-benedict-xvi-launches-a-new-vatican-website.md)
-_Context: Benedict XVI, Holy See_
+_Context: Holy See, Pope Benedict XVI_
 
 ### [Rick Gekoski, the chairman of the Man Booker International Prize judging panel, admits they were "animated by disagreement" over the controversial decision to give the 2011 award to Philip Roth amid fears that it would offend women after one of the female judges resigned in disgust. ](/news/2011/06/29/rick-gekoski-the-chairman-of-the-man-booker-international-prize-judging-panel-admits-they-were-animated-by-disagreement-over-the-controv.md)
 The Booker International Prize judging panel was &quot;animated by disagreement&quot; over the decision to recognise author Philip Roth, its chairman reveals.

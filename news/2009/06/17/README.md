@@ -1,7 +1,7 @@
 ## [2009-06-17](/news/2009/06/17/index.md)
 
 ### [ Pope Benedict XVI warns traditionalist Catholic organisation Society of St. Pius X (SSPX) not to go ahead with plans to ordain more than 30 priests on June 19 and 27, saying the move could incur disciplinary action. ](/news/2009/06/17/pope-benedict-xvi-warns-traditionalist-catholic-organisation-society-of-st-pius-x-sspx-not-to-go-ahead-with-plans-to-ordain-more-than-30.md)
-_Context: Benedict XVI, Society of St. Pius X, ordained, priests, traditionalist Catholic, warns_
+_Context: Pope Benedict XVI, Society of St. Pius X, ordained, priests, traditionalist Catholic, warns_
 
 ### [ Kitty Ussher resigns as Exchequer Secretary to the Treasury and announces that she will stand down as Member of Parliament for Burnley at the next general election following involvement in the United Kingdom Parliamentary expenses scandal. ](/news/2009/06/17/kitty-ussher-resigns-as-exchequer-secretary-to-the-treasury-and-announces-that-she-will-stand-down-as-member-of-parliament-for-burnley-at-t.md)
 _Context: Burnley, Exchequer Secretary to the Treasury, Kitty Ussher, MP, MPs expenses_

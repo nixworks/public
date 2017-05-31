@@ -16,7 +16,7 @@ _Context: Iraq, Kurdish, Turkey_
 _Context: Italian, Roberto Calvi_
 
 ### [ During a weekly audience with Pope Benedict XVI, a man leaps over metal barriers, attempting to jump into the popemobile. He was promptly wrestled to the ground (without the Pope's even noticing) and was then taken into the custody of Vatican police. ](/news/2007/06/6/during-a-weekly-audience-with-pope-benedict-xvi-a-man-leaps-over-metal-barriers-attempting-to-jump-into-the-popemobile-he-was-promptly-w.md)
-_Context: Benedict XVI, Vatican police, audience, popemobile_
+_Context: Pope Benedict XVI, Vatican police, audience, popemobile_
 
 ### [ Leaders of the G8 assemble in Rostock, Germany for the 33rd annual G8 summit to discuss primarily issues of climate change and international aid, but also U.S.-Russia tensions over an antimissile system in Europe. ](/news/2007/06/6/leaders-of-the-g8-assemble-in-rostock-germany-for-the-33rd-annual-g8-summit-to-discuss-primarily-issues-of-climate-change-and-internationa.md)
 _Context: 33rd G8 summit, G8 group of nations, German, Rostock, climate change, international aid_

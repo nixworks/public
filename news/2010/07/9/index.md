@@ -52,7 +52,7 @@ Wall Street closed out its best week in a year on Friday, snapping back from a l
 Washington announces the successful completion of its biggest spy swap with Russia since the Cold War.
 
 ### [Pope Benedict XVI appoints Archbishop Velasio de Paolis to lead the Legion of Christ following the previous head who had engaged in child sex abuse and a number of other crimes throughout his career. ](/news/2010/07/9/pope-benedict-xvi-appoints-archbishop-velasio-de-paolis-to-lead-the-legion-of-christ-following-the-previous-head-who-had-engaged-in-child-se.md)
-_Context: Archbishop, Benedict XVI, Legion of Christ, Velasio de Paolis, previous head_
+_Context: Archbishop, Legion of Christ, Pope Benedict XVI, Velasio de Paolis, previous head_
 
 ### [Chinese officials seize 64 tonnes of raw dairy materials contaminated with melamine. ](/news/2010/07/9/chinese-officials-seize-64-tonnes-of-raw-dairy-materials-contaminated-with-melamine.md)
 Chinese officials seize dairy material tainted with the toxic chemical melamine, a practice that killed six babies in 2008.

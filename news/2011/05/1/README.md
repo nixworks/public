@@ -28,7 +28,7 @@ Police arrest 100 protes­ters, vow to protec­t the minori­ty.
 Thousands of Holocaust survivors and Israelis Sunday mourned the 6 million Jews who died at the hands of the Nazis at memorial services throughout the country.
 
 ### [Pope John Paul II is beatified by Pope Benedict XVI in Saint Peter's Square, Rome. ](/news/2011/05/1/pope-john-paul-ii-is-beatified-by-pope-benedict-xvi-in-saint-peter-s-square-rome.md)
-_Context: Benedict XVI, Pope, Pope John Paul II, Rome, Saint Peter's Square, beatified_
+_Context: Pope, Pope Benedict XVI, Pope John Paul II, Rome, Saint Peter's Square, beatified_
 
 ### [Pope Benedict XVI also removes William Martin Morris as the Bishop of the Roman Catholic Diocese of Toowoomba in Australia for allegedly advocating the ordination of women and married priests. ](/news/2011/05/1/pope-benedict-xvi-also-removes-william-martin-morris-as-the-bishop-of-the-roman-catholic-diocese-of-toowoomba-in-australia-for-allegedly-adv.md)
 _Context: Australia, Roman Catholic Diocese of Toowoomba, William Martin Morris, bishops_

@@ -4,7 +4,7 @@
 _Context: Abu Dhabi, International Renewable Energy Agency, Masdar City_
 
 ### [ Scientific tests show bones housed in the Basilica of Saint Paul Outside the Walls in Rome are those of the apostle Saint Paul himself, according to Pope Benedict XVI. ](/news/2009/06/29/scientific-tests-show-bones-housed-in-the-basilica-of-saint-paul-outside-the-walls-in-rome-are-those-of-the-apostle-saint-paul-himself-acc.md)
-_Context: Basilica of Saint Paul Outside the Walls, Benedict XVI, Saint Paul, apostle, bone_
+_Context: Basilica of Saint Paul Outside the Walls, Pope Benedict XVI, Saint Paul, apostle, bone_
 
 ### [ Bernard Madoff is sentenced to 150 years in prison for investment fraud. ](/news/2009/06/29/bernard-madoff-is-sentenced-to-150-years-in-prison-for-investment-fraud.md)
 A federal judge sentenced Bernard L. Madoff to 150 years in prison for running a huge Ponzi scheme that devastated thousands of investors, calling his crimes “extraordinarily evil.”

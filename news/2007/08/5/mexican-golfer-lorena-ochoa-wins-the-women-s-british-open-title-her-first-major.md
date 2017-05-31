@@ -11,8 +11,8 @@ Lorena Ochoa led wire-to-wire in the Women’s British Open, sealing the win wit
 
 ### Related:
 
-1. [Lorena Ochoa, the world's number one golfer for the past three years, announces her retirement from the sport at the age of 28. ](/news/2010/04/20/lorena-ochoa-the-world-s-number-one-golfer-for-the-past-three-years-announces-her-retirement-from-the-sport-at-the-age-of-28.md) _Context: Lorena Ochoa, golf_
-2. [Tiger Woods, a professional golfer, is arrested for driving under the influence. ](/news/2017/05/29/tiger-woods-a-professional-golfer-is-arrested-for-driving-under-the-influence.md) _Context: golf_
+1. [Lorena Ochoa, the world's number one golfer for the past three years, announces her retirement from the sport at the age of 28. ](/news/2010/04/20/lorena-ochoa-the-world-s-number-one-golfer-for-the-past-three-years-announces-her-retirement-from-the-sport-at-the-age-of-28.md) _Context: Lorena Ochoa, golfer_
+2. [Tiger Woods, an American professional golfer, is arrested for driving under the influence due to mixing medications, no alcohol was detected in his system. ](/news/2017/05/29/tiger-woods-an-american-professional-golfer-is-arrested-for-driving-under-the-influence-due-to-mixing-medications-no-alcohol-was-detected.md) _Context: golfer_
 3. [An unknown gunman shoots and kills veteran journalist Javier Valdez Crdenas, who is noted for his investigative reporting on Mexico's war on drugs, in Culiacn, Sinaloa. ](/news/2017/05/15/an-unknown-gunman-shoots-and-kills-veteran-journalist-javier-valdez-cardenas-who-is-noted-for-his-investigative-reporting-on-mexico-s-war-o.md) _Context: Mexico_
 4. [Ciudad Juarez-based newspaper ''Norte'' closes its print edition, citing a lack of security in Mexico. ](/news/2017/04/2/ciudad-jua-rez-based-newspaper-norte-closes-its-print-edition-citing-a-lack-of-security-in-mexico.md) _Context: Mexico_
 5. [Mexico states that it will reject third-country deportees. ](/news/2017/02/24/mexico-states-that-it-will-reject-third-country-deportees.md) _Context: Mexico_

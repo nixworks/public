@@ -58,7 +58,7 @@ _Context: Air India Flight 182, Narita International Airport, perjury_
 Four people are killed and one seriously injured in a shooting at a German hospital and a blast in a nearby building, reports say.
 
 ### [The Metropolitan Police release six men arrested on suspicion of being terrorists during Pope Benedict XVI's visit to the United Kingdom without charge. ](/news/2010/09/19/the-metropolitan-police-release-six-men-arrested-on-suspicion-of-being-terrorists-during-pope-benedict-xvi-s-visit-to-the-united-kingdom-wit.md)
-_Context: Benedict XVI, Metropolitan Police, terrorism, visit of Pope Benedict XVI_
+_Context: Metropolitan Police, Pope Benedict XVI, terrorism, visit of Pope Benedict XVI_
 
 ### [Eight Mexican police officers from the state of Guerrero are found dead. ](/news/2010/09/19/eight-mexican-police-officers-from-the-state-of-guerrero-are-found-dead.md)
 _Context: Guerrero, Mexican_
@@ -76,7 +76,7 @@ _Context: Prime Minister of Thailand, Thaksin, United Front for Democracy Agains
 _Context: Minister for Basic Industry, President, Raul Castro, Yadira Garcia Vera_
 
 ### [Pope Benedict XVI beatifies Cardinal John Henry Newman in an outdoor mass in Birmingham, England, on the final day of his visit to the UK. ](/news/2010/09/19/pope-benedict-xvi-beatifies-cardinal-john-henry-newman-in-an-outdoor-mass-in-birmingham-england-on-the-final-day-of-his-visit-to-the-uk.md)
-_Context: Benedict XVI, Birmingham, Cardinal, England, John Henry Newman, beatified, visit of Pope Benedict XVI_
+_Context: Birmingham, Cardinal, England, John Henry Newman, Pope Benedict XVI, beatified, visit of Pope Benedict XVI_
 
 ### [Concerns are held about a cult-like group of Salvadoran migrants to the United States in Palmdale, California, who have gone missing after leaving a note that they were going to meet Jesus. They are later found alive in a park. ](/news/2010/09/19/concerns-are-held-about-a-cult-like-group-of-salvadoran-migrants-to-the-united-states-in-palmdale-california-who-have-gone-missing-after-l.md)
 _Context: California, El Salvador, Jesus, Palmdale, United States, cult_

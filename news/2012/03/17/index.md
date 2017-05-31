@@ -7,7 +7,7 @@ At least 27 people have been killed in two explosions in the Syrian capital Dama
 _Context: People's Republic of China, Tibet, self-immolated_
 
 ### [Pope Benedict XVI launches an internal investigation into leaks of confidential documents alleging corruption, financial mismanagement and power struggles among senior church officials. ](/news/2012/03/17/pope-benedict-xvi-launches-an-internal-investigation-into-leaks-of-confidential-documents-alleging-corruption-financial-mismanagement-and-p.md)
-_Context: Benedict XVI, corruption_
+_Context: Pope Benedict XVI, corruption_
 
 ### [Pope Shenouda III of Alexandria, the leader of Egypt's Coptic Christian community, dies of cancer at the age of 88. ](/news/2012/03/17/pope-shenouda-iii-of-alexandria-the-leader-of-egypt-s-coptic-christian-community-dies-of-cancer-at-the-age-of-88.md)
 _Context: Coptic Christian, Egypt, Pope Shenouda III of Alexandria, cancer_

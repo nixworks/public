@@ -13,7 +13,7 @@ _Context: Merck & Co. Inc., Vioxx, heart attack, jury, plaintiff_
 _Context: George W. Bush administration, Islamic world, Islamist, War in Iraq, cause clbre_
 
 ### [ Zambian archbishop Emmanuel Milingo is excommunicated from the Roman Catholic Church by Pope Benedict XVI. ](/news/2006/09/26/zambian-archbishop-emmanuel-milingo-is-excommunicated-from-the-roman-catholic-church-by-pope-benedict-xvi.md)
-_Context: Archbishop, Benedict XVI, Emmanuel Milingo, Roman Catholic Church, Zambia, excommunicate_
+_Context: Archbishop, Emmanuel Milingo, Pope Benedict XVI, Roman Catholic Church, Zambia, excommunicate_
 
 ### [ Former WorldCom chief Bernard Ebbers reports to a federal prison in the U.S. state of Louisiana to begin a 25-year prison term. ](/news/2006/09/26/former-worldcom-chief-bernard-ebbers-reports-to-a-federal-prison-in-the-u-s-state-of-louisiana-to-begin-a-25-year-prison-term.md)
 _Context: Bernard Ebbers, Louisiana, WorldCom, state_

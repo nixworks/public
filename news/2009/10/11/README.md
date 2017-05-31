@@ -19,7 +19,7 @@ An extensive search has been launched for a 79-year-old Irish priest who has bee
 _Context: Cambodia, Kratie Province, Mekong River, river ferry sinking_
 
 ### [ Pope Benedict XVI canonizes five new saints: Father Damien, Rafael Arnaiz Baron, Zygmunt Szczesny Felinski, Francisco Coll Guitart, and Jeanne Jugan. ](/news/2009/10/11/pope-benedict-xvi-canonizes-five-new-saints-father-damien-rafael-arna-iz-bara3n-zygmunt-szczasny-feliaski-francisco-coll-guitart-and.md)
-_Context: Benedict XVI, Father Damien, Francisco Coll Guitart, Jeanne Jugan, Pope, Rafael Arnaiz Baron, Zygmunt Szczesny Felinski, saints_
+_Context: Father Damien, Francisco Coll Guitart, Jeanne Jugan, Pope, Pope Benedict XVI, Rafael Arnaiz Baron, Zygmunt Szczesny Felinski, saints_
 
 ### [ A spate of car bombings kills 19 people and wounds dozens in the western Iraqi city of Ramadi, in Anbar province. ](/news/2009/10/11/a-spate-of-car-bombings-kills-19-people-and-wounds-dozens-in-the-western-iraqi-city-of-ramadi-in-anbar-province.md)
 A spate of car bombings killed 19 people Sunday in Iraq&#39;s western Anbar province, once a hotbed of insurgency that later become a showcase for restoring peace. 

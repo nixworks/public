@@ -7,7 +7,7 @@ _Context: Anne-Marie Lizin, Gholam-Ali Haddad-Adel, Herman De Croo, Iran, Majlis
 _Context: Galina Starovoitova, St Petersburg_
 
 ### [ Indian police in Delhi have arrested tiger poacher Sansar Chand](/news/2005/06/30/indian-police-in-delhi-have-arrested-tiger-poacher-sansar-chand.md)
-_Context: Delhi, Sansar Chand, Tiger, poachers_
+_Context: Delhi, Sansar Chand, poachers, tiger_
 
 ### [ In Lebanon, former Minister of Finance, Fouad Siniora is appointed prime minister.](/news/2005/06/30/in-lebanon-former-minister-of-finance-fouad-siniora-is-appointed-prime-minister.md)
 _Context: Fouad Siniora, Lebanon, Prime Minister_

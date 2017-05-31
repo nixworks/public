@@ -55,7 +55,7 @@ An ambitious plan to slice $3.7 trillion from the federal budget over the next d
 _Context: United States House of Representatives, United States Senate_
 
 ### [Pope Benedict XVI appoints Charles J. Chaput, the current Archbishop of Denver, as the head of the Roman Catholic Archdiocese of Philadelphia replacing Cardinal Justin Rigali. ](/news/2011/07/19/pope-benedict-xvi-appoints-charles-j-chaput-the-current-archbishop-of-denver-as-the-head-of-the-roman-catholic-archdiocese-of-philadelphi.md)
-_Context: Archbishop, Benedict XVI, Cardinal, Charles J. Chaput, Denver, Colorado, Justin Rigali, Roman Catholic Archdiocese of Philadelphia_
+_Context: Archbishop, Cardinal, Charles J. Chaput, Denver, Colorado, Justin Rigali, Pope Benedict XVI, Roman Catholic Archdiocese of Philadelphia_
 
 ### [Iran says it has installed faster nuclear centrifuges to enrich uranium. ](/news/2011/07/19/iran-says-it-has-installed-faster-nuclear-centrifuges-to-enrich-uranium.md)
 _Context: Iran, nuclear centrifuge, uranium enrichment_

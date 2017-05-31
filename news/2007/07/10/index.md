@@ -25,7 +25,7 @@ _Context: Cuba, October, Raul Castro, interim leader, local elections_
 _Context: Chester Turner, Los Angeles, California_
 
 ### [ Pope Benedict XVI approves a document issued by the Congregation for the Doctrine of the Faith which redeclares the doctrine of Extra Ecclesiam nulla salus, that only the Roman Catholic Church is the true Christian church, and no other Christian denomination has the "means of salvation." ](/news/2007/07/10/pope-benedict-xvi-approves-a-document-issued-by-the-congregation-for-the-doctrine-of-the-faith-which-redeclares-the-doctrine-of-extra-eccle.md)
-_Context: Benedict XVI, Christian, Congregation for the Doctrine of the Faith, Extra Ecclesiam nulla salus, Roman Catholic Church, salvation_
+_Context: Christian, Congregation for the Doctrine of the Faith, Extra Ecclesiam nulla salus, Pope Benedict XVI, Roman Catholic Church, salvation_
 
 ### [ Mortars hit the Green Zone in Baghdad. The Green Zone has been attacked at least 80 times since March, killing 26. ](/news/2007/07/10/mortars-hit-the-green-zone-in-baghdad-the-green-zone-has-been-attacked-at-least-80-times-since-march-killing-26.md)
 _Context: Baghdad, Green Zone_

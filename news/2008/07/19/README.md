@@ -13,7 +13,7 @@ _Context: Cambodia, Prasat Preah Vihear, Thailand, exchange gunfire_
 _Context: Kathmandu, Nepal, bus_
 
 ### [ Pope Benedict XVI apologizes to victims of abuse by Roman Catholic Church clergy in Australia during a mass in St Mary's Cathedral, Sydney for World Youth Day 2008. ](/news/2008/07/19/pope-benedict-xvi-apologizes-to-victims-of-abuse-by-roman-catholic-church-clergy-in-australia-during-a-mass-in-st-mary-s-cathedral-sydney.md)
-_Context: Australia, Benedict XVI, Mass, Roman Catholic Church, St Mary's Cathedral, Sydney, World Youth Day 2008_
+_Context: Australia, Mass, Pope Benedict XVI, Roman Catholic Church, St Mary's Cathedral, Sydney, World Youth Day 2008_
 
 ## [Previous Day...](/news/2008/07/18/index.md)
 

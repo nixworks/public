@@ -19,7 +19,7 @@ _Context: Iran, Saudi Arabia, Shiite_
 Saddam aide gets fourth death sentence for gassing of Kurds in Halabja in 1988.
 
 ### [Pope Benedict XVI makes a controversial visit to the Great Synagogue of Rome. ](/news/2010/01/17/pope-benedict-xvi-makes-a-controversial-visit-to-the-great-synagogue-of-rome.md)
-_Context: Benedict XVI, Great Synagogue, Rome, controversial_
+_Context: Great Synagogue, Pope Benedict XVI, Rome, controversial_
 
 ### [Ukrainian voters go to the polls to elect a new president. ](/news/2010/01/17/ukrainian-voters-go-to-the-polls-to-elect-a-new-president.md)
 _Context: Ukrainian President, Ukrainian presidential election, Ukrainians_

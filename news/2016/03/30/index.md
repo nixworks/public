@@ -40,7 +40,7 @@ Khaleda Zia and 27 opposition Bangladesh Nationalist Party members face charges 
 LARNACA, Cyprus - First the hijacker said the women could leave. All the children, too. Then the man in the suicide vest agreed that all Egyptians and others from Muslim backgrounds would be allowed to escape from the plane.
 
 ### [United States presidential election, 2016:The National Border Patrol Council (NBPC), which organizes some 16,500 border patrol agents, endorses Donald Trump for President of the United States, NBPC's first-ever endorsement in a presidential election. ](/news/2016/03/30/united-states-presidential-election-2016-pthe-national-border-patrol-council-nbpc-which-organizes-some-16-500-border-patrol-agents-endo.md)
-_Context: 2016 U.S. presidential election, Donald Trump, National Border Patrol Council_
+_Context: 2016 U.S. presidential election, National Border Patrol Council, Trump_
 
 ### [In Myanmar's capital Naypyidaw, Htin Kyaw is sworn in by House Speaker Mahn Win Khaing Than as the first civilian president in 54 years.  Htin Kyaw, a close aide to Aung San Suu Kyi, takes power from former general Thein Sein. ](/news/2016/03/30/in-myanmar-s-capital-naypyidaw-htin-kyaw-is-sworn-in-by-house-speaker-mahn-win-khaing-than-as-the-first-civilian-president-in-54-years-ht.md)
 _Context: Aung San Suu Kyi, Htin Kyaw, Mahn Win Khaing Than, Myanmar, Myanmar general election, 2015, Naypyidaw, Thein Sein_

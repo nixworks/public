@@ -40,7 +40,7 @@ At least four Kenyan police officers, deployed to keep the peace in a tense pres
 Venezuelan President Hugo Chavez died on Tuesday after a two-year battle with cancer, ending 14 years of tumultuous rule that made the socialist leader a hero for the poor but a hate figure to his opponents.
 
 ### [Papal conclave, 2013: More than 100 Roman Catholic cardinals meet in Rome to start the process of selecting a successor to Pope Benedict XVI. ](/news/2013/03/4/papal-conclave-2013-more-than-100-roman-catholic-cardinals-meet-in-rome-to-start-the-process-of-selecting-a-successor-to-pope-benedict-xvi.md)
-_Context: Benedict XVI, Cardinal, Papal conclave, 2013, Roman Catholic, Rome_
+_Context: Cardinal, Papal conclave, 2013, Pope Benedict XVI, Roman Catholic, Rome_
 
 ### [A newly observed near-Earth asteroid 2013 EC passes Earth within the orbit of the Moon. ](/news/2013/03/4/a-newly-observed-near-earth-asteroid-2013-ec-passes-earth-within-the-orbit-of-the-moon.md)
 A newly found asteroid will pass just inside the orbit of the Moon, with its closest approach on March 4, 2013 at 07:35 UTC. Named 2013 EC, the asteroid is

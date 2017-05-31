@@ -58,7 +58,7 @@ The faction of Anonymous that launched the anti-Scientology movement Chanology a
 Charles Ble Goude, the notorious &#039;Street General&#039; of Ivory Coast&#039;s president Laurent Gbagbo, has called off an appeal to launch an assault on the Abidjan hotel where Alassane Ouattara is besieged.
 
 ### [Hundreds of Coptic Christians protest in Alexandria and Cairo and shout slogans against Hosni Mubarak's rule following the church bombing, where some people held mass. Egyptian media warns of civil war and increasing sectarian violence between Christians and Muslims, and Pope Benedict XVI publicly condemns the bombing. ](/news/2011/01/2/hundreds-of-coptic-christians-protest-in-alexandria-and-cairo-and-shout-slogans-against-hosni-mubarak-s-rule-following-the-church-bombing-w.md)
-_Context: Alexandria, Benedict XVI, Cairo, Christians, Coptic Church, Hosni Mubarak, New Year's Day church bombing, civil war, mass, sectarian strife_
+_Context: Alexandria, Cairo, Christians, Coptic Church, Hosni Mubarak, New Year's Day church bombing, Pope Benedict XVI, civil war, mass, sectarian strife_
 
 ## [Previous Day...](/news/2011/01/1/index.md)
 

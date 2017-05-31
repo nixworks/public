@@ -34,7 +34,7 @@ _Context: Dutchbat, Netherlands, Srebrenica massacre, United Nations_
 _Context: Banjara, Gujjar, Other Backward Class, Rabari, Rajasthan, reservations_
 
 ### [ American golfer Tiger Woods will miss the rest of the golf season to have additional surgery on his left knee. ](/news/2008/06/18/american-golfer-tiger-woods-will-miss-the-rest-of-the-golf-season-to-have-additional-surgery-on-his-left-knee.md)
-_Context: PGA Tour, Tiger Woods, United States, golf, knee, surgery_
+_Context: PGA Tour, Tiger Woods, United States, golfer, knee, surgery_
 
 ### [ Romanian villagers vote to re-elect a dead man as their mayor, to prevent his living rival winning. ](/news/2008/06/18/romanian-villagers-vote-to-re-elect-a-dead-man-as-their-mayor-to-prevent-his-living-rival-winning.md)
 _Context: Romania, mayor_

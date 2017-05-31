@@ -25,7 +25,7 @@ _Context: Aurora, Isabela, Philippine Sea, Philippines, Typhoon Mitag, landfall_
 _Context: Garry Kasparov, Moscow, Russia, The Other Russia, opposition leader_
 
 ### [ Pope Benedict XVI creates 23 new cardinals in a ceremony in St. Peter's Basilica in the Vatican City. ](/news/2007/11/24/pope-benedict-xvi-creates-23-new-cardinals-in-a-ceremony-in-st-peter-s-basilica-in-the-vatican-city.md)
-_Context: Benedict XVI, Cardinal, Pope, Vatican, Vatican City_
+_Context: Cardinal, Pope, Pope Benedict XVI, Vatican, Vatican City_
 
 ### [ At least six people, most of them children, are killed by a suicide bomber in Paghman, Afghanistan. ](/news/2007/11/24/at-least-six-people-most-of-them-children-are-killed-by-a-suicide-bomber-in-paghman-afghanistan.md)
 _Context: Afghanistan, Paghman, suicide bomber_

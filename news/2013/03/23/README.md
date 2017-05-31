@@ -43,7 +43,7 @@ Omar al-Bashir, Sudan&#039;s president and an indicted war criminal, said the pe
 Senate Democrats neared approval of their first budget proposal in four years on Friday, calling for almost $1 trillion in tax increases over the coming decade while sheltering safety net programs targeted by House Republicans. The Democrats also would reverse automatic spending cuts that are beginning to strike both the Pentagon and domestic programs.
 
 ### [Newly elected Pope Francis meets his predecessor, Pope Emeritus Benedict XVI for lunch at the Papal Palace of Castel Gandolfo, the first time the two are meeting since the change of guard. ](/news/2013/03/23/newly-elected-pope-francis-meets-his-predecessor-pope-emeritus-benedict-xvi-for-lunch-at-the-papal-palace-of-castel-gandolfo-the-first-tim.md)
-_Context: Benedict XVI, Papal Palace of Castel Gandolfo, Pope Francis_
+_Context: Papal Palace of Castel Gandolfo, Pope Benedict XVI, Pope Francis_
 
 ## [Previous Day...](/news/2013/03/22/index.md)
 

@@ -10,7 +10,7 @@ _Context: Austrian universities, Grassroots, Graz, Linz, Vienna, education, squa
 Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much more
 
 ### [ Pope Benedict XVI appoints Cardinal Peter Turkson of Cape Coast, Ghana, to serve as the new head of the Pontifical Council for Justice and Peace. ](/news/2009/10/27/pope-benedict-xvi-appoints-cardinal-peter-turkson-of-cape-coast-ghana-to-serve-as-the-new-head-of-the-pontifical-council-for-justice-and.md)
-_Context: Benedict XVI, Cape Coast, Cardinal, Ghana, Peter Turkson_
+_Context: Cape Coast, Cardinal, Ghana, Peter Turkson, Pope Benedict XVI_
 
 ### [ NASA announces a delay in the launch of the Ares I-X test rocket, developed to replace the space shuttle, due to poor weather conditions. ](/news/2009/10/27/nasa-announces-a-delay-in-the-launch-of-the-ares-i-x-test-rocket-developed-to-replace-the-space-shuttle-due-to-poor-weather-conditions.md)
 _Context: Ares I-X, NASA, Space Shuttle_

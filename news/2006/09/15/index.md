@@ -4,7 +4,7 @@
 _Context: Government of Uzbekistan, Iranian government, U.S. State Department, government, government, government, government, religious freedom_
 
 ### [ Pope Benedict XVI Islam controversy: Pope Benedict XVI is criticized throughout the Islamic world for comments he made on September 12, quoting the Byzantine emperor Manuel II Palaiologos (1391-1425) regarding Muhammad and Islam. Street protests take place in parts of South Asia. ](/news/2006/09/15/pope-benedict-xvi-islam-controversy-pope-benedict-xvi-is-criticized-throughout-the-islamic-world-for-comments-he-made-on-september-12-quo.md)
-_Context: Benedict XVI, Byzantine, Islam, Islamic world, Manuel II Palaiologos, Muhammad, September 12, South Asia, controversial speech_
+_Context: Byzantine, Islam, Islamic world, Manuel II Palaiologos, Muhammad, Pope Benedict XVI, September 12, South Asia, controversial speech_
 
 ### [ Taliban insurgency: The Afghan security forces have retaken a district headquarters in the western Farah province after a short Taliban occupation. ](/news/2006/09/15/taliban-insurgency-the-afghan-security-forces-have-retaken-a-district-headquarters-in-the-western-farah-province-after-a-short-taliban-occ.md)
 _Context: Farah Province, Taliban, Taliban insurgency_

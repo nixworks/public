@@ -43,7 +43,7 @@ Afghan officials hail a parliamentary vote as a success despite low turnout, att
 _Context: National Council of the Slovak Republic, Slovakia's, a referendum_
 
 ### [Pope Benedict XVI's visit to the United Kingdom:Pope Benedict XVI apologizes to the victims of sexual abuse within the Roman Catholic Church during his visit to Britain. ](/news/2010/09/18/pope-benedict-xvi-s-visit-to-the-united-kingdom-ppope-benedict-xvi-apologizes-to-the-victims-of-sexual-abuse-within-the-roman-catholic-churc.md)
-_Context:  within the church, Benedict XVI, Roman Catholic Church, visit of Pope Benedict XVI_
+_Context:  within the church, Pope Benedict XVI, Roman Catholic Church, visit of Pope Benedict XVI_
 
 ### [A United Nations envoy arrives in Guinea to discuss the suspension of the presidential election. ](/news/2010/09/18/a-united-nations-envoy-arrives-in-guinea-to-discuss-the-suspension-of-the-presidential-election.md)
 _Context: Guinea, November's presidential poll, United Nations_

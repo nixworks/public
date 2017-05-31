@@ -55,7 +55,7 @@ John Dalli has resigned from the European Commission, the Commission announced i
 Final reading of bill to dissolve Knesset passes with 100 in favor, none opposed; sets election for January 22, 2013.
 
 ### [The Vatican announces Pope Benedict XVI will send a delegation to Damascus to "express his brotherly solidarity with the entire population". ](/news/2012/10/16/the-vatican-announces-pope-benedict-xvi-will-send-a-delegation-to-damascus-to-express-his-brotherly-solidarity-with-the-entire-population.md)
-_Context: Benedict XVI, Damascus, Holy See_
+_Context: Damascus, Holy See, Pope Benedict XVI_
 
 ## [Previous Day...](/news/2012/10/15/index.md)
 

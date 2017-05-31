@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Tiger Woods, a professional golfer, is arrested for driving under the influence. ](/news/2017/05/29/tiger-woods-a-professional-golfer-is-arrested-for-driving-under-the-influence.md) _Context: Tiger Woods_
+1. [Tiger Woods, an American professional golfer, is arrested for driving under the influence due to mixing medications, no alcohol was detected in his system. ](/news/2017/05/29/tiger-woods-an-american-professional-golfer-is-arrested-for-driving-under-the-influence-due-to-mixing-medications-no-alcohol-was-detected.md) _Context: Tiger Woods_
 2. [Tiger Woods announces he will take more time off from golf after finishing fourth in the 2010 Masters Tournament. ](/news/2010/04/12/tiger-woods-announces-he-will-take-more-time-off-from-golf-after-finishing-fourth-in-the-2010-masters-tournament.md) _Context: Tiger Woods_
 3. [Drinks firm Gatorade ends its endorsement deal with golfer Tiger Woods after his string of extra-marital affairs. ](/news/2010/02/27/drinks-firm-gatorade-ends-its-endorsement-deal-with-golfer-tiger-woods-after-his-string-of-extra-marital-affairs.md) _Context: Tiger Woods_
 4. [ CNN issues an apology to ''The Irish Times'' after accusing the newspaper of publishing fake nude photographs of the world's number one golfer Tiger Woods. CNN also alleged ''The Irish Times'' had paid damages as a result. ](/news/2009/12/5/cnn-issues-an-apology-to-the-irish-times-after-accusing-the-newspaper-of-publishing-fake-nude-photographs-of-the-world-s-number-one-gol.md) _Context: Tiger Woods_

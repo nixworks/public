@@ -10,7 +10,7 @@ _Context: Pirate, Seabourn Cruise Line, Somalia, The Seabourn Spirit, cruise shi
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Pope Benedict XVI prepares to enact new rules restricting homosexual men from entering the seminary, claiming that the action will help to curb the Roman Catholic Church sex abuse scandal. In response, Gene Robinson, the first openly gay U.S. ordained Episcopalian bishop, calls it "an act of violence that needs to be confronted." ](/news/2005/11/5/pope-benedict-xvi-prepares-to-enact-new-rules-restricting-homosexual-men-from-entering-the-seminary-claiming-that-the-action-will-help-to.md)
-_Context: Anglican, Benedict XVI, Gene Robinson, Roman Catholic Church sex abuse scandal, U.S., homosexuality_
+_Context: Anglican, Gene Robinson, Pope Benedict XVI, Roman Catholic Church sex abuse scandal, U.S., homosexuality_
 
 ### [ The final episode of ''The Red Green Show'' aired, ending at exactly 300 episodes at the end of season 15.](/news/2005/11/5/the-final-episode-of-the-red-green-show-aired-ending-at-exactly-300-episodes-at-the-end-of-season-15.md)
 _Context: The Red Green Show_

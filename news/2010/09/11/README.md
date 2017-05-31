@@ -58,7 +58,7 @@ North Korea has proposed to the South resuming a programme of reunions for famil
 _Context: Japan, Jordan, nuclear power_
 
 ### [Sex abuse campaigners meet at a conference in Islington, North London, to call for "action not words" from Pope Benedict XVI ahead of his visit to the UK. ](/news/2010/09/11/sex-abuse-campaigners-meet-at-a-conference-in-islington-north-london-to-call-for-action-not-words-from-pope-benedict-xvi-ahead-of-his-vi.md)
-_Context: Benedict XVI, Islington, North London_
+_Context: Islington, North London, Pope Benedict XVI_
 
 ### [9 Serb paramilitaries are indicted over the deaths of 43 ethnic Albanians in May 1999. ](/news/2010/09/11/9-serb-paramilitaries-are-indicted-over-the-deaths-of-43-ethnic-albanians-in-may-1999.md)
 Belgrade charges former paramilitaries over killing of at least 43 ethnic Albanians in village of Cuska in May 1999.

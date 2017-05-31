@@ -4,7 +4,7 @@
 _Context: Barack Obama, Jewish American Heritage Month, U.S. President, United States_
 
 ### [ Pope Benedict XVI advocates the creation of a Palestinian state. ](/news/2009/05/13/pope-benedict-xvi-advocates-the-creation-of-a-palestinian-state.md)
-_Context: Benedict XVI, Palestinian, Palestinian state, Pope, resume negotiations_
+_Context: Palestinian, Palestinian state, Pope, Pope Benedict XVI, resume negotiations_
 
 ### [ The European Commission fines Intel Corporation EUR1.06 billion for anti-competitive practices. ](/news/2009/05/13/the-european-commission-fines-intel-corporation-a-1-06-billion-for-anti-competitive-practices.md)
 _Context: European Commission, Intel Corporation, anti-competitive practices, euro, fine_

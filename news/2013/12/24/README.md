@@ -13,7 +13,7 @@ The deaths of an Israeli laborer and a Palestinian toddler were the latest in a 
 _Context: Christmas, Communist Party, Davao del Norte, New People's Army, Panabo_
 
 ### [Pope Francis visits Pope Emeritus Benedict XVI before celebrating his first Christmas Mass. ](/news/2013/12/24/pope-francis-visits-pope-emeritus-benedict-xvi-before-celebrating-his-first-christmas-mass.md)
-_Context: Benedict XVI, Christmas, Pope Francis_
+_Context: Christmas, Pope Benedict XVI, Pope Francis_
 
 ### [American Express is ordered to pay US$75.7 million in restitution and fines to customers and federal regulators over billing people for services they never received. ](/news/2013/12/24/american-express-is-ordered-to-pay-us-75-7-million-in-restitution-and-fines-to-customers-and-federal-regulators-over-billing-people-for-serv.md)
 _Context: American Express_

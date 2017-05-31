@@ -13,7 +13,7 @@ After another feverish day in this country’s amazing bull run, share prices in
 _Context: Iran, Mohammad Baqer Qalibaf, Tehran, mayor_
 
 ### [ Pope Benedict XVI arrives in Brazil on his first visit to Latin America to reaffirm Catholicism in the region. ](/news/2007/05/9/pope-benedict-xvi-arrives-in-brazil-on-his-first-visit-to-latin-america-to-reaffirm-catholicism-in-the-region.md)
-_Context: Benedict XVI, Brazil, Catholic faithful, Latin America_
+_Context: Brazil, Catholic faithful, Latin America, Pope Benedict XVI_
 
 ### [ The first named storm of the 2007 Atlantic hurricane season, Subtropical Storm Andrea, forms  off the southeastern United States. ](/news/2007/05/9/the-first-named-storm-of-the-2007-atlantic-hurricane-season-subtropical-storm-andrea-forms-off-the-southeastern-united-states.md)
 _Context: 2007 Atlantic hurricane season, Southeastern United States, Subtropical Storm Andrea_

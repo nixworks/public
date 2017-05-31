@@ -4,7 +4,7 @@
 _Context: North Korea, South Korea, defectors, defense ministry_
 
 ### [A court in the Vatican finds Pope Benedict XVI's former butler Paolo Gabriele guilty of theft for stealing and leaking confidential documents and sentences Gabriele to 18 months' imprisonment. ](/news/2012/10/6/a-court-in-the-vatican-finds-pope-benedict-xvi-s-former-butler-paolo-gabriele-guilty-of-theft-for-stealing-and-leaking-confidential-document.md)
-_Context: Benedict XVI, Vatican City, finds_
+_Context: Pope Benedict XVI, Vatican City, finds_
 
 ### [A 46-year-old man is charged with the murder of April Jones, who disappeared near her home in Machynlleth, Wales, on October 1. ](/news/2012/10/6/a-46-year-old-man-is-charged-with-the-murder-of-april-jones-who-disappeared-near-her-home-in-machynlleth-wales-on-october-1.md)
 A man is charged with the murder of missing five-year-old April Jones, who has been not been seen since Monday evening.

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Tiger Woods, a professional golfer, is arrested for driving under the influence. ](/news/2017/05/29/tiger-woods-a-professional-golfer-is-arrested-for-driving-under-the-influence.md) _Context: Tiger Woods_
+1. [Tiger Woods, an American professional golfer, is arrested for driving under the influence due to mixing medications, no alcohol was detected in his system. ](/news/2017/05/29/tiger-woods-an-american-professional-golfer-is-arrested-for-driving-under-the-influence-due-to-mixing-medications-no-alcohol-was-detected.md) _Context: Tiger Woods_
 2. [A volunteer police officer is charged with manslaughter in the shooting death of Eric Harris, an unarmed man who was shot while lying on his back in Tulsa, Oklahoma. ](/news/2015/04/13/a-volunteer-police-officer-is-charged-with-manslaughter-in-the-shooting-death-of-eric-harris-an-unarmed-man-who-was-shot-while-lying-on-his.md) _Context: Tulsa, Oklahoma_
 3. [Tornadoes hit the American city of Tulsa and the surrounding region of eastern Oklahoma leaving one person dead and several others injured. ](/news/2015/03/25/tornadoes-hit-the-american-city-of-tulsa-and-the-surrounding-region-of-eastern-oklahoma-leaving-one-person-dead-and-several-others-injured.md) _Context: Tulsa, Oklahoma_
 4. [Five people are injured during a shooting at a Hmong New Year's celebration in Tulsa, Oklahoma, U.S. Two men, 19 and 21 years old, are arrested. ](/news/2013/10/13/five-people-are-injured-during-a-shooting-at-a-hmong-new-year-s-celebration-in-tulsa-oklahoma-u-s-two-men-19-and-21-years-old-are-arres.md) _Context: Tulsa, Oklahoma_

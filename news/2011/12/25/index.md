@@ -10,7 +10,7 @@ _Context: Boko Haram, Nigeria, series of attacks_
 Opposition fears government is trying to crush uprising before Arab League observers visit worst-hit areas.
 
 ### [Pope Benedict XVI delivers the annual Christmas message at Saint Peter's Square in Vatican City. ](/news/2011/12/25/pope-benedict-xvi-delivers-the-annual-christmas-message-at-saint-peter-s-square-in-vatican-city.md)
-_Context: Benedict XVI, Christmas, Saint Peter's Square, Vatican City_
+_Context: Christmas, Pope Benedict XVI, Saint Peter's Square, Vatican City_
 
 ### [At least 38 migrants from Haiti are found dead after their boat sank off the east coast of Cuba. ](/news/2011/12/25/at-least-38-migrants-from-haiti-are-found-dead-after-their-boat-sank-off-the-east-coast-of-cuba.md)
 At least 38 migrants, including 17 women, reportedly found dead after boat sinks off the Cuban coast.

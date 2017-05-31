@@ -16,7 +16,7 @@ _Context: Angela Merkel, CSU, Chancellor, Christian Democratic Union, German fed
 _Context: Afghanistan, Amnesty International, Guantnamo Bay detainment camp, Human rights, Iraq_
 
 ### [ Pope Benedict XVI says he wants to heal the rift with the Orthodox Church during his papacy. He spoke to hundreds-of-thousands of people attending a mass in the southern Italian city of Bari during his first pilgrimage away from the Vatican since he was elected less than two months ago. ](/news/2005/05/30/pope-benedict-xvi-says-he-wants-to-heal-the-rift-with-the-orthodox-church-during-his-papacy-he-spoke-to-hundreds-of-thousands-of-people-at.md)
-_Context: Bari, Benedict XVI, Orthodox Church, Vatican City_
+_Context: Bari, Orthodox Church, Pope Benedict XVI, Vatican City_
 
 ### [ Lebanese general election, 2005: Preliminary results indicate that political alliance of Saad Hariri, son of killed Rafiq Hariri, wins in Beirut parliamentary elections, despite of the low turnout ](/news/2005/05/30/lebanese-general-election-2005-p-preliminary-results-indicate-that-political-alliance-of-saad-hariri-son-of-killed-rafiq-hariri-wins-in.md)
 Get the latest breaking news and top news headlines at Reuters.com

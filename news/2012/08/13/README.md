@@ -20,7 +20,7 @@ The number of people killed in twin earthquakes in Iran at the weekend has risen
 
 ### [Police involved shooting in College Station, Texas results in line of duty death of Constable Brian Bachmann; gunman, as well as one civilian are also killed](/news/2012/08/13/police-involved-shooting-in-college-station-texas-results-in-line-of-duty-death-of-constable-brian-bachmann-gunman-as-well-as-one-civilia.md)
 ### [The Vatican orders Pope Benedict XVI's former butler to stand trial for his alleged involvement in leaking allegations of corruption in the Holy See. ](/news/2012/08/13/the-vatican-orders-pope-benedict-xvi-s-former-butler-to-stand-trial-for-his-alleged-involvement-in-leaking-allegations-of-corruption-in-the.md)
-_Context: Benedict XVI, Holy See_
+_Context: Holy See, Pope Benedict XVI_
 
 ### [Two Egyptian journalists, critics of President Mohammed Mursi, are to be put on trial for their alleged incitement to murder Mursi and lead sectarian discord. ](/news/2012/08/13/two-egyptian-journalists-critics-of-president-mohammed-mursi-are-to-be-put-on-trial-for-their-alleged-incitement-to-murder-mursi-and-lead.md)
 Two leading Egyptian journalists will go on trial accused of incitement to murder President Mursi and sowing sectarian discord, prosecutors say.

@@ -1,7 +1,7 @@
 ## [2007-01-7](/news/2007/01/7/index.md)
 
 ### [ Newly appointed Archbishop Stanislaw Wojciech Wielgus, of Warsaw resigns after Friday's allegations that he collaborated with the Polish communist government's secret police. He was due to be officially appointed by Pope Benedict XVI at 10:00 GMT, and announced his decision only one hour before. ](/news/2007/01/7/newly-appointed-archbishop-stanisaaw-wojciech-wielgus-of-warsaw-resigns-after-friday-s-allegations-that-he-collaborated-with-the-polish-c.md)
-_Context: Archbishop Stanislaw Wojciech Wielgus, Benedict XVI, GMT, Polish communist government's secret police, Pope, Warsaw_
+_Context: Archbishop Stanislaw Wojciech Wielgus, GMT, Polish communist government's secret police, Pope, Pope Benedict XVI, Warsaw_
 
 ### [ At least 17 prisoners are killed in riots in a maximum security jail in Santa Ana, El Salvador, after convicted members of the Mara 18 gang fight with a security guard, leading to trouble throughout the jail. ](/news/2007/01/7/at-least-17-prisoners-are-killed-in-riots-in-a-maximum-security-jail-in-santa-ana-el-salvador-after-convicted-members-of-the-mara-18-gang.md)
 _Context: El Salvador, Mara 18 gang, Santa Ana, jail, prison_

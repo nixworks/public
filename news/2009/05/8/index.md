@@ -22,7 +22,7 @@ _Context: Pakistan, Swat, Pakistan, Taliban, War in North-West Pakistan, evacuat
 _Context: Guinea, Siguiri, cave-in, disappear, gold mine, kills_
 
 ### [ Pope Benedict XVI begins his tour of Jordan, Israel, and the Palestinian territories. ](/news/2009/05/8/pope-benedict-xvi-begins-his-tour-of-jordan-israel-and-the-palestinian-territories.md)
-_Context: Benedict XVI, Israel, Jordan, Palestinian, Pope, tour_
+_Context: Israel, Jordan, Palestinian, Pope, Pope Benedict XVI, tour_
 
 ## [Previous Day...](/news/2009/05/7/index.md)
 

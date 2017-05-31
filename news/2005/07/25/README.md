@@ -1,7 +1,7 @@
 ## [2005-07-25](/news/2005/07/25/index.md)
 
 ### [ Israel has summoned the ambassador from the Vatican to explain why the Pope did not condemn Palestinian militant attacks on Israelis, in a statement on Sunday, July 24, Pope Benedict XVI said that he deplored attacks in "countries including Egypt, Turkey, Iraq and Britain". ](/news/2005/07/25/israel-has-summoned-the-ambassador-from-the-vatican-to-explain-why-the-pope-did-not-condemn-palestinian-militant-attacks-on-israelis-in-a.md)
-_Context: Benedict XVI, Holy See, Israel, Palestinian, Pope, ambassador_
+_Context: Holy See, Israel, Palestinian, Pope, Pope Benedict XVI, ambassador_
 
 ### [ Bilateral negotiations have resumed between the US and North Korea. [http://news.bbc.co.uk/2/hi/asia-pacific/4716307.stm (BBC)].](/news/2005/07/25/bilateral-negotiations-have-resumed-between-the-us-and-north-korea-http-news-bbc-co-uk-2-hi-asia-pacific-4716307-stm-bbc.md)
 _Context: Bilateral negotiations, North Korea, United States_

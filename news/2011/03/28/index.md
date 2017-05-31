@@ -37,7 +37,7 @@ _Context: Kaing Guek Eav, Khmer Rouge_
 Italian Prime Minister Silvio Berlusconi appears at a Milan court to answer charges of corruption - his first such appearance in more than seven years.
 
 ### [A court in southern Vietnam sentences a zoo owner to three years imprisonment for selling the carcasses of dead tigers. ](/news/2011/03/28/a-court-in-southern-vietnam-sentences-a-zoo-owner-to-three-years-imprisonment-for-selling-the-carcasses-of-dead-tigers.md)
-_Context: Tiger, southern Vietnam_
+_Context: southern Vietnam, tiger_
 
 ### [Egypt is to hold parliamentary elections in September 2011. ](/news/2011/03/28/egypt-is-to-hold-parliamentary-elections-in-september-2011.md)
 _Context: Egypt, parliamentary elections_

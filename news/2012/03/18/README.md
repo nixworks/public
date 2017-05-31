@@ -37,7 +37,7 @@ _Context: Federal Assembly, Joachim Gauck, President of the Federal Republic of 
 _Context: Mitt Romney, Puerto Rico, Republican primaries, Republican primary_
 
 ### [Authorities in Cuba detain dissident Berta Soler and dozens of her supporters ahead of a visit by Pope Benedict XVI. ](/news/2012/03/18/authorities-in-cuba-detain-dissident-berta-soler-and-dozens-of-her-supporters-ahead-of-a-visit-by-pope-benedict-xvi.md)
-_Context: Benedict XVI, Berta Soler, Cuba_
+_Context: Berta Soler, Cuba, Pope Benedict XVI_
 
 ### [The King of Tonga George Tupou V dies in Hong Kong at the age of 63. He is succeeded by his younger brother, `Aho`eitu `Unuaki`otonga Tuku`aho. ](/news/2012/03/18/the-king-of-tonga-george-tupou-v-dies-in-hong-kong-at-the-age-of-63-he-is-succeeded-by-his-younger-brother-e-ahoe-eitu-e-unuakie-otonga-tu.md)
 The King of Tonga has died in Hong Kong, sparking an outpouring of grief in the Pacific nation. - New Zealand Herald

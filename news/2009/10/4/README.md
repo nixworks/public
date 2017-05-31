@@ -16,7 +16,7 @@ French President Nicolas Sarkozy angrily told David Cameron he was &#034;stupid&
 _Context: Taipei, Taiwan_
 
 ### [ Pope Benedict XVI opens a three-week synod of African bishops with a Mass in St. Peter's Basilica in Rome. ](/news/2009/10/4/pope-benedict-xvi-opens-a-three-week-synod-of-african-bishops-with-a-mass-in-st-peter-s-basilica-in-rome.md)
-_Context: Africa, Benedict XVI, Mass, Rome, Vatican, bishop, synod_
+_Context: Africa, Mass, Pope Benedict XVI, Rome, Vatican, bishop, synod_
 
 ### [ Chinese Premier Wen Jiabao commences his three-day visit to North Korea, and is greeted at the airport by ailing leader Kim Jong-il. ](/news/2009/10/4/chinese-premier-wen-jiabao-commences-his-three-day-visit-to-north-korea-and-is-greeted-at-the-airport-by-ailing-leader-kim-jong-il.md)
 _Context: Kim Jong-il, North Korea, People's Republic of China, Premier, Wen Jiabao_
