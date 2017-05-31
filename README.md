@@ -9,6 +9,9 @@ After her severed-Trump-head photo, Kathy Griffin will no longer appear with And
 ### [Kenya opens the Mombasa-Nairobi Standard Gauge Railway, the East African country's largest infrastructure project since gaining independence. ](/news/2017/05/31/kenya-opens-the-mombasaanairobi-standard-gauge-railway-the-east-african-country-s-largest-infrastructure-project-since-gaining-independen.md)
 _Context: Kenya, Mombasa-Nairobi Standard Gauge Railway_
 
+### [A Turkish Air Force Eurocopter AS532 Cougar helicopter crashes in Sirnak Province after hitting an electricity line, killing all 13 soldiers on board. ](/news/2017/05/31/a-turkish-air-force-eurocopter-as532-cougar-helicopter-crashes-in-aa-rnak-province-after-hitting-an-electricity-line-killing-all-13-soldie.md)
+_Context: Eurocopter AS532 Cougar, Sirnak Province, Turkish Air Force_
+
 ### [Guardian Council officially confirmed the result of the election which saw Incumbent President Hassan Rouhani reelected for another four years in office. ](/news/2017/05/31/guardian-council-officially-confirmed-the-result-of-the-election-which-saw-incumbent-president-hassan-rouhani-reelected-for-another-four-yea.md)
 The Guardian Council confirms the result of Iran’s 12th presidential election.
 
