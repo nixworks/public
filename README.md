@@ -1,4 +1,15 @@
-## [News](/news/2017/05/30/index.md)
+## [News](/news/2017/05/31/index.md)
+
+### [A suicide bombing occurs in Kabul near the German embassy with a total of 50 killed and injured. ](/news/2017/05/31/a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-a-total-of-50-killed-and-injured.md)
+At least nine people were killed and more than 90 wounded were taken to Kabul hospitals after a huge car bomb exploded in the Afghan capital on Wednesday, a public health official said, and the casualty total could rise.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/05/30/index.md)
 
 ### [  A car bomb explosion outside a popular ice cream parlor in central Baghdad kills 13 people and injures 24. ISIL claims responsibility for the attack. ](/news/2017/05/30/a-car-bomb-explosion-outside-a-popular-ice-cream-parlor-in-central-baghdad-kills-13-people-and-injures-24-isil-claims-responsibility-for.md)
  BAGHDAD (AP) — A car bomb exploded outside a popular ice cream shop in central Baghdad just after midnight on Monday, killing 13 people and wounding 24, hospital and police offici
@@ -18,13 +29,9 @@ Mike Dubke resigns, and press secretary Sean Spicer will reportedly give fewer b
 ### [  The Manchester Victoria train station, adjoined to the Manchester Arena, re-opens more than a week after the terrorist bombing that killed 22.](/news/2017/05/30/the-manchester-victoria-train-station-adjoined-to-the-manchester-arena-re-opens-more-than-a-week-after-the-terrorist-bombing-that-killed.md)
 _Context: 2017 Manchester Arena bombing, Manchester Arena, Manchester Victoria, train station_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/05/29/index.md)
+## [Day Before Yesterday](/news/2017/05/29/index.md)
 
 ### [Philippine forces continue to battle Maute militants for the city of Marawi. ](/news/2017/05/29/philippine-forces-continue-to-battle-maute-militants-for-the-city-of-marawi.md)
 _Context: Marawi, Marawi crisis, Maute, Philippine_
@@ -61,35 +68,7 @@ Two Venezuelan opposition leaders were wounded on Monday by security forces disp
 
 ---
 
-## [Day Before Yesterday](/news/2017/05/28/index.md)
-
-### [The government of the Philippines and the Communist Party cancel peace talks after president Rodrigo Duterte declares martial law in Mindanao. ](/news/2017/05/28/the-government-of-the-philippines-and-the-communist-party-cancel-peace-talks-after-president-rodrigo-duterte-declares-martial-law-in-mindana.md)
-_Context: CPP-NPA-NDF rebellion, Communist Party, Mindanao, Philippines, Rodrigo Duterte, government, martial law_
-
-### [The Philippine military announces that it has discovered the bodies of 16 people, believed to have been killed by the ISIL affiliated Abu Sayyaf. Authorities say that the death toll after six days of fighting is 95, including 19 civilians. ](/news/2017/05/28/the-philippine-military-announces-that-it-has-discovered-the-bodies-of-16-people-believed-to-have-been-killed-by-the-isil-affiliated-abu-sa.md)
-_Context: Abu Sayyaf, ISIL, Marawi crisis_
-
-### [''The Square'', a Swedish film directed by Ruben stlund, wins the ''Palme d'Or'', the top award at the Cannes Film Festival. ](/news/2017/05/28/the-square-a-swedish-film-directed-by-ruben-ostlund-wins-the-palme-d-or-the-top-award-at-the-cannes-film-festival.md)
-&quot;The Square&quot;, a Swedish movie about the curator of a museum filled with grotesquely pretentious conceptual art was awarded the top prize at the Cannes Film Festival on Sunday.
-
-### [At least 126 people are dead, and 97 missing, after mudslides and floods caused by heavy rain in Sri Lanka. Over 100,000 people have been displaced. ](/news/2017/05/28/at-least-126-people-are-dead-and-97-missing-after-mudslides-and-floods-caused-by-heavy-rain-in-sri-lanka-over-100-000-people-have-been-di.md)
-_Context: 2017 Sri Lankan flood and landslide, Sri Lanka_
-
-### [Four people, including a pregnant woman, are killed and dozens injured when a rush of fans try to enter an already-at-capacity Tiburcio Caras Andino Stadium before the Honduran Clausura final in Tegucigalpa, Honduras. Police are investigating possible overselling of tickets. ](/news/2017/05/28/four-people-including-a-pregnant-woman-are-killed-and-dozens-injured-when-a-rush-of-fans-try-to-enter-an-already-at-capacity-tiburcio-cari.md)
-A tragic stampede ahead of the Clausura final between Motagua and Progreso cost four fans their lives amid fears the capacity was exceeded
-
-### [Eight people, including a Lincoln County Sheriff's Department deputy, are fatally shot overnight at  three locations in rural Mississippi. A suspect is in custody; he says he intended for it to be "suicide by cop." ](/news/2017/05/28/eight-people-including-a-lincoln-county-sheriff-s-department-deputy-are-fatally-shot-overnight-at-three-locations-in-rural-mississippi-a.md)
-Eight people, including a sheriff&#x27;s deputy, were killed in a shooting Saturday night in rural Mississippi, authorities said.
-
-### [In a speech in Munich, Angela Merkel says that Europe must not rely on its former allies. ](/news/2017/05/28/in-a-speech-in-munich-angela-merkel-says-that-europe-must-not-rely-on-its-former-allies.md)
-There’s a statesmanship – a vision, a morality and a core – to her that was thrown into sharp relief by Donald Trump’s shambling visit to Europe
-
-### [The Russian Irkut MC-21 airliner makes its maiden flight. ](/news/2017/05/28/the-russian-irkut-mc-21-airliner-makes-its-maiden-flight.md)
-The plane was successful, said a source at the Irkutsk aviation plant
-
----
-
-## [Previous Day...](/news/2017/05/27/index.md)
+## [Previous Day...](/news/2017/05/28/index.md)
 
 ---
 
