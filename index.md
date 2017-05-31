@@ -3,6 +3,9 @@
 ### [A suicide bombing occurs in Kabul near the German embassy with at least 80 killed and 300 injured. ](/news/2017/05/31/a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-at-least-80-killed-and-300-injured.md)
 At least nine people were killed and more than 90 wounded were taken to Kabul hospitals after a huge car bomb exploded in the Afghan capital on Wednesday, a public health official said, and the casualty total could rise.
 
+### [CNN terminates its contract with Kathy Griffin after she released a photograph holding a mock decapitated head of President Donald Trump. ](/news/2017/05/31/cnn-terminates-its-contract-with-kathy-griffin-after-she-released-a-photograph-holding-a-mock-decapitated-head-of-president-donald-trump.md)
+After her severed-Trump-head photo, Kathy Griffin will no longer appear with Anderson Cooper on CNN&#39;s New Year&#39;s Eve special, the network said Wednesday.
+
 ### [Kenya opens the Mombasa-Nairobi Standard Gauge Railway, the East African country's largest infrastructure project since gaining independence. ](/news/2017/05/31/kenya-opens-the-mombasaanairobi-standard-gauge-railway-the-east-african-country-s-largest-infrastructure-project-since-gaining-independen.md)
 _Context: Kenya, Mombasa-Nairobi Standard Gauge Railway_
 
@@ -19,6 +22,9 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ### [  A car bomb explosion outside a popular ice cream parlor in central Baghdad kills 13 people and injures 24. ISIL claims responsibility for the attack. ](/news/2017/05/30/a-car-bomb-explosion-outside-a-popular-ice-cream-parlor-in-central-baghdad-kills-13-people-and-injures-24-isil-claims-responsibility-for.md)
  BAGHDAD (AP) — A car bomb exploded outside a popular ice cream shop in central Baghdad just after midnight on Monday, killing 13 people and wounding 24, hospital and police offici
+
+### [China Labor Watch says one of its team was arrested and two others are missing when they were investigating labor practices at Ganzhou Huajian International Shoe City Co.,  whose products include Ivanka Trump-branded shoes. ](/news/2017/05/30/china-labor-watch-says-one-of-its-team-was-arrested-and-two-others-are-missing-when-they-were-investigating-labor-practices-at-ganzhou-huaji.md)
+_Context: China Labor Watch, Ganzhou, Ivanka Trump-branded_
 
 ### [ A formation of United States B-1B bombers from Guam flew over Korea, staging a nuclear bomb dropping drill. North Korea calls it a military provocation. ](/news/2017/05/30/a-formation-of-united-states-b-1b-bombers-from-guam-flew-over-korea-staging-a-nuclear-bomb-dropping-drill-north-korea-calls-it-a-military.md)
  North Korea on Tuesday accused the United States of flying B-1B strategic bombers close to its territory and triggering a nuclear war crisis.

@@ -3,6 +3,9 @@
 ### [  A car bomb explosion outside a popular ice cream parlor in central Baghdad kills 13 people and injures 24. ISIL claims responsibility for the attack. ](/news/2017/05/30/a-car-bomb-explosion-outside-a-popular-ice-cream-parlor-in-central-baghdad-kills-13-people-and-injures-24-isil-claims-responsibility-for.md)
  BAGHDAD (AP) — A car bomb exploded outside a popular ice cream shop in central Baghdad just after midnight on Monday, killing 13 people and wounding 24, hospital and police offici
 
+### [China Labor Watch says one of its team was arrested and two others are missing when they were investigating labor practices at Ganzhou Huajian International Shoe City Co.,  whose products include Ivanka Trump-branded shoes. ](/news/2017/05/30/china-labor-watch-says-one-of-its-team-was-arrested-and-two-others-are-missing-when-they-were-investigating-labor-practices-at-ganzhou-huaji.md)
+_Context: China Labor Watch, Ganzhou, Ivanka Trump-branded_
+
 ### [ A formation of United States B-1B bombers from Guam flew over Korea, staging a nuclear bomb dropping drill. North Korea calls it a military provocation. ](/news/2017/05/30/a-formation-of-united-states-b-1b-bombers-from-guam-flew-over-korea-staging-a-nuclear-bomb-dropping-drill-north-korea-calls-it-a-military.md)
  North Korea on Tuesday accused the United States of flying B-1B strategic bombers close to its territory and triggering a nuclear war crisis.
 
