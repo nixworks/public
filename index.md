@@ -3,6 +3,9 @@
 ### [A suicide bombing occurs in Kabul near the German embassy with at least 80 killed and 300 injured. ](/news/2017/05/31/a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-at-least-80-killed-and-300-injured.md)
 At least nine people were killed and more than 90 wounded were taken to Kabul hospitals after a huge car bomb exploded in the Afghan capital on Wednesday, a public health official said, and the casualty total could rise.
 
+### [Guardian Council officially confirmed the result of the election which saw Incumbent President Hassan Rouhani reelected for another four years in office. ](/news/2017/05/31/guardian-council-officially-confirmed-the-result-of-the-election-which-saw-incumbent-president-hassan-rouhani-reelected-for-another-four-yea.md)
+The Guardian Council confirms the result of Iran’s 12th presidential election.
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -20,7 +23,7 @@ _Context: Dutch Senate, European Union's Association Agreement with Ukraine, Ukr
 ### [More than 300,000 people are evacuated in Bangladesh as Cyclone Mora approaches. ](/news/2017/05/30/more-than-300-000-people-are-evacuated-in-bangladesh-as-cyclone-mora-approaches.md)
 _Context: 2017 North Indian Ocean cyclone season, Bangladesh, Cyclone Mora_
 
-### [Former Panama leader Manuel Noriega dies. ](/news/2017/05/30/former-panama-leader-manuel-noriega-dies.md)
+### [Former Panama leader Manuel Noriega dies aged 83. ](/news/2017/05/30/former-panama-leader-manuel-noriega-dies-aged-83.md)
 _Context: Manuel Noriega, Panama_
 
 ### [Michael Dubke resigns as President Trump's White House Communications Director after three months on the job. ](/news/2017/05/30/michael-dubke-resigns-as-president-trump-s-white-house-communications-director-after-three-months-on-the-job.md)
