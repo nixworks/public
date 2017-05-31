@@ -17,6 +17,9 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [  A car bomb explosion outside a popular ice cream parlor in central Baghdad kills 13 people and injures 24. ISIL claims responsibility for the attack. ](/news/2017/05/30/a-car-bomb-explosion-outside-a-popular-ice-cream-parlor-in-central-baghdad-kills-13-people-and-injures-24-isil-claims-responsibility-for.md)
  BAGHDAD (AP) — A car bomb exploded outside a popular ice cream shop in central Baghdad just after midnight on Monday, killing 13 people and wounding 24, hospital and police offici
 
+### [ A formation of United States B-1B bombers from Guam flew over Korea, staging a nuclear bomb dropping drill. North Korea calls it a military provocation. ](/news/2017/05/30/a-formation-of-united-states-b-1b-bombers-from-guam-flew-over-korea-staging-a-nuclear-bomb-dropping-drill-north-korea-calls-it-a-military.md)
+ North Korea on Tuesday accused the United States of flying B-1B strategic bombers close to its territory and triggering a nuclear war crisis.
+
 ### [The Dutch Senate approves the European Union's Association Agreement with Ukraine, setting the stage for it to be ratified as early as July, pending royal promulgation. The process was previously delayed by a non-binding referendum where a majority of Dutch voters rejected ratification of the agreement. ](/news/2017/05/30/the-dutch-senate-approves-the-european-union-s-association-agreement-with-ukraine-setting-the-stage-for-it-to-be-ratified-as-early-as-july.md)
 _Context: Dutch Senate, European Union's Association Agreement with Ukraine, Ukraine-European Union relations, non-binding referendum_
 
