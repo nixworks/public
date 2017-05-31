@@ -18,7 +18,7 @@ _Context: Moon Jae-in, South Korea-United States relations, South Korean, U.S. T
 ### [More than 300,000 people are evacuated in Bangladesh as Cyclone Mora approaches. ](/news/2017/05/30/more-than-300-000-people-are-evacuated-in-bangladesh-as-cyclone-mora-approaches.md)
 _Context: 2017 North Indian Ocean cyclone season, Bangladesh, Cyclone Mora_
 
-### [Former Panama leader Manuel Noriega dies aged 83. ](/news/2017/05/30/former-panama-leader-manuel-noriega-dies-aged-83.md)
+### [Former Panamanian leader Manuel Noriega dies aged 83. ](/news/2017/05/30/former-panamanian-leader-manuel-noriega-dies-aged-83.md)
 _Context: Manuel Noriega, Panama_
 
 ### [Michael Dubke resigns as President Trump's White House Communications Director after three months on the job. ](/news/2017/05/30/michael-dubke-resigns-as-president-trump-s-white-house-communications-director-after-three-months-on-the-job.md)
