@@ -1,6 +1,6 @@
 ### [2017-06-1](/news/2017/06/1/index.md)
 
-# U.S. President Donald Trump is scheduled to announce his decision whether he is going to withdraw the United States from the 2015 Paris Agreement on Climate change mitigation. 
+# U.S. President Donald Trump is scheduled to announce his decision whether he is going to withdraw the United States from the 2015 Paris Agreement on climate change mitigation. 
 
 Donald Trump says he will make his decision on the Paris climate accord early tomorrow morning.
 
