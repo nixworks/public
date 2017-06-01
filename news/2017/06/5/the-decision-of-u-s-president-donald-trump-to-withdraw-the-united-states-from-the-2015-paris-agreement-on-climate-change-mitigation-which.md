@@ -1,18 +1,18 @@
-### [2017-05-27](/news/2017/05/27/index.md)
+### [2017-06-5](/news/2017/06/5/index.md)
 
-# The meeting of Group of 7 leaders in Taormina, Italy, concludes with a disagreement on whether to uphold the Paris Agreement; U.S. President Donald Trump is the only leader not to confirm commitment to the agreement, due to his climate change denial. 
+# The decision of U.S. President Donald Trump to withdraw the United States from the 2015 Paris Agreement on Climate change mitigation, which he made on 1 June, goes into effect. 
 
-Germany called the climate change talks &quot;very unsatisfactory&quot;, describing them as &quot;six against one&quot;.
+Donald Trump says he will make his decision on the Paris climate accord early tomorrow morning.
 
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-40069636)
+1. [Reuters/AP via Aus. Broadcasting Corp.](http://www.abc.net.au/news/2017-06-01/donald-trump-paris-climate-deal-reports-withdrawing/8577686)
 
 ### Related:
 
-1. [The decision of U.S. President Donald Trump to withdraw the United States from the 2015 Paris Agreement on Climate change mitigation, which he made on 1 June, goes into effect. ](/news/2017/06/5/the-decision-of-u-s-president-donald-trump-to-withdraw-the-united-states-from-the-2015-paris-agreement-on-climate-change-mitigation-which.md) _Context: Donald Trump, Paris Agreement, U.S. President_
-2. [U.S. President Donald Trump is scheduled to announce his decision whether he is going to withdraw the United States from the 2015 Paris Agreement on Climate change mitigation. ](/news/2017/06/1/u-s-president-donald-trump-is-scheduled-to-announce-his-decision-whether-he-is-going-to-withdraw-the-united-states-from-the-2015-paris-agre.md) _Context: Donald Trump, Paris Agreement, U.S. President_
+1. [U.S. President Donald Trump is scheduled to announce his decision whether he is going to withdraw the United States from the 2015 Paris Agreement on Climate change mitigation. ](/news/2017/06/1/u-s-president-donald-trump-is-scheduled-to-announce-his-decision-whether-he-is-going-to-withdraw-the-united-states-from-the-2015-paris-agre.md) _Context: Climate change mitigation, Donald Trump, Paris Agreement, U.S. President_
+2. [The meeting of Group of 7 leaders in Taormina, Italy, concludes with a disagreement on whether to uphold the Paris Agreement; U.S. President Donald Trump is the only leader not to confirm commitment to the agreement, due to his climate change denial. ](/news/2017/05/27/the-meeting-of-group-of-7-leaders-in-taormina-italy-concludes-with-a-disagreement-on-whether-to-uphold-the-paris-agreement-u-s-president.md) _Context: Donald Trump, Paris Agreement, U.S. President_
 3. [U.S. President Donald Trump removes James Comey as Director of the Federal Bureau of Investigation, with Andrew G. McCabe stepping in as acting director. ](/news/2017/05/9/u-s-president-donald-trump-removes-james-comey-as-director-of-the-federal-bureau-of-investigation-with-andrew-g-mccabe-stepping-in-as-act.md) _Context: Donald Trump, U.S. President_
 4. [President Donald Trump's proposed budget for fiscal year 2018, titled "America First: A Budget Blueprint to Make America Great Again,"  has a $2 trillion accounting error over 10 years because it  uses the same money twice for two different purposes. ](/news/2017/05/24/president-donald-trump-s-proposed-budget-for-fiscal-year-2018-titled-america-first-a-budget-blueprint-to-make-america-great-again-has.md) _Context: Donald Trump, U.S. President_
 5. [U.S. President Donald Trump arrives in Saudi Arabia, his first of three scheduled foreign trips. Trump signs an arms deal with King Salman worth more than US$100 billion. ](/news/2017/05/20/u-s-president-donald-trump-arrives-in-saudi-arabia-his-first-of-three-scheduled-foreign-trips-trump-signs-an-arms-deal-with-king-salman-w.md) _Context: Donald Trump, U.S. President_
