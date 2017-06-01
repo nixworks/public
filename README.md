@@ -1,5 +1,8 @@
 ## [News](/news/2017/06/1/index.md)
 
+### [Gunfire and explosions are reported at the Resorts World Manila in the Philippines. ](/news/2017/06/1/gunfire-and-explosions-are-reported-at-the-resorts-world-manila-in-the-philippines.md)
+_Context: 2017 Resorts World Manila attack, Resorts World Manila_
+
 ### [Philippine Defense Secretary Delfin Lorenzana announces the deaths of ten soldiers in Marawi as a result of a "friendly fire" airstrike. ](/news/2017/06/1/philippine-defense-secretary-delfin-lorenzana-announces-the-deaths-of-ten-soldiers-in-marawi-as-a-result-of-a-friendly-fire-airstrike.md)
 The accident happened in the city of Marawi where Islamists have clashed with the army.
 
