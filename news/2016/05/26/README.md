@@ -25,7 +25,7 @@ _Context: President of Taiwan, Taiwan, Tsai Ing-wen, Xinhua News Agency_
 South Korea plans to import $3.5 billion worth of arms this year to enhance its defense capabilities, the Yonhap news agency reported Wednesday.
 
 ### [Ethiopia-South Korea relationsSouth Korean  President Park Geun-hye, during her state visit to Ethiopia to work toward full-scale defense cooperation, pledges $1 million in aid for drought recovery. Park is expected to continue to Uganda and Kenya after this visit. ](/news/2016/05/26/ethiopia-south-korea-relationspsouth-korean-president-park-geun-hye-during-her-state-visit-to-ethiopia-to-work-toward-full-scale-defense-c.md)
-_Context: Ethiopia, Kenya, Park Geun-hye, President, South Korea, Uganda_
+_Context: Ethiopia, Kenya, Park Geun-hye, South Korea, South Korean President, Uganda_
 
 ### [Indonesian President Joko Widodo issues an executive order (Perppu) making child sexual abuse punishable by chemical castration and extends the maximum penalty to death. ](/news/2016/05/26/indonesian-president-joko-widodo-issues-an-executive-order-perppu-making-child-sexual-abuse-punishable-by-chemical-castration-and-extends.md)
 Indonesian President Joko Widodo on Wednesday signed an executive order declaring that child sexual abuse is punishable by chemical castration and death.

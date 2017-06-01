@@ -40,7 +40,7 @@ Former US president Bill Clinton has been paid $500,000 for a speech to be given
 _Context: Ali Asghar Soltanieh, International Atomic Energy Agency_
 
 ### [Park Geun-Hye, the President of South Korea, warns North Korea that it will be held responsible for the fate of nine young asylum seekers repatriated from Laos. ](/news/2013/06/3/park-geun-hye-the-president-of-south-korea-warns-north-korea-that-it-will-be-held-responsible-for-the-fate-of-nine-young-asylum-seekers-re.md)
-_Context: Laos, North Korea, Park Geun-hye, President, asylum seeker_
+_Context: Laos, North Korea, Park Geun-hye, South Korean President, asylum seeker_
 
 ### [Speaking during the ongoing Fifth Tokyo International Conference on African Development (TICAD V) in Yokohama, Zambian President Michael Sata says developed nations have used Africa as a "guinea pig" for the past 50 years, taking its raw materials while pretending to help it. ](/news/2013/06/3/speaking-during-the-ongoing-fifth-tokyo-international-conference-on-african-development-ticad-v-in-yokohama-zambian-president-michael-sat.md)
 _Context: Michael Sata, Tokyo International Conference on African Development, Yokohama_

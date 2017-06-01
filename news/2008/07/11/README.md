@@ -16,7 +16,7 @@ _Context: Butte County, California, Sierra Nevada, Wildfires, foothill_
 _Context: Fuad Siniora, Prime Minister, national government_
 
 ### [ The President of South Korea Lee Myung-bak proposes resumption of stalled summit talks with North Korea. ](/news/2008/07/11/the-president-of-south-korea-lee-myung-bak-proposes-resumption-of-stalled-summit-talks-with-north-korea.md)
-_Context: Lee Myung-bak, North Korea, President_
+_Context: Lee Myung-bak, North Korea, South Korean President_
 
 ### [ The first global study of coral reefs finds that one-third of coral-building species face extinction. ](/news/2008/07/11/the-first-global-study-of-coral-reefs-finds-that-one-third-of-coral-building-species-face-extinction.md)
 _Context: coral, coral reef, extinction_

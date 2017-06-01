@@ -25,7 +25,7 @@ _Context: Gordon Brown, Iraq, Prime Minster, War in Iraq_
 _Context: Kabul, War in Afghanistan (2001-present), suicide bomber_
 
 ### [ The President of South Korea Roh Moo-hyun walks across the Korean Demilitarized Zone in travelling to Pyongyang for talks with North Korean leader Kim Jong Il. ](/news/2007/10/2/the-president-of-south-korea-roh-moo-hyun-walks-across-the-korean-demilitarized-zone-in-travelling-to-pyongyang-for-talks-with-north-korean.md)
-_Context: Kim Jong-il, Korean Demilitarized Zone, North Korea, President, Pyongyang, Roh Moo-hyun, talks_
+_Context: Kim Jong-il, Korean Demilitarized Zone, North Korea, Pyongyang, Roh Moo-hyun, South Korean President, talks_
 
 ### [ Manhattan Community Board 5 voted to add the Hotel Pennsylvania to the list of NYC Historic buildings. ](/news/2007/10/2/manhattan-community-board-5-voted-to-add-the-hotel-pennsylvania-to-the-list-of-nyc-historic-buildings.md)
 _Context: Hotel Pennsylvania, Manhattan Community Board 5_

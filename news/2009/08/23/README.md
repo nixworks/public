@@ -13,7 +13,7 @@ _Context: Egypt, Hezbollah, Lebanon, Suez Canal_
 A huge wildfire fanned by strong winds cut a swathe of destruction near Athens, burning houses, razing large patches of forest and sending thousands fleeing their homes.
 
 ### [ North Korean envoys meet the South Korean President Lee Myung-bak for the first time since he took office. ](/news/2009/08/23/north-korean-envoys-meet-the-south-korean-president-lee-myung-bak-for-the-first-time-since-he-took-office.md)
-_Context: Lee Myung-bak, North Korea, President, South Korea_
+_Context: Lee Myung-bak, North Korea, South Korea, South Korean President_
 
 ### [ A new picture of Fidel Castro is published in the ''Juventud Rebelde'' state-run newspaper, apparently showing Cuba's ailing former leader in much better health. ](/news/2009/08/23/a-new-picture-of-fidel-castro-is-published-in-the-juventud-rebelde-state-run-newspaper-apparently-showing-cuba-s-ailing-former-leader.md)
 _Context: Cuba, Fidel Castro, Juventud Rebelde_

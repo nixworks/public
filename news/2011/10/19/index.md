@@ -25,7 +25,7 @@ _Context: 2011 Thai floods, Bangkok, Thailand_
 The Queen will arrive in Canberra today for what may be her last official tour of Australia.
 
 ### [The President of South Korea, Lee Myung-bak, meets with the Prime Minister of Japan, Yoshihiko Noda, in Seoul. ](/news/2011/10/19/the-president-of-south-korea-lee-myung-bak-meets-with-the-prime-minister-of-japan-yoshihiko-noda-in-seoul.md)
-_Context: Lee Myung-bak, President, Prime Minister, Seoul, Yoshihiko Noda_
+_Context: Lee Myung-bak, Prime Minister, Seoul, South Korean President, Yoshihiko Noda_
 
 ### [56 animals are intentionally released by their owner from an exotic animal farm in Muskingum County, Ohio. The owner subsequently commits suicide. ](/news/2011/10/19/56-animals-are-intentionally-released-by-their-owner-from-an-exotic-animal-farm-in-muskingum-county-ohio-the-owner-subsequently-commits-su.md)
 All escaped exotic animals from Ohio private farm accounted for; Final death toll nearly 50

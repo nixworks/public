@@ -13,7 +13,7 @@
 ### Related:
 
 1. [Floods across South America: Panama experiences its heaviest ever rains, with the Panama Canal shut for the first time due to weather. Millions of people are affected across the region, and there are deaths, including in Colombia and Venezuela. ](/news/2010/12/9/floods-across-south-america-panama-experiences-its-heaviest-ever-rains-with-the-panama-canal-shut-for-the-first-time-due-to-weather-milli.md) _Context: Panama, Panama Canal_
-2. [Former Panama leader Manuel Noriega dies. ](/news/2017/05/30/former-panama-leader-manuel-noriega-dies.md) _Context: Panama_
+2. [Former Panamanian leader Manuel Noriega dies aged 83. ](/news/2017/05/30/former-panamanian-leader-manuel-noriega-dies-aged-83.md) _Context: Panama_
 3. [ The $4B USS Zumwalt, thought to be the U.S. Navy's most technologically advanced vessel to date, suffers a large engineering malfunction while crossing the Panama Canal. This is the craft's second major malfunction since its launch less than a month prior. ](/news/2016/11/23/the-4b-uss-zumwalt-thought-to-be-the-u-s-navy-s-most-technologically-advanced-vessel-to-date-suffers-a-large-engineering-malfunction-wh.md) _Context: Panama Canal_
 4. [Hurricane Otto impacts Panama. A tropical storm watch is issued for Nicaragua from Bluefields to Sandy Bay Sirpi. ](/news/2016/11/22/hurricane-otto-impacts-panama-a-tropical-storm-watch-is-issued-for-nicaragua-from-bluefields-to-sandy-bay-sirpi.md) _Context: Panama_
 5. [The expanded Panama Canal opens after a $4.5 billion expansion allowing larger ships to use it. ](/news/2016/06/26/the-expanded-panama-canal-opens-after-a-4-5-billion-expansion-allowing-larger-ships-to-use-it.md) _Context: Panama Canal_

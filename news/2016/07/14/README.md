@@ -13,7 +13,7 @@ The 2016 Emmy Award nominees were announced this morning by Anthony Anderson and
 France calls on former European Commission head, Jose Manuel Barroso, not to take up job advising US investment bank Goldman Sachs on Brexit.
 
 ### [United States Supreme Court Justice Ruth Bader Ginsburg apologizes for remarks she made earlier in the week to a number of news outlets criticizing presumptive Republican presidential nominee Donald Trump. ](/news/2016/07/14/united-states-supreme-court-justice-ruth-bader-ginsburg-apologizes-for-remarks-she-made-earlier-in-the-week-to-a-number-of-news-outlets-crit.md)
-_Context: Ruth Bader Ginsburg, Trump, United States Supreme Court_
+_Context: Donald Trump, Ruth Bader Ginsburg, United States Supreme Court_
 
 ### [Formation of the Elizabeth Truss is named Secretary of State for Justice and first ever female Lord Chancellor of the United Kingdom as former chancellor Michael Gove is ousted from the cabinet. ](/news/2016/07/14/formation-of-the-elizabeth-truss-is-named-secretary-of-state-for-justice-and-first-ever-female-lord-chancellor-of-the-united-kingdom-as-form.md)
 New Prime Minister Theresa May has named Liz Truss&nbsp;as her new Lord Chancellor and Justice Secretary, sacking Michael Gove in the process. Truss&nbsp;became a Member of&nbsp;Parliament at the 2010&nbsp;election, representing South West Norfolk. She was previously&nbsp;Secretary of State for Environment, Food and Rural Affairs. Truss&nbsp;is the first woman to hole the office of Lord Chancellor, [&hellip;]

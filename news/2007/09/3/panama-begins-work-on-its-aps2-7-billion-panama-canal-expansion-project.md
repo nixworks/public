@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Former Panama leader Manuel Noriega dies. ](/news/2017/05/30/former-panama-leader-manuel-noriega-dies.md) _Context: Panama_
+1. [Former Panamanian leader Manuel Noriega dies aged 83. ](/news/2017/05/30/former-panamanian-leader-manuel-noriega-dies-aged-83.md) _Context: Panama_
 2. [Former HBOS manager Lynden Scourfield and other bankers and consultants are found guilty of corruption and abuse of power in stealing PS245 million from the bank and small businesses in a loans scam, which was spent on personal luxuries. Scourfield was sentenced to 11 years in prison. ](/news/2017/02/2/former-hbos-manager-lynden-scourfield-and-other-bankers-and-consultants-are-found-guilty-of-corruption-and-abuse-of-power-in-stealing-aps245.md) _Context: PS_
 3. [UK Prime Minister Theresa May and Turkish President Recep Tayyip Erdogan sign a PS100 million defense deal to build new fighter jets. Under the deal, BAE Systems will collaborate with Turkish companies to build the TAI TFX. ](/news/2017/01/28/uk-prime-minister-theresa-may-and-turkish-president-recep-tayyip-erdoaan-sign-a-aps100-million-defense-deal-to-build-new-fighter-jets-under.md) _Context: PS_
 4. [Hurricane Otto impacts Panama. A tropical storm watch is issued for Nicaragua from Bluefields to Sandy Bay Sirpi. ](/news/2016/11/22/hurricane-otto-impacts-panama-a-tropical-storm-watch-is-issued-for-nicaragua-from-bluefields-to-sandy-bay-sirpi.md) _Context: Panama_

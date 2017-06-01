@@ -31,7 +31,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: General, George William Casey Jr., Iraq, United States_
 
 ### [ South Korean Unification Minister Lee Jong-Seok resigns. Defence Minister Yoon Kwang-Ung had resigned earlier in the week with the President of South Korea Roh Moo-Hyun expected to announce changes in his foreign policy and defence advisers soon. ](/news/2006/10/25/south-korean-unification-minister-lee-jong-seok-resigns-defence-minister-yoon-kwang-ung-had-resigned-earlier-in-the-week-with-the-presiden.md)
-_Context: Lee Jong-Seok, President, Roh Moo-hyun, South Korea, Yoon Kwang-Ung_
+_Context: Lee Jong-Seok, Roh Moo-hyun, South Korea, South Korean President, Yoon Kwang-Ung_
 
 ### [ Brigadier Mick Slater, the commander of Australian troops in East Timor warns that a humanitarian disaster could happen in that nation, unless housing for refugees fleeing the unrest in Dili can be arranged before the approaching wet season. ](/news/2006/10/25/brigadier-mick-slater-the-commander-of-australian-troops-in-east-timor-warns-that-a-humanitarian-disaster-could-happen-in-that-nation-unl.md)
 _Context: Australia, Brigadier, Dili, East Timor, Mick Slater, refugee, wet season_

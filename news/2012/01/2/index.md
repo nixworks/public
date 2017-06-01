@@ -19,7 +19,7 @@ _Context: Chile, wildfire_
 _Context: India, People's Republic of China_
 
 ### [The President of South Korea, Lee Myung-bak, states that he is open to negotiations with North Korea on its nuclear program, but calls on the North to avoid "provocations". ](/news/2012/01/2/the-president-of-south-korea-lee-myung-bak-states-that-he-is-open-to-negotiations-with-north-korea-on-its-nuclear-program-but-calls-on-th.md)
-_Context: Lee Myung-bak, North Korea, President, its nuclear program_
+_Context: Lee Myung-bak, North Korea, South Korean President, its nuclear program_
 
 ### [The President of Tunisia, Moncef Marzouki, states that Tunisia is prepared to extradite former Prime Minister of Libya Baghdadi Mahmudi to Tripoli to face charges of abuse of office, if the Libyan government can guarantee a fair trial. ](/news/2012/01/2/the-president-of-tunisia-moncef-marzouki-states-that-tunisia-is-prepared-to-extradite-former-prime-minister-of-libya-baghdadi-mahmudi-to-t.md)
 _Context: Baghdadi Mahmudi, Libyan Prime Minister, Moncef Marzouki, President of Tunisia, Tripoli, Tunisia, extradite_

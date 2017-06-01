@@ -25,7 +25,7 @@ _Context: Macau, breakwater_
 Romanian accused of stealing photographs and emails from former US president George H W Bush&#039;s personal account
 
 ### [Park Geun-hye, the President of South Korea, reshuffles her cabinet by replacing seven members after a fall in public support following the sinking of the MV ''Sewol'' in April. ](/news/2014/06/13/park-geun-hye-the-president-of-south-korea-reshuffles-her-cabinet-by-replacing-seven-members-after-a-fall-in-public-support-following-the.md)
-_Context: Park Geun-hye, President, Sinking of the MV ''Sewol''_
+_Context: Park Geun-hye, Sinking of the MV ''Sewol'', South Korean President_
 
 ### [Giorgio Orsoni, the mayor of Venice, Italy, resigns over corruption allegations related to the MOSE Project. ](/news/2014/06/13/giorgio-orsoni-the-mayor-of-venice-italy-resigns-over-corruption-allegations-related-to-the-mose-project.md)
 _Context: Giorgio Orsoni, Italian, MOSE Project, Venice_

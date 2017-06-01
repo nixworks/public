@@ -11,7 +11,7 @@ Archaeologists have recovered six cannons from the ships of Welsh privateer Henr
 
 ### Related:
 
-1. [Former Panama leader Manuel Noriega dies. ](/news/2017/05/30/former-panama-leader-manuel-noriega-dies.md) _Context: Panama_
+1. [Former Panamanian leader Manuel Noriega dies aged 83. ](/news/2017/05/30/former-panamanian-leader-manuel-noriega-dies-aged-83.md) _Context: Panama_
 2. [The Met Office issues travel warnings for parts of Wales, Scotland and England as Storm Doris, described as a "weather bomb", brings gales, heavy rain and snow to the United Kingdom. At least one person is killed. ](/news/2017/02/23/the-met-office-issues-travel-warnings-for-parts-of-wales-scotland-and-england-as-storm-doris-described-as-a-aweather-bomba-brings-gal.md) _Context: Wales_
 3. [The United Kingdom posthumously pardons around 49,000 gay and bisexual men found guilty of decades-old sodomy laws in England and Wales.  Those still living can apply for a statutory pardon.  ](/news/2017/01/31/the-united-kingdom-posthumously-pardons-around-49-000-gay-and-bisexual-men-found-guilty-of-decades-old-sodomy-laws-in-england-and-wales-th.md) _Context: Wales_
 4. [Hurricane Otto impacts Panama. A tropical storm watch is issued for Nicaragua from Bluefields to Sandy Bay Sirpi. ](/news/2016/11/22/hurricane-otto-impacts-panama-a-tropical-storm-watch-is-issued-for-nicaragua-from-bluefields-to-sandy-bay-sirpi.md) _Context: Panama_

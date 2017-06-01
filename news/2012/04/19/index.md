@@ -34,7 +34,7 @@ The solid-fuelled missile, which will bring the whole of China as well as other 
 _Context: North Korea, South Korea, cruise missiles, military installations_
 
 ### [Anders Behring Breivik, the perpetrator of the 2011 Norway attacks, says he planned to behead former Norwegian Prime Minister Gro Harlem Brundtland and post the footage on the internet. ](/news/2012/04/19/anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks-says-he-planned-to-behead-former-norwegian-prime-minister-gro-harlem-bru.md)
-_Context: 2011 Norway attacks, Anders Behring Breivik, Gro Harlem Brundtland, beheaded_
+_Context: 2011 Norway attacks, Anders Behring Breivik, Gro Harlem Brundtland, decapitated_
 
 ### [A report commissioned by the Irish Department of Health finds significant increase in narcolepsy among individuals given the GlaxoSmithKline developed swine flu vaccine Pandemrix compared to those who did not receive the vaccine. ](/news/2012/04/19/a-report-commissioned-by-the-irish-department-of-health-finds-significant-increase-in-narcolepsy-among-individuals-given-the-glaxosmithkline.md)
 An official report has concluded that an increase in the sleep disorder narcolepsy among young people since 2009 is associated&hellip;

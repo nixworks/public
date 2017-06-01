@@ -31,7 +31,7 @@ _Context: 2010 Haiti earthquake, Associated Press, Government of Haiti, U.S. Age
 _Context: Assam, Guwahati, India_
 
 ### [Eun Jin-soo, a former aide to the President of South Korea Lee Myung-bak, is arrested on bribery charges. ](/news/2011/05/30/eun-jin-soo-a-former-aide-to-the-president-of-south-korea-lee-myung-bak-is-arrested-on-bribery-charges.md)
-_Context: Lee Myung-bak, President, bribes_
+_Context: Lee Myung-bak, South Korean President, bribes_
 
 ### [A human rights advocate claims that Saudi Arabia has released Manal al-Sherif, detained for breaking the law against women drivers. ](/news/2011/05/30/a-human-rights-advocate-claims-that-saudi-arabia-has-released-manal-al-sherif-detained-for-breaking-the-law-against-women-drivers.md)
 _Context: Saudi Arabia_

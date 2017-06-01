@@ -28,7 +28,7 @@ Still short 2 million tents, it must also rebuild homes and jobs for 5 million.
 _Context: Lebanon_
 
 ### [ The Korean Confederation of Trade Unions calls a one day strike for July 2 in protest at the President of South Korea Lee Myung-bak's economic reform plans. ](/news/2008/06/17/the-korean-confederation-of-trade-unions-calls-a-one-day-strike-for-july-2-in-protest-at-the-president-of-south-korea-lee-myung-bak-s-econo.md)
-_Context: July 2, Korean Confederation of Trade Unions, Lee Myung-bak, President_
+_Context: July 2, Korean Confederation of Trade Unions, Lee Myung-bak, South Korean President_
 
 ### [ Summer 2008 China region floods: Large areas of southern China are hit by the worst floods in decades with Guangzhou and Shenzhen worst affected. So far, 63 people have died and 1.66 million have been evacuated. ](/news/2008/06/17/summer-2008-china-region-floods-large-areas-of-southern-china-are-hit-by-the-worst-floods-in-decades-with-guangzhou-and-shenzhen-worst-aff.md)
 _Context: Guangzhou, People's Republic of China, Shenzhen, Summer 2008 China region floods_

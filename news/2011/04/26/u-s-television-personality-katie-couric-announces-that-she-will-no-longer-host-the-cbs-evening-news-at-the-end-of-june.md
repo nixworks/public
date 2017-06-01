@@ -12,3 +12,4 @@
 ### Related:
 
 1. [US journalist Katie Couric signs off as the host of the CBS Evening News. ](/news/2011/05/19/us-journalist-katie-couric-signs-off-as-the-host-of-the-cbs-evening-news.md) _Context: CBS Evening News, Katie Couric_
+2. [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of ''CBS Evening News''. ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news.md) _Context: CBS Evening News_

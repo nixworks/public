@@ -13,7 +13,7 @@ _Context: Manila, Philippines_
 _Context: Agent Orange, United States, Vietnam, Vietnam War_
 
 ### [The South Korean Yonhap news agency reports that the President of South Korea Lee Myung-bak is considering visiting the disputed Liancourt Rocks, which are also claimed by Japan. ](/news/2012/08/10/the-south-korean-yonhap-news-agency-reports-that-the-president-of-south-korea-lee-myung-bak-is-considering-visiting-the-disputed-liancourt-r.md)
-_Context: Japan, Lee Myung-bak, Liancourt Rocks, President, South Korea, Yonhap_
+_Context: Japan, Lee Myung-bak, Liancourt Rocks, South Korea, South Korean President, Yonhap_
 
 ### [Tens of thousands of people attend the state funeral for President John Atta Mills in Accra, Ghana. ](/news/2012/08/10/tens-of-thousands-of-people-attend-the-state-funeral-for-president-john-atta-mills-in-accra-ghana.md)
 Ghana holds the funeral of President John Atta Mills, who died in July, with African heads of state and Hillary Clinton among the mourners.

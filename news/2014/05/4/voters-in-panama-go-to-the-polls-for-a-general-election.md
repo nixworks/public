@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Former Panama leader Manuel Noriega dies. ](/news/2017/05/30/former-panama-leader-manuel-noriega-dies.md) _Context: Panama_
+1. [Former Panamanian leader Manuel Noriega dies aged 83. ](/news/2017/05/30/former-panamanian-leader-manuel-noriega-dies-aged-83.md) _Context: Panama_
 2. [Hurricane Otto impacts Panama. A tropical storm watch is issued for Nicaragua from Bluefields to Sandy Bay Sirpi. ](/news/2016/11/22/hurricane-otto-impacts-panama-a-tropical-storm-watch-is-issued-for-nicaragua-from-bluefields-to-sandy-bay-sirpi.md) _Context: Panama_
 3. [El Salvador officials seize documents and equipment during a raid of the local offices of Panamanian law firm Mossack Fonseca. Attorney General Douglas Melendez says authorities interviewed seven employees, and confiscated 20 computers and some documents. ](/news/2016/04/8/el-salvador-officials-seize-documents-and-equipment-during-a-raid-of-the-local-offices-of-panamanian-law-firm-mossack-fonseca-attorney-gene.md) _Context: Panama_
 4. [United Kingdom Prime Minister David Cameron admits he benefited from a Panama-based offshore trust, Blairmore Holdings Inc., set up by his late father. Cameron says he divested himself of his shares, for PS31,500 (US$44,300), before becoming prime minister in 2010. ](/news/2016/04/7/united-kingdom-prime-minister-david-cameron-admits-he-benefited-from-a-panama-based-offshore-trust-blairmore-holdings-inc-set-up-by-his-l.md) _Context: Panama_

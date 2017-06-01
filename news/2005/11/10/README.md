@@ -13,7 +13,7 @@ _Context: Arctic National Wildlife Refuge, United States House of Representative
 _Context: Boeing 777, Hong Kong, London_
 
 ### [ War in Afghanistan: Taliban insurgents are suspected in the killing of seven police in an ambush in Kandahar. Two civilians from Uruzgan were also found decapitated. ](/news/2005/11/10/war-in-afghanistan-taliban-insurgents-are-suspected-in-the-killing-of-seven-police-in-an-ambush-in-kandahar-two-civilians-from-uruzgan-we.md)
-_Context: Kandahar, Taliban insurgency, Uruzgan, War in Afghanistan (2001-present), ambush, beheaded_
+_Context: Kandahar, Taliban insurgency, Uruzgan, War in Afghanistan (2001-present), ambush, decapitated_
 
 ### [ Iraq War: At least 33 are killed in an attack on a restaurant in Baghdad. Al-Qaida in Iraq claims responsibility. ](/news/2005/11/10/iraq-war-at-least-33-are-killed-in-an-attack-on-a-restaurant-in-baghdad-al-qaida-in-iraq-claims-responsibility.md)
 _Context: Al-Qaida in Iraq, Baghdad, Iraq War_

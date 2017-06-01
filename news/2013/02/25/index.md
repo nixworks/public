@@ -43,7 +43,7 @@ _Context: British Cabinet, Chris Huhne, UK, Vicky Pryce, jailed_
 A huge protest vote by Italians enraged by economic hardship and political corruption pushed the country towards deadlock after an election on Monday, with voting projections showing no coalition strong enough to form a government.
 
 ### [Park Geun-hye is sworn in as the first female President of South Korea in the capital Seoul. ](/news/2013/02/25/park-geun-hye-is-sworn-in-as-the-first-female-president-of-south-korea-in-the-capital-seoul.md)
-_Context: Park Geun-hye, President, Seoul, South Korea_
+_Context: Park Geun-hye, Seoul, South Korea, South Korean President_
 
 ### [President of Cuba Ral Castro announces he will not seek another term as president when his current one expires in 2018. He also states he will seek to put term limits and age caps for political offices in Cuba, including the presidency. ](/news/2013/02/25/president-of-cuba-raul-castro-announces-he-will-not-seek-another-term-as-president-when-his-current-one-expires-in-2018-he-also-states-he-w.md)
 Mr. Castro, whose term will end in 2018, said he hoped to establish term limits and age caps for political offices, including the presidency.

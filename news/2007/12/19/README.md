@@ -7,7 +7,7 @@ _Context: Florida, Jacksonville, Florida, T2 Laboratories_
 _Context: Dick Cheney, Old Executive Office Building, U.S. Vice President, Washington, D.C., White House_
 
 ### [ Lee Myung-bak is elected President of South Korea with 50% of the vote, defeating rivals Chung Dong-young and Lee Hoi-chang. ](/news/2007/12/19/lee-myung-bak-is-elected-president-of-south-korea-with-50-of-the-vote-defeating-rivals-chung-dong-young-and-lee-hoi-chang.md)
-_Context: Chung Dong-young, Lee Hoi-chang, Lee Myung-bak, President, South Korea, elected_
+_Context: Chung Dong-young, Lee Hoi-chang, Lee Myung-bak, South Korea, South Korean President, elected_
 
 ### [ A passenger express train derailment in southern Pakistan kills at least 40 and injures 269. ](/news/2007/12/19/a-passenger-express-train-derailment-in-southern-pakistan-kills-at-least-40-and-injures-269.md)
 _Context: Pakistan, passenger express train derailment_

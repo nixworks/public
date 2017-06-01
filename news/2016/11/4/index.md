@@ -34,7 +34,7 @@ Kala Brown told a prosecutor that she and her boyfriend were responding to an ad
 In the Palau presidential race, the incumbent, Tommy Remengesau, is leading his brother-in-law Surangel Whipps Junior, by less than a hundred votes.
 
 ### [The President of South Korea Park Geun-hye accepts full blame for the scandal over the influence of religious figure Choi Soon-sil in Park's administration and vows to accept the results of an independent investigation into her actions. ](/news/2016/11/4/the-president-of-south-korea-park-geun-hye-accepts-full-blame-for-the-scandal-over-the-influence-of-religious-figure-choi-soon-sil-in-park-s.md)
-_Context: 2016 South Korean political scandal, Choi Soon-sil, Park Geun-hye, President_
+_Context: 2016 South Korean political scandal, Choi Soon-sil, Park Geun-hye, South Korean President_
 
 ### [Turkish security forces begin mass arrests of pro-Kurdish Peoples' Democratic Party (HDP) MPs, including co-leaders Selahattin Demirtas and Figen Yuksekdag. Internet access is reportedly blocked across southeastern Turkey. ](/news/2016/11/4/turkish-security-forces-begin-mass-arrests-of-pro-kurdish-peoples-democratic-party-hdp-mps-including-co-leaders-selahattin-demirtaa-and.md)
 Selahattin Demirtaş, HDP co-leader known as the ‘Kurdish Obama’, held with at least 11 MPs as post-coup crackdown continues

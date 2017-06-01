@@ -43,7 +43,7 @@ Pope Francis on Friday denounced the conditions that many are forced to live in 
 _Context: Commonwealth of Nations, Patricia Scotland, Baroness Scotland of Asthal, Secretary-General_
 
 ### [Former Saenuri Party member of the South Korean National Assembly Cho Hyun-ryong is jailed for five years for accepting bribes. ](/news/2015/11/27/former-saenuri-party-member-of-the-south-korean-national-assembly-cho-hyun-ryong-is-jailed-for-five-years-for-accepting-bribes.md)
-_Context: Saenuri Party, South Korea, South Korean National Assembly_
+_Context: Saenuri Party, South Korea, parliamentary review_
 
 ### [The appellate prosecutors office in the Polish city of Krakow decides not to appeal a decision against extraditing filmmaker Roman Polanski to the United States to face prosecution for historic child sex offences. ](/news/2015/11/27/the-appellate-prosecutors-office-in-the-polish-city-of-krakow-decides-not-to-appeal-a-decision-against-extraditing-filmmaker-roman-polanski.md)
 _Context: Krakow, Roman Polanski, United States, extradited_

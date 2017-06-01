@@ -31,7 +31,7 @@ _Context: Cambodia, Sam Rainsy, in absentia_
 Court declines to sentence Dutch far-right leader over comments that were ‘demeaning towards Moroccan population’
 
 ### [South Korean lawmakers impeach President Park Geun-hye by a 234-56 vote. Prime Minister Hwang Kyo-ahn, a staunch defender of Ms. Park, will serve as acting president. South Korea's Constitutional Court has up to 180 days to render a final decision. ](/news/2016/12/9/south-korean-lawmakers-impeach-president-park-geun-hye-by-a-234a56-vote-prime-minister-hwang-kyo-ahn-a-staunch-defender-of-ms-park-wil.md)
-_Context: Constitutional Court, Hwang Kyo-ahn, Impeachment process against Park Geun-hye, Park Geun-hye, President, Prime Minister, South Korea, impeach_
+_Context: Constitutional Court, Hwang Kyo-ahn, Impeachment process against Park Geun-hye, Park Geun-hye, Prime Minister, South Korea, South Korean President, impeach_
 
 ### [Opposition leader  Nana Akufo-Addo wins the presidency. ](/news/2016/12/9/opposition-leader-nana-akufo-addo-wins-the-presidency.md)
 Civil society urges election commission to quickly release results, as ruling party rejects opposition victory claims.

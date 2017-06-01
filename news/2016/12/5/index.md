@@ -25,7 +25,7 @@ Dismissing the reports as &quot;totally baseless and false&quot;, Apollo asked n
 John Key has resigned as New Zealand&#039;s prime minister in a sudden announcement.
 
 ### [The South Korean National Assembly begins hearings ahead of an impeachment vote against President Park Geun-Hye. ](/news/2016/12/5/the-south-korean-national-assembly-begins-hearings-ahead-of-an-impeachment-vote-against-president-park-geun-hye.md)
-_Context: Impeachment process against President Park Geun-hye, Park Geun-hye, President, South Korea, South Korean National Assembly_
+_Context: Impeachment process against President Park Geun-hye, Park Geun-hye, South Korea, South Korean President, parliamentary review_
 
 ### [ A federal judge in Michigan, Mark A. Goldsmith, rules that a recount in the Presidential Election vote in that state must begin on Monday, December 5. ](/news/2016/12/5/a-federal-judge-in-michigan-mark-a-goldsmith-rules-that-a-recount-in-the-presidential-election-vote-in-that-state-must-begin-on-monday.md)
 Michigan must begin its presidential recount at noon Monday, a federal judge ruled in a late-night order that could make it more likely the state will complete

@@ -34,7 +34,7 @@ _Context: Ally Financial, Securities and Exchange Commission, United States Depa
 The death toll from the Christchurch earthquake is likely to be about 240, police say. - New Zealand Herald
 
 ### [The President of South Korea Lee Myung-bak calls on North Korea to abandon its nuclear and missile programs. ](/news/2011/03/1/the-president-of-south-korea-lee-myung-bak-calls-on-north-korea-to-abandon-its-nuclear-and-missile-programs.md)
-_Context: Lee Myung-bak, North Korea, President_
+_Context: Lee Myung-bak, North Korea, South Korean President_
 
 ### [Eleven people are sentenced to death and twenty to life sentences for their roles in the Godhra train burning in New Delhi, India. ](/news/2011/03/1/eleven-people-are-sentenced-to-death-and-twenty-to-life-sentences-for-their-roles-in-the-godhra-train-burning-in-new-delhi-india.md)
 31 people were convicted and 63 others, including the main accused Maulvi Umarji, were acquitted by a special court on February 22. 

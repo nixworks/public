@@ -28,7 +28,7 @@ _Context: Boyko Borisov, Bulgarian presidential election, 2016, Chairwoman of th
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 ### [A South Korean official says prosecutors will question President Park Geun-hye, no later than Wednesday, about the political corruption scandal. This will be the first time a sitting president is questioned by prosecutors in a criminal case. ](/news/2016/11/13/a-south-korean-official-says-prosecutors-will-question-president-park-geun-hye-no-later-than-wednesday-about-the-political-corruption-scan.md)
-_Context: 2016 South Korean political scandal, Park Geun-hye, President, South Korea_
+_Context: 2016 South Korean political scandal, Park Geun-hye, South Korea, South Korean President_
 
 ### [President-elect of the United States Donald Trump says he plans to deport or imprison up to 3 million illegal migrants, targeting those with criminal records. ](/news/2016/11/13/president-elect-of-the-united-states-donald-trump-says-he-plans-to-deport-or-imprison-up-to-3-million-illegal-migrants-targeting-those-with.md)
 Donald Trump says he will deport or jail up to three million &quot;criminal&quot; illegal migrants as president.

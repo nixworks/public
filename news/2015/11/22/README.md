@@ -43,7 +43,7 @@ An Iranian court has sentenced Washington Post reporter Jason Rezaian to a priso
 _Context: Argentina, Argentine general election, 2015, Buenos Aires, Daniel Scioli, Justicialist Party, Mauricio Macri, PRO_
 
 ### [Former President Kim Young-sam, who formally ended decades of military rule in South Korea, dies in a Seoul hospital from a severe blood infection. He was 87. ](/news/2015/11/22/former-president-kim-young-sam-who-formally-ended-decades-of-military-rule-in-south-korea-dies-in-a-seoul-hospital-from-a-severe-blood-inf.md)
-_Context: Kim Young-sam, President, Seoul, South Korea_
+_Context: Kim Young-sam, Seoul, South Korea, South Korean President_
 
 ### [Voters in many parts of Egypt including Cairo go to the polls for a parliamentary election. ](/news/2015/11/22/voters-in-many-parts-of-egypt-including-cairo-go-to-the-polls-for-a-parliamentary-election.md)
 _Context: Cairo, Egypt, Egyptian parliamentary election, 2015_

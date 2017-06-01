@@ -19,7 +19,7 @@ _Context: Pat Kenny, The Late Late Show, broadcaster_
 Kavya Shivashankar emerges spelling bee winner after spelling her final word, &quot;laodicean.&quot; Watch an interview with Shivashankar on &quot;Good Morning America&quot; Friday.
 
 ### [ Former President Roh Moo-hyun's state funeral is held in Seoul, South Korea. ](/news/2009/05/29/former-president-roh-moo-hyun-s-state-funeral-is-held-in-seoul-south-korea.md)
-_Context: President, Roh Moo-hyun, Seoul, South Korea, state funeral_
+_Context: Roh Moo-hyun, Seoul, South Korea, South Korean President, state funeral_
 
 ### [ The United States Department of Defense will create a computer-security military command. ](/news/2009/05/29/the-united-states-department-of-defense-will-create-a-computer-security-military-command.md)
 _Context: Computer security, Defense Department, United States, military command_

@@ -10,7 +10,7 @@ Authorities in Rome have said they are expecting up to 500,000 people to attend 
 _Context: September 11, 2001 attacks, Zacarias Moussaoui, death penalty_
 
 ### [ Conflict in Iraq: Over 50 human corpses have been removed from the River Tigris in past weeks. Some appeared to have their throats cut, some others decapitated. ](/news/2005/04/20/conflict-in-iraq-p-over-50-human-corpses-have-been-removed-from-the-river-tigris-in-past-weeks-some-appeared-to-have-their-throats-cut-so.md)
-_Context: Conflict in Iraq, River Tigris, beheaded, throat_
+_Context: Conflict in Iraq, River Tigris, decapitated, throat_
 
 ### [ The Prime Minister of Italy, Silvio Berlusconi, resigns so as to form a new government. He is expected to maintain the post of Prime Minister in this new government. ](/news/2005/04/20/the-prime-minister-of-italy-silvio-berlusconi-resigns-so-as-to-form-a-new-government-he-is-expected-to-maintain-the-post-of-prime-minist.md)
 _Context: Government of Italy, Italian Prime Minister, Silvio Berlusconi_

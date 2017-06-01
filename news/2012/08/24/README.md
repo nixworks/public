@@ -19,7 +19,7 @@ _Context: Pakistan, flood, monsoon_
 A section of a multi-million dollar bridge in China that opened in November has collapsed, leaving three people dead, state media say.
 
 ### [The House of Representatives of Japan passes a resolution criticising the President of South Korea Lee Myung-bak's recent visit to the disputed Liancourt Rocks. ](/news/2012/08/24/the-house-of-representatives-of-japan-passes-a-resolution-criticising-the-president-of-south-korea-lee-myung-bak-s-recent-visit-to-the-dispu.md)
-_Context: Lee Myung-bak, Liancourt Rocks, President, lower house of parliament_
+_Context: Lee Myung-bak, Liancourt Rocks, South Korean President, lower house of parliament_
 
 ### [Two U.S. government employees are ambushed and wounded by gunshots near Huitzilac, Morelos, by Mexican Federal Police officers. Details are still unclear. ](/news/2012/08/24/two-u-s-government-employees-are-ambushed-and-wounded-by-gunshots-near-huitzilac-morelos-by-mexican-federal-police-officers-details-are.md)
 Two people employed at the US embassy in Mexico are wounded when police open fire at their vehicle, mistaking them for criminals, officials say.

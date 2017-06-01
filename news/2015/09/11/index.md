@@ -7,7 +7,7 @@ Chinese military will carry out three days of exercises close to disputed territ
 _Context: Boko Haram insurgency, Yola_
 
 ### [The Turkish Air Force strikes 64 PKK targets in northern Iraq reportedly killing up to 60 PKK militants. ](/news/2015/09/11/the-turkish-air-force-strikes-64-pkk-targets-in-northern-iraq-reportedly-killing-up-to-60-pkk-militants.md)
-_Context: Iraqi Kurdistan, PKK, Turkey-PKK conflict, Turkish_
+_Context: Iraqi Kurdistan, PKK, Turkey-PKK conflict, Turkish Air Force_
 
 ### [Burundi's army chief General Prime Niyongabo survives an assassination attempt after armed men attacked his motorcade on a busy road in the capital, Bujumbura. Six people are killed in the attack. ](/news/2015/09/11/burundi-s-army-chief-general-prime-niyongabo-survives-an-assassination-attempt-after-armed-men-attacked-his-motorcade-on-a-busy-road-in-the.md)
 _Context: 2015 Burundian unrest, Bujumbura, Burundi, assassinated_

@@ -16,7 +16,7 @@ _Context: Argentina, Cellulose plant conflict, Uruguay, World Bank, paper mill_
 _Context: Abimael Guzmn, Peru, Sendero Luminoso, terrorism_
 
 ### [ Boulus Iskander, an Iraqi priest of the Syriac Orthodox Church, is kidnapped and beheaded by Islamist terrorists in Mosul. ](/news/2006/10/13/boulus-iskander-an-iraqi-priest-of-the-syriac-orthodox-church-is-kidnapped-and-beheaded-by-islamist-terrorists-in-mosul.md)
-_Context: Boulus Iskander, Iraq, Islamist terrorist, Kidnap, Mosul, Syriac Orthodox, beheaded_
+_Context: Boulus Iskander, Iraq, Islamist terrorist, Kidnap, Mosul, Syriac Orthodox, decapitated_
 
 ### [ Ban Ki-Moon is elected to be the eighth Secretary-General of the United Nations, to succeed Kofi Annan in January 2007.  ](/news/2006/10/13/ban-ki-moon-is-elected-to-be-the-eighth-secretary-general-of-the-united-nations-to-succeed-kofi-annan-in-january-2007.md)
 _Context: Ban Ki-moon, Kofi Annan, United Nations, United Nations Secretary-General_

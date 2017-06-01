@@ -19,7 +19,7 @@ The Indian Railways has issued helpline numbers for those seeking information
 The first named storm of winter - Storm Angus - is battering the south coast of England, with winds of up to 80mph forecast to sweep through some areas.
 
 ### [An interim report by South Korean prosecutors implicates President Park Geun-hye in a political scandal involving her close friend Choi Soon-sil. Three people have been indicted in relation to the scandal. President Park cannot be indicted due to a constitutional provision preventing a sitting President being indicted except for treason or insurrection. ](/news/2016/11/20/an-interim-report-by-south-korean-prosecutors-implicates-president-park-geun-hye-in-a-political-scandal-involving-her-close-friend-choi-soon.md)
-_Context: 2016 South Korean political scandal, Choi Soon-sil, Park Geun-hye, President, South Korea, indicted, treason_
+_Context: 2016 South Korean political scandal, Choi Soon-sil, Park Geun-hye, South Korea, South Korean President, indicted, treason_
 
 ### [Four policemen are killed in Brazil after their helicopter is shot down by a "gang". ](/news/2016/11/20/four-policemen-are-killed-in-brazil-after-their-helicopter-is-shot-down-by-a-gang.md)
 A police helicopter in Rio de Janeiro crashed Saturday evening, killing four officers after a day of intense firefights between law enforcement and suspected criminals in the slum known as City of God.

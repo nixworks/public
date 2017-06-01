@@ -46,7 +46,7 @@ _Context: Government of Iceland, Grmsvtn, Iceland, volcanic activity_
 Powerful storm blew into metro, killing 1, injuring 30 and putting North Side under curfew.
 
 ### [The Prime Minister of Japan Naoto Kan, the Premier of China Wen Jiabao and the President of South Korea Lee Myung Bak meet in Japan and agree to improve cooperation on nuclear and economic issues. ](/news/2011/05/22/the-prime-minister-of-japan-naoto-kan-the-premier-of-china-wen-jiabao-and-the-president-of-south-korea-lee-myung-bak-meet-in-japan-and-agre.md)
-_Context: Japan, Lee Myung-bak, Naoto Kan, Premier of China, President, Prime Minister, Wen Jiabao_
+_Context: Japan, Lee Myung-bak, Naoto Kan, Premier of China, Prime Minister, South Korean President, Wen Jiabao_
 
 ### [Hamid Baqai, the Chief of Staff of the Iranian President, is banned from public office for four years, after it was exposed that he was involved in a multi-million dollar embezzlement during the construction of a building on Kish Island in 2010. ](/news/2011/05/22/hamid-baqai-the-chief-of-staff-of-the-iranian-president-is-banned-from-public-office-for-four-years-after-it-was-exposed-that-he-was-invo.md)
 _Context: Hamid Baqai, Kish Island, President_
