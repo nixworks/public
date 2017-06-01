@@ -3,10 +3,10 @@
 ### [A suicide bombing occurs in Kabul near the German embassy with at least 90 killed and 461 injured. ](/news/2017/05/31/a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-at-least-90-killed-and-461-injured.md)
 At least nine people were killed and more than 90 wounded were taken to Kabul hospitals after a huge car bomb exploded in the Afghan capital on Wednesday, a public health official said, and the casualty total could rise.
 
-### [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of ''CBS Evening News''. ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news.md)
-_Context: CBS, CBS Evening News, Scott Pelley_
+### [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of ''CBS Evening News''. Pelley will remain with ''CBS News'' as a correspondent in ''60 Minutes''. ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news-pelley-will-remain-with-cbs.md)
+_Context: 60 Minutes, CBS, CBS Evening News, Scott Pelley_
 
-### [CNN terminates its contract with Kathy Griffin after she released a photograph holding a mock decapitated head of President Donald Trump. ](/news/2017/05/31/cnn-terminates-its-contract-with-kathy-griffin-after-she-released-a-photograph-holding-a-mock-decapitated-head-of-president-donald-trump.md)
+### [CNN terminates its ''New Year's Eve Live'' contract with Kathy Griffin after she released a photograph of her holding a mock decapitated head of President Donald Trump. ](/news/2017/05/31/cnn-terminates-its-new-year-s-eve-live-contract-with-kathy-griffin-after-she-released-a-photograph-of-her-holding-a-mock-decapitated-hea.md)
 After her severed-Trump-head photo, Kathy Griffin will no longer appear with Anderson Cooper on CNN&#39;s New Year&#39;s Eve special, the network said Wednesday.
 
 ### [Kenya opens the Mombasa-Nairobi Standard Gauge Railway, the East African country's largest infrastructure project since gaining independence. ](/news/2017/05/31/kenya-opens-the-mombasaanairobi-standard-gauge-railway-the-east-african-country-s-largest-infrastructure-project-since-gaining-independen.md)
