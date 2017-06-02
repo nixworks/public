@@ -31,7 +31,7 @@ Britain is to send troops to Tunisia to help prevent Islamic State fighters from
 The UN refugee agency (UNHCR) warned on Tuesday that Greece is on the verge of a humanitarian crisis as disunity and inconsistency continue to mar European response plans.
 
 ### [Filipino fishermen say China has deployed up to five ships around the disputed Quirino Atoll, also known as Jackson Atoll, in the South China Sea, preventing them from accessing traditional fishing grounds. ](/news/2016/03/1/filipino-fishermen-say-china-has-deployed-up-to-five-ships-around-the-disputed-quirino-atoll-also-known-as-jackson-atoll-in-the-south-chin.md)
-_Context: People's Republic of China, Philippines, South China Sea, South China Sea disputes_
+_Context: People's Republic of China, Philippine, South China Sea, South China Sea disputes_
 
 ### [A  grand jury in the U.S. state of Pennsylvania reports that hundreds of children were sexually abused by about 50 priests in the Altoona-Johnstown Diocese over four decades. ](/news/2016/03/1/a-grand-jury-in-the-u-s-state-of-pennsylvania-reports-that-hundreds-of-children-were-sexually-abused-by-about-50-priests-in-the-altoona-jo.md)
 Hundreds of children in western Pennsylvania were sexually assaulted by about 50 Roman Catholic priests over four decades while bishops covered up their actions, according to a state grand jury report released on Tuesday.

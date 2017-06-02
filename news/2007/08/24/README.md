@@ -34,7 +34,7 @@ _Context: Ohio, Texas, United States, flood, state_
 _Context: Hurricane Dean, Mexico, offshore oil platform_
 
 ### [ Three British Army soldiers die in Afghanistan in a suspected friendly fire incident. ](/news/2007/08/24/three-british-army-soldiers-die-in-afghanistan-in-a-suspected-friendly-fire-incident.md)
-_Context: Afghanistan, British Army, friendly-fire_
+_Context: Afghanistan, British Army, friendly fire_
 
 ### [ Bangladesh eases curfew arrangements in place in its major cities following a reduction in street violence. ](/news/2007/08/24/bangladesh-eases-curfew-arrangements-in-place-in-its-major-cities-following-a-reduction-in-street-violence.md)
 _Context: Bangladesh, curfew_

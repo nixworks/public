@@ -11,7 +11,7 @@ The late-night landscape continues its upheaval. During Monday&#39;s taping of C
 
 ### Related:
 
-1. [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of ''CBS Evening News''. ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news.md) _Context: CBS_
+1. [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of ''CBS Evening News''. Pelley will remain with ''CBS News'' as a correspondent in ''60 Minutes''. ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news-pelley-will-remain-with-cbs.md) _Context: CBS_
 2. [Comedian David Letterman, host of CBS's ''Late Show with David Letterman'', announces his planned retirement in 2015. ](/news/2014/04/3/comedian-david-letterman-host-of-cbs-s-late-show-with-david-letterman-announces-his-planned-retirement-in-2015.md) _Context: CBS_
 3. [American comedian Stephen Colbert, host of ''The Colbert Report'' is announced to replace David Letterman to host the ''Late Show'' on CBS in 2015. ](/news/2014/04/10/american-comedian-stephen-colbert-host-of-the-colbert-report-is-announced-to-replace-david-letterman-to-host-the-late-show-on-cbs-i.md) _Context: CBS_
 4. [2012 Benghazi attack:CBS suspends Lara Logan and her producer after she admitted that portions of her ''60 Minutes'' report on the death of U.S. Ambassador J. Christopher Stevens were false. ](/news/2013/11/26/2012-benghazi-attack-pcbs-suspends-lara-logan-and-her-producer-after-she-admitted-that-portions-of-her-60-minutes-report-on-the-death-of.md) _Context: CBS_

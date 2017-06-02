@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [CNN terminates its contract with Kathy Griffin after she released a photograph holding a mock decapitated head of President Donald Trump. ](/news/2017/05/31/cnn-terminates-its-contract-with-kathy-griffin-after-she-released-a-photograph-holding-a-mock-decapitated-head-of-president-donald-trump.md) _Context: decapitated_
+1. [CNN terminates its ''New Year's Eve Live'' contract with Kathy Griffin after she released a photograph of her holding a mock decapitated head of President Donald Trump. ](/news/2017/05/31/cnn-terminates-its-new-year-s-eve-live-contract-with-kathy-griffin-after-she-released-a-photograph-of-her-holding-a-mock-decapitated-hea.md) _Context: decapitated_
 2. [American comedian Joan Rivers is rushed to the hospital after she stopped breathing during throat surgery. ](/news/2014/08/28/american-comedian-joan-rivers-is-rushed-to-the-hospital-after-she-stopped-breathing-during-throat-surgery.md) _Context: throat_
 3. [Two women are beheaded while another woman and her two daughters await the same fate as they are held captive on accusations of sorcery in Bougainville, Papua New Guinea. ](/news/2013/04/11/two-women-are-beheaded-while-another-woman-and-her-two-daughters-await-the-same-fate-as-they-are-held-captive-on-accusations-of-sorcery-in-b.md) _Context: decapitated_
 4. [Anders Behring Breivik, the perpetrator of the 2011 Norway attacks, says he planned to behead former Norwegian Prime Minister Gro Harlem Brundtland and post the footage on the internet. ](/news/2012/04/19/anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks-says-he-planned-to-behead-former-norwegian-prime-minister-gro-harlem-bru.md) _Context: decapitated_

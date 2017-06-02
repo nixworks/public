@@ -13,7 +13,7 @@ _Context: 2007 Cricket World Cup, Herschelle Gibbs, One Day International, South
 _Context: New York Police Department, Sean Bell_
 
 ### [ British coroner Andrew Walker finds that the death of soldier Matty Hull in the 190th Fighter Squadron, Blues and Royals "friendly fire" incident was "unlawful and criminal". ](/news/2007/03/16/british-coroner-andrew-walker-finds-that-the-death-of-soldier-matty-hull-in-the-190th-fighter-squadron-blues-and-royals-friendly-fire-in.md)
-_Context: 190th Fighter Squadron, Blues and Royals, Andrew Walker, Matty Hull, UK, coronial, friendly-fire, soldier_
+_Context: 190th Fighter Squadron, Blues and Royals, Andrew Walker, Matty Hull, UK, coronial, friendly fire, soldier_
 
 ### [ Airbus workers in Germany, France and Spain hold protest meetings and strikes in response to plans to cut 10,000 jobs and close six plants. ](/news/2007/03/16/airbus-workers-in-germany-france-and-spain-hold-protest-meetings-and-strikes-in-response-to-plans-to-cut-10-000-jobs-and-close-six-plants.md)
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News

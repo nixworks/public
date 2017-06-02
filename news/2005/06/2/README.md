@@ -34,7 +34,7 @@ _Context: European constitution, Latvia_
 _Context: Chen Hui, Chinese Academy of Social Sciences, Lu Jianhua, People's Republic of China, espionage_
 
 ### [ In the Philippines, male students organize a naked protest in Manila to demonstrate against too little funding in education ](/news/2005/06/2/in-the-philippines-male-students-organize-a-naked-protest-in-manila-to-demonstrate-against-too-little-funding-in-education.md)
-_Context: Manila, Philippines, education_
+_Context: Manila, Philippine, education_
 
 ### [ United Nations Secretary General Kofi Annan dismisses senior official Joseph Stephanides for oil for food scandal ](/news/2005/06/2/united-nations-secretary-general-kofi-annan-dismisses-senior-official-joseph-stephanides-for-oil-for-food-scandal.md)
 _Context: Joseph Stephanides, Kofi Annan, United Nations Secretary-General, oil-for-food_

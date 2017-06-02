@@ -1,7 +1,7 @@
 ## [2008-05-16](/news/2008/05/16/index.md)
 
 ### [ 10 people were shot at a branch of the Rizal Commercial Banking Corporation (RCBC) in Cabuyao, Laguna, Philippines, with 9 dead and 1 in critical condition in what could be one of the bloodiest bank robberies in the nation's history. ](/news/2008/05/16/10-people-were-shot-at-a-branch-of-the-rizal-commercial-banking-corporation-rcbc-in-cabuyao-laguna-philippines-with-9-dead-and-1-in-cr.md)
-_Context: 10 people were shot, Cabuyao, Laguna province, Philippines, Rizal Commercial Banking Corporation_
+_Context: 10 people were shot, Cabuyao, Laguna province, Philippine, Rizal Commercial Banking Corporation_
 
 ### [ Leonel Fernandez is re-elected as the President of the Dominican Republic in the 2008 presidential election. ](/news/2008/05/16/leonel-ferna-ndez-is-re-elected-as-the-president-of-the-dominican-republic-in-the-2008-presidential-election.md)
 _Context: 2008 presidential election, Leonel Fernandez, President of the Dominican Republic_

@@ -47,7 +47,7 @@ _Context: European Union, Israel, Palestinian, Saeb Erakat_
 Minni Minnawi, the only leader to sign Darfur peace deal with government, blames it for failing it and quits post.
 
 ### [The Philippine parliament blocks a government effort to provide free condoms to poor people, amid a debate over funding for family planning. ](/news/2010/12/13/the-philippine-parliament-blocks-a-government-effort-to-provide-free-condoms-to-poor-people-amid-a-debate-over-funding-for-family-planning.md)
-_Context: Philippines, condom_
+_Context: Philippine, condom_
 
 ### [Protests by garment workers in Bangladesh over low wages spread to other areas of the country. ](/news/2010/12/13/protests-by-garment-workers-in-bangladesh-over-low-wages-spread-to-other-areas-of-the-country.md)
 _Context: Bangladesh_

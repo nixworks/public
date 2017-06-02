@@ -7,7 +7,7 @@ _Context: Ecuador, England, German, Germany, Stuttgart, defending champion_
 _Context: 1993, 1997, Andres Soliz Rada, Bolivia, Bolivian Gas War, Enron, Gonzalo Sanchez de Lozada, Minister of Hydrocarbons, Peter E. Weidler, President of Bolivia, Prisma Energy International, Vice-President, Victor Hugo Cardenas, genocide, subsidiary_
 
 ### [ President Gloria Macapagal-Arroyo of Philippines signs a law that repeals the death penalty. ](/news/2006/06/24/president-gloria-macapagal-arroyo-of-philippines-signs-a-law-that-repeals-the-death-penalty.md)
-_Context: Gloria Macapagal Arroyo, Philippines, death penalty_
+_Context: Gloria Macapagal Arroyo, Philippine, death penalty_
 
 ### [ In Vietnam, President Tran Duc Luong, Prime Minister Phan Van Khai and the Chairman of the Assembly Nguyen Van An resign, citing old age. ](/news/2006/06/24/in-vietnam-president-traossn-aa-c-c-laedegae-ng-prime-minister-phan-van-khaopsi-and-the-chairman-of-the-assembly-nguyen-van-an-resign-citing.md)
 _Context: National Assembly of Vietnam, Nguyen Van An, Phan Van Khai, President of Vietnam, Prime Minister, Tran Duc Luong, Vietnam_

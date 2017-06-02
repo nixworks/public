@@ -13,7 +13,7 @@ _Context: French, Nicolas Sarkozy, President, UMP, center-right, go to the polls
 Belgian voters punished the liberal-socialist government in an election on Sunday and cleared the way for Flemish premier Yves Leterme to become prime minister and pursue a devolution of power to the regions.
 
 ### [ Five people are killed in a ferry fire in the Philippines. ](/news/2007/06/10/five-people-are-killed-in-a-ferry-fire-in-the-philippines.md)
-_Context: Philippines_
+_Context: Philippine_
 
 ### [ President of Afghanistan Hamid Karzai escapes an apparent assassination attempt.](/news/2007/06/10/president-of-afghanistan-hamid-karzai-escapes-an-apparent-assassination-attempt.md)
 _Context: Afghanistan President, Hamid Karzai, assassinated_

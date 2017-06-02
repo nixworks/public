@@ -16,7 +16,7 @@ Two gunmen sprayed the windowless sanctuary Monday night with fire from Kalashni
 _Context: Burkina Faso, Djibrill Bassole, Mali, Tuareg rebellion (2012), al-Qaeda_
 
 ### [Flooding in the Philippines capital Manila forces at least 20,000 people to flee their homes with the death toll after eight days of heavy rain throughout the country reaching 53. ](/news/2012/08/7/flooding-in-the-philippines-capital-manila-forces-at-least-20-000-people-to-flee-their-homes-with-the-death-toll-after-eight-days-of-heavy-r.md)
-_Context: Manila, Philippines_
+_Context: Manila, Philippine_
 
 ### [The People's Republic of China evacuates 200,000 people from Shanghai ahead of Typhoon Haikui which is expected to make landfall in Zhejiang early tonight or tomorrow morning. ](/news/2012/08/7/the-people-s-republic-of-china-evacuates-200-000-people-from-shanghai-ahead-of-typhoon-haikui-which-is-expected-to-make-landfall-in-zhejiang.md)
 _Context: People's Republic of China, Shanghai, Typhoon, Zhejiang_

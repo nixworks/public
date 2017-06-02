@@ -7,7 +7,7 @@
 
 ### Related:
 
-1. [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of ''CBS Evening News''. ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news.md) _Context: CBS_
+1. [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of ''CBS Evening News''. Pelley will remain with ''CBS News'' as a correspondent in ''60 Minutes''. ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news-pelley-will-remain-with-cbs.md) _Context: CBS_
 2. [National Amusements announces CBS Corporation and Viacom media companies will not be merging.  CBS shares rose 1.8 percent closing in on a nearly 2-1/2 year high while Viacom fell 6.9 percent. ](/news/2016/12/12/national-amusements-announces-cbs-corporation-and-viacom-media-companies-will-not-be-merging-cbs-shares-rose-1-8-percent-closing-in-on-a-n.md) _Context: Viacom_
 3. [Comedian David Letterman, host of CBS's ''Late Show with David Letterman'', announces his planned retirement in 2015. ](/news/2014/04/3/comedian-david-letterman-host-of-cbs-s-late-show-with-david-letterman-announces-his-planned-retirement-in-2015.md) _Context: CBS_
 4. [Scottish-American comedian Craig Ferguson announces his departure from the CBS late-night talk show ''The Late Late Show'', effective December 2014. ](/news/2014/04/28/scottish-american-comedian-craig-ferguson-announces-his-departure-from-the-cbs-late-night-talk-show-the-late-late-show-effective-decemb.md) _Context: CBS_

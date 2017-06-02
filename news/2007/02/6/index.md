@@ -22,7 +22,7 @@ _Context: Iran, Prime Minster, Tony Blair, United Kingdom, nuclear scientist_
 _Context: Baghdad, Iran, Iranian government, Iraqi army, United States_
 
 ### [ UK newspaper ''The Sun'' has obtained a video tape of a U.S. pilot shooting a UK convoy in a friendly fire incident during the Iraq War, killing one British soldier and injuring four. The pilot, and others, are said to have made a series of crucial mistakes. ](/news/2007/02/6/uk-newspaper-the-sun-has-obtained-a-video-tape-of-a-u-s-pilot-shooting-a-uk-convoy-in-a-friendly-fire-incident-during-the-iraq-war-ki.md)
-_Context: Iraq War, The Sun, United Kingdom, United States Air Force, friendly-fire_
+_Context: Iraq War, The Sun, United Kingdom, United States Air Force, friendly fire_
 
 ### [ Three people in the United Kingdom have been jailed after plotting over internet chatrooms to abduct and rape two teenage girls. ](/news/2007/02/6/three-people-in-the-united-kingdom-have-been-jailed-after-plotting-over-internet-chatrooms-to-abduct-and-rape-two-teenage-girls.md)
 _Context: Kidnap, chatroom, rape_

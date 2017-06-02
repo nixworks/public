@@ -28,7 +28,7 @@ Tube staff go on strike across the entire London Underground network in a row ov
 The grounding of hundreds of United Airlines flights because of a computer glitch marked the latest in a series of airline delays and cancellations in the last few years that experts blame on massive, interconnected computer systems that lack sufficient staff and financial backing.
 
 ### [Typhoon Chan-hom (Falcon) hits the Philippines with two people killed and two people injured. ](/news/2015/07/8/typhoon-chan-hom-falcon-hits-the-philippines-with-two-people-killed-and-two-people-injured.md)
-_Context: 2015 Pacific typhoon season, Philippines_
+_Context: 2015 Pacific typhoon season, Philippine_
 
 ### [Russia vetoes a UN resolution that would have condemned the July 1995 Srebrenica massacre of more than 8,000 Bosniaks as a genocide. ](/news/2015/07/8/russia-vetoes-a-un-resolution-that-would-have-condemned-the-july-1995-srebrenica-massacre-of-more-than-8-000-bosniaks-as-a-genocide.md)
 Russia vetoed a United Nations Security Council resolution on Wednesday that would have condemned the Srebrenica massacre as a genocide to mark the 20th anniversary of the killing of 8,000 Muslim men and boys.

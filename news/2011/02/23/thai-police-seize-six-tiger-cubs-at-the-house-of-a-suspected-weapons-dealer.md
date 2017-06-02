@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [A female zookeeper is killed at Hamerton Zoo Park in Cambridgeshire, England, following an incident in the zoo's tiger enclosure. ](/news/2017/05/29/a-female-zookeeper-is-killed-at-hamerton-zoo-park-in-cambridgeshire-england-following-an-incident-in-the-zoo-s-tiger-enclosure.md) _Context: tiger_
+1. [A zookeeper is killed at Hamerton Zoo Park in Cambridgeshire, England, following an incident in the zoo's tiger enclosure. ](/news/2017/05/29/a-zookeeper-is-killed-at-hamerton-zoo-park-in-cambridgeshire-england-following-an-incident-in-the-zoo-s-tiger-enclosure.md) _Context: tiger_
 2. [A wave of small-scale terrorist attacks, including tire burning and the bombing of the electric grid, hits the Thai provinces of Yala, Pattani, Narathiwat, and Songkhla in response to the new Constitution of Thailand. ](/news/2017/04/7/a-wave-of-small-scale-terrorist-attacks-including-tire-burning-and-the-bombing-of-the-electric-grid-hits-the-thai-provinces-of-yala-patta.md) _Context: Thailand_
 3. [Thai King Vajiralongkorn signed into law a new Constitution of Thailand that paves the way for democratic reforms while allowing the Royal Thai Army to retain its influential role in Thai politics. ](/news/2017/04/6/thai-king-vajiralongkorn-signed-into-law-a-new-constitution-of-thailand-that-paves-the-way-for-democratic-reforms-while-allowing-the-royal-t.md) _Context: Thailand_
 4. [Joint bomb and gun attacks kill at least two in Narathiwat, Pattani, and Songkhla Provinces of Thailand, the latest in a long string of such attacks. ](/news/2017/04/19/joint-bomb-and-gun-attacks-kill-at-least-two-in-narathiwat-pattani-and-songkhla-provinces-of-thailand-the-latest-in-a-long-string-of-such.md) _Context: Thailand_

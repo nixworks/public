@@ -13,7 +13,7 @@ _Context: Hubei, Yangtze River, hydrochloric acid_
 Armed group Mend says Niger Delta could be on the brink of renewed violence.
 
 ### [ At least 14 people are dead after Typhoon Mirinae hits the Philippines. ](/news/2009/11/1/at-least-14-people-are-dead-after-typhoon-mirinae-hits-the-philippines.md)
-_Context: Philippines, Typhoon Mirinae_
+_Context: Philippine, Typhoon Mirinae_
 
 ### [ China's legislature sacks the country's education minister, Zhou Ji, amid a corruption scandal, replacing him with his deputy Yuan Guiren. ](/news/2009/11/1/china-s-legislature-sacks-the-country-s-education-minister-zhou-ji-amid-a-corruption-scandal-replacing-him-with-his-deputy-yuan-guiren.md)
 _Context: Yuan Guiren, Zhou Ji, anti-corruption_

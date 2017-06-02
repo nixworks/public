@@ -25,7 +25,7 @@ _Context: Texas, kindergarten, state_
 _Context: California, Samsung, Seagate Technology, hard disk drive_
 
 ### [Devastating fire in Manila, Philippines leaves about 8,000 people homeless and nine injured in a Makati City  squatter community. ](/news/2011/04/19/devastating-fire-in-manila-philippines-leaves-about-8-000-people-homeless-and-nine-injured-in-a-makati-city-squatter-community.md)
-_Context: Makati City, Manila, Philippines_
+_Context: Makati City, Manila, Philippine_
 
 ### [A donation campaign raises less money than expected towards a newer containment shell at Chernobyl. ](/news/2011/04/19/a-donation-campaign-raises-less-money-than-expected-towards-a-newer-containment-shell-at-chernobyl.md)
 _Context: Chernobyl, containment shell_

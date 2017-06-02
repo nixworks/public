@@ -7,7 +7,7 @@ _Context: Belgium, Netherlands, whether or not to continue_
 _Context: 2003 invasion of Iraq, Nasdaq, Stock market downturn of 2002, United States Department of the Treasury_
 
 ### [  Spratly Islands:  The Governor of the Philippine state of Palawan has sent Philippine soldiers to take possession of the uninhabited oil-rich Spratly Islands, which are claimed by the Philippines, Brunei, the People's Republic of China, Malaysia, the Republic of China (Taiwan), and Vietnam.](/news/2002/09/23/spratly-islands-the-governor-of-the-philippine-state-of-palawan-has-sent-philippine-soldiers-to-take-possession-of-the-uninhabited-oil-r.md)
-_Context: Brunei, Malaysia, Palawan, Philippines, Spratly Islands, Taiwan, Taiwan, Vietnam_
+_Context: Brunei, Malaysia, Palawan, Philippine, Spratly Islands, Taiwan, Taiwan, Vietnam_
 
 ## [Previous Day...](/news/2002/09/22/index.md)
 

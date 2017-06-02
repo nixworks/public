@@ -19,7 +19,7 @@ YANGON, Myanmar (AP) — Thousands of Myanmar politicians, activists and others 
 A 27-year-old student allegedly known for his right-wing, nationalist views appears in court in Canada charged with murdering six people during a shooting at a Quebec City mosque.
 
 ### [Iris Mittenaere, winner of Miss France 2016, is crowned as the winner of Miss Universe 2016 at a ceremony in the Philippines. ](/news/2017/01/30/iris-mittenaere-winner-of-miss-france-2016-is-crowned-as-the-winner-of-miss-universe-2016-at-a-ceremony-in-the-philippines.md)
-_Context: Iris Mittenaere, Miss France 2016, Miss Universe 2016, Philippines_
+_Context: Iris Mittenaere, Miss France 2016, Miss Universe 2016, Philippine_
 
 ### [Walgreens Boots Alliance  reduces its offer price for  Rite Aid and defers the expected closing date by six months due to concerns about regulatory approval. ](/news/2017/01/30/walgreens-boots-alliance-reduces-its-offer-price-for-rite-aid-and-defers-the-expected-closing-date-by-six-months-due-to-concerns-about-reg.md)
 Drugstore chain Walgreens Boots Alliance Inc (WBA.O) said its deal to buy smaller rival Rite Aid Corp (RAD.N) would now take six months longer to close and also reduced its offer price as it expects to divest more stores to gain regulatory approval.

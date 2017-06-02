@@ -1,7 +1,7 @@
 ## [2010-12-14](/news/2010/12/14/index.md)
 
 ### [The Philippine government says it will attempt to end the long-running communist insurgency "within three years", as it announces a resumption of peace talks with rebels. ](/news/2010/12/14/the-philippine-government-says-it-will-attempt-to-end-the-long-running-communist-insurgency-within-three-years-as-it-announces-a-resumpti.md)
-_Context: Philippines, communist insurgency_
+_Context: Philippine, communist insurgency_
 
 ### [Receivers of the Pike River Mine on the South Island of New Zealand lay off 114 workers following the closure of the mine after the Pike River Mine disaster. ](/news/2010/12/14/receivers-of-the-pike-river-mine-on-the-south-island-of-new-zealand-lay-off-114-workers-following-the-closure-of-the-mine-after-the-pike-riv.md)
 _Context: New Zealand, Pike River Mine, Pike River Mine disaster, South Island_

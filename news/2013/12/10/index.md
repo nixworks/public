@@ -16,7 +16,7 @@ _Context: General Motors, Mary Barra_
 _Context: National Security Agency, Second Life, World of Warcraft, Xbox 360_
 
 ### [Al-Qaeda insurgency in Yemen:The Philippines bans its workers from Yemen after the deaths of seven Filipinos there. ](/news/2013/12/10/al-qaeda-insurgency-in-yemen-pthe-philippines-bans-its-workers-from-yemen-after-the-deaths-of-seven-filipinos-there.md)
-_Context: Al-Qaeda insurgency in Yemen, Filipino, Philippines, Yemen_
+_Context: Al-Qaeda insurgency in Yemen, Filipino, Philippine, Yemen_
 
 ### [Jean-Claude Mas, the founder of Poly Implant Prothse is sentenced in a French court to four years in prison for fraud for selling faulty breast implants. ](/news/2013/12/10/jean-claude-mas-the-founder-of-poly-implant-prothese-is-sentenced-in-a-french-court-to-four-years-in-prison-for-fraud-for-selling-faulty-br.md)
 _Context: Poly Implant Prothse, breast implant_
