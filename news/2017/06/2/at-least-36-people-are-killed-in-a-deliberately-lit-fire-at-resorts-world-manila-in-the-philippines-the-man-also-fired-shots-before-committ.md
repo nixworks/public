@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2017/06/01/asia/resorts-world-manila-philippines/index.htm)
+1. [CNN](http://edition.cnn.com/2017/06/01/asia/resorts-world-manila-philippines)
 
 ### Related:
 
