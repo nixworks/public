@@ -7,7 +7,7 @@ _Context: Marawi, Marawi crisis, Maute, Philippine_
 _Context: Barzeh, Damascus, Syrian Civil War_
 
 ### [Iraq's Popular Mobilization Forces, assisted by Iran,  say they cleared ISIL out of several villages north of Ba'aj on the border with Syria. ](/news/2017/05/29/iraq-s-popular-mobilization-forces-assisted-by-iran-say-they-cleared-isil-out-of-several-villages-north-of-ba-aj-on-the-border-with-syria.md)
-_Context: Ba'aj, ISIL, Iran, Iraqi Civil War, Popular Mobilization Forces, Syria_
+_Context: Ba'aj, Iran, Iraqi Civil War, Islamic State, Popular Mobilization Forces, Syria_
 
 ### [Canadian Prime Minister Justin Trudeau asks Pope Francis for a public apology for the Roman Catholic Church's role in the   abuse of indigenous children in the  residential school system. In 2009, Pope Benedict XVI issued an expression of sorrow after an audience with Assembly of First Nations Chief Phil Fontaine. ](/news/2017/05/29/canadian-prime-minister-justin-trudeau-asks-pope-francis-for-a-public-apology-for-the-roman-catholic-church-s-role-in-the-abuse-of-indigen.md)
 _Context: Assembly of First Nations, Canadian Prime Minister, Chief Phil Fontaine, Justin Trudeau, Pope Benedict XVI, Pope Francis, indigenous children, residential school system_
