@@ -1,4 +1,18 @@
-## [News](/news/2017/06/2/index.md)
+## [News](/news/2017/06/3/index.md)
+
+### [According to the Interior Ministry, three blasts at a funeral attended by MPs and government figures in Kabul kill at least seven people and wounds 119 more. ](/news/2017/06/3/according-to-the-interior-ministry-three-blasts-at-a-funeral-attended-by-mps-and-government-figures-in-kabul-kill-at-least-seven-people-and.md)
+Blasts at funeral attended by government officials including one of leading political figures comes after devastating bombing
+
+### [Voters in Lesotho go to the polls for an election, with a tight race predicted between the Democratic Congress, led by current Prime Minister Pakalitha Mosisili, and the All Basotho Convention, led by former prime minister Tom Thabane. ](/news/2017/06/3/voters-in-lesotho-go-to-the-polls-for-an-election-with-a-tight-race-predicted-between-the-democratic-congress-led-by-current-prime-ministe.md)
+Snap election is seen as a two-horse race between old rivals Prime Minister Pakalitha Mosisili and Thomas Thabane.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/06/2/index.md)
 
 ### [ A terrorist threat results in the evacuation of tens of thousands of fans at the first day of the annual Rock am Ring music festival at the Zeppelinfeld in Nuremberg, Germany. Organizers say they hope the festival will resume Saturday. ](/news/2017/06/2/a-terrorist-threat-results-in-the-evacuation-of-tens-of-thousands-of-fans-at-the-first-day-of-the-annual-rock-am-ring-music-festival-at-the.md)
 Fans hoping to see German rock giants Rammstein stream out of the Nuerburg arena instead.
@@ -30,13 +44,9 @@ LEO Varadkar has been confirmed as the new leader of Fine Gael &#8211; and looks
 ### [Two of Jupiter's moons, S/2003 J 18 and S/2011 J 2 are recovered, and a small 1.5-kilometer outer moon (S/2016 J 1) is discovered, the first moon discovered around a major planet in 6 years. ](/news/2017/06/2/two-of-jupiter-s-moons-s-2003-j-18-and-s-2011-j-2-are-recovered-and-a-small-1-5-kilometer-outer-moon-s-2016-j-1-is-discovered-the-first.md)
 _Context: S/2003 J 18, S/2011 J 2, S/2016 J 1, the first moon_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/06/1/index.md)
+## [Day Before Yesterday](/news/2017/06/1/index.md)
 
 ### [Philippine Defense Secretary Delfin Lorenzana announces the deaths of ten soldiers in Marawi as a result of a "friendly fire" airstrike. ](/news/2017/06/1/philippine-defense-secretary-delfin-lorenzana-announces-the-deaths-of-ten-soldiers-in-marawi-as-a-result-of-a-friendly-fire-airstrike.md)
 The accident happened in the city of Marawi where Islamists have clashed with the army.
@@ -58,32 +68,7 @@ Scientists pick up once again the distortions in space-time resulting from a hug
 
 ---
 
-## [Day Before Yesterday](/news/2017/05/31/index.md)
-
-### [A suicide bombing occurs in Kabul near the German embassy with at least 90 killed and 461 injured. ](/news/2017/05/31/a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-at-least-90-killed-and-461-injured.md)
-At least nine people were killed and more than 90 wounded were taken to Kabul hospitals after a huge car bomb exploded in the Afghan capital on Wednesday, a public health official said, and the casualty total could rise.
-
-### [The U.S.-backed Syrian Democratic Forces (SDF) says they will counter Iraq's mostly Iran-backed Popular Mobilization Forces (PMU) militants if the latter enters areas under SDF control, insisting that SDF will never accept the presence of Iran and SDF will never under any circumstances act as a bridge between PMU and the Syria's Assad regime. ](/news/2017/05/31/the-u-s-backed-syrian-democratic-forces-sdf-says-they-will-counter-iraqas-mostly-iran-backed-popular-mobilization-forces-pmu-militant.md)
-Spokesman for Syrian Kurdish-Arab coalition says it would &#039;fight&#039; Popular Mobilisation Units if they crossed the border
-
-### [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of ''CBS Evening News''. Pelley will remain with ''CBS News'' as a correspondent in ''60 Minutes''. ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news-pelley-will-remain-with-cbs.md)
-_Context: 60 Minutes, CBS, CBS Evening News, Scott Pelley_
-
-### [CNN terminates its ''New Year's Eve Live'' contract with Kathy Griffin after she released a photograph of her holding a mock decapitated head of President Donald Trump. ](/news/2017/05/31/cnn-terminates-its-new-year-s-eve-live-contract-with-kathy-griffin-after-she-released-a-photograph-of-her-holding-a-mock-decapitated-hea.md)
-After her severed-Trump-head photo, Kathy Griffin will no longer appear with Anderson Cooper on CNN&#39;s New Year&#39;s Eve special, the network said Wednesday.
-
-### [Kenya opens the Mombasa-Nairobi Standard Gauge Railway, the East African country's largest infrastructure project since gaining independence. ](/news/2017/05/31/kenya-opens-the-mombasaanairobi-standard-gauge-railway-the-east-african-country-s-largest-infrastructure-project-since-gaining-independen.md)
-_Context: Kenya, Mombasa-Nairobi Standard Gauge Railway_
-
-### [A Turkish Air Force Eurocopter AS532 Cougar helicopter crashes in Sirnak Province after hitting an electricity line, killing all 13 soldiers on board. ](/news/2017/05/31/a-turkish-air-force-eurocopter-as532-cougar-helicopter-crashes-in-aa-rnak-province-after-hitting-an-electricity-line-killing-all-13-soldie.md)
-_Context: Eurocopter AS532 Cougar, Sirnak Province, Turkish Air Force_
-
-### [Guardian Council officially confirmed the result of the election which saw Incumbent President Hassan Rouhani reelected for another four years in office. ](/news/2017/05/31/guardian-council-officially-confirmed-the-result-of-the-election-which-saw-incumbent-president-hassan-rouhani-reelected-for-another-four-yea.md)
-The Guardian Council confirms the result of Iran’s 12th presidential election.
-
----
-
-## [Previous Day...](/news/2017/05/30/index.md)
+## [Previous Day...](/news/2017/05/31/index.md)
 
 ---
 
