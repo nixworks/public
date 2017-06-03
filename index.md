@@ -6,6 +6,9 @@ Blasts at funeral attended by government officials including one of leading poli
 ### [Voters in Lesotho go to the polls for an election, with a tight race predicted between the Democratic Congress, led by current Prime Minister Pakalitha Mosisili, and the All Basotho Convention, led by former prime minister Tom Thabane. ](/news/2017/06/3/voters-in-lesotho-go-to-the-polls-for-an-election-with-a-tight-race-predicted-between-the-democratic-congress-led-by-current-prime-ministe.md)
 Snap election is seen as a two-horse race between old rivals Prime Minister Pakalitha Mosisili and Thomas Thabane.
 
+### [Voters in Malta go to the polls for a snap election, with current Prime Minister Joseph Muscat and his Labour Party facing off against Forza Nazzjonali, led by Simon Busuttil. The election comes amid corruption allegations leveled against Muscat's associates. ](/news/2017/06/3/voters-in-malta-go-to-the-polls-for-a-snap-election-with-current-prime-minister-joseph-muscat-and-his-labour-party-facing-off-against-forza.md)
+_Context: Forza Nazzjonali, Joseph Muscat, Labour Party, Malta, Maltese general election, 2017, Prime Minister, Simon Busuttil_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
