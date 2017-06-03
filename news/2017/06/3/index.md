@@ -3,8 +3,8 @@
 ### [According to the Interior Ministry, three blasts at a funeral attended by MPs and government figures in Kabul kill at least seven people and wounds 119 more. ](/news/2017/06/3/according-to-the-interior-ministry-three-blasts-at-a-funeral-attended-by-mps-and-government-figures-in-kabul-kill-at-least-seven-people-and.md)
 Blasts at funeral attended by government officials including one of leading political figures comes after devastating bombing
 
-### [The Metropolitan Police close London Bridge in both directions after a van travelling at approximately 50mph mounts the pavements and injures 5 people. ](/news/2017/06/3/the-metropolitan-police-close-london-bridge-in-both-directions-after-a-van-travelling-at-approximately-50mph-mounts-the-pavements-and-injure.md)
-_Context: London Bridge, The Metropolitan Police_
+### [The Metropolitan Police close London Bridge in both directions after a van travelling at approximately 50mph mounts the pavements and injures 5 pedestrians. ](/news/2017/06/3/the-metropolitan-police-close-london-bridge-in-both-directions-after-a-van-travelling-at-approximately-50mph-mounts-the-pavements-and-injure.md)
+_Context: London Bridge, The Metropolitan Police, mounts_
 
 ### [Voters in Lesotho go to the polls for an election, with a tight race predicted between the Democratic Congress, led by current Prime Minister Pakalitha Mosisili, and the All Basotho Convention, led by former prime minister Tom Thabane. ](/news/2017/06/3/voters-in-lesotho-go-to-the-polls-for-an-election-with-a-tight-race-predicted-between-the-democratic-congress-led-by-current-prime-ministe.md)
 Snap election is seen as a two-horse race between old rivals Prime Minister Pakalitha Mosisili and Thomas Thabane.
