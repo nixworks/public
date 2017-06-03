@@ -1,7 +1,7 @@
 ## [2005-12-13](/news/2005/12/13/index.md)
 
 ### [ Conflict in Iraq: Four American soldiers are killed following an IED attack in the Iraqi capital Baghdad. ](/news/2005/12/13/conflict-in-iraq-p-four-american-soldiers-are-killed-following-an-ied-attack-in-the-iraqi-capital-baghdad.md)
-_Context: Baghdad, Conflict in Iraq, IED, Iraq, United States, capital_
+_Context: Baghdad, Conflict in Iraq, IED, Iraq, U.S., capital_
 
 ### [ The Sixth Ministerial Conference of the World Trade Organization opened in Hong Kong. European Union Trade Commissioner Peter Mandelson said that he expected little progress on resolving disagreements between ministers. Meanwhile, some protesters from South Korea unsuccessfully attempted to bypass the cordon to reach the location of the conference by swimming across Victoria Harbour. ](/news/2005/12/13/the-sixth-ministerial-conference-of-the-world-trade-organization-opened-in-hong-kong-european-union-trade-commissioner-peter-mandelson-sai.md)
 _Context: European Union, European commissioner, Hong Kong, Ministerial Conference of 2005, Peter Mandelson, South Korea, Victoria Harbour, World Trade Organization, cordon, location of the conference_
@@ -25,7 +25,7 @@ Although there were no reports of casualties, many houses in Uri, Fafiabad and B
 _Context: California, San Quentin State Prison, Stanley Williams, death penalty, state_
 
 ### [ In response to Canadian Prime Minister criticizing the United States on its resistance to climate change initiatives, the U.S. Ambassador to Canada, David Wilkins, openly responds to the statements that he complains were used for political advantage during an election.](/news/2005/12/13/in-response-to-canadian-prime-minister-criticizing-the-united-states-on-its-resistance-to-climate-change-initiatives-the-u-s-ambassador-t.md)
-_Context: Canada, Canadian Prime Minister, David Wilkins, United States, ambassador, climate change_
+_Context: Canada, Canadian Prime Minister, David Wilkins, U.S., ambassador, climate change_
 
 ### [ North America: The Canadian provinces, Ontario and Quebec and the US states Illinois, Indiana, Michigan, Minnesota, New York, Ohio, Pennsylvania and Wisconsin sign an international agreement to preclude significant water diversion from the Great Lakes. ](/news/2005/12/13/north-america-the-canadian-provinces-ontario-and-quebec-and-the-us-states-illinois-indiana-michigan-minnesota-new-york-ohio-pennsyl.md)
 _Context: Great Lakes, Illinois, Indiana, Michigan, Minnesota, New York, North America, Ohio, Ontario, Pennsylvania, Quebec, US state, Wisconsin, water diversion_

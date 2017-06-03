@@ -19,7 +19,7 @@ Israel calls on the UN to cancel a report that said it possibly committed war cr
 _Context: Afghan National Army, Camp Phoenix, Kabul, suicide bomber_
 
 ### [A bomb explodes in Omagh, County Tyrone, Northern Ireland, killing one, hours after around 2,000 participants in a half marathon pass by. The incident evokes memories of the 1998 Omagh bombing, while taoiseach Enda Kenny (Republic of Ireland) accuses the perpetrators of "acting in defiance of the Irish people". ](/news/2011/04/2/a-bomb-explodes-in-omagh-county-tyrone-northern-ireland-killing-one-hours-after-around-2-000-participants-in-a-half-marathon-pass-by-th.md)
-_Context: County Tyrone, Enda Kenny, Northern Ireland, Omagh, Omagh bombing, Republic of Ireland, Taoiseach_
+_Context: County Tyrone, Enda Kenny, Ireland, Northern Ireland, Omagh, Omagh bombing, Taoiseach_
 
 ### [Prime Minister of Japan Naoto Kan visits the areas of the country worst affected by the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/2/prime-minister-of-japan-naoto-kan-visits-the-areas-of-the-country-worst-affected-by-the-2011-tahoku-earthquake-and-tsunami.md)
 _Context: Naoto Kan, Prime Minister, an earthquake and tsunami_

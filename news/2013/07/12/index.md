@@ -1,7 +1,7 @@
 ## [2013-07-12](/news/2013/07/12/index.md)
 
 ### [The Moro National Liberation Front kidnaps eight civilians in the Philippines Basilan province later releasing four of them. ](/news/2013/07/12/the-moro-national-liberation-front-kidnaps-eight-civilians-in-the-philippines-basilan-province-later-releasing-four-of-them.md)
-_Context: Basilan island, Moro National Liberation Front, Philippine_
+_Context: Basilan island, Moro National Liberation Front, Philippines_
 
 ### [War in Somalia (2009-present):A car bomb explodes near an African Union convoy killing three soldiers. ](/news/2013/07/12/war-in-somalia-2009apresent-pa-car-bomb-explodes-near-an-african-union-convoy-killing-three-soldiers.md)
 MOGADISHU, July 12 - At least three people were killed Friday when a car bomb targeting a convoy of African Union troops exploded on a major street in the - Kenya breaking news | Kenya news today | Capitalfm.co.ke
@@ -28,7 +28,7 @@ _Context: 2013 Asiana Airlines accident, Boeing 777, San Francisco General Hospi
 _Context: Boeing 787 Dreamliner, Ethiopian Airlines, London Heathrow Airport, Manchester, Thomson Airways_
 
 ### [The US calls on the Egyptian Army to free deposed president Mohamed Morsi. ](/news/2013/07/12/the-us-calls-on-the-egyptian-army-to-free-deposed-president-mohamed-morsi.md)
-_Context: 2013 coup d'etat, Egypt, Egyptian Army, Egyptian President, Mohamed Morsi, United States_
+_Context: 2013 coup d'etat, Egypt, Egyptian Army, Egyptian President, Mohamed Morsi, U.S._
 
 ### [Malala Yousafzai of Pakistan visits the UN headquarters in New York City to celebrate her 16th birthday with the UN address. ](/news/2013/07/12/malala-yousafzai-of-pakistan-visits-the-un-headquarters-in-new-york-city-to-celebrate-her-16th-birthday-with-the-un-address.md)
 UNITED NATIONS (AP) — Malala Yousafzai celebrated her 16th birthday on the world stage at the United Nations, defiantly telling Taliban extremists who tried to end her campaign for girls&#x27; education in Pakistan with a bullet that the attack gave her new courage and demanding that world leaders provide

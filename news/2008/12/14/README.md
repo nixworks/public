@@ -1,7 +1,7 @@
 ## [2008-12-14](/news/2008/12/14/index.md)
 
 ### [ At least 28 people are dead and 22 missing after the ferry ''Maejan'' capsizes in the northern Philippines. ](/news/2008/12/14/at-least-28-people-are-dead-and-22-missing-after-the-ferry-maejan-capsizes-in-the-northern-philippines.md)
-_Context: Philippine, ferry_
+_Context: Philippines, ferry_
 
 ### [ A bus crash in Minya, Egypt, kills 57 people. ](/news/2008/12/14/a-bus-crash-in-minya-egypt-kills-57-people.md)
 _Context: Egypt, Minya, Egypt_
@@ -13,7 +13,7 @@ Turkmenistan votes on Sunday in a snap parliamentary election touted by the gove
 _Context: 2008 Garamba offensive, Democratic Republic of the Congo, Garamba National Park, Lord's Resistance Army, Lord's Resistance Army insurgency, Southern Sudan, Uganda_
 
 ### [ Al-Baghdadia TV journalist Muntadhar al Zaidi is subdued after throwing both his shoes at United States President George W. Bush during his farewell speech in Iraq. ](/news/2008/12/14/al-baghdadia-tv-journalist-muntadhar-al-zaidi-is-subdued-after-throwing-both-his-shoes-at-united-states-president-george-w-bush-during-his.md)
-_Context: Al-Baghdadia TV, George W. Bush, Iraq, Muntadhar al-Zaidi, U.S. President, United States, throws a shoe_
+_Context: Al-Baghdadia TV, George W. Bush, Iraq, Muntadhar al-Zaidi, U.S., U.S. President, throws a shoe_
 
 ## [Previous Day...](/news/2008/12/13/index.md)
 

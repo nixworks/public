@@ -1,7 +1,7 @@
 ## [2009-09-24](/news/2009/09/24/index.md)
 
 ### [ Treaty of Lisbon: Czech President Vaclav Klaus says he is "adamant" Irish voters will reject the European Union's Treaty of Lisbon when they vote on it again in the country's 2 October referendum, meaning his unwillingness to sign the treaty will be justified. ](/news/2009/09/24/treaty-of-lisbon-p-czech-president-va-clav-klaus-says-he-is-adamant-irish-voters-will-reject-the-european-union-s-treaty-of-lisbon-when-t.md)
-_Context: Czech, European Union, Republic of Ireland, Treaty of Lisbon, Vaclav Klaus, president, the second Irish referendum_
+_Context: Czech, European Union, Ireland, Treaty of Lisbon, Vaclav Klaus, president, the second Irish referendum_
 
 ### [ The 2009 G-20 Pittsburgh summit commences with two dozen world leaders in attendance.](/news/2009/09/24/the-2009-g-20-pittsburgh-summit-commences-with-two-dozen-world-leaders-in-attendance.md)
 _Context: G-20 Summit_
@@ -46,7 +46,7 @@ _Context: South Korea, Tanzania_
 _Context: Brussels, Rene Magritte, euro, surrealist_
 
 ### [ Detained Burmese National League for Democracy leader Aung San Suu Kyi welcomes a new United States policy shift which would engage with the Burmese military government. ](/news/2009/09/24/detained-burmese-national-league-for-democracy-leader-aung-san-suu-kyi-welcomes-a-new-united-states-policy-shift-which-would-engage-with-th.md)
-_Context: Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council, United States_
+_Context: Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council, U.S._
 
 ### [ A court in Taiwan rejects former President Chen Shui-bian's appeal to be released on bail. ](/news/2009/09/24/a-court-in-taiwan-rejects-former-president-chen-shui-bian-s-appeal-to-be-released-on-bail.md)
 _Context: Chen Shui-bian, President of Taiwan, Taiwan_

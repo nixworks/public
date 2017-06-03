@@ -22,7 +22,7 @@ _Context: People's Republic of China, Taiwan_
 _Context: Cyprus dispute_
 
 ### [Talks between North Korea and the United States occur, with North and South Korea scheduled to start high-level talks tomorrow. ](/news/2014/02/11/talks-between-north-korea-and-the-united-states-occur-with-north-and-south-korea-scheduled-to-start-high-level-talks-tomorrow.md)
-_Context: North Korea, United States_
+_Context: North Korea, U.S._
 
 ### [The second round of the Geneva II discussion occurs. ](/news/2014/02/11/the-second-round-of-the-geneva-ii-discussion-occurs.md)
 _Context: Geneva II_

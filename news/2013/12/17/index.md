@@ -4,7 +4,7 @@
 In a list heavy with make-good honors, grunge pioneer Nirvana is the sole act among 2014 inductees in the Rock and Roll Hall of Fame to be recognized in their first year of eligibility. The Aberdee…
 
 ### [Bea Rose Santiago of the Philippines is crowned Miss International 2013. ](/news/2013/12/17/bea-rose-santiago-of-the-philippines-is-crowned-miss-international-2013.md)
-_Context: Bea Rose Santiago, Miss International 2013, Philippine_
+_Context: Bea Rose Santiago, Miss International 2013, Philippines_
 
 ### [Jamaican reggae singer Tessanne Chin wins Season 5 of the American singing competition ''The Voice''. ](/news/2013/12/17/jamaican-reggae-singer-tessanne-chin-wins-season-5-of-the-american-singing-competition-the-voice.md)
 It&apos;s official: Tessanne Chin, the supple-singing pride of Jamaica, has won Season 5 of &quot;The Voice.&quot;

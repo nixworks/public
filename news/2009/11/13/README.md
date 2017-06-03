@@ -1,7 +1,7 @@
 ## [2009-11-13](/news/2009/11/13/index.md)
 
 ### [ Philippines President Gloria Arroyo signs a law banning torture, making it a criminal offence punishable by up to 30 years imprisonment. ](/news/2009/11/13/philippines-president-gloria-arroyo-signs-a-law-banning-torture-making-it-a-criminal-offence-punishable-by-up-to-30-years-imprisonment.md)
-_Context: Gloria Arroyo, Philippine, President of the Philippines, torture_
+_Context: Gloria Arroyo, Philippines, President of the Philippines, torture_
 
 ### [ The Turkish government unveils a plan to improve rights of the Kurdish minority to end the decades long ethnic conflict in the southeast of the country. ](/news/2009/11/13/the-turkish-government-unveils-a-plan-to-improve-rights-of-the-kurdish-minority-to-end-the-decades-long-ethnic-conflict-in-the-southeast-of.md)
 _Context: Kurd, Turkey, disarm_
@@ -13,7 +13,7 @@ _Context: Cambodia, Thailand_
 Microsoft has acknowledged that it incorporated open-source code into a Windows 7 download tool. As a result, it will make that tool&#39;s source code available to the community.
 
 ### [ American politician William J. Jefferson, former Democratic Party Congressman from the U.S. state of Louisiana, is sentenced to 13 years in prison for corruption. ](/news/2009/11/13/american-politician-william-j-jefferson-former-democratic-party-congressman-from-the-u-s-state-of-louisiana-is-sentenced-to-13-years-in.md)
-_Context: D, Louisiana, U.S. Congressional, United States, William J. Jefferson, state_
+_Context: D, Louisiana, U.S., U.S. Congressional, William J. Jefferson, state_
 
 ### [ NASA claims to have discovered water after the LCROSS satellite crashes near the South Pole of the Moon. ](/news/2009/11/13/nasa-claims-to-have-discovered-water-after-the-lcross-satellite-crashes-near-the-south-pole-of-the-moon.md)
 The discovery, which came out of a mission a month ago, confirmed scientists’ suspicions and could help explorers.
@@ -64,7 +64,7 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 An Argentine judge has granted a homosexual couple permission to get married, setting a precedent that could pave the way for the Catholic country to become the first in Latin America to allow same-sex marriage.
 
 ### [ The United States opens its first marijuana cafe. ](/news/2009/11/13/the-united-states-opens-its-first-marijuana-cafe.md)
-_Context: United States, marijuana_
+_Context: U.S., marijuana_
 
 ## [Previous Day...](/news/2009/11/12/index.md)
 

@@ -18,7 +18,7 @@ _Context: Beqaa, Chouf, Lebanese general election of 2005, Lebanon, Metn, Michel
 _Context: Kuwait, Massuma al-Mubarak_
 
 ### [ In the Philippines, president Gloria Arroyo asks for unity in the face of so far unproven allegations of electoral fraud. The army is in alert to thwart any coup attempts. Opposition organizes a brief protest to demand Arroyo's resignation ](/news/2005/06/12/in-the-philippines-president-gloria-arroyo-asks-for-unity-in-the-face-of-so-far-unproven-allegations-of-electoral-fraud-the-army-is-in-al.md)
-_Context: Gloria Arroyo, Philippine, coup, electoral fraud_
+_Context: Gloria Arroyo, Philippines, coup, electoral fraud_
 
 ### [ Kurdish parliament in Northern Iraq elects Masoud Barzani as a president of the region ](/news/2005/06/12/kurdish-parliament-in-northern-iraq-elects-masoud-barzani-as-a-president-of-the-region.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

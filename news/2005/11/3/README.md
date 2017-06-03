@@ -13,7 +13,7 @@ _Context: Israel, Israel Defense Forces, Israel's Supreme Court, Israeli-Palesti
 _Context: Conflict in Iraq, Iraq, United Kingdom_
 
 ### [ Five U.S. Marines have been arrested after they were accused of raping a local Filipino woman. The Essex|LHD-2 was prevented from leaving the Philippines until the men were apprehended. ](/news/2005/11/3/five-u-s-marines-have-been-arrested-after-they-were-accused-of-raping-a-local-filipino-woman-the-essex-lhd-2-was-prevented-from-leaving-t.md)
-_Context: Filipino, Philippine, United States Marine Corps, rape_
+_Context: Filipino, Philippines, United States Marine Corps, rape_
 
 ### [ Two more people have died as protests against the government of Ethiopia continue in Addis Ababa. ](/news/2005/11/3/two-more-people-have-died-as-protests-against-the-government-of-ethiopia-continue-in-addis-ababa.md)
 _Context: Addis Ababa, government_

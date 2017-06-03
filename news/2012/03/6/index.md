@@ -22,7 +22,7 @@ _Context: East Africa, Mogadishu, Somalia, Turkish Airlines_
 _Context: Australia, Murrumbidgee River, Wagga Wagga, New South Wales, levee_
 
 ### [A 5.2 magnitude earthquake occurs in the Philippines near Masbate City on the island of Masbate causing some injuries. ](/news/2012/03/6/a-5-2-magnitude-earthquake-occurs-in-the-philippines-near-masbate-city-on-the-island-of-masbate-causing-some-injuries.md)
-_Context: Masbate, Masbate City, Philippine, earthquake_
+_Context: Masbate, Masbate City, Philippines, earthquake_
 
 ### [Human Rights Watch claims that the Government of Japan has been too slow in providing health care to survivors of the Fukushima Daiichi nuclear disaster. ](/news/2012/03/6/human-rights-watch-claims-that-the-government-of-japan-has-been-too-slow-in-providing-health-care-to-survivors-of-the-fukushima-daiichi-nucl.md)
 _Context: Fukushima Daiichi nuclear disaster, Human Rights Watch, Japanese government_
@@ -70,7 +70,7 @@ Folks, our live coverage of state elections in Uttar Pradesh, Uttarakhand, Punja
 The head of the Pakistani Taliban has removed his deputy commander, the militant group confirms to the BBC, the latest sign of a growing power struggle.
 
 ### [The United States Congress votes to restore higher tariffs against the People's Republic of China and other nations that allegedly subsidize exports to the United States. ](/news/2012/03/6/the-united-states-congress-votes-to-restore-higher-tariffs-against-the-people-s-republic-of-china-and-other-nations-that-allegedly-subsidize.md)
-_Context: People's Republic of China, U.S. Congressional, United States, import tariffs_
+_Context: People's Republic of China, U.S., U.S. Congressional, import tariffs_
 
 ### [The Parliament of New South Wales officially appoints Bob Carr as a member of the Australian Senate filling a casual vacancy left by the resignation of Mark Arbib. ](/news/2012/03/6/the-parliament-of-new-south-wales-officially-appoints-bob-carr-as-a-member-of-the-australian-senate-filling-a-casual-vacancy-left-by-the-res.md)
 Despite earlier heckling from a protester, Bob Carr is officially endorsed by the NSW Parliament to fill the Senate vacancy left by Mark Arbib.

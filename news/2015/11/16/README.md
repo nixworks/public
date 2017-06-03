@@ -28,7 +28,7 @@ _Context: People's Republic of China, Zhejiang_
 Reports suggest at least 71 people have died from drowning, collapsing walls and electrocution
 
 ### [The United States National Transportation Safety Board announces it has completed its search of the sunken ''El Faro'', but did not find the voyage data recorder, i.e., the black box. ](/news/2015/11/16/the-united-states-national-transportation-safety-board-announces-it-has-completed-its-search-of-the-sunken-el-faro-but-did-not-find-the.md)
-_Context: 2015 Atlantic hurricane season, El Faro, Hurricane Joaquin, National Transportation Safety Board, United States, voyage data recorder_
+_Context: 2015 Atlantic hurricane season, El Faro, Hurricane Joaquin, National Transportation Safety Board, U.S., voyage data recorder_
 
 ### [The USS Stethem visits Shanghai, signaling that relations between the two countries continue despite tensions over the recent USS Lassen cruise near artificial islands constructed by China. The navies of the two nations plan combined maritime exercise as well. ](/news/2015/11/16/the-uss-stethem-visits-shanghai-signaling-that-relations-between-the-two-countries-continue-despite-tensions-over-the-recent-uss-lassen-cru.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

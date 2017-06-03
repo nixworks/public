@@ -19,7 +19,7 @@ Long-running BBC comedy Last of the Summer Wine is to be axed after 37 years, th
 There is growing alarm in Kenya where the government has announced 2.3m bags of maize are unfit for human consumption.
 
 ### [15 people die after a minibus drives off a cliff in the Philippines. ](/news/2010/06/2/15-people-die-after-a-minibus-drives-off-a-cliff-in-the-philippines.md)
-_Context: Philippine, minibus_
+_Context: Philippines, minibus_
 
 ### [14 people are killed and injuries are caused when a four-storey building collapses in  Tejgaon, Dhaka. ](/news/2010/06/2/14-people-are-killed-and-injuries-are-caused-when-a-four-storey-building-collapses-in-tejgaon-dhaka.md)
 A four-storey building collapses in the Bangladeshi capital, Dhaka, leaving at least 23 dead and many injured.

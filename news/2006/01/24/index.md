@@ -10,7 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Miyeegombyn Enkhbold, Mongolia, Prime Minister, State Great Khural_
 
 ### [ Two mergers are announced in the American entertainment industry: Disney and Pixar Animation Studios will merge in a <sup>US</sup>$7.4 billion deal. ](/news/2006/01/24/two-mergers-are-announced-in-the-american-entertainment-industry-disney-and-pixar-animation-studios-will-merge-in-a-us-7-4-billion-deal.md)
-_Context: Pixar Animation Studios, The Walt Disney Company, US$_
+_Context: Disney, Pixar Animation Studios, US$_
 
 ### [ A bomb in the southern Iranian city of Ahvaz kills six and injures up to 40. Iranian President Mahmoud Ahmadinejad was due to have visited the city today, however the trip was called off at the last minute. Lebanon's al-Manar television said the president had called off his trip after a security tip-off. Local MP Nezam Molla-Hoveyzeh accused Britain of being behind the attack. ](/news/2006/01/24/a-bomb-in-the-southern-iranian-city-of-ahvaz-kills-six-and-injures-up-to-40-iranian-president-mahmoud-ahmadinejad-was-due-to-have-visited.md)
 _Context: Ahvaz, Iran, Lebanon, Mahmoud Ahmadinejad, Nezam Molla-Hoveyzeh, President, al-Manar_

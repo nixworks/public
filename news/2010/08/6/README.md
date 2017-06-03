@@ -19,7 +19,7 @@ _Context: Gaza Strip, Israel, May Hariri, Tripoli_
 Explosive-laden dinghy hit Japanese tanker in Strait of Hormuz, state news agency says.
 
 ### [An explosion at Zamboanga International Airport in the southern Philippines kills two people and injures 24. ](/news/2010/08/6/an-explosion-at-zamboanga-international-airport-in-the-southern-philippines-kills-two-people-and-injures-24.md)
-_Context: Philippine, Zamboanga International Airport_
+_Context: Philippines, Zamboanga International Airport_
 
 ### [French police dismantle Romani camps in Saint-Etienne by order of the president. ](/news/2010/08/6/french-police-dismantle-romani-camps-in-saint-atienne-by-order-of-the-president.md)
 France begins taking down illegal Roma camps in line with a presidential order, with police dismantling a camp in Saint-Etienne.

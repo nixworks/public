@@ -1,7 +1,7 @@
 ## [2009-09-17](/news/2009/09/17/index.md)
 
 ### [ A senior Irish Catholic bishop says Roman Catholics can vote "Yes" in the country's second referendum on the Treaty of Lisbon "in good conscience". ](/news/2009/09/17/a-senior-irish-catholic-bishop-says-roman-catholics-can-vote-yes-in-the-country-s-second-referendum-on-the-treaty-of-lisbon-in-good-cons.md)
-_Context: Catholic, Republic of Ireland, Roman Catholic, Treaty of Lisbon, bishop, the second Irish referendum_
+_Context: Catholic, Ireland, Roman Catholic, Treaty of Lisbon, bishop, the second Irish referendum_
 
 ### [ At least 87 refugees are killed after an army air raid on a camp for displaced people in 'Amran Governorate, northern Yemen. ](/news/2009/09/17/at-least-87-refugees-are-killed-after-an-army-air-raid-on-a-camp-for-displaced-people-in-amran-governorate-northern-yemen.md)
 _Context: 'Amran Governorate, Yemen, soldiers_
@@ -10,7 +10,7 @@ _Context: 'Amran Governorate, Yemen, soldiers_
 _Context: European Union, Nicolas Sarkozy, President of France, banking_
 
 ### [ The Prime Minister of the Czech Republic, Jan Fischer, says that President Barack Obama told him that the United States is abandoning plans for a missile shield based in Poland and the Czech Republic. ](/news/2009/09/17/the-prime-minister-of-the-czech-republic-jan-fischer-says-that-president-barack-obama-told-him-that-the-united-states-is-abandoning-plans.md)
-_Context: Barack Obama, Czech, Jan Fischer, Poland, Prime Minister of the Czech Republic, U.S. President, United States, missile shield_
+_Context: Barack Obama, Czech, Jan Fischer, Poland, Prime Minister of the Czech Republic, U.S., U.S. President, missile shield_
 
 ### [ Two large explosions hit the main base of African Union peacekeepers in Mogadishu, Somalia. ](/news/2009/09/17/two-large-explosions-hit-the-main-base-of-african-union-peacekeepers-in-mogadishu-somalia.md)
 _Context: African Union, Mogadishu, Somalia_

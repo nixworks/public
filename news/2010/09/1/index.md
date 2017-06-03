@@ -28,7 +28,7 @@ Actress Zsa Zsa Gabor is rushed back to hospital in Los Angeles after slipping i
 _Context: A Journey, Prime Minster, Tony Blair, United Kingdom, autobiography, bestseller_
 
 ### [United States rapper T.I. and his wife singer Tameka Cottle are arrested on Sunset Boulevard in Los Angeles for illegal drug possession. ](/news/2010/09/1/united-states-rapper-t-i-and-his-wife-singer-tameka-cottle-are-arrested-on-sunset-boulevard-in-los-angeles-for-illegal-drug-possession.md)
-_Context: Los Angeles, California, Sunset Boulevard, T.I., Tameka Cottle, United States, rapper_
+_Context: Los Angeles, California, Sunset Boulevard, T.I., Tameka Cottle, U.S., rapper_
 
 ### [Archaeologists discover 200 year old bottles of beer in a shipwreck south of the autonomous Aland Islands in the Baltic Sea believed to be the world's oldest. ](/news/2010/09/1/archaeologists-discover-200-year-old-bottles-of-beer-in-a-shipwreck-south-of-the-autonomous-aland-islands-in-the-baltic-sea-believed-to-be-t.md)
 _Context: Aland Islands, Archaeologist, Baltic Sea, beer, shipwreck_

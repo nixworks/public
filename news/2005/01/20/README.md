@@ -16,7 +16,7 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 _Context: Eid ul-Adha, Hajj, Satan, Saudi Arabia, pillars_
 
 ### [ The Republic of Ireland, one of the last countries to use non-metric speed limits, officially changes all road signage and regulations to use kilometres per hour (km/h). Speed limits in Northern Ireland remain in miles per hour (mph). ](/news/2005/01/20/the-republic-of-ireland-one-of-the-last-countries-to-use-non-metric-speed-limits-officially-changes-all-road-signage-and-regulations-to-u.md)
-_Context: Northern Ireland, Republic of Ireland, changes, metric, road sign, speed limit_
+_Context: Ireland, Northern Ireland, changes, metric, road sign, speed limit_
 
 ### [ In Ukraine, the Supreme Court dismisses prime minister Viktor Yanukovych's appeal and confirms that Viktor Yushchenko has won the presidential election. ](/news/2005/01/20/in-ukraine-the-supreme-court-dismisses-prime-minister-viktor-yanukovych-s-appeal-and-confirms-that-viktor-yushchenko-has-won-the-president.md)
 _Context: Ukrainians, Viktor Yanukovych, Viktor Yushchenko_
@@ -40,7 +40,7 @@ Breaking News, data &amp; opinions in business, sports, entertainment, travel, l
 The discovery of an iron meteorite sitting on Mars by NASA’s Opportunity rover has kick-started a wide-ranging discussion as to what the find may be telling us about the planet itself, past water conditions there, and just how peppered the red planet migh
 
 ### [ The Walt Disney Company announces that the water park River Country will be closed permanently.](/news/2005/01/20/the-walt-disney-company-announces-that-the-water-park-river-country-will-be-closed-permanently.md)
-_Context: River Country, The Walt Disney Company_
+_Context: Disney, River Country_
 
 ### [ a solar flare Solar flare#Hazards](/news/2005/01/20/a-solar-flare-solar-flare-hazards.md)
 _Context: Solar flare#Hazards, solar flare_

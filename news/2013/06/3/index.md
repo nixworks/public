@@ -31,7 +31,7 @@ _Context: Jilin Baoyuanfeng Poultry Plant fire, Jilin province, People's Republi
 State of emergency declared in several regions as heavy flooding kills eight and leaves nine more missing across Europe.
 
 ### [A Cebu Pacific flight carrying 165 passengers inbound from Manila, overshoots the runway during heavy rain in Davao City, Philippines. There are no fatalities, however the plane is heavily damaged. ](/news/2013/06/3/a-cebu-pacific-flight-carrying-165-passengers-inbound-from-manila-overshoots-the-runway-during-heavy-rain-in-davao-city-philippines-there.md)
-_Context: Cebu Pacific, Davao City, Manila, Philippine_
+_Context: Cebu Pacific, Davao City, Manila, Philippines_
 
 ### [Former U.S. president Bill Clinton is paid $500,000 to give a speech in honour of Israeli president Shimon Peres. ](/news/2013/06/3/former-u-s-president-bill-clinton-is-paid-500-000-to-give-a-speech-in-honour-of-israeli-president-shimon-peres.md)
 Former US president Bill Clinton has been paid $500,000 for a speech to be given at an event in honour of Israeli President Shimon Peres, sources told X...

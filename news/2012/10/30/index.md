@@ -31,7 +31,7 @@ _Context: Bodleian Library, Cecil Day-Lewis, Daniel Day-Lewis, Oxford University
 _Context: London, The Stone Roses, reunion_
 
 ### [The Walt Disney Company purchases Lucasfilm Ltd. from George Lucas for US$4.05 billion. Included in the deal are the rights to the ''Star Wars'' and ''Indiana Jones'' franchises. ](/news/2012/10/30/the-walt-disney-company-purchases-lucasfilm-ltd-from-george-lucas-for-us-4-05-billion-included-in-the-deal-are-the-rights-to-the-star-wa.md)
-_Context: George Lucas, Indiana Jones, Lucasfilm Ltd., Star Wars, The Walt Disney Company_
+_Context: Disney, George Lucas, Indiana Jones, Lucasfilm Ltd., Star Wars_
 
 ### [Aid workers and the United Nations raise concerns about rising food prices and increased cholera in Haiti, where Hurricane Sandy has killed at least 52 people. ](/news/2012/10/30/aid-workers-and-the-united-nations-raise-concerns-about-rising-food-prices-and-increased-cholera-in-haiti-where-hurricane-sandy-has-killed.md)
 Officials fear rising food prices and an increase in cholera cases in Caribbean nation where storm killed 52 people.

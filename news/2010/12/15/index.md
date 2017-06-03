@@ -1,7 +1,7 @@
 ## [2010-12-15](/news/2010/12/15/index.md)
 
 ### [Communist rebels in the Philippines kill 10 soldiers as they returned to base to observe a Christmas truce. ](/news/2010/12/15/communist-rebels-in-the-philippines-kill-10-soldiers-as-they-returned-to-base-to-observe-a-christmas-truce.md)
-_Context: Christmas, New People's Army, Philippine_
+_Context: Christmas, New People's Army, Philippines_
 
 ### [Dozens of people are dead following an explosion outside a mosque in the Iranian city of Chabahar. ](/news/2010/12/15/dozens-of-people-are-dead-following-an-explosion-outside-a-mosque-in-the-iranian-city-of-chabahar.md)
 At least 41 people killed and dozens injured after a suicide bombing near a mosque in the Iranian city of Chabahar.

@@ -25,7 +25,7 @@ Prime Minister Saad Hariri on Tuesday wrapped up a two-day official visit to Rus
 European finance ministers say they did not hold detailed discussions on a potential bail-out for the Irish Republic at a meeting in Brussels.
 
 ### [A United States bankruptcy judge orders Bank of America to return $500 million it seized from the bank accounts of the defunct Lehman Brothers trading firm a few weeks before Lehman declared bankruptcy in 2008. ](/news/2010/11/17/a-united-states-bankruptcy-judge-orders-bank-of-america-to-return-500-million-it-seized-from-the-bank-accounts-of-the-defunct-lehman-brothe.md)
-_Context: Bank of America, Lehman Brothers, US$, United States_
+_Context: Bank of America, Lehman Brothers, U.S., US$_
 
 ### [New home construction fell to its lowest level since April 2009. ](/news/2010/11/17/new-home-construction-fell-to-its-lowest-level-since-april-2009.md)
 _Context: April 2009, economy of the United States_

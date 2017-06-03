@@ -4,13 +4,13 @@
 _Context: 2010 general election, British Parliament, Elliot Morley, MP, Scunthorpe, United Kingdom, resignation_
 
 ### [ American record producer Phil Spector is jailed for 19 years for murdering actress Lana Clarkson in 2003. ](/news/2009/05/29/american-record-producer-phil-spector-is-jailed-for-19-years-for-murdering-actress-lana-clarkson-in-2003.md)
-_Context: Lana Clarkson, Phil Spector, United States, murder, record producer_
+_Context: Lana Clarkson, Phil Spector, U.S., murder, record producer_
 
 ### [ American media companies Time Warner and AOL terminate their merger. ](/news/2009/05/29/american-media-companies-time-warner-and-aol-terminate-their-merger.md)
 Nearly a decade after high-flying upstart AOL bought media titan Time Warner Inc. in what turned out to be one of the most disastrous mergers in history, the two parted company Thursday, leaving both firms searching for their places in an altered media landscape.
 
 ### [ Irish brewery Beamish and Crawford closes after 217 years in business. ](/news/2009/05/29/irish-brewery-beamish-and-crawford-closes-after-217-years-in-business.md)
-_Context: Beamish and Crawford, Republic of Ireland, brewery_
+_Context: Beamish and Crawford, Ireland, brewery_
 
 ### [ Irish broadcaster Pat Kenny hosts his final episode of ''The Late Late Show''. ](/news/2009/05/29/irish-broadcaster-pat-kenny-hosts-his-final-episode-of-the-late-late-show.md)
 _Context: Pat Kenny, The Late Late Show, broadcaster_
@@ -22,7 +22,7 @@ Kavya Shivashankar emerges spelling bee winner after spelling her final word, &q
 _Context: Roh Moo-hyun, Seoul, South Korea, South Korean President, state funeral_
 
 ### [ The United States Department of Defense will create a computer-security military command. ](/news/2009/05/29/the-united-states-department-of-defense-will-create-a-computer-security-military-command.md)
-_Context: Computer security, Defense Department, United States, military command_
+_Context: Computer security, Defense Department, U.S., military command_
 
 ### [ Four people are killed when a dam bursts in Piaui, Brazil. ](/news/2009/05/29/four-people-are-killed-when-a-dam-bursts-in-piaua-brazil.md)
 _Context: Brazil, Piaui, dam_

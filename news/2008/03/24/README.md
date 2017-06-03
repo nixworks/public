@@ -13,7 +13,7 @@ _Context: Bhutan, Bhutan Peace and Prosperity Party, Lyonpo Jigme Thinley, Prime
 _Context: Sirius Satellite Radio, U.S. Justice Department, XM Satellite Radio, merger_
 
 ### [ The Federal Bureau of Investigation identifies the bodies of two United States citizens working as contractors in Iraq kidnapped more than a year ago. ](/news/2008/03/24/the-federal-bureau-of-investigation-identifies-the-bodies-of-two-united-states-citizens-working-as-contractors-in-iraq-kidnapped-more-than.md)
-_Context: Federal Bureau of Investigation, Iraq, Kidnap, United States_
+_Context: Federal Bureau of Investigation, Iraq, Kidnap, U.S._
 
 ### [ Marleen Veldhuis of the Netherlands and Federica Pellegrini of Italy break world records at the final day of the European Swimming Championships in Eindhoven, Netherlands. ](/news/2008/03/24/marleen-veldhuis-of-the-netherlands-and-federica-pellegrini-of-italy-break-world-records-at-the-final-day-of-the-european-swimming-champion.md)
 _Context: Dutch, Eindhoven, European Swimming Championships, Federica Pellegrini, Italian, Marleen Veldhuis, Netherlands, world record_
@@ -25,7 +25,7 @@ _Context: 2008 invasion of Anjouan, African Union, Anjouan, Comoros, drop leafle
 _Context: Iftikhar Chaudhry, MNA, Pakistan Peoples Party, Prime Minister, Yusuf Raza Gillani, house arrest_
 
 ### [ Former President of the Philippines Corazon Aquino, the leader of the 1986 People Power Revolution, is diagnosed with colon cancer. ](/news/2008/03/24/former-president-of-the-philippines-corazon-aquino-the-leader-of-the-1986-people-power-revolution-is-diagnosed-with-colon-cancer.md)
-_Context: 1986 People Power Revolution, Corazon Aquino, Philippine, President of the Philippines, colon cancer_
+_Context: 1986 People Power Revolution, Corazon Aquino, Philippines, President of the Philippines, colon cancer_
 
 ### [ The Olympic Flame of the 2008 Summer Olympics is lit in Olympia, despite disruption by three protesters from Reporters Without Borders, among whom was Robert Mnard.  ](/news/2008/03/24/the-olympic-flame-of-the-2008-summer-olympics-is-lit-in-olympia-despite-disruption-by-three-protesters-from-reporters-without-borders-amo.md)
 _Context: Beijing Olympiad, Olympia, Greece, Olympic Torch, Reporters without Borders's, Robert Mnard_

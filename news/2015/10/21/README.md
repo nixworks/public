@@ -13,7 +13,7 @@ _Context: Houthi, Taiz, Yemen, Yemeni Civil War (2015)_
 Twenty people were shot dead by suspected Boko Haram gunmen Wednesday on a road outside a village in Nigeria&#x27;s northeast Borno state, local sources said. A large group of Boko Haram gunmen fleeing a military offensive on their camp in Nganzai district opened fire on four cars just outside Jingalta
 
 ### [The death toll from Tropical Storm Koppu that battered the Philippines' main island this weekend climbed to at least 39. Koppu forced more than 100,000 villagers into emergency shelters and destroyed rice fields ready for harvest. ](/news/2015/10/21/the-death-toll-from-tropical-storm-koppu-that-battered-the-philippines-main-island-this-weekend-climbed-to-at-least-39-koppu-forced-more-t.md)
-_Context: 2015 Pacific typhoon season, Philippine, Typhoon Koppu (Lando), emergency shelters, harvest, rice fields_
+_Context: 2015 Pacific typhoon season, Philippines, Typhoon Koppu (Lando), emergency shelters, harvest, rice fields_
 
 ### [A U.S. F-18 fighter jet crashes into farmland near RAF Lakenheath in Suffolk county, England, killing the pilot. ](/news/2015/10/21/a-u-s-f-18-fighter-jet-crashes-into-farmland-near-raf-lakenheath-in-suffolk-county-england-killing-the-pilot.md)
 A partly opened parachute F-18 fighter crashes on to farmland, some seven miles from Suffolk&#039;s RAF Lakenheath.
@@ -25,7 +25,7 @@ _Context: American Academy of Pediatrics, American College of Obstetricians and 
 _Context: Bashar al-Assad, Moscow, President, Russia President, Syrian Civil War, Vladimir Putin_
 
 ### [Iran's Supreme Leader Ayatollah Ali Khamenei approves the nuclear deal between Tehran and world powers, and orders it to be implemented subject to certain conditions. The letter states the United States and European Union should clearly announce the elimination of sanctions against Iran. The imposition of sanctions at any level and under any pretext from any of the negotiating countries would violate the JCPOA. ](/news/2015/10/21/iran-s-supreme-leader-ayatollah-ali-khamenei-approves-the-nuclear-deal-between-tehran-and-world-powers-and-orders-it-to-be-implemented-subj.md)
-_Context: Ali Khamenei, European Union, Iranian government, Joint Comprehensive Plan of Action, Supreme Leader of Iran, United States, pre-sanction_
+_Context: Ali Khamenei, European Union, Iranian government, Joint Comprehensive Plan of Action, Supreme Leader of Iran, U.S., pre-sanction_
 
 ### [The Vatican denies an Italian newspaper report that Pope Francis has a benign brain tumour, saying the 78-year-old pontiff is in good health, and denounces the article as utterly reprehensible. ](/news/2015/10/21/the-vatican-denies-an-italian-newspaper-report-that-pope-francis-has-a-benign-brain-tumour-saying-the-78-year-old-pontiff-is-in-good-health.md)
 The Vatican denied an Italian newspaper report on Wednesday that Pope Francis has a benign brain tumour, saying the 78-year-old pontiff was in good health and denouncing the article as &quot;inexcusable&quot;.

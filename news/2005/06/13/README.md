@@ -19,7 +19,7 @@ _Context: Flash flooding, Heilongjiang, People's Republic of China, Shalan_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ In the Philippines, president Gloria Arroyo's press secretary Ignacio Bunye states that the president is ready to face proper impeachment charges if the opposition follows the proper legal process. Many politicians have expressed support to her. ](/news/2005/06/13/in-the-philippines-president-gloria-arroyo-s-press-secretary-ignacio-bunye-states-that-the-president-is-ready-to-face-proper-impeachment-c.md)
-_Context: Gloria Arroyo, Ignacio Bunye, Philippine, impeach_
+_Context: Gloria Arroyo, Ignacio Bunye, Philippines, impeach_
 
 ### [ Philippines police are ready to charge former National Bureau of Investigation deputy director Samuel Ong for illegal wiretapping and sedition ](/news/2005/06/13/philippines-police-are-ready-to-charge-former-national-bureau-of-investigation-deputy-director-samuel-ong-for-illegal-wiretapping-and-sedit.md)
 _Context: Samuel Ong, sedition, wiretapping_
@@ -37,7 +37,7 @@ _Context: CAN$, Canada, Cineplex Odeon, Famous Players, Viacom_
 _Context: Niger River, Nigeria, Olusegun Obasanjo, refinery_
 
 ### [ In Mexico, army soldiers and federales take over the city of Nuevo Laredo near the US border. The whole local police force is detained for investigation in connection to drug trafficking and for drug testing. City's just-appointed police chief Alejandro Dominguez was assassinated last Wednesday. On Saturday, a policeman shot a federal agent ](/news/2005/06/13/in-mexico-army-soldiers-and-federales-take-over-the-city-of-nuevo-laredo-near-the-us-border-the-whole-local-police-force-is-detained-for.md)
-_Context: Mexico, Nuevo Laredo, United States, drug testing, drug trafficking, federales, police_
+_Context: Mexico, Nuevo Laredo, U.S., drug testing, drug trafficking, federales, police_
 
 ### [ 14 people drown off the coast of Morocco in a boat that tried to reach Spain ](/news/2005/06/13/14-people-drown-off-the-coast-of-morocco-in-a-boat-that-tried-to-reach-spain.md)
 _Context: Moroccan, Spain_

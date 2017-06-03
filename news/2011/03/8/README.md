@@ -28,7 +28,7 @@ _Context: California, Los Angeles, California, Redondo Beach_
 _Context: Harrisburg, PA_
 
 ### [China reiterates its claim over the disputed Spratly Islands after Vietnam and the Philippines protest over Chinese naval activity in their waters. ](/news/2011/03/8/china-reiterates-its-claim-over-the-disputed-spratly-islands-after-vietnam-and-the-philippines-protest-over-chinese-naval-activity-in-their.md)
-_Context: People's Republic of China, Philippine, Spratly Islands, Vietnam_
+_Context: People's Republic of China, Philippines, Spratly Islands, Vietnam_
 
 ### [Lt. General Hideyuki Yoshioka, responsible for air systems development at Japan's Ministry of Defense, estimates that it  is on track to develop a stealth fighter within three years. ](/news/2011/03/8/lt-general-hideyuki-yoshioka-responsible-for-air-systems-development-at-japan-s-ministry-of-defense-estimates-that-it-is-on-track-to-dev.md)
 _Context: Hideyuki Yoshioka, Japan, Ministry of Defense, stealth fighter_
@@ -49,7 +49,7 @@ _Context: Darfur, International Criminal Court_
 The prominent Syrian human rights activist and critic of the government Haitham al-Maleh was been released from jail.
 
 ### [Mexico's youngest police chief, Marisol Valles Garcia of the town of Praxedis G. Guerrero, Chihuahua, seeks asylum to the United States after receiving death threats. ](/news/2011/03/8/mexico-s-youngest-police-chief-marisol-valles-garcaa-of-the-town-of-pra-xedis-g-guerrero-chihuahua-seeks-asylum-to-the-united-states-af.md)
-_Context: Marisol Valles Garcia, Mexico, Praxedis G. Guerrero, Chihuahua, United States_
+_Context: Marisol Valles Garcia, Mexico, Praxedis G. Guerrero, Chihuahua, U.S._
 
 ### [Twenty-one Catholic priests in the US city of Philadelphia, Pennsylvania, are suspended after being named in an investigation in claims of widespread child molestation. ](/news/2011/03/8/twenty-one-catholic-priests-in-the-us-city-of-philadelphia-pennsylvania-are-suspended-after-being-named-in-an-investigation-in-claims-of-w.md)
 Twenty-one Roman Catholic priests are suspended in Philadelphia after the release of a legal report into allegations of child molestation.

@@ -4,7 +4,7 @@
 A woman was seized by security guards after using marker pen to deface one of the most famous paintings by Eugene Delacroix at an exhibition in northern France.
 
 ### [Irish lawmakers vote 113 to 36 to liquidate the Irish Bank Resolution Corporation (IBRC), with Joe Higgins of the opposition Socialist Party describing the rapid developments as "chaotic". ](/news/2013/02/7/irish-lawmakers-vote-113-to-36-to-liquidate-the-irish-bank-resolution-corporation-ibrc-with-joe-higgins-of-the-opposition-socialist-party.md)
-_Context: Irish Bank Resolution Corporation, Joe Higgins, Republic of Ireland, Socialist Party_
+_Context: Ireland, Irish Bank Resolution Corporation, Joe Higgins, Socialist Party_
 
 ### [Sweden suspends a wolf hunting intended as a cull for the population, after an appeal by the conservationist party. ](/news/2013/02/7/sweden-suspends-a-wolf-hunting-intended-as-a-cull-for-the-population-after-an-appeal-by-the-conservationist-party.md)
 Sweden suspends a controversial cull of its wild wolf population just days after it began after a legal challenge by conservationists.
@@ -25,7 +25,7 @@ Two Russian fighter jets have violated Japanese airspace, prompting Tokyo to scr
 _Context: Bucharest, Hungary, Romania_
 
 ### [The Supreme Leader of Iran Ali Khamenei accuses the United States of "holding a gun" to Tehran's head to pressure it to hold direct talks and states that it's very unlikely that these talks may take place. ](/news/2013/02/7/the-supreme-leader-of-iran-ali-khamenei-accuses-the-united-states-of-holding-a-gun-to-tehran-s-head-to-pressure-it-to-hold-direct-talks-an.md)
-_Context: Ali Khamenei, Iran, Supreme Leader of Iran, Tehran, United States_
+_Context: Ali Khamenei, Iran, Supreme Leader of Iran, Tehran, U.S._
 
 ### [South Korean soldiers on the world's most heavily armed border now have orders to shoot back immediately if they come under attack. ](/news/2013/02/7/south-korean-soldiers-on-the-world-s-most-heavily-armed-border-now-have-orders-to-shoot-back-immediately-if-they-come-under-attack.md)
 _Context: South Korea, world's most heavily armed border_

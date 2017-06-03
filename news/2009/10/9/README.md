@@ -19,7 +19,7 @@ _Context: Aung San Suu Kyi, Burma_
 The Nobel Peace Prize, which President Obama described as a “call to action,” was an extraordinary recognition for so early in a presidential term and a potential political liability at home.
 
 ### [ More than 181 people are killed in floods in the Philippines. ](/news/2009/10/9/more-than-181-people-are-killed-in-floods-in-the-philippines.md)
-_Context: Philippine_
+_Context: Philippines_
 
 ### [ Six Vietnamese pro-democracy activists are sentenced to up to six years in prison for "spreading propaganda" against the government. ](/news/2009/10/9/six-vietnamese-pro-democracy-activists-are-sentenced-to-up-to-six-years-in-prison-for-spreading-propaganda-against-the-government.md)
 Vietnam jailed six people on Friday for advocating democracy after similar sentences to three others earlier in the week, moves that analysts say look choreographed to deter dissent in the run up to a major Communist meeting.
@@ -37,7 +37,7 @@ _Context: India, Maoist, Naxalite_
 A suspected suicide car-bomber killed 49 people on Friday in the Pakistani city of Peshawar in an attack that the government said underscored the need for an all-out offensive against the Pakistani Taliban.
 
 ### [ Two people die after being overcome by sweat and about 19 others are hospitalised at a spiritual retreat in Arizona, USA. ](/news/2009/10/9/two-people-die-after-being-overcome-by-sweat-and-about-19-others-are-hospitalised-at-a-spiritual-retreat-in-arizona-usa.md)
-_Context: Arizona, United States_
+_Context: Arizona, U.S._
 
 ### [ Public amputations on three men accused of robbery occur in Somalia. ](/news/2009/10/9/public-amputations-on-three-men-accused-of-robbery-occur-in-somalia.md)
 _Context: Somalia, amputee_

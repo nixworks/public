@@ -4,7 +4,7 @@
 _Context: Chechen War, Chechnya, Mil Mi-8, Russia, Russian security forces, Shatoy, helicopter, the fighting_
 
 ### [ The U.S. Pentagon says that the CIA has arrested a senior al-Qaeda operative, Abdul Hadi al Iraqi, and transferred him to the Guantanamo Bay detention center. ](/news/2007/04/27/the-u-s-pentagon-says-that-the-cia-has-arrested-a-senior-al-qaeda-operative-abdul-hadi-al-iraqi-and-transferred-him-to-the-guantanamo-ba.md)
-_Context: Abdul Hadi al Iraqi, Central Intelligence Agency, Guantanamo Bay detention camp, United States, United States military, al-Qaeda_
+_Context: Abdul Hadi al Iraqi, Central Intelligence Agency, Guantanamo Bay detention camp, U.S., United States military, al-Qaeda_
 
 ### [ Saudi Arabia arrests 172 terrorist suspects in a series of raids after uncovering a plot to carry out suicide air attacks on oil and military installations. $32.4m in cash was also uncovered, as were many weapons. ](/news/2007/04/27/saudi-arabia-arrests-172-terrorist-suspects-in-a-series-of-raids-after-uncovering-a-plot-to-carry-out-suicide-air-attacks-on-oil-and-milita.md)
 _Context: Saudi Arabia, US$, suicide bombing, weapon_

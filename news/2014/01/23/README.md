@@ -10,7 +10,7 @@ Elderly residents screamed and tried in vain to escape a raging nursing home inf
 _Context: Justin Bieber_
 
 ### [Former Philippine First Lady Imelda Marcos visits the detained ex-President Gloria Macapagal-Arroyo and criticizes the current President Benigno Aquino III as "cruel, unjust". ](/news/2014/01/23/former-philippine-first-lady-imelda-marcos-visits-the-detained-ex-president-gloria-macapagal-arroyo-and-criticizes-the-current-president-ben.md)
-_Context: Benigno Aquino III, Gloria Macapagal Arroyo, Imelda Marcos, Philippine_
+_Context: Benigno Aquino III, Gloria Macapagal Arroyo, Imelda Marcos, Philippines_
 
 ### [Swedish sex club owner Mille Markovic is shot dead in Stockholm. ](/news/2014/01/23/swedish-sex-club-owner-mille-markovic-is-shot-dead-in-stockholm.md)
 _Context: Mille Markovic, sex club_

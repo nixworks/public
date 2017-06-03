@@ -1,7 +1,7 @@
 ## [2010-04-13](/news/2010/04/13/index.md)
 
 ### [Nuclear Security Summit:President of the United States Barack Obama opening the biggest international meeting hosted by the US since 1945, greets leaders from nearly 50 countries. World leaders at the summit hear dire warnings of the danger of nuclear material falling into the wrong hands. ](/news/2010/04/13/nuclear-security-summit-ppresident-of-the-united-states-barack-obama-opening-the-biggest-international-meeting-hosted-by-the-us-since-1945.md)
-_Context: Barack Obama, Nuclear Security Summit, U.S. President, United States_
+_Context: Barack Obama, Nuclear Security Summit, U.S., U.S. President_
 
 ### [A magnitude 6.9 earthquake strikes southeastern Qinghai, China, near the Yangtze River. There were no immediate reports of casualties. ](/news/2010/04/13/a-magnitude-6-9-earthquake-strikes-southeastern-qinghai-china-near-the-yangtze-river-there-were-no-immediate-reports-of-casualties.md)
 _Context: People's Republic of China, Qinghai, Yangtze River_
@@ -31,7 +31,7 @@ _Context: 2010 Polish Air Force Tu-154 crash, Lech Kaczynski, Maria Kaczynska, P
 _Context: Barack Obama, First Lady, Haiti, Michelle Obama_
 
 ### [11 people are killed in Isabela City, Philippines, after 25 suspected members of the Abu Sayyaf extremist group clash with security forces. ](/news/2010/04/13/11-people-are-killed-in-isabela-city-philippines-after-25-suspected-members-of-the-abu-sayyaf-extremist-group-clash-with-security-forces.md)
-_Context: Abu Sayyaf, Isabela City, Philippine_
+_Context: Abu Sayyaf, Isabela City, Philippines_
 
 ### [At least 73 civilians were killed when an army jet bombed a remote village in Pakistan's tribal region of Khyber, a local official has told the BBC. ](/news/2010/04/13/at-least-73-civilians-were-killed-when-an-army-jet-bombed-a-remote-village-in-pakistan-s-tribal-region-of-khyber-a-local-official-has-told.md)
 _Context: Pakistan_

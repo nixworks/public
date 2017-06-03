@@ -4,7 +4,7 @@
 Henry Allingham, who was the world&#39;s oldest man and oldest World War I veteran, has died at the age of 113.
 
 ### [ Ireland's Green Party, part of the ruling coalition, votes by a two to one majority to campaign for the Treaty of Lisbon prior to the 2 October referendum. ](/news/2009/07/18/ireland-s-green-party-part-of-the-ruling-coalition-votes-by-a-two-to-one-majority-to-campaign-for-the-treaty-of-lisbon-prior-to-the-2-oct.md)
-_Context: Green Party, Republic of Ireland, Treaty of Lisbon, the second Irish referendum_
+_Context: Green Party, Ireland, Treaty of Lisbon, the second Irish referendum_
 
 ### [ Three people are missing in Nachterstedt, Germany, after their home collapses into a lake. ](/news/2009/07/18/three-people-are-missing-in-nachterstedt-germany-after-their-home-collapses-into-a-lake.md)
 _Context: German, Nachterstedt_
@@ -25,13 +25,13 @@ _Context: Darfur, Justice and Equality Movement, Kutum_
 More than 1,400 tonnes of waste including bags of blood, used syringes and old medicine is set to be sent back to Britain from Brazil after it was exported illegally across the Atlantic disguised as recyclable plastic.
 
 ### [ Over 100 UK and US schoolchildren and teachers are quarantined in Beijing due to swine flu. ](/news/2009/07/18/over-100-uk-and-us-schoolchildren-and-teachers-are-quarantined-in-beijing-due-to-swine-flu.md)
-_Context: Beijing, United Kingdom, United States, swine flu_
+_Context: Beijing, U.S., United Kingdom, swine flu_
 
 ### [ China admits it shot dead 12 rioters in one riot incident in rmqi. ](/news/2009/07/18/china-admits-it-shot-dead-12-rioters-in-one-riot-incident-in-urumqi.md)
 _Context: People's Republic of China, Urumqi, riots_
 
 ### [ Forty-seven people are injured in a collision between two Muni Metro light rail cars at the West Portal Station in San Francisco, United States. ](/news/2009/07/18/forty-seven-people-are-injured-in-a-collision-between-two-muni-metro-light-rail-cars-at-the-west-portal-station-in-san-francisco-united-st.md)
-_Context: Muni Metro, San Francisco, United States, West Portal Station, collision, light rail cars_
+_Context: Muni Metro, San Francisco, U.S., West Portal Station, collision, light rail cars_
 
 ### [ Paul Biyogh Mba is appointed Prime Minister of Gabon after Jean Eyeghe Ndong launches his presidential campaign. ](/news/2009/07/18/paul-biyoghe-mba-is-appointed-prime-minister-of-gabon-after-jean-eyeghe-ndong-launches-his-presidential-campaign.md)
 _Context: Gabon, Jean Eyeghe Ndong, Paul Biyogh Mba, Prime Minister_

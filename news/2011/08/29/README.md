@@ -4,10 +4,10 @@
 As many as 50,000 political prisoners may still be trapped in underground jails in Libya, if they have not already been executed by elements of the crumbling Gaddafi regime. The National Transitional Council says it has already freed around 10,000 political prisoners but tens of thousands are still unaccounted for.
 
 ### [Stock, bond and commodities markets open as usual in the United States despite the impact of Hurricane Irene on New York City. ](/news/2011/08/29/stock-bond-and-commodities-markets-open-as-usual-in-the-united-states-despite-the-impact-of-hurricane-irene-on-new-york-city.md)
-_Context: Hurricane Irene, New York City, United States_
+_Context: Hurricane Irene, New York City, U.S._
 
 ### [Typhoon Nanmadol hits Taiwan after killing 11 people in the Philippines. ](/news/2011/08/29/typhoon-nanmadol-hits-taiwan-after-killing-11-people-in-the-philippines.md)
-_Context: Philippine, Taiwan, Typhoon Nanmadol_
+_Context: Philippines, Taiwan, Typhoon Nanmadol_
 
 ### [Floods hit northern India with transport services disrupted in Mumbai and 15 villages isolated in Maharashtra state. ](/news/2011/08/29/floods-hit-northern-india-with-transport-services-disrupted-in-mumbai-and-15-villages-isolated-in-maharashtra-state.md)
 Floods are devastating several regions of India. In Mumbai, Central Railway services have been halted between Thane and Mumbai CST as water logging has left ...

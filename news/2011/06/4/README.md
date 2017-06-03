@@ -25,7 +25,7 @@ _Context: Bangladesh, World Bank, wildlife protection_
 _Context: Chile, Puyehue-Cordn Caulle_
 
 ### [The Philippines accuses China of intimidating rival claimants to areas of the South China Sea, and violating its territorial waters. ](/news/2011/06/4/the-philippines-accuses-china-of-intimidating-rival-claimants-to-areas-of-the-south-china-sea-and-violating-its-territorial-waters.md)
-_Context: Philippine, South China Sea_
+_Context: Philippines, South China Sea_
 
 ### [Japan and  the People's Republic of China agree to resume defense relationships suspended since a disagreement over the Senkaku Islands. ](/news/2011/06/4/japan-and-the-people-s-republic-of-china-agree-to-resume-defense-relationships-suspended-since-a-disagreement-over-the-senkaku-islands.md)
 _Context: Senkaku Islands_

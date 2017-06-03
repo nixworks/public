@@ -10,7 +10,7 @@ _Context: Afghanistan, NATO_
 Deadly clashes between two communities in southern Ethiopia cause 20,000 people to flee across the border into Kenya, the Red Cross says.
 
 ### [The sunken German U-Boat ''U-550'' is discovered off the coast of Massachusetts, United States. ](/news/2012/07/28/the-sunken-german-u-boat-u-550-is-discovered-off-the-coast-of-massachusetts-united-states.md)
-_Context: German, Massachusetts, U-550, United States_
+_Context: German, Massachusetts, U-550, U.S._
 
 ### [Andriy Shevchenko announces his retirement from football in order to go into politics. ](/news/2012/07/28/andriy-shevchenko-announces-his-retirement-from-football-in-order-to-go-into-politics.md)
 _Context: Andriy Shevchenko_

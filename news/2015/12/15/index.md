@@ -13,10 +13,10 @@ Brutal weekend attacks on three villages by Boko Haram Islamists in the restive 
 The French air force used its first cruise missiles against Islamic State group targets in Iraq on Tuesday, the defence ministry said.
 
 ### [Typhoon Melor (Nona) causes widespread flooding and blackouts in the Philippines. More than 700,000 people had been evacuated ahead of the storm which hit late on Monday night. ](/news/2015/12/15/typhoon-melor-nona-causes-widespread-flooding-and-blackouts-in-the-philippines-more-than-700-000-people-had-been-evacuated-ahead-of-the-s.md)
-_Context: 2015 Pacific typhoon season, Philippine_
+_Context: 2015 Pacific typhoon season, Philippines_
 
 ### [The United States Food and Drug Administration approves the Merck & Co. drug, Bridion, that reverses the effects of muscle relaxants used during surgery. ](/news/2015/12/15/the-united-states-food-and-drug-administration-approves-the-merck-co-drug-bridion-that-reverses-the-effects-of-muscle-relaxants-used-du.md)
-_Context: Bridion, FDA, Merck & Co., United States, muscle relaxant_
+_Context: Bridion, FDA, Merck & Co., U.S., muscle relaxant_
 
 ### [Saudi Arabia announces the formation of a 34-member Islamic Military Alliance against terrorism including Egypt, Qatar, the United Arab Emirates, Turkey, Malaysia and Pakistan with a joint operations centre based in Riyadh. ](/news/2015/12/15/saudi-arabia-announces-the-formation-of-a-34-member-islamic-military-alliance-against-terrorism-including-egypt-qatar-the-united-arab-emir.md)
 A new Saudi-led Islamic alliance to fight terrorism will share information and train, equip and provide forces if necessary for the fight against Islamic State militants, Saudi Foreign Minister Adel al-Jubeir said.

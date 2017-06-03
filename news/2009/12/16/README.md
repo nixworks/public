@@ -13,7 +13,7 @@ A Papuan separatist leader shot dead by Indonesian police was behind a string of
 A young Italian man was overpowered by police guards as he attempted to enter Silvio Berlusconi&#039;s hospital room in the second security scare in a matter of days.
 
 ### [ Roy E. Disney, head of Disney Animation and responsible for guiding the studio through a golden age of animation, dies in a California hospital in the United States. ](/news/2009/12/16/roy-e-disney-head-of-disney-animation-and-responsible-for-guiding-the-studio-through-a-golden-age-of-animation-dies-in-a-california-hosp.md)
-_Context: California, Disney Animation, Roy E. Disney, United States_
+_Context: California, Disney Animation, Roy E. Disney, U.S._
 
 ### [ Malawi recognizes the independence of Kosovo ](/news/2009/12/16/malawi-recognizes-the-independence-of-kosovo.md)
 _Context: Kosovo, Kosovo, Malawi_
@@ -28,7 +28,7 @@ Scientists have found an ancient burial shroud in Jerusalem which they say is ve
 _Context: Guinea, Moussa Dadis Camara, Toumba Diakite, massacre of opposition protesters_
 
 ### [ The Philippine province of Albay is put under a "state of imminent disaster" as activity at the Mayon Volcano increases. ](/news/2009/12/16/the-philippine-province-of-albay-is-put-under-a-state-of-imminent-disaster-as-activity-at-the-mayon-volcano-increases.md)
-_Context: Albay, Mayon Volcano, Philippine_
+_Context: Albay, Mayon Volcano, Philippines_
 
 ### [ North Korea reportedly bans all foreigners from entering the country until early February 2010, for unknown reasons. ](/news/2009/12/16/north-korea-reportedly-bans-all-foreigners-from-entering-the-country-until-early-february-2010-for-unknown-reasons.md)
 North Korea reportedly plans to ban foreigners from the country from Sunday unti..

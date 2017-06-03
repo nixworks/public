@@ -4,10 +4,10 @@
 Collection of colour photographs reveal the private life of Adolf Hitler.
 
 ### [ The European Union's parliamentary election continues in the Czech Republic and Ireland. ](/news/2009/06/5/the-european-union-s-parliamentary-election-continues-in-the-czech-republic-and-ireland.md)
-_Context: Czech, European Parliament, European Union, Republic of Ireland, elections_
+_Context: Czech, European Parliament, European Union, Ireland, elections_
 
 ### [ Ireland conducts local elections and two by-elections in Dublin Central and Dublin South. ](/news/2009/06/5/ireland-conducts-local-elections-and-two-by-elections-in-dublin-central-and-dublin-south.md)
-_Context: Dublin Central, Dublin South, Republic of Ireland, by-election, local elections_
+_Context: Dublin Central, Dublin South, Ireland, by-election, local elections_
 
 ### [ American economist Paul Krugman says that the Irish economy may not recover from the 2008-09 financial crisis until 2014. ](/news/2009/06/5/american-economist-paul-krugman-says-that-the-irish-economy-may-not-recover-from-the-2008a09-financial-crisis-until-2014.md)
 Nobel Prize-winning economist Paul Krugman has predicted that the Irish economic recovery could take five years.
@@ -43,7 +43,7 @@ _Context: Chongqing, People's Republic of China, landslide_
 _Context: Pakistan, Upper Dir District, War in North-West Pakistan, mosque, suicide bombing_
 
 ### [ Former United States State Department employee Kendall Myers and his wife, Gwendolyn, are arrested and charged with spying for Cuba's government. ](/news/2009/06/5/former-united-states-state-department-employee-kendall-myers-and-his-wife-gwendolyn-are-arrested-and-charged-with-spying-for-cuba-s-gover.md)
-_Context: Cuba, Kendall Myers, United States, United States Department of State, espionage, government_
+_Context: Cuba, Kendall Myers, U.S., United States Department of State, espionage, government_
 
 ### [ David Bain, after an extensive three-month retrial, is found not guilty of murdering five family members in Dunedin, New Zealand on 20 June 1994. ](/news/2009/06/5/david-bain-after-an-extensive-three-month-retrial-is-found-not-guilty-of-murdering-five-family-members-in-dunedin-new-zealand-on-20-june.md)
 _Context: David Bain, Dunedin, New Zealand, murdering, retrial_

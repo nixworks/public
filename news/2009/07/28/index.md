@@ -10,7 +10,7 @@ _Context: Borno State, Maiduguri, Nigeria, Yusuf Mohamed_
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 ### [ The United States and China continue the first U.S.-China Strategic and Economic Dialogue. ](/news/2009/07/28/the-united-states-and-china-continue-the-first-u-s-china-strategic-and-economic-dialogue.md)
-_Context: People's Republic of China, U.S.-China Strategic and Economic Dialogue, United States_
+_Context: People's Republic of China, U.S., U.S.-China Strategic and Economic Dialogue_
 
 ### [ South African police clash with about 200 protesters at an informal settlement outside Johannesburg. ](/news/2009/07/28/south-african-police-clash-with-about-200-protesters-at-an-informal-settlement-outside-johannesburg.md)
 _Context: Johannesburg, South Africa_
@@ -43,7 +43,7 @@ _Context: AIDS, Cambodia, HIV, Phnom Penh_
 _Context: Licia Nunez, Silvio Berlusconi, health spa, prostitute, soap opera_
 
 ### [ A national memorial is to be erected and a national day of remembrance is considered in Ireland for victims of child abuse. ](/news/2009/07/28/a-national-memorial-is-to-be-erected-and-a-national-day-of-remembrance-is-considered-in-ireland-for-victims-of-child-abuse.md)
-_Context: Republic of Ireland, child abuse_
+_Context: Ireland, child abuse_
 
 ### [ The longlist for the 2009 Man Booker Prize is announced. ](/news/2009/07/28/the-longlist-for-the-2009-man-booker-prize-is-announced.md)
 _Context: Man Booker Prize_

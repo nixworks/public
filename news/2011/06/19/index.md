@@ -13,7 +13,7 @@ _Context: South Kordofan, Southern Sudan, Sudan People's Armed Forces_
 _Context: Yemen_
 
 ### [The Philippines commemorates the 150th birth anniversary of Jose Rizal with the unveiling of the world's tallest statue of him in his hometown of Calamba, Laguna. ](/news/2011/06/19/the-philippines-commemorates-the-150th-birth-anniversary-of-josa-c-rizal-with-the-unveiling-of-the-world-s-tallest-statue-of-him-in-his-homet.md)
-_Context: Calamba, Laguna, Jose Rizal, Philippine_
+_Context: Calamba, Laguna, Jose Rizal, Philippines_
 
 ### [Alyssa Campanella, Miss California, is crowned as Miss USA. ](/news/2011/06/19/alyssa-campanella-miss-california-is-crowned-as-miss-usa.md)
 _Context: Alyssa Campanella, Miss California, Miss USA_

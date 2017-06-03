@@ -46,7 +46,7 @@ U.S. health regulators on Thursday cleared the way for a type of genetically eng
 Extensive advertisements of direct-to-consumer prescription drugs and medical devices should be banned because patients are now driven to opt for inappropriate, expensive treatments even if cheaper ones have the same potentials.
 
 ### [Asia-Pacific leaders, in the Philippines for the 2015 Asia-Pacific Economic Cooperation (APEC) meeting, which has been overshadowed by the concurrent Paris attacks, call on governments to urgently increase cooperation in the fight against terrorism. ](/news/2015/11/19/asia-pacific-leaders-in-the-philippines-for-the-2015-asia-pacific-economic-cooperation-apec-meeting-which-has-been-overshadowed-by-the-c.md)
-_Context: APEC Philippines 2015, Asia-Pacific Economic Cooperation, November 2015 Paris Attacks, Pacific, Philippine, terrorism_
+_Context: APEC Philippines 2015, Asia-Pacific Economic Cooperation, November 2015 Paris Attacks, Pacific, Philippines, terrorism_
 
 ### [A Pew Research Center report finds, from  2009 to 2014, more Mexicans, including unauthorized immigrants, are leaving the United States than entering it. An increasing share of Mexicans says life north of the border is neither better nor worse than life in Mexico. ](/news/2015/11/19/a-pew-research-center-report-finds-from-2009-to-2014-more-mexicans-including-unauthorized-immigrants-are-leaving-the-united-states-than.md)
 More Mexicans are leaving the United States than entering it according to a report released on Thursday, at a time when some Republicans, including presidential candidate Donald Trump, have taken a hard line on illegal immigration.
@@ -76,7 +76,7 @@ A Paris rally to demand strong action on climate change has been cancelled due t
 Democratic Unionist leader Peter Robinson has announced in a newspaper his intention to step down as Northern Ireland&amp;#39;s First Minister. Mr Robinson&amp;#39;s article in the Belfast Telegraph, written ahead of his party&amp;#39;s conference, confirmed he will not contest next May&amp;#39;s Assembly election and is likely leave office in the coming weeks. 
 
 ### [The U.S. House of Representatives, defying a veto-threat by President Barack Obama, overwhelmingly passes legislation to suspend the Obama administration's program to admit 10,000 Syrian and Iraqi refugees into the country. The bill will now face a vote in the U.S. Senate. ](/news/2015/11/19/the-u-s-house-of-representatives-defying-a-veto-threat-by-president-barack-obama-overwhelmingly-passes-legislation-to-suspend-the-obama-a.md)
-_Context: Barack Obama, Iraq, Syria, United States, United States House of Representatives, United States Senate, veto_
+_Context: Barack Obama, Iraq, Syria, U.S., United States House of Representatives, United States Senate, veto_
 
 ## [Previous Day...](/news/2015/11/18/index.md)
 

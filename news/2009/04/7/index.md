@@ -7,7 +7,7 @@ Minister for Finance Brian Lenihan has outlined six steps to restore the Irish e
 _Context: East Jerusalem, Israel, Israeli police, Palestinian_
 
 ### [ United States District Judge Emmet G. Sullivan overturns the conviction of former Alaska Senator Ted Stevens. ](/news/2009/04/7/united-states-district-judge-emmet-g-sullivan-overturns-the-conviction-of-former-alaska-senator-ted-stevens.md)
-_Context: Alaska, Emmet Sullivan, Ted Stevens, U.S. District Court for the District of Columbia, United States, United States Senate, conviction_
+_Context: Alaska, Emmet Sullivan, Ted Stevens, U.S., U.S. District Court for the District of Columbia, United States Senate, conviction_
 
 ### [ Former Peruvian President Alberto Fujimori is convicted of violating human rights and imprisoned until 2034. ](/news/2009/04/7/former-peruvian-president-alberto-fujimori-is-convicted-of-violating-human-rights-and-imprisoned-until-2034.md)
 _Context: Alberto Fujimori, Human rights, Peru, President, convicted, prison_
@@ -31,7 +31,7 @@ _Context: ETA, French, French police, Grenoble, Isere, bomb, raid_
 _Context: A$, Australia, Australia's government, National Broadband Network, financial investment_
 
 ### [ The General Assembly legalizes same-sex marriage in Vermont, United States. ](/news/2009/04/7/the-general-assembly-legalizes-same-sex-marriage-in-vermont-united-states.md)
-_Context: General Assembly, United States, Vermont, legalizes, same-sex marriage_
+_Context: General Assembly, U.S., Vermont, legalizes, same-sex marriage_
 
 ## [Previous Day...](/news/2009/04/6/index.md)
 

@@ -16,7 +16,7 @@ _Context: Bahrain, MP, parliamentary elections_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Typhoon Durian has killed at least 388 people in Albay province on the island of Luzon in the Philippines with the death toll expected to climb as rescuers get to affected villages. ](/news/2006/12/1/typhoon-durian-has-killed-at-least-388-people-in-albay-province-on-the-island-of-luzon-in-the-philippines-with-the-death-toll-expected-to-c.md)
-_Context: Albay, Luzon, Philippine, Typhoon Durian_
+_Context: Albay, Luzon, Philippines, Typhoon Durian_
 
 ### [ Kim Beazley calls a vote for the leadership of the Federal Australian Labor Party for Monday. He will face a challenge from Kevin Rudd, the Opposition spokesman on foreign affairs. Jenny Macklin faces a challenge from Julia Gillard for the Deputy Leadership. ](/news/2006/12/1/kim-beazley-calls-a-vote-for-the-leadership-of-the-federal-australian-labor-party-for-monday-he-will-face-a-challenge-from-kevin-rudd-the.md)
 _Context: Jenny Macklin, Julia Gillard, Kevin Rudd, Kim Beazley, Labor Party_
@@ -25,7 +25,7 @@ _Context: Jenny Macklin, Julia Gillard, Kevin Rudd, Kim Beazley, Labor Party_
 _Context: Laisenia Qarase, Prime Minister, Voreqe Bainimarama_
 
 ### [ The United States warns of a possible al-Qaeda attack to disrupt the stock market and other financial institutions with a cyber attack. ](/news/2006/12/1/the-united-states-warns-of-a-possible-al-qaeda-attack-to-disrupt-the-stock-market-and-other-financial-institutions-with-a-cyber-attack.md)
-_Context: United States, al-Qaeda, cyber attack, stock market_
+_Context: U.S., al-Qaeda, cyber attack, stock market_
 
 ### [ Billionaire Kirk Kerkorian sold off the last of his shares in General Motors, the Wall Street Journal reported. It was clear that Kerkorian had sold 14 million shares for $28.75 per share, or about $400 million, slicing his stake to 4.95%. ](/news/2006/12/1/billionaire-kirk-kerkorian-sold-off-the-last-of-his-shares-in-general-motors-the-wall-street-journal-reported-it-was-clear-that-kerkorian.md)
 _Context: General Motors, Kirk Kerkorian, Wall Street Journal_

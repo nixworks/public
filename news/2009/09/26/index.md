@@ -7,7 +7,7 @@ The presidents of Argentina, Brazil, Paraguay, Uruguay, Ecuador, Bolivia and Ven
 The Minister of State with responsibility for Overseas Development has delivered the keynote address at a special meeting to tackle the world&#39;s hunger crisis.
 
 ### [ At least 10 people are dead in Metro Manila after Tropical Storm Ketsana hits the northern Philippines. ](/news/2009/09/26/at-least-10-people-are-dead-in-metro-manila-after-tropical-storm-ketsana-hits-the-northern-philippines.md)
-_Context: Metro Manila, Philippine, Tropical Storm Ketsana_
+_Context: Metro Manila, Philippines, Tropical Storm Ketsana_
 
 ### [ Three detainees held by the United States at Guantanamo Bay in Cuba, are sent abroad to two countries. Ireland accepts two detainees of Uzbeki origin in a humanitarian gesture, with Minister for Justice, Equality and Law Reform Dermot Ahern saying Ireland was one of the first countries in Europe to call for the closure of Guantanamo Bay and that the two men would now be given time to rebuild their lives. ](/news/2009/09/26/three-detainees-held-by-the-united-states-at-guanta-namo-bay-in-cuba-are-sent-abroad-to-two-countries-ireland-accepts-two-detainees-of-uz.md)
 Three detainees held at the U.S. military prison at Guantanamo Bay, Cuba, have been sent to Ireland and Yemen, the Justice Department said on Saturday, the latest transfers as President Barack Obama tries to close the facility by January.

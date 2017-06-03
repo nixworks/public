@@ -3,6 +3,9 @@
 ### [A suicide bombing occurs in Kabul near the German embassy with at least 90 killed and 461 injured. ](/news/2017/05/31/a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-at-least-90-killed-and-461-injured.md)
 At least nine people were killed and more than 90 wounded were taken to Kabul hospitals after a huge car bomb exploded in the Afghan capital on Wednesday, a public health official said, and the casualty total could rise.
 
+### [The U.S.-backed Syrian Democratic Forces (SDF) says they will counter Iraq's mostly Iran-backed Popular Mobilization Forces (PMU) militants if the latter enters areas under SDF control, insisting that SDF will never accept the presence of Iran and SDF will never under any circumstances act as a bridge between PMU and the Syria's Assad regime. ](/news/2017/05/31/the-u-s-backed-syrian-democratic-forces-sdf-says-they-will-counter-iraqas-mostly-iran-backed-popular-mobilization-forces-pmu-militant.md)
+Spokesman for Syrian Kurdish-Arab coalition says it would &#039;fight&#039; Popular Mobilisation Units if they crossed the border
+
 ### [CBS terminates its contract with Scott Pelley as anchor, managing editor and reporter of ''CBS Evening News''. Pelley will remain with ''CBS News'' as a correspondent in ''60 Minutes''. ](/news/2017/05/31/cbs-terminates-its-contract-with-scott-pelley-as-anchor-managing-editor-and-reporter-of-cbs-evening-news-pelley-will-remain-with-cbs.md)
 _Context: 60 Minutes, CBS, CBS Evening News, Scott Pelley_
 

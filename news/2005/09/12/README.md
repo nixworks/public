@@ -25,7 +25,7 @@ _Context: Neve Dekalim, Palestinian_
 _Context: Luxembourg, Skype, eBay_
 
 ### [ Hong Kong Disneyland opens in a partnership between Disney and the Hong Kong government. This marks the first attempt of Disney tapping into the Chinese and southeastern Asian market. ](/news/2005/09/12/hong-kong-disneyland-opens-in-a-partnership-between-disney-and-the-hong-kong-government-this-marks-the-first-attempt-of-disney-tapping-int.md)
-_Context: Hong Kong, Hong Kong Disneyland, The Walt Disney Company_
+_Context: Disney, Hong Kong, Hong Kong Disneyland_
 
 ### [ Premier Dalton McGuinty of Ontario, Canada rejects the use of Islamic sharia law as well as religious arbitration of all other faiths, declaring that one public law is to be used for all family disputes.  The decision follows a year of debate and worldwide protests. ](/news/2005/09/12/premier-dalton-mcguinty-of-ontario-canada-rejects-the-use-of-islamic-sharia-law-as-well-as-religious-arbitration-of-all-other-faiths-decl.md)
 _Context: Canada, Dalton McGuinty, Islamic, Ontario, Premier, Sharia law, arbitration_

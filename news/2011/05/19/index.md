@@ -1,7 +1,7 @@
 ## [2011-05-19](/news/2011/05/19/index.md)
 
 ### [Syria condemns the decision by the United States to impose sanctions on President Bashar al-Assad in response to ongoing anti-government protests. ](/news/2011/05/19/syria-condemns-the-decision-by-the-united-states-to-impose-sanctions-on-president-bashar-al-assad-in-response-to-ongoing-anti-government-pro.md)
-_Context: Bashar al-Assad, President, Syria, Syrian uprising, United States_
+_Context: Bashar al-Assad, President, Syria, Syrian uprising, U.S._
 
 ### [2011 Libyan civil war:Rebels in Libya launch a television channel to counter Muammar Gaddafi's state media. ](/news/2011/05/19/2011-libyan-civil-war-prebels-in-libya-launch-a-television-channel-to-counter-muammar-gaddafi-s-state-media.md)
 _Context: Libya, Libyan Civil War, Muammar Gaddafi, state media_
@@ -70,7 +70,7 @@ Global National with Dawna Friesen is Canada&#039;s early evening national newsc
 _Context: Seychelles, three day presidential election_
 
 ### [Former Taoiseach (Prime Minister) of the Republic of Ireland Garret FitzGerald dies in Dublin aged 85. ](/news/2011/05/19/former-taoiseach-prime-minister-of-the-republic-of-ireland-garret-fitzgerald-dies-in-dublin-aged-85.md)
-_Context: Dublin, Garret FitzGerald, Republic of Ireland, Taoiseach_
+_Context: Dublin, Garret FitzGerald, Ireland, Taoiseach_
 
 ### [Ugandan opposition leader Kizza Besigye is placed under house arrest. ](/news/2011/05/19/ugandan-opposition-leader-kizza-besigye-is-placed-under-house-arrest.md)
 Ugandan police on Thursday blocked opposition leader Kizza Besigye from driving from his home to the Kampala city centre, saying the outing would spark criminal acts after he vowed to resume

@@ -4,7 +4,7 @@
 _Context: Global financial crisis of September-October 2008_
 
 ### [United States President George W. Bush commits to collaborative action with G7 finance ministers. ](/news/2008/10/11/united-states-president-george-w-bush-commits-to-collaborative-action-with-g7-finance-ministers.md)
-_Context: G7, George W. Bush, U.S. President, United States_
+_Context: G7, George W. Bush, U.S., U.S. President_
 
 ### [The International Monetary Fund warns of a global meltdown and offers to lend to countries if needed. ](/news/2008/10/11/the-international-monetary-fund-warns-of-a-global-meltdown-and-offers-to-lend-to-countries-if-needed.md)
 _Context: International Monetary Fund, housing crisis_
@@ -37,7 +37,7 @@ EU MONITORS in Georgia have confirmed that Russian forces have dismantled 17 che
 _Context: Austria, Carinthia, Governor, Jorg Haider, Klagenfurt_
 
 ### [ Extrajudicial killings in the Philippines decrease as noted by the Commission on Human Rights. [http://newsinfo.inquirer.net/breakingnews/nation/view/20081011-165882/Extrajudicial-killings-down-CHR-notes (Inquirer)].](/news/2008/10/11/extrajudicial-killings-in-the-philippines-decrease-as-noted-by-the-commission-on-human-rights-http-newsinfo-inquirer-net-breakingnews-n.md)
-_Context: Commission on Human Rights, Philippine, kill_
+_Context: Commission on Human Rights, Philippines, kill_
 
 ### [ The University of Toledo's Rockets stunned the Michigan Wolverines 13-10 at the Big House, in the first ever match up between the two schools, only fifty miles apart.](/news/2008/10/11/the-university-of-toledo-s-rockets-stunned-the-michigan-wolverines-13-10-at-the-big-house-in-the-first-ever-match-up-between-the-two-schoo.md)
 _Context: Michigan Wolverines, University of Toledo_

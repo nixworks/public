@@ -31,7 +31,7 @@ _Context: Alexander Litvinenko, Louise Christian, Russia, lawyer, nuclear plant,
 _Context: Paris Mtro, public-sector strikes_
 
 ### [ Typhoon Mitag remains stationary but threatens the Bicol Region, east of the Philippines, and is expected to make landfall in Virac, Catanduanes tomorrow. ](/news/2007/11/23/typhoon-mitag-remains-stationary-but-threatens-the-bicol-region-east-of-the-philippines-and-is-expected-to-make-landfall-in-virac-catand.md)
-_Context: Bicol Region, Catanduanes, Philippine, Typhoon Mitag, Virac, landfall_
+_Context: Bicol Region, Catanduanes, Philippines, Typhoon Mitag, Virac, landfall_
 
 ### [ The ice breaker/cruise ship MS Explorer sinks in the Southern Ocean after striking an iceberg. Everyone aboard is rescued.](/news/2007/11/23/the-ice-breaker-cruise-ship-ms-explorer-sinks-in-the-southern-ocean-after-striking-an-iceberg-everyone-aboard-is-rescued.md)
 _Context: MS Explorer, Southern Ocean, cruise ship, ice breaker, iceberg_

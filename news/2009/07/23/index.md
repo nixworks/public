@@ -4,7 +4,7 @@
 A report showing that sales of existing homes rose 3.6 percent in June and a flurry of positive earnings reports fueled the surge.
 
 ### [ The United States signs the Treaty of Amity and Cooperation in Southeast Asia. ](/news/2009/07/23/the-united-states-signs-the-treaty-of-amity-and-cooperation-in-southeast-asia.md)
-_Context: Treaty of Amity and Cooperation in Southeast Asia, United States_
+_Context: Treaty of Amity and Cooperation in Southeast Asia, U.S._
 
 ### [ Two Swedish passenger ferries sailing between the mainland and Gotland collide in fog just off the port of Nynshamn south of Stockholm, injuring at least 15 people. ](/news/2009/07/23/two-swedish-passenger-ferries-sailing-between-the-mainland-and-gotland-collide-in-fog-just-off-the-port-of-nynashamn-south-of-stockholm-in.md)
 _Context: Gotland, Nynshamn, Stockholm, Sweden, ferry, fog_
@@ -19,7 +19,7 @@ _Context: Almazbek Atambayev, Kyrgyzstan, presidential election_
 _Context: East Africa, Internet, SEACOM underwater cable, broadband_
 
 ### [ Ireland's Dublin Area Rapid Transit (DART) celebrates its twenty-fifth anniversary. ](/news/2009/07/23/ireland-s-dublin-area-rapid-transit-dart-celebrates-its-twenty-fifth-anniversary.md)
-_Context: Dublin Area Rapid Transit, Republic of Ireland_
+_Context: Dublin Area Rapid Transit, Ireland_
 
 ### [ The FBI arrests 30 officials and rabbis in the U.S. state of New Jersey as part of a public corruption and international money laundering probe called Operation Bid Rig. Authorities also search a synagogue and remove several boxes. ](/news/2009/07/23/the-fbi-arrests-30-officials-and-rabbis-in-the-u-s-state-of-new-jersey-as-part-of-a-public-corruption-and-international-money-laundering-p.md)
 Arrests include Assemblyman Daniel Van Pelt, Hoboken Mayor Peter Cammarano, Secaucus Mayor Dennis Elwell and Jersey City Deputy Mayor Leona Beldini
