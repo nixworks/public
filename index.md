@@ -23,6 +23,9 @@ Blasts at funeral attended by government officials including one of leading poli
 ### [A van travelling at approximately 50&nbsp;mph ploughs into pedestrians on London Bridge; the three occupants then abandon the van and embark on a stabbing spree in Borough Market before being shot dead by officers of the Metropolitan Police. At least six civilians are killed. ](/news/2017/06/3/a-van-travelling-at-approximately-50-nbsp-mph-ploughs-into-pedestrians-on-london-bridge-the-three-occupants-then-abandon-the-van-and-embark.md)
 Police said a vehicle veered off the road and mowed down pedestrians on London Bridge, while witnesses spoke of men with large knives stabbing passersby at nearby Borough Market in the U.K. capital, leaving six people dead and dozens wounded in hospital. 
 
+### [More than 1,500 people are injured when panic erupts among Juventus fans who are watching the 2017 UEFA Champions League Final on Piazza San Carlo in Turin, Italy. ](/news/2017/06/3/more-than-1-500-people-are-injured-when-panic-erupts-among-juventus-fans-who-are-watching-the-2017-uefa-champions-league-final-on-piazza-san.md)
+“#BREAKING Injured tally from Turin stampede rises to 1,000: police”
+
 ### [Voters in Lesotho go to the polls for an election, with a tight race predicted between the Democratic Congress, led by current Prime Minister Pakalitha Mosisili, and the All Basotho Convention, led by former prime minister Tom Thabane. ](/news/2017/06/3/voters-in-lesotho-go-to-the-polls-for-an-election-with-a-tight-race-predicted-between-the-democratic-congress-led-by-current-prime-ministe.md)
 Snap election is seen as a two-horse race between old rivals Prime Minister Pakalitha Mosisili and Thomas Thabane.
 
