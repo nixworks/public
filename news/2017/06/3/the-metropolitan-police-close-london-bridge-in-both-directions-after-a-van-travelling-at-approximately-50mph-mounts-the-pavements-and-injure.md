@@ -1,13 +1,9 @@
 ### [2017-06-3](/news/2017/06/3/index.md)
 
-# The Metropolitan Police close London Bridge in both directions after a van travelling at approximately 50mph mounts the pavements and injures 5 pedestrians. 
+# The Metropolitan Police close London Bridge in both directions after a van travelling at approximately 50mph mounts the pavements and injures 5 pedestrians. [http://www.bbc.com/news/uk-40146916 (BBC)]The Metropolitan Police also respond to incidents in the Borough Market and Vauxhall areas of London, confirming stabbings and shootings across the United Kingdom's capital.
 
 
 
-
-### Source:
-
-1. [BBC](http://www.bbc.com/news/uk-40146916)
 
 ### Related:
 
