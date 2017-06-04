@@ -31,7 +31,7 @@ Disney boss Bob Iger has become the latest chief executive to quit Donald Trumpâ
 LEO Varadkar has been confirmed as the new leader of Fine Gael &#8211; and looks set to become the youngest Taoiseach in the history of the State aged just 38. Frontrunner Leo battled for the covetâ€¦
 
 ### [Two of Jupiter's moons, S/2003 J 18 and S/2011 J 2 are recovered, and a small 1.5-kilometer outer moon (S/2016 J 1) is discovered, the first moon discovered around a major planet in 6 years. ](/news/2017/06/2/two-of-jupiter-s-moons-s-2003-j-18-and-s-2011-j-2-are-recovered-and-a-small-1-5-kilometer-outer-moon-s-2016-j-1-is-discovered-the-first.md)
-_Context: S/2003 J 18, S/2011 J 2, S/2016 J 1, the first moon_
+_Context: Moons of Jupiter, S/2003 J 18, S/2011 J 2, S/2016 J 1, the first moon_
 
 ## [Previous Day...](/news/2017/06/1/index.md)
 
