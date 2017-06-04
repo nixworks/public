@@ -3,8 +3,8 @@
 ### [According to the Interior Ministry, three blasts at a funeral attended by MPs and government figures in Kabul kill at least seven people and wound 119 more. ](/news/2017/06/3/according-to-the-interior-ministry-three-blasts-at-a-funeral-attended-by-mps-and-government-figures-in-kabul-kill-at-least-seven-people-and.md)
 Blasts at funeral attended by government officials including one of leading political figures comes after devastating bombing
 
-### [The Metropolitan Police close London Bridge in both directions after a van travelling at approximately 50mph mounts the sidewalk and injures 5 pedestrians. ](/news/2017/06/3/the-metropolitan-police-close-london-bridge-in-both-directions-after-a-van-travelling-at-approximately-50mph-mounts-the-sidewalk-and-injures.md)
-Police are responding to reports that a van has hit a number of pedestrians on London Bridge in central London just after 10pm local time. 
+### [A van travelling at approximately 50&nbsp;mph ploughs into pedestrians on London Bridge; the three occupants then abandon the van and embark on a stabbing spree in Borough Market before being shot dead by officers of the Metropolitan Police. At least six civilians are killed. ](/news/2017/06/3/a-van-travelling-at-approximately-50-nbsp-mph-ploughs-into-pedestrians-on-london-bridge-the-three-occupants-then-abandon-the-van-and-embark.md)
+Police said a vehicle veered off the road and mowed down pedestrians on London Bridge, while witnesses spoke of men with large knives stabbing passersby at nearby Borough Market in the U.K. capital, leaving six people dead and dozens wounded in hospital. 
 
 ### [Voters in Lesotho go to the polls for an election, with a tight race predicted between the Democratic Congress, led by current Prime Minister Pakalitha Mosisili, and the All Basotho Convention, led by former prime minister Tom Thabane. ](/news/2017/06/3/voters-in-lesotho-go-to-the-polls-for-an-election-with-a-tight-race-predicted-between-the-democratic-congress-led-by-current-prime-ministe.md)
 Snap election is seen as a two-horse race between old rivals Prime Minister Pakalitha Mosisili and Thomas Thabane.
