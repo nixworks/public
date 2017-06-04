@@ -1,6 +1,6 @@
 ### [2017-06-4](/news/2017/06/4/index.md)
 
-# Simon Busuttil of Forza Nazzjonali concedes defeat to the incumbent Joseph Muscat and his Labour Party, who are projected to win 54.9% of the popular vote. . 
+# Simon Busuttil of Forza Nazzjonali concedes defeat to the incumbent Joseph Muscat and his Labour Party, who are projected to win 54.9% of the popular vote. 
 
 Updated 1.15pm with Muscat comments The Labour Party has comfortably won the general election handing Joseph Muscat a mandate to head a government for a second term. &quot;It is clear that the people have chosen to stay the course,&quot; Prime Minister Joseph Muscat said as soon as the outcome was known,...
 
