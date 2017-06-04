@@ -7,7 +7,7 @@ _Context: White Whale, money laundering_
 _Context: Agostino Gemelli University Polyclinic, Pope John Paul II, Vatican City, tracheotomy_
 
 ### [ The Malta Labour Party celebrates a long expected victory in the Local Council Elections in Malta. 53.18% of the electorate voted Labour whereas 44.6% voted for the Partit Nazzjonalista. ](/news/2005/03/13/the-malta-labour-party-celebrates-a-long-expected-victory-in-the-local-council-elections-in-malta-53-18-of-the-electorate-voted-labour-wh.md)
-_Context: Malta Labour Party, Maltese, Partit Nazzjonalista_
+_Context: Malta, Malta Labour Party, Partit Nazzjonalista_
 
 ### [ China begins human trials of a vaccine for AIDS ](/news/2005/03/13/china-begins-human-trials-of-a-vaccine-for-aids.md)
 _Context: AIDS, human trial, vaccine_

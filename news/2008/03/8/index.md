@@ -13,7 +13,7 @@ _Context: Memphis, Tennessee, police_
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ Voters in Malta go to the polls for the Maltese general election, 2008. [http://www.iht.com/articles/ap/2008/03/08/europe/EU-POL-Malta-Elections.php (AP via ''International Herald Tribune'')] hggfd](/news/2008/03/8/voters-in-malta-go-to-the-polls-for-the-maltese-general-election-2008-http-www-iht-com-articles-ap-2008-03-08-europe-eu-pol-malta-elec.md)
-_Context: Maltese, general election_
+_Context: Malta, general election_
 
 ### [ Vietnam bans ownership of pet hamsters. ](/news/2008/03/8/vietnam-bans-ownership-of-pet-hamsters.md)
 _Context: Vietnam, hamster_

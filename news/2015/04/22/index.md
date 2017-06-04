@@ -28,7 +28,7 @@ The Calbuco volcano in southern Chile erupted on Wednesday, forcing the governme
 _Context: United States Senate, abortion, human trafficking_
 
 ### [ An 11-judge panel of the U.S. Ninth Circuit Court of Appeals overturns the 2011 conviction of all-time Major League Baseball home run leader Barry Bonds on obstruction of justice charges stemming from the BALCO doping scandal. ](/news/2015/04/22/an-11-judge-panel-of-the-u-s-ninth-circuit-court-of-appeals-overturns-the-2011-conviction-of-all-time-major-league-baseball-home-run-leade.md)
-_Context: BALCO doping scandal, Barry Bonds, Major League Baseball, Ninth Circuit Court of Appeals, obstruction of justice charges_
+_Context: Appeals Court of  the Ninth Circuit, BALCO doping scandal, Barry Bonds, Major League Baseball, obstruction of justice charges_
 
 ### [Voters in Anguilla go to the polls for a general election with the Anguilla United Front led by Victor Banks elected to government. ](/news/2015/04/22/voters-in-anguilla-go-to-the-polls-for-a-general-election-with-the-anguilla-united-front-led-by-victor-banks-elected-to-government.md)
 _Context: Anguilla, Anguilla United Front, Anguillan general election, 2015_

@@ -40,7 +40,7 @@ The senator’s car failed to stop despite repeated warnings from police, accord
 _Context: Tashkent, Uzbekistan_
 
 ### [ Soyuz TMA-17, carrying an international crew of one Russian, one American and one Japanese astronaut, docks with the International Space Station. ](/news/2009/12/23/soyuz-tma-17-carrying-an-international-crew-of-one-russian-one-american-and-one-japanese-astronaut-docks-with-the-international-space-st.md)
-_Context: ISS, Soyuz TMA-17_
+_Context: International Space Station, Soyuz TMA-17_
 
 ### [ The United Nations imposes sanctions of a ban on arms importation and frozen bank accounts on Eritrea for supporting Somali rebels. ](/news/2009/12/23/the-united-nations-imposes-sanctions-of-a-ban-on-arms-importation-and-frozen-bank-accounts-on-eritrea-for-supporting-somali-rebels.md)
 The U.N. Security Council imposed sanctions on the Horn of Africa state of Eritrea on Wednesday because of aid that council members say it has given to Islamist insurgents in nearby Somalia.

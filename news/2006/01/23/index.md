@@ -31,7 +31,7 @@ _Context: Kenya, Nairobi_
 _Context: Azerbaijan, Georgia, natural gas_
 
 ### [ The U.S. Supreme Court rejects an appeal from Research In Motion Ltd. which had asked it to reverse a lower-court ruling that found its BlackBerry wireless email device in violation of patents held by NTP, Inc., a Virginia patent-holding firm. The case now moves to a federal district court in Virginia, which will decide whether to reinstate an injunction against the U.S. sale of the popular BlackBerrys. ](/news/2006/01/23/the-u-s-supreme-court-rejects-an-appeal-from-research-in-motion-ltd-which-had-asked-it-to-reverse-a-lower-court-ruling-that-found-its-bla.md)
-_Context: BlackBerry, NTP Inc., Research in Motion, United States Supreme Court, federal district court_
+_Context: BlackBerry, NTP Inc., Research in Motion, Supreme Court, federal district court_
 
 ## [Previous Day...](/news/2006/01/22/index.md)
 

@@ -19,7 +19,7 @@ Cyclone Nilam today swept across north Tamil Nadu coast near Mahabalipuram leavi
 Twenty-five people have been killed by an electrical fire at a wedding in the Abqaiq region of eastern Saudi Arabia, officials say.
 
 ### [Former Penn State assistant coach Jerry Sandusky is transferred to State Correctional Institution - Greene in Franklin Township, Pennsylvania, to serve his 30-to-60-year sentence on child sexual abuse charges. ](/news/2012/10/31/former-penn-state-assistant-coach-jerry-sandusky-is-transferred-to-state-correctional-institution-a-greene-in-franklin-township-pennsylva.md)
-_Context: Franklin Township, Jerry Sandusky, Penn State, Penn State scandal, Pennsylvania, State Correctional Institution - Greene, sexual abuse_
+_Context: Franklin Township, Jerry Sandusky, Penn State, Penn State child sex abuse scandal, Pennsylvania, State Correctional Institution - Greene, sexual abuse_
 
 ### [Two Iranian warships leave Port Sudan on the Red Sea, after a four-day stay. ](/news/2012/10/31/two-iranian-warships-leave-port-sudan-on-the-red-sea-after-a-four-day-stay.md)
 _Context: Iranian Naval, Port Sudan, Red Sea_

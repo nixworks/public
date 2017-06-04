@@ -10,7 +10,7 @@ _Context: Chief Executive, China's State Council, Chinese People's Political Con
 _Context: Iraq, Ukrainians_
 
 ### [ Local council elections in Malta are to take place. Results initially appear to favour the Malta Labour Party. ](/news/2005/03/12/local-council-elections-in-malta-are-to-take-place-results-initially-appear-to-favour-the-malta-labour-party.md)
-_Context: Malta Labour Party, Maltese_
+_Context: Malta, Malta Labour Party_
 
 ## [Previous Day...](/news/2005/03/11/index.md)
 

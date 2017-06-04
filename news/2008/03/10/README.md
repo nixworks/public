@@ -13,7 +13,7 @@ Gov. Eliot Spitzer has been caught on a federal wiretap arranging to meet with a
 A new analysis of online consumer data shows that large Web companies are learning more about people than ever from what they search for and do on the Internet.
 
 ### [ The Nationalist Party wins the general election in Malta, by a relative majority of 1,580 vote over the Labour Party. ](/news/2008/03/10/the-nationalist-party-wins-the-general-election-in-malta-by-a-relative-majority-of-1-580-vote-over-the-labour-party.md)
-_Context: Malta Labour Party, Maltese, Partit Nazzjonalista, general election_
+_Context: Malta, Malta Labour Party, Partit Nazzjonalista, general election_
 
 ### [ Sri Lankan voters in the Batticaloa district, an area formerly controlled by the Tamil Tigers, go to the polls in local government elections for first time in ten years. ](/news/2008/03/10/sri-lankan-voters-in-the-batticaloa-district-an-area-formerly-controlled-by-the-tamil-tigers-go-to-the-polls-in-local-government-election.md)
 _Context: Batticaloa, Sri Lanka, Tamil Tigers_

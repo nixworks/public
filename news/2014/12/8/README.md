@@ -22,7 +22,7 @@ _Context: Chinese court, May 2014 rmqi attack, Xinjiang_
 _Context: Bernard Madoff, Ponzi scheme_
 
 ### [The US Supreme Court rejects BP's challenge to their ''Deepwater Horizon'' gulf oil spill settlement. ](/news/2014/12/8/the-us-supreme-court-rejects-bp-s-challenge-to-their-deepwater-horizon-gulf-oil-spill-settlement.md)
-_Context: BP, Deepwater Horizon oil spill, United States Supreme Court_
+_Context: BP, Deepwater Horizon oil spill, Supreme Court_
 
 ### [United States President Barack Obama unveils new limits on racial profiling. These new limits outlaw profiling based on race, gender, ethnicity, nationality, religion, or sexual orientation. ](/news/2014/12/8/united-states-president-barack-obama-unveils-new-limits-on-racial-profiling-these-new-limits-outlaw-profiling-based-on-race-gender-ethnic.md)
 Attorney General Eric Holder says he hopes state and local police will adopt the new guidelines for federal law enforcers.

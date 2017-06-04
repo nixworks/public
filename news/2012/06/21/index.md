@@ -49,7 +49,7 @@ Indonesian court finds Umar Patek, accused of assembling explosives for 2002 att
 The father of ex-Chilean President Michelle Bachelet probably died as a result of torture after the 1973 coup led by Pinochet, a judge says.
 
 ### [Penn State child sex abuse scandal:The adopted son of former football coach Jerry Sandusky says that Sandusky molested him. ](/news/2012/06/21/penn-state-child-sex-abuse-scandal-pthe-adopted-son-of-former-football-coach-jerry-sandusky-says-that-sandusky-molested-him.md)
-_Context: American football, Jerry Sandusky, Penn State scandal, sexual abuse_
+_Context: American football, Jerry Sandusky, Penn State child sex abuse scandal, sexual abuse_
 
 ### [John Bryson resigns as United States Secretary of Commerce following a seizure that led to two car accidents. ](/news/2012/06/21/john-bryson-resigns-as-united-states-secretary-of-commerce-following-a-seizure-that-led-to-two-car-accidents.md)
 He had been on a medical leave of absence since June 11, following a seizure and two car accidents.

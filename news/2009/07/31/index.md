@@ -34,7 +34,7 @@ Myanmar opposition leader to know fate on August 11 as court defers ruling.
 _Context: Baghdad, Iraq, Shi'ite_
 
 ### [ Space Shuttle ''Endeavour'' lands at Kennedy Space Centre in Florida, United States, ending a 16-day mission to the International Space Station (ISS). ](/news/2009/07/31/space-shuttle-endeavour-lands-at-kennedy-space-centre-in-florida-united-states-ending-a-16-day-mission-to-the-international-space-sta.md)
-_Context: 16-day mission, Florida, ISS, Kennedy Space Center, Space Shuttle ''Endeavour'', U.S._
+_Context: 16-day mission, Florida, International Space Station, Kennedy Space Center, Space Shuttle ''Endeavour'', U.S._
 
 ### [ Aerial photographs reveal the streetplan of the lost Roman city of Altinum, regarded by some scholars as a forerunner of Venice. ](/news/2009/07/31/aerial-photographs-reveal-the-streetplan-of-the-lost-roman-city-of-altinum-regarded-by-some-scholars-as-a-forerunner-of-venice.md)
 _Context: Altinum, Venice_

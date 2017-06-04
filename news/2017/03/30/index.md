@@ -40,7 +40,7 @@ The Kremlin paid an army of more than 1,000 people to create fake anti-Hillary C
 Tyrannosaurs had sensitive snouts that they may have enjoyed rubbing together while mating, scientists say
 
 ### [SpaceX successfully places the SES-10 telecommunications satellite on a geostationary transfer orbit. The event is notable because of the implied economic cost savings of reusing, for the first time, a used Falcon 9 first stage which had previously been recovered. That first stage had previously launched a Dragon spacecraft to the International Space Station and landed on an autonomous drone ship during the CRS-8 mission. ](/news/2017/03/30/spacex-successfully-places-the-ses-10-telecommunications-satellite-on-a-geostationary-transfer-orbit-the-event-is-notable-because-of-the-im.md)
-_Context: CRS-8, Dragon, Falcon 9, ISS, SES-10, SpaceX, autonomous drone ship, geostationary transfer orbit_
+_Context: CRS-8, Dragon cargo capsule, Falcon 9, International Space Station, SES-10, SpaceX, autonomous drone ship, geostationary transfer orbit_
 
 ## [Previous Day...](/news/2017/03/29/index.md)
 

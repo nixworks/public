@@ -28,7 +28,7 @@ _Context: Belgium, Catholic, Guy Theunis, genocide in Rwanda, priest_
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ 103 Croatians were arrested in Malta following supporter disturbances after a 2006 FIFA World Cup qualifying football match which Croatia unexpectedly failed to win. ](/news/2005/09/8/103-croatians-were-arrested-in-malta-following-supporter-disturbances-after-a-2006-fifa-world-cup-qualifying-football-match-which-croatia-u.md)
-_Context: Croatia, Croatia, Maltese, defending champion, footballer, qualifying_
+_Context: Croatia, Croatia, Malta, defending champion, footballer, qualifying_
 
 ### [ Apple Computer has unveiled a pencil-thin iPod nano digital music player and a long-anticipated cell phone that plays music like an iPod, both aimed at extending its domination of the digital music market. Also, Apple discontinued their iPod mini. [http://www.nytimes.com/2005/09/08/technology/circuits/08pogue.html (New York Times)] (registration required), [http://www.cnn.com/2005/TECH/09/07/apple.ipod.reut/index.html (CNN)] (Link dead as of 00:43, 15 January 2007 (UTC))](/news/2005/09/8/apple-computer-has-unveiled-a-pencil-thin-ipod-nano-digital-music-player-and-a-long-anticipated-cell-phone-that-plays-music-like-an-ipod-b.md)
 _Context: Apple Computer, iPod, iPod Nano, iPod mini, long-anticipated cell phone_

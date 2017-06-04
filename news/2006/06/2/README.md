@@ -19,7 +19,7 @@ _Context: French, German, Iran, Iran and weapons of mass destruction, People's R
 _Context: Female genital cutting, childbirth, complications, infant mortality_
 
 ### [ Expedition 13/Soyuz TMA-8: Pavel Vinogradov and Jeffrey Williams spend more than six hours outside the International Space Station, conducting an extended maintenance spacewalk. ](/news/2006/06/2/expedition-13-soyuz-tma-8-pavel-vinogradov-and-jeffrey-williams-spend-more-than-six-hours-outside-the-international-space-station-conduct.md)
-_Context: Expedition 13, ISS, Jeffrey Williams, Pavel Vinogradov, Soyuz TMA-8, extra-vehicular activity, spacewalk_
+_Context: Expedition 13, International Space Station, Jeffrey Williams, Pavel Vinogradov, Soyuz TMA-8, extra-vehicular activity, spacewalk_
 
 ## [Previous Day...](/news/2006/06/1/index.md)
 

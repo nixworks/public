@@ -28,7 +28,7 @@ Contact lost with Swedish-registered &#8216;Marianne&#8217; making its way to Pa
 US Office of Personnel Management shuts down system for background checks in wake of hack - @ABC
 
 ### [The Supreme Court of the United States upholds the use of capital punishment by lethal injection involving midazolam. ](/news/2015/06/29/the-supreme-court-of-the-united-states-upholds-the-use-of-capital-punishment-by-lethal-injection-involving-midazolam.md)
-_Context: United States Supreme Court, death penalty, lethal injection, midazolam_
+_Context: Supreme Court, death penalty, lethal injection, midazolam_
 
 ### [The California State Legislature passes a bill which would enact a state requirement for the vaccination of children enrolled in schools. The bill is now pending Governor Jerry Brown's approval before going into law. ](/news/2015/06/29/the-california-state-legislature-passes-a-bill-which-would-enact-a-state-requirement-for-the-vaccination-of-children-enrolled-in-schools-th.md)
 Gov. Jerry Brown must now decide whether to sign into law a bill that would require mandatory vaccinations for nearly all California schoolchildren.

@@ -22,7 +22,7 @@ _Context: Brussels, European Union, Microsoft_
 _Context: 2006 Borujerd earthquake, Borujerd, Iran, Luristan Province, earthquake_
 
 ### [ An intruder enters a church in Malta during mass and smashes a 200-year-old Jerusalem mother-of-pearl crucifix creating commotion. ](/news/2006/03/31/an-intruder-enters-a-church-in-malta-during-mass-and-smashes-a-200-year-old-jerusalem-mother-of-pearl-crucifix-creating-commotion.md)
-_Context: Jerusalem, Maltese, Mass, church, crucifix, mother-of-pearl_
+_Context: Jerusalem, Malta, Mass, church, crucifix, mother-of-pearl_
 
 ## [Previous Day...](/news/2006/03/30/index.md)
 

@@ -19,7 +19,7 @@ _Context: Chief Justice, Parliament of Papua New Guinea, Port Moresby, Prime Min
 The &quot;yes&quot; campaign for independence wants one million Scots to sign a declaration of support by the time of the referendum in the autumn of 2014.
 
 ### [A SpaceX Dragon becomes the first commercial spacecraft ever to dock with the International Space Station, completing docking at 12:02 pm EDT (16:02 UTC). ](/news/2012/05/25/a-spacex-dragon-becomes-the-first-commercial-spacecraft-ever-to-dock-with-the-international-space-station-completing-docking-at-12-02-pm-ed.md)
-_Context: Dragon, Eastern Daylight Time, ISS, SpaceX, UTC, its demo mission_
+_Context: Dragon, Eastern Daylight Time, International Space Station, SpaceX, UTC, its demo mission_
 
 ## [Previous Day...](/news/2012/05/24/index.md)
 

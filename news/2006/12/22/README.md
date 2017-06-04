@@ -10,7 +10,7 @@ _Context: 2006 Duke University lacrosse team scandal, Duke_
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ Space Shuttle ''Discovery'' lands safely at the Kennedy Space Center at 5:32 p.m. EST (22:32 UTC), concluding mission STS-116. They spent 13 days in space and visited the International Space Station. ](/news/2006/12/22/space-shuttle-discovery-lands-safely-at-the-kennedy-space-center-at-5-32-p-m-est-22-32-utc-concluding-mission-sts-116-they-spent-1.md)
-_Context: Discovery, ISS, Kennedy Space Center, STS-116_
+_Context: Discovery, International Space Station, Kennedy Space Center, STS-116_
 
 ### [ The party of dictator Omar Bongo, the Gabonese Democratic Party, has apparently won a vast majority in the legislative election held on 17 December 2006. ](/news/2006/12/22/the-party-of-dictator-omar-bongo-the-gabonese-democratic-party-has-apparently-won-a-vast-majority-in-the-legislative-election-held-on-17.md)
 _Context: Gabonese Democratic Party, Omar Bongo, legislative election_

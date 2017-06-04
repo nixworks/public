@@ -19,7 +19,7 @@ _Context: D, Mike Rounds, R, South Dakota, South Dakota Governor, Tim Johnson, U
 _Context: Baghdad, kidnapped_
 
 ### [ Operation Paget, the inquiry into the death in 1997 of Diana, Princess of Wales headed by Lord Stevens, a former chief of London's Metropolitan Police, concludes that there were no suspicious circumstances and that the fatal car crash in which she died was a 'tragic accident'. ](/news/2006/12/14/operation-paget-the-inquiry-into-the-death-in-1997-of-diana-princess-of-wales-headed-by-lord-stevens-a-former-chief-of-london-s-metropol.md)
-_Context: 1997, Death of Diana, Princess of Wales, London, Lord Stevens, Operation Paget, Scotland Yard, grandmother_
+_Context: 1997, Death of Diana, Princess of Wales, London, Lord Stevens, Operation Paget, The Metropolitan Police, grandmother_
 
 ### [ UK Prime Minister Tony Blair is interviewed by police investigating cash for honours allegations. ](/news/2006/12/14/uk-prime-minister-tony-blair-is-interviewed-by-police-investigating-cash-for-honours-allegations.md)
 _Context: Prime Minster, Tony Blair, current political crisis_

@@ -25,7 +25,7 @@ News and opinion from The Times &amp; The Sunday Times
 _Context: Baha Balousheh, Fatah, Gaza Strip, Sayid Seyam, interior minister_
 
 ### [ The Space Shuttle ''Discovery'' successfully docks with the International Space Station with the crew to spend a week rewiring the space station. ](/news/2006/12/11/the-space-shuttle-discovery-successfully-docks-with-the-international-space-station-with-the-crew-to-spend-a-week-rewiring-the-space-st.md)
-_Context: Discovery, ISS, Space Shuttle_
+_Context: Discovery, International Space Station, Space Shuttle_
 
 ### [ In an interview with Jeff Stein, a national security editor for ''Congressional Quarterly'', Silvestre Reyes, the incoming Chairman of the U.S. House Intelligence Committee incorrectly claims that Al Qaeda is a "predominantly Shiite" organization. When asked if Hezbollah is a Sunni or a Shiite organization, Reyes said "It's hard to keep things in perspective and in the categories." ](/news/2006/12/11/in-an-interview-with-jeff-stein-a-national-security-editor-for-congressional-quarterly-silvestre-reyes-the-incoming-chairman-of-the.md)
 _Context: Congressional Quarterly, Hezbollah, Shiite, Silvestre Reyes, United States House of Representatives, al-Qaeda_

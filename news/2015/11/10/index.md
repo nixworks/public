@@ -43,7 +43,7 @@ Kenyan police on Tuesday arrested a journalist who wrote about corruption at the
 _Context: National Security Agency, Richard Leon's, U.S., U.S. Court of Appeals for the District of Columbia Circuit_
 
 ### [The Obama administration will ask the Supreme Court to overturn yesterday's ruling by the New Orleans, Louisiana, federal Court of Appeals that blocks the deferred deportation of  millions of undocumented immigrants  who entered the United States as children. ](/news/2015/11/10/the-obama-administration-will-ask-the-supreme-court-to-overturn-yesterday-s-ruling-by-the-new-orleans-louisiana-federal-court-of-appeals-t.md)
-_Context: 5th Circuit Court of Appeals, Obama administration, U.S., United States Supreme Court_
+_Context: 5th Circuit Court of Appeals, Obama administration, Supreme Court, U.S._
 
 ### [Former West German chancellor Helmut Schmidt (1974 to 1982) dies at the age of 96. ](/news/2015/11/10/former-west-german-chancellor-helmut-schmidt-1974-to-1982-dies-at-the-age-of-96.md)
 Docker’s grandson, who led country from 1974 to 1982 as it rose to become a global economic powerhouse, had long illness

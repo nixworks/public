@@ -3,7 +3,7 @@
 ### [ A terrorist threat results in the evacuation of tens of thousands of fans at the first day of the annual Rock am Ring music festival at the Zeppelinfeld in Nuremberg, Germany. Organizers say they hope the festival will resume Saturday. ](/news/2017/06/2/a-terrorist-threat-results-in-the-evacuation-of-tens-of-thousands-of-fans-at-the-first-day-of-the-annual-rock-am-ring-music-festival-at-the.md)
 Fans hoping to see German rock giants Rammstein stream out of the Nuerburg arena instead.
 
-### [Fifteen young children die  of "severe sepsis/toxicity" from contaminated  vaccine during South Sudan's measles vaccination campaign.  In one instance, a syringe containing vaccine stored without refrigeration was used for all the children during the four-day campaign. ](/news/2017/06/2/fifteen-young-children-die-of-severe-sepsis-toxicity-from-contaminated-vaccine-during-south-sudan-s-measles-vaccination-campaign-in-on.md)
+### [Fifteen young children die  of "severe sepsis/toxicity" from contaminated  vaccine during South Sudan's measles vaccination campaign.  In one instance, a syringe containing vaccine stored without refrigeration was used for all the children over four days. ](/news/2017/06/2/fifteen-young-children-die-of-severe-sepsis-toxicity-from-contaminated-vaccine-during-south-sudan-s-measles-vaccination-campaign-in-on.md)
 Contaminated measles vaccine killed 15 children in South Sudan, U.N. and WHO officials say
 
 ### [Equatorial Guinea, Ivory Coast, Kuwait, Peru and Poland are elected to the United Nations Security Council for a two-year term beginning on January 1, 2018. ](/news/2017/06/2/equatorial-guinea-ivory-coast-kuwait-peru-and-poland-are-elected-to-the-united-nations-security-council-for-a-two-year-term-beginning-on.md)

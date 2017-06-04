@@ -16,7 +16,7 @@ _Context: Fatah, Golan Heights, Israel Defense Forces, Palestinian, Syria_
 _Context: Canada, Human Rights Watch, Netherlands, U.S., diplomatic, prison, torture_
 
 ### [ Soyuz TMA-6 lifts off at dawn from Baikonur Cosmodrome in Kazakhstan carrying the Expedition 11 crew to the International Space Station. [http://www.foxnews.com/story/0,2933,153539,00.html (Fox News)] [http://news.yahoo.com/news?tmpl=story&u=/nm/20050415/wl_nm/space_russia_launch_dc (Yahoo! News)] (Link dead as of 02:40, 15 January 2007 (UTC))](/news/2005/04/15/soyuz-tma-6-lifts-off-at-dawn-from-baikonur-cosmodrome-in-kazakhstan-carrying-the-expedition-11-crew-to-the-international-space-station-h.md)
-_Context: 15 January, 2007, Baikonur Cosmodrome, Expedition 11, ISS, Kazakhstan, Soyuz TMA-6_
+_Context: 15 January, 2007, Baikonur Cosmodrome, Expedition 11, International Space Station, Kazakhstan, Soyuz TMA-6_
 
 ### [ Prince Rainier is buried in Monaco. ](/news/2005/04/15/prince-rainier-is-buried-in-monaco.md)
 _Context: Monaco, Prince Rainier, buried_

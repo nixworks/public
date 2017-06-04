@@ -16,7 +16,7 @@ _Context: Brazil, Chile, LAN Airlines, TAM Airlines_
 The Hong Kong Monetary Authority will tighten some types of mortgage lending to guard against credit risks.
 
 ### [Mosta - Malta Fireworks Factory (13t'Awissu) explodes leaving one man dead.[http://www.youtube.com/watch?v=wXP94W7r1YE&feature=related]](/news/2010/08/13/mosta-malta-fireworks-factory-13t-awissu-explodes-leaving-one-man-dead-http-www-youtube-com-watch-v-wxp94w7r1ye-feature-related.md)
-_Context: Maltese, Mosta_
+_Context: Malta, Mosta_
 
 ### [President of Pakistan Asif Ali Zardari officially cancels Independence Day as a direct consequence of the ongoing floods that have devastated the country. ](/news/2010/08/13/president-of-pakistan-asif-ali-zardari-officially-cancels-independence-day-as-a-direct-consequence-of-the-ongoing-floods-that-have-devastate.md)
 President cancels independence day festivities as country braces for more floods.

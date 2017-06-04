@@ -1,7 +1,7 @@
 ## [2009-01-27](/news/2009/01/27/index.md)
 
 ### [ Sir Paul Stephenson is appointed Commissioner of London's Metropolitan Police Service. ](/news/2009/01/27/sir-paul-stephenson-is-appointed-commissioner-of-london-s-metropolitan-police-service.md)
-_Context: Commissioner, London, Paul Stephenson, Scotland Yard, Sir_
+_Context: Commissioner, London, Paul Stephenson, Sir, The Metropolitan Police_
 
 ### [ At least one person is killed and eight wounded by Israeli attacks on the Gaza Strip. ](/news/2009/01/27/at-least-one-person-is-killed-and-eight-wounded-by-israeli-attacks-on-the-gaza-strip.md)
 Incidents mark first day of violence since Gaza ceasfires were declared.

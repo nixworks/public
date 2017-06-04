@@ -28,7 +28,7 @@ Canadian Prime Minister Stephen Harper has announced the construction of two mil
 _Context: Fiji_
 
 ### [ STS-118: NASA discovers a gouge in the belly of the Space Shuttle Endeavour after it docks with the International Space Station. ](/news/2007/08/10/sts-118-nasa-discovers-a-gouge-in-the-belly-of-the-space-shuttle-endeavour-after-it-docks-with-the-international-space-station.md)
-_Context: ISS, NASA, Space Shuttle ''Endeavour'', gouge, lands safely_
+_Context: International Space Station, NASA, Space Shuttle ''Endeavour'', gouge, lands safely_
 
 ### [ The Congolese Labour Party of the President of the Republic of the Congo Denis Sassou-Nguesso and affiliated groups win 90 per cent of the seats in parliamentary elections. ](/news/2007/08/10/the-congolese-labour-party-of-the-president-of-the-republic-of-the-congo-denis-sassou-nguesso-and-affiliated-groups-win-90-per-cent-of-the.md)
 _Context: Congolese Labour Party, Denis Sassou Nguesso, President of the Republic of the Congo, parliamentary elections_

@@ -16,7 +16,7 @@ _Context: Slobodan Milosevic_
 _Context: Baghdad, Sadr City_
 
 ### [ In Malta, the Malta Labour Party makes a big victory in the Local Council Elections ](/news/2006/03/12/in-malta-the-malta-labour-party-makes-a-big-victory-in-the-local-council-elections.md)
-_Context: Local Council Elections, Malta Labour Party, Maltese_
+_Context: Local Council Elections, Malta, Malta Labour Party_
 
 ### [ Queen Elizabeth II and Prince Philip, Duke of Edinburgh began their Visit to Australia which she will open the Commonwealth Games in Melbourne.](/news/2006/03/12/queen-elizabeth-ii-and-prince-philip-duke-of-edinburgh-began-their-visit-to-australia-which-she-will-open-the-commonwealth-games-in-melbou.md)
 ### [ U.S. Senator Russ Feingold announces that he will introduce a motion of censure against President George W. Bush. ](/news/2006/03/12/u-s-senator-russ-feingold-announces-that-he-will-introduce-a-motion-of-censure-against-president-george-w-bush.md)

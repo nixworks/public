@@ -7,7 +7,7 @@ _Context: Border Gateway Protocol, Internet_
 _Context: Barack Obama, D, Democratic National Convention, Joe Biden, U.S. presidential election, acclamation_
 
 ### [ As many as 71 illegal immigrants are feared drowned after their boat sinks in the Mediterranean Sea off the coast of Malta. ](/news/2008/08/27/as-many-as-71-illegal-immigrants-are-feared-drowned-after-their-boat-sinks-in-the-mediterranean-sea-off-the-coast-of-malta.md)
-_Context: Maltese, Mediterranean Sea, illegal immigrant_
+_Context: Malta, Mediterranean Sea, illegal immigrant_
 
 ### [ The Dalai Lama cancels two international trips (Mexico & Dominican Republic) to undergo medical tests due to "exhaustion". ](/news/2008/08/27/the-dalai-lama-cancels-two-international-trips-mexico-dominican-republic-to-undergo-medical-tests-due-to-exhaustion.md)
 _Context: Dalai Lama, Dominican Republic, Mexico_

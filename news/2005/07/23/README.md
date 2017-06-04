@@ -7,7 +7,7 @@ _Context: Adolf Hitler, Bharatiya Janata Party, Gujarat, Holocaust, Human rights
 An earthquake with a magnitude of 6.0 shook eastern Japan, rattling buildings in Tokyo and disrupting train services.
 
 ### [ British police admit that the man killed yesterday by undercover officers had no connection to the suicide bombings or attempted bombings of previous days and weeks.  Metropolitan Police has described the killing as a "tragedy". The victim, Jean Charles de Menezes, 27, was Brazilian. ](/news/2005/07/23/british-police-admit-that-the-man-killed-yesterday-by-undercover-officers-had-no-connection-to-the-suicide-bombings-or-attempted-bombings-o.md)
-_Context: British Police, Jean Charles de Menezes, Scotland Yard, undercover_
+_Context: British Police, Jean Charles de Menezes, The Metropolitan Police, undercover_
 
 ### [ Rep. Barbara Lee (D-CA) introduces a Congressional Resolution of Inquiry which, if passed, will require the White House and the U.S. State Department to "transmit all information relating to communication with officials of the United Kingdom between January 1, 2002, and October 16, 2002, relating to the policy of the United States with respect to Iraq." (Wikinews)](/news/2005/07/23/rep-barbara-lee-d-ca-introduces-a-congressional-resolution-of-inquiry-which-if-passed-will-require-the-white-house-and-the-u-s-state.md)
 _Context: (Wikinews), Barbara Lee, Congressional Resolution of Inquiry, U.S. State Department, White House_

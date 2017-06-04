@@ -43,7 +43,7 @@ Jason Kidd was reportedly arrested early Sunday morning for alleged drunken driv
 _Context: Beersheba, Haifa, Israelis, Jerusalem, Tel Aviv_
 
 ### [A Russian Soyuz rocket begins its mission to the International Space Station with three international crew members. ](/news/2012/07/15/a-russian-soyuz-rocket-begins-its-mission-to-the-international-space-station-with-three-international-crew-members.md)
-_Context: ISS, Soyuz rocket_
+_Context: International Space Station, Soyuz rocket_
 
 ## [Previous Day...](/news/2012/07/14/index.md)
 

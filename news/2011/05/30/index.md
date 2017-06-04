@@ -46,7 +46,7 @@ _Context: Chinese, Inner Mongolia, Mongolia, People's Republic of China_
 Italian Prime Minister Silvio Berlusconi loses the key cities of Milan and Naples in local elections seen as a major test of his popularity.
 
 ### [Space Shuttle Endeavour undocks from the International Space Station to return to earth on its final mission. ](/news/2011/05/30/space-shuttle-endeavour-undocks-from-the-international-space-station-to-return-to-earth-on-its-final-mission.md)
-_Context: ISS, Space Shuttle ''Endeavour'', final mission_
+_Context: International Space Station, Space Shuttle ''Endeavour'', final mission_
 
 ## [Previous Day...](/news/2011/05/29/index.md)
 

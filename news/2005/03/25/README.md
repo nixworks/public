@@ -10,7 +10,7 @@ _Context: Askar Akayev, Bishkek, Kurmanbek Bakiyev, Kyrgyzstan, Looting, Preside
 _Context: Monaco, Prince Rainier, heart failure, renal failure, ventilator_
 
 ### [ Good Friday was celebrated all over the world. Processions with statues representing the Passion of Christ (Way of the Cross) were held all over Malta. <small>''[NEWSLINK MISSING]''</small>. ](/news/2005/03/25/good-friday-was-celebrated-all-over-the-world-processions-with-statues-representing-the-passion-of-christ-way-of-the-cross-were-held-all.md)
-_Context: Christ, Good Friday, Maltese, Way of the Cross_
+_Context: Christ, Good Friday, Malta, Way of the Cross_
 
 ## [Previous Day...](/news/2005/03/24/index.md)
 

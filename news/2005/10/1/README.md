@@ -10,7 +10,7 @@ _Context: Central America, El Salvador, Ilamatepec, San Salvador, coffee, volcan
 _Context: University of Oklahoma, a packed football stadium, bomb_
 
 ### [ A Russian rocket lifts a Soyuz spacecraft towards the International Space Station, carrying the third fare-paying space tourist, American Gregory Olsen. ](/news/2005/10/1/a-russian-rocket-lifts-a-soyuz-spacecraft-towards-the-international-space-station-carrying-the-third-fare-paying-space-tourist-american-g.md)
-_Context: Gregory Olsen, ISS, Soyuz, rocket, space tourist_
+_Context: Gregory Olsen, International Space Station, Soyuz, rocket, space tourist_
 
 ### [ Four explosions are reported in Bali at popular tourist areas, killing at least 36 and injuring 103 people. ](/news/2005/10/1/four-explosions-are-reported-in-bali-at-popular-tourist-areas-killing-at-least-36-and-injuring-103-people.md)
 _Context: Bali, Bali bombings_

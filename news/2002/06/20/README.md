@@ -1,7 +1,7 @@
 ## [2002-06-20](/news/2002/06/20/index.md)
 
 ### [ Law - The United States Supreme Court is asked about requiring Internet filters.](/news/2002/06/20/law-a-the-united-states-supreme-court-is-asked-about-requiring-internet-filters.md)
-_Context: Internet filter, United States Supreme Court, law_
+_Context: Internet filter, Supreme Court, law_
 
 ### [ Law - Go Daddy Software pursues VeriSign for damages.](/news/2002/06/20/law-a-go-daddy-software-pursues-verisign-for-damages.md)
 _Context: Go Daddy Software, VeriSign, law_

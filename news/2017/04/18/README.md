@@ -19,7 +19,7 @@ A POLICE helicopter carrying 12 people has crashed killing everyone on board.
 Libyan fishermen found the bodies of 28 migrants who appeared to have died of thirst and hunger after their boat broke down off the coast of Sabratha city, a ministry of interior official said on Tuesday.
 
 ### [The Supreme Court of the United States refuses to vacate a stay of execution issued by the Arkansas Supreme Court. Arkansas's highest court has also put on hold the execution of another inmate, Bruce Ward. The state had planned to execute eight inmates in eleven days. That schedule, as well as the use of the drug midazolam, sparked a broad range of legal challenges and humanitarian concerns about the executions. Today's planned execution of Don W. Davis would have been the state's first since 2005. ](/news/2017/04/18/the-supreme-court-of-the-united-states-refuses-to-vacate-a-stay-of-execution-issued-by-the-arkansas-supreme-court-arkansas-s-highest-court.md)
-_Context: Arkansas, Arkansas Supreme Court, United States Supreme Court, midazolam_
+_Context: Arkansas, Arkansas Supreme Court, Supreme Court, midazolam_
 
 ### [Steve Stephens, the suspected "Facebook killer" accused of killing 74-year-old Robert Godwin, kills himself after a brief pursuit with the Pennsylvania State Police. ](/news/2017/04/18/steve-stephens-the-suspected-facebook-killer-accused-of-killing-74-year-old-robert-godwin-kills-himself-after-a-brief-pursuit-with-the-p.md)
 _Context: Pennsylvania State Police, Shooting of Robert Godwin_

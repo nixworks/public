@@ -16,7 +16,7 @@ _Context: Garry Kasparov, chess_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ All is set for the local council elections in Malta which shall take place tomorrow. The results are expected to be in favour of the Malta Labour Party, the current opposition party. ](/news/2005/03/11/all-is-set-for-the-local-council-elections-in-malta-which-shall-take-place-tomorrow-the-results-are-expected-to-be-in-favour-of-the-malta.md)
-_Context: Malta Labour Party, Maltese_
+_Context: Malta, Malta Labour Party_
 
 ### [ In the UK, the controversial Prevention of Terrorism Act 2005 was finally given Royal Assent after one of the longest ever sittings by the House of Lords.](/news/2005/03/11/in-the-uk-the-controversial-prevention-of-terrorism-act-2005-was-finally-given-royal-assent-after-one-of-the-longest-ever-sittings-by-the.md)
 _Context: House of Lords, Prevention of Terrorism Act 2005, Royal Assent_

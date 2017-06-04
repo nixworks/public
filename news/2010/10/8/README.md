@@ -46,7 +46,7 @@ _Context: Japan, People's Republic of China, Wen Jiabao, rare earth element_
 Residents blame aluminium company for toxic spill that killed four people and devastated three villages.
 
 ### [Maltese chemical tanker YM Uranus||2 is reported to be sinking following a collision with the Panamanian cargo ship ''Hanjin Rizhao'' off the coast of Brittany, France. ](/news/2010/10/8/maltese-chemical-tanker-ym-uranus-2-is-reported-to-be-sinking-following-a-collision-with-the-panamanian-cargo-ship-hanjin-rizhao-off-th.md)
-_Context: Brittany, French, Maltese, Panama, Tanker, cargo ship_
+_Context: Brittany, French, Malta, Panama, Tanker, cargo ship_
 
 ### [One person died and 42 others remain hospitalized in the Tibetan Autonomous Prefecture of Garze. Over 100 people, mostly tourists and hotel staff, were affected. ](/news/2010/10/8/one-person-died-and-42-others-remain-hospitalized-in-the-tibetan-autonomous-prefecture-of-garze-over-100-people-mostly-tourists-and-hotel.md)
 _Context: Tibetan Autonomous Prefecture of Garze_
@@ -88,7 +88,7 @@ The Murray-Darling Basin Authority calls for water consumption from some of the 
 _Context: Chang'e 2_
 
 ### [Two Russian cosmonauts, Aleksandr Kaleri and Oleg Skripochka, and American astronaut Scott Kelly leave on mission Soyuz TMA-01M for the International Space Station from Kazakhstan's Baikonur Cosmodrome. ](/news/2010/10/8/two-russian-cosmonauts-aleksandr-kaleri-and-oleg-skripochka-and-american-astronaut-scott-kelly-leave-on-mission-soyuz-tma-01m-for-the-inte.md)
-_Context: Aleksandr Kaleri, Baikonur Cosmodrome, ISS, Kazakhstan, Oleg Skripochka, Russia, Scott Kelly, Soyuz TMA-01M, U.S., astronaut, cosmonaut_
+_Context: Aleksandr Kaleri, Baikonur Cosmodrome, International Space Station, Kazakhstan, Oleg Skripochka, Russia, Scott Kelly, Soyuz TMA-01M, U.S., astronaut, cosmonaut_
 
 ### [Anthropologists claim to have proven that Yersinia pestis was responsible for the Black Death in  Medieval Europe. ](/news/2010/10/8/anthropologists-claim-to-have-proven-that-yersinia-pestis-was-responsible-for-the-black-death-in-medieval-europe.md)
 Anthropologists say they have confirmed long-running suspicions that a germ called Yersinia pestis caused the plague that wiped out an estimated third of Europe&#039;s population in the Middle Ages.

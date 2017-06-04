@@ -7,7 +7,7 @@ _Context: Enron, George W. Bush, Jesus Christ, Kenneth Lay, Trial of Kenneth Lay
 _Context: Hawaii, North Korea, U.S., launch, state_
 
 ### [ The Space Shuttle ''Discovery'' successfully docks with the International Space Station as part of the STS-121 mission.  Checks of the orbiter have revealed no damage from foam falling off the external fuel tank during launch. ](/news/2006/07/6/the-space-shuttle-discovery-successfully-docks-with-the-international-space-station-as-part-of-the-sts-121-mission-checks-of-the-orbi.md)
-_Context: 13-day mission, Discovery, ISS, Space Shuttle, docks_
+_Context: 13-day mission, Discovery, International Space Station, Space Shuttle, docks_
 
 ### [ Great Britain's young people are for the first time spending more time looking at Internet sites than watching TV, a new survey has revealed. ](/news/2006/07/6/great-britain-s-young-people-are-for-the-first-time-spending-more-time-looking-at-internet-sites-than-watching-tv-a-new-survey-has-reveale.md)
 _Context: Great Britain, Internet, TV, opinion poll_

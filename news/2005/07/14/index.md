@@ -1,7 +1,7 @@
 ## [2005-07-14](/news/2005/07/14/index.md)
 
 ### [ U.S. Supreme Court Chief Justice William Rehnquist announces he will not retire from the court as long as his health permits him to remain. In October of 2004 Rehnquist, 80, was diagnosed with thyroid cancer and underwent a tracheotomy. [http://news.yahoo.com/s/ap/20050715/ap_on_go_su_co/rehnquist_health_5 Yahoo News] (Link dead as of 00:39, 15 January 2007 (UTC))](/news/2005/07/14/u-s-supreme-court-chief-justice-william-rehnquist-announces-he-will-not-retire-from-the-court-as-long-as-his-health-permits-him-to-remain.md)
-_Context: Chief Justice, United States Supreme Court, William Rehnquist, thyroid cancer, tracheotomy_
+_Context: Chief Justice, Supreme Court, William Rehnquist, thyroid cancer, tracheotomy_
 
 ### [ 2005 Atlantic hurricane season: Rain from Hurricane Emily causes flooding and mudslides in Grenada, as the hurricane continues to grow to near Category 3 strength. ](/news/2005/07/14/2005-atlantic-hurricane-season-rain-from-hurricane-emily-causes-flooding-and-mudslides-in-grenada-as-the-hurricane-continues-to-grow-to-n.md)
 _Context: 2005 Atlantic hurricane season, Grenada, Hurricane Emily, Saffir-Simpson Hurricane Scale, flood, hurricane, mudslide_

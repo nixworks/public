@@ -10,7 +10,7 @@ A tropical storm caused deadly landslides in the Philippines on Wednesday, befor
 _Context: Nigeria, Port Harcourt, turf war_
 
 ### [ ''Endeavour'' lifts off from Kennedy Space Center for the STS-118 assembly mission of the International Space Station. ](/news/2007/08/8/endeavour-lifts-off-from-kennedy-space-center-for-the-sts-118-assembly-mission-of-the-international-space-station.md)
-_Context: ISS, Kennedy Space Center, Space Shuttle ''Endeavour'', lands safely_
+_Context: International Space Station, Kennedy Space Center, Space Shuttle ''Endeavour'', lands safely_
 
 ### [ Nouri al-Maliki, the Prime Minister of Iraq, visits Iran to seek co-operation in reducing the level of violence. ](/news/2007/08/8/nouri-al-maliki-the-prime-minister-of-iraq-visits-iran-to-seek-co-operation-in-reducing-the-level-of-violence.md)
 _Context: Iran, Iraq Prime Minister, Nouri al-Maliki_

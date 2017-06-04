@@ -49,7 +49,7 @@ _Context: Kenya_
 _Context: Brazil, same-sex marriage_
 
 ### [A Soyuz capsule carrying astronauts Chris Hadfield of Canada, Thomas Marshburn of the United States and Roman Romanenko of Russia of Expedition 35 back from the International Space Station lands safely in Kazakhstan. ](/news/2013/05/14/a-soyuz-capsule-carrying-astronauts-chris-hadfield-of-canada-thomas-marshburn-of-the-united-states-and-roman-romanenko-of-russia-of-expedit.md)
-_Context: Canada, Chris Hadfield, Expedition 35, ISS, Kazakhstan, Roman Romanenko, Russia, Soyuz, Thomas Marshburn, U.S._
+_Context: Canada, Chris Hadfield, Expedition 35, International Space Station, Kazakhstan, Roman Romanenko, Russia, Soyuz, Thomas Marshburn, U.S._
 
 ## [Previous Day...](/news/2013/05/13/index.md)
 

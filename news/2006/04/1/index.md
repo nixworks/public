@@ -1,7 +1,7 @@
 ## [2006-04-1](/news/2006/04/1/index.md)
 
 ### [ Marcos Pontes, Brazil's first astronaut, reaches the International Space Station. ](/news/2006/04/1/marcos-pontes-brazil-s-first-astronaut-reaches-the-international-space-station.md)
-_Context: Brazil, ISS, Marcos Pontes, astronaut_
+_Context: Brazil, International Space Station, Marcos Pontes, astronaut_
 
 ### [ A small aircraft goes missing whilst in flight towards Rio de Janeiro, Brazil, with 19 people on board.  It is found to have crashed near Saquarema, about 100&nbsp;km from Rio.  There are no survivors. ](/news/2006/04/1/a-small-aircraft-goes-missing-whilst-in-flight-towards-rio-de-janeiro-brazil-with-19-people-on-board-it-is-found-to-have-crashed-near-s.md)
 _Context: Brazil, Rio de Janeiro, Saquarema_

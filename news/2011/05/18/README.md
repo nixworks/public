@@ -70,7 +70,7 @@ South Africans go to the polls to vote in local elections after one of the most 
 _Context: California, San Francisco, California, male circumcision_
 
 ### [The Space Shuttle ''Endeavour'' docks at the International Space Station for the final time. ](/news/2011/05/18/the-space-shuttle-endeavour-docks-at-the-international-space-station-for-the-final-time.md)
-_Context: ISS, Space Shuttle ''Endeavour'', final mission_
+_Context: International Space Station, Space Shuttle ''Endeavour'', final mission_
 
 ## [Previous Day...](/news/2011/05/17/index.md)
 

@@ -19,7 +19,7 @@ The number of dead in a mudslide that hit the north-western US state of Washingt
 More than 130 separate tape-recorded conversations have emerged between gardaí, witnesses and journalists relating exclusively to the Sophie Toscan du Plantier murder case, RTÉ&#39;s This Week has learned.
 
 ### [Malta elected a new President of the Republic of Malta Marie Louise Coleiro Preca, the second female President after 27 years. The event carried out in Luqa, Siggiewi, Qormi, Valletta, Floriana, Malta and Attard. date=April 2014](/news/2014/04/3/malta-elected-a-new-president-of-the-republic-of-malta-marie-louise-coleiro-preca-the-second-female-president-after-27-years-the-event-car.md)
-_Context: Attard, Floriana, Malta, Luqa, Maltese, Marie Louise Coleiro Preca, Qormi, Siggiewi, Valletta_
+_Context: Attard, Floriana, Malta, Luqa, Malta, Marie Louise Coleiro Preca, Qormi, Siggiewi, Valletta_
 
 ### [Scientists from NASA and the European Space Agency estimate that Enceladus, a moon of Saturn, has an ocean of liquid water under its surface. ](/news/2014/04/3/scientists-from-nasa-and-the-european-space-agency-estimate-that-enceladus-a-moon-of-saturn-has-an-ocean-of-liquid-water-under-its-surface.md)
 _Context: Enceladus, European Space Agency, NASA, Saturn_

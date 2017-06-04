@@ -46,7 +46,7 @@ _Context: Myanmar, general elections_
 Ed Miliband beats his brother David by a wafer thin margin to be elected leader of the Labour Party.
 
 ### [The Soyuz TMA-18 capsule carrying three members of the International Space Station lands safely in Kazakhstan. ](/news/2010/09/25/the-soyuz-tma-18-capsule-carrying-three-members-of-the-international-space-station-lands-safely-in-kazakhstan.md)
-_Context: ISS, Kazakhstan, Soyuz TMA-18_
+_Context: International Space Station, Kazakhstan, Soyuz TMA-18_
 
 ### [The Uganda Wildlife Authority (UWA) states that the population of some animals in the country's national parks and game reserves has doubled since 1999. ](/news/2010/09/25/the-uganda-wildlife-authority-uwa-states-that-the-population-of-some-animals-in-the-country-s-national-parks-and-game-reserves-has-doubled.md)
 _Context: Uganda Wildlife Authority_

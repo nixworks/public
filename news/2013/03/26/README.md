@@ -49,7 +49,7 @@ An online petition calls for the sacking of Daily Mail columnist Richard Littlej
 _Context: Abuja car bombings, Henry Okah, Nigeria, South Africa_
 
 ### [The United States Supreme Court weighs the case of a California constitutional amendment banning same-sex unions, passed after gay marriage became legal there. ](/news/2013/03/26/the-united-states-supreme-court-weighs-the-case-of-a-california-constitutional-amendment-banning-same-sex-unions-passed-after-gay-marriage.md)
-_Context: California, California Proposition 8, United States Supreme Court, gay marriage, same-sex unions_
+_Context: California, California Proposition 8, Supreme Court, gay marriage, same-sex unions_
 
 ### [Italian foreign minister Giulio Terzi resigns from his post in protest over the return of two Italian marines to India to face charges for allegedly murdering fishermen. ](/news/2013/03/26/italian-foreign-minister-giulio-terzi-resigns-from-his-post-in-protest-over-the-return-of-two-italian-marines-to-india-to-face-charges-for-a.md)
 _Context: Giulio Terzi, India, Italian, Italian marines, face charges, fishermen, foreign minister_

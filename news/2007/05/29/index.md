@@ -4,7 +4,7 @@
 _Context: George W. Bush, Robert Zoellick, US Deputy Secretary of State, US President, the World Bank_
 
 ### [ U.S. Supreme Court Justice Ruth Bader Ginsburg takes the rare step of reading aloud her dissent in ''Ledbetter v. Goodyear''. ](/news/2007/05/29/u-s-supreme-court-justice-ruth-bader-ginsburg-takes-the-rare-step-of-reading-aloud-her-dissent-in-ledbetter-v-goodyear.md)
-_Context: Justice, Ledbetter v. Goodyear, Ruth Bader Ginsburg, United States Supreme Court, dissent_
+_Context: Justice, Ledbetter v. Goodyear, Ruth Bader Ginsburg, Supreme Court, dissent_
 
 ### [ Heavy fighting resumes between the Lebanese army and al Qaeda linked militants at the Nahr el-Bared refugee camp. ](/news/2007/05/29/heavy-fighting-resumes-between-the-lebanese-army-and-al-qaeda-linked-militants-at-the-nahr-el-bared-refugee-camp.md)
 _Context: Lebanon, Nahr el-Bared, al-Qaeda, refugee_

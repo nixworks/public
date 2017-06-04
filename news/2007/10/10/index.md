@@ -22,7 +22,7 @@ _Context: 2007 Mideast peace conference, Annapolis, Maryland, Israel, Mahmoud Ab
 The UAW and Chrysler have reached a tentative deal Wednesday afternoon, Forbes reports.
 
 ### [ The first Malaysian astronaut, Sheikh Muszaphar Shukor, and the first female space station commander, Peggy Whitson, are launched towards the International Space Station on board Soyuz TMA-11. ](/news/2007/10/10/the-first-malaysian-astronaut-sheikh-muszaphar-shukor-and-the-first-female-space-station-commander-peggy-whitson-are-launched-towards-t.md)
-_Context: ISS, Malaysia, Peggy Whitson, Sheikh Muszaphar Shukor, Soyuz TMA-11_
+_Context: International Space Station, Malaysia, Peggy Whitson, Sheikh Muszaphar Shukor, Soyuz TMA-11_
 
 ### [ German scientist Gerhard Ertl is announced as the winner of the 2007 Nobel Prize for Chemistry for his work on chemical processes on solid surfaces. ](/news/2007/10/10/german-scientist-gerhard-ertl-is-announced-as-the-winner-of-the-2007-nobel-prize-for-chemistry-for-his-work-on-chemical-processes-on-solid.md)
 _Context: Gerhard Ertl, German, Nobel Prize for Chemistry_

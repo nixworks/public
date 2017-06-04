@@ -1,6 +1,6 @@
 ### [2017-06-3](/news/2017/06/3/index.md)
 
-# According to the Interior Ministry, three blasts at a funeral attended by MPs and government figures in Kabul kill at least seven people and wounds 119 more. 
+# According to the Interior Ministry, three blasts at a funeral attended by MPs and government figures in Kabul kill at least seven people and wound 119 more. 
 
 Blasts at funeral attended by government officials including one of leading political figures comes after devastating bombing
 

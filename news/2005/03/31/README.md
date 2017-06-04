@@ -29,7 +29,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Israel, Jewish_
 
 ### [ Malta commemorates the 26th anniversary of the departure of the last British forces from the island ](/news/2005/03/31/malta-commemorates-the-26th-anniversary-of-the-departure-of-the-last-british-forces-from-the-island.md)
-_Context: Maltese_
+_Context: Malta_
 
 ### [ Marburg virus death toll in Angola rises to 127 ](/news/2005/03/31/marburg-virus-death-toll-in-angola-rises-to-127.md)
 _Context: Angola, Marburg virus_
