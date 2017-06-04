@@ -3,8 +3,14 @@
 ### [  In the early hours of Sunday morning, explosions are heard around London Bridge, believed to be controlled explosions carried out by the police. ](/news/2017/06/4/in-the-early-hours-of-sunday-morning-explosions-are-heard-around-london-bridge-believed-to-be-controlled-explosions-carried-out-by-the-p.md)
 Three attackers killed seven people and injured 48 others near London Bridge. The attackers were shot dead by eight officers who used 50 bullets; a member of the public was accidentally shot.
 
-### [The U.S.-backed Syrian Democratic Forces (SDF) take control of the Baath Dam on the Euphrates, near the ISIL stronghold of Raqqa, and upon doing so, rename it "Freedom Dam". ](/news/2017/06/4/the-u-s-backed-syrian-democratic-forces-sdf-take-control-of-the-baath-dam-on-the-euphrates-near-the-isil-stronghold-of-raqqa-and-upon-d.md)
+### [The U.S.-backed Syrian Democratic Forces (SDF) take control of the Baath Dam on the Euphrates, near the ISIL stronghold of Raqqa. ](/news/2017/06/4/the-u-s-backed-syrian-democratic-forces-sdf-take-control-of-the-baath-dam-on-the-euphrates-near-the-isil-stronghold-of-raqqa.md)
 U.S.-backed Syrian militias said they seized a major dam on the Euphrates river from Islamic State on Sunday, their latest gain as they push towards Raqqa city.
+
+### [  The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England.](/news/2017/06/4/the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester-england.md)
+_Context: 2017 Manchester Arena bombing, Ariana Grande, England, Manchester, One Love Manchester_
+
+### [Bahrain bans the independent ''Al-Wasat'' newspaper on grounds that it "sows division" in the Shia-majority kingdom. ](/news/2017/06/4/bahrain-bans-the-independent-al-wasat-newspaper-on-grounds-that-it-sows-division-in-the-shia-majority-kingdom.md)
+The government in Sunni-ruled Bahrain announced Sunday an indefinite ban on the independent Al-Wasat newspaper on accusations that it publishes &quot;what sows division&quot; in the Shiite-majority Gulf kingdom. The order was due to Al-Wasat&#x27;s &quot;violation of the law and repeatedly publishing
 
 ### [All major parties suspend their campaigns following last night's terror attack in London. The general election, scheduled for June 8, is not expected to be postponed. ](/news/2017/06/4/all-major-parties-suspend-their-campaigns-following-last-night-s-terror-attack-in-london-the-general-election-scheduled-for-june-8-is-not.md)
 Britain&#039;s political parties have suspended national general election campaigning in the wake of the London Bridge attack, which killed six people. Labour, Conservatives, Lib Dem, Green and SNP spokespeople announced on Sunday morning that they would temporarily stand down.
