@@ -9,11 +9,14 @@ Saudi Arabia said the move was necessary to protect the kingdom from what it des
 ### [Montenegro officially joins NATO as its 29th member at a ceremony in Washington, D.C. ](/news/2017/06/5/montenegro-officially-joins-nato-as-its-29th-member-at-a-ceremony-in-washington-d-c.md)
 _Context: Montenegro, Montenegro-NATO relations, NATO, Washington, D.C._
 
-### [Six people, including the shooter, are dead after a shooting occurs at a business in Orlando, Florida, United States. ](/news/2017/06/5/six-people-including-the-shooter-are-dead-after-a-shooting-occurs-at-a-business-in-orlando-florida-united-states.md)
+### [A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life. Eight people inside the business survived. ](/news/2017/06/5/a-discharged-45-year-old-former-employee-shoots-and-kills-five-people-at-a-manufacturing-business-in-orlando-florida-united-states-the-sh.md)
 _Context: Florida, Orlando_
 
 ### [The Turkish interior ministry announces that 130 people, living outside the country and suspected of militant links, will lose their  citizenship unless they return to Turkey within three months and meet government standards. Named suspects include  U.S.-based cleric Fethullah Gulen, and Peoples' Democratic Party leaders Faysal Sariyildiz, Tugba Hezer, and  Ozdal Ucer. ](/news/2017/06/5/the-turkish-interior-ministry-announces-that-130-people-living-outside-the-country-and-suspected-of-militant-links-will-lose-their-citize.md)
 _Context: 2016-17 Turkish purges, Fethullah Gulen, Peoples' Democratic Party, Turkish interior ministry, citizenship_
+
+### [The ''charge d'affaires'' of the U.S. Embassy in Beijing, China, resigns following President Donald Trump's  announcement he will  withdraw the United States from the 2015 international agreement on climate change mitigation. ](/news/2017/06/5/the-charga-c-d-affaires-of-the-u-s-embassy-in-beijing-china-resigns-following-president-donald-trump-s-announcement-he-will-withdraw.md)
+_Context: China, United States withdrawal from the Paris Agreement, charge d'affaires, international agreement on climate change mitigation_
 
 ### [Indian Space Research Organisation successfully launches communications satellite GSAT-19 through its heaviest rocket Geosynchronous Satellite Launch Vehicle Mark III. ](/news/2017/06/5/indian-space-research-organisation-successfully-launches-communications-satellite-gsat-19-through-its-heaviest-rocket-geosynchronous-satelli.md)
 Indian Space Research Organisation on Monday successfully launched its most powerful rocket, GSLV Mk III nicknamed &lsquo;Fatboy&rsquo;, by firing a high thrust indigenous cryogenic engine in the first developmental flight and placed the country&rsquo;s heaviest satellite in orbit.
