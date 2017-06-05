@@ -13,13 +13,16 @@ _Context: Montenegro, Montenegro-NATO relations, NATO, Washington, D.C._
 _Context: Florida, Orlando_
 
 ### [The Turkish interior ministry announces that 130 people, living outside the country and suspected of militant links, will lose their  citizenship unless they return to Turkey within three months and meet government standards. Named suspects include  U.S.-based cleric Fethullah Gulen, and Peoples' Democratic Party leaders Faysal Sariyildiz, Tugba Hezer, and  Ozdal Ucer. ](/news/2017/06/5/the-turkish-interior-ministry-announces-that-130-people-living-outside-the-country-and-suspected-of-militant-links-will-lose-their-citize.md)
-_Context: 2016 Turkish coup d'etat attempt, 2016-17 Turkish purges, Fethullah Gulen, Peoples' Democratic Party, Turkish interior ministry, citizenship_
+_Context: 2016-17 Turkish purges, Fethullah Gulen, Peoples' Democratic Party, Turkish interior ministry, citizenship_
 
 ### [Indian Space Research Organisation successfully launches communications satellite GSAT-19 through its heaviest rocket Geosynchronous Satellite Launch Vehicle Mark III. ](/news/2017/06/5/indian-space-research-organisation-successfully-launches-communications-satellite-gsat-19-through-its-heaviest-rocket-geosynchronous-satelli.md)
 Indian Space Research Organisation on Monday successfully launched its most powerful rocket, GSLV Mk III nicknamed &lsquo;Fatboy&rsquo;, by firing a high thrust indigenous cryogenic engine in the first developmental flight and placed the country&rsquo;s heaviest satellite in orbit.
 
-### [Another satellite of Jupiter is announced, S/2017 J 1, just 3 days after the announcement of S/2016 J 1 ](/news/2017/06/5/another-satellite-of-jupiter-is-announced-s-2017-j-1-just-3-days-after-the-announcement-of-s-2016-j-1.md)
+### [Another satellite of Jupiter is announced, S/2017 J 1, just 3 days after the announcement of S/2016 J 1. ](/news/2017/06/5/another-satellite-of-jupiter-is-announced-s-2017-j-1-just-3-days-after-the-announcement-of-s-2016-j-1.md)
 _Context: S/2016 J 1, S/2017 J 1, satellite of Jupiter_
+
+### [Apple announces iOS 11 in WWDC 2017. ](/news/2017/06/5/apple-announces-ios-11-in-wwdc-2017.md)
+_Context: WWDC, iOS 11_
 
 ## [Previous Day...](/news/2017/06/4/index.md)
 

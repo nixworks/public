@@ -1,6 +1,6 @@
 ### [2017-06-5](/news/2017/06/5/index.md)
 
-# Another satellite of Jupiter is announced, S/2017 J 1, just 3 days after the announcement of S/2016 J 1 
+# Another satellite of Jupiter is announced, S/2017 J 1, just 3 days after the announcement of S/2016 J 1. 
 
 
 
