@@ -6,8 +6,11 @@ Three attackers killed seven people and injured 48 others near London Bridge. Th
 ### [The U.S.-backed Syrian Democratic Forces (SDF) take control of the Baath Dam on the Euphrates, near the ISIL stronghold of Raqqa. ](/news/2017/06/4/the-u-s-backed-syrian-democratic-forces-sdf-take-control-of-the-baath-dam-on-the-euphrates-near-the-isil-stronghold-of-raqqa.md)
 U.S.-backed Syrian militias said they seized a major dam on the Euphrates river from Islamic State on Sunday, their latest gain as they push towards Raqqa city.
 
-### [  The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England.](/news/2017/06/4/the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester-england.md)
-_Context: 2017 Manchester Arena bombing, Ariana Grande, England, Manchester, One Love Manchester_
+### [Citizens remain trapped in Marawi, Philippines after a ceasefire organised by the Moro Islamic Liberation Front is broken. Up to 2,000 people remain in need of help after nearly two weeks without food. ](/news/2017/06/4/citizens-remain-trapped-in-marawi-philippines-after-a-ceasefire-organised-by-the-moro-islamic-liberation-front-is-broken-up-to-2-000-peopl.md)
+Fighting breaks despite a four-hour ceasefire, preventing hundreds of residents from leaving besieged city of Marawi. 
+
+### [The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. ](/news/2017/06/4/the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester-england.md)
+Ariana Grande closed &#8220;One Love Manchester&#8221; with an emotional rendition of &#8220;Somewhere Over the Rainbow&#8221; on Sunday. The benefit concert was organized to honor the 22 victims w…
 
 ### [Bahrain bans the independent ''Al-Wasat'' newspaper on grounds that it "sows division" in the Shia-majority kingdom. ](/news/2017/06/4/bahrain-bans-the-independent-al-wasat-newspaper-on-grounds-that-it-sows-division-in-the-shia-majority-kingdom.md)
 The government in Sunni-ruled Bahrain announced Sunday an indefinite ban on the independent Al-Wasat newspaper on accusations that it publishes &quot;what sows division&quot; in the Shiite-majority Gulf kingdom. The order was due to Al-Wasat&#x27;s &quot;violation of the law and repeatedly publishing

@@ -1,9 +1,13 @@
 ### [2017-06-4](/news/2017/06/4/index.md)
 
-#   The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England.
+# The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. 
+
+Ariana Grande closed &#8220;One Love Manchester&#8221; with an emotional rendition of &#8220;Somewhere Over the Rainbow&#8221; on Sunday. The benefit concert was organized to honor the 22 victims w…
 
 
+### Source:
 
+1. [Variety](http://variety.com/2017/music/news/ariana-grande-somewhere-over-the-rainbow-one-love-manchester-benefit-concert-watch-1202453634/)
 
 ### Related:
 
