@@ -8,7 +8,8 @@ Saudi Arabia said the move was necessary to protect the kingdom from what it des
 ### Source:
 
 1. [AP](https://apnews.com/8257ce650e224188a1884e34eabb5e90/4-Arab-nations-cut-diplomatic-ties-to-Qatar-as-rift-deepens)
-2. [The Guardian](https://www.theguardian.com/world/2017/jun/05/saudi-arabia-and-bahrain-break-diplomatic-ties-with-qatar-over-terrorism)
+2. [Reuters](http://www.reuters.com/article/us-gulf-qatar-idUSKBN18W0DQ)
+3. [The Guardian](https://www.theguardian.com/world/2017/jun/05/saudi-arabia-and-bahrain-break-diplomatic-ties-with-qatar-over-terrorism)
 
 ### Related:
 
