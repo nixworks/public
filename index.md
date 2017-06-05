@@ -6,6 +6,9 @@ ASIO found classified files during a raid on the apartment of a suspected Chines
 ### [Bahrain, Saudi Arabia, the United Arab Emirates and Egypt sever diplomatic ties with Qatar, ordering Qatari citizens in those countries to be expelled as well as cutting all land, air and sea connections. "National security," "media incitement" and Qatar's support of Iran are variously cited. ](/news/2017/06/5/bahrain-saudi-arabia-the-united-arab-emirates-and-egypt-sever-diplomatic-ties-with-qatar-ordering-qatari-citizens-in-those-countries-to-b.md)
 Saudi Arabia said the move was necessary to protect the kingdom from what it described as extremism, reasoning that was echoed by Bahrain
 
+### [Indian Space Research Organisation successfully launched communications satellite GSAT-19E through its heaviest rocket GSLV-III ](/news/2017/06/5/indian-space-research-organisation-successfully-launched-communications-satellite-gsat-19e-through-its-heaviest-rocket-gslv-iii.md)
+_Context: GSAT-19E, GSLV-III, Indian Space Research Organisation_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
