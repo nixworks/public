@@ -13,7 +13,7 @@ _Context: Dominican-American, Jose Pimentel, Michael Bloomberg, New York City, a
 President of Turkey Abdullah Gul says his country still wants to join the EU, before he arrives in London for a three-day state visit to Britain.
 
 ### [A man is charged with attempted murder following Saturday's stabbing of four Metropolitan Police officers in Kingsbury, north London. ](/news/2011/11/20/a-man-is-charged-with-attempted-murder-following-saturday-s-stabbing-of-four-metropolitan-police-officers-in-kingsbury-north-london.md)
-_Context: Kingsbury, London, The Metropolitan Police, attempted murder_
+_Context: Kingsbury, London, Metropolitan Police, attempted murder_
 
 ### [Voters in Spain go to the polls for a general election, with the centre-right Popular Party winning a parliamentary majority. ](/news/2011/11/20/voters-in-spain-go-to-the-polls-for-a-general-election-with-the-centre-right-popular-party-winning-a-parliamentary-majority.md)
 _Context: Popular Party, Spain, centre-right, general election, parliamentary majority_

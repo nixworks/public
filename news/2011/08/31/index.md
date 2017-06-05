@@ -7,7 +7,7 @@ Evidence mounts that Libyan despot lied when he told the world a 1986 U.S. air s
 _Context: Hama, Syrian Army_
 
 ### [The 68th Venice International Film Festival gets underway in Venice, Italy. ](/news/2011/08/31/the-68th-venice-international-film-festival-gets-underway-in-venice-italy.md)
-_Context: 68th Venice International Film Festival, Italian, Venice_
+_Context: 68th Venice International Film Festival, Italy, Venice_
 
 ### [ExxonMobil and OAO Rosneft reach a deal which may reach $500 billion in projects in the Arctic, Gulf of Mexico, and the Black Sea. ](/news/2011/08/31/exxonmobil-and-oao-rosneft-reach-a-deal-which-may-reach-500-billion-in-projects-in-the-arctic-gulf-of-mexico-and-the-black-sea.md)
 Exxon Mobil Corp and Rosneft signed an agreement to extract oil and gas from the Russian Arctic, in the most significant U.S.-Russian corporate deal since U.S. President Barack Obama began a push to improve ties.

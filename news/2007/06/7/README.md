@@ -4,7 +4,7 @@
 _Context: Colombo, Sri Lanka, Sri Lankan Civil War, hundreds of the minority Sri Lankan Tamils, police_
 
 ### [ Italian police arrest a group of people for allegedly providing material support for an al Qaeda-linked organisation, Salafist Group for Call and Combat. ](/news/2007/06/7/italian-police-arrest-a-group-of-people-for-allegedly-providing-material-support-for-an-al-qaeda-linked-organisation-salafist-group-for-ca.md)
-_Context: Italian, Salafist Group for Call and Combat, al-Qaeda_
+_Context: Italy, Salafist Group for Call and Combat, al-Qaeda_
 
 ### [ ''33rd G8 summit:'' President of the United States George W. Bush and President of Russia Vladimir Putin meet to discuss missile defense. ](/news/2007/06/7/33rd-g8-summit-p-president-of-the-united-states-george-w-bush-and-president-of-russia-vladimir-putin-meet-to-discuss-missile-defense.md)
 _Context: 33rd G8 summit, George W. Bush, Russia President, U.S. President, Vladimir Putin, missile defense shield_

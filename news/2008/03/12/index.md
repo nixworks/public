@@ -19,7 +19,7 @@ _Context: Europe, Sweden, Vanern, lake_
 Southwest Airlines Co said on Wednesday it had grounded more than three dozen planes, cutting 4 percent of its scheduled flights, due to another glitch in ensuring safety inspections are completed.
 
 ### [ The last French veteran of World War I, Lazare Ponticelli, an Italian immigrant who lied about his age to join the French Foreign Legion and fight in the trenches, dies at 110. ](/news/2008/03/12/the-last-french-veteran-of-world-war-i-lazare-ponticelli-an-italian-immigrant-who-lied-about-his-age-to-join-the-french-foreign-legion-an.md)
-_Context: First World War, French, French Foreign Legion, Italian, Lazare Ponticelli, trench, veteran_
+_Context: First World War, French, French Foreign Legion, Italy, Lazare Ponticelli, trench, veteran_
 
 ### [ French Minister of Foreign Affairs Bernard Kouchner and his Swedish counterpart Carl Bildt pronounce their support for Serbian membership of the European Union. ](/news/2008/03/12/french-minister-of-foreign-affairs-bernard-kouchner-and-his-swedish-counterpart-carl-bildt-pronounce-their-support-for-serbian-membership-o.md)
 _Context: Bernard Kouchner, Carl Bildt, European Union, French, Minister of Foreign Affairs, Serbia, Sweden_

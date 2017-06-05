@@ -19,7 +19,7 @@ Exactly 15 years after he was sworn as Philippine president, Joseph Estrada take
 _Context: 2009-10 Iranian election protests, Censorship in Iran, Foreign relations of Iran, Hassan Rouhani, Iran, Islamic Republic of Iran Broadcasting, President, Syrian Civil War_
 
 ### [The President of the European Parliament demands an explanation from the U.S. for allegations of spying, while new sources hint that the NSA could gather information from several European countries and had placed microphones in the Embassy of Italy to the U.S.. Many European leaders declare themselves greatly disappointed and the issue may bring serious political and economical consequences. ](/news/2013/06/30/the-president-of-the-european-parliament-demands-an-explanation-from-the-u-s-for-allegations-of-spying-while-new-sources-hint-that-the-nsa.md)
-_Context: Italian, NSA, President of the European Parliament, U.S. for allegations of spying_
+_Context: Italy, NSA, President of the European Parliament, U.S. for allegations of spying_
 
 ### [Egyptians flood the streets in mass protests on the anniversary of the inauguration of President Mohamed Morsi demanding his resignation. ](/news/2013/06/30/egyptians-flood-the-streets-in-mass-protests-on-the-anniversary-of-the-inauguration-of-president-mohamed-morsi-demanding-his-resignation.md)
 _Context: Egyptian President, Egyptians, Mohamed Morsi_

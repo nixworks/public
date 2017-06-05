@@ -25,7 +25,7 @@ A fire at a budget hotel in the northern Philippines has killed 15 people and in
 _Context: Colorado, state_
 
 ### [3 people are killed as blizzards and freezing temperatures hit Italy. ](/news/2010/12/19/3-people-are-killed-as-blizzards-and-freezing-temperatures-hit-italy.md)
-_Context: Italian_
+_Context: Italy_
 
 ### [Flights in and out of Heathrow Airport are at a virtual standstill as severe weather conditions continue across the United Kingdom. ](/news/2010/12/19/flights-in-and-out-of-heathrow-airport-are-at-a-virtual-standstill-as-severe-weather-conditions-continue-across-the-united-kingdom.md)
 Severe disruption caused by freezing weather continues, as Heathrow cancels hundreds of flights and Eurostar queues spill onto the streets.

@@ -13,7 +13,7 @@ _Context: anti-secession law, status_
 _Context: Himalayan, India, Nepal, People's Republic of China, World Wildlife Fund, drought, flood, glacier_
 
 ### [ In Italy, Alessandra Mussolini, granddaughter of ''Il Duce'' Benito Mussolini, is banned from regional elections for presenting fraudulent signatures. She threatens to go on a hunger strike. ](/news/2005/03/14/in-italy-alessandra-mussolini-granddaughter-of-il-duce-benito-mussolini-is-banned-from-regional-elections-for-presenting-fraudulent.md)
-_Context: Alessandra Mussolini, Benito Mussolini, Il Duce, Italian, hunger strike_
+_Context: Alessandra Mussolini, Benito Mussolini, Il Duce, Italy, hunger strike_
 
 ### [ In the Philippines, inmates of a Camp Bagong Diwa maximum security prison in Manila took hostages during an attempted jailbreak and demand to talk with authorities. At least four guards and one prisoner have been killed. Prisoners claim to hold 100 hostages; police dispute this number. According to the police, the attempt was led by imprisoned members of Abu Sayyaf. ](/news/2005/03/14/in-the-philippines-inmates-of-a-camp-bagong-diwa-maximum-security-prison-in-manila-took-hostages-during-an-attempted-jailbreak-and-demand.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

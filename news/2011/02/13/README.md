@@ -49,7 +49,7 @@ _Context: London, Luke Harding, Russia, Russian Foreign Minister, Sergey Lavrov,
 _Context: Shah Mehmood Qureshi_
 
 ### [Nearly 1,000 Tunisian refugees arrive on the Italian island of Lampedusa overnight, a day after the government declared a humanitarian emergency. ](/news/2011/02/13/nearly-1-000-tunisian-refugees-arrive-on-the-italian-island-of-lampedusa-overnight-a-day-after-the-government-declared-a-humanitarian-emerg.md)
-_Context: Italian, Lampedusa, Tunisia_
+_Context: Italy, Lampedusa, Tunisia_
 
 ### [Immigration to Canada hits a record high, while Minister of Citizenship and Immigration Jason Kenney states that abuse of the immigration system must end. ](/news/2011/02/13/immigration-to-canada-hits-a-record-high-while-minister-of-citizenship-and-immigration-jason-kenney-states-that-abuse-of-the-immigration-sy.md)
 _Context: Immigration to Canada, Jason Kenney, Minister of Citizenship and Immigration_

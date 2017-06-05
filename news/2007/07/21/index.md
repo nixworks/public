@@ -7,7 +7,7 @@ _Context: Alan Webb_
 Radar Failure Causes Sao Paolo To Ground International Flights
 
 ### [ Italian police arrest three Moroccans and accuse them of running a small "terror school" in a small mosque near Perugia. ](/news/2007/07/21/italian-police-arrest-three-moroccans-and-accuse-them-of-running-a-small-terror-school-in-a-small-mosque-near-perugia.md)
-_Context: Italian, Moroccan, Perugia_
+_Context: Italy, Moroccan, Perugia_
 
 ### [ In the UK, the Royal Air Force has one of its busiest weekends in peacetime rescuing hundreds of people from flooding after days of heavy rain lead to widespread flooding. ](/news/2007/07/21/in-the-uk-the-royal-air-force-has-one-of-its-busiest-weekends-in-peacetime-rescuing-hundreds-of-people-from-flooding-after-days-of-heavy-r.md)
 _Context: Royal Air Force, Summer 2007 United Kingdom floods, UK, flood_

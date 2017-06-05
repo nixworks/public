@@ -10,7 +10,7 @@ A militant umbrella group that includes al-Qaeda in Iraq says it was behind the 
 A complete ban on the sale of cosmetics developed through animal testing is now in force in the EU.
 
 ### [Italian stocks lose value after Fitch Ratings downgrades the country's creditworthiness. ](/news/2013/03/11/italian-stocks-lose-value-after-fitch-ratings-downgrades-the-country-s-creditworthiness.md)
-_Context: Fitch Ratings, Italian, creditworthiness, stock_
+_Context: Fitch Ratings, Italy, creditworthiness, stock_
 
 ### [Five U.S. service members are killed after a helicopter crash during a rainstorm in Daman district of Kandahar Province, Afghanistan. ](/news/2013/03/11/five-u-s-service-members-are-killed-after-a-helicopter-crash-during-a-rainstorm-in-daman-district-of-kandahar-province-afghanistan.md)
 Five Americans from the Nato-led foreign forces in Afghanistan die in a helicopter crash blamed on a rainstorm, the US says.

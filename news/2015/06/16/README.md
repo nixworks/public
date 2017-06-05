@@ -40,7 +40,7 @@ _Context: Ali Ahsan Mohammad Mojaheed, Bangladesh, Islamist, Supreme Court_
 Court yet to rule whether it will confirm or commute a death sentence it handed down against Morsi in a separate case.
 
 ### [Real estate mogul and reality television host Donald Trump announces that he will be a candidate for the Republican Party nomination. ](/news/2015/06/16/real-estate-mogul-and-reality-television-host-donald-trump-announces-that-he-will-be-a-candidate-for-the-republican-party-nomination.md)
-_Context: 2016 U.S. presidential election, Donald Trump, R_
+_Context: 2016 U.S. presidential election, R, Trump_
 
 ## [Previous Day...](/news/2015/06/15/index.md)
 

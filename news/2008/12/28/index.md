@@ -25,7 +25,7 @@ _Context: 2008 presidential election, Ghana, John Atta Mills, Nana Akufo-Addo_
 _Context: Gulf Cartel, Mexican Army, Mexico, drug cartel, major_
 
 ### [ Four boats carrying approximately 1,700 illegal Libyan migrants arrive on the Italian island of Lampedusa. ](/news/2008/12/28/four-boats-carrying-approximately-1-700-illegal-libyan-migrants-arrive-on-the-italian-island-of-lampedusa.md)
-_Context: Italian, Lampedusa, Libya, illegal migrants, migrants_
+_Context: Italy, Lampedusa, Libya, illegal migrants, migrants_
 
 ### [ James Tanis wins Bougainville's Presidential election and will succeed Joseph Kabui, who died on June 7. ](/news/2008/12/28/james-tanis-wins-bougainville-s-presidential-election-and-will-succeed-joseph-kabui-who-died-on-june-7.md)
 Listen to highlights from our radio broadcasts, including news, current affairs, interviews and other stories.

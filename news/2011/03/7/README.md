@@ -19,7 +19,7 @@ _Context: England, London, Nude, Green Leaves and Bust, Picasso, Tate Gallery_
 Warner Bros. has just fired Charlie Sheen from &quot;Two and a Half Men.&quot;Warner Bros. issued the following statement: &quot;After careful consideration, Warner&hellip;
 
 ### [The ''New York Times'' reports that French luxury group LVMH will take control of Italy's Bulgari in an all-share deal. ](/news/2011/03/7/the-new-york-times-reports-that-french-luxury-group-lvmh-will-take-control-of-italy-s-bulgari-in-an-all-share-deal.md)
-_Context: Bulgari, French, Italian, LVMH, New York Times_
+_Context: Bulgari, French, Italy, LVMH, New York Times_
 
 ### [Oil prices rise to their highest level in 29 months as fighting in Libya intensifies. ](/news/2011/03/7/oil-prices-rise-to-their-highest-level-in-29-months-as-fighting-in-libya-intensifies.md)
 _Context: Libya, Libyan Civil War_

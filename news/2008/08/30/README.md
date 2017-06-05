@@ -19,7 +19,7 @@ _Context: Floods, Indian Armed Forces_
 _Context: Khyber Pakhtunkhwa, Pakistan Army, Swat, Pakistan_
 
 ### [ Italy compensates Libya for the forced colonization in the 1910s, promising to pay US$5 billion over the next 25 years. ](/news/2008/08/30/italy-compensates-libya-for-the-forced-colonization-in-the-1910s-promising-to-pay-us-5-billion-over-the-next-25-years.md)
-_Context: Italian, Libya, forced colonization_
+_Context: Italy, Libya, forced colonization_
 
 ### [ The head of the Mahdi Army in Karbala, Iraq, is sentenced to death over the Battle of Karbala (2007) ](/news/2008/08/30/the-head-of-the-mahdi-army-in-karbala-iraq-is-sentenced-to-death-over-the-battle-of-karbala-2007.md)
 _Context: Battle of Karbala (2007), Iraq, Karbala, Mahdi Army_

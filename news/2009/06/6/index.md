@@ -1,7 +1,7 @@
 ## [2009-06-6](/news/2009/06/6/index.md)
 
 ### [ The European Union's parliamentary election continues in Cyprus, Italy, Latvia, Malta, Slovakia, the Czech Republic, and France's overseas departments and territories. ](/news/2009/06/6/the-european-union-s-parliamentary-election-continues-in-cyprus-italy-latvia-malta-slovakia-the-czech-republic-and-france-s-overseas.md)
-_Context: Cyprus, Czech, European Parliament, European Union, French, Italian, Latvia, Malta, Overseas departments and territories of France, Slovakia's, elections_
+_Context: Cyprus, Czech, European Parliament, European Union, French, Italy, Latvia, Malta, Overseas departments and territories of France, Slovakia's, elections_
 
 ### [ The ruling party Fianna Fail endures significant losses in Ireland's local elections and parliamentary by-elections in Dublin Central and Dublin South. ](/news/2009/06/6/the-ruling-party-fianna-fa-il-endures-significant-losses-in-ireland-s-local-elections-and-parliamentary-by-elections-in-dublin-central-and.md)
 _Context: Dublin Central, Dublin South, Fianna Fail, Ireland, by-election, local elections, parliament, ruling party_

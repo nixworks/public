@@ -25,7 +25,7 @@ _Context: Kiev, Russia, Ukrainians, War in Donbass, Zhashkiv, eastern Ukraine_
 The town of Callaway, Minnesota, has been evacuated after a train crash involving a semi-tanker carrying propane. 
 
 ### [Twelve Portuguese nationals,  who were residents of Fribourg, Switzerland, are killed in a head-on collision  between their minibus and a truck, on a highway 300 kilometers (185 miles) south of Paris, France. The only survivor from the bus is the driver; the two Italian occupants of the truck are slightly injured. ](/news/2016/03/25/twelve-portuguese-nationals-who-were-residents-of-fribourg-switzerland-are-killed-in-a-head-on-collision-between-their-minibus-and-a-tr.md)
-_Context: French, Fribourg, Italian, Paris, Portuguese nationals, Swiss, minibus_
+_Context: French, Fribourg, Italy, Paris, Portuguese nationals, Swiss, minibus_
 
 ### [An air ambulance helicopter crashes in Iran's southern Fars Province, killing everyone on board. The official Islamic Republic News Agency (IRNA) put the death toll at 10. ](/news/2016/03/25/an-air-ambulance-helicopter-crashes-in-iran-s-southern-fars-province-killing-everyone-on-board-the-official-islamic-republic-news-agency.md)
 _Context: Fars Province, Iran, Islamic Republic News Agency, air ambulance_

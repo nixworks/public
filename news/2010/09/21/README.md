@@ -25,7 +25,7 @@ _Context: 2010 Atlantic hurricane season, Atlantic Ocean, Cape Verde Islands_
 _Context: Japan, Naoto Kan, People's Republic of China, Prime Minister, United Nations_
 
 ### [Italian authorities seize 23&nbsp;million euro (approximately US$30&nbsp;million) from a Vatican bank account in a money laundering probe. ](/news/2010/09/21/italian-authorities-seize-23-nbsp-million-euro-approximately-us-30-nbsp-million-from-a-vatican-bank-account-in-a-money-laundering-probe.md)
-_Context: $, Holy See, Italian, euro_
+_Context: $, Holy See, Italy, euro_
 
 ### [U.S. entertainers Paris Hilton and Nicky Hilton are stopped by immigrations at a Japanese airport and forbidden to enter the country due to Paris's drug conviction the day prior. ](/news/2010/09/21/u-s-entertainers-paris-hilton-and-nicky-hilton-are-stopped-by-immigrations-at-a-japanese-airport-and-forbidden-to-enter-the-country-due-to.md)
 _Context: Japan, Nicky Hilton, Paris Hilton_

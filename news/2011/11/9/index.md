@@ -13,7 +13,7 @@ A survey suggests the majority of Welsh businesses and consumers support the nat
 Taylor took entertainer of the year. Jason Aldean and The Band Perry won multiple trophies.
 
 ### [Italy's cost of borrowing reaches a record high, with interest rates on 10-year loans rising to 7%, as fears grow of an escalating economic crisis. ](/news/2011/11/9/italy-s-cost-of-borrowing-reaches-a-record-high-with-interest-rates-on-10-year-loans-rising-to-7-as-fears-grow-of-an-escalating-economic.md)
-_Context: Italian, escalating economic crisis, interest rate_
+_Context: Italy, escalating economic crisis, interest rate_
 
 ### [2011 Thailand floods:The death toll from the ongoing flooding in Thailand reaches 529. ](/news/2011/11/9/2011-thailand-floods-pthe-death-toll-from-the-ongoing-flooding-in-thailand-reaches-529.md)
 _Context: Thailand, floods_

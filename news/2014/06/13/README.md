@@ -28,7 +28,7 @@ Romanian accused of stealing photographs and emails from former US president Geo
 _Context: Park Geun-hye, Sinking of the MV ''Sewol'', South Korean President_
 
 ### [Giorgio Orsoni, the mayor of Venice, Italy, resigns over corruption allegations related to the MOSE Project. ](/news/2014/06/13/giorgio-orsoni-the-mayor-of-venice-italy-resigns-over-corruption-allegations-related-to-the-mose-project.md)
-_Context: Giorgio Orsoni, Italian, MOSE Project, Venice_
+_Context: Giorgio Orsoni, Italy, MOSE Project, Venice_
 
 ### [The Thai military junta announces that it is lifting the nationwide curfew. ](/news/2014/06/13/the-thai-military-junta-announces-that-it-is-lifting-the-nationwide-curfew.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

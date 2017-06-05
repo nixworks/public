@@ -10,7 +10,7 @@ Anthem Inc. agreed to buy Cigna Corp. for $48.4 billion in a transaction that, a
 Greek officials have invited the International Monetary Fund to join talks with EU creditors on a third bailout for the indebted country. The Athens government aims to complete the deal before its next payment in August.
 
 ### [A large explosion, which triggers other explosions and a fire (which threatens a nearby forest) at a fireworks factory in southeastern Italy (Modugno, Metropolitan City of Bari, Apulia Region) kills 7 people and injures several more, some seriously. Emergency vehicles were on the scene and the cause is being investigated; it is the peak season for fireworks in Italy because of the summer festivals there. ](/news/2015/07/24/a-large-explosion-which-triggers-other-explosions-and-a-fire-which-threatens-a-nearby-forest-at-a-fireworks-factory-in-southeastern-italy.md)
-_Context: Apulia, Italian, Metropolitan City of Bari, Modugno, explosion, fireworks_
+_Context: Apulia, Italy, Metropolitan City of Bari, Modugno, explosion, fireworks_
 
 ### [The United States Department of Transportation opens an investigation into whether airlines engaged in price gouging by raising ticket prices in the Northeastern United States following the 2015 Philadelphia train derailment in May. ](/news/2015/07/24/the-united-states-department-of-transportation-opens-an-investigation-into-whether-airlines-engaged-in-price-gouging-by-raising-ticket-price.md)
 _Context: 2015 Philadelphia train derailment, Northeastern United States, United States Department of Transportation, price gouging_

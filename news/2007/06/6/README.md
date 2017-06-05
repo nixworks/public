@@ -13,7 +13,7 @@ _Context: HIV, UK, Viracept, cancer_
 _Context: Iraq, Kurdish, Turkey_
 
 ### [ Five people are acquitted of the 1982 murder of "God's Banker," Italian financier Roberto Calvi. ](/news/2007/06/6/five-people-are-acquitted-of-the-1982-murder-of-god-s-banker-italian-financier-roberto-calvi.md)
-_Context: Italian, Roberto Calvi_
+_Context: Italy, Roberto Calvi_
 
 ### [ During a weekly audience with Pope Benedict XVI, a man leaps over metal barriers, attempting to jump into the popemobile. He was promptly wrestled to the ground (without the Pope's even noticing) and was then taken into the custody of Vatican police. ](/news/2007/06/6/during-a-weekly-audience-with-pope-benedict-xvi-a-man-leaps-over-metal-barriers-attempting-to-jump-into-the-popemobile-he-was-promptly-w.md)
 _Context: Pope Benedict XVI, Vatican police, audience, popemobile_

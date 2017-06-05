@@ -4,7 +4,7 @@
 _Context: Allah, Malaysia, Muslim_
 
 ### [Riots break out amongst immigrants and local inhabitants in the town of Rosarno in southern Italy in a protest against an attack on African workers by white youths. ](/news/2010/01/8/riots-break-out-amongst-immigrants-and-local-inhabitants-in-the-town-of-rosarno-in-southern-italy-in-a-protest-against-an-attack-on-african.md)
-_Context: Africa, Italian, Rosarno, immigrant_
+_Context: Africa, Italy, Rosarno, immigrant_
 
 ### [One person is killed and several are injured after gunmen open fire on a bus carrying the Togo national football team to the 2010 Africa Cup of Nations in Angola. ](/news/2010/01/8/one-person-is-killed-and-several-are-injured-after-gunmen-open-fire-on-a-bus-carrying-the-togo-national-football-team-to-the-2010-africa-cup.md)
 Togo threaten to withdraw from competition after a coach carrying the country&rsquo;s football team was attacked by gunmen.

@@ -4,7 +4,7 @@
 _Context: Boko Haram, Islam, Kano, Nigeria, a series of co-ordinated bombing attacks_
 
 ### [''Costa Concordia'' disaster: The body of a woman is discovered by search teams aboard the stricken cruise ship ''Costa Concordia'', bringing the confirmed death toll of the ship's capsizing to 12. Rescue efforts continue apace, as it is feared the ship may soon slip into deeper waters off the Italian coast. ](/news/2012/01/21/costa-concordia-disaster-the-body-of-a-woman-is-discovered-by-search-teams-aboard-the-stricken-cruise-ship-costa-concordia-bringin.md)
-_Context: ''Costa Concordia'' disaster, Costa Concordia, Italian, cruise ship_
+_Context: ''Costa Concordia'' disaster, Costa Concordia, Italy, cruise ship_
 
 ### [Under new guidelines to come into force from April 30, clinics which charge for pregnancy services, including abortions, will be able to advertise on radio and television in the United Kingdom, after the Broadcast Committee of Advertising Practice ruled there was no justification for barring such clinics from advertising their services. ](/news/2012/01/21/under-new-guidelines-to-come-into-force-from-april-30-clinics-which-charge-for-pregnancy-services-including-abortions-will-be-able-to-adv.md)
 Private clinics that charge for pregnancy services including abortions will be able to advertise on television and radio under new rules.

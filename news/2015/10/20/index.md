@@ -34,7 +34,7 @@ New mammogram advice considers the risks posed by screenings, not just the benef
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [European Union members agree to provide 291 border guards to Greece and Italy to help identify and register migrants. ](/news/2015/10/20/european-union-members-agree-to-provide-291-border-guards-to-greece-and-italy-to-help-identify-and-register-migrants.md)
-_Context: European Union, European migrant crisis, Greece, Italian, border guard_
+_Context: European Union, European migrant crisis, Greece, Italy, border guard_
 
 ### [Saudi Arabia receives US State Department approval for the purchase of four Multi-Mission Combat Ships for $11.25 billion. ](/news/2015/10/20/saudi-arabia-receives-us-state-department-approval-for-the-purchase-of-four-multi-mission-combat-ships-for-11-25-billion.md)
 Saudi Arabia has received U.S. State Department approval for the $11.25 billion purchase of four Multi-Mission Combat Ships from the United States.

@@ -37,7 +37,7 @@ The United States is in talks to base long-range bombers in Australia, U.S. defe
 Turkish authorities have seized control of the Cihan news agency, the agency said, widening the crackdown against supporters of U.S.-based Muslim cleric Fethullah Gulen, an influential foe of President Tayyip Erdogan.
 
 ### [Acting on requests from neighboring Italy, Swiss authorities  arrest 15 people sought  as suspected members of the 'Ndrangheta organized crime syndicate,  a Mafia-type organization  centered in Calabria, Italy. ](/news/2016/03/8/acting-on-requests-from-neighboring-italy-swiss-authorities-arrest-15-people-sought-as-suspected-members-of-the-ndrangheta-organized-cri.md)
-_Context: 'Ndrangheta, Calabria, Italian, Mafia, Swiss authorities, organization_
+_Context: 'Ndrangheta, Calabria, Italy, Mafia, Swiss authorities, organization_
 
 ### [Voters in the U.S. states of Mississippi, Michigan, Hawaii and Idaho vote in primary elections and caucuses. ](/news/2016/03/8/voters-in-the-u-s-states-of-mississippi-michigan-hawaii-and-idaho-vote-in-primary-elections-and-caucuses.md)
 Live presidential election results and maps.

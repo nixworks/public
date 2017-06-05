@@ -22,7 +22,7 @@ _Context: Madrid, Sara Montiel, Spain_
 _Context: Asia, Boao, Boao Forum for Asia, Chinese President, Hainan, People's Republic of China, Xi Jinping, entrepreneur_
 
 ### [Australian Prime Minister Julia Gillard, on a trip to Shanghai, China, announces that the Australian dollar is set to trade directly with the Chinese yuan, becoming the third currency to do so. ](/news/2013/04/8/australian-prime-minister-julia-gillard-on-a-trip-to-shanghai-china-announces-that-the-australian-dollar-is-set-to-trade-directly-with-th.md)
-_Context: A$, Australia, Julia Gillard, People's Republic of China, Prime Minister of Australia, Shanghai, announces, currency, yuan_
+_Context: A$, Australia, Australia-China relations, Julia Gillard, People's Republic of China, Prime Minister of Australia, Shanghai, currency, yuan_
 
 ### [Caribou Coffee announces plans to close all of its stores in the Chicago area. ](/news/2013/04/8/caribou-coffee-announces-plans-to-close-all-of-its-stores-in-the-chicago-area.md)
 _Context: Caribou Coffee, Chicago_

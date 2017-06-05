@@ -13,7 +13,7 @@ The death toll from Nepal&#039;s devastating earthquake has risen to 7,040 with 
 _Context: Afghanistan, Badghis Province_
 
 ### [Italy reports nearly 4,100 migrants were rescued off the Libyan coast with more rescues expected as people smugglers take advantage of the safe conditions. ](/news/2015/05/3/italy-reports-nearly-4-100-migrants-were-rescued-off-the-libyan-coast-with-more-rescues-expected-as-people-smugglers-take-advantage-of-the-s.md)
-_Context: Italian, Libya, people smuggler_
+_Context: Italy, Libya, people smuggler_
 
 ### [Preventive medicine researchers from Harvard University and Northwestern University conduct a study on long-term (13 years; 793 people) pre-cancer changes (mostly leukemia, prostate cancer, lung cancers, and skin cancers) in telomeres, the protective ends of DNA. Some said, in previous short-look studies, that focused mostly on their known role in the pace of regular aging, that they either got shorter or longer. There was a 3-4 year period of accelerated aging, and then it halted a few years before cancer was diagnosed. ](/news/2015/05/3/preventive-medicine-researchers-from-harvard-university-and-northwestern-university-conduct-a-study-on-long-term-13-years-793-people-pre.md)
 Distinct changes in telomeres - protective caps on the ends of our DNA strands - in the blood can predict cancer years in advance, says a new study.

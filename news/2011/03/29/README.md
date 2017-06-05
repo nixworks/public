@@ -22,7 +22,7 @@ _Context: Fukushima I nuclear accidents, North Korea, radiation_
 _Context: Alabama, Intravenous therapy_
 
 ### [Local residents on Italy's southern islands protest over the arrival of more migrants from North Africa on boats. ](/news/2011/03/29/local-residents-on-italy-s-southern-islands-protest-over-the-arrival-of-more-migrants-from-north-africa-on-boats.md)
-_Context: Italian, North African_
+_Context: Italy, North African_
 
 ### [India and Pakistan agree to set up a "terror hotline" to share information about terror threats. ](/news/2011/03/29/india-and-pakistan-agree-to-set-up-a-terror-hotline-to-share-information-about-terror-threats.md)
 _Context: India, Pakistan_

@@ -25,7 +25,7 @@ Entertainment legend Bruce Forsyth is knighted in a list which also recognises O
 _Context: Burma, go on sale_
 
 ### [Over half a million people demonstrate in Rome, Italy, demanding same sex rights. ](/news/2011/06/11/over-half-a-million-people-demonstrate-in-rome-italy-demanding-same-sex-rights.md)
-_Context: Italian, Rome, same sex rights_
+_Context: Italy, Rome, same sex rights_
 
 ### [Two officials are detained in China after 1,500 people clashed with riot police over the death of a local legislator in police custody. ](/news/2011/06/11/two-officials-are-detained-in-china-after-1-500-people-clashed-with-riot-police-over-the-death-of-a-local-legislator-in-police-custody.md)
 _Context: People's Republic of China_

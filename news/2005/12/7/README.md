@@ -19,7 +19,7 @@ _Context: American Airlines, American Airlines Flight 924, Colombia, Federal Air
 _Context: George W. Bush, Harold Pinter, Iraq, Nobel Prize in Literature, Tony Blair, U.S., UK, state terrorism_
 
 ### [ An Italian court rules that calling someone a "dirty negro" while committing a crime is not necessarily a hate crime. ](/news/2005/12/7/an-italian-court-rules-that-calling-someone-a-dirty-negro-while-committing-a-crime-is-not-necessarily-a-hate-crime.md)
-_Context: Italian, hate crime_
+_Context: Italy, hate crime_
 
 ## [Previous Day...](/news/2005/12/6/index.md)
 

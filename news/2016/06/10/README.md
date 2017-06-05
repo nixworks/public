@@ -7,7 +7,7 @@ _Context: Nangarhar Province, War in Afghanistan (2015-present)_
 _Context: 2016 Aktobe shootings, Aktobe, Kazakhstan, policemen_
 
 ### [The Niger Delta Avengers blow up an oil pipeline operated by Italy's Eni in the Niger Delta. ](/news/2016/06/10/the-niger-delta-avengers-blow-up-an-oil-pipeline-operated-by-italy-s-eni-in-the-niger-delta.md)
-_Context: Conflict in the Niger Delta, Eni, Italian, Niger Delta, Niger Delta Avengers_
+_Context: Conflict in the Niger Delta, Eni, Italy, Niger Delta, Niger Delta Avengers_
 
 ### [Kurdish-led fighters completely encircle the ISIL-held town of Manbij, near the Turkish border, while Syrian forces move closer to ISIL's de facto capital, Raqqa. ](/news/2016/06/10/kurdish-led-fighters-completely-encircle-the-isil-held-town-of-manbij-near-the-turkish-border-while-syrian-forces-move-closer-to-isil-s-de.md)
 BEIRUT (AP) — Kurdish-led fighters completed their encirclement Friday of a key town held by the Islamic State group in northern Syria, part of a Western-backed offensive that could see a major strategic victory over the…

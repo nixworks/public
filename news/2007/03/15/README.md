@@ -25,7 +25,7 @@ _Context: German, Iran, United Nations Security Council_
 _Context: Alan Johnston, BBC, Gaza Strip, Palestinian Authority_
 
 ### [ The Movement for the Emancipation of the Niger Delta frees two Italian oilworkers that it took captive last year in Nigeria. ](/news/2007/03/15/the-movement-for-the-emancipation-of-the-niger-delta-frees-two-italian-oilworkers-that-it-took-captive-last-year-in-nigeria.md)
-_Context: Italian, Movement for the Emancipation of the Niger Delta, Nigeria_
+_Context: Italy, Movement for the Emancipation of the Niger Delta, Nigeria_
 
 ### [ Naxalite rebels attack a police outpost in the Bijapur district of Chhattisgarh, India, killing at least 49 officers and looting their weapons. ](/news/2007/03/15/naxalite-rebels-attack-a-police-outpost-in-the-bijapur-district-of-chhattisgarh-india-killing-at-least-49-officers-and-looting-their-weap.md)
 Many security personnel are feared killed in the attack on a police outpost in Bijapur district of Chhattisgarh.

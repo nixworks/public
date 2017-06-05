@@ -28,7 +28,7 @@ _Context: African Union, Mauritania, coup_
 _Context: Aveiro, Braga, Porto, Portugal, forest fire_
 
 ### [ Italian scientists have found cocaine residue in the Po River water  ](/news/2005/08/4/italian-scientists-have-found-cocaine-residue-in-the-po-river-water.md)
-_Context: Italian, Po River, cocaine_
+_Context: Italy, Po River, cocaine_
 
 ### [ The parliament in Senegal votes to put former prime minister Idrissa Seck on trial for embezzlement and threatening state security. ](/news/2005/08/4/the-parliament-in-senegal-votes-to-put-former-prime-minister-idrissa-seck-on-trial-for-embezzlement-and-threatening-state-security.md)
 _Context: Idrissa Seck, Senegal, embezzlement_

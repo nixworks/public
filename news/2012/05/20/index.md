@@ -10,7 +10,7 @@ Jailed Nabeel Rajab, head of Bahrain human rights group, granted $800 bail but r
 Bee Gees singer Robin Gibb has died aged 62 following a lengthy battle with cancer, his family say.
 
 ### [At least 6 people are killed and dozens injured when a 6.0-magnitude earthquake strikes northern Italy. ](/news/2012/05/20/at-least-6-people-are-killed-and-dozens-injured-when-a-6-0-magnitude-earthquake-strikes-northern-italy.md)
-_Context: Italian, a 6.0-magnitude earthquake_
+_Context: Italy, a 6.0-magnitude earthquake_
 
 ### [Prime minister Benjamin Netanyahu tells his cabinet that hundreds of thousands of iIllegal immigrants from Africa would threaten Israel's identity. ](/news/2012/05/20/prime-minister-benjamin-netanyahu-tells-his-cabinet-that-hundreds-of-thousands-of-iillegal-immigrants-from-africa-would-threaten-israel-s-id.md)
 Interior minister Yishai says African migrants should be jailed or expelled; Aharonovich to request emergency meeting.

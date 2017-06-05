@@ -19,7 +19,7 @@ The Chinese government began blocking access to The Times after publication of a
 _Context: Russia, Sergei Udaltsov_
 
 ### [Former Italian Prime Minister Silvio Berlusconi is sentenced to four years imprisonment for fiscal fraud. ](/news/2012/10/26/former-italian-prime-minister-silvio-berlusconi-is-sentenced-to-four-years-imprisonment-for-fiscal-fraud.md)
-_Context: Italian, Silvio Berlusconi_
+_Context: Italy, Silvio Berlusconi_
 
 ### [Chinese politician Bo Xilai is stripped of his membership of the National People's Congress. ](/news/2012/10/26/chinese-politician-bo-xilai-is-stripped-of-his-membership-of-the-national-people-s-congress.md)
 _Context: Bo Xilai, People's Republic of China, parliament_

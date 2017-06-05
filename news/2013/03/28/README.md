@@ -61,7 +61,7 @@ Italy remained in political gridlock on Thursday after the center-left leader an
 _Context: AD, B.C., Shroud of Turin_
 
 ### [As part of the Maundy Thursday service Pope Francis washes the feet of prisoners at a juvenile detention centre in Rome, Italy. ](/news/2013/03/28/as-part-of-the-maundy-thursday-service-pope-francis-washes-the-feet-of-prisoners-at-a-juvenile-detention-centre-in-rome-italy.md)
-_Context: Italian, Maundy Thursday, Pope Francis, Rome, juvenile detention centre, washes the feet_
+_Context: Italy, Maundy Thursday, Pope Francis, Rome, juvenile detention centre, washes the feet_
 
 ### [American bioengineers at Stanford University build a transistor-like transcriptor out of DNA and RNA molecules. ](/news/2013/03/28/american-bioengineers-at-stanford-university-build-a-transistor-like-transcriptor-out-of-dna-and-rna-molecules.md)
 Transistors are the basic building blocks of electronics; now they can be made with living cells. -&gt;

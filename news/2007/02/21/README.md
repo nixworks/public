@@ -4,7 +4,7 @@
 _Context: Harare, Movement for Democratic Change, Zimbabwe_
 
 ### [ Romano Prodi tenders his resignation as Prime Minister of Italy, after a defeat by two votes in the Senate. ](/news/2007/02/21/romano-prodi-tenders-his-resignation-as-prime-minister-of-italy-after-a-defeat-by-two-votes-in-the-senate.md)
-_Context: Italian, Italian Prime Minister, Italian Senate, Romano Prodi_
+_Context: Italian Prime Minister, Italian Senate, Italy, Romano Prodi_
 
 ### [ Premier of Quebec, Canada, Jean Charest, calls a general election for March 26. ](/news/2007/02/21/premier-of-quebec-canada-jean-charest-calls-a-general-election-for-march-26.md)
 _Context: Canada, Jean Charest, March 26, Quebec, Quebec general election, premier of Quebec_

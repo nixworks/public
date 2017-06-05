@@ -28,7 +28,7 @@ _Context: Brazil, Director-General, General Council, Roberto Azevedo, World Trad
 _Context: Belgium, Brussels Airport diamond heist, French, Swiss_
 
 ### [An Italian appeals court upholds the conviction of former Prime Minister Silvio Berlusconi on tax fraud and sentences him to four years in prison. ](/news/2013/05/8/an-italian-appeals-court-upholds-the-conviction-of-former-prime-minister-silvio-berlusconi-on-tax-fraud-and-sentences-him-to-four-years-in-p.md)
-_Context: Italian, Italian Prime Minister, Silvio Berlusconi, top court_
+_Context: Italian Prime Minister, Italy, Silvio Berlusconi, top court_
 
 ### [Jodi Arias is convicted of the first-degree murder of her boyfriend by a court in Arizona. ](/news/2013/05/8/jodi-arias-is-convicted-of-the-first-degree-murder-of-her-boyfriend-by-a-court-in-arizona.md)
 A US woman is found guilty of premeditated murder in the shooting and stabbing death of her boyfriend in his Arizona home in 2008.

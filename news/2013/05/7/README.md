@@ -40,7 +40,7 @@ A Nigerian warplane involved in operations against militant Islamists in Mali cr
 Wild bears kill eight people within a week in the eastern Indian state of Orissa causing panic among local villagers, forestry officials say.
 
 ### [The Italian cargo ship ''Jolly Nero'' crashes into the port of Genoa, destroying the traffic control tower. Seven people die, four are injured and at least two are missing. ](/news/2013/05/7/the-italian-cargo-ship-jolly-nero-crashes-into-the-port-of-genoa-destroying-the-traffic-control-tower-seven-people-die-four-are-injur.md)
-_Context: Genoa, Italian_
+_Context: Genoa, Italy_
 
 ### [India has the highest first day infant mortality rate in the world, according to a new study. ](/news/2013/05/7/india-has-the-highest-first-day-infant-mortality-rate-in-the-world-according-to-a-new-study.md)
 More newborns die on the first day in India than in any other country, according to the latest &lsquo;State Of The World&rsquo;s Mothers 2013&rsquo; report.

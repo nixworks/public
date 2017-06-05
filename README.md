@@ -3,9 +3,6 @@
 ### [Reports emerge of the Australian Security Intelligence Organisation's discovery of classified Australian documents, related to Chinese intelligence activity abroad, in the Canberra home of a woman allegedly acting on behalf of the Communist Party of China. ](/news/2017/06/5/reports-emerge-of-the-australian-security-intelligence-organisation-s-discovery-of-classified-australian-documents-related-to-chinese-intel.md)
 ASIO found classified files during a raid on the apartment of a suspected Chinese intelligence operative.
 
-### [The decision of U.S. President Donald Trump to withdraw the United States from the 2015 Paris Agreement on climate change mitigation, which he made on 1 June, enters into effect. ](/news/2017/06/5/the-decision-of-u-s-president-donald-trump-to-withdraw-the-united-states-from-the-2015-paris-agreement-on-climate-change-mitigation-which.md)
-Donald Trump says he will make his decision on the Paris climate accord early tomorrow morning.
-
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -17,10 +14,10 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [  In the early hours of Sunday morning, explosions are heard around London Bridge, believed to be controlled explosions carried out by the police. ](/news/2017/06/4/in-the-early-hours-of-sunday-morning-explosions-are-heard-around-london-bridge-believed-to-be-controlled-explosions-carried-out-by-the-p.md)
 Three attackers killed seven people and injured 48 others near London Bridge. The attackers were shot dead by eight officers who used 50 bullets; a member of the public was accidentally shot.
 
-### [The U.S.-backed Syrian Democratic Forces (SDF) take control of the Baath Dam on the Euphrates, near the ISIL stronghold of Raqqa. ](/news/2017/06/4/the-u-s-backed-syrian-democratic-forces-sdf-take-control-of-the-baath-dam-on-the-euphrates-near-the-isil-stronghold-of-raqqa.md)
+### [The U.S.-backed Syrian Democratic Forces (SDF) take control of the Baath Dam on the Euphrates, near the ISIL stronghold of Raqqa, and upon doing so, rename it "Freedom Dam".  ](/news/2017/06/4/the-u-s-backed-syrian-democratic-forces-sdf-take-control-of-the-baath-dam-on-the-euphrates-near-the-isil-stronghold-of-raqqa-and-upon-d.md)
 U.S.-backed Syrian militias said they seized a major dam on the Euphrates river from Islamic State on Sunday, their latest gain as they push towards Raqqa city.
 
-### [Citizens remain trapped in Marawi, Philippines after a ceasefire organised by the Moro Islamic Liberation Front is broken. Up to 2,000 people remain in need of help after nearly two weeks without food. ](/news/2017/06/4/citizens-remain-trapped-in-marawi-philippines-after-a-ceasefire-organised-by-the-moro-islamic-liberation-front-is-broken-up-to-2-000-peopl.md)
+### [Citizens remain trapped in Marawi, Philippines, after a ceasefire organised by the Moro Islamic Liberation Front (MILF) is broken. Up to 2,000 people remain in need of help after nearly two weeks without food. ](/news/2017/06/4/citizens-remain-trapped-in-marawi-philippines-after-a-ceasefire-organised-by-the-moro-islamic-liberation-front-milf-is-broken-up-to-2-0.md)
 Fighting breaks despite a four-hour ceasefire, preventing hundreds of residents from leaving besieged city of Marawi. 
 
 ### [The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. ](/news/2017/06/4/the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester-england.md)

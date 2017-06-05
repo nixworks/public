@@ -34,7 +34,7 @@ _Context: Japan, People's Republic of China, U.S._
 _Context: Christian, North Korea, People's Republic of China, U.S., state media_
 
 ### [ Two Italians are injured and one American is killed in a shooting incident in Badghis Province, Afghanistan. ](/news/2009/12/29/two-italians-are-injured-and-one-american-is-killed-in-a-shooting-incident-in-badghis-province-afghanistan.md)
-_Context: Afghanistan, Badghis Province, Italian, U.S._
+_Context: Afghanistan, Badghis Province, Italy, U.S._
 
 ## [Previous Day...](/news/2009/12/28/index.md)
 

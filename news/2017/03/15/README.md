@@ -16,7 +16,7 @@ Rescuers find a fourth person missing in the Austrian Alps after a large avalanc
 _Context: Dutch general election, 2017, Mark Rutte, Netherlands, People's Party for Freedom and Democracy, Prime Minister, exit poll_
 
 ### [A U.S. federal judge in Hawaii, finding the revised federal immigration/refugee executive order violates the U.S. Constitution's religious establishment clause, grants the state of Hawaii's motion for a nationwide temporary restraining order on these rules that were set to become effective at midnight. President Donald Trump vows to appeal this ruling. Two other federal courts held hearings on similar requests filed by the states of Maryland and Washington; neither of these judges issued a ruling. ](/news/2017/03/15/a-u-s-federal-judge-in-hawaii-finding-the-revised-federal-immigration-refugee-executive-order-violates-the-u-s-constitution-s-religious-e.md)
-_Context: Donald Trump, Hawaii, Maryland, United States immigration ban, Washington, religious establishment clause_
+_Context: Hawaii, Maryland, Trump, United States immigration ban, Washington, religious establishment clause_
 
 ## [Previous Day...](/news/2017/03/14/index.md)
 

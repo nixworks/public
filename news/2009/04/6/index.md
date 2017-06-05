@@ -10,7 +10,7 @@ _Context: Baghdad, Iraq, Six car bombs_
 _Context: Alaska, Mount Redoubt, ash eruption, volcanic activity_
 
 ### [ At least 207 people are killed and 1,500 injured during a 6.3-magnitude earthquake near L'Aquila, Italy. ](/news/2009/04/6/at-least-207-people-are-killed-and-1-500-injured-during-a-6-3-magnitude-earthquake-near-l-aquila-italy.md)
-_Context: 2009 L'Aquila earthquake, Italian, L'Aquila, magnitude_
+_Context: 2009 L'Aquila earthquake, Italy, L'Aquila, magnitude_
 
 ### [ Afghanistan's government will review a recently approved version of sharia law that legalizes spousal rape. ](/news/2009/04/6/afghanistan-s-government-will-review-a-recently-approved-version-of-sharia-law-that-legalizes-spousal-rape.md)
 _Context: Afghan government's, Afghanistan, Sharia, men to rape their wives_

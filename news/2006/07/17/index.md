@@ -4,7 +4,7 @@
 _Context: 13-day mission, Discovery, International Space Station, John F. Kennedy Space Center, Shuttle Landing Facility, Space Shuttle program_
 
 ### [ In the United Kingdom, the Crown Prosecution Service announce that police officers involved in the fatal shooting of Jean Charles de Menezes in the aftermath of the attempted bombings of London on July 21, 2005 will not face criminal charges, although the Metropolitan Police Service is to be prosecuted under the Health and Safety at Work Act. ](/news/2006/07/17/in-the-united-kingdom-the-crown-prosecution-service-announce-that-police-officers-involved-in-the-fatal-shooting-of-jean-charles-de-meneze.md)
-_Context: 21 July 2005 London bombings, Crown Prosecution Service, Health and Safety at Work Act, Jean Charles de Menezes, The Metropolitan Police, United Kingdom_
+_Context: 21 July 2005 London bombings, Crown Prosecution Service, Health and Safety at Work Act, Jean Charles de Menezes, Metropolitan Police, United Kingdom_
 
 ### [ A 7.7 M<sub>w</sub> earthquake off the coast of Indonesia causes a tsunami to crash into Java, causing significant property damage and killing over 100 people. Concern is raised over lack of a warning system for the south coast despite warnings from international agencies.](/news/2006/07/17/a-7-7-mw-earthquake-off-the-coast-of-indonesia-causes-a-tsunami-to-crash-into-java-causing-significant-property-damage-and-killing-over-10.md)
 _Context: Indonesia, Java, earthquake, magnitude, tsunami_

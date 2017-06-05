@@ -31,7 +31,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 _Context: India, Jaipur_
 
 ### [ The United Nations chief of the Food and Agriculture Organization completes a 24 hour hunger strike in Rome, Italy, ahead of a UN summit next week. ](/news/2009/11/14/the-united-nations-chief-of-the-food-and-agriculture-organization-completes-a-24-hour-hunger-strike-in-rome-italy-ahead-of-a-un-summit-ne.md)
-_Context: Food and Agriculture Organization, Italian, Rome, United Nations, hunger strike_
+_Context: Food and Agriculture Organization, Italy, Rome, United Nations, hunger strike_
 
 ### [ At least 11 people are killed and 24 injured after a bomb explodes in Peshawar, Pakistan. ](/news/2009/11/14/at-least-11-people-are-killed-and-24-injured-after-a-bomb-explodes-in-peshawar-pakistan.md)
 A suicide bomber blew up his explosives-filled car Saturday at a police checkpoint in the northwestern Pakistani city of Peshawar, killing at least 11 people, officials said.

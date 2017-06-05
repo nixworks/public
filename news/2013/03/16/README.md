@@ -31,7 +31,7 @@ _Context: California, Galt, U.S., drive-by shooting_
 Zimbabweans have been voting in a key referendum on a new constitution that would limit future presidents to two terms in office.
 
 ### [In Italy, Laura Boldrini, member of the left-wing party Left Ecology Freedom, is elected President of the Chamber of Deputies. Pietro Grasso, a former anti-mafia magistrate and member of the centre-left Democratic Party, is elected President of the Senate. ([http://www.repubblica.it/politica/2013/03/16/news/liveblogging_camera_senato_ii_giorno-54645681/ ''La Repubblica''])](/news/2013/03/16/in-italy-laura-boldrini-member-of-the-left-wing-party-left-ecology-freedom-is-elected-president-of-the-chamber-of-deputies-pietro-grasso.md)
-_Context: Democratic Party, Italian, Laura Boldrini, Left Ecology Freedom, Mafia, Pietro Grasso, President of the Chamber of Deputies, President of the Senate, centre-left, left-wing_
+_Context: Democratic Party, Italy, Laura Boldrini, Left Ecology Freedom, Mafia, Pietro Grasso, President of the Chamber of Deputies, President of the Senate, centre-left, left-wing_
 
 ### [Giving his first audience at the Vatican, Pope Francis tells journalists he wants "a poor Church, for the poor". ](/news/2013/03/16/giving-his-first-audience-at-the-vatican-pope-francis-tells-journalists-he-wants-a-poor-church-for-the-poor.md)
 Pope Francis says he wants a &quot;poor Church for the poor&quot; as he confirms he took his name from the 12th Century saint, Francis of Assisi.

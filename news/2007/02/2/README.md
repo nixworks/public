@@ -1,7 +1,7 @@
 ## [2007-02-2](/news/2007/02/2/index.md)
 
 ### [ One 38-year-old policeman is killed in the Catania football clashes in Italy. 71 people are taken to the hospital.](/news/2007/02/2/one-38-year-old-policeman-is-killed-in-the-catania-football-clashes-in-italy-71-people-are-taken-to-the-hospital.md)
-_Context: Catania football violence, Italian_
+_Context: Catania football violence, Italy_
 
 ### [ Ali Hassan Al Majeed, commonly known as Chemical Ali, admits he ordered Iraqi troops to engage in genocide against the Kurds of Iraqi Kurdistan. He says the "emptying" of villages was justified because the Kurds assisted Iran forces in the Iran-Iraq war. ](/news/2007/02/2/ali-hassan-al-majeed-commonly-known-as-chemical-ali-admits-he-ordered-iraqi-troops-to-engage-in-genocide-against-the-kurds-of-iraqi-kurdi.md)
 _Context: Ali Hassan Al Majeed, Iran, Iran-Iraq War, Iraqi Kurdistan, Iraqi troops, Kurd, genocide_

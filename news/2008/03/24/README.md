@@ -16,7 +16,7 @@ _Context: Department of Justice, Sirius Satellite Radio, XM Satellite Radio, mer
 _Context: Federal Bureau of Investigation, Iraq, Kidnap, U.S._
 
 ### [ Marleen Veldhuis of the Netherlands and Federica Pellegrini of Italy break world records at the final day of the European Swimming Championships in Eindhoven, Netherlands. ](/news/2008/03/24/marleen-veldhuis-of-the-netherlands-and-federica-pellegrini-of-italy-break-world-records-at-the-final-day-of-the-european-swimming-champion.md)
-_Context: Dutch, Eindhoven, European Swimming Championships, Federica Pellegrini, Italian, Marleen Veldhuis, Netherlands, world record_
+_Context: Dutch, Eindhoven, European Swimming Championships, Federica Pellegrini, Italy, Marleen Veldhuis, Netherlands, world record_
 
 ### [ Comoran army helicopters drop leaflets on the island of Anjouan warning the population of the imminent landing of its troops backed by African Union contingents. ](/news/2008/03/24/comoran-army-helicopters-drop-leaflets-on-the-island-of-anjouan-warning-the-population-of-the-imminent-landing-of-its-troops-backed-by-afri.md)
 _Context: 2008 invasion of Anjouan, African Union, Anjouan, Comoros, drop leaflets, helicopter_

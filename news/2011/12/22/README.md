@@ -34,7 +34,7 @@ _Context: Haimen, People's Republic of China, teargas_
 Simplifying the registration of political parties and presidential candidates, and returning to direct voting to elect regional governors are among the key reforms proposed by President Medvedev in his annual address to Russia’s Federal Assembly.
 
 ### [Italy's senate debates the proposed economic austerity measures of Prime Minister Mario Monti. ](/news/2011/12/22/italy-s-senate-debates-the-proposed-economic-austerity-measures-of-prime-minister-mario-monti.md)
-_Context: Italian, Mario Monti_
+_Context: Italy, Mario Monti_
 
 ### [France's National Assembly votes in favour of a bill criminalising any denial that the mass killing of Armenians by the Ottoman Empire in the 1910s was genocide. ](/news/2011/12/22/france-s-national-assembly-votes-in-favour-of-a-bill-criminalising-any-denial-that-the-mass-killing-of-armenians-by-the-ottoman-empire-in-th.md)
 Turkey recalls its ambassador to France in protest at a bill making it illegal to deny that the killing of Armenians in World War I was genocide.

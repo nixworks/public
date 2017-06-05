@@ -10,7 +10,7 @@ The UK is to deploy about 330 military personnel to Mali and West Africa to supp
 The bodies of at least 71 young men, all apparently summarily executed, have been found in the northern Syrian city of Aleppo, rebels and activists say.
 
 ### [Vittorio Grilli, Italy's Economy Minister, contends before a committee of parliament that the central bank's handling of the supervision of Monte dei Paschi has been "attentive and appropriate". ](/news/2013/01/29/vittorio-grilli-italy-s-economy-minister-contends-before-a-committee-of-parliament-that-the-central-bank-s-handling-of-the-supervision-of.md)
-_Context: Bank of Italy, Economy Minister, Italian, Monte dei Paschi, Vittorio Grilli, parliament_
+_Context: Bank of Italy, Economy Minister, Italy, Monte dei Paschi, Vittorio Grilli, parliament_
 
 ### [A Bombardier CRJ200 airliner operated by SCAT Air crashes near the Kazakh city of Almaty, killing all 15 passengers and 5 crew people on board. ](/news/2013/01/29/a-bombardier-crj200-airliner-operated-by-scat-air-crashes-near-the-kazakh-city-of-almaty-killing-all-15-passengers-and-5-crew-people-on-boa.md)
 _Context: Almaty, Bombardier CRJ200, Kazakhstan, SCAT Air, crashes_

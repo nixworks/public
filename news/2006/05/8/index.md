@@ -7,7 +7,7 @@ _Context: Deputy President, HIV, Jacob Zuma, South Africa, rape_
 _Context: George W. Bush, Iranian President, Mahmoud Ahmadinejad, U.S. President_
 
 ### [ The Italian parliament starts to vote in order to elect the successor of Carlo Azeglio Ciampi as President of the Italian Republic. Gianni Letta leads after the first round of balloting.](/news/2006/05/8/the-italian-parliament-starts-to-vote-in-order-to-elect-the-successor-of-carlo-azeglio-ciampi-as-president-of-the-italian-republic-gianni.md)
-_Context: Carlo Azeglio Ciampi, Gianni Letta, Italian, President, elected_
+_Context: Carlo Azeglio Ciampi, Gianni Letta, Italy, President, elected_
 
 ### [ Judgement is given in London for Apple Computer in a high-profile trademark suit brought by The Beatles' company, Apple Corps. ](/news/2006/05/8/judgement-is-given-in-london-for-apple-computer-in-a-high-profile-trademark-suit-brought-by-the-beatles-company-apple-corps.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

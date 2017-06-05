@@ -28,7 +28,7 @@ _Context: MG Rover, United Kingdom_
 _Context: ETA, Hernani, San Sebastin, Spain_
 
 ### [ Italian deputy prime minister Marco Follini calls for an early general election after the centre-right coalition of prime minister Silvio Berlusconi lost in a regional ballot last week. ](/news/2005/04/10/italian-deputy-prime-minister-marco-follini-calls-for-an-early-general-election-after-the-centre-right-coalition-of-prime-minister-silvio-b.md)
-_Context: Italian, Marco Follini, Silvio Berlusconi, parliamentary election_
+_Context: Italy, Marco Follini, Silvio Berlusconi, parliamentary election_
 
 ### [ In Mexico, Ral Gibb Guerrero, editor of ''La Opinin'' newspaper, who covered Mexican drug cartels is killed. ](/news/2005/04/10/in-mexico-raul-gibb-guerrero-editor-of-la-opinion-newspaper-who-covered-mexican-drug-cartels-is-killed.md)
 _Context: La Opinin, Mexico, Ral Gibb Guerrero, drug cartel_

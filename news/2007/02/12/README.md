@@ -22,7 +22,7 @@ _Context: Assistant Secretary of State for East Asian and Pacific Affairs, Chris
 _Context: Dujail, Iraq, Saddam Hussein, Supreme Iraqi Criminal Tribunal, Taha Yassin Ramadan, Vice President, assassinated, death penalty_
 
 ### [ Italian police arrest in raids 15 people who the police claimed were associated with the Red Brigades terrorist group. ](/news/2007/02/12/italian-police-arrest-in-raids-15-people-who-the-police-claimed-were-associated-with-the-red-brigades-terrorist-group.md)
-_Context: Italian, Red Brigades_
+_Context: Italy, Red Brigades_
 
 ### [ Iraq War: At least 76 people are killed in four bomb attacks in Baghdad. ](/news/2007/02/12/iraq-war-at-least-76-people-are-killed-in-four-bomb-attacks-in-baghdad.md)
 _Context: Baghdad, Iraq War, four bomb attacks_

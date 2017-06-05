@@ -13,7 +13,7 @@ _Context: Darfur, Darfur conflict, Kofi Annan, United Nations, United Nations Se
 _Context: Ccuta, Colombia, Hugo Chvez, President, Revolutionary Armed Forces of Colombia, Rodrigo Granda, Venezuela_
 
 ### [ A smoking ban comes into effect in Italy, prohibiting smoking in public places. It has been reported that some businesses and smokers intend to defy the ban. ](/news/2005/01/10/a-smoking-ban-comes-into-effect-in-italy-prohibiting-smoking-in-public-places-it-has-been-reported-that-some-businesses-and-smokers-inten.md)
-_Context: Italian, smoking ban_
+_Context: Italy, smoking ban_
 
 ### [ In India, more than 55 people are killed when a bus falls into the Almatti canal in Bijapur district, Karnataka. ](/news/2005/01/10/in-india-more-than-55-people-are-killed-when-a-bus-falls-into-the-almatti-canal-in-bijapur-district-karnataka.md)
 _Context: Almatti canal, Bijapur district, Karnataka, India, bus_

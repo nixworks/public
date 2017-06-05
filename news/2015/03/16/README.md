@@ -13,7 +13,7 @@ At least 17 people were killed on Monday when a bus slipped off a rain-drenched 
 Russian President Vladimir Putin ordered troops placed on full combat readiness in snap drills in western Russia, as Defense Minister Sergei Shoigu warned the country was facing new threats to its security.
 
 ### [Italian police arrest four people while 51 others are under investigation for corruption associated with public works including a stretch of the high-speed rail line near Florence. ](/news/2015/03/16/italian-police-arrest-four-people-while-51-others-are-under-investigation-for-corruption-associated-with-public-works-including-a-stretch-of.md)
-_Context: Florence, Italian_
+_Context: Florence, Italy_
 
 ### [An Egyptian court hands down a death sentence to Muslim Brotherhood leader Mohammed Badie and thirteen others. ](/news/2015/03/16/an-egyptian-court-hands-down-a-death-sentence-to-muslim-brotherhood-leader-mohammed-badie-and-thirteen-others.md)
 An Egyptian court hands down death sentences to Muslim Brotherhood leader Mohammed Badie and 13 others, state media reports.

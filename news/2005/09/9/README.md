@@ -19,7 +19,7 @@ _Context: Papua New Guinea, Richter scale, earthquake_
 _Context: Australia's government, Kim Beazley, anti-terrorism_
 
 ### [ The Australian Security Intelligence Organisation plans to recruit an additional 500 spies for its current staffing of 1,000 to counter terrorism. ](/news/2005/09/9/the-australian-security-intelligence-organisation-plans-to-recruit-an-additional-500-spies-for-its-current-staffing-of-1-000-to-counter-ter.md)
-_Context: ASIO_
+_Context: Australian Security Intelligence Organisation_
 
 ### [ India and Pakistan will exchange civilian prisoners on September 12 at the Waga border.  Those exchanged have completed their sentences. ](/news/2005/09/9/india-and-pakistan-will-exchange-civilian-prisoners-on-september-12-at-the-waga-border-those-exchanged-have-completed-their-sentences.md)
 _Context: India, Pakistan_

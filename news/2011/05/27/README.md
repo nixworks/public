@@ -16,7 +16,7 @@ _Context: AgustaWestland Apache, David Cameron, Libya, Libyan Civil War, Prime M
 A camp in Tunisia for people fleeing the conflict in Libya is nearly completely destroyed in deadly clashes also involving local residents, the UN says.
 
 ### [Six Italian peacekeepers are injured in an attack on their UNIFIL vehicle in Lebanon. ](/news/2011/05/27/six-italian-peacekeepers-are-injured-in-an-attack-on-their-unifil-vehicle-in-lebanon.md)
-_Context: Italian, Lebanon, UNIFIL_
+_Context: Italy, Lebanon, UNIFIL_
 
 ### [British Labour Party leader Ed Miliband marries his long term partner Justine Thornton in a low-key ceremony at Langar Hall in Nottinghamshire. ](/news/2011/05/27/british-labour-party-leader-ed-miliband-marries-his-long-term-partner-justine-thornton-in-a-low-key-ceremony-at-langar-hall-in-nottinghamshi.md)
 _Context: Ed Miliband, Justine Thornton, Labour, Langar Hall, Nottinghamshire_

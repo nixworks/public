@@ -34,7 +34,7 @@ _Context: Anhui, People's Republic of China_
 _Context: Belfast_
 
 ### [ Salvatore Miceli, an Italian Mafia fugitive on the run since 2001 and listed as one of the country's 30 most dangerous men, is arrested in Venezuela. ](/news/2009/06/21/salvatore-miceli-an-italian-mafia-fugitive-on-the-run-since-2001-and-listed-as-one-of-the-country-s-30-most-dangerous-men-is-arrested-in.md)
-_Context: Italian, Mafia, Salvatore Miceli, Venezuela_
+_Context: Italy, Mafia, Salvatore Miceli, Venezuela_
 
 ### [ United States President Barack Obama tells a television news crew his country is "fully prepared" for a possible missile test by North Korea over the Pacific Ocean. ](/news/2009/06/21/united-states-president-barack-obama-tells-a-television-news-crew-his-country-is-fully-prepared-for-a-possible-missile-test-by-north-kore.md)
 _Context: Barack Obama, North Korea, Pacific, U.S., U.S. President_

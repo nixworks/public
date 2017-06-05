@@ -23,7 +23,7 @@ _Context: Balad, Iraq_
 A beauty pageant for Holocaust survivors has been held in Israel for the first time, stirring controversy.
 
 ### [The sunken Italian World War II flagship ''Roma'' is discovered off the coast of Sardinia. ](/news/2012/06/29/the-sunken-italian-world-war-ii-flagship-roma-is-discovered-off-the-coast-of-sardinia.md)
-_Context: Italian, Roma, Sardinia, World War II_
+_Context: Italy, Roma, Sardinia, World War II_
 
 ### [Alternative rock band The Flaming Lips set a new Guinness World Record for performing the most live shows in different cities over 24 hours. ](/news/2012/06/29/alternative-rock-band-the-flaming-lips-set-a-new-guinness-world-record-for-performing-the-most-live-shows-in-different-cities-over-24-hours.md)
 US rockers The Flaming Lips set a new Guinness World Record for performing the most live shows in different cities over 24 hours.

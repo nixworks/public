@@ -16,7 +16,7 @@ Storms in California fell a popular tree with a hole cut in the trunk that cars 
 _Context: 2016 Irkutsk mass methanol poisoning, Irkutsk, Russia, methanol_
 
 ### [Dozens of people die in eastern Europe and Italy in recent days as a result of a cold snap with cancelled flights, frozen rivers, and traffic accidents. ](/news/2017/01/9/dozens-of-people-die-in-eastern-europe-and-italy-in-recent-days-as-a-result-of-a-cold-snap-with-cancelled-flights-frozen-rivers-and-traffi.md)
-_Context: Italian, January 2017 European cold wave, eastern Europe_
+_Context: Italy, January 2017 European cold wave, eastern Europe_
 
 ### [Two Orange County, Florida police officers are killed in connection with an apprehension attempt of a murder suspect. ](/news/2017/01/9/two-orange-county-florida-police-officers-are-killed-in-connection-with-an-apprehension-attempt-of-a-murder-suspect.md)
 A man wanted for killing his former girlfriend fatally shot an Orlando, Florida, police officer on Monday, authorities said, prompting a manhunt and a reward of up to $60,000.

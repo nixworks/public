@@ -37,7 +37,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 _Context: People's Republic of China, snow_
 
 ### [ Czech Prime minister Jan Fischer deposits the Treaty of Lisbon ratification instrument at the Italian foreign ministry in Rome. ](/news/2009/11/13/czech-prime-minister-jan-fischer-deposits-the-treaty-of-lisbon-ratification-instrument-at-the-italian-foreign-ministry-in-rome.md)
-_Context: Czech, Italian, Jan Fischer, Rome, Treaty of Lisbon, deposits_
+_Context: Czech, Italy, Jan Fischer, Rome, Treaty of Lisbon, deposits_
 
 ### [ Tens of thousands of Maoist supporters in Nepal block the headquarters for the Nepali government for a second day. ](/news/2009/11/13/tens-of-thousands-of-maoist-supporters-in-nepal-block-the-headquarters-for-the-nepali-government-for-a-second-day.md)
 Maoist demonstrators blockade government offices in Kathmandu for second day.

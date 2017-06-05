@@ -40,7 +40,7 @@ Nato invites Montenegro to join the alliance, in its first expansion for six yea
 Russia is constructing hundreds of military buildings on two of the disputed Kuril Islands, Russian Defense Minister Sergei Shoigu has said.
 
 ### [Authorities arrest four Kosovo jihadists men, three in Italy and one in Kosovo, for making nonspecific threats against Pope Francis and the former U.S. Ambassador to Kosovo. The men are described by police as highly dangerous and as having celebrated the November 2015 Paris attacks. ](/news/2015/12/2/authorities-arrest-four-kosovo-jihadists-men-three-in-italy-and-one-in-kosovo-for-making-nonspecific-threats-against-pope-francis-and-the.md)
-_Context: Italian, Kosovo, November 2015 Paris Attacks, Pope Francis_
+_Context: Italy, Kosovo, November 2015 Paris Attacks, Pope Francis_
 
 ### [Yemeni Prime Minister Khaled Bahah rejects a cabinet reshuffle ordered  by President Abd Rabbuh Mansur Hadi, another sign of the deepening rift between the two leaders. These problems started in March after the president appointed the minister of health  as acting foreign minister  without consulting the prime minister. ](/news/2015/12/2/yemeni-prime-minister-khaled-bahah-rejects-a-cabinet-reshuffle-ordered-by-president-abd-rabbuh-mansur-hadi-another-sign-of-the-deepening-r.md)
 Yemeni Prime Minister Khaled Bahah rejected a cabinet reshuffle ordered on Tuesday by President Abd-Rabbu Mansour Hadi, a senior government official said, another sign of the deepening rift between the two leaders.

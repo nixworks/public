@@ -16,7 +16,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: German, Stuttgart, Tamil, sword_
 
 ### [ The Marburg virus death toll in Angola rises to 146, one of them an Italian female physician in Uige. ](/news/2005/04/3/the-marburg-virus-death-toll-in-angola-rises-to-146-one-of-them-an-italian-female-physician-in-uige.md)
-_Context: Angola, Italian, Marburg virus, Uige_
+_Context: Angola, Italy, Marburg virus, Uige_
 
 ### [ In Thailand, two bombs explode in Hat Yai and one in Songkhla. Two are dead and dozens injured. ](/news/2005/04/3/in-thailand-two-bombs-explode-in-hat-yai-and-one-in-songkhla-two-are-dead-and-dozens-injured.md)
 _Context: Hat Yai, Songkhla, Thailand_

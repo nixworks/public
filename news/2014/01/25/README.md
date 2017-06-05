@@ -13,7 +13,7 @@ At least 49 people are killed in clashes in Egypt as rallies mark the anniversar
 _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
 
 ### [A vial containing drops of late Pope John Paul II's blood is stolen from the Church of San Pietro della Ienca in Abruzzo, Italy. ](/news/2014/01/25/a-vial-containing-drops-of-late-pope-john-paul-ii-s-blood-is-stolen-from-the-church-of-san-pietro-della-ienca-in-abruzzo-italy.md)
-_Context: Abruzzo, Italian, Pope John Paul II, vial_
+_Context: Abruzzo, Italy, Pope John Paul II, vial_
 
 ### [A shooting at the Columbia Mall in the U.S. state of Maryland results in 3 people being killed. ](/news/2014/01/25/a-shooting-at-the-columbia-mall-in-the-u-s-state-of-maryland-results-in-3-people-being-killed.md)
 Three people have died after a shooting incident at a shopping mall in the US state of Maryland, not far from Washington DC, say police.

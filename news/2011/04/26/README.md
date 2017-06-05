@@ -19,7 +19,7 @@ _Context: Moscow, Russia, gay pride_
 A France Telecom worker and father of four commits suicide by setting himself on fire in a work car park near the southern city of Bordeaux, management and unions say.
 
 ### [French dairy group Groupe Lactalis launches a 3.4 billion euro bid for Italian dairy group Parmalat. ](/news/2011/04/26/french-dairy-group-groupe-lactalis-launches-a-3-4-billion-euro-bid-for-italian-dairy-group-parmalat.md)
-_Context: French, Groupe Lactalis, Italian, Parmalat, euro_
+_Context: French, Groupe Lactalis, Italy, Parmalat, euro_
 
 ### [Greece's budget deficit for 2010 is 10.5% of gross domestic product, significantly higher than expected. ](/news/2011/04/26/greece-s-budget-deficit-for-2010-is-10-5-of-gross-domestic-product-significantly-higher-than-expected.md)
 _Context: GDP, Greece, budget deficit_

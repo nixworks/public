@@ -19,7 +19,7 @@ _Context: Federal Aviation Administration, Zacarias Moussaoui, death penalty_
 _Context: Merck KGaA, Schering, pharmaceutical companies_
 
 ### [ London Metropolitan Police chief Sir Ian Blair admits secretly recording conversations with the Attorney General Lord Goldsmith, an act that could lead to a civil legal proceedings if the other party has not granted permission for conversations to be taped. ](/news/2006/03/13/london-metropolitan-police-chief-sir-ian-blair-admits-secretly-recording-conversations-with-the-attorney-general-lord-goldsmith-an-act-tha.md)
-_Context: Attorney General for England and Wales, Lord Goldsmith, Sir Ian Blair, The Metropolitan Police_
+_Context: Attorney General for England and Wales, Lord Goldsmith, Metropolitan Police, Sir Ian Blair_
 
 ## [Previous Day...](/news/2006/03/12/index.md)
 

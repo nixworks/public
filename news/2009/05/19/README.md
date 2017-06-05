@@ -16,7 +16,7 @@ _Context: LTTE, Mahinda Rajapaksa, President of Sri Lanka, Sri Lanka, Sri Lankan
 _Context: NATO, Navoiy Airport, Uzbekistan, government, lease_
 
 ### [ Pro-Tamil Tigers protesters and the Metropolitan Police Service battle, injuring 16 people, in London, England. ](/news/2009/05/19/pro-tamil-tigers-protesters-and-the-metropolitan-police-service-battle-injuring-16-people-in-london-england.md)
-_Context: England, LTTE, London, Protest, The Metropolitan Police_
+_Context: England, LTTE, London, Metropolitan Police, Protest_
 
 ### [ The U.S. and Russia begin negotiations to replace the expiring Strategic Arms Reduction Treaty. ](/news/2009/05/19/the-u-s-and-russia-begin-negotiations-to-replace-the-expiring-strategic-arms-reduction-treaty.md)
 _Context: Russia, Strategic Arms Reduction Treaty, U.S., negotiation_
