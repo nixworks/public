@@ -1,0 +1,25 @@
+### [2017-06-4](/news/2017/06/4/index.md)
+
+# Voters cast ballots to select representatives for rural and urban Cambodian precincts from, nationwide, 94,595 candidates for 11,572 council seats. Voter turnout was 85.74 percent with few reports of irregularities. According to early results, the opposition makes significant gains against the ruling party of Prime Minister Hun Sen. 
+
+
+
+
+### Source:
+
+1. [Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/highly-satisfactory-voter-turnout-in-cambodia-commune-election-8911236)
+2. [Radio Free Asia](http://www.rfa.org/english/news/special/cambodia-commune-election2017/)
+3. [Reuters](https://www.reuters.com/article/us-cambodia-election-idUSKBN18V02J)
+
+### Related:
+
+1. [Kem Ley, a popular Cambodian political commentator and frequent critic of Prime Minister Hun Sen, is shot dead at a gas station in Phnom Penh. ](/news/2016/07/10/kem-ley-a-popular-cambodian-political-commentator-and-frequent-critic-of-prime-minister-hun-sen-is-shot-dead-at-a-gas-station-in-phnom-pen.md) _Context: Cambodia, Hun Sen, Prime Minister_
+2. [Cambodian opposition leader Sam Rainsy delays his return home from South Korea as tension comes to a head between his supporters and those of Prime Minister Hun Sen. Friday, a Cambodian court issued an arrest warrant related to an old defamation case for which Sam had already received a royal pardon. Today, Parliament stripped him  of immunity protection. ](/news/2015/11/16/cambodian-opposition-leader-sam-rainsy-delays-his-return-home-from-south-korea-as-tension-comes-to-a-head-between-his-supporters-and-those-o.md) _Context: Cambodia, Hun Sen, Prime Minister_
+3. [Voters in Cambodia go to the polls for a general election with the governing Cambodian People's Party led by Prime Minister Hun Sen claiming victory amidst opposition claims of widespread irregularities. ](/news/2013/07/28/voters-in-cambodia-go-to-the-polls-for-a-general-election-with-the-governing-cambodian-people-s-party-led-by-prime-minister-hun-sen-claiming.md) _Context: Cambodia, Hun Sen, Prime Minister_
+4. [Cambodian prime minister Hun Sen says that he will continue his campaign against protests from the Cambodian opposition while Kem Sokha of the Cambodian National Rescue Party vows to remain as their leader. ](/news/2016/09/19/cambodian-prime-minister-hun-sen-says-that-he-will-continue-his-campaign-against-protests-from-the-cambodian-opposition-while-kem-sokha-of-t.md) _Context: Cambodia, Hun Sen_
+5. [The Parliament of Cambodia plans to strip political immunity for  opposition politician Thak Lany of the Cambodia National Rescue Party alliance after she criticized Prime Minister Hun Sen. ](/news/2016/09/1/the-parliament-of-cambodia-plans-to-strip-political-immunity-for-opposition-politician-thak-lany-of-the-cambodia-national-rescue-party-alli.md) _Context: Cambodia, Hun Sen_
+6. [Opposition leader Sam Rainsy criticizes Cambodian autocrat Hun Sen for trying to split up the Cambodian National Rescue Party, the second largest party in parliament. ](/news/2016/07/25/opposition-leader-sam-rainsy-criticizes-cambodian-autocrat-hun-sen-for-trying-to-split-up-the-cambodian-national-rescue-party-the-second-la.md) _Context: Cambodia, Hun Sen_
+7. [Thousands of people in Cambodia attend the funeral of Kem Ley, a critic of the perceived corrupt and authoritarian rule of Hun Sen, who has been in power since 1985.  ](/news/2016/07/24/thousands-of-people-in-cambodia-attend-the-funeral-of-kem-ley-a-critic-of-the-perceived-corrupt-and-authoritarian-rule-of-hun-sen-who-has.md) _Context: Cambodia, Hun Sen_
+8. [United States President Barack Obama hosts a two-day summit in Rancho Mirage, California with leaders of the ASEAN member states, including democratically-elected Benigno Aquino III of the Philippines and Joko Widodo of Indonesia as well as autocratic rulers such as Hun Sen of Cambodia and Najib Razak of Malaysia. ](/news/2016/02/15/united-states-president-barack-obama-hosts-a-two-day-summit-in-rancho-mirage-california-with-leaders-of-the-asean-member-states-including.md) _Context: Cambodia, Hun Sen_
+9. [Thousands of opposition supporters protest in the Cambodian capital Phnom Penh following disputed July elections which saw incumbent Prime Minister Hun Sen re-elected. ](/news/2013/10/23/thousands-of-opposition-supporters-protest-in-the-cambodian-capital-phnom-penh-following-disputed-july-elections-which-saw-incumbent-prime-m.md) _Context: Cambodia, Hun Sen_
+10. [The Parliament of Cambodia votes for Hun Sen to continue as Prime Minister despite an opposition boycott. ](/news/2013/09/24/the-parliament-of-cambodia-votes-for-hun-sen-to-continue-as-prime-minister-despite-an-opposition-boycott.md) _Context: Hun Sen, Prime Minister_

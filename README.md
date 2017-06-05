@@ -3,6 +3,9 @@
 ### [Reports emerge of the Australian Security Intelligence Organisation's discovery of classified Australian documents, related to Chinese intelligence activity abroad, in the Canberra home of a woman allegedly acting on behalf of the Communist Party of China. ](/news/2017/06/5/reports-emerge-of-the-australian-security-intelligence-organisation-s-discovery-of-classified-australian-documents-related-to-chinese-intel.md)
 ASIO found classified files during a raid on the apartment of a suspected Chinese intelligence operative.
 
+### [Bahrain, Saudi Arabia, the United Arab Emirates and Egypt sever diplomatic ties with Qatar, ordering Qatari citizens in those countries to be expelled as well as cutting all land, air and sea connections. "National security," "media incitement" and Qatar's support of Iran are variously cited. ](/news/2017/06/5/bahrain-saudi-arabia-the-united-arab-emirates-and-egypt-sever-diplomatic-ties-with-qatar-ordering-qatari-citizens-in-those-countries-to-b.md)
+Saudi Arabia said the move was necessary to protect the kingdom from what it described as extremism, reasoning that was echoed by Bahrain
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -31,6 +34,9 @@ Britain&#039;s political parties have suspended national general election campai
 
 ### [Simon Busuttil of Forza Nazzjonali concedes defeat to the incumbent Joseph Muscat and his Labour Party, who are projected to win 54.9% of the popular vote. ](/news/2017/06/4/simon-busuttil-of-forza-nazzjonali-concedes-defeat-to-the-incumbent-joseph-muscat-and-his-labour-party-who-are-projected-to-win-54-9-of-th.md)
 Updated 1.15pm with Muscat comments The Labour Party has comfortably won the general election handing Joseph Muscat a mandate to head a government for a second term. &quot;It is clear that the people have chosen to stay the course,&quot; Prime Minister Joseph Muscat said as soon as the outcome was known,...
+
+### [Voters cast ballots to select representatives for rural and urban Cambodian precincts from, nationwide, 94,595 candidates for 11,572 council seats. Voter turnout was 85.74 percent with few reports of irregularities. According to early results, the opposition makes significant gains against the ruling party of Prime Minister Hun Sen. ](/news/2017/06/4/voters-cast-ballots-to-select-representatives-for-rural-and-urban-cambodian-precincts-from-nationwide-94-595-candidates-for-11-572-council.md)
+_Context: Cambodia, Cambodian communal elections, 2017, Hun Sen, Prime Minister_
 
 ---
 
