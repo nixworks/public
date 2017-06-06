@@ -9,7 +9,7 @@ Uzbek President Shavkat Mirziyoyev has harshly criticized officials in charge of
 
 1. [AKIpress news agency](http://akipress.com/news:593286/)
 2. [Reuters](http://www.reuters.com/article/us-uzbekistan-government-idUSKBN18X0R9?il=0)
-3. [Reuters²](http://www.reuters.com/article/us-uzbekistan-politics-idUSKBN18S5FB)
+3. [ReutersÂ²](http://www.reuters.com/article/us-uzbekistan-politics-idUSKBN18S5FB)
 
 ### Related:
 
