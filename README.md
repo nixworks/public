@@ -3,7 +3,7 @@
 ### [An explosion occurs near police offices and a mosque in Herat, killing at least ten people. ](/news/2017/06/6/an-explosion-occurs-near-police-offices-and-a-mosque-in-herat-killing-at-least-ten-people.md)
 Several people killed in explosion near a mosque and police offices in western province, local media report. 
 
-### [The United States-backed Syrian Democratic Forces launch an operation to capture Raqqa, ISIL's de facto Syrian capital. ](/news/2017/06/6/the-united-states-backed-syrian-democratic-forces-launch-an-operation-to-capture-raqqa-isil-s-de-facto-syrian-capital.md)
+### [The United States-backed Syrian Democratic Forces launch an operation to capture Raqqa, ISIL's ''de facto'' Syrian capital. ](/news/2017/06/6/the-united-states-backed-syrian-democratic-forces-launch-an-operation-to-capture-raqqa-isil-s-de-facto-syrian-capital.md)
 _Context: American-led intervention in Syria, ISIL, Raqqa, Syrian Democratic Forces, United States_
 
 ### [A man attacks a police officer near Notre-Dame de Paris, France. ](/news/2017/06/6/a-man-attacks-a-police-officer-near-notre-dame-de-paris-france.md)

@@ -1,6 +1,6 @@
 ### [2017-06-6](/news/2017/06/6/index.md)
 
-# The United States-backed Syrian Democratic Forces launch an operation to capture Raqqa, ISIL's de facto Syrian capital. 
+# The United States-backed Syrian Democratic Forces launch an operation to capture Raqqa, ISIL's ''de facto'' Syrian capital. 
 
 
 
