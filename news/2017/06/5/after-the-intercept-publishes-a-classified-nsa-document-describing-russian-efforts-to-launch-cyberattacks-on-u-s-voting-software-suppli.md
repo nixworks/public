@@ -1,6 +1,6 @@
 ### [2017-06-5](/news/2017/06/5/index.md)
 
-# After ''The Intercept'' publishes a classified NSA document describing Russian efforts to launch cyberattacks on U.S. voting software suppliers, the U.S. Department of Justice announces it had brought charges upon the alleged leaker. 
+# After ''The Intercept'' publishes a classified NSA document describing Russian efforts to launch cyberattacks on U.S. voting software suppliers, the U.S. Department of Justice announces it had brought charges upon Reality Leigh Winner, the alleged leaker. 
 
 The U.S. Department of Justice on Monday charged a federal contractor with sending classified material to a news organization that sources identified to Reuters as The Intercept, marking one of the first concrete efforts by the Trump administration to crack down on leaks to the media.
 
