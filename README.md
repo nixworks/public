@@ -1,7 +1,7 @@
 ## [News](/news/2017/06/5/index.md)
 
-### [A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life. Eight people inside the business survived. ](/news/2017/06/5/a-discharged-45-year-old-former-employee-shoots-and-kills-five-people-at-a-manufacturing-business-in-orlando-florida-united-states-the-sh.md)
-_Context: Florida, Orlando_
+### [A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life afterwards. Eight others inside the workplace survived. ](/news/2017/06/5/a-discharged-45-year-old-former-employee-shoots-and-kills-five-people-at-a-manufacturing-business-in-orlando-florida-united-states-the-sh.md)
+_Context: Florida, Orlando, United States_
 
 ### [In Brighton, a suburb of Melbourne, Australia, a gunman kills one man and holds one woman hostage before he is shot dead by Victoria Police. The incident is being treated as an act of terrorism. Islamic State in Iraq and the Levant have claimed responsibility for the attack but Victoria Police claim that there is little evidence to suggest a connection ](/news/2017/06/5/in-brighton-a-suburb-of-melbourne-australia-a-gunman-kills-one-man-and-holds-one-woman-hostage-before-he-is-shot-dead-by-victoria-police.md)
 Police say they are treating yesterday&#039;s shooting and hostage situation in Melbourne, which left two people dead, including the gunman, as terrorism. Yacqub Khayre (pictured) was shot dead after a stand-off with armed officers.
@@ -18,7 +18,7 @@ Saudi Arabia said the move was necessary to protect the kingdom from what it des
 ### [Montenegro officially joins NATO as its 29th member at a ceremony in Washington, D.C. ](/news/2017/06/5/montenegro-officially-joins-nato-as-its-29th-member-at-a-ceremony-in-washington-d-c.md)
 _Context: Montenegro, Montenegro-NATO relations, NATO, Washington, D.C._
 
-### [After ''The Intercept'' publishes a classified NSA document describing Russian cyberattacks on U.S. voting software, the U.S. Department of Justice announces it had brought charges upon the alleged leaker. ](/news/2017/06/5/after-the-intercept-publishes-a-classified-nsa-document-describing-russian-cyberattacks-on-u-s-voting-software-the-u-s-department-of.md)
+### [After ''The Intercept'' publishes a classified NSA document describing Russian efforts to launch cyberattacks on U.S. voting software suppliers, the U.S. Department of Justice announces it had brought charges upon the alleged leaker. ](/news/2017/06/5/after-the-intercept-publishes-a-classified-nsa-document-describing-russian-efforts-to-launch-cyberattacks-on-u-s-voting-software-suppli.md)
 The U.S. Department of Justice on Monday charged a federal contractor with sending classified material to a news organization that sources identified to Reuters as The Intercept, marking one of the first concrete efforts by the Trump administration to crack down on leaks to the media.
 
 ### [The Turkish interior ministry announces that 130 people, living outside the country and suspected of militant links, will lose their  citizenship unless they return to Turkey within three months and meet government standards. Named suspects include  U.S.-based cleric Fethullah Gulen, and Peoples' Democratic Party leaders Faysal Sariyildiz, Tugba Hezer, and  Ozdal Ucer. ](/news/2017/06/5/the-turkish-interior-ministry-announces-that-130-people-living-outside-the-country-and-suspected-of-militant-links-will-lose-their-citize.md)
@@ -52,6 +52,9 @@ U.S.-backed Syrian militias said they seized a major dam on the Euphrates river 
 
 ### [Citizens remain trapped in Marawi, Philippines, after a ceasefire organised by the Moro Islamic Liberation Front (MILF) is broken. Up to 2,000 people remain in need of help after nearly two weeks without food. ](/news/2017/06/4/citizens-remain-trapped-in-marawi-philippines-after-a-ceasefire-organised-by-the-moro-islamic-liberation-front-milf-is-broken-up-to-2-0.md)
 Fighting breaks despite a four-hour ceasefire, preventing hundreds of residents from leaving besieged city of Marawi. 
+
+### [  The Philippine police identified the lone gunman as Jessie Javier Carlos, a local citizen, who is a debt-riddled former employee of the Department of Finance. ](/news/2017/06/4/the-philippine-police-identified-the-lone-gunman-as-jessie-javier-carlos-a-local-citizen-who-is-a-debt-riddled-former-employee-of-the-de.md)
+_Context: 2017 Resorts World Manila attack, Department of Finance_
 
 ### [The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. ](/news/2017/06/4/the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester-england.md)
 Ariana Grande closed &#8220;One Love Manchester&#8221; with an emotional rendition of &#8220;Somewhere Over the Rainbow&#8221; on Sunday. The benefit concert was organized to honor the 22 victims w…

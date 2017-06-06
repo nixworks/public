@@ -9,6 +9,9 @@ U.S.-backed Syrian militias said they seized a major dam on the Euphrates river 
 ### [Citizens remain trapped in Marawi, Philippines, after a ceasefire organised by the Moro Islamic Liberation Front (MILF) is broken. Up to 2,000 people remain in need of help after nearly two weeks without food. ](/news/2017/06/4/citizens-remain-trapped-in-marawi-philippines-after-a-ceasefire-organised-by-the-moro-islamic-liberation-front-milf-is-broken-up-to-2-0.md)
 Fighting breaks despite a four-hour ceasefire, preventing hundreds of residents from leaving besieged city of Marawi. 
 
+### [  The Philippine police identified the lone gunman as Jessie Javier Carlos, a local citizen, who is a debt-riddled former employee of the Department of Finance. ](/news/2017/06/4/the-philippine-police-identified-the-lone-gunman-as-jessie-javier-carlos-a-local-citizen-who-is-a-debt-riddled-former-employee-of-the-de.md)
+_Context: 2017 Resorts World Manila attack, Department of Finance_
+
 ### [The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. ](/news/2017/06/4/the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester-england.md)
 Ariana Grande closed &#8220;One Love Manchester&#8221; with an emotional rendition of &#8220;Somewhere Over the Rainbow&#8221; on Sunday. The benefit concert was organized to honor the 22 victims w…
 
