@@ -3,6 +3,9 @@
 ### [An explosion occurs near police offices and a mosque in Herat, killing at least ten people. ](/news/2017/06/6/an-explosion-occurs-near-police-offices-and-a-mosque-in-herat-killing-at-least-ten-people.md)
 Several people killed in explosion near a mosque and police offices in western province, local media report. 
 
+### [The United States-backed Syrian Democratic Forces launch an operation to capture Raqqa, ISIL's de facto Syrian capital. ](/news/2017/06/6/the-united-states-backed-syrian-democratic-forces-launch-an-operation-to-capture-raqqa-isil-s-de-facto-syrian-capital.md)
+_Context: American-led intervention in Syria, ISIL, Raqqa, Syrian Democratic Forces, United States_
+
 ### [A man attacks a police officer near Notre-Dame de Paris, France. ](/news/2017/06/6/a-man-attacks-a-police-officer-near-notre-dame-de-paris-france.md)
  PARIS (AP) — The Latest on the security operation near the Notre Dame Cathedral in Paris (all times local): 5:35 p.m. Witnesses around Notre Dame Cathe
 
@@ -22,9 +25,6 @@ _Context: Florida, Orlando, United States_
 
 ### [In Brighton, a suburb of Melbourne, Australia, a gunman kills one man and holds one woman hostage before he is shot dead by Victoria Police. The incident is being treated as an act of terrorism. Islamic State in Iraq and the Levant have claimed responsibility for the attack but Victoria Police claim that there is little evidence to suggest a connection. ](/news/2017/06/5/in-brighton-a-suburb-of-melbourne-australia-a-gunman-kills-one-man-and-holds-one-woman-hostage-before-he-is-shot-dead-by-victoria-police.md)
 Police say they are treating yesterday&#039;s shooting and hostage situation in Melbourne, which left two people dead, including the gunman, as terrorism. Yacqub Khayre (pictured) was shot dead after a stand-off with armed officers.
-
-### [In a United States-led airstrike, 21 civilians were killed while trying to flee the Islamic State-controlled city Raqqa in small boats. ](/news/2017/06/5/in-a-united-states-led-airstrike-21-civilians-were-killed-while-trying-to-flee-the-islamic-state-controlled-city-raqqa-in-small-boats.md)
-_Context: 2017 Raqqa attack, Islamic State, Raqqa, Syrian Civil War_
 
 ### [Eight people are killed in an explosion at a petrochemical plant in Shandong, China. ](/news/2017/06/5/eight-people-are-killed-in-an-explosion-at-a-petrochemical-plant-in-shandong-china.md)
 _Context: Shandong, petrochemical plant_

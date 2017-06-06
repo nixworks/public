@@ -6,9 +6,6 @@ _Context: Florida, Orlando, United States_
 ### [In Brighton, a suburb of Melbourne, Australia, a gunman kills one man and holds one woman hostage before he is shot dead by Victoria Police. The incident is being treated as an act of terrorism. Islamic State in Iraq and the Levant have claimed responsibility for the attack but Victoria Police claim that there is little evidence to suggest a connection. ](/news/2017/06/5/in-brighton-a-suburb-of-melbourne-australia-a-gunman-kills-one-man-and-holds-one-woman-hostage-before-he-is-shot-dead-by-victoria-police.md)
 Police say they are treating yesterday&#039;s shooting and hostage situation in Melbourne, which left two people dead, including the gunman, as terrorism. Yacqub Khayre (pictured) was shot dead after a stand-off with armed officers.
 
-### [In a United States-led airstrike, 21 civilians were killed while trying to flee the Islamic State-controlled city Raqqa in small boats. ](/news/2017/06/5/in-a-united-states-led-airstrike-21-civilians-were-killed-while-trying-to-flee-the-islamic-state-controlled-city-raqqa-in-small-boats.md)
-_Context: 2017 Raqqa attack, Islamic State, Raqqa, Syrian Civil War_
-
 ### [Eight people are killed in an explosion at a petrochemical plant in Shandong, China. ](/news/2017/06/5/eight-people-are-killed-in-an-explosion-at-a-petrochemical-plant-in-shandong-china.md)
 _Context: Shandong, petrochemical plant_
 
