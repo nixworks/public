@@ -19,7 +19,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Dombivli, India, Mumbai_
 
 ### [Heavy floods and related disasters across China, especially in the drainage basin of the Han and Wei Rivers, leave 90 dead and 22 missing. ](/news/2011/09/22/heavy-floods-and-related-disasters-across-china-especially-in-the-drainage-basin-of-the-han-and-wei-rivers-leave-90-dead-and-22-missing.md)
-_Context: Han, People's Republic of China, Wei River, drainage basin, floods_
+_Context: China, Han, Wei River, drainage basin, floods_
 
 ### [2011 Pacific hurricane season: Hurricane Hilary reaches category-three strength off the coast of Mexico, but is not expected to make landfall. ](/news/2011/09/22/2011-pacific-hurricane-season-hurricane-hilary-reaches-category-three-strength-off-the-coast-of-mexico-but-is-not-expected-to-make-landfal.md)
 _Context: Hilary, Hurricane Jova, Mexico, category-three_
@@ -31,7 +31,7 @@ _Context: Anniston Chemical Activity, Chemical Weapons Treaty, chemical weapons,
 Pope Benedict XVI faces a clamour for change as he heads to Germany for his first state visit, with calls for reform on many fronts &ndash; from recognising gays to ordaining women to the priesthood.
 
 ### [China warns the United States over its proposed sale of newer versions of the General Dynamics F-16 Fighting Falcon to Taiwan. ](/news/2011/09/22/china-warns-the-united-states-over-its-proposed-sale-of-newer-versions-of-the-general-dynamics-f-16-fighting-falcon-to-taiwan.md)
-_Context: F-16, People's Republic of China, Taiwan, U.S._
+_Context: China, F-16, Taiwan, U.S._
 
 ### [Representatives of the United States and European nations walk out of the General Assembly of the United Nations during an accusatory speech by the President of Iran, Mahmoud Ahmadinejad. ](/news/2011/09/22/representatives-of-the-united-states-and-european-nations-walk-out-of-the-general-assembly-of-the-united-nations-during-an-accusatory-speech.md)
 _Context: Europe, General Assembly of the United Nations, Mahmoud Ahmadinejad, President, U.S._

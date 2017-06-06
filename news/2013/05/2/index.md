@@ -52,7 +52,7 @@ A special aircraft carrying the body of Sarabjit Singh, the Indian prisoner who 
 _Context: Rhode Island, U.S., same-sex marriage_
 
 ### [Two kindergarteners are poisoned to death by the owner of a rival school in northern China. ](/news/2013/05/2/two-kindergarteners-are-poisoned-to-death-by-the-owner-of-a-rival-school-in-northern-china.md)
-_Context: People's Republic of China, kindergarten_
+_Context: China, kindergarten_
 
 ### [The Egyptian government announces it will replace six cabinet ministers. ](/news/2013/05/2/the-egyptian-government-announces-it-will-replace-six-cabinet-ministers.md)
 A limited cabinet reshuffle will see six ministers replaced in Egypt, state newspaper al-Ahram said on Thursday, citing government sources.

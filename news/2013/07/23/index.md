@@ -28,7 +28,7 @@ _Context: Burma, ongoing effort at political reform, political prisoner_
 Eighteen young British men are arrested in connection with the fatal stabbing of another British man on the Greek island of Crete.
 
 ### [China announces a five-year ban on the construction of new government buildings, as part of a major effort to curtail state corruption and overspending. ](/news/2013/07/23/china-announces-a-five-year-ban-on-the-construction-of-new-government-buildings-as-part-of-a-major-effort-to-curtail-state-corruption-and-o.md)
-_Context: People's Republic of China_
+_Context: China_
 
 ### [The Simon Wiesenthal Center begins a public campaign in Germany to bring to justice the last surviving Nazi war criminals from the Second World War. ](/news/2013/07/23/the-simon-wiesenthal-center-begins-a-public-campaign-in-germany-to-bring-to-justice-the-last-surviving-nazi-war-criminals-from-the-second-wo.md)
 A poster campaign is launched in Germany aimed at tracking down the last surviving Nazi war criminals not yet brought to justice.

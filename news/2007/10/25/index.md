@@ -16,7 +16,7 @@ _Context: Pakistan, Swat, Pakistan_
 _Context: Iranian Revolutionary Guard, U.S., economic sanction, terrorism_
 
 ### [ Yang Jiechi, the foreign minister of China, meets with Pranab Mukherjee, the Foreign Minister of India, to discuss India's aspirations to become a Permanent Member of the United Nations Security Council. ](/news/2007/10/25/yang-jiechi-the-foreign-minister-of-china-meets-with-pranab-mukherjee-the-foreign-minister-of-india-to-discuss-india-s-aspirations-to-b.md)
-_Context: India, People's Republic of China, Pranab Mukherjee, United Nations Security Council, Yang_
+_Context: China, India, Pranab Mukherjee, United Nations Security Council, Yang_
 
 ### [ The Airbus A380 takes off on its inaugural passenger flight from Singapore to Sydney. ](/news/2007/10/25/the-airbus-a380-takes-off-on-its-inaugural-passenger-flight-from-singapore-to-sydney.md)
 _Context: Airbus A380, Singapore, Sydney_

@@ -28,7 +28,7 @@ Several Web giants are voicing their opposition to the new Internet piracy bill 
 _Context: Daniel Ortega, Nicaraguan President, recent Presidential election_
 
 ### [China's unmanned Shenzhou 8 spacecraft successfully returns to Earth, landing in the Inner Mongolia autonomous region after docking twice with the Tiangong-1 orbital laboratory module. ](/news/2011/11/17/china-s-unmanned-shenzhou-8-spacecraft-successfully-returns-to-earth-landing-in-the-inner-mongolia-autonomous-region-after-docking-twice-wi.md)
-_Context: Inner Mongolia, People's Republic of China, Shenzhou 8, Tiangong-1_
+_Context: China, Inner Mongolia, Shenzhou 8, Tiangong-1_
 
 ## [Previous Day...](/news/2011/11/16/index.md)
 

@@ -28,7 +28,7 @@ _Context: Japan, Tokyo, breeding, panda_
 President Evo Morales to revoke concessions of Canadian silver mine following violent opposition from Quechua Indians.
 
 ### [Japan lodges a formal protest with China after the presence of the latter's patrol boats near the disputed Senkaku Islands. ](/news/2012/07/11/japan-lodges-a-formal-protest-with-china-after-the-presence-of-the-latter-s-patrol-boats-near-the-disputed-senkaku-islands.md)
-_Context: Japan, People's Republic of China, Senkaku Islands, Senkaku Islands dispute_
+_Context: China, Japan, Senkaku Islands, Senkaku Islands dispute_
 
 ### [ASEAN nations and China fail to agree on a code of conduct designed to ease tensions over territorial disputes in the South China Sea. ](/news/2012/07/11/asean-nations-and-china-fail-to-agree-on-a-code-of-conduct-designed-to-ease-tensions-over-territorial-disputes-in-the-south-china-sea.md)
 China and Southeast Asian nations argue over wording of code of conduct meant to ease tensions in South China Sea.
@@ -49,7 +49,7 @@ _Context: British police, News Corporation, conspiracy to hack mobile phones_
 Russia&#039;s lower house of parliament has passed the bill in its third and final reading, despite criticism of censorship from the country&#039;s most popular websites.
 
 ### [Chinese authorities order internet video providers to prescreen all videos before making them available. ](/news/2012/07/11/chinese-authorities-order-internet-video-providers-to-prescreen-all-videos-before-making-them-available.md)
-_Context: People's Republic of China_
+_Context: China_
 
 ### [The Republican-controlled United States House of Representatives votes for the thirty-third time to repeal the Patient Protection and Affordable Care Act, commonly known as Obamacare; the measure is not likely to pass the Democratic-controlled United States Senate. ](/news/2012/07/11/the-republican-controlled-united-states-house-of-representatives-votes-for-the-thirty-third-time-to-repeal-the-patient-protection-and-afford.md)
 The repeal will go nowhere in the Senate; sets up talking points for election season

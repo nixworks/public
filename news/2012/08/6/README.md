@@ -28,7 +28,7 @@ QUICK READ: - New Zealand Herald
 Massive fire at Chevron refinery in Richmond fully contained; shelter in place lifted
 
 ### [Sri Lanka arrests 37 Chinese fisherman for illegally fishing in Sri Lankan waters. ](/news/2012/08/6/sri-lanka-arrests-37-chinese-fisherman-for-illegally-fishing-in-sri-lankan-waters.md)
-_Context: People's Republic of China, Sri Lanka_
+_Context: China, Sri Lanka_
 
 ### [Police in Oak Creek, Wisconsin investigate a shooting incident at a Sikh temple which left seven people dead, including the gunman. ](/news/2012/08/6/police-in-oak-creek-wisconsin-investigate-a-shooting-incident-at-a-sikh-temple-which-left-seven-people-dead-including-the-gunman.md)
 Members of the US Sikh community express their shock after six worshippers are shot dead at a temple in Wisconsin.

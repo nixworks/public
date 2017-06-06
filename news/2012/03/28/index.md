@@ -28,7 +28,7 @@ African delegation set to arrive to press for restoration of democracy, as thous
 Second generation Labor MP and new party leader Annastacia Palaszczuk has set herself two herculean tasks: rebuilding the battered Labor brand, and keeping the Liberal National Party in check.
 
 ### [Detained Chinese rights lawyer Gao Zhisheng is allowed a visit from family, for the first time in two years. ](/news/2012/03/28/detained-chinese-rights-lawyer-gao-zhisheng-is-allowed-a-visit-from-family-for-the-first-time-in-two-years.md)
-_Context: Gao Zhisheng, People's Republic of China_
+_Context: China, Gao Zhisheng_
 
 ## [Previous Day...](/news/2012/03/27/index.md)
 

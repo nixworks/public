@@ -4,7 +4,7 @@
 At least 27 people have been killed in two explosions in the Syrian capital Damascus, officials say, describing them as &quot;terrorist attacks&quot;.
 
 ### [A Tibetan monk sets himself on fire in southwest China, in the latest in a series of similar incidents where nearly 30 monks have now self-immolated. ](/news/2012/03/17/a-tibetan-monk-sets-himself-on-fire-in-southwest-china-in-the-latest-in-a-series-of-similar-incidents-where-nearly-30-monks-have-now-self-i.md)
-_Context: People's Republic of China, Tibet, self-immolated_
+_Context: China, Tibet, self-immolated_
 
 ### [Pope Benedict XVI launches an internal investigation into leaks of confidential documents alleging corruption, financial mismanagement and power struggles among senior church officials. ](/news/2012/03/17/pope-benedict-xvi-launches-an-internal-investigation-into-leaks-of-confidential-documents-alleging-corruption-financial-mismanagement-and-p.md)
 _Context: Pope Benedict XVI, corruption_

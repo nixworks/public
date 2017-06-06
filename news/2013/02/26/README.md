@@ -25,7 +25,7 @@ _Context: diabetes, gene, heart disease, obese, sleep loss_
 _Context: Amgen, Sensipar, U.S., clinical trial, hyperparathyroidism, serum calcium_
 
 ### [Representatives of six major world powers - China, France, Germany, United Kingdom, Russia and the United States - meet with Iranian officials to discuss the nation's nuclear program. ](/news/2013/02/26/representatives-of-six-major-world-powers-a-china-france-germany-united-kingdom-russia-and-the-united-states-a-meet-with-iranian-off.md)
-_Context: French, German, Iran, People's Republic of China, Russia, U.S., United Kingdom, nuclear programme_
+_Context: China, French, German, Iran, Russia, U.S., United Kingdom, nuclear programme_
 
 ### [Mexican teacher's union leader Elba Esther Gordillo is arrested on corruption charges. ](/news/2013/02/26/mexican-teacher-s-union-leader-elba-esther-gordillo-is-arrested-on-corruption-charges.md)
 _Context: Elba Esther Gordillo, Mexico, corruption, teacher's union_

@@ -13,7 +13,7 @@ _Context: ELCA, Protestant, homosexuality, ordain, same-sex marriage, same-sex u
 _Context: Iran, Iran's nuclear program, Isfahan, uranium_
 
 ### [ A suicide bombing kills 1 and injures 32 in Fuzhou, provincial capital of Southeastern China's Fujian Province. ](/news/2005/08/8/a-suicide-bombing-kills-1-and-injures-32-in-fuzhou-provincial-capital-of-southeastern-china-s-fujian-province.md)
-_Context: Fujian Province, People's Republic of China, suicide bomb_
+_Context: China, Fujian Province, suicide bomb_
 
 ### [ STS-114: The Shuttle ''Discovery'' was waved off by Mission Control in Houston for a landing at Kennedy Space Center due to bad weather. NASA has said they will land the Orbiter in 24 hours, with Six opportunities available -- the first two at Kennedy Space Center and the second two at Edwards Air Force Base and the final two at the White Sands Missile Range (also known as the White Sounds Spaceport). ](/news/2005/08/8/sts-114-the-shuttle-discovery-was-waved-off-by-mission-control-in-houston-for-a-landing-at-kennedy-space-center-due-to-bad-weather-na.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

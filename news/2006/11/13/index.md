@@ -10,7 +10,7 @@ _Context: Democratic Republic of Congo, Hutu, Paul Kagame, Rwanda, Rwandan Genoc
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ A colliery explosion in Shanxi province in northern China kills at least 24 miners. ](/news/2006/11/13/a-colliery-explosion-in-shanxi-province-in-northern-china-kills-at-least-24-miners.md)
-_Context: People's Republic of China, Shanxi province, colliery explosion_
+_Context: China, Shanxi province, colliery explosion_
 
 ### [ A train crash near Cape Town, South Africa, kills at least 27 people. ](/news/2006/11/13/a-train-crash-near-cape-town-south-africa-kills-at-least-27-people.md)
 _Context: Cape Town, South Africa, train crash_

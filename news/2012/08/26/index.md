@@ -4,7 +4,7 @@
 _Context: Afghanistan, Kajaki district_
 
 ### [Thirty-six people are killed in a bus crash near Yan'an, Shaanxi province of China. ](/news/2012/08/26/thirty-six-people-are-killed-in-a-bus-crash-near-yan-an-shaanxi-province-of-china.md)
-_Context: People's Republic of China, Shaanxi province, Yan'an_
+_Context: China, Shaanxi province, Yan'an_
 
 ### [Tropical Storm Isaac:The United States National Hurricane Center issues hurricane warnings for the states of Florida, Alabama, Mississippi and Louisiana. A state of emergency is in effect in these four areas. ](/news/2012/08/26/tropical-storm-isaac-pthe-united-states-national-hurricane-center-issues-hurricane-warnings-for-the-states-of-florida-alabama-mississippi.md)
 Forecasters say Tropical Storm Isaac has gained added strength and should be at or near hurricane force when it reaches the Florida Keys later in the day.

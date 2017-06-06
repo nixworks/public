@@ -16,7 +16,7 @@ _Context: Starbucks_
 Hungary’s Speaker of Parliament Laszlo Kover said he insisted on his plan to visit Romania on Tuesday. Earlier on Monday, Romanian Senate Speaker Vasile Blaga and House of Representatives Speaker Roberta Anastase asked him to postpone his visit after the country’s upcoming local elections. In a letter of response addressed to the Romanian house speakers, &hellip;
 
 ### [The President of Russia, Vladimir Putin, begins a three-day visit to China. ](/news/2012/06/5/the-president-of-russia-vladimir-putin-begins-a-three-day-visit-to-china.md)
-_Context: People's Republic of China, Russia President, Vladimir Putin_
+_Context: China, Russia President, Vladimir Putin_
 
 ### [Der Spiegel reports that Israel is arming submarines supplied by Germany with nuclear-tipped cruise missiles, provoking debate within Germany and internationally. ](/news/2012/06/5/der-spiegel-reports-that-israel-is-arming-submarines-supplied-by-germany-with-nuclear-tipped-cruise-missiles-provoking-debate-within-german.md)
 _Context: Der Spiegel, German, Israel, nuclear-tipped cruise missiles, submarines_

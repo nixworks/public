@@ -28,7 +28,7 @@ More than 4,000 ethnic Hmong returned to Laos after being deported from Thailand
 A Greek-owned cargo ship and a British-flagged chemical tanker have been seized, as pirates scored a record number of attacks and hijackings in 2009.
 
 ### [ China displaces the U.S. as the largest overall buyer of Japanese goods in 2009. ](/news/2009/12/29/china-displaces-the-u-s-as-the-largest-overall-buyer-of-japanese-goods-in-2009.md)
-_Context: Japan, People's Republic of China, U.S._
+_Context: China, Japan, U.S._
 
 ### [ An American Christian activist is reportedly arrested after crossing into North Korea from China, according to North Korean media. ](/news/2009/12/29/an-american-christian-activist-is-reportedly-arrested-after-crossing-into-north-korea-from-china-according-to-north-korean-media.md)
 _Context: Christian, North Korea, People's Republic of China, U.S., state media_

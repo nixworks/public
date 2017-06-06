@@ -3,11 +3,8 @@
 ### [A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life. Eight people inside the business survived. ](/news/2017/06/5/a-discharged-45-year-old-former-employee-shoots-and-kills-five-people-at-a-manufacturing-business-in-orlando-florida-united-states-the-sh.md)
 _Context: Florida, Orlando_
 
-### [In Brighton, a suburb of Melbourne, Australia, a gunman kills one man and holds one woman hostage before he is shot dead by Victoria Police. The incident is being treated as an act of terrorism. ](/news/2017/06/5/in-brighton-a-suburb-of-melbourne-australia-a-gunman-kills-one-man-and-holds-one-woman-hostage-before-he-is-shot-dead-by-victoria-police.md)
+### [In Brighton, a suburb of Melbourne, Australia, a gunman kills one man and holds one woman hostage before he is shot dead by Victoria Police. The incident is being treated as an act of terrorism. Islamic State in Iraq and the Levant have claimed responsibility for the attack but Victoria Police claim that there is little evidence to suggest a connection ](/news/2017/06/5/in-brighton-a-suburb-of-melbourne-australia-a-gunman-kills-one-man-and-holds-one-woman-hostage-before-he-is-shot-dead-by-victoria-police.md)
 Police say they are treating yesterday&#039;s shooting and hostage situation in Melbourne, which left two people dead, including the gunman, as terrorism. Yacqub Khayre (pictured) was shot dead after a stand-off with armed officers.
-
-### [Raqqa attack 5 June 2017](/news/2017/06/5/raqqa-attack-5-june-2017.md)
-_Context: Raqqa attack 5 June 2017, Syrian Civil War_
 
 ### [Eight people are killed in an explosion at a petrochemical plant in Shandong, China. ](/news/2017/06/5/eight-people-are-killed-in-an-explosion-at-a-petrochemical-plant-in-shandong-china.md)
 _Context: Shandong, petrochemical plant_
@@ -15,11 +12,14 @@ _Context: Shandong, petrochemical plant_
 ### [Reports emerge of the Australian Security Intelligence Organisation's discovery of classified Australian documents, related to Chinese intelligence activity abroad, in the Canberra home of a woman allegedly acting on behalf of the Communist Party of China. ](/news/2017/06/5/reports-emerge-of-the-australian-security-intelligence-organisation-s-discovery-of-classified-australian-documents-related-to-chinese-intel.md)
 ASIO found classified files during a raid on the apartment of a suspected Chinese intelligence operative.
 
-### [Bahrain, Egypt, the Maldives, Saudi Arabia, the United Arab Emirates, and the internationally recognized government of Yemen sever diplomatic ties with Qatar, ordering Qatari citizens in those countries to be expelled as well as cutting all land, air and sea connections. "National security," "media incitement" and Qatar's support of Iran are variously cited. ](/news/2017/06/5/bahrain-egypt-the-maldives-saudi-arabia-the-united-arab-emirates-and-the-internationally-recognized-government-of-yemen-sever-diplomati.md)
+### [Bahrain, Egypt, Libya, the Maldives, Saudi Arabia, the United Arab Emirates, and the internationally recognized government of Yemen sever diplomatic ties with Qatar, ordering Qatari citizens in those countries to be expelled as well as cutting all land, air and sea connections. "National security," "media incitement" and Qatar's support of Iran are variously cited. ](/news/2017/06/5/bahrain-egypt-libya-the-maldives-saudi-arabia-the-united-arab-emirates-and-the-internationally-recognized-government-of-yemen-sever-di.md)
 Saudi Arabia said the move was necessary to protect the kingdom from what it described as extremism, reasoning that was echoed by Bahrain
 
 ### [Montenegro officially joins NATO as its 29th member at a ceremony in Washington, D.C. ](/news/2017/06/5/montenegro-officially-joins-nato-as-its-29th-member-at-a-ceremony-in-washington-d-c.md)
 _Context: Montenegro, Montenegro-NATO relations, NATO, Washington, D.C._
+
+### [After ''The Intercept'' publishes a classified NSA document describing Russian cyberattacks on U.S. voting software, the U.S. Department of Justice announces it had brought charges upon the alleged leaker. ](/news/2017/06/5/after-the-intercept-publishes-a-classified-nsa-document-describing-russian-cyberattacks-on-u-s-voting-software-the-u-s-department-of.md)
+The U.S. Department of Justice on Monday charged a federal contractor with sending classified material to a news organization that sources identified to Reuters as The Intercept, marking one of the first concrete efforts by the Trump administration to crack down on leaks to the media.
 
 ### [The Turkish interior ministry announces that 130 people, living outside the country and suspected of militant links, will lose their  citizenship unless they return to Turkey within three months and meet government standards. Named suspects include  U.S.-based cleric Fethullah Gulen, and Peoples' Democratic Party leaders Faysal Sariyildiz, Tugba Hezer, and  Ozdal Ucer. ](/news/2017/06/5/the-turkish-interior-ministry-announces-that-130-people-living-outside-the-country-and-suspected-of-militant-links-will-lose-their-citize.md)
 _Context: 2016-17 Turkish purges, Fethullah Gulen, Peoples' Democratic Party, Turkish interior ministry, citizenship_

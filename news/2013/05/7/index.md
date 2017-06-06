@@ -25,7 +25,7 @@ _Context: Reserve Bank of Australia, interest rate_
 The Dow Jones industrial average has spent the day jumping over the 15,000 mark and dropping back. In the process, it set an intraday record at 15,024.62.
 
 ### [China's April import and export figures beat expectations, potentially easing concerns that its economy is lagging. ](/news/2013/05/7/china-s-april-import-and-export-figures-beat-expectations-potentially-easing-concerns-that-its-economy-is-lagging.md)
-_Context: People's Republic of China, export, import_
+_Context: China, export, import_
 
 ### [Mayon Volcano erupts in the Philippines killing four mountain climbers and requiring four other climbers trapped near the summit to be rescued. ](/news/2013/05/7/mayon-volcano-erupts-in-the-philippines-killing-four-mountain-climbers-and-requiring-four-other-climbers-trapped-near-the-summit-to-be-rescu.md)
 Volcano in Philippines erupts into life, killing four climbers and trapping others near the crater.

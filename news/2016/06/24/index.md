@@ -34,7 +34,7 @@ _Context: Crime in the Philippines, Philippine Drug War, Rodrigo Duterte, extraj
 Up to the minute results for the 2016 EU Referendum from BBC News
 
 ### [The price of nickel is expected to skyrocket after the incoming Philippine government appoints an anti-mining bureaucrat Gina Lopez to the national cabinet. The Philippines is the biggest exporter of nickel to China. ](/news/2016/06/24/the-price-of-nickel-is-expected-to-skyrocket-after-the-incoming-philippine-government-appoints-an-anti-mining-bureaucrat-gina-lopez-to-the-n.md)
-_Context: Gina Lopez, People's Republic of China, cabinet, nickel_
+_Context: China, Gina Lopez, cabinet, nickel_
 
 ### [American conservative columnist George Will tells the Federalist Society that he is no longer a Republican because of Donald Trump, and has officially changed his Maryland voter registration from the GOP to ''unaffiliated''. ](/news/2016/06/24/american-conservative-columnist-george-will-tells-the-federalist-society-that-he-is-no-longer-a-republican-because-of-donald-trump-and-has.md)
 &ldquo;This is not my party.&rdquo;

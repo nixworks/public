@@ -1,7 +1,7 @@
 ## [2008-05-29](/news/2008/05/29/index.md)
 
 ### [ 2008 Sichuan earthquake: China begins inspecting the ruins of thousands of schools that collapsed in the  Sichuan earthquake, searching for clues about why they crumbled. ](/news/2008/05/29/2008-sichuan-earthquake-china-begins-inspecting-the-ruins-of-thousands-of-schools-that-collapsed-in-the-sichuan-earthquake-searching-for.md)
-_Context: People's Republic of China, deadly earthquake_
+_Context: China, deadly earthquake_
 
 ### [ Tornadoes of 2008: The Governor of Nebraska Dave Heineman declares a state of emergency in relation to tornadoes in the towns of Kearney, Nebraska, and Aurora, Nebraska. ](/news/2008/05/29/tornadoes-of-2008-the-governor-of-nebraska-dave-heineman-declares-a-state-of-emergency-in-relation-to-tornadoes-in-the-towns-of-kearney-n.md)
 _Context: Aurora, Nebraska, Dave Heineman, Governor, Kearney, Nebraska, Tornadoes of 2008, state of emergency, tornado_

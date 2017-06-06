@@ -16,7 +16,7 @@ Army opens new offensive against al-Qaeda in the Arab Peninsula, while at least 
 _Context: Central-African, Lord's Resistance Army, Ugandan soldier_
 
 ### [Torrential rainfall and flooding in China's Hunan Province destroys a bridge and 3,500 homes, leading to the evacuation of 28,000 people in Pingjiang County. ](/news/2012/05/13/torrential-rainfall-and-flooding-in-china-s-hunan-province-destroys-a-bridge-and-3-500-homes-leading-to-the-evacuation-of-28-000-people-in.md)
-_Context: Hunan Province, People's Republic of China, Pingjiang County_
+_Context: China, Hunan Province, Pingjiang County_
 
 ### [Paul Watson, the founder of the Sea Shepherd Conservation Society, is arrested in Germany for allegedly violating Guatemalan territorial waters in 2002. ](/news/2012/05/13/paul-watson-the-founder-of-the-sea-shepherd-conservation-society-is-arrested-in-germany-for-allegedly-violating-guatemalan-territorial-wat.md)
 _Context: German, Guatemala, Paul Watson, Sea Shepherd Conservation Society, allegedly violating_

@@ -10,7 +10,7 @@ Car bombs in and around the Iraqi capital, Baghdad, have killed at least 17 peop
 _Context: Colombia, Colombian conflict (1964-present), FARC, ceasefire, oil pipeline_
 
 ### [The James Bond film ''Skyfall'' opens in China with censored scenes, prompting criticism from fans. ](/news/2013/01/22/the-james-bond-film-skyfall-opens-in-china-with-censored-scenes-prompting-criticism-from-fans.md)
-_Context: Censorship in China, James Bond, People's Republic of China, Skyfall_
+_Context: Censorship in China, China, James Bond, Skyfall_
 
 ### [The United Nations Security Council passes Resolution 2087, condemning North Korea's December 2012 rocket launch and expanding economic sanctions against the country. ](/news/2013/01/22/the-united-nations-security-council-passes-resolution-2087-condemning-north-korea-s-december-2012-rocket-launch-and-expanding-economic-sanc.md)
 The United States hascirculated a draft resolution to the U.N. Security Council thatwould condemn North Korea for its December rocket launch andcalls for tightening existing U.N. sanctions, diplomats said onMonday.

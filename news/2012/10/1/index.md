@@ -25,7 +25,7 @@ _Context: Bahrain, Bahraini uprising (2011-present)_
 _Context: Pussy Riot, Russia_
 
 ### [Chinese authorities close down the firm handling dissident artist Ai Weiwei's affairs, possibly saving him from paying the remainder of a 15 million yuan tax fine. ](/news/2012/10/1/chinese-authorities-close-down-the-firm-handling-dissident-artist-ai-weiwei-s-affairs-possibly-saving-him-from-paying-the-remainder-of-a-15.md)
-_Context: Ai Weiwei, People's Republic of China, yuan_
+_Context: Ai Weiwei, China, yuan_
 
 ### [California becomes the first U.S. state to forbid "conversion therapy" for minors, effective January 1st, 2013. ](/news/2012/10/1/california-becomes-the-first-u-s-state-to-forbid-conversion-therapy-for-minors-effective-january-1st-2013.md)
 California to be first state to ban a controversial form of psychotherapy aimed at making gay teenagers straight.

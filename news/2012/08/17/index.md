@@ -25,7 +25,7 @@ The newfound spider family is being named trogloraptor, meaning &quot;cave robbe
 People are dying in large numbers in a refugee camp in South Sudan, a medical charity says, describing the situation as a humanitarian disaster.
 
 ### [Jang Song-thaek, the uncle of North Korean leader Kim Jong-un, meets Chinese president Hu Jintao. ](/news/2012/08/17/jang-song-thaek-the-uncle-of-north-korean-leader-kim-jong-un-meets-chinese-president-hu-jintao.md)
-_Context: Hu Jintao, Jang Song-thaek, Kim Jong-un, North Korea, People's Republic of China_
+_Context: China, Hu Jintao, Jang Song-thaek, Kim Jong-un, North Korea_
 
 ### [Russia:A Moscow court convicts three members of Russian punk band Pussy Riot of "hooliganism motivated by religious hatred and enmity" and jails them for two years. ](/news/2012/08/17/russia-pa-moscow-court-convicts-three-members-of-russian-punk-band-pussy-riot-of-hooliganism-motivated-by-religious-hatred-and-enmity-and.md)
 Court sentences three members of band to two-year jail terms for performing protest song in a church.

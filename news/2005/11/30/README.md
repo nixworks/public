@@ -19,7 +19,7 @@ Victory in Iraq is a vital U.S. interest, says a new policy document, &quot;Nati
 _Context: French, face transplant_
 
 ### [ Death toll in northeast China coal mine blast reaches 150. ](/news/2005/11/30/death-toll-in-northeast-china-coal-mine-blast-reaches-150.md)
-_Context: People's Republic of China, coal mine, death toll_
+_Context: China, coal mine, death toll_
 
 ### [ Giovanni Prezioso, the General Counsel of the U.S. Securities and Exchange Commission, announces that he's leaving that post, although he'll remain until early 2006 to aid with the transition. ](/news/2005/11/30/giovanni-prezioso-the-general-counsel-of-the-u-s-securities-and-exchange-commission-announces-that-he-s-leaving-that-post-although-he-l.md)
 _Context: General Counsel, Giovanni Prezioso, SEC_

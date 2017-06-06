@@ -10,7 +10,7 @@ Most of those killed had been kidnapped and were later shot dead with their corp
 At least four killed and 26 injured in the attack near Umayyad Mosque in Damascus, state media reported.
 
 ### [Senkaku Islands dispute:China deploys fighter jets to the Chinese Air Defense Identification Zone, as tensions escalate further over the disputed islands in the East China Sea. ](/news/2013/11/29/senkaku-islands-dispute-pchina-deploys-fighter-jets-to-the-chinese-air-defense-identification-zone-as-tensions-escalate-further-over-the-di.md)
-_Context: Air Defense Identification Zone, East China Sea, People's Republic of China, Senkaku Islands dispute_
+_Context: Air Defense Identification Zone, China, East China Sea, Senkaku Islands dispute_
 
 ### [Three previously unpublished short stories by J. D. Salinger are leaked online against the late author's wishes. ](/news/2013/11/29/three-previously-unpublished-short-stories-by-j-d-salinger-are-leaked-online-against-the-late-author-s-wishes.md)
 _Context: J. D. Salinger_

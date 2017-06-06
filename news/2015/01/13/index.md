@@ -19,7 +19,7 @@ _Context: Mozambique, contaminated beer_
 _Context: H5N8, Taiwan, World Health Organization, avian flu_
 
 ### [China sends an additional 232 People's Liberation Army medical workers to West Africa to combat the outbreak (in addition to the 78 that had previously been stationed). ](/news/2015/01/13/china-sends-an-additional-232-people-s-liberation-army-medical-workers-to-west-africa-to-combat-the-outbreak-in-addition-to-the-78-that-had.md)
-_Context: Ebola virus epidemic in West Africa, People's Republic of China, West Africa, military_
+_Context: China, Ebola virus epidemic in West Africa, West Africa, military_
 
 ### [Pope Francis arrives in Sri Lanka to begin a six day Asian tour. ](/news/2015/01/13/pope-francis-arrives-in-sri-lanka-to-begin-a-six-day-asian-tour.md)
 _Context: Asia, Pope Francis, Sri Lanka_

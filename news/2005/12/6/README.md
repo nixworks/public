@@ -22,7 +22,7 @@ _Context: Red Cross, Red Crystal_
 _Context: Iraq, President, Saddam Hussein, deposed_
 
 ### [ At least 123 miners are missing following an explosion at a coal mine in China's Hebei province, the official Xinhua news agency says. ](/news/2005/12/6/at-least-123-miners-are-missing-following-an-explosion-at-a-coal-mine-in-china-s-hebei-province-the-official-xinhua-news-agency-says.md)
-_Context: Hebei, People's Republic of China, province_
+_Context: China, Hebei, province_
 
 ### [ South Africa's axed deputy president Jacob Zuma, who lost his job in post-apartheid South Africa's most sensational corruption scandal, has been charged with rape. ](/news/2005/12/6/south-africa-s-axed-deputy-president-jacob-zuma-who-lost-his-job-in-post-apartheid-south-africa-s-most-sensational-corruption-scandal-has.md)
 _Context: Deputy President, Jacob Zuma, South Africa, rape_

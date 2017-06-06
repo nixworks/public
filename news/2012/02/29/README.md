@@ -1,7 +1,7 @@
 ## [2012-02-29](/news/2012/02/29/index.md)
 
 ### [Violence in the Xinjiang region of China leaves 20 people dead. ](/news/2012/02/29/violence-in-the-xinjiang-region-of-china-leaves-20-people-dead.md)
-_Context: People's Republic of China, Xinjiang_
+_Context: China, Xinjiang_
 
 ### [Syria:A United Nations official claims that Syrian government activities have caused "well over 7,500 deaths" in the Syrian uprising. ](/news/2012/02/29/syria-pa-united-nations-official-claims-that-syrian-government-activities-have-caused-well-over-7-500-deaths-in-the-syrian-uprising.md)
 Heavy fighting raged near Baba Amro in Homs on Wednesday after elite Syrian troops attacked the rebel-held bastion that has endured 25 days of siege and fierce bombardment, activists said.

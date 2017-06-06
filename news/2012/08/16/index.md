@@ -22,7 +22,7 @@ _Context: Brussels, Doel Nuclear Power Station, Krupp, Nuclear regulators, Rotte
 Mayor of Dallas city announces emergency after mosquito-borne West Nile virus claims 17 lives.
 
 ### [Japan is to deport 14 pro-China activists who landed on the disputed Senkaku Islands. ](/news/2012/08/16/japan-is-to-deport-14-pro-china-activists-who-landed-on-the-disputed-senkaku-islands.md)
-_Context: Japan, People's Republic of China, Senkaku Islands_
+_Context: China, Japan, Senkaku Islands_
 
 ### [The U.S. State Department calls the UN Secretary-General's decision to attend the 120-member Non-Aligned Movement summit "strange" and "not a good signal". ](/news/2012/08/16/the-u-s-state-department-calls-the-un-secretary-general-s-decision-to-attend-the-120-member-non-aligned-movement-summit-strange-and-not.md)
 _Context: Non-Aligned Movement summit, State Department, UN Secretary General_

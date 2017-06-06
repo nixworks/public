@@ -43,7 +43,7 @@ The Pakistani schoolgirl activist shot in the head by the Taliban is discharged 
 _Context: 2012 Delhi gang rape case, Bangladesh, Nepal, Pakistan, Sri Lanka, sexual violence_
 
 ### [Journalists in China call for the resignation of the propaganda chief in Guangdong province over "excessive censorship" amid the closure of a liberal website. ](/news/2013/01/4/journalists-in-china-call-for-the-resignation-of-the-propaganda-chief-in-guangdong-province-over-excessive-censorship-amid-the-closure-of.md)
-_Context: Censorship in China, Guangdong province, People's Republic of China, liberal_
+_Context: Censorship in China, China, Guangdong province, liberal_
 
 ### [The Venezuelan government announces that president Hugo Chavez is being treated for a "respiratory deficiency" after complications from a severe lung infection. ](/news/2013/01/4/the-venezuelan-government-announces-that-president-hugo-cha-vez-is-being-treated-for-a-respiratory-deficiency-after-complications-from-a-s.md)
 _Context: Hugo Chavez, Venezuela, lung infection_

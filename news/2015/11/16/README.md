@@ -22,7 +22,7 @@ Federal and state authorities announced a $95.5-million settlement Monday with t
 Liberty Global announces &pound;3.5bn deal to buy London-listed cable provider as billionaire John Malone plans further expansion in Latin America and the Caribbean
 
 ### [The death toll from a landslide in a village in China's Zhejiang province rises to 25 with 12 people still missing. ](/news/2015/11/16/the-death-toll-from-a-landslide-in-a-village-in-china-s-zhejiang-province-rises-to-25-with-12-people-still-missing.md)
-_Context: People's Republic of China, Zhejiang_
+_Context: China, Zhejiang_
 
 ### [  Floods in Sri Lanka and the southern Indian state of Tamil Nadu cause over 70 deaths with the city of Chennai worst affected. ](/news/2015/11/16/floods-in-sri-lanka-and-the-southern-indian-state-of-tamil-nadu-cause-over-70-deaths-with-the-city-of-chennai-worst-affected.md)
 Reports suggest at least 71 people have died from drowning, collapsing walls and electrocution

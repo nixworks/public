@@ -31,7 +31,7 @@ _Context: Gaza Strip, Hamas, boycott_
 _Context: Israel, Trojan horse, computer virus, hackers, industrial espionage, police_
 
 ### [ China and Japan have opened two days of closed-door negotiations in Beijing aimed at resolving a long-running dispute over natural gas drilling rights in a disputed area of the East China Sea ](/news/2005/05/31/china-and-japan-have-opened-two-days-of-closed-door-negotiations-in-beijing-aimed-at-resolving-a-long-running-dispute-over-natural-gas-dril.md)
-_Context: Beijing, East China Sea, Japan, People's Republic of China_
+_Context: Beijing, China, East China Sea, Japan_
 
 ### [ In France, the Prime Minister Jean-Pierre Raffarin resigns following the country's rejection of the Treaty establishing a Constitution for Europe. In an expected move, President Jacques Chirac appoints Interior Minister Dominique de Villepin to succeed him. ](/news/2005/05/31/in-france-the-prime-minister-jean-pierre-raffarin-resigns-following-the-country-s-rejection-of-the-treaty-establishing-a-constitution-for.md)
 Get the latest breaking news and top news headlines at Reuters.com

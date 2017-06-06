@@ -10,7 +10,7 @@ Officials say there has been an unsuccessful attack on a Panama-flagged containe
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [A 5.9-magnitude earthquake kills at least four people in southwestern China. ](/news/2013/09/1/a-5-9-magnitude-earthquake-kills-at-least-four-people-in-southwestern-china.md)
-_Context: People's Republic of China_
+_Context: China_
 
 ### [The controversial spiritual guru Asaram Bapu is arrested on a rape charge filed by a teenage girl in northwest India. ](/news/2013/09/1/the-controversial-spiritual-guru-asaram-bapu-is-arrested-on-a-rape-charge-filed-by-a-teenage-girl-in-northwest-india.md)
 Police say they have arrested a controversial spiritual guru on a rape charge filed by a teen-age girl in northwest India.

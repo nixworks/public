@@ -25,7 +25,7 @@ Chairman of Fosun group Guo Guangchang – known as China’s Warren Buffett –
 Chemical titans DuPont and Dow Chemical Co have agreed to combine in an all-stock merger valued at $130 billion in a first step toward breaking up into three separate businesses, a move that pleased activist investors and could trigger more consolidation.
 
 ### [China's Alibaba Group Holding Limited acquires Hong Kong's largest English-language newspaper, the ''South China Morning Post'', in a deal reported to be worth about $100 million. ](/news/2015/12/11/china-s-alibaba-group-holding-limited-acquires-hong-kong-s-largest-english-language-newspaper-the-south-china-morning-post-in-a-deal-r.md)
-_Context: Alibaba Group Holding Limited, English, Hong Kong, People's Republic of China, South China Morning Post, newspaper_
+_Context: Alibaba Group Holding Limited, China, English, Hong Kong, South China Morning Post, newspaper_
 
 ### [Major UK-based reinsurance broker Aon Benfield estimates India has suffered over US$3 billion (over Rs. 200 billion) worth of losses as a result of the flooding, and rates them as the costliest floods and the eighth-costliest natural disaster of 2015.](/news/2015/12/11/major-uk-based-reinsurance-broker-aon-benfield-estimates-india-has-suffered-over-us-3-billion-over-rs-200-billion-worth-of-losses-as-a-re.md)
 Reinsurance broker Aon Benfield says the country suffered a $3 bn loss to its economy from severe rainfall and flooding in November and early December

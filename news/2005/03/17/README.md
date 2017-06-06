@@ -16,7 +16,7 @@ _Context: Iraq, Transparency International, anti-corruption_
 _Context: Geneva, NGO, Swiss, World Water Forum, privatization, water_
 
 ### [ In China, a bus explosion kills about 30 people in Jiangxi province. ](/news/2005/03/17/in-china-a-bus-explosion-kills-about-30-people-in-jiangxi-province.md)
-_Context: Jiangxi, People's Republic of China, bus_
+_Context: China, Jiangxi, bus_
 
 ### [ In Bolivia, opposition leader Evo Morales calls off blockades against the government of Carlos Mesa after it raises taxes of foreign energy companies. ](/news/2005/03/17/in-bolivia-opposition-leader-evo-morales-calls-off-blockades-against-the-government-of-carlos-mesa-after-it-raises-taxes-of-foreign-energy.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

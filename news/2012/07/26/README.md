@@ -19,7 +19,7 @@ Ivorian president Alassane Ouattara says cancellation of the debt will help the 
 _Context: North Korea, Tropical Storm Khanun_
 
 ### [Officials in Beijing raise the death toll from weekend flooding to 77 after rescuers located additional bodies. This follows criticism, including from the Chinese state media, of the city's handling of the storm.](/news/2012/07/26/officials-in-beijing-raise-the-death-toll-from-weekend-flooding-to-77-after-rescuers-located-additional-bodies-this-follows-criticism-incl.md)
-_Context: Beijing, People's Republic of China_
+_Context: Beijing, China_
 
 ### [Former Chinese political leader Bo Xilai's wife, Gu Kailai, and their employee Zhang Xiaojun are charged with murder of British businessman Neil Heywood. ](/news/2012/07/26/former-chinese-political-leader-bo-xilai-s-wife-gu-kailai-and-their-employee-zhang-xiaojun-are-charged-with-murder-of-british-businessman.md)
 The wife of disgraced Chinese political leader Bo Xilai is charged with murdering UK businessman Neil Heywood, state news agency Xinhua reports.

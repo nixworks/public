@@ -1,7 +1,7 @@
 ## [2014-09-26](/news/2014/09/26/index.md)
 
 ### [The People's Republic of China says that 50 people died in recent violence in the western province of Xinjiang. ](/news/2014/09/26/the-people-s-republic-of-china-says-that-50-people-died-in-recent-violence-in-the-western-province-of-xinjiang.md)
-_Context: People's Republic of China, Xinjiang_
+_Context: China, Xinjiang_
 
 ### [The Parliament of the United Kingdom is recalled to discuss British participation in 2014 military intervention against ISIS. ](/news/2014/09/26/the-parliament-of-the-united-kingdom-is-recalled-to-discuss-british-participation-in-2014-military-intervention-against-isis.md)
 David Cameron insists that there is no legal barrier to extending air-strikes in Syria and they could go ahead without a Commons vote

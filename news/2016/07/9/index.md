@@ -13,7 +13,7 @@ A Russian military helicopter has been shot down by Isis near Palmyra, Syria, ki
 Power is being restored in parts of Taiwan after a powerful typhoon slammed into the island&#039;s eastern coast with ferocious winds and torrential rains, killing two people and injuring 72.
 
 ### [Ahead of a court decision by the Permanent Court of Arbitration, China holds a naval drill in the disputed South China Sea raising tensions in the region. ](/news/2016/07/9/ahead-of-a-court-decision-by-the-permanent-court-of-arbitration-china-holds-a-naval-drill-in-the-disputed-south-china-sea-raising-tensions.md)
-_Context: International reactions to ''Philippines v. China'', People's Republic of China, Permanent Court of Arbitration's, Philippines v. China, South China Sea_
+_Context: China, International reactions to ''Philippines v. China'', Permanent Court of Arbitration's, Philippines v. China, South China Sea_
 
 ### [South Korea claims that North Korea has fired a ballistic missile from a submarine. ](/news/2016/07/9/south-korea-claims-that-north-korea-has-fired-a-ballistic-missile-from-a-submarine.md)
 _Context: North Korea, North Korea and weapons of mass destruction, South Korea, ballistic missile_

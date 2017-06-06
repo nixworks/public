@@ -10,7 +10,7 @@ _Context: ECOWAS, Nigeria, Togo, coup_
 _Context: Lebanese Prime Minister, Lebanon, Margaret Scobey, Rafik Hariri, Syria, ambassador, assassinated_
 
 ### [ At least 209 people die in a mining disaster in Fuxin City, in China's north-eastern Liaoning province. During the first nine months of 2004, an average of 15 people died every day in China's mines. ](/news/2005/02/15/at-least-209-people-die-in-a-mining-disaster-in-fuxin-city-in-china-s-north-eastern-liaoning-province-during-the-first-nine-months-of-200.md)
-_Context: 2004, Fuxin City, Liaoning, People's Republic of China, mine, province_
+_Context: 2004, China, Fuxin City, Liaoning, mine, province_
 
 ### [ The European Court of Human Rights, deciding about the so-called McLibel case, rules in favour of environmental campaigners Helen Steel and David Morris and their claim that their trial was unfair. The pair said their human rights were violated when their criticism of McDonald's was ruled  libel. The case has taken 15 years. ](/news/2005/02/15/the-european-court-of-human-rights-deciding-about-the-so-called-mclibel-case-rules-in-favour-of-environmental-campaigners-helen-steel-and.md)
 _Context: European Court of Human Rights, Human rights, McDonald's, McLibel case, libel_

@@ -19,7 +19,7 @@ The United States has carried out a fresh delivery of ammunition to fighters fro
 _Context: Daily fantasy sports, DraftKings, FanDuel, New York, United Kingdom_
 
 ### [The death toll from a landslide on Friday in China's Zhejiang province rises to 16 with 21 still missing. ](/news/2015/11/15/the-death-toll-from-a-landslide-on-friday-in-china-s-zhejiang-province-rises-to-16-with-21-still-missing.md)
-_Context: People's Republic of China, Zhejiang_
+_Context: China, Zhejiang_
 
 ### [Heavy rain leads to warnings of floods in mid and north Wales. ](/news/2015/11/15/heavy-rain-leads-to-warnings-of-floods-in-mid-and-north-wales.md)
 Hundreds of homes were left without power while roads and trains were affected by flooding after storms battered Wales.

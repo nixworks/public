@@ -19,7 +19,7 @@ The Supreme Court on Monday upheld a tough state law requiring voters to show ph
 _Context: Berkshire Hathaway, Mars Canada Inc., US$, Warren Buffett, Wm. Wrigley Jr. Company, chewing gum_
 
 ### [ Two passenger trains collide in Zibo in Shandong province in eastern China resulting in the deaths of at least 71 people. ](/news/2008/04/28/two-passenger-trains-collide-in-zibo-in-shandong-province-in-eastern-china-resulting-in-the-deaths-of-at-least-71-people.md)
-_Context: People's Republic of China, Shandong, Zibo, passenger trains collide_
+_Context: China, Shandong, Zibo, passenger trains collide_
 
 ## [Previous Day...](/news/2008/04/27/index.md)
 

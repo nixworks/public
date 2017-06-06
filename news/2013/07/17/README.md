@@ -13,7 +13,7 @@ Kurdish militants look for victory over Islamist rebels in Ras al-Ayn as the Tur
 A bomb blast in a teahouse in the northern Iraqi city of Mosul killed at least seven people on Wednesday, police and medics said.
 
 ### [At least 58 people are dead and 175 missing in floods in China's Sichuan province. ](/news/2013/07/17/at-least-58-people-are-dead-and-175-missing-in-floods-in-china-s-sichuan-province.md)
-_Context: People's Republic of China, Sichuan, floods_
+_Context: China, Sichuan, floods_
 
 ### [A heat wave settles over the United States with at least one death reported. ](/news/2013/07/17/a-heat-wave-settles-over-the-united-states-with-at-least-one-death-reported.md)
 _Context: U.S., heat wave_

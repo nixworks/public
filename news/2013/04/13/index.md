@@ -16,7 +16,7 @@ More than 100 airline passengers escaped with their lives on Saturday when a pla
 _Context: Honduras, Tegucigalpa, forest fire, main airport, smoke_
 
 ### [A seven-year-old girl is confirmed as the first person in Beijing, China, to catch the Influenza A virus subtype H7N9 bird flu. ](/news/2013/04/13/a-seven-year-old-girl-is-confirmed-as-the-first-person-in-beijing-china-to-catch-the-influenza-a-virus-subtype-h7n9-bird-flu.md)
-_Context: Beijing, H7N9 avian flu virus, People's Republic of China, bird flu, girl_
+_Context: Beijing, China, H7N9 avian flu virus, bird flu, girl_
 
 ### [2013 Korean crisis:South Korean police stop a planned launch of anti-North Korean leaflets across the border, as the government of South Korea seeks to open dialogue with the North and defuse soaring tensions in the Korean Peninsula. ](/news/2013/04/13/2013-korean-crisis-psouth-korean-police-stop-a-planned-launch-of-anti-north-korean-leaflets-across-the-border-as-the-government-of-south-ko.md)
 South Korean police on Saturday stopped a planned launch of anti-North Korea leaflets across the border, an activist said, as Seoul seeks to open dialogue and defuse soaring tensions with Pyongyang.
@@ -25,7 +25,7 @@ South Korean police on Saturday stopped a planned launch of anti-North Korea lea
 _Context: Iranian Army, nuclear scientist, rocket_
 
 ### [China and the United States agree to collaborate on resolving cybersecurity issues between the two countries. ](/news/2013/04/13/china-and-the-united-states-agree-to-collaborate-on-resolving-cybersecurity-issues-between-the-two-countries.md)
-_Context: People's Republic of China, U.S., cybersecurity_
+_Context: China, U.S., cybersecurity_
 
 ### [Russia bans 18 American diplomats from entering the country, in retaliation for similar restrictions placed on 18 Russian officials by the Magnitsky Act. ](/news/2013/04/13/russia-bans-18-american-diplomats-from-entering-the-country-in-retaliation-for-similar-restrictions-placed-on-18-russian-officials-by-the-m.md)
 _Context: Magnitsky Act, Russia, U.S., diplomat_

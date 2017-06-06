@@ -40,7 +40,7 @@ An intemperate remark from Rodrigo Duterte derailed a bilateral meeting.
 North Korea fires three ballistic missiles into the sea off its east coast, South Korea says.
 
 ### [''Philippines v. China''Chinese vessels are seen positioned near the disputed Scarborough Shoal off the coast of the Philippines. ](/news/2016/09/5/philippines-v-china-pchinese-vessels-are-seen-positioned-near-the-disputed-scarborough-shoal-off-the-coast-of-the-philippines.md)
-_Context: People's Republic of China, Philippines v. China, Scarborough Shoal, Territorial disputes in the South China Sea_
+_Context: China, Philippines v. China, Scarborough Shoal, Territorial disputes in the South China Sea_
 
 ### [Nathan Law becomes the youngest-ever Hong Kong legislator at age 23. ](/news/2016/09/5/nathan-law-becomes-the-youngest-ever-hong-kong-legislator-at-age-23.md)
 Nathan Law Kwun-chung, a 23-year-old pro-independence candidate has just been elected to Hong Kong&#39;s legislature.

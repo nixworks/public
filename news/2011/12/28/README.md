@@ -31,7 +31,7 @@ The US Navy says it will not tolerate disruption to a vital oil route as Iran th
 _Context: African Union, Guinea-Bissau, Jean Ping, coup d'tat_
 
 ### [In China, 54 government officials and the Ministry of Railways are punished over a fatal high-speed rail crash in July. ](/news/2011/12/28/in-china-54-government-officials-and-the-ministry-of-railways-are-punished-over-a-fatal-high-speed-rail-crash-in-july.md)
-_Context: People's Republic of China, Railways Minister, fatal high-speed rail crash_
+_Context: China, Railways Minister, fatal high-speed rail crash_
 
 ### [An Egyptian court bans forced virginity tests on female detainees in military prisons. ](/news/2011/12/28/an-egyptian-court-bans-forced-virginity-tests-on-female-detainees-in-military-prisons.md)
 Court order abolishes mandatory examinations of female detainees in military prisons.
@@ -52,7 +52,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 Republican presidential candidates gang up on rival Ron Paul as a poll gives him the lead in the state of Iowa, which holds the first caucus next week.
 
 ### [China's Compass satellite navigation system, a rival to the American Global Positioning System (GPS), becomes operational, offering navigation services on the Chinese mainland. The system is expected to become available worldwide by 2020. ](/news/2011/12/28/china-s-compass-satellite-navigation-system-a-rival-to-the-american-global-positioning-system-gps-becomes-operational-offering-navigati.md)
-_Context: Chinese mainland, Compass satellite navigation system, Global Positioning System, People's Republic of China_
+_Context: China, Chinese mainland, Compass satellite navigation system, Global Positioning System_
 
 ## [Previous Day...](/news/2011/12/27/index.md)
 

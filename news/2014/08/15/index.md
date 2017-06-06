@@ -19,7 +19,7 @@ _Context: Alibaba Group Holding Limited, buy certain U.S. consumer goods online_
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [Two Japanese cabinet ministers Keiji Furuya and Yoshitaka Shindo visit the Yasukuni Shrine to mark the 69th anniversary of Japan's surrender at the end of World War II. This visit upsets China and South Korea as the shrine contains the graves of war criminals. ](/news/2014/08/15/two-japanese-cabinet-ministers-keiji-furuya-and-yoshitaka-shindo-visit-the-yasukuni-shrine-to-mark-the-69th-anniversary-of-japan-s-surrender.md)
-_Context: Japan, Japanese, Keiji Furuya, People's Republic of China, South Korea, World War II, Yasukuni Shrine, Yoshitaka Shindo, surrender_
+_Context: China, Japan, Japanese, Keiji Furuya, South Korea, World War II, Yasukuni Shrine, Yoshitaka Shindo, surrender_
 
 ### [The Philippines and the Moro Islamic Liberation Front reach a consensus regarding the creation of Bangsamoro. ](/news/2014/08/15/the-philippines-and-the-moro-islamic-liberation-front-reach-a-consensus-regarding-the-creation-of-bangsamoro.md)
 _Context: Bangsamoro, Moro Islamic Liberation Front, Philippines_

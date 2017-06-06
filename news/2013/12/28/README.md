@@ -16,7 +16,7 @@ A fire broke out on an express train in southern India early Saturday and killed
 _Context: Avsallar, Mediterranean Sea, Turkey, earthquake_
 
 ### [The Chinese icebreaker ''Xue Long'', or "Snow Dragon", was only six nautical miles away from the Russian-flagged vessel ''Akademik Shokalskiy'' when it too became obstructed by heavy ice in Antarctica. ](/news/2013/12/28/the-chinese-icebreaker-xua-la3ng-or-snow-dragon-was-only-six-nautical-miles-away-from-the-russian-flagged-vessel-akademik-shokals.md)
-_Context: Akademik Shokalskiy, Antarctica, People's Republic of China, Russia, Xue Long, nautical miles_
+_Context: Akademik Shokalskiy, Antarctica, China, Russia, Xue Long, nautical miles_
 
 ### [Russia's Soyuz-2-1v rocket makes its maiden flight. ](/news/2013/12/28/russia-s-soyuz-2-1v-rocket-makes-its-maiden-flight.md)
 _Context: Soyuz-2-1v_

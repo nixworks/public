@@ -16,7 +16,7 @@ They chose Jackson Park near the University of Chicago on the city&#039;s South 
 Britain’s economy has posted its 14th consecutive quarter of growth, but some economists fear turbulence ahead
 
 ### [China claims to have discovered the largest undersea hole dubbed "The Dragon's Hole" in the disputed Paracel Islands. ](/news/2016/07/27/china-claims-to-have-discovered-the-largest-undersea-hole-dubbed-the-dragon-s-hole-in-the-disputed-paracel-islands.md)
-_Context: Paracel Islands, People's Republic of China, The Dragon's Hole_
+_Context: China, Paracel Islands, The Dragon's Hole_
 
 ### [Facebook beats earnings expectations. ](/news/2016/07/27/facebook-beats-earnings-expectations.md)
 Facebook posted quarterly earnings and revenue that blew away analyst estimates as its ad business flourished.

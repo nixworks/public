@@ -7,7 +7,7 @@ _Context: Pakistan, Peshawar, Terrorism in Pakistan, U.S., consulate_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [The electronic music band Kraftwerk is not allowed to perform at a music festival in China due to unspecified "political reasons". ](/news/2013/03/29/the-electronic-music-band-kraftwerk-is-not-allowed-to-perform-at-a-music-festival-in-china-due-to-unspecified-political-reasons.md)
-_Context: Kraftwerk, People's Republic of China, electronic music_
+_Context: China, Kraftwerk, electronic music_
 
 ### [After 25 years on the air, the American TV show ''America's Most Wanted'' is cancelled. ](/news/2013/03/29/after-25-years-on-the-air-the-american-tv-show-america-s-most-wanted-is-cancelled.md)
 _Context: America's Most Wanted, TV show_
@@ -19,7 +19,7 @@ Cyprus President Nicos Anastasiades says the island will not leave the euro, as 
 At least three people are killed and dozens more trapped after a multi-storey building collapses in the main Tanzanian city, Dar es Salaam, rescuers say.
 
 ### [2013 Gyama Mine landslide: A large landslide buries 83 gold miners in China's Tibetan Autonomous Region near Lhasa. ](/news/2013/03/29/2013-gyama-mine-landslide-a-large-landslide-buries-83-gold-miners-in-china-s-tibetan-autonomous-region-near-lhasa.md)
-_Context: 2013 Gyama Mine landslide, Lhasa, People's Republic of China, Tibet, landslide_
+_Context: 2013 Gyama Mine landslide, China, Lhasa, Tibet, landslide_
 
 ### [More than 220 people are rescued from two ice floes that broke off of Latvia and were blown into the Gulf of Riga. ](/news/2013/03/29/more-than-220-people-are-rescued-from-two-ice-floes-that-broke-off-of-latvia-and-were-blown-into-the-gulf-of-riga.md)
 _Context: Gulf of Riga, Latvia, ice floes_

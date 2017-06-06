@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 Trading ceased in all Nasdaq-listed securities Thursday after the electronic exchange experienced a technical glitch. Trading resumed at about 3:25 p.m. ET. Nasdaq vowed to take necessary steps to enhance the platform.
 
 ### [Severe tropical storm Trami arrives in southern China after killing seventeen people in the Philippines. ](/news/2013/08/22/severe-tropical-storm-trami-arrives-in-southern-china-after-killing-seventeen-people-in-the-philippines.md)
-_Context: 2013 Pacific typhoon season, People's Republic of China, Philippines_
+_Context: 2013 Pacific typhoon season, China, Philippines_
 
 ### [At least 50 are injured in bus crash in Monterey Park, California. ](/news/2013/08/22/at-least-50-are-injured-in-bus-crash-in-monterey-park-california.md)
 _Context: Monterey Park, California_

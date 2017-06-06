@@ -16,7 +16,7 @@ A coded letter written by Napoleon containing his plan to defeat the Russians se
 At least seven people are missing after a major road tunnel collapses west of Tokyo, trapping a number of vehicles, Japanese media say.
 
 ### [16 miners are trapped underground after a coal mine was flooded in northeast China's Heilongjiang province. ](/news/2012/12/2/16-miners-are-trapped-underground-after-a-coal-mine-was-flooded-in-northeast-china-s-heilongjiang-province.md)
-_Context: Heilongjiang province, People's Republic of China, coal mine, miner_
+_Context: China, Heilongjiang province, coal mine, miner_
 
 ### [The Philippines warns citizens about Typhoon Bopha expected to make landfall on Tuesday, December 4. ](/news/2012/12/2/the-philippines-warns-citizens-about-typhoon-bopha-expected-to-make-landfall-on-tuesday-december-4.md)
 _Context: Philippines, Typhoon Bopha, landfall_

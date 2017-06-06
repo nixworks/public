@@ -4,7 +4,7 @@
 _Context: 2014 pro-Russian unrest in Ukraine, Ukrainian military_
 
 ### [A fire in a coal mine in China's Liaoning province kills 24 miners and injures another 52. ](/news/2014/11/26/a-fire-in-a-coal-mine-in-china-s-liaoning-province-kills-24-miners-and-injures-another-52.md)
-_Context: Liaoning province, People's Republic of China_
+_Context: China, Liaoning province_
 
 ### [A heavy storm in the eastern United States causes poor road conditions, and delays and cancellations of airline flights ahead of the Thanksgiving holidays with up to 30 million people affected. ](/news/2014/11/26/a-heavy-storm-in-the-eastern-united-states-causes-poor-road-conditions-and-delays-and-cancellations-of-airline-flights-ahead-of-the-thanksg.md)
 _Context: Eastern U.S., Thanksgiving_

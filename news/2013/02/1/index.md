@@ -22,7 +22,7 @@ Investors will be looking out for the monthly jobs report and a swathe of data o
 A truck carrying fireworks explodes on a highway in central China, causing part of the road to collapse and leaving at least five people dead.
 
 ### [Three construction workers are killed and eight are injured after a wall collapses on a construction site in Zhoukou, Henan, China. ](/news/2013/02/1/three-construction-workers-are-killed-and-eight-are-injured-after-a-wall-collapses-on-a-construction-site-in-zhoukou-henan-china.md)
-_Context: Henan, People's Republic of China, Zhoukou_
+_Context: China, Henan, Zhoukou_
 
 ### [Metropolitan Police detective April Casburn, who tried to sell information to the ''News of the World'', regarding the investigation into phone hacking scandal, is jailed for 15 months. ](/news/2013/02/1/metropolitan-police-detective-april-casburn-who-tried-to-sell-information-to-the-news-of-the-world-regarding-the-investigation-into-ph.md)
 A Metropolitan Police detective who tried to sell information on the phone-hacking probe to the News of the World is sentenced to 15 months in prison.

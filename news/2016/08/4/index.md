@@ -28,7 +28,7 @@ South Africa&#39;s opposition DA party wins a majority in local elections in thr
 _Context: Nepal, Prime Minister, Pushpa Kamal Dahal_
 
 ### [China's unmanned lunar rover Yutu shuts down after exploring the Moon for 31 months. ](/news/2016/08/4/china-s-unmanned-lunar-rover-yutu-shuts-down-after-exploring-the-moon-for-31-months.md)
-_Context: Moon, People's Republic of China, Yutu, lunar rover_
+_Context: China, Moon, Yutu, lunar rover_
 
 ## [Previous Day...](/news/2016/08/3/index.md)
 

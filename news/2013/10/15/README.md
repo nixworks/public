@@ -31,7 +31,7 @@ Typhoon Nari knocked down trees and damaged hundreds of houses in central Vietna
 Ex-Liberian President Charles Taylor arrives in the UK to serve the remainder of his 50-year prison sentence for war crimes.
 
 ### [The perpetrator of the 2013 Beijing Capital International Airport bombing Ji Zhongxing is sentenced to 6 years imprisonment by a Chinese court. ](/news/2013/10/15/the-perpetrator-of-the-2013-beijing-capital-international-airport-bombing-ji-zhongxing-is-sentenced-to-6-years-imprisonment-by-a-chinese-cou.md)
-_Context: 2013 Beijing Capital International Airport bombing, People's Republic of China_
+_Context: 2013 Beijing Capital International Airport bombing, China_
 
 ## [Previous Day...](/news/2013/10/14/index.md)
 

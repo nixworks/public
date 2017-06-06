@@ -13,7 +13,7 @@ _Context: Italy, Moroccan, Perugia_
 _Context: Royal Air Force, Summer 2007 United Kingdom floods, UK, flood_
 
 ### [ The death toll of recent floods in China rises to 40. ](/news/2007/07/21/the-death-toll-of-recent-floods-in-china-rises-to-40.md)
-_Context: People's Republic of China, flood_
+_Context: China, flood_
 
 ### [ NASA mission scientists raise concerns that ongoing prolonged Martian dust storms could disable the Mars Exploration Rovers. ](/news/2007/07/21/nasa-mission-scientists-raise-concerns-that-ongoing-prolonged-martian-dust-storms-could-disable-the-mars-exploration-rovers.md)
 _Context: Mars Exploration Rover, Mars' atmosphere, NASA_

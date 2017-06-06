@@ -28,7 +28,7 @@ _Context: European Union, Myanmar_
 _Context: North Korea, South Korea, failed North Korean rocket launch_
 
 ### [In accordance with a request from the South Korean government, China stops the deportation of North Korean defectors who escape to China. ](/news/2012/04/23/in-accordance-with-a-request-from-the-south-korean-government-china-stops-the-deportation-of-north-korean-defectors-who-escape-to-china.md)
-_Context: People's Republic of China, defectors_
+_Context: China, defectors_
 
 ### [Former Icelandic prime minister Geir Haarde is found not guilty of negligence over the island's 2008 economic meltdown. He is to face no punishment and his legal expenses are to be paid. ](/news/2012/04/23/former-icelandic-prime-minister-geir-haarde-is-found-not-guilty-of-negligence-over-the-island-s-2008-economic-meltdown-he-is-to-face-no-pun.md)
 Former Icelandic PM Geir Haarde is cleared of the main charge of negligence over the 2008 financial crisis, but is found guilty on a lesser charge
@@ -46,7 +46,7 @@ The police chief who chose not to arrest George Zimmerman after he shot and kill
 _Context: John Edwards, North Carolina, United States Senate, an affair_
 
 ### [Around 45 people are detained across China in a tainted capsule medicine scandal. ](/news/2012/04/23/around-45-people-are-detained-across-china-in-a-tainted-capsule-medicine-scandal.md)
-_Context: People's Republic of China_
+_Context: China_
 
 ### [Three men appear in court in the town of Newry in Northern Ireland to face charges of threatening to kill, INLA membership and blackmail. ](/news/2012/04/23/three-men-appear-in-court-in-the-town-of-newry-in-northern-ireland-to-face-charges-of-threatening-to-kill-inla-membership-and-blackmail.md)
 Three men appear in court in Newry charged with involvement in terrorist activity.

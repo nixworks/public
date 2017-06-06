@@ -10,7 +10,7 @@ Two killed, including alleged head of rebellion, as army takes back control of m
 Car bombs in two towns south of Baghdad and in the Iraqi city of Najaf killed a total of 20 people on Sunday and wounded 80, police and hospital sources said, in one of the most violent days of the past two weeks.
 
 ### [At least 37 people are killed in torrential rains in the Chinese capital Beijing. ](/news/2012/07/22/at-least-37-people-are-killed-in-torrential-rains-in-the-chinese-capital-beijing.md)
-_Context: Beijing, People's Republic of China_
+_Context: Beijing, China_
 
 ### [A moderately strong earthquake with a magnitude of 5.0  hits Kahramanmaras, Turkey.  ](/news/2012/07/22/a-moderately-strong-earthquake-with-a-magnitude-of-5-0-hits-kahramanmaraa-turkey.md)
 _Context: Kahramanmaras, Turkey_

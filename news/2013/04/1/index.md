@@ -16,13 +16,13 @@ Every April 1, the Web explodes with nonsense. Here is a rundown of many of 2013
 _Context: Buckwild, reality TV_
 
 ### [At least six people are killed in a explosion at a coal mine near Baishan, China. ](/news/2013/04/1/at-least-six-people-are-killed-in-a-explosion-at-a-coal-mine-near-baishan-china.md)
-_Context: Baishan, People's Republic of China, coal mine_
+_Context: Baishan, China, coal mine_
 
 ### [India's Supreme Court rejects a plea by Novartis to patent an updated version of its cancer drug, Glivec (Imatinib), amid concerns that a patent could threaten access to cheap generic versions of drugs in poorer countries. ](/news/2013/04/1/india-s-supreme-court-rejects-a-plea-by-novartis-to-patent-an-updated-version-of-its-cancer-drug-glivec-imatinib-amid-concerns-that-a-pa.md)
 Production of cheap copycat drugs for H.I.V. and cancer used by people in developing countries in Africa and Asia was ensured on Monday in a ruling by India’s Supreme Court.
 
 ### [Apple Inc. publishes a letter, signed by CEO Tim Cook, to Chinese customers, to address the growing controversy over the company's warranty policies in the country. ](/news/2013/04/1/apple-inc-publishes-a-letter-signed-by-ceo-tim-cook-to-chinese-customers-to-address-the-growing-controversy-over-the-company-s-warranty.md)
-_Context: Apple Inc., CEO, People's Republic of China, Tim Cook_
+_Context: Apple Inc., CEO, China, Tim Cook_
 
 ### [Privately owned newspapers go on sale in Myanmar for the first time since 1964. ](/news/2013/04/1/privately-owned-newspapers-go-on-sale-in-myanmar-for-the-first-time-since-1964.md)
 Private newspapers are published in Burma for the first time in almost 50 years, as the latest in a series of democratic reforms comes into effect.
@@ -31,7 +31,7 @@ Private newspapers are published in Burma for the first time in almost 50 years,
 _Context: 2013 Korean crisis, Kim Jong-un, North Korea, Parliament, Pyongyang, South Korea, Supreme People's Assembly, U.S._
 
 ### [Japan accuses three Chinese surveillance ships of entering the territorial waters of Tokyo-controlled Senkaku Islands. ](/news/2013/04/1/japan-accuses-three-chinese-surveillance-ships-of-entering-the-territorial-waters-of-tokyo-controlled-senkaku-islands.md)
-_Context: Japan, People's Republic of China, Senkaku Islands, Tokyo, surveillance, territorial waters_
+_Context: China, Japan, Senkaku Islands, Tokyo, surveillance, territorial waters_
 
 ### [Scotland's eight regional police forces are merged to create the nationwide Police Service of Scotland. ](/news/2013/04/1/scotland-s-eight-regional-police-forces-are-merged-to-create-the-nationwide-police-service-of-scotland.md)
 _Context: Police Service of Scotland, Scotland_

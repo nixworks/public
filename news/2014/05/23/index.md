@@ -16,10 +16,10 @@ _Context: 2014 pro-Russian unrest in Ukraine, Russia President, Ukrainian presid
 BEIRUT - In the first attack to target a campaign event, a mortar shell slammed into a tent packed with supporters of President Bashar Assad, killing 39 people and wounding 205 others, Syrian state TV said Friday. The shelling underscored deep fears in government strongholds that rebels will escalate attacks in an attempt to disrupt the balloting.
 
 ### [Russia and China veto a U.N. Security Council resolution that would have asked the International Criminal Court to investigate war crimes in Syria.  ](/news/2014/05/23/russia-and-china-veto-a-u-n-security-council-resolution-that-would-have-asked-the-international-criminal-court-to-investigate-war-crimes-in.md)
-_Context: International Criminal Court, People's Republic of China, Russia, United Nations Security Council, mass murders of thousands of political prisoner_
+_Context: China, International Criminal Court, Russia, United Nations Security Council, mass murders of thousands of political prisoner_
 
 ### [A Hubei court finds Chinese tycoon Liu Han, the former head of the conglomerate Hanlong Group, guilty of "organising and leading mafia-style crime and murder" and "obtain[ing] financial gains via illegal activities", sentencing him to death.  ](/news/2014/05/23/a-hubei-court-finds-chinese-tycoon-liu-han-the-former-head-of-the-conglomerate-hanlong-group-guilty-of-organising-and-leading-mafia-style.md)
-_Context: Hanlong Group, Hubei, People's Republic of China, sentencing him to death_
+_Context: China, Hanlong Group, Hubei, sentencing him to death_
 
 ### [2014 Isla Vista shootings. Seven people have been killed and seven injured in a series of drive-by shootings in a student enclave next to the University of California campus in the American city of Santa Barbara, California. ](/news/2014/05/23/2014-isla-vista-shootings-seven-people-have-been-killed-and-seven-injured-in-a-series-of-drive-by-shootings-in-a-student-enclave-next-to-th.md)
 _Context: 2014 Isla Vista shootings, Santa Barbara, California, University of California, drive-by shooting_

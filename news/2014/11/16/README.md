@@ -10,7 +10,7 @@ The Nigerian army says it has recaptured the north-eastern Nigerian town of Chib
 Russia plans to create its own Wikipedia to ensure its citizens have access to more detailed and reliable information about their country.
 
 ### [A fire at a food processing plant kills at least 18 workers in Shandong, China. ](/news/2014/11/16/a-fire-at-a-food-processing-plant-kills-at-least-18-workers-in-shandong-china.md)
-_Context: People's Republic of China, Shandong_
+_Context: China, Shandong_
 
 ### [US planes are warned to avoid an Alaskan volcano, Pavlof. ](/news/2014/11/16/us-planes-are-warned-to-avoid-an-alaskan-volcano-pavlof.md)
 THE US National Weather Service has warned planes to avoid airspace near an erupting Alaska volcano as it spews ash 9000 metres above sea level.

@@ -31,7 +31,7 @@ _Context: 1993 Mumbai bombings, Bollywood, Sanjay Dutt, actor, gangster, probati
 _Context: Bangladesh, India, Nepal, flood_
 
 ### [ Flood alerts are issued for Hubei province in China as the swollen Yangtze River puts the Three Gorges Dam to the test. Another 27 people have died and Beijing's airport was closed on Monday night due to heavy rain. ](/news/2007/07/31/flood-alerts-are-issued-for-hubei-province-in-china-as-the-swollen-yangtze-river-puts-the-three-gorges-dam-to-the-test-another-27-people-h.md)
-_Context: Beijing, Hubei, People's Republic of China, Three Gorges Dam, Yangtze River, flood_
+_Context: Beijing, China, Hubei, Three Gorges Dam, Yangtze River, flood_
 
 ### [ Khang Khek Ieu aka Comrade Duch, a former Khmer Rouge prison chief, has been handed over to a United Nations backed genocide tribunal. ](/news/2007/07/31/khang-khek-ieu-aka-comrade-duch-a-former-khmer-rouge-prison-chief-has-been-handed-over-to-a-united-nations-backed-genocide-tribunal.md)
 A former Khmer Rouge prison chief has been handed over to the UN-backed tribunal in Cambodia, becoming the first suspect to be detained by the court, officials said.

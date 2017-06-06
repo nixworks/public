@@ -11,7 +11,7 @@ Ecuador is evacuating people from towns and villages around the Tungurahua volca
 Two people were killed and dozens injured when a Russian airliner rolled off the runway during an emergency landing at a Moscow airport on Saturday. A Tu-154 plane with 160 passengers and eight crew m
 
 ### [10 Chinese sailors are missing and 14 others are rescued after the cargo ship MV Hong Wei founders off the southeast coast of China. ](/news/2010/12/4/10-chinese-sailors-are-missing-and-14-others-are-rescued-after-the-cargo-ship-mv-hong-wei-founders-off-the-southeast-coast-of-china.md)
-_Context: MV Hong Wei, People's Republic of China, People's Republic of China, cargo ship_
+_Context: China, MV Hong Wei, People's Republic of China, cargo ship_
 
 ### [Israeli police say negligence caused a large forest fire burning out of control in the north of the country that killed at least 40 people. ](/news/2010/12/4/israeli-police-say-negligence-caused-a-large-forest-fire-burning-out-of-control-in-the-north-of-the-country-that-killed-at-least-40-people.md)
 Negligence, not arson, is the likely cause of the deadly forest fire burning out of control in Mount Carmel, near the northern port city of Haifa, police say.

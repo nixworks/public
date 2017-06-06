@@ -28,7 +28,7 @@ _Context: Korean Peninsula, Ryukyu Islands, Typhoon, Typhoon Sanba_
 Chinese police used pepper spray, tear gas and water cannon to break up an anti-Japan protest in southern China on Sunday as demonstrators took to the streets in scores of cities across the country in a long-running row over a group of disputed islands.
 
 ### [Japan's ambassador designate to China, Shinichi Nishimiya, dies after suddenly collapsing outside his home in Tokyo on Thursday. ](/news/2012/09/16/japan-s-ambassador-designate-to-china-shinichi-nishimiya-dies-after-suddenly-collapsing-outside-his-home-in-tokyo-on-thursday.md)
-_Context: Japan, People's Republic of China, Tokyo_
+_Context: China, Japan, Tokyo_
 
 ### [US Defence Secretary Leon Panetta urges China and its neighbours not to engage in "provocative behaviour" over maritime border disputes. ](/news/2012/09/16/us-defence-secretary-leon-panetta-urges-china-and-its-neighbours-not-to-engage-in-provocative-behaviour-over-maritime-border-disputes.md)
 _Context: Leon Panetta, Secretary of Defense, U.S., maritime border disputes_

@@ -34,7 +34,7 @@ _Context: Scientology, hacker group Anonymous, protest_
 _Context: Abdurrahman Yalcinkaya, Prime Minister of Turkey, Recep Tayyip Erdogan, Turkey, ruling party_
 
 ### [ At the 11th National People's Congress, Hu Jintao is elected to a second term as the President of China, and Xi Jinping is elected Vice-President. ](/news/2008/03/15/at-the-11th-national-people-s-congress-hu-jintao-is-elected-to-a-second-term-as-the-president-of-china-and-xi-jinping-is-elected-vice-pre.md)
-_Context: 11th, Chinese President, Hu Jintao, People's Republic of China, Vice President, Xi Jinping, parliament_
+_Context: 11th, China, Chinese President, Hu Jintao, Vice President, Xi Jinping, parliament_
 
 ### [ 2008 unrest in Tibet: In reference to ongoing protests in Tibet, Chairman of the Tibet Autonomous Region Qiangba Puncog threatens to "deal harshly with these criminals who are carrying out activities to split the nation". ](/news/2008/03/15/2008-unrest-in-tibet-p-in-reference-to-ongoing-protests-in-tibet-chairman-of-the-tibet-autonomous-region-qiangba-puncog-threatens-to-deal.md)
 _Context: 2008 unrest in Tibet, Qiangba Puncog, Tibet Autonomous Region_

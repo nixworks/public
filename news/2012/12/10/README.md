@@ -16,7 +16,7 @@ _Context: Philippines, Typhoon Bopha_
 _Context: 2011 Christchurch earthquake, CTV Building, New Zealand, Royal Commission_
 
 ### [Eleven people are killed and 23 injured in Minquan County, Henan province, China, after a passenger bus swerves off the road and falls in a roadside pond. ](/news/2012/12/10/eleven-people-are-killed-and-23-injured-in-minquan-county-henan-province-china-after-a-passenger-bus-swerves-off-the-road-and-falls-in-a.md)
-_Context: Henan Province, Minquan County, People's Republic of China, bus, pond_
+_Context: China, Henan Province, Minquan County, bus, pond_
 
 ### [At least nine people are killed and at 32 others are wounded in Tolima department, Colombia, after a bus falls of a 300-meter cliff. ](/news/2012/12/10/at-least-nine-people-are-killed-and-at-32-others-are-wounded-in-tolima-department-colombia-after-a-bus-falls-of-a-300-meter-cliff.md)
 _Context: Colombia, Tolima department_

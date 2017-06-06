@@ -13,7 +13,7 @@ _Context: Typhoon Vicente, Vietnam, flood, landslide_
 _Context: Ban Ki-moon, United Nations_
 
 ### [Lawyers for imprisoned disabled Chinese rights activist Ni Yulan challenge her convictions for fraud and "picking quarrels" in court. ](/news/2012/07/27/lawyers-for-imprisoned-disabled-chinese-rights-activist-ni-yulan-challenge-her-convictions-for-fraud-and-picking-quarrels-in-court.md)
-_Context: Ni Yulan, People's Republic of China, picking quarrels_
+_Context: China, Ni Yulan, picking quarrels_
 
 ### [Multi-platinum recording artists and American girl-group Fifth Harmony were put together on this very day on the The X Factor USA. ](/news/2012/07/27/multi-platinum-recording-artists-and-american-girl-group-fifth-harmony-were-put-together-on-this-very-day-on-the-the-x-factor-usa.md)
 _Context: Fifth Harmony, The X Factor USA_

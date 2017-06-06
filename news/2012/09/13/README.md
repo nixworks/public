@@ -10,7 +10,7 @@ _Context: Jan van Eyck, Rotterdam, a museum_
 The Federal Reserve opened a new chapter in its efforts to stimulate the American economy, saying that it intends to buy large quantities of mortgage bonds until the job market improves substantially.
 
 ### [A freight elevator crashes 100 meters and kills 19 construction workers in Wuhan, Hubei province, China. ](/news/2012/09/13/a-freight-elevator-crashes-100-meters-and-kills-19-construction-workers-in-wuhan-hubei-province-china.md)
-_Context: Hubei, People's Republic of China, Wuhan_
+_Context: China, Hubei, Wuhan_
 
 ### [Guatemala's Volcano of Fire (Volcn de Fuego) erupts, leading to the evacuation of more than 33,000 people. ](/news/2012/09/13/guatemala-s-volcano-of-fire-volcan-de-fuego-erupts-leading-to-the-evacuation-of-more-than-33-000-people.md)
 _Context: Guatemala, Volcano of Fire (Volcn de Fuego)_

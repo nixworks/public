@@ -7,7 +7,7 @@ Albader Parad said to be among victims of Philippines army operation in Jolo.
 AUSTRIAN environmentalists are trying to stop an AC/DC concert from going ahead in the city of Wels as they say it will put rare birds and plants at risk.
 
 ### [Foreign direct investment (FDI) into China rose for the sixth consecutive month in January, up 7.79 percent year-on-year to $8.13 billion, Chinese Ministry of Commerce announced. ](/news/2010/02/21/foreign-direct-investment-fdi-into-china-rose-for-the-sixth-consecutive-month-in-january-up-7-79-percent-year-on-year-to-8-13-billion-c.md)
-_Context: Chinese Ministry of Commerce, Foreign investment, People's Republic of China_
+_Context: China, Chinese Ministry of Commerce, Foreign investment_
 
 ### [King Mohammed of Morocco requests structural examinations of all the country's old mosques after a minaret collapse kills 41 people. ](/news/2010/02/21/king-mohammed-of-morocco-requests-structural-examinations-of-all-the-country-s-old-mosques-after-a-minaret-collapse-kills-41-people.md)
 _Context: King Mohammed, Moroccan, a minaret collapse_

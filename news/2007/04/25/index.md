@@ -19,7 +19,7 @@ _Context: Assistant Secretary of State for European and Eurasian Affairs, Belaru
 _Context: 2007 presidential election, Democratic Party, European Union, Franois Bayrou, French, Union for French Democracy, centrist, go to the polls_
 
 ### [ China detains four United States citizens who were protesting for Tibetan independence and against the Beijing Olympics at the Mount Everest base camp. ](/news/2007/04/25/china-detains-four-united-states-citizens-who-were-protesting-for-tibetan-independence-and-against-the-beijing-olympics-at-the-mount-everes.md)
-_Context: Beijing Olympiad, Mount Everest, People's Republic of China, Tibetan independence, U.S., base camp_
+_Context: Beijing Olympiad, China, Mount Everest, Tibetan independence, U.S., base camp_
 
 ### [ Japanese police raid the offices of a pro-North Korean group in relation to the alleged kidnapping of two children in the 1970s. ](/news/2007/04/25/japanese-police-raid-the-offices-of-a-pro-north-korean-group-in-relation-to-the-alleged-kidnapping-of-two-children-in-the-1970s.md)
 _Context: Japanese police, kidnapped, pro-North Korean group_

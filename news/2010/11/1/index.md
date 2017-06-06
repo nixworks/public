@@ -31,7 +31,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 China begins its first national census in 10 years as it tries to document its 1.3 billion-strong population.
 
 ### [India and China help boost Asian shares outside Japan by 1.7%. ](/news/2010/11/1/india-and-china-help-boost-asian-shares-outside-japan-by-1-7.md)
-_Context: India, Japan, People's Republic of China_
+_Context: China, India, Japan_
 
 ### [Ambac Financial Group announces that it may have to declare bankruptcy, though it is still in talks with its senior bondholders about a consensual rescheduling of its debts.  Before the 2008 financial crisis, Ambac was one of the two dominant bond insurance companies. ](/news/2010/11/1/ambac-financial-group-announces-that-it-may-have-to-declare-bankruptcy-though-it-is-still-in-talks-with-its-senior-bondholders-about-a-cons.md)
 * Chapter 11 possible this year, creditor talks continue * Bond insurer misses $2.8 million debt payment * Shares slide 50.4 percent (Add

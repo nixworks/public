@@ -13,7 +13,7 @@ _Context: Hugo Chvez, President, exportation, nationalizes_
 _Context: 2007 subprime mortgage financial crisis, 2008 stock market downturn, recession, stock market_
 
 ### [ A gas explosion at an illegal mine in Shanxi, China kills at least 20. ](/news/2008/01/21/a-gas-explosion-at-an-illegal-mine-in-shanxi-china-kills-at-least-20.md)
-_Context: People's Republic of China, Shanxi province_
+_Context: China, Shanxi province_
 
 ### [ Former Liberian warlord Joshua Milton Blahyi confesses that he is responsible for at least 20,000 deaths during the First Liberian Civil War. ](/news/2008/01/21/former-liberian-warlord-joshua-milton-blahyi-confesses-that-he-is-responsible-for-at-least-20-000-deaths-during-the-first-liberian-civil-wa.md)
 _Context: First Liberian Civil War, Joshua Milton Blahyi, Liberia, warlord_

@@ -10,7 +10,7 @@ _Context: Allahu Akbar, Israel, Jerusalem, Jews, Palestinian, Western Wall_
 A man with a shotgun wounded one person at a Greenville, N.C., law firm on Friday before crossing a busy street and shooting three more people in a Wal-Mart parking lot, police said.
 
 ### [The People's Bank of China intervenes to alleviate a cash crunch as it continues to act to reduce over-leveraging in the People's Republic of China. ](/news/2013/06/21/the-people-s-bank-of-china-intervenes-to-alleviate-a-cash-crunch-as-it-continues-to-act-to-reduce-over-leveraging-in-the-people-s-republic-o.md)
-_Context: People's Bank of China, People's Republic of China, cash crunch_
+_Context: China, People's Bank of China, cash crunch_
 
 ### [2013 Riga Castle fire:Latvian authorities say the overnight fire has extensively damaged Riga Castle, the medieval fortress that houses the Baltic nation's National History Museum, and presidential residence. ](/news/2013/06/21/2013-riga-castle-fire-platvian-authorities-say-the-overnight-fire-has-extensively-damaged-riga-castle-the-medieval-fortress-that-houses-the.md)
 Riga Castle has been badly damaged by fire. The historical building, which is located in the heart of the Latvian capital’s old town is the official

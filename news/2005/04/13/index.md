@@ -13,7 +13,7 @@ _Context: 2007, Bulgaria, European Parliament, European Union, Romania_
 _Context: Conflict in Iraq, Iraq, Iraqi insurgency, Kirkuk, decoy, police_
 
 ### [ Japan increases the already boiling tension with China as Japan's Ministry of Economy, Trade and Industry begins allowing Japanese companies rights to drill for oil in a part of the East China Sea claimed by both nations. ](/news/2005/04/13/japan-increases-the-already-boiling-tension-with-china-as-japan-s-ministry-of-economy-trade-and-industry-begins-allowing-japanese-companie.md)
-_Context: East China Sea, Japan, People's Republic of China, Politics of Japan, oil_
+_Context: China, East China Sea, Japan, Politics of Japan, oil_
 
 ### [ The College of American Pathologists asks laboratories worldwide to destroy a flu sample they sent in their testing kits. The Canadian National Microbial Laboratory identified it as a strain of Asian flu virus that killed millions in 1957. People born after 1969 would have no antibodies to resist it. The World Health Organization supports the plea. ](/news/2005/04/13/the-college-of-american-pathologists-asks-laboratories-worldwide-to-destroy-a-flu-sample-they-sent-in-their-testing-kits-the-canadian-nati.md)
 _Context: 1957, 1969, Asian flu, Canada, College of American Pathologists, World Health Organization, antibody, flu_

@@ -34,7 +34,7 @@ _Context: Argentina, Hedge fund, Supreme Court_
 PNG&#039;s anti-corruption body issues an arrest warrant for Prime Minister Peter O&#039;Neill in relation to a fraud case.
 
 ### [The People's Republic of China sentences three men to death for a deadly attack at Beijing's Tiananmen Square last October. ](/news/2014/06/16/the-people-s-republic-of-china-sentences-three-men-to-death-for-a-deadly-attack-at-beijing-s-tiananmen-square-last-october.md)
-_Context: Beijing, People's Republic of China, Tiananmen Square, last October_
+_Context: Beijing, China, Tiananmen Square, last October_
 
 ### [Israeli police arrest Aziz Duwaik, Speaker of the Palestinian Legislative Council and Hamas member,  during a wave of arrests linked to a manhunt for three kidnapped teenagers. ](/news/2014/06/16/israeli-police-arrest-aziz-duwaik-speaker-of-the-palestinian-legislative-council-and-hamas-member-during-a-wave-of-arrests-linked-to-a-ma.md)
 _Context: Aziz Duwaik, Hamas, Israel, Speaker of the Palestinian Legislative Council, three kidnapped teenagers_

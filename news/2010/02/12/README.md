@@ -1,7 +1,7 @@
 ## [2010-02-12](/news/2010/02/12/index.md)
 
 ### [Secretary-General Ban Ki-moon has repeatedly called on the DPRK to re-engage in the Six-Party Talks that also involve the Republic of Korea, Japan, China, Russia and the United States. ](/news/2010/02/12/secretary-general-ban-ki-moon-has-repeatedly-called-on-the-dprk-to-re-engage-in-the-six-party-talks-that-also-involve-the-republic-of-korea.md)
-_Context: Ban Ki-moon, DPRK, Japan, People's Republic of China, Russia, South Korea, U.S., six-party talks_
+_Context: Ban Ki-moon, China, DPRK, Japan, Russia, South Korea, U.S., six-party talks_
 
 ### [Police in Mtwapa arrest five men accused of being homosexuals, two of whom had wedding rings and were attempting to marry in a first for Kenya. ](/news/2010/02/12/police-in-mtwapa-arrest-five-men-accused-of-being-homosexuals-two-of-whom-had-wedding-rings-and-were-attempting-to-marry-in-a-first-for-ken.md)
 _Context: Kenya, Mtwapa, homosexuality_
