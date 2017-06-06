@@ -1,4 +1,15 @@
-## [News](/news/2017/06/5/index.md)
+## [News](/news/2017/06/6/index.md)
+
+### [Uzbekistan Deputy Prime Minister Rustam Azimov is dismissed by   President Shavkat Mirziyoyev, who had earlier criticized Azimov for failing to control financiers' activities. He is replaced by former Deputy Finance Minister Jamshed Kuchkarev. ](/news/2017/06/6/uzbekistan-deputy-prime-minister-rustam-azimov-is-dismissed-by-president-shavkat-mirziyoyev-who-had-earlier-criticized-azimov-for-failing.md)
+Uzbek President Shavkat Mirziyoyev has harshly criticized officials in charge of finance and banking, asserting his power above one of two other members of a triumvirate that has ruled since the death last year of leader Islam Karimov.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/06/5/index.md)
 
 ### [A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life afterwards. Eight others inside the workplace survived. ](/news/2017/06/5/a-discharged-45-year-old-former-employee-shoots-and-kills-five-people-at-a-manufacturing-business-in-orlando-florida-united-states-the-sh.md)
 _Context: Florida, Orlando, United States_
@@ -22,7 +33,7 @@ _Context: Montenegro, Montenegro-NATO relations, NATO, Washington, D.C._
 The U.S. Department of Justice on Monday charged a federal contractor with sending classified material to a news organization that sources identified to Reuters as The Intercept, marking one of the first concrete efforts by the Trump administration to crack down on leaks to the media.
 
 ### [The Turkish interior ministry announces that 130 people, living outside the country and suspected of militant links, will lose their  citizenship unless they return to Turkey within three months and meet government standards. Named suspects include  U.S.-based cleric Fethullah Gulen, and Peoples' Democratic Party leaders Faysal Sariyildiz, Tugba Hezer, and  Ozdal Ucer. ](/news/2017/06/5/the-turkish-interior-ministry-announces-that-130-people-living-outside-the-country-and-suspected-of-militant-links-will-lose-their-citize.md)
-_Context: 2016-17 Turkish purges, Fethullah Gulen, Peoples' Democratic Party, Turkish interior ministry, citizenship_
+_Context: 2016-17 Turkish purges, Faysal Sariyildiz, Fethullah Gulen, Ozdal Ucer, Peoples' Democratic Party, Tugba Hezer, Turkish interior ministry, citizenship_
 
 ### [The ''charge d'affaires'' of the U.S. Embassy in Beijing, China, resigns following President Donald Trump's  announcement he will  withdraw the United States from the 2015 international Paris Agreement on climate change mitigation. ](/news/2017/06/5/the-charga-c-d-affaires-of-the-u-s-embassy-in-beijing-china-resigns-following-president-donald-trump-s-announcement-he-will-withdraw.md)
 _Context: China, Paris Agreement, United States withdrawal from the Paris Agreement, charge d'affaires, climate change mitigation_
@@ -36,13 +47,9 @@ _Context: S/2016 J 1, S/2017 J 1, satellite of Jupiter_
 ### [Apple announces iOS 11 in WWDC 2017. ](/news/2017/06/5/apple-announces-ios-11-in-wwdc-2017.md)
 _Context: WWDC, iOS 11_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/06/4/index.md)
+## [Day Before Yesterday](/news/2017/06/4/index.md)
 
 ### [  In the early hours of Sunday morning, explosions are heard around London Bridge, believed to be controlled explosions carried out by the police. ](/news/2017/06/4/in-the-early-hours-of-sunday-morning-explosions-are-heard-around-london-bridge-believed-to-be-controlled-explosions-carried-out-by-the-p.md)
 Three attackers killed seven people and injured 48 others near London Bridge. The attackers were shot dead by eight officers who used 50 bullets; a member of the public was accidentally shot.
@@ -73,29 +80,7 @@ _Context: Cambodia, Cambodian communal elections, 2017, Hun Sen, Prime Minister_
 
 ---
 
-## [Day Before Yesterday](/news/2017/06/3/index.md)
-
-### [According to the Interior Ministry, three blasts at a funeral attended by MPs and government figures in Kabul kill at least seven people and wound 119 more. ](/news/2017/06/3/according-to-the-interior-ministry-three-blasts-at-a-funeral-attended-by-mps-and-government-figures-in-kabul-kill-at-least-seven-people-and.md)
-Blasts at funeral attended by government officials including one of leading political figures comes after devastating bombing
-
-### [A van travelling at approximately 50&nbsp;mph ploughs into pedestrians on London Bridge; the three occupants then abandon the van and embark on a stabbing spree in Borough Market before being shot dead by officers of the Metropolitan Police. At least six civilians are killed. ](/news/2017/06/3/a-van-travelling-at-approximately-50-nbsp-mph-ploughs-into-pedestrians-on-london-bridge-the-three-occupants-then-abandon-the-van-and-embark.md)
-Police said a vehicle veered off the road and mowed down pedestrians on London Bridge, while witnesses spoke of men with large knives stabbing passersby at nearby Borough Market in the U.K. capital, leaving six people dead and dozens wounded in hospital. 
-
-### [More than 1,500 people are injured when panic erupts among Juventus fans who are watching the 2017 UEFA Champions League Final on Piazza San Carlo in Turin, Italy. ](/news/2017/06/3/more-than-1-500-people-are-injured-when-panic-erupts-among-juventus-fans-who-are-watching-the-2017-uefa-champions-league-final-on-piazza-san.md)
-“#BREAKING Injured tally from Turin stampede rises to 1,000: police”
-
-### [Voters in Lesotho go to the polls for an election, with a tight race predicted between the Democratic Congress, led by current Prime Minister Pakalitha Mosisili, and the All Basotho Convention, led by former prime minister Tom Thabane. ](/news/2017/06/3/voters-in-lesotho-go-to-the-polls-for-an-election-with-a-tight-race-predicted-between-the-democratic-congress-led-by-current-prime-ministe.md)
-Snap election is seen as a two-horse race between old rivals Prime Minister Pakalitha Mosisili and Thomas Thabane.
-
-### [Voters in Malta go to the polls for a snap election, with current Prime Minister Joseph Muscat and his Labour Party facing off against Forza Nazzjonali, led by Simon Busuttil. The election comes amid corruption allegations leveled against Muscat's associates. ](/news/2017/06/3/voters-in-malta-go-to-the-polls-for-a-snap-election-with-current-prime-minister-joseph-muscat-and-his-labour-party-facing-off-against-forza.md)
-_Context: Forza Nazzjonali, Joseph Muscat, Labour Party, Malta, Maltese general election, 2017, Prime Minister, Simon Busuttil_
-
-### [SpaceX launches a Falcon 9 rocket with a shipment of food and supplies in a refurbished Dragon cargo capsule for the International Space Station. The mission reuses a Dragon cargo vessel that was previously flown in a September 2014 mission. ](/news/2017/06/3/spacex-launches-a-falcon-9-rocket-with-a-shipment-of-food-and-supplies-in-a-refurbished-dragon-cargo-capsule-for-the-international-space-sta.md)
-SpaceX on Saturday blasted off a shipment of food and supplies for the astronauts living at the International Space Station using for the first time a vessel that had flown before.
-
----
-
-## [Previous Day...](/news/2017/06/2/index.md)
+## [Previous Day...](/news/2017/06/3/index.md)
 
 ---
 
