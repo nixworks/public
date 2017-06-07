@@ -13,7 +13,7 @@ _Context: 2006 general election, National Assembly, Nicaragua, abortion law_
 _Context: International Space Station, Progress, Russia, arrived at its orbital destination_
 
 ### [ Four firefighters are killed and one is critically injured as they tried to control the Esperanza Fire that drove hundreds from their homes near Palm Springs, California, United States. An arsonist started  the fire. ](/news/2006/10/26/four-firefighters-are-killed-and-one-is-critically-injured-as-they-tried-to-control-the-esperanza-fire-that-drove-hundreds-from-their-homes.md)
-_Context: Esperanza Fire, Palm Springs, California, U.S., arsonist_
+_Context: Esperanza Fire, Palm Springs, California, United States, arsonist_
 
 ### [ Fifteen people die and 400 are admitted to hospital in Pskov, Russia, after consuming alcohol suspected of being tainted with medicinal drugs or chemicals. ](/news/2006/10/26/fifteen-people-die-and-400-are-admitted-to-hospital-in-pskov-russia-after-consuming-alcohol-suspected-of-being-tainted-with-medicinal-dru.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
@@ -22,7 +22,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Governments of Kiribati, Tuvalu, global warming's, rising sea levels_
 
 ### [ ExxonMobil Corp., the world's largest petroleum extracting company, says its third-quarter net income rose to USD $10.5 billion from $9.92 billion as crude prices rise to an all-time high. This is the second highest quarterly profit figure for a United States company. ](/news/2006/10/26/exxonmobil-corp-the-world-s-largest-petroleum-extracting-company-says-its-third-quarter-net-income-rose-to-usd-10-5-billion-from-9-92.md)
-_Context: $, ExxonMobil Corporation, U.S., crude oil, profit_
+_Context: $, ExxonMobil Corporation, United States, crude oil, profit_
 
 ### [ Afghan government officials claim at least 60 civilians were killed in ISAF Operation Medusa in the Panjwayi district of Kandahar province on Tuesday. ](/news/2006/10/26/afghan-government-officials-claim-at-least-60-civilians-were-killed-in-isaf-operation-medusa-in-the-panjwayi-district-of-kandahar-province.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

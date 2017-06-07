@@ -12,8 +12,8 @@ _Context: India, Naxalite, Naxalite-Maoist insurgency, becomes_
 ### [ A landslide in Kyrgyzstan kills at least 16 people. ](/news/2009/04/16/a-landslide-in-kyrgyzstan-kills-at-least-16-people.md)
 _Context: Kyrgyzstan, landslide_
 
-### [ Bolivian police kill three people - Hungarian Eduardo Rzsa-Flores, Irishman Michael Dwyer, and Romanian Magyarosi Arpak - and arrest two others over an alleged plot to assassinate President Evo Morales and Vice President lvaro Garca Linera. ](/news/2009/04/16/bolivian-police-kill-three-people-hungarian-eduardo-rozsa-flores-irishman-michael-dwyer-and-romanian-magyarosi-arpak-and-arrest-two-o.md)
-_Context: Bolivia, Eduardo Rzsa-Flores, Evo Morales, Magyarosi Arpak, Michael Dwyer, Police, President of Bolivia, Vice-President, assassinated, lvaro Garca Linera_
+### [ Bolivian police kill three people - Hungarian Eduardo Rzsa-Flores, Irishman Michael Martin Dwyer, and Romanian Magyarosi Arpak - and arrest two others over an alleged plot to assassinate President Evo Morales and Vice President lvaro Garca Linera. ](/news/2009/04/16/bolivian-police-kill-three-people-hungarian-eduardo-rozsa-flores-irishman-michael-martin-dwyer-and-romanian-magyarosi-arpak-and-arres.md)
+_Context: Bolivia, Eduardo Rzsa-Flores, Evo Morales, Magyarosi Arpak, Michael Martin Dwyer, Police, President of Bolivia, Vice-President, assassinated, lvaro Garca Linera_
 
 ## [Previous Day...](/news/2009/04/15/index.md)
 

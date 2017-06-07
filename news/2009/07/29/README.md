@@ -37,7 +37,7 @@ China will cut the number of people it executes every year to &quot;an extremely
 _Context: Lubna Ahmed Hussein, Sudan, United Nations_
 
 ### [ French President Nicolas Sarkozy claims he is fine after his fainting fit. ](/news/2009/07/29/french-president-nicolas-sarkozy-claims-he-is-fine-after-his-fainting-fit.md)
-_Context: French, Nicolas Sarkozy, President of France, fainting, seizure_
+_Context: France, Nicolas Sarkozy, President of France, fainting, seizure_
 
 ### [ The International Monetary Fund says it will take "unprecedented" measures to help poor countries cope with the economic downturn. ](/news/2009/07/29/the-international-monetary-fund-says-it-will-take-unprecedented-measures-to-help-poor-countries-cope-with-the-economic-downturn.md)
 _Context: International Monetary Fund_

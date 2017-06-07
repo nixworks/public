@@ -16,7 +16,7 @@ _Context: Baghdad, Conflict in Iraq, Iraq, Iraqi Turkmen Front, capital, minibus
 _Context: Rita_
 
 ### [ Earl Krugel, a leader of the Jewish Defence League, is sentenced to 20 years in prison after pleading guilty to a plot to blow up a mosque in Los Angeles and Lebanese-American congressman Darrell Issa's office. His co-accused, Irv Rubin, committed suicide in 2002. ](/news/2005/09/23/earl-krugel-a-leader-of-the-jewish-defence-league-is-sentenced-to-20-years-in-prison-after-pleading-guilty-to-a-plot-to-blow-up-a-mosque.md)
-_Context: 2002, Congressman, Darrell Issa, Earl Krugel, Irv Rubin, Jewish Defence League, Lebanon, Los Angeles, U.S., guilty, mosque, suicide_
+_Context: 2002, Congressman, Darrell Issa, Earl Krugel, Irv Rubin, Jewish Defence League, Lebanon, Los Angeles, United States, guilty, mosque, suicide_
 
 ### [ German election 2005: After talks between CDU/CSU and Alliance 90/The Greens, a "Jamaica coalition" between conservatives, liberals and greens is ruled out.](/news/2005/09/23/german-election-2005-after-talks-between-cdu-csu-and-alliance-90-the-greens-a-jamaica-coalition-between-conservatives-liberals-and-gre.md)
 _Context: CSU, Christian Democratic Union, German federal election, 2005, Greens, Jamaica coalition_

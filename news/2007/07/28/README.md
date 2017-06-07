@@ -1,7 +1,7 @@
 ## [2007-07-28](/news/2007/07/28/index.md)
 
 ### [ Pakistan raises concerns about a draft bill adopted by the United States Congress that ties United States foreign aid to progress in the fight against Al Qaeda and the Taliban. ](/news/2007/07/28/pakistan-raises-concerns-about-a-draft-bill-adopted-by-the-united-states-congress-that-ties-united-states-foreign-aid-to-progress-in-the-fi.md)
-_Context: Pakistan, Taliban, U.S., U.S. Congressional, al-Qaeda, foreign aid_
+_Context: Pakistan, Taliban, U.S. Congressional, United States, al-Qaeda, foreign aid_
 
 ### [ Colombia's intelligence chief Andres Penate claims FARC rebels accidentally killed 11 politicians it was holding, after running into another rebel unit. ](/news/2007/07/28/colombia-s-intelligence-chief-andra-c-s-pea-ate-claims-farc-rebels-accidentally-killed-11-politicians-it-was-holding-after-running-into-anot.md)
 _Context: Andres Penate, Colombia, FARC_
@@ -22,7 +22,7 @@ _Context: Islamabad, Lal Masjid, Pakistan, suicide bombing_
 An Indian doctor freed from jail after Australia dropped terrorism charges against him will be leaving Australia on Saturday after receiving the go-ahead from immigration officials, his lawyer said.
 
 ### [ Bernard Kouchner, the French Foreign Minister, arrives in Lebanon to reduce tensions between the Prime Minister of Lebanon Fouad Siniora and the pro-Syrian opposition. ](/news/2007/07/28/bernard-kouchner-the-french-foreign-minister-arrives-in-lebanon-to-reduce-tensions-between-the-prime-minister-of-lebanon-fouad-siniora-an.md)
-_Context: Bernard Kouchner, Fouad Siniora, French, Lebanon, Prime Minister, Syria_
+_Context: Bernard Kouchner, Fouad Siniora, France, Lebanon, Prime Minister, Syria_
 
 ### [ Rwanda abolishes capital punishment. ](/news/2007/07/28/rwanda-abolishes-capital-punishment.md)
 _Context: Rwanda, death penalty_

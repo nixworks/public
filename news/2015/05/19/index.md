@@ -19,7 +19,7 @@ Eighteen garment workers were killed and 21 injured Tuesday morning when the van
 _Context: 2015 Colombian landslide, Colombia, Salgar_
 
 ### [French prosecutors say the passengers onboard the Germanwings flight that crashed in southern France have all been identified, and their bodies can be returned home to their families. ](/news/2015/05/19/french-prosecutors-say-the-passengers-onboard-the-germanwings-flight-that-crashed-in-southern-france-have-all-been-identified-and-their-bod.md)
-_Context: French, Frenchman, Germanwings Flight 9525_
+_Context: France, Frenchman, Germanwings Flight 9525_
 
 ### [ At least 16 people are killed and scores are injured in a residential building fire in Baku, Azerbaijan. ](/news/2015/05/19/at-least-16-people-are-killed-and-scores-are-injured-in-a-residential-building-fire-in-baku-azerbaijan.md)
 _Context: Azerbaijan, Baku_

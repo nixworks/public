@@ -4,7 +4,7 @@
 _Context: Islamic law, Kuwait, National Assembly, Polling station, voting_
 
 ### [ Many French workers stay at home to protest over government's cancellation of Whit Monday holiday. Seven unions ask their workers to strike and many businesses stay closed. ](/news/2005/05/16/many-french-workers-stay-at-home-to-protest-over-government-s-cancellation-of-whit-monday-holiday-seven-unions-ask-their-workers-to-strike.md)
-_Context: French, Whit Monday, labor union_
+_Context: France, Whit Monday, labor union_
 
 ### [ Ethiopian prime minister Meles Zenawi bans demonstrations in the capital Addis Ababa for one month after Sunday's parliamentary elections. Opposition parties, especially Coalition for Unity and Democracy accuse government of electoral fraud and harassment of their election observers. No results have been published yet. ](/news/2005/05/16/ethiopian-prime-minister-meles-zenawi-bans-demonstrations-in-the-capital-addis-ababa-for-one-month-after-sunday-s-parliamentary-elections.md)
 _Context: Addis Ababa, Coalition for Unity and Democracy, Ethiopia, Meles Zenawi, demonstration, electoral fraud, parliamentary elections_

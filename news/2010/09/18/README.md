@@ -52,7 +52,7 @@ _Context: Guinea, November's presidential poll, United Nations_
 _Context: Berlin, German, Government of Germany, nuclear power_
 
 ### [Bulgarian Romani protest outside the French embassy in Sofia about expulsions of Romani from France. ](/news/2010/09/18/bulgarian-romani-protest-outside-the-french-embassy-in-sofia-about-expulsions-of-romani-from-france.md)
-_Context: Bulgaria, French, Roma, Sofia_
+_Context: Bulgaria, France, Roma, Sofia_
 
 ## [Previous Day...](/news/2010/09/17/index.md)
 

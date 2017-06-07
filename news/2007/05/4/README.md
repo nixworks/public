@@ -4,7 +4,7 @@
 _Context: Greensburg, Kansas, Greensburg, Kansas Tornado Outbreak, Kansas, tornado_
 
 ### [ Three U.S. Republican legislators from Alaska are charged with accepting bribes to support legislation favorable to oil services company Veco Corp. ](/news/2007/05/4/three-u-s-republican-legislators-from-alaska-are-charged-with-accepting-bribes-to-support-legislation-favorable-to-oil-services-company-ve.md)
-_Context: Alaska, Republican, U.S., Veco Corp, bribe_
+_Context: Alaska, Republican, United States, Veco Corp, bribe_
 
 ### [ A heavy-lift ''Ariane 5'' rocket blasts off from French Guiana putting into orbit two telecommunications satellites, Astra 1L and Galaxy 17. ](/news/2007/05/4/a-heavy-lift-ariane-5-rocket-blasts-off-from-french-guiana-putting-into-orbit-two-telecommunications-satellites-astra-1l-and-galaxy-17.md)
 A heavy-lift Ariane-5 rocket blasted off from French Guiana on Friday putting into orbit two telecommunications satellites, space officials said.
@@ -22,7 +22,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Front for Democracy and the Republic, Mali, last Sunday's presidential election_
 
 ### [ Convicted terrorist Carlos the Jackal will face charges in France relating to alleged involvement in deadly bombings in 1982 and 1983. ](/news/2007/05/4/convicted-terrorist-carlos-the-jackal-will-face-charges-in-france-relating-to-alleged-involvement-in-deadly-bombings-in-1982-and-1983.md)
-_Context: 1982, 1983, Carlos the Jackal, French, terrorist_
+_Context: 1982, 1983, Carlos the Jackal, France, terrorist_
 
 ### [ International delegates reach agreement at the Intergovernmental Panel on Climate Change on the summary report on mitigating climate change despite some concerns raised by China. ](/news/2007/05/4/international-delegates-reach-agreement-at-the-intergovernmental-panel-on-climate-change-on-the-summary-report-on-mitigating-climate-change.md)
 _Context: China, Intergovernmental Panel on Climate Change, summary report on mitigating climate change_

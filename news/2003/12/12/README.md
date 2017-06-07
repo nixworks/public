@@ -13,7 +13,7 @@ _Context: Buckingham Palace, Queen Elizabeth, cancer, monarch_
 _Context: BC Ferries, Canada, binding arbitration_
 
 ### [A European Union defence policy is agreed upon by Britain, France and Germany at the beginning of an EU summit in Brussels where the member countries will discuss a forthcoming constitution for the EU. Defence policy: [http://news.bbc.co.uk/2/hi/europe/3312265.stm]; EU constitution: [http://news.bbc.co.uk/2/hi/europe/3252628.stm]. ](/news/2003/12/12/a-european-union-defence-policy-is-agreed-upon-by-britain-france-and-germany-at-the-beginning-of-an-eu-summit-in-brussels-where-the-member.md)
-_Context: Brussels, European Union, French, German, United Kingdom, constitution_
+_Context: Brussels, European Union, France, German, United Kingdom, constitution_
 
 ### [Paul Martin, Jr. is appointed Canada's 21st Prime Minister, and takes his oath of office along with his cabinet. Notable Ministers include Deputy Prime Minister Anne McLellan in Domestic Security, Ralph Goodale in Finance, Pierre Pettigrew in Health and Intergovernmental Affairs, Lucienne Robillard in Industry, Irwin Cotler in Justice, Bill Graham in Foreign Affairs and David Pratt in Defence. [http://www.cbc.ca/stories/2003/12/12/martin_cab031212]](/news/2003/12/12/paul-martin-jr-is-appointed-canada-s-21st-prime-minister-and-takes-his-oath-of-office-along-with-his-cabinet-notable-ministers-include-d.md)
 _Context: Anne McLellan, Bill Graham, Canada, Canadian Prime Minister, David Pratt, Defence Minister, Deputy Prime Minister, Domestic Security, Finance Minister, Industry, Irwin Cotler, Justice, Lucienne Robillard, Minister of Foreign Affairs, Minister of Health, Minister of Intergovernmental Affairs, Paul Martin, Jr., Pierre Pettigrew, Ralph Goodale, new Cabinet_

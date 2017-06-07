@@ -28,10 +28,10 @@ Swedish-style meatballs for sale at Ikea in the Czech Republic are found to cont
 By Genevra PittmanNEW YORK (Reuters Health) - A Mediterranean diet high in olive oil, nuts, fish and fresh fruits and vegetables may help prevent hea
 
 ### [Former United States Surgeon General C. Everett Koop dies at the age of 96. ](/news/2013/02/25/former-united-states-surgeon-general-c-everett-koop-dies-at-the-age-of-96.md)
-_Context: C. Everett Koop, U.S., U.S. Surgeon General_
+_Context: C. Everett Koop, U.S. Surgeon General, United States_
 
 ### [NATO says it has found no evidence to back the Afghan claim of misconduct by United States forces. ](/news/2013/02/25/nato-says-it-has-found-no-evidence-to-back-the-afghan-claim-of-misconduct-by-united-states-forces.md)
-_Context: Afghanistan, NATO, U.S._
+_Context: Afghanistan, NATO, United States_
 
 ### [Russia enacts a law banning smoking on subways and in schools. ](/news/2013/02/25/russia-enacts-a-law-banning-smoking-on-subways-and-in-schools.md)
 _Context: Russia, enacts, school, smoking, smoking ban, subways_
@@ -55,7 +55,7 @@ _Context: Archbishop of St. Andrews and Edinburgh, Cardinal, Keith O'Brien, free
 Fragments of an ancient continent are buried beneath the floor of the Indian Ocean, a new study suggests.
 
 ### [Indian Space Research Organisation successfully launches Indo-French satellite SARAL using PSLV rocket from the spaceport in Sriharikota, Andhra Pradesh, India. ](/news/2013/02/25/indian-space-research-organisation-successfully-launches-indo-french-satellite-saral-using-pslv-rocket-from-the-spaceport-in-sriharikota-an.md)
-_Context: Andhra Pradesh, French, India, Indian Space Research Organisation, Polar Satellite Launch Vehicle, SARAL, Satish Dhawan Space Centre, Sriharikota, launches_
+_Context: Andhra Pradesh, France, India, Indian Space Research Organisation, Polar Satellite Launch Vehicle, SARAL, Satish Dhawan Space Centre, Sriharikota, launches_
 
 ### [British explorer Ranulph Fiennes abandons The Coldest Journey expedition, his attempt to cross Antarctica in the heart of the region's winter due to a case of frostbite. ](/news/2013/02/25/british-explorer-ranulph-fiennes-abandons-the-coldest-journey-expedition-his-attempt-to-cross-antarctica-in-the-heart-of-the-region-s-winte.md)
 Explorer Sir Ranulph Fiennes has to pull out of an expedition across Antarctica hailed as the last great polar challenge because of severe frostbite.

@@ -16,7 +16,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 Victory in Iraq is a vital U.S. interest, says a new policy document, &quot;National Strategy for Victory in Iraq,&quot; published Wednesday by the White House.
 
 ### [ Surgeons in France carry out the first human face transplant. ](/news/2005/11/30/surgeons-in-france-carry-out-the-first-human-face-transplant.md)
-_Context: French, face transplant_
+_Context: France, face transplant_
 
 ### [ Death toll in northeast China coal mine blast reaches 150. ](/news/2005/11/30/death-toll-in-northeast-china-coal-mine-blast-reaches-150.md)
 _Context: China, coal mine, death toll_

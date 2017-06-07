@@ -37,7 +37,7 @@ Official inflation numbers show the Queensland floods and unrest in the Middle E
 _Context: Johnson & Johnson, Synthes_
 
 ### [President of France Nicolas Sarkozy endorses Mario Draghi to become next President of the European Central Bank, to succeed Jean-Claude Trichet. ](/news/2011/04/27/president-of-france-nicolas-sarkozy-endorses-mario-draghi-to-become-next-president-of-the-european-central-bank-to-succeed-jean-claude-tric.md)
-_Context: European Central Bank, French, Jean-Claude Trichet, Mario Draghi, Nicolas Sarkozy, President, President of France_
+_Context: European Central Bank, France, Jean-Claude Trichet, Mario Draghi, Nicolas Sarkozy, President, President of France_
 
 ### [Emperor of Japan Akihito and Empress Michiko visit areas worst-affected by the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/27/emperor-of-japan-akihito-and-empress-michiko-visit-areas-worst-affected-by-the-2011-tahoku-earthquake-and-tsunami.md)
 _Context: Akihito, Emperor, Empress Michiko, an earthquake and tsunami_

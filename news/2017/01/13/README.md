@@ -4,7 +4,7 @@
 International investigators have said for the first time that they suspect President Bashar al-Assad and his brother are responsible for the use of chemical weapons in the Syrian conflict, according to a document seen by Reuters.
 
 ### [A winter storm hits Europe with 330,000 people in France losing power, thousands of people in Great Britain evacuated and travel disrupted. ](/news/2017/01/13/a-winter-storm-hits-europe-with-330-000-people-in-france-losing-power-thousands-of-people-in-great-britain-evacuated-and-travel-disrupted.md)
-_Context: Europe, French, Great Britain, January 2017 European cold wave_
+_Context: Europe, France, Great Britain, January 2017 European cold wave_
 
 ### [A winter storm pours ice rain on the Great Plains and American Midwest, causes power outages, school closures, and a traffic fatality in Missouri. ](/news/2017/01/13/a-winter-storm-pours-ice-rain-on-the-great-plains-and-american-midwest-causes-power-outages-school-closures-and-a-traffic-fatality-in-mis.md)
 A winter storm bringing icy rain to the Great Plains and Midwest claimed the life of a Missouri woman on Friday, prompted the delay of an NFL football game and threatened power outages and treacherous conditions throughout the weekend.

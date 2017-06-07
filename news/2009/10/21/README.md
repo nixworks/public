@@ -19,7 +19,7 @@ _Context: Litokwa Tomeing, President, Ruben Zackhras, vote of no confidence_
 _Context: Lima, Peru, abortion_
 
 ### [ The United States is to send a rare mission to Burma for talks with the military government. ](/news/2009/10/21/the-united-states-is-to-send-a-rare-mission-to-burma-for-talks-with-the-military-government.md)
-_Context: Burma, State Peace and Development Council, U.S._
+_Context: Burma, State Peace and Development Council, United States_
 
 ### [ Several people are arrested over a bomb attack in southeastern Iran that killed 42 people, including members of the Revolutionary Guards. ](/news/2009/10/21/several-people-are-arrested-over-a-bomb-attack-in-southeastern-iran-that-killed-42-people-including-members-of-the-revolutionary-guards.md)
 _Context: Iran, Iranian Revolutionary guards, bomb attack_
@@ -28,7 +28,7 @@ _Context: Iran, Iranian Revolutionary guards, bomb attack_
 A Boeing 707-330C cargo plane, registered ST-AKW, was destroyed in an accident 1,6 km NW of Sharjah Airport (SHJ), United Arab Emirates. There were three passengers and three crew members on board. The airplane operated on a flight from Sharjah Airport (SHJ) to Khartoum-Civil Airport (KRT).
 
 ### [ Armed men take six people captive at a Lidl supermarket in Sevran, France. ](/news/2009/10/21/armed-men-take-six-people-captive-at-a-lidl-supermarket-in-sevran-france.md)
-_Context: French, Lidl, Sevran_
+_Context: France, Lidl, Sevran_
 
 ### [ At least thirteen people die in India's Rajasthan state after the Goa Express crashes into the stationary Mewar Express. ](/news/2009/10/21/at-least-thirteen-people-die-in-india-s-rajasthan-state-after-the-goa-express-crashes-into-the-stationary-mewar-express.md)
 _Context: Goa Express, India, Mewar Express, Rajasthan_

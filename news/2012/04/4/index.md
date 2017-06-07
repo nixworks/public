@@ -22,7 +22,7 @@ Some 200 US Marines, the first contingent of up to 2,500 to be deployed in north
 _Context: ASEAN Summit, Cambodia, Myanmar, Phnom Penh, by-elections earlier this month, sanctions_
 
 ### [France arrests ten suspected militant Islamists following 13 people arrested last week. ](/news/2012/04/4/france-arrests-ten-suspected-militant-islamists-following-13-people-arrested-last-week.md)
-_Context: French, Islamist_
+_Context: France, Islamist_
 
 ### [Former New Orleans Police Department officers are sentenced to decades in jail for shooting civilians after Hurricane Katrina, and a subsequent coverup. ](/news/2012/04/4/former-new-orleans-police-department-officers-are-sentenced-to-decades-in-jail-for-shooting-civilians-after-hurricane-katrina-and-a-subsequ.md)
 _Context: Hurricane Katrina, New Orleans Police Department_

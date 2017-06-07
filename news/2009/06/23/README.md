@@ -7,7 +7,7 @@ _Context: British House of Commons, John Bercow, Michael Martin, United Kingdom_
 Additional stress was found where the wings attach to the sides of the plane, but executives said that minor modifications would fix the problem.
 
 ### [ The French National Assembly announces the beginning of an inquiry into whether women in France should be allowed to wear the burqa. ](/news/2009/06/23/the-french-national-assembly-announces-the-beginning-of-an-inquiry-into-whether-women-in-france-should-be-allowed-to-wear-the-burqa.md)
-_Context: French, French National Assembly, burqa_
+_Context: France, French National Assembly, burqa_
 
 ### [ Ukraine sets 17 January 2010 as the date for the next presidential election said to be crucial for its future direction. ](/news/2009/06/23/ukraine-sets-17-january-2010-as-the-date-for-the-next-presidential-election-said-to-be-crucial-for-its-future-direction.md)
 Ukraine has set 17 January as the date for a presidential election crucial for its future direction.

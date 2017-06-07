@@ -16,7 +16,7 @@ _Context: 1993, 1999, Bavaria, CSU, Edmund Stoiber_
 _Context: Al Arabiya, Kuwait, oil_
 
 ### [ The French newspaper ''Le Monde'' reports that Spanish cyclist scar Pereiro has produced two positive urine samples for salbutamol during the 2006 Tour de France. Pereiro had finished second in the Tour. The contested winner, Floyd Landis, had tested positive for testosterone during the Tour. ](/news/2007/01/18/the-french-newspaper-le-monde-reports-that-spanish-cyclist-oscar-pereiro-has-produced-two-positive-urine-samples-for-salbutamol-during.md)
-_Context: 2006, French, Le Monde, salbutamol, scar Pereiro, testosterone_
+_Context: 2006, France, Le Monde, salbutamol, scar Pereiro, testosterone_
 
 ### [ Two people are killed in the Jumeirah Lake Towers fire in Dubai. ](/news/2007/01/18/two-people-are-killed-in-the-jumeirah-lake-towers-fire-in-dubai.md)
 _Context: Dubai, Jumeirah Lake Towers_
@@ -25,7 +25,7 @@ _Context: Dubai, Jumeirah Lake Towers_
 _Context: Dutch, English Channel, European windstorm, German, Great Britain, Kyrill, MSC ''Napoli''_
 
 ### [ Iraqi Prime Minister Nouri al-Maliki suggests that if the United States better armed the Iraqi armed forces, they would be able to dramatically draw back U.S. troops "in three to six months". ](/news/2007/01/18/iraqi-prime-minister-nouri-al-maliki-suggests-that-if-the-united-states-better-armed-the-iraqi-armed-forces-they-would-be-able-to-dramatic.md)
-_Context: Iraq, Iraq Prime Minister, Nouri al-Maliki, U.S._
+_Context: Iraq, Iraq Prime Minister, Nouri al-Maliki, United States_
 
 ### [ Israel transfers to the Palestinian Authority $100 million tax revenues withheld since the Hamas won the election last year. ](/news/2007/01/18/israel-transfers-to-the-palestinian-authority-100-million-tax-revenues-withheld-since-the-hamas-won-the-election-last-year.md)
 _Context: Hamas, Israel, Palestinian Authority_
@@ -34,7 +34,7 @@ _Context: Hamas, Israel, Palestinian Authority_
 _Context: Edwin Snowe, Liberia, vote of no confidence_
 
 ### [ Western U.S. Freeze of 2007: 65 deaths have been attributed to blizzards, ice storms and freezing rain since Friday (January 12) in nine U.S. states, including 23 in Oklahoma and 10 in Texas. ](/news/2007/01/18/western-u-s-freeze-of-2007-p-65-deaths-have-been-attributed-to-blizzards-ice-storms-and-freezing-rain-since-friday-january-12-in-nine-u.md)
-_Context: Oklahoma!, Texas, U.S., Western U.S. Freeze of 2007, blizzards, freezing-rain, ice storm_
+_Context: Oklahoma!, Texas, United States, Western U.S. Freeze of 2007, blizzards, freezing-rain, ice storm_
 
 ## [Previous Day...](/news/2007/01/17/index.md)
 

@@ -31,7 +31,7 @@ Bangladeshi Nobel laureate Muhammad Yunus seeks legal advice after the central b
 _Context: BSkyB, Competition Commission, News Corporation, Rupert Murdoch, Sky News_
 
 ### [MetLife, the largest life insurance company in the United States, claims that shares held by the American International Group (AIG) have been sold for $6.35 billion to help pay back the United States government for the bailout. ](/news/2011/03/2/metlife-the-largest-life-insurance-company-in-the-united-states-claims-that-shares-held-by-the-american-international-group-aig-have-bee.md)
-_Context: AIG, MetLife, U.S., life insurance_
+_Context: AIG, MetLife, United States, life insurance_
 
 ### [Apple Inc unveils the latest model of its tablet computer, the iPad 2. ](/news/2011/03/2/apple-inc-unveils-the-latest-model-of-its-tablet-computer-the-ipad-2.md)
 _Context: Apple Inc., iPad 2, tablets_
@@ -46,7 +46,7 @@ _Context: Lake Mweru, Zambia_
 _Context: 2011 Canterbury earthquake, Christchurch, New Zealand, dust storm_
 
 ### [Prosecutors in Paris, France, say that British fashion designer John Galliano will face criminal charges over alleged anti-Semitic remarks. ](/news/2011/03/2/prosecutors-in-paris-france-say-that-british-fashion-designer-john-galliano-will-face-criminal-charges-over-alleged-anti-semitic-remarks.md)
-_Context: French, John Galliano, Paris, anti-Semitism, fashion designer, prosecutor_
+_Context: France, John Galliano, Paris, anti-Semitism, fashion designer, prosecutor_
 
 ### [Frankfurt shootingsTwo United States Air Force personnel are killed and two others injured after a gunman opens fire at Frankfurt Airport in Germany - a suspect is arrested in connection with the incident. ](/news/2011/03/2/frankfurt-shootingsptwo-united-states-air-force-personnel-are-killed-and-two-others-injured-after-a-gunman-opens-fire-at-frankfurt-airport-i.md)
 _Context: Frankfurt Airport, German, United States Air Force_
@@ -88,7 +88,7 @@ _Context: D, Daniel Akaka, Hawaii, Senator, United States Senate election in Haw
 _Context: Dutch provincial elections of 2011, Elections in the Netherlands, Labour Party, People's Party for Freedom and Democracy_
 
 ### [The Eastern Cougar is declared extinct in the United States. ](/news/2011/03/2/the-eastern-cougar-is-declared-extinct-in-the-united-states.md)
-_Context: Eastern Cougar, U.S._
+_Context: Eastern Cougar, United States_
 
 ## [Previous Day...](/news/2011/03/1/index.md)
 

@@ -16,7 +16,7 @@ All British Airways flights leaving Heathrow and Gatwick are cancelled until 18:
 Germany called the climate change talks &quot;very unsatisfactory&quot;, describing them as &quot;six against one&quot;.
 
 ### [Colombey authorities report the tomb of French national hero Charles de Gaulle has been vandalized. ](/news/2017/05/27/colombey-authorities-report-the-tomb-of-french-national-hero-charles-de-gaulle-has-been-vandalized.md)
-_Context: Charles de Gaulle, Colombey, French_
+_Context: Charles de Gaulle, Colombey, France_
 
 ### [Theresa May announces that the British terror threat level has been downgraded from "critical" to "severe" and that Operation Temperer will be phased out shortly, following productive counter-terrorism investigations. ](/news/2017/05/27/theresa-may-announces-that-the-british-terror-threat-level-has-been-downgraded-from-critical-to-severe-and-that-operation-temperer-will.md)
 Threat level is reduced but Operation Temperer, which allows military to be deployed to key sites, will continue until end of bank holiday weekend

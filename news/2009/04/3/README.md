@@ -7,7 +7,7 @@ The U.S. unemployment rate reached 8.5 percent, its highest level in a quarter-c
 _Context: Deputy Prime Minister, Malaysia, Malaysian Prime Minister, Najib Tun Razak, inauguration_
 
 ### [ French police arrest 300 protesters as a NATO summit begins in Strasbourg. ](/news/2009/04/3/french-police-arrest-300-protesters-as-a-nato-summit-begins-in-strasbourg.md)
-_Context: French, French police, NATO, Protest, Strasbourg, summit_
+_Context: France, French police, NATO, Protest, Strasbourg, summit_
 
 ### [ Four soldiers die as Thailand's Army and Cambodia's Army exchange gunfire near the Preah Vihear Temple. ](/news/2009/04/3/four-soldiers-die-as-thailand-s-army-and-cambodia-s-army-exchange-gunfire-near-the-preah-vihear-temple.md)
 _Context: Army, Cambodia, Preah Vihear Temple, Royal Thai Army, Thailand, exchange gunfire, soldier_

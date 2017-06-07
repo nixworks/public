@@ -10,7 +10,7 @@ Congolese government troops have started their long-awaited offensive against Rw
 _Context: ISIL, Japanese, Kenji Goto_
 
 ### [France orders an official investigation into the crash of AirAsia Flight 8501 which had a French copilot flying the aircraft at the time of its crash. ](/news/2015/01/31/france-orders-an-official-investigation-into-the-crash-of-airasia-flight-8501-which-had-a-french-copilot-flying-the-aircraft-at-the-time-of.md)
-_Context: French, Indonesia AirAsia Flight 8501_
+_Context: France, Indonesia AirAsia Flight 8501_
 
 ### [Voters elect Sergio Mattarella President of Italy. ](/news/2015/01/31/voters-elect-sergio-mattarella-president-of-italy.md)
 _Context: Italian presidential election, 2015, President of Italy, Sergio Mattarella_

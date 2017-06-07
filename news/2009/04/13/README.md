@@ -28,7 +28,7 @@ _Context: Georgia, President of Georgia, Protest, Saakashvili, Tbilisi_
 At least four Lebanese soldiers were killed and one wounded Monday in an ambush that security officials blamed on a local drug mafia.News reports put the number of dead at five.Lebanese officials...
 
 ### [ The U.S. federal government will rescind travel and gift restrictions to Cuba. ](/news/2009/04/13/the-u-s-federal-government-will-rescind-travel-and-gift-restrictions-to-cuba.md)
-_Context: Cuba, Cuba - United States relations, U.S., United States, United States embargo against Cuba_
+_Context: Cuba, Cuba - United States relations, United States, United States, United States embargo against Cuba_
 
 ### [ The United Nations Security Council condemns North Korea's launch of Kwangmyongsong-2. ](/news/2009/04/13/the-united-nations-security-council-condemns-north-korea-s-launch-of-kwangmyangsang-2.md)
 _Context: Kwangmyongsong-2, North Korea, United Nations, United Nations Security Council, launches_

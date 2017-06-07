@@ -40,7 +40,7 @@ Nasdaq OMX Group Inc and IntercontinentalExchange withdrew their hostile $11.3 b
 Deputies warned people Sunday to get out as water gushing from a floodgate for the first time in four decades crept ever closer to communities in the Louisiana Cajun country, slowly filling a river basin like a giant bathtub. 
 
 ### [French investigators report that flight recorders recovered from the wreckage of Air France Flight 447 nearly two years after the crash are still readable. ](/news/2011/05/16/french-investigators-report-that-flight-recorders-recovered-from-the-wreckage-of-air-france-flight-447-nearly-two-years-after-the-crash-are.md)
-_Context: French, crash of Air France Flight 447, flight recorders_
+_Context: France, crash of Air France Flight 447, flight recorders_
 
 ### [At least one person is killed and at least six injured following a building collapse in the US town of Morrilton, Arkansas. ](/news/2011/05/16/at-least-one-person-is-killed-and-at-least-six-injured-following-a-building-collapse-in-the-us-town-of-morrilton-arkansas.md)
 _Context: Arkansas, Morrilton_

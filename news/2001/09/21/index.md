@@ -4,7 +4,7 @@
 _Context: Asians, England, Peterborough, September 11th attacks, murder of Ross Parker_
 
 ### [ The AZF fertiliser factory in Toulouse, France, explodes, killing 31 and injuring over 2000. Later, a terrorist group take up the name "AZF" when threatening to bomb French railways.](/news/2001/09/21/the-azf-fertiliser-factory-in-toulouse-france-explodes-killing-31-and-injuring-over-2000-later-a-terrorist-group-take-up-the-name-azf.md)
-_Context: AZF, French, Toulouse_
+_Context: AZF, France, Toulouse_
 
 ## [Previous Day...](/news/2001/09/20/index.md)
 

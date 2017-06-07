@@ -28,13 +28,13 @@ Get the latest international news and world events from Asia, Europe, the Middle
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ In the United States, Douglas S. Smith Jr, a former top official of Boy Scouts of America, is charged with possession of child pornography. ](/news/2005/03/29/in-the-united-states-douglas-s-smith-jr-a-former-top-official-of-boy-scouts-of-america-is-charged-with-possession-of-child-pornography.md)
-_Context: Boy Scouts of America, Douglas S. Smith Jr, U.S., child pornography_
+_Context: Boy Scouts of America, Douglas S. Smith Jr, United States, child pornography_
 
 ### [ In Uganda, thousands of Muslims demonstrate in the capital Kampala against the Domestic Relations Bill that would, among other things, limit polygamy. ](/news/2005/03/29/in-uganda-thousands-of-muslims-demonstrate-in-the-capital-kampala-against-the-domestic-relations-bill-that-would-among-other-things-limi.md)
 _Context: Domestic Relations Bill, Kampala, Muslim, Uganda, polygamy_
 
 ### [ France intends to change law that allows girls to marry at the age of 15  ](/news/2005/03/29/france-intends-to-change-law-that-allows-girls-to-marry-at-the-age-of-15.md)
-_Context: French, marriage_
+_Context: France, marriage_
 
 ### [ Dam bursts in South-eastern Afghanistan near the city of Ghazni. At least 6 people dead. ](/news/2005/03/29/dam-bursts-in-south-eastern-afghanistan-near-the-city-of-ghazni-at-least-6-people-dead.md)
 _Context: Afghanistan, Ghazni, dam_

@@ -16,7 +16,7 @@ The Istanbul Police Department has issued of bomb attack warnings on crowded pla
 _Context: Bangsamoro Basic Law, Benigno Aquino III, Philippine presidential election, 2016, Philippines, State of the Nation Address, anti-dynasty bill_
 
 ### [French farmers protesting low prices within the country turn back hundreds of trucks suspected of carrying foreign agricultural products at the country's border with Germany. ](/news/2015/07/27/french-farmers-protesting-low-prices-within-the-country-turn-back-hundreds-of-trucks-suspected-of-carrying-foreign-agricultural-products-at.md)
-_Context: French, German, farmers_
+_Context: France, German, farmers_
 
 ### [A.P.J. Abdul Kalam,former President of India dies aged 83.](/news/2015/07/27/a-p-j-abdul-kalam-former-president-of-india-dies-aged-83.md)
 _Context: A.P.J. Abdul Kalam, President of India_

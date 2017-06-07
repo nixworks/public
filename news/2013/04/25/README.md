@@ -7,7 +7,7 @@ The two suspects in the Boston Marathon bombings intended to attack New York Cit
 F-16 shoots down vessel over Mediterranean; not clear whether drone was armed; Hezbollah denies having sent UAV to Israel.
 
 ### [A gunman kills three people with a Kalashnikov rifle in a shooting attack in Istres, France. ](/news/2013/04/25/a-gunman-kills-three-people-with-a-kalashnikov-rifle-in-a-shooting-attack-in-istres-france.md)
-_Context: AK-47s, French, Istres_
+_Context: AK-47s, France, Istres_
 
 ### [French unemployment reaches a record level of 3.22 million. ](/news/2013/04/25/french-unemployment-reaches-a-record-level-of-3-22-million.md)
 _Context: Frenchman_

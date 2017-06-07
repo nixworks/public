@@ -19,7 +19,7 @@ The US State Department spokesperson during the daily briefing declined to comme
 A Chinese court gives former Railways Minister Liu Zhijun a suspended death sentence for bribery and abuse of power, state media report.
 
 ### [A French court clears oil company Total S.A., its chief executive and over a dozen defendants of corruption charges related to the United Nations oil-for-food programme in Iraq. ](/news/2013/07/8/a-french-court-clears-oil-company-total-s-a-its-chief-executive-and-over-a-dozen-defendants-of-corruption-charges-related-to-the-united-na.md)
-_Context: French, Iraq, Total S.A., United Nations, oil-for-food programme_
+_Context: France, Iraq, Total S.A., United Nations, oil-for-food programme_
 
 ### [The Syrian Ba'ath Party announces a shakeup of leadership positions with Vice President Farouk al-Sharaa losing his position. ](/news/2013/07/8/the-syrian-ba-ath-party-announces-a-shakeup-of-leadership-positions-with-vice-president-farouk-al-sharaa-losing-his-position.md)
 _Context: Farouk al-Sharaa, Syrian Ba'ath Party, Vice President_

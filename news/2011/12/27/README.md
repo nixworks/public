@@ -7,7 +7,7 @@ Ms. Frankenthaler, whose staining technique was essential to the development of 
 Consumers spent $30.9 billion toward online purchases during the current holiday season, a 15 percent increase from the year-ago period, as shoppers took advantage of free shipping and other online deals, according to comScore.
 
 ### [Sears Holdings Corporation announces plans to close over 100 Sears and K-Mart stores in the United States. ](/news/2011/12/27/sears-holdings-corporation-announces-plans-to-close-over-100-sears-and-k-mart-stores-in-the-united-states.md)
-_Context: K-Mart, Sears, Sears Holdings Corporation, U.S._
+_Context: K-Mart, Sears, Sears Holdings Corporation, United States_
 
 ### [A bankruptcy court judge ruled that the trustee liquidating MF Global, James Giddens, and his law firm, Hughes Hubbard & Reed, are sufficiently "disinterested" in the disposition of assets for Giddens to continue his work in that capacity. ](/news/2011/12/27/a-bankruptcy-court-judge-ruled-that-the-trustee-liquidating-mf-global-james-giddens-and-his-law-firm-hughes-hubbard-reed-are-sufficien.md)
 _Context: Hughes Hubbard & Reed, James Giddens, MF Global, bankruptcy_

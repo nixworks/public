@@ -10,7 +10,7 @@ _Context: International Security Assistance Force, NATO, War in Afghanistan (200
 _Context: Haiti, United Nations, lynch_
 
 ### [ The United States and India confirm a deal on nuclear co-operation. ](/news/2007/07/27/the-united-states-and-india-confirm-a-deal-on-nuclear-co-operation.md)
-_Context: India, U.S., nuclear co-operation_
+_Context: India, United States, nuclear co-operation_
 
 ### [ Clinical trials for MVA85A, a new vaccine against tuberculosis, are started in South Africa. ](/news/2007/07/27/clinical-trials-for-mva85a-a-new-vaccine-against-tuberculosis-are-started-in-south-africa.md)
 _Context: MVA85A, South Africa, clinical trial, tuberculosis, vaccine_
@@ -46,7 +46,7 @@ The Israeli Defence Force (IDF) has suspended an entire army company from duty f
 _Context: KNXV, KTVK, Phoenix, Arizona, car chase, helicopter_
 
 ### [ Former French Prime Minister Dominique de Villepin is charged with "complicity in slanderous denunciations" and "complicity in using forgeries" for allegedly trying to discredit current President Nicolas Sarkozy. ](/news/2007/07/27/former-french-prime-minister-dominique-de-villepin-is-charged-with-complicity-in-slanderous-denunciations-and-complicity-in-using-forger.md)
-_Context: Dominique de Villepin, French, Nicolas Sarkozy, President, Prime Minister_
+_Context: Dominique de Villepin, France, Nicolas Sarkozy, President, Prime Minister_
 
 ### [ Jailed policeman Eugene de Kock claims in an interview from prison that former South African President Frederik Willem de Klerk had hands "soaked in blood" and had ordered political killings and other crimes during the anti-apartheid conflict.  ](/news/2007/07/27/jailed-policeman-eugene-de-kock-claims-in-an-interview-from-prison-that-former-south-african-president-frederik-willem-de-klerk-had-hands.md)
 _Context: Eugene de Kock, Frederik Willem de Klerk, President of South Africa, South Africa, apartheid, kill_

@@ -23,7 +23,7 @@ _Context: Connecticut, Connecticut Supreme Court, same-sex marriage_
 _Context: Ethiopia, Oxfam_
 
 ### [ NATO ministers reach a deal after overcoming resistance from France, Italy and Germany by agreeing that only willing countries temporarily "act in concert with the Afghans, against [drug] facilities". ](/news/2008/10/10/nato-ministers-reach-a-deal-after-overcoming-resistance-from-france-italy-and-germany-by-agreeing-that-only-willing-countries-temporarily.md)
-_Context: French, German, Italy, NATO_
+_Context: France, German, Italy, NATO_
 
 ### [ Nobel Prize: The Nobel peace prize is awarded to former Finnish president Martti Ahtisaari for mediation for the resolution of international conflicts  who, as a UN special envoy, guided Namibia to independence in 1990, oversaw the 2005 reconciliation between the government of Indonesia and rebels in Aceh, and mediated a peace deal in Kosovo.](/news/2008/10/10/nobel-prize-p-the-nobel-peace-prize-is-awarded-to-former-finnish-president-martti-ahtisaari-for-mediation-for-the-resolution-of-internation.md)
 _Context: Aceh, Indonesia, Kosovo, Martti Ahtisaari, Namibia, Nobel Peace Prize, Nobel Prize, UN_

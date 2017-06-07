@@ -10,7 +10,7 @@ _Context: Khyber Agency_
 _Context: Kunduz, Mohammad Omar_
 
 ### [German officials say that Islamic militants whose disclosures have triggered a Europe-wide terror alert, have links to the perpetrators of the September 11 attacks on the United States in 2001. ](/news/2010/10/8/german-officials-say-that-islamic-militants-whose-disclosures-have-triggered-a-europe-wide-terror-alert-have-links-to-the-perpetrators-of-t.md)
-_Context: Europe-wide terror alert, German, Islamic terrorism, September 11 attacks, U.S._
+_Context: Europe-wide terror alert, German, Islamic terrorism, September 11 attacks, United States_
 
 ### [A Taiwanese ship initially believed to have been hijacked off the coast of Madagascar is later found safe. ](/news/2010/10/8/a-taiwanese-ship-initially-believed-to-have-been-hijacked-off-the-coast-of-madagascar-is-later-found-safe.md)
 A Taiwanese ship reported to have been seized by pirates east of Madagascar had just &quot;lost touch&quot; with its owner, according to the EU naval force fighting piracy in the Indian Ocean.
@@ -25,7 +25,7 @@ John Lennon, the late Beatles singer, has been celebrated with a special interac
 _Context: BBC Four, German, The White Ribbon, World Cinema Award_
 
 ### [United States gospel music singer Albertina Walker, known as the "Queen of Gospel" dies in Chicago. ](/news/2010/10/8/united-states-gospel-music-singer-albertina-walker-known-as-the-queen-of-gospel-dies-in-chicago.md)
-_Context: Albertina Walker, Gospel, U.S._
+_Context: Albertina Walker, Gospel, United States_
 
 ### [The International Civil Aviation Organization (ICAO) concluded its 37th session of its assembly on Friday at its headquarters in Montreal, making progresses on aviation emissions. ](/news/2010/10/8/the-international-civil-aviation-organization-icao-concluded-its-37th-session-of-its-assembly-on-friday-at-its-headquarters-in-montreal-m.md)
 _Context: International Civil Aviation Organization, Montreal_
@@ -46,7 +46,7 @@ _Context: Japan, People's Republic of China, Wen Jiabao, rare earth element_
 Residents blame aluminium company for toxic spill that killed four people and devastated three villages.
 
 ### [Maltese chemical tanker YM Uranus||2 is reported to be sinking following a collision with the Panamanian cargo ship ''Hanjin Rizhao'' off the coast of Brittany, France. ](/news/2010/10/8/maltese-chemical-tanker-ym-uranus-2-is-reported-to-be-sinking-following-a-collision-with-the-panamanian-cargo-ship-hanjin-rizhao-off-th.md)
-_Context: Brittany, French, Malta, Panama, Tanker, cargo ship_
+_Context: Brittany, France, Malta, Panama, Tanker, cargo ship_
 
 ### [One person died and 42 others remain hospitalized in the Tibetan Autonomous Prefecture of Garze. Over 100 people, mostly tourists and hotel staff, were affected. ](/news/2010/10/8/one-person-died-and-42-others-remain-hospitalized-in-the-tibetan-autonomous-prefecture-of-garze-over-100-people-mostly-tourists-and-hotel.md)
 _Context: Tibetan Autonomous Prefecture of Garze_
@@ -73,7 +73,7 @@ _Context: Ashfaq Parvez Kayani, Chief of Army Staff, Pakistan Army, Pakistani, f
 _Context: Aung San Suu Kyi, Burma, house arrest_
 
 ### [France's highest legal authority rules in favour of a ban on facial veils. ](/news/2010/10/8/france-s-highest-legal-authority-rules-in-favour-of-a-ban-on-facial-veils.md)
-_Context: French_
+_Context: France_
 
 ### [United States National Security Advisor General James L. Jones announces his resignation effective in two weeks; his deputy Thomas E. Donilon is expected to replace him. ](/news/2010/10/8/united-states-national-security-advisor-general-james-l-jones-announces-his-resignation-effective-in-two-weeks-his-deputy-thomas-e-donilo.md)
 In an afternoon statement in the White House Rose Garden, President Barack Obama announced Friday that he will name Tom Donilon to be his next National Security Adviser, replacing retiring Gen. James Jones. 
@@ -88,7 +88,7 @@ The Murray-Darling Basin Authority calls for water consumption from some of the 
 _Context: Chang'e 2_
 
 ### [Two Russian cosmonauts, Aleksandr Kaleri and Oleg Skripochka, and American astronaut Scott Kelly leave on mission Soyuz TMA-01M for the International Space Station from Kazakhstan's Baikonur Cosmodrome. ](/news/2010/10/8/two-russian-cosmonauts-aleksandr-kaleri-and-oleg-skripochka-and-american-astronaut-scott-kelly-leave-on-mission-soyuz-tma-01m-for-the-inte.md)
-_Context: Aleksandr Kaleri, Baikonur Cosmodrome, International Space Station, Kazakhstan, Oleg Skripochka, Russia, Scott Kelly, Soyuz TMA-01M, U.S., astronaut, cosmonaut_
+_Context: Aleksandr Kaleri, Baikonur Cosmodrome, International Space Station, Kazakhstan, Oleg Skripochka, Russia, Scott Kelly, Soyuz TMA-01M, United States, astronaut, cosmonaut_
 
 ### [Anthropologists claim to have proven that Yersinia pestis was responsible for the Black Death in  Medieval Europe. ](/news/2010/10/8/anthropologists-claim-to-have-proven-that-yersinia-pestis-was-responsible-for-the-black-death-in-medieval-europe.md)
 Anthropologists say they have confirmed long-running suspicions that a germ called Yersinia pestis caused the plague that wiped out an estimated third of Europe&#039;s population in the Middle Ages.

@@ -4,10 +4,10 @@
 _Context: Angela Merkel, Chancellor, German, Israel, Jewish state, parliament in Israel_
 
 ### [ The United States Federal Reserve System cuts the federal funds rate by 75 basis points to 2.25%. ](/news/2008/03/18/the-united-states-federal-reserve-system-cuts-the-federal-funds-rate-by-75-basis-points-to-2-25.md)
-_Context: Federal Reserve System, U.S., federal funds interest rate_
+_Context: Federal Reserve System, United States, federal funds interest rate_
 
 ### [ The United States embassy in Yemen is closed after three mortar shells detonate near the embassy compound. Two people are killed in the attack. ](/news/2008/03/18/the-united-states-embassy-in-yemen-is-closed-after-three-mortar-shells-detonate-near-the-embassy-compound-two-people-are-killed-in-the-att.md)
-_Context: Mortar, U.S., Yemen, embassies_
+_Context: Mortar, United States, Yemen, embassies_
 
 ### [ The Organization of American States condemns Colombia's recent raid into Ecuador's territory as "a clear violation of the OAS charter."  ](/news/2008/03/18/the-organization-of-american-states-condemns-colombia-s-recent-raid-into-ecuador-s-territory-as-a-clear-violation-of-the-oas-charter.md)
 _Context: Colombia, Ecuador, Organization of American States_
@@ -22,7 +22,7 @@ _Context: 2008 National People's Congress, 2008 unrest in Tibet, Premier of the 
 Canada followed the lead of about 30 other countries Tuesday and formally recognized Kosovo, a former Serbian province that declared its independence last month.
 
 ### [ French Foreign Minister Bernard Kouchner says the EU should consider punishing China's crackdown in Tibet with a boycott of the opening ceremony of the Olympic Games in Beijing. ](/news/2008/03/18/french-foreign-minister-bernard-kouchner-says-the-eu-should-consider-punishing-china-s-crackdown-in-tibet-with-a-boycott-of-the-opening-cer.md)
-_Context: Beijing, Beijing Olympiad, Bernard Kouchner, Chinese, European Union, French, Tibet, boycott_
+_Context: Beijing, Beijing Olympiad, Bernard Kouchner, Chinese, European Union, France, Tibet, boycott_
 
 ### [ The Netherlands sets a new world record in the 400-metres relay at the European swimming championships in Eindhoven. ](/news/2008/03/18/the-netherlands-sets-a-new-world-record-in-the-400-metres-relay-at-the-european-swimming-championships-in-eindhoven.md)
 _Context: Dutch, Eindhoven, European Swimming Championships, relay_

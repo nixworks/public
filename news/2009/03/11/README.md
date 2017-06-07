@@ -4,7 +4,7 @@
 _Context: Burkina Faso, Mali, Niger, Nigeria, United Nations, United Nations Children's Fund, epidemic, meningitis_
 
 ### [ The United States National Aeronautics and Space Administration delays the Space Shuttle ''Discovery'''s mission to the International Space Station due to a hydrogen gas leak. ](/news/2009/03/11/the-united-states-national-aeronautics-and-space-administration-delays-the-space-shuttle-discovery-s-mission-to-the-international-space.md)
-_Context: Discovery, International Space Station, NASA, Space Shuttle, U.S., hydrogen gas, lands, natural gas leak_
+_Context: Discovery, International Space Station, NASA, Space Shuttle, United States, hydrogen gas, lands, natural gas leak_
 
 ### [ China's exports contract 25.7%, the worst decline since 1993. ](/news/2009/03/11/china-s-exports-contract-25-7-the-worst-decline-since-1993.md)
 _Context: 4th quarter of 2007 and the second quarter of 2009, People's Republic of China, export_
@@ -19,7 +19,7 @@ _Context: German, School shooting, Winnenden, killed_
 _Context: Ali Hassan al-Majid, Deputy Prime Minister, Intelligence Service, Iraq, Tariq Aziz, crimes against humanity_
 
 ### [ President Nicolas Sarkozy announces that France will rejoin NATO's military command.  ](/news/2009/03/11/president-nicolas-sarkozy-announces-that-france-will-rejoin-nato-s-military-command.md)
-_Context: French, NATO, Nicolas Sarkozy, President of France, military command_
+_Context: France, NATO, Nicolas Sarkozy, President of France, military command_
 
 ## [Previous Day...](/news/2009/03/10/index.md)
 

@@ -13,7 +13,7 @@ _Context: BitTorrent, Stockholm, Sweden, The Pirate Bay, tracker, trial_
 _Context: GDP, Japan, contracted, fiscal year, late 2000s recession_
 
 ### [ The British Royal Navy's nuclear submarine HMS ''Vanguard'' and the French Navy's ''Le Triomphant'' collide in the Atlantic Ocean on February 3 or 4. ](/news/2009/02/16/the-british-royal-navy-s-nuclear-submarine-hms-vanguard-and-the-french-navy-s-le-triomphant-collide-in-the-atlantic-ocean-on-februa.md)
-_Context: ''Le Triomphant'', 4, Atlantic Ocean, February 3, French, French naval, HMS ''Vanguard'', Royal Navy, United Kingdom, collide, nuclear submarine_
+_Context: ''Le Triomphant'', 4, Atlantic Ocean, February 3, France, French naval, HMS ''Vanguard'', Royal Navy, United Kingdom, collide, nuclear submarine_
 
 ### [ Protesters and police clash in Guadeloupe as part of general strikes. ](/news/2009/02/16/protesters-and-police-clash-in-guadeloupe-as-part-of-general-strikes.md)
 _Context: Guadeloupe, Protest, ongoing general strikes, police_

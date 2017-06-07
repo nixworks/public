@@ -29,7 +29,7 @@ _Context: Peru, Yines_
 Death toll jumps to 917 as international organisations appeal for funds to fight epidemic.
 
 ### [Seven people are killed in a fire burning migrant workers' residence in Dijon, eastern France. ](/news/2010/11/14/seven-people-are-killed-in-a-fire-burning-migrant-workers-residence-in-dijon-eastern-france.md)
-_Context: Dijon, French_
+_Context: Dijon, France_
 
 ### [The death toll from the Mount Merapi eruptions reaches 250. ](/news/2010/11/14/the-death-toll-from-the-mount-merapi-eruptions-reaches-250.md)
 _Context: Mounts Merapi, eruptions_

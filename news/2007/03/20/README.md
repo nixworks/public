@@ -31,7 +31,7 @@ _Context: Des Browne, Secretary of State for Defence, United Kingdom, civilian, 
 _Context: Deputy White House Chief of Staff, George W. Bush administration, Harriet Miers, Karl Rove, White House Counsel, firings, oath, testify_
 
 ### [ France signs an extradition treaty with the People's Republic of China but will only extradite people in death penalty cases when China agrees that the person will not receive a death penalty. ](/news/2007/03/20/france-signs-an-extradition-treaty-with-the-people-s-republic-of-china-but-will-only-extradite-people-in-death-penalty-cases-when-china-agr.md)
-_Context: French, People's Republic of China, death penalty, extradited, international agreement_
+_Context: France, People's Republic of China, death penalty, extradited, international agreement_
 
 ### [ European Union High Representative for the Common Foreign and Security Policy Javier Solana says that the EU is doing all it can to find Alan Johnston, the BBC Gaza correspondent who has been missing for 8 days. ](/news/2007/03/20/european-union-high-representative-for-the-common-foreign-and-security-policy-javier-solana-says-that-the-eu-is-doing-all-it-can-to-find-al.md)
 _Context: Alan Johnston, BBC, European Union, Gaza Strip, High Representative for the Common Foreign and Security Policy, Javier Solana_
@@ -43,7 +43,7 @@ _Context: Krasnodar Krai, Russia, fire, nursing home_
 _Context: Baath Party, Baghdad, Dujail, Iraq, Taha Yassin Ramadan, Vice President, most-wanted Iraqi playing cards_
 
 ### [ The wife of Sami Al-Arian, a former university professor convicted by a United States district court of funneling money to Islamic Jihad, fears for his life as his hunger strike to protest his imprisonment enters its 58th day. ](/news/2007/03/20/the-wife-of-sami-al-arian-a-former-university-professor-convicted-by-a-united-states-district-court-of-funneling-money-to-islamic-jihad-f.md)
-_Context: Islamic Jihad Movement in Palestine, Sami Al-Arian, U.S., U.S. federal court, hunger strike_
+_Context: Islamic Jihad Movement in Palestine, Sami Al-Arian, U.S. federal court, United States, hunger strike_
 
 ## [Previous Day...](/news/2007/03/19/index.md)
 

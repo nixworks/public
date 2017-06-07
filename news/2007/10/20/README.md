@@ -25,7 +25,7 @@ _Context: Dumbledore, Harry Potter, J. K. Rowling, homosexual_
 _Context: Mandalay, Myanmar, September 26, State Peace and Development Council, Yangon, curfew_
 
 ### [ French trains resume service after a two-day strike against President Nicolas Sarkozy's proposed welfare reform. ](/news/2007/10/20/french-trains-resume-service-after-a-two-day-strike-against-president-nicolas-sarkozy-s-proposed-welfare-reform.md)
-_Context: France's national railway company, French, Nicolas Sarkozy, President of France, strike, welfare reform_
+_Context: France, France's national railway company, Nicolas Sarkozy, President of France, strike, welfare reform_
 
 ### [ Iraqi President Jalal Talabani criticizes Syrian President Bashar al-Assad for his support of a possible Turkish attack against Kurdistan Workers Party fighters in the Iraqi Kurdistan. ](/news/2007/10/20/iraqi-president-jalal-talabani-criticizes-syrian-president-bashar-al-assad-for-his-support-of-a-possible-turkish-attack-against-kurdistan-w.md)
 _Context: Bashar al-Assad, Iraq, Iraqi Kurdistan, Jalal Talabani, Kurdistan Workers' Party, President, President, Syria, Turkey_

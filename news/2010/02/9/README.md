@@ -10,7 +10,7 @@ _Context: Philippine general election, 2010_
 _Context: Mahinda Rajapaksa, Parliament, President of Sri Lanka, Sarath Fonseka_
 
 ### [The Italian Embassy in Iran is attacked by protesters unhappy with Italy's decision to scale back economic dealings and push for tighter sanctions and protests are also held outside French and Dutch embassies. ](/news/2010/02/9/the-italian-embassy-in-iran-is-attacked-by-protesters-unhappy-with-italy-s-decision-to-scale-back-economic-dealings-and-push-for-tighter-san.md)
-_Context: Dutch, French, Iran, Italy, sanctions_
+_Context: Dutch, France, Iran, Italy, sanctions_
 
 ### [Andal Ampatuan Jr., former ally of President Gloria Macapagal-Arroyo, and 196 other people are charged with murder in the Philippines, in connection with the Maguindanao massacre in November 2009. ](/news/2010/02/9/andal-ampatuan-jr-former-ally-of-president-gloria-macapagal-arroyo-and-196-other-people-are-charged-with-murder-in-the-philippines-in-co.md)
 MANILA, Philippines - The Department of Justice on Tuesday recommended the filing of 57 counts of murder against former Maguindanao governor Andal Ampatuan Sr. and 196 others linked to the gruesome massacre of 57 people in Maguindanao last November 23.

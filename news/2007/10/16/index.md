@@ -7,7 +7,7 @@ _Context: Anne Enright, Ireland, Man Booker Prize, The Gathering, novel, writer_
 _Context: Burkina Faso, Costa Rica, Croatia, Libya, United Nations Security Council, Vietnam, elected, non-permanent members_
 
 ### [ The Prime Minister of India Manmohan Singh advises the President of the United States George W. Bush that India is unlikely to sign a pact with the United States on civil nuclear cooperation. ](/news/2007/10/16/the-prime-minister-of-india-manmohan-singh-advises-the-president-of-the-united-states-george-w-bush-that-india-is-unlikely-to-sign-a-pact.md)
-_Context: George W. Bush, India, India's Prime Minister, Manmohan Singh, U.S., U.S. President_
+_Context: George W. Bush, India, India's Prime Minister, Manmohan Singh, U.S. President, United States_
 
 ### [ Macedonian singer Tose Proeski passes away in Croatia](/news/2007/10/16/macedonian-singer-tose-proeski-passes-away-in-croatia.md)
 ## [Previous Day...](/news/2007/10/15/index.md)

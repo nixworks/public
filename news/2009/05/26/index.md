@@ -7,7 +7,7 @@ _Context: Beijing, Communist Party general secretary, Communist Party of China, 
 _Context: California, Supreme Court, ban, reversed its legalization, same-sex marriage, upholds_
 
 ### [ President Barack Obama nominates Federal Judge Sonia Sotomayor for the United States Supreme Court. ](/news/2009/05/26/president-barack-obama-nominates-federal-judge-sonia-sotomayor-for-the-united-states-supreme-court.md)
-_Context: Barack Obama, Sonia Sotomayor, Supreme Court, U.S., U.S. President, United States federal judge, confirmed_
+_Context: Barack Obama, Sonia Sotomayor, Supreme Court, U.S. President, United States, United States federal judge, confirmed_
 
 ### [ President Isaias Afewerki says Eritrea will not release imprisoned journalist Dawit Isaak. ](/news/2009/05/26/president-isaias-afewerki-says-eritrea-will-not-release-imprisoned-journalist-dawit-isaak.md)
 _Context: Dawit Isaak, Eritrea, Isaias Afewerki, President, journalism, prison_
@@ -28,7 +28,7 @@ _Context: 4th quarter of 2007 and the second quarter of 2009, South Africa, Sout
 _Context: Sudan, convoy, killed, people smugglers_
 
 ### [ French President Nicolas Sarkozy will open a military base in Abu Dhabi, United Arab Emirates. ](/news/2009/05/26/french-president-nicolas-sarkozy-will-open-a-military-base-in-abu-dhabi-united-arab-emirates.md)
-_Context: Abu Dhabi, French, Nicolas Sarkozy, President of France, United Arab Emirates, military installations_
+_Context: Abu Dhabi, France, Nicolas Sarkozy, President of France, United Arab Emirates, military installations_
 
 ### [ A suicide attack kills six people in Kapisa Province, Afghanistan. ](/news/2009/05/26/a-suicide-attack-kills-six-people-in-kapisa-province-afghanistan.md)
 _Context: Afghanistan, Kapisa province, suicide bombing_

@@ -4,7 +4,7 @@
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ U.S. military casualties in the Iraq War reach 4,000. ](/news/2008/03/23/u-s-military-casualties-in-the-iraq-war-reach-4-000.md)
-_Context: Iraq War, U.S. military personnel_
+_Context: Iraq War, United States_
 
 ### [ An agreement on talks to resolve the Fatah-Hamas conflict is reached in Sana'a, Yemen. ](/news/2008/03/23/an-agreement-on-talks-to-resolve-the-fatahahamas-conflict-is-reached-in-sana-a-yemen.md)
 _Context: Fatah-Hamas conflict, Sana'a, Yemen_

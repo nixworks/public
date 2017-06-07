@@ -10,7 +10,7 @@ _Context: Guinean general strike, 2007, Lansana Cont, Lansana Kouyate, President
 _Context: Film director, Human remains, James Cameron, Jesus, Mary Magdalene, Talpiot Tomb, ossuaries_
 
 ### [ Insurgency in Saudi Arabia: At least three French citizens have been shot dead in an attack near the historical site of Madain Saleh. ](/news/2007/02/26/insurgency-in-saudi-arabia-at-least-three-french-citizens-have-been-shot-dead-in-an-attack-near-the-historical-site-of-madain-saleh.md)
-_Context: French, Madain Saleh, insurgency in Saudi Arabia_
+_Context: France, Madain Saleh, insurgency in Saudi Arabia_
 
 ### [ Iraq: The Iraqi Government has come to an agreement to divide oil revenue and encourage foreign investment in the country. ](/news/2007/02/26/iraq-p-the-iraqi-government-has-come-to-an-agreement-to-divide-oil-revenue-and-encourage-foreign-investment-in-the-country.md)
 The attack was the most serious breach of an Iraqi government building since November.

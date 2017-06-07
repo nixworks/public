@@ -25,7 +25,7 @@ _Context: Mazen Abdul-Jawad, Saudi Arabia_
 _Context: Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council_
 
 ### [ Somali pirates attack the French Navy replenishment tanker ''Somme'' (A631) in error, believing it to be a cargo ship. ](/news/2009/10/7/somali-pirates-attack-the-french-navy-replenishment-tanker-somme-a631-in-error-believing-it-to-be-a-cargo-ship.md)
-_Context: French, French naval, Somali pirates, Somalia_
+_Context: France, French naval, Somali pirates, Somalia_
 
 ### [ More than a million people are affected in one of the worst droughts to affect Syria in decades. ](/news/2009/10/7/more-than-a-million-people-are-affected-in-one-of-the-worst-droughts-to-affect-syria-in-decades.md)
 _Context: Syria, drought_

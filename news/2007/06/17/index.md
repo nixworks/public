@@ -22,7 +22,7 @@ _Context: Hamas, Mahmoud Abbas, Palestinian Authority President, outlaw_
 _Context: Afghanistan, Kabul, police_
 
 ### [ French voters go to the polls to elect a new French National Assembly. The centre-right Union for a Popular Movement  (UPM) wins a comfortable majority; however, the left did make some gains, with senior minister Alain Juppe losing his seat in Bordeaux. ](/news/2007/06/17/french-voters-go-to-the-polls-to-elect-a-new-french-national-assembly-the-centre-right-union-for-a-popular-movement-upm-wins-a-comforta.md)
-_Context: Alain Juppe, Bordeaux, French, French National Assembly, UMP, centre-right, go to the polls_
+_Context: Alain Juppe, Bordeaux, France, French National Assembly, UMP, centre-right, go to the polls_
 
 ## [Previous Day...](/news/2007/06/16/index.md)
 

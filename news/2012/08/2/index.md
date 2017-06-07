@@ -10,7 +10,7 @@ _Context: Afghanistan, Kabul, War in Afghanistan (2001-present)_
 _Context: Lahore, Pakistan_
 
 ### [French L'Oreal heiress Liliane Bettencourt sells D'Arros Island for $60 million. ](/news/2012/08/2/french-l-ora-c-al-heiress-liliane-bettencourt-sells-d-arros-island-for-60-million.md)
-_Context: D'Arros Island, French, L'Oreal, Liliane Bettencourt_
+_Context: D'Arros Island, France, L'Oreal, Liliane Bettencourt_
 
 ### [Italian football club Inter Milan sells a 15% stake to a Chinese investor group. ](/news/2012/08/2/italian-football-club-inter-milan-sells-a-15-stake-to-a-chinese-investor-group.md)
 Italian football club Inter Milan says that a group of Chinese investors will become its second-largest shareholder.

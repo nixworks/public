@@ -4,10 +4,10 @@
 _Context: Budapest, Hungary, police, tear gas, water cannon_
 
 ### [ Four United States soldiers die in Baghdad in a car bomb attack, while 12 Iraqis die in Baghdad and Iskandariya in the south of Iraq. ](/news/2007/03/15/four-united-states-soldiers-die-in-baghdad-in-a-car-bomb-attack-while-12-iraqis-die-in-baghdad-and-iskandariya-in-the-south-of-iraq.md)
-_Context: Baghdad, Iraq, Iskandariya, U.S., car bomb_
+_Context: Baghdad, Iraq, Iskandariya, United States, car bomb_
 
 ### [ Willie Brigitte is sentenced to nine years' jail in France for planning terrorist attacks in Australia. ](/news/2007/03/15/willie-brigitte-is-sentenced-to-nine-years-jail-in-france-for-planning-terrorist-attacks-in-australia.md)
-_Context: Australia, French, Willie Brigitte, jail_
+_Context: Australia, France, Willie Brigitte, jail_
 
 ### [ Researchers discover that the polar ice cap at Planum Australe, the south pole of Mars, is thick enough to cover the planet with water if melted. ](/news/2007/03/15/researchers-discover-that-the-polar-ice-cap-at-planum-australe-the-south-pole-of-mars-is-thick-enough-to-cover-the-planet-with-water-if-m.md)
 _Context: Mars, Planum Australe, South Pole, planet, polar ice cap, water_
@@ -31,7 +31,7 @@ _Context: Italy, Movement for the Emancipation of the Niger Delta, Nigeria_
 Many security personnel are feared killed in the attack on a police outpost in Bijapur district of Chhattisgarh.
 
 ### [ France's SNCF inaugurates the LGV Est route between Paris and Strasbourg. ](/news/2007/03/15/france-s-sncf-inaugurates-the-lgv-est-route-between-paris-and-strasbourg.md)
-_Context: France's national railway company, French, LGV Est, Paris, Strasbourg_
+_Context: France, France's national railway company, LGV Est, Paris, Strasbourg_
 
 ## [Previous Day...](/news/2007/03/14/index.md)
 

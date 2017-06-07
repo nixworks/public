@@ -37,7 +37,7 @@ Rescuers refloated 11 beached pilot whales using a crane and body sling yesterda
 Salmonella-infected eggs traceable to a large producer in Iowa may have caused as many as 1200 cases of intestinal illness in at least 10 US states in recent weeks.
 
 ### [Italy backs France's crackdown and expulsion of Romani from the country. ](/news/2010/08/21/italy-backs-france-s-crackdown-and-expulsion-of-romani-from-the-country.md)
-_Context: French, Italy, Roma_
+_Context: France, Italy, Roma_
 
 ### [Palestinians warn that building on occupied land by Israel would threaten negotiations. ](/news/2010/08/21/palestinians-warn-that-building-on-occupied-land-by-israel-would-threaten-negotiations.md)
 Palestinians warn negotiations would be threatened if building on occupied land resumes.

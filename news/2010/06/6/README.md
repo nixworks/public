@@ -28,10 +28,10 @@ The Pope urges efforts to resolve Middle East tensions, and draws attention to t
 The head of police in the Democratic Republic of Congo has been suspended following the death of an activist, officials say.
 
 ### [French fishermen off the coast of Malta repel an attempt by Greenpeace to obstruct their operations, sinking several Greenpeace Zodiac boats and injuring a Greenpeace activist. ](/news/2010/06/6/french-fishermen-off-the-coast-of-malta-repel-an-attempt-by-greenpeace-to-obstruct-their-operations-sinking-several-greenpeace-zodiac-boats.md)
-_Context: French, Greenpeace India's, Malta, Zodiac boats_
+_Context: France, Greenpeace India's, Malta, Zodiac boats_
 
 ### [Two men bound for Somalia to join an Islamic extremist group with links to Al-Qaeda are arrested at Kennedy International Airport, New York City, United States. ](/news/2010/06/6/two-men-bound-for-somalia-to-join-an-islamic-extremist-group-with-links-to-al-qaeda-are-arrested-at-kennedy-international-airport-new-york.md)
-_Context: Islamic extremist group, New York, New York City, Somalia, U.S., al-Qaeda_
+_Context: Islamic extremist group, New York, New York City, Somalia, United States, al-Qaeda_
 
 ### [The 11th Panchen Lama hosted a religious prayer ceremony at the Razheng Monastery, 240 kilometers away from Lhasa. ](/news/2010/06/6/the-11th-panchen-lama-hosted-a-religious-prayer-ceremony-at-the-razheng-monastery-240-kilometers-away-from-lhasa.md)
 _Context: 11th Panchen Lama, Razheng Monastery_

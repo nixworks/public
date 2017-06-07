@@ -7,7 +7,7 @@ _Context: India, Jammu and Kashmir_
 _Context: Somalia, al-Shabaab_
 
 ### [A United States drone attack kills three in Pakistan. ](/news/2010/10/27/a-united-states-drone-attack-kills-three-in-pakistan.md)
-_Context: Pakistan, U.S._
+_Context: Pakistan, United States_
 
 ### [At least three people are killed in an explosion in Baghdad, Iraq. ](/news/2010/10/27/at-least-three-people-are-killed-in-an-explosion-in-baghdad-iraq.md)
 _Context: Baghdad, Iraq_
@@ -76,7 +76,7 @@ _Context: Kenya, Moses Wetangula_
 Three days of mourning have been declared in Argentina after former president Nestor Kirchner died of a heart attack.
 
 ### [The National Assembly of France takes a final vote on pension reform, with President Nicolas Sarkozy hoping that it will end the recent strikes and demonstrations. ](/news/2010/10/27/the-national-assembly-of-france-takes-a-final-vote-on-pension-reform-with-president-nicolas-sarkozy-hoping-that-it-will-end-the-recent-stri.md)
-_Context: French, National Assembly, Nicolas Sarkozy, President of France, recent strikes and demonstrations_
+_Context: France, National Assembly, Nicolas Sarkozy, President of France, recent strikes and demonstrations_
 
 ### [Scientists announce the discovery of the Myanmar snub-nosed monkey. ](/news/2010/10/27/scientists-announce-the-discovery-of-the-myanmar-snub-nosed-monkey.md)
 Pictured moments before humans ate it, a snub-nosed monkey represents a new species that sneezes when it rains.

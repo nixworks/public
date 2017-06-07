@@ -37,10 +37,10 @@ _Context: Brian France, Cessna 310, Florida, International Speedway Corporation,
 _Context: Australia, Julian Moti, Solomon Islands, child-sex_
 
 ### [ Simn Trinidad, a high-ranking member of the Revolutionary Armed Forces of Colombia, is found guilty of conspiracy to hold three Americans hostage by a U.S. court. ](/news/2007/07/10/simon-trinidad-a-high-ranking-member-of-the-revolutionary-armed-forces-of-colombia-is-found-guilty-of-conspiracy-to-hold-three-americans.md)
-_Context: Revolutionary Armed Forces of Colombia, Simn Trinidad, U.S._
+_Context: Revolutionary Armed Forces of Colombia, Simn Trinidad, United States_
 
 ### [ In observance of Captive Nations Week, there was a brief ceremony and laying of a wreath today at the Victims of Communism Memorial, Massachusetts and New Jersey Avenues, NW, Washington, D.C.. On 10 July, George W. Bush issued a Proclamation, designating July 15 through 21 as Captive Nations Week and called upon the American people to reaffirm the country's "commitment to all those seeking liberty, justice and self-determination." This year marks the 49th observance of Captive Nations Week. ](/news/2007/07/10/in-observance-of-captive-nations-week-there-was-a-brief-ceremony-and-laying-of-a-wreath-today-at-the-victims-of-communism-memorial-massac.md)
-_Context: 10 July, Captive Nations Week, George W. Bush, Massachusetts, Proclamation, U.S., Washington, D.C., communism, self-determination_
+_Context: 10 July, Captive Nations Week, George W. Bush, Massachusetts, Proclamation, United States, Washington, D.C., communism, self-determination_
 
 ### [ Thailand's highest court rules that a corruption case may proceed against former Prime Minister of Thailand Thaksin Shinawatra. ](/news/2007/07/10/thailand-s-highest-court-rules-that-a-corruption-case-may-proceed-against-former-prime-minister-of-thailand-thaksin-shinawatra.md)
 _Context: Prime Minister of Thailand, Thailand, Thaksin_

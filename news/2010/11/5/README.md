@@ -52,10 +52,10 @@ China warns that there will be &quot;consequences&quot; if governments show supp
 Greece resumed the shipment of all mail and packages abroad after midnight on Friday, following a suspension it imposed in the wake of a spate of parcel bombs sent to embassies in Athens and to European governments.
 
 ### [The Government of Norway demands an explanation from the US Government on reports that the US embassy in Oslo conducted illegal surveillance on Norwegian citizens for more than ten years. ](/news/2010/11/5/the-government-of-norway-demands-an-explanation-from-the-us-government-on-reports-that-the-us-embassy-in-oslo-conducted-illegal-surveillance.md)
-_Context: Government of the United States, Norway, Oslo, U.S., government of Norway_
+_Context: Government of the United States, Norway, Oslo, United States, government of Norway_
 
 ### [A Peruvian judge orders that United States born militant Lori Berenson be released from prison in Lima. ](/news/2010/11/5/a-peruvian-judge-orders-that-united-states-born-militant-lori-berenson-be-released-from-prison-in-lima.md)
-_Context: Lima, Lori Berenson, Peru, U.S._
+_Context: Lima, Lori Berenson, Peru, United States_
 
 ### [Mexican drug cartel leader Ezequiel Cardenas Guilln is shot dead by Mexican security forces in Matamoros following a gun fight of several hours. ](/news/2010/11/5/mexican-drug-cartel-leader-ezequiel-cardenas-guillen-is-shot-dead-by-mexican-security-forces-in-matamoros-following-a-gun-fight-of-several-h.md)
 _Context: Ezequiel Cardenas Guilln, Matamoros, Mexico, drug cartel_
@@ -73,7 +73,7 @@ Shadow immigration minister Phil Woolas vows to fight a decision to declare his 
 Nigel Farage is re-elected as leader of the UK Independence Party, replacing Lord Pearson in the post he previously held between 2006 and 2009.
 
 ### [A protest by French anti-nuclear organisation GANVA blocks a train carrying nuclear waste near Caen in northwestern France. ](/news/2010/11/5/a-protest-by-french-anti-nuclear-organisation-ganva-blocks-a-train-carrying-nuclear-waste-near-caen-in-northwestern-france.md)
-_Context: Caen, French, GANVA, nuclear waste_
+_Context: Caen, France, GANVA, nuclear waste_
 
 ### [The President of Tanzania Jakaya Kikwete is reelected to a second term despite allegations of vote-rigging. ](/news/2010/11/5/the-president-of-tanzania-jakaya-kikwete-is-reelected-to-a-second-term-despite-allegations-of-vote-rigging.md)
 Tanzanian president Jakaya Kikwete has won a second term in office, despite allegations of vote rigging.

@@ -16,7 +16,7 @@ _Context: Carol Ann Duffy, Poet Laureate, United Kingdom_
 _Context: Allied Irish Banks, executives, resign_
 
 ### [ Associate Justice David Souter announces he will retire from the United States Supreme Court in June. ](/news/2009/05/1/associate-justice-david-souter-announces-he-will-retire-from-the-united-states-supreme-court-in-june.md)
-_Context: David Souter, Justice, Supreme Court, U.S._
+_Context: David Souter, Justice, Supreme Court, United States_
 
 ### [ The Portuguese frigate ''Corte-Real'' confiscates explosives from Somali pirates during an attempted hijacking. ](/news/2009/05/1/the-portuguese-frigate-corte-real-confiscates-explosives-from-somali-pirates-during-an-attempted-hijacking.md)
 _Context: Corte-Real, Portugal, Somali pirates, Somalia, anti-piracy, explosives, frigate_

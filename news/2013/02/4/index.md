@@ -25,13 +25,13 @@ At least eight people were killed Sunday night and more than 30 injured when a t
 At least 22 people were killed when a truck laden with gravel collided with a bus carrying 46 Asian migrant workers in the oasis town of al-Ain in the United Arab Emirates, police said on Monday.
 
 ### [President of Niger Mahamadou Issoufou confirms that French special forces are protecting one of the country's biggest uranium mines, owned by the French company Areva. They are also said to be "strengthening security". ](/news/2013/02/4/president-of-niger-mahamadou-issoufou-confirms-that-french-special-forces-are-protecting-one-of-the-country-s-biggest-uranium-mines-owned-b.md)
-_Context: Areva, French, Mahamadou Issoufou, Niger, President of Niger, uranium mines_
+_Context: Areva, France, Mahamadou Issoufou, Niger, President of Niger, uranium mines_
 
 ### [Former UK government Minister Chris Huhne pleads guilty to perverting the course of justice over claims he caused his ex-wife to accept speeding points he had incurred. He also announces his intention to resign his House of Commons seat. ](/news/2013/02/4/former-uk-government-minister-chris-huhne-pleads-guilty-to-perverting-the-course-of-justice-over-claims-he-caused-his-ex-wife-to-accept-spee.md)
 Ex-cabinet minister Chris Huhne resigns as an MP after admitting he perverted the course of justice over claims his ex-wife took speeding points for him.
 
 ### [Three people are injured after a stabbing on a subway platform in the Parsons/Archer subway station in Queens, New York City, United States. ](/news/2013/02/4/three-people-are-injured-after-a-stabbing-on-a-subway-platform-in-the-parsons-archer-subway-station-in-queens-new-york-city-united-states.md)
-_Context: New York City, Parsons/Archer subway station, Queens, U.S._
+_Context: New York City, Parsons/Archer subway station, Queens, United States_
 
 ### [The death of Jimmy Lee Dykes results in the end of the 2013 Alabama bunker hostage crisis. ](/news/2013/02/4/the-death-of-jimmy-lee-dykes-results-in-the-end-of-the-2013-alabama-bunker-hostage-crisis.md)
 Authorities rescue five-year-old boy held in a bunker for seven days.

@@ -43,7 +43,7 @@ Two ethnic groups from Nepal&#039;s restive southern Terai region have claimed r
 _Context: Ban Ki-moon, Darfur, Secretary General, Sudan_
 
 ### [ European energy companies Gaz de France and Suez agree to merge in what would be a privatisation of the French state-owned Gaz de France. ](/news/2007/09/3/european-energy-companies-gaz-de-france-and-suez-agree-to-merge-in-what-would-be-a-privatisation-of-the-french-state-owned-gaz-de-france.md)
-_Context: Europe, French, Gaz de France, Suez, privatisation_
+_Context: Europe, France, Gaz de France, Suez, privatisation_
 
 ### [ Justice Susan Kiefel becomes the third woman to serve on the High Court of Australia. ](/news/2007/09/3/justice-susan-kiefel-becomes-the-third-woman-to-serve-on-the-high-court-of-australia.md)
 _Context: High Court of Australia, Susan Kiefel_

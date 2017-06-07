@@ -16,7 +16,7 @@ _Context: George W. Bush, Russia President, U.S. President, Vladimir Putin_
 _Context: Colombo, Jeyaraj Fernandopulle, Sri Lanka_
 
 ### [ Vandals desecrate 148 Muslim graves in France's biggest World War I cemetery at Notre Dame de Lorette outside Arras in northern France. ](/news/2008/04/6/vandals-desecrate-148-muslim-graves-in-france-s-biggest-world-war-i-cemetery-at-notre-dame-de-lorette-outside-arras-in-northern-france.md)
-_Context: Arras, First World War, French, Muslim, Notre Dame de Lorette_
+_Context: Arras, First World War, France, Muslim, Notre Dame de Lorette_
 
 ## [Previous Day...](/news/2008/04/5/index.md)
 

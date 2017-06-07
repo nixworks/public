@@ -1,7 +1,7 @@
 ## [2007-01-17](/news/2007/01/17/index.md)
 
 ### [ United States President George W. Bush announces that the NSA has ended its practice of warrantless wiretapping for domestic surveillance, and will go to the courts for warrants in the future. ](/news/2007/01/17/united-states-president-george-w-bush-announces-that-the-nsa-has-ended-its-practice-of-warrantless-wiretapping-for-domestic-surveillance.md)
-_Context: George W. Bush, National Security Agency, U.S., U.S. President, warrant, warrantless wiretapping_
+_Context: George W. Bush, National Security Agency, U.S. President, United States, warrant, warrantless wiretapping_
 
 ### [ Lieutenant-General Dan Halutz, the Chief of Staff of the Israeli Army, resigns while inquiries into the performance of the Israel Defense Forces in the action against Hezbollah continue. ](/news/2007/01/17/lieutenant-general-dan-halutz-the-chief-of-staff-of-the-israeli-army-resigns-while-inquiries-into-the-performance-of-the-israel-defense-f.md)
 _Context: Dan Halutz, Hezbollah, Israel, Israel Defense Forces_

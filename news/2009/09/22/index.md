@@ -25,7 +25,7 @@ _Context: Communist Party of India-Marxist, India, Maoist, West Bengal_
 For the first time since 1995 more people left Ireland than moved here, according to new figures.
 
 ### [ French riot police detain 278 migrants in Calais in an operation to dismantle the "jungle" camp. ](/news/2009/09/22/french-riot-police-detain-278-migrants-in-calais-in-an-operation-to-dismantle-the-jungle-camp.md)
-_Context: Calais, French, migrants_
+_Context: Calais, France, migrants_
 
 ### [ China bans foreigners from entering Tibet, ahead of the 60th anniversary celebrations of the People's Republic. ](/news/2009/09/22/china-bans-foreigners-from-entering-tibet-ahead-of-the-60th-anniversary-celebrations-of-the-people-s-republic.md)
 _Context: 60th anniversary of the founding, People's Republic of China, Tibet Autonomous Region_
@@ -49,7 +49,7 @@ An estimated 49,000 people attended the National Ploughing Championship today.
 _Context: Attorney General for England and Wales, Patricia Scotland, Baroness Scotland of Asthal_
 
 ### [ For the first time in at least ten years, all United States embassies and consulates in South Africa are closed following an unspecified "security threat". ](/news/2009/09/22/for-the-first-time-in-at-least-ten-years-all-united-states-embassies-and-consulates-in-south-africa-are-closed-following-an-unspecified-s.md)
-_Context: South Africa, U.S._
+_Context: South Africa, United States_
 
 ### [ The New Zealand dollar soars to a 13-month high against both the U.S. dollar and euro. ](/news/2009/09/22/the-new-zealand-dollar-soars-to-a-13-month-high-against-both-the-u-s-dollar-and-euro.md)
 Basking in good economic news, the New Zealand dollar reached multi-month highs against major currencies overnight as the greenback weakened further. - New Zealand Herald

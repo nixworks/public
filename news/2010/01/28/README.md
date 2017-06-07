@@ -25,7 +25,7 @@ _Context: Colombia, Venezuela_
 _Context: National Congress Party, Salva Kiir, Southern Sudan, Sudan, post-election protests_
 
 ### [Former French Prime Minister Dominique de Villepin is cleared of charges of complicity to false denunciation in the ''Clearstream'' affair. ](/news/2010/01/28/former-french-prime-minister-dominique-de-villepin-is-cleared-of-charges-of-complicity-to-false-denunciation-in-the-clearstream-affair.md)
-_Context: ''Clearstream'' affair, Dominique de Villepin, French, Prime Minister, indicted_
+_Context: ''Clearstream'' affair, Dominique de Villepin, France, Prime Minister, indicted_
 
 ### [Iran executes two opposition supporters for their role in the election protests in the country. ](/news/2010/01/28/iran-executes-two-opposition-supporters-for-their-role-in-the-election-protests-in-the-country.md)
 _Context: Iran, protests against the regime_

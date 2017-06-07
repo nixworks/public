@@ -13,7 +13,7 @@ _Context: Internet Corporation for Assigned Names and Numbers, Latin_
 _Context: Ares I-X, Atlantic Ocean, NASA, parachute, splashdown_
 
 ### [ A U.S. judge orders a trial for two doctors and a lawyer accused of providing American sex symbol Anna Nicole Smith with drugs. ](/news/2009/10/30/a-u-s-judge-orders-a-trial-for-two-doctors-and-a-lawyer-accused-of-providing-american-sex-symbol-anna-nicole-smith-with-drugs.md)
-_Context: Anna Nicole Smith, U.S., sex symbol_
+_Context: Anna Nicole Smith, United States, sex symbol_
 
 ### [ African Union leaders agree to establish a hybrid court to end the Darfur conflict in western Sudan. ](/news/2009/10/30/african-union-leaders-agree-to-establish-a-hybrid-court-to-end-the-darfur-conflict-in-western-sudan.md)
 _Context: African Union, Sudan, conflict_
@@ -22,7 +22,7 @@ _Context: African Union, Sudan, conflict_
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 ### [ Former French President Jacques Chirac is ordered to stand trial on corruption charges. ](/news/2009/10/30/former-french-president-jacques-chirac-is-ordered-to-stand-trial-on-corruption-charges.md)
-_Context: French, Jacques Chirac, President of France, anti-corruption_
+_Context: France, Jacques Chirac, President of France, anti-corruption_
 
 ### [ Honduras' de facto leader Roberto Micheletti and ousted President Manuel Zelaya agree a deal to end the political crisis, reinstating Zelaya as President. ](/news/2009/10/30/honduras-de-facto-leader-roberto-micheletti-and-ousted-president-manuel-zelaya-agree-a-deal-to-end-the-political-crisis-reinstating-zelay.md)
 _Context: Honduras, Manuel Zelaya, President, Roberto Micheletti, political crisis in the country_

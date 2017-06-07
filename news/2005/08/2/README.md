@@ -37,7 +37,7 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 _Context: Antalya, Turkey, natural gas leak, police_
 
 ### [ In France, medical authorities investigate a case where remains of 351 stillborn fetuses had been kept in storage in St Vincent de Paul hospital against the law and the parents' consent. ](/news/2005/08/2/in-france-medical-authorities-investigate-a-case-where-remains-of-351-stillborn-fetuses-had-been-kept-in-storage-in-st-vincent-de-paul-hos.md)
-_Context: French, St Vincent de Paul hospital, fetus, stillborn_
+_Context: France, St Vincent de Paul hospital, fetus, stillborn_
 
 ## [Previous Day...](/news/2005/08/1/index.md)
 

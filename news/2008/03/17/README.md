@@ -19,7 +19,7 @@ _Context: 2008 unrest in Tibet, Lhasa, People's Republic of China, Qiangba Punco
 _Context: 2008 National People's Congress, Hui Liangyu, Li Keqiang, Wang Qishan, Zhang Dejiang, parliament_
 
 ### [ War in Iraq: United States Vice President Dick Cheney visits Baghdad, three days before the fifth anniversary of the 2003 invasion. ](/news/2008/03/17/war-in-iraq-p-united-states-vice-president-dick-cheney-visits-baghdad-three-days-before-the-fifth-anniversary-of-the-2003-invasion.md)
-_Context: 2003 invasion of Iraq, Baghdad, Dick Cheney, Iraq, U.S., U.S. Vice President, War in Iraq_
+_Context: 2003 invasion of Iraq, Baghdad, Dick Cheney, Iraq, U.S. Vice President, United States, War in Iraq_
 
 ### [ Pakistan: The new Parliament convenes for the first time after the 2008 general election. ](/news/2008/03/17/pakistan-p-the-new-parliament-convenes-for-the-first-time-after-the-2008-general-election.md)
 _Context: Pakistan, Parliament, by-elections_
@@ -34,7 +34,7 @@ _Context: Kosovo Force, Mitrovica, Serbia, United Nations, clashes_
 _Context: David Paterson, Eliot Spitzer prostitution scandal, New York Governor_
 
 ### [ French President Nicolas Sarkozy's Union for a Popular Movement party loses the 2008 municipal elections. ](/news/2008/03/17/french-president-nicolas-sarkozy-s-union-for-a-popular-movement-party-loses-the-2008-municipal-elections.md)
-_Context: 2008 municipal elections, French, Nicolas Sarkozy, President of France, UMP_
+_Context: 2008 municipal elections, France, Nicolas Sarkozy, President of France, UMP_
 
 ### [ German Chancellor Angela Merkel and half of her cabinet visit Israel in a move to upgrade bilateral relations ](/news/2008/03/17/german-chancellor-angela-merkel-and-half-of-her-cabinet-visit-israel-in-a-move-to-upgrade-bilateral-relations.md)
 _Context: Angela Merkel, Chancellor, German, Israel_
@@ -52,7 +52,7 @@ _Context: Afghanistan, Gereshk, Helmand, NATO, suicide bomber_
 The group searching for HMAS Sydney has found the wreckage of the World War II Australian warship off the coast of Western Australia, the ABC has confirmed.
 
 ### [ A former Luftwaffe pilot reveals he may have shot down the airplane of French writer and aviator Antoine de Saint Exupery, thus killing him, on July 31, 1944. ](/news/2008/03/17/a-former-luftwaffe-pilot-reveals-he-may-have-shot-down-the-airplane-of-french-writer-and-aviator-antoine-de-saint-exupa-c-ry-thus-killing-hi.md)
-_Context: Antoine de Saint Exupery, French, Luftwaffe, airplane, pilot, writer_
+_Context: Antoine de Saint Exupery, France, Luftwaffe, airplane, pilot, writer_
 
 ## [Previous Day...](/news/2008/03/16/index.md)
 

@@ -7,13 +7,13 @@ _Context: Gaza Strip, Hamas, euro, fire_
 _Context: Hamas, Israel, fire, war crime_
 
 ### [ United States President Barack Obama will close Guantanamo Bay Naval Base's detention camp within one year and bans torture. ](/news/2009/01/22/united-states-president-barack-obama-will-close-guanta-namo-bay-naval-base-s-detention-camp-within-one-year-and-bans-torture.md)
-_Context: Barack Obama, Guantanamo Bay, Guantanamo Bay detention camp, U.S., U.S. President, enhanced interrogation techniques, military base at Guantanamo Bay_
+_Context: Barack Obama, Guantanamo Bay, Guantanamo Bay detention camp, U.S. President, United States, enhanced interrogation techniques, military base at Guantanamo Bay_
 
 ### [ Microsoft announces it will cut 5,000 jobs, due to a rapid decline in demand for personal computers. ](/news/2009/01/22/microsoft-announces-it-will-cut-5-000-jobs-due-to-a-rapid-decline-in-demand-for-personal-computers.md)
 With sales of PCs falling, Microsoft said it would lay off 5 percent of its work force, and warned that technology spending could wane for years to come.
 
 ### [ Pope Benedict XVI will rescind the excommunications of four bishops consecrated in 1988 by French Archbishop Marcel Lefebvre. ](/news/2009/01/22/pope-benedict-xvi-will-rescind-the-excommunications-of-four-bishops-consecrated-in-1988-by-french-archbishop-marcel-lefebvre.md)
-_Context: 1988, Archbishop, French, Marcel Lefebvre, Pope, Pope Benedict XVI, consecrated, excommunicate, four bishops_
+_Context: 1988, Archbishop, France, Marcel Lefebvre, Pope, Pope Benedict XVI, consecrated, excommunicate, four bishops_
 
 ### [ Iceland's National Police uses teargas against protesters for the first time since anti-NATO riots in 1949. ](/news/2009/01/22/iceland-s-national-police-uses-teargas-against-protesters-for-the-first-time-since-anti-nato-riots-in-1949.md)
 _Context: 1949, Iceland, NATO, National Police, protesters, riots, tear gas_

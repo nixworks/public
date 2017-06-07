@@ -19,7 +19,7 @@ Canadian researchers said the body of a nameless child who died aboard the Titan
 _Context: 2008, Association of South East Asian Nations, Australia, Free Trade Agreement, New Zealand_
 
 ### [ A French court orders the release of two suspects in the 1994 Rwandan genocide. ](/news/2007/08/1/a-french-court-orders-the-release-of-two-suspects-in-the-1994-rwandan-genocide.md)
-_Context: 1994, French, Rwandan Genocide_
+_Context: 1994, France, Rwandan Genocide_
 
 ### [ At least 28 people die in Uttar Pradesh, India as an overcrowded boat carrying flood evacuees and aid workers capsizes on the Rohni River. Monsoon floods have killed more than 150 people in India during July while at least 82 people have died in Nepal over the past two weeks and 38 in Bangladesh. ](/news/2007/08/1/at-least-28-people-die-in-uttar-pradesh-india-as-an-overcrowded-boat-carrying-flood-evacuees-and-aid-workers-capsizes-on-the-rohni-river.md)
 _Context: Bangladesh, India, Nepal, Rohni River, Uttar Pradesh, flood, monsoon_
@@ -40,7 +40,7 @@ _Context: $456 million energy debt, August 3, Belarus, Gazprom_
 _Context: North Waziristan, Pakistan_
 
 ### [ The United Kingdom Office of Fair Trading levies a fine of PS121.5 million on British Airways for price collusion over long distance passenger fuel surcharges. British Airways and Korean Air later plead guilty to conspiracies to fix the price of passenger and cargo fees in the United States with fines of $300 million each being levied. ](/news/2007/08/1/the-united-kingdom-office-of-fair-trading-levies-a-fine-of-aps121-5-million-on-british-airways-for-price-collusion-over-long-distance-passen.md)
-_Context: British Airways, Korean Air, Office of Fair Trading, PS, U.S., US$, United Kingdom_
+_Context: British Airways, Korean Air, Office of Fair Trading, PS, US$, United Kingdom, United States_
 
 ### [ Sudan pledges support for UNAMID, a joint United Nations and African  Union peacekeeping force in Darfur. ](/news/2007/08/1/sudan-pledges-support-for-unamid-a-joint-united-nations-and-african-union-peacekeeping-force-in-darfur.md)
 _Context: African Union, Darfur, Sudan, UNAMID, United Nations, peacekeepers_

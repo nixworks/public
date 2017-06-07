@@ -1,13 +1,13 @@
 ## [2009-03-26](/news/2009/03/26/index.md)
 
 ### [ United States President Barack Obama announces a new military strategy for the War in North-West Pakistan and the War in Afghanistan. ](/news/2009/03/26/united-states-president-barack-obama-announces-a-new-military-strategy-for-the-war-in-north-west-pakistan-and-the-war-in-afghanistan.md)
-_Context: Afghanistan, Barack Obama, Khyber Pakhtunkhwa, Pakistan, U.S., U.S. President, War in Afghanistan (2001-present), War in North-West Pakistan, military strategy_
+_Context: Afghanistan, Barack Obama, Khyber Pakhtunkhwa, Pakistan, U.S. President, United States, War in Afghanistan (2001-present), War in North-West Pakistan, military strategy_
 
 ### [ Franco-Russian mathematician Mikhail Gromov receives the 2009 Abel Prize.  ](/news/2009/03/26/franco-russian-mathematician-mikhail-gromov-receives-the-2009-abel-prize.md)
-_Context: Abel Prize, French, Mathematicians, Mikhail Gromov, Russia_
+_Context: Abel Prize, France, Mathematicians, Mikhail Gromov, Russia_
 
 ### [ French President Nicolas Sarkozy will renounce his title of Co-Prince of Andorra if the country does not change its banking laws. ](/news/2009/03/26/french-president-nicolas-sarkozy-will-renounce-his-title-of-co-prince-of-andorra-if-the-country-does-not-change-its-banking-laws.md)
-_Context: Andorra, Co-Prince, French, Nicolas Sarkozy, President of France, bank_
+_Context: Andorra, Co-Prince, France, Nicolas Sarkozy, President of France, bank_
 
 ### [ Germany admits that the unidentified Phantom of Heilbronn serial killer never existed. ](/news/2009/03/26/germany-admits-that-the-unidentified-phantom-of-heilbronn-serial-killer-never-existed.md)
 _Context: German, Phantom of Heilbronn, serial killer_
@@ -28,7 +28,7 @@ Get the latest news, images, videos and more from humanity&#039;s home in orbit 
 _Context: Jandola, Pakistan, Taliban, suicide bombing_
 
 ### [ Two tornadoes injure 24 people and damage 108 homes in Mississippi, United States. ](/news/2009/03/26/two-tornadoes-injure-24-people-and-damage-108-homes-in-mississippi-united-states.md)
-_Context: Mississippi, U.S., tornado_
+_Context: Mississippi, United States, tornado_
 
 ### [ Somali pirates hijack ships from the Isle of Man, Greece, and the Seychelles, while three other ships escape. ](/news/2009/03/26/somali-pirates-hijack-ships-from-the-isle-of-man-greece-and-the-seychelles-while-three-other-ships-escape.md)
 _Context: Greece, Isle of Man, Seychelles, Somali pirates, Somalia, ship_

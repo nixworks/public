@@ -10,7 +10,7 @@ Human rights activists accuse Kenya of secretly sending four terrorism suspects 
 Blast hits crowd of people in restive west, officials blame a minority Uighur.
 
 ### [The last United States brigade combat team leaves Iraq: there are still 56,000 members of the United States armed forces in the country. ](/news/2010/08/19/the-last-united-states-brigade-combat-team-leaves-iraq-there-are-still-56-000-members-of-the-united-states-armed-forces-in-the-country.md)
-_Context: Iraq, U.S., U.S. military personnel, brigade_
+_Context: Iraq, United States, United States, brigade_
 
 ### [Winston Churchill's butterfly house is rebuilt. ](/news/2010/08/19/winston-churchill-s-butterfly-house-is-rebuilt.md)
 It was 1939 and the Nazi menace threatened Europe. But while Britain clamoured for the leadership of Winston Churchill, the thoughts of the great warrior himself were focused on an altogether more pacific subject: butterflies.
@@ -55,7 +55,7 @@ Two train carriages fell into a river in southwestern China on Thursday after fl
 A UN report says the Israeli army has increasingly restricted Palestinian access to farmland in the Gaza Strip and fishing zones along its shore.
 
 ### [France's government begins to deport thousands of Romani people, who are mainly from Romania and Bulgaria; Romania fears this will lead to xenophobic tensions. ](/news/2010/08/19/france-s-government-begins-to-deport-thousands-of-romani-people-who-are-mainly-from-romania-and-bulgaria-romania-fears-this-will-lead-to-x.md)
-_Context: Bulgaria, French, Roma, Romania, xenophobic_
+_Context: Bulgaria, France, Roma, Romania, xenophobic_
 
 ### [North Korea confirms the seizure of a South Korean fishing boat two weeks ago, with four South Korean and three Chinese sailors on board. ](/news/2010/08/19/north-korea-confirms-the-seizure-of-a-south-korean-fishing-boat-two-weeks-ago-with-four-south-korean-and-three-chinese-sailors-on-board.md)
 North Korea confirmed Thursday that it had seized a South Korean fishing boat carrying four South Koreans and three Chinese, its first official reaction in nearly two weeks.

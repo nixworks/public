@@ -28,7 +28,7 @@ _Context: Ben Bernanke, Federal Reserve_
 _Context: Afghanistan, Royal Air Force, drone_
 
 ### [France plans to use drones in Mali. ](/news/2012/10/22/france-plans-to-use-drones-in-mali.md)
-_Context: French, Mali, drone_
+_Context: France, Mali, drone_
 
 ### [Six Italian scientists and an ex-government official are convicted of multiple manslaughter and sentenced to six years in prison over the 2009 L'Aquila earthquake after prosecutors accuse them of being "falsely reassuring" before the event. ](/news/2012/10/22/six-italian-scientists-and-an-ex-government-official-are-convicted-of-multiple-manslaughter-and-sentenced-to-six-years-in-prison-over-the-20.md)
 _Context: 2009 L'Aquila earthquake_

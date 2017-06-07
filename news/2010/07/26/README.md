@@ -4,7 +4,7 @@
 President confirms death of French engineer captured by fighters in North Africa.
 
 ### [The United States, European Union and United Nations pledge additional resources to the African Union's AMISOM peacekeeping force in Somalia. ](/news/2010/07/26/the-united-states-european-union-and-united-nations-pledge-additional-resources-to-the-african-union-s-amisom-peacekeeping-force-in-somalia.md)
-_Context: AMISOM, African Union, European Union, Somalia, U.S., United Nations, peacekeeping force_
+_Context: AMISOM, African Union, European Union, Somalia, United Nations, United States, peacekeeping force_
 
 ### [Two car bombs explode near the southern Iraqi city of Karbala, killing at least twenty people. ](/news/2010/07/26/two-car-bombs-explode-near-the-southern-iraqi-city-of-karbala-killing-at-least-twenty-people.md)
 The southern Iraqi city of Karbala is hit by a double car bombing leaving at least 20 dead and dozens injured, officials say.
@@ -28,7 +28,7 @@ More than 90,000 secret US military records are leaked to the media by Wikileaks
 _Context: 15th Congress of the Philippines, Benigno Aquino III, Feliciano Belmonte, Juan Ponce Enrile, President, President of the Philippines, Senate, Speaker, State of the Nation Address, congresswoman_
 
 ### [The ''Plastiki'', a catamaran made out of recycled plastic, arrives in Sydney, Australia, after travelling across the Pacific Ocean from San Francisco, United States, to raise awareness of environmental issues. ](/news/2010/07/26/the-plastiki-a-catamaran-made-out-of-recycled-plastic-arrives-in-sydney-australia-after-travelling-across-the-pacific-ocean-from-san.md)
-_Context: Australia, Pacific, Plastiki, San Francisco, California, Sydney, U.S., catamaran, environmental, plastic, recycling_
+_Context: Australia, Pacific, Plastiki, San Francisco, California, Sydney, United States, catamaran, environmental, plastic, recycling_
 
 ### [The opening ceremony of the 2010 European Athletics Championships takes place in Barcelona. ](/news/2010/07/26/the-opening-ceremony-of-the-2010-european-athletics-championships-takes-place-in-barcelona.md)
 European Athletics

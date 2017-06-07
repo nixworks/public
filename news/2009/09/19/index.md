@@ -4,7 +4,7 @@
 _Context: Africa, Djibouti, Eritrea, Ethiopia, Islam, Kenya, Somalia, Sudan, Uganda_
 
 ### [ Two men are arrested in Denver, Colorado, United States, as part of an FBI terror probe. ](/news/2009/09/19/two-men-are-arrested-in-denver-colorado-united-states-as-part-of-an-fbi-terror-probe.md)
-_Context: Colorado, Denver, FBI, U.S._
+_Context: Colorado, Denver, FBI, United States_
 
 ### [ Attacks by rebels in Yemen are reported despite a  ceasefire. ](/news/2009/09/19/attacks-by-rebels-in-yemen-are-reported-despite-a-ceasefire.md)
 _Context: Yemen, ceasefire_
@@ -28,7 +28,7 @@ European Commission President José Manuel Barroso has said a No vote will affec
 _Context: Gifu Prefecture, Japan, Takayama_
 
 ### [ Pakistani police raid a local security firm that provides security for the United States embassy for illegal weapons possession. ](/news/2009/09/19/pakistani-police-raid-a-local-security-firm-that-provides-security-for-the-united-states-embassy-for-illegal-weapons-possession.md)
-_Context: Pakistan, Security experts, U.S._
+_Context: Pakistan, Security experts, United States_
 
 ### [ The German government raises its terrorism alert level after al Qaeda posted a video on the Internet threatening attacks in Germany based on the outcome of this month's elections.  ](/news/2009/09/19/the-german-government-raises-its-terrorism-alert-level-after-al-qaeda-posted-a-video-on-the-internet-threatening-attacks-in-germany-based-o.md)
 _Context: German, al-Qaeda_
@@ -40,7 +40,7 @@ _Context: German, Northern Sea Route_
 Bittersweet memories of other difficult times helped push an anthology of reissued World War II-era songs to the top of the British music charts.
 
 ### [ France's government holds emergency talks with farmers to avert protests over falling dairy prices. ](/news/2009/09/19/france-s-government-holds-emergency-talks-with-farmers-to-avert-protests-over-falling-dairy-prices.md)
-_Context: French_
+_Context: France_
 
 ### [ Pope Benedict XVI announces he is to hold a special meeting of Roman Catholic bishops to discuss the concerns and challenges of the Church in the Middle East in October 2010. ](/news/2009/09/19/pope-benedict-xvi-announces-he-is-to-hold-a-special-meeting-of-roman-catholic-bishops-to-discuss-the-concerns-and-challenges-of-the-church.md)
 Pope Benedict today announced he would hold a special meeting next year of Roman Catholic bishops to discuss the concerns and&hellip;

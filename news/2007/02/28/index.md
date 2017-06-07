@@ -28,7 +28,7 @@ _Context: Sicily, Stromboli, lava, volcanic activity_
 _Context: Carlos, Cuba-United States relations, Elsa Alvarez, Government of Cuba, espionage, prison_
 
 ### [ Two paintings by Pablo Picasso, ''Maya with Doll'' and ''Jacqueline'', have been stolen from the painter's granddaughter's apartment in Paris, France. ](/news/2007/02/28/two-paintings-by-pablo-picasso-maya-with-doll-and-jacqueline-have-been-stolen-from-the-painter-s-granddaughter-s-apartment-in-par.md)
-_Context: French, Jacqueline, Maya with Doll, Paris, Picasso, painter_
+_Context: France, Jacqueline, Maya with Doll, Paris, Picasso, painter_
 
 ### [ Iraq War: A car bomb kills at least 10 people in Baghdad. ](/news/2007/02/28/iraq-war-a-car-bomb-kills-at-least-10-people-in-baghdad.md)
 _Context: Baghdad, Iraq War, car bomb_

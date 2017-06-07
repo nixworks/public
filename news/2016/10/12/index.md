@@ -10,7 +10,7 @@ _Context: Ashura, Kabul, Shi'ite, Violence against Shia Muslims, War in Afghanis
 _Context: Myanmar Army, Rakhine State, Rohingya insurgency in Western Myanmar, police_
 
 ### [American popstar Janet Jackson announces that she is pregnant with her first child at the age of 50. ](/news/2016/10/12/american-popstar-janet-jackson-announces-that-she-is-pregnant-with-her-first-child-at-the-age-of-50.md)
-_Context: Janet Jackson, U.S._
+_Context: Janet Jackson, United States_
 
 ### [John Stumpf resigns as CEO and chairman of Wells Fargo amid a scandal over its sales practices. ](/news/2016/10/12/john-stumpf-resigns-as-ceo-and-chairman-of-wells-fargo-amid-a-scandal-over-its-sales-practices.md)
 _Context: John Stumpf, Wells Fargo_

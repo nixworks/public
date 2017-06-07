@@ -4,10 +4,10 @@
 Children born to fathers older than 30 are more likely to develop bipolar disorder, a common condition sometimes known as manic depression, researchers reported on Monday.
 
 ### [ A gunman goes on a shooting spree that leaves 6 people, including a police deputy, dead, and four injured, in  Alger, Washington, United States.](/news/2008/09/2/a-gunman-goes-on-a-shooting-spree-that-leaves-6-people-including-a-police-deputy-dead-and-four-injured-in-alger-washington-united-st.md)
-_Context: Alger, Washington, U.S., shooting spree_
+_Context: Alger, Washington, United States, shooting spree_
 
 ### [ The United States Environmental Protection Agency vetoes plans by the Army Corps of Engineers to build the world's largest water pump on the Mississippi River Delta raising concerns about the impact on wetlands. ](/news/2008/09/2/the-united-states-environmental-protection-agency-vetoes-plans-by-the-army-corps-of-engineers-to-build-the-world-s-largest-water-pump-on-th.md)
-_Context: Delta, Mississippi River, U.S., United States Army Corps of Engineers, the agency_
+_Context: Delta, Mississippi River, United States, United States Army Corps of Engineers, the agency_
 
 ### [ 2008 Atlantic hurricane season: Hurricane Gustav weakens to a tropical depression. ](/news/2008/09/2/2008-atlantic-hurricane-season-p-hurricane-gustav-weakens-to-a-tropical-depression.md)
 _Context: 2008 Atlantic hurricane season, Hurricane Gustav_

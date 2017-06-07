@@ -13,7 +13,7 @@ Here are the latest articles published on Tom’s Hardware. See the latest news,
 _Context: Mukhtaran Bibi, Pakistan, Supreme Court, acquits, rape_
 
 ### [ In France, police search offices of specialty chemicals company Rhodia and finance ministry in the investigation of accounting irregularities and inside trading. Finance minister Thierry Breton was a member of the Rhodia board. ](/news/2005/06/28/in-france-police-search-offices-of-specialty-chemicals-company-rhodia-and-finance-ministry-in-the-investigation-of-accounting-irregulariti.md)
-_Context: French, Rhodia, Thierry Breton, accounting, finance ministry, inside trading_
+_Context: France, Rhodia, Thierry Breton, accounting, finance ministry, inside trading_
 
 ### [ Countries backing the ITER fusion reactor meet in Moscow to decide if the experimental fusion reactor will be built in Cadarache, Southern France, instead of Japan. ](/news/2005/06/28/countries-backing-the-iter-fusion-reactor-meet-in-moscow-to-decide-if-the-experimental-fusion-reactor-will-be-built-in-cadarache-southern.md)
 _Context: Cadarache, ITER, Moscow, nuclear fusion_

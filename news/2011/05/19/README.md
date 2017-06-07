@@ -1,7 +1,7 @@
 ## [2011-05-19](/news/2011/05/19/index.md)
 
 ### [Syria condemns the decision by the United States to impose sanctions on President Bashar al-Assad in response to ongoing anti-government protests. ](/news/2011/05/19/syria-condemns-the-decision-by-the-united-states-to-impose-sanctions-on-president-bashar-al-assad-in-response-to-ongoing-anti-government-pro.md)
-_Context: Bashar al-Assad, President, Syria, Syrian uprising, U.S._
+_Context: Bashar al-Assad, President, Syria, Syrian uprising, United States_
 
 ### [2011 Libyan civil war:Rebels in Libya launch a television channel to counter Muammar Gaddafi's state media. ](/news/2011/05/19/2011-libyan-civil-war-prebels-in-libya-launch-a-television-channel-to-counter-muammar-gaddafi-s-state-media.md)
 _Context: Libya, Libyan Civil War, Muammar Gaddafi, state media_
@@ -55,7 +55,7 @@ The suit, filed by a rights group, was based on Cisco sales materials. Cisco sai
 The man known as the father of the so-called &#034;Great Firewall of China&#034; was pelted with eggs and shoes by a students protesting against China&#039;s draconian online censorship regime, online reports in China claimed.
 
 ### [The daughter of Uzbek President Islam Karimov sues a French website for calling her father a "dictator". ](/news/2011/05/19/the-daughter-of-uzbek-president-islam-karimov-sues-a-french-website-for-calling-her-father-a-dictator.md)
-_Context: French, Islam Karimov, Uzbekistan, dictator_
+_Context: France, Islam Karimov, Uzbekistan, dictator_
 
 ### [Authorities in Egypt suspend the prison sentences of 120 protesters who participated in the 2011 Egyptian revolution. ](/news/2011/05/19/authorities-in-egypt-suspend-the-prison-sentences-of-120-protesters-who-participated-in-the-2011-egyptian-revolution.md)
 _Context: 2011 Egyptian revolution, Egypt_

@@ -28,7 +28,7 @@ _Context: London, Morgan Tsvangirai, Southwark Cathedral, Zimbabwe_
 _Context: Conservative, House of Commons, John Bercow, MP, Speaker of the British House of Commons, elected_
 
 ### [ French President Nicolas Sarkozy calls for the burqa to be banned in France. ](/news/2009/06/22/french-president-nicolas-sarkozy-calls-for-the-burqa-to-be-banned-in-france.md)
-_Context: French, Nicolas Sarkozy, President of France, burqa_
+_Context: France, Nicolas Sarkozy, President of France, burqa_
 
 ### [ The email at the heart of the Utegate scandal in Australia is declared a forgery by Federal Police. ](/news/2009/06/22/the-email-at-the-heart-of-the-utegate-scandal-in-australia-is-declared-a-forgery-by-federal-police.md)
 _Context: Utegate scandal in Australia_

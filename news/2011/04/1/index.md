@@ -38,7 +38,7 @@ Greifeld promised shareholders far bigger cost savings thanin the German deal, b
 Valais cantonal police say three German ski tourers have been killed by an avalanche on Friday in the mountains near Ayer. The avalanche swept ...
 
 ### [Japan Self-Defense Forces and the members of the United States Armed Forces search for people still missing after the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/1/japan-self-defense-forces-and-the-members-of-the-united-states-armed-forces-search-for-people-still-missing-after-the-2011-tahoku-earthquak.md)
-_Context: U.S. military personnel, an earthquake and tsunami, military_
+_Context: United States, an earthquake and tsunami, military_
 
 ### [Radioactivity levels surge in Japan. ](/news/2011/04/1/radioactivity-levels-surge-in-japan.md)
 Work on containing the crisis at the Fukushima Daiichi complex is hampered because the level of radioactive iodine found in water there exceeds 10,000 times the safety standard, officials say.

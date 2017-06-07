@@ -4,10 +4,10 @@
 _Context: Brazil, Fonte Nova, Salvador de Bahia, footballer, stadium_
 
 ### [ Riots break out in the Villiers-le-Bel and Arnouville suburbs of Paris, France, after a car accident between a police car and a motorbike kills two teenagers. ](/news/2007/11/25/riots-break-out-in-the-villiers-le-bel-and-arnouville-suburbs-of-paris-france-after-a-car-accident-between-a-police-car-and-a-motorbike-k.md)
-_Context: Arnouville, French, Paris, Villiers-le-Bel, car accident, motorbike, police car, riot, suburb, teenager_
+_Context: Arnouville, France, Paris, Villiers-le-Bel, car accident, motorbike, police car, riot, suburb, teenager_
 
 ### [ Syria accepts a United States invitation to participate in the 2007 Mideast peace conference. ](/news/2007/11/25/syria-accepts-a-united-states-invitation-to-participate-in-the-2007-mideast-peace-conference.md)
-_Context: 2007 Mideast peace conference, Syria, U.S._
+_Context: 2007 Mideast peace conference, Syria, United States_
 
 ### [ Croatia's opposition Social Democrats take a narrow lead on in a close national election, according to exit polls, after a campaign fought over corruption, the economy and future European Union membership. ](/news/2007/11/25/croatia-s-opposition-social-democrats-take-a-narrow-lead-on-in-a-close-national-election-according-to-exit-polls-after-a-campaign-fought.md)
 _Context: Croatia, European Union, Social Democrats, in a close national election_

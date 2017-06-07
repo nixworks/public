@@ -43,7 +43,7 @@ _Context: Kyrgyzstan, People's Republic of China, Tajikistan, Xinjiang_
 _Context: Belarus, Russia_
 
 ### [The ''Yomiuri'' reports that Japan and the United States have given up on plans to relocate Marine Corps Air Station Futenma from Okinawa by 2014. ](/news/2011/05/7/the-yomiuri-reports-that-japan-and-the-united-states-have-given-up-on-plans-to-relocate-marine-corps-air-station-futenma-from-okinawa-by.md)
-_Context: Japan, Marine Corps Air Station Futenma, Okinawa, U.S., Yomiuri_
+_Context: Japan, Marine Corps Air Station Futenma, Okinawa, United States, Yomiuri_
 
 ### [Voters in Singapore go to the polls for a general election.The ruling People's Action Party retains control of government, winning 81 of 87 seats. ](/news/2011/05/7/voters-in-singapore-go-to-the-polls-for-a-general-election-pthe-ruling-people-s-action-party-retains-control-of-government-winning-81-of-87.md)
 Singapore’s long-governing People’s Action Party (PAP) won an absolute parliamentary majority in the early hours of Sunday following Saturday’s general election. Prime Minister Lee Hsien Loong and for

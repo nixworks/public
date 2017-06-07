@@ -7,7 +7,7 @@ _Context: Malaysia, Parti Keadilan Rakyat, Penang, Penanti, by-election_
 _Context: 2009, Denis Menchov, Giro d'Italia, Italy, Rome, Russia, cyclist_
 
 ### [ Late-term abortion provider George Tiller is shot and killed in Wichita, Kansas, United States. ](/news/2009/05/31/late-term-abortion-provider-george-tiller-is-shot-and-killed-in-wichita-kansas-united-states.md)
-_Context: George Tiller, Kansas, Late-term abortion, U.S., Wichita, Kansas_
+_Context: George Tiller, Kansas, Late-term abortion, United States, Wichita, Kansas_
 
 ### [ South Ossetia holds its parliamentary election.  ](/news/2009/05/31/south-ossetia-holds-its-parliamentary-election.md)
 _Context: South Ossetia, parliamentary election_
@@ -22,7 +22,7 @@ _Context: Democratic Party, Hong Kong, Martin Lee, assassinated, chairman_
 _Context: Bagua Grande, Peru, prison, prison escape_
 
 ### [ A man steals EUR6 million in jewellery from Chopard in Paris, France.  ](/news/2009/05/31/a-man-steals-a-6-million-in-jewellery-from-chopard-in-paris-france.md)
-_Context: Chopard, French, Paris, euro, jewellery_
+_Context: Chopard, France, Paris, euro, jewellery_
 
 ### [ Thousands of demonstrators gather in Hong Kong to commemorate the upcoming anniversary of the Tiananmen Square massacre of June 4, 1989. ](/news/2009/05/31/thousands-of-demonstrators-gather-in-hong-kong-to-commemorate-the-upcoming-anniversary-of-the-tiananmen-square-massacre-of-june-4-1989.md)
 _Context: Hong Kong, Tiananmen Square, Tiananmen Square protests of 1989, demonstration_

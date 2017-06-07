@@ -4,10 +4,10 @@
 _Context: 1991, 1995, 2001, 2005, Bombardier Inc., England, Francisco Javier Rin, Grupo Transportacin Ferroviaria Mexicana, Kansas City Southern Railway, London, Vicente Corta Fernandez_
 
 ### [ The Al Jazeera Network states it will be expanding by broadcasting English language content into the United States by March 2006. ](/news/2005/07/5/the-al-jazeera-network-states-it-will-be-expanding-by-broadcasting-english-language-content-into-the-united-states-by-march-2006.md)
-_Context: Al Jazeera, U.S._
+_Context: Al Jazeera, United States_
 
 ### [ The United Church of Christ becomes the first mainline U.S. Christian denomination to officially support same-sex marriages by passing a resolution calling for member churches to consider wedding policies "that do not discriminate against couples based on gender." It also asks churches to consider supporting legislation granting equal marriage rights to gay and lesbian couples and to work against laws banning gay marriage. ](/news/2005/07/5/the-united-church-of-christ-becomes-the-first-mainline-u-s-christian-denomination-to-officially-support-same-sex-marriages-by-passing-a-re.md)
-_Context: Christian, U.S., United Church of Christ, mainline, same-sex marriage_
+_Context: Christian, United Church of Christ, United States, mainline, same-sex marriage_
 
 ### [ Scientists uncover evidence that humans lived in the Americas 45,000 years ago, 30,000 years earlier than previously thought. ](/news/2005/07/5/scientists-uncover-evidence-that-humans-lived-in-the-americas-45-000-years-ago-30-000-years-earlier-than-previously-thought.md)
 _Context: humans lived in the Americas_
@@ -43,13 +43,13 @@ _Context: Alberto Fujimori, Peru, anti-corruption, murder_
 _Context: 1989, Abdul Rahman Ghassemlou, Austria, Iran, Kurd, Mahmoud Ahmadinejad, Vienna_
 
 ### [ In France, large forest fires rage in the French Riviera. Authorities evacuate thousands. ](/news/2005/07/5/in-france-large-forest-fires-rage-in-the-french-riviera-authorities-evacuate-thousands.md)
-_Context: French, French Riviera, forest fire_
+_Context: France, French Riviera, forest fire_
 
 ### [ Sudanese government and two rebels groups, including Sudan Liberation Movement and Justice and Equality Movement, sign a declaration of principles towards the peace talks. This ends three weeks of negotiations in the Nigerian capital Abuja. Talks are adjourned until August 24. ](/news/2005/07/5/sudanese-government-and-two-rebels-groups-including-sudan-liberation-movement-and-justice-and-equality-movement-sign-a-declaration-of-pri.md)
 _Context: Abuja, Justice and Equality Movement, Niger, Sudan, Sudan Liberation Movement, peace talks_
 
 ### [ United States The ABC reality series Dancing with the Stars premiered, Kelly Monaco won the competition.](/news/2005/07/5/united-states-the-abc-reality-series-dancing-with-the-stars-premiered-kelly-monaco-won-the-competition.md)
-_Context: U.S._
+_Context: United States_
 
 ### [ Yahoo! Answers, Yahoo!'s current question-and-answer service, is launched. Their first question is posted just a couple of hours after their 9 A.M. launch time.](/news/2005/07/5/yahoo-answers-yahoo-s-current-question-and-answer-service-is-launched-their-first-question-is-posted-just-a-couple-of-hours-after-thei.md)
 _Context: Yahoo Inc., Yahoo! Answers_

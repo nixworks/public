@@ -10,7 +10,7 @@ _Context: Yemen_
 A helicopter crash Tuesday brought the number of NATO service members killed in Afghanistan in 2010 to 529.
 
 ### [Al-Qaeda in the Islamic Maghreb claims responsibility for kidnapping five French workers in Niger. ](/news/2010/09/21/al-qaeda-in-the-islamic-maghreb-claims-responsibility-for-kidnapping-five-french-workers-in-niger.md)
-_Context: French, Niger, al-Qaeda, kidnapped_
+_Context: France, Niger, al-Qaeda, kidnapped_
 
 ### [Lawrence Summers announces that he will leave as head of the United States National Economic Council, responsible for advising President Barack Obama on economic policy. ](/news/2010/09/21/lawrence-summers-announces-that-he-will-leave-as-head-of-the-united-states-national-economic-council-responsible-for-advising-president-bar.md)
 _Context: Barack Obama, Lawrence Summers, U.S. President, United States National Economic Council_

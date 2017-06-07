@@ -7,7 +7,7 @@ _Context: Damascus, Syrian uprising (2011-present), double bombing_
 _Context: El Maana, Mexican Drug War, Nuevo Laredo, much of the violence_
 
 ### [The United States Armed Forces are embroiled in controversy over a defunct officer training course called ''Perspectives on Islam and Islamic Radicalism'', which taught that Islam is America's irreconcilable enemy. ](/news/2012/05/11/the-united-states-armed-forces-are-embroiled-in-controversy-over-a-defunct-officer-training-course-called-perspectives-on-islam-and-islami.md)
-_Context: Islam, U.S. military personnel_
+_Context: Islam, United States_
 
 ### [An American study reveals that North Koreans have an increasing level of informal access to foreign media, despite the intense censorship efforts of the North Korean government. ](/news/2012/05/11/an-american-study-reveals-that-north-koreans-have-an-increasing-level-of-informal-access-to-foreign-media-despite-the-intense-censorship-ef.md)
 North Koreans have more access than before to outside media, especially foreign and South Korean DVDs, says a US study.
@@ -19,7 +19,7 @@ Security was tightened in the Philippines capital on Friday ahead of anti-Chines
 A man and a woman are being questioned on suspicion of murdering five children who died in a house fire in Derby.
 
 ### [William Balfour is found guilty of murdering the mother, brother and nephew of American entertainer Jennifer Hudson. ](/news/2012/05/11/william-balfour-is-found-guilty-of-murdering-the-mother-brother-and-nephew-of-american-entertainer-jennifer-hudson.md)
-_Context: Jennifer Hudson, U.S._
+_Context: Jennifer Hudson, United States_
 
 ### [At the Leveson Inquiry into British media practices, former News International chief executive Rebekah Brooks discloses an email that appears to show that Britain's Culture Secretary, Jeremy Hunt, sought advice from News International over how Downing Street should respond to the News of the World phone hacking scandal. ](/news/2012/05/11/at-the-leveson-inquiry-into-british-media-practices-former-news-international-chief-executive-rebekah-brooks-discloses-an-email-that-appear.md)
 _Context: Jeremy Hunt, Leveson Inquiry, News International, Rebekah Brooks, Secretary of State for Culture, Media and Sport, phone hacking_

@@ -37,7 +37,7 @@ State Department says Larry Palmer remains nominee for US ambassador to Caracas.
 Japan apologises to South Korea for colonising the peninsula and promises to return cultural relics.
 
 ### [Iran digs mass graves in Khuzestan province, using psychological warfare in preparation for an invasion by the United States armed forces after the United Nations Security Council Resolution 1929, and warns that Iran will attack American bases in the Middle East if American forces attack. ](/news/2010/08/10/iran-digs-mass-graves-in-khuzestan-province-using-psychological-warfare-in-preparation-for-an-invasion-by-the-united-states-armed-forces-af.md)
-_Context: Iran, Khuzestan, U.S. military personnel, ban on ballistic missile tests, mass grave, psychological warfare_
+_Context: Iran, Khuzestan, United States, ban on ballistic missile tests, mass grave, psychological warfare_
 
 ### [The United States convicts Noshir Gowadia, a former engineer who allegedly sold secrets to China, and who now faces life imprisonment. ](/news/2010/08/10/the-united-states-convicts-noshir-gowadia-a-former-engineer-who-allegedly-sold-secrets-to-china-and-who-now-faces-life-imprisonment.md)
 A US engineer of Indian origin is convicted of selling military secrets about the B-2 bomber to China.

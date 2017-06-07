@@ -22,7 +22,7 @@ Microsoft Chairman and founder Bill Gates said Thursday he plans to step away fr
 _Context: George W. Bush, Marine protected area, Northwestern Hawaiian Islands National Monument_
 
 ### [ The U.S. military suffers its 2500th fatal casualty in the Iraq war. 18,490 have been wounded. ](/news/2006/06/15/the-u-s-military-suffers-its-2500th-fatal-casualty-in-the-iraq-war-18-490-have-been-wounded.md)
-_Context: Iraq War, U.S. military personnel_
+_Context: Iraq War, United States_
 
 ### [ The United Kingdom agrees to jail former Liberian president Charles Taylor if he is convicted, removing a key obstacle to a proposed trial to be held at The Hague under the auspices of the Special Court for Sierra Leone. ](/news/2006/06/15/the-united-kingdom-agrees-to-jail-former-liberian-president-charles-taylor-if-he-is-convicted-removing-a-key-obstacle-to-a-proposed-trial.md)
 _Context: Charles G. Taylor, Liberia, Special Court for Sierra Leone, The Hague, United Kingdom_

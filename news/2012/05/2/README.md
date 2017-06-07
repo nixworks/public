@@ -43,7 +43,7 @@ _Context: Gilbert, Arizona, J. T. Ready, Minutemen Civil Defense Corps, neo-nazi
 _Context: Egypt, political power, presidential election_
 
 ### [Presidential candidates Nicolas Sarkozy and Francois Hollande go head-to-head in a televised debate in France. ](/news/2012/05/2/presidential-candidates-nicolas-sarkozy-and-franassois-hollande-go-head-to-head-in-a-televised-debate-in-france.md)
-_Context: Francois Hollande, French, Nicolas Sarkozy_
+_Context: France, Francois Hollande, Nicolas Sarkozy_
 
 ### [The Australian Federal Police launches a formal investigation into allegations that Speaker of the Australian House of Representatives Peter Slipper misused Cabcharges. ](/news/2012/05/2/the-australian-federal-police-launches-a-formal-investigation-into-allegations-that-speaker-of-the-australian-house-of-representatives-peter.md)
 _Context: Cabcharge, Peter Slipper, Speaker of the Australian House of Representatives, police_

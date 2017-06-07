@@ -1,7 +1,7 @@
 ## [2008-06-21](/news/2008/06/21/index.md)
 
 ### [ France and Algeria sign an agreement that could lead to French nuclear power technology being employed in Algerian reactors. ](/news/2008/06/21/france-and-algeria-sign-an-agreement-that-could-lead-to-french-nuclear-power-technology-being-employed-in-algerian-reactors.md)
-_Context: Algeria, French, French nuclear power technology_
+_Context: Algeria, France, French nuclear power technology_
 
 ### [ Militants in Pakistan fire mortars on a NATO base and Afghan army base. ](/news/2008/06/21/militants-in-pakistan-fire-mortars-on-a-nato-base-and-afghan-army-base.md)
  A NATO base in Afghanistan and a local army compound were attacked from across the border with Pakistan on Saturday, the force said. 
@@ -19,7 +19,7 @@ _Context: Chevron Corporation, Delta State, Nigeria_
 More than 800 people were missing on Monday after a Philippine ferry capsized in a typhoon that has killed scores and left a trail of destruction across the archipelago.
 
 ### [ South Korea renegotiates its beef import deal with the United States following widespread protests at the original deal due to concerns over mad cow disease. ](/news/2008/06/21/south-korea-renegotiates-its-beef-import-deal-with-the-united-states-following-widespread-protests-at-the-original-deal-due-to-concerns-ove.md)
-_Context: South Korea, U.S., beef imports, mad cow disease_
+_Context: South Korea, United States, beef imports, mad cow disease_
 
 ### [ Four ISAF soldiers are killed by a bomb in Afghanistan. ](/news/2008/06/21/four-isaf-soldiers-are-killed-by-a-bomb-in-afghanistan.md)
 Roadside bombs killed five foreign troops in Afghanistan on Saturday, military officials said, extending a series of daily attacks that have lifted the death toll for foreign forces this year to more than 100. 

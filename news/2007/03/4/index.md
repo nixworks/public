@@ -16,7 +16,7 @@ China plans to cut its 2007budget deficit to 245 billion yuan, or 1.1 percent of
 _Context: Dover, St Mary, United Kingdom, Zeebrugge ferry disaster, church, memorial service_
 
 ### [ War in Afghanistan (2001-present): U.S. troops open fire after a suicide bomb attack on a convoy and kill 8 or more civilians on the main road linking Jalalabad with the Pakistan border. Local people protest at the soldiers' actions. ](/news/2007/03/4/war-in-afghanistan-2001apresent-p-u-s-troops-open-fire-after-a-suicide-bomb-attack-on-a-convoy-and-kill-8-or-more-civilians-on-the-mai.md)
-_Context: Jalalabad, Pakistan, U.S. military personnel, War in Afghanistan (2001-present), suicide bomb_
+_Context: Jalalabad, Pakistan, United States, War in Afghanistan (2001-present), suicide bomb_
 
 ### [ Australian troops enter the town of Same in East Timor where fugitive East Timorese army officer Alfredo Reinado was located with orders to arrest Reinado from the President of East Timor Xanana Gusmao. Reinado evades capture but five of his men are killed in the Battle of Same. ](/news/2007/03/4/australian-troops-enter-the-town-of-same-in-east-timor-where-fugitive-east-timorese-army-officer-alfredo-reinado-was-located-with-orders-to.md)
 _Context: Alfredo Reinado, Australia, Battle of Same, East Timor, East Timorese army, President, Same, Xanana Gusmao, arrest, fugitive, troops_

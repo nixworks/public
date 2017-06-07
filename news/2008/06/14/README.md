@@ -22,7 +22,7 @@ _Context: Afghanistan, Farah Province, military_
 _Context: 2008 Iwate earthquake, Honshu Island, Iwate prefecture, Japan, Miyagi Prefecture, magnitude_
 
 ### [ The French Defense Ministry announces France is increasing its military presence in Djibouti following border clashes with Eritrea. France has a mutual defense agreement with Djibouti. ](/news/2008/06/14/the-french-defense-ministry-announces-france-is-increasing-its-military-presence-in-djibouti-following-border-clashes-with-eritrea-france.md)
-_Context: Djibouti, Eritrea, French, border clashes_
+_Context: Djibouti, Eritrea, France, border clashes_
 
 ## [Previous Day...](/news/2008/06/13/index.md)
 

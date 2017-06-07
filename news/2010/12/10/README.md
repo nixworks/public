@@ -37,7 +37,7 @@ Jailed Chinese dissident Liu Xiaobo was awarded the Nobel Peace Prize in a cerem
 The British government has trained a paramilitary force accused of hundreds of killings in Bangladesh, according to leaked U.S. embassy cables. 
 
 ### [For the first time since World War II, German troops are stationed in France. ](/news/2010/12/10/for-the-first-time-since-world-war-ii-german-troops-are-stationed-in-france.md)
-_Context: French, German, World War II_
+_Context: France, German, World War II_
 
 ### [Detention of Julian Assange:Christine Assange, mother of the imprisoned WikiLeaks spokesperson Julian Assange, expresses her anger with the Australian government, especially Julia Gillard, on the Seven Network. ](/news/2010/12/10/detention-of-julian-assange-pchristine-assange-mother-of-the-imprisoned-wikileaks-spokesperson-julian-assange-expresses-her-anger-with-the.md)
 London, Dec 10 (DPA) WikiLeaks founder Julian Assange, who is being held in extradition custody in London, has been refused the use of his own laptop but...

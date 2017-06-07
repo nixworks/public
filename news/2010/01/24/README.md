@@ -10,7 +10,7 @@ _Context: Indianapolis Colts, National Football League, New Orleans Saints, Supe
 _Context: Gryfino, Poland_
 
 ### [The Chinese government denies state involvement in the cyber attacks on Google, while the state-run ''China Daily'' newspaper accuses the United States of hypocrisy. ](/news/2010/01/24/the-chinese-government-denies-state-involvement-in-the-cyber-attacks-on-google-while-the-state-run-china-daily-newspaper-accuses-the-un.md)
-_Context: China Daily, Google, People's Republic of China, U.S., cyber attacks, government, hypocrisy_
+_Context: China Daily, Google, People's Republic of China, United States, cyber attacks, government, hypocrisy_
 
 ### [A flight operated by Kolavia on behalf of Taban Air crashes on landing at Mashhad International Airport, Iran, injuring at least 46 people. ](/news/2010/01/24/a-flight-operated-by-kolavia-on-behalf-of-taban-air-crashes-on-landing-at-mashhad-international-airport-iran-injuring-at-least-46-people.md)
 _Context: International Airport, Iran, Kolavia, Mashhad, Taban Air, crashes on landing_
@@ -28,7 +28,7 @@ _Context: Afghanistan, parliamentary election_
 _Context: North Korea, North Korea and weapons of mass destruction, South Korea, declaration of war, pre-emptive strike_
 
 ### [At the NRJ Music Awards in Cannes, France, hip hop band Black Eyed Peas are mistakenly presented with an award for best international group which was intended for Tokio Hotel, while Rihanna falls off the stage during a live performance of "Russian Roulette". ](/news/2010/01/24/at-the-nrj-music-awards-in-cannes-france-hip-hop-band-black-eyed-peas-are-mistakenly-presented-with-an-award-for-best-international-group.md)
-_Context: Black Eyed Peas, Cannes, French, NRJ Music Awards, Rihanna, Russian Roulette, Tokio Hotel_
+_Context: Black Eyed Peas, Cannes, France, NRJ Music Awards, Rihanna, Russian Roulette, Tokio Hotel_
 
 ### [Quentin Tarantino's ''Inglourious Basterds'' wins the top prize at the 16th Screen Actors Guild Awards, with Jeff Bridges and Sandra Bullock winning best actors. ](/news/2010/01/24/quentin-tarantino-s-inglourious-basterds-wins-the-top-prize-at-the-16th-screen-actors-guild-awards-with-jeff-bridges-and-sandra-bullock.md)
 _Context: 16th Screen Actors Guild Awards, Inglourious Basterds, Jeff Bridges, Quentin Tarantino, Sandra Bullock_

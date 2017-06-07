@@ -4,7 +4,7 @@
 _Context: George W. Bush, Ohio, United States Circuit Court of Appeals, plaintiff, wiretapping_
 
 ### [ Newly declassified French government documents show that as President Franois Mitterrand knowingly supported the Rwandan Genocide because he believed it would limit "Anglo-Saxon influence." ](/news/2007/07/6/newly-declassified-french-government-documents-show-that-as-president-francois-mitterrand-knowingly-supported-the-rwandan-genocide-because.md)
-_Context: Anglo-Saxon, Franois Mitterrand, French, President of France, Rwandan Genocide_
+_Context: Anglo-Saxon, France, Franois Mitterrand, President of France, Rwandan Genocide_
 
 ### [ Iraqi doctor Bilal Abdullah is charged for his alleged involvement in the 2007 Glasgow International Airport attack. ](/news/2007/07/6/iraqi-doctor-bilal-abdullah-is-charged-for-his-alleged-involvement-in-the-2007-glasgow-international-airport-attack.md)
 _Context: Bilal Abdullah, Iraq_

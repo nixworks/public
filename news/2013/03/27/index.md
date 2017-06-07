@@ -4,7 +4,7 @@
 Five people are reported killed as Thai government begins talks with separatists to end decades-long armed struggle.
 
 ### [Northern Mali conflict:The Government of Mali announces that 63 of their soldiers have been killed fighting jihadists since the French led intervention Operation Serval in January 2013. ](/news/2013/03/27/northern-mali-conflict-pthe-government-of-mali-announces-that-63-of-their-soldiers-have-been-killed-fighting-jihadists-since-the-french-led.md)
-_Context: French, Government, January 2013, Mali, Northern Mali conflict (2012-present), Operation Serval_
+_Context: France, Government, January 2013, Mali, Northern Mali conflict (2012-present), Operation Serval_
 
 ### [Terrorism in Greece:A bomb explodes outside the residence of a Greek shipowner near Acropolis in central Athens; no one is injured. ](/news/2013/03/27/terrorism-in-greece-pa-bomb-explodes-outside-the-residence-of-a-greek-shipowner-near-acropolis-in-central-athens-no-one-is-injured.md)
 _Context: Acropolis, Athens, Greece, Terrorism in Greece_

@@ -10,7 +10,7 @@ _Context: An explosion, Raleigh County, West Virginia, coal mine_
 _Context: Bikini Atoll, Enewetak, Marshall Islands, U.S. nuclear tests, United States Supreme Court, compensation_
 
 ### [Wikileaks releases a video from 2007 showing the killing of civilians, including two Reuters news staff, by the U.S. military in Baghdad, Iraq. ](/news/2010/04/5/wikileaks-releases-a-video-from-2007-showing-the-killing-of-civilians-including-two-reuters-news-staff-by-the-u-s-military-in-baghdad-ir.md)
-_Context: Baghdad, Iraq, Reuters, U.S. military personnel, WikiLeaks, releases a video_
+_Context: Baghdad, Iraq, Reuters, United States, WikiLeaks, releases a video_
 
 ### [The Centers for Disease Control and Prevention is currently attempting to gauge the risk of the recently-discovered XMRV virus, linked to rare forms of prostate cancer and chronic fatigue syndrome, to the blood donation supply. ](/news/2010/04/5/the-centers-for-disease-control-and-prevention-is-currently-attempting-to-gauge-the-risk-of-the-recently-discovered-xmrv-virus-linked-to-ra.md)
 _Context: Centers for Disease Control and Prevention, XMRV, blood donation, chronic fatigue syndrome, prostate cancer_

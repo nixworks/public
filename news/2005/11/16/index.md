@@ -10,7 +10,7 @@ _Context: 2005, Blaise Compaor, Burkina Faso presidential elections_
 _Context: Anhui, Hunan, People's Republic of China, avian flu_
 
 ### [ The United States government has won its fight to keep its supervisory authority over the internet through the ICANN, despite opposition from many nations. ](/news/2005/11/16/the-united-states-government-has-won-its-fight-to-keep-its-supervisory-authority-over-the-internet-through-the-icann-despite-opposition-fr.md)
-_Context: Internet, Internet Corporation for Assigned Names and Numbers, U.S._
+_Context: Internet, Internet Corporation for Assigned Names and Numbers, United States_
 
 ### [ Major areas of the Australian city of Adelaide have been "locked down" ahead of the arrival of United States Secretary of Defense Donald Rumsfeld for the 17th annual AUS-MIN meeting. ](/news/2005/11/16/major-areas-of-the-australian-city-of-adelaide-have-been-locked-down-ahead-of-the-arrival-of-united-states-secretary-of-defense-donald-ru.md)
 _Context: AUS-MIN, Adelaide, Australia, Donald Rumsfeld, Secretary of Defense_
@@ -20,7 +20,7 @@ _Context: AUS-MIN, Adelaide, Australia, Donald Rumsfeld, Secretary of Defense_
 _Context: Jonas Brothers, Nick Jonas, type 1 diabetes_
 
 ### [ The Xbox 360 is first sold in the United States.](/news/2005/11/16/the-xbox-360-is-first-sold-in-the-united-states.md)
-_Context: U.S., Xbox 360_
+_Context: United States, Xbox 360_
 
 ## [Previous Day...](/news/2005/11/15/index.md)
 

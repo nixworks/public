@@ -34,7 +34,7 @@ One of Indonesia’s most active volcanoes has erupted, sending lava and searing
 _Context: Twitter, WikiLeaks, federal magistrate, prosecutor_
 
 ### [Two ex-Blackwater consultants are found guilty in the United States of the involuntary manslaughter of a civilian in the Afghan capital Kabul. ](/news/2011/03/11/two-ex-blackwater-consultants-are-found-guilty-in-the-united-states-of-the-involuntary-manslaughter-of-a-civilian-in-the-afghan-capital-kabu.md)
-_Context: Afghanistan, Blackwater Worldwide, Kabul, U.S., manslaughter_
+_Context: Afghanistan, Blackwater Worldwide, Kabul, United States, manslaughter_
 
 ### [The UNASUR Constitutive Treaty enters into force, making the Union of South American Nations an international legal personality. ](/news/2011/03/11/the-unasur-constitutive-treaty-enters-into-force-making-the-union-of-south-american-nations-an-international-legal-personality.md)
 _Context: UNASUR Constitutive Treaty, Union of South American Nations, into force, legal personality_

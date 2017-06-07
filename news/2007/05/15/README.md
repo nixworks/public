@@ -10,7 +10,7 @@ _Context: Copenhagen, Denmark, Freetown Christiania, Little Mermaid_
 _Context: Afghanistan, Douglas Lute, Iraq, war czar_
 
 ### [ French Prime Minister Dominique de Villepin resigns. ](/news/2007/05/15/french-prime-minister-dominique-de-villepin-resigns.md)
-_Context: Dominique de Villepin, French_
+_Context: Dominique de Villepin, France_
 
 ### [ Palestinian factional violence claims 8 more lives as violence erupts on the Israeli border with Fatah and Hamas fighting for dominance at the Karni cargo crossing in Gaza, ending Monday night's ceasefire agreement. ](/news/2007/05/15/palestinian-factional-violence-claims-8-more-lives-as-violence-erupts-on-the-israeli-border-with-fatah-and-hamas-fighting-for-dominance-at.md)
 _Context: Fatah, Hamas, clashes_

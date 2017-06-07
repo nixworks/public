@@ -34,7 +34,7 @@ Nauru&#039;s government promises to process all asylum seekers in its offshore d
 Former Chief Executive Donald Tsang Yam-kuen has been formally charged by the Independent Commission Against Corruption (ICAC) with misconduct in public office. Reports said that Tsang appeared at the ICAC headquarters on Monday morning and was charged with two instances of misconduct in public office, due to failing to make a declaration of &hellip;
 
 ### [The Trans-Pacific Partnership between the United States and 11 Pacific Rim countries is finalized in the American city of Atlanta. According to wikileaks, the main point of the deal will be that trans-national corporations will not be subjected to the laws of individual countries. Instead, an international system will be formed with the right to overrule national laws and legal decisions. ](/news/2015/10/5/the-trans-pacific-partnership-between-the-united-states-and-11-pacific-rim-countries-is-finalized-in-the-american-city-of-atlanta-according.md)
-_Context: Atlanta, Pacific Rim, Trans-Pacific Partnership, U.S._
+_Context: Atlanta, Pacific Rim, Trans-Pacific Partnership, United States_
 
 ### [Governor Jerry Brown signs legislation which will go into effect in late 2016, legalizing euthanasia statewide in California. ](/news/2015/10/5/governor-jerry-brown-signs-legislation-which-will-go-into-effect-in-late-2016-legalizing-euthanasia-statewide-in-california.md)
 _Context: Governor Jerry Brown, whether or not to continue_

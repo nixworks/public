@@ -10,7 +10,7 @@ _Context: Albanian, English, Hashim Thai, Kosovo, Prime Minister, Serbia, Serbia
 _Context: Andean diplomatic crisis, Colombia, Venezuela_
 
 ### [ French voters go to the polls for the municipal elections. ](/news/2008/03/9/french-voters-go-to-the-polls-for-the-municipal-elections.md)
-_Context: 2008 municipal elections, French_
+_Context: 2008 municipal elections, France_
 
 ### [ The Socialist Workers' Party wins the Spanish general election, with the People's Party conceding defeat. ](/news/2008/03/9/the-socialist-workers-party-wins-the-spanish-general-election-with-the-people-s-party-conceding-defeat.md)
 _Context: People's Party, Socialist Workers' Party, Spain, general election_

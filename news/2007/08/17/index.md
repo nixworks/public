@@ -10,7 +10,7 @@ _Context: India, Mumbai_
 _Context: Afghanistan, Helmand Province, Taliban, ambush_
 
 ### [ France circulates a draft United Nations Security Council resolution extending the mandate of the 13,600 United Nations peacekeeping force in Lebanon. ](/news/2007/08/17/france-circulates-a-draft-united-nations-security-council-resolution-extending-the-mandate-of-the-13-600-united-nations-peacekeeping-force.md)
-_Context: French, Lebanon, United Nations, United Nations Security Council_
+_Context: France, Lebanon, United Nations, United Nations Security Council_
 
 ### [ Interpol issues warrants for the arrest of Saddam Hussein's eldest daughter Raghad Hussein and his first wife Sajida Khairalla Tulfa for providing support to Iraqi insurgents. ](/news/2007/08/17/interpol-issues-warrants-for-the-arrest-of-saddam-hussein-s-eldest-daughter-raghad-hussein-and-his-first-wife-sajida-khairalla-tulfa-for-pr.md)
 Iraqi officials would not discuss the specific charges against Raghad Saddam Hussein and her mother, Sajida Khairalla Tulfa.
@@ -40,7 +40,7 @@ _Context: Ashley Mote, Member of the European Parliament, South East England, fr
 Hurricane Dean has intensified and developed into a category three hurricane, with winds reaching 200 kilometres per hour, the United States National Hurricane Centre has announced.
 
 ### [ Stock prices in the United States and Europe rally after the Federal Reserve cuts its discount lending rate to restore confidence in the banking sector after the subprime mortgage crisis. ](/news/2007/08/17/stock-prices-in-the-united-states-and-europe-rally-after-the-federal-reserve-cuts-its-discount-lending-rate-to-restore-confidence-in-the-ba.md)
-_Context: Europe, Federal Reserve, U.S., housing crisis_
+_Context: Europe, Federal Reserve, United States, housing crisis_
 
 ### [  The death toll from the 2007 Peru earthquake rises to 510 with another 1,500 people being injured. Aid reaches affected areas with President Alan Garca appealing for calm after reports of looting. ](/news/2007/08/17/the-death-toll-from-the-2007-peru-earthquake-rises-to-510-with-another-1-500-people-being-injured-aid-reaches-affected-areas-with-preside.md)
 _Context: 2007 Peru earthquake, Alan Garcia, Looting, President_

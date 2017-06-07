@@ -22,7 +22,7 @@ _Context: Greece, coalition government, failed, first election on May 6, second 
 _Context: Ahmed Shafiq, Egypt, Freedom and Justice Party, Mohamed Morsi, presidential election, prime minister_
 
 ### [Voters in France go to the polls for legislative election with the Socialist Party winning a majority. ](/news/2012/06/17/voters-in-france-go-to-the-polls-for-legislative-election-with-the-socialist-party-winning-a-majority.md)
-_Context: French, PS, legislative election_
+_Context: France, PS, legislative election_
 
 ## [Previous Day...](/news/2012/06/16/index.md)
 

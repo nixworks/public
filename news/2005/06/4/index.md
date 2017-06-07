@@ -7,7 +7,7 @@ _Context: Bernard Landry, Parti Qubcois, Quebec, Quebec sovereignty movement_
 _Context: (Wikinews), Cuba, George W. Bush, Guantanamo Bay, Guantnamo Bay Qur'an desecration allegations, Muslim, Quran, holy book_
 
 ### [ A French court finds the newspaper Le Monde guilty of defamation against the Jews and Israel, in an article published in 2002 which used "Jews" and "Israel" interchangeably. ](/news/2005/06/4/a-french-court-finds-the-newspaper-le-monde-guilty-of-defamation-against-the-jews-and-israel-in-an-article-published-in-2002-which-used-j.md)
-_Context: French, Israel, Jewish, Le Monde, defamation_
+_Context: France, Israel, Jewish, Le Monde, defamation_
 
 ### [ Hundreds of people attend the funeral in Beirut of anti-Syrian columnist Samir Kassir, killed by a bomb on Thursday. Opposition leaders Gibran Tueni and Saad al-Hariri, son of slain former Prime Minister Rafik al-Hariri, are in attendance. ](/news/2005/06/4/hundreds-of-people-attend-the-funeral-in-beirut-of-anti-syrian-columnist-samir-kassir-killed-by-a-bomb-on-thursday-opposition-leaders-gib.md)
 _Context: Beirut, Gibran Tueni, Prime Minister, Rafik al-Hariri, Saad al-Hariri, Samir Kassir, Syria, funeral_

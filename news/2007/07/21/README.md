@@ -34,7 +34,7 @@ _Context: 13th presidential election in India, Pratibha Patil, President of Indi
 Afghan Taliban rebels killed the second of two German hostages on Saturday after the end of their deadline for Germany to withdraw its troops from Afghanistan and the Afghan government to free all Taliban prisoners.
 
 ### [ Two Rwandan men wanted for their role in the 1994 genocide are arrested in France. ](/news/2007/07/21/two-rwandan-men-wanted-for-their-role-in-the-1994-genocide-are-arrested-in-france.md)
-_Context: French, Rwanda, Rwandan Genocide_
+_Context: France, Rwanda, Rwandan Genocide_
 
 ### [ ''Harry Potter and the Deathly Hallows'', the seventh and final volume of the Harry Potter series, is released worldwide. ](/news/2007/07/21/harry-potter-and-the-deathly-hallows-the-seventh-and-final-volume-of-the-harry-potter-series-is-released-worldwide.md)
 _Context: Harry Potter, Harry Potter and the Deathly Hallows_

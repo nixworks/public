@@ -13,10 +13,10 @@ _Context: Amtrak, Boston, New York, train derailment_
 A hostage drama at a Greek prison ends peacefully with the surrender of an Albanian killer who previously escaped twice from a high-security jail.
 
 ### [Five people are wounded during a shooting at a nightclub in Belle Glade, Florida, United States. ](/news/2013/03/17/five-people-are-wounded-during-a-shooting-at-a-nightclub-in-belle-glade-florida-united-states.md)
-_Context: Belle Glade, Florida, U.S., nightclub, shooting_
+_Context: Belle Glade, Florida, United States, nightclub, shooting_
 
 ### [Prominent French lawyer Olivier Metzner is found dead of an apparent suicide. ](/news/2013/03/17/prominent-french-lawyer-olivier-metzner-is-found-dead-of-an-apparent-suicide.md)
-_Context: French, Olivier Metzner, lawyer, suicide_
+_Context: France, Olivier Metzner, lawyer, suicide_
 
 ### [Two members of the Steubenville High School football team have been found guilty of raping a sixteen-year-old girl in the U.S. town of Steubenville, Ohio. ](/news/2013/03/17/two-members-of-the-steubenville-high-school-football-team-have-been-found-guilty-of-raping-a-sixteen-year-old-girl-in-the-u-s-town-of-steub.md)
 Read the latest World and International news headlines from Sky News Australia. For coverage of breaking news from around the World visit skynews.com.au.

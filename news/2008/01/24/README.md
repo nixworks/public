@@ -16,7 +16,7 @@ _Context: Australia, blood type, donor, liver, modified immune cells, transplant
 _Context: Amazon rainforest, Brazil, deforestation, federal government, legislation_
 
 ### [ Jerome Kerviel is blamed for worsening the January 2008 stock market downturn by allegedly losing EUR4.9 billion ($7 billion) for French bank Societe Generale. ](/news/2008/01/24/ja-c-ra-me-kerviel-is-blamed-for-worsening-the-january-2008-stock-market-downturn-by-allegedly-losing-a-4-9-billion-7-billion-for-french.md)
-_Context: French, January 2008 stock market downturn, Jerome Kerviel, Societe Generale, US$, bank, euro_
+_Context: France, January 2008 stock market downturn, Jerome Kerviel, Societe Generale, US$, bank, euro_
 
 ## [Previous Day...](/news/2008/01/23/index.md)
 

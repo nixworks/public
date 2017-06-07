@@ -10,7 +10,7 @@ _Context: Narathiwat, Pattani, South Thailand insurgency, Thailand, Yala_
 _Context: Kenya, al-Shabaab_
 
 ### [275 United States Military personnel are deployed to Iraq to provide extra protection for the American embassy in Baghdad. ](/news/2014/06/17/275-united-states-military-personnel-are-deployed-to-iraq-to-provide-extra-protection-for-the-american-embassy-in-baghdad.md)
-_Context: Iraq, U.S. embassy in Baghdad, U.S. military personnel_
+_Context: Iraq, U.S. embassy in Baghdad, United States_
 
 ### [Aftermath of the United States special operations forces, in coordination with the FBI, captured Ahmed Abu Khattala, one of the suspected leaders of the Benghazi attack, on the weekend of June 14 to June 15, 2014, in a covert mission in Libya. ](/news/2014/06/17/aftermath-of-the-united-states-special-operations-forces-in-coordination-with-the-fbi-captured-ahmed-abu-khattala-one-of-the-suspected-le.md)
 Alleged ringleader in 2012 attack captured in operation in Libya involving Special Operations forces.

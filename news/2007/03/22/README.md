@@ -4,7 +4,7 @@
 _Context: Maputo, Mozambique, explodes_
 
 ### [ French space agency CNES releases its UFO files to the public via its website. ](/news/2007/03/22/french-space-agency-cnes-releases-its-ufo-files-to-the-public-via-its-website.md)
-_Context: CNES, French, space agency, unidentified flying object, website_
+_Context: CNES, France, space agency, unidentified flying object, website_
 
 ### [ Jamaican Police announce that Bob Woolmer, the coach of the Pakistan national cricket team, was murdered on Sunday, and proceed to question all members of the team. ](/news/2007/03/22/jamaican-police-announce-that-bob-woolmer-the-coach-of-the-pakistan-national-cricket-team-was-murdered-on-sunday-and-proceed-to-question.md)
 _Context: Bob Woolmer, Jamaica Constabulary Force, Pakistan national cricket team_
@@ -31,7 +31,7 @@ _Context: 7 July, England, police_
 _Context: Baghdad, Ban Ki-moon, Iraqi Prime Minister, Nouri Maliki, Secretary General, United Nations, bomb_
 
 ### [ Former U.S. Ambassador to the United Nations John R. Bolton claims the United States deliberately resisted calls for an immediate ceasefire during the 2006 Israel-Lebanon conflict. ](/news/2007/03/22/former-u-s-ambassador-to-the-united-nations-john-r-bolton-claims-the-united-states-deliberately-resisted-calls-for-an-immediate-ceasefire.md)
-_Context: Ambassador to the United Nations, John R. Bolton, U.S., ceasefire, war_
+_Context: Ambassador to the United Nations, John R. Bolton, United States, ceasefire, war_
 
 ### [ Amnesty International calls on governments not to co-operate with U.S. military in trials of detainees at Guantanamo Bay. ](/news/2007/03/22/amnesty-international-calls-on-governments-not-to-co-operate-with-u-s-military-in-trials-of-detainees-at-guanta-namo-bay.md)
 _Context: Amnesty International, Guantanamo Bay, U.S. military_

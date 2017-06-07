@@ -7,7 +7,7 @@ _Context: 24th Marine Expeditionary Unit, Afghanistan, United States military, t
 _Context: European Central Bank, Eurozone, inflation, interest rates_
 
 ### [ French authorities charge Continental Airlines and five individuals over the Concorde disaster. ](/news/2008/07/3/french-authorities-charge-continental-airlines-and-five-individuals-over-the-concorde-disaster.md)
-_Context: Air France Flight 4590, Continental Airlines, French_
+_Context: Air France Flight 4590, Continental Airlines, France_
 
 ### [ MV ''Princess of the Stars'' disaster: The Board of Marine Inquiry says that two of four ballast tanks were empty, leaving the ship unstable. ](/news/2008/07/3/mv-princess-of-the-stars-disaster-the-board-of-marine-inquiry-says-that-two-of-four-ballast-tanks-were-empty-leaving-the-ship-unstabl.md)
 _Context: MV ''Princess of the Stars_

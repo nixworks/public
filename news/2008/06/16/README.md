@@ -25,7 +25,7 @@ _Context: 2008 U.S. Open Golf Championship, Rocco Mediate, Tiger Woods_
 _Context: Bank Melli, European Union, Iran, Iran and weapons of mass destruction, United Kingdom, sanctions_
 
 ### [ France announces plans to cut 54,000 defense jobs and push for a stronger European Security and Defence Policy as part of a new defense strategy. ](/news/2008/06/16/france-announces-plans-to-cut-54-000-defense-jobs-and-push-for-a-stronger-european-security-and-defence-policy-as-part-of-a-new-defense-str.md)
-_Context: European Security and Defence Policy, French_
+_Context: European Security and Defence Policy, France_
 
 ### [ South Korean construction workers join truck drivers in going on strike seeking higher pay and lower fuel costs. ](/news/2008/06/16/south-korean-construction-workers-join-truck-drivers-in-going-on-strike-seeking-higher-pay-and-lower-fuel-costs.md)
 South Korean construction workers joined striking truckers on Monday in the latest blow to new President Lee Myung-bak, whose repeated policy stumbles have seen his popularity plunge after less than four months in office.

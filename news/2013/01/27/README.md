@@ -31,7 +31,7 @@ At least 10 people die and more than 30 are injured after a bus crashes from a r
 Rescuers searched for possible survivors following the collapse of a soccer field retaining wall in Turkey that killed seven people, officials said.
 
 ### [Tens of thousands of people rally in Paris in support of the legalisation of gay marriage and adoption in France. ](/news/2013/01/27/tens-of-thousands-of-people-rally-in-paris-in-support-of-the-legalisation-of-gay-marriage-and-adoption-in-france.md)
-_Context: French, Paris, gay marriage_
+_Context: France, Paris, gay marriage_
 
 ### [Voters in Bulgaria go to the polls to vote on a referendum on building a new nuclear power plant at Belene. ](/news/2013/01/27/voters-in-bulgaria-go-to-the-polls-to-vote-on-a-referendum-on-building-a-new-nuclear-power-plant-at-belene.md)
 A controversial referendum on whether to build a new nuclear power plant in Bulgaria appears to have been invalidated by low turnout.

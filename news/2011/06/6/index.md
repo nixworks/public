@@ -10,7 +10,7 @@ _Context: 2011 Syrian uprising, Jisr al-Shughour, Syria_
 Tear gas and rubber bullets reportedly used to break up religious gatherings in villages across the country.
 
 ### [Two United States drone missiles kill 14 people in  Pakistani Taliban compounds near Wana in South Waziristan. ](/news/2011/06/6/two-united-states-drone-missiles-kill-14-people-in-pakistani-taliban-compounds-near-wana-in-south-waziristan.md)
-_Context: Pakistani Taliban, South Waziristan, U.S., Wana, drone_
+_Context: Pakistani Taliban, South Waziristan, United States, Wana, drone_
 
 ### [2011 Yemeni uprising: Armed men affiliated with al-Qaeda kill seven soldiers and injure 12 others near the city of Zinjibar. ](/news/2011/06/6/2011-yemeni-uprising-armed-men-affiliated-with-al-qaeda-kill-seven-soldiers-and-injure-12-others-near-the-city-of-zinjibar.md)
 Armed men killed sevensoldiers and wounded 12 others in clashes in the southern Yemenicity of Zinjibar on Monday, a local official and witnesses said.
@@ -70,13 +70,13 @@ _Context: Dominique Strauss-Kahn, International Monetary Fund, New York, arraign
 _Context: Anwar Ibrahim, Malaysia, Mohamad Zabidin Diah_
 
 ### [The United States Federal Bureau of Investigation announces that it has arrested 13 members of the Mafia in the city of Philadelphia in relation to an illegal gambling operation. ](/news/2011/06/6/the-united-states-federal-bureau-of-investigation-announces-that-it-has-arrested-13-members-of-the-mafia-in-the-city-of-philadelphia-in-rela.md)
-_Context: Federal Bureau of Investigation, Philadelphia, Sicilian Mafia, U.S._
+_Context: Federal Bureau of Investigation, Philadelphia, Sicilian Mafia, United States_
 
 ### [The outgoing speaker of the House of Representatives in Nigeria, Dimeji Bankole, is arrested on fraud charges. ](/news/2011/06/6/the-outgoing-speaker-of-the-house-of-representatives-in-nigeria-dimeji-bankole-is-arrested-on-fraud-charges.md)
 _Context: Dimeji Bankole, House of Representatives, Nigeria_
 
 ### [France announces that it will stop teaching indigenous languages in schools in all of its Overseas departments and territories of France. ](/news/2011/06/6/france-announces-that-it-will-stop-teaching-indigenous-languages-in-schools-in-all-of-its-overseas-departments-and-territories-of-france.md)
-_Context: French, Overseas departments and territories of France, indigenous language_
+_Context: France, Overseas departments and territories of France, indigenous language_
 
 ### [Ollanta Humala is elected President of Peru in the Peruvian general election, defeating opposition leader Keiko Fujimori. ](/news/2011/06/6/ollanta-humala-is-elected-president-of-peru-in-the-peruvian-general-election-defeating-opposition-leader-keiko-fujimori.md)
 _Context: Keiko Fujimori, Ollanta Humala, Peruvian general election, President_

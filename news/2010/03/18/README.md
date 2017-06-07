@@ -34,7 +34,7 @@ _Context: President, Yahya Jammeh, the Gambia_
 Sahil Saeed, the five-year-old boy freed by kidnappers in Pakistan after his family paid a &pound;110,000 ransom has landed in England with his father.
 
 ### [French photographer Sophie Ristelhueber wins the Deutsche Brse Photography Prize. ](/news/2010/03/18/french-photographer-sophie-ristelhueber-wins-the-deutsche-borse-photography-prize.md)
-_Context: Deutsche Brse Photography Prize, French, Sophie Ristelhueber_
+_Context: Deutsche Brse Photography Prize, France, Sophie Ristelhueber_
 
 ## [Previous Day...](/news/2010/03/17/index.md)
 

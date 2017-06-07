@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Pope Benedict XVI rescinds the excommunications of four bishops consecrated in 1988 by French Archbishop Marcel Lefebvre. ](/news/2009/01/24/pope-benedict-xvi-rescinds-the-excommunications-of-four-bishops-consecrated-in-1988-by-french-archbishop-marcel-lefebvre.md) _Context: Archbishop, French, Marcel Lefebvre, Pope, Pope Benedict XVI, consecrated, excommunicate_
+1. [ Pope Benedict XVI rescinds the excommunications of four bishops consecrated in 1988 by French Archbishop Marcel Lefebvre. ](/news/2009/01/24/pope-benedict-xvi-rescinds-the-excommunications-of-four-bishops-consecrated-in-1988-by-french-archbishop-marcel-lefebvre.md) _Context: Archbishop, France, Marcel Lefebvre, Pope, Pope Benedict XVI, consecrated, excommunicate_
 2. [ Pope Benedict XVI acknowledges mistakes in rescinding Bishop Richard Williamson's excommunication for Holocaust denial.  ](/news/2009/03/12/pope-benedict-xvi-acknowledges-mistakes-in-rescinding-bishop-richard-williamson-s-excommunication-for-holocaust-denial.md) _Context: Pope, Pope Benedict XVI, excommunicate_
 3. [ Pope Benedict XVI selects Archbishop Timothy Dolan to succeed Cardinal Edward Egan as New York's Archdiocese. ](/news/2009/02/23/pope-benedict-xvi-selects-archbishop-timothy-dolan-to-succeed-cardinal-edward-egan-as-new-york-s-archdiocese.md) _Context: Archbishop, Pope, Pope Benedict XVI_
 4. [ Zambian archbishop Emmanuel Milingo is excommunicated from the Roman Catholic Church by Pope Benedict XVI. ](/news/2006/09/26/zambian-archbishop-emmanuel-milingo-is-excommunicated-from-the-roman-catholic-church-by-pope-benedict-xvi.md) _Context: Archbishop, Pope Benedict XVI, excommunicate_

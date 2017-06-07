@@ -1,7 +1,7 @@
 ## [2006-11-9](/news/2006/11/9/index.md)
 
 ### [ Ken Mehlman is to step down as chairman of the National Committee of the United States Republican Party. ](/news/2006/11/9/ken-mehlman-is-to-step-down-as-chairman-of-the-national-committee-of-the-united-states-republican-party.md)
-_Context: Ken Mehlman, R, Republican National Committee, U.S._
+_Context: Ken Mehlman, R, Republican National Committee, United States_
 
 ### [ Eight synchronized bombs hit car showrooms in Southern Thailand, nine injured. ](/news/2006/11/9/eight-synchronized-bombs-hit-car-showrooms-in-southern-thailand-nine-injured.md)
 _Context: Thailand_
@@ -28,7 +28,7 @@ _Context: 2008, Tom Vilsack_
 _Context: Mahathir Mohamad, Malaysian Prime Minister, heart attack_
 
 ### [ France successfully performs the first flight test of its new nuclear missile, the M51. ](/news/2006/11/9/france-successfully-performs-the-first-flight-test-of-its-new-nuclear-missile-the-m51.md)
-_Context: French, M51_
+_Context: France, M51_
 
 ### [ Hundreds of young British Muslims are being radicalised, groomed and set on a path to mass murder, according to the head of MI5 (Security Service), Dame Eliza Manningham-Buller. ](/news/2006/11/9/hundreds-of-young-british-muslims-are-being-radicalised-groomed-and-set-on-a-path-to-mass-murder-according-to-the-head-of-mi5-security-s.md)
 News and opinion from The Times &amp; The Sunday Times

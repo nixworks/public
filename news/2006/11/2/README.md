@@ -7,7 +7,7 @@ _Context: Microsoft, Microsoft Windows, Novell, Novell's SUSE Linux, operating s
 _Context: Bonaire, Curaao, Dutch municipalities, Kingdom of the Netherlands, Netherlands, Netherlands Antilles, Saba, Sint Eustatius, Sint Maarten, The Hague, associated state_
 
 ### [ The Rev. Ted Haggard resigns as head of the National Association of Evangelicals in the United States amidst allegations of a gay affair. ](/news/2006/11/2/the-rev-ted-haggard-resigns-as-head-of-the-national-association-of-evangelicals-in-the-united-states-amidst-allegations-of-a-gay-affair.md)
-_Context: National Association of Evangelicals, Ted Haggard, U.S._
+_Context: National Association of Evangelicals, Ted Haggard, United States_
 
 ### [ The journal ''Science'' publishes ](/news/2006/11/2/the-journal-science-publishes.md)
 _Context: Science_
@@ -16,7 +16,7 @@ _Context: Science_
 _Context: Iran, bombs, military, military exercise, missiles_
 
 ### [ The UK Office for National Statistics announces that, in 2005, 565,000 immigrants arrived in the UK, mainly from Poland, India, Pakistan, Bangladesh and Sri Lanka, while there were 380,000 emigrants, over half of whom were UK citizens. The most popular emigration destinations were Australia, Spain, and France. The net immigration total, 185,000, was 17,000 less than 2004's record. ](/news/2006/11/2/the-uk-office-for-national-statistics-announces-that-in-2005-565-000-immigrants-arrived-in-the-uk-mainly-from-poland-india-pakistan-b.md)
-_Context: Australia, Bangladesh, French, India, Office for National Statistics, Pakistan, Poland, Spain, Sri Lanka, United Kingdom_
+_Context: Australia, Bangladesh, France, India, Office for National Statistics, Pakistan, Poland, Spain, Sri Lanka, United Kingdom_
 
 ### [ Gazprom, Russia's state-controlled natural gas monopoly, intends to double the price it charges Georgia. This follows the 2006 Georgian-Russian espionage controversy in early October. ](/news/2006/11/2/gazprom-russia-s-state-controlled-natural-gas-monopoly-intends-to-double-the-price-it-charges-georgia-this-follows-the-2006-georgian-rus.md)
 _Context: 2006 Georgian-Russian espionage controversy, Gazprom, Georgia, Russia, natural gas_

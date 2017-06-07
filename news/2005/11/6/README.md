@@ -13,7 +13,7 @@ _Context: German, Taurid meteor shower, fireballs, unidentified flying object_
 _Context: Azerbaijan parliamentary election, 2005, Azerbaijani citizens, voting fraud_
 
 ### [ The tenth night of the 2005 French riots is reported as being the most intense yet, and the riots are now the subject of crisis meetings in the French government. President Jacques Chirac has called for the arrest, trial and punishment of the rioters. ](/news/2005/11/6/the-tenth-night-of-the-2005-french-riots-is-reported-as-being-the-most-intense-yet-and-the-riots-are-now-the-subject-of-crisis-meetings-in.md)
-_Context: 2005 French riots, French, Jacques Chirac_
+_Context: 2005 French riots, France, Jacques Chirac_
 
 ### [ A tornado estimated to be over  mile wide and of F3 strength on the Fujita scale hits around 2 a.m. near Evansville, Indiana. Over 20 are killed and 200 injured. [http://www.crh.noaa.gov/pah/?n=evansvilletornado-nov.6,2005 (National Weather Service)] [http://news.yahoo.com/s/ap/20051107/ap_on_re_us/midwest_tornado;_ylt=AsSeO.MWF1Yl1JXOCQfzTIKs0NUE;_ylu=X3oDMTA2Z2szazkxBHNlYwN0bQ-- (Yahoo! News)] (Link dead as of 20:57, 14 January 2007 (UTC))](/news/2005/11/6/a-tornado-estimated-to-be-over-1-2-mile-wide-and-of-f3-strength-on-the-fujita-scale-hits-around-2-a-m-near-evansville-indiana-over-20-are.md)
 _Context: Evansville, Fujita scale, tornado_

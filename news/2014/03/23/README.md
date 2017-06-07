@@ -16,7 +16,7 @@ _Context: Conakry, Guinea, United Nations Children's Fund, ebola virus_
 Dewani will appear in court in South Africa the day after leaving the UK - he is accused of arranging the murder of his new wife.
 
 ### [Elections in France:Voters in France go to the polls for municipal elections with candidates from the centre-right Union for a Popular Movement performing well. ](/news/2014/03/23/elections-in-france-pvoters-in-france-go-to-the-polls-for-municipal-elections-with-candidates-from-the-centre-right-union-for-a-popular-move.md)
-_Context: Elections in France, French, French municipal elections, 2014, UMP_
+_Context: Elections in France, France, French municipal elections, 2014, UMP_
 
 ### [Sunflower Student Movement in Taiwan:Protesters opposed to the vote of the Cross-Strait Trade Agreement without a clause-by-clause review continue to occupy the Taiwanese parliament.Protesters push to occupy the nearby Executive Yuan as well. ](/news/2014/03/23/sunflower-student-movement-in-taiwan-pprotesters-opposed-to-the-vote-of-the-cross-strait-trade-agreement-without-a-clause-by-clause-review-c.md)
 _Context: Executive Yuan, activist, continue to occupy, legislative chamber, trade deal_

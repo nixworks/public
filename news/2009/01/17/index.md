@@ -10,7 +10,7 @@ _Context: North Korea, North Korea and weapons of mass destruction, nuclear warh
 _Context: Barisan Nasional, Kuala Terengganu, Malaysia, PAS, by-election_
 
 ### [ A suicide attack kills two Afghans and one United States Army soldier and wounds 30 other people in Kabul, Afghanistan. ](/news/2009/01/17/a-suicide-attack-kills-two-afghans-and-one-united-states-army-soldier-and-wounds-30-other-people-in-kabul-afghanistan.md)
-_Context: Afghan-based, Afghanistan, Kabul, U.S., United States Army, War in Afghanistan (2001-present), soldier, suicide bombing_
+_Context: Afghan-based, Afghanistan, Kabul, United States, United States Army, War in Afghanistan (2001-present), soldier, suicide bombing_
 
 ### [ An Israeli Defense Forces airstrike kills 13 people in Gaza City. ](/news/2009/01/17/an-israeli-defense-forces-airstrike-kills-13-people-in-gaza-city.md)
 Israeli troops, some smiling and dancing, began to withdraw from Gaza Sunday after their government and Hamas militants declared an end to a three-week war. 

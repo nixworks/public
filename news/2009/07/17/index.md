@@ -10,7 +10,7 @@ _Context: ECR, Member of the European Parliament, Michal Kaminski, Timothy Kirkh
 Pope Benedict slipped in the bath today and broke his wrist but aides said there was no cause for concern about the 82-year-old&hellip;
 
 ### [ A second person dies from the collapse of a stage being built in Marseille for Madonna's forthcoming tour to France. ](/news/2009/07/17/a-second-person-dies-from-the-collapse-of-a-stage-being-built-in-marseille-for-madonna-s-forthcoming-tour-to-france.md)
-_Context: French, Madonna, Marseille_
+_Context: France, Madonna, Marseille_
 
 ### [ Irish President Mary McAleese announces her intention to convene a meeting of the Council of State on 22 July. ](/news/2009/07/17/irish-president-mary-mcaleese-announces-her-intention-to-convene-a-meeting-of-the-council-of-state-on-22-july.md)
 President Mary McAleese is to convene a meeting of the Council of State next Wednesday at which the constitutionality of both&hellip;

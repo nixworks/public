@@ -1,7 +1,7 @@
 ## [2010-04-13](/news/2010/04/13/index.md)
 
 ### [Nuclear Security Summit:President of the United States Barack Obama opening the biggest international meeting hosted by the US since 1945, greets leaders from nearly 50 countries. World leaders at the summit hear dire warnings of the danger of nuclear material falling into the wrong hands. ](/news/2010/04/13/nuclear-security-summit-ppresident-of-the-united-states-barack-obama-opening-the-biggest-international-meeting-hosted-by-the-us-since-1945.md)
-_Context: Barack Obama, Nuclear Security Summit, U.S., U.S. President_
+_Context: Barack Obama, Nuclear Security Summit, U.S. President, United States_
 
 ### [A magnitude 6.9 earthquake strikes southeastern Qinghai, China, near the Yangtze River. There were no immediate reports of casualties. ](/news/2010/04/13/a-magnitude-6-9-earthquake-strikes-southeastern-qinghai-china-near-the-yangtze-river-there-were-no-immediate-reports-of-casualties.md)
 _Context: China, Qinghai, Yangtze River_

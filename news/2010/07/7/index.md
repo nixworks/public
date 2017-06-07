@@ -22,7 +22,7 @@ Thirteen Farc rebels are killed in northern Colombia, an operation President Uri
 A complex in Norway housing rejected asylum seekers was burned to the ground following a second night of rioting to protest conditions at the facility.
 
 ### [The United Kingdom is to hand over responsibility for Afghanistan's Sangin area to the United States. ](/news/2010/07/7/the-united-kingdom-is-to-hand-over-responsibility-for-afghanistan-s-sangin-area-to-the-united-states.md)
-_Context: Afghanistan, Sangin, U.S., United Kingdom_
+_Context: Afghanistan, Sangin, United Kingdom, United States_
 
 ### [A judge orders the arrest of Bruno Fernandes de Souza, one of Brazil's top footballers, in connection with the disappearance of his former mistress. ](/news/2010/07/7/a-judge-orders-the-arrest-of-bruno-fernandes-de-souza-one-of-brazil-s-top-footballers-in-connection-with-the-disappearance-of-his-former-m.md)
 _Context: Brazil, Bruno Fernandes de Souza_
@@ -67,7 +67,7 @@ A Tunisian court has sentenced a television journalist to four years in prison f
 Human Rights Watch calls on Iran to stop the execution by stoning of a woman convicted of adultery.
 
 ### [French prosecutors launch an investigation into alleged illegal campaign funding for French President Nicolas Sarkozy. ](/news/2010/07/7/french-prosecutors-launch-an-investigation-into-alleged-illegal-campaign-funding-for-french-president-nicolas-sarkozy.md)
-_Context: French, Nicolas Sarkozy, President of France_
+_Context: France, Nicolas Sarkozy, President of France_
 
 ### [New Zealand environmental activist Peter Bethune is given a two year suspended sentence in a Tokyo District Court for his role in boarding a Japanese whaling ship. ](/news/2010/07/7/new-zealand-environmental-activist-peter-bethune-is-given-a-two-year-suspended-sentence-in-a-tokyo-district-court-for-his-role-in-boarding-a.md)
 When Pete Bethune&#039;s family in Auckland heard the New Zealand environmental activist had been sentenced in Tokyo, they thought he was going to be locked up in Japan for two years.

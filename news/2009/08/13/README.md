@@ -19,7 +19,7 @@ _Context: Afghan President, Afghanistan, Ali Abad District, Burhanuddin Rabbani,
 _Context: Dadis Must Stay, Guinea, Moussa Dadis Camara, President_
 
 ### [ The French and German economies rebound, helping push the Eurozone to the brink of economic recovery in the second quarter, delivering a further signal that the worst of the global crisis may be coming to an end in Europe. ](/news/2009/08/13/the-french-and-german-economies-rebound-helping-push-the-eurozone-to-the-brink-of-economic-recovery-in-the-second-quarter-delivering-a-fu.md)
-_Context: Europe, Eurozone, French, German, global crisis_
+_Context: Europe, Eurozone, France, German, global crisis_
 
 ### [ The European Union will extend its sanctions on Burma to cover members of the judiciary responsible for the verdict in the trial of opposition leader Aung San Suu Kyi. ](/news/2009/08/13/the-european-union-will-extend-its-sanctions-on-burma-to-cover-members-of-the-judiciary-responsible-for-the-verdict-in-the-trial-of-opposit.md)
 The European Union on Thursday said it was extending its sanctions on Myanmar to cover members of the judiciary responsible for the verdict in the trial of opposition leader Aung San Suu Kyi.
