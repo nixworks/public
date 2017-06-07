@@ -1,6 +1,6 @@
 ## [2017-06-2](/news/2017/06/2/index.md)
 
-### [ A terrorist threat results in the evacuation of tens of thousands of fans at the first day of the annual Rock am Ring music festival at the Zeppelinfeld in Nuremberg, Germany. Organizers say they hope the festival will resume Saturday. ](/news/2017/06/2/a-terrorist-threat-results-in-the-evacuation-of-tens-of-thousands-of-fans-at-the-first-day-of-the-annual-rock-am-ring-music-festival-at-the.md)
+### [A terrorist threat results in the evacuation of tens of thousands of fans at the first day of the annual Rock am Ring music festival at the Zeppelinfeld in Nuremberg, Germany. Organizers say they hope the festival will resume Saturday. ](/news/2017/06/2/a-terrorist-threat-results-in-the-evacuation-of-tens-of-thousands-of-fans-at-the-first-day-of-the-annual-rock-am-ring-music-festival-at-the.md)
 Fans hoping to see German rock giants Rammstein stream out of the Nuerburg arena instead.
 
 ### [Fifteen young children die  of "severe sepsis/toxicity" from contaminated  vaccine during South Sudan's measles vaccination campaign.  In one instance, a syringe containing vaccine stored without refrigeration was used for all the children over four days. ](/news/2017/06/2/fifteen-young-children-die-of-severe-sepsis-toxicity-from-contaminated-vaccine-during-south-sudan-s-measles-vaccination-campaign-in-on.md)
