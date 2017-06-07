@@ -7,7 +7,7 @@ _Context: Florida, Orlando, United States, shoots and kills five people_
 Police say they are treating yesterday&#039;s shooting and hostage situation in Melbourne, which left two people dead, including the gunman, as terrorism. Yacqub Khayre (pictured) was shot dead after a stand-off with armed officers.
 
 ### [Eight people are killed in an explosion at a petrochemical plant in Shandong, China. ](/news/2017/06/5/eight-people-are-killed-in-an-explosion-at-a-petrochemical-plant-in-shandong-china.md)
-_Context: Shandong, petrochemical plant_
+_Context: 2017 Shandong explosion, Shandong, petrochemical plant_
 
 ### [Reports emerge of the Australian Security Intelligence Organisation's discovery of classified Australian documents, related to Chinese intelligence activity abroad, in the Canberra home of a woman allegedly acting on behalf of the Communist Party of China. ](/news/2017/06/5/reports-emerge-of-the-australian-security-intelligence-organisation-s-discovery-of-classified-australian-documents-related-to-chinese-intel.md)
 ASIO found classified files during a raid on the apartment of a suspected Chinese intelligence operative.
