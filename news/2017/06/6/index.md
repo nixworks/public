@@ -4,7 +4,10 @@
 Several people killed in explosion near a mosque and police offices in western province, local media report. 
 
 ### [The United States-backed Syrian Democratic Forces launch an operation to capture Raqqa, ISIL's ''de facto'' Syrian capital. ](/news/2017/06/6/the-united-states-backed-syrian-democratic-forces-launch-an-operation-to-capture-raqqa-isil-s-de-facto-syrian-capital.md)
-_Context: American-led intervention in Syria, Battle of Raqqa (2017), ISIL, Raqqa, Syrian Democratic Forces, United States_
+_Context: American-led intervention in Syria, Battle of Raqqa (2017), ISIL, Raqqa, Syrian Democratic Forces, United States military_
+
+### [A Russian SU-27 fighter jet intercepts  an American B-52 strategic bomber that was flying over international  waters of the  Baltic Sea parallel to the Russian border, and escorts the B-52 until it flew away from the border area. The United States military confirmed that the US Air Force B-52 was operating in international airspace, but had no further comment about the incident. ](/news/2017/06/6/a-russian-su-27-fighter-jet-intercepts-an-american-b-52-strategic-bomber-that-was-flying-over-international-waters-of-the-baltic-sea-para.md)
+Russia scrambled a fighter jet on Tuesday to intercept a nuclear-capable U.S. B-52 strategic bomber it said was flying over the Baltic Sea near its border, in an incident that had echoes of the Cold War.
 
 ### [A man who was yelling "This is for Syria" while attacking a police officer with a hammer near Notre-Dame de Paris, France is shot and wounded by another officer.  Prosecutors open a terrorism probe. ](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wounde.md)
  PARIS (AP) — The Latest on the security operation near the Notre Dame Cathedral in Paris (all times local): 5:35 p.m. Witnesses around Notre Dame Cathe
