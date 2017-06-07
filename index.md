@@ -1,4 +1,15 @@
-## [News](/news/2017/06/6/index.md)
+## [News](/news/2017/06/7/index.md)
+
+### [Gunmen attack the Islamic Consultative Assembly and Mausoleum of Ruhollah Khomeini in Tehran, Iran. One guard was killed in the attack on the Parliament while several tourists were injured in the attack on the mausoleum. ](/news/2017/06/7/gunmen-attack-the-islamic-consultative-assembly-and-mausoleum-of-ruhollah-khomeini-in-tehran-iran-one-guard-was-killed-in-the-attack-on-th.md)
+Armed men launched two attacks in Iran on Wednesday morning local time, killing a guard at the Parliament and wounding several people at another location.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/06/6/index.md)
 
 ### [An explosion occurs near police offices and a mosque in Herat, killing at least ten people. ](/news/2017/06/6/an-explosion-occurs-near-police-offices-and-a-mosque-in-herat-killing-at-least-ten-people.md)
 Several people killed in explosion near a mosque and police offices in western province, local media report. 
@@ -12,24 +23,23 @@ Russia scrambled a fighter jet on Tuesday to intercept a nuclear-capable U.S. B-
 ### [A man who was yelling "This is for Syria" while attacking a police officer with a hammer near Notre-Dame de Paris, France is shot and wounded by another officer.  Prosecutors open a terrorism probe. ](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wounde.md)
  PARIS (AP) — The Latest on the security operation near the Notre Dame Cathedral in Paris (all times local): 5:35 p.m. Witnesses around Notre Dame Cathe
 
+### [Brazil's Superior Electoral Court reopens the illegal campaign funding case against President Michel Temer, who was the vice presidential candidate on former President Dilma Rousseff's ticket in 2014. Temer  became president in August 2016 when Rousseff was impeached, and  could be unseated if the court annuls the Rousseff-Temer election victory. ](/news/2017/06/6/brazil-s-superior-electoral-court-reopens-the-illegal-campaign-funding-case-against-president-michel-temer-who-was-the-vice-presidential-ca.md)
+Brasília (AFP) - Judges on Brazil&amp;#39;s electoral court were expected to start voting Wednesday in a case that could topple scandal-tainted President Michel Temer.
+
 ### [Uzbekistan Deputy Prime Minister Rustam Azimov is dismissed by   President Shavkat Mirziyoyev, who had earlier criticized Azimov for failing to control financiers' activities. He is replaced by former Deputy Finance Minister Jamshed Kuchkarev. ](/news/2017/06/6/uzbekistan-deputy-prime-minister-rustam-azimov-is-dismissed-by-president-shavkat-mirziyoyev-who-had-earlier-criticized-azimov-for-failing.md)
 Uzbek President Shavkat Mirziyoyev has harshly criticized officials in charge of finance and banking, asserting his power above one of two other members of a triumvirate that has ruled since the death last year of leader Islam Karimov.
 
 ### [American voters  in the state of New Jersey select  party candidates to succeed term-limited incumbent Republican Chris Christie, a 2016 presidential candidate.](/news/2017/06/6/american-voters-in-the-state-of-new-jersey-select-party-candidates-to-succeed-term-limited-incumbent-republican-chris-christie-a-2016-pre.md)
 _Context: 2016 presidential candidate, Chris Christie, New Jersey, New Jersey gubernatorial election, 2017_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/06/5/index.md)
+## [Day Before Yesterday](/news/2017/06/5/index.md)
 
 ### [A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life afterwards. Eight others inside the workplace survived. ](/news/2017/06/5/a-discharged-45-year-old-former-employee-shoots-and-kills-five-people-at-a-manufacturing-business-in-orlando-florida-united-states-the-sh.md)
 _Context: Florida, Orlando, United States, shoots and kills five people at a manufacturing business_
 
-### [In Brighton, a suburb of Melbourne, Australia, a gunman kills one man and holds one woman hostage before he is shot dead by Victoria Police. The incident is being treated as an act of terrorism. Islamic State in Iraq and the Levant have claimed responsibility for the attack but Victoria Police claim that there is little evidence to suggest a connection. ](/news/2017/06/5/in-brighton-a-suburb-of-melbourne-australia-a-gunman-kills-one-man-and-holds-one-woman-hostage-before-he-is-shot-dead-by-victoria-police.md)
+### [In Brighton, a suburb of Melbourne, Australia, a gunman kills one man and holds one woman hostage before he is shot dead by Victoria Police. The incident is being treated as an act of terrorism. Islamic State in Iraq and the Levant has claimed responsibility for the attack but Victoria Police claim that there is little evidence to suggest a connection. ](/news/2017/06/5/in-brighton-a-suburb-of-melbourne-australia-a-gunman-kills-one-man-and-holds-one-woman-hostage-before-he-is-shot-dead-by-victoria-police.md)
 Police say they are treating yesterday&#039;s shooting and hostage situation in Melbourne, which left two people dead, including the gunman, as terrorism. Yacqub Khayre (pictured) was shot dead after a stand-off with armed officers.
 
 ### [Eight people are killed in an explosion at a petrochemical plant in Shandong, China. ](/news/2017/06/5/eight-people-are-killed-in-an-explosion-at-a-petrochemical-plant-in-shandong-china.md)
@@ -44,7 +54,7 @@ Saudi Arabia said the move was necessary to protect the kingdom from what it des
 ### [Montenegro officially joins NATO as its 29th member at a ceremony in Washington, D.C. ](/news/2017/06/5/montenegro-officially-joins-nato-as-its-29th-member-at-a-ceremony-in-washington-d-c.md)
 _Context: Montenegro, Montenegro-NATO relations, NATO, Washington, D.C._
 
-### [After ''The Intercept'' publishes a classified NSA document describing Russian efforts to launch cyberattacks on U.S. voting software suppliers, the U.S. Department of Justice announces it had brought charges upon Reality Leigh Winner, the alleged leaker. ](/news/2017/06/5/after-the-intercept-publishes-a-classified-nsa-document-describing-russian-efforts-to-launch-cyberattacks-on-u-s-voting-software-suppli.md)
+### [After ''The Intercept'' publishes a classified NSA document describing Russian efforts to launch cyberattacks on U.S. voting software suppliers, the United States Department of Justice announces it had brought charges upon Reality Winner, the alleged leaker. ](/news/2017/06/5/after-the-intercept-publishes-a-classified-nsa-document-describing-russian-efforts-to-launch-cyberattacks-on-u-s-voting-software-suppli.md)
 The U.S. Department of Justice on Monday charged a federal contractor with sending classified material to a news organization that sources identified to Reuters as The Intercept, marking one of the first concrete efforts by the Trump administration to crack down on leaks to the media.
 
 ### [The Turkish interior ministry announces that 130 people, living outside the country and suspected of militant links, will lose their  citizenship unless they return to Turkey within three months and meet government standards. Named suspects include  U.S.-based cleric Fethullah Gulen, and Peoples' Democratic Party leaders Faysal Sariyildiz, Tugba Hezer, and  Ozdal Ucer. ](/news/2017/06/5/the-turkish-interior-ministry-announces-that-130-people-living-outside-the-country-and-suspected-of-militant-links-will-lose-their-citize.md)
@@ -64,38 +74,7 @@ _Context: Apple Worldwide Developers Conference, iOS 11_
 
 ---
 
-## [Day Before Yesterday](/news/2017/06/4/index.md)
-
-### [  In the early hours of Sunday morning, explosions are heard around London Bridge, believed to be controlled explosions carried out by the police. ](/news/2017/06/4/in-the-early-hours-of-sunday-morning-explosions-are-heard-around-london-bridge-believed-to-be-controlled-explosions-carried-out-by-the-p.md)
-Three attackers killed seven people and injured 48 others near London Bridge. The attackers were shot dead by eight officers who used 50 bullets; a member of the public was accidentally shot.
-
-### [The U.S.-backed Syrian Democratic Forces (SDF) take control of the Baath Dam on the Euphrates, near the ISIL stronghold of Raqqa, and upon doing so, rename it "Freedom Dam".  ](/news/2017/06/4/the-u-s-backed-syrian-democratic-forces-sdf-take-control-of-the-baath-dam-on-the-euphrates-near-the-isil-stronghold-of-raqqa-and-upon-d.md)
-U.S.-backed Syrian militias said they seized a major dam on the Euphrates river from Islamic State on Sunday, their latest gain as they push towards Raqqa city.
-
-### [Citizens remain trapped in Marawi, Philippines, after a ceasefire organised by the Moro Islamic Liberation Front (MILF) is broken. Up to 2,000 people remain in need of help after nearly two weeks without food. ](/news/2017/06/4/citizens-remain-trapped-in-marawi-philippines-after-a-ceasefire-organised-by-the-moro-islamic-liberation-front-milf-is-broken-up-to-2-0.md)
-Fighting breaks despite a four-hour ceasefire, preventing hundreds of residents from leaving besieged city of Marawi. 
-
-### [The Philippine police identifies the lone gunman as Jessie Javier Carlos, a local citizen, who was a debt-riddled former employee of the Department of Finance. ](/news/2017/06/4/the-philippine-police-identifies-the-lone-gunman-as-jessie-javier-carlos-a-local-citizen-who-was-a-debt-riddled-former-employee-of-the-dep.md)
-_Context: 2017 Resorts World Manila attack, Department of Finance_
-
-### [The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. ](/news/2017/06/4/the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester-england.md)
-Ariana Grande closed &#8220;One Love Manchester&#8221; with an emotional rendition of &#8220;Somewhere Over the Rainbow&#8221; on Sunday. The benefit concert was organized to honor the 22 victims w…
-
-### [Bahrain bans the independent ''Al-Wasat'' newspaper on grounds that it "sows division" in the Shia-majority kingdom. ](/news/2017/06/4/bahrain-bans-the-independent-al-wasat-newspaper-on-grounds-that-it-sows-division-in-the-shia-majority-kingdom.md)
-The government in Sunni-ruled Bahrain announced Sunday an indefinite ban on the independent Al-Wasat newspaper on accusations that it publishes &quot;what sows division&quot; in the Shiite-majority Gulf kingdom. The order was due to Al-Wasat&#x27;s &quot;violation of the law and repeatedly publishing
-
-### [All major parties suspend their campaigns following last night's terror attack in London. The general election, scheduled for June 8, is not expected to be postponed. ](/news/2017/06/4/all-major-parties-suspend-their-campaigns-following-last-night-s-terror-attack-in-london-the-general-election-scheduled-for-june-8-is-not.md)
-Britain&#039;s political parties have suspended national general election campaigning in the wake of the London Bridge attack, which killed six people. Labour, Conservatives, Lib Dem, Green and SNP spokespeople announced on Sunday morning that they would temporarily stand down.
-
-### [Simon Busuttil of Forza Nazzjonali concedes defeat to the incumbent Joseph Muscat and his Labour Party, who are projected to win 54.9% of the popular vote. ](/news/2017/06/4/simon-busuttil-of-forza-nazzjonali-concedes-defeat-to-the-incumbent-joseph-muscat-and-his-labour-party-who-are-projected-to-win-54-9-of-th.md)
-Updated 1.15pm with Muscat comments The Labour Party has comfortably won the general election handing Joseph Muscat a mandate to head a government for a second term. &quot;It is clear that the people have chosen to stay the course,&quot; Prime Minister Joseph Muscat said as soon as the outcome was known,...
-
-### [Voters cast ballots to select representatives for rural and urban Cambodian precincts from, nationwide, 94,595 candidates for 11,572 council seats. Voter turnout was 85.74 percent with few reports of irregularities. According to early results, the opposition makes significant gains against the ruling party of Prime Minister Hun Sen. ](/news/2017/06/4/voters-cast-ballots-to-select-representatives-for-rural-and-urban-cambodian-precincts-from-nationwide-94-595-candidates-for-11-572-council.md)
-_Context: Cambodia, Cambodian communal elections, 2017, Hun Sen, Prime Minister_
-
----
-
-## [Previous Day...](/news/2017/06/3/index.md)
+## [Previous Day...](/news/2017/06/4/index.md)
 
 ---
 
