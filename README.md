@@ -6,14 +6,14 @@ Several people killed in explosion near a mosque and police offices in western p
 ### [The United States-backed Syrian Democratic Forces launch an operation to capture Raqqa, ISIL's ''de facto'' Syrian capital. ](/news/2017/06/6/the-united-states-backed-syrian-democratic-forces-launch-an-operation-to-capture-raqqa-isil-s-de-facto-syrian-capital.md)
 _Context: American-led intervention in Syria, Battle of Raqqa (2017), ISIL, Raqqa, Syrian Democratic Forces, United States_
 
-### [A man, who was yelling, "this is for Syria" while attacking a police officer with a hammer near Notre-Dame de Paris, France, is shot and wounded by another officer.  Prosecutors open a terrorism probe. ](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wou.md)
+### [A man who was yelling "This is for Syria" while attacking a police officer with a hammer near Notre-Dame de Paris, France is shot and wounded by another officer.  Prosecutors open a terrorism probe. ](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wounde.md)
  PARIS (AP) — The Latest on the security operation near the Notre Dame Cathedral in Paris (all times local): 5:35 p.m. Witnesses around Notre Dame Cathe
 
 ### [Uzbekistan Deputy Prime Minister Rustam Azimov is dismissed by   President Shavkat Mirziyoyev, who had earlier criticized Azimov for failing to control financiers' activities. He is replaced by former Deputy Finance Minister Jamshed Kuchkarev. ](/news/2017/06/6/uzbekistan-deputy-prime-minister-rustam-azimov-is-dismissed-by-president-shavkat-mirziyoyev-who-had-earlier-criticized-azimov-for-failing.md)
 Uzbek President Shavkat Mirziyoyev has harshly criticized officials in charge of finance and banking, asserting his power above one of two other members of a triumvirate that has ruled since the death last year of leader Islam Karimov.
 
 ### [American voters  in the state of New Jersey select  party candidates to succeed term-limited incumbent Republican Chris Christie, a 2016 presidential candidate.](/news/2017/06/6/american-voters-in-the-state-of-new-jersey-select-party-candidates-to-succeed-term-limited-incumbent-republican-chris-christie-a-2016-pre.md)
-_Context: 2016 presidential candidate, New Jersey, New Jersey gubernatorial election, 2017_
+_Context: 2016 presidential candidate, Chris Christie, New Jersey, New Jersey gubernatorial election, 2017_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -24,7 +24,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ## [Yesterday](/news/2017/06/5/index.md)
 
 ### [A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life afterwards. Eight others inside the workplace survived. ](/news/2017/06/5/a-discharged-45-year-old-former-employee-shoots-and-kills-five-people-at-a-manufacturing-business-in-orlando-florida-united-states-the-sh.md)
-_Context: Florida, Orlando, United States_
+_Context: Florida, Orlando, United States, shoots and kills five people at a manufacturing business_
 
 ### [In Brighton, a suburb of Melbourne, Australia, a gunman kills one man and holds one woman hostage before he is shot dead by Victoria Police. The incident is being treated as an act of terrorism. Islamic State in Iraq and the Levant have claimed responsibility for the attack but Victoria Police claim that there is little evidence to suggest a connection. ](/news/2017/06/5/in-brighton-a-suburb-of-melbourne-australia-a-gunman-kills-one-man-and-holds-one-woman-hostage-before-he-is-shot-dead-by-victoria-police.md)
 Police say they are treating yesterday&#039;s shooting and hostage situation in Melbourne, which left two people dead, including the gunman, as terrorism. Yacqub Khayre (pictured) was shot dead after a stand-off with armed officers.
@@ -57,7 +57,7 @@ Indian Space Research Organisation on Monday successfully launched its most powe
 _Context: S/2016 J 1, S/2017 J 1, satellite of Jupiter_
 
 ### [Apple announces iOS 11 in WWDC 2017. ](/news/2017/06/5/apple-announces-ios-11-in-wwdc-2017.md)
-_Context: WWDC, iOS 11_
+_Context: Apple Worldwide Developers Conference, iOS 11_
 
 ---
 
@@ -72,7 +72,7 @@ U.S.-backed Syrian militias said they seized a major dam on the Euphrates river 
 ### [Citizens remain trapped in Marawi, Philippines, after a ceasefire organised by the Moro Islamic Liberation Front (MILF) is broken. Up to 2,000 people remain in need of help after nearly two weeks without food. ](/news/2017/06/4/citizens-remain-trapped-in-marawi-philippines-after-a-ceasefire-organised-by-the-moro-islamic-liberation-front-milf-is-broken-up-to-2-0.md)
 Fighting breaks despite a four-hour ceasefire, preventing hundreds of residents from leaving besieged city of Marawi. 
 
-### [  The Philippine police identified the lone gunman as Jessie Javier Carlos, a local citizen, who is a debt-riddled former employee of the Department of Finance. ](/news/2017/06/4/the-philippine-police-identified-the-lone-gunman-as-jessie-javier-carlos-a-local-citizen-who-is-a-debt-riddled-former-employee-of-the-de.md)
+### [The Philippine police identifies the lone gunman as Jessie Javier Carlos, a local citizen, who was a debt-riddled former employee of the Department of Finance. ](/news/2017/06/4/the-philippine-police-identifies-the-lone-gunman-as-jessie-javier-carlos-a-local-citizen-who-was-a-debt-riddled-former-employee-of-the-dep.md)
 _Context: 2017 Resorts World Manila attack, Department of Finance_
 
 ### [The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. ](/news/2017/06/4/the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester-england.md)

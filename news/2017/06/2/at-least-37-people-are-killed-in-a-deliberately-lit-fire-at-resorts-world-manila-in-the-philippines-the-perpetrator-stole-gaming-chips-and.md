@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [  The Philippine police identified the lone gunman as Jessie Javier Carlos, a local citizen, who is a debt-riddled former employee of the Department of Finance. ](/news/2017/06/4/the-philippine-police-identified-the-lone-gunman-as-jessie-javier-carlos-a-local-citizen-who-is-a-debt-riddled-former-employee-of-the-de.md) _Context: 2017 Resorts World Manila attack_
+1. [The Philippine police identifies the lone gunman as Jessie Javier Carlos, a local citizen, who was a debt-riddled former employee of the Department of Finance. ](/news/2017/06/4/the-philippine-police-identifies-the-lone-gunman-as-jessie-javier-carlos-a-local-citizen-who-was-a-debt-riddled-former-employee-of-the-dep.md) _Context: 2017 Resorts World Manila attack_
 2. [Philippine Defense Secretary Delfin Lorenzana announces the deaths of ten soldiers in Marawi as a result of a "friendly fire" airstrike. ](/news/2017/06/1/philippine-defense-secretary-delfin-lorenzana-announces-the-deaths-of-ten-soldiers-in-marawi-as-a-result-of-a-friendly-fire-airstrike.md) _Context: Philippines_
 3. [The United Nations Human Rights Council conducts a periodic review of the human rights situation in the Philippines. ](/news/2017/05/8/the-united-nations-human-rights-council-conducts-a-periodic-review-of-the-human-rights-situation-in-the-philippines.md) _Context: Philippines_
 4. [The government of the Philippines and the Communist Party cancel peace talks after president Rodrigo Duterte declares martial law in Mindanao. ](/news/2017/05/28/the-government-of-the-philippines-and-the-communist-party-cancel-peace-talks-after-president-rodrigo-duterte-declares-martial-law-in-mindana.md) _Context: Philippines_

@@ -12,4 +12,4 @@
 
 ### Related:
 
-1. [Apple Inc. launches its new iCloud service at the Apple Worldwide Developers Conference. ](/news/2011/06/6/apple-inc-launches-its-new-icloud-service-at-the-apple-worldwide-developers-conference.md) _Context: WWDC_
+1. [Apple Inc. launches its new iCloud service at the Apple Worldwide Developers Conference. ](/news/2011/06/6/apple-inc-launches-its-new-icloud-service-at-the-apple-worldwide-developers-conference.md) _Context: Apple Worldwide Developers Conference_

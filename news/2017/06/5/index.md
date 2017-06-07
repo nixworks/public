@@ -1,7 +1,7 @@
 ## [2017-06-5](/news/2017/06/5/index.md)
 
 ### [A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life afterwards. Eight others inside the workplace survived. ](/news/2017/06/5/a-discharged-45-year-old-former-employee-shoots-and-kills-five-people-at-a-manufacturing-business-in-orlando-florida-united-states-the-sh.md)
-_Context: Florida, Orlando, United States_
+_Context: Florida, Orlando, United States, shoots and kills five people at a manufacturing business_
 
 ### [In Brighton, a suburb of Melbourne, Australia, a gunman kills one man and holds one woman hostage before he is shot dead by Victoria Police. The incident is being treated as an act of terrorism. Islamic State in Iraq and the Levant have claimed responsibility for the attack but Victoria Police claim that there is little evidence to suggest a connection. ](/news/2017/06/5/in-brighton-a-suburb-of-melbourne-australia-a-gunman-kills-one-man-and-holds-one-woman-hostage-before-he-is-shot-dead-by-victoria-police.md)
 Police say they are treating yesterday&#039;s shooting and hostage situation in Melbourne, which left two people dead, including the gunman, as terrorism. Yacqub Khayre (pictured) was shot dead after a stand-off with armed officers.
@@ -34,7 +34,7 @@ Indian Space Research Organisation on Monday successfully launched its most powe
 _Context: S/2016 J 1, S/2017 J 1, satellite of Jupiter_
 
 ### [Apple announces iOS 11 in WWDC 2017. ](/news/2017/06/5/apple-announces-ios-11-in-wwdc-2017.md)
-_Context: WWDC, iOS 11_
+_Context: Apple Worldwide Developers Conference, iOS 11_
 
 ## [Previous Day...](/news/2017/06/4/index.md)
 
