@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [NY Times](https://www.nytimes.com/2017/06/07/us/politics/christopher-wray-fbi-director.html)
+1. [The New York Times](https://www.nytimes.com/2017/06/07/us/politics/christopher-wray-fbi-director.html)
 
 ### Related:
 
