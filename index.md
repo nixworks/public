@@ -9,7 +9,7 @@ A woman is taken to hospital with a &quot;slash wound&quot; after being attacked
 ### [United States president Donald Trump announces lawyer Christopher A. Wray as his nominee to be director of the Federal Bureau of Investigation. ](/news/2017/06/7/united-states-president-donald-trump-announces-lawyer-christopher-a-wray-as-his-nominee-to-be-director-of-the-federal-bureau-of-investigati.md)
 _Context: Christopher A. Wray, Donald Trump, Federal Bureau of Investigation, Political appointments of Donald Trump_
 
-### [A military aircraft with 116 people on board is reported missing in Burma. ](/news/2017/06/7/a-military-aircraft-with-116-people-on-board-is-reported-missing-in-burma.md)
+### [A military aircraft with 120 people on board crashes into the Andaman Sea off Burma. ](/news/2017/06/7/a-military-aircraft-with-120-people-on-board-crashes-into-the-andaman-sea-off-burma.md)
 The commander-in-chief&#039;s office said the search and rescue was ongoing.
 
 ## Opinion
