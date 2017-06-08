@@ -2,12 +2,13 @@
 
 # American actor Leonardo DiCaprio and Mexican president Enrique Pena Nieto meet to discuss the protection of the Vaquita porpoise. 
 
-
+But it&#039;s going to take a lot more than star power to save the Mexican vaquita from the corruption and organized crime that threatens the endangered cetacean.
 
 
 ### Source:
 
-1. [The Daily Mail](http://www.dailymail.co.uk/news/article-4583096/DiCaprio-Mexico-push-save-vaquita-porpoise.html)
+1. [Quartz](https://qz.com/1001606/leonardo-dicaprio-and-carlos-slim-are-trying-to-save-the-mexican-vaquita-a-tiny-porpoise-nearly-extinct-due-to-bureaucracy/)
+2. [The Daily Mail](http://www.dailymail.co.uk/news/article-4583096/DiCaprio-Mexico-push-save-vaquita-porpoise.html)
 
 ### Related:
 

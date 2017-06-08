@@ -9,7 +9,7 @@ Gun battle in military base in Somalia&#39;s semi-autonomous Puntland region kil
 ### [Iranian Intelligence Ministry releases the names and other information about the five attackers of the day before. ](/news/2017/06/8/iranian-intelligence-ministry-releases-the-names-and-other-information-about-the-five-attackers-of-the-day-before.md)
 The Iranian Intelligence Ministry has released the names of and other information about the five terrorists who carried out twin attacks in Tehran on Wednesday.
 
-### [The United States shoots down a pro-Syrian government drone that was fired toward U.S.-led coalition forces in southern Syria. There were no injuries or damage. An American official said this was first time forces supporting Damascus had attacked coalition troops, and that it came shortly after the U.S. bombed Syrian government and allied troops near the  town of Al-Tanf. ](/news/2017/06/8/the-united-states-shoots-down-a-pro-syrian-government-drone-that-was-fired-toward-u-s-led-coalition-forces-in-southern-syria-there-were-no.md)
+### [The United States shoots down a pro-Syrian government drone that was flying toward U.S.-led coalition forces in southern Syria. There were no injuries or damage. An American official said this was first time forces supporting Damascus had attacked coalition troops, and that it came shortly after the U.S. bombed Syrian government and allied troops near the  town of Al-Tanf. ](/news/2017/06/8/the-united-states-shoots-down-a-pro-syrian-government-drone-that-was-flying-toward-u-s-led-coalition-forces-in-southern-syria-there-were-n.md)
 The United States shot down a pro-Syrian government drone that fired toward U.S.-led coalition forces in Syria on Thursday, a U.S. military spokesman said, in a major escalation of tensions between Washington and troops supporting Damascus.
 
 ### [ Up to 10,000 people have been evacuated from Knysna Local Municipality on Garden Route in South Africa after wildfire destroyed 150 homes. The Wildfire is connected to the worst windstorm in 30 years, which already killed at least 8 people in Cape Town. ](/news/2017/06/8/up-to-10-000-people-have-been-evacuated-from-knysna-local-municipality-on-garden-route-in-south-africa-after-wildfire-destroyed-150-homes.md)
@@ -40,7 +40,7 @@ Former FBI director offers statement describing a meeting in which Trump asked h
 Hawaii has passed a law to document sea level rise and set strategies to reduce greenhouse gas emissions. 
 
 ### [American actor Leonardo DiCaprio and Mexican president Enrique Pena Nieto meet to discuss the protection of the Vaquita porpoise. ](/news/2017/06/8/american-actor-leonardo-dicaprio-and-mexican-president-enrique-pea-a-nieto-meet-to-discuss-the-protection-of-the-vaquita-porpoise.md)
-_Context: Enrique Pena Nieto, IUCN Red List, Leonardo DiCaprio, Mexican, Vaquita_
+But it&#039;s going to take a lot more than star power to save the Mexican vaquita from the corruption and organized crime that threatens the endangered cetacean.
 
 ## [Previous Day...](/news/2017/06/7/index.md)
 
