@@ -1,0 +1,23 @@
+### [2017-06-8](/news/2017/06/8/index.md)
+
+# James Comey, the former FBI Director who was dismissed by President Donald Trump last month, is scheduled to appear before the Intelligence Committee. 
+
+Former FBI director offers statement describing a meeting in which Trump asked him to drop his inquiry into Michael Flynn: ‘I hope you can let this go’
+
+
+### Source:
+
+1. [The Guardian](https://www.theguardian.com/us-news/2017/jun/07/james-comey-trump-congress-statement)
+
+### Related:
+
+1. [U.S. President Donald Trump removes James Comey as Director of the Federal Bureau of Investigation, with Andrew G. McCabe stepping in as acting director. ](/news/2017/05/9/u-s-president-donald-trump-removes-james-comey-as-director-of-the-federal-bureau-of-investigation-with-andrew-g-mccabe-stepping-in-as-act.md) _Context: Donald Trump, FBI Director, James Comey, dismissed_
+2. [According to sources familiar with his decision, former U.S. National Security Advisor Michael Flynn invokes his Fifth Amendment protection against self-incrimination and declines to comply with a subpoena from the Senate Intelligence Committee investigating possible Russian interference in the 2016 U.S. election. ](/news/2017/05/22/according-to-sources-familiar-with-his-decision-former-u-s-national-security-advisor-michael-flynn-invokes-his-fifth-amendment-protection.md) _Context: Intelligence Committee, Russian interference in the 2016 United States elections_
+3. [ Deputy Attorney General Rod Rosenstein appoints former FBI Director Robert Mueller as special counsel to oversee the FBI's investigation of Russia's efforts to influence the 2016 election. ](/news/2017/05/17/deputy-attorney-general-rod-rosenstein-appoints-former-fbi-director-robert-mueller-as-special-counsel-to-oversee-the-fbias-investigation.md) _Context: FBI Director, Russian interference in the 2016 United States elections_
+4. [''The New York Times'' reports that a memo from James Comey, read in part to a reporter by a Comey associate, revealed that President Donald Trump asked him to end the F.B.I. investigation of Michael T. Flynn. The White House denies the version of events in the memo. ](/news/2017/05/16/the-new-york-times-reports-that-a-memo-from-james-comey-read-in-part-to-a-reporter-by-a-comey-associate-revealed-that-president-donald.md) _Context: Donald Trump, James Comey_
+5. [The U.S.'s Federal Bureau of Investigation (FBI) Director, James Comey, announces an increased reward of $5 million (up from $1 million, issued in 2012) for information leading to the return of a former FBI agent Robert Levinson (who disappeared March 9, 2007, in Iran and who was paid by the Central Intelligence Agency (CIA) to gather information about Iran's nuclear program). ](/news/2015/03/9/the-u-s-s-federal-bureau-of-investigation-fbi-director-james-comey-announces-an-increased-reward-of-5-million-up-from-1-million-iss.md) _Context: FBI Director, James Comey_
+6. [United States president Donald Trump announces lawyer Christopher A. Wray as his nominee to be director of the Federal Bureau of Investigation. ](/news/2017/06/7/united-states-president-donald-trump-announces-lawyer-christopher-a-wray-as-his-nominee-to-be-director-of-the-federal-bureau-of-investigati.md) _Context: Donald Trump_
+7. [After ''The Intercept'' publishes a classified NSA document describing Russian efforts to launch cyberattacks on U.S. voting software suppliers, the United States Department of Justice announces it had brought charges upon Reality Winner, the alleged leaker. ](/news/2017/06/5/after-the-intercept-publishes-a-classified-nsa-document-describing-russian-efforts-to-launch-cyberattacks-on-u-s-voting-software-suppli.md) _Context: Russian interference in the 2016 United States elections_
+8. [Disney CEO Bob Iger joins Elon Musk in resigning from President Trump's advisory councils in response to Trump's decision to withdraw the U.S. from the Paris Agreement. ](/news/2017/06/2/disney-ceo-bob-iger-joins-elon-musk-in-resigning-from-president-trump-s-advisory-councils-in-response-to-trump-s-decision-to-withdraw-the-u.md) _Context: Donald Trump_
+9. [U.S. President Donald Trump confirms that the United States will withdraw from the 2015 Paris Agreement on climate change mitigation. ](/news/2017/06/1/u-s-president-donald-trump-confirms-that-the-united-states-will-withdraw-from-the-2015-paris-agreement-on-climate-change-mitigation.md) _Context: Donald Trump_
+10. [Elon Musk quits as an official advisor to U.S. President Donald Trump in protest at the United States withdrawal from the Paris Agreement. ](/news/2017/06/1/elon-musk-quits-as-an-official-advisor-to-u-s-president-donald-trump-in-protest-at-the-united-states-withdrawal-from-the-paris-agreement.md) _Context: Donald Trump_
