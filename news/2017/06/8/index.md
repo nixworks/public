@@ -21,11 +21,14 @@ China, Thailand, Indonesia and the Philippines say they will act to stop plastic
 ### [Yahoo shareholders officially approve its $4.48 billion sale to Verizon Wireless. Yahoo stock was up 8.5 percent shortly thereafter. ](/news/2017/06/8/yahoo-shareholders-officially-approve-its-4-48-billion-sale-to-verizon-wireless-yahoo-stock-was-up-8-5-percent-shortly-thereafter.md)
 _Context: Verizon Wireless, Yahoo_
 
-### [The United States House of Representatives pass a bill ending Dodd-Frank regulations. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-dodd-frank-regulations.md)
+### [The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-dodd-frank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected-t.md)
 Rep. Jeb Hensarling called the Dodd-Frank law &quot;a grab bag of leftist ideas.&quot;
 
 ### [ Up to 10,000 people have been evacuated from Knysna Local Municipality on Garden Route in South Africa after wildfire destroyed 150 homes. The Wildfire is connected to the worst windstorm in 30 years, which already killed at least 8 people in Cape Town. ](/news/2017/06/8/up-to-10-000-people-have-been-evacuated-from-knysna-local-municipality-on-garden-route-in-south-africa-after-wildfire-destroyed-150-homes.md)
 Troops will be deployed to help put out bushfires and protect properties in the popular tourist town.
+
+### [The Saudi Arabia-led bloc against Qatar issues a "terror list" against the peninsula. ](/news/2017/06/8/the-saudi-arabia-led-bloc-against-qatar-issues-a-terror-list-against-the-peninsula.md)
+Joint statement lists 59 individuals, including 18 Qataris, and 12 organisations on &#39;terror list&#39;.
 
 ### [An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md)
 _Context: Kiev, Ukraine-United States relations, United States, embassy_
