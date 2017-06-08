@@ -1,19 +1,18 @@
-### [2017-06-2](/news/2017/06/2/index.md)
+### [2017-06-6](/news/2017/06/6/index.md)
 
-# At least 37 people are killed in a deliberately lit fire at Resorts World Manila in the Philippines. The perpetrator stole gaming chips and fired gun shots before committing suicide. 
+# The Philippines temporarily suspends sending workers to Qatar. 
 
-
+The Philippines has partially lifted the ban on overseas Filipino workers (OFWs) going to Qatar
 
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2017/06/01/asia/resorts-world-manila-philippines)
-2. [Reuters](https://www.reuters.com/article/us-philippines-resort-islamic-state-idUSKBN18T1NS)
+1. [BBC](http://www.bbc.co.uk/news/business-40183085)
 
 ### Related:
 
-1. [The Philippines temporarily suspends sending workers to Qatar. ](/news/2017/06/6/the-philippines-temporarily-suspends-sending-workers-to-qatar.md) _Context: Philippines_
-2. [The Philippine police identifies the lone gunman as Jessie Javier Carlos, a local citizen, who was a debt-riddled former employee of the Department of Finance. ](/news/2017/06/4/the-philippine-police-identifies-the-lone-gunman-as-jessie-javier-carlos-a-local-citizen-who-was-a-debt-riddled-former-employee-of-the-dep.md) _Context: 2017 Resorts World Manila attack_
+1. [Bahrain, Egypt, Libya, the Maldives, Saudi Arabia, the United Arab Emirates, and the internationally recognized government of Yemen sever diplomatic ties with Qatar, ordering Qatari citizens in those countries to be expelled as well as cutting all land, air and sea connections. "National security," "media incitement" and Qatar's support of Iran are variously cited. ](/news/2017/06/5/bahrain-egypt-libya-the-maldives-saudi-arabia-the-united-arab-emirates-and-the-internationally-recognized-government-of-yemen-sever-di.md) _Context: 2017 Qatar diplomatic crisis, Qatar_
+2. [At least 37 people are killed in a deliberately lit fire at Resorts World Manila in the Philippines. The perpetrator stole gaming chips and fired gun shots before committing suicide. ](/news/2017/06/2/at-least-37-people-are-killed-in-a-deliberately-lit-fire-at-resorts-world-manila-in-the-philippines-the-perpetrator-stole-gaming-chips-and.md) _Context: Philippines_
 3. [Philippine Defense Secretary Delfin Lorenzana announces the deaths of ten soldiers in Marawi as a result of a "friendly fire" airstrike. ](/news/2017/06/1/philippine-defense-secretary-delfin-lorenzana-announces-the-deaths-of-ten-soldiers-in-marawi-as-a-result-of-a-friendly-fire-airstrike.md) _Context: Philippines_
 4. [The United Nations Human Rights Council conducts a periodic review of the human rights situation in the Philippines. ](/news/2017/05/8/the-united-nations-human-rights-council-conducts-a-periodic-review-of-the-human-rights-situation-in-the-philippines.md) _Context: Philippines_
 5. [The government of the Philippines and the Communist Party cancel peace talks after president Rodrigo Duterte declares martial law in Mindanao. ](/news/2017/05/28/the-government-of-the-philippines-and-the-communist-party-cancel-peace-talks-after-president-rodrigo-duterte-declares-martial-law-in-mindana.md) _Context: Philippines_
