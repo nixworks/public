@@ -3,6 +3,9 @@
 ### [A suicide bombing at a mosque in Mohmand Agency kills at least 28 people and injures 31 others. Jamaat-ul-Ahrar claims the responsibility. ](/news/2016/09/16/a-suicide-bombing-at-a-mosque-in-mohmand-agency-kills-at-least-28-people-and-injures-31-others-jamaat-ul-ahrar-claims-the-responsibility.md)
 At least 25 people have been killed in a suicide bombing claimed by a Taliban splinter group at a mosque in Pakistan. The blast struck as Muslims gathered for Friday prayers in the village of Payee Khan in Mohmand Agency district. “The suicide bomber was in crowded mosque, he shouted &#039;Allahu Akbar&#039;, and then there was a huge blast,” Naveed Akbar, deputy administrator of the region, told Reuters.
 
+### [The iPhone 7 was released by Apple, along with the Plus version.](/news/2016/09/16/the-iphone-7-was-released-by-apple-along-with-the-plus-version.md)
+_Context: iPhone 7_
+
 ### [Typhoon Meranti hits mainland China and Taiwan killing at least eight people and destroying 1,600 houses. ](/news/2016/09/16/typhoon-meranti-hits-mainland-china-and-taiwan-killing-at-least-eight-people-and-destroying-1-600-houses.md)
 At least eight people have been reported dead after a powerful typhoon lashed parts of southeastern China and Taiwan.
 

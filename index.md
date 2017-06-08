@@ -1,9 +1,12 @@
 ## [News](/news/2017/06/8/index.md)
 
-### [North Korea test fires missile immediately after South Korea pulls off the THAAD missile system. ](/news/2017/06/8/north-korea-test-fires-missile-immediately-after-south-korea-pulls-off-the-thaad-missile-system.md)
-_Context: North Korea, North Korea and nuclear weapons, South Korea, THAAD_
+### [North Korea test fires several missiles, believed to be anti-ship weapons. The test comes immediately after South Korea suspends further deployment of the THAAD anti-missile system. ](/news/2017/06/8/north-korea-test-fires-several-missiles-believed-to-be-anti-ship-weapons-the-test-comes-immediately-after-south-korea-suspends-further-dep.md)
+_Context: North Korea, North Korea and weapons of mass destruction, South Korea, THAAD, anti-missile, anti-ship_
 
-### [Polls open in the United Kingdom with Jeremy Corbyn and Theresa May battling in a tight race to become prime minister. ](/news/2017/06/8/polls-open-in-the-united-kingdom-with-jeremy-corbyn-and-theresa-may-battling-in-a-tight-race-to-become-prime-minister.md)
+### [Delegates from China, Indonesia, the Philippines and Thailand, four of the top polluters of plastic into the oceans, pledge to reduce their garbage from reaching the seas. ](/news/2017/06/8/delegates-from-china-indonesia-the-philippines-and-thailand-four-of-the-top-polluters-of-plastic-into-the-oceans-pledge-to-reduce-their.md)
+China, Thailand, Indonesia and the Philippines say they will act to stop plastic polluting the oceans.
+
+### [Polls open in the United Kingdom with Labour leader Jeremy Corbyn and Conservative Theresa May battling in a tight race to become prime minister. ](/news/2017/06/8/polls-open-in-the-united-kingdom-with-labour-leader-jeremy-corbyn-and-conservative-theresa-may-battling-in-a-tight-race-to-become-prime-mini.md)
 On the eve of an election Prime Minister Theresa May returned to her core message that only she can deliver a good Brexit deal, moving on from a heated national debate over security after two deadly Islamist attacks.
 
 ## Opinion
