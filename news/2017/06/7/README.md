@@ -3,6 +3,9 @@
 ### [Gunmen attack the Islamic Consultative Assembly and Mausoleum of Ruhollah Khomeini in Tehran, Iran. Eighteen civilians are killed in the attack on the Parliament and one in the attack on the mausoleum. ](/news/2017/06/7/gunmen-attack-the-islamic-consultative-assembly-and-mausoleum-of-ruhollah-khomeini-in-tehran-iran-eighteen-civilians-are-killed-in-the-att.md)
 Armed men launched two attacks in Iran on Wednesday morning local time, killing a guard at the Parliament and wounding several people at another location.
 
+### [The giant South Africa based cement company, PPC, presents its first quarter results, dominated by the "impact of a liquidity crisis precipitated by an unexpected S&P debt downgrade." ](/news/2017/06/7/the-giant-south-africa-based-cement-company-ppc-presents-its-first-quarter-results-dominated-by-the-impact-of-a-liquidity-crisis-precipi.md)
+South African cement makerPPC reported a 93 percent plunge in full-year earningson Wednesday due to a liquidity crisis following a cut in itscredit rating to junk status by S&P Global Ratings.
+
 ### [The Philippines partially lifts a temporary suspension of deployment of overseas workers to Qatar. ](/news/2017/06/7/the-philippines-partially-lifts-a-temporary-suspension-of-deployment-of-overseas-workers-to-qatar.md)
 The Philippine government on Wednesday partially lifted its suspension of deployment of overseas Filipino workers to Qatar, a day after it was implemented. Current top breaking Philippine headlines regarding the nation, world, metro manila, regions and exclusive special investigative reports.
 

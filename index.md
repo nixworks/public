@@ -4,7 +4,7 @@
 _Context: 2017 North Korean missile tests, North Korea, South Korea, THAAD, anti-missile, anti-ship_
 
 ### [An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md)
-_Context: Kiev, United States_
+_Context: Kiev, Ukraine-United States relations, United States, embassy_
 
 ### [Montana congressman Greg Gianforte apologizes to journalist Ben Jacobs for the alleged body slam incident that occurred on May 24, and donates US$50,000 to the Committee to Protect Journalists. ](/news/2017/06/8/montana-congressman-greg-gianforte-apologizes-to-journalist-ben-jacobs-for-the-alleged-body-slam-incident-that-occurred-on-may-24-and-donat.md)
 _Context: Ben Jacobs, Committee to Protect Journalists, Freedom of the press in the United States, Greg Gianforte, Montana, US$, body slam_
@@ -18,8 +18,8 @@ On the eve of an election Prime Minister Theresa May returned to her core messag
 ### [James Comey, the former FBI Director who was dismissed by President Donald Trump last month, is scheduled to appear before the Intelligence Committee. ](/news/2017/06/8/james-comey-the-former-fbi-director-who-was-dismissed-by-president-donald-trump-last-month-is-scheduled-to-appear-before-the-intelligence.md)
 Former FBI director offers statement describing a meeting in which Trump asked him to drop his inquiry into Michael Flynn: ‘I hope you can let this go’
 
-### [American actor Leonardo DiCaprio locks the support of Mexican president Enrique Pea Nieto in the protection of the Vaquita porpoise. ](/news/2017/06/8/american-actor-leonardo-dicaprio-locks-the-support-of-mexican-president-enrique-pena-nieto-in-the-protection-of-the-vaquita-porpoise.md)
-_Context: Enrique Pea Nieto, Leonardo DiCaprio, Mexican, Vaquita_
+### [American actor Leonardo DiCaprio locks the support of Mexican president Enrique Pena Nieto in the protection of the Vaquita porpoise. ](/news/2017/06/8/american-actor-leonardo-dicaprio-locks-the-support-of-mexican-president-enrique-pea-a-nieto-in-the-protection-of-the-vaquita-porpoise.md)
+_Context: Enrique Pena Nieto, IUCN Red List, Leonardo DiCaprio, Mexican, Vaquita_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -31,6 +31,9 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ### [Gunmen attack the Islamic Consultative Assembly and Mausoleum of Ruhollah Khomeini in Tehran, Iran. Eighteen civilians are killed in the attack on the Parliament and one in the attack on the mausoleum. ](/news/2017/06/7/gunmen-attack-the-islamic-consultative-assembly-and-mausoleum-of-ruhollah-khomeini-in-tehran-iran-eighteen-civilians-are-killed-in-the-att.md)
 Armed men launched two attacks in Iran on Wednesday morning local time, killing a guard at the Parliament and wounding several people at another location.
+
+### [The giant South Africa based cement company, PPC, presents its first quarter results, dominated by the "impact of a liquidity crisis precipitated by an unexpected S&P debt downgrade." ](/news/2017/06/7/the-giant-south-africa-based-cement-company-ppc-presents-its-first-quarter-results-dominated-by-the-impact-of-a-liquidity-crisis-precipi.md)
+South African cement makerPPC reported a 93 percent plunge in full-year earningson Wednesday due to a liquidity crisis following a cut in itscredit rating to junk status by S&P Global Ratings.
 
 ### [The Philippines partially lifts a temporary suspension of deployment of overseas workers to Qatar. ](/news/2017/06/7/the-philippines-partially-lifts-a-temporary-suspension-of-deployment-of-overseas-workers-to-qatar.md)
 The Philippine government on Wednesday partially lifted its suspension of deployment of overseas Filipino workers to Qatar, a day after it was implemented. Current top breaking Philippine headlines regarding the nation, world, metro manila, regions and exclusive special investigative reports.
