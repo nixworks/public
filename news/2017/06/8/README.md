@@ -1,10 +1,10 @@
 ## [2017-06-8](/news/2017/06/8/index.md)
 
 ### [North Korea test fires several missiles, believed to be anti-ship weapons. The test comes immediately after South Korea suspends further deployment of the THAAD anti-missile system. ](/news/2017/06/8/north-korea-test-fires-several-missiles-believed-to-be-anti-ship-weapons-the-test-comes-immediately-after-south-korea-suspends-further-dep.md)
-_Context: North Korea, North Korea and weapons of mass destruction, South Korea, THAAD, anti-missile, anti-ship_
+_Context: 2017 North Korean missile tests, North Korea, South Korea, THAAD, anti-missile, anti-ship_
 
 ### [Montana congressman Greg Gianforte apologizes to journalist Ben Jacobs for the alleged body slam incident that occurred on May 24, and donates US$50,000 to the Committee to Protect Journalists. ](/news/2017/06/8/montana-congressman-greg-gianforte-apologizes-to-journalist-ben-jacobs-for-the-alleged-body-slam-incident-that-occurred-on-may-24-and-donat.md)
-_Context: Ben Jacobs, Committee to Protect Journalists, Greg Gianforte, Montana, US$, body slam_
+_Context: Ben Jacobs, Committee to Protect Journalists, Freedom of the press in the United States, Greg Gianforte, Montana, US$, body slam_
 
 ### [At a United Nations-Oceans summit, delegates from China, Indonesia, the Philippines and Thailand, four of the top polluters of plastic into the oceans, pledge to reduce their levels of oceanic plastic pollution. ](/news/2017/06/8/at-a-united-nations-oceans-summit-delegates-from-china-indonesia-the-philippines-and-thailand-four-of-the-top-polluters-of-plastic-into.md)
 China, Thailand, Indonesia and the Philippines say they will act to stop plastic polluting the oceans.
