@@ -1,0 +1,24 @@
+### [2017-06-8](/news/2017/06/8/index.md)
+
+# The United States shoots down a pro-Syrian government drone that was fired toward U.S.-led coalition forces in southern Syria. There were no injuries or damage. An American official said this was first time forces supporting Damascus had attacked coalition troops, and that it came shortly after the U.S. bombed Syrian government and allied troops near the  town of Al-Tanf. 
+
+The United States shot down a pro-Syrian government drone that fired toward U.S.-led coalition forces in Syria on Thursday, a U.S. military spokesman said, in a major escalation of tensions between Washington and troops supporting Damascus.
+
+
+### Source:
+
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/national-security/us-drone-fired-on-us-backed-forces-near-syrian-rebel-camp/2017/06/08/ff23bdca-4c6a-11e7-987c-42ab5745db2e_story.html?utm_term=.d657960dc945)
+2. [Reuters](https://www.reuters.com/article/us-mideast-crisis-usa-syria-idUSKBN18Z2CP?il=0)
+
+### Related:
+
+1. [United States aircraft bomb a convoy belonging to the Syrian pro-government militia within a so-called "deconfliction zone" around Al-Tanf. ](/news/2017/05/18/united-states-aircraft-bomb-a-convoy-belonging-to-the-syrian-pro-government-militia-within-a-so-called-deconfliction-zone-around-al-tanf.md) _Context: Al-Tanf, Syria, Syrian Civil War, United States_
+2. [According to the Syrian Observatory for Human Rights, multiple suspected U.S.-led coalition air raids kill at least 23 civilians in the village of al-Matab in northern Syria. ](/news/2017/03/9/according-to-the-syrian-observatory-for-human-rights-multiple-suspected-u-s-led-coalition-air-raids-kill-at-least-23-civilians-in-the-vill.md) _Context: Syria, Syrian Civil War, United States_
+3. [According to Syrian state media, two suicide bombers attack in Damascus, killing at least 31 people. ](/news/2017/03/15/according-to-syrian-state-media-two-suicide-bombers-attack-in-damascus-killing-at-least-31-people.md) _Context: Damascus, Syria, Syrian Civil War_
+4. [Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left-dozens-dead.md) _Context: Damascus, Syria, Syrian Civil War_
+5. [Several bombings kill at least 40 people in government and Kurdish held territory across Syria, including Tartus, Homs, Al-Hasakah and Damascus. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/09/5/several-bombings-kill-at-least-40-people-in-government-and-kurdish-held-territory-across-syria-including-tartus-homs-al-hasakah-and-damas.md) _Context: Damascus, Syria, Syrian Civil War_
+6. [The United States acknowledges that its warplanes may have hit a Syrian Army position near Deir ez-Zor Airport in eastern Syria, while conducting an operation against ISIL, killing more than 60 Syrian troops. ](/news/2016/09/17/the-united-states-acknowledges-that-its-warplanes-may-have-hit-a-syrian-army-position-near-deir-ez-zor-airport-in-eastern-syria-while-condu.md) _Context: Syria, Syrian Civil War, United States_
+7. [U.S.-backed Syrian Democratic Forces (SDF) say they have seized full control of Manbij in Syria's northern Aleppo Governorate after ISIL militants withdrew from their last remaining strongholds in the city. ](/news/2016/08/12/u-s-backed-syrian-democratic-forces-sdf-say-they-have-seized-full-control-of-manbij-in-syria-s-northern-aleppo-governorate-after-isil-mil.md) _Context: Syria, Syrian Civil War, United States_
+8. [The United States accuses Russia of bombing U.S.-backed forces in southern Syria near al-Tanf close to the Iraq and Jordan borders. ](/news/2016/06/16/the-united-states-accuses-russia-of-bombing-u-s-backed-forces-in-southern-syria-near-al-tanf-close-to-the-iraq-and-jordan-borders.md) _Context: Syria, Syrian Civil War, United States_
+9. [Kurdish parties in northern Syria declare the establishment of a federal system in areas they control.  Turkey and the United States had warned this risks further destabilizing the already war-ravaged country. The move was criticized by the government of Syria. ](/news/2016/03/17/kurdish-parties-in-northern-syria-declare-the-establishment-of-a-federal-system-in-areas-they-control-turkey-and-the-united-states-had-war.md) _Context: Syria, Syrian Civil War, United States_
+10. [A suicide bomb attack in Syria's capital Damascus kills at least 10 people. The Islamic State of Iraq and the Levant claims responsibility.  ](/news/2016/02/9/a-suicide-bomb-attack-in-syria-s-capital-damascus-kills-at-least-10-people-the-islamic-state-of-iraq-and-the-levant-claims-responsibility.md) _Context: Damascus, Syria, Syrian Civil War_
