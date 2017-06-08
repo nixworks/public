@@ -7,7 +7,9 @@ On the eve of an election Prime Minister Theresa May returned to her core messag
 
 ### Source:
 
-1. [Reuters](https://www.reuters.com/article/us-britain-election-idUSKBN18Y0PR)
+1. [BBC](http://www.bbc.com/news/live/election-2017-40171454)
+2. [Reuters](https://www.reuters.com/article/us-britain-election-idUSKBN18Y0PR)
+3. [The Guardian](https://www.theguardian.com/politics/live/2017/jun/08/general-election-results-2017-uk-live-labour-tories-corbyn-may-election-results-live-news-line)
 
 ### Related:
 

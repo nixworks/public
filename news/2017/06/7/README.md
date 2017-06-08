@@ -12,7 +12,7 @@ The Philippine government on Wednesday partially lifted its suspension of deploy
 ### [A military aircraft with 120 people onboard crashes into the Andaman Sea off the coast of Myanmar. ](/news/2017/06/7/a-military-aircraft-with-120-people-onboard-crashes-into-the-andaman-sea-off-the-coast-of-myanmar.md)
 Parts of a Burmese military plane have been found in the sea after it disappeared with more than 100 people on board. A spokesperson for the chief of the country’s army said the aircraft went missing during a domestic flight on Wednesday. “Communication was lost suddenly at about 1.35pm (8.05 BST) when it reached about 20 miles west of Dawei town,” read a statement posted on Facebook.
 
-### [A childcare worker in London is reportedly stabbed by three women while on her way to work, suffering non life threatening injuries. ](/news/2017/06/7/a-childcare-worker-in-london-is-reportedly-stabbed-by-three-women-while-on-her-way-to-work-suffering-non-life-threatening-injuries.md)
+### [A childcare worker in London is reportedly stabbed by three Muslim women while on her way to work, suffering non life threatening injuries. ](/news/2017/06/7/a-childcare-worker-in-london-is-reportedly-stabbed-by-three-muslim-women-while-on-her-way-to-work-suffering-non-life-threatening-injuries.md)
 A woman is taken to hospital with a &quot;slash wound&quot; after being attacked on her way to work, police say.
 
 ### [United States president Donald Trump announces lawyer Christopher A. Wray as his nominee to be director of the Federal Bureau of Investigation. ](/news/2017/06/7/united-states-president-donald-trump-announces-lawyer-christopher-a-wray-as-his-nominee-to-be-director-of-the-federal-bureau-of-investigati.md)

@@ -12,9 +12,6 @@ The Iranian Intelligence Ministry has released the names of and other informatio
 ### [The United States shoots down a pro-Syrian government drone that was flying toward U.S.-led coalition forces in southern Syria. There were no injuries or damage. An American official said this was first time forces supporting Damascus had attacked coalition troops, and that it came shortly after the U.S. bombed Syrian government and allied troops near the  town of Al-Tanf. ](/news/2017/06/8/the-united-states-shoots-down-a-pro-syrian-government-drone-that-was-flying-toward-u-s-led-coalition-forces-in-southern-syria-there-were-n.md)
 The United States shot down a pro-Syrian government drone that fired toward U.S.-led coalition forces in Syria on Thursday, a U.S. military spokesman said, in a major escalation of tensions between Washington and troops supporting Damascus.
 
-### [ Up to 10,000 people have been evacuated from Knysna Local Municipality on Garden Route in South Africa after wildfire destroyed 150 homes. The Wildfire is connected to the worst windstorm in 30 years, which already killed at least 8 people in Cape Town. ](/news/2017/06/8/up-to-10-000-people-have-been-evacuated-from-knysna-local-municipality-on-garden-route-in-south-africa-after-wildfire-destroyed-150-homes.md)
-Troops will be deployed to help put out bushfires and protect properties in the popular tourist town.
-
 ### [Montana congressman Greg Gianforte apologizes to journalist Ben Jacobs for the alleged body slam incident that occurred on May 24, and donates US$50,000 to the Committee to Protect Journalists. ](/news/2017/06/8/montana-congressman-greg-gianforte-apologizes-to-journalist-ben-jacobs-for-the-alleged-body-slam-incident-that-occurred-on-may-24-and-donat.md)
 _Context: Ben Jacobs, Committee to Protect Journalists, Freedom of the press in the United States, Greg Gianforte, Montana, US$, body slam_
 
@@ -23,6 +20,12 @@ China, Thailand, Indonesia and the Philippines say they will act to stop plastic
 
 ### [Yahoo shareholders officially approve its $4.48 billion sale to Verizon Wireless. Yahoo stock was up 8.5 percent shortly thereafter. ](/news/2017/06/8/yahoo-shareholders-officially-approve-its-4-48-billion-sale-to-verizon-wireless-yahoo-stock-was-up-8-5-percent-shortly-thereafter.md)
 _Context: Verizon Wireless, Yahoo_
+
+### [The United States House of Representatives pass a bill ending Dodd-Frank regulations. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-dodd-frank-regulations.md)
+Rep. Jeb Hensarling called the Dodd-Frank law &quot;a grab bag of leftist ideas.&quot;
+
+### [ Up to 10,000 people have been evacuated from Knysna Local Municipality on Garden Route in South Africa after wildfire destroyed 150 homes. The Wildfire is connected to the worst windstorm in 30 years, which already killed at least 8 people in Cape Town. ](/news/2017/06/8/up-to-10-000-people-have-been-evacuated-from-knysna-local-municipality-on-garden-route-in-south-africa-after-wildfire-destroyed-150-homes.md)
+Troops will be deployed to help put out bushfires and protect properties in the popular tourist town.
 
 ### [An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md)
 _Context: Kiev, Ukraine-United States relations, United States, embassy_
@@ -62,7 +65,7 @@ The Philippine government on Wednesday partially lifted its suspension of deploy
 ### [A military aircraft with 120 people onboard crashes into the Andaman Sea off the coast of Myanmar. ](/news/2017/06/7/a-military-aircraft-with-120-people-onboard-crashes-into-the-andaman-sea-off-the-coast-of-myanmar.md)
 Parts of a Burmese military plane have been found in the sea after it disappeared with more than 100 people on board. A spokesperson for the chief of the country’s army said the aircraft went missing during a domestic flight on Wednesday. “Communication was lost suddenly at about 1.35pm (8.05 BST) when it reached about 20 miles west of Dawei town,” read a statement posted on Facebook.
 
-### [A childcare worker in London is reportedly stabbed by three women while on her way to work, suffering non life threatening injuries. ](/news/2017/06/7/a-childcare-worker-in-london-is-reportedly-stabbed-by-three-women-while-on-her-way-to-work-suffering-non-life-threatening-injuries.md)
+### [A childcare worker in London is reportedly stabbed by three Muslim women while on her way to work, suffering non life threatening injuries. ](/news/2017/06/7/a-childcare-worker-in-london-is-reportedly-stabbed-by-three-muslim-women-while-on-her-way-to-work-suffering-non-life-threatening-injuries.md)
 A woman is taken to hospital with a &quot;slash wound&quot; after being attacked on her way to work, police say.
 
 ### [United States president Donald Trump announces lawyer Christopher A. Wray as his nominee to be director of the Federal Bureau of Investigation. ](/news/2017/06/7/united-states-president-donald-trump-announces-lawyer-christopher-a-wray-as-his-nominee-to-be-director-of-the-federal-bureau-of-investigati.md)
