@@ -22,7 +22,7 @@ At least 12 people were killed and 30 others injured when a bus plunged into a r
 The Royal Navy fired flares to warn off a Spanish patrol boat approaching an American nuclear submarine off Gibraltar.
 
 ### [Acting on a request from Brazil's top prosecutor, Supreme Court Justice Teori Zavascki suspends President of the Deputies Chamber Eduardo Cunha for obstructing the Petrobras corruption investigation. The full court confirms this action, Cunha is eliminated from the line of succession to President Dilma Rousseff, who may be suspended from office next week. ](/news/2016/05/5/acting-on-a-request-from-brazil-s-top-prosecutor-supreme-court-justice-teori-zavascki-suspends-president-of-the-deputies-chamber-eduardo-cu.md)
-_Context: Brazil, Dilma, Eduardo Cunha, Impeachment process against Dilma Rousseff, Operation Car Wash, Petrobras, President of Brazil, President of the Brazilian Chamber of Deputies, Supreme Federal Court_
+_Context: Brazil, Dilma Rousseff, Eduardo Cunha, Impeachment process against Dilma Rousseff, Operation Car Wash, Petrobras, President, President of the Brazilian Chamber of Deputies, Supreme Federal Court_
 
 ### [Colorado Springs, Colorado, agrees to pay  people who were sent to jail because they couldn't afford to pay fines for minor offenses like panhandling and jaywalking. The city will pay  $125 for each day the person spent behind bars, an estimated total of $103,000 for the 66 people identified. In 1971, the U.S. Supreme Court ruled that people cannot be jailed if they do not have the money to pay. ](/news/2016/05/5/colorado-springs-colorado-agrees-to-pay-people-who-were-sent-to-jail-because-they-couldnat-afford-to-pay-fines-for-minor-offenses-like.md)
 _Context: Colorado Springs, Colorado, Supreme Court_
@@ -41,7 +41,7 @@ Anti-establishment Philippine politician Rodrigo Duterte&#039;s rollicking ride 
 _Context: London Mayor, United Kingdom local elections, 2016_
 
 ### [Former Governor of Texas and Republican presidential candidate Rick Perry endorses Donald Trump for president and says he is open to being Trump's vice-presidential running mate. ](/news/2016/05/5/former-governor-of-texas-and-republican-presidential-candidate-rick-perry-endorses-donald-trump-for-president-and-says-he-is-open-to-being-t.md)
-_Context: 2016 U.S. presidential election, Governor of Texas, R, Rick Perry, Trump, presidential candidate_
+_Context: 2016 U.S. presidential election, Donald Trump, Governor of Texas, R, Rick Perry, presidential candidate_
 
 ## [Previous Day...](/news/2016/05/4/index.md)
 

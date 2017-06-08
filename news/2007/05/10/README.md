@@ -19,7 +19,7 @@ _Context: President, Turkish Parliament, direct election_
 _Context: Kamal Labwani, Syria, United States, dissident_
 
 ### [ The Prime Minister of the United Kingdom Tony Blair announces he will step down on June 27, once the Labour Party has elected a successor. ](/news/2007/05/10/the-prime-minister-of-the-united-kingdom-tony-blair-announces-he-will-step-down-on-june-27-once-the-labour-party-has-elected-a-successor.md)
-_Context: Labour, Prime Minster, Tony Blair_
+_Context: Labour, Tony Blair, prime minister_
 
 ## [Previous Day...](/news/2007/05/9/index.md)
 

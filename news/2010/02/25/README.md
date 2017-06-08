@@ -22,7 +22,7 @@ _Context: Australia, Dubai, Hamas, Israel, Mahmoud al-Mabhouh_
 Minister for Foreign Affairs Miche&aacute;l Martin today pleaded with Israel to end the blockade of Gaza and vowed Ireland would continue&hellip;
 
 ### [Brazilian President Luiz Inacio Lula da Silva tours Haiti to monitor the destruction caused by the recent earthquake and meets President Rene Preval. ](/news/2010/02/25/brazilian-president-luiz-ina-cio-lula-da-silva-tours-haiti-to-monitor-the-destruction-caused-by-the-recent-earthquake-and-meets-president-re.md)
-_Context: 2010 Haiti earthquake, Brazil, Haiti, Lula, President of Brazil, President of Haiti, Rene Preval_
+_Context: 2010 Haiti earthquake, Brazil, Haiti, Lula, President, President of Haiti, Rene Preval_
 
 ### [Viktor Yanukovych is sworn in as the as 4th President of Ukraine. ](/news/2010/02/25/viktor-yanukovych-is-sworn-in-as-the-as-4th-president-of-ukraine.md)
 _Context: Ukrainian President, Ukrainians, Viktor Yanukovych_

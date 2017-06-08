@@ -4,7 +4,7 @@
 _Context: 2007 assassination, Benazir Bhutto, Pakistan, Prime Minister, Rawalpindi, by-elections_
 
 ### [ Iraq War: U.S. troops kill 11 members of a Mahdi Army splinter group. The military also announces that it has detained two more suspects in the capture of three U.S. soldiers earlier this year. ](/news/2007/12/27/iraq-war-u-s-troops-kill-11-members-of-a-mahdi-army-splinter-group-the-military-also-announces-that-it-has-detained-two-more-suspects-in.md)
-_Context: Iraq War, Mahdi Army, United States_
+_Context: Iraq War, Mahdi Army, United States military_
 
 ### [ Kenyan presidential election, 2007: Election officials have started counting the votes in what is seen as the closest election in Kenyan history. ](/news/2007/12/27/kenyan-presidential-election-2007-election-officials-have-started-counting-the-votes-in-what-is-seen-as-the-closest-election-in-kenyan-hi.md)
 _Context: Kenyan presidential election, 2007_

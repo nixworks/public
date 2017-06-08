@@ -19,7 +19,7 @@ _Context: Rutan VariEze, Ventura, California_
 _Context: Harambe_
 
 ### [The U.S. military restricts off-base alcohol consumption in Okinawa until July 24 after the arrest of a former Marine suspected of murder. ](/news/2016/05/28/the-u-s-military-restricts-off-base-alcohol-consumption-in-okinawa-until-july-24-after-the-arrest-of-a-former-marine-suspected-of-murder.md)
-_Context: Okinawa, United States, United States Marine Corps_
+_Context: Okinawa, United States Marine Corps, United States military_
 
 ### [The President of Russia, Vladimir Putin, warns Romania and Poland against hosting parts of the U.S. missile defense shield. ](/news/2016/05/28/the-president-of-russia-vladimir-putin-warns-romania-and-poland-against-hosting-parts-of-the-u-s-missile-defense-shield.md)
 Romania and Poland are in the potential crosshairs of Russian rockets because they are hosting parts of the U.S. missile defense shield that Moscow considers a threat to its national security, President Vladimir Putin warned Friday.

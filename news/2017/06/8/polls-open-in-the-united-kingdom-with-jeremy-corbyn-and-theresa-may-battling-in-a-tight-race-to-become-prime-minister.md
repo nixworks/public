@@ -1,0 +1,23 @@
+### [2017-06-8](/news/2017/06/8/index.md)
+
+# Polls open in the United Kingdom with Jeremy Corbyn and Theresa May battling in a tight race to become prime minister. 
+
+On the eve of an election Prime Minister Theresa May returned to her core message that only she can deliver a good Brexit deal, moving on from a heated national debate over security after two deadly Islamist attacks.
+
+
+### Source:
+
+1. [Reuters](https://www.reuters.com/article/us-britain-election-idUSKBN18Y0PR)
+
+### Related:
+
+1. [British Prime Minster Theresa May proposes that a snap election for the House of Commons will be held on the 8th of June. A two-thirds majority of the House of Commons is needed to approve this, eventually tomorrow. The Labour and Liberal Democrats party leaders have expressed their support. ](/news/2017/04/18/british-prime-minster-theresa-may-proposes-that-a-snap-election-for-the-house-of-commons-will-be-held-on-the-8th-of-june-a-two-thirds-major.md) _Context: Theresa May, United Kingdom, United Kingdom general election, 2017, prime minister_
+2. [Labour leader Jeremy Corbyn debates with Conservative leader Theresa May. ](/news/2017/05/29/labour-leader-jeremy-corbyn-debates-with-conservative-leader-theresa-may.md) _Context: Jeremy Corbyn, Theresa May, United Kingdom general election, 2017_
+3. [British Prime Minister Theresa May signs a letter invoking Article 50 of the Treaty on European Union. Its notification to the European Council tomorrow will formally begin the UK's withdrawal from the European Union. ](/news/2017/03/28/british-prime-minister-theresa-may-signs-a-letter-invoking-article-50-of-the-treaty-on-european-union-its-notification-to-the-european-coun.md) _Context: Theresa May, United Kingdom, prime minister_
+4. [After much speculation British Prime Minister  Theresa May announces that the United Kingdom will be leaving the European Single Market. ](/news/2017/01/17/after-much-speculation-british-prime-minister-theresa-may-announces-that-the-united-kingdom-will-be-leaving-the-european-single-market.md) _Context: Theresa May, United Kingdom, prime minister_
+5. [Theresa May, the Prime Minister of the United Kingdom, announces March 2017 as the deadline for triggering Article 50 and says that her government will introduce a "Great Repeal Bill" that will repeal the European Communities Act 1972 once the United Kingdom leaves the European Union. ](/news/2016/10/2/theresa-may-the-prime-minister-of-the-united-kingdom-announces-march-2017-as-the-deadline-for-triggering-article-50-and-says-that-her-gove.md) _Context: Theresa May, United Kingdom, prime minister_
+6. [Conservative politician Theresa May accuses European Union officials of trying to influence the upcoming elections. ](/news/2017/05/3/conservative-politician-theresa-may-accuses-european-union-officials-of-trying-to-influence-the-upcoming-elections.md) _Context: Theresa May, United Kingdom general election, 2017_
+7. [British Prime Minister Theresa May faces backlash after accusations emerge that the Conservatives allegedly planned on reducing social welfare spending. ](/news/2017/05/22/british-prime-minister-theresa-may-faces-backlash-after-accusations-emerge-that-the-conservatives-allegedly-planned-on-reducing-social-welfa.md) _Context: Theresa May, United Kingdom general election, 2017_
+8. [Conservative leader Theresa May states she will be a "bloody difficult woman" in her negotiations with Jean-Claude Juncker regarding the rights of EU nationals after Brexit. ](/news/2017/05/2/conservative-leader-theresa-may-states-she-will-be-a-bloody-difficult-woman-in-her-negotiations-with-jean-claude-juncker-regarding-the-rig.md) _Context: Theresa May, United Kingdom general election, 2017_
+9. [The Communist Party of Britain announces it will not field any candidates in the upcoming general election for the first time since its formation in 1920, and endorses Labour leader Jeremy Corbyn, saying victory for Mr Corbyn at the general election in June would be "the first step towards a formation of left-led government at Westminster". ](/news/2017/04/24/the-communist-party-of-britain-announces-it-will-not-field-any-candidates-in-the-upcoming-general-election-for-the-first-time-since-its-form.md) _Context: Jeremy Corbyn, United Kingdom general election, 2017_
+10. [Jeremy Corbyn, the leader of the opposition Labour Party, positions himself as an "anti-establishment" candidate as he vows to end the "rigged" system. ](/news/2017/04/20/jeremy-corbyn-the-leader-of-the-opposition-labour-party-positions-himself-as-an-anti-establishment-candidate-as-he-vows-to-end-the-rigg.md) _Context: Jeremy Corbyn, United Kingdom general election, 2017_

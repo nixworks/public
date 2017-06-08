@@ -13,7 +13,7 @@ Former Argentine president Carlos Menem has been charged with involvement in the
 _Context: Belgium, Justine Henin, Russia, Svetlana Kuznetsova, U.S. Open_
 
 ### [ Morocco's conservative Istiqlal Party, a member of the kingdom's ruling coalition, wins most seats in parliamentary elections, according to provisional results released by the government ](/news/2007/09/8/morocco-s-conservative-istiqlal-party-a-member-of-the-kingdom-s-ruling-coalition-wins-most-seats-in-parliamentary-elections-according-to.md)
-_Context: Istiqlal Party, Moroccan, parliamentary elections_
+_Context: Istiqlal Party, Morocco, parliamentary elections_
 
 ### [ At least 18 people are injured in a car bomb blast in Peshawar, Pakistan. ](/news/2007/09/8/at-least-18-people-are-injured-in-a-car-bomb-blast-in-peshawar-pakistan.md)
 _Context: Pakistan, Peshawar_

@@ -19,7 +19,7 @@ _Context: Japan Airlines_
 _Context: Amsterdam, Arkefly, Boeing 767, Netherlands Antilles, Shannon Airport_
 
 ### [Guinea's junta chief Moussa Dadis Camara arrives in Burkina Faso after being hospitalised in Morocco. ](/news/2010/01/13/guinea-s-junta-chief-moussa-dadis-camara-arrives-in-burkina-faso-after-being-hospitalised-in-morocco.md)
-_Context: Burkina Faso, Guinea, Moroccan, Moussa Dadis Camara_
+_Context: Burkina Faso, Guinea, Morocco, Moussa Dadis Camara_
 
 ### [Turkey threatens to recall its ambassador from Israel over a dispute involving Turkey's ambassador to the country. Israel apologized later. ](/news/2010/01/13/turkey-threatens-to-recall-its-ambassador-from-israel-over-a-dispute-involving-turkey-s-ambassador-to-the-country-israel-apologized-later.md)
 _Context: Israel, Turkey_

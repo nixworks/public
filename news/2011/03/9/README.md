@@ -82,7 +82,7 @@ Wisconsin Gov. Scott Walker signed a bill on Friday that strips public workers o
 _Context: Detroit, Michigan, Michigan State Senator_
 
 ### [King Mohammed VI of Morocco promises ""comprehensive constitutional reform" to expand individual and collective liberties in a televised address to the nation. ](/news/2011/03/9/king-mohammed-vi-of-morocco-promises-comprehensive-constitutional-reform-to-expand-individual-and-collective-liberties-in-a-televised-add.md)
-_Context: King Mohammed VI of Morocco, Moroccan_
+_Context: King Mohammed VI of Morocco, Morocco_
 
 ### [The Governor of the US state of Illinois, Pat Quinn, signs a law banning the death penalty and commutes the sentence of 15 death row prisoners to life without parole. ](/news/2011/03/9/the-governor-of-the-us-state-of-illinois-pat-quinn-signs-a-law-banning-the-death-penalty-and-commutes-the-sentence-of-15-death-row-prisone.md)
 _Context: Governor of Illinois, Illinois, Pat Quinn, death penalty, death row_

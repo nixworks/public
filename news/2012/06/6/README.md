@@ -53,7 +53,7 @@ President Felipe Calderon signs a law making Mexico only the second country in t
 _Context: Council of the District of Columbia, Kwame R. Brown, Washington, D.C._
 
 ### [The Solar Impulse, a solar plane, lands in Morocco, completing the world's first intercontinental flight powered by the Sun. ](/news/2012/06/6/the-solar-impulse-a-solar-plane-lands-in-morocco-completing-the-world-s-first-intercontinental-flight-powered-by-the-sun.md)
-_Context: Moroccan, Solar Impulse, Sun, solar plane_
+_Context: Morocco, Solar Impulse, Sun, solar plane_
 
 ## [Previous Day...](/news/2012/06/5/index.md)
 

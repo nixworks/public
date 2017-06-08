@@ -16,7 +16,7 @@ Record-breaking winds and heavy rains disrupted transport today as Super-Typhoon
 The South American trading bloc Mercosur threatens to suspend Venezuela if it does not comply with a series of trade and human rights rules.
 
 ### [Brazilian prosecutors file corruption charges against former President Luiz Inacio Lula da Silva and his wife, Marisa Leticia Lula da Silva. Federal judge Sergio Moro will preside over his case. ](/news/2016/09/14/brazilian-prosecutors-file-corruption-charges-against-former-president-luiz-ina-cio-lula-da-silva-and-his-wife-marisa-letacia-lula-da-silv.md)
-_Context: Brazil, Lula, Marisa Leticia Lula da Silva, Operation Car Wash, President of Brazil, Sergio Moro_
+_Context: Brazil, Lula, Marisa Leticia Lula da Silva, Operation Car Wash, President, Sergio Moro_
 
 ### [The Obama administration plans to lift sanctions against Myanmar. ](/news/2016/09/14/the-obama-administration-plans-to-lift-sanctions-against-myanmar.md)
 _Context: Myanmar, Obama Administration_

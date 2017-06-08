@@ -13,7 +13,7 @@ _Context: 2009, Austria, Cannes Film Festival, Palme d'Or, The White Ribbon_
 NASA&#039;s space shuttle fleet began setting records with its first launch on April 12, 1981 and continued to set high marks of achievement and endurance through 30 years of missions.
 
 ### [ Eleven people are killed during a stampede at the Mawazine world music festival in Rabat, Morocco. ](/news/2009/05/24/eleven-people-are-killed-during-a-stampede-at-the-mawazine-world-music-festival-in-rabat-morocco.md)
-_Context: Mawazine, Moroccan, Rabat, festival, stampede, world music_
+_Context: Mawazine, Morocco, Rabat, festival, stampede, world music_
 
 ### [ One person is killed and 15 others are injured during a clash in a Sikh temple in Vienna, Austria. ](/news/2009/05/24/one-person-is-killed-and-15-others-are-injured-during-a-clash-in-a-sikh-temple-in-vienna-austria.md)
 _Context: Austria, Sikh, Vienna, temple_

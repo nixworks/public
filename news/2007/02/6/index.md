@@ -16,7 +16,7 @@ _Context: AFRICOM, Africa, George W. Bush, U.S. President, United States militar
 _Context: Hungary, Komrom, freight train, train_
 
 ### [ UK Prime Minister Tony Blair says people are "increasingly alarmed" by Iran's nuclear program but military action was not being planned against it. ](/news/2007/02/6/uk-prime-minister-tony-blair-says-people-are-increasingly-alarmed-by-iran-s-nuclear-program-but-military-action-was-not-being-planned-aga.md)
-_Context: Iran, Prime Minster, Tony Blair, United Kingdom, nuclear scientist_
+_Context: Iran, Tony Blair, United Kingdom, nuclear scientist, prime minister_
 
 ### [ The Iranian Government confirms that an Iranian envoy in Baghdad has been kidnapped by men wearing Iraqi army uniforms, and says it holds the United States responsible for his life. The U.S. denies any involvement of U.S. and Iraqi troops. ](/news/2007/02/6/the-iranian-government-confirms-that-an-iranian-envoy-in-baghdad-has-been-kidnapped-by-men-wearing-iraqi-army-uniforms-and-says-it-holds-t.md)
 _Context: Baghdad, Iran, Iranian government, Iraqi army, United States_

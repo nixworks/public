@@ -7,7 +7,7 @@ There is extensive flooding in parts of Co Mayo following several hours of torre
 _Context: 2008-2009 Gaza War, Amnesty International, Israel, Palestinian, war crimes_
 
 ### [ The United States armed forces launch Operation Strike of the Sword against the Taliban in Helmand, Afghanistan. ](/news/2009/07/2/the-united-states-armed-forces-launch-operation-strike-of-the-sword-against-the-taliban-in-helmand-afghanistan.md)
-_Context: Afghanistan, Helmand, Operation Strike of the Sword, Taliban, United States_
+_Context: Afghanistan, Helmand, Operation Strike of the Sword, Taliban, United States military_
 
 ### [ The Honduran interim government defies international pressure to reverse the recent coup, saying there is no chance at all of ousted President Manuel Zelaya returning to office. ](/news/2009/07/2/the-honduran-interim-government-defies-international-pressure-to-reverse-the-recent-coup-saying-there-is-no-chance-at-all-of-ousted-presid.md)
 An interim government set up after a military coup in Honduras said on Thursday it would be open to bringing forward a November general election to resolve a crisis over the ouster of President Manuel Zelaya.

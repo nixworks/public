@@ -16,7 +16,7 @@ _Context: Saudi Arabia_
 A volcano erupts on an Indonesian island, spewing hot ash on to a nearby beach and killing four adults and two children.
 
 ### [A bus accident in Al Hoceima, Morocco, kills at least 16 Royal Guardsmen. ](/news/2013/08/10/a-bus-accident-in-al-hoceima-morocco-kills-at-least-16-royal-guardsmen.md)
-_Context: Al Hoceima, Moroccan, Royal Guardsmen_
+_Context: Al Hoceima, Morocco, Royal Guardsmen_
 
 ### [Floods and mudslides in Manitou Springs, Colorado, United States leave at least three people missing and one dead. ](/news/2013/08/10/floods-and-mudslides-in-manitou-springs-colorado-united-states-leave-at-least-three-people-missing-and-one-dead.md)
 _Context: Colorado, Manitou Springs, United States_

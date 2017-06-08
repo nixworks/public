@@ -34,7 +34,7 @@ Malian President Diouncounda Traore appoints a new prime minister, less than 24 
 _Context: Lower House, Peter Slipper, Speaker of the Australian House of Representatives, sexual harassment_
 
 ### [10 Downing Street denies that British Prime Minister David Cameron's spokesman Craig Oliver warned ''The Daily Telegraph'' against running a critical story on MPs expenses claimed by Culture Secretary Maria Miller because of her role in enacting proposals in the Leveson report. ](/news/2012/12/12/10-downing-street-denies-that-british-prime-minister-david-cameron-s-spokesman-craig-oliver-warned-the-daily-telegraph-against-running-a.md)
-_Context: 10 Downing Street, Craig Oliver, Daily Telegraph, David Cameron, Leveson report, MPs expenses, Maria Miller, Prime Minster, Secretary of State for Culture, Media and Sport_
+_Context: 10 Downing Street, Craig Oliver, Daily Telegraph, David Cameron, Leveson report, MPs expenses, Maria Miller, Secretary of State for Culture, Media and Sport, prime minister_
 
 ### [Nicolas Maduro, the Vice President of Venezuela, warns that President Hugo Chavez faces a "difficult" recovery from cancer surgery in Cuba. ](/news/2012/12/12/nicola-s-maduro-the-vice-president-of-venezuela-warns-that-president-hugo-cha-vez-faces-a-difficult-recovery-from-cancer-surgery-in-cuba.md)
 Venezuelan President Hugo Chavez is in stable but delicate condition after his latest cancer surgery, the government said on Wednesday in a somber assessment that could indicate an end to his 14-year rule.

@@ -22,7 +22,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 The remaining rats in the Pennsylvania facility were euthanized to prevent the spread of the disease.
 
 ### [Nearly five hundred African migrants swarm the border of Spain from Morocco. ](/news/2017/02/17/nearly-five-hundred-african-migrants-swarm-the-border-of-spain-from-morocco.md)
-_Context: Africa, European migrant crisis, Moroccan, Spain_
+_Context: Africa, European migrant crisis, Morocco, Spain_
 
 ### [Princess Cristina of Spain is acquitted of fraud but her husband is convicted. ](/news/2017/02/17/princess-cristina-of-spain-is-acquitted-of-fraud-but-her-husband-is-convicted.md)
 _Context: Cristina, Spain, fraud_

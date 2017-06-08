@@ -12,7 +12,7 @@ Apple&#039;s new cloud music service has been criticised by sections of the musi
 ### Related:
 
 1. [Apple Inc announces plans to introduce a digital locker music service called iCloud with negotiations well advanced with major label record companies for rights. ](/news/2011/05/31/apple-inc-announces-plans-to-introduce-a-digital-locker-music-service-called-icloud-with-negotiations-well-advanced-with-major-label-record.md) _Context: Apple Inc., iCloud_
-2. [Apple announces iOS 11 in WWDC 2017. ](/news/2017/06/5/apple-announces-ios-11-in-wwdc-2017.md) _Context: WWDC_
+2. [Apple announces iOS 11 in WWDC 2017. ](/news/2017/06/5/apple-announces-ios-11-in-wwdc-2017.md) _Context: Apple Worldwide Developers Conference_
 3. [Apple Inc. and Nokia agree to increase their partnership after settling a patent dispute. ](/news/2017/05/23/apple-inc-and-nokia-agree-to-increase-their-partnership-after-settling-a-patent-dispute.md) _Context: Apple Inc._
 4. [The U.S. Supreme Court hears arguments in a patent dispute between Apple Inc. and Samsung concerning both company's smart phone designs (Samsung Electronics v. Apple (15-777)). ](/news/2016/10/11/the-u-s-supreme-court-hears-arguments-in-a-patent-dispute-between-apple-inc-and-samsung-concerning-both-company-s-smart-phone-designs-sam.md) _Context: Apple Inc._
 5. [Apple announces the release of the iPhone 7 along with the Apple Watch 2. ](/news/2016/09/7/apple-announces-the-release-of-the-iphone-7-along-with-the-apple-watch-2.md) _Context: Apple Inc._

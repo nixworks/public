@@ -34,7 +34,7 @@ Chris Brown was released on $250,000 bail Tuesday night after he was booked on c
 Venezuela has arrested several opposition activists accused of plotting violence during an anti-government rally scheduled for Thursday, President Nicolas Maduro said on Tuesday, and opposition leaders slammed the arrests as intimidation.
 
 ### [The Senate postpones the impeachment vote on suspended President Dilma Rousseff to Wednesday. ](/news/2016/08/30/the-senate-postpones-the-impeachment-vote-on-suspended-president-dilma-rousseff-to-wednesday.md)
-_Context: Dilma, President of Brazil, Senate, impeachment of former president Dilma Rousseff_
+_Context: Dilma Rousseff, President, Senate, impeached_
 
 ## [Previous Day...](/news/2016/08/29/index.md)
 

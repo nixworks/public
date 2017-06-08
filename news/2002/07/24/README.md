@@ -7,7 +7,7 @@ _Context: (89959) 2002 NT<sub>7</sub>, Palermo Technical Impact Hazard Scale, ne
 _Context: James Traficant, U.S. Congressional, United States House of Representatives_
 
 ### [ The major Millennium Challenge 2002 war game run by the United States armed forces begins.](/news/2002/07/24/the-major-millennium-challenge-2002-war-game-run-by-the-united-states-armed-forces-begins.md)
-_Context: Millennium Challenge 2002, United States, military exercise_
+_Context: Millennium Challenge 2002, United States military, military exercise_
 
 ## [Previous Day...](/news/2002/07/23/index.md)
 

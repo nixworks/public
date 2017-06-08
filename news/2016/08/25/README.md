@@ -19,7 +19,7 @@ _Context: 2015-16 Zika virus epidemic, Centre for Health Protection, Hong Kong, 
 Toronto police confirm there is a link between the three deaths involving a crossbow in east Toronto and a suspicious package found in the downtown area of the city. 
 
 ### [Brazil's Federal Senate begins the impeachment trial of suspended President Dilma Rousseff. ](/news/2016/08/25/brazil-s-federal-senate-begins-the-impeachment-trial-of-suspended-president-dilma-rousseff.md)
-_Context: Brazil, Dilma, Impeachment process against Dilma Rousseff, President of Brazil, Senate_
+_Context: Brazil, Dilma Rousseff, Impeachment process against Dilma Rousseff, President, Senate_
 
 ## [Previous Day...](/news/2016/08/24/index.md)
 

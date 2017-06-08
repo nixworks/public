@@ -19,7 +19,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 The Taoiseach has rejected a claim that the holding of a second referendum on the Lisbon treaty is profoundly undemocratic.
 
 ### [ Eight people are swept away by flash floods and a ninth is killed by lightning as more thunderstorms lash southwestern Algeria. Five people are killed in storms in Morocco. ](/news/2009/09/12/eight-people-are-swept-away-by-flash-floods-and-a-ninth-is-killed-by-lightning-as-more-thunderstorms-lash-southwestern-algeria-five-people.md)
-_Context: Algeria, Moroccan_
+_Context: Algeria, Morocco_
 
 ### [ At least 11 people die following two days of riots in Kampala, Uganda. ](/news/2009/09/12/at-least-11-people-die-following-two-days-of-riots-in-kampala-uganda.md)
 _Context: Kampala, Uganda_

@@ -7,7 +7,7 @@ Georgian President Mikhail Saakashvili said the former Soviet republic will rais
 _Context: 2006-07 Southern Hemisphere tropical cyclone season, George, Port Hedland, Western Australia, tropical cyclone_
 
 ### [ Democratic members of the U.S. House of Representatives propose legislation that would withdraw all U.S. combat troops from Iraq by August 2008 or sooner if certain requirements are not met. ](/news/2007/03/8/democratic-members-of-the-u-s-house-of-representatives-propose-legislation-that-would-withdraw-all-u-s-combat-troops-from-iraq-by-august.md)
-_Context: 2008, D, Iraq, United States, United States House of Representatives_
+_Context: 2008, D, Iraq, United States House of Representatives, United States military_
 
 ### [ 2007 National People's Congress: The People's Republic of China launches a property law designed to better protect individual property rights. ](/news/2007/03/8/2007-national-people-s-congress-the-people-s-republic-of-china-launches-a-property-law-designed-to-better-protect-individual-property-righ.md)
 _Context: 2007 National People's Congress, People's Republic of China, property rights_

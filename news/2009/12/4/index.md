@@ -37,7 +37,7 @@ The 2010 World Cup draw will take place in Cape Town, South Africa at 2 a.m. Sat
 _Context: Himalayan, Mount Everest, Nepal, climate change_
 
 ### [ Guinea's military leader Captain Moussa Dadis Camara is flown to Morocco for medical treatment after being shot by an aide in an assassination attempt. ](/news/2009/12/4/guinea-s-military-leader-captain-moussa-dadis-camara-is-flown-to-morocco-for-medical-treatment-after-being-shot-by-an-aide-in-an-assassinat.md)
-_Context: Guinea, Moroccan, Moussa Dadis Camara_
+_Context: Guinea, Morocco, Moussa Dadis Camara_
 
 ### [ At least 47 people drown after a ferry capsizes in Kishoreganj District, Bangladesh. ](/news/2009/12/4/at-least-47-people-drown-after-a-ferry-capsizes-in-kishoreganj-district-bangladesh.md)
 _Context: Bangladesh, Kishoreganj District_

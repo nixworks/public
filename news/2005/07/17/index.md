@@ -4,7 +4,7 @@
 _Context: Disneyland_
 
 ### [ Former British Prime Minister Sir Edward Heath dies at his Salisbury home at the age of 89. ](/news/2005/07/17/former-british-prime-minister-sir-edward-heath-dies-at-his-salisbury-home-at-the-age-of-89.md)
-_Context: Edward Heath, Prime Minster, Salisbury_
+_Context: Edward Heath, Salisbury, prime minister_
 
 ### [ ''Time'' correspondent Matthew Cooper reveals that last week he told a grand jury that Karl Rove&mdash;a top White House political adviser to U.S. President George W. Bush&mdash; was the first to reveal Valerie Plame's identity as a CIA agent. ](/news/2005/07/17/time-correspondent-matthew-cooper-reveals-that-last-week-he-told-a-grand-jury-that-karl-rove-mdash-a-top-white-house-political-adviser.md)
 _Context: CIA, George W. Bush, Karl Rove, Matthew Cooper, Time, Valerie Plame, grand jury_

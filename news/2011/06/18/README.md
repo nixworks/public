@@ -19,7 +19,7 @@ Oil prices fell on Friday, with U.S. crude slumping to a four-month low under $9
 _Context: Frederick Chiluba, President, Zambia_
 
 ### [Pro-democracy activists in Morocco call for renewed demonstrations, saying reforms proposed by King Mohammed VI are not enough. ](/news/2011/06/18/pro-democracy-activists-in-morocco-call-for-renewed-demonstrations-saying-reforms-proposed-by-king-mohammed-vi-are-not-enough.md)
-_Context: 2011 Moroccan protests, King, King Mohammed VI of Morocco, Moroccan, democratic progress_
+_Context: 2011 Moroccan protests, King, King Mohammed VI of Morocco, Morocco, democratic progress_
 
 ### [Some Saudi Arabian women challenge a ban on female drivers, posting accounts and pictures of themselves driving automobiles. ](/news/2011/06/18/some-saudi-arabian-women-challenge-a-ban-on-female-drivers-posting-accounts-and-pictures-of-themselves-driving-automobiles.md)
 Several dozen women drove in major cities of Saudi Arabia on Friday as part of a protest against a longstanding ban.

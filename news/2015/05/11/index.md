@@ -46,7 +46,7 @@ _Context: Guyana, Guyanese general election_
 Chilean President Michelle Bachelet names a new cabinet as she seeks to overcome a fall in popularity and a series of political scandals.
 
 ### [The Prime Minister of the United Kingdom David Cameron announces a new Cabinet consisting of members of the Conservative Party. ](/news/2015/05/11/the-prime-minister-of-the-united-kingdom-david-cameron-announces-a-new-cabinet-consisting-of-members-of-the-conservative-party.md)
-_Context: Conservatives, David Cameron, Prime Minster, Second Cameron ministry_
+_Context: Conservatives, David Cameron, Second Cameron ministry, prime minister_
 
 ## [Previous Day...](/news/2015/05/10/index.md)
 

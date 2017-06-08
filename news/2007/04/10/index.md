@@ -28,7 +28,7 @@ _Context: Bosnian Muslims, Serb, Serbia, paramilitaries, war crimes_
 _Context: Ethiopia, terrorist_
 
 ### [ Two suspected militants die in a security operation in Casablanca, Morocco. ](/news/2007/04/10/two-suspected-militants-die-in-a-security-operation-in-casablanca-morocco.md)
-_Context: Casablanca, Moroccan_
+_Context: Casablanca, Morocco_
 
 ### [ At least 17 people die in Sri Lanka as a bus collides with a truck 80 km south of Colombo. ](/news/2007/04/10/at-least-17-people-die-in-sri-lanka-as-a-bus-collides-with-a-truck-80-km-south-of-colombo.md)
 _Context: Colombo, Sri Lanka, bus, truck_

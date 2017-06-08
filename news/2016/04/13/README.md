@@ -46,7 +46,7 @@ Park’s party failed to win a majority in the legislature, undermining chances 
 The parliamentary elections in Syria will be held on April 13, 2016, said a statement issued by Syrian President Bashar Assad. 
 
 ### [The Progressive Party announces it is leaving President Dilma Rousseff's coalition government and that its 47 politicians would support her impeachment. ](/news/2016/04/13/the-progressive-party-announces-it-is-leaving-president-dilma-rousseff-s-coalition-government-and-that-its-47-politicians-would-support-her.md)
-_Context: 2015-16 protests in Brazil, Dilma, President of Brazil, Progressive Party_
+_Context: 2015-16 protests in Brazil, Dilma Rousseff, President, Progressive Party_
 
 ### [Massive demonstrations in support of the Free Papua Movement take place in various cities in the Indonesian provinces of Papua and West Papua. The demonstrations voice support for the Liberation Movement to become a full member of the Melanesian Spearhead Group. ](/news/2016/04/13/massive-demonstrations-in-support-of-the-free-papua-movement-take-place-in-various-cities-in-the-indonesian-provinces-of-papua-and-west-papu.md)
 Demonstrations in support of the United Liberation Movement for West Papua have been taking place in cities across Indonesia&#39;s Papua region today. Ground reports said large peaceful demonstrations have been...

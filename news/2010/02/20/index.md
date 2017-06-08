@@ -22,7 +22,7 @@ _Context: Mi-28, Russia, Turkey, Venezuela_
 At least 32 killed in floods and mudslides triggered by torrential rain in Madeira.
 
 ### [The death toll from a minaret collapse in Morocco rises to 41. ](/news/2010/02/20/the-death-toll-from-a-minaret-collapse-in-morocco-rises-to-41.md)
-_Context: Moroccan, a minaret collapse_
+_Context: Morocco, a minaret collapse_
 
 ### [The Chinese military and several schools deny involvement in cyber attacks on Google, following a ''New York Times'' report cited investigators linking Lanxiang Vocational School and Shanghai Jiaotong University to the attacks. ](/news/2010/02/20/the-chinese-military-and-several-schools-deny-involvement-in-cyber-attacks-on-google-following-a-new-york-times-report-cited-investigat.md)
 _Context: Google, People's Republic of China, Shanghai Jiaotong University, The New York Times, cyber attacks, military_

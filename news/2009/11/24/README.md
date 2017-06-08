@@ -1,7 +1,7 @@
 ## [2009-11-24](/news/2009/11/24/index.md)
 
 ### [ An appeal court in Casablanca, Morocco, upholds a three year jail term against a human rights activist, Chahib Khayari, for "offending the authorities" after accusing top officials of being involved in drug networks. ](/news/2009/11/24/an-appeal-court-in-casablanca-morocco-upholds-a-three-year-jail-term-against-a-human-rights-activist-chahib-khayari-for-offending-the.md)
-_Context: Casablanca, Chahib Khayari, Moroccan_
+_Context: Casablanca, Chahib Khayari, Morocco_
 
 ### [ Two French charity workers are kidnapped in the Central African Republic, in the latest in a series of kidnappings. ](/news/2009/11/24/two-french-charity-workers-are-kidnapped-in-the-central-african-republic-in-the-latest-in-a-series-of-kidnappings.md)
 _Context: Central-African, France_

@@ -25,7 +25,7 @@ _Context: American Airlines, EST, United States, computer system, glitch, ground
 A 7.8-magnitude earthquake struck near Iran’s border with Pakistan, and it was felt as far away as India and the United Arab Emirates.
 
 ### [A United States military Sikorsky CH-53 Sea Stallion helicopter crashes near South Korea's border with North Korea, with no reported casualties. ](/news/2013/04/16/a-united-states-military-sikorsky-ch-53-sea-stallion-helicopter-crashes-near-south-korea-s-border-with-north-korea-with-no-reported-casualt.md)
-_Context: Korean Demilitarized Zone, North Korea, Sikorsky CH-53 Sea Stallion, South Korea, United States, United States_
+_Context: Korean Demilitarized Zone, North Korea, Sikorsky CH-53 Sea Stallion, South Korea, United States, United States military_
 
 ### [A gold mine collapses in Kyekyewere, Ghana, killing 16 people. ](/news/2013/04/16/a-gold-mine-collapses-in-kyekyewere-ghana-killing-16-people.md)
 _Context: Ghana, Kyekyewere, gold mine_

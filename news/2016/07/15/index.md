@@ -16,7 +16,7 @@ Dietary supplement firm Herbalife has reached a deal with the US Federal Trade C
 Russia is to deploy its advanced long-range surface-to-air missiles S-400 in Crimea, beefing up Russia’s anti-access/area-denial capabilities around the peninsula.
 
 ### [Donald Trump chooses Indiana governor Mike Pence as his vice presidential running mate. ](/news/2016/07/15/donald-trump-chooses-indiana-governor-mike-pence-as-his-vice-presidential-running-mate.md)
-_Context: Indiana, Mike Pence, Republican Party vice presidential candidate selection, 2016, Trump_
+_Context: Donald Trump, Indiana, Mike Pence, Republican Party vice presidential candidate selection, 2016_
 
 ## [Previous Day...](/news/2016/07/14/index.md)
 

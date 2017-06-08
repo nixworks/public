@@ -4,7 +4,7 @@
 Key parts of Tony Blair&#039;s evidence to the Chilcot inquiry into the Iraq War will be held in secret, sources close to the hearings revealed last night.
 
 ### [ British Prime Minister Gordon Brown makes an unannounced visit to Afghanistan to support British forces deployed as part of the International Security Assistance Force and to hold talks with Afghan President Hamid Karzai. ](/news/2009/12/13/british-prime-minister-gordon-brown-makes-an-unannounced-visit-to-afghanistan-to-support-british-forces-deployed-as-part-of-the-internation.md)
-_Context: Afghanistan, Afghanistan President, British military personnel, Gordon Brown, Hamid Karzai, International Security Assistance Force, Prime Minster_
+_Context: Afghanistan, Afghanistan President, British military personnel, Gordon Brown, Hamid Karzai, International Security Assistance Force, prime minister_
 
 ### [ Danish police arrest 200 protesters heading for Copenhagen harbour, on the second day of demonstrations at the United Nations Climate Change Conference. ](/news/2009/12/13/danish-police-arrest-200-protesters-heading-for-copenhagen-harbour-on-the-second-day-of-demonstrations-at-the-united-nations-climate-chang.md)
 News and opinion from The Times &amp; The Sunday Times

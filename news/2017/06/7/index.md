@@ -1,7 +1,10 @@
 ## [2017-06-7](/news/2017/06/7/index.md)
 
-### [Gunmen attacked the Islamic Consultative Assembly and Mausoleum of Ruhollah Khomeini in Tehran, Iran. Eighteen civilians were killed in the attack on the Parliament and one in the attack on the mausoleum. ](/news/2017/06/7/gunmen-attacked-the-islamic-consultative-assembly-and-mausoleum-of-ruhollah-khomeini-in-tehran-iran-eighteen-civilians-were-killed-in-the.md)
+### [Gunmen attack the Islamic Consultative Assembly and Mausoleum of Ruhollah Khomeini in Tehran, Iran. Eighteen civilians are killed in the attack on the Parliament and one in the attack on the mausoleum. ](/news/2017/06/7/gunmen-attack-the-islamic-consultative-assembly-and-mausoleum-of-ruhollah-khomeini-in-tehran-iran-eighteen-civilians-are-killed-in-the-att.md)
 Armed men launched two attacks in Iran on Wednesday morning local time, killing a guard at the Parliament and wounding several people at another location.
+
+### [The Philippines partially lifts a temporary suspension of deployment of overseas workers to Qatar. ](/news/2017/06/7/the-philippines-partially-lifts-a-temporary-suspension-of-deployment-of-overseas-workers-to-qatar.md)
+The Philippine government on Wednesday partially lifted its suspension of deployment of overseas Filipino workers to Qatar, a day after it was implemented. Current top breaking Philippine headlines regarding the nation, world, metro manila, regions and exclusive special investigative reports.
 
 ### [A military aircraft with 120 people onboard crashes into the Andaman Sea off the coast of Myanmar. ](/news/2017/06/7/a-military-aircraft-with-120-people-onboard-crashes-into-the-andaman-sea-off-the-coast-of-myanmar.md)
 Parts of a Burmese military plane have been found in the sea after it disappeared with more than 100 people on board. A spokesperson for the chief of the country’s army said the aircraft went missing during a domestic flight on Wednesday. “Communication was lost suddenly at about 1.35pm (8.05 BST) when it reached about 20 miles west of Dawei town,” read a statement posted on Facebook.

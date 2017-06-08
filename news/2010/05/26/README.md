@@ -52,7 +52,7 @@ _Context: 1st congressional district, Charles Djou, Hawaii, United States House 
 The Atlantis space shuttle touches down at Kennedy Space Center in Florida after what looks to have been its final mission.
 
 ### [Elton John makes his Moroccan debut at the Mawazine festival in Rabat, ignoring calls for him to be banned by Islamists who feared he would offend public morals. ](/news/2010/05/26/elton-john-makes-his-moroccan-debut-at-the-mawazine-festival-in-rabat-ignoring-calls-for-him-to-be-banned-by-islamists-who-feared-he-would.md)
-_Context: Elton John, Mawazine, Moroccan, Rabat_
+_Context: Elton John, Mawazine, Morocco, Rabat_
 
 ### [Virtual band Gorillaz are announced to replace U2 as headliners of the Glastonbury Festival 2010. ](/news/2010/05/26/virtual-band-gorillaz-are-announced-to-replace-u2-as-headliners-of-the-glastonbury-festival-2010.md)
 _Context: Glastonbury Festival 2010, Gorillaz, U2_

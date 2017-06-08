@@ -40,7 +40,7 @@ Parliament passes an austerity plan to slash $40bn off national debt, with 155 M
 _Context: United Kingdom_
 
 ### [The Alderney Gambling Control Commission suspends Full Tilt Poker's gaming license prior to a hearing over an indictment by the United States Department of Justice. ](/news/2011/06/29/the-alderney-gambling-control-commission-suspends-full-tilt-poker-s-gaming-license-prior-to-a-hearing-over-an-indictment-by-the-united-state.md)
-_Context: Alderney Gambling Control Commission, Department of Justice, Full Tilt Poker, indicted_
+_Context: Alderney Gambling Control Commission, Full Tilt Poker, United States Department of Justice, indicted_
 
 ### [Media conglomerate News Corporation sells MySpace to Specific Media. ](/news/2011/06/29/media-conglomerate-news-corporation-sells-myspace-to-specific-media.md)
 News Corporation sells its ailing social networking site MySpace for a fraction of the price it paid for the business six years ago.

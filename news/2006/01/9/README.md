@@ -1,7 +1,7 @@
 ## [2006-01-9](/news/2006/01/9/index.md)
 
 ### [ General Sir Michael Rose, former United Nations commander in Bosnia, has told the BBC that British Prime Minister Tony Blair should be "impeached" over the war in Iraq. ](/news/2006/01/9/general-sir-michael-rose-former-united-nations-commander-in-bosnia-has-told-the-bbc-that-british-prime-minister-tony-blair-should-be-imp.md)
-_Context: BBC, Bosnia and Herzegovina, General, Prime Minster, Sir Michael Rose, Tony Blair, United Nations, War in Iraq, commander, impeached_
+_Context: BBC, Bosnia and Herzegovina, General, Sir Michael Rose, Tony Blair, United Nations, War in Iraq, commander, impeached, prime minister_
 
 ### [ Ahmad Kazemi, the top commander of Iran's Revolutionary Guards ground forces, and ten others have been reportedly killed when their plane crashed in northwestern Iran. ](/news/2006/01/9/ahmad-kazemi-the-top-commander-of-iran-s-revolutionary-guards-ground-forces-and-ten-others-have-been-reportedly-killed-when-their-plane-c.md)
 _Context: Ahmad Kazemi, Iran, Islamic Revolutionary Guards Corps_

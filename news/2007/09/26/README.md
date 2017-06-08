@@ -22,7 +22,7 @@ _Context: Larry Fidler, Phil Spector, Superior Court, mistrial_
 _Context: Robert Gates, Secretary of Defense, US$, War in Afghanistan (2001-present), War in Iraq_
 
 ### [ A photo possibly showing missing Madeleine McCann in Morocco is being examined by British experts. ](/news/2007/09/26/a-photo-possibly-showing-missing-madeleine-mccann-in-morocco-is-being-examined-by-british-experts.md)
-_Context: Madeleine McCann, Moroccan_
+_Context: Madeleine McCann, Morocco_
 
 ### [ The new Prime Minister of Japan Yasuo Fukuda is sworn into office with his Cabinet. ](/news/2007/09/26/the-new-prime-minister-of-japan-yasuo-fukuda-is-sworn-into-office-with-his-cabinet.md)
 _Context: Prime Minister, Yasuo Fukuda, forming a government_

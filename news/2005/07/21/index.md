@@ -25,7 +25,7 @@ _Context: 21 July 2005 London bombings, Oval, Shepherd's Bush, Warren Street, po
 _Context: $, People's Bank of China, yuan_
 
 ### [ In Morocco, authorities  detain five supporters of Western Saharan independence for their alleged part in violent demonstrations last May. ](/news/2005/07/21/in-morocco-authorities-detain-five-supporters-of-western-saharan-independence-for-their-alleged-part-in-violent-demonstrations-last-may.md)
-_Context: Moroccan, Western Sahara_
+_Context: Morocco, Western Sahara_
 
 ### [ Indonesian president Susilo Bambang Yudhoyono orders the army to stop offensive against separatist rebels in Aceh after the acceptance of the new peace deal. ](/news/2005/07/21/indonesian-president-susilo-bambang-yudhoyono-orders-the-army-to-stop-offensive-against-separatist-rebels-in-aceh-after-the-acceptance-of-t.md)
 _Context: Aceh, Susilo Bambang Yudhoyono_

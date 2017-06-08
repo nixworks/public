@@ -4,7 +4,7 @@
 Bobby Jindal, a conservative Republican congressman from the New Orleans suburbs, inherits a state that was suffering well before Hurricane Katrina.
 
 ### [ Riots erupt in the immigrant quarter of Amsterdam for the sixth night in succession after the death of a Moroccan man the previous weekend. ](/news/2007/10/20/riots-erupt-in-the-immigrant-quarter-of-amsterdam-for-the-sixth-night-in-succession-after-the-death-of-a-moroccan-man-the-previous-weekend.md)
-_Context: Amsterdam, Moroccan_
+_Context: Amsterdam, Morocco_
 
 ### [ Hundreds of thousands of left wing Italians march in Rome putting increased pressure on the Prime Minister of Italy Romano Prodi. ](/news/2007/10/20/hundreds-of-thousands-of-left-wing-italians-march-in-rome-putting-increased-pressure-on-the-prime-minister-of-italy-romano-prodi.md)
 Hundreds of thousands of left-wing Italians have marched through Rome, adding to pressure on Prime Minister Romano Prodi&#039;s Government.

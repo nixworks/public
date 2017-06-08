@@ -13,7 +13,7 @@ At least 12 people are killed by a bomb targeting police recruits on a bus in ea
 At least five people are killed after a suicide bomb attack on a restaurant near a local government building in the Somali capital, Mogadishu.
 
 ### [Goldman Sachs agrees to pay $5.06 billion to settle allegations that it sold packages of shoddy mortgages prior to the global financial crisis.. The U.S. Justice Department settlement includes a $2.385 billion civil penalty, and $1.8 billion for distressed borrowers and communities affected by the housing crisis. ](/news/2016/04/11/goldman-sachs-agrees-to-pay-5-06-billion-to-settle-allegations-that-it-sold-packages-of-shoddy-mortgages-prior-to-the-global-financial-cris.md)
-_Context: 2008 financial crisis, Department of Justice, Goldman Sachs, housing crisis_
+_Context: 2008 financial crisis, Goldman Sachs, United States Department of Justice, housing crisis_
 
 ### [A severe heat wave grips Malaysia as much of Southeast Asia struggles with unusually  hot and dry weather created by the El Nino season. Temperatures in Malaysia soared above 37degC, prompting more than 250 schools to close. ](/news/2016/04/11/a-severe-heat-wave-grips-malaysia-as-much-of-southeast-asia-struggles-with-unusually-hot-and-dry-weather-created-by-the-el-nia-o-season-te.md)
 Intense spell of hot and dry weather brought on by El Nino hits food and water supplies across parts of SE Asia.
@@ -52,7 +52,7 @@ Darfur voters are divided on whether or not the referendum is a priority concern
 Issues of changing a certain article of the South Ossetian constitution will be put to referendum, which will make it possible in the future to ask the Russian leadership to incorporate the republic
 
 ### [A committee of Brazil's Chamber of Deputies votes 38-27 to recommend the impeachment of President Dilma Rousseff, who faces charges of breaking budget laws to support her re-election in 2014. ](/news/2016/04/11/a-committee-of-brazil-s-chamber-of-deputies-votes-38-27-to-recommend-the-impeachment-of-president-dilma-rousseff-who-faces-charges-of-break.md)
-_Context: 2015-16 protests in Brazil, Brazil, Brazil's Chamber of Deputies, Dilma, Impeachment process against Dilma Rousseff, President of Brazil, re-election_
+_Context: 2014, 2015-16 protests in Brazil, Brazil, Brazil's Chamber of Deputies, Dilma Rousseff, Impeachment process against Dilma Rousseff, President_
 
 ## [Previous Day...](/news/2016/04/10/index.md)
 

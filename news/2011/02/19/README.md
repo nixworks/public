@@ -16,7 +16,7 @@ Several people are injured and others are arrested as police thwart pro-democrac
 At least two people die after Ivorian troops use gunfire and tear gas on protesters calling for President Gbagbo to step down, witnesses say.
 
 ### [Riots occur in the Moroccan city of Tangier over utility costs. ](/news/2011/02/19/riots-occur-in-the-moroccan-city-of-tangier-over-utility-costs.md)
-_Context: Moroccan, Tangier_
+_Context: Morocco, Tangier_
 
 ### [Israeli-Palestinian conflict:8 Palestinians are injured while on restricted lands when their anti-barrier protests are broken up by Israeli forces using live ammunition and tear gas among other agents to disperse the protesters. ](/news/2011/02/19/israeliapalestinian-conflict-p8-palestinians-are-injured-while-on-restricted-lands-when-their-anti-barrier-protests-are-broken-up-by-israe.md)
 Demonstrators hold signs reading “stop US-supported occupation,&quot; “Veto settlements, vote justice” following US veto of anti-settlement vote.

@@ -64,7 +64,7 @@ _Context: Canada, Constitution Act_
 Governor and lawmakers fail to reach deal.
 
 ### [Morocco votes in a constitutional referendum. ](/news/2011/07/1/morocco-votes-in-a-constitutional-referendum.md)
-_Context: Moroccan, Morocco's constitutional referendum_
+_Context: Morocco, Morocco's constitutional referendum_
 
 ### [The British Labour Party's Iain McKenzie wins the Inverclyde by-election with a majority reduced from 14,416 in 2010 to 5,838. ](/news/2011/07/1/the-british-labour-party-s-iain-mckenzie-wins-the-inverclyde-by-election-with-a-majority-reduced-from-14-416-in-2010-to-5-838.md)
 Labour wins the Inverclyde by-election but its majority is more than halved.

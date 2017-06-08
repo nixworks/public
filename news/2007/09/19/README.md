@@ -1,7 +1,7 @@
 ## [2007-09-19](/news/2007/09/19/index.md)
 
 ### [ Abbas El Fassi, leader of the Istiqlal Party, is appointed Prime Minister of Morocco by King Mohammed VI following the resignation of Driss Jettou and his cabinet.](/news/2007/09/19/abbas-el-fassi-leader-of-the-istiqlal-party-is-appointed-prime-minister-of-morocco-by-king-mohammed-vi-following-the-resignation-of-driss.md)
-_Context: Abbas El Fassi, Driss Jettou, Istiqlal Party, King, King Mohammed VI of Morocco, Moroccan, Prime Minister_
+_Context: Abbas El Fassi, Driss Jettou, Istiqlal Party, King, King Mohammed VI of Morocco, Morocco, Prime Minister_
 
 ### [ France calls for a joint force of United Nations and European Union peacekeepers in parts of Chad and the Central African Republic bordering the Darfur region of Sudan. ](/news/2007/09/19/france-calls-for-a-joint-force-of-united-nations-and-european-union-peacekeepers-in-parts-of-chad-and-the-central-african-republic-borderin.md)
 _Context: Central-African, Chad, Darfur, European Union, France, Sudan, United Nations_

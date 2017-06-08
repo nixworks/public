@@ -37,7 +37,7 @@ _Context: Hillary Clinton, Kim Jong-un, United States Secretary of State, leader
 _Context: Jose Trevino Morales, Lexington, Oklahoma, Los Zetas_
 
 ### [British Prime Minister David Cameron appears before the Leveson Inquiry. The hearing is told of his relationship with former News International Chief Executive Rebekah Brooks, while he says his decision to appoint Andy Coulson as his Director of Communications will haunt him. ](/news/2012/06/14/british-prime-minister-david-cameron-appears-before-the-leveson-inquiry-the-hearing-is-told-of-his-relationship-with-former-news-internatio.md)
-_Context: Andy Coulson, David Cameron, Leveson Inquiry, News International, Prime Minster, Rebekah Brooks_
+_Context: Andy Coulson, David Cameron, Leveson Inquiry, News International, Rebekah Brooks, prime minister_
 
 ### [The UK Supreme Court dismisses a bid by WikiLeaks founder Julian Assange to reopen his appeal against extradition to Sweden over alleged sex crimes. ](/news/2012/06/14/the-uk-supreme-court-dismisses-a-bid-by-wikileaks-founder-julian-assange-to-reopen-his-appeal-against-extradition-to-sweden-over-alleged-sex.md)
 The Supreme Court dismisses a bid by WikiLeaks founder Julian Assange to reopen his appeal against extradition to Sweden over alleged sex crimes.

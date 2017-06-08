@@ -19,7 +19,7 @@ _Context: 2008 season, Formula One, Grand Prix, street circuit_
 _Context: Democratic Party, Democratic Party of Serbia, Serbia_
 
 ### [ Tony Blair formally endorses Gordon Brown as his successor, the next Prime Minister of the United Kingdom. ](/news/2007/05/11/tony-blair-formally-endorses-gordon-brown-as-his-successor-the-next-prime-minister-of-the-united-kingdom.md)
-_Context: Gordon Brown, Prime Minster, Tony Blair_
+_Context: Gordon Brown, Tony Blair, prime minister_
 
 ### [ East Timorese presidential election, 2007: it is announced that Prime Minister Jos Ramos-Horta won the election against Francisco Guterres of Fretilin by 69% to 31%. ](/news/2007/05/11/east-timorese-presidential-election-2007-it-is-announced-that-prime-minister-jose-ramos-horta-won-the-election-against-francisco-guterres.md)
 _Context: 2007, Francisco Guterres, Fretilin, Jose Ramos-Horta, Prime Minister of East Timor_

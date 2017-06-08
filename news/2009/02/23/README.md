@@ -25,7 +25,7 @@ Queensland Premier Anna Bligh has called a snap state election for March 21.
 _Context: Benyam Mohammed, Ethiopia, Guantanamo Bay detention camp, detainees, military base at Guantanamo Bay, national_
 
 ### [ South Korea's Defense Ministry reports that North Korea has medium-range ballistic missiles capable of striking U.S. military bases. ](/news/2009/02/23/south-korea-s-defense-ministry-reports-that-north-korea-has-medium-range-ballistic-missiles-capable-of-striking-u-s-military-bases.md)
-_Context: Defence Ministry, North Korea, South Korea, United States, United States, ballistic missile, medium-range ballistic missile, military installations_
+_Context: Defence Ministry, North Korea, South Korea, United States, United States military, ballistic missile, medium-range ballistic missile, military installations_
 
 ### [ India approves a 1.7-billion plan to launch its first astronauts into outer space by 2015. ](/news/2009/02/23/india-approves-a-ps1-7-billion-plan-to-launch-its-first-astronauts-into-outer-space-by-2015.md)
 _Context: India, PS, astronaut, plan, space_

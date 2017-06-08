@@ -52,7 +52,7 @@ _Context: Osama bin Laden, United States, video_
 _Context: BBC, Institute for Animal Health, Pirbright, biosecurity, foot-and-mouth disease_
 
 ### [ Voters in Morocco go to the polls for the Moroccan parliamentary election, 2007. ](/news/2007/09/7/voters-in-morocco-go-to-the-polls-for-the-moroccan-parliamentary-election-2007.md)
-_Context: Moroccan, parliamentary elections_
+_Context: Morocco, parliamentary elections_
 
 ### [ APEC: The President of Russia Vladimir Putin signs a uranium deal with the Prime Minister of Australia John Howard before meeting with the President of the United States George W. Bush. ](/news/2007/09/7/apec-p-the-president-of-russia-vladimir-putin-signs-a-uranium-deal-with-the-prime-minister-of-australia-john-howard-before-meeting-with-the.md)
 Russian President Vladimir Putinis set to sign a nuclear energy deal with Australia and holdtough talks with U.S. President George W. Bush after arrivingfor the APEC meetings on Friday.

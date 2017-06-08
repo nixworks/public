@@ -7,7 +7,7 @@ _Context: AMISOM, Al-Shabaab, Battle of Kismayo, Kismayo, Somali Civil War, Soma
 A vast and well-preserved labyrinth of storehouses, schools and courtyards in Aleppo was damaged on Saturday as fierce clashes between security forces and insurgents continued.
 
 ### [Three people drown in unseasonal flooding in Morocco. ](/news/2012/09/29/three-people-drown-in-unseasonal-flooding-in-morocco.md)
-_Context: Moroccan_
+_Context: Morocco_
 
 ### [At least ten people die after heavy rains trigger flash floods in Malaga, Almeria and Murcia, southern Spain. ](/news/2012/09/29/at-least-ten-people-die-after-heavy-rains-trigger-flash-floods-in-malaga-almeria-and-murcia-southern-spain.md)
 At least 10 people die after heavy rains trigger flash floods in the southern Spanish regions of Andalucia and Murcia, officials say.

@@ -64,7 +64,7 @@ _Context: Indonesia, Karangetang, Siau, volcanic activity_
 The Japanese city of Hiroshima marks the 65th anniversary of the atomic bomb attack, with the US attending for the first time.
 
 ### [Venezuela's Hugo Chavez promises that his foreign minister will attend the inauguration of Juan Manuel Santos as Colombian president, two weeks after direct relations between the two countries were broken off, thanks to mediation efforts by President of Brazil Luiz Inacio Lula da Silva. ](/news/2010/08/6/venezuela-s-hugo-cha-vez-promises-that-his-foreign-minister-will-attend-the-inauguration-of-juan-manuel-santos-as-colombian-president-two-w.md)
-_Context: Colombia, Colombia-Venezuela relations, Hugo Chavez, Juan Manuel Santos, Lula, President of Brazil, Venezuela_
+_Context: Colombia, Colombia-Venezuela relations, Hugo Chavez, Juan Manuel Santos, Lula, President, Venezuela_
 
 ### [South Africa recalls its ambassador to Rwanda. ](/news/2010/08/6/south-africa-recalls-its-ambassador-to-rwanda.md)
 South Africa recalls its ambassador to Rwanda in a diplomatic row over the shooting of an exiled Rwandan general in Johannesburg.

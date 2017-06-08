@@ -97,7 +97,7 @@ Santa Clara police: Activist Ly Tong arrested in pepper spray attack on singer
 South East Asian politicians reportedly give Burma &quot;an earful&quot; over its planned elections, which critics describe as a sham.
 
 ### [Prime Minister of the United Kingdom David Cameron meets with US President Barack Obama to discuss the Gulf of Mexico oil spill, Afghanistan and the global economy. ](/news/2010/07/20/prime-minister-of-the-united-kingdom-david-cameron-meets-with-us-president-barack-obama-to-discuss-the-gulf-of-mexico-oil-spill-afghanistan.md)
-_Context: Afghanistan, Barack Obama, David Cameron, Deepwater Horizon oil spill, Prime Minster, U.S. President_
+_Context: Afghanistan, Barack Obama, David Cameron, Deepwater Horizon oil spill, U.S. President, prime minister_
 
 ### [The Supreme Court of Guinea confirms there will be a presidential run-off in the country's election. ](/news/2010/07/20/the-supreme-court-of-guinea-confirms-there-will-be-a-presidential-run-off-in-the-country-s-election.md)
 _Context: November's presidential poll, Supreme Court_

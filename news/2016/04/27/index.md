@@ -46,7 +46,7 @@ The Austrian parliament passes a controversial new law restricting asylum rights
 Share this on WhatsApp
 
 ### [United Nations Security Council members are considering a draft resolution that would  restore the UN mission in Western Sahara to full functionality. Last month, Morocco  expelled 75 UN staffers. ](/news/2016/04/27/united-nations-security-council-members-are-considering-a-draft-resolution-that-would-restore-the-un-mission-in-western-sahara-to-full-func.md)
-_Context: MINURSO, Moroccan, United Nations Security Council_
+_Context: MINURSO, Morocco, United Nations Security Council_
 
 ### [Senior Kurdish and Shi'ite Muslim leaders agree to withdraw from  Tuz Khurmato, Iraq, where recent violence has killed more than 10 people. ](/news/2016/04/27/senior-kurdish-and-shi-ite-muslim-leaders-agree-to-withdraw-from-tuz-khurmato-iraq-where-recent-violence-has-killed-more-than-10-people.md)
 _Context: Iraq, Iraqi Civil War, Iraqi Kurdistan, Shi'ite, Tuz Khurmato_

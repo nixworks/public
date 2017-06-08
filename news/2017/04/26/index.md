@@ -31,7 +31,7 @@ A federal judge ruled on Wednesday that ExxonMobil Corp should pay a $19.95 mill
 TONY Abbott has weighed in on Cory Bernardi’s recent expansion of his fledgling political party, after it merged with Family First.
 
 ### [The Moroccan Assembly of Representatives votes 208 to 91 in favor of approving of a coalition cabinet led by Saadeddine Othmani. ](/news/2017/04/26/the-moroccan-assembly-of-representatives-votes-208-to-91-in-favor-of-approving-of-a-coalition-cabinet-led-by-saadeddine-othmani.md)
-_Context: Assembly of Representatives, Moroccan, Saadeddine Othmani, cabinet_
+_Context: Assembly of Representatives, Morocco, Saadeddine Othmani, cabinet_
 
 ### [A speculative study hypothesizes that a species of ''Homo'' may have lived in California 130,000 years ago. ](/news/2017/04/26/a-speculative-study-hypothesizes-that-a-species-of-homo-may-have-lived-in-california-130-000-years-ago.md)
 A new study has dropped a bombshell on archaeology, claiming signs of human activity in the Americas far earlier than thought.

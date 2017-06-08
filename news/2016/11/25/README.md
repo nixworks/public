@@ -46,7 +46,7 @@ Four police forces say they are looking into allegations of historical child sex
 Former Green Party presidential candidate Jill Stein on Thursday launched a bid to seek a vote recount in Wisconsin, the first of three Rust Belt states wo
 
 ### [Brazilian Minister Geddel Vieira Lima resigns following allegations he and President Michel Temer pressured a fellow cabinet minister into approving a real estate project. ](/news/2016/11/25/brazilian-minister-geddel-vieira-lima-resigns-following-allegations-he-and-president-michel-temer-pressured-a-fellow-cabinet-minister-into-a.md)
-_Context: Brazil, Geddel Vieira Lima, Michel Temer, President of Brazil, cabinet_
+_Context: Brazil, Geddel Vieira Lima, Michel Temer, President, cabinet_
 
 ### [Fidel Castro, founder of the Communist Party of Cuba, former Prime Minister and former President of Cuba, dies at the age of 90. ](/news/2016/11/25/fidel-castro-founder-of-the-communist-party-of-cuba-former-prime-minister-and-former-president-of-cuba-dies-at-the-age-of-90.md)
 _Context: Communist Party of Cuba, Cuba, Fidel Castro, President, Prime Minister_

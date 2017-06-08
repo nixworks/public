@@ -16,7 +16,7 @@ Almost 45 people were injured when new clashes broke out between stone-throwing 
 Ben S. Bernanke signaled that the Fed was prepared to take several steps if the economy continued to weaken.
 
 ### [The United States Department of Justice closes an antitrust probe into a proposed merger of United Airlines and Continental Airlines clearing the way for shareholders to vote on the proposal. ](/news/2010/08/27/the-united-states-department-of-justice-closes-an-antitrust-probe-into-a-proposed-merger-of-united-airlines-and-continental-airlines-clearin.md)
-_Context: Continental Airlines, Department of Justice, United Airlines, antitrust_
+_Context: Continental Airlines, United Airlines, United States Department of Justice, antitrust_
 
 ### [As many as 30 children die of lead poisoning in northern Nigeria. ](/news/2010/08/27/as-many-as-30-children-die-of-lead-poisoning-in-northern-nigeria.md)
 As many as 30 children are reportedly dead in northern Nigeria from lead poisoning caused by illegal gold-miners.

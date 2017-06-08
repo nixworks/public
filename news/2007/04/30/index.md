@@ -10,7 +10,7 @@ _Context: Scott v. Harris, United States Supreme Court, unreasonable search or s
 _Context: Hugo Chvez, International Monetary Fund, President, Venezuela, World Bank_
 
 ### [ Morocco and the Polisario Front agree to United Nations sponsored talks about the future of Western Sahara. ](/news/2007/04/30/morocco-and-the-polisario-front-agree-to-united-nations-sponsored-talks-about-the-future-of-western-sahara.md)
-_Context: Moroccan, Polisario Front, United Nations, Western Sahara_
+_Context: Morocco, Polisario Front, United Nations, Western Sahara_
 
 ### [ General Sir Richard Dannatt, the head of the British Army, confirms that Prince Harry will deploy with the Blues and Royals regiment on a six-month tour of duty in Iraq. ](/news/2007/04/30/general-sir-richard-dannatt-the-head-of-the-british-army-confirms-that-prince-harry-will-deploy-with-the-blues-and-royals-regiment-on-a-s.md)
 _Context: Blues and Royals, British Army, General, Iraq, Prince Harry, Richard Dannatt_

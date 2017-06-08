@@ -28,7 +28,7 @@ _Context: Hyundai Asan, North Korea_
 _Context: Chad, Libya, seven agreements_
 
 ### [ Negotiators gather in Austria for informal talks aimed at unblocking a 34-year-old dispute between Morocco and the Western Sahara independence movement. ](/news/2009/08/10/negotiators-gather-in-austria-for-informal-talks-aimed-at-unblocking-a-34-year-old-dispute-between-morocco-and-the-western-sahara-independe.md)
-_Context: Austria, Moroccan, Western Sahara_
+_Context: Austria, Morocco, Western Sahara_
 
 ### [ The head of MI6 John Scarlett denies complicity in the alleged torture of British detainee Binyam Mohamed, as the government rejects calls for an inquiry. ](/news/2009/08/10/the-head-of-mi6-john-scarlett-denies-complicity-in-the-alleged-torture-of-british-detainee-binyam-mohamed-as-the-government-rejects-calls.md)
 An inquiry into allegations of UK complicity in torture has been rejected by the Government, as Sir John Scarlett, head of MI6, said the service was committed to human rights.

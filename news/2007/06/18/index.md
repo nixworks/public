@@ -37,7 +37,7 @@ _Context: Baghdad, Shiite, militia_
 _Context: Australia, Melbourne, central business district_
 
 ### [ New negotiations begin between Morocco and the Polisario. ](/news/2007/06/18/new-negotiations-begin-between-morocco-and-the-polisario.md)
-_Context: Moroccan, Polisario_
+_Context: Morocco, Polisario_
 
 ## [Previous Day...](/news/2007/06/17/index.md)
 

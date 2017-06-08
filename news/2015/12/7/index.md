@@ -37,7 +37,7 @@ _Context: ISIL, Iran's Cyber Police Chief, website_
 Gun rights advocates are frustrated that the justices won&rsquo;t address laws restricting gun ownership.
 
 ### [The United States Department of Justice will investigate the Chicago, Illinois police department.  Long concerned with Chicago police department practices, the investigation is precipitated by the recent release of a video of the shooting death of Laquan McDonald.  The Chicago police are set to release another video showing the police killing of Ronald Johnson in October of 2014. ](/news/2015/12/7/the-united-states-department-of-justice-will-investigate-the-chicago-illinois-police-department-long-concerned-with-chicago-police-depart.md)
-_Context: Chicago, Chicago police, Department of Justice, Illinois, Laquan McDonald_
+_Context: Chicago, Chicago police, Illinois, Laquan McDonald, United States Department of Justice_
 
 ### [United States Homeland Security Secretary Jeh Johnson says the Obama administration will announce a new terror alert system "in the coming days," that will better inform the public about threats to the United States. This will be the third terror alert system put in place since the September 11, 2001, terrorist attacks. ](/news/2015/12/7/united-states-homeland-security-secretary-jeh-johnson-says-the-obama-administration-will-announce-a-new-terror-alert-system-in-the-coming-d.md)
 WASHINGTON -- The Obama administration will announce a new terror alert system &quot;in the coming days,&quot; Homeland Security Secretary Jeh Johnson said Monday. Johnson said the new alert system will better inform the public about threats to the United States,...

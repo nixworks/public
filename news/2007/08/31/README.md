@@ -1,7 +1,7 @@
 ## [2007-08-31](/news/2007/08/31/index.md)
 
 ### [ The British Royal Family, including Prince Charles, Prince Harry and Prince William, and Her Majesty the Queen Elizabeth, along with Prime Minister Gordon Brown and former Prime Minister Tony Blair, and hundreds more, gather for a memorial service for Diana, Princess of Wales, ten years after her death, at Guard's Chapel in London. ](/news/2007/08/31/the-british-royal-family-including-prince-charles-prince-harry-and-prince-william-and-her-majesty-the-queen-elizabeth-along-with-prime.md)
-_Context: British Royal Family, Death of Diana, Princess of Wales, Elizabeth II, Gordon Brown, London, Prime Minster, Prince Charles, Prince Harry, Prince William, Tony Blair, grandmother_
+_Context: British Royal Family, Death of Diana, Princess of Wales, Elizabeth II, Gordon Brown, London, Prince Charles, Prince Harry, Prince William, Tony Blair, grandmother, prime minister_
 
 ### [ The President of French Polynesia Gaston Tong Sang loses a vote of no-confidence and is forced to resign. ](/news/2007/08/31/the-president-of-french-polynesia-gaston-tong-sang-loses-a-vote-of-no-confidence-and-is-forced-to-resign.md)
 _Context: Gaston Tong Sang, President, vote of no confidence_

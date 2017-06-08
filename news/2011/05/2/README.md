@@ -49,7 +49,7 @@ Italian Prime Minister Silvio Berlusconi appears in court, lambasting prosecutor
 Stephen Harper has been re-elected and will head a majority Conservative government for the first time.
 
 ### [President of Brazil Dilma Rousseff is hospitalised with pneumonia in Sao Paulo. ](/news/2011/05/2/president-of-brazil-dilma-rousseff-is-hospitalised-with-pneumonia-in-sapso-paulo.md)
-_Context: Dilma, President of Brazil, Sao Paulo, pneumonia_
+_Context: Dilma Rousseff, President, Sao Paulo, pneumonia_
 
 ### [In Guatemala the country's electoral supreme court calls for general elections to be held on September 11 to elect President and Vice President, Mayors of the 333 municipal corporations, members for a new Congress and members for the Central American Parliament (PARLACEN). A second round of voting for President and Vice-President will be held on November 6 if needed.](/news/2011/05/2/in-guatemala-the-country-s-electoral-supreme-court-calls-for-general-elections-to-be-held-on-september-11-to-elect-president-and-vice-presid.md)
 _Context: Central American Parliament, Guatemala, Guatemala's Congress, Guatemalan President, Vice President, mayor_

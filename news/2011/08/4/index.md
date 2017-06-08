@@ -34,7 +34,7 @@ _Context: Heather Mills, Mirror Group, Paul McCartney, Piers Morgan_
 _Context: Virginia Tech, massacre_
 
 ### [Nelson Jobim resigns as the Minister of Defence in Brazil after making critical remarks about the government of President Dilma Rousseff and fellow Ministers - he is replaced by Celso Amorim. ](/news/2011/08/4/nelson-jobim-resigns-as-the-minister-of-defence-in-brazil-after-making-critical-remarks-about-the-government-of-president-dilma-rousseff-and.md)
-_Context: Brazil, Celso Amorim, Dilma, Minister of Defence, Nelson Jobim, President of Brazil_
+_Context: Brazil, Celso Amorim, Dilma Rousseff, Minister of Defence, Nelson Jobim, President_
 
 ### [The British Government launches a new e-petition website to encourage the public to prompt parliamentary debate on topics they feel are important. Several petitions concern proposals for and against restoring the death penalty, last used in the UK in 1964.](/news/2011/08/4/the-british-government-launches-a-new-e-petition-website-to-encourage-the-public-to-prompt-parliamentary-debate-on-topics-they-feel-are-impo.md)
 An online campaign is calling for the death penalty to be reinstated citing opinion polls which suggest half the population are in favour. But is this what the public really wants?

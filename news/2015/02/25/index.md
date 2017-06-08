@@ -16,7 +16,7 @@ Arrest warrants are out for BNP Chairperson Khaleda Zia and two others in corrup
 If court approves extradition request, justice minister will decide whether to hand over film-maker to US authorities
 
 ### [Morgan Stanley agrees to pay $2.6 billion to settle with the United States Department of Justice over its sale of residential mortgage backed securities. ](/news/2015/02/25/morgan-stanley-agrees-to-pay-2-6-billion-to-settle-with-the-united-states-department-of-justice-over-its-sale-of-residential-mortgage-backe.md)
-_Context: Department of Justice, Morgan Stanley, mortgage_
+_Context: Morgan Stanley, United States Department of Justice, mortgage_
 
 ### [The Austrian Parliament passes a bill, partly aimed at tackling Islamist radicalism, that gives Muslims more legal security but bans foreign funding for mosques and imams. ](/news/2015/02/25/the-austrian-parliament-passes-a-bill-partly-aimed-at-tackling-islamist-radicalism-that-gives-muslims-more-legal-security-but-bans-foreign.md)
 Parliament in Austria passes a controversial new bill that reforms a century-old law on Islam, despite claims it will treat Muslims unequally.

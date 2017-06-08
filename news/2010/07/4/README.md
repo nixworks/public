@@ -19,7 +19,7 @@ Female suicide bomber kills at least four people in western province of Anbar.
 _Context: Gaza Strip, Hamas, Mahmoud al-Zahar_
 
 ### [President of Brazil Luiz Inacio Lula da Silva takes his last tour of Africa as president. ](/news/2010/07/4/president-of-brazil-luiz-ina-cio-lula-da-silva-takes-his-last-tour-of-africa-as-president.md)
-_Context: Africa, Lula, President of Brazil_
+_Context: Africa, Lula, President_
 
 ### [David Petraeus formally takes command of the International Security Assistance Force in Afghanistan. ](/news/2010/07/4/david-petraeus-formally-takes-command-of-the-international-security-assistance-force-in-afghanistan.md)
 American Gen. David Petraeus formally assumes command of the 130,000-strong international force in Afghanistan.

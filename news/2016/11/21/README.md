@@ -37,7 +37,7 @@ _Context: Kaliningrad, Lithuania, NATO, NATO-Russia relations, Poland, Russia, S
 _Context: Philippine criminal law, Rodrigo Duterte_
 
 ### [ Testimony begins in a corruption case against former President of Brazil Luiz Inacio Lula da Silva. ](/news/2016/11/21/testimony-begins-in-a-corruption-case-against-former-president-of-brazil-luiz-ina-cio-lula-da-silva.md)
-_Context: Corruption investigation of Luiz Inacio Lula da Silva, Lula, President of Brazil_
+_Context: Corruption investigation of Luiz Inacio Lula da Silva, Lula, President_
 
 ### [President-elect Donald Trump announces his plans for his first day in office, including quitting the Trans-Pacific Partnership (TPP) and canceling restrictions on United States energy production. ](/news/2016/11/21/president-elect-donald-trump-announces-his-plans-for-his-first-day-in-office-including-quitting-the-trans-pacific-partnership-tpp-and-can.md)
 Donald Trump says the US will quit the Trans-Pacific Partnership trade deal when he takes office.

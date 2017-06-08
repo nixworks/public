@@ -37,7 +37,7 @@ _Context: F. W. de Klerk, Nelson Mandela_
 _Context: Russia, St Petersburg, gay pride_
 
 ### [2013 protests in Brazil: Brazilian president, Dilma Rousseff, experiences a sharp drop in popularity. Only 30 percent of people asked by the Datafolha's opinion poll considered Rousseff's administration "great" or "good". ](/news/2013/06/29/2013-protests-in-brazil-brazilian-president-dilma-rousseff-experiences-a-sharp-drop-in-popularity-only-30-percent-of-people-asked-by-the.md)
-_Context: 2013 protests in Brazil, Datafolha, Dilma, opinion poll, popularity_
+_Context: 2013 protests in Brazil, Datafolha, Dilma Rousseff, opinion poll, popularity_
 
 ## [Previous Day...](/news/2013/06/28/index.md)
 

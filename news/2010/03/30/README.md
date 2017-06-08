@@ -13,7 +13,7 @@ _Context: 6.6 magnitude earthquake, Andaman Islands_
 TWO senior hospital staff and two mortuary workers have been fired in eastern China after the bodies of at least 21 babies and foetuses were found in a river.
 
 ### [The body of Sheikh Ahmed bin Zayed Al Nahyan is found by a team of Moroccan and French divers four days after his aircraft crashed into a lake in Morocco. ](/news/2010/03/30/the-body-of-sheikh-ahmed-bin-zayed-al-nahyan-is-found-by-a-team-of-moroccan-and-french-divers-four-days-after-his-aircraft-crashed-into-a-la.md)
-_Context: Moroccan, Sheikh Ahmed bin Zayed Al Nahyan_
+_Context: Morocco, Sheikh Ahmed bin Zayed Al Nahyan_
 
 ### [The 2010 South American Games are officially closed, with Colombia winning the most gold medals and Brazil just a little over 10 medals behind.](/news/2010/03/30/the-2010-south-american-games-are-officially-closed-with-colombia-winning-the-most-gold-medals-and-brazil-just-a-little-over-10-medals-behi.md)
 _Context: 2010 South American Games, Brazil, Colombia_
