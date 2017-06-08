@@ -6,6 +6,9 @@ _Context: 2017 North Korean missile tests, North Korea, South Korea, THAAD, anti
 ### [Al-Shabaab militants storm a military base in Puntland. The subsequent battle with the Somali military leaves at least 70 people dead. Somali officials called the attack the deadliest in the country in years. ](/news/2017/06/8/al-shabaab-militants-storm-a-military-base-in-puntland-the-subsequent-battle-with-the-somali-military-leaves-at-least-70-people-dead-somal.md)
 Gun battle in military base in Somalia&#39;s semi-autonomous Puntland region kills at least 70 soldiers.
 
+### [Iranian Intelligence Ministry releases the names and other information about the five attackers of the day before. ](/news/2017/06/8/iranian-intelligence-ministry-releases-the-names-and-other-information-about-the-five-attackers-of-the-day-before.md)
+The Iranian Intelligence Ministry has released the names of and other information about the five terrorists who carried out twin attacks in Tehran on Wednesday.
+
 ### [Montana congressman Greg Gianforte apologizes to journalist Ben Jacobs for the alleged body slam incident that occurred on May 24, and donates US$50,000 to the Committee to Protect Journalists. ](/news/2017/06/8/montana-congressman-greg-gianforte-apologizes-to-journalist-ben-jacobs-for-the-alleged-body-slam-incident-that-occurred-on-may-24-and-donat.md)
 _Context: Ben Jacobs, Committee to Protect Journalists, Freedom of the press in the United States, Greg Gianforte, Montana, US$, body slam_
 
@@ -14,6 +17,9 @@ China, Thailand, Indonesia and the Philippines say they will act to stop plastic
 
 ### [An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md)
 _Context: Kiev, Ukraine-United States relations, United States, embassy_
+
+### [A supermarket employee shot and killed three fellow employees and then killed himself in a closed Weis Markets store in Eaton Township  in Northeastern Pennsylvania. One person escaped unharmed. ](/news/2017/06/8/a-supermarket-employee-shot-and-killed-three-fellow-employees-and-then-killed-himself-in-a-closed-weis-markets-store-in-eaton-township-in-n.md)
+Police say Randy Stair was scheduled to work a shift at Weis Market in Pennsylvania when he took two pistol-grip shotguns into work and opened fire
 
 ### [Polls open in the United Kingdom, with Labour leader Jeremy Corbyn and incumbent Theresa May of the Conservatives battling in a tight race, according to final opinion polling, to become prime minister. ](/news/2017/06/8/polls-open-in-the-united-kingdom-with-labour-leader-jeremy-corbyn-and-incumbent-theresa-may-of-the-conservatives-battling-in-a-tight-race.md)
 On the eve of an election Prime Minister Theresa May returned to her core message that only she can deliver a good Brexit deal, moving on from a heated national debate over security after two deadly Islamist attacks.
