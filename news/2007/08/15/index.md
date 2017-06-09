@@ -34,7 +34,7 @@ _Context: Japan, Palestinian National Authority, economic, humanitarian, interna
 _Context: Tamaulipas, Texas, Tropical Storm Erin, tropical depression, tropical storm warnings_
 
 ### [ Mexican authorities deport hundreds of illegal immigrants who got stuck on a closed GWI rail line in Chiapas. ](/news/2007/08/15/mexican-authorities-deport-hundreds-of-illegal-immigrants-who-got-stuck-on-a-closed-gwi-rail-line-in-chiapas.md)
-_Context: Chiapas, GWI, Mexico, illegal immigrants, rail line_
+_Context: Chiapas, GWI, Mexican, illegal immigrants, rail line_
 
 ### [ 2007 South Asian floods: A landslide hits the Dharla village in the Indian state of Himachal Pradesh, killing at least five people. Another 55 are missing. ](/news/2007/08/15/2007-south-asian-floods-a-landslide-hits-the-dharla-village-in-the-indian-state-of-himachal-pradesh-killing-at-least-five-people-another.md)
 _Context: 2007 South Asian floods, Dharla, Himachal Pradesh, India, landslide_

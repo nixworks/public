@@ -49,7 +49,7 @@ Even as the United States proceeds this week to prosecute Omar Khadr, a child so
 _Context: Israel Defense Forces, Nablus, Tulkarm, West Bank_
 
 ### [The Supreme Court of Justice of the Nation rules same-sex marriages in Mexico City have to be recognised across Mexico. ](/news/2010/08/10/the-supreme-court-of-justice-of-the-nation-rules-same-sex-marriages-in-mexico-city-have-to-be-recognised-across-mexico.md)
-_Context: Mexican Supreme Court, Mexico, Mexico City, same-sex marriage_
+_Context: Mexican, Mexican Supreme Court, Mexico City, same-sex marriage_
 
 ### [Saudi Arabia permits the use of Blackberry devices for now, having previously considering banning them as they were unable to intercept and decrypt communications on that platform. ](/news/2010/08/10/saudi-arabia-permits-the-use-of-blackberry-devices-for-now-having-previously-considering-banning-them-as-they-were-unable-to-intercept-and.md)
 _Context: BlackBerry, Saudi Arabia_

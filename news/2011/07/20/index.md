@@ -22,7 +22,7 @@ _Context: Somalia, United Nations, famine, famine_
 _Context: Japan, Tokushima Prefecture, Typhoon Ma-on, tropical storm_
 
 ### [Hurricane Dora strengthens to a Category 4 hurricane as it travels towards Mexico. ](/news/2011/07/20/hurricane-dora-strengthens-to-a-category-4-hurricane-as-it-travels-towards-mexico.md)
-_Context: Hurricane Jova, Mexico, hurricane_
+_Context: Hurricane Jova, Mexican, hurricane_
 
 ### [A 6.1 magnitude earthquake occurs near the Uzbekistan city of Fergana killing 13 people in Uzbekistan and one person in Tajikistan. ](/news/2011/07/20/a-6-1-magnitude-earthquake-occurs-near-the-uzbekistan-city-of-fergana-killing-13-people-in-uzbekistan-and-one-person-in-tajikistan.md)
 A powerful earthquake killed at least 14 people in a heavily populated valley in Central Asia early Wednesday, emergency officials said.

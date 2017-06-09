@@ -1,7 +1,7 @@
 ## [2008-11-4](/news/2008/11/4/index.md)
 
 ### [ Mexican Interior Minister Juan Camilo Mourio dies along with at least 12 others after the airplane he was on crashes into rush-hour Mexico City traffic. ](/news/2008/11/4/mexican-interior-minister-juan-camilo-mourino-dies-along-with-at-least-12-others-after-the-airplane-he-was-on-crashes-into-rush-hour-mexico.md)
-_Context: Interior Minister, Juan Camilo Mourio, Mexico, Mexico City, November 4, 2008, airplane crash_
+_Context: Interior Minister, Juan Camilo Mourio, Mexican, Mexico City, November 4, 2008, airplane crash_
 
 ### [ The Straits Exchange Foundation and the Association for Relations Across the Taiwan Straits sign four agreements for the Three Links across the Taiwan Strait, a major step in normalizing Cross-Strait relations. ](/news/2008/11/4/the-straits-exchange-foundation-and-the-association-for-relations-across-the-taiwan-straits-sign-four-agreements-for-the-three-links-across.md)
 _Context: Association for Relations Across the Taiwan Straits, Cross-Strait relations, Straits Exchange Foundation, Three Links_

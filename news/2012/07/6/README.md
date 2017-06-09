@@ -16,7 +16,7 @@ _Context: Rakhine State, United Nations_
 _Context: Libya_
 
 ### [Associated Press reports that Yahoo! and Facebook have resolved a patent dispute. ](/news/2012/07/6/associated-press-reports-that-yahoo-and-facebook-have-resolved-a-patent-dispute.md)
-_Context: Associated Press, Facebook, Yahoo Inc._
+_Context: Associated Press, Facebook, Yahoo_
 
 ### [The United States Department of Labor monthly jobs report shows that the US economy added 80,000 jobs in June. ](/news/2012/07/6/the-united-states-department-of-labor-monthly-jobs-report-shows-that-the-us-economy-added-80-000-jobs-in-june.md)
 _Context: United States Department of Labor, economy of the United States_

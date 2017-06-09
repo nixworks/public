@@ -10,7 +10,7 @@ _Context: Barack Obama, D, Democratic National Convention, Joe Biden, U.S. presi
 _Context: Malta, Mediterranean Sea, illegal immigrant_
 
 ### [ The Dalai Lama cancels two international trips (Mexico & Dominican Republic) to undergo medical tests due to "exhaustion". ](/news/2008/08/27/the-dalai-lama-cancels-two-international-trips-mexico-dominican-republic-to-undergo-medical-tests-due-to-exhaustion.md)
-_Context: Dalai Lama, Dominican Republic, Mexico_
+_Context: Dalai Lama, Dominican Republic, Mexican_
 
 ### [ 2008 South Ossetia war: David Cameron threw his weight behind international condemnation of Russia with a call for the suspension of European negotiations with the superpower. ](/news/2008/08/27/2008-south-ossetia-war-p-david-cameron-threw-his-weight-behind-international-condemnation-of-russia-with-a-call-for-the-suspension-of-europ.md)
 Ukrainian President Viktor Yushchenko has condemned Russia&#39;s &#39;unacceptable&#39; decision to recognise Georgian rebel regions.

@@ -19,7 +19,7 @@ _Context: Saab Automobile, Swede, bankruptcy_
 _Context: KHL, Lokomotiv Yaroslavl, Yak Service, Yak-42, Yaroslavl, crashes_
 
 ### [Tropical Storm Nate is set to arrive at the Atlantic coast of Mexico tonight or tomorrow morning. ](/news/2011/09/7/tropical-storm-nate-is-set-to-arrive-at-the-atlantic-coast-of-mexico-tonight-or-tomorrow-morning.md)
-_Context: Atlantic Ocean, Mexico, Tropical Storm Nate_
+_Context: Atlantic Ocean, Mexican, Tropical Storm Nate_
 
 ### [Tropical Storm Lee remnants in the northeastern United States:Ten thousand people are ordered to evacuate in Broome County in the US state of New York due to flooding of the Chenango River and  the Susquehanna River. ](/news/2011/09/7/tropical-storm-lee-remnants-in-the-northeastern-united-states-pten-thousand-people-are-ordered-to-evacuate-in-broome-county-in-the-us-state.md)
 Dozens of districts closed schools early due to flooding, power outages and concerns about bus transportation.

@@ -22,7 +22,7 @@ _Context: North Korea, North Korea and weapons of mass destruction, rocket attac
 Myanmar opposition leader Aung San Suu Kyi denied violating her house arrest on Tuesday as the ruling generals tried to justify her trial, which has drawn condemnation from around the world.
 
 ### [ South Africa's economy contracted by 6.4% during the first fiscal quarter of 2009 and thus enters recession. ](/news/2009/05/26/south-africa-s-economy-contracted-by-6-4-during-the-first-fiscal-quarter-of-2009-and-thus-enters-recession.md)
-_Context: 4th quarter of 2007 and the second quarter of 2009, South Africa, South Africa, fiscal year, recession_
+_Context: 4th quarter of 2007 and the second quarter of 2009, Economy of South Africa, South Africa, fiscal year, recession_
 
 ### [ An air raid on a people-smuggling convoy in Sudan in January killed 119 people. ](/news/2009/05/26/an-air-raid-on-a-people-smuggling-convoy-in-sudan-in-january-killed-119-people.md)
 _Context: Sudan, convoy, killed, people smugglers_

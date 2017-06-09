@@ -55,7 +55,7 @@ _Context: Silvio Berlusconi, scarlet fever_
  “We are in a moment in time where older women&#x27;s beauty has been a startling revelation,&quot; said the 56-year-old. 
 
 ### [ Yahoo! discontinues its free web hosting service GeoCities, ten years after purchasing it from David Bohnett and John Rezner. ](/news/2009/10/26/yahoo-discontinues-its-free-web-hosting-service-geocities-ten-years-after-purchasing-it-from-david-bohnett-and-john-rezner.md)
-_Context: David Bohnett, GeoCities, John Rezner, Yahoo Inc., web hosting service_
+_Context: David Bohnett, GeoCities, John Rezner, Yahoo, web hosting service_
 
 ### [ Australian authorities offer a Aus$1 million reward in their search for a man suspected of ordering the murder of a vampire. ](/news/2009/10/26/australian-authorities-offer-a-aus-1-million-reward-in-their-search-for-a-man-suspected-of-ordering-the-murder-of-a-vampire.md)
 _Context: Australia, vampire_

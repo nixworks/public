@@ -4,7 +4,7 @@
 _Context: ARENA, Central American Parliament, El Salvador, Guatemala City, President of El Salvador, Roberto D'Aubuisson, are killed execution-style_
 
 ### [ Between 40,000 to 100,000 Italians march in protest against the extension of Caserma Ederle, a United States Army military base near Vicenza. ](/news/2007/02/19/between-40-000-to-100-000-italians-march-in-protest-against-the-extension-of-caserma-ederle-a-united-states-army-military-base-near-vicenz.md)
-_Context: Caserma Ederle, Italy, Protest, United States Army, Vicenza, military installations_
+_Context: Caserma Ederle, Italy, United States Army, Vicenza, military installations, protest_
 
 ### [ The U.S. moves forward with plans to base a missile shield for National Missile Defense in the Czech Republic and Poland.  In response, Russian officials have claimed they may target the two Eastern European countries.  The Russians also claimed they could pull out of the 1987 Intermediate Range Nuclear Forces Treaty. ](/news/2007/02/19/the-u-s-moves-forward-with-plans-to-base-a-missile-shield-for-national-missile-defense-in-the-czech-republic-and-poland-in-response-rus.md)
 _Context: Czech, INF Treaty, Poland, Russia, U.S., eastern Europe, missile interceptor_

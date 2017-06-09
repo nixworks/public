@@ -22,7 +22,7 @@ A cyclone barrels into the south-east coast of India, killing at least four peop
 President-elect says he sees no reason why the US should continuing abiding by One China policy unless a bargain is reached with Beijing involving trade
 
 ### [Representatives from China and Mexico pledge to deepen ties between their countries as a reaction to Donald Trump's positions on trade. ](/news/2016/12/12/representatives-from-china-and-mexico-pledge-to-deepen-ties-between-their-countries-as-a-reaction-to-donald-trump-s-positions-on-trade.md)
-_Context: China, China-Mexico relations, Donald Trump's positions on trade, Mexico_
+_Context: China, China-Mexico relations, Donald Trump's positions on trade, Mexican_
 
 ### [Cuba and the European Union sign an accord in Brussels to normalize relations, formally ending the Common Position which was adopted by the Council of the European Union in 1996. ](/news/2016/12/12/cuba-and-the-european-union-sign-an-accord-in-brussels-to-normalize-relations-formally-ending-the-common-position-which-was-adopted-by-the.md)
 The European Union and Cuba on Monday signed a deal to normalise ties that had been blocked for decades by human rights concerns under revolutionary icon Fidel Castro. Cuba was the only Latin American country not to have a &quot;dialogue and cooperation&quot; deal with the 28-nation EU covering issues

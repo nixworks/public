@@ -19,7 +19,7 @@ Severe Christmas day weather tore across the deep south of the U.S., spinning of
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [A total of nine unidentified individuals are shot to death in Sinaloa state, Mexico. ](/news/2012/12/26/a-total-of-nine-unidentified-individuals-are-shot-to-death-in-sinaloa-state-mexico.md)
-_Context: Mexico, Sinaloa_
+_Context: Mexican, Sinaloa_
 
 ### [Japan's new Prime Minister Shinzo Abe unveils his cabinet line-up as he begins the task of economic revitalisation. ](/news/2012/12/26/japan-s-new-prime-minister-shinza-abe-unveils-his-cabinet-line-up-as-he-begins-the-task-of-economic-revitalisation.md)
 _Context: Japan, Prime Minister, Shinzo Abe_
@@ -31,7 +31,7 @@ _Context: Nelson Mandela, President of South Africa, Pretoria, South Africa, gal
 _Context: George H. W. Bush, Houston, Texas, The Methodist Hospital, U.S. President, bronchitis_
 
 ### [Hawaii's Democratic Governor Neil Abercrombie appoints Lieutenant Governor Brian Schatz (a former state legislator and nonprofit group executive) to fill the term of the recently-deceased longtime Democratic U.S. Senator Daniel Inouye until 2014, when a special election will be called to fill the slot until 2016. His was one of three names known to have been submitted by the state party's central committee, along with an unnamed person and U.S. Democrat Colleen Hanabusa, whom Inouye had stated as his preferred successor hours before his death. ](/news/2012/12/26/hawaii-s-democratic-governor-neil-abercrombie-appoints-lieutenant-governor-brian-schatz-a-former-state-legislator-and-nonprofit-group-execu.md)
-_Context: Brian Schatz, Colleen Hanabusa, D, Daniel Inouye, Hawaii, Hawaii Governor, Lieutenant Governor, Neil Abercrombie, U.S., United States Senate_
+_Context: Brian Schatz, Colleen Hanabusa, D, Daniel Inouye, Governor, Hawaii, Lieutenant Governor, Neil Abercrombie, U.S., United States Senate_
 
 ### [China officially opens the world's longest high-speed rail route, which links Beijing and Guangzhou. ](/news/2012/12/26/china-officially-opens-the-world-s-longest-high-speed-rail-route-which-links-beijing-and-guangzhou.md)
 _Context: Beijing, China, Guangzhou, bullet train system, high-speed rail, route, world's longest_

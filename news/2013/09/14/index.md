@@ -7,7 +7,7 @@ The Obama administration and Russia reached a deal Saturday to compel Syria to a
 _Context: Moro National Liberation Front, Philippines, Zamboanga City, army_
 
 ### [Authorities in Mexico's Veracruz state evacuate residents in low-lying areas ahead of the arrival of Hurricane Ingrid. ](/news/2013/09/14/authorities-in-mexico-s-veracruz-state-evacuate-residents-in-low-lying-areas-ahead-of-the-arrival-of-hurricane-ingrid.md)
-_Context: Hurricane Ingrid, Mexico, Veracruz_
+_Context: Hurricane Ingrid, Mexican, Veracruz_
 
 ### [Japan's ''Epsilon'' rocket makes its maiden flight, carrying the Hisaki satellite from the Uchinoura Space Centre ](/news/2013/09/14/japan-s-epsilon-rocket-makes-its-maiden-flight-carrying-the-hisaki-satellite-from-the-uchinoura-space-centre.md)
 _Context: Epsilon, Hisaki, Uchinoura Space Centre_

@@ -7,7 +7,7 @@
 
 ### Related:
 
-1. [North Korea test fires missile immediately after South Korea pulls off the THAAD missile system. ](/news/2017/06/8/north-korea-test-fires-missile-immediately-after-south-korea-pulls-off-the-thaad-missile-system.md) _Context: South Korea_
+1. [North Korea test fires several missiles, believed to be anti-ship weapons. The test comes immediately after South Korea suspends further deployment of the THAAD anti-missile system. ](/news/2017/06/8/north-korea-test-fires-several-missiles-believed-to-be-anti-ship-weapons-the-test-comes-immediately-after-south-korea-suspends-further-dep.md) _Context: South Korea_
 2. [South Koreans vote in a presidential election, with Moon Jae-in of the Democratic Party of Korea winning the election. ](/news/2017/05/9/south-koreans-vote-in-a-presidential-election-with-moon-jae-in-of-the-democratic-party-of-korea-winning-the-election.md) _Context: South Korea_
 3. [North Korea launches a Short-Range Ballistic missile near Wonsan towards the Sea of Japan, according to South Korea. The missile reportedly lands in Japan's exclusive economic zone (EEZ) after traveling 450 km. ](/news/2017/05/29/north-korea-launches-a-short-range-ballistic-missile-near-wansan-towards-the-sea-of-japan-according-to-south-korea-the-missile-reportedly.md) _Context: South Korea_
 4. [South Korea reports North Korea fired a Pukguksong-2 intermediate-range ballistic missile that flew 500 km before landing in the Sea of Japan. ](/news/2017/05/21/south-korea-reports-north-korea-fired-a-pukguksong-2-intermediate-range-ballistic-missile-that-flew-500-km-before-landing-in-the-sea-of-japa.md) _Context: South Korea_

@@ -11,7 +11,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ### Related:
 
-1. [A childcare worker in London is reportedly stabbed by three women while on her way to work, suffering non life threatening injuries. ](/news/2017/06/7/a-childcare-worker-in-london-is-reportedly-stabbed-by-three-women-while-on-her-way-to-work-suffering-non-life-threatening-injuries.md) _Context: London_
+1. [A childcare worker in London is reportedly stabbed by three Muslim women while on her way to work, suffering non life threatening injuries. ](/news/2017/06/7/a-childcare-worker-in-london-is-reportedly-stabbed-by-three-muslim-women-while-on-her-way-to-work-suffering-non-life-threatening-injuries.md) _Context: London_
 2. [Robert Bentley, the Governor of Alabama, declares a state of emergency due to forecasts of storms with the threat of tornadoes during the day. The neighboring state of Georgia also faces the threat of severe weather. ](/news/2017/04/4/robert-bentley-the-governor-of-alabama-declares-a-state-of-emergency-due-to-forecasts-of-storms-with-the-threat-of-tornadoes-during-the-da.md) _Context: tornado_
 3. [The death tolls from tornadoes and floods in the midwestern and southern United States rises to ten with two people missing. ](/news/2017/04/30/the-death-tolls-from-tornadoes-and-floods-in-the-midwestern-and-southern-united-states-rises-to-ten-with-two-people-missing.md) _Context: tornado_
 4. [A 27-year-old man carrying several knives in a backpack is arrested at Parliament Square, London, near the site of last month's Westminster attack. ](/news/2017/04/27/a-27-year-old-man-carrying-several-knives-in-a-backpack-is-arrested-at-parliament-square-london-near-the-site-of-last-month-s-westminster.md) _Context: London_

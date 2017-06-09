@@ -1,7 +1,7 @@
 ## [2009-04-19](/news/2009/04/19/index.md)
 
 ### [ Eight corrections officers are killed in an ambush during a prisoner transfer in Nayarit, Mexico. ](/news/2009/04/19/eight-corrections-officers-are-killed-in-an-ambush-during-a-prisoner-transfer-in-nayarit-mexico.md)
-_Context: Mexico, Nayarit, ambush, officer, prisoner transfer_
+_Context: Mexican, Nayarit, ambush, officer, prisoner transfer_
 
 ### [ United States President Barack Obama announces that Central Intelligence Agency personnel who employed enhanced interrogation techniques on terrorism suspects will not be prosecuted. ](/news/2009/04/19/united-states-president-barack-obama-announces-that-central-intelligence-agency-personnel-who-employed-enhanced-interrogation-techniques-on.md)
 _Context: Barack Obama, Central Intelligence Agency, U.S. President, United States, enhanced interrogation techniques, terrorism_

@@ -31,7 +31,7 @@ _Context: 2008 Mumbai attacks, Ajmal Kasab_
 _Context: Google, Vietnam, bauxite_
 
 ### [Foreign journalists based in China and Taiwan say their Yahoo email accounts have been hacked. ](/news/2010/03/31/foreign-journalists-based-in-china-and-taiwan-say-their-yahoo-email-accounts-have-been-hacked.md)
-_Context: People's Republic of China, Taiwan, Yahoo Inc._
+_Context: People's Republic of China, Taiwan, Yahoo_
 
 ### [Lines of "green wall" are built along the desert district in Yanchi county, Ningxia Hui autonomous region to defend against desertification. ](/news/2010/03/31/lines-of-green-wall-are-built-along-the-desert-district-in-yanchi-county-ningxia-hui-autonomous-region-to-defend-against-desertification.md)
 _Context: Ningxia Hui, Yanchi, desertification, green wall_

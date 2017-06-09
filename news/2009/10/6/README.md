@@ -1,7 +1,7 @@
 ## [2009-10-6](/news/2009/10/6/index.md)
 
 ### [ An "industry-wide phishing scheme" targets sites such as Google, Hotmail, Yahoo! and AOL, with passwords posted online and more than a quarter of a million accounts at risk. ](/news/2009/10/6/an-industry-wide-phishing-scheme-targets-sites-such-as-google-hotmail-yahoo-and-aol-with-passwords-posted-online-and-more-than-a-quar.md)
-_Context: AOL, Google, Hotmail, Yahoo Inc., phishing_
+_Context: AOL, Google, Hotmail, Yahoo, phishing_
 
 ### [ Madagascar's political rivals agree on cabinet posts in a unity government; the President is Andry Rajoelina, the Vice-President is Emmanuel Rakotovahiny, and the Prime Minister is Eugene Mangalaza. ](/news/2009/10/6/madagascar-s-political-rivals-agree-on-cabinet-posts-in-a-unity-government-the-president-is-andry-rajoelina-the-vice-president-is-emmanue.md)
 _Context: Andry Rajoelina, Emmanuel Rakotovahiny, Eugene Mangalaza, Madagascar, President, Prime Minister of Madagascar_

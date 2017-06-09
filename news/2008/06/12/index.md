@@ -13,7 +13,7 @@ The secretary general of Zimbabwe&#039;s Opposition, the Movement for Democratic
 _Context: Cedar Rapids, Cedar River_
 
 ### [ David Davis, the Conservative Shadow Home Secretary resigns as the Member of Parliament for Haltemprice and Howden in order to contest the Haltemprice and Howden by-election, 2008 on civil liberties issues. ](/news/2008/06/12/david-davis-the-conservative-shadow-home-secretary-resigns-as-the-member-of-parliament-for-haltemprice-and-howden-in-order-to-contest-the.md)
-_Context: Conservative, David Davis, Haltemprice and Howden, Haltemprice and Howden by-election, MP, Shadow Home Secretary, civil liberties_
+_Context: Conservatives, David Davis, Haltemprice and Howden, Haltemprice and Howden by-election, MP, Shadow Home Secretary, civil liberties_
 
 ### [ The Salmonella outbreak in the United States caused by tainted tomatoes continues to worsen with 228 victims in 23 states. ](/news/2008/06/12/the-salmonella-outbreak-in-the-united-states-caused-by-tainted-tomatoes-continues-to-worsen-with-228-victims-in-23-states.md)
 _Context: United States, salmonella, tomato_

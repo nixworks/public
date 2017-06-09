@@ -16,7 +16,7 @@ _Context: 2014 pro-Russian conflict in Ukraine, Petro Poroshenko, Ukrainians_
 _Context: Buddhists, Muslims, Sri Lanka, Violent riots, Welipitiya, mosques_
 
 ### [The Al-Shabaab militant group launches a second attack near the Kenyan town of Mpeketoni killing another ten people. ](/news/2014/06/16/the-al-shabaab-militant-group-launches-a-second-attack-near-the-kenyan-town-of-mpeketoni-killing-another-ten-people.md)
-_Context: Kenya, Mpeketoni, al-Shabaab_
+_Context: Al-Shabaab, Kenya, Mpeketoni_
 
 ### [June 16-18 Tornado Outbreak begins. Twin EF4 tornadoes devastate northeast Nebraska. A town particularly hit hard being Pilger, NE where a young girl is killed. At night several other tornadoes touch down and one of them, an EF3, tears through the southwest portions of Madison, Wisconsin. ](/news/2014/06/16/june-16-18-tornado-outbreak-begins-twin-ef4-tornadoes-devastate-northeast-nebraska-a-town-particularly-hit-hard-being-pilger-ne-where-a-y.md)
 June 16, 17 and 18 will be remembered for their tornadoes in the years to come. The month may still have more activity to send us as well.

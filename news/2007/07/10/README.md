@@ -4,7 +4,7 @@
 _Context: Brazil, Luiz Incio Lula da Silva, President, US$, nuclear submarine_
 
 ### [ Mexico's Interior Ministry increases security on strategic installations following attacks on pipelines. The People's Revolutionary Army (EPR) has claimed responsibility. ](/news/2007/07/10/mexico-s-interior-ministry-increases-security-on-strategic-installations-following-attacks-on-pipelines-the-people-s-revolutionary-army-e.md)
-_Context: Mexico, People's Revolutionary Army, Secretary of the Interior, pipeline_
+_Context: Mexican, People's Revolutionary Army, Secretary of the Interior, pipeline_
 
 ### [ The Gadhafi Foundation announces a deal has been reached with families of more than 400 children infected with HIV in the case of five Bulgarian nurses and a Palestinian doctor. ](/news/2007/07/10/the-gadhafi-foundation-announces-a-deal-has-been-reached-with-families-of-more-than-400-children-infected-with-hiv-in-the-case-of-five-bulg.md)
 _Context: Bulgaria, HIV, Muammar al-Gaddafi, Palestinian_

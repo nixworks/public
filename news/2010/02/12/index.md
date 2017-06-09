@@ -16,7 +16,7 @@ _Context: Ingushetia, Russia_
 _Context: Africa Cup of Nations, Court of Arbitration for Sport, Togo, Togo national football team attack_
 
 ### [Mexican President Felipe Caldern's visit to a community centre in Ciudad Jurez where 13 teenagers and two adults were shot dead at a school party on 31 January is disrupted by murders, riot police and dozens of protesters. ](/news/2010/02/12/mexican-president-felipe-calderon-s-visit-to-a-community-centre-in-ciudad-juarez-where-13-teenagers-and-two-adults-were-shot-dead-at-a-schoo.md)
-_Context: Felipe Caldern, Juarez, Mexico, President_
+_Context: Felipe Caldern, Juarez, Mexican, President_
 
 ### [A shooting at the University of Alabama in Huntsville, United States, leaves at least three persons dead. ](/news/2010/02/12/a-shooting-at-the-university-of-alabama-in-huntsville-united-states-leaves-at-least-three-persons-dead.md)
 _Context: United States, University of Alabama in Huntsville, shooting_

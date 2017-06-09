@@ -1,7 +1,7 @@
 ## [2006-05-3](/news/2006/05/3/index.md)
 
 ### [ Villagers from the People's Front in Defense of Land in San Salvador Atenco, Mexico, blockade the highway to Texcoco, in support of local flower vendors. '''Massive violence''' from State Polices ensues.](/news/2006/05/3/villagers-from-the-people-s-front-in-defense-of-land-in-san-salvador-atenco-mexico-blockade-the-highway-to-texcoco-in-support-of-local-f.md)
-_Context: Mexico, People's Front in Defense of Land, San Salvador Atenco, Texcoco, Violence continues during the police raids_
+_Context: Mexican, People's Front in Defense of Land, San Salvador Atenco, Texcoco, Violence continues during the police raids_
 
 ### [ German hostages Ren Brunlich and Thomas Nitzschke returned home to Germany. They landed safe on a governmental aircraft at 2:24 pm in Berlin-Tegel. ](/news/2006/05/3/german-hostages-rene-braunlich-and-thomas-nitzschke-returned-home-to-germany-they-landed-safe-on-a-governmental-aircraft-at-2-24-pm-in-ber.md)
 _Context: Berlin-Tegel, German_

@@ -4,7 +4,7 @@
 _Context: Air Force One, Boeing, New York, New York City, United States, VC-25, panic_
 
 ### [ Mexico reports 149 deaths from the outbreak of swine influenza. ](/news/2009/04/27/mexico-reports-149-deaths-from-the-outbreak-of-swine-influenza.md)
-_Context: Mexico, current outbreak, swine flu_
+_Context: Mexican, current outbreak, swine flu_
 
 ### [ General Motors announces that its Pontiac brand will be eliminated by 2010. ](/news/2009/04/27/general-motors-announces-that-its-pontiac-brand-will-be-eliminated-by-2010.md)
 _Context: General Motors, Pontiac, brand_
@@ -16,7 +16,7 @@ _Context: Japan, NEC Corporation, Renesas Technology, pre-merger_
 _Context: Somali pirates, Somalia, Yemen, Yemeni, oil tanker_
 
 ### [ A 5.6-magnitude earthquake strikes near Chilpancingo, Guerrero, Mexico. ](/news/2009/04/27/a-5-6-magnitude-earthquake-strikes-near-chilpancingo-guerrero-mexico.md)
-_Context: Chilpancingo, Guerrero, Mexico, earthquake, magnitude_
+_Context: Chilpancingo, Guerrero, Mexican, earthquake, magnitude_
 
 ### [ The People's Armed Forces invade Madagascar's constitutional court. ](/news/2009/04/27/the-people-s-armed-forces-invade-madagascar-s-constitutional-court.md)
 _Context: Madagascan Army, Madagascar, constitutional court, political crisis_

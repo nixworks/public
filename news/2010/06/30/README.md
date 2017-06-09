@@ -43,7 +43,7 @@ It seems unlikely the Christian lobby will lay out the red carpet and the intern
 Dozens protesting arrest of opposition Islamic party leaders injured in clashes.
 
 ### [A 6.2-magnitude earthquake occurs in southern Mexico near the city of Pinotepa Nacional, shaking buildings as far away as Mexico City but not causing serious damage or casualties. ](/news/2010/06/30/a-6-2-magnitude-earthquake-occurs-in-southern-mexico-near-the-city-of-pinotepa-nacional-shaking-buildings-as-far-away-as-mexico-city-but-no.md)
-_Context: 6.2-magnitude earthquake, Mexico, Mexico City, Pinotepa Nacional_
+_Context: 6.2-magnitude earthquake, Mexican, Mexico City, Pinotepa Nacional_
 
 ### [An unfinished secret tomb is found in Egypt. ](/news/2010/06/30/an-unfinished-secret-tomb-is-found-in-egypt.md)
 _Context: Egypt_

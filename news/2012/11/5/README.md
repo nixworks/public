@@ -16,7 +16,7 @@ The US and Japan begin joint military exercises, amid simmering tensions with Ch
 _Context: Asia-Europe Meeting, China, Choummaly Sayasone, Laos, Vientiane, Wen Jiabao_
 
 ### [British Prime Minister David Cameron orders a fresh investigation into allegations of sexual abuse involving a senior Conservative politician from the Thatcher era. The allegations concern sexual abuse at children's homes in Wales during the 1970s and 1980s. ](/news/2012/11/5/british-prime-minister-david-cameron-orders-a-fresh-investigation-into-allegations-of-sexual-abuse-involving-a-senior-conservative-politicia.md)
-_Context: British Prime Minister, Conservative, David Cameron_
+_Context: British Prime Minister, Conservatives, David Cameron_
 
 ### [A judge in Australia rules that Standard & Poor's misled investors in its rating of two pre-crisis issues of structured debt. ](/news/2012/11/5/a-judge-in-australia-rules-that-standard-poor-s-misled-investors-in-its-rating-of-two-pre-crisis-issues-of-structured-debt.md)
 _Context: Australia, Standard & Poor's, structured debt_

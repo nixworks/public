@@ -22,7 +22,7 @@ The Israeli embassy in Japan donates more than 300 Anne Frank-related books to p
 _Context: Stockholm, Swedish Public Employment Service_
 
 ### [Yahoo webcams may have been hijacked by the GCHQ according to leaks in ''The Guardian''. ](/news/2014/02/27/yahoo-webcams-may-have-been-hijacked-by-the-gchq-according-to-leaks-in-the-guardian.md)
-_Context: GCHQ, The Guardian, Yahoo Inc._
+_Context: GCHQ, The Guardian, Yahoo_
 
 ### [Angela Merkel, Chancellor of Germany, speaks to both houses of the Parliament of Great Britain and urges Britain's continued participation within the EU, but she ruled out German support for any far-reaching reform of the treaties that define it, such as many Britons think their government should demand. ](/news/2014/02/27/angela-merkel-chancellor-of-germany-speaks-to-both-houses-of-the-parliament-of-great-britain-and-urges-britain-s-continued-participation-w.md)
 German Chancellor Angela Merkel told Prime Minister David Cameron she did not support the kind of fundamental reform of the European Union he wanted, but said Britain should stay inside the bloc to help make it more competitive.

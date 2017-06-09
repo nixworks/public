@@ -10,7 +10,7 @@ _Context: North Korea, free market, revaluation in 2009_
 The cabinet says it will admit two Guantanamo prisoners on humanitarian grounds. The Uighurs from the Chinese province of Xinjiang ...
 
 ### [Yahoo! sells HotJobs to Monster.com for US$225million. ](/news/2010/02/4/yahoo-sells-hotjobs-to-monster-com-for-us-225million.md)
-_Context: HotJobs, Monster.com, Yahoo Inc._
+_Context: HotJobs, Monster.com, Yahoo_
 
 ### [Debt-ridden emirate of Dubai of the United Arab Emirates, confirms the discovery of a new oilfield. ](/news/2010/02/4/debt-ridden-emirate-of-dubai-of-the-united-arab-emirates-confirms-the-discovery-of-a-new-oilfield.md)
 _Context: Dubai, United Arab Emirates, oilfield_

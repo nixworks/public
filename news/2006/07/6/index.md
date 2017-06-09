@@ -13,7 +13,7 @@ _Context: 13-day mission, Discovery, International Space Station, Space Shuttle,
 _Context: Great Britain, Internet, TV, opinion poll_
 
 ### [ In Mexico's presidential election, PRD candidate Andrs Manuel Lpez Obrador says he will file a legal challenge against the results of the ongoing official vote count that have him losing to the PAN's Felipe Caldern by 0.57 percentage points. ](/news/2006/07/6/in-mexico-s-presidential-election-prd-candidate-andres-manuel-lopez-obrador-says-he-will-file-a-legal-challenge-against-the-results-of-the.md)
-_Context: Andrs Manuel Lpez Obrador, Felipe Caldern, Mexican general election, Mexico, National Action Party (PAN), Party of the Democratic Revolution_
+_Context: Andrs Manuel Lpez Obrador, Felipe Caldern, Mexican, Mexican general election, National Action Party (PAN), Party of the Democratic Revolution_
 
 ### [ A United States Military AH-64 Apache helicopter made an emergency landing in South Korea. There was no injury or damage to the helicopter. ](/news/2006/07/6/a-united-states-military-ah-64-apache-helicopter-made-an-emergency-landing-in-south-korea-there-was-no-injury-or-damage-to-the-helicopter.md)
 A U.S. military helicopter made an emergency landing in South Korea Thursday, but there was no human or property damage, police said.

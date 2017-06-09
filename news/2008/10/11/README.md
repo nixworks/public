@@ -19,7 +19,7 @@ _Context: North Korea, United States Department of State, state sponsor of terro
 _Context: Chechnya, Russia, earthquake_
 
 ### [ 2008 Pacific hurricane season: Hurricane Norbert reaches Category 3 strength as it nears Baja California in Mexico. ](/news/2008/10/11/2008-pacific-hurricane-season-hurricane-norbert-reaches-category-3-strength-as-it-nears-baja-california-in-mexico.md)
-_Context: 2008 Pacific hurricane season, Baja California, Hurricane Norbert, Mexico, Saffir-Simpson Hurricane Scale_
+_Context: 2008 Pacific hurricane season, Baja California, Hurricane Norbert, Mexican, Saffir-Simpson Hurricane Scale_
 
 ### [ Turkey bombs Kurdish military targets in northern Iraq. ](/news/2008/10/11/turkey-bombs-kurdish-military-targets-in-northern-iraq.md)
 _Context: Iraq, Iraqi Kurdistan, Peshmerga, Turkey_

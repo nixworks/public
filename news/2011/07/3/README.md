@@ -31,7 +31,7 @@ _Context: Nigeria_
 Powerful electrical storms swept across the area Sunday evening, felling trees and driving visitors from the National Mall. Thousands lost power.
 
 ### [A tourist boat sinks in the Sea of Cortez off the coast of Baja California in Mexico with 23 people missing. ](/news/2011/07/3/a-tourist-boat-sinks-in-the-sea-of-cortez-off-the-coast-of-baja-california-in-mexico-with-23-people-missing.md)
-_Context: Baja California, Mexico, Sea of Cortez, sinks_
+_Context: Baja California, Mexican, Sea of Cortez, sinks_
 
 ### [South Korea announces plans to submit a claim to the United Nations to a larger portion of the East China Sea in a move which is likely to be disputed by the People's Republic of China and Japan. ](/news/2011/07/3/south-korea-announces-plans-to-submit-a-claim-to-the-united-nations-to-a-larger-portion-of-the-east-china-sea-in-a-move-which-is-likely-to-b.md)
 _Context: East China Sea, Japan, People's Republic of China, South Korea, United Nations, territorial waters_
@@ -40,7 +40,7 @@ _Context: East China Sea, Japan, People's Republic of China, South Korea, United
 _Context: Swiss Government, Syria, francs_
 
 ### [Voters in Mexico go to the polls for local elections in the states of Mexico, Coahuila, Nayarit, Puebla and Hidalgo. [http://www.reuters.com/article/2011/07/03/us-mexico-elections-idUSTRE7621M120110703 (Reuters)]Opposition PRI sweeps the three gubernatorial elections in the State of Mexico, Coahuila and Nayarit. [http://www.americasquarterly.org/node/2633 (Americas Quarterly)]Eruviel Avila Villegas of the PRI is elected Governor of the State of Mexico, defeating Alejandro Encinas of the PRD by 40 points. [http://www.americasquarterly.org/node/2633 (Americas Quarterly)]Ruben Moreira Valdez of the PRI is elected Governor of Coahuila.Roberto Sandoval Castaneda of the PRI is elected Governor of Nayarit.](/news/2011/07/3/voters-in-mexico-go-to-the-polls-for-local-elections-in-the-states-of-mexico-coahuila-nayarit-puebla-and-hidalgo-http-www-reuters-com.md)
-_Context: Alejandro Encinas, Coahuila, Eruviel Avila Villegas, Governor, Governor of, Governor of the State of Mexico, Hidalgo, Institutional Revolutionary Party, Mexico, Nayarit, Party of the Democratic Revolution, Puebla, Roberto Sandoval Castaneda, Ruben Moreira Valdez, State of Mexico_
+_Context: Alejandro Encinas, Coahuila, Eruviel Avila Villegas, Governor, Governor of, Governor of the State of Mexico, Hidalgo, Institutional Revolutionary Party, Mexican, Nayarit, Party of the Democratic Revolution, Puebla, Roberto Sandoval Castaneda, Ruben Moreira Valdez, State of Mexico_
 
 ### [Thailand votes in its 26th general election with results showing the Pheu Thai Party loyal to former Prime Minister Thaksin Shinawatra winning a majority. Yingluck Shinawatra, the opposition party leader, is expected to be the first female Prime Minister of Thailand. ](/news/2011/07/3/thailand-votes-in-its-26th-general-election-with-results-showing-the-pheu-thai-party-loyal-to-former-prime-minister-thaksin-shinawatra-winni.md)
 Thailand will have its first female prime minister after the Red Shirt-backed opposition won landmark elections.

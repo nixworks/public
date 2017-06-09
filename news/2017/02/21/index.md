@@ -7,7 +7,7 @@ At least six killed in blasts in town of Charsadda as suicide bombers attempt to
 _Context: Breitbart, Milo Yiannopoulos_
 
 ### [Verizon Communications agrees to buy the core business at Yahoo Inc. for $4.48 billion. Completion of this July 2016 deal had been delayed because of two data breaches Yahoo disclosed last year. ](/news/2017/02/21/verizon-communications-agrees-to-buy-the-core-business-at-yahoo-inc-for-4-48-billion-completion-of-this-july-2016-deal-had-been-delayed-b.md)
-_Context: Verizon Communications, Yahoo Inc., two data breaches Yahoo disclosed_
+_Context: Verizon Communications, Yahoo, two data breaches Yahoo disclosed_
 
 ### [The parent company of Burger King announces plans to purchase Popeyes Louisiana Kitchen, operator of the Popeyes chicken restaurant chain in a US$1.8 billion deal. ](/news/2017/02/21/the-parent-company-of-burger-king-announces-plans-to-purchase-popeyes-louisiana-kitchen-operator-of-the-popeyes-chicken-restaurant-chain-in.md)
 Restaurant Brands International said it would expand Popeyes in the U.S. and globally.

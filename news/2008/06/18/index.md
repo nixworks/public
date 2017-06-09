@@ -16,7 +16,7 @@ _Context: China, United States, energy security_
 Lawmakers voted to allow undocumented migrants to be held in detention centers for up to 18 months and banned from European Union territory for five years.
 
 ### [ Mexico reaches an agreement with industry groups to fix the prices of 150 food items as a result of accelerating inflation. ](/news/2008/06/18/mexico-reaches-an-agreement-with-industry-groups-to-fix-the-prices-of-150-food-items-as-a-result-of-accelerating-inflation.md)
-_Context: Mexico_
+_Context: Mexican_
 
 ### [ Sudan and former southern rebels start deploying joint forces in the troubled Abyei region as part of an agreement. ](/news/2008/06/18/sudan-and-former-southern-rebels-start-deploying-joint-forces-in-the-troubled-abyei-region-as-part-of-an-agreement.md)
 _Context: Abyei, Sudan_

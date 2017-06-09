@@ -4,7 +4,7 @@
 (Video) Battleships pound mostly Sunni areas of Latakia after thousands call for Assad&#39;s ouster
 
 ### [Iran confirms the arrest of the second-in-command of the Kurdistan Workers' Party (PKK), Murat Karayilan, by the country's intelligence agency. ](/news/2011/08/14/iran-confirms-the-arrest-of-the-second-in-command-of-the-kurdistan-workers-party-pkk-murat-karaya-lan-by-the-country-s-intelligence-age.md)
-_Context: Iran, Kurdistan Workers' Party, Murat Karayilan, the country's intelligence agency_
+_Context: Iran, Iranian Intelligence Ministry, Kurdistan Workers' Party, Murat Karayilan_
 
 ### [Anti-Muammar Gaddafi rebels make major progress in the 2011 Libyan civil war, advancing into Zawiya, only 50 km west of the capital city, Tripoli. ](/news/2011/08/14/anti-muammar-gaddafi-rebels-make-major-progress-in-the-2011-libyan-civil-war-advancing-into-zawiya-only-50-km-west-of-the-capital-city-tr.md)
 _Context: Libyan Civil War, Muammar Gaddafi, Tripoli, Zawiya_

@@ -10,7 +10,7 @@ _Context: Democratic Republic of the Congo, MONUC_
 _Context: Inter-Services Intelligence, Pakistan_
 
 ### [ Hurricane Dean makes its final landfall near Tecolutla, Veracruz, Mexico, 100 miles north of the city of Veracruz, as a Category 2 storm. The Red Cross reports only one injury and no deaths from Dean's first landfall on the Yucatan Peninsula. ](/news/2007/08/22/hurricane-dean-makes-its-final-landfall-near-tecolutla-veracruz-mexico-100-miles-north-of-the-city-of-veracruz-as-a-category-2-storm-t.md)
-_Context: Hurricane Dean, International Red Cross and Red Crescent Movement, Mexico, Tecolutla, Veracruz, Veracruz, Yucatan Peninsula, landfall_
+_Context: Hurricane Dean, International Red Cross and Red Crescent Movement, Mexican, Tecolutla, Veracruz, Veracruz, Yucatan Peninsula, landfall_
 
 ### [ War in  An American  A suicide bomber kills at least 20 people and wounding 40 more in the town of Baiji. ](/news/2007/08/22/war-in-an-american-a-suicide-bomber-kills-at-least-20-people-and-wounding-40-more-in-the-town-of-baiji.md)
 _Context: (Wikinews), Baiji, Iraq, United States, suicide bomber_

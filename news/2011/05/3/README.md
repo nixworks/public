@@ -43,7 +43,7 @@ The intentional breach of a levee on the Mississippi River is sending 396,000 cu
 TUSCALOOSA, Alabama -- The city says the number of missing people in Tuscaloosa has dropped to 80. The number had ranged as high as 340 on Monday. 
 
 ### [A mine explosion in San Juan de Sabinas Municipality in the Mexican state of Coahuila kills three people, injures one and leaves another 11 trapped. ](/news/2011/05/3/a-mine-explosion-in-san-juan-de-sabinas-municipality-in-the-mexican-state-of-coahuila-kills-three-people-injures-one-and-leaves-another-11.md)
-_Context: Coahuila, Mexico, San Juan de Sabinas Municipality_
+_Context: Coahuila, Mexican, San Juan de Sabinas Municipality_
 
 ### [Israeli Prime Minister Netanyahu calls on Palestinian Authority President Abbas to choose peace with Israel and not Hamas, saying that the Fatah-Hamas unity government deal would jeopardize the already-stalled peace process because Hamas opposes the existence of Israel; Abbas rejects the call as "unacceptable interference". ](/news/2011/05/3/israeli-prime-minister-netanyahu-calls-on-palestinian-authority-president-abbas-to-choose-peace-with-israel-and-not-hamas-saying-that-the-f.md)
 As Palestinian political factions prepared Tuesday to formally sign a political reconciliation agreement in Cairo, Israeli Prime Minister Benjamin Netanyahu called on the Palestinian Authority to pull out of the deal, saying it would jeopardize the already-stalled Middle East peace process.

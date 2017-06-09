@@ -22,7 +22,7 @@ _Context: 2007 general election, Alvaro Colom, Guatemala, Guatemalan President_
 _Context: Android devices, Google, Open Handset Alliance, handheld computing_
 
 ### [ The number of people in southern Mexico displaced by the 2007 Tabasco flood nears a million ](/news/2007/11/5/the-number-of-people-in-southern-mexico-displaced-by-the-2007-tabasco-flood-nears-a-million.md)
-_Context: 2007 Tabasco flood, Mexico_
+_Context: 2007 Tabasco flood, Mexican_
 
 ### [ Kimi Raikkonen wins the Formula One World Championship.](/news/2007/11/5/kimi-raikkonen-wins-the-formula-one-world-championship.md)
 ## [Previous Day...](/news/2007/11/4/index.md)

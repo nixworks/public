@@ -1,7 +1,7 @@
 ## [2010-11-19](/news/2010/11/19/index.md)
 
 ### [Eleven people are killed in clashes between the rival al-Shabaab and Ahlu Sunna Waljama'a groups in central Somalia. ](/news/2010/11/19/eleven-people-are-killed-in-clashes-between-the-rival-al-shabaab-and-ahlu-sunna-waljama-a-groups-in-central-somalia.md)
-_Context: Ahlu Sunna Waljama'a, Somalia, al-Shabaab_
+_Context: Ahlu Sunna Waljama'a, Al-Shabaab, Somalia_
 
 ### [A police officer dies in hospital after a suspected militant attack in Russia's North Caucasus republic of Dagestan. ](/news/2010/11/19/a-police-officer-dies-in-hospital-after-a-suspected-militant-attack-in-russiaas-north-caucasus-republic-of-dagestan.md)
 _Context: Dagestan, North Caucasus, Russia_
@@ -70,7 +70,7 @@ _Context: Thailand, United Front for Democracy Against Dictatorship_
 _Context: Colombo, Mahinda Rajapakse, President of Sri Lanka_
 
 ### [British Conservative Party politician Lord Young resigns as the coalition government's enterprise adviser after claiming that most Britons "have never had it so good" in spite of the recession. ](/news/2010/11/19/british-conservative-party-politician-lord-young-resigns-as-the-coalition-government-s-enterprise-adviser-after-claiming-that-most-britons.md)
-_Context: Conservative, Lord Young, government_
+_Context: Conservatives, Lord Young, government_
 
 ## [Previous Day...](/news/2010/11/18/index.md)
 

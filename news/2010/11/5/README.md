@@ -58,7 +58,7 @@ _Context: Government of the United States, Norway, Oslo, United States, governme
 _Context: Lima, Lori Berenson, Peru, United States_
 
 ### [Mexican drug cartel leader Ezequiel Cardenas Guilln is shot dead by Mexican security forces in Matamoros following a gun fight of several hours. ](/news/2010/11/5/mexican-drug-cartel-leader-ezequiel-cardenas-guillen-is-shot-dead-by-mexican-security-forces-in-matamoros-following-a-gun-fight-of-several-h.md)
-_Context: Ezequiel Cardenas Guilln, Matamoros, Mexico, drug cartel_
+_Context: Ezequiel Cardenas Guilln, Matamoros, Mexican, drug cartel_
 
 ### [Violent protests occur in Oakland, California following Johannes Mehserle receiving two years jail for the shooting of Oscar Grant on the Bay Area Rapid Transit system with Oakland police chief Anthony Batts expecting to make 150 arrests. ](/news/2010/11/5/violent-protests-occur-in-oakland-california-following-johannes-mehserle-receiving-two-years-jail-for-the-shooting-of-oscar-grant-on-the-ba.md)
 Protesters clashed with the police on Friday night after a white former transit police officer was given a two-year sentence for the killing an unarmed black man.

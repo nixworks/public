@@ -22,7 +22,7 @@ _Context: People's Republic of China, Sichuan, Tibet_
 _Context: Jamaica, Jamaican monarchy, Portia Simpson-Miller, Queen Elizabeth II, republic_
 
 ### [Peter MacKay, Canadian Minister of Defence. marries Nazanin Afshin-Jam, an Iranian former beauty queen, in a private ceremony in Mexico. ](/news/2012/01/6/peter-mackay-canadian-minister-of-defence-marries-nazanin-afshin-jam-an-iranian-former-beauty-queen-in-a-private-ceremony-in-mexico.md)
-_Context: Mexico, Nazanin Afshin-Jam, Peter MacKay_
+_Context: Mexican, Nazanin Afshin-Jam, Peter MacKay_
 
 ## [Previous Day...](/news/2012/01/5/index.md)
 

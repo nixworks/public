@@ -25,7 +25,7 @@ _Context: Omar Toure, Senegal_
 _Context: Sri Lankan police, prostitution_
 
 ### [A shootout at a prison in Ciudad Jurez, Mexico, leaves 17 dead. ](/news/2011/07/26/a-shootout-at-a-prison-in-ciudad-juarez-mexico-leaves-17-dead.md)
-_Context: Juarez, Mexico_
+_Context: Juarez, Mexican_
 
 ### [David Cecil, an unemployed truck driver, is charged with hacking into Platform Networks's network. ](/news/2011/07/26/david-cecil-an-unemployed-truck-driver-is-charged-with-hacking-into-platform-networks-s-network.md)
 _Context: Platform Networks, hacking_

@@ -13,7 +13,7 @@
 ### Related:
 
 1. [ Two suspected militants die in a security operation in Casablanca, Morocco. ](/news/2007/04/10/two-suspected-militants-die-in-a-security-operation-in-casablanca-morocco.md) _Context: Casablanca, Morocco_
-2. [The oldest fossil records of Homo sapiens are discovered in Morocco dated at between 300,000 and 350,000 years old. The earliest human fossils had been dated as 200,000 years old. ](/news/2017/06/7/the-oldest-fossil-records-of-homo-sapiens-are-discovered-in-morocco-dated-at-between-300-000-and-350-000-years-old-the-earliest-human-fossi.md) _Context: Morocco_
+2. [The oldest fossil records of ''Homo sapiens'' are discovered in Morocco dated at between 300,000 and 350,000 years old. The earliest ''H. sapiens'' fossils had been dated as 200,000 years old. ](/news/2017/06/7/the-oldest-fossil-records-of-homo-sapiens-are-discovered-in-morocco-dated-at-between-300-000-and-350-000-years-old-the-earliest-h-sa.md) _Context: Morocco_
 3. [The Moroccan Assembly of Representatives votes 208 to 91 in favor of approving of a coalition cabinet led by Saadeddine Othmani. ](/news/2017/04/26/the-moroccan-assembly-of-representatives-votes-208-to-91-in-favor-of-approving-of-a-coalition-cabinet-led-by-saadeddine-othmani.md) _Context: Morocco_
 4. [Abdellatif Midras, a member of the Moroccan Parliament, is shot dead in Casablanca. ](/news/2017/03/8/abdellatif-midras-a-member-of-the-moroccan-parliament-is-shot-dead-in-casablanca.md) _Context: Casablanca_
 5. [Nearly five hundred African migrants swarm the border of Spain from Morocco. ](/news/2017/02/17/nearly-five-hundred-african-migrants-swarm-the-border-of-spain-from-morocco.md) _Context: Morocco_

@@ -58,7 +58,7 @@ Olivine rocks that may have originated deep within the Moon were spied on its su
 Bronislaw Komorowski is declared the winner in a dramatic race for the Polish presidency, securing 53% of the vote.
 
 ### [Local government elections in The Institutional Revolutionary Party (PRI) did not achieve as big a win as exit polls indicated, with the National Action Party (PAN) running ahead in three states that are currently controlled by PRI. ](/news/2010/07/5/local-government-elections-in-the-institutional-revolutionary-party-pri-did-not-achieve-as-big-a-win-as-exit-polls-indicated-with-the-nat.md)
-_Context: Institutional Revolutionary Party, Mexico, National Action Party (PAN)_
+_Context: Institutional Revolutionary Party, Mexican, National Action Party (PAN)_
 
 ### [A local politician and provincial Bayan Muna party leader in Aklan, Fernando Baldomero, is shot dead bringing the total number of political and human rights activists killed in the Philippines since the return of democracy in 1986 to over 1,200. ](/news/2010/07/5/a-local-politician-and-provincial-bayan-muna-party-leader-in-aklan-fernando-baldomero-is-shot-dead-bringing-the-total-number-of-political.md)
 The killing of Fernando Baldomero was the first apparent political killing since President Benigno S. Aquino III took office last week, officials said. 

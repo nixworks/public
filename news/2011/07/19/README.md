@@ -22,7 +22,7 @@ _Context: Kyrgyzstan, Uzbekistan, earthquake_
 _Context: 2011 Pacific typhoon season, Honshu Island, Japan, Typhoon Ma-on_
 
 ### [Tropical Storm Dora becomes a hurricane  with a tropical storm watch issued for southwestern Mexico. ](/news/2011/07/19/tropical-storm-dora-becomes-a-hurricane-with-a-tropical-storm-watch-issued-for-southwestern-mexico.md)
-_Context: Hurricane Jova, Mexico, hurricane_
+_Context: Hurricane Jova, Mexican, hurricane_
 
 ### [ASEAN foreign ministers get together for their annual summit on the island of Bali in Indonesia with concerns over territorial claims on the South China Sea. ](/news/2011/07/19/asean-foreign-ministers-get-together-for-their-annual-summit-on-the-island-of-bali-in-indonesia-with-concerns-over-territorial-claims-on-the.md)
 Indonesian President Susilo Bambang Yudhoyono urges Asian nations to agree on a code of conduct for disputes in the South China Sea, as a regional summit in Bali gets under way.

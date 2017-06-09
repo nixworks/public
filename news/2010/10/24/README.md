@@ -101,7 +101,7 @@ _Context: 2008-2009 Gaza War, Israel_
 Actor Randy Quaid and his wife Evi seek asylum in Canada, claiming they are being persecuted in the US and their lives are danger.
 
 ### [Mexican gunmen burst into a drug rehabilitation centre in eastern Tijuana, killing thirteen people. ](/news/2010/10/24/mexican-gunmen-burst-into-a-drug-rehabilitation-centre-in-eastern-tijuana-killing-thirteen-people.md)
-_Context: Mexico, Tijuana, drug rehabilitation_
+_Context: Mexican, Tijuana, drug rehabilitation_
 
 ### [David Cameron bans Sayeeda Warsi, Baroness Warsi, Britain's first female Muslim cabinet minister, from attending Global Peace and Unity, Europe's largest multicultural gathering. Nick Clegg takes the side of Baroness Warsi. ](/news/2010/10/24/david-cameron-bans-sayeeda-warsi-baroness-warsi-britain-s-first-female-muslim-cabinet-minister-from-attending-global-peace-and-unity-eur.md)
 _Context: David Cameron, Global Peace and Unity, Nick Clegg, Sayeeda Warsi, Baroness Warsi_

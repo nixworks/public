@@ -12,7 +12,7 @@ Morocco will close 1,256 unsafe mosques to avoid a repeat of the collapse of a m
 
 ### Related:
 
-1. [The oldest fossil records of Homo sapiens are discovered in Morocco dated at between 300,000 and 350,000 years old. The earliest human fossils had been dated as 200,000 years old. ](/news/2017/06/7/the-oldest-fossil-records-of-homo-sapiens-are-discovered-in-morocco-dated-at-between-300-000-and-350-000-years-old-the-earliest-human-fossi.md) _Context: Morocco_
+1. [The oldest fossil records of ''Homo sapiens'' are discovered in Morocco dated at between 300,000 and 350,000 years old. The earliest ''H. sapiens'' fossils had been dated as 200,000 years old. ](/news/2017/06/7/the-oldest-fossil-records-of-homo-sapiens-are-discovered-in-morocco-dated-at-between-300-000-and-350-000-years-old-the-earliest-h-sa.md) _Context: Morocco_
 2. [The Moroccan Assembly of Representatives votes 208 to 91 in favor of approving of a coalition cabinet led by Saadeddine Othmani. ](/news/2017/04/26/the-moroccan-assembly-of-representatives-votes-208-to-91-in-favor-of-approving-of-a-coalition-cabinet-led-by-saadeddine-othmani.md) _Context: Morocco_
 3. [A bomb targets a mosque in the city of Parachinar near the border with Afghanistan killing at least 22 people and wounding dozens more. ](/news/2017/03/31/a-bomb-targets-a-mosque-in-the-city-of-parachinar-near-the-border-with-afghanistan-killing-at-least-22-people-and-wounding-dozens-more.md) _Context: mosque_
 4. [Nearly five hundred African migrants swarm the border of Spain from Morocco. ](/news/2017/02/17/nearly-five-hundred-african-migrants-swarm-the-border-of-spain-from-morocco.md) _Context: Morocco_

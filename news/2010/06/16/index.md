@@ -25,7 +25,7 @@ _Context: Bangladesh, Cox's Bazar_
 Flash floods in south-eastern France leave at least 19 people dead and hundreds of homes flooded, officials say.
 
 ### [A shootout in the Mexican tourist town of Taxco leaves 15 dead. ](/news/2010/06/16/a-shootout-in-the-mexican-tourist-town-of-taxco-leaves-15-dead.md)
-_Context: Mexico, Taxco_
+_Context: Mexican, Taxco_
 
 ### [Two separate blasts in eastern Baghdad kill 1 person and wound another 8. ](/news/2010/06/16/two-separate-blasts-in-eastern-baghdad-kill-1-person-and-wound-another-8.md)
 _Context: Baghdad_

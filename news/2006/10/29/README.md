@@ -1,7 +1,7 @@
 ## [2006-10-29](/news/2006/10/29/index.md)
 
 ### [ Mexican federal police seize the center of Oaxaca, which had served as the headquarters for the five-month protest occupation of the city. ](/news/2006/10/29/mexican-federal-police-seize-the-center-of-oaxaca-which-had-served-as-the-headquarters-for-the-five-month-protest-occupation-of-the-city.md)
-_Context: Mexico, Oaxaca_
+_Context: Mexican, Oaxaca_
 
 ### [ President of Brazil Luiz Inacio Lula da Silva wins a second term in a landslide victory with 61 per cent of voters supporting him. ](/news/2006/10/29/president-of-brazil-luiz-ina-cio-lula-da-silva-wins-a-second-term-in-a-landslide-victory-with-61-per-cent-of-voters-supporting-him.md)
 _Context: Lula, President, a landslide victory_

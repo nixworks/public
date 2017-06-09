@@ -19,7 +19,7 @@ _Context: Congress of South African Trade Unions, South Africa, strike, unemploy
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ In Mexico, Subcomandante Marcos of the Zapatistas announces a "new political initiative" after a week-long meeting in the jungle. ](/news/2005/06/27/in-mexico-subcomandante-marcos-of-the-zapatistas-announces-a-new-political-initiative-after-a-week-long-meeting-in-the-jungle.md)
-_Context: Mexico, Subcomandante Marcos, Zapatista_
+_Context: Mexican, Subcomandante Marcos, Zapatista_
 
 ### [ Greek prosecutor launches a preliminary investigation to determine if Greeks fighting for Bosnian Serbs were involved with the Srebrenica massacre. ](/news/2005/06/27/greek-prosecutor-launches-a-preliminary-investigation-to-determine-if-greeks-fighting-for-bosnian-serbs-were-involved-with-the-srebrenica-m.md)
 _Context: Greece, Serb, Srebrenica massacre_

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [A childcare worker in London is reportedly stabbed by three women while on her way to work, suffering non life threatening injuries. ](/news/2017/06/7/a-childcare-worker-in-london-is-reportedly-stabbed-by-three-women-while-on-her-way-to-work-suffering-non-life-threatening-injuries.md) _Context: London_
+1. [A childcare worker in London is reportedly stabbed by three Muslim women while on her way to work, suffering non life threatening injuries. ](/news/2017/06/7/a-childcare-worker-in-london-is-reportedly-stabbed-by-three-muslim-women-while-on-her-way-to-work-suffering-non-life-threatening-injuries.md) _Context: London_
 2. [Buckingham Palace announces that 95-year-old Prince Philip, Duke of Edinburgh, the Prince consort of Queen Elizabeth II, will retire from royal duties in August. ](/news/2017/05/4/buckingham-palace-announces-that-95-year-old-prince-philip-duke-of-edinburgh-the-prince-consort-of-queen-elizabeth-ii-will-retire-from-ro.md) _Context: Buckingham Palace_
 3. [A 27-year-old man carrying several knives in a backpack is arrested at Parliament Square, London, near the site of last month's Westminster attack. ](/news/2017/04/27/a-27-year-old-man-carrying-several-knives-in-a-backpack-is-arrested-at-parliament-square-london-near-the-site-of-last-month-s-westminster.md) _Context: London_
 4. [A vehicle mounts the pavement and runs into pedestrians in Islington, London, injuring 4. The teenage perpetrators are found carrying offensive weapons, but are not assumed to be terrorists. ](/news/2017/03/25/a-vehicle-mounts-the-pavement-and-runs-into-pedestrians-in-islington-london-injuring-4-the-teenage-perpetrators-are-found-carrying-offens.md) _Context: London_

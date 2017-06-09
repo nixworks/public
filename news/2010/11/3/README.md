@@ -46,7 +46,7 @@ An Iranian woman whose sentence of execution by stoning for adultery provoked a 
 San Francisco has become the first major U.S. city to pass a law that cracks down on the popular practice of giving away free toys with unhealthy restaurant meals for children.
 
 ### [The United States Border Patrol finds a sophisticated tunnel between Tijuana in Mexico and Otay Mesa, California, used by drug smugglers. ](/news/2010/11/3/the-united-states-border-patrol-finds-a-sophisticated-tunnel-between-tijuana-in-mexico-and-otay-mesa-california-used-by-drug-smugglers.md)
-_Context: California, Mexico, Otay Mesa, Tijuana, U.S. Border Patrol, drug smuggling_
+_Context: California, Mexican, Otay Mesa, Tijuana, U.S. Border Patrol, drug smuggling_
 
 ### [Constitutional referendum results in Niger show that 90% of voters approve a return to civilian rule from the Supreme Council for the Restoration of Democracy military junta. ](/news/2010/11/3/constitutional-referendum-results-in-niger-show-that-90-of-voters-approve-a-return-to-civilian-rule-from-the-supreme-council-for-the-restor.md)
 Results from a referendum in Niger show more than 90% of voters backed a new constitution designed to return the country to civilian rule.

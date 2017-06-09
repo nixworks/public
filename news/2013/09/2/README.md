@@ -7,7 +7,7 @@ Mexican security forces say they have arrested the drug lord known as &#034;Ugly
 _Context: 1989 Loma Prieta earthquake, San Francisco-Oakland Bay Bridge, new eastern span_
 
 ### [Verizon Communications agrees to acquire Vodafone's stake in Verizon Wireless for $130 billion, the third largest M&A deal ever. ](/news/2013/09/2/verizon-communications-agrees-to-acquire-vodafone-s-stake-in-verizon-wireless-for-130-billion-the-third-largest-m-a-deal-ever.md)
-_Context: United States dollars, Verizon, Verizon Communications, Vodafone Group Plc, pre-merger_
+_Context: United States dollars, Verizon Communications, Verizon Wireless, Vodafone Group Plc, pre-merger_
 
 ## [Previous Day...](/news/2013/09/1/index.md)
 

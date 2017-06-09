@@ -49,7 +49,7 @@ _Context: Chinese human rights, People's Republic of China, United States, Unite
 _Context: Al-Shabaab, Somali Civil War, Somalia, radical Islamists, terrorism_
 
 ### [ The U.S. arrests 750 people in a national crackdown on Mexican drug cartels.  ](/news/2009/02/25/the-u-s-arrests-750-people-in-a-national-crackdown-on-mexican-drug-cartels.md)
-_Context: Mexico, United States, drug cartel_
+_Context: Mexican, United States, drug cartel_
 
 ### [ A Syrian arms dealer is jailed for 30 years for conspiring to sell weapons  to Colombia's Revolutionary Armed Forces. ](/news/2009/02/25/a-syrian-arms-dealer-is-jailed-for-30-years-for-conspiring-to-sell-weapons-to-colombia-s-revolutionary-armed-forces.md)
 _Context: Colombia, Revolutionary Armed Forces of Colombia, Syria, arms sales, conspiracy, weapon_

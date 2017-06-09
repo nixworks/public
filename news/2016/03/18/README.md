@@ -25,7 +25,7 @@ French national, 26, has been on the run since November’s attacks in French ca
 _Context: Censorship in China, China, Chinese President, Hong Kong, Tencent, Xi Jinping_
 
 ### [The FBI's Joint Terrorism Task Force, United States Secret Service and New York City Police Department are investigating a letter containing a suspicious white powder and a threatening note which was sent to the home of Eric Trump, son of Donald Trump, in New York City. The handwritten note within the letter said: "If your father does not drop out of the race, the next envelope won't be a fake." It was signed "X". ](/news/2016/03/18/the-fbi-s-joint-terrorism-task-force-united-states-secret-service-and-new-york-city-police-department-are-investigating-a-letter-containing.md)
-_Context: Donald Trump, Eric Trump, Federal Bureau of Investigation, Joint Terrorism Task Force, New York City, New York City Police Department, United States Secret Service, presidential campaign_
+_Context: Donald Trump, Eric Trump, Federal Bureau of Investigation, Joint Terrorism Task Force, New York City, New York City Police Department, Trump's campaign team, United States Secret Service_
 
 ### [A Florida jury awards Hulk Hogan $115m after the gossip news website Gawker published a sex tape of the retired professional wrestler. Mr Hogan's legal team argued that the New York City-based website violated his privacy and that the video wasn't newsworthy. ](/news/2016/03/18/a-florida-jury-awards-hulk-hogan-115m-after-the-gossip-news-website-gawker-published-a-sex-tape-of-the-retired-professional-wrestler-mr-ho.md)
 A Florida jury awards Hulk Hogan $115m after the gossip news website Gawker published a private sex video of the retired professional wrestler.

@@ -19,7 +19,7 @@ _Context: Afghanistan, Gardez, Poland, Taliban, War in Afghanistan (2001-present
 _Context: Central Bank of Nigeria, Nigeria, convertible, naira, redenomination_
 
 ### [ A tropical storm warning is issued for parts of Texas and Mexico following the formation of a tropical depression in the Gulf of Mexico. ](/news/2007/08/14/a-tropical-storm-warning-is-issued-for-parts-of-texas-and-mexico-following-the-formation-of-a-tropical-depression-in-the-gulf-of-mexico.md)
-_Context: Gulf of Mexico, Mexico, Texas, tropical depression, tropical storm_
+_Context: Gulf of Mexico, Mexican, Texas, tropical depression, tropical storm_
 
 ### [ A Bangladeshi court sentences 15 members of the Opposition Bangladesh Nationalist Party to seven years in jail for extortion and three years for manipulating elections. ](/news/2007/08/14/a-bangladeshi-court-sentences-15-members-of-the-opposition-bangladesh-nationalist-party-to-seven-years-in-jail-for-extortion-and-three-year.md)
 _Context: Bangladesh, Bangladesh Nationalist Party, extortion_

@@ -13,7 +13,7 @@ President Hollande says Algeria crisis justifies Mali intervention as French con
 The latest explosions struck Thursday morning near Dujail.
 
 ### [War in Somalia (2009-present):Militants belonging to Somali group al-Shabaab announce they have executed the French intelligence agent who was the target of the unsuccessful French rescue attempt on January 11. French officials believe the hostage was killed during the mission itself, and the group is using the incident to manipulate the media. ](/news/2013/01/17/war-in-somalia-2009apresent-pmilitants-belonging-to-somali-group-al-shabaab-announce-they-have-executed-the-french-intelligence-agent-wh.md)
-_Context: France, Somalia, War in Somalia (2009-present), al-Shabaab, intelligence agent, rescue attempt_
+_Context: Al-Shabaab, France, Somalia, War in Somalia (2009-present), intelligence agent, rescue attempt_
 
 ### [2013 Jakarta flood: A massive flood hits Jakarta, Indonesia, with the Indonesian Army deploying rubber boats in the financial district to rescue people trapped in this flood. Four people were killed and over 2,000 evacuated. ](/news/2013/01/17/2013-jakarta-flood-a-massive-flood-hits-jakarta-indonesia-with-the-indonesian-army-deploying-rubber-boats-in-the-financial-district-to-re.md)
 At least four people die and thousands are evacuated as flooding hits parts of the Indonesian capital, Jakarta, shutting down offices and traffic.
@@ -22,7 +22,7 @@ At least four people die and thousands are evacuated as flooding hits parts of t
 A fire on a Gatwick Express train prompts the evacuation of London Victoria station at the start of the rush hour.
 
 ### [Eight people, three of them children, are killed when a small plane crashed in the state of Chiapas, Mexico. ](/news/2013/01/17/eight-people-three-of-them-children-are-killed-when-a-small-plane-crashed-in-the-state-of-chiapas-mexico.md)
-_Context: Chiapas, Mexico_
+_Context: Chiapas, Mexican_
 
 ### [Russian dissident Alexandre Dolmatov commits suicide in Rotterdam.](/news/2013/01/17/russian-dissident-alexandre-dolmatov-commits-suicide-in-rotterdam.md)
 ### [Tens of thousands of Kurds pour into the streets of Diyarbakir, Turkey, for the funeral of Sakine Cansiz, the co-founder of the outlawed Kurdistan Workers' Party, who was killed in Paris, France, on January 9. ](/news/2013/01/17/tens-of-thousands-of-kurds-pour-into-the-streets-of-diyarbakir-turkey-for-the-funeral-of-sakine-cansa-z-the-co-founder-of-the-outlawed-ku.md)

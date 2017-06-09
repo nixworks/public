@@ -70,7 +70,7 @@ Ukrainian opposition leader Yulia Tymoshenko has been charged with misusing stat
 Police in Belarus beat and arrest scores of protesters and several presidential candidates, drawing international condemnation.
 
 ### [Mexican politician Diego Fernandez de Cevallos is released by his kidnappers seven months after being abducted. ](/news/2010/12/20/mexican-politician-diego-fernandez-de-cevallos-is-released-by-his-kidnappers-seven-months-after-being-abducted.md)
-_Context: Diego Fernandez de Cevallos, Mexico_
+_Context: Diego Fernandez de Cevallos, Mexican_
 
 ### [1,200 new species and varieties of sea creatures discovered during the first world survey of marine life are presented at a conference in Jerusalem, Israel. ](/news/2010/12/20/1-200-new-species-and-varieties-of-sea-creatures-discovered-during-the-first-world-survey-of-marine-life-are-presented-at-a-conference-in-je.md)
 First world &quot;census&quot; of marine life to take place in Jerusalem, with 3,000 scientists from 80 countries participating.

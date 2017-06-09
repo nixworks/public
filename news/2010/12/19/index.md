@@ -4,7 +4,7 @@
 _Context: Sri Lanka, United Nations_
 
 ### [Two rebel groups in Somalia&ndash;al-Shabaab and the Islamic Party&ndash;announce plans to merge to try to topple the UN-backed Transitional Federal Government. ](/news/2010/12/19/two-rebel-groups-in-somalia-ndash-al-shabaab-and-the-islamic-party-ndash-announce-plans-to-merge-to-try-to-topple-the-un-backed-transitional.md)
-_Context: Somalia, Transitional Federal Government, United Nations, al-Shabaab_
+_Context: Al-Shabaab, Somalia, Transitional Federal Government, United Nations_
 
 ### [Stars appeared at the red carpet closing ceremony of the 7th Dubai International Film Festival. ](/news/2010/12/19/stars-appeared-at-the-red-carpet-closing-ceremony-of-the-7th-dubai-international-film-festival.md)
 _Context: Dubai International Film Festival_
@@ -31,7 +31,7 @@ _Context: Italy_
 Severe disruption caused by freezing weather continues, as Heathrow cancels hundreds of flights and Eurostar queues spill onto the streets.
 
 ### [The Guatemalan military declares a state of siege in the department of Alta Verapaz to reclaim control of cities controlled by the Los Zetas Mexican drug gang. ](/news/2010/12/19/the-guatemalan-military-declares-a-state-of-siege-in-the-department-of-alta-verapaz-to-reclaim-control-of-cities-controlled-by-the-los-zetas.md)
-_Context: Alta Verapaz, Guatemala, Guatemalan Military, Los Zetas, Mexico, state of siege_
+_Context: Alta Verapaz, Guatemala, Guatemalan Military, Los Zetas, Mexican, state of siege_
 
 ### [Approximately 107 people are charged with possessing offensive child pornography in Austria. ](/news/2010/12/19/approximately-107-people-are-charged-with-possessing-offensive-child-pornography-in-austria.md)
 More than 100 people are charged with child sex abuse offences in Austria after police seize material from computers across the country.

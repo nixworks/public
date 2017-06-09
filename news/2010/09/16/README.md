@@ -31,7 +31,7 @@ _Context: 2010 Canterbury earthquake, Christchurch, New Zealand, state of emerge
 _Context: Flushing, Macroburst, New York City_
 
 ### [Hurricane Karl becomes a Category 2 hurricane as it heads across Mexico's offshore oil wells in the Gulf of Mexico. ](/news/2010/09/16/hurricane-karl-becomes-a-category-2-hurricane-as-it-heads-across-mexico-s-offshore-oil-wells-in-the-gulf-of-mexico.md)
-_Context: 2010 Atlantic hurricane season, Gulf of Mexico, Mexico, hurricane_
+_Context: 2010 Atlantic hurricane season, Gulf of Mexico, Mexican, hurricane_
 
 ### [Iranian state television allegedly airs an interview with Sakineh Mohammadi Ashtiani claiming that she has not been tortured. ](/news/2010/09/16/iranian-state-television-allegedly-airs-an-interview-with-sakineh-mohammadi-ashtiani-claiming-that-she-has-not-been-tortured.md)
 Iranian TV airs what it says is an interview with Sakineh Mohammadi Ashtiani, who faces being stoned to death, in which she denies being lashed for not wearing the veil.

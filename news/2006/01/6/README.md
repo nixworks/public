@@ -10,7 +10,7 @@ _Context: 2005 Kashmir earthquake, Muzaffarabad, SOS Children, bronchitis, gastr
 _Context: Gang of Four, Yao Wenyuan_
 
 ### [ Zapatistas, led by Subcomandante Marcos, begin a six-month nationwide tour of Mexico to unite social movements for positive change. The tour coincides with presidential election campaigns. Marcos claims that the all the party candidates are liars and criminals who do not care about the Mexican people. ](/news/2006/01/6/zapatistas-led-by-subcomandante-marcos-begin-a-six-month-nationwide-tour-of-mexico-to-unite-social-movements-for-positive-change-the-tou.md)
-_Context: Mexico, Subcomandante Marcos, Zapatista, presidential election_
+_Context: Mexican, Subcomandante Marcos, Zapatista, presidential election_
 
 ### [ A third child from the same family in eastern Turkey dies of H5N1 avian influenza. Hulya Kocyigit, 11, was the sister of Mehmet Ali, 14, who died last weekend, and of Fatma, 15, who died on Thursday. She was the third human fatality outside China and South-East Asia. A six-year-old brother is also being treated for the same disease. ](/news/2006/01/6/a-third-child-from-the-same-family-in-eastern-turkey-dies-of-h5n1-avian-influenza-ha1-4lya-koassyiait-11-was-the-sister-of-mehmet-ali-14.md)
 News and opinion from The Times &amp; The Sunday Times

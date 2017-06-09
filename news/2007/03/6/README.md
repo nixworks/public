@@ -13,7 +13,7 @@ _Context: George W. Bush administration, Scooter Libby, United States v. Libby, 
 _Context: Bush Administration, U.S. Congressional, federal prosecutors, firings_
 
 ### [ Heavy security operations begin in Bogota, Colombia, for the visit of U.S. President Bush on March 11. Security forces expect protests on Wednesday. ](/news/2007/03/6/heavy-security-operations-begin-in-bogota-colombia-for-the-visit-of-u-s-president-bush-on-march-11-security-forces-expect-protests-on.md)
-_Context: Bogota, Colombia, George W. Bush, March 11, Protest, U.S. President_
+_Context: Bogota, Colombia, George W. Bush, March 11, U.S. President, protest_
 
 ### [ Japanese news agency Kyodo News reports that Empress Michiko is suffering from internal bleeding. ](/news/2007/03/6/japanese-news-agency-kyodo-news-reports-that-empress-michiko-is-suffering-from-internal-bleeding.md)
 _Context: Empress Michiko, Japan, Kyodo News, internal bleeding_

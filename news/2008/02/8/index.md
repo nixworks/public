@@ -4,7 +4,7 @@
 _Context: Albanians, February 17, Kosovo, Serbia_
 
 ### [ A 5.4 M<sub>w</sub> earthquake southeast of Mexicali, Mexico causes 400,000 people to lose power. ](/news/2008/02/8/a-5-4-mw-earthquake-southeast-of-mexicali-mexico-causes-400-000-people-to-lose-power.md)
-_Context: Mexicali, Mexico, earthquake, magnitude_
+_Context: Mexicali, Mexican, earthquake, magnitude_
 
 ### [ The Nebraska Supreme Court rules the electric chair unconstitutional. ](/news/2008/02/8/the-nebraska-supreme-court-rules-the-electric-chair-unconstitutional.md)
 _Context: Nebraska, Supreme Court, United States Constitution, electric chair_

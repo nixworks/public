@@ -22,7 +22,7 @@ _Context: Department of Civil Defence, Sri Lanka, Wattala_
 _Context: 2008 presidential election, Ghana, John Atta Mills, Nana Akufo-Addo_
 
 ### [ Mexican authorities arrest Army Major Arturo Gonzalez Rodriguez for selling information to the Beltran Leyva drug cartel. ](/news/2008/12/28/mexican-authorities-arrest-army-major-arturo-gonza-lez-rodraguez-for-selling-information-to-the-beltra-n-leyva-drug-cartel.md)
-_Context: Gulf Cartel, Mexican Army, Mexico, drug cartel, major_
+_Context: Gulf Cartel, Mexican, Mexican Army, drug cartel, major_
 
 ### [ Four boats carrying approximately 1,700 illegal Libyan migrants arrive on the Italian island of Lampedusa. ](/news/2008/12/28/four-boats-carrying-approximately-1-700-illegal-libyan-migrants-arrive-on-the-italian-island-of-lampedusa.md)
 _Context: Italy, Lampedusa, Libya, illegal migrants, migrants_

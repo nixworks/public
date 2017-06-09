@@ -1,7 +1,7 @@
 ## [2006-05-4](/news/2006/05/4/index.md)
 
 ### [ Violence continues during the police raids of San Salvador Atenco, Mexico.](/news/2006/05/4/violence-continues-during-the-police-raids-of-san-salvador-atenco-mexico.md)
-_Context: Mexico, San Salvador Atenco, Violence continues during the police raids_
+_Context: Mexican, San Salvador Atenco, Violence continues during the police raids_
 
 ### [ Manasseh Sogavare is elected Prime Minister of the Solomon Islands, following Snyder Rini's brief period in office. Sogavare was previously prime minister from 2000 to 2001. ](/news/2006/05/4/manasseh-sogavare-is-elected-prime-minister-of-the-solomon-islands-following-snyder-rini-s-brief-period-in-office-sogavare-was-previously.md)
 _Context: Manasseh Sogavare, Prime Minister of the Solomon Islands, Snyder Rini_

@@ -55,7 +55,7 @@ _Context: Darfur, GOAL, Ireland, Sudan_
 Thirteen people have been injured, after a train derailed near the southwestern French city of Limoges.
 
 ### [ A 6.0 magnitude earthquake centred in the Sea of Cortez shakes western Mexico. ](/news/2009/07/3/a-6-0-magnitude-earthquake-centred-in-the-sea-of-cortez-shakes-western-mexico.md)
-_Context: Mexico, Sea of Cortez, earthquake_
+_Context: Mexican, Sea of Cortez, earthquake_
 
 ## [Previous Day...](/news/2009/07/2/index.md)
 

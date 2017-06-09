@@ -10,13 +10,13 @@ _Context: People's Republic of China, Russia, demarcating their 4,300-kilometer 
 _Context: International Criminal Tribunal for the former Yugoslavia, Radovan Karadzic, Serbia, fugitive, war crimes_
 
 ### [ The United States Food and Drug Administration finds the same salmonella strain responsible for the 2008 United States salmonellosis outbreak in Mexican-grown jalapeno peppers. ](/news/2008/07/21/the-united-states-food-and-drug-administration-finds-the-same-salmonella-strain-responsible-for-the-2008-united-states-salmonellosis-outbre.md)
-_Context: 2008 United States salmonellosis outbreak, Mexico, United States Food and Drug Administration, jalapeno, salmonella_
+_Context: 2008 United States salmonellosis outbreak, Mexican, United States Food and Drug Administration, jalapeno, salmonella_
 
 ### [ The first terrorism trial of a Guantanamo Bay inmate begins with Salim Ahmed Hamdan, the former driver and bodyguard of Osama bin Laden, pleading not guilty. ](/news/2008/07/21/the-first-terrorism-trial-of-a-guantanamo-bay-inmate-begins-with-salim-ahmed-hamdan-the-former-driver-and-bodyguard-of-osama-bin-laden-pl.md)
 _Context: Guantanamo Bay, Osama bin Laden, Salim Ahmed Hamdan, terrorism_
 
 ### [ Yahoo! reaches a deal with Carl Icahn giving him three seats on its board of directors. ](/news/2008/07/21/yahoo-reaches-a-deal-with-carl-icahn-giving-him-three-seats-on-its-board-of-directors.md)
-_Context: Carl Icahn, Yahoo Inc., board_
+_Context: Carl Icahn, Yahoo, board_
 
 ### [ Zimbabwe: Zimbabwe introduces a new 100-billion-dollar bank note as the annual inflation rate hits 2.2 million percent. ](/news/2008/07/21/zimbabwe-p-zimbabwe-introduces-a-new-100-billion-dollar-bank-note-as-the-annual-inflation-rate-hits-2-2-million-percent.md)
 _Context: Zimbabwe, dollar, inflation_

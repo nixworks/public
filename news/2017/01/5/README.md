@@ -4,7 +4,7 @@
 Car bomb detonates outside court complex in coastal city, killing police officer and court employee
 
 ### [Following a start-of-year hike to the price of gas, widespread riots and looting mostly targeting gas stations, supermarkets and department stores take place in several cities in Mexico. Over 250 people are said to have been arrested so far while blockades to PEMEX installations potentially lead to critical situations in some states. ](/news/2017/01/5/following-a-start-of-year-hike-to-the-price-of-gas-widespread-riots-and-looting-mostly-targeting-gas-stations-supermarkets-and-department.md)
-_Context: Mexico, PEMEX, gas, states_
+_Context: Mexican, PEMEX, gas, states_
 
 ### [Sears Holdings announces that 108 Kmart and 42 Sears stores will close in the United States in 2017, affecting retailers in 40 states. The company also announced it is selling its trademark Craftsman tool brand to Stanley Black & Decker for $900 million. ](/news/2017/01/5/sears-holdings-announces-that-108-kmart-and-42-sears-stores-will-close-in-the-united-states-in-2017-affecting-retailers-in-40-states-the-c.md)
 108 Kmarts and 42 Sears locations in 40 states will close this spring. 

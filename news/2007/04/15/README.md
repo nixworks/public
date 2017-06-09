@@ -7,7 +7,7 @@ _Context: $, Algoma Steel, Canada, Essar Group, India_
 A rare spring northeaster flooded shorelines and rivers, disrupted travel and washed out plans for millions.
 
 ### [ Anti-Putin protesters in St. Petersburg, a part of the Dissenters March coalition, are beaten by Russian police. ](/news/2007/04/15/anti-putin-protesters-in-st-petersburg-a-part-of-the-dissenters-march-coalition-are-beaten-by-russian-police.md)
-_Context: Dissenters March, Protest, Russia, St Petersburg, Vladimir Putin_
+_Context: Dissenters March, Russia, St Petersburg, Vladimir Putin, protest_
 
 ### [ Documents revealed under Freedom of Information legislation reveals that NASA paid $26.6 million to families of the astronauts aboard the Space Shuttle ''Columbia'' when it disintegrated during re-entry in 2003. ](/news/2007/04/15/documents-revealed-under-freedom-of-information-legislation-reveals-that-nasa-paid-26-6-million-to-families-of-the-astronauts-aboard-the-s.md)
 _Context: $, 2003, Freedom of Information legislation, NASA, Space Shuttle ''Columbia'', astronaut, disintegrated during re-entry_

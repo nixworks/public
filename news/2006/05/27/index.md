@@ -1,7 +1,7 @@
 ## [2006-05-27](/news/2006/05/27/index.md)
 
 ### [ Tropical Storm Aletta forms south-southwest of the Mexican port of Acapulco, marking the first storm of the 2006 Pacific hurricane season. ](/news/2006/05/27/tropical-storm-aletta-forms-south-southwest-of-the-mexican-port-of-acapulco-marking-the-first-storm-of-the-2006-pacific-hurricane-season.md)
-_Context: Acapulco, Mexico, Pacific, Tropical Storm Aletta_
+_Context: Acapulco, Mexican, Pacific, Tropical Storm Aletta_
 
 ### [ Myanmar extends the house arrest detention of opposition leader Aung San Suu Kyi for another year, amid continued pressure from the U.N. for her release. ](/news/2006/05/27/myanmar-extends-the-house-arrest-detention-of-opposition-leader-aung-san-suu-kyi-for-another-year-amid-continued-pressure-from-the-u-n-fo.md)
 _Context: Aung San Suu Kyi, Myanmar, United Nations, house arrest_

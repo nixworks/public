@@ -1,7 +1,7 @@
 ## [2007-04-14](/news/2007/04/14/index.md)
 
 ### [ A speeding bus crashes into a tractor-trailer near Ciudad Juarez, Mexico, killing at least 23 people. ](/news/2007/04/14/a-speeding-bus-crashes-into-a-tractor-trailer-near-ciudad-jua-rez-mexico-killing-at-least-23-people.md)
-_Context: Ciudad Juarez, Mexico, bus, tractor trailer_
+_Context: Ciudad Juarez, Mexican, bus, tractor trailer_
 
 ### [ Flash flooding kills at least 35 people in the Trang Province of Thailand. ](/news/2007/04/14/flash-flooding-kills-at-least-35-people-in-the-trang-province-of-thailand.md)
 _Context: Flash flooding, Thailand, Trang Province_

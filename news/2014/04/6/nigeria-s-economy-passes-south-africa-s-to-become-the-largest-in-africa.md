@@ -11,4 +11,5 @@
 
 ### Related:
 
-1. [ South Africa's economy contracted by 6.4% during the first fiscal quarter of 2009 and thus enters recession. ](/news/2009/05/26/south-africa-s-economy-contracted-by-6-4-during-the-first-fiscal-quarter-of-2009-and-thus-enters-recession.md) _Context: South Africa_
+1. [The giant South Africa based cement company, PPC Ltd., presents its first quarter results, dominated by the "impact of a liquidity crisis precipitated by an unexpected S&P debt downgrade." ](/news/2017/06/7/the-giant-south-africa-based-cement-company-ppc-ltd-presents-its-first-quarter-results-dominated-by-the-impact-of-a-liquidity-crisis-pr.md) _Context: Economy of South Africa_
+2. [ South Africa's economy contracted by 6.4% during the first fiscal quarter of 2009 and thus enters recession. ](/news/2009/05/26/south-africa-s-economy-contracted-by-6-4-during-the-first-fiscal-quarter-of-2009-and-thus-enters-recession.md) _Context: Economy of South Africa_

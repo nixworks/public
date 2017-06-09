@@ -37,7 +37,7 @@ Immigration authorities will use powers of prosecutorial discretion in existing 
 A petition calling for Hillsborough disaster Cabinet papers to be released reaches 100,000 signatures - enough for a Commons debate to be considered.
 
 ### [The BBC reports that former ''News of the World'' editor Andy Coulson continued to receive a severance pay package from News International while working as Director of Communications for the Conservative Party. ](/news/2011/08/23/the-bbc-reports-that-former-news-of-the-world-editor-andy-coulson-continued-to-receive-a-severance-pay-package-from-news-international-w.md)
-_Context: Andy Coulson, BBC, Conservative, News International, News of the World, conspiracy to hack mobile phones_
+_Context: Andy Coulson, BBC, Conservatives, News International, News of the World, conspiracy to hack mobile phones_
 
 ### [Hattiesburg Mayor Johnny DuPree is declared the winner in the Democratic Party primary election in Mississippi, becoming the first black candidate to win a major party nomination in a gubernatorial race. ](/news/2011/08/23/hattiesburg-mayor-johnny-dupree-is-declared-the-winner-in-the-democratic-party-primary-election-in-mississippi-becoming-the-first-black-can.md)
 _Context: D, Hattiesburg, Johnny DuPree, Mississippi, major party nomination, primary election_

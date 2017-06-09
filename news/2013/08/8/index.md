@@ -10,7 +10,7 @@ A bomb kills 12 women and two children in eastern Afghanistan as they visit a gr
 _Context: Al Qaida's, Yemen_
 
 ### [African Union troops kill 24 militants in a foiled Al-Shabaab planned attack in southern Somalia city of Afmadow. ](/news/2013/08/8/african-union-troops-kill-24-militants-in-a-foiled-al-shabaab-planned-attack-in-southern-somalia-city-of-afmadow.md)
-_Context: Afmadow, African Union, Somalia, al-Shabaab_
+_Context: Afmadow, African Union, Al-Shabaab, Somalia_
 
 ### [A bus carrying 31 passengers, while crossing the Truc Khe Bridge that was under repair in Cam Lo (Quang Tri, Viet Nam), falls into a river, leaving 17 passengers injured. ](/news/2013/08/8/a-bus-carrying-31-passengers-while-crossing-the-truc-khe-bridge-that-was-under-repair-in-cam-la-quaopsng-tra-viet-nam-falls-into-a-r.md)
 _Context: Cam Lo, Quang Tri, Viet Nam_

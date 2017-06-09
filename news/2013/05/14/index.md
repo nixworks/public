@@ -40,7 +40,7 @@ _Context: British Columbia, Canada, Legislative Assembly, go to the polls_
 _Context: Joseph Estrada, Manila, President of the Philippines_
 
 ### [The British Conservative Party publishes a draft European Union (Referendum) Bill aimed at holding a referendum on Britain's membership of the European Union by 2017.  ](/news/2013/05/14/the-british-conservative-party-publishes-a-draft-european-union-referendum-bill-aimed-at-holding-a-referendum-on-britain-s-membership-of-t.md)
-_Context: Conservative, European Union, United Kingdom withdrawal from the European Union_
+_Context: Conservatives, European Union, United Kingdom withdrawal from the European Union_
 
 ### [Kenyan protestors release dozens of pigs in front of parliament to protest perceived greed. ](/news/2013/05/14/kenyan-protestors-release-dozens-of-pigs-in-front-of-parliament-to-protest-perceived-greed.md)
 _Context: Kenya_

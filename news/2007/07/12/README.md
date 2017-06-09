@@ -10,7 +10,7 @@ _Context: Accra, Ghana, Kotoka International Airport, United Kingdom, cocaine_
 _Context: Barry Bonds, Bay Area Laboratory Co-operative_
 
 ### [ A Mexican federal court suspends the genocide trial of former President Luis Echeverria. ](/news/2007/07/12/a-mexican-federal-court-suspends-the-genocide-trial-of-former-president-luis-echeverraa.md)
-_Context: Luis Echeverria, Mexico, President, genocide_
+_Context: Luis Echeverria, Mexican, President, genocide_
 
 ### [ The Spanish Civil Guard raids a boat operated by Odyssey Marine Exploration that it claims may have taken treasure worth hundreds of millions of dollars from a Spanish galleon. ](/news/2007/07/12/the-spanish-civil-guard-raids-a-boat-operated-by-odyssey-marine-exploration-that-it-claims-may-have-taken-treasure-worth-hundreds-of-millio.md)
 Spanish police have boarded a boat operated by a US company which Madrid believes may have taken treasure worth hundreds of millions of dollars from a Spanish galleon.

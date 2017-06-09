@@ -1,7 +1,7 @@
 ## [2014-12-2](/news/2014/12/2/index.md)
 
 ### [The Red Cross says that at least 36 people may be dead following an attack in Mandera County in northeastern Kenya. Al-Shabaab militants are believed to be responsible. ](/news/2014/12/2/the-red-cross-says-that-at-least-36-people-may-be-dead-following-an-attack-in-mandera-county-in-northeastern-kenya-al-shabaab-militants-are.md)
-_Context: Kenya, Mandera County, Red Cross, War in Somalia, al-Shabaab_
+_Context: Al-Shabaab, Kenya, Mandera County, Red Cross, War in Somalia_
 
 ### [Unidentified gunmen kill 6 Lebanese soldiers near the eastern town of Ras Baalbek. ](/news/2014/12/2/unidentified-gunmen-kill-6-lebanese-soldiers-near-the-eastern-town-of-ras-baalbek.md)
 At least six soldiers killed and one wounded as fighters ambush an army patrol, security official says.

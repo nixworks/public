@@ -22,7 +22,7 @@ _Context: New Orleans, Streak, The Undertaker, WrestleMania XXX_
 * Combined entity would have market value of $55 bln* Firms to announce plan on Monday, Holcim would buy Lafarge* Companies already working t
 
 ### [Nigeria's economy passes South Africa's to become the largest in Africa. ](/news/2014/04/6/nigeria-s-economy-passes-south-africa-s-to-become-the-largest-in-africa.md)
-_Context: Nigeria's economy, South Africa_
+_Context: Economy of South Africa, Nigeria's economy_
 
 ### [The Ambassador of Italy to Turkmenistan is charged for alleged child abuse while on holiday in the Philippines. ](/news/2014/04/6/the-ambassador-of-italy-to-turkmenistan-is-charged-for-alleged-child-abuse-while-on-holiday-in-the-philippines.md)
 The Italian ambassador to Turkmenistan has been detained by police in the Philippines, who have accused him of violating laws on the safeguarding of children, the Foreign Ministry in Rome said on Sunday.

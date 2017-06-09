@@ -16,7 +16,7 @@ _Context: Kangding, Sichuan Province, tent_
 Court tries suspects of alleged plan to attack non-Muslims in bid to topple government.
 
 ### [Two trains collide in the northern Mexican state of Sinaloa resulting in the death of at least 13 people. ](/news/2010/06/15/two-trains-collide-in-the-northern-mexican-state-of-sinaloa-resulting-in-the-death-of-at-least-13-people.md)
-_Context: Mexico, Sinaloa_
+_Context: Mexican, Sinaloa_
 
 ### [Saville Inquiry:The Saville Inquiry into the events of Bloody Sunday (1972) in Northern Ireland is published, as a result of the longest-running public inquiry in British legal history. ](/news/2010/06/15/saville-inquiry-pthe-saville-inquiry-into-the-events-of-bloody-sunday-1972-in-northern-ireland-is-published-as-a-result-of-the-longest-ru.md)
 The Bloody Sunday killings were unjustified and unjustifiable, the Prime Minister has said, announcing the findings of the Saville Report.

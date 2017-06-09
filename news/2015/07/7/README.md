@@ -7,7 +7,7 @@ _Context: Boko Haram insurgency, Timeline of Boko Haram insurgency, Zaria_
 Saudi-led coalition air strikes and clashes killed at least 176 fighters and civilians in Yemen on Monday, residents and media run by the Houthi movement said, the highest daily toll since the Arab air offensive began more than three months ago.
 
 ### [ Al-Shabaab militants kill 14 in northern Kenya. ](/news/2015/07/7/al-shabaab-militants-kill-14-in-northern-kenya.md)
-_Context: Kenya, Terrorism in Kenya, War in Somalia (2009-present), al-Shabaab_
+_Context: Al-Shabaab, Kenya, Terrorism in Kenya, War in Somalia (2009-present)_
 
 ### [ A NATO convoy is hit by a suicide car bomb in Kabul. Three or four civilians are injured; no fatalities have been reported. ](/news/2015/07/7/a-nato-convoy-is-hit-by-a-suicide-car-bomb-in-kabul-three-or-four-civilians-are-injured-no-fatalities-have-been-reported.md)
 _Context: NATO, War in Afghanistan (2015-present)_

@@ -22,7 +22,7 @@ The U.S. Supreme Court on Tuesday handed a victory to employers over worker comp
 You might have noticed that The Pirate Bay is offline today; the site has disappeared after Swedish Police reportedly raided premises in Stockholm containing the service’s servers. According to Torrentfreak, Swedish authorities confirmed that local police completed a raid in Stockholm this morning. Paul Pintér, police national coordinator for IP enforcement said “There has been &hellip;
 
 ### [The Democrat-controlled United States Senate Select Committee on Intelligence releases a report critical of the post-September 11 Bush Administration-era CIA interrogation techniques used to extract intelligence from captured Al-Qaeda operatives. The Obama Administration places US embassies around the world on high alert. ](/news/2014/12/9/the-democrat-controlled-united-states-senate-select-committee-on-intelligence-releases-a-report-critical-of-the-post-september-11-bush-admin.md)
-_Context: Bush Administration, CIA, D, Obama Administration, Senate Intelligence Committee, September 11 attacks, al-Qaeda, report_
+_Context: Bush Administration, CIA, D, Obama Administration, September 11 attacks, United States Senate Select Committee on Intelligence, al-Qaeda, report_
 
 ### [2014 Hong Kong protests:The Hong Kong Police Force warn protesters that they have until Thursday to leave their protest camp in Admiralty. ](/news/2014/12/9/2014-hong-kong-protests-pthe-hong-kong-police-force-warn-protesters-that-they-have-until-thursday-to-leave-their-protest-camp-in-admiralty.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

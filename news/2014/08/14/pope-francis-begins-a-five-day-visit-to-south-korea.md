@@ -11,7 +11,7 @@ Pope Francis has arrived in Seoul looking to fuel a new era of Catholic growth i
 
 ### Related:
 
-1. [North Korea test fires missile immediately after South Korea pulls off the THAAD missile system. ](/news/2017/06/8/north-korea-test-fires-missile-immediately-after-south-korea-pulls-off-the-thaad-missile-system.md) _Context: South Korea_
+1. [North Korea test fires several missiles, believed to be anti-ship weapons. The test comes immediately after South Korea suspends further deployment of the THAAD anti-missile system. ](/news/2017/06/8/north-korea-test-fires-several-missiles-believed-to-be-anti-ship-weapons-the-test-comes-immediately-after-south-korea-suspends-further-dep.md) _Context: South Korea_
 2. [South Koreans vote in a presidential election, with Moon Jae-in of the Democratic Party of Korea winning the election. ](/news/2017/05/9/south-koreans-vote-in-a-presidential-election-with-moon-jae-in-of-the-democratic-party-of-korea-winning-the-election.md) _Context: South Korea_
 3. [Pope Francis criticizes naming the U.S. military's biggest non-nuclear explosive as the Mother of All Bombs, saying that the word "mother" should not be used in reference to a deadly weapon. ](/news/2017/05/6/pope-francis-criticizes-naming-the-u-s-military-s-biggest-non-nuclear-explosive-as-the-mother-of-all-bombs-saying-that-the-word-mother-s.md) _Context: Pope Francis_
 4. [The Holy See and Myanmar establish full diplomatic relations following a meeting between Pope Francis and Myanmar's State Counsellor Aung San Suu Kyi. ](/news/2017/05/4/the-holy-see-and-myanmar-establish-full-diplomatic-relations-following-a-meeting-between-pope-francis-and-myanmar-s-state-counsellor-aung-sa.md) _Context: Pope Francis_

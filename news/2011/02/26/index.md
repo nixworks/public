@@ -25,7 +25,7 @@ _Context: South Korea_
 _Context: Amazon basin, Belo Monte Dam, Brazil_
 
 ### [A Mexican judge authorises 40 days of detention for an alleged member of the Zetas drug cartel suspected in the killing of a U.S. Immigration and Customs Enforcement agent. ](/news/2011/02/26/a-mexican-judge-authorises-40-days-of-detention-for-an-alleged-member-of-the-zetas-drug-cartel-suspected-in-the-killing-of-a-u-s-immigratio.md)
-_Context: Mexico, U.S. Immigration and Customs Enforcement, Zetas drug cartel_
+_Context: Mexican, U.S. Immigration and Customs Enforcement, Zetas drug cartel_
 
 ### [Irish general election, 2011:The votes are counted, with exit polls predicting Fine Gael and the Labour Party to do well while the ruling Fianna Fail is expected to do poorly. ](/news/2011/02/26/irish-general-election-2011-pthe-votes-are-counted-with-exit-polls-predicting-fine-gael-and-the-labour-party-to-do-well-while-the-ruling-f.md)
 Counting of votes has begun around the country as an exit poll indicated Fine Gael will lead the government for the first time&hellip;

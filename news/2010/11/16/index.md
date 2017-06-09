@@ -16,7 +16,7 @@ Prince William is to marry long-term girlfriend Kate Middleton next year after t
 &#039;It has been a long and winding road to get here,&#039; says Steve Jobs
 
 ### [UNESCO adds traditional dishes of  France and Mexico to the Representative List of the Intangible Cultural Heritage of Humanity at a committee meeting in Nairobi, the first time cuisine is added to the list. ](/news/2010/11/16/unesco-adds-traditional-dishes-of-france-and-mexico-to-the-representative-list-of-the-intangible-cultural-heritage-of-humanity-at-a-committ.md)
-_Context: France, Mexico, Nairobi, Representative List of the Intangible Cultural Heritage of Humanity, UNESCO_
+_Context: France, Mexican, Nairobi, Representative List of the Intangible Cultural Heritage of Humanity, UNESCO_
 
 ### [New York archbishop Timothy Dolan is voted president of the United States Conference of Catholic Bishops. ](/news/2010/11/16/new-york-archbishop-timothy-dolan-is-voted-president-of-the-united-states-conference-of-catholic-bishops.md)
 Archbishop Timothy M. Dolan of New York will lead the United States Conference of Catholic Bishops.

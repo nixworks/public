@@ -4,7 +4,7 @@
 _Context: Afghanistan, Operation Medusa, Taliban insurgency_
 
 ### [ Felipe Caldern of the PAN is declared the winner of Mexico's 2 July presidential election. ](/news/2006/09/5/felipe-calderon-of-the-pan-is-declared-the-winner-of-mexico-s-2-july-presidential-election.md)
-_Context: 2 July, Felipe Caldern, Mexican general election, Mexico, National Action Party (PAN)_
+_Context: 2 July, Felipe Caldern, Mexican, Mexican general election, National Action Party (PAN)_
 
 ### [ Bill Ford steps down from his position as CEO of Ford Motor Company. He is replaced by Alan Mulally, the former executive vice president and CEO of Boeing Commercial Airlines. Bill Ford will remain chairman. ](/news/2006/09/5/bill-ford-steps-down-from-his-position-as-ceo-of-ford-motor-company-he-is-replaced-by-alan-mulally-the-former-executive-vice-president-an.md)
 _Context: Alan Mulally, Bill Ford, Boeing Commercial Airlines, CEO, Ford Motor Company_
