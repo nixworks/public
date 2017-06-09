@@ -1,10 +1,10 @@
 ## [News](/news/2017/06/9/index.md)
 
+### [Results of yesterday's election are counted, revealing a hung parliament as the Conservative Party fails to retain its majority government, despite remaining the party with the most seats. Prime Minister Theresa May will seek permission from Buckingham Palace to form a minority government with the support of the Northern Irish Democratic Unionist Party. ](/news/2017/06/9/results-of-yesterday-s-election-are-counted-revealing-a-hung-parliament-as-the-conservative-party-fails-to-retain-its-majority-government.md)
+Theresa May will visit Buckingham Palace to seek to form a government with backing from the DUP, after losing her Commons majority.
+
 ### [The National Diet of Japan passes legislation allowing Emperor Akihito to abdicate. The abdication is to take place within three years. ](/news/2017/06/9/the-national-diet-of-japan-passes-legislation-allowing-emperor-akihito-to-abdicate-the-abdication-is-to-take-place-within-three-years.md)
 Japan&#039;s parliament has passed a law allowing Emperor Akihito to become the first monarch to abdicate in 200 years.
-
-### [Results of yesterday's election are counted, revealing a hung parliament as the Conservative Party fails to retain its majority government, despite remaining the party with the most seats. ](/news/2017/06/9/results-of-yesterday-s-election-are-counted-revealing-a-hung-parliament-as-the-conservative-party-fails-to-retain-its-majority-government.md)
-Rolling coverage of the 2017 UK general election results, with reaction and analysis.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -35,7 +35,7 @@ China, Thailand, Indonesia and the Philippines say they will act to stop plastic
 ### [Yahoo shareholders officially approve its $4.48 billion sale to Verizon Wireless. Yahoo stock was up 8.5 percent shortly thereafter. ](/news/2017/06/8/yahoo-shareholders-officially-approve-its-4-48-billion-sale-to-verizon-wireless-yahoo-stock-was-up-8-5-percent-shortly-thereafter.md)
 _Context: Verizon Wireless, Yahoo_
 
-### [The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-dodd-frank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected-t.md)
+### [The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-doddafrank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected.md)
 Rep. Jeb Hensarling called the Dodd-Frank law &quot;a grab bag of leftist ideas.&quot;
 
 ### [ Up to 10,000 people have been evacuated from Knysna Local Municipality on Garden Route in South Africa after wildfire destroyed 150 homes. The Wildfire is connected to the worst windstorm in 30 years, which already killed at least 8 people in Cape Town. ](/news/2017/06/8/up-to-10-000-people-have-been-evacuated-from-knysna-local-municipality-on-garden-route-in-south-africa-after-wildfire-destroyed-150-homes.md)
@@ -87,7 +87,7 @@ _Context: Christopher A. Wray, Donald Trump, Federal Bureau of Investigation, Po
 ### [A U.S. House resolution unanimously passes 397-0 calling for all Turkish security guards involved in the May 16 clashes to be charged and prosecuted under United States law. ](/news/2017/06/7/a-u-s-house-resolution-unanimously-passes-397a0-calling-for-all-turkish-security-guards-involved-in-the-may-16-clashes-to-be-charged-and.md)
 _Context: 2017 clashes at the Turkish Ambassador's Residence in Washington, D.C._
 
-### [The oldest fossil records of ''Homo sapiens'' are discovered in Morocco dated at between 300,000 and 350,000 years old. The earliest ''H. sapiens'' fossils had been dated as 200,000 years old. ](/news/2017/06/7/the-oldest-fossil-records-of-homo-sapiens-are-discovered-in-morocco-dated-at-between-300-000-and-350-000-years-old-the-earliest-h-sa.md)
+### [The oldest fossil records of ''Homo sapiens'' are discovered in Jebel Irhoud, Morocco, dated at between 300,000 and 350,000 years old. The earliest ''Homo sapiens'' fossils had been dated as 200,000 years old. ](/news/2017/06/7/the-oldest-fossil-records-of-homo-sapiens-are-discovered-in-jebel-irhoud-morocco-dated-at-between-300-000-and-350-000-years-old-the-e.md)
 The 300,000-year-old modern humans are roughly 100,000 years older than other fossils of our species.
 
 ---

@@ -21,7 +21,7 @@ China, Thailand, Indonesia and the Philippines say they will act to stop plastic
 ### [Yahoo shareholders officially approve its $4.48 billion sale to Verizon Wireless. Yahoo stock was up 8.5 percent shortly thereafter. ](/news/2017/06/8/yahoo-shareholders-officially-approve-its-4-48-billion-sale-to-verizon-wireless-yahoo-stock-was-up-8-5-percent-shortly-thereafter.md)
 _Context: Verizon Wireless, Yahoo_
 
-### [The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-dodd-frank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected-t.md)
+### [The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-doddafrank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected.md)
 Rep. Jeb Hensarling called the Dodd-Frank law &quot;a grab bag of leftist ideas.&quot;
 
 ### [ Up to 10,000 people have been evacuated from Knysna Local Municipality on Garden Route in South Africa after wildfire destroyed 150 homes. The Wildfire is connected to the worst windstorm in 30 years, which already killed at least 8 people in Cape Town. ](/news/2017/06/8/up-to-10-000-people-have-been-evacuated-from-knysna-local-municipality-on-garden-route-in-south-africa-after-wildfire-destroyed-150-homes.md)

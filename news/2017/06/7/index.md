@@ -21,7 +21,7 @@ _Context: Christopher A. Wray, Donald Trump, Federal Bureau of Investigation, Po
 ### [A U.S. House resolution unanimously passes 397-0 calling for all Turkish security guards involved in the May 16 clashes to be charged and prosecuted under United States law. ](/news/2017/06/7/a-u-s-house-resolution-unanimously-passes-397a0-calling-for-all-turkish-security-guards-involved-in-the-may-16-clashes-to-be-charged-and.md)
 _Context: 2017 clashes at the Turkish Ambassador's Residence in Washington, D.C._
 
-### [The oldest fossil records of ''Homo sapiens'' are discovered in Morocco dated at between 300,000 and 350,000 years old. The earliest ''H. sapiens'' fossils had been dated as 200,000 years old. ](/news/2017/06/7/the-oldest-fossil-records-of-homo-sapiens-are-discovered-in-morocco-dated-at-between-300-000-and-350-000-years-old-the-earliest-h-sa.md)
+### [The oldest fossil records of ''Homo sapiens'' are discovered in Jebel Irhoud, Morocco, dated at between 300,000 and 350,000 years old. The earliest ''Homo sapiens'' fossils had been dated as 200,000 years old. ](/news/2017/06/7/the-oldest-fossil-records-of-homo-sapiens-are-discovered-in-jebel-irhoud-morocco-dated-at-between-300-000-and-350-000-years-old-the-e.md)
 The 300,000-year-old modern humans are roughly 100,000 years older than other fossils of our species.
 
 ## [Previous Day...](/news/2017/06/6/index.md)
