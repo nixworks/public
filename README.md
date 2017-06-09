@@ -33,7 +33,7 @@ Joint statement lists 59 individuals, including 18 Qataris, and 12 organisations
 ### [An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md)
 _Context: Kiev, Ukraine-United States relations, United States, embassy_
 
-### [A supermarket employee shot and killed three fellow employees and then killed himself in a closed Weis Markets store in Eaton Township  in Northeastern Pennsylvania. One person escaped unharmed. ](/news/2017/06/8/a-supermarket-employee-shot-and-killed-three-fellow-employees-and-then-killed-himself-in-a-closed-weis-markets-store-in-eaton-township-in-n.md)
+### [A supermarket employee shoots and kills three fellow employees, then kills himself, in a closed Weis Markets store in Eaton Township  in Northeastern Pennsylvania. One person escapes unharmed. ](/news/2017/06/8/a-supermarket-employee-shoots-and-kills-three-fellow-employees-then-kills-himself-in-a-closed-weis-markets-store-in-eaton-township-in-nor.md)
 Police say Randy Stair was scheduled to work a shift at Weis Market in Pennsylvania when he took two pistol-grip shotguns into work and opened fire
 
 ### [Polls open in the United Kingdom, with Labour leader Jeremy Corbyn and incumbent Theresa May of the Conservatives battling in a tight race, according to final opinion polling, to become prime minister. ](/news/2017/06/8/polls-open-in-the-united-kingdom-with-labour-leader-jeremy-corbyn-and-incumbent-theresa-may-of-the-conservatives-battling-in-a-tight-race.md)
