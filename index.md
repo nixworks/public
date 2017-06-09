@@ -1,10 +1,10 @@
 ## [News](/news/2017/06/9/index.md)
 
-### [Results of yesterday's election are counted, revealing a hung parliament as the Conservative Party fails to retain its majority government, despite remaining the party with the most seats. Significant gains and losses are made by the opposition Labour Party and the Scottish National Party respectively, while the formerly substantial support for the UK Independence Party is depleted. ](/news/2017/06/9/results-of-yesterday-s-election-are-counted-revealing-a-hung-parliament-as-the-conservative-party-fails-to-retain-its-majority-government.md)
-The snap election yields a hung parliament in a shock result for PM Theresa May.
-
-### [The National Diet of Japan passes legislation allowing Emperor Akihito to abdicate. The abdication must take place within three years. ](/news/2017/06/9/the-national-diet-of-japan-passes-legislation-allowing-emperor-akihito-to-abdicate-the-abdication-must-take-place-within-three-years.md)
+### [The National Diet of Japan passes legislation allowing Emperor Akihito to abdicate. The abdication is to take place within three years. ](/news/2017/06/9/the-national-diet-of-japan-passes-legislation-allowing-emperor-akihito-to-abdicate-the-abdication-is-to-take-place-within-three-years.md)
 Japan&#039;s parliament has passed a law allowing Emperor Akihito to become the first monarch to abdicate in 200 years.
+
+### [Results of yesterday's election are counted, revealing a hung parliament as the Conservative Party fails to retain its majority government, despite remaining the party with the most seats. ](/news/2017/06/9/results-of-yesterday-s-election-are-counted-revealing-a-hung-parliament-as-the-conservative-party-fails-to-retain-its-majority-government.md)
+Rolling coverage of the 2017 UK general election results, with reaction and analysis.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -50,7 +50,7 @@ _Context: Kiev, Ukraine-United States relations, United States, embassy_
 ### [A supermarket employee shoots and kills three fellow employees, then kills himself, in a closed Weis Markets store in Eaton Township  in Northeastern Pennsylvania. One person escapes unharmed. ](/news/2017/06/8/a-supermarket-employee-shoots-and-kills-three-fellow-employees-then-kills-himself-in-a-closed-weis-markets-store-in-eaton-township-in-nor.md)
 Police say Randy Stair was scheduled to work a shift at Weis Market in Pennsylvania when he took two pistol-grip shotguns into work and opened fire
 
-### [The Conservative Party wins the most votes and seats but loses its majority in the United Kingdom House of Commons. ](/news/2017/06/8/the-conservative-party-wins-the-most-votes-and-seats-but-loses-its-majority-in-the-united-kingdom-house-of-commons.md)
+### [Polls open in the United Kingdom, with Labour leader Jeremy Corbyn and incumbent Theresa May of the Conservatives battling in a tight race, according to final opinion polling, to become prime minister. ](/news/2017/06/8/polls-open-in-the-united-kingdom-with-labour-leader-jeremy-corbyn-and-incumbent-theresa-may-of-the-conservatives-battling-in-a-tight-race.md)
 On the eve of an election Prime Minister Theresa May returned to her core message that only she can deliver a good Brexit deal, moving on from a heated national debate over security after two deadly Islamist attacks.
 
 ### [James Comey, the former FBI Director who was dismissed by President Donald Trump last month, appears before the United States Senate Select Committee on Intelligence. Comey says he believes he was fired because of the FBI investigation into the possible collusion between President Trump's campaign team and Russia's interference in the 2016 elections.](/news/2017/06/8/james-comey-the-former-fbi-director-who-was-dismissed-by-president-donald-trump-last-month-appears-before-the-united-states-senate-select.md)
