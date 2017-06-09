@@ -1,4 +1,15 @@
-## [News](/news/2017/06/8/index.md)
+## [News](/news/2017/06/9/index.md)
+
+### [Results of yesterday's election are counted, revealing a hung parliament as the Conservative Party fails to retain its majority government, despite remaining the party with the most seats. Significant gains and losses are made by the opposition Labour Party and the Scottish National Party respectively, while the formerly substantial support for the UK Independence Party is depleted. ](/news/2017/06/9/results-of-yesterday-s-election-are-counted-revealing-a-hung-parliament-as-the-conservative-party-fails-to-retain-its-majority-government.md)
+The snap election yields a hung parliament in a shock result for PM Theresa May.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/06/8/index.md)
 
 ### [North Korea test fires several missiles, believed to be anti-ship weapons. The test comes immediately after South Korea suspends further deployment of the THAAD anti-missile system. ](/news/2017/06/8/north-korea-test-fires-several-missiles-believed-to-be-anti-ship-weapons-the-test-comes-immediately-after-south-korea-suspends-further-dep.md)
 _Context: 2017 North Korean missile tests, North Korea, South Korea, THAAD, anti-missile, anti-ship_
@@ -9,7 +20,7 @@ Gun battle in military base in Somalia&#39;s semi-autonomous Puntland region kil
 ### [Iranian Intelligence Ministry releases the names and other information about the five attackers of the day before. ](/news/2017/06/8/iranian-intelligence-ministry-releases-the-names-and-other-information-about-the-five-attackers-of-the-day-before.md)
 The Iranian Intelligence Ministry has released the names of and other information about the five terrorists who carried out twin attacks in Tehran on Wednesday.
 
-### [The United States shoots down a pro-Syrian government drone that was flying toward U.S.-led coalition forces in southern Syria. There were no injuries or damage. An American official said this was first time forces supporting Damascus had attacked coalition troops, and that it came shortly after the U.S. bombed Syrian government and allied troops near the  town of Al-Tanf. ](/news/2017/06/8/the-united-states-shoots-down-a-pro-syrian-government-drone-that-was-flying-toward-u-s-led-coalition-forces-in-southern-syria-there-were-n.md)
+### [In its third strike near the town of Al-Tanf in recent weeks, the United States bombs Syrian government and allied troops, striking two out of three technical vehicles about 24 miles from the U.S. Coalition's At-Tanf base in Southern Syria. ](/news/2017/06/8/in-its-third-strike-near-the-town-of-al-tanf-in-recent-weeks-the-united-states-bombs-syrian-government-and-allied-troops-striking-two-out.md)
 The United States shot down a pro-Syrian government drone that fired toward U.S.-led coalition forces in Syria on Thursday, a U.S. military spokesman said, in a major escalation of tensions between Washington and troops supporting Damascus.
 
 ### [Montana congressman Greg Gianforte apologizes to journalist Ben Jacobs for the alleged body slam incident that occurred on May 24, and donates US$50,000 to the Committee to Protect Journalists. ](/news/2017/06/8/montana-congressman-greg-gianforte-apologizes-to-journalist-ben-jacobs-for-the-alleged-body-slam-incident-that-occurred-on-may-24-and-donat.md)
@@ -36,7 +47,7 @@ _Context: Kiev, Ukraine-United States relations, United States, embassy_
 ### [A supermarket employee shoots and kills three fellow employees, then kills himself, in a closed Weis Markets store in Eaton Township  in Northeastern Pennsylvania. One person escapes unharmed. ](/news/2017/06/8/a-supermarket-employee-shoots-and-kills-three-fellow-employees-then-kills-himself-in-a-closed-weis-markets-store-in-eaton-township-in-nor.md)
 Police say Randy Stair was scheduled to work a shift at Weis Market in Pennsylvania when he took two pistol-grip shotguns into work and opened fire
 
-### [Polls open in the United Kingdom, with Labour leader Jeremy Corbyn and incumbent Theresa May of the Conservatives battling in a tight race, according to final opinion polling, to become prime minister. ](/news/2017/06/8/polls-open-in-the-united-kingdom-with-labour-leader-jeremy-corbyn-and-incumbent-theresa-may-of-the-conservatives-battling-in-a-tight-race.md)
+### [The Conservative Party wins the most votes and seats but loses its majority in the United Kingdom House of Commons. ](/news/2017/06/8/the-conservative-party-wins-the-most-votes-and-seats-but-loses-its-majority-in-the-united-kingdom-house-of-commons.md)
 On the eve of an election Prime Minister Theresa May returned to her core message that only she can deliver a good Brexit deal, moving on from a heated national debate over security after two deadly Islamist attacks.
 
 ### [James Comey, the former FBI Director who was dismissed by President Donald Trump last month, appears before the United States Senate Select Committee on Intelligence. Comey says he believes he was fired because of the FBI investigation into the possible collusion between President Trump's campaign team and Russia's interference in the 2016 elections.](/news/2017/06/8/james-comey-the-former-fbi-director-who-was-dismissed-by-president-donald-trump-last-month-appears-before-the-united-states-senate-select.md)
@@ -48,13 +59,9 @@ Hawaii has passed a law to document sea level rise and set strategies to reduce 
 ### [American actor Leonardo DiCaprio and Mexican president Enrique Pena Nieto meet to discuss the protection of the Vaquita porpoise. ](/news/2017/06/8/american-actor-leonardo-dicaprio-and-mexican-president-enrique-pea-a-nieto-meet-to-discuss-the-protection-of-the-vaquita-porpoise.md)
 But it&#039;s going to take a lot more than star power to save the Mexican vaquita from the corruption and organized crime that threatens the endangered cetacean.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/06/7/index.md)
+## [Day Before Yesterday](/news/2017/06/7/index.md)
 
 ### [Gunmen attack the Islamic Consultative Assembly and Mausoleum of Ruhollah Khomeini in Tehran, Iran. Eighteen civilians are killed in the attack on the Parliament and one in the attack on the mausoleum. ](/news/2017/06/7/gunmen-attack-the-islamic-consultative-assembly-and-mausoleum-of-ruhollah-khomeini-in-tehran-iran-eighteen-civilians-are-killed-in-the-att.md)
 Armed men launched two attacks in Iran on Wednesday morning local time, killing a guard at the Parliament and wounding several people at another location.
@@ -82,35 +89,7 @@ The 300,000-year-old modern humans are roughly 100,000 years older than other fo
 
 ---
 
-## [Day Before Yesterday](/news/2017/06/6/index.md)
-
-### [An explosion occurs near police offices and a mosque in Herat, killing at least ten people. ](/news/2017/06/6/an-explosion-occurs-near-police-offices-and-a-mosque-in-herat-killing-at-least-ten-people.md)
-Several people killed in explosion near a mosque and police offices in western province, local media report. 
-
-### [The United States-backed Syrian Democratic Forces launch an operation to capture Raqqa, ISIL's ''de facto'' Syrian capital. ](/news/2017/06/6/the-united-states-backed-syrian-democratic-forces-launch-an-operation-to-capture-raqqa-isil-s-de-facto-syrian-capital.md)
-_Context: American-led intervention in Syria, Battle of Raqqa (2017), ISIL, Raqqa, Syrian Democratic Forces, United States military_
-
-### [The Philippines temporarily suspends sending workers to Qatar. ](/news/2017/06/6/the-philippines-temporarily-suspends-sending-workers-to-qatar.md)
-The Philippines has partially lifted the ban on overseas Filipino workers (OFWs) going to Qatar
-
-### [A Russian SU-27 fighter jet intercepts  an American B-52 strategic bomber that was flying over international  waters of the  Baltic Sea parallel to the Russian border, and escorts the B-52 until it flew away from the border area. The United States military confirmed that the US Air Force B-52 was operating in international airspace, but had no further comment about the incident. ](/news/2017/06/6/a-russian-su-27-fighter-jet-intercepts-an-american-b-52-strategic-bomber-that-was-flying-over-international-waters-of-the-baltic-sea-para.md)
-Russia scrambled a fighter jet on Tuesday to intercept a nuclear-capable U.S. B-52 strategic bomber it said was flying over the Baltic Sea near its border, in an incident that had echoes of the Cold War.
-
-### [A man who was yelling "This is for Syria" while attacking a police officer with a hammer near Notre-Dame de Paris, France is shot and wounded by another officer.  Prosecutors open a terrorism probe. ](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wounde.md)
- PARIS (AP) — The Latest on the security operation near the Notre Dame Cathedral in Paris (all times local): 5:35 p.m. Witnesses around Notre Dame Cathe
-
-### [Brazil's Superior Electoral Court reopens the illegal campaign funding case against President Michel Temer, who was the vice presidential candidate on former President Dilma Rousseff's ticket in 2014. Temer became president in August 2016 when Rousseff was impeached, and could be unseated if the court annuls the Rousseff-Temer election victory. ](/news/2017/06/6/brazil-s-superior-electoral-court-reopens-the-illegal-campaign-funding-case-against-president-michel-temer-who-was-the-vice-presidential-ca.md)
-Brasília (AFP) - Judges on Brazil&amp;#39;s electoral court were expected to start voting Wednesday in a case that could topple scandal-tainted President Michel Temer.
-
-### [Uzbekistan Deputy Prime Minister Rustam Azimov is dismissed by   President Shavkat Mirziyoyev, who had earlier criticized Azimov for failing to control financiers' activities. He is replaced by former Deputy Finance Minister Jamshed Kuchkarev. ](/news/2017/06/6/uzbekistan-deputy-prime-minister-rustam-azimov-is-dismissed-by-president-shavkat-mirziyoyev-who-had-earlier-criticized-azimov-for-failing.md)
-Uzbek President Shavkat Mirziyoyev has harshly criticized officials in charge of finance and banking, asserting his power above one of two other members of a triumvirate that has ruled since the death last year of leader Islam Karimov.
-
-### [American voters  in the state of New Jersey select  party candidates to succeed term-limited incumbent Republican Chris Christie, a 2016 presidential candidate.](/news/2017/06/6/american-voters-in-the-state-of-new-jersey-select-party-candidates-to-succeed-term-limited-incumbent-republican-chris-christie-a-2016-pre.md)
-_Context: 2016 presidential candidate, Chris Christie, New Jersey, New Jersey gubernatorial election, 2017_
-
----
-
-## [Previous Day...](/news/2017/06/5/index.md)
+## [Previous Day...](/news/2017/06/6/index.md)
 
 ---
 

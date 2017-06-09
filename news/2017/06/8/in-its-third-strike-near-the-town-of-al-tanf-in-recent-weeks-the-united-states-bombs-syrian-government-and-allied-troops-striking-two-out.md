@@ -1,18 +1,20 @@
 ### [2017-06-8](/news/2017/06/8/index.md)
 
-# An explosive device is hurled at the United States embassy in Kiev. 
+# In its third strike near the town of Al-Tanf in recent weeks, the United States bombs Syrian government and allied troops, striking two out of three technical vehicles about 24 miles from the U.S. Coalition's At-Tanf base in Southern Syria. 
 
-
+The United States shot down a pro-Syrian government drone that fired toward U.S.-led coalition forces in Syria on Thursday, a U.S. military spokesman said, in a major escalation of tensions between Washington and troops supporting Damascus.
 
 
 ### Source:
 
-1. [The New York Daily News](http://www.nydailynews.com/news/world/explosive-device-u-s-embassy-kiev-article-1.3230345)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/national-security/us-drone-fired-on-us-backed-forces-near-syrian-rebel-camp/2017/06/08/ff23bdca-4c6a-11e7-987c-42ab5745db2e_story.html?utm_term=.d657960dc945)
+2. [CNN](http://www.cnn.com/2017/06/07/politics/us-led-coalition-syria-strike-at-tanf/index.html)
+3. [Reuters](https://www.reuters.com/article/us-mideast-crisis-usa-syria-idUSKBN18Z2CP?il=0)
 
 ### Related:
 
-1. [U.S. Secretary of State John Kerry arrives in Kiev, Ukraine, where he is expected to discuss ways of ending the conflict in the east of the country. The visit, along with his visit to Georgia yesterday, comes ahead of the NATO summit in Warsaw that will take place tomorrow. ](/news/2016/07/7/u-s-secretary-of-state-john-kerry-arrives-in-kiev-ukraine-where-he-is-expected-to-discuss-ways-of-ending-the-conflict-in-the-east-of-the.md) _Context: Kiev, Ukraine-United States relations_
-2. [In its third strike near the town of Al-Tanf in recent weeks, the United States bombs Syrian government and allied troops, striking two out of three technical vehicles about 24 miles from the U.S. Coalition's At-Tanf base in Southern Syria. ](/news/2017/06/8/in-its-third-strike-near-the-town-of-al-tanf-in-recent-weeks-the-united-states-bombs-syrian-government-and-allied-troops-striking-two-out.md) _Context: United States_
+1. [United States aircraft bomb a convoy belonging to the Syrian pro-government militia within a so-called "deconfliction zone" around Al-Tanf. ](/news/2017/05/18/united-states-aircraft-bomb-a-convoy-belonging-to-the-syrian-pro-government-militia-within-a-so-called-deconfliction-zone-around-al-tanf.md) _Context: Al-Tanf, United States_
+2. [An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md) _Context: United States_
 3. [A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life afterwards. Eight others inside the workplace survived. ](/news/2017/06/5/a-discharged-45-year-old-former-employee-shoots-and-kills-five-people-at-a-manufacturing-business-in-orlando-florida-united-states-the-sh.md) _Context: United States_
 4. [The U.S.-backed Syrian Democratic Forces (SDF) take control of the Baath Dam on the Euphrates, near the ISIL stronghold of Raqqa, and upon doing so, rename it "Freedom Dam".  ](/news/2017/06/4/the-u-s-backed-syrian-democratic-forces-sdf-take-control-of-the-baath-dam-on-the-euphrates-near-the-isil-stronghold-of-raqqa-and-upon-d.md) _Context: United States_
 5. [The election between Democrat Jon Ossoff and Republican Karen Handel to replace the seat vacated by Tom Price becomes the most expensive congressional race in United States history. ](/news/2017/05/9/the-election-between-democrat-jon-ossoff-and-republican-karen-handel-to-replace-the-seat-vacated-by-tom-price-becomes-the-most-expensive-con.md) _Context: United States_
