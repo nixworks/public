@@ -21,6 +21,9 @@ Japan&#039;s parliament has passed a law allowing Emperor Akihito to become the 
 ### [President Donald Trump claims that James Comey lied under oath during his testimony yesterday, and offers to give his own testimony refuting alleged collusion between his campaign and Russia. ](/news/2017/06/9/president-donald-trump-claims-that-james-comey-lied-under-oath-during-his-testimony-yesterday-and-offers-to-give-his-own-testimony-refuting.md)
 _Context: Donald Trump, James Comey, James Comey Senate Intelligence Committee testimony, alleged collusion between his campaign and Russia, lied under oath_
 
+### [Saudi Arabia provokes outrage for failing to observe a minutes silence at a World Cup qualifier at Adelaide Oval. The minute silence was in commemoration of the two Australian victims of the June 2017 London attack. The incident received condemnation from Australia's political leaders.](/news/2017/06/9/saudi-arabia-provokes-outrage-for-failing-to-observe-a-minutes-silence-at-a-world-cup-qualifier-at-adelaide-oval-the-minute-silence-was-in.md)
+Saudi Arabia&rsquo;s national football team has come under fire after they appeared to ignore a minute&rsquo;s silence held before kickoff at the World Cup qualifier at Adelaide Oval last night.
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -55,6 +58,9 @@ Rep. Jeb Hensarling called the Dodd-Frank law &quot;a grab bag of leftist ideas.
 
 ### [ Up to 10,000 people have been evacuated from Knysna Local Municipality on Garden Route in South Africa after wildfire destroyed 150 homes. The Wildfire is connected to the worst windstorm in 30 years, which already killed at least 8 people in Cape Town. ](/news/2017/06/8/up-to-10-000-people-have-been-evacuated-from-knysna-local-municipality-on-garden-route-in-south-africa-after-wildfire-destroyed-150-homes.md)
 Troops will be deployed to help put out bushfires and protect properties in the popular tourist town.
+
+### [The U.S. Food and Drug Administration asks pharmaceutical manufacturer Endo International plc to withdraw its long-lasting (12 hours) opioid painkiller, Opana ER, from the market after an FDA panel concluded the drug's benefits no longer outweighed the risks of abuse.  Endo is evaluating its options. ](/news/2017/06/8/the-u-s-food-and-drug-administration-asks-pharmaceutical-manufacturer-endo-international-plc-to-withdraw-its-long-lasting-12-hours-opioid.md)
+_Context: Endo International plc, Opana ER, Opioid epidemic, U.S. Food and Drug Administration_
 
 ### [The Saudi Arabia-led bloc against Qatar issues a "terror list" against the peninsula. ](/news/2017/06/8/the-saudi-arabia-led-bloc-against-qatar-issues-a-terror-list-against-the-peninsula.md)
 Joint statement lists 59 individuals, including 18 Qataris, and 12 organisations on &#39;terror list&#39;.
