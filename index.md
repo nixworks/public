@@ -9,6 +9,9 @@ Attack comes shortly after US airstrike killed two Afghan border police, accordi
 ### [Zimbabwe president Robert Mugabe fires prosecutor Johannes Tomana. ](/news/2017/06/10/zimbabwe-president-robert-mugabe-fires-prosecutor-johannes-tomana.md)
 The official had dropped charges against two soldiers accused of plotting against a Mugabe property.
 
+### [Aftermath of the Prime Minister Theresa May's closest advisers, Fiona Hill and Nick Timothy, resign as her Chief of Staffs amid criticism over their role in the Conservative Party's election campaign. ](/news/2017/06/10/aftermath-of-the-prime-minister-theresa-may-s-closest-advisers-fiona-hill-and-nick-timothy-resign-as-her-chief-of-staffs-amid-criticism-ov.md)
+Theresa May’s key aides Nick Timothy and Fiona Hill have resigned, taking the blame for her disastrous election campaign. Mr Timothy said he was taking responsibility for the social care U-turn which torpedoed her manifesto, acknowledging he had “oversight of our policy programme”. “In particular, I regret the decision not to include in the manifesto a ceiling as well as a floor in our proposal to help meet the increasing cost of social care,” he added.
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -20,7 +23,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [Thousands of people along with officials attend funerals held for victims of the attacks. ](/news/2017/06/9/thousands-of-people-along-with-officials-attend-funerals-held-for-victims-of-the-attacks.md)
 Iranians mourn 17 killed in two attacks on the capital this week
 
-### [Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan were killed by members of the Islamic State of Iraq and the Levant. ](/news/2017/06/9/chinese-authorities-report-grave-concern-over-reports-that-two-kidnapped-chinese-teachers-in-quetta-pakistan-were-killed-by-members-of-th.md)
+### [Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan, were killed by members of the Islamic State of Iraq and the Levant. ](/news/2017/06/9/chinese-authorities-report-grave-concern-over-reports-that-two-kidnapped-chinese-teachers-in-quetta-pakistan-were-killed-by-members-of-t.md)
 _Context: Chinese, ISIL, Pakistan, Quetta, War in North-West Pakistan_
 
 ### [Human rights activists accuse forces led by Saudi Arabia and the UAE of kidnapping and torturing people during the Yemeni conflict. ](/news/2017/06/9/human-rights-activists-accuse-forces-led-by-saudi-arabia-and-the-uae-of-kidnapping-and-torturing-people-during-the-yemeni-conflict.md)

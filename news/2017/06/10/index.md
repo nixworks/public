@@ -9,5 +9,8 @@ Attack comes shortly after US airstrike killed two Afghan border police, accordi
 ### [Zimbabwe president Robert Mugabe fires prosecutor Johannes Tomana. ](/news/2017/06/10/zimbabwe-president-robert-mugabe-fires-prosecutor-johannes-tomana.md)
 The official had dropped charges against two soldiers accused of plotting against a Mugabe property.
 
+### [Aftermath of the Prime Minister Theresa May's closest advisers, Fiona Hill and Nick Timothy, resign as her Chief of Staffs amid criticism over their role in the Conservative Party's election campaign. ](/news/2017/06/10/aftermath-of-the-prime-minister-theresa-may-s-closest-advisers-fiona-hill-and-nick-timothy-resign-as-her-chief-of-staffs-amid-criticism-ov.md)
+Theresa May’s key aides Nick Timothy and Fiona Hill have resigned, taking the blame for her disastrous election campaign. Mr Timothy said he was taking responsibility for the social care U-turn which torpedoed her manifesto, acknowledging he had “oversight of our policy programme”. “In particular, I regret the decision not to include in the manifesto a ceiling as well as a floor in our proposal to help meet the increasing cost of social care,” he added.
+
 ## [Previous Day...](/news/2017/06/9/index.md)
 
