@@ -1,6 +1,6 @@
 ### [2017-06-9](/news/2017/06/9/index.md)
 
-# President Donald Trump claims that James Comey committed perjury during his testimony yesterday, and offers to give his own testimony, "under oath," refuting alleged collusion between his campaign and Russia. 
+# President Donald Trump claims that James Comey committed perjury during his testimony yesterday, and offers to give his own testimony, "under oath," refuting that he requested Comey to drop the Flynn investigation and that he had asked for Comey's allegence. 
 
 
 

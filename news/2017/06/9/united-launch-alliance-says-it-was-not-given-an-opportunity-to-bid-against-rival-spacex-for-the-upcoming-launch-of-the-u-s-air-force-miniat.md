@@ -1,0 +1,23 @@
+### [2017-06-9](/news/2017/06/9/index.md)
+
+# United Launch Alliance says it was not given an opportunity to bid against rival SpaceX for the upcoming launch of the U.S. Air Force miniature X-37B space plane. The  Air Force declined to comment. 
+
+
+
+
+### Source:
+
+1. [Reuters via ''New York Daily News](http://www.nydailynews.com/newswires/news/business/ula-not-allowed-compete-spacex-air-force-launch-article-1.3235989)
+
+### Related:
+
+1. [SpaceX launches a weather observation satellite, Deep Space Climate Observatory, at 6:03 p.m. EST from Cape Canaveral, Florida (for the US Air Force/NASA/NOAA), but postpones making of a second attempt to land a Falcon 9 v1.1 rocket on a floating platform called the autonomous spaceport drone ship, following the January 10 failure during the SpaceX CRS-5 mission. SpaceX instead, attempts a "mock" soft-landing into the Atlantic ocean ](/news/2015/02/11/spacex-launches-a-weather-observation-satellite-deep-space-climate-observatory-at-6-03-p-m-est-from-cape-canaveral-florida-for-the-us-a.md) _Context: Air Force, SpaceX_
+2. [SpaceX launches a Falcon 9 rocket with a shipment of food and supplies in a refurbished Dragon cargo capsule for the International Space Station. The mission reuses a Dragon cargo vessel that was previously flown in a September 2014 mission. ](/news/2017/06/3/spacex-launches-a-falcon-9-rocket-with-a-shipment-of-food-and-supplies-in-a-refurbished-dragon-cargo-capsule-for-the-international-space-sta.md) _Context: SpaceX_
+3. [The United States Air Force's unmanned spacecraft X-37B successfully lands at Kennedy Space Center's Shuttle Landing Facility in Merritt Island, Florida, after spending a record-breaking 718 days in orbit. The landing was responsible for reports of sonic booms across central Florida. ](/news/2017/05/7/the-united-states-air-force-s-unmanned-spacecraft-x-37b-successfully-lands-at-kennedy-space-center-s-shuttle-landing-facility-in-merritt-isl.md) _Context: Air Force_
+4. [A USAF F-16 crashes shortly after takeoff from Joint Base Andrews in Prince George's County, Maryland. The pilot inside ejected safely and was taken to a local hospital with non-life threatening injuries. ](/news/2017/04/5/a-usaf-f-16-crashes-shortly-after-takeoff-from-joint-base-andrews-in-prince-george-s-county-maryland-the-pilot-inside-ejected-safely-and-w.md) _Context: Air Force_
+5. [The United States Air Force drops the GBU-43/B Massive Ordnance Air Blast in Nangarhar Province, Afghanistan, reportedly on an ISIL complex of tunnels and caves. This is the first use of the weapon on the battlefield.  ](/news/2017/04/13/the-united-states-air-force-drops-the-gbu-43-b-massive-ordnance-air-blast-in-nangarhar-province-afghanistan-reportedly-on-an-isil-complex.md) _Context: Air Force_
+6. [SpaceX successfully places the SES-10 telecommunications satellite on a geostationary transfer orbit. The event is notable because of the implied economic cost savings of reusing, for the first time, a used Falcon 9 first stage which had previously been recovered. That first stage had previously launched a Dragon spacecraft to the International Space Station and landed on an autonomous drone ship during the CRS-8 mission. ](/news/2017/03/30/spacex-successfully-places-the-ses-10-telecommunications-satellite-on-a-geostationary-transfer-orbit-the-event-is-notable-because-of-the-im.md) _Context: SpaceX_
+7. [SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. ](/news/2017/03/16/spacex-successfully-launches-the-echostar-23-satellite-a-direct-to-home-television-broadcast-services-for-brazil-into-a-geosynchronous-tra.md) _Context: SpaceX_
+8. [SpaceX announces that it will take two space tourists on an orbit of the Moon in 2018. ](/news/2017/02/27/spacex-announces-that-it-will-take-two-space-tourists-on-an-orbit-of-the-moon-in-2018.md) _Context: SpaceX_
+9. [SpaceX successfully launches a Falcon 9 rocket from Kennedy Space Center, placing a Dragon spacecraft in orbit and recovering the launcher's first stage. The spacecraft will resupply the International Space Station.](/news/2017/02/19/spacex-successfully-launches-a-falcon-9-rocket-from-kennedy-space-center-placing-a-dragon-spacecraft-in-orbit-and-recovering-the-launcher-s.md) _Context: SpaceX_
+10. [SpaceX delays the launch of a Falcon 9 rocket from Kennedy Space Center in Florida due to a technical issue. The Falcon 9 will resupply the International Space Station. ](/news/2017/02/18/spacex-delays-the-launch-of-a-falcon-9-rocket-from-kennedy-space-center-in-florida-due-to-a-technical-issue-the-falcon-9-will-resupply-the.md) _Context: SpaceX_

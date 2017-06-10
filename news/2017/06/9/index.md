@@ -12,14 +12,17 @@ Fighters backed by UAE accused of kidnapping and torturing hundreds of men, acco
 ### [A suicide bomber at a market in Musayyib kills 31 and wounds 35. ISIL claims responsibility. ](/news/2017/06/9/a-suicide-bomber-at-a-market-in-musayyib-kills-31-and-wounds-35-isil-claims-responsibility.md)
 A woman suicide bomber killed at least 31 people and wounded 35 in a crowded market in the town of Musayab, 80 km (50 miles) south of Baghdad, on Friday, security sources said.
 
+### [United Launch Alliance says it was not given an opportunity to bid against rival SpaceX for the upcoming launch of the U.S. Air Force miniature X-37B space plane. The  Air Force declined to comment. ](/news/2017/06/9/united-launch-alliance-says-it-was-not-given-an-opportunity-to-bid-against-rival-spacex-for-the-upcoming-launch-of-the-u-s-air-force-miniat.md)
+_Context: Air Force, SpaceX, United Launch Alliance, miniature X-37B space plane_
+
 ### [Results of yesterday's snap election are counted, revealing a hung parliament as the Conservative Party fails to retain its parliamentary majority, despite remaining the party with the most seats. Prime Minister Theresa May announced that she will form a minority government with the support of the Northern Irish Democratic Unionist Party. ](/news/2017/06/9/results-of-yesterday-s-snap-election-are-counted-revealing-a-hung-parliament-as-the-conservative-party-fails-to-retain-its-parliamentary-ma.md)
 Theresa May will visit Buckingham Palace to seek to form a government with backing from the DUP, after losing her Commons majority.
 
 ### [The National Diet of Japan passes legislation allowing Emperor Akihito to abdicate. The abdication is to take place within three years. ](/news/2017/06/9/the-national-diet-of-japan-passes-legislation-allowing-emperor-akihito-to-abdicate-the-abdication-is-to-take-place-within-three-years.md)
 Japan&#039;s parliament has passed a law allowing Emperor Akihito to become the first monarch to abdicate in 200 years.
 
-### [President Donald Trump claims that James Comey committed perjury during his testimony yesterday, and offers to give his own testimony, "under oath," refuting alleged collusion between his campaign and Russia. ](/news/2017/06/9/president-donald-trump-claims-that-james-comey-committed-perjury-during-his-testimony-yesterday-and-offers-to-give-his-own-testimony-unde.md)
-_Context: "under oath,", Donald Trump, James Comey, James Comey Senate Intelligence Committee testimony, alleged collusion between his campaign and Russia, committed perjury_
+### [President Donald Trump claims that James Comey committed perjury during his testimony yesterday, and offers to give his own testimony, "under oath," refuting that he requested Comey to drop the Flynn investigation and that he had asked for Comey's allegence. ](/news/2017/06/9/president-donald-trump-claims-that-james-comey-committed-perjury-during-his-testimony-yesterday-and-offers-to-give-his-own-testimony-unde.md)
+_Context: "under oath,", Donald Trump, James Comey, James Comey Senate Intelligence Committee testimony, committed perjury_
 
 ## [Previous Day...](/news/2017/06/8/index.md)
 
