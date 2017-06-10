@@ -21,8 +21,5 @@ Japan&#039;s parliament has passed a law allowing Emperor Akihito to become the 
 ### [President Donald Trump claims that James Comey lied under oath during his testimony yesterday, and offers to give his own testimony refuting alleged collusion between his campaign and Russia. ](/news/2017/06/9/president-donald-trump-claims-that-james-comey-lied-under-oath-during-his-testimony-yesterday-and-offers-to-give-his-own-testimony-refuting.md)
 _Context: Donald Trump, James Comey, James Comey Senate Intelligence Committee testimony, alleged collusion between his campaign and Russia, lied under oath_
 
-### [Saudi Arabia provokes outrage for failing to observe a minutes silence at a World Cup qualifier at Adelaide Oval. The minute silence was in commemoration of the two Australian victims of the June 2017 London attack. The incident received condemnation from Australia's political leaders.](/news/2017/06/9/saudi-arabia-provokes-outrage-for-failing-to-observe-a-minutes-silence-at-a-world-cup-qualifier-at-adelaide-oval-the-minute-silence-was-in.md)
-Saudi Arabia&rsquo;s national football team has come under fire after they appeared to ignore a minute&rsquo;s silence held before kickoff at the World Cup qualifier at Adelaide Oval last night.
-
 ## [Previous Day...](/news/2017/06/8/index.md)
 
