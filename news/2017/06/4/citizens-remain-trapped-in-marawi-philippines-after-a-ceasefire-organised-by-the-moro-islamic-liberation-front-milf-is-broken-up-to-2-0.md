@@ -11,7 +11,7 @@ Fighting breaks despite a four-hour ceasefire, preventing hundreds of residents 
 
 ### Related:
 
-1. [United States special forces join the battle in Marawi against the Maute. ](/news/2017/06/10/united-states-special-forces-join-the-battle-in-marawi-against-the-maute.md) _Context: Marawi, Marawi crisis_
+1. [United States special forces join the battle in Marawi, Philippines, against the Maute. ](/news/2017/06/10/united-states-special-forces-join-the-battle-in-marawi-philippines-against-the-maute.md) _Context: Marawi, Marawi crisis_
 2. [Philippine Defense Secretary Delfin Lorenzana announces the deaths of ten soldiers in Marawi as a result of a "friendly fire" airstrike. ](/news/2017/06/1/philippine-defense-secretary-delfin-lorenzana-announces-the-deaths-of-ten-soldiers-in-marawi-as-a-result-of-a-friendly-fire-airstrike.md) _Context: Marawi, Marawi crisis_
 3. [Philippine forces continue to battle Maute militants for the city of Marawi. ](/news/2017/05/29/philippine-forces-continue-to-battle-maute-militants-for-the-city-of-marawi.md) _Context: Marawi, Marawi crisis_
 4. [The Philippine military announces that it has discovered the bodies of 16 people, believed to have been killed by the ISIL affiliated Abu Sayyaf. Authorities say that the death toll after six days of fighting is 95, including 19 civilians. ](/news/2017/05/28/the-philippine-military-announces-that-it-has-discovered-the-bodies-of-16-people-believed-to-have-been-killed-by-the-isil-affiliated-abu-sa.md) _Context: Marawi crisis_

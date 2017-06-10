@@ -1,7 +1,10 @@
 ## [News](/news/2017/06/10/index.md)
 
-### [United States special forces join the battle in Marawi against the Maute. ](/news/2017/06/10/united-states-special-forces-join-the-battle-in-marawi-against-the-maute.md)
+### [United States special forces join the battle in Marawi, Philippines, against the Maute. ](/news/2017/06/10/united-states-special-forces-join-the-battle-in-marawi-philippines-against-the-maute.md)
 U.S. special forces are aiding troops from the Philippines in attempting to break a now three-week-old siege of the town of Marawi on Mindanao island, a military spokesman for the Southeast Asian country said.
+
+### [Zimbabwe president Robert Mugabe fires prosecutor Johannes Tomana. ](/news/2017/06/10/zimbabwe-president-robert-mugabe-fires-prosecutor-johannes-tomana.md)
+The official had dropped charges against two soldiers accused of plotting against a Mugabe property.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -29,8 +32,8 @@ Theresa May will visit Buckingham Palace to seek to form a government with backi
 ### [The National Diet of Japan passes legislation allowing Emperor Akihito to abdicate. The abdication is to take place within three years. ](/news/2017/06/9/the-national-diet-of-japan-passes-legislation-allowing-emperor-akihito-to-abdicate-the-abdication-is-to-take-place-within-three-years.md)
 Japan&#039;s parliament has passed a law allowing Emperor Akihito to become the first monarch to abdicate in 200 years.
 
-### [President Donald Trump claims that James Comey lied under oath during his testimony yesterday, and offers to give his own testimony refuting alleged collusion between his campaign and Russia. ](/news/2017/06/9/president-donald-trump-claims-that-james-comey-lied-under-oath-during-his-testimony-yesterday-and-offers-to-give-his-own-testimony-refuting.md)
-_Context: Donald Trump, James Comey, James Comey Senate Intelligence Committee testimony, alleged collusion between his campaign and Russia, lied under oath_
+### [President Donald Trump claims that James Comey committed perjury during his testimony yesterday, and offers to give his own testimony, "under oath," refuting alleged collusion between his campaign and Russia. ](/news/2017/06/9/president-donald-trump-claims-that-james-comey-committed-perjury-during-his-testimony-yesterday-and-offers-to-give-his-own-testimony-unde.md)
+_Context: "under oath,", Donald Trump, James Comey, James Comey Senate Intelligence Committee testimony, alleged collusion between his campaign and Russia, committed perjury_
 
 ---
 
