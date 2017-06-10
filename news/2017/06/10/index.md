@@ -6,6 +6,9 @@ U.S. special forces are aiding troops from the Philippines in attempting to brea
 ### [An Afghan soldier kills two U.S. troops and injures two others in Achin, Nangarhar Province. The Taliban claims responsibility, saying the Afghan soldier was one of several Taliban infiltrators in the Afghan Armed Forces. ](/news/2017/06/10/an-afghan-soldier-kills-two-u-s-troops-and-injures-two-others-in-achin-nangarhar-province-the-taliban-claims-responsibility-saying-the-a.md)
 Attack comes shortly after US airstrike killed two Afghan border police, according to Helmand governor, as Trump considers sending more troops
 
+### [2017 Kratovo shooting](/news/2017/06/10/2017-kratovo-shooting.md)
+_Context: 2017 Kratovo shooting_
+
 ### [Zimbabwe president Robert Mugabe fires prosecutor Johannes Tomana. ](/news/2017/06/10/zimbabwe-president-robert-mugabe-fires-prosecutor-johannes-tomana.md)
 The official had dropped charges against two soldiers accused of plotting against a Mugabe property.
 
