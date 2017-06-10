@@ -7,7 +7,8 @@ Theresa May’s key aides Nick Timothy and Fiona Hill have resigned, taking the 
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/uk/politics/theresa-may-nick-timothy-fiona-hill-aides-quit-advisors-tory-election-campaign-manifesto-policies-a7783341.html)
+1. [BBC](http://www.bbc.co.uk/news/election-2017-40236152)
+2. [The Independent](http://www.independent.co.uk/news/uk/politics/theresa-may-nick-timothy-fiona-hill-aides-quit-advisors-tory-election-campaign-manifesto-policies-a7783341.html)
 
 ### Related:
 
