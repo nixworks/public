@@ -1,4 +1,15 @@
-## [News](/news/2017/06/9/index.md)
+## [News](/news/2017/06/10/index.md)
+
+### [United States special forces join the battle in Marawi against the Maute. ](/news/2017/06/10/united-states-special-forces-join-the-battle-in-marawi-against-the-maute.md)
+U.S. special forces are aiding troops from the Philippines in attempting to break a now three-week-old siege of the town of Marawi on Mindanao island, a military spokesman for the Southeast Asian country said.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/06/9/index.md)
 
 ### [Thousands of people along with officials attend funerals held for victims of the attacks. ](/news/2017/06/9/thousands-of-people-along-with-officials-attend-funerals-held-for-victims-of-the-attacks.md)
 Iranians mourn 17 killed in two attacks on the capital this week
@@ -12,7 +23,7 @@ Fighters backed by UAE accused of kidnapping and torturing hundreds of men, acco
 ### [A suicide bomber at a market in Musayyib kills 31 and wounds 35. ISIL claims responsibility. ](/news/2017/06/9/a-suicide-bomber-at-a-market-in-musayyib-kills-31-and-wounds-35-isil-claims-responsibility.md)
 A woman suicide bomber killed at least 31 people and wounded 35 in a crowded market in the town of Musayab, 80 km (50 miles) south of Baghdad, on Friday, security sources said.
 
-### [Results of yesterday's snap election are counted, revealing a hung parliament as the Conservative Party fails to retain its parliament majority, despite remaining the party with the most seats. Prime Minister Theresa May announced that she will form a minority government with the support of the Northern Irish Democratic Unionist Party. ](/news/2017/06/9/results-of-yesterday-s-snap-election-are-counted-revealing-a-hung-parliament-as-the-conservative-party-fails-to-retain-its-parliament-major.md)
+### [Results of yesterday's snap election are counted, revealing a hung parliament as the Conservative Party fails to retain its parliamentary majority, despite remaining the party with the most seats. Prime Minister Theresa May announced that she will form a minority government with the support of the Northern Irish Democratic Unionist Party. ](/news/2017/06/9/results-of-yesterday-s-snap-election-are-counted-revealing-a-hung-parliament-as-the-conservative-party-fails-to-retain-its-parliamentary-ma.md)
 Theresa May will visit Buckingham Palace to seek to form a government with backing from the DUP, after losing her Commons majority.
 
 ### [The National Diet of Japan passes legislation allowing Emperor Akihito to abdicate. The abdication is to take place within three years. ](/news/2017/06/9/the-national-diet-of-japan-passes-legislation-allowing-emperor-akihito-to-abdicate-the-abdication-is-to-take-place-within-three-years.md)
@@ -24,13 +35,9 @@ _Context: Donald Trump, James Comey, James Comey Senate Intelligence Committee t
 ### [Saudi Arabia provokes outrage for failing to observe a minutes silence at a World Cup qualifier at Adelaide Oval. The minute silence was in commemoration of the two Australian victims of the June 2017 London attack. The incident received condemnation from Australia's political leaders.](/news/2017/06/9/saudi-arabia-provokes-outrage-for-failing-to-observe-a-minutes-silence-at-a-world-cup-qualifier-at-adelaide-oval-the-minute-silence-was-in.md)
 Saudi Arabia&rsquo;s national football team has come under fire after they appeared to ignore a minute&rsquo;s silence held before kickoff at the World Cup qualifier at Adelaide Oval last night.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/06/8/index.md)
+## [Day Before Yesterday](/news/2017/06/8/index.md)
 
 ### [North Korea test fires several missiles, believed to be anti-ship weapons. The test comes immediately after South Korea suspends further deployment of the THAAD anti-missile system. ](/news/2017/06/8/north-korea-test-fires-several-missiles-believed-to-be-anti-ship-weapons-the-test-comes-immediately-after-south-korea-suspends-further-dep.md)
 _Context: 2017 North Korean missile tests, North Korea, South Korea, THAAD, anti-missile, anti-ship_
@@ -88,35 +95,7 @@ But it&#039;s going to take a lot more than star power to save the Mexican vaqui
 
 ---
 
-## [Day Before Yesterday](/news/2017/06/7/index.md)
-
-### [Gunmen attack the Islamic Consultative Assembly and Mausoleum of Ruhollah Khomeini in Tehran, Iran. Eighteen civilians are killed in the attack on the Parliament and one in the attack on the mausoleum. ](/news/2017/06/7/gunmen-attack-the-islamic-consultative-assembly-and-mausoleum-of-ruhollah-khomeini-in-tehran-iran-eighteen-civilians-are-killed-in-the-att.md)
-Armed men launched two attacks in Iran on Wednesday morning local time, killing a guard at the Parliament and wounding several people at another location.
-
-### [The giant South Africa based cement company, PPC Ltd., presents its first quarter results, dominated by the "impact of a liquidity crisis precipitated by an unexpected S&P debt downgrade." ](/news/2017/06/7/the-giant-south-africa-based-cement-company-ppc-ltd-presents-its-first-quarter-results-dominated-by-the-impact-of-a-liquidity-crisis-pr.md)
-South African cement makerPPC reported a 93 percent plunge in full-year earningson Wednesday due to a liquidity crisis following a cut in itscredit rating to junk status by S&P Global Ratings.
-
-### [The Philippines partially lifts a temporary suspension of deployment of overseas workers to Qatar. ](/news/2017/06/7/the-philippines-partially-lifts-a-temporary-suspension-of-deployment-of-overseas-workers-to-qatar.md)
-The Philippine government on Wednesday partially lifted its suspension of deployment of overseas Filipino workers to Qatar, a day after it was implemented. Current top breaking Philippine headlines regarding the nation, world, metro manila, regions and exclusive special investigative reports.
-
-### [A military aircraft with 120 people onboard crashes into the Andaman Sea off the coast of Myanmar. ](/news/2017/06/7/a-military-aircraft-with-120-people-onboard-crashes-into-the-andaman-sea-off-the-coast-of-myanmar.md)
-Parts of a Burmese military plane have been found in the sea after it disappeared with more than 100 people on board. A spokesperson for the chief of the country’s army said the aircraft went missing during a domestic flight on Wednesday. “Communication was lost suddenly at about 1.35pm (8.05 BST) when it reached about 20 miles west of Dawei town,” read a statement posted on Facebook.
-
-### [A childcare worker in London is reportedly stabbed by three Muslim women while on her way to work, suffering non life threatening injuries. ](/news/2017/06/7/a-childcare-worker-in-london-is-reportedly-stabbed-by-three-muslim-women-while-on-her-way-to-work-suffering-non-life-threatening-injuries.md)
-A woman is taken to hospital with a &quot;slash wound&quot; after being attacked on her way to work, police say.
-
-### [United States president Donald Trump announces lawyer Christopher A. Wray as his nominee to be director of the Federal Bureau of Investigation. ](/news/2017/06/7/united-states-president-donald-trump-announces-lawyer-christopher-a-wray-as-his-nominee-to-be-director-of-the-federal-bureau-of-investigati.md)
-_Context: Christopher A. Wray, Donald Trump, Federal Bureau of Investigation, Political appointments of Donald Trump_
-
-### [A U.S. House resolution unanimously passes 397-0 calling for all Turkish security guards involved in the May 16 clashes to be charged and prosecuted under United States law. ](/news/2017/06/7/a-u-s-house-resolution-unanimously-passes-397a0-calling-for-all-turkish-security-guards-involved-in-the-may-16-clashes-to-be-charged-and.md)
-_Context: 2017 clashes at the Turkish Ambassador's Residence in Washington, D.C._
-
-### [The oldest fossil records of ''Homo sapiens'' are discovered in Jebel Irhoud, Morocco, dated at between 300,000 and 350,000 years old. The earliest ''Homo sapiens'' fossils had been dated as 200,000 years old. ](/news/2017/06/7/the-oldest-fossil-records-of-homo-sapiens-are-discovered-in-jebel-irhoud-morocco-dated-at-between-300-000-and-350-000-years-old-the-e.md)
-The 300,000-year-old modern humans are roughly 100,000 years older than other fossils of our species.
-
----
-
-## [Previous Day...](/news/2017/06/6/index.md)
+## [Previous Day...](/news/2017/06/7/index.md)
 
 ---
 
