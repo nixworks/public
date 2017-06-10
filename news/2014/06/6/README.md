@@ -40,7 +40,7 @@ Chinese-born Australian artist Guo Jian, detained before the Tiananmen anniversa
 _Context: Canadian police, Moncton, New Brunswick, Royal Canadian Mounted Police, murder_
 
 ### [Japan's parliament moves to ban the possession of child pornography.  ](/news/2014/06/6/japan-s-parliament-moves-to-ban-the-possession-of-child-pornography.md)
-_Context: child pornography, parliament_
+_Context: National Diet, child pornography_
 
 ### [Brazilian prosecutors are investigating allegations that organs are being illegally taken from unidentified bodies and sold for medical research.  ](/news/2014/06/6/brazilian-prosecutors-are-investigating-allegations-that-organs-are-being-illegally-taken-from-unidentified-bodies-and-sold-for-medical-rese.md)
 _Context: organs, prosecutors_

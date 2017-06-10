@@ -25,7 +25,7 @@ A landslide killed at least 10 people and injured seven in Indonesia’s East Ja
 Get the latest Latin American and Caribbean news from BBC News in Latin America and the Caribbean: breaking news, features and analysis plus audio and video content from Mexico, Central and South America, and the Caribbean.
 
 ### [An anti-piracy conference opens in Dubai, United Arab Emirates. ](/news/2011/04/18/an-anti-piracy-conference-opens-in-dubai-united-arab-emirates.md)
-_Context: Dubai, United Arab Emirates, anti-piracy_
+_Context: Dubai, UAE, anti-piracy_
 
 ### [Ugandan opposition leader Kizza Besigye is arrested during a protest against high food and fuel prices in the capital Kampala. ](/news/2011/04/18/ugandan-opposition-leader-kizza-besigye-is-arrested-during-a-protest-against-high-food-and-fuel-prices-in-the-capital-kampala.md)
 Kizza Besigye, who challenged incumbent president, among those arrested for staging protest.

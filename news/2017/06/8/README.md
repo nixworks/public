@@ -30,6 +30,9 @@ Troops will be deployed to help put out bushfires and protect properties in the 
 ### [The Saudi Arabia-led bloc against Qatar issues a "terror list" against the peninsula. ](/news/2017/06/8/the-saudi-arabia-led-bloc-against-qatar-issues-a-terror-list-against-the-peninsula.md)
 Joint statement lists 59 individuals, including 18 Qataris, and 12 organisations on &#39;terror list&#39;.
 
+### [U.S. authorities charge two operatives, Samer El Debek, 37, of Dearborn, Michigan, and Ali Kourani, 32, of the Bronx, New York, belonging to the Lebanese Shiite militant group Hezbollah with terrorism offenses, accused of plotting to target American and Israeli targets in New York and Panama. ](/news/2017/06/8/u-s-authorities-charge-two-operatives-samer-el-debek-37-of-dearborn-michigan-and-ali-kourani-32-of-the-bronx-new-york-belonging-to.md)
+Targets included an embassy in Central America and Israeli military personnel facilities in the U.S.
+
 ### [An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md)
 _Context: Kiev, Ukraine-United States relations, United States, embassy_
 

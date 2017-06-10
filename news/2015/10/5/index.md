@@ -7,7 +7,7 @@ The United States and NATO denounced Russia on Monday for violating Turkish airs
 At least 57 people were killed on Monday in car bomb attacks in Baghdad and the north and south of Iraq, police and medical sources said.
 
 ### [Fighting rages between Houthi militants and Hadi loyalists backed-by Saudi-led coalition forces along Yemen's Red Sea coast for control over the strategic Bab-el-Mandeb strait. Houthi officials say that their forces have destroyed six opposing tanks and killed multiple pro-Hadi fighters. Also, the UAE announces another of its soldiers has died during fighting in Ma'rib. ](/news/2015/10/5/fighting-rages-between-houthi-militants-and-hadi-loyalists-backed-by-saudi-led-coalition-forces-along-yemen-s-red-sea-coast-for-control-over.md)
-_Context: Abd Rabbuh Mansur Hadi, Bab-el-Mandeb, Houthi, Ma'rib Governorate, Red Sea, Saudi-led coalition, United Arab Emirates, Yemeni Civil War (2015)_
+_Context: Abd Rabbuh Mansur Hadi, Bab-el-Mandeb, Houthi, Ma'rib Governorate, Red Sea, Saudi Arabian-led intervention in Yemen, UAE, Yemeni Civil War (2015)_
 
 ### [Clothing manufacturer and retailer American Apparel files for bankruptcy. The company says that its 200+ retail stores will continue to operate without any interruptions. ](/news/2015/10/5/clothing-manufacturer-and-retailer-american-apparel-files-for-bankruptcy-the-company-says-that-its-200-retail-stores-will-continue-to-oper.md)
 _Context: American Apparel_

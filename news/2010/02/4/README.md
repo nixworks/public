@@ -13,7 +13,7 @@ The cabinet says it will admit two Guantanamo prisoners on humanitarian grounds.
 _Context: HotJobs, Monster.com, Yahoo_
 
 ### [Debt-ridden emirate of Dubai of the United Arab Emirates, confirms the discovery of a new oilfield. ](/news/2010/02/4/debt-ridden-emirate-of-dubai-of-the-united-arab-emirates-confirms-the-discovery-of-a-new-oilfield.md)
-_Context: Dubai, United Arab Emirates, oilfield_
+_Context: Dubai, UAE, oilfield_
 
 ### [Sumo grand champion Asashoryu announces his retirement, following allegations he attacked a man outside a Tokyo nightclub.  ](/news/2010/02/4/sumo-grand-champion-asashoryu-announces-his-retirement-following-allegations-he-attacked-a-man-outside-a-tokyo-nightclub.md)
 _Context: Asashoryu, Sumo_

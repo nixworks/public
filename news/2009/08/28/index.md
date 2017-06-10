@@ -34,7 +34,7 @@ _Context: King Mohammed VI of Morocco, dehydration, rotavirus_
 Fresh fighting has erupted between Myanmar forces and an armed ethnic group in the remote northeast, forcing tens of thousands to flee across the border into China, activists and state media said on Friday.
 
 ### [ United Nations diplomats confirm the United Arab Emirates seized a North Korean ship carrying weapons to Iran, in violation of Security Council Resolution 1874. ](/news/2009/08/28/united-nations-diplomats-confirm-the-united-arab-emirates-seized-a-north-korean-ship-carrying-weapons-to-iran-in-violation-of-security-cou.md)
-_Context: Iran, North Korea, United Arab Emirates, United Nations, United Nations Security Council, sanctions_
+_Context: Iran, North Korea, UAE, United Nations, United Nations Security Council, sanctions_
 
 ### [ Iranian President Mahmoud Ahmadinejad calls for opposition leaders to be punished over election protests which occurred earlier this year. ](/news/2009/08/28/iranian-president-mahmoud-ahmadinejad-calls-for-opposition-leaders-to-be-punished-over-election-protests-which-occurred-earlier-this-year.md)
 _Context: Iran, Mahmoud Ahmadinejad, President, protests against the regime_

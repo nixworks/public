@@ -22,7 +22,7 @@ _Context: Pope Benedict XVI, Vatican police, audience, popemobile_
 _Context: 33rd G8 summit, G8 group of nations, German, Rostock, climate change, international aid_
 
 ### [ Dozens of people are trapped in a collapsed hall in Leshan in the southwestern province of Sichuan in China. ](/news/2007/06/6/dozens-of-people-are-trapped-in-a-collapsed-hall-in-leshan-in-the-southwestern-province-of-sichuan-in-china.md)
-_Context: China, Leshan, Sichuan_
+_Context: Chinese, Leshan, Sichuan_
 
 ## [Previous Day...](/news/2007/06/5/index.md)
 

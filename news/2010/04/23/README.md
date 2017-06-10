@@ -55,7 +55,7 @@ A&#x20;Frenchman&#x20;and&#x20;an&#x20;Algerian&#x20;national&#x20;were&#x20;kid
 Officials deny decision is political, saying that monks could obstruct relief efforts.
 
 ### [A total of 2.89 million new jobs were created in China's urban areas during the first three months this year, according to the Ministry of Human Resources and Social Security (MOHRSS) ](/news/2010/04/23/a-total-of-2-89-million-new-jobs-were-created-in-china-s-urban-areas-during-the-first-three-months-this-year-according-to-the-ministry-of-h.md)
-_Context: China, MOHRSS, Ministry of Human Resources and Social Security_
+_Context: Chinese, MOHRSS, Ministry of Human Resources and Social Security_
 
 ### [Arizona governor Jan Brewer signs the state's controversial immigrant detention bill into law. Supporters say it will take 'the handcuffs' off police; opponents say it will violate people's civil rights. ](/news/2010/04/23/arizona-governor-jan-brewer-signs-the-state-s-controversial-immigrant-detention-bill-into-law-supporters-say-it-will-take-the-handcuffs-o.md)
 _Context: Arizona, Jan Brewer, civil rights_

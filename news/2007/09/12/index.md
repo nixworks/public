@@ -1,7 +1,7 @@
 ## [2007-09-12](/news/2007/09/12/index.md)
 
 ### [ Burj Dubai in the United Arab Emirates reaches 555.3 metres, surpassing the 553.3 metre CN Tower in Toronto, Ontario Canada as the world's tallest free-standing structure on land, which it had been since 1976.  The building is due for completion 2008 with a final projected height of 818 metres. ](/news/2007/09/12/burj-dubai-in-the-united-arab-emirates-reaches-555-3-metres-surpassing-the-553-3-metre-cn-tower-in-toronto-ontario-canada-as-the-world-s.md)
-_Context: 1976, 2008, Burj Dubai, CN Tower, Canada, Toronto, Ontario, United Arab Emirates, tallest structure in the world_
+_Context: 1976, 2008, Burj Dubai, CN Tower, Canada, Toronto, Ontario, UAE, tallest structure in the world_
 
 ### [ Russian President Vladimir Putin fires the chief of the Russian Navy Vladimir Masorin, and appoints in his place the commander of the Russian Northern Fleet, Vladimir Vysotsky. ](/news/2007/09/12/russian-president-vladimir-putin-fires-the-chief-of-the-russian-navy-vladimir-masorin-and-appoints-in-his-place-the-commander-of-the-russi.md)
 _Context: Russia, Russian Navy, Russian Northern Fleet, Vladimir Masorin, Vladimir Putin, Vladimir Vysotsky_

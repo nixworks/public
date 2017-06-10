@@ -22,7 +22,7 @@ At least three people are dead after multi-vehicle accidents due to icy roads in
 INDONESIA has put to death five foreigners and one local woman convicted of drugs offences, unleashing a diplomatic storm as Brazil and the Netherlands condemned the execution of their citizens. 
 
 ### [Chinese police shoot dead two ethnic Uighurs in Pingxiang, Guangxi while they attempt to cross into Vietnam after members of their group resisted arrest with knives. The public security ministry accuses a separatist group of orchestrating hundreds of cases of human smuggling. ](/news/2015/01/18/chinese-police-shoot-dead-two-ethnic-uighurs-in-pingxiang-guangxi-while-they-attempt-to-cross-into-vietnam-after-members-of-their-group-res.md)
-_Context: China, Guangxi Zhuang, Pingxiang, Uighur, Vietnam_
+_Context: Chinese, Guangxi Zhuang, Pingxiang, Uighur, Vietnam_
 
 ## [Previous Day...](/news/2015/01/17/index.md)
 

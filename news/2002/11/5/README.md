@@ -10,7 +10,7 @@ _Context: 2002 midterm elections, D, Election Day, R, United States House of Rep
 _Context: Ariel Sharon, Prime Minister of Israel, elections early the next year, parliament in Israel_
 
 ### [ UK Conservative Party leader Iain Duncan Smith made what was widely considered to be a disastrous speech where he demanded that his party "unite or die"; observers believe that this marks the start of a new leadership struggle within the Conservative Party.](/news/2002/11/5/uk-conservative-party-leader-iain-duncan-smith-made-what-was-widely-considered-to-be-a-disastrous-speech-where-he-demanded-that-his-party.md)
-_Context: Conservatives, Iain Duncan Smith_
+_Context: Conservative Party, Iain Duncan Smith_
 
 ## [Previous Day...](/news/2002/11/4/index.md)
 

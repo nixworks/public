@@ -4,7 +4,7 @@
 _Context: 2007 IIHF World Hockey Championship, Finland, Moscow, Russia, Team Canada, gold medal_
 
 ### [ Two cargo ships collide in heavy fog near Dalian, China. 16 sailors are missing. ](/news/2007/05/13/two-cargo-ships-collide-in-heavy-fog-near-dalian-china-16-sailors-are-missing.md)
-_Context: China, Dalian, cargo ship_
+_Context: Chinese, Dalian, cargo ship_
 
 ### [ At least one million people gather in Izmir, Turkey for the fifth mass rally to demand their country remain a secular state, stepping up pressure on the Islamist-rooted Justice and Development Party (AKP) government before July elections. ](/news/2007/05/13/at-least-one-million-people-gather-in-adegzmir-turkey-for-the-fifth-mass-rally-to-demand-their-country-remain-a-secular-state-stepping-up-p.md)
 _Context: Islamist, Izmir, July elections, Turkey, fifth mass rally, ruling party, secular state_
@@ -16,7 +16,7 @@ _Context: Iraq War, Kurdistan Democratic Party of Iraq, Makhmur, car bomb_
 _Context: Dadullah, NATO, Taliban_
 
 ### [ President of Iran Mahmoud Ahmadinejad visits the United Arab Emirates for the first official visit since 1979. ](/news/2007/05/13/president-of-iran-mahmoud-ahmadinejad-visits-the-united-arab-emirates-for-the-first-official-visit-since-1979.md)
-_Context: Mahmoud Ahmadinejad, President, United Arab Emirates_
+_Context: Mahmoud Ahmadinejad, President, UAE_
 
 ### [ Prime Minister of Australia John Howard writes to Cricket Australia telling it to call off a tour of Zimbabwe due to concern over human rights abuses in that country. ](/news/2007/05/13/prime-minister-of-australia-john-howard-writes-to-cricket-australia-telling-it-to-call-off-a-tour-of-zimbabwe-due-to-concern-over-human-rig.md)
 _Context: Cricket Australia, John Howard, Prime Minister of Australia, Zimbabwe, human rights abuses in that country_

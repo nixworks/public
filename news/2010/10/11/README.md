@@ -37,10 +37,10 @@ _Context: 2010 Atlantic hurricane season, Honduras, Tropical Storm Paula (2010),
 _Context: Benjamin Netanyahu, Israel, Palestinian, Prime Minister of Israel_
 
 ### [Liu Xiaobo:China cancels a meeting with Norwegian Minister of Fisheries and Coastal Affairs Lisbeth Berg-Hansen after the Nobel Peace Prize is awarded to him. ](/news/2010/10/11/liu-xiaobo-pchina-cancels-a-meeting-with-norwegian-minister-of-fisheries-and-coastal-affairs-lisbeth-berg-hansen-after-the-nobel-peace-prize.md)
-_Context: China, Lisbeth Berg-Hansen, Liu Xiaobo, Minister of Fisheries and Coastal Affairs, Nobel Peace Prize, Norway_
+_Context: Chinese, Lisbeth Berg-Hansen, Liu Xiaobo, Minister of Fisheries and Coastal Affairs, Nobel Peace Prize, Norway_
 
 ### [The United Arab Emirates closes its airspace to Canada's Defence Minister Peter MacKay over a growing dispute over aviation rights.](/news/2010/10/11/the-united-arab-emirates-closes-its-airspace-to-canada-s-defence-minister-peter-mackay-over-a-growing-dispute-over-aviation-rights.md)
-_Context: Canada, Defence Minister, Peter MacKay, United Arab Emirates, dispute over aviation rights_
+_Context: Canada, Defence Minister, Peter MacKay, UAE, dispute over aviation rights_
 
 ### [Greek Police officer Epaminondas Korkoneas is convicted of the culpable homicide of teenager Alexandros Grigoropoulos which sparked the 2008 Greek riots. ](/news/2010/10/11/greek-police-officer-epaminondas-korkoneas-is-convicted-of-the-culpable-homicide-of-teenager-alexandros-grigoropoulos-which-sparked-the-2008.md)
 A Greek policeman is sentenced to life in jail for murdering a schoolboy in 2008, a shooting incident which sparked the worst unrest in decades.

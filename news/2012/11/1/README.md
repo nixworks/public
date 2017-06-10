@@ -25,7 +25,7 @@ A couple in Pakistani-administered Kashmir are arrested for murdering their teen
 _Context: Evin prison, Iranian human rights, Nasrin Sotoudeh_
 
 ### [Charges of perjury and child endangerment, among others, are filed against former Penn State President Graham Spanier and two other administrators in connection with the Penn State scandal involving imprisoned former football coach Jerry Sandusky; new charges also are filed against Athletic Director Tim Curley and retired Vice President Gary Schultz, who are already under arrest on perjury and failure to report child abuse charges. ](/news/2012/11/1/charges-of-perjury-and-child-endangerment-among-others-are-filed-against-former-penn-state-president-graham-spanier-and-two-other-administ.md)
-_Context: Graham Spanier, Jerry Sandusky, Penn State child sex abuse scandal, Pennsylvania State University, Tim Curley, child abuse, child endangerment, perjury_
+_Context: Graham Spanier, Jerry Sandusky, Penn State child sex abuse scandal, Pennsylvania State University, Tim Curley, child abuse, child endangerment, lied under oath_
 
 ### [A prison officer is killed in an ambush by dissident Irish republicans as he drives to work along Northern Ireland's M1 motorway. The officer, who worked at the province's Maghaberry Prison, is the first member of the Northern Ireland Prison Service to be killed in such an attack in 20 years. ](/news/2012/11/1/a-prison-officer-is-killed-in-an-ambush-by-dissident-irish-republicans-as-he-drives-to-work-along-northern-ireland-s-m1-motorway-the-office.md)
 The family of a Northern Ireland prison officer murdered as he drove to work are &quot;absolutely devastated&quot;, their minister says.

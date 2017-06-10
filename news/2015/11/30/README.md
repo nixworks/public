@@ -10,7 +10,7 @@ Iraqi forces have launched an offensive to retake Ramadi from Islamic State mili
 US soldiers have reportedly arrived in northern Syria - the first official deployment of US ground troops in the country. The troops are tasked with training Kurdish and Syrian opposition forces battling &quot;Islamic State.&quot;
 
 ### [Clashes with Yemeni forces in the kingdom's southern Jizan Region near the border with Yemen leave at least three Saudi border guards killed. ](/news/2015/11/30/clashes-with-yemeni-forces-in-the-kingdom-s-southern-jizan-region-near-the-border-with-yemen-leave-at-least-three-saudi-border-guards-killed.md)
-_Context: Jizan Region, Saudi Arabia, Saudi-led coalition, Yemen, border guards_
+_Context: Jizan Region, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen, border guards_
 
 ### [Responding to reports, the American Tribune Publishing Co. states  it is not in talks to sell the company. ](/news/2015/11/30/responding-to-reports-the-american-tribune-publishing-co-states-it-is-not-in-talks-to-sell-the-company.md)
 Tribune Publishing — owner of the Chicago Tribune, Los Angeles Times and other daily papers — denies Rupert Murdoch-fueled rumor that a sale is imminent.
@@ -34,10 +34,10 @@ The capitals of the world&rsquo;s two most populous nations, China and India, we
 By Alisa TangBANGKOK (Thomson Reuters Foundation) - The estimated number of adolescents dying of AIDS in the Asia Pacific region has more than double
 
 ### [Martyrs' Day (United Arab Emirates) is being observed in United Arab Emirates as Commemoration Day this year on November 30, 2015, recognising the sacrifices and dedication of Emirati martyrs who have given their life in the UAE and abroad in the field of civil, military and humanitarian service. ](/news/2015/11/30/martyrs-day-united-arab-emirates-is-being-observed-in-united-arab-emirates-as-commemoration-day-this-year-on-november-30-2015-recognisi.md)
-_Context: Emirati martyrs, Martyrs' Day (United Arab Emirates), United Arab Emirates_
+_Context: Emirati martyrs, Martyrs' Day (United Arab Emirates), UAE_
 
 ### [South Korea's parliament approves a free trade pact with China after opposition lawmakers, concerned that deal that would hurt agriculture and fisheries, secured a $1.4 billion relief package for farmers. ](/news/2015/11/30/south-korea-s-parliament-approves-a-free-trade-pact-with-china-after-opposition-lawmakers-concerned-that-deal-that-would-hurt-agriculture-a.md)
-_Context: China, South Korea, agriculture, fisheries, free trade, parliamentary review_
+_Context: Chinese, South Korea, agriculture, fisheries, free trade, parliamentary review_
 
 ### [Around 150 world leaders attend the UN Climate Change Conference in Paris, aiming for a global deal on limiting greenhouse gas emissions. ](/news/2015/11/30/around-150-world-leaders-attend-the-un-climate-change-conference-in-paris-aiming-for-a-global-deal-on-limiting-greenhouse-gas-emissions.md)
 _Context: 2015 United Nations Climate Change Conference, Paris, greenhouse gas_
@@ -46,7 +46,7 @@ _Context: 2015 United Nations Climate Change Conference, Paris, greenhouse gas_
 Pope Francis visits a mosque in the capital of the Central African Republic, and calls for religious harmony in a country divided along religious lines.
 
 ### [Israel will open a diplomatic mission to the International Renewable Energy Agency (Irena), the headquarters of which are located near the capital of the United Arab Emirates, Abu Dhabi.  Israel will be the first Irena member to open such a mission; other member nations work Irena relations from their missions to the UAE, which Israel does not have. ](/news/2015/11/30/israel-will-open-a-diplomatic-mission-to-the-international-renewable-energy-agency-irena-the-headquarters-of-which-are-located-near-the-c.md)
-_Context: Abu Dhabi, International Renewable Energy Agency, Israel, Israel does not have, United Arab Emirates_
+_Context: Abu Dhabi, International Renewable Energy Agency, Israel, Israel does not have, UAE_
 
 ### [A Russian Airborne Troops spokesman says the VDV is planning to expand their military exercises into the North Pole area of the Arctic in 2016. ](/news/2015/11/30/a-russian-airborne-troops-spokesman-says-the-vdv-is-planning-to-expand-their-military-exercises-into-the-north-pole-area-of-the-arctic-in-20.md)
 Russian Airborne Troops are planning to expand their military exercises into the North Pole in 2016.

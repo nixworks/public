@@ -4,7 +4,7 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Gunmen storm a retirement home in Yemen, run by a charity established by Mother Teresa, killing 16 people, including four Catholic nuns.  ](/news/2016/03/4/gunmen-storm-a-retirement-home-in-yemen-run-by-a-charity-established-by-mother-teresa-killing-16-people-including-four-catholic-nuns.md)
-_Context: Mother Teresa, Yemen, Yemeni Civil War (2015-present)_
+_Context: Mother Teresa, Yemen, Yemeni conflict_
 
 ### [A bomb explodes under a vehicle in Belfast injuring a prison officer; Dissident republicans have claimed responsibility. ](/news/2016/03/4/a-bomb-explodes-under-a-vehicle-in-belfast-injuring-a-prison-officer-dissident-republicans-have-claimed-responsibility.md)
 A bomb has exploded under a van in east Belfast, seriously injuring a prison officer - and police have warned it is part of a dissident republican plot to kill security forces in the le

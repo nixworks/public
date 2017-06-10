@@ -16,7 +16,7 @@ Sweden&#039;s Loreen wins Eurovision in Azerbaijan before a television audience 
 _Context: Bogor, Indonesia, West Java, gold mine, landslide_
 
 ### [China releases an annual report on human rights, criticizing the United States' human rights record, citing the arrest of Occupy Wall Street protesters and Internet restrictions. ](/news/2012/05/26/china-releases-an-annual-report-on-human-rights-criticizing-the-united-states-human-rights-record-citing-the-arrest-of-occupy-wall-street.md)
-_Context: China, Human rights, Internet, Occupy Wall Street protesters, United States' human rights record_
+_Context: Chinese, Human rights, Internet, Occupy Wall Street protesters, United States' human rights record_
 
 ### [A gunman in the town of Hyvinkaa near the Finnish capital Helsinki kills 2 people and injures 7 in a shooting before being arrested. ](/news/2012/05/26/a-gunman-in-the-town-of-hyvinka-a-near-the-finnish-capital-helsinki-kills-2-people-and-injures-7-in-a-shooting-before-being-arrested.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

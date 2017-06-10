@@ -16,7 +16,7 @@ UnitedHealth Group, the health insurance company, will replace Kraft Foods in th
 _Context: East Kalimantan, Indonesia, Mahakam River_
 
 ### [Six Chinese Marine Surveillance ships are reported near the disputed Senkaku Islands by the Japanese Coast Guard. China says "two surveillance ship fleets" are in the waters "around" the islands for "patrols and law enforcement". ](/news/2012/09/14/six-chinese-marine-surveillance-ships-are-reported-near-the-disputed-senkaku-islands-by-the-japanese-coast-guard-china-says-two-surveillan.md)
-_Context: China, Chinese Marine Surveillance, Japanese Coast Guard, Senkaku Islands_
+_Context: Chinese, Chinese Marine Surveillance, Japanese Coast Guard, Senkaku Islands_
 
 ### [The Pope visits Lebanon. ](/news/2012/09/14/the-pope-visits-lebanon.md)
 Anti-American violence flared Friday across North Africa and the Middle East, with Muslim mobs reportedly scaling the walls of the U.S. Embassies in Tunisia and Sudan, breaking windows and setting fires.

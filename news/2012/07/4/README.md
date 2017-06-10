@@ -10,7 +10,7 @@ A man shot dead four people including his partner before killing himself in a si
 _Context: Baghdad, Iraq_
 
 ### [China accuses the Vatican of obstructing the development of Catholicism after the latter threatens to excommunicate new bishops ordained without papal approval. ](/news/2012/07/4/china-accuses-the-vatican-of-obstructing-the-development-of-catholicism-after-the-latter-threatens-to-excommunicate-new-bishops-ordained-wit.md)
-_Context: Catholic faithful, China, Holy See, Pope, excommunicate_
+_Context: Catholic faithful, Chinese, Holy See, Pope, excommunicate_
 
 ### [British broadcaster George Entwistle is named as the next Director-General of the BBC, beginning in autumn 2012. ](/news/2012/07/4/british-broadcaster-george-entwistle-is-named-as-the-next-director-general-of-the-bbc-beginning-in-autumn-2012.md)
 Current director of BBC Vision, George Entwistle, is announced as the 15th BBC director general.

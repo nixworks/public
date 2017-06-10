@@ -1,7 +1,7 @@
 ## [2007-05-22](/news/2007/05/22/index.md)
 
 ### [ Premier Gary Doer of the Canadian province of Manitoba secures a third straight NDP majority government in the general election. ](/news/2007/05/22/premier-gary-doer-of-the-canadian-province-of-manitoba-secures-a-third-straight-ndp-majority-government-in-the-general-election.md)
-_Context: Canadian province, Gary Doer, Manitoba, Premier, general election. , majority government_
+_Context: Canadian province, Gary Doer, Manitoba, Premier, general election. , parliament majority_
 
 ### [ Silas Rondeau, the Energy Minister of Brazil, resigns over allegations of corruption in a public works project. ](/news/2007/05/22/silas-rondeau-the-energy-minister-of-brazil-resigns-over-allegations-of-corruption-in-a-public-works-project.md)
 _Context: Brazil, Silas Rondeau, anti-corruption_

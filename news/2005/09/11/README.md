@@ -13,7 +13,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Japanese encephalitis, Uttar Pradesh, death toll_
 
 ### [ Over 800,000 people in the Zhejiang province of China  are evacuating as the province is hit by Typhoon Khanun which has a packing center winds of 144 kilometers per hour. ](/news/2005/09/11/over-800-000-people-in-the-zhejiang-province-of-china-are-evacuating-as-the-province-is-hit-by-typhoon-khanun-which-has-a-packing-center-w.md)
-_Context: China, Typhoon Khanun, Zhejiang_
+_Context: Chinese, Typhoon Khanun, Zhejiang_
 
 ### [ The Norwegian parliamentary election, 2005, held September 12, is set to be a very close race, according to pollsters. The vote will determine the balance of power in the Storting for the coming four years. The centre-right government under Prime Minister Kjell Magne Bondevik faces a centre-left opposition led by Jens Stoltenberg of the Norwegian Labour Party. ](/news/2005/09/11/the-norwegian-parliamentary-election-2005-held-september-12-is-set-to-be-a-very-close-race-according-to-pollsters-the-vote-will-determ.md)
 _Context: 2005 election, Jens Stoltenberg, Kjell Magne Bondevik, Norwegian Labour Party, Prime Minister, September 12, Storting_

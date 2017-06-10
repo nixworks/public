@@ -19,7 +19,7 @@ _Context: Apa, Mount Everest_
 Israeli police evicted Jewish settlers from a West Bank hilltop on Thursday, a day after Prime Minister Benjamin Netanyahu returned from Washington, where he was urged to take just such action.
 
 ### [ The U.S. develops a framework to provide the United Arab Emirates with nuclear energy. ](/news/2009/05/21/the-u-s-develops-a-framework-to-provide-the-united-arab-emirates-with-nuclear-energy.md)
-_Context: United Arab Emirates, United States, framework, nuclear power_
+_Context: UAE, United States, framework, nuclear power_
 
 ### [ The Communist Party kills 16 police officers near Nagpur, Maharashtra, India. ](/news/2009/05/21/the-communist-party-kills-16-police-officers-near-nagpur-maharashtra-india.md)
 _Context: Communist Party of India, India, Indian police, Maharashtra, Nagpur, Naxalite-Maoist insurgency_

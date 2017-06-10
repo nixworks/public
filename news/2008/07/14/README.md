@@ -7,7 +7,7 @@ _Context: United States Federal Reserve, housing crisis, mortgage_
 _Context: George W. Bush, U.S. President, United States, oil well_
 
 ### [ Etihad Airways from the United Arab Emirates buys 100 fuel-efficient aircraft from Airbus and Boeing. ](/news/2008/07/14/etihad-airways-from-the-united-arab-emirates-buys-100-fuel-efficient-aircraft-from-airbus-and-boeing.md)
-_Context: Airbus, Boeing, Etihad Airways, United Arab Emirates_
+_Context: Airbus, Boeing, Etihad Airways, UAE_
 
 ### [ Luis Moreno-Ocampo, the Prosecutor for the International Criminal Court, accuses Sudanese president Omar al-Bashir of genocide, crimes against humanity and war crimes in Darfur. ](/news/2008/07/14/luis-moreno-ocampo-the-prosecutor-for-the-international-criminal-court-accuses-sudanese-president-omar-al-bashir-of-genocide-crimes-agai.md)
 _Context: Darfur, International Criminal Court, Luis Moreno-Ocampo, Omar al-Bashir, Sudan, crimes against humanity, genocide, war crime_

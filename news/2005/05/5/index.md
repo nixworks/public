@@ -7,7 +7,7 @@ _Context: Irineos, Jerusalem, Jew, Orthodox Church of Jerusalem, Orthodox Patria
 _Context: Beit Lakia, Israel, Israeli-Palestinian conflict, May 4, Ramallah, commander_
 
 ### [ British polls open in the 2005 general election. Voters will elect 645 of the 646 members of the House of Commons. Most expect Tony Blair and his Labour Party to win, but both Michael Howard and the Conservative Party along with Charles Kennedy and the Liberal Democrats are expected to make major gains in Parliament. (Wikinews) ](/news/2005/05/5/british-polls-open-in-the-2005-general-election-voters-will-elect-645-of-the-646-members-of-the-house-of-commons-most-expect-tony-blair-a.md)
-_Context: (Wikinews), British House of Commons, Charles Kennedy, Conservatives, Labour, Liberal Democrats, Michael Howard, Tony Blair, United Kingdom, United Kingdom general election, 2005_
+_Context: (Wikinews), British House of Commons, Charles Kennedy, Conservative Party, Labour, Liberal Democrats, Michael Howard, Tony Blair, United Kingdom, United Kingdom general election, 2005_
 
 ### [ An explosion outside the United Kingdom consulate in New York City occurs at 07:35 GMT. There were no reported injuries. Police say they have found fragments of an explosive device. (Wikinews) ](/news/2005/05/5/an-explosion-outside-the-united-kingdom-consulate-in-new-york-city-occurs-at-07-35-gmt-there-were-no-reported-injuries-police-say-they-ha.md)
 _Context: (Wikinews), GMT, New York City, United Kingdom, consulate_

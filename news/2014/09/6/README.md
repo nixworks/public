@@ -13,7 +13,7 @@ _Context: Iran, Islamic State of Iraq and Syria, United States_
 Heavy monsoon rains and flash floods have killed 128 people in Pakistan and 108 people in India, officials said.
 
 ### [China says two pilots conducting fighter jet take-off and landing tests for the Chinese aircraft carrier Liaoning were killed during trials. ](/news/2014/09/6/china-says-two-pilots-conducting-fighter-jet-take-off-and-landing-tests-for-the-chinese-aircraft-carrier-liaoning-were-killed-during-trials.md)
-_Context: ''Liaoning'', China_
+_Context: ''Liaoning'', Chinese_
 
 ### [A wildfire is reported to have burned 300 acres near Yosemite National Park, forcing the evacuation of 700 nearby homes. ](/news/2014/09/6/a-wildfire-is-reported-to-have-burned-300-acres-near-yosemite-national-park-forcing-the-evacuation-of-700-nearby-homes.md)
 Get the latest breaking news across the U.S. on ABCNews.com

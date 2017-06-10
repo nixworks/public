@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Footage documenting CNN employees manufacturing a protest using unrepresentative Muslim actors surfaces on social media. ](/news/2017/06/3/footage-documenting-cnn-employees-manufacturing-a-protest-using-unrepresentative-muslim-actors-surfaces-on-social-media.md) _Context: CNN_
+1. [CNN denies authenticity of footage documenting employees manufacturing a protest using unrepresentative Muslim actors. ](/news/2017/06/3/cnn-denies-authenticity-of-footage-documenting-employees-manufacturing-a-protest-using-unrepresentative-muslim-actors.md) _Context: CNN_
 2. [CNN terminates its ''New Year's Eve Live'' contract with Kathy Griffin after she released a photograph of her holding a mock decapitated head of President Donald Trump. ](/news/2017/05/31/cnn-terminates-its-new-year-s-eve-live-contract-with-kathy-griffin-after-she-released-a-photograph-of-her-holding-a-mock-decapitated-hea.md) _Context: CNN_
 3. [In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military-exercises-focusing-on-co.md) _Context: Nepal_
 4. [The former Democratic National Committee chair and ex-CNN contributor Donna Brazile admits that she had forwarded some debate questions to Hillary Clinton's campaign during last year's Democratic primary before two debates with Bernie Sanders. ](/news/2017/03/17/the-former-democratic-national-committee-chair-and-ex-cnn-contributor-donna-brazile-admits-that-she-had-forwarded-some-debate-questions-to-h.md) _Context: CNN_

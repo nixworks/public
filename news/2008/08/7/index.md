@@ -13,7 +13,7 @@ _Context: March 2002, United States, unemployment benefits_
 Salim Ahmed Hamdan, the first detainee convicted after a war crimes trial in Guantánamo Bay, Cuba, could complete his punishment this year.
 
 ### [ The Mayor of Detroit Kwame Kilpatrick is ordered to go to jail for violating the terms of his bond for an ongoing perjury trial. ](/news/2008/08/7/the-mayor-of-detroit-kwame-kilpatrick-is-ordered-to-go-to-jail-for-violating-the-terms-of-his-bond-for-an-ongoing-perjury-trial.md)
-_Context: Kwame Kilpatrick, Mayor of Detroit, perjury_
+_Context: Kwame Kilpatrick, Mayor of Detroit, lied under oath_
 
 ### [ The leaders of the 2008 Mauritanian coup d'tat promise to hold elections as soon as possible. ](/news/2008/08/7/the-leaders-of-the-2008-mauritanian-coup-d-etat-promise-to-hold-elections-as-soon-as-possible.md)
 _Context: coup d'tat_

@@ -13,7 +13,7 @@ ISIS and its sympathizers have killed more than 500 people in attacks around the
 At least 22 officers killed and hostages held as regional leaders meet in Pakistan to discuss Afghanistan&#39;s future.
 
 ### [Saudi-led coalition airstrikes, targeting Houthi rebels battling pro-government fighters, killed and wounded dozens in the port city of Mocha, according to Yemeni security officials. Around 35 fighters on both sides were killed in the battle over a key military base near the city of Taiz. ](/news/2015/12/8/saudi-led-coalition-airstrikes-targeting-houthi-rebels-battling-pro-government-fighters-killed-and-wounded-dozens-in-the-port-city-of-moch.md)
-_Context: Houthi, Mocha, Saudi-led coalition, Taiz, Yemen, Yemeni, Yemeni Civil War (2015)_
+_Context: Houthi, Mocha, Saudi Arabian-led intervention in Yemen, Taiz, Yemen, Yemeni, Yemeni Civil War (2015)_
 
 ### [For the first time, Russia strikes Islamic State targets in northern Syria with 3M-54 Klub (Kalibr) cruise missiles launched from a Kilo-class submarine in the Mediterranean, according to the Russian Minister of Defence, Sergey Shoygu. ](/news/2015/12/8/for-the-first-time-russia-strikes-islamic-state-targets-in-northern-syria-with-3m-54-klub-kalibr-cruise-missiles-launched-from-a-kilo-cla.md)
 Russia has, for the first time, targeted Islamic State targets in Syria with Kalibr land-attack cruise missiles launched from a submarine in the Mediterranean Sea, according to Russia’s Defense Minister.

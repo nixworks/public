@@ -61,7 +61,7 @@ _Context: Bayo Ohu, Lagos, Nigeria, The Guardian_
 _Context: South Africa, murder, robbery, sexual offences_
 
 ### [ Chinese President Hu Jintao tells a U.N. summit on climate change that China will reduce greenhouse gas emissions and increase reliance on clean energy sources in coming years. ](/news/2009/09/22/chinese-president-hu-jintao-tells-a-u-n-summit-on-climate-change-that-china-will-reduce-greenhouse-gas-emissions-and-increase-reliance-on.md)
-_Context: China, President Hu Jintao, U.N., climate change, greenhouse gas emissions_
+_Context: Chinese, President Hu Jintao, U.N., climate change, greenhouse gas emissions_
 
 ### [ The 2009 Pacific Mini Games opens in Rarotonga, Cook Islands. ](/news/2009/09/22/the-2009-pacific-mini-games-opens-in-rarotonga-cook-islands.md)
 _Context: 2009 Pacific Mini Games, Cook Islands, Rarotonga_

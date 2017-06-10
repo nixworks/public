@@ -19,7 +19,7 @@ _Context: Iran, Shahrud_
 _Context: National Religious Broadcasters, Pat Robertson_
 
 ### [ Dubai Ports World controversy: The United States urges the United Arab Emirates to end its boycott of Israel: "The Bush administration said yesterday it is pressing the United Arab Emirates to drop its economic boycott of Israel&nbsp;- a major sticking point in the proposed takeover of key U.S. ports by a UAE-owned firm." ](/news/2006/03/2/dubai-ports-world-controversy-the-united-states-urges-the-united-arab-emirates-to-end-its-boycott-of-israel-the-bush-administration-said.md)
-_Context: Dubai Ports World controversy, Israel, United Arab Emirates_
+_Context: Dubai Ports World controversy, Israel, UAE_
 
 ### [ Sir Menzies Campbell has been elected the new leader of the Liberal Democrats. ](/news/2006/03/2/sir-menzies-campbell-has-been-elected-the-new-leader-of-the-liberal-democrats.md)
 _Context: Menzies Campbell, leader of the Liberal Democrats_

@@ -52,7 +52,7 @@ Viva Palestina vehicles leave London en route to besieged Strip for what organis
 _Context: Amsterdam, Amsterdam Airport Schiphol, Somalia, Uganda, United Kingdom, terrorism_
 
 ### [Inderjit Singh Reyat, the only man convicted of the bombings of Air India Flight 182 and Narita International Airport in 1985, is found guilty of perjury. ](/news/2010/09/19/inderjit-singh-reyat-the-only-man-convicted-of-the-bombings-of-air-india-flight-182-and-narita-international-airport-in-1985-is-found-guil.md)
-_Context: Air India Flight 182, Narita International Airport, perjury_
+_Context: Air India Flight 182, Narita International Airport, lied under oath_
 
 ### [At least four people are killed and a police officer seriously wounded in a shooting incident at a hospital in Lorrach, Germany. ](/news/2010/09/19/at-least-four-people-are-killed-and-a-police-officer-seriously-wounded-in-a-shooting-incident-at-a-hospital-in-laprrach-germany.md)
 Four people are killed and one seriously injured in a shooting at a German hospital and a blast in a nearby building, reports say.

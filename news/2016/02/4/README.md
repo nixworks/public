@@ -1,7 +1,7 @@
 ## [2016-02-4](/news/2016/02/4/index.md)
 
 ### [A drone strike in Yemen's Shabwah Governorate kills six suspected Al-Qaeda in the Arabian Peninsula militants. ](/news/2016/02/4/a-drone-strike-in-yemen-s-shabwah-governorate-kills-six-suspected-al-qaeda-in-the-arabian-peninsula-militants.md)
-_Context: Shabwa province, Yemen, Yemeni Civil War (2015-present), al-Qaida_
+_Context: Shabwa province, Yemen, Yemeni conflict, al-Qaida_
 
 ### [The Syrian Observatory for Human Rights reports Russian airstrikes on several rebel-held neighborhoods in the city of Aleppo, kills at least 21 civilians. ](/news/2016/02/4/the-syrian-observatory-for-human-rights-reports-russian-airstrikes-on-several-rebel-held-neighborhoods-in-the-city-of-aleppo-kills-at-least.md)
 At least 21 civilians, including three children, were killed Thursday in Russian strikes on rebel-held districts of Syria&#x27;s Aleppo city, a monitor said. The Britain-based Syrian Observatory for Human Rights said the strikes on six neighbourhoods of the northern city had also wounded many, and that
@@ -22,7 +22,7 @@ The long-awaited Trans Pacific Partnership, one of the biggest multinational tra
 _Context: Convention relating to the Status of Refugees, Europe, European migrant crisis, Parliament of Finland, President, Sauli Niinisto's, United Nations, Westerners_
 
 ### [The People's Republic of China charges Zhao Liping, former Police Chief for Inner Mongolia with murder, bribery and possession of fire arms and explosives. ](/news/2016/02/4/the-people-s-republic-of-china-charges-zhao-liping-former-police-chief-for-inner-mongolia-with-murder-bribery-and-possession-of-fire-arms.md)
-_Context: China, Inner Mongolia, Zhao Liping_
+_Context: Chinese, Inner Mongolia, Zhao Liping_
 
 ### [The suspect in the murder investigation of former Deputy Prime Minister of the Netherlands Els Borst admits to have assassinated her citing political motivations. ](/news/2016/02/4/the-suspect-in-the-murder-investigation-of-former-deputy-prime-minister-of-the-netherlands-els-borst-admits-to-have-assassinated-her-citing.md)
 _Context: Deputy Prime Minister of the Netherlands, Els Borst_

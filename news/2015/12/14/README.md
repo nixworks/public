@@ -1,7 +1,7 @@
 ## [2015-12-14](/news/2015/12/14/index.md)
 
 ### [Two senior army commanders from Saudi Arabia and the United Arab Emirates are killed, including the head of the Saudi Special forces in Yemen, Colonel Abdullah al-Sahyan, along with dozens of Saudi, Emirati, Sudanese and Yemeni coalition troops in a OTR-21 Tochka missile attack by Houthi forces on their base near the city of Taiz in southwestern Yemen. ](/news/2015/12/14/two-senior-army-commanders-from-saudi-arabia-and-the-united-arab-emirates-are-killed-including-the-head-of-the-saudi-special-forces-in-yeme.md)
-_Context: Houthi, OTR-21 Tochka, Saudi, Saudi Arabia, Saudi-led coalition, Sudanese military, Taiz, United Arab Emirates, Yemen, Yemeni, Yemeni Civil War (2015), forces_
+_Context: Houthi, OTR-21 Tochka, Saudi, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Sudanese military, Taiz, UAE, Yemen, Yemeni, Yemeni Civil War (2015), forces_
 
 ### [Egypt's Civil Aviation Ministry reports their investigation of the 31 October 2015 deadly crash of Russian Metrojet  Flight 9268 in the Sinai has not found any evidence of terrorism. Prior to this, the working assumption has been that plane was brought down by a bomb, and a group affiliated with ISIL said it was responsible. ](/news/2015/12/14/egypt-s-civil-aviation-ministry-reports-their-investigation-of-the-31-october-2015-deadly-crash-of-russian-metrojet-flight-9268-in-the-sina.md)
 Contrary to the initial findings of the Egyptian probe into the plane crash, Russia believes the jet was brought down by a bomb.

@@ -16,7 +16,7 @@ Bolivia accuses European states of &quot;aggression&quot; after its presidential
 _Context: Ecuador, Ricardo Patio, United Kingdom_
 
 ### [King Albert II of Belgium announces his abdication (effective July 21) for health reasons in favour of his son Prince Philippe, Duke of Brabant. ](/news/2013/07/3/king-albert-ii-of-belgium-announces-his-abdication-effective-july-21-for-health-reasons-in-favour-of-his-son-prince-philippe-duke-of-brab.md)
-_Context: Albert II of Belgium, Prince Philippe, Duke of Brabant, announces that he is to abdicate_
+_Context: Albert II of Belgium, Prince Philippe, Duke of Brabant, abdicate_
 
 ### [A 4,000-year-old pyramid at El Paraso in Peru is destroyed by property developers. ](/news/2013/07/3/a-4-000-year-old-pyramid-at-el-paraiso-in-peru-is-destroyed-by-property-developers.md)
 Authorities in Peru press criminal charges after accusing real-estate companies of tearing down a pyramid thought to be 4,000 years old.

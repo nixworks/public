@@ -22,7 +22,7 @@ _Context: Common Travel Area, Ireland, United Kingdom_
 Turkish warplanes attacked a village in northern Iraq on Wednesday, an Iraqi Kurdish security official said, but Turkey said it wanted to hold back from a major incursion to give diplomacy a chance.
 
 ### [ China launches its first lunar orbiter, Chang'e 1, on an exploration mission to the moon. ](/news/2007/10/24/china-launches-its-first-lunar-orbiter-chang-e-1-on-an-exploration-mission-to-the-moon.md)
-_Context: Chang'e 1, China_
+_Context: Chang'e 1, Chinese_
 
 ### [ The Pakistan Peoples Party claims that its leader, former Prime Minister of Pakistan Benazir Bhutto, has been forbidden to leave the country. ](/news/2007/10/24/the-pakistan-peoples-party-claims-that-its-leader-former-prime-minister-of-pakistan-benazir-bhutto-has-been-forbidden-to-leave-the-countr.md)
 _Context: Benazir Bhutto, Pakistan Peoples Party, Prime Minister_

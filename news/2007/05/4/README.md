@@ -25,7 +25,7 @@ _Context: Front for Democracy and the Republic, Mali, last Sunday's presidential
 _Context: 1982, 1983, Carlos the Jackal, France, terrorist_
 
 ### [ International delegates reach agreement at the Intergovernmental Panel on Climate Change on the summary report on mitigating climate change despite some concerns raised by China. ](/news/2007/05/4/international-delegates-reach-agreement-at-the-intergovernmental-panel-on-climate-change-on-the-summary-report-on-mitigating-climate-change.md)
-_Context: China, Intergovernmental Panel on Climate Change, summary report on mitigating climate change_
+_Context: Chinese, Intergovernmental Panel on Climate Change, summary report on mitigating climate change_
 
 ### [ Major world and Middle East powers discuss the future of Iraq on the second day of an International Compact for Iraq conference in Egypt. ](/news/2007/05/4/major-world-and-middle-east-powers-discuss-the-future-of-iraq-on-the-second-day-of-an-international-compact-for-iraq-conference-in-egypt.md)
 _Context: Egypt, International Compact for Iraq, Iraq, Middle East_

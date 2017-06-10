@@ -4,7 +4,7 @@
 Latest updates as Paris manhunt continues and France hits back at Islamic State in Raqqa
 
 ### [Yemeni security officials, who are neutral in the conflict, say Saudi-led airstrikes and clashes have killed over 40 Houthi militants and 4 civilians over the past 24 hours, with most of the airstrikes taking place in the southwestern Ibb Governorate. ](/news/2015/11/16/yemeni-security-officials-who-are-neutral-in-the-conflict-say-saudi-led-airstrikes-and-clashes-have-killed-over-40-houthi-militants-and-4.md)
-_Context: Houthi, Ibb Governorate, Saudi Arabia, Saudi-led coalition, Yemen_
+_Context: Houthi, Ibb Governorate, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
 
 ### [Egypt's security forces shoot dead at least 24 ISIS militants as they hid inside a cave in a mountainous area in central Sinai, not far from the crash site of Metrojet Flight 9268, a Russian airliner the group says it brought down. ](/news/2015/11/16/egypt-s-security-forces-shoot-dead-at-least-24-isis-militants-as-they-hid-inside-a-cave-in-a-mountainous-area-in-central-sinai-not-far-from.md)
 Egyptian security forces shot dead 24 Islamic State militants in central Sinai, 70 km (40 miles) from the crash site of a Russian airliner the group says it brought down, security sources said on Monday.
@@ -22,7 +22,7 @@ Federal and state authorities announced a $95.5-million settlement Monday with t
 Liberty Global announces &pound;3.5bn deal to buy London-listed cable provider as billionaire John Malone plans further expansion in Latin America and the Caribbean
 
 ### [The death toll from a landslide in a village in China's Zhejiang province rises to 25 with 12 people still missing. ](/news/2015/11/16/the-death-toll-from-a-landslide-in-a-village-in-china-s-zhejiang-province-rises-to-25-with-12-people-still-missing.md)
-_Context: China, Zhejiang_
+_Context: Chinese, Zhejiang_
 
 ### [  Floods in Sri Lanka and the southern Indian state of Tamil Nadu cause over 70 deaths with the city of Chennai worst affected. ](/news/2015/11/16/floods-in-sri-lanka-and-the-southern-indian-state-of-tamil-nadu-cause-over-70-deaths-with-the-city-of-chennai-worst-affected.md)
 Reports suggest at least 71 people have died from drowning, collapsing walls and electrocution

@@ -16,7 +16,7 @@ _Context: 2007 Amirli bombing, Amirli, Iraq, Shiite, Turkmen, suicide bomber_
 _Context: Afghanistan, Farah Province, Kunar Province, NATO, United States_
 
 ### [ Live Earth gets underway with concerts in Australia, the United States, Germany, South Africa, the United Kingdom, Brazil, Japan and China. ](/news/2007/07/7/live-earth-gets-underway-with-concerts-in-australia-the-united-states-germany-south-africa-the-united-kingdom-brazil-japan-and-china.md)
-_Context: Australia, Brazil, China, German, Japan, Live Earth, South Africa, United Kingdom, United States_
+_Context: Australia, Brazil, Chinese, German, Japan, Live Earth, South Africa, United Kingdom, United States_
 
 ### [ King Gyanendra of Nepal celebrates his 60th birthday amid protests by students and youth wings of eight ruling parties.](/news/2007/07/7/king-gyanendra-of-nepal-celebrates-his-60th-birthday-amid-protests-by-students-and-youth-wings-of-eight-ruling-parties.md)
 _Context: Gyanendra of Nepal, King of Nepal_

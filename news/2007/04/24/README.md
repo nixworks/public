@@ -22,7 +22,7 @@ _Context: Boris Yeltsin, Moscow, President, Russia_
 _Context: Indiana, New Castle Correctional Facility, United States, prison riot_
 
 ### [ Ethiopian rebels from the Ogaden National Liberation Front raid a Chinese-run oil field in near the country's border with Somalia, killing 74. ](/news/2007/04/24/ethiopian-rebels-from-the-ogaden-national-liberation-front-raid-a-chinese-run-oil-field-in-near-the-country-s-border-with-somalia-killing.md)
-_Context: China, Ethiopia, Ogaden National Liberation Front, Somalia, oil field, raid_
+_Context: Chinese, Ethiopia, Ogaden National Liberation Front, Somalia, oil field, raid_
 
 ### [ The Tamil Tigers launch an air attack on the Sri Lankan military's main base in Jaffna. ](/news/2007/04/24/the-tamil-tigers-launch-an-air-attack-on-the-sri-lankan-military-s-main-base-in-jaffna.md)
 _Context: Jaffna, Sri Lanka, Tamil Tigers_

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Footage documenting CNN employees manufacturing a protest using unrepresentative Muslim actors surfaces on social media. ](/news/2017/06/3/footage-documenting-cnn-employees-manufacturing-a-protest-using-unrepresentative-muslim-actors-surfaces-on-social-media.md) _Context: protest_
+1. [CNN denies authenticity of footage documenting employees manufacturing a protest using unrepresentative Muslim actors. ](/news/2017/06/3/cnn-denies-authenticity-of-footage-documenting-employees-manufacturing-a-protest-using-unrepresentative-muslim-actors.md) _Context: protest_
 2. [Hundreds of Palestinian prisoners in Israeli jails -- activists say up to 1,500 are participating -- begin an open-ended hunger strike to protest poor conditions and the Israeli policy of detention without trial. ](/news/2017/04/17/hundreds-of-palestinian-prisoners-in-israeli-jails-a-activists-say-up-to-1-500-are-participating-a-begin-an-open-ended-hunger-strike-to.md) _Context: hunger strike_
 3. [Oman receives 10 former detainees of the Guantanamo Bay detention camp following a request by the United States to take them. ](/news/2017/01/16/oman-receives-10-former-detainees-of-the-guantanamo-bay-detention-camp-following-a-request-by-the-united-states-to-take-them.md) _Context: Guantanamo Bay detention camp_
 4. [The Obama administration transfers 15 Guantanamo Bay detainees to the United Arab Emirates. ](/news/2016/08/15/the-obama-administration-transfers-15-guantanamo-bay-detainees-to-the-united-arab-emirates.md) _Context: Guantanamo Bay detention camp_

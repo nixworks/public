@@ -25,7 +25,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 _Context: Yemen_
 
 ### [ At least 15 people are killed when a dam collapses in south-west China. ](/news/2005/07/22/at-least-15-people-are-killed-when-a-dam-collapses-in-south-west-china.md)
-_Context: China, dam_
+_Context: Chinese, dam_
 
 ### [ A South Asian-looking man, suspected of being an attempted suicide bomber, having been chased by plainclothes police has been reportedly pinned to the ground then shot five times at Stockwell tube station in London, and has been confirmed dead by the police. (Wikinews), [http://www.guardian.co.uk/attackonlondon/story/0,16132,1534138,00.html (the Guardian)], [http://news.bbc.co.uk/2/hi/uk_news/4706787.stm (BBC)] [http://www.cnn.com/2005/WORLD/europe/07/22/london.tube/index.html (CNN)] [http://www.sky.com/skynews/article/0,,30000-1189920,00.html (Sky)].  The man was actually an innocent Brazilian killed without cause.](/news/2005/07/22/a-south-asian-looking-man-suspected-of-being-an-attempted-suicide-bomber-having-been-chased-by-plainclothes-police-has-been-reportedly-pi.md)
 _Context: (Wikinews), British Police, London, Stockwell tube station, plainclothes, suicide bombing_

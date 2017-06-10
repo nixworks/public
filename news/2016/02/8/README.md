@@ -7,7 +7,7 @@ _Context: Derna, ISIL, Libyan Air Force, Libyan Civil War (2014-present), MiG-23
 Detainees held by the Syrian Government are dying on an extermination scale, a UN report says.
 
 ### [A Scud missile fired from Yemen is intercepted over Saudi Arabia. The missile's target is believed to have been the King Khalid Air Base, near the city of Khamis Mushait. ](/news/2016/02/8/a-scud-missile-fired-from-yemen-is-intercepted-over-saudi-arabia-the-missile-s-target-is-believed-to-have-been-the-king-khalid-air-base-ne.md)
-_Context: Khamis Mushait, King Khalid Air Base, Saudi Arabia, Saudi-led coalition, Scud, Yemen_
+_Context: Khamis Mushait, King Khalid Air Base, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Scud, Yemen_
 
 ### [A suicide bomber strikes a crowded market in eastern Afghanistan killing five civilians and wounding nine others. ](/news/2016/02/8/a-suicide-bomber-strikes-a-crowded-market-in-eastern-afghanistan-killing-five-civilians-and-wounding-nine-others.md)
 _Context: War in Afghanistan (2015-present)_

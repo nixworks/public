@@ -7,7 +7,7 @@ _Context: UNHCR, Yei, Sudan_
 A wonky, geeky, ranty exploration of how the global economy fits together.
 
 ### [ United Kingdom: The House of Commons votes to approve an education reform bill. The Prime minister, Tony Blair's authority is called into question for his relying on the opposition Conservative party to secure the vote, due to revolt within his own Labour party. ](/news/2006/03/15/united-kingdom-the-house-of-commons-votes-to-approve-an-education-reform-bill-the-prime-minister-tony-blair-s-authority-is-called-into-q.md)
-_Context: British House of Commons, Conservatives, Labour, Prime Minister, Tony Blair_
+_Context: British House of Commons, Conservative Party, Labour, Prime Minister, Tony Blair_
 
 ### [ War in Iraq: A raid by the United States military kills eleven Iraqis, mostly civilians. ](/news/2006/03/15/war-in-iraq-a-raid-by-the-united-states-military-kills-eleven-iraqis-mostly-civilians.md)
 _Context: Iraqis, War in Iraq_

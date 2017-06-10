@@ -7,7 +7,7 @@ _Context:  in a crowd of Muslim pilgrims, Al Hillah, Iraq War, suicide bomb_
 _Context: Chen Shui-bian, Foreign Minister, Li Zhaoxing, People's Republic of China, President of Taiwan, independence_
 
 ### [ ''United States v. Libby'': Former Bush administration aide Lewis Libby is found guilty of perjury and obstruction of justice. ](/news/2007/03/6/united-states-v-libby-former-bush-administration-aide-lewis-libby-is-found-guilty-of-perjury-and-obstruction-of-justice.md)
-_Context: George W. Bush administration, Scooter Libby, United States v. Libby, obstruction of justice, perjury_
+_Context: George W. Bush administration, Scooter Libby, United States v. Libby, lied under oath, obstruction of justice_
 
 ### [ The United States Congress opens hearings into the dismissal of eight U.S. Attorneys, probing whether the Bush Administration had political motives for ousting the federal prosecutors. ](/news/2007/03/6/the-united-states-congress-opens-hearings-into-the-dismissal-of-eight-u-s-attorneys-probing-whether-the-bush-administration-had-political.md)
 _Context: Bush Administration, U.S. Congressional, federal prosecutors, firings_

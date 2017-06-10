@@ -4,7 +4,7 @@
 _Context: Boko Haram, Boko Haram insurgency, Maiduguri, Nigeria_
 
 ### [The Saudi-led coalition bombs the World Heritage Listed old quarter of Sana'a destroying three houses and killing five people. ](/news/2015/06/12/the-saudi-led-coalition-bombs-the-world-heritage-listed-old-quarter-of-sana-a-destroying-three-houses-and-killing-five-people.md)
-_Context: Sana'a, Saudi-led coalition, World Heritage List_
+_Context: Sana'a, Saudi Arabian-led intervention in Yemen, World Heritage List_
 
 ### [An armed group storms the Tunisian embassy in Libya taking ten hostages. ](/news/2015/06/12/an-armed-group-storms-the-tunisian-embassy-in-libya-taking-ten-hostages.md)
 _Context: Libya, Libyan Civil War (2014-present), Tunisia_
@@ -43,7 +43,7 @@ _Context: German, asylum seekers_
 _Context: Baltics, Latvia, Russian_
 
 ### [The Associated Press reports that hackers linked to the People's Republic of China appear to have gained access to sensitive background material about people seeking security clearances from the United States government. ](/news/2015/06/12/the-associated-press-reports-that-hackers-linked-to-the-people-s-republic-of-china-appear-to-have-gained-access-to-sensitive-background-mate.md)
-_Context: Associated Press, China, United States government, hackers_
+_Context: Associated Press, Chinese, United States government, hackers_
 
 ### [Former International Monetary Fund head Dominique Strauss-Kahn is acquitted of pimping charges in France.  ](/news/2015/06/12/former-international-monetary-fund-head-dominique-strauss-kahn-is-acquitted-of-pimping-charges-in-france.md)
 French court clears former International Monetary Fund chief of ‘aggravated pimping’ in multi-defendant trial over sex parties

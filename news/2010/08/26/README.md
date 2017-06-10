@@ -37,7 +37,7 @@ South Korean media quotes officials suspecting Kim Jong-Il has travelled to neig
 _Context: Amnesty International, Greenpeace India's, Moscow, ONE Campaign, Russia, U2_
 
 ### [An independent counsel finds that the Governor of New York David Paterson gave misleading evidence about intending to pay for free tickets that he obtained to last year's baseball world series and refers the issue to the Albany District Attorney for possible prosecution for perjury. ](/news/2010/08/26/an-independent-counsel-finds-that-the-governor-of-new-york-david-paterson-gave-misleading-evidence-about-intending-to-pay-for-free-tickets-t.md)
-_Context: Albany, David Paterson, District Attorney, New York Governor, baseball world series, independent counsel, perjury_
+_Context: Albany, David Paterson, District Attorney, New York Governor, baseball world series, independent counsel, lied under oath_
 
 ### [Mexico asks its Latin American neighbours to help identify the 72 people found murdered in Tamaulipas. ](/news/2010/08/26/mexico-asks-its-latin-american-neighbours-to-help-identify-the-72-people-found-murdered-in-tamaulipas.md)
 Mexico sought help Thursday from Latin American nations to identify 72 presumed migrants murdered near the US border, after officials blamed the brutal Zetas drug gang for the massacre.

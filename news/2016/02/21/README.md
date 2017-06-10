@@ -25,7 +25,7 @@ _Context: German, ISIL, Insurgency in the Maghreb (2002-present), Libya, Tunisia
 Explosions rip through Homs and Damascus suburb as world leaders attempt to get all warring parties to end hostilities for a bit
 
 ### [Thousands protest outside the Japanese parliament in Tokyo against the  relocation of a U.S. military base on Okinawa Island. Residents cite noise, pollution, and crime as reasons for not wanting a new base built. ](/news/2016/02/21/thousands-protest-outside-the-japanese-parliament-in-tokyo-against-the-relocation-of-a-u-s-military-base-on-okinawa-island-residents-cite.md)
-_Context: Japan, Japan-United States relations, Okinawa Island, Tokyo, U.S. military base, parliament_
+_Context: Japan, Japan-United States relations, National Diet, Okinawa Island, Tokyo, U.S. military base_
 
 ### [Kalamazoo County, Michigan authorities say last evening's shooting spree resulted in six deaths with two others seriously wounded. Each victim was shot multiple times. Police acknowledge that an earlier report that a 14-year-old girl died is incorrect; she is alive, but  "severely, gravely" injured. The suspect, a 45-year-old man who is a Uber driver without a prior criminal record,  was taken into custody without a struggle. ](/news/2016/02/21/kalamazoo-county-michigan-authorities-say-last-evening-s-shooting-spree-resulted-in-six-deaths-with-two-others-seriously-wounded-each-vict.md)
 Jason Dalton, 45, is in custody following the string of apparently random shootings.

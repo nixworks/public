@@ -13,13 +13,13 @@ _Context: North Korea, Tropical Storm Khanun_
 _Context: Democratic Republic of the Congo, Rwanda_
 
 ### [Ten more Islamists are arrested in the United Arab Emirates as part of a crackdown on dissidents, according to activists. ](/news/2012/07/29/ten-more-islamists-are-arrested-in-the-united-arab-emirates-as-part-of-a-crackdown-on-dissidents-according-to-activists.md)
-_Context: Islamist, United Arab Emirates, dissidents_
+_Context: Islamist, UAE, dissidents_
 
 ### [Thousands of anti-nuclear protesters form a human chain around the Japanese parliament in Tokyo. ](/news/2012/07/29/thousands-of-anti-nuclear-protesters-form-a-human-chain-around-the-japanese-parliament-in-tokyo.md)
 _Context: Japan, Tokyo, parliament_
 
 ### [Thousands of people protest against plans to introduce national patriotism lessons in Hong Kong schools, calling it Chinese propaganda. ](/news/2012/07/29/thousands-of-people-protest-against-plans-to-introduce-national-patriotism-lessons-in-hong-kong-schools-calling-it-chinese-propaganda.md)
-_Context: China, Hong Kong_
+_Context: Chinese, Hong Kong_
 
 ### [Voters in Romania go to the polls for an impeachment referendum against the President of Romania Traian Basescu. ](/news/2012/07/29/voters-in-romania-go-to-the-polls-for-an-impeachment-referendum-against-the-president-of-romania-traian-basescu.md)
 Turnout of less than 50% means Romanian President Traian Basescu survives a strong vote against him in a referendum on his impeachment.

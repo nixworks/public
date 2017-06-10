@@ -34,7 +34,7 @@ _Context: Swiss_
 _Context: Australia, Malaysia, trade agreement_
 
 ### [ Police in the Netherlands arrest a gang that has smuggled Chinese asylum seekers and sold them for cheap labor. ](/news/2005/04/7/police-in-the-netherlands-arrest-a-gang-that-has-smuggled-chinese-asylum-seekers-and-sold-them-for-cheap-labor.md)
-_Context: China, Netherlands, cheap labor, human trafficking, political asylum_
+_Context: Chinese, Netherlands, cheap labor, human trafficking, political asylum_
 
 ## [Previous Day...](/news/2005/04/6/index.md)
 

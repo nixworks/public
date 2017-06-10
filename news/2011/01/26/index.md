@@ -25,7 +25,7 @@ _Context: Richard Keys, Sian Massey, Sky Sports_
 A Canadian singer is the first person in the world to graduate with a Masters degree in The Beatles.
 
 ### [The newly released figures show China had 6.31 million new college graduates, and about 90.7 percent of them found employment by the end of 2010, which represented a 3 percent year-on-year increase. ](/news/2011/01/26/the-newly-released-figures-show-china-had-6-31-million-new-college-graduates-and-about-90-7-percent-of-them-found-employment-by-the-end-of.md)
-_Context: China, job growth, million_
+_Context: Chinese, job growth, million_
 
 ### [The 41st World Economic Forum opens in Davos, Switzerland. ](/news/2011/01/26/the-41st-world-economic-forum-opens-in-davos-switzerland.md)
 _Context: Davos, Swiss, World Economic Forum_

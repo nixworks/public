@@ -4,7 +4,7 @@
 _Context: North Waziristan, United States, drones launch_
 
 ### [The Iranian navy assists an American cargo ship that was attacked by pirates off the United Arab Emirates. ](/news/2012/05/23/the-iranian-navy-assists-an-american-cargo-ship-that-was-attacked-by-pirates-off-the-united-arab-emirates.md)
-_Context: Iranian Naval, United Arab Emirates, United States_
+_Context: Iranian Naval, UAE, United States_
 
 ### [Georgia-native Phillip Phillips is crowned the eleventh ''American Idol''. Runner-up Jessica Sanchez is the first contestant of Asian ancestry to advance in the finals. ](/news/2012/05/23/georgia-native-phillip-phillips-is-crowned-the-eleventh-american-idol-runner-up-jessica-sanchez-is-the-first-contestant-of-asian-ancest.md)
 _Context: American Idol, Georgia, Jessica Sanchez, Phillip Phillips, eleventh_

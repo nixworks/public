@@ -7,7 +7,7 @@ At least 41 other were wounded in the Kabul explosion, including 10 of them in c
 Civilians killed and multi-storey buildings collapse in some of the heaviest strikes to hit rebel-held city in months.
 
 ### [Coalition troops take control of the strategic Yemeni port city of Mocha after driving out Houthi forces. ](/news/2017/02/7/coalition-troops-take-control-of-the-strategic-yemeni-port-city-of-mocha-after-driving-out-houthi-forces.md)
-_Context: Houthi, Mocha, Saudi-led coalition, Yemen, Yemeni Civil War (2015-present)_
+_Context: Houthi, Mocha, Saudi Arabian-led intervention in Yemen, Yemen, Yemeni conflict_
 
 ### [Multiple tornadoes tear through New Orleans, Baton Rouge, and other parts of  southeastern Louisiana, injuring at least 20 people; no deaths have been reported. The severe weather also delivers heavy rain and hail in Mississippi and Alabama.  ](/news/2017/02/7/multiple-tornadoes-tear-through-new-orleans-baton-rouge-and-other-parts-of-southeastern-louisiana-injuring-at-least-20-people-no-deaths.md)
 NEW ORLEANS (AP) — The tornadoes that struck southeastern Louisiana on Tuesday injured about 20 people, destroyed homes and businesses, flipped cars and trucks, and left about 10,000 customers without power, but no deaths…

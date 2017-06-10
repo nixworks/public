@@ -13,7 +13,7 @@ Tens of thousands of people take to the streets for the second major protest aga
 At least six people die after a cassiterite mine collapsed in Burundi, 120km (75 miles) north of the capital.
 
 ### [The death toll in China from Typhoon Fanapi reaches 54 with dozens more people missing. ](/news/2010/09/23/the-death-toll-in-china-from-typhoon-fanapi-reaches-54-with-dozens-more-people-missing.md)
-_Context: China, Typhoon Fanapi_
+_Context: Chinese, Typhoon Fanapi_
 
 ### [2010 Atlantic hurricane season: Tropical Storm Matthew forms in the western Caribbean Sea with predictions that it could hit Central America on Friday or Saturday. ](/news/2010/09/23/2010-atlantic-hurricane-season-tropical-storm-matthew-forms-in-the-western-caribbean-sea-with-predictions-that-it-could-hit-central-america.md)
 _Context: 2010 Atlantic hurricane season, Caribbean Sea, Central America_

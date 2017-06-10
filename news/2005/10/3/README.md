@@ -16,7 +16,7 @@ _Context: Australia, Barry J. Marshall, Helicobacter pylouri, Nobel Prize in Phy
 _Context: Tom DeLay, U.S. House of Representatives, United States, money laundering_
 
 ### [ Up to 60 police cadets have been swept away by powerful Typhoon Longwang in Fujian, south-east China. ](/news/2005/10/3/up-to-60-police-cadets-have-been-swept-away-by-powerful-typhoon-longwang-in-fujian-south-east-china.md)
-_Context: China, Fujian, Typhoon Longwang_
+_Context: Chinese, Fujian, Typhoon Longwang_
 
 ### [ Former Manchester United footballer George Best reported to be in intensive care (due to a kidney infection) at Cromwell Hospital, London. ](/news/2005/10/3/former-manchester-united-footballer-george-best-reported-to-be-in-intensive-care-due-to-a-kidney-infection-at-cromwell-hospital-london.md)
 _Context: George Best, London, Manchester United, footballer, intensive care_

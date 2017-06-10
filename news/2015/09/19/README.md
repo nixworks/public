@@ -25,7 +25,7 @@ Italian coastguard, navy, as well as humanitarian agency Doctors Without Borders
 The Delhi government has ordered deferring all planned surgeries to facilitate addition of 1,000 beds to dengue wards in all state-run hospitals by Sunday
 
 ### [Japan's upper chamber of Parliament approves controversial legislation, which the lower chamber passed in July, that expands the role of the Japanese Self-Defense Forces overseas. ](/news/2015/09/19/japan-s-upper-chamber-of-parliament-approves-controversial-legislation-which-the-lower-chamber-passed-in-july-that-expands-the-role-of-the.md)
-_Context: Japan, Japanese Self-Defense Forces, lower chamber, parliament_
+_Context: Japan, Japanese Self-Defense Forces, National Diet, lower chamber_
 
 ### [Hungarian security forces confiscate a Croatian train carrying 1000 migrants and disarm 40 Croatian police officers accompanying the migrants. Hungarian authorities repatriate the officers. ](/news/2015/09/19/hungarian-security-forces-confiscate-a-croatian-train-carrying-1000-migrants-and-disarm-40-croatian-police-officers-accompanying-the-migrant.md)
 Hungary accuses Croatia of &quot;human smuggling&quot; as its neighbour refuses to stop sending people back across the border.

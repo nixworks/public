@@ -13,7 +13,7 @@ _Context: Dow Jones Industrial Average_
 Tropical Storm Noel, whose rains have killed at least 108 people in the Caribbean, strengthened into a hurricane in the Atlantic on Thursday as it moved away from the Bahamas toward Bermuda, U.S. forecasters said.
 
 ### [ Benazir Bhutto leaves Karachi for United Arab Emirates amidst speculations that President Pervez Musharraf might impose martial law in Pakistan. ](/news/2007/11/1/benazir-bhutto-leaves-karachi-for-united-arab-emirates-amidst-speculations-that-president-pervez-musharraf-might-impose-martial-law-in-paki.md)
-_Context: Benazir Bhutto, Karachi, Pakistan, Pervez Musharraf, United Arab Emirates, martial law_
+_Context: Benazir Bhutto, Karachi, Pakistan, Pervez Musharraf, UAE, martial law_
 
 ### [ 2007 Tabasco flood: Massive flooding hits the Mexican state of Tabasco, with Governor Andres Granier estimating that 80% of its 25,000 km2 surface area is underwater. ](/news/2007/11/1/2007-tabasco-flood-massive-flooding-hits-the-mexican-state-of-tabasco-with-governor-andra-c-s-granier-estimating-that-80-of-its-25-000-kma.md)
 _Context: 2007 Tabasco flood, Andres Granier, Governor, Tabasco_

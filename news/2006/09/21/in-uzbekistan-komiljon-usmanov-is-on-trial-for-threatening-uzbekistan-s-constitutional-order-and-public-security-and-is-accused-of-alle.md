@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Uzbekistan Deputy Prime Minister Rustam Azimov is dismissed by   President Shavkat Mirziyoyev, who had earlier criticized Azimov for failing to control financiers' activities. He is replaced by former Deputy Finance Minister Jamshed Kuchkarev. ](/news/2017/06/6/uzbekistan-deputy-prime-minister-rustam-azimov-is-dismissed-by-president-shavkat-mirziyoyev-who-had-earlier-criticized-azimov-for-failing.md) _Context: Uzbekistan_
+1. [Uzbekistan Deputy Prime Minister Rustam Azimov is dismissed by President Shavkat Mirziyoyev, who had earlier criticized Azimov for failing to control financiers' activities. He is replaced by former Deputy Finance Minister Jamshed Kuchkarev. ](/news/2017/06/6/uzbekistan-deputy-prime-minister-rustam-azimov-is-dismissed-by-president-shavkat-mirziyoyev-who-had-earlier-criticized-azimov-for-failing-t.md) _Context: Uzbekistan_
 2. [Voters in Uzbekistan go to the polls for a presidential election, the first since the death of Islam Karimov who governed the country for 25 years. ](/news/2016/12/4/voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-the-first-since-the-death-of-islam-karimov-who-governed-the-country-for-25.md) _Context: Uzbekistan_
 3. [Uzbekistan's parliament appoints Shavkat Mirziyoyev as interim president after the death of President Islam Karimov. ](/news/2016/09/8/uzbekistanas-parliament-appoints-shavkat-mirziyoyev-as-interim-president-after-the-death-of-president-islam-karimov.md) _Context: Uzbekistan_
 4. [President Islam Karimov of Uzbekistan dies after 27 years in office. ](/news/2016/09/2/president-islam-karimov-of-uzbekistan-dies-after-27-years-in-office.md) _Context: Uzbekistan_

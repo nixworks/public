@@ -4,7 +4,7 @@
 _Context: Barack Obama, Nuclear Security Summit, U.S. President, United States_
 
 ### [A magnitude 6.9 earthquake strikes southeastern Qinghai, China, near the Yangtze River. There were no immediate reports of casualties. ](/news/2010/04/13/a-magnitude-6-9-earthquake-strikes-southeastern-qinghai-china-near-the-yangtze-river-there-were-no-immediate-reports-of-casualties.md)
-_Context: China, Qinghai, Yangtze River_
+_Context: Chinese, Qinghai, Yangtze River_
 
 ### [A bar of radioactive cobalt-60 found in a New Dehli market causes life-threatening radiation sickness in one person and contingency measures from the authorities. ](/news/2010/04/13/a-bar-of-radioactive-cobalt-60-found-in-a-new-dehli-market-causes-life-threatening-radiation-sickness-in-one-person-and-contingency-measures.md)
 _Context: New Dehli, cobalt-60, radiation sickness_
@@ -37,7 +37,7 @@ _Context: Abu Sayyaf, Isabela City, Philippines_
 _Context: Pakistan_
 
 ### [UK General Election countdownConservative leader David Cameron launches his party's election manifesto, which he says is a "plan to change Britain for the better". He said the "optimistic" plan would bring a "new kind of government" with less state and more "people power". ](/news/2010/04/13/uk-general-election-countdownpconservative-leader-david-cameron-launches-his-party-s-election-manifesto-which-he-says-is-a-plan-to-change.md)
-_Context: 2010 general election, Conservatives, David Cameron, United Kingdom_
+_Context: 2010 general election, Conservative Party, David Cameron, United Kingdom_
 
 ### [All 103 passengers and crew escape alive after a Boeing 737-300 overruns the runway at Rendani Airport, Manokwari, Indonesia. ](/news/2010/04/13/all-103-passengers-and-crew-escape-alive-after-a-boeing-737-300-overruns-the-runway-at-rendani-airport-manokwari-indonesia.md)
 _Context: Boeing 737-300, Indonesia, Manokwari, Rendani Airport, overruns the runway_
@@ -49,7 +49,7 @@ _Context: American Airlines, Boeing 767, Iceland, Reykjavik_
 _Context: Consumer Reports, Japan_
 
 ### [The Australian authorities say a Chinese bulk carrier which ran aground off Queensland has caused widespread damage to the famed Great Barrier Reef. The cleanup is likely to be the biggest operation ever undertaken there. ](/news/2010/04/13/the-australian-authorities-say-a-chinese-bulk-carrier-which-ran-aground-off-queensland-has-caused-widespread-damage-to-the-famed-great-barri.md)
-_Context: Australia, China, Great Barrier Reef, Queensland_
+_Context: Australia, Chinese, Great Barrier Reef, Queensland_
 
 ### [A mentally ill man goes on a stabbing rampage outside a primary school in southern China, killing two and wounding five. ](/news/2010/04/13/a-mentally-ill-man-goes-on-a-stabbing-rampage-outside-a-primary-school-in-southern-china-killing-two-and-wounding-five.md)
 A mentally ill man went on a stabbing rampage outside a primary school in southern China, killing two and wounding five, according to a government&#039;s Xinhua news agency.

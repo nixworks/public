@@ -31,7 +31,7 @@ _Context: Iraq, Qatar, Tariq Al-Hashemi_
 _Context: ASEAN, Cambodia, Phnom Penh_
 
 ### [A Chinese businessman with links to ousted  Communist party official Bo Xilai is detained. ](/news/2012/04/3/a-chinese-businessman-with-links-to-ousted-communist-party-official-bo-xilai-is-detained.md)
-_Context: Bo Xilai, China_
+_Context: Bo Xilai, Chinese_
 
 ### [Following last year's defamation of Father Kevin Reynolds by RTE, the Irish state-controlled broadcaster's head of current affairs Ed Mulhall retires, Ken O'Shea resigns from ''Prime Time'' and a related programme, ''Prime Time Investigates'' is axed. ](/news/2012/04/3/following-last-year-s-defamation-of-father-kevin-reynolds-by-rta-the-irish-state-controlled-broadcaster-s-head-of-current-affairs-ed-mulha.md)
 RT&Eacute;&rsquo;s head of current affairs Ed Mulhall has retired and the editor of Prime Time Investigates Ken O&rsquo;Shea has resigned from the&hellip;

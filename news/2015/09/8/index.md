@@ -7,7 +7,7 @@ Kurdish militants killed 15 police officers in two bomb attacks in eastern Turki
 The father of two Cardiff jihadists thought to have been fighting alongside Reyaad Khan says he fears his sons are on a &quot;hit list&quot;.
 
 ### [The UN announces that it has grave concerns for around 96,000 children in Al Hudaydah, Yemen, who are starving due to the nearby fighting. ](/news/2015/09/8/the-un-announces-that-it-has-grave-concerns-for-around-96-000-children-in-al-hudaydah-yemen-who-are-starving-due-to-the-nearby-fighting.md)
-_Context: Al Hudaydah, Saudi-led coalition, Yemen, starvation_
+_Context: Al Hudaydah, Saudi Arabian-led intervention in Yemen, Yemen, starvation_
 
 ### [New Zealand temporarily bans the sale or lending of the book ''Into the River'' by Ted Dawe, pending a review which could see the book restricted long-term. This is the first time in 22 years that a book has been restricted to this extent in New Zealand. ](/news/2015/09/8/new-zealand-temporarily-bans-the-sale-or-lending-of-the-book-into-the-river-by-ted-dawe-pending-a-review-which-could-see-the-book-restr.md)
 Ted Dawe’s Into the River is banned from shops, schools and distribution across the country with fines of up to $10,000 for those ignoring it

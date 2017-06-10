@@ -7,7 +7,7 @@ _Context: British Antarctic Survey, Retreat of glaciers since 1850, glaciers, gl
 _Context: Guyana, JFK airport, New York City, Port-of-Spain, Trinidad and Tobago, allegedly planned an attack_
 
 ### [ United States v. Libby: I. Lewis "Scooter" Libby, Jr., former chief of staff to Vice President Dick Cheney, is sentenced to 30 months in prison after being convicted of perjury and obstruction of justice in the CIA leak grand jury investigation. ](/news/2007/06/5/united-states-v-libby-i-lewis-scooter-libby-jr-former-chief-of-staff-to-vice-president-dick-cheney-is-sentenced-to-30-months-in-pr.md)
-_Context: CIA leak grand jury investigation, Dick Cheney, Scooter Libby, U.S. Vice President, United States v. Libby, chief of staff, obstruction of justice, perjury, prison_
+_Context: CIA leak grand jury investigation, Dick Cheney, Scooter Libby, U.S. Vice President, United States v. Libby, chief of staff, lied under oath, obstruction of justice, prison_
 
 ### [ U.S. President George W. Bush begins his tour of Europe in Prague before the G8 summit in Germany. During his visit, he intends to address the deployment of interceptor rockets, the establishment of radar bases in Poland and the Czech Republic, and the related tension that has arisen between the United States and Russia. ](/news/2007/06/5/u-s-president-george-w-bush-begins-his-tour-of-europe-in-prague-before-the-g8-summit-in-germany-during-his-visit-he-intends-to-address.md)
 _Context: Czech, Europe, George W. Bush, German, Group of Eight, Poland, Prague, Russia, U.S. President, United States, anti-ballistic missile_

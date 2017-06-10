@@ -13,7 +13,7 @@ _Context: 2010 FIFA World Cup, Belfast, British police, Northern Ireland, Poland
 _Context: Discovery, Florida, Kennedy Space Center, Merritt Island, Florida, Space Shuttle, United States, lands_
 
 ### [ Well Armed wins the Dubai World Cup in the United Arab Emirates. ](/news/2009/03/28/well-armed-wins-the-dubai-world-cup-in-the-united-arab-emirates.md)
-_Context: Dubai World Cup, United Arab Emirates, Well Armed_
+_Context: Dubai World Cup, UAE, Well Armed_
 
 ### [ Taliban militants destroy 12 NATO trucks in Peshawar, Pakistan. ](/news/2009/03/28/taliban-militants-destroy-12-nato-trucks-in-peshawar-pakistan.md)
 _Context: NATO, Pakistan, Peshawar, Taliban, War in Afghanistan (2001-present), militant, truck_

@@ -1,7 +1,7 @@
 ## [2015-10-6](/news/2015/10/6/index.md)
 
 ### [A hotel where Vice President of Yemen and Prime Minister Khaled Bahah was staying in Aden which was also being used as a de facto military base by Arab coalition forces is hit by multiple explosions killing at least 15 coalition soldiers. Although the Houthis were first suspected and accused of being behind the attack, the Islamic State of Iraq and the Levant has since claimed responsibility, marking the first attack on Arab coalition forces in Yemen by the extremist group. ](/news/2015/10/6/a-hotel-where-vice-president-of-yemen-and-prime-minister-khaled-bahah-was-staying-in-aden-which-was-also-being-used-as-a-de-facto-military-b.md)
-_Context: Aden, Houthi, ISIL, Khaled Bahah, Prime Minister, Saudi-led coalition, Vice President of Yemen, Yemen, Yemeni Civil War (2015)_
+_Context: Aden, Houthi, ISIL, Khaled Bahah, Prime Minister, Saudi Arabian-led intervention in Yemen, Vice President of Yemen, Yemen, Yemeni Civil War (2015)_
 
 ### [NATO Secretary-General Jens Stoltenberg says Russia's pair of violations of Turkish airspace over the weekend do not look like accidents. Russia, which said it's looking into claims of a second violation, reported the first violation lasted a few seconds and was due to poor weather. ](/news/2015/10/6/nato-secretary-general-jens-stoltenberg-says-russia-s-pair-of-violations-of-turkish-airspace-over-the-weekend-do-not-look-like-accidents-ru.md)
 Russian jets hit Islamic State targets in the Syrian city of Palmyra and the northern province of Aleppo, Syrian state television and a monitoring group said on Tuesday, in some of the heaviest Russian attacks on the hardline Islamist group.
@@ -16,7 +16,7 @@ N&#x27;Djamena (AFP) - Boko Haram Islamists attacked Chadian soldiers on Tuesday
 The European Court of Justice examined the case of an Austrian citizen who claimed that his data, in light of revelations by Edward Snowden that U.S. agencies spied upon people in other nations, wasn&#39;t being adequately protected.
 
 ### [Sixteen campers are missing in south China's Guangxi Zhuang Autonomous Region following a flash flood in a camping reserve. ](/news/2015/10/6/sixteen-campers-are-missing-in-south-china-s-guangxi-zhuang-autonomous-region-following-a-flash-flood-in-a-camping-reserve.md)
-_Context: China, Flash flooding, Guangxi Zhuang Autonomous Region, Typhoon Mujigae (2015)_
+_Context: Chinese, Flash flooding, Guangxi Zhuang Autonomous Region, Typhoon Mujigae (2015)_
 
 ### [Thirteen people are reported to have died during this storm, 11 in South Carolina and two in North Carolina.  At least 18 dams have breached or failed  since Saturday. Communities downstream face a mass of water working its way toward the low-lying coast. ](/news/2015/10/6/thirteen-people-are-reported-to-have-died-during-this-storm-11-in-south-carolina-and-two-in-north-carolina-at-least-18-dams-have-breached.md)
 Get the latest breaking news across the U.S. on ABCNews.com

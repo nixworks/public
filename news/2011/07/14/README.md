@@ -52,7 +52,7 @@ A BBC reporter held last month in Tajikistan on charges of belonging to a banned
 The FBI is investigating reports that News Corporation sought to hack the phones of victims of the 9/11 attacks.
 
 ### [U.S. district court judge Reggie Walton declares a mistrial in the perjury trial of former baseball star Roger Clemens after prosecutors present evidence that Walton had previously ruled inadmissible. Walton will hold a hearing on September 2 to determine whether to hold a new trial. ](/news/2011/07/14/u-s-district-court-judge-reggie-walton-declares-a-mistrial-in-the-perjury-trial-of-former-baseball-star-roger-clemens-after-prosecutors-pre.md)
-_Context: Reggie Walton, Roger Clemens, U.S. District Court for the District of Columbia, mistrial, perjury_
+_Context: Reggie Walton, Roger Clemens, U.S. District Court for the District of Columbia, lied under oath, mistrial_
 
 ### [At least thirty-two Chilean police and 54 demonstrators are arrested in a demonstration demanding more funds for higher education. ](/news/2011/07/14/at-least-thirty-two-chilean-police-and-54-demonstrators-are-arrested-in-a-demonstration-demanding-more-funds-for-higher-education.md)
 _Context: Chile, Chilean police_

@@ -13,7 +13,7 @@ Olympic Broadcasting Services says &quot;full investigation&quot; underway
 _Context: Kavrepalanchowk bus crashes_
 
 ### [Pennsylvania Attorney General Kathleen Kane is convicted of perjury and obstruction of justice. ](/news/2016/08/15/pennsylvania-attorney-general-kathleen-kane-is-convicted-of-perjury-and-obstruction-of-justice.md)
-_Context: Attorney General, Kathleen Kane, perjury_
+_Context: Attorney General, Kathleen Kane, lied under oath_
 
 ### [Former English Premier League player Dalian Atkinson dies after being tasered by police in Telford, Shropshire. ](/news/2016/08/15/former-english-premier-league-player-dalian-atkinson-dies-after-being-tasered-by-police-in-telford-shropshire.md)
 A man who died after being Tasered by police in Telford, Shropshire, has been named as former Aston Villa footballer Dalian Atkinson. Mr Atkinson died early on Monday morning after officers responded to an alert &quot;for the safety of an individual&quot; at a home in Meadow Close around 1.30am. The 48-year-old was given medical treatment but died about 90 minutes later, West Mercia Police said.
@@ -22,7 +22,7 @@ A man who died after being Tasered by police in Telford, Shropshire, has been na
 A New York City man appeared in court on Tuesday and denied charges he shot and killed a Muslim cleric and his assistant on a street in the borough of Queens over the weekend.
 
 ### [The Obama administration transfers 15 Guantanamo Bay detainees to the United Arab Emirates. ](/news/2016/08/15/the-obama-administration-transfers-15-guantanamo-bay-detainees-to-the-united-arab-emirates.md)
-_Context: Guantanamo Bay detention camp, Obama Administration, United Arab Emirates_
+_Context: Guantanamo Bay detention camp, Obama Administration, UAE_
 
 ## [Previous Day...](/news/2016/08/14/index.md)
 

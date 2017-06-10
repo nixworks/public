@@ -1,7 +1,7 @@
 ## [2005-10-18](/news/2005/10/18/index.md)
 
 ### [ Ex-chancellor Kenneth Clarke has been knocked out of the race to become the next leader of the UK Conservative Party. ](/news/2005/10/18/ex-chancellor-kenneth-clarke-has-been-knocked-out-of-the-race-to-become-the-next-leader-of-the-uk-conservative-party.md)
-_Context: Conservatives, Kenneth Clarke, leadership election_
+_Context: Conservative Party, Kenneth Clarke, leadership election_
 
 ### [ Malawi food crisis: United Nations Children's Fund (UNICEF) increases its appeal for Malawi to USD13 million, as the humanitarian crisis worsen with an estimated 46,000 severely malnourished children. ](/news/2005/10/18/malawi-food-crisis-united-nations-children-s-fund-unicef-increases-its-appeal-for-malawi-to-usd13-million-as-the-humanitarian-crisis-wo.md)
 _Context: $, Malawi, United Nations Children's Fund, malnutrition, serious food shortages_

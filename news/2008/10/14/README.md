@@ -1,7 +1,7 @@
 ## [2008-10-14](/news/2008/10/14/index.md)
 
 ### [ The United Arab Emirates recognizes Kosovo as an independent and sovereign state. ](/news/2008/10/14/the-united-arab-emirates-recognizes-kosovo-as-an-independent-and-sovereign-state.md)
-_Context: Kosovo, United Arab Emirates, officially recognizes_
+_Context: Kosovo, UAE, officially recognizes_
 
 ### [ Indian novelist Aravind Adiga wins the Man Booker Prize for his debut ''The White Tiger''. ](/news/2008/10/14/indian-novelist-aravind-adiga-wins-the-man-booker-prize-for-his-debut-the-white-tiger.md)
 _Context: Aravind Adiga, India, Man Booker Prize, The White Tiger, novelist_

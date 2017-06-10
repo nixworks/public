@@ -37,7 +37,7 @@ Economy loses 95,000 jobs in September in the last monthly labour snapshot ahead
 _Context: Japanese government, economic stimulus_
 
 ### [The United Arab Emirates announces that it will not implement a proposed ban on all BlackBerry services due to go into effect from next year. ](/news/2010/10/8/the-united-arab-emirates-announces-that-it-will-not-implement-a-proposed-ban-on-all-blackberry-services-due-to-go-into-effect-from-next-year.md)
-_Context: BlackBerry, United Arab Emirates_
+_Context: BlackBerry, UAE_
 
 ### [Premier Wen Jiabao of the People's Republic of China denies reports that China is using its control over minerals crucial to high technology (called "rare earth") as a bargaining chip, especially in a dispute with Japan over Japan's arrest of a Chinese fishing-boat captain ](/news/2010/10/8/premier-wen-jiabao-of-the-people-s-republic-of-china-denies-reports-that-china-is-using-its-control-over-minerals-crucial-to-high-technology.md)
 _Context: Japan, People's Republic of China, Wen Jiabao, rare earth element_

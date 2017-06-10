@@ -22,7 +22,7 @@ _Context: Madrid, anti-racism, far right_
 _Context: Claude Erignac, Corse-du-Sud, Corsica, Yvan Colonna, prefect, separatist_
 
 ### [ Airbus and Boeing both win a giant order of 100 planes from Dubai Aerospace Enterprise, a United Arab Emirates jet leasing corporation. ](/news/2007/11/12/airbus-and-boeing-both-win-a-giant-order-of-100-planes-from-dubai-aerospace-enterprise-a-united-arab-emirates-jet-leasing-corporation.md)
-_Context: Airbus, Boeing, Dubai Aerospace Enterprise, United Arab Emirates_
+_Context: Airbus, Boeing, Dubai Aerospace Enterprise, UAE_
 
 ### [ A new government headed by the Bharatiya Janata Party, India's main opposition party, takes office in the state of Karnataka. ](/news/2007/11/12/a-new-government-headed-by-the-bharatiya-janata-party-india-s-main-opposition-party-takes-office-in-the-state-of-karnataka.md)
 _Context: Bharatiya Janata Party, Karnataka, government, opposition party_

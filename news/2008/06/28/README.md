@@ -7,7 +7,7 @@ _Context: Amarnath, India, Jammu and Kashmir, protests, state government_
 _Context: Anaheim Angels, Los Angeles Dodgers_
 
 ### [ Thousands of people riot in Guizhou province in southern China following the death of a girl and a perceived government coverup. ](/news/2008/06/28/thousands-of-people-riot-in-guizhou-province-in-southern-china-following-the-death-of-a-girl-and-a-perceived-government-coverup.md)
-_Context: China, Guizhou_
+_Context: Chinese, Guizhou_
 
 ### [ Thousands of people rally in Paris in support of the European Union removing the People's Mujahedin of Iran from its list of terrorist organisations. ](/news/2008/06/28/thousands-of-people-rally-in-paris-in-support-of-the-european-union-removing-the-people-s-mujahedin-of-iran-from-its-list-of-terrorist-orga.md)
 _Context: European Union, Paris, People's Mujahedin of Iran, terrorist organisation_

@@ -28,7 +28,7 @@ _Context: Afghanistan, Kabul, suicide bombing_
 Chinese fishing vessels have moved out of waters near a disputed sea border between the two Koreas, a South Korean military official said on Wednesday, possibly signaling a North Korean short-range missile test is imminent.
 
 ### [ An oil tanker and a container ship collide off the coast of Dubai, United Arab Emirates.  ](/news/2009/02/11/an-oil-tanker-and-a-container-ship-collide-off-the-coast-of-dubai-united-arab-emirates.md)
-_Context: Dubai, United Arab Emirates, container ship, oil tanker_
+_Context: Dubai, UAE, container ship, oil tanker_
 
 ### [ The Philippines' Bureau of Fisheries and Aquatic Resources rescues more than 200 dolphins after a mass beaching in Bataan. ](/news/2009/02/11/the-philippines-bureau-of-fisheries-and-aquatic-resources-rescues-more-than-200-dolphins-after-a-mass-beaching-in-bataan.md)
 _Context: Bataan, Bureau of Fisheries and Aquatic Resources, Philippines, dolphin, mass beaching_
@@ -40,7 +40,7 @@ Michigan Democrat John Dingell today becomes the longest-serving member of the H
 _Context: French Polynesia, Oscar Temaru, President, elected_
 
 ### [ The United Kingdom's Conservative Party admits to altering the Italian painter Titian's Wikipedia entry following a confrontation with Prime Minister Gordon Brown. ](/news/2009/02/11/the-united-kingdom-s-conservative-party-admits-to-altering-the-italian-painter-titian-s-wikipedia-entry-following-a-confrontation-with-prim.md)
-_Context: Conservatives, Gordon Brown, Italy, Titian, United Kingdom, Wikipedia, painter, prime minister_
+_Context: Conservative Party, Gordon Brown, Italy, Titian, United Kingdom, Wikipedia, painter, prime minister_
 
 ### [ Renowned Molecular Biologist Dr Abdul Majid Cheema escaped death when unknown armed men opened fire on his vehicle on Quetta,Pakistan. [http://www.allvoices.com/news/2484493/s/28479265-balochistan-varsity-official-escapes-unhurt-in-attack]](/news/2009/02/11/renowned-molecular-biologist-dr-abdul-majid-cheema-escaped-death-when-unknown-armed-men-opened-fire-on-his-vehicle-on-quetta-pakistan-htt.md)
 ## [Previous Day...](/news/2009/02/10/index.md)

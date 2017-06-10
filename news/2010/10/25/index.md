@@ -13,13 +13,13 @@ _Context: Afghan government, Afghanistan, Helmand Province, NATO_
 _Context: Sahrawi, Western Sahara_
 
 ### [China and Africa celebrated the tenth anniversary of the Forum on China-Africa Cooperation (FOCAC) in Beijing. Jia Qinglin, chairman of the National Committee of the Chinese People's Political Consultative Conference, addressed the reception commemorating. ](/news/2010/10/25/china-and-africa-celebrated-the-tenth-anniversary-of-the-forum-on-china-africa-cooperation-focac-in-beijing-jia-qinglin-chairman-of-the.md)
-_Context: Africa, Beijing, China, Forum on China-Africa Cooperation, Jia Qinglin, National Committee of the Chinese People's Political Consultative Conference_
+_Context: Africa, Beijing, Chinese, Forum on China-Africa Cooperation, Jia Qinglin, National Committee of the Chinese People's Political Consultative Conference_
 
 ### [Lhasa invests 90 million yuan in 23 tourist facilities. The tourist facilities include Lhasa Tourist Service Center, Namtso Scenic Spot, Potala Palace- Jokhang Temple- Norbu Linka Cultural Heritage tourist attractions, etc. ](/news/2010/10/25/lhasa-invests-90-million-yuan-in-23-tourist-facilities-the-tourist-facilities-include-lhasa-tourist-service-center-namtso-scenic-spot-pot.md)
 _Context: Jokhang, Lhasa, Lhasa Tourist Service Center, Namtso Scenic Spot, Potala Palace_
 
 ### [United Arab Emirates pavilion in Shanghai wins National Council of Structural Engineers Associations (NCSEA) Excellence Award in Structural Engineering at Shanghai Expo 2010. ](/news/2010/10/25/united-arab-emirates-pavilion-in-shanghai-wins-national-council-of-structural-engineers-associations-ncsea-excellence-award-in-structural.md)
-_Context: National Council of Structural Engineers Associations, Shanghai, Shanghai Expo, Structural Engineering, United Arab Emirates_
+_Context: National Council of Structural Engineers Associations, Shanghai, Shanghai Expo, Structural Engineering, UAE_
 
 ### [Singapore Exchange proposes a $A8.4 billion takeover of the Australian Securities Exchange. ](/news/2010/10/25/singapore-exchange-proposes-a-a8-4-billion-takeover-of-the-australian-securities-exchange.md)
 The Singapore stock exchange unveils a multi-billion dollar bid for the company that owns the Australian Stock Exchange in Sydney.

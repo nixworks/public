@@ -7,7 +7,7 @@ Shrimpers in Louisiana andAlabama have filed class-action lawsuits against oil g
 _Context: China, Saudi Arabia, U.S. Commission on International Religious Freedom, United States, religious freedom_
 
 ### [Millions of mostly Asian women who work in countries  like Saudi Arabia, Lebanon and the United Arab Emirates remain at risk of human trafficking, forced labor, confinement and sexual violence, the New York-based Human Rights Watch group reports. ](/news/2010/04/29/millions-of-mostly-asian-women-who-work-in-countries-like-saudi-arabia-lebanon-and-the-united-arab-emirates-remain-at-risk-of-human-traffi.md)
-_Context: Human Rights Watch, Lebanon, New York City, Saudi Arabia, United Arab Emirates, forced labor, human trafficking, incarceration, migrant workers, sexual violence_
+_Context: Human Rights Watch, Lebanon, New York City, Saudi Arabia, UAE, forced labor, human trafficking, incarceration, migrant workers, sexual violence_
 
 ### [India and Pakistan agree to reopen discussion on "all issues of mutual concern." ](/news/2010/04/29/india-and-pakistan-agree-to-reopen-discussion-on-all-issues-of-mutual-concern.md)
 Senior Indian and Pakistani officials pledged Thursday to improve frosty relations between their nations following a meeting between their prime ministers at the periphery of a regional summit in...

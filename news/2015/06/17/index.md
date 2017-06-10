@@ -28,7 +28,7 @@ _Context: Kimberly-Clark Corporation, Kotex, toxic shock syndrome_
 _Context: Chief Executive, Hong Kong Legislative Council_
 
 ### [The National Diet of Japan votes to lower the voting age from 20 to 18. ](/news/2015/06/17/the-national-diet-of-japan-votes-to-lower-the-voting-age-from-20-to-18.md)
-_Context: Japan, parliament_
+_Context: Japan, National Diet_
 
 ## [Previous Day...](/news/2015/06/16/index.md)
 

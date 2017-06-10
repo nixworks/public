@@ -10,7 +10,7 @@ _Context: Islamic Jihad Movement in Palestine, Israel, Iyad Abu Rob, Jenin, Pale
 _Context: Duma, Human Rights Watch, Indem, Memorial rights organization, Non-governmental organisations, human rights, nonprofit, think tank_
 
 ### [ An explosion at a chemical factory on the Songhua River in northeastern China releases high levels of benzene into the river water.  Authorities shut off the water supply for the downstream city of Harbin. ](/news/2005/11/23/an-explosion-at-a-chemical-factory-on-the-songhua-river-in-northeastern-china-releases-high-levels-of-benzene-into-the-river-water-author.md)
-_Context: China, Harbin, Songhua River, benzene, explosion at a chemical factory_
+_Context: Chinese, Harbin, Songhua River, benzene, explosion at a chemical factory_
 
 ### [ The new Chancellor of Germany, Angela Merkel, goes to Paris, France for her first foreign trip in office. Some observers see this as a signal that intra-European affairs will be a high priority. ](/news/2005/11/23/the-new-chancellor-of-germany-angela-merkel-goes-to-paris-france-for-her-first-foreign-trip-in-office-some-observers-see-this-as-a-sign.md)
 _Context: Angela Merkel, Chancellor, Europe, France, German, Paris_

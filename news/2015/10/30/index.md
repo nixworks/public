@@ -37,7 +37,7 @@ _Context: Aegean Sea, Alexis Tsipras, Associated Press, Europe, European migrant
 School buses were trapped in near San Antonio and a tornado may have touched down in D&#x27;Hanis, destroying a bank and damaging other buildings.
 
 ### [A building collapse in Henan province in central China leaves 17 workers dead and 23 injured. ](/news/2015/10/30/a-building-collapse-in-henan-province-in-central-china-leaves-17-workers-dead-and-23-injured.md)
-_Context: China, Henan_
+_Context: Chinese, Henan_
 
 ### [A Virginia (U.S.) school bus overturns after being struck by a van, sending 28 students to local hospitals with five seriously injured. ](/news/2015/10/30/a-virginia-u-s-school-bus-overturns-after-being-struck-by-a-van-sending-28-students-to-local-hospitals-with-five-seriously-injured.md)
 A Virginia school bus overturned Friday after a traffic collision, injuring 28 students. Five were seriously hurt, authorities said.
@@ -46,7 +46,7 @@ A Virginia school bus overturned Friday after a traffic collision, injuring 28 s
 British resident Shaker Aamer, who spent 13 years in Guantanamo Bay, arrives back in the UK and thanks supporters for his release.
 
 ### [The European Union sides with the United States over Tuesday's U.S.-Chinese patrolling incident in the South China Sea. ](/news/2015/10/30/the-european-union-sides-with-the-united-states-over-tuesday-s-u-s-chinese-patrolling-incident-in-the-south-china-sea.md)
-_Context: China, European Union, South China Sea, Territorial disputes in the South China Sea, United States_
+_Context: Chinese, European Union, South China Sea, Territorial disputes in the South China Sea, United States_
 
 ### [Representatives from about 20 countries meet in Vienna, Austria, seeking a political solution to Syria's four-year civil war that has killed more than 250,000 people, including dozens more today. For the first time Iran is at the table, where diplomats seek peace through a ceasefire plan followed by a transitional government. ](/news/2015/10/30/representatives-from-about-20-countries-meet-in-vienna-austria-seeking-a-political-solution-to-syria-s-four-year-civil-war-that-has-killed.md)
 Dozens killed as diplomats seek political solution to end four-year civil war.

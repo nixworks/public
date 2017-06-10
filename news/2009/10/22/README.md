@@ -25,7 +25,7 @@ _Context: Sri Lanka, Tamil_
 _Context: Sri Lankan Civil War, Sri Lankan Military, Tamil Tigers, U.S. Congressional, United States Department of State, war crimes_
 
 ### [ The U.S. Department of Homeland Security will allow Chinese and Russian tourists to travel to the Northern Mariana Islands without a visa. ](/news/2009/10/22/the-u-s-department-of-homeland-security-will-allow-chinese-and-russian-tourists-to-travel-to-the-northern-mariana-islands-without-a-visa.md)
-_Context: China, Northern Mariana Islands, Russia, U.S. Department of Homeland Security, tourists, visa-free travel_
+_Context: Chinese, Northern Mariana Islands, Russia, U.S. Department of Homeland Security, tourists, visa-free travel_
 
 ### [ The Olympic Flame was lit during a ceremony in Olympia, Greece to start the 2010 Winter Olympics Torch Relay.([http://www.gamesbids.com/eng/mobile/other_news/1216134797.html Gamesbids.com])](/news/2009/10/22/the-olympic-flame-was-lit-during-a-ceremony-in-olympia-greece-to-start-the-2010-winter-olympics-torch-relay-http-www-gamesbids-com-eng.md)
 _Context: 2010 Winter Olympics, Greece, Olympia, Greece, Olympic Torch, Torch Relay_

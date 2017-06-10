@@ -1,0 +1,23 @@
+### [2017-06-8](/news/2017/06/8/index.md)
+
+# U.S. authorities charge two operatives, Samer El Debek, 37, of Dearborn, Michigan, and Ali Kourani, 32, of the Bronx, New York, belonging to the Lebanese Shiite militant group Hezbollah with terrorism offenses, accused of plotting to target American and Israeli targets in New York and Panama. 
+
+Targets included an embassy in Central America and Israeli military personnel facilities in the U.S.
+
+
+### Source:
+
+1. [Newsweek](http://www.newsweek.com/us-foils-hezbollah-plot-attack-american-israeli-targets-new-york-and-panama-623432)
+
+### Related:
+
+1. [Former Panamanian leader Manuel Noriega dies aged 83. ](/news/2017/05/30/former-panamanian-leader-manuel-noriega-dies-aged-83.md) _Context: Panama_
+2. [In response to several Israeli airstrikes against suspected Hezbollah-related targets inside Syria, Syrian president Bashar al-Assad has threatened wider war with the State of Israel, stating its intention to fire Scud missiles, and specifically target the Israeli city of Haifa. Israel responded by stating that any such actions by the Assad regime, or attacks on its aircraft, will cause Israel to "annihilate" Syrian air defense systems. ](/news/2017/03/25/in-response-to-several-israeli-airstrikes-against-suspected-hezbollah-related-targets-inside-syria-syrian-president-bashar-al-assad-has-thr.md) _Context: Hezbollah_
+3. [The Israeli Air Force resumes bombing against suspected Hezbollah-related targets in Syria, with a fourth round of bombings occurring near military sites near Damascus. ](/news/2017/03/22/the-israeli-air-force-resumes-bombing-against-suspected-hezbollah-related-targets-in-syria-with-a-fourth-round-of-bombings-occurring-near-m.md) _Context: Hezbollah_
+4. [The Israeli Air Force launches several airstrikes on targets inside Syria, and for the first time, publicly claims responsibility. Syrian air defenses responded by launching missiles at the aircraft, and thereupon Israeli Arrow 3 missiles were launched in response to the counter-offensive. Israel stated that it was targeting suspected weapons shipments to Hezbollah in Lebanon, adding that the Israeli military will keep intervening until they believe such shipments have ceased. According to the Syrian Army, four Israeli jets entered its airspace and struck targets near Palmyra. ](/news/2017/03/17/the-israeli-air-force-launches-several-airstrikes-on-targets-inside-syria-and-for-the-first-time-publicly-claims-responsibility-syrian-ai.md) _Context: Hezbollah_
+5. [The International Committee of the Red Cross claims that 25,000 residents of the rebel-held territories have been evacuated from Aleppo as Hezbollah warns remaining residents in the former rebel enclave to leave "as quickly as possible". ](/news/2016/12/20/the-international-committee-of-the-red-cross-claims-that-25-000-residents-of-the-rebel-held-territories-have-been-evacuated-from-aleppo-as-h.md) _Context: Hezbollah_
+6. [Allegedly Israeli fighter jets strike a suspected Hezbollah weapons convoy near Damascus, Syria. ](/news/2016/11/30/allegedly-israeli-fighter-jets-strike-a-suspected-hezbollah-weapons-convoy-near-damascus-syria.md) _Context: Hezbollah_
+7. [Hurricane Otto impacts Panama. A tropical storm watch is issued for Nicaragua from Bluefields to Sandy Bay Sirpi. ](/news/2016/11/22/hurricane-otto-impacts-panama-a-tropical-storm-watch-is-issued-for-nicaragua-from-bluefields-to-sandy-bay-sirpi.md) _Context: Panama_
+8. [ Syrian government forces and allies, including Lebanese Hezbollah fighters, retake a large area southeast of Damascus, including the key town of Deir al-Asafir. ](/news/2016/05/19/syrian-government-forces-and-allies-including-lebanese-hezbollah-fighters-retake-a-large-area-southeast-of-damascus-including-the-key-to.md) _Context: Hezbollah_
+9. [Hezbollah says Mustafa Badreddine, one of Hezbollah's highest ranking officials  believed  responsible for military operations in Syria, has been killed by artillery fire from the Syrian rebels. ](/news/2016/05/13/hezbollah-says-mustafa-badreddine-one-of-hezbollah-s-highest-ranking-officials-believed-responsible-for-military-operations-in-syria-has.md) _Context: Hezbollah_
+10. [El Salvador officials seize documents and equipment during a raid of the local offices of Panamanian law firm Mossack Fonseca. Attorney General Douglas Melendez says authorities interviewed seven employees, and confiscated 20 computers and some documents. ](/news/2016/04/8/el-salvador-officials-seize-documents-and-equipment-during-a-raid-of-the-local-offices-of-panamanian-law-firm-mossack-fonseca-attorney-gene.md) _Context: Panama_
