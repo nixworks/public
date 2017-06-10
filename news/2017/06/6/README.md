@@ -4,7 +4,7 @@
 Several people killed in explosion near a mosque and police offices in western province, local media report. 
 
 ### [The United States-backed Syrian Democratic Forces launch an operation to capture Raqqa, ISIL's ''de facto'' Syrian capital. ](/news/2017/06/6/the-united-states-backed-syrian-democratic-forces-launch-an-operation-to-capture-raqqa-isil-s-de-facto-syrian-capital.md)
-_Context: American-led intervention in Syria, Battle of Raqqa (2017), Islamic State of Iraq and the Levant, Raqqa, Syrian Democratic Forces, United States military_
+_Context: American-led intervention in Syria, Battle of Raqqa (2017), ISIL, Raqqa, Syrian Democratic Forces, United States military_
 
 ### [The Philippines temporarily suspends sending workers to Qatar. ](/news/2017/06/6/the-philippines-temporarily-suspends-sending-workers-to-qatar.md)
 The Philippines has partially lifted the ban on overseas Filipino workers (OFWs) going to Qatar

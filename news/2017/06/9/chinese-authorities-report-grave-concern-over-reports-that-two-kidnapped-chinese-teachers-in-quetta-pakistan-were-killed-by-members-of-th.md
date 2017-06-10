@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [  At least four are killed in an attack in Quetta, Pakistan. Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/11/19/at-least-four-are-killed-in-an-attack-in-quetta-pakistan-islamic-state-of-iraq-and-the-levant-claims-responsibility.md) _Context: Islamic State of Iraq and the Levant, Pakistan, Quetta_
+1. [  At least four are killed in an attack in Quetta, Pakistan. Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/11/19/at-least-four-are-killed-in-an-attack-in-quetta-pakistan-islamic-state-of-iraq-and-the-levant-claims-responsibility.md) _Context: ISIL, Pakistan, Quetta_
 2. [War in North-West Pakistan:An explosion on the Jaffar Express, travelling between the Pakistani cities of Rawalpindi and Quetta, kills 7 people and injures at least another 10. ](/news/2013/10/21/war-in-north-west-pakistan-pan-explosion-on-the-jaffar-express-travelling-between-the-pakistani-cities-of-rawalpindi-and-quetta-kills-7-pe.md) _Context: Pakistan, Quetta, War in North-West Pakistan_
 3. [Gunmen raid a Pakistani military post near the border with Afghanistan, killing at least eight people. Jamaat-ul-Ahrar, a faction of Tehrik-i-Taliban Pakistan, claim responsibility. ](/news/2017/03/17/gunmen-raid-a-pakistani-military-post-near-the-border-with-afghanistan-killing-at-least-eight-people-jamaat-ul-ahrar-a-faction-of-tehrik.md) _Context: Pakistan, War in North-West Pakistan_
 4. [At least six people are killed in a bomb blast in the Pakistani city of Lahore. ](/news/2017/02/23/at-least-six-people-are-killed-in-a-bomb-blast-in-the-pakistani-city-of-lahore.md) _Context: Pakistan, War in North-West Pakistan_

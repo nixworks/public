@@ -13,7 +13,7 @@ Armed men launched two attacks in Iran on Wednesday morning local time, killing 
 
 ### Related:
 
-1. [Thousands of people along with officials attended funeral held for victims of the attacks. ](/news/2017/06/9/thousands-of-people-along-with-officials-attended-funeral-held-for-victims-of-the-attacks.md) _Context: 2017 Tehran attacks_
+1. [Thousands of people along with officials attend funerals held for victims of the attacks. ](/news/2017/06/9/thousands-of-people-along-with-officials-attend-funerals-held-for-victims-of-the-attacks.md) _Context: 2017 Tehran attacks_
 2. [Iranian Intelligence Ministry releases the names and other information about the five attackers of the day before. ](/news/2017/06/8/iranian-intelligence-ministry-releases-the-names-and-other-information-about-the-five-attackers-of-the-day-before.md) _Context: 2017 Tehran attacks_
 3. [Tehran Mayor Mohammad-Bagher Ghalibaf and First Vice President Eshaq Jahangiri submit their candidacies as registration closes. The final list of approved candidates will be announced on April 27. ](/news/2017/04/15/tehran-mayor-mohammad-bagher-ghalibaf-and-first-vice-president-eshaq-jahangiri-submit-their-candidacies-as-registration-closes-the-final-li.md) _Context: Tehran_
 4. [Search continues for missing firefighters in Tehran's Plasco Building site after the building's deadly fire and collapsing last day. ](/news/2017/01/20/search-continues-for-missing-firefighters-in-tehran-s-plasco-building-site-after-the-building-s-deadly-fire-and-collapsing-last-day.md) _Context: Tehran_
