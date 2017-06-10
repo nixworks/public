@@ -13,7 +13,7 @@ Fighters backed by UAE accused of kidnapping and torturing hundreds of men, acco
 A woman suicide bomber killed at least 31 people and wounded 35 in a crowded market in the town of Musayab, 80 km (50 miles) south of Baghdad, on Friday, security sources said.
 
 ### [United Launch Alliance says it was not given an opportunity to bid against rival SpaceX for the upcoming launch of the U.S. Air Force miniature X-37B space plane. The  Air Force declined to comment. ](/news/2017/06/9/united-launch-alliance-says-it-was-not-given-an-opportunity-to-bid-against-rival-spacex-for-the-upcoming-launch-of-the-u-s-air-force-miniat.md)
-_Context: Air Force, SpaceX, United Launch Alliance, miniature X-37B space plane_
+_Context: Air Force, Space launch market competition, SpaceX, United Launch Alliance, miniature X-37B space plane_
 
 ### [Results of yesterday's snap election are counted, revealing a hung parliament as the Conservative Party fails to retain its parliamentary majority, despite remaining the party with the most seats. Prime Minister Theresa May announced that she will form a minority government with the support of the Northern Irish Democratic Unionist Party. ](/news/2017/06/9/results-of-yesterday-s-snap-election-are-counted-revealing-a-hung-parliament-as-the-conservative-party-fails-to-retain-its-parliamentary-ma.md)
 Theresa May will visit Buckingham Palace to seek to form a government with backing from the DUP, after losing her Commons majority.

@@ -6,8 +6,11 @@ U.S. special forces are aiding troops from the Philippines in attempting to brea
 ### [An Afghan soldier kills two U.S. troops and injures two others in Achin, Nangarhar Province. The Taliban claims responsibility, saying the Afghan soldier was one of several Taliban infiltrators in the Afghan Armed Forces. ](/news/2017/06/10/an-afghan-soldier-kills-two-u-s-troops-and-injures-two-others-in-achin-nangarhar-province-the-taliban-claims-responsibility-saying-the-a.md)
 Attack comes shortly after US airstrike killed two Afghan border police, according to Helmand governor, as Trump considers sending more troops
 
-### [2017 Kratovo shooting](/news/2017/06/10/2017-kratovo-shooting.md)
-_Context: 2017 Kratovo shooting_
+### [A 50-year-old man opens fire on passers-by in Kratovo, Russia, killing four people. ](/news/2017/06/10/a-50-year-old-man-opens-fire-on-passers-by-in-kratovo-russia-killing-four-people.md)
+Police have confirmed the deaths of four people after a shooting spree in the village of Kratovo, southeast of Moscow, where a man barricaded himself in his home and opened fire on by-passers. He managed to escape during the police raid. 
+
+### [Quebec police shoot and kill a 19-year-old suspect following a stabbing spree in the village of Akulivik which left three people dead and two others critically injured. ](/news/2017/06/10/quebec-police-shoot-and-kill-a-19-year-old-suspect-following-a-stabbing-spree-in-the-village-of-akulivik-which-left-three-people-dead-and-tw.md)
+A 19-year-old individual was shot and killed by police in the northern Quebec village of Akulivik, after stabbings that killed three people and injured two others, provincial authorities said Saturday.
 
 ### [Zimbabwe president Robert Mugabe fires prosecutor Johannes Tomana. ](/news/2017/06/10/zimbabwe-president-robert-mugabe-fires-prosecutor-johannes-tomana.md)
 The official had dropped charges against two soldiers accused of plotting against a Mugabe property.
@@ -36,7 +39,7 @@ Fighters backed by UAE accused of kidnapping and torturing hundreds of men, acco
 A woman suicide bomber killed at least 31 people and wounded 35 in a crowded market in the town of Musayab, 80 km (50 miles) south of Baghdad, on Friday, security sources said.
 
 ### [United Launch Alliance says it was not given an opportunity to bid against rival SpaceX for the upcoming launch of the U.S. Air Force miniature X-37B space plane. The  Air Force declined to comment. ](/news/2017/06/9/united-launch-alliance-says-it-was-not-given-an-opportunity-to-bid-against-rival-spacex-for-the-upcoming-launch-of-the-u-s-air-force-miniat.md)
-_Context: Air Force, SpaceX, United Launch Alliance, miniature X-37B space plane_
+_Context: Air Force, Space launch market competition, SpaceX, United Launch Alliance, miniature X-37B space plane_
 
 ### [Results of yesterday's snap election are counted, revealing a hung parliament as the Conservative Party fails to retain its parliamentary majority, despite remaining the party with the most seats. Prime Minister Theresa May announced that she will form a minority government with the support of the Northern Irish Democratic Unionist Party. ](/news/2017/06/9/results-of-yesterday-s-snap-election-are-counted-revealing-a-hung-parliament-as-the-conservative-party-fails-to-retain-its-parliamentary-ma.md)
 Theresa May will visit Buckingham Palace to seek to form a government with backing from the DUP, after losing her Commons majority.
