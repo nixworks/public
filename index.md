@@ -1,5 +1,8 @@
 ## [News](/news/2017/06/11/index.md)
 
+### [Philippines president Rodrigo Duterte is "not aware" of the United States providing support to the Philippine government military intervention. He says he never approached America for help. ](/news/2017/06/11/philippines-president-rodrigo-duterte-is-not-aware-of-the-united-states-providing-support-to-the-philippine-government-military-interventi.md)
+Philippine President Rodrigo Duterte said on Sunday he was not aware the U.S. government was providing assistance to government troops in its battle against Islamist militants in a southern city.
+
 ### [The European Union's visa-free regime for Ukraine officially enters into force. ](/news/2017/06/11/the-european-union-s-visa-free-regime-for-ukraine-officially-enters-into-force.md)
 _Context: European Union, Ukraine, Ukraine-European Union relations_
 
