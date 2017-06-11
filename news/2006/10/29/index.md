@@ -13,7 +13,7 @@ _Context: Serbian constitutional referendum, 2006_
 _Context: Basra, Iraqi insurgency_
 
 ### [ War in Afghanistan (2001-present): One NATO soldier and about 70 Taliban insurgents were killed in southern Afghanistan when fighting broke out between insurgents and Afghan troops and NATO's International Security Assistance Force (ISAF), officials said. ](/news/2006/10/29/war-in-afghanistan-2001apresent-one-nato-soldier-and-about-70-taliban-insurgents-were-killed-in-southern-afghanistan-when-fighting-bro.md)
-_Context: Afghanistan, International Security Assistance Force, NATO, Taliban insurgency, War in Afghanistan (2001-present)_
+_Context: Afghan, International Security Assistance Force, NATO, Taliban insurgency, War in Afghanistan (2001-present)_
 
 ### [ The Attorney-General of Israel delivers a brief to the Supreme Court of Israel arguing that the President of Israel Moshe Katsav should stand aside pending a possible indictment for rape. ](/news/2006/10/29/the-attorney-general-of-israel-delivers-a-brief-to-the-supreme-court-of-israel-arguing-that-the-president-of-israel-moshe-katsav-should-sta.md)
 Frontpage | New Straits Times : Authoritative source for Malaysia latest news on politics, business, sports, world and entertainment

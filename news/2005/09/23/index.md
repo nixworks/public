@@ -4,7 +4,7 @@
 _Context: FBI, Filiberto Ojeda Rios, Puerto Rican, movement, nationalist, shootout_
 
 ### [ Lester Crawford, U.S. Food and Drug Administration Commissioner resigns; citing old age. Critics accuse Crawford of incompetence regarding Vioxx, cloned beef, approval of malfunctioning heart devices, and alleged corruption. He served two months in office. ](/news/2005/09/23/lester-crawford-u-s-food-and-drug-administration-commissioner-resigns-citing-old-age-critics-accuse-crawford-of-incompetence-regarding.md)
-_Context: FDA, Lester Crawford, Vioxx_
+_Context: Lester Crawford, U.S. Food and Drug Administration, Vioxx_
 
 ### [ Israeli-Palestinian Conflict: At least 10 Palestinians die and 80 are injured when a truck carrying home-made explosives explodes during a Friday salat parade organised by Hamas.  Hamas blames Israel, claiming an Israeli plane blew up the vehicle, while Israel and the Palestinian Authority blames Hamas. ](/news/2005/09/23/israeli-palestinian-conflict-p-at-least-10-palestinians-die-and-80-are-injured-when-a-truck-carrying-home-made-explosives-explodes-during-a.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

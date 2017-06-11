@@ -34,7 +34,7 @@ Two homemade bombs exploded this morning in the Greek cities of Athens and Salon
 _Context: Iraq, bank robbery, hanging_
 
 ### [ A Taliban blast kills Afghan deputy chief of intelligence Abdullah Laghmani. The blast shakes the city of Mihtarlam, 60 miles (100 kilometers) east of Kabul in Laghman Province; it kills several government officials and wounds several civilians. ](/news/2009/09/2/a-taliban-blast-kills-afghan-deputy-chief-of-intelligence-abdullah-laghmani-the-blast-shakes-the-city-of-mihtarlam-60-miles-100-kilomete.md)
-_Context: Afghanistan, Kabul, Laghman Province, Mihtarlam, Taliban_
+_Context: Afghan, Kabul, Laghman Province, Mihtarlam, Taliban_
 
 ### [ Two American journalists held by North Korea for illegal entry admit to crossing the border but claim North Korean guards arrested them on the Chinese side of the border and dragged them back into the country. ](/news/2009/09/2/two-american-journalists-held-by-north-korea-for-illegal-entry-admit-to-crossing-the-border-but-claim-north-korean-guards-arrested-them-on.md)
 Two U.S. journalists held by North Korea for illegal entry admitted they crossed into the reclusive state, but said North Korean guards arrested them on the Chinese side of the border and dragged them back into the country.

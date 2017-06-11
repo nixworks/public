@@ -4,7 +4,7 @@
 _Context: Colombia, Congress of Colombia, FARC, Hugo Chavez, Pablo Emilio Moncayo, Venezuelan president_
 
 ### [ A roadside bomb in Afghanistan results in the death of two NATO soldiers. ](/news/2008/02/27/a-roadside-bomb-in-afghanistan-results-in-the-death-of-two-nato-soldiers.md)
-_Context: Afghanistan, NATO, bomb_
+_Context: Afghan, NATO, bomb_
 
 ### [ The biggest earthquake in nearly 25 years hits England (5.2 on Richter scale). ](/news/2008/02/27/the-biggest-earthquake-in-nearly-25-years-hits-england-5-2-on-richter-scale.md)
 _Context: Richter scale, earthquake_

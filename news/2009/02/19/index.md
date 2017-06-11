@@ -19,7 +19,7 @@ _Context: Israel, Palestinian, fire, militant, rocket_
 * Newspaper Dagens Industri: GM could put 3.5 bln SEK intoSaab * Dagens Industri: Saab could file reorganisation Friday * Board meeting T
 
 ### [ Kyrgyzstan's Supreme Council approves the closure of the U.S. Air Force's Manas Air Base. ](/news/2009/02/19/kyrgyzstan-s-supreme-council-approves-the-closure-of-the-u-s-air-force-s-manas-air-base.md)
-_Context: Kyrgyzstan, Manas Air Base, Supreme Council, United States, United States Air Force_
+_Context: Air Force, Kyrgyzstan, Manas Air Base, Supreme Council, United States_
 
 ### [ A Russian court acquits three men of aiding the 2006 murder of investigative journalist Anna Politkovskaya. ](/news/2009/02/19/a-russian-court-acquits-three-men-of-aiding-the-2006-murder-of-investigative-journalist-anna-politkovskaya.md)
 _Context: 2006, Anna Politkovskaya, Russia, acquits, aiding, investigative reporter, murder_

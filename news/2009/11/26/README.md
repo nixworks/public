@@ -22,7 +22,7 @@ _Context: Bogota, Jaime Usctegui, Mapiripn Massacre in 1997, Supreme Court, far 
 _Context: Floods in Saudi Arabia, Jeddah, Mecca, Rabigh_
 
 ### [ Germany's army chief Wolfgang Schneiderhan resigns over allegations of a cover up related to a September NATO airstrike in northern Afghanistan. ](/news/2009/11/26/germany-s-army-chief-wolfgang-schneiderhan-resigns-over-allegations-of-a-cover-up-related-to-a-september-nato-airstrike-in-northern-afghani.md)
-_Context: Afghanistan, German, Kunduz airstrike, NATO, Wolfgang Schneiderhan_
+_Context: Afghan, German, Kunduz airstrike, NATO, Wolfgang Schneiderhan_
 
 ### [ South Korea's Constitutional Court strikes down a decades old law that punished men for making false promises of marriage to engage in sexual relations with women. ](/news/2009/11/26/south-korea-s-constitutional-court-strikes-down-a-decades-old-law-that-punished-men-for-making-false-promises-of-marriage-to-engage-in-sexu.md)
 _Context: Constitutional Court, South Korea, sexual relations_

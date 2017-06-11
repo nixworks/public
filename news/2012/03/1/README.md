@@ -10,7 +10,7 @@ _Context: Azerbaijan_
 _Context: Istanbul, Turkish police_
 
 ### [Two members of the NATO International Security Assistance Force are killed in southern Afghanistan, one of whom is believed to be a member of the Afghan Army. ](/news/2012/03/1/two-members-of-the-nato-international-security-assistance-force-are-killed-in-southern-afghanistan-one-of-whom-is-believed-to-be-a-member-o.md)
-_Context: Afghan Army, Afghanistan, International Security Assistance Force, NATO_
+_Context: Afghan, Afghan Army, International Security Assistance Force, NATO_
 
 ### [Unemployment in the Euro zone rises to 10.7 per cent, the highest level in its history. ](/news/2012/03/1/unemployment-in-the-euro-zone-rises-to-10-7-per-cent-the-highest-level-in-its-history.md)
 Euro zone joblessnessrose to a new euro-era high while inflation was largely steadyat the start of 2012, data showed on Thursday, leaving theEuropean Central Bank to juggle the demands of a slowing economyand only mild pressure on prices.

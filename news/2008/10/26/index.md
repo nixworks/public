@@ -1,7 +1,7 @@
 ## [2008-10-26](/news/2008/10/26/index.md)
 
 ### [ United States Special Operations Forces, stationed in Iraq, launch a cross-border raid in Syria, attacking a civilian building under construction near Abu Kamal, Syria. The Syrian government states 8 civilians were killed. ](/news/2008/10/26/united-states-special-operations-forces-stationed-in-iraq-launch-a-cross-border-raid-in-syria-attacking-a-civilian-building-under-constr.md)
-_Context: Abu Kamal, Iraq, Syria, U.S. special forces, cross-border raid in Syria_
+_Context: Abu Kamal, Iraq, Syria, cross-border raid in Syria, special forces_
 
 ### [ A shooter kills two people and injures another at the University of Central Arkansas in Conway, Arkansas. ](/news/2008/10/26/a-shooter-kills-two-people-and-injures-another-at-the-university-of-central-arkansas-in-conway-arkansas.md)
 _Context: Conway, Arkansas, University of Central Arkansas_

@@ -4,7 +4,7 @@
 Congress moves one step closer to fulfilling its first pledge of the 2006 election, passing homeland security provisions that include cargo screening and radiation monitoring equipment.
 
 ### [ The United States Food and Drug Administration suspends a gene therapy study and reviews 28 others after the death of a patient. ](/news/2007/07/26/the-united-states-food-and-drug-administration-suspends-a-gene-therapy-study-and-reviews-28-others-after-the-death-of-a-patient.md)
-_Context: FDA, United States, gene therapy_
+_Context: U.S. Food and Drug Administration, United States, gene therapy_
 
 ### [ Two people are killed and four injured in an explosion at the Mojave Airport in California. ](/news/2007/07/26/two-people-are-killed-and-four-injured-in-an-explosion-at-the-mojave-airport-in-california.md)
 Two people were killed and four others seriously injured on Thursday in an explosion at an airport in the California desert, news reports said.
@@ -40,7 +40,7 @@ _Context: 2007 European heat wave_
 _Context: Indonesia, Maluku Islands, North Maluku, earthquake, tsunami_
 
 ### [ War in Afghanistan: United States-led troops kill more than 50 insurgents in the Helmand province of Afghanistan. ](/news/2007/07/26/war-in-afghanistan-united-states-led-troops-kill-more-than-50-insurgents-in-the-helmand-province-of-afghanistan.md)
-_Context: Afghanistan, Helmand Province, United States, War in Afghanistan (2001-present)_
+_Context: Afghan, Helmand Province, United States, War in Afghanistan (2001-present)_
 
 ### [ Summer 2007 United Kingdom floods: Flood water levels in the River Thames is expected to rise further as England expects more heavy rain. Two people die in Tewkesbury, Gloucestershire trying to pump water out of a club. ](/news/2007/07/26/summer-2007-united-kingdom-floods-flood-water-levels-in-the-river-thames-is-expected-to-rise-further-as-england-expects-more-heavy-rain-t.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

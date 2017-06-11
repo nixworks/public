@@ -4,7 +4,7 @@
 _Context: Iran, Murmansk Oblast, Plesetsk Cosmodrome, Russia, Sinah-1_
 
 ### [ Lewis "Scooter" Libby, Chief of Staff to U.S. Vice President Dick Cheney, resigns after being indicted for perjury and obstruction of justice by a grand jury. ](/news/2005/10/28/lewis-scooter-libby-chief-of-staff-to-u-s-vice-president-dick-cheney-resigns-after-being-indicted-for-perjury-and-obstruction-of-justi.md)
-_Context: Dick Cheney, Scooter Libby, U.S. Vice President, grand jury, lied under oath, obstruction of justice_
+_Context: Dick Cheney, Scooter Libby, U.S. Vice President, committed perjury, grand jury, obstruction of justice_
 
 ### [ Elvis Presley tops ''Forbes''' list of Top Ten Earning Dead Celebrities for the fifth successive year, earning US$45 million in royalties. He is followed by Charles M. Schulz ($35M), John Lennon ($22M), and Andy Warhol ($16M). ](/news/2005/10/28/elvis-presley-tops-forbes-list-of-top-ten-earning-dead-celebrities-for-the-fifth-successive-year-earning-us-45-million-in-royalties.md)
 _Context: Andy Warhol, Charles M. Schulz, Elvis Presley, Forbes, John Lennon, US$_

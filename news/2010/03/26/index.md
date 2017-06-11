@@ -13,7 +13,7 @@ Foreign Minister Mottaki says, &#39;Expansion of Israeli settlements, destructio
 Treaty to be signed on April 8 would cut both arsenals to 1,550 warheads.
 
 ### [A prominent Indonesian cleric says Islamic law should take priority over laws passed by Parliament. ](/news/2010/03/26/a-prominent-indonesian-cleric-says-islamic-law-should-take-priority-over-laws-passed-by-parliament.md)
-_Context: Indonesia, Islamic clerics, Parliament, Sharia_
+_Context: Indonesia, Islamic clerics, Parliament, sharia law_
 
 ### [The United Nations Secretary-General Ban Ki-moon says he is disappointed with Burma's military leaders for their lack of democratic progress in the run up to general elections in the country. ](/news/2010/03/26/the-united-nations-secretary-general-ban-ki-moon-says-he-is-disappointed-with-burma-s-military-leaders-for-their-lack-of-democratic-progress.md)
 UN chief voices concern at lack of progress ahead of planned elections.

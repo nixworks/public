@@ -13,7 +13,7 @@ A U.S. Navy guided missile destroyer was targeted on Sunday in a failed missile 
 _Context: Pope Francis, papal conclave_
 
 ### [An Afghan Armed Forces Mi-17 helicopter crashes in northern Afghanistan with all seven people onboard, four crewmen and three passengers, dying. ](/news/2016/10/9/an-afghan-armed-forces-mi-17-helicopter-crashes-in-northern-afghanistan-with-all-seven-people-onboard-four-crewmen-and-three-passengers-dy.md)
-_Context: Afghan Armed Forces, Afghanistan_
+_Context: Afghan, Afghan Armed Forces_
 
 ### [A man driving the wrong way on Interstate 89 in Williston, Vermont, kills five people, all local high school juniors. ](/news/2016/10/9/a-man-driving-the-wrong-way-on-interstate-89-in-williston-vermont-kills-five-people-all-local-high-school-juniors.md)
 The Latest on a wrong-way crash that killed five Vermont high school students (all times local): 4:30 p.m.

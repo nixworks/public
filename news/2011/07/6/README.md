@@ -16,7 +16,7 @@ _Context: European Commission, Greece, Moody's, Portugal, Stavros Lambrinidis_
 _Context: Japan, Jiji Press, nuclear reactor_
 
 ### [Authorities report that a cargo plane has crashed in eastern Afghanistan with casualties feared. ](/news/2011/07/6/authorities-report-that-a-cargo-plane-has-crashed-in-eastern-afghanistan-with-casualties-feared.md)
-_Context: Afghanistan_
+_Context: Afghan_
 
 ### [7 people are killed during heavy floods in Sichuan Province in the People's Republic of China. ](/news/2011/07/6/7-people-are-killed-during-heavy-floods-in-sichuan-province-in-the-people-s-republic-of-china.md)
 _Context: People's Republic of China, Sichuan Province, heavy flood_
@@ -37,7 +37,7 @@ Seven suspects sent to prison ahead of trial as allegations rock Turkish league.
 _Context: Rossiyskaya Gazeta, Russia, money laundering, terrorism_
 
 ### [The perjury trial of retired star baseball pitcher Roger Clemens commences in the U.S. over allegedly false statements made to a United States Congress Committee over use of performance-enhancing drugs. ](/news/2011/07/6/the-perjury-trial-of-retired-star-baseball-pitcher-roger-clemens-commences-in-the-u-s-over-allegedly-false-statements-made-to-a-united-stat.md)
-_Context: Roger Clemens, U.S. Congressional, baseball game, lied under oath, performance-enhancing drugs, pitcher_
+_Context: Roger Clemens, U.S. Congressional, baseball game, committed perjury, performance-enhancing drugs, pitcher_
 
 ### [Nine Germans are convicted ''in absentia'' in Verona Italy for killing hundreds of civilians during World War II. ](/news/2011/07/6/nine-germans-are-convicted-in-absentia-in-verona-italy-for-killing-hundreds-of-civilians-during-world-war-ii.md)
 An Italian court sentences nine German men in absentia to life in prison for killing hundreds of civilians during World War II, reports say.

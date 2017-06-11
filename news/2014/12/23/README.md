@@ -22,7 +22,7 @@ Keurig is recalling 6.6 million of its popular coffee makers after receiving &qu
 At least five tornadoes were reported in the southern United States, leading to four deaths and fifty people injured. The twi ... 
 
 ### [The FDA says that in regards to the 31-year-old policy against gay men making blood donations it will recommend lifting the lifetime ban early next year, replacing it with a policy barring donations from men who have had sex with another man in the previous 12 months. ](/news/2014/12/23/the-fda-says-that-in-regards-to-the-31-year-old-policy-against-gay-men-making-blood-donations-it-will-recommend-lifting-the-lifetime-ban-ear.md)
-_Context: FDA_
+_Context: U.S. Food and Drug Administration_
 
 ### [The Parliament of Ukraine removes the country's legislative block on forming military alliances, allowing the government to push forward with plans to accede to NATO. ](/news/2014/12/23/the-parliament-of-ukraine-removes-the-countryas-legislative-block-on-forming-military-alliances-allowing-the-government-to-push-forward-w.md)
 _Context: NATO, Ukrainians_

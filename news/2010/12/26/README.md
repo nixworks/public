@@ -4,7 +4,7 @@
 Further violence has broken out in the city of Jos in central Nigeria following bombings that killed 32 people on Christmas Eve.
 
 ### [Four Turkish workers are kidnapped in eastern Afghanistan. ](/news/2010/12/26/four-turkish-workers-are-kidnapped-in-eastern-afghanistan.md)
-_Context: Afghanistan, Turkey_
+_Context: Afghan, Turkey_
 
 ### [Somali pirates seize a Thai-flagged ship off the coast of Somalia. ](/news/2010/12/26/somali-pirates-seize-a-thai-flagged-ship-off-the-coast-of-somalia.md)
 _Context: Somali pirates, Somalia, Thailand_

@@ -31,7 +31,7 @@ _Context: Oscar Pistorius, Reeva Steenkamp, South Africa_
 _Context: New Zealand_
 
 ### [Attorney general Mohammad Ishaq Aloko is fired by Afghan President Hamid Karzai, over an unsanctioned meeting with Taliban peace negotiators in the United Arab Emirates. ](/news/2013/08/19/attorney-general-mohammad-ishaq-aloko-is-fired-by-afghan-president-hamid-karzai-over-an-unsanctioned-meeting-with-taliban-peace-negotiators.md)
-_Context: Afghanistan, Afghanistan President, Hamid Karzai, Mohammad Ishaq Aloko, Taliban, UAE_
+_Context: Afghan, Afghanistan President, Hamid Karzai, Mohammad Ishaq Aloko, Taliban, UAE_
 
 ## [Previous Day...](/news/2013/08/18/index.md)
 

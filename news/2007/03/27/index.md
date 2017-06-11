@@ -16,7 +16,7 @@ _Context: Cologne, German, Rhine River, container ship, ship_
 Frontpage | New Straits Times : Authoritative source for Malaysia latest news on politics, business, sports, world and entertainment
 
 ### [ United States District Court Judge Thomas Hogan dismisses a case of alleged torture against former United States Secretary of Defense Donald Rumsfeld brought by nine former prisoners in Iraq and Afghanistan. ](/news/2007/03/27/united-states-district-court-judge-thomas-hogan-dismisses-a-case-of-alleged-torture-against-former-united-states-secretary-of-defense-donal.md)
-_Context: Afghanistan, Donald Rumsfeld, Iraq, Judge, Secretary of Defense, Thomas Hogan, U.S. federal court, torture_
+_Context: Afghan, Donald Rumsfeld, Iraq, Judge, Secretary of Defense, Thomas Hogan, U.S. federal court, torture_
 
 ### [ Taiwan unveils an upgraded version of their Ching-kuo fighter aircraft called the Hsung Ying made by the Aerospace Industrial Development Corporation. ](/news/2007/03/27/taiwan-unveils-an-upgraded-version-of-their-ching-kuo-fighter-aircraft-called-the-hsung-ying-made-by-the-aerospace-industrial-development-c.md)
 _Context: Aerospace Industrial Development Corporation, Ching-kuo, Hsung Ying, Taiwan, fighter aircraft_

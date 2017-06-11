@@ -4,7 +4,7 @@
 _Context: Brussels, Eurostar, High Speed 1, London, Paris, Queen Elizabeth, St Pancras station, Waterloo Station_
 
 ### [ At least 35 people are killed and dozens more wounded in a suicide bombing in northern Afghanistan, officials say. ](/news/2007/11/6/at-least-35-people-are-killed-and-dozens-more-wounded-in-a-suicide-bombing-in-northern-afghanistan-officials-say.md)
-_Context: Afghanistan, suicide bombing_
+_Context: Afghan, suicide bombing_
 
 ### [ 2007 Belgian government formation: Belgium sets a new national record for the longest period without a new government - 149 days have passed since the general election - as parties are still trying to bridge their opposing views on state reforms. ](/news/2007/11/6/2007-belgian-government-formation-belgium-sets-a-new-national-record-for-the-longest-period-without-a-new-government-a-149-days-have-pas.md)
 _Context: Belgium, forms a temporary coalition government, general election_

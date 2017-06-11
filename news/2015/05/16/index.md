@@ -1,7 +1,7 @@
 ## [2015-05-16](/news/2015/05/16/index.md)
 
 ### [The United States claims that senior ISIL commander Abu Sayyaf is killed in a United States special operations forces raid within what is officially Syrian territory. ](/news/2015/05/16/the-united-states-claims-that-senior-isil-commander-abu-sayyaf-is-killed-in-a-united-states-special-operations-forces-raid-within-what-is-of.md)
-_Context: Abu Sayyaf, ISIL, U.S. special forces_
+_Context: Abu Sayyaf, ISIL, special forces_
 
 ### [An Egyptian court sentences deposed President Mohamed Morsi to death for his part in the Egyptian Revolution of 2011. ](/news/2015/05/16/an-egyptian-court-sentences-deposed-president-mohamed-morsi-to-death-for-his-part-in-the-egyptian-revolution-of-2011.md)
 _Context: 2011 Egyptian revolution, Egypt, Egyptian President, Mohamed Morsi_

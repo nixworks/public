@@ -4,7 +4,7 @@
 Two US airmen are rescued in eastern Libya after their warplane crashed during allied operations, officials say.
 
 ### [The President of Afghanistan Hamid Karzai names the seven areas of Afghanistan that will pass into Afghan control from July: Kabul, Panjshir Province, Bamiyan Province, Herat, Mazar-e-Sharif, Mihtarlam and Lashkar Gah. ](/news/2011/03/22/the-president-of-afghanistan-hamid-karzai-names-the-seven-areas-of-afghanistan-that-will-pass-into-afghan-control-from-july-kabul-panjshir.md)
-_Context: Afghanistan, Afghanistan President, Bamiyan Province, Hamid Karzai, Herat, Kabul, Lashkar Gah, Mazar-e-Sharif, Mihtarlam, Panjshir Province_
+_Context: Afghan, Afghanistan President, Bamiyan Province, Hamid Karzai, Herat, Kabul, Lashkar Gah, Mazar-e-Sharif, Mihtarlam, Panjshir Province_
 
 ### [The headquarters of Egypt's Ministry of Interior burns to the ground as police officers protest outside about low wages. ](/news/2011/03/22/the-headquarters-of-egypt-s-ministry-of-interior-burns-to-the-ground-as-police-officers-protest-outside-about-low-wages.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

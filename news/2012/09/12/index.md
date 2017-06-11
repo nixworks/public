@@ -4,7 +4,7 @@
 _Context: Idlib, Syrian Civil War_
 
 ### [President Hamid Karzai of Afghanistan calls for a re-think of the War on Terror. ](/news/2012/09/12/president-hamid-karzai-of-afghanistan-calls-for-a-re-think-of-the-war-on-terror.md)
-_Context: Afghanistan, Hamid Karzai, War in Afghanistan, War on Terror_
+_Context: Afghan, Hamid Karzai, War in Afghanistan, War on Terror_
 
 ### [A suicide bombing at a hotel in the Somali capital of Mogadishu where newly elected president Hassan Sheikh Mohamoud was holding a news conference kills at least four people. ](/news/2012/09/12/a-suicide-bombing-at-a-hotel-in-the-somali-capital-of-mogadishu-where-newly-elected-president-hassan-sheikh-mohamoud-was-holding-a-news-conf.md)
 A suicide attack at the gates of a Mogadishu hotel where the new Somali leader is staying kills two bombers and a number of guards.

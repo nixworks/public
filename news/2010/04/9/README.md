@@ -46,7 +46,7 @@ A militant group linked to al Qaeda has claimed responsibility for suicide car b
 _Context: Line 2, Pudong International Airport, metro_
 
 ### [U.S. helicopter - Air Force CV-22 Osprey - crashes in southern Afghanistan, killing three U.S. service members and one civilian employee. Zabiullah Mujahid says Taliban fighters shot down the chopper. ](/news/2010/04/9/u-s-helicopter-air-force-cv-22-osprey-crashes-in-southern-afghanistan-killing-three-u-s-service-members-and-one-civilian-employee-za.md)
-_Context: Afghanistan, CV-22 Osprey, Taliban, Zabiullah Mujahid, air force_
+_Context: Afghan, CV-22 Osprey, Taliban, Zabiullah Mujahid, air force_
 
 ### [Associate Justice John Paul Stevens of the U.S. Supreme Court announces his retirement after serving on the court for 34 years. ](/news/2010/04/9/associate-justice-john-paul-stevens-of-the-u-s-supreme-court-announces-his-retirement-after-serving-on-the-court-for-34-years.md)
 _Context: John Paul Stevens, Justice, Supreme Court_

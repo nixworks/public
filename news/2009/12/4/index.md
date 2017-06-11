@@ -1,7 +1,7 @@
 ## [2009-12-4](/news/2009/12/4/index.md)
 
 ### [ US Marines and Afghan troops launch Operation Cobra's Anger in northern Helmand province. ](/news/2009/12/4/us-marines-and-afghan-troops-launch-operation-cobra-s-anger-in-northern-helmand-province.md)
-_Context: Afghanistan, Helmand Province, Operation Cobra's Anger, US Marines_
+_Context: Afghan, Helmand Province, Operation Cobra's Anger, US Marines_
 
 ### [ The U.S. Office of Thrift Supervision closes down the Cleveland based AmTrust Bank. ](/news/2009/12/4/the-u-s-office-of-thrift-supervision-closes-down-the-cleveland-based-amtrust-bank.md)
 _Context: AmTrust Bank, Cleveland, Office of Thrift Supervision_
@@ -28,7 +28,7 @@ _Context: Maguindanao massacre, Philippines_
 _Context: Amanda Knox, Italy, Perugia, Raffaele Sollecito, killing Meredith Kercher_
 
 ### [ The North Atlantic Treaty Organisation announces that 25 member countries will contribute a further 7,000 troops to the International Security Assistance Force in Afghanistan in addition to 30,000 additional American and 500 British troops previously announced. ](/news/2009/12/4/the-north-atlantic-treaty-organisation-announces-that-25-member-countries-will-contribute-a-further-7-000-troops-to-the-international-secur.md)
-_Context: Afghanistan, International Security Assistance Force, North Atlantic Treaty Organisation_
+_Context: Afghan, International Security Assistance Force, North Atlantic Treaty Organisation_
 
 ### [ 2010 FIFA World Cup draw: The final draw for the 2010 FIFA World Cup takes place in Cape Town, South Africa. ](/news/2009/12/4/2010-fifa-world-cup-draw-p-the-final-draw-for-the-2010-fifa-world-cup-takes-place-in-cape-town-south-africa.md)
 The 2010 World Cup draw will take place in Cape Town, South Africa at 2 a.m. Saturday (KST).

@@ -28,7 +28,7 @@ A woman who may be a Japanese cult member wanted for the 1995 gas attacks on the
 _Context: Turkey, abortion_
 
 ### [Speaking on the BBC's ''The Andrew Marr Show'', British Prime Minister David Cameron says that Culture Secretary Jeremy Hunt "acted wisely" in his handling of the BSkyB takeover bid. ](/news/2012/06/3/speaking-on-the-bbc-s-the-andrew-marr-show-british-prime-minister-david-cameron-says-that-culture-secretary-jeremy-hunt-acted-wisely.md)
-_Context: BBC, BSkyB takeover bid, David Cameron, Jeremy Hunt, Secretary of State for Culture, Media and Sport, The Andrew Marr Show, prime minister_
+_Context: BBC, BSkyB takeover bid, David Cameron, Jeremy Hunt, Prime Minister, Secretary of State for Culture, Media and Sport, The Andrew Marr Show_
 
 ## [Previous Day...](/news/2012/06/2/index.md)
 

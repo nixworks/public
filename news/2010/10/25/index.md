@@ -7,7 +7,7 @@ _Context: Fariduddin Ganjshakar, Pakistan, Pakpattan, Punjab, Sufi, bomb, shrine
 _Context: Orakzai, Tanda_
 
 ### [An Afghan official claims that a NATO air strike killed about 25 people in Helmand Province, Afghanistan. ](/news/2010/10/25/an-afghan-official-claims-that-a-nato-air-strike-killed-about-25-people-in-helmand-province-afghanistan.md)
-_Context: Afghan government, Afghanistan, Helmand Province, NATO_
+_Context: Afghan, Afghan government, Helmand Province, NATO_
 
 ### [A Sahrawi boy was killed and five other injured by the Moroccan Army near a protest camp in Western Sahara. ](/news/2010/10/25/a-sahrawi-boy-was-killed-and-five-other-injured-by-the-moroccan-army-near-a-protest-camp-in-western-sahara.md)
 _Context: Sahrawi, Western Sahara_

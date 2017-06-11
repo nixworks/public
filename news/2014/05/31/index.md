@@ -4,7 +4,7 @@
 _Context: Bajaur Agency, Federally Administered Tribal Areas, Taliban, War in North-West Pakistan_
 
 ### [Sergeant Bowe Bergdahl, previously the only United States military prisoner held captive in Afghanistan, is released in exchange for five Taliban prisoners held at Guantanamo Bay. ](/news/2014/05/31/sergeant-bowe-bergdahl-previously-the-only-united-states-military-prisoner-held-captive-in-afghanistan-is-released-in-exchange-for-five-ta.md)
-_Context: Afghanistan, Bowe Bergdahl, Guantanamo Bay, United States military, War in Afghanistan (2001-present), five Taliban prisoners_
+_Context: Afghan, Bowe Bergdahl, Guantanamo Bay, United States military, War in Afghanistan (2001-present), five Taliban prisoners_
 
 ### [Turkish police fire tear gas at hundreds of protestors in Istanbul and Ankara as protestors mark the anniversary of the start of the ongoing protests. ](/news/2014/05/31/turkish-police-fire-tear-gas-at-hundreds-of-protestors-in-istanbul-and-ankara-as-protestors-mark-the-anniversary-of-the-start-of-the-ongoing.md)
 _Context: Ankara, Istanbul, Turkish police, ongoing protests, tear gas_

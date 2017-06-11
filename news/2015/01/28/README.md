@@ -7,7 +7,7 @@ Two Israeli soldiers and a Spanish UN peacekeeper are killed as Hezbollah milita
 _Context: currency, yuan_
 
 ### [The US Air Force Secretary Deborah Lee James picks the Boeing 747-8 for the next replacement of Air Force One. ](/news/2015/01/28/the-us-air-force-secretary-deborah-lee-james-picks-the-boeing-747-8-for-the-next-replacement-of-air-force-one.md)
-_Context: Air Force One, Boeing 747-8, Deborah Lee James, Secretary, United States Air Force_
+_Context: Air Force, Air Force One, Boeing 747-8, Deborah Lee James, Secretary_
 
 ### [A Vietnamese military Bell UH-1 Iroquois helicopter crashes in southern Ho Chi Minh City killing four people. ](/news/2015/01/28/a-vietnamese-military-bell-uh-1-iroquois-helicopter-crashes-in-southern-ho-chi-minh-city-killing-four-people.md)
 _Context: Bell UH-1 Iroquois, Ho Chi Minh City, Vietnamese_

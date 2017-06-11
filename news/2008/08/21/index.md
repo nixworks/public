@@ -7,7 +7,7 @@ _Context: Somali_
 _Context: DMCA, U.S. federal court, Universal Studios, federal court, takedown notice_
 
 ### [ The United States Food and Drug Administration approves irradiation of lettuce and spinach to kill ''E. coli'' and other dangerous germs. ](/news/2008/08/21/the-united-states-food-and-drug-administration-approves-irradiation-of-lettuce-and-spinach-to-kill-e-coli-and-other-dangerous-germs.md)
-_Context: E. coli, FDA, United States, irradiation, lettuce, spinach_
+_Context: E. coli, U.S. Food and Drug Administration, United States, irradiation, lettuce, spinach_
 
 ### [ 2008 Wah bombing: Two suicide bombings occur in the cantonment city of Wah Cantonment in Pakistan killing at least 76 people and injuring 110. ](/news/2008/08/21/2008-wah-bombing-two-suicide-bombings-occur-in-the-cantonment-city-of-wah-cantonment-in-pakistan-killing-at-least-76-people-and-injuring-1.md)
 _Context: 2008 Wah bombing, Pakistan, Wah Cantonment, cantonment, suicide bombing_

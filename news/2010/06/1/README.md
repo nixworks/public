@@ -4,7 +4,7 @@
 _Context: Ahmadis, Friday's attack, Lahore, Pakistan_
 
 ### [Al-Qaeda's top leader in Afghanistan, and Osama bin Laden's third in command, Mustafa Abu al-Yazid, is reported killed. ](/news/2010/06/1/al-qaeda-s-top-leader-in-afghanistan-and-osama-bin-laden-s-third-in-command-mustafa-abu-al-yazid-is-reported-killed.md)
-_Context: Afghanistan, Mustafa Abu al-Yazid, Osama bin Laden, al-Qaeda_
+_Context: Afghan, Mustafa Abu al-Yazid, Osama bin Laden, al-Qaeda_
 
 ### [The Israeli Defense Forces kill two Palestinians terrorists in Gaza who were attempting to cross the border fence, after an exchange of gunfire. Israel closes four settlements, Route 323 and schools as a result of the incident. ](/news/2010/06/1/the-israeli-defense-forces-kill-two-palestinians-terrorists-in-gaza-who-were-attempting-to-cross-the-border-fence-after-an-exchange-of-gunf.md)
 Infiltrators shot dead in exchange of fire with IDF soldiers.
@@ -28,7 +28,7 @@ _Context: BP, Deepwater Horizon oil spill, Obama-era_
 _Context: Baghdad, Iran, Iraq, Kurdish, Tehran_
 
 ### [The United States insists any Afghan peace deal must ensure women's rights as Afghanistan prepares to open a peace conference aimed at persuading Taliban leaders to put down their weapons. ](/news/2010/06/1/the-united-states-insists-any-afghan-peace-deal-must-ensure-women-s-rights-as-afghanistan-prepares-to-open-a-peace-conference-aimed-at-persu.md)
-_Context: Afghanistan, Taliban, Women's rights_
+_Context: Afghan, Taliban, Women's rights_
 
 ### [Aftermath of the Survivors of the Israeli assault on the Gaza-bound international aid flotilla return to Greece and Turkey, providing the first eyewitness accounts of the attack. ](/news/2010/06/1/aftermath-of-the-survivors-of-the-israeli-assault-on-the-gaza-bound-international-aid-flotilla-return-to-greece-and-turkey-providing-the-fi.md)
 Israel has detained 487 pro-Palestinian activists captured in its deadly commando raid on a Gaza-bound aid flotilla and will expel 48 others, public radio reported Tuesday.

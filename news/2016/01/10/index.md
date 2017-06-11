@@ -25,7 +25,7 @@ A bus carrying amateur football players and fans plunged into a river after care
 A newly constructed bridge in northern Ontario has heaved apart, indefinitely closing the Trans-Canada highway &mdash; the only road connecting Eastern and Western Canada. At least one town has declared a state of emergency. 
 
 ### [A single United States Air Force B-52 long-range strategic bomber makes a low-level flight over South Korea, close to the Korean Demilitarized Zone (DMZ), in a show of force following North Korea's fourth nuclear test on January 6, before returning to its base in Guam. ](/news/2016/01/10/a-single-united-states-air-force-b-52-long-range-strategic-bomber-makes-a-low-level-flight-over-south-korea-close-to-the-korean-demilitariz.md)
-_Context: American B-52 strategic bomber, Guam, Korean Demilitarized Zone, North Korea, South Korea, United States Air Force, nuclear test_
+_Context: Air Force, American B-52 strategic bomber, Guam, Korean Demilitarized Zone, North Korea, South Korea, nuclear test_
 
 ### [Poland summons the German ambassador in Warsaw over "anti-Polish" remarks made by German politicians. ](/news/2016/01/10/poland-summons-the-german-ambassador-in-warsaw-over-anti-polish-remarks-made-by-german-politicians.md)
 Poland criticises German politicians for what it calls &quot;anti-Polish&quot; comments but will not say which comments or politicians.

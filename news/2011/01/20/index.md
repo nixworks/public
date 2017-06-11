@@ -16,7 +16,7 @@ Separatist rebels in southern Thailand kill four soldiers in an &quot;unusually 
 Bulgaria explained. Quality reporting and analyses tailored to the needs of foreign business individuals.
 
 ### [Iraq Inquiry documents show former British prime minister Tony Blair was offered an alternative to attacking Iraq during a secret meeting held eight days before its soldiers invaded the country in 2003. ](/news/2011/01/20/iraq-inquiry-documents-show-former-british-prime-minister-tony-blair-was-offered-an-alternative-to-attacking-iraq-during-a-secret-meeting-he.md)
-_Context: 2003 invasion of Iraq, Iraq Inquiry, Iraq War, Tony Blair, prime minister_
+_Context: 2003 invasion of Iraq, Iraq Inquiry, Iraq War, Prime Minister, Tony Blair_
 
 ### [Prejudice against Muslims is declared socially acceptable and Britain is becoming less tolerant according to Sayeeda Warsi, Baroness Warsi, the first female British Muslim cabinet member, in a speech at the University of Leicester. ](/news/2011/01/20/prejudice-against-muslims-is-declared-socially-acceptable-and-britain-is-becoming-less-tolerant-according-to-sayeeda-warsi-baroness-warsi.md)
 British politician says prejudice against Muslims is now socially acceptable and that country is becoming less tolerant.

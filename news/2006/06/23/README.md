@@ -4,7 +4,7 @@
 _Context: Chad, Chadian-Sudanese conflict, Darfur conflict, Human Rights Watch, Janjaweed, Sudan, Sudanese cabinet, UFDC, child soldiers_
 
 ### [ Director of the United States Missile Defense Agency, Air Force Lt. Gen. Henry A. Obering III, stated that he is "very confident" any North Korean missile headed towards the United States would be destroyed mid-flight by interceptor missiles if approved by the President. ](/news/2006/06/23/director-of-the-united-states-missile-defense-agency-air-force-lt-gen-henry-a-obering-iii-stated-that-he-is-very-confident-any-north.md)
-_Context: George W. Bush, Missile Defense Agency, North Korea, United States, United States Air Force_
+_Context: Air Force, George W. Bush, Missile Defense Agency, North Korea, United States_
 
 ### [ U.S. President George W. Bush has issued an executive order stating that he will limit taking of private property by the federal government and that it must "benefit... the general public...and not merely for the purpose of economic interest of private properties..."  ](/news/2006/06/23/u-s-president-george-w-bush-has-issued-an-executive-order-stating-that-he-will-limit-taking-of-private-property-by-the-federal-government.md)
 _Context: George W. Bush, U.S. President, United States, executive order_

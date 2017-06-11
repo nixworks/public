@@ -7,7 +7,7 @@ _Context: Discovery, Florida, Kennedy Space Center, Space Shuttle, lands_
 More than 500 fans of UEFA Cup champions Zenit St Petersburg have been arrested in Moscow as violence broke out at their Russian Premier League match with Spartak Moscow, police reported.
 
 ### [ Bombs kill 12 people in Nangarhar Province, Kabul, and Kandahar, Afghanistan. ](/news/2009/03/15/bombs-kill-12-people-in-nangarhar-province-kabul-and-kandahar-afghanistan.md)
-_Context: Afghanistan, Kabul, Kandahar, Nangarhar Province, bomb_
+_Context: Afghan, Kabul, Kandahar, Nangarhar Province, bomb_
 
 ### [ A bomb kills four people and injures three others in Shibam, Yemen. ](/news/2009/03/15/a-bomb-kills-four-people-and-injures-three-others-in-shibam-yemen.md)
 _Context: Shibam, Yemen, bomb_

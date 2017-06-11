@@ -7,7 +7,7 @@ Forces loyal to renegade Libyan general Haftar claim they have liberated Qanfoud
 More than 4 million barrels of Venezuelan crude and fuels are sitting in tankers anchored in the Caribbean sea, unable to reach their final destination because state-run PDVSA cannot pay for hull cleaning, inspections, and other port services, according to internal documents and Reuters data.
 
 ### [Two to three days of freezing weather and heavy snow kills at least 27 children in Jowzjan Province, Afghanistan. ](/news/2017/01/26/two-to-three-days-of-freezing-weather-and-heavy-snow-kills-at-least-27-children-in-jowzjan-province-afghanistan.md)
-_Context: Afghanistan, Jowzjan Province_
+_Context: Afghan, Jowzjan Province_
 
 ### [At least 14 Indian Army soldiers and four civilians are killed in a series of avalanches near the Line of Control in Jammu and Kashmir. ](/news/2017/01/26/at-least-14-indian-army-soldiers-and-four-civilians-are-killed-in-a-series-of-avalanches-near-the-line-of-control-in-jammu-and-kashmir.md)
 The troops died in two separate incidents near the Line of Control dividing the disputed territory.

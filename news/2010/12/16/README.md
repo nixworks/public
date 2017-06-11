@@ -7,7 +7,7 @@ F-16 jet shoots down apparent engine-powered balloon that flew in forbidden zone
 Images posted on social-network sites show police intervening to halt disturbances ignored by national media.
 
 ### [Fourteen civilians are killed and four others injured when a minibus struck a roadside bomb while traveling to Herat, Afghanistan. ](/news/2010/12/16/fourteen-civilians-are-killed-and-four-others-injured-when-a-minibus-struck-a-roadside-bomb-while-traveling-to-herat-afghanistan.md)
-_Context: Afghanistan, Herat_
+_Context: Afghan, Herat_
 
 ### [A U.S. missile strike kills seven militants in the Spin Drand area of Khyber, Pakistan. ](/news/2010/12/16/a-u-s-missile-strike-kills-seven-militants-in-the-spin-drand-area-of-khyber-pakistan.md)
 A U.S. missile strike killed seven militants Thursday in a Pakistani region close to the Afghan border that has rarely seen such attacks, two Pakistani intelligence officials said.

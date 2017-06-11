@@ -16,7 +16,7 @@ _Context: Europe, NATO, Russia, United States, missile defence_
 _Context: John Howard, Murray-Darling basin, Prime Minister of Australia, irrigation, rain, water_
 
 ### [ An Amnesty International report claims that the attacks on Afghan civilians by the Taliban are widespread and systematic. ](/news/2007/04/19/an-amnesty-international-report-claims-that-the-attacks-on-afghan-civilians-by-the-taliban-are-widespread-and-systematic.md)
-_Context: Afghanistan, Amnesty International, Taliban, civilian_
+_Context: Afghan, Amnesty International, Taliban, civilian_
 
 ### [ Super Junior and two of the group's managers are victims of a car accident. Four of the group's members were injured.](/news/2007/04/19/super-junior-and-two-of-the-group-s-managers-are-victims-of-a-car-accident-four-of-the-group-s-members-were-injured.md)
 _Context: Super Junior, car accident_

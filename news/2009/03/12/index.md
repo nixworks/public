@@ -13,7 +13,7 @@ _Context: National Semiconductor, layoff_
 _Context: Holocaust, Holocaust denial, Pope, Pope Benedict XVI, Richard Williamson, bishop, excommunicate_
 
 ### [ Zimbabwe releases Deputy Agriculture Minister-designate Roy Bennett from government custody. ](/news/2009/03/12/zimbabwe-releases-deputy-agriculture-minister-designate-roy-bennett-from-government-custody.md)
-_Context: Deputy Agriculture Minister-designate, Roy Bennett, Zimbabwe, government_
+_Context: Deputy Agriculture Minister-designate, Politics of Zimbabwe, Roy Bennett, Zimbabwe_
 
 ### [ American businessman Bernard Madoff pleads guilty to 11 charges surrounding his US$65-billion Ponzi scheme. ](/news/2009/03/12/american-businessman-bernard-madoff-pleads-guilty-to-11-charges-surrounding-his-us-65-billion-ponzi-scheme.md)
 _Context: Bernard Madoff, Ponzi scheme, Ponzi scheme, US$, United States_

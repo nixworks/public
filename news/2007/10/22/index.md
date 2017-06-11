@@ -7,7 +7,7 @@ _Context: France, Marrakech, Morocco, Tangiers, high-speed rail_
 _Context: Kurdistan Workers' Party, Turkey, ceasefire_
 
 ### [ The President of the United States George W. Bush asks the United States Congress for $189.3 billion to fund the wars in Iraq and Afghanistan. ](/news/2007/10/22/the-president-of-the-united-states-george-w-bush-asks-the-united-states-congress-for-189-3-billion-to-fund-the-wars-in-iraq-and-afghanist.md)
-_Context: Afghanistan, George W. Bush, Iraq, U.S. Congressional, U.S. President, US$_
+_Context: Afghan, George W. Bush, Iraq, U.S. Congressional, U.S. President, US$_
 
 ### [ Al-Jazeera broadcasts an audiotape purporting to be from Osama bin Laden calling on Al-Qaeda in Iraq and other Sunni militants to unite forces. ](/news/2007/10/22/al-jazeera-broadcasts-an-audiotape-purporting-to-be-from-osama-bin-laden-calling-on-al-qaeda-in-iraq-and-other-sunni-militants-to-unite-for.md)
 _Context: Al Jazeera, Osama bin Laden, Sunni, al-Qaeda in Iraq, audiotape_
@@ -22,7 +22,7 @@ _Context: California wildfires, Southern California, evacuation centers, wildfir
 _Context: Joaquim Chissano, Mozambique, Prize for Achievement in African Leadership, conflict, democratic progress_
 
 ### [ Georgia and Slovakia offer to send troops to support the Australian/Dutch taskforce in the south of the Afghanistan as the Dutch government is under pressure to reduce troops. ](/news/2007/10/22/georgia-and-slovakia-offer-to-send-troops-to-support-the-australian-dutch-taskforce-in-the-south-of-the-afghanistan-as-the-dutch-government.md)
-_Context: Afghanistan, Australia, Georgia, Netherlands, Slovakia's_
+_Context: Afghan, Australia, Georgia, Netherlands, Slovakia's_
 
 ### [ The Pakistan Peoples Party (PPP) demands general elections in Pakistan in two months time.date=December 2007 ](/news/2007/10/22/the-pakistan-peoples-party-ppp-demands-general-elections-in-pakistan-in-two-months-time-date-december-2007.md)
 _Context: Pakistan, Pakistan Peoples Party_

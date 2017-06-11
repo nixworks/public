@@ -1,7 +1,7 @@
 ## [2010-11-1](/news/2010/11/1/index.md)
 
 ### [Two Afghan women charity workers are shot dead. They were travelling between Lashkar Gah and Garmser, a volatile area in the Helmand River valley, when they were attacked. ](/news/2010/11/1/two-afghan-women-charity-workers-are-shot-dead-they-were-travelling-between-lashkar-gah-and-garmser-a-volatile-area-in-the-helmand-river-v.md)
-_Context: Afghanistan, Garmser, Helmand River, Lashkar Gah_
+_Context: Afghan, Garmser, Helmand River, Lashkar Gah_
 
 ### [Battle of Mogadishu (2010):At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/battle-of-mogadishu-2010-pat-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-tr.md)
 _Context: African Union, Al-Shabaab, Battle of Mogadishu (2010), Islamist, Mogadishu, Somalia_

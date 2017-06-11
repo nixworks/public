@@ -16,7 +16,7 @@ _Context: Ukrainians, Verkhovna Rada, forming a government, restarts_
 _Context: Iran, Natanz, United Nations_
 
 ### [ British Prime Minister Tony Blair sets out his Respect agenda. ](/news/2006/01/10/british-prime-minister-tony-blair-sets-out-his-respect-agenda.md)
-_Context: Respect agenda, Tony Blair, prime minister_
+_Context: Prime Minister, Respect agenda, Tony Blair_
 
 ### [ A fifteenth case of H5N1 is reported in Turkey. However, the Turkish government declares that the virus is "under control". ](/news/2006/01/10/a-fifteenth-case-of-h5n1-is-reported-in-turkey-however-the-turkish-government-declares-that-the-virus-is-under-control.md)
 _Context: Turkey, Turkish government, bird flu_

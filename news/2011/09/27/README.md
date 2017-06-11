@@ -16,7 +16,7 @@ _Context: 2011 Syrian uprising, Homs, Rastan, Syrian Army_
 _Context: Abu Sayyaf, Basilan Island, Philippines, Sumisip_
 
 ### [A suicide bomber kills at least two people in the city of Lashkar Gah in Afghanistan's Helmand Province. ](/news/2011/09/27/a-suicide-bomber-kills-at-least-two-people-in-the-city-of-lashkar-gah-in-afghanistan-s-helmand-province.md)
-_Context: Afghanistan, Helmand Province, Lashkar Gah, suicide bomber_
+_Context: Afghan, Helmand Province, Lashkar Gah, suicide bomber_
 
 ### [Visitors to Australia face delays as Australian Customs and Border Protection Service staff go on strike over a pay dispute. ](/news/2011/09/27/visitors-to-australia-face-delays-as-australian-customs-and-border-protection-service-staff-go-on-strike-over-a-pay-dispute.md)
 _Context: Australia, Australian Customs and Border Protection Service_

@@ -40,7 +40,7 @@ Activists march from Habima to Interior Ministry, chant &quot;no children are il
 Voter suppression tactics, including a pattern of harassing phone calls, were a factor in the Liberal party&amp;#8217;s defeat in the last election, says interim leader Bob Rae.
 
 ### [The World Health Organisation removes India from the list of polio endemic countries with only Pakistan, Afghanistan and Nigeria remaining. ](/news/2012/02/25/the-world-health-organisation-removes-india-from-the-list-of-polio-endemic-countries-with-only-pakistan-afghanistan-and-nigeria-remaining.md)
-_Context: Afghanistan, India, Nigeria, Pakistan, World Health Organisation, endemic, polio_
+_Context: Afghan, India, Nigeria, Pakistan, World Health Organisation, endemic, polio_
 
 ## [Previous Day...](/news/2012/02/24/index.md)
 

@@ -1,7 +1,7 @@
 ## [2008-12-12](/news/2008/12/12/index.md)
 
 ### [ Four members of the Royal Marines are killed in two explosions in Afghanistan. ](/news/2008/12/12/four-members-of-the-royal-marines-are-killed-in-two-explosions-in-afghanistan.md)
-_Context: Afghanistan, Royal Marine_
+_Context: Afghan, Royal Marine_
 
 ### [ 2008 Russian financial crisis: Russian Deputy Economics Minister Andrei Klepach claims that Russia may face at least two quarters of economic decline in the future. ](/news/2008/12/12/2008-russian-financial-crisis-russian-deputy-economics-minister-andrei-klepach-claims-that-russia-may-face-at-least-two-quarters-of-econom.md)
 _Context: 2008 Russian financial crisis, Andrei Klepach, Russia_

@@ -4,7 +4,7 @@
 _Context: Bashar al-Assad, George W. Bush administration, Middle East, Nancy Pelosi, President, Syria, United States Speaker of the House of Representatives_
 
 ### [ The 14th annual summit of the South Asian Association for Regional Cooperation (SAARC) begins in New Delhi, India, and Afghanistan becomes its 8th member. ](/news/2007/04/3/the-14th-annual-summit-of-the-south-asian-association-for-regional-cooperation-saarc-begins-in-new-delhi-india-and-afghanistan-becomes.md)
-_Context: Afghanistan, India, New Delhi, South Asian Association for Regional Cooperation_
+_Context: Afghan, India, New Delhi, South Asian Association for Regional Cooperation_
 
 ### [ Colorado State University experts forecast a very active 2007 Atlantic hurricane season with 17 named storms, 9 hurricanes and 5 intense hurricanes. ](/news/2007/04/3/colorado-state-university-experts-forecast-a-very-active-2007-atlantic-hurricane-season-with-17-named-storms-9-hurricanes-and-5-intense-hu.md)
 _Context: 2007 Atlantic hurricane season, Colorado State University, hurricane, tropical storm_

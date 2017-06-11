@@ -4,7 +4,7 @@
 A suspected American strike early Wednesday killed Wali ur-Rehman, the deputy leader, two Pakistani officials said, dealing a potentially serious blow to the insurgency.
 
 ### [Insurgents storm a Red Cross guest house in Jalalabad, Afghanistan. ](/news/2013/05/29/insurgents-storm-a-red-cross-guest-house-in-jalalabad-afghanistan.md)
-_Context: Afghanistan, International Red Cross and Red Crescent Movement, Jalalabad_
+_Context: Afghan, International Red Cross and Red Crescent Movement, Jalalabad_
 
 ### [The veteran Italian actress Franca Rame, also known as the wife and muse of Dario Fo and mother of Jacopo Fo, dies in Milan at the age of 83. Dario Fo dedicated his 1997 Nobel Prize in Literature to her. ](/news/2013/05/29/the-veteran-italian-actress-franca-rame-also-known-as-the-wife-and-muse-of-dario-fo-and-mother-of-jacopo-fo-dies-in-milan-at-the-age-of-83.md)
 _Context: Dario Fo, Franca Rame, Jacopo Fo, Milan, Nobel Prize in Literature_

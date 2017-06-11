@@ -25,7 +25,7 @@ _Context: Tajikistan_
 _Context: Iran, Kurdish_
 
 ### [20 Taliban militants, including two rebel commanders, are killed in fighting with security forces in northeastern Takhar province, Afghanistan. ](/news/2010/10/7/20-taliban-militants-including-two-rebel-commanders-are-killed-in-fighting-with-security-forces-in-northeastern-takhar-province-afghanist.md)
-_Context: Afghanistan, Takhar Province_
+_Context: Afghan, Takhar Province_
 
 ### [An airstrike and a raid by ground troops kills 8 insurgents, including a senior Taliban leader who spearheaded attacks against Afghan security forces. ](/news/2010/10/7/an-airstrike-and-a-raid-by-ground-troops-kills-8-insurgents-including-a-senior-taliban-leader-who-spearheaded-attacks-against-afghan-securi.md)
 _Context: Taliban_

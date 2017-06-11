@@ -4,7 +4,7 @@
 Egyptian soldiers killed 14 militants and arrested ten others in a raid in central Sinai, the military said on Monday.
 
 ### [An Afghan diplomat is shot dead at the Afghan consulate in Karachi, Pakistan. ](/news/2017/02/6/an-afghan-diplomat-is-shot-dead-at-the-afghan-consulate-in-karachi-pakistan.md)
-_Context: Afghanistan, Karachi, Pakistan_
+_Context: Afghan, Karachi, Pakistan_
 
 ### [Queen Elizabeth II marks her 65th anniversary as sovereign, making her the only British monarch to commemorate a Sapphire Jubilee. ](/news/2017/02/6/queen-elizabeth-ii-marks-her-65th-anniversary-as-sovereign-making-her-the-only-british-monarch-to-commemorate-a-sapphire-jubilee.md)
 _Context: Elizabeth II, Sapphire Jubilee_

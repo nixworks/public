@@ -22,7 +22,7 @@ _Context: Turkish police_
 Ahmadinejad, Nasrallah and Assad have dinner together, discuss &quot;threats.&quot;
 
 ### [At least 17 people killed as Taliban suicide bombers carry out a string of attacks in Kabul, Afghanistan ](/news/2010/02/26/at-least-17-people-killed-as-taliban-suicide-bombers-carry-out-a-string-of-attacks-in-kabul-afghanistan.md)
-_Context: Afghanistan, Kabul, Taliban, suicide bomber_
+_Context: Afghan, Kabul, Taliban, suicide bomber_
 
 ### [A suspicious package is discovered at the Israeli Embassy in Dublin. ](/news/2010/02/26/a-suspicious-package-is-discovered-at-the-israeli-embassy-in-dublin.md)
 Restrictions were lifted around the Israeli Embassy in Dublin following the discovery of a suspicious package.

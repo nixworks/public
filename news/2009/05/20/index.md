@@ -16,7 +16,7 @@ An Indonesian military transport plane carrying 110 passengers and crew crashed 
 _Context: Brian Mulroney, Canada, Canadian Prime Minister, German, Karlheinz Schreiber, The Globe and Mail, arms sales, relationship_
 
 ### [ The International Security Assistance Force reports that the Taliban are using white phosphorus in the Afghanistan War. ](/news/2009/05/20/the-international-security-assistance-force-reports-that-the-taliban-are-using-white-phosphorus-in-the-afghanistan-war.md)
-_Context: Afghanistan, International Security Assistance Force, Taliban, War, white phosphorus_
+_Context: Afghan, International Security Assistance Force, Taliban, War, white phosphorus_
 
 ### [ Scottish First Minister Alex Salmond activates Whitelee Wind Farm, Europe's largest onshore wind farm. ](/news/2009/05/20/scottish-first-minister-alex-salmond-activates-whitelee-wind-farm-europe-s-largest-onshore-wind-farm.md)
 _Context: Alex Salmond, Europe, First Minister, Scotland, Whitelee Wind Farm, wind farm_

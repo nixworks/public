@@ -7,7 +7,7 @@ The Pakistani Taliban have claimed responsibility for an attack on a major naval
 At least six people killed as forces loyal to president battle his opponents a day after he backed out of deal to quit.
 
 ### [One Australian Army soldier is killed and five others wounded following two bomb explosions in Afghanistan; the total number of Australian soldiers killed in the Afghan conflict now stands at 24. ](/news/2011/05/23/one-australian-army-soldier-is-killed-and-five-others-wounded-following-two-bomb-explosions-in-afghanistan-the-total-number-of-australian-s.md)
-_Context: Afghanistan, War in Afghanistan (2001-present), soldiers_
+_Context: Afghan, War in Afghanistan (2001-present), soldiers_
 
 ### [The Church of Scotland votes to allow gay men and lesbians to become ministers. ](/news/2011/05/23/the-church-of-scotland-votes-to-allow-gay-men-and-lesbians-to-become-ministers.md)
 _Context: Church of Scotland, gay men, lesbian_

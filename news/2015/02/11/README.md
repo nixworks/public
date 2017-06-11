@@ -31,7 +31,7 @@ A family of three young Muslims has been shot dead in their home in a quiet neig
 A man in his 60s dies after being shot outside a Catholic church in County Fermanagh where a wedding was taking place.
 
 ### [SpaceX launches a weather observation satellite, Deep Space Climate Observatory, at 6:03 p.m. EST from Cape Canaveral, Florida (for the US Air Force/NASA/NOAA), but postpones making of a second attempt to land a Falcon 9 v1.1 rocket on a floating platform called the autonomous spaceport drone ship, following the January 10 failure during the SpaceX CRS-5 mission. SpaceX instead, attempts a "mock" soft-landing into the Atlantic ocean ](/news/2015/02/11/spacex-launches-a-weather-observation-satellite-deep-space-climate-observatory-at-6-03-p-m-est-from-cape-canaveral-florida-for-the-us-a.md)
-_Context: Cape Canaveral Air Force Station, Deep Space Climate Observatory, EST, Falcon 9 v1.1, Florida, NASA, SpaceX, SpaceX CRS-5, U.S.  National Oceanic and Atmospheric Administration, United States Air Force, attempt to land, autonomous drone ship, floating platform_
+_Context: Air Force, Cape Canaveral Air Force Station, Deep Space Climate Observatory, EST, Falcon 9 v1.1, Florida, NASA, SpaceX, SpaceX CRS-5, U.S.  National Oceanic and Atmospheric Administration, attempt to land, autonomous drone ship, floating platform_
 
 ## [Previous Day...](/news/2015/02/10/index.md)
 

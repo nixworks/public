@@ -31,7 +31,7 @@ _Context: Al-Araqeeb, Bedouin, Beer Sheva, Israeli police_
 Laura Dekker, 14, wins a court battle allowing her to try to become the youngest person to sail solo around the world.
 
 ### [David Cameron, the Prime Minister of the United Kingdom, describes the Gaza Strip as a "prison camp" during a visit to Turkey. Israel's ambassador to the UK, Ron Prosor, describes the people of the Gaza strip as "prisoners of the terrorist organization Hamas". ](/news/2010/07/27/david-cameron-the-prime-minister-of-the-united-kingdom-describes-the-gaza-strip-as-a-prison-camp-during-a-visit-to-turkey-israel-s-amba.md)
-_Context: David Cameron, Gaza Strip, Hamas, Israel, Ron Prosor, Turkey, detention camps, prime minister, terrorist_
+_Context: David Cameron, Gaza Strip, Hamas, Israel, Prime Minister, Ron Prosor, Turkey, detention camps, terrorist_
 
 ### [The United States Congress provides funding for a troop increase for the War in Afghanistan. ](/news/2010/07/27/the-united-states-congress-provides-funding-for-a-troop-increase-for-the-war-in-afghanistan.md)
 The Congress on Tuesday gave President Barack Obama long-delayed funding for his troop increase in Afghanistan despite opposition from many fellow Democrats, while Obama played down the gravity of leaked war documents.

@@ -19,7 +19,7 @@ _Context: Bloed, Bodem, Eer en Trouw, Blood & Honour, Dyab Abou Jahjah, Filip De
 _Context: International Monetary Fund, Singapore, Singapore 2006, World Bank Group, annual meeting_
 
 ### [ NATO members fail to respond to a call from military commanders for reinforcements to try to quell the Taliban insurgency in southern Afghanistan, an alliance spokesman said.  ](/news/2006/09/13/nato-members-fail-to-respond-to-a-call-from-military-commanders-for-reinforcements-to-try-to-quell-the-taliban-insurgency-in-southern-afgha.md)
-_Context: Afghanistan, NATO, Taliban insurgency_
+_Context: Afghan, NATO, Taliban insurgency_
 
 ### [ Sectarian violence in Iraq: The bodies of 65 tortured and executed Iraqi men have been found all over the city of Baghdad. ](/news/2006/09/13/sectarian-violence-in-iraq-the-bodies-of-65-tortured-and-executed-iraqi-men-have-been-found-all-over-the-city-of-baghdad.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

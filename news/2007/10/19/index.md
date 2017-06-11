@@ -19,7 +19,7 @@ _Context: Haditha, United States Marine Corps, battalion, court-martial_
 _Context: Java, Mount Kelud, village, volcanic activity_
 
 ### [ Four United States Air Force officers are relieved of command following an investigation of an incident where live nuclear warheads were carried on a B-52 bomber from Minot Air Force Base in North Dakota to Barksdale Air Force Base in Louisiana. ](/news/2007/10/19/four-united-states-air-force-officers-are-relieved-of-command-following-an-investigation-of-an-incident-where-live-nuclear-warheads-were-ca.md)
-_Context: 2007 United States Air Force nuclear weapons incident, B-52, Barksdale Air Force Base, Louisiana, Minot Air Force Base, North Dakota, United States Air Force, bomber_
+_Context: 2007 United States Air Force nuclear weapons incident, Air Force, B-52, Barksdale Air Force Base, Louisiana, Minot Air Force Base, North Dakota, bomber_
 
 ### [ Sam Brownback, Senator for Kansas, pulls out of the United States presidential election, 2008 due to a lack of support and funds. ](/news/2007/10/19/sam-brownback-senator-for-kansas-pulls-out-of-the-united-states-presidential-election-2008-due-to-a-lack-of-support-and-funds.md)
 Republican Sen. Sam Brownback abandoned his 2008 presidential bid Friday, his White House aspirations dashed by a lack of money and a failure to gain traction nationally

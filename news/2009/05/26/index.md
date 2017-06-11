@@ -31,7 +31,7 @@ _Context: Sudan, convoy, killed, people smugglers_
 _Context: Abu Dhabi, France, Nicolas Sarkozy, President of France, UAE, military installations_
 
 ### [ A suicide attack kills six people in Kapisa Province, Afghanistan. ](/news/2009/05/26/a-suicide-attack-kills-six-people-in-kapisa-province-afghanistan.md)
-_Context: Afghanistan, Kapisa province, suicide bombing_
+_Context: Afghan, Kapisa province, suicide bombing_
 
 ### [ The Swedish Navy arrests seven Somali pirates during the attempted hijacking of a Greek ship. ](/news/2009/05/26/the-swedish-navy-arrests-seven-somali-pirates-during-the-attempted-hijacking-of-a-greek-ship.md)
 _Context: Greece, Navy, Somali pirates, Somalia, Sweden, ship_

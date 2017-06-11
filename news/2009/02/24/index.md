@@ -46,7 +46,7 @@ _Context: Barack Obama, Japan, Prime Minister, Taro Aso, U.S. President, United 
 _Context: France, Italian Prime Minister, Italy, Nicolas Sarkozy, President of France, Silvio Berlusconi, nuclear power_
 
 ### [ Teachers in Zimbabwe will end their strike action upon receiving government aid.  ](/news/2009/02/24/teachers-in-zimbabwe-will-end-their-strike-action-upon-receiving-government-aid.md)
-_Context: Zimbabwe, government, strike, teacher_
+_Context: Politics of Zimbabwe, Zimbabwe, strike, teacher_
 
 ## [Previous Day...](/news/2009/02/23/index.md)
 

@@ -19,7 +19,7 @@ _Context: Darfur, Slovenia, Sudan, Tomo Kriznar, espionage_
 _Context: Emomali Rahmonov, India, Tajikistan, state visit_
 
 ### [ About 800 South Korean Christians left Afghanistan after their planned "peace festival" was called off due to concerns that their presence could spark violence. ](/news/2006/08/6/about-800-south-korean-christians-left-afghanistan-after-their-planned-peace-festival-was-called-off-due-to-concerns-that-their-presence.md)
-_Context: Afghanistan, Christian, South Korea_
+_Context: Afghan, Christian, South Korea_
 
 ## [Previous Day...](/news/2006/08/5/index.md)
 

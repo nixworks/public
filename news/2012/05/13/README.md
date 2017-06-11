@@ -7,7 +7,7 @@ Mexican authorities find 49 mutilated bodies dumped on a roadside near Monterrey
 At least four people killed, including a soldier, after clashes between supporters and opponents of the Syrian regime.
 
 ### [Arsala Rahmani, a key peace negotiator for the Afghan government, is shot dead by assassins in Kabul, Afghanistan. ](/news/2012/05/13/arsala-rahmani-a-key-peace-negotiator-for-the-afghan-government-is-shot-dead-by-assassins-in-kabul-afghanistan.md)
-_Context: Afghanistan, Arsala Rahmani, Kabul_
+_Context: Afghan, Arsala Rahmani, Kabul_
 
 ### [Following American drone strikes against suspected militants in southern Yemen, at least 15 other militants are killed in a Yemeni Army offensive. ](/news/2012/05/13/following-american-drone-strikes-against-suspected-militants-in-southern-yemen-at-least-15-other-militants-are-killed-in-a-yemeni-army-offe.md)
 Army opens new offensive against al-Qaeda in the Arab Peninsula, while at least 10 suspected fighters killed in strikes.

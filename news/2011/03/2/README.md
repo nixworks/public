@@ -49,7 +49,7 @@ _Context: 2011 Canterbury earthquake, Christchurch, New Zealand, dust storm_
 _Context: France, John Galliano, Paris, anti-Semitism, fashion designer, prosecutor_
 
 ### [Frankfurt shootingsTwo United States Air Force personnel are killed and two others injured after a gunman opens fire at Frankfurt Airport in Germany - a suspect is arrested in connection with the incident. ](/news/2011/03/2/frankfurt-shootingsptwo-united-states-air-force-personnel-are-killed-and-two-others-injured-after-a-gunman-opens-fire-at-frankfurt-airport-i.md)
-_Context: Frankfurt Airport, German, United States Air Force_
+_Context: Air Force, Frankfurt Airport, German_
 
 ### [The United States military files new charges against Private Bradley Manning in relation to the leak of the WikiLeaks cables. ](/news/2011/03/2/the-united-states-military-files-new-charges-against-private-bradley-manning-in-relation-to-the-leak-of-the-wikileaks-cables.md)
 The US military has brought 22 new charges against the junior soldier accused of leaking hundreds of thousands of sensitive US government documents that were published by WikiLeaks.

@@ -16,7 +16,7 @@ Senior Indian and Pakistani officials pledged Thursday to improve frosty relatio
 _Context: People's Republic of China_
 
 ### [The U.S. Food and Drug Administration (FDA) approves Provenge (sipuleucel-T), the first "vaccine" approved to treat cancer, for men with advanced prostate cancer. ](/news/2010/04/29/the-u-s-food-and-drug-administration-fda-approves-provenge-sipuleucel-t-the-first-vaccine-approved-to-treat-cancer-for-men-with-adv.md)
-_Context: FDA, Provenge, prostate cancer, vaccine_
+_Context: Provenge, U.S. Food and Drug Administration, prostate cancer, vaccine_
 
 ### [Belgium's parliament votes to ban the wearing of burqas and other face coverings in public. ](/news/2010/04/29/belgium-s-parliament-votes-to-ban-the-wearing-of-burqas-and-other-face-coverings-in-public.md)
 Belgium is set to become the first country in Europe to ban the burqa after the country&#039;s parliament voted on Thursday night to prohibit the wearing of the face-covering Islamic veil in public.

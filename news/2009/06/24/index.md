@@ -28,7 +28,7 @@ _Context: Syria, United States_
 _Context: Chechnya, Russia_
 
 ### [ Former detainees allege abuses at Bagram Air Base in Afghanistan. ](/news/2009/06/24/former-detainees-allege-abuses-at-bagram-air-base-in-afghanistan.md)
-_Context: Afghanistan, Bagram Air Base_
+_Context: Afghan, Bagram Air Base_
 
 ### [ More than 60 are killed and 150 are injured after a bombing in Baghdad. ](/news/2009/06/24/more-than-60-are-killed-and-150-are-injured-after-a-bombing-in-baghdad.md)
 _Context: Baghdad, bombing_

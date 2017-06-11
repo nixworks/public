@@ -10,7 +10,7 @@ Critics of the Bush administration say that the focus on the Iraq war has jeopar
 _Context: George W. Bush, U.S. President, United States Senate, stem-cell research, veto_
 
 ### [ The United States extends the tour of duty for troops in Iraq and Afghanistan from a year to 15 months. ](/news/2007/04/11/the-united-states-extends-the-tour-of-duty-for-troops-in-iraq-and-afghanistan-from-a-year-to-15-months.md)
-_Context: Afghanistan, Iraq, United States, tour of duty_
+_Context: Afghan, Iraq, United States, tour of duty_
 
 ### [ Joseph Biden, chair of the United States Senate Foreign Relations Committee and a presidential candidate, calls for the use of military force in Darfur. ](/news/2007/04/11/joseph-biden-chair-of-the-united-states-senate-foreign-relations-committee-and-a-presidential-candidate-calls-for-the-use-of-military-for.md)
 _Context: 2008, Darfur conflict, Joseph Biden, United States Senate Foreign Relations Committee_

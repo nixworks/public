@@ -1,7 +1,7 @@
 ## [2014-09-8](/news/2014/09/8/index.md)
 
 ### [A suicide bomb attack kills the police chief of a district in southern Kandahar Province in Afghanistan. ](/news/2014/09/8/a-suicide-bomb-attack-kills-the-police-chief-of-a-district-in-southern-kandahar-province-in-afghanistan.md)
-_Context: Afghanistan, Kandahar Province, Taliban insurgency, suicide bomb_
+_Context: Afghan, Kandahar Province, Taliban insurgency, suicide bomb_
 
 ### [Pro-Russian rebels release 1,200 prisoners under ceasefire deal. ](/news/2014/09/8/pro-russian-rebels-release-1-200-prisoners-under-ceasefire-deal.md)
 Pro-Russian rebels have released 1,200 people they had taken captive, Ukrainian President Petro Poroshenko says.
@@ -25,7 +25,7 @@ _Context: Arizona, Hurricane Norbert, state of emergency_
 Officials in several states, including Missouri, are reporting cases of respiratory illness sending kids to hospitals.
 
 ### [Speaking in Edinburgh, former Prime Minister of the United Kingdom Gordon Brown sets out a timetable for transferring more powers from Westminster to the Scottish Parliament in the event of a No vote in the forthcoming independence referendum. ](/news/2014/09/8/speaking-in-edinburgh-former-prime-minister-of-the-united-kingdom-gordon-brown-sets-out-a-timetable-for-transferring-more-powers-from-westm.md)
-_Context: British Parliament, Edinburgh, Gordon Brown, Scottish Parliament, independence referendum, prime minister_
+_Context: British Parliament, Edinburgh, Gordon Brown, Prime Minister, Scottish Parliament, independence referendum_
 
 ## [Previous Day...](/news/2014/09/7/index.md)
 

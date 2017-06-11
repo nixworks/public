@@ -19,5 +19,5 @@
 6. [ The Taliban captures Mingora, Swat, Pakistan. ](/news/2009/05/6/the-taliban-captures-mingora-swat-pakistan.md) _Context: Pakistan, Swat, Pakistan, Taliban, War in North-West Pakistan_
 7. [ The Army and the Taliban battle in Mingora, Swat, Pakistan. ](/news/2009/05/23/the-army-and-the-taliban-battle-in-mingora-swat-pakistan.md) _Context: Pakistan, Swat, Pakistan, Taliban, War in North-West Pakistan_
 8. [ The Army raids a Taliban military base in Swat, Pakistan. ](/news/2009/05/12/the-army-raids-a-taliban-military-base-in-swat-pakistan.md) _Context: Pakistan, Swat, Pakistan, Taliban, War in North-West Pakistan_
-9. [ The Taliban's Students' Movement imposes sharia law in Swat, Pakistan. ](/news/2009/04/13/the-taliban-s-students-movement-imposes-sharia-law-in-swat-pakistan.md) _Context: Pakistan, Sharia, Swat, Pakistan, Taliban_
+9. [ The Taliban's Students' Movement imposes sharia law in Swat, Pakistan. ](/news/2009/04/13/the-taliban-s-students-movement-imposes-sharia-law-in-swat-pakistan.md) _Context: Pakistan, Swat, Pakistan, Taliban, sharia law_
 10. [ The Taliban and Pakistan agree to a permanent ceasefire in the war in North-West Frontier Province. ](/news/2009/02/21/the-taliban-and-pakistan-agree-to-a-permanent-ceasefire-in-the-war-in-north-west-frontier-province.md) _Context: Pakistan, Taliban, War in North-West Pakistan, ceasefire_

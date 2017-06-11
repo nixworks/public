@@ -13,7 +13,7 @@ China targeted economic growth of 7.5 percent in 2013 and vowed an unwavering fi
 There are concerns about whether the forces that have driven the market rally — government spending and banner corporate profits — will be sufficient to push it higher.
 
 ### [Venezuela announces its intention to expel a member of the United States embassy working as a US Air Force military attache. The U.S. official is accused of spying on the military and meeting with officials to plan destabilizing the country. ](/news/2013/03/5/venezuela-announces-its-intention-to-expel-a-member-of-the-united-states-embassy-working-as-a-us-air-force-military-attacha-c-the-u-s-offic.md)
-_Context: U.S., United States, United States Air Force, Venezuela, embassy, military attache_
+_Context: Air Force, U.S., United States, Venezuela, embassy, military attache_
 
 ### [The UN Security Council holds a closed-door session to discuss new sanctions against North Korea following reports of an agreement on a draft resolution between the United States and China. North Korea announces plans to nullify the armistice agreement that ended the Korean War. ](/news/2013/03/5/the-un-security-council-holds-a-closed-door-session-to-discuss-new-sanctions-against-north-korea-following-reports-of-an-agreement-on-a-draf.md)
 _Context: 2013, Korean Armistice Agreement, Korean War, North Korea, People's Republic of China, United Nations Security Council, United States_

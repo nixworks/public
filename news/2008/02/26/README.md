@@ -7,7 +7,7 @@ A massive power outage struckparts of Florida on Tuesday, knocking out electrici
 Researchers have sequenced the gene map of corn, also known as maize, a key crop across much of the world and a source of food, oil and products ranging from shoe polish to ethanol.
 
 ### [ A bomb blast in Khost, Afghanistan kills five police officers on their way to work. ](/news/2008/02/26/a-bomb-blast-in-khost-afghanistan-kills-five-police-officers-on-their-way-to-work.md)
-_Context: Afghanistan, Khost_
+_Context: Afghan, Khost_
 
 ### [ A man who dubbed himself "Osama bin London" is found guilty of running terrorist training camps in the United Kingdom. ](/news/2008/02/26/a-man-who-dubbed-himself-osama-bin-london-is-found-guilty-of-running-terrorist-training-camps-in-the-united-kingdom.md)
 A Tanzanian-born Muslim man who dubbed himself &quot;Osama bin London&quot; was found guilty on Tuesday of encouraging his followers to murder non-believers and of running terrorist training camps in Britain.

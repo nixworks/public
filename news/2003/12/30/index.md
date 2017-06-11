@@ -4,7 +4,7 @@
 _Context: Bologna, European Central Bank, European Commission, European Union, Europol, Frankfurt, Romano Prodi, The Hague, parcel bomb_
 
 ### [The U.S. Food and Drug Administration announces a ban on the sale of dietary supplement ephedra, citing "an unreasonable risk of illness or injury" from the use of the drug. [http://www.cnn.com/2003/HEALTH/12/30/ephedra/index.html]](/news/2003/12/30/the-u-s-food-and-drug-administration-announces-a-ban-on-the-sale-of-dietary-supplement-ephedra-citing-an-unreasonable-risk-of-illness-or.md)
-_Context: FDA, dietary supplements, drug, ephedra_
+_Context: U.S. Food and Drug Administration, dietary supplements, drug, ephedra_
 
 ### [U.S. Attorney General John Ashcroft recuses himself and his office from the CIA leak scandal, in which the identity of Valerie Plame, a CIA operative, was leaked by Washington insiders. Democratic political leaders had been calling for Ashcroft's recusal. [http://www.cnn.com/2003/ALLPOLITICS/12/30/ashcroft.cia.leaks.reut/index.html]](/news/2003/12/30/u-s-attorney-general-john-ashcroft-recuses-himself-and-his-office-from-the-cia-leak-scandal-in-which-the-identity-of-valerie-plame-a-cia.md)
 _Context: CIA, Democratic, John Ashcroft, U.S. Attorney General, Valerie Plame, Washington, D.C., recuses_

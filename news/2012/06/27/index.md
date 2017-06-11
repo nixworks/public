@@ -49,7 +49,7 @@ The Queen and former IRA commander Martin McGuinness shake hands for the first t
 The prime minister has called for MPs to support Lords reform, as a Bill to create a mostly elected House of Lords is unveiled.
 
 ### [The U.S. Food and Drug Administration (FDA) approves weight loss drug lorcaserin, the first such drug approved since 1999. ](/news/2012/06/27/the-u-s-food-and-drug-administration-fda-approves-weight-loss-drug-lorcaserin-the-first-such-drug-approved-since-1999.md)
-_Context: FDA, lorcaserin_
+_Context: U.S. Food and Drug Administration, lorcaserin_
 
 ## [Previous Day...](/news/2012/06/26/index.md)
 

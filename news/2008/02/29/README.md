@@ -1,7 +1,7 @@
 ## [2008-02-29](/news/2008/02/29/index.md)
 
 ### [ Northrop Grumman and EADS win a US$35 billion U.S. Air Force contract to build a new refueling plane, the KC-45, shutting out Boeing. ](/news/2008/02/29/northrop-grumman-and-eads-win-a-us-35-billion-u-s-air-force-contract-to-build-a-new-refueling-plane-the-kc-45-shutting-out-boeing.md)
-_Context: Boeing, EADS, KC-45, Northrop Grumman, US$, United States Air Force, aerial refueling tankers_
+_Context: Air Force, Boeing, EADS, KC-45, Northrop Grumman, US$, aerial refueling tankers_
 
 ### [ A White House official resigns after admitting to plagiarism in columns published by the Fort Wayne, Indiana ''News-Sentinel''. ](/news/2008/02/29/a-white-house-official-resigns-after-admitting-to-plagiarism-in-columns-published-by-the-fort-wayne-indiana-news-sentinel.md)
 _Context: Fort Wayne, Indiana, News-Sentinel, White House_
@@ -10,7 +10,7 @@ _Context: Fort Wayne, Indiana, News-Sentinel, White House_
 _Context: United States, United States Department of Agriculture, biggest meat recall_
 
 ### [ The British Ministry of Defence announces that Prince Harry will have to return home from his deployment in Afghanistan as recent publicity made it too dangerous for him to stay there. ](/news/2008/02/29/the-british-ministry-of-defence-announces-that-prince-harry-will-have-to-return-home-from-his-deployment-in-afghanistan-as-recent-publicity.md)
-_Context: Afghanistan, International Security Assistance Force, Ministry of Defence, Prince Harry, United Kingdom_
+_Context: Afghan, International Security Assistance Force, Ministry of Defence, Prince Harry, United Kingdom_
 
 ### [ Turkey has announced a complete withdrawal and end to operations in northern Iraq. ](/news/2008/02/29/turkey-has-announced-a-complete-withdrawal-and-end-to-operations-in-northern-iraq.md)
 _Context: 2008 Turkish incursion into northern Iraq, Iraq, Turkey_

@@ -13,7 +13,7 @@ CNN news anchor Rick Sanchez is dimissed by the network after calling top TV sat
 
 ### Related:
 
-1. [CNN denies authenticity of footage documenting employees manufacturing a protest using unrepresentative Muslim actors. ](/news/2017/06/3/cnn-denies-authenticity-of-footage-documenting-employees-manufacturing-a-protest-using-unrepresentative-muslim-actors.md) _Context: CNN_
+1. [CNN denies authenticity of footage documenting its employees manufacturing a protest using unrepresentative Muslim actors. ](/news/2017/06/3/cnn-denies-authenticity-of-footage-documenting-its-employees-manufacturing-a-protest-using-unrepresentative-muslim-actors.md) _Context: CNN_
 2. [CNN terminates its ''New Year's Eve Live'' contract with Kathy Griffin after she released a photograph of her holding a mock decapitated head of President Donald Trump. ](/news/2017/05/31/cnn-terminates-its-new-year-s-eve-live-contract-with-kathy-griffin-after-she-released-a-photograph-of-her-holding-a-mock-decapitated-hea.md) _Context: CNN_
 3. [An Aerogaviota-operated Antonov An-26 plane crashes in western Artemisa Province, Cuba, killing eight troops on board. ](/news/2017/04/29/an-aerogaviota-operated-antonov-an-26-plane-crashes-in-western-artemisa-province-cuba-killing-eight-troops-on-board.md) _Context: Cuba_
 4. [The former Democratic National Committee chair and ex-CNN contributor Donna Brazile admits that she had forwarded some debate questions to Hillary Clinton's campaign during last year's Democratic primary before two debates with Bernie Sanders. ](/news/2017/03/17/the-former-democratic-national-committee-chair-and-ex-cnn-contributor-donna-brazile-admits-that-she-had-forwarded-some-debate-questions-to-h.md) _Context: CNN_

@@ -10,7 +10,7 @@ At least three persons were killed and 15 others injured today when a blast hit 
 _Context: Arsal, Lebanon, Syrian Civil War spillover in Lebanon_
 
 ### [Taliban insurgency in Afghanistan:Twenty-one people are killed in a suicide bombing attack on a Kabul restaurant. ](/news/2014/01/17/taliban-insurgency-in-afghanistan-ptwenty-one-people-are-killed-in-a-suicide-bombing-attack-on-a-kabul-restaurant.md)
-_Context: Afghanistan, Kabul, Taliban insurgency, suicide bombing_
+_Context: Afghan, Kabul, Taliban insurgency, suicide bombing_
 
 ### [Post-coup unrest in Egypt:Two people were shot dead as clashes between Muslim Brotherhood supporters and police flared up across Egypt. ](/news/2014/01/17/post-coup-unrest-in-egypt-ptwo-people-were-shot-dead-as-clashes-between-muslim-brotherhood-supporters-and-police-flared-up-across-egypt.md)
 At least four people were killed as clashes between Muslim Brotherhood supporters and police flared up across Egypt on Friday, security sources said.

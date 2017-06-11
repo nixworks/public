@@ -13,7 +13,7 @@ _Context: Al Jazeera, Libya, Libyan Civil War, Misrata, Muammar Gaddafi_
 _Context: anti-government protests_
 
 ### [NATO forces kill 9 Afghan children while they collected firewood; this is the third NATO attack on civilians in the last 2 weeks.](/news/2011/03/1/nato-forces-kill-9-afghan-children-while-they-collected-firewood-this-is-the-third-nato-attack-on-civilians-in-the-last-2-weeks.md)
-_Context: Afghanistan, NATO_
+_Context: Afghan, NATO_
 
 ### [Road workers in Taizhou, Jiangsu, China discover remains of 700 yr-old mummy. ](/news/2011/03/1/road-workers-in-taizhou-jiangsu-china-discover-remains-of-700-yr-old-mummy.md)
 _Context: Taizhou, Jiangsu_

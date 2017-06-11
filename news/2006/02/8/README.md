@@ -16,7 +16,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Brazil, Guaran, Rio de Janeiro, Sepe Tiaraju_
 
 ### [ Jyllands-Posten Muhammad cartoons controversy: in Afghanistan, four people are killed and eleven others are wounded by police firing on hundreds of protesters attempting to storm US military base. ](/news/2006/02/8/jyllands-posten-muhammad-cartoons-controversy-in-afghanistan-four-people-are-killed-and-eleven-others-are-wounded-by-police-firing-on-hun.md)
-_Context: Afghanistan, Jyllands-Posten Muhammad cartoons controversy_
+_Context: Afghan, Jyllands-Posten Muhammad cartoons controversy_
 
 ## [Previous Day...](/news/2006/02/7/index.md)
 

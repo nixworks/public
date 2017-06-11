@@ -16,7 +16,7 @@ _Context: People's Bank of China_
  South Korea was on alert Tuesday as powerful Typhoon Goni approached after causing casualties and property damage in Southeast Asia, weather officials said.
 
 ### [A gas explosion in the Afghanistan city of Herat kills eleven people and injures 18 others. ](/news/2015/08/25/a-gas-explosion-in-the-afghanistan-city-of-herat-kills-eleven-people-and-injures-18-others.md)
-_Context: Afghanistan, Herat_
+_Context: Afghan, Herat_
 
 ### [A record number of migrants crossing the Balkans results in a record number of people in Hungary despite the government building a wall on the border with Serbia. ](/news/2015/08/25/a-record-number-of-migrants-crossing-the-balkans-results-in-a-record-number-of-people-in-hungary-despite-the-government-building-a-wall-on-t.md)
 BUDAPEST, Hungary &amp;#8212; The latest surge of migrants crossing the Balkans has brought a record number to Hungary despite government efforts to quickly build a 4-meter (13-foot) high fence on the

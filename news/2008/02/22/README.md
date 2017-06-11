@@ -19,7 +19,7 @@ _Context: His Majesty's Government, Northern Rock, nationalizes_
 _Context: Kosovo, Serbia, United States_
 
 ### [ A United States Air Force B-2 Spirit stealth bomber crashes at Anderson Air Force Base on Guam. The two pilots ejected, with one hospitalized. It is the first B-2 to crash. ](/news/2008/02/22/a-united-states-air-force-b-2-spirit-stealth-bomber-crashes-at-anderson-air-force-base-on-guam-the-two-pilots-ejected-with-one-hospitaliz.md)
-_Context: Anderson Air Force Base, B-2 Spirit, Guam, United States, United States Air Force, bomber, ejected, stealthy planes_
+_Context: Air Force, Anderson Air Force Base, B-2 Spirit, Guam, United States, bomber, ejected, stealthy planes_
 
 ## [Previous Day...](/news/2008/02/21/index.md)
 

@@ -19,7 +19,7 @@ _Context: Shanghai Composite Index, Shanghai Stock Exchange_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Advisers to the Food and Drug Administration recommend that the agency approve a Sanofi-Aventis SA bird flu vaccine. ](/news/2007/02/27/advisers-to-the-food-and-drug-administration-recommend-that-the-agency-approve-a-sanofi-aventis-sa-bird-flu-vaccine.md)
-_Context: FDA, Sanofi-Aventis, bird flu, vaccine_
+_Context: Sanofi-Aventis, U.S. Food and Drug Administration, bird flu, vaccine_
 
 ### [ Israel Defence Forces withdraw from the West Bank town of Nablus, three days after a raid to arrest suspected militants. ](/news/2007/02/27/israel-defence-forces-withdraw-from-the-west-bank-town-of-nablus-three-days-after-a-raid-to-arrest-suspected-militants.md)
 _Context: Israel Defence Forces, Nablus, West Bank_

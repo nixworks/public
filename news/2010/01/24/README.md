@@ -22,7 +22,7 @@ _Context: RCTV, Venezuela, cable set-top boxes, government_
 _Context: Detroit, Northwest Airlines Flight 253, Osama bin Laden, USA_
 
 ### [Afghanistan postpones its upcoming parliamentary elections to 18 September due to lack of funds and security concerns. ](/news/2010/01/24/afghanistan-postpones-its-upcoming-parliamentary-elections-to-18-september-due-to-lack-of-funds-and-security-concerns.md)
-_Context: Afghanistan, parliamentary election_
+_Context: Afghan, parliamentary election_
 
 ### [North Korea says any attempt by South Korea to launch pre-emptive strikes against its nuclear facilities will be considered a declaration of war. ](/news/2010/01/24/north-korea-says-any-attempt-by-south-korea-to-launch-pre-emptive-strikes-against-its-nuclear-facilities-will-be-considered-a-declaration-of.md)
 _Context: North Korea, North Korea and weapons of mass destruction, South Korea, declaration of war, pre-emptive strike_

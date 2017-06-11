@@ -10,7 +10,7 @@ Paul Wolfowitz resigned as president of the World Bank on Thursday, ending a pro
 _Context: Alberto Gonzales, Attorney General, D, United States Senate, vote of no confidence_
 
 ### [ Gordon Brown is confirmed as the next leader of the British Labour Party, taking effect on 24 June. Brown will succeed Tony Blair as Prime Minister of the United Kingdom when he kisses the hand of Queen Elizabeth II on 27 June. ](/news/2007/05/17/gordon-brown-is-confirmed-as-the-next-leader-of-the-british-labour-party-taking-effect-on-24-june-brown-will-succeed-tony-blair-as-prime.md)
-_Context: 24 June, 27 June, Elizabeth II, Gordon Brown, Labour, Tony Blair, confirmed, kisses the hand, prime minister_
+_Context: 24 June, 27 June, Elizabeth II, Gordon Brown, Labour, Prime Minister, Tony Blair, confirmed, kisses the hand_
 
 ### [ 2007 Israel-Gaza conflict: An Israeli aircraft bombs a building of the Hamas-run Executive Force in Gaza, killing at least one person and injuring about 45 others. ](/news/2007/05/17/2007-israel-gaza-conflict-an-israeli-aircraft-bombs-a-building-of-the-hamas-run-executive-force-in-gaza-killing-at-least-one-person-and-i.md)
 _Context: 2007 Israel-Gaza conflict, Gaza Strip, Hamas, Israel_

@@ -1,7 +1,7 @@
 ## [2002-07-2](/news/2002/07/2/index.md)
 
 ### [ Nicotine water is ruled illegal by the Food and Drug Administration.](/news/2002/07/2/nicotine-water-is-ruled-illegal-by-the-food-and-drug-administration.md)
-_Context: FDA, Nicotine water_
+_Context: Nicotine water, U.S. Food and Drug Administration_
 
 ### [ Entertainment&nbsp;- ''Yahoo! Internet Life'' magazine folds.](/news/2002/07/2/entertainment-nbsp-a-yahoo-internet-life-magazine-folds.md)
 _Context: Entertainment, Yahoo! Internet Life_

@@ -10,7 +10,7 @@ _Context: Mozambique, general election_
 _Context: Pakistan, Peshawar, blast_
 
 ### [ 12 people &ndash; including six United Nations staff &ndash; are killed after Taliban militants assault an international guesthouse in the Afghan capital Kabul. ](/news/2009/10/28/12-people-ndash-including-six-united-nations-staff-ndash-are-killed-after-taliban-militants-assault-an-international-guesthouse-in-the.md)
-_Context: Afghanistan, Kabul, Taliban, United Nations, assault an international guesthouse_
+_Context: Afghan, Kabul, Taliban, United Nations, assault an international guesthouse_
 
 ### [ One of Germany's last Nazi war crimes trials begins, with Heinrich Boere charged with the killings of three civilians in the Netherlands. ](/news/2009/10/28/one-of-germany-s-last-nazi-war-crimes-trials-begins-with-heinrich-boere-charged-with-the-killings-of-three-civilians-in-the-netherlands.md)
 _Context: German, Heinrich Boere, Nazi, Netherlands_

@@ -1,7 +1,7 @@
 ## [2017-03-31](/news/2017/03/31/index.md)
 
 ### [A bomb targets a mosque in the city of Parachinar near the border with Afghanistan killing at least 22 people and wounding dozens more. ](/news/2017/03/31/a-bomb-targets-a-mosque-in-the-city-of-parachinar-near-the-border-with-afghanistan-killing-at-least-22-people-and-wounding-dozens-more.md)
-_Context: Afghanistan, Parachinar, War in North-West Pakistan, mosque_
+_Context: Afghan, Parachinar, War in North-West Pakistan, mosque_
 
 ### [Authorities find a woman's body near the town of Murwillumbah, New South Wales, bringing the number of confirmed storm fatalities to at least two people. There are fears that more people could be missing in the Northern Rivers region of New South Wales. ](/news/2017/03/31/authorities-find-a-woman-s-body-near-the-town-of-murwillumbah-new-south-wales-bringing-the-number-of-confirmed-storm-fatalities-to-at-leas.md)
 _Context: Cyclone Debbie, Murwillumbah, New South Wales, New South Wales, Northern Rivers_

@@ -4,13 +4,13 @@
 At least five policemen have been killed and two injured after a &ldquo;Black Widow&rdquo; suicide bomber detonated explosives outside a police checkpoint in the troubled Russian region of Dagestan.
 
 ### [Six British Army soldiers are missing presumed killed in Afghanistan. ](/news/2012/03/7/six-british-army-soldiers-are-missing-presumed-killed-in-afghanistan.md)
-_Context: Afghanistan, British Army_
+_Context: Afghan, British Army_
 
 ### [Valerie Amos, the United Nations Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, visits the Baba Amr district in the Syrian city of Homs. ](/news/2012/03/7/valerie-amos-the-united-nations-under-secretary-general-for-humanitarian-affairs-and-emergency-relief-coordinator-visits-the-baba-amr-dist.md)
 _Context: Homs, Syria, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, United Nations, Valerie Amos_
 
 ### [The death toll from a series of avalanches in Afghanistan's Badakhshan province rises to 50. ](/news/2012/03/7/the-death-toll-from-a-series-of-avalanches-in-afghanistan-s-badakhshan-province-rises-to-50.md)
-_Context: Afghanistan, Badakhshan, series of avalanches_
+_Context: Afghan, Badakhshan, series of avalanches_
 
 ### [The Australian town of Yenda, New South Wales, is flooded as floodwaters move through the Murray-Darling Basin. ](/news/2012/03/7/the-australian-town-of-yenda-new-south-wales-is-flooded-as-floodwaters-move-through-the-murrayadarling-basin.md)
 _Context: Australia, Murray-Darling basin, Yenda, New South Wales_

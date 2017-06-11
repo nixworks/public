@@ -1,7 +1,7 @@
 ## [2012-02-27](/news/2012/02/27/index.md)
 
 ### [2012 Afghanistan Quran burning protests: A suicide car bomber explodes at Jalalabad Airport in Afghanistan, killing nine. ](/news/2012/02/27/2012-afghanistan-quran-burning-protests-a-suicide-car-bomber-explodes-at-jalalabad-airport-in-afghanistan-killing-nine.md)
-_Context: Afghanistan, Jalalabad Airport, protests_
+_Context: Afghan, Jalalabad Airport, protests_
 
 ### [An alleged plot to assassinate Vladimir Putin after this year's Russian presidential election is foiled by Ukrainian and Russian intelligence services. ](/news/2012/02/27/an-alleged-plot-to-assassinate-vladimir-putin-after-this-year-s-russian-presidential-election-is-foiled-by-ukrainian-and-russian-intelligenc.md)
 Critics questioned the timing of a revelation by Russian state media on Monday of the alleged assassination plot.

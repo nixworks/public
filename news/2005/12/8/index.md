@@ -16,7 +16,7 @@ A bomber jumped on a bus after security checks had been completed detonated an e
 _Context: Ante Gotovina, Croatia, International Criminal Tribunal for the former Yugoslavia, Spain, Tenerife, The Hague, Yugoslav Wars, war crime_
 
 ### [ Former Prime Minister of the United Kingdom Margaret Thatcher has left hospital after being given a clean bill of health by doctors after feeling faint yesterday. ](/news/2005/12/8/former-prime-minister-of-the-united-kingdom-margaret-thatcher-has-left-hospital-after-being-given-a-clean-bill-of-health-by-doctors-after-f.md)
-_Context: Margaret Thatcher, prime minister_
+_Context: Margaret Thatcher, Prime Minister_
 
 ### [ The International Red Cross and Red Crescent Movement adopt a Red Crystal design, allowing Israel to join as a fully participating member. ](/news/2005/12/8/the-international-red-cross-and-red-crescent-movement-adopt-a-red-crystal-design-allowing-israel-to-join-as-a-fully-participating-member.md)
 _Context: International Red Cross and Red Crescent Movement, Israel, Red Crystal_

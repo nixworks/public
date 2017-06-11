@@ -11,7 +11,7 @@ A roadside bomb hit a Pakistani security vehicle and wounded 13 people on Thursd
 
 ### Related:
 
-1. [Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan were killed by members of the Islamic State of Iraq and the Levant. ](/news/2017/06/9/chinese-authorities-report-grave-concern-over-reports-that-two-kidnapped-chinese-teachers-in-quetta-pakistan-were-killed-by-members-of-th.md) _Context: Pakistan, Quetta_
+1. [Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan, were killed by members of the Islamic State of Iraq and the Levant. ](/news/2017/06/9/chinese-authorities-report-grave-concern-over-reports-that-two-kidnapped-chinese-teachers-in-quetta-pakistan-were-killed-by-members-of-t.md) _Context: Pakistan, Quetta_
 2. [  At least four are killed in an attack in Quetta, Pakistan. Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/11/19/at-least-four-are-killed-in-an-attack-in-quetta-pakistan-islamic-state-of-iraq-and-the-levant-claims-responsibility.md) _Context: Pakistan, Quetta_
 3. [At least 70 people are killed and about 120 others injured in a suicide bombing  at a hospital in Quetta, Pakistan. ](/news/2016/08/8/at-least-70-people-are-killed-and-about-120-others-injured-in-a-suicide-bombing-at-a-hospital-in-quetta-pakistan.md) _Context: Pakistan, Quetta_
 4. [Ten people  are killed and more than 40 injured when a suicide bomber on a bicycle blew himself up near a Pakistani security forces truck in Quetta, Pakistan. ](/news/2016/02/6/ten-people-are-killed-and-more-than-40-injured-when-a-suicide-bomber-on-a-bicycle-blew-himself-up-near-a-pakistani-security-forces-truck-in.md) _Context: Pakistan, Quetta_

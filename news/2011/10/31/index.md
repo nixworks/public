@@ -1,7 +1,7 @@
 ## [2011-10-31](/news/2011/10/31/index.md)
 
 ### [Three people are killed in attacks on the offices of the International Relief and Development (IRD) in the Afghan city of Kandahar. ](/news/2011/10/31/three-people-are-killed-in-attacks-on-the-offices-of-the-international-relief-and-development-ird-in-the-afghan-city-of-kandahar.md)
-_Context: Afghanistan, Kandahar_
+_Context: Afghan, Kandahar_
 
 ### [Australian airline Qantas resumes flights after a ruling by Fair Work Australia. ](/news/2011/10/31/australian-airline-qantas-resumes-flights-after-a-ruling-by-fair-work-australia.md)
 _Context: Australia, Fair Work Australia, Qantas_

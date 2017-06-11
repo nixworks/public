@@ -28,7 +28,7 @@ _Context: 2006 Israel-Lebanon crisis, Israel, Lebanon, UN Security Council, civi
 _Context: John Howard, Liberal Party, Prime Minister of Australia_
 
 ### [ NATO takes over command of operations in southern Afghanistan in Kandahar from a US-led coalition. ](/news/2006/07/31/nato-takes-over-command-of-operations-in-southern-afghanistan-in-kandahar-from-a-us-led-coalition.md)
-_Context: Afghanistan, Kandahar, NATO_
+_Context: Afghan, Kandahar, NATO_
 
 ## [Previous Day...](/news/2006/07/30/index.md)
 

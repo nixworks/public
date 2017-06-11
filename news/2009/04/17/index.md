@@ -13,7 +13,7 @@ Police in Bangladesh have arrested 31 men suspected of plotting a terrorist atta
 After fruitful bilateral negotiations the European Liberal and Democrat party welcomes today Fianna Fàil as a new ELDR member party. Fianna Fail Secretary General Sean Dorgan was warmly welcomed in Brussels today to finalize the application procedure of his party with the ELDR Council, the highest decision-making body of the ELDR Party in matters of membership.
 
 ### [ Two earthquakes kill 22 people in Nangarhar Province, Afghanistan. ](/news/2009/04/17/two-earthquakes-kill-22-people-in-nangarhar-province-afghanistan.md)
-_Context: Afghanistan, Nangarhar Province, earthquake_
+_Context: Afghan, Nangarhar Province, earthquake_
 
 ### [ Peter Sunde, Fredrik Neij, Gottfrid Svartholm, and Carl Lundstrom of The Pirate Bay are found guilty of copyright infringement and imprisoned until 2010. ](/news/2009/04/17/peter-sunde-fredrik-neij-gottfrid-svartholm-and-carl-lundstrapm-of-the-pirate-bay-are-found-guilty-of-copyright-infringement-and-impriso.md)
 The Swedish owners of the illegal file&#45;sharing website The Pirate Bay defiantly vowed to keep it open for business last night despite facing a year in jail for allowing millions - New Zealand Herald

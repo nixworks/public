@@ -13,7 +13,7 @@ Darmstadt, Germany, police are seeking suspects after 26 women filed sexual assa
 
 ### Related:
 
-1. [Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan were killed by members of the Islamic State of Iraq and the Levant. ](/news/2017/06/9/chinese-authorities-report-grave-concern-over-reports-that-two-kidnapped-chinese-teachers-in-quetta-pakistan-were-killed-by-members-of-th.md) _Context: Pakistan_
+1. [Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan, were killed by members of the Islamic State of Iraq and the Levant. ](/news/2017/06/9/chinese-authorities-report-grave-concern-over-reports-that-two-kidnapped-chinese-teachers-in-quetta-pakistan-were-killed-by-members-of-t.md) _Context: Pakistan_
 2. [Around 50,000 people are evacuated from the German city of Hanover while bomb disposal experts defuse three bombs dropped by the Royal Air Force during World War II. ](/news/2017/05/7/around-50-000-people-are-evacuated-from-the-german-city-of-hanover-while-bomb-disposal-experts-defuse-three-bombs-dropped-by-the-royal-air-f.md) _Context: German_
 3. [A suicide bombing occurs in Kabul near the German embassy with at least 90 killed and 461 injured. ](/news/2017/05/31/a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-at-least-90-killed-and-461-injured.md) _Context: German_
 4. [Gunmen open fire on construction workers at Gwadar Port, Pakistan, killing at least 10 people. The Balochistan Liberation Army claimed responsibility for the attack. ](/news/2017/05/13/gunmen-open-fire-on-construction-workers-at-gwadar-port-pakistan-killing-at-least-10-people-the-balochistan-liberation-army-claimed-respo.md) _Context: Pakistan_

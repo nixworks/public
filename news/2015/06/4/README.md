@@ -25,7 +25,7 @@ _Context: Austin, Texas, Houston Methodist Hospital, Jesse Selber, Jim Boysten, 
 _Context: 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea, Middle Eastern Respiratory Syndrome, South Korea_
 
 ### [ Panel of advisors to the US Food and Drug Administration (FDA) recommends approval of flibanserin by 18-6 to improve a woman's libido. ](/news/2015/06/4/panel-of-advisors-to-the-us-food-and-drug-administration-fda-recommends-approval-of-flibanserin-by-18a6-to-improve-a-woman-s-libido.md)
-_Context: FDA, Flibanserin_
+_Context: Flibanserin, U.S. Food and Drug Administration_
 
 ### [Associated Press reports that there has been a massive hack from the American Office of Personnel Management and US Department of the Interior with the ''Washington Post'' claiming that Chinese hackers were responsible. The records of at least four million US Government workers are believed to have been compromised. ](/news/2015/06/4/associated-press-reports-that-there-has-been-a-massive-hack-from-the-american-office-of-personnel-management-and-us-department-of-the-interi.md)
 Up to four million US government personnel records compromised by an alleged China-based cyber attack, in fresh embarrassment for Obama administration

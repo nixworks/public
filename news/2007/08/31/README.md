@@ -1,7 +1,7 @@
 ## [2007-08-31](/news/2007/08/31/index.md)
 
 ### [ The British Royal Family, including Prince Charles, Prince Harry and Prince William, and Her Majesty the Queen Elizabeth, along with Prime Minister Gordon Brown and former Prime Minister Tony Blair, and hundreds more, gather for a memorial service for Diana, Princess of Wales, ten years after her death, at Guard's Chapel in London. ](/news/2007/08/31/the-british-royal-family-including-prince-charles-prince-harry-and-prince-william-and-her-majesty-the-queen-elizabeth-along-with-prime.md)
-_Context: British Royal Family, Death of Diana, Princess of Wales, Elizabeth II, Gordon Brown, London, Prince Charles, Prince Harry, Prince William, Tony Blair, grandmother, prime minister_
+_Context: British Royal Family, Death of Diana, Princess of Wales, Elizabeth II, Gordon Brown, London, Prime Minister, Prince Charles, Prince Harry, Prince William, Tony Blair, grandmother_
 
 ### [ The President of French Polynesia Gaston Tong Sang loses a vote of no-confidence and is forced to resign. ](/news/2007/08/31/the-president-of-french-polynesia-gaston-tong-sang-loses-a-vote-of-no-confidence-and-is-forced-to-resign.md)
 _Context: Gaston Tong Sang, President, vote of no confidence_
@@ -79,7 +79,7 @@ _Context: 2007 Greek forest fires, Algeria, Croatia, Greece, Les Useres, Spain, 
 _Context: Bendigo, Colbinabbin, Jacinta Allan, John Brumby, Premier, Victoria_
 
 ### [  At least two people are killed and ten others injured by a suicide bomb at the Kabul International Airport in Afghanistan. ](/news/2007/08/31/at-least-two-people-are-killed-and-ten-others-injured-by-a-suicide-bomb-at-the-kabul-international-airport-in-afghanistan.md)
-_Context: Afghanistan, Kabul International Airport, War in Afghanistan, suicide bomb_
+_Context: Afghan, Kabul International Airport, War in Afghanistan, suicide bomb_
 
 ### [ Malaysia celebrates 50 years of independence.](/news/2007/08/31/malaysia-celebrates-50-years-of-independence.md)
 _Context: Malaysia_

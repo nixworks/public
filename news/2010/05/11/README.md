@@ -1,7 +1,7 @@
 ## [2010-05-11](/news/2010/05/11/index.md)
 
 ### [The Conservative Party's David Cameron kisses the hands of Queen Elizabeth II to become Prime Minister of the United Kingdom after Gordon Brown resigns as Prime Minister and as Leader of the British Labour Party. ](/news/2010/05/11/the-conservative-party-s-david-cameron-kisses-the-hands-of-queen-elizabeth-ii-to-become-prime-minister-of-the-united-kingdom-after-gordon-br.md)
-_Context: Conservative Party, David Cameron, Gordon Brown, Labour, Queen Elizabeth II, kisses the hands, prime minister_
+_Context: Conservative Party, David Cameron, Gordon Brown, Labour, Prime Minister, Queen Elizabeth II, kisses the hands_
 
 ### [The son of Corazon Aquino, Benigno Aquino III, appears set to win the presidency in the Philippine elections, which have been marred by deadly violence and malfunctioning voting machines.  ](/news/2010/05/11/the-son-of-corazon-aquino-benigno-aquino-iii-appears-set-to-win-the-presidency-in-the-philippine-elections-which-have-been-marred-by-dead.md)
 _Context: Corazon Aquino, Noynoy Aquino, Philippine general election, 2010, President of the Philippines_
@@ -37,7 +37,7 @@ _Context: 2010 FIFA World Cup, Sipho Nkumane, South Africa national football tea
 _Context: AIDS, Chinese, Chinese human rights, dissident_
 
 ### [Pakistan's ambassador to Iran, Mohammad Bakhsh Abbasi, is hospitalised after becoming injured in an attack by an Afghan on his car in Tehran. ](/news/2010/05/11/pakistan-s-ambassador-to-iran-mohammad-bakhsh-abbasi-is-hospitalised-after-becoming-injured-in-an-attack-by-an-afghan-on-his-car-in-tehran.md)
-_Context: Afghanistan, Iran, Mohammad Bakhsh Abbasi, Pakistan, Tehran_
+_Context: Afghan, Iran, Mohammad Bakhsh Abbasi, Pakistan, Tehran_
 
 ### [A nearly $1 trillion rescue package to prevent the Greek sovereign debt crisis spreading in Europe will impact various facets of the Chinese economy. ](/news/2010/05/11/a-nearly-1-trillion-rescue-package-to-prevent-the-greek-sovereign-debt-crisis-spreading-in-europe-will-impact-various-facets-of-the-chinese.md)
 _Context: Economy of the People's Republic of China, Greek economic crisis, economically troubled euro-zone nations_

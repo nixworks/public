@@ -31,7 +31,7 @@ _Context: Bradley Manning, The Washington Post, whistleblower_
 _Context: Japan, MV Guanabara, Somali pirates, U.S. Navy, USS ''Bulkeley'', commando, destroyer, oil tanker_
 
 ### [Hamid Karzai, the President of Afghanistan, warns General David Petraeus the head of United States and NATO forces in Afghanistan that civilian casualties in the Afghanistan war and rejects an apology for the mistaken killings of nine boys in a NATO air attack. ](/news/2011/03/6/hamid-karzai-the-president-of-afghanistan-warns-general-david-petraeus-the-head-of-united-states-and-nato-forces-in-afghanistan-that-civil.md)
-_Context: Afghanistan, Afghanistan President, David Petraeus, General, Hamid Karzai, NATO, United States military, War in Afghanistan (2001-present)_
+_Context: Afghan, Afghanistan President, David Petraeus, General, Hamid Karzai, NATO, United States military, War in Afghanistan (2001-present)_
 
 ### [The Brazilian Carnival has its peak main carnival processions in Rio de Janeiro. ](/news/2011/03/6/the-brazilian-carnival-has-its-peak-main-carnival-processions-in-rio-de-janeiro.md)
 The onset of Carnival sends many Brazilians scrambling to buy tickets to legendary parades or costumes for street parties -- but millions of others want to run for the hills to escape the Bacchanalian revelry.

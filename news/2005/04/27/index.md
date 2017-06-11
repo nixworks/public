@@ -46,7 +46,7 @@ _Context: Movement for Democratic Change, Robert Mugabe, Zimbabwe, food aid, mai
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ### [ Cherif Bassiouni, former United Nations human rights envoy to Afghanistan, says he lost his job due to US pressure. ](/news/2005/04/27/cherif-bassiouni-former-united-nations-human-rights-envoy-to-afghanistan-says-he-lost-his-job-due-to-us-pressure.md)
-_Context: Afghanistan, Cherif Bassiouni, Human rights, United Nations, United States of America_
+_Context: Afghan, Cherif Bassiouni, Human rights, United Nations, United States of America_
 
 ### [ John Gudenus of the Austrian Freedom Party causes controversy when he questions the existence of Nazi gas chambers and later leaves the party. ](/news/2005/04/27/john-gudenus-of-the-austrian-freedom-party-causes-controversy-when-he-questions-the-existence-of-nazi-gas-chambers-and-later-leaves-the-par.md)
 _Context: Austria, Freedom Party of Austria, John Gudenus, Nazism_

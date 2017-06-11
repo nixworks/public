@@ -16,7 +16,7 @@ _Context: Burma, Chechnya, Cuba, Freedom House, Human rights, Libya, NGO, North 
 _Context: Iraq, Iraq War, Saddam Hussein, United States Senate, al-Qaeda_
 
 ### [ Missing United States Air Force officer Major Jill Metzger who disappeared in Bishkek, Kyrgyzstan earlier this week is found in good health. Metzger says she was kidnapped by three men and a woman. ](/news/2006/09/8/missing-united-states-air-force-officer-major-jill-metzger-who-disappeared-in-bishkek-kyrgyzstan-earlier-this-week-is-found-in-good-health.md)
-_Context: Bishkek, Jill Metzger, Kyrgyzstan, United States Air Force_
+_Context: Air Force, Bishkek, Jill Metzger, Kyrgyzstan_
 
 ### [ Shuji Nakamura is awarded the 2nd Millennium Technology Prize for his work on blue and white LEDs. The first recipient of the award was Tim Berners-Lee, developer of the World Wide Web. ](/news/2006/09/8/shuji-nakamura-is-awarded-the-2nd-millennium-technology-prize-for-his-work-on-blue-and-white-leds-the-first-recipient-of-the-award-was-tim.md)
 _Context: LED, Millennium Technology Prize, Shuji Nakamura, Sir Timothy John Berners-Lee, World Wide Web_

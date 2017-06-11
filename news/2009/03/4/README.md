@@ -7,7 +7,7 @@ _Context: Cargill, Hugo Chvez, United States, Venezuela, Venezuelan President, f
 _Context: Juarez, Mexican, prison, riot_
 
 ### [ Gordon Brown becomes the United Kingdom's fifth Prime Minister to address a joint session of the U.S. Congress. ](/news/2009/03/4/gordon-brown-becomes-the-united-kingdom-s-fifth-prime-minister-to-address-a-joint-session-of-the-u-s-congress.md)
-_Context: Gordon Brown, U.S. Congressional, United Kingdom, United States, joint session of Congress, prime minister_
+_Context: Gordon Brown, Prime Minister, U.S. Congressional, United Kingdom, United States, joint session of Congress_
 
 ### [ President Nicolas Sarkozy and eight other top French politicians receive death threats. ](/news/2009/03/4/president-nicolas-sarkozy-and-eight-other-top-french-politicians-receive-death-threats.md)
 _Context: France, Nicolas Sarkozy, President of France, death threat, politician_

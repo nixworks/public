@@ -1,7 +1,7 @@
 ## [2010-07-28](/news/2010/07/28/index.md)
 
 ### [A bomb on a civilian bus in Nimruz Province in southwest Afghanistan results in at least 25 deaths. ](/news/2010/07/28/a-bomb-on-a-civilian-bus-in-nimruz-province-in-southwest-afghanistan-results-in-at-least-25-deaths.md)
-_Context: Afghanistan, Nimruz Province, bomb, bus_
+_Context: Afghan, Nimruz Province, bomb, bus_
 
 ### [An explosion at a plastics factory in Nanjing, China, kills at least 12 people and injures hundreds. ](/news/2010/07/28/an-explosion-at-a-plastics-factory-in-nanjing-china-kills-at-least-12-people-and-injures-hundreds.md)
 At least 12 people died and 15 were seriously injured on Wednesday after an explosion at an abandoned plastics and chemicals factory in the eastern Chinese city of Nanjing, state television said.
@@ -10,7 +10,7 @@ At least 12 people died and 15 were seriously injured on Wednesday after an expl
 Two Americans were among the 152 people killed when a jetliner slammed into wooded hills near Islamabad amid dense fog and heavy rain on Wednesday, officials said.
 
 ### [A United States Air Force Boeing C-17 crashes at the Elmendorf Air Force Base in Alaska. ](/news/2010/07/28/a-united-states-air-force-boeing-c-17-crashes-at-the-elmendorf-air-force-base-in-alaska.md)
-_Context: Alaska, Boeing C-17, Elmendorf Air Force Base, United States Air Force_
+_Context: Air Force, Alaska, Boeing C-17, Elmendorf Air Force Base_
 
 ### [A boat sinks on the Kasai river in the Democratic Republic of the Congo, killing as many as 140. ](/news/2010/07/28/a-boat-sinks-on-the-kasai-river-in-the-democratic-republic-of-the-congo-killing-as-many-as-140.md)
 About 140 people are feared dead as a boat capsizes on a river in the western Bandundu province of the Democratic Republic of Congo.

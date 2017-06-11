@@ -25,7 +25,7 @@ _Context: Goldman Sachs, whistleblower_
 _Context: Ben Bernanke, Federal Reserve_
 
 ### [The UK doubles its number of RAF armed "drones" operating in Afghanistan and, in a new development, drones are to be controlled from terminals and screens on British soil. ](/news/2012/10/22/the-uk-doubles-its-number-of-raf-armed-drones-operating-in-afghanistan-and-in-a-new-development-drones-are-to-be-controlled-from-termina.md)
-_Context: Afghanistan, Royal Air Force, drone_
+_Context: Afghan, Royal Air Force, drone_
 
 ### [France plans to use drones in Mali. ](/news/2012/10/22/france-plans-to-use-drones-in-mali.md)
 _Context: France, Mali, drone_

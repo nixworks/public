@@ -11,7 +11,7 @@ A video released on to the internet claims to show that Islamic State militants 
 
 ### Related:
 
-1. [Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan were killed by members of the Islamic State of Iraq and the Levant. ](/news/2017/06/9/chinese-authorities-report-grave-concern-over-reports-that-two-kidnapped-chinese-teachers-in-quetta-pakistan-were-killed-by-members-of-th.md) _Context: ISIL_
+1. [Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan, were killed by members of the Islamic State of Iraq and the Levant. ](/news/2017/06/9/chinese-authorities-report-grave-concern-over-reports-that-two-kidnapped-chinese-teachers-in-quetta-pakistan-were-killed-by-members-of-t.md) _Context: ISIL_
 2. [A suicide bomber at a market in Musayyib kills 31 and wounds 35. ISIL claims responsibility. ](/news/2017/06/9/a-suicide-bomber-at-a-market-in-musayyib-kills-31-and-wounds-35-isil-claims-responsibility.md) _Context: ISIL_
 3. [The United States-backed Syrian Democratic Forces launch an operation to capture Raqqa, ISIL's ''de facto'' Syrian capital. ](/news/2017/06/6/the-united-states-backed-syrian-democratic-forces-launch-an-operation-to-capture-raqqa-isil-s-de-facto-syrian-capital.md) _Context: ISIL_
 4. [The U.S.-backed Syrian Democratic Forces (SDF) take control of the Baath Dam on the Euphrates, near the ISIL stronghold of Raqqa, and upon doing so, rename it "Freedom Dam".  ](/news/2017/06/4/the-u-s-backed-syrian-democratic-forces-sdf-take-control-of-the-baath-dam-on-the-euphrates-near-the-isil-stronghold-of-raqqa-and-upon-d.md) _Context: ISIL_

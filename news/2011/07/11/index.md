@@ -22,7 +22,7 @@ Commonwealth Edison Co. reported substantial progress in restoring power lost in
 _Context: Israeli parliament, West Bank settlement, boycotting, law_
 
 ### [The Republic of Korea Air Force announces that it will conduct regular midair refuelling drills with the United States Air Force commencing later this year. ](/news/2011/07/11/the-republic-of-korea-air-force-announces-that-it-will-conduct-regular-midair-refuelling-drills-with-the-united-states-air-force-commencing.md)
-_Context: Republic of Korea Air Force, United States Air Force_
+_Context: Air Force, Republic of Korea Air Force_
 
 ### [Canada will boycott the United Nations Conference on Disarmament to protest against North Korea being named its chair. ](/news/2011/07/11/canada-will-boycott-the-united-nations-conference-on-disarmament-to-protest-against-north-korea-being-named-its-chair.md)
 Canada is boycotting a UN body dedicated to disarmament to protest against North Korea being named its chair, Foreign Affairs Minister John Baird announced Monday. 

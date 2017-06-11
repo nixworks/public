@@ -1,7 +1,7 @@
 ## [2012-08-26](/news/2012/08/26/index.md)
 
 ### [Seventeen villagers including two women in Afghanistan's southern Kajaki district are beheaded by unknown organised people. ](/news/2012/08/26/seventeen-villagers-including-two-women-in-afghanistan-s-southern-kajaki-district-are-beheaded-by-unknown-organised-people.md)
-_Context: Afghanistan, Kajaki district_
+_Context: Afghan, Kajaki district_
 
 ### [Thirty-six people are killed in a bus crash near Yan'an, Shaanxi province of China. ](/news/2012/08/26/thirty-six-people-are-killed-in-a-bus-crash-near-yan-an-shaanxi-province-of-china.md)
 _Context: Chinese, Shaanxi province, Yan'an_

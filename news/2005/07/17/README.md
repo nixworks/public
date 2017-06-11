@@ -4,7 +4,7 @@
 _Context: Disneyland_
 
 ### [ Former British Prime Minister Sir Edward Heath dies at his Salisbury home at the age of 89. ](/news/2005/07/17/former-british-prime-minister-sir-edward-heath-dies-at-his-salisbury-home-at-the-age-of-89.md)
-_Context: Edward Heath, Salisbury, prime minister_
+_Context: Edward Heath, Prime Minister, Salisbury_
 
 ### [ ''Time'' correspondent Matthew Cooper reveals that last week he told a grand jury that Karl Rove&mdash;a top White House political adviser to U.S. President George W. Bush&mdash; was the first to reveal Valerie Plame's identity as a CIA agent. ](/news/2005/07/17/time-correspondent-matthew-cooper-reveals-that-last-week-he-told-a-grand-jury-that-karl-rove-mdash-a-top-white-house-political-adviser.md)
 _Context: CIA, George W. Bush, Karl Rove, Matthew Cooper, Time, Valerie Plame, grand jury_
@@ -13,7 +13,7 @@ _Context: CIA, George W. Bush, Karl Rove, Matthew Cooper, Time, Valerie Plame, g
 _Context: Guadalajara, firefighter, forest fire_
 
 ### [ According to the Military of Pakistan, 17 people have died, including a Pakistani soldier, following clashes on the border with Afghanistan. ](/news/2005/07/17/according-to-the-military-of-pakistan-17-people-have-died-including-a-pakistani-soldier-following-clashes-on-the-border-with-afghanistan.md)
-_Context: Afghanistan, Pakistan, military_
+_Context: Afghan, Pakistan, military_
 
 ### [ Conflict in Iraq: A fuel truck bomb kills 98 people south of Baghdad as three more suicide car bombers strike the Iraqi capital. ](/news/2005/07/17/conflict-in-iraq-a-fuel-truck-bomb-kills-98-people-south-of-baghdad-as-three-more-suicide-car-bombers-strike-the-iraqi-capital.md)
 _Context: Baghdad, Conflict in Iraq_

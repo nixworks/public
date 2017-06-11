@@ -46,7 +46,7 @@ _Context: Franko Simatovic, International Criminal Tribunal for the former Yugos
 _Context: Central-African, Joseph Kony, Lord's Resistance Army, Uganda, ceasefire_
 
 ### [ A suicide bomber attacks a NATO convoy in Gereshk in Helmand province of Afghanistan, killing three Afghan civilians. ](/news/2008/03/17/a-suicide-bomber-attacks-a-nato-convoy-in-gereshk-in-helmand-province-of-afghanistan-killing-three-afghan-civilians.md)
-_Context: Afghanistan, Gereshk, Helmand, NATO, suicide bomber_
+_Context: Afghan, Gereshk, Helmand, NATO, suicide bomber_
 
 ### [ World War II Royal Australian Navy warship HMAS ''Sydney'' is discovered off the coast of Western Australia after being missing for 65 years with the loss of all 600+ crew. ](/news/2008/03/17/world-war-ii-royal-australian-navy-warship-hmas-sydney-is-discovered-off-the-coast-of-western-australia-after-being-missing-for-65-year.md)
 The group searching for HMAS Sydney has found the wreckage of the World War II Australian warship off the coast of Western Australia, the ABC has confirmed.

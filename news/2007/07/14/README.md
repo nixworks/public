@@ -4,7 +4,7 @@
 _Context: Kurdistan Workers' Party, Turkey_
 
 ### [ Waziristan conflict (July 2007-present): At least 24 Pakistani soldiers are killed by a suicide attack by militants on a convoy in Waziristan near the Afghanistan border. ](/news/2007/07/14/waziristan-conflict-july-2007-present-at-least-24-pakistani-soldiers-are-killed-by-a-suicide-attack-by-militants-on-a-convoy-in-wazirist.md)
-_Context: Afghanistan, Pakistan, Waziristan, Waziristan conflict (July 2007-present), convoy, suicide bombing_
+_Context: Afghan, Pakistan, Waziristan, Waziristan conflict (July 2007-present), convoy, suicide bombing_
 
 ### [ Ten Sri Lankan soldiers die in fighting the Tamil Tigers in the Vavuniya district of northern Sri Lanka. ](/news/2007/07/14/ten-sri-lankan-soldiers-die-in-fighting-the-tamil-tigers-in-the-vavuniya-district-of-northern-sri-lanka.md)
 _Context: Sri Lanka, Tamil Tigers, Vavuniya_

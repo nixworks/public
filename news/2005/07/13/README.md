@@ -13,7 +13,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Discovery, Kennedy Space Center, NASA, STS-114, disintegrated during re-entry, fly humans to space_
 
 ### [ The Australian Government announces it will send back 150 elite Special Air Service troops to Afghanistan, to take part in covert operations and to help thwart a resurgent Taliban. A further 200 troops may also be dispatched to aid reconstruction efforts. ](/news/2005/07/13/the-australian-government-announces-it-will-send-back-150-a-c-lite-special-air-service-troops-to-afghanistan-to-take-part-in-covert-operatio.md)
-_Context: Afghanistan, Australia's government, Special Air Service, Taliban_
+_Context: Afghan, Australia's government, Special Air Service, Taliban_
 
 ### [ The American Family Association, a Christian conservative activist group, announces an international boycott of Nike. In adding Nike to its ongoing boycotts of Kmart and the book One of the Guys by Robert Clark Young, the AFA argues that Nike promotes "a back door move to legalise homosexual marriage." ](/news/2005/07/13/the-american-family-association-a-christian-conservative-activist-group-announces-an-international-boycott-of-nike-in-adding-nike-to-its.md)
 _Context: American Family Association, Kmart, Nike, Inc., One of the Guys, Robert Clark Young_

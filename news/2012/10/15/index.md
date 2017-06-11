@@ -31,7 +31,7 @@ _Context: Mo Ibrahim Prize for Achievement in African Leadership_
 Norodom Sihanouk, the former Cambodian king who was a key figure through decades of conflict and upheaval, dies at the age of 89.
 
 ### [British Prime Minister David Cameron and Scottish First Minister Alex Salmond agree a deal setting out the terms of a referendum on Scottish independence at a meeting in Edinburgh. ](/news/2012/10/15/british-prime-minister-david-cameron-and-scottish-first-minister-alex-salmond-agree-a-deal-setting-out-the-terms-of-a-referendum-on-scottish.md)
-_Context: Alex Salmond, David Cameron, Edinburgh, First Minister, deal, independence referendum, prime minister_
+_Context: Alex Salmond, David Cameron, Edinburgh, First Minister, Prime Minister, deal, independence referendum_
 
 ### [Ontario premier Dalton McGuinty announces his resignation. ](/news/2012/10/15/ontario-premier-dalton-mcguinty-announces-his-resignation.md)
 _Context: Dalton McGuinty, Ontario_

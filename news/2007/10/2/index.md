@@ -19,7 +19,7 @@ _Context: Ashfaq Kiyani, Benazir Bhutto, General, Pakistan, Pakistan Army, Perve
 Ambiguity surrounding reported IAF attack in Syria ends as Israel confirms air raid of undisclosed Syrian targets
 
 ### [ War in Iraq: The Prime Minister of the United Kingdom Gordon Brown makes his first visit to Iraq, where he announces the withdrawal of 1,000 troops. ](/news/2007/10/2/war-in-iraq-the-prime-minister-of-the-united-kingdom-gordon-brown-makes-his-first-visit-to-iraq-where-he-announces-the-withdrawal-of-1-00.md)
-_Context: Gordon Brown, Iraq, War in Iraq, prime minister_
+_Context: Gordon Brown, Iraq, Prime Minister, War in Iraq_
 
 ### [ War in Afghanistan: A suicide bomber blows himself up near a bus carrying policemen killing at least 11 in Kabul. ](/news/2007/10/2/war-in-afghanistan-a-suicide-bomber-blows-himself-up-near-a-bus-carrying-policemen-killing-at-least-11-in-kabul.md)
 _Context: Kabul, War in Afghanistan (2001-present), suicide bomber_

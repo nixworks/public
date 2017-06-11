@@ -4,7 +4,7 @@
 A group of 21 Filipino UN peacekeepers captured by rebels in Syria earlier this week arrive in Jordan after being released.
 
 ### [War in Afghanistan:At least 19 people are killed by two suicide bombings in the Afghan capital, Kabul, and in Khost Province, as Chuck Hagel, the United States Secretary of Defense, visits the city. ](/news/2013/03/9/war-in-afghanistan-pat-least-19-people-are-killed-by-two-suicide-bombings-in-the-afghan-capital-kabul-and-in-khost-province-as-chuck-hage.md)
-_Context: Afghanistan, Chuck Hagel, Kabul, Khost, Secretary of Defense, War in Afghanistan (2001-present), suicide bombings_
+_Context: Afghan, Chuck Hagel, Kabul, Khost, Secretary of Defense, War in Afghanistan (2001-present), suicide bombings_
 
 ### [Nigerian Sharia conflict:Nigerian militant group Ansaru announces that it has killed seven foreigners that were being held hostage. ](/news/2013/03/9/nigerian-sharia-conflict-pnigerian-militant-group-ansaru-announces-that-it-has-killed-seven-foreigners-that-were-being-held-hostage.md)
 Diplomats investigate claims by Nigerian militant group Ansaru that it has killed seven foreign hostages.

@@ -10,7 +10,7 @@ _Context: Al Jazeera, Israel, fire_
 _Context: California, IOU, state government_
 
 ### [ Afghanistan's National Directorate of Security eliminates a Pakistani terrorist cell responsible for at least six suicide bombings in Kabul. ](/news/2009/02/3/afghanistan-s-national-directorate-of-security-eliminates-a-pakistani-terrorist-cell-responsible-for-at-least-six-suicide-bombings-in-kabul.md)
-_Context: Afghanistan, Kabul, National Directorate of Security, Pakistan, suicide bombing, supply lines, terrorism_
+_Context: Afghan, Kabul, National Directorate of Security, Pakistan, suicide bombing, supply lines, terrorism_
 
 ### [ Sri Lankan Civil War: The Armed Forces claim to have captured an underground bunker used by the Tamil Tigers. ](/news/2009/02/3/sri-lankan-civil-war-p-the-armed-forces-claim-to-have-captured-an-underground-bunker-used-by-the-tamil-tigers.md)
 _Context: LTTE, Sri Lanka, Sri Lankan Civil War, armed forces, bunker_
@@ -22,7 +22,7 @@ The Rudd Government will pour an extra $42b into the economy in its latest bid t
 _Context: ''Omid'', Iran, released an object into orbit_
 
 ### [ Suspected Taliban militants suspend NATO supply lines by destroying a bridge on the Pakistan-Afghanistan border. ](/news/2009/02/3/suspected-taliban-militants-suspend-nato-supply-lines-by-destroying-a-bridge-on-the-pakistan-afghanistan-border.md)
-_Context: Afghanistan, NATO, Pakistan, Taliban, militant, supply lines_
+_Context: Afghan, NATO, Pakistan, Taliban, militant, supply lines_
 
 ### [ The United Kingdom struggles to cope with its heaviest snowfalls since 1991. ](/news/2009/02/3/the-united-kingdom-struggles-to-cope-with-its-heaviest-snowfalls-since-1991.md)
 _Context: United Kingdom_

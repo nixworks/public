@@ -1,7 +1,7 @@
 ## [2013-12-15](/news/2013/12/15/index.md)
 
 ### [War in Afghanistan (2001-present):The last Australian combat troops leave Afghanistan. ](/news/2013/12/15/war-in-afghanistan-2001-present-pthe-last-australian-combat-troops-leave-afghanistan.md)
-_Context: Afghanistan, Australia, War in Afghanistan (2001-present)_
+_Context: Afghan, Australia, War in Afghanistan (2001-present)_
 
 ### [Sixteen people die in a clash near the city of Kashgar in China's restive Xinjiang province. ](/news/2013/12/15/sixteen-people-die-in-a-clash-near-the-city-of-kashgar-in-china-s-restive-xinjiang-province.md)
 _Context: Kashgar, People's Republic of China, Xinjiang_

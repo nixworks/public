@@ -46,7 +46,7 @@ _Context: Admiral, Deepwater Horizon oil spill, Gulf of Mexico, Thad Allen, U.S.
 The US must stop using &quot;cowboy logic&quot; if it wants dialogue with Iran over its nuclear programme, the Iranian president says.
 
 ### [Scores of checkpoints appear overnight as 70 countries prepare to attend a conference in Kabul on the future of Afghanistan. ](/news/2010/07/19/scores-of-checkpoints-appear-overnight-as-70-countries-prepare-to-attend-a-conference-in-kabul-on-the-future-of-afghanistan.md)
-_Context: Afghanistan, Kabul_
+_Context: Afghan, Kabul_
 
 ### [The United States issues a warning to US citizens visiting or living in Uganda about the risk of terrorism as an African Union summit on maternal and child health summit starts. ](/news/2010/07/19/the-united-states-issues-a-warning-to-us-citizens-visiting-or-living-in-uganda-about-the-risk-of-terrorism-as-an-african-union-summit-on-mat.md)
 _Context: African Union, Uganda, United States, terrorism_

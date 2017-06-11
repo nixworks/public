@@ -7,7 +7,7 @@ At least 13 people including medical staff were killed when Russian warplanes st
 US authorities say US and Iraqi forces rescued dozens of hostages from IS to prevent their &quot;imminent execution&quot; but a US soldier was killed.
 
 ### [Taliban insurgents assassinate Mohammad Daud Sultanzoy, a district administrator in Afghanistan's eastern Ghazni province. ](/news/2015/10/22/taliban-insurgents-assassinate-mohammad-daud-sultanzoy-a-district-administrator-in-afghanistan-s-eastern-ghazni-province.md)
-_Context: Afghanistan, Ghazni Province, Mohammad Daud Sultanzoy, Taliban, War in Afghanistan (2015-present)_
+_Context: Afghan, Ghazni Province, Mohammad Daud Sultanzoy, Taliban, War in Afghanistan (2015-present)_
 
 ### [Egypt's military says it has gained "full control" over the North Sinai areas of Arish, Rafah and Sheikh Zuweid after successful raids on terrorist strongholds and weapons caches. ](/news/2015/10/22/egypt-s-military-says-it-has-gained-full-control-over-the-north-sinai-areas-of-arish-rafah-and-sheikh-zuweid-after-successful-raids-on-te.md)
 _Context: Arish, Egypt, Egyptian military, North Sinai Governorate, Rafah, Egypt, Sheikh Zuweid, Sinai insurgency_

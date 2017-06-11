@@ -1,7 +1,7 @@
 ## [2009-10-20](/news/2009/10/20/index.md)
 
 ### [ Afghanistan's election commission orders a run-off election for November 7 in the Afghan presidential election. ](/news/2009/10/20/afghanistan-s-election-commission-orders-a-run-off-election-for-november-7-in-the-afghan-presidential-election.md)
-_Context: Afghanistan, presidential election, run-off election_
+_Context: Afghan, presidential election, run-off election_
 
 ### [ In a set of canon laws, the Vatican welcomes groups of Anglicans as "personal ordinariates" into the Catholic Church, Pope Benedict XVI announces. ](/news/2009/10/20/in-a-set-of-canon-laws-the-vatican-welcomes-groups-of-anglicans-as-personal-ordinariates-into-the-catholic-church-pope-benedict-xvi-ann.md)
 _Context: Anglican, Catholics, Holy See, Pope Benedict XVI, canon law_

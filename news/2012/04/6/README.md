@@ -10,7 +10,7 @@ Thomas Kinkade, one of nation&#8217;s most popular painters, dies suddenly in Mo
 A ban on tobacco displays is coming into force in England - with ministers promising it will help curb the number of young people taking up smoking.
 
 ### [Seven civilians die in Afghanistan's Panjwai district after a fuel tanker overturns. ](/news/2012/04/6/seven-civilians-die-in-afghanistan-s-panjwai-district-after-a-fuel-tanker-overturns.md)
-_Context: Afghanistan, Panjwai district, fuel_
+_Context: Afghan, Panjwai district, fuel_
 
 ### [A United States Navy FA-18 Hornet crashes into an apartment complex in the US city of Virginia Beach, Virginia with minimal injuries and no fatalities. ](/news/2012/04/6/a-united-states-navy-fa-18-hornet-crashes-into-an-apartment-complex-in-the-us-city-of-virginia-beach-virginia-with-minimal-injuries-and-no.md)
 There are no reports so far of critical injuries or fatalities, but emergency crews have yet to complete thorough searches of the remains of the buildings after battling the fire and smoke.

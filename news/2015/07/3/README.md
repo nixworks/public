@@ -52,7 +52,7 @@ _Context: CONCACAF, Cayman Islands, FIFA, Jeffrey Webb_
 _Context: Danish general election, 2015, Folketing, Pia Kjaersgaard, speaker of the Danish parliament_
 
 ### [The U.S. Air Force's outgoing chief scientist, Mica Endsley, announces plans for an unmanned hypersonic flying weapon by 2023, which could travel at least up to Mach 5. ](/news/2015/07/3/the-u-s-air-force-s-outgoing-chief-scientist-mica-endsley-announces-plans-for-an-unmanned-hypersonic-flying-weapon-by-2023-which-could-t.md)
-_Context: Mach, Mica Endsley, United States Air Force, hypersonic_
+_Context: Air Force, Mach, Mica Endsley, hypersonic_
 
 ### [Solar Impulse projectThe solar-powered aircraft Solar Impulse 2 landed in Hawaii from Japan, completing the longest leg of its circumnavigation trip starting in Abu Dhabi. ](/news/2015/07/3/solar-impulse-projectpthe-solar-powered-aircraft-solar-impulse-2-landed-in-hawaii-from-japan-completing-the-longest-leg-of-its-circumnaviga.md)
 Solar Impulse, the aeroplane that is powered only by the sun, lands in Hawaii after making a historic 7,200km flight across the Pacific from Japan.

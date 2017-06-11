@@ -1,7 +1,7 @@
 ## [2013-04-24](/news/2013/04/24/index.md)
 
 ### [A 5.7 magnitude earthquake strikes 25 kilometers from Jalalabad, Afghanistan, leaving 33 people dead and another 115 injured. Heavy damage of buildings are reported across Nangarhar Province. ](/news/2013/04/24/a-5-7-magnitude-earthquake-strikes-25-kilometers-from-jalalabad-afghanistan-leaving-33-people-dead-and-another-115-injured-heavy-damage-o.md)
-_Context: Afghanistan, Jalalabad, Nangarhar Province_
+_Context: Afghan, Jalalabad, Nangarhar Province_
 
 ### [2013 Savar building collapse:An eight-story commercial building collapses in Savar Upazila near the Bangladeshi capital Dhaka, resulting in at least 256 people dead, one thousand injured and scores more trapped. ](/news/2013/04/24/2013-savar-building-collapse-pan-eight-story-commercial-building-collapses-in-savar-upazila-near-the-bangladeshi-capital-dhaka-resulting-in.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

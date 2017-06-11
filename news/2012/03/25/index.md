@@ -7,10 +7,10 @@ _Context: 2011-2012 Syrian uprising, Barack Obama, Recep Tayyip Erdogan, Syria, 
 Tuareg rebels have closed in on a key city in northern Mali, taking advantage of a power vacuum in Bamako.
 
 ### [A roadside bomb in southern Kandahar Province, Afghanistan, detonates on a joint Afghan-NATO convoy killing six Afghan police, one U.S. soldier, and one translator. ](/news/2012/03/25/a-roadside-bomb-in-southern-kandahar-province-afghanistan-detonates-on-a-joint-afghan-nato-convoy-killing-six-afghan-police-one-u-s-sold.md)
-_Context: Afghanistan, Kandahar Province, NATO_
+_Context: Afghan, Kandahar Province, NATO_
 
 ### [Kandahar massacre: The United States pays the Afghanistan government $50,000 for every person murdered during the Kandahar massacre. ](/news/2012/03/25/kandahar-massacre-the-united-states-pays-the-afghanistan-government-50-000-for-every-person-murdered-during-the-kandahar-massacre.md)
-_Context: Afghanistan, Kandahar, Kandahar massacre, United States_
+_Context: Afghan, Kandahar, Kandahar massacre, United States_
 
 ### [Kofi Annan and a special UN peace envoy meet with President of Russia Dmitry Medvedev to discuss adopting a harder stance on Syria and Bashar al-Assad. ](/news/2012/03/25/kofi-annan-and-a-special-un-peace-envoy-meet-with-president-of-russia-dmitry-medvedev-to-discuss-adopting-a-harder-stance-on-syria-and-basha.md)
 _Context: Bashar al-Assad, Dmitry Medvedev, Kofi Annan, Russia President, Syria, UN_

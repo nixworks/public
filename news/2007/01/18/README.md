@@ -4,7 +4,7 @@
 The Senate passed a new ethics reform bill on Thursday night, intended to change the way senators interact with lobbyists.
 
 ### [ Alleged racist treatment of Indian actress Shilpa Shetty on Celebrity Big Brother 2007 draws widespread attention. It has attracted a record 33,000 complaints, death threats and has resulted in cancellation of multi-million  pound Big Brother sponsorships and participants' modelling contracts. Prime Minister Tony Blair's likely successor, Chancellor of the Exchequer Gordon Brown commented on the subject during his India visit and has been mentioned in the House of Commons. ](/news/2007/01/18/alleged-racist-treatment-of-indian-actress-shilpa-shetty-on-celebrity-big-brother-2007-draws-widespread-attention-it-has-attracted-a-recor.md)
-_Context: British House of Commons, Celebrity Big Brother 2007, Chancellor of the Exchequer, Gordon Brown, India, PS, Shilpa Shetty, Tony Blair, prime minister_
+_Context: British House of Commons, Celebrity Big Brother 2007, Chancellor of the Exchequer, Gordon Brown, India, PS, Prime Minister, Shilpa Shetty, Tony Blair_
 
 ### [ The United States government reports that the People's Republic of China successfully tested a missile that destroyed an orbiting satellite of the Dong Fang Hong program. ](/news/2007/01/18/the-united-states-government-reports-that-the-people-s-republic-of-china-successfully-tested-a-missile-that-destroyed-an-orbiting-satellite.md)
 _Context: Dong Fang Hong, People's Republic of China, United States, ballistic missile, released an object into orbit_

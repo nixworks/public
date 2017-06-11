@@ -10,7 +10,7 @@ Serena Williams completed her climb back to No. 1 with a 6-4, 7-5 victory agains
 _Context: Hurricane Ike, Turks and Caicos Islands_
 
 ### [ Two suicide bombers strike in the police headquarters in Kandahar, Afghanistan killing six officers and wounding several more. ](/news/2008/09/7/two-suicide-bombers-strike-in-the-police-headquarters-in-kandahar-afghanistan-killing-six-officers-and-wounding-several-more.md)
-_Context: Afghanistan, Kandahar, suicide bomber_
+_Context: Afghan, Kandahar, suicide bomber_
 
 ### [ Subprime mortgage crisis: The United States federal government places mortgage financing companies Freddie Mac and Fannie Mae into conservatorship. The Federal Housing Finance Agency will manage the companies on a temporary basis. ](/news/2008/09/7/subprime-mortgage-crisis-the-united-states-federal-government-places-mortgage-financing-companies-freddie-mac-and-fannie-mae-into-conserva.md)
 The U.S. government on Sunday seized control of mortgage finance companies Fannie Mae and Freddie Mac in an aggressive move to help the distressed U.S. housing market and economy.

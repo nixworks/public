@@ -7,7 +7,7 @@ _Context: Beijing, Chinese President, Condoleezza Rice, Hu Jintao, North Korea, 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Floods in Afghanistan kill more than 200. Coalition helicopters are dispatched to save people ](/news/2005/03/20/floods-in-afghanistan-kill-more-than-200-coalition-helicopters-are-dispatched-to-save-people.md)
-_Context: Afghanistan, flood, helicopter_
+_Context: Afghan, flood, helicopter_
 
 ### [ In Azerbaijan, president Ilham Aliyev announces pardons for 114 people, including 7 opposition leaders and total of 50 political prisoners ](/news/2005/03/20/in-azerbaijan-president-ilham-aliyev-announces-pardons-for-114-people-including-7-opposition-leaders-and-total-of-50-political-prisoners.md)
 _Context: Azerbaijan, Ilham Aliyev's, opposition, pardon, political prisoner_

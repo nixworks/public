@@ -37,7 +37,7 @@ _Context: Colombo, Sri Lanka, bus, truck_
 _Context: Japan, Japanese government, North Korean government, kidnapping, sanctions_
 
 ### [ Australian Prime Minister John Howard announces that 300 soldiers from the Australian Special Air Service Regiment will be sent to Oruzgan Province, Afghanistan to combat the Taliban. ](/news/2007/04/10/australian-prime-minister-john-howard-announces-that-300-soldiers-from-the-australian-special-air-service-regiment-will-be-sent-to-ora-zga.md)
-_Context: Afghanistan, Australian Prime Minister, Australian Special Air Service Regiment, John Howard, Oruzgan Province, Taliban_
+_Context: Afghan, Australian Prime Minister, Australian Special Air Service Regiment, John Howard, Oruzgan Province, Taliban_
 
 ### [ Johnny Cash's Nashville Home destroyed by a fire. ](/news/2007/04/10/johnny-cash-s-nashville-home-destroyed-by-a-fire.md)
 _Context: Johnny Cash_

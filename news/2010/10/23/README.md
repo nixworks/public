@@ -13,10 +13,10 @@ _Context: Conakry, November's presidential poll_
 Rebels blamed for landmine blast that killed six officers in eastern Indian state of Bihar.
 
 ### [A suicide bomber attacks the United Nations compound in western Afghanistan based in Herat. ](/news/2010/10/23/a-suicide-bomber-attacks-the-united-nations-compound-in-western-afghanistan-based-in-herat.md)
-_Context: Afghanistan, Herat, United Nations, suicide bomber_
+_Context: Afghan, Herat, United Nations, suicide bomber_
 
 ### [Nine Taliban fighters, including two commanders, are killed as security forces storm their hideout in Kandahar province, south of Afghanistan. ](/news/2010/10/23/nine-taliban-fighters-including-two-commanders-are-killed-as-security-forces-storm-their-hideout-in-kandahar-province-south-of-afghanista.md)
-_Context: Afghanistan, Kandahar Province, Taliban_
+_Context: Afghan, Kandahar Province, Taliban_
 
 ### [2010 strikes in France: French unions challenge a back-to-work order in court, one day after the senate voted in favour of increasing their retirement age. ](/news/2010/10/23/2010-strikes-in-france-french-unions-challenge-a-back-to-work-order-in-court-one-day-after-the-senate-voted-in-favour-of-increasing-their.md)
 Strikers contest a government back-to-work order in court, a day after senate passes controversial pension reforms.

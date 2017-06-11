@@ -22,7 +22,7 @@ _Context: Apirak Kosayothin, Bangkok, re-elected_
 _Context: Asif Ali Zardari, India, Pakistan_
 
 ### [ Senior British Commander says military victory in Afghanistan is impossible. ](/news/2008/10/5/senior-british-commander-says-military-victory-in-afghanistan-is-impossible.md)
-_Context: Afghanistan_
+_Context: Afghan_
 
 ## [Previous Day...](/news/2008/10/4/index.md)
 

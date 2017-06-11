@@ -10,7 +10,7 @@ The Yemeni air force Friday bombed tribesmen fighting to overthrow President Ali
 _Context: Syrian uprising_
 
 ### [David Cameron, the Prime Minister of the United Kingdom, confirms that his government will be sending AgustaWestland Apache attack helicopters to Libya to assist the 2011 Libyan civil war. ](/news/2011/05/27/david-cameron-the-prime-minister-of-the-united-kingdom-confirms-that-his-government-will-be-sending-agustawestland-apache-attack-helicopte.md)
-_Context: AgustaWestland Apache, David Cameron, Libya, Libyan Civil War, prime minister_
+_Context: AgustaWestland Apache, David Cameron, Libya, Libyan Civil War, Prime Minister_
 
 ### [A camp in Tunisia for people fleeing the conflict in Libya is destroyed after clashes among refugees and local residents. ](/news/2011/05/27/a-camp-in-tunisia-for-people-fleeing-the-conflict-in-libya-is-destroyed-after-clashes-among-refugees-and-local-residents.md)
 A camp in Tunisia for people fleeing the conflict in Libya is nearly completely destroyed in deadly clashes also involving local residents, the UN says.

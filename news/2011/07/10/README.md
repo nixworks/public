@@ -4,7 +4,7 @@
 Police in Bangladesh on Sunday fired tear gas and rubber bullets to disperse Islamist activists trying to enforce a nationwide strike over the removal of a Muslim phrase in the constitution, and witnesses said around 50 people were injured.
 
 ### [War in Afghanistan (2001-present):Three NATO service members are killed in separate attacks in Afghanistan. ](/news/2011/07/10/war-in-afghanistan-2001apresent-pthree-nato-service-members-are-killed-in-separate-attacks-in-afghanistan.md)
-_Context: Afghanistan, NATO, War in Afghanistan (2001-present)_
+_Context: Afghan, NATO, War in Afghanistan (2001-present)_
 
 ### [The final edition of the ''News of the World'' is published in the United Kingdom. ](/news/2011/07/10/the-final-edition-of-the-news-of-the-world-is-published-in-the-united-kingdom.md)
 Rupert Murdoch&#039;s takeover of BSkyB appeared to be dead in the water last night after proof emerged that executives at his British newspaper empire mounted a cover-up of the full scale of alleged criminal wrongdoing at the News of the World.

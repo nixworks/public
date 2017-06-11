@@ -1,7 +1,7 @@
 ## [2008-05-13](/news/2008/05/13/index.md)
 
 ### [ U.S. federal prosecutors have filed a new indictment against baseball slugger Barry Bonds, charging him with 14 counts of lying to a grand jury and one count of obstruction of justice when he denied knowingly using performance-enhancing drugs. ](/news/2008/05/13/u-s-federal-prosecutors-have-filed-a-new-indictment-against-baseball-slugger-barry-bonds-charging-him-with-14-counts-of-lying-to-a-grand.md)
-_Context: Barry Bonds, U.S., baseball game, lied under oath, obstruction of justice_
+_Context: Barry Bonds, U.S., baseball game, committed perjury, obstruction of justice_
 
 ### [ Wayne Swan, the Treasurer of Australia, delivers his first budget establishing $40 billion funds for infrastructure, health and education. ](/news/2008/05/13/wayne-swan-the-treasurer-of-australia-delivers-his-first-budget-establishing-40-billion-funds-for-infrastructure-health-and-education.md)
 _Context: A$, Treasurer of Australia, Wayne Swan, infrastructure_

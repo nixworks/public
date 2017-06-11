@@ -46,7 +46,7 @@ _Context: Beijing, Beijing Olympiad, Hebei, Li Junqi, bribes_
 _Context: Hirohisa Fujii, Japan_
 
 ### [Ex-Cabinet Ministers Geoff Hoon and Patricia Hewitt call for a secret ballot to settle the debate over the leadership of the Labour Party of British Prime Minister Gordon Brown. ](/news/2010/01/6/ex-cabinet-ministers-geoff-hoon-and-patricia-hewitt-call-for-a-secret-ballot-to-settle-the-debate-over-the-leadership-of-the-labour-party-of.md)
-_Context: British Cabinet, Geoff Hoon, Gordon Brown, Labour, Patricia Hewitt, prime minister_
+_Context: British Cabinet, Geoff Hoon, Gordon Brown, Labour, Patricia Hewitt, Prime Minister_
 
 ### [Computer scientist Fabrice Bellard claims he has computed p to almost 2.7 trillion digits. ](/news/2010/01/6/computer-scientist-fabrice-bellard-claims-he-has-computed-i-to-almost-2-7-trillion-digits.md)
 Fabrice Bellard says he has calculated the value of pi to nearly 2.7 trillion digits, some 123 billion more than the previous record.

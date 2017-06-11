@@ -10,7 +10,7 @@ _Context: Auckland, King, New Zealand, Taufa'ahau Tupou IV, Tonga_
 _Context: Andy Roddick, Roger Federer, U.S. Open_
 
 ### [ Taliban insurgency (Operation Medusa): NATO and Afghan forces killed 94 Taliban fighters in intense overnight clashes in southern Afghanistan, the military alliance says. ](/news/2006/09/10/taliban-insurgency-operation-medusa-p-nato-and-afghan-forces-killed-94-taliban-fighters-in-intense-overnight-clashes-in-southern-afghanis.md)
-_Context: Afghan National Army, Afghanistan, NATO, Operation Medusa, Taliban, Taliban insurgency_
+_Context: Afghan, Afghan National Army, NATO, Operation Medusa, Taliban, Taliban insurgency_
 
 ### [ Hurricane Florence forces hurricane warnings for Bermuda as it threatens the island with rain of 13 to 20 cm (5 to 8 inches). Florence is also expected to become a Category 2 hurricane prior to affecting the island. ](/news/2006/09/10/hurricane-florence-forces-hurricane-warnings-for-bermuda-as-it-threatens-the-island-with-rain-of-13-to-20-cm-5-to-8-inches-florence-is-a.md)
 _Context: Bermuda, Hurricane Florence, Saffir-Simpson Hurricane Scale, Tropical Storm Watch_

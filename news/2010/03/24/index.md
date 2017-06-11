@@ -22,7 +22,7 @@ A car bomb has exploded in the Colombian port town of Buenaventura, killing at l
 The euro has tumbled to its lowest level in 10 months against the dollar after Fitch Ratings downgraded Portugal to AA- and markets digested the likelihood of an IMF rescue for Greece, a move that reveals a fundamental break-down of Europe&rsquo;s governing machinery.
 
 ### [A Sharia court in Kaduna bans the Civil Rights Congress of Nigeria from debating punishment amputations via Twitter. ](/news/2010/03/24/a-sharia-court-in-kaduna-bans-the-civil-rights-congress-of-nigeria-from-debating-punishment-amputations-via-twitter.md)
-_Context: Civil Rights Congress of Nigeria, Kaduna, Sharia, Twitter_
+_Context: Civil Rights Congress of Nigeria, Kaduna, Twitter, sharia law_
 
 ### [An out-of-control train derailment in Norway kills three people and seriously injures several others. ](/news/2010/03/24/an-out-of-control-train-derailment-in-norway-kills-three-people-and-seriously-injures-several-others.md)
 _Context: Norway_

@@ -1,7 +1,7 @@
 ## [2015-06-13](/news/2015/06/13/index.md)
 
 ### [The Taliban kill 20 policemen in an attack in Helmand, Afghanistan. ](/news/2015/06/13/the-taliban-kill-20-policemen-in-an-attack-in-helmand-afghanistan.md)
-_Context: Afghanistan, Helmand, Taliban, War in Afghanistan_
+_Context: Afghan, Helmand, Taliban, War in Afghanistan_
 
 ### [Some 13,000 refugees have crossed into Turkey as Syrian Kurd People's Protection Units  encircle the ISIL-held town of Suluk. ](/news/2015/06/13/some-13-000-refugees-have-crossed-into-turkey-as-syrian-kurd-people-s-protection-units-encircle-the-isil-held-town-of-suluk.md)
 _Context: Islamic State in Iraq and the Levant, Kurd, Suluk, Syria, Syrian Civil War, Turkey, YPG_

@@ -1,7 +1,7 @@
 ## [2016-06-14](/news/2016/06/14/index.md)
 
 ### [Afghan and Pakistani soldiers clash at the Torkham border crossing between the two countries, leaving one Afghan soldier and a Pakistani major killed. At least 22 other people were also injured. Tensions between Afghanistan and Pakistan have grown since the latter's attempts to build a gate at the crossing. ](/news/2016/06/14/afghan-and-pakistani-soldiers-clash-at-the-torkham-border-crossing-between-the-two-countries-leaving-one-afghan-soldier-and-a-pakistani-maj.md)
-_Context: Afghan National Army, Afghanistan, Afghanistan-Pakistan skirmishes, Pakistan, Pakistan Army, Torkham_
+_Context: Afghan, Afghan National Army, Afghanistan-Pakistan skirmishes, Pakistan, Pakistan Army, Torkham_
 
 ### [The attacker is identified as Larossi Abballa, a 25-year-old man who, according to police sources,  was a neighbor of the murdered couple. Abballa was one of eight men convicted in Paris in 2013 for making plans to travel to Pakistan for terrorist training, and then to commit terrorists acts. Abballa was sentenced to three years in prison. He was released after the trial as six months of the sentence was suspended, and he had already spent  two years in jail awaiting trial. ](/news/2016/06/14/the-attacker-is-identified-as-larossi-abballa-a-25-year-old-man-who-according-to-police-sources-was-a-neighbor-of-the-murdered-couple-a.md)
 A policeman and his wife were killed in a frenzied knife attack at their home in a Paris suburb on Monday night by a man who reportedly shouted &ldquo;Allahu Akhbar&rdquo;.

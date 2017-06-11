@@ -16,7 +16,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ In the United States, the Food and Drug Administration announces that it will create a board for advisement regarding drug complications and the ongoing study of the safety of already approved drugs. ](/news/2005/02/16/in-the-united-states-the-food-and-drug-administration-announces-that-it-will-create-a-board-for-advisement-regarding-drug-complications-an.md)
-_Context: FDA, approved drug, complications_
+_Context: U.S. Food and Drug Administration, approved drug, complications_
 
 ### [ According to African envoys negotiating with the new government of Togo, the negotiations are making progress and the country agrees to organize new elections within 60 days. A crackdown on private media continues in the country. ](/news/2005/02/16/according-to-african-envoys-negotiating-with-the-new-government-of-togo-the-negotiations-are-making-progress-and-the-country-agrees-to-org.md)
 _Context: Togo, diplomat, negotiation, new government_
@@ -31,7 +31,7 @@ _Context: Cambodia, Chhouk Rin, Khmer Rouge, appealed, backpackers, conviction, 
 _Context: Britain's Court of Appeal, Countryside Alliance, Hunting Act 2004, Parliament Act 1949, fox hunting, lobbying_
 
 ### [ In Nigeria, an Islamic court sentences cross-dressing Abubakar Hamza to six months in prison and a fine equivalent to $38 for "immoral behaviour". He had lived for seven years as a woman to sell aphrodisiacs. ](/news/2005/02/16/in-nigeria-an-islamic-court-sentences-cross-dressing-abubakar-hamza-to-six-months-in-prison-and-a-fine-equivalent-to-38-for-immoral-beha.md)
-_Context: Abubakar Hamza, Nigeria, Sharia, US$, aphrodisiac, cross-dressing, moral_
+_Context: Abubakar Hamza, Nigeria, US$, aphrodisiac, cross-dressing, moral, sharia law_
 
 ### [ Iran and Syria announce the formation of a "united front" in order to face "challenges and threats", resolved after a meeting between Iranian First Vice President Mohammad Reza Aref and Syrian Prime Minister Mohammed Naji al-Otari. ](/news/2005/02/16/iran-and-syria-announce-the-formation-of-a-united-front-in-order-to-face-challenges-and-threats-resolved-after-a-meeting-between-irani.md)
 _Context: Iran, Mohammad Reza Aref, Mohammed Naji al-Otari, Syria_

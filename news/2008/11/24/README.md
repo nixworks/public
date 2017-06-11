@@ -4,7 +4,7 @@
 _Context: Barack Obama, Christina Romer, Council of Economic Advisers, Lawrence Summers, President-elect, Timothy F. Geithner, Treasury Secretary, U.S. President, United States, United States Department of the Treasury, United States National Economic Council_
 
 ### [ United Kingdom Prime Minister Gordon Brown outlines plans to raise the income tax rate for the first time since 1975. ](/news/2008/11/24/united-kingdom-prime-minister-gordon-brown-outlines-plans-to-raise-the-income-tax-rate-for-the-first-time-since-1975.md)
-_Context: 1975, Gordon Brown, United Kingdom, prime minister, tax_
+_Context: 1975, Gordon Brown, Prime Minister, United Kingdom, tax_
 
 ### [ Flooding in the Southern Brazilian state of Santa Catarina causes at least 45 deaths and forces the evacuation of 20,000 people. ](/news/2008/11/24/flooding-in-the-southern-brazilian-state-of-santa-catarina-causes-at-least-45-deaths-and-forces-the-evacuation-of-20-000-people.md)
 _Context: 2008 Santa Catarina floods, Brazil, Santa Catarina, Southern_

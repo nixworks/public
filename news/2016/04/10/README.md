@@ -1,7 +1,7 @@
 ## [2016-04-10](/news/2016/04/10/index.md)
 
 ### [The Taliban, in a statement claiming responsibility for yesterday's rocket attacks into Kabul, Afghanistan, says the intended target was U.S. Secretary of State John Kerry, who was in the capital to help defuse a crisis within the unity government.  Kerry had departed less than an hour earlier. No casualties have been reported. ](/news/2016/04/10/the-taliban-in-a-statement-claiming-responsibility-for-yesterday-s-rocket-attacks-into-kabul-afghanistan-says-the-intended-target-was-u-s.md)
-_Context: Afghanistan, John Kerry, Kabul, Taliban, United States Secretary of State, War in Afghanistan (2015-present), unity government_
+_Context: Afghan, John Kerry, Kabul, Taliban, United States Secretary of State, War in Afghanistan (2015-present), unity government_
 
 ### [Developers announce their intention to build a new tower in Dubai, United Arab Emirates, to surpass the Burj Khalifa as the tallest structure in the world. The project is expected to be roughly $1bn (PS710m) and scheduled to be completed for the Dubai Expo trade fair in 2020. ](/news/2016/04/10/developers-announce-their-intention-to-build-a-new-tower-in-dubai-united-arab-emirates-to-surpass-the-burj-khalifa-as-the-tallest-structur.md)
 _Context: Burj Khalifa, Dubai, UAE, tallest structure in the world_
@@ -40,7 +40,7 @@ _Context: Arseniy Yatsenyuk, Prime Minister of Ukraine, Volodymyr Groysman_
 Hundreds injured as Macedonian police fire tear gas and rubber bullets at refugees trying to cross over from Greece.
 
 ### [British Prime Minister David Cameron releases his tax records in an effort to remove discussion about his personal wealth from the current political discourse. His initial reluctance to admit he had benefited from his  late father's offshore Panama Papers holdings still seems to be affecting the upcoming European Union referendum. Unfortunately for the PM, the main Sunday newspapers in the U.K. tell of a gift of 200,000 pounds ($282,500) from his mother in 2011, suggesting it may have been a way of avoiding inheritance tax. ](/news/2016/04/10/british-prime-minister-david-cameron-releases-his-tax-records-in-an-effort-to-remove-discussion-about-his-personal-wealth-from-the-current-p.md)
-_Context: David Cameron, European Union membership referendum, Panama Papers, inheritance tax, prime minister_
+_Context: David Cameron, European Union membership referendum, Panama Papers, Prime Minister, inheritance tax_
 
 ### [The World Wildlife Fund reports global populations of tigers, an endangered species,  are up about 20 percent over the past six years.  This increase in tiger numbers, after declining for a century, was primarily in India, Russia, Nepal, and Bhutan. The third Asian Ministerial Conference on Tiger Conservation starts Monday in New Delhi, India.  ](/news/2016/04/10/the-world-wildlife-fund-reports-global-populations-of-tigers-an-endangered-species-are-up-about-20-percent-over-the-past-six-years-this.md)
 The increase in tiger numbers is primarily seen in India, Russia, Nepal and Bhutan.

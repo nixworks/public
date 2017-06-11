@@ -13,7 +13,7 @@ WASHINGTON: Turkish President Tayyip Erdogan said an attack in the southeastern 
 _Context: Al-Raqqah, ISIL, Syria, Syrian Civil War, Syrian Observatory for Human Rights, Tunisia_
 
 ### [The U.S. Federal Trade Commission files an anti-trust suit against Endo Pharmaceuticals, Inc., and several other drug companies for using pay-for-delay settlements to block consumers' access to lower-cost generic versions of pain medications, Opana ER and Lidoderm. ](/news/2016/03/31/the-u-s-federal-trade-commission-files-an-anti-trust-suit-against-endo-pharmaceuticals-inc-and-several-other-drug-companies-for-using-pa.md)
-_Context: Endo Pharmaceuticals, Inc.,, Lidoderm, Opana ER, U.S. Federal Trade Commission, generic, pain medications, pay-for-delay settlements, reduced competition and higher prices_
+_Context: Endo International plc, Lidoderm, Opana ER, U.S. Federal Trade Commission, generic, pain medications, pay-for-delay settlements, reduced competition and higher prices_
 
 ### [A consortium led  by China's Anbang Insurance Group announces it will walk away from its $14 billion takeover bid for Starwood Hotels. This restores Marriott International as the highest bidder ($13.6 billion). ](/news/2016/03/31/a-consortium-led-by-china-s-anbang-insurance-group-announces-it-will-walk-away-from-its-14-billion-takeover-bid-for-starwood-hotels-this.md)
 A group led by China’s Anbang Insurance Group Co. withdrew its $14 billion takeover bid for Starwood Hotels &amp; Resorts Worldwide Inc., clearing the way for a purchase by Marriott International Inc., according to two people with knowledge of the matter.

@@ -7,7 +7,7 @@ _Context: Kyrgyzstan, Navi Pillay, the ongoing crisis_
 State of emergency lifted in three provinces but strict laws remain in much of the country.
 
 ### [William Hague, the United Kingdom Foreign Secretary, says that British soldiers should be out of Afghanistan by 2014. ](/news/2010/07/20/william-hague-the-united-kingdom-foreign-secretary-says-that-british-soldiers-should-be-out-of-afghanistan-by-2014.md)
-_Context: Afghanistan, British Army, Secretary of State for Foreign and Commonwealth Affairs, United Kingdom, William Hague_
+_Context: Afghan, British Army, Secretary of State for Foreign and Commonwealth Affairs, United Kingdom, William Hague_
 
 ### [Uganda's government defends the forced repatriation of 1,700 Rwandan refugees, deemed "heavy-handed" by the United Nations; two people are killed in a group alleged to be a security risk following the July 2010 Kampala attacks. ](/news/2010/07/20/uganda-s-government-defends-the-forced-repatriation-of-1-700-rwandan-refugees-deemed-heavy-handed-by-the-united-nations-two-people-are-k.md)
 _Context: Rwanda, Uganda, United Nations, attacks_
@@ -49,7 +49,7 @@ _Context: Cuba, Ricardo Alarcon_
 US National Guard troops will begin deploying along the US-Mexico border in August to help bolster security, officials say.
 
 ### [An international conference on the future of Afghanistan opens in Kabul co-chaired by the President of Afghanistan Hamid Karzai and the Secretary-General of the United Nations Ban Ki-moon. The conference endorses a goal for Afghan forces to lead security operations across the country by 2014. Afghan President Hamid Karzai suggests raising the size of the Afghan National Army to 170,000 troops and the Afghan National Police to 134,000 officers by 2011. ](/news/2010/07/20/an-international-conference-on-the-future-of-afghanistan-opens-in-kabul-co-chaired-by-the-president-of-afghanistan-hamid-karzai-and-the-secr.md)
-_Context: Afghan National Army, Afghan police, Afghanistan, Afghanistan President, Ban Ki-moon, Hamid Karzai, Kabul, Secretary General_
+_Context: Afghan, Afghan National Army, Afghan police, Afghanistan President, Ban Ki-moon, Hamid Karzai, Kabul, Secretary General_
 
 ### [Former North Korean spy Kim Hyon Hui is allowed into Japan via Haneda Airport on a government-chartered jet, after the country waives its own immigration rules. ](/news/2010/07/20/former-north-korean-spy-kim-hyon-hui-is-allowed-into-japan-via-haneda-airport-on-a-government-chartered-jet-after-the-country-waives-its-ow.md)
 A former North Korean spy who blew up a plane killing 115 people is in Japan to meet families of people abducted to North Korea.
@@ -97,7 +97,7 @@ Santa Clara police: Activist Ly Tong arrested in pepper spray attack on singer
 South East Asian politicians reportedly give Burma &quot;an earful&quot; over its planned elections, which critics describe as a sham.
 
 ### [Prime Minister of the United Kingdom David Cameron meets with US President Barack Obama to discuss the Gulf of Mexico oil spill, Afghanistan and the global economy. ](/news/2010/07/20/prime-minister-of-the-united-kingdom-david-cameron-meets-with-us-president-barack-obama-to-discuss-the-gulf-of-mexico-oil-spill-afghanistan.md)
-_Context: Afghanistan, Barack Obama, David Cameron, Deepwater Horizon oil spill, U.S. President, prime minister_
+_Context: Afghan, Barack Obama, David Cameron, Deepwater Horizon oil spill, Prime Minister, U.S. President_
 
 ### [The Supreme Court of Guinea confirms there will be a presidential run-off in the country's election. ](/news/2010/07/20/the-supreme-court-of-guinea-confirms-there-will-be-a-presidential-run-off-in-the-country-s-election.md)
 _Context: November's presidential poll, Supreme Court_

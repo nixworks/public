@@ -4,7 +4,7 @@
 _Context: Julian Assange, WikiLeaks, cyber-war_
 
 ### [A blast at an army base in eastern Afghanistan kills at least two soldiers and two civilians. ](/news/2010/12/5/a-blast-at-an-army-base-in-eastern-afghanistan-kills-at-least-two-soldiers-and-two-civilians.md)
-_Context: Afghanistan_
+_Context: Afghan_
 
 ### [The Nigerian military acknowledges that raids to root out armed gangs in the Niger Delta may have killed civilians. ](/news/2010/12/5/the-nigerian-military-acknowledges-that-raids-to-root-out-armed-gangs-in-the-niger-delta-may-have-killed-civilians.md)
 _Context: Niger Delta, Nigerian_

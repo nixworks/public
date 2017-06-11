@@ -10,7 +10,7 @@ _Context: Bosnia and Herzegovina, Bosnian War, Bosnian genocide case at the ICJ,
 _Context: PS, Securitas depot robbery, US$, euro_
 
 ### [ The United Nations World Food Programme says that it needs 11 million USD to be able to continue its Afghanistan operations to June this year.  "Poor and hungry schoolchildren who receive take-home rations of food as an incentive to attend school will receive at most half their usual ration and in some cases none at all", says the U.N. More than 50% of the nation's children are malnourished.  ](/news/2006/02/27/the-united-nations-world-food-programme-says-that-it-needs-11-million-usd-to-be-able-to-continue-its-afghanistan-operations-to-june-this-ye.md)
-_Context: Afghanistan, United Nations, World Food Programme_
+_Context: Afghan, United Nations, World Food Programme_
 
 ### [ Another series of bomb attacks in southern Iranian cities of Dezful and Abadan wounds at least six people. Eight people died when bombs exploded in the provincial capital Ahwaz a month ago. The Iranian government again accuses Britain of being behind the attacks, although a small Arab separatist group claimed responsibility on its website. ](/news/2006/02/27/another-series-of-bomb-attacks-in-southern-iranian-cities-of-dezful-and-abadan-wounds-at-least-six-people-eight-people-died-when-bombs-exp.md)
 _Context: Abadan, Ahwaz, Dezful, Iran_

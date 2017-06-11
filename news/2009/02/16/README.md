@@ -19,7 +19,7 @@ _Context: ''Le Triomphant'', 4, Atlantic Ocean, February 3, France, French naval
 _Context: Guadeloupe, ongoing general strikes, police, protest_
 
 ### [ Pakistan will implement sharia in the war-torn Swat Valley if the Taliban guarantees a ceasefire. ](/news/2009/02/16/pakistan-will-implement-sharia-in-the-war-torn-swat-valley-if-the-taliban-guarantees-a-ceasefire.md)
-_Context: Pakistan, Sharia, Swat, Pakistan, Taliban, War in North-West Pakistan, ceasefire_
+_Context: Pakistan, Swat, Pakistan, Taliban, War in North-West Pakistan, ceasefire, sharia law_
 
 ## [Previous Day...](/news/2009/02/15/index.md)
 

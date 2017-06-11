@@ -16,7 +16,7 @@ SOFIA, Bulgaria (AP) — The Latest on Bulgaria&#x27;s election Sunday: (all tim
 _Context: Democratic Unionist Party, Northern Ireland Assembly election, 2017, Sinn Fein_
 
 ### [The U.S. FDA approves Tesaro's ovarian cancer drug, Niraparib. ](/news/2017/03/27/the-u-s-fda-approves-tesaro-s-ovarian-cancer-drug-niraparib.md)
-_Context: FDA, Niraparib, Tesaro, ovarian cancer_
+_Context: Niraparib, Tesaro, U.S. Food and Drug Administration, ovarian cancer_
 
 ## [Previous Day...](/news/2017/03/26/index.md)
 

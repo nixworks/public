@@ -13,7 +13,7 @@ _Context: Congress, Ecuador, President, Rafael Correa, referendum_
 Morgan Tsvangirai was jailed and beaten for his role in a banned anti-government meeting.
 
 ### [ Spanish police arrest Brian David Anderson, a Canadian citizen, in Madrid, on behalf of the U.S. government, for allegedly engaging in fraud and funding a terrorist camp in Afghanistan. ](/news/2007/03/13/spanish-police-arrest-brian-david-anderson-a-canadian-citizen-in-madrid-on-behalf-of-the-u-s-government-for-allegedly-engaging-in-frau.md)
-_Context: Afghanistan, Brian David Anderson, Madrid_
+_Context: Afghan, Brian David Anderson, Madrid_
 
 ### [ Alexander Veshnyakov, the head of Russia's Central Election Commission, is removed after criticising changes to electoral laws favouring United Russia associated with Vladimir Putin. ](/news/2007/03/13/alexander-veshnyakov-the-head-of-russia-s-central-election-commission-is-removed-after-criticising-changes-to-electoral-laws-favouring-un.md)
 _Context: Alexander Veshnyakov, Central Election Commission, United Russia, Vladimir Putin_

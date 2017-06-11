@@ -10,7 +10,7 @@ _Context: Basilica of Saint Paul Outside the Walls, Pope Benedict XVI, Saint Pau
 A federal judge sentenced Bernard L. Madoff to 150 years in prison for running a huge Ponzi scheme that devastated thousands of investors, calling his crimes “extraordinarily evil.”
 
 ### [ The United States Air Force test fires an unarmed Minuteman III intercontinental ballistic missile from the coast of California to a point in the Pacific Ocean about 4,200 miles (6,750 km) away. ](/news/2009/06/29/the-united-states-air-force-test-fires-an-unarmed-minuteman-iii-intercontinental-ballistic-missile-from-the-coast-of-california-to-a-point.md)
-_Context: California, Minuteman III, United States Air Force, intercontinental ballistic missile_
+_Context: Air Force, California, Minuteman III, intercontinental ballistic missile_
 
 ### [ Two passenger trains collide in Chenzhou, Hunan in central China, leaving at least three people dead and 60 injured. ](/news/2009/06/29/two-passenger-trains-collide-in-chenzhou-hunan-in-central-china-leaving-at-least-three-people-dead-and-60-injured.md)
 _Context: Chenzhou, Hunan, collide_

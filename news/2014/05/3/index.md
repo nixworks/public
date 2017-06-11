@@ -13,7 +13,7 @@ At least three people have died and a number are wounded in two explosions in th
 &#8216;Fandry&#8217;, &#8216;Shahid&#8217; also rewarded.
 
 ### [The death toll from the mudslides in Afghanistan rises to 2,100, with 4,000 people displaced. ](/news/2014/05/3/the-death-toll-from-the-mudslides-in-afghanistan-rises-to-2-100-with-4-000-people-displaced.md)
-_Context: Afghanistan, the mudslides_
+_Context: Afghan, the mudslides_
 
 ### [The first U.S. case of MERS is reported in Munster, Indiana, of someone who travelled to Saudi Arabia. ](/news/2014/05/3/the-first-u-s-case-of-mers-is-reported-in-munster-indiana-of-someone-who-travelled-to-saudi-arabia.md)
 _Context: Middle East respiratory syndrome, Munster, Indiana, Saudi Arabia_
