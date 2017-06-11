@@ -1,13 +1,14 @@
 ### [2017-06-11](/news/2017/06/11/index.md)
 
-# Voters in France return to the polls after last month's presidential election for the first round of a legislative election, to begin choosing the 577 members of France's lower house. Opinion polls predict that En Marche!, formed by newly elected President Emmanuel Macron, will pick up a majority of seats. 
+# Voters in France return to the polls after last month's presidential election for the first round of a legislative election, to begin choosing the 577 members of France's lower house. Opinion polls and exit polls predict that En Marche!, formed by newly elected President Emmanuel Macron, will pick up a majority of seats. 
 
-
+Emmanuel Macron&#39;s party is on course to secure an historic majority in parliament after the first round of France&rsquo;s legislative elections, turbo-charging the French president&rsquo;s chances of driving through crucial economic reforms.
 
 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-40178118)
+2. [The Telegraph](http://www.telegraph.co.uk/news/2017/06/11/exit-polls-show-emmanuel-macron-headed-crushing-victory-french/)
 
 ### Related:
 
