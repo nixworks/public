@@ -6,6 +6,9 @@ _Context: European Union, Ukraine, Ukraine-European Union relations_
 ### [Iran has sent five 90-tonne air cargo payloads of perishable food to Qatar. More shipments by air and sea are underway. ](/news/2017/06/11/iran-has-sent-five-90-tonne-air-cargo-payloads-of-perishable-food-to-qatar-more-shipments-by-air-and-sea-are-underway.md)
 Three ships loaded with 350 tonnes of food were also set to leave an Iranian port for Qatar.
 
+### [Saif al-Islam Gaddafi, son of late Muammar Gaddafi, is released in Zintan after requests from the eastern Libya-based government. He is sought by the International Criminal Court and was condemned to the death penalty by the Tripoli-based government. His whereabouts are now unknown. ](/news/2017/06/11/saif-al-islam-gaddafi-son-of-late-muammar-gaddafi-is-released-in-zintan-after-requests-from-the-eastern-libya-based-government-he-is-soug.md)
+Saif al-Islam Gaddafi has been freed by an armed group in western Libya where he was being held following the 2011 revolt against his late father, former leader Muammar Gaddafi, one of his lawyers and the brigade involved said.
+
 ### [Voters in Kosovo go to the polls for a snap election to replace the government of Prime Minister Isa Mustafa, who was removed from office in a no-confidence motion last month. ](/news/2017/06/11/voters-in-kosovo-go-to-the-polls-for-a-snap-election-to-replace-the-government-of-prime-minister-isa-mustafa-who-was-removed-from-office-in.md)
 _Context: Isa Mustafa, Kosovan parliamentary election, 2017, Kosovo, Prime Minister_
 
@@ -29,14 +32,14 @@ U.S. special forces are aiding troops from the Philippines in attempting to brea
 ### [An Afghan soldier kills 3 U.S. troops and injures 1 other in Achin, Nangarhar Province. The Taliban claims responsibility, saying the Afghan soldier was one of several Taliban infiltrators in the Afghan Armed Forces. ](/news/2017/06/10/an-afghan-soldier-kills-3-u-s-troops-and-injures-1-other-in-achin-nangarhar-province-the-taliban-claims-responsibility-saying-the-afghan.md)
 Attack comes shortly after US airstrike killed two Afghan border police, according to Helmand governor, as Trump considers sending more troops
 
+### [Eight people are injured, two seriously, when a car drives into several people in front of the Amsterdam Centraal station in the Netherlands. Police say the driver may have taken ill; they are not treating this as terrorism-related. ](/news/2017/06/10/eight-people-are-injured-two-seriously-when-a-car-drives-into-several-people-in-front-of-the-amsterdam-centraal-station-in-the-netherlands.md)
+Eight people were injured in an incident involving a car in front of Amsterdam&#8217;s main railway station on Saturday night...
+
 ### [A 50-year-old man opens fire on passers-by in Kratovo, Russia, killing four people. ](/news/2017/06/10/a-50-year-old-man-opens-fire-on-passers-by-in-kratovo-russia-killing-four-people.md)
 Police have confirmed the deaths of four people after a shooting spree in the village of Kratovo, southeast of Moscow, where a man barricaded himself in his home and opened fire on by-passers. He managed to escape during the police raid. 
 
 ### [Quebec police shoot and kill a 19-year-old suspect following a stabbing spree in the village of Akulivik which left three people dead and two others critically injured. ](/news/2017/06/10/quebec-police-shoot-and-kill-a-19-year-old-suspect-following-a-stabbing-spree-in-the-village-of-akulivik-which-left-three-people-dead-and-tw.md)
 A 19-year-old individual was shot and killed by police in the northern Quebec village of Akulivik, after stabbings that killed three people and injured two others, provincial authorities said Saturday.
-
-### [Eight people are injured, two seriously, when a car drives into several people in front of the Amsterdam Centraal station in the Netherlands. Police say the driver may have taken ill; they are not treating this as terrorism-related. ](/news/2017/06/10/eight-people-are-injured-two-seriously-when-a-car-drives-into-several-people-in-front-of-the-amsterdam-centraal-station-in-the-netherlands.md)
-Eight people were injured in an incident involving a car in front of Amsterdam&#8217;s main railway station on Saturday night...
 
 ### [Zimbabwe president Robert Mugabe fires prosecutor Johannes Tomana. ](/news/2017/06/10/zimbabwe-president-robert-mugabe-fires-prosecutor-johannes-tomana.md)
 The official had dropped charges against two soldiers accused of plotting against a Mugabe property.

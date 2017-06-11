@@ -6,14 +6,14 @@ U.S. special forces are aiding troops from the Philippines in attempting to brea
 ### [An Afghan soldier kills 3 U.S. troops and injures 1 other in Achin, Nangarhar Province. The Taliban claims responsibility, saying the Afghan soldier was one of several Taliban infiltrators in the Afghan Armed Forces. ](/news/2017/06/10/an-afghan-soldier-kills-3-u-s-troops-and-injures-1-other-in-achin-nangarhar-province-the-taliban-claims-responsibility-saying-the-afghan.md)
 Attack comes shortly after US airstrike killed two Afghan border police, according to Helmand governor, as Trump considers sending more troops
 
+### [Eight people are injured, two seriously, when a car drives into several people in front of the Amsterdam Centraal station in the Netherlands. Police say the driver may have taken ill; they are not treating this as terrorism-related. ](/news/2017/06/10/eight-people-are-injured-two-seriously-when-a-car-drives-into-several-people-in-front-of-the-amsterdam-centraal-station-in-the-netherlands.md)
+Eight people were injured in an incident involving a car in front of Amsterdam&#8217;s main railway station on Saturday night...
+
 ### [A 50-year-old man opens fire on passers-by in Kratovo, Russia, killing four people. ](/news/2017/06/10/a-50-year-old-man-opens-fire-on-passers-by-in-kratovo-russia-killing-four-people.md)
 Police have confirmed the deaths of four people after a shooting spree in the village of Kratovo, southeast of Moscow, where a man barricaded himself in his home and opened fire on by-passers. He managed to escape during the police raid. 
 
 ### [Quebec police shoot and kill a 19-year-old suspect following a stabbing spree in the village of Akulivik which left three people dead and two others critically injured. ](/news/2017/06/10/quebec-police-shoot-and-kill-a-19-year-old-suspect-following-a-stabbing-spree-in-the-village-of-akulivik-which-left-three-people-dead-and-tw.md)
 A 19-year-old individual was shot and killed by police in the northern Quebec village of Akulivik, after stabbings that killed three people and injured two others, provincial authorities said Saturday.
-
-### [Eight people are injured, two seriously, when a car drives into several people in front of the Amsterdam Centraal station in the Netherlands. Police say the driver may have taken ill; they are not treating this as terrorism-related. ](/news/2017/06/10/eight-people-are-injured-two-seriously-when-a-car-drives-into-several-people-in-front-of-the-amsterdam-centraal-station-in-the-netherlands.md)
-Eight people were injured in an incident involving a car in front of Amsterdam&#8217;s main railway station on Saturday night...
 
 ### [Zimbabwe president Robert Mugabe fires prosecutor Johannes Tomana. ](/news/2017/06/10/zimbabwe-president-robert-mugabe-fires-prosecutor-johannes-tomana.md)
 The official had dropped charges against two soldiers accused of plotting against a Mugabe property.
