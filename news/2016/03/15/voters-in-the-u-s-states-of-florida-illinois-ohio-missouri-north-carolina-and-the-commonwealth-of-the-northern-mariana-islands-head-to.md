@@ -14,7 +14,7 @@ Americans in five major states prepared to vote Tuesday in make-or-break preside
 5. [Fox News](http://www.foxnews.com/politics/elections/2016/live-blog)
 6. [NBC News Live Blog](http://www.nbcnews.com/politics/2016-election/2016-candidates-aim-change-race-huge-tuesday-primaries-loom-n537966?cid=eml_nbn_20160315)
 7. [NBC News](http://www.nbcnews.com/video/watch-live-clinton-speaks-after-primary-results-322524227825)
-8. [NPR](http://www.npr.org/2016/03/10/469548881/north-carolinas-congressional-primaries-are-a-mess-because-of-these-maps?utm_medium=RSS&utm_campaign=storiesfromnpr)
+8. [NPR](http://www.npr.org/2016/03/10/469548881/north-carolinas-congressional-primaries-are-a-mess-because-of-these-maps)
 9. [NY Daily News](http://www.nydailynews.com/news/politics/trump-builds-gop-delegate-lead-big-florida-win-article-1.2565714)
 10. [Politico](http://www.politico.com/blogs/2016-gop-primary-live-updates-and-results/2016/03/trump-wins-9-delegates-in-northern-marina-islands-220763)
 11. [The Nation'' via ''Moyers & Company](http://billmoyers.com/story/north-carolinas-voter-id-law-could-block-218000-registered-voters-from-the-polls/)

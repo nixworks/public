@@ -2,12 +2,12 @@
 
 # Three top staffers leave the Democratic National Committee 100 days before elections in early November as a result of the email leak. 
 
-Three top Democratic National Committee officials resigned from their posts in the wake of a recent hack that made thousands of internal emails public, incoming DNC Chairwoman Donna Brazile announced Tuesday. Chief Executive Officer Amy Dacey, Communications Director Luis Miranda and Chief Financial Officer Brad Marshall have each left the DNC less than 100 days out from the general election. The departures come a week after hacked DNC emails, made public by WikiLeaks, showed party officials conspiring against Bernie Sanders throughout the Democratic primary. Brazile had nothing but compliments for the three departing officials. Thanks in part to the hard work of Amy, Luis, and Brad, the Democratic Party has adopted the most progressive platform in history, has put itself in financial position to win in November, and has begun the important work of investing in state party partnerships, Brazile said in a statement. I&#039;m so grateful for their commitment to this cause, and I wish them continued success in the next chapter of their career. 
+The departures come a week after hacked DNC emails showed party officials conspiring against Sanders.
 
 
 ### Source:
 
-1. [Washington Examiner](http://www.washingtonexaminer.com/dnc-collapse-top-staffers-leave-100-days-before-the-election/article/2598408?utm_campaign=Washington%20Examiner:%20News%20From&utm_source=Washington%20Examiner:%20News%20From%20-%2008/02/16&utm_medium=email)
+1. [Washington Examiner](http://www.washingtonexaminer.com/dnc-collapse-top-staffers-leave-100-days-before-the-election/article/2598408)
 
 ### Related:
 

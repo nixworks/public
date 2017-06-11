@@ -7,7 +7,7 @@ The Bulletin of Atomic Scientists singled out President Trump in noting that the
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2017/01/26/the-doomsday-clock-just-moved-again-its-now-two-and-a-half-minutes-to-midnight/?utm_term=.da9c21c6936f)
+1. [The Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2017/01/26/the-doomsday-clock-just-moved-again-its-now-two-and-a-half-minutes-to-midnight/)
 
 ### Related:
 

@@ -10,7 +10,7 @@ Hour-by-hour news, analysis, exit polls and results throughout the day of the co
 1. [Alaska](http://www.nbcnews.com/politics/2016-election/primaries/AK)
 2. [BBC](http://www.bbc.com/news/election-us-2016-35655400)
 3. [CNN](http://www.cnn.com/2016/02/29/politics/super-tuesday-republicans-democrats-vote/)
-4. [New York Post](http://nypost.com/2016/03/01/super-tuesdays-winners-and-losers-state-by-state/?utm_medium=email&utm_campaign=NY%2520Post%2520Breaking%2520News&utm_source=Sailthru&utm_term=breakingnews_exclusives)
+4. [New York Post](http://nypost.com/2016/03/01/super-tuesdays-winners-and-losers-state-by-state/)
 5. [New York Times](http://www.nytimes.com/elections/results)
 6. [New York Times](http://www.nytimes.com/elections/results/arkansasv)
 7. [New York Times](https://en.wikipedia.org/w/index.php?title=Portal:Current_events/2016_March_1&action=edit&editintro=Portal:Current_events/Edit_instructions)

@@ -7,7 +7,7 @@ Six people were killed in Virginia and 10 others hospitalized when the van in wh
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-virginia-crash-idUSKCN0Z40O2?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+1. [Reuters](http://www.reuters.com/article/us-virginia-crash-idUSKCN0Z40O2?feedType=RSS&feedName=topNews)
 
 ### Related:
 

@@ -7,7 +7,7 @@ The Italian coastguard Monday rescued 1,850 migrants in eight operations in the 
 
 ### Source:
 
-1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/World/2016/Apr-11/346873-italy-rescues-1850-migrants-in-strait-of-sicily.ashx?utm_content=buffer000fa&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/World/2016/Apr-11/346873-italy-rescues-1850-migrants-in-strait-of-sicily.ashx)
 
 ### Related:
 

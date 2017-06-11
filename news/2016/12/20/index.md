@@ -37,7 +37,7 @@ _Context: China-United States relations, People's Republic of China, South China
 _Context: Indonesia, Indonesian Papua_
 
 ### [U.S. President Barack Obama and Canadian Prime Minister Justin Trudeau jointly ban offshore oil drilling in the Arctic Ocean and parts of the Atlantic coast. ](/news/2016/12/20/u-s-president-barack-obama-and-canadian-prime-minister-justin-trudeau-jointly-ban-offshore-oil-drilling-in-the-arctic-ocean-and-parts-of-th.md)
-President Obama took the historic step to ban offshore oil drilling in the Arctic and off the Atlantic coastline, the White House announced Tuesday afternoon. The action represents a partnership between the United States and Canada to build a strong Arctic economy, preserve a healthy Arctic ecosystem and protect our fragile Arctic waters, including designating the bulk of our Arctic water and certain areas in the Atlantic Ocean as indefinitely off limits to future oil and gas leasing, the White House said. The actions, and Canada&#039;s parallel actions, reflect the scientific assessment that, even with the high safety standards that both our countries have put in place, the risks of an oil spill in this region are significant and our ability to clean up from a spill in the region&#039;s harsh conditions is limited, the White House said. By contrast, it would take decades to fully develop the production infrastructure necessary for any large-scale oil and gas leasing production in the region — at a time when we need to continue to move decisively away from fossil fuels, according to the statement. 
+In 2015, 0.1 percent of U.S. federal offshore crude production came from the Arctic, White House says.
 
 ## [Previous Day...](/news/2016/12/19/index.md)
 

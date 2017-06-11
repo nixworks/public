@@ -7,7 +7,7 @@ Without President Trump or anyone from the administration in attendance, the nor
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/reliable-source/wp/2017/04/29/a-different-sort-of-white-house-correspondents-dinner/?utm_term=.2426c01397f2)
+1. [The Washington Post](https://www.washingtonpost.com/news/reliable-source/wp/2017/04/29/a-different-sort-of-white-house-correspondents-dinner/)
 
 ### Related:
 

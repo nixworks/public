@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/asia_pacific/nepal-proposes-constitution-amendment-to-meet-ethnic-demands/2016/11/29/413da3d2-b6b7-11e6-939c-91749443c5e5_story.html?utm_term=.25709d02d7ef)
+1. [The Washington Post](https://www.washingtonpost.com/world/asia_pacific/nepal-proposes-constitution-amendment-to-meet-ethnic-demands/2016/11/29/413da3d2-b6b7-11e6-939c-91749443c5e5_story.html)
 
 ### Related:
 

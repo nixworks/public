@@ -9,7 +9,7 @@ The most controversial Cabinet pick in recent memory squeaks through with some h
 
 1. [NPR](http://www.npr.org/sections/ed/2017/02/07/513739920/betsy-devos-confirmed-as-education-secretary)
 2. [NPR²](http://www.npr.org/2017/02/07/513836576/pence-becomes-first-vp-to-break-senate-tie-over-cabinet-nomination)
-3. [The Washington Post](https://www.washingtonpost.com/news/powerpost/wp/2017/02/07/republicans-vote-to-rebuke-elizabeth-warren-for-impugning-sessionss-character/?tid=a_inl&utm_term=.b227c691d8c1)
+3. [The Washington Post](https://www.washingtonpost.com/news/powerpost/wp/2017/02/07/republicans-vote-to-rebuke-elizabeth-warren-for-impugning-sessionss-character/?tid=a_inl)
 
 ### Related:
 

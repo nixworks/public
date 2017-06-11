@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2017/04/15/trump-says-he-cant-be-sued-for-violence-at-his-rallies-because-he-won-the-election/?utm_term=.8a9947950dff)
+1. [The Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2017/04/15/trump-says-he-cant-be-sued-for-violence-at-his-rallies-because-he-won-the-election/)
 
 ### Related:
 

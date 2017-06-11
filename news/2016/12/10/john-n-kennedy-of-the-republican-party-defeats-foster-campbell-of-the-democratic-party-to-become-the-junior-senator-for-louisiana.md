@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/12/10/louisiana-republican-wins-final-unsettled-u-s-senate-race/?utm_term=.9d22eaa61298&wpisrc=al_alert-COMBO-politics%252Bnation)
+1. [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2016/12/10/louisiana-republican-wins-final-unsettled-u-s-senate-race/?wpisrc=al_alert-COMBO-politics%252Bnation)
 
 ### Related:
 

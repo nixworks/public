@@ -7,7 +7,7 @@ The United States shot down a pro-Syrian government drone that fired toward U.S.
 
 ### Source:
 
-1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/national-security/us-drone-fired-on-us-backed-forces-near-syrian-rebel-camp/2017/06/08/ff23bdca-4c6a-11e7-987c-42ab5745db2e_story.html?utm_term=.d657960dc945)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/national-security/us-drone-fired-on-us-backed-forces-near-syrian-rebel-camp/2017/06/08/ff23bdca-4c6a-11e7-987c-42ab5745db2e_story.html)
 2. [CNN](http://www.cnn.com/2017/06/07/politics/us-led-coalition-syria-strike-at-tanf/index.html)
 3. [Reuters](https://www.reuters.com/article/us-mideast-crisis-usa-syria-idUSKBN18Z2CP?il=0)
 

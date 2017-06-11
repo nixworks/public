@@ -28,7 +28,7 @@ Russia has banned Jehovah&#039;s Witnesses after the Supreme Court ruled the Chr
 The government has revoked the registration of Public Health Foundation of India (PHFI), an NGO funded by Bill &amp; Melinda Gates Foundation, under the Foreign Contributions (Regulation) Act over alleged misuse of foreign funds for anti-tobacco lobbying, in violation of FCRA norms.
 
 ### [A ten-year-old boy from Florida with autism is arrested at school, and spends the night in a juvenile facility. Unknown to the family, the boy had an outstanding warrant for his arrest after kicking and scratching one of his educators. The Autism Society of America is looking into legal options. ](/news/2017/04/20/a-ten-year-old-boy-from-florida-with-autism-is-arrested-at-school-and-spends-the-night-in-a-juvenile-facility-unknown-to-the-family-the-b.md)
-_Context: Autism Society of America, Florida, autism_
+John Benjamin Haygood was arrested on felony battery charges &mdash; but a Florida prosecutor plans to offer him a &ldquo;nonjudicial sanction.&rdquo; His mother, however, said that her son &ldquo;didn&rsquo;t do anything wrong.&rdquo;
 
 ### [ISIL supporter, Terrence J. McNeil, of Akron, Ohio, pleads guilty to five counts of soliciting to commit criminal violence and communicating interstate threats in calls to kill U.S. military personnel.  He is scheduled to be sentenced in August and faces up to 20 years in prison.](/news/2017/04/20/isil-supporter-terrence-j-mcneil-of-akron-ohio-pleads-guilty-to-five-counts-of-soliciting-to-commit-criminal-violence-and-communicating.md)
 Terrence McNeil of Akron faces 15 to 20 years in prison.

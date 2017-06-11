@@ -7,7 +7,7 @@ FBI Director James B. Comey and Adm. Mike Rogers, director of the NSA, will be i
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/powerpost/five-things-to-watch-at-the-house-intelligence-committee-russia-hearing/2017/03/19/53f7a492-0cb5-11e7-9b0d-d27c98455440_story.html?utm_term=.0968619fc40d)
+1. [The Washington Post](https://www.washingtonpost.com/powerpost/five-things-to-watch-at-the-house-intelligence-committee-russia-hearing/2017/03/19/53f7a492-0cb5-11e7-9b0d-d27c98455440_story.html)
 
 ### Related:
 

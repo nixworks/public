@@ -2,13 +2,13 @@
 
 # U.S. President Barack Obama and Canadian Prime Minister Justin Trudeau jointly ban offshore oil drilling in the Arctic Ocean and parts of the Atlantic coast. 
 
-President Obama took the historic step to ban offshore oil drilling in the Arctic and off the Atlantic coastline, the White House announced Tuesday afternoon. The action represents a partnership between the United States and Canada to build a strong Arctic economy, preserve a healthy Arctic ecosystem and protect our fragile Arctic waters, including designating the bulk of our Arctic water and certain areas in the Atlantic Ocean as indefinitely off limits to future oil and gas leasing, the White House said. The actions, and Canada&#039;s parallel actions, reflect the scientific assessment that, even with the high safety standards that both our countries have put in place, the risks of an oil spill in this region are significant and our ability to clean up from a spill in the region&#039;s harsh conditions is limited, the White House said. By contrast, it would take decades to fully develop the production infrastructure necessary for any large-scale oil and gas leasing production in the region — at a time when we need to continue to move decisively away from fossil fuels, according to the statement. 
+In 2015, 0.1 percent of U.S. federal offshore crude production came from the Arctic, White House says.
 
 
 ### Source:
 
 1. [Toronto Star](https://www.thestar.com/news/canada/2016/12/20/canada-us-announce-ban-on-offshore-oil-gas-licenses-in-arctic.html)
-2. [Washington Examiner](http://www.washingtonexaminer.com/president-obama-bans-offshore-drilling-in-arctic-atlantic/article/2610103?utm_campaign=Washington%20Examiner:%20Breaking%20News%20Alert&utm_source=Washington%20Examiner:%20Breaking%20News%20Alert%20-%2012/20/16&utm_medium=email)
+2. [Washington Examiner](http://www.washingtonexaminer.com/president-obama-bans-offshore-drilling-in-arctic-atlantic/article/2610103)
 
 ### Related:
 

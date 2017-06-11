@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-saudi-security-idUSKBN17W0H3?utm_source=Sailthru&utm_medium=email&utm_campaign=EBB%205.01.2017&utm_term=Editorial%20-%20Early%20Bird%20Brief)
+1. [Reuters](http://www.reuters.com/article/us-saudi-security-idUSKBN17W0H3)
 
 ### Related:
 

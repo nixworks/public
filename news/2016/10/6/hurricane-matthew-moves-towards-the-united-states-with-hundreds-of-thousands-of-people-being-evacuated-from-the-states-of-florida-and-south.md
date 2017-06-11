@@ -2,7 +2,7 @@
 
 # Hurricane Matthew moves towards the United States with hundreds of thousands of people being evacuated from the states of Florida and South Carolina. 
 
-President Barack Obama&rsquo;s declaration, requested by Florida Gov. Rick Scott, authorizes federal aid to deal with what&rsquo;s expected to be a very damaging storm.
+Tropical storm conditions expected to reach parts of the Florida coast by early Thursday.
 
 
 ### Source:
@@ -12,7 +12,7 @@ President Barack Obama&rsquo;s declaration, requested by Florida Gov. Rick Scott
 3. [The Miami Herald](http://www.miamiherald.com/news/weather/hurricane/article106421797.html)
 4. [The National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/061755.shtml)
 5. [The National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/062354.shtml?)
-6. [USA Today](http://www.usatoday.com/story/weather/2016/10/05/hurricane-matthew-leaves-11-dead-path-toward-us/91596552/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=usatoday-newstopstories)
+6. [USA Today](http://www.usatoday.com/story/weather/2016/10/05/hurricane-matthew-leaves-11-dead-path-toward-us/91596552/)
 
 ### Related:
 

@@ -37,7 +37,7 @@ President-elect’s former rival for Republican presidential nomination says he 
 _Context: Italian Prime Minister, Italian constitutional referendum, 2016, Matteo Renzi, the "No" vote_
 
 ### [Manuel Valls, the Prime Minister of France, announces his candidacy for the Socialist Party nomination. He will step down as PM on Tuesday. ](/news/2016/12/5/manuel-valls-the-prime-minister-of-france-announces-his-candidacy-for-the-socialist-party-nomination-he-will-step-down-as-pm-on-tuesday.md)
-_Context: French presidential election, 2017, Manuel Valls, PS, Prime Minister_
+_Context: Manuel Valls, PS, Prime Minister, last month's presidential election_
 
 ### [Tests,  by a  team of international archaeologists,   of mummified legs  found in QV66 in Egypt's Valley of the Queens indicate they most likely  belong to  Queen Nefertari, Pharaoh Ramesses II's first and favorite wife.  ](/news/2016/12/5/tests-by-a-team-of-international-archaeologists-of-mummified-legs-found-in-qv66-in-egypt-s-valley-of-the-queens-indicate-they-most-li.md)
 A team of international archaeologists believe a pair of mummified legs on display in an Italian museum may belong to Egyptian Queen Nefertari - the favourite wife of the pharaoh Ramses II.

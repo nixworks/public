@@ -28,7 +28,7 @@ _Context: Chipotle Mexican Grill_
 Police say two men were stabbed to death when they tried to intervene as a man shouted hate speech at two young women
 
 ### [Polish-American diplomat Zbigniew Brzezinski, counselor to President Lyndon B. Johnson (1966-1968) and President Jimmy Carter's National Security Advisor (1977-1981) dies at the age of 89. ](/news/2017/05/26/polish-american-diplomat-zbigniew-brzezinski-counselor-to-president-lyndon-b-johnson-1966a1968-and-president-jimmy-carter-s-national-s.md)
-President Carter&rsquo;s national security adviser, Zbigniew Brzezinski, has died.
+_Context: Jimmy Carter, Lyndon B. Johnson, National Security Advisor, Zbigniew Brzezinski, diplomat_
 
 ### [Construction begins on the European Extremely Large Telescope (ELT) in northern Chile. The ELT is expected to become operational in 2024. ](/news/2017/05/26/construction-begins-on-the-european-extremely-large-telescope-elt-in-northern-chile-the-elt-is-expected-to-become-operational-in-2024.md)
 _Context: Chile, European Extremely Large Telescope_

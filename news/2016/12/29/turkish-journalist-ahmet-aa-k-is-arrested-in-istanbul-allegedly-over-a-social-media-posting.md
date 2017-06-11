@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/world/middle_east/turkish-journalist-detained-over-social-media-postings/2016/12/29/0f2e60de-cda5-11e6-85cd-e66532e35a44_story.html?utm_term=.92011bffaf11)
+1. [Washington Post](https://www.washingtonpost.com/world/middle_east/turkish-journalist-detained-over-social-media-postings/2016/12/29/0f2e60de-cda5-11e6-85cd-e66532e35a44_story.html)
 
 ### Related:
 

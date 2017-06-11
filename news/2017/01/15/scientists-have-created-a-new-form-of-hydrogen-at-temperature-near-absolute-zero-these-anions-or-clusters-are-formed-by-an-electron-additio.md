@@ -8,7 +8,7 @@ As the element that makes up 75 percent of all the mass in the Universe, and mor
 ### Source:
 
 1. [Science Alert](http://www.sciencealert.com/physicists-have-created-a-new-form-of-hydrogen)
-2. [Science News](https://www.sciencenews.org/article/new-form-hydrogen-created?utm_source=Society+for+Science+Newsletters&utm_campaign=b90b119652-editors_picks_week_of_010917&utm_medium=email&utm_term=0_a4c415a67f-b90b119652-104537829)
+2. [Science News](https://www.sciencenews.org/article/new-form-hydrogen-created)
 
 ### Related:
 

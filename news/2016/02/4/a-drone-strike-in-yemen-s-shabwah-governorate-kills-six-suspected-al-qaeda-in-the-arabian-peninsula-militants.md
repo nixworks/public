@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/Breaking-News/Drone-strike-kills-six-suspected-militants-in-central-Yemen-443798?utm_source=dlvr.it&utm_medium=twitter)
+1. [Jerusalem Post](http://www.jpost.com/Breaking-News/Drone-strike-kills-six-suspected-militants-in-central-Yemen-443798)
 
 ### Related:
 

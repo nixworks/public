@@ -8,7 +8,7 @@ The president was boasting of the &ldquo;great intel&rdquo; he receives when he 
 ### Source:
 
 1. [Reuters](https://www.nytimes.com/2017/05/15/us/politics/trump-russia-classified-information-isis.html?_r=0)
-2. [The Washington Post](https://www.washingtonpost.com/world/national-security/trump-revealed-highly-classified-information-to-russian-foreign-minister-and-ambassador/2017/05/15/530c172a-3960-11e7-9e48-c4f199710b69_story.html?utm_term=.b35c54b2a04d)
+2. [The Washington Post](https://www.washingtonpost.com/world/national-security/trump-revealed-highly-classified-information-to-russian-foreign-minister-and-ambassador/2017/05/15/530c172a-3960-11e7-9e48-c4f199710b69_story.html)
 
 ### Related:
 

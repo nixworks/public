@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP via ''Washington Post](https://www.washingtonpost.com/world/asia_pacific/thousands-join-blasphemy-protest-in-indonesian-capital/2016/12/01/894e8d1a-b82b-11e6-939c-91749443c5e5_story.html?utm_term=.ed55c3241e6b)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/asia_pacific/thousands-join-blasphemy-protest-in-indonesian-capital/2016/12/01/894e8d1a-b82b-11e6-939c-91749443c5e5_story.html)
 
 ### Related:
 

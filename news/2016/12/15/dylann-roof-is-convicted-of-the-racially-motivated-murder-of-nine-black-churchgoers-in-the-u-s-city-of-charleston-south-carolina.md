@@ -7,7 +7,7 @@ Admitted white nationalist Dylann Roof was quickly convicted by a South Carolina
 
 ### Source:
 
-1. [New York Post](http://nypost.com/2016/12/15/dylann-roof-convicted-in-racially-motivated-church-massacre/?utm_source=maropost&utm_medium=email&utm_campaign=news_alert&utm_content=20161215)
+1. [New York Post](http://nypost.com/2016/12/15/dylann-roof-convicted-in-racially-motivated-church-massacre/)
 
 ### Related:
 

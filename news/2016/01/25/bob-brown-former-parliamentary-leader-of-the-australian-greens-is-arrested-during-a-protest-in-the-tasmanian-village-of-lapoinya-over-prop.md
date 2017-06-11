@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/national-affairs/bob-brown-arrested-in-tasmania-during-logging-protest/news-story/8749ebc5e99db335cf30ae6575d44a7a?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A%20TheAustralianTheNationNews%20(The%20Australian%20%7C%20The%20Nation))
+1. [The Australian](http://www.theaustralian.com.au/national-affairs/bob-brown-arrested-in-tasmania-during-logging-protest/news-story/8749ebc5e99db335cf30ae6575d44a7a)
 
 ### Related:
 

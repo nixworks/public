@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/Breaking-News/IDF-arrests-15-Palestinian-suspects-overnight-in-West-Bank-447722?utm_source=dlvr.it&utm_medium=twitter)
+1. [Jerusalem Post](http://www.jpost.com/Breaking-News/IDF-arrests-15-Palestinian-suspects-overnight-in-West-Bank-447722)
 
 ### Related:
 

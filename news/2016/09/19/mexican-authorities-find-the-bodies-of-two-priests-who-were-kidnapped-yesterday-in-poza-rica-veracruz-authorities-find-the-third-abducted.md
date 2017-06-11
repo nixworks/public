@@ -2,12 +2,12 @@
 
 # Mexican authorities find the bodies of two priests who were kidnapped yesterday in Poza Rica, Veracruz. Authorities find the third abducted person, the driver, alive. 
 
-MEXICO CITY (AP) — Two priests were found dead Monday, hours after they were abducted in Mexico&#039;s Gulf coast state of Veracruz. The Veracruz state prosecutors&#039; office said the two men were kidnapped Sunday in the northern…
+
 
 
 ### Source:
 
-1. [AP](http://bigstory.ap.org/article/3247ebf1313241c88a1bafc2ea2f9021/2-priests-found-dead-after-being-kidnapped-mexico?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP)
+1. [AP](http://bigstory.ap.org/article/3247ebf1313241c88a1bafc2ea2f9021/2-priests-found-dead-after-being-kidnapped-mexico)
 
 ### Related:
 

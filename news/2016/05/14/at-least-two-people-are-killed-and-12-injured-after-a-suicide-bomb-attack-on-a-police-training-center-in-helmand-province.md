@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Stars and Stripes](http://www.stripes.com/news/suicide-bomber-at-afghan-police-training-center-in-helmand-kills-2-1.409539?utm_source=twitterfeed&utm_medium=twitter)
+1. [Stars and Stripes](http://www.stripes.com/news/suicide-bomber-at-afghan-police-training-center-in-helmand-kills-2-1.409539)
 
 ### Related:
 

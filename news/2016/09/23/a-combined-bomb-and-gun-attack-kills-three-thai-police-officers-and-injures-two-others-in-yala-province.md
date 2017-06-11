@@ -7,7 +7,7 @@ Three Thai policemen were killed and two wounded on Friday in a bomb and gun att
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-thailand-blast-idUSKCN11T0S3?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+1. [Reuters](http://www.reuters.com/article/us-thailand-blast-idUSKCN11T0S3?feedType=RSS&feedName=topNews)
 
 ### Related:
 

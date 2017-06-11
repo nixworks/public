@@ -8,7 +8,7 @@
 ### Source:
 
 1. [Digi 24](http://www.digi24.ro/stiri/actualitate/evenimente/impuscaturi-la-palilula-o-persoana-a-murit-624439)
-2. [Realitatea.net](https://www.realitatea.net/impu-caturi-in-plina-strada-in-dolj-o-persoana-a-murit-iar-alte-doua-sunt-grav-ranite_2009089.html?utm_source=Cub-Homepage&utm_medium=Clicks&utm_campaign=trkweb)
+2. [Realitatea.net](https://www.realitatea.net/impu-caturi-in-plina-strada-in-dolj-o-persoana-a-murit-iar-alte-doua-sunt-grav-ranite_2009089.html)
 
 ### Related:
 

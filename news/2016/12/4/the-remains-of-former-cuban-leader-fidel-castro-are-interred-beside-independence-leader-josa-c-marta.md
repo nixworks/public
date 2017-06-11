@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters via ''Jerusalem Post](http://www.jpost.com/Breaking-News/Castro-to-be-laid-to-rest-next-to-Cuban-independence-hero-Marti-474379?utm_source=dlvr.it&utm_medium=twitter)
+1. [Reuters via ''Jerusalem Post](http://www.jpost.com/Breaking-News/Castro-to-be-laid-to-rest-next-to-Cuban-independence-hero-Marti-474379)
 
 ### Related:
 

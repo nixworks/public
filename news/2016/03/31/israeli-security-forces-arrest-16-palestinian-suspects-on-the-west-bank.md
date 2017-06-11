@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/Breaking-News/Security-forces-arrest-16-Palestinian-suspects-in-West-Bank-sweeps-449826?utm_source=dlvr.it&utm_medium=twitter)
+1. [Jerusalem Post](http://www.jpost.com/Breaking-News/Security-forces-arrest-16-Palestinian-suspects-in-West-Bank-sweeps-449826)
 
 ### Related:
 

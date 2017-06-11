@@ -8,7 +8,7 @@
 ### Source:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-09-04-AS--Hong%20Kong-Election/id-71cfe6d3c202427486a31a75a1f9bc66)
-2. [Reuters](http://www.reuters.com/article/us-hongkong-election-idUSKCN11A16Y?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+2. [Reuters](http://www.reuters.com/article/us-hongkong-election-idUSKCN11A16Y?feedType=RSS&feedName=topNews)
 
 ### Related:
 

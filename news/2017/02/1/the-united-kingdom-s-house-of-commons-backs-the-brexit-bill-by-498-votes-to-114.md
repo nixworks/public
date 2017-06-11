@@ -7,7 +7,7 @@ The House of Commons vote was a crucial hurdle on the way to the country&rsquo;s
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/europe/british-lawmakers-give-theresa-may-the-go-ahead-to-trigger-brexit-talks/2017/02/01/3476cbfc-e825-11e6-903d-9b11ed7d8d2a_story.html?utm_term=.059dd4c5aab5)
+1. [The Washington Post](https://www.washingtonpost.com/world/europe/british-lawmakers-give-theresa-may-the-go-ahead-to-trigger-brexit-talks/2017/02/01/3476cbfc-e825-11e6-903d-9b11ed7d8d2a_story.html)
 
 ### Related:
 

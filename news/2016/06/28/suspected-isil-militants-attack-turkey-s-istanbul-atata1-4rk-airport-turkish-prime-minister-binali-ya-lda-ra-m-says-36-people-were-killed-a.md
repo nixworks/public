@@ -10,7 +10,7 @@ A suicide bomb and gun attack at Istanbul airport kills 41 people, at least 13 o
 1. [AP via ''Toronto Star](https://www.thestar.com/news/world/2016/06/28/explosions-rock-istanbul-airport-say-turkish-officials.html)
 2. [AP](http://www.bigstory.ap.org/article/4f2da830f3dc423e92d07e89623bca52/suicide-blasts-kill-dozens-istanbul-airport)
 3. [BBC](http://www.bbc.co.uk/news/world-europe-36658187)
-4. [The Australian](http://www.theaustralian.com.au/news/world/istanbul-airport-attack-several-killed-in-explosions/news-story/b4e50bc0f121945dcba758ac1b2fe24f?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A%20TheAustralianNewsNDM%20(The%20Australian%20%7C%20News%20%7C))
+4. [The Australian](http://www.theaustralian.com.au/news/world/istanbul-airport-attack-several-killed-in-explosions/news-story/b4e50bc0f121945dcba758ac1b2fe24f)
 5. [The Guardian](https://www.theguardian.com/world/2016/jun/28/turkey-airport-explosions-ataturak-istanbul)
 
 ### Related:

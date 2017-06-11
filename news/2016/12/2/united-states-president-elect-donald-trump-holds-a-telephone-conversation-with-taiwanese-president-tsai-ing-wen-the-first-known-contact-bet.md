@@ -10,7 +10,7 @@ China lodged a diplomatic protest on Saturday after U.S. President-elect Donald 
 1. [CNN](http://www.cnn.com/2016/12/02/politics/donald-trump-taiwan/index.html)
 2. [Reuters](http://www.reuters.com/article/us-usa-trump-taiwan-idUSKBN13R2NT)
 3. [The New York Times](http://www.nytimes.com/2016/12/02/us/politics/trump-speaks-with-taiwans-leader-a-possible-affront-to-china.html?_r=0)
-4. [The Washington Post](https://www.washingtonpost.com/world/national-security/trump-spoke-with-taiwanese-president-a-major-break-with-decades-of-us-policy-on-china/2016/12/02/b98d3a22-b8ca-11e6-959c-172c82123976_story.html?utm_term=.f34c977bf6ef&wpisrc=al_alert-COMBO-world%252Bnation)
+4. [The Washington Post](https://www.washingtonpost.com/world/national-security/trump-spoke-with-taiwanese-president-a-major-break-with-decades-of-us-policy-on-china/2016/12/02/b98d3a22-b8ca-11e6-959c-172c82123976_story.html?wpisrc=al_alert-COMBO-world%252Bnation)
 
 ### Related:
 

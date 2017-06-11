@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/lslamic-state-group-claims-istanbul-new-years-night-club-attack/2017/01/02/0718cf6e-d076-11e6-9651-54a0154cf5b3_story.html?utm_term=.0e5365641e38&wpisrc=al_alert-COMBO-world%252Bnation)
+1. [The Washington Post](https://www.washingtonpost.com/world/lslamic-state-group-claims-istanbul-new-years-night-club-attack/2017/01/02/0718cf6e-d076-11e6-9651-54a0154cf5b3_story.html?wpisrc=al_alert-COMBO-world%252Bnation)
 
 ### Related:
 

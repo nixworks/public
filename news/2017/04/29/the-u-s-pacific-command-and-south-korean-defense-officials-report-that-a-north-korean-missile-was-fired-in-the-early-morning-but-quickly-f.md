@@ -7,7 +7,7 @@ The missile exploded shortly after launch, but Kim&rsquo;s ambitions are clear.
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/north-korea-fires-another-ballistic-missile-the-75th-of-kim-jong-uns-tenure/2017/04/28/c4b7aa8a-2c5c-11e7-9081-f5405f56d3e4_story.html?utm_term=.f033c116eced)
+1. [The Washington Post](https://www.washingtonpost.com/world/north-korea-fires-another-ballistic-missile-the-75th-of-kim-jong-uns-tenure/2017/04/28/c4b7aa8a-2c5c-11e7-9081-f5405f56d3e4_story.html)
 
 ### Related:
 

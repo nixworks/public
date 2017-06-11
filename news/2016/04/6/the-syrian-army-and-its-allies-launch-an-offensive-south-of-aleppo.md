@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/Breaking-News/Syrian-army-allies-launch-large-attack-south-of-Aleppo-450382?utm_source=dlvr.it&utm_medium=twitter)
+1. [Jerusalem Post](http://www.jpost.com/Breaking-News/Syrian-army-allies-launch-large-attack-south-of-Aleppo-450382)
 
 ### Related:
 

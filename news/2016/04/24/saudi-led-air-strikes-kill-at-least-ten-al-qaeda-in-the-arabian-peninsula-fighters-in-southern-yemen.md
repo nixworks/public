@@ -8,8 +8,8 @@
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-yemen-security-qaeda-idUSKCN0XL0BM)
-2. [Reuters](http://www.reuters.com/article/us-yemen-security-qaeda-idUSKCN0XL0BM?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
-3. [Reuters](http://www.reuters.com/article/us-yemen-security-qaeda-idUSKCN0XM0EH?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+2. [Reuters](http://www.reuters.com/article/us-yemen-security-qaeda-idUSKCN0XL0BM?feedType=RSS&feedName=topNews)
+3. [Reuters](http://www.reuters.com/article/us-yemen-security-qaeda-idUSKCN0XM0EH?feedType=RSS&feedName=topNews)
 
 ### Related:
 

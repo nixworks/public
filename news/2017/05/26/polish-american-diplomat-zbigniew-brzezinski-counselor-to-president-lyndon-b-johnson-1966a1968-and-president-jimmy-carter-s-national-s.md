@@ -2,13 +2,13 @@
 
 # Polish-American diplomat Zbigniew Brzezinski, counselor to President Lyndon B. Johnson (1966-1968) and President Jimmy Carter's National Security Advisor (1977-1981) dies at the age of 89. 
 
-President Carter&rsquo;s national security adviser, Zbigniew Brzezinski, has died.
+
 
 
 ### Source:
 
 1. [ (''New York Daily News](http://www.nydailynews.com/news/politics/zbigniew-brzezinski-top-carter-adviser-dead-89-article-1.3199611)
-2. [The Washington Post](https://www.washingtonpost.com/world/national-security/president-carters-national-security-adviser-zbigniew-brzezinski-has-died/2017/05/26/38ae678c-4286-11e7-b29f-f40ffced2ddb_story.html?utm_term=.7022ae943d07)
+2. [The Washington Post](https://www.washingtonpost.com/world/national-security/president-carters-national-security-adviser-zbigniew-brzezinski-has-died/2017/05/26/38ae678c-4286-11e7-b29f-f40ffced2ddb_story.html)
 
 ### Related:
 

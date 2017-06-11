@@ -9,7 +9,7 @@ Barack Obama has rejected claims by Donald Trump that he wiretapped him during t
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2017/03/05/obama-denies-trumps-claim-he-wiretapped-him)
 2. [The New York Times](https://www.nytimes.com/2017/03/04/us/politics/trump-obama-tap-phones.html?_r=0)
-3. [The Washington Post](https://www.washingtonpost.com/politics/trump-accuses-obama-of-nixonwatergate-wiretap--but-offers-no-evidence/2017/03/04/1ddc35e6-0114-11e7-8ebe-6e0dbe4f2bca_story.html?utm_term=.5f60f2f79b8c)
+3. [The Washington Post](https://www.washingtonpost.com/politics/trump-accuses-obama-of-nixonwatergate-wiretap--but-offers-no-evidence/2017/03/04/1ddc35e6-0114-11e7-8ebe-6e0dbe4f2bca_story.html)
 
 ### Related:
 

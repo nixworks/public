@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP via ''Seattle Times](http://www.seattletimes.com/nation-world/nation-politics/apnewsbreak-state-department-reopens-clinton-emails-probe/?utm_content=buffera3096&utm_medium=social&utm_source=twitter&utm_campaign=owned_buffer)
+1. [AP via ''Seattle Times](http://www.seattletimes.com/nation-world/nation-politics/apnewsbreak-state-department-reopens-clinton-emails-probe/)
 
 ### Related:
 

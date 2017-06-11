@@ -8,7 +8,7 @@ She predicted she&#39;d be Trump&#39;s Valerie Jarrett, and it looks like she wa
 ### Source:
 
 1. [The Hill](http://thehill.com/homenews/administration/312681-trump-taps-top-aides-to-rnc-sessions-for-key-white-house-roles)
-2. [The Washington Post](https://www.washingtonpost.com/news/wonk/wp/2017/01/04/trump-to-tap-wall-street-lawyer-jay-clayton-to-head-sec/?utm_term=.93d17ca9d7b8)
+2. [The Washington Post](https://www.washingtonpost.com/news/wonk/wp/2017/01/04/trump-to-tap-wall-street-lawyer-jay-clayton-to-head-sec/)
 3. [USA Today](http://www.usatoday.com/story/life/people/2017/01/04/omarosa-gets-job-trump-white-house-public-liaison-leader/96167028/)
 
 ### Related:

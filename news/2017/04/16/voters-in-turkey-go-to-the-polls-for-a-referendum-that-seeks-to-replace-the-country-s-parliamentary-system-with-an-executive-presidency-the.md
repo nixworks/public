@@ -8,7 +8,7 @@ ISTANBUL (AP) — Turkish President Recep Tayyip Erdogan declared victory in Sun
 ### Source:
 
 1. [AP via Yahoo!](http://finance.yahoo.com/news/polls-open-turkeys-historic-referendum-reforms-040917078.html?soc_trk=gcm&soc_src=4c3f3bad-4244-3150-88fa-52995906cc3a&.tsrc=notification-brknews)
-2. [The Washington Post](https://www.washingtonpost.com/world/turks-to-decide-whether-to-give-erdogan-vastly-increased-powers/2017/04/15/e79812b6-1bda-11e7-bcc2-7d1a0973e7b2_story.html?utm_term=.ca7d9b8020c3)
+2. [The Washington Post](https://www.washingtonpost.com/world/turks-to-decide-whether-to-give-erdogan-vastly-increased-powers/2017/04/15/e79812b6-1bda-11e7-bcc2-7d1a0973e7b2_story.html)
 
 ### Related:
 

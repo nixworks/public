@@ -13,7 +13,7 @@ A bomb attached to a motorbike exploded near a police station in southwest Istan
 _Context: Niger, Tahoua Region, soldiers_
 
 ### [Hurricane Matthew moves towards the United States with hundreds of thousands of people being evacuated from the states of Florida and South Carolina. ](/news/2016/10/6/hurricane-matthew-moves-towards-the-united-states-with-hundreds-of-thousands-of-people-being-evacuated-from-the-states-of-florida-and-south.md)
-President Barack Obama&rsquo;s declaration, requested by Florida Gov. Rick Scott, authorizes federal aid to deal with what&rsquo;s expected to be a very damaging storm.
+Tropical storm conditions expected to reach parts of the Florida coast by early Thursday.
 
 ### [Pakistan's government removes a loophole allowing those behind so-called honor killings to go free with the new legislation instead requiring a mandatory life sentence. ](/news/2016/10/6/pakistan-s-government-removes-a-loophole-allowing-those-behind-so-called-honor-killings-to-go-free-with-the-new-legislation-instead-requirin.md)
 _Context: Pakistan, honor killing_

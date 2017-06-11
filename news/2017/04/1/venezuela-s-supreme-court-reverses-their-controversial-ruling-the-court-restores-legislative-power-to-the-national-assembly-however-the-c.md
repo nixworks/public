@@ -8,7 +8,7 @@ The latest court ruling replaces a previous decision that appeared to completely
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-39468045)
-2. [The Washington Post](https://www.washingtonpost.com/world/the_americas/denounced-as-a-dictatorship-venezuela-backs-down-reverses-court-ruling/2017/04/01/88451da8-1659-11e7-bb16-269934184168_story.html?utm_term=.71e74760c73a)
+2. [The Washington Post](https://www.washingtonpost.com/world/the_americas/denounced-as-a-dictatorship-venezuela-backs-down-reverses-court-ruling/2017/04/01/88451da8-1659-11e7-bb16-269934184168_story.html)
 
 ### Related:
 

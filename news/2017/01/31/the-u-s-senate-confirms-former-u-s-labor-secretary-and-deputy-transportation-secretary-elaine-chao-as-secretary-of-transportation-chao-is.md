@@ -7,7 +7,7 @@ Amid tensions over president&rsquo;s travel ban, a longtime Washington figure is
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/local/trafficandcommuting/trumps-transportation-secretary-pick-elaine-chao-confirmed-in-senate-with-some-top-democrats-balking/2017/01/31/a15c7604-df42-11e6-ad42-f3375f271c9c_story.html?utm_term=.df6807a729e7)
+1. [The Washington Post](https://www.washingtonpost.com/local/trafficandcommuting/trumps-transportation-secretary-pick-elaine-chao-confirmed-in-senate-with-some-top-democrats-balking/2017/01/31/a15c7604-df42-11e6-ad42-f3375f271c9c_story.html)
 
 ### Related:
 

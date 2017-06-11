@@ -7,7 +7,7 @@ Japanese car maker Mitsubishi Motors Corp (7211.T) said on Tuesday it used fuel 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-mitsubishimotors-regulations-idUSKCN0XN0DV?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+1. [Reuters](http://www.reuters.com/article/us-mitsubishimotors-regulations-idUSKCN0XN0DV?feedType=RSS&feedName=topNews)
 
 ### Related:
 

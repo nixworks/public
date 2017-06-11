@@ -7,7 +7,7 @@ Investigators are looking in particular at meetings the president&rsquo;s son-in
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/national-security/jared-kushner-now-a-focus-in-russia-investigation/2017/05/25/f078db74-40c7-11e7-8c25-44d09ff5a4a8_story.html?utm_term=.4d8331a7f9f3)
+1. [The Washington Post](https://www.washingtonpost.com/world/national-security/jared-kushner-now-a-focus-in-russia-investigation/2017/05/25/f078db74-40c7-11e7-8c25-44d09ff5a4a8_story.html)
 
 ### Related:
 

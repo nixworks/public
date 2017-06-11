@@ -8,7 +8,7 @@ North Korea says it has carried out its fifth successful nuclear test - reported
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-37314927)
-2. [Reuters](http://www.reuters.com/article/us-northkorea-nuclear-idUSKCN11F02N?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+2. [Reuters](http://www.reuters.com/article/us-northkorea-nuclear-idUSKCN11F02N?feedType=RSS&feedName=topNews)
 
 ### Related:
 

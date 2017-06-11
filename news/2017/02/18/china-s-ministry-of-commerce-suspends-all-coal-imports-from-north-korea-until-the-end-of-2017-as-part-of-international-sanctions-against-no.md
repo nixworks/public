@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/china-suspends-north-koreas-coal-imports-striking-at-regimes-financial-lifeline/2017/02/18/8390b0e6-f5df-11e6-a9b0-ecee7ce475fc_story.html?utm_term=.f7f436a2eacf)
+1. [The Washington Post](https://www.washingtonpost.com/world/china-suspends-north-koreas-coal-imports-striking-at-regimes-financial-lifeline/2017/02/18/8390b0e6-f5df-11e6-a9b0-ecee7ce475fc_story.html)
 
 ### Related:
 

@@ -7,7 +7,7 @@ The U.S. has identified individuals and groups who passed Democratic Party mater
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/world/national-security/obama-orders-review-of-russian-hacking-during-presidential-campaign/2016/12/09/31d6b300-be2a-11e6-94ac-3d324840106c_story.html?hpid=hp_hp-top-table-main_russiahack-1215p%3Ahomepage%2Fstory&utm_term=.9c47c7a78a72)
+1. [Washington Post](https://www.washingtonpost.com/world/national-security/obama-orders-review-of-russian-hacking-during-presidential-campaign/2016/12/09/31d6b300-be2a-11e6-94ac-3d324840106c_story.html?hpid=hp_hp-top-table-main_russiahack-1215p%3Ahomepage%2Fstory)
 
 ### Related:
 

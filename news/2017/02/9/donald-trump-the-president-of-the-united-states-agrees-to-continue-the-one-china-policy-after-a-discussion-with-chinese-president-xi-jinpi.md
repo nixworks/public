@@ -7,7 +7,7 @@ The president had earlier called the policy on Taiwan into question, a red line 
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/news/world/wp/2017/02/09/trump-agrees-to-follow-one-china-policy-in-a-call-with-president-xi-jinping-earlier-trump-questioned-that-bedrock-policy/?utm_term=.f9c149729c47&wpisrc=al_alert-COMBO-world%252Bnation)
+1. [Washington Post](https://www.washingtonpost.com/news/world/wp/2017/02/09/trump-agrees-to-follow-one-china-policy-in-a-call-with-president-xi-jinping-earlier-trump-questioned-that-bedrock-policy/?wpisrc=al_alert-COMBO-world%252Bnation)
 
 ### Related:
 

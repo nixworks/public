@@ -7,7 +7,7 @@ The deployment marks a new escalation in the war in Syria.
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/checkpoint/wp/2017/03/08/marines-have-arrived-in-syria-to-fire-artillery-in-the-fight-for-raqqa/?utm_term=.1afa199dabc2)
+1. [The Washington Post](https://www.washingtonpost.com/news/checkpoint/wp/2017/03/08/marines-have-arrived-in-syria-to-fire-artillery-in-the-fight-for-raqqa/)
 
 ### Related:
 

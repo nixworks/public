@@ -12,7 +12,7 @@ Islamic State militants claim gun and bomb assault on Indonesia&#039;s capital t
 3. [AP](http://hosted.ap.org/dynamic/stories/A/AS_INDONESIA_EXPLOSION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 4. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2016-01-14-AS--Indonesia-Explosion-The%20Latest/id-7f2072f01a8d4b9eb33d66792b90cab8)
 5. [Reuters](http://live.reuters.com/Event/Blasts_gunfight_in_Indonesian_capital)
-6. [The Australian](http://www.theaustralian.com.au/news/world/jakarta-bombing-blasts-in-indonesian-capital/news-story/17c946907fe296fe4628cd11d033ffd6?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A%20TheAustralianNewsNDM%20(The%20Australian%20%7C%20News%20%7C))
+6. [The Australian](http://www.theaustralian.com.au/news/world/jakarta-bombing-blasts-in-indonesian-capital/news-story/17c946907fe296fe4628cd11d033ffd6)
 
 ### Related:
 

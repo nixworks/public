@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Courier Mail](http://www.couriermail.com.au/entertainment/television/60-minutes-crew-members-charged-over-botched-child/news-story/c221a05ca4e04fe36a884ed12e2cd6a8?sv=cc314cbc1ac5b7896c567d562e25d9ff&utm_source=Courier%20Mail&utm_medium=email&utm_campaign=editorial)
+1. [Courier Mail](http://www.couriermail.com.au/entertainment/television/60-minutes-crew-members-charged-over-botched-child/news-story/c221a05ca4e04fe36a884ed12e2cd6a8?sv=cc314cbc1ac5b7896c567d562e25d9ff)
 
 ### Related:
 

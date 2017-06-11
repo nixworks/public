@@ -7,7 +7,7 @@ The 300,000-year-old modern humans are roughly 100,000 years older than other fo
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2017/06/07/oldest-homo-sapiens-fossils-discovered-in-morocco/?utm_term=.fb61ac92901a&wpisrc=al_alert-hse&wpmk=1)
+1. [Washington Post](https://www.washingtonpost.com/news/speaking-of-science/wp/2017/06/07/oldest-homo-sapiens-fossils-discovered-in-morocco/?wpisrc=al_alert-hse&wpmk=1)
 
 ### Related:
 

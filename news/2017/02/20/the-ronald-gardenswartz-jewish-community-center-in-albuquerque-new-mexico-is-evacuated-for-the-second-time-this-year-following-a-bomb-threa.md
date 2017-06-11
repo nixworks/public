@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Albuquerque Journal](https://www.abqjournal.com/953557/jewish-community-center-evacuated-for-second-time-in-three-weeks.html?utm_source=notification&utm_medium=notification&utm_campaign=953557)
+1. [Albuquerque Journal](https://www.abqjournal.com/953557/jewish-community-center-evacuated-for-second-time-in-three-weeks.html)
 
 ### Related:
 

@@ -8,7 +8,7 @@ The Trump administration has retreated from its demands that Twitter name the pe
 ### Source:
 
 1. [CBS News](http://www.cbsnews.com/news/twitter-fights-government-order-for-anti-trump-user-records/)
-2. [The Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2017/04/06/the-government-is-demanding-to-know-who-this-trump-critic-is-twitter-is-suing-to-keep-it-a-secret/?utm_term=.fbce6b33b5be)
+2. [The Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2017/04/06/the-government-is-demanding-to-know-who-this-trump-critic-is-twitter-is-suing-to-keep-it-a-secret/)
 
 ### Related:
 

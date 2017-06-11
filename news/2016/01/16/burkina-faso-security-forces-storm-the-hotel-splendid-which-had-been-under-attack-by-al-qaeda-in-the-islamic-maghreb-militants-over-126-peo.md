@@ -7,7 +7,7 @@ Exchanges of fire continue at a luxury hotel in Burkina Faso as special forces s
 
 ### Source:
 
-1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/World/2016/Jan-16/332334-burkina-attacks-death-toll-climbs-to-29-security-minister.ashx?utm_content=buffer99cd0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/World/2016/Jan-16/332334-burkina-attacks-death-toll-climbs-to-29-security-minister.ashx)
 2. [AP via ''Miami Herald](http://www.miamiherald.com/news/nation-world/article55037485.html)
 3. [AP via the ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3401837/Gunfire-explosions-near-hotel-Burkina-Fasos-capital.html#ixzz3xMqvdvTI)
 4. [BBC](http://www.bbc.com/news/world-africa-35330169)

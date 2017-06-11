@@ -8,7 +8,7 @@ Super typhoon Nepartak hit Taiwan on Friday, driving thousands of people from th
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2016/07/06/world/super-typhoon-nepartak-taiwan/)
-2. [Reuters](http://www.reuters.com/article/us-asia-storm-taiwan-idUSKCN0ZO08G?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+2. [Reuters](http://www.reuters.com/article/us-asia-storm-taiwan-idUSKCN0ZO08G?feedType=RSS&feedName=topNews)
 
 ### Related:
 

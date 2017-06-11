@@ -7,7 +7,7 @@ The EU called on Turkey to launch an investigation into allegations of irregular
 
 ### Source:
 
-1. [UPI](http://www.upi.com/Top_News/World-News/2017/04/18/EU-calls-on-Turkey-to-investigate-referendum-fraud-allegations/3921492529587/?utm_source=sec&utm_campaign=sl&utm_medium=7)
+1. [UPI](http://www.upi.com/Top_News/World-News/2017/04/18/EU-calls-on-Turkey-to-investigate-referendum-fraud-allegations/3921492529587/)
 
 ### Related:
 

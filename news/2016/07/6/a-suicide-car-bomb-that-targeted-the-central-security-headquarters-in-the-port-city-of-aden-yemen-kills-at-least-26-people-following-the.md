@@ -8,7 +8,7 @@
 ### Source:
 
 1. [AP via ''The New York Times](http://www.nytimes.com/aponline/2016/07/06/world/middleeast/ap-ml-yemen.html?_r=0)
-2. [Reuters](http://www.reuters.com/article/us-yemen-blast-idUSKCN0ZM090?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+2. [Reuters](http://www.reuters.com/article/us-yemen-blast-idUSKCN0ZM090?feedType=RSS&feedName=topNews)
 
 ### Related:
 

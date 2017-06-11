@@ -8,7 +8,7 @@ Redistricting is part of a bare-knuckled fight in North Carolina, where Democrat
 ### Source:
 
 1. [The New York Times](https://www.nytimes.com/2017/05/22/us/politics/supreme-court-north-carolina-congressional-districts.html)
-2. [The Washington Post](https://www.washingtonpost.com/politics/courts_law/supreme-court-rules-race-improperly-dominated-nc-redistricting-efforts/2017/05/22/c159fc70-3efa-11e7-8c25-44d09ff5a4a8_story.html?utm_term=.44d81f20ef7d)
+2. [The Washington Post](https://www.washingtonpost.com/politics/courts_law/supreme-court-rules-race-improperly-dominated-nc-redistricting-efforts/2017/05/22/c159fc70-3efa-11e7-8c25-44d09ff5a4a8_story.html)
 
 ### Related:
 

@@ -7,7 +7,7 @@ Kelly, who retired from the military in February, is a blunt-spoken border secur
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/national-security/retired-marine-gen-john-f-kelly-picked-to-head-department-of-homeland-security/2016/12/07/165472f2-bbe6-11e6-94ac-3d324840106c_story.html?hpid=hp_hp-top-table-main_kelly-1140a%3Ahomepage%2Fstory&utm_term=.3b2c48d69619)
+1. [The Washington Post](https://www.washingtonpost.com/world/national-security/retired-marine-gen-john-f-kelly-picked-to-head-department-of-homeland-security/2016/12/07/165472f2-bbe6-11e6-94ac-3d324840106c_story.html?hpid=hp_hp-top-table-main_kelly-1140a%3Ahomepage%2Fstory)
 
 ### Related:
 

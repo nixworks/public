@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/the_americas/mexico-14-gunmen-killed-in-gunbattle-with-patrol-of-marines/2016/12/05/d0d005c8-bb60-11e6-ae79-bec72d34f8c9_story.html?utm_term=.ad9e31a5d257)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/the_americas/mexico-14-gunmen-killed-in-gunbattle-with-patrol-of-marines/2016/12/05/d0d005c8-bb60-11e6-ae79-bec72d34f8c9_story.html)
 2. [Reuters](http://www.reuters.com/article/us-mexico-crime-idUSKBN13V0E5)
 
 ### Related:

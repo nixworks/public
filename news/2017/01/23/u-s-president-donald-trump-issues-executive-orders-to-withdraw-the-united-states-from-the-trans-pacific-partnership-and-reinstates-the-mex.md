@@ -9,7 +9,7 @@ Activists have condemned as an “assault on women&#039;s health”, a decision 
 
 1. [CNN](http://edition.cnn.com/2017/01/23/politics/trans-pacific-partnership-trade-deal-withdrawal-trumps-first-executive-action-monday-sources-say/)
 2. [The Independent](http://www.independent.co.uk/news/world/americas/mexico-city-policy-donald-trump-reimposes-abortion-a7542216.html)
-3. [The Washington Post](https://www.washingtonpost.com/news/to-your-health/wp/2017/01/23/trump-reverses-abortion-related-policy-to-ban-funding-to-international-health-groups/?utm_term=.ed700885c7b4)
+3. [The Washington Post](https://www.washingtonpost.com/news/to-your-health/wp/2017/01/23/trump-reverses-abortion-related-policy-to-ban-funding-to-international-health-groups/)
 
 ### Related:
 

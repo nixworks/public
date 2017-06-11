@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/energy-environment/wp/2016/09/08/the-world-has-lost-a-10th-of-all-its-wilderness-in-the-past-two-decades/?utm_term=.97a91da480d2)
+1. [The Washington Post](https://www.washingtonpost.com/news/energy-environment/wp/2016/09/08/the-world-has-lost-a-10th-of-all-its-wilderness-in-the-past-two-decades/)
 
 ### Related:
 

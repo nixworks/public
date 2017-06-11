@@ -34,7 +34,7 @@ _Context: Accession of Montenegro to NATO, Montenegro, NATO, Russian Government_
 _Context: Afghan, Afghan Armed Forces, Belgium, Brussels, NATO, NATO headquarters, War in Afghanistan (2015-present), coalition_
 
 ### [The Oklahoma Legislature files a measure asking for Congress to impeach Barack Obama over his decision to allow transgender students to use the bathrooms corresponding to their gender identity. ](/news/2016/05/20/the-oklahoma-legislature-files-a-measure-asking-for-congress-to-impeach-barack-obama-over-his-decision-to-allow-transgender-students-to-use.md)
-_Context: Barack Obama, Efforts to impeach Barack Obama, Oklahoma Legislature, U.S. Congressional_
+_Context: Barack Obama, Efforts to impeach Barack Obama, Oklahoma Legislature, United States Congress_
 
 ### [The Mexican government approves the extradition of drug boss Joaquin Guzman to the United States following assurances that he will not face the death penalty. ](/news/2016/05/20/the-mexican-government-approves-the-extradition-of-drug-boss-joaquan-guzma-n-to-the-united-states-following-assurances-that-he-will-not-fac.md)
 _Context: Joaquin "El Chapo" Guzman, Mexican government, United States, death penalty_

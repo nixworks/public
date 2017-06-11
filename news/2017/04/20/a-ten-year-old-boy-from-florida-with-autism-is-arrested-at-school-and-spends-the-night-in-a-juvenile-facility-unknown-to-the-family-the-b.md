@@ -2,12 +2,12 @@
 
 # A ten-year-old boy from Florida with autism is arrested at school, and spends the night in a juvenile facility. Unknown to the family, the boy had an outstanding warrant for his arrest after kicking and scratching one of his educators. The Autism Society of America is looking into legal options. 
 
-
+John Benjamin Haygood was arrested on felony battery charges &mdash; but a Florida prosecutor plans to offer him a &ldquo;nonjudicial sanction.&rdquo; His mother, however, said that her son &ldquo;didn&rsquo;t do anything wrong.&rdquo;
 
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/education/wp/2017/04/19/i-dont-like-to-be-touched-video-shows-10-year-old-autistic-boy-getting-arrested-at-school/?utm_term=.554af7b2e079)
+1. [The Washington Post](https://www.washingtonpost.com/news/education/wp/2017/04/19/i-dont-like-to-be-touched-video-shows-10-year-old-autistic-boy-getting-arrested-at-school/)
 
 ### Related:
 
