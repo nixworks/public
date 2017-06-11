@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/news/wonk/wp/2017/02/16/senators-confirm-trumps-pick-to-deal-with-the-federal-budget/?utm_term=.80a12275396b)
+1. [The Washington Post](https://www.washingtonpost.com/news/wonk/wp/2017/02/16/senators-confirm-trumps-pick-to-deal-with-the-federal-budget/)
 
 ### Related:
 
