@@ -18,8 +18,8 @@ _Context: Ben Jacobs, Committee to Protect Journalists, Freedom of the press in 
 ### [At a United Nations-Oceans summit, delegates from China, Indonesia, the Philippines and Thailand, four of the top polluters of plastic into the oceans, pledge to reduce their levels of oceanic plastic pollution. ](/news/2017/06/8/at-a-united-nations-oceans-summit-delegates-from-china-indonesia-the-philippines-and-thailand-four-of-the-top-polluters-of-plastic-into.md)
 China, Thailand, Indonesia and the Philippines say they will act to stop plastic polluting the oceans.
 
-### [Yahoo shareholders officially approve its $4.48 billion sale to Verizon Wireless. Yahoo stock was up 8.5 percent shortly thereafter. ](/news/2017/06/8/yahoo-shareholders-officially-approve-its-4-48-billion-sale-to-verizon-wireless-yahoo-stock-was-up-8-5-percent-shortly-thereafter.md)
-_Context: Verizon Wireless, Yahoo_
+### [Yahoo! shareholders officially approve its $4.48 billion sale to Verizon Wireless. Yahoo! stock was up 8.5 percent shortly thereafter. ](/news/2017/06/8/yahoo-shareholders-officially-approve-its-4-48-billion-sale-to-verizon-wireless-yahoo-stock-was-up-8-5-percent-shortly-thereafter.md)
+_Context: Verizon Wireless, Yahoo!_
 
 ### [The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-doddafrank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected.md)
 Rep. Jeb Hensarling called the Dodd-Frank law &quot;a grab bag of leftist ideas.&quot;

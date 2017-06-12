@@ -27,7 +27,7 @@ _Context: Isa Mustafa, Kosovan parliamentary election, 2017, Kosovo, Prime Minis
 ### [Voters in France return to the polls after last month's presidential election for the first round of a legislative election, to begin choosing the 577 members of France's lower house. Opinion polls and exit polls predict that En Marche!, formed by newly elected President Emmanuel Macron, will pick up a majority of seats. ](/news/2017/06/11/voters-in-france-return-to-the-polls-after-last-month-s-presidential-election-for-the-first-round-of-a-legislative-election-to-begin-choosi.md)
 Emmanuel Macron&#39;s party is on course to secure an historic majority in parliament after the first round of France&rsquo;s legislative elections, turbo-charging the French president&rsquo;s chances of driving through crucial economic reforms.
 
-### [With a turnout of 23% eligible voters, voters in Puerto Rico request that the island become a U.S. state. ](/news/2017/06/11/with-a-turnout-of-23-eligible-voters-voters-in-puerto-rico-request-that-the-island-become-a-u-s-state.md)
+### [With a turnout of 23% eligible voters, 97% of the voters in Puerto Rico request that the island become a U.S. state. ](/news/2017/06/11/with-a-turnout-of-23-eligible-voters-97-of-the-voters-in-puerto-rico-request-that-the-island-become-a-u-s-state.md)
 Puerto Ricans head to the polls on Sunday to decide whether they want their struggling U.S. territory to become the 51st U.S. state, although a vote in favor would likely face an uphill battle in Congress and with President Donald Trump.
 
 ## [Previous Day...](/news/2017/06/10/index.md)
