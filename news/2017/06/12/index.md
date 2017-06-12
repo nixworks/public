@@ -1,5 +1,8 @@
 ## [2017-06-12](/news/2017/06/12/index.md)
 
+### [An earthquake of 6.2 magnitudes shakes the Aegean Sea, causing no deaths. ](/news/2017/06/12/an-earthquake-of-6-2-magnitudes-shakes-the-aegean-sea-causing-no-deaths.md)
+ ISTANBUL (AP) — An earthquake with a preliminary magnitude of 6.2 shook western Turkey and the Greek island of Lesbos on Monday, injuring at least 10 people and damaging buildings
+
 ### [Russian police detains opposition leader Alexei Navalny just before a protest rally to be held in central Moscow. ](/news/2017/06/12/russian-police-detains-opposition-leader-alexei-navalny-just-before-a-protest-rally-to-be-held-in-central-moscow.md)
 Police detained Russian opposition leader Alexei Navalny at the entrance of his home on Monday, just before an unsanctioned rally he was going to hold in central Moscow, but the protest will still go ahead, his wife said on Twitter.
 
