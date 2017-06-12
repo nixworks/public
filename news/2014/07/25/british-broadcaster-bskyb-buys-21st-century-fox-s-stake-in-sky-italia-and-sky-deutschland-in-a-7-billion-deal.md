@@ -7,7 +7,7 @@ BSkyB gets Fox&#039;s stakes in Sky Italia and Sky Deutschland, while Fox retain
 
 ### Source:
 
-1. [The Wrap](http://www.thewrap.com/rupert-murdochs-21st-century-fox-reaches-deal-with-bskyb-for-european-pay-tv-companies/?utm_source=newsletter&utm_medium=email&utm_campaign=contactology)
+1. [The Wrap](http://www.thewrap.com/rupert-murdochs-21st-century-fox-reaches-deal-with-bskyb-for-european-pay-tv-companies/)
 
 ### Related:
 

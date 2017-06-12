@@ -13,7 +13,7 @@ The Malian army investigates claims that soldiers have carried out summary execu
 British and other foreign nationals are advised to leave the Libyan city of Benghazi immediately because of an &quot;imminent&quot; threat to Westerners.
 
 ### [The government of Ukraine signs a major $10 billion shale gas deal with Royal Dutch Shell to reduce its dependency on Russian gas imports. ](/news/2013/01/24/the-government-of-ukraine-signs-a-major-10-billion-shale-gas-deal-with-royal-dutch-shell-to-reduce-its-dependency-on-russian-gas-imports.md)
-_Context: Kiev, Royal Dutch Shell, Russia, Ukrainians, gas imports, shale gas_
+_Context: Kiev, Royal Dutch Shell, Russia, Ukraine, gas imports, shale gas_
 
 ### [Seventeen people are killed and 34 others are injured in a bus crash near the town of Taperas, Bolivia, along a newly built highway to Brazil. ](/news/2013/01/24/seventeen-people-are-killed-and-34-others-are-injured-in-a-bus-crash-near-the-town-of-taperas-bolivia-along-a-newly-built-highway-to-brazi.md)
 _Context: Bolivia, Brazil, highway_

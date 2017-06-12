@@ -7,7 +7,7 @@ The trial of US aid worker Alan Gross for crimes against the state in Cuba ends,
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12657855?utm_source=BBC+News&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12657855)
 
 ### Related:
 

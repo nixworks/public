@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [NJ.com](http://www.nj.com/news/index.ssf/2011/05/us_appeals_court_orders_that_c.html?utm_source=twitterfeed&utm_medium=twitter)
+1. [NJ.com](http://www.nj.com/news/index.ssf/2011/05/us_appeals_court_orders_that_c.html)
 
 ### Related:
 

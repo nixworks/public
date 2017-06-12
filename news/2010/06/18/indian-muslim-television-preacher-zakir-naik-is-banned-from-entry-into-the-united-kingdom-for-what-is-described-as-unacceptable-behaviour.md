@@ -8,7 +8,7 @@ An Indian preacher has been banned from entering the UK for his &quot;unacceptab
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk/10349564.stm)
-2. [Reuters](http://uk.reuters.com/article/idUKTRE65H35F20100618?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKTopNews+%28News+%2F+UK+%2F+Top+News%29)
+2. [Reuters](http://uk.reuters.com/article/idUKTRE65H35F20100618?feedType=RSS&feedName=topNews)
 3. [The Hindu](http://www.thehindu.com/2010/06/19/stories/2010061951342400.htm)
 4. [The Times of India](http://timesofindia.indiatimes.com/india/Britain-bans-Islamic-preacher-Zakir-Naik/articleshow/6064154.cms)
 

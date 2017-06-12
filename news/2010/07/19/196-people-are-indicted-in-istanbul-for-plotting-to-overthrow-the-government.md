@@ -9,7 +9,7 @@ A court in Istanbul indicts 196 people, including senior military figures, for p
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10690431)
 2. [People's Daily](http://english.people.com.cn/90001/90777/90853/7072750.html)
-3. [Reuters](http://uk.reuters.com/article/idUKTRE66I4J020100719?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
+3. [Reuters](http://uk.reuters.com/article/idUKTRE66I4J020100719?feedType=RSS&feedName=worldNews)
 4. [The Guardian](http://www.guardian.co.uk/world/2010/jul/19/turkey-coup-plot-196-indicted)
 5. [The News international](http://www.thenews.com.pk/daily_detail.asp?id=251771)
 6. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/court-indictes-196-in-turkish-coup-plot-20100720-10i3o.html)

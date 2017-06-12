@@ -10,7 +10,7 @@ A special forces base in Libya has been seized by militias, the fighters and off
 Army death toll rises to 56; 17 Palestinians die in market attack; British PM says war making 2-state solution &#8216;impossible&#8217;; UN, Washington condemn attack on school that kills at least 15
 
 ### [Analysts of Morgan Stanley predict that Russian President Vladimir Putin would soon block the transit of gas through Ukraine to Europe to retaliate against the world for imposing economic sanctions on Russia. ](/news/2014/07/30/analysts-of-morgan-stanley-predict-that-russian-president-vladimir-putin-would-soon-block-the-transit-of-gas-through-ukraine-to-europe-to-re.md)
-_Context: Morgan Stanley, Russia, Ukrainians, Vladimir Putin_
+_Context: Morgan Stanley, Russia, Ukraine, Vladimir Putin_
 
 ### [Argentina is required to pay $1.3bn to investors who bought its bonds at a big discount after a default in 2001-02 by the end of today or be in default again. ](/news/2014/07/30/argentina-is-required-to-pay-1-3bn-to-investors-who-bought-its-bonds-at-a-big-discount-after-a-default-in-2001-02-by-the-end-of-today-or-be.md)
 _Context: Argentina_

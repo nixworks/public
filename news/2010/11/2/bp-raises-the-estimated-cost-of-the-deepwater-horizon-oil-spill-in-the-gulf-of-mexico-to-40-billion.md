@@ -7,7 +7,7 @@ BP offered investors tentative signs of recovery on Tuesday, with a modest rise 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6A111820101102?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News))
+1. [Reuters](http://www.reuters.com/article/idUSTRE6A111820101102)
 
 ### Related:
 

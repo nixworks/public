@@ -15,7 +15,7 @@ Ankara threatens to cut Israel ties unless flotilla activists are returned by We
 6. [CNN](http://www.cnn.com/2010/WORLD/meast/06/02/israel.palestinians.aid/)
 7. [RTÉ](http://www.rte.ie/news/2010/0602/mideast.html)
 8. [Reuters](http://in.reuters.com/article/idINIndia-49005320100603)
-9. [Reuters](http://uk.reuters.com/article/idUKTRE6512VU20100602?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
+9. [Reuters](http://uk.reuters.com/article/idUKTRE6512VU20100602?feedType=RSS&feedName=worldNews)
 10. [The Guardian](http://www.guardian.co.uk/world/2010/jun/02/israel-deport-gaza-flotilla-activists)
 11. [The National](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20100602/FOREIGN/706019813/1002/FOREIGN)
 12. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/03/c_13330246.htm)

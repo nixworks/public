@@ -7,7 +7,7 @@ A well-traveled NASA probe made history Thursday, becoming the first spacecraft 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/science-environment-12761025?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/science-environment-12761025)
 2. [Space via MSNBC](http://www.msnbc.msn.com/id/42142053/ns/technology_and_science-space)
 
 ### Related:

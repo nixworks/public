@@ -10,7 +10,7 @@ Actor Paul Walker, best known for the Fast and Furious movies, is killed in a fi
 MANILA -- President Benigno Aquino III paid tribute to the life and legacy of Andres Bonifacio and highlighted the importance of everyday heroes in the country, especially during trying times. 
 
 ### [Gaia Cauchi of Malta, wins the Junior Eurovision Song Contest 2013 in Kiev, Ukraine, with her song "The Start." ](/news/2013/11/30/gaia-cauchi-of-malta-wins-the-junior-eurovision-song-contest-2013-in-kiev-ukraine-with-her-song-the-start.md)
-_Context: Gaia Cauchi, Junior Eurovision Song Contest 2013, Kiev, Malta, Ukrainians_
+_Context: Gaia Cauchi, Junior Eurovision Song Contest 2013, Kiev, Malta, Ukraine_
 
 ### [The wreckage of LAM Mozambique Airlines Flight 470 that went missing Friday is found in Namibia in the Bwabwata National Park with all 33 people on board having died. ](/news/2013/11/30/the-wreckage-of-lam-mozambique-airlines-flight-470-that-went-missing-friday-is-found-in-namibia-in-the-bwabwata-national-park-with-all-33-pe.md)
 A Mozambique Airlines plane en route to Angola crashed in a game park in northeast Namibia, killing all 33 people on board, Namibian police said on Saturday.

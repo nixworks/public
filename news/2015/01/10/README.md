@@ -13,7 +13,7 @@ A suicide bomb attack on a cafe in the Lebanese city of Tripoli killed at least 
 _Context: Gulshan-e-Hadeed, Karachi, Karachi traffic accident, National Highway Link Road, Pakistan, Shikapur_
 
 ### [A bomb threat on Tigerair Flight 539 at Melbourne Airport, Victoria, Australia, causes disruptions for passengers and airlines throughout the airport. ](/news/2015/01/10/a-bomb-threat-on-tigerair-flight-539-at-melbourne-airport-victoria-australia-causes-disruptions-for-passengers-and-airlines-throughout-th.md)
-DISRUPTIONS on TigerAir flights will continue today after a bomb scare led parts of Melbourne Airport — including a Tiger plane — to be evacuated last night.
+_Context: Melbourne Airport, Tigerair, Victoria_
 
 ### [A shooting spree in Moscow, Idaho, U.S., leaves three dead and one injured. After a high-speed chase on Highway 195 ten miles away in the neighboring state of Washington, Pullman police arrest the suspect, John Lee. ](/news/2015/01/10/a-shooting-spree-in-moscow-idaho-u-s-leaves-three-dead-and-one-injured-after-a-high-speed-chase-on-highway-195-ten-miles-away-in-the-ne.md)
 _Context: Moscow, Idaho, Pullman, Washington_

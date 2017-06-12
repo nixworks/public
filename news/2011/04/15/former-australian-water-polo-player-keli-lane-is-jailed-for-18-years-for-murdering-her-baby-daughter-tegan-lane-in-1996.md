@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AFP via Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1122967/1/.html?utm_source=twitterfeed&utm_medium=twitter)
+1. [AFP via Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1122967/1/.html)
 
 ### Related:
 

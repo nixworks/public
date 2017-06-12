@@ -9,7 +9,7 @@ A student armed with a handgun holds 23 other students and a teacher hostage for
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11871777)
 2. [CNN](http://edition.cnn.com/2010/CRIME/11/29/wisconsin.hostage/)
-3. [Reuters](http://www.reuters.com/article/idUSTRE6AT05U20101130?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+3. [Reuters](http://www.reuters.com/article/idUSTRE6AT05U20101130)
 
 ### Related:
 

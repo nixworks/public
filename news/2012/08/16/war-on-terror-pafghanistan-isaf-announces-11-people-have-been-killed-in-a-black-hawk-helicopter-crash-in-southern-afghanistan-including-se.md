@@ -10,7 +10,7 @@ Eleven people were killed on Thursday in a Black Hawk helicopter crash in southe
 1. [CNN](http://edition.cnn.com/2012/08/16/world/meast/iraq-bloodshed/index.html)
 2. [New York Times](http://www.nytimes.com/2012/08/17/world/middleeast/at-least-39-killed-in-wave-of-attacks-in-iraq.html)
 3. [Reuters](http://www.reuters.com/article/2012/08/16/us-afghanistan-helicopter-idUSBRE87F0IG20120816)
-4. [Reuters](http://www.reuters.com/article/2012/08/16/us-pakistan-airforcebase-idUSBRE87E1C620120816?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+4. [Reuters](http://www.reuters.com/article/2012/08/16/us-pakistan-airforcebase-idUSBRE87E1C620120816?feedType=RSS&feedName=topNews)
 
 ### Related:
 

@@ -7,7 +7,7 @@ Long-running West End show Chicago &amp;#8211; which has featured an array of st
 
 ### Source:
 
-1. [The Scotsman](http://www.scotsman.com/lifestyle/music/news-and-features/musical-chicago-to-close-after-15-years-1-2411986?utm_medium=twitter&utm_source=twitterfeed)
+1. [The Scotsman](http://www.scotsman.com/lifestyle/music/news-and-features/musical-chicago-to-close-after-15-years-1-2411986)
 
 ### Related:
 

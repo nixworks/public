@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/06/us-mideast-crisis-syria-russia-matviyenk-idUSKCN0S00UH20151006?feedType=RSS&feedName=topNews&utm_source=twitter)
+1. [Reuters](http://www.reuters.com/article/2015/10/06/us-mideast-crisis-syria-russia-matviyenk-idUSKCN0S00UH20151006?feedType=RSS&feedName=topNews)
 
 ### Related:
 

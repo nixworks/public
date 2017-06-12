@@ -8,7 +8,7 @@
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/09/20109123247579469.html)
-2. [CNN](http://www.cnn.com/2010/POLITICS/09/01/mideast.peace.talks/index.html?eref=rss_topstories&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+rss/cnn_topstories+(RSS:+Top+Stories)&utm_content=Google+Feedfetcher)
+2. [CNN](http://www.cnn.com/2010/POLITICS/09/01/mideast.peace.talks/index.html?eref=rss_topstories)
 
 ### Related:
 

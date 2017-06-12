@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/un-reports-that-121-women-raped-by-congo-troops-in-restive-east/2011/07/01/AG5UiGtH_story.html?utm_source=twitterfeed&utm_medium=twitter)
+1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/un-reports-that-121-women-raped-by-congo-troops-in-restive-east/2011/07/01/AG5UiGtH_story.html)
 
 ### Related:
 

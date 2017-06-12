@@ -7,7 +7,7 @@ Greece resumed the shipment of all mail and packages abroad after midnight on Fr
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6A32F820101104?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+1. [Reuters](http://www.reuters.com/article/idUSTRE6A32F820101104)
 
 ### Related:
 

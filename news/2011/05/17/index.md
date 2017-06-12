@@ -7,7 +7,7 @@ Sources say minister is on his way to Tunisian capital as NATO warplanes continu
 Syria denies reports of the discovery of at least one mass grave in the southern city of Deraa, amid news of continuing unrest in several cities.
 
 ### [NATO invasion of Pakistani airspace:A NATO helicopter based in Afghanistan intrudes into North Waziristan in Pakistan and fires at a Pakistan Army checkpoint, wounding two soldiers. ](/news/2011/05/17/nato-invasion-of-pakistani-airspace-pa-nato-helicopter-based-in-afghanistan-intrudes-into-north-waziristan-in-pakistan-and-fires-at-a-pakist.md)
-Harrison and Haji Mujtaba
+The Pakistani army protests after two of its soldiers are injured in a clash with Nato helicopters in the border region of North Waziristan.
 
 ### [The U.S. killing of Osama Bin Laden may act as a precedent for "targeted killings," according to a report prepared by the library of the House of Commons of the United Kingdom. ](/news/2011/05/17/the-u-s-killing-of-osama-bin-laden-may-act-as-a-precedent-for-targeted-killings-according-to-a-report-prepared-by-the-library-of-the-hou.md)
 _Context: House of Commons, Osama bin Laden, father's killing, targeted killing_

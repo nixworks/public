@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [News Limited](http://www.news.com.au/breaking-news/png-deputy-pm-agrees-to-turn-himself-in/story-e6frfku0-1226193802122?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+newscomaubreakingndm+%28NEWS.com.au+%7C+Breaking+News%29)
+1. [News Limited](http://www.news.com.au/breaking-news/png-deputy-pm-agrees-to-turn-himself-in/story-e6frfku0-1226193802122)
 
 ### Related:
 

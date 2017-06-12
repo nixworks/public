@@ -7,7 +7,7 @@ Award-winning Bollywood actor Shiney Ahuja, who was sentenced to seven years in 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13276522?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13276522)
 
 ### Related:
 

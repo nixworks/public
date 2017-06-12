@@ -40,7 +40,7 @@ _Context: Federal Reserve, United States_
 _Context: 2013-14 Thai political crisis, Prime Minister of Thailand, Yingluck Shinawatra_
 
 ### [The Autonomous Republic of Crimea has announced that it plans to hold a referendum for independence the same day as the elections in Ukraine. ](/news/2014/02/27/the-autonomous-republic-of-crimea-has-announced-that-it-plans-to-hold-a-referendum-for-independence-the-same-day-as-the-elections-in-ukraine.md)
-_Context: Autonomous Republic of Crimea, Crimean referendum, 2014, Ukrainians_
+_Context: Autonomous Republic of Crimea, Crimean referendum, 2014, Ukraine_
 
 ### [The Kepler telescope discovers 715 new planets. ](/news/2014/02/27/the-kepler-telescope-discovers-715-new-planets.md)
 _Context: Kepler telescope, planet_

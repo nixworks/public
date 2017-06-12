@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/03/22/us-google-china-idUSTRE72K1VV20110322?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29&utm_content=Google+Feedfetcher)
+1. [Reuters](http://www.reuters.com/article/2011/03/22/us-google-china-idUSTRE72K1VV20110322?feedType=RSS&feedName=topNews)
 
 ### Related:
 

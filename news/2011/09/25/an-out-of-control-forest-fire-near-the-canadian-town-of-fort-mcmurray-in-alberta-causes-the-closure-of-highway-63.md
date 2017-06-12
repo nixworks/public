@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Vancouver Sun](http://www.vancouversun.com/news/control+forest+fire+moving+close+Fort+McMurray/5456495/story.html?utm_source=dlvr.it&utm_medium=twitter)
+1. [Vancouver Sun](http://www.vancouversun.com/news/control+forest+fire+moving+close+Fort+McMurray/5456495/story.html)
 
 ### Related:
 

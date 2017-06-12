@@ -7,7 +7,7 @@ Mario Monti, the economist and former European Union commissioner, was tapped to
 
 ### Source:
 
-1. [CNN Money](http://money.cnn.com/2011/11/13/news/international/italy_monti.cnnw/index.htm?section=money_topstories&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fmoney_topstories+%28Top+Stories%29)
+1. [CNN Money](http://money.cnn.com/2011/11/13/news/international/italy_monti.cnnw/index.htm?section=money_topstories)
 
 ### Related:
 

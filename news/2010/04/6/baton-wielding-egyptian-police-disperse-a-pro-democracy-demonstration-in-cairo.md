@@ -8,7 +8,7 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8605565.stm)
-2. [Reuters](http://af.reuters.com/article/egyptNews/idAFLDE6351DU20100406?feedType=RSS&feedName=egyptNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FAfricaEgyptNews+%28News+%2F+Africa+%2F+Egypt+News%29)
+2. [Reuters](http://af.reuters.com/article/egyptNews/idAFLDE6351DU20100406?feedType=RSS&feedName=egyptNews)
 3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/06/AR2010040600701.html)
 
 ### Related:

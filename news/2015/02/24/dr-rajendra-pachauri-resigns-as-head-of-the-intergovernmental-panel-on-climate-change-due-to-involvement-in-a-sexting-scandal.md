@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [The Times'' via ''The Australian](http://www.theaustralian.com.au/news/world/climate-chief-rajendra-pachauri-quits-after-sexting-meltdown/story-fnb64oi6-1227238463214?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheAustralianNewsNDM+%28The+Australian+%7C+News+%7C%29)
+1. [The Times'' via ''The Australian](http://www.theaustralian.com.au/news/world/climate-chief-rajendra-pachauri-quits-after-sexting-meltdown/story-fnb64oi6-1227238463214)
 
 ### Related:
 

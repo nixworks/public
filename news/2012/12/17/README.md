@@ -19,7 +19,7 @@ _Context: Cyclone Evan, Fiji_
 _Context: Beninese, Cotonou_
 
 ### [At least 4 people are killed and 8 others injured as a gas explosion ripped through a residential building in Kharkiv, Ukraine. ](/news/2012/12/17/at-least-4-people-are-killed-and-8-others-injured-as-a-gas-explosion-ripped-through-a-residential-building-in-kharkiv-ukraine.md)
-_Context: Kharkiv, Ukrainians, gas explosion_
+_Context: Kharkiv, Ukraine, gas explosion_
 
 ### [The Parliament of Libya orders the closure of Libya's southern borders with Chad, Sudan, Algeria and Niger while declaring seven southern regions restricted military areas to stop the flow of illegal immigrants and goods. ](/news/2012/12/17/the-parliament-of-libya-orders-the-closure-of-libya-s-southern-borders-with-chad-sudan-algeria-and-niger-while-declaring-seven-southern-re.md)
 _Context: Algeria, Chad, Libya, Libyan Parliament, Niger, Sudan_

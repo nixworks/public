@@ -8,7 +8,7 @@ A bomb in a pickup truck killed at least 26 people at a market in northwest Paki
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-18469357)
-2. [Reuters](http://www.reuters.com/article/2012/06/16/us-pakistan-bomb-idUSBRE85F03J20120616?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+2. [Reuters](http://www.reuters.com/article/2012/06/16/us-pakistan-bomb-idUSBRE85F03J20120616?feedType=RSS&feedName=topNews)
 
 ### Related:
 

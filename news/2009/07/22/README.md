@@ -19,7 +19,7 @@ President McAleese has indictated that her decision on whether she will refer tw
 _Context: Hillary Clinton, Iran, Persian Gulf, United States, United States Secretary of State, nuclear warheads_
 
 ### [ Ukrainian former Interior Ministry official Oleksiy Pukach confesses to murdering journalist Georgiy R. Gongadze and implicates other high-ranking officials.](/news/2009/07/22/ukrainian-former-interior-ministry-official-oleksiy-pukach-confesses-to-murdering-journalist-georgiy-r-gongadze-and-implicates-other-high.md)
-_Context: Georgiy R. Gongadze, Oleksiy Pukach, Ukraine's Minister of the Interior, Ukrainians_
+_Context: Georgiy R. Gongadze, Oleksiy Pukach, Ukraine, Ukraine's Minister of the Interior_
 
 ## [Previous Day...](/news/2009/07/21/index.md)
 

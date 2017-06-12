@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j-wTe83TFgtn2pTvQYkK__SgsoeA?docId=d9bde1cd-cb11-44f3-a5dd-9d8def301716&utm_source=Sailthru&utm_medium=email&utm_term=%2AMorning%20Brief&utm_campaign=MB%202.11.13)
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j-wTe83TFgtn2pTvQYkK__SgsoeA?docId=d9bde1cd-cb11-44f3-a5dd-9d8def301716)
 
 ### Related:
 

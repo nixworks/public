@@ -12,7 +12,7 @@ Government resigns as part of promised reforms after two weeks of protests, outg
 3. [BBC](http://www.bbc.co.uk/news/uk-12889119)
 4. [Bahrain News Agency](http://www.bna.bh/portal/en/news/451101)
 5. [CBS](http://www.cbsnews.com/stories/2011/03/29/501364/main20048414.shtml#ixzz1I11RNHLs)
-6. [DU](http://www.democraticunderground.com/discuss/duboard.php?az=view_all&address=102x4791813&utm_source=twitterfeed&utm_medium=twitter)
+6. [DU](http://www.democraticunderground.com/discuss/duboard.php?az=view_all&address=102x4791813)
 7. [Haaretz](http://www.haaretz.com/news/international/libya-rebels-pull-back-as-gadhafi-forces-retake-town-near-sirte-1.352574)
 8. [SBS World News](http://www.sbs.com.au/news/article/1509776/Syrian-cabinet-resigns-amid-unrest)
 9. [Syrian Arab News Agency](http://www.sana.sy/eng/21/2011/03/29/339129.htm)

@@ -8,8 +8,8 @@ Three Saudi youths who appeared in a recent broadcast of the MTV documentary ser
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10216116.stm)
-2. [National Post](http://arts.nationalpost.com/2010/06/01/i-want-my-%E2%80%98openly-declaring-sin%E2%80%99-mtv/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+NP_Top_Stories+%28National+Post+-+Top+Stories%29)
-3. [Reuters](http://uk.reuters.com/article/idUKTRE65027A20100601?feedType=RSS&feedName=entertainmentNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FUKEntertainment+%28News+%2F+UK+%2F+Entertainment+News%29)
+2. [National Post](http://arts.nationalpost.com/2010/06/01/i-want-my-%E2%80%98openly-declaring-sin%E2%80%99-mtv/)
+3. [Reuters](http://uk.reuters.com/article/idUKTRE65027A20100601?feedType=RSS&feedName=entertainmentNews)
 4. [The New Yotik Times](http://www.nytimes.com/2010/06/02/arts/television/02arts-002.html)
 
 ### Related:

@@ -9,7 +9,7 @@ An Italian pro-Palestinian activist is found dead in the Gaza Strip hours after 
 
 1. [Antara](http://www.antaranews.com/en/news/1302823183/gaza-group-threatens-to-execute-abducted-italian)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13088630)
-3. [Israel National News](http://www.israelnationalnews.com/News/News.aspx/143577?utm_source=twitterfeed&utm_medium=facebook)
+3. [Israel National News](http://www.israelnationalnews.com/News/News.aspx/143577)
 
 ### Related:
 

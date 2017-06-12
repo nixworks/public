@@ -13,7 +13,7 @@ Rupert Murdoch&#039;s takeover of BSkyB appeared to be dead in the water last ni
 _Context: Honshu Island, earthquake, tsunami, tsunami warning_
 
 ### [A fire in a retirement home in the village of Beloye in the western Ukraine kills 16 people. ](/news/2011/07/10/a-fire-in-a-retirement-home-in-the-village-of-beloye-in-the-western-ukraine-kills-16-people.md)
-_Context: Beloye, Ukrainians_
+_Context: Beloye, Ukraine_
 
 ### [A hundred people are injured as the Kalka Mail is derailed near the town of Fathepur Malwa in the Indian state of Uttar Pradesh. ](/news/2011/07/10/a-hundred-people-are-injured-as-the-kalka-mail-is-derailed-near-the-town-of-fathepur-malwa-in-the-indian-state-of-uttar-pradesh.md)
 _Context: India, Kalka Mail, Uttar Pradesh, derailed_

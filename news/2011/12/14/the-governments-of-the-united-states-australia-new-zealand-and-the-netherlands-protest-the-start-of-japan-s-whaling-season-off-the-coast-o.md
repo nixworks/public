@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AFP via News Limited](http://www.news.com.au/breaking-news/australia-joins-4-nation-stand-on-whaling/story-e6frfku0-1226221918553?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+newscomaunthamericandm+%28NEWS.com.au+%7C+Nth+America%29)
+1. [AFP via News Limited](http://www.news.com.au/breaking-news/australia-joins-4-nation-stand-on-whaling/story-e6frfku0-1226221918553)
 
 ### Related:
 

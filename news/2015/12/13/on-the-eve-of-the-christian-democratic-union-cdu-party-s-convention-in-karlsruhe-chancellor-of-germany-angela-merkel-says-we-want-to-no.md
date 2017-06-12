@@ -8,7 +8,7 @@ German Chancellor Angela Merkel faces critics of her refugee policy armed with a
 ### Source:
 
 1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-12-13/merkel-stamps-out-revolt-on-refugees-as-party-anger-simmers)
-2. [Jerusalem Post](http://www.jpost.com/Breaking-News/Merkel-wants-to-drastically-reduce-refugee-arrivals-in-Germany-437220?utm_source=dlvr.it&utm_medium=twitter)
+2. [Jerusalem Post](http://www.jpost.com/Breaking-News/Merkel-wants-to-drastically-reduce-refugee-arrivals-in-Germany-437220)
 3. [Reuters via International Business Times](http://www.ibtimes.com/merkel-reverses-course-wants-limit-refugees-2223461)
 4. [The Financial Times](http://www.ft.com/intl/cms/s/0/3c146892-a1cc-11e5-bc70-7ff6d4fd203a.html#axzz3uF56erK3)
 

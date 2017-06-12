@@ -8,7 +8,7 @@ New France coach Laurent Blanc has taken the decision to suspend the entire 23-m
 ### Source:
 
 1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/football/8849972.stm)
-2. [Reuters](http://football.uk.reuters.com/leagues/world/news/2010/07/23/LDE66M1MX.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FUKWorldFootballNews+%28News+%2F+UK+%2F+World+Football+News%29)
+2. [Reuters](http://football.uk.reuters.com/leagues/world/news/2010/07/23/LDE66M1MX.php)
 3. [The Independent](http://www.independent.co.uk/sport/football/international/france-suspend-entire-world-cup-squad-2033933.html)
 
 ### Related:

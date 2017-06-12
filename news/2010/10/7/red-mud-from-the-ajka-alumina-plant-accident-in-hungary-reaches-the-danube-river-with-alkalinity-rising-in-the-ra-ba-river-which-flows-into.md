@@ -10,7 +10,7 @@ Toxic red sludge from a Hungarian alumina plant reached the Danube on Thursday a
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5i14JiKunrOSccRKcYRh_7nEcg7nQ?docId=CNG.38f07e975f372e7049411fd0dc7fe1ab.461)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/201010773641415530.html)
 3. [BBC](http://www.bbc.co.uk/news/world-europe-11491412)
-4. [Reuters](http://www.reuters.com/article/idUSTRE69415O20101007?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News))
+4. [Reuters](http://www.reuters.com/article/idUSTRE69415O20101007)
 
 ### Related:
 

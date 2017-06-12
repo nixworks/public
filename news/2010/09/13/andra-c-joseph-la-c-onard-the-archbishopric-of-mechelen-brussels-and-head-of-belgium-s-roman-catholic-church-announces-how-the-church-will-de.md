@@ -8,7 +8,7 @@
 ### Source:
 
 1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20100913/wl_afp/belgiumreligionchildabusecardinal)
-2. [BBC](http://www.bbc.co.uk/news/world-europe-11281071?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%253A+co%252FTWKu+%2528BBC+News+%257C+World+%257C+UK+Edition%2529&utm_content=Google+Feedfetcher)
+2. [BBC](http://www.bbc.co.uk/news/world-europe-11281071)
 
 ### Related:
 

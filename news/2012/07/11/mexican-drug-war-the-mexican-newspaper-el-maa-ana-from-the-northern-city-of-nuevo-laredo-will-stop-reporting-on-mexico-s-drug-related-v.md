@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Huffington Post](http://www.huffingtonpost.com/2012/07/11/el-manana-newspaper-stories-grenade-attack_n_1664978.html?utm_hp_ref=media)
+1. [Huffington Post](http://www.huffingtonpost.com/2012/07/11/el-manana-newspaper-stories-grenade-attack_n_1664978.html)
 
 ### Related:
 

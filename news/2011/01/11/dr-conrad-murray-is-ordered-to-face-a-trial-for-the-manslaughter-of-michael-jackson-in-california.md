@@ -7,7 +7,7 @@ Dr. Conrad Murray was just ordered to stand trial in the death of Michael Jackso
 
 ### Source:
 
-1. [TMZ](http://www.tmz.com/2011/01/11/dr-conrad-murray-ordered-stand-trial-michael-jackson-manslaughter-case-propofol-preliminary-hearing-witnesses-medical-board/?utm_source=twitterfeed&utm_medium=twitter)
+1. [TMZ](http://www.tmz.com/2011/01/11/dr-conrad-murray-ordered-stand-trial-michael-jackson-manslaughter-case-propofol-preliminary-hearing-witnesses-medical-board/)
 
 ### Related:
 

@@ -7,7 +7,7 @@ More than a dozen prisoners, some believed to be dangerous, are on the run in so
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-14101416?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-14101416)
 
 ### Related:
 

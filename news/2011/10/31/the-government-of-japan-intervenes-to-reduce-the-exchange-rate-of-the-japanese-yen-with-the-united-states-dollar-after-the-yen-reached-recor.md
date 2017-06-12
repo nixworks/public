@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/10/31/us-japan-economy-yen-idUSTRE79U09Q20111031?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+1. [Reuters](http://www.reuters.com/article/2011/10/31/us-japan-economy-yen-idUSTRE79U09Q20111031?feedType=RSS&feedName=topNews)
 
 ### Related:
 

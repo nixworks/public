@@ -8,7 +8,7 @@ Two of four men trapped in an Ecuadorean mine cave-in were found dead on Saturda
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11559631)
-2. [Reuters](http://www.reuters.com/article/idUSTRE69F0ZQ20101016?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News))
+2. [Reuters](http://www.reuters.com/article/idUSTRE69F0ZQ20101016)
 
 ### Related:
 

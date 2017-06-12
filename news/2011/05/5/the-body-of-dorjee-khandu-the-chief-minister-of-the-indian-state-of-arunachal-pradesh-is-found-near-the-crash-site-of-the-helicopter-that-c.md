@@ -7,7 +7,7 @@ India says the body of the chief minister of a northeastern state has been recov
 
 ### Source:
 
-1. [AP via Yahoo News](http://in.news.yahoo.com/india-top-officials-body-found-crash-070525501.html?utm_source=twitterfeed&utm_medium=twitter)
+1. [AP via Yahoo News](http://in.news.yahoo.com/india-top-officials-body-found-crash-070525501.html)
 2. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/05/india.missing.helicopter/index.html)
 
 ### Related:

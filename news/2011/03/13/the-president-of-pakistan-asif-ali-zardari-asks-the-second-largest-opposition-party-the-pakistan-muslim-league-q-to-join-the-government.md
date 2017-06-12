@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [One Pakistan](http://www.onepakistan.com/news/top-stories/91075-zardari-asks-pml-q-to-join-government.html?utm_source=twitterfeed&utm_medium=twitter)
+1. [One Pakistan](http://www.onepakistan.com/news/top-stories/91075-zardari-asks-pml-q-to-join-government.html)
 
 ### Related:
 

@@ -13,7 +13,7 @@ _Context: Chief Cabinet Secretary, Japan, Liberal Democratic Party, Prime Minist
 _Context: Nunatsiavut_
 
 ### [ Pulkovo Airlines Flight 612, a Tupolev Tu-154 plane carrying 160 passengers and 10 crew from Anapa in southern Russia to Saint Petersburg, crashes in eastern Ukraine. ](/news/2006/08/22/pulkovo-airlines-flight-612-a-tupolev-tu-154-plane-carrying-160-passengers-and-10-crew-from-anapa-in-southern-russia-to-saint-petersburg.md)
-_Context: Anapa, Pulkovo Airlines Flight 612, Russia, Saint Petersburg, Tupolev Tu-154, Ukrainians_
+_Context: Anapa, Pulkovo Airlines Flight 612, Russia, Saint Petersburg, Tupolev Tu-154, Ukraine_
 
 ### [ The Iranian Navy attacks and seizes control of a Romanian oil rig in the Persian Gulf. Iran took control of the radio room at 7 AM local time. "The Iranians fired at the rig's crane with machine guns," Tabanescu said. "They are in control now and we can't contact the rig." There were 26 workers onboard. ](/news/2006/08/22/the-iranian-navy-attacks-and-seizes-control-of-a-romanian-oil-rig-in-the-persian-gulf-iran-took-control-of-the-radio-room-at-7-am-local-ti.md)
 _Context: Iranian Navy, Persian Gulf, Romania, attacks and seizes_

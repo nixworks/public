@@ -22,7 +22,7 @@ _Context: Conservative Party, Labour, United Kingdom local elections, 2017_
 National Liberation Front secures majority in national assembly, but loses quarter of seats in Thursday&#39;s vote.
 
 ### [Files purportedly from the campaign of Emmanuel Macron are posted online. Macron campaign officials say the files are a mix of fake and authentic documents and drew parallels with what happened in the 2016 US Presidential elections. ](/news/2017/05/5/files-purportedly-from-the-campaign-of-emmanuel-macron-are-posted-online-macron-campaign-officials-say-the-files-are-a-mix-of-fake-and-auth.md)
-_Context: Emmanuel Macron, French presidential election, 2017, what happened in the 2016 US Presidential elections._
+_Context: Emmanuel Macron, last month's presidential election, what happened in the 2016 US Presidential elections._
 
 ### [Tennessee state senator and former Army flight surgeon Mark E. Green withdraws his name from consideration as Secretary of the Army because of political opposition. Green was the Trump Administration's second nominee for this position. ](/news/2017/05/5/tennessee-state-senator-and-former-army-flight-surgeon-mark-e-green-withdraws-his-name-from-consideration-as-secretary-of-the-army-because.md)
 _Context: Mark E. Green, Political appointments of Donald Trump, Secretary of the Army, Tennessee, flight surgeon_

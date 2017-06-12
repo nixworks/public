@@ -7,7 +7,7 @@ British PM fires salvo on 30th anniversary of Falklands War amid reports that Ar
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/04/20124204837821154.html?utm_content=automateplus&utm_campaign=Trial6&utm_source=SocialFlow&utm_term=tweets&utm_medium=MasterAccount)
+1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/04/20124204837821154.html)
 
 ### Related:
 

@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/americas/mexico-captures-man-who-allegedly-served-as-chief-hitman-of-knights-templar-drug-gang/2011/07/13/gIQARXi6CI_story.html?utm_source=twitterfeed&utm_medium=twitter)
+1. [AP via ''Washington Post](http://www.washingtonpost.com/world/americas/mexico-captures-man-who-allegedly-served-as-chief-hitman-of-knights-templar-drug-gang/2011/07/13/gIQARXi6CI_story.html)
 2. [Yahoo News](http://news.yahoo.com/deadly-record-21-slain-northern-mexican-city-215846033.html)
 
 ### Related:

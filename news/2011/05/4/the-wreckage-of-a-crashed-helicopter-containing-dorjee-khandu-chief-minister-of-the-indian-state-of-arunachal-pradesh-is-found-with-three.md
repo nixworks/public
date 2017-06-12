@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13276530?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13276530)
 2. [Indian Express](http://www.indianexpress.com/news/3-bodies-sighted-at-presumed-crash-site-of-arunachal-cms-chopper/785706/)
 
 ### Related:

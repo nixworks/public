@@ -10,7 +10,7 @@ Turkey struggled to provide shelter on Wednesday to tens of thousands left homel
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hos7mAqkawuhfrLsRn8-hu6eg2YA?docId=a2a878ee756c4d618d0dc58251222378)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-15457897)
 3. [Daily Mail](http://www.dailymail.co.uk/news/article-2052493/Turkey-earthquake-2011-death-toll-rises-270-killed-1-300-injured.html)
-4. [Reuters](http://www.reuters.com/article/2011/10/26/us-turkey-quake-idUSTRE79M10Z20111026?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+4. [Reuters](http://www.reuters.com/article/2011/10/26/us-turkey-quake-idUSTRE79M10Z20111026?feedType=RSS&feedName=topNews)
 
 ### Related:
 

@@ -8,7 +8,7 @@ A federal grand jury in Arizona indicted Jared Lee Loughner on Wednesday on char
 ### Source:
 
 1. [AP via ''Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/01/19/AR2011011905340.html?wpisrc=nl_natlalert)
-2. [Reuters](http://www.reuters.com/article/idUSTRE70J09520110120?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+2. [Reuters](http://www.reuters.com/article/idUSTRE70J09520110120?feedType=RSS&feedName=topNews)
 
 ### Related:
 

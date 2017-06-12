@@ -7,7 +7,7 @@ Foreign activists to take a stand in support of Palestinian statehood in second 
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?ID=228627&R=R1&utm_source=twitterfeed&utm_medium=twitter)
+1. [Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?ID=228627&R=R1)
 
 ### Related:
 

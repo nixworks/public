@@ -31,7 +31,7 @@ _Context: Malaysia, Malaysiakini, Najib Razak_
 _Context: Leila de Lima, Philippine, Rodrigo Duterte, Supreme Court_
 
 ### [Former Georgian president Mikhail Saakashvili resigns as governor of the Ukrainian region of Odessa, citing corruption in Odessa as the main reason. ](/news/2016/11/7/former-georgian-president-mikhail-saakashvili-resigns-as-governor-of-the-ukrainian-region-of-odessa-citing-corruption-in-odessa-as-the-main.md)
-_Context: Georgia, Mikhail Saakashvili, Odessa, Ukrainians_
+_Context: Georgia, Mikhail Saakashvili, Odessa, Ukraine_
 
 ## [Previous Day...](/news/2016/11/6/index.md)
 

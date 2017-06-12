@@ -7,7 +7,7 @@ Afghan officials announced most of the long-delayed results from a September par
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6AN0UI20101124?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News))
+1. [Reuters](http://www.reuters.com/article/idUSTRE6AN0UI20101124)
 
 ### Related:
 

@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [RTE](http://www.rte.ie/news/2011/0519/fitzgeraldg.html?utm_source=twitterfeed&utm_medium=twitter)
+1. [RTE](http://www.rte.ie/news/2011/0519/fitzgeraldg.html)
 
 ### Related:
 

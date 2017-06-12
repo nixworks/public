@@ -7,7 +7,7 @@ Gunmen sprayed bullets at New Year revelers in two bars in northeastern Kenya on
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/12/31/us-kenya-violence-idUSTRE7BU0JW20111231?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FworldNews+%28News+%2F+US+%2F+International%29)
+1. [Reuters](http://www.reuters.com/article/2011/12/31/us-kenya-violence-idUSTRE7BU0JW20111231?feedType=RSS&feedName=worldNews)
 
 ### Related:
 

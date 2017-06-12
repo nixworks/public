@@ -7,7 +7,7 @@ He won the state in 2008 by nearly 18 percentage points and pumped billions of t
 
 ### Source:
 
-1. [Washington Times](http://www.washingtontimes.com/news/2011/sep/4/obama-starts-re-election-campaign-in-detroit/?utm_source=RSS_Feed&utm_medium=RSS)
+1. [Washington Times](http://www.washingtontimes.com/news/2011/sep/4/obama-starts-re-election-campaign-in-detroit/)
 
 ### Related:
 

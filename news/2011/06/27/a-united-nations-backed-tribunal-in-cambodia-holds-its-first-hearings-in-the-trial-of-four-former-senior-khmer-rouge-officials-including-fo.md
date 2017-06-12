@@ -8,7 +8,7 @@
 ### Source:
 
 1. [AFP via France 24](http://www.france24.com/en/20110627-khmer-rouge-genocide-trial-opens-cambodia-0#)
-2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13922564?utm_source=twitterfeed&utm_medium=twitter)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13922564)
 
 ### Related:
 

@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [People](http://www.people.com/people/article/0,,20471491,00.html?xid=rss-topheadlines&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+people/headlines+(PEOPLE.com:+Top+Headlines)
+1. [People](http://www.people.com/people/article/0,,20471491,00.html?xid=rss-topheadlines)
 
 ### Related:
 

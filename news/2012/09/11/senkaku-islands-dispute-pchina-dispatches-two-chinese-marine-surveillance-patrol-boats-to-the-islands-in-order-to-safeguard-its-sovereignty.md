@@ -13,7 +13,7 @@ China on Tuesday summoned the Japanese Ambassador here and warned it would take 
 4. [CNN](http://edition.cnn.com/2012/09/11/world/asia/china-japan-islands-dispute/index.html?eref=edition)
 5. [Daily Yomiuri](http://www.yomiuri.co.jp/dy/national/T120911004030.htm)
 6. [Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120911p2g00m0dm074000c.html)
-7. [RTTNews](http://www.rttnews.com/1962947/japan-nationalizes-disputed-islands-in-east-china-sea.aspx?type=pn&utm_source=google&utm_campaign=sitemap)
+7. [RTTNews](http://www.rttnews.com/1962947/japan-nationalizes-disputed-islands-in-east-china-sea.aspx?type=pn)
 8. [Reuters](http://www.reuters.com/article/2012/09/11/us-japan-china-idUSBRE88A1K820120911)
 9. [The Hindu](http://www.thehindu.com/news/international/article3885997.ece)
 10. [The Japan Times](http://www.japantimes.co.jp/text/nn20120911a3.html)

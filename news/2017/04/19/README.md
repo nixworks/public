@@ -34,7 +34,7 @@ _Context: Ayodhya, Babri Masjid, Bharatiya Janata Party, India, L.K. Advani, Mur
 The second round of voting in a bitterly fought campaign for Jakarta&#039;s top job will take place tomorrow, and while it is difficult to predict who will win, unrest over either outcome is likely.
 
 ### [The closely-watched CEVIPOF poll shows Emmanuel Macron and Marine Le Pen clinging to a narrow lead heading into the first stage of the election, with Le Pen recently becoming embroiled in a spat with the European Commission after refusing to appear on TF1 while there remained a Flag of Europe in the background. ](/news/2017/04/19/the-closely-watched-cevipof-poll-shows-emmanuel-macron-and-marine-le-pen-clinging-to-a-narrow-lead-heading-into-the-first-stage-of-the-elect.md)
-_Context: CEVIPOF, Emmanuel Macron, European Commission, Flag of Europe, French presidential election, 2017, Marine Le Pen, TF1_
+_Context: CEVIPOF, Emmanuel Macron, European Commission, Flag of Europe, Marine Le Pen, TF1, last month's presidential election_
 
 ### [Alternative for Germany chairwoman Frauke Petry announces that she will not lead the party in the September federal election, citing other party leaders' insistence on remaining a "fundamental opposition party", unwilling to join a coalition. ](/news/2017/04/19/alternative-for-germany-chairwoman-frauke-petry-announces-that-she-will-not-lead-the-party-in-the-september-federal-election-citing-other-p.md)
 _Context: Alternative for Germany, Frauke Petry, German federal election, 2017_

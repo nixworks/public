@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Time](http://time.com/4115471/investigators-end-search-of-el-faro-without-finding-black-box/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+timeblogs%2Fmiddle_east+%28TIME%3A+The+Middle+East+Blog%29)
+1. [Time](http://time.com/4115471/investigators-end-search-of-el-faro-without-finding-black-box/)
 
 ### Related:
 

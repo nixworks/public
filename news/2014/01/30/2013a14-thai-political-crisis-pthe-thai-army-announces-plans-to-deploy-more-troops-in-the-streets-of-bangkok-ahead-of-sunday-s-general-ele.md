@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2014/01/30/us-thailand-protest-idUSBREA0T08O20140130?feedType=RSS&feedName=topNews&utm_source=dlvr.it&utm_medium=twitter&dlvrit=992637)
+1. [Reuters](http://www.reuters.com/article/2014/01/30/us-thailand-protest-idUSBREA0T08O20140130?feedType=RSS&feedName=topNews&dlvrit=992637)
 
 ### Related:
 

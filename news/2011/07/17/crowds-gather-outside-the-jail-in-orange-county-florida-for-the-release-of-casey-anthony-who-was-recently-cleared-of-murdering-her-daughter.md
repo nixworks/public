@@ -8,7 +8,7 @@ Fox 5 NY, New York News, Breaking News, weather, sports, traffic, entertainment
 ### Source:
 
 1. [Fox News](http://www.myfoxny.com/dpp/news/protesters-and-media-gather-outside-florida-jail-ahead-of-casey-anthonys-release-20110716-ncx)
-2. [Reuters](http://www.reuters.com/article/2011/07/17/us-crime-anthony-idUSTRE76E4NJ20110717?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+2. [Reuters](http://www.reuters.com/article/2011/07/17/us-crime-anthony-idUSTRE76E4NJ20110717?feedType=RSS&feedName=topNews)
 
 ### Related:
 

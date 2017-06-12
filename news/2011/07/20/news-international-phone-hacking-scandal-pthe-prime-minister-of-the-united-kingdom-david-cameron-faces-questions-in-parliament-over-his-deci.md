@@ -9,7 +9,7 @@ MPs accuse the Met Police of a &quot;catalogue of failures&quot; over phone hack
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14212485)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14212954)
-3. [Reuters](http://www.reuters.com/article/2011/07/20/us-newscorp-idUSTRE76H07P20110720?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+3. [Reuters](http://www.reuters.com/article/2011/07/20/us-newscorp-idUSTRE76H07P20110720?feedType=RSS&feedName=topNews)
 
 ### Related:
 

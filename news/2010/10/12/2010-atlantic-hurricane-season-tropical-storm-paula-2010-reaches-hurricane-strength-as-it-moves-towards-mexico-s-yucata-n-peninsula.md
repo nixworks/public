@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE69A4TD20101012?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed:+reuters/environment+(News+/+US+/+Environment)&utm_content=Google+Feedfetcher)
+1. [Reuters](http://www.reuters.com/article/idUSTRE69A4TD20101012)
 
 ### Related:
 

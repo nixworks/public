@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia_pacific/suspected-muslim-militants-in-philippines-ambush-truckload-of-laborers-6-killed-22-wounded/2012/07/10/gJQAHN40bW_story.html?wprss=rss_social-world-headlines&utm_medium=twitter&utm_source=twitterfeed)
+1. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia_pacific/suspected-muslim-militants-in-philippines-ambush-truckload-of-laborers-6-killed-22-wounded/2012/07/10/gJQAHN40bW_story.html?wprss=rss_social-world-headlines)
 
 ### Related:
 

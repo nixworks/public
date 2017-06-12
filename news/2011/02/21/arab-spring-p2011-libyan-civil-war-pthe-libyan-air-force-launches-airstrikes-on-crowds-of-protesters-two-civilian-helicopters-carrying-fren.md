@@ -19,7 +19,7 @@ Pilots tell Maltese authorities they had been ordered to bomb anti-government pr
 10. [Los Angeles Times](http://latimesblogs.latimes.com/babylonbeyond/2011/02/malta-two-libyan-fighter-jets-seen-landing.html)
 11. [NPR](http://www.npr.org/templates/story/story.php?storyId=133940091)
 12. [Reuters](http://af.reuters.com/article/libyaNews/idAFLDE71K1TQ20110221)
-13. [Reuters](http://www.reuters.com/article/2011/02/21/us-libya-usa-idUSTRE71K6D520110221?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+13. [Reuters](http://www.reuters.com/article/2011/02/21/us-libya-usa-idUSTRE71K6D520110221?feedType=RSS&feedName=topNews)
 14. [The Atlantic](http://andrewsullivan.theatlantic.com/the_daily_dish/2011/02/the-military-splits.html)
 15. [The Guardian](http://www.guardian.co.uk/world/2011/feb/20/libya-defiant-protesters-feared-dead)
 16. [The Guardian](http://www.guardian.co.uk/world/2011/feb/21/libya-pilots-flee-to-malta)

@@ -7,7 +7,7 @@ The African Union warns of potential &#39;catastrophic consequences&#39; for tro
 
 ### Source:
 
-1. [AFP via ''The Daily Star](http://www.dailystar.com.lb/News/World/2015/Aug-16/311333-burundi-crisis-poses-catastrophic-risk-for-region-au.ashx?utm_content=bufferc2fdf&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+1. [AFP via ''The Daily Star](http://www.dailystar.com.lb/News/World/2015/Aug-16/311333-burundi-crisis-poses-catastrophic-risk-for-region-au.ashx)
 
 ### Related:
 

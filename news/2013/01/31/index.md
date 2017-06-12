@@ -49,7 +49,7 @@ _Context: Russia, Victory Day, Volgograd, battle of the same name_
 _Context: Ivica Dacic, Prime Minster, Serbia, interviewer, model, prank, underwear_
 
 ### [A main belt asteroid discovered at Ukraine's Andrushivka Astronomical Observatory in August 2008 is named 274301 Wikipedia after the Wikipedia encyclopedia. ](/news/2013/01/31/a-main-belt-asteroid-discovered-at-ukraine-s-andrushivka-astronomical-observatory-in-august-2008-is-named-274301-wikipedia-after-the-wikiped.md)
-_Context: 274301 Wikipedia, Andrushivka Astronomical Observatory, Ukrainians, Wikipedia, main belt asteroid_
+_Context: 274301 Wikipedia, Andrushivka Astronomical Observatory, Ukraine, Wikipedia, main belt asteroid_
 
 ### [NASA unveils the prototype of a lunar mining robot called the Regolith Advanced Surface Systems Operations Robot (RASSOR). ](/news/2013/01/31/nasa-unveils-the-prototype-of-a-lunar-mining-robot-called-the-regolith-advanced-surface-systems-operations-robot-rassor.md)
 The Regolith Advanced Surface Systems Operations Robot — RASSOR, for short — is the robot that will help NASA find water on the moon, and could eventually lead to a permanent, manned lunar base....

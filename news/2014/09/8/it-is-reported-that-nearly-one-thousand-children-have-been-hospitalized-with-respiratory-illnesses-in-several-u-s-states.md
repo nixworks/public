@@ -7,4 +7,4 @@ Officials in several states, including Missouri, are reporting cases of respirat
 
 ### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation-now/2014/09/08/respiratory-virus-midwest-children/15269751/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=usatoday-newstopstories)
+1. [USA Today](http://www.usatoday.com/story/news/nation-now/2014/09/08/respiratory-virus-midwest-children/15269751/)

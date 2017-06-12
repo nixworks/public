@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/n-korea-to-allow-nuclear-inspectors/story-e6frg6so-1225973997216?from=public_rss&utm_source=twitterfeed&utm_medium=twitter)
+1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/n-korea-to-allow-nuclear-inspectors/story-e6frg6so-1225973997216?from=public_rss)
 
 ### Related:
 

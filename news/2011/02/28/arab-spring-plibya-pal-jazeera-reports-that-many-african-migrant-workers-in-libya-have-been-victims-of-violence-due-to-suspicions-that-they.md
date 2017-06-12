@@ -15,7 +15,7 @@ Rights groups fear dozens killed in violent backlash against supposed Gaddafi-hi
 6. [New York Times](http://www.nytimes.com/2011/03/01/world/africa/01unrest.html?hp)
 7. [Reuters](http://af.reuters.com/article/libyaNews/idAFLDE71R0FN20110228)
 8. [Reuters](http://af.reuters.com/article/topNews/idAFJOE71R0K020110228?sp=true)
-9. [Reuters](http://www.reuters.com/article/2011/02/28/us-libya-protests-idUSTRE71G0A620110228?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News))
+9. [Reuters](http://www.reuters.com/article/2011/02/28/us-libya-protests-idUSTRE71G0A620110228?feedType=RSS&feedName=topNews)
 10. [Times of India](http://timesofindia.indiatimes.com/world/middle-east/Bahrain-protesters-block-Parliament/articleshow/7593904.cms)
 11. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/02/britain-working-on-plans-for-a-no-fly-zone-over-libya/1)
 12. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/02/28/AR2011022802797.html?hpid=topnews)

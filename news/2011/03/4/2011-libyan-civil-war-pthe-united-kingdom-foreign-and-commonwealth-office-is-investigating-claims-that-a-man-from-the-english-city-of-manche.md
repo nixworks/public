@@ -12,7 +12,7 @@ Libyan forces loyal to leader Muammar Gaddafi fought their way into a town near 
 3. [AP via Forbes](http://www.forbes.com/feeds/ap/2011/03/04/general-eu-libya-interpol_8338894.html)
 4. [BBC News](http://www.bbc.co.uk/news/world-africa-12644435)
 5. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7230A220110304?sp=true)
-6. [Reuters](http://www.reuters.com/article/2011/03/04/libya-east-bombing-idUSLDE72301S20110304?feedType=RSS&feedName=hotStocksNews&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=DTN+Stock+Market%3A&utm_content=Google+International)
+6. [Reuters](http://www.reuters.com/article/2011/03/04/libya-east-bombing-idUSLDE72301S20110304?feedType=RSS&feedName=hotStocksNews)
 7. [Reuters](http://www.reuters.com/article/2011/03/04/libya-port-idUSLDE72320420110304)
 8. [Reuters](http://www.reuters.com/article/2011/03/04/us-libya-zawiyah-idUSTRE7233T220110304)
 9. [Sky News](http://news.sky.com/skynews/Article/201009115945138)

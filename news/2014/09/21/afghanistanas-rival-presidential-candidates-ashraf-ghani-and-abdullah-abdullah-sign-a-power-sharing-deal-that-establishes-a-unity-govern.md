@@ -7,7 +7,7 @@ Afghanistan’s rival presidential candidates have signed a power-sharing deal t
 
 ### Source:
 
-1. [AP via Mashable](http://mashable.com/2014/09/21/afghanistan-new-president/?utm_campaign=Feed%3A+Mashable+%28Mashable%29&utm_cid=Mash-Prod-RSS-Feedburner-All-Partial&utm_medium=feed&utm_source=feedburner&utm_content=Google+Feedfetcher)
+1. [AP via Mashable](http://mashable.com/2014/09/21/afghanistan-new-president/)
 2. [Euronews](http://www.euronews.com/2014/09/21/afghanistan-agreement-signed-on-unity-government/)
 
 ### Related:

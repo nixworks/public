@@ -7,7 +7,7 @@ Nine people are killed and 11 more injured after a fire breaks out in a bar in t
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12658370?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12658370)
 2. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aALL&ID=201103060014)
 
 ### Related:

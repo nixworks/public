@@ -7,7 +7,7 @@ Norwegian Air Shuttle is to cancel all flights in Norway, Sweden and Denmark on 
 
 ### Source:
 
-1. [Norway local](http://www.thelocal.no/20150303/800-staff-sent-home-after-norwegian-strike-action?utm_source=twitterfeed&utm_medium=twitter)
+1. [Norway local](http://www.thelocal.no/20150303/800-staff-sent-home-after-norwegian-strike-action)
 
 ### Related:
 

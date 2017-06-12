@@ -8,7 +8,7 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8559985.stm)
-2. [CNN](http://www.cnn.com/2010/WORLD/europe/03/10/spain.aid.worker.freed/index.html?eref=rss_world&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_world+%28RSS%3A+World%29)
+2. [CNN](http://www.cnn.com/2010/WORLD/europe/03/10/spain.aid.worker.freed/index.html?eref=rss_world)
 3. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/6906260.html)
 4. [IOL](http://www.iol.co.za/index.php?from=rss_Africa&set_id=1&click_id=68&art_id=nw20100310131017373C309349)
 

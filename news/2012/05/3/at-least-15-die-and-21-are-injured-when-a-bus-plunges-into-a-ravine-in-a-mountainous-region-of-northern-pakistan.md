@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AFP via ''The Telegraph](http://www.dailytelegraph.com.au/news/breaking-news/bus-crash-kills-15-in-northern-pakistan/story-e6freuyi-1226345918547?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+dailytelegraphbreakingnewsndm+%28Daily+Telegraph+%7C+Breaking+News%29)
+1. [AFP via ''The Telegraph](http://www.dailytelegraph.com.au/news/breaking-news/bus-crash-kills-15-in-northern-pakistan/story-e6freuyi-1226345918547)
 
 ### Related:
 

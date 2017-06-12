@@ -7,7 +7,7 @@ _Context: Libya, Libyan Civil War, Tunisia_
 _Context: 2011 Yemeni protests, Sana'a, Yemen_
 
 ### [Smoke is seen rising from Muammar Gaddafi's compound in Tripoli, Libya, following a NATO airstrike which reportedly kills three people. ](/news/2011/05/24/smoke-is-seen-rising-from-muammar-gaddafi-s-compound-in-tripoli-libya-following-a-nato-airstrike-which-reportedly-kills-three-people.md)
-AT least three people have been killed and 150 wounded as the Libyan capital Tripoli was rocked by a NATO-led aerial bombardment.
+_Context: Libya, Muammar Gaddafi, NATO, Tripoli, compound_
 
 ### [A suicide bomber attacks the headquarters of Kazakhstan's security service, causing casualties. ](/news/2011/05/24/a-suicide-bomber-attacks-the-headquarters-of-kazakhstan-s-security-service-causing-casualties.md)
 _Context: Kazakhstan, suicide bomber_

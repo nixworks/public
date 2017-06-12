@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/09/04/us-germany-lufthansa-strikes-idUSBRE88303R20120904?feedType=RSS&feedName=businessNews&utm_source=dlvr.it&utm_medium=twitter&dlvrit=56943)
+1. [Reuters](http://www.reuters.com/article/2012/09/04/us-germany-lufthansa-strikes-idUSBRE88303R20120904?feedType=RSS&feedName=businessNews&dlvrit=56943)
 
 ### Related:
 

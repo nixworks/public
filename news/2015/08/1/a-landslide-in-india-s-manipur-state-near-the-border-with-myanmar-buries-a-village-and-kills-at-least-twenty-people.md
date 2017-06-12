@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [The Times of India](http://timesofindia.indiatimes.com/india/Landslide-buries-a-whole-village-killing-20-in-Manipur-near-Myanmar-border/articleshow/48309521.cms?utm_source=twitter.com&utm_medium=referral&utm_campaign=timesofindia)
+1. [The Times of India](http://timesofindia.indiatimes.com/india/Landslide-buries-a-whole-village-killing-20-in-Manipur-near-Myanmar-border/articleshow/48309521.cms)
 
 ### Related:
 

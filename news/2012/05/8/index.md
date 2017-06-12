@@ -34,7 +34,7 @@ _Context: CIA, al-Qaida, double agent_
 _Context: New York Court of Appeals, The People v. James Kent, child pornography_
 
 ### [Former Ukrainian prime minister Yulia Tymoshenko ends her hunger strike in detention. ](/news/2012/05/8/former-ukrainian-prime-minister-yulia-tymoshenko-ends-her-hunger-strike-in-detention.md)
-_Context: Ukrainians, Yulia Tymoshenko_
+_Context: Ukraine, Yulia Tymoshenko_
 
 ### [Next Israeli legislative election: Prime Minister Benjamin Netanyahu reaches an agreement with the Head of Opposition Shaul Mofaz for Kadima to join the current government, thus canceling the early election supposed to be held in September. ](/news/2012/05/8/next-israeli-legislative-election-prime-minister-benjamin-netanyahu-reaches-an-agreement-with-the-head-of-opposition-shaul-mofaz-for-kadima.md)
 Late-night political drama: Early elections averted as Likud, Kadima agree on unity government. Shaul Mofaz appointed deputy PM, to take part in key security meetings. Coalition to promote haredi draft

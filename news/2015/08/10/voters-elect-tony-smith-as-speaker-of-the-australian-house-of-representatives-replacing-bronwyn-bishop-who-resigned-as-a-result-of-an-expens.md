@@ -2,12 +2,12 @@
 
 # Voters elect Tony Smith as Speaker of the Australian House of Representatives replacing Bronwyn Bishop who resigned as a result of an expenses scandal. 
 
-Victorian Liberal Tony Smith has been elected by his colleagues to serve as the new Speaker of Australia&#039;s Parliament.
+
 
 
 ### Source:
 
-1. [The Sydney Morning Herald](http://www.smh.com.au/federal-politics/political-news/tony-smith-elected-new-speaker-following-bronwyn-bishop-resignation-20150809-giv9ln.html?utm_source=twitter&utm_medium=social&utm_campaign=nc&eid=socialn:twi-13omn1677-edtrl-other:nnn-17/02/2014-edtrs_socialshare-all-nnn-nnn-vars-o&sa=D&usg=ALhdy28zsr6qiq)
+1. [The Sydney Morning Herald](http://www.smh.com.au/federal-politics/political-news/tony-smith-elected-new-speaker-following-bronwyn-bishop-resignation-20150809-giv9ln.html?eid=socialn:twi-13omn1677-edtrl-other:nnn-17/02/2014-edtrs_socialshare-all-nnn-nnn-vars-o&sa=D&usg=ALhdy28zsr6qiq)
 
 ### Related:
 

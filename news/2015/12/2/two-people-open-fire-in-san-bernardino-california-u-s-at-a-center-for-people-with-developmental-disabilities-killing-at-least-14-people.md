@@ -7,7 +7,7 @@ Gunmen opened fire on a holiday party on Wednesday at a social services agency i
 
 ### Source:
 
-1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/gunman-in-mass-shooting-in-california/story-e6frg6so-1227631887153?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A%20TheAustralianNewsNDM%20%28The%20Australian%20%7C%20News%20%7C%29)
+1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/gunman-in-mass-shooting-in-california/story-e6frg6so-1227631887153)
 2. [CNN](http://edition.cnn.com/2015/12/02/us/san-bernardino-shooting/index.html)
 3. [Fox News](http://www.foxnews.com/us/2015/12/02/as-many-as-20-shot-police-in-standoff-in-san-bernardino-calif/?intcmp=hpbt1)
 4. [Reuters](http://www.reuters.com/article/2015/12/02/us-california-shooting-idUSKBN0TL2F120151202?feedType=RSS&feedName=topNews)

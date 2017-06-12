@@ -8,7 +8,7 @@ There are no reports so far of critical injuries or fatalities, but emergency cr
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/us/2012/04/06/navy-jet-reportedly-crashes-in-virginia/?test=latestnews)
-2. [Reuters](http://www.reuters.com/article/2012/04/07/us-usa-crash-navy-idUSBRE8350EX20120407?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+2. [Reuters](http://www.reuters.com/article/2012/04/07/us-usa-crash-navy-idUSBRE8350EX20120407?feedType=RSS&feedName=topNews)
 3. [WAVY-TV](http://www.wavy.com/dpp/news/local_news/va_beach/military-plane-crash)
 
 ### Related:

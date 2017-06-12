@@ -8,7 +8,7 @@ Israel dismisses from his post a soldier who hit a pro-Palestinian activist in t
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17760023)
-2. [The Globe and Mail](http://www.theglobeandmail.com/news/world/worldview/what-was-he-thinking-soldiers-assault-leaves-israelis-angry-embarrassed/article2406216/?utm_medium=Feeds%3A%20RSS%2FAtom&utm_source=World&utm_content=2406216)
+2. [The Globe and Mail](http://www.theglobeandmail.com/news/world/worldview/what-was-he-thinking-soldiers-assault-leaves-israelis-angry-embarrassed/article2406216/)
 3. [Xinhua](http://news.xinhuanet.com/english/world/2012-04/19/c_131536274.htm)
 
 ### Related:

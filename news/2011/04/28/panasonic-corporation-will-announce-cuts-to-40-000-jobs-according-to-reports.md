@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/04/28/panasonic-idUSL3E7FS03A20110428?feedType=RSS&feedName=marketsNews&utm_medium=twitter&utm_source=twitterfeed)
+1. [Reuters](http://www.reuters.com/article/2011/04/28/panasonic-idUSL3E7FS03A20110428?feedType=RSS&feedName=marketsNews)
 
 ### Related:
 

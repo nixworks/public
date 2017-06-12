@@ -8,7 +8,7 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8550687.stm)
-2. [CNN](http://www.cnn.com/2010/TRAVEL/03/04/sweden.ice.ships/index.html?eref=rss_mostpopular&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_mostpopular+%28RSS%3A+Most+Popular%29)
+2. [CNN](http://www.cnn.com/2010/TRAVEL/03/04/sweden.ice.ships/index.html?eref=rss_mostpopular)
 3. [The Age](http://news.theage.com.au/breaking-news-world/fifty-ships-stuck-in-ice-off-sweden-20100305-pm5p.html)
 
 ### Related:

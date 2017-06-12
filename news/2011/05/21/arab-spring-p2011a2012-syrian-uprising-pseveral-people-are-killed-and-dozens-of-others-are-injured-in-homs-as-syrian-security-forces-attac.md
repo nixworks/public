@@ -10,7 +10,7 @@ At least 11 dead and 27 injured in Homs, activists say, as thousands attend fune
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/20115211441542189.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/2011521165814481734.html)
 3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/20115211816200964.html)
-4. [CNN](http://edition.cnn.com/2011/WORLD/africa/05/21/libya.small.towns/index.html?eref=edition_africa&utm_source=twitterfeed&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fedition_africa+(RSS%3A+Africa))
+4. [CNN](http://edition.cnn.com/2011/WORLD/africa/05/21/libya.small.towns/index.html?eref=edition_africa)
 5. [Journal of Turkish Weekly](http://www.turkishweekly.net/news/115335/egypt-border-guards-shoot-migrant-at-israel-border.html)
 6. [Reuters](http://ca.reuters.com/article/topNews/idCATRE73L1PP20110521)
 7. [Reuters](http://ca.reuters.com/article/topNews/idCATRE74K1HX20110521?sp=true)

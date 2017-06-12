@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/bangkok-police-detain-at/1672856.html?cid=TWTCNA&utm_source=dlvr.it&utm_medium=twitter)
+1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/bangkok-police-detain-at/1672856.html?cid=TWTCNA)
 
 ### Related:
 

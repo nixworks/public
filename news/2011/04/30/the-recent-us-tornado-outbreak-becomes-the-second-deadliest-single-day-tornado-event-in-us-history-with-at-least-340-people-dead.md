@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2011/US/04/30/severe.weather/index.html?eref=rss_us&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_us+%28RSS%3A+U.S.%29)
+1. [CNN](http://www.cnn.com/2011/US/04/30/severe.weather/index.html?eref=rss_us)
 
 ### Related:
 

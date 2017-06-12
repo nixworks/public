@@ -9,7 +9,7 @@ A plane carrying several Australian mining executives goes missing on a flight b
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10361073.stm)
 2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20100621-276744/Plane-carrying-Australian-execs-missing-over-Africa)
-3. [Reuters](http://uk.reuters.com/article/idUKTRE65J2B420100620?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
+3. [Reuters](http://uk.reuters.com/article/idUKTRE65J2B420100620?feedType=RSS&feedName=worldNews)
 4. [Sydney Morning Herald](http://www.smh.com.au/business/six-mining-magnates-feared-dead-as-plane-vanishes-in-africa-20100620-ypct.html)
 
 ### Related:

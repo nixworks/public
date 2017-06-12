@@ -7,7 +7,7 @@ Security forces in Mexico say a soldier and two suspected gunmen have been kille
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12967328?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12967328)
 
 ### Related:
 

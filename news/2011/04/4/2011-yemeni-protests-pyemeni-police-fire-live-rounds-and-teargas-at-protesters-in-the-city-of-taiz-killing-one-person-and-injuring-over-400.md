@@ -7,9 +7,9 @@ Police and armed men in civilian clothes opened fire on anti-government demonstr
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12951786?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12951786)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12956262)
-3. [Reuters](http://www.reuters.com/article/2011/04/04/us-yemen-idUSTRE7310ON20110404?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+3. [Reuters](http://www.reuters.com/article/2011/04/04/us-yemen-idUSTRE7310ON20110404?feedType=RSS&feedName=topNews)
 
 ### Related:
 

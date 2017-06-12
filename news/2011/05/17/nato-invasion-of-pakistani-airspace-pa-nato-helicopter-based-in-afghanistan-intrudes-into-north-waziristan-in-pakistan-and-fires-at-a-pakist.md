@@ -2,13 +2,13 @@
 
 # NATO invasion of Pakistani airspace:A NATO helicopter based in Afghanistan intrudes into North Waziristan in Pakistan and fires at a Pakistan Army checkpoint, wounding two soldiers. 
 
-Harrison and Haji Mujtaba
+The Pakistani army protests after two of its soldiers are injured in a clash with Nato helicopters in the border region of North Waziristan.
 
 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13421568)
-2. [Reuters](http://www.reuters.com/article/2011/05/17/us-pakistan-nato-idUSTRE74G0PS20110517?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+2. [Reuters](http://www.reuters.com/article/2011/05/17/us-pakistan-nato-idUSTRE74G0PS20110517?feedType=RSS&feedName=topNews)
 
 ### Related:
 

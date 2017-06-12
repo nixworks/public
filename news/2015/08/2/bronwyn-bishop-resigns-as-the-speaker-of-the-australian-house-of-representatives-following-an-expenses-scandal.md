@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/national-affairs/bronwyn-bishop-speaker-resigns-pm-launches-review-of-entitlements/story-fn59niix-1227466858302?utm_content=buffer4d2e8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+1. [The Australian](http://www.theaustralian.com.au/national-affairs/bronwyn-bishop-speaker-resigns-pm-launches-review-of-entitlements/story-fn59niix-1227466858302)
 
 ### Related:
 

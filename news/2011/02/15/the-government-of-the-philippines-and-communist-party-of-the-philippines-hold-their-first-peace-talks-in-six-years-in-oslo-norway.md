@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The government of the Philippines and the Communist Party cancel peace talks after president Rodrigo Duterte declares martial law in Mindanao. ](/news/2017/05/28/the-government-of-the-philippines-and-the-communist-party-cancel-peace-talks-after-president-rodrigo-duterte-declares-martial-law-in-mindana.md) _Context: Communist Party, government_
+1. [The government of the Philippines and the Communist Party cancel peace talks after president Rodrigo Duterte declares martial law in Mindanao. ](/news/2017/05/28/the-government-of-the-philippines-and-the-communist-party-cancel-peace-talks-after-president-rodrigo-duterte-declares-martial-law-in-mindana.md) _Context: Communist Party, Philippine government_
 2. [Colombian president Juan Manuel Santos receives his award in Oslo, Norway. ](/news/2016/12/10/colombian-president-juan-manuel-santos-receives-his-award-in-oslo-norway.md) _Context: Norway, Oslo_
 3. [Oslo's city council announces plans to ban cars from the Norwegian capital's central city by 2019. ](/news/2015/10/20/oslo-s-city-council-announces-plans-to-ban-cars-from-the-norwegian-capital-s-central-city-by-2019.md) _Context: Norway, Oslo_
 4. [Leaders of the European Union accept the 2012 Nobel Peace Prize in Oslo, Norway. ](/news/2012/12/10/leaders-of-the-european-union-accept-the-2012-nobel-peace-prize-in-oslo-norway.md) _Context: Norway, Oslo_

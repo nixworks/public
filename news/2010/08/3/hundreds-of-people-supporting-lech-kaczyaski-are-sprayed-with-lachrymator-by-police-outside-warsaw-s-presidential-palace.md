@@ -8,7 +8,7 @@ Poland delays the planned removal of a cross dedicated to the late President Kac
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10853307)
-2. [Reuters](http://uk.reuters.com/article/idUKTRE6721TN20100803?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
+2. [Reuters](http://uk.reuters.com/article/idUKTRE6721TN20100803)
 3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/08/03/AR2010080302072.html)
 
 ### Related:

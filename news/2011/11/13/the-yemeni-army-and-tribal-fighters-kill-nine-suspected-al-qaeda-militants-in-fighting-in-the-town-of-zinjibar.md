@@ -7,7 +7,7 @@ Yemen President Ali Abdullah Saleh is refusing to hand over power and resisting 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/11/13/us-yemen-militants-idUSTRE7AC09S20111113?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FworldNews+%28News+%2F+US+%2F+International%29)
+1. [Reuters](http://www.reuters.com/article/2011/11/13/us-yemen-militants-idUSTRE7AC09S20111113?feedType=RSS&feedName=worldNews)
 
 ### Related:
 

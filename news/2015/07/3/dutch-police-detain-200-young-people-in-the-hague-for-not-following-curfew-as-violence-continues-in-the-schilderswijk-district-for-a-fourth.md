@@ -7,7 +7,7 @@ Police in The Hague said Friday they had detained more than 200 people overnight
 
 ### Source:
 
-1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/World/2015/Jul-03/304957-hague-police-detain-200-as-disturbances-continue.ashx?utm_content=buffer3ccfa&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/World/2015/Jul-03/304957-hague-police-detain-200-as-disturbances-continue.ashx)
 
 ### Related:
 

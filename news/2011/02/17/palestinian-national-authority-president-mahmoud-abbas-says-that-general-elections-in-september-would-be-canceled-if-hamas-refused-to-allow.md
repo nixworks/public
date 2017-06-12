@@ -2,12 +2,12 @@
 
 # Palestinian National Authority President Mahmoud Abbas says that general elections in September would be canceled if Hamas refused to allow voting in the Gaza Strip. 
 
-
+PA president declares that elections must include West Bank and the Hamas-controlled Gaza Strip.
 
 
 ### Source:
 
-1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=208637&newsletter=170211&utm_source=Pulseem&utm_medium=Email&utm_campaign=Jpost_Newsletter_17/02)
+1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=208637&newsletter=170211)
 
 ### Related:
 

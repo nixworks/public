@@ -7,7 +7,7 @@ Maryland Gov. Martin O&apos;Malley will sign legislation Thursday making his sta
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/news/politics/la-pn-maryland-governor-gay-marriage-20120301,0,2064981.story?track=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+latimes%2Fnews%2Fpolitics+(L.A.+Times+-+Politics))
+1. [Los Angeles Times](http://www.latimes.com/news/politics/la-pn-maryland-governor-gay-marriage-20120301,0,2064981.story?track=rss)
 
 ### Related:
 

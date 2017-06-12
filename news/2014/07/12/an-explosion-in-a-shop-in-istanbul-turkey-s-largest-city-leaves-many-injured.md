@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [World Bulletin](http://www.worldbulletin.net/general/140546/many-reported-injured-in-istanbul-shop-blast?utm_medium=twitter&utm_source=twitterfeed)
+1. [World Bulletin](http://www.worldbulletin.net/general/140546/many-reported-injured-in-istanbul-shop-blast)
 
 ### Related:
 

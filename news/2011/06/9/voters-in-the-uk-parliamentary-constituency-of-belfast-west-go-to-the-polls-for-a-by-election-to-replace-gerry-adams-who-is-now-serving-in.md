@@ -2,12 +2,12 @@
 
 # Voters in the UK parliamentary constituency of Belfast West go to the polls for a by-election to replace Gerry Adams, who is now serving in the Parliament of Ireland representing Louth. 
 
-Voters in West Belfast are heading to the polls today in a Westminster by-election to elect a MP to replace Gerry Adams.
+
 
 
 ### Source:
 
-1. [RTE](http://www.rte.ie/news/2011/0609/adamsg.html?utm_source=twitterfeed&utm_medium=twitter)
+1. [RTE](http://www.rte.ie/news/2011/0609/adamsg.html)
 
 ### Related:
 

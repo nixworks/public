@@ -7,7 +7,7 @@ Any word, in any characters, can be used in biggest internet shake-up ever.
 
 ### Source:
 
-1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/internet-body-approves-new-web-suffixes-20110620-1gb9p.html?utm_source=twitterfeed&utm_medium=twitter)
+1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/internet-body-approves-new-web-suffixes-20110620-1gb9p.html)
 2. [Al Jazeera](http://english.aljazeera.net/business/news/2011/06/20116201510786468.html)
 
 ### Related:

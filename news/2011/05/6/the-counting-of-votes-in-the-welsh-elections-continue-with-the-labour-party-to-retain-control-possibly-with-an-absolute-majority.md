@@ -7,4 +7,4 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/uk-wales-13305375?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/uk-wales-13305375)

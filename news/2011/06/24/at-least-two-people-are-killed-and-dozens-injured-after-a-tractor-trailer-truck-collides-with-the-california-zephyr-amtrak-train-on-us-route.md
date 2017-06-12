@@ -7,7 +7,7 @@ At least two people were killed and dozens injured on Friday when a tractor-trai
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/06/25/us-amtrak-collision-idUSTRE75N6CX20110625?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+1. [Reuters](http://www.reuters.com/article/2011/06/25/us-amtrak-collision-idUSTRE75N6CX20110625?feedType=RSS&feedName=topNews)
 
 ### Related:
 

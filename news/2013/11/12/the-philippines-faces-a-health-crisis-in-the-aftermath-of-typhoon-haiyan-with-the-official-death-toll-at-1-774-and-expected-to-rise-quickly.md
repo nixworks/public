@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2013/11/11/health/typhoon-medical-crisis/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+Most+Recent%29)
+1. [CNN](http://edition.cnn.com/2013/11/11/health/typhoon-medical-crisis/index.html)
 
 ### Related:
 

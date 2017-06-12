@@ -19,7 +19,7 @@ _Context: Alphabet Inc., Calico, Google, Google, Google Capital, Google Ventures
 _Context: floods in Myanmar_
 
 ### [Voters elect Tony Smith as Speaker of the Australian House of Representatives replacing Bronwyn Bishop who resigned as a result of an expenses scandal. ](/news/2015/08/10/voters-elect-tony-smith-as-speaker-of-the-australian-house-of-representatives-replacing-bronwyn-bishop-who-resigned-as-a-result-of-an-expens.md)
-Victorian Liberal Tony Smith has been elected by his colleagues to serve as the new Speaker of Australia&#039;s Parliament.
+_Context: Bronwyn Bishop, Speaker of the Australian House of Representatives, Tony Smith_
 
 ### [A night parrot is captured for the first time in over a hundred years in Australia's outback. ](/news/2015/08/10/a-night-parrot-is-captured-for-the-first-time-in-over-a-hundred-years-in-australia-s-outback.md)
 The area of south-west Queensland where the elusive nocturnal parrot, presumed extinct, was caught is now to be protected

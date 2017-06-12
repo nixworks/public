@@ -7,7 +7,7 @@ Suspected U.S. missiles struck two vehicles carrying militants in northwest Paki
 
 ### Source:
 
-1. [AP via Fox News](http://www.foxnews.com/world/2010/08/27/intelligence-officials-say-suspected-missile-strike-kills-militants-northwest/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed:+foxnews/world+(Internal+-+World+Latest+-+Text)&utm_content=Google+Feedfetcher)
+1. [AP via Fox News](http://www.foxnews.com/world/2010/08/27/intelligence-officials-say-suspected-missile-strike-kills-militants-northwest/)
 2. [AP via MSNBC](http://www.msnbc.msn.com/id/38890391)
 3. [Al-Jazeera](http://english.aljazeera.net/news/asia/2010/08/20108281493395534.html)
 4. [DNA India](http://www.dnaindia.com/world/report_breaking-news-firing-near-us-consulate-in-peshawar_1429816)

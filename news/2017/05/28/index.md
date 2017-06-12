@@ -1,7 +1,7 @@
 ## [2017-05-28](/news/2017/05/28/index.md)
 
 ### [The government of the Philippines and the Communist Party cancel peace talks after president Rodrigo Duterte declares martial law in Mindanao. ](/news/2017/05/28/the-government-of-the-philippines-and-the-communist-party-cancel-peace-talks-after-president-rodrigo-duterte-declares-martial-law-in-mindana.md)
-_Context: CPP-NPA-NDF rebellion, Communist Party, Mindanao, Philippines, Rodrigo Duterte, government, martial law_
+_Context: CPP-NPA-NDF rebellion, Communist Party, Mindanao, Philippine government, Philippines, Rodrigo Duterte, martial law_
 
 ### [The Philippine military announces that it has discovered the bodies of 16 people, believed to have been killed by the ISIL affiliated Abu Sayyaf. Authorities say that the death toll after six days of fighting is 95, including 19 civilians. ](/news/2017/05/28/the-philippine-military-announces-that-it-has-discovered-the-bodies-of-16-people-believed-to-have-been-killed-by-the-isil-affiliated-abu-sa.md)
 _Context: Abu Sayyaf, ISIL, Marawi crisis_

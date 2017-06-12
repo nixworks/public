@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/national-affairs/western-australia-to-face-new-senate-election/story-fn59niix-1226832666548?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheAustralianNewsNDM+%28The+Australian+%7C+News+%7C%29)
+1. [The Australian](http://www.theaustralian.com.au/national-affairs/western-australia-to-face-new-senate-election/story-fn59niix-1226832666548)
 
 ### Related:
 

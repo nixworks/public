@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP via ''USA Today](http://www.usatoday.com/news/nation/2010-10-25-chandra-levy-trial_N.htm?csp=34news&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+UsatodaycomNation-TopStories+(News+-+Nation+-+Top+Stories))
+1. [AP via ''USA Today](http://www.usatoday.com/news/nation/2010-10-25-chandra-levy-trial_N.htm?csp=34news)
 
 ### Related:
 

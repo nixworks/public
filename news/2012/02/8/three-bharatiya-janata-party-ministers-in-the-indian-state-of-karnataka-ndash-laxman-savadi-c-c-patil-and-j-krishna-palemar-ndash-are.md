@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://in.reuters.com/article/2012/02/08/karnataka-porn-scandal-ministers-idINDEE81708720120208?feedType=RSS&feedName=southAsiaNews&utm_source=dlvr.it&utm_medium=twitter&dlvrit=70621)
+1. [Reuters](http://in.reuters.com/article/2012/02/08/karnataka-porn-scandal-ministers-idINDEE81708720120208?feedType=RSS&feedName=southAsiaNews&dlvrit=70621)
 
 ### Related:
 

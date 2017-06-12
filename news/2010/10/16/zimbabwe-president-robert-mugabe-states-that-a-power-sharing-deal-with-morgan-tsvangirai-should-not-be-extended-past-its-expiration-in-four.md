@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-11551493?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-11551493)
 
 ### Related:
 

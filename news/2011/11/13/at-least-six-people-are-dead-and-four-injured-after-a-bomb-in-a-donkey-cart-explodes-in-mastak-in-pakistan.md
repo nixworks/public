@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AFP via Google News](http://www.news.com.au/breaking-news/world/six-dead-in-pakistan-donkey-cart-blast/story-e6frfkui-1226193907864?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+newscomaubreakingndm+%28NEWS.com.au+%7C+Breaking+News%29)
+1. [AFP via Google News](http://www.news.com.au/breaking-news/world/six-dead-in-pakistan-donkey-cart-blast/story-e6frfkui-1226193907864)
 
 ### Related:
 

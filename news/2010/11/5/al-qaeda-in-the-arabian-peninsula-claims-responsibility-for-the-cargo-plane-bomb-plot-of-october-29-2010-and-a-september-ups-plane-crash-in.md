@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6A44PU20101105?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News))
+1. [Reuters](http://www.reuters.com/article/idUSTRE6A44PU20101105)
 
 ### Related:
 

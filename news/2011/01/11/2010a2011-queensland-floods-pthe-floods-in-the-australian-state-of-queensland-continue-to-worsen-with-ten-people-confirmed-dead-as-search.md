@@ -9,7 +9,7 @@ The Brisbane River has broken its banks amid dire predictions of the biggest flo
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/01/11/3110450.htm)
 2. [Reuters](http://www.reuters.com/article/idUSTRE6BU09620110111)
-3. [SBS](http://www.sbs.com.au/news/article/1463517/Qld-flood-death-toll-rises-to-10?utm_source=twitterfeed&utm_medium=twitter)
+3. [SBS](http://www.sbs.com.au/news/article/1463517/Qld-flood-death-toll-rises-to-10)
 4. [The Courier-Mail''] [http://www.sbs.com.au/news/article/1463967/Unstoppable-tide-hits-Brisbane (SBS](http://www.couriermail.com.au/news/toowoomba-and-lockyer-valley-flash-floods-claim-at-least-four-lives-leave-up-to-50-missing/story-e6freon6-1225985290369?from=public_rss)
 5. [The Melbourne Age](http://www.theage.com.au/environment/weather/threequarters-of-queensland-a-disaster-zone-20110111-19mf8.html)
 

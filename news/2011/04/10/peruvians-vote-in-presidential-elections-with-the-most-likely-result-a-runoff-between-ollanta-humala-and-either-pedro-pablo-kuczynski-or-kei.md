@@ -9,8 +9,7 @@ Ollanta Humala, a nationalist critical of the expanding influence of foreign com
 
 1. [AP via Newsday](http://www.newsday.com/business/unofficial-results-humala-vs-fujimori-in-runoff-1.2810974)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-13027410)
-3. [BBC](http://www.bbc.co.uk/news/world-latin-america-13027410?utm_source=twitterfeed&utm_medium=twitter)
-4. [New York Times](http://www.nytimes.com/2011/04/11/world/americas/11peru.html?_r=1)
+3. [New York Times](http://www.nytimes.com/2011/04/11/world/americas/11peru.html?_r=1)
 
 ### Related:
 

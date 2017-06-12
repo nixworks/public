@@ -40,7 +40,7 @@ _Context: George Charamba, President of Zimbabwe, Robert Mugabe_
 _Context: Hashim Thai, Kosovo, parliamentary election_
 
 ### [ An explosion in a coal mine in Zasyadko, Ukraine, kills at least 63 people and leaves many more trapped below ground. ](/news/2007/11/18/an-explosion-in-a-coal-mine-in-zasyadko-ukraine-kills-at-least-63-people-and-leaves-many-more-trapped-below-ground.md)
-_Context: Ukrainians, explosion in a coal mine_
+_Context: Ukraine, explosion in a coal mine_
 
 ### [ Jimmie Johnson wins his second straight NASCAR Nextel Cup championship for the 2007 season. ](/news/2007/11/18/jimmie-johnson-wins-his-second-straight-nascar-nextel-cup-championship-for-the-2007-season.md)
 Jimmie Johnson finished seventh in Sunday’s Ford 400 as he easily held off his friend and Hendrick Motorsports teammate Jeff Gordon for the title.

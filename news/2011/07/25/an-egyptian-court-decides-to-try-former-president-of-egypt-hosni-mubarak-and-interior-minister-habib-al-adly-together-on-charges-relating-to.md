@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AFP via Maan News](http://www.maannews.net/eng/ViewDetails.aspx?ID=408391&utm_source=twitterfeed&utm_medium=twitter)
+1. [AFP via Maan News](http://www.maannews.net/eng/ViewDetails.aspx?ID=408391)
 
 ### Related:
 

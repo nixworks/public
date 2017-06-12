@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [The Guardian](http://www.guardian.co.uk/world/2010/sep/29/mexico-landslide-oaxaca-missing?utm_source=twitterfeed&utm_medium=twitter)
+1. [The Guardian](http://www.guardian.co.uk/world/2010/sep/29/mexico-landslide-oaxaca-missing)
 
 ### Related:
 

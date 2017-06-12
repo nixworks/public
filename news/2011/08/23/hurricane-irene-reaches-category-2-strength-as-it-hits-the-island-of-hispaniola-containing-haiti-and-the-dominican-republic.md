@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/WORLD/americas/08/23/tropical.weather/index.html?eref=rss_us&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_us+%28RSS%3A+U.S.%29)
+1. [CNN](http://edition.cnn.com/2011/WORLD/americas/08/23/tropical.weather/index.html?eref=rss_us)
 
 ### Related:
 

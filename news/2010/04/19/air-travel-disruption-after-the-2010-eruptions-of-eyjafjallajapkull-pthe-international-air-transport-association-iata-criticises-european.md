@@ -11,7 +11,7 @@ Flights will finally start again in the UK tomorrow after air traffic control co
 2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8629270.stm)
 3. [Business Day](http://www.businessday.co.za/articles/Content.aspx?id=106608)
 4. [RTT News](http://www.rttnews.com/Content/MarketSensitiveNews.aspx?Id=1272803&SM=1)
-5. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE63I0CR20100419?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FAFRICATopNews+%28News+%2F+AFRICA+%2F+Top+News%29)
+5. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE63I0CR20100419?feedType=RSS&feedName=topNews)
 6. [The Guardian](http://www.guardian.co.uk/world/2010/apr/19/iceland-volcano-naval-ships-rescue)
 7. [The Independent](http://www.independent.co.uk/news/uk/home-news/royal-navy-sails-to-rescue-of-stranded-passengers-1948387.html)
 8. [The Times](http://www.timesonline.co.uk/tol/travel/news/article7101796.ece)

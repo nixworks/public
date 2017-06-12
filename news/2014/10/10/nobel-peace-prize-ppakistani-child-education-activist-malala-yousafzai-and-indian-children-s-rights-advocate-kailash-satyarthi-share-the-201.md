@@ -8,7 +8,7 @@ Pakistani child education activist Malala Yousafzai and Indian child rights camp
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-29564935)
-2. [Huffington Post](http://www.huffingtonpost.com/2014/10/10/nobel-peace-prize_n_5963634.html?ir=World&utm_campaign=101014&utm_medium=email&utm_source=Alert-world&utm_content=FullStory)
+2. [Huffington Post](http://www.huffingtonpost.com/2014/10/10/nobel-peace-prize_n_5963634.html?ir=World)
 
 ### Related:
 

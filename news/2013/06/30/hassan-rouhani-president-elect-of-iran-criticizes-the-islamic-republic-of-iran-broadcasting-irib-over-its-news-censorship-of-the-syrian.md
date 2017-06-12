@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/06/2013629143045554318.html?utm_content=automate&utm_campaign=Trial6&utm_source=NewSocialFlow&utm_term=plustweets&utm_medium=MasterAccount)
+1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/06/2013629143045554318.html)
 
 ### Related:
 

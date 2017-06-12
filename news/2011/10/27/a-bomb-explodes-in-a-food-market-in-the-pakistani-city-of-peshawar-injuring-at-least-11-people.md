@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/world/asia-pacific/bomb-explodes-in-food-market-in-northwest-pakistan-city-of-peshawar-injuring-11-people/2011/10/27/gIQALBooKM_story.html?utm_medium=twitter&utm_source=twitterfeed)
+1. [Washington Post](http://www.washingtonpost.com/world/asia-pacific/bomb-explodes-in-food-market-in-northwest-pakistan-city-of-peshawar-injuring-11-people/2011/10/27/gIQALBooKM_story.html)
 
 ### Related:
 

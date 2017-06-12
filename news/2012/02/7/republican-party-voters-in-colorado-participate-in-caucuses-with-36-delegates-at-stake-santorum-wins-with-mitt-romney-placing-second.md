@@ -13,7 +13,7 @@ US conservative Rick Santorum wins races for the Republican presidential nominat
 4. [Fox News](http://www.foxnews.com/politics/2012/02/07/santorum-romney-gingrich-paul-colorado-minnesota-missouri-republican/)
 5. [Joplin Globe](http://www.joplinglobe.com/local/x2009901121/Missouri-primary-may-be-dim-indicator-at-best)
 6. [NPR](http://www.npr.org/2012/02/06/146453136/voters-gear-up-for-minnesota-caucuses)
-7. [Reuters](http://www.reuters.com/article/2012/02/08/us-usa-campaign-idUSTRE80Q2AQ20120208?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+7. [Reuters](http://www.reuters.com/article/2012/02/08/us-usa-campaign-idUSTRE80Q2AQ20120208?feedType=RSS&feedName=topNews)
 8. [The Guardian](http://www.guardian.co.uk/world/2012/feb/07/colorado-minnesota-missouri-results-live)
 
 ### Related:

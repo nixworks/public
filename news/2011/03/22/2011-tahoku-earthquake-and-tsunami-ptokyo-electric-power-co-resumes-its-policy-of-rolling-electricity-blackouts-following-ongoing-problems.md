@@ -12,7 +12,7 @@ Tokyo Electric Power will have to compensate farmers for losses caused by the nu
 3. [Canadian Business](http://www.canadianbusiness.com/markets/market_news/article.jsp?content=D9M4I9600)
 4. [Comcast](http://www.comcast.net/articles/news-politics/20110322/US.Japan.Earthquake.Imports/)
 5. [Herald Sun](http://www.heraldsun.com.au/news/special-reports/two-survivors-found-under-rubble-nine-days-after-japanese-earthquake/story-fn7zkbgs-1226025746415)
-6. [Kyodo News](http://english.kyodonews.jp/news/2011/03/80051.html?utm_source=twitterfeed&utm_medium=twitter)
+6. [Kyodo News](http://english.kyodonews.jp/news/2011/03/80051.html)
 7. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/strong-quake-strikes-near-fukushima-20110323-1c5no.html)
 8. [USGS](http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc00029a5.php)
 

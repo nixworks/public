@@ -7,7 +7,7 @@ South Korea has test-fired a new ballistic missile with a range of 500 km (310 m
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2014/04/04/us-korea-missile-idUSBREA3305H20140404?feedType=RSS&feedName=topNews&utm_source=dlvr.it&utm_medium=twitter&dlvrit=992637)
+1. [Reuters](http://www.reuters.com/article/2014/04/04/us-korea-missile-idUSBREA3305H20140404?feedType=RSS&feedName=topNews&dlvrit=992637)
 
 ### Related:
 

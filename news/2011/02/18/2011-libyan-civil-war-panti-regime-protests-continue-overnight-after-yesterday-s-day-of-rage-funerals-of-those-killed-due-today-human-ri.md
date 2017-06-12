@@ -10,7 +10,7 @@ At least 24 people have died in anti-government protests in Libya over recent da
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12502657)
 2. [Human Rights Watch](http://www.hrw.org/en/news/2011/02/17/libya-security-forces-fire-day-anger-demonstrations)
 3. [Reuters](http://af.reuters.com/article/libyaNews/idAFLDE71H2A120110218)
-4. [TechCrunch](http://techcrunch.com/2011/02/18/reports-libya-follows-egypts-lead-starts-shutting-off-internet-services/?utm_source=%23frankguillen&utm_medium=twitter&utm_campaign=FrankGuillen+Buzz&utm_content=Google+Feedfetcher)
+4. [TechCrunch](http://techcrunch.com/2011/02/18/reports-libya-follows-egypts-lead-starts-shutting-off-internet-services/)
 5. [a radio station]; it broadcasts its message to the world - calling on the international media to cover what "the criminal [[Muammar Gaddafi|Gaddafi]]" is doing - while [http://www.libyafeb17.com/ libya17.com] posts videos in English.  [http://blog.foreignpolicy.com/posts/2011/02/18/radio_free_benghazi (''Foreign Policy](http://libya.blog-video.tv/)
 
 ### Related:

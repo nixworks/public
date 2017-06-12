@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Sydney Daily Telegraph](http://www.dailytelegraph.com.au/travel/travel-news/darwin-airport-shuts-and-flight-chaos-across-australia-feared-as-indonesias-sangeang-api-volcano-spews-ash-into-sky/story-fnjjv9zk-1226938123744?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dailytelegraphtopstoriesndm+%28Daily+Telegraph+%7C+Top+Stories%29)
+1. [Sydney Daily Telegraph](http://www.dailytelegraph.com.au/travel/travel-news/darwin-airport-shuts-and-flight-chaos-across-australia-feared-as-indonesias-sangeang-api-volcano-spews-ash-into-sky/story-fnjjv9zk-1226938123744)
 
 ### Related:
 

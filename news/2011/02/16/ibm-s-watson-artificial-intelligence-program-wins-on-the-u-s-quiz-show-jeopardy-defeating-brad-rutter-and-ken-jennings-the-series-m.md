@@ -1,6 +1,6 @@
 ### [2011-02-16](/news/2011/02/16/index.md)
 
-# IBM's Watson artificial intelligence program wins on the U.S. quiz show ''Jeopardy!'', defeating Brad Rutter and Ken Jennings, the series' most successful contestants. [http://www.pcmag.com/article2/0,2817,2380489,00.asp?kc=PCRSS03069TX1K0001121&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+ziffdavis%2Fpcmag%2Fbreakingnews+%28PCMag.com+Breaking+News%29&utm_content=Google+International# (PC Mag)]  ''Watson'' used Wikipedia, among other sources, as its knowledge base ''[http://www.vancouversun.com/entertainment/Watson+computer+Ottawa+roots/4290481/story.html (The Vancouver Sun)]'' ''[http://www.npr.org/2011/02/11/133686004/IBM-Computer-Faces-Off-Against-Jeopardy-Champs (NPR)]'' ''[http://www.ibm.com/ibm100/us/en/icons/watson/ (IBM)]''
+# IBM's Watson artificial intelligence program wins on the U.S. quiz show ''Jeopardy!'', defeating Brad Rutter and Ken Jennings, the series' most successful contestants. [http://www.pcmag.com/article2/0,2817,2380489,00.asp?kc=PCRSS03069TX1K0001121 (PC Mag)]  ''Watson'' used Wikipedia, among other sources, as its knowledge base ''[http://www.vancouversun.com/entertainment/Watson+computer+Ottawa+roots/4290481/story.html (The Vancouver Sun)]'' ''[http://www.npr.org/2011/02/11/133686004/IBM-Computer-Faces-Off-Against-Jeopardy-Champs (NPR)]'' ''[http://www.ibm.com/ibm100/us/en/icons/watson/ (IBM)]''
 
 
 

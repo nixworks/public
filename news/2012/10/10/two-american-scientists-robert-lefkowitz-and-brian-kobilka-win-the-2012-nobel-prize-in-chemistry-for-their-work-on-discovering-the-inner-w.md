@@ -7,7 +7,7 @@ Two American scientists won the 2012 Nobel Prize for chemistry on Wednesday for 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/10/10/us-nobel-chemistry-idUSBRE8990EN20121010?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+1. [Reuters](http://www.reuters.com/article/2012/10/10/us-nobel-chemistry-idUSBRE8990EN20121010?feedType=RSS&feedName=topNews)
 
 ### Related:
 

@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/suicide-bombing-kills-11-in-russian-caucasus-city-20100909-1533a.html?utm_source=twitterfeed&utm_medium=twitter)
+1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/suicide-bombing-kills-11-in-russian-caucasus-city-20100909-1533a.html)
 2. [RIA Novosti](http://en.rian.ru/russia/20100909/160530811.html)
 3. [RIA Novosti](http://en.rian.ru/russia/20100909/160531995.html)
 

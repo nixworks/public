@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/in-depth/bushfires/grampians-inferno-claims-a-life-residents-tourists-told-to-leave/story-fngw0i02-1226803763831?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheAustralianNewsNDM+%28The+Australian+%7C+News+%7C%29)
+1. [The Australian](http://www.theaustralian.com.au/in-depth/bushfires/grampians-inferno-claims-a-life-residents-tourists-told-to-leave/story-fngw0i02-1226803763831)
 
 ### Related:
 

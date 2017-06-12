@@ -7,7 +7,7 @@ Authorities crack down on recruiters working with the Islamic State group to sen
 
 ### Source:
 
-1. [The Times of Israel](http://www.timesofisrael.com/14-held-in-anti-terror-raids-in-spain-and-morocco/?utm_source=dlvr.it&utm_medium=twitter)
+1. [The Times of Israel](http://www.timesofisrael.com/14-held-in-anti-terror-raids-in-spain-and-morocco/)
 
 ### Related:
 

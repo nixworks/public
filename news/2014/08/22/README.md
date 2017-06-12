@@ -16,7 +16,7 @@ _Context: Diyala Governorate, Iraqi insurgency (2011-present), attack a Sunni mo
 _Context: Hiroshima prefecture, Japan, landslide_
 
 ### [The bodies and ashes of twenty Malaysian victims who died when the flight was shot down over Ukraine in July have been returned to Kuala Lumpur. ](/news/2014/08/22/the-bodies-and-ashes-of-twenty-malaysian-victims-who-died-when-the-flight-was-shot-down-over-ukraine-in-july-have-been-returned-to-kuala-lum.md)
-_Context: Kuala Lumpur, Malaysia Airlines Flight 17, Malaysian, Ukrainians_
+_Context: Kuala Lumpur, Malaysia Airlines Flight 17, Malaysian, Ukraine_
 
 ### [44 people are killed and 41 injured after two buses crash in the south of Egypt's Sinai Peninsula. ](/news/2014/08/22/44-people-are-killed-and-41-injured-after-two-buses-crash-in-the-south-of-egypt-s-sinai-peninsula.md)
 _Context: Egypt, Sinai_

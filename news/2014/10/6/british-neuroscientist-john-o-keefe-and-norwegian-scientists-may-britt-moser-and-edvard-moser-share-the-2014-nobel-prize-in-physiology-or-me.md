@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Huffington Post](http://www.huffingtonpost.com/2014/10/06/nobel-prize-physiology-medicine_n_5937382.html?ir=Healthy%20Living&utm_campaign=100614&utm_medium=email&utm_source=Alert-healthy-living&utm_content=FullStory)
+1. [Huffington Post](http://www.huffingtonpost.com/2014/10/06/nobel-prize-physiology-medicine_n_5937382.html?ir=Healthy%20Living)
 
 ### Related:
 

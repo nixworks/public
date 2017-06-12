@@ -7,7 +7,7 @@ Six sailors taken hostage by an armed gang off the coast of Cameroon have been f
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-11449082?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-11449082)
 
 ### Related:
 

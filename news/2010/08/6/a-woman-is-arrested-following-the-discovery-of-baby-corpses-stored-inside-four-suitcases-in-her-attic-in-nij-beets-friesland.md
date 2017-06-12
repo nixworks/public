@@ -8,6 +8,6 @@ A woman has been arrested in Friesland after the remains of babies were found hi
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10897191)
-2. [Reuters](http://uk.reuters.com/article/idUKTRE6753LN20100806?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
+2. [Reuters](http://uk.reuters.com/article/idUKTRE6753LN20100806)
 3. [Sky News](http://news.sky.com/skynews/Home/World-News/Netherlands-Dead-Babies-Found-In-Suitcases-In-Dutch-Attic-Woman-Held-After-Four-Bodies-Discovered/Article/201008115678421?f=rss)
 4. [news.com.au](http://www.news.com.au/world/dutch-mother-arrested-over-baby-murders/story-e6frfkyi-1225902339354)

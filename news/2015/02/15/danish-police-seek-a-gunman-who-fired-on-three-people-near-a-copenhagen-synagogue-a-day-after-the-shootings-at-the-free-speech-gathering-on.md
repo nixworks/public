@@ -10,7 +10,7 @@ A man shot in the head near a synagogue in central Copenhagen early today died s
 1. [BBC](http://www.bbc.com/news/world-europe-31475803#)
 2. [PA via ''The Independent](http://www.independent.co.uk/news/world/europe/copenhagen-synagogue-shooting-three-people-wounded-during-second-incident-in-danish-capital-10046846.html)
 3. [Reuters/AFP via ABC News Australia](http://www.abc.net.au/news/2015-02-15/danish-police-kill-man-in-copenhagen-close-to-earlier-attacks/6107034)
-4. [The Australian](http://www.theaustralian.com.au/news/nation/one-dead-in-copenhagen-terror-attack-on-freedom-of-speech-event/story-e6frg6nf-1227220160707?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheAustralianNewsNDM+%28The+Australian+%7C+News+%7C%29)
+4. [The Australian](http://www.theaustralian.com.au/news/nation/one-dead-in-copenhagen-terror-attack-on-freedom-of-speech-event/story-e6frg6nf-1227220160707)
 
 ### Related:
 

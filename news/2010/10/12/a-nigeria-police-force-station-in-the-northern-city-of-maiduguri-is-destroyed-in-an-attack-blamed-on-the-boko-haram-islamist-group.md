@@ -7,7 +7,7 @@ A police station in the northern Nigerian city of Maiduguri is destroyed and thr
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-11523131?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-11523131)
 
 ### Related:
 

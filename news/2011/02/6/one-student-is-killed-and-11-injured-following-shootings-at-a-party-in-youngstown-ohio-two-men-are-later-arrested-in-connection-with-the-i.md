@@ -8,7 +8,7 @@
 ### Source:
 
 1. [AP via Lexington Herald-Leader](http://www.kentucky.com/2011/02/06/1625080/police-1-dead-11-shot-at-ohio.html)
-2. [CNN](http://edition.cnn.com/2011/CRIME/02/06/ohio.students.shot/index.html?eref=rss_topstories&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+Top+Stories%29&utm_content=Google+International#)
+2. [CNN](http://edition.cnn.com/2011/CRIME/02/06/ohio.students.shot/index.html?eref=rss_topstories)
 
 ### Related:
 

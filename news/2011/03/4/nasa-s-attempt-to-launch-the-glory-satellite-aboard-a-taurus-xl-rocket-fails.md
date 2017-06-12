@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/US/03/04/nasa.rocket/index.html?eref=edition&utm_source=twitterfeed&utm_medium=twitter)
+1. [CNN](http://edition.cnn.com/2011/US/03/04/nasa.rocket/index.html?eref=edition)
 
 ### Related:
 

@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AFP, NewsCorp via ''Sydney Daily Telegraph](http://www.dailytelegraph.com.au/news/world/north-korea-and-south-korea-exchange-fire-after-patrol-boat-violates-sea-border/story-fni0xs63-1227082501055?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dailytelegraphtopstoriesndm+%28Daily+Telegraph+%7C+Top+Stories%29)
+1. [AFP, NewsCorp via ''Sydney Daily Telegraph](http://www.dailytelegraph.com.au/news/world/north-korea-and-south-korea-exchange-fire-after-patrol-boat-violates-sea-border/story-fni0xs63-1227082501055)
 
 ### Related:
 

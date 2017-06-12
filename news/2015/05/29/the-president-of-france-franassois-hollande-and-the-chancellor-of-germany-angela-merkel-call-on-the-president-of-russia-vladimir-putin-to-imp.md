@@ -8,7 +8,7 @@ Moscow&#x20;has&#x20;released&#x20;a&#x20;blacklist&#x20;of&#x20;European&#x20;U
 ### Source:
 
 1. [AFP via France 24](http://www.france24.com/en/20150529-russia-blacklists-eu-officials-ukraine)
-2. [Reuters](http://www.reuters.com/article/2015/05/29/us-ukraine-crisis-france-idUSKBN0OE20620150529feedType=RSS&feedName=topNews&utm_source=twitter)
+2. [Reuters](http://www.reuters.com/article/2015/05/29/us-ukraine-crisis-france-idUSKBN0OE20620150529feedType=RSS&feedName=topNews)
 
 ### Related:
 

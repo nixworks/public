@@ -7,7 +7,7 @@ Greek authorities say the coast guard has picked up 216 people in the Aegean Sea
 
 ### Source:
 
-1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/World/2015/May-28/299555-greek-coast-guard-picks-up-216-migrants-in-eastern-aegean.ashx?utm_content=buffer5636d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/World/2015/May-28/299555-greek-coast-guard-picks-up-216-migrants-in-eastern-aegean.ashx)
 
 ### Related:
 

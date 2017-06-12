@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN](http://news.blogs.cnn.com/2011/03/08/strong-quake-shakes-japan/?utm_source=twitterfeed&utm_medium=twitter)
+1. [CNN](http://news.blogs.cnn.com/2011/03/08/strong-quake-shakes-japan/)
 
 ### Related:
 

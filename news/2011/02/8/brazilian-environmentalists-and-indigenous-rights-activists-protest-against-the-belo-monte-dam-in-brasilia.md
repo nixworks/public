@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/WORLD/americas/02/08/brazil.dam.protests/index.html?eref=edition&utm_source=twitterfeed&utm_medium=twitter#)
+1. [CNN](http://edition.cnn.com/2011/WORLD/americas/02/08/brazil.dam.protests/index.html?eref=edition)
 
 ### Related:
 

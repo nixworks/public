@@ -7,7 +7,7 @@ Evacuation order issued for 240,000 people hit by heavy rains on main southern i
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/07/201271443655178159.html?utm_content=automate&utm_campaign=Trial6&utm_source=NewSocialFlow&utm_term=plustweets&utm_medium=MasterAccount)
+1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/07/201271443655178159.html)
 
 ### Related:
 

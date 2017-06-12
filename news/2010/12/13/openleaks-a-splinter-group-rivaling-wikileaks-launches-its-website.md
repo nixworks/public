@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2010/TECH/web/12/12/wikileaks.rival/index.html?eref=rss_world&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_world+%28RSS%3A+World%29)
+1. [CNN](http://edition.cnn.com/2010/TECH/web/12/12/wikileaks.rival/index.html?eref=rss_world)
 
 ### Related:
 

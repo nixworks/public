@@ -8,7 +8,7 @@ Kiev accused pro-Russian rebels of opening fire with rockets and artillery at vi
 ### Source:
 
 1. [Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-2965719/Putin-says-war-Russia-Ukraine-unlikely--TV.html)
-2. [Reuters](http://www.reuters.com/article/2015/02/23/us-ukraine-crisis-idUSKBN0LR0L920150223?feedType=RSS&feedName=topNews&utm_source=twitter)
+2. [Reuters](http://www.reuters.com/article/2015/02/23/us-ukraine-crisis-idUSKBN0LR0L920150223?feedType=RSS&feedName=topNews)
 
 ### Related:
 

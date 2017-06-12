@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2011/US/02/10/winter.storm/index.html?eref=rss_topstories&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+rss/cnn_topstories+(RSS:+Top+Stories)&utm_content=Google+Feedfetcher)
+1. [CNN](http://www.cnn.com/2011/US/02/10/winter.storm/index.html?eref=rss_topstories)
 
 ### Related:
 

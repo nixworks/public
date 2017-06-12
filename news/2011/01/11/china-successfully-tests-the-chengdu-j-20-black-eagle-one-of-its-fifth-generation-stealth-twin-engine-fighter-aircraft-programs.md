@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AFP via News Limited](http://www.news.com.au/breaking-news/china-tests-new-stealth-fighter/story-e6frfku0-1225985996797?from=public_rss&utm_source=World+News+Australia&utm_medium=twitter)
+1. [AFP via News Limited](http://www.news.com.au/breaking-news/china-tests-new-stealth-fighter/story-e6frfku0-1225985996797?from=public_rss)
 2. [Shanghai Daily](http://www.shanghaidaily.com/sp/article/2011/201101/20110111/article_461248.htm)
 
 ### Related:

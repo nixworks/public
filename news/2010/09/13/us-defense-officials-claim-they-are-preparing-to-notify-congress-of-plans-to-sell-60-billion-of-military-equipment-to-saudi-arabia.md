@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2010/POLITICS/09/13/us.saudi.arms.deal/index.html?eref=rss_topstories&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+Top+Stories%29)
+1. [CNN](http://www.cnn.com/2010/POLITICS/09/13/us.saudi.arms.deal/index.html?eref=rss_topstories)
 2. [Reuters](http://www.reuters.com/article/idUSTRE68C3S720100913)
 
 ### Related:

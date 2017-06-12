@@ -9,7 +9,7 @@ The leader of the Roman Catholic Church in Scotland criticises the US over react
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-10905562)
 2. [Daily Mail](http://www.dailymail.co.uk/news/article-1301280/Cardinal-attacks-Americas-culture-vengeance-freed-Lockerbie-bomber.html)
-3. [Reuters](http://uk.reuters.com/article/idUKTRE6770IE20100808?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKTopNews+%28News+%2F+UK+%2F+Top+News%29)
+3. [Reuters](http://uk.reuters.com/article/idUKTRE6770IE20100808)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/scotland/7932811/Scotlands-Catholic-leader-attacks-US-over-Lockerbie-culture-of-vengeance.html)
 5. [The Guardian](http://www.guardian.co.uk/uk/2010/aug/08/lockerbie-scottish-catholic-leader-attacks-us)
 
@@ -24,4 +24,4 @@ The leader of the Roman Catholic Church in Scotland criticises the US over react
 7. [An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md) _Context: United States_
 8. [A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life afterwards. Eight others inside the workplace survived. ](/news/2017/06/5/a-discharged-45-year-old-former-employee-shoots-and-kills-five-people-at-a-manufacturing-business-in-orlando-florida-united-states-the-sh.md) _Context: United States_
 9. [The U.S.-backed Syrian Democratic Forces (SDF) take control of the Baath Dam on the Euphrates, near the ISIL stronghold of Raqqa, and upon doing so, rename it "Freedom Dam".  ](/news/2017/06/4/the-u-s-backed-syrian-democratic-forces-sdf-take-control-of-the-baath-dam-on-the-euphrates-near-the-isil-stronghold-of-raqqa-and-upon-d.md) _Context: United States_
-10. [United States special forces join the battle in Marawi, Philippines, against the Maute. ](/news/2017/06/10/united-states-special-forces-join-the-battle-in-marawi-philippines-against-the-maute.md) _Context: United States_
+10. [Philippines president Rodrigo Duterte says he is "not aware" of the United States providing support to the Philippine government's military intervention against Islamists in Marawi. Duterte also said that he "never approached America for help". ](/news/2017/06/11/philippines-president-rodrigo-duterte-says-he-is-not-aware-of-the-united-states-providing-support-to-the-philippine-government-s-military.md) _Context: United States_

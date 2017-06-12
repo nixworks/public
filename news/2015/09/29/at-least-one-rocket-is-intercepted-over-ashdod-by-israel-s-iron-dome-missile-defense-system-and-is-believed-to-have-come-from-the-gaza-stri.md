@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1.678101?utm_source=dlvr.it&utm_medium=twitter)
+1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1.678101)
 
 ### Related:
 

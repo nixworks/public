@@ -10,8 +10,8 @@ Operators of a quake-crippled nuclear plant in Japan said they would try again o
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12755739)
 2. [New York Times](http://thelede.blogs.nytimes.com/2011/03/15/latest-updates-on-japans-nuclear-crisis-and-earthquake-aftermath-2/#chief-cabinet-secretarys-news-conference)
 3. [Reuters via ''Edmonton Examiner](http://www.edmontonexaminer.com/ArticleDisplay.aspx?e=3026628)
-4. [Reuters](http://www.reuters.com/article/2011/03/16/us-japan-quake-idUSTRE72A0SS20110316?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29&utm_content=Google+International)
-5. [Voice of America](http://www.voanews.com/english/news/US-Nuclear-Chief-Says-Japan-Should-Expand-Evacuation-Zone-Around-Damaged-Plant-118124794.html?utm_medium=twitter&utm_source=twitterfeed)
+4. [Reuters](http://www.reuters.com/article/2011/03/16/us-japan-quake-idUSTRE72A0SS20110316?feedType=RSS&feedName=topNews)
+5. [Voice of America](http://www.voanews.com/english/news/US-Nuclear-Chief-Says-Japan-Should-Expand-Evacuation-Zone-Around-Damaged-Plant-118124794.html)
 
 ### Related:
 

@@ -8,7 +8,7 @@
 ### Source:
 
 1. [ABC News America](http://abclocal.go.com/wpvi/story?section=news/entertainment&id=7984298&rss=rss-wpvi-article-7984298)
-2. [AP via Fox News](http://www.foxnews.com/entertainment/2011/02/27/oscar-academy-awards-red-carpet/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fentertainment+%28Internal+-+Entertainment+-+Mixed%29&utm_content=Google+International)
+2. [AP via Fox News](http://www.foxnews.com/entertainment/2011/02/27/oscar-academy-awards-red-carpet/)
 3. [AP via Yahoo! News](http://news.yahoo.com/s/ap/us_oscars;_ylt=Av8LBhrmwqslZ5yapdhN4Kqs0NUE;_ylu=X3oDMTM5ZHVkbjZsBGFzc2V0A2FwLzIwMTEwMjI4L3VzX29zY2FycwRjY29kZQNtb3N0cG9wdWxhcgRjcG9zAzEEcG9zAzIEcHQDaG9tZV9jb2tlBHNlYwN5bl90b3Bfc3RvcnkEc2xrA2xlb3Rha2Vzc3VwcA--)
 4. [Academy Awards](http://oscar.go.com/)
 5. [Indy Posted](http://www.indyposted.com/153632/and-the-oscar-goes-to-complete-list-of-2011-oscar-winners/#)

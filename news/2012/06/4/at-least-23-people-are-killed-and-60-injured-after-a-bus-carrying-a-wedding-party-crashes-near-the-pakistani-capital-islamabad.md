@@ -2,12 +2,12 @@
 
 # At least 23 people are killed and 60 injured after a bus carrying a wedding party crashes near the Pakistani capital Islamabad. 
 
-
+AT least 23 Pakistani wedding guests, including six children, were killed when a bus plunged into a ravine near Islamabad.
 
 
 ### Source:
 
-1. [AFP via Perth Now](http://www.perthnow.com.au/news/breaking-news/bus-crash-kills-23-in-pakistan/story-e6frg12u-1226383707397?from=public_rss&utm_source=twitterfeed&utm_medium=twitter)
+1. [AFP via Perth Now](http://www.perthnow.com.au/news/breaking-news/bus-crash-kills-23-in-pakistan/story-e6frg12u-1226383707397?from=public_rss)
 
 ### Related:
 

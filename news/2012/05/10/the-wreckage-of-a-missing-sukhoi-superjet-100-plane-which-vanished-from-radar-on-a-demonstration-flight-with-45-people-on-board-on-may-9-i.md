@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP via ''The Australian](http://www.theaustralian.com.au/business/aviation/russian-jet-wreckage-found-on-side-of-indonesian-volcano/story-e6frg95x-1226351622220?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+TheAustralianNewsNDM+%28The+Australian+%7C+News+%7C%29)
+1. [AP via ''The Australian](http://www.theaustralian.com.au/business/aviation/russian-jet-wreckage-found-on-side-of-indonesian-volcano/story-e6frg95x-1226351622220)
 2. [AP via KSL](http://www.ksl.com/index.php?sid=20332163&nid=235&title=russian-plane-on-test-flight-vanishes-in-indonesia)
 
 ### Related:

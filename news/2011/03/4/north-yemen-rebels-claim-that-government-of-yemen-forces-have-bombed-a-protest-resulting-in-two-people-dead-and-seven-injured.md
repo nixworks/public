@@ -7,7 +7,7 @@ Yemeni President Ali Abdullah Saleh rejected an opposition plan for him to step 
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/2011/03/04/uk-yemen-strike-idUKTRE7231F820110304?feedType=RSS&feedName=worldNews&utm_source=twitterfeed&utm_medium=twitter)
+1. [Reuters](http://uk.reuters.com/article/2011/03/04/uk-yemen-strike-idUKTRE7231F820110304?feedType=RSS&feedName=worldNews)
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/North-Yemen-Shiite-Rebels-Claim-Miltary-Bombs-Anti-Government-Protest-Leaving-Dead-And-Wounded/Article/201103115945324?linkedfrom=fb)
 
 ### Related:

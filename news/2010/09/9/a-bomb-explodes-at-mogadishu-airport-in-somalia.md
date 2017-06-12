@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://af.reuters.com/article/somaliaNews/idAFWEA743620100909?feedType=RSS&feedName=somaliaNews&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed:+reuters/AfricaSomaliaNews+(News+/+Africa+/+Somalia+News)&utm_content=Google+Feedfetcher)
+1. [Reuters](http://af.reuters.com/article/somaliaNews/idAFWEA743620100909?feedType=RSS&feedName=somaliaNews)
 
 ### Related:
 

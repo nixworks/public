@@ -7,7 +7,7 @@ The four journalists, freed by the Libyan government on Monday, provided harrowi
 
 ### Source:
 
-1. [Los Angeles Times](http://www.latimes.com/news/la-fg-libya-fighting-20110322,0,3019105.story?track=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+latimes%2Fnews+%28L.A.+Times+-+Top+News%29&utm_content=Google+International)
+1. [Los Angeles Times](http://www.latimes.com/news/la-fg-libya-fighting-20110322,0,3019105.story?track=rss)
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/Libya-Gaddafi-Compound-In-Tripoli-Hit-By-Missile-In-Second-Night-Of-Allied-Airstrikes/Article/201103315956752?lpos=World_News_First_Poilitics_Article_Teaser_Regi_2&lid=ARTICLE_15956752_Libya%3A_Gaddafi_Compound_In_Tripoli_Hit_By_Missile_In_Second_Night_Of_Allied_Airstrikes)
 3. [The New York Times](http://www.nytimes.com/2011/03/22/world/africa/22times.html)
 

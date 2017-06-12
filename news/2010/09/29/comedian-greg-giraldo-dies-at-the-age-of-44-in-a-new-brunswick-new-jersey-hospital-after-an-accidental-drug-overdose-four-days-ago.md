@@ -7,4 +7,4 @@ Get the latest news on celebrity scandals, engagements, and divorces! Check out 
 
 ### Source:
 
-1. [E Online](http://ca.eonline.com/uberblog/b203097_comedian_greg_giraldo_dead_44.html?utm_source=eonline&utm_medium=rssfeeds&utm_campaign=imdb_tv-movies)
+1. [E Online](http://ca.eonline.com/uberblog/b203097_comedian_greg_giraldo_dead_44.html)

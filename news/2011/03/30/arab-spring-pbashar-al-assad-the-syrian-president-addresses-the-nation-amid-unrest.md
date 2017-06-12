@@ -14,7 +14,7 @@ Syrian president delivers first public speech since security forces curbed anti-
 5. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/20113308737507793.html)
 6. [BBC](http://www.bbc.co.uk/news/world-africa-12915959)
 7. [Global Voices Online](http://globalvoicesonline.org/2011/03/30/bahrain-prominent-blogger-mahmood-al-yousif-arrested/)
-8. [Reuters](http://www.reuters.com/article/2011/03/31/us-libya-idUSTRE7270JP20110331?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+8. [Reuters](http://www.reuters.com/article/2011/03/31/us-libya-idUSTRE7270JP20110331?feedType=RSS&feedName=topNews)
 9. [The Independent](http://www.independent.co.uk/news/world/middle-east/bahrain-targets-wounded-protesters-2257497.html)
 10. [UN Human Rights Watch](http://www.hrw.org/en/news/2011/03/30/bahrain-wounded-protesters-beaten-detained)
 11. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/03/syrian-president-speaks-to-country-amid-widespread-protests/1)

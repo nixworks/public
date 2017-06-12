@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Financial Times](http://www.ft.com/cms/s/0/63827754-5e13-11e0-b1d8-00144feab49a.html?ftcamp=rss&utm_source=twitterfeed&utm_medium=twitter#axzz1IVyVhkIO)
+1. [Financial Times](http://www.ft.com/cms/s/0/63827754-5e13-11e0-b1d8-00144feab49a.html?ftcamp=rss)
 
 ### Related:
 

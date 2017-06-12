@@ -11,7 +11,7 @@ Thirteen people are killed in and around Acapulco, with four victims found behea
 2. [CNEWS](http://cnews.canoe.ca/CNEWS/World/2010/03/13/13220471-ap.html)
 3. [Jakarta Post](http://www.thejakartapost.com/news/2010/03/14/24-killed-western-mexico-11-one-shootout.html)
 4. [MSNBC](http://www.msnbc.msn.com/id/35855758/ns/world_news-americas/)
-5. [Reuters](http://uk.reuters.com/article/idUKTRE62C1SO20100313?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
+5. [Reuters](http://uk.reuters.com/article/idUKTRE62C1SO20100313?feedType=RSS&feedName=worldNews)
 6. [Times](http://www.timesonline.co.uk/tol/news/world/us_and_americas/article7061418.ece)
 
 ### Related:

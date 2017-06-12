@@ -7,7 +7,7 @@ Egypt says its army will continue its offensive in the Sinai Peninsula until it 
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-33357890#?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.com/news/world-middle-east-33357890#)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFKCN0PC17820150702)
 
 ### Related:

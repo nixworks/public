@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/04/23/us-usa-court-edwards-idUSBRE83L06K20120423?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+1. [Reuters](http://www.reuters.com/article/2012/04/23/us-usa-court-edwards-idUSBRE83L06K20120423?feedType=RSS&feedName=topNews)
 
 ### Related:
 

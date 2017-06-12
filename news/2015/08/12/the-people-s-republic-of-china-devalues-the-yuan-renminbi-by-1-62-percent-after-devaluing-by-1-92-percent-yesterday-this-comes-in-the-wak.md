@@ -8,7 +8,7 @@ U.S. stocks staged a rebound in late trading Wednesday as the major indexes clim
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/business-33875061)
-2. [The Australian](http://www.theaustralian.com.au/business/economics/china-devalues-yuan-even-further/story-e6frg926-1227480128740?utm_source=The%20Australian&utm_medium=email&utm_campaign=editorial)
+2. [The Australian](http://www.theaustralian.com.au/business/economics/china-devalues-yuan-even-further/story-e6frg926-1227480128740)
 3. [USA Today](http://www.usatoday.com/story/money/markets/2015/08/12/stocks-wednesday/31526667/)
 
 ### Related:

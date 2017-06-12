@@ -7,7 +7,7 @@ Google Inc admitted for the first time its &quot;Street View&quot; cars around t
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE69L4KW20101022?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News))
+1. [Reuters](http://www.reuters.com/article/idUSTRE69L4KW20101022)
 
 ### Related:
 

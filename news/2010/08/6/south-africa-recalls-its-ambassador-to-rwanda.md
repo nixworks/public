@@ -8,7 +8,7 @@ South Africa recalls its ambassador to Rwanda in a diplomatic row over the shoot
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10889039)
-2. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE6750CY20100806?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FAFRICATopNews+%28News+%2F+AFRICA+%2F+Top+News%29)
+2. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE6750CY20100806?feedType=RSS&feedName=topNews)
 3. [The Mercury](http://www.themercury.co.za/?fSectionId=&fArticleId=nw20100805222206697C527671&fFeed=sanews)
 4. [iAfrica](http://news.iafrica.com/sa/2572289.htm)
 

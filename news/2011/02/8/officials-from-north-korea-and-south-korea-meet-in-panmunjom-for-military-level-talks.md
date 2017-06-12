@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/02/07/koreas.talks/index.html?eref=edition&utm_source=twitterfeed&utm_medium=twitter#)
+1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/02/07/koreas.talks/index.html?eref=edition)
 2. [Yonhap](http://english.yonhapnews.co.kr/national/2011/02/08/84/0301000000AEN20110208006800315F.HTML)
 
 ### Related:

@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/03/09/AR2011030905536.html?wprss=rss_world/wires&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=main-twitter)
+1. [AP via ''Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/03/09/AR2011030905536.html?wprss=rss_world/wires)
 
 ### Related:
 

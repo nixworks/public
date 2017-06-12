@@ -26,7 +26,7 @@ Arab League secretary-general Amr Moussa is now questioning whether US and Europ
 17. [Press TV](http://www.presstv.ir/detail/170864.html)
 18. [Press TV](http://www.presstv.ir/detail/170927.html)
 19. [Press TV](http://www.presstv.ir/detail/170973.html)
-20. [Reuters](http://af.reuters.com/article/libyaNews/idAFLDE72J04320110320?feedType=RSS&feedName=libyaNews&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+reuters%2FAfricaLibyaNews+%28News+%2F+Africa+%2F+Libya+News%29&utm_content=Google+Feedfetcher)
+20. [Reuters](http://af.reuters.com/article/libyaNews/idAFLDE72J04320110320?feedType=RSS&feedName=libyaNews)
 21. [Reuters](http://af.reuters.com/article/libyaNews/idAFN1920875720110319?pageNumber=2&virtualBrandChannel=0)
 22. [Reuters](http://www.reuters.com/article/2011/03/20/us-morocco-protests-idUSTRE72J2GT20110320?pageNumber=1)
 23. [Sydney Morning Herald](http://www.smh.com.au/world/missile-destroys-office-near-gaddafis-home-20110321-1c2kn.html)

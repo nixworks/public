@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/WORLD/africa/05/21/libya.small.towns/index.html?eref=edition_africa&utm_source=twitterfeed&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fedition_africa+(RSS%3A+Africa))
+1. [CNN](http://edition.cnn.com/2011/WORLD/africa/05/21/libya.small.towns/index.html?eref=edition_africa)
 2. [Dailymail](http://www.dailymail.co.uk/news/article-1391197/Time-running-starving-Libyan-town-Yefren-Gaddafi-offers-ceasefire.html)
 
 ### Related:

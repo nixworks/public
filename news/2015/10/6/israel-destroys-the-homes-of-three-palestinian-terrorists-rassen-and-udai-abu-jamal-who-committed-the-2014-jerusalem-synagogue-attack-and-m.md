@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/Breaking-News/Israel-begins-demolishing-homes-of-east-Jerusalem-Palestinians-420048?utm_source=dlvr.it&utm_medium=twitter)
+1. [Jerusalem Post](http://www.jpost.com/Breaking-News/Israel-begins-demolishing-homes-of-east-Jerusalem-Palestinians-420048)
 
 ### Related:
 

@@ -7,7 +7,7 @@ The students were protesting against a feared increase in school fees -- the lat
 
 ### Source:
 
-1. [ENCA](http://www.enca.com/africa/congo-police-fire-teargas-protesting-students?utm_medium=Social&utm_source=Twitter&utm_campaign=Echobox&utm_term=Autofeed#link_time=1447873526)
+1. [ENCA](http://www.enca.com/africa/congo-police-fire-teargas-protesting-students)
 
 ### Related:
 

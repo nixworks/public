@@ -7,7 +7,7 @@ A judge temporarily stripped Charlie Sheen of custody of his twin sons Tuesday, 
 
 ### Source:
 
-1. [TMZ](http://www.tmz.com/2011/03/01/brooke-mueller-charlie-sheen-child-custody-twins-bob-max-death-threats-divorce-temporary-restraining-order/?utm_source=twitterfeed&utm_medium=twitter)
+1. [TMZ](http://www.tmz.com/2011/03/01/brooke-mueller-charlie-sheen-child-custody-twins-bob-max-death-threats-divorce-temporary-restraining-order/)
 
 ### Related:
 

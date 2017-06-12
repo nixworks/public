@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AAP via Yahoo News Australia](http://au.news.yahoo.com/a/-/newshome/7387699/stranded-sailor-abby-sunderland-rescued/?utm_source=twitterfeed&utm_medium=twitter)
+1. [AAP via Yahoo News Australia](http://au.news.yahoo.com/a/-/newshome/7387699/stranded-sailor-abby-sunderland-rescued/)
 
 ### Related:
 

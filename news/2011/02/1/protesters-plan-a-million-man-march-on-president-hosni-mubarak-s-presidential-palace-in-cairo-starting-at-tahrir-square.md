@@ -17,7 +17,7 @@ More than a million rally in Cairo as massive countrywide protests are held agai
 8. [BBC](http://www.bbc.co.uk/news/world-us-canada-12340885)
 9. [CNN](http://edition.cnn.com/2011/WORLD/africa/01/31/egypt.protests/?hpt=T1)
 10. [Fortune](http://tech.fortune.cnn.com/2011/01/31/google-and-twitter-hook-up-to-allow-egyptians-to-tweet/)
-11. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?ID=206293&R=R1&utm_source=twitterfeed&utm_medium=twitter)
+11. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?ID=206293&R=R1)
 12. [Reuters](http://af.reuters.com/article/egyptNews/idAFLDE7102EP20110201)
 13. [Reuters](http://www.reuters.com/article/2011/02/01/us-egypt-mubarak-reform-idUSTRE7108HR20110201)
 14. [The Guardian](http://www.guardian.co.uk/world/2011/feb/01/obama-pressures-mubarak-to-step-down)

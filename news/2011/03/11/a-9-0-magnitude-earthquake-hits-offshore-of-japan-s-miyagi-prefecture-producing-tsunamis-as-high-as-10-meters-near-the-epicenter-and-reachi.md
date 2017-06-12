@@ -13,7 +13,7 @@ Thousands of others were stranded on rooftops, surrounded by water left by the t
 4. [Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20110311x4.html)
 5. [LA Times](http://latimesblogs.latimes.com/lanow/2011/03/tsunami-gov-brown-declares-state-of-emergency-in-four-ca-counties.html)
 6. [LA Times](http://www.latimes.com/news/nationworld/world/la-fgw-japan-quake-death-toll-20110312,0,5898201.story)
-7. [Market Watch](http://www.marketwatch.com/story/tsunami-warning-issued-for-several-countries-2011-03-11?siteid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A%20marketwatch%2Fmarketpulse%20(MarketWatch.com%20-%20MarketPulse))
+7. [Market Watch](http://www.marketwatch.com/story/tsunami-warning-issued-for-several-countries-2011-03-11?siteid=rss)
 8. [New York Times](http://www.nytimes.com/2011/03/12/world/asia/12nuclear.html)
 9. [Oregon Live](http://www.oregonlive.com/pacific-northwest-news/index.ssf/2011/03/tsunami_watch_issued_for_oregon_coast.html)
 10. [RT](http://rt.com/usa/news/japan-nuclear-emergency-earthquake/)

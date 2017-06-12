@@ -8,7 +8,7 @@ Ireland is in talks to receive emergency funding from the European Union and is 
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/business-11739748)
-2. [Reuters](http://www.reuters.com/article/idUSTRE6AB0P420101112?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+2. [Reuters](http://www.reuters.com/article/idUSTRE6AB0P420101112)
 
 ### Related:
 

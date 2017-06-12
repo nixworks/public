@@ -8,7 +8,7 @@
 ### Source:
 
 1. [ (AP via the ''The Columbus Republic](http://www.therepublic.com/view/story/c87e78330ebf4bb6a2b631b088395ff1/MI--Emergency-Managers/)
-2. [Detroit Free Press](http://www.freep.com/article/20110316/NEWS15/110316047/1001/news?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+freepLocalNews+%28freep.com+%7C+Local+News%29&utm_content=Google+International)
+2. [Detroit Free Press](http://www.freep.com/article/20110316/NEWS15/110316047/1001/news)
 
 ### Related:
 

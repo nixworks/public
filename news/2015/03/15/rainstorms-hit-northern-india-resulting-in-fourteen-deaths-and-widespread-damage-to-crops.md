@@ -7,7 +7,7 @@ Widespread rains battered large swathes of North India on Sunday bringing mercur
 
 ### Source:
 
-1. [Times of India](http://timesofindia.indiatimes.com/india/Rain-lashes-north-India-kills-14-people-and-damages-crops/articleshow/46574984.cms?utm_source=twitter.com&utm_medium=referral&utm_campaign=timesofindia)
+1. [Times of India](http://timesofindia.indiatimes.com/india/Rain-lashes-north-India-kills-14-people-and-damages-crops/articleshow/46574984.cms)
 
 ### Related:
 

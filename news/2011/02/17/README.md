@@ -43,7 +43,7 @@ A series of blasts at a military ammunition depot kills at least 20 people in Ta
 _Context: Deepwater Horizon oil spill, Gulf of Mexico_
 
 ### [Palestinian National Authority President Mahmoud Abbas says that general elections in September would be canceled if Hamas refused to allow voting in the Gaza Strip. ](/news/2011/02/17/palestinian-national-authority-president-mahmoud-abbas-says-that-general-elections-in-september-would-be-canceled-if-hamas-refused-to-allow.md)
-_Context: Gaza Strip, Hamas, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, general elections in September_
+PA president declares that elections must include West Bank and the Hamas-controlled Gaza Strip.
 
 ### [A boat containing 129 Rohingya refugees from Burma is found by Indonesia. ](/news/2011/02/17/a-boat-containing-129-rohingya-refugees-from-burma-is-found-by-indonesia.md)
 _Context: Burma, Indonesia, Rohingya minority_

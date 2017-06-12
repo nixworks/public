@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN Money](http://money.cnn.com/2011/03/24/pf/new_york_census_2010/index.htm?section=money_topstories&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+rss%2Fmoney_topstories+%28Top+Stories%29&utm_content=Google+Feedfetcher)
+1. [CNN Money](http://money.cnn.com/2011/03/24/pf/new_york_census_2010/index.htm?section=money_topstories)
 
 ### Related:
 

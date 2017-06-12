@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/06/26/us-somalia-militants-idUSKBN0P60BX20150626?feedType=RSS&feedName=topNews&utm_source=twitter)
+1. [Reuters](http://www.reuters.com/article/2015/06/26/us-somalia-militants-idUSKBN0P60BX20150626?feedType=RSS&feedName=topNews)
 2. [VOA News](http://www.voanews.com/content/suicide-bomber-attacks-african-union-base-somalia/2837996.html)
 
 ### Related:

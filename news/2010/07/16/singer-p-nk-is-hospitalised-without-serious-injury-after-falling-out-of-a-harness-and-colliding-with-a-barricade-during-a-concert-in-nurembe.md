@@ -9,7 +9,7 @@ Vowing to handle the allegations of nepotism in government he has been hearing a
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10659180)
 2. [CBC News](http://www.cbc.ca/arts/music/story/2010/07/16/pink-harness-concert-stunt.html)
-3. [USA Today](http://content.usatoday.com/communities/entertainment/post/2010/07/pink-seriously-sore-after-stage-injury-in-germany-/1?csp=34&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TP-LifelineLive+%28Life+-+Lifeline+Live%29)
+3. [USA Today](http://content.usatoday.com/communities/entertainment/post/2010/07/pink-seriously-sore-after-stage-injury-in-germany-/1?csp=34)
 
 ### Related:
 

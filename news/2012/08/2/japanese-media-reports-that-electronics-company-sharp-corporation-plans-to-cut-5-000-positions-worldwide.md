@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AFP via France 24](http://www.france24.com/en/20120802-sharp-cut-5000-jobs-first-1950-reports?utm_source=dlvr.it&utm_medium=twitter)
+1. [AFP via France 24](http://www.france24.com/en/20120802-sharp-cut-5000-jobs-first-1950-reports)
 
 ### Related:
 

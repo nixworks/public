@@ -49,7 +49,7 @@ _Context: Christmas Island Immigration Reception and Processing Centre, police_
 _Context: Chile, Mapuche, hunger strike_
 
 ### [Voters in the UK parliamentary constituency of Belfast West go to the polls for a by-election to replace Gerry Adams, who is now serving in the Parliament of Ireland representing Louth. ](/news/2011/06/9/voters-in-the-uk-parliamentary-constituency-of-belfast-west-go-to-the-polls-for-a-by-election-to-replace-gerry-adams-who-is-now-serving-in.md)
-Voters in West Belfast are heading to the polls today in a Westminster by-election to elect a MP to replace Gerry Adams.
+_Context: Belfast West, Gerry Adams, Louth, United Kingdom House of Commons, by-election, lower house_
 
 ### [Cheaper new meningitis vaccinations reduce cases in Africa, with Burkina Faso, Mali and Niger recording the lowest number of cases. ](/news/2011/06/9/cheaper-new-meningitis-vaccinations-reduce-cases-in-africa-with-burkina-faso-mali-and-niger-recording-the-lowest-number-of-cases.md)
 _Context: Africa, Burkina Faso, Mali, Niger, meningitis_

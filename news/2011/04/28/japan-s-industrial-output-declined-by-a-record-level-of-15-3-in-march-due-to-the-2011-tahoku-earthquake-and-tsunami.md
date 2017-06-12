@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [BBC News](http://www.bbc.co.uk/news/13218449?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC News](http://www.bbc.co.uk/news/13218449)
 
 ### Related:
 

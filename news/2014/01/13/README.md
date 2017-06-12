@@ -16,7 +16,7 @@ Contact has been made with Tonga&#039;s isolated islands as relief efforts get u
 _Context: Compostela Valley, Davao Oriental, Mindanao, Philippines_
 
 ### [The Sandiganbayan rules the jewelry collection of Imelda Marcos, valued about $150,000 in 1986, property of the government of the Philippines and orders the Marcos family to forfeit it. ](/news/2014/01/13/the-sandiganbayan-rules-the-jewelry-collection-of-imelda-marcos-valued-about-150-000-in-1986-property-of-the-government-of-the-philippine.md)
-_Context: Imelda Marcos, Sandiganbayan, government_
+_Context: Imelda Marcos, Philippine government, Sandiganbayan_
 
 ### [A court acquits two former Fullerton, California police officers of second-degree murder, involuntary manslaughter and excessive use of force in the 2011 beating death of Kelly Thomas, a homeless man. Prosecutors plan to drop charges against a third officer. ([http://edition.cnn.com/2014/01/13/us/california-homeless-beating-verdict/ CNN]) ([http://www.mercurynews.com/california/ci_24904410/charges-be-dropped-against-officer-death ''San Jose Mercury-News''])](/news/2014/01/13/a-court-acquits-two-former-fullerton-california-police-officers-of-second-degree-murder-involuntary-manslaughter-and-excessive-use-of-forc.md)
 _Context: Fullerton, California, death of Kelly Thomas_

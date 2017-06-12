@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AFP via France 24](http://www.france24.com/en/20120801-power-fully-restored-india-grids?utm_source=dlvr.it&utm_medium=twitter)
+1. [AFP via France 24](http://www.france24.com/en/20120801-power-fully-restored-india-grids)
 
 ### Related:
 

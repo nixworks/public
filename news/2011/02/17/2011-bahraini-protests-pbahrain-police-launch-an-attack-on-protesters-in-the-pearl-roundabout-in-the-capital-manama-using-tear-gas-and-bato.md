@@ -10,11 +10,11 @@ Bahrain protesters claim several among their ranks were killed during a violent 
 1. [ABC News America](http://abcnews.go.com/International/bahrain-protests-abc-news-correspondent-miguel-marquez-beaten/story?id=12936124)
 2. [AP via Yahoo!](http://news.yahoo.com/s/ap/ml_bahrain_protests)
 3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201121714223324820.html#)
-4. [BBC](http://www.bbc.co.uk/news/world-middle-east-12490286?utm_source=twitterfeed&utm_medium=twitter)
-5. [CNN](http://edition.cnn.com/2011/WORLD/meast/02/16/bahrain.protests/index.html?eref=rss_topstories&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+Top+Stories%29&utm_content=Google+International#)
-6. [Global voices](http://globalvoicesonline.org/2011/02/17/bahrain-breaking-news-police-attack-protesters-at-pearl-roundabout/?utm_source=twitterfeed&utm_medium=twitter)
+4. [BBC](http://www.bbc.co.uk/news/world-middle-east-12490286)
+5. [CNN](http://edition.cnn.com/2011/WORLD/meast/02/16/bahrain.protests/index.html?eref=rss_topstories)
+6. [Global voices](http://globalvoicesonline.org/2011/02/17/bahrain-breaking-news-police-attack-protesters-at-pearl-roundabout/)
 7. [NPR](http://www.npr.org/2011/02/17/133827875/police-assault-on-bahrain-protest-turns-deadly)
-8. [Ottawa Citizen](http://www.ottawacitizen.com/news/arab-world-in-unrest/index.html?utm_source=twitterfeed&utm_medium=twitter)
+8. [Ottawa Citizen](http://www.ottawacitizen.com/news/arab-world-in-unrest/index.html)
 
 ### Related:
 

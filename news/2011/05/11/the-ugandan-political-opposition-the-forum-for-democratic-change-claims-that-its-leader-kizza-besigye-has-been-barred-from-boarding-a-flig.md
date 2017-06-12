@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters via Alertnet](http://www.trust.org/alertnet/news/uganda-opposition-leader-barred-from-flight?utm_source=NowTwitting)
+1. [Reuters via Alertnet](http://www.trust.org/alertnet/news/uganda-opposition-leader-barred-from-flight)
 
 ### Related:
 

@@ -9,7 +9,7 @@ Media boss Richard Desmond tonight began &quot;immediate steps&quot; to close do
 
 1. [BBC](http://www.bbc.co.uk/news/uk-19611407)
 2. [RTÉ News](http://www.rte.ie/news/2012/0915/kate-middleton-irish-daily-star.html)
-3. [The Journal](http://www.thejournal.ie/irish-daily-star-kate-middleton-pics-596891-Sep2012/?utm_source=twitter_self)
+3. [The Journal](http://www.thejournal.ie/irish-daily-star-kate-middleton-pics-596891-Sep2012/)
 
 ### Related:
 

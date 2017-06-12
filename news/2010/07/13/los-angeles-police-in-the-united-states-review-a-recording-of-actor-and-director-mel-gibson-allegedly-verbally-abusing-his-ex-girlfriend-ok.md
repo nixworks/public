@@ -9,7 +9,7 @@ US police say they are evaluating claims that Hollywood star Mel Gibson allegedl
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment_and_arts/10610537.stm)
 2. [News24.com](http://www.news24.com/Entertainment/CelebNews/Mel-Gibson-rants-posted-online-20100713)
-3. [iAfrica](http://entertainment.iafrica.com/news/2530281.htm?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+IafricacomEntertainmentLatestNews+%2528iafrica.com+Entertainment+Latest+News%2529)
+3. [iAfrica](http://entertainment.iafrica.com/news/2530281.htm)
 
 ### Related:
 

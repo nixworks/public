@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [The Nation](http://www.nation.co.ke/news/-/1056/2820274/-/145wrukz/-/index.html?utm_source=twitterfeed&utm_medium=twitter)
+1. [The Nation](http://www.nation.co.ke/news/-/1056/2820274/-/145wrukz/-/index.html)
 
 ### Related:
 

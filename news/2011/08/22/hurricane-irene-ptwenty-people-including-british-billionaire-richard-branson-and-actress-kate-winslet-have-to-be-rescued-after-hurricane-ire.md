@@ -7,7 +7,7 @@ Hurricane Irene could hit the Southeast United States as a major Category 3 stor
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/08/22/us-storm-irene-idUSTRE77K01820110822?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+1. [Reuters](http://www.reuters.com/article/2011/08/22/us-storm-irene-idUSTRE77K01820110822?feedType=RSS&feedName=topNews)
 2. [Winnipeg Free Press](http://www.winnipegfreepress.com/arts-and-life/entertainment/celebrities/kate-winslet-carried-bransons-mother-from-fire-128232008.html)
 
 ### Related:

@@ -16,7 +16,7 @@ Syrian state TV says rebels linked to al-Qaeda group detonated cars filled with 
 Over 3,000 schools are closed and transport is disrupted as a band of heavy snow affects most of the UK, with a &quot;rare&quot; red warning issued in Wales.
 
 ### [At least 4 people are killed and 16 injured when a bus and a truck collided in Lviv Oblast, Ukraine. ](/news/2013/01/18/at-least-4-people-are-killed-and-16-injured-when-a-bus-and-a-truck-collided-in-lviv-oblast-ukraine.md)
-_Context: Lviv Oblast, Ukrainians, bus, truck_
+_Context: Lviv Oblast, Ukraine, bus, truck_
 
 ### [The United States will officially recognize Somalia's new government and officially open diplomatic relations with Somalia for the first time since the Battle of Mogadishu. ](/news/2013/01/18/the-united-states-will-officially-recognize-somalia-s-new-government-and-officially-open-diplomatic-relations-with-somalia-for-the-first-tim.md)
 The United States has officially recognised the government of Somalia for the first time in more than 20 years.

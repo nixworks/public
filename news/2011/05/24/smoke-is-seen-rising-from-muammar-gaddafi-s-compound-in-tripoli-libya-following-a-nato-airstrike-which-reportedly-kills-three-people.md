@@ -2,12 +2,12 @@
 
 # Smoke is seen rising from Muammar Gaddafi's compound in Tripoli, Libya, following a NATO airstrike which reportedly kills three people. 
 
-AT least three people have been killed and 150 wounded as the Libyan capital Tripoli was rocked by a NATO-led aerial bombardment.
+
 
 
 ### Source:
 
-1. [AFP via News Limited](http://www.news.com.au/world/three-dead-as-nato-planes-hit-tripoli/story-e6frfkyi-1226061800965?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+com%2Fnewscomautopstoriesndm+%28NEWS.com.au+%7C+Top+Stories%29)
+1. [AFP via News Limited](http://www.news.com.au/world/three-dead-as-nato-planes-hit-tripoli/story-e6frfkyi-1226061800965)
 2. [CNN](http://news.blogs.cnn.com/2011/05/23/smoke-seen-rising-from-gadhafi-compound-after-airstrikes/)
 
 ### Related:

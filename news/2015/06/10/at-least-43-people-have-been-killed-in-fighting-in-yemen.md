@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2015/06/10/us-yemen-security-fighting-idUSKBN0OQ1OI20150610?utm_source=twitter)
+1. [Reuters](http://www.reuters.com/article/2015/06/10/us-yemen-security-fighting-idUSKBN0OQ1OI20150610)
 
 ### Related:
 

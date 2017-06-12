@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Xinhua via Sina](http://english.sina.com/world/2010/0907/338437.html?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=DTN+Fashion%3A)
+1. [Xinhua via Sina](http://english.sina.com/world/2010/0907/338437.html)
 
 ### Related:
 

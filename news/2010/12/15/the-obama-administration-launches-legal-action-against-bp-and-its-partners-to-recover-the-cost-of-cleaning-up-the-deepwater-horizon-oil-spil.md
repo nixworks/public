@@ -7,7 +7,7 @@ The Obama administration on Wednesday launched a legal battle against BP Plc and
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6BE59J20101216?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+1. [Reuters](http://www.reuters.com/article/idUSTRE6BE59J20101216)
 
 ### Related:
 

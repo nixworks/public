@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Washington Post](http://www.washingtonpost.com/world/asia-pacific/thai-authorities-staging-fighting-retreat-against-floodwaters-that-threaten-bangkok-suburbs/2011/10/19/gIQAnjENwL_story.html?utm_medium=twitter&utm_source=twitterfeed)
+1. [Washington Post](http://www.washingtonpost.com/world/asia-pacific/thai-authorities-staging-fighting-retreat-against-floodwaters-that-threaten-bangkok-suburbs/2011/10/19/gIQAnjENwL_story.html)
 
 ### Related:
 

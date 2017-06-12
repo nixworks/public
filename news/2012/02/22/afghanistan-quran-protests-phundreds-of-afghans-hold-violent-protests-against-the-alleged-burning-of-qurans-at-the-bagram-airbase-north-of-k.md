@@ -8,7 +8,7 @@
 ### Source:
 
 1. [Reuters](http://in.reuters.com/article/2012/02/22/afghanistan-koran-idINDEE81L04720120222?feedType=RSS&feedName=globalCoverage2)
-2. [Reuters](http://www.reuters.com/article/2012/02/22/us-afghanistan-korans-idUSTRE81K09T20120222?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+2. [Reuters](http://www.reuters.com/article/2012/02/22/us-afghanistan-korans-idUSTRE81K09T20120222?feedType=RSS&feedName=topNews)
 
 ### Related:
 

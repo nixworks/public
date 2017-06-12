@@ -8,7 +8,7 @@ A series of blasts targeting Shia Muslims in Dhaka killed at least one person an
 ### Source:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/World/2015/1024/Officials-doubt-ISIS-claims-of-responsibility-for-bombing-in-Bangladesh)
-2. [Reuters](http://uk.reuters.com/article/2015/10/24/uk-bangladesh-bomb-killed-idUKKCN0SI01F20151024?feedType=RSS&feedName=worldNews&utm_source=twitterfeed&utm_medium=twitter)
+2. [Reuters](http://uk.reuters.com/article/2015/10/24/uk-bangladesh-bomb-killed-idUKKCN0SI01F20151024?feedType=RSS&feedName=worldNews)
 
 ### Related:
 

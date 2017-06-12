@@ -7,7 +7,7 @@ min Park and James Pearson
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2014/06/30/us-northkorea-tourists-idUSKBN0F502N20140630?feedType=RSS&feedName=topNews&utm_source=dlvr.it&utm_medium=twitter&dlvrit=992637)
+1. [Reuters](http://www.reuters.com/article/2014/06/30/us-northkorea-tourists-idUSKBN0F502N20140630?feedType=RSS&feedName=topNews&dlvrit=992637)
 
 ### Related:
 

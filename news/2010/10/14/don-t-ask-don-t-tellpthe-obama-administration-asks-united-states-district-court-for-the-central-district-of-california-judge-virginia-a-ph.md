@@ -8,7 +8,7 @@
 ### Source:
 
 1. [KTLA](http://www.kansascw.com/kscw/news/ktla-gays-military,0,5548815.story)
-2. [Reuters](http://www.reuters.com/article/idUSTRE69D5HQ20101014?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News))
+2. [Reuters](http://www.reuters.com/article/idUSTRE69D5HQ20101014)
 
 ### Related:
 

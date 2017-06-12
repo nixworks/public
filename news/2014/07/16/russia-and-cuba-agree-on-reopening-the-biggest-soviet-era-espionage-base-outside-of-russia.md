@@ -7,4 +7,4 @@
 
 ### Source:
 
-1. [Business Insider](http://www.businessinsider.com/russia-is-reportedly-reopening-its-spy-base-in-cuba-2014-7?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+businessinsider+%28Business+Insider%29)
+1. [Business Insider](http://www.businessinsider.com/russia-is-reportedly-reopening-its-spy-base-in-cuba-2014-7)

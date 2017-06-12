@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2014/06/28/world/asia/pakistan-offensive/index.html?eref=edition&utm_source=dlvr.it&utm_medium=twitter&utm_campaign=cnni)
+1. [CNN](http://edition.cnn.com/2014/06/28/world/asia/pakistan-offensive/index.html?eref=edition)
 
 ### Related:
 

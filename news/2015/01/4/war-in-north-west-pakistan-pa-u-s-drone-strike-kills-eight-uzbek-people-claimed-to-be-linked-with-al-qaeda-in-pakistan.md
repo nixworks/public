@@ -8,7 +8,7 @@ A bomb targeting Shiite Muslims at a volleyball match killed at least four peopl
 ### Source:
 
 1. [AFP via ''The Daily Star](http://dailystar.com.lb/News/World/2015/Jan-04/282999-bomb-at-volleyball-match-kills-4-in-northwest-pakistan.ashx)
-2. [Channel 9 News](http://www.9news.com.au/world/2015/01/04/19/32/airstrikes-kill-39-militants-in-pakistan?utm_source=twitterfeed&utm_medium=twitter)
+2. [Channel 9 News](http://www.9news.com.au/world/2015/01/04/19/32/airstrikes-kill-39-militants-in-pakistan)
 
 ### Related:
 

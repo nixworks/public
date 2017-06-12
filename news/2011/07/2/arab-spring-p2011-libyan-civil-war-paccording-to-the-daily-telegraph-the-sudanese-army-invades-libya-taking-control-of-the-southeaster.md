@@ -8,7 +8,7 @@ The Sudanese army has seized a town in southern Libya that is the gateway to oil
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011729129878700.html)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-14003786?utm_source=twitterfeed&utm_medium=twitter)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-14003786)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-14000995)
 4. [Gulf News](http://gulfnews.com/news/region/syria/assad-sacks-governor-of-syrian-flashpoint-city-hama-state-tv-1.831577)
 5. [Reuters](http://ca.reuters.com/article/topNews/idCATRE76019220110702?sp=true)

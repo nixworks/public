@@ -8,7 +8,7 @@
 ### Source:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5j-PTHdhSrx_8TVq5e9EX21NBt3aA?docId=5da2d36c7ba046508ba87edb18c8dc6d)
-2. [Reuters](http://www.reuters.com/article/2012/02/08/us-pakistan-drone-idUSTRE81708520120208?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FworldNews+%28News+%2F+US+%2F+International%29)
+2. [Reuters](http://www.reuters.com/article/2012/02/08/us-pakistan-drone-idUSTRE81708520120208?feedType=RSS&feedName=worldNews)
 
 ### Related:
 

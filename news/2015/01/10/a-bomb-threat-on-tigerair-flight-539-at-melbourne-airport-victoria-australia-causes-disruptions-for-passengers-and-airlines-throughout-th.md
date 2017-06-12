@@ -2,12 +2,12 @@
 
 # A bomb threat on Tigerair Flight 539 at Melbourne Airport, Victoria, Australia, causes disruptions for passengers and airlines throughout the airport. 
 
-DISRUPTIONS on TigerAir flights will continue today after a bomb scare led parts of Melbourne Airport — including a Tiger plane — to be evacuated last night.
+
 
 
 ### Source:
 
-1. [News.com.au](http://www.news.com.au/national/victoria/bomb-scare-at-melbourne-airport/story-fnii5sms-1227180231653?utm_content=SocialFlow&utm_campaign=EditorialSF&utm_source=News.com.au&utm_medium=Twitter)
+1. [News.com.au](http://www.news.com.au/national/victoria/bomb-scare-at-melbourne-airport/story-fnii5sms-1227180231653)
 
 ### Related:
 

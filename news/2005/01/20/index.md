@@ -19,7 +19,7 @@ _Context: Eid ul-Adha, Hajj, Satan, Saudi Arabia, pillars_
 _Context: Ireland, Northern Ireland, changes, metric, road sign, speed limit_
 
 ### [ In Ukraine, the Supreme Court dismisses prime minister Viktor Yanukovych's appeal and confirms that Viktor Yushchenko has won the presidential election. ](/news/2005/01/20/in-ukraine-the-supreme-court-dismisses-prime-minister-viktor-yanukovych-s-appeal-and-confirms-that-viktor-yushchenko-has-won-the-president.md)
-_Context: Ukrainians, Viktor Yanukovych, Viktor Yushchenko_
+_Context: Ukraine, Viktor Yanukovych, Viktor Yushchenko_
 
 ### [ President of Guinea Lansana Cont survives an apparent assassination attempt. ](/news/2005/01/20/president-of-guinea-lansana-conte-survives-an-apparent-assassination-attempt.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

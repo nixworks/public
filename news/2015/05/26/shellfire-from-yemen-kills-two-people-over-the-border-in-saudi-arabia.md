@@ -7,7 +7,7 @@ Shellfire from Yemen killed one civilian and a member of the security forces in 
 
 ### Source:
 
-1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/Middle-East/2015/May-26/299337-yemen-shelling-kills-2-in-saudi-border-region.ashx?utm_content=buffer3e0d5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/Middle-East/2015/May-26/299337-yemen-shelling-kills-2-in-saudi-border-region.ashx)
 
 ### Related:
 

@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [TV New Zealand](http://tvnz.co.nz/world-news/first-tidal-surge-hits-nz-after-7-6-quake-4289781?ref=rss&utm_medium=twitter&utm_source=twitterfeed)
+1. [TV New Zealand](http://tvnz.co.nz/world-news/first-tidal-surge-hits-nz-after-7-6-quake-4289781?ref=rss)
 
 ### Related:
 

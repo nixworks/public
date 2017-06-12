@@ -1,7 +1,7 @@
 ## [2015-01-31](/news/2015/01/31/index.md)
 
 ### [Ukraine and Russian-backed separatists conduct peace talks as fighting rages in eastern Ukraine. ](/news/2015/01/31/ukraine-and-russian-backed-separatists-conduct-peace-talks-as-fighting-rages-in-eastern-ukraine.md)
-_Context: Russia, Ukrainians, eastern Ukraine, military intervention in Ukraine_
+_Context: Russia, Ukraine, eastern Ukraine, military intervention in Ukraine_
 
 ### [The Democratic Republic of the Congo launches a campaign against Hutu rebels. ](/news/2015/01/31/the-democratic-republic-of-the-congo-launches-a-campaign-against-hutu-rebels.md)
 Congolese government troops have started their long-awaited offensive against Rwandan Hutu rebels in the east of the country, the DR Congo&#x27;s foreign minister said Saturday. The Kinshasa government and the international community had given the FDLR -- the Democratic Forces for the Liberation of Rwanda

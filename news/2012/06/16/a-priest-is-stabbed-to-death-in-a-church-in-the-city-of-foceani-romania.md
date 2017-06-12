@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Realitatea TV](http://www.realitatea.net/un-preot-a-fost-injunghiat-mortal-in-biserica-atacatorul-i-a-cerut-sa-i-citeasca-ceva-din-biblie_953281.html?utm_source=BreakingNews-Homepage&utm_medium=Clicks&utm_campaign=trkweb)
+1. [Realitatea TV](http://www.realitatea.net/un-preot-a-fost-injunghiat-mortal-in-biserica-atacatorul-i-a-cerut-sa-i-citeasca-ceva-din-biblie_953281.html)
 
 ### Related:
 

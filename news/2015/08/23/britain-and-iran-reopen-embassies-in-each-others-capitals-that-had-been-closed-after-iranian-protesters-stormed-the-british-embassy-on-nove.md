@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://uk.reuters.com/article/2015/08/22/iran-nuclear-britain-idUKL5N10X02V20150822?feedType=RSS&feedName=rbssEnergyNews&utm_source=dlvr.it&utm_medium=twitter)
+1. [Reuters](http://uk.reuters.com/article/2015/08/22/iran-nuclear-britain-idUKL5N10X02V20150822?feedType=RSS&feedName=rbssEnergyNews)
 
 ### Related:
 

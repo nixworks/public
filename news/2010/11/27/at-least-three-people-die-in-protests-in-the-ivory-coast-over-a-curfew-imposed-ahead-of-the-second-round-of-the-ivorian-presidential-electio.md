@@ -7,7 +7,7 @@ At least three people have been killed in violence in Ivory Coast, hours before 
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-11855179?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-11855179)
 
 ### Related:
 

@@ -9,7 +9,7 @@ The US says it plans to sell Kuwait its latest Patriot anti-ballistic missile to
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10945524)
 2. [France24](http://www.france24.com/en/20100811-us-plans-missile-interceptor-sale-kuwait)
-3. [Reuters India](http://in.reuters.com/article/idINIndia-50783120100811?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FINworldNews+%28News+%2F+IN+%2F+World+News%29)
+3. [Reuters India](http://in.reuters.com/article/idINIndia-50783120100811)
 4. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/us-plans-patriot-missiles-sale-to-kuwait-20100812-11zyw.html)
 
 ### Related:

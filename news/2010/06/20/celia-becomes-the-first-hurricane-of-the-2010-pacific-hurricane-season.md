@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP via Breitbart](http://www.breitbart.com/article.php?id=D9GF7QQG2&show_article=1&utm_source=twitterfeed&utm_medium=twitter)
+1. [AP via Breitbart](http://www.breitbart.com/article.php?id=D9GF7QQG2&show_article=1)
 
 ### Related:
 

@@ -8,7 +8,7 @@ A row has broken out between Wikipedia and the FBI over the use of the agency lo
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/technology-10851394)
-2. [CNN](http://edition.cnn.com/2010/TECH/web/08/03/fbi.seal.wikipedia/index.html?eref=rss_topstories&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+Top+Stories%29)
+2. [CNN](http://edition.cnn.com/2010/TECH/web/08/03/fbi.seal.wikipedia/index.html?eref=rss_topstories)
 3. [Vanity Fair](http://www.vanityfair.com/online/daily/2010/08/today-in-intelligence-the-fbi-picks-a-fight-with-wikipedia.html)
 
 ### Related:

@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/asia-pacific/vietnamese-police-shut-down-anti-china-protest-take-away-dozens-of-demonstrators/2011/08/20/gIQABoKHTJ_story.html?utm_source=twitterfeed&utm_medium=twitter)
+1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/asia-pacific/vietnamese-police-shut-down-anti-china-protest-take-away-dozens-of-demonstrators/2011/08/20/gIQABoKHTJ_story.html)
 
 ### Related:
 

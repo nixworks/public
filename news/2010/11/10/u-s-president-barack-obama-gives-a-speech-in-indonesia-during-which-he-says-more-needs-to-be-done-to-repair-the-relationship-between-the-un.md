@@ -7,7 +7,7 @@ President Barack Obama held up his boyhood home of Indonesia as an example to th
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6A70ZJ20101110?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+1. [Reuters](http://www.reuters.com/article/idUSTRE6A70ZJ20101110)
 
 ### Related:
 

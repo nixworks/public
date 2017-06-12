@@ -7,7 +7,7 @@ Liberia said Friday it was lifting nationwide curfews and re-opening borders shu
 
 ### Source:
 
-1. [Daily Star](http://www.dailystar.com.lb/News/World/2015/Feb-20/288207-liberia-lifts-ebola-curfew-re-opens-borders-presidency.ashx?utm_content=buffer35454&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+1. [Daily Star](http://www.dailystar.com.lb/News/World/2015/Feb-20/288207-liberia-lifts-ebola-curfew-re-opens-borders-presidency.ashx)
 
 ### Related:
 

@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2010/POLITICS/11/16/rangel.ethics.hearing/index.html?eref=rss_us&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+rss/cnn_us+(RSS:+U.S.))
+1. [CNN](http://www.cnn.com/2010/POLITICS/11/16/rangel.ethics.hearing/index.html?eref=rss_us)
 
 ### Related:
 

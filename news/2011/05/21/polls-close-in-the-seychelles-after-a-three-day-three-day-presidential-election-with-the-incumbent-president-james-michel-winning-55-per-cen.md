@@ -8,7 +8,7 @@
 ### Source:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5h_y2_CIxdASHF5rbXARWQJXUhQ4w?docId=0d842c9a1a7c49a3a8c6ed535a10f022)
-2. [Reuters](http://www.reuters.com/article/2011/05/21/seychelles-election-result-idUSLDE74K07Y20110521?feedType=RSS&feedName=hotStocksNews&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+reuters%2FhotStocksNews+%28News+%2F+US+%2F+Hot+Stocks%29&utm_content=Google+Feedfetcher)
+2. [Reuters](http://www.reuters.com/article/2011/05/21/seychelles-election-result-idUSLDE74K07Y20110521?feedType=RSS&feedName=hotStocksNews)
 
 ### Related:
 

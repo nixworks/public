@@ -8,8 +8,8 @@ Zsa Zsa Gabor&#039;s publicist says the 93-year-old actress is in an extremely s
 ### Source:
 
 1. [AFP via news.com.au](http://www.news.com.au/breaking-news/zsa-zsa-gabor-calls-in-priest-for-final-rites/story-e6frfku0-1225905680227)
-2. [CNN](http://edition.cnn.com/2010/SHOWBIZ/celebrity.news.gossip/08/15/zsa.zsa.gabor.hospitalized/index.html?eref=rss_mostpopular&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_mostpopular+%28RSS%3A+Most+Popular%29#fbid=1V8eyj1WcpL&wom=false)
-3. [Reuters](http://www.reuters.com/article/idUSTRE67C4MV20100815?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2Fentertainment+%28News+%2F+US+%2F+Entertainment%29)
+2. [CNN](http://edition.cnn.com/2010/SHOWBIZ/celebrity.news.gossip/08/15/zsa.zsa.gabor.hospitalized/index.html?eref=rss_mostpopular&wom=false)
+3. [Reuters](http://www.reuters.com/article/idUSTRE67C4MV20100815)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/7947355/Zsa-Zsa-Gabor-in-an-extremely-serious-condition.html)
 
 ### Related:

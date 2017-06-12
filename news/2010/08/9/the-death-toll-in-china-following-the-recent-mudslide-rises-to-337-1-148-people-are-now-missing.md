@@ -10,7 +10,7 @@ The death toll from landslides in north-west China rises to 337, with 1,148 peop
 1. [AFP via France24](http://www.france24.com/en/20100809-landslides-death-toll-mounts-more-300-china-weather)
 2. [AP via ''The Times of India](http://timesofindia.indiatimes.com/world/china/Death-toll-in-China-landslide-rises-to-337/articleshow/6283217.cms)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10918315)
-4. [Reuters India](http://in.reuters.com/article/idINIndia-50714420100809?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FINworldNews+%28News+%2F+IN+%2F+World+News%29)
+4. [Reuters India](http://in.reuters.com/article/idINIndia-50714420100809)
 
 ### Related:
 

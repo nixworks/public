@@ -7,7 +7,7 @@ A man who confessed to murdering a Ugandan gay activist by beating him with a ha
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/11/11/us-uganda-rights-idUSTRE7AA1IN20111111?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FworldNews+%28News+%2F+US+%2F+International%29)
+1. [Reuters](http://www.reuters.com/article/2011/11/11/us-uganda-rights-idUSTRE7AA1IN20111111?feedType=RSS&feedName=worldNews)
 
 ### Related:
 

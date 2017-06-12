@@ -7,7 +7,7 @@ Protesters in Limpopo blockaded roads from Lephalale to Marapong township during
 
 ### Source:
 
-1. [ENCA](http://www.enca.com/south-africa/21-buses-police-station-torched-limpopo-chaos-escalates?utm_medium=Social&utm_source=Twitter&utm_campaign=Echobox&utm_term=Autofeed#link_time=1441694320)
+1. [ENCA](http://www.enca.com/south-africa/21-buses-police-station-torched-limpopo-chaos-escalates)
 
 ### Related:
 

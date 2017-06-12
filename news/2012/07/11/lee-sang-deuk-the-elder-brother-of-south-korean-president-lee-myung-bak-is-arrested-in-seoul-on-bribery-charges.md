@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/asia_pacific/skorean-presidents-brother-arrested-over-bribery-allegations-in-embarrassment-to-ruling-party/2012/07/10/gJQAhIHwbW_story.html?wprss=rss_social-world-headlines&utm_medium=twitter&utm_source=twitterfeed)
+1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/asia_pacific/skorean-presidents-brother-arrested-over-bribery-allegations-in-embarrassment-to-ruling-party/2012/07/10/gJQAhIHwbW_story.html?wprss=rss_social-world-headlines)
 
 ### Related:
 

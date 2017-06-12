@@ -8,7 +8,7 @@ Anti-apartheid figurehead Archbishop Desmond Tutu is retiring from public life, 
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/10/201010753035371336.html)
-2. [BBC](http://www.bbc.co.uk/news/world-africa-11489794?utm_source=twitterfeed&utm_medium=twitter)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-11489794)
 
 ### Related:
 

@@ -8,7 +8,7 @@ South Korean media quotes officials suspecting Kim Jong-Il has travelled to neig
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/20108263534985882.html)
-2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748703632304575452501123651256.html?mod=rss_asia_whats_news&utm_source=twitterfeed&utm_medium=twitter)
+2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748703632304575452501123651256.html?mod=rss_asia_whats_news)
 3. [Yonhap](http://english.yonhapnews.co.kr/national/2010/08/26/5/0301000000AEN20100826008500315F.HTML)
 
 ### Related:

@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Al Jazeera](http://english.aljazeera.net//news/asia/2010/09/2010923171548585802.html?utm_source=twitterfeed&utm_medium=twitter)
+1. [Al Jazeera](http://english.aljazeera.net//news/asia/2010/09/2010923171548585802.html)
 
 ### Related:
 

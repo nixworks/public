@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN](http://money.cnn.com/2011/02/14/news/economy/obama_budget_spending_cuts/index.htm?eref=edition&utm_source=twitterfeed&utm_medium=twitter)
+1. [CNN](http://money.cnn.com/2011/02/14/news/economy/obama_budget_spending_cuts/index.htm?eref=edition)
 
 ### Related:
 

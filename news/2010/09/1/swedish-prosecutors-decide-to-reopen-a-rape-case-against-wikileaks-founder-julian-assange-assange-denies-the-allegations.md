@@ -8,7 +8,7 @@
 ### Source:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/09/201091113736405415.html)
-2. [CNN](http://www.cnn.com/2010/WORLD/europe/09/01/sweden.assange/index.html?eref=rss_topstories&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+rss/cnn_topstories+(RSS:+Top+Stories)&utm_content=Google+Feedfetcher)
+2. [CNN](http://www.cnn.com/2010/WORLD/europe/09/01/sweden.assange/index.html?eref=rss_topstories)
 3. [The Guardian](http://www.guardian.co.uk/media/2010/sep/01/sweden-julian-assange-rape-investigation)
 4. [The New Zealand Herald](http://www.nzherald.co.nz/connect/news/article.cfm?c_id=1501833&objectid=10670549)
 

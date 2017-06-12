@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [IANS via Sulekha](http://newshopper.sulekha.com/russia-to-reform-police-system_news_1211576.htm?utm_source=twitterfeed&utm_medium=twitter)
+1. [IANS via Sulekha](http://newshopper.sulekha.com/russia-to-reform-police-system_news_1211576.htm)
 
 ### Related:
 

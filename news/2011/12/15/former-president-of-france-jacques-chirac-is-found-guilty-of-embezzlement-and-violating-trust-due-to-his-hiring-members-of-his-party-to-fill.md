@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [France 24](http://www.france24.com/en/breaking/20111215-former-french-president-jacques-chirac-found-guilty-embezzlement?ns_campaign=breaking_news&ns_source=twitter&ns_mchannel=reseaux_sociaux&ns_fee=0&ns_linkname=breaking_20111215_former_french_president_jacques_chirac_found&utm_source=dlvr.it&utm_medium=twitter)
+1. [France 24](http://www.france24.com/en/breaking/20111215-former-french-president-jacques-chirac-found-guilty-embezzlement?ns_campaign=breaking_news&ns_source=twitter&ns_mchannel=reseaux_sociaux&ns_fee=0&ns_linkname=breaking_20111215_former_french_president_jacques_chirac_found)
 
 ### Related:
 

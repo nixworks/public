@@ -7,7 +7,7 @@ Ben Quilty has won Australia&#039;s most prestigious portraiture prize, the Arch
 
 ### Source:
 
-1. [AAP via ABC News](http://www.abc.net.au/news/stories/2011/04/15/3192570.htm?utm_source=twitterfeed+just+in&utm_medium=twitter)
+1. [AAP via ABC News](http://www.abc.net.au/news/stories/2011/04/15/3192570.htm)
 2. [The Canberra Times](http://www.canberratimes.com.au/news/lifestyle/entertainment/general/quilty-wins-archibald-prize/2135636.aspx)
 
 ### Related:

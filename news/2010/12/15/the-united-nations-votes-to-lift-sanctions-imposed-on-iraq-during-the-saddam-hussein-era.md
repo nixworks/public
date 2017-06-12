@@ -7,7 +7,7 @@ The UN Security Council lifts most international sanctions imposed on Iraq durin
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12004115?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12004115)
 
 ### Related:
 

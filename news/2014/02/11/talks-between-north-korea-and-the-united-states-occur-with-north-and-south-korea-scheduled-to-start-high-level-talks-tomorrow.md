@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2014/02/10/world/asia/north-korea-kenneth-bae/?utm_source=Sailthru&utm_medium=email&utm_term=%2AMorning%20Brief&utm_campaign=MB%202.11.13)
+1. [CNN](http://edition.cnn.com/2014/02/10/world/asia/north-korea-kenneth-bae/)
 
 ### Related:
 

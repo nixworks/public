@@ -7,7 +7,7 @@ Philippine lawmakers have impeached the country&#x27;s chief anti-graft investig
 
 ### Source:
 
-1. [AP via Yahoo! News](http://sg.news.yahoo.com/philippine-lawmakers-impeach-top-anti-graft-prober-20110321-201534-763.html?utm_source=twitterfeed&utm_medium=twitter)
+1. [AP via Yahoo! News](http://sg.news.yahoo.com/philippine-lawmakers-impeach-top-anti-graft-prober-20110321-201534-763.html)
 
 ### Related:
 

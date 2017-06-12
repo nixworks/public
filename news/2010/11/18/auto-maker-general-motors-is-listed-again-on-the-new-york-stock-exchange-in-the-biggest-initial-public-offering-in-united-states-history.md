@@ -7,7 +7,7 @@ General Motors Co made a triumphant return to Wall Street less than a year and a
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6AB43H20101118?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+1. [Reuters](http://www.reuters.com/article/idUSTRE6AB43H20101118)
 
 ### Related:
 

@@ -8,7 +8,7 @@ DNR said there were reports of burn victims but it was unclear if those were fir
 ### Source:
 
 1. [KREM](http://www.krem.com/story/news/local/wildfire/2015/08/19/50-acre-fire-evacuates-town--twisp/32021205/)
-2. [The Seattle Times](http://www.seattletimes.com/seattle-news/northwest/chelan-fires-grow-but-firefighters-mop-up-contained-areas/?utm_content=buffer92856&utm_medium=social&utm_source=twitter&utm_campaign=owned_buffer)
+2. [The Seattle Times](http://www.seattletimes.com/seattle-news/northwest/chelan-fires-grow-but-firefighters-mop-up-contained-areas/)
 
 ### Related:
 

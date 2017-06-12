@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/pyongyang-unit-block-collapses-on-residents/story-e6frg6so-1226921719729?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheAustralianNewsNDM+%28The+Australian+%7C+News+%7C%29)
+1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/pyongyang-unit-block-collapses-on-residents/story-e6frg6so-1226921719729)
 
 ### Related:
 

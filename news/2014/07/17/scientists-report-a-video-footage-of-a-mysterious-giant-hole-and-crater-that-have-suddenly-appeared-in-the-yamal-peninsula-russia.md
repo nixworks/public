@@ -7,7 +7,7 @@ A mysterious giant hole and crater have suddenly appeared in Siberia, Russia. Th
 
 ### Source:
 
-1. [Gizmodo](http://sploid.gizmodo.com/mysterious-hole-discovered-in-siberia-1605872539?utm_campaign=socialflow_gizmodo_facebook&utm_source=gizmodo_facebook&utm_medium=socialflow)
+1. [Gizmodo](http://sploid.gizmodo.com/mysterious-hole-discovered-in-siberia-1605872539)
 
 ### Related:
 

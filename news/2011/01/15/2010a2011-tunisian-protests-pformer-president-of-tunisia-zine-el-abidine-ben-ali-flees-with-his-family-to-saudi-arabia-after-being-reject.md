@@ -16,7 +16,7 @@ Tunisian President Zine al-Abidine Ben Ali flees to Saudi Arabia with his family
 7. [Ennahar](http://www.ennaharonline.com/en/international/5555.html)
 8. [Oneindia](http://news.oneindia.in/2011/01/16/tunisiasnew-leader-takes-power-amidchaos-aid0126.html)
 9. [Reuters Africa](http://af.reuters.com/article/moroccoNews/idAFLDE70E0FB20110116)
-10. [Reuters](http://www.reuters.com/article/idUSTRE70D2OV20110116?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News))
+10. [Reuters](http://www.reuters.com/article/idUSTRE70D2OV20110116?feedType=RSS&feedName=topNews)
 11. [Reuters](http://www.reuters.com/article/idUSTRE70E18B20110115)
 12. [The Guardian](http://www.guardian.co.uk/world/2011/jan/15/jordanians-protest-over-food-prices)
 13. [Toronto Star](http://www.thestar.com/news/world/article/922567--rallies-across-canada-support-tunisian-uprising)

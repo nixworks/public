@@ -7,7 +7,7 @@ Jerusalem schools to close at noon ahead of expected flurries.
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/Israel-News/Country-braces-for-flash-floods-strong-winds-snow-391490?utm_source=Newsletter+2-19-2015&utm_campaign=Newsletter&utm_medium=email)
+1. [Jerusalem Post](http://www.jpost.com/Israel-News/Country-braces-for-flash-floods-strong-winds-snow-391490)
 
 ### Related:
 

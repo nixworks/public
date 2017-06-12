@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [News Limited via ''Daily Telegraph](http://www.dailytelegraph.com.au/news/world/james-foley-beheaded-isis-claims-to-have-killed-us-journalist-in-iraq/story-fni0xs63-1227030183635?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dailytelegraphtopstoriesndm+%28Daily+Telegraph+%7C+Top+Stories%29)
+1. [News Limited via ''Daily Telegraph](http://www.dailytelegraph.com.au/news/world/james-foley-beheaded-isis-claims-to-have-killed-us-journalist-in-iraq/story-fni0xs63-1227030183635)
 
 ### Related:
 

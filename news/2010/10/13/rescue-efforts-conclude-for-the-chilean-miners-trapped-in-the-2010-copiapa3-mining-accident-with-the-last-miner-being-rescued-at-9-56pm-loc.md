@@ -10,7 +10,7 @@ The men, who remain 600 metres below the surface, will be released, one by one, 
 1. [AFP, AP via ''Sydney Morning Herald](http://www.smh.com.au/world/free-at-last-miners-coming-to-surface-20101013-16iqw.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11518015)
 3. [Bloomberg](http://www.bloomberg.com/news/2010-10-13/chile-frees-first-of-33-miners-in-world-s-longest-underground-mine-rescue.html)
-4. [Reuters](http://www.reuters.com/article/idUSN0925972620101013?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+4. [Reuters](http://www.reuters.com/article/idUSN0925972620101013)
 
 ### Related:
 

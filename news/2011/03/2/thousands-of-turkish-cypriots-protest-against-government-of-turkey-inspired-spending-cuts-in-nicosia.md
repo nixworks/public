@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Cyprus Mail](http://www.cyprus-mail.com/cyprus/turkish-cypriots-protest-turkish-backed-austerity-steps/20110302?utm_source=twitterfeed&utm_medium=twitter&sms_ss=twitter&at_xt=4d6ea2ef04109e63,0)
+1. [Cyprus Mail](http://www.cyprus-mail.com/cyprus/turkish-cypriots-protest-turkish-backed-austerity-steps/20110302?sms_ss=twitter&at_xt=4d6ea2ef04109e63,0)
 
 ### Related:
 

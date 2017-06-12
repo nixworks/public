@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Roll Call](http://www.rollcall.com/news/michele_bachmann_jumps_into_presidential_race_2012-206448-1.html?utm_source=twitterfeed&utm_medium=twitter)
+1. [Roll Call](http://www.rollcall.com/news/michele_bachmann_jumps_into_presidential_race_2012-206448-1.html)
 
 ### Related:
 

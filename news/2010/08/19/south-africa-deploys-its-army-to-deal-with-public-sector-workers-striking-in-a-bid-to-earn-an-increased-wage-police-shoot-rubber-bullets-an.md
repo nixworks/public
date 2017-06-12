@@ -12,7 +12,7 @@ Military doctors, nurses and soldiers have been sent to hospitals at the request
 3. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE67I1Y320100819?sp=true)
 4. [The Citizen](http://www.citizen.co.za/index.php?option=com_content&view=article&id=109356&catid=25:local-news&Itemid=34)
 5. [Times Live](http://www.timeslive.co.za/local/article612447.ece/Violence-and-intimidation-flare-up-in-public-strike)
-6. [iAfrica](http://news.iafrica.com/sa/2603330.htm?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+IafricacomNewsLatestNews+%2528iafrica.com+News+Latest+News%2529)
+6. [iAfrica](http://news.iafrica.com/sa/2603330.htm)
 
 ### Related:
 

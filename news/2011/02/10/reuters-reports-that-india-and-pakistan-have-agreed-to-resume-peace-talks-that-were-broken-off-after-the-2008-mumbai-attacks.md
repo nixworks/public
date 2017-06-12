@@ -8,7 +8,7 @@ India and Pakistan haveagreed to formally resume peace talks that were broken of
 ### Source:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/02/2011210151917721372.html)
-2. [Reuters](http://www.reuters.com/article/2011/02/10/india-pakistan-idUSSGE71903F20110210?feedType=RSS&feedName=hotStocksNews&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=DTN+Stock+Market%3A&utm_content=Google+International)
+2. [Reuters](http://www.reuters.com/article/2011/02/10/india-pakistan-idUSSGE71903F20110210?feedType=RSS&feedName=hotStocksNews)
 
 ### Related:
 

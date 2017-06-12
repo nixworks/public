@@ -7,4 +7,4 @@
 
 ### Source:
 
-1. [3 News](http://www.3news.co.nz/NZPA-to-close-down-42-jobs-will-go/tabid/423/articleID/205797/Default.aspx?utm_source=twitterfeed&utm_medium=twitter)
+1. [3 News](http://www.3news.co.nz/NZPA-to-close-down-42-jobs-will-go/tabid/423/articleID/205797/Default.aspx)

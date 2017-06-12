@@ -7,7 +7,7 @@ ABOUT 10,000 people have fled their homes amid fighting between Muslim rebels an
 
 ### Source:
 
-1. [AFP via News Limited](http://www.news.com.au/breaking-news/flee-fighting-in-philippines/story-e6frfku0-1226176354762?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+newscomaubreakingndm+%28NEWS.com.au+%7C+Breaking+News%29)
+1. [AFP via News Limited](http://www.news.com.au/breaking-news/flee-fighting-in-philippines/story-e6frfku0-1226176354762)
 
 ### Related:
 

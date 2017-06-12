@@ -11,5 +11,5 @@ A gunman opened fire at a community college in southern Oregon on Thursday, kill
 2. [CBS News](http://www.cbsnews.com/news/oregon-community-college-shooting-umpqua-community-college-roseburg/)
 3. [CNN](http://www.cnn.com/2015/10/01/us/oregon-college-shooting/index.html)
 4. [Palm Beach Post](http://www.palmbeachpost.com/ap/ap/top-news/the-latest-multiple-casualties-reported-in-oregon-/nnsGc/)
-5. [Reuters](http://www.reuters.com/article/2015/10/01/us-usa-shooting-oregon-idUSKCN0RV5EP20151001?utm_source=twitter)
+5. [Reuters](http://www.reuters.com/article/2015/10/01/us-usa-shooting-oregon-idUSKCN0RV5EP20151001)
 6. [Reuters](http://www.reuters.com/article/2015/10/02/us-usa-shooting-oregon-idUSKCN0RV5EP20151002)

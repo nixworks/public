@@ -8,7 +8,7 @@ KEEP us bookmarked through the day for rolling coverage of the winners, losers a
 ### Source:
 
 1. [News Limited](http://www.news.com.au/entertainment/awards/emmys-2014-winners-nominees-opening-jokes-and-more/story-e6frfuf0-1227036962296)
-2. [The Wrap](http://www.thewrap.com/emmys-winners-2014-the-complete-list-updating-live/?utm_source=newsletter&utm_medium=email&utm_campaign=contactology)
+2. [The Wrap](http://www.thewrap.com/emmys-winners-2014-the-complete-list-updating-live/)
 3. [Washington Post](http://www.washingtonpost.com/blogs/style-blog-live/liveblog/2014-emmy-awards/?wpisrc=al_national)
 
 ### Related:

@@ -13,7 +13,7 @@ _Context: Basij, Iran, Tehran, United Kingdom, demonstration, embassies_
 _Context: Detroit, Ford Field, Michigan, World Wrestling Entertainment, WrestleMania 23, pay-per-view_
 
 ### [ Ukrainian political rivals rally in Kiev in response to the threat that President Viktor Yushchenko might dissolve the parliament and call for new elections. ](/news/2007/04/1/ukrainian-political-rivals-rally-in-kiev-in-response-to-the-threat-that-president-viktor-yushchenko-might-dissolve-the-parliament-and-call.md)
-_Context: Kiev, Ukrainian President, Ukrainians, Verkhovna Rada, Viktor Yushchenko_
+_Context: Kiev, Ukraine, Ukrainian President, Verkhovna Rada, Viktor Yushchenko_
 
 ## [Previous Day...](/news/2007/03/31/index.md)
 

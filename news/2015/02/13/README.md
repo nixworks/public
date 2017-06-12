@@ -16,7 +16,7 @@ At least 12 Taliban fighters held for their alleged involvement in attack that k
 Boko Haram militants from Nigeria attack a village on the shores of Lake Chad overnight, the first such attack on Chadian soil, officials say.
 
 ### [Fitch Ratings downgrades Ukraine's credit rating to junk bond status predicting it is likely to default on its debts. ](/news/2015/02/13/fitch-ratings-downgrades-ukraine-s-credit-rating-to-junk-bond-status-predicting-it-is-likely-to-default-on-its-debts.md)
-_Context: Fitch Ratings, Ukrainians, credit rating, junk bond_
+_Context: Fitch Ratings, Ukraine, credit rating, junk bond_
 
 ### [A bus crashes with a freight train in the Mexican state of Nuevo Len, killing at least sixteen people and injuring 30.  ](/news/2015/02/13/a-bus-crashes-with-a-freight-train-in-the-mexican-state-of-nuevo-leon-killing-at-least-sixteen-people-and-injuring-30.md)
 At least 16 were killed and 30 injured in a collision between a freight train and a bus on a highway in the north of Mexico on Friday evening, an emergency official said.

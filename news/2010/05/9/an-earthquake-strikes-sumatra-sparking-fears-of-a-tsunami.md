@@ -10,7 +10,7 @@ An&#x20;earthquake&#x20;of&#x20;7.2&#x20;magnitude&#x20;on&#x20;the&#x20;Richter
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8670593.stm)
 2. [Bangkok Post](http://www.bangkokpost.com/breakingnews/177347/powerful-quake-hits-indonesia-aceh)
 3. [France24](http://www.france24.com/en/20100509-earthquake-indonesia-sumatra)
-4. [IAfrica.com](http://news.iafrica.com/worldnews/2403580.htm?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+IafricacomNewsLatestNews+%2528iafrica.com+News+Latest+News%2529)
+4. [IAfrica.com](http://news.iafrica.com/worldnews/2403580.htm)
 
 ### Related:
 

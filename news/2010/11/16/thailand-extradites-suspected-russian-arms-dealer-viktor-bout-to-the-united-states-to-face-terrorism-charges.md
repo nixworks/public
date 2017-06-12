@@ -8,7 +8,7 @@ Thailand extradited on Tuesday suspected Russian arms dealer Viktor Bout to the 
 ### Source:
 
 1. [AP via ''Minneapolis Star-Tribune](http://www.startribune.com/politics/national/congress/108391984.html?elr=KArksLckD8EQDUoaEyqyP4O:DW3ckUiD3aPc:_Yyc:aUvDEhiaE3miUsZ)
-2. [Reuters](http://www.reuters.com/article/idUSTRE6AF0Y720101116?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+reuters/topNews+(News+/+US+/+Top+News))
+2. [Reuters](http://www.reuters.com/article/idUSTRE6AF0Y720101116)
 
 ### Related:
 

@@ -7,7 +7,7 @@ Hurricane Isaac dumped heavy rains on the U.S. Gulf Coast and caused widespread 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2012/08/29/us-storm-isaac-idUSBRE87L0PH20120829?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+1. [Reuters](http://www.reuters.com/article/2012/08/29/us-storm-isaac-idUSBRE87L0PH20120829?feedType=RSS&feedName=topNews)
 
 ### Related:
 

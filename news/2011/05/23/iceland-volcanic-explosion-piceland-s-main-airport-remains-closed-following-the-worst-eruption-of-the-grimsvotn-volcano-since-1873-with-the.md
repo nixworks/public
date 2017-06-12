@@ -8,7 +8,7 @@ Airlines began cancelling flights to Britain late on Monday because of an ash cl
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13498477)
-2. [Reuters](http://www.reuters.com/article/2011/05/23/us-iceland-volcano-idUSTRE74K2KP20110523?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+2. [Reuters](http://www.reuters.com/article/2011/05/23/us-iceland-volcano-idUSTRE74K2KP20110523?feedType=RSS&feedName=topNews)
 
 ### Related:
 

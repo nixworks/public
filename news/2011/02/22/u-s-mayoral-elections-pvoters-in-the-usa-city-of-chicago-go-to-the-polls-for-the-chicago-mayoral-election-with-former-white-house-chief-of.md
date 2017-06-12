@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [ABC News](http://abclocal.go.com/wabc/story?section=news/politics&id=7972568&rss=rss-twitter-wabc-article-7972568&utm_source=twitterfeed&utm_medium=twitter)
+1. [ABC News](http://abclocal.go.com/wabc/story?section=news/politics&id=7972568&rss=rss-twitter-wabc-article-7972568)
 2. [CNN](http://politicalticker.blogs.cnn.com/2011/02/22/breaking-cnn-projects-emanuel-wins-in-chicago/)
 3. [Fox Kansas City](http://www.fox4kc.com/news/wdaf-funkhouser-trailing-in-reelection-run-20110222,0,1899536.story)
 4. [New York Times](http://www.nytimes.com/2011/02/23/us/chicago-mayor-election.html?_r=1&hp)

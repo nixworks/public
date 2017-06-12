@@ -7,7 +7,7 @@ In the latest salvo in #OpNorthKorea, the hacktivist collective claims it will r
 
 ### Source:
 
-1. [The Diplomat](http://thediplomat.com/the-editor/2013/06/22/anonymous-we-have-stolen-north-korean-military-documents/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+the-diplomat+%28The+Diplomat+RSS%29)
+1. [The Diplomat](http://thediplomat.com/the-editor/2013/06/22/anonymous-we-have-stolen-north-korean-military-documents/)
 
 ### Related:
 

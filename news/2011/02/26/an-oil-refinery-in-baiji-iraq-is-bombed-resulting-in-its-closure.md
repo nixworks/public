@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/2011/02/26/iraq-oil-refinery-idUSLDE71P00L20110226?feedType=RSS&feedName=hotStocksNews&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=DTN+Stock+Market:&utm_content=Google+Feedfetcher)
+1. [Reuters](http://www.reuters.com/article/2011/02/26/iraq-oil-refinery-idUSLDE71P00L20110226?feedType=RSS&feedName=hotStocksNews)
 
 ### Related:
 

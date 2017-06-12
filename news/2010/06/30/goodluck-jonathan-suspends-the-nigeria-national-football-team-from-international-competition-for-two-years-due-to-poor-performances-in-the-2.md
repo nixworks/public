@@ -8,7 +8,7 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8777118.stm)
-2. [Reuters](http://af.reuters.com/article/nigeriaNews/idAFLDE65T1YS20100630?feedType=RSS&feedName=nigeriaNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FAfricaNigeriaNews+%28News+%2F+Africa+%2F+Nigeria+News%29)
+2. [Reuters](http://af.reuters.com/article/nigeriaNews/idAFLDE65T1YS20100630?feedType=RSS&feedName=nigeriaNews)
 3. [The Guardian](http://www.guardian.co.uk/football/2010/jun/30/nigeria-football-team-worldcup2010)
 
 ### Related:

@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [One Pakistan](http://www.onepakistan.com/news/top-stories/93043-nineteen-seriously-injured-in-peshawar-blast.html?utm_source=twitterfeed&utm_medium=twitter)
+1. [One Pakistan](http://www.onepakistan.com/news/top-stories/93043-nineteen-seriously-injured-in-peshawar-blast.html)
 
 ### Related:
 

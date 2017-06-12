@@ -52,7 +52,7 @@ The World Bank has increased funding to help Pakistan cope with catastrophic flo
 Chilean miners trapped underground receive their first hot meal in 26 days, as Nasa experts arrive at the mine site.
 
 ### [The U.S. state of North Carolina orders the evacuation of Cape Hatteras and Ocracoke Island ahead of Hurricane Earl. ](/news/2010/09/1/the-u-s-state-of-north-carolina-orders-the-evacuation-of-cape-hatteras-and-ocracoke-island-ahead-of-hurricane-earl.md)
-Hurricane Earl path is likely to be near Cape Hatteras Thursday night. Both it and Ocracoke Island are under evacuation orders. 
+_Context: Cape Hatteras, Hurricane Earl, North Carolina, Ocracoke Island, state_
 
 ### [A tower block collapse in Saint Petersburg neither kills nor injures people. ](/news/2010/09/1/a-tower-block-collapse-in-saint-petersburg-neither-kills-nor-injures-people.md)
 A collapsed eight-storey building in the Russian city of St Petersburg was empty, reports in Russian media say.

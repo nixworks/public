@@ -25,7 +25,7 @@ _Context: Eduard Khil, St Petersburg, Trololo, internet meme_
 _Context: Japan, S&P/TOPIX 150_
 
 ### [At least 23 people are killed and 60 injured after a bus carrying a wedding party crashes near the Pakistani capital Islamabad. ](/news/2012/06/4/at-least-23-people-are-killed-and-60-injured-after-a-bus-carrying-a-wedding-party-crashes-near-the-pakistani-capital-islamabad.md)
-_Context: Islamabad, Pakistan_
+AT least 23 Pakistani wedding guests, including six children, were killed when a bus plunged into a ravine near Islamabad.
 
 ### [Luka Magnotta, a suspect in a murder case in Canada, is arrested in an Internet cafe in Berlin. ](/news/2012/06/4/luka-magnotta-a-suspect-in-a-murder-case-in-canada-is-arrested-in-an-internet-cafe-in-berlin.md)
 Police in Berlin arrest the Canadian porn actor wanted for the murder and dismemberment of his lover in Montreal.

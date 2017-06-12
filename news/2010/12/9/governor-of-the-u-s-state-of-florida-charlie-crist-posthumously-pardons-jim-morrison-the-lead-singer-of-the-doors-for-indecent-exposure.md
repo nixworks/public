@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11961715?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11961715)
 
 ### Related:
 

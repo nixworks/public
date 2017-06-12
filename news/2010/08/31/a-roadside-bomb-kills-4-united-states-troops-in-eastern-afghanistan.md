@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP via MSNBC](http://www.msnbc.msn.com/id/38928370/ns/world_news-south_and_central_asia/?utm_source=twitterfeed&utm_medium=twitter)
+1. [AP via MSNBC](http://www.msnbc.msn.com/id/38928370/ns/world_news-south_and_central_asia/)
 
 ### Related:
 

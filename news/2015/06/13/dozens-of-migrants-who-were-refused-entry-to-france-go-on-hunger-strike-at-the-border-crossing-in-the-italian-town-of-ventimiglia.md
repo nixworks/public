@@ -7,7 +7,7 @@ Italian police moved in Saturday to disperse around 200 migrants who were stagin
 
 ### Source:
 
-1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/World/2015/Jun-13/301951-migrants-in-hunger-strike-at-france-italy-border.ashx?utm_content=buffer38674&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/World/2015/Jun-13/301951-migrants-in-hunger-strike-at-france-italy-border.ashx)
 
 ### Related:
 

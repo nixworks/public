@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/s-korea-retains-prime-minister-who-quit-over-ferry-disaster/story-e6frg6so-1226967653787?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheAustralianNewsNDM+%28The+Australian+%7C+News+%7C%29)
+1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/s-korea-retains-prime-minister-who-quit-over-ferry-disaster/story-e6frg6so-1226967653787)
 
 ### Related:
 

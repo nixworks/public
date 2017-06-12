@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/WORLD/americas/03/02/us.calderon.obama.visit/index.html?eref=rss_world&utm_source=twitterfeed&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_world+%28RSS%3A+World%29&utm_content=Google+International#)
+1. [CNN](http://edition.cnn.com/2011/WORLD/americas/03/02/us.calderon.obama.visit/index.html?eref=rss_world)
 
 ### Related:
 

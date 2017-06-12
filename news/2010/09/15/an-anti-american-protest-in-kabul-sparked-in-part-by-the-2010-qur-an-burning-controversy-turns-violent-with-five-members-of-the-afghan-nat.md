@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/09/15/afghanistan.protests/index.html?eref=rss_latest&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+rss/cnn_latest+(RSS:+Most+Recent))
+1. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/09/15/afghanistan.protests/index.html?eref=rss_latest)
 
 ### Related:
 

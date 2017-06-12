@@ -43,7 +43,7 @@ _Context: Adam Mayes, Guntown, Mississippi, Tennessee Bureau of Investigation, f
 A journalist with a top Honduran radio station was kidnapped Wednesday on his way to work, police and co-workers said, days after another reporter was killed and dumped on the side of a road.
 
 ### [Jailed Ukrainian opposition leader Yulia Tymoshenko is moved to a hospital after a political compromise, and ends her hunger strike. ](/news/2012/05/9/jailed-ukrainian-opposition-leader-yulia-tymoshenko-is-moved-to-a-hospital-after-a-political-compromise-and-ends-her-hunger-strike.md)
-_Context: Ukrainians, Yulia Tymoshenko_
+_Context: Ukraine, Yulia Tymoshenko_
 
 ### [United States President Barack Obama officially states that he supports the right for same-sex partners to marry. ](/news/2012/05/9/united-states-president-barack-obama-officially-states-that-he-supports-the-right-for-same-sex-partners-to-marry.md)
 _Context: Barack Obama, U.S. President, same-sex marriage_

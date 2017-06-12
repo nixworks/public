@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/03/20123263020568112.html?utm_content=automateplus&utm_campaign=Trial6&utm_source=SocialFlow&utm_term=tweets&utm_medium=MasterAccount)
+1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/03/20123263020568112.html)
 
 ### Related:
 

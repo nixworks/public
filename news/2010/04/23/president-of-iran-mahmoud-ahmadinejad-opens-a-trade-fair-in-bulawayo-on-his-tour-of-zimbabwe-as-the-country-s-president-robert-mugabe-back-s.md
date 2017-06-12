@@ -9,7 +9,7 @@
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/2010423132451639514.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8639588.stm)
-3. [Reuters](http://uk.reuters.com/article/idUKTRE63M1WW20100423?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
+3. [Reuters](http://uk.reuters.com/article/idUKTRE63M1WW20100423?feedType=RSS&feedName=worldNews)
 4. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Ahmadinejad-condemns-satanic-pressures-on-Iran-and-Zimbabwe/articleshow/5846606.cms)
 
 ### Related:

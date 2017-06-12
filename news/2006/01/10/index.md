@@ -10,7 +10,7 @@ _Context: Amnesty International, Camp Delta, Cuba, Guantanamo Bay_
 _Context: Antarctic, Australia's government, hunt_
 
 ### [ Ukraine's parliament dismisses the Cabinet over its gas deal with Russia. ](/news/2006/01/10/ukraine-s-parliament-dismisses-the-cabinet-over-its-gas-deal-with-russia.md)
-_Context: Ukrainians, Verkhovna Rada, forming a government, restarts_
+_Context: Ukraine, Verkhovna Rada, forming a government, restarts_
 
 ### [ Iran's standoff from the UN and the west deepens as the UN seals on the Natanz nuclear processing plant are broken. ](/news/2006/01/10/iran-s-standoff-from-the-un-and-the-west-deepens-as-the-un-seals-on-the-natanz-nuclear-processing-plant-are-broken.md)
 _Context: Iran, Natanz, United Nations_

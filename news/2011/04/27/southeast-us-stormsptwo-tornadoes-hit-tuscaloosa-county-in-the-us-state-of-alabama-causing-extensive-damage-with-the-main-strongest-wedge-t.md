@@ -15,7 +15,7 @@ Severe storms and tornadoes moving through the Southeast dealt a severe blow to 
 6. [CBS42](http://www.cbs42.com/content/localnews/story/Power-Outages/xwFqXDr5iUyhU8vxIlRJoA.cspx)
 7. [CNN](http://news.blogs.cnn.com/2011/04/27/possible-tornado-touches-down-in-alabama-damage-reported/)
 8. [Clarion Ledger](http://www.clarionledger.com/article/20110427/NEWS/110427004/Deadly-tornado-outbreak-devastates-Mississippi?odyssey=tab%7Cmostpopular%7Ctext%7CFRONTPAGE)
-9. [Fox News](http://www.myfoxmemphis.com/dpp/news/local/storms-kill-54-around-south,-including-40-in-ala.-apx-20110427?utm_source=NeoMemphis&utm_medium=twitter)
+9. [Fox News](http://www.myfoxmemphis.com/dpp/news/local/storms-kill-54-around-south,-including-40-in-ala.-apx-20110427)
 10. [Montgomery News](http://blog.al.com/montgomery/2011/04/ema_6_confirmed_dead_as_a_resu.html)
 11. [News Channel 7](http://www2.wspa.com/news/2011/apr/27/24/flooding-danger-through-wednesday-western-nc-upsta-ar-1764938/)
 12. [Reuters via Yahoo News](http://news.yahoo.com/s/nm/20110428/ts_nm/us_weather)

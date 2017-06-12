@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [DPA via ''Trends](http://en.trend.az/regions/world/ocountries/1840113.html?utm_source=twitterfeed&utm_medium=twitter)
+1. [DPA via ''Trends](http://en.trend.az/regions/world/ocountries/1840113.html)
 
 ### Related:
 

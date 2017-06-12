@@ -8,7 +8,7 @@
 ### Source:
 
 1. [CNN](http://edition.cnn.com/2011/11/25/world/africa/morocco-vote/)
-2. [Reuters](http://www.reuters.com/article/2011/11/26/us-morocco-election-idUSTRE7AO1U520111126?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FworldNews+%28News+%2F+US+%2F+International%29)
+2. [Reuters](http://www.reuters.com/article/2011/11/26/us-morocco-election-idUSTRE7AO1U520111126?feedType=RSS&feedName=worldNews)
 
 ### Related:
 

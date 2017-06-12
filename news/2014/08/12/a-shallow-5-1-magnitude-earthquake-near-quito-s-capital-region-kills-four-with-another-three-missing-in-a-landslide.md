@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AAP via News Limited](http://www.news.com.au/world/breaking-news/quake-kills-four-in-quito-ecuador/story-e6frfkui-1227023666187?utm_source=News&utm_medium=email&utm_campaign=editorial&net_sub_uid=17161212)
+1. [AAP via News Limited](http://www.news.com.au/world/breaking-news/quake-kills-four-in-quito-ecuador/story-e6frfkui-1227023666187?net_sub_uid=17161212)
 
 ### Related:
 

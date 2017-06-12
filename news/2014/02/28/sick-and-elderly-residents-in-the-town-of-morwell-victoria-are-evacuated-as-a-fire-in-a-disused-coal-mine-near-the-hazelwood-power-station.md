@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [The Australian](http://www.theaustralian.com.au/news/nation/victorias-morwell-coal-mine-fire-crisis-intensifies/story-e6frg6nf-1226840394887?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheAustralianTheNationNews+%28The+Australian+%7C+The+Nation%29)
+1. [The Australian](http://www.theaustralian.com.au/news/nation/victorias-morwell-coal-mine-fire-crisis-intensifies/story-e6frg6nf-1226840394887)
 
 ### Related:
 

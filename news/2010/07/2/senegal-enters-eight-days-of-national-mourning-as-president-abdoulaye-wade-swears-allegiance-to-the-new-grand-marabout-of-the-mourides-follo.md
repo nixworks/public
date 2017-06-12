@@ -12,7 +12,7 @@ At least 17 people killed in fighting between government forces and rebels.
 3. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10485558.stm)
 4. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10486173.stm)
 5. [CNN](http://us.cnn.com/2010/WORLD/africa/07/02/rwanda.genocide.arrest/index.html?hpt=T2)
-6. [Reuters](http://af.reuters.com/article/senegalNews/idAFLDE6610SL20100702?feedType=RSS&feedName=senegalNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FAfricaSenegalNews+%28News+%2F+Africa+%2F+Senegal+News%29)
+6. [Reuters](http://af.reuters.com/article/senegalNews/idAFLDE6610SL20100702?feedType=RSS&feedName=senegalNews)
 
 ### Related:
 

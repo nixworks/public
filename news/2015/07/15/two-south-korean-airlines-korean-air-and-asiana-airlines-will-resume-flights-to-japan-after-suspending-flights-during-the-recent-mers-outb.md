@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [TASS](http://tass.ru/en/world/808741?utm_medium=twitter&utm_source=ITAR-TASS)
+1. [TASS](http://tass.ru/en/world/808741)
 
 ### Related:
 

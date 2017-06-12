@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP via ''The Australian](http://www.theaustralian.com.au/news/world/magnitude-82-earthquake-strikes-chile-sparking-tsunami-landslides/story-e6frg6so-1226872234580?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheAustralianNewsNDM+%28The+Australian+%7C+News+%7C%29)
+1. [AP via ''The Australian](http://www.theaustralian.com.au/news/world/magnitude-82-earthquake-strikes-chile-sparking-tsunami-landslides/story-e6frg6so-1226872234580)
 2. [Fox News](http://www.foxnews.com/world/2014/04/02/80-magnitude-earthquake-reported-off-chilean-coast/)
 3. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/usc000nzvd#summary)
 

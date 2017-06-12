@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [CNN](http://edition.cnn.com/2011/11/16/world/americas/nicaragua-elections/index.html?eref=rss_latest&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+Most+Recent%29)
+1. [CNN](http://edition.cnn.com/2011/11/16/world/americas/nicaragua-elections/index.html?eref=rss_latest)
 
 ### Related:
 

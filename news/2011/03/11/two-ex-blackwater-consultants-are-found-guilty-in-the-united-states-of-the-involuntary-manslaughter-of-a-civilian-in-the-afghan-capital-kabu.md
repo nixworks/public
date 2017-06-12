@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP via NPR](http://www.npr.org/2011/03/11/134470077/ex-blackwater-workers-found-guilty-in-afghan-death?ft=1&f=1001&sc=tw&utm_source=twitterfeed&utm_medium=twitter)
+1. [AP via NPR](http://www.npr.org/2011/03/11/134470077/ex-blackwater-workers-found-guilty-in-afghan-death?ft=1&f=1001&sc=tw)
 
 ### Related:
 

@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP via ''The Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/tx/7628901.html?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+houstonchronicle%2Ftopheadlines+%28chron.com+-+Top+Stories%29)
+1. [AP via ''The Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/tx/7628901.html)
 
 ### Related:
 

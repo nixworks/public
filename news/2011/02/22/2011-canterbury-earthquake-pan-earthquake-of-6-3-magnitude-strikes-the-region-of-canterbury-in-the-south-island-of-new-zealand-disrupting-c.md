@@ -8,7 +8,7 @@ There have been multiple fatalities after a shallow 6.3 magnitude earthquake in 
 ### Source:
 
 1. [3 News New Zealand](http://www.3news.co.nz/Live-updates-Deaths-confirmed-in-Christchurch-quake/tabid/423/articleID/199310/Default.aspx)
-2. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/02/21/new.zealand.earthquake/index.html?eref=edition&utm_source=twitterfeed&utm_medium=twitter#)
+2. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/02/21/new.zealand.earthquake/index.html?eref=edition)
 3. [Geo Net](http://www.geonet.org.nz/earthquake/quakes/3468575g.html)
 4. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10707996)
 5. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10707997)

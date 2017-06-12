@@ -8,7 +8,7 @@
 ### Source:
 
 1. [AhramOnline](http://english.ahram.org.eg/NewsContent/36/122/45876/Presidential-elections-/Presidential-elections-news/BREAKING-Shafiq-to-be-named-president-on-Sunday,-c.aspx)
-2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/20126224915845417.html?utm_content=automate&utm_campaign=Trial6&utm_source=NewSocialFlow&utm_term=plustweets&utm_medium=MasterAccount)
+2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/20126224915845417.html)
 3. [CNN](http://edition.cnn.com/2012/06/22/world/meast/egypt-politics/index.html?hpt=hp_t1)
 
 ### Related:

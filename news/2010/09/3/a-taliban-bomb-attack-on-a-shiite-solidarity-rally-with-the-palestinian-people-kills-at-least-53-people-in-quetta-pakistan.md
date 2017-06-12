@@ -8,7 +8,7 @@ A suicide bomber struck a rally in the Pakistani city of Quetta on Friday, killi
 ### Source:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/38988036/ns/world_news-south_and_central_asia/?ocid=twitter)
-2. [Reuters via Yahoo! Canada](http://ca.news.yahoo.com/s/reuters/100903/n_top_news/cnews_us_pakistan_blast?utm_source=twitterfeed&utm_medium=twitter)
+2. [Reuters via Yahoo! Canada](http://ca.news.yahoo.com/s/reuters/100903/n_top_news/cnews_us_pakistan_blast)
 3. [The Times of India](http://timesofindia.indiatimes.com/world/pakistan/53-killed-197-wounded-in-Pakistan-suicide-bombing-Police/articleshow/6486283.cms)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/03/c_13477262.htm)
 

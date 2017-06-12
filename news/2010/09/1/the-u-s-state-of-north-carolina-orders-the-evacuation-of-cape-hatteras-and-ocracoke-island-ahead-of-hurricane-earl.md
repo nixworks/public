@@ -2,12 +2,12 @@
 
 # The U.S. state of North Carolina orders the evacuation of Cape Hatteras and Ocracoke Island ahead of Hurricane Earl. 
 
-Hurricane Earl path is likely to be near Cape Hatteras Thursday night. Both it and Ocracoke Island are under evacuation orders. 
+
 
 
 ### Source:
 
-1. [Christian Science Monitor](http://www.csmonitor.com/USA/2010/0901/Hurricane-Earl-path-evacuation-of-Ocracoke-Island-watch-in-Virginia?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+feeds/csm+(Christian+Science+Monitor+|+All+Stories))
+1. [Christian Science Monitor](http://www.csmonitor.com/USA/2010/0901/Hurricane-Earl-path-evacuation-of-Ocracoke-Island-watch-in-Virginia|+All+Stories))
 
 ### Related:
 

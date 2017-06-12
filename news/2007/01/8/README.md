@@ -7,7 +7,7 @@ _Context: Gilmore v. Gonzales, United States Supreme Court, secret law, travel p
 _Context: Hudson River, Jersey City, Manhattan, New Jersey, PATH_
 
 ### [ Russian oil supplies to Poland, Germany, and Ukraine are cut as the Russia-Belarus energy dispute escalates. ](/news/2007/01/8/russian-oil-supplies-to-poland-germany-and-ukraine-are-cut-as-the-russia-belarus-energy-dispute-escalates.md)
-_Context: Belarus, German, Poland, Russia, Ukrainians, energy dispute_
+_Context: Belarus, German, Poland, Russia, Ukraine, energy dispute_
 
 ### [ It is reported that Chinese police killed 18 members of the East Turkestan Islamic Movement organization and arrested 17 others in a raid in the Pamir Plateau on 5 January. ETIM members shot and killed one officer and wounded another. Police found 22 grenades and enough explosive material to make 1,500 more. ](/news/2007/01/8/it-is-reported-that-chinese-police-killed-18-members-of-the-east-turkestan-islamic-movement-organization-and-arrested-17-others-in-a-raid-i.md)
 _Context: 5 January, East Turkestan Islamic Movement, Pamir Plateau, a raid_

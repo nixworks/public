@@ -10,7 +10,7 @@ More than 100 children have recently died of lead poisoning in northern Nigeria 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10241647.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=86&art_id=nw20100604190019688C482482)
 3. [News24.com](http://www.news24.com/Africa/News/Lead-poisoning-kills-163-Nigerians-20100604)
-4. [Reuters](http://uk.reuters.com/article/idUKTRE6534K620100604?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29)
+4. [Reuters](http://uk.reuters.com/article/idUKTRE6534K620100604?feedType=RSS&feedName=worldNews)
 
 ### Related:
 

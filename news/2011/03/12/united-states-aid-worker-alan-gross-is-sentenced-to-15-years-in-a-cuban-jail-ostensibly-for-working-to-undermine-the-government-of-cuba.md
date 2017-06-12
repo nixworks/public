@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20110312/us_nm/us_cuba_usa_contractor?utm_source=twitterfeed&utm_medium=twitter)
+1. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20110312/us_nm/us_cuba_usa_contractor)
 
 ### Related:
 

@@ -8,7 +8,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### Source:
 
 1. [ABC](http://abcnews.go.com/International/wireStory?id=10926025)
-2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/06/15/indonesia.earthquake/index.html?eref=rss_topstories&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+Top+Stories%29)
+2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/06/15/indonesia.earthquake/index.html?eref=rss_topstories)
 3. [SINA](http://english.sina.com/world/2010/0615/324919.html)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/16/c_13352821.htm)
 

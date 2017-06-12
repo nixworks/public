@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters via El Econimista](http://www.eleconomista.es/telecomunicaciones-tecnologia/noticias/6795264/06/15/Hurricane-Carlos-moves-west-tracking-Mexican-Pacific-coast.html?utm_source=twitterfeed&utm_medium=twitter#.Kku8Y8uuc8mHw2N)
+1. [Reuters via El Econimista](http://www.eleconomista.es/telecomunicaciones-tecnologia/noticias/6795264/06/15/Hurricane-Carlos-moves-west-tracking-Mexican-Pacific-coast.html)
 
 ### Related:
 

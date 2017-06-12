@@ -9,7 +9,7 @@ European Union leaders approve new sanctions on Iran that are tougher than recen
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/2010617131321350931.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/us_and_canada/10341907.stm)
-3. [Reuters](http://af.reuters.com/article/ivoryCoastNews/idAFLDE65G1AF20100617?feedType=RSS&feedName=ivoryCoastNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FAfricaIvoryCoastNews+%28News+%2F+Africa+%2F+Ivory+Coast+News%29)
+3. [Reuters](http://af.reuters.com/article/ivoryCoastNews/idAFLDE65G1AF20100617?feedType=RSS&feedName=ivoryCoastNews)
 4. [The News International](http://www.thenews.com.pk/updates.asp?id=106858)
 
 ### Related:

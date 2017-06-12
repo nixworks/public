@@ -7,7 +7,7 @@ A plane crash in Honduras kills all 14 people on board, including government min
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12458867?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12458867)
 
 ### Related:
 

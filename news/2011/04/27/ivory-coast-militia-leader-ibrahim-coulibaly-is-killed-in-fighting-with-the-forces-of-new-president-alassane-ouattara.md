@@ -7,7 +7,7 @@ Ibrahim Coulibaly, an Ivory Coast militia leader who has been behind several cou
 
 ### Source:
 
-1. [BBC](http://www.bbc.co.uk/news/world-africa-13218243?utm_source=twitterfeed&utm_medium=twitter)
+1. [BBC](http://www.bbc.co.uk/news/world-africa-13218243)
 
 ### Related:
 

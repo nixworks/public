@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Jerusalem Post](http://www.jpost.com/Breaking-News/IDF-arrests-senior-Hamas-figure-Hassan-Yousef-in-West-Bank-427478?utm_source=dlvr.it&utm_medium=twitter)
+1. [Jerusalem Post](http://www.jpost.com/Breaking-News/IDF-arrests-senior-Hamas-figure-Hassan-Yousef-in-West-Bank-427478)
 
 ### Related:
 

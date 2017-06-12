@@ -8,7 +8,7 @@ Five Egyptian police officers were gunned down in separate incidents on Friday i
 ### Source:
 
 1. [CNN](http://www.cnn.com/2013/07/05/world/meast/egypt-coup/index.html?hpt=hp_t1)
-2. [Egypt Independent](http://www.egyptindependent.com/news/health-ministry-52-dead-unrest-began?utm_source=dlvr.it&utm_medium=twitter)
+2. [Egypt Independent](http://www.egyptindependent.com/news/health-ministry-52-dead-unrest-began)
 3. [Reuters](http://www.reuters.com/article/2013/07/05/us-egypt-protests-police-attack-idUSBRE9640WT20130705)
 
 ### Related:

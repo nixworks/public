@@ -7,7 +7,7 @@ The&#x20;Special&#x20;Court&#x20;for&#x20;Sierra&#x20;Leone&#x20;found&#x20;Libe
 
 ### Source:
 
-1. [AFP via France 24](http://www.france24.com/en/20120426-hague-court-verdict-liberia-charles-taylor-special-court-sierra-leone-rebels-blood-diamonds?ns_campaign=editorial&ns_source=RSS_public&ns_mchannel=RSS&ns_fee=&ns_linkname=20120426_hague_court_verdict_liberia_charles_taylor&utm_source=dlvr.it&utm_medium)
+1. [AFP via France 24](http://www.france24.com/en/20120426-hague-court-verdict-liberia-charles-taylor-special-court-sierra-leone-rebels-blood-diamonds?ns_campaign=editorial&ns_source=RSS_public&ns_mchannel=RSS&ns_fee=&ns_linkname=20120426_hague_court_verdict_liberia_charles_taylor&utm_medium)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-17852488)
 
 ### Related:

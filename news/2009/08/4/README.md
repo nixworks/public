@@ -58,7 +58,7 @@ _Context: Sudan, public indecency, trousers_
 _Context: Kenya, Mwai Kibaki, president_
 
 ### [ Nigerian airport officials release an Ukrainian aircraft and its crew arrested in June with an arms cargo bound for Equatorial Guinea. ](/news/2009/08/4/nigerian-airport-officials-release-an-ukrainian-aircraft-and-its-crew-arrested-in-june-with-an-arms-cargo-bound-for-equatorial-guinea.md)
-_Context: Equatorial Guinea, Nigeria, Ukrainians_
+_Context: Equatorial Guinea, Nigeria, Ukraine_
 
 ## [Previous Day...](/news/2009/08/3/index.md)
 
