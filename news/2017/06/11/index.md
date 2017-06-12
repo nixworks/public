@@ -7,7 +7,7 @@ Philippine President Rodrigo Duterte said on Sunday he was not aware the U.S. go
 The surprise hit musical won a total of six Tonys, including best musical actor for 23 year-old newcomer Ben Platt
 
 ### [The European Union's visa-free regime for Ukraine officially enters into force. ](/news/2017/06/11/the-european-union-s-visa-free-regime-for-ukraine-officially-enters-into-force.md)
-_Context: European Union, Ukraine, Ukraine-European Union relations_
+_Context: European Union, Ukraine, Ukraine-European Union relations, visa-free_
 
 ### [Iran sends five 90-tonne air cargo payloads of perishable food to Qatar. More shipments by air and sea are underway. ](/news/2017/06/11/iran-sends-five-90-tonne-air-cargo-payloads-of-perishable-food-to-qatar-more-shipments-by-air-and-sea-are-underway.md)
 Three ships loaded with 350 tonnes of food were also set to leave an Iranian port for Qatar.

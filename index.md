@@ -1,9 +1,9 @@
 ## [News](/news/2017/06/12/index.md)
 
-### [An earthquake of 6.2 magnitudes shakes the Aegean Sea, causing no deaths. ](/news/2017/06/12/an-earthquake-of-6-2-magnitudes-shakes-the-aegean-sea-causing-no-deaths.md)
+### [An earthquake of 6.3 magnitudes shakes the Aegean Sea, causing no deaths.  	Many houses were damaged in Plomari, Greece, and some collapsed.](/news/2017/06/12/an-earthquake-of-6-3-magnitudes-shakes-the-aegean-sea-causing-no-deaths-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md)
  ISTANBUL (AP) — An earthquake with a preliminary magnitude of 6.2 shook western Turkey and the Greek island of Lesbos on Monday, injuring at least 10 people and damaging buildings
 
-### [Russian police detains opposition leader Alexei Navalny just before a protest rally to be held in central Moscow. ](/news/2017/06/12/russian-police-detains-opposition-leader-alexei-navalny-just-before-a-protest-rally-to-be-held-in-central-moscow.md)
+### [Hundreds of people are detained at anti-corruption protest rallies in Moscow and St. Petersburg and many other towns, including opposition leader Alexei Navalny. ](/news/2017/06/12/hundreds-of-people-are-detained-at-anti-corruption-protest-rallies-in-moscow-and-st-petersburg-and-many-other-towns-including-opposition-l.md)
 Police detained Russian opposition leader Alexei Navalny at the entrance of his home on Monday, just before an unsanctioned rally he was going to hold in central Moscow, but the protest will still go ahead, his wife said on Twitter.
 
 ### [A coalition led by the Democratic Party of Kosovo wins the most votes in yesterday's election and is in a good position to form a government led by former rebel leader and Prime Minister Ramush Haradinaj. ](/news/2017/06/12/a-coalition-led-by-the-democratic-party-of-kosovo-wins-the-most-votes-in-yesterday-s-election-and-is-in-a-good-position-to-form-a-government.md)
@@ -24,7 +24,7 @@ Philippine President Rodrigo Duterte said on Sunday he was not aware the U.S. go
 The surprise hit musical won a total of six Tonys, including best musical actor for 23 year-old newcomer Ben Platt
 
 ### [The European Union's visa-free regime for Ukraine officially enters into force. ](/news/2017/06/11/the-european-union-s-visa-free-regime-for-ukraine-officially-enters-into-force.md)
-_Context: European Union, Ukraine, Ukraine-European Union relations_
+_Context: European Union, Ukraine, Ukraine-European Union relations, visa-free_
 
 ### [Iran sends five 90-tonne air cargo payloads of perishable food to Qatar. More shipments by air and sea are underway. ](/news/2017/06/11/iran-sends-five-90-tonne-air-cargo-payloads-of-perishable-food-to-qatar-more-shipments-by-air-and-sea-are-underway.md)
 Three ships loaded with 350 tonnes of food were also set to leave an Iranian port for Qatar.
@@ -66,7 +66,7 @@ Police have confirmed the deaths of four people after a shooting spree in the vi
 ### [Quebec police shoot and kill a 19-year-old suspect following a stabbing spree in the village of Akulivik which left three people dead and two others critically injured. ](/news/2017/06/10/quebec-police-shoot-and-kill-a-19-year-old-suspect-following-a-stabbing-spree-in-the-village-of-akulivik-which-left-three-people-dead-and-tw.md)
 A 19-year-old individual was shot and killed by police in the northern Quebec village of Akulivik, after stabbings that killed three people and injured two others, provincial authorities said Saturday.
 
-### [Aftermath of the Prime Minister Theresa May's closest advisers, Fiona Hill and Nick Timothy, resign as her Chief of Staffs amid criticism over their role in the Conservative Party's election campaign. ](/news/2017/06/10/aftermath-of-the-prime-minister-theresa-may-s-closest-advisers-fiona-hill-and-nick-timothy-resign-as-her-chief-of-staffs-amid-criticism-ov.md)
+### [Aftermath of the Prime Minister Theresa May's closest advisers, Fiona Hill and Nick Timothy, resign as her Chiefs of Staff amid criticism over their role in the Conservative Party's election campaign. ](/news/2017/06/10/aftermath-of-the-prime-minister-theresa-may-s-closest-advisers-fiona-hill-and-nick-timothy-resign-as-her-chiefs-of-staff-amid-criticism-ov.md)
 Theresa May’s key aides Nick Timothy and Fiona Hill have resigned, taking the blame for her disastrous election campaign. Mr Timothy said he was taking responsibility for the social care U-turn which torpedoed her manifesto, acknowledging he had “oversight of our policy programme”. “In particular, I regret the decision not to include in the manifesto a ceiling as well as a floor in our proposal to help meet the increasing cost of social care,” he added.
 
 ### [Protesters stage rallies, organized by ACT! for America, against sharia law  in major and small cities  across the United States. Counter protesters also assembled at these locations. ](/news/2017/06/10/protesters-stage-rallies-organized-by-act-for-america-against-sharia-law-in-major-and-small-cities-across-the-united-states-counter-pr.md)
