@@ -1,7 +1,7 @@
 ## [News](/news/2017/06/13/index.md)
 
 ### [At least 35 people are dead and dozens missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-35-people-are-dead-and-dozens-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md)
-_Context: Bangladesh, monsoon_
+_Context: Bangladesh, Floods in Bangladesh, monsoon_
 
 ### [A shooting occurs at a local train station in Munich, Germany. According to a radio station, police believes it is not a terrorist attack. ](/news/2017/06/13/a-shooting-occurs-at-a-local-train-station-in-munich-germany-according-to-a-radio-station-police-believes-it-is-not-a-terrorist-attack.md)
 At least one person was injured in a shooting at a local train station in Munich on Tuesday, German police tweeted, adding they had secured the area and Bavarian public radio, citing police, said it was probably not a terrorist attack.
@@ -17,8 +17,8 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing no deaths. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-no-deaths-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md)
  ISTANBUL (AP) — An earthquake with a preliminary magnitude of 6.2 shook western Turkey and the Greek island of Lesbos on Monday, injuring at least 10 people and damaging buildings
 
-### [Foreign relations of Panama, Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/foreign-relations-of-panama-panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md)
-_Context: China, Foreign relations of China, Foreign relations of Panama, Panama, Taiwan, diplomatic ties_
+### [Panama severs diplomatic ties with Taiwan and establishes formal relation with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relation-with-china.md)
+_Context: China, Foreign relations of Panama, Panama, Taiwan, diplomatic ties, formal relation_
 
 ### [A Ninth Circuit Appeals Court panel unanimously upholds the Hawaii district court decision to prevent implementation of revised Executive Order 13780. On May 25, the Fourth Circuit Appeals Court affirmed a similar ruling by the Maryland district court. ](/news/2017/06/12/a-ninth-circuit-appeals-court-panel-unanimously-upholds-the-hawaii-district-court-decision-to-prevent-implementation-of-revised-executive-or.md)
 The 9th U.S. Circuit Court of Appeals upheld an earlier decision by a federal judge in Hawaii to block the government from enforcing Trump&#x27;s executive order.
