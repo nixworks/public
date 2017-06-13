@@ -3,8 +3,8 @@
 ### [At least 35 people are dead and dozens missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-35-people-are-dead-and-dozens-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md)
 _Context: Bangladesh, Floods in Bangladesh, monsoon_
 
-### [A shooting occurs at a local train station in Munich, Germany. According to a radio station, police believe it is not a terrorist attack. ](/news/2017/06/13/a-shooting-occurs-at-a-local-train-station-in-munich-germany-according-to-a-radio-station-police-believe-it-is-not-a-terrorist-attack.md)
-At least one person was injured in a shooting at a local train station in Munich on Tuesday, German police tweeted, adding they had secured the area and Bavarian public radio, citing police, said it was probably not a terrorist attack.
+### [Irish Taoiseach Enda Kenny makes his farewell address to Dil ireann, and will submit his resignation to President Michael D. Higgins after six years in office. It is expected that his successor, Leo Varadkar, will be elected by the Dil to succeed him tomorrow. ](/news/2017/06/13/irish-taoiseach-enda-kenny-makes-his-farewell-address-to-dail-eireann-and-will-submit-his-resignation-to-president-michael-d-higgins-after.md)
+Taoiseach Enda Kenny has told the Dáil that he plans to travel to Áras an Uachtaráin to tender his resignation to President Michael D Higgins.
 
 ## [Previous Day...](/news/2017/06/12/index.md)
 
