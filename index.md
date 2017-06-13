@@ -1,10 +1,21 @@
-## [News](/news/2017/06/12/index.md)
+## [News](/news/2017/06/13/index.md)
+
+### [A shooting occurs at a local train station in Munich, Germany. According to a radio station, police believes it is not a terrorist attack. ](/news/2017/06/13/a-shooting-occurs-at-a-local-train-station-in-munich-germany-according-to-a-radio-station-police-believes-it-is-not-a-terrorist-attack.md)
+At least one person was injured in a shooting at a local train station in Munich on Tuesday, German police tweeted, adding they had secured the area and Bavarian public radio, citing police, said it was probably not a terrorist attack.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/06/12/index.md)
 
 ### [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing no deaths. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-no-deaths-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md)
  ISTANBUL (AP) — An earthquake with a preliminary magnitude of 6.2 shook western Turkey and the Greek island of Lesbos on Monday, injuring at least 10 people and damaging buildings
 
-### [Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md)
-_Context: China, Foreign relations of Panama, Panama, Taiwan, diplomatic ties_
+### [Foreign relations of Panama, Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/foreign-relations-of-panama-panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md)
+_Context: China, Foreign relations of China, Foreign relations of Panama, Panama, Taiwan, diplomatic ties_
 
 ### [A Ninth Circuit Appeals Court panel unanimously upholds the Hawaii district court decision to prevent implementation of revised Executive Order 13780. On May 25, the Fourth Circuit Appeals Court affirmed a similar ruling by the Maryland district court. ](/news/2017/06/12/a-ninth-circuit-appeals-court-panel-unanimously-upholds-the-hawaii-district-court-decision-to-prevent-implementation-of-revised-executive-or.md)
 The 9th U.S. Circuit Court of Appeals upheld an earlier decision by a federal judge in Hawaii to block the government from enforcing Trump&#x27;s executive order.
@@ -15,13 +26,9 @@ Police detained Russian opposition leader Alexei Navalny at the entrance of his 
 ### [A coalition led by the Democratic Party of Kosovo wins the most votes in yesterday's election and is in a good position to form a government led by former rebel leader and Prime Minister Ramush Haradinaj. ](/news/2017/06/12/a-coalition-led-by-the-democratic-party-of-kosovo-wins-the-most-votes-in-yesterday-s-election-and-is-in-a-good-position-to-form-a-government.md)
 _Context: Democratic Party of Kosovo, Kosovan parliamentary election, 2017, Prime Minister, Ramush Haradinaj_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/06/11/index.md)
+## [Day Before Yesterday](/news/2017/06/11/index.md)
 
 ### [Philippines president Rodrigo Duterte says he is "not aware" of the United States providing support to the Philippine government's military intervention against Islamists in Marawi. Duterte also said that he "never approached America for help". ](/news/2017/06/11/philippines-president-rodrigo-duterte-says-he-is-not-aware-of-the-united-states-providing-support-to-the-philippine-government-s-military.md)
 Philippine President Rodrigo Duterte said on Sunday he was not aware the U.S. government was providing assistance to government troops in its battle against Islamist militants in a southern city.
@@ -55,35 +62,7 @@ Puerto Ricans head to the polls on Sunday to decide whether they want their stru
 
 ---
 
-## [Day Before Yesterday](/news/2017/06/10/index.md)
-
-### [United States special forces join the battle in Marawi, Philippines, against the Maute. ](/news/2017/06/10/united-states-special-forces-join-the-battle-in-marawi-philippines-against-the-maute.md)
-U.S. special forces are aiding troops from the Philippines in attempting to break a now three-week-old siege of the town of Marawi on Mindanao island, a military spokesman for the Southeast Asian country said.
-
-### [An Afghan soldier kills 3 U.S. troops and injures 1 other in Achin, Nangarhar Province. The Taliban claims responsibility, saying the Afghan soldier was one of several Taliban infiltrators in the Afghan Armed Forces. ](/news/2017/06/10/an-afghan-soldier-kills-3-u-s-troops-and-injures-1-other-in-achin-nangarhar-province-the-taliban-claims-responsibility-saying-the-afghan.md)
-Attack comes shortly after US airstrike killed two Afghan border police, according to Helmand governor, as Trump considers sending more troops
-
-### [Eight people are injured, two seriously, when a car drives into several people in front of the Amsterdam Centraal station in the Netherlands. Police say the driver may have taken ill; they are not treating this as terrorism-related. ](/news/2017/06/10/eight-people-are-injured-two-seriously-when-a-car-drives-into-several-people-in-front-of-the-amsterdam-centraal-station-in-the-netherlands.md)
-Eight people were injured in an incident involving a car in front of Amsterdam&#8217;s main railway station on Saturday night...
-
-### [A 50-year-old man opens fire on passers-by in Kratovo, Russia, killing four people. ](/news/2017/06/10/a-50-year-old-man-opens-fire-on-passers-by-in-kratovo-russia-killing-four-people.md)
-Police have confirmed the deaths of four people after a shooting spree in the village of Kratovo, southeast of Moscow, where a man barricaded himself in his home and opened fire on by-passers. He managed to escape during the police raid. 
-
-### [Quebec police shoot and kill a 19-year-old suspect following a stabbing spree in the village of Akulivik which left three people dead and two others critically injured. ](/news/2017/06/10/quebec-police-shoot-and-kill-a-19-year-old-suspect-following-a-stabbing-spree-in-the-village-of-akulivik-which-left-three-people-dead-and-tw.md)
-A 19-year-old individual was shot and killed by police in the northern Quebec village of Akulivik, after stabbings that killed three people and injured two others, provincial authorities said Saturday.
-
-### [Aftermath of the Prime Minister Theresa May's closest advisers, Fiona Hill and Nick Timothy, resign as her Chiefs of Staff amid criticism over their role in the Conservative Party's election campaign. ](/news/2017/06/10/aftermath-of-the-prime-minister-theresa-may-s-closest-advisers-fiona-hill-and-nick-timothy-resign-as-her-chiefs-of-staff-amid-criticism-ov.md)
-Theresa May’s key aides Nick Timothy and Fiona Hill have resigned, taking the blame for her disastrous election campaign. Mr Timothy said he was taking responsibility for the social care U-turn which torpedoed her manifesto, acknowledging he had “oversight of our policy programme”. “In particular, I regret the decision not to include in the manifesto a ceiling as well as a floor in our proposal to help meet the increasing cost of social care,” he added.
-
-### [Protesters stage rallies, organized by ACT! for America, against sharia law  in major and small cities  across the United States. Counter protesters also assembled at these locations. ](/news/2017/06/10/protesters-stage-rallies-organized-by-act-for-america-against-sharia-law-in-major-and-small-cities-across-the-united-states-counter-pr.md)
-Protesters held rallies across the United States on Saturday to denounce sharia law, the Islamic legal and moral code that organizers say poses a threat to American freedoms, but critics believe anti-Muslim hatred is behind the condemnation.
-
-### [Zimbabwe president Robert Mugabe fires prosecutor Johannes Tomana. ](/news/2017/06/10/zimbabwe-president-robert-mugabe-fires-prosecutor-johannes-tomana.md)
-The official had dropped charges against two soldiers accused of plotting against a Mugabe property.
-
----
-
-## [Previous Day...](/news/2017/06/9/index.md)
+## [Previous Day...](/news/2017/06/10/index.md)
 
 ---
 
