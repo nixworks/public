@@ -3,6 +3,9 @@
 ### [At least 35 people are dead and dozens missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-35-people-are-dead-and-dozens-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md)
 _Context: Bangladesh, Floods in Bangladesh, monsoon_
 
+### [After over a year in North Korean prison, Otto Warmbier was released after negotiations from the United States Department of State. ](/news/2017/06/13/after-over-a-year-in-north-korean-prison-otto-warmbier-was-released-after-negotiations-from-the-united-states-department-of-state.md)
+_Context: North Korean, Otto Warmbier, United States Department of State_
+
 ### [Irish Taoiseach Enda Kenny makes his farewell address to Dil ireann, and will submit his resignation to President Michael D. Higgins after six years in office. It is expected that his successor, Leo Varadkar, will be elected by the Dil to succeed him tomorrow. ](/news/2017/06/13/irish-taoiseach-enda-kenny-makes-his-farewell-address-to-dail-eireann-and-will-submit-his-resignation-to-president-michael-d-higgins-after.md)
 Taoiseach Enda Kenny has told the Dáil that he plans to travel to Áras an Uachtaráin to tender his resignation to President Michael D Higgins.
 
@@ -14,7 +17,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/06/12/index.md)
 
-### [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing no deaths. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-no-deaths-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md)
+### [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-one-death-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md)
  ISTANBUL (AP) — An earthquake with a preliminary magnitude of 6.2 shook western Turkey and the Greek island of Lesbos on Monday, injuring at least 10 people and damaging buildings
 
 ### [Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md)

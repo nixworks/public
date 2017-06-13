@@ -1,7 +1,7 @@
 ## [2017-06-8](/news/2017/06/8/index.md)
 
 ### [North Korea test fires several missiles, believed to be anti-ship weapons. The test comes immediately after South Korea suspends further deployment of the THAAD anti-missile system. ](/news/2017/06/8/north-korea-test-fires-several-missiles-believed-to-be-anti-ship-weapons-the-test-comes-immediately-after-south-korea-suspends-further-dep.md)
-_Context: 2017 North Korean missile tests, North Korea, South Korea, THAAD, anti-missile, anti-ship_
+_Context: 2017 North Korean missile tests, North Korean, South Korea, THAAD, anti-missile, anti-ship_
 
 ### [Al-Shabaab militants storm a military base in Puntland. The subsequent battle with the Somali military leaves at least 70 people dead. Somali officials called the attack the deadliest in the country in years. ](/news/2017/06/8/al-shabaab-militants-storm-a-military-base-in-puntland-the-subsequent-battle-with-the-somali-military-leaves-at-least-70-people-dead-somal.md)
 Gun battle in military base in Somalia&#39;s semi-autonomous Puntland region kills at least 70 soldiers.

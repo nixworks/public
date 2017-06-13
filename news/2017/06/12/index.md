@@ -1,6 +1,6 @@
 ## [2017-06-12](/news/2017/06/12/index.md)
 
-### [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing no deaths. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-no-deaths-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md)
+### [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-one-death-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md)
  ISTANBUL (AP) — An earthquake with a preliminary magnitude of 6.2 shook western Turkey and the Greek island of Lesbos on Monday, injuring at least 10 people and damaging buildings
 
 ### [Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md)
