@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-asia-35379583)
+1. [BBC](http://www.bbc.com/news/world-asia-pacific-40264468)
 
 ### Related:
 

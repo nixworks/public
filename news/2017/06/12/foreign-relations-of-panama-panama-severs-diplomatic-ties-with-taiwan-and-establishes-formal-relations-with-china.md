@@ -1,6 +1,6 @@
 ### [2017-06-12](/news/2017/06/12/index.md)
 
-# Foreign relations of Panama, Panama severs diplomatic ties with Taiwan and establishes formal relations with China. 
+# Foreign relations of Panama / Panama severs diplomatic ties with Taiwan and establishes formal relations with China. 
 
 
 
