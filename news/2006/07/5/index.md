@@ -16,7 +16,7 @@ _Context: Enron, Kenneth Lay, heart attack_
 _Context: North Korea, United States_
 
 ### [ Casinos in the U.S. state of New Jersey have shut down for the first time in their history. The closure started at 8 AM Local Time, 1200 GMT, since the state's budget has not been decided, necessitating the shutdown of nonessential state offices, including casino regulators.](/news/2006/07/5/casinos-in-the-u-s-state-of-new-jersey-have-shut-down-for-the-first-time-in-their-history-the-closure-started-at-8-am-local-time-1200-gm.md)
-_Context: EDT, GMT, New Jersey, casino, state_
+_Context: EDT, GMT, New Jersey, U.S. state, casino_
 
 ### [ North Korea launches a 7th missile, despite earlier condemnation of its earlier tests. One of the missiles landed "near Russian territory." The U.N. Security Council has scheduled an emergency meeting for Wednesday, and Japan warns of economic sanctions against the country. ](/news/2006/07/5/north-korea-launches-a-7th-missile-despite-earlier-condemnation-of-its-earlier-tests-one-of-the-missiles-landed-near-russian-territory.md)
 Japan drafted a U.N. Security Council resolution condemning North Korea Wednesday after Pyongyang test-fired a long-range missile earlier in the day.

@@ -10,7 +10,7 @@ _Context: Internet Explorer, Windows Server 2003, Windows XP_
 Congress on Thursday took a major step toward allowing oil and gas drilling in coastal waters that have been off limits for a quarter-century, but a battle looms in the Senate.
 
 ### [ Former Governor of the U.S. state of Alabama Don Siegelman is  convicted of bribery and conspiracy. ](/news/2006/06/29/former-governor-of-the-u-s-state-of-alabama-don-siegelman-is-convicted-of-bribery-and-conspiracy.md)
-_Context: Alabama, Don Siegelman, Governor of Alabama, state_
+_Context: Alabama, Don Siegelman, Governor of Alabama, U.S. state_
 
 ### [ The Dow Jones Industrial Average closes up over 215 points as a result of the United States Federal Reserve saying that it would consider the overall economy, and direction of inflation, in setting the interest rate. The Federal Reserve raised interest rates for the 17th consecutive time to 5.25% due to ongoing concerns about inflation. ](/news/2006/06/29/the-dow-jones-industrial-average-closes-up-over-215-points-as-a-result-of-the-united-states-federal-reserve-saying-that-it-would-consider-t.md)
 View the basic ^DJI stock chart on Yahoo Finance. Change the date range, chart type and compare Dow Jones Industrial Average against other companies.

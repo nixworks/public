@@ -55,7 +55,7 @@ _Context: Hillary Clinton, Liberia, Libya, United States Secretary of State_
 _Context: Australian Broadcasting Corporation, Papua New Guinea, Prime Minister, Sam Abal_
 
 ### [The General Assembly of the U.S. state of North Carolina votes on a motion to veto override by the Governor Bev Perdue of the state budget. ](/news/2011/06/15/the-general-assembly-of-the-u-s-state-of-north-carolina-votes-on-a-motion-to-veto-override-by-the-governor-bev-perdue-of-the-state-budget.md)
-_Context: Bev Perdue, Governor, North Carolina, state, state's legislature, veto override_
+_Context: Bev Perdue, Governor, North Carolina, U.S. state, state's legislature, veto override_
 
 ### [Members of the United Kingdom's Public and Commercial Services Union agree to join teachers and lecturers in strike action planned for 30 June. ](/news/2011/06/15/members-of-the-united-kingdom-s-public-and-commercial-services-union-agree-to-join-teachers-and-lecturers-in-strike-action-planned-for-30-ju.md)
 Up to 750,000 public sector workers will strike on 30 June after members of the PCS union agreed to join teachers and lecturers on the picket line.

@@ -25,7 +25,7 @@ _Context: Apollo Theatre, London_
 _Context: India_
 
 ### [Same-sex marriage is legalized in the U.S. state of New Mexico. ](/news/2013/12/19/same-sex-marriage-is-legalized-in-the-u-s-state-of-new-mexico.md)
-_Context: New Mexico, same-sex marriage, state_
+_Context: New Mexico, U.S. state, same-sex marriage_
 
 ### [Russian President Vladimir Putin says he will pardon jailed oil tycoon Mikhail Khodorkovsky after more than a decade in prison. ](/news/2013/12/19/russian-president-vladimir-putin-says-he-will-pardon-jailed-oil-tycoon-mikhail-khodorkovsky-after-more-than-a-decade-in-prison.md)
 Khodorkovsky, founder of the Yukos oil corporation, was arrested in 2003 on charges of fraud and tax evasion.

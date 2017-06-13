@@ -25,7 +25,7 @@ British gay Muslim couples are cementing their relationship with Islamic marriag
 Ten children are killed by a fire at a home for disabled children in the western Estonian town of Haapsalu.
 
 ### [A heavy snowfall in the U.S. state of Minnesota results in the cancellation of hundreds of flights from Minneapolis-Saint Paul International Airport. ](/news/2011/02/20/a-heavy-snowfall-in-the-u-s-state-of-minnesota-results-in-the-cancellation-of-hundreds-of-flights-from-minneapolis-saint-paul-international.md)
-_Context: Minneapolis-Saint Paul International Airport, Minnesota, state_
+_Context: Minneapolis-Saint Paul International Airport, Minnesota, U.S. state_
 
 ### [''The Guardian'' reports that Raymond Davis, charged with murder in Pakistan after shooting dead two men in Lahore, worked for the U.S. Central Intelligence Agency (CIA). ](/news/2011/02/20/the-guardian-reports-that-raymond-davis-charged-with-murder-in-pakistan-after-shooting-dead-two-men-in-lahore-worked-for-the-u-s-cent.md)
 An American official held in Pakistan after shooting dead two men is a CIA agent who was on assignment at the time of the incident, according to reports.
@@ -58,7 +58,7 @@ Yoweri Museveni re-elected president for fourth term, but opposition rejects pol
 _Context: Trident_
 
 ### [Thousands of protesters continue to demonstrate in the U.S. state of Wisconsin over reform of unions and taxes. ](/news/2011/02/20/thousands-of-protesters-continue-to-demonstrate-in-the-u-s-state-of-wisconsin-over-reform-of-unions-and-taxes.md)
-_Context: 2011 Wisconsin budget protests, Wisconsin, state_
+_Context: 2011 Wisconsin budget protests, U.S. state, Wisconsin_
 
 ## [Previous Day...](/news/2011/02/19/index.md)
 

@@ -4,7 +4,7 @@
 _Context: Fono, O le Ao o le Malo, Samoa, Tupua Tamasese Tupuola Tufuga Efi_
 
 ### [ Mike Nifong is disbarred in the U.S. state of North Carolina for his role in the prosecution of the 2006 Duke University lacrosse case. ](/news/2007/06/16/mike-nifong-is-disbarred-in-the-u-s-state-of-north-carolina-for-his-role-in-the-prosecution-of-the-2006-duke-university-lacrosse-case.md)
-_Context: 2006 Duke University lacrosse case, Mike Nifong, North Carolina, disbarred, state_
+_Context: 2006 Duke University lacrosse case, Mike Nifong, North Carolina, U.S. state, disbarred_
 
 ### [ Police in Zimbabwe confiscate opposition leader Arthur Mutambara's passport as he tries to leave for South Africa and the United Kingdom. ](/news/2007/06/16/police-in-zimbabwe-confiscate-opposition-leader-arthur-mutambara-s-passport-as-he-tries-to-leave-for-south-africa-and-the-united-kingdom.md)
 _Context: Arthur Mutambara, South Africa, United Kingdom, Zimbabwe, passport_

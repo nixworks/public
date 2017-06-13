@@ -25,7 +25,7 @@ _Context: Egypt, Gaza Strip, Hamas, Palestinian_
 _Context: Baghdad, Conflict in Iraq, Kadhimiya, Shia, car bomb_
 
 ### [ Frances Newton is executed by lethal injection by the U.S. state of Texas for the murder of her ex-husband and two children. She is the first African American woman executed in Texas since 1858. ](/news/2005/09/14/frances-newton-is-executed-by-lethal-injection-by-the-u-s-state-of-texas-for-the-murder-of-her-ex-husband-and-two-children-she-is-the-fir.md)
-_Context: African-American, Frances Newton, Texas, lethal injection, state_
+_Context: African-American, Frances Newton, Texas, U.S. state, lethal injection_
 
 ### [ Robert Wise, film director, dies at the age of 91, at the UCLA Medical Center in Los Angeles.](/news/2005/09/14/robert-wise-film-director-dies-at-the-age-of-91-at-the-ucla-medical-center-in-los-angeles.md)
 _Context: Los Angeles, Robert Wise, UCLA_

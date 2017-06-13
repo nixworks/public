@@ -4,7 +4,7 @@
 It had been almost seven months since Lisa Nowak and Colleen Shipman came face to face in a dark parking lot at Orlando International Airport.Friday they met again, this time before a television...
 
 ### [ Former Ku Klux Klan member James Seale is sentenced to life imprisonment for his role in the 1964 murder of two black men in the U.S. state of Mississippi. ](/news/2007/08/24/former-ku-klux-klan-member-james-seale-is-sentenced-to-life-imprisonment-for-his-role-in-the-1964-murder-of-two-black-men-in-the-u-s-state.md)
-_Context: James Seale, Ku Klux Klan, Mississippi, life imprisonment, state_
+_Context: James Seale, Ku Klux Klan, Mississippi, U.S. state, life imprisonment_
 
 ### [ The Georgian government announces that its forces have fired on a Russian aircraft that was claimed to have violated Georgian airspace, possibly shooting it down. ](/news/2007/08/24/the-georgian-government-announces-that-its-forces-have-fired-on-a-russian-aircraft-that-was-claimed-to-have-violated-georgian-airspace-pos.md)
 _Context: Georgia, Russia_
@@ -28,7 +28,7 @@ A Florida judge this afternoon sentenced sex offender John Evander Couey to die 
 _Context: Ilyushin Il-114, Russia, Venezuela_
 
 ### [ Flood warnings are in place in 10 US states from Ohio to Texas with at least 25 people believed to have died in the past week. ](/news/2007/08/24/flood-warnings-are-in-place-in-10-us-states-from-ohio-to-texas-with-at-least-25-people-believed-to-have-died-in-the-past-week.md)
-_Context: Ohio, Texas, United States, flood, state_
+_Context: Ohio, Texas, U.S. state, United States, flood_
 
 ### [ Mexican oil platforms resume production following the end of the threat from Hurricane Dean. ](/news/2007/08/24/mexican-oil-platforms-resume-production-following-the-end-of-the-threat-from-hurricane-dean.md)
 _Context: Hurricane Dean, Mexican, offshore oil platform_

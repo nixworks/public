@@ -34,7 +34,7 @@ _Context: Haiti's presidential election, worst epidemic of cholera_
 _Context: New Zealand, are confirmed dead_
 
 ### [Russia hosts the International Tiger Forum summit meeting of international wildlife experts and officials from 13 countries in St.Petersburg, to discuss the protection of tigers which could become extinct in 12 years if unprotected. ](/news/2010/11/21/russia-hosts-the-international-tiger-forum-summit-meeting-of-international-wildlife-experts-and-officials-from-13-countries-in-st-petersburg.md)
-_Context: International Tiger Forum, St Petersburg, extinction, tiger_
+_Context: International Tiger Forum, St. Petersburg, extinction, tiger_
 
 ### [Aasia Bibi, a Christian woman sentenced to death in Pakistan on charges of blasphemy against Islam, appeals to President Asif Ali Zardari to pardon her. ](/news/2010/11/21/aasia-bibi-a-christian-woman-sentenced-to-death-in-pakistan-on-charges-of-blasphemy-against-islam-appeals-to-president-asif-ali-zardari-to.md)
 A Christian woman sentenced to death in Pakistan on charges of blasphemy has appealed to President Asif Ali Zardari to pardon her, saying that she had been...

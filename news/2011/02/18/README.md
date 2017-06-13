@@ -82,7 +82,7 @@ _Context: Obama Administration, abortion, health care, regulation_
 _Context: Government of the United States, Planned Parenthood, United States House of Representatives_
 
 ### [The U.S. state of Wisconsin has demonstrations in the tens of thousands against a bill forcing public service workers to pay increased pension costs, increased healthcare coverage as well as stripping them of almost all union rights. Senators yesterday fled the state to Illinois. ](/news/2011/02/18/the-u-s-state-of-wisconsin-has-demonstrations-in-the-tens-of-thousands-against-a-bill-forcing-public-service-workers-to-pay-increased-pensi.md)
-_Context: Illinois, Senate, Wisconsin, state_
+_Context: Illinois, Senate, U.S. state, Wisconsin_
 
 ### [NASA clears the Space Shuttle Discovery for its final flight on Thursday. ](/news/2011/02/18/nasa-clears-the-space-shuttle-discovery-for-its-final-flight-on-thursday.md)
 Top NASA officials met today and unanimously agreed to proceed with the planned launch of the space shuttle Discovery on Feb. 24 – the orbiter&#039;s final mission to the International Space Station before its impending retirement. 

@@ -64,7 +64,7 @@ _Context: boycott law, parliament in Israel_
 Police in Guatemala arrest two men in connection with the killing of Argentine singer Facundo Cabral on Saturday.
 
 ### [A three judge panel of the U.S. 9th Circuit Court of Appeals rules that Jared Lee Loughner, the suspect in the 2011 Tucson shooting, has the right to refuse antipsychotic medication while he appeals the treatment prescribed by prison mental health authorities. ](/news/2011/07/12/a-three-judge-panel-of-the-u-s-9th-circuit-court-of-appeals-rules-that-jared-lee-loughner-the-suspect-in-the-2011-tucson-shooting-has-the.md)
-_Context: 2011 Tucson shooting, Appeals Court of  the Ninth Circuit, Jared Lee Loughner, antipsychotic_
+_Context: 2011 Tucson shooting, Jared Lee Loughner, Ninth Circuit Appeals Court panel, antipsychotic_
 
 ### [U.S. actress Halle Berry is granted a restraining order against a convicted felon arrested on her Hollywood Hills property on Monday. ](/news/2011/07/12/u-s-actress-halle-berry-is-granted-a-restraining-order-against-a-convicted-felon-arrested-on-her-hollywood-hills-property-on-monday.md)
 _Context: Halle Berry, Hollywood Hills, felons_
@@ -88,7 +88,7 @@ _Context: Belfast marching season, Northern Ireland_
 _Context: R, Ron Paul, Texas, district_
 
 ### [The Governor of the U.S. state of Arizona calls a recall election for state Senate President Russell Pearce known for his immigration legislation. ](/news/2011/07/12/the-governor-of-the-u-s-state-of-arizona-calls-a-recall-election-for-state-senate-president-russell-pearce-known-for-his-immigration-legisl.md)
-_Context: Arizona, Governor, Russell Pearce, recall referendum, state, state Senate President_
+_Context: Arizona, Governor, Russell Pearce, U.S. state, recall referendum, state Senate President_
 
 ### [NASA astronauts on board ''Atlantis'' complete the final spacewalk of the Space Shuttle era, recouping an ammonia pump on the International Space Station (ISS). ](/news/2011/07/12/nasa-astronauts-on-board-atlantis-complete-the-final-spacewalk-of-the-space-shuttle-era-recouping-an-ammonia-pump-on-the-international.md)
 The last spacewalk of the shuttle era is completed, as astronauts remove a faulty pump on the International Space Station.

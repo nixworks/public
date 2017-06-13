@@ -10,7 +10,7 @@ _Context: ''Costa Concordia'' disaster, Costa Concordia, Italy, cruise ship_
 Private clinics that charge for pregnancy services including abortions will be able to advertise on television and radio under new rules.
 
 ### [A Republican Party primary election takes place in the U.S. state of South Carolina, with Newt Gingrich being declared the winner and Mitt Romney coming second. ](/news/2012/01/21/a-republican-party-primary-election-takes-place-in-the-u-s-state-of-south-carolina-with-newt-gingrich-being-declared-the-winner-and-mitt-r.md)
-_Context: A Republican Party primary election, Mitt Romney, Newt Gingrich, South Carolina, state_
+_Context: A Republican Party primary election, Mitt Romney, Newt Gingrich, South Carolina, U.S. state_
 
 ### [Hkan Juholt resigns as the head of the Swedish Social Democratic Party, after less than a year in the post. ](/news/2012/01/21/hakan-juholt-resigns-as-the-head-of-the-swedish-social-democratic-party-after-less-than-a-year-in-the-post.md)
 _Context: Hkan Juholt, Swedish Social Democratic Party_

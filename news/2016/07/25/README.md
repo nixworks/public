@@ -7,7 +7,7 @@ Hospital sources say death toll likely to rise after bomb goes off with cars wai
 _Context: Conflict in Najran, Houthi, Interior Ministry, Saudi Arabia, Yemen, border guards_
 
 ### [Verizon Communications buys Yahoo! for $4.83 billion in cash, ending the latter's over 20-year run as an independent corporation. ](/news/2016/07/25/verizon-communications-buys-yahoo-for-4-83-billion-in-cash-ending-the-latter-s-over-20-year-run-as-an-independent-corporation.md)
-_Context: Verizon Communications, Yahoo_
+_Context: Verizon Communications, Yahoo!_
 
 ### [At least 39 people are killed, including 16 children, in a fire at a residential compound in Mangidy, Madagascar. ](/news/2016/07/25/at-least-39-people-are-killed-including-16-children-in-a-fire-at-a-residential-compound-in-mangidy-madagascar.md)
 Thirty nine people, including 16 children, died in Madagascar on Saturday in a fire in a residential compound in a village 500 km (310 miles) south of the capital Antananarivo, a security official said on Monday.

@@ -22,7 +22,7 @@ _Context: Israel, Israeli-Palestinian conflict, Nablus, Palestinian, West Bank_
 Although there were no reports of casualties, many houses in Uri, Fafiabad and Baramulla were damaged.
 
 ### [ Stanley Williams is executed at San Quentin State Prison by the U.S. state of California. ](/news/2005/12/13/stanley-williams-is-executed-at-san-quentin-state-prison-by-the-u-s-state-of-california.md)
-_Context: California, San Quentin State Prison, Stanley Williams, death penalty, state_
+_Context: California, San Quentin State Prison, Stanley Williams, U.S. state, death penalty_
 
 ### [ In response to Canadian Prime Minister criticizing the United States on its resistance to climate change initiatives, the U.S. Ambassador to Canada, David Wilkins, openly responds to the statements that he complains were used for political advantage during an election.](/news/2005/12/13/in-response-to-canadian-prime-minister-criticizing-the-united-states-on-its-resistance-to-climate-change-initiatives-the-u-s-ambassador-t.md)
 _Context: Canada, Canadian Prime Minister, David Wilkins, United States, ambassador, climate change_

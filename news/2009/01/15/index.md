@@ -34,7 +34,7 @@ _Context: 2008 Mumbai attacks, Pakistan, terrorism_
 _Context: Japan, late 2000s recession, machine orders_
 
 ### [ Hawaii becomes the first U.S. state and the second media market after Wilmington, North Carolina, to convert to digital television. ](/news/2009/01/15/hawaii-becomes-the-first-u-s-state-and-the-second-media-market-after-wilmington-north-carolina-to-convert-to-digital-television.md)
-_Context: Hawaii, North Carolina, Wilmington, digital television, media market, state, switch from analog_
+_Context: Hawaii, North Carolina, U.S. state, Wilmington, digital television, media market, switch from analog_
 
 ### [ Despite the corruption scandal surrounding Illinois Governor Rod Blagojevich, the United States Senate confirms Roland Burris as a member. ](/news/2009/01/15/despite-the-corruption-scandal-surrounding-illinois-governor-rod-blagojevich-the-united-states-senate-confirms-roland-burris-as-a-member.md)
 _Context: Governor of Illinois, Illinois, Rod Blagojevich, Roland Burris, United States Senate, corruption_

@@ -19,7 +19,7 @@ _Context: 2011 Egyptian revolution, Hosni Mubarak, Omar Suleiman_
 US soldier Bradley Manning, who is accused of leaking government documents published by Wikileaks, is to be moved to a prison in Kansas.
 
 ### [Three kindergarteners are wounded after a gun goes off in a school cafeteria in the U.S. state of Texas. The gun was brought to the school by a six-year-old child. ](/news/2011/04/19/three-kindergarteners-are-wounded-after-a-gun-goes-off-in-a-school-cafeteria-in-the-u-s-state-of-texas-the-gun-was-brought-to-the-school-b.md)
-_Context: Texas, kindergarten, state_
+_Context: Texas, U.S. state, kindergarten_
 
 ### [Seagate Technology, a California based manufacturer of hard disk drives (HDDs), buys the HDD division of Samsung, to create an entity with a combined HDD market share of 40 percent. [http://www.reuters.com/article/2011/04/19/us-samsung-seagate-idUSTRE73I1CG20110419 (Reuters)].](/news/2011/04/19/seagate-technology-a-california-based-manufacturer-of-hard-disk-drives-hdds-buys-the-hdd-division-of-samsung-to-create-an-entity-with-a.md)
 _Context: California, Samsung, Seagate Technology, hard disk drive_

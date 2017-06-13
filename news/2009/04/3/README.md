@@ -13,7 +13,7 @@ _Context: France, French police, NATO, Strasbourg, protest, summit_
 _Context: Army, Cambodia, Preah Vihear Temple, Royal Thai Army, Thailand, exchange gunfire, soldier_
 
 ### [ The U.S. state of Iowa's Supreme Court legalizes same-sex marriage. ](/news/2009/04/3/the-u-s-state-of-iowa-s-supreme-court-legalizes-same-sex-marriage.md)
-_Context: Iowa, Iowa Supreme Court, legalizes, same-sex marriage, state_
+_Context: Iowa, Iowa Supreme Court, U.S. state, legalizes, same-sex marriage_
 
 ### [ Approximately 40 people riot in Clondalkin, near West Dublin, Ireland. ](/news/2009/04/3/approximately-40-people-riot-in-clondalkin-near-west-dublin-ireland.md)
 _Context: Clondalkin, Dublin, Ireland, riot_

@@ -19,7 +19,7 @@ Libyan security forces regain control of the main airport in Tripoli, after a mi
 The Duke of Edinburgh misses the Diamond Jubilee concert after being taken to hospital with a bladder infection.
 
 ### [Russian baritone singer Eduard Khil, made famous overseas by the "Trololo" internet meme, dies from complications of a stroke in St. Petersburg. ](/news/2012/06/4/russian-baritone-singer-eduard-khil-made-famous-overseas-by-the-trololo-internet-meme-dies-from-complications-of-a-stroke-in-st-petersb.md)
-_Context: Eduard Khil, St Petersburg, Trololo, internet meme_
+_Context: Eduard Khil, St. Petersburg, Trololo, internet meme_
 
 ### [Japan's S&P/TOPIX 150 reaches its lowest level since 1983 as global stock markets continue to fall. ](/news/2012/06/4/japan-s-s-p-topix-150-reaches-its-lowest-level-since-1983-as-global-stock-markets-continue-to-fall.md)
 _Context: Japan, S&P/TOPIX 150_

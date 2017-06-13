@@ -43,7 +43,7 @@ _Context: Italian Prime Minister, Silvio Berlusconi, prostitute_
 Controversial US pastor Terry Jones, who last year threatened a Koran-burning protest, has been banned from entering the UK, the Home Office says.
 
 ### [Prosecutors in the U.S. state of Pennsylvania charge a Philadelphia illegal abortionist with eight counts of murder for killing a patient and seven live born babies. ](/news/2011/01/19/prosecutors-in-the-u-s-state-of-pennsylvania-charge-a-philadelphia-illegal-abortionist-with-eight-counts-of-murder-for-killing-a-patient-an.md)
-_Context: Pennsylvania, Philadelphia, abortion, state_
+_Context: Pennsylvania, Philadelphia, U.S. state, abortion_
 
 ### [A United States Federal grand jury indicts Jared Lee Loughner for attempted murder of Arizona Congresswoman Gabrielle Giffords and two of her aides with further charges pending. ](/news/2011/01/19/a-united-states-federal-grand-jury-indicts-jared-lee-loughner-for-attempted-murder-of-arizona-congresswoman-gabrielle-giffords-and-two-of-he.md)
 A federal grand jury in Arizona indicted Jared Lee Loughner on Wednesday on charges of attempting to assassinate Democratic Representative Gabrielle Giffords and the attempted murder of two of her staff members.

@@ -19,7 +19,7 @@ _Context: A doctor, Hurricane Katrina, Memorial Medical Center, New Orleans, Uni
 _Context: United States House of Representatives, constitutional amendment to ban, same-sex marriage_
 
 ### [ Tropical Storm Beryl forms off the coast of the U.S. state of North Carolina, 180 miles southeast of Cape Hatteras. It is the second tropical storm to form in the North Atlantic in the 2006 hurricane season. ](/news/2006/07/18/tropical-storm-beryl-forms-off-the-coast-of-the-u-s-state-of-north-carolina-180-miles-southeast-of-cape-hatteras-it-is-the-second-tropic.md)
-_Context: Cape Hatteras, North Carolina, Tropical Storm Beryl, hurricane, state_
+_Context: Cape Hatteras, North Carolina, Tropical Storm Beryl, U.S. state, hurricane_
 
 ### [ The Princess Cruises ship ''Crown Princess'' lists heavily, injuring several passengers. It immediately returns to Port Canaveral. ](/news/2006/07/18/the-princess-cruises-ship-crown-princess-lists-heavily-injuring-several-passengers-it-immediately-returns-to-port-canaveral.md)
 The Crown Princess, owned by Princess Cruises, listed heavily due to a steering problem while on its way to New York on Tuesday, injuring some passengers, Coast Guard officials said.

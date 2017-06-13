@@ -25,7 +25,7 @@ _Context: Ban Ki-moon, Kofi Annan, United Nations, United Nations Secretary-Gene
 _Context: East River, Federal Aviation Administration, New York City, United States, air traffic control, airplane_
 
 ### [ Wal-Mart is ordered to pay $78 million in compensation to current and former employees for breaking labor laws in the U.S. state of Pennsylvania by forcing its employees to work through rest breaks and off clock. ](/news/2006/10/13/wal-mart-is-ordered-to-pay-78-million-in-compensation-to-current-and-former-employees-for-breaking-labor-laws-in-the-u-s-state-of-pennsyl.md)
-_Context: Pennsylvania, Wal-Mart, state_
+_Context: Pennsylvania, U.S. state, Wal-Mart_
 
 ### [ The US government has rebuffed UK calls to close its controversial detention centre at Guantnamo Bay in Cuba. ](/news/2006/10/13/the-us-government-has-rebuffed-uk-calls-to-close-its-controversial-detention-centre-at-guantanamo-bay-in-cuba.md)
 _Context: Cuba, Guantnamo Bay detainment camp, UK, US$_

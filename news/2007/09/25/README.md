@@ -32,7 +32,7 @@ _Context: Imam Samudra, Indonesia, Mukhlas, October 2002 Bali bombings, Supreme 
 _Context: General Motors, United Auto Workers, strike_
 
 ### [ Warren Jeffs, leader of the Fundamentalist Church of Jesus Christ of Latter Day Saints, is found guilty of two counts of rape in the U.S. state of Utah.  ](/news/2007/09/25/warren-jeffs-leader-of-the-fundamentalist-church-of-jesus-christ-of-latter-day-saints-is-found-guilty-of-two-counts-of-rape-in-the-u-s-s.md)
-_Context: FLDS Church, Utah, Warren Jeffs, state_
+_Context: FLDS Church, U.S. state, Utah, Warren Jeffs_
 
 ### [ In his speech to the United Nations General Assembly, Iranian President Mahmoud Ahmadinejad reiterates his assertion that his county's nuclear program has been "peaceful and transparent" and criticizes the "illegal" UN sanctions imposed by "arrogant" members of the Security Council. ](/news/2007/09/25/in-his-speech-to-the-united-nations-general-assembly-iranian-president-mahmoud-ahmadinejad-reiterates-his-assertion-that-his-county-s-nucl.md)
 _Context: Mahmoud Ahmadinejad, President, United Nations General Assembly, United Nations Security Council, nuclear scientist_

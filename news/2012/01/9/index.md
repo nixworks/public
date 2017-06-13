@@ -10,7 +10,7 @@ _Context: Hugo Chvez, Latin America, Mahmoud Ahmadinejad, President, Venezuelan 
 The president of the West African country of Guinea-Bissau, Malam Bacai Sanha, dies in a French hospital at the age of 64.
 
 ### [In the United Kingdom a disagreement emerges between the Westminster and Scottish governments over a referendum on Scottish independence, after Prime Minister David Cameron tells a Sky News interview that a quick decision is needed on the matter for the sake of the economy. ](/news/2012/01/9/in-the-united-kingdom-a-disagreement-emerges-between-the-westminster-and-scottish-governments-over-a-referendum-on-scottish-independence-af.md)
-_Context: British, David Cameron, Prime Minister, Scottish Government, Sky News, referendum on Scottish independence_
+_Context: 10 Downing Street, David Cameron, Prime Minister, Scottish Government, Sky News, referendum on Scottish independence_
 
 ## [Previous Day...](/news/2012/01/8/index.md)
 

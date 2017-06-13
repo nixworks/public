@@ -106,7 +106,7 @@ _Context: Israel, Wikipedia_
 _Context: Brazil, Brazilian presidential election, general_
 
 ### [David Paterson, Governor of the U.S. state of New York, is to discuss relocating the controversial Park51 Islamic community centre and mosque near World Trade Center site in New York City. ](/news/2010/08/18/david-paterson-governor-of-the-u-s-state-of-new-york-is-to-discuss-relocating-the-controversial-park51-islamic-community-centre-and-mosqu.md)
-_Context: "Ground zero" mosque and cultural centre, David Paterson, Ground Zero, Islam, New York, New York City, New York Governor, mosque, state_
+_Context: "Ground zero" mosque and cultural centre, David Paterson, Ground Zero, Islam, New York, New York City, New York Governor, U.S. state, mosque_
 
 ### [Elections in Haiti:Haiti's final decision on its presidential election candidates is delayed until Friday due to eligibility issues; it had initially been expected yesterday. ](/news/2010/08/18/elections-in-haiti-phaiti-s-final-decision-on-its-presidential-election-candidates-is-delayed-until-friday-due-to-eligibility-issues-it-had.md)
 Electoral commission to rule of presidential bid by Wyclef Jean and others on Friday.

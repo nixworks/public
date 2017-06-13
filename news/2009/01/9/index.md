@@ -13,7 +13,7 @@ _Context: Microsoft, Windows 7, beta version, operating system_
 _Context: India, Indian Oil Corporation, PSUs, petroleum product, strike_
 
 ### [ The House of Representatives of the U.S. state of Illinois votes 114-1 to impeach embattled Governor Rod Blagojevich. ](/news/2009/01/9/the-house-of-representatives-of-the-u-s-state-of-illinois-votes-114a1-to-impeach-embattled-governor-rod-blagojevich.md)
-_Context: Governor of Illinois, House of Representatives, Illinois, Rod Blagojevich, corruption, impeach, state_
+_Context: Governor of Illinois, House of Representatives, Illinois, Rod Blagojevich, U.S. state, corruption, impeach_
 
 ### [ A 6.1-magnitude earthquake in northern Costa Rica kills 15 people and injures 32. ](/news/2009/01/9/a-6-1-magnitude-earthquake-in-northern-costa-rica-kills-15-people-and-injures-32.md)
 _Context: Costa Rica, earthquake, magnitude_

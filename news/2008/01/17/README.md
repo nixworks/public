@@ -16,7 +16,7 @@ _Context: Afghan, Pakistan, Taliban, War in Pakistan (2004-present)_
 _Context: Civil unrest in Kenya (2007-2008), Kenya_
 
 ### [ The Russian government closes British Council offices in St Petersburg and Ekaterinburg. ](/news/2008/01/17/the-russian-government-closes-british-council-offices-in-st-petersburg-and-ekaterinburg.md)
-_Context: British Council, Ekaterinburg, St Petersburg_
+_Context: British Council, Ekaterinburg, St. Petersburg_
 
 ## [Previous Day...](/news/2008/01/16/index.md)
 

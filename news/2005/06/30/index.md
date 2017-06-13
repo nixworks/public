@@ -4,7 +4,7 @@
 _Context: Anne-Marie Lizin, Gholam-Ali Haddad-Adel, Herman De Croo, Iran, Majlis of Iran, alcoholic beverage_
 
 ### [ In Russia, a court in St. Petersburg sentences two men for the 1998 murder of liberal MP Galina Starovoitova. Organizer Yuri Kolchin received 20 years in prison, Vitaly Akishin receives 23.](/news/2005/06/30/in-russia-a-court-in-st-petersburg-sentences-two-men-for-the-1998-murder-of-liberal-mp-galina-starovoitova-organizer-yuri-kolchin-receiv.md)
-_Context: Galina Starovoitova, St Petersburg_
+_Context: Galina Starovoitova, St. Petersburg_
 
 ### [ Indian police in Delhi have arrested tiger poacher Sansar Chand](/news/2005/06/30/indian-police-in-delhi-have-arrested-tiger-poacher-sansar-chand.md)
 _Context: Delhi, Sansar Chand, poachers, tiger_

@@ -4,7 +4,7 @@
 _Context: Enron, George W. Bush, Jesus Christ, Kenneth Lay, Trial of Kenneth Lay and Jeffrey Skilling, U.S. President, United States_
 
 ### [ The long-range missile launched during North Korea's Missile Test was aimed at a point in the ocean close to the U.S. state of Hawaii. ](/news/2006/07/6/the-long-range-missile-launched-during-north-korea-s-missile-test-was-aimed-at-a-point-in-the-ocean-close-to-the-u-s-state-of-hawaii.md)
-_Context: Hawaii, North Korea, United States, launch, state_
+_Context: Hawaii, North Korea, U.S. state, United States, launch_
 
 ### [ The Space Shuttle ''Discovery'' successfully docks with the International Space Station as part of the STS-121 mission.  Checks of the orbiter have revealed no damage from foam falling off the external fuel tank during launch. ](/news/2006/07/6/the-space-shuttle-discovery-successfully-docks-with-the-international-space-station-as-part-of-the-sts-121-mission-checks-of-the-orbi.md)
 _Context: 13-day mission, Discovery, International Space Station, Space Shuttle, docks_

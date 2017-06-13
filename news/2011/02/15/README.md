@@ -16,7 +16,7 @@ _Context: Communist Party, Norway, Oslo, Philippine government_
 _Context: Battle of Iwo Jima, Imperial Japanese Army, Naoto Kan, Prime Minister, World War II_
 
 ### [Writer Raymond Chandler's wife's ashes are buried over his casket during a ceremony in San Diego in the U.S. state of California. ](/news/2011/02/15/writer-raymond-chandler-s-wife-s-ashes-are-buried-over-his-casket-during-a-ceremony-in-san-diego-in-the-u-s-state-of-california.md)
-_Context: California, Raymond Chandler, San Diego, state_
+_Context: California, Raymond Chandler, San Diego, U.S. state_
 
 ### [The People's Republic of China orders makers of films and television programs to limit the amount of smoking shown on-screen. ](/news/2011/02/15/the-people-s-republic-of-china-orders-makers-of-films-and-television-programs-to-limit-the-amount-of-smoking-shown-on-screen.md)
 _Context: People's Republic of China, smoking_

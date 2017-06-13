@@ -31,7 +31,7 @@ _Context: 2013, Madagascar, Marc Ravalomanana, President, in absentia, incarcera
 _Context: Home, Marilynne Robinson, Orange Prize for Fiction, United States, author, novel_
 
 ### [ The U.S. state of New Hampshire legalizes same-sex marriage. ](/news/2009/06/3/the-u-s-state-of-new-hampshire-legalizes-same-sex-marriage.md)
-_Context: New Hampshire, legalizes, same-sex marriage, state_
+_Context: New Hampshire, U.S. state, legalizes, same-sex marriage_
 
 ### [ The al-Qaeda Organization in the Islamic Maghreb executes British hostage Edwin Dwyer in the Sahara. ](/news/2009/06/3/the-al-qaeda-organization-in-the-islamic-maghreb-executes-british-hostage-edwin-dwyer-in-the-sahara.md)
 _Context: Al Qaeda in the Islamic Maghreb, Insurgency in the Maghreb (2002-present), Islam, Maghreb, Sahara, United Kingdom, al-Qaeda, hostage_

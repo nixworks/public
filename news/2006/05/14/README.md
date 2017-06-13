@@ -19,7 +19,7 @@ _Context: Prime Minister, Tony Blair, United Kingdom, animal testing_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Alligators kill three women in one week in separate incidents across the U.S. state of Florida. [http://www.flatoday.com/apps/pbcs.dll/article?AID=/20060515/BREAKINGNEWS/60515001/1086]](/news/2006/05/14/alligators-kill-three-women-in-one-week-in-separate-incidents-across-the-u-s-state-of-florida-http-www-flatoday-com-apps-pbcs-dll-arti.md)
-_Context: Alligator, Florida, kill three women, state_
+_Context: Alligator, Florida, U.S. state, kill three women_
 
 ## [Previous Day...](/news/2006/05/13/index.md)
 

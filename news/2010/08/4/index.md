@@ -10,7 +10,7 @@ Senior member of Free Patriotic Movement detained on suspicion of spying for Isr
 Israeli shellfire killed a Palestinian militant and wounded another in the Gaza Strip early on Wednesday, Palestinian medical officials said.
 
 ### [Corpses belonging to 59 migrants are located in a desert in the U.S. state of Arizona. ](/news/2010/08/4/corpses-belonging-to-59-migrants-are-located-in-a-desert-in-the-u-s-state-of-arizona.md)
-_Context: Arizona, state_
+_Context: Arizona, U.S. state_
 
 ### [Police in Karachi arrest suspects in its investigation into a recent assassination, as the death toll in riots reaches 63. ](/news/2010/08/4/police-in-karachi-arrest-suspects-in-its-investigation-into-a-recent-assassination-as-the-death-toll-in-riots-reaches-63.md)
 Police in the southern Pakistani city of Karachi arrest suspected &quot;jihadists&quot; following the killing of a leading local politician.
@@ -61,7 +61,7 @@ _Context: 2010 China floods_
 _Context: Calais, Channel Tunnel, England, Eurotunnel, France, Kent_
 
 ### [Three barns collapse at the largest egg farm in the U.S. state of Ohio in Croton, with at least one worker dead. ](/news/2010/08/4/three-barns-collapse-at-the-largest-egg-farm-in-the-u-s-state-of-ohio-in-croton-with-at-least-one-worker-dead.md)
-_Context: Croton, Ohio, barn, egg farm, state_
+_Context: Croton, Ohio, U.S. state, barn, egg farm_
 
 ### [Admiral Thad Allen, the man in charge of the US Government's efforts to clear up the Deepwater Horizon oil spill, has given clearance for BP to pour cement into its Gulf of Mexico oil well. ](/news/2010/08/4/admiral-thad-allen-the-man-in-charge-of-the-us-government-s-efforts-to-clear-up-the-deepwater-horizon-oil-spill-has-given-clearance-for-bp.md)
 BP Plc (BP.L) (BP.N) can pumpcement into its blown-out Gulf of Mexico oil well to beginsealing the leak for good, the U.S. official in charge of thespill said on Wednesday.

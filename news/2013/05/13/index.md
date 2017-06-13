@@ -40,7 +40,7 @@ A Philadelphia doctor is convicted of the first-degree murders of three babies b
 Reporters at Bloomberg News were told to use the terminals to get an edge in the competitive world of financial journalism, more than half a dozen former employees said.
 
 ### [The Senate in the U.S. state of Minnesota passes a bill legalizing same-sex marriage. Governor Mark Dayton says he intends to sign it into law. ](/news/2013/05/13/the-senate-in-the-u-s-state-of-minnesota-passes-a-bill-legalizing-same-sex-marriage-governor-mark-dayton-says-he-intends-to-sign-it-into-l.md)
-_Context: Mark Dayton, Minnesota, Senate, same-sex marriage, state_
+_Context: Mark Dayton, Minnesota, Senate, U.S. state, same-sex marriage_
 
 ### [Voters in the Philippines go to the polls for House of Representatives and Senate elections with police on heightened security. ](/news/2013/05/13/voters-in-the-philippines-go-to-the-polls-for-house-of-representatives-and-senate-elections-with-police-on-heightened-security.md)
 MANILA - The Philippines goes to the polls Monday to choose thousands of local leaders plus national legislators in what is seen as a referendum on the presidency of reformist Benigno Aquino.

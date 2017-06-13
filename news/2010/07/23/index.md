@@ -58,7 +58,7 @@ A former Pennsylvania judge pleads guilty to a charge of racketeering conspiracy
 _Context: People's Republic of China, Uyghur, Xinjiang, ethnic riots_
 
 ### [A court in the U.S. state of Arizona listens to challenges to the state's policy against illegal immigrants. ](/news/2010/07/23/a-court-in-the-u-s-state-of-arizona-listens-to-challenges-to-the-state-s-policy-against-illegal-immigrants.md)
-_Context: Arizona, state_
+_Context: Arizona, U.S. state_
 
 ### [A panel decides Congolese militia leader Thomas Lubanga should stay in jail in The Hague: Lubanaga says he is not guilty of the charges against him. ](/news/2010/07/23/a-panel-decides-congolese-militia-leader-thomas-lubanga-should-stay-in-jail-in-the-hague-lubanaga-says-he-is-not-guilty-of-the-charges-agai.md)
 Panel says freeing Congolese militia leader could prevent his trial from resuming.

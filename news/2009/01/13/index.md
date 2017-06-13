@@ -13,7 +13,7 @@ _Context: Foreign Relations Committee, Hillary Clinton, United States, United St
 _Context: Angela Merkel, Chancellor, German, euro, late 2000s recession_
 
 ### [ Yahoo! names Autodesk chairwoman Carol Bartz as its CEO. ](/news/2009/01/13/yahoo-names-autodesk-chairwoman-carol-bartz-as-its-ceo.md)
-_Context: Autodesk, Carol Bartz, Yahoo, chairman, chief executive officer_
+_Context: Autodesk, Carol Bartz, Yahoo!, chairman, chief executive officer_
 
 ### [ Citigroup announces a merger deal with Morgan Stanley. ](/news/2009/01/13/citigroup-announces-a-merger-deal-with-morgan-stanley.md)
 Citigroup Inc faced growing uncertainty on Wednesday about whether it could ever function well, leading investors to drive its shares down below $5.00 to their lowest level since the bank won a government rescue in November.

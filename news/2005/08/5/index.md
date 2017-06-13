@@ -13,7 +13,7 @@ RTÉ News has learned that the three Irishmen who were found guilty of training 
 _Context: Afghan, Al Arabiya, Chinook helicopter, War in Afghanistan (2001-present), al-Qaeda_
 
 ### [ Yahoo! has introduced a test version of a new search service Yahoo! Audio Search that it claims can comb through 50 million music, voice and other audio files. ](/news/2005/08/5/yahoo-has-introduced-a-test-version-of-a-new-search-service-yahoo-audio-search-that-it-claims-can-comb-through-50-million-music-voice-an.md)
-_Context: Yahoo, Yahoo! Audio Search_
+_Context: Yahoo!, Yahoo! Audio Search_
 
 ### [ An earthquake in Papua, Indonesia, reached 6.0 on the  Richter scale. There are no reports of casualties.](/news/2005/08/5/an-earthquake-in-papua-indonesia-reached-6-0-on-the-richter-scale-there-are-no-reports-of-casualties.md)
 _Context: Indonesia, Papua, Richter scale, earthquake_

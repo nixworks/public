@@ -40,7 +40,7 @@ Afghanistan says it is &quot;running out of patience&quot; with the IMF after it
 _Context: PNC Financial Services, RBC Bank, Royal Bank of Canada, US$_
 
 ### [Residents of Greer, a small town in the U.S. state of Arizona, are allowed to return home after the Wallow Fire is slowly brought under control. ](/news/2011/06/20/residents-of-greer-a-small-town-in-the-u-s-state-of-arizona-are-allowed-to-return-home-after-the-wallow-fire-is-slowly-brought-under-cont.md)
-_Context: Arizona, Greer, Wallow Fire, state_
+_Context: Arizona, Greer, U.S. state, Wallow Fire_
 
 ### [The Volcanic Ash Advisory Centre in Darwin warns that Australian travellers face more disruption from ash from the 2011 Puyehue-Cordon Caulle eruption in Chile. ](/news/2011/06/20/the-volcanic-ash-advisory-centre-in-darwin-warns-that-australian-travellers-face-more-disruption-from-ash-from-the-2011-puyehue-corda3n-caul.md)
 _Context: 2011 Puyehue-Cordon Caulle eruption, Australian, Chile, Darwin_

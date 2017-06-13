@@ -19,7 +19,7 @@ _Context: Philippines, Taiwan, Typhoon Nanmadol_
 A tram popular with tourists derails in the Brazilian city of Rio de Janeiro killing its driver and four passengers, with another 27 injured.
 
 ### [The Government of the United Kingdom pledges to raise the issue of the murder of WPC Yvonne Fletcher, allegedly by a Libyan official outside the embassy in London in 1984, with the new government in Tripoli. ](/news/2011/08/28/the-government-of-the-united-kingdom-pledges-to-raise-the-issue-of-the-murder-of-wpc-yvonne-fletcher-allegedly-by-a-libyan-official-outside.md)
-_Context: British, Libya, London, Tripoli, WPC, murder of PC Yvonne Fletcher_
+_Context: 10 Downing Street, Libya, London, Tripoli, WPC, murder of PC Yvonne Fletcher_
 
 ### [Indian social activist Anna Hazare breaks a hunger strike after Parliament passes strong anti-corruption laws. ](/news/2011/08/28/indian-social-activist-anna-hazare-breaks-a-hunger-strike-after-parliament-passes-strong-anti-corruption-laws.md)
 Anna Hazare ended his 12-day fast on Sunday morning before thousands of cheering supporters at Ramlila Maidan. Special

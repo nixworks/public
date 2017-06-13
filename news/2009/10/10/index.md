@@ -37,7 +37,7 @@ _Context: England, Islam, Manchester, racial bias_
 More than 200 modifications
 
 ### [ Thousands of protesters gather in St Petersburg, Russia, against a plan to build a 77 storey building for Gazprom. ](/news/2009/10/10/thousands-of-protesters-gather-in-st-petersburg-russia-against-a-plan-to-build-a-77-storey-building-for-gazprom.md)
-_Context: Gazprom, Russia, St Petersburg_
+_Context: Gazprom, Russia, St. Petersburg_
 
 ## [Previous Day...](/news/2009/10/9/index.md)
 

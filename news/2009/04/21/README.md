@@ -1,7 +1,7 @@
 ## [2009-04-21](/news/2009/04/21/index.md)
 
 ### [ Yahoo! will cut between 600 and 700 jobs. ](/news/2009/04/21/yahoo-will-cut-between-600-and-700-jobs.md)
-_Context: Yahoo, layoff_
+_Context: Yahoo!, layoff_
 
 ### [ Twelve navies from the Americas begin annual UNITAS Gold exercises near Florida, United States. ](/news/2009/04/21/twelve-navies-from-the-americas-begin-annual-unitas-gold-exercises-near-florida-united-states.md)
 _Context: Americas, Florida, UNITAS Gold, United States, maritime forces, military exercise_

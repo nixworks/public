@@ -19,7 +19,7 @@ _Context: Guam, U.S. territory, stabbed_
 Police say three people were shot to death and a fourth person was critically wounded in the Midvale shooting that took place Tuesday morning
 
 ### [The UK government's back-to-work programme suffers a setback when judges at the Court of Appeal of England and Wales rule in favour of a university graduate's claim that unpaid schemes are legally flawed. ](/news/2013/02/12/the-uk-government-s-back-to-work-programme-suffers-a-setback-when-judges-at-the-court-of-appeal-of-england-and-wales-rule-in-favour-of-a-uni.md)
-_Context: Britain's Court of Appeal, British_
+_Context: 10 Downing Street, Britain's Court of Appeal_
 
 ### [Prince Sattam bin Abdulaziz Al Saud, a member of the House of Saud and the governor of the Riyadh Province, dies at the age of 72 in Riyadh. ](/news/2013/02/12/prince-sattam-bin-abdulaziz-al-saud-a-member-of-the-house-of-saud-and-the-governor-of-the-riyadh-province-dies-at-the-age-of-72-in-riyadh.md)
 _Context: Riyadh, Riyadh Province, Sattam bin Abdulaziz Al Saud, Saudi Royal Family_

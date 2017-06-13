@@ -13,7 +13,7 @@ A suicide bomber killed at least 12 people when he blew himself up on Thursday a
 Federal and state prosecutors on Thursday announced charges against 10 men, including two onetime senior advisers to New York Governor Andrew Cuomo, in corruption and fraud cases involving state contracts worth hundreds of millions of dollars.
 
 ### [Yahoo! discloses a data breach that compromised the details of 500 million users. ](/news/2016/09/22/yahoo-discloses-a-data-breach-that-compromised-the-details-of-500-million-users.md)
-_Context: 2014 Yahoo! data breach, Yahoo, data breach_
+_Context: 2014 Yahoo! data breach, Yahoo!, data breach_
 
 ### [Brazilian police arrest former Finance Minister Guido Mantega as part of an ongoing probe into corruption. ](/news/2016/09/22/brazilian-police-arrest-former-finance-minister-guido-mantega-as-part-of-an-ongoing-probe-into-corruption.md)
 Brazilian police arrested former Finance Minister Guido Mantega on Thursday as a sweeping corruption investigation struck further at the heart of the Workers Party (PT) that ran the country for 13 years.

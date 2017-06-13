@@ -25,7 +25,7 @@ _Context: Lahore, Pakistan_
 Argentina will make a formal complaint to the UN about British &quot;militarisation&quot; around the disputed Falkland Islands, says President Cristina Fernandez de Kirchner.
 
 ### [The United States Court of Appeals for the Ninth Circuit overturns California's Proposition 8 banning gay marriage in that state. ](/news/2012/02/7/the-united-states-court-of-appeals-for-the-ninth-circuit-overturns-california-s-proposition-8-banning-gay-marriage-in-that-state.md)
-_Context: Appeals Court of  the Ninth Circuit, California, California Proposition 8, gay marriage_
+_Context: California, California Proposition 8, Ninth Circuit Appeals Court panel, gay marriage_
 
 ### [Manssor Arbabsiar will face a trial on October 22 in the United States for his role in the 2011 alleged Iran assassination plot against the Saudi Arabian ambassador. ](/news/2012/02/7/manssor-arbabsiar-will-face-a-trial-on-october-22-in-the-united-states-for-his-role-in-the-2011-alleged-iran-assassination-plot-against-the.md)
 _Context: 2011 alleged Iran assassination plot, Saudi Arabia, United States_

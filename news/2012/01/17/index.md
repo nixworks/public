@@ -13,7 +13,7 @@ _Context: Burma, Internal conflict in Burma, Myanmar's military_
 _Context: 2011-2012 Yemeni uprising, parliamentary, presidential election_
 
 ### [Yahoo! co-founder Jerry Yang resigns as chief executive officer. ](/news/2012/01/17/yahoo-co-founder-jerry-yang-resigns-as-chief-executive-officer.md)
-_Context: Jerry Yang, Yahoo, chief executive officer_
+_Context: Jerry Yang, Yahoo!, chief executive officer_
 
 ### [At least 26 people are killed after a truck's brakes fail along a busy street in Port-au-Prince, Haiti. ](/news/2012/01/17/at-least-26-people-are-killed-after-a-truck-s-brakes-fail-along-a-busy-street-in-port-au-prince-haiti.md)
 _Context: Haiti, Port-au-Prince_

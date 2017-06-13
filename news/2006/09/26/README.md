@@ -16,7 +16,7 @@ _Context: George W. Bush administration, Islamic world, Islamist, War in Iraq, c
 _Context: Archbishop, Emmanuel Milingo, Pope Benedict XVI, Roman Catholic Church, Zambia, excommunicate_
 
 ### [ Former WorldCom chief Bernard Ebbers reports to a federal prison in the U.S. state of Louisiana to begin a 25-year prison term. ](/news/2006/09/26/former-worldcom-chief-bernard-ebbers-reports-to-a-federal-prison-in-the-u-s-state-of-louisiana-to-begin-a-25-year-prison-term.md)
-_Context: Bernard Ebbers, Louisiana, WorldCom, state_
+_Context: Bernard Ebbers, Louisiana, U.S. state, WorldCom_
 
 ### [ At least 18 people are killed in an explosion outside a government office in Lashkar Gah in southern Afghanistan. ](/news/2006/09/26/at-least-18-people-are-killed-in-an-explosion-outside-a-government-office-in-lashkar-gah-in-southern-afghanistan.md)
 _Context: Afghan, Lashkar Gah_

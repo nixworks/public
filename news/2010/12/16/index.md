@@ -22,7 +22,7 @@ The International Monetary Fund approves a 22.5bn-euro three-year loan for the R
 * Board gives green light to Mackenzie * Says approval subject to more than 200 conditions * Still requires federal cabinet approval (A
 
 ### [Yahoo! announces plans to axe 600 jobs and phase out services such as Delicious. ](/news/2010/12/16/yahoo-announces-plans-to-axe-600-jobs-and-phase-out-services-such-as-delicious.md)
-_Context: Delicious, Yahoo_
+_Context: Delicious, Yahoo!_
 
 ### [Six people were killed and a dozen injured when two buses collided in Hangzhou City, east China's Zhejiang Province, China. ](/news/2010/12/16/six-people-were-killed-and-a-dozen-injured-when-two-buses-collided-in-hangzhou-city-east-china-s-zhejiang-province-china.md)
 _Context: Hangzhou, Zhejiang_

@@ -25,7 +25,7 @@ Japanese court sentences US musician to minimum of five years in prison for kill
 _Context: Daniel Pearl, Pakistan, The Wall Street Journal_
 
 ### [In the U.S. state of Ohio, Thomas Lane receives three life sentences for the child murders at Chardon High School that he committed in February 2012 as a 17-year-old. ](/news/2013/03/19/in-the-u-s-state-of-ohio-thomas-lane-receives-three-life-sentences-for-the-child-murders-at-chardon-high-school-that-he-committed-in-febru.md)
-_Context: Chardon High School, Ohio, child murders, life sentence, state_
+_Context: Chardon High School, Ohio, U.S. state, child murders, life sentence_
 
 ### [The United States Supreme Court holds in a 6&ndash;3 decision that the first-sale doctrine applies to the domestic sale of foreign copies of copyrighted work lawfully made abroad. ](/news/2013/03/19/the-united-states-supreme-court-holds-in-a-6-ndash-3-decision-that-the-first-sale-doctrine-applies-to-the-domestic-sale-of-foreign-copies-of.md)
 Today, the United States Supreme Court handed US copyright owners a stinging defeat. The decision in Kirtsaeng v. John Wiley &amp; Sons dramatically slashes the ability of US copyright owners to control copies of their works. And in so doing, the 6-3 decision blows a huge hole in the global marketing strategy of movie, TV, book and software companies.

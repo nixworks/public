@@ -16,7 +16,7 @@ Angry Israeli gunman kills three Palestinians; Hamas says it wants to see withdr
 _Context: Presidential Elections Committee, Sellapan Ramanathan, Singapore presidential elections_
 
 ### [ The governors of the U.S. states of New Mexico and Arizona declare an emergency along their borders with Mexico citing recent violence, and inaction in both the US government and the Mexican government. [http://www.nytimes.com/2005/08/17/national/17border.html (NY Times)], [http://www.azcentral.com/arizonarepublic/news/articles/0816borderemergency16.html (Arizona Republic)], [http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/08/17/wmexi17.xml&sSheet=/news/2005/08/17/ixworld.html (UK Telegraph)].](/news/2005/08/17/the-governors-of-the-u-s-states-of-new-mexico-and-arizona-declare-an-emergency-along-their-borders-with-mexico-citing-recent-violence-and.md)
-_Context: Arizona, Mexican, New Mexico, United States, state_
+_Context: Arizona, Mexican, New Mexico, U.S. state, United States_
 
 ### [ The Zotob computer worm causes fatal crashes of computers worldwide. The worm only crashes PCs running Windows 2000 and earlier versions of Windows XP, shutting down and rebooting the computer endlessly. Affected were CNN, ABC, Caterpillar, New York Times and Capitol Hill PCs. [http://edition.cnn.com/2005/TECH/internet/08/16/computer.worm/index.html (CNN)].](/news/2005/08/17/the-zotob-computer-worm-causes-fatal-crashes-of-computers-worldwide-the-worm-only-crashes-pcs-running-windows-2000-and-earlier-versions-of.md)
 _Context: ABC, CNN, Capitol Hill, Caterpillar, New York Times, Windows 2000, Windows XP, Zotob, computer worm_

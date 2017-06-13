@@ -55,7 +55,7 @@ Two Jordanians seized while serving with UN African Union mission in Sudan are f
 A Kenyan national who was attempting to sell an albino man has been arrested, police in Tanzania say.
 
 ### [Same-sex marriage in the U.S. state of California, due to resume on Wednesday, is blocked by the Ninth Circuit Court of Appeals until it is decided whether a ban is constitutional. ](/news/2010/08/17/same-sex-marriage-in-the-u-s-state-of-california-due-to-resume-on-wednesday-is-blocked-by-the-ninth-circuit-court-of-appeals-until-it-is.md)
-_Context: Appeals Court of  the Ninth Circuit, California, same-sex marriage, state_
+_Context: California, Ninth Circuit Appeals Court panel, U.S. state, same-sex marriage_
 
 ### [A federal jury convicts former Governor of Illinois Rod Blagojevich on one count of lying to the United States Federal Bureau of Investigation. The jury is deadlocked on the other 23 charges. ](/news/2010/08/17/a-federal-jury-convicts-former-governor-of-illinois-rod-blagojevich-on-one-count-of-lying-to-the-united-states-federal-bureau-of-investigati.md)
 The trial of former Illinois governor Rod Blagojevich was found......

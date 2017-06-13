@@ -52,7 +52,7 @@ _Context: Abuja, Justice and Equality Movement, Niger, Sudan, Sudan Liberation M
 _Context: United States_
 
 ### [ Yahoo! Answers, Yahoo!'s current question-and-answer service, is launched. Their first question is posted just a couple of hours after their 9 A.M. launch time.](/news/2005/07/5/yahoo-answers-yahoo-s-current-question-and-answer-service-is-launched-their-first-question-is-posted-just-a-couple-of-hours-after-thei.md)
-_Context: Yahoo, Yahoo! Answers_
+_Context: Yahoo!, Yahoo! Answers_
 
 ## [Previous Day...](/news/2005/07/4/index.md)
 

@@ -16,7 +16,7 @@ _Context: Holy See, Pope, Pope John Paul II, beatified, saints_
 Thousands of protesters surge through an eastern Uzbekistani city, enraged by the incarceration of 23 Muslim businessmen.
 
 ### [ Michael Ross becomes the first person executed in the U.S. state of Connecticut since 1960. He was convicted in 1987 of the murder of four girls and young women. He confessed to having committed four more killings. ](/news/2005/05/13/michael-ross-becomes-the-first-person-executed-in-the-u-s-state-of-connecticut-since-1960-he-was-convicted-in-1987-of-the-murder-of-four.md)
-_Context: 1960, 1987, Connecticut, Michael Ross, state_
+_Context: 1960, 1987, Connecticut, Michael Ross, U.S. state_
 
 ### [ Anime Central 8 kicks off today with over 10000 attendees.](/news/2005/05/13/anime-central-8-kicks-off-today-with-over-10000-attendees.md)
 ## [Previous Day...](/news/2005/05/12/index.md)

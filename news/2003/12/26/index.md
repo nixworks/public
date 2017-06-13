@@ -5,7 +5,7 @@ _Context: Bam, Bam Citadel, Iran, USGS, adobe, earthquake, magnitude_
 
 ### [ The death toll in the Chinese gas-leak rises to 191. [http://www.nytimes.com/2003/12/26/international/asia/26CHIN.html?hp]](/news/2003/12/26/the-death-toll-in-the-chinese-gas-leak-rises-to-191-http-www-nytimes-com-2003-12-26-international-asia-26chin-html-hp.md)
 ### [ Fearing the state's BSE outbreak may extend beyond a single farm, the U.S. Department of Agriculture quarantines a second cattle farm in Washington state. [http://news.bbc.co.uk/1/hi/world/americas/3350227.stm]](/news/2003/12/26/fearing-the-state-s-bse-outbreak-may-extend-beyond-a-single-farm-the-u-s-department-of-agriculture-quarantines-a-second-cattle-farm-in-wa.md)
-_Context: United States Department of Agriculture, Washington, mad cow disease, state_
+_Context: U.S. state, United States Department of Agriculture, Washington, mad cow disease_
 
 ## [Previous Day...](/news/2003/12/25/index.md)
 

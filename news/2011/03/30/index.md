@@ -40,7 +40,7 @@ Japan called on the world not to impose &quot;unjustifiable&quot; import curbs o
 _Context: flood, southern Thailand_
 
 ### [The U.S. state of Washington issues flood warnings. ](/news/2011/03/30/the-u-s-state-of-washington-issues-flood-warnings.md)
-_Context: Washington, state_
+_Context: U.S. state, Washington_
 
 ### [19 people are trapped after a tunnel under construction collapses in southwest China. ](/news/2011/03/30/19-people-are-trapped-after-a-tunnel-under-construction-collapses-in-southwest-china.md)
 _Context: People's Republic of China_

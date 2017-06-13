@@ -4,7 +4,7 @@
 _Context: Ehud Goldwasser, Hezbollah, Israel, Kofi Annan, Red Cross, United Nations Secretary-General, cabinet, war_
 
 ### [ A DNA test of John Mark Karr does not match the DNA found on the body of JonBent Ramsey, and prosecutors in the U.S. state of Colorado say they will not charge Karr with murder. ](/news/2006/08/28/a-dna-test-of-john-mark-karr-does-not-match-the-dna-found-on-the-body-of-jonbenet-ramsey-and-prosecutors-in-the-u-s-state-of-colorado-say.md)
-_Context: Colorado, DNA test, John Mark Karr, JonBent Ramsey, state_
+_Context: Colorado, DNA test, John Mark Karr, JonBent Ramsey, U.S. state_
 
 ### [ Mexico's Federal Electoral Tribunal rules unanimously that results in contested polling stations only marginally affected the lead of Felipe Caldern of the ruling National Action Party over Andrs Manuel Lpez Obrador in July's disputed presidential election. ](/news/2006/08/28/mexico-s-federal-electoral-tribunal-rules-unanimously-that-results-in-contested-polling-stations-only-marginally-affected-the-lead-of-felip.md)
 _Context: Andrs Manuel Lpez Obrador, Disputed Mexican election, Federal Electoral Tribunal, Felipe Caldern, Mexican, Mexican general election, National Action Party (PAN)_

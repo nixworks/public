@@ -79,7 +79,7 @@ Sen. Frank R. Lautenberg, a World War II veteran who served five terms in the Se
 Highly respected technology consultant and evangelist Atul Chitnis, hailed by many as India&#039;s &#039;open source guru&#039; passed away due to cancer this morning.
 
 ### [A set of three unusually well preserved triceratops specimens is unearthed in the U.S. state of Wyoming. ](/news/2013/06/3/a-set-of-three-unusually-well-preserved-triceratops-specimens-is-unearthed-in-the-u-s-state-of-wyoming.md)
-_Context: Wyoming, state, triceratops_
+_Context: U.S. state, Wyoming, triceratops_
 
 ## [Previous Day...](/news/2013/06/2/index.md)
 

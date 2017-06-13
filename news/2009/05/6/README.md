@@ -22,7 +22,7 @@ _Context: Guinea, ambassador, withdraws_
 _Context: German, MV, Somali pirates, Somalia, UAE, anti-piracy_
 
 ### [ The U.S. state of Maine legalizes same-sex marriage. ](/news/2009/05/6/the-u-s-state-of-maine-legalizes-same-sex-marriage.md)
-_Context: Maine, legalizes, same-sex marriage, state_
+_Context: Maine, U.S. state, legalizes, same-sex marriage_
 
 ## [Previous Day...](/news/2009/05/5/index.md)
 

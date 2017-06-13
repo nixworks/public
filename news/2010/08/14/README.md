@@ -19,7 +19,7 @@ Lebanese security officials say they have killed the suspected leader of the mil
 Attacks on checkpoints leave at least six officers dead in Baghdad.
 
 ### [4 people are fatally shot outside a Buffalo restaurant in the U.S. state of New York, with 3 others sustaining injuries. ](/news/2010/08/14/4-people-are-fatally-shot-outside-a-buffalo-restaurant-in-the-u-s-state-of-new-york-with-3-others-sustaining-injuries.md)
-_Context: Buffalo, New York, state_
+_Context: Buffalo, New York, U.S. state_
 
 ### [3 children are wounded after a wheelie bin explodes in Lurgan, County Armagh. ](/news/2010/08/14/3-children-are-wounded-after-a-wheelie-bin-explodes-in-lurgan-county-armagh.md)
 Police investigating suspicious packages in Lurgan, County Armagh, are attacked with petrol bombs.
@@ -31,7 +31,7 @@ _Context: Darfur, Nyala, Sudan, UNAMID_
 _Context: Hungary, Zsa Zsa Gabor_
 
 ### [A rally takes place outside Google's offices in the U.S. state of California against a proposal to change online data treatment. ](/news/2010/08/14/a-rally-takes-place-outside-google-s-offices-in-the-u-s-state-of-california-against-a-proposal-to-change-online-data-treatment.md)
-_Context: California, Google, state_
+_Context: California, Google, U.S. state_
 
 ### [Gabon signs over US$4 billion of contracts with Indian and Singaporean companies for infrastructure projects, on the eve of the country's 50th anniversary since independence. ](/news/2010/08/14/gabon-signs-over-us-4-billion-of-contracts-with-indian-and-singaporean-companies-for-infrastructure-projects-on-the-eve-of-the-country-s-50.md)
 _Context: Gabon, India, Singapore, US$_

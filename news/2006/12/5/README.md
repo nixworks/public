@@ -7,7 +7,7 @@ _Context: Alexander Litvinenko, Prosecutor General of Russia, Russia, Yury Chaik
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ A majority of a 15-judge panel in the United States Court of Appeals for the Ninth Circuit rules that Kamehameha Schools can favour Native Hawaiians in admissions. ](/news/2006/12/5/a-majority-of-a-15-judge-panel-in-the-united-states-court-of-appeals-for-the-ninth-circuit-rules-that-kamehameha-schools-can-favour-native.md)
-_Context: Appeals Court of  the Ninth Circuit, Kamehameha Schools, Native Hawaiians_
+_Context: Kamehameha Schools, Native Hawaiians, Ninth Circuit Appeals Court panel_
 
 ### [ An outbreak of ''E. coli'' bacteria has sickened more than a dozen people on Long Island, including several who ate at Taco Bell. Officials have asked eight Taco Bell restaurants be closed. ](/news/2006/12/5/an-outbreak-of-e-coli-bacteria-has-sickened-more-than-a-dozen-people-on-long-island-including-several-who-ate-at-taco-bell-officials.md)
 _Context: ''E. coli'', Long Island, Taco Bell_

@@ -10,7 +10,7 @@ _Context: Google, People's Republic of China_
 Archaeologists said a bone flute and two fragments of ivory flutes discovered last fall represent the earliest known flowering of music-making in Stone Age culture.
 
 ### [ Mark Sanford, Governor of the U.S. state of South Carolina, admits to adultery with an Argentine woman and resigns as Chairman of the Republican Governors Association. ](/news/2009/06/24/mark-sanford-governor-of-the-u-s-state-of-south-carolina-admits-to-adultery-with-an-argentine-woman-and-resigns-as-chairman-of-the-repub.md)
-_Context: Argentina, Mark Sanford, Republican Governors Association, South Carolina, South Carolina governor, admits, adultery, state_
+_Context: Argentina, Mark Sanford, Republican Governors Association, South Carolina, South Carolina governor, U.S. state, admits, adultery_
 
 ### [  Supreme Leader Ayatollah Ali Khamenei declares the recent election result will stand. ](/news/2009/06/24/supreme-leader-ayatollah-ali-khamenei-declares-the-recent-election-result-will-stand.md)
 Ayatollah Ali Khamenei has declared that the disputed Iran election result will stand, despite violent street protests in recent days.

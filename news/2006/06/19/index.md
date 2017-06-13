@@ -4,7 +4,7 @@
 _Context: Carolina Hurricanes, Edmonton Oilers, Stanley Cup, ice hockey_
 
 ### [ Kathleen Blanco, the Governor of the U.S. state of Louisiana, calls in the Louisiana National Guard to patrol the streets of New Orleans following six deaths on the preceding weekend. ](/news/2006/06/19/kathleen-blanco-the-governor-of-the-u-s-state-of-louisiana-calls-in-the-louisiana-national-guard-to-patrol-the-streets-of-new-orleans-fo.md)
-_Context: Governor of Louisiana, Kathleen Blanco, Louisiana, Louisiana National Guard, New Orleans, state_
+_Context: Governor of Louisiana, Kathleen Blanco, Louisiana, Louisiana National Guard, New Orleans, U.S. state_
 
 ### [ The United States Army charges three soldiers of the 101st Airborne Division 3rd Brigade Combat Team with murder in relation to the deaths of three men in custody in Iraq. ](/news/2006/06/19/the-united-states-army-charges-three-soldiers-of-the-101st-airborne-division-3rd-brigade-combat-team-with-murder-in-relation-to-the-deaths.md)
 _Context: 101st Airborne Division, Iraq, United States Army_

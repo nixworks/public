@@ -13,7 +13,7 @@ _Context: Chrysler, Fiat, Indiana State Police Pension Trust v. Chrysler, Suprem
 Four of the five men being sued by the families of the Omagh bomb victims have been found liable for the August 1998 attack.
 
 ### [ The Minister of State for Farming and the Environment, Jane Kennedy, announces her resignation from the Government of the United Kingdom. ](/news/2009/06/8/the-minister-of-state-for-farming-and-the-environment-jane-kennedy-announces-her-resignation-from-the-government-of-the-united-kingdom.md)
-_Context: British, Department for Environment, Jane Kennedy_
+_Context: 10 Downing Street, Department for Environment, Jane Kennedy_
 
 ### [ Pope Benedict XVI is reportedly "visibly upset" after hearing the findings of Ireland's Commission to Inquire into Child Abuse. ](/news/2009/06/8/pope-benedict-xvi-is-reportedly-visibly-upset-after-hearing-the-findings-of-ireland-s-commission-to-inquire-into-child-abuse.md)
 Pope Benedict was visibly upset by accounts of the Child Abuse Commission&#39;s report, according to one of the Irish archbishops who briefed him on it.

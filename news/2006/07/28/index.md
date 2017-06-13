@@ -1,7 +1,7 @@
 ## [2006-07-28](/news/2006/07/28/index.md)
 
 ### [ Six people are shot, one fatally, at the Jewish Federation of Greater Seattle in the U.S. state of Washington in a religiously-motivated killing spree. The killer identified himself as a Muslim American who was angry over the 2006 Israel-Lebanon conflict. ](/news/2006/07/28/six-people-are-shot-one-fatally-at-the-jewish-federation-of-greater-seattle-in-the-u-s-state-of-washington-in-a-religiously-motivated-ki.md)
-_Context: Muslim American, Washington, religiously-motivated killing spree, state, war_
+_Context: Muslim American, U.S. state, Washington, religiously-motivated killing spree, war_
 
 ### [ Iran's nuclear program: The UN Security Council approves a resolution to give Iran until the end of August to suspend uranium enrichment or face the threat of sanctions. ](/news/2006/07/28/iran-s-nuclear-program-p-the-un-security-council-approves-a-resolution-to-give-iran-until-the-end-of-august-to-suspend-uranium-enrichment-o.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
@@ -13,7 +13,7 @@ Follow the StarTribune for the news, photos and videos from the Twin Cities and 
 _Context: Bernard Ebbers, WorldCom_
 
 ### [ Coroners in the U.S. state of California estimate the death toll from the current heat wave at at least 123.](/news/2006/07/28/coroners-in-the-u-s-state-of-california-estimate-the-death-toll-from-the-current-heat-wave-at-at-least-123.md)
-_Context: California, coronial, heat wave, state_
+_Context: California, U.S. state, coronial, heat wave_
 
 ### [ An explosion at a fluorine plant in China's Jiangsu Province kills 12 people and leads to the evacuation of 7,000 people. ](/news/2006/07/28/an-explosion-at-a-fluorine-plant-in-china-s-jiangsu-province-kills-12-people-and-leads-to-the-evacuation-of-7-000-people.md)
 _Context: Chinese, Jiangsu Province, fluorine_

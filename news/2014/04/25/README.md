@@ -19,7 +19,7 @@ KINSHASA, Congo (AP) — More than 20 people were killed Friday in southwest Con
 At least 80 villagers are killed and hundreds left stranded on roofs as devastating flash floods hit northern Afghanistan, officials say.
 
 ### [The UK government launches an inquiry after the ''Liverpool Echo'' reported that Whitehall computers had been used to post offensive remarks about the Hillsborough disaster on Wikipedia pages relating to the topic. ](/news/2014/04/25/the-uk-government-launches-an-inquiry-after-the-liverpool-echo-reported-that-whitehall-computers-had-been-used-to-post-offensive-remarks.md)
-_Context: British, Hillsborough disaster, Liverpool Echo, Whitehall, Wikipedia_
+_Context: 10 Downing Street, Hillsborough disaster, Liverpool Echo, Whitehall, Wikipedia_
 
 ### [China amends its environmental protection laws to help fight pollution and reverse environmental damage in the country. ](/news/2014/04/25/china-amends-its-environmental-protection-laws-to-help-fight-pollution-and-reverse-environmental-damage-in-the-country.md)
 _Context: environmental damage, environmental protection laws_

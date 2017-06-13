@@ -22,7 +22,7 @@ At least 28 people have been killed and many injured in an explosion on an oil p
 A fire at a budget hotel in the northern Philippines has killed 15 people and injured 12, officials say.
 
 ### [8 people are seriously injured when a tour bus carrying a church group lost control, slides off a road and rolls onto its side on an icy highway in the U.S. state of Colorado. ](/news/2010/12/19/8-people-are-seriously-injured-when-a-tour-bus-carrying-a-church-group-lost-control-slides-off-a-road-and-rolls-onto-its-side-on-an-icy-hig.md)
-_Context: Colorado, state_
+_Context: Colorado, U.S. state_
 
 ### [3 people are killed as blizzards and freezing temperatures hit Italy. ](/news/2010/12/19/3-people-are-killed-as-blizzards-and-freezing-temperatures-hit-italy.md)
 _Context: Italy_

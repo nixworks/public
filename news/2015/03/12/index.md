@@ -19,7 +19,7 @@ THE power of Cyclone Olwyn is now being felt in WA’s North West — and the st
 A cement warehouse partially collapses in Bangladesh, with at least eight people killed, according to police.
 
 ### [An unknown gunman shoots two policemen in front of the Ferguson city police headquarters in the U.S. state of Missouri. ](/news/2015/03/12/an-unknown-gunman-shoots-two-policemen-in-front-of-the-ferguson-city-police-headquarters-in-the-u-s-state-of-missouri.md)
-_Context: Ferguson unrest, Ferguson, Missouri, Missouri, police force, state_
+_Context: Ferguson unrest, Ferguson, Missouri, Missouri, U.S. state, police force_
 
 ### [The anti-graft agency of the Communist Party of China (CCFDI) investigates former Urumqi party chief Li Zhi. He is the first official investigated from Xinjiang since the campaign began in 2013. ](/news/2015/03/12/the-anti-graft-agency-of-the-communist-party-of-china-ccfdi-investigates-former-urumqi-party-chief-li-zhi-he-is-the-first-official-invest.md)
 _Context: Li Zhi, Urumqi, Xinjiang, anti-graft agency, investigates_

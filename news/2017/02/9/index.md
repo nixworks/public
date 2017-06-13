@@ -25,7 +25,7 @@ The president had earlier called the policy on Taiwan into question, a red line 
 In his first call as president with Russian leader Vladimir Putin, Donald Trump denounced a treaty that caps U.S. and Russian deployment of nuclear warheads as a bad deal for the United States, according to two U.S. officials and one former U.S. official with knowledge of the call.
 
 ### [The appeal of the Trump administration is denied as the 9th US Circuit Court of Appeals said it would not block a lower-court ruling that brought the president's executive order to a halt. ](/news/2017/02/9/the-appeal-of-the-trump-administration-is-denied-as-the-9th-us-circuit-court-of-appeals-said-it-would-not-block-a-lower-court-ruling-that-br.md)
-_Context: Appeals Court of  the Ninth Circuit, U.S. immigration suspension_
+_Context: Ninth Circuit Appeals Court panel, U.S. immigration suspension_
 
 ### [A high court in Kenya blocks a government bid to close the Dadaab refugee camp and repatriate over 260,000 Somali refugees back to Somalia. The government said it will appeal against the ruling. ](/news/2017/02/9/a-high-court-in-kenya-blocks-a-government-bid-to-close-the-dadaab-refugee-camp-and-repatriate-over-260-000-somali-refugees-back-to-somalia.md)
 A Kenyan government order to forcibly repatriate 260,000 Somalis is ruled an act of persecution.

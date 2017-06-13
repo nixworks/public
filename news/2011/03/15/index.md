@@ -49,7 +49,7 @@ Doctors at an emergency union meeting have called on the government to put a hal
 _Context: Angela Merkel, Chancellor, German, Japan, nuclear reactor_
 
 ### [The Mayor of Miami-Dade County in the U.S. state of Florida, Carlos Alvarez, and County commissioner Natacha Seijas are defeated in recall elections. ](/news/2011/03/15/the-mayor-of-miami-dade-county-in-the-u-s-state-of-florida-carlos-alvarez-and-county-commissioner-natacha-seijas-are-defeated-in-recall-e.md)
-_Context: Carlos Alvarez, County commission, Florida, Mayor of Miami-Dade County, recall referendum, state_
+_Context: Carlos Alvarez, County commission, Florida, Mayor of Miami-Dade County, U.S. state, recall referendum_
 
 ## [Previous Day...](/news/2011/03/14/index.md)
 

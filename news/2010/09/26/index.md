@@ -49,7 +49,7 @@ China issued a health alert in its southwestern region of Tibet after five peopl
 Families of 33 trapped miners get a glimpse of the rescue capsule meant to bring the miners to the surface.
 
 ### [Towns in the U.S. state of Wisconsin evacuate residents due to flooding of the Wisconsin River. ](/news/2010/09/26/towns-in-the-u-s-state-of-wisconsin-evacuate-residents-due-to-flooding-of-the-wisconsin-river.md)
-_Context: Wisconsin, Wisconsin River, state_
+_Context: U.S. state, Wisconsin, Wisconsin River_
 
 ### [''Irene'':The boat ''Irene'', carrying a group of Jewish activists from Germany, Israel, the U.S. and UK, sets sail from northern Cyprus aiming to breach Israel's blockade of the Gaza Strip. ](/news/2010/09/26/irene-pthe-boat-irene-carrying-a-group-of-jewish-activists-from-germany-israel-the-u-s-and-uk-sets-sail-from-northern-cyprus-ai.md)
 Aid boat carrying Jewish activists sails to Gaza

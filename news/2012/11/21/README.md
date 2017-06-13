@@ -16,7 +16,7 @@ Faraj al-Deirsy, head of Benghazi police, shot dead in the latest attack on Liby
 Best selling author and historian Tim Pat Coogan has been forced to cancel a book tour in the U.S. for his new b...
 
 ### [Will Rogers World Airport in the U.S. state of Oklahoma is shut down over the discovery of a painted golden object with a hole in the bottom in the luggage of musician Wayne Coyne. The object is mistaken for a live grenade by frightened staff. ](/news/2012/11/21/will-rogers-world-airport-in-the-u-s-state-of-oklahoma-is-shut-down-over-the-discovery-of-a-painted-golden-object-with-a-hole-in-the-bottom.md)
-_Context: Oklahoma!, Wayne Coyne, Will Rogers World Airport, state_
+_Context: Oklahoma!, U.S. state, Wayne Coyne, Will Rogers World Airport_
 
 ### [Mount Tongariro, a volcano on the North Island of New Zealand, erupts for the second time in four months, with efforts underway to rescue people on the Tongariro Alpine Crossing. ](/news/2012/11/21/mount-tongariro-a-volcano-on-the-north-island-of-new-zealand-erupts-for-the-second-time-in-four-months-with-efforts-underway-to-rescue-pe.md)
 _Context: Mount Tongariro, New Zealand, North Island, Tongariro Alpine Crossing_

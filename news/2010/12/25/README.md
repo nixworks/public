@@ -59,7 +59,7 @@ Prominent opposition candidates of disputed 2009 vote, are barred from leaving c
 The rocket geosynchronous satellite launch vehicle (GSLV) exploded mid-air moments after it took off from the Sriharikota rocket launch centre.
 
 ### [Atlanta in the U.S. state of Georgia gets its first white Christmas in 128 years affecting 500 flights. ](/news/2010/12/25/atlanta-in-the-u-s-state-of-georgia-gets-its-first-white-christmas-in-128-years-affecting-500-flights.md)
-_Context: Atlanta, Georgia, state, white Christmas_
+_Context: Atlanta, Georgia, U.S. state, white Christmas_
 
 ## [Previous Day...](/news/2010/12/24/index.md)
 
