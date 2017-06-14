@@ -1,6 +1,6 @@
 ## [2017-06-14](/news/2017/06/14/index.md)
 
-### [A gunman opens fire at a Congressional Baseball practice, injuring five people, including United States Congressman Steve Scalise (R-LA-01). The suspected gunman later dies from his own injuries. ](/news/2017/06/14/a-gunman-opens-fire-at-a-congressional-baseball-practice-injuring-five-people-including-united-states-congressman-steve-scalise-r-la-01.md)
+### [A gunman opens fire at a Congressional Baseball practice, injuring five people, including United States Congressman Steve Scalise (R-LA-01). The suspected gunman later dies from injuries after exchanging gunfire with law enforcement. ](/news/2017/06/14/a-gunman-opens-fire-at-a-congressional-baseball-practice-injuring-five-people-including-united-states-congressman-steve-scalise-r-la-01.md)
 House Majority Whip Steve Scalise&nbsp;was among five people injured during a shooting while Congress members and staffers were practicing at a baseball field in Alexandria Wednesday morning.&nbsp;
 
 ### [A large fire consumes the 27-storey Grenfell Tower apartment block in North Kensington, West London, with the entire building evacuated and over 40 fire engines and 200 firefighters battling the blaze. At least six people are dead and more people are treated for injuries, with more people possibly being trapped inside. ](/news/2017/06/14/a-large-fire-consumes-the-27-storey-grenfell-tower-apartment-block-in-north-kensington-west-london-with-the-entire-building-evacuated-and.md)
