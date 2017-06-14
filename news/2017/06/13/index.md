@@ -1,6 +1,6 @@
 ## [2017-06-13](/news/2017/06/13/index.md)
 
-### [At least 107 people are dead and dozens missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-107-people-are-dead-and-dozens-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md)
+### [At least 134 people are dead and dozens are missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-134-people-are-dead-and-dozens-are-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md)
 Officials said power and communications were cut in some areas, with weather hampering rescue work.
 
 ### [Dana Shell Smith announces she is resigning as United States Ambassador to Qatar amid regional tensions over Qatar's alleged support for terrorist groups. ](/news/2017/06/13/dana-shell-smith-announces-she-is-resigning-as-united-states-ambassador-to-qatar-amid-regional-tensions-over-qatar-s-alleged-support-for-ter.md)
