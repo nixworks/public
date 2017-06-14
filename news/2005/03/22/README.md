@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: 15 January, 2007, Fabian Osuji, Nigeria, Olusegun Obasanjo, President of Nigeria_
 
 ### [ German airline Lufthansa announces its takeover of Swiss Airlines. ](/news/2005/03/22/german-airline-lufthansa-announces-its-takeover-of-swiss-airlines.md)
-_Context: German, Lufthansa, Swiss Airlines_
+_Context: Germany, Lufthansa, Swiss Airlines_
 
 ### [ In Italy, the Council of State allows Alessandra Mussolini to stand in elections. ](/news/2005/03/22/in-italy-the-council-of-state-allows-alessandra-mussolini-to-stand-in-elections.md)
 _Context: Alessandra Mussolini, Italy_

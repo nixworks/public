@@ -19,7 +19,7 @@ _Context: 2008, Massachusetts governor, Mitt Romney, R, U.S. President_
 _Context: Louisiana, New Orleans, tornado_
 
 ### [ A small business jet heading to Berlin, Germany crashes during take-off at Vnukovo airport in Moscow, Russia. ](/news/2007/02/13/a-small-business-jet-heading-to-berlin-germany-crashes-during-take-off-at-vnukovo-airport-in-moscow-russia.md)
-_Context: Berlin, German, Moscow, Russia, Vnukovo airport_
+_Context: Berlin, Germany, Moscow, Russia, Vnukovo airport_
 
 ### [ Ma Ying-jeou, the party chairman of the Kuomintang, resigns after being indicted by the Taiwan High Prosecutors Office on charges of embezzlement during his tenure as the mayor of Taipei. ](/news/2007/02/13/ma-ying-jeou-the-party-chairman-of-the-kuomintang-resigns-after-being-indicted-by-the-taiwan-high-prosecutors-office-on-charges-of-embezz.md)
 Chinese Nationalist Party (KMT) chief Ma Ying-jeou (馬英九) stepped down

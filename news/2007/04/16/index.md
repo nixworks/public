@@ -7,7 +7,7 @@ Wedding pros offer unique tips to save and still have your dream wedding.
 _Context: Ekmeleddin Ihsanoglu, Moro National Liberation Front, Organisation of Islamic Cooperation, Philippines_
 
 ### [ At least 33 coal miners are trapped in a mine in Baofeng county, Henan province, China. ](/news/2007/04/16/at-least-33-coal-miners-are-trapped-in-a-mine-in-baofeng-county-henan-province-china.md)
-_Context: Baofeng, Chinese, Henan, coal, miner_
+_Context: Baofeng, China, Henan, coal, miner_
 
 ### [ Sudan agrees to allow 3,000 United Nations troops in Darfur to support a 7,000 strong African Union force. ](/news/2007/04/16/sudan-agrees-to-allow-3-000-united-nations-troops-in-darfur-to-support-a-7-000-strong-african-union-force.md)
 _Context: African Union, Darfur, Sudan, United Nations_

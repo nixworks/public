@@ -37,7 +37,7 @@ _Context: David Paterson, Eliot Spitzer prostitution scandal, New York Governor_
 _Context: 2008 municipal elections, France, Nicolas Sarkozy, President of France, UMP_
 
 ### [ German Chancellor Angela Merkel and half of her cabinet visit Israel in a move to upgrade bilateral relations ](/news/2008/03/17/german-chancellor-angela-merkel-and-half-of-her-cabinet-visit-israel-in-a-move-to-upgrade-bilateral-relations.md)
-_Context: Angela Merkel, Chancellor, German, Israel_
+_Context: Angela Merkel, Chancellor, Germany, Israel_
 
 ### [ The trial of Jovica Stanisic and Franko Simatovic, two former Serbian State Security Service officers and allies of Slobodan Milosevic, starts at the International Criminal Tribunal for the former Yugoslavia in The Hague. ](/news/2008/03/17/the-trial-of-jovica-stania-ia-and-franko-simatovia-two-former-serbian-state-security-service-officers-and-allies-of-slobodan-miloa-evia.md)
 _Context: Franko Simatovic, International Criminal Tribunal for the former Yugoslavia, Jovica Stanisic, Serbia, Slobodan Milosevic, State Security Service, The Hague_

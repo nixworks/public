@@ -28,7 +28,7 @@ Kuwaiti government has filed a lawsuit against the Olympic body for more than $1
 _Context: Baltimore, death of Freddie Gray_
 
 ### [An unidentified man who had been reported to have fired shots inside a theater has been shot dead by police in Viernheim, Germany.  No other fatalities were reported. ](/news/2016/06/23/an-unidentified-man-who-had-been-reported-to-have-fired-shots-inside-a-theater-has-been-shot-dead-by-police-in-viernheim-germany-no-other.md)
-_Context: German, Viernheim, Viernheim shooting_
+_Context: Germany, Viernheim, Viernheim shooting_
 
 ### [Voters in the United Kingdom go to the polls to vote in a referendum on whether the UK should leave the European Union. ](/news/2016/06/23/voters-in-the-united-kingdom-go-to-the-polls-to-vote-in-a-referendum-on-whether-the-uk-should-leave-the-european-union.md)
 _Context: European Union, European Union membership referendum, United Kingdom_

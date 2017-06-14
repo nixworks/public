@@ -7,7 +7,7 @@ _Context: Emergency Economic Stabilization Act, US$, United States, United State
 _Context: 2008 World Series, Philadelphia Phillies, Tampa Bay Rays_
 
 ### [ India's Viswanathan Anand retains the World Chess Championship title in Bonn, Germany, by defeating Russia's Vladimir Kramnik. ](/news/2008/10/29/india-s-viswanathan-anand-retains-the-world-chess-championship-title-in-bonn-germany-by-defeating-russiaas-vladimir-kramnik.md)
-_Context: Bonn, German, India, Russia, Viswanathan Anand, Vladimir Kramnik, World Chess Championship_
+_Context: Bonn, Germany, India, Russia, Viswanathan Anand, Vladimir Kramnik, World Chess Championship_
 
 ### [ Danish-based low-cost carrier Sterling Airlines files for bankruptcy and stops all passenger flights after its cash-strapped Icelandic investors were unable keep the company afloat.](/news/2008/10/29/danish-based-low-cost-carrier-sterling-airlines-files-for-bankruptcy-and-stops-all-passenger-flights-after-its-cash-strapped-icelandic-inve.md)
 _Context: Denmark, Iceland, Sterling Airlines, bankruptcy, low-cost carrier_

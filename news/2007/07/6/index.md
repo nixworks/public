@@ -16,7 +16,7 @@ Australian police holding an Indian doctor suspected of links with the plot to e
 For the second time in three months, a former high-ranking official at China’s top food and drug watchdog agency has been sentenced to death.
 
 ### [ An investigation concludes that an explosion in Tianshifu, China that killed 25 was caused by improperly stored explosives. (Wikinews)](/news/2007/07/6/an-investigation-concludes-that-an-explosion-in-tianshifu-china-that-killed-25-was-caused-by-improperly-stored-explosives-wikinews.md)
-_Context: (Wikinews), Chinese, Tianshifu_
+_Context: (Wikinews), China, Tianshifu_
 
 ## [Previous Day...](/news/2007/07/5/index.md)
 

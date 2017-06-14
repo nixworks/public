@@ -34,7 +34,7 @@ Gov. Greg Abbott declared a state of disaster in 31 counties across the state on
 A 6.5 magnitude earthquake struck off the coast of West Sumatra in Indonesia, according to the U.S. Geological Survey.
 
 ### [Turkish President Recep Tayyip Erdogan warns Germany against recognizing the Armenian Genocide. ](/news/2016/06/1/turkish-president-recep-tayyip-erdoaan-warns-germany-against-recognizing-the-armenian-genocide.md)
-_Context: German, President, Recep Tayyip Erdogan, Turkey, genocide of Armenians, recognizing_
+_Context: Germany, President, Recep Tayyip Erdogan, Turkey, genocide of Armenians, recognizing_
 
 ### [According to the Secretary General of NATO Jens Stoltenberg, defense spending by European member states will grow for the first time in a decade. Stoltenberg went on to say that "we are faced with uncertainty. We are faced with more threats, more security challenges, than in a generation". ](/news/2016/06/1/according-to-the-secretary-general-of-nato-jens-stoltenberg-defense-spending-by-european-member-states-will-grow-for-the-first-time-in-a-de.md)
 _Context: Jens Stoltenberg, Secretary General of NATO, membership_

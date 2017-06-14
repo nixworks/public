@@ -40,7 +40,7 @@ Colombia said Friday that three people had died after contracting the Zika virus
 A man is shot dead at a Dublin boxing weigh-in, in a suspected gangland attack by gunmen dressed as police officers and armed with AK47s.
 
 ### [Wei Hong is removed as the Governor of China's Sichuan province due to perceived disloyalty to the Communist Party. ](/news/2016/02/5/wei-hong-is-removed-as-the-governor-of-china-s-sichuan-province-due-to-perceived-disloyalty-to-the-communist-party.md)
-_Context: Chinese, Communist Party of China, Sichuan, Wei Hong_
+_Context: China, Communist Party of China, Sichuan, Wei Hong_
 
 ### [White supremacists in the U.S. state of New Hampshire create a super PAC to support U.S. presidential candidate Donald Trump's presidential campaign. ](/news/2016/02/5/white-supremacists-in-the-u-s-state-of-new-hampshire-create-a-super-pac-to-support-u-s-presidential-candidate-donald-trump-s-presidential.md)
 _Context: Donald Trump, New Hampshire, super PAC_

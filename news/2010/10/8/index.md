@@ -10,7 +10,7 @@ _Context: Khyber Agency_
 _Context: Kunduz, Mohammad Omar_
 
 ### [German officials say that Islamic militants whose disclosures have triggered a Europe-wide terror alert, have links to the perpetrators of the September 11 attacks on the United States in 2001. ](/news/2010/10/8/german-officials-say-that-islamic-militants-whose-disclosures-have-triggered-a-europe-wide-terror-alert-have-links-to-the-perpetrators-of-t.md)
-_Context: Europe-wide terror alert, German, Islamic terrorism, September 11 attacks, United States_
+_Context: Europe-wide terror alert, Germany, Islamic terrorism, September 11 attacks, United States_
 
 ### [A Taiwanese ship initially believed to have been hijacked off the coast of Madagascar is later found safe. ](/news/2010/10/8/a-taiwanese-ship-initially-believed-to-have-been-hijacked-off-the-coast-of-madagascar-is-later-found-safe.md)
 A Taiwanese ship reported to have been seized by pirates east of Madagascar had just &quot;lost touch&quot; with its owner, according to the EU naval force fighting piracy in the Indian Ocean.
@@ -22,7 +22,7 @@ Deaths reported after overnight military operation in West Bank town of Hebron.
 John Lennon, the late Beatles singer, has been celebrated with a special interactive Google doodle to commemorate what would have been his 70th birthday.
 
 ### [German film ''The White Ribbon'' wins the BBC Four World Cinema Award. ](/news/2010/10/8/german-film-the-white-ribbon-wins-the-bbc-four-world-cinema-award.md)
-_Context: BBC Four, German, The White Ribbon, World Cinema Award_
+_Context: BBC Four, Germany, The White Ribbon, World Cinema Award_
 
 ### [United States gospel music singer Albertina Walker, known as the "Queen of Gospel" dies in Chicago. ](/news/2010/10/8/united-states-gospel-music-singer-albertina-walker-known-as-the-queen-of-gospel-dies-in-chicago.md)
 _Context: Albertina Walker, Gospel, United States_

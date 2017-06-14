@@ -13,7 +13,7 @@ Chinese film star Zhang Ziyi wins damages from a US-based website that published
 _Context: 2014 Winter Olympics, Billie Jean King, Caitlin Cahow, LGBT rights in Russia, Russia, Sochi, United States, gay and bisexual men_
 
 ### [China launches a crackdown against the internet currency BitCoin, plunging its value by 35%. ](/news/2013/12/18/china-launches-a-crackdown-against-the-internet-currency-bitcoin-plunging-its-value-by-35.md)
-_Context: Chinese, bitcoin_
+_Context: China, bitcoin_
 
 ### [Mega Millions lottery:At least two winners in the US$636 million jackpot are thought to have won, with one in Stone Mountain, Georgia, and another in  San Jose, California. ](/news/2013/12/18/mega-millions-lottery-pat-least-two-winners-in-the-us-636-million-jackpot-are-thought-to-have-won-with-one-in-stone-mountain-georgia-and.md)
 _Context: Mega Millions, San Jose, California, Stone Mountain, Georgia_

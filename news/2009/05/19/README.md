@@ -40,10 +40,10 @@ _Context: Brazil, People's Republic of China, Petrobras, US$, petroleum industry
 _Context: European Parliament, Spain, reform_
 
 ### [ A 47-million-year-old skeleton of a lemur species is discovered in Germany. ](/news/2009/05/19/a-47-million-year-old-skeleton-of-a-lemur-species-is-discovered-in-germany.md)
-_Context: German, lemur, skeleton, species_
+_Context: Germany, lemur, skeleton, species_
 
 ### [ Somali pirates release the German cargo ship MV ''Patriot''. ](/news/2009/05/19/somali-pirates-release-the-german-cargo-ship-mv-patriot.md)
-_Context: German, MV, Patriot, Somali pirates, Somalia, cargo ship_
+_Context: Germany, MV, Patriot, Somali pirates, Somalia, cargo ship_
 
 ### [ Bahrain recognizes Kosovo. ](/news/2009/05/19/bahrain-recognizes-kosovo.md)
 _Context: Bahrain, Kosovo, Kosovo_

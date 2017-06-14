@@ -61,7 +61,7 @@ _Context: Bayo Ohu, Lagos, Nigeria, The Guardian_
 _Context: South Africa, murder, robbery, sexual offences_
 
 ### [ Chinese President Hu Jintao tells a U.N. summit on climate change that China will reduce greenhouse gas emissions and increase reliance on clean energy sources in coming years. ](/news/2009/09/22/chinese-president-hu-jintao-tells-a-u-n-summit-on-climate-change-that-china-will-reduce-greenhouse-gas-emissions-and-increase-reliance-on.md)
-_Context: Chinese, President Hu Jintao, U.N., climate change, greenhouse gas emissions_
+_Context: China, President Hu Jintao, U.N., climate change, greenhouse gas emissions_
 
 ### [ The 2009 Pacific Mini Games opens in Rarotonga, Cook Islands. ](/news/2009/09/22/the-2009-pacific-mini-games-opens-in-rarotonga-cook-islands.md)
 _Context: 2009 Pacific Mini Games, Cook Islands, Rarotonga_
@@ -79,7 +79,7 @@ Sixteen Vietnamese doctors, nurses and officials sold 266 babies for overseas ad
 _Context: Bhutan_
 
 ### [ Security is tightened across Germany after the emergence of al-Qaeda videos threatening attacks if troops are not withdrawn from Afghanistan. ](/news/2009/09/22/security-is-tightened-across-germany-after-the-emergence-of-al-qaeda-videos-threatening-attacks-if-troops-are-not-withdrawn-from-afghanista.md)
-_Context: Afghan, German, al-Qaeda_
+_Context: Afghan, Germany, al-Qaeda_
 
 ### [ Cities around the world celebrate World Car Free Day. ](/news/2009/09/22/cities-around-the-world-celebrate-world-car-free-day.md)
 _Context: World Car Free Day_

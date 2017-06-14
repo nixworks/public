@@ -28,7 +28,7 @@ _Context: Pope Benedict XVI, Turkey_
 _Context: Sonthi Boonyaratglin, Thailand, coup, martial law_
 
 ### [ Nuclear envoys from North Korea, China and the United States meet to discuss North Korea's nuclear program. ](/news/2006/11/28/nuclear-envoys-from-north-korea-china-and-the-united-states-meet-to-discuss-north-korea-s-nuclear-program.md)
-_Context: Chinese, North Korea, United States_
+_Context: China, North Korea, United States_
 
 ### [ The Prime Minister of Fiji Laisenia Qarase flies to New Zealand to hold talks with Commodore Frank Bainimarama tomorrow as part of efforts sponsored by the New Zealand Government to avert a coup d'etat. ](/news/2006/11/28/the-prime-minister-of-fiji-laisenia-qarase-flies-to-new-zealand-to-hold-talks-with-commodore-frank-bainimarama-tomorrow-as-part-of-efforts.md)
 _Context: Laisenia Qarase, New Zealand, Prime Minister, Voreqe Bainimarama, coup_

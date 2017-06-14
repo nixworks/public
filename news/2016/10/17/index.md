@@ -19,7 +19,7 @@ HANOI, Vietnam (AP) — Floods triggered by heavy rains have killed 24 people an
 At least 30 people were killed when two buses collided in a head-on crash in Pakistan. Police said speeding on a dangerous curve seemed to be the cause of the accident in the Rahim Yar Khan district on Monday. Women and children are among the dead and another 69 are thought to be injured. Deadly road accidents are common in Pakistan, mainly because of bad road infrastructure and reckless driving habits. Pakistan&amp;#39;s Prime Minister Nawaz Sharif expressed &quot;deep grief and sorrow over the loss of precious lives&quot;. 
 
 ### [An explosion and fire in Ludwigshafen, at the largest production site of BASF in Germany, kills at least two people and injures six more with two people still missing. BASF is the world's biggest chemical producer. ](/news/2016/10/17/an-explosion-and-fire-in-ludwigshafen-at-the-largest-production-site-of-basf-in-germany-kills-at-least-two-people-and-injures-six-more-wit.md)
-_Context: BASF, German, Ludwigshafen, chemical producer_
+_Context: BASF, Germany, Ludwigshafen, chemical producer_
 
 ### [A fire breaks out at a hospital in the East Indian city of Bhubaneswar, Odisha, killing at least 20 people. ](/news/2016/10/17/a-fire-breaks-out-at-a-hospital-in-the-east-indian-city-of-bhubaneswar-odisha-killing-at-least-20-people.md)
 _Context: Bhubaneswar, East India, Odisha_

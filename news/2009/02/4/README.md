@@ -37,7 +37,7 @@ _Context: 2007 assassination, Ban Ki-moon, Benazir Bhutto, Pakistan, UN Secretar
 _Context: Colombia, Titanoboa cerrejonensis_
 
 ### [ German public television station ZDF reports that Nazi fugitive Aribert Heim died in 1992. ](/news/2009/02/4/german-public-television-station-zdf-reports-that-nazi-fugitive-aribert-heim-died-in-1992.md)
-_Context: Aribert Heim, German, Nazi, ZDF, fugitive, public television_
+_Context: Aribert Heim, Germany, Nazi, ZDF, fugitive, public television_
 
 ### [ Eight trucks are attacked en route to Afghanistan by suspected Taliban militants. ](/news/2009/02/4/eight-trucks-are-attacked-en-route-to-afghanistan-by-suspected-taliban-militants.md)
 _Context: Afghan, Taliban_

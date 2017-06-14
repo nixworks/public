@@ -64,7 +64,7 @@ _Context: Irish Daily Star, Kate Middleton, Michael O'Kane_
 _Context: Alan Shatter, Florida_
 
 ### [Protests continue at a Chinese co-owned copper mine in the Sagaing Region of Burma over alleged land grabbing and environmental concerns. ](/news/2012/09/17/protests-continue-at-a-chinese-co-owned-copper-mine-in-the-sagaing-region-of-burma-over-alleged-land-grabbing-and-environmental-concerns.md)
-_Context: Burma, Chinese, Sagaing Region, copper_
+_Context: Burma, China, Sagaing Region, copper_
 
 ### [The UK Government announces a shake-up of secondary education qualifications, which will see GCSEs in core subjects in England replaced by a qualification called the English Baccalaureate. ](/news/2012/09/17/the-uk-government-announces-a-shake-up-of-secondary-education-qualifications-which-will-see-gcses-in-core-subjects-in-england-replaced-by-a.md)
 A shake-up of school qualifications will mean GCSE exams in England are going to be replaced in core subjects by a qualification called the English Baccalaureate Certificate.

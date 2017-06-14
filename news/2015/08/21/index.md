@@ -10,7 +10,7 @@ At least 65 civilians die in air strikes by a Saudi-led coalition in the Yemeni 
 Police investigate incident near Arras, France, in which three US citizens – two of them soldiers – prevented attack by suspect reportedly armed with AK-47
 
 ### [A bottle with a letter left inside by British marine biologist George Parker Bidder III is discovered by a woman vacationing in Germany. The bottle dating from 1906, if confirmed, would be the world's oldest message in a bottle found to date. ](/news/2015/08/21/a-bottle-with-a-letter-left-inside-by-british-marine-biologist-george-parker-bidder-iii-is-discovered-by-a-woman-vacationing-in-germany-the.md)
-_Context: George Parker Bidder III, German, message in a bottle_
+_Context: George Parker Bidder III, Germany, message in a bottle_
 
 ### [Britain's Information Commissioner's Office orders Google, Inc. to remove,  from its search engines, links to news stories about Google's implementation of a "right to be forgotten" request, that include identifying information about a decade-old shoplifting conviction, which the Information Commission's Office considers as being no longer relevant. The order applies only in the United Kingdom. ](/news/2015/08/21/britain-s-information-commissioner-s-office-orders-google-inc-to-remove-from-its-search-engines-links-to-news-stories-about-google-s-im.md)
 _Context: Google, Information Commissioner's Office, Right to be forgotten (RTBF), United Kingdom_

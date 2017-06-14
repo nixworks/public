@@ -40,7 +40,7 @@ Apple&#039;s new cloud music service has been criticised by sections of the musi
 _Context: People's Republic of China, coal mine_
 
 ### [Test results will confirm whether the German ''E. Coli'' outbreak came from vegetable sprouts grown in the Uelzen area. ](/news/2011/06/6/test-results-will-confirm-whether-the-german-e-coli-outbreak-came-from-vegetable-sprouts-grown-in-the-uelzen-area.md)
-_Context: E. coli blamed for 46 deaths, German, Uelzen_
+_Context: E. coli blamed for 46 deaths, Germany, Uelzen_
 
 ### [Residents of three Western United States towns - Springerville, Arizona, Eagar, Arizona and Luna, New Mexico - are warned to prepare for evacuation ahead of the Wallow Fire. one of the biggest in Arizona history. ](/news/2011/06/6/residents-of-three-western-united-states-towns-springerville-arizona-eagar-arizona-and-luna-new-mexico-are-warned-to-prepare-for-eva.md)
 The Apache County Sheriff&rsquo;s Office has issued a mandatory evacuation order for Greer, Arizona.

@@ -13,7 +13,7 @@ _Context: 2012 South Sudan-Sudan border conflict, South Sudan, Sudan_
 Thousands march through the streets of Johannesburg as outrage and tension over controversial painting continue.
 
 ### [China's best-known microblogging site Sina Weibo introduces new restrictions on the content its 300 million users can post. ](/news/2012/05/29/china-s-best-known-microblogging-site-sina-weibo-introduces-new-restrictions-on-the-content-its-300-million-users-can-post.md)
-_Context: Chinese, Sina Weibo, microblog_
+_Context: China, Sina Weibo, microblog_
 
 ### [Four of Wall Street's market makers involved in Facebook's botched IPO are expecting losses from technical glitches to be around US$115&nbsp;million. ](/news/2012/05/29/four-of-wall-street-s-market-makers-involved-in-facebook-s-botched-ipo-are-expecting-losses-from-technical-glitches-to-be-around-us-115-nbsp.md)
 _Context: Facebook, IPO, Wall Street_

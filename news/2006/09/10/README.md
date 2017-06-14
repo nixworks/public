@@ -16,7 +16,7 @@ _Context: Afghan, Afghan National Army, NATO, Operation Medusa, Taliban, Taliban
 _Context: Bermuda, Hurricane Florence, Saffir-Simpson Hurricane Scale, Tropical Storm Watch_
 
 ### [ The most successful driver in Formula One history, German Michael Schumacher, announces his retirement from the sport at the end of the 2006 season. ](/news/2006/09/10/the-most-successful-driver-in-formula-one-history-german-michael-schumacher-announces-his-retirement-from-the-sport-at-the-end-of-the-200.md)
-_Context: 2006 season, Formula One, German, Michael Schumacher_
+_Context: 2006 season, Formula One, Germany, Michael Schumacher_
 
 ### [ Daniel Wayne Smith, (son of Anna Nicole Smith), dies from a drug overdose just three days after his half-sister is born.](/news/2006/09/10/daniel-wayne-smith-son-of-anna-nicole-smith-dies-from-a-drug-overdose-just-three-days-after-his-half-sister-is-born.md)
 _Context: Anna Nicole Smith, Daniel Wayne Smith_

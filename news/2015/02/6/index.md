@@ -7,7 +7,7 @@ The parents of a US hostage who Islamic State militants say was killed by a Jord
 _Context: Boko Haram, Chad Air Force, Niger, Niger Army_
 
 ### [German engineering firm Siemens announces plans to axe 7,800 jobs, 3000  of which are in Germany. ](/news/2015/02/6/german-engineering-firm-siemens-announces-plans-to-axe-7-800-jobs-3000-of-which-are-in-germany.md)
-_Context: German, German, Siemens_
+_Context: German, Germany, Siemens_
 
 ### [Ecuador declares a state of emergency in the Galpagos Islands after a ship, ''The Floreana'', carrying hazardous materials ran aground January 28. ](/news/2015/02/6/ecuador-declares-a-state-of-emergency-in-the-galapagos-islands-after-a-ship-the-floreana-carrying-hazardous-materials-ran-aground-janu.md)
 _Context: Ecuador, Galpagos Islands, state of emergency_

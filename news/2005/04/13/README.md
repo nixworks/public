@@ -13,7 +13,7 @@ _Context: 2007, Bulgaria, European Parliament, European Union, Romania_
 _Context: Conflict in Iraq, Iraq, Iraqi insurgency, Kirkuk, decoy, police_
 
 ### [ Japan increases the already boiling tension with China as Japan's Ministry of Economy, Trade and Industry begins allowing Japanese companies rights to drill for oil in a part of the East China Sea claimed by both nations. ](/news/2005/04/13/japan-increases-the-already-boiling-tension-with-china-as-japan-s-ministry-of-economy-trade-and-industry-begins-allowing-japanese-companie.md)
-_Context: Chinese, East China Sea, Japan, Politics of Japan, oil_
+_Context: China, East China Sea, Japan, Politics of Japan, oil_
 
 ### [ The College of American Pathologists asks laboratories worldwide to destroy a flu sample they sent in their testing kits. The Canadian National Microbial Laboratory identified it as a strain of Asian flu virus that killed millions in 1957. People born after 1969 would have no antibodies to resist it. The World Health Organization supports the plea. ](/news/2005/04/13/the-college-of-american-pathologists-asks-laboratories-worldwide-to-destroy-a-flu-sample-they-sent-in-their-testing-kits-the-canadian-nati.md)
 _Context: 1957, 1969, Asian flu, Canada, College of American Pathologists, World Health Organization, antibody, flu_
@@ -31,7 +31,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Adolphus Wabara, Fabion Osuji, Nigeria_
 
 ### [ In Germany, Armin Meiwes appeals for the reduction his sentence of eight years for cannibalism. His defense says that the killing was a mercy killing, eligible only for five years. State prosecutors appeal as well so he could retried for murder. ](/news/2005/04/13/in-germany-armin-meiwes-appeals-for-the-reduction-his-sentence-of-eight-years-for-cannibalism-his-defense-says-that-the-killing-was-a-mer.md)
-_Context: Armin Meiwes, German, eat, murder_
+_Context: Armin Meiwes, Germany, eat, murder_
 
 ### [ A group of Indigenous Australians threaten to disrupt the Commonwealth Games next year unless prime minister John Howard and others are charged with genocide. ](/news/2005/04/13/a-group-of-indigenous-australians-threaten-to-disrupt-the-commonwealth-games-next-year-unless-prime-minister-john-howard-and-others-are-cha.md)
 _Context: Commonwealth, Indigenous, John Howard, genocide_

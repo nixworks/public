@@ -10,7 +10,7 @@ A pipeline taking gas from Egypt to Israel and Jordan explodes after an attack b
 Troops from Thailand and Cambodia exchange fire again along their disputed border, as the death toll from six days of conflict rises to 14.
 
 ### [BP discovers a German naval mine from World War II near pipelines in the North Sea near Peterhead, Scotland with removal of the bomb likely to lead to the temporary closure of 16 oil fields and a consequent rise in the price of oil. ](/news/2011/04/27/bp-discovers-a-german-naval-mine-from-world-war-ii-near-pipelines-in-the-north-sea-near-peterhead-scotland-with-removal-of-the-bomb-likely.md)
-_Context: BP, German, North Sea, Peterhead, Scotland, World War II, naval mine_
+_Context: BP, Germany, North Sea, Peterhead, Scotland, World War II, naval mine_
 
 ### [Ivory Coast militia leader Ibrahim Coulibaly is killed in fighting with the forces of new President Alassane Ouattara. ](/news/2011/04/27/ivory-coast-militia-leader-ibrahim-coulibaly-is-killed-in-fighting-with-the-forces-of-new-president-alassane-ouattara.md)
 Ibrahim Coulibaly, an Ivory Coast militia leader who has been behind several coup attempts in the past decade, is killed by forces loyal to new President Alassane Ouattara.

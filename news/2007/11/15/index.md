@@ -4,7 +4,7 @@
 _Context: CFDT, France, Nicolas Sarkozy, President of France, energy, pension reform, public-sector strikes, strike, transport_
 
 ### [ German train drivers extend their strike action against Deutsche Bahn, starting a 48-hour passenger service strike. ](/news/2007/11/15/german-train-drivers-extend-their-strike-action-against-deutsche-bahn-starting-a-48-hour-passenger-service-strike.md)
-_Context: Deutsche Bahn, German, passenger, strike, train driver_
+_Context: Deutsche Bahn, Germany, passenger, strike, train driver_
 
 ### [ The United Nations General Assembly Third Committee approves a resolution draft that calls for a moratorium on the capital punishment. ](/news/2007/11/15/the-united-nations-general-assembly-third-committee-approves-a-resolution-draft-that-calls-for-a-moratorium-on-the-capital-punishment.md)
 _Context: Third Committee, United Nations, United Nations General Assembly, death penalty, moratorium, unenforceable resolution_

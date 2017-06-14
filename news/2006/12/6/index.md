@@ -13,7 +13,7 @@ _Context: Kay Patterson, Lower House, conscience vote, federal representation in
 _Context: Robert Gates, Secretary of Defense, United States Senate_
 
 ### [ Philippe Douste-Blazy, the Foreign Minister of France, says that the United Nations Security Council will impose sanctions on Iran for its nuclear program. However, the five permanent members of the Security Council as well as Germany have failed to agree on what the sanctions should be. ](/news/2006/12/6/philippe-douste-blazy-the-foreign-minister-of-france-says-that-the-united-nations-security-council-will-impose-sanctions-on-iran-for-its.md)
-_Context: Foreign Minister of France, German, Iran, Philippe Douste-Blazy, United Nations Security Council_
+_Context: Foreign Minister of France, Germany, Iran, Philippe Douste-Blazy, United Nations Security Council_
 
 ### [ 2006 Fijian coup d'tat: Fijian military Commodore Frank Bainimarama, the leader of the coup, usurps Ratu Josefa Iloilo as President of Fiji.  He promises to ask the Great Council of Chiefs to reappoint Iloilo to the office in one week's time. ](/news/2006/12/6/2006-fijian-coup-d-etat-p-fijian-military-commodore-frank-bainimarama-the-leader-of-the-coup-usurps-ratu-josefa-iloilo-as-president-of-fi.md)
 _Context: Great Council of Chiefs, Josefa Iloilo, President of Fiji, Ratu, Voreqe Bainimarama, coup in 2006_

@@ -13,7 +13,7 @@ _Context: Canada, Okanagan, wildfire_
 _Context: India, United States_
 
 ### [ 260 cars pile up in Germany. ](/news/2009/07/20/260-cars-pile-up-in-germany.md)
-_Context: German_
+_Context: Germany_
 
 ### [ Tuvalu announces its plan to become the world's first carbon neutral country by 2020. ](/news/2009/07/20/tuvalu-announces-its-plan-to-become-the-world-s-first-carbon-neutral-country-by-2020.md)
 The tiny South Pacific island nation of Tuvalu could become the first zero-carbon country after vowing to abandon fossil fuels and generate all of its energy from renewable sources by 2020.

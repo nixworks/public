@@ -28,7 +28,7 @@ _Context: Georgia, Russia, World Trade Organization_
 _Context: European Union, George Papandreou, Greece, Greek Prime Minister, referendum_
 
 ### [China's unmanned Shenzhou 8 spacecraft successfully docks with the orbiting Tiangong 1 space station module, marking China's first orbital docking. ](/news/2011/11/2/china-s-unmanned-shenzhou-8-spacecraft-successfully-docks-with-the-orbiting-tiangong-1-space-station-module-marking-china-s-first-orbital-d.md)
-_Context: Chinese, Shenzhou 8, Tiangong-1, space station_
+_Context: China, Shenzhou 8, Tiangong-1, space station_
 
 ## [Previous Day...](/news/2011/11/1/index.md)
 

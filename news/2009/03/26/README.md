@@ -10,7 +10,7 @@ _Context: Abel Prize, France, Mathematicians, Mikhail Gromov, Russia_
 _Context: Andorra, Co-Prince, France, Nicolas Sarkozy, President of France, bank_
 
 ### [ Germany admits that the unidentified Phantom of Heilbronn serial killer never existed. ](/news/2009/03/26/germany-admits-that-the-unidentified-phantom-of-heilbronn-serial-killer-never-existed.md)
-_Context: German, Phantom of Heilbronn, serial killer_
+_Context: Germany, Phantom of Heilbronn, serial killer_
 
 ### [ Sudan alleges that an aircraft attacked an arms trafficking convoy near Port Sudan in January 2009. ](/news/2009/03/26/sudan-alleges-that-an-aircraft-attacked-an-arms-trafficking-convoy-near-port-sudan-in-january-2009.md)
 Two senior politicians say unidentified aircraft attacked a convoy of suspected arms smugglers as it drove through Sudan toward Egypt in January, killing almost everyone in the convoy

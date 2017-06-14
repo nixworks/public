@@ -61,7 +61,7 @@ _Context: 2007 presidential election, Kenya, ODM-Kenya_
 _Context: Charles Murigande, Democratic Forces for the Liberation of Rwanda, Democratic Republic of Congo, Rwanda_
 
 ### [ War in Afghanistan: Three Germans are killed by a bomb attack near Kabul. ](/news/2007/08/15/war-in-afghanistan-p-three-germans-are-killed-by-a-bomb-attack-near-kabul.md)
-_Context: German, Kabul, War in Afghanistan (2001-present)_
+_Context: Germany, Kabul, War in Afghanistan (2001-present)_
 
 ### [ On the 62nd anniversary of Japan's surrender in World War II, Prime Minister Shinzo Abe and his ministers do not visit the Yasukuni Shrine. ](/news/2007/08/15/on-the-62nd-anniversary-of-japan-s-surrender-in-world-war-ii-prime-minister-shinzo-abe-and-his-ministers-do-not-visit-the-yasukuni-shrine.md)
 _Context: Japan, Prime Minister, Shinzo Abe, World War II, Yasukuni Shrine_

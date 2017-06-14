@@ -13,7 +13,7 @@ New satellite imagery appears to reveal extensive damage to a major airbase in S
 Ukraine said on Tuesday seven of its servicemen had been killed in the past 24 hours as a result of increased attacks by pro-Russian rebels, the highest reported daily casualty figure since August.
 
 ### [American agrochemical and agricultural biotechnology company Monsanto rejects an unsolicited $62 billion takeover bid by German pharmaceutical giant Bayer, saying the price was too low but adding that it remained "open to further talks." ](/news/2016/05/24/american-agrochemical-and-agricultural-biotechnology-company-monsanto-rejects-an-unsolicited-62-billion-takeover-bid-by-german-pharmaceutic.md)
-_Context: Bayer, German, Monsanto, United States, agricultural biotechnology, agrochemical_
+_Context: Bayer, Germany, Monsanto, United States, agricultural biotechnology, agrochemical_
 
 ### [Eleven people are dead and many are missing after a jade mine collapses in the Myanmar town of Hpakant. ](/news/2016/05/24/eleven-people-are-dead-and-many-are-missing-after-a-jade-mine-collapses-in-the-myanmar-town-of-hpakant.md)
 YANGON: At least 11 people died in a landslide in a remote jade mining region of northern Myanmar with many more feared missing, authorities said Tuesday, the latest deadly incident to hit the shadowy industry.

@@ -28,7 +28,7 @@ _Context: Islam, Libya_
 A German court has sentenced an 88-year-old former SS member to life in prison for the murder of three men in the Netherlands in 1944.
 
 ### [Four German pensioners aged 61 to 80 are found guilty of kidnapping their own financial adviser from his home and driving him 450km (280 miles) to southern Bavaria, with the ringleader and his accomplice being jailed. ](/news/2010/03/23/four-german-pensioners-aged-61-to-80-are-found-guilty-of-kidnapping-their-own-financial-adviser-from-his-home-and-driving-him-450km-280-mil.md)
-_Context: Bavaria, German_
+_Context: Bavaria, Germany_
 
 ### [United States President Barack Obama signs the health care reform bill into law. ](/news/2010/03/23/united-states-president-barack-obama-signs-the-health-care-reform-bill-into-law.md)
 The most sweeping social legislation enacted in decades became law after a festive, at times raucous, signing ceremony in the White House on Tuesday.

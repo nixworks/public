@@ -13,7 +13,7 @@ _Context: Abdoulaye Wade, France, President, Senegal_
 Chinese vessel leaking oil after running aground on the Great Barrier Reef.
 
 ### [Three car bombs hit the Egyptian, German and Iranian embassies in the centre of the Iraqi capital, Baghdad, in quick succession, killing at least 30 people. ](/news/2010/04/4/three-car-bombs-hit-the-egyptian-german-and-iranian-embassies-in-the-centre-of-the-iraqi-capital-baghdad-in-quick-succession-killing-at.md)
-_Context: Baghdad, Egypt, German, Iran, Iraq, triple bombings_
+_Context: Baghdad, Egypt, Germany, Iran, Iraq, triple bombings_
 
 ### [President of Afghanistan Hamid Karzai threatens to join the Taliban if the Afghani Parliament refuses to approve his proposal to take control of the electoral apparatus from the United Nations. ](/news/2010/04/4/president-of-afghanistan-hamid-karzai-threatens-to-join-the-taliban-if-the-afghani-parliament-refuses-to-approve-his-proposal-to-take-contro.md)
 _Context: Afghan, Afghanistan President, Hamid Karzai, Taliban, United Nations_

@@ -40,7 +40,7 @@ _Context: An earthquake, Indonesia, Jakarta, magnitude_
 _Context: 2007 South Asian floods, Bihar, Gujarat, India, floods_
 
 ### [ In Germany the labour court of Nuremberg prohibited the strike prepared by the ''Gewerkschaft Deutscher Lokomotivfuhrer'' (GDL), which was to be the largest in 15 years. According to the ''Deutsche Bahn'' train company, the strike was prohibited because of the heavy tribute which would have been paid by the national economy [http://news.bbc.co.uk/2/hi/business/6936778.stm (BBC)].](/news/2007/08/8/in-germany-the-labour-court-of-nuremberg-prohibited-the-strike-prepared-by-the-gewerkschaft-deutscher-lokomotivfa1-4hrer-gdl-which-was.md)
-_Context: Deutsche Bahn, German, Gewerkschaft Deutscher Lokomotivfuhrer, Nuremberg, economy of Germany, labour court, strike_
+_Context: Deutsche Bahn, Germany, Gewerkschaft Deutscher Lokomotivfuhrer, Nuremberg, economy of Germany, labour court, strike_
 
 ### [ Two people killed and several injured as a bomb hidden in a bicycle parked at a police station explodes at Jorhat, Assam, India](/news/2007/08/8/two-people-killed-and-several-injured-as-a-bomb-hidden-in-a-bicycle-parked-at-a-police-station-explodes-at-jorhat-assam-india.md)
 _Context: Assam, India, Jorhat_
@@ -52,7 +52,7 @@ _Context: North Waziristan, Pakistan, Taliban_
 _Context: Hohhot, Inner Mongolia, Zeng Qinghong_
 
 ### [ China sends investigators to investigate illegally-built government offices in 30 provinces. ](/news/2007/08/8/china-sends-investigators-to-investigate-illegally-built-government-offices-in-30-provinces.md)
-_Context: Chinese_
+_Context: China_
 
 ### [ The Reserve Bank of Australia raises interest rates to 6.5%, the highest level in Australia since 1996. ](/news/2007/08/8/the-reserve-bank-of-australia-raises-interest-rates-to-6-5-the-highest-level-in-australia-since-1996.md)
 _Context: 1996, Australia, Reserve Bank of Australia, interest rates_

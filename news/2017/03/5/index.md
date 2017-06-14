@@ -7,7 +7,7 @@ Most of those freed by SPLM-N described by army as troops captured in fighting i
 First-time offenders will face $270 fine if caught using marijuana in a public place, but criminal charges will only be brought if person re-offends four times.
 
 ### [South Korea announces it will be raising its US$217,000 cash reward for classified information from North Korea by defectors to $860,000. ](/news/2017/03/5/south-korea-announces-it-will-be-raising-its-us-217-000-cash-reward-for-classified-information-from-north-korea-by-defectors-to-860-000.md)
-_Context: North Korea, South Korea, US$, defectors_
+_Context: North Korea, North Korean defectors, South Korea, US$_
 
 ## [Previous Day...](/news/2017/03/4/index.md)
 

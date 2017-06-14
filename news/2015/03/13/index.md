@@ -1,7 +1,7 @@
 ## [2015-03-13](/news/2015/03/13/index.md)
 
 ### [A Myanmar air raid aimed at rebels on its border with China drops bombs on the Chinese city of Lincang killing four people. ](/news/2015/03/13/a-myanmar-air-raid-aimed-at-rebels-on-its-border-with-china-drops-bombs-on-the-chinese-city-of-lincang-killing-four-people.md)
-_Context: Chinese, Lincang, Myanmar_
+_Context: China, Lincang, Myanmar_
 
 ### [Among the over 2,000 delegates from 112 different countries, U.S. Secretary of State, John Kerry, delivers a speech during the investment summit held in the Egyptian resort town of Sharm el-Sheikh. ](/news/2015/03/13/among-the-over-2-000-delegates-from-112-different-countries-u-s-secretary-of-state-john-kerry-delivers-a-speech-during-the-investment-su.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

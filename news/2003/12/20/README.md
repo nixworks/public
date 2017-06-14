@@ -1,7 +1,7 @@
 ## [2003-12-20](/news/2003/12/20/index.md)
 
 ### [ The Holy See announces plans to beatify the last Austro-Hungarian emperor Karl. Karl, who was overthrown in 1918 and died in exile in 1922, is expected to be beatified, a step to sainthood, in the next year. Karl's widow, Zita of Bourbon-Parma died in 1989. His son, former Crown Prince Otto von Habsburg was until recently a German MEP. ](/news/2003/12/20/the-holy-see-announces-plans-to-beatify-the-last-austro-hungarian-emperor-karl-karl-who-was-overthrown-in-1918-and-died-in-exile-in-1922.md)
-_Context: 1918, 1922, Austro-Hungarian, Crown Prince, German, Holy See, Karl, Member of the European Parliament, Otto von Habsburg, Zita of Bourbon-Parma, beatified, emperor, saints_
+_Context: 1918, 1922, Austro-Hungarian, Crown Prince, Germany, Holy See, Karl, Member of the European Parliament, Otto von Habsburg, Zita of Bourbon-Parma, beatified, emperor, saints_
 
 ### [ CCTV footage at Hampton Court Palace near London, once home of King Henry VIII of England, is released, and claimed to show a "ghost". The footage, taken in October 2003, shows a man in 16th century clothes closing a firedoor that had blown open. The palace markets itself as one of Britain's most haunted locations. ](/news/2003/12/20/cctv-footage-at-hampton-court-palace-near-london-once-home-of-king-henry-viii-of-england-is-released-and-claimed-to-show-a-ghost-the.md)
 _Context: 16th-century, CCTV, Hampton Court, Henry VIII of England, United Kingdom, ghost_
@@ -31,7 +31,7 @@ _Context: Malaysia, United Kingdom, website_
 _Context: Morgan Tsvangirai, Robert Mugabe, Zimbabwe, newspaper_
 
 ### [ Eleven people, mainly young people from Germany, die in a bus crash in Belgium. [http://www.sky.com/skynews/article/0,,30000-12955762,00.html]](/news/2003/12/20/eleven-people-mainly-young-people-from-germany-die-in-a-bus-crash-in-belgium-http-www-sky-com-skynews-article-0-30000-12955762-00-ht.md)
-_Context: Belgium, German, bus_
+_Context: Belgium, Germany, bus_
 
 ### [ In Comoros, leaders signed an agreement clearing the way for legislative elections in April. [http://www.irinnews.org/report.asp?ReportID=38549&SelectRegion=Southern_Africa&SelectCountry=COMOROS]](/news/2003/12/20/in-comoros-leaders-signed-an-agreement-clearing-the-way-for-legislative-elections-in-april-http-www-irinnews-org-report-asp-reportid-3.md)
 _Context: Comoros_

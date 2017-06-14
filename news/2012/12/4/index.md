@@ -7,7 +7,7 @@ As shelling in the Damascus suburbs worsened, the United Nations warned that it 
 _Context: Belfast City Council, Belfast City Hall, Belfast City Hall flag protests, Northern Ireland, Union Flag_
 
 ### [In a setback to the movement toward banking union in the EU, Germany's finance minister Wolfgang Schauble says he will not allow a unitary system of supervision without changes in the underlying treaties. [http://www.ft.com/intl/cms/s/0/ae18eb32-3e03-11e2-93cb-00144feabdc0.html#axzz2E7D09ala (Financial Times)]. ](/news/2012/12/4/in-a-setback-to-the-movement-toward-banking-union-in-the-eu-germany-s-finance-minister-wolfgang-scha-uble-says-he-will-not-allow-a-unitary.md)
-_Context: European Union, German, Wolfgang Schauble, finance minister_
+_Context: European Union, Germany, Wolfgang Schauble, finance minister_
 
 ### [Typhoon Bopha makes landfall on the Philippines island of Mindanao with reports of floods and landslides. Authorities confirm at least 81 deaths amid widespread property damage. ](/news/2012/12/4/typhoon-bopha-makes-landfall-on-the-philippines-island-of-mindanao-with-reports-of-floods-and-landslides-authorities-confirm-at-least-81-de.md)
 Typhoon Bopha has killed at least 52 people in the Philippines.
@@ -16,7 +16,7 @@ Typhoon Bopha has killed at least 52 people in the Philippines.
 _Context: Black Sea, Istanbul, Russia, Ukraine_
 
 ### [A Chinese fighter jet Chengdu J-7 crashes in the city of Shantou, Guangdong province, China, sparking a fire that injures at least four people. ](/news/2012/12/4/a-chinese-fighter-jet-chengdu-j-7-crashes-in-the-city-of-shantou-guangdong-province-china-sparking-a-fire-that-injures-at-least-four-peop.md)
-_Context: Chengdu J-7, Chinese, Guangdong province, Shantou, fighter jet_
+_Context: Chengdu J-7, China, Guangdong province, Shantou, fighter jet_
 
 ### [The US Navy denies Iranian state media reports that a ScanEagle drone has been shot down over the Persian Gulf. ](/news/2012/12/4/the-us-navy-denies-iranian-state-media-reports-that-a-scaneagle-drone-has-been-shot-down-over-the-persian-gulf.md)
 As shelling in the Damascus suburbs worsened, the United Nations warned that it was getting harder to get food to displaced Syrians.

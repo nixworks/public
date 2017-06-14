@@ -4,7 +4,7 @@
 _Context: Iraq, Iraqi Police, Kirkuk, United States Army, militant_
 
 ### [ An explosion at a petrol station kills four people and hurts at least 30 in Shanghai, China. ](/news/2007/11/24/an-explosion-at-a-petrol-station-kills-four-people-and-hurts-at-least-30-in-shanghai-china.md)
-_Context: Chinese, Shanghai, explosion, petrol station_
+_Context: China, Shanghai, explosion, petrol station_
 
 ### [ 2007 UK child benefit data scandal: HM Revenue and Customs confirms that a further six data discs have gone missing in transit between its offices in Preston and London. ](/news/2007/11/24/2007-uk-child-benefit-data-scandal-hm-revenue-and-customs-confirms-that-a-further-six-data-discs-have-gone-missing-in-transit-between-its.md)
 _Context: 2007 UK child benefit data scandal, HM Revenue and Customs, London, Preston_

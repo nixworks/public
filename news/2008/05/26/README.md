@@ -4,7 +4,7 @@
 _Context: International Atomic Energy Agency, Iran, nuclear scientist, nuclear warheads_
 
 ### [ China relaxes its one-child policy to allow parents of children killed in the 2008 Sichuan earthquake to have another child. ](/news/2008/05/26/china-relaxes-its-one-child-policy-to-allow-parents-of-children-killed-in-the-2008-sichuan-earthquake-to-have-another-child.md)
-_Context: Chinese, deadly earthquake, one-child policy_
+_Context: China, deadly earthquake, one-child policy_
 
 ### [ Westpac signs an implementation agreement for its take over of the St George Bank, creating the largest bank in Australia with a market capitalisation of A$66 billion. ](/news/2008/05/26/westpac-signs-an-implementation-agreement-for-its-take-over-of-the-st-george-bank-creating-the-largest-bank-in-australia-with-a-market-cap.md)
 _Context: A$, Australia, St George Bank, Westpac, bank_

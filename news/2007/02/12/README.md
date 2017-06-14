@@ -31,7 +31,7 @@ _Context: Baghdad, Iraq War, four bomb attacks_
 There has been an earthquake off the coast of the Algarve in Portugal.
 
 ### [ A German court orders the release of Brigitte Mohnhaupt, a former member of the Red Army Faction, also known as the "Baader-Meinhof Gang"; she has served 24 years in prison for her involvement in kidnappings and murders in the 1970s. ](/news/2007/02/12/a-german-court-orders-the-release-of-brigitte-mohnhaupt-a-former-member-of-the-red-army-faction-also-known-as-the-baader-meinhof-gang.md)
-_Context: 1970s, Baader, Brigitte Mohnhaupt, German, Meinhof, Red Army Faction, court_
+_Context: 1970s, Baader, Brigitte Mohnhaupt, Germany, Meinhof, Red Army Faction, court_
 
 ### [ 2007 Guinean general strike: Unions in Guinea resume a general strike to protest the President of Guinea Lansana Conte appointing Eugene Camara as Prime Minister of Guinea. At least 17 people have died in protests over the weekend. The protest started on the morning of the 12th with a march from the centre of Conakry to the palace. Widespread problems with armed bandits taking advantage of the insecurity have also been reported. Lansana Conte has now declared a state of emergency. ](/news/2007/02/12/2007-guinean-general-strike-unions-in-guinea-resume-a-general-strike-to-protest-the-president-of-guinea-lansana-conta-c-appointing-euga-ne.md)
 _Context: 2007 Guinean general strike, Conakry, Eugene Camara, Guinea, Lansana Conte, President of Guinea, Prime Minister of Guinea, general strike, state of emergency, unionize_
@@ -46,7 +46,7 @@ _Context: Japan, Ross Sea, Sea Shepherd, distress call, whaling_
 _Context:  Insurgency in Somalia, Mogadishu, Mortar_
 
 ### [ Four state-owned enterprises of the Republic of China (Taiwan)--Chunghwa Post, the Chinese Petroleum Corporation, the China Shipbuilding Corporation, and the Central Bank of China--change their names to remove "China" from their titles at the request of President Chen Shui-bian. The decision is condemned by the Pan-Blue Coalition, the United States and People's Republic of China as a move towards Taiwan independence. ](/news/2007/02/12/four-state-owned-enterprises-of-the-republic-of-china-taiwan-achunghwa-post-the-chinese-petroleum-corporation-the-china-shipbuilding-c.md)
-_Context: Central Bank of China, Chen Shui-bian, China Shipbuilding Corporation, Chinese, Chinese Petroleum Corporation, Chunghwa Post, People's Republic of China, President of Taiwan, Taiwan, Taiwan, United States, coalition allies, independence_
+_Context: Central Bank of China, Chen Shui-bian, China, China Shipbuilding Corporation, Chinese Petroleum Corporation, Chunghwa Post, People's Republic of China, President of Taiwan, Taiwan, Taiwan, United States, coalition allies, independence_
 
 ### [ Israel has carried out a successful test of its Arrow missile, the defence ministry says. ](/news/2007/02/12/israel-has-carried-out-a-successful-test-of-its-arrow-missile-the-defence-ministry-says.md)
 _Context: Arrow missile, Israel, Israeli security guard_

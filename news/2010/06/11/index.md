@@ -2,7 +2,7 @@
 
 ### [RPET5's 20th Birthday!](/news/2010/06/11/rpet5-s-20th-birthday.md)
 ### [Shanghai International Film Festival:From Oscar-winning blockbusters to low-budget art-house and documentary films, the 13th Shanghai International Film Festival screens films for everyone. It will feature a retrospective of films by Woody Allen and John Woo, classic movies from Japan, Canada, Germany, Italy and Ireland, as well as new Chinese cinema. ](/news/2010/06/11/shanghai-international-film-festival-pfrom-oscar-winning-blockbusters-to-low-budget-art-house-and-documentary-films-the-13th-shanghai-inter.md)
-_Context: 13th, Academy Award, Canada, Chinese cinema, German, Ireland, Italy, Japan, John Woo, Shanghai International Film Festival, Woody Allen_
+_Context: 13th, Academy Award, Canada, Chinese cinema, Germany, Ireland, Italy, Japan, John Woo, Shanghai International Film Festival, Woody Allen_
 
 ### [2010 Kyrgyzstan crisis:Riots erupt in the southern city of Osh killing at least 45, and injuring over a hundred others. The violence comes just over two months after violent riots in Bishkek toppled Kurmanbek Bakiyev's government, and only days ahead of a critical constitutional referendum. ](/news/2010/06/11/2010-kyrgyzstan-crisis-priots-erupt-in-the-southern-city-of-osh-killing-at-least-45-and-injuring-over-a-hundred-others-the-violence-comes.md)
 Thousands flee homes in southern region as ethnic unrest leaves more than 600 wounded.

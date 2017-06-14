@@ -10,7 +10,7 @@ _Context: CAN-SPAM Act of 2003, U.S. Congressional_
 _Context: King, Norway, Oslo, cancer_
 
 ### [German Justice Minister Brigitte Zypries unveils a draft bill aimed at policing company accounts following the Enron and WorldCom scandals in the USA. [http://www.finance24.co.za/Finance/Companies/0,,1518-24_1456622,00.html]](/news/2003/12/8/german-justice-minister-brigitte-zypries-unveils-a-draft-bill-aimed-at-policing-company-accounts-following-the-enron-and-worldcom-scandals-i.md)
-_Context: Brigitte Zypries, Enron, German, Justice Minister, WorldCom_
+_Context: Brigitte Zypries, Enron, Germany, Justice Minister, WorldCom_
 
 ### [South Dakota Congressman Bill Janklow is convicted of a series of criminal charges including second-degree manslaughter, which can carry a prison term of up to 10 years. He says he will resign his congressional seat. [http://www.msnbc.com/news/999765.asp?vts=120820031804&cp1=1]](/news/2003/12/8/south-dakota-congressman-bill-janklow-is-convicted-of-a-series-of-criminal-charges-including-second-degree-manslaughter-which-can-carry-a-p.md)
 _Context: Bill Janklow, South Dakota, United States House of Representatives, murder_

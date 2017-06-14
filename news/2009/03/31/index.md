@@ -10,7 +10,7 @@ _Context: Australia, Coffs Harbour, Mid North Coast, New South Wales, evacuation
 _Context: Lahore, Pakistan, Pakistani police, Taliban, Tehrik-i-Taliban Pakistan, academy, attack_
 
 ### [ Seven Somali pirates are captured after mistakenly attacking the German Navy's FGS ''Spessart'' in the Gulf of Aden. ](/news/2009/03/31/seven-somali-pirates-are-captured-after-mistakenly-attacking-the-german-navy-s-fgs-spessart-in-the-gulf-of-aden.md)
-_Context: ''Spessart'', FGS, German, German navies, Gulf of Aden, Somali pirates, Somalia_
+_Context: ''Spessart'', FGS, German navies, Germany, Gulf of Aden, Somali pirates, Somalia_
 
 ## [Previous Day...](/news/2009/03/30/index.md)
 

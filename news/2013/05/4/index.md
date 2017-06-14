@@ -16,7 +16,7 @@ _Context: Cesar Portillo de la Luz, Cuban, Filin_
 _Context: Americans, Harper Lee, To Kill a Mockingbird_
 
 ### [Hundreds of protestors gather in Chinese cities to rally against planned large-scale industrial projects. ](/news/2013/05/4/hundreds-of-protestors-gather-in-chinese-cities-to-rally-against-planned-large-scale-industrial-projects.md)
-_Context: Chinese_
+_Context: China_
 
 ### [A train carrying toxic flammable chemicals derails and causes a major fire near the Belgian town of Wetteren, killing two and wounding forty-nine. ](/news/2013/05/4/a-train-carrying-toxic-flammable-chemicals-derails-and-causes-a-major-fire-near-the-belgian-town-of-wetteren-killing-two-and-wounding-forty.md)
 Two people die and 14 others are injured as a train carrying toxic and flammable chemicals derails, causing a major fire near the Belgian city of Ghent.

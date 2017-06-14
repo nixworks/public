@@ -55,7 +55,7 @@ Two oil pipelines in the Chinese port city of Dalian have exploded, starting a f
 _Context: Greece_
 
 ### [Twenty-eight coal miners die after a fire in their mine near Hancheng City in China's Shaanxi Province. ](/news/2010/07/17/twenty-eight-coal-miners-die-after-a-fire-in-their-mine-near-hancheng-city-in-china-s-shaanxi-province.md)
-_Context: Chinese, Hancheng City, Shaanxi province, coal mine_
+_Context: China, Hancheng City, Shaanxi province, coal mine_
 
 ### [German Foreign Minister Guido Westerwelle criticises a reported Israeli plan that would lead to Gaza's separation from the rest of the Palestinian territories becoming final. ](/news/2010/07/17/german-foreign-minister-guido-westerwelle-criticises-a-reported-israeli-plan-that-would-lead-to-gaza-s-separation-from-the-rest-of-the-pales.md)
 German Foreign Minister Guido Westerwelle criticized on Saturday a reported Israeli plan that would lead to Gaza’s separation from the rest of the Palestinian territories becoming final. “We don’t wan
@@ -67,7 +67,7 @@ _Context: Catherine Ashton, Foreign policy chief, Ramallah, Salam Fayyad_
 Move comes as Caracas rejects Colombian charges that it hosts rebels on its territory.
 
 ### [German minister Ilse Aigner expresses annoyance at Facebook's privacy policy, saying the website is breaking the law by collecting information such as phone numbers. ](/news/2010/07/17/german-minister-ilse-aigner-expresses-annoyance-at-facebook-s-privacy-policy-saying-the-website-is-breaking-the-law-by-collecting-informati.md)
-_Context: Facebook, German, Ilse Aigner_
+_Context: Facebook, Germany, Ilse Aigner_
 
 ### [Bangladeshi police arrest an army major who allegedly possessed hundreds of bottles of Phensedyl, an illegal cough syrup. ](/news/2010/07/17/bangladeshi-police-arrest-an-army-major-who-allegedly-possessed-hundreds-of-bottles-of-phensedyl-an-illegal-cough-syrup.md)
 Police in northern Bangladesh arrest an army major for allegedly carrying hundreds of bottles of an illegal cough syrup.

@@ -16,7 +16,7 @@ _Context: United States Capitol, anti-Iraq War_
 _Context: Colin McRae, Scotland, World Rally Championship, helicopter_
 
 ### [ The new cruise ferry Color Magic was christened in Kiel.The ship is the largest cruise ferry in the world.She was christened by the German actress Veronica Ferres.](/news/2007/09/15/the-new-cruise-ferry-color-magic-was-christened-in-kiel-the-ship-is-the-largest-cruise-ferry-in-the-world-she-was-christened-by-the-german.md)
-_Context: Color Magic, German, Kiel, Veronica Ferres, cruise ferry_
+_Context: Color Magic, Germany, Kiel, Veronica Ferres, cruise ferry_
 
 ### [ Sierra Leone's ruling People's Party seeks an injunction against the National Electoral Commission publishing further results of the 2007 general election with results published so far showing Opposition candidate for president Ernest Bai Koroma in the lead. ](/news/2007/09/15/sierra-leone-s-ruling-people-s-party-seeks-an-injunction-against-the-national-electoral-commission-publishing-further-results-of-the-2007-g.md)
 _Context: Ernest Bai Koroma, Sierra Leone, injunction, main opposition party, run-off election_
@@ -46,7 +46,7 @@ _Context: September 2007 Sumatra earthquakes_
 _Context: Sri Lanka, Sri Lankan Army, Tamil Tigers_
 
 ### [ Zhao Yan, a Chinese journalist working for the ''New York Times'', is released from jail in China after serving a three year sentence for "leaking state secrets". ](/news/2007/09/15/zhao-yan-a-chinese-journalist-working-for-the-new-york-times-is-released-from-jail-in-china-after-serving-a-three-year-sentence-for.md)
-_Context: Chinese, New York Times, Zhao Yan, jail_
+_Context: China, New York Times, Zhao Yan, jail_
 
 ### [ Impact of Meteorite at Carancas in Peru.](/news/2007/09/15/impact-of-meteorite-at-carancas-in-peru.md)
 _Context: Meteorite_

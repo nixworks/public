@@ -13,7 +13,7 @@ Rebels fighting the government in the Central African Republic have signed a for
 The first official painting of the Duchess of Cambridge goes on display at the National Portrait Gallery, but critics are divided over its quality.
 
 ### [18 people die after a landslide buries a village in the Yunnan province of China, while 40 people are feared to be buried. ](/news/2013/01/11/18-people-die-after-a-landslide-buries-a-village-in-the-yunnan-province-of-china-while-40-people-are-feared-to-be-buried.md)
-_Context: Chinese, Yunnan, landslide_
+_Context: China, Yunnan, landslide_
 
 ### [29 people die and 12 people are injured after a bus veers off a mountain road in Doti, Nepal. ](/news/2013/01/11/29-people-die-and-12-people-are-injured-after-a-bus-veers-off-a-mountain-road-in-doti-nepal.md)
 _Context: Doti, Nepal, bus_

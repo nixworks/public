@@ -1,7 +1,7 @@
 ## [2010-08-26](/news/2010/08/26/index.md)
 
 ### [German HIV-positive pop singer Nadja Benaissa is found guilty of grievous bodily harm after transmitting HIV to a man who had unprotected sex with her without her telling him of her condition. ](/news/2010/08/26/german-hiv-positive-pop-singer-nadja-benaissa-is-found-guilty-of-grievous-bodily-harm-after-transmitting-hiv-to-a-man-who-had-unprotected-se.md)
-_Context: German, HIV, HIV-positive, Nadja Benaissa, grievous bodily harm, pop singer, unprotected sex_
+_Context: Germany, HIV, HIV-positive, Nadja Benaissa, grievous bodily harm, pop singer, unprotected sex_
 
 ### [Mass protests by civil servants in South Africa continue, demanding improved pay and benefits. ](/news/2010/08/26/mass-protests-by-civil-servants-in-south-africa-continue-demanding-improved-pay-and-benefits.md)
 Civil servants plan bigger strikes if pay demands not met, as services are restricted.

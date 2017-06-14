@@ -11,7 +11,7 @@ A state of emergency was declared in the Peloponnesian town of Tripoli on Saturd
 
 ### Related:
 
-1. [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing no deaths. Many houses were damaged in Plomari, Greece, and some collapsed.](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-no-deaths-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md) _Context: Greece_
+1. [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-one-death-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md) _Context: Greece_
 2. [Scientists discover 7.2 million-year-old "pre-human" remains in the Balkans area near Bulgaria and Greece. ](/news/2017/05/23/scientists-discover-7-2-million-year-old-pre-human-remains-in-the-balkans-area-near-bulgaria-and-greece.md) _Context: Greece_
 3. [A TrainOSE passenger train derails near the Greek village of Adendro, leaving at least four people dead and five seriously injured. ](/news/2017/05/13/a-trainose-passenger-train-derails-near-the-greek-village-of-adendro-leaving-at-least-four-people-dead-and-five-seriously-injured.md) _Context: Greece_
 4. [The federal government of Brazil informs the World Health Organization that it is ending its state of emergency concerning the Zika virus, following a 95.3% reduction in cases in early 2017 compared to early 2016. ](/news/2017/05/11/the-federal-government-of-brazil-informs-the-world-health-organization-that-it-is-ending-its-state-of-emergency-concerning-the-zika-virus-f.md) _Context: state of emergency_

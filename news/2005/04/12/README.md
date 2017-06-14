@@ -7,7 +7,7 @@ _Context: Hawara, Nablus, Palestinian, pipe bomb_
 _Context: 24 March, Andrus Ansip, Estonia, Juhan Parts, Parliament, Prime Minister of Estonia, Riigikogu_
 
 ### [ Four girls who were held hostage for four hours are freed from a house in Ennepetal, in the state of North Rhine-Westphalia, Germany.  ](/news/2005/04/12/four-girls-who-were-held-hostage-for-four-hours-are-freed-from-a-house-in-ennepetal-in-the-state-of-north-rhine-westphalia-germany.md)
-_Context: Ennepetal, German, North Rhine-Westphalia, held hostage_
+_Context: Ennepetal, Germany, North Rhine-Westphalia, held hostage_
 
 ### [ Israeli citizens against the proposed Israeli dismantling of Jewish settlements on the Gaza Strip have chained shut 167 schools and nurseries in Tel Aviv as part of their protest. The Fire Service quickly cut through the chains. ](/news/2005/04/12/israeli-citizens-against-the-proposed-israeli-dismantling-of-jewish-settlements-on-the-gaza-strip-have-chained-shut-167-schools-and-nurseri.md)
 _Context: Fire Service, Gaza Strip, Israel, Israeli settlement, Jew, Tel Aviv, school_

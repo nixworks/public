@@ -37,13 +37,13 @@ _Context: Pacific, Palau, Vietnam, sea cucumber_
 Pakistan orders the charity Save the Children out of the country, sealing its offices and accusing it of &quot;anti-Pakistan&quot; activities.
 
 ### [Germany doubles its funding to states and cities for asylum seekers as 450,000 are expected to enter the country during 2015. ](/news/2015/06/12/germany-doubles-its-funding-to-states-and-cities-for-asylum-seekers-as-450-000-are-expected-to-enter-the-country-during-2015.md)
-_Context: German, asylum seekers_
+_Context: Germany, asylum seekers_
 
 ### [Two Russian citizens are arrested for entering a Latvian military base as the Baltic nation was participating in US-led military exercises. ](/news/2015/06/12/two-russian-citizens-are-arrested-for-entering-a-latvian-military-base-as-the-baltic-nation-was-participating-in-us-led-military-exercises.md)
 _Context: Baltics, Latvia, Russian_
 
 ### [The Associated Press reports that hackers linked to the People's Republic of China appear to have gained access to sensitive background material about people seeking security clearances from the United States government. ](/news/2015/06/12/the-associated-press-reports-that-hackers-linked-to-the-people-s-republic-of-china-appear-to-have-gained-access-to-sensitive-background-mate.md)
-_Context: Associated Press, Chinese, United States government, hackers_
+_Context: Associated Press, China, United States government, hackers_
 
 ### [Former International Monetary Fund head Dominique Strauss-Kahn is acquitted of pimping charges in France.  ](/news/2015/06/12/former-international-monetary-fund-head-dominique-strauss-kahn-is-acquitted-of-pimping-charges-in-france.md)
 French court clears former International Monetary Fund chief of ‘aggravated pimping’ in multi-defendant trial over sex parties

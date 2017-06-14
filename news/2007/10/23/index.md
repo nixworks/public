@@ -16,7 +16,7 @@ _Context: Kyrgyzstan, President, President, constitutional changes in a referend
 _Context: Karachi, Pakistan, Prime Minister, Shaukat Aziz, suicide bombings_
 
 ### [ The European Court of Justice rules against Germany's "Volkswagen Law", paving the way for Porsche to take over Volkswagen. ](/news/2007/10/23/the-european-court-of-justice-rules-against-germany-s-volkswagen-law-paving-the-way-for-porsche-to-take-over-volkswagen.md)
-_Context: European Court of Justice, German, Porsche, Volkswagen, Volkswagen Law_
+_Context: European Court of Justice, Germany, Porsche, Volkswagen, Volkswagen Law_
 
 ### [ Carrie Underwood releases her second album, entitled ''Carnival Ride''.](/news/2007/10/23/carrie-underwood-releases-her-second-album-entitled-carnival-ride.md)
 _Context: Carnival Ride, Carrie Underwood_

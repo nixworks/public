@@ -19,7 +19,7 @@ _Context: Arnold Schwarzenegger, California primary, February 5, Governor of Cal
 _Context: Alexandroupolis, Bulgaria, Greece, Russia, oil, pipeline_
 
 ### [ The five permanent members of the United Nations Security Council and Germany agree on a proposal for sanctions against Iran for its nuclear programs to be discussed by the Security Council. ](/news/2007/03/15/the-five-permanent-members-of-the-united-nations-security-council-and-germany-agree-on-a-proposal-for-sanctions-against-iran-for-its-nuclea.md)
-_Context: German, Iran, United Nations Security Council_
+_Context: Germany, Iran, United Nations Security Council_
 
 ### [ The BBC issues a plea for information on the whereabouts of its Gaza correspondent, Alan Johnston, who has been missing for three days and is believed by Palestinian security officials to have been kidnapped. ](/news/2007/03/15/the-bbc-issues-a-plea-for-information-on-the-whereabouts-of-its-gaza-correspondent-alan-johnston-who-has-been-missing-for-three-days-and.md)
 _Context: Alan Johnston, BBC, Gaza Strip, Palestinian Authority_

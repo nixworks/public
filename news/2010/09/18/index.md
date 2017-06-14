@@ -16,7 +16,7 @@ _Context: England, George Michael, Highpoint Prison, Pentonville Prison, Suffolk
 _Context: 200th anniversary, 2010 Copiap mining accident, Chile, Chilean Independence Day_
 
 ### [China slightly increased its holdings of  United States treasury debt to US$846.7 billion, this July. ](/news/2010/09/18/china-slightly-increased-its-holdings-of-united-states-treasury-debt-to-us-846-7-billion-this-july.md)
-_Context:  debt, Chinese_
+_Context:  debt, China_
 
 ### [A large storm in New Zealand leaves 100,000 people without power and takes the roof off Stadium Southland in Invercargill on the South Island. ](/news/2010/09/18/a-large-storm-in-new-zealand-leaves-100-000-people-without-power-and-takes-the-roof-off-stadium-southland-in-invercargill-on-the-south-islan.md)
 _Context: Invercargill, New Zealand, South Island, Stadium Southland_
@@ -28,7 +28,7 @@ _Context: Taiwan, Typhoon Chaba_
 _Context: Ghana, Zagyuri, truck_
 
 ### [Two airplanes crash at a retro air show near the city of Warngau in southern Germany. ](/news/2010/09/18/two-airplanes-crash-at-a-retro-air-show-near-the-city-of-warngau-in-southern-germany.md)
-_Context: German, Warngau, air show, airplane_
+_Context: Germany, Warngau, air show, airplane_
 
 ### [The President of Iran Mahmoud Ahmadinejad meets with the President of Algeria Abdelaziz Bouteflika in Algiers to discuss trade agreements. ](/news/2010/09/18/the-president-of-iran-mahmoud-ahmadinejad-meets-with-the-president-of-algeria-abdelaziz-bouteflika-in-algiers-to-discuss-trade-agreements.md)
 _Context: Abdelaziz Bouteflika, Algiers, Mahmoud Ahmadinejad, President, President, trade_
@@ -49,7 +49,7 @@ _Context:  within the church, Pope Benedict XVI, Roman Catholic Church, visit of
 _Context: Guinea, November's presidential poll, United Nations_
 
 ### [Tens of thousands of Germans protest in Berlin against the plans of the German government to extend the life of the country's nuclear power plants by another ten years. ](/news/2010/09/18/tens-of-thousands-of-germans-protest-in-berlin-against-the-plans-of-the-german-government-to-extend-the-life-of-the-country-s-nuclear-power.md)
-_Context: Berlin, German, Government of Germany, nuclear power_
+_Context: Berlin, Germany, Government of Germany, nuclear power_
 
 ### [Bulgarian Romani protest outside the French embassy in Sofia about expulsions of Romani from France. ](/news/2010/09/18/bulgarian-romani-protest-outside-the-french-embassy-in-sofia-about-expulsions-of-romani-from-france.md)
 _Context: Bulgaria, France, Roma, Sofia_

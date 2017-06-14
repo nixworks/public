@@ -61,7 +61,7 @@ _Context: 36th G8 summit, Canada, G20 summit, Huntsville, Ontario, Toronto_
 The Taoiseach is attending a meeting of the British-Irish Council in Guernsey today.
 
 ### [Germany's TanDEM-X satellite, whose aim it is to create the most precise 3D map of Earth's surface, obtains its first images. ](/news/2010/06/25/germany-s-tandem-x-satellite-whose-aim-it-is-to-create-the-most-precise-3d-map-of-earth-s-surface-obtains-its-first-images.md)
-_Context: 3D, Earth, German, TanDEM-X_
+_Context: 3D, Earth, Germany, TanDEM-X_
 
 ## [Previous Day...](/news/2010/06/24/index.md)
 

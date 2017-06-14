@@ -19,7 +19,7 @@ _Context: Apple Inc., Brazil, IGB Electronica, iPhone_
 _Context: Antonov An-24, Donetsk, Ukraine, crash lands, eastern Ukraine_
 
 ### [A Tibetan monk sets himself on fire near Boudhanath in Nepal in protest of the Chinese occupation of Tibet. ](/news/2013/02/13/a-tibetan-monk-sets-himself-on-fire-near-boudhanath-in-nepal-in-protest-of-the-chinese-occupation-of-tibet.md)
-_Context: Boudhanath, Chinese, Nepal, Tibet, Tibetan Buddhist, protest, sets herself alight, sets himself_
+_Context: Boudhanath, China, Nepal, Tibet, Tibetan Buddhist, protest, sets herself alight, sets himself_
 
 ### [The European Union urges member states to conduct random tests to tackle an ongoing horse meat contamination scandal. Simon Coveney, Ireland's Minister for Agriculture, Food and the Marine, says that the scandal is a "Europe-wide issue that needs a Europe-wide solution". ](/news/2013/02/13/the-european-union-urges-member-states-to-conduct-random-tests-to-tackle-an-ongoing-horse-meat-contamination-scandal-simon-coveney-ireland.md)
 The EU urges members to conduct random DNA tests on processed beef for three months, to tackle a widening scandal over mislabelled horsemeat.

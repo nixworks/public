@@ -11,7 +11,7 @@ A second Danish pharmaceutical company withdraws products from Greece over its d
 
 ### Related:
 
-1. [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing no deaths. Many houses were damaged in Plomari, Greece, and some collapsed.](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-no-deaths-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md) _Context: Greece_
+1. [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-one-death-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md) _Context: Greece_
 2. [Scientists confirm that Denmark has its first wild pack of Gray wolves for the first time in 200 years. ](/news/2017/05/4/scientists-confirm-that-denmark-has-its-first-wild-pack-of-gray-wolves-for-the-first-time-in-200-years.md) _Context: Denmark_
 3. [Scientists discover 7.2 million-year-old "pre-human" remains in the Balkans area near Bulgaria and Greece. ](/news/2017/05/23/scientists-discover-7-2-million-year-old-pre-human-remains-in-the-balkans-area-near-bulgaria-and-greece.md) _Context: Greece_
 4. [A TrainOSE passenger train derails near the Greek village of Adendro, leaving at least four people dead and five seriously injured. ](/news/2017/05/13/a-trainose-passenger-train-derails-near-the-greek-village-of-adendro-leaving-at-least-four-people-dead-and-five-seriously-injured.md) _Context: Greece_

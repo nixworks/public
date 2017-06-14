@@ -1,7 +1,7 @@
 ## [2006-11-11](/news/2006/11/11/index.md)
 
 ### [ Radio Free Europe/Radio Liberty reports that the Government of Turkmenistan has discovered a "super giant" field of 7 trillion cubic meters of natural-gas. President Saparmurat Niyazov wants companies from Germany and Russia to build a pipeline to carry the gas. ](/news/2006/11/11/radio-free-europe-radio-liberty-reports-that-the-government-of-turkmenistan-has-discovered-a-super-giant-field-of-7-trillion-cubic-meters.md)
-_Context: German, Government of Turkmenistan, President, Russia, Saparmurat Niyazov, pipeline_
+_Context: Germany, Government of Turkmenistan, President, Russia, Saparmurat Niyazov, pipeline_
 
 ### [ The United States vetoes a United Nations Security Council resolution condemning the Beit Hanoun November 2006 incident and urging for a quick withdrawal of Israel from the Gaza Strip. ](/news/2006/11/11/the-united-states-vetoes-a-united-nations-security-council-resolution-condemning-the-beit-hanoun-november-2006-incident-and-urging-for-a-qu.md)
 _Context: Beit Hanoun November 2006 incident, Gaza Strip, Israel, United Nations Security Council, United Nations Security Council resolution, United States_

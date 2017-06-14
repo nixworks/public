@@ -55,7 +55,7 @@ _Context: Chicago, Chicago police, Jody Weis_
 _Context: 2011 Yemeni protests, Yemen_
 
 ### [The German Federal Minister for Defence Karl-Theodor zu Guttenberg resigns over a plagiarism scandal. ](/news/2011/03/1/the-german-federal-minister-for-defence-karl-theodor-zu-guttenberg-resigns-over-a-plagiarism-scandal.md)
-_Context: Federal Minister for Defence, German, Karl-Theodor zu Guttenberg, plagiarising_
+_Context: Federal Minister for Defence, Germany, Karl-Theodor zu Guttenberg, plagiarising_
 
 ### [The Canadian Federal Court of Appeal rules against the Conservative Party of Canada on ad spending prior to the Canadian federal election, 2006, while the Harper government reaches 43% support and announces cuts to the budget. ](/news/2011/03/1/the-canadian-federal-court-of-appeal-rules-against-the-conservative-party-of-canada-on-ad-spending-prior-to-the-canadian-federal-election-2.md)
 _Context: Canada, Canadian federal election, 2006, Conservative Party's, Federal Court of Appeal, Harper Government_

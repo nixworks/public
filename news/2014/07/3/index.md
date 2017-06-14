@@ -7,7 +7,7 @@ Around 200 people arrested, with a policeman and protester killed in demonstrati
 Saudi-owned al-Arabiya television said Saudi Arabia had deployed 30,000 soldiers to its border with Iraq on Thursday after Iraqi forces abandoned the area, but Baghdad denied pulling forces back and said it remained in full control of its frontier.
 
 ### [A 31-year-old male employee of Germany's intelligence service BND is arrested on suspicions of spying for the United States. The employee is suspected of spying on a German parliamentary committee investigating U.S. espionage. ](/news/2014/07/3/a-31-year-old-male-employee-of-germany-s-intelligence-service-bnd-is-arrested-on-suspicions-of-spying-for-the-united-states-the-employee-is.md)
-_Context: German, German intelligence, Germany-United States relations, Global surveillance disclosures, espionage_
+_Context: German intelligence, Germany, Germany-United States relations, Global surveillance disclosures, espionage_
 
 ### [The government of Tonga reveals a proposal to trade the disputed Minerva Reefs to Fiji in exchange for the Lau Islands, in an effort to settle a decades old territorial dispute between the two Pacific countries. ](/news/2014/07/3/the-government-of-tonga-reveals-a-proposal-to-trade-the-disputed-minerva-reefs-to-fiji-in-exchange-for-the-lau-islands-in-an-effort-to-sett.md)
 _Context: Fiji, Lau Islands, Minerva Reefs, Tonga, disputed_

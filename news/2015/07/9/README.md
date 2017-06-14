@@ -10,7 +10,7 @@ _Context: China's Securities Regulatory Commission, Chinese stock market crash_
 _Context: 2015 Pacific typhoon season, Hong Kong, Typhoon Linfa_
 
 ### [''Philippines v. China''The Philippines asks the International Court of Arbitration at The Hague to invalidate China's claims to virtually all of the South China Sea. The hearing was attended by observers from Indonesia, Japan, Malaysia, Thailand, and Vietnam. ](/news/2015/07/9/philippines-v-china-pthe-philippines-asks-the-international-court-of-arbitration-at-the-hague-to-invalidate-china-s-claims-to-virtually.md)
-_Context: Chinese, Indonesia, International Court of Arbitration, Japan, Malaysia, Philippines, Philippines v. China, South China Sea, Thailand, The Hague, Vietnam_
+_Context: China, Indonesia, International Court of Arbitration, Japan, Malaysia, Philippines, Philippines v. China, South China Sea, Thailand, The Hague, Vietnam_
 
 ### [Prince Zeid bin Ra'ad, the United Nations High Commissioner for Human Rights, warns that violence can explode into armed conflict in Burundi following events of the current presidential election. ](/news/2015/07/9/prince-zeid-bin-ra-ad-the-united-nations-high-commissioner-for-human-rights-warns-that-violence-can-explode-into-armed-conflict-in-burundi.md)
 Get the latest breaking news across the U.S. on ABCNews.com

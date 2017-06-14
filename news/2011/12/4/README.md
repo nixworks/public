@@ -1,7 +1,7 @@
 ## [2011-12-4](/news/2011/12/4/index.md)
 
 ### [45,000 citizens of Koblenz, Germany, are allowed to return home after bomb squads defused World War II bombs that were hidden under the Rhine River for almost 65 years. ](/news/2011/12/4/45-000-citizens-of-koblenz-germany-are-allowed-to-return-home-after-bomb-squads-defused-world-war-ii-bombs-that-were-hidden-under-the-rhin.md)
-_Context: German, Koblenz, Rhine River, World War II, bomb squad_
+_Context: Germany, Koblenz, Rhine River, World War II, bomb squad_
 
 ### [Australia approves exports of uranium to India. ](/news/2011/12/4/australia-approves-exports-of-uranium-to-india.md)
 _Context: Australia, India, uranium_

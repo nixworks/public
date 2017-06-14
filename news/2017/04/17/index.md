@@ -25,7 +25,7 @@ _Context: Pacific, Vanuatu, island nation, magnitude_
 _Context: Alaskan North Slope, BP, Deadhorse Airport_
 
 ### [In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military-exercises-focusing-on-co.md)
-_Context: China-Nepal relations, Chinese, India, Nepal_
+_Context: China, China-Nepal relations, India, Nepal_
 
 ### [North Korean Vice Foreign Minister Han Song-ryol threatens to test missiles on a "weekly" basis, as United States Vice President Mike Pence warns the DPRK that the United States' "era of strategic patience" with the country was over. ](/news/2017/04/17/north-korean-vice-foreign-minister-han-song-ryol-threatens-to-test-missiles-on-a-weekly-basis-as-united-states-vice-president-mike-pence.md)
 _Context: DPRK, Han Song-ryol, Mike Pence, North Korea, United States Vice President_

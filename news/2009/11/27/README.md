@@ -43,7 +43,7 @@ Shedding new light on a long-suppressed chapter of the Korean War, a government 
 _Context: Buganda, Uganda_
 
 ### [ Franz Josef Jung resigns as Germany's Minister of Labour and Social Affairs following allegations of covering up the Kunduz airstrike, during which he served as Minister of Defence. ](/news/2009/11/27/franz-josef-jung-resigns-as-germany-s-minister-of-labour-and-social-affairs-following-allegations-of-covering-up-the-kunduz-airstrike-duri.md)
-_Context: Federal Minister for Defence, Franz Josef Jung, German, Kunduz airstrike, Minister of Labour and Social Affairs_
+_Context: Federal Minister for Defence, Franz Josef Jung, Germany, Kunduz airstrike, Minister of Labour and Social Affairs_
 
 ### [ President of the European Commission Jose Manuel Barroso nominates a new team of commissioners for his second five-year term. ](/news/2009/11/27/president-of-the-european-commission-josa-c-manuel-barroso-nominates-a-new-team-of-commissioners-for-his-second-five-year-term.md)
 _Context: European Commissioner, Jose Manuel Barroso, President of the European Commission_

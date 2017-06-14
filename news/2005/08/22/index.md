@@ -10,7 +10,7 @@ _Context: 1996 Summer Olympics, Atlanta, Centennial Olympic Park bombing, Eric R
 _Context: Beirut, Lebanon_
 
 ### [ The Piano Man has been identified and sent back home to Bavaria, Germany. ](/news/2005/08/22/the-piano-man-has-been-identified-and-sent-back-home-to-bavaria-germany.md)
-_Context: Bavaria, German, Piano Man_
+_Context: Bavaria, Germany, Piano Man_
 
 ### [ Conflict in Afghanistan: US Troops claim to have killed more than one hundred suspects following raids in south and East Afghanistan. ](/news/2005/08/22/conflict-in-afghanistan-us-troops-claim-to-have-killed-more-than-one-hundred-suspects-following-raids-in-south-and-east-afghanistan.md)
 _Context: Afghan, US Troops, War in Afghanistan (2001-present), suspect_

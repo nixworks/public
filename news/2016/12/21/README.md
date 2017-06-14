@@ -4,7 +4,7 @@
 Indonesian anti-terrorism police killed three suspects in a gunfight on the outskirts of the capital, Jakarta, on Wednesday and foiled a suicide bomb plot, a police spokesman said.
 
 ### [German officials offer a reward of up to 100,000 euros ($104,000) for 24-year-old Tunisian asylum-seeker Anis Amri, whose identifying information was found in the truck used in the attack. ](/news/2016/12/21/german-officials-offer-a-reward-of-up-to-100-000-euros-104-000-for-24-year-old-tunisian-asylum-seeker-anis-amri-whose-identifying-inform.md)
-_Context: German, Tunisia, last week's attack on a Christmas market in Berlin_
+_Context: Germany, Tunisia, last week's attack on a Christmas market in Berlin_
 
 ### [Five people are killed in a Taliban attack on Afghan Member of Parliament Mir Wali's home in Helmand Province. At least three security guards and two civilians were killed in the assault; Wali and others  were injured. The gunmen are holding a number of occupants hostage. ](/news/2016/12/21/five-people-are-killed-in-a-taliban-attack-on-afghan-member-of-parliament-mir-wali-s-home-in-helmand-province-at-least-three-security-guard.md)
 Three gunmen attacked the house of Mir Wali, a member of parliament from Helmand province.

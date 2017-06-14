@@ -7,7 +7,7 @@ _Context: Gilmore v. Gonzales, United States Supreme Court, secret law, travel p
 _Context: Hudson River, Jersey City, Manhattan, New Jersey, PATH_
 
 ### [ Russian oil supplies to Poland, Germany, and Ukraine are cut as the Russia-Belarus energy dispute escalates. ](/news/2007/01/8/russian-oil-supplies-to-poland-germany-and-ukraine-are-cut-as-the-russia-belarus-energy-dispute-escalates.md)
-_Context: Belarus, German, Poland, Russia, Ukraine, energy dispute_
+_Context: Belarus, Germany, Poland, Russia, Ukraine, energy dispute_
 
 ### [ It is reported that Chinese police killed 18 members of the East Turkestan Islamic Movement organization and arrested 17 others in a raid in the Pamir Plateau on 5 January. ETIM members shot and killed one officer and wounded another. Police found 22 grenades and enough explosive material to make 1,500 more. ](/news/2007/01/8/it-is-reported-that-chinese-police-killed-18-members-of-the-east-turkestan-islamic-movement-organization-and-arrested-17-others-in-a-raid-i.md)
 _Context: 5 January, East Turkestan Islamic Movement, Pamir Plateau, a raid_
@@ -25,7 +25,7 @@ _Context: 11 January, Alfred Gusenbauer, Austrian Chancellor, OVP, October 2006 
 _Context: Adam Air, Flight 574, Indonesia, Sulawesi island_
 
 ### [ Mounir El Motassadeq is sentenced by a court in Hamburg, Germany to 15 years in jail for his role in the planning of the September 11, 2001 attacks. ](/news/2007/01/8/mounir-el-motassadeq-is-sentenced-by-a-court-in-hamburg-germany-to-15-years-in-jail-for-his-role-in-the-planning-of-the-september-11-2001.md)
-_Context: German, Hamburg, Mounir El Motassadeq, planning of the September 11, 2001 attacks_
+_Context: Germany, Hamburg, Mounir El Motassadeq, planning of the September 11, 2001 attacks_
 
 ### [ The discovery of the first example of a "triple quasar" is announced at the American Astronomical Society meeting in Seattle. ](/news/2007/01/8/the-discovery-of-the-first-example-of-a-triple-quasar-is-announced-at-the-american-astronomical-society-meeting-in-seattle.md)
 _Context: American Astronomical Society, Seattle, quasar_

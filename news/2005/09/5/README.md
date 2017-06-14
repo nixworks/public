@@ -34,7 +34,7 @@ _Context: Basra, British Soldiers, Conflict in Iraq, IED, Iraq_
 _Context: Mandala Airlines, Mandala Airlines Flight 091, Medan, North Sumatra, Raja Inal Siregar, Rizal Nurdin_
 
 ### [ A painting discovered in the Kunsthalle Bremen museum in Bremen, Germany is believed by art historians to be a previously unknown work by Norwegian artist Edvard Munch. ([http://news.independent.co.uk/europe/article310683.ece The Independent])](/news/2005/09/5/a-painting-discovered-in-the-kunsthalle-bremen-museum-in-bremen-germany-is-believed-by-art-historians-to-be-a-previously-unknown-work-by-n.md)
-_Context: Bremen, Edvard Munch, German, Kunsthalle Bremen, Norway, art historian, museum_
+_Context: Bremen, Edvard Munch, Germany, Kunsthalle Bremen, Norway, art historian, museum_
 
 ## [Previous Day...](/news/2005/09/4/index.md)
 

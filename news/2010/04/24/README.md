@@ -43,7 +43,7 @@ _Context: Chile, Nazi, Paul Schfer, Villa Baviera_
 _Context: Wang Lequan, Xinjiang, Zhang Chunxian_
 
 ### [Two German men held in Abia State, Nigeria are released six days after being seized on a swim. ](/news/2010/04/24/two-german-men-held-in-abia-state-nigeria-are-released-six-days-after-being-seized-on-a-swim.md)
-_Context: Abia State, German, Nigeria_
+_Context: Abia State, Germany, Nigeria_
 
 ### [The ''Cheonan'', which was destroyed in the Baengnyeong incident, is recovered. ](/news/2010/04/24/the-cheonan-which-was-destroyed-in-the-baengnyeong-incident-is-recovered.md)
 _Context: Cheonan, sinking_

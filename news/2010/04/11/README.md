@@ -22,7 +22,7 @@ _Context: 6.8 magnitude earthquake, Kirakira, Makira Island, Solomon Islands_
 _Context: Israel, Palestinian, West Bank_
 
 ### [The Democratic Front for the Liberation of Palestine (DFLP) asks China to pressure Israel to have its nuclear sites inspected during the forthcoming international nuclear conference, saying "world silence on the issue of the Israeli nuclear capabilities is creating tension in the region, especially with the relentless international focus on Iran and North Korea". ](/news/2010/04/11/the-democratic-front-for-the-liberation-of-palestine-dflp-asks-china-to-pressure-israel-to-have-its-nuclear-sites-inspected-during-the-for.md)
-_Context: Chinese, Democratic Front for the Liberation of Palestine, Iran, Israel, North Korea_
+_Context: China, Democratic Front for the Liberation of Palestine, Iran, Israel, North Korea_
 
 ### [Kyrgyzstan's interim government considers arresting and charging President Kurmanbek Bakiyev for the deaths of 81 people in riots earlier this week. ](/news/2010/04/11/kyrgyzstan-s-interim-government-considers-arresting-and-charging-president-kurmanbek-bakiyev-for-the-deaths-of-81-people-in-riots-earlier-th.md)
 _Context: Kurmanbek Bakiyev, Kyrgyzstan, President, the recent unrest_

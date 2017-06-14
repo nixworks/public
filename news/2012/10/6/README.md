@@ -1,7 +1,7 @@
 ## [2012-10-6](/news/2012/10/6/index.md)
 
 ### [The South Korean Ministry of National Defense states that a North Korean soldier has defected to South Korea after killing two of his superiors. ](/news/2012/10/6/the-south-korean-ministry-of-national-defense-states-that-a-north-korean-soldier-has-defected-to-south-korea-after-killing-two-of-his-superi.md)
-_Context: North Korea, South Korea, defectors, defense ministry_
+_Context: North Korea, North Korean defectors, South Korea, defense ministry_
 
 ### [A court in the Vatican finds Pope Benedict XVI's former butler Paolo Gabriele guilty of theft for stealing and leaking confidential documents and sentences Gabriele to 18 months' imprisonment. ](/news/2012/10/6/a-court-in-the-vatican-finds-pope-benedict-xvi-s-former-butler-paolo-gabriele-guilty-of-theft-for-stealing-and-leaking-confidential-document.md)
 _Context: Pope Benedict XVI, Vatican City, finds_

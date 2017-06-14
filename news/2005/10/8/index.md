@@ -16,7 +16,7 @@ _Context: Five-Year Plan, Nanjing, People's Republic of China_
 _Context: Acholi, Human Rights Watch, Lord's Resistance Army, Uganda Human Rights Commission, Uganda People's Defence Forces_
 
 ### [ 2006 FIFA World Cup qualifiers in Germany are: Italy, England, the Netherlands, Portugal, Poland, Croatia, Paraguay, Ecuador, Angola, Togo, Ghana, Tunisia, Ivory Coast and Costa Rica.](/news/2005/10/8/2006-fifa-world-cup-qualifiers-in-germany-are-italy-england-the-netherlands-portugal-poland-croatia-paraguay-ecuador-angola-togo.md)
-_Context: Angola, Costa Rica, Croatia, Ecuador, England, German, Ghana national football team, Italy, Ivory Coast, Netherlands, Paraguay, Poland, Portugal, Togo national football team, Tunisia, defending champion_
+_Context: Angola, Costa Rica, Croatia, Ecuador, England, Germany, Ghana national football team, Italy, Ivory Coast, Netherlands, Paraguay, Poland, Portugal, Togo national football team, Tunisia, defending champion_
 
 ## [Previous Day...](/news/2005/10/7/index.md)
 

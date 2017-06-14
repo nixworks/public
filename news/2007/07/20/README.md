@@ -7,7 +7,7 @@ _Context: Luiz Incio Lula da Silva, President, TAM Linhas Areas Flight 3054_
 _Context: Cash for honours, Crown Prosecution Service, UK_
 
 ### [ China shuts down a chemical plant associated with deaths in Panama from tainted medicine and two petfood plants associated with the deaths of pets in the United States. ](/news/2007/07/20/china-shuts-down-a-chemical-plant-associated-with-deaths-in-panama-from-tainted-medicine-and-two-petfood-plants-associated-with-the-deaths.md)
-_Context: Chinese, Panama, United States_
+_Context: China, Panama, United States_
 
 ### [ Hundreds of thousands of Bolivians protest proposals to shift the capital from La Paz to Sucre. ](/news/2007/07/20/hundreds-of-thousands-of-bolivians-protest-proposals-to-shift-the-capital-from-la-paz-to-sucre.md)
 _Context: Bolivia, La Paz, Sucre_

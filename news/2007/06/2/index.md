@@ -13,7 +13,7 @@ _Context: New York, New York City, terrorism_
 _Context: Bob Woolmer, Jamaica, Scotland Yard detectives, murder investigation_
 
 ### [ Thousands of protesters and antiglobalisation demonstrators gather in Rostock, Germany to protest the 33rd G8 summit to be held in Heiligendamm later in the week. ](/news/2007/06/2/thousands-of-protesters-and-antiglobalisation-demonstrators-gather-in-rostock-germany-to-protest-the-33rd-g8-summit-to-be-held-in-heiligen.md)
-_Context: 33rd G8 summit, German, Heiligendamm, Rostock, antiglobalisation_
+_Context: 33rd G8 summit, Germany, Heiligendamm, Rostock, antiglobalisation_
 
 ### [ The President of Algeria Abdelaziz Bouteflika accepts the resignation of his Cabinet after recent elections. The Prime Minister of Algeria Abdelaziz Belkhadem is expected to retain his position when a new Cabinet is chosen. ](/news/2007/06/2/the-president-of-algeria-abdelaziz-bouteflika-accepts-the-resignation-of-his-cabinet-after-recent-elections-the-prime-minister-of-algeria.md)
 _Context: Abdelaziz Belkhadem, Abdelaziz Bouteflika, President, Prime Minister of Algeria, forming a government_

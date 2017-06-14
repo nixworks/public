@@ -13,7 +13,7 @@ _Context: Iran, Israel, flipped the world the bird_
 _Context: Angela Merkel, Chancellor, Iran_
 
 ### [ The largest computer games expo in the transatlantic region, the Games Convention in Leipzig, Germany, opens for the public. ](/news/2006/08/24/the-largest-computer-games-expo-in-the-transatlantic-region-the-games-convention-in-leipzig-germany-opens-for-the-public.md)
-_Context: Games Convention, German, Leipzig_
+_Context: Games Convention, Germany, Leipzig_
 
 ### [ Definition of planet: The International Astronomical Union, meeting in Prague, Czech Republic, votes to strip Pluto of its status as a planet. ](/news/2006/08/24/definition-of-planet-the-international-astronomical-union-meeting-in-prague-czech-republic-votes-to-strip-pluto-of-its-status-as-a-plan.md)
 _Context: Czech, Definition of planet, International Astronomical Union, Pluto, Prague, planet_

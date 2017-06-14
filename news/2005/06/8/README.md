@@ -10,7 +10,7 @@ _Context: Alberta, Canada_
 _Context: Legionellosis, Norway, scrubber_
 
 ### [ A previously unknown aria written by Johann Sebastian Bach in October of 1713 is discovered in documents from a German library. It is the first new work to be discovered by Bach since 1975.](/news/2005/06/8/a-previously-unknown-aria-written-by-johann-sebastian-bach-in-october-of-1713-is-discovered-in-documents-from-a-german-library-it-is-the-f.md)
-_Context: 1713, 1975, German, Johann Sebastian Bach, aria_
+_Context: 1713, 1975, Germany, Johann Sebastian Bach, aria_
 
 ### [ In Bolivia, widespread demonstrations continue. Ex-president Carlos Mesa, who has already offered his resignation, states that there is a threat of civil war without immediate elections. Congress will decide on Thursday whether to accept the resignation ](/news/2005/06/8/in-bolivia-widespread-demonstrations-continue-ex-president-carlos-mesa-who-has-already-offered-his-resignation-states-that-there-is-a-t.md)
 _Context: Bolivia, Carlos Mesa, civil war, election_

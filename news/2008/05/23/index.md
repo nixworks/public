@@ -25,7 +25,7 @@ Seven people have been killed in a bus crash in central France.
 An audit of $8.2 billion spent on contractors in Iraq found that almost none of the payments followed federal rules.
 
 ### [ 2006 Lathen maglev train accident: Germany fines two test track managers over the 23 deaths and 11 injuries. A third defendant remains to be tried due to suicide fears. ](/news/2008/05/23/2006-lathen-maglev-train-accident-germany-fines-two-test-track-managers-over-the-23-deaths-and-11-injuries-a-third-defendant-remains-to-b.md)
-_Context: 2006 Lathen maglev train accident, German, suicide_
+_Context: 2006 Lathen maglev train accident, Germany, suicide_
 
 ### [ A coroner suggests the entire fleet of British Royal Air Force Hawker Siddeley Nimrod aircraft should be grounded on safety concerns. ](/news/2008/05/23/a-coroner-suggests-the-entire-fleet-of-british-royal-air-force-hawker-siddeley-nimrod-aircraft-should-be-grounded-on-safety-concerns.md)
 _Context: Hawker Siddeley Nimrod, Royal Air Force_

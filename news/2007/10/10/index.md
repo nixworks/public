@@ -7,7 +7,7 @@ _Context: Holy See, Kazimierz Dolny, Nun, Poland, Polish police, convent, evict,
 _Context: Canada, Dalton McGuinty, Ontario, Ontario Liberal Party, general election, province_
 
 ### [ Tibetan exiles storm the embassy of the People's Republic of China in New Delhi to protest the lack of religious freedom in China. ](/news/2007/10/10/tibetan-exiles-storm-the-embassy-of-the-people-s-republic-of-china-in-new-delhi-to-protest-the-lack-of-religious-freedom-in-china.md)
-_Context: Chinese, New Delhi, People's Republic of China, Tibet, embassies, religious freedom_
+_Context: China, New Delhi, People's Republic of China, Tibet, embassies, religious freedom_
 
 ### [ Taliban frees one German and four Afghan hostages kidnapped in mid-July.date=December 2007](/news/2007/10/10/taliban-frees-one-german-and-four-afghan-hostages-kidnapped-in-mid-july-date-december-2007.md)
 _Context: Taliban, hostages_
@@ -25,7 +25,7 @@ The UAW and Chrysler have reached a tentative deal Wednesday afternoon, Forbes r
 _Context: International Space Station, Malaysia, Peggy Whitson, Sheikh Muszaphar Shukor, Soyuz TMA-11_
 
 ### [ German scientist Gerhard Ertl is announced as the winner of the 2007 Nobel Prize for Chemistry for his work on chemical processes on solid surfaces. ](/news/2007/10/10/german-scientist-gerhard-ertl-is-announced-as-the-winner-of-the-2007-nobel-prize-for-chemistry-for-his-work-on-chemical-processes-on-solid.md)
-_Context: Gerhard Ertl, German, Nobel Prize for Chemistry_
+_Context: Gerhard Ertl, Germany, Nobel Prize for Chemistry_
 
 ### [ The International Monetary Fund warns of a slowdown of the global economy in 2008 as a result of financial turmoil on global markets. ](/news/2007/10/10/the-international-monetary-fund-warns-of-a-slowdown-of-the-global-economy-in-2008-as-a-result-of-financial-turmoil-on-global-markets.md)
 _Context: International Monetary Fund_

@@ -22,7 +22,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Avian flu virus, Community Reference Laboratory for Avian Influenza, Croatia, United Kingdom, Weybridge, bird flu, infection, swan_
 
 ### [ The "Al-Tawhid trial" in Dsseldorf, Germany results in sentences between five and eight years against the defendants, four Palestinian men charged with plotting attacks on Jewish installations in Germany on the orders of Abu Musab al-Zarqawi.](/news/2005/10/26/the-al-tawhid-trial-in-dusseldorf-germany-results-in-sentences-between-five-and-eight-years-against-the-defendants-four-palestinian-men.md)
-_Context: Abu Musab al-Zarqawi, Dsseldorf, German, Palestinian_
+_Context: Abu Musab al-Zarqawi, Dsseldorf, Germany, Palestinian_
 
 ### [ The British Government, after several days of debating, confirms its plans to ban smoking in public places in England with the exemption of pubs and clubs not serving food. ](/news/2005/10/26/the-british-government-after-several-days-of-debating-confirms-its-plans-to-ban-smoking-in-public-places-in-england-with-the-exemption-of.md)
 _Context: Government of the United Kingdom, smoking ban_

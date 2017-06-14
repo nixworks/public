@@ -1,7 +1,7 @@
 ## [2005-05-22](/news/2005/05/22/index.md)
 
 ### [ In Shenzhen, China, what is believed to be the largest urban demolition blast in China uses 1,500 lb (680&nbsp;kg) of explosives to simultaneously topple 16 tower blocks. Because of misplaced charges, one tower does not topple, but is reduced from 14 stories to 12, and will have to be demolished manually. [http://news.xinhuanet.com/english/2005-05/23/content_2990155.htm (Xinhua (Pictures))] [http://thestar.com.my/news/story.asp?file=/2005/5/22/latest/20050522174732&sec=latest (The Star (Malaysia))] [http://www.boston.com/news/world/asia/articles/2005/05/23/16_chinese_buildings_topple_in_demolition/ (Boston Globe)].](/news/2005/05/22/in-shenzhen-china-what-is-believed-to-be-the-largest-urban-demolition-blast-in-china-uses-1-500-lb-680-nbsp-kg-of-explosives-to-simulta.md)
-_Context: Chinese, Shenzhen_
+_Context: China, Shenzhen_
 
 ### [ Ariel Sharon, the Prime Minister of Israel, was heckled and booed at a meeting to promote the planned Israeli withdrawal from the Gaza Strip by several U.S. Jews. ](/news/2005/05/22/ariel-sharon-the-prime-minister-of-israel-was-heckled-and-booed-at-a-meeting-to-promote-the-planned-israeli-withdrawal-from-the-gaza-stri.md)
 _Context: Ariel Sharon, Gaza Strip, Israel, Jew, Prime Minister of Israel, United States_
@@ -16,7 +16,7 @@ _Context: 2003 invasion of Iraq, Iraq, United Kingdom_
 _Context: Hawara, Israel, Nablus, Palestinian, suicide bomber_
 
 ### [ German Chancellor Gerhard Schrder has declared that he will seek the next German federal election to be held this autumn, a year earlier than set out by the constitution, after the CDU and FDP defeated the Social Democrats (SPD), who were in coalition with the Greens, at the regional election in North Rhine-Westphalia. [http://news.bbc.co.uk/2/hi/europe/4572903.stm (BBC)].](/news/2005/05/22/german-chancellor-gerhard-schroder-has-declared-that-he-will-seek-the-next-german-federal-election-to-be-held-this-autumn-a-year-earlier-t.md)
-_Context: Chancellor, Christian Democratic Union, FDP, Gerhard Schrder, German, German Constitution, German federal election, 2005, North Rhine-Westphalia, Social Democrats, autumn_
+_Context: Chancellor, Christian Democratic Union, FDP, Gerhard Schrder, German Constitution, German federal election, 2005, Germany, North Rhine-Westphalia, Social Democrats, autumn_
 
 ### [ Elections in Mongolia: Former Prime Minister of Mongolia Nambaryn Enkhbayar wins presidential election. ](/news/2005/05/22/elections-in-mongolia-former-prime-minister-of-mongolia-nambaryn-enkhbayar-wins-presidential-election.md)
 _Context: Elections in Mongolia, Nambaryn Enkhbayar, Prime Minister, presidential election_

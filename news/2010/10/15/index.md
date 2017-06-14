@@ -13,7 +13,7 @@ _Context: 5th Stryker Brigade Combat Team, Afghan, United States Army, court-mar
 _Context: England, G4S, Jimmy Mubenga_
 
 ### [A museum in Berlin opens an exhibition on Adolf Hitler and his relationship with the German people, the first museum in Germany to do so. ](/news/2010/10/15/a-museum-in-berlin-opens-an-exhibition-on-adolf-hitler-and-his-relationship-with-the-german-people-the-first-museum-in-germany-to-do-so.md)
-_Context: Adolf Hitler, Berlin, German, German_
+_Context: Adolf Hitler, Berlin, German, Germany_
 
 ### [US rapper T.I. is sentenced to eleven months in prison for violating the terms of his parole. ](/news/2010/10/15/us-rapper-t-i-is-sentenced-to-eleven-months-in-prison-for-violating-the-terms-of-his-parole.md)
 _Context: T.I., United States, parole, rapper_

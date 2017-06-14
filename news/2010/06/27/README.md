@@ -19,7 +19,7 @@ At least 11 people die in Senegal as a terrace where they were watching a World 
 Italy was yesterday tensely awaiting the outcome of a trial which could send Prime Minister Silvio Berlusconi&#039;s right-hand man to jail for 11 years.
 
 ### [A coal mine explosion kills 5 in China's Ningxia Hui Autonomous Region. ](/news/2010/06/27/a-coal-mine-explosion-kills-5-in-china-s-ningxia-hui-autonomous-region.md)
-_Context: Chinese, Ningxia Hui Autonomous Region_
+_Context: China, Ningxia Hui Autonomous Region_
 
 ### [Two Canadian medics are killed in Afghanistan, 20 kilometres west of Kandahar City in Panjwaii District. ](/news/2010/06/27/two-canadian-medics-are-killed-in-afghanistan-20-kilometres-west-of-kandahar-city-in-panjwaii-district.md)
 _Context: Afghan, Canadian, Kandahar, Panjwaii District_

@@ -46,7 +46,7 @@ Group of Eight leaders promised Friday to support new Arab democracies, accordin
 _Context: 2008 Chinese milk scandal, People's Republic of China, Zhao Lianhai_
 
 ### [More than 270 people are hospitalised after an E. coli outbreak in Germany, thought to have originated from Spanish cucumbers. ](/news/2011/05/27/more-than-270-people-are-hospitalised-after-an-e-coli-outbreak-in-germany-thought-to-have-originated-from-spanish-cucumbers.md)
-_Context: ''E. coli'', German, Spain_
+_Context: ''E. coli'', Germany, Spain_
 
 ### [A second woman dies of a mystery virus, reported to be similar to pneumonia, in South Korea. ](/news/2011/05/27/a-second-woman-dies-of-a-mystery-virus-reported-to-be-similar-to-pneumonia-in-south-korea.md)
 _Context: South Korea, pneumonia_

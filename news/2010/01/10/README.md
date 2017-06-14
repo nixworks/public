@@ -16,10 +16,10 @@ A collision between a bus and a truck in Algeria Sunday killed 15 people and inj
 A plaque will be placed at the site of the torpedoed wartime hospital ship, the Centaur, this week.
 
 ### [China overtakes Germany to become the world's largest exporter. ](/news/2010/01/10/china-overtakes-germany-to-become-the-world-s-largest-exporter.md)
-_Context: German, People's Republic of China, top export market_
+_Context: Germany, People's Republic of China, top export market_
 
 ### ['''Winter of 2009-2010 in Europe'''More than 160 people are trapped in vehicles overnight in Germany, dozens of flights are cancelled, Berlin and Leipzig are buried under 30cm of snow, parts of Schleswig-Holstein remain unreachable. The electricity of 80,000 people is cut off by snow in Poland. Eurostar services are affected in Belgium, Britain and France. ](/news/2010/01/10/winter-of-2009a2010-in-europe-pmore-than-160-people-are-trapped-in-vehicles-overnight-in-germany-dozens-of-flights-are-cancelled-be.md)
-_Context: Belgium, Berlin, Eurostar, France, German, Leipzig, Poland, Schleswig-Holstein, United Kingdom, Winter of 2009-2010 in Europe_
+_Context: Belgium, Berlin, Eurostar, France, Germany, Leipzig, Poland, Schleswig-Holstein, United Kingdom, Winter of 2009-2010 in Europe_
 
 ### [Sheikh Issa bin Zayed Al Nahyan, brother of the leader of the United Arab Emirates, Khalifa bin Zayed Al Nahyan, is acquitted of beating a former business partner in a videotaped attack. ](/news/2010/01/10/sheikh-issa-bin-zayed-al-nahyan-brother-of-the-leader-of-the-united-arab-emirates-khalifa-bin-zayed-al-nahyan-is-acquitted-of-beating-a-f.md)
 A brother of the president of the United Arab Emirates filmed beating up a former business partner and running him over in a Mercedes SUV has been acquitted of assaulting him.

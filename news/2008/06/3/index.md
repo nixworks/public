@@ -19,7 +19,7 @@ _Context: African-American, Barack Obama, D, Illinois, United States Democratic 
 _Context: Food and Agriculture Organization, Global food price crisis, High-Level Conference on World Food Security, climate change and agriculture, food vs fuel_
 
 ### [ Three people are dead and many more injured as a result of flooding in the Zollernalbkreis region in the German state of Baden-Wuerttemberg. ](/news/2008/06/3/three-people-are-dead-and-many-more-injured-as-a-result-of-flooding-in-the-zollernalbkreis-region-in-the-german-state-of-baden-wuerttemberg.md)
-_Context: Baden-Wuerttemberg, German, Zollernalbkreis, flood_
+_Context: Baden-Wuerttemberg, Germany, Zollernalbkreis, flood_
 
 ## [Previous Day...](/news/2008/06/2/index.md)
 

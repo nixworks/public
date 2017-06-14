@@ -19,7 +19,7 @@ _Context: Beijing, Beijing Olympiad, air pollution_
 _Context: Australia, Benedict XVI, Madrid, Mass, Pope, Sydney, World Youth Day 2008, next World Youth Day in 2011_
 
 ### [ 1,600,000 people attend the Loveparade in Dortmund, Germany. ](/news/2008/07/20/1-600-000-people-attend-the-loveparade-in-dortmund-germany.md)
-_Context: Dortmund, German, Loveparade_
+_Context: Dortmund, Germany, Loveparade_
 
 ## [Previous Day...](/news/2008/07/19/index.md)
 
