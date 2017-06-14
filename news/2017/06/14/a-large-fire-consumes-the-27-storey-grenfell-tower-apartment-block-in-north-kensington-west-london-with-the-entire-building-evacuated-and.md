@@ -7,7 +7,7 @@ Eyewitnesses say people are trapped and there are fears the residential building
 
 ### Source:
 
-1. [ABC via Yahoo!](https://www.yahoo.com/gma/fire-engulfs-london-high-rise-400-fire-engines-023357869--abc-news-topstories.html)
+1. [ABC via ''Yahoo!](https://www.yahoo.com/gma/fire-engulfs-london-high-rise-400-fire-engines-023357869--abc-news-topstories.html)
 2. [BBC](http://www.bbc.com/news/uk-england-london-40269625)
 3. [NBC News](http://www.nbcnews.com/news/world/24-story-london-tower-erupts-flames-residents-scream-help-n772011)
 4. [New York Times](https://www.nytimes.com/2017/06/13/world/europe/fire-london-apartment-building.html?emc=edit_na_20170614&nl=breaking-news&nlid=66213151&ref=cta&_r=0)
