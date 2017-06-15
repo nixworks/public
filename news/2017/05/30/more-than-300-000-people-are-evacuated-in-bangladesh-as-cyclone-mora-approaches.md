@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [At least 107 people are dead and dozens missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-107-people-are-dead-and-dozens-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: Bangladesh_
+1. [At least 134 people are dead and dozens are missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-134-people-are-dead-and-dozens-are-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: Bangladesh_
 2. [Four people are killed in twin bombings in Sylhet, Bangladesh. ](/news/2017/03/25/four-people-are-killed-in-twin-bombings-in-sylhet-bangladesh.md) _Context: Bangladesh_
 3. [Members of the 19th South Asian Association for Regional Cooperation (SAARC) summit, scheduled to be held in Pakistan during November 2016, postpone the meeting following a Indian-led boycott, including Afghanistan, Bangladesh and Bhutan in response to Pakistan's alleged involvement in a deadly terrorist attack on a Indian Army base in Uri, Jammu and Kashmir, on September 18. ](/news/2016/09/28/members-of-the-19th-south-asian-association-for-regional-cooperation-saarc-summit-scheduled-to-be-held-in-pakistan-during-november-2016.md) _Context: Bangladesh_
 4. [A court in the Philippines orders the central bank to return US$15 million back to Bangladesh. ](/news/2016/09/19/a-court-in-the-philippines-orders-the-central-bank-to-return-us-15-million-back-to-bangladesh.md) _Context: Bangladesh_

@@ -12,7 +12,7 @@ Riot police patrolled the streets to break up opposition protests in Dhaka and e
 ### Related:
 
 1. [The Bangladeshi Opposition calls a general strike over restoration of a caretaker administration with reports of explosions and clashes between police and protesters in the capital Dhaka. ](/news/2012/12/13/the-bangladeshi-opposition-calls-a-general-strike-over-restoration-of-a-caretaker-administration-with-reports-of-explosions-and-clashes-betw.md) _Context: Bangladesh, general strike_
-2. [At least 107 people are dead and dozens missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-107-people-are-dead-and-dozens-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: Bangladesh_
+2. [At least 134 people are dead and dozens are missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-134-people-are-dead-and-dozens-are-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: Bangladesh_
 3. [More than 300,000 people are evacuated in Bangladesh as Cyclone Mora approaches. ](/news/2017/05/30/more-than-300-000-people-are-evacuated-in-bangladesh-as-cyclone-mora-approaches.md) _Context: Bangladesh_
 4. [A general strike is held in Brazil, the first one in twenty years. ](/news/2017/04/28/a-general-strike-is-held-in-brazil-the-first-one-in-twenty-years.md) _Context: general strike_
 5. [Four people are killed in twin bombings in Sylhet, Bangladesh. ](/news/2017/03/25/four-people-are-killed-in-twin-bombings-in-sylhet-bangladesh.md) _Context: Bangladesh_

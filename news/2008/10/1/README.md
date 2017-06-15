@@ -16,7 +16,7 @@ _Context: John So, Mayor, Melbourne_
 _Context: Afghan, David D. McKiernan, NATO, United States Army, general_
 
 ### [ Subprime mortgage crisis: U.S. Representative Carol Shea-Porter says that "more than 400 economists, including Nobel laureates, appealed to Congress to slow down and make sure [they] got [the bailout bill] right". ](/news/2008/10/1/subprime-mortgage-crisis-p-u-s-representative-carol-shea-porter-says-that-more-than-400-economists-including-nobel-laureates-appealed-t.md)
-_Context: Carol Shea-Porter, Nobel Memorial Prize in Economic Sciences, U.S. Congressional, United States House of Representatives, housing crisis, proposed bailout plan_
+_Context: Carol Shea-Porter, Nobel Memorial Prize in Economic Sciences, United States Congress, United States House of Representatives, housing crisis, proposed bailout plan_
 
 ### [ A new U.S. Armed Forces Unified Combatant Command for Africa&mdash;AFRICOM&mdash;is created. Main functions of AFRICOM include fighting terror, securing oil supplies in Africa, and supporting U.S. foreign policy in the region where Chinese influence is growing. ](/news/2008/10/1/a-new-u-s-armed-forces-unified-combatant-command-for-africa-mdash-africom-mdash-is-created-main-functions-of-africom-include-fighting-ter.md)
 _Context: AFRICOM, Africa, People's Republic of China, U.S. foreign policy, Unified Combatant Command, crude oil, military_

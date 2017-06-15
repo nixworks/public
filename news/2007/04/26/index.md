@@ -22,7 +22,7 @@ _Context: Baath Party, National Progressive Front, People's Council of Syria, Sy
 _Context: George W. Bush, Senator, U.S. President, War in Iraq, veto_
 
 ### [ United States presidential election, 2008: All eight official Democratic candidates debate in the first 2008 presidential debate, hosted by South Carolina State University and the South Carolina Democratic Party. ](/news/2007/04/26/united-states-presidential-election-2008-all-eight-official-democratic-candidates-debate-in-the-first-2008-presidential-debate-hosted-by.md)
-_Context: 2008, 2008 presidential debate, D, South Carolina Democratic Party, South Carolina State University, candidates_
+_Context: 2008, 2008 presidential debate, Democratic Party, South Carolina Democratic Party, South Carolina State University, candidates_
 
 ### [ A former commander of a United States military detention center in Iraq is detained and under investigation for "aiding the enemy". ](/news/2007/04/26/a-former-commander-of-a-united-states-military-detention-center-in-iraq-is-detained-and-under-investigation-for-aiding-the-enemy.md)
 _Context: Iraq, United States_

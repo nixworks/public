@@ -22,7 +22,7 @@ Seán Quinn who was declared bankrupt by the High Court today has accused IBRC, 
 Labour MEP Proinsias De Rossa is to step down from the European Parliament next month.
 
 ### [The English Wikipedia will be shut down on Wednesday in protest against anti-piracy legislation proposed by the United States Congress. ](/news/2012/01/16/the-english-wikipedia-will-be-shut-down-on-wednesday-in-protest-against-anti-piracy-legislation-proposed-by-the-united-states-congress.md)
-_Context: English Wikipedia, SOPA, U.S. Congressional_
+_Context: English Wikipedia, SOPA, United States Congress_
 
 ## [Previous Day...](/news/2012/01/15/index.md)
 

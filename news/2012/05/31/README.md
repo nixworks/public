@@ -25,7 +25,7 @@ _Context: Bilderberg Group, Chantilly, Virginia_
 _Context: BSkyB, BSkyB takeover bid, David Cameron, James, Jeremy Hunt, Leveson Inquiry, News Corporation, Prime Minister, Secretary of State for Culture, Media and Sport_
 
 ### [A jury clears former Democratic Party candidate for Vice-President of the United States John Edwards on one count of corruption, with the judge ordering a mistrial on the other five counts. ](/news/2012/05/31/a-jury-clears-former-democratic-party-candidate-for-vice-president-of-the-united-states-john-edwards-on-one-count-of-corruption-with-the-ju.md)
-_Context: D, John Edwards, U.S. Vice President_
+_Context: Democratic Party, John Edwards, U.S. Vice President_
 
 ### [California's prison system is facing a lawsuit from the Center for Constitutional Rights for its use of long terms of solitary confinement, some of which last decades. ](/news/2012/05/31/california-s-prison-system-is-facing-a-lawsuit-from-the-center-for-constitutional-rights-for-its-use-of-long-terms-of-solitary-confinement.md)
 _Context: California, Center for Constitutional Rights, solitary confinement_

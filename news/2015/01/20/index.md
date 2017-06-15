@@ -28,7 +28,7 @@ Still not clear why man shot cardiac surgeon, then himself.
 Heavy rains on Tuesday held up the start of voting in parts of Zambia, where a close-fought presidential election was under way to replace Michael Sata, who died in office last year. &quot;A number of polling stations will start tomorrow (Wednesday),&quot; elections director Priscilla Isaacs said late
 
 ### [The President of the United States Barack Obama delivers a State of the Union address to the United States Congress. ](/news/2015/01/20/the-president-of-the-united-states-barack-obama-delivers-a-state-of-the-union-address-to-the-united-states-congress.md)
-_Context: 2015 State of the Union Address, Barack Obama, State of the Union, U.S. Congressional, U.S. President_
+_Context: 2015 State of the Union Address, Barack Obama, State of the Union, U.S. President, United States Congress_
 
 ## [Previous Day...](/news/2015/01/19/index.md)
 

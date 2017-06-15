@@ -4,7 +4,7 @@
 _Context: Cyprus, Czech, European Parliament, European Union, France, Italy, Latvia, Malta, Overseas departments and territories of France, Slovakia's, elections_
 
 ### [ The ruling party Fianna Fail endures significant losses in Ireland's local elections and parliamentary by-elections in Dublin Central and Dublin South. ](/news/2009/06/6/the-ruling-party-fianna-fa-il-endures-significant-losses-in-ireland-s-local-elections-and-parliamentary-by-elections-in-dublin-central-and.md)
-_Context: Dublin Central, Dublin South, Fianna Fail, Ireland, by-election, local elections, parliament, ruling party_
+_Context: Dublin Central, Dublin South, Fianna Fail, Republic of Ireland, by-election, local elections, parliament, ruling party_
 
 ### [ The Conservative Party gains seven county councils, the Liberal Democrats lose one, and the Labour Party loses four during the United Kingdom's local elections. ](/news/2009/06/6/the-conservative-party-gains-seven-county-councils-the-liberal-democrats-lose-one-and-the-labour-party-loses-four-during-the-united-kingd.md)
 _Context: Conservative Party, Labour, Liberal Democrats, United Kingdom, county council, local elections_

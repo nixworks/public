@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### Related:
 
 1. [ Bangladesh marks the 32nd anniversary of the assassination of Sheikh Mujibur Rahman, a pioneer of Bengali independence from Pakistan and their first President. ](/news/2007/08/15/bangladesh-marks-the-32nd-anniversary-of-the-assassination-of-sheikh-mujibur-rahman-a-pioneer-of-bengali-independence-from-pakistan-and-th.md) _Context: Bangladesh, President_
-2. [At least 107 people are dead and dozens missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-107-people-are-dead-and-dozens-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: Bangladesh_
+2. [At least 134 people are dead and dozens are missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-134-people-are-dead-and-dozens-are-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: Bangladesh_
 3. [More than 300,000 people are evacuated in Bangladesh as Cyclone Mora approaches. ](/news/2017/05/30/more-than-300-000-people-are-evacuated-in-bangladesh-as-cyclone-mora-approaches.md) _Context: Bangladesh_
 4. [Four people are killed in twin bombings in Sylhet, Bangladesh. ](/news/2017/03/25/four-people-are-killed-in-twin-bombings-in-sylhet-bangladesh.md) _Context: Bangladesh_
 5. [An Indonesian police plane, reportedly carrying 13 people, goes missing near Singapore on route to Batam. ](/news/2016/12/3/an-indonesian-police-plane-reportedly-carrying-13-people-goes-missing-near-singapore-on-route-to-batam.md) _Context: Singapore_

@@ -10,7 +10,7 @@ _Context: Al-Raqqah, ISIL, Military intervention against ISIL, November 2015 Par
 Pedersen and Ron Bousso
 
 ### [The Federal Reserve System raises the benchmark interest rate in the United States to a level between 0.5 and 0.75%. This is the second time in a decade that the Federal Reserve has increased interest rates. ](/news/2016/12/14/the-federal-reserve-system-raises-the-benchmark-interest-rate-in-the-united-states-to-a-level-between-0-5-and-0-75-this-is-the-second-time.md)
-_Context: Federal Reserve System, United States_
+_Context: U.S. Federal Reserve, United States_
 
 ### [Satellite images show anti-aircraft guns and missile defence systems being built on artificial islands in the South China Sea; China had previously committed to not militarising its controversial developments in the region. ](/news/2016/12/14/satellite-images-show-anti-aircraft-guns-and-missile-defence-systems-being-built-on-artificial-islands-in-the-south-china-sea-china-had-pre.md)
 New satellite photos seem to show &quot;significant&quot; Chinese military defences on controversial islands.

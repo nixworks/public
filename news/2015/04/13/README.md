@@ -34,7 +34,7 @@ Security contractors face decades in prison for the 2007 shootings in Baghdad&rs
 _Context: Tulsa, Oklahoma, manslaughter_
 
 ### [Florida Senator Marco Rubio announces his candidacy for the Republican nomination in the 2016 presidential election. ](/news/2015/04/13/florida-senator-marco-rubio-announces-his-candidacy-for-the-republican-nomination-in-the-2016-presidential-election.md)
-_Context: 2016 U.S. presidential election, Florida, Marco Rubio, R, Senator, candidacy_
+_Context: 2016 U.S. presidential election, Florida, Marco Rubio, Republicans, Senator, candidacy_
 
 ### [Foundation of the Free Republic of Liberland.](/news/2015/04/13/foundation-of-the-free-republic-of-liberland.md)
 _Context: Free Republic of Liberland_

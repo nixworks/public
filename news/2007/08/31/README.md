@@ -13,7 +13,7 @@ _Context: Guanica, Guayanilla Bay, Puerto Rico_
 _Context: Democratic Republic of the Congo, Katale, Laurent Nkunda, Masisi, North Kivu, United Nations_
 
 ### [ U.S. Democratic Party fundraiser Norman Hsu surrenders to the San Mateo County sheriff's office on a 15-year-old felony warrant. ](/news/2007/08/31/u-s-democratic-party-fundraiser-norman-hsu-surrenders-to-the-san-mateo-county-sheriff-s-office-on-a-15-year-old-felony-warrant.md)
-_Context: D, Norman Hsu, San Mateo County, felons, sheriff, warrant_
+_Context: Democratic Party, Norman Hsu, San Mateo County, felons, sheriff, warrant_
 
 ### [ Twelve Chileans including a Catholic priest are charged for alleged involvement in death squads during the rule of General Augusto Pinochet. ](/news/2007/08/31/twelve-chileans-including-a-catholic-priest-are-charged-for-alleged-involvement-in-death-squads-during-the-rule-of-general-augusto-pinochet.md)
 _Context: Augusto Pinochet, Catholic, Chile, death squad, priest_
@@ -55,7 +55,7 @@ _Context: Pakistan, Pakistan Army, Taliban, Waziristan War, convoy_
 _Context: United Nations, climate change, greenhouse gas_
 
 ### [ Republican Senator John Warner announces that he will not seek re-election to the United States Senate. ](/news/2007/08/31/republican-senator-john-warner-announces-that-he-will-not-seek-re-election-to-the-united-states-senate.md)
-_Context: John Warner, R, United States Senate_
+_Context: John Warner, Republicans, United States Senate_
 
 ### [ Two Egyptian students at the University of South Florida are indicted for carrying explosive materials across state lines with one indicted for terrorism charges. ](/news/2007/08/31/two-egyptian-students-at-the-university-of-south-florida-are-indicted-for-carrying-explosive-materials-across-state-lines-with-one-indicted.md)
 _Context: Egypt, University of South Florida, border, terrorism_

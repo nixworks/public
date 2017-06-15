@@ -31,7 +31,7 @@ _Context: Cuba, Hugo Chvez, President, tumour_
 _Context: Egypt, presidential election_
 
 ### [Mitt Romney wins the Republican caucuses held in the US state of Wyoming. ](/news/2012/02/29/mitt-romney-wins-the-republican-caucuses-held-in-the-us-state-of-wyoming.md)
-_Context: Mitt Romney, R, Wyoming, Wyoming_
+_Context: Mitt Romney, Republicans, Wyoming, Wyoming_
 
 ## [Previous Day...](/news/2012/02/28/index.md)
 

@@ -37,7 +37,7 @@ China on Tuesday summoned the Japanese Ambassador here and warned it would take 
 _Context: Katyn massacre, Soviet, United States, White House, World War II_
 
 ### [A White House spokesperson says that a Presidential executive order is being considered to ensure the United States' cybersecurity if Congress remains deadlocked over a "CISPA" law. ](/news/2012/09/11/a-white-house-spokesperson-says-that-a-presidential-executive-order-is-being-considered-to-ensure-the-united-states-cybersecurity-if-congre.md)
-_Context: "CISPA", U.S. Congressional, United States, White House, executive order_
+_Context: "CISPA", United States, United States Congress, White House, executive order_
 
 ### [Sources tell the ''Frankfurter Allgemeine'' newspaper that the German military spying agency MAD tried to recruit Uwe Mundlos in 1995. Mundlos refused to cooperate and subsequently participated in ten terrorist murders with the nazi group NSU. He died in 2011; police say he committed suicide. ](/news/2012/09/11/sources-tell-the-frankfurter-allgemeine-newspaper-that-the-german-military-spying-agency-mad-tried-to-recruit-uwe-mundlos-in-1995-mundl.md)
 _Context: Frankfurter Allgemeine, MAD, NSU, Uwe Mundlos_

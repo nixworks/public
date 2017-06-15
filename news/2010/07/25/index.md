@@ -16,7 +16,7 @@ Survivors of a stampede at a dance music festival in Germany, in which 19 people
 BP chief Tony Hayward, widely criticised for his handling of the US oil spill, is negotiating his exit, with an announcement expected within 24 hours.
 
 ### [United States Secretary of the Treasury Tim Geithner pushes for Congress to allow the tax cuts for high-income taxpayers in the Jobs and Growth Tax Relief Reconciliation Act of 2003 to expire at the end of 2010, while extending the act's tax cuts for middle- and lower-income taxpayers. ](/news/2010/07/25/united-states-secretary-of-the-treasury-tim-geithner-pushes-for-congress-to-allow-the-tax-cuts-for-high-income-taxpayers-in-the-jobs-and-gro.md)
-_Context: Jobs and Growth Tax Relief Reconciliation Act of 2003, Tim Geithner, Treasury Secretary, U.S. Congressional_
+_Context: Jobs and Growth Tax Relief Reconciliation Act of 2003, Tim Geithner, Treasury Secretary, United States Congress_
 
 ### [Iraq Inquiry witness Carne Ross alleges the British government is covering up "embarrassing testimony" about its decision to invade Iraq in 2003. ](/news/2010/07/25/iraq-inquiry-witness-carne-ross-alleges-the-british-government-is-covering-up-embarrassing-testimony-about-its-decision-to-invade-iraq-in.md)
 _Context: Carne Ross, Iraq Inquiry_

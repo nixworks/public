@@ -34,7 +34,7 @@ Prime Minister David Cameron strongly rebuffs a call by Argentine President Cris
 Five men are charged with the kidnap, rape and murder of a 23-year-old student on a bus in Delhi which sparked widespread outrage in India.
 
 ### [United States Congress:The 113th United States Congress is sworn in, replacing the 112th Congress. ](/news/2013/01/3/united-states-congress-pthe-113th-united-states-congress-is-sworn-in-replacing-the-112th-congress.md)
-_Context: 112th Congress, 113th United States Congress, U.S. Congressional_
+_Context: 112th Congress, 113th United States Congress, United States Congress_
 
 ## [Previous Day...](/news/2013/01/2/index.md)
 

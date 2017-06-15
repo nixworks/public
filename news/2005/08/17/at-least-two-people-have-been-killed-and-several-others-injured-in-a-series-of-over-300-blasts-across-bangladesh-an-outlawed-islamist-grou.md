@@ -12,7 +12,7 @@
 ### Related:
 
 1. [Bangladesh's Supreme Court upholds the death sentence against senior Islamist leader Ali Ahsan Mohammad Mojaheed in an appeal hearing. ](/news/2015/06/16/bangladesh-s-supreme-court-upholds-the-death-sentence-against-senior-islamist-leader-ali-ahsan-mohammad-mojaheed-in-an-appeal-hearing.md) _Context: Bangladesh, Islamist_
-2. [At least 107 people are dead and dozens missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-107-people-are-dead-and-dozens-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: Bangladesh_
+2. [At least 134 people are dead and dozens are missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-134-people-are-dead-and-dozens-are-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: Bangladesh_
 3. [More than 300,000 people are evacuated in Bangladesh as Cyclone Mora approaches. ](/news/2017/05/30/more-than-300-000-people-are-evacuated-in-bangladesh-as-cyclone-mora-approaches.md) _Context: Bangladesh_
 4. [Four people are killed in twin bombings in Sylhet, Bangladesh. ](/news/2017/03/25/four-people-are-killed-in-twin-bombings-in-sylhet-bangladesh.md) _Context: Bangladesh_
 5. [Almost 2,000 families are displaced in Mindanao region of the Philippines due to clashes between government forces and Islamist militants. ](/news/2016/11/29/almost-2-000-families-are-displaced-in-mindanao-region-of-the-philippines-due-to-clashes-between-government-forces-and-islamist-militants.md) _Context: Islamist_

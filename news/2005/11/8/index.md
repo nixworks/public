@@ -4,7 +4,7 @@
 People in Liberia were voting for a new president Tuesday, choosing between a former soccer star and one-time World Bank official known as the &quot;Iron Lady.&quot;
 
 ### [ 2005 United States elections. In the off-year elections, Democrats Tim Kaine and Jon Corzine are elected governor of Virginia and New Jersey, respectively. ](/news/2005/11/8/2005-united-states-elections-in-the-off-year-elections-democrats-tim-kaine-and-jon-corzine-are-elected-governor-of-virginia-and-new-jerse.md)
-_Context: 2005 United States elections, D, Governor of Virginia, Jon Corzine, New Jersey Governor, Tim Kaine, off-year election_
+_Context: 2005 United States elections, Democratic Party, Governor of Virginia, Jon Corzine, New Jersey Governor, Tim Kaine, off-year election_
 
 ### [ 2005 civil unrest in France: French President Jacques Chirac declares a state of emergency on the twelfth day of rioting in the banlieues. This followed the re-activation in a cabinet emergency session of a 1955 law allowing local authorities to impose curfews. [http://www.nytimes.com/2005/11/08/international/europe/08cnd-france.html (New York Times)] (registation required)](/news/2005/11/8/2005-civil-unrest-in-france-french-president-jacques-chirac-declares-a-state-of-emergency-on-the-twelfth-day-of-rioting-in-the-banlieues.md)
 _Context: Jacques Chirac, banlieue, civil unrest, curfew, state of emergency_

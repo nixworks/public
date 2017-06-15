@@ -16,7 +16,7 @@ The Italian government hopes to raise 10bn euros (£8.1bn; $12.6bn) selling off 
 _Context: Goldman Sachs, Rajat Gupta, insider trading in 2011_
 
 ### [Credit downgrades:Moody's Investor Service downgrades the credit rating of five Dutch banks including ING Bank. ](/news/2012/06/15/credit-downgrades-pmoody-s-investor-service-downgrades-the-credit-rating-of-five-dutch-banks-including-ing-bank.md)
-_Context: Dutchman, ING Bank, Moody's Investor Service, credit rating_
+_Context: Dutch, ING Bank, Moody's Investor Service, credit rating_
 
 ### [Herman Van Rompuy, President of the European Council, convenes a conference call to discuss possible fall-out from the weekend's elections in Greece. ](/news/2012/06/15/herman-van-rompuy-president-of-the-european-council-convenes-a-conference-call-to-discuss-possible-fall-out-from-the-weekend-s-elections-i.md)
 _Context: European Council, Greece, Herman Van Rompuy_

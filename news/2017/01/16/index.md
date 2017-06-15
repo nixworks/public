@@ -16,7 +16,7 @@ Cagayan de Oro City is now under “orange alert,” paving the way for preempti
 _Context: Crimea, International Court of Justice, Russia, Russia-Ukraine relations, Ukraine, War in Donbass, eastern Ukraine_
 
 ### [A top Egyptian court rules against giving away the two Red Sea islands of Tiran and Sanafir to Saudi Arabia. ](/news/2017/01/16/a-top-egyptian-court-rules-against-giving-away-the-two-red-sea-islands-of-tiran-and-sanafir-to-saudi-arabia.md)
-_Context: Egypt-Saudi Arabia relations, Red Sea, Sanafir, Saudi Arabia, Tiran_
+_Context: Egypt-Saudi Arabia relations, Red Sea, Sanafir Island, Saudi Arabia, Tiran Island_
 
 ### [Three hundred U.S. marines arrive in Norway for a six-month deployment, becoming the first foreign troops in Norway since World War II. The marines will be stationed at Vaernes Air Station in Stjordal. ](/news/2017/01/16/three-hundred-u-s-marines-arrive-in-norway-for-a-six-month-deployment-becoming-the-first-foreign-troops-in-norway-since-world-war-ii-the.md)
 _Context: Norway, Norway-United States relations, Operation Atlantic Resolve, Stjordal, United States Marine Corps, Vaernes Air Station, World War II_

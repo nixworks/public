@@ -1,7 +1,7 @@
 ## [2008-07-24](/news/2008/07/24/index.md)
 
 ### [ Three former aides to former Governor of New York Eliot Spitzer and the former head of the New York State Police are charged with ethics violations over improper use of travel records of former Republican New York State Senate majority leader Joseph Bruno. ](/news/2008/07/24/three-former-aides-to-former-governor-of-new-york-eliot-spitzer-and-the-former-head-of-the-new-york-state-police-are-charged-with-ethics-vi.md)
-_Context: Eliot Spitzer, Governor, Joseph Bruno, New York State Police, R, Senate, ethics, majority leader_
+_Context: Eliot Spitzer, Governor, Joseph Bruno, New York State Police, Republicans, Senate, ethics, majority leader_
 
 ### [ Max Mosley, head of the Federation Internationale de l'Automobile, wins his privacy case against the ''News of the World'', after the paper alleged he took part in a Nazi-themed BDSM orgy. ](/news/2008/07/24/max-mosley-head-of-the-fa-c-da-c-ration-internationale-de-l-automobile-wins-his-privacy-case-against-the-news-of-the-world-after-the-pap.md)
 _Context: BDSM, International Automobile Federation, Max Mosley, Nazi-themed, News of the World, orgy_

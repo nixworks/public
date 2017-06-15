@@ -7,7 +7,7 @@ _Context: Dsi Bouterse, Elections in Suriname, Suriname, dictator, former Dutch 
 _Context: Baghdad, Baquba, Conflict in Iraq, US soldiers, helicopter_
 
 ### [ A coalition of citizen groups will ask United States Congress to file a formal "Resolution of Inquiry", the first necessary legal step to determine whether U.S. President George W. Bush has committed impeachable offenses. The request, written by Boston constitutional attorney John C. Bonifaz, cites the Downing Street memo and issues surrounding the planning and execution of the Iraq war. ](/news/2005/05/26/a-coalition-of-citizen-groups-will-ask-united-states-congress-to-file-a-formal-resolution-of-inquiry-the-first-necessary-legal-step-to-d.md)
-_Context: 2003 invasion of Iraq, Downing Street memo, George W. Bush, John C. Bonifaz, U.S. Congressional, U.S. President, United States, impeach_
+_Context: 2003 invasion of Iraq, Downing Street memo, George W. Bush, John C. Bonifaz, U.S. President, United States, United States Congress, impeach_
 
 ### [ The South African Geographical Names Council unanimously approves a recommendation to change the name of the country's executive capital Pretoria to Tshwane. ](/news/2005/05/26/the-south-african-geographical-names-council-unanimously-approves-a-recommendation-to-change-the-name-of-the-country-s-executive-capital-pr.md)
 _Context: Geographical Names Council, Pretoria, South Africa, Tshwane, capital, executive_

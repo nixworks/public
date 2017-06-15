@@ -10,7 +10,7 @@ _Context: AIG, Fannie Mae, Federal Bureau of Investigation, Freddie Mac, Lehman 
 _Context: Geneva, Large Hadron Collider, spring_
 
 ### [ Ben Bernanke, the Chairman of the Federal Reserve, warns the United States Congress that failure to pass the Emergency Economic Stabilization Act of 2008 quickly would make a recession more likely. ](/news/2008/09/23/ben-bernanke-the-chairman-of-the-federal-reserve-warns-the-united-states-congress-that-failure-to-pass-the-emergency-economic-stabilizati.md)
-_Context: Ben Bernanke, Emergency Economic Stabilization Act, Federal Reserve, U.S. Congressional, recession_
+_Context: Ben Bernanke, Emergency Economic Stabilization Act, Federal Reserve, United States Congress, recession_
 
 ### [ Japanese investment bank Nomura Holdings acquires the European, Asian and Middle Eastern equities and investment banking operations of Lehman Brothers. ](/news/2008/09/23/japanese-investment-bank-nomura-holdings-acquires-the-european-asian-and-middle-eastern-equities-and-investment-banking-operations-of-lehm.md)
 _Context: Asia, Europe, Japan, Lehman Brothers, Middle East, Nomura Holdings, investment bank_

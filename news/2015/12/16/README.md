@@ -7,7 +7,7 @@ Syed Rizwan Farook and his wife Tashfeen Malik did not make open posts on social
 Syed Rizwan Farook and his wife Tashfeen Malik did not make open posts on social media regarding radical Islamic jihad or martyrdom before the Dec. 2 terror
 
 ### [In a widely expected move, the United States Federal Reserve Board raised the federal funds interest rate, the rate banks charge each other for overnight loans, from the 0-.25% range to the .25-.50% range.  U.S. stock markets rallied on the news. ](/news/2015/12/16/in-a-widely-expected-move-the-united-states-federal-reserve-board-raised-the-federal-funds-interest-rate-the-rate-banks-charge-each-other.md)
-_Context: Federal Reserve Board, United States, federal funds interest rate_
+_Context: Federal Reserve Board, United States, federal funds rate_
 
 ### [An Air India aircraft maintenance technician is killed at Mumbai's Chhatrapati Shivaji International Airport in India after being sucked by an Air India Airbus A319's aircraft engine during pushback. ](/news/2015/12/16/an-air-india-aircraft-maintenance-technician-is-killed-at-mumbai-s-chhatrapati-shivaji-international-airport-in-india-after-being-sucked-by.md)
 The mishap occurred when the co-pilot of Mumbai-Hyderabad flight 619 mistook a signal for starting the engine

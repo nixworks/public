@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [At least 107 people are dead and dozens missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-107-people-are-dead-and-dozens-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: monsoon_
+1. [At least 134 people are dead and dozens are missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-134-people-are-dead-and-dozens-are-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: monsoon_
 2. [At least 64 people die in Nepal after heavy monsoonal rain triggers floods and landslides. ](/news/2016/07/28/at-least-64-people-die-in-nepal-after-heavy-monsoonal-rain-triggers-floods-and-landslides.md) _Context: monsoon_
 3. [Floods resulting from the annual monsoon season cause 22 deaths and make 100,000 people homeless in India. ](/news/2016/07/11/floods-resulting-from-the-annual-monsoon-season-cause-22-deaths-and-make-100-000-people-homeless-in-india.md) _Context: monsoon_
 4. [A severe heat wave grips Malaysia as much of Southeast Asia struggles with unusually  hot and dry weather created by the El Nino season. Temperatures in Malaysia soared above 37degC, prompting more than 250 schools to close. ](/news/2016/04/11/a-severe-heat-wave-grips-malaysia-as-much-of-southeast-asia-struggles-with-unusually-hot-and-dry-weather-created-by-the-el-nia-o-season-te.md) _Context: heat wave_

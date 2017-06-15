@@ -7,7 +7,7 @@ Experts say a large white animal swimming in the Yangtze River is a member of a 
 _Context: Nawaz Sharif, Pakistan, Prime Minister_
 
 ### [ The Wyoming Republican Party votes to move its nominating convention to January 5, 2008, making it the first event in the nation for the Republicans in the United States presidential election, 2008. ](/news/2007/08/29/the-wyoming-republican-party-votes-to-move-its-nominating-convention-to-january-5-2008-making-it-the-first-event-in-the-nation-for-the-re.md)
-_Context: 2008, R, Wyoming_
+_Context: 2008, Republicans, Wyoming_
 
 ### [ The Red Cross reports that at least 17,000 are still missing from the former Yugoslavia, including 13,400 from the Bosnian wars, 2,300 from the Croatian conflict and 2,047 from the Kosovo conflict. ](/news/2007/08/29/the-red-cross-reports-that-at-least-17-000-are-still-missing-from-the-former-yugoslavia-including-13-400-from-the-bosnian-wars-2-300-from.md)
 The International Committee of the Red Cross released the figures ahead of the International Day of the Disappeared on Thursday.
@@ -34,7 +34,7 @@ A Darfur rebel group says it has seized control of a Sudanese army base in Kordo
 An internal investigation has found no evidence of heavy drinking or drunkenness among astronauts before space missions, NASA officials said.
 
 ### [ The United States Senate Republican Party leadership requests that Senator Larry Craig of Idaho stand aside from his Senate committees until the United States Senate Select Committee on Ethics makes a ruling on his situation. Senator Craig agrees. ](/news/2007/08/29/the-united-states-senate-republican-party-leadership-requests-that-senator-larry-craig-of-idaho-stand-aside-from-his-senate-committees-unti.md)
-_Context: Idaho, Larry Craig, R, Senate Select Committee on Ethics, Senate committees, United States Senate_
+_Context: Idaho, Larry Craig, Republicans, Senate Select Committee on Ethics, Senate committees, United States Senate_
 
 ### [ John Holmes, the United Nations' emergency relief coordinator, warns that refugees of the Darfur conflict are arming themselves and may soon be able to defend themselves if the Sudanese government renews its attacks.  ](/news/2007/08/29/john-holmes-the-united-nations-emergency-relief-coordinator-warns-that-refugees-of-the-darfur-conflict-are-arming-themselves-and-may-soo.md)
 _Context: Darfur conflict, John Holmes, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, United Nations_

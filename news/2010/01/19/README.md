@@ -10,7 +10,7 @@ _Context: Cadbury, Cadbury acquisition, Great Britain, Kraft Foods, United State
 _Context: International Atomic Energy Agency, Iran, low-enriched uranium, nuclear fuel, nuclear scientist_
 
 ### [Massachusetts voters elect Republican Scott Brown to fill the vacant United States Senate seat previously held by Ted Kennedy. ](/news/2010/01/19/massachusetts-voters-elect-republican-scott-brown-to-fill-the-vacant-united-states-senate-seat-previously-held-by-ted-kennedy.md)
-_Context: Massachusetts, R, Scott Brown, Ted Kennedy, United States Senate, elect_
+_Context: Massachusetts, Republicans, Scott Brown, Ted Kennedy, United States Senate, elect_
 
 ### [The United States Supreme Court reverses a decision by the Philadelphia Court of Appeals that had blocked the execution of former Black Panther Party member Mumia Abu-Jamal. ](/news/2010/01/19/the-united-states-supreme-court-reverses-a-decision-by-the-philadelphia-court-of-appeals-that-had-blocked-the-execution-of-former-black-pant.md)
 _Context: Black Panther Party, Capital punishment in the United States, Mumia Abu-Jamal, Philadelphia, United States, United States Supreme Court, United States court_

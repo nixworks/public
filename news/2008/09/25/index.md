@@ -4,7 +4,7 @@
 The clash started after the Pakistanis fired shots or flares at two American helicopters that Pakistan says had crossed its border.
 
 ### [ Senior members of the United States Congress agree on a legislative deal to bail out the U.S. financial system from lingering effects of the subprime mortgage crisis. ](/news/2008/09/25/senior-members-of-the-united-states-congress-agree-on-a-legislative-deal-to-bail-out-the-u-s-financial-system-from-lingering-effects-of-th.md)
-_Context: Emergency Economic Stabilization Act, U.S. Congressional, housing crisis_
+_Context: Emergency Economic Stabilization Act, United States Congress, housing crisis_
 
 ### [ The Texas Supreme Court denies a petition by the Bob Barr US Presidential campaign seeking removal of Senators Barack Obama and John McCain from that state's ballot due to both candidates missing the filing deadline. ](/news/2008/09/25/the-texas-supreme-court-denies-a-petition-by-the-bob-barr-us-presidential-campaign-seeking-removal-of-senators-barack-obama-and-john-mccain.md)
 _Context: Barack Obama, Bob Barr, John McCain, Texas Supreme Court_

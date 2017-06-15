@@ -13,7 +13,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 These interactive map and charts show the drug-related fatalities reported since May 10, 2016 based on ABS-CBN&rsquo;s independent monitoring of national and local news reports, and PNP Regional Office press releases.
 
 ### [Donald Trump accepts the nomination of the Republican Party in the 2016 US Presidential election. ](/news/2016/07/21/donald-trump-accepts-the-nomination-of-the-republican-party-in-the-2016-us-presidential-election.md)
-_Context: 2016 Republican National Convention, 2016 U.S. presidential election, Donald Trump, R_
+_Context: 2016 Republican National Convention, 2016 U.S. presidential election, Donald Trump, Republicans_
 
 ## [Previous Day...](/news/2016/07/20/index.md)
 

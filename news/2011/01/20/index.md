@@ -40,7 +40,7 @@ The Vatican says it is troubled by the latest allegations against Italian PM Sil
 Afghan leader in Moscow to explore military and business deals with former foe, in trip that is said to have upset US.
 
 ### [Chinese president Hu Jintao receives a hostile reception from the United States Congress; the country is accused of bullying its neighbours and its rulers are described as "Nazis". ](/news/2011/01/20/chinese-president-hu-jintao-receives-a-hostile-reception-from-the-united-states-congress-the-country-is-accused-of-bullying-its-neighbours.md)
-_Context: Hu Jintao, U.S. Congressional_
+_Context: Hu Jintao, United States Congress_
 
 ### [The largest rocket ever launched from the west coast of the U.S. is launched carrying a secret payload; speculated to be a spy satellite.](/news/2011/01/20/the-largest-rocket-ever-launched-from-the-west-coast-of-the-u-s-is-launched-carrying-a-secret-payload-speculated-to-be-a-spy-satellite.md)
 The largest rocket ever launched from the U.S. West Coast blasted off on Thursday from Vandenberg Air Force Base, carrying a top secret satellite into orbit, military officials said.
@@ -49,7 +49,7 @@ The largest rocket ever launched from the U.S. West Coast blasted off on Thursda
 _Context: Bolivia, Hong Kong, People's Republic of China, US$, cocaine_
 
 ### [New trials are reported to be starting soon at Guantanamo Bay after the United States Congress blocks President of the United States Barack Obama's attempts to close the prison; The Pentagon refuses to comment. ](/news/2011/01/20/new-trials-are-reported-to-be-starting-soon-at-guanta-namo-bay-after-the-united-states-congress-blocks-president-of-the-united-states-barack.md)
-_Context: Barack Obama, Guantanamo Bay, U.S. Congressional, U.S. President, United States military_
+_Context: Barack Obama, Guantanamo Bay, U.S. President, United States Congress, United States military_
 
 ### [Haiti's former president Jean-Claude "Baby Doc" Duvalier, now facing charges of corruption and theft of funds, hopes to becomes president again, according to his lawyer. ](/news/2011/01/20/haiti-s-former-president-jean-claude-baby-doc-duvalier-now-facing-charges-of-corruption-and-theft-of-funds-hopes-to-becomes-president-ag.md)
 Former president Jean-Claude Duvalier seeks a return to power, despite facing corruption and theft charges.

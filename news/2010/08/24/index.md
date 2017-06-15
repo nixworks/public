@@ -46,7 +46,7 @@ _Context: Barack Obama, Royce C. Lamberth, U.S. President, United States Departm
 David Cameron says he is a &quot;very proud dad&quot; after his wife Samantha gave birth to a girl, their fourth child, during a family holiday in Cornwall.
 
 ### [John McCain wins the Republican Party primary election to become the nominee in the US Senate election in Arizona. ](/news/2010/08/24/john-mccain-wins-the-republican-party-primary-election-to-become-the-nominee-in-the-us-senate-election-in-arizona.md)
-_Context: John McCain, R, US Senate election in Arizona, primary election_
+_Context: John McCain, Republicans, US Senate election in Arizona, primary election_
 
 ## [Previous Day...](/news/2010/08/23/index.md)
 

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [At least 107 people are dead and dozens missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-107-people-are-dead-and-dozens-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: Bangladesh_
+1. [At least 134 people are dead and dozens are missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-134-people-are-dead-and-dozens-are-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: Bangladesh_
 2. [A state of emergency is declared in Montreal, Canada as 1,200 Canadian Forces personnel are deployed in the province of Quebec to help with rising floodwaters. 146 communities are affected and more than 1,500 residents have been evacuated from their homes. ](/news/2017/05/7/a-state-of-emergency-is-declared-in-montreal-canada-as-1-200-canadian-forces-personnel-are-deployed-in-the-province-of-quebec-to-help-with.md) _Context: Canada_
 3. [More than 300,000 people are evacuated in Bangladesh as Cyclone Mora approaches. ](/news/2017/05/30/more-than-300-000-people-are-evacuated-in-bangladesh-as-cyclone-mora-approaches.md) _Context: Bangladesh_
 4. [A series of earthquakes, the largest registering 6.3, strike near Mosquito Lake, Alaska, near the Alaskan border with British Columbia, Canada. At least one office building and two schools were heavily damaged and evacuated in the Yukon. ](/news/2017/05/1/a-series-of-earthquakes-the-largest-registering-6-3-strike-near-mosquito-lake-alaska-near-the-alaskan-border-with-british-columbia-cana.md) _Context: Canada_

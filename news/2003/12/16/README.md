@@ -4,7 +4,7 @@
 _Context: International Space Station, Soyuz, Space Adventures_
 
 ### [ Capture of Saddam Hussein:Congressman Jim McDermott suggests that George W. Bush timed the capture of Saddam Hussein for political gain. ](/news/2003/12/16/capture-of-saddam-hussein-pcongressman-jim-mcdermott-suggests-that-george-w-bush-timed-the-capture-of-saddam-hussein-for-political-gain.md)
-_Context: Capture of Saddam Hussein, George W. Bush, Jim McDermott, Saddam Hussein, U.S. Congressional_
+_Context: Capture of Saddam Hussein, George W. Bush, Jim McDermott, Saddam Hussein, United States Congress_
 
 ### [ Occupation of Iraq: United Nations Secretary General Kofi Annan, speaking in a UN Security Council debate, urges member states to define a clearer role for the UN in Iraq. [http://news.bbc.co.uk/1/hi/world/middle_east/3325251.stm]](/news/2003/12/16/occupation-of-iraq-p-united-nations-secretary-general-kofi-annan-speaking-in-a-un-security-council-debate-urges-member-states-to-define-a.md)
 _Context: Kofi Annan, Occupation of Iraq, Secretary General, Security Council, United Nations_

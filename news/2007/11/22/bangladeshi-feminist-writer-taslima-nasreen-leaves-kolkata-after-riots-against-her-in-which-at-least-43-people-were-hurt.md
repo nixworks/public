@@ -12,7 +12,7 @@
 ### Related:
 
 1. [ The Indian Army is deployed in Kolkata after a riot against Bangladeshi feminist writer Taslima Nasreen erupts into violence. ](/news/2007/11/21/the-indian-army-is-deployed-in-kolkata-after-a-riot-against-bangladeshi-feminist-writer-taslima-nasreen-erupts-into-violence.md) _Context: Bangladesh, Kolkata, Taslima Nasreen, feminist, riot_
-2. [At least 107 people are dead and dozens missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-107-people-are-dead-and-dozens-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: Bangladesh_
+2. [At least 134 people are dead and dozens are missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-134-people-are-dead-and-dozens-are-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: Bangladesh_
 3. [More than 300,000 people are evacuated in Bangladesh as Cyclone Mora approaches. ](/news/2017/05/30/more-than-300-000-people-are-evacuated-in-bangladesh-as-cyclone-mora-approaches.md) _Context: Bangladesh_
 4. [Four people are killed in twin bombings in Sylhet, Bangladesh. ](/news/2017/03/25/four-people-are-killed-in-twin-bombings-in-sylhet-bangladesh.md) _Context: Bangladesh_
 5. [Protests and riots against president-elect Donald Trump take place in Portland, Los Angeles, New York City, and Atlanta, leading to the arrests of over 225 people. ](/news/2016/11/11/protests-and-riots-against-president-elect-donald-trump-take-place-in-portland-los-angeles-new-york-city-and-atlanta-leading-to-the-arre.md) _Context: riot_

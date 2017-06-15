@@ -12,7 +12,7 @@ The storms were described as &quot;tropical storms,&quot; although no such storm
 
 ### Related:
 
-1. [At least 107 people are dead and dozens missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-107-people-are-dead-and-dozens-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: Bangladesh_
+1. [At least 134 people are dead and dozens are missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-134-people-are-dead-and-dozens-are-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: Bangladesh_
 2. [More than 300,000 people are evacuated in Bangladesh as Cyclone Mora approaches. ](/news/2017/05/30/more-than-300-000-people-are-evacuated-in-bangladesh-as-cyclone-mora-approaches.md) _Context: Bangladesh_
 3. [Dozens of tornadoes spawned by thunderstorms touch down in the American Midwest, damaging or destroying numerous homes and businesses and causing some injuries. The Johnson County Executive Airport in Olathe, Kansas is closed following heavy damage caused by the severe weather. ](/news/2017/03/7/dozens-of-tornadoes-spawned-by-thunderstorms-touch-down-in-the-american-midwest-damaging-or-destroying-numerous-homes-and-businesses-and-ca.md) _Context: thunderstorm_
 4. [Four people are killed in twin bombings in Sylhet, Bangladesh. ](/news/2017/03/25/four-people-are-killed-in-twin-bombings-in-sylhet-bangladesh.md) _Context: Bangladesh_

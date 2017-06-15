@@ -1,7 +1,7 @@
 ## [2009-02-13](/news/2009/02/13/index.md)
 
 ### [ The United States Congress approves the American Recovery and Reinvestment Act of 2009.  ](/news/2009/02/13/the-united-states-congress-approves-the-american-recovery-and-reinvestment-act-of-2009.md)
-_Context: American Recovery and Reinvestment Act, U.S. Congressional, United States_
+_Context: American Recovery and Reinvestment Act, United States, United States Congress_
 
 ### [ Zimbabwe's Republic Police charge Roy Bennett of the Movement for Democratic Change with treason. ](/news/2009/02/13/zimbabwe-s-republic-police-charge-roy-bennett-of-the-movement-for-democratic-change-with-treason.md)
 _Context: Movement for Democratic Change, Roy Bennett, Zimbabwe, police, treason_

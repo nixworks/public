@@ -10,7 +10,7 @@ Syrian government forces and rebel fighters in a besieged Damascus suburb have a
 One Palestinian reported injured in apparent retaliation for Kassam strike; Netanyahu says Hamas to blame for escalation
 
 ### [Shipping companies United Parcel Service and FedEx apologize for late Christmas package deliveries in the United States, citing high volumes of packages. ](/news/2013/12/26/shipping-companies-united-parcel-service-and-fedex-apologize-for-late-christmas-package-deliveries-in-the-united-states-citing-high-volumes.md)
-_Context: Christmas, FedEx, United Parcel Service_
+_Context: Christmas, FedEx, UPS_
 
 ### [The Reserve Bank of India warns users of risks involved in virtual currencies such as Bitcoin and Dogecoin. ](/news/2013/12/26/the-reserve-bank-of-india-warns-users-of-risks-involved-in-virtual-currencies-such-as-bitcoin-and-dogecoin.md)
 The Reserve Bank of India has today cautioned the users, holders and traders of Virtual currencies (VCs), including Bitcoins, about the potential financial, operational, legal , customer protection and security related risks that they are exposing themselves to. The Reserve Bank has mentioned that it has been looking at the developments relating to certain electronic [&hellip;]

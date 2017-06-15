@@ -25,7 +25,7 @@ LOS ANGELES -- Firefighters worked to protect hundreds of homes threatened by a 
 Two Labour peers are suspended by the party and a UUP peer resigns his party whip after undercover reporters film them apparently agreeing to carry out Parliamentary work for payments.
 
 ### [The Supreme Constitutional Court of Egypt rules that the country's Islamist dominated Parliament and Constituent Assembly of Egypt were illegally elected. ](/news/2013/06/2/the-supreme-constitutional-court-of-egypt-rules-that-the-country-s-islamist-dominated-parliament-and-constituent-assembly-of-egypt-were-ille.md)
-_Context: Constituent Assembly of Egypt, Islamist, Parliament of Egypt, Supreme Constitutional Court_
+_Context: Constituent Assembly of Egypt, Egyptian parliament, Islamist, Supreme Constitutional Court_
 
 ### [New research finds that graphene is the strongest material in the world, even when patched together. ](/news/2013/06/2/new-research-finds-that-graphene-is-the-strongest-material-in-the-world-even-when-patched-together.md)
 _Context: graphene_

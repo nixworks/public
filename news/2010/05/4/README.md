@@ -10,7 +10,7 @@ _Context: Argentina, Argentine, Campana, Nstor Kirchner, President, Union of Sou
 U.S. prosecutors charge the man accused of trying to explode a car bomb in New York&#39;s Times Square with five counts including trying to explode a weapon of mass destruction. 
 
 ### [Air travel disruption after the 2010 Eyjafjallajkull eruption:Flights in and out of Northern Ireland and the Republic of Ireland are grounded for several hours. ](/news/2010/05/4/air-travel-disruption-after-the-2010-eyjafjallajokull-eruption-pflights-in-and-out-of-northern-ireland-and-the-republic-of-ireland-are-groun.md)
-_Context: Air travel disruption after the 2010 Eyjafjallajkull eruption, Ireland, Northern Ireland_
+_Context: Air travel disruption after the 2010 Eyjafjallajkull eruption, Northern Ireland, Republic of Ireland_
 
 ### [Rising floodwaters from the Cumberland River flood the Grand Ole Opry House with several feet of water, and cause evacuations in Nashville, Tennessee. ](/news/2010/05/4/rising-floodwaters-from-the-cumberland-river-flood-the-grand-ole-opry-house-with-several-feet-of-water-and-cause-evacuations-in-nashville.md)
 Parts of downtown Nashville were evacuated as the rising Cumberland River flowed into streets. At least 19 people in Tennessee, Kentucky and Mississippi have been killed.

@@ -19,7 +19,7 @@ Three people disguised as Christian pilgrims were removed from the Basilica of t
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Former U.S. Representative Randy "Duke" Cunningham of California, a Republican, is sentenced to eight years and four months in federal prison after pleading guilty to accepting at least $2.4 million in bribes. It is the longest prison term that any former member of Congress has ever been sentenced to. ](/news/2006/03/3/former-u-s-representative-randy-duke-cunningham-of-california-a-republican-is-sentenced-to-eight-years-and-four-months-in-federal-pris.md)
-_Context: California, R, Randy "Duke" Cunningham, United States House of Representatives_
+_Context: California, Randy "Duke" Cunningham, Republicans, United States House of Representatives_
 
 ### [ British Labour Party MPs close to Gordon Brown call for Culture Secretary Tessa Jowell to resign over her husband, David Mills' alleged acceptance of money from Silvio Berlusconi. ](/news/2006/03/3/british-labour-party-mps-close-to-gordon-brown-call-for-culture-secretary-tessa-jowell-to-resign-over-her-husband-david-mills-alleged-acc.md)
 _Context: David Mills, Gordon Brown, Labour, MP, Silvio Berlusconi, Tessa Jowell_

@@ -12,7 +12,7 @@
 ### Related:
 
 1. [ Tornadoes in northern Bangladesh kills 27. ](/news/2005/03/21/tornadoes-in-northern-bangladesh-kills-27.md) _Context: Bangladesh, tornado_
-2. [At least 107 people are dead and dozens missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-107-people-are-dead-and-dozens-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: Bangladesh_
+2. [At least 134 people are dead and dozens are missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-134-people-are-dead-and-dozens-are-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: Bangladesh_
 3. [More than 300,000 people are evacuated in Bangladesh as Cyclone Mora approaches. ](/news/2017/05/30/more-than-300-000-people-are-evacuated-in-bangladesh-as-cyclone-mora-approaches.md) _Context: Bangladesh_
 4. [Robert Bentley, the Governor of Alabama, declares a state of emergency due to forecasts of storms with the threat of tornadoes during the day. The neighboring state of Georgia also faces the threat of severe weather. ](/news/2017/04/4/robert-bentley-the-governor-of-alabama-declares-a-state-of-emergency-due-to-forecasts-of-storms-with-the-threat-of-tornadoes-during-the-da.md) _Context: tornado_
 5. [The death tolls from tornadoes and floods in the midwestern and southern United States rises to ten with two people missing. ](/news/2017/04/30/the-death-tolls-from-tornadoes-and-floods-in-the-midwestern-and-southern-united-states-rises-to-ten-with-two-people-missing.md) _Context: tornado_

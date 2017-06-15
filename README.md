@@ -24,14 +24,20 @@ _Context: Democratic Party, District of Columbia, Maryland, Presidency of Donald
 ### [Australia agrees to pay AUS$70 million in compensation to 1,905 people who have been detained on Manus Island since 2012, so avoiding a public trial against the government and the Transfield and G4S private companies for the detainees' degrading and cruel treatment. ](/news/2017/06/14/australia-agrees-to-pay-aus-70-million-in-compensation-to-1-905-people-who-have-been-detained-on-manus-island-since-2012-so-avoiding-a-publ.md)
 Detainees at an Australian asylum-seeker camp in Papua New Guinea won millions of dollars in compensation for &quot;degrading and cruel&quot; treatment Wednesday, in a decision hailed as an important human rights victory.
 
-### [Michigan Attorney General Bill Schuette charges five people, including the director of the state Department of Health and Human Services, with involuntary manslaughter for their roles in the Legionnaires' disease outbreak that led to 12 deaths. ](/news/2017/06/14/michigan-attorney-general-bill-schuette-charges-five-people-including-the-director-of-the-state-department-of-health-and-human-services-wi.md)
+### [Michigan Attorney General Bill Schuette charges five people, including the director of the Michigan Department of Health and Human Services, with involuntary manslaughter for their roles in the Legionnaires' disease outbreak that led to 12 deaths. ](/news/2017/06/14/michigan-attorney-general-bill-schuette-charges-five-people-including-the-director-of-the-michigan-department-of-health-and-human-services.md)
 The investigation has now reached high-ranking state officials.
+
+### [The woman whose remains were found scattered along the Military Road in Wicklow, Ireland was named locally today as Patricia O'Connor, a 61 year old from Rathfarnham. A man was arrested in connection with this on Tuesday.](/news/2017/06/14/the-woman-whose-remains-were-found-scattered-along-the-military-road-in-wicklow-ireland-was-named-locally-today-as-patricia-o-connor-a-61.md)
+_Context: Ireland, Killing of Patricia O'Connor, Military Road, Rathfarnham, Wicklow_
 
 ### [Aftermath of the Tim Farron resigns as leader of the Liberal Democrats amid controversy concerning his views on gay sexual practices. ](/news/2017/06/14/aftermath-of-the-tim-farron-resigns-as-leader-of-the-liberal-democrats-amid-controversy-concerning-his-views-on-gay-sexual-practices.md)
 Tim Farron has resigned as leader of the Liberal Democrats, following a furore over his beliefs concerning gay sex. The politician admitted some of his comments concerning the matter could have been wiser – when asked if homosexuality is a sin he had previously responded: “We are all sinners.” After the matter refused to go away and surfaced again during the election campaign, Mr Farron said it had felt “impossible” to be both Lib Dem leader and a Christian.
 
 ### [Leo Varadkar becomes the first gay Taoiseach of the  Republic of Ireland. ](/news/2017/06/14/leo-varadkar-becomes-the-first-gay-taoiseach-of-the-republic-of-ireland.md)
 _Context: Leo Varadkar, Republic of Ireland, Taoiseach, gay_
+
+### [The deceased body of a rare two-headed porpoise is located for the first time in the North Sea by Dutch fishermen. ](/news/2017/06/14/the-deceased-body-of-a-rare-two-headed-porpoise-is-located-for-the-first-time-in-the-north-sea-by-dutch-fishermen.md)
+Fished from a trawl net, Dutch fisherman stumbled upon the extremely rare catch in the North Sea.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)

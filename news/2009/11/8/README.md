@@ -37,7 +37,7 @@ _Context: United States House of Representatives, health care reform act_
 _Context: 14th Dalai Lama, Arunachal Pradesh, India, People's Republic of China, Tawang_
 
 ### [ Northern Mariana Islands general election, 2009 results are released Republican Party candidate Heinz Hofschneider and incumbent Governor Benigno Fitial virtually tie in the closest gubernatorial election in history. A runoff election will be held in the next 14 days to determine the winner. ](/news/2009/11/8/northern-mariana-islands-general-election-2009-results-are-releasedp-republican-party-candidate-heinz-hofschneider-and-incumbent-governor.md)
-_Context: 2009 gubernatorial election and runoff, Benigno Fitial, Governor of the Northern Mariana Islands, Heinz Hofschneider, Northern Mariana Islands general election, 2009, R, runoff election_
+_Context: 2009 gubernatorial election and runoff, Benigno Fitial, Governor of the Northern Mariana Islands, Heinz Hofschneider, Northern Mariana Islands general election, 2009, Republicans, runoff election_
 
 ## [Previous Day...](/news/2009/11/7/index.md)
 

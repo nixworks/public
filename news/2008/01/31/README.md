@@ -13,7 +13,7 @@ _Context: Minnesota, pig, progressive inflammatory neuropathy, slaughterhouse_
 _Context: French Polynesia_
 
 ### [ United States presidential election, 2008: Democratic Senators Hillary Clinton and Barack Obama hold the first two-person debate. ](/news/2008/01/31/united-states-presidential-election-2008-democratic-senators-hillary-clinton-and-barack-obama-hold-the-first-two-person-debate.md)
-_Context: 2008, Barack Obama, D, Hillary Clinton, United States Senate_
+_Context: 2008, Barack Obama, Democratic Party, Hillary Clinton, United States Senate_
 
 ## [Previous Day...](/news/2008/01/30/index.md)
 

@@ -1,7 +1,7 @@
 ## [2007-10-25](/news/2007/10/25/index.md)
 
 ### [ Supporters of a U.S. congressional resolution condemning the Armenian genocide drop calls for a vote. ](/news/2007/10/25/supporters-of-a-u-s-congressional-resolution-condemning-the-armenian-genocide-drop-calls-for-a-vote.md)
-_Context: U.S. Congressional, genocide of Armenians_
+_Context: United States Congress, genocide of Armenians_
 
 ### [ The death toll from the California wildfires of October 2007 rises to 12 as four bodies are discovered near the Mexican border. ](/news/2007/10/25/the-death-toll-from-the-california-wildfires-of-october-2007-rises-to-12-as-four-bodies-are-discovered-near-the-mexican-border.md)
 American border patrol agents discovered four charred bodies in rugged mountains near the Mexican border, bringing the probable death toll from California&#039;s bushfires to 12, even as firefighters gained the upper hand in their five-day battle.

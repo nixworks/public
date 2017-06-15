@@ -13,7 +13,7 @@ _Context: Iraq, Morocco_
 _Context: European Union, George W. Bush, Iran, U.S. President, United States, nuclear scientist_
 
 ### [ United States Republican senators block moves to levy a windfall profits tax on oil companies. ](/news/2008/06/10/united-states-republican-senators-block-moves-to-levy-a-windfall-profits-tax-on-oil-companies.md)
-_Context: R, United States, United States Senate, windfall profits tax_
+_Context: Republicans, United States, United States Senate, windfall profits tax_
 
 ### [ Water from the Tangjiashan Lake, created in the 2008 Sichuan earthquake, floods the abandoned town of Beichuan. ](/news/2008/06/10/water-from-the-tangjiashan-lake-created-in-the-2008-sichuan-earthquake-floods-the-abandoned-town-of-beichuan.md)
 _Context: Beichuan, Tangjiashan Lake, deadly earthquake, flood_

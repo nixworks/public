@@ -7,13 +7,13 @@ _Context: A suicide bomber kills, Darra Adam Khel, Khyber Pakhtunkhwa, Pakistan,
 _Context: Khanur Mahar, Sindh_
 
 ### [Al-Qaeda in the Arabian Peninsula claims responsibility for the cargo plane bomb plot of October 29, 2010 and a September UPS plane crash in Dubai. ](/news/2010/11/5/al-qaeda-in-the-arabian-peninsula-claims-responsibility-for-the-cargo-plane-bomb-plot-of-october-29-2010-and-a-september-ups-plane-crash-in.md)
-_Context: Dubai, United Parcel Service, Yemen bomb attacks, al-Qaida_
+_Context: Dubai, UPS, Yemen bomb attacks, al-Qaida_
 
 ### [In the United Kingdom, members of the National Union of Journalists at the BBC begin a 48 hour strike in a dispute over proposed changes to the Corporation's pension scheme. BBC News operates a reduced service. ](/news/2010/11/5/in-the-united-kingdom-members-of-the-national-union-of-journalists-at-the-bbc-begin-a-48-hour-strike-in-a-dispute-over-proposed-changes-to.md)
 Members of the National Union of Journalists working for BBC News take industrial action in a dispute over proposed changes to staff pensions.
 
 ### [MSNBC suspends U.S. television pundit Keith Olbermann indefinitely for making political donations to three Democratic Party candidates. ](/news/2010/11/5/msnbc-suspends-u-s-television-pundit-keith-olbermann-indefinitely-for-making-political-donations-to-three-democratic-party-candidates.md)
-_Context: D, Keith Olbermann, MSNBC, political donation_
+_Context: Democratic Party, Keith Olbermann, MSNBC, political donation_
 
 ### [''Ready Steady Cook'', thought to be the longest running cookery show currently on television, is axed by the BBC. ](/news/2010/11/5/ready-steady-cook-thought-to-be-the-longest-running-cookery-show-currently-on-television-is-axed-by-the-bbc.md)
 _Context: BBC, Ready Steady Cook_

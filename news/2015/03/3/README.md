@@ -31,7 +31,7 @@ _Context: Central Commission for Discipline Inspection, China, Hebei, Jing Chunh
 Slovenia joined a growing number of European countries that allow same-sex marriages late on Tuesday, almost three years after a similar law was rejected in a national referendum.
 
 ### [Israeli Prime Minister Benjamin Netanyahu addresses a joint meeting of the United States Congress over the nuclear program of Iran. ](/news/2015/03/3/israeli-prime-minister-benjamin-netanyahu-addresses-a-joint-meeting-of-the-united-states-congress-over-the-nuclear-program-of-iran.md)
-_Context: Benjamin Netanyahu, Prime Minister of Israel, U.S. Congressional, joint session of Congress, nuclear scientist_
+_Context: Benjamin Netanyahu, Prime Minister of Israel, United States Congress, joint session of Congress, nuclear scientist_
 
 ### [Myanmarese students on a march to Yangon to protest an academic bill defy a police order to disperse in Letpadan Township. ](/news/2015/03/3/myanmarese-students-on-a-march-to-yangon-to-protest-an-academic-bill-defy-a-police-order-to-disperse-in-letpadan-township.md)
 Hundreds of students protesting against an education bill in Myanmar have defied an order to disperse despite being surrounded by police.

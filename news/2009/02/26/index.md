@@ -34,7 +34,7 @@ _Context: 2008 Mumbai attacks, Ajmal Kasab, India, Mumbai, conflict zones_
 _Context: PS, Royal Bank of Scotland Group_
 
 ### [ Thirteen thousand civil servants stage a one-day strike action in Ireland. ](/news/2009/02/26/thirteen-thousand-civil-servants-stage-a-one-day-strike-action-in-ireland.md)
-_Context: Ireland, public sector, strike_
+_Context: Republic of Ireland, public sector, strike_
 
 ### [ Former Guinean President Lansana Conte's eldest son confesses to drug trafficking. ](/news/2009/02/26/former-guinean-president-lansana-conta-c-s-eldest-son-confesses-to-drug-trafficking.md)
 _Context: Guinea, Lansana Conte, President, anti-drug plan_

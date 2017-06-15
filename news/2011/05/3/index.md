@@ -70,7 +70,7 @@ Liberal MP Shelley Hancock has been elected the first female speaker of the NSW 
 The Conservative Party will again govern Canada, this time with a majority, following the country’s fourth election in seven years.
 
 ### [American Republican politician Beth Gaines is elected to the district in the California State Assembly previously held by her husband Ted Gaines who is now serving in the California State Senate. ](/news/2011/05/3/american-republican-politician-beth-gaines-is-elected-to-the-district-in-the-california-state-assembly-previously-held-by-her-husband-ted-ga.md)
-_Context: Beth Gaines, California State Assembly, California state senator, R, Ted Gaines, district_
+_Context: Beth Gaines, California State Assembly, California state senator, Republicans, Ted Gaines, district_
 
 ### [The United Nations projects that the world's population will pass 7 billion on October 31, 2011. ](/news/2011/05/3/the-united-nations-projects-that-the-world-s-population-will-pass-7-billion-on-october-31-2011.md)
 _Context: United Nations, population_

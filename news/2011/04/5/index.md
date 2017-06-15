@@ -64,7 +64,7 @@ _Context: Idaho House of Representatives, abortion, fetus_
 _Context: David Prosser, Jr., Joanne Kloppenburg, Wisconsin, Wisconsin Supreme Court_
 
 ### [Florida Congresswoman Debbie Wasserman Schultz is appointed as the Chairwoman of the US Democratic National Committee. ](/news/2011/04/5/florida-congresswoman-debbie-wasserman-schultz-is-appointed-as-the-chairwoman-of-the-us-democratic-national-committee.md)
-_Context: Debbie Wasserman Schultz, Democratic National Committee, Florida, U.S. Congressional_
+_Context: Debbie Wasserman Schultz, Democratic National Committee, Florida, United States Congress_
 
 ### [The World Meteorological Organisation reports that the ozone layer is damaged to its worst extent ever in the Arctic. ](/news/2011/04/5/the-world-meteorological-organisation-reports-that-the-ozone-layer-is-damaged-to-its-worst-extent-ever-in-the-arctic.md)
 The stratospheric ozone layer, which shields the Earth from the Sun&#039;s harmful ultraviolet rays, has been damaged to its greatest-ever extent over the Arctic this winter.

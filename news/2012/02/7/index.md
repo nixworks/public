@@ -43,7 +43,7 @@ _Context: Iran, Iranian Revolution, Islamic Consultative Assembly, Mahmoud Ahmad
 _Context: Uganda, law_
 
 ### [The United States Congress votes to pass legislation allowing for greater use of drone aircraft in the United States. ](/news/2012/02/7/the-united-states-congress-votes-to-pass-legislation-allowing-for-greater-use-of-drone-aircraft-in-the-united-states.md)
-_Context: U.S. Congressional, United States, drone aircraft_
+_Context: United States, United States Congress, drone aircraft_
 
 ## [Previous Day...](/news/2012/02/6/index.md)
 

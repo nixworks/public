@@ -25,7 +25,7 @@ _Context: The Lancet, marijuana, psychosis_
 _Context: NASA, astronaut, drunks_
 
 ### [ The United States Congress passes a bill containing measures recommended by the 9/11 Commission. ](/news/2007/07/27/the-united-states-congress-passes-a-bill-containing-measures-recommended-by-the-9-11-commission.md)
-_Context: 9/11 Commission, U.S. Congressional_
+_Context: 9/11 Commission, United States Congress_
 
 ### [ The United Nations Educational, Scientific and Cultural Organisation dispatches a team to investigate the shooting of four mountain gorillas in the Virunga National Park in the Democratic Republic of the Congo. ](/news/2007/07/27/the-united-nations-educational-scientific-and-cultural-organisation-dispatches-a-team-to-investigate-the-shooting-of-four-mountain-gorilla.md)
 _Context: Democratic Republic of the Congo, United Nations Educational, Scientific and Cultural Organisation, Virunga National Park, mountain gorilla_

@@ -34,7 +34,7 @@ Yahya Jammeh had conceded result to Adama Barrow but now claims ‘fresh and tra
 _Context: Heroes' Cemetery, Human Rights Day, Philippine Drug War, Philippines, Rodrigo Duterte, burial of Ferdinand Marcos_
 
 ### [John N. Kennedy of the Republican Party defeats Foster Campbell of the Democratic Party to become the junior Senator for Louisiana. ](/news/2016/12/10/john-n-kennedy-of-the-republican-party-defeats-foster-campbell-of-the-democratic-party-to-become-the-junior-senator-for-louisiana.md)
-_Context: D, Foster Campbell, John N. Kennedy, Louisiana, R, United States Senate election in Louisiana, 2016_
+_Context: Democratic Party, Foster Campbell, John N. Kennedy, Louisiana, Republicans, United States Senate election in Louisiana, 2016_
 
 ## [Previous Day...](/news/2016/12/9/index.md)
 

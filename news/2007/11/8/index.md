@@ -25,7 +25,7 @@ _Context: Dubai, United Arab Emirates_
 The surprise announcement appeared to be an effort to alleviate the domestic unrest and international concern after police action in Tbilisi.
 
 ### [ The United States Congress overrides President George W. Bush's veto of the $23 billion Water Resource Bill. ](/news/2007/11/8/the-united-states-congress-overrides-president-george-w-bush-s-veto-of-the-23-billion-water-resource-bill.md)
-_Context: George W. Bush, U.S. Congressional, Water Resource Bill_
+_Context: George W. Bush, United States Congress, Water Resource Bill_
 
 ### [ Asian markets drop sharply for the third time in five sessions. The volatile Hang Seng Index drops nearly 1,000 points on the day, and the Shanghai Composite Index ends nearly 5% lower. ](/news/2007/11/8/asian-markets-drop-sharply-for-the-third-time-in-five-sessions-the-volatile-hang-seng-index-drops-nearly-1-000-points-on-the-day-and-the.md)
 _Context: Hang Seng Index, Shanghai Composite Index_

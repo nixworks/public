@@ -4,7 +4,7 @@
 _Context: CBS News, European Union, George W. Bush, Iran, Iran and weapons of mass destruction, Mahmoud Ahmadinejad, Mike Wallace, President, United States, letter he sent, nuclear programme_
 
 ### [ Amid news of slower-than expected growth and a quarterly rise in the unemployment rate in the United States, Federal Reserve System Chairman Ben Bernanke announced that there will be no increase to the Fed fund rate, ending a two-year period of rising interest rates. ](/news/2006/08/8/amid-news-of-slower-than-expected-growth-and-a-quarterly-rise-in-the-unemployment-rate-in-the-united-states-federal-reserve-system-chairma.md)
-_Context: Ben Bernanke, Federal Reserve System, United States_
+_Context: Ben Bernanke, U.S. Federal Reserve, United States_
 
 ### [ As Chadian President Idriss Dby is sworn-in to his third term in office, he hugs Sudanese President Omar al-Bashir, who only a few days ago was overseeing a campaign to overthrow the second Dby administration. ](/news/2006/08/8/as-chadian-president-idriss-deby-is-sworn-in-to-his-third-term-in-office-he-hugs-sudanese-president-omar-al-bashir-who-only-a-few-days-ag.md)
 _Context: Chadian President, Idriss Deby, Omar al-Bashir, Sudanese President, second Dby administration_

@@ -11,7 +11,7 @@ About 30 migrant workers are injured in a shooting on a strawberry farm in Greec
 
 ### Related:
 
-1. [At least 107 people are dead and dozens missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-107-people-are-dead-and-dozens-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: Bangladesh_
+1. [At least 134 people are dead and dozens are missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-134-people-are-dead-and-dozens-are-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: Bangladesh_
 2. [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-one-death-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md) _Context: Greece_
 3. [More than 300,000 people are evacuated in Bangladesh as Cyclone Mora approaches. ](/news/2017/05/30/more-than-300-000-people-are-evacuated-in-bangladesh-as-cyclone-mora-approaches.md) _Context: Bangladesh_
 4. [Scientists discover 7.2 million-year-old "pre-human" remains in the Balkans area near Bulgaria and Greece. ](/news/2017/05/23/scientists-discover-7-2-million-year-old-pre-human-remains-in-the-balkans-area-near-bulgaria-and-greece.md) _Context: Greece_

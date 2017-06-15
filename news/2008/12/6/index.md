@@ -10,10 +10,10 @@ US President-elect Barack Obama has selected retired General Eric Shinseki, who 
 _Context: India, November terrorist attacks, SIM, mobile phone_
 
 ### [ The Republic of Ireland recalls all Irish pork products after the discovery of contaminated fodder. ](/news/2008/12/6/the-republic-of-ireland-recalls-all-irish-pork-products-after-the-discovery-of-contaminated-fodder.md)
-_Context: 2008 Irish pork crisis, Ireland, fodder, pork_
+_Context: 2008 Irish pork crisis, Republic of Ireland, fodder, pork_
 
 ### [ Joseph Cao defeats William J. Jefferson in Louisiana's 2nd congressional election, a major upset victory for the Republican Party. He is the first Vietnamese American ever to be elected to the U.S. House of Representatives. ](/news/2008/12/6/joseph-cao-defeats-william-j-jefferson-in-louisiana-s-2nd-congressional-election-a-major-upset-victory-for-the-republican-party-he-is-th.md)
-_Context: 2nd congressional election, Joseph Cao, Louisiana, R, United States House of Representatives, Vietnamese American, William J. Jefferson_
+_Context: 2nd congressional election, Joseph Cao, Louisiana, Republicans, United States House of Representatives, Vietnamese American, William J. Jefferson_
 
 ## [Previous Day...](/news/2008/12/5/index.md)
 

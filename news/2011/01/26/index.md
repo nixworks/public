@@ -64,7 +64,7 @@ Police launch a fresh investigation into phone hacking at the News of the World 
 Ireland&#039;s ruling Fianna Fail party on Wednesday elected former foreign minister Micheal Martin to replace Prime Minister Brian Cowen as its leader, following Mr Cowen&#039;s resignation at the weekend.
 
 ### [U.S. President Barack Obama delivers the annual State of the Union address calling on the United States Congress to improve the nation's "crumbling" infrastructure, saying it will create jobs and help the nation compete in the global economy. ](/news/2011/01/26/u-s-president-barack-obama-delivers-the-annual-state-of-the-union-address-calling-on-the-united-states-congress-to-improve-the-nation-s-cr.md)
-_Context: Barack Obama, State of the Union, U.S. Congressional_
+_Context: Barack Obama, State of the Union, United States Congress_
 
 ### [The preliminary results of the referendum on an independence for Southern Sudan will be announced in the next few days, with final results as early as February 7; most of the count in the south already completed shows 99% voted for independence.](/news/2011/01/26/the-preliminary-results-of-the-referendum-on-an-independence-for-southern-sudan-will-be-announced-in-the-next-few-days-with-final-results-a.md)
 _Context: Southern Sudan, Southern Sudanese Independence Referendum_
