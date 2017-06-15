@@ -1,4 +1,15 @@
-## [News](/news/2017/06/14/index.md)
+## [News](/news/2017/06/15/index.md)
+
+### [Speculation regarding the health of Philippines President Rodrigo Duterte arises after he has not appeared in public for more than four days. Duterte previously skipped the Independence Day celebrations on the twelfth of June. ](/news/2017/06/15/speculation-regarding-the-health-of-philippines-president-rodrigo-duterte-arises-after-he-has-not-appeared-in-public-for-more-than-four-days.md)
+_Context: Independence Day, Philippines, Presidency of Rodrigo Duterte, Rodrigo Duterte_
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/06/14/index.md)
 
 ### [After a week-long assault, ISIL-KP captures the Tora Bora cave complex from the Taliban, allegedly in reaction to the 2017 Nangarhar airstrike. The Taliban say the fighting is still underway. ](/news/2017/06/14/after-a-week-long-assault-isil-kp-captures-the-tora-bora-cave-complex-from-the-taliban-allegedly-in-reaction-to-the-2017-nangarhar-airstri.md)
 _Context: 2017 Nangarhar airstrike, ISIL-KP, Taliban, Tora Bora, War in Afghanistan_
@@ -45,13 +56,9 @@ _Context: Government of Ireland, Leo Varadkar, Republic of Ireland, Taoiseach, g
 ### [The deceased body of a rare two-headed porpoise is located for the first time in the North Sea by Dutch fishermen. ](/news/2017/06/14/the-deceased-body-of-a-rare-two-headed-porpoise-is-located-for-the-first-time-in-the-north-sea-by-dutch-fishermen.md)
 Fished from a trawl net, Dutch fisherman stumbled upon the extremely rare catch in the North Sea.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/06/13/index.md)
+## [Day Before Yesterday](/news/2017/06/13/index.md)
 
 ### [At least 134 people are dead and dozens are missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-134-people-are-dead-and-dozens-are-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md)
 Officials said power and communications were cut in some areas, with weather hampering rescue work.
@@ -76,26 +83,7 @@ Taoiseach Enda Kenny has told the Dáil that he plans to travel to Áras an Uach
 
 ---
 
-## [Day Before Yesterday](/news/2017/06/12/index.md)
-
-### [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-one-death-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md)
- ISTANBUL (AP) — An earthquake with a preliminary magnitude of 6.2 shook western Turkey and the Greek island of Lesbos on Monday, injuring at least 10 people and damaging buildings
-
-### [Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md)
-_Context: China, Foreign relations of Panama, Panama, Taiwan, diplomatic ties, formal relations_
-
-### [A Ninth Circuit Appeals Court panel unanimously upholds the Hawaii district court decision to prevent implementation of revised Executive Order 13780. On May 25, the Fourth Circuit Appeals Court affirmed a similar ruling by the Maryland district court. ](/news/2017/06/12/a-ninth-circuit-appeals-court-panel-unanimously-upholds-the-hawaii-district-court-decision-to-prevent-implementation-of-revised-executive-or.md)
-The 9th U.S. Circuit Court of Appeals upheld an earlier decision by a federal judge in Hawaii to block the government from enforcing Trump&#x27;s executive order.
-
-### [Hundreds of people are detained at anti-corruption protest rallies in Moscow and St. Petersburg and many other towns, including opposition leader Alexei Navalny. ](/news/2017/06/12/hundreds-of-people-are-detained-at-anti-corruption-protest-rallies-in-moscow-and-st-petersburg-and-many-other-towns-including-opposition-l.md)
-Police detained Russian opposition leader Alexei Navalny at the entrance of his home on Monday, just before an unsanctioned rally he was going to hold in central Moscow, but the protest will still go ahead, his wife said on Twitter.
-
-### [A coalition led by the Democratic Party of Kosovo wins the most votes in yesterday's election and is in a good position to form a government led by former rebel leader and Prime Minister Ramush Haradinaj. ](/news/2017/06/12/a-coalition-led-by-the-democratic-party-of-kosovo-wins-the-most-votes-in-yesterday-s-election-and-is-in-a-good-position-to-form-a-government.md)
-_Context: Democratic Party of Kosovo, Kosovan parliamentary election, 2017, Prime Minister, Ramush Haradinaj_
-
----
-
-## [Previous Day...](/news/2017/06/11/index.md)
+## [Previous Day...](/news/2017/06/12/index.md)
 
 ---
 
