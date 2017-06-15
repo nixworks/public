@@ -1,9 +1,13 @@
 ### [2017-06-14](/news/2017/06/14/index.md)
 
-# The woman whose remains were found scattered along the Military Road in Wicklow, Ireland was named locally today as Patricia O'Connor, a 61 year old from Rathfarnham. A man was arrested in connection with this on Tuesday.
+# The woman whose remains were found scattered along the Military Road in Wicklow, Ireland was named locally today as Patricia O'Connor, a 61 year old from Rathfarnham. A man was arrested in connection with this on Tuesday. 
+
+Irish police say they believe the woman was murdered in a house in south Dublin before being moved.
 
 
+### Source:
 
+1. [BBC](http://www.bbc.com/news/world-europe-40276972)
 
 ### Related:
 
