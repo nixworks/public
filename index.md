@@ -1,6 +1,6 @@
 ## [News](/news/2017/06/15/index.md)
 
-### [A terrorist attack, involving a blast and gunfire, occurred at Shia mosque in Kabul, Afghanistan, on a crowded mosque killed several people. ](/news/2017/06/15/a-terrorist-attack-involving-a-blast-and-gunfire-occurred-at-shia-mosque-in-kabul-afghanistan-on-a-crowded-mosque-killed-several-people.md)
+### [A terrorist attack, involving a blast and gunfire, occurs at a Shia mosque in Kabul, Afghanistan, killing several people. ](/news/2017/06/15/a-terrorist-attack-involving-a-blast-and-gunfire-occurs-at-a-shia-mosque-in-kabul-afghanistan-killing-several-people.md)
 An attack hits a mosque in an area of the Afghan capital Kabul dominated by minority Shia Muslims.
 
 ### [An explosion at a kindergarten in Fengxian, Jiangsu Province, China, kills seven people and injures 66. ](/news/2017/06/15/an-explosion-at-a-kindergarten-in-fengxian-jiangsu-province-china-kills-seven-people-and-injures-66.md)
@@ -11,6 +11,9 @@ Critics including UN expert fear legislation passed by Abe government could targ
 
 ### [A European Union law enters force, scrapping roaming charges for people using mobile phones abroad within the EU and the European Economic Area. ](/news/2017/06/15/a-european-union-law-enters-force-scrapping-roaming-charges-for-people-using-mobile-phones-abroad-within-the-eu-and-the-european-economic-a.md)
 New rules mean EU citizens can call, text and browse the internet for the same price they pay at home.
+
+### [Serbian president Aleksandar Vucic nominates Ana Brnabic as the next Prime Minister of Serbia. If confirmed by the National Assembly, Brnabic will become Serbia's first female and gay Prime Minister. ](/news/2017/06/15/serbian-president-aleksandar-vuaia-nominates-ana-brnabia-as-the-next-prime-minister-of-serbia-if-confirmed-by-the-national-assembly-brn.md)
+_Context: Aleksandar Vucic, Ana Brnabic, National Assembly, Prime Minister of Serbia, Serbia_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
