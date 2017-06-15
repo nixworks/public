@@ -1,6 +1,6 @@
 ### [2017-06-14](/news/2017/06/14/index.md)
 
-# A large fire consumes the 24-storey Grenfell Tower apartment block in North Kensington, West London, with the entire building evacuated and over 40 fire engines and 200 firefighters battling the blaze. At least 12 people are dead and more people are treated for injuries, with more people possibly being trapped inside. 
+# A large fire consumes the 24-storey Grenfell Tower apartment block in North Kensington, West London, with the entire building evacuated and over 40 fire engines and 200 firefighters battling the blaze. At least 17 people are dead and more people are treated for injuries, with more people possibly being trapped inside. 
 
 Eyewitnesses say people are trapped and there are fears the residential building could collapse.
 
