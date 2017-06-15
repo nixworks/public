@@ -7,7 +7,8 @@ Critics including UN expert fear legislation passed by Abe government could targ
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/world/2017/jun/15/japan-passes-brutal-new-terror-law-which-opponents-fear-will-quash-freedoms)
+1. [CNN](http://www.cnn.com/2017/06/15/asia/japan-abe-anti-conspiracy-bill/index.html)
+2. [The Guardian](https://www.theguardian.com/world/2017/jun/15/japan-passes-brutal-new-terror-law-which-opponents-fear-will-quash-freedoms)
 
 ### Related:
 
