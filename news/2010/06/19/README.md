@@ -13,7 +13,7 @@ A former Rwandan army chief is in a critical condition having been shot in S Afr
 _Context: Darfur, Sudan_
 
 ### [Gunfire at a combat post in Afghanistan killed a French soldier and wounded an Afghan translator. ](/news/2010/06/19/gunfire-at-a-combat-post-in-afghanistan-killed-a-french-soldier-and-wounded-an-afghan-translator.md)
-_Context: Afghan, Frenchman_
+_Context: Afghanistan, Frenchman_
 
 ### [A drone attack on a militant hideout in North Waziristan in Pakistan, killed at least 13 people and injured six others. ](/news/2010/06/19/a-drone-attack-on-a-militant-hideout-in-north-waziristan-in-pakistan-killed-at-least-13-people-and-injured-six-others.md)
 _Context: North Waziristan, Pakistan_

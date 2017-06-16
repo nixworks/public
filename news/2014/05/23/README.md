@@ -4,7 +4,7 @@
 _Context: Egypt, Sinai insurgency, extremist groups_
 
 ### [Taliban insurgency:Gunmen attack the Indian consulate in Afghanistan's Herat Province. ](/news/2014/05/23/taliban-insurgency-pgunmen-attack-the-indian-consulate-in-afghanistan-s-herat-province.md)
-_Context: Afghan, Herat Province, Taliban insurgency, attack the Indian consulate_
+_Context: Afghanistan, Herat Province, Taliban insurgency, attack the Indian consulate_
 
 ### [May 2014 rmqi attack:Chinese media reports that five people involved in the rmqi bombings "blew themselves up". ](/news/2014/05/23/may-2014-urumqi-attack-pchinese-media-reports-that-five-people-involved-in-the-urumqi-bombings-blew-themselves-up.md)
 _Context: Chinese, May 2014 rmqi attack, Urumqi_

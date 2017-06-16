@@ -13,7 +13,7 @@ _Context: Iraq, Salahuddin province, United States Army, small arms_
 _Context: Ethiopian army, Mogadishu, two years of helping_
 
 ### [ War in Pakistan (2004-present); Sararogha Fort raid: Islamic militants overrun and capture a Pakistani military outpost, Sararogha Fort, close to the Afghan border in a battle that kills seven Pakistani soldiers and leaves 20 missing. The Pakistani military claims 50 attackers also died. ](/news/2008/01/16/war-in-pakistan-2004apresent-sararogha-fort-raid-islamic-militants-overrun-and-capture-a-pakistani-military-outpost-sararogha-fort.md)
-_Context: Afghan, Islamic militants, Pakistan, Sararogha Fort raid, War in Pakistan (2004-present), military_
+_Context: Afghanistan, Islamic militants, Pakistan, Sararogha Fort raid, War in Pakistan (2004-present), military_
 
 ### [ Avigdor Lieberman, the Israeli Strategic Affairs Minister, resigns from the Cabinet of Prime Minister Ehud Olmert with 10 party colleagues resigning from the government as well. ](/news/2008/01/16/avigdor-lieberman-the-israeli-strategic-affairs-minister-resigns-from-the-cabinet-of-prime-minister-ehud-olmert-with-10-party-colleagues.md)
 _Context: Avigdor Lieberman, Ehud Olmert, Israel, Prime Minister, forming a government_

@@ -10,7 +10,7 @@ _Context: Kenya, Nairobi, Somali_
 South Korea holds live-firing exercises on an island close to the border with North Korea, which Pyongyang condemns but vows not to retaliate.
 
 ### [13 Afghan soldiers were killed in two separate suicide attacks launched by Taliban in the capital city of Afghanistan. ](/news/2010/12/20/13-afghan-soldiers-were-killed-in-two-separate-suicide-attacks-launched-by-taliban-in-the-capital-city-of-afghanistan.md)
-_Context: Afghan, Kabul, Taliban_
+_Context: Afghanistan, Kabul, Taliban_
 
 ### [Pope Benedict XVI discusses sexual abuse of children by priests while dining with cardinals and bishops at his traditional Christmas audience. ](/news/2010/12/20/pope-benedict-xvi-discusses-sexual-abuse-of-children-by-priests-while-dining-with-cardinals-and-bishops-at-his-traditional-christmas-audienc.md)
 Pope Benedict calls for the Catholic Church to reflect on mistakes that allowed sexual abuse of children by priests to happen.

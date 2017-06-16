@@ -28,7 +28,7 @@ Union pledges to fight to reverse the decision.
 Gardaí and fire brigade personnel have overpowered a man who threatened to set himself on fire outside Government Buildings.
 
 ### [ Taliban militants kill 26 people in attacks on three government buildings in Kabul, Afghanistan. ](/news/2009/02/12/taliban-militants-kill-26-people-in-attacks-on-three-government-buildings-in-kabul-afghanistan.md)
-_Context: Afghan, Afghan government's, Kabul, Taliban, militant_
+_Context: Afghan government's, Afghanistan, Kabul, Taliban, militant_
 
 ### [ Venezuelan President Hugo Chavez alleges that the Army attempted to overthrow his government. ](/news/2009/02/12/venezuelan-president-hugo-cha-vez-alleges-that-the-army-attempted-to-overthrow-his-government.md)
 _Context: Army, Hugo Chavez, Venezuela, Venezuelan President, coup, government_

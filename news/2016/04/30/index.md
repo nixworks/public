@@ -55,7 +55,7 @@ Egypt put on trial 237 activists arrested for protesting against President Abdel
 _Context: Bongbong Marcos, Grace Poe, Iglesia ni Cristo, Philippine presidential election, 2016_
 
 ### [Roughly 2,000 people protest in Belgrade against alleged fraud in the country's recent election. The protesters accuse Prime Minister Aleksandar Vucic of manipulating the results in order to prevent the far-right Dveri party from reaching the 5-percent threshold and gaining seats in the National Assembly. A repeat vote is expected on May 4 in locations where voting irregularities have been found. ](/news/2016/04/30/roughly-2-000-people-protest-in-belgrade-against-alleged-fraud-in-the-country-s-recent-election-the-protesters-accuse-prime-minister-aleksa.md)
-_Context: Aleksandar Vucic, Belgrade, Dveri party, National Assembly, Prime Minster, Serbian parliamentary election, 2016_
+_Context: Aleksandar Vucic, Belgrade, Dveri party, National Assembly, Prime Minister of Serbia, Serbian parliamentary election, 2016_
 
 ### [  Iraqi officials declare a state of emergency for all of Baghdad after protesters loyal to popular Shiite cleric Muqtada al-Sadr stormed into Iraq's parliament in the Green Zone. ](/news/2016/04/30/iraqi-officials-declare-a-state-of-emergency-for-all-of-baghdad-after-protesters-loyal-to-popular-shiite-cleric-muqtada-al-sadr-stormed-in.md)
 Protesters loyal to a Shiite cleric breached Baghdad&#x27;s Green Zone Saturday, home to government buildings and foreign embassies.

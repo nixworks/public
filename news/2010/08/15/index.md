@@ -19,7 +19,7 @@ Prime minister calls for end to violence in speech marking independence day.
 _Context: Miranshah, North Waziristan, Pakistan, Taliban, United States_
 
 ### [Ayman al-Zawahiri, speaking via an audio message, criticises the Turkish government for what he says is co-operation with Israel, as well as "killing Muslims in Afghanistan". ](/news/2010/08/15/ayman-al-zawahiri-speaking-via-an-audio-message-criticises-the-turkish-government-for-what-he-says-is-co-operation-with-israel-as-well-as.md)
-_Context: Afghan, Ayman al-Zawahiri, Israel, Muslim, Turkey_
+_Context: Afghanistan, Ayman al-Zawahiri, Israel, Muslim, Turkey_
 
 ### [No people are killed in two blasts targeting Televisa in Monterrey and Matamoros. ](/news/2010/08/15/no-people-are-killed-in-two-blasts-targeting-televisa-in-monterrey-and-matamoros.md)
 Mexican television network Televisa is targeted in explosive attacks in two different cities.

@@ -4,7 +4,7 @@
 _Context: Damascus, Government of Syria, International Committee of the Red Cross, Syria, Syrian Civil War, humanitarian situation_
 
 ### [War in Afghanistan:New Zealand announces that it plans to withdraw its forces from Afghanistan's Bamiyan province by the end of April 2013. ](/news/2012/09/3/war-in-afghanistan-pnew-zealand-announces-that-it-plans-to-withdraw-its-forces-from-afghanistan-s-bamiyan-province-by-the-end-of-april-2013.md)
-_Context: Afghan, Bamiyan, New Zealand, New Zealand Defence Force, War in Afghanistan (2001-present)_
+_Context: Afghanistan, Bamiyan, New Zealand, New Zealand Defence Force, War in Afghanistan (2001-present)_
 
 ### [A car bomb explodes near the U.S. consulate in the Pakistani city of Peshawar, killing at least three people and wounding up to 19 others. ](/news/2012/09/3/a-car-bomb-explodes-near-the-u-s-consulate-in-the-pakistani-city-of-peshawar-killing-at-least-three-people-and-wounding-up-to-19-others.md)
 Police say a bomber killed two people and himself when he hit a US consulate vehicle in Peshawar, Pakistan, but the US says no Americans died.

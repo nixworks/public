@@ -7,7 +7,7 @@ _Context: Iran, Iraq, Piranshahr, helicopter_
 _Context: India, Mumbai_
 
 ### [ A dozen Taliban die in an attempted ambush of a joint patrol of Afghan police and Coalition troops in Helmand province. ](/news/2007/08/17/a-dozen-taliban-die-in-an-attempted-ambush-of-a-joint-patrol-of-afghan-police-and-coalition-troops-in-helmand-province.md)
-_Context: Afghan, Helmand Province, Taliban, ambush_
+_Context: Afghanistan, Helmand Province, Taliban, ambush_
 
 ### [ France circulates a draft United Nations Security Council resolution extending the mandate of the 13,600 United Nations peacekeeping force in Lebanon. ](/news/2007/08/17/france-circulates-a-draft-united-nations-security-council-resolution-extending-the-mandate-of-the-13-600-united-nations-peacekeeping-force.md)
 _Context: France, Lebanon, United Nations, United Nations Security Council_

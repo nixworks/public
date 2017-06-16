@@ -10,7 +10,7 @@ Minister says Dutch child is the sole survivor as up to 103 people are killed at
 RESTRICTIONS on flights to and from airports in Spain, Portugal and Morocco were yesterday lifted following days of disruption caused by volcanic ash cloud.
 
 ### [The International Committee of the Red Cross confirms reports of a second, secret US prison at Bagram Air Base in Afghanistan after new allegations of torture. ](/news/2010/05/12/the-international-committee-of-the-red-cross-confirms-reports-of-a-second-secret-us-prison-at-bagram-air-base-in-afghanistan-after-new-alle.md)
-_Context: Afghan, Bagram Air Base, International Committee of the Red Cross_
+_Context: Afghanistan, Bagram Air Base, International Committee of the Red Cross_
 
 ### [Russia and Turkey sign a $20 billion deal permitting Moscow to build and own a controlling stake in Ankara's first nuclear power plant. ](/news/2010/05/12/russia-and-turkey-sign-a-20-billion-deal-permitting-moscow-to-build-and-own-a-controlling-stake-in-ankara-s-first-nuclear-power-plant.md)
 _Context: Ankara, Moscow, Russia, Turkey_

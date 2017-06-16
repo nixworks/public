@@ -7,7 +7,7 @@ _Context: 2016 Istanbul airport attack, Istanbul Ataturk Airport_
 Khalidi and Tom Perry
 
 ### [Kenyan army forces kill five suspected Al-Shabaab militants, four during a clash at a military camp in Lamu County, and another in Malindi. ](/news/2016/06/29/kenyan-army-forces-kill-five-suspected-al-shabaab-militants-four-during-a-clash-at-a-military-camp-in-lamu-county-and-another-in-malindi.md)
-_Context: Al-Shabaab, Kenyan army forces, Lamu County, Malindi, War in Somalia_
+_Context: Kenyan army forces, Lamu County, Malindi, War in Somalia, al-Shabaab militants_
 
 ### [Toyota, which on Tuesday announced a recall of 1.43 million  hybrids because of an airbag problem, today announces the recall of 2.87 million vehicles worldwide, produced between April 2006 and August 2015, because of a possible problem with their evaporative fuel emissions control unit. ](/news/2016/06/29/toyota-which-on-tuesday-announced-a-recall-of-1-43-million-hybrids-because-of-an-airbag-problem-today-announces-the-recall-of-2-87-millio.md)
 Toyota Motor Corp (7203.T) has recalled 3.37 million cars worldwide over possible defects involving air bags and emissions control units.

@@ -22,7 +22,7 @@ _Context: Africa, USS ''Cole'' bombing, United States, Waleed bin Attash, al-Qae
 A high school senior&#8217;s 14-foot banner proclaiming &#8220;Bong Hits 4 Jesus&#8221; gave the Supreme Court a provocative prop for a lively argument Monday about the extent of schools&#8217; control over student speech.
 
 ### [ Daniele Mastrogiacomo, an Italian journalist working for ''la Repubblica'', is set free by the Taliban. He had been kidnapped in the Afghan province of Helmand on March 6. ](/news/2007/03/19/daniele-mastrogiacomo-an-italian-journalist-working-for-la-repubblica-is-set-free-by-the-taliban-he-had-been-kidnapped-in-the-afghan.md)
-_Context: Afghan, Daniele Mastrogiacomo, Helmand Province, Italy, La Repubblica, March 6, Taliban, journalist, kidnapped, provincial_
+_Context: Afghanistan, Daniele Mastrogiacomo, Helmand Province, Italy, La Repubblica, March 6, Taliban, journalist, kidnapped, provincial_
 
 ### [ The Israeli Ministerial Committee for Symbols and Ceremonies declares the 2006 Israel-Lebanon conflict a war. ](/news/2007/03/19/the-israeli-ministerial-committee-for-symbols-and-ceremonies-declares-the-2006-israel-lebanon-conflict-a-war.md)
 Ministerial Committee for Symbols and Ceremonies decides that last summer&#39;s conflict between Israel and Hizbullah will be defined as a war, following pressure from bereaved families. Committee to decide on name for war by Remembrance Day 

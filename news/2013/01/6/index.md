@@ -13,7 +13,7 @@ A US drone attack kills at least eight suspected militants in a Pakistan north-w
 _Context: Kachin, Kachin conflict, Laiza_
 
 ### [War in Afghanistan (2001-present):Suicide bombers kill four in an attack in Spin Boldak, Afghanistan. ](/news/2013/01/6/war-in-afghanistan-2001apresent-psuicide-bombers-kill-four-in-an-attack-in-spin-boldak-afghanistan.md)
-_Context: Afghan, Spin Boldak, War in Afghanistan (2001-present)_
+_Context: Afghanistan, Spin Boldak, War in Afghanistan (2001-present)_
 
 ### [2012-2013 Central African Republic rebellion:South Africa announces it will send 400 more soldiers to the Central African Republic in an effort to assist the current regime, which faces a potential attack by the Seleka rebel coalition on the capital. ](/news/2013/01/6/2012a2013-central-african-republic-rebellion-psouth-africa-announces-it-will-send-400-more-soldiers-to-the-central-african-republic-in-an.md)
 South Africa is sending more soldiers to support government troops in the Central African Republic, where rebels are threatening the capital.

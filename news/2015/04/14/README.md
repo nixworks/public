@@ -4,7 +4,7 @@
 One vehicle parked near bakery and went off as people were queuing to buy bread 
 
 ### [al-Shabab gunmen enter the Higher Education Ministry building in Mogadishu after a large explosion is reported. ](/news/2015/04/14/al-shabab-gunmen-enter-the-higher-education-ministry-building-in-mogadishu-after-a-large-explosion-is-reported.md)
-_Context: Al-Shabaab, Mogadishu, War in Somalia_
+_Context: Mogadishu, War in Somalia, al-Shabaab militants_
 
 ### [The ''Wall Street Journal'' reports that European Union regulators have announced plans to file charges against American Internet company Google following a European Union investigation. ](/news/2015/04/14/the-wall-street-journal-reports-that-european-union-regulators-have-announced-plans-to-file-charges-against-american-internet-company-go.md)
 EU regulators decided Tuesday that they would file charges against Google stemming from an antitrust investigation, according to reports.

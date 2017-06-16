@@ -34,7 +34,7 @@ _Context: 2005 Sydney terrorism plot_
 _Context: Cyclone Rene, Nuku`alofa, Tonga, Vava`u_
 
 ### [A joint NATO and Afghan military operation is succeeding in pushing Taliban fighters from their strongholds in Helmand province. ](/news/2010/02/15/a-joint-nato-and-afghan-military-operation-is-succeeding-in-pushing-taliban-fighters-from-their-strongholds-in-helmand-province.md)
-_Context: Afghan, Helmand, NATO, Taliban_
+_Context: Afghanistan, Helmand, NATO, Taliban_
 
 ### [2010 Winter Olympics in Vancouver: ](/news/2010/02/15/2010-winter-olympics-in-vancouver.md)
 _Context: 2010 Winter Olympics, Vancouver_

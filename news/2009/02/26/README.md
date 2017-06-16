@@ -55,7 +55,7 @@ _Context: Kenya, Koobi Fora, anatomy, footprint, gait, human foot_
 _Context: Svalbard Global Seed Vault, crop, food, seed_
 
 ### [ The United States Defense Department allows news agencies to publicize photographs of the coffins of soldiers killed in Iraq and Afghanistan. ](/news/2009/02/26/the-united-states-defense-department-allows-news-agencies-to-publicize-photographs-of-the-coffins-of-soldiers-killed-in-iraq-and-afghanista.md)
-_Context: Afghan, Defense Department, Iraq, United States, United States military, coffin, news agency_
+_Context: Afghanistan, Defense Department, Iraq, United States, United States military, coffin, news agency_
 
 ### [ The Rocky Mountain News, one of Colorado's largest newspapers, publishes its last issue. This issue hits the streets the following morning.[www.9news.com]](/news/2009/02/26/the-rocky-mountain-news-one-of-colorado-s-largest-newspapers-publishes-its-last-issue-this-issue-hits-the-streets-the-following-morning.md)
 _Context: Rocky Mountain News_

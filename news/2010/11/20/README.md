@@ -31,7 +31,7 @@ _Context: People's Republic of China, Pope Benedict XVI, state-backed church_
 _Context: Ban Ki-moon, Iran, Navi Pillay, Secretary General, United Nations High Commissioner for Human Rights_
 
 ### [NATO summitNATO nations agree to start handing over Afghanistan's security to the Afghanistan military and give local forces total control by 2014. ](/news/2010/11/20/nato-summitpnato-nations-agree-to-start-handing-over-afghanistan-s-security-to-the-afghanistan-military-and-give-local-forces-total-control.md)
-_Context: Afghan, Afghan military, NATO_
+_Context: Afghan military, Afghanistan, NATO_
 
 ### [The United States Senate settles with a payment of $4.6 billion to black farmers and at least 300,000 Native Americans who objected to government discrimination and cheating in ''Cobell v. Salazar''. ](/news/2010/11/20/the-united-states-senate-settles-with-a-payment-of-4-6-billion-to-black-farmers-and-at-least-300-000-native-americans-who-objected-to-gover.md)
 The US Senate approves a $4.6bn (£2.9bn) payment to Native Americans and black farmers who complained of government discrimination.

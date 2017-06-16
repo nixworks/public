@@ -12,6 +12,9 @@ Critics including UN expert fear legislation passed by Abe government could targ
 ### [A European Union law enters force, scrapping roaming charges for people using mobile phones abroad within the EU and the European Economic Area. ](/news/2017/06/15/a-european-union-law-enters-force-scrapping-roaming-charges-for-people-using-mobile-phones-abroad-within-the-eu-and-the-european-economic-a.md)
 New rules mean EU citizens can call, text and browse the internet for the same price they pay at home.
 
+### [Several shots fired at truck flying 'Make America Great Again' flag on I-465 in Indiana. ](/news/2017/06/15/several-shots-fired-at-truck-flying-amake-america-great-againa-flag-on-i-465-in-indiana.md)
+INDIANAPOLIS, Ind. – Indiana State Police say shots were fired at a truck carrying a “Make America Great Again” flag and an American flag on eastbound I-465 Tuesday. Officers believe the shots were fired from a newer white 4-door Chevrolet Malibu with a Louisiana plate near Emerson Avenue around 4 p.m.
+
 ### [Serbian president Aleksandar Vucic nominates Ana Brnabic as the next Prime Minister of Serbia. If confirmed by the National Assembly, Brnabic will become Serbia's first female and gay Prime Minister. ](/news/2017/06/15/serbian-president-aleksandar-vuaia-nominates-ana-brnabia-as-the-next-prime-minister-of-serbia-if-confirmed-by-the-national-assembly-brn.md)
 _Context: Aleksandar Vucic, Ana Brnabic, National Assembly, Prime Minister of Serbia, Serbia_
 

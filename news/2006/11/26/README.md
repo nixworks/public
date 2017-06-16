@@ -16,7 +16,7 @@ _Context: Al Wefaq, Bahrain, Islamist, Sunni, parliamentary elections_
 Rocket fire from Gaza subsided Sunday after a daybreak cease-fire, raising hopes for an end to five months of bloody destruction and a new opening toward peace talks.
 
 ### [ One NATO soldier and 57 insurgents are killed in fighting in southern Afghanistan. ](/news/2006/11/26/one-nato-soldier-and-57-insurgents-are-killed-in-fighting-in-southern-afghanistan.md)
-_Context: Afghan, NATO_
+_Context: Afghanistan, NATO_
 
 ### [ Fiji crisis of 2005-2006: The Fijian military calls up 1,000 as military commander Commodore Frank Bainimarama states "my intention of removing this government is clear". ](/news/2006/11/26/fiji-crisis-of-2005-2006-the-fijian-military-calls-up-1-000-as-military-commander-commodore-frank-bainimarama-states-my-intention-of-remo.md)
 _Context: Fiji, Fiji crisis of 2005-2006, Voreqe Bainimarama_

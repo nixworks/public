@@ -4,7 +4,7 @@
 _Context: 2010-2011 Ivorian crisis, Abidjan, Alassane Ouattara, Laurent Gbagbo, Presidential Palace_
 
 ### [1,000 students protest at Kabul University as protests continue in Afghanistan over the burning of a Qur'an "found guilty" by pastor Terry Jones' church in the U.S. state of Florida. ](/news/2011/04/5/1-000-students-protest-at-kabul-university-as-protests-continue-in-afghanistan-over-the-burning-of-a-qur-an-found-guilty-by-pastor-terry-j.md)
-_Context: Afghan, Florida, Kabul University, Qur'an, Terry Jones, U.S. state, church_
+_Context: Afghanistan, Florida, Kabul University, Qur'an, Terry Jones, U.S. state, church_
 
 ### [2011 Syrian protests:Amid ongoing protests, Syria opposition says Assad wants talks ](/news/2011/04/5/2011-syrian-protests-pamid-ongoing-protests-syria-opposition-says-assad-wants-talks.md)
 _Context: Syrian uprising_

@@ -13,7 +13,7 @@ _Context: Bulls, Sharks, South African, Super 14, final, rugby union_
 _Context: Apia, Malietoa Tanumafili II, Samoa_
 
 ### [ Three German soldiers are killed with four civilians in a suicide bombing in Kunduz in northern Afghanistan. ](/news/2007/05/19/three-german-soldiers-are-killed-with-four-civilians-in-a-suicide-bombing-in-kunduz-in-northern-afghanistan.md)
-_Context: Afghan, Germany, Kunduz, suicide bombing_
+_Context: Afghanistan, Germany, Kunduz, suicide bombing_
 
 ### [ Romanian voters go to the polls to vote on the impeachment of the President of Romania, Traian Basescu. ](/news/2007/05/19/romanian-voters-go-to-the-polls-to-vote-on-the-impeachment-of-the-president-of-romania-traian-basescu.md)
 _Context: President, Romania, Traian Basescu, go to the polls, impeach_

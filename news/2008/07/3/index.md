@@ -1,7 +1,7 @@
 ## [2008-07-3](/news/2008/07/3/index.md)
 
 ### [ The Pentagon extends the tour of duty of the 24th Marine Expeditionary Unit in Afghanistan. ](/news/2008/07/3/the-pentagon-extends-the-tour-of-duty-of-the-24th-marine-expeditionary-unit-in-afghanistan.md)
-_Context: 24th Marine Expeditionary Unit, Afghan, United States military, tour of duty_
+_Context: 24th Marine Expeditionary Unit, Afghanistan, United States military, tour of duty_
 
 ### [ The European Central Bank increases interest rates in the Eurozone to 4.25 per cent to tackle inflation. ](/news/2008/07/3/the-european-central-bank-increases-interest-rates-in-the-eurozone-to-4-25-per-cent-to-tackle-inflation.md)
 _Context: European Central Bank, Eurozone, inflation, interest rates_

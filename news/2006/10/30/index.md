@@ -4,7 +4,7 @@
 _Context: Bulgaria, Georgi Parvanov, Volen Siderov, presidential elections_
 
 ### [ Chenagai airstrike: Pakistani helicopter gunships fired missiles and destroyed an al-Qaeda-linked training facility and killed 80 suspected terrorists in a northwestern tribal area near the Afghan border, in a madrassa near the town of Khar. ](/news/2006/10/30/chenagai-airstrike-pakistani-helicopter-gunships-fired-missiles-and-destroyed-an-al-qaeda-linked-training-facility-and-killed-80-suspected.md)
-_Context: Afghan, Chenagai airstrike, Khar, Pakistan, al-Qaeda, helicopter, madrassa, terrorism_
+_Context: Afghanistan, Chenagai airstrike, Khar, Pakistan, al-Qaeda, helicopter, madrassa, terrorism_
 
 ### [ The Israeli cabinet has approved the addition of the Yisrael Beitenu party into the governing coalition. ](/news/2006/10/30/the-israeli-cabinet-has-approved-the-addition-of-the-yisrael-beitenu-party-into-the-governing-coalition.md)
 _Context: Israeli cabinet, Yisrael Beitenu_

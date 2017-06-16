@@ -11,4 +11,5 @@ European lawmakers clinched a deal early on Wednesday to cap the wholesale charg
 
 ### Related:
 
-1. [ United States health officials issue a consumer alert for people to check their freezers for contaminated meat. ](/news/2007/08/30/united-states-health-officials-issue-a-consumer-alert-for-people-to-check-their-freezers-for-contaminated-meat.md) _Context: consumer_
+1. [A European Union law enters force, scrapping roaming charges for people using mobile phones abroad within the EU and the European Economic Area. ](/news/2017/06/15/a-european-union-law-enters-force-scrapping-roaming-charges-for-people-using-mobile-phones-abroad-within-the-eu-and-the-european-economic-a.md) _Context: European Union roaming regulations_
+2. [ United States health officials issue a consumer alert for people to check their freezers for contaminated meat. ](/news/2007/08/30/united-states-health-officials-issue-a-consumer-alert-for-people-to-check-their-freezers-for-contaminated-meat.md) _Context: consumer_

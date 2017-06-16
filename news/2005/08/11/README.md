@@ -13,7 +13,7 @@ _Context: Babur missile, Pakistan, cruise missile_
 _Context: John Garang, Salva Kiir, Sudan, Vice President, inauguration_
 
 ### [ Abortion in Ireland: Three Irish women are taking the Government of Ireland to the European Court of Human Rights to challenge Ireland's constitutional ban on Abortion. ](/news/2005/08/11/abortion-in-ireland-three-irish-women-are-taking-the-government-of-ireland-to-the-european-court-of-human-rights-to-challenge-ireland-s-co.md)
-_Context: European Court of Human Rights, Irish, Irish government, abortion, ban on Abortion, constitutional, women_
+_Context: European Court of Human Rights, Government of Ireland, Irish, abortion, ban on Abortion, constitutional, women_
 
 ### [ Mars Reconnaissance Orbiter was scheduled to be launched at 9:00am EST (local time for launch), but the launch was scrubbed due to technical problems. ](/news/2005/08/11/mars-reconnaissance-orbiter-was-scheduled-to-be-launched-at-9-00am-est-local-time-for-launch-but-the-launch-was-scrubbed-due-to-technica.md)
 _Context: EST, Mars Reconnaissance Orbiter_

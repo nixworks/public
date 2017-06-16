@@ -13,7 +13,7 @@ _Context: CIA, George W. Bush, Karl Rove, Matthew Cooper, Time, Valerie Plame, g
 _Context: Guadalajara, firefighter, forest fire_
 
 ### [ According to the Military of Pakistan, 17 people have died, including a Pakistani soldier, following clashes on the border with Afghanistan. ](/news/2005/07/17/according-to-the-military-of-pakistan-17-people-have-died-including-a-pakistani-soldier-following-clashes-on-the-border-with-afghanistan.md)
-_Context: Afghan, Pakistan, military_
+_Context: Afghanistan, Pakistan, military_
 
 ### [ Conflict in Iraq: A fuel truck bomb kills 98 people south of Baghdad as three more suicide car bombers strike the Iraqi capital. ](/news/2005/07/17/conflict-in-iraq-a-fuel-truck-bomb-kills-98-people-south-of-baghdad-as-three-more-suicide-car-bombers-strike-the-iraqi-capital.md)
 _Context: Baghdad, Conflict in Iraq_

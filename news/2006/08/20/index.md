@@ -4,7 +4,7 @@
 _Context: Democratic Republic of the Congo, Jean-Pierre Bemba, Joseph Kabila, presidential candidate in 2006, run-off_
 
 ### [ Taliban insurgency: More than 90 die in heavy fighting this weekend in Afghanistan. ](/news/2006/08/20/taliban-insurgency-more-than-90-die-in-heavy-fighting-this-weekend-in-afghanistan.md)
-_Context: Afghan, Taliban insurgency_
+_Context: Afghanistan, Taliban insurgency_
 
 ### [ 2006 Israel-Lebanon conflict: UN Secretary General Kofi Annan has expressed deep concern over Saturday's Israeli commando raid deep inside Lebanon, calling it a truce violation. ](/news/2006/08/20/2006-israel-lebanon-conflict-p-un-secretary-general-kofi-annan-has-expressed-deep-concern-over-saturday-s-israeli-commando-raid-deep-inside.md)
 _Context: Israel, Kofi Annan, Lebanon, Secretary General, UN, war_

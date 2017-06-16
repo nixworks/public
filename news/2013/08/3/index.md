@@ -1,7 +1,7 @@
 ## [2013-08-3](/news/2013/08/3/index.md)
 
 ### [War in Afghanistan (2001-present):Nine children die in a suicide bombing near the Indian consulate in the Afghan city of Jalalabad. ](/news/2013/08/3/war-in-afghanistan-2001apresent-pnine-children-die-in-a-suicide-bombing-near-the-indian-consulate-in-the-afghan-city-of-jalalabad.md)
-_Context: Afghan, India, Jalalabad, War in Afghanistan (2001-present), suicide bombing_
+_Context: Afghanistan, India, Jalalabad, War in Afghanistan (2001-present), suicide bombing_
 
 ### [Iraqi insurgency (post-U.S. withdrawal):At least eight people have been killed in violence across Iraq. ](/news/2013/08/3/iraqi-insurgency-post-u-s-withdrawal-pat-least-eight-people-have-been-killed-in-violence-across-iraq.md)
 _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_

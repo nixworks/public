@@ -13,7 +13,7 @@ _Context: Libya, Muammar Gaddafi, NATO, Tripoli, compound_
 _Context: Kazakhstan, suicide bomber_
 
 ### [A roadside bomb in Afghanistan's Kandahar Province kills ten people and injures 28. ](/news/2011/05/24/a-roadside-bomb-in-afghanistan-s-kandahar-province-kills-ten-people-and-injures-28.md)
-_Context: Afghan, Kandahar Province_
+_Context: Afghanistan, Kandahar Province_
 
 ### [Human rights organisations estimate that the Government of Syria has killed 1,000 civilians so far during the protests.](/news/2011/05/24/human-rights-organisations-estimate-that-the-government-of-syria-has-killed-1-000-civilians-so-far-during-the-protests.md)
 Rights groups say they have documented names of civilians allegedly killed by security forces since protests erupted.

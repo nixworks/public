@@ -1,7 +1,7 @@
 ## [2005-06-28](/news/2005/06/28/index.md)
 
 ### [ Operation Red Wings, a counterterrorism mission in Kunar province, Afghanistan, involving four U.S. Navy SEAL members, took place. Three of the SEALs were killed during the operation, whilst a fourth was protected by local villagers and was rescued by the US military. In addition, an MH-47 Chinook helicopter carrying 8 Nightstalkers - members of the Army's elite 160th Special Operations Aviation Regiment (SOAR) -  and 8 US Navy SEALs was shot down while attempting to come to their rescue to provide extraction in the mountains of the Kunar province, Afghanistan. ](/news/2005/06/28/operation-red-wings-a-counterterrorism-mission-in-kunar-province-afghanistan-involving-four-u-s-navy-seal-members-took-place-three-of.md)
-_Context: Afghan, Kunar Province, MH-47 Chinook, Operation Red Wings, U.S. Navy SEAL, counterterrorism_
+_Context: Afghanistan, Kunar Province, MH-47 Chinook, Operation Red Wings, U.S. Navy SEAL, counterterrorism_
 
 ### [ Bill C-38 passes through the Canadian House of Commons, placing Canada on track to become the third country in the world to legalize same-sex marriage, likely by July. ](/news/2005/06/28/bill-c-38-passes-through-the-canadian-house-of-commons-placing-canada-on-track-to-become-the-third-country-in-the-world-to-legalize-same-s.md)
 _Context: Bill C-38, Canada, Canadian House of Commons, same-sex marriage in Canada_

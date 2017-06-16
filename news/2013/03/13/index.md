@@ -4,7 +4,7 @@
 _Context: 2013 Srinagar attack, Bemina, CRPF, India, Kashmir, Srinagar_
 
 ### [Taliban insurgency:A suicide bomber kills 10 spectators, including the district police chief, during a local gaming event in Kunduz province of northern Afghanistan. ](/news/2013/03/13/taliban-insurgency-pa-suicide-bomber-kills-10-spectators-including-the-district-police-chief-during-a-local-gaming-event-in-kunduz-provinc.md)
-_Context: Afghan, Kunduz Province, Taliban insurgency_
+_Context: Afghanistan, Kunduz Province, Taliban insurgency_
 
 ### [Syrian civil war:Ahmad Shihadeh, a member of the European Union's delegation in Syria, is killed in a rocket attack in a Damascus suburb. ](/news/2013/03/13/syrian-civil-war-pahmad-shihadeh-a-member-of-the-european-union-s-delegation-in-syria-is-killed-in-a-rocket-attack-in-a-damascus-suburb.md)
 _Context: Damascus, European Union, Syria, Syrian Civil War_

@@ -43,7 +43,7 @@ China is investigating four Japanese who allegedly entered and filmed a Chinese 
 _Context: Teresa Lewis, U.S., Virginia_
 
 ### [Pakistani scientist Aafia Siddiqui is sentenced to 86 years in jail in a New York federal court for trying to kill United States soldiers in Afghanistan. ](/news/2010/09/23/pakistani-scientist-aafia-siddiqui-is-sentenced-to-86-years-in-jail-in-a-new-york-federal-court-for-trying-to-kill-united-states-soldiers-in.md)
-_Context: Aafia Siddiqui, Afghan, New York, Pakistan, United States_
+_Context: Aafia Siddiqui, Afghanistan, New York, Pakistan, United States_
 
 ### [North Korea reshuffles senior officials days ahead of a meeting of the Korean Workers' Party expected to lead to a transition of power from Kim Jong-il to his son Kim Jong-un. ](/news/2010/09/23/north-korea-reshuffles-senior-officials-days-ahead-of-a-meeting-of-the-korean-workers-party-expected-to-lead-to-a-transition-of-power-from.md)
 _Context: Kim Jong-il, Kim Jong-un, Korean Workers' Party, North Korea_

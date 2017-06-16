@@ -22,7 +22,7 @@ Khalid Sheik Mohammed said during a hearing at Guantanamo, Cuba, that he lied to
 _Context: People's Republic of China, Shanghai Cooperation Organisation, US$_
 
 ### [ Official campaigning for the 2009 presidential election in Afghanistan begins. ](/news/2009/06/16/official-campaigning-for-the-2009-presidential-election-in-afghanistan-begins.md)
-_Context: Afghan, presidential election_
+_Context: Afghanistan, presidential election_
 
 ### [ General Motors agrees Saab sale to Koenigsegg ](/news/2009/06/16/general-motors-agrees-saab-sale-to-koenigsegg.md)
 _Context: General Motors, Koenigsegg, Saab Automobile_

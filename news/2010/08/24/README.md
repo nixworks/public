@@ -7,13 +7,13 @@ Army says it is regaining control of Loder after fighting killed 33 and displace
 * Back in Barcelona, pair say they were treated well * EU to draft U.N. resolution on aid worker safety * Al Qaeda welcomes Spain cooperation, c
 
 ### [Battle of Mogadishu (2010):Al-Shabaab militants storm the Hotel Muna, close to the Presidential palace Villa Somalia in Mogadishu, killing at least 33 people including several MPs. ](/news/2010/08/24/battle-of-mogadishu-2010-pal-shabaab-militants-storm-the-hotel-muna-close-to-the-presidential-palace-villa-somalia-in-mogadishu-killing.md)
-_Context: Al-Shabaab, Battle of Mogadishu (2010), MPs, President, Villa Somalia, storm the Hotel Muna_
+_Context: Battle of Mogadishu (2010), MPs, President, Villa Somalia, al-Shabaab militants, storm the Hotel Muna_
 
 ### [Foreign human rights groups accuse Rwandan and Congolese rebels of gang-raping nearly 200 women and some baby boys over four days within miles of a U.N. peacekeepers' base in the village of Bunangiri, North Kivu province, Democratic Republic of the Congo. ](/news/2010/08/24/foreign-human-rights-groups-accuse-rwandan-and-congolese-rebels-of-gang-raping-nearly-200-women-and-some-baby-boys-over-four-days-within-mil.md)
 Aid groups say up to 200 women were raped in four days near a UN peacekeeping base.
 
 ### [A lance-corporal in the Australian Army is killed in fighting with the Taliban in Afghanistan's Oruzgan province. ](/news/2010/08/24/a-lance-corporal-in-the-australian-army-is-killed-in-fighting-with-the-taliban-in-afghanistan-s-oruzgan-province.md)
-_Context: Afghan, Lance Corporal, Oruzgan province, Taliban, soldiers_
+_Context: Afghanistan, Lance Corporal, Oruzgan province, Taliban, soldiers_
 
 ### [American actor Lindsay Lohan is released from a rehabilitation centre 22 days into a three month program. ](/news/2010/08/24/american-actor-lindsay-lohan-is-released-from-a-rehabilitation-centre-22-days-into-a-three-month-program.md)
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.

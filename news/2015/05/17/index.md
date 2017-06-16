@@ -1,7 +1,7 @@
 ## [2015-05-17](/news/2015/05/17/index.md)
 
 ### [A suicide attack by the Taliban kills three and injures at least eighteen outside Kabul International Airport in Afghanistan. ](/news/2015/05/17/a-suicide-attack-by-the-taliban-kills-three-and-injures-at-least-eighteen-outside-kabul-international-airport-in-afghanistan.md)
-_Context: Afghan, Kabul International Airport, Taliban_
+_Context: Afghanistan, Kabul International Airport, Taliban_
 
 ### [The Islamic State reportedly seizes control of the Iraqi city of Ramadi after the retreat of government forces. ](/news/2015/05/17/the-islamic-state-reportedly-seizes-control-of-the-iraqi-city-of-ramadi-after-the-retreat-of-government-forces.md)
 The Iraqi city of Ramadi falls to IS militants after troops abandoned their positions, officials say, but the US says the situation remains fluid.

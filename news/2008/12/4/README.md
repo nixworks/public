@@ -10,7 +10,7 @@ _Context: President, Socialist Party, Tabar Vzquez, Uruguay, abortion_
 _Context: Aerolneas Argentinas, Argentina, Argentine National Congress_
 
 ### [ The body of the first President of Afghanistan Mohammed Daoud Khan is identified, three decades after he died. ](/news/2008/12/4/the-body-of-the-first-president-of-afghanistan-mohammed-daoud-khan-is-identified-three-decades-after-he-died.md)
-_Context: Afghan, Afghanistan President, Mohammed Daoud Khan_
+_Context: Afghanistan, Afghanistan President, Mohammed Daoud Khan_
 
 ### [ 2008 Canadian parliamentary dispute: At the request of Prime Minister Stephen Harper, Governor General of Canada Michalle Jean prorogues the parliament until January 26, 2009, to avoid a confidence motion by a newly-formed coalition of opposition parties. ](/news/2008/12/4/2008-canadian-parliamentary-dispute-at-the-request-of-prime-minister-stephen-harper-governor-general-of-canada-michaelle-jean-prorogues-t.md)
 _Context: Canadian Prime Minister, Governor General, Michalle Jean, Stephen Harper, coalition, no-confidence, proposed opposition coalition_

@@ -37,7 +37,7 @@ Kazakhstan has begun voting in a parliamentary election that President Nursultan
 _Context: Alaska, Pavlof Volcano_
 
 ### [ Afghanistan: A suicide bomber kills at least 15 people in the southern Kandahar province. ](/news/2007/08/18/afghanistan-p-a-suicide-bomber-kills-at-least-15-people-in-the-southern-kandahar-province.md)
-_Context: Afghan, Kandahar Province, suicide bomber_
+_Context: Afghanistan, Kandahar Province, suicide bomber_
 
 ### [ Hurricane Dean (2007): Hurricane Dean has already claimed three lives in the Lesser Antilles and is due to pass south of Haiti and the Dominican Republic en route to Jamaica where emergency shelters have been opened. ](/news/2007/08/18/hurricane-dean-2007-p-hurricane-dean-has-already-claimed-three-lives-in-the-lesser-antilles-and-is-due-to-pass-south-of-haiti-and-the-dom.md)
 U.S. President George W. Bush on Saturday approved a pre-landfall emergency declaration for Texas to provide federal help if the state is hit by Hurricane Dean, White House spokesman Gordon Johndroe said.

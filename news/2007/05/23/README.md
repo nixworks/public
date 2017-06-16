@@ -22,7 +22,7 @@ Following relatively quiet day in southern Israel, two Qassams land south of Ash
 _Context: Carbon Reduction Commitment, His Majesty's Government, emissions trading_
 
 ### [ A Serbian court finds 12 men, including Milorad Ulemek, guilty of the 2003 assassination of Prime Minister Zoran Dindic. ](/news/2007/05/23/a-serbian-court-finds-12-men-including-milorad-ulemek-guilty-of-the-2003-assassination-of-prime-minister-zoran-ainaia.md)
-_Context: Milorad Ulemek, Prime Minster, Serbia, Zoran Dindic_
+_Context: Milorad Ulemek, Prime Minister of Serbia, Serbia, Zoran Dindic_
 
 ### [ A Thai gunman opens fire with an AK-47 in a market in Pathum Thani Province, north of Bangkok, killing a villager, a security guard and a police officer and critically injuring another six before he was shot dead by the police. ](/news/2007/05/23/a-thai-gunman-opens-fire-with-an-ak-47-in-a-market-in-pathum-thani-province-north-of-bangkok-killing-a-villager-a-security-guard-and-a-p.md)
 _Context: AK-47s, Bangkok, Pathum Thani Province, Thai police, Thailand_

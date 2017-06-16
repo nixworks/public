@@ -1,7 +1,7 @@
 ## [2009-02-17](/news/2009/02/17/index.md)
 
 ### [ United States President Barack Obama authorizes the deployment of 12,000 more soldiers into the Afghanistan War. ](/news/2009/02/17/united-states-president-barack-obama-authorizes-the-deployment-of-12-000-more-soldiers-into-the-afghanistan-war.md)
-_Context: Afghan, Barack Obama, U.S. President, United States, United States military, War in Afghanistan (2001-present), deployment_
+_Context: Afghanistan, Barack Obama, U.S. President, United States, United States military, War in Afghanistan (2001-present), deployment_
 
 ### [ The U.S. Securities and Exchange Commission charges Stanford Financial Group Chairman Allen Stanford with fraud. ](/news/2009/02/17/the-u-s-securities-and-exchange-commission-charges-stanford-financial-group-chairman-allen-stanford-with-fraud.md)
 _Context: Allen Stanford, SEC, Stanford Financial Group, United States, chairman, fraud_

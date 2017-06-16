@@ -16,7 +16,7 @@ The so-called Islamic State group says it is responsible for decapitating a seni
 &bull; At least six killed, as ferocious category 5 storm slams into Fiji &bull; Trees, homes destroyed - residents, tourists hunker down &bull; Gusts of up to 325km/h and 12m high - New Zealand Herald
 
 ### [Greece claims that Macedonia has closed its borders to migrants from Afghanistan. ](/news/2016/02/21/greece-claims-that-macedonia-has-closed-its-borders-to-migrants-from-afghanistan.md)
-_Context: Afghan, European migrant crisis, Greece, Macedonian_
+_Context: Afghanistan, European migrant crisis, Greece, Macedonian_
 
 ### [Germany is considering sending troops to Tunisia to help train the Tunisian Army in the fight against Islamist militants, particularly ISIL who control territory in neighboring Libya. ](/news/2016/02/21/germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-against-islamist-militants-particularly-isil.md)
 _Context: Germany, ISIL, Insurgency in the Maghreb (2002-present), Libya, Tunisia, army, radical Islamists_

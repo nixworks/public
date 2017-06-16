@@ -4,7 +4,7 @@
 Seventeen militants and at least two soldiers are killed in clashes in southern Yemen, as the army tries to regain territory lost last year.
 
 ### [Four members of the NATO-led International Security Assistance Force are killed in Afghanistan's Kapisa province. ](/news/2012/06/9/four-members-of-the-nato-led-international-security-assistance-force-are-killed-in-afghanistan-s-kapisa-province.md)
-_Context: Afghan, International Security Assistance Force, Kapisa province, NATO_
+_Context: Afghanistan, International Security Assistance Force, Kapisa province, NATO_
 
 ### [At least 20 people are killed and over three hundred houses are burned down during riots in western Burma. ](/news/2012/06/9/at-least-20-people-are-killed-and-over-three-hundred-houses-are-burned-down-during-riots-in-western-burma.md)
 _Context: Burma, sectarian violence_

@@ -1,7 +1,7 @@
 ## [2010-07-28](/news/2010/07/28/index.md)
 
 ### [A bomb on a civilian bus in Nimruz Province in southwest Afghanistan results in at least 25 deaths. ](/news/2010/07/28/a-bomb-on-a-civilian-bus-in-nimruz-province-in-southwest-afghanistan-results-in-at-least-25-deaths.md)
-_Context: Afghan, Nimruz Province, bomb, bus_
+_Context: Afghanistan, Nimruz Province, bomb, bus_
 
 ### [An explosion at a plastics factory in Nanjing, China, kills at least 12 people and injures hundreds. ](/news/2010/07/28/an-explosion-at-a-plastics-factory-in-nanjing-china-kills-at-least-12-people-and-injures-hundreds.md)
 At least 12 people died and 15 were seriously injured on Wednesday after an explosion at an abandoned plastics and chemicals factory in the eastern Chinese city of Nanjing, state television said.

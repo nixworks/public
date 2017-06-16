@@ -7,7 +7,7 @@ Gulf nations suspend mediation efforts after Saleh fails to sign exit pact and w
 _Context: Libya, Libyan Civil War, Muammar Gaddafi, NATO, Tripoli_
 
 ### [Gunmen wearing explosive suicide vests storm a government building in Khost, Afghanistan. ](/news/2011/05/22/gunmen-wearing-explosive-suicide-vests-storm-a-government-building-in-khost-afghanistan.md)
-_Context: Afghan, Afghan government, Khost, suicide bomber_
+_Context: Afghan government, Afghanistan, Khost, suicide bomber_
 
 ### [A series of bomb attacks around the Iraqi capital of Baghdad kills at least 18 people, including 7 policemen. ](/news/2011/05/22/a-series-of-bomb-attacks-around-the-iraqi-capital-of-baghdad-kills-at-least-18-people-including-7-policemen.md)
 More than a dozen bomb attacks in and around Baghdad left 18 people dead and more than 80 wounded.
@@ -25,7 +25,7 @@ _Context: Karachi, Pakistan Air Force_
 _Context: Iraq, Royal Navy, United Kingdom, military operation_
 
 ### [The Taliban warn that Kazakhstan's decision to send troops to Afghanistan will have "severe consequences". ](/news/2011/05/22/the-taliban-warn-that-kazakhstan-s-decision-to-send-troops-to-afghanistan-will-have-severe-consequences.md)
-_Context: Afghan, Kazakhstan, Taliban_
+_Context: Afghanistan, Kazakhstan, Taliban_
 
 ### [''The Tree of Life'', directed by Terrence Malick and starring Brad Pitt, wins the Palme d'Or at the 2011 Cannes Film Festival. ](/news/2011/05/22/the-tree-of-life-directed-by-terrence-malick-and-starring-brad-pitt-wins-the-palme-d-or-at-the-2011-cannes-film-festival.md)
 _Context: 2011 Cannes Film Festival, Brad Pitt, Palme d'Or, Terrence Malick, The Tree of Life_

@@ -31,7 +31,7 @@ Shanghai (AFP) - Super typhoon Chan-hom barrelled towards eastern China near com
 Hundreds of people are evacuated from villages around a volcano in western Mexico amid fears of a major eruption.
 
 ### [Serbian Prime Minister Aleksandar Vucic is pelted with stones and other objects as he attempts to pay respects to the victims of the Bosnian Genocide, Vucic is a former member of the Serbian Radical Party, a far right anti-Islam party. ](/news/2015/07/11/serbian-prime-minister-aleksandar-vuaia-is-pelted-with-stones-and-other-objects-as-he-attempts-to-pay-respects-to-the-victims-of-the-bosni.md)
-_Context: Aleksandar Vucic, Bosnian Genocide, Prime Minster, Serbia, Serbian Radical Party_
+_Context: Aleksandar Vucic, Bosnian Genocide, Prime Minister of Serbia, Serbia, Serbian Radical Party_
 
 ### [Dozens of Russian soldiers face trial for fleeing a training ground in Maikop, fearing deployment to Ukraine. ](/news/2015/07/11/dozens-of-russian-soldiers-face-trial-for-fleeing-a-training-ground-in-maikop-fearing-deployment-to-ukraine.md)
 Dozens of professional Russian soldiers are facing trial after abandoning a training base, according to media reports. The soldiers were allegedly pressured to &quot;volunteer&quot; for fighting in Ukraine.

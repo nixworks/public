@@ -4,7 +4,7 @@
 Activists report deaths in several provinces as Sarkozy calls for tougher sanctions against the Assad government.
 
 ### [War in Afghanistan (2001-present):A suicide bombing at a mosque in Kandahar, Afghanistan, kills four people and injures 11 including the head of the provincial religious council while they were praying for Ahmed Wali Karzai. ](/news/2011/07/14/war-in-afghanistan-2001apresent-pa-suicide-bombing-at-a-mosque-in-kandahar-afghanistan-kills-four-people-and-injures-11-including-the.md)
-_Context: Afghan, Ahmed Wali Karzai, Kandahar, War in Afghanistan (2001-present), suicide bombing_
+_Context: Afghanistan, Ahmed Wali Karzai, Kandahar, War in Afghanistan (2001-present), suicide bombing_
 
 ### [At least six Yemeni militants are killed following an air strike on a police station in the Abyan Governorate that the militants had overrun. ](/news/2011/07/14/at-least-six-yemeni-militants-are-killed-following-an-air-strike-on-a-police-station-in-the-abyan-governorate-that-the-militants-had-overrun.md)
 _Context: Abyan Governorate, Yemen_

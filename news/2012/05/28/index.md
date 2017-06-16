@@ -28,7 +28,7 @@ TIME&#039;s critic updates our All-TIME 100 list of the greatest films made sinc
 Bloxham Stockbrokers has agreed to transfer all its private client and fund management business to Davy&#39;s after financial irregularities were uncovered at the firm.
 
 ### [A helicopter crashes in eastern Afghanistan, killing two ISAF troops. ](/news/2012/05/28/a-helicopter-crashes-in-eastern-afghanistan-killing-two-isaf-troops.md)
-_Context: Afghan, ISAF, helicopter_
+_Context: Afghanistan, ISAF, helicopter_
 
 ### [19 people are killed in a fire at a shopping centre in Doha, Qatar. ](/news/2012/05/28/19-people-are-killed-in-a-fire-at-a-shopping-centre-in-doha-qatar.md)
 A fire at a shopping centre in the Qatari capital Doha kills at least 19 people, 13 of them children, eyewitnesses and officials say.

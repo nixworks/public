@@ -7,7 +7,7 @@ _Context: Andrew Bartlett, Australia, Democrats, Liberal Party, Parliament_
 _Context: $, George W. Bush, James Baker_
 
 ### [ The USA admits that at least nine children have been mistakenly killed in a bombing attack near Ghazni, Afghanistan. [http://news.bbc.co.uk/2/hi/south_asia/3297575.stm][http://interestalert.com/brand/siteia.shtml?Story=st/sn/12060000aaa06ae9.upi&Sys=siteia&Fid=LATEBRKN&Type=News&Filter=Late%20Breaking]](/news/2003/12/6/the-usa-admits-that-at-least-nine-children-have-been-mistakenly-killed-in-a-bombing-attack-near-ghazni-afghanistan-http-news-bbc-co-uk.md)
-_Context: Afghan, Ghazni_
+_Context: Afghanistan, Ghazni_
 
 ### [ Delegates representing the Progressive Conservative Party of Canada vote 90% to 10% in favour of forming a union with the Canadian Alliance. The Alliance approved the measure even more overwhelmingly yesterday, with 96% support. The new party is to style itself the Conservative Party of Canada. [http://www.cbc.ca/stories/2003/12/06/tories_vote031206]](/news/2003/12/6/delegates-representing-the-progressive-conservative-party-of-canada-vote-90-to-10-in-favour-of-forming-a-union-with-the-canadian-alliance.md)
 _Context: Canadian Alliance, Conservative Party's, Progressive Conservative Party of Canada_

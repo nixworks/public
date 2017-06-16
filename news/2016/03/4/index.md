@@ -46,7 +46,7 @@ The Supreme Court handed abortion rights advocates a victory Friday by blocking 
 Polling is underway in Samoa&#39;s general election.
 
 ### [Serbian President Tomislav Nikolic, at the request of Serbian Prime Minister Aleksandar Vucic, dissolves Serbia's parliament and calls for early elections to take place on April 24. ](/news/2016/03/4/serbian-president-tomislav-nikolia-at-the-request-of-serbian-prime-minister-aleksandar-vuaia-dissolves-serbia-s-parliament-and-calls-fo.md)
-_Context: Aleksandar Vucic, National Assembly, President, Prime Minster, Serbia, Serbian parliamentary election, 2016, Tomislav Nikolic_
+_Context: Aleksandar Vucic, National Assembly, President, Prime Minister of Serbia, Serbia, Serbian parliamentary election, 2016, Tomislav Nikolic_
 
 ### [Ben Carson suspends his campaign for the Republican Party nomination. The expected announcement was made during a speech at the 2016 Conservative Political Action Conference (CPAC). ](/news/2016/03/4/ben-carson-suspends-his-campaign-for-the-republican-party-nomination-the-expected-announcement-was-made-during-a-speech-at-the-2016-conserv.md)
 Ben Carson announced Friday he is suspending his presidential campaign after a string of disappointing finishes in the Republican nominating contests.

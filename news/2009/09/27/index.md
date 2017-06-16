@@ -19,7 +19,7 @@ South America-Africa summit aims to increase co-operation and trade between cont
 _Context: Roman Polanski, Zurich_
 
 ### [ Afghan Energy Minister Ismail Khan survives a roadside blast which kills four people and wounds seventeen outside a school in Herat. ](/news/2009/09/27/afghan-energy-minister-ismail-khan-survives-a-roadside-blast-which-kills-four-people-and-wounds-seventeen-outside-a-school-in-herat.md)
-_Context: Afghan, Herat, Ismail Khan_
+_Context: Afghanistan, Herat, Ismail Khan_
 
 ### [ The death toll from Tropical Storm Ketsana rises to 73, with more than 300,000 people displaced. ](/news/2009/09/27/the-death-toll-from-tropical-storm-ketsana-rises-to-73-with-more-than-300-000-people-displaced.md)
 _Context: Tropical Storm Ketsana_

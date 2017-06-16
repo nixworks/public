@@ -31,7 +31,7 @@ _Context: Basque, ETA, Spain_
 _Context: Bosnia and Herzegovina, Foca, Hague, International Criminal Court, Muslim, Radovan Stankovic, rape_
 
 ### [ A court in Paris sentences four men to 2-7 years in prison for complicity in the murder of Afghan resistance leader Ahmed Shah Masood in 2001. ](/news/2005/05/17/a-court-in-paris-sentences-four-men-to-2-7-years-in-prison-for-complicity-in-the-murder-of-afghan-resistance-leader-ahmed-shah-masood-in-20.md)
-_Context: Afghan, Ahmed Shah Masood, Paris_
+_Context: Afghanistan, Ahmed Shah Masood, Paris_
 
 ### [ In Russia, the trial of Nur-Pashi Kulayev, the only survivor of the attackers in the Beslan school hostage crisis, begins. Relatives of the victims disrupt the proceedings. ](/news/2005/05/17/in-russia-the-trial-of-nur-pashi-kulayev-the-only-survivor-of-the-attackers-in-the-beslan-school-hostage-crisis-begins-relatives-of-the.md)
 _Context: Beslan children killed a year ago, Nur-Pashi Kulayev, Russia_

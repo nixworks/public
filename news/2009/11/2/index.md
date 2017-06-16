@@ -34,7 +34,7 @@ Radovan Karadzic will on Tuesday appear before a United Nations war crimes tribu
 _Context: Bhumibol Adulyadej, Thailand, lese-majeste_
 
 ### [ United Nations Secretary-General Ban Ki-moon makes a surprise visit to Afghanistan ahead of the 7 November second round of the presidential election. ](/news/2009/11/2/united-nations-secretary-general-ban-ki-moon-makes-a-surprise-visit-to-afghanistan-ahead-of-the-7-november-second-round-of-the-presidential.md)
-_Context: Afghan, Ban Ki-moon, United Nations Secretary-General, presidential election_
+_Context: Afghanistan, Ban Ki-moon, United Nations Secretary-General, presidential election_
 
 ## [Previous Day...](/news/2009/11/1/index.md)
 

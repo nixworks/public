@@ -13,7 +13,7 @@ _Context: Ganghwa Island, Republic of Korea Marine Corps, South Korea, corporal_
 Canadian vessel forced to return to Greece after breaking out of Crete harbour in bid to embark on Gaza aid voyage.
 
 ### [Australian Army soldier, Sergeant Todd Langley, is killed in fighting in Afghanistan, bringing Australian casualties in the war to 28. ](/news/2011/07/4/australian-army-soldier-sergeant-todd-langley-is-killed-in-fighting-in-afghanistan-bringing-australian-casualties-in-the-war-to-28.md)
-_Context: Afghan, War in Afghanistan (2001-present), soldiers_
+_Context: Afghanistan, War in Afghanistan (2001-present), soldiers_
 
 ### [Religious conservatives in Pakistan condemn as "cultural terrorism" the recent support shown for LGBT rights in Islamabad. ](/news/2011/07/4/religious-conservatives-in-pakistan-condemn-as-cultural-terrorism-the-recent-support-shown-for-lgbt-rights-in-islamabad.md)
 A group of religious conservatives in Pakistan condemns as &quot;cultural terrorism&quot; a recent event hosted by the US embassy in Islamabad in support of gay rights.

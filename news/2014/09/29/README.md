@@ -7,7 +7,7 @@ Eastern Ukraine has suffered the worst violence in more than a week as fighting 
 Argentina will deposit itsnext interest payment due on its restructured debt on Tuesday, asource at the central bank said, in defiance of a U.S. courtwhich blocked such payments until the country pays U.S. hedgefunds suing over unpaid bonds.
 
 ### [Ashraf Ghani is sworn in as new president of Afghanistan. ](/news/2014/09/29/ashraf-ghani-is-sworn-in-as-new-president-of-afghanistan.md)
-_Context: Afghan, Ashraf Ghani_
+_Context: Afghanistan, Ashraf Ghani_
 
 ## [Previous Day...](/news/2014/09/28/index.md)
 

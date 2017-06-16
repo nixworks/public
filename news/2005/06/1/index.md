@@ -19,7 +19,7 @@ _Context: Santiago Creel, Vicente Fox_
 The American Family Association has fired another missile in its long war against companies it thinks are destroying traditional Christian values, this time targeting Ford Motor Co. 
 
 ### [ At least 20 people are killed and 40 are injured in a bomb blast in the city of Kandahar, Afghanistan. ](/news/2005/06/1/at-least-20-people-are-killed-and-40-are-injured-in-a-bomb-blast-in-the-city-of-kandahar-afghanistan.md)
-_Context: Afghan, Kandahar_
+_Context: Afghanistan, Kandahar_
 
 ### [ Sweden shuts down the Barsebck 2 nuclear reactor. ](/news/2005/06/1/sweden-shuts-down-the-barseback-2-nuclear-reactor.md)
 _Context: Barsebck 2, Sweden_

@@ -7,7 +7,7 @@ Syrian forces fired into the air on Monday to disperse a pro-democracy protest i
 _Context: 2010-2011 Ivorian crisis, Alassane Ouattara, Cote d'Ivoire, Duekoue_
 
 ### [A car bomb attack on a construction company in Afghanistan's Paktika Province kills at least 13 people and injures another fifty. ](/news/2011/03/28/a-car-bomb-attack-on-a-construction-company-in-afghanistan-s-paktika-province-kills-at-least-13-people-and-injures-another-fifty.md)
-_Context: Afghan, Paktika Province, car bomb_
+_Context: Afghanistan, Paktika Province, car bomb_
 
 ### [Seventeen militants and three Russian security force members die in fighting in Ingushetia while two suspects in the Domodedovo International Airport bombing are arrested. ](/news/2011/03/28/seventeen-militants-and-three-russian-security-force-members-die-in-fighting-in-ingushetia-while-two-suspects-in-the-domodedovo-internationa.md)
 _Context: Domodedovo International Airport bombing, Ingushetia, Russia_

@@ -34,7 +34,7 @@ Like a stallion known for its strong final sprint, the Coalition has trailed Lab
 _Context: Ed Miliband, Labour_
 
 ### [Tens of thousands of people march through Dublin in protest at the Irish government's austerity measures. ](/news/2010/11/27/tens-of-thousands-of-people-march-through-dublin-in-protest-at-the-irish-government-s-austerity-measures.md)
-_Context: Dublin, Irish government, march_
+_Context: Dublin, Government of Ireland, march_
 
 ### [ Icelanders vote for the  creators of a new constitution. ](/news/2010/11/27/icelanders-vote-for-the-creators-of-a-new-constitution.md)
 _Context:  creators of a new constitution, Iceland_

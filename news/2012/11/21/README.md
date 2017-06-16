@@ -31,7 +31,7 @@ India has hanged Mohammad Ajmal Kasab, the only militant to have survived the 20
 _Context: Bayamon, Hector Camacho, Puerto Rican, Puerto Rico, Rio Piedras, boxing_
 
 ### [President of Ireland Michael D. Higgins calls for an investigation into the death of Savita Halappanavar to meet the needs of a "concerned public" as Savita's husband Praveen continues his battle against Ireland's government and the Health Service Executive (HSE) to hold a sworn, public inquiry into her death, which he believes occurred due to her being denied an abortion. ](/news/2012/11/21/president-of-ireland-michael-d-higgins-calls-for-an-investigation-into-the-death-of-savita-halappanavar-to-meet-the-needs-of-a-concerned-p.md)
-_Context: Health Service Executive, Ireland, Irish government, Michael D. Higgins, President, abortion, abortion, abortion scandal_
+_Context: Government of Ireland, Health Service Executive, Ireland, Michael D. Higgins, President, abortion, abortion, abortion scandal_
 
 ### [Jesse Jackson, Jr. resigns from U.S. Congress due to health problems and federal criminal investigation of his activities. ](/news/2012/11/21/jesse-jackson-jr-resigns-from-u-s-congress-due-to-health-problems-and-federal-criminal-investigation-of-his-activities.md)
 Rep. Jesse Jackson Jr. will announce his resignation from Congress &quot;momentarily&quot; in a letter to House Speaker John Boehner, Jackson&apos;s brother Jonathan Jackson said.

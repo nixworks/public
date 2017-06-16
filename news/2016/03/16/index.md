@@ -28,7 +28,7 @@ _Context: Pakistan, Pervez Musharraf, Supreme Court_
 _Context: PKK rebellion (2015-present), Turkey, Turkish police_
 
 ### [The U.S. military disciplines more than a dozen personnel for mistakes that led to the bombing of a Medecins Sans Frontieres (Doctors Without Borders) hospital that killed 42 people in Afghanistan last October. No criminal charges are pending. The partially redacted investigation report is  expected to be made public shortly. ](/news/2016/03/16/the-u-s-military-disciplines-more-than-a-dozen-personnel-for-mistakes-that-led-to-the-bombing-of-a-ma-c-decins-sans-frontia-res-doctors-with.md)
-_Context: Afghan, Attacks on humanitarian workers, Medecins Sans Frontieres, United States military, redacted_
+_Context: Afghanistan, Attacks on humanitarian workers, Medecins Sans Frontieres, United States military, redacted_
 
 ### [  Donald Trump announces he will skip the Fox News GOP presidential debate between the three remaining candidates on March 21, saying he thinks "we had enough of debates." ](/news/2016/03/16/donald-trump-announces-he-will-skip-the-fox-news-gop-presidential-debate-between-the-three-remaining-candidates-on-march-21-saying-he-thi.md)
 The Ohio governor will participate if Trump changes his mind.

@@ -19,7 +19,7 @@ _Context: 2011, European Union, Swiss, referendum_
 _Context: Baghdad, Conflict in Iraq, Mahdi Army, Muslim, Sadr City, Shia, US soldiers, United States_
 
 ### [ Conflict in Afghanistan: 5 US soldiers die when a Chinook helicopter crashes in Zabul, southern Afghanistan. ](/news/2005/09/25/conflict-in-afghanistan-5-us-soldiers-die-when-a-chinook-helicopter-crashes-in-zabul-southern-afghanistan.md)
-_Context: Afghan, CH-47 Chinook, US soldiers, War in Afghanistan (2001-present), Zabul_
+_Context: Afghanistan, CH-47 Chinook, US soldiers, War in Afghanistan (2001-present), Zabul_
 
 ### [ Over 100,000 people attend Anti Iraq War rally held in Washington D.C.. ](/news/2005/09/25/over-100-000-people-attend-anti-iraq-war-rally-held-in-washington-d-c.md)
 _Context: Washington, D.C._

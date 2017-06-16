@@ -28,7 +28,7 @@ _Context: Seoul, Siheung, South Korea, landslide_
 _Context: Bangladesh, Bogra District_
 
 ### [2011 Horn of Africa famine: African Union peacekeepers launch a major offensive against Al-Shabaab militants in Mogadishu, Somalia, in order to reduce threats to relief efforts. ](/news/2011/07/28/2011-horn-of-africa-famine-african-union-peacekeepers-launch-a-major-offensive-against-al-shabaab-militants-in-mogadishu-somalia-in-order.md)
-_Context: African Union, Al-Shabaab, Mogadishu, famine_
+_Context: African Union, Mogadishu, al-Shabaab militants, famine_
 
 ### [Authorities in the Democratic Republic of the Congo say more than 100 people are feared dead after two boats collided on Tshuapa River. ](/news/2011/07/28/authorities-in-the-democratic-republic-of-the-congo-say-more-than-100-people-are-feared-dead-after-two-boats-collided-on-tshuapa-river.md)
 _Context: Democratic Republic of the Congo, Tshuapa River_

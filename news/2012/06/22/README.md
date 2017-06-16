@@ -4,7 +4,7 @@
 _Context: F-4 Phantom II, Mediterranean Sea, Syria, Syrian Military, Syrian uprising (2011-present), Turkey_
 
 ### [NATO-backed Afghan security forces end a 12-hour siege carried out by Taliban insurgents on the Spozhmai Hotel outside Kabul, killing all five insurgents. ](/news/2012/06/22/nato-backed-afghan-security-forces-end-a-12-hour-siege-carried-out-by-taliban-insurgents-on-the-spozhmai-hotel-outside-kabul-killing-all-fi.md)
-_Context: Afghan, Kabul, NATO, Taliban_
+_Context: Afghanistan, Kabul, NATO, Taliban_
 
 ### [Anti-austerity protests spread through the Sudanese city of Khartoum, with security forces breaking them up. ](/news/2012/06/22/anti-austerity-protests-spread-through-the-sudanese-city-of-khartoum-with-security-forces-breaking-them-up.md)
 _Context: Anti-austerity protests, Khartoum, Sudan_

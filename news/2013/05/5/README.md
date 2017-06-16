@@ -7,7 +7,7 @@ Multiple explosions shake the suburbs of Damascus, with Syria accusing Israel of
 Five soldiers were killed and two others were wounded yesterday during pursuit operations against communist New People’s Army (NPA) rebels who attacked a mining complex in Sipalay City, Negros Occidental late Friday. 
 
 ### [War in Somalia (2009-present):Eight people are dead after a suicide bomber rams an explosive-laden car into a convoy carrying Qatari officials through the center of Somalia's capital Mogadishu. Al-Shabaab claims responsibility for the attack. ](/news/2013/05/5/war-in-somalia-2009apresent-peight-people-are-dead-after-a-suicide-bomber-rams-an-explosive-laden-car-into-a-convoy-carrying-qatari-offi.md)
-_Context: Al-Shabaab, Mogadishu, Qatar, Somalia, War in Somalia (2009-present)_
+_Context: Mogadishu, Qatar, Somalia, War in Somalia (2009-present), al-Shabaab militants_
 
 ### [Three people are dead and over 200 are injured when Hefajat-e-Islam and Jamaat-e-Islami clash with police in Dhaka, Bangladesh. ](/news/2013/05/5/three-people-are-dead-and-over-200-are-injured-when-hefajat-e-islam-and-jamaat-e-islami-clash-with-police-in-dhaka-bangladesh.md)
 At least three people were killed and over 200 injured as radical Islamists of Hefajat-e Islam and Jamaat-e-Islami jointly clashed with the police at the capital during the Dhaka Siege programme by th

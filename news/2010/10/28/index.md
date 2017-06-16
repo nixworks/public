@@ -4,7 +4,7 @@
 _Context: War in Afghanistan (2001-present)_
 
 ### [Somali group Al-Shabaab publicly executes two teenage girls, claiming they were spies. ](/news/2010/10/28/somali-group-al-shabaab-publicly-executes-two-teenage-girls-claiming-they-were-spies.md)
-_Context: Al-Shabaab, Somalia_
+_Context: Somalia, al-Shabaab militants_
 
 ### [Chinese industrial profits rose 53.5 percent year on year in the first nine months of 2010, the National Bureau of Statistics (NBS) said. ](/news/2010/10/28/chinese-industrial-profits-rose-53-5-percent-year-on-year-in-the-first-nine-months-of-2010-the-national-bureau-of-statistics-nbs-said.md)
 _Context: Chinese industrial, NBS_

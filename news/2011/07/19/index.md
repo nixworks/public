@@ -10,7 +10,7 @@ _Context: Alpha Conde's, Conakry, Guinea, President_
 _Context: South Kordofan, Sudan, United Nations, conflict, war crime_
 
 ### [War in North-West Pakistan:Eight Pakistani employees of the United States based American Refugee Committee are kidnapped in southwest Pakistan near the border with Afghanistan. ](/news/2011/07/19/war-in-north-west-pakistan-peight-pakistani-employees-of-the-united-states-based-american-refugee-committee-are-kidnapped-in-southwest-pakis.md)
-_Context: Afghan, American Refugee Committee, Pakistan, United States, War in North-West Pakistan_
+_Context: Afghanistan, American Refugee Committee, Pakistan, United States, War in North-West Pakistan_
 
 ### [Israel's navy confiscates a French yacht bound for Gaza, which departed from Greece and attempted to run the blockade after repeated warnings to make for Ashdod instead.  No casualties are reported. ](/news/2011/07/19/israel-s-navy-confiscates-a-french-yacht-bound-for-gaza-which-departed-from-greece-and-attempted-to-run-the-blockade-after-repeated-warning.md)
 _Context: Ashdod, France, Gaza Strip, Greece, Israeli Navy, blockade_

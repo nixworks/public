@@ -4,7 +4,7 @@
 _Context: Chad, Dakar Agreement, Darfur conflict, Idriss Deby, Omar al-Bashir, President of Chad, President of Sudan, Senegal, Sudan, peace_
 
 ### [ The Canadian House of Commons extends the Canadian military mission in Afghanistan until 2011. ](/news/2008/03/13/the-canadian-house-of-commons-extends-the-canadian-military-mission-in-afghanistan-until-2011.md)
-_Context: Afghan, Canadian Armed Forces, Canadian House of Commons, military mission_
+_Context: Afghanistan, Canadian Armed Forces, Canadian House of Commons, military mission_
 
 ### [ The body of Mar Paulos Faraj Rahho, the Chaldean Catholic archbishop of Mosul who was kidnapped in Iraq on February 29, is found in a shallow grave close to the city. ](/news/2008/03/13/the-body-of-mar-paulos-faraj-rahho-the-chaldean-catholic-archbishop-of-mosul-who-was-kidnapped-in-iraq-on-february-29-is-found-in-a-shall.md)
 A Chaldean Catholic archbishop who was kidnapped in Iraq last month was found dead on Thursday, his body half-buried in an empty lot in the northern city of Mosul, police said.

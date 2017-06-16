@@ -7,7 +7,7 @@ related killings
 Said al-Shihri, described as the second-in-command of al-Qaeda in the Arabian Peninsula, is killed in an operation in Yemen, officials say.
 
 ### [A suicide bombing in Kunduz, Afghanistan, kills at least 16 people; a local doctor says "21 or more". ](/news/2012/09/10/a-suicide-bombing-in-kunduz-afghanistan-kills-at-least-16-people-a-local-doctor-says-21-or-more.md)
-_Context: Afghan, Kunduz_
+_Context: Afghanistan, Kunduz_
 
 ### [An agreement is reached allowing the completion of the US National September 11 Memorial & Museum on the World Trade Center site in New York City. ](/news/2012/09/10/an-agreement-is-reached-allowing-the-completion-of-the-us-national-september-11-memorial-museum-on-the-world-trade-center-site-in-new-york.md)
 _Context: Ground Zero, National September 11 Memorial & Museum, New York City_

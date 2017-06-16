@@ -22,7 +22,7 @@ _Context: Panamerican Highway, Peru_
 _Context: Astronomer, GSC 02620-00648, Hercules Constellation, TrES-4, Trans-Atlantic Exoplanet Survey, Universe, planet, star_
 
 ### [ The Taliban attacks Firebase Anaconda in Uruzgan province but is repulsed by a joint force of Afghan fighters and United States Army forces with 20 militants killed. ](/news/2007/08/7/the-taliban-attacks-firebase-anaconda-in-uruzgan-province-but-is-repulsed-by-a-joint-force-of-afghan-fighters-and-united-states-army-forces.md)
-_Context: Afghan, Firebase Anaconda, Taliban, United States Army, Uruzgan province_
+_Context: Afghanistan, Firebase Anaconda, Taliban, United States Army, Uruzgan province_
 
 ### [ Jordan opens its government schools to Iraqi refugees. ](/news/2007/08/7/jordan-opens-its-government-schools-to-iraqi-refugees.md)
 _Context: Iraq, Jordan, government school, refugee_

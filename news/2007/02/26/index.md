@@ -31,10 +31,10 @@ _Context: Antarctic, Larsen Ice Shelf_
 _Context: 19 February, Central American Parliament, El Salvador, Guatemala_
 
 ### [ Vice President of the United States Dick Cheney makes surprise visits to Pakistan and Afghanistan to encourage President of Pakistan Pervez Musharraf and President of Afghanistan Hamid Karzai to increase border security between the two countries and to take further action against the Taliban and al-Qaeda. ](/news/2007/02/26/vice-president-of-the-united-states-dick-cheney-makes-surprise-visits-to-pakistan-and-afghanistan-to-encourage-president-of-pakistan-pervez.md)
-_Context: Afghan, Afghanistan President, Dick Cheney, Hamid Karzai, Pakistan, Pervez Musharraf, President, Taliban, U.S. Vice President, al-Qaeda_
+_Context: Afghanistan, Afghanistan President, Dick Cheney, Hamid Karzai, Pakistan, Pervez Musharraf, President, Taliban, U.S. Vice President, al-Qaeda_
 
 ### [ United Kingdom Secretary of State for Defence Des Browne announces the deployment of an additional 1,400 troops to Afghanistan. ](/news/2007/02/26/united-kingdom-secretary-of-state-for-defence-des-browne-announces-the-deployment-of-an-additional-1-400-troops-to-afghanistan.md)
-_Context: Afghan, British military personnel, Des Browne, Secretary of State for Defence, United Kingdom_
+_Context: Afghanistan, British military personnel, Des Browne, Secretary of State for Defence, United Kingdom_
 
 ## [Previous Day...](/news/2007/02/25/index.md)
 
