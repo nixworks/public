@@ -4,7 +4,7 @@
 An attack hits a mosque in an area of the Afghan capital Kabul dominated by minority Shia Muslims.
 
 ### [An explosion at a kindergarten in Fengxian, Jiangsu Province, China, kills seven people and injures 66. ](/news/2017/06/15/an-explosion-at-a-kindergarten-in-fengxian-jiangsu-province-china-kills-seven-people-and-injures-66.md)
-_Context: 2017 disasters in China, Fengxian, Jiangsu Province, explosion_
+_Context: 2017 Fengxian explosion, Fengxian, Jiangsu Province_
 
 ### [The Japanese Diet passes an anti-terrorism law that has been accused by critics as a threat to freedom. ](/news/2017/06/15/the-japanese-diet-passes-an-anti-terrorism-law-that-has-been-accused-by-critics-as-a-threat-to-freedom.md)
 Critics including UN expert fear legislation passed by Abe government could target ordinary citizens and deter grassroots opposition to government policies
@@ -12,10 +12,10 @@ Critics including UN expert fear legislation passed by Abe government could targ
 ### [A European Union law enters force, scrapping roaming charges for people using mobile phones abroad within the EU and the European Economic Area. ](/news/2017/06/15/a-european-union-law-enters-force-scrapping-roaming-charges-for-people-using-mobile-phones-abroad-within-the-eu-and-the-european-economic-a.md)
 New rules mean EU citizens can call, text and browse the internet for the same price they pay at home.
 
-### [Several shots fired at truck flying 'Make America Great Again' flag on I-465 in Indiana. ](/news/2017/06/15/several-shots-fired-at-truck-flying-amake-america-great-againa-flag-on-i-465-in-indiana.md)
-INDIANAPOLIS, Ind. – Indiana State Police say shots were fired at a truck carrying a “Make America Great Again” flag and an American flag on eastbound I-465 Tuesday. Officers believe the shots were fired from a newer white 4-door Chevrolet Malibu with a Louisiana plate near Emerson Avenue around 4 p.m.
+### [A driver strikes and injures a Secret Service officer near U.S President Donald Trump's motorcade at the White House. A suspect is taken into custody. ](/news/2017/06/15/a-driver-strikes-and-injures-a-secret-service-officer-near-u-s-president-donald-trump-s-motorcade-at-the-white-house-a-suspect-is-taken-int.md)
+_Context: Donald Trump's, Secret Service, U.S President, White House_
 
-### [Serbian president Aleksandar Vucic nominates Ana Brnabic as the next Prime Minister of Serbia. If confirmed by the National Assembly, Brnabic will become Serbia's first female and gay Prime Minister. ](/news/2017/06/15/serbian-president-aleksandar-vuaia-nominates-ana-brnabia-as-the-next-prime-minister-of-serbia-if-confirmed-by-the-national-assembly-brn.md)
+### [Serbian president Aleksandar Vucic nominates Ana Brnabic as the next Prime Minister of Serbia. If confirmed by the National Assembly, Brnabic will become Serbia's first female and lesbian Prime Minister. ](/news/2017/06/15/serbian-president-aleksandar-vuaia-nominates-ana-brnabia-as-the-next-prime-minister-of-serbia-if-confirmed-by-the-national-assembly-brn.md)
 _Context: Aleksandar Vucic, Ana Brnabic, National Assembly, Prime Minister of Serbia, Serbia_
 
 ## Opinion
@@ -51,7 +51,7 @@ GUATEMALA CITY (AP) — Five people were killed and seven injured by a magnitude
 _Context: Egypt-Saudi Arabia relations, Egyptian parliament, Red Sea, Sanafir Island, Saudi Arabia, Tiran Island_
 
 ### [Nearly 200 members of the Democratic Party in the United States Congress file a lawsuit in the federal court, claiming that U.S. President Trump profits from business dealings with foreign governments, in violation of the United States Constitution's emolument clauses. This is the third such suit of its kind, following on the heels of the most recent suit by the Attorneys General of Maryland and the District of Columbia.](/news/2017/06/14/nearly-200-members-of-the-democratic-party-in-the-united-states-congress-file-a-lawsuit-in-the-federal-court-claiming-that-u-s-president-t.md)
-_Context: Democratic Party, District of Columbia, Maryland, Presidency of Donald Trump, U.S. President, United States Congress, United States Constitution, emolument clauses_
+_Context: Democratic Party, District of Columbia, Maryland, Presidency of Donald Trump, U.S President, United States Congress, United States Constitution, emolument clauses_
 
 ### [Australia agrees to pay AUS$70 million in compensation to 1,905 people who have been detained on Manus Island since 2012, so avoiding a public trial against the government and the Transfield and G4S private companies for the detainees' degrading and cruel treatment. ](/news/2017/06/14/australia-agrees-to-pay-aus-70-million-in-compensation-to-1-905-people-who-have-been-detained-on-manus-island-since-2012-so-avoiding-a-publ.md)
 Detainees at an Australian asylum-seeker camp in Papua New Guinea won millions of dollars in compensation for &quot;degrading and cruel&quot; treatment Wednesday, in a decision hailed as an important human rights victory.

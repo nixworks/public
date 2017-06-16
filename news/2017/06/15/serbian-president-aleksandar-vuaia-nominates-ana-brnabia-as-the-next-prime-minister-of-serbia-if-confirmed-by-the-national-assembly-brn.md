@@ -1,6 +1,6 @@
 ### [2017-06-15](/news/2017/06/15/index.md)
 
-# Serbian president Aleksandar Vucic nominates Ana Brnabic as the next Prime Minister of Serbia. If confirmed by the National Assembly, Brnabic will become Serbia's first female and gay Prime Minister. 
+# Serbian president Aleksandar Vucic nominates Ana Brnabic as the next Prime Minister of Serbia. If confirmed by the National Assembly, Brnabic will become Serbia's first female and lesbian Prime Minister. 
 
 
 
