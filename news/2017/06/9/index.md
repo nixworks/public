@@ -25,7 +25,7 @@ Theresa May will visit Buckingham Palace to seek to form a government with backi
 Japan&#039;s parliament has passed a law allowing Emperor Akihito to become the first monarch to abdicate in 200 years.
 
 ### [President Donald Trump claims that James Comey committed perjury during his testimony yesterday, and offers to give his own testimony, "under oath," refuting that he requested Comey to drop the Flynn investigation and that he had asked for Comey's allegence. ](/news/2017/06/9/president-donald-trump-claims-that-james-comey-committed-perjury-during-his-testimony-yesterday-and-offers-to-give-his-own-testimony-unde.md)
-_Context: "under oath,", Donald Trump's, James Comey, James Comey Senate Intelligence Committee testimony, committed perjury_
+_Context: "under oath,", Donald Trump, James Comey, James Comey Senate Intelligence Committee testimony, committed perjury_
 
 ## [Previous Day...](/news/2017/06/8/index.md)
 

@@ -12,5 +12,8 @@ The vote also serves as a rebuke to President Trump&rsquo;s policy on Moscow and
 ### [Djiboutian foreign minister Mahamoud Ali Youssouf accuses Eritrea of occupying the disputed Doumeira Islands and Ras Doumeira peninsula after Qatari peacekeepers withdrew from the area. ](/news/2017/06/16/djiboutian-foreign-minister-mahamoud-ali-youssouf-accuses-eritrea-of-occupying-the-disputed-doumeira-islands-and-ras-doumeira-peninsula-afte.md)
 _Context: Djibouti, Djibouti-Eritrea relations, Doumeira Islands, Eritrea, Mahamoud Ali Youssouf, Qatar, Ras Doumeira, peninsula_
 
+### [President Donald Trump has announced new restrictions on travel and business with Cuba, reversing policies implemented during the tenure of President Barack Obama. ](/news/2017/06/16/president-donald-trump-has-announced-new-restrictions-on-travel-and-business-with-cuba-reversing-policies-implemented-during-the-tenure-of.md)
+_Context: Barack Obama, Cuba-United States relations, Donald Trump_
+
 ## [Previous Day...](/news/2017/06/15/index.md)
 

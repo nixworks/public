@@ -12,6 +12,9 @@ The vote also serves as a rebuke to President Trump&rsquo;s policy on Moscow and
 ### [Djiboutian foreign minister Mahamoud Ali Youssouf accuses Eritrea of occupying the disputed Doumeira Islands and Ras Doumeira peninsula after Qatari peacekeepers withdrew from the area. ](/news/2017/06/16/djiboutian-foreign-minister-mahamoud-ali-youssouf-accuses-eritrea-of-occupying-the-disputed-doumeira-islands-and-ras-doumeira-peninsula-afte.md)
 _Context: Djibouti, Djibouti-Eritrea relations, Doumeira Islands, Eritrea, Mahamoud Ali Youssouf, Qatar, Ras Doumeira, peninsula_
 
+### [President Donald Trump has announced new restrictions on travel and business with Cuba, reversing policies implemented during the tenure of President Barack Obama. ](/news/2017/06/16/president-donald-trump-has-announced-new-restrictions-on-travel-and-business-with-cuba-reversing-policies-implemented-during-the-tenure-of.md)
+_Context: Barack Obama, Cuba-United States relations, Donald Trump_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -33,7 +36,7 @@ Critics including UN expert fear legislation passed by Abe government could targ
 New rules mean EU citizens can call, text and browse the internet for the same price they pay at home.
 
 ### [A driver strikes and injures a Secret Service officer near U.S. President Donald Trump's motorcade at the White House. A suspect is taken into custody. ](/news/2017/06/15/a-driver-strikes-and-injures-a-secret-service-officer-near-u-s-president-donald-trump-s-motorcade-at-the-white-house-a-suspect-is-taken-in.md)
-_Context: Donald Trump's, Presidency of Donald Trump, Secret Service, U.S. President, White House_
+_Context: Donald Trump, Presidency of Donald Trump, Secret Service, U.S. President, White House_
 
 ### [Serbian president Aleksandar Vucic nominates Ana Brnabic as the next Prime Minister of Serbia. If confirmed by the National Assembly, Brnabic will become Serbia's first female and lesbian Prime Minister. ](/news/2017/06/15/serbian-president-aleksandar-vuaia-nominates-ana-brnabia-as-the-next-prime-minister-of-serbia-if-confirmed-by-the-national-assembly-brn.md)
 _Context: Aleksandar Vucic, Ana Brnabic, Government of Serbia, National Assembly, Prime Minister of Serbia, Serbia_
