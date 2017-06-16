@@ -6,11 +6,11 @@ The Russian defence ministry says it believes it may have killed the Isis leader
 ### [Amazon agrees to buy Whole Foods Market for $13.7 billion. The takeover deal is expected to be completed in the second half of the year. ](/news/2017/06/16/amazon-agrees-to-buy-whole-foods-market-for-13-7-billion-the-takeover-deal-is-expected-to-be-completed-in-the-second-half-of-the-year.md)
 The deal marks the biggest push yet by Amazon into traditional bricks and mortar retailing.
 
-### [The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and Iran.  Language in the measure also reaffirms United States commitment to NATO. ](/news/2017/06/16/the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping-up-sanctions-against-russia-and-iran-language-in-the-measure-al.md)
+### [The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and against Iran. Language in the measure also reaffirms United States commitment to NATO. ](/news/2017/06/16/the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping-up-sanctions-against-russia-and-against-iran-language-in-the-mea.md)
 The vote also serves as a rebuke to President Trump&rsquo;s policy on Moscow and NATO.
 
-### [Djibouti-Eritrea relationsDjiboutian foreign minister Mahamoud Ali Youssouf accuses Eritrea of occupying the disputed Doumeira Islands and Ras Doumeira peninsula after Qatari peacekeepers withdrew from the area. ](/news/2017/06/16/djiboutiaeritrea-relationspdjiboutian-foreign-minister-mahamoud-ali-youssouf-accuses-eritrea-of-occupying-the-disputed-doumeira-islands-an.md)
-_Context: Djibouti, Doumeira Islands, Eritrea, Mahamoud Ali Youssouf, Qatar_
+### [Djiboutian foreign minister Mahamoud Ali Youssouf accuses Eritrea of occupying the disputed Doumeira Islands and Ras Doumeira peninsula after Qatari peacekeepers withdrew from the area. ](/news/2017/06/16/djiboutian-foreign-minister-mahamoud-ali-youssouf-accuses-eritrea-of-occupying-the-disputed-doumeira-islands-and-ras-doumeira-peninsula-afte.md)
+_Context: Djibouti, Djibouti-Eritrea relations, Doumeira Islands, Eritrea, Mahamoud Ali Youssouf, Qatar, Ras Doumeira, peninsula_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -24,7 +24,7 @@ Most of the daily information we see on the mainstream media today is the news e
 An attack hits a mosque in an area of the Afghan capital Kabul dominated by minority Shia Muslims.
 
 ### [An explosion at a kindergarten in Fengxian, Jiangsu Province, China, kills seven people and injures 66. ](/news/2017/06/15/an-explosion-at-a-kindergarten-in-fengxian-jiangsu-province-china-kills-seven-people-and-injures-66.md)
-_Context: 2017 Fengxian explosion, Fengxian, Jiangsu Province_
+_Context: 2017 Xuzhou kindergarten explosion, Fengxian, Jiangsu Province_
 
 ### [The Japanese Diet passes an anti-terrorism law that has been accused by critics as a threat to freedom. ](/news/2017/06/15/the-japanese-diet-passes-an-anti-terrorism-law-that-has-been-accused-by-critics-as-a-threat-to-freedom.md)
 Critics including UN expert fear legislation passed by Abe government could target ordinary citizens and deter grassroots opposition to government policies
