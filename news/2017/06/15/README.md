@@ -12,9 +12,6 @@ Critics including UN expert fear legislation passed by Abe government could targ
 ### [A European Union law enters force, scrapping roaming charges for people using mobile phones abroad within the EU and the European Economic Area. ](/news/2017/06/15/a-european-union-law-enters-force-scrapping-roaming-charges-for-people-using-mobile-phones-abroad-within-the-eu-and-the-european-economic-a.md)
 New rules mean EU citizens can call, text and browse the internet for the same price they pay at home.
 
-### [A driver strikes and injures a Secret Service officer near U.S. President Donald Trump's motorcade at the White House. A suspect is taken into custody. ](/news/2017/06/15/a-driver-strikes-and-injures-a-secret-service-officer-near-u-s-president-donald-trump-s-motorcade-at-the-white-house-a-suspect-is-taken-in.md)
-_Context: Donald Trump, Presidency of Donald Trump, Secret Service, U.S. President, White House_
-
 ### [Serbian president Aleksandar Vucic nominates Ana Brnabic as the next Prime Minister of Serbia. If confirmed by the National Assembly, Brnabic will become Serbia's first female and lesbian Prime Minister. ](/news/2017/06/15/serbian-president-aleksandar-vuaia-nominates-ana-brnabia-as-the-next-prime-minister-of-serbia-if-confirmed-by-the-national-assembly-brn.md)
 _Context: Aleksandar Vucic, Ana Brnabic, Government of Serbia, National Assembly, Prime Minister of Serbia, Serbia_
 
