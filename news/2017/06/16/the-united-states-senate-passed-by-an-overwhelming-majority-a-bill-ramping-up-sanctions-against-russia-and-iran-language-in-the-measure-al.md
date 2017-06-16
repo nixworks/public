@@ -7,7 +7,7 @@ The vote also serves as a rebuke to President Trump&rsquo;s policy on Moscow and
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/powerpost/senate-overwhelmingly-passes-new-russia-and-iran-sanctions/2017/06/15/df9afc2a-51d8-11e7-91eb-9611861a988f_story.html?utm_campaign=EBB%206.16.17&utm_medium=email&utm_source=Sailthru&utm_term=.eee9a04ee279)
+1. [The Washington Post](https://www.washingtonpost.com/powerpost/senate-overwhelmingly-passes-new-russia-and-iran-sanctions/2017/06/15/df9afc2a-51d8-11e7-91eb-9611861a988f_story.html?utm_campaign=EBB%206.16.17&utm_medium=email&utm_source=Sailthru&utm_term=.eee9a04ee279)
 
 ### Related:
 

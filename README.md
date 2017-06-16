@@ -9,6 +9,9 @@ The deal marks the biggest push yet by Amazon into traditional bricks and mortar
 ### [The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and Iran.  Language in the measure also reaffirms United States commitment to NATO. ](/news/2017/06/16/the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping-up-sanctions-against-russia-and-iran-language-in-the-measure-al.md)
 The vote also serves as a rebuke to President Trump&rsquo;s policy on Moscow and NATO.
 
+### [Djibouti-Eritrea relationsDjiboutian foreign minister Mahamoud Ali Youssouf accuses Eritrea of occupying the disputed Doumeira Islands and Ras Doumeira peninsula after Qatari peacekeepers withdrew from the area. ](/news/2017/06/16/djiboutiaeritrea-relationspdjiboutian-foreign-minister-mahamoud-ali-youssouf-accuses-eritrea-of-occupying-the-disputed-doumeira-islands-an.md)
+_Context: Djibouti, Doumeira Islands, Eritrea, Mahamoud Ali Youssouf, Qatar_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
