@@ -12,8 +12,11 @@ The vote also serves as a rebuke to President Trump&rsquo;s policy on Moscow and
 ### [Djiboutian foreign minister Mahamoud Ali Youssouf accuses Eritrea of occupying the disputed Doumeira Islands and Ras Doumeira peninsula after Qatari peacekeepers withdrew from the area. ](/news/2017/06/16/djiboutian-foreign-minister-mahamoud-ali-youssouf-accuses-eritrea-of-occupying-the-disputed-doumeira-islands-and-ras-doumeira-peninsula-afte.md)
 _Context: Djibouti, Djibouti-Eritrea relations, Doumeira Islands, Eritrea, Mahamoud Ali Youssouf, Qatar, Ras Doumeira, peninsula_
 
-### [President Donald Trump has announced new restrictions on travel and business with Cuba, reversing policies implemented during the tenure of President Barack Obama. ](/news/2017/06/16/president-donald-trump-has-announced-new-restrictions-on-travel-and-business-with-cuba-reversing-policies-implemented-during-the-tenure-of.md)
-_Context: Barack Obama, Cuba-United States relations, Donald Trump_
+### [President Donald Trump announces new restrictions on travel and business with Cuba, reversing policies of Cuban Thaw, implemented during the tenure of President Barack Obama. ](/news/2017/06/16/president-donald-trump-announces-new-restrictions-on-travel-and-business-with-cuba-reversing-policies-of-cuban-thaw-implemented-during-the.md)
+_Context: Barack Obama, Cuba-United States relations, Cuban Thaw, Donald Trump_
+
+### [Former German Chancellor Helmut Kohl dies at the age of 87. ](/news/2017/06/16/former-german-chancellor-helmut-kohl-dies-at-the-age-of-87.md)
+_Context: German Chancellor, Helmut Kohl, Politics of Germany_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -22,6 +25,9 @@ Most of the daily information we see on the mainstream media today is the news e
 ---
 
 ## [Yesterday](/news/2017/06/15/index.md)
+
+### [ David Grossman wins the Man Booker International Prize for his novel ''A Horse Walks Into a Bar''. ](/news/2017/06/15/david-grossman-wins-the-man-booker-international-prize-for-his-novel-a-horse-walks-into-a-bar.md)
+David Grossman is awarded the Man Booker International Prize for his novel about a stand-up comic.
 
 ### [A terrorist attack, involving a blast and gunfire, occurs at a Shia mosque in Kabul, Afghanistan, killing several people. ](/news/2017/06/15/a-terrorist-attack-involving-a-blast-and-gunfire-occurs-at-a-shia-mosque-in-kabul-afghanistan-killing-several-people.md)
 An attack hits a mosque in an area of the Afghan capital Kabul dominated by minority Shia Muslims.
@@ -45,7 +51,7 @@ _Context: Aleksandar Vucic, Ana Brnabic, Government of Serbia, National Assembly
 ### [After a week-long assault, ISIL-KP captures the Tora Bora cave complex from the Taliban, allegedly in reaction to the 2017 Nangarhar airstrike. The Taliban say the fighting is still underway. ](/news/2017/06/14/after-a-week-long-assault-isil-kp-captures-the-tora-bora-cave-complex-from-the-taliban-allegedly-in-reaction-to-the-2017-nangarhar-airstri.md)
 _Context: 2017 Nangarhar airstrike, ISIL-KP, Taliban, Tora Bora, War in Afghanistan_
 
-### [A gunman opens fire at a Congressional Baseball practice, injuring five people, including United States Congressman Steve Scalise (R-LA-01) who is in critical condition. Only Republicans were on the field at that time; Democrats had practiced earlier. The suspected gunman later died from injuries after exchanging gunfire with Capitol Police. ](/news/2017/06/14/a-gunman-opens-fire-at-a-congressional-baseball-practice-injuring-five-people-including-united-states-congressman-steve-scalise-r-la-01.md)
+### [A gunman opens fire at a Congressional Baseball practice, injuring five people, including United States Congressman Steve Scalise (R-LA-01) who is in critical condition. The suspected gunman later died from injuries after exchanging gunfire with Capitol Police. ](/news/2017/06/14/a-gunman-opens-fire-at-a-congressional-baseball-practice-injuring-five-people-including-united-states-congressman-steve-scalise-r-la-01.md)
 House Majority Whip Steve Scalise&nbsp;was among five people injured during a shooting while Congress members and staffers were practicing at a baseball field in Alexandria Wednesday morning.&nbsp;
 
 ### [A suicide bomber explodes a car bomb near a hotel, al-Shabaab militants then storm the hotel and a pizza restaurant, killing least 20 people and taking others hostage, in Somalia's capital Mogadishu. All five attackers are later killed. ](/news/2017/06/14/a-suicide-bomber-explodes-a-car-bomb-near-a-hotel-al-shabaab-militants-then-storm-the-hotel-and-a-pizza-restaurant-killing-least-20-people.md)

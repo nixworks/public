@@ -1,5 +1,8 @@
 ## [2017-06-15](/news/2017/06/15/index.md)
 
+### [ David Grossman wins the Man Booker International Prize for his novel ''A Horse Walks Into a Bar''. ](/news/2017/06/15/david-grossman-wins-the-man-booker-international-prize-for-his-novel-a-horse-walks-into-a-bar.md)
+David Grossman is awarded the Man Booker International Prize for his novel about a stand-up comic.
+
 ### [A terrorist attack, involving a blast and gunfire, occurs at a Shia mosque in Kabul, Afghanistan, killing several people. ](/news/2017/06/15/a-terrorist-attack-involving-a-blast-and-gunfire-occurs-at-a-shia-mosque-in-kabul-afghanistan-killing-several-people.md)
 An attack hits a mosque in an area of the Afghan capital Kabul dominated by minority Shia Muslims.
 
