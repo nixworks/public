@@ -12,6 +12,9 @@ Fighters backed by UAE accused of kidnapping and torturing hundreds of men, acco
 ### [A suicide bomber at a market in Musayyib kills 31 and wounds 35. ISIL claims responsibility. ](/news/2017/06/9/a-suicide-bomber-at-a-market-in-musayyib-kills-31-and-wounds-35-isil-claims-responsibility.md)
 A woman suicide bomber killed at least 31 people and wounded 35 in a crowded market in the town of Musayab, 80 km (50 miles) south of Baghdad, on Friday, security sources said.
 
+### [Adam West, the actor widely known for playing Batman in the ABC series of the same name during the 1960's, dies from leukemia. ](/news/2017/06/9/adam-west-the-actor-widely-known-for-playing-batman-in-the-abc-series-of-the-same-name-during-the-1960-s-dies-from-leukemia.md)
+The US actor struggled to find work after starring as the Caped Crusader in the 1960s hit TV series.
+
 ### [United Launch Alliance says it was not given an opportunity to bid against rival SpaceX for the upcoming launch of the U.S. Air Force miniature X-37B space plane. The  Air Force declined to comment. ](/news/2017/06/9/united-launch-alliance-says-it-was-not-given-an-opportunity-to-bid-against-rival-spacex-for-the-upcoming-launch-of-the-u-s-air-force-miniat.md)
 _Context: Air Force, Space launch market competition, SpaceX, United Launch Alliance, miniature X-37B space plane_
 

@@ -4,7 +4,7 @@
 An attack hits a mosque in an area of the Afghan capital Kabul dominated by minority Shia Muslims.
 
 ### [An explosion at a kindergarten in Fengxian, Jiangsu Province, China, kills seven people and injures 66. ](/news/2017/06/15/an-explosion-at-a-kindergarten-in-fengxian-jiangsu-province-china-kills-seven-people-and-injures-66.md)
-_Context: 2017 disasters in China, Fengxian, Jiangsu Province_
+_Context: 2017 disasters in China, Fengxian, Jiangsu Province, explosion_
 
 ### [The Japanese Diet passes an anti-terrorism law that has been accused by critics as a threat to freedom. ](/news/2017/06/15/the-japanese-diet-passes-an-anti-terrorism-law-that-has-been-accused-by-critics-as-a-threat-to-freedom.md)
 Critics including UN expert fear legislation passed by Abe government could target ordinary citizens and deter grassroots opposition to government policies
@@ -38,8 +38,8 @@ Short-term rates rise another quarter point, to 1.25 percent, as the economy log
 ### [A large fire consumes the 24-storey Grenfell Tower apartment block in North Kensington, West London, with the entire building evacuated and over 40 fire engines and 200 firefighters battling the blaze. At least 17 people are dead and more people are treated for injuries, with more people possibly being trapped inside. ](/news/2017/06/14/a-large-fire-consumes-the-24-storey-grenfell-tower-apartment-block-in-north-kensington-west-london-with-the-entire-building-evacuated-and.md)
 Eyewitnesses say people are trapped and there are fears the residential building could collapse.
 
-### [A British Army soldier is killed and three others are injured in an incident involving a tank at Castlemartin Training Area in Pembrokeshire, Wales. ](/news/2017/06/14/a-british-army-soldier-is-killed-and-three-others-are-injured-in-an-incident-involving-a-tank-at-castlemartin-training-area-in-pembrokeshire.md)
-An inquiry is launched after a soldier dies and three are injured at a Ministry of Defence base.
+### [Two British Army soldiers are killed and two others are injured in an incident involving a tank at Castlemartin Training Area in Pembrokeshire, Wales. ](/news/2017/06/14/two-british-army-soldiers-are-killed-and-two-others-are-injured-in-an-incident-involving-a-tank-at-castlemartin-training-area-in-pembrokeshi.md)
+A second soldier has died following an incident at a military firing range in Pembrokeshire. Defence Minister Tobias Ellwood said both victims were from the Royal Tank Regiment. Two people are still being treated for their injuries.
 
 ### [At least six people are killed and seven injured by a 6.9 magnitude earthquake in western Guatemala. ](/news/2017/06/14/at-least-six-people-are-killed-and-seven-injured-by-a-6-9-magnitude-earthquake-in-western-guatemala.md)
 GUATEMALA CITY (AP) — Five people were killed and seven injured by a magnitude 6.9 earthquake that struck Wednesday in western Guatemala near the border with Mexico, Guatemala&#x27;s national emergency coordination agency reported.
