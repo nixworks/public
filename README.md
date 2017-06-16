@@ -1,6 +1,12 @@
 ## [News](/news/2017/06/16/index.md)
 
-### [The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and Iran.  Language in the measure also reaffirms United States commitment to NATO.](/news/2017/06/16/the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping-up-sanctions-against-russia-and-iran-language-in-the-measure-al.md)
+### [The Russian Ministry of Defence says its forces may have killed ISIL's leader Abu Bakr al-Baghdadi in an airstrike, south of Raqqa on 28 May, and currently is seeking confirmation. ](/news/2017/06/16/the-russian-ministry-of-defence-says-its-forces-may-have-killed-isil-s-leader-abu-bakr-al-baghdadi-in-an-airstrike-south-of-raqqa-on-28-may.md)
+The Russian defence ministry says it believes it may have killed the Isis leader Abu Bakr Al-Baghdadi in an air strike south of Raqqa, Syria. In a statement, the ministry said it was still seeking confirmation following the strike in late May. The air strike targeted a meeting of Isis leaders on 28 May, Russian news agencies cited the defence ministry as saying.
+
+### [Amazon agrees to buy Whole Foods Market for $13.7 billion. The takeover deal is expected to be completed in the second half of the year. ](/news/2017/06/16/amazon-agrees-to-buy-whole-foods-market-for-13-7-billion-the-takeover-deal-is-expected-to-be-completed-in-the-second-half-of-the-year.md)
+The deal marks the biggest push yet by Amazon into traditional bricks and mortar retailing.
+
+### [The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and Iran.  Language in the measure also reaffirms United States commitment to NATO. ](/news/2017/06/16/the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping-up-sanctions-against-russia-and-iran-language-in-the-measure-al.md)
 The vote also serves as a rebuke to President Trump&rsquo;s policy on Moscow and NATO.
 
 ## Opinion
