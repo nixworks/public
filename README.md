@@ -16,7 +16,7 @@ New rules mean EU citizens can call, text and browse the internet for the same p
 _Context: Donald Trump's, Presidency of Donald Trump, Secret Service, U.S. President, White House_
 
 ### [Serbian president Aleksandar Vucic nominates Ana Brnabic as the next Prime Minister of Serbia. If confirmed by the National Assembly, Brnabic will become Serbia's first female and lesbian Prime Minister. ](/news/2017/06/15/serbian-president-aleksandar-vuaia-nominates-ana-brnabia-as-the-next-prime-minister-of-serbia-if-confirmed-by-the-national-assembly-brn.md)
-_Context: Aleksandar Vucic, Ana Brnabic, National Assembly, Prime Minister of Serbia, Serbia_
+_Context: Aleksandar Vucic, Ana Brnabic, Government of Serbia, National Assembly, Prime Minister of Serbia, Serbia_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
