@@ -15,7 +15,7 @@ The vote also serves as a rebuke to President Trump&rsquo;s policy on Moscow and
 ### [Djiboutian foreign minister Mahamoud Ali Youssouf accuses Eritrea of occupying the disputed Doumeira Islands and Ras Doumeira peninsula after Qatari peacekeepers withdrew from the area. ](/news/2017/06/16/djiboutian-foreign-minister-mahamoud-ali-youssouf-accuses-eritrea-of-occupying-the-disputed-doumeira-islands-and-ras-doumeira-peninsula-afte.md)
 _Context: Djibouti, Djibouti-Eritrea relations, Doumeira Islands, Eritrea, Mahamoud Ali Youssouf, Qatar, Ras Doumeira, peninsula_
 
-### [U.S. President Donald Trump announces new regressive restrictions on travel and business with Cuba, reversing policies of Cuban Thaw, implemented during the tenure of President Barack Obama. ](/news/2017/06/16/u-s-president-donald-trump-announces-new-regressive-restrictions-on-travel-and-business-with-cuba-reversing-policies-of-cuban-thaw-implem.md)
+### [U.S. President Donald Trump announces new restrictions on travel and business with Cuba, reversing policies of Cuban Thaw, implemented during the tenure of President Barack Obama. ](/news/2017/06/16/u-s-president-donald-trump-announces-new-restrictions-on-travel-and-business-with-cuba-reversing-policies-of-cuban-thaw-implemented-durin.md)
 _Context: Barack Obama, Cuba-United States relations, Cuban Thaw, Donald Trump_
 
 ### [Former German Chancellor Helmut Kohl dies at the age of 87. ](/news/2017/06/16/former-german-chancellor-helmut-kohl-dies-at-the-age-of-87.md)
