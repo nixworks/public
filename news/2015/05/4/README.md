@@ -13,7 +13,7 @@ Around 7,000 migrants were rescued from overcrowded boats crossing the Mediterra
 _Context: Bradford County, Pennsylvania, Marcellus Shale, Proceedings of the National Academy of Sciences, fracking_
 
 ### [Former Hewlett-Packard Chief Executive Officer Carly Fiorina announces that she will be seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/4/former-hewlett-packard-chief-executive-officer-carly-fiorina-announces-that-she-will-be-seeking-the-republican-party-nomination-for-the-2016.md)
-_Context: 2016 United States presidential election, Carly Fiorina, Hewlett-Packard, Republicans, chief executive officer_
+_Context: 2016 United States presidential election, Carly Fiorina, Hewlett-Packard, R, chief executive officer_
 
 ## [Previous Day...](/news/2015/05/3/index.md)
 

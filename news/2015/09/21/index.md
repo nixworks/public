@@ -49,7 +49,7 @@ A former peanut company executive was sentenced Monday to 28 years in prison for
 _Context: Northern Ireland_
 
 ### [Governor of Wisconsin Scott Walker quits his campaign for the Republican Party nomination. ](/news/2015/09/21/governor-of-wisconsin-scott-walker-quits-his-campaign-for-the-republican-party-nomination.md)
-_Context: 2016 U.S. presidential election, Governor of Wisconsin, Republicans, Scott Walker_
+_Context: 2016 U.S. presidential election, Governor of Wisconsin, R, Scott Walker_
 
 ### [The coup leader General Gilbert Diendere says that he is ready to hand over power to transitional authorities as the army marches on the capital Ouagadougou. ](/news/2015/09/21/the-coup-leader-general-gilbert-dienda-c-ra-c-says-that-he-is-ready-to-hand-over-power-to-transitional-authorities-as-the-army-marches-on-the-c.md)
 The coup leader in Burkina Faso says he is ready to hand over power to transitional civilian authorities, as the army is reportedly marching on the capital.

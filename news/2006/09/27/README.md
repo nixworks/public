@@ -4,7 +4,7 @@
 _Context: Bailey, Colorado, Platte Canyon High School, hostage situation_
 
 ### [ The U.S. Republican Party selects Minneapolis-St. Paul as the venue for its 2008 convention. ](/news/2006/09/27/the-u-s-republican-party-selects-minneapolisast-paul-as-the-venue-for-its-2008-convention.md)
-_Context: 2008 Republican National Convention, Minneapolis-St. Paul, Republicans_
+_Context: 2008 Republican National Convention, Minneapolis-St. Paul, R_
 
 ### [ Legislation passes in the U.S. House and Senate giving President Bush authority to detain, interrogate and try terrorism detainees before military commissions. (San Francisco Examiner)](/news/2006/09/27/legislation-passes-in-the-u-s-house-and-senate-giving-president-bush-authority-to-detain-interrogate-and-try-terrorism-detainees-before-m.md)
 _Context: George W. Bush, United States House of Representatives, United States Senate, military commission, terrorism_

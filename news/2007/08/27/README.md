@@ -16,7 +16,7 @@ _Context: Chancellor, China, Der Spiegel, Government of Germany, Premier of the 
 _Context: Montreal Metro, The Bay_
 
 ### [ U.S. Senator Larry Craig (R-Idaho) is revealed to have pleaded guilty on August 8 to a charge of disorderly conduct at the Minneapolis-St. Paul International Airport. ](/news/2007/08/27/u-s-senator-larry-craig-r-idaho-is-revealed-to-have-pleaded-guilty-on-august-8-to-a-charge-of-disorderly-conduct-at-the-minneapolis-st.md)
-_Context: Idaho, Larry Craig, Minneapolis-St. Paul International Airport, Republicans, United States Senate_
+_Context: Idaho, Larry Craig, Minneapolis-St. Paul International Airport, R, United States Senate_
 
 ### [ Pakistan and Bangladesh reject charges by India that terror outfits operating in their countries were behind the Hyderabad bomb blasts which killed 42 and injured over 60. ](/news/2007/08/27/pakistan-and-bangladesh-reject-charges-by-india-that-terror-outfits-operating-in-their-countries-were-behind-the-hyderabad-bomb-blasts-whic.md)
 _Context: Bangladesh, Hyderabad, Andhra Pradesh, India, Pakistan, bomb blasts_

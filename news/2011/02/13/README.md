@@ -64,7 +64,7 @@ _Context: Aung San Suu Kyi, Burma, go on sale_
 Voters in Switzerland - where gun suicide rates are high - reject proposed tighter controls on weapons ownership in a referendum.
 
 ### [Republican and LGBT rights campaigner Fred Karger launches a campaign in the U.S. states of Iowa and New Hampshire aiming to become President of the United States. ](/news/2011/02/13/republican-and-lgbt-rights-campaigner-fred-karger-launches-a-campaign-in-the-u-s-states-of-iowa-and-new-hampshire-aiming-to-become-presiden.md)
-_Context: Fred Karger, Iowa, LGBT rights in the United States, New Hampshire, Republicans, U.S. President, U.S. state_
+_Context: Fred Karger, Iowa, LGBT rights in the United States, New Hampshire, R, U.S. President, U.S. state_
 
 ### [Cuba releases two more political prisoners. ](/news/2011/02/13/cuba-releases-two-more-political-prisoners.md)
 Cuba releases the political prisoners Hector Maseda and Angel Moya, after a seven-month delay following their refusal to go into exile in Spain.

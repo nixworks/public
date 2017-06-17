@@ -10,7 +10,7 @@ _Context: Internet, Iran, legislative election_
 _Context: Iran, U.N. Security Council_
 
 ### [ A U.S. Navy submarine conducts at least one missile strike using Tomahawk cruise missiles in Somalia. The attack was aimed at Saleh Ali Saleh Nabhan, an al-Qaeda terrorist. ](/news/2008/03/3/a-u-s-navy-submarine-conducts-at-least-one-missile-strike-using-tomahawk-cruise-missiles-in-somalia-the-attack-was-aimed-at-saleh-ali-sal.md)
-_Context: Saleh Ali Saleh Nabhan, Somalia, Tomahawk cruise missiles, U.S. Navy, al-Qaeda, missile strike_
+_Context: Saleh Ali Saleh Nabhan, Somalia, Tomahawk cruise missiles, United States Navy, al-Qaeda, missile strike_
 
 ### [ A Pentagon report to the United States Congress states that the Peoples Republic of China's reluctance to explain the extent and purpose of its military buildup poses a risk to stability in Asia. ](/news/2008/03/3/a-pentagon-report-to-the-united-states-congress-states-that-the-peoples-republic-of-china-s-reluctance-to-explain-the-extent-and-purpose-of.md)
 _Context: Asia, Chinese, United States Congress, United States military_

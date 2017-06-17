@@ -6,7 +6,7 @@ The Russian defence ministry says it believes it may have killed the Isis leader
 ### [Amazon agrees to buy Whole Foods Market for $13.7 billion. The takeover deal is expected to be completed in the second half of the year. ](/news/2017/06/16/amazon-agrees-to-buy-whole-foods-market-for-13-7-billion-the-takeover-deal-is-expected-to-be-completed-in-the-second-half-of-the-year.md)
 The deal marks the biggest push yet by Amazon into traditional bricks and mortar retailing.
 
-### [The United States Navy destroyer the USS Fitzgerald collides with a merchant ship off the coast of Japan. The ship is taking on water and is unable to operate under its own power. ](/news/2017/06/16/the-united-states-navy-destroyer-the-uss-fitzgerald-collides-with-a-merchant-ship-off-the-coast-of-japan-the-ship-is-taking-on-water-and-is.md)
+### [The United States Navy destroyer, the ''USS Fitzgerald'', collides with a merchant ship off the coast of Japan. The ship was taking on water and able to operate at limited propulsion. ](/news/2017/06/16/the-united-states-navy-destroyer-the-uss-fitzgerald-collides-with-a-merchant-ship-off-the-coast-of-japan-the-ship-was-taking-on-water.md)
 _Context: Japan, USS Fitzgerald, United States Navy_
 
 ### [The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and against Iran. Language in the measure also reaffirms United States commitment to NATO. ](/news/2017/06/16/the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping-up-sanctions-against-russia-and-against-iran-language-in-the-mea.md)

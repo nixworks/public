@@ -10,7 +10,7 @@ Zimbabwe&#039;s cholera epidemic is spiralling out of control, the United Nation
 _Context: 2008 South Ossetia war, Georgia, Membership Action Plan, NATO, South Ossetia, Ukraine, the Ukrainian government collapse_
 
 ### [ United States Senate election in Georgia, 2008: Voters in the U.S. state of Georgia go to the polls for a runoff election between incumbent Senator Saxby Chambliss of the Republican Party and Jim Martin of the Democratic Party. Chambliss is reelected, ending the Democratic Party's hopes of having 60 Senators to avoid a filibuster. [http://www.reuters.com/article/politicsNews/idUSTRE4B11I120081202 (Reuters)], (''[http://www.nytimes.com/2008/12/03/us/politics/03georgia.html?_r=1&hp New York Times]'')](/news/2008/12/2/united-states-senate-election-in-georgia-2008-voters-in-the-u-s-state-of-georgia-go-to-the-polls-for-a-runoff-election-between-incumbent.md)
-_Context: Democratic Party, Georgia, Jim Martin, Republicans, Saxby Chambliss, Senator, United States Senate election in Georgia, 2008, filibuster_
+_Context: Democratic Party, Georgia, Jim Martin, R, Saxby Chambliss, Senator, United States Senate election in Georgia, 2008, filibuster_
 
 ### [ The Reserve Bank of Australia cuts interest rates by 100 basis points to 4.25%. ](/news/2008/12/2/the-reserve-bank-of-australia-cuts-interest-rates-by-100-basis-points-to-4-25.md)
 _Context: Reserve Bank of Australia, interest rates_

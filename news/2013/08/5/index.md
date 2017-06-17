@@ -25,7 +25,7 @@ _Context: Salinas, California, U.S._
 _Context: Pennsylvania, Ross Township, U.S., town hall meeting_
 
 ### [Amazon CEO Jeff Bezos purchases ''The Washington Post'' for $250 million.](/news/2013/08/5/amazon-ceo-jeff-bezos-purchases-the-washington-post-for-250-million.md)
-_Context: Amazon.com, Jeff Bezos, The Washington Post_
+_Context: Amazon, Jeff Bezos, The Washington Post_
 
 ### [Opposition leader Enele Sopoaga is sworn in as Prime Minister of Tuvalu by Governor-General Iakoba Italeli after winning a secret ballot held in parliament. ](/news/2013/08/5/opposition-leader-enele-sopoaga-is-sworn-in-as-prime-minister-of-tuvalu-by-governor-general-iakoba-italeli-after-winning-a-secret-ballot-hel.md)
 _Context: Enele Sopoaga, Governor-General, Iakoba Italeli, Prime Minister of Tuvalu, secret ballot_

@@ -46,7 +46,7 @@ The High Court in Pretoria has ruled that the failure to detain Sudan President 
 The Vatican orders the trial of a former archbishop over paedophilia charges.
 
 ### [United States presidential election, 2016 / Jeb Bush, former Governor of Florida, announces his candidacy for the Republican Party nomination. ](/news/2015/06/15/united-states-presidential-election-2016-jeb-bush-former-governor-of-florida-announces-his-candidacy-for-the-republican-party-nominatio.md)
-_Context: 2016 U.S. presidential election, Bush family, Governor of Florida, Jeb Bush, Republicans_
+_Context: 2016 U.S. presidential election, Bush family, Governor of Florida, Jeb Bush, R_
 
 ## [Previous Day...](/news/2015/06/14/index.md)
 

@@ -25,7 +25,7 @@ _Context: Deutsche Bank_
 Hundreds of millions are left without electricity in northern and eastern India, after a massive power cut that also cripples much of the transport system.
 
 ### [United States President Barack Obama announces additional sanctions against Iran for its nuclear program. ](/news/2012/07/31/united-states-president-barack-obama-announces-additional-sanctions-against-iran-for-its-nuclear-program.md)
-_Context: Barack Obama, Iran, additional sanctions, nuclear scientist_
+_Context: Barack Obama, Iran, against, nuclear scientist_
 
 ### [Russian anti-corruption campaigner Alexei Navalny is charged with fraudulent conversion. ](/news/2012/07/31/russian-anti-corruption-campaigner-alexei-navalny-is-charged-with-fraudulent-conversion.md)
 Russian anti-corruption campaigner Alexei Navalny is charged with embezzlement in a case he describes as &quot;strange and absurd&quot;.

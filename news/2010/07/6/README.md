@@ -28,7 +28,7 @@ _Context: Arizona, U.S. state, United States, immigration law_
 _Context: L'Oreal, Liliane Bettencourt, Nicolas Sarkozy, President of France_
 
 ### [Republican Governor of the U.S. state of Hawaii Linda Lingle vetoes a bill allowing same-sex civil unions. ](/news/2010/07/6/republican-governor-of-the-u-s-state-of-hawaii-linda-lingle-vetoes-a-bill-allowing-same-sex-civil-unions.md)
-_Context: Governor, Hawaii, Linda Lingle, Republicans, same-sex civil union, veto_
+_Context: Governor, Hawaii, Linda Lingle, R, same-sex civil union, veto_
 
 ### [Israeli Prime Minister Benjamin Netanyahu arrives in Washington, D.C. for talks with President of the United States Barack Obama. ](/news/2010/07/6/israeli-prime-minister-benjamin-netanyahu-arrives-in-washington-d-c-for-talks-with-president-of-the-united-states-barack-obama.md)
 Israeli PM Benjamin Netanyahu and US President Barack Obama hold White House talks, a day after the Gaza blockade is eased.

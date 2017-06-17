@@ -58,7 +58,7 @@ Yangon, Jan 10 (DPA) Myanmars newly elected chambers of parliament are to hold t
 Warning to those involved in violent protests in north African nation tempered with pledge to tackle high unemployment.
 
 ### [Former Republican United States House of Representatives Majority Leader Tom DeLay is sentenced to three years in prison for money laundering. ](/news/2011/01/10/former-republican-united-states-house-of-representatives-majority-leader-tom-delay-is-sentenced-to-three-years-in-prison-for-money-launderin.md)
-_Context: Majority Leader, Republicans, Tom DeLay, United States House of Representatives, money laundering_
+_Context: Majority Leader, R, Tom DeLay, United States House of Representatives, money laundering_
 
 ### [More than 150 Israeli university lecturers support a boycott of the University Centre of Samaria in Ariel over concerns of "unbearably harsh conditions" faced by Palestinians living nearby, as well as Ariel being an "illegal settlement" and a roadblock to the establishment of an independent Palestinian state. ](/news/2011/01/10/more-than-150-israeli-university-lecturers-support-a-boycott-of-the-university-centre-of-samaria-in-ariel-over-concerns-of-unbearably-harsh.md)
 MORE THAN 150 Israeli university lecturers have signed a petition calling for a boycott of the University Centre of Samaria, &hellip;

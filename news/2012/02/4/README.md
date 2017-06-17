@@ -34,7 +34,7 @@ _Context: Moscow, Russia, Vladimir Putin, rally_
 _Context: ANC Youth League, African National Congress, Julius Malema, South Africa_
 
 ### [2012 United States presidential election:Republican Party voters gather in Nevada for the party caucuses with Mitt Romney projected as the winner. ](/news/2012/02/4/2012-united-states-presidential-election-prepublican-party-voters-gather-in-nevada-for-the-party-caucuses-with-mitt-romney-projected-as-the.md)
-_Context: 2012 United States presidential election, Mitt Romney, Nevada, Republicans, party caucuses_
+_Context: 2012 United States presidential election, Mitt Romney, Nevada, R, party caucuses_
 
 ## [Previous Day...](/news/2012/02/3/index.md)
 

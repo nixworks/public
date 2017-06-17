@@ -13,7 +13,7 @@ _Context: Northern Illinois University, opens fire at a lecture hall_
 _Context: Russia, Ukraine, Vladimir Putin_
 
 ### [ The United States Navy will use an SM-3 missile to destroy USA 193, a broken National Reconnaissance Office spy satellite which contains unused hydrazine fuel. ](/news/2008/02/14/the-united-states-navy-will-use-an-sm-3-missile-to-destroy-usa-193-a-broken-national-reconnaissance-office-spy-satellite-which-contains-un.md)
-_Context:  NRO, SM-3, U.S. Navy, USA 193, hydrazine, spy satellite_
+_Context:  NRO, SM-3, USA 193, United States Navy, hydrazine, spy satellite_
 
 ### [ Kiribati now has the largest protected marine reserve in the world. ](/news/2008/02/14/kiribati-now-has-the-largest-protected-marine-reserve-in-the-world.md)
 _Context: Kiribati, marine reserve_

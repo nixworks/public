@@ -31,7 +31,7 @@ _Context: Fukushima I Nuclear Power Plant, Fukushima I nuclear accidents_
 A desperate search is mounted for scores of African migrants missing after a boat capsizes off the Italian island of Lampedusa.
 
 ### [A United States Navy F/A-18 crashes near Naval Air Station Lemoore in California. ](/news/2011/04/6/a-united-states-navy-f-a-18-crashes-near-naval-air-station-lemoore-in-california.md)
-_Context: California, F/A-18, Naval Air Station Lemoore, U.S. Navy_
+_Context: California, F/A-18, Naval Air Station Lemoore, United States Navy_
 
 ### [Ecuador expels the United States ambassador over Wikileaks diplomatic cables alleging corruption within the Ecuadorian police force. ](/news/2011/04/6/ecuador-expels-the-united-states-ambassador-over-wikileaks-diplomatic-cables-alleging-corruption-within-the-ecuadorian-police-force.md)
 Ecuador expels the US ambassador in Quito after the release of a US diplomatic cable accusing the Ecuadorean police of widespread corruption.

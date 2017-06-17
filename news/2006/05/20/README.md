@@ -16,7 +16,7 @@ _Context: boosting of quotas, caste_
 _Context: Iraqi National Assembly, new government_
 
 ### [ United States Congressman Duncan Hunter (R-CA) claims U.S. Marines in Haditha, Iraq, killed 24 civilians in an incident in 2005. Earlier Rep. John Murtha (D-PA) had said even innocent women and children were killed in cold blood. ](/news/2006/05/20/united-states-congressman-duncan-hunter-r-ca-claims-u-s-marines-in-haditha-iraq-killed-24-civilians-in-an-incident-in-2005-earlier-re.md)
-_Context: California, Congressman, Democratic Party, Duncan Hunter, Haditha, Haditha killings, Iraq, John Murtha, Pennsylvania, Republicans, U.S. Marines_
+_Context: California, Congressman, Democratic Party, Duncan Hunter, Haditha, Haditha killings, Iraq, John Murtha, Pennsylvania, R, U.S. Marines_
 
 ### [ Finnish rock band Lordi wins the Eurovision Song Contest 2006 with the song "Hard Rock Hallelujah". ](/news/2006/05/20/finnish-rock-band-lordi-wins-the-eurovision-song-contest-2006-with-the-song-hard-rock-hallelujah.md)
 _Context: Eurovision Song Contest 2006, Hard Rock Hallelujah, Lordi_

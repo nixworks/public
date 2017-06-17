@@ -19,7 +19,7 @@ Israeli troops kill one man and injure at least 10, including a child, in an att
 Nobel&#x20;peace&#x20;laureate&#x20;Archbishop&#x20;Desmond&#x20;Tutu&#x20;announced&#x20;Thursday&#x20;that&#x20;he&#x20;is&#x20;to&#x20;withdraw&#x20;from&#x20;public&#x20;life&#x20;this&#x20;year&#x20;when&#x20;he&#x20;turns&#x20;79,&#x20;in&#x20;order&#x20;to&#x20;spend&#x20;more&#x20;time&#x20;with&#x20;his&#x20;family.&#x20;Tutu&#x20;was&#x20;a&#x20;leading&#x20;figure&#x20;in&#x20;South&#x20;Africa&#x27;s&#x20;struggle&#x20;against&#x20;apartheid.
 
 ### [Writers such as Martin Amis, V. S. Naipaul, Orhan Pamuk, Philip Roth and Salman Rushdie begin selling ebooks via Amazon.com in a dispute over digital royalties. ](/news/2010/07/22/writers-such-as-martin-amis-v-s-naipaul-orhan-pamuk-philip-roth-and-salman-rushdie-begin-selling-ebooks-via-amazon-com-in-a-dispute-ove.md)
-_Context: Amazon.com, Martin Amis, Orhan Pamuk, Philip Roth, Salman Rushdie, V. S. Naipaul_
+_Context: Amazon, Martin Amis, Orhan Pamuk, Philip Roth, Salman Rushdie, V. S. Naipaul_
 
 ### [The UN's John Ging says more than 7,000 Palestinian children have successfully attempted a Guinness World Record by simultaneously dribbling basketballs. ](/news/2010/07/22/the-un-s-john-ging-says-more-than-7-000-palestinian-children-have-successfully-attempted-a-guinness-world-record-by-simultaneously-dribbling.md)
 _Context: Guinness World Records, John Ging, basketball_

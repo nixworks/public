@@ -37,7 +37,7 @@ _Context: Draft constitution, Egyptian President, Mohamed Morsi, constitutional 
 _Context: Kuwait, Kuwaiti election history, Opposition, Voter turnout, boycott, parliamentary election_
 
 ### [The Enterprise|CVN-65|6, the world's first nuclear-powered aircraft carrier, is officially inactivated in ceremonies held at Naval Station Norfolk, Virginia, completing a 51-year career in the United States Navy. In a pre-recorded speech, U.S. Secretary of the Navy Ray Mabus announces that the U.S. Navy's third Gerald R. Ford|aircraft carrier, CVN-80, will be named ''Enterprise''. ](/news/2012/12/1/the-enterprise-cvn-65-6-the-world-s-first-nuclear-powered-aircraft-carrier-is-officially-inactivated-in-ceremonies-held-at-naval-station-n.md)
-_Context: CVN-80, Naval Station Norfolk, Ray Mabus, Secretary of the Navy, U.S. Navy, aircraft carrier_
+_Context: CVN-80, Naval Station Norfolk, Ray Mabus, Secretary of the Navy, United States Navy, aircraft carrier_
 
 ## [Previous Day...](/news/2012/11/30/index.md)
 

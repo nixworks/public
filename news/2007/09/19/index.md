@@ -52,7 +52,7 @@ _Context: British Army, Helmand, War in Afghanistan (2001-present)_
 _Context: Khmer Rouge, Nuon Chea, United Nations, genocide_
 
 ### [ Republican lawmakers block the United States Senate from taking up a bill to grant voting rights to Washington DC. ](/news/2007/09/19/republican-lawmakers-block-the-united-states-senate-from-taking-up-a-bill-to-grant-voting-rights-to-washington-dc.md)
-_Context: Republicans, Washington DC, voting rights_
+_Context: R, Washington DC, voting rights_
 
 ### [ 2007 Pacific typhoon season: Typhoon Wipha (Goring) makes landfall in eastern China before weakening to a Category 2 typhoon as it heads inland. ](/news/2007/09/19/2007-pacific-typhoon-season-p-typhoon-wipha-goring-makes-landfall-in-eastern-china-before-weakening-to-a-category-2-typhoon-as-it-heads-i.md)
 Typhoon Wipha lost strength after crossing the eastern coast of China on Wednesday but downpours have still taken a heavy toll in two provinces.

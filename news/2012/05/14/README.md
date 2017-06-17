@@ -25,7 +25,7 @@ There was no &quot;express deal&quot; between Labour leader Tony Blair and Ruper
 Talks on forming a new Greek government end without a breakthrough but will resume on Tuesday, as European markets fall sharply.
 
 ### [American Republican politician Ron Paul states he will be ending his active presidential campaign bid. However, he will still try to secure delegates before the Republican National Convention in August. ](/news/2012/05/14/american-republican-politician-ron-paul-states-he-will-be-ending-his-active-presidential-campaign-bid-however-he-will-still-try-to-secure.md)
-_Context: National Convention, Republicans, Ron Paul, presidential campaign bid_
+_Context: National Convention, R, Ron Paul, presidential campaign bid_
 
 ### [Scientists at California's Stanford University invent a working bionic eye powered only by focused light. Though currently a prototype, the device could eventually restore the sight of millions of people suffering from eye diseases such as macular degeneration and retinal pigmentosa. ](/news/2012/05/14/scientists-at-california-s-stanford-university-invent-a-working-bionic-eye-powered-only-by-focused-light-though-currently-a-prototype-the.md)
 A retinal implant - or bionic eye - which is powered by light has been invented by scientists at Stanford University in California.

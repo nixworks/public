@@ -13,7 +13,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 _Context: Ehud Olmert, Holocaust, Israel, Prime Minister of Israel_
 
 ### [ Republican Party candidates in the 2008 United States Presidential election hold a debate. ](/news/2007/08/5/republican-party-candidates-in-the-2008-united-states-presidential-election-hold-a-debate.md)
-_Context: 2008, Republicans_
+_Context: 2008, R_
 
 ### [ Mexican golfer Lorena Ochoa wins the Women's British Open title, her first major. ](/news/2007/08/5/mexican-golfer-lorena-ochoa-wins-the-women-s-british-open-title-her-first-major.md)
 Lorena Ochoa led wire-to-wire in the Women’s British Open, sealing the win with a 1-over-par 74 for a 72-hole total of 5-under-par 287.

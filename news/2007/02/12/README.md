@@ -10,7 +10,7 @@ India&#39;s largest aluminum producer announces plans to acquire Atlanta-based c
 _Context: Mozambique, Zambezi River_
 
 ### [ A suspicious brown substance is found in envelope at the Virginia Supreme Court building in Richmond, Virginia, United States, on the same day that Senator John McCain (R-AZ) speaks at the Jefferson Hotel. ](/news/2007/02/12/a-suspicious-brown-substance-is-found-in-envelope-at-the-virginia-supreme-court-building-in-richmond-virginia-united-states-on-the-same.md)
-_Context: Arizona, Jefferson Hotel, John McCain, Republicans, Richmond, Virginia, United States, United States Senate, Virginia Supreme Court_
+_Context: Arizona, Jefferson Hotel, John McCain, R, Richmond, Virginia, United States, United States Senate, Virginia Supreme Court_
 
 ### [ Iranian President Mahmoud Ahmadinejad states in an interview that Iran does not fear the U.S. and that any foreign attack would be "severely punished". ](/news/2007/02/12/iranian-president-mahmoud-ahmadinejad-states-in-an-interview-that-iran-does-not-fear-the-u-s-and-that-any-foreign-attack-would-be-severel.md)
 _Context: Iran, Mahmoud Ahmadinejad, President, United States_

@@ -79,7 +79,7 @@ _Context: 2010 presidential election, Alassane Ouattara, Ivory Coast Constitutio
 _Context: Brazil, Supreme Federal Court, civil union, same-sex couples_
 
 ### [Republican Party candidates for the nomination in the 2012 United States presidential election hold their first debate in Greenville, South Carolina. ](/news/2011/05/5/republican-party-candidates-for-the-nomination-in-the-2012-united-states-presidential-election-hold-their-first-debate-in-greenville-south.md)
-_Context: Greenville, Republicans, South Carolina, United States presidential election, 2012, nomination_
+_Context: Greenville, R, South Carolina, United States presidential election, 2012, nomination_
 
 ### [A report warns of accumulating mercury in the Arctic regions and that global emissions of mercury could increase by 25% by 2020, after another report suggested a global sea level rise by 1.6 metres by 2100, while a previous study detected chemical changes from elemental mercury to neurotoxic monomethylmercury occurring in the Arctic Ocean. ](/news/2011/05/5/a-report-warns-of-accumulating-mercury-in-the-arctic-regions-and-that-global-emissions-of-mercury-could-increase-by-25-by-2020-after-anoth.md)
 _Context: Arctic, Arctic Ocean, mercury, monomethylmercury, neurotoxic, sea level rise_

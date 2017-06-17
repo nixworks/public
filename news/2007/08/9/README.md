@@ -31,7 +31,7 @@ _Context: BNP Paribas_
 _Context: Bank of Canada, Canada, Dow Jones Industrial Average, Europe, European Central Bank, Federal Reserve, United States_
 
 ### [ The South Carolina Republican Party moves its primary election date forward to January 19. ](/news/2007/08/9/the-south-carolina-republican-party-moves-its-primary-election-date-forward-to-january-19.md)
-_Context: January 19, Republicans, South Carolina, primary election_
+_Context: January 19, R, South Carolina, primary election_
 
 ### [ The death toll from the 2007 South Asian floods rises to 2000. ](/news/2007/08/9/the-death-toll-from-the-2007-south-asian-floods-rises-to-2000.md)
 _Context: 2007 South Asian floods_
