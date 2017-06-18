@@ -1,15 +1,15 @@
 ## [2017-06-18](/news/2017/06/18/index.md)
 
-### [A coordinated suicide bombing attack on a police station in the town of Gardez in Paktia Province resulting in dozens of people killed and injured. ](/news/2017/06/18/a-coordinated-suicide-bombing-attack-on-a-police-station-in-the-town-of-gardez-in-paktia-province-resulting-in-dozens-of-people-killed-and-i.md)
+### [A coordinated suicide bombing attack on a police station in the town of Gardez in Paktia Province results in dozens of people killed and injured. ](/news/2017/06/18/a-coordinated-suicide-bombing-attack-on-a-police-station-in-the-town-of-gardez-in-paktia-province-results-in-dozens-of-people-killed-and-inj.md)
 As many as five suicide bombers attack a police headquarters in eastern Afghanistan in an attack doctors say killed at least five police and wounded at least 30 other people.
 
 ### [Gunmen storm a popular tourist resort near the Malian capital, Bamako. At least two people are reportedly killed. Malian troops and France's Operation Barkhane counter-terrorist force are at the site. ](/news/2017/06/18/gunmen-storm-a-popular-tourist-resort-near-the-malian-capital-bamako-at-least-two-people-are-reportedly-killed-malian-troops-and-france-s.md)
 Troops free 20 hostages, the government says, as the resort is attacked by suspected jihadists.
 
-### [An air raid kills at least 24 civilians at a market in rebel-held Saada Governorate, Yemen. ](/news/2017/06/18/an-air-raid-kills-at-least-24-civilians-at-a-market-in-rebel-held-saada-governorate-yemen.md)
+### [An air raid kills at least 24 civilians at a market in Houthi-held Saada Governorate, Yemen. ](/news/2017/06/18/an-air-raid-kills-at-least-24-civilians-at-a-market-in-houthi-held-saada-governorate-yemen.md)
 At least 24 civilians were killed in an air raid Sunday on a market in northern Yemen, a medical official and witnesses said, blaming the Saudi-led coalition battling Yemeni rebels.
 
-### [Iran says it fires ground-to-ground missiles from western Iran to militant targets in Deir ez-Zor, eastern Syria, in retaliation for the June 7 Tehran attacks. ](/news/2017/06/18/iran-says-it-fires-ground-to-ground-missiles-from-western-iran-to-militant-targets-in-deir-ez-zor-eastern-syria-in-retaliation-for-the-jun.md)
+### [Iran fires ground-to-ground missiles from western Iran to militant targets in Deir ez-Zor Governorate, eastern Syria, in retaliation for the June 7 Tehran attacks. ](/news/2017/06/18/iran-fires-ground-to-ground-missiles-from-western-iran-to-militant-targets-in-deir-ez-zor-governorate-eastern-syria-in-retaliation-for-the.md)
 American forces have shot down a Syrian government fighter jet accused of attacking Kurdish-led troops fighting Isis. US Central Command said the SU-22 dropped bombs near the Syrian Democratic Forces (SDF), who are being supported by the US-led coalition as they advance on the terrorist stronghold of Raqqa.
 
 ### [Rescuers find the bodies of seven United States Navy sailors who were missing after the prior day's collision between the USS ''Fitzgerald'' and the MV ''ACX Crysta''l off the coast of Yokosuka, Japan. ](/news/2017/06/18/rescuers-find-the-bodies-of-seven-united-states-navy-sailors-who-were-missing-after-the-prior-day-s-collision-between-the-uss-fitzgerald.md)
