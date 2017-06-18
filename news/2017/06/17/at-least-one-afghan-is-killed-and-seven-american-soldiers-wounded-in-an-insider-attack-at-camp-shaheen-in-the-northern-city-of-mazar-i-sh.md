@@ -1,0 +1,24 @@
+### [2017-06-17](/news/2017/06/17/index.md)
+
+# At least one Afghan is killed and seven American soldiers wounded in an "insider attack" at Camp Shaheen, in the northern city of Mazar-i-Sharif. An earlier report that Americans had been killed is incorrect. The Taliban claims responsibility. 
+
+I-SHARIF, Afghanistan (Reuters) - At least one Afghan was killed and seven American soldiers were wounded in an &quot;insider attack&quot; at a base in northern Afghanistan on Saturday, a U.S. military official said.
+
+
+### Source:
+
+1. [Reuters](https://www.reuters.com/article/us-afghanistan-attack-idUSKBN1980HJ)
+2. [The New York Times](https://www.nytimes.com/2017/06/17/world/asia/afghanistan-us-soldiers-insider-attack.html?_r=0)
+
+### Related:
+
+1. [The Afghan Minister of Defense, Abdullah Habibi and the Chief of Staff of the Afghan National Army, Qadam Shah Shahim, resign after a Taliban attack on Camp Shaheen near Mazar-i-Sharif that claimed over 140 lives. ](/news/2017/04/24/the-afghan-minister-of-defense-abdullah-habibi-and-the-chief-of-staff-of-the-afghan-national-army-qadam-shah-shahim-resign-after-a-taliba.md) _Context: Mazar-i-Sharif, Taliban_
+2. [At least two people have been killed and 90 injured in an attack on the German consulate in Mazar-i-Sharif. The Taliban has claimed responsibility. ](/news/2016/11/10/at-least-two-people-have-been-killed-and-90-injured-in-an-attack-on-the-german-consulate-in-mazar-i-sharif-the-taliban-has-claimed-responsi.md) _Context: Mazar-i-Sharif, Taliban_
+3. [The United States says that last month's airstrikes in Kunduz hit three locations, mistakenly including the Medecins Sans Frontieres  (Doctors Without Borders) (MSF) hospital  where at least 30 were killed.  Afghan commanders, whose forces were actively engaged  with the Taliban, requested the attacks. ''The Washington Post'' reports a warehouse and a mansion in two densely populated residential areas were "pulverized" without loss of civilian lives.  According to residents, earlier their neighborhoods had  been conflict zones, but no militants were there the time of the attacks. "Together, the three attacks raise questions about the quality and reliability of the intelligence that Afghan security forces are providing to their American partners, as well as U.S. decisions to act on that intelligence," writes the Post. ](/news/2015/11/4/the-united-states-says-that-last-month-s-airstrikes-in-kunduz-hit-three-locations-mistakenly-including-the-ma-c-decins-sans-frontia-res-doc.md) _Context: Afghanistan War, Taliban_
+4. [After a week-long assault, ISIL-KP captures the Tora Bora cave complex from the Taliban, allegedly in reaction to the 2017 Nangarhar airstrike. The Taliban say the fighting is still underway. ](/news/2017/06/14/after-a-week-long-assault-isil-kp-captures-the-tora-bora-cave-complex-from-the-taliban-allegedly-in-reaction-to-the-2017-nangarhar-airstri.md) _Context: Taliban_
+5. [An Afghan soldier kills 3 U.S. troops and injures 1 other in Achin, Nangarhar Province. The Taliban claims responsibility, saying the Afghan soldier was one of several Taliban infiltrators in the Afghan Armed Forces. ](/news/2017/06/10/an-afghan-soldier-kills-3-u-s-troops-and-injures-1-other-in-achin-nangarhar-province-the-taliban-claims-responsibility-saying-the-afghan.md) _Context: Taliban_
+6. [Taliban militants attack an Afghan National Army base in Shah Wali Kot District, Kandahar Province, killing at least 15 soldiers. ](/news/2017/05/26/taliban-militants-attack-an-afghan-national-army-base-in-shah-wali-kot-district-kandahar-province-killing-at-least-15-soldiers.md) _Context: Taliban_
+7. [A Taliban raid kills at least 20 Afghan police officers in southern Afghanistan. ](/news/2017/05/21/a-taliban-raid-kills-at-least-20-afghan-police-officers-in-southern-afghanistan.md) _Context: Taliban_
+8. [Sergeant Alexander Blackman, also known as Marine A, a Royal Marine who shot dead a wounded Taliban insurgent in 2011 during Operation Herrick, is released from HM Prison Erlestoke after serving more than three years of a seven-year sentence. ](/news/2017/04/28/sergeant-alexander-blackman-also-known-as-marine-a-a-royal-marine-who-shot-dead-a-wounded-taliban-insurgent-in-2011-during-operation-herri.md) _Context: Taliban_
+9. [Taliban insurgents attack an Afghan military base in Mazar-e-Sharif, Balkh Province, killing more than 140 soldiers. It is said to be the deadliest attack of its kind ](/news/2017/04/21/taliban-insurgents-attack-an-afghan-military-base-in-mazar-e-sharif-balkh-province-killing-more-than-140-soldiers-it-is-said-to-be-the-de.md) _Context: Taliban_
+10. [Russian Special Envoy to Afghanistan Zamir Kabulov denies allegations by NATO Commander Gen. Curtis Scaparrotti that Russia was "perhaps" supplying the Taliban. ](/news/2017/03/24/russian-special-envoy-to-afghanistan-zamir-kabulov-denies-allegations-by-nato-commander-gen-curtis-scaparrotti-that-russia-was-perhaps-su.md) _Context: Taliban_

@@ -1,6 +1,6 @@
 ### [2017-06-17](/news/2017/06/17/index.md)
 
-# The ''USS Fitzgerald'', a United States Navy destroyer, collides with a merchant ship ''MV ACX Crystal'' off the coast of Japan at around 2:30 a.m. local time, with seven American sailors reported missing. The ship was taking on water and able to operate at limited propulsion. 
+# The USS ''Fitzgerald'', a United States Navy destroyer, collides with a merchant ship ''MV ACX Crystal'' off the coast of Japan at around 2:30 a.m. local time, with seven American sailors reported missing. The ship was taking on water and able to operate at limited propulsion. 
 
 
 

@@ -1,7 +1,13 @@
 ## [News](/news/2017/06/17/index.md)
 
-### [The ''USS Fitzgerald'', a United States Navy destroyer, collides with a merchant ship ''MV ACX Crystal'' off the coast of Japan at around 2:30 a.m. local time, with seven American sailors reported missing. The ship was taking on water and able to operate at limited propulsion. ](/news/2017/06/17/the-uss-fitzgerald-a-united-states-navy-destroyer-collides-with-a-merchant-ship-mv-acx-crystal-off-the-coast-of-japan-at-around-2.md)
-_Context: Japan, MV ACX Crystal, Maritime incidents in 2017, USS Fitzgerald, United States Navy, collides_
+### [At least one Afghan is killed and seven American soldiers wounded in an "insider attack" at Camp Shaheen, in the northern city of Mazar-i-Sharif. An earlier report that Americans had been killed is incorrect. The Taliban claims responsibility. ](/news/2017/06/17/at-least-one-afghan-is-killed-and-seven-american-soldiers-wounded-in-an-insider-attack-at-camp-shaheen-in-the-northern-city-of-mazar-i-sh.md)
+I-SHARIF, Afghanistan (Reuters) - At least one Afghan was killed and seven American soldiers were wounded in an &quot;insider attack&quot; at a base in northern Afghanistan on Saturday, a U.S. military official said.
+
+### [The USS ''Fitzgerald'', a United States Navy destroyer, collides with a merchant ship ''MV ACX Crystal'' off the coast of Japan at around 2:30 a.m. local time, with seven American sailors reported missing. The ship was taking on water and able to operate at limited propulsion. ](/news/2017/06/17/the-uss-fitzgerald-a-united-states-navy-destroyer-collides-with-a-merchant-ship-mv-acx-crystal-off-the-coast-of-japan-at-around-2.md)
+_Context: Japan, MV ACX Crystal, Maritime incidents in 2017, USS ''Fitzgerald'', United States Navy, collides_
+
+### [Minnesota State Police, after issuing three warnings,  arrest 18 people who were blocking  Interstate 94 in St. Paul. A peaceful  protest started  following Friday's acquittal of St. Anthony police officer Jeronimo Yanez, who was charged with manslaughter in the fatal shooting of Philando Castile. ](/news/2017/06/17/minnesota-state-police-after-issuing-three-warnings-arrest-18-people-who-were-blocking-interstate-94-in-st-paul-a-peaceful-protest-st.md)
+_Context: Interstate 94, Minnesota State Police, Shooting of Philando Castile, St. Anthony, St. Paul_
 
 ### [Baldwin Lonsdale, the President of Vanuatu, dies suddenly of a heart attack at age 67. Parliament Speaker Esmon Saimon takes his post as acting president. ](/news/2017/06/17/baldwin-lonsdale-the-president-of-vanuatu-dies-suddenly-of-a-heart-attack-at-age-67-parliament-speaker-esmon-saimon-takes-his-post-as-act.md)
 Vanuatu was in a state of mourning on Saturday after its revered president, Baldwin Lonsdale, died unexpectedly. He was 67.
