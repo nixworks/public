@@ -1,14 +1,9 @@
 ### [2017-06-18](/news/2017/06/18/index.md)
 
-# The death toll from forest fires in Pedrogao Grande, central Portugal, rises to at least 62, with many of the victims becoming trapped on the road between the towns of Figueiro dos Vinhos and Castanheira de Pera. 
-
-Many died in their cars while fleeing the fire, which may have been started by a thunderstorm.
+# The death toll from forest fires in Pedrogao Grande, central Portugal, rises to at least 62, with many of the victims becoming trapped on the road between the towns of Figueiro dos Vinhos and Castanheira de Pera. [http://www.bbc.com/news/world-europe-40316934 (BBC)], [http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2017-06-18-EU--Portugal-Forest%20Fires/id-7f327208cca64801bd08fd8ae0af88e4 (AP)], [http://www.euronews.com/2017/06/18/death-toll-climbs-above-60-in-portugal-forest-fire (Euronews)].
 
 
-### Source:
 
-1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2017-06-18-EU--Portugal-Forest%20Fires/id-7f327208cca64801bd08fd8ae0af88e4)
-2. [BBC](http://www.bbc.com/news/world-europe-40316934)
 
 ### Related:
 
