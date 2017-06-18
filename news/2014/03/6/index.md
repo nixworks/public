@@ -9,7 +9,7 @@ _Context: Getty Images, free use_
 ### [Two members of the protest band Pussy Riot are left with chemical burns and head injuries after being attacked by a group of people in a McDonald's. ](/news/2014/03/6/two-members-of-the-protest-band-pussy-riot-are-left-with-chemical-burns-and-head-injuries-after-being-attacked-by-a-group-of-people-in-a-mcd.md)
 _Context: McDonald's, Pussy Riot_
 
-### [War in Afghanistan (2001-present):A NATO airstrike mistakenly hits a Afghan military outpost in Logar Province killing 5 Afghan soldiers. ](/news/2014/03/6/war-in-afghanistan-2001apresent-pa-nato-airstrike-mistakenly-hits-a-afghan-military-outpost-in-logar-province-killing-5-afghan-soldiers.md)
+### [War in Afghanistan (2001-present):A NATO airstrike mistakenly hits an Afghan military outpost in Logar Province killing 5 Afghan soldiers. ](/news/2014/03/6/war-in-afghanistan-2001apresent-pa-nato-airstrike-mistakenly-hits-an-afghan-military-outpost-in-logar-province-killing-5-afghan-soldiers.md)
 The friendly-fire incident is considered one of the worst in the war&rsquo;s 12-year history.
 
 ### [2014 Crimean crisis:The European Union freezes the assets of former Ukrainian president Viktor Yanukovich, two of his sons, and dozens of his advisers. ](/news/2014/03/6/2014-crimean-crisis-pthe-european-union-freezes-the-assets-of-former-ukrainian-president-viktor-yanukovich-two-of-his-sons-and-dozens-of-h.md)

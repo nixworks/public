@@ -19,7 +19,7 @@ _Context: Asia, Europe, FLAG, Internet, Middle East, SEA-ME-WE 3, SEA-ME-WE 4, b
 David Drumm has resigned as chief executive of Anglo Irish Bank following last night&#39;s resignation of chairman Sean FitzPatrick.
 
 ### [ Thirty prisoners burn down and escape their jail in Vanuatu. Two Members of Parliament are later arrested for harboring some of the fugitives. ](/news/2008/12/19/thirty-prisoners-burn-down-and-escape-their-jail-in-vanuatu-two-members-of-parliament-are-later-arrested-for-harboring-some-of-the-fugitiv.md)
-_Context: MP, Speaker of the Parliament, Vanuatu_
+_Context: MP, Parliament, Vanuatu_
 
 ## [Previous Day...](/news/2008/12/18/index.md)
 

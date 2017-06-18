@@ -62,7 +62,7 @@ _Context: Fiji_
 _Context: Egypt, Gaza Strip, Red Crescent, Suez Canal_
 
 ### [A group of armed men vandalises a United Nations summer camp in the Gaza Strip, in a second attack since May. Hamas and the Popular Front for the Liberation of Palestine condemn the attack. ](/news/2010/06/28/a-group-of-armed-men-vandalises-a-united-nations-summer-camp-in-the-gaza-strip-in-a-second-attack-since-may-hamas-and-the-popular-front-fo.md)
-_Context: Gaza Strip, Hamas, Popular Front for the Liberation of Palestine, United Nations_
+_Context: Gaza Strip, Hamas, PFLP, United Nations_
 
 ### [Turkey closes its airspace to some Israeli military flights in apparent retaliation for Israeli raid on the Gaza-flotilla; civilian commercial flights are not affected. ](/news/2010/06/28/turkey-closes-its-airspace-to-some-israeli-military-flights-in-apparent-retaliation-for-israeli-raid-on-the-gaza-flotilla-civilian-commerci.md)
 Turkey reportedly refuses flyover rights to Israeli military planes.

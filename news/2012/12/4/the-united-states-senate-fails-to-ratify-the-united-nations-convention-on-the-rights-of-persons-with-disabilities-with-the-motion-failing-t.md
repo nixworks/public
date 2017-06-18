@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and against Iran. Language in the measure also reaffirms United States commitment to NATO. ](/news/2017/06/16/the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping-up-sanctions-against-russia-and-against-iran-language-in-the-mea.md) _Context: United States Senate_
+1. [The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and against Iran. Language in the measure also reaffirms United States' commitment to NATO. ](/news/2017/06/16/the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping-up-sanctions-against-russia-and-against-iran-language-in-the-mea.md) _Context: United States Senate_
 2. [The United States Senate confirms Heather Wilson as Secretary of the Air Force. ](/news/2017/05/8/the-united-states-senate-confirms-heather-wilson-as-secretary-of-the-air-force.md) _Context: United States Senate_
 3. [The United Nations Human Rights Council conducts a periodic review of the human rights situation in the Philippines. ](/news/2017/05/8/the-united-nations-human-rights-council-conducts-a-periodic-review-of-the-human-rights-situation-in-the-philippines.md) _Context: United Nations_
 4. [United States senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales to the Philippine National Police over its drug war. ](/news/2017/05/5/united-states-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-to-the-philippine-national-police-over-it.md) _Context: United States Senate_

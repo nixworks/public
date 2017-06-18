@@ -3,8 +3,14 @@
 ### [At least one Afghan is killed and seven American soldiers wounded in an "insider attack" at Camp Shaheen, in the northern city of Mazar-i-Sharif. An earlier report that Americans had been killed is incorrect. The Taliban claims responsibility. ](/news/2017/06/17/at-least-one-afghan-is-killed-and-seven-american-soldiers-wounded-in-an-insider-attack-at-camp-shaheen-in-the-northern-city-of-mazar-i-sh.md)
 I-SHARIF, Afghanistan (Reuters) - At least one Afghan was killed and seven American soldiers were wounded in an &quot;insider attack&quot; at a base in northern Afghanistan on Saturday, a U.S. military official said.
 
-### [The USS ''Fitzgerald'', a United States Navy destroyer, collides with a merchant ship ''MV ACX Crystal'' off the coast of Japan at around 2:30 a.m. local time, with seven American sailors reported missing. The ship was taking on water and able to operate at limited propulsion. ](/news/2017/06/17/the-uss-fitzgerald-a-united-states-navy-destroyer-collides-with-a-merchant-ship-mv-acx-crystal-off-the-coast-of-japan-at-around-2.md)
-_Context: Japan, MV ACX Crystal, Maritime incidents in 2017, USS ''Fitzgerald'', United States Navy, collides_
+### [A suspected terrorist bomb explosion in an Andino shopping mall's ladies room in Bogota, Colombia, kills one woman and injures at least 11. ](/news/2017/06/17/a-suspected-terrorist-bomb-explosion-in-an-andino-shopping-mall-s-ladies-room-in-bogota-colombia-kills-one-woman-and-injures-at-least-11.md)
+A bomb attack inside a shopping mall in one of the most exclusive areas of Colombia&#8217;s capital Bogota killed at least three and injured nine people on Saturday. According to&hellip;
+
+### [The USS ''Fitzgerald'', a United States Navy destroyer, collides with a merchant ship MV ''ACX Crystal'' off the coast of Japan at around 2:30 a.m. local time, with seven American sailors reported missing. The ship was taking on water and able to operate at limited propulsion. ](/news/2017/06/17/the-uss-fitzgerald-a-united-states-navy-destroyer-collides-with-a-merchant-ship-mv-acx-crystal-off-the-coast-of-japan-at-around-2.md)
+_Context: Japan, MV ''ACX Crystal'', Maritime incidents in 2017, USS ''Fitzgerald'', United States Navy, collides_
+
+### [Four people are killed as intense rains and snowstorms hit central and southern Chile. About 3,000 people are homeless, and hundreds of thousands have lost power. ](/news/2017/06/17/four-people-are-killed-as-intense-rains-and-snowstorms-hit-central-and-southern-chile-about-3-000-people-are-homeless-and-hundreds-of-thou.md)
+Intense rains and snowstorms in central and southern Chile have left four people dead and nearly 3,000 homeless, as well as hundreds of thousands without power, authorities said on Saturday.
 
 ### [Minnesota State Police, after issuing three warnings,  arrest 18 people who were blocking  Interstate 94 in St. Paul. A peaceful  protest started  following Friday's acquittal of St. Anthony police officer Jeronimo Yanez, who was charged with manslaughter in the fatal shooting of Philando Castile. ](/news/2017/06/17/minnesota-state-police-after-issuing-three-warnings-arrest-18-people-who-were-blocking-interstate-94-in-st-paul-a-peaceful-protest-st.md)
 _Context: Interstate 94, Minnesota State Police, Shooting of Philando Castile, St. Anthony, St. Paul_

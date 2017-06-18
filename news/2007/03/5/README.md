@@ -13,7 +13,7 @@ _Context: Baghdad, Iraq War, car bomb_
 _Context: Copenhagen, Denmark, Ungdomshuset, demolishing_
 
 ### [ The government of Vanuatu declares a state of emergency in Port Vila following ethnic clashes. ](/news/2007/03/5/the-government-of-vanuatu-declares-a-state-of-emergency-in-port-vila-following-ethnic-clashes.md)
-_Context: Port Vila, Vanuatu, government of, state of emergency_
+_Context: Politics of Vanuatu, Port Vila, Vanuatu, state of emergency_
 
 ### [ The 2007 National People's Congress opens at the Great Hall of the People in Beijing, China. In his report to the nation, Premier Wen Jiabao focuses on environmental concerns, narrowing the wealth gap, controlling housing prices, and "resolute opposition" to Taiwan independence. ](/news/2007/03/5/the-2007-national-people-s-congress-opens-at-the-great-hall-of-the-people-in-beijing-china-in-his-report-to-the-nation-premier-wen-jiaba.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
