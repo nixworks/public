@@ -3,10 +3,13 @@
 ### [A coordinated suicide bombing attack on a police station in the town of Gardez in Paktia Province resulting in dozens of people killed and injured. ](/news/2017/06/18/a-coordinated-suicide-bombing-attack-on-a-police-station-in-the-town-of-gardez-in-paktia-province-resulting-in-dozens-of-people-killed-and-i.md)
 As many as five suicide bombers attack a police headquarters in eastern Afghanistan in an attack doctors say killed at least five police and wounded at least 30 other people.
 
+### [Gunmen storm a popular tourist resort near the Malian capital, Bamako. At least two people are reportedly killed. Malian troops and France's Operation Barkhane counter-terrorist force are at the site. ](/news/2017/06/18/gunmen-storm-a-popular-tourist-resort-near-the-malian-capital-bamako-at-least-two-people-are-reportedly-killed-malian-troops-and-france-s.md)
+Troops free 20 hostages, the government says, as the resort is attacked by suspected jihadists.
+
 ### [Rescuers find the bodies of seven United States Navy sailors who were missing after the prior day's collision between the USS ''Fitzgerald'' and the MV ''ACX Crysta''l off the coast of Yokosuka, Japan. ](/news/2017/06/18/rescuers-find-the-bodies-of-seven-united-states-navy-sailors-who-were-missing-after-the-prior-day-s-collision-between-the-uss-fitzgerald.md)
 The commander of the U.S. Navy&#039;s 7th Fleet says that search and rescue efforts are over for the seven sailors missing after a destroyer collided with a con
 
-### [The death toll from forest fires in Pedrogao Grande, central Portugal, rises to at least 62, with many of the victims becoming trapped on the road between the towns of Figueiro dos Vinhos and Castanheira de Pera. ](/news/2017/06/18/the-death-toll-from-forest-fires-in-pedra3gapso-grande-central-portugal-rises-to-at-least-62-with-many-of-the-victims-becoming-trapped-on.md)
+### [The death toll from forest fires in Pedrogao Grande, central Portugal, rises to at least 62. Many victims were trapped on the road between the towns of Figueiro dos Vinhos and Castanheira de Pera. ](/news/2017/06/18/the-death-toll-from-forest-fires-in-pedra3gapso-grande-central-portugal-rises-to-at-least-62-many-victims-were-trapped-on-the-road-between.md)
 Many died in their cars while fleeing the fire, which may have been started by a thunderstorm.
 
 ### [A North Korean soldier defects to South Korea after swimming across the Han River, the second North Korean defection in a week. ](/news/2017/06/18/a-north-korean-soldier-defects-to-south-korea-after-swimming-across-the-han-river-the-second-north-korean-defection-in-a-week.md)
