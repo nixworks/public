@@ -9,8 +9,8 @@ Troops free 20 hostages, the government says, as the resort is attacked by suspe
 ### [An air raid kills at least 24 civilians at a market in rebel-held Saada Governorate, Yemen. ](/news/2017/06/18/an-air-raid-kills-at-least-24-civilians-at-a-market-in-rebel-held-saada-governorate-yemen.md)
 At least 24 civilians were killed in an air raid Sunday on a market in northern Yemen, a medical official and witnesses said, blaming the Saudi-led coalition battling Yemeni rebels.
 
-### [Iran says it fires ground-to-ground missiles from western Iran to militant targets in Deir ez-Zor, Syria, in retaliation for the June 7 Tehran attacks. ](/news/2017/06/18/iran-says-it-fires-ground-to-ground-missiles-from-western-iran-to-militant-targets-in-deir-ez-zor-syria-in-retaliation-for-the-june-7-tehr.md)
-_Context: Deir ez-Zor, Iran, Syria, Tehran attacks_
+### [Iran says it fires ground-to-ground missiles from western Iran to militant targets in Deir ez-Zor, eastern Syria, in retaliation for the June 7 Tehran attacks. ](/news/2017/06/18/iran-says-it-fires-ground-to-ground-missiles-from-western-iran-to-militant-targets-in-deir-ez-zor-eastern-syria-in-retaliation-for-the-jun.md)
+American forces have shot down a Syrian government fighter jet accused of attacking Kurdish-led troops fighting Isis. US Central Command said the SU-22 dropped bombs near the Syrian Democratic Forces (SDF), who are being supported by the US-led coalition as they advance on the terrorist stronghold of Raqqa.
 
 ### [Rescuers find the bodies of seven United States Navy sailors who were missing after the prior day's collision between the USS ''Fitzgerald'' and the MV ''ACX Crysta''l off the coast of Yokosuka, Japan. ](/news/2017/06/18/rescuers-find-the-bodies-of-seven-united-states-navy-sailors-who-were-missing-after-the-prior-day-s-collision-between-the-uss-fitzgerald.md)
 The commander of the U.S. Navy&#039;s 7th Fleet says that search and rescue efforts are over for the seven sailors missing after a destroyer collided with a con
