@@ -6,6 +6,12 @@ As many as five suicide bombers attack a police headquarters in eastern Afghanis
 ### [Gunmen storm a popular tourist resort near the Malian capital, Bamako. At least two people are reportedly killed. Malian troops and France's Operation Barkhane counter-terrorist force are at the site. ](/news/2017/06/18/gunmen-storm-a-popular-tourist-resort-near-the-malian-capital-bamako-at-least-two-people-are-reportedly-killed-malian-troops-and-france-s.md)
 Troops free 20 hostages, the government says, as the resort is attacked by suspected jihadists.
 
+### [An air raid kills at least 24 civilians at a market in rebel-held Saada Governorate, Yemen. ](/news/2017/06/18/an-air-raid-kills-at-least-24-civilians-at-a-market-in-rebel-held-saada-governorate-yemen.md)
+At least 24 civilians were killed in an air raid Sunday on a market in northern Yemen, a medical official and witnesses said, blaming the Saudi-led coalition battling Yemeni rebels.
+
+### [Iran says it fires ground-to-ground missiles from western Iran to militant targets in Deir ez-Zor, Syria, in retaliation for the June 7 Tehran attacks. ](/news/2017/06/18/iran-says-it-fires-ground-to-ground-missiles-from-western-iran-to-militant-targets-in-deir-ez-zor-syria-in-retaliation-for-the-june-7-tehr.md)
+_Context: Deir ez-Zor, Iran, Syria, Tehran attacks_
+
 ### [Rescuers find the bodies of seven United States Navy sailors who were missing after the prior day's collision between the USS ''Fitzgerald'' and the MV ''ACX Crysta''l off the coast of Yokosuka, Japan. ](/news/2017/06/18/rescuers-find-the-bodies-of-seven-united-states-navy-sailors-who-were-missing-after-the-prior-day-s-collision-between-the-uss-fitzgerald.md)
 The commander of the U.S. Navy&#039;s 7th Fleet says that search and rescue efforts are over for the seven sailors missing after a destroyer collided with a con
 
@@ -17,6 +23,9 @@ The man swam with foam attached to his shoulders to help him stay afloat, offici
 
 ### [Voters in France return to the polls for the second round of a legislative election, with 573 of 577 seats in the National Assembly yet to be decided after the first round. ](/news/2017/06/18/voters-in-france-return-to-the-polls-for-the-second-round-of-a-legislative-election-with-573-of-577-seats-in-the-national-assembly-yet-to-b.md)
 The French are voting Sunday for the fourth time in two months and the main outstanding question is just how big a majority they will hand President Emmanuel Macron.
+
+### [Six members of President Trump's  Advisory Council on HIV/AIDS  resign stating the administration doesn't have a strategy to address the epidemic, doesn't seek input from experts on HIV policy, supports legislation that would halt or reverse important gains made in the fight against this disease and would harm people living with HIV. ](/news/2017/06/18/six-members-of-president-trump-s-advisory-council-on-hiv-aids-resign-stating-the-administration-doesn-t-have-a-strategy-to-address-the-epi.md)
+Six members of the Presidential Advisory Council on HIV/AIDS (PACHA) resigned in protest of the Trump administration.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -33,7 +42,7 @@ I-SHARIF, Afghanistan (Reuters) - At least one Afghan was killed and seven Ameri
 A bomb attack inside a shopping mall in one of the most exclusive areas of Colombia&#8217;s capital Bogota killed at least three and injured nine people on Saturday. According to&hellip;
 
 ### [The USS ''Fitzgerald'', a United States Navy destroyer, collides with a merchant ship MV ''ACX Crystal'' off the coast of Japan at around 2:30 a.m. local time, with seven American sailors reported missing. The ship was taking on water and able to operate at limited propulsion. ](/news/2017/06/17/the-uss-fitzgerald-a-united-states-navy-destroyer-collides-with-a-merchant-ship-mv-acx-crystal-off-the-coast-of-japan-at-around-2.md)
-_Context: Japan, MV ''ACX Crysta''l, Maritime incidents in 2017, USS ''Fitzgerald'', United States Navy, collides_
+_Context: Japan, MV ''ACX Crysta''l, USS ''Fitzgerald'', USS ''Fitzgerald'' and MV ''ACX Crystal'' collision, United States Navy, collides_
 
 ### [Four people are killed as intense rains and snowstorms hit central and southern Chile. About 3,000 people are homeless, and hundreds of thousands have lost power. ](/news/2017/06/17/four-people-are-killed-as-intense-rains-and-snowstorms-hit-central-and-southern-chile-about-3-000-people-are-homeless-and-hundreds-of-thou.md)
 Intense rains and snowstorms in central and southern Chile have left four people dead and nearly 3,000 homeless, as well as hundreds of thousands without power, authorities said on Saturday.
@@ -52,6 +61,9 @@ The &quot;Cosby Show&quot; actor was charged with drugging and molesting Andrea 
 
 ### [Baldwin Lonsdale, the President of Vanuatu, dies suddenly of a heart attack at age 67. Parliament Speaker Esmon Saimon takes his post as acting president. ](/news/2017/06/17/baldwin-lonsdale-the-president-of-vanuatu-dies-suddenly-of-a-heart-attack-at-age-67-parliament-speaker-esmon-saimon-takes-his-post-as-act.md)
 Vanuatu was in a state of mourning on Saturday after its revered president, Baldwin Lonsdale, died unexpectedly. He was 67.
+
+### [Milwaukee County Sheriff David Clarke withdraws his name from consideration for an assistant secretary position at the Department of Homeland Security. ](/news/2017/06/17/milwaukee-county-sheriff-david-clarke-withdraws-his-name-from-consideration-for-an-assistant-secretary-position-at-the-department-of-homelan.md)
+The Department of Homeland Security says Milwaukee County Sheriff David Clarke is no longer a candidate for a position in the agency. The conservative firebrand said last month he was taking a job as an assistant secretary at the DHS, but the agency declined to confirm the appointment,...
 
 ---
 

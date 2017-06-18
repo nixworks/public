@@ -7,7 +7,7 @@ I-SHARIF, Afghanistan (Reuters) - At least one Afghan was killed and seven Ameri
 A bomb attack inside a shopping mall in one of the most exclusive areas of Colombia&#8217;s capital Bogota killed at least three and injured nine people on Saturday. According to&hellip;
 
 ### [The USS ''Fitzgerald'', a United States Navy destroyer, collides with a merchant ship MV ''ACX Crystal'' off the coast of Japan at around 2:30 a.m. local time, with seven American sailors reported missing. The ship was taking on water and able to operate at limited propulsion. ](/news/2017/06/17/the-uss-fitzgerald-a-united-states-navy-destroyer-collides-with-a-merchant-ship-mv-acx-crystal-off-the-coast-of-japan-at-around-2.md)
-_Context: Japan, MV ''ACX Crysta''l, Maritime incidents in 2017, USS ''Fitzgerald'', United States Navy, collides_
+_Context: Japan, MV ''ACX Crysta''l, USS ''Fitzgerald'', USS ''Fitzgerald'' and MV ''ACX Crystal'' collision, United States Navy, collides_
 
 ### [Four people are killed as intense rains and snowstorms hit central and southern Chile. About 3,000 people are homeless, and hundreds of thousands have lost power. ](/news/2017/06/17/four-people-are-killed-as-intense-rains-and-snowstorms-hit-central-and-southern-chile-about-3-000-people-are-homeless-and-hundreds-of-thou.md)
 Intense rains and snowstorms in central and southern Chile have left four people dead and nearly 3,000 homeless, as well as hundreds of thousands without power, authorities said on Saturday.
@@ -26,6 +26,9 @@ The &quot;Cosby Show&quot; actor was charged with drugging and molesting Andrea 
 
 ### [Baldwin Lonsdale, the President of Vanuatu, dies suddenly of a heart attack at age 67. Parliament Speaker Esmon Saimon takes his post as acting president. ](/news/2017/06/17/baldwin-lonsdale-the-president-of-vanuatu-dies-suddenly-of-a-heart-attack-at-age-67-parliament-speaker-esmon-saimon-takes-his-post-as-act.md)
 Vanuatu was in a state of mourning on Saturday after its revered president, Baldwin Lonsdale, died unexpectedly. He was 67.
+
+### [Milwaukee County Sheriff David Clarke withdraws his name from consideration for an assistant secretary position at the Department of Homeland Security. ](/news/2017/06/17/milwaukee-county-sheriff-david-clarke-withdraws-his-name-from-consideration-for-an-assistant-secretary-position-at-the-department-of-homelan.md)
+The Department of Homeland Security says Milwaukee County Sheriff David Clarke is no longer a candidate for a position in the agency. The conservative firebrand said last month he was taking a job as an assistant secretary at the DHS, but the agency declined to confirm the appointment,...
 
 ## [Previous Day...](/news/2017/06/16/index.md)
 
