@@ -7,7 +7,7 @@ David Grossman is awarded the Man Booker International Prize for his novel about
 An attack hits a mosque in an area of the Afghan capital Kabul dominated by minority Shia Muslims.
 
 ### [An explosion at a kindergarten in Fengxian, Jiangsu Province, China, kills seven people and injures 66. ](/news/2017/06/15/an-explosion-at-a-kindergarten-in-fengxian-jiangsu-province-china-kills-seven-people-and-injures-66.md)
-_Context: 2017 Xuzhou kindergarten explosion, Fengxian, Jiangsu Province_
+_Context: 2017 Xuzhou kindergarten bombing, Fengxian, Jiangsu Province_
 
 ### [The Japanese Diet passes an anti-terrorism law that has been accused by critics as a threat to freedom. ](/news/2017/06/15/the-japanese-diet-passes-an-anti-terrorism-law-that-has-been-accused-by-critics-as-a-threat-to-freedom.md)
 Critics including UN expert fear legislation passed by Abe government could target ordinary citizens and deter grassroots opposition to government policies
