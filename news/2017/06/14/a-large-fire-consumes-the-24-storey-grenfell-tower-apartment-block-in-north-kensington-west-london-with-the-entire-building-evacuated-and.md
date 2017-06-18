@@ -12,3 +12,7 @@ Eyewitnesses say people are trapped and there are fears the residential building
 3. [NBC News](http://www.nbcnews.com/news/world/24-story-london-tower-erupts-flames-residents-scream-help-n772011)
 4. [New York Times](https://www.nytimes.com/2017/06/13/world/europe/fire-london-apartment-building.html)
 5. [The Guardian](https://www.theguardian.com/uk-news/live/2017/jun/14/grenfell-tower-major-fire-london-apartment-block-white-city-latimer-road)
+
+### Related:
+
+1. [The suspected death toll of the fire in North Kensington, London earlier in the week significantly increases, as the Metropolitan Police Service reports that a minimum of 58 people are missing and feared dead. ](/news/2017/06/17/the-suspected-death-toll-of-the-fire-in-north-kensington-london-earlier-in-the-week-significantly-increases-as-the-metropolitan-police-ser.md) _Context: Grenfell Tower fire, North Kensington_

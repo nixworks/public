@@ -18,10 +18,13 @@ _Context: Djibouti, Djibouti-Eritrea relations, Doumeira Islands, Eritrea, Maham
 ### [U.S. President Donald Trump announces new restrictions on travel and business with Cuba, reversing policies of Cuban Thaw, implemented during the tenure of President Barack Obama. ](/news/2017/06/16/u-s-president-donald-trump-announces-new-restrictions-on-travel-and-business-with-cuba-reversing-policies-of-cuban-thaw-implemented-durin.md)
 _Context: Barack Obama, Cuba-United States relations, Cuban Thaw, Donald Trump_
 
+### [Jeronimo Yanez, the police officer previously accused of manslaughter and reckless discharge of a firearm at Philando Castile, is acquitted of all charges. ](/news/2017/06/16/jeronimo-yanez-the-police-officer-previously-accused-of-manslaughter-and-reckless-discharge-of-a-firearm-at-philando-castile-is-acquitted.md)
+A jury has acquitted a Minnesota police officer in the shooting death of a black man outside St. Paul last year.
+
 ### [Former German Chancellor Helmut Kohl dies at the age of 87. ](/news/2017/06/16/former-german-chancellor-helmut-kohl-dies-at-the-age-of-87.md)
 _Context: German Chancellor, Helmut Kohl, Politics of Germany_
 
-### [The U.S. Office of Government Ethics certifies a financial report form submitted by President Donald Trump where he declares over $315.6 million in liabilities and exceeding $1.4 billion in assets as of mid-2017, for revenues of more than $594 million over 2016 and early 2017. ](/news/2017/06/16/the-u-s-office-of-government-ethics-certifies-a-financial-report-form-submitted-by-president-donald-trump-where-he-declares-over-315-6-mil.md)
+### [The U.S. Office of Government Ethics certifies President Donald Trump's financial report which discloses over $315.6 million in personal liabilities and exceeding $1.4 billion in assets as of mid-2017, for revenues of more than $594 million over 2016 and early 2017. ](/news/2017/06/16/the-u-s-office-of-government-ethics-certifies-president-donald-trump-s-financial-report-which-discloses-over-315-6-million-in-personal-lia.md)
 President Donald Trump had personal liabilities of at least $315.6 million to German, U.S. and other lenders as of mid-2017, according to a federal financial disclosure form released late on Friday by the U.S. Office of Government Ethics.
 
 ## [Previous Day...](/news/2017/06/15/index.md)
