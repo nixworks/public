@@ -3,10 +3,10 @@
 ### [A coordinated suicide bombing attack on a police station in the town of Gardez in Paktia Province resulting in dozens of people killed and injured. ](/news/2017/06/18/a-coordinated-suicide-bombing-attack-on-a-police-station-in-the-town-of-gardez-in-paktia-province-resulting-in-dozens-of-people-killed-and-i.md)
 As many as five suicide bombers attack a police headquarters in eastern Afghanistan in an attack doctors say killed at least five police and wounded at least 30 other people.
 
-### [The bodies of seven United States Navy sailors, missing after yesterday's USS ''Fitzgerald'' collision off the coast of Yokosuka, Kanagawa, are found on board the damaged vessel, according to Japanese media. ](/news/2017/06/18/the-bodies-of-seven-united-states-navy-sailors-missing-after-yesterday-s-uss-fitzgerald-collision-off-the-coast-of-yokosuka-kanagawa.md)
-U.S. Navy divers found a number of sailors&#039; bodies Sunday aboard the stricken USS Fitzgerald that collided with a container ship in the busy sea off Japan,
+### [The bodies of seven United States Navy sailors, missing after yesterday's USS ''Fitzgerald'' collision with ''MV ACX Crystal'' off the coast of Yokosuka, Kanagawa, are found on board the damaged vessel, according to Japanese media. ](/news/2017/06/18/the-bodies-of-seven-united-states-navy-sailors-missing-after-yesterday-s-uss-fitzgerald-collision-with-mv-acx-crystal-off-the-coast.md)
+The commander of the U.S. Navy&#039;s 7th Fleet says that search and rescue efforts are over for the seven sailors missing after a destroyer collided with a con
 
-### [The death toll from forest fires in Pedrogao Grande, central Portugal, rises to at least 43, with many of the victims becoming trapped on the road between the towns of Figueiro dos Vinhos and Castanheira de Pera. ](/news/2017/06/18/the-death-toll-from-forest-fires-in-pedra3gapso-grande-central-portugal-rises-to-at-least-43-with-many-of-the-victims-becoming-trapped-on.md)
+### [The death toll from forest fires in Pedrogao Grande, central Portugal, rises to at least 57, with many of the victims becoming trapped on the road between the towns of Figueiro dos Vinhos and Castanheira de Pera. ](/news/2017/06/18/the-death-toll-from-forest-fires-in-pedra3gapso-grande-central-portugal-rises-to-at-least-57-with-many-of-the-victims-becoming-trapped-on.md)
 Many died in their cars while fleeing the fire, which may have been started by a thunderstorm.
 
 ### [Voters in France return to the polls for the second round of a legislative election, with 573 of 577 seats in the National Assembly yet to be decided after the first round. ](/news/2017/06/18/voters-in-france-return-to-the-polls-for-the-second-round-of-a-legislative-election-with-573-of-577-seats-in-the-national-assembly-yet-to-b.md)
@@ -27,7 +27,7 @@ I-SHARIF, Afghanistan (Reuters) - At least one Afghan was killed and seven Ameri
 A bomb attack inside a shopping mall in one of the most exclusive areas of Colombia&#8217;s capital Bogota killed at least three and injured nine people on Saturday. According to&hellip;
 
 ### [The USS ''Fitzgerald'', a United States Navy destroyer, collides with a merchant ship MV ''ACX Crystal'' off the coast of Japan at around 2:30 a.m. local time, with seven American sailors reported missing. The ship was taking on water and able to operate at limited propulsion. ](/news/2017/06/17/the-uss-fitzgerald-a-united-states-navy-destroyer-collides-with-a-merchant-ship-mv-acx-crystal-off-the-coast-of-japan-at-around-2.md)
-_Context: Japan, MV ''ACX Crystal'', Maritime incidents in 2017, USS ''Fitzgerald'', United States Navy, collides_
+_Context: Japan, MV ACX Crystal, Maritime incidents in 2017, USS ''Fitzgerald'', United States Navy, collides_
 
 ### [Four people are killed as intense rains and snowstorms hit central and southern Chile. About 3,000 people are homeless, and hundreds of thousands have lost power. ](/news/2017/06/17/four-people-are-killed-as-intense-rains-and-snowstorms-hit-central-and-southern-chile-about-3-000-people-are-homeless-and-hundreds-of-thou.md)
 Intense rains and snowstorms in central and southern Chile have left four people dead and nearly 3,000 homeless, as well as hundreds of thousands without power, authorities said on Saturday.

@@ -7,7 +7,7 @@ Intense rains and snowstorms in central and southern Chile have left four people
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-chile-storm-idUSKBN1980UP?il=0)
+1. [Reuters](http://www.reuters.com/article/us-chile-storm-idUSKBN1980UP)
 
 ### Related:
 
