@@ -18,5 +18,8 @@ _Context: Celebes, Indonesia, Malaysia, Maritime Southeast Asia, Philippines, Su
 ### [The Slants win their case with the Supreme Court of the United States that the U.S. Patent and Trademark Office's rejection of their trademark under the Lanham Act due to their name being "disparaging" is an unconstitutional violation of their free speech rights under the First Amendment. ](/news/2017/06/19/the-slants-win-their-case-with-the-supreme-court-of-the-united-states-that-the-u-s-patent-and-trademark-office-s-rejection-of-their-tradema.md)
 The case could have broad impact on how the First Amendment is applied in other trademark cases.
 
+### [ Personal information of about 200 million US citizens has been exposed on the Internet since January when  unsecured files were uploaded by Republican contractor Deep Root Analytics. The data, available via publicly accessible providers such as Amazon Web Services, included birth dates, home addresses, telephone numbers, religious affiliations, ethnicities, and political views. The problem was discovered by an UpGuard analyst. ](/news/2017/06/19/personal-information-of-about-200-million-us-citizens-has-been-exposed-on-the-internet-since-january-when-unsecured-files-were-uploaded-by.md)
+Sensitive personal details were available on a cloud server to anyone with the correct link.
+
 ## [Previous Day...](/news/2017/06/18/index.md)
 
