@@ -32,9 +32,6 @@ At least 24 civilians were killed in an air raid Sunday on a market in northern 
 ### [Iran fires medium range ballistic missiles from western Iran to militant targets in Deir ez-Zor Governorate, eastern Syria, in retaliation for the June 7 Tehran attacks. ](/news/2017/06/18/iran-fires-medium-range-ballistic-missiles-from-western-iran-to-militant-targets-in-deir-ez-zor-governorate-eastern-syria-in-retaliation-f.md)
 American forces have shot down a Syrian government fighter jet accused of attacking Kurdish-led troops fighting Isis. US Central Command said the SU-22 dropped bombs near the Syrian Democratic Forces (SDF), who are being supported by the US-led coalition as they advance on the terrorist stronghold of Raqqa.
 
-### [A study published in the United States advises against the use of coconut oil and instead proposes using American-produced vegetable oils, such as canola, peanut, safflower, soybean, and sunflower oil. ](/news/2017/06/18/a-study-published-in-the-united-states-advises-against-the-use-of-coconut-oil-and-instead-proposes-using-american-produced-vegetable-oils-s.md)
-Who doesn’t love logging on to the good old ‘net on a Friday morning to the headline “Coconut oil ‘as unhealthy as beef fat and butter.’” It’s got everything. Ah, you might think, my favorite health product is as bad as butter! Or you might even say to yourself, those coconut oil-huffing liberals are really getting what’s coming to them!
-
 ### [Rescuers find the bodies of seven United States Navy sailors who were missing after the prior day's collision between the USS ''Fitzgerald'' and the MV ''ACX Crysta''l off the coast of Yokosuka, Japan. ](/news/2017/06/18/rescuers-find-the-bodies-of-seven-united-states-navy-sailors-who-were-missing-after-the-prior-day-s-collision-between-the-uss-fitzgerald.md)
 The commander of the U.S. Navy&#039;s 7th Fleet says that search and rescue efforts are over for the seven sailors missing after a destroyer collided with a con
 
@@ -43,6 +40,9 @@ Many died in their cars while fleeing the fire, which may have been started by a
 
 ### [An earthquake and tsunami strike Greenland leaving at least 4 dead. ](/news/2017/06/18/an-earthquake-and-tsunami-strike-greenland-leaving-at-least-4-dead.md)
 Four people are feared dead after tsunami waves struck the coast of Greenland on Saturday night.
+
+### [A study published in the United States advises against the use of coconut oil and instead proposes using American-produced vegetable oils, such as canola, peanut, safflower, soybean, and sunflower oil. ](/news/2017/06/18/a-study-published-in-the-united-states-advises-against-the-use-of-coconut-oil-and-instead-proposes-using-american-produced-vegetable-oils-s.md)
+Who doesn’t love logging on to the good old ‘net on a Friday morning to the headline “Coconut oil ‘as unhealthy as beef fat and butter.’” It’s got everything. Ah, you might think, my favorite health product is as bad as butter! Or you might even say to yourself, those coconut oil-huffing liberals are really getting what’s coming to them!
 
 ### [A North Korean soldier defects to South Korea after swimming across the Han River, the second North Korean defection in a week. ](/news/2017/06/18/a-north-korean-soldier-defects-to-south-korea-after-swimming-across-the-han-river-the-second-north-korean-defection-in-a-week.md)
 The man swam with foam attached to his shoulders to help him stay afloat, officials say.
@@ -75,8 +75,8 @@ The majority died while trying to flee in their cars in the Pedrogao Grande area
 ### [The suspected death toll of the fire in North Kensington, London earlier in the week significantly increases, as the Metropolitan Police Service reports that a minimum of 58 people are missing and feared dead. ](/news/2017/06/17/the-suspected-death-toll-of-the-fire-in-north-kensington-london-earlier-in-the-week-significantly-increases-as-the-metropolitan-police-ser.md)
 The official response to the Grenfell Tower catastrophe &ldquo;was not good enough&rdquo;, the Prime Minister admitted last night as the death toll exceeded that of Britain&rsquo;s worst fires since the war.
 
-### [Minnesota State Police, after issuing three warnings,  arrest 18 people who were blocking  Interstate 94 in St. Paul. A peaceful  protest started  following Friday's acquittal of St. Anthony police officer Jeronimo Yanez, who was charged with manslaughter in the fatal shooting of Philando Castile. ](/news/2017/06/17/minnesota-state-police-after-issuing-three-warnings-arrest-18-people-who-were-blocking-interstate-94-in-st-paul-a-peaceful-protest-st.md)
-_Context: Interstate 94, Minnesota State Police, Shooting of Philando Castile, St. Anthony, St. Paul_
+### [Minnesota State Patrol, after issuing three warnings,  arrest 18 people who were blocking  Interstate 94 in St. Paul. A peaceful  protest started  following Friday's acquittal of St. Anthony police officer Jeronimo Yanez, who was charged with manslaughter in the fatal shooting of Philando Castile. ](/news/2017/06/17/minnesota-state-patrol-after-issuing-three-warnings-arrest-18-people-who-were-blocking-interstate-94-in-st-paul-a-peaceful-protest-st.md)
+_Context: Interstate 94, Minnesota State Patrol, Shooting of Philando Castile, St. Anthony, St. Paul_
 
 ### [The trial against comedian Bill Cosby at the Montgomery County Courthouse ends with a hung jury and the consequent declaration of a mistrial. ](/news/2017/06/17/the-trial-against-comedian-bill-cosby-at-the-montgomery-county-courthouse-ends-with-a-hung-jury-and-the-consequent-declaration-of-a-mistrial.md)
 The &quot;Cosby Show&quot; actor was charged with drugging and molesting Andrea Constand in 2004.

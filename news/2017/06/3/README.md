@@ -15,9 +15,6 @@ Snap election is seen as a two-horse race between old rivals Prime Minister Paka
 ### [Voters in Malta go to the polls for a snap election, with current Prime Minister Joseph Muscat and his Labour Party facing off against Forza Nazzjonali, led by Simon Busuttil. The election comes amid corruption allegations leveled against Muscat's associates. ](/news/2017/06/3/voters-in-malta-go-to-the-polls-for-a-snap-election-with-current-prime-minister-joseph-muscat-and-his-labour-party-facing-off-against-forza.md)
 _Context: Forza Nazzjonali, Joseph Muscat, Labour Party, Malta, Maltese general election, 2017, Prime Minister, Simon Busuttil_
 
-### [CNN denies authenticity of footage documenting its employees manufacturing a protest using unrepresentative Muslim actors. ](/news/2017/06/3/cnn-denies-authenticity-of-footage-documenting-its-employees-manufacturing-a-protest-using-unrepresentative-muslim-actors.md)
-CNN and its &#8220;Reliable Sources&#8221; host, Brian Stelter, are pushing back against claims the network staged an anti-terror demonstration in London after Saturday night&#8217;s attack.
-
 ### [SpaceX launches a Falcon 9 rocket with a shipment of food and supplies in a refurbished Dragon cargo capsule for the International Space Station. The mission reuses a Dragon cargo vessel that was previously flown in a September 2014 mission. ](/news/2017/06/3/spacex-launches-a-falcon-9-rocket-with-a-shipment-of-food-and-supplies-in-a-refurbished-dragon-cargo-capsule-for-the-international-space-sta.md)
 SpaceX on Saturday blasted off a shipment of food and supplies for the astronauts living at the International Space Station using for the first time a vessel that had flown before.
 
