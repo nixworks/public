@@ -12,6 +12,9 @@ UK and EU representatives say opening day of discussions will mainly deal with t
 ### [Indonesia, Malaysia and the Philippines begin joint patrols in the pirate havens within the  Celebes and Sulu Seas. ](/news/2017/06/19/indonesia-malaysia-and-the-philippines-begin-joint-patrols-in-the-pirate-havens-within-the-celebes-and-sulu-seas.md)
 _Context: Celebes, Indonesia, Malaysia, Maritime Southeast Asia, Philippines, Sulu Sea, pirate_
 
+### [The Slants win their case with the Supreme Court of the United States that the U.S. Patent and Trademark Office's rejection of their trademark under the Lanham Act due to their name being "disparaging" is an unconstitutional violation of their free speech rights under the First Amendment. ](/news/2017/06/19/the-slants-win-their-case-with-the-supreme-court-of-the-united-states-that-the-u-s-patent-and-trademark-office-s-rejection-of-their-tradema.md)
+The case could have broad impact on how the First Amendment is applied in other trademark cases.
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
