@@ -7,7 +7,7 @@ CINCINNATI (AP) — Otto Warmbier, an American college student who was released 
 
 ### Source:
 
-1. [AP via ABC News Australia](http://www.abc.net.au/news/2017-06-20/otto-warmbier-us-student-detained-in-north-korea-dies/8633216)
+1. [AP via Aus. Broadcasting Corp.](http://www.abc.net.au/news/2017-06-20/otto-warmbier-us-student-detained-in-north-korea-dies/8633216)
 2. [AP via Yahoo! News](https://www.yahoo.com/news/us-student-freed-north-korea-204425775.html?soc_trk=gcm&soc_src=d9780ae9-562b-3ef5-9d83-c17f2088b031&.tsrc=notification-brknews)
 
 ### Related:
