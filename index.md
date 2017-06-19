@@ -1,7 +1,13 @@
 ## [News](/news/2017/06/19/index.md)
 
-### [Several people have reportedly been killed after a van runs over pedestrians outside the Finsbury Park Mosque in the north London suburb of Finsbury Park. ](/news/2017/06/19/several-people-have-reportedly-been-killed-after-a-van-runs-over-pedestrians-outside-the-finsbury-park-mosque-in-the-north-london-suburb-of.md)
+### [At least one person has been killed  and ten injured after a van runs over pedestrians outside the Finsbury Park Mosque in the north London suburb of Finsbury Park. Police are investigating the act as a terrorist incident. ](/news/2017/06/19/at-least-one-person-has-been-killed-and-ten-injured-after-a-van-runs-over-pedestrians-outside-the-finsbury-park-mosque-in-the-north-london.md)
 _Context: 2017 Finsbury Park incident, Finsbury Park, Finsbury Park Mosque, north London_
+
+### [The global price of crude oil decreases due to increased United States supply and decreased demand.  ](/news/2017/06/19/the-global-price-of-crude-oil-decreases-due-to-increased-united-states-supply-and-decreased-demand.md)
+Oil prices dipped on Monday, weighed down by a continuing expansion in U.S. drilling that has helped to maintain high global supplies despite an OPEC-led initiative to cut production to tighten the market.
+
+### [The number of people displaced globally totals 60.6 million after an addition of 10.3 million people displaced in 2016. Syria, Colombia, Afghanistan, Iraq and South Sudan are the countries in the top five.  ](/news/2017/06/19/the-number-of-people-displaced-globally-totals-60-6-million-after-an-addition-of-10-3-million-people-displaced-in-2016-syria-colombia-afg.md)
+The number of people displaced from their homes across the world climbed slightly to 65.6 million last year, with the escalating conflict in South Sudan accounting for the rise, the United Nations refugee agency said Monday.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -22,6 +28,9 @@ At least 24 civilians were killed in an air raid Sunday on a market in northern 
 
 ### [Iran fires ground-to-ground missiles from western Iran to militant targets in Deir ez-Zor Governorate, eastern Syria, in retaliation for the June 7 Tehran attacks. ](/news/2017/06/18/iran-fires-ground-to-ground-missiles-from-western-iran-to-militant-targets-in-deir-ez-zor-governorate-eastern-syria-in-retaliation-for-the.md)
 American forces have shot down a Syrian government fighter jet accused of attacking Kurdish-led troops fighting Isis. US Central Command said the SU-22 dropped bombs near the Syrian Democratic Forces (SDF), who are being supported by the US-led coalition as they advance on the terrorist stronghold of Raqqa.
+
+### [A study published in the United States advises against the use of coconut oil and instead proposes using American-produced vegetable oils, such as canola, cottonseed, peanut, safflower, and sunflower oil. ](/news/2017/06/18/a-study-published-in-the-united-states-advises-against-the-use-of-coconut-oil-and-instead-proposes-using-american-produced-vegetable-oils-s.md)
+Who doesn’t love logging on to the good old ‘net on a Friday morning to the headline “Coconut oil ‘as unhealthy as beef fat and butter.’” It’s got everything. Ah, you might think, my favorite health product is as bad as butter! Or you might even say to yourself, those coconut oil-huffing liberals are really getting what’s coming to them!
 
 ### [Rescuers find the bodies of seven United States Navy sailors who were missing after the prior day's collision between the USS ''Fitzgerald'' and the MV ''ACX Crysta''l off the coast of Yokosuka, Japan. ](/news/2017/06/18/rescuers-find-the-bodies-of-seven-united-states-navy-sailors-who-were-missing-after-the-prior-day-s-collision-between-the-uss-fitzgerald.md)
 The commander of the U.S. Navy&#039;s 7th Fleet says that search and rescue efforts are over for the seven sailors missing after a destroyer collided with a con
