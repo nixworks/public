@@ -1,9 +1,13 @@
 ### [2006-01-19](/news/2006/01/19/index.md)
 
-#  A leaked memo from the United Kingdom's Foreign Office reveals that the British government had a strategy aimed at suppressing a debate about the US practice of transporting detainees to secret centres where they are at risk of being tortured. [http://www.guardian.co.uk/usa/story/0,,1689853,00.html (Guardian Unlimited)].
+#  A leaked memo from the United Kingdom's Foreign Office reveals that the British government had a strategy aimed at suppressing a debate about the US practice of transporting detainees to secret centres where they are at risk of being tortured. 
 
 
 
+
+### Source:
+
+1. [Guardian Unlimited](http://www.guardian.co.uk/usa/story/0,,1689853,00.html)
 
 ### Related:
 

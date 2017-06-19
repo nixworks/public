@@ -1,9 +1,13 @@
 ### [2007-08-15](/news/2007/08/15/index.md)
 
-#  Tropical Depression Five strengthens into Tropical Storm Erin, causing tropical storm warnings to be issued for parts of Texas and Tamaulipas.  [http://www.reuters.com/article/topNews/idUSN1522565620070815?src=081507_1351_DOUBLEFEATURE_rove%3A_gop_can_win (Reuters)]. 
+#  Tropical Depression Five strengthens into Tropical Storm Erin, causing tropical storm warnings to be issued for parts of Texas and Tamaulipas.  
+
+Tropical Storm Erin, which formed in the western Gulf of Mexico early Wednesday, was moving in a northwesterly direction and expected to make landfall in the vicinity of the south Texas oil refining hub of Corpus Christi early Thursday, the U.S. National Hurricane Center said.
 
 
+### Source:
 
+1. [Reuters](http://www.reuters.com/article/topNews/idUSN1522565620070815?src=081507_1351_DOUBLEFEATURE_rove%3A_gop_can_win)
 
 ### Related:
 

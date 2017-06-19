@@ -1,9 +1,13 @@
 ### [2006-08-3](/news/2006/08/3/index.md)
 
-#  An alleged member of the Islamic Movement of Uzbekistan killed himself and a police officer with a hand grenade in Tajikistan's northern Sughd Region [http://www.rferl.org/featuresarticle/2006/8/2ee2f294-fdab-47bd-8300-e064ec665694.html RFERL.org].
+#  An alleged member of the Islamic Movement of Uzbekistan killed himself and a police officer with a hand grenade in Tajikistan's northern Sughd Region 
 
 
 
+
+### Source:
+
+1. [RFERL.org](http://www.rferl.org/featuresarticle/2006/8/2ee2f294-fdab-47bd-8300-e064ec665694.html)
 
 ### Related:
 

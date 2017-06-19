@@ -24,8 +24,8 @@ _Context: Hamas, Israel, Jerusalem, Khaled Abu Arafa, Palestinian Authority_
 ### [ The Parliament of New Zealand passes a bill that on receiving Royal Assent will make New Zealand Sign Language the third official language of New Zealand, alongside English and Maori. ](/news/2006/04/6/the-parliament-of-new-zealand-passes-a-bill-that-on-receiving-royal-assent-will-make-new-zealand-sign-language-the-third-official-language.md)
 _Context: Maori language, New Zealand Sign Language, Parliament of New Zealand, Royal Assent_
 
-### [ Health experts announce that a dead swan found in Scotland has tested positive for bird flu. [http://news.bbc.co.uk/1/hi/uk/4882946.stm (BBC)]. It has been further confirmed that the bird had the deadly H5N1 strain of the virus [http://www.bloomberg.com/apps/news?pid=10000085&sid=aEgX0Zq0jJBM (Bloomberg)]. Scotland and the UK confirm H5N1 virus, but say a GB-wide poultry housing requirement would be "disproportionate." [http://www.fwi.co.uk/home/default.aspx (Farmers Weekly)].](/news/2006/04/6/health-experts-announce-that-a-dead-swan-found-in-scotland-has-tested-positive-for-bird-flu-http-news-bbc-co-uk-1-hi-uk-4882946-stm-bb.md)
-_Context: Avian flu virus, Scotland, bird flu, swan_
+### [ Health experts announce that a dead swan found in Scotland has tested positive for bird flu. ](/news/2006/04/6/health-experts-announce-that-a-dead-swan-found-in-scotland-has-tested-positive-for-bird-flu.md)
+_Context: Avian flu virus, Scotland, swan_
 
 ## [Previous Day...](/news/2006/04/5/index.md)
 

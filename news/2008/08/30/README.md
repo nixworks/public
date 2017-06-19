@@ -6,7 +6,7 @@ _Context: Mexican, violent crime_
 ### [ The 2008 Panzhihua earthquake in China's Sichuan province kills at least 15 people and injures dozens more. ](/news/2008/08/30/the-2008-panzhihua-earthquake-in-china-s-sichuan-province-kills-at-least-15-people-and-injures-dozens-more.md)
 Chinese rescue teams carrying tents, quilts and sacks of rice rushed to reach survivors of an earthquake that killed at least 32 people, turned tens of thousands of homes into rubble and cracked reservoirs. 
 
-### [ 2008 South Ossetia war: Russia announces that South Ossetia will join 'one united Russian state' [http://www.timesonline.co.uk/tol/news/world/europe/article4635843.ece (The Times)].](/news/2008/08/30/2008-south-ossetia-war-p-russia-announces-that-south-ossetia-will-join-one-united-russian-state-http-www-timesonline-co-uk-tol-news-wo.md)
+### [ 2008 South Ossetia war: Russia announces that South Ossetia will join 'one united Russian state' ](/news/2008/08/30/2008-south-ossetia-war-p-russia-announces-that-south-ossetia-will-join-one-united-russian-state.md)
 _Context: 2008 South Ossetia war, South Ossetia_
 
 ### [ Hurricane Gustav: The National Hurricane Center advises that Hurricane Gustav has strengthened to Category 4 strength. ](/news/2008/08/30/hurricane-gustav-p-the-national-hurricane-center-advises-that-hurricane-gustav-has-strengthened-to-category-4-strength.md)

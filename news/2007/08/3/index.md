@@ -1,7 +1,7 @@
 ## [2007-08-3](/news/2007/08/3/index.md)
 
-### [ The former deputy director of Augusto Pinochet's secret police, Raul Iturriaga, is captured by the police after having entered in rebellion in June 2007 against the Chilean state and justice [http://www.latimes.com/news/nationworld/world/la-fg-chile3aug03,0,1144327.story?coll=la-home-world Los Angeles Times].](/news/2007/08/3/the-former-deputy-director-of-augusto-pinochet-s-secret-police-raul-iturriaga-is-captured-by-the-police-after-having-entered-in-rebellion.md)
-_Context: Augusto Pinochet, Raul Iturriaga_
+### [ The former deputy director of Augusto Pinochet's secret police, Raul Iturriaga, is captured by the police after having entered in rebellion in June 2007 against the Chilean state and justice ](/news/2007/08/3/the-former-deputy-director-of-augusto-pinochet-s-secret-police-raul-iturriaga-is-captured-by-the-police-after-having-entered-in-rebellion.md)
+A fugitive ex-general from the Pinochet era was captured Thursday, Chilean authorities said.Former Gen. Raul Iturriaga Neumann, 69, was arrested without incident in an apartment in the resort town...
 
 ### [ The Governor of California Arnold Schwarzenegger declares a state of emergency in Santa Barbara County, California with hundreds of people ordered to evacuate due to wildfire. ](/news/2007/08/3/the-governor-of-california-arnold-schwarzenegger-declares-a-state-of-emergency-in-santa-barbara-county-california-with-hundreds-of-people.md)
 The month-old fire in northern Santa Barbara County has burned an estimated 44,400 acres — or 70 square miles — and was 60 percent contained, said Santa Barbara fire Capt. Eli Iskow.

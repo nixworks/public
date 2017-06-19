@@ -6,7 +6,7 @@ Two bombs exploded outside a cafe in Baghdad on Monday, killing 17 people and wo
 ### [Post-civil war violence in Libya:Nine people are killed in clashes between the Libyan Army and militias in the city of Benghazi. ](/news/2013/11/25/post-civil-war-violence-in-libya-pnine-people-are-killed-in-clashes-between-the-libyan-army-and-militias-in-the-city-of-benghazi.md)
 _Context: Benghazi, Libya, Libyan National Army, Post-civil war violence in Libya_
 
-### [''The Hunger Games: Catching Fire'' becomes the biggest North American November film release, grossing $161 million in the U.S. and Canada over its first weekend. [http://www.cbsnews.com/news/the-hunger-games-catching-fire-scorches-with-1611-million-opening/ (CBS News)].](/news/2013/11/25/the-hunger-games-catching-fire-becomes-the-biggest-north-american-november-film-release-grossing-161-million-in-the-u-s-and-canada-o.md)
+### [''The Hunger Games: Catching Fire'' becomes the biggest North American November film release, grossing $161 million in the U.S. and Canada over its first weekend. ](/news/2013/11/25/the-hunger-games-catching-fire-becomes-the-biggest-north-american-november-film-release-grossing-161-million-in-the-u-s-and-canada-o.md)
 _Context: The Hunger Games: Catching Fire, United States dollars, film release_
 
 ### [A cargo train laden with corn derails in Sao Jose do Rio Preto in southeastern Brazil, smashing into houses and killing at least eight and injuring another six. ](/news/2013/11/25/a-cargo-train-laden-with-corn-derails-in-sapso-josa-c-do-rio-preto-in-southeastern-brazil-smashing-into-houses-and-killing-at-least-eight-and.md)

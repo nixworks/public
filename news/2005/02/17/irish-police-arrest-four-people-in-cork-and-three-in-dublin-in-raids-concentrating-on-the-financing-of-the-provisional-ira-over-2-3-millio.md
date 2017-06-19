@@ -1,9 +1,15 @@
 ### [2005-02-17](/news/2005/02/17/index.md)
 
-#  Irish police arrest four people in Cork and three in Dublin in raids concentrating on the financing of the Provisional IRA. Over 2.3 million pounds sterling were seized in Cork, and 60,000 in Northern Bank notes believed to be from the 26.5 million robbery in Belfast just before Christmas.  Reportedly, among the people arrested are former Sinn Fin councillor Tom Hanlon and someone working in the banking industry. [http://www.rte.ie/news/2005/0217/cork.html (RTE)] [http://news.bbc.co.uk/1/hi/northern_ireland/4274611.stm (BBC)] [http://news.scotsman.com/latest.cfm?id=4171334 (Scotsman)].
+#  Irish police arrest four people in Cork and three in Dublin in raids concentrating on the financing of the Provisional IRA. Over 2.3 million pounds sterling were seized in Cork, and 60,000 in Northern Bank notes believed to be from the 26.5 million robbery in Belfast just before Christmas.  Reportedly, among the people arrested are former Sinn Fin councillor Tom Hanlon and someone working in the banking industry. 
 
 
 
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/4274611.stm)
+2. [RTE](http://www.rte.ie/news/2005/0217/cork.html)
+3. [Scotsman](http://news.scotsman.com/latest.cfm?id=4171334)
 
 ### Related:
 

@@ -4,7 +4,7 @@
 An envelope addressed to Senator Roger Wicker of Mississippi showed positive results for the toxin in tests at a mail facility in Washington. It was sent to the F.B.I. for more analysis.
 
 ### [Boston Marathon bombings:Organisers and security officials reassess security plans for Sunday's 2013 London Marathon. This follows yesterday's incident at the 2013 Boston Marathon which killed three people. ](/news/2013/04/16/boston-marathon-bombings-porganisers-and-security-officials-reassess-security-plans-for-sunday-s-2013-london-marathon-this-follows-yesterda.md)
-_Context: 2013 Boston Marathon, 2013 London Marathon, Boston Marathon bombings, Metropolitan Police, Security experts_
+_Context: 2013 Boston Marathon, 2013 London Marathon, Boston Marathon bombings, Metropolitan Police Service, Security experts_
 
 ### [Nigerian Sharia conflict:The Movement for the Emancipation of the Niger Delta threatens to launch a terror campaign to "defend Christianity" in Nigeria in response to attacks by Islamist group Boko Haram. ](/news/2013/04/16/nigerian-sharia-conflict-pthe-movement-for-the-emancipation-of-the-niger-delta-threatens-to-launch-a-terror-campaign-to-defend-christianity.md)
 _Context: Boko Haram, Christian, Islamist, Movement for the Emancipation of the Niger Delta, Nigeria, Nigerian Sharia conflict_

@@ -1,7 +1,7 @@
 ## [2009-01-3](/news/2009/01/3/index.md)
 
 ### [ National Democratic Congress candidate John Atta Mills wins Ghana's 2008 presidential election after narrowly defeating Nana Akufo-Addo of the incumbent New Patriotic Party in a run-off. ](/news/2009/01/3/national-democratic-congress-candidate-john-atta-mills-wins-ghana-s-2008-presidential-election-after-narrowly-defeating-nana-akufo-addo-of.md)
-_Context: 2008 presidential election, Ghana, John Atta Mills, Nana Akufo-Addo, National Democratic Congress, New Patriotic Party, run-off_
+_Context: 2008 presidential election, Ghana, John Atta Mills, Nana Akufo-Addo, National Democratic Congress, New Patriotic Party, second round_
 
 ### [ An Israeli airstrike on the mosque in the Gaza Strip village of Beit Lahia kills at least 13 people. ](/news/2009/01/3/an-israeli-airstrike-on-the-mosque-in-the-gaza-strip-village-of-beit-lahia-kills-at-least-13-people.md)
 _Context: Beit Lahia, Gaza Strip, Israel, fire, mosque_

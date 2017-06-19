@@ -42,7 +42,7 @@ _Context: Andhra Pradesh, Nellore, cataract_
 ### [ A crater found in northern Latvia, believed at first to be a meteorite strike, is revealed to be a hoax perpetrated by telecom operator Tele2. ](/news/2009/10/26/a-crater-found-in-northern-latvia-believed-at-first-to-be-a-meteorite-strike-is-revealed-to-be-a-hoax-perpetrated-by-telecom-operator-tel.md)
 _Context: Latvia, Tele2, crater, meteorite_
 
-### [ Uldis Nulle, a scientist at the Latvian Environment, Geology and Meteorology Centre, said: "This is not a real crater. It is artificial." [http://www.thesun.co.uk/sol/homepage/news/2699586/Meteor-blast-hoax-revealed.html (The Sun)].](/news/2009/10/26/uldis-nulle-a-scientist-at-the-latvian-environment-geology-and-meteorology-centre-said-this-is-not-a-real-crater-it-is-artificial.md)
+### [ Uldis Nulle, a scientist at the Latvian Environment, Geology and Meteorology Centre, said: "This is not a real crater. It is artificial." ](/news/2009/10/26/uldis-nulle-a-scientist-at-the-latvian-environment-geology-and-meteorology-centre-said-this-is-not-a-real-crater-it-is-artificial.md)
 _Context: Latvian Environment, Geology and Meteorology Centre, Uldis Nulle_
 
 ### [ Prof. Salamat Akhtar demands a repeal of blasphemy laws in Pakistan. ](/news/2009/10/26/prof-salamat-akhtar-demands-a-repeal-of-blasphemy-laws-in-pakistan.md)

@@ -14,7 +14,7 @@ France goes to the polls on Sunday for the final round of the presidential elect
 
 ### Related:
 
-1. [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France.](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france.md) _Context: Emmanuel Macron, Marine Le Pen, President of France, last month's presidential election, run-off_
+1. [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France.](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france.md) _Context: Emmanuel Macron, Marine Le Pen, President of France, last month's presidential election, second round_
 2. [Candidates Marine Le Pen and Emmanuel Macron face off in a debate. ](/news/2017/05/3/candidates-marine-le-pen-and-emmanuel-macron-face-off-in-a-debate.md) _Context: Emmanuel Macron, Marine Le Pen, last month's presidential election_
 3. [France swears in Emmanuel Macron as the 25th President of France. ](/news/2017/05/14/france-swears-in-emmanuel-macron-as-the-25th-president-of-france.md) _Context: Emmanuel Macron, President of France, last month's presidential election_
 4. [Voters in France go to the polls to elect a new president; Marine Le Pen and Emmanuel Macron qualify for the second round. ](/news/2017/04/23/voters-in-france-go-to-the-polls-to-elect-a-new-president-marine-le-pen-and-emmanuel-macron-qualify-for-the-second-round.md) _Context: Emmanuel Macron, Marine Le Pen, President of France_

@@ -1,9 +1,13 @@
 ### [2007-08-8](/news/2007/08/8/index.md)
 
-#  In Germany the labour court of Nuremberg prohibited the strike prepared by the ''Gewerkschaft Deutscher Lokomotivfuhrer'' (GDL), which was to be the largest in 15 years. According to the ''Deutsche Bahn'' train company, the strike was prohibited because of the heavy tribute which would have been paid by the national economy [http://news.bbc.co.uk/2/hi/business/6936778.stm (BBC)].
+#  In Germany the labour court of Nuremberg prohibited the strike prepared by the ''Gewerkschaft Deutscher Lokomotivfuhrer'' (GDL), which was to be the largest in 15 years. According to the ''Deutsche Bahn'' train company, the strike was prohibited because of the heavy tribute which would have been paid by the national economy 
 
 
 
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/business/6936778.stm)
 
 ### Related:
 

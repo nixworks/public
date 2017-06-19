@@ -1,9 +1,13 @@
 ### [2005-02-25](/news/2005/02/25/index.md)
 
-#  Three British soldiers convicted earlier this week of abusing Iraqi prisoners are jailed for periods between five months and two years, and dismissed from the army. [http://news.bbc.co.uk/1/hi/uk/4296511.stm (BBC)].
+#  Three British soldiers convicted earlier this week of abusing Iraqi prisoners are jailed for periods between five months and two years, and dismissed from the army. 
 
 
 
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/uk/4296511.stm)
 
 ### Related:
 

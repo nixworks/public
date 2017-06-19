@@ -12,7 +12,7 @@ Plymouth-based HMS Portland is to become the first frontline Royal Navy warship 
 ### [Stock markets in Asia, Australia, and the United States fall further after the credit rating of the United States is downgraded with the Dow Jones Industrial Average falling by over 634 points, 5.55%. ](/news/2011/08/8/stock-markets-in-asia-australia-and-the-united-states-fall-further-after-the-credit-rating-of-the-united-states-is-downgraded-with-the-dow.md)
 The Australian share market has dropped again following its recovery from earlier losses after Standard and Poor&#039;s downgrading of the US credit rating.
 
-### [Rice futures trading on the Tokyo Grain Exchange is suspended following fears that the Japanese crop has been contaminated by radiation from the Fukushima Daiichi nuclear disaster. [http://www.bloomberg.com/news/2011-08-08/rice-in-tokyo-gains-after-seven-decade-halt.html (Bloomberg)].](/news/2011/08/8/rice-futures-trading-on-the-tokyo-grain-exchange-is-suspended-following-fears-that-the-japanese-crop-has-been-contaminated-by-radiation-from.md)
+### [Rice futures trading on the Tokyo Grain Exchange is suspended following fears that the Japanese crop has been contaminated by radiation from the Fukushima Daiichi nuclear disaster. ](/news/2011/08/8/rice-futures-trading-on-the-tokyo-grain-exchange-is-suspended-following-fears-that-the-japanese-crop-has-been-contaminated-by-radiation-from.md)
 _Context: Fukushima Daiichi nuclear disaster, Grain Exchange, Japan, Tokyo, futures trading, rice_
 
 ### [Seven people are killed in a landslide in Malaysia's Cameron Highlands. ](/news/2011/08/8/seven-people-are-killed-in-a-landslide-in-malaysia-s-cameron-highlands.md)

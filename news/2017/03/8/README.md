@@ -9,8 +9,8 @@ Suicide bomb explosions target wedding ceremony in a village near the Iraqi city
 ### [The United States Marine Corps' 11th Marine Expeditionary Unit arrives in Syria ahead of a Syrian Democratic Forces operation to take control of ISIL's de facto capital of Raqqa. ](/news/2017/03/8/the-united-states-marine-corps-11th-marine-expeditionary-unit-arrives-in-syria-ahead-of-a-syrian-democratic-forces-operation-to-take-contro.md)
 The deployment marks a new escalation in the war in Syria.
 
-### [RadioShack files for chapter 11 protection from creditors for the second time in two years. [http://www.reuters.com/article/us-radioshack-bankruptcy-idUSKBN16G06J (Reuters)].](/news/2017/03/8/radioshack-files-for-chapter-11-protection-from-creditors-for-the-second-time-in-two-years-http-www-reuters-com-article-us-radioshack-ba.md)
-_Context: RadioShack, chapter 11_
+### [RadioShack files for chapter 11 protection from creditors for the second time in two years. ](/news/2017/03/8/radioshack-files-for-chapter-11-protection-from-creditors-for-the-second-time-in-two-years.md)
+U.S. electronics chain RadioShack Corp filed for bankruptcy on Wednesday for the second time in a little over two years, faced with a challenging retail environment and an unsatisfying partnership with wireless provider Sprint Corp.
 
 ### [The gigantic limestone natural arch Azure Window on the Maltese island of Gozo collapses due to a storm. ](/news/2017/03/8/the-gigantic-limestone-natural-arch-azure-window-on-the-maltese-island-of-gozo-collapses-due-to-a-storm.md)
 Updated 2.39pm - Added Environment Minister comments The Azure Window has collapsed and it is not just the top part which has fallen off - even the stacks have gone. Roger Chessell, a Xagħra resident, was at Dwejra when the window collapsed at about 9.40am, having gone to take pictures of the...

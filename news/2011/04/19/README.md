@@ -21,7 +21,7 @@ US soldier Bradley Manning, who is accused of leaking government documents publi
 ### [Three kindergarteners are wounded after a gun goes off in a school cafeteria in the U.S. state of Texas. The gun was brought to the school by a six-year-old child. ](/news/2011/04/19/three-kindergarteners-are-wounded-after-a-gun-goes-off-in-a-school-cafeteria-in-the-u-s-state-of-texas-the-gun-was-brought-to-the-school-b.md)
 _Context: Texas, U.S. state, kindergarten_
 
-### [Seagate Technology, a California based manufacturer of hard disk drives (HDDs), buys the HDD division of Samsung, to create an entity with a combined HDD market share of 40 percent. [http://www.reuters.com/article/2011/04/19/us-samsung-seagate-idUSTRE73I1CG20110419 (Reuters)].](/news/2011/04/19/seagate-technology-a-california-based-manufacturer-of-hard-disk-drives-hdds-buys-the-hdd-division-of-samsung-to-create-an-entity-with-a.md)
+### [Seagate Technology, a California based manufacturer of hard disk drives (HDDs), buys the HDD division of Samsung, to create an entity with a combined HDD market share of 40 percent. ](/news/2011/04/19/seagate-technology-a-california-based-manufacturer-of-hard-disk-drives-hdds-buys-the-hdd-division-of-samsung-to-create-an-entity-with-a.md)
 _Context: California, Samsung, Seagate Technology, hard disk drive_
 
 ### [Devastating fire in Manila, Philippines leaves about 8,000 people homeless and nine injured in a Makati City  squatter community. ](/news/2011/04/19/devastating-fire-in-manila-philippines-leaves-about-8-000-people-homeless-and-nine-injured-in-a-makati-city-squatter-community.md)

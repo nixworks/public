@@ -21,7 +21,7 @@ _Context: Canada, Maxime Bernier, Minister of Foreign Affairs_
 ### [ The BJP wins a plurality in elections in the Indian state of Karnataka. ](/news/2008/05/26/the-bjp-wins-a-plurality-in-elections-in-the-indian-state-of-karnataka.md)
 _Context: Bharatiya Janata Party, Karnataka, elections_
 
-### [ The caretaker government of Bangladesh will establish a truth commission to deal with past corruption by politicians. [http://news.bbc.co.uk/2/hi/south_asia/7420410.stm (BBC News)].](/news/2008/05/26/the-caretaker-government-of-bangladesh-will-establish-a-truth-commission-to-deal-with-past-corruption-by-politicians-http-news-bbc-co-u.md)
+### [ The caretaker government of Bangladesh will establish a truth commission to deal with past corruption by politicians. ](/news/2008/05/26/the-caretaker-government-of-bangladesh-will-establish-a-truth-commission-to-deal-with-past-corruption-by-politicians.md)
 _Context: anti-corruption, government, truth/reconciliation commission_
 
 ### [ The European Beaver will be reintroduced to Scotland after 400 years. ](/news/2008/05/26/the-european-beaver-will-be-reintroduced-to-scotland-after-400-years.md)

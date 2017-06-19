@@ -1,9 +1,13 @@
 ### [2011-08-8](/news/2011/08/8/index.md)
 
-# Rice futures trading on the Tokyo Grain Exchange is suspended following fears that the Japanese crop has been contaminated by radiation from the Fukushima Daiichi nuclear disaster. [http://www.bloomberg.com/news/2011-08-08/rice-in-tokyo-gains-after-seven-decade-halt.html (Bloomberg)].
+# Rice futures trading on the Tokyo Grain Exchange is suspended following fears that the Japanese crop has been contaminated by radiation from the Fukushima Daiichi nuclear disaster. 
 
 
 
+
+### Source:
+
+1. [Bloomberg](http://www.bloomberg.com/news/2011-08-08/rice-in-tokyo-gains-after-seven-decade-halt.html)
 
 ### Related:
 

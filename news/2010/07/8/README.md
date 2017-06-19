@@ -42,8 +42,8 @@ _Context: Grim Sleeper, Los Angeles Police_
 ### [BT Group and TalkTalk Group announce they are seeking a judicial review of the Digital Economy Act 2010. ](/news/2010/07/8/bt-group-and-talktalk-group-announce-they-are-seeking-a-judicial-review-of-the-digital-economy-act-2010.md)
 BT and TalkTalk seek a judicial review of the Digital Economy Act, saying it was rushed and could curb basic rights.
 
-### [10 people uncovered by the FBI as Russian spies plead guilty in court to conspiracy to act as foreign agents. [http://news.bbc.co.uk/2/hi/world/us_and_canada/10563622.stm (BBC News)]The spies are sentenced to time served, and deported from the United States in exchange for 4 people imprisoned for alleged contact with Western intelligence bodies. [http://www.msnbc.msn.com/id/38122348/ns/us_news-security/ (MSNBC)].](/news/2010/07/8/10-people-uncovered-by-the-fbi-as-russian-spies-plead-guilty-in-court-to-conspiracy-to-act-as-foreign-agents-http-news-bbc-co-uk-2-hi-wo.md)
-_Context: Federal Bureau of Investigations, Russia, Russian Spy Ring in the United States, United States_
+### [10 people uncovered by the FBI as Russian spies plead guilty in court to conspiracy to act as foreign agents. ](/news/2010/07/8/10-people-uncovered-by-the-fbi-as-russian-spies-plead-guilty-in-court-to-conspiracy-to-act-as-foreign-agents.md)
+Ten people plead guilty in a US court to spying for Russia, as the judge orders their expulsion in an apparent swap with Moscow.
 
 ### [Johannes Mehserle is found guilty of involuntary manslaughter for the killing of Oscar Grant in 2009. ](/news/2010/07/8/johannes-mehserle-is-found-guilty-of-involuntary-manslaughter-for-the-killing-of-oscar-grant-in-2009.md)
 The involuntary manslaughter conviction of a white former transit officer in the death of an unarmed black man set the stage for a sentencing that could be just as explosive as the trial. 
@@ -69,8 +69,8 @@ _Context: Solar Impulse project, Solar-powered, Swiss, aircraft_
 ### [British researchers publish the results of an 11-year study, challenging the traditional notion that childhood obesity is a result of inadequate exercise, arguing instead that obesity leads to inadequate exercise. ](/news/2010/07/8/british-researchers-publish-the-results-of-an-11-year-study-challenging-the-traditional-notion-that-childhood-obesity-is-a-result-of-inadeq.md)
 The idea lack of exercise makes children put on weight is challenged by research which says it is the other way round.
 
-### [A study conducted by Stanford University suggests that heat waves will become more common in the future, due to climate change and global warming. [http://www.msnbc.msn.com/id/38154121/ns/us_news-environment/ (MSNBC)]  See Climate change mitigation scenarios.](/news/2010/07/8/a-study-conducted-by-stanford-university-suggests-that-heat-waves-will-become-more-common-in-the-future-due-to-climate-change-and-global-wa.md)
-_Context: Climate change mitigation scenarios, Stanford University, climate change, global warming's, heat waves_
+### [A study conducted by Stanford University suggests that heat waves will become more common in the future, due to climate change and global warming. ](/news/2010/07/8/a-study-conducted-by-stanford-university-suggests-that-heat-waves-will-become-more-common-in-the-future-due-to-climate-change-and-global-wa.md)
+Within 30 years, average temperature could be 3.6 degrees Fahrenheit higher than in the mid-1800s, a Stanford study concludes.
 
 ### [Scientists discover antibodies that may eventually lead to the development of a vaccine against AIDS. ](/news/2010/07/8/scientists-discover-antibodies-that-may-eventually-lead-to-the-development-of-a-vaccine-against-aids.md)
 Researchers have discovered antibodies that can protect against a wide range of AIDS viruses and said they may be able to use them to design a vaccine against the fatal and incurable virus.

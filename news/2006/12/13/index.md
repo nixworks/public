@@ -24,7 +24,7 @@ _Context: Uzbekistan, religious extremism_
 ### [ 78-year-old assisted suicide advocate Jack Kevorkian is to be paroled in June. ](/news/2006/12/13/78-year-old-assisted-suicide-advocate-jack-kevorkian-is-to-be-paroled-in-june.md)
 _Context: Jack Kevorkian, assisted suicide_
 
-### [ In the largest such crackdown in American history, U.S. federal immigration authorities raid numerous Swift & Co. meat-processing plants in six U.S. states, arresting nearly 1,300 illegal immigrant employees [http://www.npr.org/templates/story/story.php?storyId=6618317] [http://www.usatoday.com/news/nation/2006-12-13-immigration_x.htm] [http://apnews.myway.com/article/20061213/D8M03JPG1.html] [http://www.csmonitor.com/2006/1214/p01s01-ussc.html].](/news/2006/12/13/in-the-largest-such-crackdown-in-american-history-u-s-federal-immigration-authorities-raid-numerous-swift-co-meat-processing-plants-in.md)
+### [ In the largest such crackdown in American history, U.S. federal immigration authorities raid numerous Swift & Co. meat-processing plants in six U.S. states, arresting nearly 1,300 illegal immigrant employees ](/news/2006/12/13/in-the-largest-such-crackdown-in-american-history-u-s-federal-immigration-authorities-raid-numerous-swift-co-meat-processing-plants-in.md)
 _Context: Swift & Co._
 
 ## [Previous Day...](/news/2006/12/12/index.md)

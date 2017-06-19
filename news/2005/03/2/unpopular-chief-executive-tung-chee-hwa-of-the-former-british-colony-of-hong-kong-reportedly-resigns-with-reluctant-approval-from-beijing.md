@@ -1,9 +1,19 @@
 ### [2005-03-2](/news/2005/03/2/index.md)
 
-#  Unpopular Chief Executive Tung Chee-hwa of the former British colony of Hong Kong reportedly resigns, with reluctant approval from Beijing. [http://www.thestandard.com.hk/stdn/std/Front_Page/GC02Aa01.html (The Standard)], [http://news.bbc.co.uk/2/hi/asia-pacific/4310235.stm (BBC)],[http://www.cbc.ca/world/story/2005/03/02/hongkong-tung050302.html (CBC)], [http://www.theglobeandmail.com/servlet/story/RTGAM.20050302.wchtung0302/BNStory/International/ (Globe&Mail)], [http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7782051 (Reuters)], [http://edition.cnn.com/2005/WORLD/asiapcf/03/02/hongkong.tung/ (CNN)],   [http://news.bbc.co.uk/2/hi/asia-pacific/4310407.stm (BBC)]. 
+#  Unpopular Chief Executive Tung Chee-hwa of the former British colony of Hong Kong reportedly resigns, with reluctant approval from Beijing. 
+
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
+### Source:
 
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4310235.stm)
+2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4310407.stm)
+3. [CBC](http://www.cbc.ca/world/story/2005/03/02/hongkong-tung050302.html)
+4. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/03/02/hongkong.tung/)
+5. [Globe&Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20050302.wchtung0302/BNStory/International/)
+6. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7782051)
+7. [The Standard](http://www.thestandard.com.hk/stdn/std/Front_Page/GC02Aa01.html)
 
 ### Related:
 

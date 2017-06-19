@@ -1,9 +1,14 @@
 ### [2005-03-24](/news/2005/03/24/index.md)
 
-#  Paleontologists from North Carolina State University announce the discovery of structures resembling blood vessels and red blood cells inside the hindlimb fossil of a ''Tyrannosaurus rex''. [http://www.sciencemag.org/cgi/content/summary/307/5717/1852b (Science Magazine)] [http://news.bbc.co.uk/1/hi/sci/tech/4379577.stm (BBC)].
+#  Paleontologists from North Carolina State University announce the discovery of structures resembling blood vessels and red blood cells inside the hindlimb fossil of a ''Tyrannosaurus rex''. 
 
 
 
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/4379577.stm)
+2. [Science Magazine](http://www.sciencemag.org/cgi/content/summary/307/5717/1852b)
 
 ### Related:
 

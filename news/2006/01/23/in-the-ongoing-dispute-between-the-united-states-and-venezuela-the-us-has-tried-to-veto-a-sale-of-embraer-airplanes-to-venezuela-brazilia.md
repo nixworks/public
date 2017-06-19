@@ -1,9 +1,14 @@
 ### [2006-01-23](/news/2006/01/23/index.md)
 
-#  In the ongoing dispute between the United States and Venezuela, the US has tried to veto a sale of Embraer airplanes to Venezuela. Brazilian foreign minister Celso Amorim branded the US attempted veto as "indefensible nonsense". The US recently failed to block a large sale of Spanish military equipment to Venezuela. [http://english.eluniversal.com/2006/01/23/en_eco_art_23A659543.shtml (El Universal)], [http://www.spainherald.com/2006-01-18news.html (Spain Herald)].
+#  In the ongoing dispute between the United States and Venezuela, the US has tried to veto a sale of Embraer airplanes to Venezuela. Brazilian foreign minister Celso Amorim branded the US attempted veto as "indefensible nonsense". The US recently failed to block a large sale of Spanish military equipment to Venezuela. 
 
 
 
+
+### Source:
+
+1. [El Universal](http://english.eluniversal.com/2006/01/23/en_eco_art_23A659543.shtml)
+2. [Spain Herald](http://www.spainherald.com/2006-01-18news.html)
 
 ### Related:
 

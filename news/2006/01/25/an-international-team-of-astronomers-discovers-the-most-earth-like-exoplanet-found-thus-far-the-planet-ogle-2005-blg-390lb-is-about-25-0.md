@@ -1,9 +1,13 @@
 ### [2006-01-25](/news/2006/01/25/index.md)
 
-#  An international team of astronomers discovers the most earth-like exoplanet found thus far. The planet, OGLE-2005-BLG-390Lb, is about 25,000 light years away, close to the centre of the Milky Way.  [http://www.nature.com/news/2006/060123/full/060123-5.html (Nature)].
+#  An international team of astronomers discovers the most earth-like exoplanet found thus far. The planet, OGLE-2005-BLG-390Lb, is about 25,000 light years away, close to the centre of the Milky Way.  
 
 
 
+
+### Source:
+
+1. [Nature](http://www.nature.com/news/2006/060123/full/060123-5.html)
 
 ### Related:
 

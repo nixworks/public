@@ -1,9 +1,13 @@
 ### [2011-10-4](/news/2011/10/4/index.md)
 
-# Regulators in the European Union are close to making a formal announcement that they object to a proposed merger of NYSE Euronext with Deutsche Boerse AG, according to an anonymous source cited by Reuters. [http://www.reuters.com/article/2011/10/04/eu-deutscheboerse-nyse-idUSB5E7KS06120111004 (Reuters)].
+# Regulators in the European Union are close to making a formal announcement that they object to a proposed merger of NYSE Euronext with Deutsche Boerse AG, according to an anonymous source cited by Reuters. 
+
+EU regulators are set toformally object to the proposed merger of Deutsche Boerse(DB1Gn.DE) and NYSE Euronext this week, a source withknowledge of the case said on Tuesday.
 
 
+### Source:
 
+1. [Reuters](http://www.reuters.com/article/2011/10/04/eu-deutscheboerse-nyse-idUSB5E7KS06120111004)
 
 ### Related:
 

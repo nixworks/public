@@ -1,9 +1,13 @@
 ### [2005-11-28](/news/2005/11/28/index.md)
 
-#  Canadian federal election, 2006: Prime Minister Paul Martin's minority government is defeated in a confidence motion by a vote of 171 - 133. The Prime Minister announces he will request a dissolution of parliament from the Governor General tomorrow. [http://www.cbc.ca/canada/story/2005/11/28/noconfidencevote051128.html (CBC)].
+#  Canadian federal election, 2006: Prime Minister Paul Martin's minority government is defeated in a confidence motion by a vote of 171 - 133. The Prime Minister announces he will request a dissolution of parliament from the Governor General tomorrow. 
 
 
 
+
+### Source:
+
+1. [CBC](http://www.cbc.ca/canada/story/2005/11/28/noconfidencevote051128.html)
 
 ### Related:
 

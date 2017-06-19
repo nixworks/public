@@ -15,8 +15,8 @@ _Context: France, Niger, al-Qaeda, kidnapped_
 ### [Lawrence Summers announces that he will leave as head of the United States National Economic Council, responsible for advising President Barack Obama on economic policy. ](/news/2010/09/21/lawrence-summers-announces-that-he-will-leave-as-head-of-the-united-states-national-economic-council-responsible-for-advising-president-bar.md)
 _Context: Barack Obama, Lawrence Summers, U.S. President, United States National Economic Council_
 
-### [In the Mark Cuban insider trading case, an appeals court overturns a district court decision last fall that had dismissed the civil charges brought against Cuban by the U.S. Securities and Exchange Commission. [http://www.marketwatch.com/story/mark-cuban-inside-trading-case-revived-2010-09-21 (MarketWatch)]. ](/news/2010/09/21/in-the-mark-cuban-insider-trading-case-an-appeals-court-overturns-a-district-court-decision-last-fall-that-had-dismissed-the-civil-charges.md)
-_Context: Mark Cuban, SEC, insider trading_
+### [In the Mark Cuban insider trading case, an appeals court overturns a district court decision last fall that had dismissed the civil charges brought against Cuban by the U.S. Securities and Exchange Commission. ](/news/2010/09/21/in-the-mark-cuban-insider-trading-case-an-appeals-court-overturns-a-district-court-decision-last-fall-that-had-dismissed-the-civil-charges.md)
+Appeals court says there is sufficient credible evidence to put SEC case back on track.
 
 ### [Tropical Storm Lisa forms in the Atlantic Ocean off the Cape Verde Islands. ](/news/2010/09/21/tropical-storm-lisa-forms-in-the-atlantic-ocean-off-the-cape-verde-islands.md)
 _Context: 2010 Atlantic hurricane season, Atlantic Ocean, Cape Verde Islands_

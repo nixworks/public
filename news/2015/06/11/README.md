@@ -30,8 +30,8 @@ At least 41 people were killed and eight injured on Thursday in a landslide trig
 ### [Health officials in the United States are advising doctors to be on the lookout for MERS following an outbreak in South Korea. ](/news/2015/06/11/health-officials-in-the-united-states-are-advising-doctors-to-be-on-the-lookout-for-mers-following-an-outbreak-in-south-korea.md)
 _Context: Middle East respiratory syndrome, South Korea, United States_
 
-### [NGO Federal Interior Ministry of Pakistan has sealed the offices of the NGO Save the Children in Pakistan and issued order for its foreign staff to leave the country within 15 days on account of the NGO's anti-Pakistan activities. [http://tribune.com.pk/story/902072/ngo-save-the-children-ordered-to-leave-pakistan-officials/ (Express Tribune)].](/news/2015/06/11/ngo-federal-interior-ministry-of-pakistan-has-sealed-the-offices-of-the-ngo-save-the-children-in-pakistan-and-issued-order-for-its-foreign-s.md)
-_Context: Pakistan, Save the Children_
+### [NGO Federal Interior Ministry of Pakistan has sealed the offices of the NGO Save the Children in Pakistan and issued order for its foreign staff to leave the country within 15 days on account of the NGO's anti-Pakistan activities. ](/news/2015/06/11/ngo-federal-interior-ministry-of-pakistan-has-sealed-the-offices-of-the-ngo-save-the-children-in-pakistan-and-issued-order-for-its-foreign-s.md)
+Save the children says it was served a notice, denies it has expatriate staff working in Pakistan
 
 ### [Nuclear program of Iran:A new version of the Israeli-linked malware Duqu is found at hotels hosting Iran nuclear talks by Kaspersky; Israel denies involvement. ](/news/2015/06/11/nuclear-program-of-iran-pa-new-version-of-the-israeli-linked-malware-duqu-is-found-at-hotels-hosting-iran-nuclear-talks-by-kaspersky-israel.md)
 Internet security company Kaspersky says software was used to infiltrate venues for international negotiations on Tehran’s nuclear programme

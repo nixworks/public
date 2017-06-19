@@ -1,9 +1,15 @@
 ### [2007-02-7](/news/2007/02/7/index.md)
 
-#  2007 United Kingdom letter bombs: A letter bomb, the third in as many days, has injured a woman working at the main DVLA centre in south Wales. Today's attack follows two others, at other road transport agencies in the UK. [http://news.bbc.co.uk/1/hi/uk/6338063.stm (BBC)] [http://news.bbc.co.uk/1/hi/england/berkshire/6334693.stm (BBC)] [http://news.bbc.co.uk/1/hi/england/london/6331427.stm (BBC)].
+#  2007 United Kingdom letter bombs: A letter bomb, the third in as many days, has injured a woman working at the main DVLA centre in south Wales. Today's attack follows two others, at other road transport agencies in the UK. 
 
 
 
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/england/berkshire/6334693.stm)
+2. [BBC](http://news.bbc.co.uk/1/hi/england/london/6331427.stm)
+3. [BBC](http://news.bbc.co.uk/1/hi/uk/6338063.stm)
 
 ### Related:
 

@@ -1,6 +1,6 @@
 ## [2006-08-15](/news/2006/08/15/index.md)
 
-### [ Japanese Prime Minister Junichiro Koizumi visits the Yasukuni Shrine, drawing many protests from around the region. [http://sfgate.com/cgi-bin/blogs/sfgate/category?blogid=15archive/&cat=498 (San Francisco Chronicle)].](/news/2006/08/15/japanese-prime-minister-junichiro-koizumi-visits-the-yasukuni-shrine-drawing-many-protests-from-around-the-region-http-sfgate-com-cgi.md)
+### [ Japanese Prime Minister Junichiro Koizumi visits the Yasukuni Shrine, drawing many protests from around the region. ](/news/2006/08/15/japanese-prime-minister-junichiro-koizumi-visits-the-yasukuni-shrine-drawing-many-protests-from-around-the-region.md)
 _Context: Junichiro Koizumi, Yasukuni Shrine_
 
 ### [ Former U.S. President Gerald Ford is admitted to the Mayo Clinic in Minnesota. ](/news/2006/08/15/former-u-s-president-gerald-ford-is-admitted-to-the-mayo-clinic-in-minnesota.md)

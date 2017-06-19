@@ -15,8 +15,8 @@ _Context: Papal conclave, 2005, Pope, black, smoke_
 ### [ Two Israelis, one a soldier in the Combat Engineering Corps, and one a civilian, are wounded by a Palestinian sniper in an attack on Philadelphi Route of the southern Gaza Strip, close to the Egyptian border. The Popular Resistance Committees claims responsibility. [http://www.haaretz.com/hasen/spages/566451.html (Haaretz)] (Link dead as of 04:02, 16 January 2007 (UTC))](/news/2005/04/18/two-israelis-one-a-soldier-in-the-combat-engineering-corps-and-one-a-civilian-are-wounded-by-a-palestinian-sniper-in-an-attack-on-philad.md)
 _Context: Egypt, Gaza Strip, Israel, Palestinian, Philadelphi Route, Popular Resistance Committees, civilian, sniper_
 
-### [ Adobe Systems buys Macromedia for $3.4 billion. [http://biz.yahoo.com/ap/050418/adobe_macromedia.html?.v=9 (Yahoo! Financial)] (Link dead as of 04:02, 16 January 2007 (UTC)), [http://www.nytimes.com/2005/04/18/technology/18cnd-adobe.html (New York Times)] (registration required), [http://www.usatoday.com/money/industries/technology/2005-04-18-adobe-macromedia_x.htm?csp=34 (USA Today)], [http://www.msnbc.msn.com/id/7543918/ (MSNBC)].](/news/2005/04/18/adobe-systems-buys-macromedia-for-3-4-billion-http-biz-yahoo-com-ap-050418-adobe_macromedia-html-v-9-yahoo-financial-link-dead-a.md)
-_Context: Adobe, Macromedia_
+### [ Adobe Systems buys Macromedia for $3.4 billion. ](/news/2005/04/18/adobe-systems-buys-macromedia-for-3-4-billion.md)
+Adobe Systems Inc., one of the world&#39;s largest providers of document-design software, will acquire Macromedia Inc. in an all-stock transaction valued at approximately $3.4 billion, the companies announced Monday.
 
 ### [ The death toll in the collapse of a garment factory in Dacca, Bangladesh reaches 74. Dozens are still missing. [http://www.alertnet.org/thenews/newsdesk/DHA24436.htm (Reuters AlertNet)] (Link dead as of 04:02, 16 January 2007 (UTC))](/news/2005/04/18/the-death-toll-in-the-collapse-of-a-garment-factory-in-dacca-bangladesh-reaches-74-dozens-are-still-missing-http-www-alertnet-org-the.md)
 _Context: Bangladesh, Dacca, death toll_

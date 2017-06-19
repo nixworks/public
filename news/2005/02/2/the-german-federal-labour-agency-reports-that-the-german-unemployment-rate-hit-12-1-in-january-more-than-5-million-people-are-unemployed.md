@@ -1,9 +1,13 @@
 ### [2005-02-2](/news/2005/02/2/index.md)
 
-#  The German Federal Labour Agency reports that the German unemployment rate hit 12.1% in January.  More than 5 million people are unemployed today in Germany.  Ignoring the margin of error inherent in the usage of different statistical methods over different areas, this rate is the highest since the Great Depression and the Weimar Republic. [http://news.bbc.co.uk/2/hi/business/4228739.stm (BBC World)].
+#  The German Federal Labour Agency reports that the German unemployment rate hit 12.1% in January.  More than 5 million people are unemployed today in Germany.  Ignoring the margin of error inherent in the usage of different statistical methods over different areas, this rate is the highest since the Great Depression and the Weimar Republic. 
 
 
 
+
+### Source:
+
+1. [BBC World](http://news.bbc.co.uk/2/hi/business/4228739.stm)
 
 ### Related:
 

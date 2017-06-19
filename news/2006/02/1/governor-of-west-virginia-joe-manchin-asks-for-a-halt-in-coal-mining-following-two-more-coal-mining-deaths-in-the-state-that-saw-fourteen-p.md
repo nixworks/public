@@ -1,9 +1,13 @@
 ### [2006-02-1](/news/2006/02/1/index.md)
 
-#  Governor of West Virginia Joe Manchin asks for a halt in coal mining following two more coal mining deaths in the state that saw fourteen people die in coal mining disasters in January. [http://www.cnn.com/2006/US/02/01/mine.close/index.html (CNN)].
+#  Governor of West Virginia Joe Manchin asks for a halt in coal mining following two more coal mining deaths in the state that saw fourteen people die in coal mining disasters in January. 
 
 
 
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2006/US/02/01/mine.close/index.html)
 
 ### Related:
 

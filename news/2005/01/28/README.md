@@ -15,7 +15,7 @@ _Context: Asia, Nina Wang_
 ### [ Israeli-Palestinian Conflict: Hamas, contesting their first election, have swept to power in local elections in Gaza. ](/news/2005/01/28/israeli-palestinian-conflict-hamas-contesting-their-first-election-have-swept-to-power-in-local-elections-in-gaza.md)
 _Context: Gaza Strip, Hamas, Israeli-Palestinian conflict_
 
-### [ Kim Beazley is re-elected to the leadership of the Australian Labor Party unopposed, succeeding Mark Latham, in the fourth leadership change since losing government in 1996. [http://www.abc.net.au/news/newsitems/200501/s1291120.htm (ABC News)].](/news/2005/01/28/kim-beazley-is-re-elected-to-the-leadership-of-the-australian-labor-party-unopposed-succeeding-mark-latham-in-the-fourth-leadership-chang.md)
+### [ Kim Beazley is re-elected to the leadership of the Australian Labor Party unopposed, succeeding Mark Latham, in the fourth leadership change since losing government in 1996. ](/news/2005/01/28/kim-beazley-is-re-elected-to-the-leadership-of-the-australian-labor-party-unopposed-succeeding-mark-latham-in-the-fourth-leadership-chang.md)
 _Context: 1996, Kim Beazley, Labor Party, Mark Latham_
 
 ### [ A month after the 2004 Indian Ocean earthquake and tsunamis, more than 1000 bodies a day are still being recovered in Aceh. ](/news/2005/01/28/a-month-after-the-2004-indian-ocean-earthquake-and-tsunamis-more-than-1000-bodies-a-day-are-still-being-recovered-in-aceh.md)

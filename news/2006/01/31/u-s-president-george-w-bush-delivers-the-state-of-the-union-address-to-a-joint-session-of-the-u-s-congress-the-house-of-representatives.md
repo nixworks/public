@@ -1,9 +1,14 @@
 ### [2006-01-31](/news/2006/01/31/index.md)
 
-#  U.S. President George W. Bush delivers the State of the Union Address to a joint session of the U.S. Congress (the House of Representatives and the Senate).  Moments before the address began, anti-war protester Cindy Sheehan is arrested in the U.S. Capitol Building for refusing to cover up a T-shirt she was wearing to protest the war and occupation of Iraq. [http://www.cnn.com/2006/POLITICS/01/31/sheehan.arrest/index.html?section=cnn_topstories (CNN)] Also directed out of the U.S. Capitol Building was Beverly Young, wife of GOP congressman Bill Young, for wearing a T-shirt that read "Support the Troops: Defending Our Freedom" [http://abcnews.go.com/WNT/story?id=1567217&WNTad=true (ABC)].
+#  U.S. President George W. Bush delivers the State of the Union Address to a joint session of the U.S. Congress (the House of Representatives and the Senate).  Moments before the address began, anti-war protester Cindy Sheehan is arrested in the U.S. Capitol Building for refusing to cover up a T-shirt she was wearing to protest the war and occupation of Iraq. 
 
 
 
+
+### Source:
+
+1. [ABC](http://abcnews.go.com/WNT/story?id=1567217&WNTad=true)
+2. [CNN](http://www.cnn.com/2006/POLITICS/01/31/sheehan.arrest/index.html?section=cnn_topstories)
 
 ### Related:
 

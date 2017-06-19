@@ -1,9 +1,13 @@
 ### [2015-03-2](/news/2015/03/2/index.md)
 
-# Hewlett-Packard announces that it will buy Aruba Networks, a California-based manufacturer of wi-fi equipment, for approximately $2.7 billion in combined cash and equity. [http://www8.hp.com/us/en/hp-news/press-release.html?id=1923193#.VPW5-o73-iw, (press release)].  
+# Hewlett-Packard announces that it will buy Aruba Networks, a California-based manufacturer of wi-fi equipment, for approximately $2.7 billion in combined cash and equity. 
 
 
 
+
+### Source:
+
+1. [press release](http://www8.hp.com/us/en/hp-news/press-release.html?id=1923193#.VPW5-o73-iw,)
 
 ### Related:
 

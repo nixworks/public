@@ -18,8 +18,8 @@ _Context: 2008, Nobel Prize, Nobel Prize in Economics, Paul Krugman, United Stat
 ### [ The U.S. Federal Reserve approves the merger of Wells Fargo and Wachovia after Citigroup withdraws the legal case in a New York federal court to put a hold on the merger.](/news/2008/10/13/the-u-s-federal-reserve-approves-the-merger-of-wells-fargo-and-wachovia-after-citigroup-withdraws-the-legal-case-in-a-new-york-federal-cou.md)
 _Context: Citigroup, U.S. Federal Reserve, Wachovia, Wells Fargo, merger_
 
-### [ The Natural Capital Project releases the first version of [http://data.naturalcapitalproject.org/invest-releases/ (InVEST)], an open source ecosystem service evaluation software inspired by the Millennium Ecosystem Assessment.](/news/2008/10/13/the-natural-capital-project-releases-the-first-version-of-http-data-naturalcapitalproject-org-invest-releases-invest-an-open-source.md)
-_Context: Millennium Ecosystem Assessment, Natural Capital, ecosystem service_
+### [ The Natural Capital Project releases the first version of ](/news/2008/10/13/the-natural-capital-project-releases-the-first-version-of.md)
+_Context: Natural Capital_
 
 ## [Previous Day...](/news/2008/10/12/index.md)
 

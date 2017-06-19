@@ -30,7 +30,7 @@ _Context: Antonov An-24, Hungary, Kosovo, Slovakia's, crashes, military_
 ### [ At least thirty-one people have died during a four-day cold snap in Russia where temperatures have plunged to as low as [?]42&nbsp;degC ([?]44&nbsp;degF). ](/news/2006/01/19/at-least-thirty-one-people-have-died-during-a-four-day-cold-snap-in-russia-where-temperatures-have-plunged-to-as-low-as-a42-nbsp-adegc-a.md)
 A brutal, four-day cold snap in Russia, with temperatures plunging as low as -31 C, has killed at least 31 people.
 
-### [ A leaked memo from the United Kingdom's Foreign Office reveals that the British government had a strategy aimed at suppressing a debate about the US practice of transporting detainees to secret centres where they are at risk of being tortured. [http://www.guardian.co.uk/usa/story/0,,1689853,00.html (Guardian Unlimited)].](/news/2006/01/19/a-leaked-memo-from-the-united-kingdom-s-foreign-office-reveals-that-the-british-government-had-a-strategy-aimed-at-suppressing-a-debate-abo.md)
+### [ A leaked memo from the United Kingdom's Foreign Office reveals that the British government had a strategy aimed at suppressing a debate about the US practice of transporting detainees to secret centres where they are at risk of being tortured. ](/news/2006/01/19/a-leaked-memo-from-the-united-kingdom-s-foreign-office-reveals-that-the-british-government-had-a-strategy-aimed-at-suppressing-a-debate-abo.md)
 _Context: Foreign and Commonwealth Office_
 
 ### [ NASA Pluto probe ''New Horizons'' successfully launches at 14:00 EST. ](/news/2006/01/19/nasa-pluto-probe-new-horizons-successfully-launches-at-14-00-est.md)

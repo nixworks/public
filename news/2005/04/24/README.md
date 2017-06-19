@@ -27,7 +27,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ In Kuwait, around 7000 Bengali workers storm the embassy of Bangladesh in Kuwait City to protest against unpaid wages. ](/news/2005/04/24/in-kuwait-around-7000-bengali-workers-storm-the-embassy-of-bangladesh-in-kuwait-city-to-protest-against-unpaid-wages.md)
 _Context: Bangladesh, Kuwait, Kuwait City_
 
-### [ Forty Pakistani Christians are arrested in Riyadh, Saudi Arabia for practicing their religion in violation of a Saudi law forbidding the practice of any religion but Islam.  [http://www.christiantoday.com/news/meast/289.htm (Christian Today)].](/news/2005/04/24/forty-pakistani-christians-are-arrested-in-riyadh-saudi-arabia-for-practicing-their-religion-in-violation-of-a-saudi-law-forbidding-the-pr.md)
+### [ Forty Pakistani Christians are arrested in Riyadh, Saudi Arabia for practicing their religion in violation of a Saudi law forbidding the practice of any religion but Islam.  ](/news/2005/04/24/forty-pakistani-christians-are-arrested-in-riyadh-saudi-arabia-for-practicing-their-religion-in-violation-of-a-saudi-law-forbidding-the-pr.md)
 _Context: Christian, Islam, Pakistan, Riyadh, Saudi Arabia_
 
 ## [Previous Day...](/news/2005/04/23/index.md)

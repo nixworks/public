@@ -3,7 +3,7 @@
 ### [ Israel has summoned the ambassador from the Vatican to explain why the Pope did not condemn Palestinian militant attacks on Israelis, in a statement on Sunday, July 24, Pope Benedict XVI said that he deplored attacks in "countries including Egypt, Turkey, Iraq and Britain". ](/news/2005/07/25/israel-has-summoned-the-ambassador-from-the-vatican-to-explain-why-the-pope-did-not-condemn-palestinian-militant-attacks-on-israelis-in-a.md)
 _Context: Holy See, Israel, Palestinian, Pope, Pope Benedict XVI, ambassador_
 
-### [ Bilateral negotiations have resumed between the US and North Korea. [http://news.bbc.co.uk/2/hi/asia-pacific/4716307.stm (BBC)].](/news/2005/07/25/bilateral-negotiations-have-resumed-between-the-us-and-north-korea-http-news-bbc-co-uk-2-hi-asia-pacific-4716307-stm-bbc.md)
+### [ Bilateral negotiations have resumed between the US and North Korea. ](/news/2005/07/25/bilateral-negotiations-have-resumed-between-the-us-and-north-korea.md)
 _Context: Bilateral negotiations, North Korea, United States_
 
 ### [ The Service Employees International Union and the Teamsters, the two largest unions in the AFL-CIO, announce their intentions to leave the labor federation, underscoring a major schism within the U.S. labour movement. ](/news/2005/07/25/the-service-employees-international-union-and-the-teamsters-the-two-largest-unions-in-the-afl-cio-announce-their-intentions-to-leave-the.md)
@@ -15,8 +15,8 @@ _Context: London, London bombings, New Southgate_
 ### [ At least five people have been killed after grenades were thrown at a night-club and official residences in Ethiopia's Somali region. ](/news/2005/07/25/at-least-five-people-have-been-killed-after-grenades-were-thrown-at-a-night-club-and-official-residences-in-ethiopia-s-somali-region.md)
 _Context: Ethiopia_
 
-### [ A mystery illness spreading through Western China has claimed its 17th victim.  Doctors have confirmed the disease is neither bird flu nor SARS [http://news.bbc.co.uk/2/hi/asia-pacific/4713499.stm (BBC)]. Chinese health officials announce that autopsies point to Streptococcosis II as the probable culprit. [http://news.xinhuanet.com/english/2005-07/25/content_3266214.htm (Xinhuanet)].](/news/2005/07/25/a-mystery-illness-spreading-through-western-china-has-claimed-its-17th-victim-doctors-have-confirmed-the-disease-is-neither-bird-flu-nor.md)
-_Context: Avian flu virus, SARS, Streptococcosis II_
+### [ A mystery illness spreading through Western China has claimed its 17th victim.  Doctors have confirmed the disease is neither bird flu nor SARS ](/news/2005/07/25/a-mystery-illness-spreading-through-western-china-has-claimed-its-17th-victim-doctors-have-confirmed-the-disease-is-neither-bird-flu-nor.md)
+_Context: Avian flu virus, SARS_
 
 ### [ Conflict in Iraq: Sunni Arab representatives appointed to the committee tasked with writing up a new Constitution of Iraq have ended their boycott. ](/news/2005/07/25/conflict-in-iraq-p-sunni-arab-representatives-appointed-to-the-committee-tasked-with-writing-up-a-new-constitution-of-iraq-have-ended-their.md)
 _Context: Conflict in Iraq, Iraqi constitution, Sunni_

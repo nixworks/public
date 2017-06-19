@@ -13,7 +13,7 @@ The Southern California megachurch founded by televangelist Robert Schuller file
 ### Related:
 
 1. [American televangelist Robert H. Schuller is ousted from the board of the Crystal Cathedral. ](/news/2011/07/3/american-televangelist-robert-h-schuller-is-ousted-from-the-board-of-the-crystal-cathedral.md) _Context: Crystal Cathedral, televangelist_
-2. [RadioShack files for chapter 11 protection from creditors for the second time in two years. [http://www.reuters.com/article/us-radioshack-bankruptcy-idUSKBN16G06J (Reuters)].](/news/2017/03/8/radioshack-files-for-chapter-11-protection-from-creditors-for-the-second-time-in-two-years-http-www-reuters-com-article-us-radioshack-ba.md) _Context: chapter 11_
+2. [RadioShack files for chapter 11 protection from creditors for the second time in two years. ](/news/2017/03/8/radioshack-files-for-chapter-11-protection-from-creditors-for-the-second-time-in-two-years.md) _Context: chapter 11_
 3. [Rapper Curtis James Jackson III, better known by his stage name 50 Cent, files for Chapter 11 bankruptcy protection. ](/news/2015/07/13/rapper-curtis-james-jackson-iii-better-known-by-his-stage-name-50-cent-files-for-chapter-11-bankruptcy-protection.md) _Context: chapter 11_
 4. [American women's clothing retailer Coldwater Creek files for chapter 11 bankruptcy. ](/news/2014/04/11/american-women-s-clothing-retailer-coldwater-creek-files-for-chapter-11-bankruptcy.md) _Context: chapter 11_
 5. [Swedish charismatic pastor Ulf Ekman, who established the ''Livets Ord'' ministry, breaks with his megachurch and converts to Roman Catholicism. ](/news/2014/03/9/swedish-charismatic-pastor-ulf-ekman-who-established-the-livets-ord-ministry-breaks-with-his-megachurch-and-converts-to-roman-catholic.md) _Context: megachurch_

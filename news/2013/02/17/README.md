@@ -19,7 +19,7 @@ _Context: Czech, Frenstat pod Radhostem, gas explosion_
 The vote showed the broad popularity of President Rafael Correa’s government’s social programs and support for the poor.
 
 ### [Voters in Cyprus go to the polls for a presidential election with Nicos Anastasiades of the Democratic Rally and Stavros Malas of AKEL to contest a runoff on 24 February. ](/news/2013/02/17/voters-in-cyprus-go-to-the-polls-for-a-presidential-election-with-nicos-anastasiades-of-the-democratic-rally-and-stavros-malas-of-akel-to-co.md)
-_Context: AKEL, Cyprus, Democratic Rally, Nicos Anastasiades, Stavros Malas, presidential election, run-off_
+_Context: AKEL, Cyprus, Democratic Rally, Nicos Anastasiades, Stavros Malas, presidential election, second round_
 
 ### [Protests occur in Pakistan demanding protection for Shiite Muslims following yesterday's bombing in Quetta that killed 84 people. ](/news/2013/02/17/protests-occur-in-pakistan-demanding-protection-for-shiite-muslims-following-yesterday-s-bombing-in-quetta-that-killed-84-people.md)
 _Context: February 2013 Quetta bombing, Pakistan, Quetta, Shiite_

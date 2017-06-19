@@ -12,7 +12,7 @@ _Context: Baghdad_
 ### [Thousands protest the murder of three civilians after soldiers loot homes in the  Congo's South Kivu province. ](/news/2010/10/18/thousands-protest-the-murder-of-three-civilians-after-soldiers-loot-homes-in-the-congo-s-south-kivu-province.md)
 _Context: Democratic Republic of the Congo, South Kivu_
 
-### [The Latvian Defense Ministry said four NATO fighter jets from the Lithuanian Air Force Base near Siauliai were deployed when two Russian bombers flying in the neutral airspace almost entered Latvian air space. [http://www.15min.lt/naujiena/aktualu/lietuva/dviem-rusijos-bombonesiams-priartejus-prie-latvijos-i-ora-buvo-pakelti-nato-naikintuvai-is-siauliu-56-120474 (15 min)].](/news/2010/10/18/the-latvian-defense-ministry-said-four-nato-fighter-jets-from-the-lithuanian-air-force-base-near-a-iauliai-were-deployed-when-two-russian-bo.md)
+### [The Latvian Defense Ministry said four NATO fighter jets from the Lithuanian Air Force Base near Siauliai were deployed when two Russian bombers flying in the neutral airspace almost entered Latvian air space. ](/news/2010/10/18/the-latvian-defense-ministry-said-four-nato-fighter-jets-from-the-lithuanian-air-force-base-near-a-iauliai-were-deployed-when-two-russian-bo.md)
 _Context: Latvia, Lithuania, NATO, two Russian bombers flying in the neutral airspace_
 
 ### [Miss Vietnam World 2010 nominated for Miss Earth. It will be held from November 4 to December 4 in HCM City, Phan Thiet, Hoi An and Nha Trang. ](/news/2010/10/18/miss-vietnam-world-2010-nominated-for-miss-earth-it-will-be-held-from-november-4-to-december-4-in-hcm-city-phan-thiet-hoi-an-and-nha-tran.md)

@@ -1,9 +1,14 @@
 ### [2007-09-5](/news/2007/09/5/index.md)
 
-#  The ''Military Times'' reports that a United States Air Force B-52 bomber carried six nuclear warheads from Minot Air Force Base, North Dakota, to Barksdale Air Force Base, Louisiana, in violation of rules concerning the handling of nuclear weapons.  In addition, the bombs were not reported as missing from the Minot weapons inventory.  The squadron commander was relieved of his position, but Representative Ike Skelton says that his committee would investigate the incident.  [http://thelede.blogs.nytimes.com/2007/09/05/loose-nukes-warheads-in-the-sky/?hp (New York Times)], [http://www.msnbc.msn.com/id/20427730/?GT1=10357 (MSNBC)].
+#  The ''Military Times'' reports that a United States Air Force B-52 bomber carried six nuclear warheads from Minot Air Force Base, North Dakota, to Barksdale Air Force Base, Louisiana, in violation of rules concerning the handling of nuclear weapons.  In addition, the bombs were not reported as missing from the Minot weapons inventory.  The squadron commander was relieved of his position, but Representative Ike Skelton says that his committee would investigate the incident.  
+
+A B-52 bomber was mistakenly armed with six nuclear warheads and flown for more than three hours across several states last week, prompting an Air Force investigation and the firing of one commander, Pentagon officials said Wednesday. 
 
 
+### Source:
 
+1. [MSNBC](http://www.msnbc.msn.com/id/20427730/?GT1=10357)
+2. [New York Times](http://thelede.blogs.nytimes.com/2007/09/05/loose-nukes-warheads-in-the-sky/?hp)
 
 ### Related:
 

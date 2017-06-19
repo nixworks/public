@@ -46,7 +46,7 @@ _Context: Aung San Suu Kyi, Myanmar, Nobel Laureate, United States_
 A French cyclist who was shot dead alongside a British family in a massacre in the Alps may have been the &#034;main target&#034; of the massacre, police have suggested.
 
 ### [PC Simon Harwood, cleared over the death of Ian Tomlinson during the 2009 G-20 summit protests in London, is dismissed from the Metropolitan Police after a hearing finds him guilty of gross misconduct. ](/news/2012/09/17/pc-simon-harwood-cleared-over-the-death-of-ian-tomlinson-during-the-2009-g-20-summit-protests-in-london-is-dismissed-from-the-metropolitan.md)
-_Context: 2009 G-20 summit protests in London, Metropolitan Police, death of Ian Tomlinson_
+_Context: 2009 G-20 summit protests in London, Metropolitan Police Service, death of Ian Tomlinson_
 
 ### [The Louisiana State University (LSU) main campus at Baton Rouge, Louisiana, is evacuated after a bomb threat. It is not clear at this time whether it is related to the two previous similar incidents the previous Friday at the University of Texas at Austin (UT) in Austin, Texas, and North Dakota State University (NDSU) in Fargo, North Dakota. ](/news/2012/09/17/the-louisiana-state-university-lsu-main-campus-at-baton-rouge-louisiana-is-evacuated-after-a-bomb-threat-it-is-not-clear-at-this-time-w.md)
 _Context: Austin, Texas, Baton Rouge, Fargo, North Dakota, Louisiana State University, North Dakota State University, University of Texas at Austin, bomb threat_

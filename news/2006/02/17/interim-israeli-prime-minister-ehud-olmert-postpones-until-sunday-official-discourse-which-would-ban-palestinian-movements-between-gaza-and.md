@@ -1,9 +1,14 @@
 ### [2006-02-17](/news/2006/02/17/index.md)
 
-#  Interim Israeli Prime minister Ehud Olmert postpones until Sunday official discourse which would ban Palestinian movements between Gaza and the West Bank, bar Palestinians from working in Israel and stop transfer of $50 million tax receipts to the Palestinian Authority. All these measures, criticized by Israeli Labor Party leader Amir Peretz, follows the victory of Hamas over Fatah during the January 2006 legislative elections. [http://today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=uri:2006-02-17T153806Z_01_L17580155_RTRUKOC_0_US-MIDEAST.xml&pageNumber=0&summit= (Reuters)] [http://hosted.ap.org/dynamic/stories/I/ISRAEL_PALESTINIANS?SITE=WKHG&SECTION=HOME&TEMPLATE=DEFAULT (AP)].
+#  Interim Israeli Prime minister Ehud Olmert postpones until Sunday official discourse which would ban Palestinian movements between Gaza and the West Bank, bar Palestinians from working in Israel and stop transfer of $50 million tax receipts to the Palestinian Authority. All these measures, criticized by Israeli Labor Party leader Amir Peretz, follows the victory of Hamas over Fatah during the January 2006 legislative elections. 
+
+Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
+### Source:
 
+1. [AP](http://hosted.ap.org/dynamic/stories/I/ISRAEL_PALESTINIANS?SITE=WKHG&SECTION=HOME&TEMPLATE=DEFAULT)
+2. [Reuters](http://today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=uri:2006-02-17T153806Z_01_L17580155_RTRUKOC_0_US-MIDEAST.xml&pageNumber=0&summit=)
 
 ### Related:
 

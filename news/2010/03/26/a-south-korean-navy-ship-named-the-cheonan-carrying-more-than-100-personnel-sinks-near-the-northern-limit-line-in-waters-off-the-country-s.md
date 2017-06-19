@@ -1,9 +1,17 @@
 ### [2010-03-26](/news/2010/03/26/index.md)
 
-# A South Korean Navy ship named the Cheonan, carrying more than 100 personnel sinks near the Northern Limit Line in waters off the country's west coast near North Korea. [http://english.yonhapnews.co.kr/national/2010/03/27/13/0301000000AEN20100327000100315F.HTML (Yonhap)] [http://news.bbc.co.uk/2/hi/asia-pacific/8589507.stm (BBC)] [http://www.rte.ie/news/2010/0326/korea.html (RTE)] [http://timesofindia.indiatimes.com/world/rest-of-world/South-Korea-navy-ship-sunk-near-North-Korea-border-Military/articleshow/5728798.cms (''The Times of India'')] An international team of investigators attributes the attack to a torpedo fired by a North Korean submarine. [http://www.timesonline.co.uk/tol/news/world/asia/article7131533.ece (The Times)].
+# A South Korean Navy ship named the Cheonan, carrying more than 100 personnel sinks near the Northern Limit Line in waters off the country's west coast near North Korea. 
 
 
 
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8589507.stm)
+2. [RTÉ](http://www.rte.ie/news/2010/0326/korea.html)
+3. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/South-Korea-navy-ship-sunk-near-North-Korea-border-Military/articleshow/5728798.cms)
+4. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7131533.ece)
+5. [Yonhap](http://english.yonhapnews.co.kr/national/2010/03/27/13/0301000000AEN20100327000100315F.HTML)
 
 ### Related:
 

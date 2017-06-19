@@ -1,7 +1,7 @@
 ## [2005-01-6](/news/2005/01/6/index.md)
 
-### [ Former South African President Nelson Mandela breaks a strong taboo when he announces that the death at age 54 of his sole surviving son, Makgatho Mandela, was caused by AIDS, which kills about 600 people daily in South Africa. His action is viewed as being critical of his successor, Thabo Mbeki, who has denied a link between HIV and AIDS. [http://abcnews.go.com/US/wireStory?id=390040 (ABC)], [http://news.bbc.co.uk/1/hi/world/africa/4151159.stm (BBC)].](/news/2005/01/6/former-south-african-president-nelson-mandela-breaks-a-strong-taboo-when-he-announces-that-the-death-at-age-54-of-his-sole-surviving-son-m.md)
-_Context: AIDS, HIV, Makgatho Mandela, Nelson Mandela, President of South Africa, South Africa, Thabo Mbeki, taboo_
+### [ Former South African President Nelson Mandela breaks a strong taboo when he announces that the death at age 54 of his sole surviving son, Makgatho Mandela, was caused by AIDS, which kills about 600 people daily in South Africa. His action is viewed as being critical of his successor, Thabo Mbeki, who has denied a link between HIV and AIDS. ](/news/2005/01/6/former-south-african-president-nelson-mandela-breaks-a-strong-taboo-when-he-announces-that-the-death-at-age-54-of-his-sole-surviving-son-m.md)
+Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [ 2004 United States election voting controversies: House Judiciary Committee Democratic Staff releases a ](/news/2005/01/6/2004-united-states-election-voting-controversies-p-house-judiciary-committee-democratic-staff-releases-a.md)
 _Context: 2004 United States election voting controversies, United States House Committee on the Judiciary_

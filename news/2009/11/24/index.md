@@ -46,7 +46,7 @@ _Context: Bariyapur, Gadhimai, Hindu, Nepal, festival, goddess, ritually slaught
 24 more bodies recovered in deadly poll-related incidentThe death toll from the savage political massacre in Maguindanao rose to 46 on Tuesday, as President Arroyo placed the area under an indefinite state of emergency.
 
 ### [  In the Northern Mariana Islands' first ever runoff, incumbent Governor Benigno Fitial of the Covenant Party leads Republican Party Rep. Heinz Hofschneider  by 501 votes. ](/news/2009/11/24/in-the-northern-mariana-islands-first-ever-runoff-incumbent-governor-benigno-fitial-of-the-covenant-party-leads-republican-party-rep-he.md)
-_Context: 2009 gubernatorial election and runoff, Benigno Fitial, Covenant Party, Governor of the Northern Mariana Islands, Heinz Hofschneider, Northern Mariana Islands, Northern Mariana Islands House of Representatives, Republican, run-off_
+_Context: 2009 gubernatorial election and runoff, Benigno Fitial, Covenant Party, Governor of the Northern Mariana Islands, Heinz Hofschneider, Northern Mariana Islands, Northern Mariana Islands House of Representatives, Republican, second round_
 
 ### [ Web browser Opera closes a loophole which allowed Chinese users to access websites banned by the government. ](/news/2009/11/24/web-browser-opera-closes-a-loophole-which-allowed-chinese-users-to-access-websites-banned-by-the-government.md)
 _Context: Opera, People's Republic of China, blocks mentions_

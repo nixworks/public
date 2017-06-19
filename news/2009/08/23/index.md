@@ -1,6 +1,6 @@
 ## [2009-08-23](/news/2009/08/23/index.md)
 
-### [ Tens of thousands of people in the Baltic states mark the twentieth anniversary of the 'Baltic Way' - when two million people formed a human chain to protest against Soviet Union rule. [http://english.aljazeera.net/news/europe/2009/08/200982318443710242.html (Aljazeera)], [http://www.guardian.co.uk/commentisfree/2009/aug/19/eu-parliament-soviet-nazi-history (Guardian)], [http://www.baltictimes.com/news/articles/23392/ (Baltic Times)].](/news/2009/08/23/tens-of-thousands-of-people-in-the-baltic-states-mark-the-twentieth-anniversary-of-the-baltic-way-when-two-million-people-formed-a-huma.md)
+### [ Tens of thousands of people in the Baltic states mark the twentieth anniversary of the 'Baltic Way' - when two million people formed a human chain to protest against Soviet Union rule. ](/news/2009/08/23/tens-of-thousands-of-people-in-the-baltic-states-mark-the-twentieth-anniversary-of-the-baltic-way-when-two-million-people-formed-a-huma.md)
 _Context: Baltic Way, Baltic states, Soviet_
 
 ### [ Tens of thousands of people protest against a new law which gives women equal rights in marriage in Bamako, Mali. ](/news/2009/08/23/tens-of-thousands-of-people-protest-against-a-new-law-which-gives-women-equal-rights-in-marriage-in-bamako-mali.md)

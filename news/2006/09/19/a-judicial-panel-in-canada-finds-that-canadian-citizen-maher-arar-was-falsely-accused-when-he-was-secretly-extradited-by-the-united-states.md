@@ -1,9 +1,13 @@
 ### [2006-09-19](/news/2006/09/19/index.md)
 
-#  A judicial panel in Canada finds that Canadian citizen Maher Arar was falsely accused when he was secretly extradited by the United States to Syria, and that he was tortured there. [http://www.msnbc.msn.com/id/14897315/ (MSNBC)].
+#  A judicial panel in Canada finds that Canadian citizen Maher Arar was falsely accused when he was secretly extradited by the United States to Syria, and that he was tortured there. 
+
+Canadian intelligence officials passed false warnings and bad information to American agents about a Muslim Canadian citizen, after which U.S. authorities secretly whisked him to Syria, where he was tortured, a judicial report found Monday.
 
 
+### Source:
 
+1. [MSNBC](http://www.msnbc.msn.com/id/14897315/)
 
 ### Related:
 

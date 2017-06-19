@@ -1,9 +1,13 @@
 ### [2005-08-10](/news/2005/08/10/index.md)
 
-#  In Chile, special Judge Sergio Muoz indicts Luca Hiriart and Marco Antonio Pinochet, wife and youngest son of Augusto Pinochet, on charges of tax evasion. Hiriart is confined in a military facility in Santiago and Marco Pinochet in Santiago's Capuchinos Jail [http://news.bbc.co.uk/1/hi/world/americas/4139388.stm (BBC)].
+#  In Chile, special Judge Sergio Muoz indicts Luca Hiriart and Marco Antonio Pinochet, wife and youngest son of Augusto Pinochet, on charges of tax evasion. Hiriart is confined in a military facility in Santiago and Marco Pinochet in Santiago's Capuchinos Jail 
 
 
 
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4139388.stm)
 
 ### Related:
 

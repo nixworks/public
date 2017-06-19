@@ -7,7 +7,7 @@ _Context: Turkey_
 _Context: Israel, Palestinian, West Bank_
 
 ### [ According to exit polls, Nicolas Sarkozy and Segolene Royal will meet in the second round of the French presidential election on May 6. Francois Bayrou and Jean-Marie Le Pen are believed to have received the third and fourth most votes respectively. ](/news/2007/04/22/according-to-exit-polls-nicolas-sarkozy-and-sa-c-gola-ne-royal-will-meet-in-the-second-round-of-the-french-presidential-election-on-may-6-f.md)
-_Context: 2007 presidential election, Francois Bayrou, Jean-Marie Le Pen, May 6, Nicolas Sarkozy, Segolene Royal, run-off_
+_Context: 2007 presidential election, Francois Bayrou, Jean-Marie Le Pen, May 6, Nicolas Sarkozy, Segolene Royal, second round_
 
 ### [ War in Iraq: Gunmen kill 21 members of northern Iraq's Yezidi community after dragging them from a bus. ](/news/2007/04/22/war-in-iraq-gunmen-kill-21-members-of-northern-iraq-s-yezidi-community-after-dragging-them-from-a-bus.md)
 _Context: Iraq, Iraq War, Yezidi_

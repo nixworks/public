@@ -9,7 +9,7 @@ _Context: Enron, Greenwich NatWest, High Court, Royal Bank of Scotland_
 ### [ Former Bosnian Serb Army General Ratko Mladic, wanted by the  International Criminal Tribunal for the Former Yugoslavia in The Hague in connection with the massacre of 8,000 men and boys on July 11, 1995, in Srebrenica, has been reported by Belgrade's Studio B TV to have been arrested. The Serbian government has denied the capture, decrying the report as "manipulation which damages the government". ](/news/2006/02/21/former-bosnian-serb-army-general-ratko-mladia-wanted-by-the-international-criminal-tribunal-for-the-former-yugoslavia-in-the-hague-in-co.md)
 _Context: Belgrade, Bosnian Serb army, International Criminal Tribunal for the former Yugoslavia, Ratko Mladic, Srebrenica massacre, Studio B, The Hague_
 
-### [ Eight men are acquitted of the 1999 murder which has many hundreds of witnesses of model Jessica Lal in India. The acquittal causes outrage among the Indian community with petitions to President Abdul Kalam for a review of the case [http://www.hindustantimes.com/news/181_1635528,0093.htm (Hindustan Times)].](/news/2006/02/21/eight-men-are-acquitted-of-the-1999-murder-which-has-many-hundreds-of-witnesses-of-model-jessica-lal-in-india-the-acquittal-causes-outrage.md)
+### [ Eight men are acquitted of the 1999 murder which has many hundreds of witnesses of model Jessica Lal in India. The acquittal causes outrage among the Indian community with petitions to President Abdul Kalam for a review of the case ](/news/2006/02/21/eight-men-are-acquitted-of-the-1999-murder-which-has-many-hundreds-of-witnesses-of-model-jessica-lal-in-india-the-acquittal-causes-outrage.md)
 _Context: Abdul Kalam, Jessica Lal_
 
 ## [Previous Day...](/news/2006/02/20/index.md)

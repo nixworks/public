@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [ Pope Benedict XVI canonizes Chilean Jesuit Alberto Hurtado.](/news/2005/10/23/pope-benedict-xvi-canonizes-chilean-jesuit-alberto-hurtado.md)
 _Context: Alberto Hurtado, Benedict XVI_
 
-### [ Elections in Argentina, 2005.Candidates supporting Argentina's President,  Nestor Kirchner, won the parliamentary elections in Buenos Aires Province (his wife was elected as Senator) and several other provinces. However, they lost in Buenos Aires City and Santa Fe Province. [http://www.bloomberg.com/apps/news?pid=10000086&sid=aX4osPyKstwo (Bloomberg)].](/news/2005/10/23/elections-in-argentina-2005-candidates-supporting-argentina-s-president-na-c-stor-kirchner-won-the-parliamentary-elections-in-buenos-aire.md)
+### [ Elections in Argentina, 2005.Candidates supporting Argentina's President,  Nestor Kirchner, won the parliamentary elections in Buenos Aires Province (his wife was elected as Senator) and several other provinces. However, they lost in Buenos Aires City and Santa Fe Province. ](/news/2005/10/23/elections-in-argentina-2005-candidates-supporting-argentina-s-president-na-c-stor-kirchner-won-the-parliamentary-elections-in-buenos-aire.md)
 _Context: Argentina, Buenos Aires, Buenos Aires Province, Elections in Argentina, 2005, Nestor Kirchner, Santa Fe Province_
 
 ### [ The Chicago White Sox defeat the Houston Astros 7-6 to take a 2-0 lead in the World Series.](/news/2005/10/23/the-chicago-white-sox-defeat-the-houston-astros-7-6-to-take-a-2-0-lead-in-the-world-series.md)

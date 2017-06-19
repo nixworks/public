@@ -1,9 +1,13 @@
 ### [2011-07-7](/news/2011/07/7/index.md)
 
-# The southern branch of Sudan's ruling National Congress Party announces its split from the northern party ahead of South Sudan's independence [http://english.aljazeera.net/indepth/spotlight/southernsudanindependence/2011/07/2011771214156975.html (Al Jazeera)].
+# The southern branch of Sudan's ruling National Congress Party announces its split from the northern party ahead of South Sudan's independence 
 
 
 
+
+### Source:
+
+1. [Al Jazeera](http://english.aljazeera.net/indepth/spotlight/southernsudanindependence/2011/07/2011771214156975.html)
 
 ### Related:
 

@@ -15,7 +15,7 @@ _Context: Axl Rose, Guns N' Roses, Stockholm, Sweden, popular music_
 ### [ Iranian Supreme Leader Ayatollah Ali Khamenei says Iran does "not need" to talk with the United States over its nuclear program. ](/news/2006/06/27/iranian-supreme-leader-ayatollah-ali-khamenei-says-iran-does-not-need-to-talk-with-the-united-states-over-its-nuclear-program.md)
 _Context: Ali Khamenei, Ayatollah, Iran_
 
-### [ The Hamas-led Palestinian government has reportedly agreed to implicitly recognise Israel, paving the way to reopening peace talks with it. Other Hamas officials later deny these reports. [http://news.bbc.co.uk/2/hi/middle_east/5122822.stm (BBC)].](/news/2006/06/27/the-hamas-led-palestinian-government-has-reportedly-agreed-to-implicitly-recognise-israel-paving-the-way-to-reopening-peace-talks-with-it.md)
+### [ The Hamas-led Palestinian government has reportedly agreed to implicitly recognise Israel, paving the way to reopening peace talks with it. Other Hamas officials later deny these reports. ](/news/2006/06/27/the-hamas-led-palestinian-government-has-reportedly-agreed-to-implicitly-recognise-israel-paving-the-way-to-reopening-peace-talks-with-it.md)
 _Context: Hamas, Israel, Palestinian, form of government_
 
 ### [ A Palestinian militant group kidnaps and an hour later kills a 19-year-old Israeli tertiary student, Eliyahu Asheri. The same group later threatens it will kill the student if the Israeli offensive continues. ](/news/2006/06/27/a-palestinian-militant-group-kidnaps-and-an-hour-later-kills-a-19-year-old-israeli-tertiary-student-eliyahu-asheri-the-same-group-later-t.md)

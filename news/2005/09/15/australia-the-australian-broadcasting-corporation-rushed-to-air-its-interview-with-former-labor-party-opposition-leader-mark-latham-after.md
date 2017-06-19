@@ -1,9 +1,14 @@
 ### [2005-09-15](/news/2005/09/15/index.md)
 
-#  Australia: The Australian Broadcasting Corporation rushed to air its interview with former Labor Party Opposition leader Mark Latham after fending off legal challenges from News Corporation, publishers of ''The Australian'' and the ''Herald Sun''. [http://www.theage.com.au/news/national/legal-battle-to-ban-latham-show-fails/2005/09/15/1126750082275.html (The Age)] [http://www.abc.net.au/news/newsitems/200509/s1461400.htm (ABC News)].
+#  Australia: The Australian Broadcasting Corporation rushed to air its interview with former Labor Party Opposition leader Mark Latham after fending off legal challenges from News Corporation, publishers of ''The Australian'' and the ''Herald Sun''. 
 
 
 
+
+### Source:
+
+1. [ABC News](http://www.abc.net.au/news/newsitems/200509/s1461400.htm)
+2. [The Age](http://www.theage.com.au/news/national/legal-battle-to-ban-latham-show-fails/2005/09/15/1126750082275.html)
 
 ### Related:
 

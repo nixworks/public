@@ -1,9 +1,15 @@
 ### [2005-08-17](/news/2005/08/17/index.md)
 
-#  The governors of the U.S. states of New Mexico and Arizona declare an emergency along their borders with Mexico citing recent violence, and inaction in both the US government and the Mexican government. [http://www.nytimes.com/2005/08/17/national/17border.html (NY Times)], [http://www.azcentral.com/arizonarepublic/news/articles/0816borderemergency16.html (Arizona Republic)], [http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/08/17/wmexi17.xml&sSheet=/news/2005/08/17/ixworld.html (UK Telegraph)].
+#  The governors of the U.S. states of New Mexico and Arizona declare an emergency along their borders with Mexico citing recent violence, and inaction in both the US government and the Mexican government. 
+
+Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 
+### Source:
 
+1. [Arizona Republic](http://www.azcentral.com/arizonarepublic/news/articles/0816borderemergency16.html)
+2. [NY Times](http://www.nytimes.com/2005/08/17/national/17border.html)
+3. [UK Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/08/17/wmexi17.xml&sSheet=/news/2005/08/17/ixworld.html)
 
 ### Related:
 

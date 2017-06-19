@@ -9,8 +9,8 @@ _Context: 2011 Egyptian revolution, Egypt, Field Marshal, Mohamed Hussein Tantaw
 ### [In Libya, the town of Bani Walid, a former stronghold of Muammar Gaddafi, revolts against the National Transitional Council government. ](/news/2012/01/24/in-libya-the-town-of-bani-walid-a-former-stronghold-of-muammar-gaddafi-revolts-against-the-national-transitional-council-government.md)
 _Context: Bani Walid, Libya, Muammar Gaddafi, National Transitional Council, revolts_
 
-### [Nominations for the 2012 Academy Awards are announced [http://www.telegraph.co.uk/culture/film/oscars/9036586/Oscar-nominations-2012-Hugo-leads-the-way.html (''The Telegraph'')] [http://www.oscars.org/ (Academy Awards website)]. ](/news/2012/01/24/nominations-for-the-2012-academy-awards-are-announced-http-www-telegraph-co-uk-culture-film-oscars-9036586-oscar-nominations-2012-hugo-le.md)
-_Context: 84th Academy Awards_
+### [Nominations for the 2012 Academy Awards are announced ](/news/2012/01/24/nominations-for-the-2012-academy-awards-are-announced.md)
+Martin Scorsese&#039;s adventure film Hugo leads the Academy Awards with 11 nominations, including Best Picture and Best Director.
 
 ### [Andrew Miller's novel ''Pure'' wins the 2011 Costa Book of the Year Award. ](/news/2012/01/24/andrew-miller-s-novel-pure-wins-the-2011-costa-book-of-the-year-award.md)
 _Context: 2011 Costa Book of the Year Award, Andrew Miller, Pure_

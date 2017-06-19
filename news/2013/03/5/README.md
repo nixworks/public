@@ -37,7 +37,7 @@ _Context: government coalition, government of Moldova_
 Four Army bases are to close as part of a shake-up to accommodate thousands of troops returning from Germany.
 
 ### [Voters in the American city of Los Angeles, California, go to the polls for a mayoral election with Eric Garcetti and Wendy Greuel to contest a runoff on 21 May 2013. ](/news/2013/03/5/voters-in-the-american-city-of-los-angeles-california-go-to-the-polls-for-a-mayoral-election-with-eric-garcetti-and-wendy-greuel-to-contes.md)
-_Context: California, Eric Garcetti, Los Angeles, United States, Wendy Greuel, mayoral election, run-off_
+_Context: California, Eric Garcetti, Los Angeles, United States, Wendy Greuel, mayoral election, second round_
 
 ### [Japanese carrier Willcom announces the Phone Strap 2 WX06A, which weighs only 32 grams. The company advertises it as the world's "smallest and lightest phone". ](/news/2013/03/5/japanese-carrier-willcom-announces-the-phone-strap-2-wx06a-which-weighs-only-32-grams-the-company-advertises-it-as-the-world-s-smallest-a.md)
 Japanese carrier Willcom has just announced the Phone Strap 2 WX06A, which it calls the world&#39;s &quot;smallest and lightest phone.&quot; The Phone Strap 2 is the sequel to the original Phone Strap, measures...

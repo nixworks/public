@@ -9,8 +9,8 @@ _Context: Coahuila, Nueva Rosita, Pasta de Conchos mine disaster, coal mine_
 ### [ Ismail Haniya of Hamas becomes Prime Minister of the Palestinian National Authority, succeeding Ahmed Qurei. ](/news/2006/02/19/ismail-haniya-of-hamas-becomes-prime-minister-of-the-palestinian-national-authority-succeeding-ahmed-qurei.md)
 _Context: Ahmed Qurei, Hamas, Ismail Haniya, Palestinian National Authority, Prime Minister_
 
-### [ Palestinian-Israeli conflict: Interim Israeli Prime Minister Ehud Olmert decides to withhold payment to the Palestinian Authority of tax receipts amounting to about $50 million per month. [http://www.nytimes.com/2006/02/19/international/middleeast/19cnd-mideast.html? (New York Times)] [http://today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=uri:2006-02-19T204037Z_01_L17580155_RTRUKOC_0_US-MIDEAST.xml&pageNumber=0&summit= (Reuters)].](/news/2006/02/19/palestinian-israeli-conflict-interim-israeli-prime-minister-ehud-olmert-decides-to-withhold-payment-to-the-palestinian-authority-of-tax-re.md)
-_Context: Ehud Olmert, Israel, Palestinian-Israeli conflict_
+### [ Palestinian-Israeli conflict: Interim Israeli Prime Minister Ehud Olmert decides to withhold payment to the Palestinian Authority of tax receipts amounting to about $50 million per month. ](/news/2006/02/19/palestinian-israeli-conflict-interim-israeli-prime-minister-ehud-olmert-decides-to-withhold-payment-to-the-palestinian-authority-of-tax-re.md)
+Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ## [Previous Day...](/news/2006/02/18/index.md)
 

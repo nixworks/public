@@ -1,6 +1,6 @@
 ## [2006-04-18](/news/2006/04/18/index.md)
 
-### [ Hu Jintao arrives in Seattle, Washington, on his first visit to the United States since becoming President of the People's Republic of China in 2003. [https://web.archive.org/web/20061017232602/http://www.cnn.com/2006/WORLD/asiapcf/04/18/china.hu.visit/index.html (CNN)].](/news/2006/04/18/hu-jintao-arrives-in-seattle-washington-on-his-first-visit-to-the-united-states-since-becoming-president-of-the-people-s-republic-of-chin.md)
+### [ Hu Jintao arrives in Seattle, Washington, on his first visit to the United States since becoming President of the People's Republic of China in 2003. ](/news/2006/04/18/hu-jintao-arrives-in-seattle-washington-on-his-first-visit-to-the-united-states-since-becoming-president-of-the-people-s-republic-of-chin.md)
 _Context: Chinese President, Hu Jintao, Seattle_
 
 ### [ The H5N1 strain of avian influenza is reported in Sudan following reports in neighbouring Egypt. ](/news/2006/04/18/the-h5n1-strain-of-avian-influenza-is-reported-in-sudan-following-reports-in-neighbouring-egypt.md)

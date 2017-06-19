@@ -37,7 +37,7 @@ _Context: NATO, Somali pirates, United Nations_
 _Context: North Korea_
 
 ### [ No candidate wins a majority in the Maldives' first democratic presidential election; the incumbent Maumoon Abdul Gayoom will face Mohamed Nasheed in a runoff. ](/news/2008/10/9/no-candidate-wins-a-majority-in-the-maldives-first-democratic-presidential-election-the-incumbent-maumoon-abdul-gayoom-will-face-mohamed.md)
-_Context: Maldives, Maumoon Abdul Gayoom, Mohamed Nasheed, absolute majority, democratic progress, first democratic election, run-off_
+_Context: Maldives, Maumoon Abdul Gayoom, Mohamed Nasheed, absolute majority, democratic progress, first democratic election, second round_
 
 ### [ Los Zetas of the Gulf Cartel suspected killers of 5 police near Guadalajara during nationwide crackdown in Mexico. ](/news/2008/10/9/los-zetas-of-the-gulf-cartel-suspected-killers-of-5-police-near-guadalajara-during-nationwide-crackdown-in-mexico.md)
 _Context: Guadalajara, Gulf Cartel, Los Zetas, Mexican_

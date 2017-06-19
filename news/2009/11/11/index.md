@@ -1,7 +1,7 @@
 ## [2009-11-11](/news/2009/11/11/index.md)
 
-### [ Raymond Jessup is sentenced to 10 years in prison for sexual assault of an underage girl after the April 2008 raid of the YFZ Ranch in Eldorado, Texas. [http://www.upi.com/Top_News/US/2009/11/11/Polygamist-gets-10-years-for-marrying-teen/UPI-28921257920937// (UPI)].](/news/2009/11/11/raymond-jessup-is-sentenced-to-10-years-in-prison-for-sexual-assault-of-an-underage-girl-after-the-april-2008-raid-of-the-yfz-ranch-in-eldo.md)
-_Context: April 2008, Eldorado, Texas, YFZ Ranch, child sexual abuse_
+### [ Raymond Jessup is sentenced to 10 years in prison for sexual assault of an underage girl after the April 2008 raid of the YFZ Ranch in Eldorado, Texas. ](/news/2009/11/11/raymond-jessup-is-sentenced-to-10-years-in-prison-for-sexual-assault-of-an-underage-girl-after-the-april-2008-raid-of-the-yfz-ranch-in-eldo.md)
+The first dissident Mormon to be convicted of sexually assaulting a child at a Texas compound was sentenced to 10 years in prison Tuesday.
 
 ### [ Two bloggers from Azerbaijan, Emin Milli and Adnan Hajizade, are sentenced by a court for "hooliganism" in a restaurant scuffle linked to the posting of a satirical video dressed as a donkey on YouTube that mocked government restrictions on civil liberties. ](/news/2009/11/11/two-bloggers-from-azerbaijan-emin-milli-and-adnan-hajizade-are-sentenced-by-a-court-for-hooliganism-in-a-restaurant-scuffle-linked-to-t.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan

@@ -42,8 +42,8 @@ _Context: District Attorney, Etan Patz, Manhattan_
 ### [After a failed coup d'tat the President of Burundi, Pierre Nkurunziza, fires three Ministers, including the Minister of Defence. ](/news/2015/05/18/after-a-failed-coup-d-etat-the-president-of-burundi-pierre-nkurunziza-fires-three-ministers-including-the-minister-of-defence.md)
 An official says Burundi&#8217;s president has fired his defense minister and two other Cabinet ministers after a failed coup attempt.
 
-### [In the ongoing protests in Skopje, Republic of Macedonia, tens of thousands of people rally in support of Prime Minister Nikola Gruevski. [http://www.bbc.com/news/world-europe-32789747 (BBC News)].](/news/2015/05/18/in-the-ongoing-protests-in-skopje-republic-of-macedonia-tens-of-thousands-of-people-rally-in-support-of-prime-minister-nikola-gruevski-h.md)
-_Context: 2015 Macedonian protests, Macedonian, Nikola Gruevski, Skopje_
+### [In the ongoing protests in Skopje, Republic of Macedonia, tens of thousands of people rally in support of Prime Minister Nikola Gruevski. ](/news/2015/05/18/in-the-ongoing-protests-in-skopje-republic-of-macedonia-tens-of-thousands-of-people-rally-in-support-of-prime-minister-nikola-gruevski.md)
+Tens of thousands of Macedonians rally in support of PM Nikola Gruevski, a day after similar numbers demonstrated against his government.
 
 ## [Previous Day...](/news/2015/05/17/index.md)
 

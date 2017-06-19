@@ -1,9 +1,13 @@
 ### [2005-08-17](/news/2005/08/17/index.md)
 
-#  The Zotob computer worm causes fatal crashes of computers worldwide. The worm only crashes PCs running Windows 2000 and earlier versions of Windows XP, shutting down and rebooting the computer endlessly. Affected were CNN, ABC, Caterpillar, New York Times and Capitol Hill PCs. [http://edition.cnn.com/2005/TECH/internet/08/16/computer.worm/index.html (CNN)].
+#  The Zotob computer worm causes fatal crashes of computers worldwide. The worm only crashes PCs running Windows 2000 and earlier versions of Windows XP, shutting down and rebooting the computer endlessly. Affected were CNN, ABC, Caterpillar, New York Times and Capitol Hill PCs. 
 
 
 
+
+### Source:
+
+1. [CNN](http://edition.cnn.com/2005/TECH/internet/08/16/computer.worm/index.html)
 
 ### Related:
 

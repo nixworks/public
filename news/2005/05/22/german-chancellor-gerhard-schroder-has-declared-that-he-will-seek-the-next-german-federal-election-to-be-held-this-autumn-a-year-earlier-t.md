@@ -1,9 +1,13 @@
 ### [2005-05-22](/news/2005/05/22/index.md)
 
-#  German Chancellor Gerhard Schrder has declared that he will seek the next German federal election to be held this autumn, a year earlier than set out by the constitution, after the CDU and FDP defeated the Social Democrats (SPD), who were in coalition with the Greens, at the regional election in North Rhine-Westphalia. [http://news.bbc.co.uk/2/hi/europe/4572903.stm (BBC)].
+#  German Chancellor Gerhard Schrder has declared that he will seek the next German federal election to be held this autumn, a year earlier than set out by the constitution, after the CDU and FDP defeated the Social Democrats (SPD), who were in coalition with the Greens, at the regional election in North Rhine-Westphalia. 
 
 
 
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/europe/4572903.stm)
 
 ### Related:
 

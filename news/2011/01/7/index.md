@@ -18,8 +18,8 @@ _Context: North Korea, South Korea_
 ### [Israeli troops round up five men and kill a 67-year-old Palestinian man during an operation into the West Bank, aiming at arresting members of Hamas. ](/news/2011/01/7/israeli-troops-round-up-five-men-and-kill-a-67-year-old-palestinian-man-during-an-operation-into-the-west-bank-aiming-at-arresting-members.md)
 IDF raided Hebron to re-arrest Hamas members, including senior member who assisted man who planned 2008 suicide bombing in Dimona.
 
-### [The Supreme Judicial Court of Massachusetts upholds a lower court ruling that halted the efforts of two large banks to foreclose in cases in which they failed to prove they were holding the mortgages in question. [http://www.reuters.com/article/idUSTRE7063M620110107 (Reuters)]  [http://www.nytimes.com/2011/01/08/business/08mortgage.html?hp (''The New York Times'')].](/news/2011/01/7/the-supreme-judicial-court-of-massachusetts-upholds-a-lower-court-ruling-that-halted-the-efforts-of-two-large-banks-to-foreclose-in-cases-in.md)
-_Context: Massachusetts, Supreme Judicial Court_
+### [The Supreme Judicial Court of Massachusetts upholds a lower court ruling that halted the efforts of two large banks to foreclose in cases in which they failed to prove they were holding the mortgages in question. ](/news/2011/01/7/the-supreme-judicial-court-of-massachusetts-upholds-a-lower-court-ruling-that-halted-the-efforts-of-two-large-banks-to-foreclose-in-cases-in.md)
+The ruling voided two foreclosures, putting the nation’s banks on notice that foreclosures cannot be based on improper or incomplete paperwork.
 
 ### [French President Nicolas Sarkozy and First Lady Carla Bruni begin an official trip to the overseas departments of Guadeloupe and Martinique. ](/news/2011/01/7/french-president-nicolas-sarkozy-and-first-lady-carla-bruni-begin-an-official-trip-to-the-overseas-departments-of-guadeloupe-and-martinique.md)
 _Context: Carla Bruni, French President, Guadeloupe, Martinique, Nicolas Sarkozy_

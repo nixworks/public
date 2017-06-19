@@ -1,9 +1,13 @@
 ### [2013-11-25](/news/2013/11/25/index.md)
 
-# ''The Hunger Games: Catching Fire'' becomes the biggest North American November film release, grossing $161 million in the U.S. and Canada over its first weekend. [http://www.cbsnews.com/news/the-hunger-games-catching-fire-scorches-with-1611-million-opening/ (CBS News)].
+# ''The Hunger Games: Catching Fire'' becomes the biggest North American November film release, grossing $161 million in the U.S. and Canada over its first weekend. 
 
 
 
+
+### Source:
+
+1. [CBS News](http://www.cbsnews.com/news/the-hunger-games-catching-fire-scorches-with-1611-million-opening/)
 
 ### Related:
 

@@ -15,8 +15,8 @@ _Context: First Lady, Government of the United States, Hillary Clinton, Hurrican
 ### [ A cable car crash at Solden, Otztal, in the Austrian Alps leaves nine people dead when a helicopter carrying construction materials dropped concrete onto the cable. ](/news/2005/09/5/a-cable-car-crash-at-saplden-atztal-in-the-austrian-alps-leaves-nine-people-dead-when-a-helicopter-carrying-construction-materials-dropp.md)
 _Context: Alps, Austria, Otztal, Solden, cable car_
 
-### [ American jurist John G. Roberts, Jr. is nominated by US President George W. Bush as the next Chief Justice of the United States. [http://www.msnbc.msn.com/id/9215790/ (MSNBC)]  Bush withdrew Roberts' original nomination to succeed retiring Associate Justice Sandra Day O'Connor.](/news/2005/09/5/american-jurist-john-g-roberts-jr-is-nominated-by-us-president-george-w-bush-as-the-next-chief-justice-of-the-united-states-http-ww.md)
-_Context: Chief Justice, George W. Bush, John G. Roberts, Jr., Justice, Sandra Day O'Connor, U.S. President, jurist_
+### [ American jurist John G. Roberts, Jr. is nominated by US President George W. Bush as the next Chief Justice of the United States. ](/news/2005/09/5/american-jurist-john-g-roberts-jr-is-nominated-by-us-president-george-w-bush-as-the-next-chief-justice-of-the-united-states.md)
+The Senate will begin confirmation hearings next Monday for John Roberts to be Supreme Court chief justice, a week after President Bush selected him to replace the late William H. Rehnquist.
 
 ### [ Three teenage girls admit starting a fire in Paris on September 3 which left 16 people dead. ](/news/2005/09/5/three-teenage-girls-admit-starting-a-fire-in-paris-on-september-3-which-left-16-people-dead.md)
 _Context: Paris, September 3, teenage_

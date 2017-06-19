@@ -16,7 +16,7 @@ _Context: government_
 _Context: Amnesty International, Israel, criticised_
 
 ### [The Roundhouse in Chalk Farm, North London, vows to recognise Amy Winehouse's contribution to music by erecting a statue to her. ](/news/2012/06/8/the-roundhouse-in-chalk-farm-north-london-vows-to-recognise-amy-winehouse-s-contribution-to-music-by-erecting-a-statue-to-her.md)
-_Context: Amy Winehouse, Chalk Farm, North London, The Roundhouse_
+_Context: Amy Winehouse, Chalk Farm, The Roundhouse, north London_
 
 ### [Booker Prize winning writer of historical fiction Barry Unsworth dies in Italy. ](/news/2012/06/8/booker-prize-winning-writer-of-historical-fiction-barry-unsworth-dies-in-italy.md)
 _Context: Barry Unsworth, Booker Prize, Italy_

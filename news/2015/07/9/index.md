@@ -27,8 +27,8 @@ Ex-PM and opposition leader, both planning to challenge incumbent in 2016 poll, 
 ### [The US Court of Appeals for the 1st Circuit rules the ban in the region 2-1 unconstitutional, paving way for same-sex marriages. ](/news/2015/07/9/the-us-court-of-appeals-for-the-1st-circuit-rules-the-ban-in-the-region-2a1-unconstitutional-paving-way-for-same-sex-marriages.md)
 A federal appeals court on Wednesday ruled Puerto Rico&#039;s same-sex marriage ban is unconstitutional.
 
-### [The European Parliament rejects a plan to abolish Freedom of Panorama. [http://www.amateurphotographer.co.uk/latest/photo-news/european-parliament-rejects-absurd-eu-plan-to-axe-freedom-of-panorama-55708 (Amateur Photographer)][http://nos.nl/artikel/2046069-online-vakantiefoto-met-eiffeltoren-niet-strafbaar.html (NOS (Dutch))].](/news/2015/07/9/the-european-parliament-rejects-a-plan-to-abolish-freedom-of-panorama-http-www-amateurphotographer-co-uk-latest-photo-news-european-parl.md)
-_Context: Freedom of Panorama_
+### [The European Parliament rejects a plan to abolish Freedom of Panorama. ](/news/2015/07/9/the-european-parliament-rejects-a-plan-to-abolish-freedom-of-panorama.md)
+A majority of MEPs have voted against an EU plan which threatened Freedom of Panorama
 
 ### [The Thai consulate in Istanbul is attacked by Turkish protestors after about a hundred Uighurs were deported by Thailand back to China despite concerns over persecution.  ](/news/2015/07/9/the-thai-consulate-in-istanbul-is-attacked-by-turkish-protestors-after-about-a-hundred-uighurs-were-deported-by-thailand-back-to-china-despi.md)
 Turkish police fire pepper spray at pro-Uighur demonstrators outside the Chinese embassy in Ankara, hours after violence hit the Thai consulate.

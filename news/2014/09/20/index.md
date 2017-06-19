@@ -15,7 +15,7 @@ _Context: Blase Cupich, Francis Eugene George, Pope Francis, Roman Catholic Arch
 ### [Tropical Storm Fung-wong heads towards Taiwan after leaving five people dead and 200,000 displaced in the Philippines. ](/news/2014/09/20/tropical-storm-fung-wong-heads-towards-taiwan-after-leaving-five-people-dead-and-200-000-displaced-in-the-philippines.md)
 Tropical storm Fung-Wong churns towards Taiwan after killing at least five people in the Philippines.
 
-### [Two high-visibility U.S based law firms Bingham McCutchen of Boston, Massachusetts and Philadelphia's Morgan Lewis & Bockius, have decided to merge, according to a Reuters report relying on confidential sources. [http://www.reuters.com/article/2014/09/21/us-usa-law-firm-idUSKBN0HF0MT20140921 (Reuters)]. ](/news/2014/09/20/two-high-visibility-u-s-based-law-firms-bingham-mccutchen-of-boston-massachusetts-and-philadelphia-s-morgan-lewis-bockius-have-decided-t.md)
+### [Two high-visibility U.S based law firms Bingham McCutchen of Boston, Massachusetts and Philadelphia's Morgan Lewis & Bockius, have decided to merge, according to a Reuters report relying on confidential sources. ](/news/2014/09/20/two-high-visibility-u-s-based-law-firms-bingham-mccutchen-of-boston-massachusetts-and-philadelphia-s-morgan-lewis-bockius-have-decided-t.md)
 _Context: Bingham McCutchen, Boston, Massachusetts, Morgan Lewis & Bockius, Philadelphia, Reuters_
 
 ### [Voters in New Zealand go to the polls for a general election. ](/news/2014/09/20/voters-in-new-zealand-go-to-the-polls-for-a-general-election.md)

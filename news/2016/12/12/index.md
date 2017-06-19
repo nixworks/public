@@ -39,8 +39,8 @@ _Context: Inter-Services Intelligence, Pakistan_
 ### [Christine Lagarde, the managing director of the International Monetary Fund, goes on trial in France for alleged negligence as Finance Minister resulting in the loss of hundreds of millions of euros. ](/news/2016/12/12/christine-lagarde-the-managing-director-of-the-international-monetary-fund-goes-on-trial-in-france-for-alleged-negligence-as-finance-minis.md)
 Social Democratic Party won 46 percent of votes, according to preliminary results, a year after being forced from power.
 
-### [Aaron Schock, a former U.S. representative from Illinois's 18th congressional district, pleads not guilty on 24 charges including Mail fraud and tax evasion. [http://www.reuters.com/article/us-illinois-crime-idUSKBN1412S8 (Reuters)].](/news/2016/12/12/aaron-schock-a-former-u-s-representative-from-illinois-s-18th-congressional-district-pleads-not-guilty-on-24-charges-including-mail-fraud.md)
-_Context: Aaron Schock, Illinois's 18th congressional district, Mail fraud, tax evasion_
+### [Aaron Schock, a former U.S. representative from Illinois's 18th congressional district, pleads not guilty on 24 charges including Mail fraud and tax evasion. ](/news/2016/12/12/aaron-schock-a-former-u-s-representative-from-illinois-s-18th-congressional-district-pleads-not-guilty-on-24-charges-including-mail-fraud.md)
+A former U.S. representative whose lavish Washington office raised questions about use of taxpayer money pleaded not guilty on Monday to charges of defrauding the federal government and campaign committees, then trying to cover it up.
 
 ### [Jill Stein's bid to force a recount of the presidential election results in the state of Pennsylvania is rejected by a federal judge. ](/news/2016/12/12/jill-stein-s-bid-to-force-a-recount-of-the-presidential-election-results-in-the-state-of-pennsylvania-is-rejected-by-a-federal-judge.md)
 Decision poses another setback to Jill Stein&#39;s recount effort in Michigan, Pennsylvania and Wisconsin.

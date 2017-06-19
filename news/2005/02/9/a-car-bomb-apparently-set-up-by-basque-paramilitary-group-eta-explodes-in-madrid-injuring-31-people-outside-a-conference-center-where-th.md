@@ -1,9 +1,14 @@
 ### [2005-02-9](/news/2005/02/9/index.md)
 
-#  A car bomb, apparently set up by Basque paramilitary group ETA, explodes in Madrid, injuring 31 people outside a conference center where the King and Queen of Spain and President of Mexico were to open an exhibition later today. [http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7577444 (Reuters)] [http://news.bbc.co.uk/1/hi/world/europe/4249159.stm (BBC)].
+#  A car bomb, apparently set up by Basque paramilitary group ETA, explodes in Madrid, injuring 31 people outside a conference center where the King and Queen of Spain and President of Mexico were to open an exhibition later today. 
+
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
+### Source:
 
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4249159.stm)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7577444)
 
 ### Related:
 

@@ -1,9 +1,13 @@
 ### [2015-07-18](/news/2015/07/18/index.md)
 
-# In a failed suicide blast, a security guard intercepted a suicide bomber clad in female clothing attempting to enter Quetta's Hazara town, who then detonated their device that contained 6|to|7|kg|abbr=on of explosive material, killing themselves and the guard. [http://www.dawn.com/news/1195221/suicide-blast-at-quettas-brewery-road-kills-two (Dawn)].
+# In a failed suicide blast, a security guard intercepted a suicide bomber clad in female clothing attempting to enter Quetta's Hazara town, who then detonated their device that contained 6|to|7|kg|abbr=on of explosive material, killing themselves and the guard. 
+
+Attacker prematurely detonates explosives after interception by a security guard, while attempting to enter Hazara town.
 
 
+### Source:
 
+1. [Dawn](http://www.dawn.com/news/1195221/suicide-blast-at-quettas-brewery-road-kills-two)
 
 ### Related:
 

@@ -1,6 +1,6 @@
 ## [2006-01-8](/news/2006/01/8/index.md)
 
-### [ An estimated two million Muslims officially begin the annual pilgrimage, or hajj, in Mecca, Saudi Arabia [http://www.cnn.com/2006/WORLD/meast/01/08/hajj/index.html (CNN)].](/news/2006/01/8/an-estimated-two-million-muslims-officially-begin-the-annual-pilgrimage-or-hajj-in-mecca-saudi-arabia-http-www-cnn-com-2006-world-mea.md)
+### [ An estimated two million Muslims officially begin the annual pilgrimage, or hajj, in Mecca, Saudi Arabia ](/news/2006/01/8/an-estimated-two-million-muslims-officially-begin-the-annual-pilgrimage-or-hajj-in-mecca-saudi-arabia.md)
 _Context: Hajj, Mecca, Saudi Arabia_
 
 ### [ Singapore holds its largest civil counter-terrorism exercise, codenamed Exercise Northstar&nbsp;V, simulating bombing and chemical attacks at four Mass Rapid Transit stations and a bus interchange. Thirteen MRT stations and part of Toa Payoh Bus Interchange are closed for three hours, causing travel disruptions for over 15,000 commuters and triggering a response from some 2,000 personnel from 22 governmental organizations. ](/news/2006/01/8/singapore-holds-its-largest-civil-counter-terrorism-exercise-codenamed-exercise-northstar-nbsp-v-simulating-bombing-and-chemical-attacks.md)

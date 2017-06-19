@@ -1,9 +1,14 @@
 ### [2005-01-6](/news/2005/01/6/index.md)
 
-#  Former South African President Nelson Mandela breaks a strong taboo when he announces that the death at age 54 of his sole surviving son, Makgatho Mandela, was caused by AIDS, which kills about 600 people daily in South Africa. His action is viewed as being critical of his successor, Thabo Mbeki, who has denied a link between HIV and AIDS. [http://abcnews.go.com/US/wireStory?id=390040 (ABC)], [http://news.bbc.co.uk/1/hi/world/africa/4151159.stm (BBC)].
+#  Former South African President Nelson Mandela breaks a strong taboo when he announces that the death at age 54 of his sole surviving son, Makgatho Mandela, was caused by AIDS, which kills about 600 people daily in South Africa. His action is viewed as being critical of his successor, Thabo Mbeki, who has denied a link between HIV and AIDS. 
+
+Get the latest breaking news across the U.S. on ABCNews.com
 
 
+### Source:
 
+1. [ABC](http://abcnews.go.com/US/wireStory?id=390040)
+2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4151159.stm)
 
 ### Related:
 

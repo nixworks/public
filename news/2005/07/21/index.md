@@ -3,7 +3,7 @@
 ### [ In  Maharashtra, India, the state Assembly  unanimously adopts a Bill amending the Bombay Police Act, 1951 which will ban dance bars across the state. ](/news/2005/07/21/in-maharashtra-india-the-state-assembly-unanimously-adopts-a-bill-amending-the-bombay-police-act-1951-which-will-ban-dance-bars-across.md)
 _Context: Bombay Police, Maharashtra_
 
-### [ Kenyan legislators approve a constitution which critics say leaves too much power in the hands of the President. [http://news.bbc.co.uk/2/hi/africa/4705799.stm (BBC)].](/news/2005/07/21/kenyan-legislators-approve-a-constitution-which-critics-say-leaves-too-much-power-in-the-hands-of-the-president-http-news-bbc-co-uk-2-h.md)
+### [ Kenyan legislators approve a constitution which critics say leaves too much power in the hands of the President. ](/news/2005/07/21/kenyan-legislators-approve-a-constitution-which-critics-say-leaves-too-much-power-in-the-hands-of-the-president.md)
 _Context: President, constitution, lawmakers_
 
 ### [ German President Horst Khler agrees to dissolve parliament. He calls for earlier elections in mid-September 2005. ](/news/2005/07/21/german-president-horst-kohler-agrees-to-dissolve-parliament-he-calls-for-earlier-elections-in-mid-september-2005.md)

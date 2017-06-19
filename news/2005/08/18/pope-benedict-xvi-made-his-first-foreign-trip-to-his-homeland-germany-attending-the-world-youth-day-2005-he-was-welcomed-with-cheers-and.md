@@ -1,9 +1,13 @@
 ### [2005-08-18](/news/2005/08/18/index.md)
 
-#  Pope Benedict XVI made his first foreign trip to his homeland Germany, attending the World Youth Day 2005. He was welcomed with cheers and made several speeches to leaders of Germany and to pilgrims at the Rhine banks at a ship as well as in front of the Cologne cathedrale. - [http://news.bbc.co.uk/1/hi/in_pictures/4163022.stm BBC Pictures]; [http://news.bbc.co.uk/1/hi/world/europe/4161706.stm BBC News]; [http://www.msnbc.msn.com/id/8974211/ MSNBC].
+#  Pope Benedict XVI made his first foreign trip to his homeland Germany, attending the World Youth Day 2005. He was welcomed with cheers and made several speeches to leaders of Germany and to pilgrims at the Rhine banks at a ship as well as in front of the Cologne cathedrale. - 
 
 
 
+
+### Source:
+
+1. [BBC Pictures]; [http://news.bbc.co.uk/1/hi/world/europe/4161706.stm BBC News]; [http://www.msnbc.msn.com/id/8974211/ MSNBC](http://news.bbc.co.uk/1/hi/in_pictures/4163022.stm)
 
 ### Related:
 

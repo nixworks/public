@@ -72,7 +72,7 @@ _Context: Chinese President, Jiang Zemin, People's Republic of China_
 ### [Freedom Flotilla II: The Greek Coast Guard prevents the ship ''Dignity Al Karama'' from sailing to the Gaza Strip after it stops to refuel in Crete. ](/news/2011/07/7/freedom-flotilla-ii-the-greek-coast-guard-prevents-the-ship-dignity-al-karama-from-sailing-to-the-gaza-strip-after-it-stops-to-refuel-i.md)
 _Context: Crete, Freedom Flotilla II, Gaza Strip, Greek coast guard_
 
-### [The southern branch of Sudan's ruling National Congress Party announces its split from the northern party ahead of South Sudan's independence [http://english.aljazeera.net/indepth/spotlight/southernsudanindependence/2011/07/2011771214156975.html (Al Jazeera)].](/news/2011/07/7/the-southern-branch-of-sudan-s-ruling-national-congress-party-announces-its-split-from-the-northern-party-ahead-of-south-sudan-s-independenc.md)
+### [The southern branch of Sudan's ruling National Congress Party announces its split from the northern party ahead of South Sudan's independence ](/news/2011/07/7/the-southern-branch-of-sudan-s-ruling-national-congress-party-announces-its-split-from-the-northern-party-ahead-of-south-sudan-s-independenc.md)
 _Context: National Congress Party, South Sudan_
 
 ### [The molecular basis for the breakage of DNA, an important process in the development of cancer, has been identified by Hebrew University of Jerusalem scientists. ](/news/2011/07/7/the-molecular-basis-for-the-breakage-of-dna-an-important-process-in-the-development-of-cancer-has-been-identified-by-hebrew-university-of.md)

@@ -27,7 +27,7 @@ _Context: Fiji, Fijian, Indo-Fijian_
 ### [An Islamic Republic of Iran Air Force F4 aircraft crashes in the southern province of Bushehr; both pilots survive. ](/news/2010/08/17/an-islamic-republic-of-iran-air-force-f4-aircraft-crashes-in-the-southern-province-of-bushehr-both-pilots-survive.md)
 _Context: Bushehr, Iranian Air Force_
 
-### [Tornado has swept threw south western part of Lithuania, near city of Rusne [http://www.delfi.lt/news/daily/lithuania/virs-rusnes-prauze-viesulas.d?id=35586121 (Delfi)].](/news/2010/08/17/tornado-has-swept-threw-south-western-part-of-lithuania-near-city-of-rusna-http-www-delfi-lt-news-daily-lithuania-virs-rusnes-prauze-vi.md)
+### [Tornado has swept threw south western part of Lithuania, near city of Rusne ](/news/2010/08/17/tornado-has-swept-threw-south-western-part-of-lithuania-near-city-of-rusna.md)
 _Context: Lithuania, Rusne, tornado_
 
 ### [A train derails in Sudbury, Suffolk, UK after hitting a sewage truck on a level crossing, injuring 18 people. Main article: 2010 Sudbury train accident.](/news/2010/08/17/a-train-derails-in-sudbury-suffolk-uk-after-hitting-a-sewage-truck-on-a-level-crossing-injuring-18-people-main-article-2010-sudbury-tra.md)

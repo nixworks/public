@@ -18,6 +18,9 @@ The commander of the U.S. Navy&#039;s 7th Fleet says that search and rescue effo
 ### [The death toll from forest fires in Pedrogao Grande, central Portugal, rises to at least 62. Many victims were trapped on the road between the towns of Figueiro dos Vinhos and Castanheira de Pera. ](/news/2017/06/18/the-death-toll-from-forest-fires-in-pedra3gapso-grande-central-portugal-rises-to-at-least-62-many-victims-were-trapped-on-the-road-between.md)
 Many died in their cars while fleeing the fire, which may have been started by a thunderstorm.
 
+### [An earthquake and tsunami strike Greenland leaving at least 4 dead. ](/news/2017/06/18/an-earthquake-and-tsunami-strike-greenland-leaving-at-least-4-dead.md)
+Four people are feared dead after tsunami waves struck the coast of Greenland on Saturday night.
+
 ### [A North Korean soldier defects to South Korea after swimming across the Han River, the second North Korean defection in a week. ](/news/2017/06/18/a-north-korean-soldier-defects-to-south-korea-after-swimming-across-the-han-river-the-second-north-korean-defection-in-a-week.md)
 The man swam with foam attached to his shoulders to help him stay afloat, officials say.
 

@@ -3,10 +3,10 @@
 ### [ A suicide bomber explodes himself at the entrance of the "Stage" club in Tel Aviv, killing at least 4 Israelis and wounding 38 more. Responsibility is reportedly claimed by Islamic Jihad. ](/news/2005/02/25/a-suicide-bomber-explodes-himself-at-the-entrance-of-the-stage-club-in-tel-aviv-killing-at-least-4-israelis-and-wounding-38-more-respon.md)
 _Context: Palestinian Islamic Jihad, Tel Aviv, suicide bomber_
 
-### [ At Amsterdam's Schiphol airport an armoured car is hijacked on the cargo ramp. Unconfirmed reports say that it contained diamonds and other gems worth at least 75 million euros (US$99 million). The vehicle was later recovered in the nearby town of Hoofddorp. [http://news.bbc.co.uk/1/hi/world/europe/4298991.stm (BBC)], [http://news.scotsman.com/latest.cfm?id=4179964 (Scotsman)].](/news/2005/02/25/at-amsterdam-s-schiphol-airport-an-armoured-car-is-hijacked-on-the-cargo-ramp-unconfirmed-reports-say-that-it-contained-diamonds-and-other.md)
+### [ At Amsterdam's Schiphol airport an armoured car is hijacked on the cargo ramp. Unconfirmed reports say that it contained diamonds and other gems worth at least 75 million euros (US$99 million). The vehicle was later recovered in the nearby town of Hoofddorp. ](/news/2005/02/25/at-amsterdam-s-schiphol-airport-an-armoured-car-is-hijacked-on-the-cargo-ramp-unconfirmed-reports-say-that-it-contained-diamonds-and-other.md)
 _Context: Amsterdam, Hoofddorp, Schiphol airport, euro_
 
-### [ Three British soldiers convicted earlier this week of abusing Iraqi prisoners are jailed for periods between five months and two years, and dismissed from the army. [http://news.bbc.co.uk/1/hi/uk/4296511.stm (BBC)].](/news/2005/02/25/three-british-soldiers-convicted-earlier-this-week-of-abusing-iraqi-prisoners-are-jailed-for-periods-between-five-months-and-two-years-and.md)
+### [ Three British soldiers convicted earlier this week of abusing Iraqi prisoners are jailed for periods between five months and two years, and dismissed from the army. ](/news/2005/02/25/three-british-soldiers-convicted-earlier-this-week-of-abusing-iraqi-prisoners-are-jailed-for-periods-between-five-months-and-two-years-and.md)
 _Context: Iraq, United Kingdom_
 
 ### [ Human Rights Watch states that tough methods of Thai leader Thaksin Shinawatra in the south of the country may serve to invite more trouble ](/news/2005/02/25/human-rights-watch-states-that-tough-methods-of-thai-leader-thaksin-shinawatra-in-the-south-of-the-country-may-serve-to-invite-more-trouble.md)

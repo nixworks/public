@@ -1,9 +1,13 @@
 ### [2015-01-5](/news/2015/01/5/index.md)
 
-# After being grounded in Abu Dhabi for over 12 hours with all passengers onboard, Etihad Airways Flight 183 completes its flight to San Francisco International Airport. [http://kron4.com/2015/01/05/nightmare-28-hour-flight-finally-arrives-in-san-francisco/ (KRON)].
+# After being grounded in Abu Dhabi for over 12 hours with all passengers onboard, Etihad Airways Flight 183 completes its flight to San Francisco International Airport. 
+
+SAN FRANCISCO (KRON) &#8212; Passengers who spent more than a full day on board a stranded airliner are now telling horror stories about the experience after finally arriving at SFO. The people who…
 
 
+### Source:
 
+1. [KRON](http://kron4.com/2015/01/05/nightmare-28-hour-flight-finally-arrives-in-san-francisco/)
 
 ### Related:
 

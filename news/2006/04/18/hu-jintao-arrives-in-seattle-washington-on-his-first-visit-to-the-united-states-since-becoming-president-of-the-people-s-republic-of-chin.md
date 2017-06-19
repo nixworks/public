@@ -1,9 +1,13 @@
 ### [2006-04-18](/news/2006/04/18/index.md)
 
-#  Hu Jintao arrives in Seattle, Washington, on his first visit to the United States since becoming President of the People's Republic of China in 2003. [https://web.archive.org/web/20061017232602/http://www.cnn.com/2006/WORLD/asiapcf/04/18/china.hu.visit/index.html (CNN)].
+#  Hu Jintao arrives in Seattle, Washington, on his first visit to the United States since becoming President of the People's Republic of China in 2003. 
 
 
 
+
+### Source:
+
+1. [CNN](https://web.archive.org/web/20061017232602/http://www.cnn.com/2006/WORLD/asiapcf/04/18/china.hu.visit/index.html)
 
 ### Related:
 

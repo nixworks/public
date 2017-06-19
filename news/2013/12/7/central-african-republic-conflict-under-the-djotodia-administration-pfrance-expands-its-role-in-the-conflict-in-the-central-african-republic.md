@@ -1,9 +1,13 @@
 ### [2013-12-7](/news/2013/12/7/index.md)
 
-# Central African Republic conflict under the Djotodia administration:France expands its role in the conflict in the Central African Republic.  [http://www.bbc.co.uk/news/world-africa-25281959 BBC News].
+# Central African Republic conflict under the Djotodia administration:France expands its role in the conflict in the Central African Republic.  
+
+A reinforced French force in the Central African Republic expands operations in the capital and beyond, to try to end deadly sectarian fighting.
 
 
+### Source:
 
+1. [BBC News](http://www.bbc.co.uk/news/world-africa-25281959)
 
 ### Related:
 

@@ -1,6 +1,6 @@
 ## [2005-02-28](/news/2005/02/28/index.md)
 
-### [ Country Reports on Human Rights Practices released by the U.S. State Department [http://www.state.gov/g/rls/rm/2005/42793.htm (U.S. State Department)].](/news/2005/02/28/country-reports-on-human-rights-practices-released-by-the-u-s-state-department-http-www-state-gov-g-rls-rm-2005-42793-htm-u-s-state-d.md)
+### [ Country Reports on Human Rights Practices released by the U.S. State Department ](/news/2005/02/28/country-reports-on-human-rights-practices-released-by-the-u-s-state-department.md)
 _Context: Country Reports on Human Rights Practices_
 
 ### [ Steve Fossett prepares to set off on his attempt to be the first person to circumnavigate the globe, without refuelling, in a jet-powered plane &ndash; the Virgin Atlantic GlobalFlyer. ](/news/2005/02/28/steve-fossett-prepares-to-set-off-on-his-attempt-to-be-the-first-person-to-circumnavigate-the-globe-without-refuelling-in-a-jet-powered-p.md)

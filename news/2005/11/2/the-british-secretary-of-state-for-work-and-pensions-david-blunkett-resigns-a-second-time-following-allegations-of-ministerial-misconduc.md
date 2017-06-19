@@ -1,9 +1,13 @@
 ### [2005-11-2](/news/2005/11/2/index.md)
 
-#  The British Secretary of State for Work and Pensions, David Blunkett, resigns a second time, following allegations of ministerial misconduct over his directorship and purchase of shares in a bioscience company. John Hutton is named as his replacement. [http://www.ipe.com/default.asp?article=19723 (Investment & Pensions Europe)].
+#  The British Secretary of State for Work and Pensions, David Blunkett, resigns a second time, following allegations of ministerial misconduct over his directorship and purchase of shares in a bioscience company. John Hutton is named as his replacement. 
 
 
 
+
+### Source:
+
+1. [Investment & Pensions Europe](http://www.ipe.com/default.asp?article=19723)
 
 ### Related:
 

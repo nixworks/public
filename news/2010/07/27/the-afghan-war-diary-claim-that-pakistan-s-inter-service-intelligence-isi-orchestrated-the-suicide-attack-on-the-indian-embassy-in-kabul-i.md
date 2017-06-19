@@ -1,9 +1,13 @@
 ### [2010-07-27](/news/2010/07/27/index.md)
 
-# The Afghan War Diary claim that Pakistan's Inter-Service Intelligence (ISI) orchestrated the suicide attack on the Indian embassy in Kabul in 2008, which left 40 dead. [http://english.samaylive.com/world/676469784.html (samaylive)].
+# The Afghan War Diary claim that Pakistan's Inter-Service Intelligence (ISI) orchestrated the suicide attack on the Indian embassy in Kabul in 2008, which left 40 dead. 
 
 
 
+
+### Source:
+
+1. [samaylive](http://english.samaylive.com/world/676469784.html)
 
 ### Related:
 

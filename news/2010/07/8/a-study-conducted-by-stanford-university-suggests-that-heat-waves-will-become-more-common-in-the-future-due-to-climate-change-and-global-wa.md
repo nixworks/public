@@ -1,9 +1,13 @@
 ### [2010-07-8](/news/2010/07/8/index.md)
 
-# A study conducted by Stanford University suggests that heat waves will become more common in the future, due to climate change and global warming. [http://www.msnbc.msn.com/id/38154121/ns/us_news-environment/ (MSNBC)]  See Climate change mitigation scenarios.
+# A study conducted by Stanford University suggests that heat waves will become more common in the future, due to climate change and global warming. 
+
+Within 30 years, average temperature could be 3.6 degrees Fahrenheit higher than in the mid-1800s, a Stanford study concludes.
 
 
+### Source:
 
+1. [MSNBC](http://www.msnbc.msn.com/id/38154121/ns/us_news-environment/)
 
 ### Related:
 

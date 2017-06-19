@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Members of the Janjaweed militia attack Sudanese refugees from the Darfur region in eastern Chad. [http://news.bbc.co.uk/2/hi/africa/6042096.stm (BBC)]. ](/news/2006/10/12/members-of-the-janjaweed-militia-attack-sudanese-refugees-from-the-darfur-region-in-eastern-chad-http-news-bbc-co-uk-2-hi-africa-604209.md) _Context: Chad, Janjaweed_
+1. [ Members of the Janjaweed militia attack Sudanese refugees from the Darfur region in eastern Chad. ](/news/2006/10/12/members-of-the-janjaweed-militia-attack-sudanese-refugees-from-the-darfur-region-in-eastern-chad.md) _Context: Chad, Janjaweed_
 2. [  The Sudanese Janjaweed steal 350 head of cattle from Goz Beida, Chad. ](/news/2006/06/6/the-sudanese-janjaweed-steal-350-head-of-cattle-from-goz-beida-chad.md) _Context: Chad, Janjaweed_
 3. [ Human Rights Watch estimates that several hundred civilians in eastern Chad have been massacred by Sudanese Janjaweed and UFDC attacks in the past week alone. HRW also accuses the Government of Sudan of using child soldiers. HRW Africa Director Peter Takirambudde refers to the attacks as "havoc," and that civilians "are trapped between the carnage in Darfur and Chad's downward spiral into chaos." ](/news/2006/06/23/human-rights-watch-estimates-that-several-hundred-civilians-in-eastern-chad-have-been-massacred-by-sudanese-janjaweed-and-ufdc-attacks-in-t.md) _Context: Chad, Janjaweed_
 4. [ The Government of Chad demands that the Security Council act to stop Janjaweed and UFDC incursions into Chad. ](/news/2006/06/21/the-government-of-chad-demands-that-the-security-council-act-to-stop-janjaweed-and-ufdc-incursions-into-chad.md) _Context: Chad, Janjaweed_

@@ -24,8 +24,8 @@ US investigators working with Interpol are understood to have tracked 200 bank a
 ### [Release of The War Logs:Wikileaks releases over 92,000 documents detailing unreported killings of hundreds of Afghan civilians and other incidents related to the war in Afghanistan to ''The Guardian'', ''The New York Times'' and ''Der Spiegel'', in one of the biggest leaks in U.S. military history. ](/news/2010/07/26/release-of-the-war-logs-pwikileaks-releases-over-92-000-documents-detailing-unreported-killings-of-hundreds-of-afghan-civilians-and-other-in.md)
 More than 90,000 secret US military records are leaked to the media by Wikileaks, revealing unreported details of the war in Afghanistan.
 
-### [Opening of the 15th Congress of the Philippines: [http://www.channelnewsasia.com/stories/afp_asiapacific/view/1071594/1/.html Channel NewsAsia]Juan Ponce Enrile is elected as Senate Feliciano Belmonte is elected Speaker of the House of Representatives.President Benigno Aquino III delivers his first State of the Nation Address.](/news/2010/07/26/opening-of-the-15th-congress-of-the-philippines-http-www-channelnewsasia-com-stories-afp_asiapacific-view-1071594-1-html-channel-newsas.md)
-_Context: 15th Congress of the Philippines, Benigno Aquino III, Feliciano Belmonte, Juan Ponce Enrile, President, President of the Philippines, Senate, Speaker, State of the Nation Address, congresswoman_
+### [Opening of the 15th Congress of the Philippines: ](/news/2010/07/26/opening-of-the-15th-congress-of-the-philippines.md)
+_Context: 15th Congress of the Philippines_
 
 ### [The ''Plastiki'', a catamaran made out of recycled plastic, arrives in Sydney, Australia, after travelling across the Pacific Ocean from San Francisco, United States, to raise awareness of environmental issues. ](/news/2010/07/26/the-plastiki-a-catamaran-made-out-of-recycled-plastic-arrives-in-sydney-australia-after-travelling-across-the-pacific-ocean-from-san.md)
 _Context: Australia, Pacific, Plastiki, San Francisco, California, Sydney, United States, catamaran, environmental, plastic, recycling_

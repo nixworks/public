@@ -1,9 +1,16 @@
 ### [2011-02-26](/news/2011/02/26/index.md)
 
-# The United Nations Security Council, after the defected Libyan Ambassador to the UN Abdel Rahman Mohamed Shalgam's appeal to act against Muammar Gaddafi's regime escalating violence, being used to crackdown the 2011 Libyan civil war, and following propositions by France, Germany, United Kingdom and the United States, adopts resolution 1970, [http://www.un.org/News/Press/docs/2011/sc10187.doc.htm (UN press release on UNSC resolution 1970)] [http://www.bbc.co.uk/news/world-africa-12587078 (BBC)] [http://www.bbc.co.uk/news/world-africa-12589434 (BBC)] [http://www.unmultimedia.org/tv/webcast/ (UN Multimedia)]. "All necessary means" enforcement of said resolution, and imposition of a "No-fly zone" over Libya are rejected. These measures will be however included on UNSC resolution 1973 of 17 March 2011.
+# The United Nations Security Council, after the defected Libyan Ambassador to the UN Abdel Rahman Mohamed Shalgam's appeal to act against Muammar Gaddafi's regime escalating violence, being used to crackdown the 2011 Libyan civil war, and following propositions by France, Germany, United Kingdom and the United States, adopts resolution 1970, 
 
 
 
+
+### Source:
+
+1. [BBC](http://www.bbc.co.uk/news/world-africa-12587078)
+2. [BBC](http://www.bbc.co.uk/news/world-africa-12589434)
+3. [UN Multimedia](http://www.unmultimedia.org/tv/webcast/)
+4. [UN press release on UNSC resolution 1970](http://www.un.org/News/Press/docs/2011/sc10187.doc.htm)
 
 ### Related:
 

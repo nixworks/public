@@ -1,6 +1,6 @@
 ### [2003-12-12](/news/2003/12/12/index.md)
 
-# A European Union defence policy is agreed upon by Britain, France and Germany at the beginning of an EU summit in Brussels where the member countries will discuss a forthcoming constitution for the EU. Defence policy: [http://news.bbc.co.uk/2/hi/europe/3312265.stm]; EU constitution: [http://news.bbc.co.uk/2/hi/europe/3252628.stm]. 
+# A European Union defence policy is agreed upon by Britain, France and Germany at the beginning of an EU summit in Brussels where the member countries will discuss a forthcoming constitution for the EU. Defence policy: 
 
 
 

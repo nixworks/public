@@ -1,9 +1,13 @@
 ### [2006-02-16](/news/2006/02/16/index.md)
 
-#  Bolkestein directive: 391 MEP vote for the new directive against 213 (among them the Party of the European Left, the European Green Party and the French Socialist Party). The controversial "country of origin principle", which had led to the Polish plumber controversy, was abandoned, although the current legislation still favorize it [http://news.bbc.co.uk/1/hi/world/europe/4717978.stm (BBC)].
+#  Bolkestein directive: 391 MEP vote for the new directive against 213 (among them the Party of the European Left, the European Green Party and the French Socialist Party). The controversial "country of origin principle", which had led to the Polish plumber controversy, was abandoned, although the current legislation still favorize it 
 
 
 
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4717978.stm)
 
 ### Related:
 

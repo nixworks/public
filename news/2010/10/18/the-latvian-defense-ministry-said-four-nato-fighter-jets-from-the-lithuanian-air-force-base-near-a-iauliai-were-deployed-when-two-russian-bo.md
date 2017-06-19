@@ -1,9 +1,13 @@
 ### [2010-10-18](/news/2010/10/18/index.md)
 
-# The Latvian Defense Ministry said four NATO fighter jets from the Lithuanian Air Force Base near Siauliai were deployed when two Russian bombers flying in the neutral airspace almost entered Latvian air space. [http://www.15min.lt/naujiena/aktualu/lietuva/dviem-rusijos-bombonesiams-priartejus-prie-latvijos-i-ora-buvo-pakelti-nato-naikintuvai-is-siauliu-56-120474 (15 min)].
+# The Latvian Defense Ministry said four NATO fighter jets from the Lithuanian Air Force Base near Siauliai were deployed when two Russian bombers flying in the neutral airspace almost entered Latvian air space. 
 
 
 
+
+### Source:
+
+1. [15 min](http://www.15min.lt/naujiena/aktualu/lietuva/dviem-rusijos-bombonesiams-priartejus-prie-latvijos-i-ora-buvo-pakelti-nato-naikintuvai-is-siauliu-56-120474)
 
 ### Related:
 

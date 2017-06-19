@@ -1,9 +1,15 @@
 ### [2005-08-23](/news/2005/08/23/index.md)
 
-#  At least 41 die when TANS Peru Flight 204, a Boeing 737-200, crashes near Pucallpa, Peru, with 100 on board.  It was the fifth major airline accident this month. [http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-24T000712Z_01_MCC383700_RTRIDST_0_INTERNATIONAL-PERU-DC.XML (Reuters)] (Link dead as of 21:38, 14 January 2007 (UTC)), [http://news.bbc.co.uk/2/hi/americas/4178868.stm (BBC)], [http://edition.cnn.com/2005/WORLD/americas/08/24/peru.crash/index.html (CNN)].
+#  At least 41 die when TANS Peru Flight 204, a Boeing 737-200, crashes near Pucallpa, Peru, with 100 on board.  It was the fifth major airline accident this month. 
+
+Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
+### Source:
 
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/4178868.stm)
+2. [CNN](http://edition.cnn.com/2005/WORLD/americas/08/24/peru.crash/index.html)
+3. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-24T000712Z_01_MCC383700_RTRIDST_0_INTERNATIONAL-PERU-DC.XML)
 
 ### Related:
 

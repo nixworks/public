@@ -1,9 +1,13 @@
 ### [2015-11-14](/news/2015/11/14/index.md)
 
-# Police in South Korea fire tear gas and water cannons at anti-government protesters in Seoul. Around 70,000 people took part in the protests, the largest in Seoul since the 2008 US beef protest in South Korea. [http://www.csmonitor.com/World/Asia-Pacific/2015/1114/Tens-of-thousands-anti-government-protesters-march-through-South-Korea-s-capital (Christian Science Monitor)].
+# Police in South Korea fire tear gas and water cannons at anti-government protesters in Seoul. Around 70,000 people took part in the protests, the largest in Seoul since the 2008 US beef protest in South Korea. 
 
 
 
+
+### Source:
+
+1. [Christian Science Monitor](http://www.csmonitor.com/World/Asia-Pacific/2015/1114/Tens-of-thousands-anti-government-protesters-march-through-South-Korea-s-capital)
 
 ### Related:
 

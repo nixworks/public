@@ -1,9 +1,13 @@
 ### [2005-01-28](/news/2005/01/28/index.md)
 
-#  Kim Beazley is re-elected to the leadership of the Australian Labor Party unopposed, succeeding Mark Latham, in the fourth leadership change since losing government in 1996. [http://www.abc.net.au/news/newsitems/200501/s1291120.htm (ABC News)].
+#  Kim Beazley is re-elected to the leadership of the Australian Labor Party unopposed, succeeding Mark Latham, in the fourth leadership change since losing government in 1996. 
 
 
 
+
+### Source:
+
+1. [ABC News](http://www.abc.net.au/news/newsitems/200501/s1291120.htm)
 
 ### Related:
 
@@ -11,7 +15,7 @@
 2. [ Mark Latham is elected to succeed Simon Crean as the new leader of the opposition Australian Labor Party, defeating former leader Kim Beazley by 47 votes to 45. In 2004 Latham will face Liberal Prime Minister John Howard at a general election. [http://www.smh.com.au/articles/2003/12/02/1070127386800.html]](/news/2003/12/2/mark-latham-is-elected-to-succeed-simon-crean-as-the-new-leader-of-the-opposition-australian-labor-party-defeating-former-leader-kim-beazl.md) _Context: Kim Beazley, Labor Party, Mark Latham_
 3. [ Kevin Rudd is elected as the new leader of the Federal Australian Labor Party with the caucus electing him by 49 votes to 39 votes for Kim Beazley. Julia Gillard is the new deputy leader. ](/news/2006/12/4/kevin-rudd-is-elected-as-the-new-leader-of-the-federal-australian-labor-party-with-the-caucus-electing-him-by-49-votes-to-39-votes-for-kim.md) _Context: Kim Beazley, Labor Party_
 4. [ Kim Beazley calls a vote for the leadership of the Federal Australian Labor Party for Monday. He will face a challenge from Kevin Rudd, the Opposition spokesman on foreign affairs. Jenny Macklin faces a challenge from Julia Gillard for the Deputy Leadership. ](/news/2006/12/1/kim-beazley-calls-a-vote-for-the-leadership-of-the-federal-australian-labor-party-for-monday-he-will-face-a-challenge-from-kevin-rudd-the.md) _Context: Kim Beazley, Labor Party_
-5. [ Australia: The Australian Broadcasting Corporation rushed to air its interview with former Labor Party Opposition leader Mark Latham after fending off legal challenges from News Corporation, publishers of ''The Australian'' and the ''Herald Sun''. [http://www.theage.com.au/news/national/legal-battle-to-ban-latham-show-fails/2005/09/15/1126750082275.html (The Age)] [http://www.abc.net.au/news/newsitems/200509/s1461400.htm (ABC News)].](/news/2005/09/15/australia-the-australian-broadcasting-corporation-rushed-to-air-its-interview-with-former-labor-party-opposition-leader-mark-latham-after.md) _Context: Labor Party, Mark Latham_
+5. [ Australia: The Australian Broadcasting Corporation rushed to air its interview with former Labor Party Opposition leader Mark Latham after fending off legal challenges from News Corporation, publishers of ''The Australian'' and the ''Herald Sun''. ](/news/2005/09/15/australia-the-australian-broadcasting-corporation-rushed-to-air-its-interview-with-former-labor-party-opposition-leader-mark-latham-after.md) _Context: Labor Party, Mark Latham_
 6. [After eight years in power, the Liberal Party is defeated by the Labor Party in a landslide election. Mark McGowan is set to become the Australian state's new Premier. ](/news/2017/03/11/after-eight-years-in-power-the-liberal-party-is-defeated-by-the-labor-party-in-a-landslide-election-mark-mcgowan-is-set-to-become-the-aust.md) _Context: Labor Party_
 7. [  The opposition Australian Labor Party defeats the governing Country Liberal Party in a landslide, reducing the CLP to just two seats. ](/news/2016/08/27/the-opposition-australian-labor-party-defeats-the-governing-country-liberal-party-in-a-landslide-reducing-the-clp-to-just-two-seats.md) _Context: Labor Party_
 8. [Australian Prime Minister Malcolm Turnbull's Liberal/National coalition, behind Bill Shorten's Labor Party in the first 48 hours following Saturday's election, is now ahead of Labor in the Lower House, 74-71 seats; 76 seats are needed to form a government. Minor parties and independents have won five seats;  mail-in and absentee votes are still being counted. Turnbull is on the road today seeking support from a small handful of independent and small party lawmakers. ](/news/2016/07/7/australian-prime-minister-malcolm-turnbull-s-liberal-national-coalition-behind-bill-shorten-s-labor-party-in-the-first-48-hours-following-s.md) _Context: Labor Party_

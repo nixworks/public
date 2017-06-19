@@ -1,9 +1,13 @@
 ### [2002-08-31](/news/2002/08/31/index.md)
 
-#  Israeli-Palestinian conflict:  A think tank affiliated with the Arab League ended its meeting in Cairo by calling Jews "enemies of all nations", by claiming that Arabs, as Semites, cannot be anti-Semitic, and by claiming that the events of September 11, 2001 were concocted by the United States government.  See [http://www.zccf.org.ae/LECTURES/E2_lectures/e255.htm http://www.zccf.org.ae/LECTURES/E2_lectures/e255.htm].
+#  Israeli-Palestinian conflict:  A think tank affiliated with the Arab League ended its meeting in Cairo by calling Jews "enemies of all nations", by claiming that Arabs, as Semites, cannot be anti-Semitic, and by claiming that the events of September 11, 2001 were concocted by the United States government.  See 
 
 
 
+
+### Source:
+
+1. [http://www.zccf.org.ae/LECTURES/E2_lectures/e255.htm](http://www.zccf.org.ae/LECTURES/E2_lectures/e255.htm)
 
 ### Related:
 

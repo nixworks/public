@@ -21,7 +21,7 @@ _Context: Mumbai train bombings_
 ### [ U.S. broadcaster Robert Novak says Deputy Chief of Staff Karl Rove was not the primary source for the Plame leak. ](/news/2006/07/12/u-s-broadcaster-robert-novak-says-deputy-chief-of-staff-karl-rove-was-not-the-primary-source-for-the-plame-leak.md)
 _Context: CIA leak scandal, Karl Rove, Robert Novak_
 
-### [ The Japanese national government announces it will introduce a satellite system that will warn residents of incoming missiles, earthquakes, and other disasters in a 200 million yen program named "J-ALERT". [http://mdn.mainichi-msn.co.jp/national/archive/news/2006/07/12/20060712p2a00m0na011000c.html (Mainichi Daily News)].](/news/2006/07/12/the-japanese-national-government-announces-it-will-introduce-a-satellite-system-that-will-warn-residents-of-incoming-missiles-earthquakes.md)
+### [ The Japanese national government announces it will introduce a satellite system that will warn residents of incoming missiles, earthquakes, and other disasters in a 200 million yen program named "J-ALERT". ](/news/2006/07/12/the-japanese-national-government-announces-it-will-introduce-a-satellite-system-that-will-warn-residents-of-incoming-missiles-earthquakes.md)
 _Context: Japan_
 
 ### [ Iraqi security forces discover the bodies of 20 bus drivers kidnapped earlier in the week. Three kidnap victims are freed. ](/news/2006/07/12/iraqi-security-forces-discover-the-bodies-of-20-bus-drivers-kidnapped-earlier-in-the-week-three-kidnap-victims-are-freed.md)

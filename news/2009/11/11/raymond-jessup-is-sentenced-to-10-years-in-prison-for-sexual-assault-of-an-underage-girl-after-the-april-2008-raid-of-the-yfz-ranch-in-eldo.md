@@ -1,9 +1,13 @@
 ### [2009-11-11](/news/2009/11/11/index.md)
 
-#  Raymond Jessup is sentenced to 10 years in prison for sexual assault of an underage girl after the April 2008 raid of the YFZ Ranch in Eldorado, Texas. [http://www.upi.com/Top_News/US/2009/11/11/Polygamist-gets-10-years-for-marrying-teen/UPI-28921257920937// (UPI)].
+#  Raymond Jessup is sentenced to 10 years in prison for sexual assault of an underage girl after the April 2008 raid of the YFZ Ranch in Eldorado, Texas. 
+
+The first dissident Mormon to be convicted of sexually assaulting a child at a Texas compound was sentenced to 10 years in prison Tuesday.
 
 
+### Source:
 
+1. [UPI](http://www.upi.com/Top_News/US/2009/11/11/Polygamist-gets-10-years-for-marrying-teen/UPI-28921257920937//)
 
 ### Related:
 

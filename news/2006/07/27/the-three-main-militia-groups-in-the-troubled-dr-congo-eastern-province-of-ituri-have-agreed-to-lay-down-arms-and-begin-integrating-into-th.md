@@ -1,9 +1,13 @@
 ### [2006-07-27](/news/2006/07/27/index.md)
 
-#  The three main militia groups in the troubled DR Congo eastern province of Ituri have agreed to lay down arms and begin integrating into the Congolese army.[http://news.bbc.co.uk/2/hi/africa/5219076.stm (BBC)].
+#  The three main militia groups in the troubled DR Congo eastern province of Ituri have agreed to lay down arms and begin integrating into the Congolese army.
 
 
 
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/africa/5219076.stm)
 
 ### Related:
 

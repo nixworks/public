@@ -18,7 +18,7 @@ _Context: Condoleezza Rice, Dick Cheney, Donald Rumsfeld, European Parliament, L
 ### [ In the long running dispute over Iran's nuclear program, the ambassador of the United States to India, David Mulford, has warned India to back the US plan to refer Iran to the United Nations Security Council or face cancellation of a US-India nuclear deal.](/news/2006/01/26/in-the-long-running-dispute-over-iran-s-nuclear-program-the-ambassador-of-the-united-states-to-india-david-mulford-has-warned-india-to-b.md)
 _Context: David Mulford, Iran's nuclear program, United Nations Security Council_
 
-### [ India's foreign ministry calls the comments inapproapiate and summons the ambassador to Delhi for an explanation [http://news.bbc.co.uk/2/hi/south_asia/4649742.stm (BBC news)].](/news/2006/01/26/india-s-foreign-ministry-calls-the-comments-inapproapiate-and-summons-the-ambassador-to-delhi-for-an-explanation-http-news-bbc-co-uk-2-h.md)
+### [ India's foreign ministry calls the comments inapproapiate and summons the ambassador to Delhi for an explanation ](/news/2006/01/26/india-s-foreign-ministry-calls-the-comments-inapproapiate-and-summons-the-ambassador-to-delhi-for-an-explanation.md)
 _Context: Delhi_
 
 ### [ The Foreign Ministry of China says "We oppose impulsively using sanctions or threats of sanctions to solve problems" and also indicates that they would support Russian efforts to resolve the dispute. ](/news/2006/01/26/the-foreign-ministry-of-china-says-we-oppose-impulsively-using-sanctions-or-threats-of-sanctions-to-solve-problems-and-also-indicates-tha.md)

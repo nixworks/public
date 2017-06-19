@@ -1,9 +1,14 @@
 ### [2006-12-16](/news/2006/12/16/index.md)
 
-#  ''Time'' names "You" - contributors of user-generated content to websites such as YouTube and Wikipedia - as its ''Person of the Year''. [http://www.time.com/time/magazine/article/0,9171,1569514,00.html (Time)], [http://www.msnbc.msn.com/id/16242528/ (MSNBC)]. 
+#  ''Time'' names "You" - contributors of user-generated content to websites such as YouTube and Wikipedia - as its ''Person of the Year''. 
+
+You were named Time magazine &#8220;Person of the Year&#8221; on Saturday for the explosive growth and influence of user-generated Internet content such as blogs, video-file sharing site YouTube and social network MySpace.
 
 
+### Source:
 
+1. [MSNBC](http://www.msnbc.msn.com/id/16242528/)
+2. [Time](http://www.time.com/time/magazine/article/0,9171,1569514,00.html)
 
 ### Related:
 

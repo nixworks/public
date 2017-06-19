@@ -33,8 +33,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [An avalanche near the Rettenbach glacier in the Austrian Alps, kills two prospects for the United States ski team, Ronnie Berlack and Bryce Astle. ](/news/2015/01/5/an-avalanche-near-the-rettenbach-glacier-in-the-austrian-alps-kills-two-prospects-for-the-united-states-ski-team-ronnie-berlack-and-bryce.md)
 _Context: Austrian Alps, Rettenbach glacier, United States, avalanche, ski_
 
-### [After being grounded in Abu Dhabi for over 12 hours with all passengers onboard, Etihad Airways Flight 183 completes its flight to San Francisco International Airport. [http://kron4.com/2015/01/05/nightmare-28-hour-flight-finally-arrives-in-san-francisco/ (KRON)].](/news/2015/01/5/after-being-grounded-in-abu-dhabi-for-over-12-hours-with-all-passengers-onboard-etihad-airways-flight-183-completes-its-flight-to-san-franc.md)
-_Context: Abu Dhabi, Etihad Airways, San Francisco International Airport_
+### [After being grounded in Abu Dhabi for over 12 hours with all passengers onboard, Etihad Airways Flight 183 completes its flight to San Francisco International Airport. ](/news/2015/01/5/after-being-grounded-in-abu-dhabi-for-over-12-hours-with-all-passengers-onboard-etihad-airways-flight-183-completes-its-flight-to-san-franc.md)
+SAN FRANCISCO (KRON) &#8212; Passengers who spent more than a full day on board a stranded airliner are now telling horror stories about the experience after finally arriving at SFO. The people who…
 
 ### [South Korea announces that it will repatriate the remains of Chinese Peoples Liberation Army soldiers killed in the Korean War. ](/news/2015/01/5/south-korea-announces-that-it-will-repatriate-the-remains-of-chinese-peoples-liberation-army-soldiers-killed-in-the-korean-war.md)
  South Korea plans to return some 60 sets of remains of Chinese soldiers killed during the 1950-53 Korean War to their homeland, a defense ministry official here said Monday.

@@ -1,9 +1,14 @@
 ### [2006-06-18](/news/2006/06/18/index.md)
 
-#  The Israeli town of Sderot shuts down for 24 hours in protest of continuing Qassam rocket attacks. More than six hundred Qassam rockets were launched against Israeli towns since Israel's disengagement from the Gaza Strip, a hundred of which in the past week. One rocket left parts of Sderot without electricity for several hours this morning.[http://www.haaretz.com/hasen/spages/727912.html (Haaretz)], [http://www.iht.com/articles/2006/06/16/news/rocket.php (IHT)].
+#  The Israeli town of Sderot shuts down for 24 hours in protest of continuing Qassam rocket attacks. More than six hundred Qassam rockets were launched against Israeli towns since Israel's disengagement from the Gaza Strip, a hundred of which in the past week. One rocket left parts of Sderot without electricity for several hours this morning.
 
 
 
+
+### Source:
+
+1. [Haaretz](http://www.haaretz.com/hasen/spages/727912.html)
+2. [IHT](http://www.iht.com/articles/2006/06/16/news/rocket.php)
 
 ### Related:
 

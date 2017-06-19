@@ -12,4 +12,3 @@
 ### Related:
 
 1. [Philippines Senator Jinggoy Estrada is arrested for alleged corruption. ](/news/2014/06/30/philippines-senator-jinggoy-estrada-is-arrested-for-alleged-corruption.md) _Context: Jinggoy Estrada_
-2. [Opening of the 15th Congress of the Philippines: [http://www.channelnewsasia.com/stories/afp_asiapacific/view/1071594/1/.html Channel NewsAsia]Juan Ponce Enrile is elected as Senate Feliciano Belmonte is elected Speaker of the House of Representatives.President Benigno Aquino III delivers his first State of the Nation Address.](/news/2010/07/26/opening-of-the-15th-congress-of-the-philippines-http-www-channelnewsasia-com-stories-afp_asiapacific-view-1071594-1-html-channel-newsas.md) _Context: Juan Ponce Enrile_

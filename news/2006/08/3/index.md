@@ -21,7 +21,7 @@ _Context: LTTE, Sri Lankan military_
 ### [ 2006 Israel-Lebanon conflict: Mahmoud  Ahmadinejad has said the "main solution" to end the conflict in Lebanon was the "elimination of the Zionist regime." ](/news/2006/08/3/2006-israel-lebanon-conflict-p-mahmoud-ahmadinejad-has-said-the-main-solution-to-end-the-conflict-in-lebanon-was-the-elimination-of-the.md)
 (VIDEO) Ahmadinejad says that while main solution for conflict in region is &#39;elimination of Zionist regime,&#39; at this stage immediate ceasefire was needed to end fighting between Israel, Lebanon 
 
-### [ An alleged member of the Islamic Movement of Uzbekistan killed himself and a police officer with a hand grenade in Tajikistan's northern Sughd Region [http://www.rferl.org/featuresarticle/2006/8/2ee2f294-fdab-47bd-8300-e064ec665694.html RFERL.org].](/news/2006/08/3/an-alleged-member-of-the-islamic-movement-of-uzbekistan-killed-himself-and-a-police-officer-with-a-hand-grenade-in-tajikistan-s-northern-su.md)
+### [ An alleged member of the Islamic Movement of Uzbekistan killed himself and a police officer with a hand grenade in Tajikistan's northern Sughd Region ](/news/2006/08/3/an-alleged-member-of-the-islamic-movement-of-uzbekistan-killed-himself-and-a-police-officer-with-a-hand-grenade-in-tajikistan-s-northern-su.md)
 _Context: Islamic Movement of Uzbekistan, Tajikistan_
 
 ## [Previous Day...](/news/2006/08/2/index.md)

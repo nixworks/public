@@ -25,7 +25,7 @@ By Genevra PittmanNEW YORK (Reuters Health) - More babies born via cesarean sect
 _Context: Main Street Family Pharmacy, Newbern, Tennessee, allergy, arthritis, injection, methylprednisolone acetate, steroid_
 
 ### [As part of "a policy of reducing the impact of rough sleepers on the community" London's Metropolitan police seize belongings including sleeping bags from homeless people. ](/news/2013/05/24/as-part-of-a-policy-of-reducing-the-impact-of-rough-sleepers-on-the-community-london-s-metropolitan-police-seize-belongings-including-slee.md)
-_Context: Metropolitan Police, homeless people_
+_Context: Metropolitan Police Service, homeless people_
 
 ### [Malaysian police arrest four people for sedition including opposition politician Chua Tian Chang, the Vice-President of Parti Keadilan Rakyat. ](/news/2013/05/24/malaysian-police-arrest-four-people-for-sedition-including-opposition-politician-chua-tian-chang-the-vice-president-of-parti-keadilan-rakya.md)
 Malaysian authorities have arrested a high-profile Opposition politician and three others under the country&#39;s controversial Sedition Act.

@@ -1,9 +1,13 @@
 ### [2014-09-20](/news/2014/09/20/index.md)
 
-# Two high-visibility U.S based law firms Bingham McCutchen of Boston, Massachusetts and Philadelphia's Morgan Lewis & Bockius, have decided to merge, according to a Reuters report relying on confidential sources. [http://www.reuters.com/article/2014/09/21/us-usa-law-firm-idUSKBN0HF0MT20140921 (Reuters)]. 
+# Two high-visibility U.S based law firms Bingham McCutchen of Boston, Massachusetts and Philadelphia's Morgan Lewis & Bockius, have decided to merge, according to a Reuters report relying on confidential sources. 
 
 
 
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2014/09/21/us-usa-law-firm-idUSKBN0HF0MT20140921)
 
 ### Related:
 

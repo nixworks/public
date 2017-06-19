@@ -3,8 +3,8 @@
 ### [ In Pakistan, a bill proposing to strengthen the law against "Honour Killing" is defeated in Parliament, after the government sides with the Islamist opposition and deems the bill "un-Islamic". ](/news/2005/03/2/in-pakistan-a-bill-proposing-to-strengthen-the-law-against-honour-killing-is-defeated-in-parliament-after-the-government-sides-with-the.md)
 _Context: Islamist, Pakistan, Parliament's, honour killing_
 
-### [ Unpopular Chief Executive Tung Chee-hwa of the former British colony of Hong Kong reportedly resigns, with reluctant approval from Beijing. [http://www.thestandard.com.hk/stdn/std/Front_Page/GC02Aa01.html (The Standard)], [http://news.bbc.co.uk/2/hi/asia-pacific/4310235.stm (BBC)],[http://www.cbc.ca/world/story/2005/03/02/hongkong-tung050302.html (CBC)], [http://www.theglobeandmail.com/servlet/story/RTGAM.20050302.wchtung0302/BNStory/International/ (Globe&Mail)], [http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7782051 (Reuters)], [http://edition.cnn.com/2005/WORLD/asiapcf/03/02/hongkong.tung/ (CNN)],   [http://news.bbc.co.uk/2/hi/asia-pacific/4310407.stm (BBC)]. ](/news/2005/03/2/unpopular-chief-executive-tung-chee-hwa-of-the-former-british-colony-of-hong-kong-reportedly-resigns-with-reluctant-approval-from-beijing.md)
-_Context: Beijing, British overseas territory, Chief Executive, Hong Kong, Tung Chee-Hwa_
+### [ Unpopular Chief Executive Tung Chee-hwa of the former British colony of Hong Kong reportedly resigns, with reluctant approval from Beijing. ](/news/2005/03/2/unpopular-chief-executive-tung-chee-hwa-of-the-former-british-colony-of-hong-kong-reportedly-resigns-with-reluctant-approval-from-beijing.md)
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Banda Sea earthquake: An earthquake measuring up to 7.5 on the Richter scale hits Darwin, Northern Territory in Australia ](/news/2005/03/2/banda-sea-earthquake-an-earthquake-measuring-up-to-7-5-on-the-richter-scale-hits-darwin-northern-territory-in-australia.md)
 _Context: Australia, Banda Sea earthquake, Darwin, Richter scale, earthquake_

@@ -1,6 +1,6 @@
 ## [2006-02-1](/news/2006/02/1/index.md)
 
-### [ Governor of West Virginia Joe Manchin asks for a halt in coal mining following two more coal mining deaths in the state that saw fourteen people die in coal mining disasters in January. [http://www.cnn.com/2006/US/02/01/mine.close/index.html (CNN)].](/news/2006/02/1/governor-of-west-virginia-joe-manchin-asks-for-a-halt-in-coal-mining-following-two-more-coal-mining-deaths-in-the-state-that-saw-fourteen-p.md)
+### [ Governor of West Virginia Joe Manchin asks for a halt in coal mining following two more coal mining deaths in the state that saw fourteen people die in coal mining disasters in January. ](/news/2006/02/1/governor-of-west-virginia-joe-manchin-asks-for-a-halt-in-coal-mining-following-two-more-coal-mining-deaths-in-the-state-that-saw-fourteen-p.md)
 _Context: Governor of West Virginia, January, Joe Manchin, West Virginia, coal miners_
 
 ### [ More than 200 Israeli settlers and Israeli Security Forces are injured when the Security Forces brutally beat the settlers of the Amona outpost in the West Bank. ](/news/2006/02/1/more-than-200-israeli-settlers-and-israeli-security-forces-are-injured-when-the-security-forces-brutally-beat-the-settlers-of-the-amona-out.md)

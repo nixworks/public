@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [ The Singaporean economy tops a list of 175 economies as the most business-friendly economy in the world in a survey conducted by the World Bank's International Finance Corporation. [http://www.channelnewsasia.com/stories/singaporebusinessnews/view/228852/1/.html (CNA)] [http://www.doingbusiness.org/EconomyRankings/Default.aspx?direction=asc&sort=1 (IFC)].](/news/2006/09/6/the-singaporean-economy-tops-a-list-of-175-economies-as-the-most-business-friendly-economy-in-the-world-in-a-survey-conducted-by-the-world.md) _Context: Singapore's economy_
+1. [ The Singaporean economy tops a list of 175 economies as the most business-friendly economy in the world in a survey conducted by the World Bank's International Finance Corporation. ](/news/2006/09/6/the-singaporean-economy-tops-a-list-of-175-economies-as-the-most-business-friendly-economy-in-the-world-in-a-survey-conducted-by-the-world.md) _Context: Singapore's economy_

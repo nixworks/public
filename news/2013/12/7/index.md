@@ -3,8 +3,8 @@
 ### [Syrian civil war:The Islamic Front has taken over Bab al-Hawa bases from the Free Syrian Army. ](/news/2013/12/7/syrian-civil-war-pthe-islamic-front-has-taken-over-bab-al-hawa-bases-from-the-free-syrian-army.md)
 Syrian rebels from an Islamist alliance formed last month have occupied bases and warehouses belonging to a Western-backed rebel group on the Turkish border, rebels and activists said on Saturday.
 
-### [Central African Republic conflict under the Djotodia administration:France expands its role in the conflict in the Central African Republic.  [http://www.bbc.co.uk/news/world-africa-25281959 BBC News].](/news/2013/12/7/central-african-republic-conflict-under-the-djotodia-administration-pfrance-expands-its-role-in-the-conflict-in-the-central-african-republic.md)
-_Context: Central-African, France, sectarian violence_
+### [Central African Republic conflict under the Djotodia administration:France expands its role in the conflict in the Central African Republic.  ](/news/2013/12/7/central-african-republic-conflict-under-the-djotodia-administration-pfrance-expands-its-role-in-the-conflict-in-the-central-african-republic.md)
+A reinforced French force in the Central African Republic expands operations in the capital and beyond, to try to end deadly sectarian fighting.
 
 ### [87-year-old American comedian Don Rickles is recovering after treatment for a leg infection of necrotizing fasciitis, better known as a flesh-eating disease. ](/news/2013/12/7/87-year-old-american-comedian-don-rickles-is-recovering-after-treatment-for-a-leg-infection-of-necrotizing-fasciitis-better-known-as-a-fles.md)
 Don Rickles is on the mend. After canceling several shows due to treatment for a leg infection, the New York Post has reported that the 87-year-old comedy legend was suffering from necrotizing fasciitis, better known as a flesh-eating disease.

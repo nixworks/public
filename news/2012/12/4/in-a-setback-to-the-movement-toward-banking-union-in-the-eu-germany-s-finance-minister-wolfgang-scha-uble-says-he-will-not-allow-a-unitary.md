@@ -1,9 +1,13 @@
 ### [2012-12-4](/news/2012/12/4/index.md)
 
-# In a setback to the movement toward banking union in the EU, Germany's finance minister Wolfgang Schauble says he will not allow a unitary system of supervision without changes in the underlying treaties. [http://www.ft.com/intl/cms/s/0/ae18eb32-3e03-11e2-93cb-00144feabdc0.html#axzz2E7D09ala (Financial Times)]. 
+# In a setback to the movement toward banking union in the EU, Germany's finance minister Wolfgang Schauble says he will not allow a unitary system of supervision without changes in the underlying treaties. 
 
 
 
+
+### Source:
+
+1. [Financial Times](http://www.ft.com/intl/cms/s/0/ae18eb32-3e03-11e2-93cb-00144feabdc0.html#axzz2E7D09ala)
 
 ### Related:
 

@@ -11,4 +11,4 @@ WASHINGTON, D.C. &mdash; Aaron Schock&rsquo;s six years and one month in Congres
 
 ### Related:
 
-1. [Aaron Schock, a former U.S. representative from Illinois's 18th congressional district, pleads not guilty on 24 charges including Mail fraud and tax evasion. [http://www.reuters.com/article/us-illinois-crime-idUSKBN1412S8 (Reuters)].](/news/2016/12/12/aaron-schock-a-former-u-s-representative-from-illinois-s-18th-congressional-district-pleads-not-guilty-on-24-charges-including-mail-fraud.md) _Context: Aaron Schock_
+1. [Aaron Schock, a former U.S. representative from Illinois's 18th congressional district, pleads not guilty on 24 charges including Mail fraud and tax evasion. ](/news/2016/12/12/aaron-schock-a-former-u-s-representative-from-illinois-s-18th-congressional-district-pleads-not-guilty-on-24-charges-including-mail-fraud.md) _Context: Aaron Schock_

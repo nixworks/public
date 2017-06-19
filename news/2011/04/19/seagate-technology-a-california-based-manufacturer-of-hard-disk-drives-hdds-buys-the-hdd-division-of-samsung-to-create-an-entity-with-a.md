@@ -1,9 +1,13 @@
 ### [2011-04-19](/news/2011/04/19/index.md)
 
-# Seagate Technology, a California based manufacturer of hard disk drives (HDDs), buys the HDD division of Samsung, to create an entity with a combined HDD market share of 40 percent. [http://www.reuters.com/article/2011/04/19/us-samsung-seagate-idUSTRE73I1CG20110419 (Reuters)].
+# Seagate Technology, a California based manufacturer of hard disk drives (HDDs), buys the HDD division of Samsung, to create an entity with a combined HDD market share of 40 percent. 
 
 
 
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2011/04/19/us-samsung-seagate-idUSTRE73I1CG20110419)
 
 ### Related:
 

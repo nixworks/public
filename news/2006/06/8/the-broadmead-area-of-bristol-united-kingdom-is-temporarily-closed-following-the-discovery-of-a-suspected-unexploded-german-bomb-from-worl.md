@@ -1,9 +1,13 @@
 ### [2006-06-8](/news/2006/06/8/index.md)
 
-#  The Broadmead area of Bristol, United Kingdom is temporarily closed following the discovery of a suspected unexploded German bomb from World War II [http://news.bbc.co.uk/1/hi/england/bristol/5060770.stm (BBC)].
+#  The Broadmead area of Bristol, United Kingdom is temporarily closed following the discovery of a suspected unexploded German bomb from World War II 
 
 
 
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/england/bristol/5060770.stm)
 
 ### Related:
 

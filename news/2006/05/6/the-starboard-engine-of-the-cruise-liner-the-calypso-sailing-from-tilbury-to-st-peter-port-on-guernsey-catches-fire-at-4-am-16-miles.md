@@ -1,9 +1,13 @@
 ### [2006-05-6](/news/2006/05/6/index.md)
 
-#  The starboard engine of the cruise liner ''The Calypso'', sailing from Tilbury to St Peter Port on Guernsey, catches fire at 4 am, 16 miles off Eastbourne, southeast of the British coast. Its crew puts the fire out, after its 708 passengers are moved into its lifeboats.  Rescue lifeboats attend but neither these nor the ship's lifeboats are needed.[http://uk.news.yahoo.com/06052006/325/fire-cruise-liner-eastbourne-coastguard.html (Yahoo News)].
+#  The starboard engine of the cruise liner ''The Calypso'', sailing from Tilbury to St Peter Port on Guernsey, catches fire at 4 am, 16 miles off Eastbourne, southeast of the British coast. Its crew puts the fire out, after its 708 passengers are moved into its lifeboats.  Rescue lifeboats attend but neither these nor the ship's lifeboats are needed.
 
 
 
+
+### Source:
+
+1. [Yahoo News](http://uk.news.yahoo.com/06052006/325/fire-cruise-liner-eastbourne-coastguard.html)
 
 ### Related:
 

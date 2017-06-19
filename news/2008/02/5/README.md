@@ -10,7 +10,7 @@ _Context: Chad, Red Cross, military assault_
 _Context: Dimona attack, Gaza Strip, Hamas, Israel_
 
 ### [ Philippine House Speaker Jose de Venecia was ousted by the majority of the representatives of the House of Representatives and Davao City Rep. Prospero Nograles was elected as the 13th House Speaker and the first Speaker from Mindanao. ](/news/2008/02/5/philippine-house-speaker-jose-de-venecia-was-ousted-by-the-majority-of-the-representatives-of-the-house-of-representatives-and-davao-city-r.md)
-_Context: Davao City, Jose de Venecia, Prospero Nograles, Speaker_
+_Context: Davao City, Jose de Venecia, Philippine House Speaker, Prospero Nograles_
 
 ### [ 2008 Chinese winter storms: Chinese Premier Wen Jiabao visits disaster-affected region in Guizhou Province, one of the worst-hit provinces, to direct relief efforts. This is his third trip to disaster regions in eight days. ](/news/2008/02/5/2008-chinese-winter-storms-chinese-premier-wen-jiabao-visits-disaster-affected-region-in-guizhou-province-one-of-the-worst-hit-provinces.md)
 _Context: 2008 Chinese winter storms, Guizhou, Premier of the People's Republic of China, Wen Jiabao_

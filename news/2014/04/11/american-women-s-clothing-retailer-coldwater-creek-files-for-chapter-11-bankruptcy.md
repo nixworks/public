@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [RadioShack files for chapter 11 protection from creditors for the second time in two years. [http://www.reuters.com/article/us-radioshack-bankruptcy-idUSKBN16G06J (Reuters)].](/news/2017/03/8/radioshack-files-for-chapter-11-protection-from-creditors-for-the-second-time-in-two-years-http-www-reuters-com-article-us-radioshack-ba.md) _Context: chapter 11_
+1. [RadioShack files for chapter 11 protection from creditors for the second time in two years. ](/news/2017/03/8/radioshack-files-for-chapter-11-protection-from-creditors-for-the-second-time-in-two-years.md) _Context: chapter 11_
 2. [Rapper Curtis James Jackson III, better known by his stage name 50 Cent, files for Chapter 11 bankruptcy protection. ](/news/2015/07/13/rapper-curtis-james-jackson-iii-better-known-by-his-stage-name-50-cent-files-for-chapter-11-bankruptcy-protection.md) _Context: chapter 11_
 3. [Pizza chain Sbarro files for chapter 11 bankruptcy for the second time in 3 years. ](/news/2014/03/10/pizza-chain-sbarro-files-for-chapter-11-bankruptcy-for-the-second-time-in-3-years.md) _Context: chapter 11_
 4. [The Los Angeles Dodgers file for Chapter 11 bankruptcy protection. ](/news/2011/06/27/the-los-angeles-dodgers-file-for-chapter-11-bankruptcy-protection.md) _Context: chapter 11_

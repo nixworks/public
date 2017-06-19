@@ -18,7 +18,7 @@ _Context: North Korea, Northern Limit Line, South Korea_
 ### [Prime Minister Gordon Brown and Taoiseach Brian Cowen leave Northern Ireland after three days spent discussing its future. ](/news/2010/01/27/prime-minister-gordon-brown-and-taoiseach-brian-cowen-leave-northern-ireland-after-three-days-spent-discussing-its-future.md)
 Taoiseach Brian Cowen and British Prime Minister Gordon Brown have left Northern Ireland with the future of the power sharing assembly still in grave doubt.
 
-### [The highest surface wind gust ever recorded of 220 kt at Barrow Island, Australia in 1996 is ratified by the WMO. [http://wmo.asu.edu/world-maximum-surface-wind-gust (Arizona State University)] [http://wmo.asu.edu/world-maximum-surface-wind-gust (WMO)].](/news/2010/01/27/the-highest-surface-wind-gust-ever-recorded-of-220-kt-at-barrow-island-australia-in-1996-is-ratified-by-the-wmo-http-wmo-asu-edu-world.md)
+### [The highest surface wind gust ever recorded of 220 kt at Barrow Island, Australia in 1996 is ratified by the WMO. ](/news/2010/01/27/the-highest-surface-wind-gust-ever-recorded-of-220-kt-at-barrow-island-australia-in-1996-is-ratified-by-the-wmo.md)
 _Context: Australia, Barrow Island, World Meteorological Organisation, highest surface wind gust_
 
 ### [Ireland is hit by two earthquakes over a 24-hour period, described as "unusual" by experts. ](/news/2010/01/27/ireland-is-hit-by-two-earthquakes-over-a-24-hour-period-described-as-unusual-by-experts.md)

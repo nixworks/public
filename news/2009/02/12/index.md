@@ -12,7 +12,7 @@ The remarks to a Jewish group were among the popeâ€™s strongest since a bishopâ€
 ### [ Republican Senator Judd Gregg of New Hampshire withdraws his nomination as U.S. Secretary of Commerce. ](/news/2009/02/12/republican-senator-judd-gregg-of-new-hampshire-withdraws-his-nomination-as-u-s-secretary-of-commerce.md)
 _Context: Judd Gregg, New Hampshire, R, United States, United States Secretary of Commerce, United States Senate_
 
-### [ Iraq's Parliament demands reparations from Israel for an attack on a nuclear reactor in 1981. [http://www.haaretz.com/hasen/spages/1063718.html (Haaretz)].](/news/2009/02/12/iraq-s-parliament-demands-reparations-from-israel-for-an-attack-on-a-nuclear-reactor-in-1981-http-www-haaretz-com-hasen-spages-1063718.md)
+### [ Iraq's Parliament demands reparations from Israel for an attack on a nuclear reactor in 1981. ](/news/2009/02/12/iraq-s-parliament-demands-reparations-from-israel-for-an-attack-on-a-nuclear-reactor-in-1981.md)
 _Context: 1981, Iraq, Iraqi Parliament, Israel, nuclear reactors, reparations_
 
 ### [ Hamas agrees to an 18-month truce in its conflict with Israel, which has not yet responded. ](/news/2009/02/12/hamas-agrees-to-an-18-month-truce-in-its-conflict-with-israel-which-has-not-yet-responded.md)

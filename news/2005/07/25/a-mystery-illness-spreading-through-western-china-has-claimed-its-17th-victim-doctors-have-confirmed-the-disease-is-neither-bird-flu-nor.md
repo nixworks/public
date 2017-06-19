@@ -1,9 +1,14 @@
 ### [2005-07-25](/news/2005/07/25/index.md)
 
-#  A mystery illness spreading through Western China has claimed its 17th victim.  Doctors have confirmed the disease is neither bird flu nor SARS [http://news.bbc.co.uk/2/hi/asia-pacific/4713499.stm (BBC)]. Chinese health officials announce that autopsies point to Streptococcosis II as the probable culprit. [http://news.xinhuanet.com/english/2005-07/25/content_3266214.htm (Xinhuanet)].
+#  A mystery illness spreading through Western China has claimed its 17th victim.  Doctors have confirmed the disease is neither bird flu nor SARS 
 
 
 
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4713499.stm)
+2. [Xinhuanet](http://news.xinhuanet.com/english/2005-07/25/content_3266214.htm)
 
 ### Related:
 

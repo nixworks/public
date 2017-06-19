@@ -1,9 +1,13 @@
 ### [2015-06-11](/news/2015/06/11/index.md)
 
-# NGO Federal Interior Ministry of Pakistan has sealed the offices of the NGO Save the Children in Pakistan and issued order for its foreign staff to leave the country within 15 days on account of the NGO's anti-Pakistan activities. [http://tribune.com.pk/story/902072/ngo-save-the-children-ordered-to-leave-pakistan-officials/ (Express Tribune)].
+# NGO Federal Interior Ministry of Pakistan has sealed the offices of the NGO Save the Children in Pakistan and issued order for its foreign staff to leave the country within 15 days on account of the NGO's anti-Pakistan activities. 
+
+Save the children says it was served a notice, denies it has expatriate staff working in Pakistan
 
 
+### Source:
 
+1. [Express Tribune](http://tribune.com.pk/story/902072/ngo-save-the-children-ordered-to-leave-pakistan-officials/)
 
 ### Related:
 

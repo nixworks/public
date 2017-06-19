@@ -3,7 +3,7 @@
 ### [ Abeer Qassim Hamza al-Janabi, a fourteen-year-old Iraqi girl raped and murdered together with her family in the Mahmudiyah killings.](/news/2006/03/12/abeer-qassim-hamza-al-janabi-a-fourteen-year-old-iraqi-girl-raped-and-murdered-together-with-her-family-in-the-mahmudiyah-killings.md)
 _Context: Abeer Qassim Hamza al-Janabi, Mahmudiyah killings_
 
-### [ Algerian "national reconciliation". Abdelhak Layada, one of the founder of the Armed Islamic Group (GIA), is released from prison due to the February 28, 2006, national reconciliation charter decree of application [http://www.rfi.fr/actufr/articles/075/article_42395.asp RFI].](/news/2006/03/12/algerian-national-reconciliation-abdelhak-layada-one-of-the-founder-of-the-armed-islamic-group-gia-is-released-from-prison-due-to-th.md)
+### [ Algerian "national reconciliation". Abdelhak Layada, one of the founder of the Armed Islamic Group (GIA), is released from prison due to the February 28, 2006, national reconciliation charter decree of application ](/news/2006/03/12/algerian-national-reconciliation-abdelhak-layada-one-of-the-founder-of-the-armed-islamic-group-gia-is-released-from-prison-due-to-th.md)
 _Context: Abdelhak Layada, Algerian "national reconciliation", Armed Islamic Group_
 
 ### [ Venezuela introduces its new national flag with eight, instead of seven, stars and a slightly altered coat of arms. ](/news/2006/03/12/venezuela-introduces-its-new-national-flag-with-eight-instead-of-seven-stars-and-a-slightly-altered-coat-of-arms.md)

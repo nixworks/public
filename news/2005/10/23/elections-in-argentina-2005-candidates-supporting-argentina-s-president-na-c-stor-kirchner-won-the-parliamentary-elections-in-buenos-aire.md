@@ -1,9 +1,13 @@
 ### [2005-10-23](/news/2005/10/23/index.md)
 
-#  Elections in Argentina, 2005.Candidates supporting Argentina's President,  Nestor Kirchner, won the parliamentary elections in Buenos Aires Province (his wife was elected as Senator) and several other provinces. However, they lost in Buenos Aires City and Santa Fe Province. [http://www.bloomberg.com/apps/news?pid=10000086&sid=aX4osPyKstwo (Bloomberg)].
+#  Elections in Argentina, 2005.Candidates supporting Argentina's President,  Nestor Kirchner, won the parliamentary elections in Buenos Aires Province (his wife was elected as Senator) and several other provinces. However, they lost in Buenos Aires City and Santa Fe Province. 
 
 
 
+
+### Source:
+
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aX4osPyKstwo)
 
 ### Related:
 

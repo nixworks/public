@@ -24,7 +24,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Missiles displayed at a recent North Korean parade are reportedly fakes, according to analysts. ](/news/2012/04/26/missiles-displayed-at-a-recent-north-korean-parade-are-reportedly-fakes-according-to-analysts.md)
 _Context: North Korea_
 
-### [In the midst of the ongoing trial against Anders Behring Breivik for his actions on July 22, 2011, more than 40,000 people gather on Youngstorget in Oslo to show support for all those affected. [http://www.tv2.no/nyheter/innenriks/22-juli-terror-oslo-og-utoya/-40000-har-moett-opp-paa-youngstorget-3766143.html (TV2)].](/news/2012/04/26/in-the-midst-of-the-ongoing-trial-against-anders-behring-breivik-for-his-actions-on-july-22-2011-more-than-40-000-people-gather-on-youngst.md)
+### [In the midst of the ongoing trial against Anders Behring Breivik for his actions on July 22, 2011, more than 40,000 people gather on Youngstorget in Oslo to show support for all those affected. ](/news/2012/04/26/in-the-midst-of-the-ongoing-trial-against-anders-behring-breivik-for-his-actions-on-july-22-2011-more-than-40-000-people-gather-on-youngst.md)
 _Context: Anders Behring Breivik, July 22, 2011, Oslo, Youngstorget_
 
 ### [Japanese powerbroker Ichiro Ozawa of the ruling Democratic Party is cleared of charges of breaking fundraising laws. ](/news/2012/04/26/japanese-powerbroker-ichira-ozawa-of-the-ruling-democratic-party-is-cleared-of-charges-of-breaking-fundraising-laws.md)

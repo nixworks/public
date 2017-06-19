@@ -24,7 +24,7 @@ _Context: International Criminal Court, Korean War, North Korea, South Korea, pr
 ### [Guo Jinlong resigns as the Mayor of the Chinese capital Beijing with Wang Anshun appointed as the acting mayor. ](/news/2012/07/25/guo-jinlong-resigns-as-the-mayor-of-the-chinese-capital-beijing-with-wang-anshun-appointed-as-the-acting-mayor.md)
 _Context: Beijing, Guo Jinlong, Mayor, People's Republic of China, Wang Anshun_
 
-### [Pranab Mukherjee is sworn in as the President of India. [http://ibnlive.in.com/news/live-pranab-set-to-take-oath-leaves-for-rajghat/274233-37-64.html (IBN Live)].](/news/2012/07/25/pranab-mukherjee-is-sworn-in-as-the-president-of-india-http-ibnlive-in-com-news-live-pranab-set-to-take-oath-leaves-for-rajghat-274233-3.md)
+### [Pranab Mukherjee is sworn in as the President of India. ](/news/2012/07/25/pranab-mukherjee-is-sworn-in-as-the-president-of-india.md)
 _Context: Pranab Mukherjee, President of India_
 
 ### [North Korea state media declares the marriage of Kim Jong-un and Ri Sol-ju. ](/news/2012/07/25/north-korea-state-media-declares-the-marriage-of-kim-jong-un-and-ri-sol-ju.md)

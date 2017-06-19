@@ -1,9 +1,13 @@
 ### [2017-02-1](/news/2017/02/1/index.md)
 
-# A jury finds in favor of video game publisher ZeniMax Media after the trial of its copyright lawsuit against Oculus and Facebook, regarding virtual reality coding. [http://www.reuters.com/article/facebook-lawsuit-idUSL1N1FM229 (Reuters)].
+# A jury finds in favor of video game publisher ZeniMax Media after the trial of its copyright lawsuit against Oculus and Facebook, regarding virtual reality coding. 
+
+A U.S. jury in Texas on Wednesday orderedFacebook Inc, its virtual reality unit Oculus, and otherdefendants to pay a combined $500 million to ZeniMax Media Inc,a video game publisher that says Oculus stole its technology.
 
 
+### Source:
 
+1. [Reuters](http://www.reuters.com/article/facebook-lawsuit-idUSL1N1FM229)
 
 ### Related:
 

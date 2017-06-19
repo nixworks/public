@@ -1,9 +1,14 @@
 ### [2005-02-25](/news/2005/02/25/index.md)
 
-#  At Amsterdam's Schiphol airport an armoured car is hijacked on the cargo ramp. Unconfirmed reports say that it contained diamonds and other gems worth at least 75 million euros (US$99 million). The vehicle was later recovered in the nearby town of Hoofddorp. [http://news.bbc.co.uk/1/hi/world/europe/4298991.stm (BBC)], [http://news.scotsman.com/latest.cfm?id=4179964 (Scotsman)].
+#  At Amsterdam's Schiphol airport an armoured car is hijacked on the cargo ramp. Unconfirmed reports say that it contained diamonds and other gems worth at least 75 million euros (US$99 million). The vehicle was later recovered in the nearby town of Hoofddorp. 
 
 
 
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4298991.stm)
+2. [Scotsman](http://news.scotsman.com/latest.cfm?id=4179964)
 
 ### Related:
 

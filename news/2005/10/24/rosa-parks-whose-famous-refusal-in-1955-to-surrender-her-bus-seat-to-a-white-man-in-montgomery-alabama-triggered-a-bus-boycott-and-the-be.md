@@ -1,9 +1,14 @@
 ### [2005-10-24](/news/2005/10/24/index.md)
 
-#  Rosa Parks, whose famous refusal in 1955 to surrender her bus seat to a white man in Montgomery, Alabama triggered a bus-boycott and the beginning of the modern U.S. civil rights movement, died at the age of 92. The recipient of the Presidential Medal of Freedom was known to have suffered from dementia.  Sources state that she died at her home in Detroit of natural causes. [http://www.bloomberg.com/apps/news?pid=10000103&sid=aMiN.A5MlIXs&refer=us (Bloomberg)] [http://www.clickondetroit.com/news/5165155/detail.html (ClickOnDetroit.com)].
+#  Rosa Parks, whose famous refusal in 1955 to surrender her bus seat to a white man in Montgomery, Alabama triggered a bus-boycott and the beginning of the modern U.S. civil rights movement, died at the age of 92. The recipient of the Presidential Medal of Freedom was known to have suffered from dementia.  Sources state that she died at her home in Detroit of natural causes. 
 
 
 
+
+### Source:
+
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000103&sid=aMiN.A5MlIXs&refer=us)
+2. [ClickOnDetroit.com](http://www.clickondetroit.com/news/5165155/detail.html)
 
 ### Related:
 

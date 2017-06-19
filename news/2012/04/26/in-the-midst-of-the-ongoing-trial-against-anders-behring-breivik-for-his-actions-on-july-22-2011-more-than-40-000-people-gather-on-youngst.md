@@ -1,9 +1,13 @@
 ### [2012-04-26](/news/2012/04/26/index.md)
 
-# In the midst of the ongoing trial against Anders Behring Breivik for his actions on July 22, 2011, more than 40,000 people gather on Youngstorget in Oslo to show support for all those affected. [http://www.tv2.no/nyheter/innenriks/22-juli-terror-oslo-og-utoya/-40000-har-moett-opp-paa-youngstorget-3766143.html (TV2)].
+# In the midst of the ongoing trial against Anders Behring Breivik for his actions on July 22, 2011, more than 40,000 people gather on Youngstorget in Oslo to show support for all those affected. 
 
 
 
+
+### Source:
+
+1. [TV2](http://www.tv2.no/nyheter/innenriks/22-juli-terror-oslo-og-utoya/-40000-har-moett-opp-paa-youngstorget-3766143.html)
 
 ### Related:
 

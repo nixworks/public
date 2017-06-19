@@ -1,9 +1,13 @@
 ### [2005-02-2](/news/2005/02/2/index.md)
 
-#  Jerusalem/Israel: Horst Kohler, President of Germany, has a special audience in the Knesset, the highest chamber of Israel. Speaking in German, he says that Germany has to fight more aggressively against anti-semitism and far-right parties. [http://news.bbc.co.uk/2/hi/middle_east/4229845.stm (BBC World)].
+#  Jerusalem/Israel: Horst Kohler, President of Germany, has a special audience in the Knesset, the highest chamber of Israel. Speaking in German, he says that Germany has to fight more aggressively against anti-semitism and far-right parties. 
 
 
 
+
+### Source:
+
+1. [BBC World](http://news.bbc.co.uk/2/hi/middle_east/4229845.stm)
 
 ### Related:
 

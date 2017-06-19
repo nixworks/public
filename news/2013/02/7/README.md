@@ -12,8 +12,8 @@ Sweden suspends a controversial cull of its wild wolf population just days after
 ### [2013 Solomon Islands earthquake: The death toll from a magnitude 8.0 earthquake and subsequent tsunami in the Solomon Islands rises to nine, while government officials express fear regarding remote areas where emergency personnel are arriving. ](/news/2013/02/7/2013-solomon-islands-earthquake-the-death-toll-from-a-magnitude-8-0-earthquake-and-subsequent-tsunami-in-the-solomon-islands-rises-to-nine.md)
 A 6.2 aftershock has struck near the Solomon Islands, the US Geological Survey says.
 
-### [Chibombo bus crash: At least 53 people are killed in a crash involving a bus and truck in Zambia. [http://www.bbc.co.uk/news/world-africa-21373965 (BBC)] [http://www.independent.ie/world-news/dozens-die-in-zambia-bus-crash-29055271.html (''Irish Independent'')].](/news/2013/02/7/chibombo-bus-crash-at-least-53-people-are-killed-in-a-crash-involving-a-bus-and-truck-in-zambia-http-www-bbc-co-uk-news-world-africa-21.md)
-_Context: Chibombo bus crash, Zambia, bus, truck_
+### [Chibombo bus crash: At least 53 people are killed in a crash involving a bus and truck in Zambia. ](/news/2013/02/7/chibombo-bus-crash-at-least-53-people-are-killed-in-a-crash-involving-a-bus-and-truck-in-zambia.md)
+At least 53 people have been killed in a road accident involving a bus and lorry north of the Zambian capital Lusaka, police say.
 
 ### [Frozen food manufacturer Findus withdraws its beef lasagne ready meals after tests showed the product contained horse meat. ](/news/2013/02/7/frozen-food-manufacturer-findus-withdraws-its-beef-lasagne-ready-meals-after-tests-showed-the-product-contained-horse-meat.md)
 _Context: 2013 meat adulteration scandal, Findus, Frozen food, horses for meat, lasagne, ready meal_

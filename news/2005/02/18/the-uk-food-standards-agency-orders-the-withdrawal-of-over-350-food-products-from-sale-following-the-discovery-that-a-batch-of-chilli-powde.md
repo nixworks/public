@@ -1,9 +1,14 @@
 ### [2005-02-18](/news/2005/02/18/index.md)
 
-#  The UK Food Standards Agency orders the withdrawal of over 350 food products from sale following the discovery that a batch of chilli powder used to produce a batch of Worcestershire sauce subsequently used to produce processed foods was contaminated with the possibly carcinogenic dye Sudan I. The problem was first identified with food products tested in Italy. [http://news.bbc.co.uk/1/hi/health/4277677.stm (BBC)] [http://www.food.gov.uk/safereating/sudani/sudanlist (FSA: List of Withdrawn Products)].
+#  The UK Food Standards Agency orders the withdrawal of over 350 food products from sale following the discovery that a batch of chilli powder used to produce a batch of Worcestershire sauce subsequently used to produce processed foods was contaminated with the possibly carcinogenic dye Sudan I. The problem was first identified with food products tested in Italy. 
 
 
 
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/health/4277677.stm)
+2. [FSA: List of Withdrawn Products](http://www.food.gov.uk/safereating/sudani/sudanlist)
 
 ### Related:
 

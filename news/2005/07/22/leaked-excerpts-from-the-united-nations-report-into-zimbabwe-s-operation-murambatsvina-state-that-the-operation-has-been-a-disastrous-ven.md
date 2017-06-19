@@ -1,9 +1,13 @@
 ### [2005-07-22](/news/2005/07/22/index.md)
 
-#  Leaked excerpts from the United Nations' report into Zimbabwe's Operation Murambatsvina state that the operation has been a "disastrous venture" that has violated international law and created a grave humanitarian crisis. It further suggests that the act might qualify as a crime against humanity and urged Zimbabwe to prosecute those responsible. [http://www.guardian.co.uk/worldlatest/story/0,1280,-5159000,00.html (Guardian)].
+#  Leaked excerpts from the United Nations' report into Zimbabwe's Operation Murambatsvina state that the operation has been a "disastrous venture" that has violated international law and created a grave humanitarian crisis. It further suggests that the act might qualify as a crime against humanity and urged Zimbabwe to prosecute those responsible. 
 
 
 
+
+### Source:
+
+1. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5159000,00.html)
 
 ### Related:
 

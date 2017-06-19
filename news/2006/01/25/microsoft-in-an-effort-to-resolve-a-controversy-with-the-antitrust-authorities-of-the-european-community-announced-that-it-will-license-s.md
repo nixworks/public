@@ -1,9 +1,13 @@
 ### [2006-01-25](/news/2006/01/25/index.md)
 
-#  Microsoft, in an effort to resolve a controversy with the antitrust authorities of the European Community, announced that it will license some of its source code to rivals. [http://archive.is/20130119131833/http://news.com.com/Microsoft+offers+up+source+code+in+EC+dispute/2100-1014_3-6030879.html (c|net news)].
+#  Microsoft, in an effort to resolve a controversy with the antitrust authorities of the European Community, announced that it will license some of its source code to rivals. 
 
 
 
+
+### Source:
+
+1. [c|net news](http://archive.is/20130119131833/http://news.com.com/Microsoft+offers+up+source+code+in+EC+dispute/2100-1014_3-6030879.html)
 
 ### Related:
 

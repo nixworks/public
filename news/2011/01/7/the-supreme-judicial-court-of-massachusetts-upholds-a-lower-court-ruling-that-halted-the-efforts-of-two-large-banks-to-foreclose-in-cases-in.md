@@ -1,9 +1,14 @@
 ### [2011-01-7](/news/2011/01/7/index.md)
 
-# The Supreme Judicial Court of Massachusetts upholds a lower court ruling that halted the efforts of two large banks to foreclose in cases in which they failed to prove they were holding the mortgages in question. [http://www.reuters.com/article/idUSTRE7063M620110107 (Reuters)]  [http://www.nytimes.com/2011/01/08/business/08mortgage.html?hp (''The New York Times'')].
+# The Supreme Judicial Court of Massachusetts upholds a lower court ruling that halted the efforts of two large banks to foreclose in cases in which they failed to prove they were holding the mortgages in question. 
+
+The ruling voided two foreclosures, putting the nation’s banks on notice that foreclosures cannot be based on improper or incomplete paperwork.
 
 
+### Source:
 
+1. [Reuters](http://www.reuters.com/article/idUSTRE7063M620110107)
+2. [The New York Times](http://www.nytimes.com/2011/01/08/business/08mortgage.html?hp)
 
 ### Related:
 

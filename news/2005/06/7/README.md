@@ -18,7 +18,7 @@ _Context: General Motors_
 ### [ Siemens announces the sale of its mobile phone assets to the Taiwanese electronics company BenQ. ](/news/2005/06/7/siemens-announces-the-sale-of-its-mobile-phone-assets-to-the-taiwanese-electronics-company-benq.md)
 _Context: BenQ, Siemens AG_
 
-### [ Israeli-Palestinian conflict: A day of violence erupts in the Gaza Strip and West Bank. [http://www.haaretz.com/hasen/spages/585411.html Haaretz].](/news/2005/06/7/israeli-palestinian-conflict-a-day-of-violence-erupts-in-the-gaza-strip-and-west-bank-http-www-haaretz-com-hasen-spages-585411-html-ha.md)
+### [ Israeli-Palestinian conflict: A day of violence erupts in the Gaza Strip and West Bank. ](/news/2005/06/7/israeli-palestinian-conflict-a-day-of-violence-erupts-in-the-gaza-strip-and-west-bank.md)
 _Context: Israeli-Palestinian conflict_
 
 ### [ A spokesman for Robert Mugabe, President of Zimbabwe, dismisses rumors that Mugabe has died of a heart attack, after privately owned media report that Mugabe went to a local hospital to have his heart tested. ](/news/2005/06/7/a-spokesman-for-robert-mugabe-president-of-zimbabwe-dismisses-rumors-that-mugabe-has-died-of-a-heart-attack-after-privately-owned-media.md)

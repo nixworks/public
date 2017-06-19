@@ -1,9 +1,13 @@
 ### [2011-04-11](/news/2011/04/11/index.md)
 
-# Intel announces (former codename "Oak Trail") Atom processor will be in devices beginning in May, especially designed for netbook and tablet devices. [http://newsroom.intel.com/community/intel_newsroom/blog/2011/04/11/new-intel-atom-processor-for-tablets-spurs-companion-computing-device-innovation?cid=rss-258152-c1-266165 (Intel Release)].
+# Intel announces (former codename "Oak Trail") Atom processor will be in devices beginning in May, especially designed for netbook and tablet devices. 
 
 
 
+
+### Source:
+
+1. [Intel Release](http://newsroom.intel.com/community/intel_newsroom/blog/2011/04/11/new-intel-atom-processor-for-tablets-spurs-companion-computing-device-innovation?cid=rss-258152-c1-266165)
 
 ### Related:
 

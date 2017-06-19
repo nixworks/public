@@ -9,7 +9,7 @@ Life in Mumbai and the rest of Maharashtra came to a standstill as torrential ra
 ### [ Several protesters have been injured again in India on this second day of protests. ](/news/2005/07/26/several-protesters-have-been-injured-again-in-india-on-this-second-day-of-protests.md)
 _Context: India_
 
-### [ The Space Shuttle ''Discovery'' lifts off at 1039 EST this morning on mission STS-114. The NASA commentator says during launch "Lift-off, lift-off, and return to America's journey to the Moon, Mars, and beyond". [http://news.bbc.co.uk/2/hi/science/nature/4716463.stm (BBC)].](/news/2005/07/26/the-space-shuttle-discovery-lifts-off-at-1039-est-this-morning-on-mission-sts-114-the-nasa-commentator-says-during-launch-lift-off-l.md)
+### [ The Space Shuttle ''Discovery'' lifts off at 1039 EST this morning on mission STS-114. The NASA commentator says during launch "Lift-off, lift-off, and return to America's journey to the Moon, Mars, and beyond". ](/news/2005/07/26/the-space-shuttle-discovery-lifts-off-at-1039-est-this-morning-on-mission-sts-114-the-nasa-commentator-says-during-launch-lift-off-l.md)
 _Context: Discovery, NASA, STS-114_
 
 ### [ Lebanese Christian militia leader, Samir Geagea, has been released from prison after 11 years. ](/news/2005/07/26/lebanese-christian-militia-leader-samir-geagea-has-been-released-from-prison-after-11-years.md)

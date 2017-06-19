@@ -30,8 +30,8 @@ Powerful earthquake registering 7.7 magnitude strikes near Lima, Peru, according
 ### [ Japan resumes economic and humanitarian aid to the Palestinian National Authority. ](/news/2007/08/15/japan-resumes-economic-and-humanitarian-aid-to-the-palestinian-national-authority.md)
 _Context: Japan, Palestinian National Authority, economic, humanitarian, international aid_
 
-### [ Tropical Depression Five strengthens into Tropical Storm Erin, causing tropical storm warnings to be issued for parts of Texas and Tamaulipas.  [http://www.reuters.com/article/topNews/idUSN1522565620070815?src=081507_1351_DOUBLEFEATURE_rove%3A_gop_can_win (Reuters)]. ](/news/2007/08/15/tropical-depression-five-strengthens-into-tropical-storm-erin-causing-tropical-storm-warnings-to-be-issued-for-parts-of-texas-and-tamaulip.md)
-_Context: Tamaulipas, Texas, Tropical Storm Erin, tropical depression, tropical storm warnings_
+### [ Tropical Depression Five strengthens into Tropical Storm Erin, causing tropical storm warnings to be issued for parts of Texas and Tamaulipas.  ](/news/2007/08/15/tropical-depression-five-strengthens-into-tropical-storm-erin-causing-tropical-storm-warnings-to-be-issued-for-parts-of-texas-and-tamaulip.md)
+Tropical Storm Erin, which formed in the western Gulf of Mexico early Wednesday, was moving in a northwesterly direction and expected to make landfall in the vicinity of the south Texas oil refining hub of Corpus Christi early Thursday, the U.S. National Hurricane Center said.
 
 ### [ Mexican authorities deport hundreds of illegal immigrants who got stuck on a closed GWI rail line in Chiapas. ](/news/2007/08/15/mexican-authorities-deport-hundreds-of-illegal-immigrants-who-got-stuck-on-a-closed-gwi-rail-line-in-chiapas.md)
 _Context: Chiapas, GWI, Mexican, illegal immigrants, rail line_

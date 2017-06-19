@@ -1,9 +1,13 @@
 ### [2005-04-24](/news/2005/04/24/index.md)
 
-#  Forty Pakistani Christians are arrested in Riyadh, Saudi Arabia for practicing their religion in violation of a Saudi law forbidding the practice of any religion but Islam.  [http://www.christiantoday.com/news/meast/289.htm (Christian Today)].
+#  Forty Pakistani Christians are arrested in Riyadh, Saudi Arabia for practicing their religion in violation of a Saudi law forbidding the practice of any religion but Islam.  
 
 
 
+
+### Source:
+
+1. [Christian Today](http://www.christiantoday.com/news/meast/289.htm)
 
 ### Related:
 

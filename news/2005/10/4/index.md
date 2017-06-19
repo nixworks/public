@@ -6,7 +6,7 @@ _Context: George W. Bush, United States Congress, bird flu, quarantine_
 ### [ Eleven embassies in the capital of Malaysia, Kuala Lumpur,  receive  suspicious packages containing threatening letters and an unidentified liquid, triggering security alerts. ](/news/2005/10/4/eleven-embassies-in-the-capital-of-malaysia-kuala-lumpur-receive-suspicious-packages-containing-threatening-letters-and-an-unidentified.md)
 _Context: Kuala Lumpur, Malaysia_
 
-### [ Conflict in Iraq: Five U.S. soldiers die during sweeps of insurgent-held towns in Iraq. [http://seattletimes.nwsource.com/html/nationworld/2002540350_killed05.html (Seattle Times)].](/news/2005/10/4/conflict-in-iraq-five-u-s-soldiers-die-during-sweeps-of-insurgent-held-towns-in-iraq-http-seattletimes-nwsource-com-html-nationworld.md)
+### [ Conflict in Iraq: Five U.S. soldiers die during sweeps of insurgent-held towns in Iraq. ](/news/2005/10/4/conflict-in-iraq-five-u-s-soldiers-die-during-sweeps-of-insurgent-held-towns-in-iraq.md)
 _Context: Conflict in Iraq, Iraq, Iraqi insurgency_
 
 ### [ The Malawi government says that 650,000 people in the country have died due to AIDS in the past two decades. There are now 850,000 orphaned children, 50% resulting from AIDS. ](/news/2005/10/4/the-malawi-government-says-that-650-000-people-in-the-country-have-died-due-to-aids-in-the-past-two-decades-there-are-now-850-000-orphaned.md)

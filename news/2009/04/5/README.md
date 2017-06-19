@@ -10,7 +10,7 @@ _Context: Earth, Kwangmyongsong-2, North Korea, Strategic Command systems, Unite
 _Context: Barack Obama, U.S. President, United States, free, nuclear warheads_
 
 ### [ The second round of Macedonia's presidential election takes place.  ](/news/2009/04/5/the-second-round-of-macedonia-s-presidential-election-takes-place.md)
-_Context: Macedonian, election, presidential, run-off_
+_Context: Macedonian, election, presidential, second round_
 
 ## [Previous Day...](/news/2009/04/4/index.md)
 

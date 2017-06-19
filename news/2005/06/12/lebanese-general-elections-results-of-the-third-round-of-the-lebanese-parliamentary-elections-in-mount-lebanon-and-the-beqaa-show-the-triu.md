@@ -1,9 +1,18 @@
 ### [2005-06-12](/news/2005/06/12/index.md)
 
-#  Lebanese general elections: Results of the third round of the Lebanese parliamentary elections in Mount Lebanon and the Beqaa show the triumph of Michel Aoun's list in the upper part of the region (Metn) and the success of Walid Jumblatt's coalition in the lower part (Chouf). [http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=15870 (Daily Star)] [http://abcnews.go.com/International/wireStory?id=842507 (ABC)] [http://www.iht.com/articles/2005/06/12/news/beirut.php (IHT)][http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=15873 (Daily Star)] [http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8766824 (Reuters)] [http://english.aljazeera.net/NR/exeres/B8A1880A-CB15-4661-B52E-B33F5A68DD7F.htm (Al-Jazeera)] Last stage of the elections will be next Sunday in North Lebanon.
+#  Lebanese general elections: Results of the third round of the Lebanese parliamentary elections in Mount Lebanon and the Beqaa show the triumph of Michel Aoun's list in the upper part of the region (Metn) and the success of Walid Jumblatt's coalition in the lower part (Chouf). 
+
+The elections in Mount Lebanon&#39;s third electoral district of Baabda-Aley were colored with security clashes as police and army officers struggled to keep the voting stations and surrounding areas secure. Sunday&#39;s polls in central and eastern Lebanon proved to be the fiercest electoral battle yet with anti-Syrian factions squaring off against each other.
 
 
+### Source:
 
+1. [ABC](http://abcnews.go.com/International/wireStory?id=842507)
+2. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/B8A1880A-CB15-4661-B52E-B33F5A68DD7F.htm)
+3. [Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=15870)
+4. [Daily Star](http://www.dailystar.com.lb/article.asp?edition_id=1&categ_id=2&article_id=15873)
+5. [IHT](http://www.iht.com/articles/2005/06/12/news/beirut.php)
+6. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8766824)
 
 ### Related:
 

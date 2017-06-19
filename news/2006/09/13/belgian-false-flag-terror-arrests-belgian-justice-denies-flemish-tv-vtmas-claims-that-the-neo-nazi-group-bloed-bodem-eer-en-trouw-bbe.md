@@ -1,9 +1,14 @@
 ### [2006-09-13](/news/2006/09/13/index.md)
 
-#  Belgian False Flag Terror arrests: Belgian justice denies Flemish TV vtm's claims that the neo-Nazi group Bloed, Bodem, Eer en Trouw (BBET), close to the Flemish branch of Blood & Honour, was projecting false flag terrorist operations (although it does accuse the group, which included soldiers, of preparing bombings to "destabilize" the country, and prolonged detention of the suspects on September 12). VTM Flemish TV declared that BBET was preparing itself to kill Filip Dewinter, one of the leaders of the far right Flemish party Vlaams Belang, and to charge the Islamist movement for the assassination. In the ensuing confusion, they would have then assassinated Dyab Abou Jahjah, leader of the European Arab League [http://www.lesoir.be/actualite/belgique/2006/09/12/article_ils_voulaient_tuer_filip_dewinter.shtml Le Soir, (French)][http://www2.knack.be/articles/index.jsp?articleID=45909&sectionID=546&siteID=11 Knack, (Dutch)]. 
+#  Belgian False Flag Terror arrests: Belgian justice denies Flemish TV vtm's claims that the neo-Nazi group Bloed, Bodem, Eer en Trouw (BBET), close to the Flemish branch of Blood & Honour, was projecting false flag terrorist operations (although it does accuse the group, which included soldiers, of preparing bombings to "destabilize" the country, and prolonged detention of the suspects on September 12). VTM Flemish TV declared that BBET was preparing itself to kill Filip Dewinter, one of the leaders of the far right Flemish party Vlaams Belang, and to charge the Islamist movement for the assassination. In the ensuing confusion, they would have then assassinated Dyab Abou Jahjah, leader of the European Arab League 
 
 
 
+
+### Source:
+
+1. [Knack, (Dutch](http://www2.knack.be/articles/index.jsp?articleID=45909&sectionID=546&siteID=11)
+2. [Le Soir, (French](http://www.lesoir.be/actualite/belgique/2006/09/12/article_ils_voulaient_tuer_filip_dewinter.shtml)
 
 ### Related:
 

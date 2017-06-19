@@ -1,6 +1,6 @@
 ## [2010-07-27](/news/2010/07/27/index.md)
 
-### [The Afghan War Diary claim that Pakistan's Inter-Service Intelligence (ISI) orchestrated the suicide attack on the Indian embassy in Kabul in 2008, which left 40 dead. [http://english.samaylive.com/world/676469784.html (samaylive)].](/news/2010/07/27/the-afghan-war-diary-claim-that-pakistan-s-inter-service-intelligence-isi-orchestrated-the-suicide-attack-on-the-indian-embassy-in-kabul-i.md)
+### [The Afghan War Diary claim that Pakistan's Inter-Service Intelligence (ISI) orchestrated the suicide attack on the Indian embassy in Kabul in 2008, which left 40 dead. ](/news/2010/07/27/the-afghan-war-diary-claim-that-pakistan-s-inter-service-intelligence-isi-orchestrated-the-suicide-attack-on-the-indian-embassy-in-kabul-i.md)
 _Context: India, Inter-Service Intelligence, Kabul, Pakistan, classified information, embassies, suicide attack_
 
 ### [Experts verify that photographic negatives bought at a garage sale are early works of the American photographer Ansel Adams. ](/news/2010/07/27/experts-verify-that-photographic-negatives-bought-at-a-garage-sale-are-early-works-of-the-american-photographer-ansel-adams.md)

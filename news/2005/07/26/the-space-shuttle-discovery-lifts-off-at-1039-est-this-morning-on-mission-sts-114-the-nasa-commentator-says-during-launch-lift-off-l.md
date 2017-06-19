@@ -1,9 +1,13 @@
 ### [2005-07-26](/news/2005/07/26/index.md)
 
-#  The Space Shuttle ''Discovery'' lifts off at 1039 EST this morning on mission STS-114. The NASA commentator says during launch "Lift-off, lift-off, and return to America's journey to the Moon, Mars, and beyond". [http://news.bbc.co.uk/2/hi/science/nature/4716463.stm (BBC)].
+#  The Space Shuttle ''Discovery'' lifts off at 1039 EST this morning on mission STS-114. The NASA commentator says during launch "Lift-off, lift-off, and return to America's journey to the Moon, Mars, and beyond". 
 
 
 
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/4716463.stm)
 
 ### Related:
 
