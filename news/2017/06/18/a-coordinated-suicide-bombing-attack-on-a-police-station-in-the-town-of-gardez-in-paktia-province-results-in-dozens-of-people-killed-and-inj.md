@@ -7,7 +7,7 @@ As many as five suicide bombers attack a police headquarters in eastern Afghanis
 
 ### Source:
 
-1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2017-06-18/afghanistan-suicide-bomb-blast-kills-and-wounds-dozens/8628940)
+1. [Reuters via Aus. Broadcasting Corp.](http://www.abc.net.au/news/2017-06-18/afghanistan-suicide-bomb-blast-kills-and-wounds-dozens/8628940)
 
 ### Related:
 
