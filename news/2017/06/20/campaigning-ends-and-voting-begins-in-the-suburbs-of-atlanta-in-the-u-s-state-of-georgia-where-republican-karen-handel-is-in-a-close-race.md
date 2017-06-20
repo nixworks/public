@@ -8,6 +8,7 @@ Karen Handel and Jon Ossoff focused on turnout on election eve. Cable television
 ### Source:
 
 1. [Politico](http://www.politico.com/story/2017/06/19/ossoff-handel-georgia-special-election-239733)
+2. [Reuters](http://www.reuters.com/article/us-usa-politics-georgia-election-idUSKBN19A2TD)
 
 ### Related:
 

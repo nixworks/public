@@ -23,6 +23,9 @@ Carrie Fisher had a drug cocktail in her system when she died in late December a
 ### [The number of people displaced globally totals 65.6 million after an addition of 10.3 million people displaced in 2016. Syria, Colombia, Afghanistan, Iraq and South Sudan are the countries in the top five.  ](/news/2017/06/19/the-number-of-people-displaced-globally-totals-65-6-million-after-an-addition-of-10-3-million-people-displaced-in-2016-syria-colombia-afg.md)
 The number of people displaced from their homes across the world climbed slightly to 65.6 million last year, with the escalating conflict in South Sudan accounting for the rise, the United Nations refugee agency said Monday.
 
+### [Two people are attacked and killed by black bears, in separate incidents in Alaska, following a rise in bear attacks in that state. ](/news/2017/06/19/two-people-are-attacked-and-killed-by-black-bears-in-separate-incidents-in-alaska-following-a-rise-in-bear-attacks-in-that-state.md)
+_Context: Alaska, Bear attacks, black bear_
+
 ### [Brexit negotiations begin in Brussels. ](/news/2017/06/19/brexit-negotiations-begin-in-brussels.md)
 UK and EU representatives say opening day of discussions will mainly deal with timing and structure of separation talks
 
