@@ -1,6 +1,6 @@
 ### [2017-06-19](/news/2017/06/19/index.md)
 
-# The autopsy of actress Carrie Fisher reveals a lifestyle of recreational drug use with results showing the presence of multiple drugs such as alcohol, cocaine, MDMA (Molly, ecstasy), methadone and opiates. 
+# The autopsy of actress Carrie Fisher reveals a lifestyle of recreational drug use with results showing the presence of multiple drugs such as alcohol, cocaine, MDMA, methadone and opiates. 
 
 Carrie Fisher had a drug cocktail in her system when she died in late December after going into cardiac arrest aboard an LAX-bound flight.
 

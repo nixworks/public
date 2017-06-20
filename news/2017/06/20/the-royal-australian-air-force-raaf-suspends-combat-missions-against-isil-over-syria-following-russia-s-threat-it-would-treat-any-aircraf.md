@@ -7,7 +7,8 @@ Move follows Moscow’s warning coalition planes west of Euphrates will be a pot
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/australia-news/2017/jun/20/raaf-suspends-air-operations-over-syria-after-russian-threat-to-coalition-forces)
+1. [BBC](http://www.bbc.co.uk/news/world-middle-east-40344534)
+2. [The Guardian](https://www.theguardian.com/australia-news/2017/jun/20/raaf-suspends-air-operations-over-syria-after-russian-threat-to-coalition-forces)
 
 ### Related:
 
