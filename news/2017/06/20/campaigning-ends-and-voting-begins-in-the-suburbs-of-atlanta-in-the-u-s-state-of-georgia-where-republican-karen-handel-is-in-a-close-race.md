@@ -1,14 +1,15 @@
 ### [2017-06-20](/news/2017/06/20/index.md)
 
-# Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia, where Republican Karen Handel is in a close race with her Democratic challenger Jon Ossoff. 
+# Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia, where Republican Karen Handel is in a close race with Democratic challenger Jon Ossoff. 
 
 Karen Handel and Jon Ossoff focused on turnout on election eve. Cable television focused on a caustic ad.
 
 
 ### Source:
 
-1. [Politico](http://www.politico.com/story/2017/06/19/ossoff-handel-georgia-special-election-239733)
-2. [Reuters](http://www.reuters.com/article/us-usa-politics-georgia-election-idUSKBN19A2TD)
+1. [Mediaite](http://www.mediaite.com/online/president-trump-tweets-his-closing-argument-for-karen-handel-vote-today/)
+2. [Politico](http://www.politico.com/story/2017/06/19/ossoff-handel-georgia-special-election-239733)
+3. [Reuters](http://www.reuters.com/article/us-usa-politics-georgia-election-idUSKBN19A2TD)
 
 ### Related:
 
