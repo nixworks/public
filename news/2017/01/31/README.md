@@ -31,7 +31,7 @@ Hafiz Muhammad Saeed, head of Jamaat-ud-Dawa, taken in police custody to his hom
 Amid tensions over president&rsquo;s travel ban, a longtime Washington figure is elevated to a key administration role.
 
 ### [President Donald Trump has nominated Judge Neil Gorsuch to fill the vacant seat on the Supreme Court of the United States. Neil Gorsuch is the youngest nominee to the court in 25 years. ](/news/2017/01/31/president-donald-trump-has-nominated-judge-neil-gorsuch-to-fill-the-vacant-seat-on-the-supreme-court-of-the-united-states-neil-gorsuch-is-t.md)
-_Context: Donald Trump, Neil Gorsuch, Supreme Court_
+_Context: Donald Trump, Neil Gorsuch, Supreme Court of the United States_
 
 ### [The State Department memorandum about concerns with this travel ban is submitted to acting Secretary of State Tom Shannon through the federal government's Dissent Channel. This protest memo had between 900-1,000 signatures. Department officials said these signatures are far more than any dissent cable in recent years, adding more diplomats want to add their names to it. ](/news/2017/01/31/the-state-department-memorandum-about-concerns-with-this-travel-ban-is-submitted-to-acting-secretary-of-state-tom-shannon-through-the-federa.md)
 About 900 State Department officials so far have signed an internal memo protesting a travel ban by U.S. President Donald Trump on refugees and travelers f

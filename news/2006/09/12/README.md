@@ -1,7 +1,7 @@
 ## [2006-09-12](/news/2006/09/12/index.md)
 
 ### [ Cypriot authorities respond to an Interpol alert and intercept ''Grigorio-1,'' a North Korean ship bound for Syria. Cypriot security agents found a mobile air defense system and the components of a missile launcher in the ship, though the Government of North Korea insists the ship only contained weather-observation equipment. The Syrian government has requested the ship be allowed to dock in Syria. ](/news/2006/09/12/cypriot-authorities-respond-to-an-interpol-alert-and-intercept-grigorio-1-a-north-korean-ship-bound-for-syria-cypriot-security-agents.md)
-_Context: Cyprus, Grigorio-1, Interpol, North Korea, Syria, air defense, government_
+_Context: Cyprus, Government of North Korea, Grigorio-1, Interpol, North Korea, Syria, air defense_
 
 ### [ Belgian False Flag Terror arrests: A court in Belgium prolongs the custody of 12 suspects in the case against a neo-Nazi group inside the Belgian Army, named Bloed-Bodem-Eer en Trouw (BBET). They are accused of terrorism, weapons traffic, racism and negationism. (Wikinews)](/news/2006/09/12/belgian-false-flag-terror-arrests-a-court-in-belgium-prolongs-the-custody-of-12-suspects-in-the-case-against-a-neo-nazi-group-inside-the-b.md)
 _Context: (Wikinews), Belgian Army, Belgium, Bloed, Bodem, Eer en Trouw, negationism, neo-Nazi, racial bias, terrorism_

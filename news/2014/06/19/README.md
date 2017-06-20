@@ -7,7 +7,7 @@ Felipe&#x27;s coronation on Thursday, following King Juan Carlos&#x27;s recent a
 Romanian prosecutors said they detained President Traian Basescu’s brother on Thursday for allegedly taking a bribe to help keep an underworld boss out of jail, prompting the prime minister to call for the president’s resignation.
 
 ### [The U.S. Supreme Court cuts back sharply on the range of patentable software, in a case involving business methods. ](/news/2014/06/19/the-u-s-supreme-court-cuts-back-sharply-on-the-range-of-patentable-software-in-a-case-involving-business-methods.md)
-_Context: Supreme Court, a case, business methods, software_
+_Context: Supreme Court of the United States, a case, business methods, software_
 
 ### [The Ukraine Parliament confirms all government candidates, including that of foreign minister, appointed the previous day by President Petro Poroshenko. ](/news/2014/06/19/the-ukraine-parliament-confirms-all-government-candidates-including-that-of-foreign-minister-appointed-the-previous-day-by-president-petro.md)
 _Context: Petro Poroshenko, Ukraine_

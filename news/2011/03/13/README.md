@@ -25,7 +25,7 @@ Israel approves the construction of hundreds of homes for Jewish settlers in the
 _Context: Chinese human rights_
 
 ### [3,001 people are arrested by Chinese authorities on charges of product piracy. ](/news/2011/03/13/3-001-people-are-arrested-by-chinese-authorities-on-charges-of-product-piracy.md)
-_Context: anti-piracy_
+_Context: pirate_
 
 ### [Four police officers are shot in Buchanan County in the US state of Virginia with two killed. ](/news/2011/03/13/four-police-officers-are-shot-in-buchanan-county-in-the-us-state-of-virginia-with-two-killed.md)
 _Context: Buchanan County, Virginia_

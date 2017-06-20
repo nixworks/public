@@ -37,7 +37,7 @@ _Context: Germany, John Demjanjuk, World War II, accessory to murder_
 The police chief of a district south of Kabul that the Americans had sought to make a Taliban-free model of safety and security was killed in a roadside blast.
 
 ### [ U.S. Senate confirmation hearings for United States Supreme Court nominee Sonia Sotomayor begin. ](/news/2009/07/13/u-s-senate-confirmation-hearings-for-united-states-supreme-court-nominee-sonia-sotomayor-begin.md)
-_Context: Sonia Sotomayor, Supreme Court, United States, United States Senate_
+_Context: Sonia Sotomayor, Supreme Court of the United States, United States, United States Senate_
 
 ### [ Former Prime Minister of Lebanon Amin al-Hafez dies at age 83. ](/news/2009/07/13/former-prime-minister-of-lebanon-amin-al-hafez-dies-at-age-83.md)
 _Context: Amin al-Hafez, Prime Minister_

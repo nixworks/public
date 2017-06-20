@@ -1,7 +1,7 @@
 ## [2007-06-2](/news/2007/06/2/index.md)
 
 ### [ The U.S. Navy dock landing ship USS ''Carter Hill'' confronts pirates off the coast of Somalia after they had hijacked a Danish merchant vessel, the MV ''Danica White''. ](/news/2007/06/2/the-u-s-navy-dock-landing-ship-uss-carter-hill-confronts-pirates-off-the-coast-of-somalia-after-they-had-hijacked-a-danish-merchant-ve.md)
-_Context: Denmark, Somalia, USS ''Carter Hill'', United States Navy, anti-piracy, dock landing ship_
+_Context: Denmark, Somalia, USS ''Carter Hill'', United States Navy, dock landing ship, pirate_
 
 ### [ Israeli troops kill a Palestinian shopkeeper and seriously injure another in the West Bank town of Nablus. ](/news/2007/06/2/israeli-troops-kill-a-palestinian-shopkeeper-and-seriously-injure-another-in-the-west-bank-town-of-nablus.md)
 _Context: Israel, Nablus, Palestinian, West Bank_

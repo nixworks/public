@@ -19,7 +19,7 @@ _Context: Ariel Sharon, Gaza Strip, George W. Bush, Israel, Israeli settlement, 
 _Context: Askar Akayev, Kyrgyzstan, President, Tulip Revolution, resignation_
 
 ### [ 2005 anti-Japanese demonstrations: 20,000 protesters marching in two cities in southern Guangdong province objecting to a recently amended Japanese schoolbook which allegedly glosses over Japan's imperialist past. ([http://www.cnn.com/2005/WORLD/asiapcf/04/10/china.japan.protest/index.html CNN])](/news/2005/04/11/2005-anti-japanese-demonstrations-20-000-protesters-marching-in-two-cities-in-southern-guangdong-province-objecting-to-a-recently-amended.md)
-_Context: Guangdong province, Japan, Japanese empire, Japanese history textbooks controversy, protest_
+_Context: Guangdong province, Japan, Japanese empire, Japanese history textbooks controversy, Protest_
 
 ### [ Jeremy Jaynes, estimated to be the world's eighth most prolific spammer, is sentenced to nine years imprisonment. ](/news/2005/04/11/jeremy-jaynes-estimated-to-be-the-world-s-eighth-most-prolific-spammer-is-sentenced-to-nine-years-imprisonment.md)
 _Context: Jeremy Jaynes, prison, spam_

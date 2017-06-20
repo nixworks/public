@@ -13,7 +13,7 @@ _Context: Abu Hureira, Fatah al-Islam, Lebanon_
 A ruling by a judge in Trinidad brings three men one step closer to Brooklyn and the charges that they conspired to attack Kennedy International Airport. 
 
 ### [ United States District Court judge Ronald Whyte strikes down a California law aiming to prohibit minors from buying or renting violent video games on First Amendment grounds. ](/news/2007/08/6/united-states-district-court-judge-ronald-whyte-strikes-down-a-california-law-aiming-to-prohibit-minors-from-buying-or-renting-violent-vide.md)
-_Context: California, Ronald Whyte, U.S. federal court, U.S. laws, judge, minors, video game_
+_Context: California, First Amendment, Ronald Whyte, U.S. federal court, judge, minors, video game_
 
 ### [ An Arizona judge rules that a United States Border Patrol agent Nicholas Corbett must stand trial for murder for shooting dead a Mexican immigrant. ](/news/2007/08/6/an-arizona-judge-rules-that-a-united-states-border-patrol-agent-nicholas-corbett-must-stand-trial-for-murder-for-shooting-dead-a-mexican-im.md)
 A U.S. Border Patrol agent must stand trial for murder in the shooting of a Mexican man trying to enter the United States, an Arizona judge ruled Monday in a case that drew criticism from Mexico.

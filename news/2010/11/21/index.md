@@ -6,7 +6,7 @@ Islamabad, Nov 21 (IANS) At least six suspected militants were killed Sunday in 
 ### [Seven people are killed after a bomb planted by suspected Maoist rebels explodes in Aurangabad district, Bihar, northeastern India. ](/news/2010/11/21/seven-people-are-killed-after-a-bomb-planted-by-suspected-maoist-rebels-explodes-in-aurangabad-district-bihar-northeastern-india.md)
 The bomb, which was found by the security personnel on Saturday during the final phase of Bihar polls, suddenly exploded today killing eight persons on the spot.
 
-### [Pope Benedict XVI says his personal opinion is that condoms may be used "in exceptional cases" to combat HIV-AIDS, but the Vatican says it has not has changed its policy on contraception. ](/news/2010/11/21/pope-benedict-xvi-says-his-personal-opinion-is-that-condoms-may-be-used-in-exceptional-cases-to-combat-hiv-aids-but-the-vatican-says-it-h.md)
+### [Pope Benedict XVI says his personal opinion is that condoms may be used "in exceptional cases" to combat HIV-AIDS, but the Vatican says it has not changed its policy on contraception. ](/news/2010/11/21/pope-benedict-xvi-says-his-personal-opinion-is-that-condoms-may-be-used-in-exceptional-cases-to-combat-hiv-aids-but-the-vatican-says-it-h.md)
 Catholic writer Austin Ivereigy explains that using condoms as a contraception is still forbidden by the Catholic Church, despite the Pope&#039;s recent comments about the use of condoms to prevent infection.
 
 ### [Canadian pop star Justin Bieber wins four awards at the American Music Awards. ](/news/2010/11/21/canadian-pop-star-justin-bieber-wins-four-awards-at-the-american-music-awards.md)

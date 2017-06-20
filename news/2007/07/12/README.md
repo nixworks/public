@@ -46,7 +46,7 @@ _Context: Jungfrau, Swiss, Swiss Army, avalanche, recruits_
 _Context: American Airlines, Middle East, false alarm, security controls_
 
 ### [ A ship carrying oil for fuel to North Korea departs from South Korea. The government of North Korea may close the Yongbyon Nuclear Scientific Research Center after the shipment arrives. ](/news/2007/07/12/a-ship-carrying-oil-for-fuel-to-north-korea-departs-from-south-korea-the-government-of-north-korea-may-close-the-yongbyon-nuclear-scientif.md)
-_Context: North Korea, South Korea, Yongbyon Nuclear Scientific Research Center, government_
+_Context: Government of North Korea, North Korea, South Korea, Yongbyon Nuclear Scientific Research Center_
 
 ### [ The government of Cote d'Ivoire decides to ask the United Nations to probe the failed assassination attempt against Prime Minister Guillaume Soro. ](/news/2007/07/12/the-government-of-ca-te-d-ivoire-decides-to-ask-the-united-nations-to-probe-the-failed-assassination-attempt-against-prime-minister-guillau.md)
 _Context: Cote d'Ivoire, Guillaume Soro, Prime Minister, United Nations, assassination attempt, government_

@@ -1,9 +1,9 @@
 ## [2017-06-19](/news/2017/06/19/index.md)
 
-### [At least one person has been killed  and ten injured after a van runs over pedestrians outside the Finsbury Park Mosque in the north London suburb of Finsbury Park. Police are investigating the act as a terrorist incident. ](/news/2017/06/19/at-least-one-person-has-been-killed-and-ten-injured-after-a-van-runs-over-pedestrians-outside-the-finsbury-park-mosque-in-the-north-london.md)
+### [At least one person has been killed and ten injured after a van runs over pedestrians outside the Finsbury Park Mosque in the north London suburb of Finsbury Park. Police are investigating the act as a terrorist incident. ](/news/2017/06/19/at-least-one-person-has-been-killed-and-ten-injured-after-a-van-runs-over-pedestrians-outside-the-finsbury-park-mosque-in-the-north-london-s.md)
 _Context: 2017 Finsbury Park attack, Finsbury Park, Finsbury Park Mosque, north London_
 
-### [The driver of a car containing guns rammed the car into a police vehicle on the Champs-Elysees in Paris, France. He was immediately killed by police. ](/news/2017/06/19/the-driver-of-a-car-containing-guns-rammed-the-car-into-a-police-vehicle-on-the-champs-alysa-c-es-in-paris-france-he-was-immediately-killed.md)
+### [A car carrying firearms and gas bottles deliberately rammed a police vehicle on the Champs-Elysees in Paris, France, subsequently bursting into flames. The driver, who was on a security watchlist, was shot dead. ](/news/2017/06/19/a-car-carrying-firearms-and-gas-bottles-deliberately-rammed-a-police-vehicle-on-the-champs-alysa-c-es-in-paris-france-subsequently-bursting.md)
 _Context: Champs-Elysees, France, June 2017 Champs-Elysees car ramming attack, Paris_
 
 ### [The number of people displaced globally totals 65.6 million after an addition of 10.3 million people displaced in 2016. Syria, Colombia, Afghanistan, Iraq and South Sudan are the countries in the top five.  ](/news/2017/06/19/the-number-of-people-displaced-globally-totals-65-6-million-after-an-addition-of-10-3-million-people-displaced-in-2016-syria-colombia-afg.md)

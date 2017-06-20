@@ -4,7 +4,7 @@
 _Context: Imax, Volcanoes of the Deep Sea, evolving, film, theatrically_
 
 ### [ Tulip Revolution in Kyrgyzstan: Kyrgyz opposition leader Kurmanbek Bakiyev is named interim President of Kyrgyzstan, while ousted  President Askar Akayev remains defiant. [http://www.alertnet.org/thenews/newsdesk/L25245723.htm (Reuters)] Looters ransack the capital city of Bishkek following the protests.  ](/news/2005/03/25/tulip-revolution-in-kyrgyzstan-p-kyrgyz-opposition-leader-kurmanbek-bakiyev-is-named-interim-president-of-kyrgyzstan-while-ousted-preside.md)
-_Context: Askar Akayev, Bishkek, Kurmanbek Bakiyev, Kyrgyzstan, Looting, President, Tulip Revolution, capital, protest_
+_Context: Askar Akayev, Bishkek, Kurmanbek Bakiyev, Kyrgyzstan, Looting, President, Protest, Tulip Revolution, capital_
 
 ### [ Doctors at a Monaco hospital call the condition of Prince Rainier III "worrying" and are unsure if he will recover from heart and renal failure.  He remains on a ventilator. ](/news/2005/03/25/doctors-at-a-monaco-hospital-call-the-condition-of-prince-rainier-iii-worrying-and-are-unsure-if-he-will-recover-from-heart-and-renal-fai.md)
 _Context: Monaco, Prince Rainier, heart failure, renal failure, ventilator_

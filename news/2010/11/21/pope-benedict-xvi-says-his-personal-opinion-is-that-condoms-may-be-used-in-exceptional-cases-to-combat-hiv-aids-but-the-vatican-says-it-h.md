@@ -1,6 +1,6 @@
 ### [2010-11-21](/news/2010/11/21/index.md)
 
-# Pope Benedict XVI says his personal opinion is that condoms may be used "in exceptional cases" to combat HIV-AIDS, but the Vatican says it has not has changed its policy on contraception. 
+# Pope Benedict XVI says his personal opinion is that condoms may be used "in exceptional cases" to combat HIV-AIDS, but the Vatican says it has not changed its policy on contraception. 
 
 Catholic writer Austin Ivereigy explains that using condoms as a contraception is still forbidden by the Catholic Church, despite the Pope&#039;s recent comments about the use of condoms to prevent infection.
 

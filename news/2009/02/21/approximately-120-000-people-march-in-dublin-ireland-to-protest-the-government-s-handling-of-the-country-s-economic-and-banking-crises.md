@@ -11,7 +11,7 @@ Up to 120,000 people have marched in Dublin in protest at how the Government is 
 
 ### Related:
 
-1. [ Two thousand Garda protest against Ireland's government at Dublin's Leinster House. ](/news/2009/02/25/two-thousand-gardai-protest-against-ireland-s-government-at-dublin-s-leinster-house.md) _Context: Dublin, Government of Ireland, Republic of Ireland, protest_
+1. [ Two thousand Garda protest against Ireland's government at Dublin's Leinster House. ](/news/2009/02/25/two-thousand-gardai-protest-against-ireland-s-government-at-dublin-s-leinster-house.md) _Context: Dublin, Government of Ireland, Protest, Republic of Ireland_
 2. [Officials from the International Monetary Fund, the European Central Bank and the European Union arrive in Dublin to discuss the Irish debt crisis with the Irish Government. ](/news/2010/11/18/officials-from-the-international-monetary-fund-the-european-central-bank-and-the-european-union-arrive-in-dublin-to-discuss-the-irish-debt.md) _Context: Dublin, Government of Ireland, falls back into recession_
 3. [ The Civil and Public Services Union protests against Ireland's government. ](/news/2009/03/19/the-civil-and-public-services-union-protests-against-ireland-s-government.md) _Context: Government of Ireland, Republic of Ireland, falls back into recession_
 4. [Leo Varadkar becomes the first gay Taoiseach of the  Republic of Ireland. ](/news/2017/06/14/leo-varadkar-becomes-the-first-gay-taoiseach-of-the-republic-of-ireland.md) _Context: Government of Ireland, Republic of Ireland_

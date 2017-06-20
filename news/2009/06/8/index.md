@@ -7,7 +7,7 @@ _Context: Egypt, Nile delta_
 _Context: 19 January 2009, His Majesty's Government, Lloyds Banking Group, PS, nationalisation_
 
 ### [ The Supreme Court of the United States stays the sale of Chrysler to Fiat in ''Indiana State Police Pension Trust v. Chrysler''. ](/news/2009/06/8/the-supreme-court-of-the-united-states-stays-the-sale-of-chrysler-to-fiat-in-indiana-state-police-pension-trust-v-chrysler.md)
-_Context: Chrysler, Fiat, Indiana State Police Pension Trust v. Chrysler, Supreme Court, stays_
+_Context: Chrysler, Fiat, Indiana State Police Pension Trust v. Chrysler, Supreme Court of the United States, stays_
 
 ### [ Four men, including Real Irish Republican Army members Michael McKevitt and Colm Murphy, are declared responsible for the bombing of Omagh, County Tyrone, Northern Ireland, in 1998. ](/news/2009/06/8/four-men-including-real-irish-republican-army-members-michael-mckevitt-and-colm-murphy-are-declared-responsible-for-the-bombing-of-omagh.md)
 Four of the five men being sued by the families of the Omagh bomb victims have been found liable for the August 1998 attack.

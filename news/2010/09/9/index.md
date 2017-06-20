@@ -37,7 +37,7 @@ _Context: People's Republic of China, Shandong, anti-corruption, bribe_
 _Context: Manila Police District, Manila hostage crisis, Philippines_
 
 ### [US District Court Judge Virginia A. Phillips rules that the United States military's don't ask, don't tell policy violates the First Amendment rights of gay men and lesbians. ](/news/2010/09/9/us-district-court-judge-virginia-a-phillips-rules-that-the-united-states-military-s-don-t-ask-don-t-tell-policy-violates-the-first-amendme.md)
-_Context: U.S. laws, US District Court Judge, United States military, Virginia A. Phillips, don't ask, don't tell, gay, lesbian_
+_Context: First Amendment, US District Court Judge, United States military, Virginia A. Phillips, don't ask, don't tell, gay, lesbian_
 
 ### [A woman kills two people and injures another at a shooting incident at a Kraft baking plant in the United States city of Philadelphia, Pennsylvania. ](/news/2010/09/9/a-woman-kills-two-people-and-injures-another-at-a-shooting-incident-at-a-kraft-baking-plant-in-the-united-states-city-of-philadelphia-penns.md)
 Minutes after a woman was suspended from her job at a Kraft Foods plant and escorted out, she returned with a handgun and opened fire, killing two people and critically injuring a third before being taken into custody, police said. 

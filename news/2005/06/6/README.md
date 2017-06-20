@@ -22,7 +22,7 @@ _Context: Debian GNU/Linux_
 _Context: Apple Computer, IBM, Intel, Macintosh_
 
 ### [ The Supreme Court of the United States found for the federal government in a 6-3 decision in the medical marijuana case Ashcroft v. Raich. The court also decided in Spector v. Norwegian Cruise Line Ltd. by ruling that the ADA applies to foreign cruise ships.](/news/2005/06/6/the-supreme-court-of-the-united-states-found-for-the-federal-government-in-a-6-3-decision-in-the-medical-marijuana-case-ashcroft-v-raich.md)
-_Context: ADA, Ashcroft v. Raich, Medical marijuana, Spector v. Norwegian Cruise Line Ltd., Supreme Court_
+_Context: ADA, Ashcroft v. Raich, Medical marijuana, Spector v. Norwegian Cruise Line Ltd., Supreme Court of the United States_
 
 ### [ U.S. Secretary of State Condoleezza Rice opened the 35th General Assembly meeting of the Organization of American States Sunday in Fort Lauderdale, Florida. Secretary Rice called on member states to do more to protect democracy in the region, and strengthen civil society. ](/news/2005/06/6/u-s-secretary-of-state-condoleezza-rice-opened-the-35th-general-assembly-meeting-of-the-organization-of-american-states-sunday-in-fort-lau.md)
 _Context: Condoleezza Rice, Florida, Fort Lauderdale, Florida, Organization of American States_

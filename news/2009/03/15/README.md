@@ -22,7 +22,7 @@ _Context: Islamabad, Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minis
 _Context: Al Hillah, Iraq, association football_
 
 ### [ Two hundred protestors are arrested after a riot against police brutality in Montreal, Canada.  ](/news/2009/03/15/two-hundred-protestors-are-arrested-after-a-riot-against-police-brutality-in-montreal-canada.md)
-_Context: Canada, Montreal, police brutality, protest, riot_
+_Context: Canada, Montreal, Protest, police brutality, riot_
 
 ## [Previous Day...](/news/2009/03/14/index.md)
 

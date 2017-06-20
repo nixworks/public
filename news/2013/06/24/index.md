@@ -10,7 +10,7 @@ Israeli warplanes attack targets in the Gaza Strip after missiles are fired into
 Northern India is bracing itself for further floods during what is believed to be the heaviest monsoon rains for 60 years.
 
 ### [The U.S. Supreme Court decides ''Fisher v. University of Texas'', tightening constitutional scrutiny of the consideration of race in the college admissions process. ](/news/2013/06/24/the-u-s-supreme-court-decides-fisher-v-university-of-texas-tightening-constitutional-scrutiny-of-the-consideration-of-race-in-the-col.md)
-_Context: Fisher v. University of Texas, Supreme Court_
+_Context: Fisher v. University of Texas, Supreme Court of the United States_
 
 ### [Former Italian Prime Minister Silvio Berlusconi is found guilty of abusing his power and having sex with an underage prostitute, and is sentenced to seven years in prison. ](/news/2013/06/24/former-italian-prime-minister-silvio-berlusconi-is-found-guilty-of-abusing-his-power-and-having-sex-with-an-underage-prostitute-and-is-sent.md)
 _Context: Italian Prime Minister, Silvio Berlusconi, found guilty_

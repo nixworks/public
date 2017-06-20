@@ -22,7 +22,7 @@ _Context: Gjorge Ivanov, Macedonian, VMRO-DPMNE, election, presidential_
 _Context: France, Germany, Somali pirates, Somalia, Taiwan, United Kingdom, Yemen, ship_
 
 ### [ Indonesia's National Police shoot nine demonstrators at a pre-election protest in Nabire, West Papua. ](/news/2009/04/6/indonesia-s-national-police-shoot-nine-demonstrators-at-a-pre-election-protest-in-nabire-west-papua.md)
-_Context: 2009 legislative elections, Indonesia, Indonesian police, West Papua, demonstration, protest_
+_Context: 2009 legislative elections, Indonesia, Indonesian police, Protest, West Papua, demonstration_
 
 ## [Previous Day...](/news/2009/04/5/index.md)
 

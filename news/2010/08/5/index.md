@@ -112,7 +112,7 @@ The date for long-delayed presidential elections in Ivory Coast is set, in a mov
 Hip hop star Wyclef Jean formally registers to stand for president of his native Haiti as it rebuilds after the earthquake.
 
 ### [The United States Senate confirms the nomination of Elena Kagan as an associate justice of the U.S. Supreme Court. ](/news/2010/08/5/the-united-states-senate-confirms-the-nomination-of-elena-kagan-as-an-associate-justice-of-the-u-s-supreme-court.md)
-_Context: Elena Kagan, Justice, Supreme Court, United States Senate, confirms_
+_Context: Elena Kagan, Justice, Supreme Court of the United States, United States Senate, confirms_
 
 ### [Newly released files, which can be ](/news/2010/08/5/newly-released-files-which-can-be.md)
 Wartime British prime minister Winston Churchill banned the reporting of an alleged UFO incident because of fears it would create mass panic, according to new claims made public.

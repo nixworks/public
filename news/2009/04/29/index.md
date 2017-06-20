@@ -7,7 +7,7 @@ The government reported gross domestic product shrank at a 6.1 percent yearly ra
 _Context: United States, current outbreak, swine flu_
 
 ### [ India's government locks down Srinagar, Kashmir, to prevent anti-election protests. ](/news/2009/04/29/india-s-government-locks-down-srinagar-kashmir-to-prevent-anti-election-protests.md)
-_Context: Government of India, India, Kashmir, Srinagar, becomes, lockdown, protest_
+_Context: Government of India, India, Kashmir, Protest, Srinagar, becomes, lockdown_
 
 ### [ Australia announces the deployment of 450 additional soldiers to the Afghanistan War. ](/news/2009/04/29/australia-announces-the-deployment-of-450-additional-soldiers-to-the-afghanistan-war.md)
 _Context: Afghanistan, Australia, Defence Force, War in Afghanistan (2001-present), deployment_
