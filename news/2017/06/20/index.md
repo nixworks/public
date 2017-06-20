@@ -12,10 +12,10 @@ _Context: Argentina, Nazi_
 ### [Robert Kaplan, head of the Federal Reserve Bank of Dallas, says that low bond yields suggest sluggish growth ahead for the economy of the United States. ](/news/2017/06/20/robert-kaplan-head-of-the-federal-reserve-bank-of-dallas-says-that-low-bond-yields-suggest-sluggish-growth-ahead-for-the-economy-of-the-un.md)
 With yields on U.S. 10-year Treasuries as low as they are, the Federal Reserve needs to be careful about raising U.S. interest rates further, Dallas Federal Reserve President Robert Kaplan said on Tuesday.
 
-### [2017 Western U.S. A heat wave strikes the Western U.S. states of Arizona, California and Nevada that will last until Friday, the 23rd of June. ](/news/2017/06/20/2017-western-u-s-a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-that-will-last-until-friday-the-23rd-of-jun.md)
+### [2017 Western U.S. A heat wave strikes the Western U.S. states of Arizona, California and Nevada that will last until Friday, June 23. ](/news/2017/06/20/2017-western-u-s-a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-that-will-last-until-friday-june-23.md)
 _Context: Arizona, California, Nevada, Western U.S., heat wave_
 
-### [Tropical Storm Bret makes its way towards the eastern coasts of the Southern United States. ](/news/2017/06/20/tropical-storm-bret-makes-its-way-towards-the-eastern-coasts-of-the-southern-united-states.md)
+### [Tropical Storm Cindy makes its way towards the eastern coasts of the Southern United States. ](/news/2017/06/20/tropical-storm-cindy-makes-its-way-towards-the-eastern-coasts-of-the-southern-united-states.md)
 June&#039;s first tropical storm formed Monday in the Atlantic.
 
 ### [A Canadair firefighting plane reportedly crashes in Pedrogao Grande, central Portugal, while tackling raging wildfires. However, this claim has been denied by Portuguese authorities. ](/news/2017/06/20/a-canadair-firefighting-plane-reportedly-crashes-in-pedra3gapso-grande-central-portugal-while-tackling-raging-wildfires-however-this-clai.md)
