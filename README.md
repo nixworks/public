@@ -1,10 +1,24 @@
-## [News](/news/2017/06/19/index.md)
+## [News](/news/2017/06/20/index.md)
+
+### [Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia, where Republican Karen Handel is in a close race with her Democratic challenger Jon Ossoff. ](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-where-republican-karen-handel-is-in-a-close-race.md)
+Karen Handel and Jon Ossoff focused on turnout on election eve. Cable television focused on a caustic ad.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/06/19/index.md)
 
 ### [At least one person has been killed and ten injured after a van runs over pedestrians outside the Finsbury Park Mosque in the north London suburb of Finsbury Park. Police are investigating the act as a terrorist incident. ](/news/2017/06/19/at-least-one-person-has-been-killed-and-ten-injured-after-a-van-runs-over-pedestrians-outside-the-finsbury-park-mosque-in-the-north-london-s.md)
 _Context: 2017 Finsbury Park attack, Finsbury Park, Finsbury Park Mosque, north London_
 
 ### [A car carrying firearms and gas bottles deliberately rammed a police vehicle on the Champs-Elysees in Paris, France, subsequently bursting into flames. The driver, who was on a security watchlist, was shot dead. ](/news/2017/06/19/a-car-carrying-firearms-and-gas-bottles-deliberately-rammed-a-police-vehicle-on-the-champs-alysa-c-es-in-paris-france-subsequently-bursting.md)
 _Context: Champs-Elysees, France, June 2017 Champs-Elysees car ramming attack, Paris_
+
+### [The autopsy of actress Carrie Fisher reveals a lifestyle of recreational drug use with results showing the presence of multiple drugs such as alcohol, cocaine, MDMA (Molly, ecstasy), methadone and opiates. ](/news/2017/06/19/the-autopsy-of-actress-carrie-fisher-reveals-a-lifestyle-of-recreational-drug-use-with-results-showing-the-presence-of-multiple-drugs-such-a.md)
+Carrie Fisher had a drug cocktail in her system when she died in late December after going into cardiac arrest aboard an LAX-bound flight.
 
 ### [The number of people displaced globally totals 65.6 million after an addition of 10.3 million people displaced in 2016. Syria, Colombia, Afghanistan, Iraq and South Sudan are the countries in the top five.  ](/news/2017/06/19/the-number-of-people-displaced-globally-totals-65-6-million-after-an-addition-of-10-3-million-people-displaced-in-2016-syria-colombia-afg.md)
 The number of people displaced from their homes across the world climbed slightly to 65.6 million last year, with the escalating conflict in South Sudan accounting for the rise, the United Nations refugee agency said Monday.
@@ -24,13 +38,9 @@ The case could have broad impact on how the First Amendment is applied in other 
 ### [ Personal information of about 200 million U.S. citizens has been exposed on the Internet since January when  unsecured files were uploaded by Republican contractor Deep Root Analytics. The data, available via publicly accessible providers such as Amazon Web Services, included birth dates, home addresses, telephone numbers, religious affiliations, ethnicities, and political views. The problem was discovered by an UpGuard analyst. ](/news/2017/06/19/personal-information-of-about-200-million-u-s-citizens-has-been-exposed-on-the-internet-since-january-when-unsecured-files-were-uploaded.md)
 Sensitive personal details were available on a cloud server to anyone with the correct link.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/06/18/index.md)
+## [Day Before Yesterday](/news/2017/06/18/index.md)
 
 ### [A coordinated suicide bombing attack on a police station in the town of Gardez in Paktia Province results in dozens of people killed and injured. ](/news/2017/06/18/a-coordinated-suicide-bombing-attack-on-a-police-station-in-the-town-of-gardez-in-paktia-province-results-in-dozens-of-people-killed-and-inj.md)
 As many as five suicide bombers attack a police headquarters in eastern Afghanistan in an attack doctors say killed at least five police and wounded at least 30 other people.
@@ -67,41 +77,7 @@ Six members of the Presidential Advisory Council on HIV/AIDS (PACHA) resigned in
 
 ---
 
-## [Day Before Yesterday](/news/2017/06/17/index.md)
-
-### [At least one Afghan is killed and seven American soldiers wounded in an "insider attack" at Camp Shaheen, in the northern city of Mazar-i-Sharif. An earlier report that Americans had been killed is incorrect. The Taliban claims responsibility. ](/news/2017/06/17/at-least-one-afghan-is-killed-and-seven-american-soldiers-wounded-in-an-insider-attack-at-camp-shaheen-in-the-northern-city-of-mazar-i-sh.md)
-I-SHARIF, Afghanistan (Reuters) - At least one Afghan was killed and seven American soldiers were wounded in an &quot;insider attack&quot; at a base in northern Afghanistan on Saturday, a U.S. military official said.
-
-### [A suspected terrorist bomb explosion in an Andino shopping mall's ladies room in Bogota, Colombia, kills three women and injures at least 11. ](/news/2017/06/17/a-suspected-terrorist-bomb-explosion-in-an-andino-shopping-mall-s-ladies-room-in-bogota-colombia-kills-three-women-and-injures-at-least-1.md)
-A bomb attack inside a shopping mall in one of the most exclusive areas of Colombia&#8217;s capital Bogota killed at least three and injured nine people on Saturday. According to&hellip;
-
-### [The USS ''Fitzgerald'', a United States Navy destroyer, collides with a merchant ship MV ''ACX Crystal'' off the coast of Japan at around 2:30 a.m. local time, with seven American sailors reported missing. The ship was taking on water and able to operate at limited propulsion. ](/news/2017/06/17/the-uss-fitzgerald-a-united-states-navy-destroyer-collides-with-a-merchant-ship-mv-acx-crystal-off-the-coast-of-japan-at-around-2.md)
-_Context: Japan, MV ''ACX Crysta''l, USS ''Fitzgerald'', USS ''Fitzgerald'' and MV ''ACX Crystal'' collision, United States Navy, collides_
-
-### [Four people are killed as intense rains and snowstorms hit central and southern Chile. About 3,000 people are homeless, and hundreds of thousands have lost power. ](/news/2017/06/17/four-people-are-killed-as-intense-rains-and-snowstorms-hit-central-and-southern-chile-about-3-000-people-are-homeless-and-hundreds-of-thou.md)
-Intense rains and snowstorms in central and southern Chile have left four people dead and nearly 3,000 homeless, as well as hundreds of thousands without power, authorities said on Saturday.
-
-### [Wildfires in central Portugal kill at least 24 people and several firefighters are among 20 injured. The death toll so far is the largest due to a wildfire in Portugal since 1966. ](/news/2017/06/17/wildfires-in-central-portugal-kill-at-least-24-people-and-several-firefighters-are-among-20-injured-the-death-toll-so-far-is-the-largest-du.md)
-The majority died while trying to flee in their cars in the Pedrogao Grande area.
-
-### [The suspected death toll of the fire in North Kensington, London earlier in the week significantly increases, as the Metropolitan Police Service reports that a minimum of 58 people are missing and feared dead. ](/news/2017/06/17/the-suspected-death-toll-of-the-fire-in-north-kensington-london-earlier-in-the-week-significantly-increases-as-the-metropolitan-police-ser.md)
-The official response to the Grenfell Tower catastrophe &ldquo;was not good enough&rdquo;, the Prime Minister admitted last night as the death toll exceeded that of Britain&rsquo;s worst fires since the war.
-
-### [Minnesota State Patrol, after issuing three warnings,  arrest 18 people who were blocking  Interstate 94 in St. Paul. A peaceful  protest started  following Friday's acquittal of St. Anthony police officer Jeronimo Yanez, who was charged with manslaughter in the fatal shooting of Philando Castile. ](/news/2017/06/17/minnesota-state-patrol-after-issuing-three-warnings-arrest-18-people-who-were-blocking-interstate-94-in-st-paul-a-peaceful-protest-st.md)
-_Context: Interstate 94, Minnesota State Patrol, Shooting of Philando Castile, St. Anthony, St. Paul_
-
-### [The trial against comedian Bill Cosby at the Montgomery County Courthouse ends with a hung jury and the consequent declaration of a mistrial. ](/news/2017/06/17/the-trial-against-comedian-bill-cosby-at-the-montgomery-county-courthouse-ends-with-a-hung-jury-and-the-consequent-declaration-of-a-mistrial.md)
-The &quot;Cosby Show&quot; actor was charged with drugging and molesting Andrea Constand in 2004.
-
-### [Baldwin Lonsdale, the President of Vanuatu, dies suddenly of a heart attack at age 67. Parliament Speaker Esmon Saimon takes his post as acting president. ](/news/2017/06/17/baldwin-lonsdale-the-president-of-vanuatu-dies-suddenly-of-a-heart-attack-at-age-67-parliament-speaker-esmon-saimon-takes-his-post-as-act.md)
-Vanuatu was in a state of mourning on Saturday after its revered president, Baldwin Lonsdale, died unexpectedly. He was 67.
-
-### [Milwaukee County Sheriff David Clarke withdraws his name from consideration for an assistant secretary position at the Department of Homeland Security. ](/news/2017/06/17/milwaukee-county-sheriff-david-clarke-withdraws-his-name-from-consideration-for-an-assistant-secretary-position-at-the-department-of-homelan.md)
-The Department of Homeland Security says Milwaukee County Sheriff David Clarke is no longer a candidate for a position in the agency. The conservative firebrand said last month he was taking a job as an assistant secretary at the DHS, but the agency declined to confirm the appointment,...
-
----
-
-## [Previous Day...](/news/2017/06/16/index.md)
+## [Previous Day...](/news/2017/06/17/index.md)
 
 ---
 

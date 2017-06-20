@@ -6,6 +6,9 @@ _Context: 2017 Finsbury Park attack, Finsbury Park, Finsbury Park Mosque, north 
 ### [A car carrying firearms and gas bottles deliberately rammed a police vehicle on the Champs-Elysees in Paris, France, subsequently bursting into flames. The driver, who was on a security watchlist, was shot dead. ](/news/2017/06/19/a-car-carrying-firearms-and-gas-bottles-deliberately-rammed-a-police-vehicle-on-the-champs-alysa-c-es-in-paris-france-subsequently-bursting.md)
 _Context: Champs-Elysees, France, June 2017 Champs-Elysees car ramming attack, Paris_
 
+### [The autopsy of actress Carrie Fisher reveals a lifestyle of recreational drug use with results showing the presence of multiple drugs such as alcohol, cocaine, MDMA (Molly, ecstasy), methadone and opiates. ](/news/2017/06/19/the-autopsy-of-actress-carrie-fisher-reveals-a-lifestyle-of-recreational-drug-use-with-results-showing-the-presence-of-multiple-drugs-such-a.md)
+Carrie Fisher had a drug cocktail in her system when she died in late December after going into cardiac arrest aboard an LAX-bound flight.
+
 ### [The number of people displaced globally totals 65.6 million after an addition of 10.3 million people displaced in 2016. Syria, Colombia, Afghanistan, Iraq and South Sudan are the countries in the top five.  ](/news/2017/06/19/the-number-of-people-displaced-globally-totals-65-6-million-after-an-addition-of-10-3-million-people-displaced-in-2016-syria-colombia-afg.md)
 The number of people displaced from their homes across the world climbed slightly to 65.6 million last year, with the escalating conflict in South Sudan accounting for the rise, the United Nations refugee agency said Monday.
 
