@@ -1,6 +1,6 @@
 ### [2017-06-19](/news/2017/06/19/index.md)
 
-# Indonesia, Malaysia and the Philippines begin joint patrols in the pirate havens within the  Celebes and Sulu Seas. 
+# Indonesia, Malaysia and the Philippines begin joint patrols in the pirate havens within the Celebes and Sulu Seas. 
 
 
 
