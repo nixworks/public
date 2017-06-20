@@ -3,6 +3,9 @@
 ### [The Royal Australian Air Force (RAAF) suspends combat missions against ISIL over Syria, following Russia's threat it would treat any aircraft from the U.S.-led coalition flying west of the Euphrates as a potential target. ](/news/2017/06/20/the-royal-australian-air-force-raaf-suspends-combat-missions-against-isil-over-syria-following-russia-s-threat-it-would-treat-any-aircraf.md)
 Move follows Moscow’s warning coalition planes west of Euphrates will be a potential target after US shot down Syrian fighter jet
 
+### [A man is reportedly shot in Brussels Central Station amid reports of an attempted bombing attack. ](/news/2017/06/20/a-man-is-reportedly-shot-in-brussels-central-station-amid-reports-of-an-attempted-bombing-attack.md)
+Belgian police say the situation is under control after the incident at Brussels Central Station.
+
 ### [A Canadair firefighting plane crashes in Pedrogao Grande, central Portugal, while tackling raging wildfires. ](/news/2017/06/20/a-canadair-firefighting-plane-crashes-in-pedra3gapso-grande-central-portugal-while-tackling-raging-wildfires.md)
 The water-bombing plane was fighting huge forest fires in central Portugal that have killed dozens.
 
