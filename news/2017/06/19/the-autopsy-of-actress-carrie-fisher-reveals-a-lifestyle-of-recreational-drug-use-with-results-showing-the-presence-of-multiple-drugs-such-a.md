@@ -7,7 +7,7 @@ Carrie Fisher had a drug cocktail in her system when she died in late December a
 
 ### Source:
 
-1. [The Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-carrie-fisher-autopsy-report-20170619-story.html)
+1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-carrie-fisher-autopsy-report-20170619-story.html)
 
 ### Related:
 
