@@ -23,6 +23,9 @@ _Context: 2017 Finsbury Park attack, Finsbury Park, Finsbury Park Mosque, north 
 ### [A car carrying firearms and gas bottles deliberately rammed a police vehicle on the Champs-Elysees in Paris, France, subsequently bursting into flames. The driver, who was on a security watchlist, was shot dead. ](/news/2017/06/19/a-car-carrying-firearms-and-gas-bottles-deliberately-rammed-a-police-vehicle-on-the-champs-alysa-c-es-in-paris-france-subsequently-bursting.md)
 _Context: Champs-Elysees, France, June 2017 Champs-Elysees car ramming attack, Paris_
 
+### [After yesterday's downing of a Syrian Su-22 jet, Russia shuts down a deconfliction channel and says it will follow any aircraft west of the Euphrates as a target. ](/news/2017/06/19/after-yesterday-s-downing-of-a-syrian-su-22-jet-russia-shuts-down-a-deconfliction-channel-and-says-it-will-follow-any-aircraft-west-of-the.md)
+An American aircraft shot down a Syrian air force fighter jet Sunday, prompting Russia to say it now considers all U.S. aircraft in the region a threat, and suspending its military hotline for coordination of air missions. John Yang reports and Judy Woodruff gets analysis from Faysal Itani of the Atlantic Council and former Defense Department official Andrew Exum.
+
 ### [The autopsy of actress Carrie Fisher reveals a lifestyle of recreational drug use with results showing the presence of multiple drugs such as alcohol, cocaine, MDMA (Molly, ecstasy), methadone and opiates. ](/news/2017/06/19/the-autopsy-of-actress-carrie-fisher-reveals-a-lifestyle-of-recreational-drug-use-with-results-showing-the-presence-of-multiple-drugs-such-a.md)
 Carrie Fisher had a drug cocktail in her system when she died in late December after going into cardiac arrest aboard an LAX-bound flight.
 
