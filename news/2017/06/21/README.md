@@ -18,8 +18,8 @@ The stabbing of a police officer at a Michigan airport on Wednesday is being inv
 ### [In a royal decree, King Salman of Saudi Arabia appoints his son Mohammad bin Salman Al Saud as Crown Prince, stripping his nephew Muhammad bin Nayef of the title. ](/news/2017/06/21/in-a-royal-decree-king-salman-of-saudi-arabia-appoints-his-son-mohammad-bin-salman-al-saud-as-crown-prince-stripping-his-nephew-muhammad-b.md)
 Mohammed bin Nayef is replaced by Mohammed bin Salman, the 31-year-old rising power who is in charge of the economy and the war in Yemen
 
-### [The Parliament of Romania passes a no confidence motion in the government led by Prime Minister Sorin Grindeanu. ](/news/2017/06/21/the-parliament-of-romania-passes-a-no-confidence-motion-in-the-government-led-by-prime-minister-sorin-grindeanu.md)
-_Context: Parliament of Romania, Politics of Romania, Prime Minister, Sorin Grindeanu, no confidence motion_
+### [After a short term political crisis, started when the governing PSD retracted it's support, the Parliament of Romania passes a no confidence motion against the government led by former PSD Prime Minister Sorin Grindeanu. ](/news/2017/06/21/after-a-short-term-political-crisis-started-when-the-governing-psd-retracted-it-s-support-the-parliament-of-romania-passes-a-no-confidence.md)
+_Context: PSD, Parliament of Romania, Politics of Romania, Prime Minister, Sorin Grindeanu, no confidence motion_
 
 ### [Francois Bayrou resigns as France's Minister of Justice amid an ongoing investigation into the centrist Democratic Movement (MoDem)'s alleged fraudulent employment of parliamentary assistants. ](/news/2017/06/21/franassois-bayrou-resigns-as-france-s-minister-of-justice-amid-an-ongoing-investigation-into-the-centrist-democratic-movement-modem-s-alleg.md)
 Centrist leader François Bayrou is the latest to resign as the president finalises his cabinet team.
