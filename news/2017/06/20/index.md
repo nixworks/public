@@ -16,7 +16,7 @@ With yields on U.S. 10-year Treasuries as low as they are, the Federal Reserve n
 _Context: Travis Kalanick, Uber_
 
 ### [A heat wave strikes the Western U.S. states of Arizona, California, and Nevada. It is predicted to last until June 23. ](/news/2017/06/20/a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-it-is-predicted-to-last-until-june-23.md)
-_Context: Arizona, California, Nevada, Western U.S., heat wave_
+_Context: 2017 North American heat wave, Arizona, California, Nevada, Western U.S., heat wave_
 
 ### [Tropical Storm Cindy makes its way towards the eastern coasts of the Southern United States. ](/news/2017/06/20/tropical-storm-cindy-makes-its-way-towards-the-eastern-coasts-of-the-southern-united-states.md)
 June&#039;s first tropical storm formed Monday in the Atlantic.
@@ -33,8 +33,8 @@ Venezuela&rsquo;s Supreme Court cleared the way for a trial against the country&
 ### [The European Court of Human Rights rules that Russia's gay propaganda law encourages homophobia, reinforces prejudice and violates the right to freedom of speech. ](/news/2017/06/20/the-european-court-of-human-rights-rules-that-russia-s-gay-propaganda-law-encourages-homophobia-reinforces-prejudice-and-violates-the-right.md)
 Russia’s so-called gay propaganda law reinforces “stigma and prejudice” and violates the right to freedom of expression, the European Court of Human Rights (ECHR) has ruled. The law, which bans the promotion of &quot;homosexual behaviour among minors&quot;, has been in place since 2013.
 
-### [Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia, where Republican Karen Handel defeats Democratic challenger Jon Ossoff. ](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-where-republican-karen-handel-defeats-democratic.md)
-Karen Handel and Jon Ossoff focused on turnout on election eve. Cable television focused on a caustic ad.
+### [Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia between Republican Karen Handel and Democratic Jon Ossoff, where Republican Handel wins the election by a narrow margin. ](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-between-republican-karen-handel-and-democratic-jon.md)
+Results for the special election between Jon Ossoff, a Democrat, and Karen Handel, a Republican.
 
 ### [Republican Ralph Norman narrowly defeats Democrat Archie Parnell to win a U.S. House district in north-central South Carolina. ](/news/2017/06/20/republican-ralph-norman-narrowly-defeats-democrat-archie-parnell-to-win-a-u-s-house-district-in-north-central-south-carolina.md)
 Maps and results in the special election for a House seat vacated by Mick Mulvaney, now director of the Office of Management and Budget.
