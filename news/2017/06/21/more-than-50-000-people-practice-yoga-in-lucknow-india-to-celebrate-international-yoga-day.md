@@ -1,6 +1,6 @@
 ### [2017-06-21](/news/2017/06/21/index.md)
 
-# More than 50,000 people practice yoga in Lucknow, India to celebrate International Yoga Day. 
+# More than 50,000 people practice yoga in Lucknow, India, to celebrate International Yoga Day. 
 
 Yoga practitioners took a relaxing break to bend, twist and pose Wednesday morning for the annual event celebrating the practice, especially in the country where it began. Indian Prime Minister Narendra Modi joined 50,000 students and other residents for a mass yoga session in the pouring...
 
