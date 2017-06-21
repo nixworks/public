@@ -1,6 +1,6 @@
 ## [News](/news/2017/06/21/index.md)
 
-### [In a royal decree, King Salman of Saudi Arabia appoints his son Mohammad bin Salman Al Saud as Crown Prince, stripping Muhammad bin Nayef of the title. ](/news/2017/06/21/in-a-royal-decree-king-salman-of-saudi-arabia-appoints-his-son-mohammad-bin-salman-al-saud-as-crown-prince-stripping-muhammad-bin-nayef-of.md)
+### [In a royal decree, King Salman of Saudi Arabia appoints his son Mohammad bin Salman Al Saud as Crown Prince, stripping his nephew Muhammad bin Nayef of the title. ](/news/2017/06/21/in-a-royal-decree-king-salman-of-saudi-arabia-appoints-his-son-mohammad-bin-salman-al-saud-as-crown-prince-stripping-his-nephew-muhammad-b.md)
 Mohammed bin Nayef is replaced by Mohammed bin Salman, the 31-year-old rising power who is in charge of the economy and the war in Yemen
 
 ## Opinion
@@ -22,6 +22,9 @@ Argentine police have seized a cache of Nazi artefacts hidden behind a library i
 
 ### [Robert Kaplan, head of the Federal Reserve Bank of Dallas, says that low bond yields suggest sluggish growth ahead for the economy of the United States. ](/news/2017/06/20/robert-kaplan-head-of-the-federal-reserve-bank-of-dallas-says-that-low-bond-yields-suggest-sluggish-growth-ahead-for-the-economy-of-the-un.md)
 With yields on U.S. 10-year Treasuries as low as they are, the Federal Reserve needs to be careful about raising U.S. interest rates further, Dallas Federal Reserve President Robert Kaplan said on Tuesday.
+
+### [Uber founder and CEO Travis Kalanick resigns amid pressure from investors due to rumors of sexual harassment in the company. ](/news/2017/06/20/uber-founder-and-ceo-travis-kalanick-resigns-amid-pressure-from-investors-due-to-rumors-of-sexual-harassment-in-the-company.md)
+The company’s co-founder had been under increasing pressure, and several major investors demanded that he resign from the company immediately.
 
 ### [A heat wave strikes the Western U.S. states of Arizona, California, and Nevada. It is predicted to last until June 23. ](/news/2017/06/20/a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-it-is-predicted-to-last-until-june-23.md)
 _Context: Arizona, California, Nevada, Western U.S., heat wave_
