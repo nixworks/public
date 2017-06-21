@@ -29,8 +29,8 @@ Argentine police have seized a cache of Nazi artefacts hidden behind a library i
 ### [Robert Kaplan, head of the Federal Reserve Bank of Dallas, says that low bond yields suggest sluggish growth ahead for the economy of the United States. ](/news/2017/06/20/robert-kaplan-head-of-the-federal-reserve-bank-of-dallas-says-that-low-bond-yields-suggest-sluggish-growth-ahead-for-the-economy-of-the-un.md)
 With yields on U.S. 10-year Treasuries as low as they are, the Federal Reserve needs to be careful about raising U.S. interest rates further, Dallas Federal Reserve President Robert Kaplan said on Tuesday.
 
-### [Uber founder and CEO Travis Kalanick resigns amid pressure from investors due to rumors of sexual harassment in the company. ](/news/2017/06/20/uber-founder-and-ceo-travis-kalanick-resigns-amid-pressure-from-investors-due-to-rumors-of-sexual-harassment-in-the-company.md)
-The company’s co-founder had been under increasing pressure, and several major investors demanded that he resign from the company immediately.
+### [Uber founder and CEO Travis Kalanick resigns amid pressure from investors due to allegations of sexual harassment, discrimination, and corporate misconduct in the company. (''[https://www.nytimes.com/2017/06/21/technology/uber-ceo-travis-kalanick.html The New York Times]'')](/news/2017/06/20/uber-founder-and-ceo-travis-kalanick-resigns-amid-pressure-from-investors-due-to-allegations-of-sexual-harassment-discrimination-and-corpo.md)
+_Context: Travis Kalanick, Uber_
 
 ### [A heat wave strikes the Western U.S. states of Arizona, California, and Nevada. It is predicted to last until June 23. ](/news/2017/06/20/a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-it-is-predicted-to-last-until-june-23.md)
 _Context: Arizona, California, Nevada, Western U.S., heat wave_
