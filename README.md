@@ -1,18 +1,29 @@
-## [News](/news/2017/06/20/index.md)
+## [News](/news/2017/06/21/index.md)
 
-### [The Royal Australian Air Force (RAAF) suspends combat missions against ISIL over Syria, following Russia's threat it would treat any aircraft from the U.S.-led coalition flying west of the Euphrates as a potential target. ](/news/2017/06/20/the-royal-australian-air-force-raaf-suspends-combat-missions-against-isil-over-syria-following-russia-s-threat-it-would-treat-any-aircraf.md)
+### [In a royal decree, King Salman of Saudi Arabia appoints his son Mohammad bin Salman Al Saud as Crown Prince, stripping Muhammad bin Nayef of the title. ](/news/2017/06/21/in-a-royal-decree-king-salman-of-saudi-arabia-appoints-his-son-mohammad-bin-salman-al-saud-as-crown-prince-stripping-muhammad-bin-nayef-of.md)
+Mohammed bin Nayef is replaced by Mohammed bin Salman, the 31-year-old rising power who is in charge of the economy and the war in Yemen
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/06/20/index.md)
+
+### [The Royal Australian Air Force (RAAF) suspends combat missions against ISIL over Syria, following Russia's threat that it would treat any aircraft from the U.S.-led coalition flying west of the Euphrates as a potential target. ](/news/2017/06/20/the-royal-australian-air-force-raaf-suspends-combat-missions-against-isil-over-syria-following-russia-s-threat-that-it-would-treat-any-ai.md)
 Move follows Moscow’s warning coalition planes west of Euphrates will be a potential target after US shot down Syrian fighter jet
 
 ### [A man is reportedly shot in Brussels Central Station amid reports of an attempted bombing attack. ](/news/2017/06/20/a-man-is-reportedly-shot-in-brussels-central-station-amid-reports-of-an-attempted-bombing-attack.md)
 Belgian police say the situation is under control after the incident at Brussels Central Station.
 
-### [ A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md)
-_Context: Argentina, Nazi_
+### [A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md)
+Argentine police have seized a cache of Nazi artefacts hidden behind a library in the house of an art collector in Buenos Aires, including a bust of dictator Adolf Hitler and instruments used as racial classification tools.
 
 ### [Robert Kaplan, head of the Federal Reserve Bank of Dallas, says that low bond yields suggest sluggish growth ahead for the economy of the United States. ](/news/2017/06/20/robert-kaplan-head-of-the-federal-reserve-bank-of-dallas-says-that-low-bond-yields-suggest-sluggish-growth-ahead-for-the-economy-of-the-un.md)
 With yields on U.S. 10-year Treasuries as low as they are, the Federal Reserve needs to be careful about raising U.S. interest rates further, Dallas Federal Reserve President Robert Kaplan said on Tuesday.
 
-### [2017 Western U.S. A heat wave strikes the Western U.S. states of Arizona, California and Nevada that will last until Friday, June 23. ](/news/2017/06/20/2017-western-u-s-a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-that-will-last-until-friday-june-23.md)
+### [A heat wave strikes the Western U.S. states of Arizona, California, and Nevada. It is predicted to last until June 23. ](/news/2017/06/20/a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-it-is-predicted-to-last-until-june-23.md)
 _Context: Arizona, California, Nevada, Western U.S., heat wave_
 
 ### [Tropical Storm Cindy makes its way towards the eastern coasts of the Southern United States. ](/news/2017/06/20/tropical-storm-cindy-makes-its-way-towards-the-eastern-coasts-of-the-southern-united-states.md)
@@ -27,16 +38,15 @@ Young Pioneer Tours says risk is too high after 22-year-old student died on his 
 ### [The European Court of Human Rights rules that Russia's gay propaganda law encourages homophobia, reinforces prejudice and violates the right to freedom of speech. ](/news/2017/06/20/the-european-court-of-human-rights-rules-that-russia-s-gay-propaganda-law-encourages-homophobia-reinforces-prejudice-and-violates-the-right.md)
 Russia’s so-called gay propaganda law reinforces “stigma and prejudice” and violates the right to freedom of expression, the European Court of Human Rights (ECHR) has ruled. The law, which bans the promotion of &quot;homosexual behaviour among minors&quot;, has been in place since 2013.
 
-### [Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia, where Republican Karen Handel is in a close race with Democratic challenger Jon Ossoff. ](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-where-republican-karen-handel-is-in-a-close-race.md)
+### [Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia, where Republican Karen Handel defeats Democratic challenger Jon Ossoff. ](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-where-republican-karen-handel-defeats-democratic.md)
 Karen Handel and Jon Ossoff focused on turnout on election eve. Cable television focused on a caustic ad.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+### [Republican Ralph Norman narrowly defeats Democrat Archie Parnell to win a U.S. House district in north-central South Carolina. ](/news/2017/06/20/republican-ralph-norman-narrowly-defeats-democrat-archie-parnell-to-win-a-u-s-house-district-in-north-central-south-carolina.md)
+Maps and results in the special election for a House seat vacated by Mick Mulvaney, now director of the Office of Management and Budget.
 
 ---
 
-## [Yesterday](/news/2017/06/19/index.md)
+## [Day Before Yesterday](/news/2017/06/19/index.md)
 
 ### [At least one person has been killed and ten injured after a van runs over pedestrians outside the Finsbury Park Mosque in the north London suburb of Finsbury Park. Police are investigating the act as a terrorist incident. ](/news/2017/06/19/at-least-one-person-has-been-killed-and-ten-injured-after-a-van-runs-over-pedestrians-outside-the-finsbury-park-mosque-in-the-north-london-s.md)
 _Context: 2017 Finsbury Park attack, Finsbury Park, Finsbury Park Mosque, north London_
@@ -70,44 +80,7 @@ Sensitive personal details were available on a cloud server to anyone with the c
 
 ---
 
-## [Day Before Yesterday](/news/2017/06/18/index.md)
-
-### [A coordinated suicide bombing attack on a police station in the town of Gardez in Paktia Province results in dozens of people killed and injured. ](/news/2017/06/18/a-coordinated-suicide-bombing-attack-on-a-police-station-in-the-town-of-gardez-in-paktia-province-results-in-dozens-of-people-killed-and-inj.md)
-As many as five suicide bombers attack a police headquarters in eastern Afghanistan in an attack doctors say killed at least five police and wounded at least 30 other people.
-
-### [Gunmen storm a popular tourist resort near the Malian capital, Bamako. At least two people are reportedly killed. Malian troops and France's Operation Barkhane counter-terrorist force are at the site. ](/news/2017/06/18/gunmen-storm-a-popular-tourist-resort-near-the-malian-capital-bamako-at-least-two-people-are-reportedly-killed-malian-troops-and-france-s.md)
-Troops free 20 hostages, the government says, as the resort is attacked by suspected jihadists.
-
-### [An air raid kills at least 24 civilians at a market in Houthi-held Saada Governorate, Yemen. ](/news/2017/06/18/an-air-raid-kills-at-least-24-civilians-at-a-market-in-houthi-held-saada-governorate-yemen.md)
-At least 24 civilians were killed in an air raid Sunday on a market in northern Yemen, a medical official and witnesses said, blaming the Saudi-led coalition battling Yemeni rebels.
-
-### [Iran fires medium range ballistic missiles from western Iran to ISIL targets in Deir ez-Zor Governorate, eastern Syria, in retaliation for the June 7 Tehran attacks. ](/news/2017/06/18/iran-fires-medium-range-ballistic-missiles-from-western-iran-to-isil-targets-in-deir-ez-zor-governorate-eastern-syria-in-retaliation-for-t.md)
-American forces have shot down a Syrian government fighter jet accused of attacking Kurdish-led troops fighting Isis. US Central Command said the SU-22 dropped bombs near the Syrian Democratic Forces (SDF), who are being supported by the US-led coalition as they advance on the terrorist stronghold of Raqqa.
-
-### [Rescuers find the bodies of seven United States Navy sailors who were missing after the prior day's collision between the USS ''Fitzgerald'' and the MV ''ACX Crysta''l off the coast of Yokosuka, Japan. ](/news/2017/06/18/rescuers-find-the-bodies-of-seven-united-states-navy-sailors-who-were-missing-after-the-prior-day-s-collision-between-the-uss-fitzgerald.md)
-The commander of the U.S. Navy&#039;s 7th Fleet says that search and rescue efforts are over for the seven sailors missing after a destroyer collided with a con
-
-### [The death toll from forest fires in Pedrogao Grande, central Portugal, rises to at least 62. Many victims were trapped on the road between the towns of Figueiro dos Vinhos and Castanheira de Pera. ](/news/2017/06/18/the-death-toll-from-forest-fires-in-pedra3gapso-grande-central-portugal-rises-to-at-least-62-many-victims-were-trapped-on-the-road-between.md)
-Many died in their cars while fleeing the fire, which may have been started by a thunderstorm.
-
-### [An earthquake and tsunami strike Greenland leaving at least 4 dead. ](/news/2017/06/18/an-earthquake-and-tsunami-strike-greenland-leaving-at-least-4-dead.md)
-Four people are feared dead after tsunami waves struck the coast of Greenland on Saturday night.
-
-### [A study published in the United States advises against the use of coconut oil and instead proposes using American-produced vegetable oils, such as canola, peanut, safflower, soybean, and sunflower oil. ](/news/2017/06/18/a-study-published-in-the-united-states-advises-against-the-use-of-coconut-oil-and-instead-proposes-using-american-produced-vegetable-oils-s.md)
-Who doesn’t love logging on to the good old ‘net on a Friday morning to the headline “Coconut oil ‘as unhealthy as beef fat and butter.’” It’s got everything. Ah, you might think, my favorite health product is as bad as butter! Or you might even say to yourself, those coconut oil-huffing liberals are really getting what’s coming to them!
-
-### [A North Korean soldier defects to South Korea after swimming across the Han River, the second North Korean defection in a week. ](/news/2017/06/18/a-north-korean-soldier-defects-to-south-korea-after-swimming-across-the-han-river-the-second-north-korean-defection-in-a-week.md)
-The man swam with foam attached to his shoulders to help him stay afloat, officials say.
-
-### [Voters in France return to the polls for the second round of a legislative election, with 573 of 577 seats in the National Assembly yet to be decided after the first round. ](/news/2017/06/18/voters-in-france-return-to-the-polls-for-the-second-round-of-a-legislative-election-with-573-of-577-seats-in-the-national-assembly-yet-to-b.md)
-The French are voting Sunday for the fourth time in two months and the main outstanding question is just how big a majority they will hand President Emmanuel Macron.
-
-### [Six members of President Trump's  Advisory Council on HIV/AIDS  resign stating the administration doesn't have a strategy to address the epidemic, doesn't seek input from experts on HIV policy, supports legislation that would halt or reverse important gains made in the fight against this disease and would harm people living with HIV. ](/news/2017/06/18/six-members-of-president-trump-s-advisory-council-on-hiv-aids-resign-stating-the-administration-doesn-t-have-a-strategy-to-address-the-epi.md)
-Six members of the Presidential Advisory Council on HIV/AIDS (PACHA) resigned in protest of the Trump administration.
-
----
-
-## [Previous Day...](/news/2017/06/17/index.md)
+## [Previous Day...](/news/2017/06/18/index.md)
 
 ---
 

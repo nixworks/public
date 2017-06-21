@@ -1,13 +1,13 @@
 ### [2017-06-20](/news/2017/06/20/index.md)
 
-#  A secret collection of Nazi heritage is found in Argentina. 
+# A secret collection of Nazi heritage is found in Argentina. 
 
-
+Argentine police have seized a cache of Nazi artefacts hidden behind a library in the house of an art collector in Buenos Aires, including a bust of dictator Adolf Hitler and instruments used as racial classification tools.
 
 
 ### Source:
 
-1. [The Raw Story](https://www.rawstory.com/2017/06/secret-nazi-loot-seized-in-argentina/)
+1. [Reuters](http://in.reuters.com/article/argentina-nazi-cache-idINKBN19B2RH)
 
 ### Related:
 
