@@ -9,5 +9,8 @@ Yoga practitioners took a relaxing break to bend, twist and pose Wednesday morni
 ### [In a royal decree, King Salman of Saudi Arabia appoints his son Mohammad bin Salman Al Saud as Crown Prince, stripping his nephew Muhammad bin Nayef of the title. ](/news/2017/06/21/in-a-royal-decree-king-salman-of-saudi-arabia-appoints-his-son-mohammad-bin-salman-al-saud-as-crown-prince-stripping-his-nephew-muhammad-b.md)
 Mohammed bin Nayef is replaced by Mohammed bin Salman, the 31-year-old rising power who is in charge of the economy and the war in Yemen
 
+### [The Parliament of Romania passes a no confidence motion in the government led by Prime Minister Sorin Grindeanu. ](/news/2017/06/21/the-parliament-of-romania-passes-a-no-confidence-motion-in-the-government-led-by-prime-minister-sorin-grindeanu.md)
+_Context: Parliament of Romania, Politics of Romania, Prime Minister, Sorin Grindeanu, no confidence motion_
+
 ## [Previous Day...](/news/2017/06/20/index.md)
 

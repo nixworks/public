@@ -7,9 +7,10 @@ Karen Handel and Jon Ossoff focused on turnout on election eve. Cable television
 
 ### Source:
 
-1. [Atlanta Journal Constitution](http://www.ajc.com/news/state--regional-govt--politics/handel-defeats-ossoff-win-georgia-6th-district/lO6Ewa4vM1sbftMnQE9x6L/?)
-2. [Politico](http://www.politico.com/story/2017/06/19/ossoff-handel-georgia-special-election-239733)
-3. [Reuters](http://www.reuters.com/article/us-usa-politics-georgia-election-idUSKBN19A2TD)
+1. ["New York Times"](https://www.nytimes.com/elections/results/georgia-congressional-runoff-ossoff-handel)
+2. [Atlanta Journal Constitution](http://www.ajc.com/news/state--regional-govt--politics/handel-defeats-ossoff-win-georgia-6th-district/lO6Ewa4vM1sbftMnQE9x6L/?)
+3. [Politico](http://www.politico.com/story/2017/06/19/ossoff-handel-georgia-special-election-239733)
+4. [Reuters](http://www.reuters.com/article/us-usa-politics-georgia-election-idUSKBN19A2TD)
 
 ### Related:
 
