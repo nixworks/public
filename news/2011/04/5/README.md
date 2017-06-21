@@ -46,7 +46,7 @@ _Context: Fukushima I nuclear accidents, Ibaraki prefecture, Japan, radiation, r
 _Context: Misrata, Muammar Gaddafi_
 
 ### [At least nine people die in the southern United States in heavy storms. ](/news/2011/04/5/at-least-nine-people-die-in-the-southern-united-states-in-heavy-storms.md)
-_Context: southern United States_
+_Context: Southern United States_
 
 ### [Mohamed Abdullahi Mohamed, Prime Minister of the United Nations-backed Transitional Federal Government of Somalia, calls on UN agencies basing themselves in Kenya for safety reasons to move to Mogadishu within three months, citing the presence of UN agencies in "more dangerous" cities such as Kabul and Baghdad. ](/news/2011/04/5/mohamed-abdullahi-mohamed-prime-minister-of-the-united-nations-backed-transitional-federal-government-of-somalia-calls-on-un-agencies-basi.md)
 UN agencies involved in Somalia, but based in Kenya for safety reasons, are ordered to move to Mogadishu within three months by the interim government.

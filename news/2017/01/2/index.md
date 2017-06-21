@@ -13,7 +13,7 @@ A poisonous gas believed to have been released when someone tried to wash away a
 A large fire broke out in the coastal Chilean city of Valparaiso on Monday evening, burning at least 100 homes, prompting the evacuation of about 400 people and sending plumes of smoke high into the air.
 
 ### [A powerful storm system hits the southern United States, resulting in four deaths in Alabama and severe damage across several states. ](/news/2017/01/2/a-powerful-storm-system-hits-the-southern-united-states-resulting-in-four-deaths-in-alabama-and-severe-damage-across-several-states.md)
-_Context: Alabama, southern United States_
+_Context: Alabama, Southern United States_
 
 ### [A traffic collision between a minivan and a pickup truck in the Ban Bueng District of Chonburi Province, Thailand kills at least 25 people and leaves 2 others injured. Authorities investigate the cause of the accident. ](/news/2017/01/2/a-traffic-collision-between-a-minivan-and-a-pickup-truck-in-the-ban-bueng-district-of-chonburi-province-thailand-kills-at-least-25-people-a.md)
 Two toddlers among the victims of crash involving a minivan and a pick-up truck during so-called Seven Deadly Days.

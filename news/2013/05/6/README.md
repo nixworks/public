@@ -40,7 +40,7 @@ It&apos;s bad enough to go from roaming the earth as a fearsome predator to bein
 THREE women have emerged from a house in Cleveland, Ohio, claiming to have spent years in captivity.
 
 ### [American singer Lauryn Hill is sentenced to prison for three months after being convicted of tax evasion. ](/news/2013/05/6/american-singer-lauryn-hill-is-sentenced-to-prison-for-three-months-after-being-convicted-of-tax-evasion.md)
-_Context: Americans, Lauryn Hill_
+_Context: Lauryn Hill, U.S._
 
 ### [Seven-time Prime Minister of Italy Giulio Andreotti dies in Rome at the age of 94 years. ](/news/2013/05/6/seven-time-prime-minister-of-italy-giulio-andreotti-dies-in-rome-at-the-age-of-94-years.md)
 Giulio Andreotti, who served seven times as Christian Democrat prime minister, and was dogged by corruption allegations, dies at the age of 94.

@@ -22,7 +22,7 @@ Microsoft warns consumers that a vulnerability in its Internet Explorer browser 
 _Context: Indian Ocean, Malaysia Airlines Flight 370_
 
 ### [April 2014 tornado outbreak:Seventeen people are killed by tornadoes after a huge storm system sweeps across the central and southern United States.  ](/news/2014/04/28/april-2014-tornado-outbreak-pseventeen-people-are-killed-by-tornadoes-after-a-huge-storm-system-sweeps-across-the-central-and-southern-unite.md)
-_Context: April 2014 tornado outbreak, central, southern United States, tornado_
+_Context: April 2014 tornado outbreak, Southern United States, central, tornado_
 
 ### [Slovakia and Ukraine agree to a deal that will allow gas from Central Europe to reach Ukraine via Slovakia. ](/news/2014/04/28/slovakia-and-ukraine-agree-to-a-deal-that-will-allow-gas-from-central-europe-to-reach-ukraine-via-slovakia.md)
 A new deal will allow a limited amount of central European gas to flow to Ukraine via Slovakia.

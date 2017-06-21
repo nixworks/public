@@ -28,7 +28,7 @@ _Context: United Kingdom, refinery, strike_
 _Context: Kenya, Nairobi, Nakumatt, burns_
 
 ### [ Norway announces it will raise the German submarine ''U-864'' from the North Sea. ](/news/2009/01/30/norway-announces-it-will-raise-the-german-submarine-u-864-from-the-north-sea.md)
-_Context: Nazi Germany, North Sea, Norway, U-864, submarine_
+_Context: Nazi, North Sea, Norway, U-864, submarine_
 
 ## [Previous Day...](/news/2009/01/29/index.md)
 

@@ -16,7 +16,7 @@ Singer Annie Lennox is recognised in the New Year Honours, along with actors Dav
 _Context: Estonia, Soviet, euro_
 
 ### [Tornadoes touch down in midwestern and southern United States, including Washington County, Arkansas; Greater St. Louis, Sunset Hills, Missouri, Illinois and Oklahoma, with a few tornadoes in the early hours of January 1, 2011. A total 36 tornadoes touched down, resulting in the deaths of 9 people.](/news/2010/12/31/tornadoes-touch-down-in-midwestern-and-southern-united-states-including-washington-county-arkansas-greater-st-louis-sunset-hills-misso.md)
-_Context: Illinois, Oklahoma!, St. Louis-area municipalities, Sunset Hills, Missouri, United States, Washington County, Arkansas, midwestern, southern United States, tornado outbreak_
+_Context: Illinois, Oklahoma!, Southern United States, St. Louis-area municipalities, Sunset Hills, Missouri, United States, Washington County, Arkansas, midwestern, tornado outbreak_
 
 ### [Three Tibetan writers, detained earlier this year by Chinese authorities, are sentenced to  jail terms of three to four years for "inciting activities to split the nation" ](/news/2010/12/31/three-tibetan-writers-detained-earlier-this-year-by-chinese-authorities-are-sentenced-to-jail-terms-of-three-to-four-years-for-inciting.md)
 _Context: Chinese police, Tibetan writers_

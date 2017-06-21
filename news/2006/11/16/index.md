@@ -19,7 +19,7 @@ _Context: Darfur, Ethiopia, Sudanese, United Nations, conflict_
 _Context: Iraq, Nasiriyah_
 
 ### [ At least eight people die as a tornado hits Riegelwood, North Carolina as thunderstorms move through the southern United States. One other person died in the larger tornado outbreak. ](/news/2006/11/16/at-least-eight-people-die-as-a-tornado-hits-riegelwood-north-carolina-as-thunderstorms-move-through-the-southern-united-states-one-other.md)
-_Context: Riegelwood, North Carolina, as a tornado hits, southern United States, tornado outbreak_
+_Context: Riegelwood, North Carolina, Southern United States, as a tornado hits, tornado outbreak_
 
 ### [ The European Commission plan to charge EUR39.60 ($51 / PS27) green tax per return ticket on long haul flights from and to the EU by 2011, angering U.S. airline companies as they will need to buy permits to cover their European emissions. ](/news/2006/11/16/the-european-commission-plan-to-charge-a-39-60-51-aps27-green-tax-per-return-ticket-on-long-haul-flights-from-and-to-the-eu-by-2011-a.md)
 News and opinion from The Times &amp; The Sunday Times

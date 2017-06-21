@@ -10,7 +10,7 @@ The New Moore island near the Bay of Bengal is being swallowed by the rising sea
 _Context: European Union, Iran, censorship, jamming_
 
 ### [Luis Moreno-Ocampo, Prosecutor of the International Criminal Court (ICC), says that monitoring Sudan's election next month would be like monitoring a vote in Hitler's Germany. ](/news/2010/03/24/luis-moreno-ocampo-prosecutor-of-the-international-criminal-court-icc-says-that-monitoring-sudan-s-election-next-month-would-be-like-mon.md)
-_Context: Hitler, International Criminal Court, Luis Moreno-Ocampo, Nazi Germany, Sudan_
+_Context: Hitler, International Criminal Court, Luis Moreno-Ocampo, Nazi, Sudan_
 
 ### [Middle East:More than 100 people with possible links to Al-Qaeda are arrested in Saudi Arabia for allegedly planning attacks on oil and security installations in the country. ](/news/2010/03/24/middle-east-pmore-than-100-people-with-possible-links-to-al-qaeda-are-arrested-in-saudi-arabia-for-allegedly-planning-attacks-on-oil-and-sec.md)
 PM orders panel to freeze deliberations on construction in capital.

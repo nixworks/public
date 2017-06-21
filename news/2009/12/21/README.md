@@ -49,7 +49,7 @@ _Context: Hosein-Ali Montazeri, Iran, Qom_
 _Context: Europe, Eurostar, weather-related_
 
 ### [ Polish police arrest five men and recover the stolen ''Arbeit macht frei'' sign that hung over the Nazi death camp at Auschwitz where millions were murdered by the Nazis during the Holocaust ](/news/2009/12/21/polish-police-arrest-five-men-and-recover-the-stolen-arbeit-macht-frei-sign-that-hung-over-the-nazi-death-camp-at-auschwitz-where-milli.md)
-_Context: Arbeit macht frei, Auschwitz, Holocaust, Nazi Germany, Poland_
+_Context: Arbeit macht frei, Auschwitz, Holocaust, Nazi, Poland_
 
 ### [ Severe Tropical Cyclone Laurence becomes a category 5 and strikes the Australian coast with winds of 285|km/h|mph|abbr=on. ](/news/2009/12/21/severe-tropical-cyclone-laurence-becomes-a-category-5-and-strikes-the-australian-coast-with-winds-of-285-km-h-mph-abbr-on.md)
 Cyclone Laurence has caused significant damage to buildings on Western Australia&#039;s north-west coast.

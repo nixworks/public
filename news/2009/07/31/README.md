@@ -7,7 +7,7 @@ Rights group urges investigation into death of Boko Haram leader blamed for atta
 Police in Majorca are on heightened alert following yesterday&#39;s car bombing on the holiday island in which two civil guards were killed.
 
 ### [  A new media law limiting freedom of speech, under which journalists could be imprisoned for publishing "harmful" material, is placed before the National Assembly. ](/news/2009/07/31/a-new-media-law-limiting-freedom-of-speech-under-which-journalists-could-be-imprisoned-for-publishing-harmful-material-is-placed-befor.md)
-_Context: National Assembly, Venezuela, freedom of expression_
+_Context: National Assembly, Venezuela, freedom of speech_
 
 ### [ U.S. House of Representatives approves an extra $2 billion to the Car Allowance Rebate System. ](/news/2009/07/31/u-s-house-of-representatives-approves-an-extra-2-billion-to-the-car-allowance-rebate-system.md)
 _Context: Car Allowance Rebate System, United States House of Representatives_

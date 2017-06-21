@@ -10,7 +10,7 @@ _Context: Dalai Lama, France, Nicolas Sarkozy, People's Republic of China, Polan
 Hundreds of youth took to the streets, burning shops and cars and clashing with the police in Athens and other Greek cities.
 
 ### [ The German Federal Archives has provided Wikipedia with 100,000 historical images that cover periods such as the Weimar Republic, the colonial era, the Third Reich, and post-reunification. ](/news/2008/12/7/the-german-federal-archives-has-provided-wikipedia-with-100-000-historical-images-that-cover-periods-such-as-the-weimar-republic-the-colon.md)
-_Context: 100,000 historical images, German Federal Archives, Nazi Germany, Weimar Republic, Wikipedia, colonial era, reunified Germany_
+_Context: 100,000 historical images, German Federal Archives, Nazi, Weimar Republic, Wikipedia, colonial era, reunified Germany_
 
 ## [Previous Day...](/news/2008/12/6/index.md)
 

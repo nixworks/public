@@ -25,7 +25,7 @@ The Middleton family complains to the Press Complaints Commission after four pap
 _Context: John Lennon, Strawberry Fields Forever, The Beatles_
 
 ### [Immigration papers documenting Albert Einstein's 1933 escape from Nazi Germany and his arrival at Dover, England, are to go on display for the first time, at Liverpool's Merseyside Maritime Museum. ](/news/2011/05/10/immigration-papers-documenting-albert-einstein-s-1933-escape-from-nazi-germany-and-his-arrival-at-dover-england-are-to-go-on-display-for-t.md)
-_Context: Albert Einstein, Dover, Liverpool, Merseyside Maritime Museum, Nazi Germany_
+_Context: Albert Einstein, Dover, Liverpool, Merseyside Maritime Museum, Nazi_
 
 ### [The Presbyterian Church (U.S.A.) votes to approve openly gay and lesbian people in same sex relationships to be ordained. ](/news/2011/05/10/the-presbyterian-church-u-s-a-votes-to-approve-openly-gay-and-lesbian-people-in-same-sex-relationships-to-be-ordained.md)
 The Presbyterian Church (U.S.A.) has voted to change its constitution and allow openly gay people in same-sex relationships to be ordained as ministers, elders and deacons.

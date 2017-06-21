@@ -11,5 +11,6 @@ After years of government investigations, Corinthian Colleges Inc. will shut dow
 
 ### Related:
 
-1. [A rare annular solar eclipse occurs, visible from East Asia, the North Pacific, and the Western United States. ](/news/2012/05/21/a-rare-annular-solar-eclipse-occurs-visible-from-east-asia-the-north-pacific-and-the-western-united-states.md) _Context: western United States_
-2. [Residents of three Western United States towns - Springerville, Arizona, Eagar, Arizona and Luna, New Mexico - are warned to prepare for evacuation ahead of the Wallow Fire. one of the biggest in Arizona history. ](/news/2011/06/6/residents-of-three-western-united-states-towns-springerville-arizona-eagar-arizona-and-luna-new-mexico-are-warned-to-prepare-for-eva.md) _Context: western United States_
+1. [2017 Western U.S. A heat wave strikes the Western U.S. states of Arizona, California and Nevada that will last until Friday, June 23. ](/news/2017/06/20/2017-western-u-s-a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-that-will-last-until-friday-june-23.md) _Context: Western U.S._
+2. [A rare annular solar eclipse occurs, visible from East Asia, the North Pacific, and the Western United States. ](/news/2012/05/21/a-rare-annular-solar-eclipse-occurs-visible-from-east-asia-the-north-pacific-and-the-western-united-states.md) _Context: Western U.S._
+3. [Residents of three Western United States towns - Springerville, Arizona, Eagar, Arizona and Luna, New Mexico - are warned to prepare for evacuation ahead of the Wallow Fire. one of the biggest in Arizona history. ](/news/2011/06/6/residents-of-three-western-united-states-towns-springerville-arizona-eagar-arizona-and-luna-new-mexico-are-warned-to-prepare-for-eva.md) _Context: Western U.S._

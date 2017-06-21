@@ -7,7 +7,7 @@ Four Filipino UN peacekeepers are seized while patrolling the demilitarised area
 The Nigerian Islamist sect Boko Haram is thought to have been behind a deadly siege on the northeastern town of Bama on Tuesday that left 55 people dead.
 
 ### [American special effects innovator Ray Harryhausen dies at the age of 92. ](/news/2013/05/7/american-special-effects-innovator-ray-harryhausen-dies-at-the-age-of-92.md)
-_Context: Americans, Ray Harryhausen, special effects_
+_Context: Ray Harryhausen, U.S., special effects_
 
 ### [American As I Lay Dying frontman and lead vocalist Tim Lambesis is arrested on charges of attempting to hire a hitman. ](/news/2013/05/7/american-as-i-lay-dying-frontman-and-lead-vocalist-tim-lambesis-is-arrested-on-charges-of-attempting-to-hire-a-hitman.md)
 Metal singer taken into custody Tuesday after allegedly soliciting an undercover cop to have his estranged wife killed.

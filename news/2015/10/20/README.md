@@ -49,7 +49,7 @@ The Israeli leader shocked allies and foes alike by claiming Jerusalem&rsquo;s g
 _Context: Hamas, Hassan Yousef, Israel Defense Forces_
 
 ### [A French public prosecutor said charges against far-right leader Marine Le Pen should be dropped. Le Pen is being tried for comments she made five years ago comparing Muslim street prayers to Nazi occupation. Prosecutor Bernard Reynaud said, "Madame Le Pen in denouncing prayers in public space addressed not the entire Muslim community but a minority and was only exercising her freedom of expression." ](/news/2015/10/20/a-french-public-prosecutor-said-charges-against-far-right-leader-marine-le-pen-should-be-dropped-le-pen-is-being-tried-for-comments-she-mad.md)
-_Context: French public prosecutor, Marine Le Pen, Muslim street prayers, Nazi occupation, far-right extremist, freedom of expression_
+_Context: French public prosecutor, Marine Le Pen, Muslim street prayers, Nazi occupation, far-right extremist, freedom of speech_
 
 ### [Former Virginia Senator Jim Webb announces his withdrawal from the race for the Democratic presidential nomination during a press conference at the National Press Club. He added that he would consider his other options in the coming weeks. Webb's campaign said he is weighing an independent bid. ](/news/2015/10/20/former-virginia-senator-jim-webb-announces-his-withdrawal-from-the-race-for-the-democratic-presidential-nomination-during-a-press-conference.md)
 Former Virginia Sen. Jim Webb plans to announce on Tuesday that he will drop out of the Democratic presidential race in favor of a potential independent presidential run.
