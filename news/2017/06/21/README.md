@@ -3,6 +3,9 @@
 ### [Maute rebels storm a school in Pigcawayan, North Cotabato and take civilians hostage. ](/news/2017/06/21/maute-rebels-storm-a-school-in-pigcawayan-north-cotabato-and-take-civilians-hostage.md)
 Pro-Islamic State militants have stormed a town and occupied a school in the southern Philippines.
 
+### [ISIL militants blow up the Great Mosque of al-Nuri in Mosul, where Abu Bakr al-Baghdadi famously proclaimed the creation of a caliphate in 2014. ](/news/2017/06/21/isil-militants-blow-up-the-great-mosque-of-al-nuri-in-mosul-where-abu-bakr-al-baghdadi-famously-proclaimed-the-creation-of-a-caliphate-in-2.md)
+The al-Nuri Mosque was where the leader of IS proclaimed its so-called &quot;caliphate&quot; in 2014.
+
 ### [More than 50,000 people practice yoga in Lucknow, India, to celebrate International Yoga Day. ](/news/2017/06/21/more-than-50-000-people-practice-yoga-in-lucknow-india-to-celebrate-international-yoga-day.md)
 Yoga practitioners took a relaxing break to bend, twist and pose Wednesday morning for the annual event celebrating the practice, especially in the country where it began. Indian Prime Minister Narendra Modi joined 50,000 students and other residents for a mass yoga session in the pouring...
 
@@ -18,7 +21,7 @@ Mohammed bin Nayef is replaced by Mohammed bin Salman, the 31-year-old rising po
 ### [The Parliament of Romania passes a no confidence motion in the government led by Prime Minister Sorin Grindeanu. ](/news/2017/06/21/the-parliament-of-romania-passes-a-no-confidence-motion-in-the-government-led-by-prime-minister-sorin-grindeanu.md)
 _Context: Parliament of Romania, Politics of Romania, Prime Minister, Sorin Grindeanu, no confidence motion_
 
-### [Franois Bayrou resigns as France's Minister of Justice amid an ongoing investigation into the centrist Democratic Movement (MoDem)'s alleged fraudulent employment of parliamentary assistants. ](/news/2017/06/21/francois-bayrou-resigns-as-france-s-minister-of-justice-amid-an-ongoing-investigation-into-the-centrist-democratic-movement-modem-s-allege.md)
+### [Francois Bayrou resigns as France's Minister of Justice amid an ongoing investigation into the centrist Democratic Movement (MoDem)'s alleged fraudulent employment of parliamentary assistants. ](/news/2017/06/21/franassois-bayrou-resigns-as-france-s-minister-of-justice-amid-an-ongoing-investigation-into-the-centrist-democratic-movement-modem-s-alleg.md)
 Centrist leader François Bayrou is the latest to resign as the president finalises his cabinet team.
 
 ### [The European Space Agency (ESA) approves the PLATO space observatory which will seek out Earth-like exoplanets. ](/news/2017/06/21/the-european-space-agency-esa-approves-the-plato-space-observatory-which-will-seek-out-earth-like-exoplanets.md)
