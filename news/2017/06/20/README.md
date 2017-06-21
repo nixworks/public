@@ -27,6 +27,9 @@ The water-bombing plane was fighting huge forest fires in central Portugal that 
 ### [Following the death of 22-year-old U.S. student Otto Warmbier, touring firm Young Pioneer Tours, who arranged Otto's visit to North Korea, say they will no longer be taking U.S. citizens to North Korea as the "risk is too high". Beijing-based Koryo Tours say they are reviewing their positions on taking U.S. citizens to the country. ](/news/2017/06/20/following-the-death-of-22-year-old-u-s-student-otto-warmbier-touring-firm-young-pioneer-tours-who-arranged-otto-s-visit-to-north-korea-s.md)
 Young Pioneer Tours says risk is too high after 22-year-old student died on his return from imprisonment in the secretive state
 
+### [The Supreme Court paves the way for the prosecution of Prosecutor General Luisa Ortega Diaz after she voiced criticism towards President Nicolas Maduro. ](/news/2017/06/20/the-supreme-court-paves-the-way-for-the-prosecution-of-prosecutor-general-luisa-ortega-diaz-after-she-voiced-criticism-towards-president-nic.md)
+Venezuela&rsquo;s Supreme Court cleared the way for a trial against the country&rsquo;s chief prosecutor, who became a surprise hero to the opposition after breaking ranks with the government of President Nicolas Maduro over his efforts to concentrate power.
+
 ### [The European Court of Human Rights rules that Russia's gay propaganda law encourages homophobia, reinforces prejudice and violates the right to freedom of speech. ](/news/2017/06/20/the-european-court-of-human-rights-rules-that-russia-s-gay-propaganda-law-encourages-homophobia-reinforces-prejudice-and-violates-the-right.md)
 Russia’s so-called gay propaganda law reinforces “stigma and prejudice” and violates the right to freedom of expression, the European Court of Human Rights (ECHR) has ruled. The law, which bans the promotion of &quot;homosexual behaviour among minors&quot;, has been in place since 2013.
 
