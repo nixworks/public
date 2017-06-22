@@ -1,6 +1,6 @@
 ### [2017-06-21](/news/2017/06/21/index.md)
 
-#   The United Kingdom experiences its first early summer heat wave in over 20 years, and the highest recorded June temperatures in over 40 years, taken at Heathrow Airport. 
+#   The United Kingdom experiences its first early summer heat wave in over 20 years, and the highest recorded June temperatures in over 40 years with a reading of 34.5C (94F) recorded at Heathrow Airport. 
 
 Temperatures hit 34.5C (94F) in the UK, as the mercury soars to its highest point in 41 years.
 

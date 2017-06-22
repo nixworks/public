@@ -20,7 +20,7 @@ The al-Nuri Mosque was where the leader of IS proclaimed its so-called &quot;cal
 ### [More than 50,000 people practice yoga in Lucknow, India, to celebrate International Yoga Day. ](/news/2017/06/21/more-than-50-000-people-practice-yoga-in-lucknow-india-to-celebrate-international-yoga-day.md)
 Yoga practitioners took a relaxing break to bend, twist and pose Wednesday morning for the annual event celebrating the practice, especially in the country where it began. Indian Prime Minister Narendra Modi joined 50,000 students and other residents for a mass yoga session in the pouring...
 
-### [  The United Kingdom experiences its first early summer heat wave in over 20 years, and the highest recorded June temperatures in over 40 years, taken at Heathrow Airport. ](/news/2017/06/21/the-united-kingdom-experiences-its-first-early-summer-heat-wave-in-over-20-years-and-the-highest-recorded-june-temperatures-in-over-40-ye.md)
+### [  The United Kingdom experiences its first early summer heat wave in over 20 years, and the highest recorded June temperatures in over 40 years with a reading of 34.5C (94F) recorded at Heathrow Airport. ](/news/2017/06/21/the-united-kingdom-experiences-its-first-early-summer-heat-wave-in-over-20-years-and-the-highest-recorded-june-temperatures-in-over-40-ye.md)
 Temperatures hit 34.5C (94F) in the UK, as the mercury soars to its highest point in 41 years.
 
 ### [A ten-year-old boy dies from injuries sustained during Tropical Storm Cindy in Fort Morgan, Alabama. ](/news/2017/06/21/a-ten-year-old-boy-dies-from-injuries-sustained-during-tropical-storm-cindy-in-fort-morgan-alabama.md)
