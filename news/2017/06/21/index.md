@@ -3,7 +3,7 @@
 ### [Maute rebels storm a school in Pigcawayan, North Cotabato, Philippines,  and take civilians hostage. ](/news/2017/06/21/maute-rebels-storm-a-school-in-pigcawayan-north-cotabato-philippines-and-take-civilians-hostage.md)
 Pro-Islamic State militants have stormed a town and occupied a school in the southern Philippines.
 
-### [ISIL militants blow up the Great Mosque of al-Nuri in Mosul, where Abu Bakr al-Baghdadi famously proclaimed the creation of a caliphate in 2014. ](/news/2017/06/21/isil-militants-blow-up-the-great-mosque-of-al-nuri-in-mosul-where-abu-bakr-al-baghdadi-famously-proclaimed-the-creation-of-a-caliphate-in-2.md)
+### [ISIL militants reportedly blow up the Great Mosque of al-Nuri in Mosul, where Abu Bakr al-Baghdadi famously proclaimed the creation of a caliphate in 2014. ISIL blames a U.S. airstrike. ](/news/2017/06/21/isil-militants-reportedly-blow-up-the-great-mosque-of-al-nuri-in-mosul-where-abu-bakr-al-baghdadi-famously-proclaimed-the-creation-of-a-cal.md)
 The al-Nuri Mosque was where the leader of IS proclaimed its so-called &quot;caliphate&quot; in 2014.
 
 ### [More than 50,000 people practice yoga in Lucknow, India, to celebrate International Yoga Day. ](/news/2017/06/21/more-than-50-000-people-practice-yoga-in-lucknow-india-to-celebrate-international-yoga-day.md)
@@ -15,7 +15,7 @@ Temperatures hit 34.5C (94F) in the UK, as the mercury soars to its highest poin
 ### [A police officer is stabbed at Bishop International Airport in Flint, Michigan. The FBI is investigating the incident as terrorism. ](/news/2017/06/21/a-police-officer-is-stabbed-at-bishop-international-airport-in-flint-michigan-the-fbi-is-investigating-the-incident-as-terrorism.md)
 The stabbing of a police officer at a Michigan airport on Wednesday is being investigated by the FBI as a possible terror attack, officials said.
 
-### [An Imam in Australia that married a 14 year old to a 34 year old will not face jail time despite conviction. ](/news/2017/06/21/an-imam-in-australia-that-married-a-14-year-old-to-a-34-year-old-will-not-face-jail-time-despite-conviction.md)
+### [An Imam in Australia who married a 14 year old to a 34 year old will not face jail time despite conviction. ](/news/2017/06/21/an-imam-in-australia-who-married-a-14-year-old-to-a-34-year-old-will-not-face-jail-time-despite-conviction.md)
 Ibrahim Omerdic had presided over the marriage of the teenage girl to a man aged 34, telling her she must obey her new husband
 
 ### [In a royal decree, King Salman of Saudi Arabia appoints his son Mohammad bin Salman Al Saud as Crown Prince, stripping his nephew Muhammad bin Nayef of the title. ](/news/2017/06/21/in-a-royal-decree-king-salman-of-saudi-arabia-appoints-his-son-mohammad-bin-salman-al-saud-as-crown-prince-stripping-his-nephew-muhammad-b.md)
