@@ -1,9 +1,13 @@
 ### [2017-06-20](/news/2017/06/20/index.md)
 
-# Uber founder and CEO Travis Kalanick resigns amid pressure from investors due to allegations of sexual harassment, gender discrimination, and corporate misconduct in the company. (''[https://www.nytimes.com/2017/06/21/technology/uber-ceo-travis-kalanick.html The New York Times]'')
+# Uber founder and CEO Travis Kalanick resigns amid pressure from investors due to allegations of sexual harassment, gender discrimination, and corporate misconduct in the company. 
+
+The company’s co-founder had been under increasing pressure, and several major investors demanded that he resign from the company immediately.
 
 
+### Source:
 
+1. [The New York Times](https://www.nytimes.com/2017/06/21/technology/uber-ceo-travis-kalanick.html)
 
 ### Related:
 
