@@ -1,9 +1,13 @@
 ### [2017-06-21](/news/2017/06/21/index.md)
 
-# A ten-year-old boy dies from injuries sustained during Tropical Storm Cindy in Fort Morgan, Alabama.
+# A ten-year-old boy dies from injuries sustained during Tropical Storm Cindy in Fort Morgan, Alabama. 
+
+According to WKRG, the little boy suffered severe facial trauma after possibly being injured by debris from the storm. 
 
 
+### Source:
 
+1. [WREG](http://wreg.com/2017/06/21/tropical-storm-cindy-blamed-in-10-year-olds-death/)
 
 ### Related:
 

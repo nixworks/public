@@ -7,7 +7,7 @@ Ibrahim Omerdic had presided over the marriage of the teenage girl to a man aged
 
 ### Source:
 
-1. [Mirror](http://www.mirror.co.uk/news/world-news/imam-marries-14-year-old-10661681)
+1. [Daily Mirror](http://www.mirror.co.uk/news/world-news/imam-marries-14-year-old-10661681)
 
 ### Related:
 
