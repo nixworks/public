@@ -12,6 +12,9 @@ Yoga practitioners took a relaxing break to bend, twist and pose Wednesday morni
 ### [  The United Kingdom experiences its first early summer heat wave in over 20 years, and the highest recorded June temperatures in over 40 years, taken at Heathrow Airport. ](/news/2017/06/21/the-united-kingdom-experiences-its-first-early-summer-heat-wave-in-over-20-years-and-the-highest-recorded-june-temperatures-in-over-40-ye.md)
 Temperatures hit 34.5C (94F) in the UK, as the mercury soars to its highest point in 41 years.
 
+### [A ten-year-old boy dies from injuries sustained during Tropical Storm Cindy in Fort Morgan, Alabama.](/news/2017/06/21/a-ten-year-old-boy-dies-from-injuries-sustained-during-tropical-storm-cindy-in-fort-morgan-alabama.md)
+_Context: 2017 Atlantic hurricane season, Fort Morgan, Alabama, Tropical Storm Cindy_
+
 ### [A police officer is stabbed at Bishop International Airport in Flint, Michigan. The FBI is investigating the incident as terrorism. ](/news/2017/06/21/a-police-officer-is-stabbed-at-bishop-international-airport-in-flint-michigan-the-fbi-is-investigating-the-incident-as-terrorism.md)
 The stabbing of a police officer at a Michigan airport on Wednesday is being investigated by the FBI as a possible terror attack, officials said.
 
