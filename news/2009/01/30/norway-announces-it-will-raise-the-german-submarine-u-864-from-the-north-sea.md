@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _Context: Nazi_
+1. [A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _Context: Nazi_
 2. [The deceased body of a rare two-headed porpoise is located for the first time in the North Sea by Dutch fishermen. ](/news/2017/06/14/the-deceased-body-of-a-rare-two-headed-porpoise-is-located-for-the-first-time-in-the-north-sea-by-dutch-fishermen.md) _Context: North Sea_
 3. [Prime Minister of Norway Erna Solberg meets with Premier of the People's Republic of China Li Keqiang in Beijing to announce the end of a diplomatic freeze between the countries and the resumption of free trade negotiations between China and Norway. ](/news/2017/04/7/prime-minister-of-norway-erna-solberg-meets-with-premier-of-the-people-s-republic-of-china-li-keqiang-in-beijing-to-announce-the-end-of-a-di.md) _Context: Norway_
 4. [A Brazilian federal judge orders Petrobras to suspend the sale to Norway's Statoil of its stake in an  offshore prospect,  in response to the National Federation of Oil Workers petition there should have been an open bidding process for this transaction. ](/news/2017/04/17/a-brazilian-federal-judge-orders-petrobras-to-suspend-the-sale-to-norway-s-statoil-of-its-stake-in-an-offshore-prospect-in-response-to-th.md) _Context: Norway_

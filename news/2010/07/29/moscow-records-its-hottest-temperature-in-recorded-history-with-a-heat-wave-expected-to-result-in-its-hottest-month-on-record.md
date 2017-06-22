@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [2017 Western U.S. A heat wave strikes the Western U.S. states of Arizona, California and Nevada that will last until Friday, June 23. ](/news/2017/06/20/2017-western-u-s-a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-that-will-last-until-friday-june-23.md) _Context: heat wave_
+1. [A heat wave strikes the Western U.S. states of Arizona, California, and Nevada. It is predicted to last until June 23. ](/news/2017/06/20/a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-it-is-predicted-to-last-until-june-23.md) _Context: heat wave_
 2. [Hundreds of people are detained at anti-corruption protest rallies in Moscow and St. Petersburg and many other towns, including opposition leader Alexei Navalny. ](/news/2017/06/12/hundreds-of-people-are-detained-at-anti-corruption-protest-rallies-in-moscow-and-st-petersburg-and-many-other-towns-including-opposition-l.md) _Context: Moscow_
 3. [At least 11 people are killed and 69 are injured as a severe thunderstorm hits Moscow, Russia. ](/news/2017/05/29/at-least-11-people-are-killed-and-69-are-injured-as-a-severe-thunderstorm-hits-moscow-russia.md) _Context: Moscow_
 4. [Philippine President Rodrigo Duterte, who later had to cut short his visit to Moscow because of terrorist attacks on the Philippine southern island of Mindanao, tells Russia President Vladimir Putin that the Philippines is looking to Russia for modern arms to fight ISIL. ](/news/2017/05/22/philippine-president-rodrigo-duterte-who-later-had-to-cut-short-his-visit-to-moscow-because-of-terrorist-attacks-on-the-philippine-southern.md) _Context: Moscow_

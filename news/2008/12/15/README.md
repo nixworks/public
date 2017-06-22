@@ -7,7 +7,7 @@ _Context: Council of the European Union, European Union, Montenegro, Nicolas Sar
 The vote followed the end of months of protests against pro-Thaksin parties that culminated in a weeklong shutdown of Bangkok’s two airports.
 
 ### [ President of Romania Traian Basescu nominates Emil Boc, President of the Democratic Liberal Party, as Prime Minister. ](/news/2008/12/15/president-of-romania-traian-basescu-nominates-emil-boc-president-of-the-democratic-liberal-party-as-prime-minister.md)
-_Context: Democrat Liberals, Emil Boc, President, Prime Minister of Romania, Romania, Traian Basescu_
+_Context: Democrat Liberals, Emil Boc, President, Prime Minister, Romania, Traian Basescu_
 
 ### [ Hundreds of thousands of houses in Maine, Massachusetts, New York, and New Hampshire are left without electricity after an ice storm. ](/news/2008/12/15/hundreds-of-thousands-of-houses-in-maine-massachusetts-new-york-and-new-hampshire-are-left-without-electricity-after-an-ice-storm.md)
 Officials are telling some customers in northern New England that they may not get their power restored until the weekend.

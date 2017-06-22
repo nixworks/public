@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _Context: Nazi_
+1. [A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _Context: Nazi_
 2. [Media freedom in Turkey, Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/media-freedom-in-turkey-monitoring-group-turkey-blocks-reports-that-a-provisional-administrative-order-blocks-access-to-all-language-editio.md) _Context: Wikipedia_
 3. [Wikipedia celebrates its 15th anniversary. ](/news/2016/01/15/wikipedia-celebrates-its-15th-anniversary.md) _Context: Wikipedia_
 4. [Wikipedia concludes a large-scale operation blocking hundreds of users centered on networks of for-pay edits violating the encyclopedia's guidelines. ](/news/2015/09/1/wikipedia-concludes-a-large-scale-operation-blocking-hundreds-of-users-centered-on-networks-of-for-pay-edits-violating-the-encyclopedia-s-gu.md) _Context: Wikipedia_

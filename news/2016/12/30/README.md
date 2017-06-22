@@ -25,7 +25,7 @@ Brazilian police detain the wife of the Greek envoy after finding his body in Ri
 A school for transgender people opens in Kochi, to help school dropouts finish their education.
 
 ### [Romanian President Klaus Iohannis designates social-democrat Sorin Grindeanu as the country's new prime minister, after the victory of the centre-left PSD earlier this month. ](/news/2016/12/30/romanian-president-klaus-iohannis-designates-social-democrat-sorin-grindeanu-as-the-country-s-new-prime-minister-after-the-victory-of-the-c.md)
-_Context: Klaus Iohannis, PSD, President, Prime Minister of Romania, Romania, Sorin Grindeanu, centre-left, earlier this month, social-democrat_
+_Context: Klaus Iohannis, PSD, President, Prime Minister, Romania, Sorin Grindeanu, centre-left, earlier this month, social-democrat_
 
 ### [China's State Council announces details of its intention to ban all ivory trade and processing activities by the end of 2017. ](/news/2016/12/30/china-s-state-council-announces-details-of-its-intention-to-ban-all-ivory-trade-and-processing-activities-by-the-end-of-2017.md)
 China announces a ban on all ivory trade and processing activities by the end of 2017.

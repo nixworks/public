@@ -10,7 +10,7 @@ Australian Foreign Minister Julie Bishop said on Saturday that a controversial r
 _Context: Donald Trump, Donbass, Petro Poroshenko, Russia, U.S. President, Ukraine-United States relations, Ukrainian President, War in Donbass_
 
 ### [Romanian Prime Minister Sorin Grindeanu announces that his government will scrap its proposed decree of decriminalizing some graft offenses on Sunday. ](/news/2017/02/4/romanian-prime-minister-sorin-grindeanu-announces-that-his-government-will-scrap-its-proposed-decree-of-decriminalizing-some-graft-offenses.md)
-_Context: 2017 Romanian protests, Prime Minister of Romania, Sorin Grindeanu_
+_Context: 2017 Romanian protests, Prime Minister, Sorin Grindeanu_
 
 ### [The United Nations drop sanctions on Gulbuddin Hekmatyar after his Hezb-e Islami faction and the Afghan government reached a deal in September. Hekmatyar is granted immunity in exchange for his abandoning violence and supporting the Constitution of Afghanistan. ](/news/2017/02/4/the-united-nations-drop-sanctions-on-gulbuddin-hekmatyar-after-his-hezb-e-islami-faction-and-the-afghan-government-reached-a-deal-in-septemb.md)
 The move is part of a peace deal paving the way for Gulbuddin Hekmatyar to return to Afghanistan.

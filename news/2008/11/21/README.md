@@ -16,7 +16,7 @@ Two confidants said Hillary Rodham Clinton would give up her Senate seat and acc
 _Context: National Intelligence Council, dominance, economy of the United States, military, political_
 
 ### [ Malaysia bans the practice of yoga by Muslims. ](/news/2008/11/21/malaysia-bans-the-practice-of-yoga-by-muslims.md)
-_Context: Malaysia, Muslims, Yoga_
+_Context: Malaysia, Muslims, yoga_
 
 ### [ South Africa changes to an open telecommunications market ending a long monopoly and duopoly environment as smaller independent service providers gain certainty on their rights to build network infrastructure. ](/news/2008/11/21/south-africa-changes-to-an-open-telecommunications-market-ending-a-long-monopoly-and-duopoly-environment-as-smaller-independent-service-pro.md)
 _Context: South Africa_

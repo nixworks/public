@@ -31,7 +31,7 @@ Eight of the 10 men reportedly jailed for the attempted assassination of Pakista
 _Context: Minnesota, Roman Catholic Archdiocese of St. Paul and Minneapolis_
 
 ### [Romania's National Anticorruption Directorate announces that it is investigating the Prime Minister Victor Ponta for alleged money laundering, forgery and corruption. Ponta denies the allegations and is refusing to stand down. ](/news/2015/06/5/romania-s-national-anticorruption-directorate-announces-that-it-is-investigating-the-prime-minister-victor-ponta-for-alleged-money-launderin.md)
-_Context: National Anticorruption Directorate, Prime Minister of Romania, Romania, Victor Ponta_
+_Context: National Anticorruption Directorate, Prime Minister, Romania, Victor Ponta_
 
 ## [Previous Day...](/news/2015/06/4/index.md)
 

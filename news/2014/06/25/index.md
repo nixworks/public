@@ -25,7 +25,7 @@ _Context: Jama'at-ud-Dawa, LeT, United States_
 * Gas deal part of supply talks since early this year* Five cargoes to be delivered by year-end* Sisi, Algeria talk over security, Libya (A
 
 ### [Both houses of the Romanian parliament widely adopt a joint statement urging Romania's president Traian Basescu to resign, following corruption scandals involving his arrested brother's graft case and one of his sons-in-law's implication in a criminal investigation. ](/news/2014/06/25/both-houses-of-the-romanian-parliament-widely-adopt-a-joint-statement-urging-romania-s-president-traian-basescu-to-resign-following-corrup.md)
-_Context: Romania, Traian Basescu, assembly, corruption, graft_
+_Context: Parliament of Romania, Romania, Traian Basescu, corruption, graft_
 
 ## [Previous Day...](/news/2014/06/24/index.md)
 

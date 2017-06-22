@@ -52,7 +52,7 @@ More than a decade after he tried and failed to become the country&#039;s leader
 _Context: Gambian presidential election, 2016, Senegal, Yahya Jammeh, the Gambia_
 
 ### [Being forced into opposition a year earlier, by the resignation of Prime Minister Victor Ponta amid the Colectiv nightclub fire tragedy, the Social Democratic Party returns to government following a landslide victory in last Sunday's parliamentary elections. ](/news/2016/12/12/being-forced-into-opposition-a-year-earlier-by-the-resignation-of-prime-minister-victor-ponta-amid-the-colectiv-nightclub-fire-tragedy-the.md)
-_Context: Colectiv nightclub fire, PSD, Prime Minister of Romania, Victor Ponta, earlier this month_
+_Context: Colectiv nightclub fire, PSD, Prime Minister, Victor Ponta, earlier this month_
 
 ## [Previous Day...](/news/2016/12/11/index.md)
 

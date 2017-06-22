@@ -31,7 +31,7 @@ The Queen visits a school in Norfolk and there are gun salutes around the UK as 
 _Context: Aung San Suu Kyi, Kawhmu, Myanmar, National League for Democracy, by-elections earlier this month_
 
 ### [Romanian Prime Minister Emil Boc and his entire cabinet resign after major social and political unrest in the country. ](/news/2012/02/6/romanian-prime-minister-emil-boc-and-his-entire-cabinet-resign-after-major-social-and-political-unrest-in-the-country.md)
-_Context: Emil Boc, Prime Minister of Romania, Romania, major social and political unrest_
+_Context: Emil Boc, Prime Minister, Romania, major social and political unrest_
 
 ### [The BBC reports that rival Palestinian factions have agreed to form a government led by President Mahmoud Abbas ahead of elections. ](/news/2012/02/6/the-bbc-reports-that-rival-palestinian-factions-have-agreed-to-form-a-government-led-by-president-mahmoud-abbas-ahead-of-elections.md)
 Palestinian leader Mahmoud Abbas says he will head a unity government between Hamas and Fatah ahead of elections in the West Bank and Gaza.

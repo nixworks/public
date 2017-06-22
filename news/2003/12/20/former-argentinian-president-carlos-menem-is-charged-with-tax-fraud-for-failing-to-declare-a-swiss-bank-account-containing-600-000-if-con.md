@@ -7,7 +7,7 @@
 
 ### Related:
 
-1. [ A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _Context: Argentina_
+1. [A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _Context: Argentina_
 2. [Swiss voters approve a referendum to phase out nuclear power in Switzerland and increase renewable energy. ](/news/2017/05/21/swiss-voters-approve-a-referendum-to-phase-out-nuclear-power-in-switzerland-and-increase-renewable-energy.md) _Context: Swiss_
 3. [A small Swiss-owned plane crashes in the Portuguese village of Tires, west of Lisbon, killing at least five people. ](/news/2017/04/17/a-small-swiss-owned-plane-crashes-in-the-portuguese-village-of-tires-west-of-lisbon-killing-at-least-five-people.md) _Context: Swiss_
 4. [A bus traveling to Chile overturns in Argentina's Mendoza Province, killing at least 19 people. ](/news/2017/02/18/a-bus-traveling-to-chile-overturns-in-argentina-s-mendoza-province-killing-at-least-19-people.md) _Context: Argentina_

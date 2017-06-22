@@ -40,7 +40,7 @@ US President Barack Obama nominates Senator John Kerry to replace Hillary Clinto
 Former UK prime minister Margaret Thatcher is recovering in hospital after having a growth removed from her bladder.
 
 ### [After seven months in office and a decisive victory in the elections, Romanian Prime Minister Victor Ponta and his cabinet receive the vote of confidence from Parliament with 402 votes in favor and 120 against. ](/news/2012/12/21/after-seven-months-in-office-and-a-decisive-victory-in-the-elections-romanian-prime-minister-victor-ponta-and-his-cabinet-receive-the-vote.md)
-_Context: Prime Minister of Romania, Romania, Victor Ponta, assembly, vote of confidence_
+_Context: Parliament of Romania, Prime Minister, Romania, Victor Ponta, vote of confidence_
 
 ### [Technocrat Mario Monti resigns as Prime Minister of Italy after the parliamentary passing of Italy's latest austerity budget. ](/news/2012/12/21/technocrat-mario-monti-resigns-as-prime-minister-of-italy-after-the-parliamentary-passing-of-italy-s-latest-austerity-budget.md)
 Mario Monti resigns as Italian prime minister, officials say, keeping a promise to step down after the passing of his budget in parliament.

@@ -11,7 +11,7 @@ BUENOS AIRES, Argentina (AP) — A strong earthquake with a magnitude of 6.2 str
 
 ### Related:
 
-1. [ A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _Context: Argentina_
+1. [A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _Context: Argentina_
 2. [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-one-death-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md) _Context: magnitude_
 3. [A 5.7 magnitude earthquake strikes 250 kilometers (155 miles) northwest of the Pacific island nation of Vanuatu. No immediate report of damages or injuries; no tsunami warning has been issued. ](/news/2017/04/17/a-5-7-magnitude-earthquake-strikes-250-kilometers-155-miles-northwest-of-the-pacific-island-nation-of-vanuatu-no-immediate-report-of-dama.md) _Context: magnitude_
 4. [A bus traveling to Chile overturns in Argentina's Mendoza Province, killing at least 19 people. ](/news/2017/02/18/a-bus-traveling-to-chile-overturns-in-argentina-s-mendoza-province-killing-at-least-19-people.md) _Context: Argentina_

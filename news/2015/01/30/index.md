@@ -31,7 +31,7 @@ _Context: Eugene de Kock, Justice Minister, South Africa, apartheid_
 News - Your daily dose of information: European and International latest breaking news, economic news, business news and more. Stay up to date with Euronews.
 
 ### [King Salman of Saudi Arabia names a new cabinet and replaces officials in several key government positions, removing two sons of the late monarch Abdullah from their regional governorships in the process. ](/news/2015/01/30/king-salman-of-saudi-arabia-names-a-new-cabinet-and-replaces-officials-in-several-key-government-positions-removing-two-sons-of-the-late-mo.md)
-_Context: Abdullah, King, Salman, cabinet, government_
+_Context: Abdullah, King, Salman of Saudi Arabia, cabinet, government_
 
 ### [Two balloonists, Troy Bradley  of the United States and Leonid Tiukhtyaev of Russia, are crossing the Pacific Ocean in the Two Eagles gas balloon and have surpassed the distance and duration records for straight gas balloons. They are set to land in Mexico on Saturday. ](/news/2015/01/30/two-balloonists-troy-bradley-of-the-united-states-and-leonid-tiukhtyaev-of-russia-are-crossing-the-pacific-ocean-in-the-two-eagles-gas-ba.md)
 Two pilots have surpassed the world distance and durations records for a flight in a helium balloon after crossing the Pacific Ocean.

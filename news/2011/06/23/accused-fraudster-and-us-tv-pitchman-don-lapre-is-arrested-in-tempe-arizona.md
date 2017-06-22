@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [2017 Western U.S. A heat wave strikes the Western U.S. states of Arizona, California and Nevada that will last until Friday, June 23. ](/news/2017/06/20/2017-western-u-s-a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-that-will-last-until-friday-june-23.md) _Context: Arizona_
+1. [A heat wave strikes the Western U.S. states of Arizona, California, and Nevada. It is predicted to last until June 23. ](/news/2017/06/20/a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-it-is-predicted-to-last-until-june-23.md) _Context: Arizona_
 2. [Princess Cristina of Spain is acquitted of fraud but her husband is convicted. ](/news/2017/02/17/princess-cristina-of-spain-is-acquitted-of-fraud-but-her-husband-is-convicted.md) _Context: fraud_
 3. [Four state Democratic Parties sue  the Donald Trump presidential campaign, the state Republican Parties, and "Stop the Steal"  group founder Roger Stone  for voter intimidation in the states of Ohio, Pennsylvania, Nevada, and Arizona. ](/news/2016/11/1/four-state-democratic-parties-sue-the-donald-trump-presidential-campaign-the-state-republican-parties-and-stop-the-steal-group-founder.md) _Context: Arizona_
 4. [The Obama administration through federal prosecutors announces corruption charges against nine defendants, including a former close aide to New York Governor Andrew Cuomo, over their roles in alleged bribery and fraud schemes tied to the awarding of large state contracts and other activities. ](/news/2016/09/22/the-obama-administration-through-federal-prosecutors-announces-corruption-charges-against-nine-defendants-including-a-former-close-aide-to.md) _Context: fraud_

@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [2017 Western U.S. A heat wave strikes the Western U.S. states of Arizona, California and Nevada that will last until Friday, June 23. ](/news/2017/06/20/2017-western-u-s-a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-that-will-last-until-friday-june-23.md) _Context: California_
+1. [A heat wave strikes the Western U.S. states of Arizona, California, and Nevada. It is predicted to last until June 23. ](/news/2017/06/20/a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-it-is-predicted-to-last-until-june-23.md) _Context: California_
 2. [Four people, including the gunman, are dead, and six injured, after a man opens fire at people in a UPS building in the Potrero Hill neighborhood of San Francisco, California. ](/news/2017/06/14/four-people-including-the-gunman-are-dead-and-six-injured-after-a-man-opens-fire-at-people-in-a-ups-building-in-the-potrero-hill-neighbo.md) _Context: California_
 3. [The Assembly of California votes in favor of ending a ban which barred members of the Communist Party USA from holding positions in the state government. ](/news/2017/05/9/the-assembly-of-california-votes-in-favor-of-ending-a-ban-which-barred-members-of-the-communist-party-usa-from-holding-positions-in-the-stat.md) _Context: California_
 4. [Around 50,000 people are evacuated from the German city of Hanover while bomb disposal experts defuse three bombs dropped by the Royal Air Force during World War II. ](/news/2017/05/7/around-50-000-people-are-evacuated-from-the-german-city-of-hanover-while-bomb-disposal-experts-defuse-three-bombs-dropped-by-the-royal-air-f.md) _Context: World War II_

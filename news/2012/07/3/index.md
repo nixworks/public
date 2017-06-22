@@ -19,7 +19,7 @@ Pakistan is expected to reopen supply routes to Nato-led forces in Afghanistan, 
 _Context: L'Oral, Liliane Bettencourt, Nicolas Sarkozy_
 
 ### [The current governing coalition in Romania, the Social Liberal Union, starts a fast-paced parliamentary offensive against President Traian Basescu by dismissing the leaders of both chambers of Parliament. ](/news/2012/07/3/the-current-governing-coalition-in-romania-the-social-liberal-union-starts-a-fast-paced-parliamentary-offensive-against-president-traian-b.md)
-_Context: President, Social Liberal Union, assembly_
+_Context: Parliament of Romania, President, Social Liberal Union_
 
 ### [Hundreds of activists demonstrate in Ramallah to protest against the violent dispersal of two similar rallies at the weekend in a rare expression of public discontent with the ruling party of the Palestinian Authority headed by Mahmud Abbas. ](/news/2012/07/3/hundreds-of-activists-demonstrate-in-ramallah-to-protest-against-the-violent-dispersal-of-two-similar-rallies-at-the-weekend-in-a-rare-expre.md)
 _Context: Mahmud Abbas, Palestinian Authority, Ramallah_

@@ -73,7 +73,7 @@ _Context: Japan, Seiji Maehara, Takeaki Matsumoto_
 Fine Gael leader Enda Kenny has been elected Taoiseach of the 31st D&aacute;il and has named his new Cabinet.
 
 ### [The minority government led by Prime Minister Stephen Harper is reprimanded by the Canadian House of Commons for failing to produce documents but avoids a no confidence motion. ](/news/2011/03/9/the-minority-government-led-by-prime-minister-stephen-harper-is-reprimanded-by-the-canadian-house-of-commons-for-failing-to-produce-document.md)
-_Context: Canadian House of Commons, Canadian Prime Minister, Canadian government, Stephen Harper, no-confidence motion_
+_Context: Canadian House of Commons, Canadian Prime Minister, Canadian government, Stephen Harper, no confidence motion_
 
 ### [Republicans in the Wisconsin Senate vote to remove collective bargaining rights from state employees separate from the budget to end the impasse over the state budget with no Democrat Senators present. ](/news/2011/03/9/republicans-in-the-wisconsin-senate-vote-to-remove-collective-bargaining-rights-from-state-employees-separate-from-the-budget-to-end-the-imp.md)
 Wisconsin Gov. Scott Walker signed a bill on Friday that strips public workers of most collective bargaining rights.

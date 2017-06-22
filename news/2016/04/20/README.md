@@ -64,7 +64,7 @@ The mainly Mormon US state of Utah becomes the first to declare pornography to b
 Mass murderer Anders Behring Breivik wins part of a human rights case against the Norwegian state, alleging &quot;inhuman or degrading treatment&quot;.
 
 ### [The first criminal charges are laid against three people, two state officials and a municipal official, involved in the Flint water crisis. ](/news/2016/04/20/the-first-criminal-charges-are-laid-against-three-people-two-state-officials-and-a-municipal-official-involved-in-the-flint-water-crisis.md)
-_Context: Flint, Flint water crisis_
+_Context: Flint water crisis, Flint, Michigan_
 
 ### [In a letter to the International Consortium of Investigative Journalists, the United States Department of Justice announces it is opening a criminal investigation into tax avoidance schemes exposed by the Panama Papers with U.S. attorney Preet Bharara asking the ICIJ for help. ](/news/2016/04/20/in-a-letter-to-the-international-consortium-of-investigative-journalists-the-united-states-department-of-justice-announces-it-is-opening-a.md)
 The US Justice Department opens a criminal investigation into tax avoidance schemes exposed by the Panama Papers.

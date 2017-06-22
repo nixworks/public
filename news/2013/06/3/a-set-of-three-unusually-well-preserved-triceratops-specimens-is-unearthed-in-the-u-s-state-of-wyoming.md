@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia, where Republican Karen Handel is in a close race with Democratic challenger Jon Ossoff. ](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-where-republican-karen-handel-is-in-a-close-race.md) _Context: U.S. state_
+1. [Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia between Republican Karen Handel and Democratic Jon Ossoff, where Republican Handel wins the election by a narrow margin. ](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-between-republican-karen-handel-and-democratic-jon.md) _Context: U.S. state_
 2. [With a turnout of 23% eligible voters, 97% of the voters in Puerto Rico request that the island become a U.S. state. ](/news/2017/06/11/with-a-turnout-of-23-eligible-voters-97-of-the-voters-in-puerto-rico-request-that-the-island-become-a-u-s-state.md) _Context: U.S. state_
 3. [Registered Democratic voters in the U.S. state of Wyoming gather, by county,  for the  Wyoming Democratic caucuses. Bernie Sanders is projected to win. ](/news/2016/04/9/registered-democratic-voters-in-the-u-s-state-of-wyoming-gather-by-county-for-the-wyoming-democratic-caucuses-bernie-sanders-is-projec.md) _Context: Wyoming_
 4. [Voters in Guam, Washington, D.C. and Wyoming head to the polls to vote in Republican Party caucuses, while Democratic Party members vote in the Northern Mariana Islands caucus. ](/news/2016/03/12/voters-in-guam-washington-d-c-and-wyoming-head-to-the-polls-to-vote-in-republican-party-caucuses-while-democratic-party-members-vote-in.md) _Context: Wyoming_

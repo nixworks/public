@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _Context: Nazi_
+1. [A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _Context: Nazi_
 2. [Eight people are injured, two seriously, when a car drives into several people in front of the Amsterdam Centraal station in the Netherlands. Police say the driver may have taken ill; they are not treating this as terrorism-related. ](/news/2017/06/10/eight-people-are-injured-two-seriously-when-a-car-drives-into-several-people-in-front-of-the-amsterdam-centraal-station-in-the-netherlands.md) _Context: Netherlands_
 3. [A judge in Alkmaar, the Netherlands, grants a 12-year-old boy the right to decide for himself on whether or not to continue chemotherapy. The ruling was based on a psychiatric evaluation of the patient as being "capable of a reasonable evaluation of his interests and realizes the consequences -- including the negative ones -- of his decision." ](/news/2017/05/12/a-judge-in-alkmaar-the-netherlands-grants-a-12-year-old-boy-the-right-to-decide-for-himself-on-whether-or-not-to-continue-chemotherapy-th.md) _Context: Netherlands_
 4. [A Filipino lawyer files a complaint of "mass murder and crimes against humanity" against Philippines president Rodrigo Duterte and eleven other officials at the International Criminal Court in The Hague, Netherlands. ](/news/2017/04/24/a-filipino-lawyer-files-a-complaint-of-mass-murder-and-crimes-against-humanity-against-philippines-president-rodrigo-duterte-and-eleven-ot.md) _Context: Netherlands_

@@ -4,7 +4,7 @@
 _Context: Iran, Mahmoud Ahmadinejad, Mir-Hossein Mousavi, President, re-election_
 
 ### [ California Governor Arnold Schwarzenegger delivers a speech regarding the state's financial crisis, favoring state spending cuts rather than the issuing of bonds. ](/news/2009/06/13/california-governor-arnold-schwarzenegger-delivers-a-speech-regarding-the-state-s-financial-crisis-favoring-state-spending-cuts-rather-tha.md)
-_Context: Arnold Schwarzenegger, California, Governor of California, bonds, state's financial crisis_
+_Context: Arnold Schwarzenegger, California, Governor of California, bond, state's financial crisis_
 
 ### [ North Korea: North Korea announces it will "weaponise all plutonium" and begin uranium enrichment following United Nations Security Council Resolution 1874 against the country. ](/news/2009/06/13/north-korea-p-north-korea-announces-it-will-weaponise-all-plutonium-and-begin-uranium-enrichment-following-united-nations-security-counci.md)
 Pyongyang threatens increased nuclear activity and military action after UN vote.

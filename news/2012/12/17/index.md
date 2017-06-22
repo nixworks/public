@@ -40,7 +40,7 @@ _Context: Gujarat, India_
 The Rajya Sabha on Monday passed the constitution amendment bill to provide reservations in promotions for the scheduled castes (SCs) and the scheduled tribes (STs).
 
 ### [The President of Romania nominates current Prime Minister Victor Ponta of the Social Liberal Union to form a new government after the parliamentary election held earlier this month. ](/news/2012/12/17/the-president-of-romania-nominates-current-prime-minister-victor-ponta-of-the-social-liberal-union-to-form-a-new-government-after-the-parlia.md)
-_Context: President, Prime Minister of Romania, Social Liberal Union, Victor Ponta, parliamentary election_
+_Context: President, Prime Minister, Social Liberal Union, Victor Ponta, parliamentary election_
 
 ### [US politics:Nikki Haley, the Governor of South Carolina, appoints Tim Scott to replace outgoing US Senator Jim DeMint. ](/news/2012/12/17/us-politics-pnikki-haley-the-governor-of-south-carolina-appoints-tim-scott-to-replace-outgoing-us-senator-jim-demint.md)
 Gov. Nikki Haley of South Carolina on Monday appointed GOP Congressman Tim Scott to fill the seat vacated by outgoing Senator Jim DeMint. Scott, who takes office Jan. 3, will become the first black Senator from the South since 1881, as well as the only African-American in the chamber.

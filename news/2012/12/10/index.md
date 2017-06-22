@@ -43,7 +43,7 @@ Former Bangladesh President Iajuddin Ahmed whose eventful tenure exposed the cou
 Venezuelan President Hugo Chavez flew to Cuba on Monday for cancer surgery, with a vow to return quickly despite conceding for the first time that the disease could end his 14-year rule of the South American OPEC nation.
 
 ### [In a landslide victory, Prime Minister Victor Ponta's ruling Social Liberal Union wins nearly 60% of votes in Romania's parliamentary election, with a projected 66-67% of MP mandates. ](/news/2012/12/10/in-a-landslide-victory-prime-minister-victor-ponta-s-ruling-social-liberal-union-wins-nearly-60-of-votes-in-romania-s-parliamentary-electi.md)
-_Context: MP, Prime Minister of Romania, Romania, Social Liberal Union, Victor Ponta, landslide, parliamentary election_
+_Context: MP, Prime Minister, Romania, Social Liberal Union, Victor Ponta, landslide, parliamentary election_
 
 ### [The government of Malta loses a budget vote, causing early elections to be called. ](/news/2012/12/10/the-government-of-malta-loses-a-budget-vote-causing-early-elections-to-be-called.md)
 The Budget was defeated this evening, with Franco Debono, as promised, joining the Opposition to vote &#039;no&#039;. Prime Minister Lawrence Gonzi said he will tomorrow call on the President to advise him when to dissolve Parliament and when to call a general election. MPs were asked to stand when the...

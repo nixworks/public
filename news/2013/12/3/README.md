@@ -16,7 +16,7 @@ _Context: 2013 Thai protests, Bangkok, Thai police officers_
 Ukraine’s government survived a no-confidence motion as tens of thousands of protesters surrounded the parliament building in central Kyiv, calling
 
 ### [Romanian President Traian Basescu sparks a new crisis by refusing to sign the country's IMF accord and threatens Prime Minister Victor Ponta's government with rejecting the national budget, blocking important indexations of salaries and pensions for the following year, over an ongoing political feud between the two leaders. ](/news/2013/12/3/romanian-president-traian-basescu-sparks-a-new-crisis-by-refusing-to-sign-the-country-s-imf-accord-and-threatens-prime-minister-victor-pont.md)
-_Context: International Monetary Fund, President, Prime Minister of Romania, Romania, Traian Basescu, Victor Ponta, government, national budget_
+_Context: International Monetary Fund, President, Prime Minister, Romania, Traian Basescu, Victor Ponta, government, national budget_
 
 ### [Reports from South Korea claim that prominent North Korean powerbroker Jang Sung-taek has been sacked as the Vice-chairman of the National Defence Commission. ](/news/2013/12/3/reports-from-south-korea-claim-that-prominent-north-korean-powerbroker-jang-sung-taek-has-been-sacked-as-the-vice-chairman-of-the-national-d.md)
 _Context: Jang Sung-taek, National Defence Commission, North Korea, South Korea_

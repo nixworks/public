@@ -13,7 +13,7 @@ Two helicopters collide in mid-air over northern Argentina, killing 10 people in
 
 ### Related:
 
-1. [ A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _Context: Argentina_
+1. [A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _Context: Argentina_
 2. [A bus traveling to Chile overturns in Argentina's Mendoza Province, killing at least 19 people. ](/news/2017/02/18/a-bus-traveling-to-chile-overturns-in-argentina-s-mendoza-province-killing-at-least-19-people.md) _Context: Argentina_
 3. [A 6.2 magnitude earthquake strikes northwest Argentina, near Chilecito in La Rioja Province. No reports of damages or injuries. ](/news/2016/11/13/a-6-2-magnitude-earthquake-strikes-northwest-argentina-near-chilecito-in-la-rioja-province-no-reports-of-damages-or-injuries.md) _Context: Argentina_
 4. [Frenchman Jean-Pierre Sauvage, Scotsman Sir Fraser Stoddart, and Dutchman Ben Feringa win the Nobel Prize in Chemistry for their research into nanotechnology. ](/news/2016/10/5/frenchman-jean-pierre-sauvage-scotsman-sir-fraser-stoddart-and-dutchman-ben-feringa-win-the-nobel-prize-in-chemistry-for-their-research-in.md) _Context: Frenchman_

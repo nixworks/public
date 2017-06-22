@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [2017 Western U.S. A heat wave strikes the Western U.S. states of Arizona, California and Nevada that will last until Friday, June 23. ](/news/2017/06/20/2017-western-u-s-a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-that-will-last-until-friday-june-23.md) _Context: heat wave_
+1. [A heat wave strikes the Western U.S. states of Arizona, California, and Nevada. It is predicted to last until June 23. ](/news/2017/06/20/a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-it-is-predicted-to-last-until-june-23.md) _Context: heat wave_
 2. [At least 134 people are dead and dozens are missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-134-people-are-dead-and-dozens-are-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: monsoon_
 3. [At least 64 people die in Nepal after heavy monsoonal rain triggers floods and landslides. ](/news/2016/07/28/at-least-64-people-die-in-nepal-after-heavy-monsoonal-rain-triggers-floods-and-landslides.md) _Context: monsoon_
 4. [Floods resulting from the annual monsoon season cause 22 deaths and make 100,000 people homeless in India. ](/news/2016/07/11/floods-resulting-from-the-annual-monsoon-season-cause-22-deaths-and-make-100-000-people-homeless-in-india.md) _Context: monsoon_

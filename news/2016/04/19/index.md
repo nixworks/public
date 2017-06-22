@@ -43,7 +43,7 @@ Yosef Chaim Ben-David well understood what he was doing and was in full control 
 BUSAN, South Korea (AP) — The 14-year-old boy in the black school jacket stared at his sneakers, his heart pounding, as the policeman accused him of stealing a piece of bread. Even now, more than 30 years later, Choi Seung-woo…
 
 ### [According to government officials, Michigan Attorney General Bill Schuette tomorrow will announce criminal charges against two state regulators and a Flint employee in connection with the city's lead-tainted water crisis. ](/news/2016/04/19/according-to-government-officials-michigan-attorney-general-bill-schuette-tomorrow-will-announce-criminal-charges-against-two-state-regulat.md)
-_Context: Bill Schuette, Flint, Flint water crisis, Michigan Attorney General, criminal charge_
+_Context: Bill Schuette, Flint water crisis, Flint, Michigan, Michigan Attorney General, criminal charge_
 
 ### [Voters in the U.S. state of New York go to the polls for a primary election with Hillary Clinton and Donald Trump expected to win the respective contests for their parties in that state. ](/news/2016/04/19/voters-in-the-u-s-state-of-new-york-go-to-the-polls-for-a-primary-election-with-hillary-clinton-and-donald-trump-expected-to-win-the-respec.md)
 New York election results from the 2016 general election.

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _Context: Nazi_
+1. [A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _Context: Nazi_
 2. [Spratly Islands dispute:Philippine President Benigno Aquino III compares China's territory claims in the South China Sea to Nazi Germany's invasion of Czechoslovakia. ](/news/2014/02/5/spratly-islands-dispute-pphilippine-president-benigno-aquino-iii-compares-china-s-territory-claims-in-the-south-china-sea-to-nazi-germany-s.md) _Context: Nazi_
 3. [Three teenagers in Liverpool, England, are convicted for beating a homeless man to death as part of a dare. ](/news/2013/04/16/three-teenagers-in-liverpool-england-are-convicted-for-beating-a-homeless-man-to-death-as-part-of-a-dare.md) _Context: Liverpool_
 4. [The British Labour Party votes to scrap the tradition of Shadow Cabinet elections at their annual conference in Liverpool. ](/news/2011/09/26/the-british-labour-party-votes-to-scrap-the-tradition-of-shadow-cabinet-elections-at-their-annual-conference-in-liverpool.md) _Context: Liverpool_

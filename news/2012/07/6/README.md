@@ -37,7 +37,7 @@ _Context: Balochistan, Pakistan, Turbat_
 The Serious Fraud Office (SFO) confirms that it has formally launched a criminal investigation into the rigging of the inter-bank lending rate, Libor.
 
 ### [For the second time in history and with the same person, the Parliament of Romania votes to suspend President Traian Basescu from office. On 29 July 2012 he will face a national referendum for his dismissal. ](/news/2012/07/6/for-the-second-time-in-history-and-with-the-same-person-the-parliament-of-romania-votes-to-suspend-president-traian-basescu-from-office-o.md)
-_Context: President, Traian Basescu, assembly, presidential impeachment referendum_
+_Context: Parliament of Romania, President, Traian Basescu, presidential impeachment referendum_
 
 ### [After a partial vote recount, Enrique Pena Nieto is confirmed as the winner of the 2012 Mexican presidential election ](/news/2012/07/6/after-a-partial-vote-recount-enrique-pea-a-nieto-is-confirmed-as-the-winner-of-the-2012-mexican-presidential-election.md)
 _Context: Enrique Pena Nieto, Mexican presidential elections_
