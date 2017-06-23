@@ -2,12 +2,13 @@
 
 # Multiple blasts occur at a market in Parachinar, killing at least 13 people and wounding over 50 more. 
 
-
+Suicide attack near provincial police chief&#39;s office kills at least 12 people and wounds 14 others.
 
 
 ### Source:
 
-1. [Radio Free Europe/Radio Liberty](https://www.rferl.org/a/pakistan-quetta-police-target-blast/28574638.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2017/06/pakistan-police-office-struck-deadly-quetta-blast-170623043059409.html)
+2. [Radio Free Europe/Radio Liberty](https://www.rferl.org/a/pakistan-quetta-police-target-blast/28574638.html)
 
 ### Related:
 
