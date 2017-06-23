@@ -7,7 +7,7 @@ Virginia man traveled over past several months to China, federal prosecutors say
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/local/public-safety/ex-dod-employee-accused-of-selling-top-secret-governments-to-china/2017/06/22/3ec3a706-576f-11e7-a204-ad706461fa4f_story.html?utm_term=.a5eec2941c22)
+1. [The Washington Post](https://www.washingtonpost.com/local/public-safety/ex-dod-employee-accused-of-selling-top-secret-governments-to-china/2017/06/22/3ec3a706-576f-11e7-a204-ad706461fa4f_story.html)
 
 ### Related:
 
