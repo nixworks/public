@@ -12,7 +12,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ## [Yesterday](/news/2017/06/22/index.md)
 
 ### [A car bomb outside a New Kabul Bank branch in Lashkargah, Helmand Province, kills at least 20 people. The Taliban claims responsibility. ](/news/2017/06/22/a-car-bomb-outside-a-new-kabul-bank-branch-in-lashkargah-helmand-province-kills-at-least-20-people-the-taliban-claims-responsibility.md)
-_Context: Helmand Province, June 2017 Kabul bank attack, Lashkargah, New Kabul Bank, Taliban, War in Afghanistan_
+_Context: 2017 Lashkargah bombing, Helmand Province, Lashkargah, New Kabul Bank, Taliban, War in Afghanistan_
 
 ### [United States President Donald Trump plans on adding solar panels to his proposed border wall with Mexico. ](/news/2017/06/22/united-states-president-donald-trump-plans-on-adding-solar-panels-to-his-proposed-border-wall-with-mexico.md)
 Attaching solar panels to a wall along the Mexican border will cut costs, the US president tells a rally.
@@ -50,6 +50,9 @@ The al-Nuri Mosque was where the leader of IS proclaimed its so-called &quot;cal
 
 ### [More than 50,000 people practice yoga in Lucknow, India, to celebrate International Yoga Day. ](/news/2017/06/21/more-than-50-000-people-practice-yoga-in-lucknow-india-to-celebrate-international-yoga-day.md)
 Yoga practitioners took a relaxing break to bend, twist and pose Wednesday morning for the annual event celebrating the practice, especially in the country where it began. Indian Prime Minister Narendra Modi joined 50,000 students and other residents for a mass yoga session in the pouring...
+
+### [Author Jose Eduardo Agualusa wins the International Dublin Literary Award for his novel ''A General Theory of Oblivion''. (](/news/2017/06/21/author-josa-c-eduardo-agualusa-wins-the-international-dublin-literary-award-for-his-novel-a-general-theory-of-oblivion.md)
+_Context: A General Theory of Oblivion, International Dublin Literary Award, Jose Eduardo Agualusa_
 
 ### [  The United Kingdom experiences its first early summer heat wave in over 20 years, and the highest recorded June temperatures in over 40 years with a reading of 34.5C (94F) recorded at Heathrow Airport. ](/news/2017/06/21/the-united-kingdom-experiences-its-first-early-summer-heat-wave-in-over-20-years-and-the-highest-recorded-june-temperatures-in-over-40-ye.md)
 Temperatures hit 34.5C (94F) in the UK, as the mercury soars to its highest point in 41 years.
