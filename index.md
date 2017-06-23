@@ -3,6 +3,12 @@
 ### [Multiple blasts occur at a market in Parachinar, killing at least 13 people and wounding over 50 more. ](/news/2017/06/23/multiple-blasts-occur-at-a-market-in-parachinar-killing-at-least-13-people-and-wounding-over-50-more.md)
 Suicide attack near provincial police chief&#39;s office kills at least 12 people and wounds 14 others.
 
+### [Five people die electrocuted at a water park in Akyazi, Turkey. ](/news/2017/06/23/five-people-die-electrocuted-at-a-water-park-in-akyaza-turkey.md)
+Three children, and two adults who tried to rescue them, die at a water park in north-west Turkey.
+
+### [A Belgian court condemns an United Arab Emirates princess and her seven daughters to a fine and a suspended sentence, for human trafficking and mistreatment of their servants at a Brussels luxury hotel in 2008. ](/news/2017/06/23/a-belgian-court-condemns-an-united-arab-emirates-princess-and-her-seven-daughters-to-a-fine-and-a-suspended-sentence-for-human-trafficking.md)
+A Belgian court has found a princess from Abu Dhabi and her seven daughters guilty of mistreating around 20 servants forced to work for them in a plush Brussels hotel.
+
 ### [ISRO's PSLV-C38 successfully launches Cartosat-2E and 30 other satellites from Satish Dhawan Space Centre First Launch Pad in Sriharikota, Andhra Pradesh. ](/news/2017/06/23/isro-s-pslv-c38-successfully-launches-cartosat-2e-and-30-other-satellites-from-satish-dhawan-space-centre-first-launch-pad-in-sriharikota-a.md)
 PSLV-C38 blasted off from the first launch pad at Satish Dhawan Space Centre in Sriharikota at 9.29am. It was PSLV&rsquo;s the 40th flight.
 
@@ -48,7 +54,7 @@ Senate Republican leaders released their bill to repeal the Affordable Care Act,
 ### [Bangsamoro Islamic Freedom Fighters rebels storm a school in Pigcawayan, North Cotabato, Philippines,  and take civilians hostage. ](/news/2017/06/21/bangsamoro-islamic-freedom-fighters-rebels-storm-a-school-in-pigcawayan-north-cotabato-philippines-and-take-civilians-hostage.md)
 Pro-Islamic State militants have stormed a town and occupied a school in the southern Philippines.
 
-### [ISIL militants reportedly blow up the Great Mosque of al-Nuri in Mosul, where Abu Bakr al-Baghdadi famously proclaimed the creation of a caliphate in 2014. ISIL blames a U.S. airstrike as a cover up. ](/news/2017/06/21/isil-militants-reportedly-blow-up-the-great-mosque-of-al-nuri-in-mosul-where-abu-bakr-al-baghdadi-famously-proclaimed-the-creation-of-a-cal.md)
+### [ISIL militants reportedly blow up the Great Mosque of al-Nuri in Mosul, where Abu Bakr al-Baghdadi famously proclaimed the creation of a caliphate in 2014. ISIL blames a U.S. airstrike. ](/news/2017/06/21/isil-militants-reportedly-blow-up-the-great-mosque-of-al-nuri-in-mosul-where-abu-bakr-al-baghdadi-famously-proclaimed-the-creation-of-a-cal.md)
 The al-Nuri Mosque was where the leader of IS proclaimed its so-called &quot;caliphate&quot; in 2014.
 
 ### [More than 50,000 people practice yoga in Lucknow, India, to celebrate International Yoga Day. ](/news/2017/06/21/more-than-50-000-people-practice-yoga-in-lucknow-india-to-celebrate-international-yoga-day.md)
