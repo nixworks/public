@@ -1,6 +1,6 @@
 ### [2017-06-21](/news/2017/06/21/index.md)
 
-# ISIL militants reportedly blow up the Great Mosque of al-Nuri in Mosul, where Abu Bakr al-Baghdadi famously proclaimed the creation of a caliphate in 2014. ISIL blames a U.S. airstrike as a cover up. 
+# ISIL militants reportedly blow up the Great Mosque of al-Nuri in Mosul, where Abu Bakr al-Baghdadi famously proclaimed the creation of a caliphate in 2014. ISIL blames a U.S. airstrike. 
 
 The al-Nuri Mosque was where the leader of IS proclaimed its so-called &quot;caliphate&quot; in 2014.
 

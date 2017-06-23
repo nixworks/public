@@ -3,7 +3,7 @@
 ### [Bangsamoro Islamic Freedom Fighters rebels storm a school in Pigcawayan, North Cotabato, Philippines,  and take civilians hostage. ](/news/2017/06/21/bangsamoro-islamic-freedom-fighters-rebels-storm-a-school-in-pigcawayan-north-cotabato-philippines-and-take-civilians-hostage.md)
 Pro-Islamic State militants have stormed a town and occupied a school in the southern Philippines.
 
-### [ISIL militants reportedly blow up the Great Mosque of al-Nuri in Mosul, where Abu Bakr al-Baghdadi famously proclaimed the creation of a caliphate in 2014. ISIL blames a U.S. airstrike as a cover up. ](/news/2017/06/21/isil-militants-reportedly-blow-up-the-great-mosque-of-al-nuri-in-mosul-where-abu-bakr-al-baghdadi-famously-proclaimed-the-creation-of-a-cal.md)
+### [ISIL militants reportedly blow up the Great Mosque of al-Nuri in Mosul, where Abu Bakr al-Baghdadi famously proclaimed the creation of a caliphate in 2014. ISIL blames a U.S. airstrike. ](/news/2017/06/21/isil-militants-reportedly-blow-up-the-great-mosque-of-al-nuri-in-mosul-where-abu-bakr-al-baghdadi-famously-proclaimed-the-creation-of-a-cal.md)
 The al-Nuri Mosque was where the leader of IS proclaimed its so-called &quot;caliphate&quot; in 2014.
 
 ### [More than 50,000 people practice yoga in Lucknow, India, to celebrate International Yoga Day. ](/news/2017/06/21/more-than-50-000-people-practice-yoga-in-lucknow-india-to-celebrate-international-yoga-day.md)
