@@ -18,8 +18,14 @@ Virginia man traveled over past several months to China, federal prosecutors say
 ### [UK Prime Minister Theresa May announces that citizens of the European Union living in the United Kingdom will be able to acquire a "UK settled status" after the UK leaves the EU. ](/news/2017/06/22/uk-prime-minister-theresa-may-announces-that-citizens-of-the-european-union-living-in-the-united-kingdom-will-be-able-to-acquire-a-uk-settl.md)
 They will be treated as UK citizens for healthcare, education benefits and pensions, says the UK PM.
 
+### [A judge in Michigan halts the possible deportation of over 100 Chaldean Iraqi Christians. ](/news/2017/06/22/a-judge-in-michigan-halts-the-possible-deportation-of-over-100-chaldean-iraqi-christians.md)
+_Context: Chaldean, Immigration to the United States, Iraqi Christian, Michigan_
+
 ### [U.S. President Donald Trump clarifies that he did not record any private conversations with former FBI Director James Comey. ](/news/2017/06/22/u-s-president-donald-trump-clarifies-that-he-did-not-record-any-private-conversations-with-former-fbi-director-james-comey.md)
 President Donald Trump says he doesn&apos;t have any recordings of his private conversations with fired FBI Director James Comey.
+
+### [The U.S. Senate releases its version of the American Health Care Act of 2017. ](/news/2017/06/22/the-u-s-senate-releases-its-version-of-the-american-health-care-act-of-2017.md)
+Senate Republican leaders released their bill to repeal the Affordable Care Act, even as enough senators to block it declared their opposition.
 
 ## [Previous Day...](/news/2017/06/21/index.md)
 
