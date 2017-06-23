@@ -4,7 +4,7 @@
 Sky News Australia has the top stories in news online from Australia and the rest of the World.
 
 ### [China announces that 3 residents of Dandong city in Liaoning province were shot dead and one injured in  a China-North Korea border incident last week. ](/news/2010/06/9/china-announces-that-3-residents-of-dandong-city-in-liaoning-province-were-shot-dead-and-one-injured-in-a-china-north-korea-border-incident.md)
-_Context: China, Dandong, Liaoning province, North Korea_
+_Context: Chinese, Dandong, Liaoning province, North Korea_
 
 ### [At least 12 people are killed and at least 22 others are wounded during fighting and a roadside blast in Mogadishu. ](/news/2010/06/9/at-least-12-people-are-killed-and-at-least-22-others-are-wounded-during-fighting-and-a-roadside-blast-in-mogadishu.md)
 _Context: Mogadishu_

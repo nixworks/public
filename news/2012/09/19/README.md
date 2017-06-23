@@ -16,7 +16,7 @@ _Context: Czech_
 _Context: Japanese government, Yoshihiko Noda_
 
 ### [Senkaku Islands dispute:A man turns himself in to police after throwing smoke bombs into the premises of the Chinese Consulate General in Fukuoka, Japan. ](/news/2012/09/19/senkaku-islands-dispute-pa-man-turns-himself-in-to-police-after-throwing-smoke-bombs-into-the-premises-of-the-chinese-consulate-general-in-f.md)
-_Context: China, Fukuoka, Japan, Senkaku Islands dispute, police_
+_Context: Chinese, Fukuoka, Japan, Senkaku Islands dispute, police_
 
 ### [The US Justice Department's inspector general finds that the agency's Operation Fast and Furious created a "significant danger to public safety". The investigation also finds that Atty. Gen. Eric H. Holder Jr. had no prior knowledge of the operation. ](/news/2012/09/19/the-us-justice-department-s-inspector-general-finds-that-the-agency-s-operation-fast-and-furious-created-a-significant-danger-to-public-saf.md)
 WASHINGTON -- Fourteen federal law enforcement officials -- from field agents in Arizona to top managers in the Bureau of Alcohol, Tobacco, Firearms and Explosives and the Justice Department in...

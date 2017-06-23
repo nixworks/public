@@ -7,7 +7,7 @@ _Context: Comet 17P/Holmes_
 _Context: Bank of America_
 
 ### [ A storm in the Gulf of Mexico kills 18 Mexican oil workers fleeing an oil rig, with Navy rescue teams trying to reach survivors. ](/news/2007/10/24/a-storm-in-the-gulf-of-mexico-kills-18-mexican-oil-workers-fleeing-an-oil-rig-with-navy-rescue-teams-trying-to-reach-survivors.md)
-_Context: Gulf of Mexico, Mexican, Mexican Navy, PEMEX, offshore oil platform_
+_Context: Gulf of Mexico, Mexican Navy, Mexico, PEMEX, offshore oil platform_
 
 ### [ Moderating winds improve the outlook in the fight against the California wildfires of October 2007. ](/news/2007/10/24/moderating-winds-improve-the-outlook-in-the-fight-against-the-california-wildfires-of-october-2007.md)
 _Context: California wildfires_
@@ -22,7 +22,7 @@ _Context: Common Travel Area, Republic of Ireland, United Kingdom_
 Turkish warplanes attacked a village in northern Iraq on Wednesday, an Iraqi Kurdish security official said, but Turkey said it wanted to hold back from a major incursion to give diplomacy a chance.
 
 ### [ China launches its first lunar orbiter, Chang'e 1, on an exploration mission to the moon. ](/news/2007/10/24/china-launches-its-first-lunar-orbiter-chang-e-1-on-an-exploration-mission-to-the-moon.md)
-_Context: Chang'e 1, China_
+_Context: Chang'e 1, Chinese_
 
 ### [ The Pakistan Peoples Party claims that its leader, former Prime Minister of Pakistan Benazir Bhutto, has been forbidden to leave the country. ](/news/2007/10/24/the-pakistan-peoples-party-claims-that-its-leader-former-prime-minister-of-pakistan-benazir-bhutto-has-been-forbidden-to-leave-the-countr.md)
 _Context: Benazir Bhutto, Pakistan Peoples Party, Prime Minister_

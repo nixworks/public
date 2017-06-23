@@ -1,10 +1,10 @@
 ## [2007-08-14](/news/2007/08/14/index.md)
 
 ### [ A bridge under construction completely collapses in Fenghuang County, Hunan Province, China, killing at least 47 people. 21 workers are injured, 13 are still missing.](/news/2007/08/14/a-bridge-under-construction-completely-collapses-in-fenghuang-county-hunan-province-china-killing-at-least-47-people-21-workers-are-inj.md)
-_Context: 47, China, Fenghuang, Hunan, bridge_
+_Context: 47, Chinese, Fenghuang, Hunan, bridge_
 
 ### [ A fire breaks out at the Shanghai World Financial Center in China. ](/news/2007/08/14/a-fire-breaks-out-at-the-shanghai-world-financial-center-in-china.md)
-_Context: China, Shanghai World Financial Center, fire_
+_Context: Chinese, Shanghai World Financial Center, fire_
 
 ### [ The Italian coast guard finds the dead bodies of 14 illegal immigrants near the shores of the Lampedusa island. ](/news/2007/08/14/the-italian-coast-guard-finds-the-dead-bodies-of-14-illegal-immigrants-near-the-shores-of-the-lampedusa-island.md)
 _Context: Italy, Lampedusa, coast guard, illegal immigrant_
@@ -19,7 +19,7 @@ _Context: Afghanistan, Gardez, Poland, Taliban, War in Afghanistan (2001-present
 _Context: Central Bank of Nigeria, Nigeria, convertible, naira, redenomination_
 
 ### [ A tropical storm warning is issued for parts of Texas and Mexico following the formation of a tropical depression in the Gulf of Mexico. ](/news/2007/08/14/a-tropical-storm-warning-is-issued-for-parts-of-texas-and-mexico-following-the-formation-of-a-tropical-depression-in-the-gulf-of-mexico.md)
-_Context: Gulf of Mexico, Mexican, Texas, tropical depression, tropical storm_
+_Context: Gulf of Mexico, Mexico, Texas, tropical depression, tropical storm_
 
 ### [ A Bangladeshi court sentences 15 members of the Opposition Bangladesh Nationalist Party to seven years in jail for extortion and three years for manipulating elections. ](/news/2007/08/14/a-bangladeshi-court-sentences-15-members-of-the-opposition-bangladesh-nationalist-party-to-seven-years-in-jail-for-extortion-and-three-year.md)
 _Context: Bangladesh, Bangladesh Nationalist Party, extortion_

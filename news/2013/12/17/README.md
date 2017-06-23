@@ -37,7 +37,7 @@ India orders reprisals against the US, including the removal of security barrier
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [A report by the American nonprofit investigative news organization The Center for Public Integrity details that the U. S. Federal Election Commission was hacked by China during the  October 2013 federal government shutdown. ](/news/2013/12/17/a-report-by-the-american-nonprofit-investigative-news-organization-the-center-for-public-integrity-details-that-the-u-s-federal-election-c.md)
-_Context:  October 2013 federal government shutdown, China, Federal Election Commission, The Center for Public Integrity_
+_Context:  October 2013 federal government shutdown, Chinese, Federal Election Commission, The Center for Public Integrity_
 
 ### [U.S. Secretary of State John Kerry intends to give the Philippines $40 million in order to boost its maritime security regarding territorial disputes with China. ](/news/2013/12/17/u-s-secretary-of-state-john-kerry-intends-to-give-the-philippines-40-million-in-order-to-boost-its-maritime-security-regarding-territorial.md)
 Americans officials want to rotate more military forces through the country, concerned about mounting pressure from China on its neighbors.

@@ -37,7 +37,7 @@ _Context: India, Madhya Pradesh, Shakuntala Verma, child marriage_
 Get the latest health&nbsp;news, diet &amp; fitness information, medical research, health care trends and health issues that affect you and your family on ABCNews.com
 
 ### [ Javier Zanetti, captain of the Inter Milan football club, says the team could accept the invitation to a game to play against Mexico's Zapatistarebels. ](/news/2005/05/11/javier-zanetti-captain-of-the-inter-milan-football-club-says-the-team-could-accept-the-invitation-to-a-game-to-play-against-mexico-s-zapa.md)
-_Context: Inter Milan, Javier Zanetti, Mexican, Zapatista, soccer_
+_Context: Inter Milan, Javier Zanetti, Mexico, Zapatista, soccer_
 
 ### [ The presidents of Nigeria and Cameroon have not made progress in talks on the disputed Bakassi peninsula. They agree to negotiate a new date for the pullout of Nigerian troops. ](/news/2005/05/11/the-presidents-of-nigeria-and-cameroon-have-not-made-progress-in-talks-on-the-disputed-bakassi-peninsula-they-agree-to-negotiate-a-new-dat.md)
 _Context: Bakassi, Cameroon, Nigeria_

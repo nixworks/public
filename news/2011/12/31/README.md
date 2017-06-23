@@ -37,10 +37,10 @@ Authorities say a minor earthquake hit in northeast Ohio.
 _Context: Hollywood_
 
 ### [The President of the United States Barack Obama signs a law providing for new sanctions against Iran. ](/news/2011/12/31/the-president-of-the-united-states-barack-obama-signs-a-law-providing-for-new-sanctions-against-iran.md)
-_Context: Barack Obama, Iran, U.S. President, sanctions_
+_Context: Barack Obama, Iran, United States President, sanctions_
 
 ### [United States President Barack Obama signs the National Defense Authorization Act into law allowing the indefinite imprisonment of any United States citizen under suspect of terrorism without need of trial. ](/news/2011/12/31/united-states-president-barack-obama-signs-the-national-defense-authorization-act-into-law-allowing-the-indefinite-imprisonment-of-any-unite.md)
-_Context: Barack Obama, National Defense Authorization Act, U.S. President, United States citizen, terrorism_
+_Context: Barack Obama, National Defense Authorization Act, United States President, United States citizen, terrorism_
 
 ### [Kim Jong-un is named as the Supreme Commander of North Korea's armed forces following the death of his father Kim Jong-Il. ](/news/2011/12/31/kim-jong-un-is-named-as-the-supreme-commander-of-north-korea-s-armed-forces-following-the-death-of-his-father-kim-jong-il.md)
 _Context: Kim Jong-il, Kim Jong-un, North Korea_

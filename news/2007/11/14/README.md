@@ -19,7 +19,7 @@ _Context: 2007 Antofagasta earthquake, Calama, Chile, magnitude_
 _Context: Accra, Ghana, John Kufuor, President of Ghana, car accident_
 
 ### [ Hossein Mousavian, a former Iranian nuclear negotiator, is charged with espionage by Iran's intelligence ministry. He allegedly gave classified information to the British embassy. ](/news/2007/11/14/hossein-mousavian-a-former-iranian-nuclear-negotiator-is-charged-with-espionage-by-iran-s-intelligence-ministry-he-allegedly-gave-classi.md)
-_Context: Hossein Mousavian, Iran, United Kingdom, embassies, espionage, intelligence, negotiation, nuclear power, state secrets_
+_Context: Hossein Mousavian, Iran, United Kingdom, classified information, embassies, espionage, intelligence, negotiation, nuclear power_
 
 ### [ Iraqi insurgency: A roadside bomb kills two civilians near Baghdad's Green Zone. ](/news/2007/11/14/iraqi-insurgency-a-roadside-bomb-kills-two-civilians-near-baghdad-s-green-zone.md)
 _Context: Baghdad, Green Zone, Iraqi insurgency, civilian, roadside bomb_

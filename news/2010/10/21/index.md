@@ -16,7 +16,7 @@ _Context: petrol station, recent strikes and demonstrations_
 Toyota said Thursday it is recalling 1.53 million Lexus, Avalon and other models, mostly in the U.S. and Japan, for brake fluid and fuel pump problems.
 
 ### [A powerful 6.9 magnitude occurs off the coast of Baja California Sur in Mexico. ](/news/2010/10/21/a-powerful-6-9-magnitude-occurs-off-the-coast-of-baja-california-sur-in-mexico.md)
-_Context: Baja California Sur, Mexican_
+_Context: Baja California Sur, Mexico_
 
 ### [At least 50 people die as an outbreak of an as-of-yet unidentified disease occurs in Haiti. ](/news/2010/10/21/at-least-50-people-die-as-an-outbreak-of-an-as-of-yet-unidentified-disease-occurs-in-haiti.md)
 A suspected outbreak of cholera has killed at least 135 people and infected 1,500 others in central Haiti, health officials say.
@@ -28,7 +28,7 @@ There should be a complete naval and air blockade of Somalia, the African Union 
 Guillermo Farinas, the Cuban dissident who held a 135-day hunger strike earlier this year, has been awarded the European Parliament&#039;s Sakharov human rights prize.
 
 ### [China condemns a United Nations report that says Chinese bullets were used in attacks on international peacekeeping forces in the Darfur region of Sudan. ](/news/2010/10/21/china-condemns-a-united-nations-report-that-says-chinese-bullets-were-used-in-attacks-on-international-peacekeeping-forces-in-the-darfur-reg.md)
-_Context: African Union - United Nations Hybrid Operation in Darfur, China, Darfur, Sudan, United Nations_
+_Context: African Union - United Nations Hybrid Operation in Darfur, Chinese, Darfur, Sudan, United Nations_
 
 ### [President of Venezuela Hugo Chavez finishes a two-day visit to Iran, signing agreements on oil, energy and commerce. ](/news/2010/10/21/president-of-venezuela-hugo-cha-vez-finishes-a-two-day-visit-to-iran-signing-agreements-on-oil-energy-and-commerce.md)
 _Context: Hugo Chavez, Iran, President_
@@ -55,7 +55,7 @@ _Context: Myanmar, Republic of the Union of Myanmar, Union of Myanmar, the natio
 Thousands of people demonstrated in the Argentine capital Buenos Aires in protest at the murder of a left-wing activist during a labour dispute.
 
 ### [The Brazil hydroelectric plant in Foz do Iguacu is second largest hydroelectric plant in world after the Three Gorges in China. ](/news/2010/10/21/the-brazil-hydroelectric-plant-in-foz-do-iguacu-is-second-largest-hydroelectric-plant-in-world-after-the-three-gorges-in-china.md)
-_Context: Brazil, China, Three Gorges, hydroelectric_
+_Context: Brazil, Chinese, Three Gorges, hydroelectric_
 
 ### [Microsoft Research and Wikipedia have joined forces to launch a beta version of a new multilingual content creation tool for Wikipedia named WikiBhasha. ](/news/2010/10/21/microsoft-research-and-wikipedia-have-joined-forces-to-launch-a-beta-version-of-a-new-multilingual-content-creation-tool-for-wikipedia-named.md)
 Microsoft Research and Wikipedia have joined forces to launch a beta version of a new multilingual content creation tool for Wikipedia.

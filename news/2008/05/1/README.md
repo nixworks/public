@@ -13,7 +13,7 @@ U.S. President George W. Bush on Thursday said a vote in Myanmar this month woul
 _Context: Treasury securities, U.S. Federal Reserve, US$, United States, auction, housing crisis_
 
 ### [ The President of the United States George W. Bush calls on the United States Congress to approve a $US700 million food aid package to help relieve the 2007-2008 world food price crisis. ](/news/2008/05/1/the-president-of-the-united-states-george-w-bush-calls-on-the-united-states-congress-to-approve-a-us700-million-food-aid-package-to-help.md)
-_Context: 2007-2008 world food price crisis, George W. Bush, U.S. President, US$, United States Congress, food aid_
+_Context: 2007-2008 world food price crisis, George W. Bush, US$, United States Congress, United States President, food aid_
 
 ### [ News anchor Barbara Walters admits to having affair with US Senator Edward Brooke. ](/news/2008/05/1/news-anchor-barbara-walters-admits-to-having-affair-with-us-senator-edward-brooke.md)
 _Context: Barbara Walters, Edward Brooke_

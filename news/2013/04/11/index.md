@@ -1,7 +1,7 @@
 ## [2013-04-11](/news/2013/04/11/index.md)
 
 ### [Mexican Drug War:At least 14 people are killed in a series of clashes between alleged drug traffickers and police in the Mexican state of Michoacan. The government states that a high-profile drug lord was killed in the battle. ](/news/2013/04/11/mexican-drug-war-pat-least-14-people-are-killed-in-a-series-of-clashes-between-alleged-drug-traffickers-and-police-in-the-mexican-state-of-m.md)
-_Context: Mexican, Mexican Drug War, Michoacan, anti-drug plan, drug kingpin, government, police_
+_Context: Mexican Drug War, Mexico, Michoacan, anti-drug plan, drug kingpin, government, police_
 
 ### [South Thailand insurgency:Two soldiers are killed and six security officers are wounded as insurgents mount dozens of coordinated bombing, shooting and arson attacks in the Pattani region of Thailand. ](/news/2013/04/11/south-thailand-insurgency-ptwo-soldiers-are-killed-and-six-security-officers-are-wounded-as-insurgents-mount-dozens-of-coordinated-bombing.md)
 _Context: Pattani region, South Thailand insurgency, Thailand, arson, bomb, shooting spree_

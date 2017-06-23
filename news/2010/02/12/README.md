@@ -1,7 +1,7 @@
 ## [2010-02-12](/news/2010/02/12/index.md)
 
 ### [Secretary-General Ban Ki-moon has repeatedly called on the DPRK to re-engage in the Six-Party Talks that also involve the Republic of Korea, Japan, China, Russia and the United States. ](/news/2010/02/12/secretary-general-ban-ki-moon-has-repeatedly-called-on-the-dprk-to-re-engage-in-the-six-party-talks-that-also-involve-the-republic-of-korea.md)
-_Context: Ban Ki-moon, China, DPRK, Japan, Russia, South Korea, United States, six-party talks_
+_Context: Ban Ki-moon, Chinese, DPRK, Japan, Russia, South Korea, United States, six-party talks_
 
 ### [Police in Mtwapa arrest five men accused of being homosexuals, two of whom had wedding rings and were attempting to marry in a first for Kenya. ](/news/2010/02/12/police-in-mtwapa-arrest-five-men-accused-of-being-homosexuals-two-of-whom-had-wedding-rings-and-were-attempting-to-marry-in-a-first-for-ken.md)
 _Context: Kenya, Mtwapa, homosexuality_
@@ -16,7 +16,7 @@ _Context: Ingushetia, Russia_
 _Context: Africa Cup of Nations, Court of Arbitration for Sport, Togo, Togo national football team attack_
 
 ### [Mexican President Felipe Caldern's visit to a community centre in Ciudad Jurez where 13 teenagers and two adults were shot dead at a school party on 31 January is disrupted by murders, riot police and dozens of protesters. ](/news/2010/02/12/mexican-president-felipe-calderon-s-visit-to-a-community-centre-in-ciudad-juarez-where-13-teenagers-and-two-adults-were-shot-dead-at-a-schoo.md)
-_Context: Felipe Caldern, Juarez, Mexican, President_
+_Context: Felipe Caldern, Juarez, Mexico, President_
 
 ### [A shooting at the University of Alabama in Huntsville, United States, leaves at least three persons dead. ](/news/2010/02/12/a-shooting-at-the-university-of-alabama-in-huntsville-united-states-leaves-at-least-three-persons-dead.md)
 _Context: United States, University of Alabama in Huntsville, shooting_

@@ -7,7 +7,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 Investigators are tracing the money trail back to Pakistan, where one Briton who was arrested there has ties to Al Qaeda, officials believe, as British newspaper reports pin attack dates to next week.
 
 ### [ Typhoon Saomai kills 111 people and leaves 4 missing in eastern China, according to the Chinese government. ](/news/2006/08/11/typhoon-saomai-kills-111-people-and-leaves-4-missing-in-eastern-china-according-to-the-chinese-government.md)
-_Context: China, Typhoon Saomai, government_
+_Context: Chinese, Typhoon Saomai, government_
 
 ## [Previous Day...](/news/2006/08/10/index.md)
 

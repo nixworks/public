@@ -46,7 +46,7 @@ Naples mayors reject a government offer to indefinitely freeze the opening of a 
 _Context: President of Ecuador, Rafael Correa, protested against being stripped of their bonuses_
 
 ### [China and Bangladesh want green technology free of cost. Hasan Mahmud held a meeting with global warming negotiators in the UNFCCC climate talks and chairman of National Development and Reform Commission of China Xie Zhenhua. ](/news/2010/10/24/china-and-bangladesh-want-green-technology-free-of-cost-hasan-mahmud-held-a-meeting-with-global-warming-negotiators-in-the-unfccc-climate-t.md)
-_Context: Bangladesh, China, Hasan Mahmud, National Development and Reform Commission, UNFCCC, Xie Zhenhua, green technology, pro- and anti_
+_Context: Bangladesh, Chinese, Hasan Mahmud, National Development and Reform Commission, UNFCCC, Xie Zhenhua, green technology, pro- and anti_
 
 ### [At least 21 people died and a dozen more seriously injured in a bus accident in Nwoya district, northwestern Uganda. ](/news/2010/10/24/at-least-21-people-died-and-a-dozen-more-seriously-injured-in-a-bus-accident-in-nwoya-district-northwestern-uganda.md)
 _Context: Nwoya, Uganda_
@@ -70,7 +70,7 @@ _Context: Deepwater Horizon oil spill, government_
 One of three people killed in a helicopter crash in County Down was a personal friend of the Prince of Wales, Clarence House confirms.
 
 ### [Chinese Vice Premier Wang Qi-shan has held talks with US Treasury, Secretary Timothy Geithner at Qingdao Airport, east China's Shandong province. They exchanged views on Sino-US economic relations, and preparations for the upcoming G20 Summit. ](/news/2010/10/24/chinese-vice-premier-wang-qi-shan-has-held-talks-with-us-treasury-secretary-timothy-geithner-at-qingdao-airport-east-china-s-shandong-prov.md)
-_Context: China, G20, Qingdao Airport, Shandong, Sino-American relations, Timothy Geithner, Wang Qi-shan_
+_Context: Chinese, G20, Qingdao Airport, Shandong, Sino-American relations, Timothy Geithner, Wang Qi-shan_
 
 ### [Darfur's rebel Justice and Equality Movement says it is ready to start discussions with international mediators in Qatar, but was not yet prepared to re-join full peace negotiations, saying Sudan's government had broken a ceasefire ](/news/2010/10/24/darfur-s-rebel-justice-and-equality-movement-says-it-is-ready-to-start-discussions-with-international-mediators-in-qatar-but-was-not-yet-pr.md)
 _Context: Darfur, Justice and Equality Movement, Qatar, Sudan_
@@ -101,7 +101,7 @@ _Context: 2008-2009 Gaza War, Israel_
 Actor Randy Quaid and his wife Evi seek asylum in Canada, claiming they are being persecuted in the US and their lives are danger.
 
 ### [Mexican gunmen burst into a drug rehabilitation centre in eastern Tijuana, killing thirteen people. ](/news/2010/10/24/mexican-gunmen-burst-into-a-drug-rehabilitation-centre-in-eastern-tijuana-killing-thirteen-people.md)
-_Context: Mexican, Tijuana, drug rehabilitation_
+_Context: Mexico, Tijuana, drug rehabilitation_
 
 ### [David Cameron bans Sayeeda Warsi, Baroness Warsi, Britain's first female Muslim cabinet minister, from attending Global Peace and Unity, Europe's largest multicultural gathering. Nick Clegg takes the side of Baroness Warsi. ](/news/2010/10/24/david-cameron-bans-sayeeda-warsi-baroness-warsi-britain-s-first-female-muslim-cabinet-minister-from-attending-global-peace-and-unity-eur.md)
 _Context: David Cameron, Global Peace and Unity, Nick Clegg, Sayeeda Warsi, Baroness Warsi_

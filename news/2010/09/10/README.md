@@ -43,7 +43,7 @@ Iran delays the release of Sarah Shourd, one of three US hikers arrested last ye
 President Obama said Friday that he had urged Israeli Prime Minister Benjamin Netanyahu to extend a partial freeze on Israeli settlement construction in the West Bank because peace talks with the...
 
 ### [Mexico:At least 71 prisoners escape from jail in the Mexican city of Reynosa,  Tamaulipas, across the U.S. border from McAllen, Texas. ](/news/2010/09/10/mexico-pat-least-71-prisoners-escape-from-jail-in-the-mexican-city-of-reynosa-tamaulipas-across-the-u-s-border-from-mcallen-texas.md)
-_Context: McAllen, Mexican, Reynosa, Tamaulipas, Texas, U.S. border_
+_Context: McAllen, Mexico, Reynosa, Tamaulipas, Texas, U.S. border_
 
 ### [Mario Viegas Carrascalao resigns as the Deputy Prime Minister of East Timor leaving the Prime Minister Xanana Gusmao without a majority in the Parliament.  ](/news/2010/09/10/ma-rio-viegas-carrascalapso-resigns-as-the-deputy-prime-minister-of-east-timor-leaving-the-prime-minister-xanana-gusmapso-without-a-majority-i.md)
 _Context: Deputy Prime Minister, East Timor, Mario Viegas Carrascalao, Parliament, Prime Minister of East Timor, Xanana Gusmao_

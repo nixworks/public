@@ -10,7 +10,7 @@ _Context: Baghdad, Iraq, Iraqi Civil War (2014-present), Iraqi police, suicide b
 Nissan Motor will purchase a 34 per cent stake in Mitsubishi Motors, as Japan’s second-largest automaker comes to the aid of its minicar partner rocked by a fuel-economy testing scandal. Mitsubishi Motors will sell about 237.4 billion yen ($2.2 billion) in shares to Nissan, according to a statement. The purchase is poised to vault Nissan past Mitsubishi group companies to become the single-largest shareholder of one of Japan’s smallest carmakers.
 
 ### [ The Bank of England issues an unusually sharp warning about the possible economic consequences of an "Out" vote in the upcoming Brexit referendum. ](/news/2016/05/12/the-bank-of-england-issues-an-unusually-sharp-warning-about-the-possible-economic-consequences-of-an-out-vote-in-the-upcoming-brexit-refe.md)
-_Context: Bank of England, Brexit_
+_Context: Bank of England, the UK leaves the EU_
 
 ### [The Government of Malaysia confirms that two more pieces of debris found in South Africa and Rodrigues Island off the coast of Mauritius are "almost certainly" from Malaysia Airlines 370  that disappeared two years ago. ](/news/2016/05/12/the-government-of-malaysia-confirms-that-two-more-pieces-of-debris-found-in-south-africa-and-rodrigues-island-off-the-coast-of-mauritius-are.md)
 _Context: Government of Malaysia, Malaysia Airlines Flight 370, Mauritius, Rodrigues Island, South Africa_

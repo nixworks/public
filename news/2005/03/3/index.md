@@ -40,7 +40,7 @@ _Context: Azerbaijan, Elmar Huseynov, Federal Bureau of Investigation_
 _Context:  subsidies, World Trade Organization, cotton_
 
 ### [ Mexico allocates equivalent to US$ 2.7 million to compensate relatives of more than 300 women killed in Ciudad Jurez since 1993. ](/news/2005/03/3/mexico-allocates-equivalent-to-us-2-7-million-to-compensate-relatives-of-more-than-300-women-killed-in-ciudad-juarez-since-1993.md)
-_Context: Juarez, Mexican_
+_Context: Juarez, Mexico_
 
 ### [ In Angers, France, 66 people go into trial for sexual child abuse and child prostitution of 45 victims of various ages. ](/news/2005/03/3/in-angers-france-66-people-go-into-trial-for-sexual-child-abuse-and-child-prostitution-of-45-victims-of-various-ages.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

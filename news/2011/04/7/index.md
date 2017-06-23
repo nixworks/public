@@ -49,7 +49,7 @@ Hopes are fading for scores of migrants missing after a boat capsized off the It
 An aftershock in Japan has killed two people, including a 63-year-old woman whose respirator failed when the power was knocked out.
 
 ### [A 6.5 magnitude earthquake strikes in the Mexican state of Veracruz. ](/news/2011/04/7/a-6-5-magnitude-earthquake-strikes-in-the-mexican-state-of-veracruz.md)
-_Context: Mexican, Veracruz_
+_Context: Mexico, Veracruz_
 
 ### [Injections of nitrogen into one of the reactors at Japan's stricken Fukushima Daiichi nuclear plant begins in an effort to stop further hydrogen blasts. ](/news/2011/04/7/injections-of-nitrogen-into-one-of-the-reactors-at-japan-s-stricken-fukushima-daiichi-nuclear-plant-begins-in-an-effort-to-stop-further-hydr.md)
 Workers in Japan start injecting nitrogen into one of the reactors at the crippled Fukushima Daiichi nuclear plant to prevent more hydrogen blasts.
@@ -70,7 +70,7 @@ ANOTHER Corrib Gas protester has released details of a conversation he had with 
 Group of elderly Kenyans who say they were tortured by British officers in the 1950s uprising take case to London court.
 
 ### [The Hawaii Intermediate Court of Appeals dismisses an appeal from a man wanting to see the President of the United States Barack Obama's birth certificate. ](/news/2011/04/7/the-hawaii-intermediate-court-of-appeals-dismisses-an-appeal-from-a-man-wanting-to-see-the-president-of-the-united-states-barack-obama-s-bir.md)
-_Context: Barack Obama, Barack Obama citizenship conspiracy theories, Hawaii Intermediate Court of Appeals, U.S. President, birth certificate_
+_Context: Barack Obama, Barack Obama citizenship conspiracy theories, Hawaii Intermediate Court of Appeals, United States President, birth certificate_
 
 ### [Former British Labour Party minister Elliot Morley pleads guilty to dishonestly claiming more than PS30,000 in parliamentary expenses. ](/news/2011/04/7/former-british-labour-party-minister-elliot-morley-pleads-guilty-to-dishonestly-claiming-more-than-aps30-000-in-parliamentary-expenses.md)
 _Context: Elliot Morley, Labour, MPs expenses_

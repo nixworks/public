@@ -31,7 +31,7 @@ _Context: People's Republic of China, Xinjiang_
 _Context: Al-Shabaab, Islam, Saleh Ali Saleh Nabhan, Somalia, United States_
 
 ### [ Gunmen kill 10 people at a drug rehabilitation clinic in Mexico. ](/news/2009/09/16/gunmen-kill-10-people-at-a-drug-rehabilitation-clinic-in-mexico.md)
-_Context: Mexican_
+_Context: Mexico_
 
 ### [ Kenya begins moving the first residents out of slums in the capital Nairobi, as part of a plan to clear all shanty towns over the next two to five years. ](/news/2009/09/16/kenya-begins-moving-the-first-residents-out-of-slums-in-the-capital-nairobi-as-part-of-a-plan-to-clear-all-shanty-towns-over-the-next-two.md)
 _Context: Kenya, Nairobi, hutment, slum_

@@ -28,7 +28,7 @@ At least one dead as protest over earlier death of demonstrator turns violent.
 At least 26 people are killed in a twin car bombing in Baghdad, officials say, amid speculation banks may be a new target.
 
 ### [A Bell 412 Mexican military helicopter crashes in Durango state in northern Mexico Saturday, killing all 11 people on board. ](/news/2010/06/20/a-bell-412-mexican-military-helicopter-crashes-in-durango-state-in-northern-mexico-saturday-killing-all-11-people-on-board.md)
-_Context: Bell 412, Durango, Mexican, Mexican military helicopter_
+_Context: Bell 412, Durango, Mexican military helicopter, Mexico_
 
 ### [A plane carrying several Australian mining executives including Ken Talbot disappears in either Cameroon or the Republic of the Congo.  ](/news/2010/06/20/a-plane-carrying-several-australian-mining-executives-including-ken-talbot-disappears-in-either-cameroon-or-the-republic-of-the-congo.md)
 A plane carrying several Australian mining executives goes missing on a flight between Cameroon and Congo.

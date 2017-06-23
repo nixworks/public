@@ -16,7 +16,7 @@ Some 1.6 million properties across Britain are now at risk of groundwater floodi
 A military transport plane carrying members of the Algerian armed forces and their relatives crashed into a mountain on Tuesday, killing 77 people, the worst air disaster in the North African country in a decade.
 
 ### [The first governmental meetings occur between the People's Republic of China (China) and the Republic of China (Taiwan) after a 65-year hiatus. ](/news/2014/02/11/the-first-governmental-meetings-occur-between-the-people-s-republic-of-china-china-and-the-republic-of-china-taiwan-after-a-65-year-hiat.md)
-_Context: China, Taiwan_
+_Context: Chinese, Taiwan_
 
 ### [Under pressure to extract natural gas reserves, talks occur over the Cyprus dispute. ](/news/2014/02/11/under-pressure-to-extract-natural-gas-reserves-talks-occur-over-the-cyprus-dispute.md)
 _Context: Cyprus dispute_

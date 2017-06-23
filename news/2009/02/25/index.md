@@ -4,7 +4,7 @@
 _Context: Darfur, Office for the Coordination of Humanitarian Affairs, United Nations, Zam Zam, refugee, refugee camp_
 
 ### [ United States President Barack Obama nominates former Washington Governor Gary Locke to serve as the next Secretary of Commerce. ](/news/2009/02/25/united-states-president-barack-obama-nominates-former-washington-governor-gary-locke-to-serve-as-the-next-secretary-of-commerce.md)
-_Context: Barack Obama, Gary Locke, Governor, U.S. President, United States, United States Secretary of Commerce, Washington_
+_Context: Barack Obama, Gary Locke, Governor, United States, United States President, United States Secretary of Commerce, Washington_
 
 ### [ An improvised explosive device kills three British Army soldiers in the Gerishk District of Afghanistan's Helmand Province. ](/news/2009/02/25/an-improvised-explosive-device-kills-three-british-army-soldiers-in-the-gerishk-district-of-afghanistan-s-helmand-province.md)
 _Context: Afghanistan, British Army, Gerishk District, Helmand Province, IED, United Kingdom_
@@ -34,7 +34,7 @@ _Context: India, Jammu and Kashmir, Kashmir, bus_
 _Context: Revolutionary United Front, Sierra Leone, Special Court for Sierra Leone, civil war, commander, crimes against humanity, war crime_
 
 ### [ Former Estonian Police Chief Herman Simm is jailed for 12.5 years for selling classified information on NATO to Russia. ](/news/2009/02/25/former-estonian-police-chief-herman-simm-is-jailed-for-12-5-years-for-selling-classified-information-on-nato-to-russia.md)
-_Context: Chief, Estonia, Herman Simm, NATO, Police, Russia, state secrets_
+_Context: Chief, Estonia, Herman Simm, NATO, Police, Russia, classified information_
 
 ### [ Serbia suspends 11 Belgrade corrections officers for aiding the escape of assassin Milorad Ulemek. ](/news/2009/02/25/serbia-suspends-11-belgrade-corrections-officers-for-aiding-the-escape-of-assassin-milorad-ulemek.md)
 _Context: Belgrade, Milorad Ulemek, Serbia, aiding, assassinated, officer_
@@ -49,7 +49,7 @@ _Context: Chinese human rights, People's Republic of China, United States, Unite
 _Context: Al-Shabaab, Somali Civil War, Somalia, radical Islamists, terrorism_
 
 ### [ The U.S. arrests 750 people in a national crackdown on Mexican drug cartels.  ](/news/2009/02/25/the-u-s-arrests-750-people-in-a-national-crackdown-on-mexican-drug-cartels.md)
-_Context: Mexican, United States, drug cartel_
+_Context: Mexico, United States, drug cartel_
 
 ### [ A Syrian arms dealer is jailed for 30 years for conspiring to sell weapons  to Colombia's Revolutionary Armed Forces. ](/news/2009/02/25/a-syrian-arms-dealer-is-jailed-for-30-years-for-conspiring-to-sell-weapons-to-colombia-s-revolutionary-armed-forces.md)
 _Context: Colombia, Revolutionary Armed Forces of Colombia, Syria, arms sales, conspiracy, weapon_

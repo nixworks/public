@@ -22,7 +22,7 @@ _Context: Central-African_
 FRANCE has officially banned women from wearing full-face veils in public places, with a controversial new law coming into effect today.
 
 ### [Mexican businessman Carlos Slim is again the richest man in the world according to the Forbes list of billionaires. ](/news/2011/04/11/mexican-businessman-carlos-slim-is-again-the-richest-man-in-the-world-according-to-the-forbes-list-of-billionaires.md)
-_Context: Carlos Slim, Mexican, list of the world's wealthiest people_
+_Context: Carlos Slim, Mexico, list of the world's wealthiest people_
 
 ### [Intel announces (former codename "Oak Trail") Atom processor will be in devices beginning in May, especially designed for netbook and tablet devices. ](/news/2011/04/11/intel-announces-former-codename-oak-trail-atom-processor-will-be-in-devices-beginning-in-may-especially-designed-for-netbook-and-tablet.md)
 _Context: Intel, former codename "Oak Trail") Atom processor, netbook, tablets_

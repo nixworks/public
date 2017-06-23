@@ -4,7 +4,7 @@
 Three rescue workers are dead and six others were injured during an attempt to reach six men trapped at Crandall Canyon Mine, officials said.
 
 ### [ The leaders of Russia, China and Iran use the forum of the Shanghai Cooperation Organisation to warn the United States not to become too heavily involved in Central Asia. ](/news/2007/08/16/the-leaders-of-russia-china-and-iran-use-the-forum-of-the-shanghai-cooperation-organisation-to-warn-the-united-states-not-to-become-too-he.md)
-_Context: Central Asia, China, Iran, Russia, Shanghai Cooperation Organisation, United States_
+_Context: Central Asia, Chinese, Iran, Russia, Shanghai Cooperation Organisation, United States_
 
 ### [ The British government is preparing to evacuate all Britons from Zimbabwe, about 22,000 people, due to increasing violence and shortage of food. ](/news/2007/08/16/the-british-government-is-preparing-to-evacuate-all-britons-from-zimbabwe-about-22-000-people-due-to-increasing-violence-and-shortage-of.md)
 _Context: British government, Zimbabwe_
@@ -40,7 +40,7 @@ _Context: Nawaz Sharif, Prime Minister, Supreme Court, election_
 U.S. forces launched an airborne assault on a desert compound south of Baghdad on Thursday, the first air strike in a major new offensive.
 
 ### [ The Prime Minister of Kyrgyzstan Almaz Atambayev and the President of the People's Republic of China Hu Jintao meet to discuss Kyrgyz participation in a Turkmenistan-China gas pipeline. ](/news/2007/08/16/the-prime-minister-of-kyrgyzstan-almaz-atambayev-and-the-president-of-the-people-s-republic-of-china-hu-jintao-meet-to-discuss-kyrgyz-parti.md)
-_Context: Almaz Atambayev, China, Chinese President, Hu Jintao, Kyrgyzstan, Prime Minister, Turkmenistan_
+_Context: Almaz Atambayev, Chinese, Chinese President, Hu Jintao, Kyrgyzstan, Prime Minister, Turkmenistan_
 
 ### [ Hugo Chavez, the President of Venezuela, announces plans to abolish term limits for the President by changing the Constitution. ](/news/2007/08/16/hugo-cha-vez-the-president-of-venezuela-announces-plans-to-abolish-term-limits-for-the-president-by-changing-the-constitution.md)
 _Context: Hugo Chavez, President, Venezuela, constitution, term limit_

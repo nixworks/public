@@ -13,7 +13,7 @@ _Context: Emile Lahoud, Lebanon, President of Lebanon, political_
 _Context: Copenhagen, Denmark, terrorist attack, triacetone triperoxide_
 
 ### [ An Israeli psychiatrist and reserve officer is charged with giving classified information to Iran, Russia and Hamas. ](/news/2007/11/23/an-israeli-psychiatrist-and-reserve-officer-is-charged-with-giving-classified-information-to-iran-russia-and-hamas.md)
-_Context: Hamas, Iran, Israel, Russia, officer, psychiatrist, reserve, state secrets_
+_Context: Hamas, Iran, Israel, Russia, classified information, officer, psychiatrist, reserve_
 
 ### [ The Senate of Nigeria declares the handover of the Bakassi peninsula to Cameroon was "illegal". ](/news/2007/11/23/the-senate-of-nigeria-declares-the-handover-of-the-bakassi-peninsula-to-cameroon-was-illegal.md)
 _Context: Bakassi, Cameroon, Nigeria, Senate, handover, peninsula_

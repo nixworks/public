@@ -13,7 +13,7 @@ _Context: Activision, First-person shooter, Modern Warfare 3, North America, Uni
 _Context: Action-adventure, The Elder Scrolls V: Skyrim_
 
 ### [Francisco Blake Mora, the Mexican Secretary of the Interior, dies in a plane crash on a way to a meeting with judicial officials. ](/news/2011/11/11/francisco-blake-mora-the-mexican-secretary-of-the-interior-dies-in-a-plane-crash-on-a-way-to-a-meeting-with-judicial-officials.md)
-_Context: Francisco Blake Mora, Mexican, Secretary of the Interior_
+_Context: Francisco Blake Mora, Mexico, Secretary of the Interior_
 
 ### [The Supreme Court of Papua New Guinea issues orders for the arrest of Deputy Prime Minister Belden Namah and Attorney General Allan Marat over contempt of court charges. ](/news/2011/11/11/the-supreme-court-of-papua-new-guinea-issues-orders-for-the-arrest-of-deputy-prime-minister-belden-namah-and-attorney-general-allan-marat-ov.md)
 _Context: Allan Marat, Belden Namah, Supreme Court of Papua New Guinea, contempt of court_

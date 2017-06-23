@@ -40,7 +40,7 @@ _Context: Lee Myung-bak, North Korea, South Korean President_
 31 people were convicted and 63 others, including the main accused Maulvi Umarji, were acquitted by a special court on February 22. 
 
 ### [Seventeen bodies are found in clandestine graves in Mexico's Guerrero state. ](/news/2011/03/1/seventeen-bodies-are-found-in-clandestine-graves-in-mexico-s-guerrero-state.md)
-_Context: Guerrero, Mexican_
+_Context: Guerrero, Mexico_
 
 ### [An internet campaign calls for protests demanding that Zimbabwean President Robert Mugabe step down, leading to an increased security presence. ](/news/2011/03/1/an-internet-campaign-calls-for-protests-demanding-that-zimbabwean-president-robert-mugabe-step-down-leading-to-an-increased-security-presen.md)
 _Context: Robert Mugabe, Zimbabwe_

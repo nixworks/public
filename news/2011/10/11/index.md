@@ -1,7 +1,7 @@
 ## [2011-10-11](/news/2011/10/11/index.md)
 
 ### [China follows Russian admonishment of the Syrian government while the opposition Syrian National Council gains support in Egypt and is recognized by Libya. ](/news/2011/10/11/china-follows-russian-admonishment-of-the-syrian-government-while-the-opposition-syrian-national-council-gains-support-in-egypt-and-is-recog.md)
-_Context: China, Egypt, Libya, Russia, Syrian, Syrian National Council_
+_Context: Chinese, Egypt, Libya, Russia, Syrian, Syrian National Council_
 
 ### [The EU imposes further sanctions on Belarus, Iran, and Syria, expresses support for Libya's National Transitional Council, and reiterates call for Syria's President Bashar al-Assad to step down. ](/news/2011/10/11/the-eu-imposes-further-sanctions-on-belarus-iran-and-syria-expresses-support-for-libya-s-national-transitional-council-and-reiterates-ca.md)
 _Context: Bashar al-Assad, Belarus, European Union, Iran, Libya, National Transitional Council, President, Syria_
@@ -16,7 +16,7 @@ _Context: Eurozone, Parliament of Slovakia_
 _Context: BlackBerry, Jaguar Financial Corp., Research in Motion_
 
 ### [Hurricane Jova crosses the western coast of Mexico northwest of the port of Manzanillo, Colima, at Category 2 strength. ](/news/2011/10/11/hurricane-jova-crosses-the-western-coast-of-mexico-northwest-of-the-port-of-manzanillo-colima-at-category-2-strength.md)
-_Context: Hurricane Jova, Manzanillo, Colima, Mexican_
+_Context: Hurricane Jova, Manzanillo, Colima, Mexico_
 
 ### [An oil spill from the ship Rena off the coast of Tauranga in New Zealand becomes the country's worst environmental disaster. ](/news/2011/10/11/an-oil-spill-from-the-ship-rena-off-the-coast-of-tauranga-in-new-zealand-becomes-the-country-s-worst-environmental-disaster.md)
 _Context: New Zealand, Tauranga, environmental disaster, oil spill_

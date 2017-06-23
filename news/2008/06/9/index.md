@@ -43,7 +43,7 @@ _Context: Spain, diesel fuel, strike, truck drivers_
 _Context: Gujjar, Rajasthan, reservations_
 
 ### [ The President of the United States George W. Bush commences the last visit to Europe of his presidency. ](/news/2008/06/9/the-president-of-the-united-states-george-w-bush-commences-the-last-visit-to-europe-of-his-presidency.md)
-_Context: Europe, George W. Bush, U.S. President_
+_Context: Europe, George W. Bush, United States President_
 
 ### [ The United States Secretary of Defense Robert Gates nominates Norton Schwartz to be the next Chief of Staff of the United States Air Force with Michael B. Donley nominated as the next United States Secretary of the Air Force. ](/news/2008/06/9/the-united-states-secretary-of-defense-robert-gates-nominates-norton-schwartz-to-be-the-next-chief-of-staff-of-the-united-states-air-force.md)
 _Context: Chief of Staff of the United States Air Force, Michael B. Donley, Norton Schwartz, Robert Gates, Secretary of Defense, Secretary of the Air Force_

@@ -43,13 +43,13 @@ The Pakistani schoolgirl activist shot in the head by the Taliban is discharged 
 _Context: 2012 Delhi gang rape case, Bangladesh, Nepal, Pakistan, Sri Lanka, sexual violence_
 
 ### [Journalists in China call for the resignation of the propaganda chief in Guangdong province over "excessive censorship" amid the closure of a liberal website. ](/news/2013/01/4/journalists-in-china-call-for-the-resignation-of-the-propaganda-chief-in-guangdong-province-over-excessive-censorship-amid-the-closure-of.md)
-_Context: Censorship in China, China, Guangdong province, liberal_
+_Context: Censorship in China, Chinese, Guangdong province, liberal_
 
 ### [The Venezuelan government announces that president Hugo Chavez is being treated for a "respiratory deficiency" after complications from a severe lung infection. ](/news/2013/01/4/the-venezuelan-government-announces-that-president-hugo-cha-vez-is-being-treated-for-a-respiratory-deficiency-after-complications-from-a-s.md)
 _Context: Hugo Chavez, Venezuela, lung infection_
 
 ### [The United States Congress officially declares President Barack Obama the winner of the 2012 presidential election. ](/news/2013/01/4/the-united-states-congress-officially-declares-president-barack-obama-the-winner-of-the-2012-presidential-election.md)
-_Context: Barack Obama, U.S. President, United States Congress, United States presidential election, 2012_
+_Context: Barack Obama, United States Congress, United States President, United States presidential election, 2012_
 
 ### [The leaders of Sudan and South Sudan, Omar al-Bashir and Salva Kiir Mayardit, respectively, will meet in Addis Ababa to convene for talks regarding escalating tensions is response to Sudan's recent seizure of Abyei. ](/news/2013/01/4/the-leaders-of-sudan-and-south-sudan-omar-al-bashir-and-salva-kiir-mayardit-respectively-will-meet-in-addis-ababa-to-convene-for-talks-re.md)
 The leaders of Sudan and South Sudan reaffirm their commitment to setting up a buffer zone on their shared border and resuming oil exports.

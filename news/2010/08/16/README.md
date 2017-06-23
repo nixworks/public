@@ -7,7 +7,7 @@ _Context: Armed Forces, Bagong Alyansang Makabayan, Oplan Bantay Laya, communist
 Two suspected militants and a soldier die in a gun battle in Indian-administered Kashmir, police say.
 
 ### [At least 2 people are injured after a grenade explosion outside a Televisa television station in Monterrey, Nuevo Leon, Mexico. ](/news/2010/08/16/at-least-2-people-are-injured-after-a-grenade-explosion-outside-a-televisa-television-station-in-monterrey-nuevo-lea3n-mexico.md)
-_Context: Mexican, Monterrey, Nuevo Leon, Televisa, grenade_
+_Context: Mexico, Monterrey, Nuevo Leon, Televisa, grenade_
 
 ### [The mayor of the Mexican town of Santiago, Nuevo Leon, Edelmiro Cavazos, is abducted. ](/news/2010/08/16/the-mayor-of-the-mexican-town-of-santiago-nuevo-lea3n-edelmiro-cavazos-is-abducted.md)
 The mayor of the northern Mexican city of Santiago has been abducted, police say.

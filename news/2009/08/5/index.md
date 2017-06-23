@@ -22,7 +22,7 @@ _Context: Baghdad, Bremer wall, Government of Iraq, Iraq_
 _Context: Khartoum, Nile, Sudan_
 
 ### [ Two United States journalists, Laura Ling and Euna Lee, who had been detained by North Korea, return home with former U.S. President Bill Clinton. ](/news/2009/08/5/two-united-states-journalists-laura-ling-and-euna-lee-who-had-been-detained-by-north-korea-return-home-with-former-u-s-president-bill-c.md)
-_Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, U.S. President, United States, detained_
+_Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, United States, United States President, detained_
 
 ### [ Former Madagascar leader Marc Ravalomanana is hopeful that a relaunch of peace talks between the country's rival factions will bring progress toward a return of political stability. ](/news/2009/08/5/former-madagascar-leader-marc-ravalomanana-is-hopeful-that-a-relaunch-of-peace-talks-between-the-country-s-rival-factions-will-bring-progre.md)
 _Context: Madagascar, Marc Ravalomanana_

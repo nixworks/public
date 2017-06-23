@@ -31,7 +31,7 @@ _Context: Ilyushin Il-114, Russia, Venezuela_
 _Context: Ohio, Texas, U.S. state, United States, flood_
 
 ### [ Mexican oil platforms resume production following the end of the threat from Hurricane Dean. ](/news/2007/08/24/mexican-oil-platforms-resume-production-following-the-end-of-the-threat-from-hurricane-dean.md)
-_Context: Hurricane Dean, Mexican, offshore oil platform_
+_Context: Hurricane Dean, Mexico, offshore oil platform_
 
 ### [ Three British Army soldiers die in Afghanistan in a suspected friendly fire incident. ](/news/2007/08/24/three-british-army-soldiers-die-in-afghanistan-in-a-suspected-friendly-fire-incident.md)
 _Context: Afghanistan, British Army, friendly fire_

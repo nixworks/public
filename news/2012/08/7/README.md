@@ -28,7 +28,7 @@ _Context: Malaysia, exorcism_
 The stepfather of missing schoolgirl Tia Sharp says the family is &quot;in bits&quot; and urged people to find &quot;my little girl&quot;.
 
 ### [A Tibetan man sets himself on fire in Sichuan, in the latest in a series of protests against Chinese rule. ](/news/2012/08/7/a-tibetan-man-sets-himself-on-fire-in-sichuan-in-the-latest-in-a-series-of-protests-against-chinese-rule.md)
-_Context: China, Sichuan, Tibet_
+_Context: Chinese, Sichuan, Tibet_
 
 ## [Previous Day...](/news/2012/08/6/index.md)
 

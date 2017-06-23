@@ -10,7 +10,7 @@ _Context: Iraq, prison escape, suicide bombing_
 The Duke and Duchess of Cambridge name their son George Alexander Louis, Kensington Palace says.
 
 ### [Two earthquakes strike Gansu province, China, killing at least 89 people and injuring over 500. ](/news/2013/07/22/two-earthquakes-strike-gansu-province-china-killing-at-least-89-people-and-injuring-over-500.md)
-_Context: China, Gansu province, earthquakes_
+_Context: Chinese, Gansu province, earthquakes_
 
 ### [A Southwest Airlines Boeing 737-700 '''crash-lands''' at New York's LaGuardia Airport, injuring ten passengers. ](/news/2013/07/22/a-southwest-airlines-boeing-737-700-crash-lands-at-new-york-s-laguardia-airport-injuring-ten-passengers.md)
 A Boeing 737 is left with its nose resting against the runway at LaGuardia airport after its landing gear failed.
@@ -34,7 +34,7 @@ British drugmaker GlaxoSmithKline said on Monday some of its executives in China
 Most households in the UK will have pornography blocked by their internet provider unless they choose to receive it, David Cameron announces.
 
 ### [At least five people are killed and seven injured after criminals open fire on community safety volunteers in the western Mexican state of Michoacan. ](/news/2013/07/22/at-least-five-people-are-killed-and-seven-injured-after-criminals-open-fire-on-community-safety-volunteers-in-the-western-mexican-state-of-m.md)
-_Context: Mexican, Michoacn_
+_Context: Mexico, Michoacn_
 
 ### [A 76-year-old man is sentenced to life in prison without parole for the 2012 murder of a 13-year-old boy in Milwaukee, Wisconsin. ](/news/2013/07/22/a-76-year-old-man-is-sentenced-to-life-in-prison-without-parole-for-the-2012-murder-of-a-13-year-old-boy-in-milwaukee-wisconsin.md)
 _Context: Milwaukee, Wisconsin, life in prison without parole_

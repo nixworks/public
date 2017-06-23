@@ -19,7 +19,7 @@ _Context: L'Enfant Plaza Station, Washington Metro, Washington, D.C., smoke inha
 _Context: Romania, Rovinari_
 
 ### [Chinese police kill six attacking militants wearing explosive devices in Xinjiang. ](/news/2015/01/12/chinese-police-kill-six-attacking-militants-wearing-explosive-devices-in-xinjiang.md)
-_Context: China, Xinjiang_
+_Context: Chinese, Xinjiang_
 
 ### [A serviceman stationed at the Russian 102nd Military Base, Valeri Permyakov, kills six members of an Armenian family, including a two-year-old child, and, in addition, wounds a six-month-old child, in Gyumri, Armenia, initiating a manhunt by the Armenian security services until his capture. ](/news/2015/01/12/a-serviceman-stationed-at-the-russian-102nd-military-base-valeri-permyakov-kills-six-members-of-an-armenian-family-including-a-two-year-o.md)
 _Context: Armenia, Gyumri, Gyumri massacre, Russian 102nd Military Base_

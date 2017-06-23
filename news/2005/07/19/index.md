@@ -7,7 +7,7 @@ _Context: British military personnel, Iraq, September 2003, court-martial, war c
 _Context: Hizbul Mujahideen, Srinagar_
 
 ### [ US President George W. Bush has nominated federal appeals court judge John G. Roberts, Jr. to replace Sandra Day O'Connor. Wikinews ](/news/2005/07/19/us-president-george-w-bush-has-nominated-federal-appeals-court-judge-john-g-roberts-jr-to-replace-sandra-day-o-connor-wikinews.md)
-_Context: George W. Bush, John G. Roberts, Jr., Sandra Day O'Connor, U.S. President, Wikinews_
+_Context: George W. Bush, John G. Roberts, Jr., Sandra Day O'Connor, United States President, Wikinews_
 
 ### [ According to reports from Russia, at least 14 people have been killed and several injured in an explosion in Chechnya. ](/news/2005/07/19/according-to-reports-from-russia-at-least-14-people-have-been-killed-and-several-injured-in-an-explosion-in-chechnya.md)
 _Context: Chechnya, Russia, explosion_

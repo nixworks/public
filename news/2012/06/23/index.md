@@ -4,7 +4,7 @@
 50-year-old Sderot resident suffers moderate-to-severe injuries; other civilians suffer shock; 20 rockets fired into southern Israel; Palestinians say 1 killed, between 17, 21 wounded in IAF airstrikes.
 
 ### [In a Mexican Drug War-related crime, 14 mutilated corpses are found inside a truck outside of a Mexican supermarket. ](/news/2012/06/23/in-a-mexican-drug-war-related-crime-14-mutilated-corpses-are-found-inside-a-truck-outside-of-a-mexican-supermarket.md)
-_Context: Mexican, Mexican Drug War_
+_Context: Mexican Drug War, Mexico_
 
 ### [In the Pakistani city of Quetta, armed people on motorcycles kill eight people; targeting Shias. ](/news/2012/06/23/in-the-pakistani-city-of-quetta-armed-people-on-motorcycles-kill-eight-people-targeting-shias.md)
 _Context: Pakistan, Quetta, Shia_

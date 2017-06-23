@@ -25,7 +25,7 @@ Yaakov Litman and Netanel, 18, were shot dead four days before daughter&#8217;s 
 _Context: Anne Frank, Anne Frank Fonds, Basel, Otto Frank, Swiss, The Diary of Anne Frank_
 
 ### [South Korean news agency Yonhap  reports China's mobile phone users are discarding 80 million devices annually, but almost none are being recycled. China's recycling rate stands at 9-10 percent of the global recycling average. ](/news/2015/11/13/south-korean-news-agency-yonhap-reports-china-s-mobile-phone-users-are-discarding-80-million-devices-annually-but-almost-none-are-being-re.md)
-_Context: China, South Korea, Yonhap, mobile phone, recycling_
+_Context: Chinese, South Korea, Yonhap, mobile phone, recycling_
 
 ### [Nasdaq is engaged in negotiations to buy the Canada unit of Chi-X Global Holdings. Chi-X is an important provider of alternative equity trading venues. ](/news/2015/11/13/nasdaq-is-engaged-in-negotiations-to-buy-the-canada-unit-of-chi-x-global-holdings-chi-x-is-an-important-provider-of-alternative-equity-trad.md)
 Nasdaq Inc (NDAQ.O) is in talks to buy the Canadian unit of alternative equities trading platform, Chi-X Global Holdings, according to a Bloomberg report that appeared on The Globe and Mail.
@@ -34,7 +34,7 @@ Nasdaq Inc (NDAQ.O) is in talks to buy the Canadian unit of alternative equities
 Woman (45) who lived in house where about seven bodies found described as &lsquo;caring mother&rsquo; 
 
 ### [At least four people are dead and 33 injured in a landslide in China's Zhejiang province. ](/news/2015/11/13/at-least-four-people-are-dead-and-33-injured-in-a-landslide-in-china-s-zhejiang-province.md)
-_Context: China, Zhejiang_
+_Context: Chinese, Zhejiang_
 
 ### [U.S. diplomats, amid growing  international concern the violence could spiral into an ethnic conflict, push for peace talks in Burundi. The European Union advises non-essential staff to evacuate the Central African nation amid rising violence and an uptick in political rhetoric. The head of the opposition UPRONA group  urges the United Nations to send peacekeepers quickly. Yesterday, the UN Security Council  called on the Burundi Government to protect human rights and cooperate with regional African mediators to immediately convene "an inclusive and genuine inter-Burundian dialogue" to find a peaceful resolution of the crisis. ](/news/2015/11/13/u-s-diplomats-amid-growing-international-concern-the-violence-could-spiral-into-an-ethnic-conflict-push-for-peace-talks-in-burundi-the.md)
 A prominent Burundi opposition politician urged the United Nations on Friday to send peacekeepers quickly to help deal with rising violence, after the Security Council discussed ways to boost its presence there.

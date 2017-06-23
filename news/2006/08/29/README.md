@@ -7,7 +7,7 @@ _Context: George W. Bush, Iranian President, Mahmoud Ahmadinejad_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Tropical Storm John becomes Hurricane John, the sixth hurricane of the 2006 Pacific hurricane season and threatens Mexico's Pacific Ocean coast, including the port city of Acapulco. ](/news/2006/08/29/tropical-storm-john-becomes-hurricane-john-the-sixth-hurricane-of-the-2006-pacific-hurricane-season-and-threatens-mexico-s-pacific-ocean-c.md)
-_Context: Acapulco, Hurricane John, Mexican, Pacific, Pacific, hurricane_
+_Context: Acapulco, Hurricane John, Mexico, Pacific, Pacific, hurricane_
 
 ### [ New Orleans and the United States mark the one year anniversary of Hurricane Katrina. ](/news/2006/08/29/new-orleans-and-the-united-states-mark-the-one-year-anniversary-of-hurricane-katrina.md)
 A year after one of the worst natural disasters in U.S. history, New Orleans turned its attention to rituals of mourning and celebrations of life.

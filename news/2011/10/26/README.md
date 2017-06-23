@@ -19,7 +19,7 @@ _Context: All Nippon Airways, Boeing 787 Dreamliner, Hong Kong, Tokyo, composite
 _Context: Japan, Olympus Corp, Tsuyoshi Kikukawa, United Kingdom, United States_
 
 ### [Residents in the Mexican city of Cancun brace for Hurricane Rina, which is expected to make landfall on Thursday. ](/news/2011/10/26/residents-in-the-mexican-city-of-cancaon-brace-for-hurricane-rina-which-is-expected-to-make-landfall-on-thursday.md)
-_Context: Cancun, Hurricane Rina, Mexican_
+_Context: Cancun, Hurricane Rina, Mexico_
 
 ### [Turkish earthquake:The search for survivors of the Van earthquake in eastern Turkey enters its third day, with 459 confirmed deaths and over 1,300 injured. ](/news/2011/10/26/turkish-earthquake-pthe-search-for-survivors-of-the-van-earthquake-in-eastern-turkey-enters-its-third-day-with-459-confirmed-deaths-and-ove.md)
 Turkey struggled to provide shelter on Wednesday to tens of thousands left homeless by an earthquake that killed nearly 500, and rescue teams began taking painful decisions to call off searches for those buried alive.

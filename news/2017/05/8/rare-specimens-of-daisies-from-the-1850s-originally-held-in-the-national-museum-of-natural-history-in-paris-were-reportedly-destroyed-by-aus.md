@@ -11,7 +11,7 @@ The French collection was incinerated by Australian biosecurity officers due to 
 
 ### Related:
 
-1. [An Imam in Australia that married a 14 year old to a 34 year old will not face jail time despite conviction. ](/news/2017/06/21/an-imam-in-australia-that-married-a-14-year-old-to-a-34-year-old-will-not-face-jail-time-despite-conviction.md) _Context: Australia_
+1. [An Imam in Australia who married a 14 year old to a 34 year old will not face jail time despite conviction. ](/news/2017/06/21/an-imam-in-australia-who-married-a-14-year-old-to-a-34-year-old-will-not-face-jail-time-despite-conviction.md) _Context: Australia_
 2. [A car carrying firearms and gas bottles deliberately rammed a police vehicle on the Champs-Elysees in Paris, France, subsequently bursting into flames. The driver, who was on a security watchlist, was shot dead. ](/news/2017/06/19/a-car-carrying-firearms-and-gas-bottles-deliberately-rammed-a-police-vehicle-on-the-champs-alysa-c-es-in-paris-france-subsequently-bursting.md) _Context: Paris_
 3. [Australia agrees to pay AUS$70 million in compensation to 1,905 people who have been detained on Manus Island since 2012, so avoiding a public trial against the government and the Transfield and G4S private companies for the detainees' degrading and cruel treatment. ](/news/2017/06/14/australia-agrees-to-pay-aus-70-million-in-compensation-to-1-905-people-who-have-been-detained-on-manus-island-since-2012-so-avoiding-a-publ.md) _Context: Australia_
 4. [Yesterday's terrorist attack in Paris disrupts campaigning for the elections. ](/news/2017/04/21/yesterday-s-terrorist-attack-in-paris-disrupts-campaigning-for-the-elections.md) _Context: Paris_

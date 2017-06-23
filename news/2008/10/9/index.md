@@ -13,7 +13,7 @@ Despite pledges by President George W. Bush and American intelligence officials 
 _Context: France, Jean-Marie Gustave Le Clezio, Nobel Prize, Nobel Prize in Literature_
 
 ### [ 2008 Pacific hurricane season : Tropical Storm Odile forms south of Mexico while Hurricane Norbert weakens to tropical storm strength northwest of Odile. ](/news/2008/10/9/2008-pacific-hurricane-season-tropical-storm-odile-forms-south-of-mexico-while-hurricane-norbert-weakens-to-tropical-storm-strength-north.md)
-_Context: 2008 Pacific hurricane season, Hurricane Norbert, Mexican, Tropical Storm Odile, tropical storm_
+_Context: 2008 Pacific hurricane season, Hurricane Norbert, Mexico, Tropical Storm Odile, tropical storm_
 
 ### [ Global financial crisis of September-October 2008: Head of International Monetary Fund says the US financial crisis threatens to send the world into a recession.  IMF releases World Economic Outlook report with gloomy projections for the global financial system. ](/news/2008/10/9/global-financial-crisis-of-septemberaoctober-2008-p-head-of-international-monetary-fund-says-the-us-financial-crisis-threatens-to-send-th.md)
 A late-day decline again pushed the markets down sharply, with the Dow falling more than 600 points a year to the day after hitting its record high.
@@ -40,7 +40,7 @@ _Context: North Korea_
 _Context: Maldives, Maumoon Abdul Gayoom, Mohamed Nasheed, absolute majority, democratic progress, first democratic election, second round_
 
 ### [ Los Zetas of the Gulf Cartel suspected killers of 5 police near Guadalajara during nationwide crackdown in Mexico. ](/news/2008/10/9/los-zetas-of-the-gulf-cartel-suspected-killers-of-5-police-near-guadalajara-during-nationwide-crackdown-in-mexico.md)
-_Context: Guadalajara, Gulf Cartel, Los Zetas, Mexican_
+_Context: Guadalajara, Gulf Cartel, Los Zetas, Mexico_
 
 ## [Previous Day...](/news/2008/10/8/index.md)
 

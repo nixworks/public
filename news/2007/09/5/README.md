@@ -11,7 +11,7 @@ _Context: Brazilian Senate, Congress, Renan Calheiros_
 _Context: 2007 general election, Encuentro por Guatemala Party, Rigoberta Menchu_
 
 ### [ 2007 Pacific hurricane season: Hurricane Henriette makes landfall near the port of Guaymas in the Mexican state of Sonora. ](/news/2007/09/5/2007-pacific-hurricane-season-hurricane-henriette-makes-landfall-near-the-port-of-guaymas-in-the-mexican-state-of-sonora.md)
-_Context: 2007 Pacific hurricane season, Guaymas, Mexican, Mexican state, Sonora_
+_Context: 2007 Pacific hurricane season, Guaymas, Mexican state, Mexico, Sonora_
 
 ### [ The Prime Minister of the United Kingdom Gordon Brown launches the International Health Partnership consisting of the World Health Organisation, the World Bank, the Bill and Melinda Gates Foundation as well as the governments of the United Kingdom, Canada, France, Germany, Italy, the Netherlands, Norway and Portugal. ](/news/2007/09/5/the-prime-minister-of-the-united-kingdom-gordon-brown-launches-the-international-health-partnership-consisting-of-the-world-health-organisa.md)
 British Prime Minister Gordon Brown launched an international initiative, which aims to improve healthcare and sweep away killer diseases in some of the world&#039;s poorest countries.

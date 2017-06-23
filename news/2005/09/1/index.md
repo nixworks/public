@@ -13,7 +13,7 @@ _Context: ABC, Diane Sawyer, George W. Bush, Hurricane Katrina, White House_
 _Context: Taiwan, Typhoon Talim_
 
 ### [ On the eve of People's Republic of China President Hu Jintao's first visit to North America next week, a PRC foreign ministry spokesman warned against any government providing Taiwan (ROC) with missile defense systems.  Hu Jintao arrives in Washington, D.C. on Monday, then visits Canada and Mexico before visiting the United Nations General Assembly. ](/news/2005/09/1/on-the-eve-of-people-s-republic-of-china-president-hu-jintao-s-first-visit-to-north-america-next-week-a-prc-foreign-ministry-spokesman-war.md)
-_Context: Canada, China, Chinese President, Hu Jintao, Mexican, Taiwan, United Nations General Assembly, Washington, D.C._
+_Context: Canada, Chinese, Chinese President, Hu Jintao, Mexico, Taiwan, United Nations General Assembly, Washington, D.C._
 
 ### [ Russia marks the first anniversary of the Beslan tragedy in which militants seized nearly 1,200 hostages, killing 331, more than half of them children.  ](/news/2005/09/1/russia-marks-the-first-anniversary-of-the-beslan-tragedy-in-which-militants-seized-nearly-1-200-hostages-killing-331-more-than-half-of-th.md)
 _Context: Beslan, Beslan children killed a year ago_
@@ -25,7 +25,7 @@ News and opinion from The Times &amp; The Sunday Times
 _Context: Common Chimpanzee, genome, human, speech acquisition_
 
 ### [ As part of celebrations for the 40th Anniversary for the founding of the Tibet Autonomous Region in the People's Republic of China, 20,000 people gather at the Potala Palace Square for a cultural performance. CPC Politburo's Jia Qinglin attended. ](/news/2005/09/1/as-part-of-celebrations-for-the-40th-anniversary-for-the-founding-of-the-tibet-autonomous-region-in-the-people-s-republic-of-china-20-000.md)
-_Context: China, Communist Party of China, Jia Qinglin, Politburo Standing Committee, Potala Palace, Tibet Autonomous Region_
+_Context: Chinese, Communist Party of China, Jia Qinglin, Politburo Standing Committee, Potala Palace, Tibet Autonomous Region_
 
 ### [ Same-sex marriage in California: The California Senate passes the first bill to allow same-sex marriage in the United States. The vote of 21 in favor and 15 against sets the stage for a showdown in the state Assembly, which narrowly rejected a similar bill in June by a margin of two votes. Since the June vote some major California organizations have changed stance to support same-sex marriage, including the influential Latino group: the United Farm Workers. Latinos account for 34 percent of the population in the state. ](/news/2005/09/1/same-sex-marriage-in-california-the-california-senate-passes-the-first-bill-to-allow-same-sex-marriage-in-the-united-states-the-vote-of-2.md)
 _Context: California Senate, California State Assembly, Hispanic, United Farm Workers, ban, same-sex marriage_

@@ -16,7 +16,7 @@ Reports from the Ningxia region of northern China say several hundred Muslim vil
 _Context: Chile, wildfire_
 
 ### [India lodges a high-level protest with the government of China over the treatment of an Indian diplomat in a courtroom. ](/news/2012/01/2/india-lodges-a-high-level-protest-with-the-government-of-china-over-the-treatment-of-an-indian-diplomat-in-a-courtroom.md)
-_Context: China, India_
+_Context: Chinese, India_
 
 ### [The President of South Korea, Lee Myung-bak, states that he is open to negotiations with North Korea on its nuclear program, but calls on the North to avoid "provocations". ](/news/2012/01/2/the-president-of-south-korea-lee-myung-bak-states-that-he-is-open-to-negotiations-with-north-korea-on-its-nuclear-program-but-calls-on-th.md)
 _Context: Lee Myung-bak, North Korea, South Korean President, its nuclear program_

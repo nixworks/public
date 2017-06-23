@@ -4,7 +4,7 @@
 _Context: Manuel Rosales, Venezuela, Zulia, holds elections_
 
 ### [ In Mexico, the partial recount of votes in the disputed 2006 presidential election held on July 2 begins amid escalating protests against alleged electoral irregularities in the close election. ](/news/2006/08/9/in-mexico-the-partial-recount-of-votes-in-the-disputed-2006-presidential-election-held-on-july-2-begins-amid-escalating-protests-against-a.md)
-_Context: Disputed Mexican election, July 2, Mexican, Mexican general election, Voters, close election, electoral fraud_
+_Context: Disputed Mexican election, July 2, Mexican general election, Mexico, Voters, close election, electoral fraud_
 
 ### [ Chad and Sudan resume diplomatic relations as part of the Dakar accord. The heads of state of Chad, Sudan, and Libya embrace in front of a cheering crowd in N'Djamena. ](/news/2006/08/9/chad-and-sudan-resume-diplomatic-relations-as-part-of-the-dakar-accord-the-heads-of-state-of-chad-sudan-and-libya-embrace-in-front-of-a.md)
 _Context: Chad, Dakar accord, Libya, N'Djamena, Sudan, heads of state_

@@ -31,7 +31,7 @@ South Korea also cancels cross-border initiatives after Pyongyang’s claim that
 SAUDI warplanes have been accused of “deliberately” striking Iran’s embassy in Yemen in an air raid that wounded staff, as Iran banned all Saudi Arabian imports. 
 
 ### [The bodies of six people are found in a rural village in Guerrero state in southern Mexico. ](/news/2016/01/7/the-bodies-of-six-people-are-found-in-a-rural-village-in-guerrero-state-in-southern-mexico.md)
-_Context: Guerrero, Mexican_
+_Context: Guerrero, Mexico_
 
 ### [Scotland Yard confirms that they are investigating a triple murder in relation to the death of British actress Sian Blake and her two sons after the discovery of their dead bodies on Tuesday. ](/news/2016/01/7/scotland-yard-confirms-that-they-are-investigating-a-triple-murder-in-relation-to-the-death-of-british-actress-sian-blake-and-her-two-sons-a.md)
 FORMER EastEnders actress Sian Blake and her two young sons, Zachary and Amon, died as a result of head and neck injuries, police say.

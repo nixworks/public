@@ -46,7 +46,7 @@ _Context: Japan, Ross Sea, Sea Shepherd, distress call, whaling_
 _Context:  Insurgency in Somalia, Mogadishu, Mortar_
 
 ### [ Four state-owned enterprises of the Republic of China (Taiwan)--Chunghwa Post, the Chinese Petroleum Corporation, the China Shipbuilding Corporation, and the Central Bank of China--change their names to remove "China" from their titles at the request of President Chen Shui-bian. The decision is condemned by the Pan-Blue Coalition, the United States and People's Republic of China as a move towards Taiwan independence. ](/news/2007/02/12/four-state-owned-enterprises-of-the-republic-of-china-taiwan-achunghwa-post-the-chinese-petroleum-corporation-the-china-shipbuilding-c.md)
-_Context: Central Bank of China, Chen Shui-bian, China, China Shipbuilding Corporation, Chinese Petroleum Corporation, Chunghwa Post, People's Republic of China, President of Taiwan, Taiwan, Taiwan, United States, coalition allies, independence_
+_Context: Central Bank of China, Chen Shui-bian, China Shipbuilding Corporation, Chinese, Chinese Petroleum Corporation, Chunghwa Post, People's Republic of China, President of Taiwan, Taiwan, Taiwan, United States, coalition allies, independence_
 
 ### [ Israel has carried out a successful test of its Arrow missile, the defence ministry says. ](/news/2007/02/12/israel-has-carried-out-a-successful-test-of-its-arrow-missile-the-defence-ministry-says.md)
 _Context: Arrow missile, Israel, Israeli security guard_

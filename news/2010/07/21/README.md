@@ -91,7 +91,7 @@ _Context: Australia, Fiji, Melanesian Spearhead Group, New Zealand, South Pacifi
 _Context: Hillary Clinton, North Korea, ROKS ''Cheonan'', South Korean Navy, United States, United States Secretary of State, sanctions, sinking_
 
 ### [Mexico states that it has the support of Bolivia, Cuba, Ecuador, Ghana, Guatemala, the Federated States of Micronesia, Panama, Senegal, Turkey, and Uruguay in pursuing its case against Arizona's immigration law. ](/news/2010/07/21/mexico-states-that-it-has-the-support-of-bolivia-cuba-ecuador-ghana-guatemala-the-federated-states-of-micronesia-panama-senegal-turk.md)
-_Context: Arizona, Bolivia, Cuba, Ecuador, Federated States of Micronesia, Ghana, Guatemala, Mexican, Panama, Senegal, Turkey, Uruguay, immigration law_
+_Context: Arizona, Bolivia, Cuba, Ecuador, Federated States of Micronesia, Ghana, Guatemala, Mexico, Panama, Senegal, Turkey, Uruguay, immigration law_
 
 ### [An Arab residing in Israel is convicted of "rape by deception" and jailed for 18 months for having consensual sexual intercourse in 2008 with an Israeli woman alleged to believe he was Jewish. ](/news/2010/07/21/an-arab-residing-in-israel-is-convicted-of-rape-by-deception-and-jailed-for-18-months-for-having-consensual-sexual-intercourse-in-2008-wit.md)
 Man sentenced to 18 months in prison after telling an Israeli woman he was Jewish.

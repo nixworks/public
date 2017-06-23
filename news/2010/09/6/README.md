@@ -19,7 +19,7 @@ _Context: 2010 Victorian floods, Australia, Victoria, evacuation centers_
 Teams in Guatemala have to halt the search for bodies following devasting mudslides which have killed at least 45 people.
 
 ### [2010 Atlantic hurricane season: Tropical Storm Hermine slams into northern Mexico near the border with Texas. ](/news/2010/09/6/2010-atlantic-hurricane-season-tropical-storm-hermine-slams-into-northern-mexico-near-the-border-with-texas.md)
-_Context: 2010 Atlantic hurricane season, Mexican, Texas_
+_Context: 2010 Atlantic hurricane season, Mexico, Texas_
 
 ### [A wind-driven wildfire in the United States state of Colorado leads to the evacuation of 1,000 houses. ](/news/2010/09/6/a-wind-driven-wildfire-in-the-united-states-state-of-colorado-leads-to-the-evacuation-of-1-000-houses.md)
 _Context: Colorado, United States, wildfire_

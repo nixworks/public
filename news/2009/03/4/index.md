@@ -4,7 +4,7 @@
 _Context: Cargill, Hugo Chvez, United States, Venezuela, Venezuelan President, food company, nationalizes_
 
 ### [ A riot at a prison near Ciudad Jurez, Mexico, kills at least 20 inmates and injures seven others. ](/news/2009/03/4/a-riot-at-a-prison-near-ciudad-juarez-mexico-kills-at-least-20-inmates-and-injures-seven-others.md)
-_Context: Juarez, Mexican, prison, riot_
+_Context: Juarez, Mexico, prison, riot_
 
 ### [ Gordon Brown becomes the United Kingdom's fifth Prime Minister to address a joint session of the U.S. Congress. ](/news/2009/03/4/gordon-brown-becomes-the-united-kingdom-s-fifth-prime-minister-to-address-a-joint-session-of-the-u-s-congress.md)
 _Context: Gordon Brown, Prime Minister, United Kingdom, United States, United States Congress, joint session of Congress_

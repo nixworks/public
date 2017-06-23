@@ -49,7 +49,7 @@ _Context: Bosnia-Herzegovina, NATO, Radovan Karadzic, war criminal_
 _Context: Dick Cheney, Iraq, Japan, U.S. Vice President_
 
 ### [ In Nuevo Laredo, Mexico, Horacio Garza, a federal congressman for the PRI, is seriously wounded by gunmen, and his driver killed. ](/news/2007/02/20/in-nuevo-laredo-mexico-horacio-garza-a-federal-congressman-for-the-pri-is-seriously-wounded-by-gunmen-and-his-driver-killed.md)
-_Context: Mexican, Nuevo Laredo_
+_Context: Mexico, Nuevo Laredo_
 
 ## [Previous Day...](/news/2007/02/19/index.md)
 

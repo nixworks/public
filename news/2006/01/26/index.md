@@ -7,7 +7,7 @@ _Context: Ahmed Qurei, Fatah, Hamas, Islamist, Israel, January 2006 legislative 
 _Context: David Mulford_
 
 ### [ One day after US ambassador to Mexico Tony Garza claimed that Mexican soldiers had helped drug smugglers to escape pursuit by Texas state police on US soil near El Paso, Texas, Mexican Secretary of Foreign Affairs Luis Ernesto Derbez suggested that the people involved may have been US soldiers wearing the uniforms of Mexican military.  ](/news/2006/01/26/one-day-after-us-ambassador-to-mexico-tony-garza-claimed-that-mexican-soldiers-had-helped-drug-smugglers-to-escape-pursuit-by-texas-state-p.md)
-_Context: El Paso, Foreign Minister, Luis Ernesto Derbez, Mexican, Texas state police, Tony Garza, ambassador, drug smuggler, uniform_
+_Context: El Paso, Foreign Minister, Luis Ernesto Derbez, Mexico, Texas state police, Tony Garza, ambassador, drug smuggler, uniform_
 
 ### [ Pakistani President Pervez Musharraf rejects US objections to a proposed Iran-Pakistan-India pipeline for natural gas saying "It is in our economic interest. If somebody wants to stop us they should compensate us ... But at the moment we are going ahead". Musharraf also repeats his condemnation of the recent U.S. air strike in northern Pakistan which killed 18 people, including women and children. ](/news/2006/01/26/pakistani-president-pervez-musharraf-rejects-us-objections-to-a-proposed-iranapakistanaindia-pipeline-for-natural-gas-saying-it-is-in.md)
 _Context: Iran, Pakistan, Pervez Musharraf, President, natural gas, recent U.S. air strike_

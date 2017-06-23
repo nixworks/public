@@ -13,7 +13,7 @@ _Context: Hikkaduwa, LTTE, Sri Lanka, bus bomb_
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ Nine bound and gagged bodies are found in grave in Uruapan, Michoacan state, Mexico. Drug gangs are suspected. ](/news/2007/01/6/nine-bound-and-gagged-bodies-are-found-in-grave-in-uruapan-michoacan-state-mexico-drug-gangs-are-suspected.md)
-_Context: Mexican, Michoacn, Uruapan_
+_Context: Mexico, Michoacn, Uruapan_
 
 ### [ The British Army raises its maximum recruitment age from 26 years to 33, but denies that this is a reaction to a failure to recruit sufficient young people. The normal term of engagement remains 22 years, meaning that some soldiers could still be serving to age 55. ](/news/2007/01/6/the-british-army-raises-its-maximum-recruitment-age-from-26-years-to-33-but-denies-that-this-is-a-reaction-to-a-failure-to-recruit-suffici.md)
 _Context: British Army_

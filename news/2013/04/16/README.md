@@ -34,13 +34,13 @@ _Context: Ghana, Kyekyewere, gold mine_
 North Korea issued new threats against South Korea on Tuesday, vowing &quot;sledge-hammer blows&quot; of retaliation if South Korea did not apologize for anti-North Korean protests the previous day when the North was celebrating the birth of its founding leader.
 
 ### [China's defense ministry criticizes the United States for allegedly increasing tensions in the Asia-Pacific region by increasing its military presence and supporting Japan, the Philippines and Vietnam in longstanding territorial disputes. ](/news/2013/04/16/china-s-defense-ministry-criticizes-the-united-states-for-allegedly-increasing-tensions-in-the-asia-pacific-region-by-increasing-its-militar.md)
-_Context: China, Chinese Defense Ministry, Japan, Pacific, Philippines, Territorial disputes in the South China Sea, United States, Vietnam, military presence_
+_Context: Chinese, Chinese Defense Ministry, Japan, Pacific, Philippines, Territorial disputes in the South China Sea, United States, Vietnam, military presence_
 
 ### [Three teenagers in Liverpool, England, are convicted for beating a homeless man to death as part of a dare. ](/news/2013/04/16/three-teenagers-in-liverpool-england-are-convicted-for-beating-a-homeless-man-to-death-as-part-of-a-dare.md)
 _Context: England, Liverpool, convicted, homeless people_
 
 ### [Former Mexican anchorman Alonso de la Colina Sordo is assassinated by an unidentified gunman in the state of Puebla. His death adds to the long list of more than 80 journalists killed in Mexico since 2005. ](/news/2013/04/16/former-mexican-anchorman-alonso-de-la-colina-sordo-is-assassinated-by-an-unidentified-gunman-in-the-state-of-puebla-his-death-adds-to-the-l.md)
-_Context: Mexican, Puebla, anchorman, more than 80 have been killed_
+_Context: Mexico, Puebla, anchorman, more than 80 have been killed_
 
 ### [A bipartisan group of eight United States Senators releases its plan to overhaul the immigration system potentially allowing millions of illegal aliens the chance to become citizens. ](/news/2013/04/16/a-bipartisan-group-of-eight-united-states-senators-releases-its-plan-to-overhaul-the-immigration-system-potentially-allowing-millions-of-ill.md)
 Millions of immigrants living illegally in the United States could earn a chance at citizenship under a sweeping Senate proposal to be released Tuesday.

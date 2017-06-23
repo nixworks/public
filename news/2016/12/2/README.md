@@ -16,13 +16,13 @@ European Union ministers on Friday backed lowering the caps for how much mobile 
 (This December 2 story corrects to show the 2 billion rubles is combined amount stolen from accounts in central bank and commercial banks, not from central bank alone; clarifies that the figures are total stolen in cyberattacks for the year to date)
 
 ### [At least 18 people die and two more are injured in a bus accident in Hubei, China. ](/news/2016/12/2/at-least-18-people-die-and-two-more-are-injured-in-a-bus-accident-in-hubei-china.md)
-_Context: China, Hubei_
+_Context: Chinese, Hubei_
 
 ### [The death toll from the wildfire that hit the U.S. town of Gatlinburg, Tennessee, rises to 13. ](/news/2016/12/2/the-death-toll-from-the-wildfire-that-hit-the-u-s-town-of-gatlinburg-tennessee-rises-to-13.md)
 _Context: 2016 Southeastern United States wildfires, Gatlinburg, Tennessee_
 
 ### [The bodies of 21 coal miners are retrieved from an unlicensed coal mine in the Chinese city of Qitaihe in the province of Heilongjiang. Four people have been arrested including the owner of the mine and three managers. ](/news/2016/12/2/the-bodies-of-21-coal-miners-are-retrieved-from-an-unlicensed-coal-mine-in-the-chinese-city-of-qitaihe-in-the-province-of-heilongjiang-four.md)
-_Context: China, Heilongjiang, Qitaihe_
+_Context: Chinese, Heilongjiang, Qitaihe_
 
 ### [At least nine people are killed and 40 are missing in a warehouse fire in Oakland, California. ](/news/2016/12/2/at-least-nine-people-are-killed-and-40-are-missing-in-a-warehouse-fire-in-oakland-california.md)
 Police say they are preparing for as many as 40 deaths after a fire breaks out at a rave in Oakland.

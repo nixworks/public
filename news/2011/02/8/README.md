@@ -43,7 +43,7 @@ _Context: Andaman Islands, Bangladesh, India, Myanmar, Port Blair, Rohingya, Tha
 _Context: Charles Taylor, Liberia, President of Liberia_
 
 ### [The Mexican Army rescues 44 Guatemalan immigrants in Reynosa in northern Mexico. ](/news/2011/02/8/the-mexican-army-rescues-44-guatemalan-immigrants-in-reynosa-in-northern-mexico.md)
-_Context: Guatemala, Mexican, Mexican Army, Reynosa_
+_Context: Guatemala, Mexican Army, Mexico, Reynosa_
 
 ### [The Israeli Knesset approves the "Bishara Bill", which would revoke the pension payments of Knesset members if they fail to appear at criminal proceedings held against them, or if convicted of severe felonies. ](/news/2011/02/8/the-israeli-knesset-approves-the-bishara-bill-which-would-revoke-the-pension-payments-of-knesset-members-if-they-fail-to-appear-at-crimin.md)
 Eight MKs vote in favor of law revoking wages, pension of lawmakers who have failed to report to police or trial. Balad MK calls proposal &#39;political&#39;; Shas MK: Why should we apologize for denouncing traitors? In any Arab country he would be hung the very same day 

@@ -13,7 +13,7 @@ _Context: MNA, Maulana Noor Mohammed Wazir, Pakistan, South Waziristan, bomb, mo
 _Context: Amsterdam, Anne Frank tree_
 
 ### [Jimena Navarrete, representing Mexico, wins Miss Universe 2010. ](/news/2010/08/23/jimena-navarrete-representing-mexico-wins-miss-universe-2010.md)
-_Context: Jimena Navarrete, Mexican, Miss Universe 2010_
+_Context: Jimena Navarrete, Mexico, Miss Universe 2010_
 
 ### [Australia's stock market and currency lose value because of the country's hung parliament. ](/news/2010/08/23/australia-s-stock-market-and-currency-lose-value-because-of-the-country-s-hung-parliament.md)
 _Context: Australia, hung parliament_
@@ -43,7 +43,7 @@ Twenty-five prisoners, including several Islamic militants, have escaped from a 
 Eight Hong Kong tourists killed in 11-hour standoff in the Philippine capital.
 
 ### [Judge Royce C. Lamberth of the United States District Court for the District of Columbia rules against a decision by President Barack Obama allowing the expansion of embryonic stem cell research claiming it breaks US law. ](/news/2010/08/23/judge-royce-c-lamberth-of-the-united-states-district-court-for-the-district-of-columbia-rules-against-a-decision-by-president-barack-obama.md)
-_Context: Barack Obama, Royce C. Lamberth, U.S. District Court for the District of Columbia, U.S. President, embryonic stem cell_
+_Context: Barack Obama, Royce C. Lamberth, U.S. District Court for the District of Columbia, United States President, embryonic stem cell_
 
 ## [Previous Day...](/news/2010/08/22/index.md)
 

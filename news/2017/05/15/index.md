@@ -28,7 +28,7 @@ _Context: Fourth Circuit Appeals Court, North Carolina, Supreme Court of the Uni
 The Moors Murderer Ian Brady has died at a high security psychiatric hospital in Merseyside. Brady, 79, who tortured and murdered five children along with his partner Myra Hindley, was confirmed to have died by Mersey Care NHS Foundation Trust. Hindley died in prison in 2002 at the age of 60. It was not clear what the cause of Brady’s death was but he was reported to be receiving palliative care from nurses around the clock in recent days. Two private ambulances were seen leaving the grounds of the hospital on Monday night. A spokesman for the NHS trust said: &quot;We can confirm a 79-year-old patient in long term care at Ashworth High Secure Hospital has died after becoming physically unwell.&quot; 
 
 ### [An unknown gunman shoots and kills veteran journalist Javier Valdez Crdenas, who is noted for his investigative reporting on Mexico's war on drugs, in Culiacn, Sinaloa. ](/news/2017/05/15/an-unknown-gunman-shoots-and-kills-veteran-journalist-javier-valdez-cardenas-who-is-noted-for-his-investigative-reporting-on-mexico-s-war-o.md)
-_Context: Culiacn, Javier Valdez Crdenas, Mexican, Mexican Drug War, Sinaloa_
+_Context: Culiacn, Javier Valdez Crdenas, Mexican Drug War, Mexico, Sinaloa_
 
 ### [Tehran Mayor Mohammad Bagher Ghalibaf withdraws his candidacy. ](/news/2017/05/15/tehran-mayor-mohammad-bagher-ghalibaf-withdraws-his-candidacy.md)
 _Context: Iranian presidential election, 2017, Mohammad Bagher Ghalibaf, candidacy_

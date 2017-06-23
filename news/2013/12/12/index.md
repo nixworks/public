@@ -16,7 +16,7 @@ _Context: Paul Walker_
 _Context: Iceland, Kaupthing_
 
 ### [Mexico's Congress passes a bill that will allow foreign investment in its state-run oil company, Pemex. The measure still requires the approval of a majority of the country's federal entities. date=December 2013](/news/2013/12/12/mexico-s-congress-passes-a-bill-that-will-allow-foreign-investment-in-its-state-run-oil-company-pemex-the-measure-still-requires-the-appro.md)
-_Context: Mexican, PEMEX_
+_Context: Mexico, PEMEX_
 
 ### [An ammonia cooling pump on the International Space Station malfunctions, requiring suspension of some non-critical systems. ](/news/2013/12/12/an-ammonia-cooling-pump-on-the-international-space-station-malfunctions-requiring-suspension-of-some-non-critical-systems.md)
 _Context: International Space Station_

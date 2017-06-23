@@ -7,7 +7,7 @@ A fugitive ex-general from the Pinochet era was captured Thursday, Chilean autho
 The month-old fire in northern Santa Barbara County has burned an estimated 44,400 acres — or 70 square miles — and was 60 percent contained, said Santa Barbara fire Capt. Eli Iskow.
 
 ### [ US President George W. Bush signs a bill to implement recommendations of the 9-11 Commission. ](/news/2007/08/3/us-president-george-w-bush-signs-a-bill-to-implement-recommendations-of-the-9-11-commission.md)
-_Context: 9/11 Commission, George W. Bush, U.S. President_
+_Context: 9/11 Commission, George W. Bush, United States President_
 
 ### [ The United States Congress allocates $250 million to rebuild the I-35W Mississippi River bridge in Minneapolis, Minnesota. ](/news/2007/08/3/the-united-states-congress-allocates-250-million-to-rebuild-the-i-35w-mississippi-river-bridge-in-minneapolis-minnesota.md)
 _Context: I-35W Mississippi River bridge, Minneapolis, US$, United States Congress_
@@ -22,7 +22,7 @@ _Context: Chauncey Bailey, Oakland, California, The Oakland Post, Your Black Mus
 The Canadian Government is giving up its quest to suppress a controversial judicial report on the case a Canadian citizen falsely accused of terrorist links.
 
 ### [ Mexican archaeologists announce the discovery of what is believed to be the tomb of Aztec emperor Ahuitzotl. ](/news/2007/08/3/mexican-archaeologists-announce-the-discovery-of-what-is-believed-to-be-the-tomb-of-aztec-emperor-ahuitzotl.md)
-_Context: Ahuitzotl, Aztec, Mexican_
+_Context: Ahuitzotl, Aztec, Mexico_
 
 ### [ Russia says that it will launch a criminal case against Andrei Lugovoi if the United Kingdom provides it with convincing evidence of Lugovoi's involvement in the murder of Alexander Litvinenko. ](/news/2007/08/3/russia-says-that-it-will-launch-a-criminal-case-against-andrei-lugovoi-if-the-united-kingdom-provides-it-with-convincing-evidence-of-lugovo.md)
 Russia says it might launch a criminal case against Andrei Lugovoi, whose extradition Britain is seeking on charges of murdering emigre Alexander Litvinenko, if London provides enough proof of his guilt.

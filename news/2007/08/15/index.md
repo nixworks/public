@@ -13,7 +13,7 @@ _Context: Lesser Antilles, Martinique, St. Lucia, Tropical Storm Dean, hurricane
 _Context: Gaza Strip, Israel, Israeli Defence Force_
 
 ### [ President of the United States George W. Bush, President of Mexico Felipe Calderon and the Prime Minister of Canada Stephen Harper to meet later this month under the North American Security and Prosperity Partnership (SPP) mechanism to discuss economic and security issues. ](/news/2007/08/15/president-of-the-united-states-george-w-bush-president-of-mexico-felipe-caldera3n-and-the-prime-minister-of-canada-stephen-harper-to-meet.md)
-_Context: Canadian Prime Minister, Felipe Calderon, George W. Bush, President, Security and Prosperity Partnership of North America, Stephen Harper, U.S. President_
+_Context: Canadian Prime Minister, Felipe Calderon, George W. Bush, President, Security and Prosperity Partnership of North America, Stephen Harper, United States President_
 
 ### [ Jack McConnell resigns as the leader of the Scottish Labour Party with Wendy Alexander likely to be elected as his replacement as leader. ](/news/2007/08/15/jack-mcconnell-resigns-as-the-leader-of-the-scottish-labour-party-with-wendy-alexander-likely-to-be-elected-as-his-replacement-as-leader.md)
 _Context: Jack McConnell, Scottish Labour Party, Wendy Alexander_
@@ -34,7 +34,7 @@ _Context: Japan, Palestinian National Authority, economic, humanitarian, interna
 Tropical Storm Erin, which formed in the western Gulf of Mexico early Wednesday, was moving in a northwesterly direction and expected to make landfall in the vicinity of the south Texas oil refining hub of Corpus Christi early Thursday, the U.S. National Hurricane Center said.
 
 ### [ Mexican authorities deport hundreds of illegal immigrants who got stuck on a closed GWI rail line in Chiapas. ](/news/2007/08/15/mexican-authorities-deport-hundreds-of-illegal-immigrants-who-got-stuck-on-a-closed-gwi-rail-line-in-chiapas.md)
-_Context: Chiapas, GWI, Mexican, illegal immigrants, rail line_
+_Context: Chiapas, GWI, Mexico, illegal immigrants, rail line_
 
 ### [ 2007 South Asian floods: A landslide hits the Dharla village in the Indian state of Himachal Pradesh, killing at least five people. Another 55 are missing. ](/news/2007/08/15/2007-south-asian-floods-a-landslide-hits-the-dharla-village-in-the-indian-state-of-himachal-pradesh-killing-at-least-five-people-another.md)
 _Context: 2007 South Asian floods, Dharla, Himachal Pradesh, India, landslide_

@@ -4,7 +4,7 @@
 _Context: Hang Seng Index, Hong Kong_
 
 ### [ 2007 Pakistani state of emergency: The Netherlands suspends aid to Pakistan following the imposition of emergency rule.date=December 2007 Several demonstrating lawyers protesting outside the Sindh High Court are arrested.date=December 2007 President of the United States George W. Bush calls on the President of Pakistan Pervez Musharraf to end the state of emergency and restore civilian rule. ](/news/2007/11/5/2007-pakistani-state-of-emergency-p-the-netherlands-suspends-aid-to-pakistan-following-the-imposition-of-emergency-rule-date-december-2007p.md)
-_Context: 2007 Pakistani state of emergency, George W. Bush, Netherlands, Pervez Musharraf, President, Sindh, Sindh High Court, U.S. President, arrested, international aid, lawyers, state of emergency_
+_Context: 2007 Pakistani state of emergency, George W. Bush, Netherlands, Pervez Musharraf, President, Sindh, Sindh High Court, United States President, arrested, international aid, lawyers, state of emergency_
 
 ### [ Italian police arrest Sicilian mafia boss Salvatore Lo Piccolo, his son Sandro and two other mafiosi in Carini, Palermo. ](/news/2007/11/5/italian-police-arrest-sicilian-mafia-boss-salvatore-lo-piccolo-his-son-sandro-and-two-other-mafiosi-in-carini-palermo.md)
 _Context: Carini, Italy, Mafia, Palermo, Salvatore Lo Piccolo, Sicily, police_
@@ -22,7 +22,7 @@ _Context: 2007 general election, Alvaro Colom, Guatemala, Guatemalan President_
 _Context: Android devices, Google, Open Handset Alliance, handheld computing_
 
 ### [ The number of people in southern Mexico displaced by the 2007 Tabasco flood nears a million ](/news/2007/11/5/the-number-of-people-in-southern-mexico-displaced-by-the-2007-tabasco-flood-nears-a-million.md)
-_Context: 2007 Tabasco flood, Mexican_
+_Context: 2007 Tabasco flood, Mexico_
 
 ### [ Kimi Raikkonen wins the Formula One World Championship.](/news/2007/11/5/kimi-raikkonen-wins-the-formula-one-world-championship.md)
 ## [Previous Day...](/news/2007/11/4/index.md)

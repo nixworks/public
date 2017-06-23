@@ -22,7 +22,7 @@ Iceland raised the alarm after its largest volcano was hit by the biggest tremor
 Confirmed cases of Zika virus in Singapore rose to 82 on Tuesday, as the United States joined a growing list of countries warning pregnant women or those trying to get pregnant to avoid travel to the city-state.
 
 ### [''Philippines v. China''Philippines president Rodrigo Duterte says he would not press on for China to abide by the South China Sea ruling but he might do so in the future. ](/news/2016/08/30/philippines-v-china-pphilippines-president-rodrigo-duterte-says-he-would-not-press-on-for-china-to-abide-by-the-south-china-sea-ruling-b.md)
-_Context: China, Philippines v. China, Rodrigo Duterte, Territorial disputes in the South China Sea_
+_Context: Chinese, Philippines v. China, Rodrigo Duterte, Territorial disputes in the South China Sea_
 
 ### [Two North Korean officials are reportedly publicly executed by Kim Jong-un after they allegedly disobeyed orders: former agriculture minister Hwang Min for unsuitable policies and Ri Yong Jin, a senior official at the education ministry, for sleeping at a meeting with Kim, disrespect for the leader and corruption. They were allegedly executed by anti-aircraft artillery fire. ](/news/2016/08/30/two-north-korean-officials-are-reportedly-publicly-executed-by-kim-jong-un-after-they-allegedly-disobeyed-orders-former-agriculture-ministe.md)
 The two officials were executed in early August for disobeying leader Kim Jong Un, a South Korean newspaper reported.

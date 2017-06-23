@@ -19,7 +19,7 @@ _Context: Francisco Carle Airport, Jauja, Peruvian Airlines Flight 112_
 _Context: European Union, Georgia, Georgia-European Union relations, Republic of Ireland, United Kingdom, member states_
 
 ### [British Prime Minister Theresa May signs a letter invoking Article 50 of the Treaty on European Union. Its notification to the European Council tomorrow will formally begin the UK's withdrawal from the European Union. ](/news/2017/03/28/british-prime-minister-theresa-may-signs-a-letter-invoking-article-50-of-the-treaty-on-european-union-its-notification-to-the-european-coun.md)
-_Context: Article 50 of the Treaty on European Union, Brexit, European Council, European Union, Prime Minister, Theresa May, United Kingdom, signs a letter invoking_
+_Context: Article 50 of the Treaty on European Union, European Council, European Union, Prime Minister, Theresa May, United Kingdom, signs a letter invoking, the UK leaves the EU_
 
 ### [A Belgian Court in Brussels declares that Delphine Boel's case against former king Albert II of Belgium is inadmissible even though genetic testing has proved that her legal father Jacques Boel is not her biological father. ](/news/2017/03/28/a-belgian-court-in-brussels-declares-that-delphine-boa-las-case-against-former-king-albert-ii-of-belgium-is-inadmissible-even-though-genet.md)
 Delphine Boël&#8217;s has been declared inadmissible by the Belgian Court in Brussels, and thus, Belgian King Albert II cannot legally be declared Delphine&#8217;s father. Her legal father remains …

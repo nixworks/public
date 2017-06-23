@@ -10,7 +10,7 @@ _Context: Baidu, Iran, People's Republic of China_
 _Context: Iran, Israel, Masoud Alimohammadi, Tehran, United States_
 
 ### [Mexican Drug War:Mexican authorities report the capture of Teodoro Garcia Simental, one of the country's most notorious drug lords, in a raid in La Paz, Baja California Sur. ](/news/2010/01/12/mexican-drug-war-pmexican-authorities-report-the-capture-of-teodoro-garcaa-simental-one-of-the-country-s-most-notorious-drug-lords-in-a-r.md)
-_Context: La Paz, Baja California Sur, Mexican, Mexican Drug War, Teodoro Garcia Simental_
+_Context: La Paz, Baja California Sur, Mexican Drug War, Mexico, Teodoro Garcia Simental_
 
 ### [U.S. talk show host Conan O'Brien announces his intention to quit ''The Tonight Show'' if NBC goes forward with their plan to move the show from its long standing 11:35pm timeslot to 12:05am in favor of ''The Jay Leno Show''. ](/news/2010/01/12/u-s-talk-show-host-conan-o-brien-announces-his-intention-to-quit-the-tonight-show-if-nbc-goes-forward-with-their-plan-to-move-the-show.md)
 _Context: Conan O'Brien, NBC, The Jay Leno Show, The Tonight Show_

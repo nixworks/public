@@ -13,7 +13,7 @@ _Context: Afghan government, Afghanistan, Helmand Province, NATO_
 _Context: Sahrawi, Western Sahara_
 
 ### [China and Africa celebrated the tenth anniversary of the Forum on China-Africa Cooperation (FOCAC) in Beijing. Jia Qinglin, chairman of the National Committee of the Chinese People's Political Consultative Conference, addressed the reception commemorating. ](/news/2010/10/25/china-and-africa-celebrated-the-tenth-anniversary-of-the-forum-on-china-africa-cooperation-focac-in-beijing-jia-qinglin-chairman-of-the.md)
-_Context: Africa, Beijing, China, Forum on China-Africa Cooperation, Jia Qinglin, National Committee of the Chinese People's Political Consultative Conference_
+_Context: Africa, Beijing, Chinese, Forum on China-Africa Cooperation, Jia Qinglin, National Committee of the Chinese People's Political Consultative Conference_
 
 ### [Lhasa invests 90 million yuan in 23 tourist facilities. The tourist facilities include Lhasa Tourist Service Center, Namtso Scenic Spot, Potala Palace- Jokhang Temple- Norbu Linka Cultural Heritage tourist attractions, etc. ](/news/2010/10/25/lhasa-invests-90-million-yuan-in-23-tourist-facilities-the-tourist-facilities-include-lhasa-tourist-service-center-namtso-scenic-spot-pot.md)
 _Context: Jokhang, Lhasa, Lhasa Tourist Service Center, Namtso Scenic Spot, Potala Palace_

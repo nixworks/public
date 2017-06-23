@@ -16,7 +16,7 @@ The U.S. apologized Wednesday for a recent helicopter attack that killed two Pak
 _Context: Sana'a, United Kingdom, Yemen, embassies_
 
 ### [President of the United States Barack Obama awards a Medal of Honor posthumously to Robert James Miller of the US Army Green Berets for "conspicuous gallantry ... at risk of life above and beyond the call of duty" while fighting in the War in Afghanistan on January 25, 2008. ](/news/2010/10/6/president-of-the-united-states-barack-obama-awards-a-medal-of-honor-posthumously-to-robert-james-miller-of-the-us-army-green-berets-for-con.md)
-_Context: Barack Obama, Medal of Honor, Robert James Miller, U.S. President, U.S. special forces, War in Afghanistan (2001-present)_
+_Context: Barack Obama, Medal of Honor, Robert James Miller, U.S. special forces, United States President, War in Afghanistan (2001-present)_
 
 ### [The 15th Pusan International Film Festival started in Pusan, South Korea. ](/news/2010/10/6/the-15th-pusan-international-film-festival-started-in-pusan-south-korea.md)
 _Context: Pusan, Pusan International Film Festival, South Korea_
@@ -76,10 +76,10 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 _Context: Birtukan Mideksa, Ethiopia, Unity for Democracy and Justice_
 
 ### [China's climate negotiator Xie Zhenhua states that the country's voluntary efforts supported by its own resources and technologies only accept "non-invasive" international consultation and analysis at the UNFCCC meeting in Tianjin, China. ](/news/2010/10/6/china-s-climate-negotiator-xie-zhenhua-states-that-the-country-s-voluntary-efforts-supported-by-its-own-resources-and-technologies-only-acce.md)
-_Context: China, Tianjin, UNFCCC, Xie Zhenhua, pro- and anti_
+_Context: Chinese, Tianjin, UNFCCC, Xie Zhenhua, pro- and anti_
 
 ### [China's gross domestic product (GDP) will grow by 10.5 percent in 2010 and 9.6 percent in 2011, ahead of other major economies, according to a report released by the International Monetary Fund. ](/news/2010/10/6/china-s-gross-domestic-product-gdp-will-grow-by-10-5-percent-in-2010-and-9-6-percent-in-2011-ahead-of-other-major-economies-according-to.md)
-_Context: China, GDP, International Monetary Fund_
+_Context: Chinese, GDP, International Monetary Fund_
 
 ### [Richard F. Heck, Ei-ichi Negishi and Akira Suzuki win the 2010 Nobel Prize in Chemistry for developing new ways of linking carbon atoms together. ](/news/2010/10/6/richard-f-heck-ei-ichi-negishi-and-akira-suzuki-win-the-2010-nobel-prize-in-chemistry-for-developing-new-ways-of-linking-carbon-atoms-toge.md)
 _Context: Akira Suzuki, Ei-ichi Negishi, Nobel Prize in Chemistry, Richard F. Heck, atom, carbon_

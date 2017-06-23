@@ -49,7 +49,7 @@ Foreign secretary asks that five men, who previously lived in the U.K. but are n
 Breaking News from Perth and Western Australia | Perth Now
 
 ### [ ''Fortune'' magazine lists Mexican businessman Carlos Slim as the richest man in the world ahead of Microsoft founder Bill Gates. ](/news/2007/08/7/fortune-magazine-lists-mexican-businessman-carlos-slim-as-the-richest-man-in-the-world-ahead-of-microsoft-founder-bill-gates.md)
-_Context: ''Fortune'' magazine, Bill Gates, Carlos Slim, Mexican, Microsoft_
+_Context: ''Fortune'' magazine, Bill Gates, Carlos Slim, Mexico, Microsoft_
 
 ### [ The Pakistan Army launches a strike on a militant base in the Degan area near Miranshah in North Waziristan. ](/news/2007/08/7/the-pakistan-army-launches-a-strike-on-a-militant-base-in-the-degan-area-near-miranshah-in-north-waziristan.md)
 _Context: Degan, Miranshah, Pakistan Army, Waziristan_
@@ -61,7 +61,7 @@ _Context: Vietnam, another tropical storm_
 The suspected militants were interrogated by the taskforce team at an undisclosed place soon after their arrest, a newspaper reported on Tuesday. 
 
 ### [ Chinese police arrest six protesters calling for a free Tibet by unfurling banners on the Great Wall of China. ](/news/2007/08/7/chinese-police-arrest-six-protesters-calling-for-a-free-tibet-by-unfurling-banners-on-the-great-wall-of-china.md)
-_Context: China, Great Wall of China, Tibet_
+_Context: Chinese, Great Wall of China, Tibet_
 
 ### [ Paul Calvert announces his resignation as President of the Australian Senate and as a Senator for Tasmania effective from next week. ](/news/2007/08/7/paul-calvert-announces-his-resignation-as-president-of-the-australian-senate-and-as-a-senator-for-tasmania-effective-from-next-week.md)
 _Context: Paul Calvert, President of the Australian Senate, Tasmania, federal representation in Australia_

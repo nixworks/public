@@ -28,7 +28,7 @@ _Context: Afghanistan, Operation Panther's Claw, United Kingdom_
 A bomb exploded outside a church in the southern Philippines during Sunday morning Mass, killing five people and wounding 45, &hellip;
 
 ### [ Mexico holds its legislative election. ](/news/2009/07/5/mexico-holds-its-legislative-election.md)
-_Context: Mexican, legislative election_
+_Context: Mexico, legislative election_
 
 ### [ A security operation is conducted to protect the personal details of British diplomat John Sawers. ](/news/2009/07/5/a-security-operation-is-conducted-to-protect-the-personal-details-of-british-diplomat-john-sawers.md)
 _Context: John Sawers, United Kingdom, diplomatic_

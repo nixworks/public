@@ -19,7 +19,7 @@ _Context: Miramshah, North Waziristan, Pakistan Army, War in North-West Pakistan
 The bodies of three Israeli teenagers who were kidnapped in the West Bank earlier this month have been found north of the city of Hebron, a source confirmed to ABC News today.
 
 ### [Mexican Army soldiers kill 22 criminals in a shootout at a warehouse in the town of Tlatlaya in central Mexico. ](/news/2014/06/30/mexican-army-soldiers-kill-22-criminals-in-a-shootout-at-a-warehouse-in-the-town-of-tlatlaya-in-central-mexico.md)
-_Context: Mexican, Mexican Army, Mexican Drug War, Tlatlaya_
+_Context: Mexican Army, Mexican Drug War, Mexico, Tlatlaya_
 
 ### [Two intense derechos move across the Upper Midwest from June 30th-July 1st producing many relatively weak tornadoes. Major flooding also occurred in Iowa due to this system.](/news/2014/06/30/two-intense-derechos-move-across-the-upper-midwest-from-june-30th-july-1st-producing-many-relatively-weak-tornadoes-major-flooding-also-occ.md)
 _Context: derechos_
@@ -28,7 +28,7 @@ _Context: derechos_
 _Context: Abraham Lincoln, Yosemite National Park_
 
 ### [The People's Republic of China jails 113 people in Xinjiang autonomous region for terrorism and other offences. ](/news/2014/06/30/the-people-s-republic-of-china-jails-113-people-in-xinjiang-autonomous-region-for-terrorism-and-other-offences.md)
-_Context: China, Xinjiang_
+_Context: Chinese, Xinjiang_
 
 ### [North Korea says it will put on trial two American tourists, Jeffrey Fowle and Michael Miller, for crimes against the state. ](/news/2014/06/30/north-korea-says-it-will-put-on-trial-two-american-tourists-jeffrey-fowle-and-michael-miller-for-crimes-against-the-state.md)
 min Park and James Pearson

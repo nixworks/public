@@ -7,7 +7,7 @@ Bolivia has become the first country in the history of South America to declare 
 _Context: 2008 South Ossetia war, Georgia, Russia_
 
 ### [ Several earthquakes, including one of 6.9 magnitude, hit northwestern Mexico. ](/news/2009/08/3/several-earthquakes-including-one-of-6-9-magnitude-hit-northwestern-mexico.md)
-_Context: Mexican, one of 6.9 magnitude_
+_Context: Mexico, one of 6.9 magnitude_
 
 ### [ Continental Airlines Flight 128, from Rio de Janeiro to Houston, makes an emergency landing in Miami after severe turbulence, injuring dozens. ](/news/2009/08/3/continental-airlines-flight-128-from-rio-de-janeiro-to-houston-makes-an-emergency-landing-in-miami-after-severe-turbulence-injuring-doze.md)
 _Context: Continental Airlines Flight 128, Houston, Miami, Rio de Janeiro_

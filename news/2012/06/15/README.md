@@ -28,7 +28,7 @@ Major Chinese dairy firm Yili has recalls some of its baby formula products afte
 A rare functioning Apple 1 computer sells for more than double the estimated price at an auction in New York.
 
 ### [2012 Pacific hurricane season:Hurricane Carlotta makes landfall on the coast of Mexico. ](/news/2012/06/15/2012-pacific-hurricane-season-phurricane-carlotta-makes-landfall-on-the-coast-of-mexico.md)
-_Context: 2012 Pacific hurricane season, Hurricane Carlotta, Mexican_
+_Context: 2012 Pacific hurricane season, Hurricane Carlotta, Mexico_
 
 ### [Canada and the U.S. state of Michigan announce a deal to construct a bridge between the U.S. city of Detroit and the Canadian city of Windsor, Ontario. ](/news/2012/06/15/canada-and-the-u-s-state-of-michigan-announce-a-deal-to-construct-a-bridge-between-the-u-s-city-of-detroit-and-the-canadian-city-of-windso.md)
 _Context: Detroit, Michigan, Windsor, Ontario, a bridge between_
@@ -37,7 +37,7 @@ _Context: Detroit, Michigan, Windsor, Ontario, a bridge between_
 Japanese police arrest the last fugitive of the Aum Shinrikyo cult wanted for the 1995 nerve gas attack on the Tokyo subway, ending a 17-year manhunt.
 
 ### [China suspends three officials and the government of Ankang city apologizes to a woman, Feng Jianmei, 23, who is forced to undergo an illegal abortion seven months into her pregnancy after graphic photos of the mother and her dead baby are circulated online. ](/news/2012/06/15/china-suspends-three-officials-and-the-government-of-ankang-city-apologizes-to-a-woman-feng-jianmei-23-who-is-forced-to-undergo-an-illega.md)
-_Context: Ankang city, China, Feng Jianmei_
+_Context: Ankang city, Chinese, Feng Jianmei_
 
 ### [Baker Atyani, ''Al Arabiya{{'}}s'' TV bureau chief for southeast Asia, disappears with four other people on the restive southern Philippine island of Jolo where Muslim militants are active. ](/news/2012/06/15/baker-atyani-al-arabiya-s-tv-bureau-chief-for-southeast-asia-disappears-with-four-other-people-on-the-restive-southern-philippine.md)
 _Context: Al Arabiya, Jolo, Southeast Asia_

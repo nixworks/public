@@ -16,7 +16,7 @@ _Context: 2014 India-Pakistan floods, Jammu and Kashmir_
 Forty people died after a building collapse at the megachurch of one of Nigeria&#039;s most famous preachers
 
 ### [Hurricane Odile reaches Category 4 strength as it nears Mexico's Baja California coast. ](/news/2014/09/14/hurricane-odile-reaches-category-4-strength-as-it-nears-mexico-s-baja-california-coast.md)
-_Context: 2014 Pacific hurricane season, Baja California, Hurricane Odile, Mexican_
+_Context: 2014 Pacific hurricane season, Baja California, Hurricane Odile, Mexico_
 
 ### [Typhoon Kalmaegi hits the northeast Philippines with warnings of potential floods and landslides. ](/news/2014/09/14/typhoon-kalmaegi-hits-the-northeast-philippines-with-warnings-of-potential-floods-and-landslides.md)
 _Context: 2014 Pacific typhoon season, Philippines, Typhoon Kalmaegi_

@@ -7,7 +7,7 @@ Clashes between a tribal militia and security forces in a province of central Co
 The Russian Foreign Ministry has criticized western leaders after none appeared to condemn the shelling of a mobile Russian hospital by militants in Syria. Two Russian medics were killed after around a dozen of shells hit the facility in Aleppo.
 
 ### [  Police report 14 suspected criminals, who attacked a police patrol, are killed in a  gunbattle with police and Mexican Marines in Veracruz, Mexico. An unknown number fled. ](/news/2016/12/5/police-report-14-suspected-criminals-who-attacked-a-police-patrol-are-killed-in-a-gunbattle-with-police-and-mexican-marines-in-veracruz.md)
-_Context: Mexican, Mexican Marines, Mexican war on drugs, Veracruz_
+_Context: Mexican Marines, Mexican war on drugs, Mexico, Veracruz_
 
 ### [Alaska Airlines cancels 20 flights into and out of Seattle due to inclement weather forecast in the Pacific Northwest area. ](/news/2016/12/5/alaska-airlines-cancels-20-flights-into-and-out-of-seattle-due-to-inclement-weather-forecast-in-the-pacific-northwest-area.md)
 _Context: Alaska Airlines, Pacific Northwest, Seattle_

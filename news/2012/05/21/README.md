@@ -16,7 +16,7 @@ _Context: Australia, Qantas_
 At least 11 people - most of them students - are killed and 22 injured when a bus falls off a cliff in southern Albania, officials say.
 
 ### [Four climbers from Canada, China, Germany and South Korea die whilst returning from the summit of Mount Everest; a Nepalese guide is missing. ](/news/2012/05/21/four-climbers-from-canada-china-germany-and-south-korea-die-whilst-returning-from-the-summit-of-mount-everest-a-nepalese-guide-is-missing.md)
-_Context: Canada, China, Germany, Mount Everest, Nepal, South Korea_
+_Context: Canada, Chinese, Germany, Mount Everest, Nepal, South Korea_
 
 ### [International Atomic Energy Agency (IAEA) director general Yukiya Amano begins talks in Tehran aimed at convincing the Iranian government to co-operate with the agency. ](/news/2012/05/21/international-atomic-energy-agency-iaea-director-general-yukiya-amano-begins-talks-in-tehran-aimed-at-convincing-the-iranian-government-to.md)
 First IAEA head to visit Tehran since 2009 is expected to seek inspection deal on alleged weapons sites.

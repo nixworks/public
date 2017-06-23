@@ -55,7 +55,7 @@ _Context: Abhisit Vejjajiva, House of Representatives, Prime Minister of Thailan
 Japanese prime minister vows to move country towards renewable energy after disaster-triggered Fukushima meltdown.
 
 ### [The President of the United States Barack Obama reportedly walks out of negotiations with Republican Party leaders on tackling debt and deficits as Moody's Investor Services warns of a potential loss of a AAA credit rating. ](/news/2011/07/13/the-president-of-the-united-states-barack-obama-reportedly-walks-out-of-negotiations-with-republican-party-leaders-on-tackling-debt-and-defi.md)
-_Context: Barack Obama, Moody's, R, U.S. President_
+_Context: Barack Obama, Moody's, R, United States President_
 
 ### [Two studies show that antiretroviral drugs taken to treat AIDS can also be used to prevent infection with HIV. ](/news/2011/07/13/two-studies-show-that-antiretroviral-drugs-taken-to-treat-aids-can-also-be-used-to-prevent-infection-with-hiv.md)
 Two studies in Africa show AIDS drugs taken daily can cut the chance of HIV infection by half.

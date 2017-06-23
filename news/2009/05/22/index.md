@@ -10,7 +10,7 @@ _Context: Haiti, flood_
 John Wick, the former SAS officer who blew the whistle on the MPs&rsquo; expenses scandal, speaks out for the first time to reveal why he decided to expose the system to its &ldquo;rotten core&rdquo;.
 
 ### [ A 5.7-magnitude earthquake strikes Chiautla de Tapia, Puebla, Mexico. ](/news/2009/05/22/a-5-7-magnitude-earthquake-strikes-chiautla-de-tapia-puebla-mexico.md)
-_Context: Chiautla de Tapia, Mexican, Puebla, earthquake, magnitude_
+_Context: Chiautla de Tapia, Mexico, Puebla, earthquake, magnitude_
 
 ### [ At least 36 people are killed as the Transitional Federal Government and Islamist militants battle in Mogadishu, Somalia. ](/news/2009/05/22/at-least-36-people-are-killed-as-the-transitional-federal-government-and-islamist-militants-battle-in-mogadishu-somalia.md)
 _Context: Mogadishu, Somalia, Transitional Federal Government, militant, radical Islamists, violence_

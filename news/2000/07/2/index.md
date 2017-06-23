@@ -4,7 +4,7 @@
 _Context: Cagayancillo, Cagayancillo Airport, GAF Nomad, Palawan, Philippine Air Force, Philippines, Salvatore Socrates, Santiago Madrid, Sulu Sea_
 
 ### [Vicente Fox is elected president of Mexico, as candidate of the rightist National Action Party, ending 71 years of Institutional Revolutionary Party rule.](/news/2000/07/2/vicente-fox-is-elected-president-of-mexico-as-candidate-of-the-rightist-national-action-party-ending-71-years-of-institutional-revolutiona.md)
-_Context: Institutional Revolutionary Party, Mexican, Mexican general election, 2000, National Action Party (PAN), Vicente Fox_
+_Context: Institutional Revolutionary Party, Mexican general election, 2000, Mexico, National Action Party (PAN), Vicente Fox_
 
 ## [Previous Day...](/news/2000/07/1/index.md)
 

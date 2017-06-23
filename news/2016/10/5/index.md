@@ -1,7 +1,7 @@
 ## [2016-10-5](/news/2016/10/5/index.md)
 
 ### [Mexican tequila producer Jose Cuervo will delay its IPO until after the U.S. presidential election due to concern over potential market volatility. ](/news/2016/10/5/mexican-tequila-producer-jose-cuervo-will-delay-its-ipo-until-after-the-u-s-presidential-election-due-to-concern-over-potential-market-vola.md)
-_Context: IPO, Jose Cuervo, Mexican, tequila_
+_Context: IPO, Jose Cuervo, Mexico, tequila_
 
 ### [Typhoon Chaba heads for western Japan with the islands of Shikoku and Kyushu experiencing heavy rainfall. ](/news/2016/10/5/typhoon-chaba-heads-for-western-japan-with-the-islands-of-shikoku-and-kyushu-experiencing-heavy-rainfall.md)
 At least three people have been killed as Typhoon Chaba batters South Korea.

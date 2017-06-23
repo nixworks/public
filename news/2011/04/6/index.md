@@ -46,7 +46,7 @@ Minister for Justice Alan Shatter has sought to reassure victims of sexual abuse
 _Context: 5th Circuit Court of Appeals, Enron, Jeff Skilling_
 
 ### [More than forty bodies are found in a mass grave in Mexico's Tamaulipas state. ](/news/2011/04/6/more-than-forty-bodies-are-found-in-a-mass-grave-in-mexico-s-tamaulipas-state.md)
-_Context: Mexican, Tamaulipas_
+_Context: Mexico, Tamaulipas_
 
 ### [The United States Senate defeated a measure that would have banned the Environmental Protection Agency from regulating greenhouse gas emissions under the Clean Air Act (United States). The new regulations which began being applied early this year affect air polluters such as power plants and oil refineries, attempts to address climate change mitigation. ](/news/2011/04/6/the-united-states-senate-defeated-a-measure-that-would-have-banned-the-environmental-protection-agency-from-regulating-greenhouse-gas-emissi.md)
 Efforts to curtail the environmental agency’s programs are not likely to end: Republican leaders are trying to attach similar measures to the budget bill.

@@ -25,7 +25,7 @@ _Context: Niger River_
 _Context: Pacific, Vanuatu, earthquake, tsunami_
 
 ### [Rescuers in China's Gansu province continue to search for 1,100 missing people in a recent landslide, as the death toll rises to 702. ](/news/2010/08/10/rescuers-in-china-s-gansu-province-continue-to-search-for-1-100-missing-people-in-a-recent-landslide-as-the-death-toll-rises-to-702.md)
-_Context: China, Gansu province, landslide_
+_Context: Chinese, Gansu province, landslide_
 
 ### [A de Havilland Canada DHC-3 Otter seaplane crashes near Aleknagik, Alaska, killing five people, including former U.S. Senator Ted Stevens. Former NASA Administrator Sean O'Keefe and O'Keefe's son were aboard the plane, but survived. ](/news/2010/08/10/a-de-havilland-canada-dhc-3-otter-seaplane-crashes-near-aleknagik-alaska-killing-five-people-including-former-u-s-senator-ted-stevens-f.md)
 _Context: Administrator, Aleknagik, NASA, Sean O'Keefe, Ted Stevens, United States Senate, crashes, de Havilland Canada DHC-3 Otter, seaplane_
@@ -49,7 +49,7 @@ Even as the United States proceeds this week to prosecute Omar Khadr, a child so
 _Context: Israel Defense Forces, Nablus, Tulkarm, West Bank_
 
 ### [The Supreme Court of Justice of the Nation rules same-sex marriages in Mexico City have to be recognised across Mexico. ](/news/2010/08/10/the-supreme-court-of-justice-of-the-nation-rules-same-sex-marriages-in-mexico-city-have-to-be-recognised-across-mexico.md)
-_Context: Mexican, Mexican Supreme Court, Mexico City, same-sex marriage_
+_Context: Mexican Supreme Court, Mexico, Mexico City, same-sex marriage_
 
 ### [Saudi Arabia permits the use of Blackberry devices for now, having previously considering banning them as they were unable to intercept and decrypt communications on that platform. ](/news/2010/08/10/saudi-arabia-permits-the-use-of-blackberry-devices-for-now-having-previously-considering-banning-them-as-they-were-unable-to-intercept-and.md)
 _Context: BlackBerry, Saudi Arabia_

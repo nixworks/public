@@ -13,7 +13,7 @@ _Context: Wragg Fire_
 _Context: Boeing 777, Indian Ocean, Malaysia Airlines Flight 370, Reunion_
 
 ### [At least 27 people are killed and 149 injured after a out of control truck runs into a religious procession in the Mexican state of Zacatecas. ](/news/2015/07/29/at-least-27-people-are-killed-and-149-injured-after-a-out-of-control-truck-runs-into-a-religious-procession-in-the-mexican-state-of-zacateca.md)
-_Context: Mexican, Zacatecas_
+_Context: Mexico, Zacatecas_
 
 ### [The Children's Hospital of Philadelphia announces that 8-year old Zion Harvey became the first pediatric patient to receive a double hand transplant earlier this month. ](/news/2015/07/29/the-children-s-hospital-of-philadelphia-announces-that-8-year-old-zion-harvey-became-the-first-pediatric-patient-to-receive-a-double-hand-tr.md)
 When Zion Harvey was a toddler, he developed a serious infection that resulted in the removal of his hands and feet. Zion has received the first dual hand transplant.

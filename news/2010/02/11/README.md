@@ -22,7 +22,7 @@ On the anniversary of the Islamic Revolution, Iran’s president sent forces ont
 _Context: Goldman Sachs, Sergey Aleynikov, trade secrets_
 
 ### [Former U.S. President Bill Clinton has two coronary stents implanted in his heart at the NewYork-Presbyterian Hospital in New York City, after chest pains. ](/news/2010/02/11/former-u-s-president-bill-clinton-has-two-coronary-stents-implanted-in-his-heart-at-the-newyorkapresbyterian-hospital-in-new-york-city-a.md)
-_Context: Bill Clinton, New York City, NewYork-Presbyterian Hospital, U.S. President, United States, coronary stent_
+_Context: Bill Clinton, New York City, NewYork-Presbyterian Hospital, United States, United States President, coronary stent_
 
 ### [Haiti announces that the 10 American missionaries accused of attempted kidnapping will be released from  custody. ](/news/2010/02/11/haiti-announces-that-the-10-american-missionaries-accused-of-attempted-kidnapping-will-be-released-from-custody.md)
 _Context: Haiti, United States_

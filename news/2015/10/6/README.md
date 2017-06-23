@@ -16,7 +16,7 @@ N&#x27;Djamena (AFP) - Boko Haram Islamists attacked Chadian soldiers on Tuesday
 The European Court of Justice examined the case of an Austrian citizen who claimed that his data, in light of revelations by Edward Snowden that U.S. agencies spied upon people in other nations, wasn&#39;t being adequately protected.
 
 ### [Sixteen campers are missing in south China's Guangxi Zhuang Autonomous Region following a flash flood in a camping reserve. ](/news/2015/10/6/sixteen-campers-are-missing-in-south-china-s-guangxi-zhuang-autonomous-region-following-a-flash-flood-in-a-camping-reserve.md)
-_Context: China, Flash flooding, Guangxi Zhuang Autonomous Region, Typhoon Mujigae (2015)_
+_Context: Chinese, Flash flooding, Guangxi Zhuang Autonomous Region, Typhoon Mujigae (2015)_
 
 ### [Thirteen people are reported to have died during this storm, 11 in South Carolina and two in North Carolina.  At least 18 dams have breached or failed  since Saturday. Communities downstream face a mass of water working its way toward the low-lying coast. ](/news/2015/10/6/thirteen-people-are-reported-to-have-died-during-this-storm-11-in-south-carolina-and-two-in-north-carolina-at-least-18-dams-have-breached.md)
 Get the latest breaking news across the U.S. on ABCNews.com

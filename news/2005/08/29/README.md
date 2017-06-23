@@ -10,7 +10,7 @@ _Context: Bob Carr, Helena Carr, John Brogden, Liberal Party, Member for Pittwat
 _Context: Atiku Abubakar, FBI, Maryland, Nigeria, Olusegun Obasanjo, President, anti-corruption_
 
 ### [ Countries of the European Union attempt to work out a deal to end the "bra wars", the Chinese textile import row. ](/news/2005/08/29/countries-of-the-european-union-attempt-to-work-out-a-deal-to-end-the-bra-wars-the-chinese-textile-import-row.md)
-_Context: China, European Union, bra wars, textile_
+_Context: Chinese, European Union, bra wars, textile_
 
 ## [Previous Day...](/news/2005/08/28/index.md)
 

@@ -16,7 +16,7 @@ _Context: LTTE, Selvarasa Pathmanathan, Thailand_
 Baitullah Mehsud was blamed for the assassination of Benazir Bhutto and scores of suicide bombings.
 
 ### [ Shootouts leave at least 11 dead in the escalating violence since Mexico's continuing national crackdown on the illegal drug trade. ](/news/2009/08/7/shootouts-leave-at-least-11-dead-in-the-escalating-violence-since-mexico-s-continuing-national-crackdown-on-the-illegal-drug-trade.md)
-_Context: Mexican, Mexican Drug War, Shootouts, anti-drug plan_
+_Context: Mexican Drug War, Mexico, Shootouts, anti-drug plan_
 
 ### [ Ronnie Biggs, one of the participants of the Great Train Robbery, is freed on medical grounds. ](/news/2009/08/7/ronnie-biggs-one-of-the-participants-of-the-great-train-robbery-is-freed-on-medical-grounds.md)
 _Context: Great Train Robbery, Ronnie Biggs_

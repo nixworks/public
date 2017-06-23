@@ -37,7 +37,7 @@ At least three crew members died when a cargo ship carrying cars sank after coll
 _Context: Belize, Guatemala, John McAfee_
 
 ### [Mexico's Supreme Court of Justice of the Nation rules that a ban on same-sex marriage in Oaxaca state is illegal. ](/news/2012/12/5/mexico-s-supreme-court-of-justice-of-the-nation-rules-that-a-ban-on-same-sex-marriage-in-oaxaca-state-is-illegal.md)
-_Context: Mexican, Mexican Supreme Court, Oaxaca, same-sex marriage_
+_Context: Mexican Supreme Court, Mexico, Oaxaca, same-sex marriage_
 
 ### [London's King Edward VII's Hospital says it is reviewing telephone protocol after two disc jockeys from a Sydney-based radio station, 2Day FM made a prank call to the hospital in which they posed as Queen Elizabeth and Prince Charles, and spoke with a member of nursing staff about the health of the Duchess of Cambridge. ](/news/2012/12/5/london-s-king-edward-vii-s-hospital-says-it-is-reviewing-telephone-protocol-after-two-disc-jockeys-from-a-sydney-based-radio-station-2day-f.md)
 The hospital treating the pregnant Duchess of Cambridge says it &quot;deeply regrets&quot; giving information about her to hoax callers from a radio station.

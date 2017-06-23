@@ -1,7 +1,7 @@
 ## [2005-10-2](/news/2005/10/2/index.md)
 
 ### [ Mexico wins the FIFA U-17 Men's Championship 2005 in Lima, Peru, beating Brazil 3-0 ](/news/2005/10/2/mexico-wins-the-fifa-u-17-men-s-championship-2005-in-lima-peru-beating-brazil-3-0.md)
-_Context: Brazil, FIFA U-17 Men's Championship, Lima, Mexican, Peru_
+_Context: Brazil, FIFA U-17 Men's Championship, Lima, Mexico, Peru_
 
 ### [ Severely injured victims of the 2005 Bali bombings are being evacuated to medical facilities in Australia and Singapore. The Australian Government has made moves to assist Indonesia in its response, dispatching Australian Federal Police officers and forensic experts to assist in investigations. ](/news/2005/10/2/severely-injured-victims-of-the-2005-bali-bombings-are-being-evacuated-to-medical-facilities-in-australia-and-singapore-the-australian-gov.md)
 _Context: Australia, Australia's government, Bali bombings, Indonesia, Singapore, police_

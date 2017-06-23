@@ -16,7 +16,7 @@ Turing Pharmaceuticals said on Tuesday it is seeking a new chief executive to re
 An aircraft crashed into a wall and burst into flames in Dwarka area, on the outskirts of New Delhi, on Tuesday, killing all 10 people on board, officials said.
 
 ### [At least 30 people are injured from an explosion at a gas pipeline near Villahermosa, Mexico. ](/news/2015/12/22/at-least-30-people-are-injured-from-an-explosion-at-a-gas-pipeline-near-villahermosa-mexico.md)
-_Context: Mexican, Villahermosa, pipeline_
+_Context: Mexico, Villahermosa, pipeline_
 
 ### [Turkey's state-run Anadolu Agency reports 11 migrants, including three children, drowned, and the Turkish coast guard rescued seven Syrians from a capsized boat headed to the Greek island of Samos. ](/news/2015/12/22/turkey-s-state-run-anadolu-agency-reports-11-migrants-including-three-children-drowned-and-the-turkish-coast-guard-rescued-seven-syrians.md)
 _Context: Anadolu News Agency, European migrant crisis, Greece, Samos, Syrian, Turkey, Turkish Coast Guard, migrants_

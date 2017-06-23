@@ -16,7 +16,7 @@ _Context: Charles Durning, New York City, Oscar award, U.S._
 A band of rain sweeping the UK brings fresh flooding to south-west England and Scotland, with train services disrupted.
 
 ### [A minivan carrying 15 children to kindergarten plunges into a roadside pond in a rural area of eastern China, killing 11 children. ](/news/2012/12/24/a-minivan-carrying-15-children-to-kindergarten-plunges-into-a-roadside-pond-in-a-rural-area-of-eastern-china-killing-11-children.md)
-_Context: China, kindergarten, minivan, rural area_
+_Context: Chinese, kindergarten, minivan, rural area_
 
 ### [The Government of Pakistan decides to accord recognition to the Republic of Kosovo. ](/news/2012/12/24/the-government-of-pakistan-decides-to-accord-recognition-to-the-republic-of-kosovo.md)
 Pakistan becomes the 98th state to formally recognise Kosovo as an independent country.

@@ -13,7 +13,7 @@ Pro- and anti-government demonstrators hold rallies as Saleh gives guarded welco
 Nine people are arrested and eight police officers hurt during violent clashes sparked by a raid on opponents of a new Tesco store in Bristol.
 
 ### [A farmer in Los Pozos, Veracruz, Mexico opens fire outside a local church after its Good Friday sermon, killing a woman and two children. ''[http://www.wlos.com/template/inews_wire/wires.international/3f78254a-www.wlos.com.shtml (WLOS)]''](/news/2011/04/22/a-farmer-in-los-pozos-veracruz-mexico-opens-fire-outside-a-local-church-after-its-good-friday-sermon-killing-a-woman-and-two-children.md)
-_Context: Los Pozos, Mexican, Veracruz_
+_Context: Los Pozos, Mexico, Veracruz_
 
 ### [Good Friday celebrations occur internationally. ](/news/2011/04/22/good-friday-celebrations-occur-internationally.md)
 Christian pilgrims crowd the cobblestone alleyways of Jerusalem&#039;s Old City to mark Good Friday.

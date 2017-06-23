@@ -26,7 +26,7 @@ Seven churches, a power station and an elementary school are also razed. The reg
 _Context: BP, Deepwater Horizon, Deepwater Horizon oil spill, Tony Hayward, U.S. Congress_
 
 ### [2010 Kyrgyzstan crisis and 2010 South Kyrgyzstan riots:Around 2,000 people mass in Osh Airport.China flies 960 nationals home from Kyrgyzstan; evacuation continues. ](/news/2010/06/17/2010-kyrgyzstan-crisis-and-2010-south-kyrgyzstan-riots-paround-2-000-people-mass-in-osh-airport-pchina-flies-960-nationals-home-from-kyrgyzs.md)
-_Context: China, Osh Airport, ethnic riots, the ongoing crisis_
+_Context: Chinese, Osh Airport, ethnic riots, the ongoing crisis_
 
 ### [Israeli-Palestinian conflict:Israel's decision to ease the Gaza blockade is welcomed by the United Nations and the United States; Gaza's Hamas rulers say this is propaganda by Israel. ](/news/2010/06/17/israeliapalestinian-conflict-pisrael-s-decision-to-ease-the-gaza-blockade-is-welcomed-by-the-united-nations-and-the-united-states-gaza-s.md)
 US State Department says Israeli decision &#39;positive,&#39; but wants to see &#39;expansion of scope and types of goods allowed into Strip.&#39; Ban hopes measure &#39;real step towards meeting Gazans&#39; needs&#39; 

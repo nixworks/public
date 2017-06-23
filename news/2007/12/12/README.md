@@ -1,7 +1,7 @@
 ## [2007-12-12](/news/2007/12/12/index.md)
 
 ### [ United States President George W. Bush vetos an expansion of the federally funded, State Children's Health Insurance Program for the second time. ](/news/2007/12/12/united-states-president-george-w-bush-vetos-an-expansion-of-the-federally-funded-state-children-s-health-insurance-program-for-the-second.md)
-_Context: George W. Bush, State Children's Health Insurance Program, U.S. President, United States, vetos_
+_Context: George W. Bush, State Children's Health Insurance Program, United States, United States President, vetos_
 
 ### [ The International Olympic Committee strips sprinter Marion Jones of five medals from the 2000 Summer Olympics after she admits to having taken banned substances. ](/news/2007/12/12/the-international-olympic-committee-strips-sprinter-marion-jones-of-five-medals-from-the-2000-summer-olympics-after-she-admits-to-having-ta.md)
 The International Olympic Committee ended the once stellar Olympic career of U.S. sprinter Marion Jones on Wednesday, taking back her five Sydney 2000 Games medals after she admitted to taking drugs.

@@ -7,7 +7,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ In Mexico, supreme court rules that former president Luis Echeverria can be charged with human rights violations connected to 1971 deaths of student activists ](/news/2005/06/15/in-mexico-supreme-court-rules-that-former-president-luis-echeverraa-can-be-charged-with-human-rights-violations-connected-to-1971-deaths.md)
-_Context: Human rights, Luis Echeverria, Mexican_
+_Context: Human rights, Luis Echeverria, Mexico_
 
 ### [ Microsoft is criticized for censoring Chinese blogs. They are accused of censoring words such as "freedom", "democracy", and "human rights". ](/news/2005/06/15/microsoft-is-criticized-for-censoring-chinese-blogs-they-are-accused-of-censoring-words-such-as-freedom-democracy-and-human-rights.md)
 _Context: Microsoft, People's Republic of China_

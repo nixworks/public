@@ -10,13 +10,13 @@ _Context: Abdullahi Yusuf Ahmed, President, Somalia, assassinated_
 _Context: British Parliament, Treaty of Lisbon_
 
 ### [ The United States and China agree to negotiate an investment treaty and to cooperate more closely on energy security and global pollution. ](/news/2008/06/18/the-united-states-and-china-agree-to-negotiate-an-investment-treaty-and-to-cooperate-more-closely-on-energy-security-and-global-pollution.md)
-_Context: China, United States, energy security_
+_Context: Chinese, United States, energy security_
 
 ### [ The European Parliament passes legislation to allow undocumented aliens to be held in detention centres for up to 18 months and banned from European Union territory for five years. ](/news/2008/06/18/the-european-parliament-passes-legislation-to-allow-undocumented-aliens-to-be-held-in-detention-centres-for-up-to-18-months-and-banned-from.md)
 Lawmakers voted to allow undocumented migrants to be held in detention centers for up to 18 months and banned from European Union territory for five years.
 
 ### [ Mexico reaches an agreement with industry groups to fix the prices of 150 food items as a result of accelerating inflation. ](/news/2008/06/18/mexico-reaches-an-agreement-with-industry-groups-to-fix-the-prices-of-150-food-items-as-a-result-of-accelerating-inflation.md)
-_Context: Mexican_
+_Context: Mexico_
 
 ### [ Sudan and former southern rebels start deploying joint forces in the troubled Abyei region as part of an agreement. ](/news/2008/06/18/sudan-and-former-southern-rebels-start-deploying-joint-forces-in-the-troubled-abyei-region-as-part-of-an-agreement.md)
 _Context: Abyei, Sudan_

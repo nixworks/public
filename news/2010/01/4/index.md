@@ -10,7 +10,7 @@ _Context: Harry Reid, John Ensign, Las Vegas, Nevada, Lloyd D. George Federal Di
 _Context: Burj Khalifa, Dubai, UAE, tallest structure in the world_
 
 ### [A representation of President of the United States Barack Obama is found hanging by a noose with the epitaph "Plains, Georgia. Home of Jimmy Carter, our 39th President". ](/news/2010/01/4/a-representation-of-president-of-the-united-states-barack-obama-is-found-hanging-by-a-noose-with-the-epitaph-plains-georgia-home-of-jimmy.md)
-_Context: Barack Obama, Jimmy Carter, Plains, Georgia, U.S. President, United States, epitaph_
+_Context: Barack Obama, Jimmy Carter, Plains, Georgia, United States, United States President, epitaph_
 
 ### [At least 500 homes are damaged after a 7.2 magnitude earthquake hits the Solomon Islands. ](/news/2010/01/4/at-least-500-homes-are-damaged-after-a-7-2-magnitude-earthquake-hits-the-solomon-islands.md)
 _Context: Solomon Islands_

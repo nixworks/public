@@ -31,7 +31,7 @@ The Maldives has left the Commonwealth, claiming it was &quot;unfairly and unjus
 UNITED NATIONS—The U.N. General Assembly on Thursday officially appointed António Guterres of Portugal as its next secretary-general as he pledged to combat terrorism and extremism while also fighting “xenophobia” and populism.
 
 ### [Scottish leader Nicola Sturgeon will introduce a bill launching a new referendum to determine the final status of the country. ](/news/2016/10/13/scottish-leader-nicola-sturgeon-will-introduce-a-bill-launching-a-new-referendum-to-determine-the-final-status-of-the-country.md)
-_Context: Brexit, Nicola Sturgeon, Proposed second Scottish independence referendum, country_
+_Context: Nicola Sturgeon, Proposed second Scottish independence referendum, country, the UK leaves the EU_
 
 ### [Cyberthieves inject 5,925 online web retailers with website software malicious code that is stealing the credit card details of customers. ](/news/2016/10/13/cyberthieves-inject-5-925-online-web-retailers-with-website-software-malicious-code-that-is-stealing-the-credit-card-details-of-customers.md)
 Almost 6,000 web shops are unknowingly harbouring malicious code that is stealing the credit card details of customers, suggests research.

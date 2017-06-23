@@ -31,7 +31,7 @@ Wells Fargo & Co, the fourth-largest U.S. bank by assets, is looking tomove some
 _Context: Ecuador, Julian Assange, WikiLeaks_
 
 ### [South China Sea dispute:China criticizes Vietnam for passing a law that claims sovereignty of the Spratly Islands. ](/news/2012/06/22/south-china-sea-dispute-pchina-criticizes-vietnam-for-passing-a-law-that-claims-sovereignty-of-the-spratly-islands.md)
-_Context: China, South China Sea dispute, Spratly Islands, Vietnam_
+_Context: Chinese, South China Sea dispute, Spratly Islands, Vietnam_
 
 ### [Ugandan ethics minister Simon Lokodo signs a government statement saying that it does not discriminate against homosexuals and that they are free to meet. ](/news/2012/06/22/ugandan-ethics-minister-simon-lokodo-signs-a-government-statement-saying-that-it-does-not-discriminate-against-homosexuals-and-that-they-are.md)
 _Context: Simon Lokodo, Uganda, homosexual_

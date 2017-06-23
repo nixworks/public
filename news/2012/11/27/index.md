@@ -10,7 +10,7 @@ Gunmen reportedly dressed as soldiers indiscriminately open fire on customers in
 * EU-IMF agree on cutting Greek debt-to-GDP level* Aim is to reduce Greek debt to 124 percent of GDP by 2020* Interest on loans to be cut, ma
 
 ### [A Chinese-made training airplane K-8 crashes during an air force flying exhibition in Venezuela, the two pilots ejected successfully. The French-made military helicopter Cougar sent to rescue the pilots also crashes, no one is injured. ](/news/2012/11/27/a-chinese-made-training-airplane-k-8-crashes-during-an-air-force-flying-exhibition-in-venezuela-the-two-pilots-ejected-successfully-the-fr.md)
-_Context: China, Cougar, France, K-8, Venezuela_
+_Context: Chinese, Cougar, France, K-8, Venezuela_
 
 ### [The UK government is to create a new wave of universities both in the private and public sector, the first new universities in the country for two decades. ](/news/2012/11/27/the-uk-government-is-to-create-a-new-wave-of-universities-both-in-the-private-and-public-sector-the-first-new-universities-in-the-country-f.md)
 About a dozen &quot;new&quot; universities are set to be created in England - as specialist institutions are granted university status.
@@ -25,7 +25,7 @@ _Context: Aung San Suu Kyi, Barack Obama, Bill Clinton, Bill Gates, Foreign Poli
 The remains of Palestinian leader Yasser Arafat are exhumed in Ramallah so experts can investigate allegations that he was poisoned.
 
 ### [Mexican  beauty queen Maria Susana Flores Gamez, crowned as 2012 Woman of Sinaloa, is killed during a weekend shootout in Sinaloa, Mexico. ](/news/2012/11/27/mexican-beauty-queen-maraa-susana-flores-ga-mez-crowned-as-2012-woman-of-sinaloa-is-killed-during-a-weekend-shootout-in-sinaloa-mexico.md)
-_Context: Mexican, Mexican, Sinaloa, beauty queen_
+_Context: Mexican, Mexico, Sinaloa, beauty queen_
 
 ### [Tens of thousands of protestors demonstrate in Tahrir Square in Cairo against Egyptian President Mohamed Morsi for last week's decree granting himself sweeping powers. ](/news/2012/11/27/tens-of-thousands-of-protestors-demonstrate-in-tahrir-square-in-cairo-against-egyptian-president-mohamed-morsi-for-last-week-s-decree-granti.md)
 Tens of thousands of Egyptians take part in a rally in Cairo against President Mohammed Mursi, who last week granted himself sweeping new powers.

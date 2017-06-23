@@ -25,7 +25,7 @@ _Context: Ecuador, Muisne, earthquake_
 A B-52 crashed around 8:30 a.m. Thursday on Andersen AFB&#39;s flight line. 
 
 ### [China stages joint war games featuring mock beach landing, helicopter assaults and tank battles along its east coast, just days before the inauguration of Taiwanese president Tsai Ing-Wen. ](/news/2016/05/18/china-stages-joint-war-games-featuring-mock-beach-landing-helicopter-assaults-and-tank-battles-along-its-east-coast-just-days-before-the-i.md)
-_Context: China, Cross-Strait relations, Taiwan, Tsai Ing-wen, military exercise_
+_Context: Chinese, Cross-Strait relations, Taiwan, Tsai Ing-wen, military exercise_
 
 ### [ Michelle Lodzinski is convicted of murdering her five-year-old son Timothy Wiltsey 25 years ago in New Jersey. ](/news/2016/05/18/michelle-lodzinski-is-convicted-of-murdering-her-five-year-old-son-timothy-wiltsey-25-years-ago-in-new-jersey.md)
 _Context: New Jersey, Timothy Wiltsey_

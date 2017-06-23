@@ -49,7 +49,7 @@ JUBA, Apr 12 - Sudan&#039;s President Omar al-Bashir will visit South Sudan Frid
 The Obama administration imposed sanctions on about two dozen Russians under a new law that has soured ties with Moscow, but avoided targeting many high-level government figures.
 
 ### [A representative from the Vietnamese Foreign Ministry's National Boundary Commission hands over a diplomatic note to a representative of the Chinese Embassy in Hanoi to protest China's recent plan to bring tourists to the disputed Paracel archipelago. ](/news/2013/04/12/a-representative-from-the-vietnamese-foreign-ministryas-national-boundary-commission-hands-over-a-diplomatic-note-to-a-representative-of-t.md)
-_Context: China, Chinese Embassy, Foreign Ministry, Hanoi, Paracel Islands, Vietnam, archipelago, tourists_
+_Context: Chinese, Chinese Embassy, Foreign Ministry, Hanoi, Paracel Islands, Vietnam, archipelago, tourists_
 
 ### [India's Supreme Court clears the way for the execution of Devinder Pal Singh Bhullar, a Sikh militant, rejecting his appeal for his sentence to be commuted to life imprisonment. ](/news/2013/04/12/india-s-supreme-court-clears-the-way-for-the-execution-of-devinder-pal-singh-bhullar-a-sikh-militant-rejecting-his-appeal-for-his-sentence.md)
 _Context: Devinder Pal Singh Bhullar, India, Khalistan Liberation Force, Sikh, Supreme Court of India, death, life imprisonment_

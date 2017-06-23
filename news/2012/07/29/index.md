@@ -19,7 +19,7 @@ _Context: Islamist, UAE, dissidents_
 _Context: Japan, Tokyo, parliament_
 
 ### [Thousands of people protest against plans to introduce national patriotism lessons in Hong Kong schools, calling it Chinese propaganda. ](/news/2012/07/29/thousands-of-people-protest-against-plans-to-introduce-national-patriotism-lessons-in-hong-kong-schools-calling-it-chinese-propaganda.md)
-_Context: China, Hong Kong_
+_Context: Chinese, Hong Kong_
 
 ### [Voters in Romania go to the polls for an impeachment referendum against the President of Romania Traian Basescu. ](/news/2012/07/29/voters-in-romania-go-to-the-polls-for-an-impeachment-referendum-against-the-president-of-romania-traian-basescu.md)
 Turnout of less than 50% means Romanian President Traian Basescu survives a strong vote against him in a referendum on his impeachment.

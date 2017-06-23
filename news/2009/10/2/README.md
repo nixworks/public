@@ -28,7 +28,7 @@ Around 50 activists of a Tamil outfit on Friday barged into the office of Sri La
 _Context: Facebook, Pakistan, Taliban, social network_
 
 ### [ Mexican authorities claim to have made their largest-ever seizure of chemicals used in the manufacture of the synthetic drug methamphetamine. ](/news/2009/10/2/mexican-authorities-claim-to-have-made-their-largest-ever-seizure-of-chemicals-used-in-the-manufacture-of-the-synthetic-drug-methamphetamin.md)
-_Context: Mexican, methamphetamine_
+_Context: Mexico, methamphetamine_
 
 ### [  Thousands of people are evacuated as Typhoon Parma approaches the Philippines. ](/news/2009/10/2/thousands-of-people-are-evacuated-as-typhoon-parma-approaches-the-philippines.md)
 Philippine Islands President Gloria Arroyo has declared a &quot;state of calamity&quot; th..

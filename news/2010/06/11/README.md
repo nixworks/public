@@ -8,7 +8,7 @@ _Context: 13th, Academy Award, Canada, Chinese cinema, Germany, Ireland, Italy, 
 Thousands flee homes in southern region as ethnic unrest leaves more than 600 wounded.
 
 ### [Mexico - United States relations:Univision airs video footage of the U.S. agent who fatally shot a Mexican boy on Monday. ](/news/2010/06/11/mexico-a-united-states-relations-punivision-airs-video-footage-of-the-u-s-agent-who-fatally-shot-a-mexican-boy-on-monday.md)
-_Context: Mexican, Mexico - United States relations, United States, Univision's_
+_Context: Mexico, Mexico - United States relations, United States, Univision's_
 
 ### [Politics of Japan:Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/politics-of-japan-pjapanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md)
 _Context: Japan, Naoto Kan, Politics of Japan, Prime Minister_

@@ -25,7 +25,7 @@ Envoys in Beijing on Wednesday worked towards a deal to press North Korea to dis
 _Context: Iraq War, US Senate, bill that would have required withdrawal of all US troops_
 
 ### [ As China struggles to deal with flooding in the provinces of Sichuan, Guizhou, Anhui, Hubei, and Jiangsu, the city of Chongqing is hit with the largest rainstorm in the city's meteorological records, killing 32. 12 people are reported missing. The city's transportation network has been shut down completely. ](/news/2007/07/18/as-china-struggles-to-deal-with-flooding-in-the-provinces-of-sichuan-guizhou-anhui-hubei-and-jiangsu-the-city-of-chongqing-is-hit-with.md)
-_Context: Anhui, China, Chongqing, Guizhou, Hubei, Jiangsu, Sichuan, flooding_
+_Context: Anhui, Chinese, Chongqing, Guizhou, Hubei, Jiangsu, Sichuan, flooding_
 
 ## [Previous Day...](/news/2007/07/17/index.md)
 

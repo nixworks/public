@@ -7,7 +7,7 @@ Violent clashes erupt in Bangladesh as protesters stage a nationwide blockade of
 A killer typhoon is set to make landfall in the Philippines for a second time, sparking flooding fears.
 
 ### [The wreckage of a plane carrying Mexican-American singer Jenni Rivera with two pilots and four other passengers is found in northern Mexico with no apparent survivors. ](/news/2012/12/9/the-wreckage-of-a-plane-carrying-mexican-american-singer-jenni-rivera-with-two-pilots-and-four-other-passengers-is-found-in-northern-mexico.md)
-_Context: Jenni Rivera, Mexican, Mexican-American, wreckage of a plane_
+_Context: Jenni Rivera, Mexican-American, Mexico, wreckage of a plane_
 
 ### [Thirteen people are killed and 10 are injured in Hsinchu County, Taiwan, when a bus with 23 people on board rolled off a cliff and tumbled over 100 meters. ](/news/2012/12/9/thirteen-people-are-killed-and-10-are-injured-in-hsinchu-county-taiwan-when-a-bus-with-23-people-on-board-rolled-off-a-cliff-and-tumbled-o.md)
 _Context: Hsinchu County, Taiwan, bus_
@@ -16,10 +16,10 @@ _Context: Hsinchu County, Taiwan, bus_
 _Context: Chimaltenango, Guatemala, bus, gorge_
 
 ### [Police in Vietnam break up anti-China protests over gas and oil claims in the South China Sea. ](/news/2012/12/9/police-in-vietnam-break-up-anti-china-protests-over-gas-and-oil-claims-in-the-south-china-sea.md)
-_Context: China, South China Sea, Vietnam_
+_Context: Chinese, South China Sea, Vietnam_
 
 ### [A Tibetan monk is arrested by Chinese authorities, accused of inciting self-immolation protests against Chinese rule. ](/news/2012/12/9/a-tibetan-monk-is-arrested-by-chinese-authorities-accused-of-inciting-self-immolation-protests-against-chinese-rule.md)
-_Context: China, Tibet, protest, sets herself alight_
+_Context: Chinese, Tibet, protest, sets herself alight_
 
 ### [Detectives from Scotland Yard contact police in Australia over the apparent suicide of Jacintha Saldanha. ](/news/2012/12/9/detectives-from-scotland-yard-contact-police-in-australia-over-the-apparent-suicide-of-jacintha-saldanha.md)
 Scotland Yard contacts Australian police over the apparent suicide of a nurse from the hospital where the pregnant Duchess of Cambridge was treated.
