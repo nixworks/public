@@ -6,6 +6,9 @@ _Context: Helmand Province, Lashkargah, New Kabul Bank, Taliban, War in Afghanis
 ### [United States President Donald Trump plans on adding solar panels to his proposed border wall with Mexico. ](/news/2017/06/22/united-states-president-donald-trump-plans-on-adding-solar-panels-to-his-proposed-border-wall-with-mexico.md)
 Attaching solar panels to a wall along the Mexican border will cut costs, the US president tells a rally.
 
+### [In a vote at the United Nations General Assembly, 94 states support a Mauritius-sponsored resolution to seek an advisory opinion from the International Court of Justice on the legal status of the disputed Chagos Archipelago. ](/news/2017/06/22/in-a-vote-at-the-united-nations-general-assembly-94-states-support-a-mauritius-sponsored-resolution-to-seek-an-advisory-opinion-from-the-in.md)
+Mauritius supported by 94 nations in move to consult The Hague over colonial hold of Indian Ocean territory by British
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
