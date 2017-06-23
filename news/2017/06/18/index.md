@@ -27,6 +27,9 @@ Who doesn’t love logging on to the good old ‘net on a Friday morning to the 
 ### [A North Korean soldier defects to South Korea after swimming across the Han River, the second North Korean defection in a week. ](/news/2017/06/18/a-north-korean-soldier-defects-to-south-korea-after-swimming-across-the-han-river-the-second-north-korean-defection-in-a-week.md)
 The man swam with foam attached to his shoulders to help him stay afloat, officials say.
 
+### [The body of a teenager from Reston, Virginia is found in a pond in Sterling, Virginia. A suspect is arrested and charged with murder. ](/news/2017/06/18/the-body-of-a-teenager-from-reston-virginia-is-found-in-a-pond-in-sterling-virginia-a-suspect-is-arrested-and-charged-with-murder.md)
+Fairfax County Police said they are not investigating the attack as a hate crime.
+
 ### [Voters in France return to the polls for the second round of a legislative election, with 573 of 577 seats in the National Assembly yet to be decided after the first round. ](/news/2017/06/18/voters-in-france-return-to-the-polls-for-the-second-round-of-a-legislative-election-with-573-of-577-seats-in-the-national-assembly-yet-to-b.md)
 The French are voting Sunday for the fourth time in two months and the main outstanding question is just how big a majority they will hand President Emmanuel Macron.
 
