@@ -1,6 +1,6 @@
 ## [2017-06-21](/news/2017/06/21/index.md)
 
-### [Maute rebels storm a school in Pigcawayan, North Cotabato, Philippines,  and take civilians hostage. ](/news/2017/06/21/maute-rebels-storm-a-school-in-pigcawayan-north-cotabato-philippines-and-take-civilians-hostage.md)
+### [Bangsamoro Islamic Freedom Fighters rebels storm a school in Pigcawayan, North Cotabato, Philippines,  and take civilians hostage. ](/news/2017/06/21/bangsamoro-islamic-freedom-fighters-rebels-storm-a-school-in-pigcawayan-north-cotabato-philippines-and-take-civilians-hostage.md)
 Pro-Islamic State militants have stormed a town and occupied a school in the southern Philippines.
 
 ### [ISIL militants reportedly blow up the Great Mosque of al-Nuri in Mosul, where Abu Bakr al-Baghdadi famously proclaimed the creation of a caliphate in 2014. ISIL blames a U.S. airstrike as a cover up. ](/news/2017/06/21/isil-militants-reportedly-blow-up-the-great-mosque-of-al-nuri-in-mosul-where-abu-bakr-al-baghdadi-famously-proclaimed-the-creation-of-a-cal.md)
