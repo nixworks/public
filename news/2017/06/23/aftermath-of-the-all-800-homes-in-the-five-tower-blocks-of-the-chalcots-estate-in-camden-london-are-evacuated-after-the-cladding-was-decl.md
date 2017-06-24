@@ -1,6 +1,6 @@
 ### [2017-06-23](/news/2017/06/23/index.md)
 
-# Aftermath of the All 800 homes in the five tower blocks of the Chalcots Estate, in Camden, London, are evacuated after the cladding was declared to have failed fire safety tests.
+# Aftermath of the All 800 homes in the five tower blocks of the Chalcots Estate, in Camden, London, are evacuated after the cladding was declared to have failed fire safety tests. 
 
 The move follows news that similar cladding was used on the Chalcots Estate to that which spread the recent fire in Kensington.
 

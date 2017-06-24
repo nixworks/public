@@ -6,7 +6,7 @@ Suicide attack near provincial police chief&#39;s office kills at least 12 peopl
 ### [Five people are killed after being electrocuted at a water park in Akyazi, Turkey. ](/news/2017/06/23/five-people-are-killed-after-being-electrocuted-at-a-water-park-in-akyaza-turkey.md)
 Three children, and two adults who tried to rescue them, die at a water park in north-west Turkey.
 
-### [Aftermath of the All 800 homes in the five tower blocks of the Chalcots Estate, in Camden, London, are evacuated after the cladding was declared to have failed fire safety tests.](/news/2017/06/23/aftermath-of-the-all-800-homes-in-the-five-tower-blocks-of-the-chalcots-estate-in-camden-london-are-evacuated-after-the-cladding-was-decl.md)
+### [Aftermath of the All 800 homes in the five tower blocks of the Chalcots Estate, in Camden, London, are evacuated after the cladding was declared to have failed fire safety tests. ](/news/2017/06/23/aftermath-of-the-all-800-homes-in-the-five-tower-blocks-of-the-chalcots-estate-in-camden-london-are-evacuated-after-the-cladding-was-decl.md)
 The move follows news that similar cladding was used on the Chalcots Estate to that which spread the recent fire in Kensington.
 
 ### [A Belgian court condemns an United Arab Emirates princess and her seven daughters to a fine and a suspended sentence, for human trafficking and mistreatment of their servants at a Brussels luxury hotel in 2008. ](/news/2017/06/23/a-belgian-court-condemns-an-united-arab-emirates-princess-and-her-seven-daughters-to-a-fine-and-a-suspended-sentence-for-human-trafficking.md)

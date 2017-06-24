@@ -12,7 +12,7 @@ A U.S. airstrike on Friday killed four Islamic State fighters in western Iraq, i
 ### [The Panama Papers go online at the International Consortium of Investigative Journalists website. ](/news/2016/05/9/the-panama-papers-go-online-at-the-international-consortium-of-investigative-journalists-website.md)
 The Panama Papers affair widens, with a huge database of documents relating to more than 200,000 offshore accounts posted online.
 
-### [At least seven people are killed and 30 injured in a bus accident in Ranchi, the capital of the Indian state of Jharkand. ](/news/2016/05/9/at-least-seven-people-are-killed-and-30-injured-in-a-bus-accident-in-ranchi-the-capital-of-the-indian-state-of-jharkand.md)
+### [At least seven people are killed and 30 injured in a bus accident in Ranchi, the capital of the Indian state of Jharkhand. ](/news/2016/05/9/at-least-seven-people-are-killed-and-30-injured-in-a-bus-accident-in-ranchi-the-capital-of-the-indian-state-of-jharkhand.md)
 Seven persons were today killed and 30 others injured after a bus overturned near Silli, near Ranchi, police said.
 
 ### [The death toll from yesterday's landslide in Taining County in China's Fujian province rises to 14 with 25 still missing, ](/news/2016/05/9/the-death-toll-from-yesterday-s-landslide-in-taining-county-in-china-s-fujian-province-rises-to-14-with-25-still-missing.md)
