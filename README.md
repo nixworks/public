@@ -1,5 +1,8 @@
 ## [News](/news/2017/06/24/index.md)
 
+### [An early-morning landslide buries 40 homes and leaves 100 people missing in Aba Prefecture, Sichuan Province, China. At least 500 rescue workers are on scene, and a 2-km stretch of the river in Mao County is blocked. ](/news/2017/06/24/an-early-morning-landslide-buries-40-homes-and-leaves-100-people-missing-in-aba-prefecture-sichuan-province-china-at-least-500-rescue-wor.md)
+_Context: Aba Prefecture, Mao County, Sichuan Province_
+
 ### [Polling places open in Papua New Guinea, and will remain open for two weeks, to elect all 111 members of the National Parliament. The People's National Congress led by Prime Minister Peter O'Neill is considered likely to maintain a governing coalition, despite uncertainty due to lack of opinion polling. ](/news/2017/06/24/polling-places-open-in-papua-new-guinea-and-will-remain-open-for-two-weeks-to-elect-all-111-members-of-the-national-parliament-the-people.md)
 _Context: National Parliament, Papua New Guinea, Papua New Guinean general election, 2017, People's National Congress, Peter O'Neill, Prime Minister, governing coalition, opinion poll_
 
@@ -11,7 +14,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/06/23/index.md)
 
-### [Multiple blasts occur at a market in Parachinar, killing at least 13 people and wounding over 50 more. ](/news/2017/06/23/multiple-blasts-occur-at-a-market-in-parachinar-killing-at-least-13-people-and-wounding-over-50-more.md)
+### [Multiple blasts occur at a market in Parachinar, killing at least 37 people and wounding over 150 more. ](/news/2017/06/23/multiple-blasts-occur-at-a-market-in-parachinar-killing-at-least-37-people-and-wounding-over-150-more.md)
 Suicide attack near provincial police chief&#39;s office kills at least 12 people and wounds 14 others.
 
 ### [Five people are killed after being electrocuted at a water park in Akyazi, Turkey. ](/news/2017/06/23/five-people-are-killed-after-being-electrocuted-at-a-water-park-in-akyaza-turkey.md)
@@ -35,8 +38,8 @@ The anti-corruption campaigner led mass street protests against Vladimir Putin i
 ### [ISRO's PSLV-C38 successfully launches Cartosat-2E and 30 other satellites from Satish Dhawan Space Centre First Launch Pad in Sriharikota, Andhra Pradesh. ](/news/2017/06/23/isro-s-pslv-c38-successfully-launches-cartosat-2e-and-30-other-satellites-from-satish-dhawan-space-centre-first-launch-pad-in-sriharikota-a.md)
 PSLV-C38 blasted off from the first launch pad at Satish Dhawan Space Centre in Sriharikota at 9.29am. It was PSLV&rsquo;s the 40th flight.
 
-### [Turkey decides to stop teaching evolution theory to students until the university curriculum, deeming it controversial and too complex to understand. Critics say this undermines the secular foundation of the Turkish state. ](/news/2017/06/23/turkey-decides-to-stop-teaching-evolution-theory-to-students-until-the-university-curriculum-deeming-it-controversial-and-too-complex-to-un.md)
-_Context: Creation-evolution controversy, Turkey, complex, controversial, evolution theory, secular foundation, university_
+### [Turkey decides to stop teaching evolution to its students until the university curriculum, deeming it controversial and too complex to understand. Critics say this undermines the secular foundation of the Turkish state. ](/news/2017/06/23/turkey-decides-to-stop-teaching-evolution-to-its-students-until-the-university-curriculum-deeming-it-controversial-and-too-complex-to-under.md)
+_Context: Creation-evolution controversy, Turkey, complex, controversial, evolution, secular foundation, university_
 
 ---
 
