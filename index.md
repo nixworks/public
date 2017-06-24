@@ -38,7 +38,7 @@ The anti-corruption campaigner led mass street protests against Vladimir Putin i
 ### [ISRO's PSLV-C38 successfully launches Cartosat-2E and 30 other satellites from Satish Dhawan Space Centre First Launch Pad in Sriharikota, Andhra Pradesh. ](/news/2017/06/23/isro-s-pslv-c38-successfully-launches-cartosat-2e-and-30-other-satellites-from-satish-dhawan-space-centre-first-launch-pad-in-sriharikota-a.md)
 PSLV-C38 blasted off from the first launch pad at Satish Dhawan Space Centre in Sriharikota at 9.29am. It was PSLV&rsquo;s the 40th flight.
 
-### [Turkey decides to stop teaching evolution to its students until the university curriculum, deeming it controversial and too complex to understand. Critics say this undermines the secular foundation of the Turkish state. ](/news/2017/06/23/turkey-decides-to-stop-teaching-evolution-to-its-students-until-the-university-curriculum-deeming-it-controversial-and-too-complex-to-under.md)
+### [Turkey decides to stop teaching evolution to its students until their university level curriculum, deeming it controversial and too complex to understand. Critics say this undermines the secular foundation of the Turkish state. ](/news/2017/06/23/turkey-decides-to-stop-teaching-evolution-to-its-students-until-their-university-level-curriculum-deeming-it-controversial-and-too-complex.md)
 _Context: Creation-evolution controversy, Turkey, complex, controversial, evolution, secular foundation, university_
 
 ---
