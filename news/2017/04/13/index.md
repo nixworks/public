@@ -13,7 +13,7 @@ Survivors tell authorities 15 women and five children among the missing after bo
 North’s Punggye-ri site appears to be ready for what would be the country’s sixth nuclear test since 2006
 
 ### [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md)
-_Context: Belgium, Democratic Republic of the Congo_
+_Context: Belgian, Democratic Republic of the Congo_
 
 ### [The European Court of Human Rights rules that Russia had failed to protect students and teachers during the 2004 Beslan school siege, which left 334 people dead, and orders the Russian Government to pay 2,955,000 euros to 409 relatives of the victims. The ruling was quickly denounced by Russia as "unacceptable". ](/news/2017/04/13/the-european-court-of-human-rights-rules-that-russia-had-failed-to-protect-students-and-teachers-during-the-2004-beslan-school-siege-which.md)
 _Context: Beslan school siege, European Court of Human Rights, Russia, Russian Government, euro_

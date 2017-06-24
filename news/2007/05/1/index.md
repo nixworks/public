@@ -16,7 +16,7 @@ _Context: Constitutional Court of Turkey, July elections, Turkish Parliament_
 _Context: Palencia, Spain, apartment_
 
 ### [ Police arrest 30 alleged animal rights extremists in raids in the United Kingdom, Belgium and the Netherlands. ](/news/2007/05/1/police-arrest-30-alleged-animal-rights-extremists-in-raids-in-the-united-kingdom-belgium-and-the-netherlands.md)
-_Context: Belgium, Dutch, United Kingdom, animal rights, police_
+_Context: Belgian, Dutch, United Kingdom, animal rights, police_
 
 ### [ Deutsche Brse AG, operator of the Frankfurt Stock Exchange, agrees to buy International Securities Exchange the second biggest United States options market for $2.8 billion creating the largest transatlantic derivatives market. ](/news/2007/05/1/deutsche-borse-ag-operator-of-the-frankfurt-stock-exchange-agrees-to-buy-international-securities-exchange-the-second-biggest-united-stat.md)
 _Context: Deutsche Borse, Frankfurt Stock Exchange, International Securities Exchange, United States, derivatives, market, stock options_

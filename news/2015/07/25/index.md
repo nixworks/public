@@ -13,7 +13,7 @@ _Context: Chris Brown, Iglesia ni Cristo, Philippines_
 Water-bombers were called in Saturday to try to contain a forest fire burning on the western outskirts of Bordeaux that has prompted dozens of evacuations including from a psychiatric facility, authorities said.
 
 ### [The Tunisian parliament approves a new anti-terror law that allows the death penalty for terrorists. ](/news/2015/07/25/the-tunisian-parliament-approves-a-new-anti-terror-law-that-allows-the-death-penalty-for-terrorists.md)
-_Context: Tunisian parliament, anti-terror law, death penalty_
+_Context: Tunisian parliament, anti-terror law, capital punishment_
 
 ## [Previous Day...](/news/2015/07/24/index.md)
 

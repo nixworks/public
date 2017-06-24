@@ -16,7 +16,7 @@ _Context: Pakistan, passenger express train derailment_
 _Context: Person of the Year, Russia, Russia President, Time, Vladimir Putin_
 
 ### [ Belgian Prime Minister Guy Verhofstadt forms a temporary coalition government comprising five Socialist and Christian Democrat parties from both main language communities. ](/news/2007/12/19/belgian-prime-minister-guy-verhofstadt-forms-a-temporary-coalition-government-comprising-five-socialist-and-christian-democrat-parties-from.md)
-_Context: Belgium, Guy Verhofstadt, Prime Minister, Socialist and Christian Democrat parties, forms a temporary coalition government_
+_Context: Belgian, Guy Verhofstadt, Prime Minister, Socialist and Christian Democrat parties, forms a temporary coalition government_
 
 ## [Previous Day...](/news/2007/12/18/index.md)
 

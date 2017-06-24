@@ -22,7 +22,7 @@ Gunmen in police uniforms kidnapped five Britons in Baghdad on Tuesday and the d
 _Context: Bashar al-Assad, President, election_
 
 ### [ Zheng Xiaoyu, former head of the China's State Food and Drug Administration, is sentenced to death for taking bribes to approve untested medicines as Chinese authorities introduce a recall system for unsafe food products. ](/news/2007/05/29/zheng-xiaoyu-former-head-of-the-china-s-state-food-and-drug-administration-is-sentenced-to-death-for-taking-bribes-to-approve-untested-me.md)
-_Context: State Food and Drug Administration, Zheng Xiaoyu, bribe, death penalty, recall_
+_Context: State Food and Drug Administration, Zheng Xiaoyu, bribe, capital punishment, recall_
 
 ### [ Ehud Barak, former Prime Minister of Israel, wins the first round of the Israeli Labor Party leadership election and faces a runoff against former secret service chief Ami Ayalon. ](/news/2007/05/29/ehud-barak-former-prime-minister-of-israel-wins-the-first-round-of-the-israeli-labor-party-leadership-election-and-faces-a-runoff-against.md)
 _Context: Ami Ayalon, Ehud Barak, Israel, Labor Party, Prime Minister of Israel_

@@ -25,7 +25,7 @@ _Context: Philippine Airlines, airline pilot_
 Chinese manufacturing output grew at its slowest rate for 17 months in July, as the government continues efforts to rein in rapid economic growth.
 
 ### [The United Arab Emirates will suspend some BlackBerry mobile services from October amid concerns that data from some equipment is being exported offshore and managed by foreign organisations. Saudi Arabia plans to suspend some services later this month. ](/news/2010/08/1/the-united-arab-emirates-will-suspend-some-blackberry-mobile-services-from-october-amid-concerns-that-data-from-some-equipment-is-being-expo.md)
-_Context: BlackBerry, Saudi Arabia, UAE_
+_Context: BlackBerry, Saudi Arabia, United Arab Emirates_
 
 ### [Thousands of troops are mobilised in Russia to tackle forest fires spreading in 17 regions, the worst in decades, as the death toll rises to 30. ](/news/2010/08/1/thousands-of-troops-are-mobilised-in-russia-to-tackle-forest-fires-spreading-in-17-regions-the-worst-in-decades-as-the-death-toll-rises-to.md)
 _Context: Russia, forest fire_

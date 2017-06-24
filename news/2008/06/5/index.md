@@ -13,7 +13,7 @@ _Context: 2007 United States Air Force nuclear weapons incident, Michael Wynne, 
 _Context: Burma, Cyclone Nargis, State Peace and Development Council, USS ''Essex'', USS ''Harpers Ferry'', USS ''Juneau'', USS ''Mustin''_
 
 ### [ Khalid Sheikh Mohammed and four others are arraigned at Guantanamo Bay detention camp under the Military Commissions Act of 2006, and charged with crimes related to the September 11, 2001 attacks. ](/news/2008/06/5/khalid-sheikh-mohammed-and-four-others-are-arraigned-at-guantanamo-bay-detention-camp-under-the-military-commissions-act-of-2006-and-charg.md)
-_Context: Guantanamo Bay detention camp, Khalid Sheikh Mohammed, Military Commissions Act of 2006, September 11, 2001 attacks_
+_Context: Khalid Sheikh Mohammed, Military Commissions Act of 2006, September 11, 2001 attacks, detainee_
 
 ### [ Prosecutor Luis Moreno-Ocampo of the International Criminal Court reports that crimes in the War in Darfur "required the sustained mobilization of the entire State apparatus" of Sudan. ](/news/2008/06/5/prosecutor-luis-moreno-ocampo-of-the-international-criminal-court-reports-that-crimes-in-the-war-in-darfur-required-the-sustained-mobiliza.md)
 _Context: International Criminal Court, Luis Moreno-Ocampo, Sudanese cabinet, conflict_
@@ -22,7 +22,7 @@ _Context: International Criminal Court, Luis Moreno-Ocampo, Sudanese cabinet, co
 _Context: ''Rdhuset'' court house, Carl Westman, Stockholm_
 
 ### [ Turkey's Constitutional Court reinstates a ban on the hijab in universities, citing the constitution's secular principles. ](/news/2008/06/5/turkey-s-constitutional-court-reinstates-a-ban-on-the-hijab-in-universities-citing-the-constitution-s-secular-principles.md)
-_Context: Constitutional Court of Turkey, Turkey, hijab, reinstates a ban, secular_
+_Context: Constitutional Court of Turkey, Turkey, hijab, reinstates a ban, secular foundation_
 
 ### [ Prime Minister of Israel Ehud Olmert says that "the end of Iran's nuclear program is near". ](/news/2008/06/5/prime-minister-of-israel-ehud-olmert-says-that-the-end-of-iran-s-nuclear-program-is-near.md)
 _Context: Ehud Olmert, Iran's nuclear program, Prime Minister of Israel_

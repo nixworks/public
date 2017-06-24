@@ -4,7 +4,7 @@
 _Context: December 14, Turkmenistan, parliamentary election_
 
 ### [ Romanian legislative election, 2008: Emil Boc is sworn in as the new Prime Minister and will lead a coalition government of the Democrat Liberals and Social Democrats. ](/news/2008/12/22/romanian-legislative-election-2008-emil-boc-is-sworn-in-as-the-new-prime-minister-and-will-lead-a-coalition-government-of-the-democrat-li.md)
-_Context: Democrat Liberals, Emil Boc, PSD, Prime Minister, Romania, coalition government, legislative election, 2008_
+_Context: Democrat Liberals, Emil Boc, PSD, Prime Minister, Romania, governing coalition, legislative election, 2008_
 
 ### [ President of Guinea Lansana Conte dies at age 74. If the Supreme Court declares the position vacant, National Assembly Speaker Aboubacar Sompare will take over for 60 days. ](/news/2008/12/22/president-of-guinea-lansana-conta-c-dies-at-age-74-if-the-supreme-court-declares-the-position-vacant-national-assembly-speaker-aboubacar-s.md)
 _Context: Aboubacar Sompare, Guinea, Lansana Conte, National Assembly, President, Speaker_

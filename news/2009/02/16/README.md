@@ -16,7 +16,7 @@ _Context: GDP, Japan, contracted, fiscal year, late 2000s recession_
 _Context: ''Le Triomphant'', 4, Atlantic Ocean, February 3, France, French naval, HMS ''Vanguard'', Royal Navy, United Kingdom, collide, nuclear submarine_
 
 ### [ Protesters and police clash in Guadeloupe as part of general strikes. ](/news/2009/02/16/protesters-and-police-clash-in-guadeloupe-as-part-of-general-strikes.md)
-_Context: Guadeloupe, Protest, ongoing general strikes, police_
+_Context: Guadeloupe, ongoing general strikes, police, protest_
 
 ### [ Pakistan will implement sharia in the war-torn Swat Valley if the Taliban guarantees a ceasefire. ](/news/2009/02/16/pakistan-will-implement-sharia-in-the-war-torn-swat-valley-if-the-taliban-guarantees-a-ceasefire.md)
 _Context: Pakistan, Swat, Pakistan, Taliban, War in North-West Pakistan, ceasefire, sharia law_

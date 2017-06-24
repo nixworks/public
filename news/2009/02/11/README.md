@@ -28,7 +28,7 @@ _Context: Afghanistan, Kabul, suicide bombing_
 Chinese fishing vessels have moved out of waters near a disputed sea border between the two Koreas, a South Korean military official said on Wednesday, possibly signaling a North Korean short-range missile test is imminent.
 
 ### [ An oil tanker and a container ship collide off the coast of Dubai, United Arab Emirates.  ](/news/2009/02/11/an-oil-tanker-and-a-container-ship-collide-off-the-coast-of-dubai-united-arab-emirates.md)
-_Context: Dubai, UAE, container ship, oil tanker_
+_Context: Dubai, United Arab Emirates, container ship, oil tanker_
 
 ### [ The Philippines' Bureau of Fisheries and Aquatic Resources rescues more than 200 dolphins after a mass beaching in Bataan. ](/news/2009/02/11/the-philippines-bureau-of-fisheries-and-aquatic-resources-rescues-more-than-200-dolphins-after-a-mass-beaching-in-bataan.md)
 _Context: Bataan, Bureau of Fisheries and Aquatic Resources, Philippines, dolphin, mass beaching_

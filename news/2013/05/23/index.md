@@ -7,7 +7,7 @@ After meeting in Amman, 11 Western and Arab nations also warn of &#39;severe con
 Stockholm unrest spreads to south of city as violence continues into fourth night
 
 ### [Code Pink's Medea Benjamin condemns Barack Obama's use of drones and the Guantanamo hunger strikes during Obama's speech outlining U.S. drone policy. ](/news/2013/05/23/code-pink-s-medea-benjamin-condemns-barack-obama-s-use-of-drones-and-the-guantanamo-hunger-strikes-during-obama-s-speech-outlining-u-s-dron.md)
-_Context: Barack Obama, Code Pink, Guantanamo Bay detention camp, Medea Benjamin, drones launch_
+_Context: Barack Obama, Code Pink, Medea Benjamin, detainee, drones launch_
 
 ### [Two suicide bombers strike in the northern Niger towns of Agadez and Arlit with twenty-one dead and ten more people killed in a gun battle between soldiers and Islamist fighters. ](/news/2013/05/23/two-suicide-bombers-strike-in-the-northern-niger-towns-of-agadez-and-arlit-with-twenty-one-dead-and-ten-more-people-killed-in-a-gun-battle-b.md)
 Two suicide bombers have struck Northern Niger, injuring at least 16 people. A subsequent gunbattle with suspected Islamist militants has claimed the

@@ -34,7 +34,7 @@ The capitals of the world&rsquo;s two most populous nations, China and India, we
 By Alisa TangBANGKOK (Thomson Reuters Foundation) - The estimated number of adolescents dying of AIDS in the Asia Pacific region has more than double
 
 ### [Martyrs' Day (United Arab Emirates) is being observed in United Arab Emirates as Commemoration Day this year on November 30, 2015, recognising the sacrifices and dedication of Emirati martyrs who have given their life in the UAE and abroad in the field of civil, military and humanitarian service. ](/news/2015/11/30/martyrs-day-united-arab-emirates-is-being-observed-in-united-arab-emirates-as-commemoration-day-this-year-on-november-30-2015-recognisi.md)
-_Context: Emirati martyrs, Martyrs' Day (United Arab Emirates), UAE_
+_Context: Emirati martyrs, Martyrs' Day (United Arab Emirates), United Arab Emirates_
 
 ### [South Korea's parliament approves a free trade pact with China after opposition lawmakers, concerned that deal that would hurt agriculture and fisheries, secured a $1.4 billion relief package for farmers. ](/news/2015/11/30/south-korea-s-parliament-approves-a-free-trade-pact-with-china-after-opposition-lawmakers-concerned-that-deal-that-would-hurt-agriculture-a.md)
 _Context: Chinese, South Korea, agriculture, fisheries, free trade, parliamentary review_
@@ -46,7 +46,7 @@ _Context: 2015 United Nations Climate Change Conference, Paris, greenhouse gas_
 Pope Francis visits a mosque in the capital of the Central African Republic, and calls for religious harmony in a country divided along religious lines.
 
 ### [Israel will open a diplomatic mission to the International Renewable Energy Agency (Irena), the headquarters of which are located near the capital of the United Arab Emirates, Abu Dhabi.  Israel will be the first Irena member to open such a mission; other member nations work Irena relations from their missions to the UAE, which Israel does not have. ](/news/2015/11/30/israel-will-open-a-diplomatic-mission-to-the-international-renewable-energy-agency-irena-the-headquarters-of-which-are-located-near-the-c.md)
-_Context: Abu Dhabi, International Renewable Energy Agency, Israel, Israel does not have, UAE_
+_Context: Abu Dhabi, International Renewable Energy Agency, Israel, Israel does not have, United Arab Emirates_
 
 ### [A Russian Airborne Troops spokesman says the VDV is planning to expand their military exercises into the North Pole area of the Arctic in 2016. ](/news/2015/11/30/a-russian-airborne-troops-spokesman-says-the-vdv-is-planning-to-expand-their-military-exercises-into-the-north-pole-area-of-the-arctic-in-20.md)
 Russian Airborne Troops are planning to expand their military exercises into the North Pole in 2016.

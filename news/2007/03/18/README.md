@@ -16,7 +16,7 @@ _Context: East China Sea, cargo_
 _Context: 2007 Cricket World Cup, Bob Woolmer, Ireland, Kingston, Pakistani cricket team_
 
 ### [ Finnish parliamentary election: Voters go to the polls, with the centre-left governing coalition between the Centre Party and the Social Democratic Party continuing for another term under the leadership of Matti Vanhanen. The National Coalition Party had a strong result finishing with one seat less than the Centre Party. ](/news/2007/03/18/finnish-parliamentary-election-voters-go-to-the-polls-with-the-centre-left-governing-coalition-between-the-centre-party-and-the-social-de.md)
-_Context: Centre Party, Finnish parliamentary election, Matti Vanhanen, National Coalition Party, Social Democratic Party, coalition government_
+_Context: Centre Party, Finnish parliamentary election, Matti Vanhanen, National Coalition Party, Social Democratic Party, governing coalition_
 
 ### [ More than 200,000 Sydneysiders walk across the Sydney Harbour Bridge to mark the 75th anniversary of the icon's opening. The bridge had been closed to vehicular traffic for one day to mark the occasion. ](/news/2007/03/18/more-than-200-000-sydneysiders-walk-across-the-sydney-harbour-bridge-to-mark-the-75th-anniversary-of-the-icon-s-opening-the-bridge-had-bee.md)
 _Context: Sydney, Sydney Harbour Bridge_

@@ -40,7 +40,7 @@ _Context: Paris Opera Hotel_
 _Context: Israel, Mordechai Vanunu_
 
 ### [ In Syria, Jassem Alwan, who led a failed military coup in 1963, returns from exile in the United Arab Emirates. ](/news/2005/04/19/in-syria-jassem-alwan-who-led-a-failed-military-coup-in-1963-returns-from-exile-in-the-united-arab-emirates.md)
-_Context: 1963, Jassem Alwan, Syria, UAE_
+_Context: 1963, Jassem Alwan, Syria, United Arab Emirates_
 
 ### [ The parliament of Kuwait gives initial backing to law that would allow women to vote. ](/news/2005/04/19/the-parliament-of-kuwait-gives-initial-backing-to-law-that-would-allow-women-to-vote.md)
 _Context: Kuwait, Vote_

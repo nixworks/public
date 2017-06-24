@@ -16,7 +16,7 @@ Overcrowded bus plunges off a mountain road, leaving at least 17 dead and 50 mor
 BEIJING (Reuters) - China denounced the Philippines on Sunday for putting it under political pressure with an international arbitration case over disputed waters, and refused again to participate a week ahead of a deadline to respond in the case.. Read more at straitstimes.com.
 
 ### [The Obama administration orders the transfer of six prisoners from Guantanamo Bay detention camp to Uruguay, the largest single group of detainees to be released in five years and the first to be resettled in South America. ](/news/2014/12/7/the-obama-administration-orders-the-transfer-of-six-prisoners-from-guantanamo-bay-detention-camp-to-uruguay-the-largest-single-group-of-det.md)
-_Context: Guantanamo Bay detention camp, Obama Administration, Uruguay_
+_Context: Obama Administration, Uruguay, detainee_
 
 ### [The Saudi Interior Ministry arrests 135 on terrorism offences, including dozens suspected of links to Islamic State of Iraq and the Levant. ](/news/2014/12/7/the-saudi-interior-ministry-arrests-135-on-terrorism-offences-including-dozens-suspected-of-links-to-islamic-state-of-iraq-and-the-levant.md)
 Interior ministry says some of those arrested were linked to ISIL and were planning attacks inside the Kingdom.

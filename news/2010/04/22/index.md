@@ -13,7 +13,7 @@ Pope Benedict XVI has accepted the resignation of the Bishop of Kildare and Leig
 Protesters blockade parliament amid growing stand-off over presidential decree.
 
 ### [The Flemish Liberals and Democrats leave the Government of Belgium following a dispute over the dissolution of the electoral district Brussels-Halle-Vilvoorde. ](/news/2010/04/22/the-flemish-liberals-and-democrats-leave-the-government-of-belgium-following-a-dispute-over-the-dissolution-of-the-electoral-district-brusse.md)
-_Context: Belgium, Brussels-Halle-Vilvoorde, Flemish Liberals and Democrats, Government_
+_Context: Belgian, Brussels-Halle-Vilvoorde, Flemish Liberals and Democrats, Government_
 
 ### [Several grenades explode in Thailand's capital, Bangkok, killing at least one person and injuring at least 75 others. ](/news/2010/04/22/several-grenades-explode-in-thailand-s-capital-bangkok-killing-at-least-one-person-and-injuring-at-least-75-others.md)
 _Context: Bangkok, Several grenades explode, Thailand_

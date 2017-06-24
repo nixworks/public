@@ -7,7 +7,7 @@ _Context: Microsoft Encarta, Nupedia, encyclopedia_
 _Context: al-Qaeda, ricin_
 
 ### [ Researchers from the University of Miami have published a study which claims that prisoners executed by lethal injection in the U.S. may have been aware of what was happening to them. ](/news/2005/04/14/researchers-from-the-university-of-miami-have-published-a-study-which-claims-that-prisoners-executed-by-lethal-injection-in-the-u-s-may-ha.md)
-_Context: University of Miami, death penalty, lethal injection_
+_Context: University of Miami, capital punishment, lethal injection_
 
 ### [ Israeli-Palestinian conflict: Israel kills a member of the Al Aqsa Martyrs Brigade following a raid into the Palestinian town of Nablus. Palestinians maintain that a special unit disguised as Arabs carried out the act. Israeli Defence Forces say the man was a "ticking bomb" and that soldier shot only after he opened fire on them. Witnesses from the Balata camp, however, say the Israelis opened fire without warning and then took the body away. ](/news/2005/04/14/israeliapalestinian-conflict-p-israel-kills-a-member-of-the-al-aqsa-martyrs-brigade-following-a-raid-into-the-palestinian-town-of-nablus.md)
 _Context: Al Aqsa Martyrs Brigade, Arab, Israel, Israeli Defence Forces, Israeli-Palestinian conflict, Nablus, Palestinian, raid_
@@ -19,7 +19,7 @@ _Context: Baghdad, Conflict in Iraq, Iraq, capital, suicide bomb_
 Business news & Financial news from Reuters.com.
 
 ### [ The Czech coalition government agrees to form a new cabinet. Jan Kohout is expected to succeed Stanislav Gross as the new prime minister.  ](/news/2005/04/14/the-czech-coalition-government-agrees-to-form-a-new-cabinet-jan-kohout-is-expected-to-succeed-stanislav-gross-as-the-new-prime-minister.md)
-_Context: Czech, Jan Kohout, Prime Minister, Stanislav Gross, coalition government_
+_Context: Czech, Jan Kohout, Prime Minister, Stanislav Gross, governing coalition_
 
 ### [ Police in China arrest 15 people involved with illegal blood trade that may have contributed to the spread of AIDS. ](/news/2005/04/14/police-in-china-arrest-15-people-involved-with-illegal-blood-trade-that-may-have-contributed-to-the-spread-of-aids.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

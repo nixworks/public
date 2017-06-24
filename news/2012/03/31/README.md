@@ -4,7 +4,7 @@
 Reports of gunfire near northern garrison town of Gao as Tuareg fighters make gains and pressure on coup leaders grows.
 
 ### [Peter O'Neill, the Prime Minister of Papua New Guinea, orders troops to the resource rich Hela Province following ongoing disruption by illegal miners. ](/news/2012/03/31/peter-o-neill-the-prime-minister-of-papua-new-guinea-orders-troops-to-the-resource-rich-hela-province-following-ongoing-disruption-by-ille.md)
-_Context: Hela Province, Prime Minister, the prime minister_
+_Context: Hela Province, Peter O'Neill, Prime Minister_
 
 ### [At least eight people are killed after three explosions in Thailand's Yala Province. ](/news/2012/03/31/at-least-eight-people-are-killed-after-three-explosions-in-thailand-s-yala-province.md)
 Explosions in southern Thailand have killed at least 10 people, officials say, in a region hit by separatist violence.

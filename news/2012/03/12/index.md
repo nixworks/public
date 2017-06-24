@@ -31,7 +31,7 @@ _Context: US Census Bureau headquarters, world's population_
 Afghanistan&#039;s Taliban insurgents today vowed revenge against &quot;sick minded American savages&quot; for the weekend rampage by a US soldier who killed 16 villagers in their homes. The Taliban would &quot;take revenge from the invaders and the savage murderers for every single martyr&quot;, they said in a statement on their website.
 
 ### [Belgium asks the International Court of Justice to order Senegal to put former Chadian President Hissne Habr on trial or to extradite him on charges of torture and crimes against humanity. ](/news/2012/03/12/belgium-asks-the-international-court-of-justice-to-order-senegal-to-put-former-chadian-president-hissene-habre-on-trial-or-to-extradite-him.md)
-_Context: Belgium, Chad, Chadian President, Hissene Habre, International Court of Justice, Senegal, crimes against humanity_
+_Context: Belgian, Chad, Chadian President, Hissene Habre, International Court of Justice, Senegal, crimes against humanity_
 
 ### [A scuffle breaks out at the United Nations Human Rights Council after a North Korean diplomat said a U.N. report on the human rights situation in the country had been "fabricated". ](/news/2012/03/12/a-scuffle-breaks-out-at-the-united-nations-human-rights-council-after-a-north-korean-diplomat-said-a-u-n-report-on-the-human-rights-situati.md)
 The report covers the period from Sep 2011 to Jan 2012, when it said the situation in N Korea continued to deteriorate.

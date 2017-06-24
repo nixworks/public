@@ -16,7 +16,7 @@ _Context: Geographical Names Council, Pretoria, South Africa, Tshwane, capital, 
 _Context: Abu Mazen, George W. Bush, Israel, President of the Palestinian Authority, United States, United States President, West Bank_
 
 ### [ The British Association of University Teachers decides to cancel the boycott on Israeli Universities of Haifa and Bar-Ilan. The decision comes in a special meeting after both external and internal debate over the original decision.](/news/2005/05/26/the-british-association-of-university-teachers-decides-to-cancel-the-boycott-on-israeli-universities-of-haifa-and-bar-ilan-the-decision-co.md)
-_Context: Association of University Teachers, Bar-Ilan, Haifa, Israel, United Kingdom, boycott, universities_
+_Context: Association of University Teachers, Bar-Ilan, Haifa, Israel, United Kingdom, boycott, university_
 
 ### [ British Liberal Democrat leader Charles Kennedy calls for a reform of the UK voting system after Labour took the majority of the seats in the UK election with just 35% of the votes. ](/news/2005/05/26/british-liberal-democrat-leader-charles-kennedy-calls-for-a-reform-of-the-uk-voting-system-after-labour-took-the-majority-of-the-seats-in-t.md)
 _Context: Charles Kennedy, Labour, Liberal Democrats, United Kingdom_

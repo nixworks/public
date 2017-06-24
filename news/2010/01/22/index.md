@@ -13,7 +13,7 @@ _Context: People's Republic of China, Sino-American relations, United States, bl
 _Context: Alan Johnson, Home Secretary, Joint Terrorism Analysis Centre, United Kingdom, terror threat level_
 
 ### [A U.S. Justice Department task force recommends 47 Guantanamo Bay detainees should be held indefinitely without charge. ](/news/2010/01/22/a-u-s-justice-department-task-force-recommends-47-guantanamo-bay-detainees-should-be-held-indefinitely-without-charge.md)
-_Context: Guantanamo Bay detention camp, United States, United States Justice Department, detainees, detention camps, task force_
+_Context: United States, United States Justice Department, detainee, detainees, detention camps, task force_
 
 ### [Former U.S. Air Force lieutenant colonel James Fondren is sentenced to three years in prison for providing classified documents to Chinese spy Tai Shen Kuo. ](/news/2010/01/22/former-u-s-air-force-lieutenant-colonel-james-fondren-is-sentenced-to-three-years-in-prison-for-providing-classified-documents-to-chinese-s.md)
 _Context: Air Force, Chinese, James Fondren, Tai Shen Kuo, United States, classified document, espionage, lieutenant colonel, prison_

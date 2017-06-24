@@ -16,7 +16,7 @@ _Context: 2008 Istanbul bombings, Iraq, Kurdistan Workers' Party, Turkey_
 _Context: 5.4 magnitude earthquake, California, Chino Hills, Las Vegas, Nevada, Los Angeles, Nevada, San Diego_
 
 ### [ President of the United States George W. Bush approves the execution of Army Private Ronald A. Gray, who was convicted in 1988 of multiple rapes and murders. It is the first American military execution approved since 1961. Further appeals are expected before he is executed. ](/news/2008/07/29/president-of-the-united-states-george-w-bush-approves-the-execution-of-army-private-ronald-a-gray-who-was-convicted-in-1988-of-multiple.md)
-_Context: George W. Bush, Ronald A. Gray, United States Army, United States President, death penalty, military execution, murder, rape_
+_Context: George W. Bush, Ronald A. Gray, United States Army, United States President, capital punishment, military execution, murder, rape_
 
 ### [ The government of Australia ends its mandatory detention of all asylum seekers. ](/news/2008/07/29/the-government-of-australia-ends-its-mandatory-detention-of-all-asylum-seekers.md)
 _Context: Australia's government, asylum seeker, detention of children and family groups_

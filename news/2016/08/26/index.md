@@ -16,7 +16,7 @@ _Context: Istanbul, Turkey, Yavuz Sultan Selim Bridge_
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 ### [An explosion at a sports centre in the Belgian town of Chimay kills one person and injures another four. A gas explosion is suspected to be the cause. ](/news/2016/08/26/an-explosion-at-a-sports-centre-in-the-belgian-town-of-chimay-kills-one-person-and-injures-another-four-a-gas-explosion-is-suspected-to-be.md)
-_Context: Belgium, Chimay_
+_Context: Belgian, Chimay_
 
 ### [A state of emergency is declared in Italy following several strong earthquakes. ](/news/2016/08/26/a-state-of-emergency-is-declared-in-italy-following-several-strong-earthquakes.md)
 One of more than 1000 aftershocks has cut off a key route into earthquake-stricken Italian town Amatrice as the death toll rises even further.

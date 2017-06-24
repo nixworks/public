@@ -26,7 +26,7 @@ _Context: Mandalay, Myanmar_
 _Context: Prime Minister, Yasuo Fukuda, the Lower House of the Diet_
 
 ### [ The Supreme Court of Indonesia rejects the final appeals of Imam Samudra and Mukhlas, two men sentenced to death for their roles in the 2002 Bali bombings. ](/news/2007/09/25/the-supreme-court-of-indonesia-rejects-the-final-appeals-of-imam-samudra-and-mukhlas-two-men-sentenced-to-death-for-their-roles-in-the-200.md)
-_Context: Imam Samudra, Indonesia, Mukhlas, October 2002 Bali bombings, Supreme Court_
+_Context: 2002 Bali bombings, Imam Samudra, Indonesia, Mukhlas, Supreme Court_
 
 ### [ 73,000 United Auto Workers union workers go on strike against General Motors, the first general strike against the company in 37 years. Talks between the parties continued. ](/news/2007/09/25/73-000-united-auto-workers-union-workers-go-on-strike-against-general-motors-the-first-general-strike-against-the-company-in-37-years-tal.md)
 _Context: General Motors, United Auto Workers, strike_

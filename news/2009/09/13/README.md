@@ -7,7 +7,7 @@ _Context: Russia, Venezuela_
 _Context: Congo river, Democratic Republic of Congo, ferry_
 
 ### [ Kim Clijsters of Belgium defeats Caroline Wozniacki of Denmark to win the 2009 US Open Women's Singles. ](/news/2009/09/13/kim-clijsters-of-belgium-defeats-caroline-wozniacki-of-denmark-to-win-the-2009-us-open-women-s-singles.md)
-_Context: 2009 US Open Women's Singles, Belgium, Caroline Wozniacki, Denmark, Kim Clijsters_
+_Context: 2009 US Open Women's Singles, Belgian, Caroline Wozniacki, Denmark, Kim Clijsters_
 
 ### [ Cork beat Kilkenny in the final of the All-Ireland Senior Camogie Championship 2009. ](/news/2009/09/13/cork-beat-kilkenny-in-the-final-of-the-all-ireland-senior-camogie-championship-2009.md)
 _Context: All-Ireland Senior Camogie Championship 2009, Cork, Kilkenny_

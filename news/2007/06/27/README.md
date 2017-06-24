@@ -19,7 +19,7 @@ _Context: Ambassador to the United Nations, Angela Merkel, Bertie Ahern, British
 _Context: Cambodia, Kampot Province, PMTair Flight U4 241_
 
 ### [ The Government of Kyrgyzstan abolishes capital punishment. ](/news/2007/06/27/the-government-of-kyrgyzstan-abolishes-capital-punishment.md)
-_Context: death penalty_
+_Context: capital punishment_
 
 ### [ Jamaican-born Floridian Barrington Irving becomes the youngest person&mdash;and the first black person&mdash;to fly solo around the world. ](/news/2007/06/27/jamaican-born-floridian-barrington-irving-becomes-the-youngest-person-mdash-and-the-first-black-person-mdash-to-fly-solo-around-the-world.md)
 _Context: Barrington Irving, Florida, Jamaica, black, circumnavigation_

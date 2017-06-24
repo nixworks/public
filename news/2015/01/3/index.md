@@ -16,7 +16,7 @@ A Norwegian cargo ship with 19 crew members sank off the coast of Vietnam, with 
 The search for the eight missing crew of the cargo ship Cemfjord in the Pentland Firth is suspended by coastguards.
 
 ### [A prison in Bruges, Belgium, will euthanise serial rapist and murderer Frank Van Den Bleeken on January 11. ](/news/2015/01/3/a-prison-in-bruges-belgium-will-euthanise-serial-rapist-and-murderer-frank-van-den-bleeken-on-january-11.md)
-_Context: Belgium, Bruges, Frank Van Den Bleeken, euthanise_
+_Context: Belgian, Bruges, Frank Van Den Bleeken, euthanise_
 
 ### [Former Prime Minister George Papandreou announces the formation of a new party, Movement of Democratic Socialists, threatening to push the long-dominant PASOK under the election threshold. ](/news/2015/01/3/former-prime-minister-george-papandreou-announces-the-formation-of-a-new-party-movement-of-democratic-socialists-threatening-to-push-the-l.md)
 _Context: George Papandreou, Greek parliamentary election, 2015, Movement of Democratic Socialists, PASOK_

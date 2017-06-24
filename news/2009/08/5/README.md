@@ -70,7 +70,7 @@ _Context: FC Schalke 04, Islam, Muhammad, Prophet_
 A number of Romanians who fled Belfast in the wake of racist attacks have returned to Northern Ireland, it was revealed tonight&hellip;
 
 ### [ Belgian Justice Minister Stefaan De Clerck is under fire after three men with criminal records escape from a courthouse in Brussls. The escape follows the helicopter breakout of three inmates, including one of Belgium's most dangerous criminals, and the ladder breakout of six more convicts all in the space of twelve days. ](/news/2009/08/5/belgian-justice-minister-stefaan-de-clerck-is-under-fire-after-three-men-with-criminal-records-escape-from-a-courthouse-in-brussls-the-esc.md)
-_Context: Belgium, Stefaan De Clerck_
+_Context: Belgian, Stefaan De Clerck_
 
 ### [ Former Argentine President Fernando de la Rua is indicted in a bribery case. ](/news/2009/08/5/former-argentine-president-fernando-de-la-raoa-is-indicted-in-a-bribery-case.md)
 The Argentine Federal Appeals court has confirmed the indictment of ex-president Fernando de la R&uacute;a in a case linking the former Radical president to the payment of bribes at the Senate in 2000 and which ended with a major political crisis.

@@ -13,7 +13,7 @@ French&#x20;President&#x20;Fran&#x00E7;ois&#x20;Hollande&#x20;made&#x20;a&#x20;s
 _Context: BSkyB, David Cameron, Fred Michel, Jeremy Hunt, Leveson Inquiry, News Corporation, Prime Minister, Secretary of State for Culture, Media and Sport_
 
 ### [Police blockade the Parliament of Papua New Guinea in Port Moresby the day after the government led by Prime Minister of Papua New Guinea Peter O'Neill lays sedition charges against the Chief Justice of the Supreme Court of Papua New Guinea, Sir Salamo Injia. ](/news/2012/05/25/police-blockade-the-parliament-of-papua-new-guinea-in-port-moresby-the-day-after-the-government-led-by-prime-minister-of-papua-new-guinea-pe.md)
-_Context: Chief Justice, Parliament of Papua New Guinea, Port Moresby, Prime Minister, Salamo Injia, Supreme Court of Papua New Guinea, sedition, the prime minister_
+_Context: Chief Justice, Parliament of Papua New Guinea, Peter O'Neill, Port Moresby, Prime Minister, Salamo Injia, Supreme Court of Papua New Guinea, sedition_
 
 ### [First Minister of Scotland Alex Salmond launches the "Yes" campaign for Scottish independence at Cineworld in Edinburgh. ](/news/2012/05/25/first-minister-of-scotland-alex-salmond-launches-the-yes-campaign-for-scottish-independence-at-cineworld-in-edinburgh.md)
 The &quot;yes&quot; campaign for independence wants one million Scots to sign a declaration of support by the time of the referendum in the autumn of 2014.

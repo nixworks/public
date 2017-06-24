@@ -10,7 +10,7 @@ _Context: Colombia, Red Cross, Revolutionary Armed Forces of Colombia_
 Former Argentine president Carlos Menem has been charged with involvement in the illegal sale of weapons to Croatia and Ecuador while he was in office between 1989 and 1999.
 
 ### [ Justine Henin of Belgium wins the U.S. Open women's tennis singles championship defeating Svetlana Kuznetsova of Russia 6-1 6-3 in the final. ](/news/2007/09/8/justine-henin-of-belgium-wins-the-u-s-open-women-s-tennis-singles-championship-defeating-svetlana-kuznetsova-of-russia-6-1-6-3-in-the-fina.md)
-_Context: Belgium, Justine Henin, Russia, Svetlana Kuznetsova, U.S. Open_
+_Context: Belgian, Justine Henin, Russia, Svetlana Kuznetsova, U.S. Open_
 
 ### [ Morocco's conservative Istiqlal Party, a member of the kingdom's ruling coalition, wins most seats in parliamentary elections, according to provisional results released by the government ](/news/2007/09/8/morocco-s-conservative-istiqlal-party-a-member-of-the-kingdom-s-ruling-coalition-wins-most-seats-in-parliamentary-elections-according-to.md)
 _Context: Istiqlal Party, Morocco, parliamentary elections_

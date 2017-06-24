@@ -4,7 +4,7 @@
 An Iranian actress has been sentenced to 90 lashes and a year in jail for her part in an Australian-produced film critical of the regime in Tehran.
 
 ### [France and Belgium agree to break up and partially nationalize Dexia, Belgium's largest bank. ](/news/2011/10/10/france-and-belgium-agree-to-break-up-and-partially-nationalize-dexia-belgium-s-largest-bank.md)
-_Context: Belgium, Dexia, France_
+_Context: Belgian, Dexia, France_
 
 ### [American economists Thomas J. Sargent and Christopher A. Sims win the 2011 Nobel Memorial Prize in Economic Sciences. ](/news/2011/10/10/american-economists-thomas-j-sargent-and-christopher-a-sims-win-the-2011-nobel-memorial-prize-in-economic-sciences.md)
 _Context: American, Christopher A. Sims, Nobel Memorial Prize in Economic Sciences, Thomas J. Sargent_

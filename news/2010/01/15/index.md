@@ -1,7 +1,7 @@
 ## [2010-01-15](/news/2010/01/15/index.md)
 
 ### [Johnson & Johnson recalls more than 53&nbsp;million bottles of over-the-counter products, including Tylenol, Motrin and Rolaids, from the Americas, the United Arab Emirates and Fiji. ](/news/2010/01/15/johnson-johnson-recalls-more-than-53-nbsp-million-bottles-of-over-the-counter-products-including-tylenol-motrin-and-rolaids-from-the-am.md)
-_Context: Americas, Fiji, Johnson & Johnson, Motrin, Rolaids, Tylenol, UAE_
+_Context: Americas, Fiji, Johnson & Johnson, Motrin, Rolaids, Tylenol, United Arab Emirates_
 
 ### [President Faure Gnassingb and national team captain Emmanuel Adebayor are among dignitaries to attend a funeral ceremony held in Lom for the two football officials killed during the Togo national football team attack in Angola. ](/news/2010/01/15/president-faure-gnassingbe-and-national-team-captain-emmanuel-adebayor-are-among-dignitaries-to-attend-a-funeral-ceremony-held-in-lome-for-t.md)
 _Context: Angola, Emmanuel Adebayor, Faure Gnassingb, Lom, President, Togo national football team, Togo national football team attack, captain_

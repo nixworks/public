@@ -28,7 +28,7 @@ _Context: 4th quarter of 2007 and the second quarter of 2009, Economy of South A
 _Context: Sudan, convoy, killed, people smugglers_
 
 ### [ French President Nicolas Sarkozy will open a military base in Abu Dhabi, United Arab Emirates. ](/news/2009/05/26/french-president-nicolas-sarkozy-will-open-a-military-base-in-abu-dhabi-united-arab-emirates.md)
-_Context: Abu Dhabi, France, Nicolas Sarkozy, President of France, UAE, military installations_
+_Context: Abu Dhabi, France, Nicolas Sarkozy, President of France, United Arab Emirates, military installations_
 
 ### [ A suicide attack kills six people in Kapisa Province, Afghanistan. ](/news/2009/05/26/a-suicide-attack-kills-six-people-in-kapisa-province-afghanistan.md)
 _Context: Afghanistan, Kapisa province, suicide bombing_

@@ -85,7 +85,7 @@ Find the latest business news on Wall Street, jobs and the economy, the housing 
 _Context: European Union, Iran, nuclear scientist_
 
 ### [European Union leaders agree to reform of the Treaty of Lisbon to keep member states budget deficits in line at a two-day summit in Brussels, Belgium. ](/news/2010/10/29/european-union-leaders-agree-to-reform-of-the-treaty-of-lisbon-to-keep-member-states-budget-deficits-in-line-at-a-two-day-summit-in-brussels.md)
-_Context: Belgium, Brussels, European Union, Treaty of Lisbon, budget deficit_
+_Context: Belgian, Brussels, European Union, Treaty of Lisbon, budget deficit_
 
 ### [Foreign Ministers from Japan and China meet to try to resolve soured relations over a maritime territorial dispute. ](/news/2010/10/29/foreign-ministers-from-japan-and-china-meet-to-try-to-resolve-soured-relations-over-a-maritime-territorial-dispute.md)
 A diplomatic spat between China and Japan over a group of disputed islands flares up again, hours after an apparently friendly bilateral meeting.

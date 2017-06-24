@@ -7,7 +7,7 @@ _Context: Conflict in Iraq, Iraq, Shia, Tuz Khurmatu, mosque_
 _Context: Friday Prayer, Gaza Strip, Hamas, Israeli settlement, Muslim, Palestinian, Salah_
 
 ### [ 87 journalists are arrested at a protest in Nepal.  ](/news/2005/09/16/87-journalists-are-arrested-at-a-protest-in-nepal.md)
-_Context: Nepal, Protest, journalist_
+_Context: Nepal, journalist, protest_
 
 ### [ The President of Pakistan, Pervez Musharraf, has evoked outrage by suggesting that rape victims in Pakistan are part of a "money making concern". ](/news/2005/09/16/the-president-of-pakistan-pervez-musharraf-has-evoked-outrage-by-suggesting-that-rape-victims-in-pakistan-are-part-of-a-money-making-con.md)
 _Context: Pakistan, Pervez Musharraf, President, rape_

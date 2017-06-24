@@ -22,7 +22,7 @@ _Context: Gazprom, Russia, Russia-Ukraine gas disputes, Ukraine, natural gas_
 _Context: East Africa, Somali pirates, Somalia, seize_
 
 ### [ U.S. Federal Judge Richard J. Leon orders the release of 21-year-old Guantanamo Bay detainee Muhammad Hamid Al Qarani, who was imprisoned in 2002. ](/news/2009/01/14/u-s-federal-judge-richard-j-leon-orders-the-release-of-21-year-old-guanta-namo-bay-detainee-muhammad-hamid-al-qarani-who-was-imprisoned.md)
-_Context: Guantanamo Bay detention camp, Muhammad Hamid Al Qarani, Richard Leon, United States, United States federal judge, detainees_
+_Context: Muhammad Hamid Al Qarani, Richard Leon, United States, United States federal judge, detainee, detainees_
 
 ## [Previous Day...](/news/2009/01/13/index.md)
 

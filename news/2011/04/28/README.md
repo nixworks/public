@@ -22,7 +22,7 @@ _Context: Kampala, Kizza Besigye, Uganda_
 _Context: Cambodia, Preah Vihear Temple, Thailand_
 
 ### [U.S. president Barack Obama nominates General David Petraeus, current head of the war on Afghanistan, as his new CIA chief, and names outgoing CIA chief Leon Panetta as head of The Pentagon. ](/news/2011/04/28/u-s-president-barack-obama-nominates-general-david-petraeus-current-head-of-the-war-on-afghanistan-as-his-new-cia-chief-and-names-outgoi.md)
-_Context: Barack Obama, David Petraeus, Director of the CIA, General, Leon Panetta, United States military, War in Afghanistan (2001-present)_
+_Context: Barack Obama, David Petraeus, Director of the CIA, General, Leon Panetta, The Pentagon, War in Afghanistan (2001-present)_
 
 ### [U.S. retail giant Wal-Mart vows increased sales of weapons, including rifles and shotguns. ](/news/2011/04/28/u-s-retail-giant-wal-mart-vows-increased-sales-of-weapons-including-rifles-and-shotguns.md)
 Retail giant Wal-Mart says it will soon bring back the sale of firearms, including rifles and shotguns, at more than 500 of its US stores.

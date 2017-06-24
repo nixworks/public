@@ -1,7 +1,7 @@
 ## [2006-12-21](/news/2006/12/21/index.md)
 
 ### [ Muslim cleric Abu Bakar Bashir is cleared of any involvement in the 2002 Bali bombings by the Supreme Court of Indonesia. ](/news/2006/12/21/muslim-cleric-abu-bakar-bashir-is-cleared-of-any-involvement-in-the-2002-bali-bombings-by-the-supreme-court-of-indonesia.md)
-_Context: Abu Bakar Bashir, October 2002 Bali bombings, Supreme Court of Indonesia_
+_Context: 2002 Bali bombings, Abu Bakar Bashir, Supreme Court of Indonesia_
 
 ### [ Ipswich murder case: Suffolk police announce that Steven Wright has been charged with all five murders. ](/news/2006/12/21/ipswich-murder-case-suffolk-police-announce-that-steven-wright-has-been-charged-with-all-five-murders.md)
 _Context: Ipswich murder case, Steven Wright, Suffolk police_

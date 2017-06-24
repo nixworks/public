@@ -43,7 +43,7 @@ _Context: India, Indian Airlines, strike_
 _Context: Al-Askari Mosque, Iraq, Samarra, minaret_
 
 ### [ Indonesian police claim to have arrested Abu Dujana, the military leader of the Jemaah Islamiyah responsible for the 2002 Bali bombings. ](/news/2007/06/13/indonesian-police-claim-to-have-arrested-abu-dujana-the-military-leader-of-the-jemaah-islamiyah-responsible-for-the-2002-bali-bombings.md)
-_Context: Abu Dujana, Indonesia, Jemaah Islamiyah, October 2002 Bali bombings_
+_Context: 2002 Bali bombings, Abu Dujana, Indonesia, Jemaah Islamiyah_
 
 ## [Previous Day...](/news/2007/06/12/index.md)
 

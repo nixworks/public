@@ -19,7 +19,7 @@ _Context: Haditha killings, Iraq, United States Marine Corps, military judge_
 _Context: UNHCR, refugee_
 
 ### [ Tsutomu Miyazaki, known as "The Otaku Murderer", is executed by hanging in Tokyo for the murders and cannibalization of four young girls in 1988 and 1989. He was hanged with two others, each convicted in separate, unrelated murders. ](/news/2008/06/17/tsutomu-miyazaki-known-as-the-otaku-murderer-is-executed-by-hanging-in-tokyo-for-the-murders-and-cannibalization-of-four-young-girls-in.md)
-_Context: 1988, 1989, Otaku, Tokyo, Tsutomu Miyazaki, cannibal, death penalty, hanging, murder_
+_Context: 1988, 1989, Otaku, Tokyo, Tsutomu Miyazaki, cannibal, capital punishment, hanging, murder_
 
 ### [ In the aftermath of the 2008 Sichuan earthquake, the Chinese government faces growing criticism from grieving parents who allege that corrupt and shoddy construction was behind the disproportionately high number of collapsed school buildings. ](/news/2008/06/17/in-the-aftermath-of-the-2008-sichuan-earthquake-the-chinese-government-faces-growing-criticism-from-grieving-parents-who-allege-that-corru.md)
 Still short 2 million tents, it must also rebuild homes and jobs for 5 million.

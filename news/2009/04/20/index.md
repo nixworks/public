@@ -10,7 +10,7 @@ _Context: 2009, Pulitzer Prize_
 _Context: Oracle Corporation, Sun Microsystems, US$_
 
 ### [ India's Space Research Organization launches its RISAT-2 reconnaissance satellite. ](/news/2009/04/20/india-s-space-research-organization-launches-its-risat-2-reconnaissance-satellite.md)
-_Context: India, Indian Space Research Organisation, RISAT-2, spy satellite_
+_Context: ISRO, India, RISAT-2, spy satellite_
 
 ### [ The National Unity Party wins Northern Cyprus's legislative election. ](/news/2009/04/20/the-national-unity-party-wins-northern-cyprus-s-legislative-election.md)
 _Context: National Unity Party, election, legislative, northern_

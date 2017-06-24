@@ -31,7 +31,7 @@ _Context: Malaysia, United Kingdom, website_
 _Context: Morgan Tsvangirai, Robert Mugabe, Zimbabwe, newspaper_
 
 ### [ Eleven people, mainly young people from Germany, die in a bus crash in Belgium. [http://www.sky.com/skynews/article/0,,30000-12955762,00.html]](/news/2003/12/20/eleven-people-mainly-young-people-from-germany-die-in-a-bus-crash-in-belgium-http-www-sky-com-skynews-article-0-30000-12955762-00-ht.md)
-_Context: Belgium, Germany, bus_
+_Context: Belgian, Germany, bus_
 
 ### [ In Comoros, leaders signed an agreement clearing the way for legislative elections in April. [http://www.irinnews.org/report.asp?ReportID=38549&SelectRegion=Southern_Africa&SelectCountry=COMOROS]](/news/2003/12/20/in-comoros-leaders-signed-an-agreement-clearing-the-way-for-legislative-elections-in-april-http-www-irinnews-org-report-asp-reportid-3.md)
 _Context: Comoros_

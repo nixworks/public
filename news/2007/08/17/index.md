@@ -64,7 +64,7 @@ Federal Indigenous Affairs Minister Mal Brough says the passing of the Commonwea
 _Context: 2007 Pacific typhoon season, Chinese, Taiwan, Typhoon Sepat_
 
 ### [ Six Islamic militants involved in planning the 2002 Bali bombings have their sentences reduced by five months due to good behaviour. ](/news/2007/08/17/six-islamic-militants-involved-in-planning-the-2002-bali-bombings-have-their-sentences-reduced-by-five-months-due-to-good-behaviour.md)
-_Context: Islam, October 2002 Bali bombings_
+_Context: 2002 Bali bombings, Islam_
 
 ## [Previous Day...](/news/2007/08/16/index.md)
 

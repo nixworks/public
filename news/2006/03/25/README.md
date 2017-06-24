@@ -7,7 +7,7 @@ _Context: Scramjet, jet engine_
 _Context: Canada's annual seal hunt, cull, harp seal, pelt_
 
 ### [ An explosion at a French university chemical research facility kills one professor. The cause is unknown. ](/news/2006/03/25/an-explosion-at-a-french-university-chemical-research-facility-kills-one-professor-the-cause-is-unknown.md)
-_Context: universities_
+_Context: university_
 
 ### [ Protests against the US immigration reform bill H.R. 4437 are held in several US cities.  500,000 people march in Los Angeles, 50,000 in Denver, and 20,000 in Phoenix, Arizona, protesting proposed legislation that includes construction of a security wall along the United States-Mexico border.  ](/news/2006/03/25/protests-against-the-us-immigration-reform-bill-h-r-4437-are-held-in-several-us-cities-500-000-people-march-in-los-angeles-50-000-in-de.md)
 _Context: Denver, H.R. 4437, Los Angeles, Non-violent demonstrations for immigrant rights, Phoenix, Arizona, United States-Mexico border, immigration reform_

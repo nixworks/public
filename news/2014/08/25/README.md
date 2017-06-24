@@ -10,7 +10,7 @@ Militant group Boko Haram says it has set up an Islamic state in towns and villa
 _Context: Baghdad, Iraq, Iraqi insurgency (2011-present), Shi'ite_
 
 ### [2014 Libyan conflict:Twice in the last seven days, Egypt and the United Arab Emirates have secretly teamed up to launch airstrikes against Islamist-allied militants  battling for control of Tripoli according to senior American officials. ](/news/2014/08/25/2014-libyan-conflict-ptwice-in-the-last-seven-days-egypt-and-the-united-arab-emirates-have-secretly-teamed-up-to-launch-airstrikes-against.md)
-_Context: 2014 Libyan conflict, Egypt, Islamist-allied militants , UAE_
+_Context: 2014 Libyan conflict, Egypt, Islamist-allied militants , United Arab Emirates_
 
 ### [66th Primetime Emmy Awards:The 66th Primetime Emmy Awards for American television shows are held at the Nokia Theatre in Los Angeles, California. ](/news/2014/08/25/66th-primetime-emmy-awards-pthe-66th-primetime-emmy-awards-for-american-television-shows-are-held-at-the-nokia-theatre-in-los-angeles-calif.md)
 KEEP us bookmarked through the day for rolling coverage of the winners, losers and best gags from today’s Emmy Awards ...

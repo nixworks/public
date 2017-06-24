@@ -31,7 +31,7 @@ Democrat Terry McAuliffe holds a slight lead over Republican Ken Cuccinelli in V
 Toronto Mayor Rob Ford says admitting to the world that he smoked crack cocaine is &ldquo;the most difficult and embarrassing thing I have ever had to do,&rdquo; but he has no plans to step aside from his job.
 
 ### [The ISRO of India launches a PSLV-XL rocket carrying the Mars Orbiter Mission probe, which will eventually be sent to Mars. ](/news/2013/11/5/the-isro-of-india-launches-a-pslv-xl-rocket-carrying-the-mars-orbiter-mission-probe-which-will-eventually-be-sent-to-mars.md)
-_Context: India, Indian Space Research Organisation, Mars, Mars Orbiter Mission, Polar Satellite Launch Vehicle_
+_Context: ISRO, India, Mars, Mars Orbiter Mission, PSLV-C38_
 
 ### [The discovery of the Hercules-Corona Borealis Great Wall, the largest known structure in the universe, is announced.[http://adsabs.harvard.edu/abs/2014A%26A...561L..12H]](/news/2013/11/5/the-discovery-of-the-herculesacorona-borealis-great-wall-the-largest-known-structure-in-the-universe-is-announced-http-adsabs-harvard.md)
 _Context: Hercules-Corona Borealis Great Wall_

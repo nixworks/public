@@ -16,7 +16,7 @@ A suicide bombing at an Iraqi army base north of Baghdad has killed at least 28 
 _Context: Greece, Rhodes, earthquake, strikes_
 
 ### [ Belgian prime minister Yves Leterme resigns after less than four months in office. King Albert II does not accept his resignation. ](/news/2008/07/15/belgian-prime-minister-yves-leterme-resigns-after-less-than-four-months-in-office-king-albert-ii-does-not-accept-his-resignation.md)
-_Context: Albert II of Belgium, Belgium, King, Prime Minister, Yves Leterme_
+_Context: Albert II of Belgium, Belgian, King, Prime Minister, Yves Leterme_
 
 ## [Previous Day...](/news/2008/07/14/index.md)
 

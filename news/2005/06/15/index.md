@@ -16,7 +16,7 @@ _Context: Microsoft, People's Republic of China_
 Reuters India offers top Business and market news updates covering Indian Stock market news, finance, investment and more news headlines. Read breaking news from India in business, stocks, sensex, market, entertainment and more with videos, pictures, discussions & more Indian news.
 
 ### [ Qatari Prime Minister Abdallah ibn Khalifah Al Thani and German Chancellor Gerhard Schroder agree to begin a study to look into the feasibility of building a maglev line approximately 160&nbsp;km long linking Qatar and Bahrain, powered by Transrapid technology developed by Siemens AG and ThyssenKrupp. Also being considered is a possible extension to the United Arab Emirates that would make the combined length of the line roughly 800&nbsp;km. ](/news/2005/06/15/qatari-prime-minister-abdallah-ibn-khalifah-al-thani-and-german-chancellor-gerhard-schrapder-agree-to-begin-a-study-to-look-into-the-feasib.md)
-_Context: Abdallah ibn Khalifah Al Thani, Bahrain, Chancellor, Gerhard Schroder, Prime Minister, Siemens AG, ThyssenKrupp, Transrapid, UAE, maglev_
+_Context: Abdallah ibn Khalifah Al Thani, Bahrain, Chancellor, Gerhard Schroder, Prime Minister, Siemens AG, ThyssenKrupp, Transrapid, United Arab Emirates, maglev_
 
 ### [ Spanish police arrest 17 suspected Islamic extremists in a series of raids around the country. Eleven are alleged to be associated with Abu Musab al-Zarqawi, and 5 are alleged to be connected to the Madrid train bombings of 11 March 2004. ](/news/2005/06/15/spanish-police-arrest-17-suspected-islamic-extremists-in-a-series-of-raids-around-the-country-eleven-are-alleged-to-be-associated-with-abu.md)
 News and opinion from The Times &amp; The Sunday Times

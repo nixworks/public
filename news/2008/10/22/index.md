@@ -4,7 +4,7 @@
 The European Commission president, José Manuel Barroso, said the sum should send a “strong signal to the world” that its members stand with Georgia.
 
 ### [ The Indian Space Research Organisation successfully launches Chandrayaan-1, the country's first unmanned lunar exploration mission. ](/news/2008/10/22/the-indian-space-research-organisation-successfully-launches-chandrayaan-1-the-country-s-first-unmanned-lunar-exploration-mission.md)
-_Context: Chandrayaan-1, Indian Space Research Organisation, lunar exploration_
+_Context: Chandrayaan-1, ISRO, lunar exploration_
 
 ### [ The Macau security law draft was unveiled; it is based on the Article 23 of the Macau Basic Law, similar to the failed anti-subversion bill in Hong Kong based on Hong Kong Basic Law Article 23, which drew over 500,000 protesters in 2003. ](/news/2008/10/22/the-macau-security-law-draft-was-unveiled-it-is-based-on-the-article-23-of-the-macau-basic-law-similar-to-the-failed-anti-subversion-bill.md)
 _Context: Hong Kong, Hong Kong Basic Law Article 23, Macau Basic Law, Macau security law_

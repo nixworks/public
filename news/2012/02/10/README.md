@@ -76,7 +76,7 @@ Burmese monk Shin Gambira, one of the leaders of the 2007 protests, is taken awa
 Hamza Kashgari detained after apparently fleeing kingdom after being accused of insulting Prophet Muhammad on Twitter.
 
 ### [Firefighters hose down the Belgian prime minister's office in protest over plans to increase their retirement age. ](/news/2012/02/10/firefighters-hose-down-the-belgian-prime-minister-s-office-in-protest-over-plans-to-increase-their-retirement-age.md)
-_Context: Belgium_
+_Context: Belgian_
 
 ### [Mohamed Nasheed, former president of the Maldives, demands new elections and threatens protests if the new government meet the demands. ](/news/2012/02/10/mohamed-nasheed-former-president-of-the-maldives-demands-new-elections-and-threatens-protests-if-the-new-government-meet-the-demands.md)
 The former president of the Maldives, Mohamed Nasheed, on Friday demanded new elections and vowed mass street protests if the new government did not relent, raising the prospect of a protracted crisis on the Indian Ocean islands famed as a beach paradise.

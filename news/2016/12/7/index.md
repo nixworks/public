@@ -34,7 +34,7 @@ Kelly, who retired from the military in February, is a blunt-spoken border secur
 _Context: 2016 U.S. presidential election, Green Party of the United States, Jill Stein, Mark A. Goldsmith, Michigan, United States District Court for the Eastern District of Michigan_
 
 ### [India has launched its Resourcesat-2A imaging satellite via its Polar Satellite Launch Vehicle (PSLV) rocket. ](/news/2016/12/7/india-has-launched-its-resourcesat-2a-imaging-satellite-via-its-polar-satellite-launch-vehicle-pslv-rocket.md)
-_Context: India, Polar Satellite Launch Vehicle_
+_Context: India, PSLV-C38_
 
 ## [Previous Day...](/news/2016/12/6/index.md)
 

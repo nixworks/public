@@ -10,7 +10,7 @@ _Context: Libya, Tripoli_
 Fans and members of Bruce Springsteen&#039;s E-Street Band were left angered after &ldquo;The Boss&rdquo; and Sir Paul McCartney were silenced for breaching a council curfew at Hard Rock Calling following &ldquo;police state&rdquo; actions.
 
 ### [Saudi Arabia and the United Arab Emirates open new pipelines bypassing the Strait of Hormuz, the shipping lane that Iran has repeatedly threatened to close. ](/news/2012/07/15/saudi-arabia-and-the-united-arab-emirates-open-new-pipelines-bypassing-the-strait-of-hormuz-the-shipping-lane-that-iran-has-repeatedly-thre.md)
-_Context: Saudi Arabia, Strait of Hormuz, UAE_
+_Context: Saudi Arabia, Strait of Hormuz, United Arab Emirates_
 
 ### [A bus crash kills at least 39 pilgrims in the southern Nepali town of Parasi. ](/news/2012/07/15/a-bus-crash-kills-at-least-39-pilgrims-in-the-southern-nepali-town-of-parasi.md)
 At least 39 people die as a bus transporting Hindu pilgrims from India swerves off a road in south-western Nepal, officials say.

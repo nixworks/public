@@ -7,7 +7,7 @@ A man apparently brandishing a fake gun releases the last hostage he was holding
 _Context: U.S. branch of the Communion, gay marriage_
 
 ### [Iran's military continues to improve its long- and short-range ballistic missiles and other aspects of its armed forces, according to a Pentagon report to the US Congress. ](/news/2012/07/10/iran-s-military-continues-to-improve-its-long-and-short-range-ballistic-missiles-and-other-aspects-of-its-armed-forces-according-to-a-pent.md)
-_Context: Iran's military, US Congress, United States military, long- and short-range ballistic missiles_
+_Context: Iran's military, The Pentagon, US Congress, long- and short-range ballistic missiles_
 
 ### [Congolese warlord Thomas Lubanga is sentenced to 14 years' imprisonment by the International Criminal Court in The Hague, Netherlands, after Lubanga's conviction of recruiting and using child soldiers and other human rights violations during the Ituri conflict on March 14. ](/news/2012/07/10/congolese-warlord-thomas-lubanga-is-sentenced-to-14-years-imprisonment-by-the-international-criminal-court-in-the-hague-netherlands-after.md)
 Congolese warlord Thomas Lubanga is jailed for 14 years for recruiting and using child soldiers, in the first sentence from the International Criminal Court.

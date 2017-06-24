@@ -25,7 +25,7 @@ _Context: European Union, French naval, Somalia_
 _Context: Federal Minister of Justice, Germany, Holy See, Sabine Leutheusser-Schnarrenberger, sexual abuse_
 
 ### [Nine people go on trial charged with terrorism and links to al-Qaeda in Belgium. ](/news/2010/03/8/nine-people-go-on-trial-charged-with-terrorism-and-links-to-al-qaeda-in-belgium.md)
-_Context: Belgium, al-Qaeda, terrorism_
+_Context: Belgian, al-Qaeda, terrorism_
 
 ### [Middle East:Israel announces the construction of 112 new Jewish homes for the occupied West Bank territory despite the freeze on new settlements initiated in November 2009. ](/news/2010/03/8/middle-east-pisrael-announces-the-construction-of-112-new-jewish-homes-for-the-occupied-west-bank-territory-despite-the-freeze-on-new-settle.md)
 Israel has approved the construction of 112 new Jewish homes in the occupied West Bank, in spite of a settlement freeze announced last year.

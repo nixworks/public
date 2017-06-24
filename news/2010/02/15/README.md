@@ -22,7 +22,7 @@ _Context: Kenya, Mwai Kibaki, Raila Odinga_
 Tomas Quintana to meet opposition figures and requests talks with Aung San Suu Kyi.
 
 ### [Halle train collision: 20 people die in a train collision in Halle, Belgium. ](/news/2010/02/15/halle-train-collision-20-people-die-in-a-train-collision-in-halle-belgium.md)
-_Context: Belgium, Halle, Halle train collision_
+_Context: Belgian, Halle, Halle train collision_
 
 ### [Pope Benedict XVI begins a two-day meeting with all 24 Irish Roman Catholic bishops to discuss child abuse in a "quite unprecedented" move. ](/news/2010/02/15/pope-benedict-xvi-begins-a-two-day-meeting-with-all-24-irish-roman-catholic-bishops-to-discuss-child-abuse-in-a-quite-unprecedented-move.md)
 Pope Benedict XVI&#39;s second-in-command has urged Catholics in Ireland not to let clerical child abuse scandals shake their faith.

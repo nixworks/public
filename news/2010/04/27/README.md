@@ -28,7 +28,7 @@ _Context: Oh Eun-Sun, highest peaks, mountaineering_
 _Context: 2010 uprising, Kurmanbek Bakiyev, Kyrgyzstan_
 
 ### [Kenya's foreign minister Moses Wetangula arrives in the United Arab Emirates to resolve a diplomatic row after Kenya interrogated and deported members of the UAE's ruling family on terrorism charges. ](/news/2010/04/27/kenya-s-foreign-minister-moses-wetangula-arrives-in-the-united-arab-emirates-to-resolve-a-diplomatic-row-after-kenya-interrogated-and-deport.md)
-_Context: Kenya, Moses Wetangula, UAE, terrorism_
+_Context: Kenya, Moses Wetangula, United Arab Emirates, terrorism_
 
 ### [Haiti drops kidnapping charges against U.S. missionaries detained for trying to take children out of the country after the January earthquake. ](/news/2010/04/27/haiti-drops-kidnapping-charges-against-u-s-missionaries-detained-for-trying-to-take-children-out-of-the-country-after-the-january-earthquak.md)
 _Context: 2010 Haiti earthquake, Haiti_

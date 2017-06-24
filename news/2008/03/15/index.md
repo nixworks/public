@@ -4,7 +4,7 @@
 _Context: 2008 RBS Six Nations, France, Grand Slam, Wales_
 
 ### [ Protesting Guatemalan farmers release four Belgian tourists they had taken hostage on Thursday. ](/news/2008/03/15/protesting-guatemalan-farmers-release-four-belgian-tourists-they-had-taken-hostage-on-thursday.md)
-_Context: Belgium, Guatemala, farmer, hostage, tourist_
+_Context: Belgian, Guatemala, farmer, hostage, tourist_
 
 ### [ Michael D. Griffin, the current Administrator of NASA, announces the agency will concentrate more on the outer Solar System and less on Mars exploration, due to cuts to its 2009-2012 budget. ](/news/2008/03/15/michael-d-griffin-the-current-administrator-of-nasa-announces-the-agency-will-concentrate-more-on-the-outer-solar-system-and-less-on-mar.md)
 _Context: Administrator, Mars, Michael D. Griffin, NASA, Solar System, budget, outer, route_

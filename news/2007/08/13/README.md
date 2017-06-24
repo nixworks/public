@@ -1,7 +1,7 @@
 ## [2007-08-13](/news/2007/08/13/index.md)
 
 ### [ Two Belgian tourists who went missing last week in Iran appear to have been kidnapped by a bandit who is demanding that his brother be freed from prison. ](/news/2007/08/13/two-belgian-tourists-who-went-missing-last-week-in-iran-appear-to-have-been-kidnapped-by-a-bandit-who-is-demanding-that-his-brother-be-free.md)
-_Context: Belgium, Iran_
+_Context: Belgian, Iran_
 
 ### [ A scandal erupts in Argentina when a Venezuelan businessman is caught trying to smuggle $800,000 into the country on a plane belonging to Enarsa, Argentina's government-owned energy company. ](/news/2007/08/13/a-scandal-erupts-in-argentina-when-a-venezuelan-businessman-is-caught-trying-to-smuggle-800-000-into-the-country-on-a-plane-belonging-to-e.md)
 A scandal has left President Néstor Kirchner of Argentina and his wife scrambling to contain any potential damage to her bid to succeed him as president.
@@ -58,7 +58,7 @@ The Age 404 Page
 _Context: Malaysia, North-South Expressway, bus_
 
 ### [ The National Parliament of Papua New Guinea meets to select a new Speaker and Prime Minister of Papua New Guinea with Sir Michael Somare re-elected as Prime Minister. ](/news/2007/08/13/the-national-parliament-of-papua-new-guinea-meets-to-select-a-new-speaker-and-prime-minister-of-papua-new-guinea-with-sir-michael-somare-re.md)
-_Context: Michael Somare, National Parliament of Papua New Guinea, Prime Minister, Speaker_
+_Context: Michael Somare, National Parliament, Prime Minister, Speaker_
 
 ### [ Flooding caused by Tropical Storm Pabuk causes widespread flooding in Guangdong Province in southern China affecting up to 1.2 million people. ](/news/2007/08/13/flooding-caused-by-tropical-storm-pabuk-causes-widespread-flooding-in-guangdong-province-in-southern-china-affecting-up-to-1-2-million-peop.md)
 Downpours brought by a fading tropical storm caused widespread flooding in south China, toppling more than 3,600 houses, while in the northeast hundreds were evacuated to avoid landslides, state media said on Monday.

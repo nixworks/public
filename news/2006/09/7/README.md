@@ -10,7 +10,7 @@ _Context: 10 Most Wanted Fugitives list, New York, Ralph "Bucky" Phillips_
 _Context: Giza, Luhansk, Stonehenge, Ukraine, underground pyramids_
 
 ### ['''Belgian False Flag Terror arrests:''' Police in Belgium make arrests at army barracks and soldiers' homes as part of an investigation into suspected far-right terrorists (Bloed-Bodem-Eer en Trouw) operating inside the military. The soldiers were reportedly planning attacks aimed at destabilizing the country. ](/news/2006/09/7/belgian-false-flag-terror-arrests-police-in-belgium-make-arrests-at-army-barracks-and-soldiers-homes-as-part-of-an-investigation-int.md)
-_Context: Belgium, Bloed, Bodem, Eer en Trouw, destabilizing the country, far right, terrorists_
+_Context: Belgian, Bloed, Bodem, Eer en Trouw, destabilizing the country, far right, terrorists_
 
 ### [The U.S. military prohibits cruel, inhumane or degrading treatment for "unlawful combatants" in a sweeping revision of DoD Directive 2310. ](/news/2006/09/7/the-u-s-military-prohibits-cruel-inhumane-or-degrading-treatment-for-unlawful-combatants-in-a-sweeping-revision-of-dod-directive-2310.md)
 _Context: DoD Directive 2310, unlawful combatant_

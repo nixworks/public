@@ -7,7 +7,7 @@ _Context: Michael Jackson_
 _Context: Charles Ingram, Who Wants to Be a Millionaire?_
 
 ### [ Donald Rumsfeld warns of $2,300,000,000,000 of Pentagon spending that cannot be accounted for. ](/news/2001/09/10/donald-rumsfeld-warns-of-2-300-000-000-000-of-pentagon-spending-that-cannot-be-accounted-for.md)
-_Context: Donald Rumsfeld, United States military_
+_Context: Donald Rumsfeld, The Pentagon_
 
 ### [ Norwegian parliamentary election, 2001: Votes in Norway go to the polls for the parliamentary election with Thorbjrn Jagland scoring a victory.](/news/2001/09/10/norwegian-parliamentary-election-2001-votes-in-norway-go-to-the-polls-for-the-parliamentary-election-with-thorbjorn-jagland-scoring-a-vic.md)
 _Context: Norway, Norwegian parliamentary election, 2001, Thorbjrn Jagland_

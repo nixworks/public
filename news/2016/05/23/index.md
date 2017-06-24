@@ -64,7 +64,7 @@ MANILA, Philippines (AP) — The presumptive Philippine president-elect said Mon
 The leading opposition party, the Progressive Party of Working People, will have 15 seats, and the Democratic Party, which finished third, will take nine seats
 
 ### [ ISRO successfully launched India's Reusable Launch Vehicle demonstrator mission (RLV-TD).](/news/2016/05/23/isro-successfully-launched-india-s-reusable-launch-vehicle-demonstrator-mission-rlv-td.md)
-_Context: India, Indian Space Research Organisation, RLV-TD_
+_Context: ISRO, India, RLV-TD_
 
 ## [Previous Day...](/news/2016/05/22/index.md)
 

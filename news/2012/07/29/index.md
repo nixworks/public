@@ -13,7 +13,7 @@ _Context: North Korea, Tropical Storm Khanun_
 _Context: Democratic Republic of the Congo, Rwanda_
 
 ### [Ten more Islamists are arrested in the United Arab Emirates as part of a crackdown on dissidents, according to activists. ](/news/2012/07/29/ten-more-islamists-are-arrested-in-the-united-arab-emirates-as-part-of-a-crackdown-on-dissidents-according-to-activists.md)
-_Context: Islamist, UAE, dissidents_
+_Context: Islamist, United Arab Emirates, dissidents_
 
 ### [Thousands of anti-nuclear protesters form a human chain around the Japanese parliament in Tokyo. ](/news/2012/07/29/thousands-of-anti-nuclear-protesters-form-a-human-chain-around-the-japanese-parliament-in-tokyo.md)
 _Context: Japan, Tokyo, parliament_

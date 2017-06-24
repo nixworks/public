@@ -4,7 +4,7 @@
 A leader of the nascent Venezuelan student movement protesting President Hugo Chávez’s expanding power described it as the most cohesive challenge to Mr. Chávez’s government.
 
 ### [ In Belgium, government formation discussions have gone on for a record 150 days as Flemish and Walloon politicians clash over Brussels-Halle-Vilvoorde. ](/news/2007/11/7/in-belgium-government-formation-discussions-have-gone-on-for-a-record-150-days-as-flemish-and-walloon-politicians-clash-over-brussels-hall.md)
-_Context: Belgium, Brussels-Halle-Vilvoorde, Flemish, Wallonia, forms a temporary coalition government_
+_Context: Belgian, Brussels-Halle-Vilvoorde, Flemish, Wallonia, forms a temporary coalition government_
 
 ### [ Astronomers in the United States have found a fifth planet in orbit around the star 55 Cancri 41 light years from Earth. ](/news/2007/11/7/astronomers-in-the-united-states-have-found-a-fifth-planet-in-orbit-around-the-star-55-cancri-41-light-years-from-earth.md)
 _Context: 55 Cancri, Astronomer, United States, fifth planet, light years, orbit_

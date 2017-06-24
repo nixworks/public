@@ -13,7 +13,7 @@ _Context: Jeff Weise, Minnesota, Red Lake High School, Red Lake shootings, Schoo
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Tulip Revolution: After taking Jalal-Abad in southern Kyrgyzstan one day earlier, opposition protesters against electoral fraud in the 2005 parliamentary elections take over the northern city of Osh and seize government buildings. Prime minister states the government does not intend to use force. ](/news/2005/03/21/tulip-revolution-after-taking-jalal-abad-in-southern-kyrgyzstan-one-day-earlier-opposition-protesters-against-electoral-fraud-in-the-2005.md)
-_Context: 2005 parliamentary elections, Jalal-Abad, Kyrgyzstan, Osh, Protest, Tulip Revolution, electoral fraud_
+_Context: 2005 parliamentary elections, Jalal-Abad, Kyrgyzstan, Osh, Tulip Revolution, electoral fraud, protest_
 
 ### [ Indian politician Narendra Modi addresses a meeting of Indian-Americans via satellite. He claims there is a "disinformation campaign" against India. ](/news/2005/03/21/indian-politician-narendra-modi-addresses-a-meeting-of-indian-americans-via-satellite-he-claims-there-is-a-disinformation-campaign-again.md)
 _Context: Indian-American, Narendra Modi_

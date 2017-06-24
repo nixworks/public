@@ -25,7 +25,7 @@ _Context: Al Jizah, Egypt, governorates, secondary school, truck_
 _Context: Bible, Turkey, sectarian_
 
 ### [ Australia and the United States agree to exchange hundreds of asylum seekers kept in offshore detention camps in Nauru and Guantanamo Bay. ](/news/2007/04/18/australia-and-the-united-states-agree-to-exchange-hundreds-of-asylum-seekers-kept-in-offshore-detention-camps-in-nauru-and-guantanamo-bay.md)
-_Context: Australia, Guantanamo Bay detention camp, Nauru, United States, asylum seeker_
+_Context: Australia, Nauru, United States, asylum seeker, detainee_
 
 ### [ Iccho Itoh, Mayor of Nagasaki, Japan, dies after being shot in a suspected gangland killing on Tuesday. Japanese Prime Minister Shinzo Abe denounces the murder as unforgivable. ](/news/2007/04/18/iccho-itoh-mayor-of-nagasaki-japan-dies-after-being-shot-in-a-suspected-gangland-killing-on-tuesday-japanese-prime-minister-shinzo-abe.md)
 The mayor of the Japanese city of Nagasaki died early on Wednesday after being gunned down by a suspected gangster, stunning a nation where shootings are extremely rare.

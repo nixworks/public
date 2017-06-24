@@ -25,7 +25,7 @@ North Korea has again urged the United States to accept its demand for direct ta
 _Context: Equatorial Guinea, Simon Mann, coup d'tat, mercenaries_
 
 ### [ Four people are sentenced to death by hanging in Tanzania for the killing of an Albino man last year. ](/news/2009/11/2/four-people-are-sentenced-to-death-by-hanging-in-tanzania-for-the-killing-of-an-albino-man-last-year.md)
-_Context: Tanzania, albino, death penalty, hanging_
+_Context: Tanzania, albino, capital punishment, hanging_
 
 ### [ Former Bosnian Serb leader Radovan Karadzic is to attend his war crimes trial on Tuesday, after boycotting previous sittings. ](/news/2009/11/2/former-bosnian-serb-leader-radovan-karada3-4ia-is-to-attend-his-war-crimes-trial-on-tuesday-after-boycotting-previous-sittings.md)
 Radovan Karadzic will on Tuesday appear before a United Nations war crimes tribunal in a special hearing that will attempt to end the former Bosnian Serb leader&#039;s boycott of his trial for genocide.

@@ -19,7 +19,7 @@ _Context: Mozambique, Nampula Province, arrest, police_
 _Context: Andry Rajoelina, Madagascar, President, constitutional court, political crisis_
 
 ### [ Governor Bill Richardson signs House Bill 285, repealing capital punishment in New Mexico. ](/news/2009/03/18/governor-bill-richardson-signs-house-bill-285-repealing-capital-punishment-in-new-mexico.md)
-_Context: Bill Richardson, Governor, House, New Mexico, bill into law, death penalty_
+_Context: Bill Richardson, Governor, House, New Mexico, bill into law, capital punishment_
 
 ### [ Federal Reserve System Chairman Ben Bernanke caps United States Treasury Department yields. ](/news/2009/03/18/federal-reserve-system-chairman-ben-bernanke-caps-united-states-treasury-department-yields.md)
 _Context: Ben Bernanke, Chairman of the Federal Reserve, U.S. Federal Reserve, United States, United States Department of the Treasury, caps, yields_

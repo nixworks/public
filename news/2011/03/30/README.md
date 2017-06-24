@@ -61,7 +61,7 @@ _Context: North Korea, People's Republic of China, South Korea, Yonhap, refugee_
 Vice President Jejomar Binay confirms that the three convicted Filipino drug mules were executed in China.
 
 ### [A man suspected of being Umar Patek wanted for his alleged role in the 2002 Bali bombings is arrested in Pakistan. ](/news/2011/03/30/a-man-suspected-of-being-umar-patek-wanted-for-his-alleged-role-in-the-2002-bali-bombings-is-arrested-in-pakistan.md)
-_Context: October 2002 Bali bombings, Pakistan, Umar Patek_
+_Context: 2002 Bali bombings, Pakistan, Umar Patek_
 
 ### [Diamonds worth millions are stolen from the BaselWorld Watch and Jewellery Fair in Basel, Switzerland. ](/news/2011/03/30/diamonds-worth-millions-are-stolen-from-the-baselworld-watch-and-jewellery-fair-in-basel-switzerland.md)
 Four diamonds worth millions of pounds have been stolen from the world&#039;s biggest watch and jewellery fair in the Swiss city of Basel.

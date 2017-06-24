@@ -19,7 +19,7 @@ In perhaps the starkest sign yet of trouble in the news business, media giant Tr
 Eleven Egyptians were killed and 30 injured when their bus overturned during a church outing, police sources say.
 
 ### [ In a Guantanamo Bay Naval Base military commission, Khalid Sheikh Mohammed and four co-defendants announce their intentions to plead guilty to charges relating to the September 11, 2001, attacks. ](/news/2008/12/8/in-a-guantanamo-bay-naval-base-military-commission-khalid-sheikh-mohammed-and-four-co-defendants-announce-their-intentions-to-plead-guilty.md)
-_Context: Khalid Sheikh Mohammed, September 11 attacks, military base at Guantanamo Bay, military commission_
+_Context: Guantanamo military commission, Khalid Sheikh Mohammed, September 11 attacks, military base at Guantanamo Bay_
 
 ### [ Quebec general election, 2008: Premier Jean Charest leads the Liberal Party to a third mandate and a majority government. Pauline Marois's Parti Qubcois recovers and becomes the Official Opposition. Support for the ADQ collapses: it loses more than 30 seats and leader Mario Dumont announces his resignation. Qubec Solidaire scores its first election victory, electing party co-leader Amir Khadir. ](/news/2008/12/8/quebec-general-election-2008-p-premier-jean-charest-leads-the-liberal-party-to-a-third-mandate-and-a-majority-government-p-pauline-marois.md)
 _Context: ADQ, Amir Khadir, Jean Charest, Liberal Party, Mario Dumont, Official Opposition, Parti Qubcois, Pauline Marois, Qubec Solidaire, Quebec general election, 2008, premier of Quebec_

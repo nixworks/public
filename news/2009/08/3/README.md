@@ -43,7 +43,7 @@ _Context: Australia, Kyle Sandilands, P!nk, rape_
 _Context: South Sudan_
 
 ### [ The death sentences of more than 4000 prisoners in Kenya are commuted to life imprisonment. ](/news/2009/08/3/the-death-sentences-of-more-than-4000-prisoners-in-kenya-are-commuted-to-life-imprisonment.md)
-_Context: Kenya, death penalty, life imprisonment_
+_Context: Kenya, capital punishment, life imprisonment_
 
 ## [Previous Day...](/news/2009/08/2/index.md)
 

@@ -13,7 +13,7 @@ _Context: Chinese, Republic of Korea Coast Guard, South Korea, fishing boat, ill
 Canada will pull out of the Kyoto protocol on climate change, Environment Minister Peter Kent said on Monday, dealing a symbolic blow to the troubled global treaty.
 
 ### [The Supreme Court of Papua New Guinea rules that the August 2011 election of Peter O'Neill as Prime Minister was unconstitutional and orders the reinstatement of former Prime Minister Michael Somare to office. ](/news/2011/12/12/the-supreme-court-of-papua-new-guinea-rules-that-the-august-2011-election-of-peter-o-neill-as-prime-minister-was-unconstitutional-and-orders.md)
-_Context: Michael Somare, Prime Minister, Supreme Court of Papua New Guinea, the prime minister_
+_Context: Michael Somare, Peter O'Neill, Prime Minister, Supreme Court of Papua New Guinea_
 
 ### [The House of Representatives of the Philippines impeaches Chief Justice Renato Corona after 188 representatives signed a complaint. This is the second impeachment passed in the year after the impeachment of Ombudsman Merceditas Gutierrez early in March. ](/news/2011/12/12/the-house-of-representatives-of-the-philippines-impeaches-chief-justice-renato-corona-after-188-representatives-signed-a-complaint-this-is.md)
 _Context: Chief Justice of the Supreme Court, Merceditas Gutierrez, Renato Corona, congresswoman_

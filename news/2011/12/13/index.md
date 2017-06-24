@@ -22,7 +22,7 @@ A school bus ferrying students home from a primary school in rural China rolled 
 A giant bridge under construction in Russia’s Far East has caught fire due to safety violations during welding. Fortunately, the steel cable stays and reinforcements have not been affected and the bridge will be finished on time.
 
 ### [Political tension continues in Papua New Guinea with former Prime Minister Sir Michael Somare expected to be sworn in again following a ruling by the Supreme Court and incumbent PM Peter O'Neill refusing to stand aside. ](/news/2011/12/13/political-tension-continues-in-papua-new-guinea-with-former-prime-minister-sir-michael-somare-expected-to-be-sworn-in-again-following-a-ruli.md)
-_Context: Michael Somare, Papua New Guinea, Prime Minister, Supreme Court of Papua New Guinea, the prime minister_
+_Context: Michael Somare, Papua New Guinea, Peter O'Neill, Prime Minister, Supreme Court of Papua New Guinea_
 
 ### [Iran has turned down the United States request to return a RQ-170 that was captured recently by Iranian forces after it crash landed in the country. Iranian officials report that they are extracting data from the aircraft. Iranian officials stated the drone was brought down by a cyber attack. ](/news/2011/12/13/iran-has-turned-down-the-united-states-request-to-return-a-rq-170-that-was-captured-recently-by-iranian-forces-after-it-crash-landed-in-the.md)
 _Context: Iran, RQ-170, United States, cyber attack_

@@ -13,7 +13,7 @@ Pakistan says it has killed the alleged mastermind of a school attack in Peshawa
 _Context: Islamic State of Iraq and Syria, Pope Francis, Urbi et Orbi, children, ethnic minorities, women_
 
 ### [Iraqi Christians defy persecution and celebrate Christmas  in Baghdad. ](/news/2014/12/25/iraqi-christians-defy-persecution-and-celebrate-christmas-in-baghdad.md)
-_Context: Baghdad, Christmas, Iraq, Iraqi Christians_
+_Context: Baghdad, Christmas, Iraq, Iraqi Christian_
 
 ### [In her Royal Christmas Message, Queen Elizabeth II praises aid workers for fighting ebola in West Africa. ](/news/2014/12/25/in-her-royal-christmas-message-queen-elizabeth-ii-praises-aid-workers-for-fighting-ebola-in-west-africa.md)
 _Context: 2014 Ebola epidemic, Ebola, Queen Elizabeth II, Royal Christmas Message, West Africa_

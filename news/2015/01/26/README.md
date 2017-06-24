@@ -28,7 +28,7 @@ _Context: CIA, Jeffrey Alexander Sterling, US Eastern District Court of Virginia
 _Context: Chinese, Communist Party Secretary, Huang Lixin, Nanjing, Yang Weize_
 
 ### [A single day after the radical-left SYRIZA party wins the Greek elections, it forms an anti-austerity coalition government with the right-wing Independent Greeks ](/news/2015/01/26/a-single-day-after-the-radical-left-syriza-party-wins-the-greek-elections-it-forms-an-anti-austerity-coalition-government-with-the-right-wi.md)
-_Context: Greek elections, Independent Greeks, Syriza, coalition government_
+_Context: Greek elections, Independent Greeks, Syriza, governing coalition_
 
 ### [The Church of England ordains Libby Lane as their first female bishop, at York Minster, United Kingdom. ](/news/2015/01/26/the-church-of-england-ordains-libby-lane-as-their-first-female-bishop-at-york-minster-united-kingdom.md)
 _Context: Church of England, Libby Lane, United Kingdom, York Minster_

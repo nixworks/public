@@ -31,7 +31,7 @@ Sun Hung Kai Properties Ltd said on Friday that former chairman Walter Kwok hasi
 The government will consult on new measures to protect children from internet pornography, including a parental opt-in policy for receiving adult content.
 
 ### [The trial of Khalid Sheikh Mohammed, the accused mastermind of the September 11, 2001 terrorist attacks, starts at the Guantanamo Bay detention camp. ](/news/2012/05/4/the-trial-of-khalid-sheikh-mohammed-the-accused-mastermind-of-the-september-11-2001-terrorist-attacks-starts-at-the-guantanamo-bay-detent.md)
-_Context: Guantanamo Bay detention camp, Khalid Sheikh Mohammed, September 11 attacks_
+_Context: Khalid Sheikh Mohammed, September 11 attacks, detainee_
 
 ### [Tanzania's President Jakaya Kikwete sacks six ministers amid allegations of government corruption. ](/news/2012/05/4/tanzania-s-president-jakaya-kikwete-sacks-six-ministers-amid-allegations-of-government-corruption.md)
 _Context: Jakaya Kikwete, Tanzania_

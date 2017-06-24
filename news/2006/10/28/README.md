@@ -1,7 +1,7 @@
 ## [2006-10-28](/news/2006/10/28/index.md)
 
 ### [ General Henry Obering, the head of the Pentagon's Missile Defense Agency welcomes what he cast as epochal progress toward putting a high-energy laser aboard a modified Boeing 747 to attack ballistic missiles that could be fired by North Korea and Iran. ](/news/2006/10/28/general-henry-obering-the-head-of-the-pentagon-s-missile-defense-agency-welcomes-what-he-cast-as-epochal-progress-toward-putting-a-high-en.md)
-_Context: Boeing 747, Henry Obering, Iran, Missile Defense Agency, North Korea, United States military, ballistic missiles, laser_
+_Context: Boeing 747, Henry Obering, Iran, Missile Defense Agency, North Korea, The Pentagon, ballistic missiles, laser_
 
 ### [ Cuban television shows images of convalescing leader Fidel Castro walking and reading the day's newspapers showing that he is recovering from his emergency surgery in July. ](/news/2006/10/28/cuban-television-shows-images-of-convalescing-leader-fidel-castro-walking-and-reading-the-day-s-newspapers-showing-that-he-is-recovering-fr.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

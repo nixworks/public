@@ -16,7 +16,7 @@ _Context: Luis Echeverria, Mexico, President, genocide_
 Spanish police have boarded a boat operated by a US company which Madrid believes may have taken treasure worth hundreds of millions of dollars from a Spanish galleon.
 
 ### [ Cecilia Sarkozy, the wife of French President Nicolas Sarkozy, flies to Libya and visits the Bulgarian medics condemned to death for allegedly infecting children with HIV and also the families of the infected children. She will also meet Colonel Muammar al-Gaddafi, the President of Libya. ](/news/2007/07/12/ca-c-cilia-sarkozy-the-wife-of-french-president-nicolas-sarkozy-flies-to-libya-and-visits-the-bulgarian-medics-condemned-to-death-for-alleg.md)
-_Context: Bulgaria, Cecilia Sarkozy, Colonel, France, HIV trial in Libya, Libya, Muammar al-Gaddafi, Nicolas Sarkozy, President of France, President of Libya, death penalty_
+_Context: Bulgaria, Cecilia Sarkozy, Colonel, France, HIV trial in Libya, Libya, Muammar al-Gaddafi, Nicolas Sarkozy, President of France, President of Libya, capital punishment_
 
 ### [ The Nepalese government introduces a budget that scraps payments to King Gyanendra of Nepal and nationalises royal property. ](/news/2007/07/12/the-nepalese-government-introduces-a-budget-that-scraps-payments-to-king-gyanendra-of-nepal-and-nationalises-royal-property.md)
 Nepal&#039;s Government has scrapped payments to King Gyanendra and vowed to nationalise royal property in a Budget presented to Parliament that deals a major blow to the embattled monarch.

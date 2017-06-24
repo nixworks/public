@@ -1,7 +1,7 @@
 ## [2005-03-3](/news/2005/03/3/index.md)
 
 ### [ In Belgium, Nama Amzil, a Muslim woman leaves her job after her employer is targeted with a seventh death threat, sent by a group named New Free Flanders (Nieuw Vrij Vlaanderen). She is targeted because she is Muslim and wears a headscarf at work. ](/news/2005/03/3/in-belgium-naima-amzil-a-muslim-woman-leaves-her-job-after-her-employer-is-targeted-with-a-seventh-death-threat-sent-by-a-group-named-ne.md)
-_Context: Belgium, Muslim, Nama Amzil, New Free Flanders, headscarves_
+_Context: Belgian, Muslim, Nama Amzil, New Free Flanders, headscarves_
 
 ### [ Four officers of the Royal Canadian Mounted Police are shot dead while investigating a man suspected of stealing a pickup truck, west of Edmonton, Alberta. This is the largest single death toll for RCMP officers since the Northwest Rebellion. ](/news/2005/03/3/four-officers-of-the-royal-canadian-mounted-police-are-shot-dead-while-investigating-a-man-suspected-of-stealing-a-pickup-truck-west-of-ed.md)
 _Context: Edmonton, Alberta, Northwest Rebellion, Royal Canadian Mounted Police_

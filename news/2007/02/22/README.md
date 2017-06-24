@@ -16,7 +16,7 @@ _Context: Central American Parliament, El Salvador, Guatemala_
 _Context: Japan, oil, yen_
 
 ### [ Vice-President of the United States Dick Cheney arrives in Australia to discuss issues including Iraq, Afghanistan and the detention of David Hicks with the Australian government. Upon arrival he is greeted by violent demonstrations. ](/news/2007/02/22/vice-president-of-the-united-states-dick-cheney-arrives-in-australia-to-discuss-issues-including-iraq-afghanistan-and-the-detention-of-dav.md)
-_Context: Australia, Australian Government, David Hicks, Dick Cheney, Iraq War, Protest, U.S. Vice President, War in Afghanistan (2001-present)_
+_Context: Australia, Australian Government, David Hicks, Dick Cheney, Iraq War, U.S. Vice President, War in Afghanistan (2001-present), protest_
 
 ### [ Seven people are detained in India in relation to the 2007 Samjhauta Express bombings. ](/news/2007/02/22/seven-people-are-detained-in-india-in-relation-to-the-2007-samjhauta-express-bombings.md)
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News

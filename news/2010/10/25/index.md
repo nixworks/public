@@ -19,7 +19,7 @@ _Context: Africa, Beijing, Chinese, Forum on China-Africa Cooperation, Jia Qingl
 _Context: Jokhang, Lhasa, Lhasa Tourist Service Center, Namtso Scenic Spot, Potala Palace_
 
 ### [United Arab Emirates pavilion in Shanghai wins National Council of Structural Engineers Associations (NCSEA) Excellence Award in Structural Engineering at Shanghai Expo 2010. ](/news/2010/10/25/united-arab-emirates-pavilion-in-shanghai-wins-national-council-of-structural-engineers-associations-ncsea-excellence-award-in-structural.md)
-_Context: National Council of Structural Engineers Associations, Shanghai, Shanghai Expo, Structural Engineering, UAE_
+_Context: National Council of Structural Engineers Associations, Shanghai, Shanghai Expo, Structural Engineering, United Arab Emirates_
 
 ### [Singapore Exchange proposes a $A8.4 billion takeover of the Australian Securities Exchange. ](/news/2010/10/25/singapore-exchange-proposes-a-a8-4-billion-takeover-of-the-australian-securities-exchange.md)
 The Singapore stock exchange unveils a multi-billion dollar bid for the company that owns the Australian Stock Exchange in Sydney.

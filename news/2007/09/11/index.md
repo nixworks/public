@@ -22,7 +22,7 @@ Ethiopians have entered the third millennium - seven years after the rest of the
 The lethal Ebola virus has resurfaced in central Congo, U.N. officials said, and health experts were rushing supplies and doctors into the remote area to contain the disease.
 
 ### [ Belgian police arrest two leaders of the Vlaams Belang party, Frank Vanhecke and Filip Dewinter, as well as dozens of party supporters during a banned march in Brussels against the "Islamisation of Europe". ](/news/2007/09/11/belgian-police-arrest-two-leaders-of-the-vlaams-belang-party-frank-vanhecke-and-filip-dewinter-as-well-as-dozens-of-party-supporters-duri.md)
-_Context: Belgium, Brussels, Europe, Filip Dewinter, Frank Vanhecke, Islamisation, Vlaams Belang_
+_Context: Belgian, Brussels, Europe, Filip Dewinter, Frank Vanhecke, Islamisation, Vlaams Belang_
 
 ### [ Russia claims to have tested the world's most powerful vacuum bomb, nicknamed ''Father of All Bombs'' after the MOAB, with yield equivalent to a small nuclear weapon. ](/news/2007/09/11/russia-claims-to-have-tested-the-world-s-most-powerful-vacuum-bomb-nicknamed-father-of-all-bombs-after-the-moab-with-yield-equivalent.md)
 Russia says it has tested the world&#039;s most powerful vacuum bomb.

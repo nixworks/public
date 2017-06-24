@@ -31,7 +31,7 @@ _Context: 9/11 Commission, United States Congress_
 _Context: Democratic Republic of the Congo, United Nations Educational, Scientific and Cultural Organisation, Virunga National Park, mountain gorilla_
 
 ### [ Yakub Memon, one of the masterminds behind the 1993 Bombay bombings, is sentenced to death in India. ](/news/2007/07/27/yakub-memon-one-of-the-masterminds-behind-the-1993-bombay-bombings-is-sentenced-to-death-in-india.md)
-_Context: 1993 Bombay bombings, India, Yakub Memon, death penalty_
+_Context: 1993 Bombay bombings, India, Yakub Memon, capital punishment_
 
 ### [ The European Commission accuses Intel Corporation of anti-competitive practices against Advanced Micro Devices. ](/news/2007/07/27/the-european-commission-accuses-intel-corporation-of-anti-competitive-practices-against-advanced-micro-devices.md)
 _Context: Advanced Micro Devices, European Commission, Intel Corporation, anti-competitive practices_

@@ -19,7 +19,7 @@ PSY must be psyched! The Korean pop star who has taken America by storm has made
 At least 83 people have died in Ukraine from the severe cold spell gripping the country, health officials say.
 
 ### [Five people are killed and one injured in Zeebrugge, Belgium, when a bus rolled off into the water. ](/news/2012/12/21/five-people-are-killed-and-one-injured-in-zeebrugge-belgium-when-a-bus-rolled-off-into-the-water.md)
-_Context: Belgium, Zeebrugge_
+_Context: Belgian, Zeebrugge_
 
 ### [A British court rejects an attempt by the son of a man killed in U.S. drone strike in Pakistan to force the UK government to reveal if it provided intelligence to assist US action. ](/news/2012/12/21/a-british-court-rejects-an-attempt-by-the-son-of-a-man-killed-in-u-s-drone-strike-in-pakistan-to-force-the-uk-government-to-reveal-if-it-pr.md)
 The High Court rejects an attempt by a Pakistani man to force the UK government to reveal if it is providing intelligence for US drone strikes.

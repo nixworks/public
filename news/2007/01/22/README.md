@@ -4,7 +4,7 @@
 _Context: Baghdad, Baquba, Iraq War_
 
 ### [ Indian spacecraft SRE 1 successfully completes a twelve-day orbital test flight, making India one of the few nations to return a craft from orbit.  ](/news/2007/01/22/indian-spacecraft-sre-1-successfully-completes-a-twelve-day-orbital-test-flight-making-india-one-of-the-few-nations-to-return-a-craft-from.md)
-_Context: India, Indian Space Research Organisation, SRE 1, orbit, return a craft from orbit_
+_Context: ISRO, India, SRE 1, orbit, return a craft from orbit_
 
 ### [ A large bushfire rages north of Sydney. ](/news/2007/01/22/a-large-bushfire-rages-north-of-sydney.md)
 _Context: Sydney, bushfire_

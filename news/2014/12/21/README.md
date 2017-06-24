@@ -10,7 +10,7 @@ _Context: Egypt, Gaza Strip, border crossing_
 South Korea has suspended imports of US poultry and poultry products because of an outbreak of bird flu in the United States, the agriculture ministry said in a statement on Sunday.
 
 ### [After an eight-year informal moratorium on the death penalty, Jordan executes 11 men. ](/news/2014/12/21/after-an-eight-year-informal-moratorium-on-the-death-penalty-jordan-executes-11-men.md)
-_Context: Capital punishment in Jordan, Jordan, death penalty_
+_Context: Capital punishment in Jordan, Jordan, capital punishment_
 
 ### [China has detained more than thirty thousand people within two months for pornography and gambling. ](/news/2014/12/21/china-has-detained-more-than-thirty-thousand-people-within-two-months-for-pornography-and-gambling.md)
 China has detained over 30,000 people during a two-month clamp down on pornography and gambling, state news agency Xinhua reported on Sunday.

@@ -10,7 +10,7 @@ _Context: 2008 Wimbledon Championships, Rafael Nadal, Roger Federer, Spain, Swis
 _Context: NBC, Weather Channel_
 
 ### [ The United Arab Emirates forgives the 7 billion dollars (USD) of foreign debt Iraq owes it. ](/news/2008/07/6/the-united-arab-emirates-forgives-the-7-billion-dollars-usd-of-foreign-debt-iraq-owes-it.md)
-_Context: Iraq, UAE, foreign debt_
+_Context: Iraq, United Arab Emirates, foreign debt_
 
 ### [ World leaders arrive in Japan for the G8 summit to be held in Toyako, Hokkaido. ](/news/2008/07/6/world-leaders-arrive-in-japan-for-the-g8-summit-to-be-held-in-tayako-hokkaida.md)
 _Context: 34th G8 summit, G8 group of nations, Japan, Toyako, Hokkaido_

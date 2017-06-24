@@ -28,7 +28,7 @@ _Context: Massachusetts, Northeastern United States, blizzard_
 _Context: Gujarat, India, swine flu_
 
 ### [The United Arab Emirates suspends its embassy operations in Yemen due to security concerns surrounding the recent Shiite Houthi rebel take over of the country. ](/news/2015/02/14/the-united-arab-emirates-suspends-its-embassy-operations-in-yemen-due-to-security-concerns-surrounding-the-recent-shiite-houthi-rebel-take-o.md)
-_Context: UAE, Yemen, Yemeni Crisis (2011-present)_
+_Context: United Arab Emirates, Yemen, Yemeni Crisis (2011-present)_
 
 ### [The Prime Minister of Australia Tony Abbott issues a last-minute plea for Bali Nine drug smugglers Andrew Chan and Myuran Sukumaran facing the death penalty in Indonesia. ](/news/2015/02/14/the-prime-minister-of-australia-tony-abbott-issues-a-last-minute-plea-for-bali-nine-drug-smugglers-andrew-chan-and-myuran-sukumaran-facing-t.md)
 _Context: Andrew Chan, Bali Nine, Indonesia, Myuran Sukumaran, Prime Minister of Australia, Tony Abbott, death penalty_

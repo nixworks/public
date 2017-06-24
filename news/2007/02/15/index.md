@@ -34,7 +34,7 @@ _Context: Geraldton, Western Australia, United States_
 _Context: Foreign Minister of China, Japan, Li Zhaoxing, Premier of the People's Republic of China, Wen Jiabao_
 
 ### [ Chris Ellison, the Australian Minister for Justice, warns anti-whaling protesters and the Japanese whaling fleet that they could face questioning over recent clashes in the Southern Ocean. Meanwhile, the crew were evacuated from the largest ship in the Japanese Antarctic fleet, the ''Nisshin Maru,'' following a fire. ](/news/2007/02/15/chris-ellison-the-australian-minister-for-justice-warns-anti-whaling-protesters-and-the-japanese-whaling-fleet-that-they-could-face-quest.md)
-_Context: Antarctic, Australia, Chris Ellison, Japan, Nisshin Maru, Protest, Southern Ocean, hunt_
+_Context: Antarctic, Australia, Chris Ellison, Japan, Nisshin Maru, Southern Ocean, hunt, protest_
 
 ### [ The trial of 29 suspects in relation to the 2004 Madrid train bombings begins in Madrid, Spain. ](/news/2007/02/15/the-trial-of-29-suspects-in-relation-to-the-2004-madrid-train-bombings-begins-in-madrid-spain.md)
 _Context: 2004 Madrid train bombings, Madrid, Spain_

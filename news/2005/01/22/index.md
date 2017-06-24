@@ -1,7 +1,7 @@
 ## [2005-01-22](/news/2005/01/22/index.md)
 
 ### [ The Washington Post alleges that the Pentagon is running a military organization known as the Strategic Support Branch which is under the direct control of U.S. Defense Secretary Donald Rumsfeld. Allegedly it is used to bypass the limitations of working with the Central Intelligence Agency. The Pentagon stated "There is no unit that is directly reportable to the secretary of defense for clandestine operations" and the department "is not attempting to 'bend' statutes to fit desired activities". ](/news/2005/01/22/the-washington-post-alleges-that-the-pentagon-is-running-a-military-organization-known-as-the-strategic-support-branch-which-is-under-the-d.md)
-_Context: Central Intelligence Agency, Donald Rumsfeld, Strategic Support Branch, U.S. Defense Secretary, United States military, Washington Post_
+_Context: Central Intelligence Agency, Donald Rumsfeld, Strategic Support Branch, The Pentagon, U.S. Defense Secretary, Washington Post_
 
 ### [ The Tsunami relief concert is held at the Millennium Stadium, Cardiff, in aid of the victims of the 2004 Indian Ocean earthquake, raising over PS1.25 million (EUR1.8 million or $2.4 million), making it the biggest charity concert in the United Kingdom since Live Aid in 1985. ](/news/2005/01/22/the-tsunami-relief-concert-is-held-at-the-millennium-stadium-cardiff-in-aid-of-the-victims-of-the-2004-indian-ocean-earthquake-raising-o.md)
 _Context: 2004 Indian Ocean earthquake, Cardiff, Live Aid, Millennium Stadium, Tsunami relief concert, United Kingdom_

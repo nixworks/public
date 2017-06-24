@@ -22,7 +22,7 @@ _Context: Hurricane Katrina, Louisiana_
 _Context: Prime Minister of Ukraine, Ukraine, Ukrainian President, Viktor Yushchenko, Yulia Tymoshenko, anti-corruption, cabinet_
 
 ### [ Guy Theunis, a Catholic priest from Belgium, has been arrested on a charge of republishing articles in a magazine that the authorities cite as encouraging genocide in Rwanda. ](/news/2005/09/8/guy-theunis-a-catholic-priest-from-belgium-has-been-arrested-on-a-charge-of-republishing-articles-in-a-magazine-that-the-authorities-cite.md)
-_Context: Belgium, Catholic, Guy Theunis, genocide in Rwanda, priest_
+_Context: Belgian, Catholic, Guy Theunis, genocide in Rwanda, priest_
 
 ### [ Reporters Without Borders accuses Yahoo! of assisting the People's Republic of China government to identify Shi Tao, the journalist sentenced to 10 years jail in April 2005. Shi released on the Internet a government letter which advised the Chinese media not to report on the 15th anniversary of the Tiananmen Square protests. ](/news/2005/09/8/reporters-without-borders-accuses-yahoo-of-assisting-the-people-s-republic-of-china-government-to-identify-shi-tao-the-journalist-sentenc.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

@@ -13,7 +13,7 @@ _Context: carbon nanotubes, chemical bonds, chemical structure, molecule, simila
 _Context: Chile, Turkey, United Nations, pandemic H1N1/09 virus, poultry, virus_
 
 ### [ According to declassified documents released this week, a survival manual produced by Transport Canada was used by U.S. interrogators to set limits on dousing detainees with cold water as a form of water torture. ](/news/2009/08/28/according-to-declassified-documents-released-this-week-a-survival-manual-produced-by-transport-canada-was-used-by-u-s-interrogators-to-se.md)
-_Context: Guantanamo Bay detention camp, Transport Canada, detainees, dousing, survival manual, water torture_
+_Context: Transport Canada, detainee, detainees, dousing, survival manual, water torture_
 
 ### [ Japan's unemployment rate reaches a record high of 5.7%. ](/news/2009/08/28/japan-s-unemployment-rate-reaches-a-record-high-of-5-7.md)
 _Context: Japan, unemployment rate_
@@ -34,7 +34,7 @@ _Context: King Mohammed VI of Morocco, dehydration, rotavirus_
 Fresh fighting has erupted between Myanmar forces and an armed ethnic group in the remote northeast, forcing tens of thousands to flee across the border into China, activists and state media said on Friday.
 
 ### [ United Nations diplomats confirm the United Arab Emirates seized a North Korean ship carrying weapons to Iran, in violation of Security Council Resolution 1874. ](/news/2009/08/28/united-nations-diplomats-confirm-the-united-arab-emirates-seized-a-north-korean-ship-carrying-weapons-to-iran-in-violation-of-security-cou.md)
-_Context: Iran, North Korea, UAE, United Nations, United Nations Security Council, sanctions_
+_Context: Iran, North Korea, United Arab Emirates, United Nations, United Nations Security Council, sanctions_
 
 ### [ Iranian President Mahmoud Ahmadinejad calls for opposition leaders to be punished over election protests which occurred earlier this year. ](/news/2009/08/28/iranian-president-mahmoud-ahmadinejad-calls-for-opposition-leaders-to-be-punished-over-election-protests-which-occurred-earlier-this-year.md)
 _Context: Iran, Mahmoud Ahmadinejad, President, protests against the regime_

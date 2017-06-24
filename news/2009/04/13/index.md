@@ -10,7 +10,7 @@ Pakistani Taliban are imposing their rule in a Pakistani mountain valley they to
 _Context: Abhisit Vejjajiva, Bangkok, Prime Minister of Thailand, Royal Thai Government, Thailand, political crisis_
 
 ### [ Mass media in Fiji protest against government censorship. ](/news/2009/04/13/mass-media-in-fiji-protest-against-government-censorship.md)
-_Context: Fiji, Protest, censorship, government, mass media_
+_Context: Fiji, censorship, government, mass media, protest_
 
 ### [ China's government publishes a National Human Rights Action Plan. ](/news/2009/04/13/china-s-government-publishes-a-national-human-rights-action-plan.md)
 _Context: Chinese human rights, People's Republic of China, government_
@@ -22,7 +22,7 @@ _Context: Gaza Strip, Israel, Israeli Navy, Israeli-Palestinian conflict, Palest
 A US congressman came under mortar fire on Monday as he was leaving in a plane from Mogadishu airport, Somalia.
 
 ### [ Protests against Georgian President Mikheil Saakashvili continue in Tbilisi. ](/news/2009/04/13/protests-against-georgian-president-mikheil-saakashvili-continue-in-tbilisi.md)
-_Context: Georgia, President of Georgia, Protest, Saakashvili, Tbilisi_
+_Context: Georgia, President of Georgia, Saakashvili, Tbilisi, protest_
 
 ### [ At least four Lebanese Ground Forces soldiers are killed near Baalbek in the Beqaa Valley. ](/news/2009/04/13/at-least-four-lebanese-ground-forces-soldiers-are-killed-near-baalbek-in-the-beqaa-valley.md)
 At least four Lebanese soldiers were killed and one wounded Monday in an ambush that security officials blamed on a local drug mafia.News reports put the number of dead at five.Lebanese officials...

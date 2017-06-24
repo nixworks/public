@@ -4,7 +4,7 @@
 _Context: Mustafa Kemal Atatrk, Turkey, YouTube_
 
 ### [ An Israeli TecSAR spy satellite is launched aboard an Indian Polar Satellite Launch Vehicle. ](/news/2008/01/21/an-israeli-tecsar-spy-satellite-is-launched-aboard-an-indian-polar-satellite-launch-vehicle.md)
-_Context: India, Israel, Polar Satellite Launch Vehicle, TecSAR, spy satellite_
+_Context: India, Israel, PSLV-C38, TecSAR, spy satellite_
 
 ### [ President of Venezuela Hugo Chvez disallows the exportation of agricultural goods and promises to nationalize any farm that does. ](/news/2008/01/21/president-of-venezuela-hugo-chavez-disallows-the-exportation-of-agricultural-goods-and-promises-to-nationalize-any-farm-that-does.md)
 _Context: Hugo Chvez, President, exportation, nationalizes_

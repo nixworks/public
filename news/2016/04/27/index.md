@@ -55,7 +55,7 @@ _Context: Iraq, Iraqi Civil War, Iraqi Kurdistan, Shi'ite, Tuz Khurmato_
 _Context: Andrew Chan, Bali Nine, Michael Czugaj, Myuran Sukumaran_
 
 ### [Belgian prosecutors hand over Salah Abdeslam, a key suspect in the November 2015 Paris attacks, to French authorities. ](/news/2016/04/27/belgian-prosecutors-hand-over-salah-abdeslam-a-key-suspect-in-the-november-2015-paris-attacks-to-french-authorities.md)
-_Context: Belgium, France, November 2015 Paris Attacks, Salah Abdeslam_
+_Context: Belgian, France, November 2015 Paris Attacks, Salah Abdeslam_
 
 ### [Former Speaker of the United States House of Representatives Dennis Hastert is sentenced to 15 months in prison for breaking banking laws in order to make payments to cover sexual misconduct from past decades. ](/news/2016/04/27/former-speaker-of-the-united-states-house-of-representatives-dennis-hastert-is-sentenced-to-15-months-in-prison-for-breaking-banking-laws-in.md)
 A federal judge sentenced former U.S. House Speaker Dennis Hastert to 15 months in prison for evading banking rules in what prosecutors said was a bid to hide sexual misconduct allegations from decades ago.

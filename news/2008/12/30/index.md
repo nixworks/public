@@ -7,7 +7,7 @@ _Context: British Columbia, Canada, avalanche, snowmobile_
 _Context: Barack Obama, Democratic, Governor of Illinois, Illinois, Illinois Attorney General, Jesse White, President-elect, Rod Blagojevich, Roland Burris, Secretary of State, United States, United States Senate, seat_
 
 ### [ Following the Jammu and Kashmir state assembly elections, the National Conference and National Congress parties agree to form a coalition government. ](/news/2008/12/30/following-the-jammu-and-kashmir-state-assembly-elections-the-national-conference-and-national-congress-parties-agree-to-form-a-coalition-g.md)
-_Context: Indian National Congress, Jammu and Kashmir, National Conference, coalition government, state assembly elections_
+_Context: Indian National Congress, Jammu and Kashmir, National Conference, governing coalition, state assembly elections_
 
 ### [ Sheikh Hasina's Awami League wins a supermajority in Bangladesh's National Assembly. ](/news/2008/12/30/sheikh-hasina-s-awami-league-wins-a-supermajority-in-bangladesh-s-national-assembly.md)
 _Context: Awami League, Bangladesh, Sheikh Hasina, parliament, two-thirds majority, wins_

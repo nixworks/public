@@ -19,7 +19,7 @@ _Context: Philippines, Typhoon Mirinae_
 _Context: Yuan Guiren, Zhou Ji, anti-corruption_
 
 ### [ Six Uyghurs detained at Guantanamo Bay detention camp are released by the United States and resettled in Palau. ](/news/2009/11/1/six-uyghurs-detained-at-guantanamo-bay-detention-camp-are-released-by-the-united-states-and-resettled-in-palau.md)
-_Context: Guantanamo Bay detention camp, Palau, Uyghur_
+_Context: Palau, Uyghur, detainee_
 
 ### [ 11 people are killed after a Russian military cargo plane belonging to the Interior Ministry crashes in Yakutia. ](/news/2009/11/1/11-people-are-killed-after-a-russian-military-cargo-plane-belonging-to-the-interior-ministry-crashes-in-yakutia.md)
 _Context: Yakutia_

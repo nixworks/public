@@ -1,7 +1,7 @@
 ## [2009-03-13](/news/2009/03/13/index.md)
 
 ### [ The United States abandons the term "enemy combatant" for detainees at Guantanamo Bay Naval Base's detention camp.  ](/news/2009/03/13/the-united-states-abandons-the-term-enemy-combatant-for-detainees-at-guanta-namo-bay-naval-base-s-detention-camp.md)
-_Context: Guantanamo Bay, Guantanamo Bay detention camp, United States, detainees, enemy combatant, military base at Guantanamo Bay_
+_Context: Guantanamo Bay, United States, detainee, detainees, enemy combatant, military base at Guantanamo Bay_
 
 ### [ Italy's Ministry of Foreign Affairs reports that three Doctors Without Borders volunteers kidnapped in Darfur, Sudan, have been freed.  ](/news/2009/03/13/italy-s-ministry-of-foreign-affairs-reports-that-three-doctors-without-borders-volunteers-kidnapped-in-darfur-sudan-have-been-freed.md)
 _Context: Darfur, Italy, Medecins Sans Frontieres, Ministry of Foreign Affairs, Sudan, conflict, volunteer_

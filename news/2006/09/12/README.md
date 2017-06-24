@@ -4,7 +4,7 @@
 _Context: Cyprus, Government of North Korea, Grigorio-1, Interpol, North Korea, Syria, air defense_
 
 ### [ Belgian False Flag Terror arrests: A court in Belgium prolongs the custody of 12 suspects in the case against a neo-Nazi group inside the Belgian Army, named Bloed-Bodem-Eer en Trouw (BBET). They are accused of terrorism, weapons traffic, racism and negationism. (Wikinews)](/news/2006/09/12/belgian-false-flag-terror-arrests-a-court-in-belgium-prolongs-the-custody-of-12-suspects-in-the-case-against-a-neo-nazi-group-inside-the-b.md)
-_Context: (Wikinews), Belgian Army, Belgium, Bloed, Bodem, Eer en Trouw, negationism, neo-Nazi, racial bias, terrorism_
+_Context: (Wikinews), Belgian, Belgian Army, Bloed, Bodem, Eer en Trouw, negationism, neo-Nazi, racial bias, terrorism_
 
 ### [ At least 51 people, mostly children, are killed in a stampede in a stadium in Ibb, Yemen, during a campaign rally for President Ali Abdullah Saleh. The children were killed when some of the citizens, who were bused in to hear the president speak, tried to leave. ](/news/2006/09/12/at-least-51-people-mostly-children-are-killed-in-a-stampede-in-a-stadium-in-ibb-yemen-during-a-campaign-rally-for-president-ali-abdulla.md)
 _Context: Ibb, Saleh, Yemen, Yemeni President, stampede_

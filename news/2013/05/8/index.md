@@ -25,7 +25,7 @@ The UN names three panel members of its first-ever human rights investigation in
 _Context: Brazil, Director-General, General Council, Roberto Azevedo, World Trade Organization_
 
 ### [Police in France, Belgium and Switzerland arrest more than two dozen people in connection with the Brussels Airport diamond heist. ](/news/2013/05/8/police-in-france-belgium-and-switzerland-arrest-more-than-two-dozen-people-in-connection-with-the-brussels-airport-diamond-heist.md)
-_Context: Belgium, Brussels Airport diamond heist, France, Swiss_
+_Context: Belgian, Brussels Airport diamond heist, France, Swiss_
 
 ### [An Italian appeals court upholds the conviction of former Prime Minister Silvio Berlusconi on tax fraud and sentences him to four years in prison. ](/news/2013/05/8/an-italian-appeals-court-upholds-the-conviction-of-former-prime-minister-silvio-berlusconi-on-tax-fraud-and-sentences-him-to-four-years-in-p.md)
 _Context: Italian Prime Minister, Italy, Silvio Berlusconi, top court_

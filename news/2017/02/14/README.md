@@ -31,7 +31,7 @@ _Context: Dominican Republic, Facebook Live, San Pedro de Macoris_
 Clancy retires two years after returning to right the then-troubled agency
 
 ### [The United Arab Emirates announces at the World Government Summit that its planned passenger drone will begin operations in July. ](/news/2017/02/14/the-united-arab-emirates-announces-at-the-world-government-summit-that-its-planned-passenger-drone-will-begin-operations-in-july.md)
-_Context: UAE, World Government Summit, passenger drone_
+_Context: United Arab Emirates, World Government Summit, passenger drone_
 
 ## [Previous Day...](/news/2017/02/13/index.md)
 

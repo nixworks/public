@@ -10,7 +10,7 @@ _Context: Conway, Arkansas, University of Central Arkansas_
 Air accident investigators are trying to establish what caused a light aircraft crash on Corriebrack Mountain in Co Wicklow.
 
 ### [ Kadima Party leader and Acting Prime Minister of Israel Tzipi Livni abandons efforts to form a coalition government and calls for early elections. ](/news/2008/10/26/kadima-party-leader-and-acting-prime-minister-of-israel-tzipi-livni-abandons-efforts-to-form-a-coalition-government-and-calls-for-early-ele.md)
-_Context: Acting Prime Minister, Israel, Kadima party, Next Israeli legislative election, Tzipi Livni, coalition government_
+_Context: Acting Prime Minister, Israel, Kadima party, Next Israeli legislative election, Tzipi Livni, governing coalition_
 
 ### [ Georgian-Abkhazian conflict: President of Abkhazia, Sergei Bagapsh, accused Georgia of 'massive provocations with the use of armed force' after Georgians opened 'heavy fire' on Abkhazian border guards on Inguri river, part of the Georgian-Abkhazian border. ](/news/2008/10/26/georgianaabkhazian-conflict-p-president-of-abkhazia-sergei-bagapsh-accused-georgia-of-massive-provocations-with-the-use-of-armed-force.md)
 _Context: Abkhazia, Abkhazian, Georgia, Georgian-Abkhazian conflict, Inguri, soldiers_

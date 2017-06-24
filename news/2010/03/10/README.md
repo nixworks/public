@@ -16,7 +16,7 @@ _Context: Cyprus, Tassos Papadopoulos_
 _Context: Australia, Indonesia, people smugglers_
 
 ### [Dulmatin, the alleged mastermind of the 2002 Bali bombings, is confirmed dead in a police raid in Pamulang, Jakarta, by Indonesian President Susilo Bambang Yudhoyono during a state visit in Australia. ](/news/2010/03/10/dulmatin-the-alleged-mastermind-of-the-2002-bali-bombings-is-confirmed-dead-in-a-police-raid-in-pamulang-jakarta-by-indonesian-president.md)
-_Context: Australia, Dulmatin, Jakarta, October 2002 Bali bombings, Pamulang, Susilo Bambang Yudhoyono_
+_Context: 2002 Bali bombings, Australia, Dulmatin, Jakarta, Pamulang, Susilo Bambang Yudhoyono_
 
 ### [Aid worker Alicia Gamez, captured in Mauritania in 2009 by a group affiliated with Al Qaeda and taken to Mali, is released. ](/news/2010/03/10/aid-worker-alicia-gamez-captured-in-mauritania-in-2009-by-a-group-affiliated-with-al-qaeda-and-taken-to-mali-is-released.md)
 _Context: Mali, Mauritania, al-Qaeda_

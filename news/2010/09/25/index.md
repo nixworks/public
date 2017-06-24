@@ -22,7 +22,7 @@ Nobel literature laureate Wole Soyinka launches a political party in Nigeria, mo
 _Context: Haiti, Port-au-Prince, United Nations_
 
 ### [At least two people are killed and seventeen injured in a domestic gas explosion in the Schaerbeek area of Brussels, Belgium. ](/news/2010/09/25/at-least-two-people-are-killed-and-seventeen-injured-in-a-domestic-gas-explosion-in-the-schaerbeek-area-of-brussels-belgium.md)
-_Context: Belgium, Brussels, Schaerbeek_
+_Context: Belgian, Brussels, Schaerbeek_
 
 ### [Mahmoud Abbas addresses the United Nations General Assembly, where he states that Palestinians desire "a comprehensive and just" peace agreement and requests that Israel cease its policy of building settlements in the West Bank. ](/news/2010/09/25/mahmoud-abbas-addresses-the-united-nations-general-assembly-where-he-states-that-palestinians-desire-a-comprehensive-and-just-peace-agree.md)
 Palestinians are willing and ready to reach a comprehensive and just peace agreement, Palestinian leader Mahmoud Abbas tells the UN.

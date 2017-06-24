@@ -1,7 +1,7 @@
 ## [2009-03-27](/news/2009/03/27/index.md)
 
 ### [ Serial Shooter Dale Hausner receives six death sentences for six murders committed between 2005 and 2006. ](/news/2009/03/27/serial-shooter-dale-hausner-receives-six-death-sentences-for-six-murders-committed-between-2005-and-2006.md)
-_Context: Serial Shooter Dale Hausner, death penalty, murder_
+_Context: Serial Shooter Dale Hausner, capital punishment, murder_
 
 ### [ All six people in a recent helicopter accident are discovered dead in Turkey. ](/news/2009/03/27/all-six-people-in-a-recent-helicopter-accident-are-discovered-dead-in-turkey.md)
 All six people aboard a helicopter that crashed on a Turkish mountaintop have been found dead, including the leader of a small political party and a passenger whose anguished phone call from the crash site was broadcast around the country.

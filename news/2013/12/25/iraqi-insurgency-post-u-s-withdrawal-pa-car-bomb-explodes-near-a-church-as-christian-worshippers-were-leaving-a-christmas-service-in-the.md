@@ -11,7 +11,7 @@ Two bombs near a Catholic church and a market in Baghdad kill at least 35 people
 
 ### Related:
 
-1. [Iraqi Christians defy persecution and celebrate Christmas  in Baghdad. ](/news/2014/12/25/iraqi-christians-defy-persecution-and-celebrate-christmas-in-baghdad.md) _Context: Baghdad, Christmas, Iraqi Christians_
+1. [Iraqi Christians defy persecution and celebrate Christmas  in Baghdad. ](/news/2014/12/25/iraqi-christians-defy-persecution-and-celebrate-christmas-in-baghdad.md) _Context: Baghdad, Christmas, Iraqi Christian_
 2. [A car bombing at a bus station in central Baghdad kills at least nine people. ](/news/2014/01/12/a-car-bombing-at-a-bus-station-in-central-baghdad-kills-at-least-nine-people.md) _Context: Baghdad, Iraqi insurgency (post-U.S. withdrawal), car bomb_
 3. [A series of car bombings around the Iraqi capital, Baghdad, kills at least 38 people. ](/news/2013/10/27/a-series-of-car-bombings-around-the-iraqi-capital-baghdad-kills-at-least-38-people.md) _Context: Baghdad, Iraqi insurgency (post-U.S. withdrawal), car bomb_
 4. [A car bomb attack on a police checkpoint in Baghdad kills at least 15 people and injures 40 others. ](/news/2017/03/29/a-car-bomb-attack-on-a-police-checkpoint-in-baghdad-kills-at-least-15-people-and-injures-40-others.md) _Context: Baghdad, car bomb_

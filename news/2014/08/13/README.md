@@ -1,7 +1,7 @@
 ## [2014-08-13](/news/2014/08/13/index.md)
 
 ### [Associated Press journalist Simone Camilli, a freelance translator and four Gaza police officers are killed when police tried to defuse unexploded ordnance. ](/news/2014/08/13/associated-press-journalist-simone-camilli-a-freelance-translator-and-four-gaza-police-officers-are-killed-when-police-tried-to-defuse-unex.md)
-_Context: 2014 Israel-Gaza conflict, Associated Press, ordnance_
+_Context: 2014 Israel-Gaza conflict, Associated Press, unexploded ordnance_
 
 ### [The Syrian Observatory for Human Rights claims that 52 people have died as Islamic State of Iraq and the Levant Islamists gain control of eight villages between Aleppo and the Turkish border. ](/news/2014/08/13/the-syrian-observatory-for-human-rights-claims-that-52-people-have-died-as-islamic-state-of-iraq-and-the-levant-islamists-gain-control-of-ei.md)
 Jihadists of the Islamic State (IS) group seized a string of villages in northern Syria on Wednesday in fighting that left 52 people dead.

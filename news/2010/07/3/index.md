@@ -19,7 +19,7 @@ Abhisit Vejjajiva orders investigation after eight soldiers killed in two days.
 _Context: 2010 FIFA World Cup, Paris Hilton, Port Elizabeth, South Africa, police_
 
 ### [The U.S. Pentagon alleges that Iran has violated United Nations sanctions against itself by providing an advanced radar system to Syria, a system the Pentagon claims would hurt Israel's ability to launch surprise attacks against Iran. ](/news/2010/07/3/the-u-s-pentagon-alleges-that-iran-has-violated-united-nations-sanctions-against-itself-by-providing-an-advanced-radar-system-to-syria-a-s.md)
-_Context: Iran, Israel, Syria, United Nations, United States military, pre-sanction, radar_
+_Context: Iran, Israel, Syria, The Pentagon, United Nations, pre-sanction, radar_
 
 ### [Poland and the United States sign a deal in Krakow allowing the United States to position an American anti-missile shield in Poland to defend Europe from the perceived threat of Iran and other countries: Russia objects. ](/news/2010/07/3/poland-and-the-united-states-sign-a-deal-in-kraka3w-allowing-the-united-states-to-position-an-american-anti-missile-shield-in-poland-to-defe.md)
 Clinton cites Iranian threats to counter Russian objections to anti-missile shield deployment.

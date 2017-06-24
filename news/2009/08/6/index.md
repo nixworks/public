@@ -49,7 +49,7 @@ Will Judge Sandile Ngcobo be chief justice for just two years before giving way,
 Judge Sonia Sotomayor won approval on Thursday to become the first Hispanic on the U.S. Supreme Court in a Senate vote that President Barack Obama said broke another social barrier.
 
 ### [ At least nine people are killed and several inhale fumes after a fire at a retirement home in Melle, Belgium. ](/news/2009/08/6/at-least-nine-people-are-killed-and-several-inhale-fumes-after-a-fire-at-a-retirement-home-in-melle-belgium.md)
-_Context: Belgium, Melle_
+_Context: Belgian, Melle_
 
 ### [ The Presidents of Democratic Republic of Congo and Rwanda, Joseph Kabila and Paul Kagame, pledge to boost economic and security ties after a rare meeting. ](/news/2009/08/6/the-presidents-of-democratic-republic-of-congo-and-rwanda-joseph-kabila-and-paul-kagame-pledge-to-boost-economic-and-security-ties-after.md)
 _Context: Democratic Republic of Congo, Joseph Kabila, Paul Kagame, Rwanda_

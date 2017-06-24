@@ -43,7 +43,7 @@ _Context: "CISPA", United States, United States Congress, White House, executive
 _Context: Frankfurter Allgemeine, MAD, NSU, Uwe Mundlos_
 
 ### [Egypt presses formal charges against Gamel and Alaa Mubarak, sons of ousted president Hosni Mubarak, and Ahmed Shafiq, a recent presidential candidate, over alleged illegal acquisition of land. An arrest warrant has been issued against Shafiq, now a resident in the United Arab Emirates. ](/news/2012/09/11/egypt-presses-formal-charges-against-gamel-and-alaa-mubarak-sons-of-ousted-president-hosni-mubarak-and-ahmed-shafiq-a-recent-presidential.md)
-_Context: Ahmed Shafiq, Alaa Mubarak, Egypt, Gamel, Hosni Mubarak, UAE_
+_Context: Ahmed Shafiq, Alaa Mubarak, Egypt, Gamel, Hosni Mubarak, United Arab Emirates_
 
 ### [The United States commemorates the victims of the terrorist attacks of September 11, 2001. For the first time, no special security alert is raised on the anniversary of the attacks. ](/news/2012/09/11/the-united-states-commemorates-the-victims-of-the-terrorist-attacks-of-september-11-2001-for-the-first-time-no-special-security-alert-is.md)
 NEW YORK -- With bagpipes and somber bells sounding a sharp counterpoint to the commemorative moments of silence, the nation on Tuesday marked the 11th anniversary of the terrorist attack that...

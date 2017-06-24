@@ -13,7 +13,7 @@ _Context: PS, Panama, expanded_
 _Context: Anthony Gates, Chief Justice, Fiji, judge_
 
 ### [ The ''Financial Times'' reports that the military of the People's Republic of China successfully hacked into The Pentagon's computer network. ](/news/2007/09/3/the-financial-times-reports-that-the-military-of-the-people-s-republic-of-china-successfully-hacked-into-the-pentagon-s-computer-networ.md)
-_Context: Financial Times, United States military, hackers, military_
+_Context: Financial Times, The Pentagon, hackers, military_
 
 ### [ Japan and Chile sign a free trade agreement. ](/news/2007/09/3/japan-and-chile-sign-a-free-trade-agreement.md)
 _Context: Chile, Free Trade Agreement, Japan_

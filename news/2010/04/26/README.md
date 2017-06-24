@@ -1,7 +1,7 @@
 ## [2010-04-26](/news/2010/04/26/index.md)
 
 ### [ Belgium's King Albert accepts the resignation of Prime Minister Yves Leterme, ending his government's term and leading to early elections in June 2010. ](/news/2010/04/26/belgium-s-king-albert-accepts-the-resignation-of-prime-minister-yves-leterme-ending-his-government-s-term-and-leading-to-early-elections-i.md)
-_Context: Albert II of Belgium, Belgium, Yves Leterme, election, his government_
+_Context: Albert II of Belgium, Belgian, Yves Leterme, election, his government_
 
 ### [In elections marred by boycotts and fraud allegations, Omar al-Bashir is re-elected president of Sudan despite facing war crimes charges and an international arrest warrant. ](/news/2010/04/26/in-elections-marred-by-boycotts-and-fraud-allegations-omar-al-bashir-is-re-elected-president-of-sudan-despite-facing-war-crimes-charges-and.md)
 _Context: Omar al-Bashir, Sudan, war crimes_

@@ -37,7 +37,7 @@ _Context: Ali Gomaa, Egypt, Grand Mufti, Islam, Lubna al-Hussein, Sudan, lashes_
 _Context: Burma, Yangon_
 
 ### [ Indonesian police confirm the death of their most wanted man, Noordin Mohammed Top, who was suspected of involvement in the 2009 Jakarta bombings and the Bali bombings in 2002. ](/news/2009/09/17/indonesian-police-confirm-the-death-of-their-most-wanted-man-noordin-mohammed-top-who-was-suspected-of-involvement-in-the-2009-jakarta-bo.md)
-_Context: Indonesia, Noordin Mohammed Top, October 2002 Bali bombings, suicide attacks on two hotels_
+_Context: 2002 Bali bombings, Indonesia, Noordin Mohammed Top, suicide attacks on two hotels_
 
 ### [ United Nations Under-Secretary General for Political Affairs Lynn Pascoe begins visiting camps holding displaced Tamil refugees in northern Sri Lanka. ](/news/2009/09/17/united-nations-under-secretary-general-for-political-affairs-lynn-pascoe-begins-visiting-camps-holding-displaced-tamil-refugees-in-northern.md)
 _Context: Lynn Pascoe, Political Affairs, Sri Lanka, Tamil, United Nations_

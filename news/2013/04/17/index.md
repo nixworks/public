@@ -37,7 +37,7 @@ A judge opens and adjourns an embezzlement case against Russian opposition activ
 Here&#039;s everything you need to know about the timetable of events ahead of the funeral of former British prime minister Margaret Thatcher. 
 
 ### [The Italy Parliament prepares to vote for a new President to succeed Giorgio Napolitano, in order to end a two-month impasse between political parties by forming a coalition government. ](/news/2013/04/17/the-italy-parliament-prepares-to-vote-for-a-new-president-to-succeed-giorgio-napolitano-in-order-to-end-a-two-month-impasse-between-politic.md)
-_Context: Giorgio Napolitano, Italian Parliament, Italy, President of Italy, coalition government, political parties_
+_Context: Giorgio Napolitano, Italian Parliament, Italy, President of Italy, governing coalition, political parties_
 
 ### [Venezuela's opposition leader Henrique Capriles distances himself from post-election street violence after seven people are killed in riots over the results of the presidential election. Capriles had previously planned to march on the National Electoral Council to demand a recount. ](/news/2013/04/17/venezuela-s-opposition-leader-henrique-capriles-distances-himself-from-post-election-street-violence-after-seven-people-are-killed-in-riots.md)
 _Context: Henrique Capriles, National Electoral Council, Venezuela, last month's presidential election, post-election street violence, recount_

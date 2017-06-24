@@ -1,7 +1,7 @@
 ## [2006-04-3](/news/2006/04/3/index.md)
 
 ### [ The jury in the first phase of the trial of Zacarias Moussaoui has decided that he is eligible for the death penalty. ](/news/2006/04/3/the-jury-in-the-first-phase-of-the-trial-of-zacarias-moussaoui-has-decided-that-he-is-eligible-for-the-death-penalty.md)
-_Context: Zacarias Moussaoui, death penalty_
+_Context: Zacarias Moussaoui, capital punishment_
 
 ### [ A large air force C-5 Galaxy military cargo jet crashed when landing at Dover Air Force Base in the U.S. state of Delaware. ](/news/2006/04/3/a-large-air-force-c-5-galaxy-military-cargo-jet-crashed-when-landing-at-dover-air-force-base-in-the-u-s-state-of-delaware.md)
 _Context: C-5 Galaxy, Delaware, Dover Air Force Base, U.S. state, air force_

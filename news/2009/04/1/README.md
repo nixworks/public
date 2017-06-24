@@ -19,7 +19,7 @@ _Context: Ukraine, Ukrainian President, election_
 _Context: Eurocopter AS332, North Sea, ditches_
 
 ### [ Five thousand people protest in London as the G-20 begins its summit. ](/news/2009/04/1/five-thousand-people-protest-in-london-as-the-g-20-begins-its-summit.md)
-_Context: G-20, London, Protest, announces_
+_Context: G-20, London, announces, protest_
 
 ### [ Israeli Foreign Affairs Minister Avigdor Lieberman says that the Annapolis Conference "has no validity." ](/news/2009/04/1/israeli-foreign-affairs-minister-avigdor-lieberman-says-that-the-annapolis-conference-has-no-validity.md)
 _Context: Annapolis Conference, Avigdor Lieberman, Foreign Minister, Israel_

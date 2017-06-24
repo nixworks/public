@@ -16,7 +16,7 @@ _Context: Bedouin, Taba, Egypt_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Indonesian cleric Abu Bakar Ba'asyir denies any involvement in the 2002 Bali bombings and the Marriott Hotel attack, saying that the bombings were wrong. He also denies being a member of Jemaah Islamiah. ](/news/2005/02/1/indonesian-cleric-abu-bakar-ba-asyir-denies-any-involvement-in-the-2002-bali-bombings-and-the-marriott-hotel-attack-saying-that-the-bombin.md)
-_Context: Abu Bakar Ba'asyir, Indonesia, Jemaah Islamiah, Marriott Hotel, October 2002 Bali bombings_
+_Context: 2002 Bali bombings, Abu Bakar Ba'asyir, Indonesia, Jemaah Islamiah, Marriott Hotel_
 
 ### [ A man who had been detained since December 2001 in the UK without a trial, or a charge, on suspicion of being involved in terrorism has been released without conditions, his lawyer states. ](/news/2005/02/1/a-man-who-had-been-detained-since-december-2001-in-the-uk-without-a-trial-or-a-charge-on-suspicion-of-being-involved-in-terrorism-has-bee.md)
 _Context: detention camps, lawyer, terrorism_

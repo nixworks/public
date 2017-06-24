@@ -1,7 +1,7 @@
 ## [2016-03-22](/news/2016/03/22/index.md)
 
 ### [Three explosions in the Brussels Airport and Maalbeek metro station kill at least 34 people and wound at least 170 more, according to Belgian media. Belgian federal Prosecutor Frederic Van Leeuw cautions it is too soon to know exactly how many people died in the bombings. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/03/22/three-explosions-in-the-brussels-airport-and-maalbeek-metro-station-kill-at-least-34-people-and-wound-at-least-170-more-according-to-belgia.md)
-_Context: 2016 Brussels bombings, Belgium, Brussels Zaventem International Airport, ISIL, Maalbeek metro station_
+_Context: 2016 Brussels bombings, Belgian, Brussels Zaventem International Airport, ISIL, Maalbeek metro station_
 
 ### [Airstrikes near the Yemeni port city of Al Mukalla, Hadhramaut Governorate, reportedly kill at least 30 Al-Qaeda militants. ](/news/2016/03/22/airstrikes-near-the-yemeni-port-city-of-al-mukalla-hadhramaut-governorate-reportedly-kill-at-least-30-al-qaeda-militants.md)
 Saudi-led airstrikes targeting al Qaeda in eastern Yemen killed and wounded dozens on Tuesday, a provincial governor and medics said.
@@ -10,7 +10,7 @@ Saudi-led airstrikes targeting al Qaeda in eastern Yemen killed and wounded doze
 (The story was refiled to correct this March 22, 2016 story to read audited, not investigated, in the headline and paragraph 1)
 
 ### [In light of the Belgian attacks, Warner Bros. cancels the red carpet but will hold the European premiere of the highly-publicized film, ''Batman v Superman: Dawn of Justice'', at London's Leicester Square tonight. ](/news/2016/03/22/in-light-of-the-belgian-attacks-warner-bros-cancels-the-red-carpet-but-will-hold-the-european-premiere-of-the-highly-publicized-film-ba.md)
-_Context: 2016 Brussels bombings, Batman v Superman: Dawn of Justice, Belgium, Leicester Square, London, Warner Bros., red carpet_
+_Context: 2016 Brussels bombings, Batman v Superman: Dawn of Justice, Belgian, Leicester Square, London, Warner Bros., red carpet_
 
 ### [U.S. Secretary of State John Kerry holds a meeting with leaders of FARC in a sign of encouragement in ending Colombia's half-century old conflict. ](/news/2016/03/22/u-s-secretary-of-state-john-kerry-holds-a-meeting-with-leaders-of-farc-in-a-sign-of-encouragement-in-ending-colombia-s-half-century-old-con.md)
 US secretary of state says meetings in Havana with guerrillas still on Washington’s list of terrorist groups and Colombian government ‘encouraging’

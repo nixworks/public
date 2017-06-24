@@ -25,7 +25,7 @@ An Indian doctor freed from jail after Australia dropped terrorism charges again
 _Context: Bernard Kouchner, Fouad Siniora, France, Lebanon, Prime Minister, Syria_
 
 ### [ Rwanda abolishes capital punishment. ](/news/2007/07/28/rwanda-abolishes-capital-punishment.md)
-_Context: Rwanda, death penalty_
+_Context: Rwanda, capital punishment_
 
 ## [Previous Day...](/news/2007/07/27/index.md)
 

@@ -7,7 +7,7 @@ _Context: CFDT, France, Nicolas Sarkozy, President of France, energy, pension re
 _Context: Deutsche Bahn, Germany, passenger, strike, train driver_
 
 ### [ The United Nations General Assembly Third Committee approves a resolution draft that calls for a moratorium on the capital punishment. ](/news/2007/11/15/the-united-nations-general-assembly-third-committee-approves-a-resolution-draft-that-calls-for-a-moratorium-on-the-capital-punishment.md)
-_Context: Third Committee, United Nations, United Nations General Assembly, death penalty, moratorium, unenforceable resolution_
+_Context: Third Committee, United Nations, United Nations General Assembly, capital punishment, moratorium, unenforceable resolution_
 
 ### [ The City of Westminster Magistrates' Court rules Egyptian-born Muslim cleric Abu Hamza al-Masri can be extradited from the United Kingdom to the United States, where he is accused of terrorism. ](/news/2007/11/15/the-city-of-westminster-magistrates-court-rules-egyptian-born-muslim-cleric-abu-hamza-al-masri-can-be-extradited-from-the-united-kingdom-t.md)
 _Context: Abu Hamza al-Masri, City of Westminster, Egypt, Magistrates' Court, Muslim, United Kingdom, United States, extradited, terrorism_

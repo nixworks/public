@@ -28,7 +28,7 @@ _Context: Angola, Parliament, President of Angola, constitution, elections_
 _Context: Jos, Nigeria, curfew, events earlier this year_
 
 ### [General Motors confirms it will close an Opel factory in Antwerp, Belgium, cutting 2,300 jobs. ](/news/2010/01/21/general-motors-confirms-it-will-close-an-opel-factory-in-antwerp-belgium-cutting-2-300-jobs.md)
-_Context: Antwerp, Belgium, General Motors, Opel_
+_Context: Antwerp, Belgian, General Motors, Opel_
 
 ### [Yemen stops issuing visas at international airports to "halt terrorist infiltration" following the Christmas Day bomb plot. ](/news/2010/01/21/yemen-stops-issuing-visas-at-international-airports-to-halt-terrorist-infiltration-following-the-christmas-day-bomb-plot.md)
 _Context: Northwest Airlines Flight 253, Yemen, terrorism, visa-free travel_

@@ -43,7 +43,7 @@ A 71-year-old man, thought to be ex-News of the World executive Stuart Kuttner, 
 _Context: Indonesia, Jayapura, Papua, Papuan people_
 
 ### [Peter O'Neill of Southern Highlands Province is elected Prime Minister of Papua New Guinea in a 70-24 vote, ousting acting Prime Minister Sam Abal who promises to contest the decision in court. ](/news/2011/08/2/peter-o-neill-of-southern-highlands-province-is-elected-prime-minister-of-papua-new-guinea-in-a-70-24-vote-ousting-acting-prime-minister-sa.md)
-_Context: Prime Minister, Sam Abal, Southern Highlands Province, the prime minister_
+_Context: Peter O'Neill, Prime Minister, Sam Abal, Southern Highlands Province_
 
 ### [The United States Senate passes legislation to raise the debt ceiling in order to avert the 2011 US debt ceiling crisis and President Barack Obama signs it into law. ](/news/2011/08/2/the-united-states-senate-passes-legislation-to-raise-the-debt-ceiling-in-order-to-avert-the-2011-us-debt-ceiling-crisis-and-president-barack.md)
 The US Senate will vote Tuesday on a massive austerity bill that averts a disastrous debt default, two senior Democratic aides said on Monday.
