@@ -1,4 +1,15 @@
-## [News](/news/2017/06/23/index.md)
+## [News](/news/2017/06/24/index.md)
+
+### [Polling places open in Papua New Guinea, and will remain open for two weeks, to elect all 111 members of the National Parliament. The People's National Congress led by Prime Minister Peter O'Neill is considered likely to maintain a governing coalition, despite uncertainty due to lack of opinion polling. ](/news/2017/06/24/polling-places-open-in-papua-new-guinea-and-will-remain-open-for-two-weeks-to-elect-all-111-members-of-the-national-parliament-the-people.md)
+_Context: National Parliament, Papua New Guinea, Papua New Guinean general election, 2017, People's National Congress, Peter O'Neill, Prime Minister, governing coalition, opinion poll_
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/06/23/index.md)
 
 ### [Multiple blasts occur at a market in Parachinar, killing at least 13 people and wounding over 50 more. ](/news/2017/06/23/multiple-blasts-occur-at-a-market-in-parachinar-killing-at-least-13-people-and-wounding-over-50-more.md)
 Suicide attack near provincial police chief&#39;s office kills at least 12 people and wounds 14 others.
@@ -15,6 +26,9 @@ A Belgian court has found a princess from Abu Dhabi and her seven daughters guil
 ### [For the second time, a mistrial is declared in the case against officer Ray Tensing for the fatal shooting of Samuel DuBose during a traffic stop. ](/news/2017/06/23/for-the-second-time-a-mistrial-is-declared-in-the-case-against-officer-ray-tensing-for-the-fatal-shooting-of-samuel-dubose-during-a-traffic.md)
 It was a second hung jury for Ray Tensing, the ex-officer charged in the death of Samuel DuBose during a botched traffic stop in 2015 in Cincinnati.
 
+### [A Guantanamo military commission charges detainee Riduan Isamuddin for his roles in the 2002 Bali bombings and the 2003 Marriott Hotel bombing. The Pentagon is yet to decide whether to threaten capital punishment. ](/news/2017/06/23/a-guantanamo-military-commission-charges-detainee-riduan-isamuddin-for-his-roles-in-the-2002-bali-bombings-and-the-2003-marriott-hotel-bombi.md)
+The war court prosecutor has filed terror charges against an Indonesian captive at Guantánamo known as Hambali, accusing him directing the 2002 Bali nightclub bombings and a 2003 attack on the JW Marriott in Jakarta, the Miami Herald has learned.
+
 ### [Russian opposition leader Alexei Navalny is formally barred by the Central Election Commission from his running in next year's presidential election. ](/news/2017/06/23/russian-opposition-leader-alexei-navalny-is-formally-barred-by-the-central-election-commission-from-his-running-in-next-year-s-presidential.md)
 The anti-corruption campaigner led mass street protests against Vladimir Putin in 2011-12.
 
@@ -22,15 +36,11 @@ The anti-corruption campaigner led mass street protests against Vladimir Putin i
 PSLV-C38 blasted off from the first launch pad at Satish Dhawan Space Centre in Sriharikota at 9.29am. It was PSLV&rsquo;s the 40th flight.
 
 ### [Turkey decides to stop teaching evolution theory to students until the university curriculum, deeming it controversial and too complex to understand. Critics say this undermines the secular foundation of the Turkish state. ](/news/2017/06/23/turkey-decides-to-stop-teaching-evolution-theory-to-students-until-the-university-curriculum-deeming-it-controversial-and-too-complex-to-un.md)
-_Context: Creation-evolution controversy, Turkey, complex, controversial, evolution theory, secular, university_
-
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+_Context: Creation-evolution controversy, Turkey, complex, controversial, evolution theory, secular foundation, university_
 
 ---
 
-## [Yesterday](/news/2017/06/22/index.md)
+## [Day Before Yesterday](/news/2017/06/22/index.md)
 
 ### [A car bomb outside a New Kabul Bank branch in Lashkargah, Helmand Province, kills at least 20 people. The Taliban claims responsibility. ](/news/2017/06/22/a-car-bomb-outside-a-new-kabul-bank-branch-in-lashkargah-helmand-province-kills-at-least-20-people-the-taliban-claims-responsibility.md)
 _Context: 2017 Lashkargah bombing, Helmand Province, Lashkargah, New Kabul Bank, Taliban, War in Afghanistan_
@@ -61,47 +71,7 @@ Senate Republican leaders released their bill to repeal the Affordable Care Act,
 
 ---
 
-## [Day Before Yesterday](/news/2017/06/21/index.md)
-
-### [Bangsamoro Islamic Freedom Fighters rebels storm a school in Pigcawayan, North Cotabato, Philippines,  and take civilians hostage. ](/news/2017/06/21/bangsamoro-islamic-freedom-fighters-rebels-storm-a-school-in-pigcawayan-north-cotabato-philippines-and-take-civilians-hostage.md)
-Pro-Islamic State militants have stormed a town and occupied a school in the southern Philippines.
-
-### [ISIL militants reportedly blow up the Great Mosque of al-Nuri in Mosul, where Abu Bakr al-Baghdadi famously proclaimed the creation of a caliphate in 2014. ISIL blames a U.S. airstrike. ](/news/2017/06/21/isil-militants-reportedly-blow-up-the-great-mosque-of-al-nuri-in-mosul-where-abu-bakr-al-baghdadi-famously-proclaimed-the-creation-of-a-cal.md)
-The al-Nuri Mosque was where the leader of IS proclaimed its so-called &quot;caliphate&quot; in 2014.
-
-### [More than 50,000 people practice yoga in Lucknow, India, to celebrate International Yoga Day. ](/news/2017/06/21/more-than-50-000-people-practice-yoga-in-lucknow-india-to-celebrate-international-yoga-day.md)
-Yoga practitioners took a relaxing break to bend, twist and pose Wednesday morning for the annual event celebrating the practice, especially in the country where it began. Indian Prime Minister Narendra Modi joined 50,000 students and other residents for a mass yoga session in the pouring...
-
-### [Author Jose Eduardo Agualusa wins the International Dublin Literary Award for his novel ''A General Theory of Oblivion''. (](/news/2017/06/21/author-josa-c-eduardo-agualusa-wins-the-international-dublin-literary-award-for-his-novel-a-general-theory-of-oblivion.md)
-_Context: A General Theory of Oblivion, International Dublin Literary Award, Jose Eduardo Agualusa_
-
-### [  The United Kingdom experiences its first early summer heat wave in over 20 years, and the highest recorded June temperatures in over 40 years with a reading of 34.5C (94F) recorded at Heathrow Airport. ](/news/2017/06/21/the-united-kingdom-experiences-its-first-early-summer-heat-wave-in-over-20-years-and-the-highest-recorded-june-temperatures-in-over-40-ye.md)
-Temperatures hit 34.5C (94F) in the UK, as the mercury soars to its highest point in 41 years.
-
-### [A ten-year-old boy dies from injuries sustained during Tropical Storm Cindy in Fort Morgan, Alabama. ](/news/2017/06/21/a-ten-year-old-boy-dies-from-injuries-sustained-during-tropical-storm-cindy-in-fort-morgan-alabama.md)
-According to WKRG, the little boy suffered severe facial trauma after possibly being injured by debris from the storm. 
-
-### [A police officer is stabbed at Bishop International Airport in Flint, Michigan. The FBI is investigating the incident as terrorism. ](/news/2017/06/21/a-police-officer-is-stabbed-at-bishop-international-airport-in-flint-michigan-the-fbi-is-investigating-the-incident-as-terrorism.md)
-The stabbing of a police officer at a Michigan airport on Wednesday is being investigated by the FBI as a possible terror attack, officials said.
-
-### [An Imam in Australia who married a 14 year old to a 34 year old will not face jail time despite conviction. ](/news/2017/06/21/an-imam-in-australia-who-married-a-14-year-old-to-a-34-year-old-will-not-face-jail-time-despite-conviction.md)
-Ibrahim Omerdic had presided over the marriage of the teenage girl to a man aged 34, telling her she must obey her new husband
-
-### [In a royal decree, King Salman of Saudi Arabia appoints his son Mohammad bin Salman Al Saud as Crown Prince, stripping his nephew Muhammad bin Nayef of the title. ](/news/2017/06/21/in-a-royal-decree-king-salman-of-saudi-arabia-appoints-his-son-mohammad-bin-salman-al-saud-as-crown-prince-stripping-his-nephew-muhammad-b.md)
-Mohammed bin Nayef is replaced by Mohammed bin Salman, the 31-year-old rising power who is in charge of the economy and the war in Yemen
-
-### [After a short term political crisis, started when the governing PSD retracted its support, the Parliament of Romania passes a no confidence motion against the government led by former PSD Prime Minister Sorin Grindeanu. ](/news/2017/06/21/after-a-short-term-political-crisis-started-when-the-governing-psd-retracted-its-support-the-parliament-of-romania-passes-a-no-confidence.md)
-_Context: PSD, Parliament of Romania, Politics of Romania, Prime Minister, Sorin Grindeanu, no confidence motion_
-
-### [Francois Bayrou resigns as France's Minister of Justice amid an ongoing investigation into the centrist Democratic Movement (MoDem)'s alleged fraudulent employment of parliamentary assistants. ](/news/2017/06/21/franassois-bayrou-resigns-as-france-s-minister-of-justice-amid-an-ongoing-investigation-into-the-centrist-democratic-movement-modem-s-alleg.md)
-Centrist leader François Bayrou is the latest to resign as the president finalises his cabinet team.
-
-### [The European Space Agency (ESA) approves the PLATO space observatory which will seek out Earth-like exoplanets. ](/news/2017/06/21/the-european-space-agency-esa-approves-the-plato-space-observatory-which-will-seek-out-earth-like-exoplanets.md)
-The European Space Agency&#039;s multi-million euro project &quot;could eventually even lead to the detection of extra-terrestrial life&quot;.
-
----
-
-## [Previous Day...](/news/2017/06/20/index.md)
+## [Previous Day...](/news/2017/06/21/index.md)
 
 ---
 

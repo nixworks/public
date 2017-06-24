@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ At least one million people gather in Izmir, Turkey for the fifth mass rally to demand their country remain a secular state, stepping up pressure on the Islamist-rooted Justice and Development Party (AKP) government before July elections. ](/news/2007/05/13/at-least-one-million-people-gather-in-adegzmir-turkey-for-the-fifth-mass-rally-to-demand-their-country-remain-a-secular-state-stepping-up-p.md) _Context: Turkey, secular_
+1. [ Turkey's Constitutional Court reinstates a ban on the hijab in universities, citing the constitution's secular principles. ](/news/2008/06/5/turkey-s-constitutional-court-reinstates-a-ban-on-the-hijab-in-universities-citing-the-constitution-s-secular-principles.md) _Context: Turkey, secular foundation_
 2. [ The parliament of Turkey grants amnesty to 677,000 people who have been expelled from university in recent years ](/news/2005/02/24/the-parliament-of-turkey-grants-amnesty-to-677-000-people-who-have-been-expelled-from-university-in-recent-years.md) _Context: Turkey, university_
 3. [Five people are killed after being electrocuted at a water park in Akyazi, Turkey. ](/news/2017/06/23/five-people-are-killed-after-being-electrocuted-at-a-water-park-in-akyaza-turkey.md) _Context: Turkey_
 4. [Despite opposition from Turkey, President Donald Trump authorizes an arms deal with the Syrian Kurds to assist the Syrian Democratic Forces in their fight against Islamic State of Iraq and the Levant (ISIL). ](/news/2017/05/9/despite-opposition-from-turkey-president-donald-trump-authorizes-an-arms-deal-with-the-syrian-kurds-to-assist-the-syrian-democratic-forces.md) _Context: Turkey_

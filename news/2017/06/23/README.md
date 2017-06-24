@@ -15,6 +15,9 @@ A Belgian court has found a princess from Abu Dhabi and her seven daughters guil
 ### [For the second time, a mistrial is declared in the case against officer Ray Tensing for the fatal shooting of Samuel DuBose during a traffic stop. ](/news/2017/06/23/for-the-second-time-a-mistrial-is-declared-in-the-case-against-officer-ray-tensing-for-the-fatal-shooting-of-samuel-dubose-during-a-traffic.md)
 It was a second hung jury for Ray Tensing, the ex-officer charged in the death of Samuel DuBose during a botched traffic stop in 2015 in Cincinnati.
 
+### [A Guantanamo military commission charges detainee Riduan Isamuddin for his roles in the 2002 Bali bombings and the 2003 Marriott Hotel bombing. The Pentagon is yet to decide whether to threaten capital punishment. ](/news/2017/06/23/a-guantanamo-military-commission-charges-detainee-riduan-isamuddin-for-his-roles-in-the-2002-bali-bombings-and-the-2003-marriott-hotel-bombi.md)
+The war court prosecutor has filed terror charges against an Indonesian captive at Guantánamo known as Hambali, accusing him directing the 2002 Bali nightclub bombings and a 2003 attack on the JW Marriott in Jakarta, the Miami Herald has learned.
+
 ### [Russian opposition leader Alexei Navalny is formally barred by the Central Election Commission from his running in next year's presidential election. ](/news/2017/06/23/russian-opposition-leader-alexei-navalny-is-formally-barred-by-the-central-election-commission-from-his-running-in-next-year-s-presidential.md)
 The anti-corruption campaigner led mass street protests against Vladimir Putin in 2011-12.
 
@@ -22,7 +25,7 @@ The anti-corruption campaigner led mass street protests against Vladimir Putin i
 PSLV-C38 blasted off from the first launch pad at Satish Dhawan Space Centre in Sriharikota at 9.29am. It was PSLV&rsquo;s the 40th flight.
 
 ### [Turkey decides to stop teaching evolution theory to students until the university curriculum, deeming it controversial and too complex to understand. Critics say this undermines the secular foundation of the Turkish state. ](/news/2017/06/23/turkey-decides-to-stop-teaching-evolution-theory-to-students-until-the-university-curriculum-deeming-it-controversial-and-too-complex-to-un.md)
-_Context: Creation-evolution controversy, Turkey, complex, controversial, evolution theory, secular, university_
+_Context: Creation-evolution controversy, Turkey, complex, controversial, evolution theory, secular foundation, university_
 
 ## [Previous Day...](/news/2017/06/22/index.md)
 

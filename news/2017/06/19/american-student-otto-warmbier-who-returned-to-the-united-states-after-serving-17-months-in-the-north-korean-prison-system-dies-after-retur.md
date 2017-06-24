@@ -1,6 +1,6 @@
 ### [2017-06-19](/news/2017/06/19/index.md)
 
-# American student Otto Warmbier, who returned to the United States after serving 17 months in the North Korean prison system dies after returning from North Korea last week in very poor health. His family has accused the Government of North Korea of torturing him. 
+# American student Otto Warmbier, who returned to the United States after serving 17 months in the North Korean prison system dies after returning from North Korea last week in a comatose state. His family has accused the Government of North Korea of torturing him. 
 
 CINCINNATI (AP) — Otto Warmbier, an American college student who was released by North Korea in a coma last week after almost a year and a half in captivity, died Monday, his family said.
 
