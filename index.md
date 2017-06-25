@@ -3,6 +3,9 @@
 ### [132 people die and at least 130 are injured when an oil tanker truck overturns and explodes as people from surrounding villages gather around the truck to collect the spilling oil. The accident happened in Bahawalpur, eastern Pakistan. ](/news/2017/06/25/132-people-die-and-at-least-130-are-injured-when-an-oil-tanker-truck-overturns-and-explodes-as-people-from-surrounding-villages-gather-aroun.md)
 People were killed as they gathered to collect fuel from the overturned tanker, officials say.
 
+### [Six people are injured when a car ploughs into Eid al-Fitr worshippers in Newcastle, England. ](/news/2017/06/25/six-people-are-injured-when-a-car-ploughs-into-eid-al-fitr-worshippers-in-newcastle-england.md)
+_Context: Eid al-Fitr, England, Newcastle_
+
 ### [The Bahrain News Agency publishes an official list of the demands from Saudi Arabia, Bahrain, the United Arab Emirates and Egypt towards Qatar. Turkey says the demands on Qatar are unlawful. ](/news/2017/06/25/the-bahrain-news-agency-publishes-an-official-list-of-the-demands-from-saudi-arabia-bahrain-the-united-arab-emirates-and-egypt-towards-qat.md)
 _Context: 2017 Qatar diplomatic crisis, Bahrain, Bahrain News Agency, Egypt, Qatar, Saudi Arabia, Turkey, United Arab Emirates_
 
