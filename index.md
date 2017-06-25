@@ -1,12 +1,26 @@
-## [News](/news/2017/06/24/index.md)
+## [News](/news/2017/06/25/index.md)
 
-### [Israel and Syria exchange weapons fire, with Israel destroying several targets, including two Syrian tanks. Although there were deaths on the ground in Syria, the number of casualties among Syrian forces is unknown. No Israeli troops were injured. ](/news/2017/06/24/israel-and-syria-exchange-weapons-fire-with-israel-destroying-several-targets-including-two-syrian-tanks-although-there-were-deaths-on-th.md)
-_Context: Israel, Syria_
+### [An oil truck catches fire in the Pakistani city of Bahawalpur with more than a hundred deaths and fifty injuries reported. ](/news/2017/06/25/an-oil-truck-catches-fire-in-the-pakistani-city-of-bahawalpur-with-more-than-a-hundred-deaths-and-fifty-injuries-reported.md)
+People were killed as they gathered to collect fuel from the overturned tanker, officials say.
 
-### [An early-morning landslide buries 40 homes and leaves 100 people missing in Aba Prefecture, Sichuan Province, China. At least 500 rescue workers are on scene, and a 2-km stretch of the river in Mao County is blocked. ](/news/2017/06/24/an-early-morning-landslide-buries-40-homes-and-leaves-100-people-missing-in-aba-prefecture-sichuan-province-china-at-least-500-rescue-wor.md)
+### [Voters in Albania go to the polls for an election, with both the ruling Socialist Party and the rival Democratic Party looking to gain a majority in the country's parliament. ](/news/2017/06/25/voters-in-albania-go-to-the-polls-for-an-election-with-both-the-ruling-socialist-party-and-the-rival-democratic-party-looking-to-gain-a-maj.md)
+_Context: Albania, Albanian parliamentary election, 2017, Democratic Party, Socialist Party, parliament_
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/06/24/index.md)
+
+### [Israel and Syria exchange weapons fire in the disputed Golan Heights, with Israel destroying several targets, including two Syrian tanks. Although there were deaths on the ground in Syria, the number of casualties among Syrian forces is unknown. No Israeli troops were injured. ](/news/2017/06/24/israel-and-syria-exchange-weapons-fire-in-the-disputed-golan-heights-with-israel-destroying-several-targets-including-two-syrian-tanks-al.md)
+_Context: Golan Heights, Israel, Israeli involvement in the Syrian Civil War, Syria_
+
+### [An early-morning landslide buries 40 homes and leaves 15 people dead and 114 others missing in Aba Prefecture, Sichuan Province, China. At least 500 rescue workers are on scene, and a 2-km stretch of the river in Mao County is blocked. ](/news/2017/06/24/an-early-morning-landslide-buries-40-homes-and-leaves-15-people-dead-and-114-others-missing-in-aba-prefecture-sichuan-province-china-at-l.md)
 _Context: 2017 Sichuan landslide, Aba Prefecture, Mao County, Sichuan Province_
 
-### [The number of cholera cases in Yemen passes 200,000 with 1,500 deaths so far. There are 5000 cases reported everyday. ](/news/2017/06/24/the-number-of-cholera-cases-in-yemen-passes-200-000-with-1-500-deaths-so-far-there-are-5000-cases-reported-everyday.md)
+### [The number of cholera cases in Yemen passes 200,000, with over 1,300 deaths so far. There are an estimated 5,000 new cases every day. ](/news/2017/06/24/the-number-of-cholera-cases-in-yemen-passes-200-000-with-over-1-300-deaths-so-far-there-are-an-estimated-5-000-new-cases-every-day.md)
 So far more than 1,300 people have died, 25% children, with numbers expected to rise, the UN says.
 
 ### [Police in the United Kingdom are investigating a cyberattack on the Houses of Parliament after an attempt was made to gain unauthorised access to politicians' email accounts. ](/news/2017/06/24/police-in-the-united-kingdom-are-investigating-a-cyberattack-on-the-houses-of-parliament-after-an-attempt-was-made-to-gain-unauthorised-acce.md)
@@ -15,13 +29,9 @@ MPs are unable to access emails remotely, as Westminster deals with a hacking at
 ### [Polling places open in Papua New Guinea, and will remain open for two weeks, to elect all 111 members of the National Parliament. The People's National Congress led by Prime Minister Peter O'Neill is considered likely to maintain a governing coalition, despite uncertainty due to lack of opinion polling. ](/news/2017/06/24/polling-places-open-in-papua-new-guinea-and-will-remain-open-for-two-weeks-to-elect-all-111-members-of-the-national-parliament-the-people.md)
 _Context: National Parliament, Papua New Guinea, Papua New Guinean general election, 2017, People's National Congress, Peter O'Neill, Prime Minister, governing coalition, opinion poll_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/06/23/index.md)
+## [Day Before Yesterday](/news/2017/06/23/index.md)
 
 ### [Multiple blasts occur at a market in Parachinar, killing at least 37 people and wounding over 150 more. ](/news/2017/06/23/multiple-blasts-occur-at-a-market-in-parachinar-killing-at-least-37-people-and-wounding-over-150-more.md)
 Suicide attack near provincial police chief&#39;s office kills at least 12 people and wounds 14 others.
@@ -52,38 +62,7 @@ _Context: Creation-evolution controversy, Turkey, complex, controversial, evolut
 
 ---
 
-## [Day Before Yesterday](/news/2017/06/22/index.md)
-
-### [A car bomb outside a New Kabul Bank branch in Lashkargah, Helmand Province, kills at least 20 people. The Taliban claims responsibility. ](/news/2017/06/22/a-car-bomb-outside-a-new-kabul-bank-branch-in-lashkargah-helmand-province-kills-at-least-20-people-the-taliban-claims-responsibility.md)
-_Context: 2017 Lashkargah bombing, Helmand Province, Lashkargah, New Kabul Bank, Taliban, War in Afghanistan_
-
-### [United States President Donald Trump plans on adding solar panels to his proposed border wall with Mexico. ](/news/2017/06/22/united-states-president-donald-trump-plans-on-adding-solar-panels-to-his-proposed-border-wall-with-mexico.md)
-Attaching solar panels to a wall along the Mexican border will cut costs, the US president tells a rally.
-
-### [A 6.8-magnitude earthquake strikes off the coast of Puerto San Jose, Guatemala. ](/news/2017/06/22/a-6-8-magnitude-earthquake-strikes-off-the-coast-of-puerto-san-josa-c-guatemala.md)
-_Context: Earthquakes in 2017, Guatemala, Puerto San Jose_
-
-### [In a vote at the United Nations General Assembly, 94 states support a Mauritius-sponsored resolution to seek an advisory opinion from the International Court of Justice on the legal status of the disputed Chagos Archipelago. ](/news/2017/06/22/in-a-vote-at-the-united-nations-general-assembly-94-states-support-a-mauritius-sponsored-resolution-to-seek-an-advisory-opinion-from-the-in.md)
-Mauritius supported by 94 nations in move to consult The Hague over colonial hold of Indian Ocean territory by British
-
-### [An American who formerly worked for the Central Intelligence Agency is arrested on charges of selling classified information to Chinese operatives in May 2017. ](/news/2017/06/22/an-american-who-formerly-worked-for-the-central-intelligence-agency-is-arrested-on-charges-of-selling-classified-information-to-chinese-oper.md)
-Virginia man traveled over past several months to China, federal prosecutors say
-
-### [UK Prime Minister Theresa May announces that citizens of the European Union living in the United Kingdom will be able to acquire a "UK settled status" after the UK leaves the EU. ](/news/2017/06/22/uk-prime-minister-theresa-may-announces-that-citizens-of-the-european-union-living-in-the-united-kingdom-will-be-able-to-acquire-a-uk-settl.md)
-They will be treated as UK citizens for healthcare, education benefits and pensions, says the UK PM.
-
-### [A judge in Michigan halts the possible deportation of over 100 Chaldean Iraqi Christians. ](/news/2017/06/22/a-judge-in-michigan-halts-the-possible-deportation-of-over-100-chaldean-iraqi-christians.md)
-_Context: Chaldean, Immigration to the United States, Iraqi Christian, Michigan_
-
-### [U.S. President Donald Trump clarifies that he did not record any private conversations with former FBI Director James Comey. ](/news/2017/06/22/u-s-president-donald-trump-clarifies-that-he-did-not-record-any-private-conversations-with-former-fbi-director-james-comey.md)
-President Donald Trump says he doesn&apos;t have any recordings of his private conversations with fired FBI Director James Comey.
-
-### [The U.S. Senate releases its version of the American Health Care Act of 2017. ](/news/2017/06/22/the-u-s-senate-releases-its-version-of-the-american-health-care-act-of-2017.md)
-Senate Republican leaders released their bill to repeal the Affordable Care Act, even as enough senators to block it declared their opposition.
-
----
-
-## [Previous Day...](/news/2017/06/21/index.md)
+## [Previous Day...](/news/2017/06/22/index.md)
 
 ---
 
