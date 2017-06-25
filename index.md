@@ -1,6 +1,6 @@
 ## [News](/news/2017/06/25/index.md)
 
-### [132 people die and at least 130 are injured when an oil tanker truck overturns and explodes as people from surrounding villages gather around the truck to collect the spilling oil. The accident happened in Bahawalpur, eastern Pakistan. ](/news/2017/06/25/132-people-die-and-at-least-130-are-injured-when-an-oil-tanker-truck-overturns-and-explodes-as-people-from-surrounding-villages-gather-aroun.md)
+### [149 people die and at least 117 are injured when an oil tanker truck overturns and explodes as people from surrounding villages gather around the truck to collect the spilling oil. The accident happened in Bahawalpur, eastern Pakistan. ](/news/2017/06/25/149-people-die-and-at-least-117-are-injured-when-an-oil-tanker-truck-overturns-and-explodes-as-people-from-surrounding-villages-gather-aroun.md)
 People were killed as they gathered to collect fuel from the overturned tanker, officials say.
 
 ### [Six people are injured when a car ploughs into Eid al-Fitr worshippers in Newcastle, England. ](/news/2017/06/25/six-people-are-injured-when-a-car-ploughs-into-eid-al-fitr-worshippers-in-newcastle-england.md)
