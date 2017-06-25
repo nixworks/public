@@ -7,7 +7,7 @@ _Context: Spamming, Virginia, e-mail_
 _Context: electronic machines_
 
 ### [ According to Pentagon investigations, Halliburton overcharged the US Army for fuel in Iraq. Dick Cheney was chairman of Halliburton prior to becoming Vice President of the United States. ](/news/2003/12/11/according-to-pentagon-investigations-halliburton-overcharged-the-us-army-for-fuel-in-iraq-dick-cheney-was-chairman-of-halliburton-prior-t.md)
-_Context: Dick Cheney, Halliburton, The Pentagon, U.S. Vice President, United States Army_
+_Context: Dick Cheney, Halliburton, U.S. Vice President, United States Army, United States military_
 
 ### [ In Israel, an explosion at a money exchange office in a shopping district near the city center of Tel Aviv at 1230 local time (1030 UTC) kills three and injures at least eighteen people. Police say the cause of the explosion was probably criminal rather than terrorist. [http://news.bbc.co.uk/1/hi/world/middle_east/3309825.stm]](/news/2003/12/11/in-israel-an-explosion-at-a-money-exchange-office-in-a-shopping-district-near-the-city-center-of-tel-aviv-at-1230-local-time-1030-utc-ki.md)
 _Context: Israel, Tel Aviv, UTC_

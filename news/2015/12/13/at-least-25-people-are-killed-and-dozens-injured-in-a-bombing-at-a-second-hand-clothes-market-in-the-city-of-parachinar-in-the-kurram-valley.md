@@ -12,7 +12,7 @@ Sectarian outfit Lashkar-e-Jhangvi al-Alami claims responsibility for the attack
 
 ### Related:
 
-1. [Multiple blasts occur at a market in Parachinar, killing at least 13 people and wounding over 50 more. ](/news/2017/06/23/multiple-blasts-occur-at-a-market-in-parachinar-killing-at-least-13-people-and-wounding-over-50-more.md) _Context: Parachinar, War in North-West Pakistan_
+1. [Multiple blasts occur at a market in Parachinar, killing at least 37 people and wounding over 150 more. ](/news/2017/06/23/multiple-blasts-occur-at-a-market-in-parachinar-killing-at-least-37-people-and-wounding-over-150-more.md) _Context: Parachinar, War in North-West Pakistan_
 2. [A bomb targets a mosque in the city of Parachinar near the border with Afghanistan killing at least 22 people and wounding dozens more. ](/news/2017/03/31/a-bomb-targets-a-mosque-in-the-city-of-parachinar-near-the-border-with-afghanistan-killing-at-least-22-people-and-wounding-dozens-more.md) _Context: Parachinar, War in North-West Pakistan_
 3. [A United States drone strike kills two alleged militants in the Kurram district of the Federally Administered Tribal Areas. ](/news/2017/03/2/a-united-states-drone-strike-kills-two-alleged-militants-in-the-kurram-district-of-the-federally-administered-tribal-areas.md) _Context: Kurram, War in North-West Pakistan_
 4. [At least 22 people are killed and around 90 injured after a bomb explodes at a vegetable market in Parachinar in the Federally Administered Tribal Areas of Pakistan. ](/news/2017/01/21/at-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetable-market-in-parachinar-in-the-federally-administered.md) _Context: Parachinar, War in North-West Pakistan_

@@ -28,7 +28,7 @@ _Context: Valparaiso_
 _Context: Aung San Suu Kyi, Australia, Myanmar, by-elections earlier this month_
 
 ### [The U.S. military's top officer Martin Dempsey speaks of being "embarrassed" and tells a Pentagon news conference "we let the boss down" in relation to allegations that United States Secret Service agents habitually associated with prostitutes in Colombia. Pentagon spokesman George E. Little tells reporters that the number of military staff involved could be more than the five originally reported. ](/news/2012/04/16/the-u-s-military-s-top-officer-martin-dempsey-speaks-of-being-embarrassed-and-tells-a-pentagon-news-conference-we-let-the-boss-down-in.md)
-_Context: Colombia, George E. Little, Martin Dempsey, The Pentagon, United States Secret Service_
+_Context: Colombia, George E. Little, Martin Dempsey, United States Secret Service, United States military_
 
 ### [An Israeli soldier hits a foreign pro-Palestinian activist, believed to be a Danish national, with his gun after protesters attack and injure the soldier; the Danish ambassador to Israel demands an explanation from Israel. ](/news/2012/04/16/an-israeli-soldier-hits-a-foreign-pro-palestinian-activist-believed-to-be-a-danish-national-with-his-gun-after-protesters-attack-and-injur.md)
 Footage posted online showed officer striking pro-Palestinian activist in face during West Bank cycling rally.

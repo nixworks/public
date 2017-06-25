@@ -1,5 +1,8 @@
 ## [2017-06-24](/news/2017/06/24/index.md)
 
+### [Israel and Syria exchange weapons fire, with Israel destroying several targets, including two Syrian tanks. Although there were deaths on the ground in Syria, the number of casualties among Syrian forces is unknown. No Israeli troops were injured. ](/news/2017/06/24/israel-and-syria-exchange-weapons-fire-with-israel-destroying-several-targets-including-two-syrian-tanks-although-there-were-deaths-on-th.md)
+_Context: Israel, Syria_
+
 ### [An early-morning landslide buries 40 homes and leaves 100 people missing in Aba Prefecture, Sichuan Province, China. At least 500 rescue workers are on scene, and a 2-km stretch of the river in Mao County is blocked. ](/news/2017/06/24/an-early-morning-landslide-buries-40-homes-and-leaves-100-people-missing-in-aba-prefecture-sichuan-province-china-at-least-500-rescue-wor.md)
 _Context: 2017 Sichuan landslide, Aba Prefecture, Mao County, Sichuan Province_
 

@@ -13,7 +13,7 @@ _Context: Iran, U.N. Security Council_
 _Context: Saleh Ali Saleh Nabhan, Somalia, Tomahawk cruise missiles, United States Navy, al-Qaeda, missile strike_
 
 ### [ A Pentagon report to the United States Congress states that the Peoples Republic of China's reluctance to explain the extent and purpose of its military buildup poses a risk to stability in Asia. ](/news/2008/03/3/a-pentagon-report-to-the-united-states-congress-states-that-the-peoples-republic-of-china-s-reluctance-to-explain-the-extent-and-purpose-of.md)
-_Context: Asia, Chinese, The Pentagon, United States Congress_
+_Context: Asia, Chinese, United States Congress, United States military_
 
 ### [ Androulla Vasiliou replaces Markos Kyprianou as European Commissioner for Health. ](/news/2008/03/3/androulla-vasiliou-replaces-markos-kyprianou-as-european-commissioner-for-health.md)
 _Context: Androulla Vasiliou, European Commissioner for Health, Markos Kyprianou_
