@@ -3,11 +3,14 @@
 ### [Israel strikes two Syrian Army artillery positions and an ammunition truck in Quneitra Governorate, after stray shells from Syria land in the northern Golan Heights for a second day in a row. ](/news/2017/06/25/israel-strikes-two-syrian-army-artillery-positions-and-an-ammunition-truck-in-quneitra-governorate-after-stray-shells-from-syria-land-in-th.md)
 _Context: Golan Heights, Israel, Israeli-Syrian ceasefire line incidents during the Syrian Civil War, Quneitra Governorate, Syria, Syrian Army_
 
-### [149 people die and at least 117 are injured when an oil tanker truck overturns and explodes as people from surrounding villages gather around the truck to collect the spilling oil. The accident happened in Bahawalpur, eastern Pakistan. ](/news/2017/06/25/149-people-die-and-at-least-117-are-injured-when-an-oil-tanker-truck-overturns-and-explodes-as-people-from-surrounding-villages-gather-aroun.md)
+### [Over 150 people die and dozens are injured, many critically, when an oil tanker truck overturns and explodes as people from surrounding villages gather around the truck to collect the spilling oil. The accident happened in Bahawalpur, eastern Pakistan. ](/news/2017/06/25/over-150-people-die-and-dozens-are-injured-many-critically-when-an-oil-tanker-truck-overturns-and-explodes-as-people-from-surrounding-vill.md)
 People were killed as they gathered to collect fuel from the overturned tanker, officials say.
 
 ### [Six people are injured after a car ploughs into Eid al-Fitr worshippers in Newcastle upon Tyne, England. ](/news/2017/06/25/six-people-are-injured-after-a-car-ploughs-into-eid-al-fitr-worshippers-in-newcastle-upon-tyne-england.md)
 _Context: Eid al-Fitr, England, Newcastle upon Tyne_
+
+### [External cladding samples from all 60 high-rise apartment towers,  from 25 different areas of the country, fail fire-resistance testing.  Evacuation of thousands of apartments is  underway as workers start to remove the deficient covering. ](/news/2017/06/25/external-cladding-samples-from-all-60-high-rise-apartment-towers-from-25-different-areas-of-the-country-fail-fire-resistance-testing-ev.md)
+The cladding is believed to have rapidly spread the inferno at London&#8217;s Grenfell Tower that killed at least 79 people
 
 ### [The Bahrain News Agency publishes an official list of the demands from Saudi Arabia, Bahrain, the United Arab Emirates and Egypt towards Qatar. Turkey says the demands on Qatar are unlawful. ](/news/2017/06/25/the-bahrain-news-agency-publishes-an-official-list-of-the-demands-from-saudi-arabia-bahrain-the-united-arab-emirates-and-egypt-towards-qat.md)
 _Context: 2017 Qatar diplomatic crisis, Bahrain, Bahrain News Agency, Egypt, Qatar, Saudi Arabia, Turkey, United Arab Emirates_
