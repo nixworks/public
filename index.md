@@ -1,5 +1,8 @@
 ## [News](/news/2017/06/26/index.md)
 
+### [Chinese political activist and Nobel Peace Prize laureate Liu Xiaobo is released from prison on medical parole after being diagnosed with terminal liver cancer. ](/news/2017/06/26/chinese-political-activist-and-nobel-peace-prize-laureate-liu-xiaobo-is-released-from-prison-on-medical-parole-after-being-diagnosed-with-te.md)
+Liu was awarded Nobel peace prize in 2010 while serving 11-year sentence for inciting subversion of state power
+
 ### [Philippines President Rodrigo Duterte makes another lengthy absence from any public appearance after missing the Independence Day celebrations earlier in June. Rumors about his health continue to circulate among the Filipino populace although government officials deny any issues. ](/news/2017/06/26/philippines-president-rodrigo-duterte-makes-another-lengthy-absence-from-any-public-appearance-after-missing-the-independence-day-celebratio.md)
 _Context: Independence Day, Philippines, Presidency of Rodrigo Duterte, Rodrigo Duterte_
 
