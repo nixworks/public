@@ -3,6 +3,9 @@
 ### [Philippines President Rodrigo Duterte makes another lengthy absence from any public appearance after missing the Independence Day celebrations earlier in June. Rumors about his health continue to circulate among the Filipino populace although government officials deny any issues. ](/news/2017/06/26/philippines-president-rodrigo-duterte-makes-another-lengthy-absence-from-any-public-appearance-after-missing-the-independence-day-celebratio.md)
 _Context: Independence Day, Philippines, Presidency of Rodrigo Duterte, Rodrigo Duterte_
 
+### [The Jewish Agency for Israel Board of Governors cancels Monday's dinner with Israeli Prime Minister Benjamin Netanyahu to protest Sunday's decision by his cabinet to rescind plans for a mixed-gender prayer area at Jerusalem's Western Wall, a compromise agreement reached after three years of intense negotiations. ](/news/2017/06/26/the-jewish-agency-for-israel-board-of-governors-cancels-monday-s-dinner-with-israeli-prime-minister-benjamin-netanyahu-to-protest-sunday-s-d.md)
+_Context: Benjamin Netanyahu, Board of Governors, Israeli Prime Minister, Jewish Agency for Israel, Western Wall_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -23,7 +26,7 @@ Six people were injured on Sunday after a car mounted a pavement outside a sport
 ### [External cladding samples from all 60 high-rise apartment towers,  from 25 different areas of the country, fail fire-resistance testing.  Evacuation of thousands of apartments is  underway as workers start to remove the deficient covering. ](/news/2017/06/25/external-cladding-samples-from-all-60-high-rise-apartment-towers-from-25-different-areas-of-the-country-fail-fire-resistance-testing-ev.md)
 The cladding is believed to have rapidly spread the inferno at London&#8217;s Grenfell Tower that killed at least 79 people
 
-### [Nine people are killed and about 30 others are missing after their  multi-story tourist boat, carrying about 170 people, sinks in a reservoir in northwest Colombia near Medellin. ](/news/2017/06/25/nine-people-are-killed-and-about-30-others-are-missing-after-their-multi-story-tourist-boat-carrying-about-170-people-sinks-in-a-reservoi.md)
+### [At least nine people are killed and about 30 others are missing after their  multi-story tourist boat, carrying about 170 people, sinks in a reservoir in northwest Colombia near Medellin. ](/news/2017/06/25/at-least-nine-people-are-killed-and-about-30-others-are-missing-after-their-multi-story-tourist-boat-carrying-about-170-people-sinks-in-a.md)
 A flotilla of boats and the air force went to the aid of vessel that sank with about 150 people on board in Peňol-Guatapé reservoir
 
 ### [The Bahrain News Agency publishes an official list of the demands from Saudi Arabia, Bahrain, the United Arab Emirates and Egypt towards Qatar. Turkey says the demands on Qatar are unlawful. ](/news/2017/06/25/the-bahrain-news-agency-publishes-an-official-list-of-the-demands-from-saudi-arabia-bahrain-the-united-arab-emirates-and-egypt-towards-qat.md)
