@@ -1,6 +1,6 @@
 ### [2017-06-25](/news/2017/06/25/index.md)
 
-# Voters in Albania go to the polls in an election important to the country's European Union candidacy, with both the ruling Socialist Party and the rival Democratic Party looking to gain a majority in the country's parliament. Voting is extended  by one hour because of  Eid al-Fitr celebrations and 39 C (102 F) degree temperatures. 
+# Voters in Albania go to the polls in an election important to the country's European Union candidacy, with both the ruling Socialist Party and the rival Democratic Party looking to gain a majority in the country's parliament. Voting is extended  by one hour because of  Eid al-Fitr celebrations and 39{{nbsp}}degC (102{{nbsp}}degF) degree temperatures. 
 
 
 
