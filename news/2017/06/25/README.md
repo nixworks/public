@@ -21,5 +21,8 @@ _Context: 2017 Qatar diplomatic crisis, Bahrain, Bahrain News Agency, Egypt, Qat
 ### [Voters in Albania go to the polls in an election important to the country's European Union candidacy, with both the ruling Socialist Party and the rival Democratic Party looking to gain a majority in the country's parliament. Voting is extended  by one hour because of  Eid al-Fitr celebrations and 39{{nbsp}}degC (102{{nbsp}}degF) degree temperatures. ](/news/2017/06/25/voters-in-albania-go-to-the-polls-in-an-election-important-to-the-country-s-european-union-candidacy-with-both-the-ruling-socialist-party-a.md)
 _Context: Albania, Albanian parliamentary election, 2017, Democratic Party, Eid al-Fitr, European Union candidacy, Socialist Party, parliament_
 
+### [In the first declared visit to the town since the beginning of the war, President Bashar al-Assad attends the Eid al-Fitr prayer in Hama. ](/news/2017/06/25/in-the-first-declared-visit-to-the-town-since-the-beginning-of-the-war-president-bashar-al-assad-attends-the-eid-al-fitr-prayer-in-hama.md)
+_Context: Bashar al-Assad, Eid al-Fitr, Hama, Politics of Syria, war_
+
 ## [Previous Day...](/news/2017/06/24/index.md)
 
