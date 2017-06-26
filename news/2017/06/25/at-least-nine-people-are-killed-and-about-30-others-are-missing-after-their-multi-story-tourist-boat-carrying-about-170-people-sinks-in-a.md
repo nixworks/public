@@ -1,6 +1,6 @@
 ### [2017-06-25](/news/2017/06/25/index.md)
 
-# At least nine people are killed and about 30 others are missing after their  multi-story tourist boat, carrying about 170 people, sinks in a reservoir in northwest Colombia near Medellin. 
+# At least nine people are killed and about 30 others are missing after their multi-story tourist boat, carrying about 170 people, sinks in a reservoir in northwest Colombia near Medellin. 
 
 A flotilla of boats and the air force went to the aid of vessel that sank with about 150 people on board in Peňol-Guatapé reservoir
 
