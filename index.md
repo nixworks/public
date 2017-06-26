@@ -3,7 +3,7 @@
 ### [Chinese political activist and Nobel Peace Prize laureate Liu Xiaobo is released from prison on medical parole after being diagnosed with terminal liver cancer. ](/news/2017/06/26/chinese-political-activist-and-nobel-peace-prize-laureate-liu-xiaobo-is-released-from-prison-on-medical-parole-after-being-diagnosed-with-te.md)
 Liu was awarded Nobel peace prize in 2010 while serving 11-year sentence for inciting subversion of state power
 
-### [Philippines President Rodrigo Duterte makes another lengthy absence from any public appearance after missing the Independence Day celebrations earlier in June. Rumors about his health continue to circulate among the Filipino populace although government officials deny any issues. ](/news/2017/06/26/philippines-president-rodrigo-duterte-makes-another-lengthy-absence-from-any-public-appearance-after-missing-the-independence-day-celebratio.md)
+### [Philippines President Rodrigo Duterte makes another lengthy absence from any public appearance after missing the Independence Day celebrations earlier in June. Rumors about his health continue to circulate within the minority although government officials deny any issues. ](/news/2017/06/26/philippines-president-rodrigo-duterte-makes-another-lengthy-absence-from-any-public-appearance-after-missing-the-independence-day-celebratio.md)
 _Context: Independence Day, Philippines, Presidency of Rodrigo Duterte, Rodrigo Duterte_
 
 ### [The Jewish Agency for Israel Board of Governors cancels Monday's dinner with Israeli Prime Minister Benjamin Netanyahu to protest Sunday's decision by his cabinet to rescind plans for a mixed-gender prayer area at Jerusalem's Western Wall, a compromise agreement reached after three years of intense negotiations. ](/news/2017/06/26/the-jewish-agency-for-israel-board-of-governors-cancels-monday-s-dinner-with-israeli-prime-minister-benjamin-netanyahu-to-protest-sunday-s-d.md)
@@ -51,7 +51,7 @@ _Context: Golan Heights, Israel, Israeli involvement in the Syrian Civil War, Sy
 ### [An early-morning landslide buries 40 homes and leaves 15 people dead and 114 others missing in Aba Prefecture, Sichuan Province, China. At least 500 rescue workers are on scene, and a 2-km stretch of the river in Mao County is blocked. ](/news/2017/06/24/an-early-morning-landslide-buries-40-homes-and-leaves-15-people-dead-and-114-others-missing-in-aba-prefecture-sichuan-province-china-at-l.md)
 _Context: 2017 Sichuan landslide, Aba Prefecture, Mao County, Sichuan Province_
 
-### [The number of cholera cases in Yemen passes 200,000, with over 1,300 deaths so far. There are an estimated 5,000 new cases every day. ](/news/2017/06/24/the-number-of-cholera-cases-in-yemen-passes-200-000-with-over-1-300-deaths-so-far-there-are-an-estimated-5-000-new-cases-every-day.md)
+### [The number of the cholera outbreak cases in Yemen passes 200,000, with over 1,300 deaths so far. There are an estimated 5,000 new cases every day. ](/news/2017/06/24/the-number-of-the-cholera-outbreak-cases-in-yemen-passes-200-000-with-over-1-300-deaths-so-far-there-are-an-estimated-5-000-new-cases-ever.md)
 So far more than 1,300 people have died, 25% children, with numbers expected to rise, the UN says.
 
 ### [Police in the United Kingdom are investigating a cyberattack on the Houses of Parliament after an attempt was made to gain unauthorised access to politicians' email accounts. ](/news/2017/06/24/police-in-the-united-kingdom-are-investigating-a-cyberattack-on-the-houses-of-parliament-after-an-attempt-was-made-to-gain-unauthorised-acce.md)

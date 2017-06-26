@@ -6,7 +6,7 @@ _Context: Golan Heights, Israel, Israeli involvement in the Syrian Civil War, Sy
 ### [An early-morning landslide buries 40 homes and leaves 15 people dead and 114 others missing in Aba Prefecture, Sichuan Province, China. At least 500 rescue workers are on scene, and a 2-km stretch of the river in Mao County is blocked. ](/news/2017/06/24/an-early-morning-landslide-buries-40-homes-and-leaves-15-people-dead-and-114-others-missing-in-aba-prefecture-sichuan-province-china-at-l.md)
 _Context: 2017 Sichuan landslide, Aba Prefecture, Mao County, Sichuan Province_
 
-### [The number of cholera cases in Yemen passes 200,000, with over 1,300 deaths so far. There are an estimated 5,000 new cases every day. ](/news/2017/06/24/the-number-of-cholera-cases-in-yemen-passes-200-000-with-over-1-300-deaths-so-far-there-are-an-estimated-5-000-new-cases-every-day.md)
+### [The number of the cholera outbreak cases in Yemen passes 200,000, with over 1,300 deaths so far. There are an estimated 5,000 new cases every day. ](/news/2017/06/24/the-number-of-the-cholera-outbreak-cases-in-yemen-passes-200-000-with-over-1-300-deaths-so-far-there-are-an-estimated-5-000-new-cases-ever.md)
 So far more than 1,300 people have died, 25% children, with numbers expected to rise, the UN says.
 
 ### [Police in the United Kingdom are investigating a cyberattack on the Houses of Parliament after an attempt was made to gain unauthorised access to politicians' email accounts. ](/news/2017/06/24/police-in-the-united-kingdom-are-investigating-a-cyberattack-on-the-houses-of-parliament-after-an-attempt-was-made-to-gain-unauthorised-acce.md)
