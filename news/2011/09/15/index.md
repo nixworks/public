@@ -10,7 +10,7 @@ _Context: Chrysler, General Motors, North America, United Auto Workers_
 Swiss bank UBS said it had lost around $2 billion due to rogue dealing by a London-based trader at the Swiss bank and
 
 ### [Stock markets in the United States and Europe rally after major banks, including the European Central Bank and the United States Federal Reserve, initiate a plan to help end the European sovereign debt crisis. ](/news/2011/09/15/stock-markets-in-the-united-states-and-europe-rally-after-major-banks-including-the-european-central-bank-and-the-united-states-federal-res.md)
-_Context: Europe, European Central Bank, European sovereign-debt crisis, United States Federal Reserve, economy of the United States, stock markets_
+_Context: Economy of the United States, Europe, European Central Bank, European sovereign-debt crisis, United States Federal Reserve, stock markets_
 
 ### [International aid group Oxfam sets up an emergency appeal for victims of the 2011 Sindh floods in Pakistan, which have so far killed more than 200 people. ](/news/2011/09/15/international-aid-group-oxfam-sets-up-an-emergency-appeal-for-victims-of-the-2011-sindh-floods-in-pakistan-which-have-so-far-killed-more-th.md)
 International aid group Oxfam launches an emergency appeal to help millions of people caught in the middle of huge floods in Pakistan.

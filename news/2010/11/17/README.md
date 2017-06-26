@@ -28,7 +28,7 @@ European finance ministers say they did not hold detailed discussions on a poten
 _Context: Bank of America, Lehman Brothers, US$, United States_
 
 ### [New home construction fell to its lowest level since April 2009. ](/news/2010/11/17/new-home-construction-fell-to-its-lowest-level-since-april-2009.md)
-_Context: April 2009, economy of the United States_
+_Context: April 2009, Economy of the United States_
 
 ### [Floods and gale-force winds cause widespread disruption and damage across the United Kingdom county of Cornwall. ](/news/2010/11/17/floods-and-gale-force-winds-cause-widespread-disruption-and-damage-across-the-united-kingdom-county-of-cornwall.md)
 More than 100 homes are evacuated in Cornwall as heavy rain and gale-force winds cause widespread flooding and travel disruption.

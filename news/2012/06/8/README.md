@@ -43,7 +43,7 @@ Chuck Blazer, the official who blew the whistle on corruption within Fifa, is ac
 _Context: Christopher "Dudus" Coke, Jamaica_
 
 ### [The Parliament of Albania fails without a vote in the third round to elect the President of the Republic of Albania. ](/news/2012/06/8/the-parliament-of-albania-fails-without-a-vote-in-the-third-round-to-elect-the-president-of-the-republic-of-albania.md)
-_Context: Assembly, President of Albania, Republic of Albania, elects_
+_Context: President of Albania, Republic of Albania, elects, parliament_
 
 ### [UK Home Secretary Theresa May announces plans to introduce new laws to jail parents who force their children into arranged marriages. ](/news/2012/06/8/uk-home-secretary-theresa-may-announces-plans-to-introduce-new-laws-to-jail-parents-who-force-their-children-into-arranged-marriages.md)
 New laws are to be introduced for England and Wales by the home secretary to jail parents who force their children to marry.

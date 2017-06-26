@@ -52,7 +52,7 @@ Investigators on Wednesday identified Luka Rocco Magnotta as a suspect in the my
 The High Court has refused an application by a Sinn Féin TD seeking to have the Referendum Commission withdraw some remarks it made earlier this month.
 
 ### [The Parliament of Albania fails without a vote in the first round to elect the President of the republic. ](/news/2012/05/30/the-parliament-of-albania-fails-without-a-vote-in-the-first-round-to-elect-the-president-of-the-republic.md)
-_Context: Assembly, President of Albania, elects_
+_Context: President of Albania, elects, parliament_
 
 ### [The Parliament of Papua New Guinea meets to choose a new Prime Minister after a ruling by the Supreme Court last week, with ''de facto'' Prime Minister Peter O'Neill again chosen. ](/news/2012/05/30/the-parliament-of-papua-new-guinea-meets-to-choose-a-new-prime-minister-after-a-ruling-by-the-supreme-court-last-week-with-de-facto-pri.md)
 Papua New Guinea&#039;s parliament is preparing to elect a new Prime Minister this morning, just a month before the country&#039;s general election. It comes after a dramatic u-turn by Peter O&#039;Neill&#039;s government, which now accepts Sir Michael Somare as PNG&#039;s legitimate leader.

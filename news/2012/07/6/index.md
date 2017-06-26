@@ -19,7 +19,7 @@ _Context: Libya_
 _Context: Associated Press, Facebook, Yahoo!_
 
 ### [The United States Department of Labor monthly jobs report shows that the US economy added 80,000 jobs in June. ](/news/2012/07/6/the-united-states-department-of-labor-monthly-jobs-report-shows-that-the-us-economy-added-80-000-jobs-in-june.md)
-_Context: United States Department of Labor, economy of the United States_
+_Context: Economy of the United States, United States Department of Labor_
 
 ### [More than 80 flood alerts are issued in the United Kingdom as the north of England and East Anglia prepares for torrential rain. ](/news/2012/07/6/more-than-80-flood-alerts-are-issued-in-the-united-kingdom-as-the-north-of-england-and-east-anglia-prepares-for-torrential-rain.md)
 Persistent rain continues to fall over much of the country, with very heavy rain beginning to affect the South West.

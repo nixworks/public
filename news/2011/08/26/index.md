@@ -10,7 +10,7 @@ _Context: Abuja, Nigeria, United Nations, bomb explodes_
 _Context: Judas, Katy Perry, Lady Gaga, Last Friday Night (T.G.I.F.), Ministry of Culture of the People's Republic of China_
 
 ### [Ben Bernanke, the Chairman of the United States Federal Reserve, gives a keynote address at a central banks conference at the US resort of Jackson Hole, Wyoming as statistics show that the US economy grew by 1%. ](/news/2011/08/26/ben-bernanke-the-chairman-of-the-united-states-federal-reserve-gives-a-keynote-address-at-a-central-banks-conference-at-the-us-resort-of-j.md)
-_Context: Ben Bernanke, Chairman of the Federal Reserve, Jackson Hole, United States Federal Reserve, Wyoming, central bank, economy of the United States_
+_Context: Ben Bernanke, Chairman of the Federal Reserve, Economy of the United States, Jackson Hole, United States Federal Reserve, Wyoming, central bank_
 
 ### [The Federal Reserve announces that it will hold hearings on the proposed acquisition, by Capital One, of ING Direct, a potential $9 billion deal. ](/news/2011/08/26/the-federal-reserve-announces-that-it-will-hold-hearings-on-the-proposed-acquisition-by-capital-one-of-ing-direct-a-potential-9-billion.md)
 _Context: Capital One, ING Direct_

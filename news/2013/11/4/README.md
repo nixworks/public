@@ -7,7 +7,7 @@ Rebel infighting jeopardizes their control even in their strongholds
 _Context: Mali_
 
 ### [German magazine ''Focus'' reports the 2012 discovery of Nazi plundered art worth EUR1 billion in Munich, including lost works by Picasso and Matisse. ](/news/2013/11/4/german-magazine-focus-reports-the-2012-discovery-of-nazi-plundered-art-worth-a-1-billion-in-munich-including-lost-works-by-picasso-and.md)
-_Context: 2012 discovery, German magazine ''Focus'', Matisse, Munich, Nazi plundered art, Picasso_
+_Context: 2012 discovery, German magazine ''Focus'', Matisse, Munich, Nazi plunder, Picasso_
 
 ### [A man fatally stabs three people on a bus en route between Ardal and Tyin in Norway. ](/news/2013/11/4/a-man-fatally-stabs-three-people-on-a-bus-en-route-between-ardal-and-tyin-in-norway.md)
 _Context: Ardal, Norway, Tyin_

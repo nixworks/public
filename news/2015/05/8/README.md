@@ -10,7 +10,7 @@ _Context: Bill Simmons, ESPN_
 Syngenta AG, the world’s largest maker of agricultural chemicals, rejected a 41.7 billion Swiss-franc ($45 billion) takeover offer from U.S. rival Monsanto Co., saying it undervalued the company and a merger would have significant execution risks.
 
 ### [The economy of the United States adds 223,000 jobs in April with unemployment falling to 5.4%. ](/news/2015/05/8/the-economy-of-the-united-states-adds-223-000-jobs-in-april-with-unemployment-falling-to-5-4.md)
-_Context: economy of the United States_
+_Context: Economy of the United States_
 
 ### [At least six people including diplomats are killed when a Mil Mi-17 helicopter crashes into a school in the Gilgit-Baltistan region of northern Pakistan. ](/news/2015/05/8/at-least-six-people-including-diplomats-are-killed-when-a-mil-mi-17-helicopter-crashes-into-a-school-in-the-gilgit-baltistan-region-of-north.md)
 The wives of the Malaysian and Indonesian envoys were also killed in the crash. 

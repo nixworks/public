@@ -1,7 +1,7 @@
 ## [2010-02-15](/news/2010/02/15/index.md)
 
 ### [An appreciation of the Chinese yuan will help US economic growth but it will not solve problems in its own economy, the International Monetary Fund (IMF) chief economist said Monday. ](/news/2010/02/15/an-appreciation-of-the-chinese-yuan-will-help-us-economic-growth-but-it-will-not-solve-problems-in-its-own-economy-the-international-moneta.md)
-_Context: International Monetary Fund, economy of the United States, yuan_
+_Context: Economy of the United States, International Monetary Fund, yuan_
 
 ### [The opposition Anguilla United Movement, led by former Chief Minister Hubert Hughes, wins a majority of seats in the 2010 general election, defeating the governing Anguilla United Front. ](/news/2010/02/15/the-opposition-anguilla-united-movement-led-by-former-chief-minister-hubert-hughes-wins-a-majority-of-seats-in-the-2010-general-election.md)
 (The Valley, Anguilla) The Island of Anguilla, having suffered a serious economic crunch under the Anguilla United Front, under the leadership of former Chief Minister Osbourne Fleming and former Minister of Finance Victor Banks, on February 15, completely rejected the party. The Anguilla United Movement

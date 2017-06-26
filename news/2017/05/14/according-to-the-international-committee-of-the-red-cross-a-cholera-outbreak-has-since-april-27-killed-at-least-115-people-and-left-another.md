@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The number of cholera cases in Yemen passes 200,000 with 1,500 deaths so far. There are 5000 cases reported everyday. ](/news/2017/06/24/the-number-of-cholera-cases-in-yemen-passes-200-000-with-1-500-deaths-so-far-there-are-5000-cases-reported-everyday.md) _Context: Yemen, cholera_
+1. [The number of cholera cases in Yemen passes 200,000, with over 1,300 deaths so far. There are an estimated 5,000 new cases every day. ](/news/2017/06/24/the-number-of-cholera-cases-in-yemen-passes-200-000-with-over-1-300-deaths-so-far-there-are-an-estimated-5-000-new-cases-every-day.md) _Context: Yemen, cholera_
 2. [A suspected U.S. drone strike kills two al-Qaida militants in  central Shabwa province, according to Yemeni security and tribal officials. ](/news/2017/01/30/a-suspected-u-s-drone-strike-kills-two-al-qaida-militants-in-central-shabwa-province-according-to-yemeni-security-and-tribal-officials.md) _Context: Yemen, Yemeni Civil War_
 3. [Seven Pakistani crew members on Iranian cargo ship MV ''Joya'', sailing from Egypt to Dubai, UAE, are killed in a rocket attack off Yemen's coast. ](/news/2016/12/22/seven-pakistani-crew-members-on-iranian-cargo-ship-mv-joya-sailing-from-egypt-to-dubai-uae-are-killed-in-a-rocket-attack-off-yemen-s.md) _Context: Yemen, Yemeni Civil War_
 4. [Yemen's Houthi movement and its allies form a new government. ](/news/2016/11/28/yemen-s-houthi-movement-and-its-allies-form-a-new-government.md) _Context: Yemen, Yemeni Civil War_
