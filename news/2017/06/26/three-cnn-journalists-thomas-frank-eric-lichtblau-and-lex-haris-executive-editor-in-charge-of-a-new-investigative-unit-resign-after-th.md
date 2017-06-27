@@ -8,7 +8,7 @@
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/Entertainment/wireStory/cnn-retracts-story-supposed-russian-meeting-48286362)
-2. [Washington Post](http://www.washingtonpost.com%2Fblogs%2Ferik-wemple%2Fwp%2F2017%2F06%2F26%2Fthree-cnn-employees-resign-over-retracted-story-on-russia-ties%2F&usg=AFQjCNEK6dwp4fxgZCL_Lap8zVdqsrPCOg)
+2. [Washington Post](http://www.washingtonpost.com/blogs/erik-wemple/wp/2017/06/26/three-cnn-employees-resign-over-retracted-story-on-russia-ties)
 
 ### Related:
 
