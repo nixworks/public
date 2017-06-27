@@ -3,7 +3,7 @@
 ### [The European Commission impose a record $2.7bn antitrust fine on search engine giant Google. This is related to manipulation of its search engine results. ](/news/2017/06/27/the-european-commission-impose-a-record-2-7bn-antitrust-fine-on-search-engine-giant-google-this-is-related-to-manipulation-of-its-search-e.md)
 European antitrust regulators slapped Google with a record €2.4 billion ($2.7 billion) fine on Tuesday.
 
-### [Aftermath of the Bosnian War and An appeals court of The Hague rules that the Dutch State was partly to blame for the deaths of some 350 Muslim Bosnians men in the 1995 Srebrenica genocide and, in a move considered landmark, orders it to pay limited damages. ](/news/2017/06/27/aftermath-of-the-bosnian-war-and-an-appeals-court-of-the-hague-rules-that-the-dutch-state-was-partly-to-blame-for-the-deaths-of-some-350-mus.md)
+### [Aftermath of the Bosnian War and An appeals court of The Hague rules that the Netherlands was partly to blame for the deaths of some 350 Muslim Bosnians men in the 1995 Srebrenica genocide and, in a move considered landmark, orders it to pay limited damages. ](/news/2017/06/27/aftermath-of-the-bosnian-war-and-an-appeals-court-of-the-hague-rules-that-the-netherlands-was-partly-to-blame-for-the-deaths-of-some-350-mus.md)
 A Dutch appeals court ruled on Tuesday the state was partly to blame for the deaths of some 350 Muslim men in the 1995 Srebrenica genocide, and in a landmark move ordered it to pay limited damages.
 
 ### [A major ransomware cyberattack strikes companies across the globe. ](/news/2017/06/27/a-major-ransomware-cyberattack-strikes-companies-across-the-globe.md)
