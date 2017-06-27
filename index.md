@@ -20,7 +20,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/06/26/index.md)
 
-### [According to the United Nations, FARC has completed its disarmament process, with former rebels due to make the transition to civilian life and the group to transform into a legal political party in the country. ](/news/2017/06/26/according-to-the-united-nations-farc-has-completed-its-disarmament-process-with-former-rebels-due-to-make-the-transition-to-civilian-life.md)
+### [The United Nations confirms that the FARC has completed its disarmament process, with former rebels due to make the transition to civilian life and the group to transform into a legal political party in the country. ](/news/2017/06/26/the-united-nations-confirms-that-the-farc-has-completed-its-disarmament-process-with-former-rebels-due-to-make-the-transition-to-civilian-l.md)
 The disarmament by the roughly 7,000 rebels brings Latin America&#39;s oldest civil conflict close to a formal end.
 
 ### [Three CNN journalists, Thomas Frank, Eric Lichtblau, and Lex Haris (executive editor in charge of a new investigative unit), resign after the publication of a Russia-related article involving President Donald Trump that was retracted. ](/news/2017/06/26/three-cnn-journalists-thomas-frank-eric-lichtblau-and-lex-haris-executive-editor-in-charge-of-a-new-investigative-unit-resign-after-th.md)
@@ -43,9 +43,6 @@ _Context: Independence Day, Presidency of Rodrigo Duterte, President of the Phil
 
 ### [The Jewish Agency for Israel Board of Governors cancels Monday's dinner with Israeli Prime Minister Benjamin Netanyahu to protest Sunday's decision by his cabinet to rescind plans for a mixed-gender prayer area at Jerusalem's Western Wall, a compromise agreement reached after three years of intense negotiations. ](/news/2017/06/26/the-jewish-agency-for-israel-board-of-governors-cancels-monday-s-dinner-with-israeli-prime-minister-benjamin-netanyahu-to-protest-sunday-s-d.md)
 _Context: Benjamin Netanyahu, Board of Governors, Israeli Prime Minister, Jewish Agency for Israel, Politics of Israel, Western Wall_
-
-### [A fire in a building of 6 floors from the peruvian city of Chiclayo leaves 7 died, 10 injured and 22 damnified. ](/news/2017/06/26/a-fire-in-a-building-of-6-floors-from-the-peruvian-city-of-chiclayo-leaves-7-died-10-injured-and-22-damnified.md)
-_Context: Chiclayo_
 
 ---
 
