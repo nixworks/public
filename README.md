@@ -1,4 +1,15 @@
-## [News](/news/2017/06/26/index.md)
+## [News](/news/2017/06/27/index.md)
+
+### [Brazilian President Michel Temer is charged with corruption by Prosecutor General Rodrigo Janot. The case will now go to the Supreme Federal Court. ](/news/2017/06/27/brazilian-president-michel-temer-is-charged-with-corruption-by-prosecutor-general-rodrigo-janot-the-case-will-now-go-to-the-supreme-federal.md)
+Temer is accused of accepting bribes – but any move towards trial would have to pass congress by a two-thirds majority
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/06/26/index.md)
 
 ### [According to the United Nations, FARC has completed its disarmament process, with former rebels due to make the transition to civilian life and the group to transform into a legal political party in the country. ](/news/2017/06/26/according-to-the-united-nations-farc-has-completed-its-disarmament-process-with-former-rebels-due-to-make-the-transition-to-civilian-life.md)
 The disarmament by the roughly 7,000 rebels brings Latin America&#39;s oldest civil conflict close to a formal end.
@@ -15,19 +26,15 @@ The US Supreme Court partly implements the travel and refugee bans pending a ful
 ### [Mongolians go to the polls to elect a new president. The centre-right Democratic Party's Battulga Khaltmaa wins a plurality of votes, but falls short of a majority, necessitating a second round. ](/news/2017/06/26/mongolians-go-to-the-polls-to-elect-a-new-president-the-centre-right-democratic-party-s-battulga-khaltmaa-wins-a-plurality-of-votes-but-fa.md)
 _Context: Battulga Khaltmaa, Democratic Party, Mongolia, Mongolian presidential election, 2017, plurality, president, second round_
 
-### [Philippines President Rodrigo Duterte makes another lengthy absence from any public appearance after missing the Independence Day celebrations earlier in June. Rumors about his health continue to circulate within the minority although government officials deny any issues. ](/news/2017/06/26/philippines-president-rodrigo-duterte-makes-another-lengthy-absence-from-any-public-appearance-after-missing-the-independence-day-celebratio.md)
-_Context: Independence Day, Philippines, Presidency of Rodrigo Duterte, Rodrigo Duterte_
+### [President of the Philippines Rodrigo Duterte makes another lengthy absence from any public appearance after missing the Independence Day celebrations earlier in June. Rumors about his health continue to circulate within the minority although government officials deny any issues. ](/news/2017/06/26/president-of-the-philippines-rodrigo-duterte-makes-another-lengthy-absence-from-any-public-appearance-after-missing-the-independence-day-cel.md)
+_Context: Independence Day, Presidency of Rodrigo Duterte, President of the Philippines, Rodrigo Duterte_
 
 ### [The Jewish Agency for Israel Board of Governors cancels Monday's dinner with Israeli Prime Minister Benjamin Netanyahu to protest Sunday's decision by his cabinet to rescind plans for a mixed-gender prayer area at Jerusalem's Western Wall, a compromise agreement reached after three years of intense negotiations. ](/news/2017/06/26/the-jewish-agency-for-israel-board-of-governors-cancels-monday-s-dinner-with-israeli-prime-minister-benjamin-netanyahu-to-protest-sunday-s-d.md)
 _Context: Benjamin Netanyahu, Board of Governors, Israeli Prime Minister, Jewish Agency for Israel, Politics of Israel, Western Wall_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/06/25/index.md)
+## [Day Before Yesterday](/news/2017/06/25/index.md)
 
 ### [Israel strikes two Syrian Army artillery positions and an ammunition truck in Quneitra Governorate, after stray shells from Syria land in the northern Golan Heights for a second day in a row. ](/news/2017/06/25/israel-strikes-two-syrian-army-artillery-positions-and-an-ammunition-truck-in-quneitra-governorate-after-stray-shells-from-syria-land-in-th.md)
 _Context: Golan Heights, Israel, Israeli-Syrian ceasefire line incidents during the Syrian Civil War, Quneitra Governorate, Syria, Syrian Army_
@@ -55,26 +62,7 @@ _Context: Bashar al-Assad, Eid al-Fitr, Hama, Politics of Syria, war_
 
 ---
 
-## [Day Before Yesterday](/news/2017/06/24/index.md)
-
-### [Israel and Syria exchange weapons fire in the disputed Golan Heights, with Israel destroying several targets, including two Syrian tanks. Although there were deaths on the ground in Syria, the number of casualties among Syrian forces is unknown. No Israeli troops were injured. ](/news/2017/06/24/israel-and-syria-exchange-weapons-fire-in-the-disputed-golan-heights-with-israel-destroying-several-targets-including-two-syrian-tanks-al.md)
-_Context: Golan Heights, Israel, Israeli involvement in the Syrian Civil War, Syria_
-
-### [An early-morning landslide buries 40 homes and leaves 15 people dead and 114 others missing in Aba Prefecture, Sichuan Province, China. At least 500 rescue workers are on scene, and a 2-km stretch of the river in Mao County is blocked. ](/news/2017/06/24/an-early-morning-landslide-buries-40-homes-and-leaves-15-people-dead-and-114-others-missing-in-aba-prefecture-sichuan-province-china-at-l.md)
-_Context: 2017 Sichuan landslide, Aba Prefecture, Mao County, Sichuan Province_
-
-### [The number of the cholera outbreak cases in Yemen passes 200,000, with over 1,300 deaths so far. There are an estimated 5,000 new cases every day. ](/news/2017/06/24/the-number-of-the-cholera-outbreak-cases-in-yemen-passes-200-000-with-over-1-300-deaths-so-far-there-are-an-estimated-5-000-new-cases-ever.md)
-So far more than 1,300 people have died, 25% children, with numbers expected to rise, the UN says.
-
-### [Police in the United Kingdom are investigating a cyberattack on the Houses of Parliament after an attempt was made to gain unauthorised access to politicians' email accounts. ](/news/2017/06/24/police-in-the-united-kingdom-are-investigating-a-cyberattack-on-the-houses-of-parliament-after-an-attempt-was-made-to-gain-unauthorised-acce.md)
-MPs are unable to access emails remotely, as Westminster deals with a hacking attempt made on Friday.
-
-### [Polling places open in Papua New Guinea, and will remain open for two weeks, to elect all 111 members of the National Parliament. The People's National Congress led by Prime Minister Peter O'Neill is considered likely to maintain a governing coalition, despite uncertainty due to lack of opinion polling. ](/news/2017/06/24/polling-places-open-in-papua-new-guinea-and-will-remain-open-for-two-weeks-to-elect-all-111-members-of-the-national-parliament-the-people.md)
-_Context: National Parliament, Papua New Guinea, Papua New Guinean general election, 2017, People's National Congress, Peter O'Neill, Prime Minister, governing coalition, opinion poll_
-
----
-
-## [Previous Day...](/news/2017/06/23/index.md)
+## [Previous Day...](/news/2017/06/24/index.md)
 
 ---
 
