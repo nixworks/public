@@ -19,7 +19,7 @@ _Context: US$, crude oil_
 _Context: Abu Ayyub al-Masri, United States military, al-Qaeda in Iraq_
 
 ### [ Israeli Prime Minister Ehud Olmert denies taking bribes from businessman Moshe Talansky. ](/news/2008/05/9/israeli-prime-minister-ehud-olmert-denies-taking-bribes-from-businessman-moshe-talansky.md)
-_Context: Ehud Olmert, Israel, Moshe Talansky, Prime Minister of Israel_
+_Context: Ehud Olmert, Israel, Israeli Prime Minister, Moshe Talansky_
 
 ### [ A Zimbabwean policeman tells the BBC the presidential runoff election will be rigged by war veteran militias. ](/news/2008/05/9/a-zimbabwean-policeman-tells-the-bbc-the-presidential-runoff-election-will-be-rigged-by-war-veteran-militias.md)
 _Context: BBC, Zimbabwe, run-off presidential election, war veteran_

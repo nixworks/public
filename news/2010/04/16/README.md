@@ -25,7 +25,7 @@ _Context: Blackwater Worldwide, LLC, Xe Services_
 _Context: Goldman Sachs, SEC_
 
 ### [Former Israeli Prime Minister Ehud Olmert is named as the key suspect in "one of the biggest corruption scandals in Israel's history". ](/news/2010/04/16/former-israeli-prime-minister-ehud-olmert-is-named-as-the-key-suspect-in-one-of-the-biggest-corruption-scandals-in-israel-s-history.md)
-_Context: Ehud Olmert, Israel, Prime Minister of Israel_
+_Context: Ehud Olmert, Israel, Israeli Prime Minister_
 
 ### [The United Nations commission investigating the events and circumstances surrounding the assassination of Benazir Bhutto submits its report which states that the murder was "avoidable" and the inquiry was bungled. ](/news/2010/04/16/the-united-nations-commission-investigating-the-events-and-circumstances-surrounding-the-assassination-of-benazir-bhutto-submits-its-report.md)
 _Context: 2007 assassination, United Nations_

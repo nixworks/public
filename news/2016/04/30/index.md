@@ -4,7 +4,7 @@
 _Context: April 2016 Baghdad bombing, Baghdad, Iraqi Civil War (2014-present), Islamic State in Iraq and the Levant, Shi'ite, car bombing_
 
 ### [The Syrian Observatory for Human Rights claims that twenty air strikes have hit the northern areas of Aleppo. Bombardments by both sides have killed nearly 250 people since April 22. ](/news/2016/04/30/the-syrian-observatory-for-human-rights-claims-that-twenty-air-strikes-have-hit-the-northern-areas-of-aleppo-bombardments-by-both-sides-hav.md)
-_Context: Aleppo, Syrian Civil War, Syrian Observatory for Human Rights_
+_Context: Aleppo, Syrian Observatory for Human Rights, war_
 
 ### [A Hindu man is hacked to death in Tangail district. He is alleged to have made comments against Prophet Muhammad. Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/04/30/a-hindu-man-is-hacked-to-death-in-tangail-district-he-is-alleged-to-have-made-comments-against-prophet-muhammad-islamic-state-of-iraq-and.md)
 _Context: Attacks on secularists in Bangladesh, Hindu, ISIL, Prophet Muhammad, Tangail_

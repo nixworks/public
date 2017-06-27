@@ -18,5 +18,6 @@ _Context: Australian Broadcasting Corporation, Kerry O'Brien, Opposition, Parlia
 ### [ 32 Extra Solar planets are discovered and announced, this making the record of most exoplanets discovered in one day and in one month.  ](/news/2009/10/19/32-extra-solar-planets-are-discovered-and-announced-this-making-the-record-of-most-exoplanets-discovered-in-one-day-and-in-one-month.md)
 _Context: exoplanets_
 
+### [Dan and Phil met for the first time in Manchester,  UK.](/news/2009/10/19/dan-and-phil-met-for-the-first-time-in-manchester-uk.md)
 ## [Previous Day...](/news/2009/10/18/index.md)
 

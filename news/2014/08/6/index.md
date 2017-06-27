@@ -1,7 +1,7 @@
 ## [2014-08-6](/news/2014/08/6/index.md)
 
 ### [Saudi Arabia grants Lebanon US$1 billion to help the country in its conflict with self-declared jihadist fighters on the border with Syria. ](/news/2014/08/6/saudi-arabia-grants-lebanon-us-1-billion-to-help-the-country-in-its-conflict-with-self-declared-jihadist-fighters-on-the-border-with-syria.md)
-_Context: Lebanon, Saudi Arabia, Syria, Syrian Civil War_
+_Context: Lebanon, Saudi Arabia, Syria, war_
 
 ### [Fighters from the Islamic State of Iraq and Syria clash with Iraq's Kurdish minority in the north of the country. ](/news/2014/08/6/fighters-from-the-islamic-state-of-iraq-and-syria-clash-with-iraq-s-kurdish-minority-in-the-north-of-the-country.md)
 _Context: Iraq, Iraqi insurgency (2011-present), Islamic State of Iraq and Syria, Kurdish_

@@ -1,7 +1,7 @@
 ## [2012-10-15](/news/2012/10/15/index.md)
 
 ### [Syrian civil war: An Armenian plane destined for the Syrian city of Aleppo is searched by Turkish authorities after being grounded in the east of the country. ](/news/2012/10/15/syrian-civil-war-an-armenian-plane-destined-for-the-syrian-city-of-aleppo-is-searched-by-turkish-authorities-after-being-grounded-in-the-ea.md)
-_Context: Aleppo, Armenia, Syrian Civil War, Turkey_
+_Context: Aleppo, Armenia, Turkey, war_
 
 ### [Internationally celebrated teenage activist Malala Yousafzai is sent to the UK for further treatment after being shot in the head by a Taliban gunman. ](/news/2012/10/15/internationally-celebrated-teenage-activist-malala-yousafzai-is-sent-to-the-uk-for-further-treatment-after-being-shot-in-the-head-by-a-talib.md)
 A Pakistani schoolgirl shot in the head by the Taliban has every chance of making a &quot;good recovery&quot;, British doctors said on Monday as 14-year-old Malala Yousufzai arrived at a hospital in central England for treatment of her severe wounds.

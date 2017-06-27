@@ -7,7 +7,7 @@ Taliban insurgents attacked police checkpoints Sunday in volatile southern Afgha
 _Context: 2015 Burundian unrest, Burundi, Pierre Nkurunziza, Presidents, Union for Peace and Development, Zedi Feruzi_
 
 ### [A Syrian military helicopter crashes near the town of Kweiras killing all on board. ](/news/2015/05/24/a-syrian-military-helicopter-crashes-near-the-town-of-kweiras-killing-all-on-board.md)
-_Context: Syria, Syrian Civil War_
+_Context: Syria, war_
 
 ### [''Dheepan'', a French film directed by Jacques Audiard, wins the Palme d'Or at the 2015 Cannes Film Festival. ](/news/2015/05/24/dheepan-a-french-film-directed-by-jacques-audiard-wins-the-palme-d-or-at-the-2015-cannes-film-festival.md)
 All the awards announced at the 68th Cannes film festival, where the Palme d’Or was won by French director Jacques Audiard for his story about Tamil Tiger refugees

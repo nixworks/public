@@ -37,7 +37,7 @@ _Context: Bolivia, Cyprus, Ehud Barak, France, Gaza Strip, Israel, United States
 _Context: Iran, drone aircraft_
 
 ### [Palestinian official Wassel Abu Yousef objects to Israeli Prime Minister Benjamin Netanyahu's talk of "preconditions" that the Palestinians should recognize Israel as the state of Jews and says such comments are a threat to direct talks next month. ](/news/2010/08/22/palestinian-official-wassel-abu-yousef-objects-to-israeli-prime-minister-benjamin-netanyahu-s-talk-of-preconditions-that-the-palestinians.md)
-_Context: Benjamin Netanyahu, Prime Minister of Israel, Wassel Abu Yousef_
+_Context: Benjamin Netanyahu, Israeli Prime Minister, Wassel Abu Yousef_
 
 ### [South African trade unions state that a court injunction successfully sought by the government is intended to "intimidate" workers who are striking in the hope of receiving better pay. ](/news/2010/08/22/south-african-trade-unions-state-that-a-court-injunction-successfully-sought-by-the-government-is-intended-to-intimidate-workers-who-are-s.md)
 _Context: South Africa_

@@ -4,7 +4,7 @@
 _Context: Al-Qaeda insurgency in Yemen, Sana'a, Yemeni, al-Qaeda_
 
 ### [Syrian Civil War:3 bombs detonate in Homs, Syria, killing 9 people and injuring another 20. ](/news/2014/05/25/syrian-civil-war-p3-bombs-detonate-in-homs-syria-killing-9-people-and-injuring-another-20.md)
-_Context: Homs, Syria, Syrian Civil War_
+_Context: Homs, Syria, war_
 
 ### [3 Spanish airmen are injured in a grenade attack in Djibouti. ](/news/2014/05/25/3-spanish-airmen-are-injured-in-a-grenade-attack-in-djibouti.md)
 _Context: Djibouti, Spain_

@@ -4,7 +4,7 @@
 A Yemeni employee of the US embassy in the capital Sanaa is shot dead in an attack by masked men on a motorbike, officials say.
 
 ### [Syrian civil war: the Local Coordination Committees say that by evening 83 civilians were killed throughout Syria by the Syrian army. ](/news/2012/10/11/syrian-civil-war-the-local-coordination-committees-say-that-by-evening-83-civilians-were-killed-throughout-syria-by-the-syrian-army.md)
-_Context: LCC, Syria, Syrian Civil War_
+_Context: LCC, Syria, war_
 
 ### [Hezbollah leader Hassan Nasrallah confirms that the drone aircraft shot down over Israel's Negev Desert on 6 October belonged to the organization and was supplied by Iran. ](/news/2012/10/11/hezbollah-leader-hassan-nasrallah-confirms-that-the-drone-aircraft-shot-down-over-israel-s-negev-desert-on-6-october-belonged-to-the-organiz.md)
 Hezbollah leader Hassan Nasrallah says unmanned reconnaissance aircraft was designed in Iran and assembled in Lebanon.

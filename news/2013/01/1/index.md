@@ -1,7 +1,7 @@
 ## [2013-01-1](/news/2013/01/1/index.md)
 
 ### [Syrian civil war:Fierce clashes erupt near the Aleppo International Airport in the battle of Aleppo in Syria, with unconfirmed reports it has been temporarily closed. ](/news/2013/01/1/syrian-civil-war-pfierce-clashes-erupt-near-the-aleppo-international-airport-in-the-battle-of-aleppo-in-syria-with-unconfirmed-reports-it-h.md)
-_Context: Aleppo International Airport, Syria, Syrian Civil War, battle of Aleppo_
+_Context: Aleppo International Airport, Syria, battle of Aleppo, war_
 
 ### [War in North-West Pakistan:Gunmen kill five female teachers and two other people in an ambush on a van carrying workers home from their jobs at a community center in Khyber Pakhtunkhwa province, Pakistan. ](/news/2013/01/1/war-in-north-west-pakistan-pgunmen-kill-five-female-teachers-and-two-other-people-in-an-ambush-on-a-van-carrying-workers-home-from-their-job.md)
 Seven charity workers, six of them women, are killed by gunmen in north-west Pakistan, police say.

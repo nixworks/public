@@ -1,7 +1,7 @@
 ## [2015-02-18](/news/2015/02/18/index.md)
 
 ### [The Syrian Observatory for Human Rights estimates that at least 70 Syrian Army soldiers and more than 80 insurgents have died in recent fighting around the city of Aleppo. ](/news/2015/02/18/the-syrian-observatory-for-human-rights-estimates-that-at-least-70-syrian-army-soldiers-and-more-than-80-insurgents-have-died-in-recent-figh.md)
-_Context: Aleppo, Syrian Army, Syrian Civil War, Syrian Observatory for Human Rights_
+_Context: Aleppo, Syrian Army, Syrian Observatory for Human Rights, war_
 
 ### [A bomb in a Shi'ite mosque in the Pakistani city of Rawalpindi kills at least two people and injures six. ](/news/2015/02/18/a-bomb-in-a-shi-ite-mosque-in-the-pakistani-city-of-rawalpindi-kills-at-least-two-people-and-injures-six.md)
 _Context: Pakistan, Rawalpindi, Shi'ite_

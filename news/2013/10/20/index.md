@@ -1,7 +1,7 @@
 ## [2013-10-20](/news/2013/10/20/index.md)
 
 ### [Syrian civil war:A suicide truck bomber attack by the Al-Qaeda-linked Al-Nusra Front on a government checkpoint outside Hama, Syria, kills at least 30 people, including a number of soldiers. ](/news/2013/10/20/syrian-civil-war-pa-suicide-truck-bomber-attack-by-the-al-qaeda-linked-al-nusra-front-on-a-government-checkpoint-outside-hama-syria-kills.md)
-_Context: Hama, Syria, Syrian Civil War, al-Nusra, al-Qaeda_
+_Context: Hama, Syria, al-Nusra, al-Qaeda, war_
 
 ### [Iraqi insurgency (post-U.S. withdrawal):Suicide bombers targeting police and local officials in Rawa, northwest of Baghdad, kill 15 people. ](/news/2013/10/20/iraqi-insurgency-post-u-s-withdrawal-psuicide-bombers-targeting-police-and-local-officials-in-rawa-northwest-of-baghdad-kill-15-people.md)
 At least 37 people are killed and more than 40 injured by a suicide bombing at a Baghdad cafe in a mainly Shia district, Iraqi officials say.

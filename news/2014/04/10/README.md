@@ -4,7 +4,7 @@
 As many as 10 people were killed and dozens injured Thursday when a charter bus collided with other vehicles and burst into flames in Northern California, authorities said.
 
 ### [Syrian civil war:88 civilians are killed in Aleppo by barrel bombs dropped from Syrian government warplanes. ](/news/2014/04/10/syrian-civil-war-p88-civilians-are-killed-in-aleppo-by-barrel-bombs-dropped-from-syrian-government-warplanes.md)
-_Context: Aleppo, Syrian Civil War, barrel bomb_
+_Context: Aleppo, barrel bomb, war_
 
 ### [American comedian Stephen Colbert, host of ''The Colbert Report'' is announced to replace David Letterman to host the ''Late Show'' on CBS in 2015. ](/news/2014/04/10/american-comedian-stephen-colbert-host-of-the-colbert-report-is-announced-to-replace-david-letterman-to-host-the-late-show-on-cbs-i.md)
 _Context: CBS, David Letterman, Late Show with David Letterman, Stephen Colbert, The Colbert Report_

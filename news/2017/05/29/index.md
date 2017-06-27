@@ -4,7 +4,7 @@
 _Context: Marawi, Marawi crisis, Maute, Philippine_
 
 ### [Damascus's governor says the last group of rebels and civilians have left the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md)
-_Context: Barzeh, Damascus, Syrian Civil War_
+_Context: Barzeh, Damascus, war_
 
 ### [Iraq's Popular Mobilization Forces, assisted by Iran,  say they cleared ISIL out of several villages north of Ba'aj on the border with Syria. ](/news/2017/05/29/iraq-s-popular-mobilization-forces-assisted-by-iran-say-they-cleared-isil-out-of-several-villages-north-of-ba-aj-on-the-border-with-syria.md)
 _Context: Ba'aj, ISIL, Iran, Iraqi Civil War, Popular Mobilization Forces, Syria_

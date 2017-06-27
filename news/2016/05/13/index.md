@@ -4,7 +4,7 @@
 An Australian security contractor is killed in a shooting near the Australian embassy in Baghdad.
 
 ### [Hezbollah says Mustafa Badreddine, one of Hezbollah's highest ranking officials  believed  responsible for military operations in Syria, has been killed by artillery fire from the Syrian rebels. ](/news/2016/05/13/hezbollah-says-mustafa-badreddine-one-of-hezbollah-s-highest-ranking-officials-believed-responsible-for-military-operations-in-syria-has.md)
-_Context: Hezbollah, Mustafa Badreddine, Syria, Syrian Civil War_
+_Context: Hezbollah, Mustafa Badreddine, Syria, war_
 
 ### [Eight Turkish soldiers and 21 Kurdistan Workers Party (PKK) militants are killed in clashes and in a subsequent helicopter crash near Turkey's border with Iraq. ](/news/2016/05/13/eight-turkish-soldiers-and-21-kurdistan-workers-party-pkk-militants-are-killed-in-clashes-and-in-a-subsequent-helicopter-crash-near-turkey.md)
 Eight Turkish soldiers and 22 Kurdish militants have been killed in clashes over the last two days, authorities said on Friday, as violence widened in the largely Kurdish southeast following two bombings.

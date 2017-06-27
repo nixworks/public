@@ -4,7 +4,7 @@
 An Australian woman has been freed after she and her husband were kidnapped by an Al Qaeda-affiliated group in Burkina Faso, Malcolm Turnbull confirms.
 
 ### [The Syrian Army, backed by the Russian Air Force, takes control of the town of Ratyan in the Aleppo Governorate, after defeating Al-Nusra Front and Ahrar ash-Sham fighters. ](/news/2016/02/6/the-syrian-army-backed-by-the-russian-air-force-takes-control-of-the-town-of-ratyan-in-the-aleppo-governorate-after-defeating-al-nusra-fr.md)
-_Context: Ahrar ash-Sham, Aleppo Governorate, Ratyan, Russian, Syrian Army, Syrian Civil War, al-Nusra, government offensive_
+_Context: Ahrar ash-Sham, Aleppo Governorate, Ratyan, Russian, Syrian Army, al-Nusra, government offensive, war_
 
 ### [Ten people  are killed and more than 40 injured when a suicide bomber on a bicycle blew himself up near a Pakistani security forces truck in Quetta, Pakistan. ](/news/2016/02/6/ten-people-are-killed-and-more-than-40-injured-when-a-suicide-bomber-on-a-bicycle-blew-himself-up-near-a-pakistani-security-forces-truck-in.md)
 _Context: Pakistan, Pakistani security forces, Quetta_

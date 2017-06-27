@@ -1,7 +1,7 @@
 ## [2013-07-25](/news/2013/07/25/index.md)
 
 ### [The United Nations states that the death toll of the ongoing Syrian civil war has exceeded 100,000. ](/news/2013/07/25/the-united-nations-states-that-the-death-toll-of-the-ongoing-syrian-civil-war-has-exceeded-100-000.md)
-_Context: Syrian Civil War, United Nations_
+_Context: United Nations, war_
 
 ### [The ''Oxford English Dictionary'' confirms that it will change the definition of the word "marriage" to include the LGBT community. ](/news/2013/07/25/the-oxford-english-dictionary-confirms-that-it-will-change-the-definition-of-the-word-marriage-to-include-the-lgbt-community.md)
 _Context: Oxford English Dictionary, marriage, same-sex marriage_

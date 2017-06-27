@@ -1,7 +1,7 @@
 ## [2017-02-9](/news/2017/02/9/index.md)
 
 ### [At least three soldiers of the Turkish Armed Forces are accidentally killed by a Russian airstrike near al-Bab in northern Syria. ](/news/2017/02/9/at-least-three-soldiers-of-the-turkish-armed-forces-are-accidentally-killed-by-a-russian-airstrike-near-al-bab-in-northern-syria.md)
-_Context: Battle of al-Bab, Russia, Syria, Syrian Civil War, Turkish troops, al-Bab_
+_Context: Battle of al-Bab, Russia, Syria, Turkish troops, al-Bab, war_
 
 ### [The International Committee of the Red Cross announces it will be temporarily halting some of its operations in Afghanistan after gunmen killed six of its workers yesterday. ](/news/2017/02/9/the-international-committee-of-the-red-cross-announces-it-will-be-temporarily-halting-some-of-its-operations-in-afghanistan-after-gunmen-kil.md)
 Red Cross suspends some activities in Afghanistan after gunmen attacked a convoy in Jowzjan and killed six staff.

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The number of cholera cases in Yemen passes 200,000, with over 1,300 deaths so far. There are an estimated 5,000 new cases every day. ](/news/2017/06/24/the-number-of-cholera-cases-in-yemen-passes-200-000-with-over-1-300-deaths-so-far-there-are-an-estimated-5-000-new-cases-every-day.md) _Context: cholera_
+1. [The number of the cholera outbreak cases in Yemen passes 200,000, with over 1,300 deaths so far. There are an estimated 5,000 new cases every day. ](/news/2017/06/24/the-number-of-the-cholera-outbreak-cases-in-yemen-passes-200-000-with-over-1-300-deaths-so-far-there-are-an-estimated-5-000-new-cases-ever.md) _Context: cholera_
 2. [According to the International Committee of the Red Cross, a cholera outbreak has since April 27 killed at least 115 people and left another 8,500 ill across Yemen. ](/news/2017/05/14/according-to-the-international-committee-of-the-red-cross-a-cholera-outbreak-has-since-april-27-killed-at-least-115-people-and-left-another.md) _Context: cholera_
 3. [Unknown assailants attack a refugee camp near the village of Tassalit, in Niger's Tahoua Region, killing at least 22 soldiers. ](/news/2016/10/6/unknown-assailants-attack-a-refugee-camp-near-the-village-of-tassalit-in-niger-s-tahoua-region-killing-at-least-22-soldiers.md) _Context: Niger_
 4. [The United Nations launches an emergency appeal for almost U.S.$120 million in life-saving help for 750,000 survivors in Haiti at risk of starvation and/or cholera. ](/news/2016/10/11/the-united-nations-launches-an-emergency-appeal-for-almost-u-s-120-million-in-life-saving-help-for-750-000-survivors-in-haiti-at-risk-of-st.md) _Context: cholera_

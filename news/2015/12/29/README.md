@@ -28,7 +28,7 @@ A pilot who crashed a small Civil Air Patrol plane into office buildings in down
 A rich Texas teenager who fled with his mother to Mexico to avoid possible jail time for violating his probation in a drunken-driving crash that left four people dead planned the flight and even held a farewell party, U.S. authorities said on Tuesday.
 
 ### [Lebanese Customs seize five tonnes of Captagon amphetamine pills and Hashish, concealed in primary school desks that were to be shipped to Egypt, at Beirut-Rafic Hariri International Airport. Meanwhile, security forces in northern Lebanon found two workshops producing Captagon and other drugs during a series of raids. The drug is infamous as being used by Islamist militants in the Syrian civil war. ](/news/2015/12/29/lebanese-customs-seize-five-tonnes-of-captagon-amphetamine-pills-and-hashish-concealed-in-primary-school-desks-that-were-to-be-shipped-to-e.md)
-_Context: Beirut-Rafic Hariri International Airport, Captagon amphetamine pills, Egypt, Hashish, Lebanese Customs, Lebanon, Syrian Civil War_
+_Context: Beirut-Rafic Hariri International Airport, Captagon amphetamine pills, Egypt, Hashish, Lebanese Customs, Lebanon, war_
 
 ### [Chicago, Illinois police officer, Jason Van Dyke, enters a not guilty plea regarding the charges of the 2014 shooting death of Laquan McDonald.  ](/news/2015/12/29/chicago-illinois-police-officer-jason-van-dyke-enters-a-not-guilty-plea-regarding-the-charges-of-the-2014-shooting-death-of-laquan-mcdona.md)
 _Context: Chicago, Illinois, Jason Van Dyke, Laquan McDonald_

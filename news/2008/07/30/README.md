@@ -4,7 +4,7 @@
 A strain of the salmonella bacteria that sickened more than 1,300 people has been found in a serrano pepper and a sample of irrigation water at a farm in Mexico, U.S. health officials said...
 
 ### [ Prime Minister of Israel Ehud Olmert announces his intention to resign as Prime Minister in two months as his Kadima party chooses a new leader. He will also resign as Chairman of Kadima effective in two months. One reason for resignation is the corruption scandal in which Olmert is embattled. ](/news/2008/07/30/prime-minister-of-israel-ehud-olmert-announces-his-intention-to-resign-as-prime-minister-in-two-months-as-his-kadima-party-chooses-a-new-le.md)
-_Context: Ehud Olmert, Kadima, Prime Minister of Israel_
+_Context: Ehud Olmert, Israeli Prime Minister, Kadima_
 
 ### [ U.S. President George W. Bush signs The Housing and Economic Recovery Act of 2008 in response to the subprime mortgage crisis.  ](/news/2008/07/30/u-s-president-george-w-bush-signs-the-housing-and-economic-recovery-act-of-2008-in-response-to-the-subprime-mortgage-crisis.md)
 U.S. President George W. Bush on Wednesday signed into law a sweeping rescue package aimed at resurrecting the housing market from its worst slump since the Great Depression and stabilizing the two largest mortgage finance companies.

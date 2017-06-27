@@ -1,7 +1,7 @@
 ## [2014-09-25](/news/2014/09/25/index.md)
 
 ### [Several Syrian rebel groups sign an agreement to unite in the fight against the Islamic State of Iraq and Syria and President Bashar al-Assad's forces. ](/news/2014/09/25/several-syrian-rebel-groups-sign-an-agreement-to-unite-in-the-fight-against-the-islamic-state-of-iraq-and-syria-and-president-bashar-al-assa.md)
-_Context: Bashar al-Assad, Islamic State of Iraq and Syria, Syrian Civil War_
+_Context: Bashar al-Assad, Islamic State of Iraq and Syria, war_
 
 ### [A 6.2 magnitude earthquake strikes southern Alaska, causing minor damage and affecting the state's largest city, Anchorage. ](/news/2014/09/25/a-6-2-magnitude-earthquake-strikes-southern-alaska-causing-minor-damage-and-affecting-the-state-s-largest-city-anchorage.md)
 _Context: Anchorage_

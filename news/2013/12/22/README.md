@@ -1,7 +1,7 @@
 ## [2013-12-22](/news/2013/12/22/index.md)
 
 ### [Syrian Civil War:Syrian government warplanes drop barrel bombs on the city of Aleppo killing 63 people, including civilians. ](/news/2013/12/22/syrian-civil-war-psyrian-government-warplanes-drop-barrel-bombs-on-the-city-of-aleppo-killing-63-people-including-civilians.md)
-_Context: Aleppo, Syrian Civil War, barrel bomb_
+_Context: Aleppo, barrel bomb, war_
 
 ### [Post-civil war violence in Libya:13 people are killed and 10 injured in a suicide car bomb attack at a military checkpoint near the eastern Libyan city of Benghazi. ](/news/2013/12/22/post-civil-war-violence-in-libya-p13-people-are-killed-and-10-injured-in-a-suicide-car-bomb-attack-at-a-military-checkpoint-near-the-eastern.md)
 BENGHAZI, Libya -- A suicide car bombing at a security checkpoint in eastern Libya on Sunday killed at least 13 people, the government said -- a gruesome attack that left body parts strewn across a roadway. Officials declared three days of mourning.

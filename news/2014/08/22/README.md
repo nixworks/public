@@ -1,7 +1,7 @@
 ## [2014-08-22](/news/2014/08/22/index.md)
 
 ### [The United Nations estimates that the death toll in Syria has doubled to at least 191,000 in the past year. ](/news/2014/08/22/the-united-nations-estimates-that-the-death-toll-in-syria-has-doubled-to-at-least-191-000-in-the-past-year.md)
-_Context: Syria, Syrian Civil War, United Nations_
+_Context: Syria, United Nations, war_
 
 ### [At least 18 people are executed in public by Hamas after being accused of "collaborating" with Israel. Al Majd, a Hamas website, warns that future suspects will be dealt with "in the field" rather than the courts. ](/news/2014/08/22/at-least-18-people-are-executed-in-public-by-hamas-after-being-accused-of-collaborating-with-israel-al-majd-a-hamas-website-warns-that.md)
 Israeli Prime Minister Netanyahu says army and intelligence operations will &quot;intensify&quot; after a four-year-old boy is killed by fire from Gaza.

@@ -34,7 +34,7 @@ _Context: Gurbanguly Berdimuhamedow, Saparmurat Niyazov, Turkmenistan, first pre
 President Nursultan Nazarbayev on February 9 abruptly removed his son-in-law, Rakhat Aliyev, as deputy foreign minister and dispatched him to Vienna to serve as Kazakhstani ambassador to Austria. The 
 
 ### [ A top aide to Israeli Prime Minister Ehud Olmert has been suspended from her job for six months while a corruption inquiry is conducted, officials say. ](/news/2007/02/11/a-top-aide-to-israeli-prime-minister-ehud-olmert-has-been-suspended-from-her-job-for-six-months-while-a-corruption-inquiry-is-conducted-of.md)
-_Context: Ehud Olmert, Israel, Prime Minister of Israel, anti-corruption_
+_Context: Ehud Olmert, Israel, Israeli Prime Minister, anti-corruption_
 
 ### [ The National Court of Spain finds five out of six Algerian men guilty of membership in a terrorist organization and document forgery for terrorist purposes, sentencing each of them to 13 years imprisonment. All six were acquitted of conspiracy to carry out a terrorist attack](/news/2007/02/11/the-national-court-of-spain-finds-five-out-of-six-algerian-men-guilty-of-membership-in-a-terrorist-organization-and-document-forgery-for-te.md)
 _Context: Algeria, National Court of Spain_

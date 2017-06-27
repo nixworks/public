@@ -1,7 +1,7 @@
 ## [2013-06-9](/news/2013/06/9/index.md)
 
 ### [A Lebanese man protesting against Hezbollah's role in the Syrian civil war is shot dead outside the Iranian embassy in Beirut. ](/news/2013/06/9/a-lebanese-man-protesting-against-hezbollah-s-role-in-the-syrian-civil-war-is-shot-dead-outside-the-iranian-embassy-in-beirut.md)
-_Context: Beirut, Hezbollah, Iranian embassy, Lebanon, Syrian Civil War_
+_Context: Beirut, Hezbollah, Iranian embassy, Lebanon, war_
 
 ### [War in North-West Pakistan:Thirty-five militants and one soldier are killed in fighting in the Khyber Agency tribal region of northwest Pakistan in an operation. ](/news/2013/06/9/war-in-north-west-pakistan-pthirty-five-militants-and-one-soldier-are-killed-in-fighting-in-the-khyber-agency-tribal-region-of-northwest-pak.md)
 Thirty-five militants and a soldier have died in fighting in the restive Khyber tribal region of northwest Pakistan during an operation to flush out rebels, the military said today.

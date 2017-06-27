@@ -25,7 +25,7 @@ Belarus on Sunday signaled a growing rift with Russia, saying President Alexande
 _Context: Sobat River, Sudan, Sudan People's Liberation Army, United Nations, attacked by tribesmen_
 
 ### [ Prime Minister of Israel Binyamin Netanyahu states he can visualise a Palestinian state, under certain conditions. ](/news/2009/06/14/prime-minister-of-israel-binyamin-netanyahu-states-he-can-visualise-a-palestinian-state-under-certain-conditions.md)
-_Context: Binyamin Netanyahu, Palestinian state, Prime Minister of Israel_
+_Context: Binyamin Netanyahu, Israeli Prime Minister, Palestinian state_
 
 ## [Previous Day...](/news/2009/06/13/index.md)
 

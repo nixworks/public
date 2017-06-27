@@ -53,7 +53,7 @@ A record half a million Australians have chucked a sickie on Monday, ditching wo
 Taoiseach Brian Cowen is to meet British Prime Minister Gordon Brown tomorrow to discuss the political situation in Northern Ireland.
 
 ### [Israeli Prime Minister Benjamin Netanyahu attends the opening of an exhibition of Auschwitz concentration camp blueprints in Yad Vashem. ](/news/2010/01/25/israeli-prime-minister-benjamin-netanyahu-attends-the-opening-of-an-exhibition-of-auschwitz-concentration-camp-blueprints-in-yad-vashem.md)
-_Context: Auschwitz, Benjamin Netanyahu, Holocaust and Remembrance Center, Israel, Prime Minister of Israel_
+_Context: Auschwitz, Benjamin Netanyahu, Holocaust and Remembrance Center, Israel, Israeli Prime Minister_
 
 ### [Gordon Park, convicted murderer in the Lady in the Lake trial, is found hanged in his prison cell in Garth prison, Lancashire, England, in an apparent suicide. ](/news/2010/01/25/gordon-park-convicted-murderer-in-the-lady-in-the-lake-trial-is-found-hanged-in-his-prison-cell-in-garth-prison-lancashire-england-in-a.md)
 _Context: England, Garth prison, Lady in the Lake trial_

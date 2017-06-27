@@ -1,7 +1,7 @@
 ## [2007-07-29](/news/2007/07/29/index.md)
 
 ### [ The Prime Minister of Israel Ehud Olmert announces that United States military and defense aid to Israel will total $30 billion over the next ten years. ](/news/2007/07/29/the-prime-minister-of-israel-ehud-olmert-announces-that-united-states-military-and-defense-aid-to-israel-will-total-30-billion-over-the-ne.md)
-_Context: Ehud Olmert, Israel, Prime Minister of Israel, US$, United States_
+_Context: Ehud Olmert, Israel, Israeli Prime Minister, US$, United States_
 
 ### [ Six people die in a bus crash while travelling to the Barbados Crop Over Festival. ](/news/2007/07/29/six-people-die-in-a-bus-crash-while-travelling-to-the-barbados-crop-over-festival.md)
 _Context: Barbados Crop Over Festival_

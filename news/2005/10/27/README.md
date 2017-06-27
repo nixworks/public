@@ -7,7 +7,7 @@ _Context: Arab, Baghdad, Conflict in Iraq, Iraqi Police, Nahrawan, Shia, Sunni, 
 _Context: Israel, Israeli-Palestinian conflict, Jenin, West Bank_
 
 ### [ Israeli Prime Minister Ariel Sharon calls for the expulsion of Iran from the United Nations after the Iranian President repeated Ruhollah Khomeini's call for Israel to be "wiped off the map". ](/news/2005/10/27/israeli-prime-minister-ariel-sharon-calls-for-the-expulsion-of-iran-from-the-united-nations-after-the-iranian-president-repeated-ruhollah-k.md)
-_Context: Ariel Sharon, Iran, Iranian President, Israel, Prime Minister of Israel, Ruhollah Khomeini, United Nations_
+_Context: Ariel Sharon, Iran, Iranian President, Israel, Israeli Prime Minister, Ruhollah Khomeini, United Nations_
 
 ### [ As the relief operation of 2005 Kashmir earthquake is facing great difficulties in reaching victims due to bad weather, mountainous terrain, landslides and blocked roads, Pakistani Prime Minister Shaukat Aziz makes an appeal to millions of survivors in the mountains to leave their villages and come down to the valleys and cities for shelter before the start of winter in about three weeks. ](/news/2005/10/27/as-the-relief-operation-of-2005-kashmir-earthquake-is-facing-great-difficulties-in-reaching-victims-due-to-bad-weather-mountainous-terrain.md)
 _Context: 2005 Kashmir earthquake, Pakistan, Shaukat Aziz_

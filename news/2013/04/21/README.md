@@ -1,7 +1,7 @@
 ## [2013-04-21](/news/2013/04/21/index.md)
 
 ### [Syrian civil war:Locals and activists in Damascus report that the Syrian Army killed over 500 people in the suburb of Jdeit al-Fadel. ](/news/2013/04/21/syrian-civil-war-plocals-and-activists-in-damascus-report-that-the-syrian-army-killed-over-500-people-in-the-suburb-of-jdeit-al-fadel.md)
-_Context: Damascus, Syrian Army, Syrian Civil War_
+_Context: Damascus, Syrian Army, war_
 
 ### [Nigerian Sharia conflict:In Nigeria, a clash between the military and Islamic extremists leaves at least 185 people dead. ](/news/2013/04/21/nigerian-sharia-conflict-pin-nigeria-a-clash-between-the-military-and-islamic-extremists-leaves-at-least-185-people-dead.md)
 BAGA, Nigeria (AP) — Fighting between Nigeria&#39;s military and Islamic extremists killed at least 185 people in a fishing community in the nation&#39;s far northeast, officials said Sunday, an attack that saw insurgents fire rocket-propelled grenades and soldiers spray machine-gun fire into neighborhoods filled with civilians.

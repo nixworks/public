@@ -7,7 +7,7 @@ A Kenyan police official says an Air France flight from Mauritius to Paris has b
 _Context: China-Vietnam relations, Chinese, South China Sea, Territorial disputes in the South China Sea, Vietnam_
 
 ### [A missile-strike in Jaramana in southern Syria kills high-ranking Lebanese Hezbollah commander Samir Kuntar and eight National Defence Force (NDF) personnel. The responsibility for the incident taken by the Free Syrian Army, though Hezbollah alleges Israeli involvement. Kuntar was the longest serving Lebanese prisoner in Israel until his release in 2008. On April 22, 1979 Kuntar and his team broke into an apartment building and kidnapped a father, 31-year-old Danny Haran, and his 4-year-old daughter, Einat, taking them to a nearby beach and killing them. ](/news/2015/12/20/a-missile-strike-in-jaramana-in-southern-syria-kills-high-ranking-lebanese-hezbollah-commander-samir-kuntar-and-eight-national-defence-force.md)
-_Context: Free Syrian Army, Hezbollah, Israel, Jaramana, Lebanon, National Defence Force, Samir Kuntar, Syria, Syrian Civil War, release in 2008_
+_Context: Free Syrian Army, Hezbollah, Israel, Jaramana, Lebanon, National Defence Force, Samir Kuntar, Syria, release in 2008, war_
 
 ### [A motorist runs over pedestrians at the Las Vegas Strip between Planet Hollywood and Paris Las Vegas, killing one person and injuring at least 26 more. ](/news/2015/12/20/a-motorist-runs-over-pedestrians-at-the-las-vegas-strip-between-planet-hollywood-and-paris-las-vegas-killing-one-person-and-injuring-at-lea.md)
 A woman with a toddler in her car intentionally rams into pedestrians on the Las Vegas Strip, killing one and injuring at least 26.

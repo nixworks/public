@@ -13,7 +13,7 @@ March over changes to voting laws staged after opposition vows to boycott upcomi
 _Context: Guinea-Bissau_
 
 ### [Syrian civil war: Car bombs explode in predominately Christian neighborhoods in Damascus and Aleppo, killing at least 13, as talks between the Assad and U.N. peace envoy Lakhdar Brahimi continue. ](/news/2012/10/21/syrian-civil-war-car-bombs-explode-in-predominately-christian-neighborhoods-in-damascus-and-aleppo-killing-at-least-13-as-talks-between-t.md)
-_Context: Syrian Civil War_
+_Context: war_
 
 ### [Yash Chopra, one of India's most influential filmmakers, dies from dengue fever in Mumbai. ](/news/2012/10/21/yash-chopra-one-of-india-s-most-influential-filmmakers-dies-from-dengue-fever-in-mumbai.md)
 _Context: Mumbai, Yash Chopra, dengue fever_

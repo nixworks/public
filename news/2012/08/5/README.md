@@ -1,7 +1,7 @@
 ## [2012-08-5](/news/2012/08/5/index.md)
 
 ### [Syrian civil war:General Muhammed Ahmed Faris, a military aviator who became the first Syrian in space, defects to Turkey. ](/news/2012/08/5/syrian-civil-war-pgeneral-muhammed-ahmed-faris-a-military-aviator-who-became-the-first-syrian-in-space-defects-to-turkey.md)
-_Context: General Muhammed Ahmed Faris, Syrian Civil War, defects_
+_Context: General Muhammed Ahmed Faris, defects, war_
 
 ### [Mexican Drug War:Armed men kidnap the mayor of Tecpan de Galeana, Guerrero. ](/news/2012/08/5/mexican-drug-war-parmed-men-kidnap-the-mayor-of-tecpa-n-de-galeana-guerrero.md)
 _Context: Guerrero, List of politicians killed in the Mexican Drug War, Mexican Drug War, Tecpan de Galeana_

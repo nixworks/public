@@ -1,7 +1,7 @@
 ## [2014-05-8](/news/2014/05/8/index.md)
 
 ### [A large explosion levels the Carlton Hotel in Aleppo which was used as a military base by the Army of Syria as well as several other buildings. ](/news/2014/05/8/a-large-explosion-levels-the-carlton-hotel-in-aleppo-which-was-used-as-a-military-base-by-the-army-of-syria-as-well-as-several-other-buildin.md)
-_Context: Aleppo, Army of Syria, Syrian Civil War_
+_Context: Aleppo, Army of Syria, war_
 
 ### [A roadside bomb near the Afghan border in North Waziristan, Pakistan, kills 8 Pakistani soldiers. ](/news/2014/05/8/a-roadside-bomb-near-the-afghan-border-in-north-waziristan-pakistan-kills-8-pakistani-soldiers.md)
 At least eight Pakistani soldiers were killed Thursday in a roadside explosion near the Afghan border in one of the deadliest attacks on security forces here in months, officials said.

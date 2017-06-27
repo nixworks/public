@@ -7,7 +7,7 @@ At least 70 people have been killed and many more wounded in a series of bombing
 _Context: Colombia, Nicolas Maduro, Venezuela_
 
 ### [Syrian civil war:A fierce battle has gone on over the last 24 hours as rebels launch another attack against the Menagh Air Base, the last remaining Syrian government controlled airbase in Aleppo. ](/news/2013/06/10/syrian-civil-war-pa-fierce-battle-has-gone-on-over-the-last-24-hours-as-rebels-launch-another-attack-against-the-menagh-air-base-the-last-r.md)
-_Context: Aleppo, Menagh Air Base, Syrian Civil War, attack_
+_Context: Aleppo, Menagh Air Base, attack, war_
 
 ### [War in Afghanistan (2001-present):Seven heavily armed Taliban militants launch a coordinated attack near the main international airport of the Afghan capital, Kabul, and seize a five-story building under construction nearby.  Afghan security forces retake the building, killing all seven militants and sustaining no military or civilian casualties. ](/news/2013/06/10/war-in-afghanistan-2001apresent-pseven-heavily-armed-taliban-militants-launch-a-coordinated-attack-near-the-main-international-airport-o.md)
 Heavily armed Taliban militants die in a gun battle with Afghan forces after taking over a building near Kabul airport.

@@ -1,7 +1,7 @@
 ## [2012-12-13](/news/2012/12/13/index.md)
 
 ### [Syrian civil war:Russia's Deputy Foreign Minister Mikhail Bogdanov confirms his country is working on mobilization plans to evacuate its citizens from Syria. In the statement, the Foreign Ministry acknowledges for the first time that the rebels might win as the Syrian government is losing control of more and more territory. ](/news/2012/12/13/syrian-civil-war-prussia-s-deputy-foreign-minister-mikhail-bogdanov-confirms-his-country-is-working-on-mobilization-plans-to-evacuate-its-ci.md)
-_Context: Foreign Ministry, Russia, Syria, Syrian Civil War, Syrian National Coalition, Syrian government_
+_Context: Foreign Ministry, Russia, Syria, Syrian National Coalition, Syrian government, war_
 
 ### [Israeli-Palestinian conflict:Five people are injured in the West Bank ahead of the funeral of a deaf teenager shot dead by Israeli forces. ](/news/2012/12/13/israeliapalestinian-conflict-pfive-people-are-injured-in-the-west-bank-ahead-of-the-funeral-of-a-deaf-teenager-shot-dead-by-israeli-forces.md)
 Five injured in West Bank clashes between Palestinian youths and Israeli soldiers ahead of funeral of killed teenager.

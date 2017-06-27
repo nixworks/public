@@ -1,7 +1,7 @@
 ## [2012-12-17](/news/2012/12/17/index.md)
 
 ### [Syrian civil war:Rebel forces take over the Yarmouk Palestinian refugee camp in Damascus, where at least 25 were killed by airstrikes the day before. Syrian troops and tanks, as well as a number of PFLP-GC fighters, gather outside the northern edge of the area. ](/news/2012/12/17/syrian-civil-war-prebel-forces-take-over-the-yarmouk-palestinian-refugee-camp-in-damascus-where-at-least-25-were-killed-by-airstrikes-the-d.md)
-_Context: Damascus, PFLP-GC, Palestinian refugee, Syria, Syrian Civil War, Yarmouk Camp_
+_Context: Damascus, PFLP-GC, Palestinian refugee, Syria, Yarmouk Camp, war_
 
 ### [War in North-West Pakistan:A blast at a market in Pakistan's Khyber Agency kills 17 and injures 70 others. ](/news/2012/12/17/war-in-north-west-pakistan-pa-blast-at-a-market-in-pakistan-s-khyber-agency-kills-17-and-injures-70-others.md)
 At least 17 people are killed and dozens injured in a car bomb attack on a market in the Khyber tribal region of north-west Pakistan, officials say.

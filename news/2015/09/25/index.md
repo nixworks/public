@@ -4,7 +4,7 @@
 _Context: 2015 Burkinab coup d'tat, Burkina Faso, coup d'tat, elite presidential guard_
 
 ### [New Syrian Forces trade American supplied equipment to the Al Qaeda-linked Nusra Front in return for safe passage. ](/news/2015/09/25/new-syrian-forces-trade-american-supplied-equipment-to-the-al-qaeda-linked-nusra-front-in-return-for-safe-passage.md)
-_Context: New Syrian Forces, Nusra Front, Syrian Civil War, al-Qaeda_
+_Context: New Syrian Forces, Nusra Front, al-Qaeda, war_
 
 ### [The People's Republic of China will launch a cap and trade policy creating a carbon market in 2017. ](/news/2015/09/25/the-people-s-republic-of-china-will-launch-a-cap-and-trade-policy-creating-a-carbon-market-in-2017.md)
 White House officials announce deal, which will make China the world’s biggest carbon market, on eve of summit between Barack Obama and Xi Jinping

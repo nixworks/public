@@ -1,7 +1,7 @@
 ## [2012-09-3](/news/2012/09/3/index.md)
 
 ### [Syrian Civil War:The head of the international Red Cross, Peter Maurer, arrives in Damascus for a three-day review with the Syrian government of the humanitarian situation. ](/news/2012/09/3/syrian-civil-war-pthe-head-of-the-international-red-cross-peter-maurer-arrives-in-damascus-for-a-three-day-review-with-the-syrian-governme.md)
-_Context: Damascus, Government of Syria, International Committee of the Red Cross, Syria, Syrian Civil War, humanitarian situation_
+_Context: Damascus, Government of Syria, International Committee of the Red Cross, Syria, humanitarian situation, war_
 
 ### [War in Afghanistan:New Zealand announces that it plans to withdraw its forces from Afghanistan's Bamiyan province by the end of April 2013. ](/news/2012/09/3/war-in-afghanistan-pnew-zealand-announces-that-it-plans-to-withdraw-its-forces-from-afghanistan-s-bamiyan-province-by-the-end-of-april-2013.md)
 _Context: Afghanistan, Bamiyan, New Zealand, New Zealand Defence Force, War in Afghanistan (2001-present)_

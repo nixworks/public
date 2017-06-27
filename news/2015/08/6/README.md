@@ -7,7 +7,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 A suicide bomber killed at least 15 people in an attack on a mosque used by members of a local security force in southwest Saudi Arabia on Thursday, the interior ministry said, an assault that an online statement said was carried out by Islamic State.
 
 ### [Islamic State of Iraq and the Levant conquers the key transport hub Al-Qaryatain, allowing its forces in the Qalamun region to be supplied through this city. ](/news/2015/08/6/islamic-state-of-iraq-and-the-levant-conquers-the-key-transport-hub-al-qaryatain-allowing-its-forces-in-the-qalamun-region-to-be-supplied-t.md)
-_Context: Al-Qaryatain, ISIL, Syrian Civil War_
+_Context: Al-Qaryatain, ISIL, war_
 
 ### [Russian hackers are suspected of infiltrating the U.S. Pentagon e-mail system last week. ](/news/2015/08/6/russian-hackers-are-suspected-of-infiltrating-the-u-s-pentagon-e-mail-system-last-week.md)
 Russia is suspected of launching a cyber-attack against a Pentagon email network

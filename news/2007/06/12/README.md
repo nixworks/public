@@ -4,7 +4,7 @@
 _Context: Chinua Achebe, Man Booker International Prize, Nigeria_
 
 ### [ Ehud Barak, former Prime Minister of Israel, declares victory in a vote for the leadership of the Israeli Labor Party, with 51.5% of the vote compared to 47.5% for former security chief Ami Ayalon. ](/news/2007/06/12/ehud-barak-former-prime-minister-of-israel-declares-victory-in-a-vote-for-the-leadership-of-the-israeli-labor-party-with-51-5-of-the-vo.md)
-_Context: Ami Ayalon, Ehud Barak, Labor Party, Prime Minister of Israel_
+_Context: Ami Ayalon, Ehud Barak, Israeli Prime Minister, Labor Party_
 
 ### [ The PKK declares that it will stop attacks on Turkey but will defend itself if attacked. ](/news/2007/06/12/the-pkk-declares-that-it-will-stop-attacks-on-turkey-but-will-defend-itself-if-attacked.md)
 _Context: Kurdistan Workers' Party, Turkey_

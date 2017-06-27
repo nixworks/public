@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Nine people are killed and about 30 others are missing after their  multi-story tourist boat, carrying about 170 people, sinks in a reservoir in northwest Colombia near Medellin. ](/news/2017/06/25/nine-people-are-killed-and-about-30-others-are-missing-after-their-multi-story-tourist-boat-carrying-about-170-people-sinks-in-a-reservoi.md) _Context: Colombia, Medellin_
+1. [At least nine people are killed and about 30 others are missing after their multi-story tourist boat, carrying about 170 people, sinks in a reservoir in northwest Colombia near Medellin. ](/news/2017/06/25/at-least-nine-people-are-killed-and-about-30-others-are-missing-after-their-multi-story-tourist-boat-carrying-about-170-people-sinks-in-a.md) _Context: Colombia, Medellin_
 2. [At least 17 people are killed after an Andean landslide strikes the Colombian city of Manizales. ](/news/2017/04/19/at-least-17-people-are-killed-after-an-andean-landslide-strikes-the-colombian-city-of-manizales.md) _Context: Colombia, landslide_
 3. [A chartered Avro RJ85 plane carrying at least 81 people, including the Chapecoense football team, crashes near Medellin, Colombia.  Rescuers report at least six survivors have been found in the wreckage. The 2016 Copa Sudamericana Finals are suspended. ](/news/2016/11/29/a-chartered-avro-rj85-plane-carrying-at-least-81-people-including-the-chapecoense-football-team-crashes-near-medellan-colombia-rescuer.md) _Context: Colombia, Medellin_
 4. [At least 52 people die in a landslide caused by heavy rains in the Colombian town of Salgar, Antioquia. ](/news/2015/05/18/at-least-52-people-die-in-a-landslide-caused-by-heavy-rains-in-the-colombian-town-of-salgar-antioquia.md) _Context: Colombia, landslide_

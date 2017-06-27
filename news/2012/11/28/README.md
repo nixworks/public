@@ -1,7 +1,7 @@
 ## [2012-11-28](/news/2012/11/28/index.md)
 
 ### [Syrian civil war:At least 54 people are killed and more than 120 injured by two car bomb explosions in a south-eastern district of Damascus, Syria's capital. ](/news/2012/11/28/syrian-civil-war-pat-least-54-people-are-killed-and-more-than-120-injured-by-two-car-bomb-explosions-in-a-south-eastern-district-of-damascus.md)
-_Context: Damascus, Syria, Syrian Civil War_
+_Context: Damascus, Syria, war_
 
 ### [2012 East D.R. Congo conflict:M23 rebels announce their withdrawal from territory captured from government troops after a pullout deal was reached in Uganda. ](/news/2012/11/28/2012-east-d-r-congo-conflict-pm23-rebels-announce-their-withdrawal-from-territory-captured-from-government-troops-after-a-pullout-deal-was.md)
 M23 spokesman says the group is doing a phased pullout from territory they have captured, starting south of Goma.

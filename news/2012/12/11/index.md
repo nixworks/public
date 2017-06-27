@@ -1,7 +1,7 @@
 ## [2012-12-11](/news/2012/12/11/index.md)
 
 ### [Syrian civil war:At least 125 people are killed and up to 200 injured in bombings in the Alawite village of Aqrab, Syria. ](/news/2012/12/11/syrian-civil-war-pat-least-125-people-are-killed-and-up-to-200-injured-in-bombings-in-the-alawite-village-of-aqrab-syria.md)
-_Context: Alawite, Aqrab, Syria, Syrian Civil War, bombings_
+_Context: Alawite, Aqrab, Syria, bombings, war_
 
 ### [War on Terror:A Yemeni Army offensive against al-Qaeda is reported as killing at least 24 people including 17 soldiers. ](/news/2012/12/11/war-on-terror-pa-yemeni-army-offensive-against-al-qaeda-is-reported-as-killing-at-least-24-people-including-17-soldiers.md)
 A MAJOR offensive launched by the Yemeni army against al-Qaeda following the assassination of a top officer has killed at least 24 people, including 17 soldiers, a military official says.

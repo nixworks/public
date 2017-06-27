@@ -10,7 +10,7 @@ An al-Shabab suicide bomber detonated his explosives while hugging a local offic
 WASHINGTON: Turkish President Tayyip Erdogan said an attack in the southeastern city of Diyarbakir on Thursday that killed seven people and wounded 27 showed the “ugly face” of militants “as they are cornered.”“This shows terrorism’s ugly face again. The determination of our security forces will put an end” to terrorism, Erdogan said in a speech to the Brookings Institute. He is in the US for a nuclear security summit. A local official in Ankara said all the dead were members of the security forces.
 
 ### [The Syrian Observatory for Human Rights reports a drone attack,  "most likely operated by the US-led coalition," kills Abu al-Hija, a high-ranking Tunisian ISIL commander, near the Islamic State's de facto Syrian capital Raqqa. ](/news/2016/03/31/the-syrian-observatory-for-human-rights-reports-a-drone-attack-amost-likely-operated-by-the-us-led-coalition-a-kills-abu-al-hija-a-hi.md)
-_Context: Al-Raqqah, ISIL, Syria, Syrian Civil War, Syrian Observatory for Human Rights, Tunisia_
+_Context: Al-Raqqah, ISIL, Syria, Syrian Observatory for Human Rights, Tunisia, war_
 
 ### [The U.S. Federal Trade Commission files an anti-trust suit against Endo Pharmaceuticals, Inc., and several other drug companies for using pay-for-delay settlements to block consumers' access to lower-cost generic versions of pain medications, Opana ER and Lidoderm. ](/news/2016/03/31/the-u-s-federal-trade-commission-files-an-anti-trust-suit-against-endo-pharmaceuticals-inc-and-several-other-drug-companies-for-using-pa.md)
 _Context: Endo International plc, Lidoderm, Opana ER, U.S. Federal Trade Commission, generic, pain medications, pay-for-delay settlements, reduced competition and higher prices_

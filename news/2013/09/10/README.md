@@ -1,7 +1,7 @@
 ## [2013-09-10](/news/2013/09/10/index.md)
 
 ### [Syrian civil war:Human Rights Watch issues a report concluding that Syrian government forces were most likely to be responsible for chemical weapons attacks on two suburbs in Damascus on August 21. ](/news/2013/09/10/syrian-civil-war-phuman-rights-watch-issues-a-report-concluding-that-syrian-government-forces-were-most-likely-to-be-responsible-for-chemica.md)
-_Context: Damascus, Human Rights Watch, Syria, Syrian Civil War, chemical weapons_
+_Context: Damascus, Human Rights Watch, Syria, chemical weapons, war_
 
 ### [Iraqi insurgency (post-U.S. withdrawal):Bomb attacks targeting both Shi'ite Muslims and Sunnis kill at least 16 people in Iraq. ](/news/2013/09/10/iraqi-insurgency-post-u-s-withdrawal-pbomb-attacks-targeting-both-shi-ite-muslims-and-sunnis-kill-at-least-16-people-in-iraq.md)
 _Context: Iraqi insurgency (post-U.S. withdrawal)_

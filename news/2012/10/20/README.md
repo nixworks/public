@@ -1,7 +1,7 @@
 ## [2012-10-20](/news/2012/10/20/index.md)
 
 ### [Syrian civil war: UN and Arab League special envoy Lakhdar Brahimi meets with Syrian Foreign Minister Walid Muallem in Damascus in an attempt to push for a temporary ceasefire during next week's Eid al-Adha holiday. ](/news/2012/10/20/syrian-civil-war-un-and-arab-league-special-envoy-lakhdar-brahimi-meets-with-syrian-foreign-minister-walid-muallem-in-damascus-in-an-attemp.md)
-_Context: Damascus, Eid al-Adha, Foreign Minister, Lakhdar Brahimi, Syrian Civil War, Walid Muallem_
+_Context: Damascus, Eid al-Adha, Foreign Minister, Lakhdar Brahimi, Walid Muallem, war_
 
 ### [2011-present Libyan factional fighting:Authorities in Tripoli announce the capture of Muammar Gaddafi's former spokesman Moussa Ibrahim near the town of Tarhouna, 40 miles south of the capital Tripoli. Ibrahim's whereabouts had been unknown since the end of the civil war in 2011 and there had been several earlier reports of his arrest. Hours later an audio message purported to be by Ibrahim appears online, in which he denies being captured or even being in Libya. ](/news/2012/10/20/2011apresent-libyan-factional-fighting-pauthorities-in-tripoli-announce-the-capture-of-muammar-gaddafi-s-former-spokesman-moussa-ibrahim-n.md)
 A senior Libyan official casts doubt on an earlier statement that Moussa Ibrahim, the spokesman for late leader Muammar Gaddafi, had been captured.

@@ -10,7 +10,7 @@ _Context: Curaao, Ewa Beach, Hawaii, Hawaii, Little League World Series, Willems
 _Context: Afghanistan, Manmohan Singh, terrorism_
 
 ### [ Omri Sharon, son of the Prime Minister of Israel, Ariel Sharon, has been formally indicted on charges of corruption following allegations concerning Ariel Sharon's bid to become leader of the Likud party in 1999. ](/news/2005/08/28/omri-sharon-son-of-the-prime-minister-of-israel-ariel-sharon-has-been-formally-indicted-on-charges-of-corruption-following-allegations-c.md)
-_Context: 1999, Ariel Sharon, Likud, Omri Sharon, Prime Minister of Israel, anti-corruption, indicted_
+_Context: 1999, Ariel Sharon, Israeli Prime Minister, Likud, Omri Sharon, anti-corruption, indicted_
 
 ### [ People begin to return to their homes as road and rail routes reopen after the 2005 European floods. ](/news/2005/08/28/people-begin-to-return-to-their-homes-as-road-and-rail-routes-reopen-after-the-2005-european-floods.md)
 _Context: 2005 European floods_

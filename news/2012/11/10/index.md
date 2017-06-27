@@ -1,7 +1,7 @@
 ## [2012-11-10](/news/2012/11/10/index.md)
 
 ### [Syrian civil war:Two suicide bombings in Daraa killed at least 20 Syrian troops. ](/news/2012/11/10/syrian-civil-war-ptwo-suicide-bombings-in-daraa-killed-at-least-20-syrian-troops.md)
-_Context: Daraa, Syrian Civil War_
+_Context: Daraa, war_
 
 ### [At least 27 people are killed and dozens are wounded in conflicts between inmates and guards at Welikada prison in Colombo, the capital city of Sri Lanka. ](/news/2012/11/10/at-least-27-people-are-killed-and-dozens-are-wounded-in-conflicts-between-inmates-and-guards-at-welikada-prison-in-colombo-the-capital-city.md)
 At least 27 people are killed as clashes erupt between inmates and guards at a prison in the Sri Lankan capital, Colombo, authorities say.

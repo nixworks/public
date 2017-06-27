@@ -4,7 +4,7 @@
 Suspected Al-Qaeda militants killed 18 Yemeni soldiers in separate ambushes Tuesday as the army launched a ground offensive against their remaining strongholds in the south, medical and security sources said.
 
 ### [The Local Coordination Committees of Syria announces that 25 children were killed on Wednesday when Syrian army forces dropped barrel bombs on an elementary school.  ](/news/2014/04/30/the-local-coordination-committees-of-syria-announces-that-25-children-were-killed-on-wednesday-when-syrian-army-forces-dropped-barrel-bombs.md)
-_Context: Local Coordination Committees of Syria, Syrian Army, Syrian Civil War, barrel bomb_
+_Context: Local Coordination Committees of Syria, Syrian Army, barrel bomb, war_
 
 ### [An explosion in the rmqi Railway Station results in three people killed, with another 79 people injured. ](/news/2014/04/30/an-explosion-in-the-urumqi-railway-station-results-in-three-people-killed-with-another-79-people-injured.md)
 _Context: explosion in, rmqi Railway Station_

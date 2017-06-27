@@ -1,7 +1,7 @@
 ## [2013-04-30](/news/2013/04/30/index.md)
 
 ### [Syrian civil war:A bomb explodes in the center of the capital, Damascus, killing at least 13 people. ](/news/2013/04/30/syrian-civil-war-pa-bomb-explodes-in-the-center-of-the-capital-damascus-killing-at-least-13-people.md)
-_Context: Damascus, Syrian Civil War_
+_Context: Damascus, war_
 
 ### [War in Afghanistan (2001-present):A roadside bomb kills three members of NATO's ISAF force in Afghanistan. ](/news/2013/04/30/war-in-afghanistan-2001apresent-pa-roadside-bomb-kills-three-members-of-nato-s-isaf-force-in-afghanistan.md)
 _Context: Afghanistan, ISAF, NATO, War in Afghanistan (2001-present)_

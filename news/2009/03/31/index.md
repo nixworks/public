@@ -1,7 +1,7 @@
 ## [2009-03-31](/news/2009/03/31/index.md)
 
 ### [ Likud Party Chairman Benjamin Netanyahu is inaugurated as Prime Minister of Israel. ](/news/2009/03/31/likud-party-chairman-benjamin-netanyahu-is-inaugurated-as-prime-minister-of-israel.md)
-_Context: Benjamin Netanyahu, Israel, Likud, Prime Minister of Israel, chairman, inauguration_
+_Context: Benjamin Netanyahu, Israel, Israeli Prime Minister, Likud, chairman, inauguration_
 
 ### [ Floods on New South Wales' Mid North Coast in Australia cause an emergency evacuation of Coffs Harbour. ](/news/2009/03/31/floods-on-new-south-wales-mid-north-coast-in-australia-cause-an-emergency-evacuation-of-coffs-harbour.md)
 _Context: Australia, Coffs Harbour, Mid North Coast, New South Wales, evacuation centers, flood_

@@ -16,7 +16,7 @@ _Context: Auschwitz, Holocaust, Oswiecim, Poland, Red Army_
 _Context: Cahors, France's national railway company, Toulouse_
 
 ### [ Israeli-Palestinian Conflict: In an interview with Yedioth Ahronoth, Israeli Prime Minister, Ariel Sharon, has said he is "very satisfied" with Palestinian President Mahmoud Abbas's efforts to restore calm.  Sharon pledged to further peace process efforts with Abbas, with a meeting possible within two weeks. ](/news/2005/01/27/israeli-palestinian-conflict-in-an-interview-with-yedioth-ahronoth-israeli-prime-minister-ariel-sharon-has-said-he-is-very-satisfied.md)
-_Context: Ariel Sharon, Israel, Israeli-Palestinian conflict, Mahmoud Abbas, President of the Palestinian Authority, Prime Minister of Israel, Yedioth Ahronoth_
+_Context: Ariel Sharon, Israel, Israeli Prime Minister, Israeli-Palestinian conflict, Mahmoud Abbas, President of the Palestinian Authority, Yedioth Ahronoth_
 
 ### [ In Bangladesh, a grenade attack kills former Awami League Finance Minister Shah A M S Kibria and four others ](/news/2005/01/27/in-bangladesh-a-grenade-attack-kills-former-awami-league-finance-minister-shah-a-m-s-kibria-and-four-others.md)
 _Context: Awami League, Bangladesh, Shah A M S Kibria_

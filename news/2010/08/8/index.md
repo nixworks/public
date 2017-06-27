@@ -13,7 +13,7 @@ At least 20 dead as explosions rock marketplace in Basra, wounding scores.
 Florida congressman Ron Klein calls for US to stop military support.
 
 ### [Prime Minister of Israel Benjamin Netanyahu orders his attorney-general to find out who leaked embarrassing details about a feud among some of his generals, one of whom is trying to smear his rivals. ](/news/2010/08/8/prime-minister-of-israel-benjamin-netanyahu-orders-his-attorney-general-to-find-out-who-leaked-embarrassing-details-about-a-feud-among-some.md)
-_Context: Benjamin Netanyahu, Prime Minister of Israel, smear_
+_Context: Benjamin Netanyahu, Israeli Prime Minister, smear_
 
 ### [The Anatolian Agency reports that two Turkish Army soldiers were killed in a roadside bomb explosion in Mardin Province near the Turkish border with Syria. ](/news/2010/08/8/the-anatolian-agency-reports-that-two-turkish-army-soldiers-were-killed-in-a-roadside-bomb-explosion-in-mardin-province-near-the-turkish-bor.md)
 _Context: Anatolian Agency, Mardin Province, Syria, Turkey, Turkish Army_

@@ -10,7 +10,7 @@ _Context: Baghdad, Iraq, capital, market_
 _Context: Al Jazeera, Spain, Tayseer Allouni_
 
 ### [ Ariel Sharon, the Prime Minister of Israel, threatens to "make every effort not to help" the upcoming Palestinian elections if Hamas takes part. ](/news/2005/09/17/ariel-sharon-the-prime-minister-of-israel-threatens-to-make-every-effort-not-to-help-the-upcoming-palestinian-elections-if-hamas-takes.md)
-_Context: Ariel Sharon, Hamas, Palestinian, Prime Minister of Israel_
+_Context: Ariel Sharon, Hamas, Israeli Prime Minister, Palestinian_
 
 ### [ In the New Zealand general election, the Labour Party, led by Prime Minister Helen Clark, seems best placed to form a new government. Although the opposition National Party of Dr. Don Brash makes the greatest gains, these are mainly at the expense of minor parties. All the existing minor parties lose seats, with only the new Maori Party making gains. ([http://www.electionresults.govt.nz/partystatus.html Elections New Zealand])](/news/2005/09/17/in-the-new-zealand-general-election-the-labour-party-led-by-prime-minister-helen-clark-seems-best-placed-to-form-a-new-government-altho.md)
 _Context: Don Brash, Helen Clark, Maori Party, New Zealand Labour Party, New Zealand National Party, Prime Minister, count of 'special' votes_

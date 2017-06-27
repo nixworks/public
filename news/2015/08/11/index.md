@@ -19,7 +19,7 @@ Flooding in Argentina which burst riverbanks and deluged city streets killed thr
 _Context: 50-plus shut-down nuclear reactors to go back online since the 2011, Fukushima Daiichi nuclear disaster, Japan, Kagoshima Prefecture, Kyushu, Satsumasendai, Sendai Nuclear Power Plant_
 
 ### [In talks held regarding the course of the Syrian Civil War, Russia and Saudi Arabia fail to reach agreement over cooperation in the fight against ISIL, with the Saudi representative refusing any common struggle with Assad's regime. ](/news/2015/08/11/in-talks-held-regarding-the-course-of-the-syrian-civil-war-russia-and-saudi-arabia-fail-to-reach-agreement-over-cooperation-in-the-fight-ag.md)
-_Context: Bashar al-Assad, ISIL, Russia, Saudi Arabia, Syrian Civil War_
+_Context: Bashar al-Assad, ISIL, Russia, Saudi Arabia, war_
 
 ### [Georgia accuses Russia of cutting off its citizens from their farmland by installing border signposts demarcating the breakaway South Ossetia region, calling on Moscow to refrain from "escalation". ](/news/2015/08/11/georgia-accuses-russia-of-cutting-off-its-citizens-from-their-farmland-by-installing-border-signposts-demarcating-the-breakaway-south-osseti.md)
 Georgia Tuesday accused Russia of cutting off its citizens from their farmland by installing border signposts demarcating the breakaway South Ossetia region, calling on Moscow to refrain from &quot;escalation.&quot;

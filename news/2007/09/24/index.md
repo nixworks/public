@@ -4,7 +4,7 @@
 _Context: 2007 ICC World Twenty20, India, Pakistan_
 
 ### [ Menachem Mazuz, the Attorney General of Israel, orders a criminal investigation into the purchase of a house by the Prime Minister of Israel Ehud Olmert. ](/news/2007/09/24/menachem-mazuz-the-attorney-general-of-israel-orders-a-criminal-investigation-into-the-purchase-of-a-house-by-the-prime-minister-of-israe.md)
-_Context: Attorney General of Israel, Ehud Olmert, Menachem Mazuz, Prime Minister of Israel_
+_Context: Attorney General of Israel, Ehud Olmert, Israeli Prime Minister, Menachem Mazuz_
 
 ### [ The President of Iran Mahmoud Ahmadinejad speaks at Columbia University stating that Americans should look into "who was truly involved" in the September 11, 2001 attacks, defending his right to denial of the Holocaust, and denying the existence of gay Iranians. ](/news/2007/09/24/the-president-of-iran-mahmoud-ahmadinejad-speaks-at-columbia-university-stating-that-americans-should-look-into-who-was-truly-involved-in.md)
 _Context: Columbia, Holocaust, Mahmoud Ahmadinejad, President, September 11, 2001 attacks, United States, gay Iran_

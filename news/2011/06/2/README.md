@@ -4,7 +4,7 @@
 _Context: Abyei, South Sudan, Sudan_
 
 ### [Syrian civil war: At least 13 people are killed in a continuing crackdown by security forces in Syria; opposition leaders meeting in Turkey call for President Bashar al-Assad to step down. ](/news/2011/06/2/syrian-civil-war-at-least-13-people-are-killed-in-a-continuing-crackdown-by-security-forces-in-syria-opposition-leaders-meeting-in-turkey.md)
-_Context: Bashar al-Assad, President, Syria, Syrian Civil War, Turkey_
+_Context: Bashar al-Assad, President, Syria, Turkey, war_
 
 ### [Twenty-five Pakistan Army soldiers die after an attack by Afghan militants on a border post in the Dir District. ](/news/2011/06/2/twenty-five-pakistan-army-soldiers-die-after-an-attack-by-afghan-militants-on-a-border-post-in-the-dir-district.md)
 _Context: Afghan, Dir District, Pakistan Army_

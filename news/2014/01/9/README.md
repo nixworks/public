@@ -1,7 +1,7 @@
 ## [2014-01-9](/news/2014/01/9/index.md)
 
 ### [Syrian Civil War:A car bomb kills 18 people, including women and children, in Syria's central Hama province, according to the Syrian Observatory for Human Rights organization. ](/news/2014/01/9/syrian-civil-war-pa-car-bomb-kills-18-people-including-women-and-children-in-syria-s-central-hama-province-according-to-the-syrian-observ.md)
-_Context: Hama province, Syrian Civil War, Syrian Observatory for Human Rights, car bomb_
+_Context: Hama province, Syrian Observatory for Human Rights, car bomb, war_
 
 ### [Iraqi insurgency (2011-13):A suicide bomber kills 23 Iraqi army recruits and wounds 36 in Baghdad. ](/news/2014/01/9/iraqi-insurgency-2011a13-pa-suicide-bomber-kills-23-iraqi-army-recruits-and-wounds-36-in-baghdad.md)
 _Context: Baghdad, Iraq, Iraqi insurgency (2011-13)_

@@ -4,7 +4,7 @@
 _Context: 2013 South Sudanese political crisis, Juba, South Sudan_
 
 ### [Syrian Civil War:The Syrian Observatory for Human Rights claims that barrel bomb airstrikes by the Syrian government on the city of Aleppo kill at least 76 people. ](/news/2013/12/16/syrian-civil-war-pthe-syrian-observatory-for-human-rights-claims-that-barrel-bomb-airstrikes-by-the-syrian-government-on-the-city-of-aleppo.md)
-_Context: Aleppo, Syrian Civil War, Syrian Observatory for Human Rights, barrel bomb_
+_Context: Aleppo, Syrian Observatory for Human Rights, barrel bomb, war_
 
 ### [The Israeli Army exchanges fire with the Lebanese Army after a suspected sniper attack occurs in the border killing an Israeli soldier. ](/news/2013/12/16/the-israeli-army-exchanges-fire-with-the-lebanese-army-after-a-suspected-sniper-attack-occurs-in-the-border-killing-an-israeli-soldier.md)
 Military liaison officers met with representatives of the United Nations peacekeeping force after an Israeli soldier was killed and Israeli forces returned fire.

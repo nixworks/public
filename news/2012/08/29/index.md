@@ -1,7 +1,7 @@
 ## [2012-08-29](/news/2012/08/29/index.md)
 
 ### [Syrian civil war:Russia calls for a joint United Nations-Arab League inquiry on terrorist mass slaughters of civilians. ](/news/2012/08/29/syrian-civil-war-prussia-calls-for-a-joint-united-nations-arab-league-inquiry-on-terrorist-mass-slaughters-of-civilians.md)
-_Context: Arab League, Russia, Syrian Civil War, United Nations, slaughters_
+_Context: Arab League, Russia, United Nations, slaughters, war_
 
 ### [War in Afghanistan:Three Australian Army soldiers are killed and another two injured in a shooting by someone wearing an Afghan Army uniform in Oruzgan province. ](/news/2012/08/29/war-in-afghanistan-pthree-australian-army-soldiers-are-killed-and-another-two-injured-in-a-shooting-by-someone-wearing-an-afghan-army-unifor.md)
 _Context: Afghan Army, Oruzgan, War in Afghanistan (2001-present), soldiers_

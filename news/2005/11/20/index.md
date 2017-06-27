@@ -4,7 +4,7 @@
 _Context: Conflict in Iraq, Iraqi insurgency, United States_
 
 ### [ Israeli army radio reports Ariel Sharon, the current Prime Minister of Israel, will leave Likud and create a new centrist party positioned between it and Israeli Labor Party. This move ends more than a year of Likud infighting between Sharon and hard-right members led by Benjamin Netanyahu who opposed withdrawal from Gaza, and closely follows Labour's departure from the present grand coalition government. Early elections are now a near-certainty. ](/news/2005/11/20/israeli-army-radio-reports-ariel-sharon-the-current-prime-minister-of-israel-will-leave-likud-and-create-a-new-centrist-party-positioned.md)
-_Context: Ariel Sharon, Benjamin Netanyahu, Israeli Labor Party, Israeli army radio, Israeli legislative election, Kadima, Likud, Prime Minister of Israel, disengagement, grand coalition_
+_Context: Ariel Sharon, Benjamin Netanyahu, Israeli Labor Party, Israeli Prime Minister, Israeli army radio, Israeli legislative election, Kadima, Likud, disengagement, grand coalition_
 
 ### [ U.S. President George W. Bush attends a church service during his visit to People's Republic of China as he presses for greater freedoms of expression and faith during his east Asian tour. ](/news/2005/11/20/u-s-president-george-w-bush-attends-a-church-service-during-his-visit-to-people-s-republic-of-china-as-he-presses-for-greater-freedoms-of.md)
 _Context: George W. Bush, People's Republic of China, United States President_

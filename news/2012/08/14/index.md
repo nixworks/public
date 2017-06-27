@@ -1,7 +1,7 @@
 ## [2012-08-14](/news/2012/08/14/index.md)
 
 ### [Syrian civil war:One journalist, three lieutenant colonels and one auditor defect to and participate in the Free Syrian Army (FSA). ](/news/2012/08/14/syrian-civil-war-pone-journalist-three-lieutenant-colonels-and-one-auditor-defect-to-and-participate-in-the-free-syrian-army-fsa.md)
-_Context: Free Syrian Army, Syrian Civil War_
+_Context: Free Syrian Army, war_
 
 ### [Mexican Drug War:Alleged members of the Gulf Cartel storm a bar in Monterrey and kill 10 people. ](/news/2012/08/14/mexican-drug-war-palleged-members-of-the-gulf-cartel-storm-a-bar-in-monterrey-and-kill-10-people.md)
 _Context: Gulf Cartel, Mexican Drug War, Monterrey_

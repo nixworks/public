@@ -1,7 +1,7 @@
 ## [2012-11-13](/news/2012/11/13/index.md)
 
 ### [Syrian civil war:Three Syrian tanks have entered the demilitarized zone in the Golan Heights. Israel has launched a formal complaint to the United Nations. ](/news/2012/11/13/syrian-civil-war-pthree-syrian-tanks-have-entered-the-demilitarized-zone-in-the-golan-heights-israel-has-launched-a-formal-complaint-to-the.md)
-_Context: Golan Heights, Israel, Syrian, Syrian Civil War, United Nations_
+_Context: Golan Heights, Israel, Syrian, United Nations, war_
 
 ### [Following over 150 rockets being fired into Israel over the past four days from Gaza and attacks by Israel, Egypt has mediated a truce. Both Hamas and Ehud Barak praise the efforts for peace. ](/news/2012/11/13/following-over-150-rockets-being-fired-into-israel-over-the-past-four-days-from-gaza-and-attacks-by-israel-egypt-has-mediated-a-truce-both.md)
 Israel and Hamas agree to hold their fire unless attacked; Defense Minister Barak praises &quot;resilience&quot; of rocket-wracked South.

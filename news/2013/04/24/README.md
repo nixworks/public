@@ -7,7 +7,7 @@ _Context: Afghanistan, Jalalabad, Nangarhar Province_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Syrian Civil War:The 11th-century minaret of the Umayyad Great Mosque at the World Heritage Site of Aleppo is destroyed. Both warring parties blame each other. ](/news/2013/04/24/syrian-civil-war-pthe-11th-century-minaret-of-the-umayyad-great-mosque-at-the-world-heritage-site-of-aleppo-is-destroyed-both-warring-parti.md)
-_Context: Aleppo, Syrian Civil War, Umayyad Great Mosque, World Heritage Site, minaret_
+_Context: Aleppo, Umayyad Great Mosque, World Heritage Site, minaret, war_
 
 ### [A shooting occurs in Manchester, Illinois, United States, leaving 5 dead and another injured. The suspect is then killed in a gunfight with police. ](/news/2013/04/24/a-shooting-occurs-in-manchester-illinois-united-states-leaving-5-dead-and-another-injured-the-suspect-is-then-killed-in-a-gunfight-with.md)
 The suspect police say shot and killed five people early Wednesday morning inside a Manchester, Ill., home reportedly died at an area hospital after he exchanged gunfire with arresting officers, police told FoxNews.com.

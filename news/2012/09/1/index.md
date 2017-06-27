@@ -1,7 +1,7 @@
 ## [2012-09-1](/news/2012/09/1/index.md)
 
 ### [Syrian civil war:The Syrian government states that it has repelled a major attack on an air base near Aleppo; 341 detainees are released across the country. Rebels claim the capture of an airforce building in Deir ez-Zor. ](/news/2012/09/1/syrian-civil-war-pthe-syrian-government-states-that-it-has-repelled-a-major-attack-on-an-air-base-near-aleppo-341-detainees-are-released-ac.md)
-_Context: Aleppo, Deir ez-Zor, Syria, Syrian Civil War_
+_Context: Aleppo, Deir ez-Zor, Syria, war_
 
 ### [War in Afghanistan:Two suicide bombings near a NATO base kill at least 12 people and wound 50 others in the Sayed Abad district of Afghanistan's Wardak province. ](/news/2012/09/1/war-in-afghanistan-ptwo-suicide-bombings-near-a-nato-base-kill-at-least-12-people-and-wound-50-others-in-the-sayed-abad-district-of-afghanis.md)
 _Context: Afghanistan, NATO, Sayed Abad district, War in Afghanistan (2001-present), Wardak province_
@@ -31,7 +31,7 @@ _Context: A nuclear reactor, Belgian, another, nuclear regulator, owner_
 In its first apology for the scandal in 50 years, Grunenthal said on Friday it was “very sorry” for its silence towards victims of the drug, which caused thousands of babies to be born with disabilities
 
 ### [16th Summit of the Non-Aligned Movement in Tehran:The summit is closed with accepting a 600-page final document that mainly focuses on the Palestinian issue as well as on Iran's nuclear energy program, but makes no mention of the Syrian civil war. A Chinese state commentary qualifies the summit as an "important" diplomatic "accomplishment from Iran", having hosted "leaders and delegates of over 100 countries". ](/news/2012/09/1/16th-summit-of-the-non-aligned-movement-in-tehran-pthe-summit-is-closed-with-accepting-a-600-page-final-document-that-mainly-focuses-on-the.md)
-_Context: 16th Summit of the Non-Aligned Movement, Chinese, Iran, Palestinian, Syrian Civil War, Tehran, nuclear scientist_
+_Context: 16th Summit of the Non-Aligned Movement, Chinese, Iran, Palestinian, Tehran, nuclear scientist, war_
 
 ### [The ruling People's Movement for the Liberation of Angola wins the Angolan general election with a preliminary 74.46% of the vote. ](/news/2012/09/1/the-ruling-people-s-movement-for-the-liberation-of-angola-wins-the-angolan-general-election-with-a-preliminary-74-46-of-the-vote.md)
 State media declares dos Santos as president-elect after his MPLA party takes unassailable lead in general elections.

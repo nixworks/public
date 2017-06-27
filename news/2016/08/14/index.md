@@ -4,7 +4,7 @@
 Yemeni army forces backed by Arab coalition aircraft killed about 40 suspected al Qaeda fighters on Sunday as they fought their way into two militant strongholds in eastern Yemen, a local official and residents said.
 
 ### [Russian and Syrian government jets conduct 26 airstrikes across Idlib province, killing 122 civilians. ](/news/2016/08/14/russian-and-syrian-government-jets-conduct-26-airstrikes-across-idlib-province-killing-122-civilians.md)
-_Context: Idlib province, Syrian Civil War_
+_Context: Idlib province, war_
 
 ### [At least 64 to 100 people are killed in a massacre. ](/news/2016/08/14/at-least-64-to-100-people-are-killed-in-a-massacre.md)
 At least 64 bodies recovered near Beni town in North Kivu, but local authorities warn death toll could rise.

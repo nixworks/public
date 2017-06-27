@@ -10,7 +10,7 @@ _Context: Abdullah, Delhi, Jama Masjid, King_
 _Context: Conflict in Iraq, Iraq, Shia, suicide bomb_
 
 ### [ Israeli Prime Minister Ariel Sharon, 77, suffers "a significant stroke". He is "[currently] under anesthesia and receiving breathing assistance". Power is transferred to his deputy, Vice Minister Ehud Olmert. ](/news/2006/01/4/israeli-prime-minister-ariel-sharon-77-suffers-a-significant-stroke-he-is-currently-under-anesthesia-and-receiving-breathing-assist.md)
-_Context: Ariel Sharon, Ehud Olmert, Prime Minister of Israel, anesthesia, his recovery_
+_Context: Ariel Sharon, Ehud Olmert, Israeli Prime Minister, anesthesia, his recovery_
 
 ### [ Dow Jones & Co., one of the world's most important financial publishers, announces its new CEO, Richard Zannino, takes over from Peter Kann. Since Mr. Zannino is not a reporter, this breaks a century-old tradition of keeping newsmen at the helm. ](/news/2006/01/4/dow-jones-co-one-of-the-world-s-most-important-financial-publishers-announces-its-new-ceo-richard-zannino-takes-over-from-peter-kann.md)
 _Context: Dow Jones & Co., Peter Kann, Richard Zannino_

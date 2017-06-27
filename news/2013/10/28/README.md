@@ -10,7 +10,7 @@ _Context: Indian Army, Kashmir, Line of Control, Pakistan_
 Three Egyptian policemen were killed on Monday when masked men attacked a checkpoint in the Nile Delta city of Mansoura, security sources said.
 
 ### [Syrian civil war:The Syrian army retakes the ancient Christian town of Sadad. ](/news/2013/10/28/syrian-civil-war-pthe-syrian-army-retakes-the-ancient-christian-town-of-sadad.md)
-_Context: Sadad, Syria, Syrian Civil War_
+_Context: Sadad, Syria, war_
 
 ### [Syrian civil war spillover in Lebanon:Two people are killed in the northern city of Tripoli in fighting between supporters and opponents of the Syrian government and the Lebanese army. ](/news/2013/10/28/syrian-civil-war-spillover-in-lebanon-ptwo-people-are-killed-in-the-northern-city-of-tripoli-in-fighting-between-supporters-and-opponents-of.md)
 _Context: Lebanon, Syrian Civil War spillover in Lebanon, Tripoli, Lebanon_

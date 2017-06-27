@@ -7,7 +7,7 @@ _Context: Conflict in Iraq, Iraq, Iraqi insurgency, Syria, United States, air st
 Miss. governor estimates 80 could be dead in one county alone; two levees break in New Orleans, flooding the city.
 
 ### [ Former Prime Minister of Israel, Binyamin Netanyahu, has declared his intention to challenge Ariel Sharon for leadership of the Likud party. ](/news/2005/08/30/former-prime-minister-of-israel-binyamin-netanyahu-has-declared-his-intention-to-challenge-ariel-sharon-for-leadership-of-the-likud-party.md)
-_Context: Ariel Sharon, Binyamin Netanyahu, Likud, Prime Minister of Israel_
+_Context: Ariel Sharon, Binyamin Netanyahu, Israeli Prime Minister, Likud_
 
 ### [ In Paris, France, seven die and fourteen are injured when a fire burns down an apartment housing African immigrants owned by the Socit Immobilire d'conomie Mixte de la Ville de Paris 22:00 (GMT+1) ](/news/2005/08/30/in-paris-france-seven-die-and-fourteen-are-injured-when-a-fire-burns-down-an-apartment-housing-african-immigrants-owned-by-the-societe-im.md)
 _Context: France, Paris, fire_

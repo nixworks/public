@@ -1,7 +1,7 @@
 ## [2014-10-5](/news/2014/10/5/index.md)
 
 ### [Syrian civil war:18,000 Palestinians are facing life-threatening shortages of water in the Yarmouk Camp neighborhood of Damascus. ](/news/2014/10/5/syrian-civil-war-p18-000-palestinians-are-facing-life-threatening-shortages-of-water-in-the-yarmouk-camp-neighborhood-of-damascus.md)
-_Context: Syrian Civil War, Yarmouk Camp_
+_Context: Yarmouk Camp, war_
 
 ### [Insurgency in the North Caucasus:Five police officers are killed and twelve others wounded in a suicide bombing in Grozny, the capital of Russia's North Caucasian republic of Chechnya. ](/news/2014/10/5/insurgency-in-the-north-caucasus-pfive-police-officers-are-killed-and-twelve-others-wounded-in-a-suicide-bombing-in-grozny-the-capital-of-r.md)
 _Context: Chechnya, Grozny, Insurgency in the North Caucasus, Russia, suicide bombing_

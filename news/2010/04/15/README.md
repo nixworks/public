@@ -10,7 +10,7 @@ SPLM denies ruling party claims that southern soldiers shot dead nine of its mem
 The Irish Aviation Authority has announced that it is lifting restrictions on flights to and from airports at Cork and Shannon.
 
 ### [Former Israeli Prime Minister Ehud Olmert is a prime suspect in a large corruption scandal, law enforcement sources have told the BBC. ](/news/2010/04/15/former-israeli-prime-minister-ehud-olmert-is-a-prime-suspect-in-a-large-corruption-scandal-law-enforcement-sources-have-told-the-bbc.md)
-_Context: BBC, Ehud Olmert, Israel, Prime Minister of Israel_
+_Context: BBC, Ehud Olmert, Israel, Israeli Prime Minister_
 
 ### [The leaders of the United Kingdom's three main political parties take part in the first of three televised debates ahead of the 2010 General Election. ](/news/2010/04/15/the-leaders-of-the-united-kingdom-s-three-main-political-parties-take-part-in-the-first-of-three-televised-debates-ahead-of-the-2010-general.md)
 _Context: 2010 general election, United Kingdom, leaders' debates_

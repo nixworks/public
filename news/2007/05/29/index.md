@@ -25,7 +25,7 @@ _Context: Bashar al-Assad, President, election_
 _Context: State Food and Drug Administration, Zheng Xiaoyu, bribe, capital punishment, recall_
 
 ### [ Ehud Barak, former Prime Minister of Israel, wins the first round of the Israeli Labor Party leadership election and faces a runoff against former secret service chief Ami Ayalon. ](/news/2007/05/29/ehud-barak-former-prime-minister-of-israel-wins-the-first-round-of-the-israeli-labor-party-leadership-election-and-faces-a-runoff-against.md)
-_Context: Ami Ayalon, Ehud Barak, Israel, Labor Party, Prime Minister of Israel_
+_Context: Ami Ayalon, Ehud Barak, Israel, Israeli Prime Minister, Labor Party_
 
 ### [ Adam Air announces a deal which will ensure the recovery of the black boxes from Adam Air Flight 574. ](/news/2007/05/29/adam-air-announces-a-deal-which-will-ensure-the-recovery-of-the-black-boxes-from-adam-air-flight-574.md)
 _Context: Adam Air, Flight 574, black box_

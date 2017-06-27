@@ -7,7 +7,7 @@ A case has been registered against unknown persons at the Aram Bagh police stati
 _Context: People's Republic of China, Xinjiang, kill at least 36 people_
 
 ### [Syrian Civil War:The Syrian Observatory for Human Rights estimates that 100,000 people have died in the fighting. ](/news/2013/06/26/syrian-civil-war-pthe-syrian-observatory-for-human-rights-estimates-that-100-000-people-have-died-in-the-fighting.md)
-_Context: Syrian Civil War, Syrian Observatory for Human Rights_
+_Context: Syrian Observatory for Human Rights, war_
 
 ### [At least 20 people die as an Indian military helicopter trying to rescue victims of the floods in the Himalayan state of Uttarakhand crashes, killing all on board. ](/news/2013/06/26/at-least-20-people-die-as-an-indian-military-helicopter-trying-to-rescue-victims-of-the-floods-in-the-himalayan-state-of-uttarakhand-crashes.md)
 _Context: 2013 North India floods, Himalayan, India, Uttarakhand_

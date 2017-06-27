@@ -1,7 +1,7 @@
 ## [2012-07-27](/news/2012/07/27/index.md)
 
 ### [Syrian civil war:The Syrian Armed Forces renew a bombardment of the city of Aleppo. ](/news/2012/07/27/syrian-civil-war-pthe-syrian-armed-forces-renew-a-bombardment-of-the-city-of-aleppo.md)
-_Context: Aleppo, Syrian Civil War_
+_Context: Aleppo, war_
 
 ### [Saudi security forces arrest a number of protesters in Qatif. ](/news/2012/07/27/saudi-security-forces-arrest-a-number-of-protesters-in-qatif.md)
 Security forces detain a number of protesters in eastern Saudi Arabia, after they reportedly demand the release of political detainees.

@@ -16,7 +16,7 @@ A man died and another was hospitalized in serious condition Saturday afternoon 
 Exactly 15 years after he was sworn as Philippine president, Joseph Estrada takes his oath as the chief executive of Manila
 
 ### [Hassan Rouhani, President-elect of Iran, criticizes the Islamic Republic of Iran Broadcasting (IRIB) over its news censorship of the Syrian civil war and the 2009-10 election protests. He also says Iran needs a cautious approach in its foreign policy. ](/news/2013/06/30/hassan-rouhani-president-elect-of-iran-criticizes-the-islamic-republic-of-iran-broadcasting-irib-over-its-news-censorship-of-the-syrian.md)
-_Context: 2009-10 Iranian election protests, Censorship in Iran, Foreign relations of Iran, Hassan Rouhani, Iran, Islamic Republic of Iran Broadcasting, President, Syrian Civil War_
+_Context: 2009-10 Iranian election protests, Censorship in Iran, Foreign relations of Iran, Hassan Rouhani, Iran, Islamic Republic of Iran Broadcasting, President, war_
 
 ### [The President of the European Parliament demands an explanation from the U.S. for allegations of spying, while new sources hint that the NSA could gather information from several European countries and had placed microphones in the Embassy of Italy to the U.S.. Many European leaders declare themselves greatly disappointed and the issue may bring serious political and economical consequences. ](/news/2013/06/30/the-president-of-the-european-parliament-demands-an-explanation-from-the-u-s-for-allegations-of-spying-while-new-sources-hint-that-the-nsa.md)
 _Context: Italy, NSA, President of the European Parliament, U.S. for allegations of spying_

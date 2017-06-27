@@ -4,7 +4,7 @@
 Israel sets a tax sanction on the Palestinian Authority in the latest retaliatory step for its signing up to join international treaties.
 
 ### [Syrian Civil War:Chemical weapons are used again in Syria, this time on the town of Kafr Zita, Hama. ](/news/2014/04/12/syrian-civil-war-pchemical-weapons-are-used-again-in-syria-this-time-on-the-town-of-kafr-zita-hama.md)
-_Context: Hama, Syrian Civil War, chemical weapons_
+_Context: Hama, chemical weapons, war_
 
 ### [Gunmen gain control of a police department in the town of Slaviansk in the eastern Ukraine. ](/news/2014/04/12/gunmen-gain-control-of-a-police-department-in-the-town-of-slaviansk-in-the-eastern-ukraine.md)
 Ukraine appealed to Russia to halt &quot;provocative actions&quot; in its eastern regions on Saturday as pro-Russian militants seized two more government buildings and called for autonomy from Kiev.

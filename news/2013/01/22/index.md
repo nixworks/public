@@ -1,7 +1,7 @@
 ## [2013-01-22](/news/2013/01/22/index.md)
 
 ### [Syrian civil war:The government of Jordan says that more than 12,000 Syrians have fled to Jordan in the past six days. ](/news/2013/01/22/syrian-civil-war-pthe-government-of-jordan-says-that-more-than-12-000-syrians-have-fled-to-jordan-in-the-past-six-days.md)
-_Context: Jordan, Syria, Syrian Civil War_
+_Context: Jordan, Syria, war_
 
 ### [Iraqi insurgency:Car bombings in Baghdad kill at least 17 people and injure dozens of others. ](/news/2013/01/22/iraqi-insurgency-pcar-bombings-in-baghdad-kill-at-least-17-people-and-injure-dozens-of-others.md)
 Car bombs in and around the Iraqi capital, Baghdad, have killed at least 17 people and wounded dozens more, police say.

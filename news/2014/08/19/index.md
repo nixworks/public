@@ -7,7 +7,7 @@ Ukrainian government forces have conducted a series of successful offensives in 
 _Context: 2014 Israel-Gaza conflict, Hamas, Israel, Jerusalem, Tel Aviv_
 
 ### [2014 American intervention in Iraq and Syrian civil war:American journalist James Wright Foley, kidnapped in 2012, has reportedly been beheaded by Islamic State of Iraq and Syria. ](/news/2014/08/19/2014-american-intervention-in-iraq-and-syrian-civil-war-pamerican-journalist-james-wright-foley-kidnapped-in-2012-has-reportedly-been-behe.md)
-_Context: 2014 American intervention in Iraq, American, Islamic State of Iraq and Syria, James Wright Foley, Syrian Civil War_
+_Context: 2014 American intervention in Iraq, American, Islamic State of Iraq and Syria, James Wright Foley, war_
 
 ### [Iranian poet and one of the most prominent figures of modern Persian literature, Simin Behbahani dies at the age of 87. ](/news/2014/08/19/iranian-poet-and-one-of-the-most-prominent-figures-of-modern-persian-literature-simin-behbahani-dies-at-the-age-of-87.md)
 IBNA- After being in coma state for almost 13 days, the legendary Iranian poetess Simin Behbahani passed away in Pars Hospital of Tehran this morning, she was 87.

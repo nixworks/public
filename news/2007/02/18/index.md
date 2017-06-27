@@ -16,7 +16,7 @@ _Context: 2007 South Thailand bombings, South Thailand insurgency, Thailand_
 _Context:  Insurgency in Somalia, Mogadishu, car bomb_
 
 ### [ The U.S. and Israel will not work with a new Palestinian unity government unless it recognises Israel, Prime Minister Ehud Olmert has said. ](/news/2007/02/18/the-u-s-and-israel-will-not-work-with-a-new-palestinian-unity-government-unless-it-recognises-israel-prime-minister-ehud-olmert-has-said.md)
-_Context: Ehud Olmert, Israel, Palestinian, Prime Minister of Israel, U.S._
+_Context: Ehud Olmert, Israel, Israeli Prime Minister, Palestinian, U.S._
 
 ### [ Iraq War: 18 February 2007 Baghdad bombings: At least 56 people are killed and more than 120 injured in two car bombs in a Shia district of Baghdad, police sources have said. ](/news/2007/02/18/iraq-war-p-18-february-2007-baghdad-bombings-at-least-56-people-are-killed-and-more-than-120-injured-in-two-car-bombs-in-a-shia-district-o.md)
 _Context: 18 February 2007 Baghdad bombings, Baghdad, Iraq War, Shia, car bomb_

@@ -28,7 +28,7 @@ _Context: Evo Morales, President of Bolivia_
 Tree slices through school bus carrying 35 passengers, grades K-5, after accident in Chattanooga, Tenn.
 
 ### [President Barack Obama and Vladimir Putin meet in Peru on the sidelines of the Asia-Pacific Economic Cooperation conference to discuss involvement in the Syrian Civil War. ](/news/2016/11/21/president-barack-obama-and-vladimir-putin-meet-in-peru-on-the-sidelines-of-the-asia-pacific-economic-cooperation-conference-to-discuss-invol.md)
-_Context: APEC Peru 2016, Asia-Pacific Economic Cooperation, Barack Obama, Peru, Russia-United States relations, Syrian Civil War, Vladimir Putin_
+_Context: APEC Peru 2016, Asia-Pacific Economic Cooperation, Barack Obama, Peru, Russia-United States relations, Vladimir Putin, war_
 
 ### [Russia deploys its S-400 missile system in Kaliningrad, an exclave between Poland and Lithuania, in response to "NATO expansion" near its borders. The United States criticizes the move as "destabilizing" to Europe. Russia announced the planned deployment over a decade ago. ](/news/2016/11/21/russia-deploys-its-s-400-missile-system-in-kaliningrad-an-exclave-between-poland-and-lithuania-in-response-to-nato-expansion-near-its-bo.md)
 _Context: Kaliningrad, Lithuania, NATO, NATO-Russia relations, Poland, Russia, S-400 missile system, United States_

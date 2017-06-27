@@ -4,7 +4,7 @@
 THE forthcoming May 9 national and local elections have prompted the Foreign and Commonwealth Office (FCO) of the United Kingdom (UK) to issue a travel advisory to its nationals visiting the Philippines. In its updated Foreign Travel Advisory (Philippines), the FCO reminded British nationals that the national elections in the country is already set to take place on May 9. &quot;You should avoid large crowds and demonstrations and follow the advice of the local authorities,&quot; said the FCO.
 
 ### [The Syrian Observatory for Human Rights reports that airstrikes have killed at least seven people in Aleppo. ](/news/2016/04/22/the-syrian-observatory-for-human-rights-reports-that-airstrikes-have-killed-at-least-seven-people-in-aleppo.md)
-_Context: Aleppo, Syrian Civil War, Syrian Observatory for Human Rights_
+_Context: Aleppo, Syrian Observatory for Human Rights, war_
 
 ### [A suicide bomber kills at least nine people at a Shi'ite mosque in southwestern Baghdad. A second attacker was shot dead by security forces before he could detonate his explosives. ](/news/2016/04/22/a-suicide-bomber-kills-at-least-nine-people-at-a-shi-ite-mosque-in-southwestern-baghdad-a-second-attacker-was-shot-dead-by-security-forces.md)
 _Context: Baghdad, Iraqi Civil War (2014-present), Shi'ite_

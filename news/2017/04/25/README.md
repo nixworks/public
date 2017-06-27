@@ -19,7 +19,7 @@ Saudi Arabia is elected to the UN Commission on the Status of Women, despite the
 It comes amid heightened tensions, and fears North Korea is planning more nuclear or missile tests.
 
 ### [Prime Minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence saying the group "slanders IDF soldiers as war criminals"](/news/2017/04/25/prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refusal-t.md)
-_Context: Benjamin Netanyahu, Breaking the Silence, Germany-Israel relations, Israel Defense Forces, NGO, Prime Minister of Israel, Sigmar Gabriel, foreign minister of Germany, veteran_
+_Context: Benjamin Netanyahu, Breaking the Silence, Germany-Israel relations, Israel Defense Forces, Israeli Prime Minister, NGO, Sigmar Gabriel, foreign minister of Germany, veteran_
 
 ### [India is to provide every cow with a biometric dog tag, in an effort to prevent cattle smuggling. ](/news/2017/04/25/india-is-to-provide-every-cow-with-a-biometric-dog-tag-in-an-effort-to-prevent-cattle-smuggling.md)
 NEW DELHI: All cows, their calves, oxen and bulls in the country will be tagged with a tamper-proof Unique Identification Number (UIN) to stop their smuggling, the Centre told the Supreme Court on Monday.

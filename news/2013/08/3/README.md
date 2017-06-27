@@ -7,7 +7,7 @@ _Context: Afghanistan, India, Jalalabad, War in Afghanistan (2001-present), suic
 _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
 
 ### [Syrian civil war:Syrian rebels capture an ammunition depot with anti-tank missiles and rockets north of Damascus. ](/news/2013/08/3/syrian-civil-war-psyrian-rebels-capture-an-ammunition-depot-with-anti-tank-missiles-and-rockets-north-of-damascus.md)
-_Context: Damascus, Syria, Syrian Civil War, anti-tank missile_
+_Context: Damascus, Syria, anti-tank missile, war_
 
 ### [A man crashes his car into a crowd of pedestrians in Venice Beach, California, U.S., injuring eleven people and killing one. The driver fled the scene and was being sought by authorities, but later turned himself in. ](/news/2013/08/3/a-man-crashes-his-car-into-a-crowd-of-pedestrians-in-venice-beach-california-u-s-injuring-eleven-people-and-killing-one-the-driver-fled.md)
 Two people were seriously hurt, 2 more were critically injured after a car plowed into people on the Venice Boardwalk.

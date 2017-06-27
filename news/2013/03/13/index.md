@@ -7,7 +7,7 @@ _Context: 2013 Srinagar attack, Bemina, CRPF, India, Kashmir, Srinagar_
 _Context: Afghanistan, Kunduz Province, Taliban insurgency_
 
 ### [Syrian civil war:Ahmad Shihadeh, a member of the European Union's delegation in Syria, is killed in a rocket attack in a Damascus suburb. ](/news/2013/03/13/syrian-civil-war-pahmad-shihadeh-a-member-of-the-european-union-s-delegation-in-syria-is-killed-in-a-rocket-attack-in-a-damascus-suburb.md)
-_Context: Damascus, European Union, Syria, Syrian Civil War_
+_Context: Damascus, European Union, Syria, war_
 
 ### [Kurdish-Turkish conflict:Kurdish rebels release eight Turkish citizens that had been held captive for two years. ](/news/2013/03/13/kurdishaturkish-conflict-pkurdish-rebels-release-eight-turkish-citizens-that-had-been-held-captive-for-two-years.md)
 _Context: Kurdish, Kurdish-Turkish conflict, Turkey_

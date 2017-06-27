@@ -1,7 +1,7 @@
 ## [2013-02-8](/news/2013/02/8/index.md)
 
 ### [Syrian civil war:Over 110 people are killed nationwide by the Syrian army in Syria. ](/news/2013/02/8/syrian-civil-war-pover-110-people-are-killed-nationwide-by-the-syrian-army-in-syria.md)
-_Context: Syria, Syrian Army, Syrian Civil War_
+_Context: Syria, Syrian Army, war_
 
 ### [Iraqi insurgency (post-U.S. withdrawal):A string of bombings kill at least 29 people and injure 69 others in central Iraq, including twin blasts in Baghdad's Kadhimiya neighborhood, as well as the city of Hilla. ](/news/2013/02/8/iraqi-insurgency-post-u-s-withdrawal-pa-string-of-bombings-kill-at-least-29-people-and-injure-69-others-in-central-iraq-including-twin-b.md)
 At least 31 people killed and dozens wounded in car bombings in Shia-dominated areas.

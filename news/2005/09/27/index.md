@@ -22,7 +22,7 @@ _Context: Abu Azzam, Abu Musab al-Zarqawi, US soldiers_
 _Context: Gaza Strip, Israel, Israel Defense Forces, Israeli-Palestinian conflict, Khan Younis, Palestinian, West Bank, airstrike, bridge_
 
 ### [ The Prime Minister of Israel, Ariel Sharon, survives a major leadership challenge within the Likud Party.  The proposal, which would have ordered the next Party Leader election be held in October 2005 rather than April 2006, is voted down by the party's Central Committee, 48% to 52%. [http://news.yahoo.com/s/ap/20050927/ap_on_re_mi_ea/israel_palestinians;_ylt=AqUsWHAysiaRl2IWDnsIPX6s0NUE;_ylu=X3oDMTA3b2NibDltBHNlYwM3MTY- (Yahoo!News)] (Link dead as of 22:31, 14 January 2007 (UTC))](/news/2005/09/27/the-prime-minister-of-israel-ariel-sharon-survives-a-major-leadership-challenge-within-the-likud-party-the-proposal-which-would-have-o.md)
-_Context: 2005, 2006, Ariel Sharon, Likud Party, Prime Minister of Israel_
+_Context: 2005, 2006, Ariel Sharon, Israeli Prime Minister, Likud Party_
 
 ## [Previous Day...](/news/2005/09/26/index.md)
 

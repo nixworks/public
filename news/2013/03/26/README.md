@@ -7,7 +7,7 @@ Australia&#039;s main base in Afghanistan will close by the end of the year, wit
 The rebel leader whose fighters seized the capital of the Central African Republic says he is suspending the constitution and dissolving parliament.
 
 ### [Syrian civil war:The United Nations prepares to move about half of its international staff in Syria out of the country as violence creeps closer to UN facilities. ](/news/2013/03/26/syrian-civil-war-pthe-united-nations-prepares-to-move-about-half-of-its-international-staff-in-syria-out-of-the-country-as-violence-creeps-c.md)
-_Context: Syria, Syrian Civil War, United Nations_
+_Context: Syria, United Nations, war_
 
 ### [Iraqi insurgency (post-U.S. withdrawal):A roadside bombing kills the head of a local town council and a member of a provincial council in Tuz Khormato,  Saladin Province, Iraq. ](/news/2013/03/26/iraqi-insurgency-post-u-s-withdrawal-pa-roadside-bombing-kills-the-head-of-a-local-town-council-and-a-member-of-a-provincial-council-in-t.md)
 _Context:  Saladin Province, Iraq, Iraqi insurgency (post-U.S. withdrawal), Tuz Khormato_
@@ -28,7 +28,7 @@ A severe plague of locusts has infested about half of Madagascar, threatening cr
 Amanda Knox and her former boyfriend Raffaele Sollecito were acquitted on appeal in 2011 for the killing of Meredith Kercher &#8211; but now face a retrial. 
 
 ### [The Arab League summit begins in Qatar, Doha, with the Syria conflict and possible talks between the Afghanistan government and the Taliban among the key issues. ](/news/2013/03/26/the-arab-league-summit-begins-in-qatar-doha-with-the-syria-conflict-and-possible-talks-between-the-afghanistan-government-and-the-taliban.md)
-_Context: Afghan government's, Afghanistan, Arab League, Doha, Qatar, Syrian Civil War, Taliban, summit_
+_Context: Afghan government's, Afghanistan, Arab League, Doha, Qatar, Taliban, summit, war_
 
 ### [North Korea issues a new threat to strike targets on the United States mainland, Hawaii and Guam, as well as South Korea, days after a new US-South Korea military pact. ](/news/2013/03/26/north-korea-issues-a-new-threat-to-strike-targets-on-the-united-states-mainland-hawaii-and-guam-as-well-as-south-korea-days-after-a-new-u.md)
 _Context: Guam, Hawaii, North Korea, South Korea, US-South Korea, United States, continental United States, military pact_

@@ -4,7 +4,7 @@
 Pakistani authorities say a suicide bomber targeting policemen has killed four people in the main northwestern city of Peshawar.
 
 ### [Syrian Civil War:Syrian state TV reports that the Prime Minister Wael Nader Al-Halqi escaped an assassination attempt in the western Damascus suburb of Mazzeh when a bomb explodes near his convoy. ](/news/2013/04/29/syrian-civil-war-psyrian-state-tv-reports-that-the-prime-minister-wael-nader-al-halqi-escaped-an-assassination-attempt-in-the-western-damasc.md)
-_Context: Damascus, Mazzeh, Prime Minister, Syria, Syrian Civil War, Wael Nader Al-Halqi_
+_Context: Damascus, Mazzeh, Prime Minister, Syria, Wael Nader Al-Halqi, war_
 
 ### [A sixth French soldier is killed in Mali when his vehicle struck a roadside bomb, seriously injuring two more. ](/news/2013/04/29/a-sixth-french-soldier-is-killed-in-mali-when-his-vehicle-struck-a-roadside-bomb-seriously-injuring-two-more.md)
 A French soldier with the force that intervened in Mali has been killed by a roadside bomb in the far north of the country, French officials say.

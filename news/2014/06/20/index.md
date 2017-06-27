@@ -1,7 +1,7 @@
 ## [2014-06-20](/news/2014/06/20/index.md)
 
 ### [Syrian civil war:12 people including 9 children are killed when a Syrian army helicopter strikes a refugees camp south of Damascus. ](/news/2014/06/20/syrian-civil-war-p12-people-including-9-children-are-killed-when-a-syrian-army-helicopter-strikes-a-refugees-camp-south-of-damascus.md)
-_Context: Damascus, Syrian Civil War_
+_Context: Damascus, war_
 
 ### [2014 Northern Iraq offensive:US sends 300 military advisers to Iraq as battle rages in Baiji over the country's biggest oil refinery. ](/news/2014/06/20/2014-northern-iraq-offensive-pus-sends-300-military-advisers-to-iraq-as-battle-rages-in-baiji-over-the-country-s-biggest-oil-refinery.md)
 _Context: 2014 Northern Iraq offensive, Baiji_

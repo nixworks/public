@@ -7,7 +7,7 @@ _Context: Allacapan, Cagayan, New People's Army, Philippines police, land mine_
 At least 75 people have been killed in a wave of bombings in markets in Shi&#39;ite neighbourhoods across Baghdad in worsening sectarian violence in Iraq.
 
 ### [Syrian Civil War:The European Union lifts its ban against arming Syrian rebels as full consensus among its 27 member states to extend the current embargo could not be reached. ](/news/2013/05/27/syrian-civil-war-pthe-european-union-lifts-its-ban-against-arming-syrian-rebels-as-full-consensus-among-its-27-member-states-to-extend-the-c.md)
-_Context: European Union, Syrian Civil War_
+_Context: European Union, war_
 
 ### [Romania unfurls the world's largest flag ever made, according to Guinness World Records. ](/news/2013/05/27/romania-unfurls-the-world-s-largest-flag-ever-made-according-to-guinness-world-records.md)
 _Context: Guinness World Records, Romania, flag_

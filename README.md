@@ -1,5 +1,8 @@
 ## [News](/news/2017/06/26/index.md)
 
+### [According to the United Nations, FARC has completed its disarmament process, with former rebels due to make the transition to civilian life and the group to transform into a legal political party in the country. ](/news/2017/06/26/according-to-the-united-nations-farc-has-completed-its-disarmament-process-with-former-rebels-due-to-make-the-transition-to-civilian-life.md)
+The disarmament by the roughly 7,000 rebels brings Latin America&#39;s oldest civil conflict close to a formal end.
+
 ### [Chinese political activist and Nobel Peace Prize laureate Liu Xiaobo is released from prison on medical parole after being diagnosed with terminal liver cancer. ](/news/2017/06/26/chinese-political-activist-and-nobel-peace-prize-laureate-liu-xiaobo-is-released-from-prison-on-medical-parole-after-being-diagnosed-with-te.md)
 Liu was awarded Nobel peace prize in 2010 while serving 11-year sentence for inciting subversion of state power
 

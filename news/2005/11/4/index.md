@@ -13,7 +13,7 @@ _Context: Terrorism Act, United Kingdom_
 _Context: 2005 Paris suburb riots, France, riot_
 
 ### [ Israelis begin to mark the 10th anniversary of the assassination of Prime Minister Yitzhak Rabin. ](/news/2005/11/4/israelis-begin-to-mark-the-10th-anniversary-of-the-assassination-of-prime-minister-yitzhak-rabin.md)
-_Context: Israelis, Prime Minister of Israel, Yitzhak Rabin, assassinated_
+_Context: Israeli Prime Minister, Israelis, Yitzhak Rabin, assassinated_
 
 ### [ Massive demonstrations against U.S. President George W. Bush continue to grow at the Fourth Summit of the Americas in Mar del Plata, Argentina. ](/news/2005/11/4/massive-demonstrations-against-u-s-president-george-w-bush-continue-to-grow-at-the-fourth-summit-of-the-americas-in-mar-del-plata-argent.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

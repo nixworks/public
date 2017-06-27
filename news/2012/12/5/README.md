@@ -1,7 +1,7 @@
 ## [2012-12-5](/news/2012/12/5/index.md)
 
 ### [Syrian civil war:Hungary closes its embassy in Damascus and pulls out all personnel. ](/news/2012/12/5/syrian-civil-war-phungary-closes-its-embassy-in-damascus-and-pulls-out-all-personnel.md)
-_Context: Damascus, Hungary, Syrian Civil War_
+_Context: Damascus, Hungary, war_
 
 ### [2011-2012 conflict in Lebanon:The death toll from two days of clashes in the city of Tripoli reaches six, with dozens reported injured. ](/news/2012/12/5/2011a2012-conflict-in-lebanon-pthe-death-toll-from-two-days-of-clashes-in-the-city-of-tripoli-reaches-six-with-dozens-reported-injured.md)
 _Context: 2011-2012 conflict in Lebanon, Tripoli, Lebanon_

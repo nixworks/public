@@ -4,7 +4,7 @@
 _Context: Baghdad, Iraq, Iraqi insurgency (post-U.S. withdrawal), Tikrit, suicide bombing_
 
 ### [Syrian civil war:Lebanese gunmen kidnap eight Syrians from the Alawites minority and demand a hostage exchange. ](/news/2013/04/1/syrian-civil-war-plebanese-gunmen-kidnap-eight-syrians-from-the-alawites-minority-and-demand-a-hostage-exchange.md)
-_Context: Alawite, Lebanon, Syria, Syrian Civil War_
+_Context: Alawite, Lebanon, Syria, war_
 
 ### [Eli Reimer, aged sixteen, becomes the first teenager with Down syndrome to climb to Mount Everest's Base Camp. ](/news/2013/04/1/eli-reimer-aged-sixteen-becomes-the-first-teenager-with-down-syndrome-to-climb-to-mount-everest-s-base-camp.md)
 One teenager has made history by being the first child with Down syndrome to climb to Mt. Everest’s base camp

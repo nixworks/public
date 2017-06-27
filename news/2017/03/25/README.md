@@ -7,7 +7,7 @@ Bangladesh has seen an escalation of suspected jihadist violence in recent weeks
 _Context: Afghan police, Logar Province, War in Afghanistan (2015-present)_
 
 ### [At least 16 people are killed by multiple airstrikes on a prison in Idlib, according to the Syrian Observatory for Human Rights. ](/news/2017/03/25/at-least-16-people-are-killed-by-multiple-airstrikes-on-a-prison-in-idlib-according-to-the-syrian-observatory-for-human-rights.md)
-_Context: Idlib, Syrian Civil War, Syrian Observatory for Human Rights_
+_Context: Idlib, Syrian Observatory for Human Rights, war_
 
 ### [In response to several Israeli airstrikes against suspected Hezbollah-related targets inside Syria, Syrian president Bashar al-Assad has threatened wider war with the State of Israel, stating its intention to fire Scud missiles, and specifically target the Israeli city of Haifa. Israel responded by stating that any such actions by the Assad regime, or attacks on its aircraft, will cause Israel to "annihilate" Syrian air defense systems. ](/news/2017/03/25/in-response-to-several-israeli-airstrikes-against-suspected-hezbollah-related-targets-inside-syria-syrian-president-bashar-al-assad-has-thr.md)
 _Context: Bashar al-Assad, Haifa, Hezbollah, Israel, March 2017 Israel-Syria incident, Scud, Syria_

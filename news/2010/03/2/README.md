@@ -1,7 +1,7 @@
 ## [2010-03-2](/news/2010/03/2/index.md)
 
 ### [Assassination of Mahmoud al-Mabhouh:Police in Dubai order an arrest warrant for Israeli Prime Minister Benjamin Netanyahu and the head of Mossad in connection with the assassination of Mahmoud al-Mabhouh. ](/news/2010/03/2/assassination-of-mahmoud-al-mabhouh-ppolice-in-dubai-order-an-arrest-warrant-for-israeli-prime-minister-benjamin-netanyahu-and-the-head-of-m.md)
-_Context: Benjamin Netanyahu, Dubai, Israel, Mossad, Prime Minister of Israel, the assassination_
+_Context: Benjamin Netanyahu, Dubai, Israel, Israeli Prime Minister, Mossad, the assassination_
 
 ### [Agathe Habyarimana, the widow of former Rwandan President Juvnal Habyarimana, accused of helping plan the 1994 genocide, is arrested in France. ](/news/2010/03/2/agathe-habyarimana-the-widow-of-former-rwandan-president-juvenal-habyarimana-accused-of-helping-plan-the-1994-genocide-is-arrested-in-fra.md)
 _Context: Agathe Habyarimana, France, Juvnal Habyarimana, Rwanda, Rwandan Genocide_

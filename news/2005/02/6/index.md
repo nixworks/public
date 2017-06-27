@@ -4,7 +4,7 @@
 _Context: New England Patriots, Philadelphia Eagles, Super Bowl_
 
 ### [ US Secretary of State Condoleezza Rice arrives in Israel to meet with Israeli Prime Minister Ariel Sharon and Palestinian Authority President Mahmoud Abbas. ](/news/2005/02/6/us-secretary-of-state-condoleezza-rice-arrives-in-israel-to-meet-with-israeli-prime-minister-ariel-sharon-and-palestinian-authority-preside.md)
-_Context: Ariel Sharon, Condoleezza Rice, Israel, Mahmoud Abbas, President of the Palestinian Authority, Prime Minister of Israel, United States Secretary of State_
+_Context: Ariel Sharon, Condoleezza Rice, Israel, Israeli Prime Minister, Mahmoud Abbas, President of the Palestinian Authority, United States Secretary of State_
 
 ### [ Thai Prime Minister Thaksin Shinawatra wins an unprecedented second term as prime minister, in the greatest electoral sweep in the nation's history. ](/news/2005/02/6/thai-prime-minister-thaksin-shinawatra-wins-an-unprecedented-second-term-as-prime-minister-in-the-greatest-electoral-sweep-in-the-nation-s.md)
 _Context: Prime Minister, Thaksin, greatest electoral sweep_

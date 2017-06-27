@@ -13,7 +13,7 @@ Kismayo, last stronghold of Islamist group al-Shabab militia, attacked in prepar
 A suicide bomber attacks a funeral in the eastern Afghan province of Nangarhar, killing at least 25 civilians including the son of a district governor, officials say.
 
 ### [Syrian civil war:The United Nations Refugee Agency says 100,000 Syrians fled to another country during the month of August, the highest monthly number yet in the 18-month conflict. ](/news/2012/09/4/syrian-civil-war-pthe-united-nations-refugee-agency-says-100-000-syrians-fled-to-another-country-during-the-month-of-august-the-highest-mon.md)
-_Context: Syrian Civil War, United Nations Refugee Agency, refugees from Syria_
+_Context: United Nations Refugee Agency, refugees from Syria, war_
 
 ### [Airbus expects a worldwide total demand for 28,200 civil aircraft by the year 2031, more than doubling today's fleet in operation. ](/news/2012/09/4/airbus-expects-a-worldwide-total-demand-for-28-200-civil-aircraft-by-the-year-2031-more-than-doubling-today-s-fleet-in-operation.md)
 _Context: Airbus, civil aircraft_

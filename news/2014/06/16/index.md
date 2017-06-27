@@ -7,7 +7,7 @@ Officials said the addition of the USS Mesa Verde will give the White House &quo
 _Context: North Waziristan, Pakistan Air Force, Tehrik-i-Taliban Pakistan, War in North-West Pakistan_
 
 ### [Syrian Civil War:A barrel bomb is dropped from a helicopter in Aleppo, Syria, killing at least 25 people. ](/news/2014/06/16/syrian-civil-war-pa-barrel-bomb-is-dropped-from-a-helicopter-in-aleppo-syria-killing-at-least-25-people.md)
-_Context: Aleppo, Syria, Syrian Civil War, barrel bomb_
+_Context: Aleppo, Syria, barrel bomb, war_
 
 ### [2014 pro-Russian conflict in Ukraine:Ukraine's president Petro Poroshenko says he will put forward a detailed peace plan that will include a ceasefire in the conflict. ](/news/2014/06/16/2014-pro-russian-conflict-in-ukraine-pukraine-s-president-petro-poroshenko-says-he-will-put-forward-a-detailed-peace-plan-that-will-include.md)
 _Context: 2014 pro-Russian conflict in Ukraine, Petro Poroshenko, Ukraine_

@@ -1,7 +1,7 @@
 ## [2005-05-4](/news/2005/05/4/index.md)
 
 ### [ Israeli-Palestinian Conflict: Israel freezes the handover of West Bank Palestinian towns to the Palestinian Authority. Israel claims they will resume the handover process when militant groups are disarmed. The Prime Minister of Israel, Ariel Sharon, had agreed to hand over five West Bank towns to Palestinian control, but thus far has only handed over Tulkarm and Jericho. ](/news/2005/05/4/israeli-palestinian-conflict-p-israel-freezes-the-handover-of-west-bank-palestinian-towns-to-the-palestinian-authority-israel-claims-they.md)
-_Context: Ariel Sharon, Israel, Israeli-Palestinian conflict, Jericho, Palestinian, Palestinian Authority, Prime Minister of Israel, Tulkarm, West Bank_
+_Context: Ariel Sharon, Israel, Israeli Prime Minister, Israeli-Palestinian conflict, Jericho, Palestinian, Palestinian Authority, Tulkarm, West Bank_
 
 ### [ War on Terrorism: The Pakistani government announces that it has captured Abu Faraj al-Libbi. If verified, this is the most important Al-Qaeda suspect to have been arrested thus far. ](/news/2005/05/4/war-on-terrorism-p-the-pakistani-government-announces-that-it-has-captured-abu-faraj-al-libbi-if-verified-this-is-the-most-important-al-q.md)
 _Context: Abu Faraj al-Libbi, Pakistan, War on Terrorism, al-Qaeda_

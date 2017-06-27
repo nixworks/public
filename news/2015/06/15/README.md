@@ -7,7 +7,7 @@ _Context: Boko Haram, Chad, N'Djamena_
 Over a hundred Baluch militants fighting against Pakistani forces in the separatist-insurgency wracked southwestern Baluchistan province have surrendered and pledged their allegiance to the country, officials said on Sunday. A group of 59 militants including two key commanders appeared before the media
 
 ### [Kurdish YPG forces and Free Syrian Army rebels seize control of the ISIL stronghold of Tell Abyad in northern Al-Raqqah Governorate. ](/news/2015/06/15/kurdish-ypg-forces-and-free-syrian-army-rebels-seize-control-of-the-isil-stronghold-of-tell-abyad-in-northern-al-raqqah-governorate.md)
-_Context: Al-Raqqah Governorate, Free Syrian Army, ISIL, Syrian Civil War, Tell Abyad, YPG_
+_Context: Al-Raqqah Governorate, Free Syrian Army, ISIL, Tell Abyad, YPG, war_
 
 ### [The 800th anniversary of the sealing of the Magna Carta by King John of England is commemorated around the world. ](/news/2015/06/15/the-800th-anniversary-of-the-sealing-of-the-magna-carta-by-king-john-of-england-is-commemorated-around-the-world.md)
 _Context: King John of England, Magna Carta_

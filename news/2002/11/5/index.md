@@ -7,7 +7,7 @@ _Context: Harvey Pitt, SEC_
 _Context: 2002 midterm elections, Democratic Party, Election Day, R, United States House of Representatives, United States Senate, state governors'_
 
 ### [ Israeli Prime Minister Ariel Sharon dissolves the Knesset and calls for elections early the next year.](/news/2002/11/5/israeli-prime-minister-ariel-sharon-dissolves-the-knesset-and-calls-for-elections-early-the-next-year.md)
-_Context: Ariel Sharon, Prime Minister of Israel, elections early the next year, parliament in Israel_
+_Context: Ariel Sharon, Israeli Prime Minister, elections early the next year, parliament in Israel_
 
 ### [ UK Conservative Party leader Iain Duncan Smith made what was widely considered to be a disastrous speech where he demanded that his party "unite or die"; observers believe that this marks the start of a new leadership struggle within the Conservative Party.](/news/2002/11/5/uk-conservative-party-leader-iain-duncan-smith-made-what-was-widely-considered-to-be-a-disastrous-speech-where-he-demanded-that-his-party.md)
 _Context: Conservative Party, Iain Duncan Smith_

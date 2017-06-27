@@ -7,7 +7,7 @@ _Context: He Pingping, Rome_
 Cardinal Sean Brady represented the Church at meetings when two victims of Fr Brendan Smyth signed an oath of silence.
 
 ### [Israeli Prime Minister Binyamin Netanyahu launches an inquiry into how plans for hundreds of new homes in East Jerusalem were announced.](/news/2010/03/13/israeli-prime-minister-binyamin-netanyahu-launches-an-inquiry-into-how-plans-for-hundreds-of-new-homes-in-east-jerusalem-were-announced.md)
-_Context: Benjamin Netanyahu, East Jerusalem, Prime Minister of Israel_
+_Context: Benjamin Netanyahu, East Jerusalem, Israeli Prime Minister_
 
 ### [Eli Ohren turned 17](/news/2010/03/13/eli-ohren-turned-17.md)
 ### [The Georgian television station Imedi sparks panic throughout Georgia by broadcasting a fake news item about a supposed invasion of Russian troops and the murder of President Mikheil Saakashvili. ](/news/2010/03/13/the-georgian-television-station-imedi-sparks-panic-throughout-georgia-by-broadcasting-a-fake-news-item-about-a-supposed-invasion-of-russian.md)

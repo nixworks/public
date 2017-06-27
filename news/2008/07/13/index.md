@@ -1,7 +1,7 @@
 ## [2008-07-13](/news/2008/07/13/index.md)
 
 ### [ The Prime Minister of Israel Ehud Olmert states that Israel has agreed to swap five prisoners with Hezbollah  to provide the bodies of two Israeli soldiers captured in 2006. ](/news/2008/07/13/the-prime-minister-of-israel-ehud-olmert-states-that-israel-has-agreed-to-swap-five-prisoners-with-hezbollah-to-provide-the-bodies-of-two.md)
-_Context: Ehud Olmert, Hezbollah, Israel, Prime Minister of Israel_
+_Context: Ehud Olmert, Hezbollah, Israel, Israeli Prime Minister_
 
 ### [ A suicide bomber blows himself up next to a police patrol in Oruzgan Province of Afghanistan killing at least 18 people. ](/news/2008/07/13/a-suicide-bomber-blows-himself-up-next-to-a-police-patrol-in-ora-zgan-province-of-afghanistan-killing-at-least-18-people.md)
 _Context: Afghanistan, Oruzgan Province, suicide bomber_

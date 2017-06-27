@@ -4,7 +4,7 @@
 _Context: Afghan military, Afghanistan, International Security Assistance Force, Paktika Province, United States military, War in Afghanistan (2001-present)_
 
 ### [Syrian civil war:The Syrian military captures the town of Al-Buwaydah al-Sharqiyah. ](/news/2013/06/8/syrian-civil-war-pthe-syrian-military-captures-the-town-of-al-buwaydah-al-sharqiyah.md)
-_Context: Al-Buwaydah al-Sharqiyah, Syrian Civil War, military_
+_Context: Al-Buwaydah al-Sharqiyah, military, war_
 
 ### [Clashes between protestors and militia members in Benghazi, Libya, leads to at least 27 deaths and 117 injuries. ](/news/2013/06/8/clashes-between-protestors-and-militia-members-in-benghazi-libya-leads-to-at-least-27-deaths-and-117-injuries.md)
 _Context: Benghazi_

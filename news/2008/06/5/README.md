@@ -25,7 +25,7 @@ _Context: ''Rdhuset'' court house, Carl Westman, Stockholm_
 _Context: Constitutional Court of Turkey, Turkey, hijab, reinstates a ban, secular foundation_
 
 ### [ Prime Minister of Israel Ehud Olmert says that "the end of Iran's nuclear program is near". ](/news/2008/06/5/prime-minister-of-israel-ehud-olmert-says-that-the-end-of-iran-s-nuclear-program-is-near.md)
-_Context: Ehud Olmert, Iran's nuclear program, Prime Minister of Israel_
+_Context: Ehud Olmert, Iran's nuclear program, Israeli Prime Minister_
 
 ### [ Burma detains activist and comedian Zarganar who has been involved in private relief efforts for the victims of Cyclone Nargis and seize his computer and banned films including ''Rambo''. ](/news/2008/06/5/burma-detains-activist-and-comedian-zarganar-who-has-been-involved-in-private-relief-efforts-for-the-victims-of-cyclone-nargis-and-seize-hi.md)
 Myanmar has detained a top activist comedian involved in a private aid effort for cyclone victims, a relative said, as U.S. warships sailed away on Thursday after the military junta refused to accept their aid offer.

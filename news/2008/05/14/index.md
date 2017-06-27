@@ -19,7 +19,7 @@ _Context: Arctic Ocean, United States Department of the Interior, global warming
 _Context: Baghdad, funeral, suicide bomber_
 
 ### [  The Prime Minister of Israel Ehud Olmert warns Hamas that Israel will "not tolerate" attacks. ](/news/2008/05/14/the-prime-minister-of-israel-ehud-olmert-warns-hamas-that-israel-will-not-tolerate-attacks.md)
-_Context: Ehud Olmert, Hamas, Israel, Prime Minister of Israel_
+_Context: Ehud Olmert, Hamas, Israel, Israeli Prime Minister_
 
 ### [ NATO raises concerns about an increase in insurgent attacks in Afghanistan and raises concern that it is partly due to agreements between Pakistan and militants in the Federally Administered Tribal Areas of Pakistan. ](/news/2008/05/14/nato-raises-concerns-about-an-increase-in-insurgent-attacks-in-afghanistan-and-raises-concern-that-it-is-partly-due-to-agreements-between-p.md)
 NATO announced a sharp increase in insurgent attacks in east Afghanistan on Wednesday and raised concerns that it was partly due to pacts between Pakistan and militants in tribal areas on its side of the border.
