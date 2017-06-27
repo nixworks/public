@@ -6,6 +6,9 @@ Liu was awarded Nobel peace prize in 2010 while serving 11-year sentence for inc
 ### [The Supreme Court of the United States partially reinstates President Donald Trump's travel ban and invalidates certain injunctions that were put on the order by two federal appeals courts earlier. Final oral hearings concerning the legality of the Executive Order 13780 will be held in October 2017 at the Supreme Court. ](/news/2017/06/26/the-supreme-court-of-the-united-states-partially-reinstates-president-donald-trump-s-travel-ban-and-invalidates-certain-injunctions-that-wer.md)
 The US Supreme Court partly implements the travel and refugee bans pending a full review in October.
 
+### [Mongolians go to the polls to elect a new president. The centre-right Democratic Party's Battulga Khaltmaa wins a plurality of votes, but falls short of a majority, necessitating a second round. ](/news/2017/06/26/mongolians-go-to-the-polls-to-elect-a-new-president-the-centre-right-democratic-party-s-battulga-khaltmaa-wins-a-plurality-of-votes-but-fa.md)
+_Context: Battulga Khaltmaa, Democratic Party, Mongolia, Mongolian presidential election, 2017, plurality, president, second round_
+
 ### [Philippines President Rodrigo Duterte makes another lengthy absence from any public appearance after missing the Independence Day celebrations earlier in June. Rumors about his health continue to circulate within the minority although government officials deny any issues. ](/news/2017/06/26/philippines-president-rodrigo-duterte-makes-another-lengthy-absence-from-any-public-appearance-after-missing-the-independence-day-celebratio.md)
 _Context: Independence Day, Philippines, Presidency of Rodrigo Duterte, Rodrigo Duterte_
 
