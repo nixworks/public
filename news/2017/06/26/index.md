@@ -4,7 +4,7 @@
 The disarmament by the roughly 7,000 rebels brings Latin America&#39;s oldest civil conflict close to a formal end.
 
 ### [Three CNN journalists, Thomas Frank, Eric Lichtblau, and Lex Haris (executive editor in charge of a new investigative unit), resign after the publication of a Russia-related article involving President Donald Trump that was retracted. ](/news/2017/06/26/three-cnn-journalists-thomas-frank-eric-lichtblau-and-lex-haris-executive-editor-in-charge-of-a-new-investigative-unit-resign-after-th.md)
-_Context: CNN, Donald Trump, Eric Lichtblau, Lex Haris, Russian interference in the 2016 United States elections_
+_Context: CNN, CNN controversies, Donald Trump, Eric Lichtblau, Lex Haris_
 
 ### [Michael P. McCarthy (ex-boyfriend of Bella's mother) is found guilty of second-degree murder in the killing of Bella Bond. ](/news/2017/06/26/michael-p-mccarthy-ex-boyfriend-of-bella-s-mother-is-found-guilty-of-second-degree-murder-in-the-killing-of-bella-bond.md)
 A Massachusetts man has been convicted of second-degree murder in the 2015 death of a 2-year-old girl who became known as Baby Doe after her remains washed up on the shores of a Boston Harbor island.
