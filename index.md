@@ -3,7 +3,7 @@
 ### [The European Commission impose a record $2.7bn antitrust fine on search engine giant Google. This is related to manipulation of its search engine results. ](/news/2017/06/27/the-european-commission-impose-a-record-2-7bn-antitrust-fine-on-search-engine-giant-google-this-is-related-to-manipulation-of-its-search-e.md)
 European antitrust regulators slapped Google with a record €2.4 billion ($2.7 billion) fine on Tuesday.
 
-### [''Bosnian genocide''; ''Ethnic cleansing in the Bosnian War''A appeals court of The Hague ruled the Dutch State was partly to blame for the deaths of some 350 Muslim Bosnians men in the 1995 Srebrenica genocide, and in a move, considered landmark, ordered it to pay limited damages. ](/news/2017/06/27/bosnian-genocide-ethnic-cleansing-in-the-bosnian-war-pa-appeals-court-of-the-hague-ruled-the-dutch-state-was-partly-to-blame-for-the.md)
+### [Bosnian genocide; An appeals court of The Hague rules that the Dutch State was partly to blame for the deaths of some 350 Muslim Bosnians men in the 1995 Srebrenica genocide and, in a move considered landmark, orders it to pay limited damages. ](/news/2017/06/27/bosnian-genocide-an-appeals-court-of-the-hague-rules-that-the-dutch-state-was-partly-to-blame-for-the-deaths-of-some-350-muslim-bosnians-me.md)
 A Dutch appeals court ruled on Tuesday the state was partly to blame for the deaths of some 350 Muslim men in the 1995 Srebrenica genocide, and in a landmark move ordered it to pay limited damages.
 
 ### [A major ransomware cyberattack strikes companies across the globe. ](/news/2017/06/27/a-major-ransomware-cyberattack-strikes-companies-across-the-globe.md)
@@ -43,6 +43,9 @@ _Context: Independence Day, Presidency of Rodrigo Duterte, President of the Phil
 
 ### [The Jewish Agency for Israel Board of Governors cancels Monday's dinner with Israeli Prime Minister Benjamin Netanyahu to protest Sunday's decision by his cabinet to rescind plans for a mixed-gender prayer area at Jerusalem's Western Wall, a compromise agreement reached after three years of intense negotiations. ](/news/2017/06/26/the-jewish-agency-for-israel-board-of-governors-cancels-monday-s-dinner-with-israeli-prime-minister-benjamin-netanyahu-to-protest-sunday-s-d.md)
 _Context: Benjamin Netanyahu, Board of Governors, Israeli Prime Minister, Jewish Agency for Israel, Politics of Israel, Western Wall_
+
+### [A fire in a multi-family building of the peruvian city of Chiclayo kills 7 people, including a pregnant woman. ](/news/2017/06/26/a-fire-in-a-multi-family-building-of-the-peruvian-city-of-chiclayo-kills-7-people-including-a-pregnant-woman.md)
+_Context: Chiclayo_
 
 ---
 

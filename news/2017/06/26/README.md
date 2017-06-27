@@ -24,5 +24,8 @@ _Context: Independence Day, Presidency of Rodrigo Duterte, President of the Phil
 ### [The Jewish Agency for Israel Board of Governors cancels Monday's dinner with Israeli Prime Minister Benjamin Netanyahu to protest Sunday's decision by his cabinet to rescind plans for a mixed-gender prayer area at Jerusalem's Western Wall, a compromise agreement reached after three years of intense negotiations. ](/news/2017/06/26/the-jewish-agency-for-israel-board-of-governors-cancels-monday-s-dinner-with-israeli-prime-minister-benjamin-netanyahu-to-protest-sunday-s-d.md)
 _Context: Benjamin Netanyahu, Board of Governors, Israeli Prime Minister, Jewish Agency for Israel, Politics of Israel, Western Wall_
 
+### [A fire in a multi-family building of the peruvian city of Chiclayo kills 7 people, including a pregnant woman. ](/news/2017/06/26/a-fire-in-a-multi-family-building-of-the-peruvian-city-of-chiclayo-kills-7-people-including-a-pregnant-woman.md)
+_Context: Chiclayo_
+
 ## [Previous Day...](/news/2017/06/25/index.md)
 
