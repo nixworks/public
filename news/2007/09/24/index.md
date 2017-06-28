@@ -16,7 +16,7 @@ _Context: Ban Ki-moon, Secretary General, United Nations, climate change_
 The first national strike against G.M. by the auto workers union since 1970 began today after the two sides failed to reach an agreement on a contract.
 
 ### [ President Luiz Incio Lula da Silva says that he will defend Brazil's record on global climate change when he addresses the United Nations General Assembly this week. ](/news/2007/09/24/president-luiz-inacio-lula-da-silva-says-that-he-will-defend-brazil-s-record-on-global-climate-change-when-he-addresses-the-united-nations.md)
-_Context: Brazil, Luiz Incio Lula da Silva, President, United Nations General Assembly, climate change_
+_Context: Brazil, Brazilian President, Luiz Incio Lula da Silva, United Nations General Assembly, climate change_
 
 ### [ Brazil's stock market rises to a record 58,393.75 points and the country's currency, the real, gains 0.11 percent to 1.867 per U.S. dollar. ](/news/2007/09/24/brazil-s-stock-market-rises-to-a-record-58-393-75-points-and-the-country-s-currency-the-real-gains-0-11-percent-to-1-867-per-u-s-dollar.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

@@ -19,7 +19,7 @@ _Context: Johannesburg, Senzo Meyiwa, South Africa national football team, goalk
 Tunisia votes in the first election to be held under its new constitution, which was passed this year following an uprising in 2011.
 
 ### [Voters in Brazil go to the polls for the second round of a presidential election with incumbent President Dilma Rousseff re-elected. ](/news/2014/10/26/voters-in-brazil-go-to-the-polls-for-the-second-round-of-a-presidential-election-with-incumbent-president-dilma-rousseff-re-elected.md)
-_Context: 2014, Brazil, Dilma Rousseff, President_
+_Context: 2014, Brazil, Brazilian President, Dilma Rousseff_
 
 ### [Voters in Uruguay go to the polls for a general election with the presidential election expected to go to a second round. ](/news/2014/10/26/voters-in-uruguay-go-to-the-polls-for-a-general-election-with-the-presidential-election-expected-to-go-to-a-second-round.md)
 _Context: Uruguay, Uruguayan general election, 2014_

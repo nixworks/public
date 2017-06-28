@@ -37,7 +37,7 @@ Republicans will face off in Arizona and Utah, while Democrats battle it out in 
 He may never be commemorated with a statue or have a park named after him, but Rob Ford, who died today, left as much of a mark on Toronto as Allan...
 
 ### [Brazil President Dilma Rousseff says she will not resign under any circumstances because she hadn't committed a crime, and equated a bid to impeach her to a coup d'etat against democratic rule.  A congressional impeachment committee has started hearings.  Rousseff could be suspended if the Chamber of Deputies approves the motion to impeach. The president urged the Supreme Court to remain impartial in this political crisis.   ](/news/2016/03/22/brazil-president-dilma-rousseff-says-she-will-not-resign-under-any-circumstances-because-she-hadn-t-committed-a-crime-and-equated-a-bid-to.md)
-_Context: 2015-16 protests in Brazil, Brazil's Chamber of Deputies, Dilma Rousseff, President, Supreme Federal Court, coup_
+_Context: 2015-16 protests in Brazil, Brazil's Chamber of Deputies, Brazilian President, Dilma Rousseff, Supreme Federal Court, coup_
 
 ## [Previous Day...](/news/2016/03/21/index.md)
 

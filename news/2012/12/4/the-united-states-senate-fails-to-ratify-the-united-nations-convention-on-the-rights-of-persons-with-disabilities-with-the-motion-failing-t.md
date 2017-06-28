@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [According to the United Nations, FARC has completed its disarmament process, with former rebels due to make the transition to civilian life and the group to transform into a legal political party in the country. ](/news/2017/06/26/according-to-the-united-nations-farc-has-completed-its-disarmament-process-with-former-rebels-due-to-make-the-transition-to-civilian-life.md) _Context: United Nations_
+1. [The United Nations confirms that the FARC has completed its disarmament process, with former rebels due to make the transition to civilian life and the group to transform into a legal political party in the country. ](/news/2017/06/26/the-united-nations-confirms-that-the-farc-has-completed-its-disarmament-process-with-former-rebels-due-to-make-the-transition-to-civilian-l.md) _Context: United Nations_
 2. [The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and against Iran. Language in the measure also reaffirms United States' commitment to NATO. ](/news/2017/06/16/the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping-up-sanctions-against-russia-and-against-iran-language-in-the-mea.md) _Context: United States Senate_
 3. [The United States Senate confirms Heather Wilson as Secretary of the Air Force. ](/news/2017/05/8/the-united-states-senate-confirms-heather-wilson-as-secretary-of-the-air-force.md) _Context: United States Senate_
 4. [The United Nations Human Rights Council conducts a periodic review of the human rights situation in the Philippines. ](/news/2017/05/8/the-united-nations-human-rights-council-conducts-a-periodic-review-of-the-human-rights-situation-in-the-philippines.md) _Context: United Nations_

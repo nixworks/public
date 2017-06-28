@@ -61,7 +61,7 @@ Israeli army offiocial tell inquiry that troops were right to use live ammunitio
 _Context: George J. Mitchell, Israel, Mahmoud Abbas, Palestine Liberation Organization's, United States, diplomatic Quartet_
 
 ### [President Luiz Inacio Lula da Silva signs a decree promising Brazil's co-operation with United Nations sanctions against Iran. ](/news/2010/08/11/president-luiz-ina-cio-lula-da-silva-signs-a-decree-promising-brazil-s-co-operation-with-united-nations-sanctions-against-iran.md)
-_Context: Brazil, Iran, Lula, President, United Nations_
+_Context: Brazil, Brazilian President, Iran, Lula, United Nations_
 
 ### [Former Iranian presidential candidate Mehdi Karroubi suggests that American and British sanctions on Iran increase the power of Mahmoud Ahmadinejad's government. ](/news/2010/08/11/former-iranian-presidential-candidate-mehdi-karroubi-suggests-that-american-and-british-sanctions-on-iran-increase-the-power-of-mahmoud-ahma.md)
 _Context: Iran, Mahmoud Ahmadinejad, Mehdi Karroubi_

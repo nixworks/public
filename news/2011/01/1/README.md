@@ -31,7 +31,7 @@ _Context: European Union, Hungary, the Council of_
 _Context: Ford Open Prison, West Sussex, prison riot_
 
 ### [Dilma Rousseff is sworn in as Brazil's first female President. ](/news/2011/01/1/dilma-rousseff-is-sworn-in-as-brazil-s-first-female-president.md)
-_Context: Brazil, Dilma Rousseff, President_
+_Context: Brazil, Brazilian President, Dilma Rousseff_
 
 ### [The Bolivian government rescinds a government decree that significantly increased fuel prices after violent unrest. ](/news/2011/01/1/the-bolivian-government-rescinds-a-government-decree-that-significantly-increased-fuel-prices-after-violent-unrest.md)
 After week of strikes and demonstrations, South American country cancels decree that saw fuel costs soar.

@@ -16,7 +16,7 @@ Low-key announcement on Twitter, video and email will serve as early test of ‘
 Prime Minister Shinzo Abe’s Liberal Democratic Party cruised to victory in Japan’s local elections, as voter turnout likely remained at record-low levels throughout the country.
 
 ### [Large protests in Brazil call for the impeachment of President of Brazil Dilma Rousseff due to a scandal involving members of her Workers Party receiving kickbacks from the state run oil company Petrobras. ](/news/2015/04/12/large-protests-in-brazil-call-for-the-impeachment-of-president-of-brazil-dilma-rousseff-due-to-a-scandal-involving-members-of-her-workers-pa.md)
-_Context: 2015 protests in Brazil, Dilma Rousseff, Petrobras, President, Workers' Party_
+_Context: 2015 protests in Brazil, Brazilian President, Dilma Rousseff, Petrobras, Workers' Party_
 
 ## [Previous Day...](/news/2015/04/11/index.md)
 

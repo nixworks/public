@@ -52,7 +52,7 @@ Darfur voters are divided on whether or not the referendum is a priority concern
 Issues of changing a certain article of the South Ossetian constitution will be put to referendum, which will make it possible in the future to ask the Russian leadership to incorporate the republic
 
 ### [A committee of Brazil's Chamber of Deputies votes 38-27 to recommend the impeachment of President Dilma Rousseff, who faces charges of breaking budget laws to support her re-election in 2014. ](/news/2016/04/11/a-committee-of-brazil-s-chamber-of-deputies-votes-38-27-to-recommend-the-impeachment-of-president-dilma-rousseff-who-faces-charges-of-break.md)
-_Context: 2014, 2015-16 protests in Brazil, Brazil, Brazil's Chamber of Deputies, Dilma Rousseff, Impeachment process against Dilma Rousseff, President_
+_Context: 2014, 2015-16 protests in Brazil, Brazil, Brazil's Chamber of Deputies, Brazilian President, Dilma Rousseff, Impeachment process against Dilma Rousseff_
 
 ## [Previous Day...](/news/2016/04/10/index.md)
 
