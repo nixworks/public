@@ -29,7 +29,7 @@ The European Commission penalises the US tech giant for illegally favouring its 
 ### [Aftermath of the Bosnian War and An appeals court in The Hague rules that Netherlands is partly to blame for the deaths of some 350 Muslim Bosnian men in the 1995 Srebrenica genocide and, in a move considered landmark, orders it to pay limited damages. ](/news/2017/06/27/aftermath-of-the-bosnian-war-and-an-appeals-court-in-the-hague-rules-that-netherlands-is-partly-to-blame-for-the-deaths-of-some-350-muslim-b.md)
 A Dutch appeals court ruled on Tuesday the state was partly to blame for the deaths of some 350 Muslim men in the 1995 Srebrenica genocide, and in a landmark move ordered it to pay limited damages.
 
-### [A major ransomware cyberattack strikes companies across the globe. ](/news/2017/06/27/a-major-ransomware-cyberattack-strikes-companies-across-the-globe.md)
+### [A major ransomware cyberattack strikes companies across the globe, and 80% of all infections were in Ukraine. ](/news/2017/06/27/a-major-ransomware-cyberattack-strikes-companies-across-the-globe-and-80-of-all-infections-were-in-ukraine.md)
 Banks, retailers, energy firms and Kiev airport say they have been targeted by malware attacks.
 
 ### [Brazilian President Michel Temer is charged with corruption by Prosecutor General Rodrigo Janot. The case will now go to the Supreme Federal Court. ](/news/2017/06/27/brazilian-president-michel-temer-is-charged-with-corruption-by-prosecutor-general-rodrigo-janot-the-case-will-now-go-to-the-supreme-federal.md)
