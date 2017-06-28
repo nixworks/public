@@ -1,18 +1,17 @@
-### [2017-06-26](/news/2017/06/26/index.md)
+### [2017-06-27](/news/2017/06/27/index.md)
 
-# Three CNN journalists, Thomas Frank, Eric Lichtblau, and Lex Haris, resign after the publication of a Russia-related article involving President Donald Trump that was retracted. 
+# U.S. President Donald Trump lashes out on CNN after its Russian-related story was debunked and retracted, accusing the news network for creating fake news. 
 
-
+Trump derides network’s ‘phony’ stories after three quit over piece on supposed investigation into meeting between associate and Russian investor
 
 
 ### Source:
 
-1. [ABC News](http://abcnews.go.com/Entertainment/wireStory/cnn-retracts-story-supposed-russian-meeting-48286362)
-2. [Washington Post](http://www.washingtonpost.com/blogs/erik-wemple/wp/2017/06/26/three-cnn-employees-resign-over-retracted-story-on-russia-ties)
+1. [Guardian](https://www.theguardian.com/media/2017/jun/27/three-cnn-journalists-resign-over-retracted-trump-russia-story)
 
 ### Related:
 
-1. [U.S. President Donald Trump lashes out on CNN after its Russian-related story was debunked and retracted, accusing the news network for creating fake news. ](/news/2017/06/27/u-s-president-donald-trump-lashes-out-on-cnn-after-its-russian-related-story-was-debunked-and-retracted-accusing-the-news-network-for-crea.md) _Context: CNN, CNN controversies, Donald Trump_
+1. [Three CNN journalists, Thomas Frank, Eric Lichtblau, and Lex Haris, resign after the publication of a Russia-related article involving President Donald Trump that was retracted. ](/news/2017/06/26/three-cnn-journalists-thomas-frank-eric-lichtblau-and-lex-haris-resign-after-the-publication-of-a-russia-related-article-involving-presi.md) _Context: CNN, CNN controversies, Donald Trump_
 2. [CNN terminates its ''New Year's Eve Live'' contract with Kathy Griffin after she released a photograph of her holding a mock decapitated head of President Donald Trump. ](/news/2017/05/31/cnn-terminates-its-new-year-s-eve-live-contract-with-kathy-griffin-after-she-released-a-photograph-of-her-holding-a-mock-decapitated-hea.md) _Context: CNN, Donald Trump_
 3. [CNN announces the September 16, prime time  presidential debate panel.  Carly Fiorina, who had sufficient poll support following the first debate, will join the top 10 leaders, such as Donald Trump, Jeb Bush, Scott Walker, and Ben Carson. The remaining four candidates, Rick Santorum, Bobby Jindal, George Pataki and Lindsey Graham, will appear earlier that evening. Because he did not get sufficient poll numbers, Jim Gilmore is now excluded. ](/news/2015/09/11/cnn-announces-the-september-16-prime-time-presidential-debate-panel-carly-fiorina-who-had-sufficient-poll-support-following-the-first-d.md) _Context: CNN, Donald Trump_
 4. [President Donald Trump claims that James Comey committed perjury during his testimony yesterday, and offers to give his own testimony, "under oath," refuting that he requested Comey to drop the Flynn investigation and that he had asked for Comey's allegence. ](/news/2017/06/9/president-donald-trump-claims-that-james-comey-committed-perjury-during-his-testimony-yesterday-and-offers-to-give-his-own-testimony-unde.md) _Context: Donald Trump_

@@ -3,6 +3,9 @@
 ### [Ukrainian intelligence officer and head of a special forces unit, Maksim Shapoval, is assassinated in Kiev. ](/news/2017/06/27/ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksim-shapoval-is-assassinated-in-kiev.md)
 Analysts believe the attack could be connected to the Russian-backed insurgency in eastern Ukraine.
 
+### [U.S. President Donald Trump lashes out on CNN after its Russian-related story was debunked and retracted, accusing the news network for creating fake news. ](/news/2017/06/27/u-s-president-donald-trump-lashes-out-on-cnn-after-its-russian-related-story-was-debunked-and-retracted-accusing-the-news-network-for-crea.md)
+Trump derides network’s ‘phony’ stories after three quit over piece on supposed investigation into meeting between associate and Russian investor
+
 ### [The European Commission imposes a record EUR2.42bn antitrust fine on internet giant Google for manipulating its search engine results. ](/news/2017/06/27/the-european-commission-imposes-a-record-a-2-42bn-antitrust-fine-on-internet-giant-google-for-manipulating-its-search-engine-results.md)
 The European Commission penalises the US tech giant for illegally favouring its own shopping service.
 
