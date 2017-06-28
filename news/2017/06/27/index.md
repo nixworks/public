@@ -1,6 +1,6 @@
 ## [2017-06-27](/news/2017/06/27/index.md)
 
-### [Ukrainian intelligence officer and head of a special forces unit, Maksym Shapoval, is assassinated in Kiev. ](/news/2017/06/27/ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksym-shapoval-is-assassinated-in-kiev.md)
+### [Ukrainian intelligence officer and head of a special forces unit, Maksym Shapoval, is assassinated in Kiev by car bomb. ](/news/2017/06/27/ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksym-shapoval-is-assassinated-in-kiev-by-car-bomb.md)
 Analysts believe the attack could be connected to the Russian-backed insurgency in eastern Ukraine.
 
 ### [Armed civilian groups attack the Venezuelan Parliament building, after a clash between lawmakers and the Bolivarian National Guard (GNB), also known as the military police, leaving various legislators and journalists injured. Opposition legislator and President of the Camera Julio Borges  blamed President Nicolas Maduro for the attack. ](/news/2017/06/27/armed-civilian-groups-attack-the-venezuelan-parliament-building-after-a-clash-between-lawmakers-and-the-bolivarian-national-guard-gnb-al.md)
@@ -8,9 +8,6 @@ Armed civilian groups have attacked the Venezuelan Parliament building after a c
 
 ### [The European Commission imposes a record EUR2.42bn antitrust fine on internet giant Google for manipulating its search engine results. ](/news/2017/06/27/the-european-commission-imposes-a-record-a-2-42bn-antitrust-fine-on-internet-giant-google-for-manipulating-its-search-engine-results.md)
 The European Commission penalises the US tech giant for illegally favouring its own shopping service.
-
-### [U.S. President Donald Trump lashes out on CNN after its Russian-related story was debunked and retracted, accusing the news network for creating fake news. ](/news/2017/06/27/u-s-president-donald-trump-lashes-out-on-cnn-after-its-russian-related-story-was-debunked-and-retracted-accusing-the-news-network-for-crea.md)
-Trump derides network’s ‘phony’ stories after three quit over piece on supposed investigation into meeting between associate and Russian investor
 
 ### [Aftermath of the Bosnian War and An appeals court of The Hague rules that Netherlands is partly to blame for the deaths of some 350 Muslim Bosnian men in the 1995 Srebrenica genocide and, in a move considered landmark, orders it to pay limited damages. ](/news/2017/06/27/aftermath-of-the-bosnian-war-and-an-appeals-court-of-the-hague-rules-that-netherlands-is-partly-to-blame-for-the-deaths-of-some-350-muslim-b.md)
 A Dutch appeals court ruled on Tuesday the state was partly to blame for the deaths of some 350 Muslim men in the 1995 Srebrenica genocide, and in a landmark move ordered it to pay limited damages.

@@ -1,6 +1,6 @@
 ### [2017-06-28](/news/2017/06/28/index.md)
 
-# Nepalis vote in the second round of local elections, a major step in the near decade-long transition from monarchy to democratic government. The first round was held on May 14, and the final round is scheduled for September 18, after the  monsoon season. Parliamentary elections are expected later this year. 
+# Nepalis vote in the second round of local elections, a major step in the near decade-long transition from monarchy to democratic government. The first round was held on May 14, and the final round is scheduled for September 18, after the monsoon season. Parliamentary elections are expected later this year. 
 
 Nepalis began voting in the second round of local elections on Wednesday, a key step towards holding a general election later this year that would complete a near decade-long democratic transition after the abolition of its monarchy.
 
