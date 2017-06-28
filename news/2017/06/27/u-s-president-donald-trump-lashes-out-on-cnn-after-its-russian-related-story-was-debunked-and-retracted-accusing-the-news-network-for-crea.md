@@ -7,7 +7,7 @@ Trump derides network’s ‘phony’ stories after three quit over piece on sup
 
 ### Source:
 
-1. [Guardian](https://www.theguardian.com/media/2017/jun/27/three-cnn-journalists-resign-over-retracted-trump-russia-story)
+1. [The Guardian](https://www.theguardian.com/media/2017/jun/27/three-cnn-journalists-resign-over-retracted-trump-russia-story)
 
 ### Related:
 

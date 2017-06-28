@@ -1,13 +1,16 @@
 ## [2017-06-27](/news/2017/06/27/index.md)
 
-### [Ukrainian intelligence officer and head of a special forces unit, Maksim Shapoval, is assassinated in Kiev. ](/news/2017/06/27/ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksim-shapoval-is-assassinated-in-kiev.md)
+### [Ukrainian intelligence officer and head of a special forces unit, Maksym Shapoval, is assassinated in Kiev. ](/news/2017/06/27/ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksym-shapoval-is-assassinated-in-kiev.md)
 Analysts believe the attack could be connected to the Russian-backed insurgency in eastern Ukraine.
 
-### [U.S. President Donald Trump lashes out on CNN after its Russian-related story was debunked and retracted, accusing the news network for creating fake news. ](/news/2017/06/27/u-s-president-donald-trump-lashes-out-on-cnn-after-its-russian-related-story-was-debunked-and-retracted-accusing-the-news-network-for-crea.md)
-Trump derides network’s ‘phony’ stories after three quit over piece on supposed investigation into meeting between associate and Russian investor
+### [Armed civilian groups attack the Venezuelan Parliament building, after a clash between lawmakers and the Bolivarian National Guard (GNB), also known as the military police, leaving various legislators and journalists injured. Opposition legislator and President of the Camera Julio Borges  blamed President Nicolas Maduro for the attack. ](/news/2017/06/27/armed-civilian-groups-attack-the-venezuelan-parliament-building-after-a-clash-between-lawmakers-and-the-bolivarian-national-guard-gnb-al.md)
+Armed civilian groups have attacked the Venezuelan Parliament building after a clash between lawmakers and the military police of the Bolivarian National Guard.
 
 ### [The European Commission imposes a record EUR2.42bn antitrust fine on internet giant Google for manipulating its search engine results. ](/news/2017/06/27/the-european-commission-imposes-a-record-a-2-42bn-antitrust-fine-on-internet-giant-google-for-manipulating-its-search-engine-results.md)
 The European Commission penalises the US tech giant for illegally favouring its own shopping service.
+
+### [U.S. President Donald Trump lashes out on CNN after its Russian-related story was debunked and retracted, accusing the news network for creating fake news. ](/news/2017/06/27/u-s-president-donald-trump-lashes-out-on-cnn-after-its-russian-related-story-was-debunked-and-retracted-accusing-the-news-network-for-crea.md)
+Trump derides network’s ‘phony’ stories after three quit over piece on supposed investigation into meeting between associate and Russian investor
 
 ### [Aftermath of the Bosnian War and An appeals court of The Hague rules that Netherlands is partly to blame for the deaths of some 350 Muslim Bosnian men in the 1995 Srebrenica genocide and, in a move considered landmark, orders it to pay limited damages. ](/news/2017/06/27/aftermath-of-the-bosnian-war-and-an-appeals-court-of-the-hague-rules-that-netherlands-is-partly-to-blame-for-the-deaths-of-some-350-muslim-b.md)
 A Dutch appeals court ruled on Tuesday the state was partly to blame for the deaths of some 350 Muslim men in the 1995 Srebrenica genocide, and in a landmark move ordered it to pay limited damages.
@@ -15,14 +18,8 @@ A Dutch appeals court ruled on Tuesday the state was partly to blame for the dea
 ### [A major ransomware cyberattack strikes companies across the globe. ](/news/2017/06/27/a-major-ransomware-cyberattack-strikes-companies-across-the-globe.md)
 Banks, retailers, energy firms and Kiev airport say they have been targeted by malware attacks.
 
-### [A Venezuelan police helicopter strafed the Supreme Court and the  Interior Ministry in what President Nicolas Maduro called an attack by terrorists seeking a coup. There are no reports of injuries. ](/news/2017/06/27/a-venezuelan-police-helicopter-strafed-the-supreme-court-and-the-interior-ministry-in-what-president-nicolas-maduro-called-an-attack-by-ter.md)
-_Context: Interior Ministry, Supreme Court_
-
 ### [Brazilian President Michel Temer is charged with corruption by Prosecutor General Rodrigo Janot. The case will now go to the Supreme Federal Court. ](/news/2017/06/27/brazilian-president-michel-temer-is-charged-with-corruption-by-prosecutor-general-rodrigo-janot-the-case-will-now-go-to-the-supreme-federal.md)
 Temer is accused of accepting bribes – but any move towards trial would have to pass congress by a two-thirds majority
-
-### [Armed civilian groups attack the Venezuelan Parliament building, after a clash between lawmakers and the Bolivarian National Guard (GNB), also known as the military police, leaving various legislators and journalists injured. Opposition legislator and President of the Camera Julio Borges  blamed President Nicolas Maduro for the attack. ](/news/2017/06/27/armed-civilian-groups-attack-the-venezuelan-parliament-building-after-a-clash-between-lawmakers-and-the-bolivarian-national-guard-gnb-al.md)
-Armed civilian groups have attacked the Venezuelan Parliament building after a clash between lawmakers and the military police of the Bolivarian National Guard.
 
 ### [The U.S. Republican Party's leadership, facing strong opposition to the Senate version of H.R. 1628,  the American Health Care Act of 2017, postpones the planned vote on the bill, a setback to Senate Majority Leader Mitch McConnell. ](/news/2017/06/27/the-u-s-republican-party-s-leadership-facing-strong-opposition-to-the-senate-version-of-h-r-1628-the-american-health-care-act-of-2017.md)
 U.S. Senate Republican leaders postponed a vote on a healthcare overhaul on Tuesday after resistance from members of their own party, and President Donald Trump summoned Republican senators to the White House to urge them to break the impasse.
@@ -30,8 +27,8 @@ U.S. Senate Republican leaders postponed a vote on a healthcare overhaul on Tues
 ### [The White House announces that President Trump plans to nominate  Textron Systems Chief Executive Ellen Lord for Under Secretary of Defense for Acquisition, Technology and Logistics.  Textron Systems is  a defense contractor. ](/news/2017/06/27/the-white-house-announces-that-president-trump-plans-to-nominate-textron-systems-chief-executive-ellen-lord-for-under-secretary-of-defense.md)
 _Context: Political appointments of Donald Trump, Textron Systems, Under Secretary of Defense for Acquisition, Technology and Logistics_
 
-### [Facebook, Inc. announces that its social media service now has  2 billion regular users, more than a quarter of the world's population. Twitter, by comparison, has 328 million users as of April  2017. ](/news/2017/06/27/facebook-inc-announces-that-its-social-media-service-now-has-2-billion-regular-users-more-than-a-quarter-of-the-world-s-population-twit.md)
-_Context: Facebook, Inc., Twitter_
+### [Facebook, Inc. announces that its social media service now has  2 billion regular users, more than a quarter of the world's population. Twitter, by comparison, has 328 million users as of April 2017. ](/news/2017/06/27/facebook-inc-announces-that-its-social-media-service-now-has-2-billion-regular-users-more-than-a-quarter-of-the-world-s-population-twit.md)
+_Context: Facebook, Inc., Social networking service, Twitter_
 
 ## [Previous Day...](/news/2017/06/26/index.md)
 
