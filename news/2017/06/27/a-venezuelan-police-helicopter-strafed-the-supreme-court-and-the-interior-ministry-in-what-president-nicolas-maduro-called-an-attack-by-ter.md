@@ -1,0 +1,22 @@
+### [2017-06-27](/news/2017/06/27/index.md)
+
+# A Venezuelan police helicopter strafed the Supreme Court and the  Interior Ministry in what President Nicolas Maduro called an attack by terrorists seeking a coup. There are no reports of injuries. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-venezuela-politics-idUSKBN19I2RV?il=0)
+
+### Related:
+
+1. [Venezuela's Supreme Court reverses their controversial ruling. The court restores legislative power to the National Assembly. However, the court's decision still allows President Nicolas Maduro to enter joint-venture deals. ](/news/2017/04/1/venezuela-s-supreme-court-reverses-their-controversial-ruling-the-court-restores-legislative-power-to-the-national-assembly-however-the-c.md) _Context: Supreme Court_
+2. [In a ruling, Venezuela's Supreme Court says it "guarantees congressional functions will be exercised by" itself, authorizing president Nicolas Maduro to create oil joint ventures without the previously mandated congressional approval. Opposition leaders call it a "coup", while Peru recalls its ambassador. ](/news/2017/03/30/in-a-ruling-venezuela-s-supreme-court-says-it-guarantees-congressional-functions-will-be-exercised-by-itself-authorizing-president-nicol.md) _Context: Supreme Court_
+3. [Venezuela's Supreme Tribunal of Justice upholds the 13-year, 9-month-plus prison term of Popular Will party founder Leopoldo  Lopez  for  inciting  violence, via "subliminal messages,"  at  the   2014 anti-government protests where 43 people were killed.  Yesterday, United States President Donald Trump  met with Lopez's wife, Lilian Tintori, and called on Venezuela to release Lopez immediately.   ](/news/2017/02/16/venezuela-s-supreme-tribunal-of-justice-upholds-the-13-year-9-month-plus-prison-term-of-popular-will-party-founder-leopoldo-la3pez-for-i.md) _Context: Supreme Court_
+4. [Venezuela's Supreme Tribunal rules that opposition's proposed amendment to change the President's term of office from six  to four years can not be applied retroactively,  thereby ending this attempt to cut short President Nicolas Maduro's time in office. ](/news/2016/04/25/venezuela-s-supreme-tribunal-rules-that-opposition-s-proposed-amendment-to-change-the-president-s-term-of-office-from-six-to-four-years-can.md) _Context: Supreme Court_
+5. [Violence breaks out in in the Venezuelan city of San Cristobal between students and police after a supreme court ruling curtailed the power of the opposition-controlled National Assembly to review government appointments of Supreme Court justices. ](/news/2016/03/3/violence-breaks-out-in-in-the-venezuelan-city-of-san-crista3bal-between-students-and-police-after-a-supreme-court-ruling-curtailed-the-power.md) _Context: Supreme Court_
+6. [The Venezuelan Supreme Court  bars four incoming lawmakers (three from the opposition and one from the ruling Socialist party) from taking office, putting  the opposition's two-thirds legislative "supermajority" at risk, won via a landslide victory in the December 6 election by just one seat. The court is yet to specify the quorum for the new House, which would determine the number of seats needed for a  two-thirds majority.  The new National Assembly convenes Tuesday. ](/news/2015/12/31/the-venezuelan-supreme-court-bars-four-incoming-lawmakers-three-from-the-opposition-and-one-from-the-ruling-socialist-party-from-taking-o.md) _Context: Supreme Court_
+7. [The Venezuelan Supreme Tribunal of Justice rules that the latest inauguration of President Hugo Chavez can be deferred while his recovery continues from a cancer operation. ](/news/2013/01/9/the-venezuelan-supreme-tribunal-of-justice-rules-that-the-latest-inauguration-of-president-hugo-cha-vez-can-be-deferred-while-his-recovery-c.md) _Context: Supreme Court_
+8. [The Venezuelan Supreme Tribunal orders the opposition not to destroy the voter list following its primary. ](/news/2012/02/14/the-venezuelan-supreme-tribunal-orders-the-opposition-not-to-destroy-the-voter-list-following-its-primary.md) _Context: Supreme Court_
+9. [Venezuela's Supreme Court announced it was suspending its services, citing political harassment and condemning deadly violence during a general strike by opponents of President Hugo Chvez.](/news/2002/12/10/venezuela-s-supreme-court-announced-it-was-suspending-its-services-citing-political-harassment-and-condemning-deadly-violence-during-a-gene.md) _Context: Supreme Court_

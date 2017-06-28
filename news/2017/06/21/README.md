@@ -18,7 +18,7 @@ Temperatures hit 34.5C (94F) in the UK, as the mercury soars to its highest poin
 ### [A ten-year-old boy dies from injuries sustained during Tropical Storm Cindy in Fort Morgan, Alabama. ](/news/2017/06/21/a-ten-year-old-boy-dies-from-injuries-sustained-during-tropical-storm-cindy-in-fort-morgan-alabama.md)
 According to WKRG, the little boy suffered severe facial trauma after possibly being injured by debris from the storm. 
 
-### [A police officer is stabbed at Bishop International Airport in Flint, Michigan. The FBI is investigating the incident as terrorism. ](/news/2017/06/21/a-police-officer-is-stabbed-at-bishop-international-airport-in-flint-michigan-the-fbi-is-investigating-the-incident-as-terrorism.md)
+### [A police officer is stabbed in the neck at Bishop International Airport in Flint, Michigan. The FBI is investigating the incident as terrorism. The suspect was arrested on scene and charged with a federal count of violence at an international airport. The victim survived. ](/news/2017/06/21/a-police-officer-is-stabbed-in-the-neck-at-bishop-international-airport-in-flint-michigan-the-fbi-is-investigating-the-incident-as-terrori.md)
 The stabbing of a police officer at a Michigan airport on Wednesday is being investigated by the FBI as a possible terror attack, officials said.
 
 ### [An Imam in Australia who married a 14 year old to a 34 year old will not face jail time despite conviction. ](/news/2017/06/21/an-imam-in-australia-who-married-a-14-year-old-to-a-34-year-old-will-not-face-jail-time-despite-conviction.md)

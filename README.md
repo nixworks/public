@@ -6,14 +6,29 @@ Analysts believe the attack could be connected to the Russian-backed insurgency 
 ### [The European Commission imposes a record EUR2.42bn antitrust fine on internet giant Google for manipulating its search engine results. ](/news/2017/06/27/the-european-commission-imposes-a-record-a-2-42bn-antitrust-fine-on-internet-giant-google-for-manipulating-its-search-engine-results.md)
 The European Commission penalises the US tech giant for illegally favouring its own shopping service.
 
-### [Aftermath of the Bosnian War and An appeals court of The Hague rules that the Netherlands was partly to blame for the deaths of some 350 Muslim Bosnians men in the 1995 Srebrenica genocide and, in a move considered landmark, orders it to pay limited damages. ](/news/2017/06/27/aftermath-of-the-bosnian-war-and-an-appeals-court-of-the-hague-rules-that-the-netherlands-was-partly-to-blame-for-the-deaths-of-some-350-mus.md)
+### [Aftermath of the Bosnian War and An appeals court of The Hague rules that Netherlands is partly to blame for the deaths of some 350 Muslim Bosnian men in the 1995 Srebrenica genocide and, in a move considered landmark, orders it to pay limited damages. ](/news/2017/06/27/aftermath-of-the-bosnian-war-and-an-appeals-court-of-the-hague-rules-that-netherlands-is-partly-to-blame-for-the-deaths-of-some-350-muslim-b.md)
 A Dutch appeals court ruled on Tuesday the state was partly to blame for the deaths of some 350 Muslim men in the 1995 Srebrenica genocide, and in a landmark move ordered it to pay limited damages.
 
 ### [A major ransomware cyberattack strikes companies across the globe. ](/news/2017/06/27/a-major-ransomware-cyberattack-strikes-companies-across-the-globe.md)
 Banks, retailers, energy firms and Kiev airport say they have been targeted by malware attacks.
 
+### [A Venezuelan police helicopter strafed the Supreme Court and the  Interior Ministry in what President Nicolas Maduro called an attack by terrorists seeking a coup. There are no reports of injuries. ](/news/2017/06/27/a-venezuelan-police-helicopter-strafed-the-supreme-court-and-the-interior-ministry-in-what-president-nicolas-maduro-called-an-attack-by-ter.md)
+_Context: Interior Ministry, Supreme Court_
+
 ### [Brazilian President Michel Temer is charged with corruption by Prosecutor General Rodrigo Janot. The case will now go to the Supreme Federal Court. ](/news/2017/06/27/brazilian-president-michel-temer-is-charged-with-corruption-by-prosecutor-general-rodrigo-janot-the-case-will-now-go-to-the-supreme-federal.md)
 Temer is accused of accepting bribes – but any move towards trial would have to pass congress by a two-thirds majority
+
+### [Armed civilian groups attack the Venezuelan Parliament building, after a clash between lawmakers and the Bolivarian National Guard (GNB), also known as the military police, leaving various legislators and journalists injured. Opposition legislator and President of the Camera Julio Borges  blamed President Nicolas Maduro for the attack. ](/news/2017/06/27/armed-civilian-groups-attack-the-venezuelan-parliament-building-after-a-clash-between-lawmakers-and-the-bolivarian-national-guard-gnb-al.md)
+Armed civilian groups have attacked the Venezuelan Parliament building after a clash between lawmakers and the military police of the Bolivarian National Guard.
+
+### [The U.S. Republican Party's leadership, facing strong opposition to the Senate version of H.R. 1628,  the American Health Care Act of 2017, postpones the planned vote on the bill, a setback to Senate Majority Leader Mitch McConnell. ](/news/2017/06/27/the-u-s-republican-party-s-leadership-facing-strong-opposition-to-the-senate-version-of-h-r-1628-the-american-health-care-act-of-2017.md)
+U.S. Senate Republican leaders postponed a vote on a healthcare overhaul on Tuesday after resistance from members of their own party, and President Donald Trump summoned Republican senators to the White House to urge them to break the impasse.
+
+### [The White House announces that President Trump plans to nominate  Textron Systems Chief Executive Ellen Lord for Under Secretary of Defense for Acquisition, Technology and Logistics.  Textron Systems is  a defense contractor. ](/news/2017/06/27/the-white-house-announces-that-president-trump-plans-to-nominate-textron-systems-chief-executive-ellen-lord-for-under-secretary-of-defense.md)
+_Context: Political appointments of Donald Trump, Textron Systems, Under Secretary of Defense for Acquisition, Technology and Logistics_
+
+### [Facebook, Inc. announces that its social media service now has  2 billion regular users, more than a quarter of the world's population. Twitter, by comparison, has 328 million users as of April  2017. ](/news/2017/06/27/facebook-inc-announces-that-its-social-media-service-now-has-2-billion-regular-users-more-than-a-quarter-of-the-world-s-population-twit.md)
+_Context: Facebook, Inc., Twitter_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -26,8 +41,8 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [The United Nations confirms that the FARC has completed its disarmament process, with former rebels due to make the transition to civilian life and the group to transform into a legal political party in the country. ](/news/2017/06/26/the-united-nations-confirms-that-the-farc-has-completed-its-disarmament-process-with-former-rebels-due-to-make-the-transition-to-civilian-l.md)
 The disarmament by the roughly 7,000 rebels brings Latin America&#39;s oldest civil conflict close to a formal end.
 
-### [Three CNN journalists, Thomas Frank, Eric Lichtblau, and Lex Haris (executive editor in charge of a new investigative unit), resign after the publication of a Russia-related article involving President Donald Trump that was retracted. ](/news/2017/06/26/three-cnn-journalists-thomas-frank-eric-lichtblau-and-lex-haris-executive-editor-in-charge-of-a-new-investigative-unit-resign-after-th.md)
-_Context: CNN, CNN controversies, Donald Trump, Eric Lichtblau, Lex Haris_
+### [Three CNN journalists, Thomas Frank, Eric Lichtblau, and Lex Haris, resign after the publication of a Russia-related article involving President Donald Trump that was retracted. ](/news/2017/06/26/three-cnn-journalists-thomas-frank-eric-lichtblau-and-lex-haris-resign-after-the-publication-of-a-russia-related-article-involving-presi.md)
+_Context: CNN, CNN controversies, Donald Trump, Eric Lichtblau_
 
 ### [Michael P. McCarthy (ex-boyfriend of Bella's mother) is found guilty of second-degree murder in the killing of Bella Bond. ](/news/2017/06/26/michael-p-mccarthy-ex-boyfriend-of-bella-s-mother-is-found-guilty-of-second-degree-murder-in-the-killing-of-bella-bond.md)
 A Massachusetts man has been convicted of second-degree murder in the 2015 death of a 2-year-old girl who became known as Baby Doe after her remains washed up on the shores of a Boston Harbor island.

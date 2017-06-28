@@ -1,0 +1,23 @@
+### [2017-06-27](/news/2017/06/27/index.md)
+
+# Facebook, Inc. announces that its social media service now has  2 billion regular users, more than a quarter of the world's population. Twitter, by comparison, has 328 million users as of April  2017. 
+
+
+
+
+### Source:
+
+1. [Reuters](https://www.reuters.com/article/us-facebook-users-idUSKBN19I2GG?il=0)
+
+### Related:
+
+1. [The father of  Cal State Long Beach student Nohemi Gonzalez, the only American killed in the November 13, 2015, Paris massacre, files suit in San Francisco, California, federal court against Twitter, Facebook, and Google, alleging the companies provided "material support" to the Islamic State and other extremist groups. While  generally free of liability under U.S. law  which  provides a legal ''safe harbor'' for content posted, this case targets  the behavior social media companies enable. The suit is very similar to a case brought against Twitter in January by the widow of a contractor killed in the November 9, 2015, attack in Jordan. ](/news/2016/06/15/the-father-of-cal-state-long-beach-student-nohemi-gonzalez-the-only-american-killed-in-the-november-13-2015-paris-massacre-files-suit-i.md) _Context: Facebook, Inc., Twitter_
+2. [2011 Egyptian protests:After the Egyptian government censorship of social media websites (such as Twitter, Facebook and Google), internet access and SMS networks are cut off in response to anti-government protests. ](/news/2011/01/28/2011-egyptian-protests-pafter-the-egyptian-government-censorship-of-social-media-websites-such-as-twitter-facebook-and-google-internet-a.md) _Context: Facebook, Inc., Twitter_
+3. [Right-wing media personality Katie Hopkins is to leave LBC with "immediate effect" after Hopkins posted on Twitter calling for a so-called "final solution" to the United Kingdom's Islamic terrorism problem following the Manchester Arena bombing which left 22 people dead. ](/news/2017/05/26/right-wing-media-personality-katie-hopkins-is-to-leave-lbc-with-immediate-effect-after-hopkins-posted-on-twitter-calling-for-a-so-called.md) _Context: Twitter_
+4. [The U.S. Department of Homeland Security withdraws its order that Twitter  unmask a user whose tweets are critical of President Donald Trump following the company's court filing to block the order on constitutional grounds. ](/news/2017/04/7/the-u-s-department-of-homeland-security-withdraws-its-order-that-twitter-unmask-a-user-whose-tweets-are-critical-of-president-donald-trump.md) _Context: Twitter_
+5. [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md) _Context: Facebook, Inc._
+6. [Cleveland police search for a suspect identified in a Facebook video showing one man shooting an elderly man. ](/news/2017/04/16/cleveland-police-search-for-a-suspect-identified-in-a-facebook-video-showing-one-man-shooting-an-elderly-man.md) _Context: Facebook, Inc._
+7. [Mark Zuckerberg publishes a new mission statement for his website, Facebook, including the development of artificial intelligence to identify potential tragic events such as suicides before they occur. ](/news/2017/02/17/mark-zuckerberg-publishes-a-new-mission-statement-for-his-website-facebook-including-the-development-of-artificial-intelligence-to-identif.md) _Context: Facebook, Inc._
+8. [A jury finds in favor of video game publisher ZeniMax Media after the trial of its copyright lawsuit against Oculus and Facebook, regarding virtual reality coding. ](/news/2017/02/1/a-jury-finds-in-favor-of-video-game-publisher-zenimax-media-after-the-trial-of-its-copyright-lawsuit-against-oculus-and-facebook-regarding.md) _Context: Facebook, Inc._
+9. [Chicago Police arrest four African-American suspects after they stream a video on Facebook showing themselves torturing and scalping a bound and gagged, kidnapped, white man with a mental disorder. The four suspects will face elevated hate crime charges. ](/news/2017/01/4/chicago-police-arrest-four-african-american-suspects-after-they-stream-a-video-on-facebook-showing-themselves-torturing-and-scalping-a-bound.md) _Context: Facebook, Inc._
+10. [A Syrian refugee is suing Facebook after the company failed to remove posts with his image that accuse him of being a terrorist. ](/news/2017/01/14/a-syrian-refugee-is-suing-facebook-after-the-company-failed-to-remove-posts-with-his-image-that-accuse-him-of-being-a-terrorist.md) _Context: Facebook, Inc._
