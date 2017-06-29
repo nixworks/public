@@ -22,7 +22,7 @@ _Context: Colombia, Colombian armed conflict (1964-present), National Army of Co
 _Context: Azerbaijan, Baku, State Oil Academy, killed_
 
 ### [ Helios Airways and four executives are charged with 119 counts of manslaughter over the crash of Flight 522 in 2005. ](/news/2009/04/30/helios-airways-and-four-executives-are-charged-with-119-counts-of-manslaughter-over-the-crash-of-flight-522-in-2005.md)
-_Context: Flight 522, Helios Airways, executives, incidents, indicted, manslaughter_
+_Context: Flight 522, Helios Airways, executives, incidents, indicted, manslaughter by gross negligence_
 
 ### [ The Italian cargo ship ''Jolley Smeraldo'' evades an attempted hijacking by Somali pirates. ](/news/2009/04/30/the-italian-cargo-ship-jolley-smeraldo-evades-an-attempted-hijacking-by-somali-pirates.md)
 An Italian-flagged merchant ship evaded an attack by Somali pirates and its 24-person crew was unharmed, shipping line officials said.

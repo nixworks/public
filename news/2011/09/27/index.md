@@ -55,7 +55,7 @@ _Context: CEO, Melli Bank, Saderat Bank_
 _Context: Black Liberation Army, Delta Air Lines Flight 841, George Wright, Portugal, aircraft piracy_
 
 ### [The trial of Dr Conrad Murray for manslaughter in connection to the death of American singer Michael Jackson begins in California. ](/news/2011/09/27/the-trial-of-dr-conrad-murray-for-manslaughter-in-connection-to-the-death-of-american-singer-michael-jackson-begins-in-california.md)
-_Context: California, Michael Jackson, death, manslaughter, trial of Dr Conrad Murray_
+_Context: California, Michael Jackson, death, manslaughter by gross negligence, trial of Dr Conrad Murray_
 
 ## [Previous Day...](/news/2011/09/26/index.md)
 

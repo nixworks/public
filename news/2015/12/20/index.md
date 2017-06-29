@@ -4,7 +4,7 @@
 A Kenyan police official says an Air France flight from Mauritius to Paris has been forced to land in the Kenyan coastal city of Mombasa after a device suspected to be a bomb was found.
 
 ### [Vietnam is reported to be preparing for a possible military conflict with China over territorial claims in the South China Sea. ](/news/2015/12/20/vietnam-is-reported-to-be-preparing-for-a-possible-military-conflict-with-china-over-territorial-claims-in-the-south-china-sea.md)
-_Context: China-Vietnam relations, Chinese, South China Sea, Territorial disputes in the South China Sea, Vietnam_
+_Context: China, China-Vietnam relations, South China Sea, Territorial disputes in the South China Sea, Vietnam_
 
 ### [A missile-strike in Jaramana in southern Syria kills high-ranking Lebanese Hezbollah commander Samir Kuntar and eight National Defence Force (NDF) personnel. The responsibility for the incident taken by the Free Syrian Army, though Hezbollah alleges Israeli involvement. Kuntar was the longest serving Lebanese prisoner in Israel until his release in 2008. On April 22, 1979 Kuntar and his team broke into an apartment building and kidnapped a father, 31-year-old Danny Haran, and his 4-year-old daughter, Einat, taking them to a nearby beach and killing them. ](/news/2015/12/20/a-missile-strike-in-jaramana-in-southern-syria-kills-high-ranking-lebanese-hezbollah-commander-samir-kuntar-and-eight-national-defence-force.md)
 _Context: Free Syrian Army, Hezbollah, Israel, Jaramana, Lebanon, National Defence Force, Samir Kuntar, Syria, release in 2008, war_
@@ -19,7 +19,7 @@ The host of the Miss Universe pageant mistakenly announced the wrong winner on S
 More than three thousand people united in a march to mark the closure of Kellingley Colliery’s mine in North Yorkshire and the end of British deep coal mining. Families, children and miners from around the country joined the march - which folllowed the mine&#039;s final working day on Friday - from Knottingley Town Hall in West Yorkshire to the Kellingley Miners Welfare social club. People lined the streets in support, cheering and applauding as the miners walked the mile-long route.
 
 ### [Thirty-three buildings collapse after a landslide hit an industrial park in Shenzhen, China, leaving at least 91 people missing. ](/news/2015/12/20/thirty-three-buildings-collapse-after-a-landslide-hit-an-industrial-park-in-shenzhen-china-leaving-at-least-91-people-missing.md)
-_Context: 2015 Shenzhen landslide, Chinese, Shenzhen_
+_Context: 2015 Shenzhen landslide, China, Shenzhen_
 
 ### [An avalanche in Svalbard,  a Norwegian Arctic archipelago, kills one and injures nine others as the snow smashes into 10 houses in Longyearbyen. The deluge from Sukkertoppen mountain follows Friday's  60 mph storm that ripped off a school roof and temporarily closed the airport. Dozens of homes at the foot of the mountain were evacuated and all of the area's residents have been located, according to Tone Hertzberg, a spokeswoman for Svalbard's governor. Experts from Norges Geotekniske Institutt are examining nearby slopes. ](/news/2015/12/20/an-avalanche-in-svalbard-a-norwegian-arctic-archipelago-kills-one-and-injures-nine-others-as-the-snow-smashes-into-10-houses-in-longyearb.md)
 _Context: Arctic, Longyearbyen, Norges Geotekniske Institutt, Norway, Svalbard, archipelago_

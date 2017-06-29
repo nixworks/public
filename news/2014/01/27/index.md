@@ -7,7 +7,7 @@ _Context: Adamawa State, Borno State, Islamist insurgency in Nigeria_
 _Context: Pete Seeger, folk singer_
 
 ### [The U.S. Justice Department and the Director of National Intelligence reach a preliminary joint agreement, likely resolving a lawsuit with the major American Internet provider companies (Google, Yahoo, Facebook, Microsoft, and LinkedIn), about the information the companies can release to customers regarding requests by the intelligence agencies for information. ](/news/2014/01/27/the-u-s-justice-department-and-the-director-of-national-intelligence-reach-a-preliminary-joint-agreement-likely-resolving-a-lawsuit-with-t.md)
-_Context: Director of National Intelligence, Facebook, Google, LinkedIn, Microsoft, Yahoo!_
+_Context: Director of National Intelligence, Facebook, Inc., Google, LinkedIn, Microsoft, Yahoo!_
 
 ### [A New York federal district court seeks the extradition of Los Zetas drug cartel leader Miguel Trevio Morales, arrested in July 2013. ](/news/2014/01/27/a-new-york-federal-district-court-seeks-the-extradition-of-los-zetas-drug-cartel-leader-miguel-trevino-morales-arrested-in-july-2013.md)
 _Context: Los Zetas, Miguel Trevio Morales, New York_

@@ -46,7 +46,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 State media blames Kurdish fighters for attack that killed six soldiers and wounded seven.
 
 ### [A court in Pakistan lifts a ban on Facebook imposed two weeks ago after an "Everybody Draw Mohammed Day" group appeared on the site. ](/news/2010/05/31/a-court-in-pakistan-lifts-a-ban-on-facebook-imposed-two-weeks-ago-after-an-everybody-draw-mohammed-day-group-appeared-on-the-site.md)
-_Context: Everybody Draw Mohammed Day, Facebook, Pakistan_
+_Context: Everybody Draw Mohammed Day, Facebook, Inc., Pakistan_
 
 ## [Previous Day...](/news/2010/05/30/index.md)
 

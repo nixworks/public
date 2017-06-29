@@ -22,7 +22,7 @@ _Context: Gambia, Taiwan, diplomatic relations_
 Police crackdown on demonstrations against targeted attacks on Ethiopian migrant workers in Saudi Arabia.
 
 ### [Prosecutors in the Australian state of Queensland drop manslaughter charges against American surgeon Jayant Patel, who pleads guilty to charges of fraud. ](/news/2013/11/15/prosecutors-in-the-australian-state-of-queensland-drop-manslaughter-charges-against-american-surgeon-jayant-patel-who-pleads-guilty-to-char.md)
-_Context: American, Australia, Jayant Patel, Queensland, manslaughter_
+_Context: American, Australia, Jayant Patel, Queensland, manslaughter by gross negligence_
 
 ### [The U.S. Supreme Court says that it will hear a securities fraud case this term that arises out of the asbestos liabilities of Halliburton, an oilfield services company. ](/news/2013/11/15/the-u-s-supreme-court-says-that-it-will-hear-a-securities-fraud-case-this-term-that-arises-out-of-the-asbestos-liabilities-of-halliburton.md)
 The U.S. Supreme Court, which in recent years has ruled for business in a string of high-profile cases, agreed on Friday to hear a case that could herald a dramatic decline in securities class action litigation.

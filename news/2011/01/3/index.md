@@ -16,7 +16,7 @@ The air force hit three targets in the Strip including weapons factory; IDF says
 _Context: India, Kashmir, Line of Control, Pakistan Army, Poonch district_
 
 ### [Investments in Facebook totaling US$500 million lead to speculation that its value could be as high as US$50 billion. ](/news/2011/01/3/investments-in-facebook-totaling-us-500-million-lead-to-speculation-that-its-value-could-be-as-high-as-us-50-billion.md)
-_Context: Facebook_
+_Context: Facebook, Inc._
 
 ### [Floods in Queensland, Australia:The Australian government announces that it will make relief payments of hundreds of millions of dollars for flood victims.](/news/2011/01/3/floods-in-queensland-australia-pthe-australian-government-announces-that-it-will-make-relief-payments-of-hundreds-of-millions-of-dollars-fo.md)
 _Context: Australian Government, floods_
@@ -37,7 +37,7 @@ _Context: Africa, Beninese, Cape Verde, Cote d'Ivoire, Kenya, Laurent Gbagbo, Pr
 _Context: 250,000 documents, Craig Stapleton, France, U.S., genetically modified crops_
 
 ### [An Iranian judiciary official says that Sakineh Mohammadi Ashtiani could be spared execution by stoning for murder, manslaughter, and adultery, pointing out that ambiguities remain in her case. ](/news/2011/01/3/an-iranian-judiciary-official-says-that-sakineh-mohammadi-ashtiani-could-be-spared-execution-by-stoning-for-murder-manslaughter-and-adulte.md)
-_Context: Iran's conservative judiciary, Sakineh Mohammadi Ashtiani, adultery, halt executions, manslaughter, murder_
+_Context: Iran's conservative judiciary, Sakineh Mohammadi Ashtiani, adultery, halt executions, manslaughter by gross negligence, murder_
 
 ### [The second-largest party in Pakistan's coalition, Muttahida Qaumi Movement, quits the government leaving it with a minority in parliament. ](/news/2011/01/3/the-second-largest-party-in-pakistan-s-coalition-muttahida-qaumi-movement-quits-the-government-leaving-it-with-a-minority-in-parliament.md)
 _Context: Muttahida Qaumi Movement, Pakistan_

@@ -49,7 +49,7 @@ The United Nations Security Council on Wednesday condemned three recent failed b
 Victim described as popular teacher, devoted family man.
 
 ### [A man in Plano, Texas, stabs his girlfriend and posts her dead body to Facebook; the social media website does not remove the photograph for 36 hours. ](/news/2016/06/1/a-man-in-plano-texas-stabs-his-girlfriend-and-posts-her-dead-body-to-facebook-the-social-media-website-does-not-remove-the-photograph-for.md)
-_Context: Facebook, Plano, Texas_
+_Context: Facebook, Inc., Plano, Texas_
 
 ### [Thailand authorities  discover the remains of 40 dead tiger cubs in a freezer at the Tiger Temple  in the Sai Yok District of Kanchanaburi Province. The Theravada Buddhist temple is being investigated for wildlife trafficking. The Department of National Parks, Wildlife and Plant Conservation is in the process of removing 137 tigers from the monks' custody. ](/news/2016/06/1/thailand-authorities-discover-the-remains-of-40-dead-tiger-cubs-in-a-freezer-at-the-tiger-temple-in-the-sai-yok-district-of-kanchanaburi-p.md)
 _Context: Department of National Parks, Wildlife and Plant Conservation, Kanchanaburi Province, Sai Yok District, Thailand, Theravada Buddhist, Tiger Temple_

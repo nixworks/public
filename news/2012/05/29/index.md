@@ -13,7 +13,7 @@ _Context: 2012 South Sudan-Sudan border conflict, South Sudan, Sudan_
 Thousands march through the streets of Johannesburg as outrage and tension over controversial painting continue.
 
 ### [China's best-known microblogging site Sina Weibo introduces new restrictions on the content its 300 million users can post. ](/news/2012/05/29/china-s-best-known-microblogging-site-sina-weibo-introduces-new-restrictions-on-the-content-its-300-million-users-can-post.md)
-_Context: Chinese, Sina Weibo, microblog_
+_Context: China, Sina Weibo, microblog_
 
 ### [Four of Wall Street's market makers involved in Facebook's botched IPO are expecting losses from technical glitches to be around US$115&nbsp;million. ](/news/2012/05/29/four-of-wall-street-s-market-makers-involved-in-facebook-s-botched-ipo-are-expecting-losses-from-technical-glitches-to-be-around-us-115-nbsp.md)
 _Context: Facebook, IPO, Wall Street_
@@ -22,7 +22,7 @@ _Context: Facebook, IPO, Wall Street_
 Three Spanish savings banks - Ibercaja, Liberbank and Caja3 - approve a merger to strengthen their weakened balance sheets.
 
 ### [Russian social network VK announces that it will postpone its planned initial public offering indefinitely, following the recent botched float of Facebook. ](/news/2012/05/29/russian-social-network-vk-announces-that-it-will-postpone-its-planned-initial-public-offering-indefinitely-following-the-recent-botched-flo.md)
-_Context: Facebook, IPO, VK_
+_Context: Facebook, Inc., IPO, VK_
 
 ### [A 5.8-magnitude earthquake rocks northern Italy near Bologna, killing at least 24 people. ](/news/2012/05/29/a-5-8-magnitude-earthquake-rocks-northern-italy-near-bologna-killing-at-least-24-people.md)
 At least 17 people killed and others trapped under rubble as 5.8-magnitude quake and aftershocks rattle northern Italy.

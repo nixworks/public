@@ -22,7 +22,7 @@ _Context: Comcast, Time Warner Cable, United States dollars_
 The threat of deflation across the euro zone is more serious than the European Central Bank claims, as austerity imposed on peripheral economies is already pushing prices lower, a Reuters poll of forecasters found on Thursday.
 
 ### [Facebook users in the United States are now allowed to customize their gender. ](/news/2014/02/13/facebook-users-in-the-united-states-are-now-allowed-to-customize-their-gender.md)
-_Context: Facebook, United States_
+_Context: Facebook, Inc., United States_
 
 ### [Thousands of homes in England remain without power following Wednesday's storms as the UK's Met Office forecasts fresh heavy rain and high winds for Friday. ](/news/2014/02/13/thousands-of-homes-in-england-remain-without-power-following-wednesday-s-storms-as-the-uk-s-met-office-forecasts-fresh-heavy-rain-and-high-w.md)
 _Context: Met Office, Winter storms_

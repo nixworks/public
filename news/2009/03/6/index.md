@@ -13,7 +13,7 @@ _Context: London, Peter Mandelson, Plane Stupid, Secretary of State for Business
 _Context: Lotta Lotass, Seat 1, Sten Rudholm, Sweden, Swedish Academy_
 
 ### [ A Swedish pediatrician at Karolinska University Hospital is remanded on suspicion of manslaughter for injecting a lethal overdose of morphine and sodium thiopental into an infant. ](/news/2009/03/6/a-swedish-pediatrician-at-karolinska-university-hospital-is-remanded-on-suspicion-of-manslaughter-for-injecting-a-lethal-overdose-of-morphi.md)
-_Context: Karolinska University Hospital, Sweden, drug overdose, manslaughter, morphine, pediatric, remanded, sodium thiopental_
+_Context: Karolinska University Hospital, Sweden, drug overdose, manslaughter by gross negligence, morphine, pediatric, remanded, sodium thiopental_
 
 ### [ North Korea threatens the safety of South Korean civilian aircraft flying near its territory, on the eve of annual military exercises involving the United States and the South. ](/news/2009/03/6/north-korea-threatens-the-safety-of-south-korean-civilian-aircraft-flying-near-its-territory-on-the-eve-of-annual-military-exercises-invol.md)
 _Context: North Korea, South Korea, United States, military exercise_

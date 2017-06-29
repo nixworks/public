@@ -28,7 +28,7 @@ Electronics retailer RadioShack Corp might prepare to file for bankruptcy protec
 KUALA LUMPUR (AFP/THE STAR/ASIA NEWS NETWORK) - Eight people were killed and 22 others injured when a tour bus veered off a Malaysian highway and caught fire early on Thursday morning, media reports said.. Read more at straitstimes.com.
 
 ### [A newly manufactured tug boat capsizes during a test run in the Yangtze River in east China's Jiangsu Province leaving at least 20 people missing. ](/news/2015/01/15/a-newly-manufactured-tug-boat-capsizes-during-a-test-run-in-the-yangtze-river-in-east-china-s-jiangsu-province-leaving-at-least-20-people-mi.md)
-_Context: Chinese, Jiangsu Province, Yangtze River_
+_Context: China, Jiangsu Province, Yangtze River_
 
 ### [The Morbidity and Mortality Weekly Report estimates the effectiveness of the influenza vaccination in 2014&ndash;2015 at 23% which is the lowest since 2006. ](/news/2015/01/15/the-morbidity-and-mortality-weekly-report-estimates-the-effectiveness-of-the-influenza-vaccination-in-2014-ndash-2015-at-23-which-is-the-lo.md)
 Take a look at the latest and archived public health news releases published by the CDC. 

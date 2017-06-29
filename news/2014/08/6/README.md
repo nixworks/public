@@ -13,7 +13,7 @@ Moscow plans to ban all US agricultural products, including poultry, as well as 
 The two rivals will continue to pursue existing patent lawsuits in the U.S.
 
 ### [The death toll from the earthquake in China's Yunnan province rises to 589 with nine people still missing. ](/news/2014/08/6/the-death-toll-from-the-earthquake-in-china-s-yunnan-province-rises-to-589-with-nine-people-still-missing.md)
-_Context: 2014 Ludian earthquake, Chinese, Yunnan_
+_Context: 2014 Ludian earthquake, China, Yunnan_
 
 ### [The US island state of Hawaii prepares for the potential impact of Hurricane Iselle on Thursday and Tropical Storm Julio on Sunday. ](/news/2014/08/6/the-us-island-state-of-hawaii-prepares-for-the-potential-impact-of-hurricane-iselle-on-thursday-and-tropical-storm-julio-on-sunday.md)
 _Context: 2014 Pacific hurricane season, Hawaii_
@@ -22,7 +22,7 @@ _Context: 2014 Pacific hurricane season, Hawaii_
 _Context: 2014 West Africa Ebola outbreak, Jeddah, Saudi Arabia, Sierra Leone, World Health Organisation, ebola virus_
 
 ### [Officials in Karamay in Xinjiang, western China, places a temporary ban on Islamic headscarves, clothing and those with beards from using public transport, following violence in the region. ](/news/2014/08/6/officials-in-karamay-in-xinjiang-western-china-places-a-temporary-ban-on-islamic-headscarves-clothing-and-those-with-beards-from-using-pu.md)
-_Context: Chinese, Islam, Karamay, Xinjiang_
+_Context: China, Islam, Karamay, Xinjiang_
 
 ### [Two medical students Neil Dalton, 23 and Aidan Brunger completing their exchange from Newcastle University to a hospital in Malaysian Borneo were murdered after 4 men followed them after an argument over singing in a bar and stabbed them from behind. ](/news/2014/08/6/two-medical-students-neil-dalton-23-and-aidan-brunger-completing-their-exchange-from-newcastle-university-to-a-hospital-in-malaysian-borneo.md)
 Neil Dalton and Aidan Brunger were warned about the dangers of drinking in local bars just days before they were brutally knifed to death in Kuching

@@ -28,7 +28,7 @@ _Context: Italy, Libya, Muammar al-Gaddafi_
 RTÉ Director-General Cathal Goan has told an Oireachtas Committee that the national broadcaster is not facing bankruptcy.
 
 ### [ Four Chinese Uighurs from the Guantanamo Bay detention camp are resettled in Bermuda. ](/news/2009/06/11/four-chinese-uighurs-from-the-guantanamo-bay-detention-camp-are-resettled-in-bermuda.md)
-_Context: Bermuda, Chinese, Uyghur, detainee_
+_Context: Bermuda, China, Uyghur, detainee_
 
 ### [ Campaigning in Iran's presidential election ends after three weeks of mass rallies and political rhetoric. ](/news/2009/06/11/campaigning-in-iran-s-presidential-election-ends-after-three-weeks-of-mass-rallies-and-political-rhetoric.md)
 _Context: Iran, re-election_

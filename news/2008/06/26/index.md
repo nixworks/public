@@ -22,7 +22,7 @@ A deal to keep disqualified drivers off the roads in the whole of Ireland and Br
 _Context: District of Columbia v. Heller, Second Amendment, Supreme Court of the United States, Washington, D.C., firearm, gun control_
 
 ### [ A bus and a truck collide in China's Henan Province, leaving five dead and eight injured. ](/news/2008/06/26/a-bus-and-a-truck-collide-in-china-s-henan-province-leaving-five-dead-and-eight-injured.md)
-_Context: Chinese, Henan Province_
+_Context: China, Henan Province_
 
 ## [Previous Day...](/news/2008/06/25/index.md)
 

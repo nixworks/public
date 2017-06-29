@@ -25,13 +25,13 @@ _Context: Pacific, Vanuatu, island nation, magnitude_
 _Context: Alaskan North Slope, BP, Deadhorse Airport_
 
 ### [In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military-exercises-focusing-on-co.md)
-_Context: China-Nepal relations, Chinese, India, Nepal_
+_Context: China, China-Nepal relations, India, Nepal_
 
 ### [North Korean Vice Foreign Minister Han Song-ryol threatens to test missiles on a "weekly" basis, as United States Vice President Mike Pence warns the DPRK that the United States' "era of strategic patience" with the country was over. ](/news/2017/04/17/north-korean-vice-foreign-minister-han-song-ryol-threatens-to-test-missiles-on-a-weekly-basis-as-united-states-vice-president-mike-pence.md)
 _Context: DPRK, Han Song-ryol, Mike Pence, North Korea, United States Vice President_
 
 ### [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md)
-_Context: Cleveland, Facebook, Federal Bureau of Investigation, Indiana, Michigan, New York, Ohio, Pennsylvania, Shooting of Robert Godwin_
+_Context: Cleveland, Facebook, Inc., Federal Bureau of Investigation, Indiana, Michigan, New York, Ohio, Pennsylvania, Shooting of Robert Godwin_
 
 ### [A Brazilian federal judge orders Petrobras to suspend the sale to Norway's Statoil of its stake in an  offshore prospect,  in response to the National Federation of Oil Workers petition there should have been an open bidding process for this transaction. ](/news/2017/04/17/a-brazilian-federal-judge-orders-petrobras-to-suspend-the-sale-to-norway-s-statoil-of-its-stake-in-an-offshore-prospect-in-response-to-th.md)
 _Context: Brazilian federal judge, Norway, Petrobras, Statoil_

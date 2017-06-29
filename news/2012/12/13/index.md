@@ -7,7 +7,7 @@ _Context: Foreign Ministry, Russia, Syria, Syrian National Coalition, Syrian gov
 Five injured in West Bank clashes between Palestinian youths and Israeli soldiers ahead of funeral of killed teenager.
 
 ### [Senkaku Islands dispute:Japan scrambles fighter jets in response to a Chinese plane seen near the disputed Senkaku Islands, marking the first time aircraft are involved in the dispute. ](/news/2012/12/13/senkaku-islands-dispute-pjapan-scrambles-fighter-jets-in-response-to-a-chinese-plane-seen-near-the-disputed-senkaku-islands-marking-the-fir.md)
-_Context: Chinese, Japan, Senkaku Islands, Senkaku Islands dispute, aircraft, fighter jets_
+_Context: China, Japan, Senkaku Islands, Senkaku Islands dispute, aircraft, fighter jets_
 
 ### [''The Tallow Candle'', an early work by Hans Christian Andersen, is found at the bottom of a box in Denmark. ](/news/2012/12/13/the-tallow-candle-an-early-work-by-hans-christian-andersen-is-found-at-the-bottom-of-a-box-in-denmark.md)
 _Context: Denmark, Hans Christian Andersen, The Tallow Candle_

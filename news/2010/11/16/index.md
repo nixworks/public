@@ -22,7 +22,7 @@ _Context: France, Mexico, Nairobi, Representative List of the Intangible Cultura
 Archbishop Timothy M. Dolan of New York will lead the United States Conference of Catholic Bishops.
 
 ### [Facebook announces that it will launch a new messaging platform, providing an email address of "@facebook.com." ](/news/2010/11/16/facebook-announces-that-it-will-launch-a-new-messaging-platform-providing-an-email-address-of-facebook-com.md)
-_Context: @facebook.com, Facebook, email_
+_Context: @facebook.com, Facebook, Inc., email_
 
 ### [ExxonMobil says a raid by Movement for the Emancipation of the Niger Delta, a militant Nigerian group, has eliminated 45,000 barrels a day of production of natural gas liquids and condensates. ](/news/2010/11/16/exxonmobil-says-a-raid-by-movement-for-the-emancipation-of-the-niger-delta-a-militant-nigerian-group-has-eliminated-45-000-barrels-a-day-o.md)
 * Attack shuts in 45,000 bpd condensate, NGL output * Exxon says 8 people missing after platform raid * MEND claims responsibility, threat

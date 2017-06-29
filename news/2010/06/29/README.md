@@ -40,7 +40,7 @@ Sudan announces it is closing its border with Libya to protect travellers from a
 _Context: Indonesia, Jakarta, suicide attacks on two hotels_
 
 ### [Dr. Jayant Patel is convicted at the Supreme Court of Queensland, Australia of three charges of manslaughter committed while working at the Bundaberg Base Hospital. ](/news/2010/06/29/dr-jayant-patel-is-convicted-at-the-supreme-court-of-queensland-australia-of-three-charges-of-manslaughter-committed-while-working-at-the.md)
-_Context: Australia, Base Hospital, Bundaberg, Jayant Patel, Queensland, Supreme Court, manslaughter_
+_Context: Australia, Base Hospital, Bundaberg, Jayant Patel, Queensland, Supreme Court, manslaughter by gross negligence_
 
 ### [Australian WinterSydney experiences its coldest June day in 27 years. ](/news/2010/06/29/australian-winterpsydney-experiences-its-coldest-june-day-in-27-years.md)
 Sydney has shivered through its coldest June day in 27 years, with the mercury plummeting to 4.7 degrees in the city.

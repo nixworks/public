@@ -16,7 +16,7 @@ _Context: Broadway, The Lion King, The Phantom of the Opera_
 China sets up a rare earth association in a bid to streamline the sector as it continues to face criticism over its policies.
 
 ### [Facebook buys photo sharing application Instagram for $1 billion. ](/news/2012/04/9/facebook-buys-photo-sharing-application-instagram-for-1-billion.md)
-_Context: Facebook, Instagram_
+_Context: Facebook, Inc., Instagram_
 
 ### [North Korea positions a rocket for a launch later in the week, drawing protests from the Western world, South Korea and Japan, all of which suspect the rocket may be a ballistic missile test. ](/news/2012/04/9/north-korea-positions-a-rocket-for-a-launch-later-in-the-week-drawing-protests-from-the-western-world-south-korea-and-japan-all-of-which.md)
 _Context: North Korea, Westerners, ballistic missile_

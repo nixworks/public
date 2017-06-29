@@ -1,7 +1,7 @@
 ## [2006-07-16](/news/2006/07/16/index.md)
 
 ### [ It is reported that Tropical Storm Bilis killed at least 115 people when it hit southeastern China on Friday. ](/news/2006/07/16/it-is-reported-that-tropical-storm-bilis-killed-at-least-115-people-when-it-hit-southeastern-china-on-friday.md)
-_Context: Chinese, Typhoon Bilis_
+_Context: China, Typhoon Bilis_
 
 ### [ An Iraqi general claims that a suicide bombing in a Shiite cafe in northern Iraq has killed 25 people. ](/news/2006/07/16/an-iraqi-general-claims-that-a-suicide-bombing-in-a-shiite-cafe-in-northern-iraq-has-killed-25-people.md)
 Read the latest national and world news on Newsday. All the top stores, latest videos and photo galleries are available at Newsday.com

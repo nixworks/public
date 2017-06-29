@@ -34,7 +34,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Angers, France_
 
 ### [ Other French court in Bonneville finds 13 people and companies guilty of manslaughter for the March 24 1999 Mont Blanc tunnel fire. Gerard Roncoli, the French head of security, received six months in jail and 24 months of suspended sentence  ](/news/2005/07/27/other-french-court-in-bonneville-finds-13-people-and-companies-guilty-of-manslaughter-for-the-march-24-1999-mont-blanc-tunnel-fire-gerard.md)
-_Context: 1999, Bonneville, France, March 24, Mont Blanc tunnel fire, manslaughter_
+_Context: 1999, Bonneville, France, March 24, Mont Blanc tunnel fire, manslaughter by gross negligence_
 
 ## [Previous Day...](/news/2005/07/26/index.md)
 

@@ -1,7 +1,7 @@
 ## [2010-05-15](/news/2010/05/15/index.md)
 
 ### [Following the phenomenal success of James Cameron's Avatar, a ceremony marking the start of the shoot of China's first IMAX3D film. ](/news/2010/05/15/following-the-phenomenal-success-of-james-cameron-s-avatar-a-ceremony-marking-the-start-of-the-shoot-of-china-s-first-imax3d-film.md)
-_Context: Avatar, Chinese, IMAX3D, James Cameron_
+_Context: Avatar, China, IMAX3D, James Cameron_
 
 ### [Italy fines Ryanair EUR3 million for failing to help passengers after cancelling their flights during the Icelandic volcanic crisis as the cloud threatens to wreak more havoc. ](/news/2010/05/15/italy-fines-ryanair-a-3-million-for-failing-to-help-passengers-after-cancelling-their-flights-during-the-icelandic-volcanic-crisis-as-the-c.md)
 Italy has fined Ryanair 3 million euros for failing to help passengers after cancelling their flights during the volcanic ash crisis. Ryanair denies the accusation.

@@ -31,7 +31,7 @@ Thousands turn out to elect a new leader for a Chinese village that staged a hig
 _Context: Mahmoud Ahmadinejad, President, legislative elections_
 
 ### [Authorities in Tajikistan close access to Facebook and sites with material critical of President Emomali Rakhmon. ](/news/2012/03/3/authorities-in-tajikistan-close-access-to-facebook-and-sites-with-material-critical-of-president-emomali-rakhmon.md)
-_Context: Emomali Rakhmon, Facebook, President, Tajikistan_
+_Context: Emomali Rakhmon, Facebook, Inc., President, Tajikistan_
 
 ### [Republican voters in the US state of Washington go to the polls for caucuses, with Mitt Romney winning. ](/news/2012/03/3/republican-voters-in-the-us-state-of-washington-go-to-the-polls-for-caucuses-with-mitt-romney-winning.md)
 _Context: Mitt Romney, R, Washington, caucuses_

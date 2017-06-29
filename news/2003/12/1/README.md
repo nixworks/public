@@ -19,7 +19,7 @@ _Context: Chen Shui-bian, People's Republic of China, President of Taiwan, Taiwa
 _Context: Boeing, Boeing 767, CFO, Defense Department, Harry Stonecipher, Hewlett-Packard, Lewis Platt, McDonnell Douglas, Phil Condit, aerial refueling tankers, aviation, chairman, chief executive officer, ethics, scandal_
 
 ### [ In Flandreau, South Dakota, jury selection begins in the manslaughter trial of former South Dakota Governor and current US Congressman Bill Janklow. [http://www.foxnews.com/story/0,2933,104431,00.html]](/news/2003/12/1/in-flandreau-south-dakota-jury-selection-begins-in-the-manslaughter-trial-of-former-south-dakota-governor-and-current-us-congressman-bill.md)
-_Context: Bill Janklow, Flandreau, South Dakota Governor, United States House of Representatives, jury, jury trial, manslaughter_
+_Context: Bill Janklow, Flandreau, South Dakota Governor, United States House of Representatives, jury, jury trial, manslaughter by gross negligence_
 
 ### [  The cross country cycling organization "LOCO" was founded in Shreveport / Bossier City.](/news/2003/12/1/the-cross-country-cycling-organization-loco-was-founded-in-shreveport-bossier-city.md)
 _Context: Bossier City, LOCO, Shreveport, cross country cycling_

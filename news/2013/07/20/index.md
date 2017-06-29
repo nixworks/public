@@ -19,7 +19,7 @@ Israel has agreed to release Palestinian prisoners in order to resume peace talk
 _Context: Arauca, Colombia, FARC, an attack_
 
 ### [Five Costa Crociere employees plead guilty to manslaughter and negligence charges in relation to the Costa Concordia disaster that cost 32 crew and passengers their lives off the coast of Italy. Captain Francesco Schettino is being tried separately. ](/news/2013/07/20/five-costa-crociere-employees-plead-guilty-to-manslaughter-and-negligence-charges-in-relation-to-the-costa-concordia-disaster-that-cost-32-c.md)
-_Context: ''Costa Concordia'' disaster, Costa Crociere, manslaughter, negligence_
+_Context: ''Costa Concordia'' disaster, Costa Crociere, manslaughter by gross negligence, negligence_
 
 ### [A man sets off homemade black powder explosive in Beijing Capital International Airport, injuring himself. No one else was hurt in the explosion. ](/news/2013/07/20/a-man-sets-off-homemade-black-powder-explosive-in-beijing-capital-international-airport-injuring-himself-no-one-else-was-hurt-in-the-explo.md)
 _Context: Beijing Capital International Airport_

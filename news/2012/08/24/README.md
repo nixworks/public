@@ -34,7 +34,7 @@ _Context: Apple Inc., Samsung, South Korea_
 The patent trial of the century is not going well for Samsung; the jury has ruled almost entirely in Apple&amp;#39;s favor, with damages so far totaling a hilarious $1.05 billion. That&amp;#39;s about a quarter of Samsung&amp;#39;s operating profit in Q4 of 2011 (but only a tenth of Apple&amp;#39;s cash on hand), and could have massive repercussions for both it and the industry going forward.
 
 ### [The High Court of Australia quashes the conviction of former Bundaberg, Queensland surgeon Jayant Patel on manslaughter charges due to a miscarriage of justice with a fresh trial to be held. ](/news/2012/08/24/the-high-court-of-australia-quashes-the-conviction-of-former-bundaberg-queensland-surgeon-jayant-patel-on-manslaughter-charges-due-to-a-mis.md)
-_Context: Bundaberg, Queensland, High Court of Australia, Jayant Patel, manslaughter_
+_Context: Bundaberg, Queensland, High Court of Australia, Jayant Patel, manslaughter by gross negligence_
 
 ### [A gunman shoots and kills a former coworker near the Empire State Building in New York City. Following the initial shooting, police kill the gunman, and nine other people are wounded. ](/news/2012/08/24/a-gunman-shoots-and-kills-a-former-coworker-near-the-empire-state-building-in-new-york-city-following-the-initial-shooting-police-kill-the.md)
 _Context: Empire State Building, New York City, kills_

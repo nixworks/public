@@ -19,7 +19,7 @@ Plans to build a $600 million plant in Mobile, Alabama to produce A320 passenger
 GlaxoSmithKline Plc agreed to plead guilty to misdemeanor criminal charges and pay $3 billion to settle what government officials on Monday described as the largest case of healthcare fraud in U.S. history.
 
 ### [Despite early frustration and strife about their IPO, Facebook decides to remain on the Nasdaq. ](/news/2012/07/2/despite-early-frustration-and-strife-about-their-ipo-facebook-decides-to-remain-on-the-nasdaq.md)
-_Context: Facebook, IPO, Nasdaq_
+_Context: Facebook, Inc., IPO, Nasdaq_
 
 ### [The British government announces a parliamentary investigation into the Barclays Libor scandal, with reports hoped to be filed by the end of the year. ](/news/2012/07/2/the-british-government-announces-a-parliamentary-investigation-into-the-barclays-libor-scandal-with-reports-hoped-to-be-filed-by-the-end-of.md)
 _Context: Barclays, Libor, United Kingdom_

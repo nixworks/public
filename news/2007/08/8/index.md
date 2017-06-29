@@ -19,7 +19,7 @@ _Context: Iran, Iraq Prime Minister, Nouri al-Maliki_
 _Context: I-35W Mississippi River bridge, trespass_
 
 ### [ Powers Fasteners, the company that supplied the epoxy blamed for the Big Dig ceiling collapse in Boston, Massachusetts is indicted on a manslaughter charge. ](/news/2007/08/8/powers-fasteners-the-company-that-supplied-the-epoxy-blamed-for-the-big-dig-ceiling-collapse-in-boston-massachusetts-is-indicted-on-a-man.md)
-_Context: Big Dig ceiling collapse, Boston, Massachusetts, epoxy, manslaughter_
+_Context: Big Dig ceiling collapse, Boston, Massachusetts, epoxy, manslaughter by gross negligence_
 
 ### [ A United States raid and air strike on a Shiite militant base in Sadr City results in 32 deaths. ](/news/2007/08/8/a-united-states-raid-and-air-strike-on-a-shiite-militant-base-in-sadr-city-results-in-32-deaths.md)
 U.S. officials described it as the latest assault on a network linking Iraqi militants with money and bombs from Iran.
@@ -52,7 +52,7 @@ _Context: North Waziristan, Pakistan, Taliban_
 _Context: Hohhot, Inner Mongolia, Zeng Qinghong_
 
 ### [ China sends investigators to investigate illegally-built government offices in 30 provinces. ](/news/2007/08/8/china-sends-investigators-to-investigate-illegally-built-government-offices-in-30-provinces.md)
-_Context: Chinese_
+_Context: China_
 
 ### [ The Reserve Bank of Australia raises interest rates to 6.5%, the highest level in Australia since 1996. ](/news/2007/08/8/the-reserve-bank-of-australia-raises-interest-rates-to-6-5-the-highest-level-in-australia-since-1996.md)
 _Context: 1996, Australia, Reserve Bank of Australia, interest rates_

@@ -25,7 +25,7 @@ _Context: International Criminal Court, Kenya, post-election violence_
 Around 50 activists of a Tamil outfit on Friday barged into the office of Sri Lankan high commission in Chankyapuri area.
 
 ### [ Pakistan's army probes a video posted on social networking website Facebook that appears to show soldiers abusing Taliban. ](/news/2009/10/2/pakistan-s-army-probes-a-video-posted-on-social-networking-website-facebook-that-appears-to-show-soldiers-abusing-taliban.md)
-_Context: Facebook, Pakistan, Taliban, social network_
+_Context: Facebook, Inc., Pakistan, Taliban, social network_
 
 ### [ Mexican authorities claim to have made their largest-ever seizure of chemicals used in the manufacture of the synthetic drug methamphetamine. ](/news/2009/10/2/mexican-authorities-claim-to-have-made-their-largest-ever-seizure-of-chemicals-used-in-the-manufacture-of-the-synthetic-drug-methamphetamin.md)
 _Context: Mexico, methamphetamine_

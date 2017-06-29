@@ -25,7 +25,7 @@ The U.S. Department of Justice on Monday charged a federal contractor with sendi
 _Context: 2016-17 Turkish purges, Fethullah Gulen, Peoples' Democratic Party, Turkish interior ministry, citizenship_
 
 ### [The ''charge d'affaires'' of the U.S. Embassy in Beijing, China, resigns following President Donald Trump's  announcement he will  withdraw the United States from the 2015 international Paris Agreement on climate change mitigation. ](/news/2017/06/5/the-charga-c-d-affaires-of-the-u-s-embassy-in-beijing-china-resigns-following-president-donald-trump-s-announcement-he-will-withdraw.md)
-_Context: Chinese, Paris Agreement, United States withdrawal from the Paris Agreement, charge d'affaires, climate change mitigation_
+_Context: China, Paris Agreement, United States withdrawal from the Paris Agreement, charge d'affaires, climate change mitigation_
 
 ### [Indian Space Research Organisation successfully launches communications satellite GSAT-19 through its heaviest rocket Geosynchronous Satellite Launch Vehicle Mark III. ](/news/2017/06/5/indian-space-research-organisation-successfully-launches-communications-satellite-gsat-19-through-its-heaviest-rocket-geosynchronous-satelli.md)
 Indian Space Research Organisation on Monday successfully launched its most powerful rocket, GSLV Mk III nicknamed &lsquo;Fatboy&rsquo;, by firing a high thrust indigenous cryogenic engine in the first developmental flight and placed the country&rsquo;s heaviest satellite in orbit.

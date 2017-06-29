@@ -22,7 +22,7 @@ A 40-year-old man described as a social misfit is being questioned by Japanese p
 _Context: ''Midnight Rider'', Altamaha River, Gregg Allman, Randall Miller, Sarah Jones, Wayne County, Georgia_
 
 ### [In a five-day national dragnet last week, Operation Cross Check, the U.S. Immigration and Customs Enforcement (ICE) rounds up 2,059 people who had been convicted of crimes and had been living in the country illegally. Most were not violent criminals (none were implicated in terrorism; almost all the 912 misdemeanors were for driving under the influence, DWI; 476 of the felons were charged with an immigration violation, though some were convicted of manslaughter, robbery, rape, and child pornography). ](/news/2015/03/9/in-a-five-day-national-dragnet-last-week-operation-cross-check-the-u-s-immigration-and-customs-enforcement-ice-rounds-up-2-059-people-w.md)
-_Context: U.S. Immigration and Customs Enforcement, child pornography, driving under the influence, manslaughter, rape, robbery, terrorism_
+_Context: U.S. Immigration and Customs Enforcement, child pornography, driving under the influence, manslaughter by gross negligence, rape, robbery, terrorism_
 
 ### [Solar-powered aircraft ''Solar Impulse 2'' begins its circumnavigation of the earth. ](/news/2015/03/9/solar-powered-aircraft-solar-impulse-2-begins-its-circumnavigation-of-the-earth.md)
 A record-breaking attempt to fly around the world in a solar-powered plane completes its first leg, a 12-hour journey in the Gulf to Oman.

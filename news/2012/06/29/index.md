@@ -68,7 +68,7 @@ _Context: Collective Security Treaty Organization, Russia, Uzbekistan_
 _Context: Japan_
 
 ### [The Chinese Shenzhou 9 space capsule lands safely with all three astronauts aboard. ](/news/2012/06/29/the-chinese-shenzhou-9-space-capsule-lands-safely-with-all-three-astronauts-aboard.md)
-_Context: Chinese, Shenzhou 9_
+_Context: China, Shenzhou 9_
 
 ## [Previous Day...](/news/2012/06/28/index.md)
 

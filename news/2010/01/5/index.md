@@ -7,7 +7,7 @@ Military launches campaigns in three provinces as foreign governments reopen emb
 _Context: Afghanistan, CIA, Humam Khalil Abu-Mulal al-Balawi, Jordan, al-Qaeda, killed, suicide bomber_
 
 ### [Facebook blocks a social network suicide website. ](/news/2010/01/5/facebook-blocks-a-social-network-suicide-website.md)
-_Context: Facebook, social network_
+_Context: Facebook, Inc., social network_
 
 ### [The World Food Programme suspends its operations in southern Somalia due to rising instability in the region. ](/news/2010/01/5/the-world-food-programme-suspends-its-operations-in-southern-somalia-due-to-rising-instability-in-the-region.md)
 _Context: Somalia, World Food Programme_

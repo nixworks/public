@@ -37,7 +37,7 @@ By Alisa TangBANGKOK (Thomson Reuters Foundation) - The estimated number of adol
 _Context: Emirati martyrs, Martyrs' Day (United Arab Emirates), United Arab Emirates_
 
 ### [South Korea's parliament approves a free trade pact with China after opposition lawmakers, concerned that deal that would hurt agriculture and fisheries, secured a $1.4 billion relief package for farmers. ](/news/2015/11/30/south-korea-s-parliament-approves-a-free-trade-pact-with-china-after-opposition-lawmakers-concerned-that-deal-that-would-hurt-agriculture-a.md)
-_Context: Chinese, South Korea, agriculture, fisheries, free trade, parliamentary review_
+_Context: China, South Korea, agriculture, fisheries, free trade, parliamentary review_
 
 ### [Around 150 world leaders attend the UN Climate Change Conference in Paris, aiming for a global deal on limiting greenhouse gas emissions. ](/news/2015/11/30/around-150-world-leaders-attend-the-un-climate-change-conference-in-paris-aiming-for-a-global-deal-on-limiting-greenhouse-gas-emissions.md)
 _Context: 2015 United Nations Climate Change Conference, Paris, greenhouse gas_
@@ -58,7 +58,7 @@ University of Chicago officials asked students to stay away from campus on Monda
 Added to list of ‘undesirable organisations’, the foundations are accused of posing a threat to Russian national security
 
 ### [Jury selection begins for the trial of William Porter, a Baltimore, Maryland police officer charged with manslaughter and other charges surrounding the April 19 death of Freddie Gray.  Porter is the first of six officers to be tried. ](/news/2015/11/30/jury-selection-begins-for-the-trial-of-william-porter-a-baltimore-maryland-police-officer-charged-with-manslaughter-and-other-charges-surr.md)
-_Context: Baltimore, Maryland, death of Freddie Gray, manslaughter_
+_Context: Baltimore, Maryland, death of Freddie Gray, manslaughter by gross negligence_
 
 ### [Venezuela announces it will suspend the sale of alcoholic beverages, fireworks and weapons before Sunday's parliamentary elections, starting Friday at 6 p.m. until next Monday at 6 p.m. Civilian permits for the possession and use of firearms and knives will be also be suspended for the same period. ](/news/2015/11/30/venezuela-announces-it-will-suspend-the-sale-of-alcoholic-beverages-fireworks-and-weapons-before-sunday-s-parliamentary-elections-starting.md)
 Venezuela will suspend the sale of alcoholic beverages, fireworks and weapons in anticipation of the upcoming parliamentary elections.

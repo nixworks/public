@@ -31,7 +31,7 @@ _Context: California, Lake Isabella, wildfire_
 _Context: Bhutan, Tshering Tobgay, anti-smoking_
 
 ### [Bernardo De Bernardinis of Italy's Civil Protection Department and six other seismologists are charged with manslaughter for failing to predict the 2009 L'Aquila earthquake that struck the country. ](/news/2011/05/27/bernardo-de-bernardinis-of-italy-s-civil-protection-department-and-six-other-seismologists-are-charged-with-manslaughter-for-failing-to-pred.md)
-_Context: 2009 L'Aquila earthquake, Bernardo De Bernardinis, Civil Protection Department, manslaughter_
+_Context: 2009 L'Aquila earthquake, Bernardo De Bernardinis, Civil Protection Department, manslaughter by gross negligence_
 
 ### [A Serbian court rules that former Bosnian Serb military leader Ratko Mladic is fit to stand a genocide trial at The Hague. ](/news/2011/05/27/a-serbian-court-rules-that-former-bosnian-serb-military-leader-ratko-mladia-is-fit-to-stand-a-genocide-trial-at-the-hague.md)
 _Context: Bosnia, Ratko Mladic, Serb, Serbia, The Hague, genocide_

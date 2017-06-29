@@ -19,7 +19,7 @@ The wives of the Malaysian and Indonesian envoys were also killed in the crash.
 _Context: Atlanta, DeKalb-Peachtree Airport, Georgia, Interstate 285, Piper PA-32_
 
 ### [Russia and China agree to a US$2 billion fund for agricultural investments in both countries. ](/news/2015/05/8/russia-and-china-agree-to-a-us-2-billion-fund-for-agricultural-investments-in-both-countries.md)
-_Context: Chinese, Russia, US$_
+_Context: China, Russia, US$_
 
 ### [Burkina Faso and Niger agree to exchange 18 towns in order to resolve a long-running border dispute with Burkina Faso receiving 14 and Niger 4. ](/news/2015/05/8/burkina-faso-and-niger-agree-to-exchange-18-towns-in-order-to-resolve-a-long-running-border-dispute-with-burkina-faso-receiving-14-and-niger.md)
 West African nations implement 2013 ruling by international court of justice to redefine shared 620 miles of border and exchange territory

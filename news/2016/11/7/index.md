@@ -19,7 +19,7 @@ The Cyprus leaders hold UN-mediated talks aimed at reaching a deal on reuniting 
 An Islamist militant group has claimed it has abducted a German sailor and killed his companion aboard their yacht. The Abu Sayyaf group has made millions in kidnappings for ransom.
 
 ### [A Cambodian opposition senator is sentenced to 7 years in prison for a post on Facebook. ](/news/2016/11/7/a-cambodian-opposition-senator-is-sentenced-to-7-years-in-prison-for-a-post-on-facebook.md)
-_Context: Cambodia, Facebook_
+_Context: Cambodia, Facebook, Inc._
 
 ### [Baggio Leung and Yau Wai-ching are banned by China from taking office in Hong Kong over the oath-taking controversy. ](/news/2016/11/7/baggio-leung-and-yau-wai-ching-are-banned-by-china-from-taking-office-in-hong-kong-over-the-oath-taking-controversy.md)
 The rare intervention by Beijing could spark more social unrest.

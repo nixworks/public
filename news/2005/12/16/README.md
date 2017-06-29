@@ -16,7 +16,7 @@ _Context: 2004, Abu Musab al-Zarqawi, Conflict in Iraq, Iraqi Police_
 _Context: Hamas, Palestinian, West Bank_
 
 ### [ At least 39 people, 33 of whom were patients, die after a fire breaks out in a hospital in the city of Liaoyuan, near Changchun in China's Jilin Province. The cause of the fire is unknown. ](/news/2005/12/16/at-least-39-people-33-of-whom-were-patients-die-after-a-fire-breaks-out-in-a-hospital-in-the-city-of-liaoyuan-near-changchun-in-china-s.md)
-_Context: Changchun, Chinese, Jilin province, Liaoyuan_
+_Context: Changchun, China, Jilin province, Liaoyuan_
 
 ### [ Israeli-Palestinian conflict: An Israeli settler dies following a drive-by shooting claimed by the al-Aqsa Martyrs' Brigades and Islamic Jihad. ](/news/2005/12/16/israeli-palestinian-conflict-an-israeli-settler-dies-following-a-drive-by-shooting-claimed-by-the-al-aqsa-martyrs-brigades-and-islamic-ji.md)
 West Bank shooting: One man dead, two women suffer from shock after gunmen traveling in vehicle open fire at Israeli car south of Hebron Friday; Fatah, Islamic Jihad claim responsibility

@@ -7,7 +7,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Lin Liang Ren, 29, is convicted on 21 counts of manslaughter arising from the February 2004 Morecambe Bay cockling disaster.  ](/news/2006/03/24/lin-liang-ren-29-is-convicted-on-21-counts-of-manslaughter-arising-from-the-february-2004-morecambe-bay-cockling-disaster.md)
-_Context: February 2004 Morecambe Bay cockling disaster, Lin Liang Ren, manslaughter_
+_Context: February 2004 Morecambe Bay cockling disaster, Lin Liang Ren, manslaughter by gross negligence_
 
 ### [ EU summit in Brussels: the EU leaders back plans to develop a common energy policy, but the specifics remain vague and difficult ](/news/2006/03/24/eu-summit-in-brussels-the-eu-leaders-back-plans-to-develop-a-common-energy-policy-but-the-specifics-remain-vague-and-difficult.md)
 _Context: EU summit_

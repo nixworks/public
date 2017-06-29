@@ -19,7 +19,7 @@ Rising dream-pop artist Hazel English is from Melbourne, Australia by way of Oak
 Chinese state-owned automaker Dongfeng Motor is snapping up a billion dollar slice of struggling French company PSA Peugeot Citroen.
 
 ### [Facebook announced it is acquiring WhatsApp for US$19 billion in cash and stock. ](/news/2014/02/19/facebook-announced-it-is-acquiring-whatsapp-for-us-19-billion-in-cash-and-stock.md)
-_Context: Facebook, WhatsApp_
+_Context: Facebook, Inc., WhatsApp_
 
 ### [Botswana ends diplomatic relations with North Korea following a UN report on the latter's human rights record. ](/news/2014/02/19/botswana-ends-diplomatic-relations-with-north-korea-following-a-un-report-on-the-latter-s-human-rights-record.md)
 _Context: Botswana, North Korea, human rights_
