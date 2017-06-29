@@ -1,6 +1,6 @@
 ### [2017-06-29](/news/2017/06/29/index.md)
 
-# ISRO launches communications satellite GSAT-17 from French Guiana.
+# ISRO launches communications satellite GSAT-17 from French Guiana. 
 
 GSAT-17 is the third satellite launch by ISRO this month, the other two being first developmental flight of GSLV MkIII and PSLV C-38 missions, both from Sriharikota spaceport. It will be the 21st satellite from ISRO to be launched by Arianespace. 
 

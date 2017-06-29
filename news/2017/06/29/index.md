@@ -6,13 +6,13 @@ Australia and the United States began their biggest ever joint military exercise
 ### [Victoria Police charge Cardinal George Pell, the Prefect of the Secretariat for the Economy, and the third most senior official of the Catholic Church, with historic child sex offences. Pell will be required to attend hearings at the Melbourne Magistrates Court in Australia on July 19. ](/news/2017/06/29/victoria-police-charge-cardinal-george-pell-the-prefect-of-the-secretariat-for-the-economy-and-the-third-most-senior-official-of-the-catho.md)
 Australia&#039;s most senior Catholic cleric, Cardinal George Pell, is charged with historical sexual assault offences.
 
-### [A jury trial convicts the man who pulled the trigger and four accomplices.  The five had been promised a bounty of 15 million Russian rubles. Critics say the financiers and organizers of the crime have not been identified. ](/news/2017/06/29/a-jury-trial-convicts-the-man-who-pulled-the-trigger-and-four-accomplices-the-five-had-been-promised-a-bounty-of-15-million-russian-rubles.md)
-_Context: Assassination of Boris Nemtsov, Russian ruble_
+### [Aftermath of the A jury trial convicts the man who pulled the trigger and four accomplices.  The five had been promised a bounty of 15 million Russian rubles. Critics say the financiers and organizers of the crime have not been identified. ](/news/2017/06/29/aftermath-of-the-a-jury-trial-convicts-the-man-who-pulled-the-trigger-and-four-accomplices-the-five-had-been-promised-a-bounty-of-15-milli.md)
+_Context: Russian ruble, assassination of Boris Nemtsov_
 
 ### [The Chamber of Deputies of the Czech Republic passes a Czech Social Democratic Party-proposed amendment to the constitution, giving citizens the right to acquire, posses and carry firearms for the purpose of security. The constitutional amendment will now go to the Senate, where it is expected to pass. ](/news/2017/06/29/the-chamber-of-deputies-of-the-czech-republic-passes-a-czech-social-democratic-party-proposed-amendment-to-the-constitution-giving-citizens.md)
 _Context: Chamber of Deputies, Czech Republic, Czech Social Democratic Party, Gun laws in the Czech Republic, Senate, constitution_
 
-### [ISRO launches communications satellite GSAT-17 from French Guiana.](/news/2017/06/29/isro-launches-communications-satellite-gsat-17-from-french-guiana.md)
+### [ISRO launches communications satellite GSAT-17 from French Guiana. ](/news/2017/06/29/isro-launches-communications-satellite-gsat-17-from-french-guiana.md)
 GSAT-17 is the third satellite launch by ISRO this month, the other two being first developmental flight of GSLV MkIII and PSLV C-38 missions, both from Sriharikota spaceport. It will be the 21st satellite from ISRO to be launched by Arianespace. 
 
 ## [Previous Day...](/news/2017/06/28/index.md)
