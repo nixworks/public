@@ -6,6 +6,9 @@ Australia and the United States began their biggest ever joint military exercise
 ### [Victoria Police charge Cardinal George Pell, the Prefect of the Secretariat for the Economy, and the third most senior official of the Catholic Church, with historic child sex offences. Pell will be required to attend hearings at the Melbourne Magistrates Court in Australia on July 19. ](/news/2017/06/29/victoria-police-charge-cardinal-george-pell-the-prefect-of-the-secretariat-for-the-economy-and-the-third-most-senior-official-of-the-catho.md)
 Australia&#039;s most senior Catholic cleric, Cardinal George Pell, is charged with historical sexual assault offences.
 
+### [A jury trial convicts the man who pulled the trigger and four accomplices.  The five had been promised a bounty of 15 million Russian rubles. Critics say the financiers and organizers of the crime have not been identified. ](/news/2017/06/29/a-jury-trial-convicts-the-man-who-pulled-the-trigger-and-four-accomplices-the-five-had-been-promised-a-bounty-of-15-million-russian-rubles.md)
+_Context: Assassination of Boris Nemtsov, Russian ruble_
+
 ### [The Chamber of Deputies of the Czech Republic passes a Czech Social Democratic Party-proposed amendment to the constitution, giving citizens the right to acquire, posses and carry firearms for the purpose of security. The constitutional amendment will now go to the Senate, where it is expected to pass. ](/news/2017/06/29/the-chamber-of-deputies-of-the-czech-republic-passes-a-czech-social-democratic-party-proposed-amendment-to-the-constitution-giving-citizens.md)
 _Context: Chamber of Deputies, Czech Republic, Czech Social Democratic Party, Gun laws in the Czech Republic, Senate, constitution_
 
@@ -51,7 +54,7 @@ The European Commission penalises the US tech giant for illegally favouring its 
 ### [Aftermath of the Bosnian War and An appeals court in The Hague rules that Netherlands is partly to blame for the deaths of some 350 Muslim Bosnian men in the 1995 Srebrenica genocide and, in a move considered landmark, orders it to pay limited damages. ](/news/2017/06/27/aftermath-of-the-bosnian-war-and-an-appeals-court-in-the-hague-rules-that-netherlands-is-partly-to-blame-for-the-deaths-of-some-350-muslim-b.md)
 A Dutch appeals court ruled on Tuesday the state was partly to blame for the deaths of some 350 Muslim men in the 1995 Srebrenica genocide, and in a landmark move ordered it to pay limited damages.
 
-### [A major ransomware cyberattack strikes companies across the globe, and 80% of all infections were in Ukraine. ](/news/2017/06/27/a-major-ransomware-cyberattack-strikes-companies-across-the-globe-and-80-of-all-infections-were-in-ukraine.md)
+### [A major ransomware cyberattack strikes companies across the globe and 80% of all infections were in Ukraine. ](/news/2017/06/27/a-major-ransomware-cyberattack-strikes-companies-across-the-globe-and-80-of-all-infections-were-in-ukraine.md)
 Banks, retailers, energy firms and Kiev airport say they have been targeted by malware attacks.
 
 ### [Brazilian President Michel Temer is charged with corruption by Prosecutor General Rodrigo Janot. The case will now go to the Supreme Federal Court. ](/news/2017/06/27/brazilian-president-michel-temer-is-charged-with-corruption-by-prosecutor-general-rodrigo-janot-the-case-will-now-go-to-the-supreme-federal.md)

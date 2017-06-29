@@ -1,6 +1,6 @@
 ### [2017-06-27](/news/2017/06/27/index.md)
 
-# A major ransomware cyberattack strikes companies across the globe, and 80% of all infections were in Ukraine. 
+# A major ransomware cyberattack strikes companies across the globe and 80% of all infections were in Ukraine. 
 
 Banks, retailers, energy firms and Kiev airport say they have been targeted by malware attacks.
 
