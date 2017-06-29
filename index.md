@@ -1,6 +1,6 @@
 ## [News](/news/2017/06/29/index.md)
 
-### [Australia and the United States begin month-long joint military exercises, their largest ever, in Australian territorial waters involving 33,000 U.S. and Australian troops on board  strike jet-equipped battleships. ](/news/2017/06/29/australia-and-the-united-states-begin-month-long-joint-military-exercises-their-largest-ever-in-australian-territorial-waters-involving-33.md)
+### [Australia and the United States begin month-long joint military exercises, their largest ever, in Australian territorial waters involving 33,000 U.S. and Australian troops on board strike jet-carrying amphibious assault ships. ](/news/2017/06/29/australia-and-the-united-states-begin-month-long-joint-military-exercises-their-largest-ever-in-australian-territorial-waters-involving-33.md)
 Australia and the United States began their biggest ever joint military exercises on Thursday, a show of force, largely at sea, aimed at sending a message both to allies and potential foes, including China.
 
 ### [Victoria Police charge Cardinal George Pell, the Prefect of the Secretariat for the Economy, and the third most senior official of the Catholic Church, with historic child sex offences. Pell will be required to attend hearings at the Melbourne Magistrates Court in Australia on July 19. ](/news/2017/06/29/victoria-police-charge-cardinal-george-pell-the-prefect-of-the-secretariat-for-the-economy-and-the-third-most-senior-official-of-the-catho.md)
@@ -23,10 +23,13 @@ _Context: China, Global Times, Jiangnan Shipyard, Shanghai, Type 055 destroyer_
 ### [Aftermath of the Six people are charged with various offences including manslaughter by gross negligence following the Hillsborough disaster in 1989. ](/news/2017/06/28/aftermath-of-the-six-people-are-charged-with-various-offences-including-manslaughter-by-gross-negligence-following-the-hillsborough-disaster.md)
 Ex-Ch Supt David Duckenfield faces 95 charges of manslaughter while five others will prosecuted.
 
+### [Fearing lack of payment, China National Petroleum Corporation stops selling oil to North Korea. ](/news/2017/06/28/fearing-lack-of-payment-china-national-petroleum-corporation-stops-selling-oil-to-north-korea.md)
+The move comes amid a backdrop of mounting American pressure on China to be more forceful with the isolated nation.
+
 ### [Nepalis vote in the second round of local elections, a major step in the near decade-long transition from monarchy to democratic government. The first round was held on May 14, and the final round is scheduled for September 18, after the monsoon season. Parliamentary elections are expected later this year. ](/news/2017/06/28/nepalis-vote-in-the-second-round-of-local-elections-a-major-step-in-the-near-decade-long-transition-from-monarchy-to-democratic-government.md)
 Nepalis began voting in the second round of local elections on Wednesday, a key step towards holding a general election later this year that would complete a near decade-long democratic transition after the abolition of its monarchy.
 
-### [The Supreme Court of Venezuela bars Luisa Ortega Daz, the chief prosecutor and outspoken critic of president Nicols Maduro,  from leaving the country and freezes her assets. ](/news/2017/06/28/the-supreme-court-of-venezuela-bars-luisa-ortega-diaz-the-chief-prosecutor-and-outspoken-critic-of-president-nicolas-maduro-from-leaving.md)
+### [The Supreme Court of Venezuela bars Luisa Ortega Diaz, the chief prosecutor and outspoken critic of president Nicolas Maduro,  from leaving the country and freezes her assets. ](/news/2017/06/28/the-supreme-court-of-venezuela-bars-luisa-ortega-daaz-the-chief-prosecutor-and-outspoken-critic-of-president-nicola-s-maduro-from-leavin.md)
 Venezuela’s Supreme Tribunal of Justice banned prosecutor general Luisa Ortega Diaz from leaving the country.
 
 ---
@@ -39,7 +42,7 @@ Analysts believe the attack could be connected to the Russian-backed insurgency 
 ### [Armed civilian groups attack the National Assembly building, after a clash between lawmakers and the Bolivarian National Guard (GNB), leaving various legislators and journalists injured. Opposition legislator and President of the Assembly Julio Borges blames President Nicolas Maduro for the attack. ](/news/2017/06/27/armed-civilian-groups-attack-the-national-assembly-building-after-a-clash-between-lawmakers-and-the-bolivarian-national-guard-gnb-leavin.md)
 Armed civilian groups have attacked the Venezuelan Parliament building after a clash between lawmakers and the military police of the Bolivarian National Guard.
 
-### [The European Commission imposes a record EUR2.42bn antitrust fine on internet giant Google for manipulating its search engine results. ](/news/2017/06/27/the-european-commission-imposes-a-record-a-2-42bn-antitrust-fine-on-internet-giant-google-for-manipulating-its-search-engine-results.md)
+### [The European Commission imposes a record EUR2.42bn antitrust fine on internet giant Google for allegedly manipulating its search engine results. ](/news/2017/06/27/the-european-commission-imposes-a-record-a-2-42bn-antitrust-fine-on-internet-giant-google-for-allegedly-manipulating-its-search-engine-resu.md)
 The European Commission penalises the US tech giant for illegally favouring its own shopping service.
 
 ### [Aftermath of the Bosnian War and An appeals court in The Hague rules that Netherlands is partly to blame for the deaths of some 350 Muslim Bosnian men in the 1995 Srebrenica genocide and, in a move considered landmark, orders it to pay limited damages. ](/news/2017/06/27/aftermath-of-the-bosnian-war-and-an-appeals-court-in-the-hague-rules-that-netherlands-is-partly-to-blame-for-the-deaths-of-some-350-muslim-b.md)
@@ -54,7 +57,7 @@ Temer is accused of accepting bribes – but any move towards trial would have t
 ### [The U.S. Republican Party's leadership, facing strong opposition to the Senate version of H.R. 1628,  the American Health Care Act of 2017, postpones the planned vote on the bill, a setback to Senate Majority Leader Mitch McConnell. ](/news/2017/06/27/the-u-s-republican-party-s-leadership-facing-strong-opposition-to-the-senate-version-of-h-r-1628-the-american-health-care-act-of-2017.md)
 U.S. Senate Republican leaders postponed a vote on a healthcare overhaul on Tuesday after resistance from members of their own party, and President Donald Trump summoned Republican senators to the White House to urge them to break the impasse.
 
-### [The White House announces that President Trump plans to nominate  Textron Systems Chief Executive Ellen Lord for Under Secretary of Defense for Acquisition, Technology and Logistics.  Textron Systems is  a defense contractor. ](/news/2017/06/27/the-white-house-announces-that-president-trump-plans-to-nominate-textron-systems-chief-executive-ellen-lord-for-under-secretary-of-defense.md)
+### [The White House announces that President Trump plans to nominate Textron Systems Chief Executive Ellen Lord for Under Secretary of Defense for Acquisition, Technology and Logistics.  Textron Systems is a defense contractor. ](/news/2017/06/27/the-white-house-announces-that-president-trump-plans-to-nominate-textron-systems-chief-executive-ellen-lord-for-under-secretary-of-defense-f.md)
 _Context: Political appointments of Donald Trump, Textron Systems, Under Secretary of Defense for Acquisition, Technology and Logistics_
 
 ### [Facebook, Inc. announces that its social media service now has  2 billion regular users, more than a quarter of the world's population. Twitter, by comparison, has 328 million users as of April 2017. ](/news/2017/06/27/facebook-inc-announces-that-its-social-media-service-now-has-2-billion-regular-users-more-than-a-quarter-of-the-world-s-population-twit.md)

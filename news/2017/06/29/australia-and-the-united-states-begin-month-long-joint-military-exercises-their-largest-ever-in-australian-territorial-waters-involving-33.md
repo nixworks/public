@@ -1,6 +1,6 @@
 ### [2017-06-29](/news/2017/06/29/index.md)
 
-# Australia and the United States begin month-long joint military exercises, their largest ever, in Australian territorial waters involving 33,000 U.S. and Australian troops on board  strike jet-equipped battleships. 
+# Australia and the United States begin month-long joint military exercises, their largest ever, in Australian territorial waters involving 33,000 U.S. and Australian troops on board strike jet-carrying amphibious assault ships. 
 
 Australia and the United States began their biggest ever joint military exercises on Thursday, a show of force, largely at sea, aimed at sending a message both to allies and potential foes, including China.
 
