@@ -8,6 +8,7 @@ Australia&#039;s most senior Catholic cleric, Cardinal George Pell, is charged w
 ### Source:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2017-06-29/cardinal-george-pell-charged-sexual-assault-offences/8547668)
+2. [Reuters](http://www.reuters.com/article/us-australia-abuse-pell-catholic-idUSKBN19K072?il=0)
 
 ### Related:
 

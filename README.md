@@ -1,5 +1,8 @@
 ## [News](/news/2017/06/29/index.md)
 
+### [Australia and the United States begin month-long joint military exercises, their largest ever, in Australian territorial waters involving 33,000 U.S. and Australian troops on board  strike jet-equipped battleships. ](/news/2017/06/29/australia-and-the-united-states-begin-month-long-joint-military-exercises-their-largest-ever-in-australian-territorial-waters-involving-33.md)
+Australia and the United States began their biggest ever joint military exercises on Thursday, a show of force, largely at sea, aimed at sending a message both to allies and potential foes, including China.
+
 ### [Victoria Police charge Cardinal George Pell, the Prefect of the Secretariat for the Economy, and the third most senior official of the Catholic Church, with historic child sex offences. Pell will be required to attend hearings at the Melbourne Magistrates Court in Australia on July 19. ](/news/2017/06/29/victoria-police-charge-cardinal-george-pell-the-prefect-of-the-secretariat-for-the-economy-and-the-third-most-senior-official-of-the-catho.md)
 Australia&#039;s most senior Catholic cleric, Cardinal George Pell, is charged with historical sexual assault offences.
 
