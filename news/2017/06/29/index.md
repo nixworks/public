@@ -1,0 +1,10 @@
+## [2017-06-29](/news/2017/06/29/index.md)
+
+### [Victoria Police charge Cardinal George Pell, the Prefect of the Secretariat for the Economy, and the third most senior official of the Catholic Church, with historic child sex offences. Pell will be required to attend hearings at the Melbourne Magistrates Court in Australia on July 19. ](/news/2017/06/29/victoria-police-charge-cardinal-george-pell-the-prefect-of-the-secretariat-for-the-economy-and-the-third-most-senior-official-of-the-catho.md)
+Australia&#039;s most senior Catholic cleric, Cardinal George Pell, is charged with historical sexual assault offences.
+
+### [ISRO launches communications satellite GSAT-17 from French Guiana.](/news/2017/06/29/isro-launches-communications-satellite-gsat-17-from-french-guiana.md)
+GSAT-17 is the third satellite launch by ISRO this month, the other two being first developmental flight of GSLV MkIII and PSLV C-38 missions, both from Sriharikota spaceport. It will be the 21st satellite from ISRO to be launched by Arianespace. 
+
+## [Previous Day...](/news/2017/06/28/index.md)
+

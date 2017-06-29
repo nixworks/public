@@ -1,4 +1,18 @@
-## [News](/news/2017/06/28/index.md)
+## [News](/news/2017/06/29/index.md)
+
+### [Victoria Police charge Cardinal George Pell, the Prefect of the Secretariat for the Economy, and the third most senior official of the Catholic Church, with historic child sex offences. Pell will be required to attend hearings at the Melbourne Magistrates Court in Australia on July 19. ](/news/2017/06/29/victoria-police-charge-cardinal-george-pell-the-prefect-of-the-secretariat-for-the-economy-and-the-third-most-senior-official-of-the-catho.md)
+Australia&#039;s most senior Catholic cleric, Cardinal George Pell, is charged with historical sexual assault offences.
+
+### [ISRO launches communications satellite GSAT-17 from French Guiana.](/news/2017/06/29/isro-launches-communications-satellite-gsat-17-from-french-guiana.md)
+GSAT-17 is the third satellite launch by ISRO this month, the other two being first developmental flight of GSLV MkIII and PSLV C-38 missions, both from Sriharikota spaceport. It will be the 21st satellite from ISRO to be launched by Arianespace. 
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/06/28/index.md)
 
 ### [China's state-run ''Global Times'' newspaper reports the launching of the first Type 055 destroyer, a 10,000-ton "new generation" warship, at the Jiangnan Shipyard in Shanghai. ](/news/2017/06/28/china-s-state-run-global-times-newspaper-reports-the-launching-of-the-first-type-055-destroyer-a-10-000-ton-new-generation-warship-a.md)
 _Context: China, Global Times, Jiangnan Shipyard, Shanghai, Type 055 destroyer_
@@ -9,16 +23,12 @@ Ex-Ch Supt David Duckenfield faces 95 charges of manslaughter while five others 
 ### [Nepalis vote in the second round of local elections, a major step in the near decade-long transition from monarchy to democratic government. The first round was held on May 14, and the final round is scheduled for September 18, after the monsoon season. Parliamentary elections are expected later this year. ](/news/2017/06/28/nepalis-vote-in-the-second-round-of-local-elections-a-major-step-in-the-near-decade-long-transition-from-monarchy-to-democratic-government.md)
 Nepalis began voting in the second round of local elections on Wednesday, a key step towards holding a general election later this year that would complete a near decade-long democratic transition after the abolition of its monarchy.
 
-### [The Supreme Court of Venezuela bars chief prosecutor and outspoken critic of president Nicols Maduro, Luisa Ortega Daz, from leaving the country and freezes her assets. ](/news/2017/06/28/the-supreme-court-of-venezuela-bars-chief-prosecutor-and-outspoken-critic-of-president-nicolas-maduro-luisa-ortega-diaz-from-leaving-the-c.md)
+### [The Supreme Court of Venezuela bars Luisa Ortega Daz, the chief prosecutor and outspoken critic of president Nicols Maduro,  from leaving the country and freezes her assets. ](/news/2017/06/28/the-supreme-court-of-venezuela-bars-luisa-ortega-diaz-the-chief-prosecutor-and-outspoken-critic-of-president-nicolas-maduro-from-leaving.md)
 Venezuela’s Supreme Tribunal of Justice banned prosecutor general Luisa Ortega Diaz from leaving the country.
-
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
 
 ---
 
-## [Yesterday](/news/2017/06/27/index.md)
+## [Day Before Yesterday](/news/2017/06/27/index.md)
 
 ### [Ukrainian intelligence officer and head of a special forces unit, Maksym Shapoval, is assassinated in Kiev by car bomb. ](/news/2017/06/27/ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksym-shapoval-is-assassinated-in-kiev-by-car-bomb.md)
 Analysts believe the attack could be connected to the Russian-backed insurgency in eastern Ukraine.
@@ -49,35 +59,7 @@ _Context: Facebook, Inc., Social networking service, Twitter_
 
 ---
 
-## [Day Before Yesterday](/news/2017/06/26/index.md)
-
-### [The United Nations confirms that the FARC has completed its disarmament process, with former rebels due to make the transition to civilian life and the group to transform into a legal political party in the country. ](/news/2017/06/26/the-united-nations-confirms-that-the-farc-has-completed-its-disarmament-process-with-former-rebels-due-to-make-the-transition-to-civilian-l.md)
-The disarmament by the roughly 7,000 rebels brings Latin America&#39;s oldest civil conflict close to a formal end.
-
-### [Michael P. McCarthy (ex-boyfriend of Bella's mother) is found guilty of second-degree murder in the killing of Bella Bond. ](/news/2017/06/26/michael-p-mccarthy-ex-boyfriend-of-bella-s-mother-is-found-guilty-of-second-degree-murder-in-the-killing-of-bella-bond.md)
-A Massachusetts man has been convicted of second-degree murder in the 2015 death of a 2-year-old girl who became known as Baby Doe after her remains washed up on the shores of a Boston Harbor island.
-
-### [Chinese political activist and Nobel Peace Prize laureate Liu Xiaobo is released from prison on medical parole after being diagnosed with terminal liver cancer. ](/news/2017/06/26/chinese-political-activist-and-nobel-peace-prize-laureate-liu-xiaobo-is-released-from-prison-on-medical-parole-after-being-diagnosed-with-te.md)
-Liu was awarded Nobel peace prize in 2010 while serving 11-year sentence for inciting subversion of state power
-
-### [The Supreme Court of the United States partially reinstates President Donald Trump's travel ban and invalidates certain injunctions that were put on the order by two federal appeals courts earlier. Final oral hearings concerning the legality of the Executive Order 13780 will be held in October 2017 at the Supreme Court. ](/news/2017/06/26/the-supreme-court-of-the-united-states-partially-reinstates-president-donald-trump-s-travel-ban-and-invalidates-certain-injunctions-that-wer.md)
-The US Supreme Court partly implements the travel and refugee bans pending a full review in October.
-
-### [Three CNN journalists, Thomas Frank, Eric Lichtblau, and Lex Haris, resign after the publication of a Russia-related article involving President Donald Trump that was retracted. ](/news/2017/06/26/three-cnn-journalists-thomas-frank-eric-lichtblau-and-lex-haris-resign-after-the-publication-of-a-russia-related-article-involving-presi.md)
-_Context: CNN, CNN 2017 undercover videos controversy, Donald Trump, Eric Lichtblau_
-
-### [Mongolians go to the polls to elect a new president. The centre-right Democratic Party's Battulga Khaltmaa wins a plurality of votes, but falls short of a majority, necessitating a second round. ](/news/2017/06/26/mongolians-go-to-the-polls-to-elect-a-new-president-the-centre-right-democratic-party-s-battulga-khaltmaa-wins-a-plurality-of-votes-but-fa.md)
-_Context: Battulga Khaltmaa, Democratic Party, Mongolia, Mongolian presidential election, 2017, plurality, president, second round_
-
-### [President of the Philippines Rodrigo Duterte makes another lengthy absence from any public appearance after missing the Independence Day celebrations earlier in June. Rumors about his health continue to circulate within the minority although government officials deny any issues. ](/news/2017/06/26/president-of-the-philippines-rodrigo-duterte-makes-another-lengthy-absence-from-any-public-appearance-after-missing-the-independence-day-cel.md)
-_Context: Independence Day, Presidency of Rodrigo Duterte, President of the Philippines, Rodrigo Duterte_
-
-### [The Jewish Agency for Israel Board of Governors cancels Monday's dinner with Israeli Prime Minister Benjamin Netanyahu to protest Sunday's decision by his cabinet to rescind plans for a mixed-gender prayer area at Jerusalem's Western Wall, a compromise agreement reached after three years of intense negotiations. ](/news/2017/06/26/the-jewish-agency-for-israel-board-of-governors-cancels-monday-s-dinner-with-israeli-prime-minister-benjamin-netanyahu-to-protest-sunday-s-d.md)
-_Context: Benjamin Netanyahu, Board of Governors, Israeli Prime Minister, Jewish Agency for Israel, Politics of Israel, Western Wall_
-
----
-
-## [Previous Day...](/news/2017/06/25/index.md)
+## [Previous Day...](/news/2017/06/26/index.md)
 
 ---
 
