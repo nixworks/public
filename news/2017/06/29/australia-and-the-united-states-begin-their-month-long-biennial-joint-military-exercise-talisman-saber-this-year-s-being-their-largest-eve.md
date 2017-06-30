@@ -7,7 +7,7 @@ Australia and the United States began their biggest ever joint military exercise
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-australia-usa-military-idUSKBN19K0ID?il=0)
+1. [Reuters](http://www.reuters.com/article/us-australia-usa-military-idUSKBN19K0ID)
 
 ### Related:
 

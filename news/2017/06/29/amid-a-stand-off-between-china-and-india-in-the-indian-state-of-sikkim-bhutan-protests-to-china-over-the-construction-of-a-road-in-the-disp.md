@@ -1,6 +1,6 @@
 ### [2017-06-29](/news/2017/06/29/index.md)
 
-# Amid a stand off between China and India in the Indian state of Sikkim, Bhutan protests to China over the construction of a road in the disputed territory of Doklam, a meeting point for all three countries' borders. 
+# Amid a stand-off between China and India in the Indian state of Sikkim, Bhutan protests to China over the construction of a road in the disputed territory of Doklam, a meeting point for all three countries' borders. 
 
 NEW DELHI • Bhutan has protested to China over the construction of a road in disputed territory that has already heightened tensions between Beijing and the Indian government, reports said yesterday.. Read more at straitstimes.com.
 

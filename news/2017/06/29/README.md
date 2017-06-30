@@ -1,13 +1,10 @@
 ## [2017-06-29](/news/2017/06/29/index.md)
 
 ### [A man attempts to run over pedestrians outside a mosque in Paris, France. ([http://www.bbc.co.uk/news/world-europe-40452264 BBC])](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-paris-france-http-www-bbc-co-uk-news-world-europe-40452264-bbc.md)
-_Context: 2017 Paris Mosque Incident_
+_Context: 2017 Creteil Mosque Incident_
 
-### [Iraq Prime Minister Haider al-Abadi declares the end of the Islamic State's self-declared caliphate following the capture of the  Great Mosque of al-Nuri in Mosul. ](/news/2017/06/29/iraq-prime-minister-haider-al-abadi-declares-the-end-of-the-islamic-state-s-self-declared-caliphate-following-the-capture-of-the-great-mosq.md)
+### [Iraq Prime Minister Haider al-Abadi declares the end of the Islamic State's self-declared caliphate following the capture of the Great Mosque of al-Nuri in Mosul. ](/news/2017/06/29/iraq-prime-minister-haider-al-abadi-declares-the-end-of-the-islamic-state-s-self-declared-caliphate-following-the-capture-of-the-great-mosqu.md)
 With the capture of a destroyed mosque in the heart of the ISIS’ Iraqi capital of Mosul, the nation&#x27;s government declared victory over ISIS militants in Iraq.
-
-### [Protests mark the 20th anniversary of the transfer of sovereignty over Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/protests-mark-the-20th-anniversary-of-the-transfer-of-sovereignty-over-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of-c.md)
-Hongkongers have expressed surprise at the appearance of China-style decorations across the city, rolled out in anticipation of Chinese President Xi Jinping&#8217;s visit on Thursday. Two banners painted in red with the Chinese text &#8220;Welcome President Xi Jinping to inspect Hong Kong&#8221; have been spotted hanging above the toll stations outside the Western Harbour &hellip;
 
 ### [At least twelve people die and two others are injured after a cable car falls nearly 500 feet into a ditch in Charra Pani, Galyat, Pakistan. ](/news/2017/06/29/at-least-twelve-people-die-and-two-others-are-injured-after-a-cable-car-falls-nearly-500-feet-into-a-ditch-in-charra-pani-galyat-pakistan.md)
 At least 12 persons were killed and two were injured when a cable car (doli) installed by local villagers broke down and fell at Charra Pani in the area of Galiyat region on Thursday. The cable car, installed over a nullah between Charra Pani and B ..
@@ -18,7 +15,7 @@ Australia and the United States began their biggest ever joint military exercise
 ### [The United States plans to sell Taiwan $1.42 billion in arms, the first such sale under the administration of Donald Trump. ](/news/2017/06/29/the-united-states-plans-to-sell-taiwan-1-42-billion-in-arms-the-first-such-sale-under-the-administration-of-donald-trump.md)
 The United States plans to sell Taiwan $1.42 billion in arms, the first such sale under the administration of Donald Trump and a move sure to anger China, whose help the president has been seeking to rein in North Korea.
 
-### [Amid a stand off between China and India in the Indian state of Sikkim, Bhutan protests to China over the construction of a road in the disputed territory of Doklam, a meeting point for all three countries' borders. ](/news/2017/06/29/amid-a-stand-off-between-china-and-india-in-the-indian-state-of-sikkim-bhutan-protests-to-china-over-the-construction-of-a-road-in-the-disp.md)
+### [Amid a stand-off between China and India in the Indian state of Sikkim, Bhutan protests to China over the construction of a road in the disputed territory of Doklam, a meeting point for all three countries' borders. ](/news/2017/06/29/amid-a-stand-off-between-china-and-india-in-the-indian-state-of-sikkim-bhutan-protests-to-china-over-the-construction-of-a-road-in-the-disp.md)
 NEW DELHI • Bhutan has protested to China over the construction of a road in disputed territory that has already heightened tensions between Beijing and the Indian government, reports said yesterday.. Read more at straitstimes.com.
 
 ### [German same-sex couples may be able to marry after Chancellor Angela Merkel drops her opposition for a parliamentary vote. ](/news/2017/06/29/german-same-sex-couples-may-be-able-to-marry-after-chancellor-angela-merkel-drops-her-opposition-for-a-parliamentary-vote.md)
@@ -38,6 +35,9 @@ _Context: Chamber of Deputies, Czech Republic, Czech Social Democratic Party, Gu
 
 ### [After six days of debate, the House of Commons of the United Kingdom votes to approve, with 323 votes for and 309 against, the policies set out in the Queen's Speech. In order to avoid a 'regret' amendment, Chancellor of the Exchequer Philip Hammond says that England's National Health Service is to provide free abortions to women from Northern Ireland with funds from the Government Equalities Office. ](/news/2017/06/29/after-six-days-of-debate-the-house-of-commons-of-the-united-kingdom-votes-to-approve-with-323-votes-for-and-309-against-the-policies-set.md)
 Ministers announced women from Northern Ireland CAN now have free NHS abortions in England - a massive victory for a Labour MP
+
+### [Protests mark the 20th anniversary of the transfer of sovereignty over Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/protests-mark-the-20th-anniversary-of-the-transfer-of-sovereignty-over-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of-c.md)
+Hongkongers have expressed surprise at the appearance of China-style decorations across the city, rolled out in anticipation of Chinese President Xi Jinping&#8217;s visit on Thursday. Two banners painted in red with the Chinese text &#8220;Welcome President Xi Jinping to inspect Hong Kong&#8221; have been spotted hanging above the toll stations outside the Western Harbour &hellip;
 
 ### [ISRO launches communications satellite GSAT-17 from French Guiana. ](/news/2017/06/29/isro-launches-communications-satellite-gsat-17-from-french-guiana.md)
 GSAT-17 is the third satellite launch by ISRO this month, the other two being first developmental flight of GSLV MkIII and PSLV C-38 missions, both from Sriharikota spaceport. It will be the 21st satellite from ISRO to be launched by Arianespace. 
