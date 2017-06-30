@@ -3,6 +3,9 @@
 ### [A man attempts to run over pedestrians outside a mosque in Paris, France. ([http://www.bbc.co.uk/news/world-europe-40452264 BBC])](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-paris-france-http-www-bbc-co-uk-news-world-europe-40452264-bbc.md)
 _Context: 2017 Paris Mosque Incident_
 
+### [Iraq Prime Minister Haider al-Abadi declares the end of the Islamic State's self-declared caliphate following the capture of the  Great Mosque of al-Nuri in Mosul. ](/news/2017/06/29/iraq-prime-minister-haider-al-abadi-declares-the-end-of-the-islamic-state-s-self-declared-caliphate-following-the-capture-of-the-great-mosq.md)
+With the capture of a destroyed mosque in the heart of the ISIS’ Iraqi capital of Mosul, the nation&#x27;s government declared victory over ISIS militants in Iraq.
+
 ### [Protests mark the 20th anniversary of the transfer of sovereignty over Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/protests-mark-the-20th-anniversary-of-the-transfer-of-sovereignty-over-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of-c.md)
 Hongkongers have expressed surprise at the appearance of China-style decorations across the city, rolled out in anticipation of Chinese President Xi Jinping&#8217;s visit on Thursday. Two banners painted in red with the Chinese text &#8220;Welcome President Xi Jinping to inspect Hong Kong&#8221; have been spotted hanging above the toll stations outside the Western Harbour &hellip;
 

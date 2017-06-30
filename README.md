@@ -6,10 +6,13 @@ In the midst of face off between India and Chinese troops over road construction
 ### [The Bundestag votes to introduce same-sex marriage in Germany.  With 393 votes in favor and 226 against, including Chancellor Angela Merkel voting against, the law is expected to enter into force before the end of the year. ](/news/2017/06/30/the-bundestag-votes-to-introduce-same-sex-marriage-in-germany-with-393-votes-in-favor-and-226-against-including-chancellor-angela-merkel.md)
 MPs pass bill granting gay and lesbian couples full rights, including on adoption
 
-### [A study funded by Bayer and Syngenta confirms that neonicotinoids kill queen and worker bees. ](/news/2017/06/30/a-study-funded-by-bayer-and-syngenta-confirms-that-neonicotinoids-kill-queen-and-worker-bees.md)
+### [France's National Front leader Marine Le Pen is under investigation for alleged misuse of European Union funding. ](/news/2017/06/30/france-s-national-front-leader-marine-le-pen-is-under-investigation-for-alleged-misuse-of-european-union-funding.md)
+Magistrates in France have placed Marine Le Pen under formal investigation. This comes after preliminary inquiries into allegations that European
+
+### [A study funded by Bayer and Syngenta confirms that neonicotinoid insecticides kill queen and worker bees. ](/news/2017/06/30/a-study-funded-by-bayer-and-syngenta-confirms-that-neonicotinoid-insecticides-kill-queen-and-worker-bees.md)
 A huge new study conducted in 33 sites across Europe finds that seeds coated with neonicotinoid pesticides harm bees living nearby. The damage, though, depends on local conditions.
 
-### [A temperature of 53.7degC (128.7 degrees) is recorded in Ahvaz, Khuzestan Province, breaking Iran's previous record and becoming one of the highest temperatures ever recorded on Earth. ](/news/2017/06/30/a-temperature-of-53-7adegc-128-7-degrees-is-recorded-in-ahvaz-khuzestan-province-breaking-iran-s-previous-record-and-becoming-one-of-the-h.md)
+### [A temperature of 53.7degC (128.7degF) is recorded in Ahvaz, Khuzestan Province, breaking Iran's previous record and becoming one of the highest temperatures ever recorded on Earth. ](/news/2017/06/30/a-temperature-of-53-7adegc-128-7adegf-is-recorded-in-ahvaz-khuzestan-province-breaking-iran-s-previous-record-and-becoming-one-of-the-highes.md)
 Ahvaz hits hottest temperature ever recorded in Iran, and possibly the world.
 
 ## Opinion
@@ -22,6 +25,9 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ### [A man attempts to run over pedestrians outside a mosque in Paris, France. ([http://www.bbc.co.uk/news/world-europe-40452264 BBC])](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-paris-france-http-www-bbc-co-uk-news-world-europe-40452264-bbc.md)
 _Context: 2017 Paris Mosque Incident_
+
+### [Iraq Prime Minister Haider al-Abadi declares the end of the Islamic State's self-declared caliphate following the capture of the  Great Mosque of al-Nuri in Mosul. ](/news/2017/06/29/iraq-prime-minister-haider-al-abadi-declares-the-end-of-the-islamic-state-s-self-declared-caliphate-following-the-capture-of-the-great-mosq.md)
+With the capture of a destroyed mosque in the heart of the ISIS’ Iraqi capital of Mosul, the nation&#x27;s government declared victory over ISIS militants in Iraq.
 
 ### [Protests mark the 20th anniversary of the transfer of sovereignty over Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/protests-mark-the-20th-anniversary-of-the-transfer-of-sovereignty-over-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of-c.md)
 Hongkongers have expressed surprise at the appearance of China-style decorations across the city, rolled out in anticipation of Chinese President Xi Jinping&#8217;s visit on Thursday. Two banners painted in red with the Chinese text &#8220;Welcome President Xi Jinping to inspect Hong Kong&#8221; have been spotted hanging above the toll stations outside the Western Harbour &hellip;
