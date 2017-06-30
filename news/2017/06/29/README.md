@@ -12,6 +12,9 @@ Australia and the United States began their biggest ever joint military exercise
 ### [The United States plans to sell Taiwan $1.42 billion in arms, the first such sale under the administration of Donald Trump. ](/news/2017/06/29/the-united-states-plans-to-sell-taiwan-1-42-billion-in-arms-the-first-such-sale-under-the-administration-of-donald-trump.md)
 The United States plans to sell Taiwan $1.42 billion in arms, the first such sale under the administration of Donald Trump and a move sure to anger China, whose help the president has been seeking to rein in North Korea.
 
+### [A man attempts to run over pedestrians outside a Mosque in Paris France.](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-paris-france.md)
+_Context: 2017 Paris Mosque Incident_
+
 ### [German same-sex couples may be able to marry after Chancellor Angela Merkel drops her opposition for a parliamentary vote. ](/news/2017/06/29/german-same-sex-couples-may-be-able-to-marry-after-chancellor-angela-merkel-drops-her-opposition-for-a-parliamentary-vote.md)
 _Context: Angela Merkel, German, Recognition of same-sex unions in Germany, marry_
 
