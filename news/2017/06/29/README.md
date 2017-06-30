@@ -1,5 +1,8 @@
 ## [2017-06-29](/news/2017/06/29/index.md)
 
+### [Protests mark the 20th anniversary of the transfer of Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/protests-mark-the-20th-anniversary-of-the-transfer-of-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of-chinese-president.md)
+Hongkongers have expressed surprise at the appearance of China-style decorations across the city, rolled out in anticipation of Chinese President Xi Jinping&#8217;s visit on Thursday. Two banners painted in red with the Chinese text &#8220;Welcome President Xi Jinping to inspect Hong Kong&#8221; have been spotted hanging above the toll stations outside the Western Harbour &hellip;
+
 ### [At least twelve people die and two others are injured after a cable car falls nearly 500 feet into a ditch in Charra Pani, Galyat, Pakistan. ](/news/2017/06/29/at-least-twelve-people-die-and-two-others-are-injured-after-a-cable-car-falls-nearly-500-feet-into-a-ditch-in-charra-pani-galyat-pakistan.md)
 At least 12 persons were killed and two were injured when a cable car (doli) installed by local villagers broke down and fell at Charra Pani in the area of Galiyat region on Thursday. The cable car, installed over a nullah between Charra Pani and B ..
 
@@ -9,11 +12,17 @@ Australia and the United States began their biggest ever joint military exercise
 ### [The United States plans to sell Taiwan $1.42 billion in arms, the first such sale under the administration of Donald Trump. ](/news/2017/06/29/the-united-states-plans-to-sell-taiwan-1-42-billion-in-arms-the-first-such-sale-under-the-administration-of-donald-trump.md)
 The United States plans to sell Taiwan $1.42 billion in arms, the first such sale under the administration of Donald Trump and a move sure to anger China, whose help the president has been seeking to rein in North Korea.
 
+### [German same-sex couples may be able to marry after Chancellor Angela Merkel drops her opposition for a parliamentary vote. ](/news/2017/06/29/german-same-sex-couples-may-be-able-to-marry-after-chancellor-angela-merkel-drops-her-opposition-for-a-parliamentary-vote.md)
+_Context: Angela Merkel, German, Recognition of same-sex unions in Germany, marry_
+
+### [A car knocks down the security fences of the Pink House, the Presidential Palace of Argentina, and then stops in front of the building's gate. Authorities reported that the driver of the vehicle had psychiatric disorders and that, in addition, the security personnel present at the time of the incident was separated from his position. It was also learned that this fact took place on 21 June. ](/news/2017/06/29/a-car-knocks-down-the-security-fences-of-the-pink-house-the-presidential-palace-of-argentina-and-then-stops-in-front-of-the-building-s-gat.md)
+_Context: Argentina, Pink House_
+
 ### [Victoria Police charge Cardinal George Pell, the Prefect of the Secretariat for the Economy, and the third most senior official of the Catholic Church, with historic child sex offences. Pell will be required to attend hearings at the Melbourne Magistrates Court in Australia on July 19. ](/news/2017/06/29/victoria-police-charge-cardinal-george-pell-the-prefect-of-the-secretariat-for-the-economy-and-the-third-most-senior-official-of-the-catho.md)
 Australia&#039;s most senior Catholic cleric, Cardinal George Pell, is charged with historical sexual assault offences.
 
-### [Aftermath of the A jury trial convicts the man who pulled the trigger and four accomplices.  The five had been promised a bounty of 15 million Russian rubles. Critics say the financiers and organizers of the crime have not been identified. ](/news/2017/06/29/aftermath-of-the-a-jury-trial-convicts-the-man-who-pulled-the-trigger-and-four-accomplices-the-five-had-been-promised-a-bounty-of-15-milli.md)
-_Context: Russian ruble, assassination of Boris Nemtsov_
+### [Aftermath of the A jury trial convicts five individuals accused of working together to assassinate Boris Nemtsov.  These individuals had been promised a bounty of 15 million Russian rubles. Critics say the original financiers and organizers of the crime have not been identified. ](/news/2017/06/29/aftermath-of-the-a-jury-trial-convicts-five-individuals-accused-of-working-together-to-assassinate-boris-nemtsov-these-individuals-had-bee.md)
+_Context: Boris Nemtsov, Russian ruble, assassination of Boris Nemtsov_
 
 ### [The Chamber of Deputies of the Czech Republic passes a Czech Social Democratic Party-proposed amendment to the constitution, giving citizens the right to acquire, possess and carry firearms for the purpose of security. The constitutional amendment will now go to the Senate, where it is expected to pass. ](/news/2017/06/29/the-chamber-of-deputies-of-the-czech-republic-passes-a-czech-social-democratic-party-proposed-amendment-to-the-constitution-giving-citizens.md)
 _Context: Chamber of Deputies, Czech Republic, Czech Social Democratic Party, Gun laws in the Czech Republic, Senate, constitution_

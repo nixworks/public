@@ -7,7 +7,7 @@ Ministers announced women from Northern Ireland CAN now have free NHS abortions 
 
 ### Source:
 
-1. [the Daily Mirror](http://www.mirror.co.uk/news/politics/queens-speech-passes-tory-abortion-10708542)
+1. [The Daily Mirror](http://www.mirror.co.uk/news/politics/queens-speech-passes-tory-abortion-10708542)
 
 ### Related:
 
