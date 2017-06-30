@@ -6,6 +6,9 @@ In the midst of face off between India and Chinese troops over road construction
 ### [A study funded by Bayer and Syngenta confirms that neonicotinoids kill queen and worker bees. ](/news/2017/06/30/a-study-funded-by-bayer-and-syngenta-confirms-that-neonicotinoids-kill-queen-and-worker-bees.md)
 A huge new study conducted in 33 sites across Europe finds that seeds coated with neonicotinoid pesticides harm bees living nearby. The damage, though, depends on local conditions.
 
+### [The Bundestag votes to introduce same-sex marriage in Germany, with 393 votes in favor and 226 against. The law is expected to enter into force before the end of the year. ](/news/2017/06/30/the-bundestag-votes-to-introduce-same-sex-marriage-in-germany-with-393-votes-in-favor-and-226-against-the-law-is-expected-to-enter-into-fo.md)
+MPs pass bill granting gay and lesbian couples full rights, including on adoption
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -33,7 +36,7 @@ NEW DELHI • Bhutan has protested to China over the construction of a road in d
 _Context: 2017 Paris Mosque Incident_
 
 ### [German same-sex couples may be able to marry after Chancellor Angela Merkel drops her opposition for a parliamentary vote. ](/news/2017/06/29/german-same-sex-couples-may-be-able-to-marry-after-chancellor-angela-merkel-drops-her-opposition-for-a-parliamentary-vote.md)
-_Context: Angela Merkel, German, Recognition of same-sex unions in Germany, marry_
+_Context: Angela Merkel, German, Recognition of same-sex unions in Germany, same-sex marriage_
 
 ### [A car knocks down the security fences of the Pink House, the Presidential Palace of Argentina, and then stops in front of the building's gate. Authorities reported that the driver of the vehicle had psychiatric disorders and that, in addition, the security personnel present at the time of the incident was separated from his position. It was also learned that this fact took place on 21 June. ](/news/2017/06/29/a-car-knocks-down-the-security-fences-of-the-pink-house-the-presidential-palace-of-argentina-and-then-stops-in-front-of-the-building-s-gat.md)
 _Context: Argentina, Pink House_
