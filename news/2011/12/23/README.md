@@ -19,7 +19,7 @@ A series of earthquakes have terrified many already-frazzled Christchurch reside
 North Korea says it will accept all South Korean delegations wishing to pay respects to late leader Kim Jong-il - but Seoul is restricting numbers.
 
 ### [World leaders attend the funeral of former Czech President and dissident Vaclav Havel. ](/news/2011/12/23/world-leaders-attend-the-funeral-of-former-czech-president-and-dissident-va-clav-havel.md)
-_Context: Czech, Vaclav Havel_
+_Context: Czech Republic, Vaclav Havel_
 
 ### [A Chinese court sentences dissident Chen Wei to nine years imprisonment for "inciting subversion of state power", after he published essays online calling for multiparty democracy. ](/news/2011/12/23/a-chinese-court-sentences-dissident-chen-wei-to-nine-years-imprisonment-for-inciting-subversion-of-state-power-after-he-published-essays.md)
 _Context: Chen Wei, People's Republic of China, democratic progress, multiparty_

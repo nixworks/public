@@ -7,7 +7,7 @@ A bomb attack on a packed market in northeastern Nigeria bearing the hallmarks o
 Surprise move follows data showing economic dip amid new fears of deepening global currency wars
 
 ### [Debris from a Buk surface-to-air missile is found at an unspecified location in eastern Ukraine. According to the Dutch Safety Board and the Dutch prosecutor overseeing the criminal investigation, it may have come from a Buk (possibly of Russian origin) fired by rebel fighters, accidentally or purposefully, in the downing of Malaysia Airlines Flight 17. The investigation remains classified. ](/news/2015/08/11/debris-from-a-buk-surface-to-air-missile-is-found-at-an-unspecified-location-in-eastern-ukraine-according-to-the-dutch-safety-board-and-the.md)
-_Context: Buk missile system, Malaysia Airlines Flight 17, Ukraine_
+_Context: Buk missile system, Malaysia Airlines Flight 17, Ukrainian_
 
 ### [A heatwave in Egypt has killed at least 42 people. ](/news/2015/08/11/a-heatwave-in-egypt-has-killed-at-least-42-people.md)
 _Context: Egypt, heatwave_

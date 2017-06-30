@@ -43,7 +43,7 @@ _Context: First Lady, Michelle Obama, Nelson Mandela, Southern Africa_
 _Context: Inner Mongolia, People's Republic of China_
 
 ### [A French court upholds a life sentence for Yvan Colonna, a former shepherd and Corsican separatist convicted of fatally shooting police prefect Claude Erignac near a concert hall in Ajaccio in 1998. Colonna has denied killing Erignac. ](/news/2011/06/21/a-french-court-upholds-a-life-sentence-for-yvan-colonna-a-former-shepherd-and-corsican-separatist-convicted-of-fatally-shooting-police-pref.md)
-_Context: Ajaccio, Claude Erignac, Yvan Colonna, prefect, shepherd_
+_Context: Ajaccio, Claude Erignac, Prefect, Yvan Colonna, shepherd_
 
 ### [Former French minister Georges Tron, who resigned last month due to allegations of sexual assault, is arrested by police. ](/news/2011/06/21/former-french-minister-georges-tron-who-resigned-last-month-due-to-allegations-of-sexual-assault-is-arrested-by-police.md)
 French police detain former minister Georges Tron to question him over allegations of sexual assault, the local prosecutor says.

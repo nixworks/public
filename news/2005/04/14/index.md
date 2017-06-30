@@ -19,7 +19,7 @@ _Context: Baghdad, Conflict in Iraq, Iraq, capital, suicide bomb_
 Business news & Financial news from Reuters.com.
 
 ### [ The Czech coalition government agrees to form a new cabinet. Jan Kohout is expected to succeed Stanislav Gross as the new prime minister.  ](/news/2005/04/14/the-czech-coalition-government-agrees-to-form-a-new-cabinet-jan-kohout-is-expected-to-succeed-stanislav-gross-as-the-new-prime-minister.md)
-_Context: Czech, Jan Kohout, Prime Minister, Stanislav Gross, governing coalition_
+_Context: Czech Republic, Jan Kohout, Prime Minister, Stanislav Gross, governing coalition_
 
 ### [ Police in China arrest 15 people involved with illegal blood trade that may have contributed to the spread of AIDS. ](/news/2005/04/14/police-in-china-arrest-15-people-involved-with-illegal-blood-trade-that-may-have-contributed-to-the-spread-of-aids.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

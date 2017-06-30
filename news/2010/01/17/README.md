@@ -22,7 +22,7 @@ Saddam aide gets fourth death sentence for gassing of Kurds in Halabja in 1988.
 _Context: Great Synagogue, Pope Benedict XVI, Rome, controversial_
 
 ### [Ukrainian voters go to the polls to elect a new president. ](/news/2010/01/17/ukrainian-voters-go-to-the-polls-to-elect-a-new-president.md)
-_Context: Ukraine, Ukrainian President, Ukrainian presidential election_
+_Context: Ukrainian, Ukrainian President, Ukrainian presidential election_
 
 ### [Sebastian Pinera is elected President of Chile in the second round of the presidential election. ](/news/2010/01/17/sebastia-n-pia-era-is-elected-president-of-chile-in-the-second-round-of-the-presidential-election.md)
 _Context: Chile, President, Sebastian Pinera, election_

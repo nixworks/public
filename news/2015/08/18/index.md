@@ -1,7 +1,7 @@
 ## [2015-08-18](/news/2015/08/18/index.md)
 
 ### [Fighting intensifies near the ceasefire line in eastern Ukraine with both the Government of Ukraine and the rebels blaming each other. The separatist-held cities of Donetsk and Horlivka have been bombed with hundreds of shells and rockets in the last 72 hours. ](/news/2015/08/18/fighting-intensifies-near-the-ceasefire-line-in-eastern-ukraine-with-both-the-government-of-ukraine-and-the-rebels-blaming-each-other-the-s.md)
-_Context: Donetsk, Horlivka, Kiev, Ukraine, War in Donbass_
+_Context: Donetsk, Horlivka, Kiev, Ukrainian, War in Donbass_
 
 ### [Two women pass the United States Army's Ranger School becoming the first to do so, and earning Ranger tabs on their uniforms. ](/news/2015/08/18/two-women-pass-the-united-states-army-s-ranger-school-becoming-the-first-to-do-so-and-earning-ranger-tabs-on-their-uniforms.md)
 _Context: Ranger School, Ranger tab_

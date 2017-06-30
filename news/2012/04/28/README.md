@@ -7,7 +7,7 @@ Vessel originally from Libya, loaded with arms reportedly destined for Syrian op
 _Context: Afghanistan, Kandahar Province, War in Afghanistan_
 
 ### [2012 Dnipropetrovsk explosions: Ukrainian president Viktor Yanukovich promises an investigation into the incident that injured 30 people. ](/news/2012/04/28/2012-dnipropetrovsk-explosions-ukrainian-president-viktor-yanukovich-promises-an-investigation-into-the-incident-that-injured-30-people.md)
-_Context: 2012 Dnipropetrovsk explosions, Ukraine, Viktor Yanukovich_
+_Context: 2012 Dnipropetrovsk explosions, Ukrainian, Viktor Yanukovich_
 
 ### [One person dies and more than 110 are injured when a tent collapses at a restaurant near Busch Stadium in St. Louis, Missouri. ](/news/2012/04/28/one-person-dies-and-more-than-110-are-injured-when-a-tent-collapses-at-a-restaurant-near-busch-stadium-in-st-louis-missouri.md)
 _Context: Busch Stadium, Missouri, St Louis_

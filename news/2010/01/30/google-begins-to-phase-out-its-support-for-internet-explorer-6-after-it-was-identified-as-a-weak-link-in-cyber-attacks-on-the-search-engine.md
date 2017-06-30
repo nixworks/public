@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [The European Commission imposes a record EUR2.42bn antitrust fine on internet giant Google for manipulating its search engine results. ](/news/2017/06/27/the-european-commission-imposes-a-record-a-2-42bn-antitrust-fine-on-internet-giant-google-for-manipulating-its-search-engine-results.md) _Context: Google_
+1. [The European Commission imposes a record EUR2.42bn antitrust fine on internet giant Google for allegedly manipulating its search engine results. ](/news/2017/06/27/the-european-commission-imposes-a-record-a-2-42bn-antitrust-fine-on-internet-giant-google-for-allegedly-manipulating-its-search-engine-resu.md) _Context: Google_
 2. [A large scale international cyber-attack using the WannaCry ransomware package disrupts computer and telephone systems in thousands of cases across 99 countries. Affected organisations include: England's NHS, with doctors reporting messages demanding money; MegaFon and Sberbank in Russia; Telefonica, Iberdrola, and Gas Natural in Spain; and FedEx. ](/news/2017/05/12/a-large-scale-international-cyber-attack-using-the-wannacry-ransomware-package-disrupts-computer-and-telephone-systems-in-thousands-of-cases.md) _Context: cyber-attack_
 3. [Google and Cuba forge a deal about better access to the Internet for the island. ](/news/2016/12/13/google-and-cuba-forge-a-deal-about-better-access-to-the-internet-for-the-island.md) _Context: Google_
 4. [The Obama administration formally accuses the Russian government of cyber attacks against the U.S. Democratic Party in influencing presidential election. ](/news/2016/10/7/the-obama-administration-formally-accuses-the-russian-government-of-cyber-attacks-against-the-u-s-democratic-party-in-influencing-president.md) _Context: cyber-attack_

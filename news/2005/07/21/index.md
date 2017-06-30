@@ -34,7 +34,7 @@ _Context: Aceh, Susilo Bambang Yudhoyono_
 _Context: Omar Romano, soccer_
 
 ### [ In Rwanda, gacaca court investigating the Rwandan genocide summons Thaddee Ntihinyurwa, head of the Catholic Church in the country, to testify. ](/news/2005/07/21/in-rwanda-gacaca-court-investigating-the-rwandan-genocide-summons-thaddee-ntihinyurwa-head-of-the-catholic-church-in-the-country-to-test.md)
-_Context: Catholics, Rwanda, Rwandan Genocide, Thaddee Ntihinyurwa, gacaca_
+_Context: Catholic Church, Rwanda, Rwandan Genocide, Thaddee Ntihinyurwa, gacaca_
 
 ### [ In China, a group of farmers in Shengyou village in Hebei province that demonstrated over seizure of an arable land for the power plant, win in a dispute. ](/news/2005/07/21/in-china-a-group-of-farmers-in-shengyou-village-in-hebei-province-that-demonstrated-over-seizure-of-an-arable-land-for-the-power-plant-wi.md)
 _Context: China, Hebei, Shengyou_

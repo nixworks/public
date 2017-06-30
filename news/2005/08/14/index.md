@@ -13,7 +13,7 @@ _Context: Abu Mustafa al-Sheibani, Hizbollah, Iran, Iraqi insurgency, Lebanon, T
 _Context: Mosul, U.S.-led troops, chemical weapon, factory_
 
 ### [ Helios Airways Flight 522 en route from Larnaca, Cyprus via Athens, Greece to Prague, Czech Republic crashes near Athens, with at least 121 onboard. Observations from Greek fighter aircraft indicate a decompression problem. ](/news/2005/08/14/helios-airways-flight-522-en-route-from-larnaca-cyprus-via-athens-greece-to-prague-czech-republic-crashes-near-athens-with-at-least-121.md)
-_Context: Athens, Cyprus, Czech, Flight 522, Helios Airways, Larnaca, Prague_
+_Context: Athens, Cyprus, Czech Republic, Flight 522, Helios Airways, Larnaca, Prague_
 
 ### [ Ugandan journalist Andrew Mwenda has been charged with sedition after a radio debate speculating on the death of Sudan's vice-president John Garang.](/news/2005/08/14/ugandan-journalist-andrew-mwenda-has-been-charged-with-sedition-after-a-radio-debate-speculating-on-the-death-of-sudan-s-vice-president-joh.md)
 _Context: Andrew Mwenda, John Garang, Sudan, Uganda, sedition_

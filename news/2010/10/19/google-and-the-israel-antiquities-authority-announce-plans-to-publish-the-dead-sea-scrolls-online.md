@@ -12,7 +12,7 @@
 ### Related:
 
 1. [Some of the Dead Sea Scrolls are published online in a joint project between Israel's national museum and Google. ](/news/2011/09/26/some-of-the-dead-sea-scrolls-are-published-online-in-a-joint-project-between-israel-s-national-museum-and-google.md) _Context: Dead Sea Scrolls, Google_
-2. [The European Commission imposes a record EUR2.42bn antitrust fine on internet giant Google for manipulating its search engine results. ](/news/2017/06/27/the-european-commission-imposes-a-record-a-2-42bn-antitrust-fine-on-internet-giant-google-for-manipulating-its-search-engine-results.md) _Context: Google_
+2. [The European Commission imposes a record EUR2.42bn antitrust fine on internet giant Google for allegedly manipulating its search engine results. ](/news/2017/06/27/the-european-commission-imposes-a-record-a-2-42bn-antitrust-fine-on-internet-giant-google-for-allegedly-manipulating-its-search-engine-resu.md) _Context: Google_
 3. [Archaeologists from the Hebrew University of Jerusalem announce the discovery of another cave that used to have Dead Sea Scrolls. ](/news/2017/02/8/archaeologists-from-the-hebrew-university-of-jerusalem-announce-the-discovery-of-another-cave-that-used-to-have-dead-sea-scrolls.md) _Context: Dead Sea Scrolls_
 4. [Google and Cuba forge a deal about better access to the Internet for the island. ](/news/2016/12/13/google-and-cuba-forge-a-deal-about-better-access-to-the-internet-for-the-island.md) _Context: Google_
 5. [Google introduces a so-called "fact checking" feature on its news aggregate service to combat alleged political bias. ](/news/2016/10/15/google-introduces-a-so-called-fact-checking-feature-on-its-news-aggregate-service-to-combat-alleged-political-bias.md) _Context: Google_

@@ -7,7 +7,7 @@ _Context: Government Accountability Office, Troubled Assets Relief Program, over
 Zimbabwe&#039;s cholera epidemic is spiralling out of control, the United Nations has indicated after reporting a suspected 10,000 cases nationwide.
 
 ### [ NATO 2008 Brussels summit NATO member countries decide not to offer MAP to Georgia and Ukraine, the war in South Ossetia and the Ukrainian government collapse being the main reasons.](/news/2008/12/2/nato-2008-brussels-summitp-nato-member-countries-decide-not-to-offer-map-to-georgia-and-ukraine-the-war-in-south-ossetia-and-the-ukrainian.md)
-_Context: 2008 South Ossetia war, Georgia, Membership Action Plan, NATO, South Ossetia, Ukraine, the Ukrainian government collapse_
+_Context: 2008 South Ossetia war, Georgia, Membership Action Plan, NATO, South Ossetia, Ukrainian, the Ukrainian government collapse_
 
 ### [ United States Senate election in Georgia, 2008: Voters in the U.S. state of Georgia go to the polls for a runoff election between incumbent Senator Saxby Chambliss of the Republican Party and Jim Martin of the Democratic Party. Chambliss is reelected, ending the Democratic Party's hopes of having 60 Senators to avoid a filibuster. [http://www.reuters.com/article/politicsNews/idUSTRE4B11I120081202 (Reuters)], (''[http://www.nytimes.com/2008/12/03/us/politics/03georgia.html?_r=1&hp New York Times]'')](/news/2008/12/2/united-states-senate-election-in-georgia-2008-voters-in-the-u-s-state-of-georgia-go-to-the-polls-for-a-runoff-election-between-incumbent.md)
 _Context: Democratic Party, Georgia, Jim Martin, R, Saxby Chambliss, Senator, United States Senate election in Georgia, 2008, filibuster_

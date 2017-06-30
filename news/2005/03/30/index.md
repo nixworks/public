@@ -34,7 +34,7 @@ _Context: India, Maharashtra, Mumbai, prostitution_
 _Context: Egypt, Hosni Mubarak_
 
 ### [ Czech Republic government is in crisis after the coalition partner of the ruling Civic Democrats party. Christian Democrats, calls for its three ministers to leave. That would lead into a minority government. Prime minister Stanislav Gross also faces a no confidence vote in Friday over his personal finances ](/news/2005/03/30/czech-republic-government-is-in-crisis-after-the-coalition-partner-of-the-ruling-civic-democrats-party-christian-democrats-calls-for-its.md)
-_Context: Christian Democrats, Civic Democratic Party, Czech, Stanislav Gross, minority government, no-confidence vote_
+_Context: Christian Democrats, Civic Democratic Party, Czech Republic, Stanislav Gross, minority government, no-confidence vote_
 
 ### [ In Nigeria, anti-corruption group Economic and Financial Crimes Commission detains former police chief Tafa Balogun for questioning ](/news/2005/03/30/in-nigeria-anti-corruption-group-economic-and-financial-crimes-commission-detains-former-police-chief-tafa-balogun-for-questioning.md)
 _Context: Economic and Financial Crimes Commission, Nigeria, Tafa Balogun_

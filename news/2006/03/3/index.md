@@ -34,7 +34,7 @@ _Context: Gary Glitter, Vietnam, Vung Tau_
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ Ukraine imposed new customs regulations on its border with Transnistria, leading to the Ukraine-Transnistria border customs conflict.](/news/2006/03/3/ukraine-imposed-new-customs-regulations-on-its-border-with-transnistria-leading-to-the-ukraine-transnistria-border-customs-conflict.md)
-_Context: Transnistria, Ukraine, Ukraine-Transnistria border customs conflict_
+_Context: Transnistria, Ukraine-Transnistria border customs conflict, Ukrainian_
 
 ## [Previous Day...](/news/2006/03/2/index.md)
 

@@ -61,7 +61,7 @@ _Context: John Bryson, San Gabriel Valley, Southern California, United States Se
 Gordon Brown has categorically denied making an &#034;unbalanced&#034; declaration of war on Rupert Murdoch after losing support of The Sun newspaper.
 
 ### [Martin McGuinness resigns from the House of Commons. ](/news/2012/06/11/martin-mcguinness-resigns-from-the-house-of-commons.md)
-_Context: House of Commons, Martin McGuinness_
+_Context: House of Commons of the United Kingdom, Martin McGuinness_
 
 ### [The Parliament of Albania elects Bujar Nishani President of the Republic of Albania. ](/news/2012/06/11/the-parliament-of-albania-elects-bujar-nishani-president-of-the-republic-of-albania.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

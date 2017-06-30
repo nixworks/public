@@ -22,7 +22,7 @@ _Context: United States, salmonella, tomato_
 _Context: Afghanistan, Gora Prai airstrike, Pakistan, Robert Gates, Secretary of Defense_
 
 ### [ Cuban hurdler Dayron Robles sets a world record of 12.87 seconds for the 110 metre hurdles at a Golden Spike meet in Ostrava, Czech Republic. ](/news/2008/06/12/cuban-hurdler-dayron-robles-sets-a-world-record-of-12-87-seconds-for-the-110-metre-hurdles-at-a-golden-spike-meet-in-ostrava-czech-republi.md)
-_Context: 110 metre hurdles, Cuba, Czech, Dayron Robles, Ostrava, world record_
+_Context: 110 metre hurdles, Cuba, Czech Republic, Dayron Robles, Ostrava, world record_
 
 ### [ More than 80 countries and international aid organisations meet in Paris to develop a strategy for delivering billions of dollars in aid to Afghanistan. ](/news/2008/06/12/more-than-80-countries-and-international-aid-organisations-meet-in-paris-to-develop-a-strategy-for-delivering-billions-of-dollars-in-aid-to.md)
 _Context: Afghanistan, Paris, international aid_

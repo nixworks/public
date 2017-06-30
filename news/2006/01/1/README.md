@@ -13,7 +13,7 @@ A powerful storm battered Northern California with torrential rains and widespre
 _Context: Al-Quds, Holocaust, Iranian President, Israel, Jerusalem, Jewish camp, Mahmoud Ahmadinejad, Middle East, anti-Semitism, genocide_
 
 ### [  Russian natural gas supplier Gazprom cuts gas supplies to Ukraine, following Ukraine's rejection of a 460% price increase. President Vladimir Putin had offered a three-month price freeze if Ukraine would agree to pay the higher price thereafter, but this was rejected. Ukraine pays US$50 per 1000 cubic metres, Russia claims the market rate is $230. ](/news/2006/01/1/russian-natural-gas-supplier-gazprom-cuts-gas-supplies-to-ukraine-following-ukraine-s-rejection-of-a-460-price-increase-president-vladi.md)
-_Context: Gazprom, Ukraine, Vladimir Putin, natural gas, restarts_
+_Context: Gazprom, Ukrainian, Vladimir Putin, natural gas, restarts_
 
 ## [Previous Day...](/news/2005/12/31/index.md)
 

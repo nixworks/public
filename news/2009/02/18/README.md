@@ -34,7 +34,7 @@ Lucent, Ericsson to upgrade radio network
 _Context: General Motors, Maud Olofsson, Minister of Enterprise and Energy, Saab Automobile, Sweden, automakers_
 
 ### [ The Czech Republic's Chamber of Deputies approves the Treaty of Lisbon. ](/news/2009/02/18/the-czech-republic-s-chamber-of-deputies-approves-the-treaty-of-lisbon.md)
-_Context: Chamber of Deputies, Czech, Treaty of Lisbon_
+_Context: Chamber of Deputies, Czech Republic, Treaty of Lisbon_
 
 ### [ General Motors will cut 47,000 jobs throughout 2009. ](/news/2009/02/18/general-motors-will-cut-47-000-jobs-throughout-2009.md)
 _Context: 2009, General Motors, layoff_

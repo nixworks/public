@@ -34,7 +34,7 @@ Jason Dalton, 45, is in custody following the string of apparently random shooti
 _Context: Australia, Kuala Lumpur, Malaysia, Sabah, Terrorism in Malaysia_
 
 ### [Pope Francis calls for a worldwide ban on the death penalty and urges Christian leaders to work to stop executions as part of the church's Holy Year of Mercy. ](/news/2016/02/21/pope-francis-calls-for-a-worldwide-ban-on-the-death-penalty-and-urges-christian-leaders-to-work-to-stop-executions-as-part-of-the-church-s-h.md)
-_Context: Catholics, Pope Francis, capital punishment, executions_
+_Context: Catholic Church, Pope Francis, capital punishment, executions_
 
 ### [Voters in Comoros go to the polls for a presidential election with 25 candidates standing. ](/news/2016/02/21/voters-in-comoros-go-to-the-polls-for-a-presidential-election-with-25-candidates-standing.md)
 The country has had more than 20 coups or attempts at seizing power since it gained independence from France in 1975

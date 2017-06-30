@@ -10,7 +10,7 @@ Syria denies reports of the discovery of at least one mass grave in the southern
 The Pakistani army protests after two of its soldiers are injured in a clash with Nato helicopters in the border region of North Waziristan.
 
 ### [The U.S. killing of Osama Bin Laden may act as a precedent for "targeted killings," according to a report prepared by the library of the House of Commons of the United Kingdom. ](/news/2011/05/17/the-u-s-killing-of-osama-bin-laden-may-act-as-a-precedent-for-targeted-killings-according-to-a-report-prepared-by-the-library-of-the-hou.md)
-_Context: House of Commons, Osama bin Laden, father's killing, targeted killing_
+_Context: House of Commons of the United Kingdom, Osama bin Laden, father's killing, targeted killing_
 
 ### [A "state of siege" is declared in northern Guatemala after a massacre is committed by The "Zetas" Drug Cartel. ](/news/2011/05/17/a-state-of-siege-is-declared-in-northern-guatemala-after-a-massacre-is-committed-by-the-zetas-drug-cartel.md)
 _Context: "Zetas" Drug Cartel, Guatemala_

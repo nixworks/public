@@ -37,7 +37,7 @@ _Context: Quebec, seaplane, tourism_
 _Context: Korean Peninsula, North Korea, South Korea_
 
 ### [South Africa convicts Czech fugitive Radovan Krejcir of kidnapping, attempted murder, and drug dealing charges. ](/news/2015/08/24/south-africa-convicts-czech-fugitive-radovan-krejaaa-of-kidnapping-attempted-murder-and-drug-dealing-charges.md)
-_Context: Czech, Radovan Krejcir, South Africa_
+_Context: Czech Republic, Radovan Krejcir, South Africa_
 
 ### [Former Vice President of Guatemala Roxana Baldetti appears in court to face corruption charges as finance minister Dorval Carias resigns. ](/news/2015/08/24/former-vice-president-of-guatemala-roxana-baldetti-appears-in-court-to-face-corruption-charges-as-finance-minister-dorval-caraas-resigns.md)
 Roxana Baldetti, a former vice-president of Guatemala, appears in court accused of accepting bribes in a customs scam.

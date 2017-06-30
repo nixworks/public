@@ -4,7 +4,7 @@
 Collection of colour photographs reveal the private life of Adolf Hitler.
 
 ### [ The European Union's parliamentary election continues in the Czech Republic and Ireland. ](/news/2009/06/5/the-european-union-s-parliamentary-election-continues-in-the-czech-republic-and-ireland.md)
-_Context: Czech, European Parliament, European Union, Republic of Ireland, elections_
+_Context: Czech Republic, European Parliament, European Union, Republic of Ireland, elections_
 
 ### [ Ireland conducts local elections and two by-elections in Dublin Central and Dublin South. ](/news/2009/06/5/ireland-conducts-local-elections-and-two-by-elections-in-dublin-central-and-dublin-south.md)
 _Context: Dublin Central, Dublin South, Republic of Ireland, by-election, local elections_

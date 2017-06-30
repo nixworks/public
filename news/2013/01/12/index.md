@@ -16,7 +16,7 @@ Hundreds of people attended the funeral of mountaineer Ian McKeever in Co Wicklo
 At least 46 people, including children, are now known to have died in a landslide in southern China, state media report.
 
 ### [Voters in Czech Republic go to the polls for a presidential election. Two candidates, Milos Zeman and Karel Schwarzenberg, will face in second round on 25-26 January. ](/news/2013/01/12/voters-in-czech-republic-go-to-the-polls-for-a-presidential-election-two-candidates-miloa-zeman-and-karel-schwarzenberg-will-face-in-sec.md)
-_Context: Czech, Czech presidential election, Karel Schwarzenberg, Milos Zeman_
+_Context: Czech Republic, Czech presidential election, Karel Schwarzenberg, Milos Zeman_
 
 ### [Thousands of people gather in Kuala Lumpur, Malaysia, for the People's Uprising Rally, a protest over many government policies and decisions. ](/news/2013/01/12/thousands-of-people-gather-in-kuala-lumpur-malaysia-for-the-people-s-uprising-rally-a-protest-over-many-government-policies-and-decisions.md)
 _Context: Kuala Lumpur, Malaysia, People's Uprising Rally_

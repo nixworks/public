@@ -10,7 +10,7 @@ _Context: North Waziristan, Pakistan Air Force, Tehrik-i-Taliban Pakistan, War i
 _Context: Aleppo, Syria, barrel bomb, war_
 
 ### [2014 pro-Russian conflict in Ukraine:Ukraine's president Petro Poroshenko says he will put forward a detailed peace plan that will include a ceasefire in the conflict. ](/news/2014/06/16/2014-pro-russian-conflict-in-ukraine-pukraine-s-president-petro-poroshenko-says-he-will-put-forward-a-detailed-peace-plan-that-will-include.md)
-_Context: 2014 pro-Russian conflict in Ukraine, Petro Poroshenko, Ukraine_
+_Context: 2014 pro-Russian conflict in Ukraine, Petro Poroshenko, Ukrainian_
 
 ### [Violent riots between Muslims and Buddhists rage in the town of Welipitiya, Sri Lanka, leaving 3 dead, 78 injured, and multiple mosques and shops burned or vandalized. ](/news/2014/06/16/violent-riots-between-muslims-and-buddhists-rage-in-the-town-of-welipitiya-sri-lanka-leaving-3-dead-78-injured-and-multiple-mosques-and.md)
 _Context: Buddhists, Muslims, Sri Lanka, Violent riots, Welipitiya, mosques_
@@ -22,7 +22,7 @@ _Context: Kenya, Mpeketoni, al-Shabaab militants_
 June 16, 17 and 18 will be remembered for their tornadoes in the years to come. The month may still have more activity to send us as well.
 
 ### [Russia's state-owned gas giant Gazprom says that Ukraine must pay up front for its gas after the country failed to settle its debt. ](/news/2014/06/16/russia-s-state-owned-gas-giant-gazprom-says-that-ukraine-must-pay-up-front-for-its-gas-after-the-country-failed-to-settle-its-debt.md)
-_Context: Gazprom, Russia, Ukraine_
+_Context: Gazprom, Russia, Ukrainian_
 
 ### [Russian lawmakers call for the dismissal of Ukraine's interim foreign minister, Andrii Deshchytsia, after he joins protesters in the singing of "Putin khuilo!". ](/news/2014/06/16/russian-lawmakers-call-for-the-dismissal-of-ukraine-s-interim-foreign-minister-andrii-deshchytsia-after-he-joins-protesters-in-the-singing.md)
 Ukrainians have called Vladimir Putin many bad names, among them a Nazi, a dictator and just plain evil. But nothing has caused a firestorm quite like a Ukrainian diplomat&#039;s use of a schoolyard epithet to describe the Russian president during an unscripted moment Saturday night.

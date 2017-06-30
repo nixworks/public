@@ -25,7 +25,7 @@ An Egyptian court sentences 21 people to death over 2012 clashes between footbal
 _Context: Aaron Swartz, Hacktivist, United States Sentencing Commission, hacker group Anonymous_
 
 ### [Milos Zeman wins Czech presidential election and becomes the next President of the Czech Republic running ahead of Karel Schwarzenberg. ](/news/2013/01/26/miloa-zeman-wins-czech-presidential-election-and-becomes-the-next-president-of-the-czech-republic-running-ahead-of-karel-schwarzenberg.md)
-_Context: Czech, Czech presidential election, Karel Schwarzenberg, Milos Zeman, president_
+_Context: Czech Republic, Czech presidential election, Karel Schwarzenberg, Milos Zeman, president_
 
 ### [Lee Li Lian of the Workers' Party wins Punggol East by-election in Singapore and becomes the next MP for Punggol East. This was the second Singaporean by-election after less than a year. ](/news/2013/01/26/lee-li-lian-of-the-workers-party-wins-punggol-east-by-election-in-singapore-and-becomes-the-next-mp-for-punggol-east-this-was-the-second-s.md)
 In less than a year, Singapore will have a second by-election, as Prime Minister Lee Hsien Loong has decided to call for a by-election in Punggol East, less than two months after it fell vacant.. Read more at straitstimes.com.

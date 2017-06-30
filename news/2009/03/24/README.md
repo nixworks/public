@@ -4,7 +4,7 @@
 _Context: Cape May, Lady Mary, fishing boat_
 
 ### [ Czech Prime Minister Mirek Topolanek resigns after losing a confidence motion in the Chamber of Deputies. ](/news/2009/03/24/czech-prime-minister-mirek-topola-nek-resigns-after-losing-a-confidence-motion-in-the-chamber-of-deputies.md)
-_Context: Chamber of Deputies, Czech, Mirek Topolanek, Prime Minister, motion of confidence_
+_Context: Chamber of Deputies, Czech Republic, Mirek Topolanek, Prime Minister, motion of confidence_
 
 ### [ France will compensate victims of nuclear testing in Algeria and French Polynesia. ](/news/2009/03/24/france-will-compensate-victims-of-nuclear-testing-in-algeria-and-french-polynesia.md)
 The French government will compensate victims of past nuclear tests and has earmarked an initial 10 million euros (9 million pounds) to do so, Defence Minister Herve Morin was quoted as saying on Tuesday.

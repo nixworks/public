@@ -25,7 +25,7 @@ _Context: France, Groupe Lactalis, Italy, Parmalat, euro_
 _Context: GDP, Greece, budget deficit_
 
 ### [Ukraine commemorates the 25th anniversary of the Chernobyl disaster. ](/news/2011/04/26/ukraine-commemorates-the-25th-anniversary-of-the-chernobyl-disaster.md)
-_Context: Chernobyl disaster, Ukraine_
+_Context: Chernobyl disaster, Ukrainian_
 
 ### [President of Colombia Juan Manuel Santos calls for national unity after floods kill 91 people. ](/news/2011/04/26/president-of-colombia-juan-manuel-santos-calls-for-national-unity-after-floods-kill-91-people.md)
 _Context: Colombian President, Juan Manuel Santos_

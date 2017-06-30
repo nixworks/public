@@ -7,7 +7,7 @@ _Context: ETS Europe, Educational Testing Service, Key Stage_
 Former Maoist rebel leader Prachanda has been elected as Nepal&#039;s first republican Prime Minister.
 
 ### [ Leftist former Catholic bishop Fernando Lugo is sworn in as the President of Paraguay, ending 60 years of one-party rule. ](/news/2008/08/15/leftist-former-catholic-bishop-fernando-lugo-is-sworn-in-as-the-president-of-paraguay-ending-60-years-of-one-party-rule.md)
-_Context: Catholics, Fernando Lugo, Paraguayan President_
+_Context: Catholic Church, Fernando Lugo, Paraguayan President_
 
 ### [ Former President Hissene Habre is sentenced to death ''in absentia'' by a Chadian court for a military assault on the capital. ](/news/2008/08/15/former-president-hissa-ne-habra-c-is-sentenced-to-death-in-absentia-by-a-chadian-court-for-a-military-assault-on-the-capital.md)
 _Context: Chad, Hissene Habre, President of Chad, military assault_

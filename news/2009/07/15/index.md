@@ -4,7 +4,7 @@
 _Context: Episcopal Church of the United States_
 
 ### [ The Catholic Church praises ''Harry Potter and the Half-Blood Prince'' after previously accusing the books of promoting witchcraft and the occult. ](/news/2009/07/15/the-catholic-church-praises-harry-potter-and-the-half-blood-prince-after-previously-accusing-the-books-of-promoting-witchcraft-and-the.md)
-_Context: Catholics, Harry Potter and the Half-Blood Prince_
+_Context: Catholic Church, Harry Potter and the Half-Blood Prince_
 
 ### [ Caspian Airlines Flight 7908, flying from Tehran to Yerevan, Armenia with 153 passengers and 15 crew members on board, crashes in Iran shortly after takeoff. ](/news/2009/07/15/caspian-airlines-flight-7908-flying-from-tehran-to-yerevan-armenia-with-153-passengers-and-15-crew-members-on-board-crashes-in-iran-shor.md)
 _Context: Armenia, Caspian Airlines, Flight 7908, Iran, Tehran, Yerevan_

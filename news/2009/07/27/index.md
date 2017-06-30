@@ -22,7 +22,7 @@ _Context: Charles Taylor, Liberia, The Hague, eat_
 _Context: Eastern Cape, Mthatha, South Africa, apartheid_
 
 ### [ Patriarch Kirill of the Russian Orthodox Church begins a visit to Ukraine. ](/news/2009/07/27/patriarch-kirill-of-the-russian-orthodox-church-begins-a-visit-to-ukraine.md)
-_Context: Patriarch Kirill, Russian, Ukraine_
+_Context: Patriarch Kirill, Russian, Ukrainian_
 
 ### [ French President Nicolas Sarkozy leaves hospital after tests due to his fainting fits. ](/news/2009/07/27/french-president-nicolas-sarkozy-leaves-hospital-after-tests-due-to-his-fainting-fits.md)
 French President Nicolas Sarkozy has left hospital after tests confirmed that his collapse was unrelated to any heart problem.

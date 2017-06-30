@@ -16,7 +16,7 @@ _Context: 1994, Democratic Republic of the Congo, Hutu, Military of the Democrat
 _Context: 41st, African-American, Barack Obama, United States, United States Inauguration Day 2009, United States President, first, inaugural address_
 
 ### [ Russia resumes transmitting natural gas to Europe via Ukraine. ](/news/2009/01/20/russia-resumes-transmitting-natural-gas-to-europe-via-ukraine.md)
-_Context: Europe, Russia, Russia-Ukraine gas disputes, Ukraine, natural gas_
+_Context: Europe, Russia, Russia-Ukraine gas disputes, Ukrainian, natural gas_
 
 ## [Previous Day...](/news/2009/01/19/index.md)
 

@@ -10,7 +10,7 @@ _Context: Pakistan, Pakistan Air Force, Peshawar, car bomb_
 _Context: Chicago, Rahm Emanuel, union_
 
 ### [The Czech Republic temporarily imposes a ban on hard liquor after a spate of deaths related to bootleg hard alcohol poisoning. ](/news/2012/09/19/the-czech-republic-temporarily-imposes-a-ban-on-hard-liquor-after-a-spate-of-deaths-related-to-bootleg-hard-alcohol-poisoning.md)
-_Context: Czech_
+_Context: Czech Republic_
 
 ### [The cabinet of Yoshihiko Noda reverses a pledge made by the Japanese government earlier in the week to end reliance on nuclear power by the 2030s. ](/news/2012/09/19/the-cabinet-of-yoshihiko-noda-reverses-a-pledge-made-by-the-japanese-government-earlier-in-the-week-to-end-reliance-on-nuclear-power-by-the.md)
 _Context: Japanese government, Yoshihiko Noda_

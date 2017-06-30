@@ -13,7 +13,7 @@ Gunmen killed 30 people in a village in central Nigeria on Monday, officials sai
 A frigid weather system called the polar vortex gripped much of the Midwest on Monday as temperatures dropped to near-record, subzero lows, canceling school classes, grounding thousands of airline flights and prompting authorities to urge residents to stay home or go to emergency warming shelters.
 
 ### [The Czech Foreign Minister Jan Kohout uses strong words to condemn the discovery of illegal weapons at the Palestinian embassy complex where a possible booby-trapped safe killed the ambassador Jamal al-Jamal on January 1, saying it is "a serious violation of the Vienna Convention on Diplomatic Relations." ](/news/2014/01/6/the-czech-foreign-minister-jan-kohout-uses-strong-words-to-condemn-the-discovery-of-illegal-weapons-at-the-palestinian-embassy-complex-where.md)
-_Context: Czech, Jamal al-Jamal, Jan Kohout, Vienna Convention on Diplomatic Relations_
+_Context: Czech Republic, Jamal al-Jamal, Jan Kohout, Vienna Convention on Diplomatic Relations_
 
 ### [American-born Colleen LaRose, who calls herself Jihad Jane, is sentenced to 10 years in prison for a failed al Qaeda-linked plot to kill Swedish artist Lars Vilks who had depicted the head of the Muslim Prophet Mohammad on a dog. ](/news/2014/01/6/american-born-colleen-larose-who-calls-herself-jihad-jane-is-sentenced-to-10-years-in-prison-for-a-failed-al-qaeda-linked-plot-to-kill-swe.md)
 _Context: Colleen LaRose, Lars Vilks, Mohammad_

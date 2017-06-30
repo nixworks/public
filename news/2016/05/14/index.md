@@ -10,7 +10,7 @@ MIDEAST CRISIS/SYRIA-TURKEY:Turkish shelling, coalition air strike kills 45 IS m
 An official says more than a dozen suicide bombers have attacked a residential and government complex outside Baghdad, killing at least six people.
 
 ### [Ukraine's Jamala, performing the song "1944", wins the 2016 Eurovision Song Contest in Stockholm, Sweden. ](/news/2016/05/14/ukraine-s-jamala-performing-the-song-1944-wins-the-2016-eurovision-song-contest-in-stockholm-sweden.md)
-_Context: 1944, Eurovision Song Contest, Eurovision Song Contest 2016, Jamala, Stockholm, Sweden, Ukraine, Ukraine in the Eurovision Song Contest 2016_
+_Context: 1944, Eurovision Song Contest, Eurovision Song Contest 2016, Jamala, Stockholm, Sweden, Ukraine in the Eurovision Song Contest 2016, Ukrainian_
 
 ### [More than 50 have been killed by lightning strikes in Bangladesh over the past two days. ](/news/2016/05/14/more-than-50-have-been-killed-by-lightning-strikes-in-bangladesh-over-the-past-two-days.md)
 Police in Bangladesh say more than 50 people across the country have died after being struck by lightning in the past two days.

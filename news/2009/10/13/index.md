@@ -7,7 +7,7 @@ _Context: Gunnar Asplund, Stockholm, central library_
 _Context: Barack Obama, Nobel Peace Prize, Norway_
 
 ### [ Czech President Vclav Klaus tells his supporters he will never sign the Treaty of Lisbon. ](/news/2009/10/13/czech-president-vaclav-klaus-tells-his-supporters-he-will-never-sign-the-treaty-of-lisbon.md)
-_Context: Czech, Treaty of Lisbon, Vclav Klaus, president_
+_Context: Czech Republic, Treaty of Lisbon, Vclav Klaus, president_
 
 ### [ Samus Kirk is elected the 16th Ceann Comhairle of Ireland following the resignation of John O'Donoghue. ](/news/2009/10/13/seamus-kirk-is-elected-the-16th-ceann-comhairle-of-ireland-following-the-resignation-of-john-o-donoghue.md)
 _Context: Ceann Comhairle, John O'Donoghue, Republic of Ireland, Samus Kirk_

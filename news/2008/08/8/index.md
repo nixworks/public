@@ -13,7 +13,7 @@ _Context: Iraq, Tal Afar, car bomb_
 Witnesses who called 911 after the crash of a charter bus that killed at least 17 people described a chaotic scene, with bloody passengers crushed beneath the smoking wreckage.
 
 ### [ Studenka Train Disaster: An express train crashes into a bridge near the town of Studenka in the Czech Republic resulting in 7 people dead and around 70 injured. ](/news/2008/08/8/studenka-train-disaster-an-express-train-crashes-into-a-bridge-near-the-town-of-studenka-in-the-czech-republic-resulting-in-7-people-dead.md)
-_Context: Czech, Studenka, Studenka Train Disaster, express train_
+_Context: Czech Republic, Studenka, Studenka Train Disaster, express train_
 
 ### [ A terrorist group seeking an independent Muslim state in Xinjiang, China releases a video threatening an attack on the 2008 Olympic Games. ](/news/2008/08/8/a-terrorist-group-seeking-an-independent-muslim-state-in-xinjiang-china-releases-a-video-threatening-an-attack-on-the-2008-olympic-games.md)
 A terrorist group seeking an independent Muslim state in western China has released a video threatening an attack on the Olympic Games.

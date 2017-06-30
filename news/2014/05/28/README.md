@@ -4,7 +4,7 @@
 _Context: Lotfi Ben Jeddou, Tunisia_
 
 ### [2014 pro-Russian unrest in Ukraine:Ramzan Kadyrov, Head of the Chechen Republic, insists he has not sent troops to Ukraine to fight alongside pro-Russia separatists.  ](/news/2014/05/28/2014-pro-russian-unrest-in-ukraine-pramzan-kadyrov-head-of-the-chechen-republic-insists-he-has-not-sent-troops-to-ukraine-to-fight-alongsi.md)
-_Context: 2014 pro-Russian unrest in Ukraine, Chechen Republic leader, Ramzan Kadyrov, Ukraine_
+_Context: 2014 pro-Russian unrest in Ukraine, Chechen Republic leader, Ramzan Kadyrov, Ukrainian_
 
 ### [A split emerges in the Pakistani Taliban after the Mehsud faction walked out, saying the group leaders' tactics were "un-Islamic".  ](/news/2014/05/28/a-split-emerges-in-the-pakistani-taliban-after-the-mehsud-faction-walked-out-saying-the-group-leaders-tactics-were-un-islamic.md)
 A major faction of the Pakistani Taliban announce their split from the organisation, saying its tactics are &quot;un-Islamic&quot;.

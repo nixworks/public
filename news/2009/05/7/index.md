@@ -4,7 +4,7 @@
 _Context: Baghdad, Blackwater Worldwide, Iraq, Iraq War, civilian contractor_
 
 ### [ The Eastern Partnership conducts its inaugural meeting in Prague, Czech Republic.](/news/2009/05/7/the-eastern-partnership-conducts-its-inaugural-meeting-in-prague-czech-republic.md)
-_Context: Czech, Eastern Partnership, Prague_
+_Context: Czech Republic, Eastern Partnership, Prague_
 
 ### [ General Motors reports a US$6 billion loss for the first fiscal quarter of 2009. ](/news/2009/05/7/general-motors-reports-a-us-6-billion-loss-for-the-first-fiscal-quarter-of-2009.md)
 _Context: General Motors, US$, fiscal year_
@@ -31,7 +31,7 @@ _Context: Aung San Suu Kyi, Burma, General Secretary, National League for Democr
 _Context: European Central Bank, Eurozone, euro, interest rate, quantitative easing_
 
 ### [ A fire at a casino kills ten people and injures ten others in Dnipropetrovsk, Ukraine. ](/news/2009/05/7/a-fire-at-a-casino-kills-ten-people-and-injures-ten-others-in-dnipropetrovsk-ukraine.md)
-_Context: Dnipropetrovsk, Ukraine, casino_
+_Context: Dnipropetrovsk, Ukrainian, casino_
 
 ### [ The fourth phase of India's general election concludes. ](/news/2009/05/7/the-fourth-phase-of-india-s-general-election-concludes.md)
 _Context: India, becomes_

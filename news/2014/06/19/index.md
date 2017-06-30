@@ -10,7 +10,7 @@ Romanian prosecutors said they detained President Traian Basescu’s brother on 
 _Context: Supreme Court of the United States, a case, business methods, software_
 
 ### [The Ukraine Parliament confirms all government candidates, including that of foreign minister, appointed the previous day by President Petro Poroshenko. ](/news/2014/06/19/the-ukraine-parliament-confirms-all-government-candidates-including-that-of-foreign-minister-appointed-the-previous-day-by-president-petro.md)
-_Context: Petro Poroshenko, Ukraine_
+_Context: Petro Poroshenko, Ukrainian_
 
 ## [Previous Day...](/news/2014/06/18/index.md)
 

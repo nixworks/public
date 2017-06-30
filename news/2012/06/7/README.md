@@ -49,7 +49,7 @@ Washington is losing patience with Pakistan over alleged safe havens for Taliban
 _Context: Ariel Attias, Beit El, Benjamin Netanyahu, Israel, West Bank_
 
 ### [UK government ministers announce their intention to boycott group games involving the England national football team at UEFA Euro 2012 in Ukraine. ](/news/2012/06/7/uk-government-ministers-announce-their-intention-to-boycott-group-games-involving-the-england-national-football-team-at-uefa-euro-2012-in-uk.md)
-_Context: England, UEFA Euro 2012, Ukraine_
+_Context: England, UEFA Euro 2012, Ukrainian_
 
 ### [An Israeli court paves the way for the deportation of hundreds of illegal South Sudanese migrants, despite opposition to the move from human rights groups. ](/news/2012/06/7/an-israeli-court-paves-the-way-for-the-deportation-of-hundreds-of-illegal-south-sudanese-migrants-despite-opposition-to-the-move-from-human.md)
 Interior minister welcomes decision, calls it first step in expelling the remaining African &#8216;infiltrators&#8217;

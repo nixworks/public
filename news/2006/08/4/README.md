@@ -4,7 +4,7 @@
 _Context: Domesday Book, England, William, census_
 
 ### [ Viktor Yanukovych became Prime minister of Ukraine.](/news/2006/08/4/viktor-yanukovych-became-prime-minister-of-ukraine.md)
-_Context: Ukraine, Viktor Yanukovych_
+_Context: Ukrainian, Viktor Yanukovych_
 
 ### [ Lord's Resistance Army second-in-command Vincent Otti declares an immediate, unilateral ceasefire in the rebel group's 20-year insurgency against the government of Uganda.](/news/2006/08/4/lord-s-resistance-army-second-in-command-vincent-otti-declares-an-immediate-unilateral-ceasefire-in-the-rebel-group-s-20-year-insurgency-a.md)
 _Context: Lord's Resistance Army, Uganda, Vincent Otti_

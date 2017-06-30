@@ -46,7 +46,7 @@ Incumbent Serzh Sargsyan garners 61 percent of vote, according to partial result
 Tunisian Prime Minister Hamadi Jebali resigns after failing to form a new government following a political assassination.
 
 ### [2013 Bulgarian protests: At least 10 people are injured in the Bulgarian capital Sofia, as tens of thousands turn up for rallies in 10 cities, a day after Prime Minister Boyko Borisov sacked his Finance Minister Simeon Djankov. The government revokes the license of Czech company CEZ due to high electricity prices, which helped fuel the 9-day protests. ](/news/2013/02/19/2013-bulgarian-protests-at-least-10-people-are-injured-in-the-bulgarian-capital-sofia-as-tens-of-thousands-turn-up-for-rallies-in-10-citie.md)
-_Context: 2013 Bulgarian protests, Boyko Borisov, Bulgaria, CEZ, Czech, Prime Minister, Simeon Djankov, Sofia_
+_Context: 2013 Bulgarian protests, Boyko Borisov, Bulgaria, CEZ, Czech Republic, Prime Minister, Simeon Djankov, Sofia_
 
 ### [Nepal's major political parties agree to form an interim government led by the Supreme Court Chief Justice Khil Raj Regmi, pending a new Constituent Assembly election to write a new constitution. ](/news/2013/02/19/nepal-s-major-political-parties-agree-to-form-an-interim-government-led-by-the-supreme-court-chief-justice-khil-raj-regmi-pending-a-new-con.md)
 Nepal&#039;s major political parties have agreed to form an interim government led by the Supreme Court chief justice and hold elections in June, likely ending a deadlock that left the nation without a fully functioning government since last year.

@@ -22,7 +22,7 @@ _Context: Boston, Boston Marathon bombings, DNA, Dzhokhar Tsarnaev, Russia, deat
 _Context: Eaton Corp., Supreme Court of the United States, United States court, antitrust_
 
 ### [A powerful explosion occurs in an office building in Prague, Czech Republic, believed to have been caused by natural gas, injures 35 people. Both the nearby Faculty of Arts and Sciences building of Charles University and the National Theater also sustain damage. ](/news/2013/04/29/a-powerful-explosion-occurs-in-an-office-building-in-prague-czech-republic-believed-to-have-been-caused-by-natural-gas-injures-35-people.md)
-_Context: Charles University, Czech, Prague, explosion_
+_Context: Charles University, Czech Republic, Prague, explosion_
 
 ### [A Boeing 747 crashes near an American military base in Bagram, Afghanistan, killing all seven American crew members onboard. ](/news/2013/04/29/a-boeing-747-crashes-near-an-american-military-base-in-bagram-afghanistan-killing-all-seven-american-crew-members-onboard.md)
 This is the terrifying moment a civilian cargo plane in Afghanistan spun out of control and crashed, killing everyone on board, writes Claire Cromie

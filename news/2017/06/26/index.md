@@ -12,6 +12,9 @@ Liu was awarded Nobel peace prize in 2010 while serving 11-year sentence for inc
 ### [The Supreme Court of the United States partially reinstates President Donald Trump's travel ban and invalidates certain injunctions that were put on the order by two federal appeals courts earlier. Final oral hearings concerning the legality of the Executive Order 13780 will be held in October 2017 at the Supreme Court. ](/news/2017/06/26/the-supreme-court-of-the-united-states-partially-reinstates-president-donald-trump-s-travel-ban-and-invalidates-certain-injunctions-that-wer.md)
 The US Supreme Court partly implements the travel and refugee bans pending a full review in October.
 
+### [Unruly aircraft passengersAlaska Airlines removes 11 passengers from a Juneau, Alaska to Seattle, Washington flight, due to alleged unruly and uncooperative behavior. There were no arrests. ](/news/2017/06/26/unruly-aircraft-passengerspalaska-airlines-removes-11-passengers-from-a-juneau-alaska-to-seattle-washington-flight-due-to-alleged-unruly.md)
+The Alaska Airlines passengers were reportedly not following directions and making inappropriate comments to flight attendants.
+
 ### [Three CNN journalists, Thomas Frank, Eric Lichtblau, and Lex Haris, resign after the publication of a Russia-related article involving President Donald Trump that was retracted. ](/news/2017/06/26/three-cnn-journalists-thomas-frank-eric-lichtblau-and-lex-haris-resign-after-the-publication-of-a-russia-related-article-involving-presi.md)
 _Context: CNN, CNN 2017 undercover videos controversy, Donald Trump, Eric Lichtblau_
 

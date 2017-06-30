@@ -1,6 +1,6 @@
 ### [2017-06-29](/news/2017/06/29/index.md)
 
-# The Chamber of Deputies of the Czech Republic passes a Czech Social Democratic Party-proposed amendment to the constitution, giving citizens the right to acquire, posses and carry firearms for the purpose of security. The constitutional amendment will now go to the Senate, where it is expected to pass. 
+# The Chamber of Deputies of the Czech Republic passes a Czech Social Democratic Party-proposed amendment to the constitution, giving citizens the right to acquire, possess and carry firearms for the purpose of security. The constitutional amendment will now go to the Senate, where it is expected to pass. 
 
 
 

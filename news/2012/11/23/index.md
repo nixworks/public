@@ -7,7 +7,7 @@ Larry Hagman, who played evil oil baron J.R. Ewing, died in a Dallas hospital wi
 Two military aircraft collided in the air in Venezuela during a demonstration flight. One of the pilots was killed
 
 ### [The pilot of a Czech subsonic one-seat military aircraft Aero L-159 Alca that crashed in central Bohemia has been found dead in its wreckage. ](/news/2012/11/23/the-pilot-of-a-czech-subsonic-one-seat-military-aircraft-aero-l-159-alca-that-crashed-in-central-bohemia-has-been-found-dead-in-its-wreckage.md)
-_Context: Aero L-159 Alca, Bohemia, Czech, aircraft, subsonic_
+_Context: Aero L-159 Alca, Bohemia, Czech Republic, aircraft, subsonic_
 
 ### [The Mexican federal police arrested Joe Saenz, one of the FBI Ten Most Wanted Fugitives, in the western city of Guadalajara. ](/news/2012/11/23/the-mexican-federal-police-arrested-joe-saenz-one-of-the-fbi-ten-most-wanted-fugitives-in-the-western-city-of-guadalajara.md)
 _Context: 10 Most Wanted Fugitives list, Guadalajara, Joe Saenz, Mexican Police_

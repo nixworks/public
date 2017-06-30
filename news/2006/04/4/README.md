@@ -16,7 +16,7 @@ _Context: Film director, Gaza Strip, Israel, James Miller, Palestinian refugee_
 _Context: Majority Leader, Tom DeLay, United States House of Representatives_
 
 ### [ The 39th Canadian Parliament opens in Ottawa, with the Speech from the Throne delivered by the Governor General on behalf of the newly elected government of Stephen Harper. ](/news/2006/04/4/the-39th-canadian-parliament-opens-in-ottawa-with-the-speech-from-the-throne-delivered-by-the-governor-general-on-behalf-of-the-newly-elec.md)
-_Context: 39th Canadian Parliament, Governor General, Ottawa, Stephen Harper, state of the nation_
+_Context: 39th Canadian Parliament, Governor General, Ottawa, Queen's Speech, Stephen Harper_
 
 ## [Previous Day...](/news/2006/04/3/index.md)
 

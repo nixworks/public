@@ -1,7 +1,7 @@
 ## [2008-08-9](/news/2008/08/9/index.md)
 
 ### [ 2008 Summer Olympics: Shooter Katerina Emmons of the Czech Republic wins the women's 10 meter air rifle competition, the first gold medal of the 2008 Summer Olympics, setting an Olympic record for both the qualifying and final scores. ](/news/2008/08/9/2008-summer-olympics-p-shooter-kateaina-emmons-of-the-czech-republic-wins-the-women-s-10-meter-air-rifle-competition-the-first-gold-medal.md)
-_Context: Beijing Olympiad, Czech, Katerina Emmons, Olympic record, Shooter, gold medal, women's 10 meter air rifle_
+_Context: Beijing Olympiad, Czech Republic, Katerina Emmons, Olympic record, Shooter, gold medal, women's 10 meter air rifle_
 
 ### [ 2008 South Ossetia War: Russia and Georgia continue to fight in South Ossetia and Georgia. The search for the dead and injured continues after at least 2,000 civilians were killed after two days Georgian offensive. Russia reported 12 peacekeepers killed and 30 wounded in the previous day during the Georgian tank and missile bombardment of Tskhinvali. ](/news/2008/08/9/2008-south-ossetia-war-p-russia-and-georgia-continue-to-fight-in-south-ossetia-and-georgia-the-search-for-the-dead-and-injured-continues-a.md)
 Russia accused Georgia on Saturday of seeking bloody adventures by trying to retake its breakaway region of South Ossetia and defended its own military campaign to stop it.

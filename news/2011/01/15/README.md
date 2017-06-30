@@ -16,7 +16,7 @@ The online encyclopedia Wikipedia, which gets nearly 400 million unique visitors
 _Context: Australian Greens, David Shoebridge, England, Julian Assange, Sweden, Sydney, WikiLeaks, freedom of speech_
 
 ### [In Westminster Cathedral, three Anglican bishops are ordained as Catholic priests. ](/news/2011/01/15/in-westminster-cathedral-three-anglican-bishops-are-ordained-as-catholic-priests.md)
-_Context: Catholics, Church of England, Westminster Cathedral_
+_Context: Catholic Church, Church of England, Westminster Cathedral_
 
 ### [Rafael Ramirez, energy minister for Venezuela, a member of the Organization of Petroleum Exporting Countries, played down concern that rising oil prices may choke off the world's still-tentative recovery, and said there is no need of an emergency meeting of OPEC. ](/news/2011/01/15/rafael-ramarez-energy-minister-for-venezuela-a-member-of-the-organization-of-petroleum-exporting-countries-played-down-concern-that-risi.md)
 _Context: Organization of Petroleum Exporting Countries, Rafael Ramirez, Venezuela_

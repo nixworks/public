@@ -16,7 +16,7 @@ _Context: Ben Bernanke, Chairman of the Federal Reserve, Charles Plosser, Econom
 _Context: Israel, Muslim, Osama bin Laden, fire, jihad_
 
 ### [ Ukraine says it cannot resume natural-gas transit because Russia's Gazprom has provided insufficient supplies. ](/news/2009/01/14/ukraine-says-it-cannot-resume-natural-gas-transit-because-russia-s-gazprom-has-provided-insufficient-supplies.md)
-_Context: Gazprom, Russia, Russia-Ukraine gas disputes, Ukraine, natural gas_
+_Context: Gazprom, Russia, Russia-Ukraine gas disputes, Ukrainian, natural gas_
 
 ### [ Somali pirates release two ships off the coast of East Africa. ](/news/2009/01/14/somali-pirates-release-two-ships-off-the-coast-of-east-africa.md)
 _Context: East Africa, Somali pirates, Somalia, seize_

@@ -16,7 +16,7 @@ _Context: Angela Merkel, Chancellor, Iran_
 _Context: Games Convention, Germany, Leipzig_
 
 ### [ Definition of planet: The International Astronomical Union, meeting in Prague, Czech Republic, votes to strip Pluto of its status as a planet. ](/news/2006/08/24/definition-of-planet-the-international-astronomical-union-meeting-in-prague-czech-republic-votes-to-strip-pluto-of-its-status-as-a-plan.md)
-_Context: Czech, Definition of planet, International Astronomical Union, Pluto, Prague, planet_
+_Context: Czech Republic, Definition of planet, International Astronomical Union, Pluto, Prague, planet_
 
 ### [ Apple Computer announces a recall of 1.8 million batteries for its PowerBook G4 and iBook G4 models. ](/news/2006/08/24/apple-computer-announces-a-recall-of-1-8-million-batteries-for-its-powerbook-g4-and-ibook-g4-models.md)
 _Context: Apple Computer_

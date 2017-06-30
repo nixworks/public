@@ -22,7 +22,7 @@ _Context: Georgia, Mayor of Atlanta, Shirley Franklin, state of emergency, torna
 _Context: Bari, Italy, Mafia, victims_
 
 ### [ Three former police officers are jailed over the killing of Ukrainian investigative journalist Georgiy R. Gongadze in 2000. ](/news/2008/03/15/three-former-police-officers-are-jailed-over-the-killing-of-ukrainian-investigative-journalist-georgiy-r-gongadze-in-2000.md)
-_Context: Georgiy R. Gongadze, Ukraine, investigative reporter, police officer_
+_Context: Georgiy R. Gongadze, Ukrainian, investigative reporter, police officer_
 
 ### [ A weapons depot near Tirana, Albania is hit by multiple explosions, killing at least 11 people and injuring around 300. ](/news/2008/03/15/a-weapons-depot-near-tirana-albania-is-hit-by-multiple-explosions-killing-at-least-11-people-and-injuring-around-300.md)
 _Context: 2008 Tirana explosions, Albania, Tirana, weapon_

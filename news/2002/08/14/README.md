@@ -13,7 +13,7 @@ _Context: Israeli-Palestinian conflict, Marwan Barghouti_
 _Context: CryoLife, U.S. Food and Drug Administration, implant tissue_
 
 ### [ Extreme weather: The peak of a 100-year flood of the Vltava River surges through the Czech Republic into the Elbe in Germany. In Plzen the city center is flooded, and breweries shut down. In Ceske Budejovice, most of the old town is under more than a foot of water, and the Czech Budweiser breweries are shut down. More than 200,000 Czechs are forced to leave their homes. Damages are estimated at over $600 million. In Dresden, the Zwinger Palace courtyard and basement are flooded, damaging paintings. The Semper Opera basement is flooded, closing it for weeks. More than 3,000 hospital patients are evacuated. Europe-wide death toll is now 99.](/news/2002/08/14/extreme-weather-the-peak-of-a-100-year-flood-of-the-vltava-river-surges-through-the-czech-republic-into-the-elbe-in-germany-in-plzea-the.md)
-_Context: 100-year flood, Budweiser, Ceske Budejovice, Czech, Dresden, Elbe, Plzen, Semper Opera, Vltava River, Zwinger Palace, extreme weather_
+_Context: 100-year flood, Budweiser, Ceske Budejovice, Czech Republic, Dresden, Elbe, Plzen, Semper Opera, Vltava River, Zwinger Palace, extreme weather_
 
 ## [Previous Day...](/news/2002/08/13/index.md)
 

@@ -7,7 +7,7 @@ _Context: Bakonjo, Charles Wesley Mumbere, Rwenzururu, Uganda_
 _Context: Afghanistan President, Hamid Karzai, United Nations, electoral fraud, presidential election_
 
 ### [ Slovak Prime Minister Robert Fico says that he will also demand an opt-out in the Treaty of Lisbon if the Czech Republic is granted one. ](/news/2009/10/19/slovak-prime-minister-robert-fico-says-that-he-will-also-demand-an-opt-out-in-the-treaty-of-lisbon-if-the-czech-republic-is-granted-one.md)
-_Context: Czech, Prime Minister, Robert Fico's, Slovakia's, Treaty of Lisbon_
+_Context: Czech Republic, Prime Minister, Robert Fico's, Slovakia's, Treaty of Lisbon_
 
 ### [ Abraham Lauhenaspessy ("Captain Bram"), a suspected kingpin people smuggler, is detained in Indonesia. ](/news/2009/10/19/abraham-lauhenaspessy-captain-bram-a-suspected-kingpin-people-smuggler-is-detained-in-indonesia.md)
 A PEOPLE-smuggling kingpin has been detained in Indonesia in a breakthrough in efforts to disrupt the latest wave of asylum seekers coming to Australia.

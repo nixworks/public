@@ -16,7 +16,7 @@ _Context: 2012 Northern Mali conflict, Douentza, Islamist, Mali_
 _Context: Davao City, Philippines_
 
 ### [Former progressive Cardinal Carlo Maria Martini describes the Catholic Church as "200 years behind the times" in an interview published the day after his death. ](/news/2012/09/1/former-progressive-cardinal-carlo-maria-martini-describes-the-catholic-church-as-200-years-behind-the-times-in-an-interview-published-the.md)
-_Context: Carlo Maria Martini, Catholics_
+_Context: Carlo Maria Martini, Catholic Church_
 
 ### [American songwriter Hal David, who was best known for his collaborations with composer Burt Bacharach, dies in Los Angeles, California, at the age of 91. ](/news/2012/09/1/american-songwriter-hal-david-who-was-best-known-for-his-collaborations-with-composer-burt-bacharach-dies-in-los-angeles-california-at-t.md)
 US songwriter Hal David, who wrote dozens of hit songs with collaborator Burt Bacharach, dies from complications stemming from a stroke aged 91.

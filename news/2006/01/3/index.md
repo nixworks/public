@@ -8,7 +8,7 @@ _Context: Ariel Sharon, Israel, Israeli Prime Minister, Likud Party, Tel Aviv_
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [ Russia-Ukraine gas dispute: The Russian and Ukrainian natural gas companies agree to end their dispute and resume gas supply to Ukraine under a complex price scheme in which OAO Gazprom will sell gas to the Rosukrenergo trading company (owned by Gazprom Bank and Raiffeisen Bank) for US$230 (E195) per 1,000 cubic meters as of Jan. 1, and Ukraine will buy gas from the company for US$95 (E80). ](/news/2006/01/3/russia-ukraine-gas-dispute-the-russian-and-ukrainian-natural-gas-companies-agree-to-end-their-dispute-and-resume-gas-supply-to-ukraine-und.md)
-_Context: Gazprom, Ukraine, restarts_
+_Context: Gazprom, Ukrainian, restarts_
 
 ### [ Chinese journalist and whistleblower Jiang Weiping, who was jailed in 2000 for violating the State Secrets Law on charges of "subversion," is released after the one year left on his prison sentence is commuted. In 1999 Jiang wrote two articles for a Hong Kong magazine accusing Bo Xilai, who at the time was governor of Liaoning province, but is now China's economic minister, of covering up corruption. ](/news/2006/01/3/chinese-journalist-and-whistleblower-jiang-weiping-who-was-jailed-in-2000-for-violating-the-state-secrets-law-on-charges-of-subversion.md)
 _Context: Bo Xilai, Hong Kong, Jiang Weiping, Liaoning, State Secrets Law, anti-corruption, economic minister, journalist, subversion, whistleblower_

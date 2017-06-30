@@ -1,7 +1,7 @@
 ## [2009-10-17](/news/2009/10/17/index.md)
 
 ### [ Czech President Vclav Klaus compares the Treaty of Lisbon to  "an unstoppable speeding train" that he is being forced to sign. ](/news/2009/10/17/czech-president-vaclav-klaus-compares-the-treaty-of-lisbon-to-an-unstoppable-speeding-train-that-he-is-being-forced-to-sign.md)
-_Context: Czech, Treaty of Lisbon, Vclav Klaus, president_
+_Context: Czech Republic, Treaty of Lisbon, Vclav Klaus, president_
 
 ### [ A report into dumping of toxic waste by Trafigura in Cte d'Ivoire is published. ](/news/2009/10/17/a-report-into-dumping-of-toxic-waste-by-trafigura-in-cote-d-ivoire-is-published.md)
 _Context: Cte d'Ivoire, Trafigura, the dumped waste_

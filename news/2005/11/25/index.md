@@ -13,7 +13,7 @@ _Context: Archaeologist, Conflict in Iraq, Germany, Iraq, Susanne Osthoff_
 _Context: Cebu City, Manila, Philippines, Southeast Asian Games_
 
 ### [ The president of Ukraine, Viktor Yushchenko, calls for the Holodomor to be internationally recognised as an act of genocide. ](/news/2005/11/25/the-president-of-ukraine-viktor-yushchenko-calls-for-the-holodomor-to-be-internationally-recognised-as-an-act-of-genocide.md)
-_Context: Ukraine, Viktor Yushchenko, famine in Ukraine in 1932-1933, genocide_
+_Context: Ukrainian, Viktor Yushchenko, famine in Ukraine in 1932-1933, genocide_
 
 ### [ Papua New Guinea decides to evacuate the 1500 inhabitants of Carteret Atoll to Bougainville, 100 km away, over the next two years. The atolls, maximum elevation 1.5 metres, are the first inhabited land to be abandoned to rising sea levels and they are expected to be totally inundated by around 2015. ](/news/2005/11/25/papua-new-guinea-decides-to-evacuate-the-1500-inhabitants-of-carteret-atoll-to-bougainville-100-km-away-over-the-next-two-years-the-atol.md)
 _Context: 2015, Bougainville Island, Carteret Atoll, Papua New Guinea_

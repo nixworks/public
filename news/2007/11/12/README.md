@@ -19,7 +19,7 @@ _Context: Cognos, IBM, business intelligence_
 _Context: Madrid, anti-racism, far right_
 
 ### [ The trial of Yvan Colonna, a Corsican separatist accused of murdering former Prefect of Corse-du-Sud Claude Erignac in 1998, opens in Paris. ](/news/2007/11/12/the-trial-of-yvan-colonna-a-corsican-separatist-accused-of-murdering-former-prefect-of-corse-du-sud-claude-arignac-in-1998-opens-in-pari.md)
-_Context: Claude Erignac, Corse-du-Sud, Corsica, Yvan Colonna, prefect, separatist_
+_Context: Claude Erignac, Corse-du-Sud, Corsica, Prefect, Yvan Colonna, separatist_
 
 ### [ Airbus and Boeing both win a giant order of 100 planes from Dubai Aerospace Enterprise, a United Arab Emirates jet leasing corporation. ](/news/2007/11/12/airbus-and-boeing-both-win-a-giant-order-of-100-planes-from-dubai-aerospace-enterprise-a-united-arab-emirates-jet-leasing-corporation.md)
 _Context: Airbus, Boeing, Dubai Aerospace Enterprise, United Arab Emirates_

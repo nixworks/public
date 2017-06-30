@@ -7,7 +7,7 @@ _Context: John Ashcroft_
 _Context: Christmas Eve_
 
 ### [Iran's state radio reported quoted a statement by airport officials, saying that pilot "carelessness" caused a plane carrying Ukrainian and Russian aerospace scientists to crash in central Iran, killing all 46 people on board. ](/news/2002/12/24/iran-s-state-radio-reported-quoted-a-statement-by-airport-officials-saying-that-pilot-carelessness-caused-a-plane-carrying-ukrainian-and.md)
-_Context: Iran, Ukraine_
+_Context: Iran, Ukrainian_
 
 ### [Sun Microsystems won a major antitrust victory against Microsoft when a federal judge ordered Microsoft to distribute Sun's Java programming language in its Microsoft Windows operating system.](/news/2002/12/24/sun-microsystems-won-a-major-antitrust-victory-against-microsoft-when-a-federal-judge-ordered-microsoft-to-distribute-sun-s-java-programming.md)
 _Context: Java, Microsoft, Microsoft Windows, Sun Microsystems_

@@ -89,7 +89,7 @@ _Context: Australia, Central Intelligence Agency_
 _Context: Le Monde, Matthieu Pigasse, Pierre Berge, Xavier Niel_
 
 ### [One person is killed and eleven are injured in a derailment at Usti nad Labem, Czech Republic. ](/news/2010/06/28/one-person-is-killed-and-eleven-are-injured-in-a-derailment-at-asta-nad-labem-czech-republic.md)
-_Context: Czech, Usti nad Labem, derailment_
+_Context: Czech Republic, Usti nad Labem, derailment_
 
 ### [Turkish soldiers mistakenly kill two villagers in Hatay. ](/news/2010/06/28/turkish-soldiers-mistakenly-kill-two-villagers-in-hatay.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews

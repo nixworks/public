@@ -31,7 +31,7 @@ Prime Minister Gordon Brown of Britain indicated that he mostly shared President
 _Context: Islam, Islamabad, Lal Masjid, Pakistan, shrine, tribal area_
 
 ### [ A 15th village in the Czech Republic rejects by referendum the US plan to place anti-ballistic missiles at a nearby military base. The vote was 97% against the plan, however, the vote is non-binding on the national government. ](/news/2007/07/30/a-15th-village-in-the-czech-republic-rejects-by-referendum-the-us-plan-to-place-anti-ballistic-missiles-at-a-nearby-military-base-the-vote.md)
-_Context: Czech, US$, ballistic missile_
+_Context: Czech Republic, US$, ballistic missile_
 
 ### [ An Afghan governor asks the Taliban to extend Monday's deadline for the lives of 22 South Koreans, after militants warned the Afghan government to release 23 of its captured fighters or else hostages will die. The Taliban later executes a hostage. ](/news/2007/07/30/an-afghan-governor-asks-the-taliban-to-extend-monday-s-deadline-for-the-lives-of-22-south-koreans-after-militants-warned-the-afghan-govern.md)
 An Afghan governor pleaded Monday with the Taliban to extend a deadline for the lives of 22 South Koreans, after militants warned the Afghan government to release some of its captured fighters or else hostages will die.

@@ -43,7 +43,7 @@ _Context: Burma, Internal conflict in Burma, Karen, Karen State, Myanmar Army, R
 _Context: Gabon, Omar Bongo Ondimba, Rose Francine Rogomb_
 
 ### [ Nine miners die and four are still missing after an accident at a coal mine in Donetsk, Ukraine. ](/news/2009/06/10/nine-miners-die-and-four-are-still-missing-after-an-accident-at-a-coal-mine-in-donetsk-ukraine.md)
-_Context: Donetsk, Ukraine_
+_Context: Donetsk, Ukrainian_
 
 ### [ Libyan leader Muammar Gaddafi arrives in Rome on his first visit to Italy, Libya's former colonial ruler and now its biggest trading partner, wearing a photograph of Omar Mukhtar. ](/news/2009/06/10/libyan-leader-muammar-gaddafi-arrives-in-rome-on-his-first-visit-to-italy-libya-s-former-colonial-ruler-and-now-its-biggest-trading-partne.md)
 _Context: Italy, Libya, Muammar Gaddafi, Omar Mukhtar, Rome_

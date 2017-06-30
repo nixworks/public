@@ -4,7 +4,7 @@
 _Context: Gaza Strip, Israel, military operation_
 
 ### [ A wind storm in Europe kills four people in Austria, two people in Germany, and two people in the Czech Republic. ](/news/2008/03/1/a-wind-storm-in-europe-kills-four-people-in-austria-two-people-in-germany-and-two-people-in-the-czech-republic.md)
-_Context: Austria, Czech, Europe, Germany, wind storm_
+_Context: Austria, Czech Republic, Europe, Germany, wind storm_
 
 ### [ The President of Armenia Robert Kocharyan declares a state of emergency following anti-government protests in Yerevan. ](/news/2008/03/1/the-president-of-armenia-robert-kocharyan-declares-a-state-of-emergency-following-anti-government-protests-in-yerevan.md)
 _Context: Armenia, Armenian President, Robert Kocharyan, Yerevan, violent protests_

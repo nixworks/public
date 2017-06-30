@@ -13,7 +13,7 @@ Musician faced numerous challenges following the Jan. 13 death of her boyfriend 
 _Context: Bolivar, Venezuela, government, granite_
 
 ### [Five people are killed and eleven are injured, two seriously, when an apartment complex is destroyed by a gas explosion in Frenstat pod Radhostem, Czech Republic. ](/news/2013/02/17/five-people-are-killed-and-eleven-are-injured-two-seriously-when-an-apartment-complex-is-destroyed-by-a-gas-explosion-in-frena-ta-t-pod-ra.md)
-_Context: Czech, Frenstat pod Radhostem, gas explosion_
+_Context: Czech Republic, Frenstat pod Radhostem, gas explosion_
 
 ### [Voters in Ecuador go to the polls for a general election with incumbent President Rafael Correa claiming a landslide victory. ](/news/2013/02/17/voters-in-ecuador-go-to-the-polls-for-a-general-election-with-incumbent-president-rafael-correa-claiming-a-landslide-victory.md)
 The vote showed the broad popularity of President Rafael Correa’s government’s social programs and support for the poor.

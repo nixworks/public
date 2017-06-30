@@ -31,7 +31,7 @@ More than 100 people have died in floods and landslides in China where dykes pro
 _Context: Prime Minister of Turkey, Tayyip Erdogan, Turkey, general elections, ruling party_
 
 ### [ 2007 FIFA U-20 World Cup Final: Argentina defeated the Czech Republic 2-1 to win its sixth World Cup title. ](/news/2007/07/22/2007-fifa-u-20-world-cup-final-argentina-defeated-the-czech-republic-2-1-to-win-its-sixth-world-cup-title.md)
-_Context: 2007 FIFA U-20 World Cup, Argentina, Czech_
+_Context: 2007 FIFA U-20 World Cup, Argentina, Czech Republic_
 
 ## [Previous Day...](/news/2007/07/21/index.md)
 

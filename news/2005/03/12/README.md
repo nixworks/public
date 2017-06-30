@@ -7,7 +7,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Chief Executive, China's State Council, Chinese People's Political Consultative Conference, Hong Kong, People's Republic of China, Tung Chee-Hwa, resignation_
 
 ### [ Ukraine begins to pull its troops out of Iraq. ](/news/2005/03/12/ukraine-begins-to-pull-its-troops-out-of-iraq.md)
-_Context: Iraq, Ukraine_
+_Context: Iraq, Ukrainian_
 
 ### [ Local council elections in Malta are to take place. Results initially appear to favour the Malta Labour Party. ](/news/2005/03/12/local-council-elections-in-malta-are-to-take-place-results-initially-appear-to-favour-the-malta-labour-party.md)
 _Context: Malta, Malta Labour Party_

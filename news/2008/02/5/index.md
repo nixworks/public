@@ -19,7 +19,7 @@ _Context: 2008 Chinese winter storms, Guizhou, Premier of the People's Republic 
 Local and state officials warned Wednesday that they would not tolerate a slow response from FEMA after tornadoes killed at least 55 people across the South, 31 of them in Tennessee.
 
 ### [ WTO approves Ukraine to become a new member. ](/news/2008/02/5/wto-approves-ukraine-to-become-a-new-member.md)
-_Context: Ukraine, WTO_
+_Context: Ukrainian, WTO_
 
 ## [Previous Day...](/news/2008/02/4/index.md)
 

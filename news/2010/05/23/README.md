@@ -49,7 +49,7 @@ Cuba has agreed to move political prisoners held in far-off jails to facilities 
 A married teacher who belongs to a breakaway Catholic faction becomes the first female priest to be ordained in Italy.
 
 ### [The Catholic Church requests the public to donate at least 1 million to church collections today to fund three big open air masses at which Pope Benedict XVI will present while in the UK. The rest of the money is paid for by the British government. ](/news/2010/05/23/the-catholic-church-requests-the-public-to-donate-at-least-ps1-million-to-church-collections-today-to-fund-three-big-open-air-masses-at-which.md)
-_Context: Catholics, Pope Benedict XVI_
+_Context: Catholic Church, Pope Benedict XVI_
 
 ### [Nine ships under the banner Freedom Flotilla, from the UK, Ireland, Algeria, Kuwait, Greece and Turkey, with of 800 people from 50 nationalities, begin a trip to Gaza, the biggest attempt by international aid groups to break Israel's blockade of the Gaza Strip. Israel informs them they will be stopped for "breaching Israeli law". ](/news/2010/05/23/nine-ships-under-the-banner-freedom-flotilla-from-the-uk-ireland-algeria-kuwait-greece-and-turkey-with-of-800-people-from-50-nationali.md)
 _Context: Freedom Flotilla, Gaza Strip, Israel_

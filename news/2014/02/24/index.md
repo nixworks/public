@@ -1,7 +1,7 @@
 ## [2014-02-24](/news/2014/02/24/index.md)
 
 ### [2014 Ukrainian Revolution:The European Commission recognizes Oleksandr Turchynov as Ukraine's legitimate interim president. ](/news/2014/02/24/2014-ukrainian-revolution-pthe-european-commission-recognizes-oleksandr-turchynov-as-ukraineas-legitimate-interim-president.md)
-_Context: 2014 Ukrainian revolution, European Commission, Oleksandr Turchynov, Ukraine_
+_Context: 2014 Ukrainian revolution, European Commission, Oleksandr Turchynov, Ukrainian_
 
 ### [War in Afghanistan:Senior Taliban commander Asmatullah Shaheen Bhittani is killed in Khyber Pakhtunkhwa. ](/news/2014/02/24/war-in-afghanistan-psenior-taliban-commander-asmatullah-shaheen-bhittani-is-killed-in-khyber-pakhtunkhwa.md)
 _Context: Khyber Pakhtunkhwa, Taliban, War in Afghanistan (2001-present)_

@@ -31,7 +31,7 @@ _Context: Toronto, imam_
 A fourth person is charged with murder after the deaths of three men who were struck by a car during riots in Birmingham.
 
 ### [Vasyl Dzharty, the Prime Minister of Crimea, an autonomous region of Ukraine, dies in office. ](/news/2011/08/17/vasyl-dzharty-the-prime-minister-of-crimea-an-autonomous-region-of-ukraine-dies-in-office.md)
-_Context: Prime Minister of Crimea, Ukraine, Vasyl Dzharty, autonomous region_
+_Context: Prime Minister of Crimea, Ukrainian, Vasyl Dzharty, autonomous region_
 
 ### [Singapore's Presidential Elections Committee approves four presidential candidates for the presidential election on August 27: Tony Tan Keng Yam, Tan Cheng Bock, Tan Kin Lian and Tan Jee Say. ](/news/2011/08/17/singapore-s-presidential-elections-committee-approves-four-presidential-candidates-for-the-presidential-election-on-august-27-tony-tan-keng.md)
 _Context: Presidential Elections Committee, Singapore, Tan Cheng Bock, Tan Jee Say, Tan Kin Lian, Tony Tan Keng Yam, presidential election_

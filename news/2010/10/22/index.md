@@ -4,7 +4,7 @@
 The biggest leak of military records in US history, released by Wikileaks, shows commanders did not investigate torture by the Iraqi authorities.
 
 ### [Three bombs explode in front of government offices in Kirovohrad, Ukraine, ahead of a visit by President Viktor Yanukovych. ](/news/2010/10/22/three-bombs-explode-in-front-of-government-offices-in-kirovohrad-ukraine-ahead-of-a-visit-by-president-viktor-yanukovych.md)
-_Context: Kirovohrad, Ukraine, Viktor Yanukovych_
+_Context: Kirovohrad, Ukrainian, Viktor Yanukovych_
 
 ### [Indonesia admits that the men seen torturing Papuan villagers in a video were soldiers of the Indonesian National Armed Forces. ](/news/2010/10/22/indonesia-admits-that-the-men-seen-torturing-papuan-villagers-in-a-video-were-soldiers-of-the-indonesian-national-armed-forces.md)
 Indonesia admits that the men seen torturing Papuan villagers in a video uploaded on the internet earlier this week are members of the military.

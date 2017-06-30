@@ -28,7 +28,7 @@ A plane carrying more than 60 passengers, including many foreigners, crash-lands
 Low-level alert issued after Copahue Volcano began spewing ash, but officials say no need yet to evacuate people.
 
 ### [Five people are killed when a Mi-8 helicopter of Ukraine's internal troops crashes in Oleksandriia, Kirovohrad Oblast, Ukraine. ](/news/2012/12/25/five-people-are-killed-when-a-mi-8-helicopter-of-ukraine-s-internal-troops-crashes-in-oleksandriia-kirovohrad-oblast-ukraine.md)
-_Context: Kirovohrad Oblast, Mi-8, Oleksandriia, Ukraine, helicopter, internal troops_
+_Context: Kirovohrad Oblast, Mi-8, Oleksandriia, Ukrainian, helicopter, internal troops_
 
 ### [Two young brothers and a woman are killed motor car accident on the northbound carriageway of the M6 motorway in Staffordshire, England. ](/news/2012/12/25/two-young-brothers-and-a-woman-are-killed-motor-car-accident-on-the-northbound-carriageway-of-the-m6-motorway-in-staffordshire-england.md)
 Two brothers aged four and 10 and a woman are killed, and two other women are seriously injured in a crash on the M6 between junctions 14 and 15 in Staffordshire.

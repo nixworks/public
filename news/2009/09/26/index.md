@@ -31,7 +31,7 @@ _Context: Colombia, Colombian armed conflict (1964-present), mass grave_
 The weather bureau is using satellite imagery to monitor another dust storm which has hit south-west Queensland this morning.
 
 ### [ Pope Benedict XVI arrives for a three day visit to the Czech Republic. ](/news/2009/09/26/pope-benedict-xvi-arrives-for-a-three-day-visit-to-the-czech-republic.md)
-_Context: Czech, Pope, Pope Benedict XVI_
+_Context: Czech Republic, Pope, Pope Benedict XVI_
 
 ### [ Twenty-two large banks in Europe may have accumulated credit losses of close to EUR400 billion for this year and next, according to officials who have seen a draft of conclusions of "stress tests" conducted by European regulators.  ](/news/2009/09/26/twenty-two-large-banks-in-europe-may-have-accumulated-credit-losses-of-close-to-a-400-billion-for-this-year-and-next-according-to-officia.md)
 Europe’s 22 biggest banks may have accumulated about 400 billion euros in credit losses for 2009 and 2010, say officials who have seen the results of “stress tests” conducted by European regulators.

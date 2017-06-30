@@ -16,7 +16,7 @@ _Context: Democratic Republic of the Congo, Lake Tanganyika, capsized ferry MV M
 _Context: Portland, Oregon_
 
 ### [Prosecutors at Sary-Arqa District Court in Astana charge 30-year-old Yevgeny Vdovenko, a Kazakh citizen, of intentional and illegal participation in a military conflict abroad because he had fought alongside pro-Russian separatists in eastern Ukraine. ](/news/2014/12/12/prosecutors-at-sary-arqa-district-court-in-astana-charge-30-year-old-yevgeny-vdovenko-a-kazakh-citizen-of-intentional-and-illegal-particip.md)
-_Context: Astana, Ukraine_
+_Context: Astana, Ukrainian_
 
 ### [A Palestinian man throws a chemical substance believed to be acid at an Israeli family that stopped to pick up a hitchhiker. No terrorist groups claim credit for the attack. ](/news/2014/12/12/a-palestinian-man-throws-a-chemical-substance-believed-to-be-acid-at-an-israeli-family-that-stopped-to-pick-up-a-hitchhiker-no-terrorist-gr.md)
 A Palestinian man threw a chemical substance believed to be acid at an Israeli family in the occupied West Bank on Friday, injuring a man and four children, Israeli police and the military said.
