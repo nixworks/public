@@ -12,6 +12,9 @@ Australia and the United States began their biggest ever joint military exercise
 ### [The United States plans to sell Taiwan $1.42 billion in arms, the first such sale under the administration of Donald Trump. ](/news/2017/06/29/the-united-states-plans-to-sell-taiwan-1-42-billion-in-arms-the-first-such-sale-under-the-administration-of-donald-trump.md)
 The United States plans to sell Taiwan $1.42 billion in arms, the first such sale under the administration of Donald Trump and a move sure to anger China, whose help the president has been seeking to rein in North Korea.
 
+### [Amid a stand off between China and India in the Indian state of Sikkim, Bhutan protests to China over the construction of a road in the disputed territory of Doklam, a meeting point for all three countries' borders. ](/news/2017/06/29/amid-a-stand-off-between-china-and-india-in-the-indian-state-of-sikkim-bhutan-protests-to-china-over-the-construction-of-a-road-in-the-disp.md)
+NEW DELHI • Bhutan has protested to China over the construction of a road in disputed territory that has already heightened tensions between Beijing and the Indian government, reports said yesterday.. Read more at straitstimes.com.
+
 ### [A man attempts to run over pedestrians outside a Mosque in Paris France.](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-paris-france.md)
 _Context: 2017 Paris Mosque Incident_
 
