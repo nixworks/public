@@ -3,8 +3,11 @@
 ### [China informs India that it must withdraw its troops for any dialogue to occur as tensions rise between China and India and Bhutan over the disputed territory of Doklam. ](/news/2017/06/30/china-informs-india-that-it-must-withdraw-its-troops-for-any-dialogue-to-occur-as-tensions-rise-between-china-and-india-and-bhutan-over-the.md)
 In the midst of face off between India and Chinese troops over road construction on the borders of a plateau in Bhutan, which China claims, Beijing said withdrawal from the Doklam plateau by the Indian troops was prerequisite for any dialogue.
 
-### [The Bundestag votes to introduce same-sex marriage in Germany.  With 393 votes in favor and 226 against, including Chancellor Angela Merkel voting against despite previous reports saying she supports same-sex marriage, the law is expected to enter into force before the end of the year. ](/news/2017/06/30/the-bundestag-votes-to-introduce-same-sex-marriage-in-germany-with-393-votes-in-favor-and-226-against-including-chancellor-angela-merkel.md)
+### [The Bundestag votes to introduce same-sex marriage in Germany.  With 393 votes in favor and 226 against, the law is expected to enter into force before the end of the year. ](/news/2017/06/30/the-bundestag-votes-to-introduce-same-sex-marriage-in-germany-with-393-votes-in-favor-and-226-against-the-law-is-expected-to-enter-into-f.md)
 MPs pass bill granting gay and lesbian couples full rights, including on adoption
+
+### [2017 Bronx Lebanon Hospital attacks](/news/2017/06/30/2017-bronx-lebanon-hospital-attacks.md)
+_Context: 2017 Bronx Lebanon Hospital attacks_
 
 ### [France's National Front leader Marine Le Pen is under investigation for alleged misuse of European Union funding. ](/news/2017/06/30/france-s-national-front-leader-marine-le-pen-is-under-investigation-for-alleged-misuse-of-european-union-funding.md)
 Magistrates in France have placed Marine Le Pen under formal investigation. This comes after preliminary inquiries into allegations that European
