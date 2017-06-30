@@ -1,13 +1,13 @@
 ## [News](/news/2017/06/30/index.md)
 
+### [The Bundestag votes to introduce same-sex marriage in Germany.  With 393 votes in favor and 226 against, including Angela Merkel, the law is expected to enter into force before the end of the year. ](/news/2017/06/30/the-bundestag-votes-to-introduce-same-sex-marriage-in-germany-with-393-votes-in-favor-and-226-against-including-angela-merkel-the-law-is.md)
+MPs pass bill granting gay and lesbian couples full rights, including on adoption
+
 ### [China informs India that it must withdraw its troops for any dialogue to occur as tensions rise between China and India and Bhutan over the disputed territory of Doklam. ](/news/2017/06/30/china-informs-india-that-it-must-withdraw-its-troops-for-any-dialogue-to-occur-as-tensions-rise-between-china-and-india-and-bhutan-over-the.md)
 In the midst of face off between India and Chinese troops over road construction on the borders of a plateau in Bhutan, which China claims, Beijing said withdrawal from the Doklam plateau by the Indian troops was prerequisite for any dialogue.
 
 ### [A study funded by Bayer and Syngenta confirms that neonicotinoids kill queen and worker bees. ](/news/2017/06/30/a-study-funded-by-bayer-and-syngenta-confirms-that-neonicotinoids-kill-queen-and-worker-bees.md)
 A huge new study conducted in 33 sites across Europe finds that seeds coated with neonicotinoid pesticides harm bees living nearby. The damage, though, depends on local conditions.
-
-### [The Bundestag votes to introduce same-sex marriage in Germany, with 393 votes in favor and 226 against. The law is expected to enter into force before the end of the year. ](/news/2017/06/30/the-bundestag-votes-to-introduce-same-sex-marriage-in-germany-with-393-votes-in-favor-and-226-against-the-law-is-expected-to-enter-into-fo.md)
-MPs pass bill granting gay and lesbian couples full rights, including on adoption
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -17,7 +17,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/06/29/index.md)
 
-### [Protests mark the 20th anniversary of the transfer of Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/protests-mark-the-20th-anniversary-of-the-transfer-of-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of-chinese-president.md)
+### [Anniversary of the Protests mark the 20th anniversary of the transfer of Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/anniversary-of-the-protests-mark-the-20th-anniversary-of-the-transfer-of-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of.md)
 Hongkongers have expressed surprise at the appearance of China-style decorations across the city, rolled out in anticipation of Chinese President Xi Jinping&#8217;s visit on Thursday. Two banners painted in red with the Chinese text &#8220;Welcome President Xi Jinping to inspect Hong Kong&#8221; have been spotted hanging above the toll stations outside the Western Harbour &hellip;
 
 ### [At least twelve people die and two others are injured after a cable car falls nearly 500 feet into a ditch in Charra Pani, Galyat, Pakistan. ](/news/2017/06/29/at-least-twelve-people-die-and-two-others-are-injured-after-a-cable-car-falls-nearly-500-feet-into-a-ditch-in-charra-pani-galyat-pakistan.md)
@@ -32,14 +32,14 @@ The United States plans to sell Taiwan $1.42 billion in arms, the first such sal
 ### [Amid a stand off between China and India in the Indian state of Sikkim, Bhutan protests to China over the construction of a road in the disputed territory of Doklam, a meeting point for all three countries' borders. ](/news/2017/06/29/amid-a-stand-off-between-china-and-india-in-the-indian-state-of-sikkim-bhutan-protests-to-china-over-the-construction-of-a-road-in-the-disp.md)
 NEW DELHI • Bhutan has protested to China over the construction of a road in disputed territory that has already heightened tensions between Beijing and the Indian government, reports said yesterday.. Read more at straitstimes.com.
 
-### [A man attempts to run over pedestrians outside a Mosque in Paris France.](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-paris-france.md)
-_Context: 2017 Paris Mosque Incident_
+### [A man attempts to run over pedestrians outside a mosque in Paris, France. ([http://www.bbc.co.uk/news/world-europe-40452264 BBC])](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-paris-france-http-www-bbc-co-uk-news-world-europe-40452264-bbc.md)
+_Context: 2017 Paris Mosque Incident, France, Paris_
 
 ### [German same-sex couples may be able to marry after Chancellor Angela Merkel drops her opposition for a parliamentary vote. ](/news/2017/06/29/german-same-sex-couples-may-be-able-to-marry-after-chancellor-angela-merkel-drops-her-opposition-for-a-parliamentary-vote.md)
 _Context: Angela Merkel, German, Recognition of same-sex unions in Germany, same-sex marriage_
 
 ### [A car knocks down the security fences of the Pink House, the Presidential Palace of Argentina, and then stops in front of the building's gate. Authorities reported that the driver of the vehicle had psychiatric disorders and that, in addition, the security personnel present at the time of the incident was separated from his position. It was also learned that this fact took place on 21 June. ](/news/2017/06/29/a-car-knocks-down-the-security-fences-of-the-pink-house-the-presidential-palace-of-argentina-and-then-stops-in-front-of-the-building-s-gat.md)
-_Context: Argentina, Pink House_
+_Context: Argentina, Crime in Argentina, Pink House_
 
 ### [Victoria Police charge Cardinal George Pell, the Prefect of the Secretariat for the Economy, and the third most senior official of the Catholic Church, with historic child sex offences. Pell will be required to attend hearings at the Melbourne Magistrates Court in Australia on July 19. ](/news/2017/06/29/victoria-police-charge-cardinal-george-pell-the-prefect-of-the-secretariat-for-the-economy-and-the-third-most-senior-official-of-the-catho.md)
 Australia&#039;s most senior Catholic cleric, Cardinal George Pell, is charged with historical sexual assault offences.
