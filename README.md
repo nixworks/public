@@ -29,8 +29,8 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/06/29/index.md)
 
-### [A man attempts to run over pedestrians outside a mosque in Paris, France. ([http://www.bbc.co.uk/news/world-europe-40452264 BBC])](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-paris-france-http-www-bbc-co-uk-news-world-europe-40452264-bbc.md)
-_Context: 2017 Creteil Mosque Incident_
+### [A man attempts to run over pedestrians outside a mosque in Creteil, France. ](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-cra-c-teil-france.md)
+Barriers protected the building in the Créteil suburb and the suspect was arrested.
 
 ### [Iraq Prime Minister Haider al-Abadi declares the end of the Islamic State's self-declared caliphate following the capture of the Great Mosque of al-Nuri in Mosul. ](/news/2017/06/29/iraq-prime-minister-haider-al-abadi-declares-the-end-of-the-islamic-state-s-self-declared-caliphate-following-the-capture-of-the-great-mosqu.md)
 With the capture of a destroyed mosque in the heart of the ISIS’ Iraqi capital of Mosul, the nation&#x27;s government declared victory over ISIS militants in Iraq.
