@@ -3,11 +3,8 @@
 ### [World leaders such as Bill Clinton, Emmanuel Macron, Theresa May, Dmitry Medvedev and Angela Merkel attend the memorial service for the former West German leader Helmut Kohl. ](/news/2017/07/1/world-leaders-such-as-bill-clinton-emmanuel-macron-theresa-may-dmitry-medvedev-and-angela-merkel-attend-the-memorial-service-for-the-form.md)
 Current and former world leaders gathered Saturday to bid farewell to former German Chancellor Helmut Kohl, recalling him as a man who was instrumental in uniting Europe and bringing about reconciliation between former adversaries on the continent.
 
-### [Amid a budget crisis, Governor Chris Christie shuts down the state government of New Jersey. ](/news/2017/07/1/amid-a-budget-crisis-governor-chris-christie-shuts-down-the-state-government-of-new-jersey.md)
-_Context: Chris Christie, New Jersey_
-
 ### [Philippines president Rodrigo Duterte threatens the ''Philippine Daily Inquirer'' with an expose. ](/news/2017/07/1/philippines-president-rodrigo-duterte-threatens-the-philippine-daily-inquirer-with-an-exposa-c.md)
-_Context: Freedom of speech in the Philippines, Philippine Daily Inquirer, Philippines, Rodrigo Duterte_
+_Context: Freedom of speech in the Philippines, Philippine Daily Inquirer, Philippines, Rodrigo Duterte, expose_
 
 ### [India replaces its federal and state taxes with the Goods and Services Tax (GST), the most extensive tax reform since its independence. ](/news/2017/07/1/india-replaces-its-federal-and-state-taxes-with-the-goods-and-services-tax-gst-the-most-extensive-tax-reform-since-its-independence.md)
 The overhaul existing laws was carried out at a special midnight session of parliament.
@@ -28,7 +25,10 @@ _Context: Canada, Canada Day, Canadian Confederation, sesquicentennial_
 Hong Kong police clashed with protesters on Saturday as Carrie Lam was sworn in as the city&#39;s new leader on the 20th anniversary of its handover from British to Chinese rule.
 
 ### [Numerous U.S. states, including California and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-and-new-york-reject-requests-for-voter-registration-data-from-president-donald-trump-s-voter-fra.md)
-_Context: California, Donald Trump, New York, President, U.S. state, voter fraud_
+_Context: California, Donald Trump, New York, Presidency of Donald Trump, President, U.S. state, voter fraud_
+
+### [Amid a budget crisis, Governor Chris Christie shuts down the state government of New Jersey. ](/news/2017/07/1/amid-a-budget-crisis-governor-chris-christie-shuts-down-the-state-government-of-new-jersey.md)
+_Context: Chris Christie, New Jersey, Politics of New Jersey, budget crisis_
 
 ### [Pope Francis ousts conservative cardinal Gerhard Ludwig Muller. ](/news/2017/07/1/pope-francis-ousts-conservative-cardinal-gerhard-ludwig-ma1-4ller.md)
 Francis declined to renew Cardinal Gerhard Ludwig Müller’s mandate to lead the Congregation for the Doctrine of the Faith.
