@@ -1,6 +1,6 @@
 ### [2017-06-30](/news/2017/06/30/index.md)
 
-# The Bundestag votes to introduce same-sex marriage in Germany.  With 393 votes in favor and 226 against, including Chancellor Angela Merkel voting against despite previous reports saying she supports same-sex marriage, the law is expected to enter into force before the end of the year. 
+# The Bundestag votes to introduce same-sex marriage in Germany.  With 393 votes in favor and 226 against, including Chancellor Angela Merkel, the law is expected to enter into force before the end of the year. 
 
 MPs pass bill granting gay and lesbian couples full rights, including on adoption
 
