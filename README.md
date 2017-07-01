@@ -1,13 +1,13 @@
 ## [News](/news/2017/07/1/index.md)
 
-### [Canada celebrates the sesquicentennial anniversary of Canadian Confederation. ](/news/2017/07/1/canada-celebrates-the-sesquicentennial-anniversary-of-canadian-confederation.md)
-_Context: Canadian Confederation_
+### [India replaces its federal and state taxes with the Goods and Services Tax (GST), the most extensive tax reform since its independence. ](/news/2017/07/1/india-replaces-its-federal-and-state-taxes-with-the-goods-and-services-tax-gst-the-most-extensive-tax-reform-since-its-independence.md)
+The overhaul existing laws was carried out at a special midnight session of parliament.
 
 ### [Amid growing tensions between China and India and Bhutan, China releases a map detailing a pieces of land claimed by Bhutan and India as belonging to China. China claims, via the map, that territory up until Gipmochi belongs to China and claims it's supported by the 1890 Britain-China treaty. ](/news/2017/07/1/amid-growing-tensions-between-china-and-india-and-bhutan-china-releases-a-map-detailing-a-pieces-of-land-claimed-by-bhutan-and-india-as-bel.md)
 _Context: Bhutan, Bhutan-China relations, China, China-India relations, Gipmochi, India, pieces of land claimed by Bhutan and India_
 
-### [India replaces its federal and state taxes with the Goods and Services Tax (GST), the most extensive tax reform since its independence. ](/news/2017/07/1/india-replaces-its-federal-and-state-taxes-with-the-goods-and-services-tax-gst-the-most-extensive-tax-reform-since-its-independence.md)
-The overhaul existing laws was carried out at a special midnight session of parliament.
+### [Canada celebrates the sesquicentennial anniversary of Canadian Confederation. ](/news/2017/07/1/canada-celebrates-the-sesquicentennial-anniversary-of-canadian-confederation.md)
+_Context: Canadian Confederation, Politics of Canada, sesquicentennial_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -35,7 +35,7 @@ Magistrates in France have placed Marine Le Pen under formal investigation. This
 ### [A study funded by Bayer and Syngenta confirms that neonicotinoid insecticides kill queen and worker bees. ](/news/2017/06/30/a-study-funded-by-bayer-and-syngenta-confirms-that-neonicotinoid-insecticides-kill-queen-and-worker-bees.md)
 A huge new study conducted in 33 sites across Europe finds that seeds coated with neonicotinoid pesticides harm bees living nearby. The damage, though, depends on local conditions.
 
-### [Anthropogenic Climate ChangeA temperature of 53.7degC (128.7degF) is recorded during the 2017 heat wave in Ahvaz, Khuzestan Province, breaking Iran's previous record and becoming one of the highest temperatures ever recorded on Earth. ](/news/2017/06/30/anthropogenic-climate-changepa-temperature-of-53-7adegc-128-7adegf-is-recorded-during-the-2017-heat-wave-in-ahvaz-khuzestan-province-breakin.md)
+### [A temperature of 53.7degC (128.7degF) is recorded during the 2017 heat wave in Ahvaz, Khuzestan Province, breaking Iran's previous record and becoming one of the highest temperatures ever recorded on Earth. ](/news/2017/06/30/a-temperature-of-53-7adegc-128-7adegf-is-recorded-during-the-2017-heat-wave-in-ahvaz-khuzestan-province-breaking-iran-s-previous-record-and.md)
 Ahvaz hits hottest temperature ever recorded in Iran, and possibly the world.
 
 ---
