@@ -1,17 +1,17 @@
-### [2017-06-30](/news/2017/06/30/index.md)
+### [2017-07-1](/news/2017/07/1/index.md)
 
-# China informs India that it must withdraw its troops for any dialogue to occur as tensions rise between China and India and Bhutan over the disputed territory of Doklam. 
+# Amid growing tensions between China and India and Bhutan, China releases a map detailing a piece of land claimed by Bhutan as belonging to China. China claims, via the map, that territory up until Gipmochi belongs to China and claims it's supported by the 1890 Britain-China treaty. 
 
-In the midst of face off between India and Chinese troops over road construction on the borders of a plateau in Bhutan, which China claims, Beijing said withdrawal from the Doklam plateau by the Indian troops was prerequisite for any dialogue.
+
 
 
 ### Source:
 
-1. [Financial Express](http://www.financialexpress.com/india-news/china-asks-india-to-back-down-learn-from-historical-lessons/742139/)
+1. [India Today](http://indiatoday.intoday.in/story/china-releases-new-map-territorial-claims-stand-off-site/1/991733.html)
 
 ### Related:
 
-1. [Amid growing tensions between China and India and Bhutan, China releases a map detailing a piece of land claimed by Bhutan as belonging to China. China claims, via the map, that territory up until Gipmochi belongs to China and claims it's supported by the 1890 Britain-China treaty. ](/news/2017/07/1/amid-growing-tensions-between-china-and-india-and-bhutan-china-releases-a-map-detailing-a-piece-of-land-claimed-by-bhutan-as-belonging-to-c.md) _Context: Bhutan, Bhutan-China relations, China, China-India relations, India, piece of land claimed by Bhutan_
+1. [China informs India that it must withdraw its troops for any dialogue to occur as tensions rise between China and India and Bhutan over the disputed territory of Doklam. ](/news/2017/06/30/china-informs-india-that-it-must-withdraw-its-troops-for-any-dialogue-to-occur-as-tensions-rise-between-china-and-india-and-bhutan-over-the.md) _Context: Bhutan, Bhutan-China relations, China, China-India relations, India, piece of land claimed by Bhutan_
 2. [Amid a stand-off between China and India in the Indian state of Sikkim, Bhutan protests to China over the construction of a road in the disputed territory of Doklam, a meeting point for all three countries' borders. ](/news/2017/06/29/amid-a-stand-off-between-china-and-india-in-the-indian-state-of-sikkim-bhutan-protests-to-china-over-the-construction-of-a-road-in-the-disp.md) _Context: Bhutan, Bhutan-China relations, China, China-India relations, India_
 3. [China and India sign a new border defence agreement aimed at improving bilateral relations. ](/news/2013/10/23/china-and-india-sign-a-new-border-defence-agreement-aimed-at-improving-bilateral-relations.md) _Context: China, China-India relations, India_
 4. [In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military-exercises-focusing-on-co.md) _Context: China, India_
