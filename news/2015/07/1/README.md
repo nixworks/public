@@ -34,7 +34,7 @@ The Justice Department investigates if US airlines are colluding to keep ticket 
 _Context: Embarcadero, Kathryn Steinle, Mexican, San Francisco, California_
 
 ### [Thousands of people are expected at a pro-democracy demonstration in Hong Kong on a holiday to mark the transfer from British to Chinese rule. ](/news/2015/07/1/thousands-of-people-are-expected-at-a-pro-democracy-demonstration-in-hong-kong-on-a-holiday-to-mark-the-transfer-from-british-to-chinese-rul.md)
-_Context: Hong Kong, transfer from British to Chinese rule_
+_Context: Hong Kong, transfer of sovereignty_
 
 ### [The President of Burundi Pierre Nkurunziza claims victory for his National Council for the Defense of Democracy - Forces for the Defense of Democracy coalition despite the fact that opposition parties did not contest the election. ](/news/2015/07/1/the-president-of-burundi-pierre-nkurunziza-claims-victory-for-his-national-council-for-the-defense-of-democracy-a-forces-for-the-defense-o.md)
 Pierre Nkurunziza claims an early victory for his ruling CNDD-FDD party, despite the opposition of domestic civic groups, AU and the UN.

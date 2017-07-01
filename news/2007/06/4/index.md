@@ -1,7 +1,7 @@
 ## [2007-06-4](/news/2007/06/4/index.md)
 
 ### [ The United Nations Environment Programme estimates that 40% of the world population will be affected by the loss of glaciers and snow on the mountains of Asia due to global warming. ](/news/2007/06/4/the-united-nations-environment-programme-estimates-that-40-of-the-world-population-will-be-affected-by-the-loss-of-glaciers-and-snow-on-th.md)
-_Context: Asia, Environment Programme, glaciers, global warming's, mountains, snow, world's population_
+_Context: Asia, Environment Programme, Global warming, glaciers, mountains, snow, world's population_
 
 ### [ A massive mudflow destroys Eurasia's unique Geyser Valley. ](/news/2007/06/4/a-massive-mudflow-destroys-eurasia-s-unique-geyser-valley.md)
 _Context: Eurasia, Geyser Valley_

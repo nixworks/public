@@ -36,5 +36,8 @@ _Context: Crisis Management Initiative, Finland, GAM, Helsinki, Indonesia, cease
 ### [ A 6.2 Richter scale earthquake in Palu, Central Sulawesi, Indonesia, results in one reported death. ](/news/2005/01/24/a-6-2-richter-scale-earthquake-in-palu-central-sulawesi-indonesia-results-in-one-reported-death.md)
 _Context: Central Sulawesi, Indonesia, Palu, earthquake, magnitude_
 
+### [ Analord 1 and 2 is released by English electronic musician Richard D. James under the alias AFX. ](/news/2005/01/24/analord-1-and-2-is-released-by-english-electronic-musician-richard-d-james-under-the-alias-afx.md)
+_Context: AFX, Analord, Richard D. James_
+
 ## [Previous Day...](/news/2005/01/23/index.md)
 

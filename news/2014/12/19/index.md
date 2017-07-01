@@ -34,7 +34,7 @@ _Context: Chief Secretary, Hong Kong, Rafael Hui, Sun Hung Kai Properties, misco
 In a landmark case for gay rights in China, a court has ruled in favor of a man suing a clinic that peddled a gruesome ‘gay-conversion’ therapy.
 
 ### [A South Korean court orders the dissolution of the Unified Progressive Party citing pro-North Korean stances. ](/news/2014/12/19/a-south-korean-court-orders-the-dissolution-of-the-unified-progressive-party-citing-pro-north-korean-stances.md)
-_Context: North Korea, South Korean, Unified Progressive Party_
+_Context: North Korea, South Korea, Unified Progressive Party_
 
 ### [Governor of Vermont Peter Shumlin abandons plans for the first single-payer health care system in the United States, citing transparency problems and heavy tax increases. ](/news/2014/12/19/governor-of-vermont-peter-shumlin-abandons-plans-for-the-first-single-payer-health-care-system-in-the-united-states-citing-transparency-pro.md)
 Tax hikes to state businesses and individual would have been necessary to pay for the single-payer program.

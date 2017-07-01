@@ -28,7 +28,7 @@ _Context: French Polynesia, Gaston Flosse, Oscar Temaru, Paris, independent_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ South Korean foreign minister Ban Ki-moon states his country's desire to intensify diplomatic efforts with North Korea.  ](/news/2005/02/14/south-korean-foreign-minister-ban-ki-moon-states-his-country-s-desire-to-intensify-diplomatic-efforts-with-north-korea.md)
-_Context: Ban Ki-moon, North Korea, South Korean, diplomatic_
+_Context: Ban Ki-moon, North Korea, South Korea, diplomatic_
 
 ## [Previous Day...](/news/2005/02/13/index.md)
 

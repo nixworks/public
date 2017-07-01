@@ -1,7 +1,7 @@
 ## [2007-08-27](/news/2007/08/27/index.md)
 
 ### [ Taliban rebels release 5 more South Koreans they are keeping hostage since July. ](/news/2007/08/27/taliban-rebels-release-5-more-south-koreans-they-are-keeping-hostage-since-july.md)
-_Context: South Korean, Taliban_
+_Context: South Korea, Taliban_
 
 ### [ Michael Vick, former National Football League star, arrived in US Federal Circuit Court in Richmond, Virginia and pleads guilty to federal dogfighting charges and then issues a public apology at the Omni Richmond Hotel. Sentencing by U.S. District Judge Henry E. Hudson will be in December 2007. ](/news/2007/08/27/michael-vick-former-national-football-league-star-arrived-in-us-federal-circuit-court-in-richmond-virginia-and-pleads-guilty-to-federal.md)
 U.S. football star Michael Vick publicly apologized on Monday after pleading guilty in a dogfighting case that will almost certainly land him in jail and prompted his suspension from the sport.

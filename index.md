@@ -1,6 +1,6 @@
 ## [News](/news/2017/07/1/index.md)
 
-### [India has replaced its federal and state taxes with the Goods and Services Tax (GST), the biggest tax reform since independence. ](/news/2017/07/1/india-has-replaced-its-federal-and-state-taxes-with-the-goods-and-services-tax-gst-the-biggest-tax-reform-since-independence.md)
+### [India replaces its federal and state taxes with the Goods and Services Tax (GST), the most extensive tax reform since its independence. ](/news/2017/07/1/india-replaces-its-federal-and-state-taxes-with-the-goods-and-services-tax-gst-the-most-extensive-tax-reform-since-its-independence.md)
 The overhaul existing laws was carried out at a special midnight session of parliament.
 
 ## Opinion
@@ -20,7 +20,7 @@ In the midst of face off between India and Chinese troops over road construction
 ### [The Bundestag votes to introduce same-sex marriage in Germany.  With 393 votes in favor and 226 against, including Chancellor Angela Merkel voting against despite previous reports saying she supports same-sex marriage, the law is expected to enter into force before the end of the year. ](/news/2017/06/30/the-bundestag-votes-to-introduce-same-sex-marriage-in-germany-with-393-votes-in-favor-and-226-against-including-chancellor-angela-merkel.md)
 MPs pass bill granting gay and lesbian couples full rights, including on adoption
 
-### [A man, using a M16-type rifle shoots and kills one person, and wounds five others at Bronx-Lebanon Hospital Center in New York City. The shooter, reportedly a doctor formerly employed at the hospital, is also dead. ](/news/2017/06/30/a-man-using-a-m16-type-rifle-shoots-and-kills-one-person-and-wounds-five-others-at-bronx-lebanon-hospital-center-in-new-york-city-the-sho.md)
+### [A doctor thought to be formerly employed with the Bronx-Lebanon Hospital Center kills one and wounds five others at the facility in New York City. ](/news/2017/06/30/a-doctor-thought-to-be-formerly-employed-with-the-bronx-lebanon-hospital-center-kills-one-and-wounds-five-others-at-the-facility-in-new-york.md)
 A doctor shot six people inside a New York City hospital, one of them fatally, before turning the gun on himself in what appears to be a case of workplace violence Friday afternoon, officials say. 
 
 ### [France's National Front leader Marine Le Pen is under investigation for alleged misuse of European Union funding. ](/news/2017/06/30/france-s-national-front-leader-marine-le-pen-is-under-investigation-for-alleged-misuse-of-european-union-funding.md)

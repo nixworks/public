@@ -22,7 +22,7 @@ _Context: Kosovo, Serbia, unilateral declaration of independence_
 _Context: Aung San Suu Kyi, Barack Obama, Burma, State Peace and Development Council, United States, United States President_
 
 ### [ APEC leaders say a deal on global warming will not be possible before next month's United Nations summit in Denmark. ](/news/2009/11/15/apec-leaders-say-a-deal-on-global-warming-will-not-be-possible-before-next-month-s-united-nations-summit-in-denmark.md)
-_Context: APEC, Denmark, United Nations, global warming's_
+_Context: APEC, Denmark, Global warming, United Nations_
 
 ### [ Colombia announces it will release four detained members of the Venezuelan National Guard who were arrested on Colombian territory. ](/news/2009/11/15/colombia-announces-it-will-release-four-detained-members-of-the-venezuelan-national-guard-who-were-arrested-on-colombian-territory.md)
 _Context: Colombia, National Guard, Venezuela_

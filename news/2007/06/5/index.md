@@ -1,7 +1,7 @@
 ## [2007-06-5](/news/2007/06/5/index.md)
 
 ### [ The British Antarctic Survey announces that the flow rate of 300 previously unmeasured glaciers increased by 12% between 1993 and 2003, adding to concerns over glacier retreat and the rise in sea levels caused by global warming. ](/news/2007/06/5/the-british-antarctic-survey-announces-that-the-flow-rate-of-300-previously-unmeasured-glaciers-increased-by-12-between-1993-and-2003-add.md)
-_Context: British Antarctic Survey, Retreat of glaciers since 1850, glaciers, global warming's, rising sea levels_
+_Context: British Antarctic Survey, Global warming, Retreat of glaciers since 1850, glaciers, rising sea levels_
 
 ### [ A Guyanese suspect who allegedly planned an attack on New York City's JFK Airport surrenders in Port of Spain, Trinidad and Tobago. ](/news/2007/06/5/a-guyanese-suspect-who-allegedly-planned-an-attack-on-new-york-city-s-jfk-airport-surrenders-in-port-of-spain-trinidad-and-tobago.md)
 _Context: Guyana, JFK airport, New York City, Port-of-Spain, Trinidad and Tobago, allegedly planned an attack_

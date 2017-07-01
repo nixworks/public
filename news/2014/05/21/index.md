@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 Suspected Boko Haram fighters are accused of killing at least 27 people in two northern Nigeria villages, a day after deadly bombings in the city of Jos.
 
 ### [The Republic of Korea Navy fires warning shots at 3 Korean People's Navy patrol boats after they violated South Korean waters. ](/news/2014/05/21/the-republic-of-korea-navy-fires-warning-shots-at-3-korean-people-s-navy-patrol-boats-after-they-violated-south-korean-waters.md)
-_Context: South Korean, South Korean Navy, navy_
+_Context: South Korea, South Korean Navy, navy_
 
 ### [Israeli-Palestinian conflict:Defence for Children International publishes a video showing two Palestinians allegedly killed by Israeli soldiers during a demonstration that became violent.](/news/2014/05/21/israeli-palestinian-conflict-pdefence-for-children-international-publishes-a-video-showing-two-palestinians-allegedly-killed-by-israeli-sold.md)
 B&#x27;Tselem contradicts Israeli military claims that CCTV footage showing deaths is either forged or was edited misleadingly

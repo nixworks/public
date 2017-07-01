@@ -40,7 +40,7 @@ _Context: Brazil, Rio de Janeiro, buried in their homes by a large landslide_
 A 14-hour operation to separate conjoined twins, Hassan and Hussein Benhaffaf from Cork, has been completed at Great Ormond Street Hospital in London.
 
 ### [Scientists say Glacier National Park has lost two more of its glaciers to global warming. ](/news/2010/04/8/scientists-say-glacier-national-park-has-lost-two-more-of-its-glaciers-to-global-warming.md)
-_Context: Glacier National Park, global warming's_
+_Context: Glacier National Park, Global warming_
 
 ### [Sex Pistols manager Malcolm McLaren, notorious for the banned "God Save the Queen" single, dies in New York. ](/news/2010/04/8/sex-pistols-manager-malcolm-mclaren-notorious-for-the-banned-god-save-the-queen-single-dies-in-new-york.md)
 Malcolm McLaren, the former manager of the Sex Pistols and impresario, has died from cancer, aged 64.

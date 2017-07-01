@@ -19,7 +19,7 @@ United Nations Secretary-General Ban Ki-Moon Sunday called on Syria’s Presiden
 _Context: Alaska, Nome, US Coast Guard, icebreaker_
 
 ### [A fuel freighter, the ''Doola No. 3'', explodes near the South Korean port city of Incheon, killing at least three crew members. ](/news/2012/01/15/a-fuel-freighter-the-doola-no-3-explodes-near-the-south-korean-port-city-of-incheon-killing-at-least-three-crew-members.md)
-_Context: Incheon, South Korean_
+_Context: Incheon, South Korea_
 
 ### [Three trapped survivors are rescued from the capsized cruise ship ''Costa Concordia'', over 24 hours after it ran aground off the coast of Italy. Two corpses are also found, bringing the known death toll of the incident to five. ](/news/2012/01/15/three-trapped-survivors-are-rescued-from-the-capsized-cruise-ship-costa-concordia-over-24-hours-after-it-ran-aground-off-the-coast-of-i.md)
 Three survivors are found on the Italian cruise ship Costa Concordia more than 24 hours after it ran aground, as searches for those missing continue.

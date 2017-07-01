@@ -13,7 +13,7 @@ _Context: Alexei Miller, Gazprom, Naftogaz Ukrainy, Russia, Ukrainian, Ukrainian
 _Context: Venezuela, state of emergency_
 
 ### [At the 2010 United Nations Climate Change Conference, Google unveils an initiative using Google Earth allowing users to view the effects of deforestation, impacts and videos on global warming and climate change. ](/news/2010/12/1/at-the-2010-united-nations-climate-change-conference-google-unveils-an-initiative-using-google-earth-allowing-users-to-view-the-effects-of.md)
-_Context: Google, Google Earth, U.N. climate change talks, climate change, deforestation, effects of global warming, global warming's_
+_Context: Global warming, Google, Google Earth, U.N. climate change talks, climate change, deforestation, effects of global warming_
 
 ### [Kazakhstan hosts its first OSCE summit in a decade. ](/news/2010/12/1/kazakhstan-hosts-its-first-osce-summit-in-a-decade.md)
 _Context: Kazakhstan, OSCE_

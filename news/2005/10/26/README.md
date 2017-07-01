@@ -25,7 +25,7 @@ _Context: Avian flu virus, Community Reference Laboratory for Avian Influenza, C
 _Context: Abu Musab al-Zarqawi, Dsseldorf, Germany, Palestinian_
 
 ### [ The British Government, after several days of debating, confirms its plans to ban smoking in public places in England with the exemption of pubs and clubs not serving food. ](/news/2005/10/26/the-british-government-after-several-days-of-debating-confirms-its-plans-to-ban-smoking-in-public-places-in-england-with-the-exemption-of.md)
-_Context: Government of the United Kingdom, smoking ban_
+_Context: Politics of the United Kingdom, smoking ban_
 
 ### [ A Wal-Mart internal memorandum determines that benefits costs are unsustainable, driven by an aging work force.  A recommendation is to shift to more part time associates to lower health care enrollment. ](/news/2005/10/26/a-wal-mart-internal-memorandum-determines-that-benefits-costs-are-unsustainable-driven-by-an-aging-work-force-a-recommendation-is-to-shi.md)
 _Context: Wal-Mart, health care_
