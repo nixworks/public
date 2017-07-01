@@ -1,16 +1,16 @@
 ## [News](/news/2017/07/1/index.md)
 
-### [Canada celebrates the sesquicentennial anniversary of Canadian Confederation. ](/news/2017/07/1/canada-celebrates-the-sesquicentennial-anniversary-of-canadian-confederation.md)
-_Context: Canadian Confederation, Politics of Canada, sesquicentennial_
-
 ### [India replaces its federal and state taxes with the Goods and Services Tax (GST), the most extensive tax reform since its independence. ](/news/2017/07/1/india-replaces-its-federal-and-state-taxes-with-the-goods-and-services-tax-gst-the-most-extensive-tax-reform-since-its-independence.md)
 The overhaul existing laws was carried out at a special midnight session of parliament.
 
 ### [Amid growing tensions between China and India and Bhutan, China releases a map detailing a pieces of land claimed by Bhutan and India as belonging to China. China claims, via the map, that territory up until Gipmochi belongs to China and claims it's supported by the 1890 Britain-China treaty. ](/news/2017/07/1/amid-growing-tensions-between-china-and-india-and-bhutan-china-releases-a-map-detailing-a-pieces-of-land-claimed-by-bhutan-and-india-as-bel.md)
 _Context: Bhutan, Bhutan-China relations, China, China-India relations, Gipmochi, India, pieces of land claimed by Bhutan and India_
 
-### [Arguments that lead to an exchange of gunfire at a concert at the Power Ultra Lounge in Little Rock, Arkansas, result in at least 17 people injured, one hospitalized in stable condition. Police says others were hurt as they tried to flee the  second floor club. ](/news/2017/07/1/arguments-that-lead-to-an-exchange-of-gunfire-at-a-concert-at-the-power-ultra-lounge-in-little-rock-arkansas-result-in-at-least-17-people.md)
+### [Arguments that lead to an exchange of gunfire at a concert at the Power Ultra Lounge in Little Rock, Arkansas, result in at least 28 people injured, one hospitalized in stable condition. Police says others were hurt as they tried to flee the  second floor club. ](/news/2017/07/1/arguments-that-lead-to-an-exchange-of-gunfire-at-a-concert-at-the-power-ultra-lounge-in-little-rock-arkansas-result-in-at-least-28-people.md)
 The 17 victims are all believed to have been injured by the gunfire while others were hurt as they tried to flee the club. 
+
+### [Canada celebrates the sesquicentennial anniversary of Canadian Confederation. ](/news/2017/07/1/canada-celebrates-the-sesquicentennial-anniversary-of-canadian-confederation.md)
+_Context: Canadian Confederation, Politics of Canada, sesquicentennial_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
