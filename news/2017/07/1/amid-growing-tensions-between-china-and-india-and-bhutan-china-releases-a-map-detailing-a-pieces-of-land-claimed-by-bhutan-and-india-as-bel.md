@@ -1,6 +1,6 @@
 ### [2017-07-1](/news/2017/07/1/index.md)
 
-# Amid growing tensions between China and India and Bhutan, China releases a map detailing a pieces of land claimed by Bhutan and India as belonging to China. China claims, via the map, that territory up until Gipmochi belongs to China and claims it's supported by the [1890 Britain-China treaty. 
+# Amid growing tensions between China and India and Bhutan, China releases a map detailing a pieces of land claimed by Bhutan and India as belonging to China. China claims, via the map, that territory up until Gipmochi belongs to China and claims it's supported by the 1890 Convention of Calcutta. 
 
 
 

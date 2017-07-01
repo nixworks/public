@@ -8,7 +8,7 @@ Current and former world leaders gathered Saturday to bid farewell to former Ger
 ### Source:
 
 1. [Fox News](http://www.foxnews.com/world/2017/07/01/world-leaders-bid-farewell-to-late-german-chancellor-kohl.html)
-2. [The Indelendent](http://www.independent.co.uk/news/world/europe/helmut-kohl-dead-memorial-funeral-tributes-bill-clinton-russia-cold-war-german-reunification-merkel-a7818446.html)
+2. [The Independent](http://www.independent.co.uk/news/world/europe/helmut-kohl-dead-memorial-funeral-tributes-bill-clinton-russia-cold-war-german-reunification-merkel-a7818446.html)
 
 ### Related:
 
