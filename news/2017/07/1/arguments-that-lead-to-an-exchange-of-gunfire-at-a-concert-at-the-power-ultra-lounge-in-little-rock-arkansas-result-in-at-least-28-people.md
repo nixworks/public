@@ -7,9 +7,8 @@ The 17 victims are all believed to have been injured by the gunfire while others
 
 ### Source:
 
-1. [AP via WPLG](https://www.local10.com/news/national/little-rock-police-several-injured-after-nightclub-shooting)
-2. [NBC News](http://www.nbcnews.com/news/us-news/little-rock-shooting-least-17-hurt-arkansas-club-dispute-n778816)
-3. [NPR](http://www.npr.org/sections/thetwo-way/2017/07/01/535142427/shooting-at-little-rock-nightclub-injures-17)
+1. [NBC News](http://www.nbcnews.com/news/us-news/little-rock-shooting-least-17-hurt-arkansas-club-dispute-n778816)
+2. [NPR](http://www.npr.org/sections/thetwo-way/2017/07/01/535142427/shooting-at-little-rock-nightclub-injures-17)
 
 ### Related:
 
