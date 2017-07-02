@@ -1,4 +1,15 @@
-## [News](/news/2017/07/1/index.md)
+## [News](/news/2017/07/2/index.md)
+
+### [Amid growing tensions between China and India and Bhutan over disputed land, the Bharatiya Janata Party supports the words of defence minster Arun Jaitley that "India of 2017 is different from India of 1962". It follows a warning from China to India that referenced the defeat of the latter during the 1962 Sino-Indian War. ](/news/2017/07/2/amid-growing-tensions-between-china-and-india-and-bhutan-over-disputed-land-the-bharatiya-janata-party-supports-the-words-of-defence-minste.md)
+Arun Jaitley&#039;s statement on China 1962 War &#039;self-explanatory&#039; BJP - The Bharatiya Janata Party (BJP) on Sunday sided with Defence Minister Arun Jaitley even as he brushed aside China&#039;s warning which had asked India to ?
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/07/1/index.md)
 
 ### [World leaders such as Bill Clinton, Emmanuel Macron, Theresa May, Dmitry Medvedev and Angela Merkel attend the memorial service for the former West German leader Helmut Kohl. ](/news/2017/07/1/world-leaders-such-as-bill-clinton-emmanuel-macron-theresa-may-dmitry-medvedev-and-angela-merkel-attend-the-memorial-service-for-the-form.md)
 Current and former world leaders gathered Saturday to bid farewell to former German Chancellor Helmut Kohl, recalling him as a man who was instrumental in uniting Europe and bringing about reconciliation between former adversaries on the continent.
@@ -12,11 +23,14 @@ The overhaul existing laws was carried out at a special midnight session of parl
 ### [More than 400,000 people displaced by the conflict are affected by disease outbreaks and psychological trauma. ](/news/2017/07/1/more-than-400-000-people-displaced-by-the-conflict-are-affected-by-disease-outbreaks-and-psychological-trauma.md)
 Over 70,380 people have been housed in 79 government-run evacuation centers where relief officials are struggling to deal with outbreaks of illness
 
-### [Amid growing tensions between China and India and Bhutan, China releases a map detailing a pieces of land claimed by Bhutan and India as belonging to China. China claims, via the map, that territory up until Gipmochi belongs to China and claims it's supported by the 1890 Convention of Calcutta. ](/news/2017/07/1/amid-growing-tensions-between-china-and-india-and-bhutan-china-releases-a-map-detailing-a-pieces-of-land-claimed-by-bhutan-and-india-as-bel.md)
+### [Amid growing tensions between China and India and Bhutan, China releases a map detailing pieces of land claimed by Bhutan and India as belonging to China. China claims, via the map, that territory up until Gipmochi belongs to China and claims it's supported by the 1890 Convention of Calcutta. ](/news/2017/07/1/amid-growing-tensions-between-china-and-india-and-bhutan-china-releases-a-map-detailing-pieces-of-land-claimed-by-bhutan-and-india-as-belon.md)
 _Context: Bhutan, Bhutan-China relations, China, China-India relations, Convention of Calcutta, Gipmochi, India, pieces of land claimed by Bhutan and India_
 
 ### [Singapore implements a new law that bans foreigners from taking part in protests. ](/news/2017/07/1/singapore-implements-a-new-law-that-bans-foreigners-from-taking-part-in-protests.md)
 Those taking part in the rally had to show identity cards to prove they were citizens or permanent residents before being allowed into a barricaded zone.
+
+### [Arguments that lead to an exchange of gunfire at a concert at the Power Ultra Lounge in Little Rock, Arkansas, result in at least 28 people injured, one hospitalized in stable condition. ](/news/2017/07/1/arguments-that-lead-to-an-exchange-of-gunfire-at-a-concert-at-the-power-ultra-lounge-in-little-rock-arkansas-result-in-at-least-28-people.md)
+Clubgoers screamed and scrambled for cover as dozens of gunshots rang out during a rap concert in downtown Little Rock overnight, leaving 28 people injured from an 11-second melee that police said may be gang- related. 
 
 ### [Canada celebrates the sesquicentennial (150-year) anniversary of the Canadian Confederation. ](/news/2017/07/1/canada-celebrates-the-sesquicentennial-150-year-anniversary-of-the-canadian-confederation.md)
 _Context: Canada, Canada Day, Canadian Confederation, sesquicentennial_
@@ -24,8 +38,8 @@ _Context: Canada, Canada Day, Canadian Confederation, sesquicentennial_
 ### [Carrie Lam is sworn in as the first female Chief Executive of Hong Kong by President Xi Jinping amid protests against the 20th anniversary of the transfer of sovereignty to China. ](/news/2017/07/1/carrie-lam-is-sworn-in-as-the-first-female-chief-executive-of-hong-kong-by-president-xi-jinping-amid-protests-against-the-20th-anniversary-o.md)
 Hong Kong police clashed with protesters on Saturday as Carrie Lam was sworn in as the city&#39;s new leader on the 20th anniversary of its handover from British to Chinese rule.
 
-### [Numerous U.S. states, including California and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-and-new-york-reject-requests-for-voter-registration-data-from-president-donald-trump-s-voter-fra.md)
-_Context: California, Donald Trump, New York, Presidency of Donald Trump, President, U.S. state, voter fraud_
+### [Numerous U.S. states, including California, Mississippi, Kentucky and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-mississippi-kentucky-and-new-york-reject-requests-for-voter-registration-data-from-president-d.md)
+_Context: California, Donald Trump, Kentucky, Mississippi, New York, Presidency of Donald Trump, President, U.S. state, voter fraud_
 
 ### [Amid a budget crisis, Governor Chris Christie shuts down the state government of New Jersey. ](/news/2017/07/1/amid-a-budget-crisis-governor-chris-christie-shuts-down-the-state-government-of-new-jersey.md)
 _Context: Chris Christie, New Jersey, Politics of New Jersey, budget crisis_
@@ -33,13 +47,9 @@ _Context: Chris Christie, New Jersey, Politics of New Jersey, budget crisis_
 ### [Pope Francis ousts conservative cardinal Gerhard Ludwig Muller. ](/news/2017/07/1/pope-francis-ousts-conservative-cardinal-gerhard-ludwig-ma1-4ller.md)
 Francis declined to renew Cardinal Gerhard Ludwig Müller’s mandate to lead the Congregation for the Doctrine of the Faith.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/06/30/index.md)
+## [Day Before Yesterday](/news/2017/06/30/index.md)
 
 ### [  Lebanese Armed Forces are attacked by five suicide bombers and other militants during a raid of two Syrian refugee camps in  Arsal  near the Syrian border. The army reports a girl was killed in one of the suicide attacks, seven soldiers were also wounded, and 350 people, including several ISIL officials,  were detained during the sweep. ](/news/2017/06/30/lebanese-armed-forces-are-attacked-by-five-suicide-bombers-and-other-militants-during-a-raid-of-two-syrian-refugee-camps-in-arsal-near-t.md)
 Five suicide bombers attacked Lebanese soldiers as they raided two Syrian refugee camps in the Arsal area at the border with Syria on Friday and a sixth militant threw a hand grenade at a patrol, the army said.
@@ -64,53 +74,7 @@ Ahvaz hits hottest temperature ever recorded in Iran, and possibly the world.
 
 ---
 
-## [Day Before Yesterday](/news/2017/06/29/index.md)
-
-### [A man attempts to run over pedestrians outside a mosque in Creteil, France. ](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-cra-c-teil-france.md)
-Barriers protected the building in the Créteil suburb and the suspect was arrested.
-
-### [Iraq Prime Minister Haider al-Abadi declares the end of the Islamic State's self-declared caliphate following the capture of the Great Mosque of al-Nuri in Mosul. ](/news/2017/06/29/iraq-prime-minister-haider-al-abadi-declares-the-end-of-the-islamic-state-s-self-declared-caliphate-following-the-capture-of-the-great-mosqu.md)
-With the capture of a destroyed mosque in the heart of the ISIS’ Iraqi capital of Mosul, the nation&#x27;s government declared victory over ISIS militants in Iraq.
-
-### [At least twelve people die and two others are injured after a cable car falls nearly 500 feet into a ditch in Charra Pani, Galyat, Pakistan. ](/news/2017/06/29/at-least-twelve-people-die-and-two-others-are-injured-after-a-cable-car-falls-nearly-500-feet-into-a-ditch-in-charra-pani-galyat-pakistan.md)
-At least 12 persons were killed and two were injured when a cable car (doli) installed by local villagers broke down and fell at Charra Pani in the area of Galiyat region on Thursday. The cable car, installed over a nullah between Charra Pani and B ..
-
-### [Australia and the United States begin their month-long biennial joint military exercise, Talisman Saber, this year's being their largest ever, involving 33,000 U.S. and Australian troops on board amphibious assault ships. ](/news/2017/06/29/australia-and-the-united-states-begin-their-month-long-biennial-joint-military-exercise-talisman-saber-this-year-s-being-their-largest-eve.md)
-Australia and the United States began their biggest ever joint military exercises on Thursday, a show of force, largely at sea, aimed at sending a message both to allies and potential foes, including China.
-
-### [The United States plans to sell Taiwan $1.42 billion in arms, the first such sale under the administration of Donald Trump. ](/news/2017/06/29/the-united-states-plans-to-sell-taiwan-1-42-billion-in-arms-the-first-such-sale-under-the-administration-of-donald-trump.md)
-The United States plans to sell Taiwan $1.42 billion in arms, the first such sale under the administration of Donald Trump and a move sure to anger China, whose help the president has been seeking to rein in North Korea.
-
-### [Amid a stand-off between China and India in the Indian state of Sikkim, Bhutan protests to China over the construction of a road in the disputed territory of Doklam, a meeting point for all three countries' borders. ](/news/2017/06/29/amid-a-stand-off-between-china-and-india-in-the-indian-state-of-sikkim-bhutan-protests-to-china-over-the-construction-of-a-road-in-the-disp.md)
-NEW DELHI • Bhutan has protested to China over the construction of a road in disputed territory that has already heightened tensions between Beijing and the Indian government, reports said yesterday.. Read more at straitstimes.com.
-
-### [German same-sex couples may be able to marry after Chancellor Angela Merkel drops her opposition for a parliamentary vote. ](/news/2017/06/29/german-same-sex-couples-may-be-able-to-marry-after-chancellor-angela-merkel-drops-her-opposition-for-a-parliamentary-vote.md)
-_Context: Angela Merkel, German, Recognition of same-sex unions in Germany, same-sex marriage_
-
-### [A car knocks down the security fences of the Pink House, the Presidential Palace of Argentina, and then stops in front of the building's gate. Authorities reported that the driver of the vehicle had psychiatric disorders and that, in addition, the security personnel present at the time of the incident was separated from his position. It was also learned that this fact took place on 21 June. ](/news/2017/06/29/a-car-knocks-down-the-security-fences-of-the-pink-house-the-presidential-palace-of-argentina-and-then-stops-in-front-of-the-building-s-gat.md)
-_Context: Argentina, Crime in Argentina, Pink House_
-
-### [Victoria Police charge Cardinal George Pell, the Prefect of the Secretariat for the Economy, and the third most senior official of the Catholic Church, with historic child sex offences. Pell will be required to attend hearings at the Melbourne Magistrates Court in Australia on July 19. ](/news/2017/06/29/victoria-police-charge-cardinal-george-pell-the-prefect-of-the-secretariat-for-the-economy-and-the-third-most-senior-official-of-the-catho.md)
-Australia&#039;s most senior Catholic cleric, Cardinal George Pell, is charged with historical sexual assault offences.
-
-### [Aftermath of the A jury trial convicts five individuals accused of working together to assassinate Boris Nemtsov.  These individuals had been promised a bounty of 15 million Russian rubles. Critics say the original financiers and organizers of the crime have not been identified. ](/news/2017/06/29/aftermath-of-the-a-jury-trial-convicts-five-individuals-accused-of-working-together-to-assassinate-boris-nemtsov-these-individuals-had-bee.md)
-_Context: Boris Nemtsov, Russian ruble, assassination of Boris Nemtsov_
-
-### [The Chamber of Deputies of the Czech Republic passes a Czech Social Democratic Party-proposed amendment to the constitution, giving citizens the right to acquire, possess and carry firearms for the purpose of security. The constitutional amendment will now go to the Senate, where it is expected to pass. ](/news/2017/06/29/the-chamber-of-deputies-of-the-czech-republic-passes-a-czech-social-democratic-party-proposed-amendment-to-the-constitution-giving-citizens.md)
-_Context: Chamber of Deputies, Czech Republic, Czech Social Democratic Party, Gun laws in the Czech Republic, Senate, constitution_
-
-### [After six days of debate, the House of Commons of the United Kingdom votes to approve, with 323 votes for and 309 against, the policies set out in the Queen's Speech. In order to avoid a 'regret' amendment, Chancellor of the Exchequer Philip Hammond says that England's National Health Service is to provide free abortions to women from Northern Ireland with funds from the Government Equalities Office. ](/news/2017/06/29/after-six-days-of-debate-the-house-of-commons-of-the-united-kingdom-votes-to-approve-with-323-votes-for-and-309-against-the-policies-set.md)
-Ministers announced women from Northern Ireland CAN now have free NHS abortions in England - a massive victory for a Labour MP
-
-### [Protests mark the 20th anniversary of the transfer of sovereignty over Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/protests-mark-the-20th-anniversary-of-the-transfer-of-sovereignty-over-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of-c.md)
-Hongkongers have expressed surprise at the appearance of China-style decorations across the city, rolled out in anticipation of Chinese President Xi Jinping&#8217;s visit on Thursday. Two banners painted in red with the Chinese text &#8220;Welcome President Xi Jinping to inspect Hong Kong&#8221; have been spotted hanging above the toll stations outside the Western Harbour &hellip;
-
-### [ISRO launches communications satellite GSAT-17 from French Guiana. ](/news/2017/06/29/isro-launches-communications-satellite-gsat-17-from-french-guiana.md)
-GSAT-17 is the third satellite launch by ISRO this month, the other two being first developmental flight of GSLV MkIII and PSLV C-38 missions, both from Sriharikota spaceport. It will be the 21st satellite from ISRO to be launched by Arianespace. 
-
----
-
-## [Previous Day...](/news/2017/06/28/index.md)
+## [Previous Day...](/news/2017/06/29/index.md)
 
 ---
 

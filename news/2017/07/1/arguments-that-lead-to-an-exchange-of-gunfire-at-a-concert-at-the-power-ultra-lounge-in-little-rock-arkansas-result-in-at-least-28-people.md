@@ -1,14 +1,13 @@
 ### [2017-07-1](/news/2017/07/1/index.md)
 
-# Arguments that lead to an exchange of gunfire at a concert at the Power Ultra Lounge in Little Rock, Arkansas, result in at least 28 people injured, one hospitalized in stable condition. Police says others were hurt as they tried to flee the  second floor club. 
+# Arguments that lead to an exchange of gunfire at a concert at the Power Ultra Lounge in Little Rock, Arkansas, result in at least 28 people injured, one hospitalized in stable condition. 
 
-The 17 victims are all believed to have been injured by the gunfire while others were hurt as they tried to flee the club. 
+Clubgoers screamed and scrambled for cover as dozens of gunshots rang out during a rap concert in downtown Little Rock overnight, leaving 28 people injured from an 11-second melee that police said may be gang- related. 
 
 
 ### Source:
 
-1. [NBC News](http://www.nbcnews.com/news/us-news/little-rock-shooting-least-17-hurt-arkansas-club-dispute-n778816)
-2. [NPR](http://www.npr.org/sections/thetwo-way/2017/07/01/535142427/shooting-at-little-rock-nightclub-injures-17)
+1. [news.com.au](http://www.news.com.au/world/gunman-shoots-dozens-in-nightclub-carnage-in-arkansas/news-story/a8449bb22047a5f19f61d3360e2ae6df)
 
 ### Related:
 
