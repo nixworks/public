@@ -1,14 +1,13 @@
 ### [2017-07-1](/news/2017/07/1/index.md)
 
-# President of the Philippines Rodrigo Duterte threatens the ''Philippine Daily Inquirer'' with an expose. The newspaper has been a long-time ally of the politically prominent 
+# President of the Philippines Rodrigo Duterte threatens the ''Philippine Daily Inquirer'' with an expose. The newspaper has been a long-time ally of the politically prominent Aquino family ever since the 1986 EDSA People Power Revolution, and has been consistent in its persistent criticism against the (so-called) "abuses" of the Duterte presidency ever since it's inauguration in 2016. 
 
 
 
 
 ### Source:
 
-1. [Aquino family] ever since the [[People Power Revolution|1986 EDSA People Power Revolution]], and has been consistent in its persistent criticism against the (so-called](http://en.wikipedia.org/wiki/Category:Aquino_family)
-2. [Rappler](http://www.rappler.com/nation/174445-duterte-prieto-inquirer-mile-long)
+1. [Rappler](http://www.rappler.com/nation/174445-duterte-prieto-inquirer-mile-long)
 
 ### Related:
 
