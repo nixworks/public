@@ -3,6 +3,9 @@
 ### [A series of car bomb explosions in Damascus results in at least eight deaths and 12 injured. ](/news/2017/07/2/a-series-of-car-bomb-explosions-in-damascus-results-in-at-least-eight-deaths-and-12-injured.md)
 _Context: Damascus, Syrian Civil War, car bomb_
 
+### [At least 14 people are dead in Russia's Tatarstan Republic as a bus catches fire after colliding with a truck. ](/news/2017/07/2/at-least-14-people-are-dead-in-russia-s-tatarstan-republic-as-a-bus-catches-fire-after-colliding-with-a-truck.md)
+Russian officials say at least 14 people have been killed after a bus caught fire following a nighttime collision with a truck that was being towed and six other people have been killed in separate road accidents.
+
 ### [Amid growing tensions between China and India and Bhutan over disputed land, the Bharatiya Janata Party supports the words of defence minster Arun Jaitley that "India of 2017 is different from India of 1962". It follows a warning from China to India that referenced the defeat of the latter during the 1962 Sino-Indian War. ](/news/2017/07/2/amid-growing-tensions-between-china-and-india-and-bhutan-over-disputed-land-the-bharatiya-janata-party-supports-the-words-of-defence-minste.md)
 Arun Jaitley&#039;s statement on China 1962 War &#039;self-explanatory&#039; BJP - The Bharatiya Janata Party (BJP) on Sunday sided with Defence Minister Arun Jaitley even as he brushed aside China&#039;s warning which had asked India to ?
 
@@ -20,7 +23,7 @@ Current and former world leaders gathered Saturday to bid farewell to former Ger
 ### [Italian rock singer Vasco Rossi broke the world record of biggest ticketed concert with 220,000 paying guests hosted at Enzo Ferrari Park in Modena, Italy. (Previous record belonged to a-Ha with 198,000 paying guests, set in 1991 in Rio de Janeiro, Brazil) ](/news/2017/07/1/italian-rock-singer-vasco-rossi-broke-the-world-record-of-biggest-ticketed-concert-with-220-000-paying-guests-hosted-at-enzo-ferrari-park-in.md)
 _Context: Enzo Ferrari, Italy, Modena, Modena Park 2017, Vasco Rossi, a-Ha_
 
-### [President of the Philippines Rodrigo Duterte threatens the ''Philippine Daily Inquirer'' with an expose. The newspaper has been a long-time ally of the politically prominent Aquino family ever since the 1986 EDSA People Power Revolution, and has been consistent in its persistent criticism against the (so-called) "abuses" of the Duterte presidency ever since it's inauguration in 2016. ](/news/2017/07/1/president-of-the-philippines-rodrigo-duterte-threatens-the-philippine-daily-inquirer-with-an-exposa-c-the-newspaper-has-been-a-long-time.md)
+### [President of the Philippines Rodrigo Duterte threatens the ''Philippine Daily Inquirer'' with an expose. The newspaper has been a long-time ally of the politically prominent Aquino family ever since the 1986 EDSA People Power Revolution, and has been consistent in its criticism of the Duterte presidency since its inauguration in 2016. ](/news/2017/07/1/president-of-the-philippines-rodrigo-duterte-threatens-the-philippine-daily-inquirer-with-an-exposa-c-the-newspaper-has-been-a-long-time.md)
 _Context: 1986 EDSA People Power Revolution, Aquino family, Freedom of speech in the Philippines, Philippine Daily Inquirer, President of the Philippines, Rodrigo Duterte, expose_
 
 ### [India replaces its federal and state taxes with the Goods and Services Tax (GST), the most extensive tax reform since its independence. ](/news/2017/07/1/india-replaces-its-federal-and-state-taxes-with-the-goods-and-services-tax-gst-the-most-extensive-tax-reform-since-its-independence.md)
