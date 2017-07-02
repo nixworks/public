@@ -1,6 +1,6 @@
 ### [2017-06-29](/news/2017/06/29/index.md)
 
-# A car knocks down the security fences of the Pink House, the Presidential Palace of Argentina, and then stops in front of the building's gate. Authorities reported that the driver of the vehicle had psychiatric disorders and that, in addition, the security personnel present at the time of the incident was separated from his position. It was also learned that this fact took place on 21 June. 
+# A car knocks down the security fences of the Pink House, the Presidential Palace of Argentina, and then stops in front of the building's gate. The authorities reported that the driver of the vehicle had psychiatric disorders and that, in addition, the security personnel present at the time of the incident was separated from his position. It was also learned that this fact took place on 21 June. 
 
 
 
