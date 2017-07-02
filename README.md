@@ -18,7 +18,7 @@ _Context: 2017 electronics ban, Abu Dhabi_
 ### [Amid growing tensions between China and India and Bhutan over disputed land, the Bharatiya Janata Party supports the words of defence minster Arun Jaitley that "India of 2017 is different from India of 1962". It follows a warning from China to India that referenced the defeat of the latter during the 1962 Sino-Indian War. ](/news/2017/07/2/amid-growing-tensions-between-china-and-india-and-bhutan-over-disputed-land-the-bharatiya-janata-party-supports-the-words-of-defence-minste.md)
 Arun Jaitley&#039;s statement on China 1962 War &#039;self-explanatory&#039; BJP - The Bharatiya Janata Party (BJP) on Sunday sided with Defence Minister Arun Jaitley even as he brushed aside China&#039;s warning which had asked India to ?
 
-### [Israel arrests Palesrinian lawmaker Khalida Jarrar over allegations of her inciting of violence. ](/news/2017/07/2/israel-arrests-palesrinian-lawmaker-khalida-jarrar-over-allegations-of-her-inciting-of-violence.md)
+### [Israel arrests Palestinian lawmaker Khalida Jarrar over allegations of her inciting of violence. ](/news/2017/07/2/israel-arrests-palestinian-lawmaker-khalida-jarrar-over-allegations-of-her-inciting-of-violence.md)
 Israeli security forces detained a female Palestinian lawmaker on Sunday for alleged security offenses.
 
 ## Opinion
