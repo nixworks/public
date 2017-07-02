@@ -1,17 +1,18 @@
-### [2017-06-26](/news/2017/06/26/index.md)
+### [2017-07-1](/news/2017/07/1/index.md)
 
-# President of the Philippines Rodrigo Duterte makes another lengthy absence from any public appearance after missing the Independence Day celebrations earlier in June. Rumors about his health continue to circulate within the minority although government officials deny any issues. 
+# President of the Philippines Rodrigo Duterte threatens the ''Philippine Daily Inquirer'' with an expose. The newspaper has been a long-time ally of the politically prominent 
 
 
 
 
 ### Source:
 
-1. [Rappler](http://www.rappler.com/nation/173973-duterte-no-public-appearance-6th-straight-day)
+1. [Aquino family] ever since the [[People Power Revolution|1986 EDSA People Power Revolution]], and has been consistent in its persistent criticism against the (so-called](http://en.wikipedia.org/wiki/Category:Aquino_family)
+2. [Rappler](http://www.rappler.com/nation/174445-duterte-prieto-inquirer-mile-long)
 
 ### Related:
 
-1. [President of the Philippines Rodrigo Duterte threatens the ''Philippine Daily Inquirer'' with an expose. The newspaper has been a long-time ally of the politically prominent ](/news/2017/07/1/president-of-the-philippines-rodrigo-duterte-threatens-the-philippine-daily-inquirer-with-an-exposa-c-the-newspaper-has-been-a-long-time.md) _Context: President of the Philippines, Rodrigo Duterte_
+1. [President of the Philippines Rodrigo Duterte makes another lengthy absence from any public appearance after missing the Independence Day celebrations earlier in June. Rumors about his health continue to circulate within the minority although government officials deny any issues. ](/news/2017/06/26/president-of-the-philippines-rodrigo-duterte-makes-another-lengthy-absence-from-any-public-appearance-after-missing-the-independence-day-cel.md) _Context: President of the Philippines, Rodrigo Duterte_
 2. [President of the Philippines Rodrigo Duterte tells soldiers fighting in Mindanao, where he proclaimed martial law earlier this week, that he will accept responsibility for abuses they commit, and jokes that "[i]f you had raped three, I will admit it, that's on me." ](/news/2017/05/27/president-of-the-philippines-rodrigo-duterte-tells-soldiers-fighting-in-mindanao-where-he-proclaimed-martial-law-earlier-this-week-that-he.md) _Context: President of the Philippines, Rodrigo Duterte_
 3. [President Rodrigo Duterte declares martial law in the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/president-rodrigo-duterte-declares-martial-law-in-the-island-of-mindanao-after-maute-militants-clash-with-army-troops-in-marawi-lanao-del-s.md) _Context: President of the Philippines, Rodrigo Duterte_
 4. [Philippine President Rodrigo Duterte, who later had to cut short his visit to Moscow because of terrorist attacks on the Philippine southern island of Mindanao, tells Russia President Vladimir Putin that the Philippines is looking to Russia for modern arms to fight ISIL. ](/news/2017/05/22/philippine-president-rodrigo-duterte-who-later-had-to-cut-short-his-visit-to-moscow-because-of-terrorist-attacks-on-the-philippine-southern.md) _Context: President of the Philippines, Rodrigo Duterte_

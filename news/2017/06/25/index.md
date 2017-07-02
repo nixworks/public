@@ -22,7 +22,7 @@ _Context: 2017 Qatar diplomatic crisis, Bahrain, Bahrain News Agency, Egypt, Qat
 _Context: Albania, Albanian parliamentary election, 2017, Democratic Party, Eid al-Fitr, European Union candidacy, Socialist Party, parliament_
 
 ### [In the first declared visit to the town since the beginning of the war, President Bashar al-Assad attends the Eid al-Fitr prayer in Hama. ](/news/2017/06/25/in-the-first-declared-visit-to-the-town-since-the-beginning-of-the-war-president-bashar-al-assad-attends-the-eid-al-fitr-prayer-in-hama.md)
-_Context: Bashar al-Assad, Eid al-Fitr, Hama, Politics of Syria, war_
+_Context: Bashar al-Assad, Eid al-Fitr, Hama, Politics of Syria, Syrian Civil War_
 
 ## [Previous Day...](/news/2017/06/24/index.md)
 
