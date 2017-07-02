@@ -13,7 +13,7 @@ The overhaul existing laws was carried out at a special midnight session of parl
 Over 70,380 people have been housed in 79 government-run evacuation centers where relief officials are struggling to deal with outbreaks of illness
 
 ### [Amid growing tensions between China and India and Bhutan, China releases a map detailing a pieces of land claimed by Bhutan and India as belonging to China. China claims, via the map, that territory up until Gipmochi belongs to China and claims it's supported by the 1890 Convention of Calcutta. ](/news/2017/07/1/amid-growing-tensions-between-china-and-india-and-bhutan-china-releases-a-map-detailing-a-pieces-of-land-claimed-by-bhutan-and-india-as-bel.md)
-_Context: Bhutan, Bhutan-China relations, China-India relations, Chinese, Convention of Calcutta, Gipmochi, India, pieces of land claimed by Bhutan and India_
+_Context: Bhutan, Bhutan-China relations, China, China-India relations, Convention of Calcutta, Gipmochi, India, pieces of land claimed by Bhutan and India_
 
 ### [Singapore implements a new law that bans foreigners from taking part in protests. ](/news/2017/07/1/singapore-implements-a-new-law-that-bans-foreigners-from-taking-part-in-protests.md)
 Those taking part in the rally had to show identity cards to prove they were citizens or permanent residents before being allowed into a barricaded zone.
@@ -21,7 +21,7 @@ Those taking part in the rally had to show identity cards to prove they were cit
 ### [Canada celebrates the sesquicentennial (150-year) anniversary of the Canadian Confederation. ](/news/2017/07/1/canada-celebrates-the-sesquicentennial-150-year-anniversary-of-the-canadian-confederation.md)
 _Context: Canada, Canada Day, Canadian Confederation, sesquicentennial_
 
-### [Carrie Lam is sworn in as the first female Chief Executive  of Hong Kong by President Xi Jinping amid protests against the 20-year Chinese takeover of the territory. ](/news/2017/07/1/carrie-lam-is-sworn-in-as-the-first-female-chief-executive-of-hong-kong-by-president-xi-jinping-amid-protests-against-the-20-year-chinese-t.md)
+### [Carrie Lam is sworn in as the first female Chief Executive of Hong Kong by President Xi Jinping amid protests against the 20th anniversary of the transfer of sovereignty to China. ](/news/2017/07/1/carrie-lam-is-sworn-in-as-the-first-female-chief-executive-of-hong-kong-by-president-xi-jinping-amid-protests-against-the-20th-anniversary-o.md)
 Hong Kong police clashed with protesters on Saturday as Carrie Lam was sworn in as the city&#39;s new leader on the 20th anniversary of its handover from British to Chinese rule.
 
 ### [Numerous U.S. states, including California and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-and-new-york-reject-requests-for-voter-registration-data-from-president-donald-trump-s-voter-fra.md)

@@ -1,0 +1,23 @@
+### [2017-07-1](/news/2017/07/1/index.md)
+
+# Carrie Lam is sworn in as the first female Chief Executive of Hong Kong by President Xi Jinping amid protests against the 20th anniversary of the transfer of sovereignty to China. 
+
+Hong Kong police clashed with protesters on Saturday as Carrie Lam was sworn in as the city&#39;s new leader on the 20th anniversary of its handover from British to Chinese rule.
+
+
+### Source:
+
+1. [The Telegraph](http://www.telegraph.co.uk/news/2017/07/01/violent-clashes-erupt-hong-kong-new-leader-carrie-lam-sworn/)
+
+### Related:
+
+1. [Protests mark the 20th anniversary of the transfer of sovereignty over Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/protests-mark-the-20th-anniversary-of-the-transfer-of-sovereignty-over-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of-c.md) _Context: China, Hong Kong, Politics of Hong Kong, Xi Jinping, transfer of sovereignty_
+2. [The Hong Kong Election Committee meets to select a new Chief Executive. Carrie Lam becomes the first female Chief Executive. ](/news/2017/03/26/the-hong-kong-election-committee-meets-to-select-a-new-chief-executive-carrie-lam-becomes-the-first-female-chief-executive.md) _Context: Carrie Lam, Chief Executive, Hong Kong_
+3. [Thousands of people take to the streets of Hong Kong, demanding answers over China's alleged abduction of five booksellers in late 2015 and that Chief Executive Leung Chun-ying resign from office. ](/news/2016/07/1/thousands-of-people-take-to-the-streets-of-hong-kong-demanding-answers-over-china-s-alleged-abduction-of-five-booksellers-in-late-2015-and.md) _Context: Chief Executive, China, Hong Kong_
+4. [Jia Jia, a columnist for China's Tencent media company is reported missing after not being heard from since Tuesday, when he was on his way to Hong Kong. He was last heard from when he tried to warn a friend about publishing an anonymous letter calling for President Xi Jinping's resignation. ](/news/2016/03/18/jia-jia-a-columnist-for-china-s-tencent-media-company-is-reported-missing-after-not-being-heard-from-since-tuesday-when-he-was-on-his-way.md) _Context: China, Hong Kong, Xi Jinping_
+5. [Former Chief Executive of Hong Kong Donald Tsang is sentenced to 20 months in prison for corruption, becoming the highest officeholder in Hong Kong's history to be convicted. ](/news/2017/02/22/former-chief-executive-of-hong-kong-donald-tsang-is-sentenced-to-20-months-in-prison-for-corruption-becoming-the-highest-officeholder-in-ho.md) _Context: Chief Executive, Hong Kong_
+6. [Former Hong Kong Chief Executive Donald Tsang, who is on trial for corruption, pleads not guilty to three charges of bribery and misconduct relating to a penthouse he leased in Shenzhen. ](/news/2017/01/3/former-hong-kong-chief-executive-donald-tsang-who-is-on-trial-for-corruption-pleads-not-guilty-to-three-charges-of-bribery-and-misconduct.md) _Context: Chief Executive, Hong Kong_
+7. [The foreign ministry of the People's Republic of China confirms that the country's head of state Xi Jinping will attend the World Economic Forum in Davos, Switzerland, this year, making him the first President of China to attend the high-profile event. ](/news/2017/01/10/the-foreign-ministry-of-the-people-s-republic-of-china-confirms-that-the-country-s-head-of-state-xi-jinping-will-attend-the-world-economic-f.md) _Context: China, Xi Jinping_
+8. [Baggio Leung and Yau Wai-ching are banned by China from taking office in Hong Kong over the oath-taking controversy. ](/news/2016/11/7/baggio-leung-and-yau-wai-ching-are-banned-by-china-from-taking-office-in-hong-kong-over-the-oath-taking-controversy.md) _Context: China, Hong Kong_
+9. [In Hong Kong, police clash with protesters after more than 10,000 locals march against the Chinese government interpretation of the Basic Law in the Legislative Council oath-taking controversy. ](/news/2016/11/6/in-hong-kong-police-clash-with-protesters-after-more-than-10-000-locals-march-against-the-chinese-government-interpretation-of-the-basic-la.md) _Context: China, Hong Kong_
+10. [Police in China detain 75 people in connection with a service that determined the female gender of unborn babies for the purpose of abortion. Authorities say that at least 300 people were involved in the illegal service in the eastern Chinese province of Zhejiang. Expectant parents wanting male children smuggled fetal blood samples to Hong Kong for gender testing. China ended its one-child policy last year. ](/news/2016/10/15/police-in-china-detain-75-people-in-connection-with-a-service-that-determined-the-female-gender-of-unborn-babies-for-the-purpose-of-abortion.md) _Context: China, Hong Kong_
