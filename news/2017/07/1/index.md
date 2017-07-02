@@ -3,6 +3,9 @@
 ### [World leaders such as Bill Clinton, Emmanuel Macron, Theresa May, Dmitry Medvedev and Angela Merkel attend the memorial service for the former West German leader Helmut Kohl. ](/news/2017/07/1/world-leaders-such-as-bill-clinton-emmanuel-macron-theresa-may-dmitry-medvedev-and-angela-merkel-attend-the-memorial-service-for-the-form.md)
 Current and former world leaders gathered Saturday to bid farewell to former German Chancellor Helmut Kohl, recalling him as a man who was instrumental in uniting Europe and bringing about reconciliation between former adversaries on the continent.
 
+### [Italian rock singer Vasco Rossi broke the world record of biggest ticketed concert with 220,000 paying guests hosted at Enzo Ferrari Park in Modena, Italy. (Previous record belonged to a-Ha with 198,000 paying guests, set in 1991 in Rio de Janeiro, Brazil) ](/news/2017/07/1/italian-rock-singer-vasco-rossi-broke-the-world-record-of-biggest-ticketed-concert-with-220-000-paying-guests-hosted-at-enzo-ferrari-park-in.md)
+_Context: Enzo Ferrari, Italy, Modena, Modena Park 2017, Vasco Rossi, a-Ha_
+
 ### [Philippines president Rodrigo Duterte threatens the ''Philippine Daily Inquirer'' with an expose. ](/news/2017/07/1/philippines-president-rodrigo-duterte-threatens-the-philippine-daily-inquirer-with-an-exposa-c.md)
 _Context: Freedom of speech in the Philippines, Philippine Daily Inquirer, Philippines, Rodrigo Duterte, expose_
 
