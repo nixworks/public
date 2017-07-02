@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The Bundestag votes to introduce same-sex marriage in Germany.  With 393 votes in favor and 226 against, including Chancellor Angela Merkel voting against despite previous reports saying she supports same-sex marriage, the law is expected to enter into force before the end of the year. ](/news/2017/06/30/the-bundestag-votes-to-introduce-same-sex-marriage-in-germany-with-393-votes-in-favor-and-226-against-including-chancellor-angela-merkel.md) _Context: Bundestag_
+1. [The Bundestag votes to introduce same-sex marriage in Germany.  With 393 votes in favor and 226 against, including Chancellor Angela Merkel, the law is expected to enter into force before the end of the year. ](/news/2017/06/30/the-bundestag-votes-to-introduce-same-sex-marriage-in-germany-with-393-votes-in-favor-and-226-against-including-chancellor-angela-merkel.md) _Context: Bundestag_
 2. [The Bundestag approves a ban on burqas being worn by members of the German civil service. ](/news/2017/04/27/the-bundestag-approves-a-ban-on-burqas-being-worn-by-members-of-the-german-civil-service.md) _Context: Bundestag_
 3. [The German government decides it will abolish the crime of lese-majeste, almost one year after the Bohmermann affair. ](/news/2017/01/25/the-german-government-decides-it-will-abolish-the-crime-of-la-se-majesta-c-almost-one-year-after-the-baphmermann-affair.md) _Context: German government_
 4. [The German Bundestag passes a resolution classifying the Ottoman Empire's killing of Armenians in 1915 as genocide, provoking a furious reaction in Turkey. ](/news/2016/06/2/the-german-bundestag-passes-a-resolution-classifying-the-ottoman-empire-s-killing-of-armenians-in-1915-as-genocide-provoking-a-furious-reac.md) _Context: Bundestag_

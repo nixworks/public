@@ -16,7 +16,7 @@ _Context: President, Sharif Ahmed, Somalia_
 Hundreds of thousands of Senegalese are expected at ceremonies to mourn the leader of the Mouride Islamic sect.
 
 ### [People take to the streets in Ottawa to celebrate Canada's 143rd birthday.  ](/news/2010/07/1/people-take-to-the-streets-in-ottawa-to-celebrate-canada-s-143rd-birthday.md)
-_Context: Ottawa, birthday_
+_Context: Canada Day, Ottawa_
 
 ### [China's Xinhua launches a global 24-hour English TV news channel. ](/news/2010/07/1/china-s-xinhua-launches-a-global-24-hour-english-tv-news-channel.md)
 _Context: 24-hour English TV news channel, China, People's Republic of China, Xinhua_

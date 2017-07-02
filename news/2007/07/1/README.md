@@ -28,7 +28,7 @@ _Context: Chinese archaeologists, Terracotta Army, hidden underground chamber_
 _Context: Concert for Diana, Princess Diana, Wembley Stadium_
 
 ### [ Canada celebrates its 140th anniversary. Canada Day marks the creation of the Dominion of Canada through the British North America Act on July 1, 1867. ](/news/2007/07/1/canada-celebrates-its-140th-anniversary-canada-day-marks-the-creation-of-the-dominion-of-canada-through-the-british-north-america-act-on-j.md)
-_Context: Canada, birthday_
+_Context: Canada, Canada Day_
 
 ### [ Alison Brimelow becomes President of the European Patent Office. ](/news/2007/07/1/alison-brimelow-becomes-president-of-the-european-patent-office.md)
 _Context: Alison Brimelow, European Patent Organisation_
