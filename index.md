@@ -10,7 +10,7 @@ _Context: Bavaria, German_
 _Context: Bhutan, Bhutan-China relations, China, China-India relations, Doklam tri-junction, India, India Today_
 
 ### [Greek coast guard opens fire on a Turkish-flagged cargo vessel in the Aegean Sea. ](/news/2017/07/3/greek-coast-guard-opens-fire-on-a-turkish-flagged-cargo-vessel-in-the-aegean-sea.md)
-Turkish NTV channel reported that the Greek coast guard opened fire on a Turkish-flagged cargo ship in the Aegean Sea.
+The captain of a Turkishfreight ship on Monday said the Greek coast guard opened fire onhis vessel after he refused an order to dock at a port in theAegean Sea.
 
 ### [Governor Chris Christie is caught sunbathing with his family on a beach he had ordered closed for the fourth of July holiday. The beach was closed to the public amid a state budget crisis. ](/news/2017/07/3/governor-chris-christie-is-caught-sunbathing-with-his-family-on-a-beach-he-had-ordered-closed-for-the-fourth-of-july-holiday-the-beach-was.md)
 _Context: Chris Christie, Politics of New Jersey, budget crisis, holiday_
@@ -30,7 +30,7 @@ _Context: Damascus, Syrian Civil War_
 Ministers say ending the arrangement will help the UK take back control of access to its waters.
 
 ### [The Central Bank of Syria announces a new 2,000 Syrian lira (pound) bank note that will feature a portrait of President Bashar al-Assad, the President's first appearance on Syrian currency during his 17-years in office. ](/news/2017/07/2/the-central-bank-of-syria-announces-a-new-2-000-syrian-lira-pound-bank-note-that-will-feature-a-portrait-of-president-bashar-al-assad-the.md)
-_Context: Bashar al-Assad, Central Bank of Syria, People on coins, President, Syrian lira (pound)_
+_Context: Bashar al-Assad, Central Bank of Syria, People on banknotes, President, Syrian lira (pound)_
 
 ### [At least 14 people are killed in Russia's Tatarstan Republic as a bus catches fire after colliding with a truck. ](/news/2017/07/2/at-least-14-people-are-killed-in-russia-s-tatarstan-republic-as-a-bus-catches-fire-after-colliding-with-a-truck.md)
 Russian officials say at least 14 people have been killed after a bus caught fire following a nighttime collision with a truck that was being towed and six other people have been killed in separate road accidents.
@@ -89,6 +89,9 @@ _Context: Chris Christie, New Jersey, Politics of New Jersey, budget crisis_
 
 ### [Pope Francis ousts conservative cardinal Gerhard Ludwig Muller. ](/news/2017/07/1/pope-francis-ousts-conservative-cardinal-gerhard-ludwig-ma1-4ller.md)
 Francis declined to renew Cardinal Gerhard Ludwig Müller’s mandate to lead the Congregation for the Doctrine of the Faith.
+
+### [Philip Greaves is sworn in as acting Governor-General of Barbados following the retirement of Sir Elliott Belgrave. ](/news/2017/07/1/philip-greaves-is-sworn-in-as-acting-governor-general-of-barbados-following-the-retirement-of-sir-elliott-belgrave.md)
+_Context: Elliott Belgrave, Governor-General of Barbados, Philip Greaves_
 
 ---
 

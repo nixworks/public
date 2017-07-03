@@ -7,7 +7,7 @@ _Context: Damascus, Syrian Civil War_
 Ministers say ending the arrangement will help the UK take back control of access to its waters.
 
 ### [The Central Bank of Syria announces a new 2,000 Syrian lira (pound) bank note that will feature a portrait of President Bashar al-Assad, the President's first appearance on Syrian currency during his 17-years in office. ](/news/2017/07/2/the-central-bank-of-syria-announces-a-new-2-000-syrian-lira-pound-bank-note-that-will-feature-a-portrait-of-president-bashar-al-assad-the.md)
-_Context: Bashar al-Assad, Central Bank of Syria, People on coins, President, Syrian lira (pound)_
+_Context: Bashar al-Assad, Central Bank of Syria, People on banknotes, President, Syrian lira (pound)_
 
 ### [At least 14 people are killed in Russia's Tatarstan Republic as a bus catches fire after colliding with a truck. ](/news/2017/07/2/at-least-14-people-are-killed-in-russia-s-tatarstan-republic-as-a-bus-catches-fire-after-colliding-with-a-truck.md)
 Russian officials say at least 14 people have been killed after a bus caught fire following a nighttime collision with a truck that was being towed and six other people have been killed in separate road accidents.

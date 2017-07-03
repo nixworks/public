@@ -2,12 +2,13 @@
 
 # Greek coast guard opens fire on a Turkish-flagged cargo vessel in the Aegean Sea. 
 
-Turkish NTV channel reported that the Greek coast guard opened fire on a Turkish-flagged cargo ship in the Aegean Sea.
+The captain of a Turkishfreight ship on Monday said the Greek coast guard opened fire onhis vessel after he refused an order to dock at a port in theAegean Sea.
 
 
 ### Source:
 
-1. [Sputnik International](https://sputniknews.com/asia/201707031055188074-greece-turkey-ship-aegean/)
+1. [Reuters](http://www.reuters.com/article/greece-turkey-ship-idUSL8N1JU3XX)
+2. [Sputnik International](https://sputniknews.com/asia/201707031055188074-greece-turkey-ship-aegean/)
 
 ### Related:
 
@@ -19,5 +20,5 @@ Turkish NTV channel reported that the Greek coast guard opened fire on a Turkish
 6. [NATO, during a two-day meeting, considers request from Turkey and Greece to monitor migrant transit in the Aegean Sea and to combat human traffickers  squeezing refugees onto unsafe boats. ](/news/2016/02/10/nato-during-a-two-day-meeting-considers-request-from-turkey-and-greece-to-monitor-migrant-transit-in-the-aegean-sea-and-to-combat-human-tr.md) _Context: Aegean Sea_
 7. [A boat carrying Iraqi Kurd migrants sinks off the Greek island of Samos  in the Aegean Sea off Turkey's Anatolian coast, killing at least 24 people, including several children, with 11 others missing. ](/news/2016/01/28/a-boat-carrying-iraqi-kurd-migrants-sinks-off-the-greek-island-of-samos-in-the-aegean-sea-off-turkey-s-anatolian-coast-killing-at-least-24.md) _Context: Aegean Sea_
 8. [A Russian warship fires warning shots at a Turkish vessel in the Aegean Sea to "avoid a collision", according to the Russian Defence Ministry. ](/news/2015/12/13/a-russian-warship-fires-warning-shots-at-a-turkish-vessel-in-the-aegean-sea-to-avoid-a-collision-according-to-the-russian-defence-ministr.md) _Context: Aegean Sea_
-9. [Greek prime minister Alexis Tsipras lashes out at European "ineptness" in handling the continent's massive immigration crisis. The Associated Press reports 31 more people -- mostly children -- drowned in shipwrecks in the Mediterranean Sea near the islands of Kalymnos and Rhodes. Turkey's state-run agency says four children drowned and two others are missing after two new accidents with boats headed to Greece's Lesbos and Samos islands. The death toll in the Aegean Sea over the past three days is at least 50. The Greek coast guard says they rescued 600 people in the past 24 hours, while thousands more made it safely from Turkey to Greece's southeastern islands. ](/news/2015/10/30/greek-prime-minister-alexis-tsipras-lashes-out-at-european-ineptness-in-handling-the-continent-s-massive-immigration-crisis-the-associate.md) _Context: Aegean Sea_
-10. [An extensive search is underway in the northeastern Aegean Sea off the Greek island of Lesbos for at least 34 people missing from a boat that sank yesterday. Some 242 people were rescued but eight died, five children, two men and a woman. ](/news/2015/10/29/an-extensive-search-is-underway-in-the-northeastern-aegean-sea-off-the-greek-island-of-lesbos-for-at-least-34-people-missing-from-a-boat-tha.md) _Context: Aegean Sea_
+9. [ The Greek coast guard and the European Union border agency Frontex, in six separate operations, rescue a total of 383 migrants attempting to sail from Turkey to the eastern Greek islands. ](/news/2015/11/7/the-greek-coast-guard-and-the-european-union-border-agency-frontex-in-six-separate-operations-rescue-a-total-of-383-migrants-attempting-t.md) _Context: Greek coast guard_
+10. [Greek prime minister Alexis Tsipras lashes out at European "ineptness" in handling the continent's massive immigration crisis. The Associated Press reports 31 more people -- mostly children -- drowned in shipwrecks in the Mediterranean Sea near the islands of Kalymnos and Rhodes. Turkey's state-run agency says four children drowned and two others are missing after two new accidents with boats headed to Greece's Lesbos and Samos islands. The death toll in the Aegean Sea over the past three days is at least 50. The Greek coast guard says they rescued 600 people in the past 24 hours, while thousands more made it safely from Turkey to Greece's southeastern islands. ](/news/2015/10/30/greek-prime-minister-alexis-tsipras-lashes-out-at-european-ineptness-in-handling-the-continent-s-massive-immigration-crisis-the-associate.md) _Context: Aegean Sea_

@@ -39,5 +39,8 @@ _Context: Chris Christie, New Jersey, Politics of New Jersey, budget crisis_
 ### [Pope Francis ousts conservative cardinal Gerhard Ludwig Muller. ](/news/2017/07/1/pope-francis-ousts-conservative-cardinal-gerhard-ludwig-ma1-4ller.md)
 Francis declined to renew Cardinal Gerhard Ludwig Müller’s mandate to lead the Congregation for the Doctrine of the Faith.
 
+### [Philip Greaves is sworn in as acting Governor-General of Barbados following the retirement of Sir Elliott Belgrave. ](/news/2017/07/1/philip-greaves-is-sworn-in-as-acting-governor-general-of-barbados-following-the-retirement-of-sir-elliott-belgrave.md)
+_Context: Elliott Belgrave, Governor-General of Barbados, Philip Greaves_
+
 ## [Previous Day...](/news/2017/06/30/index.md)
 
