@@ -8,7 +8,8 @@
 ### Source:
 
 1. [Boston Globe via MSN](http://www.msn.com/en-us/news/politics/photos-show-christie-lounging-at-nj-state-beach-closed-due-to-government-shutdown/ar-BBDDIE6?li=BBnb7Kz&ocid=iehp)
-2. [Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2017/07/03/chris-christie-enjoyed-a-closed-beach-then-got-flamed-but-he-definitely-did-not-get-a-tan/?utm_term=.561fb246f075)
+2. [New Jersey Department of Environmental Protection](http://www.state.nj.us/dep/parksandforests/)
+3. [Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2017/07/03/chris-christie-enjoyed-a-closed-beach-then-got-flamed-but-he-definitely-did-not-get-a-tan/?utm_term=.561fb246f075)
 
 ### Related:
 
