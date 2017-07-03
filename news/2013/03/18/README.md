@@ -1,7 +1,7 @@
 ## [2013-03-18](/news/2013/03/18/index.md)
 
 ### [Syrian civil war:Fighter jets from the Syrian Air Force fire rockets into northern Lebanon with no casualties reported. ](/news/2013/03/18/syrian-civil-war-pfighter-jets-from-the-syrian-air-force-fire-rockets-into-northern-lebanon-with-no-casualties-reported.md)
-_Context: Lebanon, Syrian Air Force, war_
+_Context: Lebanon, Syrian Air Force, Syrian Civil War_
 
 ### [War in Somalia:A car bombing in the center of the Somali capital, Mogadishu, kills at least 10 people and injures 20 others. ](/news/2013/03/18/war-in-somalia-pa-car-bombing-in-the-center-of-the-somali-capital-mogadishu-kills-at-least-10-people-and-injures-20-others.md)
 _Context: Mogadishu, Somalia, War in Somalia (2009-present), car bombing_

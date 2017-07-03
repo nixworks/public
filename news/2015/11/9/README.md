@@ -7,7 +7,7 @@ A Jordanian policeman opens fire at a police training centre outside Amman, kill
 N&#x27;Djamena (AFP) - Chad&#x27;s government Monday decreed a state of emergency in the flashpoint Lake Chad region Monday, which also straddles Nigeria, Cameroon and Niger and is frequently targeted by Boko Haram Islamists. The announcement came as two female suicide bombers staged a fresh attack on
 
 ### [Using social media, Russian investigative bloggers from the Conflict Intelligence Team photo-geolocate three Russian military personnel outside expected air support operations areas -- evidence of what the group says may be a broader Russian military role in Syria. ](/news/2015/11/9/using-social-media-russian-investigative-bloggers-from-the-conflict-intelligence-team-photo-geolocate-three-russian-military-personnel-outs.md)
-_Context: Russia, Russian military, Russian military intervention in the Syrian Civil War, Syria, air support, blogger, photo-geolocate, social media, war_
+_Context: Russia, Russian military, Russian military intervention in the Syrian Civil War, Syria, Syrian Civil War, air support, blogger, photo-geolocate, social media_
 
 ### [ In the U.S., after mounting criticism over his handling of racial issues, University of Missouri System president Tim Wolfe announces his resignation; the Board of Curators votes to accept his resignation. R. Bowen Loftin, chancellor of the flagship Columbia campus, announces he will step down from his post by the end of the year. ](/news/2015/11/9/in-the-u-s-after-mounting-criticism-over-his-handling-of-racial-issues-university-of-missouri-system-president-tim-wolfe-announces-his-r.md)
 University of Missouri system president Tim Wolfe resigned Monday amid student protests, and MU Chancellor R. Bowen Loftin announced he will transition to a new role at the end of this year.
@@ -25,7 +25,7 @@ Cyclone Megh slammed into the Yemeni island of Socotra with winds of 127 mph on 
 Slovenian government said Monday it would take urgent measures to strengthen control of its Schengen border with Croatia, fearing an expected new wave of migrants would be scarcely manageable. &quot;The government has prepared additional urgent measures to manage the migrants&#x27; flow, including the
 
 ### [Human Rights Watch releases a report finding, because of  a language barrier, integration issues, and financial difficulties, more than 400,000 Syrian refugee children in Turkey are not able to attend school despite the  Turkish government allowing them access to the Turkish schooling system. ](/news/2015/11/9/human-rights-watch-releases-a-report-finding-because-of-a-language-barrier-integration-issues-and-financial-difficulties-more-than-400.md)
-_Context: Human Rights Watch, Syria, Turkey, Turkish government, Turkish schooling system, war_
+_Context: Human Rights Watch, Syria, Syrian Civil War, Turkey, Turkish government, Turkish schooling system_
 
 ### [Detainees at Australia's Christmas Island Immigration Reception and Processing Centre riot, following the death of an asylum seeker. ](/news/2015/11/9/detainees-at-australia-s-christmas-island-immigration-reception-and-processing-centre-riot-following-the-death-of-an-asylum-seeker.md)
 _Context: Australia, Christmas Island Immigration Reception and Processing Centre_

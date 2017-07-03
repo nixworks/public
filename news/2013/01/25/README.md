@@ -1,7 +1,7 @@
 ## [2013-01-25](/news/2013/01/25/index.md)
 
 ### [Syrian civil war:Two car bombs explode in the Syrian controlled part of Golan Heights killing 8 people. ](/news/2013/01/25/syrian-civil-war-ptwo-car-bombs-explode-in-the-syrian-controlled-part-of-golan-heights-killing-8-people.md)
-_Context: Golan Heights, war_
+_Context: Golan Heights, Syrian Civil War_
 
 ### [Northern Mali conflict:The Malian army retakes the town of Hombori after driving Islamist forces out. ](/news/2013/01/25/northern-mali-conflict-pthe-malian-army-retakes-the-town-of-hombori-after-driving-islamist-forces-out.md)
 French&#x20;and&#x20;Malian&#x20;troops&#x20;were&#x20;advancing&#x20;on&#x20;Gao&#x20;on&#x20;Friday&#x20;and&#x20;had&#x20;taken&#x20;the&#x20;nearby&#x20;town&#x20;of&#x20;Hombori.&#x20;More&#x20;than&#x20;9,000&#x20;refugees&#x20;have&#x20;fled&#x20;northern&#x20;Mali&#x20;since&#x20;the&#x20;French&#x20;joined&#x20;the&#x20;Malian&#x20;troops&#x20;in&#x20;an&#x20;offensive&#x20;against&#x20;Islamist&#x20;groups&#x20;on&#x20;and&#x20;Timbuktu&#x20;is...

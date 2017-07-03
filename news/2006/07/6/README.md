@@ -28,7 +28,7 @@ _Context: People's Republic of China, Taiwan, United States, test_
 _Context: North Korea, South Korea, launch_
 
 ### [ The Nathula Pass between India and China, sealed during the Sino-Indian War in 1962, reopens after 44 years. (](/news/2006/07/6/the-nathula-pass-between-india-and-china-sealed-during-the-sino-indian-war-in-1962-reopens-after-44-years.md)
-_Context: India, Nathula Pass, People's Republic of China, Sino-Indian War_
+_Context: 1962 Sino-Indian War, India, Nathula Pass, People's Republic of China_
 
 ### [ Sectarian violence in Iraq: A car bomb explodes outside a Shi'ite Muslim shrine near the holy city of Najaf in Iraq, killing at least seven people. ](/news/2006/07/6/sectarian-violence-in-iraq-a-car-bomb-explodes-outside-a-shi-ite-muslim-shrine-near-the-holy-city-of-najaf-in-iraq-killing-at-least-seven.md)
 _Context: Iraq, Najaf, Shi'ite, sectarian conflict_

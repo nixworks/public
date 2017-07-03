@@ -4,7 +4,7 @@
 The blast happened at the time when dozens of people were busy shopping in the vegetable market located in Parachinar area of Kurram Agency, a semi-autonomous tribal region along Pakistan-Afghanistan.
 
 ### [A car bomb attack occurs in the Rakban refugee camp near the Jordanian border. Casualty counts are currently unknown and no one has yet taken credit for the attack. ](/news/2017/01/21/a-car-bomb-attack-occurs-in-the-rakban-refugee-camp-near-the-jordanian-border-casualty-counts-are-currently-unknown-and-no-one-has-yet-take.md)
-_Context: Jordan, war_
+_Context: Jordan, Syrian Civil War_
 
 ### [Two suicide bombers detonate their explosives during a firefight with Saudi security forces in Jeddah. ](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.md)
 _Context: Jeddah, Saudi Arabia_

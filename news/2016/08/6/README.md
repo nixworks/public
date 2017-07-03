@@ -1,7 +1,7 @@
 ## [2016-08-6](/news/2016/08/6/index.md)
 
 ### [The Syrian Observatory for Human Rights claims that 10 people have been killed in an air strike on a hospital in the town of Milis in Syria's Idlib province. ](/news/2016/08/6/the-syrian-observatory-for-human-rights-claims-that-10-people-have-been-killed-in-an-air-strike-on-a-hospital-in-the-town-of-milis-in-syria.md)
-_Context: Idlib province, Syria, Syrian Observatory for Human Rights, war_
+_Context: Idlib province, Syria, Syrian Civil War, Syrian Observatory for Human Rights_
 
 ### [A man attacks two policewomen with a machete in Charleroi, Belgium, whilst reportedly shouting Allahu Akbar. The attacker was shot dead by another police officer. The policewomen are being treated in hospital for non-life-threatening wounds. The attack is being investigated as a possible act of terrorism. ](/news/2016/08/6/a-man-attacks-two-policewomen-with-a-machete-in-charleroi-belgium-whilst-reportedly-shouting-allahu-akbar-the-attacker-was-shot-dead-by-a.md)
 Two Belgian policewomen on guard outside a police station in the city of Charleroi were wounded in a machete attack on Saturday by an assailant who shouted &ldquo;Allahu Akbar&rdquo;, police said.

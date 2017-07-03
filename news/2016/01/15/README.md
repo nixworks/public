@@ -10,7 +10,7 @@ _Context: 2016 Jakarta attacks, Jakarta_
 Al Shabaab fighters attacked a remote Somali army base and entered a nearby town close to the border with Kenya on Friday, saying they had killed dozens of Kenyan soldiers in an African Union force supporting the government.
 
 ### [UNICEF confirms severe malnutrition in the besieged Syrian town of Madaya. Russia calls for humanitarian aid to be let into besieged towns like Madaya, Fua and Kafraya. ](/news/2016/01/15/unicef-confirms-severe-malnutrition-in-the-besieged-syrian-town-of-madaya-russia-calls-for-humanitarian-aid-to-be-let-into-besieged-towns-l.md)
-_Context: Al-Fu'ah, Kafraya, Madaya, Russia, Syria, UNICEF, malnutrition, war_
+_Context: Al-Fu'ah, Kafraya, Madaya, Russia, Syria, Syrian Civil War, UNICEF, malnutrition_
 
 ### [Wikipedia celebrates its 15th anniversary. ](/news/2016/01/15/wikipedia-celebrates-its-15th-anniversary.md)
 _Context: Wikipedia_

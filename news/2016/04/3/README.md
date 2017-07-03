@@ -4,7 +4,7 @@
 Azerbaijan announces a &quot;unilateral ceasefire&quot; in fighting with Armenian forces over the disputed Nagorno-Karabakh region, but its opponents say fighting continues.
 
 ### [The Syrian Army retakes control of al-Qaryatayn, Homs Governorate, after driving out ISIL militants. ](/news/2016/04/3/the-syrian-army-retakes-control-of-al-qaryatayn-homs-governorate-after-driving-out-isil-militants.md)
-_Context: Battle of al-Qaryatayn (March-April 2016), Homs Governorate, ISIL, Syrian Army, al-Qaryatayn, war_
+_Context: Battle of al-Qaryatayn (March-April 2016), Homs Governorate, ISIL, Syrian Army, Syrian Civil War, al-Qaryatayn_
 
 ### [Four Sarawakian Malaysians are kidnapped off the coast of Sabah by suspected members of the Abu Sayyaf, a group linked to the Islamic State of Iraq and the Levant. ](/news/2016/04/3/four-sarawakian-malaysians-are-kidnapped-off-the-coast-of-sabah-by-suspected-members-of-the-abu-sayyaf-a-group-linked-to-the-islamic-state.md)
 _Context: Abu Sayyaf, ISIL, Malaysians, Moro attacks on Sabah, Moro conflict, Sabah, Sarawak_

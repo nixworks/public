@@ -7,7 +7,7 @@ Baghdad was hit by two suicide bombers on Thursday in an alleged attack by ISIS 
 Shiite Huthi rebels in Yemen claim to have captured several troops from Saudi Arabia, which is leading a coalition against the insurgents, parading one of the soldiers on television. The Iran-backed rebels&#x27; Al-Masirah television late on Wednesday showed footage of a man dressed in military fatigues
 
 ### [The Syrian Observatory for Human Rights claims that the government has used barrel bombs resulting in the deaths of 21 people in the rebel held town of Bosra in the Daraa Governorate. ](/news/2015/09/17/the-syrian-observatory-for-human-rights-claims-that-the-government-has-used-barrel-bombs-resulting-in-the-deaths-of-21-people-in-the-rebel-h.md)
-_Context: Bosra, Daraa Governorate, Syrian Government, Syrian Observatory for Human Rights, barrel bomb, war_
+_Context: Bosra, Daraa Governorate, Syrian Civil War, Syrian Government, Syrian Observatory for Human Rights, barrel bomb_
 
 ### [The United States Federal Reserve decides to leave interest rates at a record low. ](/news/2015/09/17/the-united-states-federal-reserve-decides-to-leave-interest-rates-at-a-record-low.md)
 The U.S. Federal Reserve kept interest rates unchanged on Thursday in a bow to worries about the global economy, financial market volatility and sluggish inflation at home, but left open the possibility of a modest policy tightening later this year.

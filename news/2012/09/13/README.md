@@ -1,7 +1,7 @@
 ## [2012-09-13](/news/2012/09/13/index.md)
 
 ### [Lakhdar Brahimi, the U.N. and Arab League special envoy for the Syrian civil war, arrives in Damascus; fighting goes on in the east of the capital. ](/news/2012/09/13/lakhdar-brahimi-the-u-n-and-arab-league-special-envoy-for-the-syrian-civil-war-arrives-in-damascus-fighting-goes-on-in-the-east-of-the-c.md)
-_Context: Arab League, Damascus, Lakhdar Brahimi, United Nations, war_
+_Context: Arab League, Damascus, Lakhdar Brahimi, Syrian Civil War, United Nations_
 
 ### [A 1430's painting in a museum in Rotterdam, "The three Mary's at the tomb", is attributed to Jan van Eyck. ](/news/2012/09/13/a-1430-s-painting-in-a-museum-in-rotterdam-the-three-mary-s-at-the-tomb-is-attributed-to-jan-van-eyck.md)
 _Context: Jan van Eyck, Rotterdam, a museum_

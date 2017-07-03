@@ -19,7 +19,7 @@ _Context: Comedy Central, Futurama_
 The company’s board was sued over the phone-hacking scandal and the purchase of a TV production company run by Rupert Murdoch’s daughter Elisabeth.
 
 ### [The European Union lifts an oil trade embargo it imposed on Syria during the early stages of the civil war to help the finances of the opposition. ](/news/2013/04/22/the-european-union-lifts-an-oil-trade-embargo-it-imposed-on-syria-during-the-early-stages-of-the-civil-war-to-help-the-finances-of-the-oppos.md)
-_Context: European Union, Syria, embargo, war_
+_Context: European Union, Syria, Syrian Civil War, embargo_
 
 ### [The European Union lifts all sanctions and trade embargoes on Myanmar excluding arms trade and other trade of equipment that could be used for internal repression, citing the improvement of political freedoms. ](/news/2013/04/22/the-european-union-lifts-all-sanctions-and-trade-embargoes-on-myanmar-excluding-arms-trade-and-other-trade-of-equipment-that-could-be-used-f.md)
 _Context: European Union, Myanmar, embargo_

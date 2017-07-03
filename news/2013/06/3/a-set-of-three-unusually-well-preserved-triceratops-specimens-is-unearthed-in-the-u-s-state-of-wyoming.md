@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Numerous U.S. states, including California and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-and-new-york-reject-requests-for-voter-registration-data-from-president-donald-trump-s-voter-fra.md) _Context: U.S. state_
+1. [Numerous U.S. states, including California, Mississippi, Kentucky and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-mississippi-kentucky-and-new-york-reject-requests-for-voter-registration-data-from-president-d.md) _Context: U.S. state_
 2. [Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia between Republican Karen Handel and Democratic Jon Ossoff, where Republican Handel wins the election by a narrow margin. ](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-between-republican-karen-handel-and-democratic-jon.md) _Context: U.S. state_
 3. [With a turnout of 23% eligible voters, 97% of the voters in Puerto Rico request that the island become a U.S. state. ](/news/2017/06/11/with-a-turnout-of-23-eligible-voters-97-of-the-voters-in-puerto-rico-request-that-the-island-become-a-u-s-state.md) _Context: U.S. state_
 4. [Registered Democratic voters in the U.S. state of Wyoming gather, by county,  for the  Wyoming Democratic caucuses. Bernie Sanders is projected to win. ](/news/2016/04/9/registered-democratic-voters-in-the-u-s-state-of-wyoming-gather-by-county-for-the-wyoming-democratic-caucuses-bernie-sanders-is-projec.md) _Context: Wyoming_

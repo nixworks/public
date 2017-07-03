@@ -1,7 +1,7 @@
 ## [2012-07-30](/news/2012/07/30/index.md)
 
 ### [Syrian civil war:200,000 people flee intense fighting in Syria's largest city Aleppo. ](/news/2012/07/30/syrian-civil-war-p200-000-people-flee-intense-fighting-in-syria-s-largest-city-aleppo.md)
-_Context: Aleppo, war_
+_Context: Aleppo, Syrian Civil War_
 
 ### [Three women from Russian feminist punk rock band Pussy Riot go on trial in Moscow for holding an "unsanctioned performance" which called for the ouster of Vladimir Putin at Moscow's Christ the Saviour Cathedral in February. ](/news/2012/07/30/three-women-from-russian-feminist-punk-rock-band-pussy-riot-go-on-trial-in-moscow-for-holding-an-unsanctioned-performance-which-called-for.md)
 Three members of a Russian female punk band went on trial on Monday, facing up to seven years in jail for protesting against Vladimir Putin inside a Moscow cathedral, a prosecution they said was aimed at spreading fear and silencing dissent.

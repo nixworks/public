@@ -4,7 +4,7 @@
 _Context: Afghanistan, Helmand, Taliban, War in Afghanistan_
 
 ### [Some 13,000 refugees have crossed into Turkey as Syrian Kurd People's Protection Units  encircle the ISIL-held town of Suluk. ](/news/2015/06/13/some-13-000-refugees-have-crossed-into-turkey-as-syrian-kurd-people-s-protection-units-encircle-the-isil-held-town-of-suluk.md)
-_Context: Islamic State in Iraq and the Levant, Kurd, Suluk, Syria, Turkey, YPG, war_
+_Context: Islamic State in Iraq and the Levant, Kurd, Suluk, Syria, Syrian Civil War, Turkey, YPG_
 
 ### [An American  air strike targeting jihadist Mokhtar Belmokhtar in Libya reportedly kills him. ](/news/2015/06/13/an-american-air-strike-targeting-jihadist-mokhtar-belmokhtar-in-libya-reportedly-kills-him.md)
 _Context: Libya, Mokhtar Belmokhtar, War on Terror_

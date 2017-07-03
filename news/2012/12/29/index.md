@@ -1,7 +1,7 @@
 ## [2012-12-29](/news/2012/12/29/index.md)
 
 ### [Syrian civil war:The LCC report that up to 400 people have been killed across Syria on Saturday, including about 200 reported executed by the Syrian Army in the Deir Ballba neighborhood of Homs. ](/news/2012/12/29/syrian-civil-war-pthe-lcc-report-that-up-to-400-people-have-been-killed-across-syria-on-saturday-including-about-200-reported-executed-by-t.md)
-_Context: Homs, LCC, Syria, Syrian Army, war_
+_Context: Homs, LCC, Syria, Syrian Army, Syrian Civil War_
 
 ### [2012 Central African Republic rebellion:Rebels in the Central African Republic have made fresh gains and are now in control of a key central city. ](/news/2012/12/29/2012-central-african-republic-rebellion-prebels-in-the-central-african-republic-have-made-fresh-gains-and-are-now-in-control-of-a-key-centra.md)
 Rebels in the Central African Republic have made fresh gains and are now in control of a key central city, officials say.

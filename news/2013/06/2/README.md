@@ -1,7 +1,7 @@
 ## [2013-06-2](/news/2013/06/2/index.md)
 
 ### [Syrian Civil War:A car bomb explodes near a police station in the Damascus suburb of Jobar, killing at least eight members of the security forces and injuring civilians. ](/news/2013/06/2/syrian-civil-war-pa-car-bomb-explodes-near-a-police-station-in-the-damascus-suburb-of-jobar-killing-at-least-eight-members-of-the-security.md)
-_Context: Damascus, Jobar, car bomb, war_
+_Context: Damascus, Jobar, Syrian Civil War, car bomb_
 
 ### [War in Afghanistan (2001-present):Taliban insurgents attack two checkpoints in the Kamdesh District in eastern Afghanistan killing four Afghan police officers ](/news/2013/06/2/war-in-afghanistan-2001apresent-ptaliban-insurgents-attack-two-checkpoints-in-the-kamdesh-district-in-eastern-afghanistan-killing-four-a.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

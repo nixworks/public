@@ -7,7 +7,7 @@ _Context: ISIL, Puntland, Qandala, War in Somalia (2009-present)_
 Gunmen rounded up and shot dozens of civilians in a remote part of Afghanistan on Tuesday, UN officials said, in an attack that prompted angry protests from residents about government failure to protect them.
 
 ### [Suspected Syrian or Russian warplanes conduct airstrikes on a residential area and a school in Haas village in rebel-held Idlib Governorate, killing at least 26 civilians, most of them children. ](/news/2016/10/26/suspected-syrian-or-russian-warplanes-conduct-airstrikes-on-a-residential-area-and-a-school-in-haas-village-in-rebel-held-idlib-governorate.md)
-_Context: Idlib, Russian, Syrian, war_
+_Context: Idlib, Russian, Syrian, Syrian Civil War_
 
 ### [A series of earthquakes strikes a region of Central Italy already impacted by a major quake in August. Many buildings are damaged or destroyed across several towns. ](/news/2016/10/26/a-series-of-earthquakes-strikes-a-region-of-central-italy-already-impacted-by-a-major-quake-in-august-many-buildings-are-damaged-or-destroy.md)
 _Context: Central Italy, major quake in August, series of earthquakes_

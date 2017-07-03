@@ -1,7 +1,7 @@
 ## [2008-08-13](/news/2008/08/13/index.md)
 
 ### [ Bill Gwatney, the current state Chairman of the Democratic Party of Arkansas is shot and killed at the Party headquarters in Little Rock, Arkansas. The man who shot Gwatney is later shot dead by police during a pursuit. ](/news/2008/08/13/bill-gwatney-the-current-state-chairman-of-the-democratic-party-of-arkansas-is-shot-and-killed-at-the-party-headquarters-in-little-rock-a.md)
-_Context: Bill Gwatney, Democratic Party of Arkansas, Little Rock_
+_Context: Bill Gwatney, Democratic Party of Arkansas, Little Rock, Arkansas_
 
 ### [ Princess Lilian of Sweden is taken to hospital after falling and breaking her hip. ](/news/2008/08/13/princess-lilian-of-sweden-is-taken-to-hospital-after-falling-and-breaking-her-hip.md)
 _Context: Lilian of Sweden, hip_

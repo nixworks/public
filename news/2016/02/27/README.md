@@ -1,7 +1,7 @@
 ## [2016-02-27](/news/2016/02/27/index.md)
 
 ### [A truce is in effect, as of midnight. Russian Air Force attacks on opposition positions were reported to have been intensified before the truce took effect. ](/news/2016/02/27/a-truce-is-in-effect-as-of-midnight-russian-air-force-attacks-on-opposition-positions-were-reported-to-have-been-intensified-before-the-tr.md)
-_Context: Russian, war_
+_Context: Russian, Syrian Civil War_
 
 ### [A suicide bomber kills at least 26 and injures nearly 50 in Afghanistan's eastern Kunar Province near the border with Pakistan. ](/news/2016/02/27/a-suicide-bomber-kills-at-least-26-and-injures-nearly-50-in-afghanistan-s-eastern-kunar-province-near-the-border-with-pakistan.md)
 A SUICIDE bomber has killed an Afghan militia commander and at least 10 others in the eastern province of Kunar near the border with Pakistan, officials say.

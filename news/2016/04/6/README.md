@@ -1,7 +1,7 @@
 ## [2016-04-6](/news/2016/04/6/index.md)
 
 ### [The Syrian Army and its allies launch an offensive south of Aleppo. ](/news/2016/04/6/the-syrian-army-and-its-allies-launch-an-offensive-south-of-aleppo.md)
-_Context: Aleppo, Aleppo offensive (April 2016), Syrian Army, war_
+_Context: Aleppo, Aleppo offensive (April 2016), Syrian Army, Syrian Civil War_
 
 ### [Hedge fund impresario Bill Ackman faces skeptical questioning from investors after his Pershing Square fund loses big on both Herbalife and Valeant Pharmaceuticals. ](/news/2016/04/6/hedge-fund-impresario-bill-ackman-faces-skeptical-questioning-from-investors-after-his-pershing-square-fund-loses-big-on-both-herbalife-and.md)
 _Context: Bill Ackman, Hedge fund, Herbalife, Pershing Square, Valeant Pharmaceuticals_

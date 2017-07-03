@@ -13,7 +13,7 @@ A dust storm enveloped a swathe of northern China yesterday dragging down air qu
 Rome -- The Vatican establishes full relations with Myanmar for the first time after a cordial meeting May 4 between Francis and Aung San Suu Kyi.
 
 ### [A memorandum is signed by Russia, Iran, and Turkey calling for de-escalation of the Syrian Civil War, although neither the Syrian government nor the Syrian opposition are signatories. ](/news/2017/05/4/a-memorandum-is-signed-by-russia-iran-and-turkey-calling-for-de-escalation-of-the-syrian-civil-war-although-neither-the-syrian-government.md)
-_Context: Iran, Russia, Syria, Syrian opposition, Turkey, de-escalation, memorandum, war_
+_Context: Iran, Russia, Syria, Syrian Civil War, Syrian opposition, Turkey, de-escalation, memorandum_
 
 ### [The British people vote locally. ](/news/2017/05/4/the-british-people-vote-locally.md)
 Thousands of voters across England, Scotland and Wales are going to the polls today to decide the fate of almost 5,000 council seats and to elect powerful new metro mayors.

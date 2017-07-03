@@ -4,7 +4,7 @@
 At least 5 countries issue travel warnings after the Davao City explosion that killed 14 and left more than 60 others wounded
 
 ### [Syrian government forces advance around and encircle Aleppo in order to try and impose a siege. ](/news/2016/09/4/syrian-government-forces-advance-around-and-encircle-aleppo-in-order-to-try-and-impose-a-siege.md)
-_Context: Aleppo, Syrian Government, advance around and encircle, war_
+_Context: Aleppo, Syrian Civil War, Syrian Government, advance around and encircle_
 
 ### [Mother Teresa, known for working with the desperately poor, is canonized in a ceremony at the Vatican. ](/news/2016/09/4/mother-teresa-known-for-working-with-the-desperately-poor-is-canonized-in-a-ceremony-at-the-vatican.md)
 Mother Teresa, revered for her work with the poor in India, is proclaimed a saint by Pope Francis in a Vatican ceremony attended by tens of thousands.

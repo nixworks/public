@@ -1,7 +1,7 @@
 ## [2012-09-19](/news/2012/09/19/index.md)
 
 ### [Syrian civil war:Syrian opposition forces facilitate infiltration from Turkey by seizing control of a border crossing in the province of Ar-Raqqah. ](/news/2012/09/19/syrian-civil-war-psyrian-opposition-forces-facilitate-infiltration-from-turkey-by-seizing-control-of-a-border-crossing-in-the-province-of-ar.md)
-_Context: Ar-Raqqah, facilitate infiltration, war_
+_Context: Ar-Raqqah, Syrian Civil War, facilitate infiltration_
 
 ### [A car bomb targeting a van belonging to the Pakistan Air Force explodes in the Pakistani city of Peshawar, killing at least nine people and wounding up to 20 others. ](/news/2012/09/19/a-car-bomb-targeting-a-van-belonging-to-the-pakistan-air-force-explodes-in-the-pakistani-city-of-peshawar-killing-at-least-nine-people-and.md)
 _Context: Pakistan, Pakistan Air Force, Peshawar, car bomb_

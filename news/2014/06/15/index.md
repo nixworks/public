@@ -1,7 +1,7 @@
 ## [2014-06-15](/news/2014/06/15/index.md)
 
 ### [The Syrian Military retakes control of Kessab in north-western Syria. ](/news/2014/06/15/the-syrian-military-retakes-control-of-kessab-in-north-western-syria.md)
-_Context: Kessab, Syria, Syrian Military, war_
+_Context: Kessab, Syria, Syrian Civil War, Syrian Military_
 
 ### [Airstrikes in the northwestern tribal area bordering Afghanistan kill as many as 100 militants. ](/news/2014/06/15/airstrikes-in-the-northwestern-tribal-area-bordering-afghanistan-kill-as-many-as-100-militants.md)
 A comprehensive operation against terrorists is being launched upon direction of govt.

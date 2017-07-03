@@ -19,7 +19,7 @@ Stolen artworks, cultural items and archaeological items recovered in a European
 Activists have condemned as an “assault on women&#039;s health”, a decision by Donald Trump to block US funding for health clinics around the world that provide abortion services. One of the three executive orders Mr Trump signed on his first Monday morning as president, was to reinstate the so-called Mexico City Policy, a rule originally introduced by Ronald Reagan.
 
 ### [Peace talks in Astana, Kazakhstan, between the Syrian opposition and the Syrian Government, meant to build on a fragile ceasefire currently in effect in the Syrian Civil War, end with no breakthrough reported. ](/news/2017/01/23/peace-talks-in-astana-kazakhstan-between-the-syrian-opposition-and-the-syrian-government-meant-to-build-on-a-fragile-ceasefire-currently.md)
-_Context: Astana, Kazakhstan, Syrian government, Syrian opposition, Syrian peace process, war_
+_Context: Astana, Kazakhstan, Syrian Civil War, Syrian government, Syrian opposition, Syrian peace process_
 
 ## [Previous Day...](/news/2017/01/22/index.md)
 

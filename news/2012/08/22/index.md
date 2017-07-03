@@ -1,7 +1,7 @@
 ## [2012-08-22](/news/2012/08/22/index.md)
 
 ### [Syrian civil war:A Chinese state news commentary on recent U.S. "red line" remarks states that, once again, Western powers are digging deep for excuses to intervene militarily in another conflict-torn Middle East country. It sharply denounces the U.S.' "calculus". ](/news/2012/08/22/syrian-civil-war-pa-chinese-state-news-commentary-on-recent-u-s-red-line-remarks-states-that-once-again-western-powers-are-digging-deep.md)
-_Context: China, Xinhua News Agency, conflict-torn Middle East, intervene militarily, recent, war_
+_Context: China, Syrian Civil War, Xinhua News Agency, conflict-torn Middle East, intervene militarily, recent_
 
 ### [At least 48 people are killed during clashes, over grazing rights for cattle, between the Pokomo and Orma tribes in Kenya. ](/news/2012/08/22/at-least-48-people-are-killed-during-clashes-over-grazing-rights-for-cattle-between-the-pokomo-and-orma-tribes-in-kenya.md)
 _Context: Kenya, Orma, Pokomo, clashes_

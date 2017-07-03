@@ -1,7 +1,7 @@
 ## [2012-08-24](/news/2012/08/24/index.md)
 
 ### [Syrian civil war:Three people, including a 28-year-old anti-Assad sheikh, are killed in combat between pro-Assad and anti-Assad groups in the Lebanese city of Tripoli. ](/news/2012/08/24/syrian-civil-war-pthree-people-including-a-28-year-old-anti-assad-sheikh-are-killed-in-combat-between-pro-assad-and-anti-assad-groups-in-t.md)
-_Context: Lebanon, Sheikh, Syria, Syrian opposition, Tripoli, Lebanon, combat, war_
+_Context: Lebanon, Sheikh, Syria, Syrian Civil War, Syrian opposition, Tripoli, Lebanon, combat_
 
 ### [War on terror:Afghanistan: Insurgents kill four men including three soldiers in the Afghan Army in Paktia Province. ](/news/2012/08/24/war-on-terror-pafghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.md)
 U.S. missiles slammed into three compounds close to the Afghan border Friday, killing 18 suspected militants, Pakistani officials said.

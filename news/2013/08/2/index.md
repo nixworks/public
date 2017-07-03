@@ -1,7 +1,7 @@
 ## [2013-08-2](/news/2013/08/2/index.md)
 
 ### [Syrian Civil War:An ammunition depot explodes in Homs, Syria, killing at least 40 people and critically injuring many more. ](/news/2013/08/2/syrian-civil-war-pan-ammunition-depot-explodes-in-homs-syria-killing-at-least-40-people-and-critically-injuring-many-more.md)
-_Context: Homs, Syria, war_
+_Context: Homs, Syria, Syrian Civil War_
 
 ### [The United States Food and Drug Administration names Taylor Farms as the source of cyclospora parasite tainted salads that sickened 223 diners in the US states of Nebraska and Iowa. ](/news/2013/08/2/the-united-states-food-and-drug-administration-names-taylor-farms-as-the-source-of-cyclospora-parasite-tainted-salads-that-sickened-223-dine.md)
 Taylor Farms of Mexico, a division of a California-based produce supplier whose greens go to national restaurants including Red Lobster and Olive Garden, shipped parasite-tainted salad mix that has sickened hundreds in Nebraska and Iowa, U.S. health officials said Friday.

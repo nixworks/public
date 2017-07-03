@@ -1,7 +1,7 @@
 ## [2014-05-15](/news/2014/05/15/index.md)
 
 ### [Syrian Civil War:A car bomb explodes near the Turkish border, killing at least 29 people and wounding dozens of others.  ](/news/2014/05/15/syrian-civil-war-pa-car-bomb-explodes-near-the-turkish-border-killing-at-least-29-people-and-wounding-dozens-of-others.md)
-_Context: car bomb, war_
+_Context: Syrian Civil War, car bomb_
 
 ### [Two Palestinians are reportedly killed by Israeli soldiers at demonstrations near a prison where Palestinian militants are held, the Palestinians were throwing stones and waving flags. ](/news/2014/05/15/two-palestinians-are-reportedly-killed-by-israeli-soldiers-at-demonstrations-near-a-prison-where-palestinian-militants-are-held-the-palesti.md)
 Israeli forces shot dead two Palestinians during a stone-throwing protest on Thursday marking the &quot;Nakba&quot;, the annual commemoration of what Palestinians term the catastrophe of their displacement when Israel was founded.

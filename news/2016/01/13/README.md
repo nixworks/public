@@ -10,7 +10,7 @@ South Korea says the &quot;enemy&#039;s unidentified object invaded&quot; its te
 Afghan security forces exchanged fire with gunmen barricaded in a house near the Pakistan consulate in the eastern city of Jalalabad after a suicide bomber blew himself up today, officials said.
 
 ### [Following the death of its leader, Zahran Alloush, Jaysh al-Islam names Essam al-Buwaydhani as its new leader. ](/news/2016/01/13/following-the-death-of-its-leader-zahran-alloush-jaysh-al-islam-names-essam-al-buwaydhani-as-its-new-leader.md)
-_Context: Essam al-Buwaydhani, Jaysh al-Islam, Zahran Alloush, war_
+_Context: Essam al-Buwaydhani, Jaysh al-Islam, Syrian Civil War, Zahran Alloush_
 
 ### [Turkish Interior Minister Efkan Ala says yesterday's ISIS suicide bomber had registered with Turkish immigration authorities but was not on any known militant suspects list. ](/news/2016/01/13/turkish-interior-minister-efkan-ala-says-yesterday-s-isis-suicide-bomber-had-registered-with-turkish-immigration-authorities-but-was-not-on.md)
 Three Russian citizens have been arrested in southern Turkey during a raid on a suspected ISIS terror cell, following Tuesday&rsquo;s deadly suicide bombing in Istanbul, according to Turkish media reports. Turkey&rsquo;s Dogan news agency quoted a statement from military authorities saying the three men had...

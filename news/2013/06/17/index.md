@@ -1,7 +1,7 @@
 ## [2013-06-17](/news/2013/06/17/index.md)
 
 ### [The 39th G8 summit gets underway in Northern Ireland with the Syrian civil war high on the agenda. ](/news/2013/06/17/the-39th-g8-summit-gets-underway-in-northern-ireland-with-the-syrian-civil-war-high-on-the-agenda.md)
-_Context: G8 summit, Northern Ireland, war_
+_Context: G8 summit, Northern Ireland, Syrian Civil War_
 
 ### [Turkey, South Africa and Russia react angrily to the British government and demand an explanation for the revelations that their politicians and senior officials were spied on and bugged during the 2009 G20 summit in London ](/news/2013/06/17/turkey-south-africa-and-russia-react-angrily-to-the-british-government-and-demand-an-explanation-for-the-revelations-that-their-politicians.md)
 _Context: British government, G20, London, Russia, South Africa, Turkey_

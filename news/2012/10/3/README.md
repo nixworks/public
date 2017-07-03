@@ -1,7 +1,7 @@
 ## [2012-10-3](/news/2012/10/3/index.md)
 
 ### [Syrian civil war:Syrian refugees in rented houses say the Turkish police in Hatay Province faces them with the choice to either join a refugee camp or go back to Syria. ](/news/2012/10/3/syrian-civil-war-psyrian-refugees-in-rented-houses-say-the-turkish-police-in-hatay-province-faces-them-with-the-choice-to-either-join-a-refu.md)
-_Context: Hatay Province, Syria, Turkish police, choice, refugee camp, refugees from Syria, war_
+_Context: Hatay Province, Syria, Syrian Civil War, Turkish police, choice, refugee camp, refugees from Syria_
 
 ### [Several blasts strike an arms stockpile in the Hezbollah-controlled Bekaa Valley in Lebanon. ](/news/2012/10/3/several-blasts-strike-an-arms-stockpile-in-the-hezbollah-controlled-bekaa-valley-in-lebanon.md)
 _Context: Bekaa Valley, Hezbollah, Lebanon_

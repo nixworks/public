@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Numerous U.S. states, including California and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-and-new-york-reject-requests-for-voter-registration-data-from-president-donald-trump-s-voter-fra.md) _Context: U.S. state_
+1. [Numerous U.S. states, including California, Mississippi, Kentucky and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-mississippi-kentucky-and-new-york-reject-requests-for-voter-registration-data-from-president-d.md) _Context: U.S. state_
 2. [Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia between Republican Karen Handel and Democratic Jon Ossoff, where Republican Handel wins the election by a narrow margin. ](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-between-republican-karen-handel-and-democratic-jon.md) _Context: U.S. state_
 3. [With a turnout of 23% eligible voters, 97% of the voters in Puerto Rico request that the island become a U.S. state. ](/news/2017/06/11/with-a-turnout-of-23-eligible-voters-97-of-the-voters-in-puerto-rico-request-that-the-island-become-a-u-s-state.md) _Context: U.S. state_
 4. [Energy Future Holdings, a Texas electric utility, asks a bankruptcy court in Delaware to confirm a plan that would allow it to exit Chapter 11 after more than two years. ](/news/2016/08/17/energy-future-holdings-a-texas-electric-utility-asks-a-bankruptcy-court-in-delaware-to-confirm-a-plan-that-would-allow-it-to-exit-chapter.md) _Context: Delaware_

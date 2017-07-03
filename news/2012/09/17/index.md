@@ -1,7 +1,7 @@
 ## [2012-09-17](/news/2012/09/17/index.md)
 
 ### [Syrian Civil War: Human rights investigators from the United Nations expand a secret list of people in Syria suspected of committing war crimes. Diplomat Paulo Srgio Pinheiro urges the U.N. Security Council to bring the situation to the International Criminal Court. ](/news/2012/09/17/syrian-civil-war-human-rights-investigators-from-the-united-nations-expand-a-secret-list-of-people-in-syria-suspected-of-committing-war-cri.md)
-_Context: International Criminal Court, Paulo Srgio Pinheiro, Syria, United Nations, United Nations Security Council, mass murders of thousands of political prisoner, suspected, war_
+_Context: International Criminal Court, Paulo Srgio Pinheiro, Syria, Syrian Civil War, United Nations, United Nations Security Council, mass murders of thousands of political prisoner, suspected_
 
 ### [2012 diplomatic missions attacks fallout:The United States ambassador to the United Nations says there was no plot in the U.S. Consulate attack in Benghazi. ](/news/2012/09/17/2012-diplomatic-missions-attacks-fallout-pthe-united-states-ambassador-to-the-united-nations-says-there-was-no-plot-in-the-u-s-consulate-at.md)
 The protest in Libya that killed U.S. Ambassador Chris Stevens and three other Americans last week appears to have begun spontaneously and was &quot;hijacked&quot; by 

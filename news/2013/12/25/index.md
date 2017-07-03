@@ -7,7 +7,7 @@ _Context: Euromaidan, Tetiana Chornovol, Ukrainian_
 Two bombs near a Catholic church and a market in Baghdad kill at least 35 people, as Iraqi Christians celebrated Christmas, officials say.
 
 ### [Pope Francis gives his first ''Urbi et Orbi'' speech calling for peace amidst the Syrian civil war and the 2013 South Sudan political crisis. ](/news/2013/12/25/pope-francis-gives-his-first-urbi-et-orbi-speech-calling-for-peace-amidst-the-syrian-civil-war-and-the-2013-south-sudan-political-crisis.md)
-_Context: 2013 South Sudan political crisis, Pope Francis, Urbi et Orbi, war_
+_Context: 2013 South Sudan political crisis, Pope Francis, Syrian Civil War, Urbi et Orbi_
 
 ### [Eighteen Haitian migrants drown off the Turks and Caicos Islands after their sailboat carrying more than 50 suspected immigrants capsized while being towed into port. ](/news/2013/12/25/eighteen-haitian-migrants-drown-off-the-turks-and-caicos-islands-after-their-sailboat-carrying-more-than-50-suspected-immigrants-capsized-wh.md)
 Eighteen Haitians died on Wednesday morning off the Turks and Caicos islands after a sailboat carrying more than 50 suspected immigrants capsized while being towed into port, officials said.

@@ -1,7 +1,7 @@
 ## [2017-03-30](/news/2017/03/30/index.md)
 
 ### [According to the United Nations High Commissioner for Refugees, the total number of refugees from Syria reaches over five million. ](/news/2017/03/30/according-to-the-united-nations-high-commissioner-for-refugees-the-total-number-of-refugees-from-syria-reaches-over-five-million.md)
-_Context: United Nations High Commissioner for Refugees, refugees from Syria, war_
+_Context: Syrian Civil War, United Nations High Commissioner for Refugees, refugees from Syria_
 
 ### [Several people are wounded in clashes outside the Turkish consulate in Brussels. ](/news/2017/03/30/several-people-are-wounded-in-clashes-outside-the-turkish-consulate-in-brussels.md)
 A NUMBER of people have been attacked and stabbed in Brussels city centre.

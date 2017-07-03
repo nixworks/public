@@ -1,7 +1,7 @@
 ## [2012-10-25](/news/2012/10/25/index.md)
 
 ### [Syrian civil war: The Syrian government announces via its state media that it will suspend military operations from Friday to Monday, during this year's Muslim Eid al-Adha holiday, as part of a ceasefire proposal by U.N. special envoy Lakhdar Brahimi. ](/news/2012/10/25/syrian-civil-war-the-syrian-government-announces-via-its-state-media-that-it-will-suspend-military-operations-from-friday-to-monday-during.md)
-_Context: Eid al-Adha, Lakhdar Brahimi, war_
+_Context: Eid al-Adha, Lakhdar Brahimi, Syrian Civil War_
 
 ### [Official GDP figures indicate the 2012 Summer Olympics helped the UK economy emerge from recession in the three months from July to September, with growth of 1.0%. ](/news/2012/10/25/official-gdp-figures-indicate-the-2012-summer-olympics-helped-the-uk-economy-emerge-from-recession-in-the-three-months-from-july-to-septembe.md)
 The UK economy emerged from recession in the three months from July to September, with growth of 1.0%, helped by the Olympic Games.

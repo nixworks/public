@@ -13,7 +13,7 @@ _Context: Derna, Second Libyan Civil War_
 _Context: Egyptian Army, ISIL, Sinai, Sinai insurgency_
 
 ### [  A mosque bombing in northern Syria kills 15 members of Al Qaida's affiliate Nusra Front. ](/news/2015/07/4/a-mosque-bombing-in-northern-syria-kills-15-members-of-al-qaida-s-affiliate-nusra-front.md)
-_Context: Al Qaida's, Nusra Front, war_
+_Context: Al Qaida's, Nusra Front, Syrian Civil War_
 
 ### [  The Azerbaijani military shoots down two Armenian drones over Azeri positions according to Azerbaijan's defense ministry. ](/news/2015/07/4/the-azerbaijani-military-shoots-down-two-armenian-drones-over-azeri-positions-according-to-azerbaijan-s-defense-ministry.md)
 _Context: Armenia, Azerbaijani military, Nagorno-Karabakh conflict_

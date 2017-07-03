@@ -1,7 +1,7 @@
 ## [2017-04-11](/news/2017/04/11/index.md)
 
 ### [According to the Russian Defence Ministry, two of its soldiers have been killed by a mortar attack in Syria while another was wounded. The ministry did not specify when or where the attack occurred. ](/news/2017/04/11/according-to-the-russian-defence-ministry-two-of-its-soldiers-have-been-killed-by-a-mortar-attack-in-syria-while-another-was-wounded-the-m.md)
-_Context: Ministry of Defence, Russian military intervention in Syria, Syria, war_
+_Context: Ministry of Defence, Russian military intervention in Syria, Syria, Syrian Civil War_
 
 ### [Three explosions occur near the Borussia Dortmund football team bus as it slowed down to turn a corner. Spanish player Marc Bartra was injured and has been taken to hospital. Dortmund's UEFA Champions League fixture against AS Monaco FC is subsequently postponed. ](/news/2017/04/11/three-explosions-occur-near-the-borussia-dortmund-football-team-bus-as-it-slowed-down-to-turn-a-corner-spanish-player-marc-bartra-was-injur.md)
 Borussia Dortmund&#39;s team bus was hit by three explosions while on its way to the Champions League semi-final against Monaco on Tuesday evening, leaving one player injured in hospital.

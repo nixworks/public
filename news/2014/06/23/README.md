@@ -7,7 +7,7 @@ _Context: North Waziristan, Pakistan, War in North-West Pakistan_
 _Context: Arab-Israeli conflict, Israeli Air Force, Syria_
 
 ### [Syrian Civil War:Syria hands over its remaining 100 tonnes of its declared chemical weapons to the United Nations Organisation for the Prohibition of Chemical Weapons but the organisation cannot declare that the country no longer has any such weapons. ](/news/2014/06/23/syrian-civil-war-psyria-hands-over-its-remaining-100-tonnes-of-its-declared-chemical-weapons-to-the-united-nations-organisation-for-the-proh.md)
-_Context: Organisation for the Prohibition of Chemical Weapons, Syria, United Nations, chemical weapons, war_
+_Context: Organisation for the Prohibition of Chemical Weapons, Syria, Syrian Civil War, United Nations, chemical weapons_
 
 ### [Islamist insurgency in Nigeria:An explosion at a public health school in the city of Kano in northern Nigeria kills at least 12 people. ](/news/2014/06/23/islamist-insurgency-in-nigeria-pan-explosion-at-a-public-health-school-in-the-city-of-kano-in-northern-nigeria-kills-at-least-12-people.md)
 An explosion hits a college in the northern Nigerian city of Kano, killing at least eight people, police say.

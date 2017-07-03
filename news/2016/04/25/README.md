@@ -4,7 +4,7 @@
 The Kurdish rebel group, the PKK, tells the BBC it is ready to escalate its fight against Turkey because Ankara is trying to force its surrender.
 
 ### [At least eight people are reportedly killed as a car bomb explodes at a checkpoint south of Damascus. ](/news/2016/04/25/at-least-eight-people-are-reportedly-killed-as-a-car-bomb-explodes-at-a-checkpoint-south-of-damascus.md)
-_Context: Damascus, car bomb, war_
+_Context: Damascus, Syrian Civil War, car bomb_
 
 ### [The President of the United States Barack Obama announces that the U.S. will send an additional 250 troops to fight ISIL in Syria. ](/news/2016/04/25/the-president-of-the-united-states-barack-obama-announces-that-the-u-s-will-send-an-additional-250-troops-to-fight-isil-in-syria.md)
 US president expected to give details of new deployment during visit to Hanover

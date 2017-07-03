@@ -10,7 +10,7 @@ Ya&#8217;alon warns ground operation may expand; heavy West Bank clashes after H
 U.S. President Barack Obama spoke by phone with Netherlands Prime Minister Mark Rutte on Thursday and the White House said both agreed on the need to impose more sanctions on Russia for continuing to arm pro-Russian separatists in Ukraine.
 
 ### [Syrian Civil War:The Jordanian Air Force shoots down a drone as it flew over the northeastern Mafraq Governorate near the border with Syria, a security official said. The official said the drone flew near the Zaatari refugee camp, which is home to around 100,000 Syrian refugees. ](/news/2014/07/25/syrian-civil-war-pthe-jordanian-air-force-shoots-down-a-drone-as-it-flew-over-the-northeastern-mafraq-governorate-near-the-border-with-syria.md)
-_Context: Jordanian Air Force, Mafraq Governorate, Syrian refugees, war_
+_Context: Jordanian Air Force, Mafraq Governorate, Syrian Civil War, Syrian refugees_
 
 ### [British broadcaster BSkyB buys 21st Century Fox's stake in Sky Italia and Sky Deutschland in a $7 billion deal. ](/news/2014/07/25/british-broadcaster-bskyb-buys-21st-century-fox-s-stake-in-sky-italia-and-sky-deutschland-in-a-7-billion-deal.md)
 BSkyB gets Fox&#039;s stakes in Sky Italia and Sky Deutschland, while Fox retains its 39 percent stake in BSkyB, giving Fox more funds for another possible bid for Time Warner

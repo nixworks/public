@@ -4,7 +4,7 @@
 A Taliban truck bomb exploded outside a protected hotel compound used by foreign service contractors in Kabul on Monday, ripping a deep crater in the ground and leaving a tangle of wreckage but causing few casualties.
 
 ### [A Russian Mil Mi-8 military helicopter carrying humanitarian aid onboard is shot down by rebels in northern Syria. All five members of the crew die in the crash. ](/news/2016/08/1/a-russian-mil-mi-8-military-helicopter-carrying-humanitarian-aid-onboard-is-shot-down-by-rebels-in-northern-syria-all-five-members-of-the-c.md)
-_Context: Mil Mi-8, Russia, Syria, war_
+_Context: Mil Mi-8, Russia, Syria, Syrian Civil War_
 
 ### [The United States launches airstrikes on ISIL positions in the Libyan city of Sirte following a request from the UN-backed Government of National Accord. Libyan Prime Minister Fayez al-Sarraj, in a televised address, says the strikes have caused "heavy ISIL losses". ](/news/2016/08/1/the-united-states-launches-airstrikes-on-isil-positions-in-the-libyan-city-of-sirte-following-a-request-from-the-un-backed-government-of-nat.md)
 The US carries out air strikes in Libya on positions of so-called Islamic State at the request of the UN-backed government, the Pentagon says.

@@ -1,7 +1,7 @@
 ## [2015-08-12](/news/2015/08/12/index.md)
 
 ### [Artillery strikes in Damascus during a visit by the Foreign Minister of Iran Mohammad Javad Zarif kill at least 40 people and wound more than 180. ](/news/2015/08/12/artillery-strikes-in-damascus-during-a-visit-by-the-foreign-minister-of-iran-mohammad-javad-zarif-kill-at-least-40-people-and-wound-more-tha.md)
-_Context: Damascus, Iran, Mohammad Javad Zarif, war_
+_Context: Damascus, Iran, Mohammad Javad Zarif, Syrian Civil War_
 
 ### [A government appointed panel chooses 40 finalist flag designs out of more than 10,000 submitted. ](/news/2015/08/12/a-government-appointed-panel-chooses-40-finalist-flag-designs-out-of-more-than-10-000-submitted.md)
 New Zealand is considering changing its flag. The public was encouraged to come up with ideas, and submitted more than 10,000 designs. A government-appointed panel has winnowed those down to 40 finalists.

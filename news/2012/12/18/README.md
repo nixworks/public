@@ -1,7 +1,7 @@
 ## [2012-12-18](/news/2012/12/18/index.md)
 
 ### [Syrian civil war:NBC News Chief Foreign Correspondent Richard Engel and his production team are freed after 5 days of captivity in northern Syria. They were captured by what Engel claims were members of the shabiha, a plainclothes militia loyal to President Bashar al-Assad. Rebel forces at a checkpoint freed the men after a firefight that killed 2 of the captors. ](/news/2012/12/18/syrian-civil-war-pnbc-news-chief-foreign-correspondent-richard-engel-and-his-production-team-are-freed-after-5-days-of-captivity-in-northern.md)
-_Context: Bashar al-Assad, NBC News, Richard Engel, Shabiha, Syria, war_
+_Context: Bashar al-Assad, NBC News, Richard Engel, Shabiha, Syria, Syrian Civil War_
 
 ### [2012 Central African Republic rebellion:A coalition of rebel groups called ''Seleka'' take over the Central African Republic mining town of Bria, killing at least 15 government soldiers. The group is spearheaded by UFDR forces and has already taken five towns in its two-week offensive, which it claims is because of a lack of progress after a peace deal ended the 2004-2007 Bush War. Following an appeal for help from President Francois Bozize, the President of Chad Idriss Deby sends 20 vehicles of heavily armed troops to help quell the rebellion. ](/news/2012/12/18/2012-central-african-republic-rebellion-pa-coalition-of-rebel-groups-called-seleka-take-over-the-central-african-republic-mining-town-of.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

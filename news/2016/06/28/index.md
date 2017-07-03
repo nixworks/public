@@ -10,7 +10,7 @@ _Context: Baghdad, Iraqi Civil War_
 A suicide bomb and gun attack at Istanbul airport kills 41 people, at least 13 of them foreign nationals, and injures more than 230.
 
 ### [Rebels of the New Syrian Army begin an offensive to capture the eastern town of al-Bukamal, currently held by ISIL militants. ](/news/2016/06/28/rebels-of-the-new-syrian-army-begin-an-offensive-to-capture-the-eastern-town-of-al-bukamal-currently-held-by-isil-militants.md)
-_Context: ISIL, New Syrian Army, al-Bukamal, an offensive, war_
+_Context: ISIL, New Syrian Army, Syrian Civil War, al-Bukamal, an offensive_
 
 ### [Gunmen kill four police officers and four paramilitary soldiers in separate attacks in the city of Quetta. ](/news/2016/06/28/gunmen-kill-four-police-officers-and-four-paramilitary-soldiers-in-separate-attacks-in-the-city-of-quetta.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

@@ -1,7 +1,7 @@
 ## [2013-11-16](/news/2013/11/16/index.md)
 
 ### [Syrian civil war:The Organisation for the Prohibition of Chemical Weapons agrees to a Syria arsenal destruction plan. ](/news/2013/11/16/syrian-civil-war-pthe-organisation-for-the-prohibition-of-chemical-weapons-agrees-to-a-syria-arsenal-destruction-plan.md)
-_Context: Organisation for the Prohibition of Chemical Weapons, war_
+_Context: Organisation for the Prohibition of Chemical Weapons, Syrian Civil War_
 
 ### [Post-civil war violence in Libya:Second day of fighting in Tripoli as death toll from violence at anti-militia protest topped 40. ](/news/2013/11/16/post-civil-war-violence-in-libya-psecond-day-of-fighting-in-tripoli-as-death-toll-from-violence-at-anti-militia-protest-topped-40.md)
 Second day of fighting in Tripoli as death toll from violence at anti-militia protest topped 40.

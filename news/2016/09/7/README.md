@@ -1,7 +1,7 @@
 ## [2016-09-7](/news/2016/09/7/index.md)
 
 ### [A chlorine attack in Aleppo on Tuesday injures more than 100 people. The blast from barrel bombs dropped kills one person. ](/news/2016/09/7/a-chlorine-attack-in-aleppo-on-tuesday-injures-more-than-100-people-the-blast-from-barrel-bombs-dropped-kills-one-person.md)
-_Context: Aleppo, chlorine, war_
+_Context: Aleppo, Syrian Civil War, chlorine_
 
 ### [A gang shoots down a police helicopter near Apatzingan, Michoacan, killing four people. The police had been conducting an operation against criminal groups and drug cartels. ](/news/2016/09/7/a-gang-shoots-down-a-police-helicopter-near-apatzinga-n-michoaca-n-killing-four-people-the-police-had-been-conducting-an-operation-agains.md)
 A gang brought down a helicopter during a police operation in Mexico&#39;s troubled western state of Michoacan on Tuesday, killing the pilot and three officers, the governor said.

@@ -7,7 +7,7 @@ _Context: Baghdad, ISIL, Iraqi Civil War, Kadhimiyah, Military intervention agai
 A failed Syrian asylum seeker blows himself up and injures 15 other people with a backpack bomb near a festival in the south German town of Ansbach.
 
 ### [Syrian opposition activists report government airstrikes on Aleppo Province kill at least five people and hit at least five medical facilities. ](/news/2016/07/24/syrian-opposition-activists-report-government-airstrikes-on-aleppo-province-kill-at-least-five-people-and-hit-at-least-five-medical-faciliti.md)
-_Context: Aleppo Governorate, airstrike, war_
+_Context: Aleppo Governorate, Syrian Civil War, airstrike_
 
 ### [Thousands of people in Cambodia attend the funeral of Kem Ley, a critic of the perceived corrupt and authoritarian rule of Hun Sen, who has been in power since 1985.  ](/news/2016/07/24/thousands-of-people-in-cambodia-attend-the-funeral-of-kem-ley-a-critic-of-the-perceived-corrupt-and-authoritarian-rule-of-hun-sen-who-has.md)
 Tens of thousands of Cambodians pour onto the streets for the funeral procession of a murdered political analyst.

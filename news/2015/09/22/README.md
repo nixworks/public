@@ -7,7 +7,7 @@ The leader of the Burkina Faso coup and the chief of the army were conducting la
 _Context: Abu Sayyaf, Filipino troops, Moro conflict_
 
 ### [IHS Jane's reports satellite photos, taken in mid-September, show Russian forces developing two additional military facilities near Syria's Mediterranean coast. ](/news/2015/09/22/ihs-jane-s-reports-satellite-photos-taken-in-mid-september-show-russian-forces-developing-two-additional-military-facilities-near-syria-s.md)
-_Context: IHS Jane's, Russia's role in the Syrian Civil War, Russian Armed Forces, Syria's Mediterranean coast, military, war_
+_Context: IHS Jane's, Russia's role in the Syrian Civil War, Russian Armed Forces, Syria's Mediterranean coast, Syrian Civil War, military_
 
 ### [Pope Francis arrives in the U.S. from his last stop in Cuba, Santiago de Cuba, at Joint Base Andrews (formerly, Andrews Air Force Base), near Washington D.C., to start his first tour of the United States. He is received by U.S. President Barack Obama, his wife, U.S. First Lady Michelle Obama, Malia and Sasha Obama, Marian Lois Robinson, U.S. Vice President Joseph R. Biden, his wife, U.S. Second Lady Dr. Jill Biden, two Biden granddaughters, the Apostolic Nuncio to the U.S. Archbishop Carlo Maria Vigano, military and base leaders, and Washington's Cardinal Donald Wuerl. He will be received tomorrow morning in a second arrival ceremony, at the White House, and will meet with the President there. ](/news/2015/09/22/pope-francis-arrives-in-the-u-s-from-his-last-stop-in-cuba-santiago-de-cuba-at-joint-base-andrews-formerly-andrews-air-force-base-nea.md)
 Obama greets pontiff as Washington wonders about ‘culture war’ as Francis prepares to address Congress before heading to New York and Philadelphia

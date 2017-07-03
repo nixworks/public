@@ -4,7 +4,7 @@
 Map detailing Taliban-controlled or contested districts. Click colored district for information. Based on an analysis by The Long War Journal, 36 of Afghanistan&#039;s 398 districts are under Taliban control, and another 36 districts are contested. Map created by Bill Roggio, Caleb Weiss, and Patrick Megahan. Updated to include report of Afghan military retaking the district center. The Afghan Taliban claimed that it overran the district center of Ghoryan in the western province of Herat today. The jihadist group made the claim on Voice of Jihad, its official propaganda website: Mujahideen of Islamic Emirate in Herat province launched coordinated attacks late afternoon hours today on Ghoryan district administration center and police HQ. Officials say that heavy fighting is underway at the moment, more details about which will be updated later. Update: Fresh reports arriving from Herat province say that Ghoryan district administration center, police HQ and all government buildings have been
 
 ### [ISIL orders males aged 14 and older in Raqqa, its de facto Syrian capital, to register with the police, an action seen as the first step toward forced conscriptions in this region. ](/news/2015/10/21/isil-orders-males-aged-14-and-older-in-raqqa-its-de-facto-syrian-capital-to-register-with-the-police-an-action-seen-as-the-first-step-tow.md)
-_Context: ISIL, Raqqa, Syria, war_
+_Context: ISIL, Raqqa, Syria, Syrian Civil War_
 
 ### [Rockets fired by Houthi forces reportedly kill 14 people in city of Taiz, southwestern Yemen. ](/news/2015/10/21/rockets-fired-by-houthi-forces-reportedly-kill-14-people-in-city-of-taiz-southwestern-yemen.md)
 _Context: Houthi, Taiz, Yemen, Yemeni Civil War (2015)_
@@ -22,7 +22,7 @@ A partly opened parachute F-18 fighter crashes on to farmland, some seven miles 
 _Context: American Academy of Pediatrics, American College of Obstetricians and Gynecologists, Centers for Disease Control and Prevention, Italy, United Kingdom, fetal alcohol syndrome_
 
 ### [The President of Syria Bashar al-Assad visits Moscow for talks with the President of Russia Vladimir Putin in an unannounced visit. ](/news/2015/10/21/the-president-of-syria-bashar-al-assad-visits-moscow-for-talks-with-the-president-of-russia-vladimir-putin-in-an-unannounced-visit.md)
-_Context: Bashar al-Assad, Moscow, President, Russia President, Vladimir Putin, war_
+_Context: Bashar al-Assad, Moscow, President, Russia President, Syrian Civil War, Vladimir Putin_
 
 ### [Iran's Supreme Leader Ayatollah Ali Khamenei approves the nuclear deal between Tehran and world powers, and orders it to be implemented subject to certain conditions. The letter states the United States and European Union should clearly announce the elimination of sanctions against Iran. The imposition of sanctions at any level and under any pretext from any of the negotiating countries would violate the JCPOA. ](/news/2015/10/21/iran-s-supreme-leader-ayatollah-ali-khamenei-approves-the-nuclear-deal-between-tehran-and-world-powers-and-orders-it-to-be-implemented-subj.md)
 _Context: Ali Khamenei, European Union, Iranian government, Joint Comprehensive Plan of Action, Supreme Leader of Iran, United States, pre-sanction_

@@ -1,7 +1,7 @@
 ## [2013-10-1](/news/2013/10/1/index.md)
 
 ### [Syrian civil war:A team from the Organisation for the Prohibition of Chemical Weapons enters Syria to begin work on dismantling the Assad regime's stockpile of chemical weapons. ](/news/2013/10/1/syrian-civil-war-pa-team-from-the-organisation-for-the-prohibition-of-chemical-weapons-enters-syria-to-begin-work-on-dismantling-the-assad-r.md)
-_Context: Organisation for the Prohibition of Chemical Weapons, Syria, war_
+_Context: Organisation for the Prohibition of Chemical Weapons, Syria, Syrian Civil War_
 
 ### [United States federal government shutdown of 2013:U.S. President Barack Obama, the White House Office of Management and Budget, issues a partial shutdown of government agencies after the House and Senate fail to come to an agreement on a spending bill to keep government operations running. ](/news/2013/10/1/united-states-federal-government-shutdown-of-2013-pu-s-president-barack-obama-the-white-house-office-of-management-and-budget-issues-a-pa.md)
 _Context:  October 2013 federal government shutdown, Barack Obama, Office of Management and Budget, United States, United States Congress, United States President, United States Senate, White House_

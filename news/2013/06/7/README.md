@@ -7,7 +7,7 @@ Prime Minister Nawaz Sharif has often criticized the United States’ use of unm
 _Context: Baghdad, Iraqi insurgency (post-U.S. withdrawal)_
 
 ### [Syrian civil war:The United Nations appeals for $4.4 billion of aid for refugees, the largest such request in the UN's history. ](/news/2013/06/7/syrian-civil-war-pthe-united-nations-appeals-for-4-4-billion-of-aid-for-refugees-the-largest-such-request-in-the-un-s-history.md)
-_Context: United Nations, United States dollars, war_
+_Context: Syrian Civil War, United Nations, United States dollars_
 
 ### [A suspected rapist is attacked and buried alive by an angry mob in Bolivia. ](/news/2013/06/7/a-suspected-rapist-is-attacked-and-buried-alive-by-an-angry-mob-in-bolivia.md)
 A mob in a Bolivian town buried alive a teenager alongside the body of a woman they suspected he had raped and murdered, Bolivian media reported on Friday.

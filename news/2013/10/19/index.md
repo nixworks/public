@@ -1,7 +1,7 @@
 ## [2013-10-19](/news/2013/10/19/index.md)
 
 ### [Syrian Civil War:A suicide bomber kills 16 Syrian Army soldiers at a checkpoint near Damascus. ](/news/2013/10/19/syrian-civil-war-pa-suicide-bomber-kills-16-syrian-army-soldiers-at-a-checkpoint-near-damascus.md)
-_Context: Damascus, Syrian Army, suicide bomber, war_
+_Context: Damascus, Syrian Army, Syrian Civil War, suicide bomber_
 
 ### [War in Somalia (2009-present):16 people are killed and 30 wounded by a suicide bomber in an attack in a crowded restaurant in the central Somali town of Beledweyne. ](/news/2013/10/19/war-in-somalia-2009apresent-p16-people-are-killed-and-30-wounded-by-a-suicide-bomber-in-an-attack-in-a-crowded-restaurant-in-the-central.md)
 A suicide bomber killed at least 16 people on Saturday in an attack on a cafe in a Somali town close to the Ethiopian border frequented by local and foreign soldiers fighting al Qaeda-linked rebels.

@@ -1,7 +1,7 @@
 ## [2014-12-14](/news/2014/12/14/index.md)
 
 ### [Syrian Civil War:A battle between Bashar al-Assad loyalist forces and Islamist rebels in Aleppo Governorate leave 34 rebels dead and 3 loyalist fighters captured. ](/news/2014/12/14/syrian-civil-war-pa-battle-between-bashar-al-assad-loyalist-forces-and-islamist-rebels-in-aleppo-governorate-leave-34-rebels-dead-and-3-loya.md)
-_Context: Aleppo Governorate, Bashar al-Assad, Islamist, war_
+_Context: Aleppo Governorate, Bashar al-Assad, Islamist, Syrian Civil War_
 
 ### [Miss World 2014 crowns Rolene Strauss, Miss South Africa, in London. ](/news/2014/12/14/miss-world-2014-crowns-rolene-strauss-miss-south-africa-in-london.md)
 _Context: London, Miss South Africa, Miss World 2014, Rolene Strauss_

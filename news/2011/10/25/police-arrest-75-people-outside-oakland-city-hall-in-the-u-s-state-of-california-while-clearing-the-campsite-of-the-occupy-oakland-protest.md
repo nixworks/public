@@ -11,7 +11,7 @@ Authorities in Oakland say they arrested 75 people from a raid; Brooklyn man dev
 
 ### Related:
 
-1. [Numerous U.S. states, including California and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-and-new-york-reject-requests-for-voter-registration-data-from-president-donald-trump-s-voter-fra.md) _Context: California, U.S. state_
+1. [Numerous U.S. states, including California, Mississippi, Kentucky and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-mississippi-kentucky-and-new-york-reject-requests-for-voter-registration-data-from-president-d.md) _Context: California, U.S. state_
 2. [California becomes the first U.S. state to forbid "conversion therapy" for minors, effective January 1st, 2013. ](/news/2012/10/1/california-becomes-the-first-u-s-state-to-forbid-conversion-therapy-for-minors-effective-january-1st-2013.md) _Context: California, U.S. state_
 3. [Approximately 300 people are arrested in the US city of Oakland, California during Occupy Oakland protests. ](/news/2012/01/28/approximately-300-people-are-arrested-in-the-us-city-of-oakland-california-during-occupy-oakland-protests.md) _Context: California, Occupy Oakland_
 4. [The Port of Oakland in the US state of California reopens after a second police crackdown on Occupy Oakland. ](/news/2011/11/3/the-port-of-oakland-in-the-us-state-of-california-reopens-after-a-second-police-crackdown-on-occupy-oakland.md) _Context: California, Occupy Oakland_

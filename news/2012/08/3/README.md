@@ -4,7 +4,7 @@
 _Context: Apodaca prison riot, Los Zetas, Mexican Drug War, decapitating 49 bodies_
 
 ### [Syrian civil war:The Syrian Army increases artillery shelling of Aleppo as the Free Syrian Army tries to consolidate its control of the city's eastern districts. ](/news/2012/08/3/syrian-civil-war-pthe-syrian-army-increases-artillery-shelling-of-aleppo-as-the-free-syrian-army-tries-to-consolidate-its-control-of-the-cit.md)
-_Context: Aleppo, Free Syrian Army, Syrian Army, war_
+_Context: Aleppo, Free Syrian Army, Syrian Army, Syrian Civil War_
 
 ### [An explosion in the Kenyan capital of Nairobi kills at least one person. ](/news/2012/08/3/an-explosion-in-the-kenyan-capital-of-nairobi-kills-at-least-one-person.md)
 One person dies and several are wounded in an explosion in a mainly Somali district of the Kenyan capital, Nairobi.

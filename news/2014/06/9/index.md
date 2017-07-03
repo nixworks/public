@@ -7,7 +7,7 @@ _Context: 2014 Jinnah International Airport attack, Jinnah International Airport
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Syrian civil war:The Syrian government declares a general amnesty for all citizens. ](/news/2014/06/9/syrian-civil-war-pthe-syrian-government-declares-a-general-amnesty-for-all-citizens.md)
-_Context: amnesty, war_
+_Context: Syrian Civil War, amnesty_
 
 ### [Brazilian riot police use tear gas to disperse protesters in So Paulo amid rising tensions between protestors and the government over the cost of the World Cup.  ](/news/2014/06/9/brazilian-riot-police-use-tear-gas-to-disperse-protesters-in-sao-paulo-amid-rising-tensions-between-protestors-and-the-government-over-the-c.md)
 Metro workers in Sao Paulo suspend a strike that has caused traffic chaos, two days before the city is to host the opening match of the World Cup.

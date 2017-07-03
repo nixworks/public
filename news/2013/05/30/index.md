@@ -1,7 +1,7 @@
 ## [2013-05-30](/news/2013/05/30/index.md)
 
 ### [Syrian civil war:An Israeli official says the Israeli government is looking into reports that Syria received a shipment of S-300 missiles. ](/news/2013/05/30/syrian-civil-war-pan-israeli-official-says-the-israeli-government-is-looking-into-reports-that-syria-received-a-shipment-of-s-300-missiles.md)
-_Context: S-300, war_
+_Context: S-300, Syrian Civil War_
 
 ### [Iraqi insurgency (post-U.S. withdrawal):A series of bombings across Iraq kills at least eleven people. ](/news/2013/05/30/iraqi-insurgency-post-u-s-withdrawal-pa-series-of-bombings-across-iraq-kills-at-least-eleven-people.md)
 _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_

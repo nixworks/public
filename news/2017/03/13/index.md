@@ -10,7 +10,7 @@ KINSHASA, Congo (AP) — Two United Nations officials, one American and one Swed
 At least six people killed by bomb-laden vehicle in Mogadishu, according to police and medical services.
 
 ### [According to the Syrian Observatory for Human Rights, the total number of people killed and missing in Syria's war is now 465,000. ](/news/2017/03/13/according-to-the-syrian-observatory-for-human-rights-the-total-number-of-people-killed-and-missing-in-syria-s-war-is-now-465-000.md)
-_Context: Syria, Syrian Observatory for Human Rights, war_
+_Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
 
 ### [Turkey bans the Dutch ambassador, Cornelis Van Rij, from returning to the Embassy of the Netherlands in Ankara, and closes its airspace to Dutch diplomats in response to a Dutch ban on Turkish ministers speaking at pro-Erdogan rallies. ](/news/2017/03/13/turkey-bans-the-dutch-ambassador-cornelis-van-rij-from-returning-to-the-embassy-of-the-netherlands-in-ankara-and-closes-its-airspace-to-d.md)
 Threat comes as Dutch ambassador banned from re-entry by Ankara and President Erdoğan repeats nazism jibes after pleas from Brussels to tone down language

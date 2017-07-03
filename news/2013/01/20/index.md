@@ -1,7 +1,7 @@
 ## [2013-01-20](/news/2013/01/20/index.md)
 
 ### [Syrian civil war:Syrian refugees fleeing the violence from the Syrian civil war are gunned down by the Syrian Army while trying to cross the Jordanian border. ](/news/2013/01/20/syrian-civil-war-psyrian-refugees-fleeing-the-violence-from-the-syrian-civil-war-are-gunned-down-by-the-syrian-army-while-trying-to-cross-th.md)
-_Context: Jordan, Syrian Army, war_
+_Context: Jordan, Syrian Army, Syrian Civil War_
 
 ### [Northern Mali conflict:Islamists flee the town of Diabaly, Mali, after repeated French airstrikes. The government of Mali now says that they control the city. ](/news/2013/01/20/northern-mali-conflict-pislamists-flee-the-town-of-diabaly-mali-after-repeated-french-airstrikes-the-government-of-mali-now-says-that-the.md)
 Malian forces appeared close to recapturing key town of Diabaly where bands of al Qaeda-linked fighters had holed up

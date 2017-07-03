@@ -7,7 +7,7 @@ _Context: Dagestan, Federal Security Service, Insurgency in the North Caucasus, 
 _Context: Boko Haram, Boko Haram insurgency, Borno State, Damboa, Nigerian Army_
 
 ### [Airstrikes hit  Darkush in Idlib Province near the Turkish border, killing at least 23 people, according to the Syrian Observatory for Human Rights.  At least 25 died when rebels shelled government-held areas of Aleppo. Friday is the last day of a 72-hour Syrian Army-sponsored ceasefire. ](/news/2016/07/8/airstrikes-hit-darkush-in-idlib-province-near-the-turkish-border-killing-at-least-23-people-according-to-the-syrian-observatory-for-human.md)
-_Context: Aleppo, Darkush, Idlib, Syrian Army, Syrian Observatory for Human Rights, Turkey, war_
+_Context: Aleppo, Darkush, Idlib, Syrian Army, Syrian Civil War, Syrian Observatory for Human Rights, Turkey_
 
 ### [Five soldiers between the two rival Sudan People's Liberation Army factions are killed in clashes in the capital Juba, with reports of heavy gunfire continuing, despite President Salva Kiir Mayardit and rebel leader Riek Machar having reached a peace deal back in April. ](/news/2016/07/8/five-soldiers-between-the-two-rival-sudan-people-s-liberation-army-factions-are-killed-in-clashes-in-the-capital-juba-with-reports-of-heavy.md)
 _Context: Juba, President, Riek Machar, Salva Kiir Mayardit, South Sudanese Civil War, Sudan People's Liberation Army, local clashes_

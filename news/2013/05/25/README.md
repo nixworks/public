@@ -7,7 +7,7 @@ If true, Mokhtar Belmokhtar’s claim would put one of the Sahel’s most harden
 A female suicide bomber has injured at least 11 police officers and civilians, including two children, in the southern Russian region of Dagestan, police say. 
 
 ### [Syrian civil war:Dozens of people are killed in Al-Qusayr, Homs, Syria, as the Syrian Army and Hezbollah bombard the rebel-held town with heavy artillery. ](/news/2013/05/25/syrian-civil-war-pdozens-of-people-are-killed-in-al-qusayr-homs-syria-as-the-syrian-army-and-hezbollah-bombard-the-rebel-held-town-with-h.md)
-_Context: Al-Qusayr, Hezbollah, Homs, Syrian Army, war_
+_Context: Al-Qusayr, Hezbollah, Homs, Syrian Army, Syrian Civil War_
 
 ### [A bomb explodes near a bus north of Baghdad, Iraq, killing six Iranians, one Iraqi, and wounding fourteen people. ](/news/2013/05/25/a-bomb-explodes-near-a-bus-north-of-baghdad-iraq-killing-six-iranians-one-iraqi-and-wounding-fourteen-people.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

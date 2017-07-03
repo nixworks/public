@@ -1,7 +1,7 @@
 ## [2013-09-8](/news/2013/09/8/index.md)
 
 ### [Syrian civil war:The Islamist al-Nusra Front captures the historic Christian town of Ma'loula from the Syrian Army; Russia calls for protection of the town.  ](/news/2013/09/8/syrian-civil-war-pthe-islamist-al-nusra-front-captures-the-historic-christian-town-of-ma-loula-from-the-syrian-army-russia-calls-for-protec.md)
-_Context: Christian, Ma'loula, Russia, Syrian Army, al-Nusra, war_
+_Context: Christian, Ma'loula, Russia, Syrian Army, Syrian Civil War, al-Nusra_
 
 ### [War in Afghanistan (2001-present):The Taliban kills four Afghan National Army troops in an attack on an intelligence office near Kabul. ](/news/2013/09/8/war-in-afghanistan-2001apresent-pthe-taliban-kills-four-afghan-national-army-troops-in-an-attack-on-an-intelligence-office-near-kabul.md)
 Taliban militants detonated a car bomb outside an Afghan intelligence office near the capital Sunday and then tried to attack it on foot with guns, officials and the insurgent group said. At least four soldiers guarding the compound were killed and six insurgents died in the assault, officials said.

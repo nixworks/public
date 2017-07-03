@@ -7,7 +7,7 @@ Turkish police have taken several dozen lawyers into custody for joining the ong
 Riot police surround building occupied by activists in central London ahead of summit.
 
 ### [Syrian civil war:Twin suicide bombings in Marjeh Square in Damascus kill at least 14 people and injure 31. ](/news/2013/06/11/syrian-civil-war-ptwin-suicide-bombings-in-marjeh-square-in-damascus-kill-at-least-14-people-and-injure-31.md)
-_Context: Damascus, Marjeh Square, suicide bombing, war_
+_Context: Damascus, Marjeh Square, Syrian Civil War, suicide bombing_
 
 ### [War in Afghanistan:A bomb detonates near the Afghan Supreme Court killing 8 people and wounding dozens. ](/news/2013/06/11/war-in-afghanistan-pa-bomb-detonates-near-the-afghan-supreme-court-killing-8-people-and-wounding-dozens.md)
 A suspected Taliban suicide bomber in a car detonated a bomb close to minibuses taking Supreme Court staff home in the Afghan capital Kabul on Tuesday, killing at least 17 people and wounding almost 40, police said.

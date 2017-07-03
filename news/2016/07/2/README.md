@@ -10,7 +10,7 @@ _Context: Jalalabad, Nangarhar Province, War in Afghanistan_
 Pentagon says deputy minister of war and commander died in US-led coalition airstrike near stronghold of Mosul
 
 ### [Syrian government airstrikes in Damascus kill at least 30 people. According to the rebels, the airstrikes were revenge for the killing of a Syrian Air Force pilot by Al-Nusra Front yesterday. The airstrikes reportedly targeted a medical centre and a school. ](/news/2016/07/2/syrian-government-airstrikes-in-damascus-kill-at-least-30-people-according-to-the-rebels-the-airstrikes-were-revenge-for-the-killing-of-a.md)
-_Context: Damascus, Syrian, al-Nusra, war_
+_Context: Damascus, Syrian, Syrian Civil War, al-Nusra_
 
 ### [Turkish police arrest a total of 41 people in connection with the Istanbul Ataturk Airport terrorist attack. ](/news/2016/07/2/turkish-police-arrest-a-total-of-41-people-in-connection-with-the-istanbul-atata1-4rk-airport-terrorist-attack.md)
 Turkish police arrested a total of 41 people in connection with a terrorist attack on Istanbul Ataturk Airport that killed 44 people, officials said.

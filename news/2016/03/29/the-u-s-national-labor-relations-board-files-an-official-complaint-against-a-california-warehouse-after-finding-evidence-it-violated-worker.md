@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Numerous U.S. states, including California and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-and-new-york-reject-requests-for-voter-registration-data-from-president-donald-trump-s-voter-fra.md) _Context: California_
+1. [Numerous U.S. states, including California, Mississippi, Kentucky and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-mississippi-kentucky-and-new-york-reject-requests-for-voter-registration-data-from-president-d.md) _Context: California_
 2. [A heat wave strikes the Western U.S. states of Arizona, California, and Nevada. It is predicted to last until June 23. ](/news/2017/06/20/a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-it-is-predicted-to-last-until-june-23.md) _Context: California_
 3. [Amazon agrees to buy Whole Foods Market for $13.7 billion. The takeover deal is expected to be completed in the second half of the year. ](/news/2017/06/16/amazon-agrees-to-buy-whole-foods-market-for-13-7-billion-the-takeover-deal-is-expected-to-be-completed-in-the-second-half-of-the-year.md) _Context: Amazon_
 4. [Four people, including the gunman, are dead, and six injured, after a man opens fire at people in a UPS building in the Potrero Hill neighborhood of San Francisco, California. ](/news/2017/06/14/four-people-including-the-gunman-are-dead-and-six-injured-after-a-man-opens-fire-at-people-in-a-ups-building-in-the-potrero-hill-neighbo.md) _Context: California_

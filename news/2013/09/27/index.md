@@ -1,7 +1,7 @@
 ## [2013-09-27](/news/2013/09/27/index.md)
 
 ### [United Nations inspectors are investigating three alleged instances of use of chemical weapons in the Syrian civil war since the Ghouta chemical attack on 21 August. ](/news/2013/09/27/united-nations-inspectors-are-investigating-three-alleged-instances-of-use-of-chemical-weapons-in-the-syrian-civil-war-since-the-ghouta-chem.md)
-_Context: Ghouta chemical attack, United Nations, chemical weapons, war_
+_Context: Ghouta chemical attack, Syrian Civil War, United Nations, chemical weapons_
 
 ### [Bahraini uprising (2011-present):Tens of thousands march in Bahrain in the largest anti-government protest in months. ](/news/2013/09/27/bahraini-uprising-2011apresent-ptens-of-thousands-march-in-bahrain-in-the-largest-anti-government-protest-in-months.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
