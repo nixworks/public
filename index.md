@@ -10,7 +10,7 @@ _Context: Bavaria, German_
 _Context: Bhutan, Bhutan-China relations, China, China-India relations, Doklam tri-junction, India, India Today_
 
 ### [Greek coast guard opens fire on a Turkish-flagged cargo vessel in the Aegean Sea. ](/news/2017/07/3/greek-coast-guard-opens-fire-on-a-turkish-flagged-cargo-vessel-in-the-aegean-sea.md)
-A cargo vessel sailing under the Turkish flag has come under fire from Greek coast guard boats in the Aegean Sea, Turkey’s NTV broadcaster reported.
+Turkish NTV channel reported that the Greek coast guard opened fire on a Turkish-flagged cargo ship in the Aegean Sea.
 
 ### [Governor Chris Christie is caught sunbathing with his family on a beach he had ordered closed for the fourth of July holiday. The beach was closed to the public amid a state budget crisis. ](/news/2017/07/3/governor-chris-christie-is-caught-sunbathing-with-his-family-on-a-beach-he-had-ordered-closed-for-the-fourth-of-july-holiday-the-beach-was.md)
 _Context: Chris Christie, Politics of New Jersey, budget crisis, holiday_
@@ -29,7 +29,7 @@ _Context: Damascus, Syrian Civil War_
 ### [The United Kingdom announces it is withdrawing from the 1964 London Fisheries Convention, which allows several European countries to fish within 6 to 12 nautical miles of each other's coastlines. ](/news/2017/07/2/the-united-kingdom-announces-it-is-withdrawing-from-the-1964-london-fisheries-convention-which-allows-several-european-countries-to-fish-wi.md)
 Ministers say ending the arrangement will help the UK take back control of access to its waters.
 
-### [The Central Bank of Syria announces a new 2,000 Syrian lira (pound) bank note that will feature a portrait of President Bashar al-Assad, the President's first appearance on Syrian currency during his 17-year rule. ](/news/2017/07/2/the-central-bank-of-syria-announces-a-new-2-000-syrian-lira-pound-bank-note-that-will-feature-a-portrait-of-president-bashar-al-assad-the.md)
+### [The Central Bank of Syria announces a new 2,000 Syrian lira (pound) bank note that will feature a portrait of President Bashar al-Assad, the President's first appearance on Syrian currency during his 17-years in office. ](/news/2017/07/2/the-central-bank-of-syria-announces-a-new-2-000-syrian-lira-pound-bank-note-that-will-feature-a-portrait-of-president-bashar-al-assad-the.md)
 _Context: Bashar al-Assad, Central Bank of Syria, People on coins, President, Syrian lira (pound)_
 
 ### [At least 14 people are killed in Russia's Tatarstan Republic as a bus catches fire after colliding with a truck. ](/news/2017/07/2/at-least-14-people-are-killed-in-russia-s-tatarstan-republic-as-a-bus-catches-fire-after-colliding-with-a-truck.md)

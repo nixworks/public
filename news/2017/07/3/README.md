@@ -10,7 +10,7 @@ _Context: Bavaria, German_
 _Context: Bhutan, Bhutan-China relations, China, China-India relations, Doklam tri-junction, India, India Today_
 
 ### [Greek coast guard opens fire on a Turkish-flagged cargo vessel in the Aegean Sea. ](/news/2017/07/3/greek-coast-guard-opens-fire-on-a-turkish-flagged-cargo-vessel-in-the-aegean-sea.md)
-A cargo vessel sailing under the Turkish flag has come under fire from Greek coast guard boats in the Aegean Sea, Turkey’s NTV broadcaster reported.
+Turkish NTV channel reported that the Greek coast guard opened fire on a Turkish-flagged cargo ship in the Aegean Sea.
 
 ### [Governor Chris Christie is caught sunbathing with his family on a beach he had ordered closed for the fourth of July holiday. The beach was closed to the public amid a state budget crisis. ](/news/2017/07/3/governor-chris-christie-is-caught-sunbathing-with-his-family-on-a-beach-he-had-ordered-closed-for-the-fourth-of-july-holiday-the-beach-was.md)
 _Context: Chris Christie, Politics of New Jersey, budget crisis, holiday_

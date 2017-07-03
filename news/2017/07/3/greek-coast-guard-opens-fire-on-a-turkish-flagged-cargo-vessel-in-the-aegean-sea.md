@@ -2,12 +2,12 @@
 
 # Greek coast guard opens fire on a Turkish-flagged cargo vessel in the Aegean Sea. 
 
-A cargo vessel sailing under the Turkish flag has come under fire from Greek coast guard boats in the Aegean Sea, Turkey’s NTV broadcaster reported.
+Turkish NTV channel reported that the Greek coast guard opened fire on a Turkish-flagged cargo ship in the Aegean Sea.
 
 
 ### Source:
 
-1. [RT](https://www.rt.com/news/395152-greece-turkey-ship-fire-incident/)
+1. [Sputnik International](https://sputniknews.com/asia/201707031055188074-greece-turkey-ship-aegean/)
 
 ### Related:
 
