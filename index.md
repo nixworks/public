@@ -1,10 +1,18 @@
-## [News](/news/2017/07/2/index.md)
+## [News](/news/2017/07/3/index.md)
+
+### [Floods in South China kill at least fifteen people over the last few days with tens of thousands more being relocated. More rain is forecast in future days. ](/news/2017/07/3/floods-in-south-china-kill-at-least-fifteen-people-over-the-last-few-days-with-tens-of-thousands-more-being-relocated-more-rain-is-forecast.md)
+Floods in southern China have killed at least 15 people over the past few days and forced the evacuation of tens of thousands more, state media said.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/07/2/index.md)
 
 ### [Three suicide bombers in Damascus kill at least 21 people and wound 12 others. ](/news/2017/07/2/three-suicide-bombers-in-damascus-kill-at-least-21-people-and-wound-12-others.md)
 _Context: Damascus, Syrian Civil War_
-
-### [Two gunmen open fire near a mosque in Avignon, France, injuring eight people. ](/news/2017/07/2/two-gunmen-open-fire-near-a-mosque-in-avignon-france-injuring-eight-people.md)
-Muslim worshippers were leaving the mosque around 10:30 p.m. when the men reportedly opened fire.
 
 ### [The United Kingdom announces it is withdrawing from the 1964 London Fisheries Convention, which allows several European countries to fish within 6 to 12 nautical miles of each other's coastlines. ](/news/2017/07/2/the-united-kingdom-announces-it-is-withdrawing-from-the-1964-london-fisheries-convention-which-allows-several-european-countries-to-fish-wi.md)
 Ministers say ending the arrangement will help the UK take back control of access to its waters.
@@ -21,16 +29,15 @@ _Context: 2017 electronics ban, Abu Dhabi_
 ### [Amid growing tensions between China and India and Bhutan over disputed land, the Bharatiya Janata Party supports the words of defence minster Arun Jaitley that "India of 2017 is different from India of 1962". It follows a warning from China to India that referenced the defeat of the latter during the 1962 Sino-Indian War. ](/news/2017/07/2/amid-growing-tensions-between-china-and-india-and-bhutan-over-disputed-land-the-bharatiya-janata-party-supports-the-words-of-defence-minste.md)
 Arun Jaitley&#039;s statement on China 1962 War &#039;self-explanatory&#039; BJP - The Bharatiya Janata Party (BJP) on Sunday sided with Defence Minister Arun Jaitley even as he brushed aside China&#039;s warning which had asked India to ?
 
+### [Two gunmen injure eight people near a mosque in Avignon, France. Two of the victims were hospitalised. ](/news/2017/07/2/two-gunmen-injure-eight-people-near-a-mosque-in-avignon-france-two-of-the-victims-were-hospitalised.md)
+Muslim worshippers were leaving the mosque around 10:30 p.m. when the men reportedly opened fire.
+
 ### [Israel arrests Palestinian lawmaker Khalida Jarrar over allegations of her inciting of violence. ](/news/2017/07/2/israel-arrests-palestinian-lawmaker-khalida-jarrar-over-allegations-of-her-inciting-of-violence.md)
 Israeli security forces detained a female Palestinian lawmaker on Sunday for alleged security offenses.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/07/1/index.md)
+## [Day Before Yesterday](/news/2017/07/1/index.md)
 
 ### [World leaders such as Bill Clinton, Emmanuel Macron, Theresa May, Dmitry Medvedev and Angela Merkel attend the memorial service for the former West German leader Helmut Kohl. ](/news/2017/07/1/world-leaders-such-as-bill-clinton-emmanuel-macron-theresa-may-dmitry-medvedev-and-angela-merkel-attend-the-memorial-service-for-the-form.md)
 Current and former world leaders gathered Saturday to bid farewell to former German Chancellor Helmut Kohl, recalling him as a man who was instrumental in uniting Europe and bringing about reconciliation between former adversaries on the continent.
@@ -73,32 +80,7 @@ Francis declined to renew Cardinal Gerhard Ludwig Müller’s mandate to lead th
 
 ---
 
-## [Day Before Yesterday](/news/2017/06/30/index.md)
-
-### [  Lebanese Armed Forces are attacked by five suicide bombers and other militants during a raid of two Syrian refugee camps in  Arsal  near the Syrian border. The army reports a girl was killed in one of the suicide attacks, seven soldiers were also wounded, and 350 people, including several ISIL officials,  were detained during the sweep. ](/news/2017/06/30/lebanese-armed-forces-are-attacked-by-five-suicide-bombers-and-other-militants-during-a-raid-of-two-syrian-refugee-camps-in-arsal-near-t.md)
-Five suicide bombers attacked Lebanese soldiers as they raided two Syrian refugee camps in the Arsal area at the border with Syria on Friday and a sixth militant threw a hand grenade at a patrol, the army said.
-
-### [China informs India that it must withdraw its troops for any dialogue to occur as tensions rise between China and India and Bhutan over the disputed territory of Doklam. ](/news/2017/06/30/china-informs-india-that-it-must-withdraw-its-troops-for-any-dialogue-to-occur-as-tensions-rise-between-china-and-india-and-bhutan-over-the.md)
-In the midst of face off between India and Chinese troops over road construction on the borders of a plateau in Bhutan, which China claims, Beijing said withdrawal from the Doklam plateau by the Indian troops was prerequisite for any dialogue.
-
-### [The Bundestag votes to introduce same-sex marriage in Germany.  With 393 votes in favor and 226 against, including Chancellor Angela Merkel, the law is expected to enter into force before the end of the year. ](/news/2017/06/30/the-bundestag-votes-to-introduce-same-sex-marriage-in-germany-with-393-votes-in-favor-and-226-against-including-chancellor-angela-merkel.md)
-MPs pass bill granting gay and lesbian couples full rights, including on adoption
-
-### [A doctor thought to be formerly employed with the Bronx-Lebanon Hospital Center kills one and wounds five others at the facility in New York City. ](/news/2017/06/30/a-doctor-thought-to-be-formerly-employed-with-the-bronx-lebanon-hospital-center-kills-one-and-wounds-five-others-at-the-facility-in-new-york.md)
-A doctor shot six people inside a New York City hospital, one of them fatally, before turning the gun on himself in what appears to be a case of workplace violence Friday afternoon, officials say. 
-
-### [France's National Front leader Marine Le Pen is under investigation for alleged misuse of European Union funding. ](/news/2017/06/30/france-s-national-front-leader-marine-le-pen-is-under-investigation-for-alleged-misuse-of-european-union-funding.md)
-Magistrates in France have placed Marine Le Pen under formal investigation. This comes after preliminary inquiries into allegations that European
-
-### [A study funded by Bayer and Syngenta confirms that neonicotinoid insecticides kill queen and worker bees. ](/news/2017/06/30/a-study-funded-by-bayer-and-syngenta-confirms-that-neonicotinoid-insecticides-kill-queen-and-worker-bees.md)
-A huge new study conducted in 33 sites across Europe finds that seeds coated with neonicotinoid pesticides harm bees living nearby. The damage, though, depends on local conditions.
-
-### [A temperature of 53.7degC (128.7degF) is recorded during the 2017 heat wave in Ahvaz, Khuzestan Province, breaking Iran's previous record and becoming one of the highest temperatures ever recorded on Earth. ](/news/2017/06/30/a-temperature-of-53-7adegc-128-7adegf-is-recorded-during-the-2017-heat-wave-in-ahvaz-khuzestan-province-breaking-iran-s-previous-record-and.md)
-Ahvaz hits hottest temperature ever recorded in Iran, and possibly the world.
-
----
-
-## [Previous Day...](/news/2017/06/29/index.md)
+## [Previous Day...](/news/2017/06/30/index.md)
 
 ---
 
