@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Boston Globe via MSN](http://www.msn.com/en-us/news/politics/photos-show-christie-lounging-at-nj-state-beach-closed-due-to-government-shutdown/ar-BBDDIE6?li=BBnb7Kz&ocid=iehp)
+2. [Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2017/07/03/chris-christie-enjoyed-a-closed-beach-then-got-flamed-but-he-definitely-did-not-get-a-tan/?utm_term=.561fb246f075)
 
 ### Related:
 
@@ -20,4 +21,4 @@
 7. [Bridgegate scandal:A former aide of Chris Christie accuses the governor of having knowledge of the event. ](/news/2014/02/1/bridgegate-scandal-pa-former-aide-of-chris-christie-accuses-the-governor-of-having-knowledge-of-the-event.md) _Context: Chris Christie_
 8. [New Jersey Governor Chris Christie is sued for his role on "Bridgegate". ](/news/2014/01/9/new-jersey-governor-chris-christie-is-sued-for-his-role-on-bridgegate.md) _Context: Chris Christie_
 9. [New Jersey Governor Chris Christie apologizes for his senior aides intentionally causing a traffic jam on the George Washington Bridge for political retribution in September 2013. ](/news/2014/01/9/new-jersey-governor-chris-christie-apologizes-for-his-senior-aides-intentionally-causing-a-traffic-jam-on-the-george-washington-bridge-for-p.md) _Context: Chris Christie_
-10. [New Jersey Governor Chris Christie appoints Jeffrey Chiesa (R-NJ) as a U.S. Senator following the death of Frank Lautenberg. He will serve until a special election is held later this year. ](/news/2013/06/6/new-jersey-governor-chris-christie-appoints-jeffrey-chiesa-r-nj-as-a-u-s-senator-following-the-death-of-frank-lautenberg-he-will-serve-u.md) _Context: Chris Christie_
+10. [39 people are injured due to malfunctioning fireworks at a 4th of July event in Simi Valley, California. ](/news/2013/07/5/39-people-are-injured-due-to-malfunctioning-fireworks-at-a-4th-of-july-event-in-simi-valley-california.md) _Context: holiday_
