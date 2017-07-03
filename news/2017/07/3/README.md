@@ -6,5 +6,8 @@ Floods in southern China have killed at least 15 people over the past few days a
 ### [At least 17 people are unaccounted for after a bus collides with a truck in the German state of Bavaria. Thirty-one people are injured. ](/news/2017/07/3/at-least-17-people-are-unaccounted-for-after-a-bus-collides-with-a-truck-in-the-german-state-of-bavaria-thirty-one-people-are-injured.md)
 A COACH went up in flames after it crashed into a truck in southern Germany, injuring 31 people and leaving at least 17 others still ‘to be accounted for’, police said. 
 
+### [Amid growing tensions between China and India and Bhutan over the Doklam tri-junction, a spokesman on behalf of Bhutan via ''India Today'' urges India and China to "de-escalate the situation at the border and bring back normalcy". India and China have been locked in a military stand-off at the Doklam tri-junction since late June. ''[http://indiatoday.intoday.in/story/china-bhutan-india-doka-la-tensions-thimphu/1/992752.html (India Today)]''](/news/2017/07/3/amid-growing-tensions-between-china-and-india-and-bhutan-over-the-doklam-tri-junction-a-spokesman-on-behalf-of-bhutan-via-india-today-u.md)
+_Context: Bhutan, Bhutan-China relations, China, China-India relations, Doklam tri-junction, India, India Today_
+
 ## [Previous Day...](/news/2017/07/2/index.md)
 
