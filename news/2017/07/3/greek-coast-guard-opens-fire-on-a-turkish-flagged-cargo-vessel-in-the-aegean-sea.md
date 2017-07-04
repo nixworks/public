@@ -1,6 +1,6 @@
 ### [2017-07-3](/news/2017/07/3/index.md)
 
-# Greek coast guard opens fire on a Turkish-flagged cargo vessel in the Aegean Sea. 
+# Greek coast guard opens fire on a Turkish-flagged cargo vessel in the  Aegean Sea. 
 
 The captain of a Turkishfreight ship on Monday said the Greek coast guard opened fire onhis vessel after he refused an order to dock at a port in theAegean Sea.
 

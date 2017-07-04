@@ -6,6 +6,9 @@ Barriers protected the building in the Créteil suburb and the suspect was arres
 ### [Iraq Prime Minister Haider al-Abadi declares the end of the Islamic State's self-declared caliphate following the capture of the Great Mosque of al-Nuri in Mosul. ](/news/2017/06/29/iraq-prime-minister-haider-al-abadi-declares-the-end-of-the-islamic-state-s-self-declared-caliphate-following-the-capture-of-the-great-mosqu.md)
 With the capture of a destroyed mosque in the heart of the ISIS’ Iraqi capital of Mosul, the nation&#x27;s government declared victory over ISIS militants in Iraq.
 
+### [A farewell ceremony in Honiara ends the 14 year RAMSI mission in the Solomon Islands. ](/news/2017/06/29/a-farewell-ceremony-in-honiara-ends-the-14-year-ramsi-mission-in-the-solomon-islands.md)
+Thousands turned up at Lawson Tama stadium in Honiara yesterday to farewell the Regional Assistance Mission to Solomon Islands which officially ends 14 years of peace and nation building work in the country today.
+
 ### [At least twelve people die and two others are injured after a cable car falls nearly 500 feet into a ditch in Charra Pani, Galyat, Pakistan. ](/news/2017/06/29/at-least-twelve-people-die-and-two-others-are-injured-after-a-cable-car-falls-nearly-500-feet-into-a-ditch-in-charra-pani-galyat-pakistan.md)
 At least 12 persons were killed and two were injured when a cable car (doli) installed by local villagers broke down and fell at Charra Pani in the area of Galiyat region on Thursday. The cable car, installed over a nullah between Charra Pani and B ..
 
