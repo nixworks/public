@@ -1,6 +1,6 @@
 ### [2017-07-4](/news/2017/07/4/index.md)
 
-# A garment factory boiler explosion   in Dhaka, Bangladesh, kills 10 people and injures dozens. 
+# A garment factory boiler explosion in Dhaka, Bangladesh, kills 10 people and injures dozens. 
 
 
 
