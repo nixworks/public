@@ -12,7 +12,7 @@ France 2&rsquo;s Philippe Verdier pooh-poohed global warming ahead of UN summit 
 
 ### Related:
 
-1. [Two gunmen open fire near a mosque in Avignon, France, injuring eight people. ](/news/2017/07/2/two-gunmen-open-fire-near-a-mosque-in-avignon-france-injuring-eight-people.md) _Context: France_
+1. [Two gunmen open fire near a mosque in Avignon, France, injuring eight people. Two of the victims were hospitalised. ](/news/2017/07/2/two-gunmen-open-fire-near-a-mosque-in-avignon-france-injuring-eight-people-two-of-the-victims-were-hospitalised.md) _Context: France_
 2. [A man who was yelling "This is for Syria" while attacking a police officer with a hammer near Notre-Dame de Paris, France is shot and wounded by another officer.  Prosecutors open a terrorism probe. ](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wounde.md) _Context: France_
 3. [A temperature of 53.7degC (128.7degF) is recorded during the 2017 heat wave in Ahvaz, Khuzestan Province, breaking Iran's previous record and becoming one of the highest temperatures ever recorded on Earth. ](/news/2017/06/30/a-temperature-of-53-7adegc-128-7adegf-is-recorded-during-the-2017-heat-wave-in-ahvaz-khuzestan-province-breaking-iran-s-previous-record-and.md) _Context: Global warming_
 4. [A man attempts to run over pedestrians outside a mosque in Creteil, France. ](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-cra-c-teil-france.md) _Context: France_

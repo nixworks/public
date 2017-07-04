@@ -25,7 +25,7 @@ The Zika virus behind an outbreak in Singapore was not imported from South Ameri
 _Context: 2016 U.S. presidential election, Gary Johnson, Libertarian, Richmond Times-Dispatch, Virginia_
 
 ### [Voters in the federal German state of Mecklenburg-Vorpommern head to the polls in a regional election to elect members to the Landtag of Mecklenburg-Vorpommern. The latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to gain strongly. ](/news/2016/09/4/voters-in-the-federal-german-state-of-mecklenburg-vorpommern-head-to-the-polls-in-a-regional-election-to-elect-members-to-the-landtag-of-mec.md)
-_Context: Alternative for Germany, Germany, Landtag of Mecklenburg-Vorpommern, Mecklenburg-Vorpommern, Mecklenburg-Vorpommern state election, 2016_
+_Context: Alternative for Germany, German, Landtag of Mecklenburg-Vorpommern, Mecklenburg-Vorpommern, Mecklenburg-Vorpommern state election, 2016_
 
 ### [Voters in Hong Kong go to the polls for a Legislative Council election, the first major election since the 2014 pro-democracy street protests. Several young pro-independence candidates win seats in the election. ](/news/2016/09/4/voters-in-hong-kong-go-to-the-polls-for-a-legislative-council-election-the-first-major-election-since-the-2014-pro-democracy-street-protest.md)
 _Context: 2014 pro-democracy street protests, Hong Kong, Hong Kong legislative election, 2016, Legislative Council_

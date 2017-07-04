@@ -1,16 +1,16 @@
 ## [2007-05-26](/news/2007/05/26/index.md)
 
 ### [ A thousand Czech protesters gather in Wenceslas Square in the centre of Prague to protest against Czech participation in the United States missile defence system. ](/news/2007/05/26/a-thousand-czech-protesters-gather-in-wenceslas-square-in-the-centre-of-prague-to-protest-against-czech-participation-in-the-united-states.md)
-_Context: Czech Republic, Prague, United States, Wenceslas Square, missile defence_
+_Context: Czech Republic, Prague, U.S., Wenceslas Square, missile defence_
 
 ### [ Iran claims to have uncovered an espionage network run by the United States and its allies. ](/news/2007/05/26/iran-claims-to-have-uncovered-an-espionage-network-run-by-the-united-states-and-its-allies.md)
-_Context: Iran, United States, espionage_
+_Context: Iran, U.S., espionage_
 
 ### [ Fianna Fil performs strongly in the Irish general election, putting it in a strong position to retain government. ](/news/2007/05/26/fianna-fail-performs-strongly-in-the-irish-general-election-putting-it-in-a-strong-position-to-retain-government.md)
 As counting in the General Election comes to a close, Fianna Fáil has won 78 seats and is now seeking coalition partners to give Bertie Ahern a third term as Taoiseach.
 
 ### [ Germany celebrates the 175th anniversary of the Hambacher Fest. ](/news/2007/05/26/germany-celebrates-the-175th-anniversary-of-the-hambacher-fest.md)
-_Context: Germany, Hambacher Fest_
+_Context: German, Hambacher Fest_
 
 ### [ Several thousand Ukrainian Interior Ministry troops head for Kiev in defiance of orders to support President Viktor Yushchenko. ](/news/2007/05/26/several-thousand-ukrainian-interior-ministry-troops-head-for-kiev-in-defiance-of-orders-to-support-president-viktor-yushchenko.md)
 _Context: Kiev, Ukrainian, Ukrainian President, Viktor Yushchenko_

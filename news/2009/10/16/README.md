@@ -4,7 +4,7 @@
 _Context: Botswana, general election_
 
 ### [ The United States records a budget deficit of $1.42 trillion. ](/news/2009/10/16/the-united-states-records-a-budget-deficit-of-1-42-trillion.md)
-_Context: United States, budget deficits_
+_Context: U.S., budget deficits_
 
 ### [ Stephen Gately: The surviving members of Boyzone fly to Majorca to escort the body of Stephen Gately home to Dublin.  ](/news/2009/10/16/stephen-gately-p-the-surviving-members-of-boyzone-fly-to-majorca-to-escort-the-body-of-stephen-gately-home-to-dublin.md)
 Stephen Gately&#39;s body has arrived at the Church of St Laurence O&#39;Toole, accompanied by his family, partner Andrew Cowles and the other members of Boyzone.
@@ -49,7 +49,7 @@ Around 20 Muslim protesters hurled abuse at far-right Dutch MP Geert Wilders as 
 _Context: Uruguay_
 
 ### [ German heavy metal band Rammstein releases their seventh album, Liebe ist fur Alle Da in Germany.](/news/2009/10/16/german-heavy-metal-band-rammstein-releases-their-seventh-album-liebe-ist-fa1-4r-alle-da-in-germany.md)
-_Context: German, Germany, Liebe ist fur Alle Da, Rammstein, heavy metal band's_
+_Context: German, German, Liebe ist fur Alle Da, Rammstein, heavy metal band's_
 
 ## [Previous Day...](/news/2009/10/15/index.md)
 

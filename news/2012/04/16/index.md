@@ -37,7 +37,7 @@ Footage posted online showed officer striking pro-Palestinian activist in face d
 _Context: 2011 Norway attacks, Anders Behring Breivik, Oslo, trial_
 
 ### [The murderer of two girls in Krailling, Bavaria (Germany) is convicted and sentenced to life imprisonment. ](/news/2012/04/16/the-murderer-of-two-girls-in-krailling-bavaria-germany-is-convicted-and-sentenced-to-life-imprisonment.md)
-_Context: Bavaria, Germany, Krailling, two girls_
+_Context: Bavaria, German, Krailling, two girls_
 
 ### [The European Court of Human Rights rules that Russia violated the rights of ten relatives of victims of the 1940 Katyn Massacre, and describes the massacre as a war crime. ](/news/2012/04/16/the-european-court-of-human-rights-rules-that-russia-violated-the-rights-of-ten-relatives-of-victims-of-the-1940-katyn-massacre-and-describ.md)
 The European Court of Human Rights ruled on Monday that Russia had violated the rights of relatives of Poles who were killed by the Soviet secret police in 1940, and described the Katyn massacre as a &quot;war crime&quot;.

@@ -28,7 +28,7 @@ Voting started in Romania&#39;s second round of presidential elections on Sunday
 _Context: Comoros, Legislative elections_
 
 ### [ Archaeologists discover evidence of mass cannibalism in Europe during the Neolithic period at a 7,000-year-old burial site in Germany. ](/news/2009/12/6/archaeologists-discover-evidence-of-mass-cannibalism-in-europe-during-the-neolithic-period-at-a-7-000-year-old-burial-site-in-germany.md)
-_Context: Europe, Germany, Neolithic, eat_
+_Context: Europe, German, Neolithic, eat_
 
 ## [Previous Day...](/news/2009/12/5/index.md)
 

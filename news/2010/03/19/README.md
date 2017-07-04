@@ -31,7 +31,7 @@ Jeddah Summary Court sends copy of lawsuit filed against writer to justice minis
 _Context: Ethiopia, Meles Zenawi, Prime Minister, Voice of America, genocide_
 
 ### [Egyptian mosques pray for President Hosni Mubarak&mdash;who is ill and whose health is taboo&mdash;as images of his recovery in Germany are broadcast on television screens, boosting stock markets. ](/news/2010/03/19/egyptian-mosques-pray-for-president-hosni-mubarak-mdash-who-is-ill-and-whose-health-is-taboo-mdash-as-images-of-his-recovery-in-germany-are.md)
-_Context: Egypt, Egyptian President, Germany, Hosni Mubarak, mosque_
+_Context: Egypt, Egyptian President, German, Hosni Mubarak, mosque_
 
 ### [Switzerland ceases to deport asylum seekers in response to the death of a Nigerian man at Zrich Airport as he was being forcefully deported. Nigeria condemns the occurrence. ](/news/2010/03/19/switzerland-ceases-to-deport-asylum-seekers-in-response-to-the-death-of-a-nigerian-man-at-zurich-airport-as-he-was-being-forcefully-deported.md)
 BERLIN - Switzerland has halted all repatriation flights for rejected asylum seekers after a Nigerian man on hunger strike died in police shackles at Zurich airport as he was being - New Zealand Herald
@@ -43,7 +43,7 @@ _Context: Molemo "Jub Jub" Maarohanye, South Africa_
 Sheikh Ahmed Mohammed Ahmed al-Tayeb named as head of Al-Azhar Islamic institution.
 
 ### [A judge in the United States rejects a $657.5 million deal for 10,000 people involved in the aftermath of 9/11. ](/news/2010/03/19/a-judge-in-the-united-states-rejects-a-657-5-million-deal-for-10-000-people-involved-in-the-aftermath-of-9-11.md)
-_Context: September 11 attacks, United States_
+_Context: September 11 attacks, U.S._
 
 ### [FIFA dismisses the bid of Indonesia for the 2022 FIFA World Cup after the country failed to provide "guarantees". ](/news/2010/03/19/fifa-dismisses-the-bid-of-indonesia-for-the-2022-fifa-world-cup-after-the-country-failed-to-provide-guarantees.md)
 Indonesia is out of the race to host the 2022 World Cup, FIFA says.

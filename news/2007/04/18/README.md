@@ -13,7 +13,7 @@ _Context: International Atomic Energy Agency, Iran, Natanz, centrifuge, diplomat
 _Context: Gonzales v. Carhart, Partial-Birth Abortion Ban Act, Supreme Court of the United States_
 
 ### [ Virginia Tech massacre: Virginia Tech police respond to what turned out to be an unfounded threat near Norris Hall, where 31 people died Monday in the United States's deadliest ever shooting spree. ](/news/2007/04/18/virginia-tech-massacre-p-virginia-tech-police-respond-to-what-turned-out-to-be-an-unfounded-threat-near-norris-hall-where-31-people-died-m.md)
-_Context: United States, Virginia Tech, massacre, shooting spree_
+_Context: U.S., Virginia Tech, massacre, shooting spree_
 
 ### [ Iraqi insurgency: At least 198 people are confirmed dead after a series of bombings in Baghdad. ](/news/2007/04/18/iraqi-insurgency-p-at-least-198-people-are-confirmed-dead-after-a-series-of-bombings-in-baghdad.md)
 _Context: Baghdad, Iraqi insurgency, series of bombings_
@@ -25,7 +25,7 @@ _Context: Al Jizah, Egypt, governorates, secondary school, truck_
 _Context: Bible, Turkey, sectarian_
 
 ### [ Australia and the United States agree to exchange hundreds of asylum seekers kept in offshore detention camps in Nauru and Guantanamo Bay. ](/news/2007/04/18/australia-and-the-united-states-agree-to-exchange-hundreds-of-asylum-seekers-kept-in-offshore-detention-camps-in-nauru-and-guantanamo-bay.md)
-_Context: Australia, Nauru, United States, asylum seeker, detainee_
+_Context: Australia, Nauru, U.S., asylum seeker, detainee_
 
 ### [ Iccho Itoh, Mayor of Nagasaki, Japan, dies after being shot in a suspected gangland killing on Tuesday. Japanese Prime Minister Shinzo Abe denounces the murder as unforgivable. ](/news/2007/04/18/iccho-itoh-mayor-of-nagasaki-japan-dies-after-being-shot-in-a-suspected-gangland-killing-on-tuesday-japanese-prime-minister-shinzo-abe.md)
 The mayor of the Japanese city of Nagasaki died early on Wednesday after being gunned down by a suspected gangster, stunning a nation where shootings are extremely rare.

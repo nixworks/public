@@ -4,7 +4,7 @@
 _Context: British Parliament, Hayes and Harlington, House of Commons of the United Kingdom, John McDonnell, MP, United Kingdom, ceremonial mace_
 
 ### [ President George W. Bush bids farewell to the United States in a 15-minute televised address, during which he touted his record and warned his successor, Barack Obama, to maintain an aggressive stance against terrorism. ](/news/2009/01/15/president-george-w-bush-bids-farewell-to-the-united-states-in-a-15-minute-televised-address-during-which-he-touted-his-record-and-warned.md)
-_Context: Barack Obama, George W. Bush, United States, United States President, terrorism_
+_Context: Barack Obama, George W. Bush, U.S., United States President, terrorism_
 
 ### [ Sweden's National Bank announces that all 1-krona coins minted in 2009 will carry a new motif on their reverse to commemorate the 200th anniversary of Finland's separation from Sweden. ](/news/2009/01/15/sweden-s-national-bank-announces-that-all-1-krona-coins-minted-in-2009-will-carry-a-new-motif-on-their-reverse-to-commemorate-the-200th-ann.md)
 _Context: Finland, National Bank, SKr, Sweden, separation_
@@ -22,7 +22,7 @@ _Context: Canada, Toronto, Ontario_
 _Context: Mars, Mars' atmosphere, NASA, geologists, methane_
 
 ### [ China's gross domestic product grew 13&nbsp;percent during 2007, overtaking Germany to become the world's third largest economy. ](/news/2009/01/15/china-s-gross-domestic-product-grew-13-nbsp-percent-during-2007-overtaking-germany-to-become-the-world-s-third-largest-economy.md)
-_Context: GDP, Germany, People's Republic of China, sixth-largest economy_
+_Context: GDP, German, People's Republic of China, sixth-largest economy_
 
 ### [ 2008-2009 Israel-Gaza conflict: Hamas 'in principle' accepts the United Nations' call for an immediate ceasefire in the Gaza Strip. ](/news/2009/01/15/2008a2009-israelagaza-conflict-p-hamas-in-principle-accepts-the-united-nations-call-for-an-immediate-ceasefire-in-the-gaza-strip.md)
 _Context: Gaza Strip, Hamas, United Nations, call, ceasefire, fire_

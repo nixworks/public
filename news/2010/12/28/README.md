@@ -4,7 +4,7 @@
 A series of suspected US missile strikes kill at least 17 people in the North Waziristan tribal district.
 
 ### [Somali pirates release a German ship with 22 crew, eight months after it was seized near Oman. ](/news/2010/12/28/somali-pirates-release-a-german-ship-with-22-crew-eight-months-after-it-was-seized-near-oman.md)
-_Context: Germany, Oman, Somali pirates_
+_Context: German, Oman, Somali pirates_
 
 ### [The death toll from recent violence between Christians and Muslims in Jos, Nigeria, rises to 80. Islamist group Boko Haram claims responsibility for the deadly Christmas Eve bombings in the city. ](/news/2010/12/28/the-death-toll-from-recent-violence-between-christians-and-muslims-in-jos-nigeria-rises-to-80-islamist-group-boko-haram-claims-responsibi.md)
 A radical Islamist sect said on Tuesday it was behind bombings in central Nigeria and attacks on churches in the northeast of the country that led to the deaths of at least 86 people.

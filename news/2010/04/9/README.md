@@ -22,7 +22,7 @@ Heavy security amid fears of racial tensions around funeral of Eugene Terreblanc
 _Context: Thailand, red shirt_
 
 ### [Germany charges a former member of the Red Army Faction (RAF) in connection with the murder of Attorney General Siegfried Buback, who was shot alongside two other men in 1977. ](/news/2010/04/9/germany-charges-a-former-member-of-the-red-army-faction-raf-in-connection-with-the-murder-of-attorney-general-siegfried-buback-who-was-sh.md)
-_Context: Attorney General of Germany, Germany, Red Army Faction, Siegfried Buback_
+_Context: Attorney General of Germany, German, Red Army Faction, Siegfried Buback_
 
 ### [Sri Lanka's governing coalition wins a majority in the country's 2010 parliamentary election. ](/news/2010/04/9/sri-lanka-s-governing-coalition-wins-a-majority-in-the-country-s-2010-parliamentary-election.md)
 _Context: Sri Lanka, parliamentary election_

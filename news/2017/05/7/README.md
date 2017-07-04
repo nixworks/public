@@ -4,7 +4,7 @@
 HANOI (AFP) - A truck driving in the wrong direction on a one-way road smashed into a bus in Vietnam&#039;s central highlands on Sunday (May 7) killing at least 11 people, state media said.. Read more at straitstimes.com.
 
 ### [Around 50,000 people are evacuated from the German city of Hanover while bomb disposal experts defuse three bombs dropped by the Royal Air Force during World War II. ](/news/2017/05/7/around-50-000-people-are-evacuated-from-the-german-city-of-hanover-while-bomb-disposal-experts-defuse-three-bombs-dropped-by-the-royal-air-f.md)
-_Context: Germany, Hanover, Royal Air Force, World War II, bomb disposal_
+_Context: German, Hanover, Royal Air Force, World War II, bomb disposal_
 
 ### [A state of emergency is declared in Montreal, Canada as 1,200 Canadian Forces personnel are deployed in the province of Quebec to help with rising floodwaters. 146 communities are affected and more than 1,500 residents have been evacuated from their homes. ](/news/2017/05/7/a-state-of-emergency-is-declared-in-montreal-canada-as-1-200-canadian-forces-personnel-are-deployed-in-the-province-of-quebec-to-help-with.md)
 Mayor Denis Coderre has declared a state of emergency for Montreal amid the risk of rising floodwaters in Montreal. Canadian Forces have dispatched 1,200 to the province to help. 

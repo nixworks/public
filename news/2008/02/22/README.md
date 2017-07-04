@@ -16,10 +16,10 @@ Thousands of Turkish troops have crossed into northern Iraq to hunt Kurdish rebe
 _Context: His Majesty's Government, Northern Rock, nationalizes_
 
 ### [ The United States warns the Serbian government that it has a responsibility to protect its assets after about 1,000 protesters set fire to the U.S. embassy in anger at Kosovo's declaration of independence. ](/news/2008/02/22/the-united-states-warns-the-serbian-government-that-it-has-a-responsibility-to-protect-its-assets-after-about-1-000-protesters-set-fire-to.md)
-_Context: Kosovo, Serbia, United States_
+_Context: Kosovo, Serbia, U.S._
 
 ### [ A United States Air Force B-2 Spirit stealth bomber crashes at Anderson Air Force Base on Guam. The two pilots ejected, with one hospitalized. It is the first B-2 to crash. ](/news/2008/02/22/a-united-states-air-force-b-2-spirit-stealth-bomber-crashes-at-anderson-air-force-base-on-guam-the-two-pilots-ejected-with-one-hospitaliz.md)
-_Context: Air Force, Anderson Air Force Base, B-2 Spirit, Guam, United States, bomber, ejected, stealthy planes_
+_Context: Air Force, Anderson Air Force Base, B-2 Spirit, Guam, U.S., bomber, ejected, stealthy planes_
 
 ## [Previous Day...](/news/2008/02/21/index.md)
 

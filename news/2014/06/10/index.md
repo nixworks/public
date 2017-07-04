@@ -16,7 +16,7 @@ The important northern city was seized by an Al Qaeda offshoot after Iraqi troop
 Five American soldiers have been killed accidentally by their own side in southern Afghanistan, US military sources confirm.
 
 ### [Violent storms in western Germany with high winds and flooding kill six people. ](/news/2014/06/10/violent-storms-in-western-germany-with-high-winds-and-flooding-kill-six-people.md)
-_Context: Germany_
+_Context: German_
 
 ### [US Olympic swimming gold medal winner Amy Van Dyken severs her spine in a severe ATV accident.  ](/news/2014/06/10/us-olympic-swimming-gold-medal-winner-amy-van-dyken-severs-her-spine-in-a-severe-atv-accident.md)
 A six-time US Olympic gold medal-winning swimmer severs her spinal cord in an all-terrain vehicle accident over the weekend.

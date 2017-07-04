@@ -19,7 +19,7 @@ _Context: Brazil, Jos Cludio Ribeiro da Silva, Par State_
 * Parties to start coalition talks * Ex-president and current PM aim to form core of new govt * Russian minority hopes for say in administ
 
 ### [Berlin election:Voters in the German capital of Berlin go to the polls for a state election, with current mayor Klaus Wowereit and his Social Democrats doing well. ](/news/2011/09/18/berlin-election-pvoters-in-the-german-capital-of-berlin-go-to-the-polls-for-a-state-election-with-current-mayor-klaus-wowereit-and-his-soci.md)
-_Context: Berlin, Berlin election, Germany, Klaus Wowereit, Social Democrats_
+_Context: Berlin, Berlin election, German, Klaus Wowereit, Social Democrats_
 
 ### [Sinn Fein announces that Martin McGuinness, current Deputy First Minister of Northern Ireland and former Irish Republican Army commander, will be a candidate for the Irish presidential election with John O'Dowd serving as acting Deputy First Minister. ](/news/2011/09/18/sinn-fein-announces-that-martin-mcguinness-current-deputy-first-minister-of-northern-ireland-and-former-irish-republican-army-commander-wi.md)
 _Context: Irish Republican Army, Irish presidential election, John O'Dowd, Martin McGuinness, Northern Ireland, Sinn Fin, deputy First Minister of Northern Ireland_

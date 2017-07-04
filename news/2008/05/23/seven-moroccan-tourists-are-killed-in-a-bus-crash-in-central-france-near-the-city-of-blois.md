@@ -12,7 +12,7 @@ Seven people have been killed in a bus crash in central France.
 ### Related:
 
 1. [ France and Morocco agree to a deal to build a high-speed rail link between Tangiers and Marrakech. ](/news/2007/10/22/france-and-morocco-agree-to-a-deal-to-build-a-high-speed-rail-link-between-tangiers-and-marrakech.md) _Context: France, Morocco_
-2. [Two gunmen open fire near a mosque in Avignon, France, injuring eight people. ](/news/2017/07/2/two-gunmen-open-fire-near-a-mosque-in-avignon-france-injuring-eight-people.md) _Context: France_
+2. [Two gunmen open fire near a mosque in Avignon, France, injuring eight people. Two of the victims were hospitalised. ](/news/2017/07/2/two-gunmen-open-fire-near-a-mosque-in-avignon-france-injuring-eight-people-two-of-the-victims-were-hospitalised.md) _Context: France_
 3. [The oldest fossil records of ''Homo sapiens'' are discovered in Jebel Irhoud, Morocco, dated at between 300,000 and 350,000 years old. The earliest ''Homo sapiens'' fossils had been dated as 200,000 years old. ](/news/2017/06/7/the-oldest-fossil-records-of-homo-sapiens-are-discovered-in-jebel-irhoud-morocco-dated-at-between-300-000-and-350-000-years-old-the-e.md) _Context: Morocco_
 4. [A man who was yelling "This is for Syria" while attacking a police officer with a hammer near Notre-Dame de Paris, France is shot and wounded by another officer.  Prosecutors open a terrorism probe. ](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wounde.md) _Context: France_
 5. [A man attempts to run over pedestrians outside a mosque in Creteil, France. ](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-cra-c-teil-france.md) _Context: France_

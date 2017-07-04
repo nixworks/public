@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Two gunmen open fire near a mosque in Avignon, France, injuring eight people. ](/news/2017/07/2/two-gunmen-open-fire-near-a-mosque-in-avignon-france-injuring-eight-people.md) _Context: France_
+1. [Two gunmen open fire near a mosque in Avignon, France, injuring eight people. Two of the victims were hospitalised. ](/news/2017/07/2/two-gunmen-open-fire-near-a-mosque-in-avignon-france-injuring-eight-people-two-of-the-victims-were-hospitalised.md) _Context: France_
 2. [A man who was yelling "This is for Syria" while attacking a police officer with a hammer near Notre-Dame de Paris, France is shot and wounded by another officer.  Prosecutors open a terrorism probe. ](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wounde.md) _Context: France_
 3. [Bahrain, Egypt, Libya, the Maldives, Saudi Arabia, the United Arab Emirates, and the internationally recognized government of Yemen sever diplomatic ties with Qatar, ordering Qatari citizens in those countries to be expelled as well as cutting all land, air and sea connections. "National security," "media incitement" and Qatar's support of Iran are variously cited. ](/news/2017/06/5/bahrain-egypt-libya-the-maldives-saudi-arabia-the-united-arab-emirates-and-the-internationally-recognized-government-of-yemen-sever-di.md) _Context: Bahrain_
 4. [Bahrain bans the independent ''Al-Wasat'' newspaper on grounds that it "sows division" in the Shia-majority kingdom. ](/news/2017/06/4/bahrain-bans-the-independent-al-wasat-newspaper-on-grounds-that-it-sows-division-in-the-shia-majority-kingdom.md) _Context: Bahrain_

@@ -40,7 +40,7 @@ _Context: Antichrist, Ian Paisley_
 _Context: Barack Obama, CISAD Act, Revolutionary Guards, United States President_
 
 ### [Germany vows to suspend aid to Zimbabwe unless occupiers leave a farm owned by a German national. ](/news/2010/07/2/germany-vows-to-suspend-aid-to-zimbabwe-unless-occupiers-leave-a-farm-owned-by-a-german-national.md)
-_Context: Germany, Zimbabwe_
+_Context: German, Zimbabwe_
 
 ### [Gazprom and Beltransgaz sign a gas transit deal, setting the transit fee for this year. ](/news/2010/07/2/gazprom-and-beltransgaz-sign-a-gas-transit-deal-setting-the-transit-fee-for-this-year.md)
 _Context: Beltransgaz, Gazprom_

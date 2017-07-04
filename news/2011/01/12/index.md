@@ -10,7 +10,7 @@ At least eight people are killed in attacks on Afghan intelligence forces in Kab
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Angela Merkel, Chancellor of Germany, reaffirms that country's support for the euro in a joint press conference with the Prime Minister of Italy, Silvio Berlusconi. ](/news/2011/01/12/angela-merkel-chancellor-of-germany-reaffirms-that-country-s-support-for-the-euro-in-a-joint-press-conference-with-the-prime-minister-of-i.md)
-_Context: Angela Merkel, German Chancellor, Germany, Italian Prime Minister, Italy, Silvio Berlusconi, euro_
+_Context: Angela Merkel, German, German Chancellor, Italian Prime Minister, Italy, Silvio Berlusconi, euro_
 
 ### [Australian floodsThe floods in Queensland, Australia, worsen further with 20,000 properties in the capital Brisbane expected to be flooded and 4,000 homes flooded in the nearby city of Ipswich. ](/news/2011/01/12/australian-floodspthe-floods-in-queensland-australia-worsen-further-with-20-000-properties-in-the-capital-brisbane-expected-to-be-flooded.md)
 Brisbane is preparing for the full impact of its worst flooding in more than 100 years, with officials warning almost 20,000 homes in the city will be flooded by early tomorrow morning.

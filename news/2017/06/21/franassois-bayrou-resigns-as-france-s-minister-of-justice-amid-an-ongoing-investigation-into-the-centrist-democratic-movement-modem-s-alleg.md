@@ -11,7 +11,7 @@ Centrist leader François Bayrou is the latest to resign as the president finali
 
 ### Related:
 
-1. [Two gunmen open fire near a mosque in Avignon, France, injuring eight people. ](/news/2017/07/2/two-gunmen-open-fire-near-a-mosque-in-avignon-france-injuring-eight-people.md) _Context: France_
+1. [Two gunmen open fire near a mosque in Avignon, France, injuring eight people. Two of the victims were hospitalised. ](/news/2017/07/2/two-gunmen-open-fire-near-a-mosque-in-avignon-france-injuring-eight-people-two-of-the-victims-were-hospitalised.md) _Context: France_
 2. [A man who was yelling "This is for Syria" while attacking a police officer with a hammer near Notre-Dame de Paris, France is shot and wounded by another officer.  Prosecutors open a terrorism probe. ](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wounde.md) _Context: France_
 3. [A man attempts to run over pedestrians outside a mosque in Creteil, France. ](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-cra-c-teil-france.md) _Context: France_
 4. [A car carrying firearms and gas bottles deliberately rammed a police vehicle on the Champs-Elysees in Paris, France, subsequently bursting into flames. The driver, who was on a security watchlist, was shot dead. ](/news/2017/06/19/a-car-carrying-firearms-and-gas-bottles-deliberately-rammed-a-police-vehicle-on-the-champs-alysa-c-es-in-paris-france-subsequently-bursting.md) _Context: France_

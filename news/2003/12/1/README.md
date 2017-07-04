@@ -4,7 +4,7 @@
 _Context: Iraq, Occupation of Iraq, currency_
 
 ### [ World AIDS Day: US Health Secretary Tommy Thompson warns that the world is losing the war against AIDS. Thompson said, "We need America, the European Union and everybody. Nobody is going to be spared unless we all come together in the fight against this disease." ](/news/2003/12/1/world-aids-day-p-us-health-secretary-tommy-thompson-warns-that-the-world-is-losing-the-war-against-aids-thompson-said-we-need-america-t.md)
-_Context: AIDS, European Union, Health and Human Services Secretary, Tommy Thompson, United States, World Aids Day_
+_Context: AIDS, European Union, Health and Human Services Secretary, Tommy Thompson, U.S., World Aids Day_
 
 ### [ The UN's International Criminal Tribunal for Rwanda hands down a life sentence to Juvenal Kajelijeli, a former mayor of Mukingo, for his role in the 1994 genocide in which more than 500,000 Rwandans were killed. [http://story.news.yahoo.com/news?tmpl=story&cid=515&ncid=723&e=5&u=/ap/20031201/ap_on_re_af/un_rwanda_tribunal]](/news/2003/12/1/the-un-s-international-criminal-tribunal-for-rwanda-hands-down-a-life-sentence-to-juvenal-kajelijeli-a-former-mayor-of-mukingo-for-his-ro.md)
 _Context: 1994, International Criminal Tribunal for Rwanda, Juvenal Kajelijeli, Mukingo, Rwanda, UN, genocide_

@@ -7,7 +7,7 @@ _Context: France, Nicolas Sarkozy, President of France, energy, pension reform, 
 _Context: Denis Johnson, Legacy of Ashes: The History of the CIA, National Book Award's, Robert Hass, Sherman Alexie, The Absolutely True Diary of a Part-Time Indian, Tim Weiner, Time and Materials, Tree of Smoke_
 
 ### [ German train drivers start a 62-hour train strike against Deutsche Bahn, asking for a 31% pay increase. ](/news/2007/11/14/german-train-drivers-start-a-62-hour-train-strike-against-deutsche-bahn-asking-for-a-31-pay-increase.md)
-_Context: 62-hour train strike, Deutsche Bahn, Germany, train driver_
+_Context: 62-hour train strike, Deutsche Bahn, German, train driver_
 
 ### [ The European Parliament far right bloc, Identity, Tradition, Sovereignty, collapses after five Romanian MEPs resign following Alessandra Mussolini's claim that Romanians are "habitual law-breakers". ](/news/2007/11/14/the-european-parliament-far-right-bloc-identity-tradition-sovereignty-collapses-after-five-romanian-meps-resign-following-alessandra-mu.md)
 _Context: Alessandra Mussolini, European Parliament, Identity, Tradition, Sovereignty, Member of the European Parliament, Romania, far right_

@@ -4,7 +4,7 @@
 _Context: George Voinovich, George W. Bush, John R. Bolton, Ohio, Senate Foreign Relations Committee, U.S. ambassador to the United Nations_
 
 ### [ Papal conclave, 2005:  Ringing bells and white smoke at the Vatican indicate that, after four ballots, a new Pope, German Cardinal Joseph Ratzinger, has been elected. He has taken the regnal name Pope Benedict XVI. ](/news/2005/04/19/papal-conclave-2005-ringing-bells-and-white-smoke-at-the-vatican-indicate-that-after-four-ballots-a-new-pope-german-cardinal-joseph-r.md)
-_Context: Cardinal, Germany, Papal conclave, 2005, Pope, Pope Benedict XVI, Vatican City, regnal name, smoke, white_
+_Context: Cardinal, German, Papal conclave, 2005, Pope, Pope Benedict XVI, Vatican City, regnal name, smoke, white_
 
 ### [ ''MyPyramid'' is released by the United States Department of Agriculture. The new food guidance icon is an update of the 13-year-old food guide pyramid, which was itself an update of charts expounding on the ''four basic food groups''. ](/news/2005/04/19/mypyramid-is-released-by-the-united-states-department-of-agriculture-the-new-food-guidance-icon-is-an-update-of-the-13-year-old-food-g.md)
 _Context: MyPyramid, United States Department of Agriculture, basic food groups, food guide pyramid_

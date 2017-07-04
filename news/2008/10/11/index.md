@@ -4,7 +4,7 @@
 _Context: Global financial crisis of September-October 2008_
 
 ### [United States President George W. Bush commits to collaborative action with G7 finance ministers. ](/news/2008/10/11/united-states-president-george-w-bush-commits-to-collaborative-action-with-g7-finance-ministers.md)
-_Context: G7, George W. Bush, United States, United States President_
+_Context: G7, George W. Bush, U.S., United States President_
 
 ### [The International Monetary Fund warns of a global meltdown and offers to lend to countries if needed. ](/news/2008/10/11/the-international-monetary-fund-warns-of-a-global-meltdown-and-offers-to-lend-to-countries-if-needed.md)
 _Context: International Monetary Fund, housing crisis_

@@ -7,7 +7,7 @@ Ukrainian President Viktor Yushchenko on Wednesday abandoned the search for a co
 _Context: African National Congress, Mosiuoa Lekota, South Africa_
 
 ### [ The United States embassy in Beirut seeks assistance in finding two US journalists missing in Lebanon. ](/news/2008/10/8/the-united-states-embassy-in-beirut-seeks-assistance-in-finding-two-us-journalists-missing-in-lebanon.md)
-_Context: Beirut, Lebanon, United States, embassies, journalist_
+_Context: Beirut, Lebanon, U.S., embassies, journalist_
 
 ### [ Nobel Prize: The 2008 Nobel Prize in Chemistry is awarded Osamu Shimomura, Martin Chalfie, and Roger Y. Tsien for the discovery and development of the green fluorescent protein (GFP).](/news/2008/10/8/nobel-prize-p-the-2008-nobel-prize-in-chemistry-is-awarded-osamu-shimomura-martin-chalfie-and-roger-y-tsien-for-the-discovery-and-develo.md)
 _Context: 2008, Martin Chalfie, Nobel Prize, Nobel Prize in Chemistry, Osamu Shimomura, Roger Y. Tsien, green fluorescent protein (GFP)_

@@ -7,7 +7,7 @@ _Context: New England Journal of Medicine, Oscar_
 Nurses in Fiji are holding a national strike over a pay cut forced on them by the country&#039;s interim government.
 
 ### [ A United States federal court judge orders Sudan to pay $8 million in compensation to the victims of the bombing of the USS ''Cole''. ](/news/2007/07/25/a-united-states-federal-court-judge-orders-sudan-to-pay-8-million-in-compensation-to-the-victims-of-the-bombing-of-the-uss-cole.md)
-_Context: Sudan, US$, USS ''Cole'', United States_
+_Context: Sudan, U.S., US$, USS ''Cole''_
 
 ### [  Italian rider Christian Moreni fails a doping test and is led away for questioning by French police ](/news/2007/07/25/italian-rider-christian-moreni-fails-a-doping-test-and-is-led-away-for-questioning-by-french-police.md)
 _Context: 2007 Tour de France, Christian Moreni, Italy, doping_

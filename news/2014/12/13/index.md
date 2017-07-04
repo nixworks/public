@@ -7,7 +7,7 @@ A senior officer of the Afghan Supreme Court is among those killed in the spate 
 _Context: Iraq, Islamic State in Iraq and the Levant, Samarra_
 
 ### [Germany's most successful television show, ''Wetten, dass..?'', ends after a 33-year-run. ](/news/2014/12/13/germany-s-most-successful-television-show-wetten-dass-ends-after-a-33-year-run.md)
-_Context: Germany, Wetten, dass..?_
+_Context: German, Wetten, dass..?_
 
 ### [Landslides caused by heavy rain in Java, Indonesia, kill at least 17 people with a hundred still unaccounted for. ](/news/2014/12/13/landslides-caused-by-heavy-rain-in-java-indonesia-kill-at-least-17-people-with-a-hundred-still-unaccounted-for.md)
 _Context: Indonesia, Java, landslide, landslide_

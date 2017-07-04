@@ -14,7 +14,7 @@
 ### Related:
 
 1. [ In France, 16 people and companies go on trial for effective manslaughter for the Mont Blanc Tunnel fire in 1999. ](/news/2005/01/31/in-france-16-people-and-companies-go-on-trial-for-effective-manslaughter-for-the-mont-blanc-tunnel-fire-in-1999.md) _Context: 1999, France, manslaughter by gross negligence_
-2. [Two gunmen open fire near a mosque in Avignon, France, injuring eight people. ](/news/2017/07/2/two-gunmen-open-fire-near-a-mosque-in-avignon-france-injuring-eight-people.md) _Context: France_
+2. [Two gunmen open fire near a mosque in Avignon, France, injuring eight people. Two of the victims were hospitalised. ](/news/2017/07/2/two-gunmen-open-fire-near-a-mosque-in-avignon-france-injuring-eight-people-two-of-the-victims-were-hospitalised.md) _Context: France_
 3. [A man who was yelling "This is for Syria" while attacking a police officer with a hammer near Notre-Dame de Paris, France is shot and wounded by another officer.  Prosecutors open a terrorism probe. ](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wounde.md) _Context: France_
 4. [A man attempts to run over pedestrians outside a mosque in Creteil, France. ](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-cra-c-teil-france.md) _Context: France_
 5. [Aftermath of the Six people are charged with various offences including manslaughter by gross negligence following the Hillsborough disaster in 1989. ](/news/2017/06/28/aftermath-of-the-six-people-are-charged-with-various-offences-including-manslaughter-by-gross-negligence-following-the-hillsborough-disaster.md) _Context: manslaughter by gross negligence_

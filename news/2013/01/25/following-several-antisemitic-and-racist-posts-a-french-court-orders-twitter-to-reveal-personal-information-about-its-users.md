@@ -13,7 +13,7 @@ In yet another struggle over speech on the Internet, a French court told Twitter
 
 ### Related:
 
-1. [Two gunmen open fire near a mosque in Avignon, France, injuring eight people. ](/news/2017/07/2/two-gunmen-open-fire-near-a-mosque-in-avignon-france-injuring-eight-people.md) _Context: France_
+1. [Two gunmen open fire near a mosque in Avignon, France, injuring eight people. Two of the victims were hospitalised. ](/news/2017/07/2/two-gunmen-open-fire-near-a-mosque-in-avignon-france-injuring-eight-people-two-of-the-victims-were-hospitalised.md) _Context: France_
 2. [A man who was yelling "This is for Syria" while attacking a police officer with a hammer near Notre-Dame de Paris, France is shot and wounded by another officer.  Prosecutors open a terrorism probe. ](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-attacking-a-police-officer-with-a-hammer-near-notre-dame-de-paris-france-is-shot-and-wounde.md) _Context: France_
 3. [A man attempts to run over pedestrians outside a mosque in Creteil, France. ](/news/2017/06/29/a-man-attempts-to-run-over-pedestrians-outside-a-mosque-in-cra-c-teil-france.md) _Context: France_
 4. [Facebook, Inc. announces that its social media service now has  2 billion regular users, more than a quarter of the world's population. Twitter, by comparison, has 328 million users as of April 2017. ](/news/2017/06/27/facebook-inc-announces-that-its-social-media-service-now-has-2-billion-regular-users-more-than-a-quarter-of-the-world-s-population-twit.md) _Context: Twitter_

@@ -25,7 +25,7 @@ _Context: American Idol, Scotty McCreery, tenth season_
 _Context: David Einhorn, Ira W. Sohn Investment Research Conference, Microsoft, Steve Ballmer_
 
 ### [Grimsvotn eruption:Germany shuts down part of its airspace as volcanic ash from the eruption of Iceland's Grimsvotn reaches northern Europe. ](/news/2011/05/25/gramsvaptn-eruption-pgermany-shuts-down-part-of-its-airspace-as-volcanic-ash-from-the-eruption-of-iceland-s-gramsvaptn-reaches-northern-eu.md)
-_Context: Germany, Grimsvotn, Iceland, eruption, northern Europe_
+_Context: German, Grimsvotn, Iceland, eruption, northern Europe_
 
 ### [Powerful storms and tornadoes continue across the Central United States, claiming at least 10 more lives across Arkansas, Kansas and Oklahoma. ](/news/2011/05/25/powerful-storms-and-tornadoes-continue-across-the-central-united-states-claiming-at-least-10-more-lives-across-arkansas-kansas-and-oklahom.md)
 Arkansas, Oklahoma and Kansas picked up the pieces after damaging storms and tornadoes moved through Tuesday night, but national weather forecasters predicted more severe weather Wednesday evening for parts of the Ohio and Mississippi Valleys.

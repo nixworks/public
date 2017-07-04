@@ -22,7 +22,7 @@ _Context: Bosnian Serbs, Hague, International Criminal Tribunal for the former Y
 At least 11 people have been killed and five are missing in heavy rains triggered flash floods and landslides in the mountains of northern Vietnam this week.
 
 ### [ Energy group E.ON cuts 1,800 jobs as it closes two-thirds of its domestic service centres in Germany. ](/news/2008/08/29/energy-group-e-on-cuts-1-800-jobs-as-it-closes-two-thirds-of-its-domestic-service-centres-in-germany.md)
-_Context: E.ON, Germany_
+_Context: E.ON, German_
 
 ## [Previous Day...](/news/2008/08/28/index.md)
 

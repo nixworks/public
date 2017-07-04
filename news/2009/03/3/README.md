@@ -16,13 +16,13 @@ _Context: Mikhail Khodorkovsky, Yukos, financial crimes, trial_
 _Context: Gaddafi Stadium, Lahore, Pakistan, Pakistani police, Sri Lanka, cricket players, shootings_
 
 ### [ United States President Barack Obama and United Kingdom Prime Minister Gordon Brown meet at the White House. ](/news/2009/03/3/united-states-president-barack-obama-and-united-kingdom-prime-minister-gordon-brown-meet-at-the-white-house.md)
-_Context: Barack Obama, Gordon Brown, Prime Minister, United Kingdom, United States, United States President, White House_
+_Context: Barack Obama, Gordon Brown, Prime Minister, U.S., United Kingdom, United States President, White House_
 
 ### [ Three people are believed trapped after Cologne's municipal archives building collapses. ](/news/2009/03/3/three-people-are-believed-trapped-after-cologne-s-municipal-archives-building-collapses.md)
 _Context: Cologne, Structural Engineering, municipal archives building_
 
 ### [ German frigate ''Rheinland-Pfalz'' foils a Somali pirate attack on a German container ship in the Gulf of Aden. ](/news/2009/03/3/german-frigate-rheinland-pfalz-foils-a-somali-pirate-attack-on-a-german-container-ship-in-the-gulf-of-aden.md)
-_Context: Germany, Gulf of Aden, Somali pirates, Somalia, container ship, frigate_
+_Context: German, Gulf of Aden, Somali pirates, Somalia, container ship, frigate_
 
 ## [Previous Day...](/news/2009/03/2/index.md)
 

@@ -37,16 +37,16 @@ _Context: Florida, Indiana, Joey Merlino, Mafia, Scarfo crime family, halfway ho
 _Context: California, Christian Gerhartsreiter, German, San Marino_
 
 ### [The United States Drug Enforcement Administration seizes the state of Georgia's supply of a lethal injection drug due to questions over how it was imported to the US. ](/news/2011/03/15/the-united-states-drug-enforcement-administration-seizes-the-state-of-georgia-s-supply-of-a-lethal-injection-drug-due-to-questions-over-how.md)
-_Context: Georgia, U.S. Drug Enforcement Administration, United States, lethal injection_
+_Context: Georgia, U.S., U.S. Drug Enforcement Administration, lethal injection_
 
 ### [United States nurse William Francis Melchert-Dinkel is convicted of aiding the suicides of an English man and Canadian woman. ](/news/2011/03/15/united-states-nurse-william-francis-melchert-dinkel-is-convicted-of-aiding-the-suicides-of-an-english-man-and-canadian-woman.md)
-_Context: Canadian, English, United States, William Francis Melchert-Dinkel, suicide_
+_Context: Canadian, English, U.S., William Francis Melchert-Dinkel, suicide_
 
 ### [At a British Medical Association conference, delegates call for the coalition government to halt its plans to overhaul the National Health Service in England. However, they stop short of complete opposition to the proposals. ](/news/2011/03/15/at-a-british-medical-association-conference-delegates-call-for-the-coalition-government-to-halt-its-plans-to-overhaul-the-national-health-s.md)
 Doctors at an emergency union meeting have called on the government to put a halt to its overhaul of the NHS in England, but have stopped short of opposing the plans outright.
 
 ### [Angela Merkel, the Chancellor of Germany, announces that Germany will shut down all of its pre-1980 nuclear reactors following the problems in Japan. ](/news/2011/03/15/angela-merkel-the-chancellor-of-germany-announces-that-germany-will-shut-down-all-of-its-pre-1980-nuclear-reactors-following-the-problems.md)
-_Context: Angela Merkel, Chancellor, Germany, Japan, nuclear reactor_
+_Context: Angela Merkel, Chancellor, German, Japan, nuclear reactor_
 
 ### [The Mayor of Miami-Dade County in the U.S. state of Florida, Carlos Alvarez, and County commissioner Natacha Seijas are defeated in recall elections. ](/news/2011/03/15/the-mayor-of-miami-dade-county-in-the-u-s-state-of-florida-carlos-alvarez-and-county-commissioner-natacha-seijas-are-defeated-in-recall-e.md)
 _Context: Carlos Alvarez, County commission, Florida, Mayor of Miami-Dade County, U.S. state, recall referendum_

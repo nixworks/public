@@ -7,7 +7,7 @@ _Context: Namdaemun, Seoul, South Korea, arson_
 _Context: Barack Obama, Illinois, Maine, United States Senate, caucus, primaries_
 
 ### [ A suicide car bomb at a market in Balad, Iraq kills 25. U.S. Secretary of Defense Robert Gates also arrives in Iraq from a Germany security conference to meet with Iraqi leaders, General David Petraeus and U.S. Ambassador to Iraq Ryan Crocker. ](/news/2008/02/10/a-suicide-car-bomb-at-a-market-in-balad-iraq-kills-25-u-s-secretary-of-defense-robert-gates-also-arrives-in-iraq-from-a-germany-security.md)
-_Context: Balad, David Petraeus, Germany, Iraq, Robert Gates, Ryan Crocker, Secretary of Defense, suicide car bomb_
+_Context: Balad, David Petraeus, German, Iraq, Robert Gates, Ryan Crocker, Secretary of Defense, suicide car bomb_
 
 ### [ Association football: Egypt beats Cameroon 1-0 to win the 2008 Africa Cup of Nations in Ghana. ](/news/2008/02/10/association-football-egypt-beats-cameroon-1-0-to-win-the-2008-africa-cup-of-nations-in-ghana.md)
 _Context: 2008 Africa Cup of Nations, Cameroon, Egypt, Ghana, association football_

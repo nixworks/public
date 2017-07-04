@@ -19,7 +19,7 @@ A magnitude 6.6 earthquake centred in Afghanistan shakes major cities across sou
 John Kerry says US is prepared to address Iran’s concerns if it halts missile launches, as Iran official suggests US allies are providing arms to Isis
 
 ### [German Justice Minister Heiko Maas, during a newspaper interview, appeals to media to hand over "Panama Papers" data that will help governments around the globe that already have started investigating possible financial wrongdoing by the world's rich and powerful. ](/news/2016/04/10/german-justice-minister-heiko-maas-during-a-newspaper-interview-appeals-to-media-to-hand-over-panama-papers-data-that-will-help-governme.md)
-_Context: Germany, Heiko Maas, Justice Minister, Panama Papers, investigating possible financial wrongdoing_
+_Context: German, Heiko Maas, Justice Minister, Panama Papers, investigating possible financial wrongdoing_
 
 ### [Welsh drug smuggler turned author Howard Marks dies at age 70, after suffering from cancer for more than one year. ](/news/2016/04/10/welsh-drug-smuggler-turned-author-howard-marks-dies-at-age-70-after-suffering-from-cancer-for-more-than-one-year.md)
 Former drug smuggler turned author Howard Marks has died at the age of 70.

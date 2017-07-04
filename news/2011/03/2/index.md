@@ -31,7 +31,7 @@ Bangladeshi Nobel laureate Muhammad Yunus seeks legal advice after the central b
 _Context: BSkyB, Competition Commission, News Corporation, Rupert Murdoch, Sky News_
 
 ### [MetLife, the largest life insurance company in the United States, claims that shares held by the American International Group (AIG) have been sold for $6.35 billion to help pay back the United States government for the bailout. ](/news/2011/03/2/metlife-the-largest-life-insurance-company-in-the-united-states-claims-that-shares-held-by-the-american-international-group-aig-have-bee.md)
-_Context: AIG, MetLife, United States, life insurance_
+_Context: AIG, MetLife, U.S., life insurance_
 
 ### [Apple Inc unveils the latest model of its tablet computer, the iPad 2. ](/news/2011/03/2/apple-inc-unveils-the-latest-model-of-its-tablet-computer-the-ipad-2.md)
 _Context: Apple Inc., iPad 2, tablets_
@@ -49,7 +49,7 @@ _Context: 2011 Canterbury earthquake, Christchurch, New Zealand, dust storm_
 _Context: France, John Galliano, Paris, anti-Semitism, fashion designer, prosecutor_
 
 ### [Frankfurt shootingsTwo United States Air Force personnel are killed and two others injured after a gunman opens fire at Frankfurt Airport in Germany - a suspect is arrested in connection with the incident. ](/news/2011/03/2/frankfurt-shootingsptwo-united-states-air-force-personnel-are-killed-and-two-others-injured-after-a-gunman-opens-fire-at-frankfurt-airport-i.md)
-_Context: Air Force, Frankfurt Airport, Germany_
+_Context: Air Force, Frankfurt Airport, German_
 
 ### [The United States military files new charges against Private Bradley Manning in relation to the leak of the WikiLeaks cables. ](/news/2011/03/2/the-united-states-military-files-new-charges-against-private-bradley-manning-in-relation-to-the-leak-of-the-wikileaks-cables.md)
 The US military has brought 22 new charges against the junior soldier accused of leaking hundreds of thousands of sensitive US government documents that were published by WikiLeaks.
@@ -61,7 +61,7 @@ _Context: California, Robert F. Kennedy, Sirhan Sirhan, parole_
 _Context: BBC News, Ivory Coast, Laurent Gbagbo, RFI_
 
 ### [German Chancellor Angela Merkel names Thomas de Maizire as new defence minister and Hans-Peter Friedrich as the new interior minister, following resignations earlier this week. ](/news/2011/03/2/german-chancellor-angela-merkel-names-thomas-de-maiziere-as-new-defence-minister-and-hans-peter-friedrich-as-the-new-interior-minister-foll.md)
-_Context: Angela Merkel, Germany, Hans-Peter Friedrich, Thomas de Maizire_
+_Context: Angela Merkel, German, Hans-Peter Friedrich, Thomas de Maizire_
 
 ### [The United Kingdom announces plans to axe 11,000 jobs in the British Armed Forces. ](/news/2011/03/2/the-united-kingdom-announces-plans-to-axe-11-000-jobs-in-the-british-armed-forces.md)
 _Context: British military personnel, United Kingdom_
@@ -88,7 +88,7 @@ _Context: Daniel Akaka, Democratic Party, Hawaii, Senator, United States Senate 
 _Context: Dutch provincial elections of 2011, Elections in the Netherlands, Labour Party, People's Party for Freedom and Democracy_
 
 ### [The Eastern Cougar is declared extinct in the United States. ](/news/2011/03/2/the-eastern-cougar-is-declared-extinct-in-the-united-states.md)
-_Context: Eastern Cougar, United States_
+_Context: Eastern Cougar, U.S._
 
 ## [Previous Day...](/news/2011/03/1/index.md)
 

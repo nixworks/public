@@ -19,7 +19,7 @@ _Context: Eskinder Nega, Ethiopia, PEN America_
 _Context: Edvard Munch, New York City, The Scream_
 
 ### [A court in the German city of Mannheim rules that Microsoft has infringed Motorola Mobility's patents and bans Xbox 360 gaming consoles and Windows 7 operating system from sale in Germany. ](/news/2012/05/2/a-court-in-the-german-city-of-mannheim-rules-that-microsoft-has-infringed-motorola-mobility-s-patents-and-bans-xbox-360-gaming-consoles-and.md)
-_Context: German, Germany, Mannheim, Microsoft, Motorola Mobility, Windows 7, Xbox 360_
+_Context: German, German, Mannheim, Microsoft, Motorola Mobility, Windows 7, Xbox 360_
 
 ### [The News Corporation board expresses its "full confidence" in Rupert Murdoch following a UK government media committee's conclusion yesterday that Murdoch is "not a fit person" to run a major international business. ](/news/2012/05/2/the-news-corporation-board-expresses-its-full-confidence-in-rupert-murdoch-following-a-uk-government-media-committee-s-conclusion-yesterda.md)
 The News Corporation board says it has &quot;full confidence&quot; in Rupert Murdoch following a highly critical UK parliamentary committee report.

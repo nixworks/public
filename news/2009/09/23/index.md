@@ -19,7 +19,7 @@ _Context: Eudy Simelane, KwaThema, South Africa, association football, lesbian_
 _Context: Barack Obama, Fidel Castro, President, United Nations General Assembly, United States President_
 
 ### [ One of the busiest border crossings between Mexico and the United States at San Ysidro is closed for hours after a gun battle between US agents and suspected human traffickers. ](/news/2009/09/23/one-of-the-busiest-border-crossings-between-mexico-and-the-united-states-at-san-ysidro-is-closed-for-hours-after-a-gun-battle-between-us-ag.md)
-_Context: Mexico, San Ysidro, United States_
+_Context: Mexico, San Ysidro, U.S._
 
 ### [ A Scottish PS1 banknote, dated 1836, sells for a world record PS9,000 price at auction. ](/news/2009/09/23/a-scottish-aps1-banknote-dated-1836-sells-for-a-world-record-aps9-000-price-at-auction.md)
 _Context: Scotland_
@@ -43,7 +43,7 @@ A man has been shot dead in a clash between police and supporters of ousted Hond
 _Context: India, Julia Roberts, Navratri_
 
 ### [ India successfully launches seven satellites in a single mission one month after its inaugural Moon mission is aborted. Included are six smaller satellites from Germany, Switzerland and Turkey. ](/news/2009/09/23/india-successfully-launches-seven-satellites-in-a-single-mission-one-month-after-its-inaugural-moon-mission-is-aborted-included-are-six-sm.md)
-_Context: Germany, India, Moon, Swiss, Turkey_
+_Context: German, India, Moon, Swiss, Turkey_
 
 ### [ Julio Alberto Poch, a Transavia commercial airline pilot, is arrested in Spain over his alleged role in Argentina's 1976&ndash;1983 "Dirty War". ](/news/2009/09/23/julio-alberto-poch-a-transavia-commercial-airline-pilot-is-arrested-in-spain-over-his-alleged-role-in-argentina-s-1976-ndash-1983-dirty.md)
 _Context: Argentina, Dirty War, Julio Alberto Poch, Spain, Transavia_

@@ -28,7 +28,7 @@ FEMA extended its federal disaster declaration in the wake of the Flint water cr
 High school athletes who focus on a single sport may be at increased risk for knee and hip injuries, a new study suggests.
 
 ### [U.S. Chairman of the Joint Chiefs of Staff Joseph Dunford makes a proposal to President Barack Obama to increase the number of American troops in Iraq, so as to help the Iraqi Army with advisors closer to the front lines and to recapture Mosul, which fell to ISIL in June 2014. ](/news/2016/03/26/u-s-chairman-of-the-joint-chiefs-of-staff-joseph-dunford-makes-a-proposal-to-president-barack-obama-to-increase-the-number-of-american-troo.md)
-_Context: Barack Obama, Chairman of the Joint Chiefs of Staff, ISIL, Iraq, Iraqi Army, Joseph Dunford, Mosul, United States, United States President, United States military_
+_Context: Barack Obama, Chairman of the Joint Chiefs of Staff, ISIL, Iraq, Iraqi Army, Joseph Dunford, Mosul, U.S., United States President, United States military_
 
 ### [Voters in the U.S. states of Alaska, Hawaii, and Washington gather for Democratic Party  caucuses. ](/news/2016/03/26/voters-in-the-u-s-states-of-alaska-hawaii-and-washington-gather-for-democratic-party-caucuses.md)
 Bernie Sanders pushed for a trifecta of wins in Saturday&#8217;s Democratic presidential caucuses in Hawaii, Alaska and Washington state, hoping to stoke a spring comeback against the commanding front-runner, Hillary Clinton.

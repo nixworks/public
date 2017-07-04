@@ -19,7 +19,7 @@ _Context: 2008, Massachusetts governor, Mitt Romney, R, United States President_
 _Context: Louisiana, New Orleans, tornado_
 
 ### [ A small business jet heading to Berlin, Germany crashes during take-off at Vnukovo airport in Moscow, Russia. ](/news/2007/02/13/a-small-business-jet-heading-to-berlin-germany-crashes-during-take-off-at-vnukovo-airport-in-moscow-russia.md)
-_Context: Berlin, Germany, Moscow, Russia, Vnukovo airport_
+_Context: Berlin, German, Moscow, Russia, Vnukovo airport_
 
 ### [ Ma Ying-jeou, the party chairman of the Kuomintang, resigns after being indicted by the Taiwan High Prosecutors Office on charges of embezzlement during his tenure as the mayor of Taipei. ](/news/2007/02/13/ma-ying-jeou-the-party-chairman-of-the-kuomintang-resigns-after-being-indicted-by-the-taiwan-high-prosecutors-office-on-charges-of-embezz.md)
 Chinese Nationalist Party (KMT) chief Ma Ying-jeou (馬英九) stepped down
@@ -28,7 +28,7 @@ Chinese Nationalist Party (KMT) chief Ma Ying-jeou (馬英九) stepped down
 _Context: Kosovo_
 
 ### [ Japan holds an international conference to push for the resumption of commercial whaling. Anti-whaling nations in the International Whaling Commission such as the United States, United Kingdom and Australia have boycotted the  conference. ](/news/2007/02/13/japan-holds-an-international-conference-to-push-for-the-resumption-of-commercial-whaling-anti-whaling-nations-in-the-international-whaling.md)
-_Context: Australia, International Whaling Commission , Japan, United Kingdom, United States, boycott, hunt_
+_Context: Australia, International Whaling Commission , Japan, U.S., United Kingdom, boycott, hunt_
 
 ### [ At least three people have been killed in bomb blasts that hit two buses in the village of Bikfaya near Beirut, Lebanon. ](/news/2007/02/13/at-least-three-people-have-been-killed-in-bomb-blasts-that-hit-two-buses-in-the-village-of-bikfaya-near-beirut-lebanon.md)
 _Context: Beirut, Lebanon, Bikfaya_

@@ -16,13 +16,13 @@ A Russian military plane crashed on Sunday in the Black Sea as it made its way t
 A typhoon with gusts of wind up to 255km/h makes landfall in the eastern Philippines.
 
 ### [The German city of Augsburg is evacuated after a World War II-era explosive is discovered in the town. Explosive experts later defused the bomb. ](/news/2016/12/25/the-german-city-of-augsburg-is-evacuated-after-a-world-war-ii-era-explosive-is-discovered-in-the-town-explosive-experts-later-defused-the-b.md)
-_Context: Augsburg, Germany, World War II_
+_Context: Augsburg, German, World War II_
 
 ### [Medical research reveals shrinkage in women's brains as a result of pregnancy. Loss of gray matter in certain regions of the brain may make the brain more efficient and specialized for child-rearing. There is also evidence of links to long-term changes in brain. ](/news/2016/12/25/medical-research-reveals-shrinkage-in-womenas-brains-as-a-result-of-pregnancy-loss-of-gray-matter-in-certain-regions-of-the-brain-may-mak.md)
 Pregnancy can sculpt a mother’s brain in a way that may help her tune in to her baby.
 
 ### [Afghanistan's first female Air Force pilot Niloofar Rahmani files for asylum in the United States. ](/news/2016/12/25/afghanistan-s-first-female-air-force-pilot-niloofar-rahmani-files-for-asylum-in-the-united-states.md)
-_Context: Afghanistan, Air Force, Niloofar Rahmani, United States, asylum_
+_Context: Afghanistan, Air Force, Niloofar Rahmani, U.S., asylum_
 
 ### [Pakistan releases Indian fishermen caught in its territory as a gesture of goodwill. ](/news/2016/12/25/pakistan-releases-indian-fishermen-caught-in-its-territory-as-a-gesture-of-goodwill.md)
 Pakistan has released 220 Indian fishermen detained for crossing into its territorial waters. Ties between the two countries have been tense over the Kashmir conflict. Activists say India should reciprocate the gesture.

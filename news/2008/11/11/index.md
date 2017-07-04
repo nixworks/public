@@ -7,7 +7,7 @@ Peter Eastgate shined through the two-day final table and became the 2008 WSOP m
 _Context: Dubai, RMS ''Queen Elizabeth 2'', United Arab Emirates_
 
 ### [ Germany announces new charges against John Demjanjuk in the deaths of 29,000 people at the Sobibor extermination camp in Poland during the Holocaust. ](/news/2008/11/11/germany-announces-new-charges-against-john-demjanjuk-in-the-deaths-of-29-000-people-at-the-sobibor-extermination-camp-in-poland-during-the.md)
-_Context: Germany, Holocaust, John Demjanjuk, Poland, Sobibor extermination camp_
+_Context: German, Holocaust, John Demjanjuk, Poland, Sobibor extermination camp_
 
 ### [ A Holocaust survivor group announces the abandonment of negotiations with the LDS Church over the latter's continued posthumous baptism of Jews killed in the Holocaust. ](/news/2008/11/11/a-holocaust-survivor-group-announces-the-abandonment-of-negotiations-with-the-lds-church-over-the-latter-s-continued-posthumous-baptism-of.md)
 _Context: A Holocaust survivor group, Holocaust, The Church of Jesus Christ of Latter-day Saints, posthumous baptism_

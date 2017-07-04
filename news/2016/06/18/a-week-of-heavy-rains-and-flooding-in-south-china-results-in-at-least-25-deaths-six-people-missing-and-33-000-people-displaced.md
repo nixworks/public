@@ -11,4 +11,5 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Related:
 
-1. [At least twelve people are killed as storms batter South China. ](/news/2014/06/6/at-least-twelve-people-are-killed-as-storms-batter-south-china.md) _Context: south China_
+1. [Floods in South China kill at least 15 people over the last few days with tens of thousands more being relocated. More rain is forecast in future days. ](/news/2017/07/3/floods-in-south-china-kill-at-least-15-people-over-the-last-few-days-with-tens-of-thousands-more-being-relocated-more-rain-is-forecast-in-f.md) _Context: South China_
+2. [At least twelve people are killed as storms batter South China. ](/news/2014/06/6/at-least-twelve-people-are-killed-as-storms-batter-south-china.md) _Context: South China_

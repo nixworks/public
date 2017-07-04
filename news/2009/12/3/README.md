@@ -4,7 +4,7 @@
 The fund that protects depositors fell into the red for the first time since the savings-and-loan crisis of the 1990s.
 
 ### [ The Royal Netherlands Navy seizes 13 Somali pirates and frees two Tanzanians from a vessel that attacked a German ship off the southern cost of Oman. ](/news/2009/12/3/the-royal-netherlands-navy-seizes-13-somali-pirates-and-frees-two-tanzanians-from-a-vessel-that-attacked-a-german-ship-off-the-southern-cos.md)
-_Context: Germany, Oman, Royal Netherlands Navy, Somali pirates, Tanzania_
+_Context: German, Oman, Royal Netherlands Navy, Somali pirates, Tanzania_
 
 ### [ Nigerian farmers sue Shell at a court in The Hague over claims that the oil firm polluted their land in the Niger Delta region. ](/news/2009/12/3/nigerian-farmers-sue-shell-at-a-court-in-the-hague-over-claims-that-the-oil-firm-polluted-their-land-in-the-niger-delta-region.md)
 Four Nigerian farmers will launch a ground-breaking pollution claim against oil giant Royal Dutch Shell in a court in The Hague today.

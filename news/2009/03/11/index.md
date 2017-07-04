@@ -4,7 +4,7 @@
 _Context: Burkina Faso, Mali, Niger, Nigeria, United Nations, United Nations Children's Fund, epidemic, meningitis_
 
 ### [ The United States National Aeronautics and Space Administration delays the Space Shuttle ''Discovery'''s mission to the International Space Station due to a hydrogen gas leak. ](/news/2009/03/11/the-united-states-national-aeronautics-and-space-administration-delays-the-space-shuttle-discovery-s-mission-to-the-international-space.md)
-_Context: Discovery, International Space Station, NASA, Space Shuttle, United States, hydrogen gas, lands, natural gas leak_
+_Context: Discovery, International Space Station, NASA, Space Shuttle, U.S., hydrogen gas, lands, natural gas leak_
 
 ### [ China's exports contract 25.7%, the worst decline since 1993. ](/news/2009/03/11/china-s-exports-contract-25-7-the-worst-decline-since-1993.md)
 _Context: 4th quarter of 2007 and the second quarter of 2009, People's Republic of China, export_
@@ -13,7 +13,7 @@ _Context: 4th quarter of 2007 and the second quarter of 2009, People's Republic 
 _Context: British police, Liberal Democrats, United Kingdom, criminal records_
 
 ### [ At least 15 people are killed in a school shooting in Winnenden, Germany. ](/news/2009/03/11/at-least-15-people-are-killed-in-a-school-shooting-in-winnenden-germany.md)
-_Context: Germany, School shooting, Winnenden, killed_
+_Context: German, School shooting, Winnenden, killed_
 
 ### [ Former Iraqi Intelligence Service Director Ali Hassan al-Majid and former Deputy Prime Minister Tariq Aziz are sentenced to 15 years in jail for crimes against humanity. ](/news/2009/03/11/former-iraqi-intelligence-service-director-ali-hassan-al-majid-and-former-deputy-prime-minister-tariq-aziz-are-sentenced-to-15-years-in-jai.md)
 _Context: Ali Hassan al-Majid, Deputy Prime Minister, Intelligence Service, Iraq, Tariq Aziz, crimes against humanity_

@@ -13,7 +13,7 @@ _Context: George Mylonas, Vassilis Paleokostas_
 _Context: Kismayo, clashes_
 
 ### [  The United States-led coalition kills 30 Taliban militants in fighting in western Afghanistan. ](/news/2008/08/22/the-united-states-led-coalition-kills-30-taliban-militants-in-fighting-in-western-afghanistan.md)
-_Context: Afghanistan, Taliban, United States, War in Afghanistan_
+_Context: Afghanistan, Taliban, U.S., War in Afghanistan_
 
 ### [ Pakistan will indirectly elect a new President of Pakistan on September 6 to replace Pervez Musharraf. ](/news/2008/08/22/pakistan-will-indirectly-elect-a-new-president-of-pakistan-on-september-6-to-replace-pervez-musharraf.md)
 _Context: Pakistan, Pervez Musharraf, President, September 6_

@@ -1,7 +1,7 @@
 ## [2010-01-9](/news/2010/01/9/index.md)
 
 ### [The United States warns against an attack by "regional extremists" on an Air Uganda flight between Uganda and Sudan. ](/news/2010/01/9/the-united-states-warns-against-an-attack-by-regional-extremists-on-an-air-uganda-flight-between-uganda-and-sudan.md)
-_Context: Air Uganda, Sudan, Uganda, United States_
+_Context: Air Uganda, Sudan, U.S., Uganda_
 
 ### [A bomb explodes outside the Greek Parliament in Athens with no casualties. ](/news/2010/01/9/a-bomb-explodes-outside-the-greek-parliament-in-athens-with-no-casualties.md)
 _Context: Athens, Hellenic Parliament_
@@ -16,7 +16,7 @@ Devaluation and setting of double exchange rate is attempt to improve export lev
 _Context: Eureka, California, earthquake, strikes offshore_
 
 ### [Hundreds of flights are cancelled in Germany as the severe weather conditions across Europe continue. The government asks people to buy several days worth of food and retreat indoors for the rest of the week. ](/news/2010/01/9/hundreds-of-flights-are-cancelled-in-germany-as-the-severe-weather-conditions-across-europe-continue-the-government-asks-people-to-buy-seve.md)
-_Context: Europe, Germany, severe weather conditions_
+_Context: Europe, German, severe weather conditions_
 
 ### [Egypt bans all future aid convoys to Gaza, following recent clashes with Viva Palestina. ](/news/2010/01/9/egypt-bans-all-future-aid-convoys-to-gaza-following-recent-clashes-with-viva-palestina.md)
 No convoys to be allowed passage in future following clashes over Viva Palestina.

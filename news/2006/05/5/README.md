@@ -10,7 +10,7 @@ _Context: Avian flu virus, People's Republic of China, Qinghai Province_
 _Context: Abuja, Alliance of Revolutionary Forces of West Sudan, Darfur conflict, Nigeria, Sudan_
 
 ### [ Porter Goss resigns as director of the U.S. Central Intelligence Agency (CIA). ](/news/2006/05/5/porter-goss-resigns-as-director-of-the-u-s-central-intelligence-agency-cia.md)
-_Context: Central Intelligence Agency, Director of the CIA, Porter Goss, United States_
+_Context: Central Intelligence Agency, Director of the CIA, Porter Goss, U.S._
 
 ### [ Following significant Labour Party losses in the English local elections, British Prime Minister Tony Blair announces the largest Cabinet reshuffle of his tenure. The  changes include sacking embattled Home Secretary Charles Clarke, the demotion of long-serving Foreign Secretary Jack Straw, and the stripping from Deputy Prime Minister John Prescott of his departmental portfolio. ](/news/2006/05/5/following-significant-labour-party-losses-in-the-english-local-elections-british-prime-minister-tony-blair-announces-the-largest-cabinet-r.md)
 _Context: British Cabinet, Charles Clarke, English local elections, Home Secretary, Jack Straw, John Prescott, Labour, Prime Minister, Secretary of State for Foreign and Commonwealth Affairs, Tony Blair, United Kingdom, changes, shuffles_

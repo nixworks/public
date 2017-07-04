@@ -7,7 +7,7 @@ NASA begins its next step in human spaceflight with Thursday&#39;s announcement 
 _Context: Darfur conflict, UNSC Resolution 1706, United Nations Security Council_
 
 ### [ The annual development report released by the United Nations Conference on Trade and Development criticizes Japan and Germany for not doing enough to stabilize international trade by buying imports. ](/news/2006/08/31/the-annual-development-report-released-by-the-united-nations-conference-on-trade-and-development-criticizes-japan-and-germany-for-not-doing.md)
-_Context: Germany, Japan, UNCTAD, import_
+_Context: German, Japan, UNCTAD, import_
 
 ### [ Bristol-Myers Squibb and Sanofi-Aventis win a court ruling in the US banning Apotex from selling a generic version of Plavix, the world's second best-selling medicine. Apotex had won over 50 per cent of all US prescriptions since the sale of the drug began on August 8. ](/news/2006/08/31/bristol-myers-squibb-and-sanofi-aventis-win-a-court-ruling-in-the-us-banning-apotex-from-selling-a-generic-version-of-plavix-the-world-s-s.md)
 _Context: Apotex, August 8, Bristol-Myers Squibb, Plavix, Sanofi-Aventis, generic_

@@ -19,7 +19,7 @@ _Context: Central-African, Lord's Resistance Army, Ugandan soldier_
 _Context: China, Hunan Province, Pingjiang County_
 
 ### [Paul Watson, the founder of the Sea Shepherd Conservation Society, is arrested in Germany for allegedly violating Guatemalan territorial waters in 2002. ](/news/2012/05/13/paul-watson-the-founder-of-the-sea-shepherd-conservation-society-is-arrested-in-germany-for-allegedly-violating-guatemalan-territorial-wat.md)
-_Context: Germany, Guatemala, Paul Watson, Sea Shepherd Conservation Society, allegedly violating_
+_Context: German, Guatemala, Paul Watson, Sea Shepherd Conservation Society, allegedly violating_
 
 ### [Voters in the German state of North Rhine-Westphalia head to the polls for an election, with the Social Democratic Party of Germany winning the most votes, allowing it to continue in government with the support of the Greens. ](/news/2012/05/13/voters-in-the-german-state-of-north-rhine-westphalia-head-to-the-polls-for-an-election-with-the-social-democratic-party-of-germany-winning.md)
 Angela Merkel&#039;s conservative party suffers a crushing defeat in a crucial state vote ahead of Germany&#039;s national elections next year.

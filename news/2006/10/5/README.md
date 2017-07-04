@@ -4,7 +4,7 @@
 _Context: Dow Jones Industrial Average_
 
 ### [ German authorities uncover 51 skeletons from a mass grave at the village of Menden-Barge in the Sauerland region of the country, thought to be remains of victims of Nazi atrocities during World War II. ](/news/2006/10/5/german-authorities-uncover-51-skeletons-from-a-mass-grave-at-the-village-of-menden-barge-in-the-sauerland-region-of-the-country-thought-to.md)
-_Context: Germany, Nazi, Sauerland, World War II, mass grave_
+_Context: German, Nazi, Sauerland, World War II, mass grave_
 
 ### [  The House Ethics Committee issued four dozen subpoenas to members of Congress and aides to discover who was aware of explicit exchanges between former representative Mark Foley and underage Congressional pages. ](/news/2006/10/5/the-house-ethics-committee-issued-four-dozen-subpoenas-to-members-of-congress-and-aides-to-discover-who-was-aware-of-explicit-exchanges-be.md)
 _Context: Mark Foley, United States House Committee on Standards of Official Conduct, come-ons to former male pages_

@@ -1,7 +1,7 @@
 ## [2010-08-26](/news/2010/08/26/index.md)
 
 ### [German HIV-positive pop singer Nadja Benaissa is found guilty of grievous bodily harm after transmitting HIV to a man who had unprotected sex with her without her telling him of her condition. ](/news/2010/08/26/german-hiv-positive-pop-singer-nadja-benaissa-is-found-guilty-of-grievous-bodily-harm-after-transmitting-hiv-to-a-man-who-had-unprotected-se.md)
-_Context: Germany, HIV, HIV-positive, Nadja Benaissa, grievous bodily harm, pop singer, unprotected sex_
+_Context: German, HIV, HIV-positive, Nadja Benaissa, grievous bodily harm, pop singer, unprotected sex_
 
 ### [Mass protests by civil servants in South Africa continue, demanding improved pay and benefits. ](/news/2010/08/26/mass-protests-by-civil-servants-in-south-africa-continue-demanding-improved-pay-and-benefits.md)
 Civil servants plan bigger strikes if pay demands not met, as services are restricted.
@@ -25,7 +25,7 @@ _Context: International Atomic Energy Agency, Iran, Olli Heinonen_
 Klaas Carel Faber reportedly murdered more than 20 Jews at the Westerbork concentration camp, where many Dutch Jews were sent. 
 
 ### [''The New York Times'' claims that Mohammed Zia Salehi, an official of Afghanistan's Karzai administration accused of  graft is on the United States Central Intelligence Agency payroll. ](/news/2010/08/26/the-new-york-times-claims-that-mohammed-zia-salehi-an-official-of-afghanistan-s-karzai-administration-accused-of-graft-is-on-the-unite.md)
-_Context: Afghanistan, Central Intelligence Agency, Karzai administration, Mohammed Zia Salehi, The New York Times, United States, anti-corruption_
+_Context: Afghanistan, Central Intelligence Agency, Karzai administration, Mohammed Zia Salehi, The New York Times, U.S., anti-corruption_
 
 ### [Ahmad Vahidi, Iran's Minister of Defense, offers military assistance to Lebanon following a request from Hezbollah. ](/news/2010/08/26/ahmad-vahidi-iran-s-minister-of-defense-offers-military-assistance-to-lebanon-following-a-request-from-hezbollah.md)
 Iran’s Defense Minister Ahmad Vahidi said Iran was ready to offer military aid to Lebanon on Wednesday, after a call for Tehran’s help from the leader of Hizbullah. 

@@ -55,7 +55,7 @@ _Context: Benigno Aquino III, Manila hostage crisis, President of the Philippine
 _Context: Leadership Academy for Girls, Meyerton, Oprah Winfrey, South Africa, sexual abuse_
 
 ### [The son of Sakineh Mohammadi Ashtiani, the woman sentenced to death by stoning, and two German journalists posing as tourists seeking to interview him, may have been arrested in Iran. ](/news/2010/10/11/the-son-of-sakineh-mohammadi-ashtiani-the-woman-sentenced-to-death-by-stoning-and-two-german-journalists-posing-as-tourists-seeking-to-int.md)
-_Context: Germany, Iran, Sakineh Mohammadi Ashtiani, journalist_
+_Context: German, Iran, Sakineh Mohammadi Ashtiani, journalist_
 
 ### [Kyrgyzstani parliamentary election:Five Kyrgyz political parties, including Ata-Zhurt, Social Democratic Party of Krygyzstan, Ar-Namys, Respublika, and Ata Meken, have passed all thresholds at the election thus can obtain parliamentary seats. ](/news/2010/10/11/kyrgyzstani-parliamentary-election-pfive-kyrgyz-political-parties-including-ata-zhurt-social-democratic-party-of-krygyzstan-ar-namys-res.md)
 _Context: Ar-Namys, Ata Meken, Ata-Zhurt, Kyrgyzstani parliamentary election, Respublika, Social Democratic Party of Kyrgyzstan_
@@ -67,7 +67,7 @@ _Context: Bharatiya Janata Party, India, Karnataka state, Legislative Assembly, 
 The Bolivian government says it has annulled a new coca production law which cut by two-thirds the number of coca leaves which growers could sell.
 
 ### [Surgeons at the Shepherd Center in Atlanta, Georgia inject a spinal cord injury patient with embryonic stem cells in an experiment approved by United States Food and Drug Administration. ](/news/2010/10/11/surgeons-at-the-shepherd-center-in-atlanta-georgia-inject-a-spinal-cord-injury-patient-with-embryonic-stem-cells-in-an-experiment-approved.md)
-_Context: Atlanta, Georgia, Shepherd Center, Surgeon, U.S. Food and Drug Administration, United States, embryonic stem cell, spinal cord_
+_Context: Atlanta, Georgia, Shepherd Center, Surgeon, U.S., U.S. Food and Drug Administration, embryonic stem cell, spinal cord_
 
 ## [Previous Day...](/news/2010/10/10/index.md)
 

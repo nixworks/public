@@ -19,7 +19,7 @@ _Context: Abdel Falah al-Sudani, Baghdad International Airport, Iraq, Trade Mini
 _Context: Mingora, Pakistan, Swat, Pakistan, Taliban, captures, military_
 
 ### [ Germany allows Canadian company Magna International to take over automaker Opel. ](/news/2009/05/30/germany-allows-canadian-company-magna-international-to-take-over-automaker-opel.md)
-_Context: Canada, Germany, Magna International, Opel, automakers, company_
+_Context: Canada, German, Magna International, Opel, automakers, company_
 
 ### [ North Korea launches its sixth ballistic missile despite the United Nations Security Council's possible international sanctions. ](/news/2009/05/30/north-korea-launches-its-sixth-ballistic-missile-despite-the-united-nations-security-council-s-possible-international-sanctions.md)
 _Context: North Korea, North Korea and weapons of mass destruction, United Nations, United Nations Security Council, ballistic missile, sanctions_

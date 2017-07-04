@@ -61,7 +61,7 @@ _Context: 3G, Mount Everest, Ncell, Nepal, TeliaSonera_
 British Airways reports a profit of £158m, its first in two years, as the company prepares to merge with Iberia of Spain.
 
 ### [German rail operator DB Fernverkehr conducts a test run of their high-speed Intercity-Express train inside the Channel Tunnel, with passengers on board. ](/news/2010/10/29/german-rail-operator-db-fernverkehr-conducts-a-test-run-of-their-high-speed-intercity-express-train-inside-the-channel-tunnel-with-passenge.md)
-_Context: Channel Tunnel, DB Fernverkehr, Germany, Intercity-Express_
+_Context: Channel Tunnel, DB Fernverkehr, German, Intercity-Express_
 
 ### [A U.S. Court of Appeals upholds the conviction of Conrad Black for one fraud count and one obstruction-of-justice charge, while reversing two other fraud counts on the basis of a Supreme Court decision last year. ](/news/2010/10/29/a-u-s-court-of-appeals-upholds-the-conviction-of-conrad-black-for-one-fraud-count-and-one-obstruction-of-justice-charge-while-reversing-tw.md)
 Conrad Black faces the prospect of heading back to jail after a U.S. appeal court upheld two of four criminal charges against him.

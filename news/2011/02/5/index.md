@@ -46,7 +46,7 @@ Belgrade sees its biggest anti-government protest in years as tens of thousands 
 _Context: Arsenal, English Premier League, Italian, Italian Prime Minister, Manchester United, Newcastle United, Silvio Berlusconi, Wolverhampton Wanderers_
 
 ### [The Cleveland Cavaliers set a new record for consecutive losses in a single National Basketball Association season in the United States. ](/news/2011/02/5/the-cleveland-cavaliers-set-a-new-record-for-consecutive-losses-in-a-single-national-basketball-association-season-in-the-united-states.md)
-_Context: Cleveland Cavaliers, NBA's, United States_
+_Context: Cleveland Cavaliers, NBA's, U.S._
 
 ## [Previous Day...](/news/2011/02/4/index.md)
 

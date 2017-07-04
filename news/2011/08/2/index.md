@@ -31,7 +31,7 @@ A UN panel of independent legal experts calls on China to free Nobel Peace laure
 _Context: Israel, Israel's Supreme Court, West Bank_
 
 ### [Four European nations (the United Kingdom, France, Germany and Portugal) circulate a draft United Nations Security Council resolution condemning the Government of Syria for its recent crackdown on protesters. ](/news/2011/08/2/four-european-nations-the-united-kingdom-france-germany-and-portugal-circulate-a-draft-united-nations-security-council-resolution-condem.md)
-_Context: 2011 Syrian uprising, Europe, France, Germany, Government of Syria, Portugal, United Kingdom, United Nations Security Council, shell and advance_
+_Context: 2011 Syrian uprising, Europe, France, German, Government of Syria, Portugal, United Kingdom, United Nations Security Council, shell and advance_
 
 ### [South Korean prosecutors send a summons to Park Chul, President of Hankuk University of Foreign Studies, over alleged embezzlement. ](/news/2011/08/2/south-korean-prosecutors-send-a-summons-to-park-chul-president-of-hankuk-university-of-foreign-studies-over-alleged-embezzlement.md)
 _Context: Hankuk University of Foreign Studies, South Korea, embezzlement, summons_

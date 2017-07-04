@@ -43,7 +43,7 @@ _Context: Hunan, People's Republic of China_
 _Context: Vietnam_
 
 ### [A tanker carrying sulfuric acid capsizes in the Rhine River in Germany with two crew members missing. ](/news/2011/01/13/a-tanker-carrying-sulfuric-acid-capsizes-in-the-rhine-river-in-germany-with-two-crew-members-missing.md)
-_Context: Germany, Rhine River, sulfuric acid, tanker_
+_Context: German, Rhine River, sulfuric acid, tanker_
 
 ### [Tajikistan's lower house of parliament ratifies an agreement to turn over 380 square miles (approx. 1,000 square kilometers) of territory to the People's Republic of China, ending a century-old conflict over disputed territory. ](/news/2011/01/13/tajikistan-s-lower-house-of-parliament-ratifies-an-agreement-to-turn-over-380-square-miles-approx-1-000-square-kilometers-of-territory-to.md)
 China and Tajikistan say they have settled a century-old border dispute, after the Central Asian nation agreed to cede land to China.

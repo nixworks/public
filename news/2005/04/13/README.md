@@ -31,7 +31,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Adolphus Wabara, Fabion Osuji, Nigeria_
 
 ### [ In Germany, Armin Meiwes appeals for the reduction his sentence of eight years for cannibalism. His defense says that the killing was a mercy killing, eligible only for five years. State prosecutors appeal as well so he could retried for murder. ](/news/2005/04/13/in-germany-armin-meiwes-appeals-for-the-reduction-his-sentence-of-eight-years-for-cannibalism-his-defense-says-that-the-killing-was-a-mer.md)
-_Context: Armin Meiwes, Germany, eat, murder_
+_Context: Armin Meiwes, German, eat, murder_
 
 ### [ A group of Indigenous Australians threaten to disrupt the Commonwealth Games next year unless prime minister John Howard and others are charged with genocide. ](/news/2005/04/13/a-group-of-indigenous-australians-threaten-to-disrupt-the-commonwealth-games-next-year-unless-prime-minister-john-howard-and-others-are-cha.md)
 _Context: Commonwealth, Indigenous, John Howard, genocide_

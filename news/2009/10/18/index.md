@@ -19,7 +19,7 @@ _Context: Pakistan, South Waziristan, Taliban, ongoing offensive_
 _Context: 2009 Brazilian Grand Prix, Brazil, Formula One, Interlagos, Jenson Button, Sao Paulo_
 
 ### [ Germany and Israel complain about a Bangkok museum billboard depicting a salute by Adolf Hitler beside the slogan "Hitler is not dead". ](/news/2009/10/18/germany-and-israel-complain-about-a-bangkok-museum-billboard-depicting-a-salute-by-adolf-hitler-beside-the-slogan-hitler-is-not-dead.md)
-_Context: Adolf Hitler, Bangkok, Germany, Israel, billboard, museum, salute_
+_Context: Adolf Hitler, Bangkok, German, Israel, billboard, museum, salute_
 
 ### [ Hurricane Rick strengthens to a Category 5 storm, becoming the strongest hurricane in a decade in the eastern Pacific Ocean. ](/news/2009/10/18/hurricane-rick-strengthens-to-a-category-5-storm-becoming-the-strongest-hurricane-in-a-decade-in-the-eastern-pacific-ocean.md)
 _Context: Category 4, Hurricane Rick, Pacific, strongest hurricane in a decade_
