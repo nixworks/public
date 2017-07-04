@@ -12,6 +12,12 @@ _Context: Bhutan-China relations, China, China-India relations, Convention of Ca
 ### [A mob of at least a hundred Rakhine Buddhists in Sittwe, Rakhine State, Myanmar, attack seven Rohingya men from Dapaing Camp for internally displaced persons, killing one and severely injuring another. The Rohingya men were being escorted by police to Sittwe's docks to purchase boats, but were attacked despite armed guards being present. ](/news/2017/07/4/a-mob-of-at-least-a-hundred-rakhine-buddhists-in-sittwe-rakhine-state-myanmar-attack-seven-rohingya-men-from-dapaing-camp-for-internally.md)
 _Context: 2016-17 Rohingya persecution in Myanmar, Buddhists, Myanmar, Rakhine, Rakhine State, Rohingya, Sittwe, internally displaced persons_
 
+### [As part of an investigation into the recent cyberattacks, the servers of Ukraine's most popular accounting software company, M.E.Doc, are seized by Ukrainian police. ](/news/2017/07/4/as-part-of-an-investigation-into-the-recent-cyberattacks-the-servers-of-ukraine-s-most-popular-accounting-software-company-m-e-doc-are-se.md)
+M.E.Doc&#x27;s owners deny that some initial infections last week were spread via a malicious update issued by their software.
+
+### [Researchers discover that the diversity of frogs is a direct result of the extinction of the dinosaurs. ](/news/2017/07/4/researchers-discover-that-the-diversity-of-frogs-is-a-direct-result-of-the-extinction-of-the-dinosaurs.md)
+Frogs are &quot;master survivors,&quot; able to take advantage of the ecological vacuum left behind by extinct animals. Scientists say 9 in 10 frog species descended from three surviving frog lineages.
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
