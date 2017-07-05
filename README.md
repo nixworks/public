@@ -29,6 +29,9 @@ _Context: 2016-17 Rohingya persecution in Myanmar, Buddhists, Myanmar, Rakhine, 
 ### [As part of an investigation into the recent cyberattacks, the servers of Ukraine's most popular accounting software company, M.E.Doc, are seized by Ukrainian police. ](/news/2017/07/4/as-part-of-an-investigation-into-the-recent-cyberattacks-the-servers-of-ukraine-s-most-popular-accounting-software-company-m-e-doc-are-se.md)
 M.E.Doc&#x27;s owners deny that some initial infections last week were spread via a malicious update issued by their software.
 
+### [ CNN is accused of threatening to reveal the personal identity of a Reddit user who made the video of President Trump tackling a man with CNN's logo superimposed on his face to the ground.](/news/2017/07/4/cnn-is-accused-of-threatening-to-reveal-the-personal-identity-of-a-reddit-user-who-made-the-video-of-president-trump-tackling-a-man-with-cn.md)
+CNN has come under fire for suggesting it will publish the identity of a private citizen if he behaves in a way that displeases the network. 
+
 ### [Researchers discover that the diversity of frogs is a direct result of the extinction of the dinosaurs. ](/news/2017/07/4/researchers-discover-that-the-diversity-of-frogs-is-a-direct-result-of-the-extinction-of-the-dinosaurs.md)
 Frogs are &quot;master survivors,&quot; able to take advantage of the ecological vacuum left behind by extinct animals. Scientists say 9 in 10 frog species descended from three surviving frog lineages.
 
@@ -59,6 +62,9 @@ _Context: Bhutan, Bhutan-China relations, China, China-India relations, Doklam t
 
 ### [The Greek Coast Guard opens fire on a Turkish-flagged cargo vessel in the Aegean Sea. ](/news/2017/07/3/the-greek-coast-guard-opens-fire-on-a-turkish-flagged-cargo-vessel-in-the-aegean-sea.md)
 The captain of a Turkishfreight ship on Monday said the Greek coast guard opened fire onhis vessel after he refused an order to dock at a port in theAegean Sea.
+
+### [Governor Chris Christie is caught sunbathing with his family on a beach he had ordered closed for the fourth of July holiday. The beach was closed to the public amid a state budget crisis. ](/news/2017/07/3/governor-chris-christie-is-caught-sunbathing-with-his-family-on-a-beach-he-had-ordered-closed-for-the-fourth-of-july-holiday-the-beach-was.md)
+_Context: Chris Christie, Politics of New Jersey, budget crisis, holiday_
 
 ---
 
