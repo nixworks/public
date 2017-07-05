@@ -6,6 +6,9 @@ Two suicide bombings against Iraqi soldiers follow three other attacks by women
 ### [At least one person is killed and six others are injured in a shooting in the French city of Toulouse. ](/news/2017/07/3/at-least-one-person-is-killed-and-six-others-are-injured-in-a-shooting-in-the-french-city-of-toulouse.md)
 AT least one person is dead and six others injured in a shooting in the French city of Toulouse.
 
+### [Total, CNPC and NIOC sign an investment of $5 billion in South Pars, the world largest gas field. ](/news/2017/07/3/total-cnpc-and-nioc-sign-an-investment-of-5-billion-in-south-pars-the-world-largest-gas-field.md)
+_Context: CNPC, NIOC, South Pars, Total_
+
 ### [Floods in South China kill at least 15 people over the last few days with tens of thousands more being relocated. More rain is forecast in future days. ](/news/2017/07/3/floods-in-south-china-kill-at-least-15-people-over-the-last-few-days-with-tens-of-thousands-more-being-relocated-more-rain-is-forecast-in-f.md)
 Floods in southern China have killed at least 15 people over the past few days and forced the evacuation of tens of thousands more, state media said.
 
