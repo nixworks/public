@@ -24,5 +24,17 @@ _Context: California, California wildfires, Clearlake_
 ### [A United States Court of Appeals rules that the Department of Justice, per the Rohrabacher-Farr amendment,  cannot spend money to prosecute federal marijuana cases if the defendants comply with state medical marijuana laws.  ](/news/2016/08/16/a-united-states-court-of-appeals-rules-that-the-department-of-justice-per-the-rohrabacher-farr-amendment-cannot-spend-money-to-prosecute.md)
 The DOJ had been leaning on a &quot;tortured&quot; interpretation of a federal spending bill.
 
+### [ La Force arienne russe utilise une Iran ian  base arienne prs de Hamadan pour lancer des frappes ariennes en Syrie. [Http://www.bbc.com/news/world-middle-east-37093854 (BBC)]](/news/2016/08/16/la-force-aerienne-russe-utilise-une-iran-ian-base-aerienne-pres-de-hamadan-pour-lancer-des-frappes-aeriennes-en-syrie-http-www-bbc-com.md)
+_Context:  base arienne prs de Hamadan, Force arienne russe, Iran_
+
+### [  Houthi bombardement tue sept dans Arabie Saoudite; Neuf Ymen proviennent d'une famille de la mort d'une attaque arienne par l'alliance saoudienne. [Http://www.reuters.com/article/us-yemen-security-idUSKCN10R17K?il=0 (Reuters)]](/news/2016/08/16/houthi-bombardement-tue-sept-dans-arabie-saoudite-neuf-yemen-proviennent-d-une-famille-de-la-mort-d-une-attaque-aerienne-par-l-alliance-s.md)
+_Context: Arabie Saoudite, Houthi, Yemen, attaque arienne_
+
+### [ Westfield World Trade Center s'ouvre sur le calendrier, une partie du ramnagement  World Trade Center Ground Zero dans New York City. [Http://newyork.cbslocal.com/2016/08/16/westfield-world-trade-center-mall/ (CBS NY)]](/news/2016/08/16/westfield-world-trade-center-s-ouvre-sur-le-calendrier-une-partie-du-reamenagement-world-trade-center-ground-zero-dans-new-york-city-ht.md)
+_Context:  World Trade Center Ground Zero, New York City, Westfield World Trade Center_
+
+### [ Barnes & Noble attaque le PDG Ronald Boire aprs moins d'un an de travail. Le prsident excutif et fondateur de l'entreprise Leonard Riggio, qui ajoute sa retraite de septembre, assumera les fonctions de Boire. [Http: //www.reuters...](/news/2016/08/16/barnes-noble-attaque-le-pdg-ronald-boire-apres-moins-d-un-an-de-travail-le-president-executif-et-fondateur-de-l-entreprise-leonard-riggi.md)
+_Context: Barnes & Noble, Leonard Riggio, Ronald Boire_
+
 ## [Previous Day...](/news/2016/08/15/index.md)
 

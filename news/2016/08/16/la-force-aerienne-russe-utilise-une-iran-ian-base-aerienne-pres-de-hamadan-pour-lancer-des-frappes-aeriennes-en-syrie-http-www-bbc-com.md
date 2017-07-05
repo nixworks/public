@@ -1,17 +1,13 @@
 ### [2016-08-16](/news/2016/08/16/index.md)
 
-# The Russian Air Force uses an Iranian airbase near Hamadan to launch airstrikes in Syria. 
-
-Russia says it has used a base in Iran to carry out air strikes in Syria, the first time it has deployed bombers to a third country.
+#  La Force arienne russe utilise une Iran ian  base arienne prs de Hamadan pour lancer des frappes ariennes en Syrie. [Http://www.bbc.com/news/world-middle-east-37093854 (BBC)]
 
 
-### Source:
 
-1. [BBC](http://www.bbc.com/news/world-middle-east-37093854)
 
 ### Related:
 
-1. [ La Force arienne russe utilise une Iran ian  base arienne prs de Hamadan pour lancer des frappes ariennes en Syrie. [Http://www.bbc.com/news/world-middle-east-37093854 (BBC)]](/news/2016/08/16/la-force-aerienne-russe-utilise-une-iran-ian-base-aerienne-pres-de-hamadan-pour-lancer-des-frappes-aeriennes-en-syrie-http-www-bbc-com.md) _Context:  base arienne prs de Hamadan, Iran_
+1. [The Russian Air Force uses an Iranian airbase near Hamadan to launch airstrikes in Syria. ](/news/2016/08/16/the-russian-air-force-uses-an-iranian-airbase-near-hamadan-to-launch-airstrikes-in-syria.md) _Context:  base arienne prs de Hamadan, Iran_
 2. [Bahrain, Egypt, Libya, the Maldives, Saudi Arabia, the United Arab Emirates, and the internationally recognized government of Yemen sever diplomatic ties with Qatar, ordering Qatari citizens in those countries to be expelled as well as cutting all land, air and sea connections. "National security," "media incitement" and Qatar's support of Iran are variously cited. ](/news/2017/06/5/bahrain-egypt-libya-the-maldives-saudi-arabia-the-united-arab-emirates-and-the-internationally-recognized-government-of-yemen-sever-di.md) _Context: Iran_
 3. [A temperature of 53.7degC (128.7degF) is recorded during the 2017 heat wave in Ahvaz, Khuzestan Province, breaking Iran's previous record and becoming one of the highest temperatures ever recorded on Earth. ](/news/2017/06/30/a-temperature-of-53-7adegc-128-7adegf-is-recorded-during-the-2017-heat-wave-in-ahvaz-khuzestan-province-breaking-iran-s-previous-record-and.md) _Context: Iran_
 4. [Iran fires medium range ballistic missiles from western Iran to ISIL targets in Deir ez-Zor Governorate, eastern Syria, in retaliation for the June 7 Tehran attacks. ](/news/2017/06/18/iran-fires-medium-range-ballistic-missiles-from-western-iran-to-isil-targets-in-deir-ez-zor-governorate-eastern-syria-in-retaliation-for-t.md) _Context: Iran_
