@@ -1,6 +1,9 @@
 ## [News](/news/2017/07/5/index.md)
 
-### [The face of the Peruvian Moche mummy the Lady of Cao is reconstructed from its skull structure, using forensics archaeology techniques and ethnographic research. ](/news/2017/07/5/the-face-of-the-peruvian-moche-mummy-the-lady-of-cao-is-reconstructed-from-its-skull-structure-using-forensics-archaeology-techniques-and-e.md)
+### [A Chinese state company signs an order with Airbus for 100 A320 and 40 A350 airplanes. ](/news/2017/07/5/a-chinese-state-company-signs-an-order-with-airbus-for-100-a320-and-40-a350-airplanes.md)
+Airbus (AIR.PA) has signed an agreement to sell 140 aircraft to China, it said on Wednesday, in a deal worth almost $23 billion at list prices.
+
+### [The face of the Peruvian Moche mummy the Lady of Cao is reconstructed from its skull structure, using forensic archaeology techniques and ethnographic research. ](/news/2017/07/5/the-face-of-the-peruvian-moche-mummy-the-lady-of-cao-is-reconstructed-from-its-skull-structure-using-forensic-archaeology-techniques-and-et.md)
 She died in her twenties some 1700 years ago, and is believed to have ruled over a desert valley in ancient Peru where her elaborately tattooed body was buried.
 
 ## Opinion
@@ -21,7 +24,7 @@ _Context: Alboran Island, European migrant crisis, Morocco, Spain_
 Donald Trump says it is hard to believe South Korea and Japan will put up with this much longer after North Korean launches its latest missile.
 
 ### [Amid a stand-off between China and India over the Doklam tri-junction, China tells India that former Indian prime minister Jawaharlal Nehru accepted the Convention of Calcutta which China is using to support its territorial claims. Tensions have been rising between China and India and Bhutan over Doklam since China began constructing a road in the disputed territory in mid-June. ](/news/2017/07/4/amid-a-stand-off-between-china-and-india-over-the-doklam-tri-junction-china-tells-india-that-former-indian-prime-minister-jawaharlal-nehru.md)
-_Context: Bhutan-China relations, China, China-India relations, Convention of Calcutta, Doklam tri-junction, India, Jawaharlal Nehru_
+_Context: Bhutan-China relations, China-India relations, Chinese, Convention of Calcutta, Doklam tri-junction, India, Jawaharlal Nehru_
 
 ### [A mob of at least a hundred Rakhine Buddhists in Sittwe, Rakhine State, Myanmar, attack seven Rohingya men from Dapaing Camp for internally displaced persons, killing one and severely injuring another. The Rohingya men were being escorted by police to Sittwe's docks to purchase boats, but were attacked despite armed guards being present. ](/news/2017/07/4/a-mob-of-at-least-a-hundred-rakhine-buddhists-in-sittwe-rakhine-state-myanmar-attack-seven-rohingya-men-from-dapaing-camp-for-internally.md)
 _Context: 2016-17 Rohingya persecution in Myanmar, Buddhists, Myanmar, Rakhine, Rakhine State, Rohingya, Sittwe, internally displaced persons_
@@ -61,7 +64,7 @@ _Context: Boston, Logan International Airport, Massachusetts_
 Helicopter crashed three minutes before arriving at Dieng Plateau, the popular tourist area where the eruption on Sunday injured at least 10
 
 ### [Amid growing tensions between China and India and Bhutan over the Doklam tri-junction, a spokesman on behalf of Bhutan via ''India Today'' urges India and China to "de-escalate the situation at the border and bring back normalcy". India and China have been locked in a military stand-off at the Doklam tri-junction since late June. ''[http://indiatoday.intoday.in/story/china-bhutan-india-doka-la-tensions-thimphu/1/992752.html (India Today)]''](/news/2017/07/3/amid-growing-tensions-between-china-and-india-and-bhutan-over-the-doklam-tri-junction-a-spokesman-on-behalf-of-bhutan-via-india-today-u.md)
-_Context: Bhutan, Bhutan-China relations, China, China-India relations, Doklam tri-junction, India, India Today_
+_Context: Bhutan, Bhutan-China relations, China-India relations, Chinese, Doklam tri-junction, India, India Today_
 
 ### [The Greek Coast Guard opens fire on a Turkish-flagged cargo vessel in the Aegean Sea. ](/news/2017/07/3/the-greek-coast-guard-opens-fire-on-a-turkish-flagged-cargo-vessel-in-the-aegean-sea.md)
 The captain of a Turkishfreight ship on Monday said the Greek coast guard opened fire onhis vessel after he refused an order to dock at a port in theAegean Sea.
