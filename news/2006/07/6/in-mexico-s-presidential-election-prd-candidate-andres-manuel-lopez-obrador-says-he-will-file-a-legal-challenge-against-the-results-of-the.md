@@ -1,6 +1,6 @@
 ### [2006-07-6](/news/2006/07/6/index.md)
 
-#  In Mexico's presidential election, PRD candidate Andrs Manuel Lpez Obrador says he will file a legal challenge against the results of the ongoing official vote count that have him losing to the PAN's Felipe Caldern by 0.57 percentage points. 
+#  In Mexico's presidential election, PRD candidate Andrs Manuel Lpez Obrador says he will file a legal challenge against the results of the ongoing official vote count that have him loscing to the PAN's Felipe Caldern by 0.57 percentage points. 
 
 
 

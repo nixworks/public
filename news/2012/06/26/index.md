@@ -7,7 +7,7 @@ Bahrain will pay $2.6 million in restitution to 17 families over the deaths of 1
 _Context: Apaxtla, Guerrero, Institutional Revolutionary Party, List of politicians killed in the Mexican Drug War, Mexican Drug War_
 
 ### [Thousands of Muslim Rohingya people flee Burma following religious clashes with Buddhists. ](/news/2012/06/26/thousands-of-muslim-rohingya-people-flee-burma-following-religious-clashes-with-buddhists.md)
-_Context: Buddhist, Burma, Rohingya minority_
+_Context: Buddhist, Burma, Rohingya_
 
 ### [A bomb explodes outside the Tunisian consulate in Libya; no casualties are reported. ](/news/2012/06/26/a-bomb-explodes-outside-the-tunisian-consulate-in-libya-no-casualties-are-reported.md)
 A bomb exploded outside the Tunisian consulate in Tripoli on Tuesday, causing damage but no injuries, a Libyan security official said, the latest in a rash of attacks on foreign targets in the North African state.

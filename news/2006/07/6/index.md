@@ -1,6 +1,6 @@
 ## [2006-07-6](/news/2006/07/6/index.md)
 
-### [ Addressing the death of Kenneth Lay, U.S. President George W. Bush states that he hopes Lay, one of the men convicted in the collapse of Enron, "was right with the Lord". ](/news/2006/07/6/addressing-the-death-of-kenneth-lay-u-s-president-george-w-bush-states-that-he-hopes-lay-one-of-the-men-convicted-in-the-collapse-of-en.md)
+### [Addressing the death of Kenneth Lay, U.S. President George W. Bush states that he hopes Lay, one of the men convicted in the collapse of Enron, "was right with the Lord". ](/news/2006/07/6/addressing-the-death-of-kenneth-lay-u-s-president-george-w-bush-states-that-he-hopes-lay-one-of-the-men-convicted-in-the-collapse-of-enr.md)
 _Context: Enron, George W. Bush, Jesus Christ, Kenneth Lay, Trial of Kenneth Lay and Jeffrey Skilling, U.S., United States President_
 
 ### [ The long-range missile launched during North Korea's Missile Test was aimed at a point in the ocean close to the U.S. state of Hawaii. ](/news/2006/07/6/the-long-range-missile-launched-during-north-korea-s-missile-test-was-aimed-at-a-point-in-the-ocean-close-to-the-u-s-state-of-hawaii.md)
@@ -12,7 +12,7 @@ _Context: 13-day mission, Discovery, International Space Station, Space Shuttle,
 ### [ Great Britain's young people are for the first time spending more time looking at Internet sites than watching TV, a new survey has revealed. ](/news/2006/07/6/great-britain-s-young-people-are-for-the-first-time-spending-more-time-looking-at-internet-sites-than-watching-tv-a-new-survey-has-reveale.md)
 _Context: Great Britain, Internet, TV, opinion poll_
 
-### [ In Mexico's presidential election, PRD candidate Andrs Manuel Lpez Obrador says he will file a legal challenge against the results of the ongoing official vote count that have him losing to the PAN's Felipe Caldern by 0.57 percentage points. ](/news/2006/07/6/in-mexico-s-presidential-election-prd-candidate-andres-manuel-lopez-obrador-says-he-will-file-a-legal-challenge-against-the-results-of-the.md)
+### [ In Mexico's presidential election, PRD candidate Andrs Manuel Lpez Obrador says he will file a legal challenge against the results of the ongoing official vote count that have him loscing to the PAN's Felipe Caldern by 0.57 percentage points. ](/news/2006/07/6/in-mexico-s-presidential-election-prd-candidate-andres-manuel-lopez-obrador-says-he-will-file-a-legal-challenge-against-the-results-of-the.md)
 _Context: Andrs Manuel Lpez Obrador, Felipe Caldern, Mexican general election, Mexico, National Action Party (PAN), Party of the Democratic Revolution_
 
 ### [ A United States Military AH-64 Apache helicopter made an emergency landing in South Korea. There was no injury or damage to the helicopter. ](/news/2006/07/6/a-united-states-military-ah-64-apache-helicopter-made-an-emergency-landing-in-south-korea-there-was-no-injury-or-damage-to-the-helicopter.md)

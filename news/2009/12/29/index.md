@@ -10,7 +10,7 @@ _Context: South Sudan, Sudanese parliament, independent, referendum_
 _Context: Kurdish, Turkey, minibus bombing in 2005_
 
 ### [ Bangladesh says it will repatriate 9,000 Rohingya refugees staying at camps in the country back to Burma. ](/news/2009/12/29/bangladesh-says-it-will-repatriate-9-000-rohingya-refugees-staying-at-camps-in-the-country-back-to-burma.md)
-_Context: Bangladesh, Burma, Rohingya minority_
+_Context: Bangladesh, Burma, Rohingya_
 
 ### [ Iran's Nobel Peace Prize winner Shirin Ebadi says her sister Nooshin, a medical professor and human rights activist, was arrested by authorities the previous evening. Sources indicate journalists have also been detained. ](/news/2009/12/29/iran-s-nobel-peace-prize-winner-shirin-ebadi-says-her-sister-nooshin-a-medical-professor-and-human-rights-activist-was-arrested-by-author.md)
 The sister of Nobel laureate Shirin Ebadi has been detained by Iranian intelligence officials, the Iranian lawyer and human rights activist said.

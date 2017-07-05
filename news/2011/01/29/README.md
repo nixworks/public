@@ -43,7 +43,7 @@ The Dutch government freezes all contacts with Iran in protest over the hanging 
 _Context: Afghanistan, Ed Miliband, Labour_
 
 ### [A Buddhist monk is the first person to be charged under a strict anti-smoking law in Bhutan, introduced in 2005. ](/news/2011/01/29/a-buddhist-monk-is-the-first-person-to-be-charged-under-a-strict-anti-smoking-law-in-bhutan-introduced-in-2005.md)
-_Context: Bhutan, Buddhist_
+_Context: Bhutan, Buddhists_
 
 ### [Guillermo Farinas, known for his hunger strike campaigns, is released after having been detained by Cuban authorities for the third time in 48 hours. ](/news/2011/01/29/guillermo-faria-as-known-for-his-hunger-strike-campaigns-is-released-after-having-been-detained-by-cuban-authorities-for-the-third-time-in.md)
 Cuban dissident Guillermo Farinas is released after being arrested three times in 48 hours, as he defied official warnings to keep a low profile.

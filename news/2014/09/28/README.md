@@ -7,7 +7,7 @@ Al-Qaeda vows retaliation over military operation in Syria as air raids target I
 _Context: Pakistan, War in North-West Pakistan_
 
 ### [A Buddhist monk accused of inciting violence against Muslims in Burma says he is joining forces with the Bodu Bala Sena group in Sri Lanka in order to combat a "serious threat from jihadist groups". ](/news/2014/09/28/a-buddhist-monk-accused-of-inciting-violence-against-muslims-in-burma-says-he-is-joining-forces-with-the-bodu-bala-sena-group-in-sri-lanka-i.md)
-_Context: Bodu Bala Sena, Buddhist, Burma, Muslim, Sri Lanka_
+_Context: Bodu Bala Sena, Buddhists, Burma, Muslim, Sri Lanka_
 
 ### [2014 Mount Ontake eruption:Dozens of people are rescued from Japan's Mount Ontake following a volcanic eruption, with at least 30 feared dead. This is the first deadly eruption in Japan since 1991. ](/news/2014/09/28/2014-mount-ontake-eruption-pdozens-of-people-are-rescued-from-japan-s-mount-ontake-following-a-volcanic-eruption-with-at-least-30-feared-de.md)
 _Context: 2014 Mount Ontake eruption, Japan, Mount Ontake_

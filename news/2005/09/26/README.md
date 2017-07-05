@@ -22,7 +22,7 @@ _Context: Egypt, Gaza Strip, Hamas, Israel, Israel Defense Forces, Israeli-Pales
 _Context: Hamas, Israel, Israeli settlement, Jerusalem, Ramallah, Shin Bet's_
 
 ### [ ''Kitzmiller et al. v. Dover Area School District'' is the first direct challenge brought in United States federal courts against a public school district curriculum mandating  the teaching of intelligent design as an alternative to evolution. Opening arguments are set for today in Harrisburg, Pennsylvania District Court. [http://www.latimes.com/news/nationworld/nation/la-na-dover26sep26,0,4324588.story?coll=la-tot-promo&track=morenews (LA Times)]  [http://www.washingtonpost.com/wp-dyn/content/article/2005/09/26/AR2005092600149.html (AP)] (Link dead as of 21:25, 14 January 2007 (UTC))](/news/2005/09/26/kitzmiller-et-al-v-dover-area-school-district-is-the-first-direct-challenge-brought-in-united-states-federal-courts-against-a-public.md)
-_Context: Harrisburg, Kitzmiller v. Dover Area School District, Pennsylvania, evolving, federal court, intelligent design_
+_Context: Evolution, Harrisburg, Kitzmiller v. Dover Area School District, Pennsylvania, federal court, intelligent design_
 
 ## [Previous Day...](/news/2005/09/25/index.md)
 

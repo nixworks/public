@@ -4,7 +4,7 @@
 _Context: Gaza Strip, Hamas, Israel, Palestinian_
 
 ### [ Thousands of people have been attending mass ceremonies in India at which hundreds of low-caste Hindus (Dalits) converted to Buddhism and Christianity. ](/news/2006/10/14/thousands-of-people-have-been-attending-mass-ceremonies-in-india-at-which-hundreds-of-low-caste-hindus-dalits-converted-to-buddhism-and-c.md)
-_Context: Buddhist, Christian, Dalits, Hindus, India_
+_Context: Buddhists, Christian, Dalits, Hindus, India_
 
 ### [ 2006 North Korean nuclear testing The United Nations Security Council adopts Resolution 1718, imposing sanctions on North Korea in response to its recent nuclear test. ](/news/2006/10/14/2006-north-korean-nuclear-testingp-the-united-nations-security-council-adopts-resolution-1718-imposing-sanctions-on-north-korea-in-respons.md)
 _Context: 2006, North Korea, Resolution 1718, United Nations Security Council_

@@ -7,7 +7,7 @@ More than a million rally in Cairo as massive countrywide protests are held agai
 Monarch asks ex-army general to form new government in the wake of streets protests over prices and reforms.
 
 ### [A Buddhist family of four is shot killed by suspected Muslim separatists seeking autonomy from predominantly Buddhist Thailand in the latest attack in an escalation of violence in the southern Thailand. ](/news/2011/02/1/a-buddhist-family-of-four-is-shot-killed-by-suspected-muslim-separatists-seeking-autonomy-from-predominantly-buddhist-thailand-in-the-latest.md)
-_Context: Buddhist, South Thailand insurgency, Thailand_
+_Context: Buddhists, South Thailand insurgency, Thailand_
 
 ### [The owner of China's fourth-most visited website, Sohu.com Inc, posted a better-than-estimated 41 percent gain in profit after the company raised prices and boosted services such as video sharing. ](/news/2011/02/1/the-owner-of-china-s-fourth-most-visited-website-sohu-com-inc-posted-a-better-than-estimated-41-percent-gain-in-profit-after-the-company-r.md)
 _Context: People's Republic of China, Sohu.com_

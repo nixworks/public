@@ -19,7 +19,7 @@ Some&#x20;60&#x20;people&#x20;have&#x20;been&#x20;killed&#x20;and&#x20;scores&#x
 Palestinian in Turkish Embassy &quot;threatened to blow up building.&quot;
 
 ### [Archaeologists in Afghanistan discover the remains of a Buddhist site south of the capital Kabul. ](/news/2010/08/17/archaeologists-in-afghanistan-discover-the-remains-of-a-buddhist-site-south-of-the-capital-kabul.md)
-_Context: Afghanistan, Buddhist, Kabul_
+_Context: Afghanistan, Buddhists, Kabul_
 
 ### [Fiji officially designates the word "Fijian" as the term for the nationality of all the people of the islands including Indo-Fijians. The word was previously used only for indigenous inhabitants. ](/news/2010/08/17/fiji-officially-designates-the-word-fijian-as-the-term-for-the-nationality-of-all-the-people-of-the-islands-including-indo-fijians-the-wo.md)
 _Context: Fiji, Fijian, Indo-Fijian_

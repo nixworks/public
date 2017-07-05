@@ -7,7 +7,7 @@ At least 10 people are killed and more than 65 wounded in the northern Afghan ci
 _Context: Anbar province, ISIL, Iraq, Iraqi police, Syria_
 
 ### [The regional branch of the Communist Party of China in Tibet demands that Buddhist monasteries display the Chinese flag in an effort to shore up Chinese rule. ](/news/2015/04/9/the-regional-branch-of-the-communist-party-of-china-in-tibet-demands-that-buddhist-monasteries-display-the-chinese-flag-in-an-effort-to-shor.md)
-_Context: Buddhist, Chinese flags, Communist Party of China, Tibet_
+_Context: Buddhists, Chinese flags, Communist Party of China, Tibet_
 
 ### [At least 24 people are killed and 22 injured in a bus accident in southwestern Bangladesh. ](/news/2015/04/9/at-least-24-people-are-killed-and-22-injured-in-a-bus-accident-in-southwestern-bangladesh.md)
 _Context: Bangladesh_

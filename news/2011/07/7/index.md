@@ -70,7 +70,7 @@ Riot police patrolled the streets to break up opposition protests in Dhaka and e
 _Context: Chinese President, Jiang Zemin, People's Republic of China_
 
 ### [Freedom Flotilla II: The Greek Coast Guard prevents the ship ''Dignity Al Karama'' from sailing to the Gaza Strip after it stops to refuel in Crete. ](/news/2011/07/7/freedom-flotilla-ii-the-greek-coast-guard-prevents-the-ship-dignity-al-karama-from-sailing-to-the-gaza-strip-after-it-stops-to-refuel-i.md)
-_Context: Crete, Freedom Flotilla II, Gaza Strip, Greek coast guard_
+_Context: Crete, Freedom Flotilla II, Gaza Strip, Greek Coast Guard_
 
 ### [The southern branch of Sudan's ruling National Congress Party announces its split from the northern party ahead of South Sudan's independence ](/news/2011/07/7/the-southern-branch-of-sudan-s-ruling-national-congress-party-announces-its-split-from-the-northern-party-ahead-of-south-sudan-s-independenc.md)
 _Context: National Congress Party, South Sudan_

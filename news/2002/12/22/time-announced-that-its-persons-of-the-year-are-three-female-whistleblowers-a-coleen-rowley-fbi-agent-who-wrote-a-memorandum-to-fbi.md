@@ -7,7 +7,7 @@
 
 ### Related:
 
-1. [ Addressing the death of Kenneth Lay, U.S. President George W. Bush states that he hopes Lay, one of the men convicted in the collapse of Enron, "was right with the Lord". ](/news/2006/07/6/addressing-the-death-of-kenneth-lay-u-s-president-george-w-bush-states-that-he-hopes-lay-one-of-the-men-convicted-in-the-collapse-of-en.md) _Context: Enron, Kenneth Lay_
+1. [Addressing the death of Kenneth Lay, U.S. President George W. Bush states that he hopes Lay, one of the men convicted in the collapse of Enron, "was right with the Lord". ](/news/2006/07/6/addressing-the-death-of-kenneth-lay-u-s-president-george-w-bush-states-that-he-hopes-lay-one-of-the-men-convicted-in-the-collapse-of-enr.md) _Context: Enron, Kenneth Lay_
 2. [ Former Enron executive Kenneth Lay has died of a heart attack at the age of 64.  ](/news/2006/07/5/former-enron-executive-kenneth-lay-has-died-of-a-heart-attack-at-the-age-of-64.md) _Context: Enron, Kenneth Lay_
 3. [ Former Enron executives Kenneth Lay and Jeffrey Skilling are found criminally guilty for their role in the demise of the now-defunct energy-trading firm. ](/news/2006/05/25/former-enron-executives-kenneth-lay-and-jeffrey-skilling-are-found-criminally-guilty-for-their-role-in-the-demise-of-the-now-defunct-energy.md) _Context: Enron, Kenneth Lay_
 4. [ Zacarias Moussaoui pleads guilty to terror charges in U.S. federal court. ](/news/2005/04/22/zacarias-moussaoui-pleads-guilty-to-terror-charges-in-u-s-federal-court.md) _Context: Zacarias Moussaoui, terrorism_

@@ -11,7 +11,7 @@ A dangerous cold snap bringing life-threatening cold was settling in across the 
 
 ### Related:
 
-1. [Ten people are injured when a taxi jumped a curb and hit a group of cabdrivers outside the taxi pool building at Logan International Airport in Boston, Massachusetts. ](/news/2017/07/3/ten-people-are-injured-when-a-taxi-jumped-a-curb-and-hit-a-group-of-cabdrivers-outside-the-taxi-pool-building-at-logan-international-airport.md) _Context: Boston_
+1. [Ten people are injured when a taxi jumps a curb and hit a group of cabdrivers outside the taxi pool building at Logan International Airport in Boston, Massachusetts. ](/news/2017/07/3/ten-people-are-injured-when-a-taxi-jumps-a-curb-and-hit-a-group-of-cabdrivers-outside-the-taxi-pool-building-at-logan-international-airport.md) _Context: Boston_
 2. [The destruction from snow fall kills six people and leaves over 100,000 others without electricity, with some areas in the Northeastern United States receiving over 4|feet|meters of snow. ](/news/2017/03/14/the-destruction-from-snow-fall-kills-six-people-and-leaves-over-100-000-others-without-electricity-with-some-areas-in-the-northeastern-unit.md) _Context: Northeastern United States_
 3. [A major blizzard hits the northeastern United States, cancelling more than 2,400 flights. ](/news/2017/02/9/a-major-blizzard-hits-the-northeastern-united-states-cancelling-more-than-2-400-flights.md) _Context: Northeastern United States_
 4. [The Islamabad High Court indefinitely bans the celebration of Valentine's Day in Pakistan. ](/news/2017/02/13/the-islamabad-high-court-indefinitely-bans-the-celebration-of-valentine-s-day-in-pakistan.md) _Context: Valentine's Day_

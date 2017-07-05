@@ -34,7 +34,7 @@ _Context: south China, teacher_
 _Context: East Africa, European Union, Kenya_
 
 ### [Chinese Buddhist monks and archaeologists revealed what they believe to be a part of the skull of Siddartha Gautama, the founder of Buddhism, in east China's Jiangsu Province. ](/news/2010/06/12/chinese-buddhist-monks-and-archaeologists-revealed-what-they-believe-to-be-a-part-of-the-skull-of-siddartha-gautama-the-founder-of-buddhism.md)
-_Context: Buddhist, Buddhist monks, Gautama Buddha, Jiangsu Province_
+_Context: Buddhist monks, Buddhists, Gautama Buddha, Jiangsu Province_
 
 ### [UK Prime Minister David Cameron and U.S. President Barack Obama discuss America's oil spill problem over a telephone call. ](/news/2010/06/12/uk-prime-minister-david-cameron-and-u-s-president-barack-obama-discuss-america-s-oil-spill-problem-over-a-telephone-call.md)
 _Context: Barack Obama, David Cameron, Deepwater Horizon oil spill, Prime Minister, U.S. President, United Kingdom_
