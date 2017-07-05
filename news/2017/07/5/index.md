@@ -12,6 +12,9 @@ Miosotis Familia, a 12-year veteran of the force, was shot in the head while sit
 ### [Three people are shot and killed by a gunman in separate incidents in Madison, Maine. A fourth victim is wounded. Sheriffs deputies then shot and killed the suspect. ](/news/2017/07/5/three-people-are-shot-and-killed-by-a-gunman-in-separate-incidents-in-madison-maine-a-fourth-victim-is-wounded-sheriffs-deputies-then-sho.md)
 Another person was wounded before the gunman was reportedly shot and killed by deputies
 
+### [Supporters of Venezuelan President Nicols Maduro storm the opposition-controlled National Assembly and injure several lawmakers, including the President of the National Assembly, Julio Borges. Several journalists were also injured in the assault. ](/news/2017/07/5/supporters-of-venezuelan-president-nicolas-maduro-storm-the-opposition-controlled-national-assembly-and-injure-several-lawmakers-including.md)
+_Context: 2017 Venezuelan constitutional crisis, Julio Borges, National Assembly, Nicols Maduro, President of the National Assembly, Supporters, Venezuela_
+
 ### [The face of the Peruvian Moche mummy the Lady of Cao is reconstructed from its skull structure, using forensic archaeology techniques and ethnographic research. ](/news/2017/07/5/the-face-of-the-peruvian-moche-mummy-the-lady-of-cao-is-reconstructed-from-its-skull-structure-using-forensic-archaeology-techniques-and-et.md)
 She died in her twenties some 1700 years ago, and is believed to have ruled over a desert valley in ancient Peru where her elaborately tattooed body was buried.
 
