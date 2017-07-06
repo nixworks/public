@@ -1,6 +1,5 @@
 ## [2017-06-28](/news/2017/06/28/index.md)
 
-### [A.L.A.Trainer Passed away in the early hours of today..](/news/2017/06/28/a-l-a-trainer-passed-away-in-the-early-hours-of-today.md)
 ### [China's state-run ''Global Times'' newspaper reports the launching of the first Type 055 destroyer, a 10,000-ton "new generation" warship, at the Jiangnan Shipyard in Shanghai. ](/news/2017/06/28/china-s-state-run-global-times-newspaper-reports-the-launching-of-the-first-type-055-destroyer-a-10-000-ton-new-generation-warship-a.md)
 _Context: China, Global Times, Jiangnan Shipyard, Shanghai, Type 055 destroyer_
 
