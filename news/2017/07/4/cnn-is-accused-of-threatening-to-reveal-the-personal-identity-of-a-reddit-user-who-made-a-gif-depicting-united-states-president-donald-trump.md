@@ -1,6 +1,6 @@
 ### [2017-07-4](/news/2017/07/4/index.md)
 
-# CNN is accused of threatening to reveal the personal identity of a Reddit user who made a GIF depicting United States President Donald Trump tackling a man to the ground, with CNN's logo superimposed on his face. The GIF was modified and posted on Trump's Twitter feed. 
+# CNN is accused of threatening to reveal the personal identity of a Reddit user who made a GIF depicting United States President Donald Trump tackling a man to the ground, with CNN's logo superimposed on the man's face. The GIF was modified and posted on Trump's Twitter feed. 
 
 The network said it had found the Reddit user behind a video showing the president wrestling the CNN logo to the ground, but it did not identify the user.
 
