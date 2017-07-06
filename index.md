@@ -9,6 +9,9 @@ There was applause and a sense of relief in Vanuatu&#39;s parliament today as Ta
 ### [The Supreme Court says president Rodrigo Duterte can declare martial law in the whole Philippines. ](/news/2017/07/6/the-supreme-court-says-president-rodrigo-duterte-can-declare-martial-law-in-the-whole-philippines.md)
 _Context: Philippines, Rodrigo Duterte, Supreme Court, martial law_
 
+### [Scientists announce the detection of a new subatomic particle at the Large Hadron Collider. ](/news/2017/07/6/scientists-announce-the-detection-of-a-new-subatomic-particle-at-the-large-hadron-collider.md)
+Scientists have detected a new particle at the Large Hadron Collider at Cern
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
