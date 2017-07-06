@@ -22,7 +22,7 @@ _Context: Facebook, IPO, Wall Street_
 Three Spanish savings banks - Ibercaja, Liberbank and Caja3 - approve a merger to strengthen their weakened balance sheets.
 
 ### [Russian social network VK announces that it will postpone its planned initial public offering indefinitely, following the recent botched float of Facebook. ](/news/2012/05/29/russian-social-network-vk-announces-that-it-will-postpone-its-planned-initial-public-offering-indefinitely-following-the-recent-botched-flo.md)
-_Context: Facebook, Inc., IPO, VK_
+_Context: Facebook, IPO, VK_
 
 ### [A 5.8-magnitude earthquake rocks northern Italy near Bologna, killing at least 24 people. ](/news/2012/05/29/a-5-8-magnitude-earthquake-rocks-northern-italy-near-bologna-killing-at-least-24-people.md)
 At least 17 people killed and others trapped under rubble as 5.8-magnitude quake and aftershocks rattle northern Italy.

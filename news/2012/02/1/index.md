@@ -22,7 +22,7 @@ _Context: American, Don Cornelius, Soul Train_
 Japan has temporarily banned poultry imports from Australia following an outbreak of avian flu at a duck farm.
 
 ### [The social network Facebook files for an initial public offering. ](/news/2012/02/1/the-social-network-facebook-files-for-an-initial-public-offering.md)
-_Context: Facebook, Inc., IPO, social network_
+_Context: Facebook, IPO, social network_
 
 ### [The parent company of American Airlines says that it will slash 13,000 jobs or 15% of its workforce. ](/news/2012/02/1/the-parent-company-of-american-airlines-says-that-it-will-slash-13-000-jobs-or-15-of-its-workforce.md)
 The loss-making parent company of American Airlines says it will shed 13,000 jobs - around 15% of its workforce.

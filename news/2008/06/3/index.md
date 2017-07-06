@@ -4,7 +4,7 @@
 _Context: 2000 Olympics, Antonio Pettigrew, EPO, Michael Johnson, Olympic Games, Sydney, U.S., human growth hormone, relay_
 
 ### [ China National Petroleum Corporation signs an agreement to produce oil in Niger. ](/news/2008/06/3/china-national-petroleum-corporation-signs-an-agreement-to-produce-oil-in-niger.md)
-_Context: China National Petroleum Corporation, Niger, produce oil_
+_Context: CNPC, Niger, produce oil_
 
 ### [ General Motors announces it will close 4 pickup truck and sports utility vehicle factories in Janesville, Wisconsin, Oshawa, Ontario, Moraine, Ohio, and Toluca, State of Mexico, eliminating 10,000 jobs; it also announces plans for a small car that will achieve 45 miles per gallon in response to rising fuel prices. ](/news/2008/06/3/general-motors-announces-it-will-close-4-pickup-truck-and-sports-utility-vehicle-factories-in-janesville-wisconsin-oshawa-ontario-morai.md)
 _Context: General Motors, Janesville, Wisconsin, Moraine, Ohio, Oshawa, Ontario, Toluca, State of Mexico, eliminating 10,000 jobs, pickup truck, sports utility vehicle_

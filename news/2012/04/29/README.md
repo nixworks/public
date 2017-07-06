@@ -19,7 +19,7 @@ _Context: Lebanon, Syria_
 _Context: Gunma Prefecture, Japan, Tokyo_
 
 ### [Seven people are killed, including three children, when a vehicle they were in flipped over on the Bronx River Parkway in The Bronx, New York City. ](/news/2012/04/29/seven-people-are-killed-including-three-children-when-a-vehicle-they-were-in-flipped-over-on-the-bronx-river-parkway-in-the-bronx-new-yor.md)
-_Context: Bronx River Parkway, New York City, The Bronx_
+_Context: Bronx River Parkway, New York City, the Bronx_
 
 ### [The final deadline (no more extensions) for the total destruction of chemical weapons stockpiles under the international Chemical Weapons Convention is reached. ](/news/2012/04/29/the-final-deadline-no-more-extensions-for-the-total-destruction-of-chemical-weapons-stockpiles-under-the-international-chemical-weapons-co.md)
 _Context: Chemical Weapons Convention, chemical weapons_

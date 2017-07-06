@@ -4,7 +4,7 @@
 _Context: Andhra Pradesh, Godavari Maha Pushkaram, Hindu, stampede_
 
 ### [A helicopter belonging to the National Iranian Oil Company (NIOC) with four people on board (two crew members, a patient, and a person accompanying the patient) crashes in the Persian Gulf. ](/news/2015/07/14/a-helicopter-belonging-to-the-national-iranian-oil-company-nioc-with-four-people-on-board-two-crew-members-a-patient-and-a-person-accom.md)
-_Context: National Iranian Oil Company, Persian Gulf_
+_Context: NIOC, Persian Gulf_
 
 ### [Two people are dead and six are missing due to flash flooding in Kentucky. ](/news/2015/07/14/two-people-are-dead-and-six-are-missing-due-to-flash-flooding-in-kentucky.md)
 One person was killed and several others were missing as a band of severe thunderstorms put millions of Americans in the path of damaging winds.

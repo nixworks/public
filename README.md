@@ -1,6 +1,6 @@
 ## [News](/news/2017/07/6/index.md)
 
-### [Despite an ongoing stand-off between China and India over the Doklam tri-junction which is claimed by both China and Bhutan, China claims it has a "basic consensus" with Bhutan and there is no dispute between the two countries. ''[http://economictimes.indiatimes.com/news/defence/no-dispute-with-bhutan-in-doklam-china/articleshow/59456533.cms (The Economic Times)]''](/news/2017/07/6/despite-an-ongoing-stand-off-between-china-and-india-over-the-doklam-tri-junction-which-is-claimed-by-both-china-and-bhutan-china-claims-it.md)
+### [Despite an ongoing stand-off between China and India over the Doklam tri-junction which is claimed by both China and Bhutan, China claims it has a "basic consensus" with Bhutan and that there is no dispute between the two countries. ''[http://economictimes.indiatimes.com/news/defence/no-dispute-with-bhutan-in-doklam-china/articleshow/59456533.cms (The Economic Times)]''](/news/2017/07/6/despite-an-ongoing-stand-off-between-china-and-india-over-the-doklam-tri-junction-which-is-claimed-by-both-china-and-bhutan-china-claims-it.md)
 _Context: Bhutan, Bhutan-China relations, China, China-India relations, Doklam tri-junction, India_
 
 ## Opinion
@@ -51,8 +51,8 @@ _Context: 2016-17 Rohingya persecution in Myanmar, Buddhists, Myanmar, Rakhine, 
 ### [As part of an investigation into the recent cyberattacks, the servers of Ukraine's most popular accounting software company, M.E.Doc, are seized by Ukrainian police. ](/news/2017/07/4/as-part-of-an-investigation-into-the-recent-cyberattacks-the-servers-of-ukraine-s-most-popular-accounting-software-company-m-e-doc-are-se.md)
 M.E.Doc&#x27;s owners deny that some initial infections last week were spread via a malicious update issued by their software.
 
-### [ CNN is accused of threatening to reveal the personal identity of a Reddit user who made the video of United States President Donald Trump tackling a man with CNN's logo superimposed on his face to the ground.](/news/2017/07/4/cnn-is-accused-of-threatening-to-reveal-the-personal-identity-of-a-reddit-user-who-made-the-video-of-united-states-president-donald-trump-t.md)
-CNN has come under fire for suggesting it will publish the identity of a private citizen if he behaves in a way that displeases the network. 
+### [CNN is accused of threatening to reveal the personal identity of a Reddit user who made a GIF depicting United States President Donald Trump tackling a man with CNN's logo superimposed on his face to the ground. The GIF was modified and posted on Trump's Twitter feed. ](/news/2017/07/4/cnn-is-accused-of-threatening-to-reveal-the-personal-identity-of-a-reddit-user-who-made-a-gif-depicting-united-states-president-donald-trump.md)
+The network said it had found the Reddit user behind a video showing the president wrestling the CNN logo to the ground, but it did not identify the user.
 
 ### [Researchers discover that the diversity of frogs is a direct result of the extinction of the dinosaurs. ](/news/2017/07/4/researchers-discover-that-the-diversity-of-frogs-is-a-direct-result-of-the-extinction-of-the-dinosaurs.md)
 Frogs are &quot;master survivors,&quot; able to take advantage of the ecological vacuum left behind by extinct animals. Scientists say 9 in 10 frog species descended from three surviving frog lineages.

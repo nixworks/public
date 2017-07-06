@@ -13,7 +13,7 @@ A police station in the northern Nigerian city of Maiduguri is destroyed and thr
 British author and former University of Sydney lecturer Howard Jacobson has edged out the favourites to win the Man Booker Prize for Fiction, scooping the &amp;#x00A3;50,000 ($80,000) literary prize for his novel, The Finkler Question.
 
 ### [Greenpeace sends Facebook a letter containing half a million signatures asking the company to cut its ties to  coal based electricity.](/news/2010/10/12/greenpeace-sends-facebook-a-letter-containing-half-a-million-signatures-asking-the-company-to-cut-its-ties-to-coal-based-electricity.md)
-_Context:  coal based electricity, Facebook, Inc., Greenpeace India's_
+_Context:  coal based electricity, Facebook, Greenpeace India's_
 
 ### [2010 strikes in France: French workers initiate a 24-hour strike against pension reform with transport services badly affected. ](/news/2010/10/12/2010-strikes-in-france-french-workers-initiate-a-24-hour-strike-against-pension-reform-with-transport-services-badly-affected.md)
 _Context: pension, recent strikes and demonstrations, strike_

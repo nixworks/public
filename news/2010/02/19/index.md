@@ -31,7 +31,7 @@ _Context: Conflict in the Niger Delta, Niger Delta, Nigeria_
 Hamas official warns nations to stay out of Israeli-Palestinian conflict.
 
 ### [Social networking site Facebook closes down spontaneous support groups for a pilot who crashed his plane in Austin, United States. (Wikinews)  ](/news/2010/02/19/social-networking-site-facebook-closes-down-spontaneous-support-groups-for-a-pilot-who-crashed-his-plane-in-austin-united-states-wikinews.md)
-_Context: (Wikinews), Facebook, Inc., crashed his plane in Austin, United States_
+_Context: (Wikinews), Facebook, crashed his plane in Austin, United States_
 
 ### [Ex-IAEA head Mohamed ElBaradei is set to return to Egypt hoping to run for the presidency in the 2011 election. ](/news/2010/02/19/ex-iaea-head-mohamed-elbaradei-is-set-to-return-to-egypt-hoping-to-run-for-the-presidency-in-the-2011-election.md)
 _Context: Egypt, Egyptian President, Egyptian presidential election in September, IAEA, Mohamed ElBaradei_

@@ -25,7 +25,7 @@ _Context: International Olympic Committee, Singapore, Youth Olympic Games_
 _Context: Salt Lake City, Twin Falls, Idaho, Wells, Nevada_
 
 ### [ Gazprom, Total and StatoilHydro incorporate the Shtokman Development Company, a joint operating company to develop the giant Shtokman gas field. ](/news/2008/02/21/gazprom-total-and-statoilhydro-incorporate-the-shtokman-development-company-a-joint-operating-company-to-develop-the-giant-shtokman-gas-f.md)
-_Context: Gazprom, Shtokman gas field, StatoilHydro, Total S.A._
+_Context: Gazprom, Shtokman gas field, StatoilHydro, Total_
 
 ## [Previous Day...](/news/2008/02/20/index.md)
 

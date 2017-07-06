@@ -13,7 +13,7 @@ Casualties are reported in clashes as a massive rally is held in Kiev over a Ukr
 Syrian army helicopters bombarded the northern rebel-held town of Al-Bab for a second day on Sunday, killing 20 people including four women when they dropped improvised barrel bombs on a market district, a monitoring group said.
 
 ### [At least four are dead following a Metro-North Railroad train derailment near Spuyten Duyvil, The Bronx, New York City. ](/news/2013/12/1/at-least-four-are-dead-following-a-metro-north-railroad-train-derailment-near-spuyten-duyvil-the-bronx-new-york-city.md)
-_Context: Metro-North Railroad, Spuyten Duyvil, The Bronx, derailment_
+_Context: Metro-North Railroad, Spuyten Duyvil, derailment, the Bronx_
 
 ### [Croatian constitutional referendum, 2013:Voters in Croatia go to the polls for a referendum on a proposal to outlaw same-sex marriage with 65 per cent voting yes. ](/news/2013/12/1/croatian-constitutional-referendum-2013-pvoters-in-croatia-go-to-the-polls-for-a-referendum-on-a-proposal-to-outlaw-same-sex-marriage-with.md)
 Read the latest World and International news headlines from Sky News Australia. For coverage of breaking news from around the World visit skynews.com.au.

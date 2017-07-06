@@ -34,7 +34,7 @@ Cartel boss has 40-year jail sentence for murder of American DEA agent Enrique C
 Liu Tienan, a former top economic official in China, is expelled from the Communist Party and removed from public office, state media report.
 
 ### [A 31-year-old Florida man kills his wife and posts a picture of her corpse with a confession onto Facebook. The picture is removed and the man is arrested. ](/news/2013/08/9/a-31-year-old-florida-man-kills-his-wife-and-posts-a-picture-of-her-corpse-with-a-confession-onto-facebook-the-picture-is-removed-and-the-m.md)
-_Context: Facebook, Inc., Florida_
+_Context: Facebook, Florida_
 
 ### [President Boni Yayi of Benin dismisses his entire Cabinet. ](/news/2013/08/9/president-boni-yayi-of-benin-dismisses-his-entire-cabinet.md)
 Benin President Boni Yayi sacked his entire government on Friday &quot;to breathe a new dynamic&quot; into the 26-member cabinet, a statement from his office said.

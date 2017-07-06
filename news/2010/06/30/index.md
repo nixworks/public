@@ -31,7 +31,7 @@ Finland is now the first country in the world where every citizen is entitled to
 Sudanese authorities release Islamist opposition leader Hassan al-Turabi after six weeks in detention, his secretary says.
 
 ### [Inauguration of Noynoy Aquino:Benigno Aquino III is sworn in as the 15th President of the Philippines and Jejomar Binay is sworn the 15th Vice President of the Philippines.](/news/2010/06/30/inauguration-of-noynoy-aquino-pbenigno-aquino-iii-is-sworn-in-as-the-15th-president-of-the-philippines-and-jejomar-binay-is-sworn-the-15th-v.md)
-_Context: Benigno Aquino III, Inauguration of Noynoy Aquino, Jejomar Binay, President of the Philippines, vice president_
+_Context: Benigno Aquino III, Inauguration of Noynoy Aquino, Jejomar Binay, President of the Philippines, Vice President_
 
 ### [Two people are killed overnight in Burundi and two others wounded in violence that follows a controversial presidential election in which incumbent Pierre Nkurunziza was the only candidate. ](/news/2010/06/30/two-people-are-killed-overnight-in-burundi-and-two-others-wounded-in-violence-that-follows-a-controversial-presidential-election-in-which-in.md)
 _Context: Burundi, Pierre Nkurunziza_

@@ -16,7 +16,7 @@ The European Union will tighten sanctions on North Korea to curb trade in gold a
 _Context: 2013 meat adulteration scandal, Compass Group, United Kingdom, Whitbread, beef, horses for meat_
 
 ### [The social networking giant Facebook announces that it was the target of sophisticated hackers, who through a then-unknown bug from Oracle's Java on an infected website, managed to infiltrate employees' laptops, and then the internal networks. There was no user data collected, but certain code and corporate e-mails could have been exfiltrated. ](/news/2013/02/15/the-social-networking-giant-facebook-announces-that-it-was-the-target-of-sophisticated-hackers-who-through-a-then-unknown-bug-from-oracle-s.md)
-_Context: Facebook, Inc., Java, Oracle Corporation, bug, e-mails, hackers, laptop, network, social network, user data, website_
+_Context: Facebook, Java, Oracle Corporation, bug, e-mails, hackers, laptop, network, social network, user data, website_
 
 ### [Securities regulators file a lawsuit against traders in options on the stock of H.J. Heinz, alleging they had inside information of the planned acquisition of that company before the announcement thereof by Berkshire Hathaway and 3G Capital. ](/news/2013/02/15/securities-regulators-file-a-lawsuit-against-traders-in-options-on-the-stock-of-h-j-heinz-alleging-they-had-inside-information-of-the-plan.md)
 _Context: 3G Capital, Berkshire Hathaway, H.J. Heinz_

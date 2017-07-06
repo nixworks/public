@@ -58,7 +58,7 @@ _Context: Guinea, November's presidential poll, state of emergency_
 _Context: Alaska senate  election, Lisa Murkowski, United States Senate, write-in candidate_
 
 ### [Facebook inadvertently disabled some users' accounts when a system designed to detect fake accounts malfunctioned. The problem has since been resolved. ](/news/2010/11/17/facebook-inadvertently-disabled-some-users-accounts-when-a-system-designed-to-detect-fake-accounts-malfunctioned-the-problem-has-since-bee.md)
-_Context: Facebook, Inc._
+_Context: Facebook_
 
 ### [A study published by ''The Lancet'' medical journal describes how short blasts of radio waves to the kidney may help regulate blood pressure. ](/news/2010/11/17/a-study-published-by-the-lancet-medical-journal-describes-how-short-blasts-of-radio-waves-to-the-kidney-may-help-regulate-blood-pressure.md)
 A short blast of radio waves to the kidneys can help control high blood pressure in patients who do not respond to medication, a study shows.

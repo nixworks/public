@@ -7,7 +7,7 @@ _Context: Bajaur Agency, Pakistan_
 _Context: recession, stock markets_
 
 ### [Facebook makes major changes to its social networking interface, updating its profile page, adding an app store, and amending its news feed with a "timeline" feature. ](/news/2011/09/22/facebook-makes-major-changes-to-its-social-networking-interface-updating-its-profile-page-adding-an-app-store-and-amending-its-news-feed.md)
-_Context: Facebook, Inc., app store, social networking_
+_Context: Facebook, app store, social networking_
 
 ### [Hewlett-Packard fires CEO Leo Apotheker, replacing him with former EBay CEO Meg Whitman. ](/news/2011/09/22/hewlett-packard-fires-ceo-leo-apotheker-replacing-him-with-former-ebay-ceo-meg-whitman.md)
 _Context: CEO, Hewlett-Packard, Leo Apotheker, Meg Whitman, eBay_

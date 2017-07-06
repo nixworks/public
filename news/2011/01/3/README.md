@@ -16,7 +16,7 @@ The air force hit three targets in the Strip including weapons factory; IDF says
 _Context: India, Kashmir, Line of Control, Pakistan Army, Poonch district_
 
 ### [Investments in Facebook totaling US$500 million lead to speculation that its value could be as high as US$50 billion. ](/news/2011/01/3/investments-in-facebook-totaling-us-500-million-lead-to-speculation-that-its-value-could-be-as-high-as-us-50-billion.md)
-_Context: Facebook, Inc._
+_Context: Facebook_
 
 ### [Floods in Queensland, Australia:The Australian government announces that it will make relief payments of hundreds of millions of dollars for flood victims.](/news/2011/01/3/floods-in-queensland-australia-pthe-australian-government-announces-that-it-will-make-relief-payments-of-hundreds-of-millions-of-dollars-fo.md)
 _Context: Australian Government, floods_

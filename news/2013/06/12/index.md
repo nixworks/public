@@ -13,7 +13,7 @@ _Context: ERT, Greece_
 Japan&#039;s Jiroemon Kimura, recognised by Guinness World Records as the oldest man in recorded history, has died at the age of 116.
 
 ### [Facebook announces it plans to introduce clickable hashtags. ](/news/2013/06/12/facebook-announces-it-plans-to-introduce-clickable-hashtags.md)
-_Context: Facebook, Inc., hashtag_
+_Context: Facebook, hashtag_
 
 ### [The New Zealand Dollar falls against all major currencies after RBNZ keeps interest rates unchanged. ](/news/2013/06/12/the-new-zealand-dollar-falls-against-all-major-currencies-after-rbnz-keeps-interest-rates-unchanged.md)
 _Context: New Zealand Dollar, RBNZ_

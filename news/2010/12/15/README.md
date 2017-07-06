@@ -7,13 +7,13 @@ _Context: Christmas, New People's Army, Philippines_
 At least 41 people killed and dozens injured after a suicide bombing near a mosque in the Iranian city of Chabahar.
 
 ### [The mummified remains of the head of King Henri IV of France  have been discovered in the garage of a French retiree. ](/news/2010/12/15/the-mummified-remains-of-the-head-of-king-henri-iv-of-france-have-been-discovered-in-the-garage-of-a-french-retiree.md)
-_Context: Henri IV of France, mummified_
+_Context: Henri IV of France, Mummification_
 
 ### [Cuba unveils its own version of Wikipedia. ](/news/2010/12/15/cuba-unveils-its-own-version-of-wikipedia.md)
 _Context: Cuba, Wikipedia_
 
 ### [Facebook founder Mark Zuckerberg is TIME's 2010 Person of the Year. WikiLeaks founder Julian Assange wins top place in the reader's poll. ](/news/2010/12/15/facebook-founder-mark-zuckerberg-is-time-s-2010-person-of-the-year-wikileaks-founder-julian-assange-wins-top-place-in-the-reader-s-poll.md)
-_Context: Facebook, Inc., Julian Assange, Mark Zuckerberg, TIME, WikiLeaks_
+_Context: Facebook, Julian Assange, Mark Zuckerberg, TIME, WikiLeaks_
 
 ### [Lehman Brothers bondholders, including hedge fund manager Paulson & Co., file a plan for the reorganization of that defunct broker-dealer, presenting the New York bankruptcy court with an alternative to the plan Lehman itself filed earlier in the year. ](/news/2010/12/15/lehman-brothers-bondholders-including-hedge-fund-manager-paulson-co-file-a-plan-for-the-reorganization-of-that-defunct-broker-dealer-p.md)
 _Context: Lehman Brothers, New York City, Paulson & Co., bankruptcy, broker-dealer_

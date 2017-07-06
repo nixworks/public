@@ -55,7 +55,7 @@ _Context: Greek Minister of Finance, Yannis Stournaras_
 Colombia’s vice president has awoken from his induced coma is recovering well from an ischemic stroke, the Bogota clinic where he was admitted nearly two weeks ago said Monday. The&hellip;
 
 ### [Social network Facebook perturbs some of its users by making its @facebook.com email system the default contact shown on profiles without asking for permission. ](/news/2012/06/26/social-network-facebook-perturbs-some-of-its-users-by-making-its-facebook-com-email-system-the-default-contact-shown-on-profiles-without-as.md)
-_Context: Facebook, Inc._
+_Context: Facebook_
 
 ### [Zynga unveils ''FarmVille 2''. ](/news/2012/06/26/zynga-unveils-farmville-2.md)
 Video game developer Zynga unveils a sequel to its most popular and highest earning title.

@@ -10,7 +10,7 @@ The only functioning power plant in the Palestinian territory is out of action a
 min Park and Sue-Lin Wong
 
 ### [Cleveland police search for a suspect identified in a Facebook video showing one man shooting an elderly man. ](/news/2017/04/16/cleveland-police-search-for-a-suspect-identified-in-a-facebook-video-showing-one-man-shooting-an-elderly-man.md)
-_Context: Cleveland, Facebook, Inc., Shooting of Robert Godwin_
+_Context: Cleveland, Facebook, Shooting of Robert Godwin_
 
 ### [Voters in Turkey go to the polls for a referendum that seeks to replace the country's parliamentary system with an executive presidency, thereby giving President Recep Tayyip Erdogan sweeping new powers. Erdogan's AK Party has claimed victory while the opposition CHP has said that it will challenge the result. ](/news/2017/04/16/voters-in-turkey-go-to-the-polls-for-a-referendum-that-seeks-to-replace-the-country-s-parliamentary-system-with-an-executive-presidency-the.md)
 ISTANBUL (AP) — Turkish President Recep Tayyip Erdogan declared victory in Sunday&#x27;s referendum that will grant sweeping powers to the presidency, hailing the result as a &quot;historic decision.&quot;

@@ -25,7 +25,7 @@ U.S. Senate Republican leaders postponed a vote on a healthcare overhaul on Tues
 _Context: Political appointments of Donald Trump, Textron Systems, Under Secretary of Defense for Acquisition, Technology and Logistics_
 
 ### [Facebook, Inc. announces that its social media service now has  2 billion regular users, more than a quarter of the world's population. Twitter, by comparison, has 328 million users as of April 2017. ](/news/2017/06/27/facebook-inc-announces-that-its-social-media-service-now-has-2-billion-regular-users-more-than-a-quarter-of-the-world-s-population-twit.md)
-_Context: Facebook, Inc., Social networking service, Twitter_
+_Context: Facebook, Social networking service, Twitter_
 
 ## [Previous Day...](/news/2017/06/26/index.md)
 
