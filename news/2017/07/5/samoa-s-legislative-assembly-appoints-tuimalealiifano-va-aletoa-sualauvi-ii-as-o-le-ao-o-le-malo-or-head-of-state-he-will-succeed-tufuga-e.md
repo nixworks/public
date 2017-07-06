@@ -7,8 +7,7 @@ Samoa has a new Head of State. This morning the 50-member Parliament voted unani
 
 ### Source:
 
-1. [Samoa Observer](http://www.samoaobserver.ws/en/06_07_2017/editorial/21890/Tuimaleali%E2%80%99ifano-Va%E2%80%99aletoa-Sualauvi-II-is-Samoa%E2%80%99s-new-Head-of-State.htm)
-2. [Talanei](http://www.talanei.com/2017/07/04/tuimaleaaliifano-vaaletoa-sualauvi-ii-is-new-hos/)
+1. [Talanei](http://www.talanei.com/2017/07/04/tuimaleaaliifano-vaaletoa-sualauvi-ii-is-new-hos/)
 
 ### Related:
 
