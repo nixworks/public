@@ -1,6 +1,6 @@
 ### [2017-07-6](/news/2017/07/6/index.md)
 
-# The The aviator Amelia Earhart and her navigator Fred Noonan may have survived in the Marshall Islands and were held captive by the Japanese according to an allegedly undoctored photo in the  National Archives. 
+# The The aviator Amelia Earhart and her navigator Fred Noonan may have survived in the Marshall Islands and were held captive by the Japanese according to an allegedly undoctored photo in the  National Archives. Experts though remain divided on the claim. 
 
 The theory is far from the only speculation about what happened to Earhart after her disappearance on July 2, 1937.
 
