@@ -1,7 +1,7 @@
 ## [2017-07-6](/news/2017/07/6/index.md)
 
 ### [The The aviator Amelia Earhart and her navigator Fred Noonan may have survived in the Marshall Islands and were held captive by the Japanese according to an allegedly undoctored photo in the  National Archives. ](/news/2017/07/6/the-the-aviator-amelia-earhart-and-her-navigator-fred-noonan-may-have-survived-in-the-marshall-islands-and-were-held-captive-by-the-japanese.md)
-_Context: Amelia Earhart, Disappearance of Amelia Earhart, Fred Noonan, Japan, Marshall Islands, National Archives_
+The theory is far from the only speculation about what happened to Earhart after her disappearance on July 2, 1937.
 
 ### [Despite an ongoing stand-off between China and India over the Doklam tri-junction which is claimed by both China and Bhutan, China claims it has a "basic consensus" with Bhutan and that there is no dispute between the two countries. ''[http://economictimes.indiatimes.com/news/defence/no-dispute-with-bhutan-in-doklam-china/articleshow/59456533.cms (The Economic Times)]''](/news/2017/07/6/despite-an-ongoing-stand-off-between-china-and-india-over-the-doklam-tri-junction-which-is-claimed-by-both-china-and-bhutan-china-claims-it.md)
 _Context: Bhutan, Bhutan-China relations, China, China-India relations, Doklam tri-junction, India_
