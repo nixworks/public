@@ -3,7 +3,7 @@
 ### [A gunfight between La Linea gang members and a rival cartel in Madera Municipality, Chihuahua, leaves at least 14 people dead. ](/news/2017/07/5/a-gunfight-between-la-lanea-gang-members-and-a-rival-cartel-in-madera-municipality-chihuahua-leaves-at-least-14-people-dead.md)
 The shootout in Chihuahua comes amid rising violence nationwide.
 
-### [The Chinese-owned car company Volvo says it plans to phase out fossil fuels by building only electric or hybrid cars. ](/news/2017/07/5/the-chinese-owned-car-company-volvo-says-it-plans-to-phase-out-fossil-fuels-by-building-only-electric-or-hybrid-cars.md)
+### [Volvo says it plans to phase out fossil fuels by building only electric or hybrid cars. ](/news/2017/07/5/volvo-says-it-plans-to-phase-out-fossil-fuels-by-building-only-electric-or-hybrid-cars.md)
 It became the first mainstream automaker to sound the death knell of the traditional engine, saying all the models it introduces from 2019 will be either hybrids or powered solely by batteries.
 
 ### [A Chinese state company signs an order with Airbus for 100 A320 and 40 A350 airplanes. ](/news/2017/07/5/a-chinese-state-company-signs-an-order-with-airbus-for-100-a320-and-40-a350-airplanes.md)

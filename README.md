@@ -3,7 +3,7 @@
 ### [The The aviator Amelia Earhart and her navigator Fred Noonan may have survived in the Marshall Islands and were held captive by the Japanese according to an allegedly undoctored photo in the  National Archives. Experts though remain divided on the claim. ](/news/2017/07/6/the-the-aviator-amelia-earhart-and-her-navigator-fred-noonan-may-have-survived-in-the-marshall-islands-and-were-held-captive-by-the-japanese.md)
 The theory is far from the only speculation about what happened to Earhart after her disappearance on July 2, 1937.
 
-### [Despite an ongoing stand-off between China and India over the Doklam tri-junction which is claimed by both China and Bhutan, China claims it has a "basic consensus" with Bhutan and that there is no dispute between the two countries. ''[http://economictimes.indiatimes.com/news/defence/no-dispute-with-bhutan-in-doklam-china/articleshow/59456533.cms (The Economic Times)]''](/news/2017/07/6/despite-an-ongoing-stand-off-between-china-and-india-over-the-doklam-tri-junction-which-is-claimed-by-both-china-and-bhutan-china-claims-it.md)
+### [Despite an ongoing stand-off between China and India over the Doklam tri-junction which is claimed by both China and Bhutan, China claims that there has been a "basic consensus" with Bhutan over the past 24 months that Doklam belongs to China and that there is no dispute between the two countries. ''[http://economictimes.indiatimes.com/news/defence/no-dispute-with-bhutan-in-doklam-china/articleshow/59456533.cms (The Economic Times)]''](/news/2017/07/6/despite-an-ongoing-stand-off-between-china-and-india-over-the-doklam-tri-junction-which-is-claimed-by-both-china-and-bhutan-china-claims-th.md)
 _Context: Bhutan, Bhutan-China relations, China, China-India relations, Doklam tri-junction, India_
 
 ### [Tallis Obed Moses is elected President of Vanuatu, succeeding the late President Baldwin Lonsdale, who died in office in June. ](/news/2017/07/6/tallis-obed-moses-is-elected-president-of-vanuatu-succeeding-the-late-president-baldwin-lonsdale-who-died-in-office-in-june.md)
@@ -23,7 +23,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [A gunfight between La Linea gang members and a rival cartel in Madera Municipality, Chihuahua, leaves at least 14 people dead. ](/news/2017/07/5/a-gunfight-between-la-lanea-gang-members-and-a-rival-cartel-in-madera-municipality-chihuahua-leaves-at-least-14-people-dead.md)
 The shootout in Chihuahua comes amid rising violence nationwide.
 
-### [The Chinese-owned car company Volvo says it plans to phase out fossil fuels by building only electric or hybrid cars. ](/news/2017/07/5/the-chinese-owned-car-company-volvo-says-it-plans-to-phase-out-fossil-fuels-by-building-only-electric-or-hybrid-cars.md)
+### [Volvo says it plans to phase out fossil fuels by building only electric or hybrid cars. ](/news/2017/07/5/volvo-says-it-plans-to-phase-out-fossil-fuels-by-building-only-electric-or-hybrid-cars.md)
 It became the first mainstream automaker to sound the death knell of the traditional engine, saying all the models it introduces from 2019 will be either hybrids or powered solely by batteries.
 
 ### [A Chinese state company signs an order with Airbus for 100 A320 and 40 A350 airplanes. ](/news/2017/07/5/a-chinese-state-company-signs-an-order-with-airbus-for-100-a320-and-40-a350-airplanes.md)
