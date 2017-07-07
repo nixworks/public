@@ -20,7 +20,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/07/6/index.md)
 
-### [At least two are killed and power interruptions cripple Eastern Visayas and Bohol when a 6.5 magnitude earthquake hits the province of Leyte in the Philippines ](/news/2017/07/6/at-least-two-are-killed-and-power-interruptions-cripple-eastern-visayas-and-bohol-when-a-6-5-magnitude-earthquake-hits-the-province-of-leyte.md)
+### [At least two are killed and power supply is interrupted in Eastern Visayas and Bohol when a 6.5 magnitude earthquake hits the province of Leyte in the Philippines ](/news/2017/07/6/at-least-two-are-killed-and-power-supply-is-interrupted-in-eastern-visayas-and-bohol-when-a-6-5-magnitude-earthquake-hits-the-province-of-le.md)
 (UPDATED - 6:28 a.m., July 7, 2017) MANILA, Philippines - An earthquake of magnitude 6.5 struck Leyte on Thursday, leaving at least two persons dead and many others injured.
 
 ### [Despite an ongoing stand-off between China and India over the Doklam tri-junction which is claimed by both China and Bhutan, China claims that there has been a "basic consensus" with Bhutan over the past 24 months that Doklam belongs to China and that there is no dispute between the two countries. ''[http://economictimes.indiatimes.com/news/defence/no-dispute-with-bhutan-in-doklam-china/articleshow/59456533.cms (The Economic Times)]''](/news/2017/07/6/despite-an-ongoing-stand-off-between-china-and-india-over-the-doklam-tri-junction-which-is-claimed-by-both-china-and-bhutan-china-claims-th.md)
