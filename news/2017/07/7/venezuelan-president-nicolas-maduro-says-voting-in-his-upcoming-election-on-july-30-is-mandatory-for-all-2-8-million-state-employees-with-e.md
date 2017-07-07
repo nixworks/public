@@ -1,6 +1,6 @@
 ### [2017-07-7](/news/2017/07/7/index.md)
 
-# Venezuelan President Nicols Maduro says voting in his upcoming election on July 30 is mandatory for all 2.8 million state employees, with employees who do not vote facing ostracisation. Opponents of the government plan to hold their own referendum on the Maduro Government July 16th. 
+# Venezuelan President Nicols Maduro says voting in his upcoming election on July 30 is mandatory for all 2.8 million state employees, with employees who do not vote facing ostracisation. Opponents of the government plan to hold their own unofficial referendum on the Maduro government on July 16. 
 
 
 
