@@ -1,10 +1,10 @@
 ## [2017-07-5](/news/2017/07/5/index.md)
 
-### [A gunfight between La Linea gang members and a rival cartel in Madera Municipality, Chihuahua, leaves at least 14 people dead. ](/news/2017/07/5/a-gunfight-between-la-lanea-gang-members-and-a-rival-cartel-in-madera-municipality-chihuahua-leaves-at-least-14-people-dead.md)
+### [A gunfight between La Lnea gang members and a rival cartel in Madera Municipality, Chihuahua, leaves at least 14 people dead. ](/news/2017/07/5/a-gunfight-between-la-linea-gang-members-and-a-rival-cartel-in-madera-municipality-chihuahua-leaves-at-least-14-people-dead.md)
 The shootout in Chihuahua comes amid rising violence nationwide.
 
 ### [The aviator Amelia Earhart and her navigator Fred Noonan may have survived in the Marshall Islands and were held captive by the Japanese according to an allegedly undoctored photo in the  National Archives. Experts remain divided on the claim, however. ](/news/2017/07/5/the-aviator-amelia-earhart-and-her-navigator-fred-noonan-may-have-survived-in-the-marshall-islands-and-were-held-captive-by-the-japanese-acc.md)
-The theory is far from the only speculation about what happened to Earhart after her disappearance on July 2, 1937.
+_Context: Amelia Earhart, Disappearance of Amelia Earhart, Fred Noonan, Japan, Marshall Islands, National Archives_
 
 ### [Volvo says it plans to phase out fossil fuels by building only electric or hybrid cars. ](/news/2017/07/5/volvo-says-it-plans-to-phase-out-fossil-fuels-by-building-only-electric-or-hybrid-cars.md)
 It became the first mainstream automaker to sound the death knell of the traditional engine, saying all the models it introduces from 2019 will be either hybrids or powered solely by batteries.
@@ -33,8 +33,8 @@ Another person was wounded before the gunman was reportedly shot and killed by d
 ### [Samoa's Legislative Assembly appoints Tuimalealiifano Va'aletoa Sualauvi II as O le Ao o le Malo, or Head of State. He will succeed Tufuga Efi, the country's head of state since 2007, on July 25. ](/news/2017/07/5/samoa-s-legislative-assembly-appoints-tuimalealiifano-va-aletoa-sualauvi-ii-as-o-le-ao-o-le-malo-or-head-of-state-he-will-succeed-tufuga-e.md)
 Samoa has a new Head of State. This morning the 50-member Parliament voted unanimously for a of the Council of Deputies or Council of Deputy Heads of State, Tuimalealiifano Va&#8217;aletoa Sualauvi II, to become Samoa&#8217;s Head of State
 
-### [Supporters of Venezuelan President Nicolas Maduro storm the opposition-controlled National Assembly and injure several lawmakers, including the President of the National Assembly, Julio Borges. Several journalists were also injured in the assault. ](/news/2017/07/5/supporters-of-venezuelan-president-nicola-s-maduro-storm-the-opposition-controlled-national-assembly-and-injure-several-lawmakers-including.md)
-_Context: 2014-17 Venezuelan protests, Julio Borges, National Assembly, Nicolas Maduro, President of the National Assembly, Supporters, Venezuela_
+### [Supporters of Venezuelan President Nicols Maduro storm the opposition-controlled National Assembly and injure several lawmakers, including the President of the National Assembly, Julio Borges. Several journalists were also injured in the assault. ](/news/2017/07/5/supporters-of-venezuelan-president-nicolas-maduro-storm-the-opposition-controlled-national-assembly-and-injure-several-lawmakers-including.md)
+_Context: 2017 Venezuelan protests, Julio Borges, National Assembly, Nicols Maduro, President of the National Assembly, Supporters, Venezuela_
 
 ### [A group of people are arrested in the Peruvian village of Muqui, located in the Andes, after they painted a wall with allusive symbols and messages to the far-left terrorist organization, Shining Path, responsible for crimes against humanity in Peru from 1980 to 1992. Police later clarified that the true intentions of the arrested, some of them students of a technical training institute, were to make a short film. ](/news/2017/07/5/a-group-of-people-are-arrested-in-the-peruvian-village-of-muqui-located-in-the-andes-after-they-painted-a-wall-with-allusive-symbols-and-m.md)
 _Context: Andes, Muqui, Peru, Shining Path, crimes against humanity_

@@ -7,7 +7,7 @@ The shootout in Chihuahua comes amid rising violence nationwide.
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/the_americas/at-least-14-killed-in-gunfight-in-drug-plagued-northern-mexico-state/2017/07/05/0fbfe934-61b4-11e7-80a2-8c226031ac3f_story.html?utm_term=.1c966b524c2e)
+1. [The Washington Post](https://www.washingtonpost.com/world/the_americas/at-least-14-killed-in-gunfight-in-drug-plagued-northern-mexico-state/2017/07/05/0fbfe934-61b4-11e7-80a2-8c226031ac3f_story.html)
 
 ### Related:
 

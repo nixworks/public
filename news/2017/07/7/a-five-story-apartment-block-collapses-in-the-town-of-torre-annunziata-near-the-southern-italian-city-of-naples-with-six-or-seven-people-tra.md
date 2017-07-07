@@ -1,13 +1,13 @@
 ### [2017-07-7](/news/2017/07/7/index.md)
 
-# A five-story apartment block collapses in the town of Torre Annunziata near the southern Italian city of Naples with six or seven people trapped inside. 
+# A five-story apartment block collapses in the town of Torre Annunziata near the southern Italian city of Naples with six or seven people trapped inside. So far, three have been found dead. 
 
- MILAN (AP) — A five-story apartment block collapsed early Friday near the southern Italian city of Naples, and authorities were digging by hand to find anyone trapped. 
+
 
 
 ### Source:
 
-1. [AP](https://apnews.com/bb3931a6cfed48f9978212a3bc40cec0/Apartment-building-collapses-in-Italy;-some-may-be-trapped)
+1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_ITALY_BUILDING_COLLAPSE)
 
 ### Related:
 

@@ -1,6 +1,6 @@
 ### [2017-07-7](/news/2017/07/7/index.md)
 
-# Warren Buffett's Berkshire Hathaway Inc. agrees to pay USD$9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery stepping up its pursuit of steady profits from utilities and infrastructure deals.
+# Warren Buffett's Berkshire Hathaway Inc. agrees to pay USD$9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery stepping up its pursuit of steady profits from utilities and infrastructure deals. 
 
 
 
@@ -11,10 +11,10 @@
 
 ### Related:
 
-1. [Berkshire Hathaway, the conglomerate headed by Warren Buffett, announces a plan to invest $5 billion in Bank of America. ](/news/2011/08/25/berkshire-hathaway-the-conglomerate-headed-by-warren-buffett-announces-a-plan-to-invest-5-billion-in-bank-of-america.md) _Context: Berkshire Hathaway Inc., Warren Buffett's_
-2. [Warren Buffett who through Berkshire Hathaway controls a significant block of the shares of Kraft came out in opposition to Kraft's proposal to float 370 million shares in order to fund its bid for the UK based confectioner Cadbury. ](/news/2010/01/5/warren-buffett-who-through-berkshire-hathaway-controls-a-significant-block-of-the-shares-of-kraft-came-out-in-opposition-to-kraft-s-proposal.md) _Context: Berkshire Hathaway Inc., Warren Buffett's_
-3. [ Mars, Incorporated announces that it is buying the Wm. Wrigley Jr. Company, the world's largest chewing gum manufacturer, in a deal worth $23 billion. The deal is being partly financed by Warren Buffett's Berkshire Hathaway company. ](/news/2008/04/28/mars-incorporated-announces-that-it-is-buying-the-wm-wrigley-jr-company-the-world-s-largest-chewing-gum-manufacturer-in-a-deal-worth.md) _Context: Berkshire Hathaway Inc., Warren Buffett's_
-4. [ Warren Buffett, CEO of Berkshire Hathaway, is named the richest person in the world by ''Forbes'' magazine. ](/news/2008/03/5/warren-buffett-ceo-of-berkshire-hathaway-is-named-the-richest-person-in-the-world-by-forbes-magazine.md) _Context: Berkshire Hathaway Inc., Warren Buffett's_
+1. [Berkshire Hathaway, the conglomerate headed by Warren Buffett, announces a plan to invest $5 billion in Bank of America. ](/news/2011/08/25/berkshire-hathaway-the-conglomerate-headed-by-warren-buffett-announces-a-plan-to-invest-5-billion-in-bank-of-america.md) _Context: Berkshire Hathaway Inc., Warren Buffett_
+2. [Warren Buffett who through Berkshire Hathaway controls a significant block of the shares of Kraft came out in opposition to Kraft's proposal to float 370 million shares in order to fund its bid for the UK based confectioner Cadbury. ](/news/2010/01/5/warren-buffett-who-through-berkshire-hathaway-controls-a-significant-block-of-the-shares-of-kraft-came-out-in-opposition-to-kraft-s-proposal.md) _Context: Berkshire Hathaway Inc., Warren Buffett_
+3. [ Mars, Incorporated announces that it is buying the Wm. Wrigley Jr. Company, the world's largest chewing gum manufacturer, in a deal worth $23 billion. The deal is being partly financed by Warren Buffett's Berkshire Hathaway company. ](/news/2008/04/28/mars-incorporated-announces-that-it-is-buying-the-wm-wrigley-jr-company-the-world-s-largest-chewing-gum-manufacturer-in-a-deal-worth.md) _Context: Berkshire Hathaway Inc., Warren Buffett_
+4. [ Warren Buffett, CEO of Berkshire Hathaway, is named the richest person in the world by ''Forbes'' magazine. ](/news/2008/03/5/warren-buffett-ceo-of-berkshire-hathaway-is-named-the-richest-person-in-the-world-by-forbes-magazine.md) _Context: Berkshire Hathaway Inc., Warren Buffett_
 5. [At least 7 people are killed in the US states of Missouri, Arkansas and Texas due to tornadoes and floods. ](/news/2017/04/29/at-least-7-people-are-killed-in-the-us-states-of-missouri-arkansas-and-texas-due-to-tornadoes-and-floods.md) _Context: Texas_
 6. [Arkansas becomes the first U.S. state since Texas in 2000 to hold two executions on the same day as executes convicted murderers Jack Jones, Jr. and Marcel Williams. ](/news/2017/04/24/arkansas-becomes-the-first-u-s-state-since-texas-in-2000-to-hold-two-executions-on-the-same-day-as-executes-convicted-murderers-jack-jones.md) _Context: Texas_
 7. [A head on crash between a pickup truck and a church bus outside Garner State Park in the American state of Texas kills at least 12 people and injures 3 others. ](/news/2017/03/29/a-head-on-crash-between-a-pickup-truck-and-a-church-bus-outside-garner-state-park-in-the-american-state-of-texas-kills-at-least-12-people-an.md) _Context: Texas_

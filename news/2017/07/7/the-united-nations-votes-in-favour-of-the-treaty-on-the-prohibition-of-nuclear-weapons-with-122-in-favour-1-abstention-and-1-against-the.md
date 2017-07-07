@@ -1,9 +1,13 @@
 ### [2017-07-7](/news/2017/07/7/index.md)
 
-# The United Nations votes in favour of the Treaty on the Prohibition of Nuclear Weapons with 122 in favour, 1 abstention, and 1 against. The treaty conference and negotiations had been boycotted by the nuclear weapon states and by the members of NATO.
+# The United Nations votes in favour of the Treaty on the Prohibition of Nuclear Weapons with 122 in favour, 1 abstention, and 1 against. The treaty conference and negotiations had been boycotted by the nuclear weapon states and by the members of NATO. 
+
+Nearly two-thirds of United Nations states agreed on Friday to a treaty to ban nuclear weapons after months of talks, which were boycotted by the United States, Britain, France and others who instead pledged commitment to a decades-old Non-Proliferation Treaty.
 
 
+### Source:
 
+1. [Reuters](https://www.reuters.com/article/us-nuclear-un-idUSKBN19S2F5)
 
 ### Related:
 

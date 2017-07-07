@@ -1,7 +1,7 @@
 ## [2017-07-2](/news/2017/07/2/index.md)
 
 ### [Three suicide bombers in Damascus kill at least 21 people and wound 12 others. ](/news/2017/07/2/three-suicide-bombers-in-damascus-kill-at-least-21-people-and-wound-12-others.md)
-_Context: Civil War, Damascus_
+_Context: Damascus, Syrian Civil War_
 
 ### [The United Kingdom announces it is withdrawing from the 1964 London Fisheries Convention, which allows several European countries to fish within 6 to 12 nautical miles of each other's coastlines. ](/news/2017/07/2/the-united-kingdom-announces-it-is-withdrawing-from-the-1964-london-fisheries-convention-which-allows-several-european-countries-to-fish-wi.md)
 Ministers say ending the arrangement will help the UK take back control of access to its waters.
