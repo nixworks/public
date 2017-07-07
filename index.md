@@ -1,4 +1,21 @@
-## [News](/news/2017/07/6/index.md)
+## [News](/news/2017/07/7/index.md)
+
+### [Leaders from the Group of Twenty come together at the 2017 G20 Hamburg summit today, including United States President Donald Trump who is set to meet with President of the Russian Federation Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-2017-g20-hamburg-summit-today-including-united-states-president-donald-trump-who-is-s.md)
+_Context: 2017 G20 Hamburg summit, Donald Trump, Group of Twenty, Russian Federation, United States, Vladimir Putin_
+
+### [South Australia has finalized a deal with Elon Musk owned Tesla to install a battery system in the state. Tesla said in a statement that upon completion by December 2017 , the system would be the largest lithium-ion battery storage project in the world, overtaking an 80 megawatt-hour power station at Mira Loma in California also built using Tesla batteries. ](/news/2017/07/7/south-australia-has-finalized-a-deal-with-elon-musk-owned-tesla-to-install-a-battery-system-in-the-state-tesla-said-in-a-statement-that-upo.md)
+_Context: California, Elon Musk, Mira Loma, South Australia, Tesla, lithium-ion battery, megawatt-hour_
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/07/6/index.md)
+
+### [At least two are killed and power interruptions cripple Eastern Visayas and Bohol when a 6.5 magnitude earthquake hits the province of Leyte in the Philippines ](/news/2017/07/6/at-least-two-are-killed-and-power-interruptions-cripple-eastern-visayas-and-bohol-when-a-6-5-magnitude-earthquake-hits-the-province-of-leyte.md)
+(UPDATED - 6:28 a.m., July 7, 2017) MANILA, Philippines - An earthquake of magnitude 6.5 struck Leyte on Thursday, leaving at least two persons dead and many others injured.
 
 ### [Despite an ongoing stand-off between China and India over the Doklam tri-junction which is claimed by both China and Bhutan, China claims that there has been a "basic consensus" with Bhutan over the past 24 months that Doklam belongs to China and that there is no dispute between the two countries. ''[http://economictimes.indiatimes.com/news/defence/no-dispute-with-bhutan-in-doklam-china/articleshow/59456533.cms (The Economic Times)]''](/news/2017/07/6/despite-an-ongoing-stand-off-between-china-and-india-over-the-doklam-tri-junction-which-is-claimed-by-both-china-and-bhutan-china-claims-th.md)
 _Context: Bhutan, Bhutan-China relations, China, China-India relations, Doklam tri-junction, India_
@@ -15,16 +32,15 @@ There was applause and a sense of relief in Vanuatu&#39;s parliament today as Ta
 ### [The Supreme Court says president Rodrigo Duterte can declare martial law in the whole Philippines. ](/news/2017/07/6/the-supreme-court-says-president-rodrigo-duterte-can-declare-martial-law-in-the-whole-philippines.md)
 _Context: Philippines, Rodrigo Duterte, Supreme Court, martial law_
 
+### [In a meeting held in the city of Krakow, Poland, UNESCO decides not to include Machu Picchu on its list of endangered heritage sites due to the steps taken by Peruvian authorities to address concerns about the condition of the Inca citadel. ](/news/2017/07/6/in-a-meeting-held-in-the-city-of-krakow-poland-unesco-decides-not-to-include-machu-picchu-on-its-list-of-endangered-heritage-sites-due-to.md)
+_Context: Krakow, Machu Picchu, Poland, UNESCO, list of endangered heritage sites_
+
 ### [Scientists announce the detection of a new subatomic particle at the Large Hadron Collider. ](/news/2017/07/6/scientists-announce-the-detection-of-a-new-subatomic-particle-at-the-large-hadron-collider.md)
 Scientists have detected a new particle at the Large Hadron Collider at Cern
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/07/5/index.md)
+## [Day Before Yesterday](/news/2017/07/5/index.md)
 
 ### [A gunfight between La Linea gang members and a rival cartel in Madera Municipality, Chihuahua, leaves at least 14 people dead. ](/news/2017/07/5/a-gunfight-between-la-lanea-gang-members-and-a-rival-cartel-in-madera-municipality-chihuahua-leaves-at-least-14-people-dead.md)
 The shootout in Chihuahua comes amid rising violence nationwide.
@@ -70,35 +86,7 @@ She died in her twenties some 1700 years ago, and is believed to have ruled over
 
 ---
 
-## [Day Before Yesterday](/news/2017/07/4/index.md)
-
-### [A garment factory boiler explosion in Dhaka, Bangladesh, kills 10 people and injures dozens. ](/news/2017/07/4/a-garment-factory-boiler-explosion-in-dhaka-bangladesh-kills-10-people-and-injures-dozens.md)
-_Context: Bangladesh, Dhaka_
-
-### [Approximately fifty migrants are feared drowned off the coast of Morocco. Three men were rescued near Alboran Island near the coast of Spain. ](/news/2017/07/4/approximately-fifty-migrants-are-feared-drowned-off-the-coast-of-morocco-three-men-were-rescued-near-alboran-island-near-the-coast-of-spain.md)
-_Context: Alboran Island, European migrant crisis, Morocco, Spain_
-
-### [North Korea test-launches what is presumed to be its first intercontinental ballistic missile 933 kilometers  into the Sea of Japan within Japan's Exclusive Economic Zone. An American expert theorizes the ICBM, which reached an altitude of 2,802 km, could potentially reach the U.S. state of Alaska. ](/news/2017/07/4/north-korea-test-launches-what-is-presumed-to-be-its-first-intercontinental-ballistic-missile-933-kilometers-into-the-sea-of-japan-within-j.md)
-Donald Trump says it is hard to believe South Korea and Japan will put up with this much longer after North Korean launches its latest missile.
-
-### [Amid a stand-off between China and India over the Doklam tri-junction, China tells India that former Indian prime minister Jawaharlal Nehru accepted the Convention of Calcutta which China is using to support its territorial claims. Tensions have been rising between China and India and Bhutan over Doklam since China began constructing a road in the disputed territory in mid-June. ](/news/2017/07/4/amid-a-stand-off-between-china-and-india-over-the-doklam-tri-junction-china-tells-india-that-former-indian-prime-minister-jawaharlal-nehru.md)
-_Context: Bhutan-China relations, China, China-India relations, Convention of Calcutta, Doklam tri-junction, India, Jawaharlal Nehru_
-
-### [A mob of at least a hundred Rakhine Buddhists in Sittwe, Rakhine State, Myanmar, attack seven Rohingya men from Dapaing Camp for internally displaced persons, killing one and severely injuring another. The Rohingya men were being escorted by police to Sittwe's docks to purchase boats, but were attacked despite armed guards being present. ](/news/2017/07/4/a-mob-of-at-least-a-hundred-rakhine-buddhists-in-sittwe-rakhine-state-myanmar-attack-seven-rohingya-men-from-dapaing-camp-for-internally.md)
-_Context: 2016-17 Rohingya persecution in Myanmar, Buddhists, Myanmar, Rakhine, Rakhine State, Rohingya, Sittwe, internally displaced persons_
-
-### [As part of an investigation into the recent cyberattacks, the servers of Ukraine's most popular accounting software company, M.E.Doc, are seized by Ukrainian police. ](/news/2017/07/4/as-part-of-an-investigation-into-the-recent-cyberattacks-the-servers-of-ukraine-s-most-popular-accounting-software-company-m-e-doc-are-se.md)
-M.E.Doc&#x27;s owners deny that some initial infections last week were spread via a malicious update issued by their software.
-
-### [CNN is accused of threatening to reveal the personal identity of a Reddit user who made a GIF depicting United States President Donald Trump tackling a man to the ground, with CNN's logo superimposed on the man's face. The GIF was modified and posted on Trump's Twitter feed. ](/news/2017/07/4/cnn-is-accused-of-threatening-to-reveal-the-personal-identity-of-a-reddit-user-who-made-a-gif-depicting-united-states-president-donald-trump.md)
-The network said it had found the Reddit user behind a video showing the president wrestling the CNN logo to the ground, but it did not identify the user.
-
-### [Researchers discover that the diversity of frogs is a direct result of the extinction of the dinosaurs. ](/news/2017/07/4/researchers-discover-that-the-diversity-of-frogs-is-a-direct-result-of-the-extinction-of-the-dinosaurs.md)
-Frogs are &quot;master survivors,&quot; able to take advantage of the ecological vacuum left behind by extinct animals. Scientists say 9 in 10 frog species descended from three surviving frog lineages.
-
----
-
-## [Previous Day...](/news/2017/07/3/index.md)
+## [Previous Day...](/news/2017/07/4/index.md)
 
 ---
 
