@@ -1,13 +1,16 @@
 ## [News](/news/2017/07/7/index.md)
 
+### [A five story apartment block collapses in the town of Torre Annunziata near the southern Italian city of Naples with six or seven people trapped inside. ](/news/2017/07/7/a-five-story-apartment-block-collapses-in-the-town-of-torre-annunziata-near-the-southern-italian-city-of-naples-with-six-or-seven-people-tra.md)
+_Context: Italian, Naples, Torre Annunziata_
+
 ### [Leaders from the Group of Twenty come together at the 2017 G20 Hamburg summit today, including United States President Donald Trump who is set to meet with President of the Russian Federation Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-2017-g20-hamburg-summit-today-including-united-states-president-donald-trump-who-is-s.md)
 _Context: 2017 G20 Hamburg summit, Donald Trump, Group of Twenty, Russian Federation, United States, Vladimir Putin_
 
-### [South Australia has finalized a deal with Tesla, spearheaded by tweets originating from CEO of Tesla Elon Musk to install a battery system in the state. Tesla said in a statement that upon completion by December 2017 , the system would be the largest lithium-ion battery storage project in the world, overtaking an 80 megawatt-hour power station at Mira Loma in California also built using Tesla batteries. ](/news/2017/07/7/south-australia-has-finalized-a-deal-with-tesla-spearheaded-by-tweets-originating-from-ceo-of-tesla-elon-musk-to-install-a-battery-system-i.md)
-_Context: California, Elon Musk, Mira Loma, South Australia, Tesla, lithium-ion battery, megawatt-hour_
-
 ### [South Korea's National Police raid the headquarters of Korean Air as part of an investigation into embezzlement and breach of trust related to misappropriated funds alleged to have been used to fund construction at the residence of Korean Air Chairman Cho Yang Ho. The company's shares continue to drop.](/news/2017/07/7/south-korea-s-national-police-raid-the-headquarters-of-korean-air-as-part-of-an-investigation-into-embezzlement-and-breach-of-trust-related.md)
 Police raided the headquarters of Korean Air Lines Co Ltd on Friday as part of an investigation into allegations that company funds were used to pay for construction work at the home of Chairman Cho Yang-ho.
+
+### [South Australia has finalized a deal with Tesla, spearheaded by tweets originating from CEO of Tesla Elon Musk to install a battery system in the state. Tesla said in a statement that upon completion by December 2017 , the system would be the largest lithium-ion battery storage project in the world, overtaking an 80 megawatt-hour power station at Mira Loma in California also built using Tesla batteries. ](/news/2017/07/7/south-australia-has-finalized-a-deal-with-tesla-spearheaded-by-tweets-originating-from-ceo-of-tesla-elon-musk-to-install-a-battery-system-i.md)
+_Context: California, Elon Musk, Mira Loma, South Australia, Tesla, lithium-ion battery, megawatt-hour_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -22,6 +25,9 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ### [Despite an ongoing stand-off between China and India over the Doklam tri-junction which is claimed by both China and Bhutan, China claims that there has been a "basic consensus" with Bhutan over the past 24 months that Doklam belongs to China and that there is no dispute between the two countries. ''[http://economictimes.indiatimes.com/news/defence/no-dispute-with-bhutan-in-doklam-china/articleshow/59456533.cms (The Economic Times)]''](/news/2017/07/6/despite-an-ongoing-stand-off-between-china-and-india-over-the-doklam-tri-junction-which-is-claimed-by-both-china-and-bhutan-china-claims-th.md)
 _Context: Bhutan, Bhutan-China relations, China, China-India relations, Doklam tri-junction, India_
+
+### [U.S. President Donald Trump visits Warsaw, where he speaks of defeating radical Islamist terrorism, pledges to uphold the North Atlantic Treaty, and urges Russia to "join the community of responsible nations." ](/news/2017/07/6/u-s-president-donald-trump-visits-warsaw-where-he-speaks-of-defeating-radical-islamist-terrorism-pledges-to-uphold-the-north-atlantic-tre.md)
+An enthusiastic Polish crowd chanted President Donald Trump&#8217;s name and &#8220;USA USA USA&#8221; as the American president gave a valentine of a speech in Warsaw&#8217;s Krasinski Square by a…
 
 ### [A prison riot between rival gangs in Acapulco, Mexico, leaves at least 28 inmates dead. ](/news/2017/07/6/a-prison-riot-between-rival-gangs-in-acapulco-mexico-leaves-at-least-28-inmates-dead.md)
 Rival gangs clashed in a jail in the city of Acapulco, and some of the victims were decapitated.
