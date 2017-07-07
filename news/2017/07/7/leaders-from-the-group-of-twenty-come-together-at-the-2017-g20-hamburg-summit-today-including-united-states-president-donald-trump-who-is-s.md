@@ -7,7 +7,8 @@
 
 ### Source:
 
-1. [CNN](http://www.cnn.com/2017/07/07/europe/ode-to-joy-beethoven-g20-merkel-trump/index.html)
+1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_GERMANY_G20_SUMMIT?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2017-07-07-13-11-57)
+2. [CNN](http://www.cnn.com/2017/07/07/europe/ode-to-joy-beethoven-g20-merkel-trump/index.html)
 
 ### Related:
 

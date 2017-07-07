@@ -1,13 +1,14 @@
 ### [2017-07-7](/news/2017/07/7/index.md)
 
-# The United States, Russia and regional countries have reached a ceasefire deal in southwestern Syria, one of the combat zones in a six-year-old Civil War, a U.S. official said on Friday.United States Secretary of State Rex Tillerson was expected to provide more details of the deal to reporters in Hamburg, Germany, later on Friday, the official said.
+# The United States, Russia and regional countries have reached a ceasefire deal in southwestern Syria, one of the combat zones in a six-year-old Civil War, a U.S. official said on Friday. United States Secretary of State Rex Tillerson was expected to provide more details of the deal to reporters in Hamburg, Germany, later on Friday, the official said. 
 
 The United States, Russia and Jordan have reached a ceasefire and &quot;de-escalation agreement&quot; in southwestern Syria, one of the combat zones in a six-year-old civil war, U.S. Secretary of State Rex Tillerson said on Friday.
 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-ceasefire-idUSKBN19S2DG?il=0)
+1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_UNITED_STATES_RUSSIA_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2017-07-07-13-35-21)
+2. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-ceasefire-idUSKBN19S2DG?il=0)
 
 ### Related:
 

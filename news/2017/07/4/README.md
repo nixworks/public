@@ -21,6 +21,9 @@ M.E.Doc&#x27;s owners deny that some initial infections last week were spread vi
 ### [CNN is accused of threatening to reveal the personal identity of a Reddit user who made a GIF depicting United States President Donald Trump tackling a man to the ground, with CNN's logo superimposed on the man's face. The GIF was modified and posted on Trump's Twitter feed. ](/news/2017/07/4/cnn-is-accused-of-threatening-to-reveal-the-personal-identity-of-a-reddit-user-who-made-a-gif-depicting-united-states-president-donald-trump.md)
 The network said it had found the Reddit user behind a video showing the president wrestling the CNN logo to the ground, but it did not identify the user.
 
+### [The Landtag of Mecklenburg-Vorpommern elects Manuela Schwesig as state Minister President with 40-29 votes. ](/news/2017/07/4/the-landtag-of-mecklenburg-vorpommern-elects-manuela-schwesig-as-state-minister-president-with-40-29-votes.md)
+_Context: Landtag of Mecklenburg-Vorpommern, Manuela Schwesig, Minister President_
+
 ### [Researchers discover that the diversity of frogs is a direct result of the extinction of the dinosaurs. ](/news/2017/07/4/researchers-discover-that-the-diversity-of-frogs-is-a-direct-result-of-the-extinction-of-the-dinosaurs.md)
 Frogs are &quot;master survivors,&quot; able to take advantage of the ecological vacuum left behind by extinct animals. Scientists say 9 in 10 frog species descended from three surviving frog lineages.
 
