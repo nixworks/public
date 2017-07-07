@@ -18,7 +18,7 @@ There was applause and a sense of relief in Vanuatu&#39;s parliament today as Ta
 ### [The Supreme Court says president Rodrigo Duterte can declare martial law in the whole Philippines. ](/news/2017/07/6/the-supreme-court-says-president-rodrigo-duterte-can-declare-martial-law-in-the-whole-philippines.md)
 _Context: Philippines, Rodrigo Duterte, Supreme Court, martial law_
 
-### [In a meeting held in the city of Krakow, Poland, UNESCO decides not to include Machu Picchu on its list of endangered heritage sites due to the steps taken by Peruvian authorities to address concerns about the condition of the Inca citadel. ](/news/2017/07/6/in-a-meeting-held-in-the-city-of-krakow-poland-unesco-decides-not-to-include-machu-picchu-on-its-list-of-endangered-heritage-sites-due-to.md)
+### [In a meeting held in the city of Krakow, Poland, UNESCO decides not to include Machu Picchu on its list of endangered heritage sites due to the steps taken by Peruvian authorities to address concerns about the condition of the Inca citadel. ](/news/2017/07/6/in-a-meeting-held-in-the-city-of-kraka3w-poland-unesco-decides-not-to-include-machu-picchu-on-its-list-of-endangered-heritage-sites-due-to.md)
 _Context: Krakow, Machu Picchu, Poland, UNESCO, list of endangered heritage sites_
 
 ### [Scientists announce the detection of a new subatomic particle at the Large Hadron Collider. ](/news/2017/07/6/scientists-announce-the-detection-of-a-new-subatomic-particle-at-the-large-hadron-collider.md)
