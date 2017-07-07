@@ -18,8 +18,8 @@ _Context: 2040, Ecology Minister, France, Nicolas Hulot, diesel, petrol_
 ### [Tallis Obed Moses is elected President of Vanuatu, succeeding the late President Baldwin Lonsdale, who died in office in June. ](/news/2017/07/6/tallis-obed-moses-is-elected-president-of-vanuatu-succeeding-the-late-president-baldwin-lonsdale-who-died-in-office-in-june.md)
 There was applause and a sense of relief in Vanuatu&#39;s parliament today as Tallis Obed Moses was voted in as Vanuatu&#39;s new President.
 
-### [The Supreme Court says president Rodrigo Duterte can declare martial law in the whole Philippines. ](/news/2017/07/6/the-supreme-court-says-president-rodrigo-duterte-can-declare-martial-law-in-the-whole-philippines.md)
-_Context: Philippines, Rodrigo Duterte, Supreme Court, martial law_
+### [The Supreme Court of the Philippines says President of the Philippines Rodrigo Duterte can declare martial law in the whole Philippines. This comes as the Supreme Court has ](/news/2017/07/6/the-supreme-court-of-the-philippines-says-president-of-the-philippines-rodrigo-duterte-can-declare-martial-law-in-the-whole-philippines-thi.md)
+_Context: Philippines, President of the Philippines, Rodrigo Duterte, Supreme Court of the Philippines, martial law_
 
 ### [In a meeting held in the city of Krakow, Poland, UNESCO decides not to include Machu Picchu on its list of endangered heritage sites due to the steps taken by Peruvian authorities to address concerns about the condition of the Inca citadel. ](/news/2017/07/6/in-a-meeting-held-in-the-city-of-kraka3w-poland-unesco-decides-not-to-include-machu-picchu-on-its-list-of-endangered-heritage-sites-due-to.md)
 _Context: Krakow, Machu Picchu, Poland, UNESCO, list of endangered heritage sites_

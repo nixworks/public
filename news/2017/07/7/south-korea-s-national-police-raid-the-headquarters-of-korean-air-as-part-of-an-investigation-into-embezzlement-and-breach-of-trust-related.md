@@ -1,6 +1,6 @@
 ### [2017-07-7](/news/2017/07/7/index.md)
 
-# South Korea's National Police raid the headquarters of Korean Air as part of an investigation into embezzlement and breach of trust related to misappropriated funds alleged to have been used to fund construction at the residence of Korean Air Chairman Cho Yang Ho. The company's shares continue to drop.
+# South Korea's National Police raid the headquarters of Korean Air as part of an investigation into embezzlement and breach of trust related to misappropriated funds alleged to have been used to fund construction at the residence of Korean Air Chairman Cho Yang-ho (father of Heather Cho, instigator of the infamous "Nut rage incident" in 2014). The company's shares continue to drop.
 
 Police raided the headquarters of Korean Air Lines Co Ltd on Friday as part of an investigation into allegations that company funds were used to pay for construction work at the home of Chairman Cho Yang-ho.
 
