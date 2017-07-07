@@ -13,7 +13,7 @@ _Context: CNPC, NIOC, South Pars, Total_
 Floods in southern China have killed at least 15 people over the past few days and forced the evacuation of tens of thousands more, state media said.
 
 ### [Eighteen people are dead after a bus collides with a truck in the German state of Bavaria.  ](/news/2017/07/3/eighteen-people-are-dead-after-a-bus-collides-with-a-truck-in-the-german-state-of-bavaria.md)
-_Context: Bavaria, German_
+_Context: Bavaria, Germany_
 
 ### [Ten people are injured when a taxi jumps a curb and hit a group of cabdrivers outside the taxi pool building at Logan International Airport in Boston, Massachusetts. ](/news/2017/07/3/ten-people-are-injured-when-a-taxi-jumps-a-curb-and-hit-a-group-of-cabdrivers-outside-the-taxi-pool-building-at-logan-international-airport.md)
 _Context: Boston, Logan International Airport, Massachusetts_

@@ -3,8 +3,11 @@
 ### [A five-story apartment block collapses in the town of Torre Annunziata near the southern Italian city of Naples with six or seven people trapped inside. ](/news/2017/07/7/a-five-story-apartment-block-collapses-in-the-town-of-torre-annunziata-near-the-southern-italian-city-of-naples-with-six-or-seven-people-tra.md)
  MILAN (AP) — A five-story apartment block collapsed early Friday near the southern Italian city of Naples, and authorities were digging by hand to find anyone trapped. 
 
-### [Leaders from the Group of Twenty come together at the 2017 G20 Hamburg summit today, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-2017-g20-hamburg-summit-today-including-united-states-president-donald-trump-who-is-s.md)
-_Context: 2017 G20 Hamburg summit, Donald Trump, Group of Twenty, Russia, United States, Vladimir Putin_
+### [Leaders from the Group of Twenty come together at the 2017 G20 Hamburg summit today, including United States President Donald Trump who is set to meet with President of the Russian Federation Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-2017-g20-hamburg-summit-today-including-united-states-president-donald-trump-who-is-s.md)
+_Context: 2017 G20 Hamburg summit, Donald Trump, Group of Twenty, Russian Federation, United States, Vladimir Putin_
+
+### [The United States, Russia and regional countries have reached a ceasefire deal in southwestern Syria, one of the combat zones in a six-year-old Civil War, a U.S. official said on Friday.United States Secretary of State Rex Tillerson was expected to provide more details of the deal to reporters in Hamburg, Germany, later on Friday, the official said.](/news/2017/07/7/the-united-states-russia-and-regional-countries-have-reached-a-ceasefire-deal-in-southwestern-syria-one-of-the-combat-zones-in-a-six-year.md)
+The United States, Russia and Jordan have reached a ceasefire and &quot;de-escalation agreement&quot; in southwestern Syria, one of the combat zones in a six-year-old civil war, U.S. Secretary of State Rex Tillerson said on Friday.
 
 ### [According to the World Health Organization, oral sex is producing dangerous gonorrhoea and a decline in condom use is helping it to spread. ](/news/2017/07/7/according-to-the-world-health-organization-oral-sex-is-producing-dangerous-gonorrhoea-and-a-decline-in-condom-use-is-helping-it-to-spread.md)
 If you get gonorrhoea, you might not be able to get rid of it, world health experts warn.
