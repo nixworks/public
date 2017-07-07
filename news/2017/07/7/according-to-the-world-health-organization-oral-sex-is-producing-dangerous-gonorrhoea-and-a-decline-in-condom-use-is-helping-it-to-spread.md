@@ -1,9 +1,13 @@
 ### [2017-07-7](/news/2017/07/7/index.md)
 
-# According to the World Health Organization, oral sex is producing dangerous gonorrhoea and a decline in condom use is helping it to spread.
+# According to the World Health Organization, oral sex is producing dangerous gonorrhoea and a decline in condom use is helping it to spread. 
+
+If you get gonorrhoea, you might not be able to get rid of it, world health experts warn.
 
 
+### Source:
 
+1. [BBC](http://www.bbc.com/news/health-40520125)
 
 ### Related:
 
