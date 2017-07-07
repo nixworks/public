@@ -9,6 +9,9 @@ Israel denounces the decision, accusing the UN cultural agency of being a &quot;
 ### [Warren Buffett's Berkshire Hathaway Inc. agrees to pay USD$9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery stepping up its pursuit of steady profits from utilities and infrastructure deals. ](/news/2017/07/7/warren-buffett-s-berkshire-hathaway-inc-agrees-to-pay-usd-9-billion-to-buy-the-parent-of-texas-power-transmission-company-oncor-electric-de.md)
 _Context: Berkshire Hathaway Inc., Oncor Electric Delivery, Texas, USD, Warren Buffett_
 
+### [Sears, Roebuck & Co. has announced Friday it will be closing eight more of its namesake department stores, as well as thirty five K-Mart locations in addition to the hundred and fifty stores that they had announced in January would be shuttered. CEO Eddie Lampert has stated "This is part of a strategy both to address losses from unprofitable stores and to reduce the square footage of other stores because many of them are simply too big for our current needs." Shares of Sears fell as much as 4.8% on the news. ](/news/2017/07/7/sears-roebuck-co-has-announced-friday-it-will-be-closing-eight-more-of-its-namesake-department-stores-as-well-as-thirty-five-k-mart-loc.md)
+Sears Holdings Corp (SHLD.O) is closing eight of its namesake department stores and 35 Kmart locations to cut costs and square footage in an effort to return to profitability, Chief Executive Officer Eddie Lampert said on Friday.
+
 ### [A five-story apartment block collapses in the town of Torre Annunziata near the southern Italian city of Naples with six or seven people trapped inside. So far, three have been found dead. ](/news/2017/07/7/a-five-story-apartment-block-collapses-in-the-town-of-torre-annunziata-near-the-southern-italian-city-of-naples-with-six-or-seven-people-tra.md)
 _Context: Italian, Naples, Torre Annunziata_
 
@@ -27,14 +30,14 @@ Police raided the headquarters of Korean Air Lines Co Ltd on Friday as part of a
 ### [United States Attorney General Jefferson Beauregard Sessions III, along with Deputy Attorney General Rod Rosenstein and National Intelligence Director Dan Coats visit the Guantanamo Bay Detention Camp. Justice Department spokesperson Ian Prior said in a statement "Recent attacks in Europe and elsewhere confirm that the threat to our nation is immediate and real, and it remains essential that we use every lawful tool available to prevent as many attacks as possible". ](/news/2017/07/7/united-states-attorney-general-jefferson-beauregard-sessions-iii-along-with-deputy-attorney-general-rod-rosenstein-and-national-intelligenc.md)
 _Context: Dan Coats, Deputy Attorney General, Europe, Guantanamo Bay Detention Camp, Jefferson Beauregard Sessions III, Justice Department, National Intelligence Director, Rod Rosenstein, United States Attorney General_
 
-### [Venezualan President Nicols Maduro says voting in his upcoming election on July 30 is mandatory for all 2.8 million state employees, with employees who do not vote facing ostracisation. Opponents of the government plan to hold their own referendum on the Maduro Government July 16th. ](/news/2017/07/7/venezualan-president-nicolas-maduro-says-voting-in-his-upcoming-election-on-july-30-is-mandatory-for-all-2-8-million-state-employees-with-e.md)
-_Context: July, Nicols Maduro, Venezuala, Venezuelan Constitutional Assembly election, 2017_
+### [Venezuelan President Nicols Maduro says voting in his upcoming election on July 30 is mandatory for all 2.8 million state employees, with employees who do not vote facing ostracisation. Opponents of the government plan to hold their own referendum on the Maduro Government July 16th. ](/news/2017/07/7/venezuelan-president-nicolas-maduro-says-voting-in-his-upcoming-election-on-july-30-is-mandatory-for-all-2-8-million-state-employees-with-e.md)
+_Context: July, Nicols Maduro, Venezuela, Venezuelan Constitutional Assembly election, 2017_
 
 ### [Thousands of supporters of Yemen's secessionists rallied in the southern city of Aden Friday, backing a new group led by former head of Aden Governorate Aidarus al-Zoubaidi that advocates for autonomy of the country's south. ](/news/2017/07/7/thousands-of-supporters-of-yemen-s-secessionists-rallied-in-the-southern-city-of-aden-friday-backing-a-new-group-led-by-former-head-of-aden.md)
-_Context: Aden, Aden Governorate, Aidarus al-Zoubaidi, Yemen's_
+_Context: Aden, Aden Governorate, Aidarus al-Zoubaidi, Yemen's, Yemeni Civil War_
 
 ### [South Australia finalizes a deal with Tesla, spearheaded by tweets originating from CEO of Tesla Elon Musk, to install a battery system in the state. Tesla said in a statement that upon completion by December 2017, the system would be the largest lithium-ion battery storage project in the world, overtaking an 80 megawatt-hour power station at Mira Loma in California also built using Tesla batteries. ](/news/2017/07/7/south-australia-finalizes-a-deal-with-tesla-spearheaded-by-tweets-originating-from-ceo-of-tesla-elon-musk-to-install-a-battery-system-in-t.md)
-_Context: California, Elon Musk, Mira Loma, South Australia, Tesla, lithium-ion battery, megawatt-hour_
+_Context: California, Elon Musk, Mira Loma, Renewable energy in Australia, South Australia, Tesla, lithium-ion battery, megawatt-hour_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
