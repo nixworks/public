@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Today](http://www.venuestoday.com/news/detail/italy-hosts-biggest-ticketed-concert-ever|''(Venues)
+1. [Venues Today](http://www.venuestoday.com/news/detail/italy-hosts-biggest-ticketed-concert-ever)
 
 ### Related:
 

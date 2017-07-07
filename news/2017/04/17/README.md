@@ -46,7 +46,7 @@ The leader of the &quot;Calexit&quot; movement announced in a 1,600-word stateme
 Mughrabi and Ali Sawafta
 
 ### [Bongbong Marcos pays [?]36 million, half of the required amount to hold a recount against Philippine vice president Leni Robredo.](/news/2017/04/17/bongbong-marcos-pays-a-36-million-half-of-the-required-amount-to-hold-a-recount-against-philippine-vice-president-leni-robredo.md)
-_Context: Bongbong Marcos, Leni Robredo, Philippine presidential election, 2016, Vice President, [?]_
+_Context: Bongbong Marcos, Leni Robredo, Philippine presidential election, 2016, Vice President of the Philippines, [?]_
 
 ## [Previous Day...](/news/2017/04/16/index.md)
 
