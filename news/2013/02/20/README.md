@@ -31,7 +31,7 @@ _Context: Benigno Fitial, Eloy Inos, Governor of the Northern Mariana Islands, L
 _Context: 2013 Bulgarian protests, Boyko Borisov, Bulgaria, Prime Minister, all his cabinet_
 
 ### [Mark Zuckerberg of Facebook, Sergey Brin of Google and venture capitalist Yuri Milner jointly establish the Breakthrough Prize in Life Sciences to reward excellence in life sciences with 11 individual prizes of $3 million. ](/news/2013/02/20/mark-zuckerberg-of-facebook-sergey-brin-of-google-and-venture-capitalist-yuri-milner-jointly-establish-the-breakthrough-prize-in-life-scien.md)
-_Context: Breakthrough Prize in Life Sciences, Facebook, Google, Mark Zuckerberg, Sergey Brin, Yuri Milner, life sciences_
+_Context: Breakthrough Prize in Life Sciences, Facebook, Inc., Google, Mark Zuckerberg, Sergey Brin, Yuri Milner, life sciences_
 
 ### [Sony announces their eighth generation console, the PlayStation 4. ](/news/2013/02/20/sony-announces-their-eighth-generation-console-the-playstation-4.md)
 Sony announces the fourth generation of its PlayStation games console featuring a new controller and a &quot;supercharged&quot; processor.

@@ -62,6 +62,9 @@ Samoa has a new Head of State. This morning the 50-member Parliament voted unani
 ### [Supporters of Venezuelan President Nicolas Maduro storm the opposition-controlled National Assembly and injure several lawmakers, including the President of the National Assembly, Julio Borges. Several journalists were also injured in the assault. ](/news/2017/07/5/supporters-of-venezuelan-president-nicola-s-maduro-storm-the-opposition-controlled-national-assembly-and-injure-several-lawmakers-including.md)
 _Context: 2014-17 Venezuelan protests, Julio Borges, National Assembly, Nicolas Maduro, President of the National Assembly, Supporters, Venezuela_
 
+### [A group of people are arrested in the Peruvian village of Muqui, located in the Andes, after they painted a wall with allusive symbols and messages to the far-left terrorist organization, Shining Path, responsible for crimes against humanity in Peru from 1980 to 1992. Police later clarified that the true intentions of the arrested, some of them students of a technical training institute, were to make a short film. ](/news/2017/07/5/a-group-of-people-are-arrested-in-the-peruvian-village-of-muqui-located-in-the-andes-after-they-painted-a-wall-with-allusive-symbols-and-m.md)
+_Context: Andes, Muqui, Peru, Shining Path, crimes against humanity_
+
 ### [The face of the Peruvian Moche mummy the Lady of Cao is reconstructed from its skull structure, using forensic archaeology techniques and ethnographic research. ](/news/2017/07/5/the-face-of-the-peruvian-moche-mummy-the-lady-of-cao-is-reconstructed-from-its-skull-structure-using-forensic-archaeology-techniques-and-et.md)
 She died in her twenties some 1700 years ago, and is believed to have ruled over a desert valley in ancient Peru where her elaborately tattooed body was buried.
 

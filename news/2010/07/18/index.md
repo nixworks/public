@@ -43,16 +43,16 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 There are no reports of damage from two earthquakes that hit off the coast of Papua New Guinea overnight.
 
 ### [Iranian scientist Shahram Amiri, who says he was abducted by the United States Central Intelligence Agency, says the United States wanted him to confess to being a spy as part of a plan to force the release of three Americans spies caught by Iran. ](/news/2010/07/18/iranian-scientist-shahram-amiri-who-says-he-was-abducted-by-the-united-states-central-intelligence-agency-says-the-united-states-wanted-hi.md)
-_Context: Central Intelligence Agency, Iran, Shahram Amiri, U.S._
+_Context: Central Intelligence Agency, Iran, Shahram Amiri, United States_
 
 ### [The Arab League, speaking in Cairo, states written guarantees are required if Palestine is to enter into direct negotiations with Israel as Egyptian, Israeli, Palestinian and American representatives meet to talk. ](/news/2010/07/18/the-arab-league-speaking-in-cairo-states-written-guarantees-are-required-if-palestine-is-to-enter-into-direct-negotiations-with-israel-as.md)
-_Context: Arab League, Cairo, Egypt, Israel, Palestinian, U.S._
+_Context: Arab League, Cairo, Egypt, Israel, Palestinian, United States_
 
 ### [Colombia takes Venezuela to the Organisation of American States over claims that the latter tolerates training camps for left-wing guerrillas, particularly FARC and ELN within its borders. ](/news/2010/07/18/colombia-takes-venezuela-to-the-organisation-of-american-states-over-claims-that-the-latter-tolerates-training-camps-for-left-wing-guerrilla.md)
 Colombia calls a meeting of regional grouping the OAS to accuse Venezuela of harbouring left-wing rebels.
 
 ### [EU commissioner Chris Patten, Baron Patten of Barnes, speaking during his first visit to Gaza since 2002, calls the Israeli blockade of Gaza an "immoral failure", expresses shock at the "huge new settlements" in the West Bank, and states the United States dominance of the Quartet on the Middle East - US, EU, UN and Russia - is wrong. ](/news/2010/07/18/eu-commissioner-chris-patten-baron-patten-of-barnes-speaking-during-his-first-visit-to-gaza-since-2002-calls-the-israeli-blockade-of-gaza.md)
-_Context: Chris Patten, Baron Patten of Barnes, Gaza Strip, Israel, U.S., West Bank, diplomatic Quartet_
+_Context: Chris Patten, Baron Patten of Barnes, Gaza Strip, Israel, United States, West Bank, diplomatic Quartet_
 
 ### [A 2001 film, depicting Prime Minister of Israel Benjamin Netanyahu discussing methods of undermining the Oslo Accords and saying the United States is "easy" to manipulate, is aired on Israel's Channel 10. ](/news/2010/07/18/a-2001-film-depicting-prime-minister-of-israel-benjamin-netanyahu-discussing-methods-of-undermining-the-oslo-accords-and-saying-the-united.md)
 Israeli PM seen discussing ways to undermine Oslo Accords in 2001 videotape.
@@ -82,7 +82,7 @@ An alleged drug kingpin, known as the Pablo Escobar of the Caribbean, has been a
 _Context: Pakistan, adultery, death by stoning_
 
 ### [Health experts condemn tobacco companies for openly flouting European Union laws against advertising by using glitzy sales teams and techniques to promote cigarette brands at young people on Facebook and at music festivals. ](/news/2010/07/18/health-experts-condemn-tobacco-companies-for-openly-flouting-european-union-laws-against-advertising-by-using-glitzy-sales-teams-and-techniq.md)
-_Context: European Union, Facebook_
+_Context: European Union, Facebook, Inc._
 
 ### [Customs officers at Kuala Lumpur International Airport discover 400 rare tortoises, more than 40 rare tomato frogs and an unidentified number of chameleons bound with masking tape and stuffed into socks allegedly smuggled from Madagascar in the luggage of two women. ](/news/2010/07/18/customs-officers-at-kuala-lumpur-international-airport-discover-400-rare-tortoises-more-than-40-rare-tomato-frogs-and-an-unidentified-numbe.md)
 Customs officers at Kuala Lumpur airport recover more than 400 rare tortoises and frogs smuggled from Madagascar.

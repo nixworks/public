@@ -4,7 +4,7 @@
 52 doctors and nurses were killed following the attack and 167 people have been wounded.
 
 ### [2013 Central African Republic coup d'tat:The United Nations approves the creation of the MISCA peacekeeping mission in the Central African Republic, initially led by the African Union with French military support, to help quell the ongoing civil war, as reports emerge of more than 100 people killed during recent clashes in the capital Bangui. ](/news/2013/12/5/2013-central-african-republic-coup-d-etat-pthe-united-nations-approves-the-creation-of-the-misca-peacekeeping-mission-in-the-central-african.md)
-_Context: 2013 Central African Republic coup d'tat, African Union, Bangui's, Central-African, French Army, MISCA, United Nations, sectarian violence_
+_Context: 2013 Central African Republic coup d'tat, African Union, Bangui's, Central African Republic, French Army, MISCA, United Nations, sectarian violence_
 
 ### [Iraqi insurgency (post-U.S. withdrawal):Militants in Kirkuk, Iraq, attack a mall and police headquarters, killing 10 people and injuring another 70. ](/news/2013/12/5/iraqi-insurgency-post-u-s-withdrawal-pmilitants-in-kirkuk-iraq-attack-a-mall-and-police-headquarters-killing-10-people-and-injuring-an.md)
 _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal), Kirkuk_

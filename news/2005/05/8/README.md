@@ -16,7 +16,7 @@ Women ululated, men wept and youths hugged when Lebanon&#39;s anti-Syria politic
 _Context: Etienne Nzabonimana, Rwanda, Rwandan Genocide, Samuel Ndashyikirwa_
 
 ### [ People in the Central African Republic vote in the second round of presidential election. Incumbent president Franois Boziz, who took over in a coup in 2003, is in favorable position. ](/news/2005/05/8/people-in-the-central-african-republic-vote-in-the-second-round-of-presidential-election-incumbent-president-francois-bozize-who-took-ove.md)
-_Context: Boziz, Central-African, presidential election_
+_Context: Boziz, Central African Republic, presidential election_
 
 ### [ Algerian president Abdelaziz Bouteflika demands that France admits its part in Stif massacre, the killing of 45,000 Algerians who demonstrated for independence on May 8 1945 when Europe celebrated the defeat of Nazi Germany. ](/news/2005/05/8/algerian-president-abdelaziz-bouteflika-demands-that-france-admits-its-part-in-setif-massacre-the-killing-of-45-000-algerians-who-demonstr.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

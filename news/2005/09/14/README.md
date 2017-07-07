@@ -4,7 +4,7 @@
 _Context: Ariel Sharon, Israeli Prime Minister, Pervez Musharraf, President_
 
 ### [ UN High Commissioner for Refugees and World Food Programme appeal for more funds to provide food for two million refugees in Africa, in countries such as Tanzania, Central African Republic, Liberia and Kenya. ](/news/2005/09/14/un-high-commissioner-for-refugees-and-world-food-programme-appeal-for-more-funds-to-provide-food-for-two-million-refugees-in-africa-in-cou.md)
-_Context: Central-African, Kenya, Liberia, Tanzania, UN High Commissioner for Refugees, World Food Programme, refugee_
+_Context: Central African Republic, Kenya, Liberia, Tanzania, UN High Commissioner for Refugees, World Food Programme, refugee_
 
 ### [ Mandatory emergency evacuation is ordered for Outer Banks in North Carolina as Hurricane Ophelia approaches. ](/news/2005/09/14/mandatory-emergency-evacuation-is-ordered-for-outer-banks-in-north-carolina-as-hurricane-ophelia-approaches.md)
 _Context: 2005 Atlantic hurricane season, North Carolina, Outer Banks, evacuation centers_

@@ -13,7 +13,7 @@ Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college
 _Context: Ariel Sharon_
 
 ### [ American Floyd Landis wins the 2006 Tour de France. ](/news/2006/07/23/american-floyd-landis-wins-the-2006-tour-de-france.md)
-_Context: 2006, Floyd Landis, U.S._
+_Context: 2006, Floyd Landis, United States_
 
 ### [ 2006 Israel-Lebanon conflict: The UN's Jan Egeland has condemned the devastation caused by Israeli air strikes in Beirut, saying it is a violation of humanitarian law.](/news/2006/07/23/2006-israel-lebanon-conflict-p-the-un-s-jan-egeland-has-condemned-the-devastation-caused-by-israeli-air-strikes-in-beirut-saying-it-is-a-v.md)
 (VIDEO) Heavy rocket barrage hits several places in Haifa, Nesher, surrounding areas; two people killed, 12 injured, one sustaining serious wounds. In Nesher, rocket opens hole in wall, lands in center of living room. Child lightly wounded by rocket in Carmiel

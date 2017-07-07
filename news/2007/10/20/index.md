@@ -19,7 +19,7 @@ _Context: Rugby World Cup, South Africa, World Cup_
 _Context: 2007 Karachi bombings, Karachi, photograph, suicide bomber_
 
 ### [ J.K. Rowling has revealed that Dumbledore of the Harry Potter books is homosexual. ](/news/2007/10/20/j-k-rowling-has-revealed-that-dumbledore-of-the-harry-potter-books-is-homosexual.md)
-_Context: Dumbledore, Harry Potter, J. K. Rowling, homosexual_
+_Context: Dumbledore, Harry Potter, J. K. Rowling, gay_
 
 ### [ Myanmar's State Peace and Development Council lifts the curfew it imposed in Yangon and Mandalay on September 26. ](/news/2007/10/20/myanmar-s-state-peace-and-development-council-lifts-the-curfew-it-imposed-in-yangon-and-mandalay-on-september-26.md)
 _Context: Mandalay, Myanmar, September 26, State Peace and Development Council, Yangon, curfew_

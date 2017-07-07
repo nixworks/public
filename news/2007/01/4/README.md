@@ -18,7 +18,7 @@ _Context: Nancy Pelosi, Speaker of the United States House of Representatives, U
 ### [ The New Way Forward in Iraq War leadership: U.S. National Intelligence Director John Negroponte resigns. United States President George W. Bush appoints him Deputy Secretary of State according to officials. ](/news/2007/01/4/the-new-way-forward-in-iraq-war-leadership-p-u-s-national-intelligence-director-john-negroponte-resigns-united-states-president-george-w.md)
 _Context: George W. Bush, Iraq War, John Negroponte, U.S. National Intelligence Director, US Deputy Secretary of State, his strategy change in response to Iraq Study Group criticisms_
 
-### [ NASA announces ''](/news/2007/01/4/nasa-announces.md)
+### [ NASA announces '](/news/2007/01/4/nasa-announces.md)
 ### [ Keith Ellison, the first Muslim member of the United States Congress and the first African American elected to the House from Minnesota is sworn in using Thomas Jefferson's Qur'an. ](/news/2007/01/4/keith-ellison-the-first-muslim-member-of-the-united-states-congress-and-the-first-african-american-elected-to-the-house-from-minnesota-is.md)
 _Context: Keith Ellison, Minnesota, Qur'an, Thomas Jefferson, United States Congress, United States House of Representatives_
 

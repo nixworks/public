@@ -1,6 +1,6 @@
 ### [2006-10-24](/news/2006/10/24/index.md)
 
-#  Ethiopian Prime Minister Meles Zenawi accuses the Government of Eritrea of jeopardizing regional stability by engaging in a proxy war through its assistance to the Islamic Courts Union in Somalia. Zenawi warns the Ethiopian Parliament that "Jihadists are amassing their forces near our borders."
+#  Ethiopian Prime Minister Meles Zenawi accuses the Government of Eritrea of jeopardizing regional stability by engaging in a proxy war through its assistance to the Islamic Courts Union in Somalia. Zenawi warns the Ethiopian Parliament that "Jihadists are amassing their forces near our borders.
 
 
 

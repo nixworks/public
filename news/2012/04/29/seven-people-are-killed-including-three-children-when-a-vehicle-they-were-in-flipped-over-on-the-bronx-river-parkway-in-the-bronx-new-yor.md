@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [A police officer in the Bronx, New York, is shot and killed in what police officials call a targeted attack. The alleged perpetrator had posted threatening messages against police to Facebook. ](/news/2017/07/5/a-police-officer-in-the-bronx-new-york-is-shot-and-killed-in-what-police-officials-call-a-targeted-attack-the-alleged-perpetrator-had-pos.md) _Context: the Bronx_
+1. [A police shooting occurs in the Bronx, New York, killing one police officer and injuring a bystander. Two officers confront the suspect and shoot him dead. ](/news/2017/07/5/a-police-shooting-occurs-in-the-bronx-new-york-killing-one-police-officer-and-injuring-a-bystander-two-officers-confront-the-suspect-and.md) _Context: the Bronx_
 2. [A doctor thought to be formerly employed with the Bronx-Lebanon Hospital Center kills one and wounds five others at the facility in New York City. ](/news/2017/06/30/a-doctor-thought-to-be-formerly-employed-with-the-bronx-lebanon-hospital-center-kills-one-and-wounds-five-others-at-the-facility-in-new-york.md) _Context: New York City_
 3. [The Tony Awards are held in New York City with ''Dear Evan Hansen'' winning six awards including Best Musical and ''Oslo'' winning best play. ](/news/2017/06/11/the-tony-awards-are-held-in-new-york-city-with-dear-evan-hansen-winning-six-awards-including-best-musical-and-oslo-winning-best-play.md) _Context: New York City_
 4. [An automobile crashes into pedestrians in New York City's Times Square, killing one person and injuring several others. Police are investigating the incident as an accident. ](/news/2017/05/18/an-automobile-crashes-into-pedestrians-in-new-york-city-s-times-square-killing-one-person-and-injuring-several-others-police-are-investiga.md) _Context: New York City_

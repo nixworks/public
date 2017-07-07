@@ -12,7 +12,7 @@ Fourteen people died Saturday when a bus returning from a casino flipped onto it
 
 ### Related:
 
-1. [A police officer in the Bronx, New York, is shot and killed in what police officials call a targeted attack. The alleged perpetrator had posted threatening messages against police to Facebook. ](/news/2017/07/5/a-police-officer-in-the-bronx-new-york-is-shot-and-killed-in-what-police-officials-call-a-targeted-attack-the-alleged-perpetrator-had-pos.md) _Context: the Bronx_
+1. [A police shooting occurs in the Bronx, New York, killing one police officer and injuring a bystander. Two officers confront the suspect and shoot him dead. ](/news/2017/07/5/a-police-shooting-occurs-in-the-bronx-new-york-killing-one-police-officer-and-injuring-a-bystander-two-officers-confront-the-suspect-and.md) _Context: the Bronx_
 2. [A commuter train from the Long Island Rail Road derails during the morning rush hour in Brooklyn, New York, injuring 103 people. ](/news/2017/01/4/a-commuter-train-from-the-long-island-rail-road-derails-during-the-morning-rush-hour-in-brooklyn-new-york-injuring-103-people.md) _Context: New York_
 3. [Gunshots are fired in Crossgates Mall in Guilderland, New York. Police report the mall has been cleared; they  are looking for one suspect.   ](/news/2016/11/12/gunshots-are-fired-in-crossgates-mall-in-guilderland-new-york-police-report-the-mall-has-been-cleared-they-are-looking-for-one-suspect.md) _Context: New York_
 4. [The Cuban-born American arsonist who torched 87 people in March 1990 at The Bronx Happy Land fire, Julio Gonzalez, dies in prison at the age of 61. ](/news/2016/09/13/the-cuban-born-american-arsonist-who-torched-87-people-in-march-1990-at-the-bronx-happy-land-fire-julio-gonza-lez-dies-in-prison-at-the-ag.md) _Context: the Bronx_

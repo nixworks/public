@@ -28,7 +28,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [ Japan has halted the import of U.S. beef after an animal spine was found in a beef shipment at Tokyo International Airport. A ban has now been reinstated. ](/news/2006/01/20/japan-has-halted-the-import-of-u-s-beef-after-an-animal-spine-was-found-in-a-beef-shipment-at-tokyo-international-airport-a-ban-has-now-b.md)
-_Context: Tokyo International Airport_
+_Context: Haneda Airport_
 
 ### [ Turkish police are reported to have taken into custody, Mehmet Ali Agca, the man who shot Pope John Paul&nbsp;II in 1981 after an appeals court ordered his return to prison to serve more time for killing a journalist. ](/news/2006/01/20/turkish-police-are-reported-to-have-taken-into-custody-mehmet-ali-aaca-the-man-who-shot-pope-john-paul-nbsp-ii-in-1981-after-an-appeals.md)
 _Context: Mehmet Ali Agca, Pope John Paul&nbsp;II, Turkey_

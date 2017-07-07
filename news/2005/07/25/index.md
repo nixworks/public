@@ -4,7 +4,7 @@
 _Context: Holy See, Israel, Palestinian, Pope, Pope Benedict XVI, ambassador_
 
 ### [ Bilateral negotiations have resumed between the US and North Korea. ](/news/2005/07/25/bilateral-negotiations-have-resumed-between-the-us-and-north-korea.md)
-_Context: Bilateral negotiations, North Korea, U.S._
+_Context: Bilateral negotiations, North Korea, United States_
 
 ### [ The Service Employees International Union and the Teamsters, the two largest unions in the AFL-CIO, announce their intentions to leave the labor federation, underscoring a major schism within the U.S. labour movement. ](/news/2005/07/25/the-service-employees-international-union-and-the-teamsters-the-two-largest-unions-in-the-afl-cio-announce-their-intentions-to-leave-the.md)
 _Context: AFL-CIO, Service Employees International Union, Teamsters, labour movement_

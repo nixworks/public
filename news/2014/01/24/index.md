@@ -12,7 +12,7 @@ _Context: Dinesh D'Souza_
 ### [A student was shot and killed at South Carolina State University and police were looking for 4 suspects. ](/news/2014/01/24/a-student-was-shot-and-killed-at-south-carolina-state-university-and-police-were-looking-for-4-suspects.md)
 A man accused of shooting a fellow student to death after an argument outside a dormitory at South Carolina State University was arrested on a murder charge on Saturday, state police said.
 
-### [Euromaidan:Unrest in the Ukraine spreads to the cities of Khmelnitsky, Zhytomyr, Cherkasy, Lviv (Lvov), Ternopil, Ivano-Frankivsk, Lutsk, Rivne and Chernivtsi. In Rivne and Lviv, the offices of the governors were broken into; the Lviv regional governor was forced to sign a letter of resignation. ''](/news/2014/01/24/euromaidan-punrest-in-the-ukraine-spreads-to-the-cities-of-khmelnitsky-zhytomyr-cherkasy-lviv-lvov-ternopil-ivano-frankivsk-lutsk-r.md)
+### [Euromaidan:Unrest in the Ukraine spreads to the cities of Khmelnitsky, Zhytomyr, Cherkasy, Lviv (Lvov), Ternopil, Ivano-Frankivsk, Lutsk, Rivne and Chernivtsi. In Rivne and Lviv, the offices of the governors were broken into; the Lviv regional governor was forced to sign a letter of resignation. '](/news/2014/01/24/euromaidan-punrest-in-the-ukraine-spreads-to-the-cities-of-khmelnitsky-zhytomyr-cherkasy-lviv-lvov-ternopil-ivano-frankivsk-lutsk-r.md)
 _Context: Cherkasy, Chernivtsi, Euromaidan, Ivano-Frankivsk, Khmelnitsky, Lutsk, Lviv, Rivne, Ternopil, Zhytomyr_
 
 ## [Previous Day...](/news/2014/01/23/index.md)

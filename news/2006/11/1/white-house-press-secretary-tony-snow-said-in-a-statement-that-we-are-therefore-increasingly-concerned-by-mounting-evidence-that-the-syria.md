@@ -1,6 +1,6 @@
 ### [2006-11-1](/news/2006/11/1/index.md)
 
-#  White House Press Secretary Tony Snow said in a statement that "We are therefore increasingly concerned by mounting evidence that the Syrian and Iranian governments, Hezbollah, and their Lebanese allies are preparing plans to topple Lebanon's democratically elected government," and that "We're making it clear to everybody in the region that we think that there ought to be hands off the <nowiki>[Prime Minister Fouad]</nowiki> Siniora government; let them go about and do their business."
+#  White House Press Secretary Tony Snow said in a statement that "We are therefore increasingly concerned by mounting evidence that the Syrian and Iranian governments, Hezbollah, and their Lebanese allies are preparing plans to topple Lebanon's democratically elected government," and that "We're making it clear to everybody in the region that we think that there ought to be hands off the <nowiki>[Prime Minister Fouad]</nowiki> Siniora government; let them go about and do their business.
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

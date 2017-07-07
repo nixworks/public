@@ -9,7 +9,7 @@ _Context: Belize, United Kingdom, unrest_
 ### [ Israeli-Palestinian Conflict: Israeli soldiers shoot dead a 13- or 14-year-old Palestinian boy, after he points a toy rifle at them, and kill another 13-year-old boy walking with his parents near Rafah. ](/news/2005/01/20/israeli-palestinian-conflict-israeli-soldiers-shoot-dead-a-13-or-14-year-old-palestinian-boy-after-he-points-a-toy-rifle-at-them-and-ki.md)
 _Context: Israel, Israeli-Palestinian conflict, Palestinian, rifle, toy_
 
-### [ United States: U.S. President George W. Bush is sworn in for his second term, with a pledge to seek "](/news/2005/01/20/united-states-p-u-s-president-george-w-bush-is-sworn-in-for-his-second-term-with-a-pledge-to-seek.md)
+### [ United States: U.S. President George W. Bush is sworn in for his second term, with a pledge to seek ](/news/2005/01/20/united-states-p-u-s-president-george-w-bush-is-sworn-in-for-his-second-term-with-a-pledge-to-seek.md)
 Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.
 
 ### [ Hajj: Pilgrims on Hajj celebrate Eid ul-Adha in Saudi Arabia, and prepare to stone the pillars that represent satan, and eat meat of a newly killed animal, while giving meat to those less fortunate as ''qurbani''. Hajj Celebrations will also be held around the world, but some will wait until Friday. ](/news/2005/01/20/hajj-p-pilgrims-on-hajj-celebrate-eid-ul-adha-in-saudi-arabia-and-prepare-to-stone-the-pillars-that-represent-satan-and-eat-meat-of-a-new.md)

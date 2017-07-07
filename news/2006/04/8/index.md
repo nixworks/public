@@ -4,7 +4,7 @@
 _Context: Bandidos, Ontario, Ontario Provincial Police, Shedden massacre, murder_
 
 ### [ The United Front for Democratic Change has attacked and gained control of the cities of Haraze Mangueigne, Am Timan, and Abou-Deia, in Chad. Their initial attack came from northern Central African Republic with the help of the Military of Sudan. This is the largest and most successful attack since the start of the Chadian-Sudanese conflict despite taking only an hour, with only four men injured and none killed because the Chadian military has either fled or refused to fight the rebels. ](/news/2006/04/8/the-united-front-for-democratic-change-has-attacked-and-gained-control-of-the-cities-of-haraze-mangueigne-am-timan-and-abou-deia-in-chad.md)
-_Context: Abou-Deia, Am Timan, Central-African, Chad, Chadian military, Chadian rebels, Chadian-Sudanese conflict, Haraze Mangueigne, Sudanese military_
+_Context: Abou-Deia, Am Timan, Central African Republic, Chad, Chadian military, Chadian rebels, Chadian-Sudanese conflict, Haraze Mangueigne, Sudanese military_
 
 ### [ The death toll in the Djibouti ferry disaster reaches 109. ](/news/2006/04/8/the-death-toll-in-the-djibouti-ferry-disaster-reaches-109.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

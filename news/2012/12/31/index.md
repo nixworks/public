@@ -1,7 +1,7 @@
 ## [2012-12-31](/news/2012/12/31/index.md)
 
 ### [2012 Central African Republic rebellion:Rebels reject a national unity government offer by President of the Central African Republic Francois Bozize. ](/news/2012/12/31/2012-central-african-republic-rebellion-prebels-reject-a-national-unity-government-offer-by-president-of-the-central-african-republic-franass.md)
-_Context: 2012 Central African Republic rebellion, Central-African, Francois Bozize, President of the Central African Republic, national unity government_
+_Context: 2012 Central African Republic rebellion, Central African Republic, Francois Bozize, President of the Central African Republic, national unity government_
 
 ### [Tribune Co., the publishing and broadcasting giant that declared bankruptcy in December 2008, emerges from that status with new controlling shareholders including Oaktree Capital and JPMorgan Chase. ](/news/2012/12/31/tribune-co-the-publishing-and-broadcasting-giant-that-declared-bankruptcy-in-december-2008-emerges-from-that-status-with-new-controlling.md)
 _Context: December 2008, JPMorgan Chase, Oaktree Capital, Tribune Co._

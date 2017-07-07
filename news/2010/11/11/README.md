@@ -13,7 +13,7 @@ _Context: Kabul, Logar Province, Taliban_
 Large explosion hits Criminal Investigation Department in Pakistani city, killing at least 15 people and injuring 100.
 
 ### [International media are giving the impression that all of Mexico is awash with drug violence while ignoring other matters concerning the country, according to Mexico's ambassador to the United States at the American think tank Council on Foreign Relations. ](/news/2010/11/11/international-media-are-giving-the-impression-that-all-of-mexico-is-awash-with-drug-violence-while-ignoring-other-matters-concerning-the-cou.md)
-_Context: Council on Foreign Relations, Mexico, U.S._
+_Context: Council on Foreign Relations, Mexico, United States_
 
 ### [At least 11 deaths result from violence in Dagestan, North Caucasus. ](/news/2010/11/11/at-least-11-deaths-result-from-violence-in-dagestan-north-caucasus.md)
 _Context: Dagestan, North Caucasus_
@@ -63,11 +63,11 @@ Cuba has condemned the release of a new video game in which United States specia
 ### [World leaders gather in Seoul, South Korea, for the G-20 summit. ](/news/2010/11/11/world-leaders-gather-in-seoul-south-korea-for-the-g-20-summit.md)
 World leaders gather in Seoul onThursday and Friday for a Group of 20 summit aimed atsafeguarding the global economic recovery and defusing trade andcurrency tensions.
 
-### [The United Nations says there has been "no material change" for people in Gaza since Israel announced it was easing its economic blockade. An Israeli spokesman stated that the reason for the blockade was "because the territory has been overtaken by a declared terror movement."](/news/2010/11/11/the-united-nations-says-there-has-been-no-material-change-for-people-in-gaza-since-israel-announced-it-was-easing-its-economic-blockade-a.md)
+### [The United Nations says there has been "no material change" for people in Gaza since Israel announced it was easing its economic blockade. An Israeli spokesman stated that the reason for the blockade was "because the territory has been overtaken by a declared terror movement.](/news/2010/11/11/the-united-nations-says-there-has-been-no-material-change-for-people-in-gaza-since-israel-announced-it-was-easing-its-economic-blockade-a.md)
 The UN says there has been no material change for people in Gaza since Israel eased its blockade of the Palestinian territory.
 
 ### [The Palestinian Authority arrests Walid Husayin for heresy, a charge carrying a potential life prison sentence, after he claims to be God and insults the Prophet Muhammad on Facebook and his blog. ](/news/2010/11/11/the-palestinian-authority-arrests-walid-husayin-for-heresy-a-charge-carrying-a-potential-life-prison-sentence-after-he-claims-to-be-god-an.md)
-_Context: Facebook, Palestinian Authority, Walid Husayin, heresy_
+_Context: Facebook, Inc., Palestinian Authority, Walid Husayin, heresy_
 
 ### [A Christian woman, Aasia Bibi, is sentenced to death for blasphemy by a court in Lahore, Pakistan. ](/news/2010/11/11/a-christian-woman-aasia-bibi-is-sentenced-to-death-for-blasphemy-by-a-court-in-lahore-pakistan.md)
 _Context: Aasia Bibi, Christian, Lahore, Pakistan, blasphemy_

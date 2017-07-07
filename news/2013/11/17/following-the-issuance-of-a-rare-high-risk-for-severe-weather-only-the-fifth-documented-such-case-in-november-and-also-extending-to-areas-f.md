@@ -1,6 +1,6 @@
 ### [2013-11-17](/news/2013/11/17/index.md)
 
-# Following the issuance of a rare High Risk for severe weather (only the fifth documented such case in November and also extending to areas further north than any previous known high risk issued in the November through February timeframe), several midwestern states in the United States are placed under multiple tornado watches, with multiple tornadoes touching down, causing at least four deaths and up to 50 injured in the area; one leveled parts of a suburb of Peoria, Illinois. Around six dozen tornadoes occur in total with activity most concentrated in Illinois and Indiana but extending from Tennessee to Michigan. ''
+# Following the issuance of a rare High Risk for severe weather (only the fifth documented such case in November and also extending to areas further north than any previous known high risk issued in the November through February timeframe), several midwestern states in the United States are placed under multiple tornado watches, with multiple tornadoes touching down, causing at least four deaths and up to 50 injured in the area; one leveled parts of a suburb of Peoria, Illinois. Around six dozen tornadoes occur in total with activity most concentrated in Illinois and Indiana but extending from Tennessee to Michigan. '
 
 &quot;Devastating. A war zone,&quot; Washington Mayor Gary Manier said of the affected area. &quot;I walked through one of the hardest hit areas and four
 

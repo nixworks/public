@@ -7,7 +7,7 @@ _Context: Cote d'Ivoire, Ivorian Civil War_
 _Context: Democratic Republic of the Congo, Rwanda, United Nations, civil war in the Democratic Republic of Congo_
 
 ### [CBS and NBC refuse to air an advertisement by the United Church of Christ citing the advocacy of accepting homosexuals is "too controversial". The advertisement was accepted by numerous other networks including Fox, ABC and TBS. ](/news/2004/12/1/cbs-and-nbc-refuse-to-air-an-advertisement-by-the-united-church-of-christ-citing-the-advocacy-of-accepting-homosexuals-is-too-controversial.md)
-_Context: ABC, CBS, Fox Broadcasting Company, NBC, TBS, United Church of Christ, homosexual_
+_Context: ABC, CBS, Fox Broadcasting Company, NBC, TBS, United Church of Christ, gay_
 
 ### [Chinese state media confirms all 166 miners missing after a coal mine explosion in central Shaanxi province on November 28 are dead. ](/news/2004/12/1/chinese-state-media-confirms-all-166-miners-missing-after-a-coal-mine-explosion-in-central-shaanxi-province-on-november-28-are-dead.md)
 _Context: Shaanxi, mainland's state-controlled media_

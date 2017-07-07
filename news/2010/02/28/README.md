@@ -27,7 +27,7 @@ _Context: Helmand Province_
 ### [Three ETA militants, including one of its top leaders, Ibon Gogeascoechea, on the run since 1997, are detained in a French-Spanish raid in Cahan, Orne. ](/news/2010/02/28/three-eta-militants-including-one-of-its-top-leaders-ibon-gogeascoechea-on-the-run-since-1997-are-detained-in-a-french-spanish-raid-in-c.md)
 Ibon Gogeascoechea, the leader of armed Basque separatists ETA, was caught on Sunday in northern France, the Spanish Interior Ministry said, in what was the latest blow to a group weakened by hundreds of arrests.
 
-### [About eighty tons of dead fish are discovered and removed in a lagoon in Rio de Janeiro, Brazil, likely due to localized ocean anoxia and algal blooms.''](/news/2010/02/28/about-eighty-tons-of-dead-fish-are-discovered-and-removed-in-a-lagoon-in-rio-de-janeiro-brazil-likely-due-to-localized-ocean-anoxia-and-al.md)
+### [About eighty tons of dead fish are discovered and removed in a lagoon in Rio de Janeiro, Brazil, likely due to localized ocean anoxia and algal blooms.'](/news/2010/02/28/about-eighty-tons-of-dead-fish-are-discovered-and-removed-in-a-lagoon-in-rio-de-janeiro-brazil-likely-due-to-localized-ocean-anoxia-and-al.md)
 _Context: Brazil, Rio de Janeiro, algal bloom, lagoon, low oxygen_
 
 ### [Egyptian authorities announce the discovery of a granite head from a statue of Tutankhamun's grandfather Amenhotep III, which was unearthed at a temple in Luxor. ](/news/2010/02/28/egyptian-authorities-announce-the-discovery-of-a-granite-head-from-a-statue-of-tutankhamun-s-grandfather-amenhotep-iii-which-was-unearthed.md)

@@ -19,13 +19,13 @@ Mr. Shea, a Grammy Award-winning gospel singer, performed live for an estimated 
 Authorities in India reject a plan by the adult entertainment company Playboy to open its first club in the country, in Goa.
 
 ### [American Airlines grounds flights across the United States due to a glitch in its computer system until 5pm EDT leaving thousands of passengers stranded. ](/news/2013/04/16/american-airlines-grounds-flights-across-the-united-states-due-to-a-glitch-in-its-computer-system-until-5pm-edt-leaving-thousands-of-passeng.md)
-_Context: American Airlines, EST, U.S., computer system, glitch, grounds, passenger_
+_Context: American Airlines, EST, United States, computer system, glitch, grounds, passenger_
 
 ### [2013 Sistan and Baluchestan earthquake:At least 37 people are dead after a 7.8 magnitude earthquake strikes with its epicenter below Khash County, Sistan and Baluchestan Province, Iran, near the border with Pakistan. Tremors are felt throughout the Middle East, Pakistan and North India, and hundreds of deaths are expected by the Iran government. ](/news/2013/04/16/2013-sistan-and-baluchestan-earthquake-pat-least-37-people-are-dead-after-a-7-8-magnitude-earthquake-strikes-with-its-epicenter-below-khash.md)
 A 7.8-magnitude earthquake struck near Iran’s border with Pakistan, and it was felt as far away as India and the United Arab Emirates.
 
 ### [A United States military Sikorsky CH-53 Sea Stallion helicopter crashes near South Korea's border with North Korea, with no reported casualties. ](/news/2013/04/16/a-united-states-military-sikorsky-ch-53-sea-stallion-helicopter-crashes-near-south-korea-s-border-with-north-korea-with-no-reported-casualt.md)
-_Context: Korean Demilitarized Zone, North Korea, Sikorsky CH-53 Sea Stallion, South Korea, U.S., United States military_
+_Context: Korean Demilitarized Zone, North Korea, Sikorsky CH-53 Sea Stallion, South Korea, United States, United States military_
 
 ### [A gold mine collapses in Kyekyewere, Ghana, killing 16 people. ](/news/2013/04/16/a-gold-mine-collapses-in-kyekyewere-ghana-killing-16-people.md)
 _Context: Ghana, Kyekyewere, gold mine_
@@ -34,7 +34,7 @@ _Context: Ghana, Kyekyewere, gold mine_
 North Korea issued new threats against South Korea on Tuesday, vowing &quot;sledge-hammer blows&quot; of retaliation if South Korea did not apologize for anti-North Korean protests the previous day when the North was celebrating the birth of its founding leader.
 
 ### [China's defense ministry criticizes the United States for allegedly increasing tensions in the Asia-Pacific region by increasing its military presence and supporting Japan, the Philippines and Vietnam in longstanding territorial disputes. ](/news/2013/04/16/china-s-defense-ministry-criticizes-the-united-states-for-allegedly-increasing-tensions-in-the-asia-pacific-region-by-increasing-its-militar.md)
-_Context: China, Chinese Defense Ministry, Japan, Pacific, Philippines, Territorial disputes in the South China Sea, U.S., Vietnam, military presence_
+_Context: China, Chinese Defense Ministry, Japan, Pacific, Philippines, Territorial disputes in the South China Sea, United States, Vietnam, military presence_
 
 ### [Three teenagers in Liverpool, England, are convicted for beating a homeless man to death as part of a dare. ](/news/2013/04/16/three-teenagers-in-liverpool-england-are-convicted-for-beating-a-homeless-man-to-death-as-part-of-a-dare.md)
 _Context: England, Liverpool, convicted, homeless people_

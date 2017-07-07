@@ -16,7 +16,7 @@ _Context: Al Jazeera, Bradley Manning, Gene Sharp, Nobel Peace Prize_
 Germany&#039;s parliament overwhelmingly endorses a second rescue package for Greece, worth $163 billion.
 
 ### [Internet portal company Yahoo warns social network company Facebook that it believes Facebook has infringed on several Yahoo patents, between 10 and 20. ](/news/2012/02/27/internet-portal-company-yahoo-warns-social-network-company-facebook-that-it-believes-facebook-has-infringed-on-several-yahoo-patents-betwee.md)
-_Context: Facebook, Yahoo!_
+_Context: Facebook, Inc., Yahoo!_
 
 ### [A section of a nine-story apartment building in the city of Astrakhan,  Russia,  collapses in a natural gas explosion, injuring at least 12 people with 11 people missing ](/news/2012/02/27/a-section-of-a-nine-story-apartment-building-in-the-city-of-astrakhan-russia-collapses-in-a-natural-gas-explosion-injuring-at-least-12.md)
 _Context: Astrakhan, Astrakhan apartment gas explosion, Russia_

@@ -34,7 +34,7 @@ _Context: Ecuador, Julian Assange, WikiLeaks_
 _Context: China, South China Sea dispute, Spratly Islands, Vietnam_
 
 ### [Ugandan ethics minister Simon Lokodo signs a government statement saying that it does not discriminate against homosexuals and that they are free to meet. ](/news/2012/06/22/ugandan-ethics-minister-simon-lokodo-signs-a-government-statement-saying-that-it-does-not-discriminate-against-homosexuals-and-that-they-are.md)
-_Context: Simon Lokodo, Uganda, homosexual_
+_Context: Simon Lokodo, Uganda, gay_
 
 ### [Khilal Mamedov, a prominent Azeri human rights activist and journalist, is arrested on suspicion of drug possession, a move a fellow rights watchdog says is politically motivated. ](/news/2012/06/22/khilal-mamedov-a-prominent-azeri-human-rights-activist-and-journalist-is-arrested-on-suspicion-of-drug-possession-a-move-a-fellow-rights.md)
 _Context: Azeri, journalist_

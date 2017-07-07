@@ -1,7 +1,7 @@
 ## [2011-10-14](/news/2011/10/14/index.md)
 
 ### [U.S. President Barack Obama authorizes the deployment of up to 100 American soldiers to Uganda, South Sudan, the Central African Republic, and the Democratic Republic of the Congo to assist in operations against the Lord's Resistance Army insurgency. ](/news/2011/10/14/u-s-president-barack-obama-authorizes-the-deployment-of-up-to-100-american-soldiers-to-uganda-south-sudan-the-central-african-republic-a.md)
-_Context: Barack Obama, Central-African, Democratic Republic of the Congo, Lord's Resistance Army insurgency, South Sudan, Uganda_
+_Context: Barack Obama, Central African Republic, Democratic Republic of the Congo, Lord's Resistance Army insurgency, South Sudan, Uganda_
 
 ### [A United States drone attack kills a further four militants in Waziristan near Pakistan's border with Afghanistan; it is the third such attack in 48 hours. ](/news/2011/10/14/a-united-states-drone-attack-kills-a-further-four-militants-in-waziristan-near-pakistan-s-border-with-afghanistan-it-is-the-third-such-atta.md)
 _Context: Afghanistan, Pakistan, Waziristan, drones launch_

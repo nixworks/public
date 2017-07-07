@@ -1,7 +1,7 @@
 ## [2000-01-17](/news/2000/01/17/index.md)
 
 ### [In the United States, for the first time, Martin Luther King Jr. Day is officially observed in all fifty states.](/news/2000/01/17/in-the-united-states-for-the-first-time-martin-luther-king-jr-day-is-officially-observed-in-all-fifty-states.md)
-_Context: Martin Luther King Jr. Day, U.S._
+_Context: Martin Luther King Jr. Day, United States_
 
 ### [The Convention on the Protection of the Marine Environment of the Baltic Sea Area, 1992, enters into force.](/news/2000/01/17/the-convention-on-the-protection-of-the-marine-environment-of-the-baltic-sea-area-1992-enters-into-force.md)
 _Context: Convention on the Protection of the Marine Environment of the Baltic Sea Area_

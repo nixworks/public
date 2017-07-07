@@ -16,7 +16,7 @@ _Context: Nigeria, Suleja_
 _Context: Baghdad, Iraqi police, suicide bomber_
 
 ### [Rebels from Chad rob 40 people &ndash; including a local government official &ndash; in attacks in the Central African Republic. ](/news/2012/02/19/rebels-from-chad-rob-40-people-ndash-including-a-local-government-official-ndash-in-attacks-in-the-central-african-republic.md)
-_Context: Central-African, Chad_
+_Context: Central African Republic, Chad_
 
 ### [Paolo and Vittorio Taviani's ''Caesar Must Die'' wins the Golden Bear at the 62nd Berlin International Film Festival. ](/news/2012/02/19/paolo-and-vittorio-taviani-s-caesar-must-die-wins-the-golden-bear-at-the-62nd-berlin-international-film-festival.md)
 Caesar Must Die, by veteran Italian directors Paolo and Vittorio Taviani, wins the Golden Bear award at the Berlin Film Festival.

@@ -34,7 +34,7 @@ _Context: Australia, energy efficiency, fluorescent, incandescent light bulb_
 _Context: Global Spread of H5N1, Moscow, Russia, avian flu, prescriptions, quarantine_
 
 ### [ Anglican archbishops give the U.S. church an ultimatum over its approach to issues such as homosexual clergy and blessings of same-sex marriages. ](/news/2007/02/20/anglican-archbishops-give-the-u-s-church-an-ultimatum-over-its-approach-to-issues-such-as-homosexual-clergy-and-blessings-of-same-sex-marr.md)
-_Context: Anglican Church, Archbishop, U.S., homosexual, same-sex marriage, ultimatum_
+_Context: Anglican Church, Archbishop, U.S., gay, same-sex marriage, ultimatum_
 
 ### [ A powerful earthquake in northeastern Indonesia sparks a tsunami warning. ](/news/2007/02/20/a-powerful-earthquake-in-northeastern-indonesia-sparks-a-tsunami-warning.md)
 _Context: Indonesia, earthquake, tsunami_

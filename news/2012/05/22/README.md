@@ -4,7 +4,7 @@
 Yahoo Inc will sell as much as half of its 40 percent stake in Chinese e-commerce powerhouse Alibaba Group for $7.1 billion (4.48 billion pounds), ending years of fractious talks over how to extract value from its most prized asset.
 
 ### [The Securities Division of the government of Massachusetts subpoenas financial services firm Morgan Stanley (MS), in connection with an MS analyst's talks with institutional investors prior to the Facebook initial public offering. ](/news/2012/05/22/the-securities-division-of-the-government-of-massachusetts-subpoenas-financial-services-firm-morgan-stanley-ms-in-connection-with-an-ms-a.md)
-_Context: Facebook, IPO, Massachusetts, Morgan Stanley, Securities Division, subpoena_
+_Context: Facebook, Inc., IPO, Massachusetts, Morgan Stanley, Securities Division, subpoena_
 
 ### [At least 14 people die and 30 are injured after the Hampi Express collides with a goods train in the Indian state of Andhra Pradesh. ](/news/2012/05/22/at-least-14-people-die-and-30-are-injured-after-the-hampi-express-collides-with-a-goods-train-in-the-indian-state-of-andhra-pradesh.md)
 AT LEAST 14 people have been killed and about 30 injured when a passenger train collided with a stationary goods train in southern India.

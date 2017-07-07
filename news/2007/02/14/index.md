@@ -1,7 +1,7 @@
 ## [2007-02-14](/news/2007/02/14/index.md)
 
 ### [ The United States redeploys the 173rd Airborne Brigade to Afghanistan to prepare for an anticipated spring offensive by the Taliban. ](/news/2007/02/14/the-united-states-redeploys-the-173rd-airborne-brigade-to-afghanistan-to-prepare-for-an-anticipated-spring-offensive-by-the-taliban.md)
-_Context: 173rd Airborne Brigade, Afghanistan, Taliban, U.S., redeploys_
+_Context: 173rd Airborne Brigade, Afghanistan, Taliban, United States, redeploys_
 
 ### [ Bombay Stock Exchange sells 5 percent stake to Germany's Deutsche Brse. ](/news/2007/02/14/bombay-stock-exchange-sells-5-percent-stake-to-germany-s-deutsche-borse.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
@@ -28,7 +28,7 @@ _Context: CIA, European Parliament, European Union member states_
 _Context: Beirut, Lebanon, Lebanese Prime Minister, Rafik Hariri_
 
 ### [ Leaders of the Anglican Church meet in Tanzania with a possibility of a schism over the issue of homosexual clergy. ](/news/2007/02/14/leaders-of-the-anglican-church-meet-in-tanzania-with-a-possibility-of-a-schism-over-the-issue-of-homosexual-clergy.md)
-_Context: Anglican Church, Tanzania, cleric, homosexual, schism_
+_Context: Anglican Church, Tanzania, cleric, gay, schism_
 
 ### [ Gurbanguly Berdimuhamedow is sworn in as President of Turkmenistan.  ](/news/2007/02/14/gurbanguly-berdimuhamedow-is-sworn-in-as-president-of-turkmenistan.md)
 _Context: Gurbanguly Berdimuhamedow, president_

@@ -1,25 +1,25 @@
 ## [2010-01-21](/news/2010/01/21/index.md)
 
 ### [Operation Aurora:Chinese Vice-Foreign Minister He Yafei downplays the government's row with Google, saying it does not affect relations with the United States. ](/news/2010/01/21/operation-aurora-pchinese-vice-foreign-minister-he-yafei-downplays-the-government-s-row-with-google-saying-it-does-not-affect-relations-wit.md)
-_Context: Foreign Minister, Google, He Yafei, People's Republic of China, U.S., cyber attacks, government_
+_Context: Foreign Minister, Google, He Yafei, People's Republic of China, United States, cyber attacks, government_
 
 ### [U.S. Secretary of Defense Robert Gates makes his first visit to Pakistan. ](/news/2010/01/21/u-s-secretary-of-defense-robert-gates-makes-his-first-visit-to-pakistan.md)
-_Context: Pakistan, Robert Gates, Secretary of Defense, U.S._
+_Context: Pakistan, Robert Gates, Secretary of Defense, United States_
 
 ### [U.S. investment bank Goldman Sachs reports a sharp increase in profits for 2009, beating analysts' expectations. ](/news/2010/01/21/u-s-investment-bank-goldman-sachs-reports-a-sharp-increase-in-profits-for-2009-beating-analysts-expectations.md)
 Goldman Sachs reported strong earnings on Thursday, but the bank reduced the share of revenue going to bonuses.
 
 ### [The United States sends an additional 2,000 troops to Haiti to help with earthquake relief efforts. ](/news/2010/01/21/the-united-states-sends-an-additional-2-000-troops-to-haiti-to-help-with-earthquake-relief-efforts.md)
-_Context: 2010 Haiti earthquake, Haiti, U.S., relief_
+_Context: 2010 Haiti earthquake, Haiti, United States, relief_
 
 ### [Chinese economy grows 8.7% in 2009. ](/news/2010/01/21/chinese-economy-grows-8-7-in-2009.md)
 _Context: Economy of the People's Republic of China, People's Republic of China_
 
 ### [Virginia, United States shootings suspect Christopher Speight is charged with first degree murder. ](/news/2010/01/21/virginia-united-states-shootings-suspect-christopher-speight-is-charged-with-first-degree-murder.md)
-_Context: Christopher Speight, U.S., Virginia, first-degree murder_
+_Context: Christopher Speight, United States, Virginia, first-degree murder_
 
 ### [United States Supreme Court overturns campaign spending limits by corporations and unions. ](/news/2010/01/21/united-states-supreme-court-overturns-campaign-spending-limits-by-corporations-and-unions.md)
-_Context: U.S., overturns campaign spending limits_
+_Context: United States, overturns campaign spending limits_
 
 ### [The Parliament of Angola approves a new constitution that abolishes direct presidential elections. ](/news/2010/01/21/the-parliament-of-angola-approves-a-new-constitution-that-abolishes-direct-presidential-elections.md)
 _Context: Angola, Parliament, President of Angola, constitution, elections_

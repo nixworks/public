@@ -25,7 +25,7 @@ Prime Minister Saad Hariri on Tuesday wrapped up a two-day official visit to Rus
 European finance ministers say they did not hold detailed discussions on a potential bail-out for the Irish Republic at a meeting in Brussels.
 
 ### [A United States bankruptcy judge orders Bank of America to return $500 million it seized from the bank accounts of the defunct Lehman Brothers trading firm a few weeks before Lehman declared bankruptcy in 2008. ](/news/2010/11/17/a-united-states-bankruptcy-judge-orders-bank-of-america-to-return-500-million-it-seized-from-the-bank-accounts-of-the-defunct-lehman-brothe.md)
-_Context: Bank of America, Lehman Brothers, U.S., US$_
+_Context: Bank of America, Lehman Brothers, US$, United States_
 
 ### [New home construction fell to its lowest level since April 2009. ](/news/2010/11/17/new-home-construction-fell-to-its-lowest-level-since-april-2009.md)
 _Context: April 2009, Economy of the United States_
@@ -58,7 +58,7 @@ _Context: Guinea, November's presidential poll, state of emergency_
 _Context: Alaska senate  election, Lisa Murkowski, United States Senate, write-in candidate_
 
 ### [Facebook inadvertently disabled some users' accounts when a system designed to detect fake accounts malfunctioned. The problem has since been resolved. ](/news/2010/11/17/facebook-inadvertently-disabled-some-users-accounts-when-a-system-designed-to-detect-fake-accounts-malfunctioned-the-problem-has-since-bee.md)
-_Context: Facebook_
+_Context: Facebook, Inc._
 
 ### [A study published by ''The Lancet'' medical journal describes how short blasts of radio waves to the kidney may help regulate blood pressure. ](/news/2010/11/17/a-study-published-by-the-lancet-medical-journal-describes-how-short-blasts-of-radio-waves-to-the-kidney-may-help-regulate-blood-pressure.md)
 A short blast of radio waves to the kidneys can help control high blood pressure in patients who do not respond to medication, a study shows.

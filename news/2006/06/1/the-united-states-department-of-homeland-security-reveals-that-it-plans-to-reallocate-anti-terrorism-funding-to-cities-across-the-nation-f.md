@@ -1,6 +1,6 @@
 ### [2006-06-1](/news/2006/06/1/index.md)
 
-#  The United States Department of Homeland Security reveals that it plans to reallocate anti-terrorism funding to cities across the nation. Funding to New York City and Washington, D.C. is cut, while funding in cities such as Omaha, Nebraska and Los Angeles, California increases. New York Mayor Michael Bloomberg's office calls the report's statement that there are no "national monuments or icons" in New York City "outrageous."
+#  The United States Department of Homeland Security reveals that it plans to reallocate anti-terrorism funding to cities across the nation. Funding to New York City and Washington, D.C. is cut, while funding in cities such as Omaha, Nebraska and Los Angeles, California increases. New York Mayor Michael Bloomberg's office calls the report's statement that there are no "national monuments or icons" in New York City "outrageous.
 
 
 

@@ -37,7 +37,7 @@ _Context: India, Mumbai, Pakistan_
 Harrison and Chris Buckley
 
 ### [ Police in Hong Kong attempt to find the founder of a Facebook group whose members claim to have planned to commit a mass suicide on December 21. ](/news/2009/11/26/police-in-hong-kong-attempt-to-find-the-founder-of-a-facebook-group-whose-members-claim-to-have-planned-to-commit-a-mass-suicide-on-decembe.md)
-_Context: Facebook, Hong Kong, mass suicide_
+_Context: Facebook, Inc., Hong Kong, mass suicide_
 
 ### [ Citizens of St Vincent and the Grenadines reject a new constitution which would have replaced Queen Elizabeth II with a president as Head of State. ](/news/2009/11/26/citizens-of-st-vincent-and-the-grenadines-reject-a-new-constitution-which-would-have-replaced-queen-elizabeth-ii-with-a-president-as-head-o.md)
 _Context: Queen Elizabeth II, St. Vincent and the Grenadines, constitution, head of state, reject_

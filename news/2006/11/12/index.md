@@ -1,7 +1,7 @@
 ## [2006-11-12](/news/2006/11/12/index.md)
 
 ### [ Central African Republic Civil War: Rebels claim to have captured a second town in the Central African Republic during a two-week-long offensive. ](/news/2006/11/12/central-african-republic-civil-war-rebels-claim-to-have-captured-a-second-town-in-the-central-african-republic-during-a-two-week-long-offe.md)
-_Context: Central African Republic Civil War, Central-African_
+_Context: Central African Republic, Central African Republic Civil War_
 
 ### [ Iranian nuclear program: Israel threatens to launch air strikes on Iran's nuclear facilities "as a last resort", and the Iranian foreign ministry responds that it would "retaliate with a crushing blow" should Israel act. ](/news/2006/11/12/iranian-nuclear-program-israel-threatens-to-launch-air-strikes-on-iran-s-nuclear-facilities-as-a-last-resort-and-the-iranian-foreign-mi.md)
 _Context: Israel, nuclear programme_

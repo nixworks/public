@@ -1,6 +1,6 @@
 ### [2014-01-24](/news/2014/01/24/index.md)
 
-# Euromaidan:Unrest in the Ukraine spreads to the cities of Khmelnitsky, Zhytomyr, Cherkasy, Lviv (Lvov), Ternopil, Ivano-Frankivsk, Lutsk, Rivne and Chernivtsi. In Rivne and Lviv, the offices of the governors were broken into; the Lviv regional governor was forced to sign a letter of resignation. ''
+# Euromaidan:Unrest in the Ukraine spreads to the cities of Khmelnitsky, Zhytomyr, Cherkasy, Lviv (Lvov), Ternopil, Ivano-Frankivsk, Lutsk, Rivne and Chernivtsi. In Rivne and Lviv, the offices of the governors were broken into; the Lviv regional governor was forced to sign a letter of resignation. '
 
 
 

@@ -4,7 +4,7 @@
 A suicide car bomb kills 13 off-duty soldiers in central Turkey and wounds 56 others.
 
 ### [The President of Venezuela, Nicolas Maduro suspends plans to eliminate the 100 bolivar note from circulation, in a country where much of the population lives on cash, without bank accounts. ](/news/2016/12/17/the-president-of-venezuela-nicolas-maduro-suspends-plans-to-eliminate-the-100-bolavar-note-from-circulation-in-a-country-where-much-of-th.md)
-_Context: Nicols Maduro, Venezuela, bolivar_
+_Context: Nicolas Maduro, Venezuela, bolivar_
 
 ### [Tsunami warnings are issued for the Pacific region, including Indonesia and  the Solomon Islands, following a 7.9 magnitude earthquake east of Papua New Guinea. The Pacific Tsunami Warning Center later reports the threat has largely passed. ](/news/2016/12/17/tsunami-warnings-are-issued-for-the-pacific-region-including-indonesia-and-the-solomon-islands-following-a-7-9-magnitude-earthquake-east.md)
 _Context: Indonesia, Pacific Tsunami Warning Center, Papua New Guinea, Solomon Islands, magnitude_

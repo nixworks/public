@@ -10,7 +10,7 @@ _Context: Algeria, France, French nuclear power technology_
 _Context: Kidnap, Somalia, United Nations High Commissioner for Refugees_
 
 ### [ The Government of the Central African Republic signs a peace deal with two rebel groups which promises amnesty for rebel soldiers. ](/news/2008/06/21/the-government-of-the-central-african-republic-signs-a-peace-deal-with-two-rebel-groups-which-promises-amnesty-for-rebel-soldiers.md)
-_Context: Central-African, amnesty_
+_Context: Central African Republic, amnesty_
 
 ### [ Militants in Delta State, Nigeria, blow up a Chevron oil pipeline leading to a cessation of production by Chevron in Nigeria. ](/news/2008/06/21/militants-in-delta-state-nigeria-blow-up-a-chevron-oil-pipeline-leading-to-a-cessation-of-production-by-chevron-in-nigeria.md)
 _Context: Chevron Corporation, Delta State, Nigeria_
@@ -19,7 +19,7 @@ _Context: Chevron Corporation, Delta State, Nigeria_
 More than 800 people were missing on Monday after a Philippine ferry capsized in a typhoon that has killed scores and left a trail of destruction across the archipelago.
 
 ### [ South Korea renegotiates its beef import deal with the United States following widespread protests at the original deal due to concerns over mad cow disease. ](/news/2008/06/21/south-korea-renegotiates-its-beef-import-deal-with-the-united-states-following-widespread-protests-at-the-original-deal-due-to-concerns-ove.md)
-_Context: South Korea, U.S., beef imports, mad cow disease_
+_Context: South Korea, United States, beef imports, mad cow disease_
 
 ### [ Four ISAF soldiers are killed by a bomb in Afghanistan. ](/news/2008/06/21/four-isaf-soldiers-are-killed-by-a-bomb-in-afghanistan.md)
 Roadside bombs killed five foreign troops in Afghanistan on Saturday, military officials said, extending a series of daily attacks that have lifted the death toll for foreign forces this year to more than 100. 

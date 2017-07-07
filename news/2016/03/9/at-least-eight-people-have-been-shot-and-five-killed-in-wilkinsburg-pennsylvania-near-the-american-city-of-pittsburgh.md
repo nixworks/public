@@ -1,6 +1,6 @@
 ### [2016-03-9](/news/2016/03/9/index.md)
 
-# At least eight people have been shot and five killed in Wilkinsburg, Pennsylvania near the American city of Pittsburgh. '
+# At least eight people have been shot and five killed in Wilkinsburg, Pennsylvania near the American city of Pittsburgh. 
 
 At least eight people have been shot and five killed in a mass shooting in the US city of Pittsburgh, Pennsylvania.
 

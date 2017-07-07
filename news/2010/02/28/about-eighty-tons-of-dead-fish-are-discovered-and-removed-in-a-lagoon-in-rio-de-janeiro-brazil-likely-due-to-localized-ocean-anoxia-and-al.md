@@ -1,6 +1,6 @@
 ### [2010-02-28](/news/2010/02/28/index.md)
 
-# About eighty tons of dead fish are discovered and removed in a lagoon in Rio de Janeiro, Brazil, likely due to localized ocean anoxia and algal blooms.''
+# About eighty tons of dead fish are discovered and removed in a lagoon in Rio de Janeiro, Brazil, likely due to localized ocean anoxia and algal blooms.'
 
 
 

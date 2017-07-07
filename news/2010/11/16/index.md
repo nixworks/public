@@ -4,7 +4,7 @@
 _Context: Battambang Province, Cambodia_
 
 ### [A suspected US missile attack on insurgents in the village of Bangi Dar in the North Waziristan region of Pakistan kills at least 15. ](/news/2010/11/16/a-suspected-us-missile-attack-on-insurgents-in-the-village-of-bangi-dar-in-the-north-waziristan-region-of-pakistan-kills-at-least-15.md)
-_Context: North Waziristan, Pakistan, U.S._
+_Context: North Waziristan, Pakistan, United States_
 
 ### [Iran started a 5-day air defense drill, claimed by its government to be the biggest drill of its kind ever. The drills are held near its nuclear facilities. ](/news/2010/11/16/iran-started-a-5-day-air-defense-drill-claimed-by-its-government-to-be-the-biggest-drill-of-its-kind-ever-the-drills-are-held-near-its-nuc.md)
 Iran began what it said was its biggest ever air defense drill on Tuesday to test its ability to deter air strikes, which the United States and Israel have not ruled out to prevent it from developing nuclear weapons.
@@ -22,7 +22,7 @@ _Context: France, Mexico, Nairobi, Representative List of the Intangible Cultura
 Archbishop Timothy M. Dolan of New York will lead the United States Conference of Catholic Bishops.
 
 ### [Facebook announces that it will launch a new messaging platform, providing an email address of "@facebook.com." ](/news/2010/11/16/facebook-announces-that-it-will-launch-a-new-messaging-platform-providing-an-email-address-of-facebook-com.md)
-_Context: @facebook.com, Facebook, email_
+_Context: @facebook.com, Facebook, Inc., email_
 
 ### [ExxonMobil says a raid by Movement for the Emancipation of the Niger Delta, a militant Nigerian group, has eliminated 45,000 barrels a day of production of natural gas liquids and condensates. ](/news/2010/11/16/exxonmobil-says-a-raid-by-movement-for-the-emancipation-of-the-niger-delta-a-militant-nigerian-group-has-eliminated-45-000-barrels-a-day-o.md)
 * Attack shuts in 45,000 bpd condensate, NGL output * Exxon says 8 people missing after platform raid * MEND claims responsibility, threat
@@ -61,7 +61,7 @@ The Government is close to finalising its four-year fiscal plan and pending appr
 _Context: Charlie Rangel, United States House Committee on Standards of Official Conduct, United States House of Representatives_
 
 ### [The President of the United States Barack Obama presents a Medal of Honor, the highest United States military decoration to  Staff Sgt Salvatore Giunta at the White House. ](/news/2010/11/16/the-president-of-the-united-states-barack-obama-presents-a-medal-of-honor-the-highest-united-states-military-decoration-to-staff-sgt-salva.md)
-_Context: Barack Obama, Medal of Honor, Salvatore Giunta, U.S., United States President, White House_
+_Context: Barack Obama, Medal of Honor, Salvatore Giunta, United States, United States President, White House_
 
 ### [U.S. Republican Party Senators adopt a ban on earmarking, or setting aside money in bills for specific purposes specified by legislators. ](/news/2010/11/16/u-s-republican-party-senators-adopt-a-ban-on-earmarking-or-setting-aside-money-in-bills-for-specific-purposes-specified-by-legislators.md)
 _Context: R, United States Senate, earmarking_

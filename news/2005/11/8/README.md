@@ -13,7 +13,7 @@ _Context: Jacques Chirac, banlieue, civil unrest, curfew, state of emergency_
 _Context: Adel al-Zubeidi, Saddam Hussein, Taha Yassin Ramadan, Trial of Saddam Hussein, Vice President, assassinated, defense lawyer_
 
 ### [ Italian state-owned channel RaiNews 24 airs a controversial documentary in which Iraqi people and ex-U.S. soldiers report that white phosphorus, a chemical weapon, and Mk-77 napalm bombs were used by the U.S. Army against civilians in Fallujah last year. ](/news/2005/11/8/italian-state-owned-channel-rainews-24-airs-a-controversial-documentary-in-which-iraqi-people-and-ex-u-s-soldiers-report-that-white-phosph.md)
-_Context: Fallujah, Iraq, Italy, Mk-77, RaiNews 24, U.S., United States Army, chemical warfare, civilian, documentary, napalm, white phosphorus_
+_Context: Fallujah, Iraq, Italy, Mk-77, RaiNews 24, United States, United States Army, chemical warfare, civilian, documentary, napalm, white phosphorus_
 
 ### [ 2005 Sydney terrorism plot: Australian authorities arrest nine men, led by Abdul Nacer Benbrika, in a counterterrorism raid. Benbrika and six other men are later convicted of terrorism-related offenses. ](/news/2005/11/8/2005-sydney-terrorism-plot-australian-authorities-arrest-nine-men-led-by-abdul-nacer-benbrika-in-a-counterterrorism-raid-benbrika-and-s.md)
 _Context: 2005 Sydney terrorism plot, Abdul Nacer Benbrika, Australia, counterterrorism, terrorism_

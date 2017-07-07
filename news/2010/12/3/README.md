@@ -22,7 +22,7 @@ Thousands stranded as air traffic controllers stay away from work, forcing milit
 Emergency cabinet meeting backs plans to raise the the pension age to 67 after controversial asset sales were announced.
 
 ### [Nissan starts selling the Leaf, one of the first mass market electric cars. ](/news/2010/12/3/nissan-starts-selling-the-leaf-one-of-the-first-mass-market-electric-cars.md)
-_Context: Nissan, Nissan Leaf, electric car, mass market_
+_Context: Nissan, Nissan Leaf, electric, mass market_
 
 ### [1984 Bhopal disaster: The Indian government launches a court case to more than double the compensation paid by U.S. chemical corporation Union Carbide on the anniversary of the leak from a Madhya Pradesh plant that killed thousands of people. ](/news/2010/12/3/1984-bhopal-disaster-the-indian-government-launches-a-court-case-to-more-than-double-the-compensation-paid-by-u-s-chemical-corporation-uni.md)
 _Context: 1984 Bhopal disaster, Madhya Pradesh, Union Carbide_

@@ -7,12 +7,12 @@ _Context: Afghanistan, Central Intelligence Agency, German intelligence, Khalid 
 _Context: 16th World Economic Forum on Africa, Cape Town, South Africa_
 
 ### [ China, France, Germany, Russia, the United Kingdom and the United States agree on a package of incentives and sanctions for Iran. ](/news/2006/06/1/china-france-germany-russia-the-united-kingdom-and-the-united-states-agree-on-a-package-of-incentives-and-sanctions-for-iran.md)
-_Context: France, German, Iran, People's Republic of China, Russia, U.S., United Kingdom_
+_Context: France, German, Iran, People's Republic of China, Russia, United Kingdom, United States_
 
 ### [ A report issued by the United States Army Corps of Engineers admits their responsibility for 2005 levee failures that flooded the majority of New Orleans, Louisiana in the aftermath of Hurricane Katrina. ](/news/2006/06/1/a-report-issued-by-the-united-states-army-corps-of-engineers-admits-their-responsibility-for-2005-levee-failures-that-flooded-the-majority.md)
 _Context: 2005 levee failures, Hurricane Katrina, New Orleans, Louisiana, United States Army Corps of Engineers_
 
-### [ The United States Department of Homeland Security reveals that it plans to reallocate anti-terrorism funding to cities across the nation. Funding to New York City and Washington, D.C. is cut, while funding in cities such as Omaha, Nebraska and Los Angeles, California increases. New York Mayor Michael Bloomberg's office calls the report's statement that there are no "national monuments or icons" in New York City "outrageous."](/news/2006/06/1/the-united-states-department-of-homeland-security-reveals-that-it-plans-to-reallocate-anti-terrorism-funding-to-cities-across-the-nation-f.md)
+### [ The United States Department of Homeland Security reveals that it plans to reallocate anti-terrorism funding to cities across the nation. Funding to New York City and Washington, D.C. is cut, while funding in cities such as Omaha, Nebraska and Los Angeles, California increases. New York Mayor Michael Bloomberg's office calls the report's statement that there are no "national monuments or icons" in New York City "outrageous.](/news/2006/06/1/the-united-states-department-of-homeland-security-reveals-that-it-plans-to-reallocate-anti-terrorism-funding-to-cities-across-the-nation-f.md)
 _Context: Department of Homeland Security, Los Angeles, California, Michael Bloomberg, New York City, Omaha, Nebraska, Washington, D.C._
 
 ### [ The Government of Spain overturns the conviction of Imad Yarkas on charges of conspiracy in the September 11, 2001 attacks after the prosecutor admits that evidence of involvement in the conspiracy was "inconsistent, almost nonexistent." The Spanish government says it will provide further explanation in the coming days. ](/news/2006/06/1/the-government-of-spain-overturns-the-conviction-of-imad-yarkas-on-charges-of-conspiracy-in-the-september-11-2001-attacks-after-the-prosec.md)

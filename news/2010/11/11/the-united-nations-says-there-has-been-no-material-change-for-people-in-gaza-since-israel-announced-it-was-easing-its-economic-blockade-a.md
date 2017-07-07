@@ -1,6 +1,6 @@
 ### [2010-11-11](/news/2010/11/11/index.md)
 
-# The United Nations says there has been "no material change" for people in Gaza since Israel announced it was easing its economic blockade. An Israeli spokesman stated that the reason for the blockade was "because the territory has been overtaken by a declared terror movement."
+# The United Nations says there has been "no material change" for people in Gaza since Israel announced it was easing its economic blockade. An Israeli spokesman stated that the reason for the blockade was "because the territory has been overtaken by a declared terror movement.
 
 The UN says there has been no material change for people in Gaza since Israel eased its blockade of the Palestinian territory.
 

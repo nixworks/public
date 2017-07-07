@@ -1,6 +1,6 @@
 ## [2006-10-24](/news/2006/10/24/index.md)
 
-### [ Ethiopian Prime Minister Meles Zenawi accuses the Government of Eritrea of jeopardizing regional stability by engaging in a proxy war through its assistance to the Islamic Courts Union in Somalia. Zenawi warns the Ethiopian Parliament that "Jihadists are amassing their forces near our borders."](/news/2006/10/24/ethiopian-prime-minister-meles-zenawi-accuses-the-government-of-eritrea-of-jeopardizing-regional-stability-by-engaging-in-a-proxy-war-throu.md)
+### [ Ethiopian Prime Minister Meles Zenawi accuses the Government of Eritrea of jeopardizing regional stability by engaging in a proxy war through its assistance to the Islamic Courts Union in Somalia. Zenawi warns the Ethiopian Parliament that "Jihadists are amassing their forces near our borders.](/news/2006/10/24/ethiopian-prime-minister-meles-zenawi-accuses-the-government-of-eritrea-of-jeopardizing-regional-stability-by-engaging-in-a-proxy-war-throu.md)
 _Context: Ethiopian Prime Minister, Islamic Courts Union, Meles Zenawi, Somalia, government, jihad, proxy war_
 
 ### [ The Dow Jones Industrial Average closes at another record high. ](/news/2006/10/24/the-dow-jones-industrial-average-closes-at-another-record-high.md)

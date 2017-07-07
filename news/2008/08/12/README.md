@@ -1,7 +1,7 @@
 ## [2008-08-12](/news/2008/08/12/index.md)
 
 ### [ On August 12, 2008, a class action lawsuit was filed against Facebook, Blockbuster Inc., Overstock.com, Fandango, Hotwire.com, GameFly, Zappos.com, and any additional "John Doe" corporations that activated Facebook Beacon when they released their common member's personal information to their Facebook user friends without their consent through the Facebook Beacon program. The lawsuit alleges the release of the information was a violation of the Video Privacy Protection Act, Electronic Communication Privacy Act, Computer Fraud and Abuse Act, California Consumer Legal Remedies Act, and the California Computer Crime Law.](/news/2008/08/12/on-august-12-2008-a-class-action-lawsuit-was-filed-against-facebook-blockbuster-inc-overstock-com-fandango-hotwire-com-gamefly-zap.md)
-_Context: Blockbuster, California Computer Crime Law, California Consumer Legal Remedies Act, Computer Fraud and Abuse Act, Electronic Communication Privacy Act, Facebook, Facebook Beacon, Fandango, GameFly, Hotwire.com, Overstock.com, Video Privacy Protection Act, Zappos.com_
+_Context: Blockbuster, California Computer Crime Law, California Consumer Legal Remedies Act, Computer Fraud and Abuse Act, Electronic Communication Privacy Act, Facebook Beacon, Facebook, Inc., Fandango, GameFly, Hotwire.com, Overstock.com, Video Privacy Protection Act, Zappos.com_
 
 ### [ A missile strike on a suspected militant training camp in South Waziristan in Pakistan kills at least nine people. ](/news/2008/08/12/a-missile-strike-on-a-suspected-militant-training-camp-in-south-waziristan-in-pakistan-kills-at-least-nine-people.md)
 _Context: Pakistan, South Waziristan_
