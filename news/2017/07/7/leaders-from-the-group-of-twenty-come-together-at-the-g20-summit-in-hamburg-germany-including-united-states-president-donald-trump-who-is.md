@@ -11,6 +11,7 @@ The United States, Russia and Jordan have reached a ceasefire and &quot;de-escal
 2. [AP](http://hosted.ap.org/dynamic/stories/E/EU_UNITED_STATES_RUSSIA_SYRIA)
 3. [CNN](http://www.cnn.com/2017/07/07/europe/ode-to-joy-beethoven-g20-merkel-trump/index.html)
 4. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-ceasefire-idUSKBN19S2DG?il=0)
+5. [The Guardian](https://www.theguardian.com/world/2017/jul/07/g20-protests-hamburg-altona-messehalle)
 
 ### Related:
 
