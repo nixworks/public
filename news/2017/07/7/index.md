@@ -9,7 +9,7 @@ Israel denounces the decision, accusing the UN cultural agency of being a &quot;
 ### [Berkshire Hathaway Inc. agrees to pay USD$9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery. ](/news/2017/07/7/berkshire-hathaway-inc-agrees-to-pay-usd-9-billion-to-buy-the-parent-of-texas-power-transmission-company-oncor-electric-delivery.md)
 _Context: Berkshire Hathaway Inc., Oncor Electric Delivery, Texas, USD_
 
-### [Sears, Roebuck & Co. has announced Friday it will be closing eight more of its namesake department stores, as well as thirty five K-Mart locations in addition to the hundred and fifty stores that they had announced in January would be shuttered. ](/news/2017/07/7/sears-roebuck-co-has-announced-friday-it-will-be-closing-eight-more-of-its-namesake-department-stores-as-well-as-thirty-five-k-mart-loc.md)
+### [Sears, Roebuck & Co. has announced Friday it will be closing eight more of its namesake department stores, as well as thirty five Kmart locations in addition to the hundred and fifty stores that they had announced in January would be shuttered. ](/news/2017/07/7/sears-roebuck-co-has-announced-friday-it-will-be-closing-eight-more-of-its-namesake-department-stores-as-well-as-thirty-five-kmart-loca.md)
 Sears Holdings Corp (SHLD.O) is closing eight of its namesake department stores and 35 Kmart locations to cut costs and square footage in an effort to return to profitability, Chief Executive Officer Eddie Lampert said on Friday.
 
 ### [Severe flooding on the Japanese island of Kyushu has caused seven deaths with twenty people unaccounted for. ](/news/2017/07/7/severe-flooding-on-the-japanese-island-of-kyushu-has-caused-seven-deaths-with-twenty-people-unaccounted-for.md)
@@ -48,7 +48,7 @@ _Context: Aden, Aden Governorate, Aidarus al-Zoubaidi, Yemen's, Yemeni Civil War
 ### [South Australia finalizes a deal with Tesla, spearheaded by tweets originating from CEO of Tesla Elon Musk, to install a battery system in the state. Tesla said in a statement that upon completion by December 2017, the system would be the largest lithium-ion battery storage project in the world, overtaking an 80 megawatt-hour power station at Mira Loma in California also built using Tesla batteries. ](/news/2017/07/7/south-australia-finalizes-a-deal-with-tesla-spearheaded-by-tweets-originating-from-ceo-of-tesla-elon-musk-to-install-a-battery-system-in-t.md)
 _Context: California, Elon Musk, Mira Loma, Renewable energy in Australia, South Australia, Tesla, lithium-ion battery, megawatt-hour_
 
-### [Phoenix, Arizona records an air temperature of 118|F|C at Sky Harbor Airport, breaking the record for hottest temperature recorded in the city that was recorded in 1905. ](/news/2017/07/7/phoenix-arizona-records-an-air-temperature-of-118-f-c-at-sky-harbor-airport-breaking-the-record-for-hottest-temperature-recorded-in-the-ci.md)
+### [Phoenix, Arizona records an air temperature of 118|F|C at Sky Harbor Airport, breaking the city's record for hottest temperature recorded on this calendar date, set in 1905. ](/news/2017/07/7/phoenix-arizona-records-an-air-temperature-of-118-f-c-at-sky-harbor-airport-breaking-the-city-s-record-for-hottest-temperature-recorded-on.md)
 _Context: Phoenix, Arizona, Sky Harbor Airport, air temperature_
 
 ## [Previous Day...](/news/2017/07/6/index.md)
