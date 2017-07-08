@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/L/LT_US_PANAMA_FORMER_PRESIDENT?)
+1. [AP](http://hosted.ap.org/dynamic/stories/L/LT_US_PANAMA_FORMER_PRESIDENT)
 
 ### Related:
 

@@ -1,6 +1,6 @@
 ### [2017-07-7](/news/2017/07/7/index.md)
 
-# Sears, Roebuck & Co. has announced Friday it will be closing eight more of its namesake department stores, as well as thirty five K-Mart locations in addition to the hundred and fifty stores that they had announced in January would be shuttered. CEO Eddie Lampert has stated "This is part of a strategy both to address losses from unprofitable stores and to reduce the square footage of other stores because many of them are simply too big for our current needs." Shares of Sears fell as much as 4.8% on the news. 
+# Sears, Roebuck & Co. has announced Friday it will be closing eight more of its namesake department stores, as well as thirty five K-Mart locations in addition to the hundred and fifty stores that they had announced in January would be shuttered. 
 
 Sears Holdings Corp (SHLD.O) is closing eight of its namesake department stores and 35 Kmart locations to cut costs and square footage in an effort to return to profitability, Chief Executive Officer Eddie Lampert said on Friday.
 

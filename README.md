@@ -1,4 +1,15 @@
-## [News](/news/2017/07/7/index.md)
+## [News](/news/2017/07/8/index.md)
+
+### [The death toll from flooding on the southern Japanese island of Kyushu following a tropical storm rises to fifteen with six people feared dead. ](/news/2017/07/8/the-death-toll-from-flooding-on-the-southern-japanese-island-of-kyushu-following-a-tropical-storm-rises-to-fifteen-with-six-people-feared-de.md)
+The death toll from heavy rain and flooding in southern Japan this week has risen to 15 as rescue workers reached isolated villages where at least six others are missing and feared dead.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/07/7/index.md)
 
 ### [Masked militants attack an Egyptian Army checkpoint in a village south of Rafah, North Sinai Governorate, killing at least 23 soldiers, including a high-ranking special forces colonel. ](/news/2017/07/7/masked-militants-attack-an-egyptian-army-checkpoint-in-a-village-south-of-rafah-north-sinai-governorate-killing-at-least-23-soldiers-incl.md)
 Militants rammed military compound with car before opening fire in village of el-Barth, security officials say
@@ -6,14 +17,14 @@ Militants rammed military compound with car before opening fire in village of el
 ### [UNESCO declares the old city of Hebron, and the Cave of the Patriarchs in the West Bank as world heritage sites. ](/news/2017/07/7/unesco-declares-the-old-city-of-hebron-and-the-cave-of-the-patriarchs-in-the-west-bank-as-world-heritage-sites.md)
 Israel denounces the decision, accusing the UN cultural agency of being a &quot;political tool&quot;.
 
-### [ New religious movement 'Tabernacle Society' starts in the Australian region of the Central Coast (New South Wales) by Dean Liddell ](/news/2017/07/7/new-religious-movement-tabernacle-society-starts-in-the-australian-region-of-the-central-coast-new-south-wales-by-dean-liddell.md)
-_Context: Australian, Central Coast (New South Wales)_
+### [Berkshire Hathaway Inc. agrees to pay USD$9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery. ](/news/2017/07/7/berkshire-hathaway-inc-agrees-to-pay-usd-9-billion-to-buy-the-parent-of-texas-power-transmission-company-oncor-electric-delivery.md)
+_Context: Berkshire Hathaway Inc., Oncor Electric Delivery, Texas, USD_
 
-### [Warren Buffett's Berkshire Hathaway Inc. agrees to pay USD$9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery stepping up its pursuit of steady profits from utilities and infrastructure deals. ](/news/2017/07/7/warren-buffett-s-berkshire-hathaway-inc-agrees-to-pay-usd-9-billion-to-buy-the-parent-of-texas-power-transmission-company-oncor-electric-de.md)
-_Context: Berkshire Hathaway Inc., Oncor Electric Delivery, Texas, USD, Warren Buffett_
-
-### [Sears, Roebuck & Co. has announced Friday it will be closing eight more of its namesake department stores, as well as thirty five K-Mart locations in addition to the hundred and fifty stores that they had announced in January would be shuttered. CEO Eddie Lampert has stated "This is part of a strategy both to address losses from unprofitable stores and to reduce the square footage of other stores because many of them are simply too big for our current needs." Shares of Sears fell as much as 4.8% on the news. ](/news/2017/07/7/sears-roebuck-co-has-announced-friday-it-will-be-closing-eight-more-of-its-namesake-department-stores-as-well-as-thirty-five-k-mart-loc.md)
+### [Sears, Roebuck & Co. has announced Friday it will be closing eight more of its namesake department stores, as well as thirty five K-Mart locations in addition to the hundred and fifty stores that they had announced in January would be shuttered. ](/news/2017/07/7/sears-roebuck-co-has-announced-friday-it-will-be-closing-eight-more-of-its-namesake-department-stores-as-well-as-thirty-five-k-mart-loc.md)
 Sears Holdings Corp (SHLD.O) is closing eight of its namesake department stores and 35 Kmart locations to cut costs and square footage in an effort to return to profitability, Chief Executive Officer Eddie Lampert said on Friday.
+
+### [Severe flooding on the Japanese island of Kyushu has caused seven deaths with twenty people unaccounted for. ](/news/2017/07/7/severe-flooding-on-the-japanese-island-of-kyushu-has-caused-seven-deaths-with-twenty-people-unaccounted-for.md)
+At least seven people are dead and many are missing as the floods on the island of Kyushu continue.
 
 ### [A five-story apartment block collapses in the town of Torre Annunziata near the southern Italian city of Naples with six or seven people trapped inside. So far, three have been found dead. ](/news/2017/07/7/a-five-story-apartment-block-collapses-in-the-town-of-torre-annunziata-near-the-southern-italian-city-of-naples-with-six-or-seven-people-tra.md)
 _Context: Italian, Naples, Torre Annunziata_
@@ -33,14 +44,14 @@ Police raided the headquarters of Korean Air Lines Co Ltd on Friday as part of a
 ### [United States Attorney General Jeff Sessions, along with Deputy Attorney General Rod Rosenstein and National Intelligence Director Dan Coats visit the Guantanamo Bay Detention Camp. Justice Department spokesperson Ian Prior said in a statement "Recent attacks in Europe and elsewhere confirm that the threat to our nation is immediate and real, and it remains essential that we use every lawful tool available to prevent as many attacks as possible". ](/news/2017/07/7/united-states-attorney-general-jeff-sessions-along-with-deputy-attorney-general-rod-rosenstein-and-national-intelligence-director-dan-coats.md)
 _Context: Dan Coats, Deputy Attorney General, Europe, Guantanamo Bay Detention Camp, Jeff Sessions, Justice Department, National Intelligence Director, Rod Rosenstein, United States Attorney General_
 
-### [A request by the state of Hawaii to issue an order blocking President Donald Trump's Executive Order 13780 is rejected in the United States Court of Appeals for the Ninth Circuit.](/news/2017/07/7/a-request-by-the-state-of-hawaii-to-issue-an-order-blocking-president-donald-trump-s-executive-order-13780-is-rejected-in-the-united-states.md)
-_Context: Donald Trump's, Executive Order 13780, Hawaii, United States Court of Appeals for the Ninth Circuit_
+### [A request by the state of Hawaii to issue an order blocking President Donald Trump's Executive Order 13780 is rejected in the United States Court of Appeals for the Ninth Circuit. ](/news/2017/07/7/a-request-by-the-state-of-hawaii-to-issue-an-order-blocking-president-donald-trump-s-executive-order-13780-is-rejected-in-the-united-states.md)
+_Context: Donald Trump, Executive Order 13780, Hawaii, Legal challenges to Executive Order 13780, United States Court of Appeals for the Ninth Circuit_
 
 ### [Former president of Panama Ricardo Martinelli is denied bond by United States magistrate judge Edwin Torres. He is accused of charges that include illegally monitoring phone and other conversations of at least 150 people. Martinelli was arrested in Miami last month on an extradition warrant from Panama. ](/news/2017/07/7/former-president-of-panama-ricardo-martinelli-is-denied-bond-by-united-states-magistrate-judge-edwin-torres-he-is-accused-of-charges-that-i.md)
 _Context: Edwin Torres, Miami, Panama, Ricardo Martinelli, United States magistrate judge, bond, illegally monitoring, warrant_
 
-### [Venezuelan President Nicols Maduro says voting in his upcoming election on July 30 is mandatory for all 2.8 million state employees, with employees who do not vote facing ostracisation. Opponents of the government plan to hold their own unofficial referendum on the Maduro government on July 16. ](/news/2017/07/7/venezuelan-president-nicolas-maduro-says-voting-in-his-upcoming-election-on-july-30-is-mandatory-for-all-2-8-million-state-employees-with-e.md)
-_Context: Nicols Maduro, Venezuela, Venezuelan Constitutional Assembly election, 2017_
+### [Venezuelan President Nicolas Maduro says voting in his upcoming election on July 30 is mandatory for all 2.8 million state employees, with employees who do not vote facing ostracisation. Opponents of the government plan to hold their own unofficial referendum on the Maduro government on July 16. ](/news/2017/07/7/venezuelan-president-nicola-s-maduro-says-voting-in-his-upcoming-election-on-july-30-is-mandatory-for-all-2-8-million-state-employees-with.md)
+_Context: Nicolas Maduro, Venezuela, Venezuelan Constitutional Assembly election, 2017_
 
 ### [Thousands of supporters of Yemen's secessionists rally in the southern city of Aden, backing a new group led by former head of Aden Governorate Aidarus al-Zoubaidi that advocates for autonomy of the country's south. ](/news/2017/07/7/thousands-of-supporters-of-yemen-s-secessionists-rally-in-the-southern-city-of-aden-backing-a-new-group-led-by-former-head-of-aden-governor.md)
 _Context: Aden, Aden Governorate, Aidarus al-Zoubaidi, Yemen's, Yemeni Civil War_
@@ -48,16 +59,12 @@ _Context: Aden, Aden Governorate, Aidarus al-Zoubaidi, Yemen's, Yemeni Civil War
 ### [South Australia finalizes a deal with Tesla, spearheaded by tweets originating from CEO of Tesla Elon Musk, to install a battery system in the state. Tesla said in a statement that upon completion by December 2017, the system would be the largest lithium-ion battery storage project in the world, overtaking an 80 megawatt-hour power station at Mira Loma in California also built using Tesla batteries. ](/news/2017/07/7/south-australia-finalizes-a-deal-with-tesla-spearheaded-by-tweets-originating-from-ceo-of-tesla-elon-musk-to-install-a-battery-system-in-t.md)
 _Context: California, Elon Musk, Mira Loma, Renewable energy in Australia, South Australia, Tesla, lithium-ion battery, megawatt-hour_
 
-### [Phoenix, Arizona records an air temperature of 117 Fahrenheit (47.2 Celsius) at Sky Harbor Airport, breaking the record for hottest temperature recorded in the city by two degrees Fahrenheit recorded in 1905. ](/news/2017/07/7/phoenix-arizona-records-an-air-temperature-of-117deg-fahrenheit-47-2deg-celsius-at-sky-harbor-airport-breaking-the-record-for-hottest-temper.md)
-_Context: Celsius, Fahrenheit, Phoenix, Arizona, Sky Harbor Airport, air temperature_
-
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+### [Phoenix, Arizona records an air temperature of 118|F|C at Sky Harbor Airport, breaking the record for hottest temperature recorded in the city that was recorded in 1905. ](/news/2017/07/7/phoenix-arizona-records-an-air-temperature-of-118-f-c-at-sky-harbor-airport-breaking-the-record-for-hottest-temperature-recorded-in-the-ci.md)
+_Context: Phoenix, Arizona, Sky Harbor Airport, air temperature_
 
 ---
 
-## [Yesterday](/news/2017/07/6/index.md)
+## [Day Before Yesterday](/news/2017/07/6/index.md)
 
 ### [In a meeting held in the city of Krakow, Poland, UNESCO decides not to include Machu Picchu on its list of endangered heritage sites due to the steps taken by Peruvian authorities to address concerns about the condition of the Inca citadel. ](/news/2017/07/6/in-a-meeting-held-in-the-city-of-kraka3w-poland-unesco-decides-not-to-include-machu-picchu-on-its-list-of-endangered-heritage-sites-due-to.md)
 _Context: Krakow, Machu Picchu, Poland, UNESCO, list of endangered heritage sites_
@@ -88,53 +95,7 @@ Scientists have detected a new particle at the Large Hadron Collider at Cern
 
 ---
 
-## [Day Before Yesterday](/news/2017/07/5/index.md)
-
-### [A gunfight between La Lnea gang members and a rival cartel in Madera Municipality, Chihuahua, leaves at least 14 people dead. ](/news/2017/07/5/a-gunfight-between-la-linea-gang-members-and-a-rival-cartel-in-madera-municipality-chihuahua-leaves-at-least-14-people-dead.md)
-The shootout in Chihuahua comes amid rising violence nationwide.
-
-### [The aviator Amelia Earhart and her navigator Fred Noonan may have survived in the Marshall Islands and were held captive by the Japanese according to an allegedly undoctored photo in the  National Archives. Experts remain divided on the claim, however. ](/news/2017/07/5/the-aviator-amelia-earhart-and-her-navigator-fred-noonan-may-have-survived-in-the-marshall-islands-and-were-held-captive-by-the-japanese-acc.md)
-_Context: Amelia Earhart, Disappearance of Amelia Earhart, Fred Noonan, Japan, Marshall Islands, National Archives_
-
-### [Volvo says it plans to phase out fossil fuels by building only electric or hybrid cars. ](/news/2017/07/5/volvo-says-it-plans-to-phase-out-fossil-fuels-by-building-only-electric-or-hybrid-cars.md)
-It became the first mainstream automaker to sound the death knell of the traditional engine, saying all the models it introduces from 2019 will be either hybrids or powered solely by batteries.
-
-### [A Chinese state company signs an order with Airbus for 100 A320 and 40 A350 airplanes. ](/news/2017/07/5/a-chinese-state-company-signs-an-order-with-airbus-for-100-a320-and-40-a350-airplanes.md)
-Airbus (AIR.PA) has signed an agreement to sell 140 aircraft to China, it said on Wednesday, in a deal worth almost $23 billion at list prices.
-
-### [A truck overloaded with passengers crashes near Bambari, Central African Republic, killing at least 78 people and leaving dozens more injured. ](/news/2017/07/5/a-truck-overloaded-with-passengers-crashes-near-bambari-central-african-republic-killing-at-least-78-people-and-leaving-dozens-more-injure.md)
-Some 78 people were killed and dozens more were injured when a truck heavily loaded with goods and passengers crashed in Central African Republic, a doctor has said. The accident happened about six miles outside the town of Bambari as the truck was travelling to a weekly market day in the village of Maloum. &quot;At the moment, we have counted 78 dead and 72 wounded. Some wounded were taken directly to their homes from the accident scene and died there some time after, but most died here,&quot; said Chamberlain Bama, chief doctor at the university hospital in Bambari.
-
-### [France plans to make vaccines mandatory for children in 2018. ](/news/2017/07/5/france-plans-to-make-vaccines-mandatory-for-children-in-2018.md)
-Three vaccines, for diphtheria, tetanus and poliomyelitis, are already mandatory in France.
-
-### [The United States extends the restrictions deadline for refugees. ](/news/2017/07/5/the-united-states-extends-the-restrictions-deadline-for-refugees.md)
-Refugee resettlement agencies say the State Department has given them updated instructions on President Trump&apos;s travel ban that extends...
-
-### [A priest is arrested and questioned over an alleged drug-induced gay orgy hosted in his apartment in the Vatican City. ](/news/2017/07/5/a-priest-is-arrested-and-questioned-over-an-alleged-drug-induced-gay-orgy-hosted-in-his-apartment-in-the-vatican-city.md)
-_Context: Vatican City, drug, gay, orgy, priest_
-
-### [A police shooting occurs in the Bronx, New York, killing one police officer and injuring a bystander. Two officers confront the suspect and shoot him dead. ](/news/2017/07/5/a-police-shooting-occurs-in-the-bronx-new-york-killing-one-police-officer-and-injuring-a-bystander-two-officers-confront-the-suspect-and.md)
-Miosotis Familia, a 12-year veteran of the force, was shot in the head while sitting in a vehicle. The gunman was killed, the police said.
-
-### [Three people are shot and killed by a gunman in separate incidents in Madison, Maine. A fourth victim is wounded. Sheriffs deputies then shot and killed the suspect. ](/news/2017/07/5/three-people-are-shot-and-killed-by-a-gunman-in-separate-incidents-in-madison-maine-a-fourth-victim-is-wounded-sheriffs-deputies-then-sho.md)
-Another person was wounded before the gunman was reportedly shot and killed by deputies
-
-### [Samoa's Legislative Assembly appoints Tuimalealiifano Va'aletoa Sualauvi II as O le Ao o le Malo, or Head of State. He will succeed Tufuga Efi, the country's head of state since 2007, on July 25. ](/news/2017/07/5/samoa-s-legislative-assembly-appoints-tuimalealiifano-va-aletoa-sualauvi-ii-as-o-le-ao-o-le-malo-or-head-of-state-he-will-succeed-tufuga-e.md)
-Samoa has a new Head of State. This morning the 50-member Parliament voted unanimously for a of the Council of Deputies or Council of Deputy Heads of State, Tuimalealiifano Va&#8217;aletoa Sualauvi II, to become Samoa&#8217;s Head of State
-
-### [Supporters of Venezuelan President Nicols Maduro storm the opposition-controlled National Assembly and injure several lawmakers, including the President of the National Assembly, Julio Borges. Several journalists were also injured in the assault. ](/news/2017/07/5/supporters-of-venezuelan-president-nicolas-maduro-storm-the-opposition-controlled-national-assembly-and-injure-several-lawmakers-including.md)
-_Context: 2017 Venezuelan protests, Julio Borges, National Assembly, Nicols Maduro, President of the National Assembly, Supporters, Venezuela_
-
-### [A group of people are arrested in the Peruvian village of Muqui, located in the Andes, after they painted a wall with allusive symbols and messages to the far-left terrorist organization, Shining Path, responsible for crimes against humanity in Peru from 1980 to 1992. Police later clarified that the true intentions of the arrested, some of them students of a technical training institute, were to make a short film. ](/news/2017/07/5/a-group-of-people-are-arrested-in-the-peruvian-village-of-muqui-located-in-the-andes-after-they-painted-a-wall-with-allusive-symbols-and-m.md)
-_Context: Andes, Muqui, Peru, Shining Path, crimes against humanity_
-
-### [The face of the Peruvian Moche mummy the Lady of Cao is reconstructed from its skull structure, using forensic archaeology techniques and ethnographic research. ](/news/2017/07/5/the-face-of-the-peruvian-moche-mummy-the-lady-of-cao-is-reconstructed-from-its-skull-structure-using-forensic-archaeology-techniques-and-et.md)
-She died in her twenties some 1700 years ago, and is believed to have ruled over a desert valley in ancient Peru where her elaborately tattooed body was buried.
-
----
-
-## [Previous Day...](/news/2017/07/4/index.md)
+## [Previous Day...](/news/2017/07/5/index.md)
 
 ---
 
