@@ -59,9 +59,6 @@ _Context: Aden, Aden Governorate, Aidarus al-Zoubaidi, Yemen's, Yemeni Civil War
 ### [South Australia finalizes a deal with Tesla, spearheaded by tweets originating from CEO of Tesla Elon Musk, to install a battery system in the state. Tesla said in a statement that upon completion by December 2017, the system would be the largest lithium-ion battery storage project in the world, overtaking an 80 megawatt-hour power station at Mira Loma in California also built using Tesla batteries. ](/news/2017/07/7/south-australia-finalizes-a-deal-with-tesla-spearheaded-by-tweets-originating-from-ceo-of-tesla-elon-musk-to-install-a-battery-system-in-t.md)
 _Context: California, Elon Musk, Mira Loma, Renewable energy in Australia, South Australia, Tesla, lithium-ion battery, megawatt-hour_
 
-### [Phoenix, Arizona records an air temperature of 118|F|C at Sky Harbor Airport, breaking the city's record for hottest temperature recorded on this calendar date, set in 1905. ](/news/2017/07/7/phoenix-arizona-records-an-air-temperature-of-118-f-c-at-sky-harbor-airport-breaking-the-city-s-record-for-hottest-temperature-recorded-on.md)
-_Context: Phoenix, Arizona, Sky Harbor Airport, air temperature_
-
 ---
 
 ## [Day Before Yesterday](/news/2017/07/6/index.md)
