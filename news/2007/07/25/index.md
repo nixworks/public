@@ -10,7 +10,7 @@ Nurses in Fiji are holding a national strike over a pay cut forced on them by th
 _Context: Sudan, US$, USS ''Cole'', United States_
 
 ### [  Italian rider Christian Moreni fails a doping test and is led away for questioning by French police ](/news/2007/07/25/italian-rider-christian-moreni-fails-a-doping-test-and-is-led-away-for-questioning-by-french-police.md)
-_Context: 2007 Tour de France, Christian Moreni, Italy, doping_
+_Context: 2007 Tour de France, Christian Moreni, Italian, doping_
 
 ### [ The President of Brazil Luiz Incio Lula da Silva removes Defense Minister Waldir Pires, who is responsible for civil aviation, from his Cabinet and replaces him with former Justice Minister Nelson Jobim after two major crashes in ten months. ](/news/2007/07/25/the-president-of-brazil-luiz-inacio-lula-da-silva-removes-defense-minister-waldir-pires-who-is-responsible-for-civil-aviation-from-his-ca.md)
 The move came after President Luiz Inácio Lula da Silva had assured Brazilians that he had ordered changes in the country’s flawed civil aviation system.

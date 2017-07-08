@@ -25,7 +25,7 @@ _Context: Oso, Oso, Washington mudslide, United States, Washington_
 _Context: 2014 Galveston Bay fuel oil spill, Galveston Bay, Texas_
 
 ### [The Veneto region votes to secede from Italy in  an informal online referendum. ](/news/2014/03/22/the-veneto-region-votes-to-secede-from-italy-in-an-informal-online-referendum.md)
-_Context: Italy, Veneto, informal online referendum_
+_Context: Italian, Veneto, informal online referendum_
 
 ## [Previous Day...](/news/2014/03/21/index.md)
 

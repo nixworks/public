@@ -4,7 +4,7 @@
 Russia has expanded its military operations in Syria to include a second airbase as well as other posts, according to a U.S. official briefed on the latest intelligence from the region – even as President Obama expresses muted optimism that Russian President Vladimir Putin eventually will “shift” his strategy and work with the West.
 
 ### [Al-Qaeda militants seize control of Zinjibar, capital of Yemen's southern Abyan Governorate, as well as the town of Ja'ar, following fierce clashes with pro-Hadi government forces. ](/news/2015/12/2/al-qaeda-militants-seize-control-of-zinjibar-capital-of-yemen-s-southern-abyan-governorate-as-well-as-the-town-of-jae-ar-following-fierc.md)
-_Context: Abd Rabbuh Mansur Hadi, Abyan Governorate, Al-Qaeda insurgency in Yemen, Ja'ar, Yemen, Yemeni Civil War (2015), Zinjibar, al-Qaida_
+_Context: Abd Rabbuh Mansur Hadi, Abyan Governorate, Al-Qaeda insurgency in Yemen, Ja'ar, Yemen's, Yemeni Civil War (2015), Zinjibar, al-Qaida_
 
 ### [Cameroon's army, backed by a regional taskforce, has killed at least 100 members of the militant Islamist Boko Haram group and freed 900 people it had held hostage, the west African country's defence ministry has said. Regional taskforce conducts sweep along border with Nigeria. ](/news/2015/12/2/cameroonas-army-backed-by-a-regional-taskforce-has-killed-at-least-100-members-of-the-militant-islamist-boko-haram-group-and-freed-900-p.md)
 Regional taskforce conducts sweep along border with Nigeria, freeing 900 captives, army says
@@ -40,7 +40,7 @@ Nato invites Montenegro to join the alliance, in its first expansion for six yea
 Russia is constructing hundreds of military buildings on two of the disputed Kuril Islands, Russian Defense Minister Sergei Shoigu has said.
 
 ### [Authorities arrest four Kosovo jihadists men, three in Italy and one in Kosovo, for making nonspecific threats against Pope Francis and the former U.S. Ambassador to Kosovo. The men are described by police as highly dangerous and as having celebrated the November 2015 Paris attacks. ](/news/2015/12/2/authorities-arrest-four-kosovo-jihadists-men-three-in-italy-and-one-in-kosovo-for-making-nonspecific-threats-against-pope-francis-and-the.md)
-_Context: Italy, Kosovo, November 2015 Paris Attacks, Pope Francis_
+_Context: Italian, Kosovo, November 2015 Paris Attacks, Pope Francis_
 
 ### [Yemeni Prime Minister Khaled Bahah rejects a cabinet reshuffle ordered  by President Abd Rabbuh Mansur Hadi, another sign of the deepening rift between the two leaders. These problems started in March after the president appointed the minister of health  as acting foreign minister  without consulting the prime minister. ](/news/2015/12/2/yemeni-prime-minister-khaled-bahah-rejects-a-cabinet-reshuffle-ordered-by-president-abd-rabbuh-mansur-hadi-another-sign-of-the-deepening-r.md)
 Yemeni Prime Minister Khaled Bahah rejected a cabinet reshuffle ordered on Tuesday by President Abd-Rabbu Mansour Hadi, a senior government official said, another sign of the deepening rift between the two leaders.

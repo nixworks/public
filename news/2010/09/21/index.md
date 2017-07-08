@@ -4,7 +4,7 @@
 _Context: Bahr el Ghazal, Northern, Sudan_
 
 ### [At least 15,000 people flee their homes in Yemen after a government offensive against rebels in the south in the country. ](/news/2010/09/21/at-least-15-000-people-flee-their-homes-in-yemen-after-a-government-offensive-against-rebels-in-the-south-in-the-country.md)
-_Context: Yemen_
+_Context: Yemen's_
 
 ### [Nine International Security Assistance Force soldiers are killed in a NATO helicopter crash in southern Afghanistan. ](/news/2010/09/21/nine-international-security-assistance-force-soldiers-are-killed-in-a-nato-helicopter-crash-in-southern-afghanistan.md)
 A helicopter crash Tuesday brought the number of NATO service members killed in Afghanistan in 2010 to 529.
@@ -25,7 +25,7 @@ _Context: 2010 Atlantic hurricane season, Atlantic Ocean, Cape Verde Islands_
 _Context: Japan, Naoto Kan, People's Republic of China, Prime Minister, United Nations_
 
 ### [Italian authorities seize 23&nbsp;million euro (approximately US$30&nbsp;million) from a Vatican bank account in a money laundering probe. ](/news/2010/09/21/italian-authorities-seize-23-nbsp-million-euro-approximately-us-30-nbsp-million-from-a-vatican-bank-account-in-a-money-laundering-probe.md)
-_Context: $, Holy See, Italy, euro_
+_Context: Holy See, Italian, USD, euro_
 
 ### [U.S. entertainers Paris Hilton and Nicky Hilton are stopped by immigrations at a Japanese airport and forbidden to enter the country due to Paris's drug conviction the day prior. ](/news/2010/09/21/u-s-entertainers-paris-hilton-and-nicky-hilton-are-stopped-by-immigrations-at-a-japanese-airport-and-forbidden-to-enter-the-country-due-to.md)
 _Context: Japan, Nicky Hilton, Paris Hilton_

@@ -4,7 +4,7 @@
 Government forces and allied Shia militias targeted east of Iraqi city, leaving at least 50 dead.
 
 ### [Missiles, fired from a U.S. drone, strike a four-wheel drive vehicle in southern Yemen, killing two and injuring another suspected militant. ](/news/2016/06/12/missiles-fired-from-a-u-s-drone-strike-a-four-wheel-drive-vehicle-in-southern-yemen-killing-two-and-injuring-another-suspected-militant.md)
-_Context: Yemen, Yemeni Civil War, drones_
+_Context: Yemen's, Yemeni Civil War, drones_
 
 ### [Around 10,000 people attend a street party in front of Buckingham Palace to celebrate Queen Elizabeth II's 90th birthday. ](/news/2016/06/12/around-10-000-people-attend-a-street-party-in-front-of-buckingham-palace-to-celebrate-queen-elizabeth-ii-s-90th-birthday.md)
 _Context: Buckingham Palace, Elizabeth II, Queen_
@@ -13,7 +13,7 @@ _Context: Buckingham Palace, Elizabeth II, Queen_
 The 2016 Tony Awards took place on Sunday, with &#8220;Hamilton&#8221; emerging the big winner with a massive 11 wins. The Broadway hit won best musical, leading actor in a musical, original score,…
 
 ### [Italy's Coast Guard picks up 1,230 migrants in the Mediterranean Sea. More than 4,000 people have been saved at sea in the past week. ](/news/2016/06/12/italy-s-coast-guard-picks-up-1-230-migrants-in-the-mediterranean-sea-more-than-4-000-people-have-been-saved-at-sea-in-the-past-week.md)
-_Context: Coast Guard, European migration crisis, Italy, Mediterranean Sea_
+_Context: Coast Guard, European migration crisis, Italian, Mediterranean Sea_
 
 ### [In what is the deadliest mass shooting and the worst terror attack since 9/11 to occur in the United States, a mass shooting at a gay nightclub in the U.S. city of Orlando, Florida, kills at least 50 people, including the shooter, and injures 53. ](/news/2016/06/12/in-what-is-the-deadliest-mass-shooting-and-the-worst-terror-attack-since-9-11-to-occur-in-the-united-states-a-mass-shooting-at-a-gay-nightc.md)
 The death toll in a shooting in a gay nightclub in Orlando, Florida, has risen to 50, the mayor says, the deadliest mass shooting in recent US history.

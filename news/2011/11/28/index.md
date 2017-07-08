@@ -1,7 +1,7 @@
 ## [2011-11-28](/news/2011/11/28/index.md)
 
 ### [2011 Yemeni uprising: At least 25 people are killed in fighting between Sunni and Shia groups in Yemen. ](/news/2011/11/28/2011-yemeni-uprising-at-least-25-people-are-killed-in-fighting-between-sunni-and-shia-groups-in-yemen.md)
-_Context: 2011 Yemeni uprising, Shia, Sunni, Yemen_
+_Context: 2011 Yemeni uprising, Shia, Sunni, Yemen's_
 
 ### [Saboteurs attack Egypt's gas pipeline to Israel and Jordan, destroying a section of the pipeline west of al-Arish in Sinai. ](/news/2011/11/28/saboteurs-attack-egypt-s-gas-pipeline-to-israel-and-jordan-destroying-a-section-of-the-pipeline-west-of-al-arish-in-sinai.md)
 _Context: Al-Arish, Egypt, Israel, Jordan, Saboteur, Sinai_

@@ -25,7 +25,7 @@ _Context: 2010 FIFA World Cup, Gautrain, South Africa_
 Iran&#039;s judiciary indicated yesterday that three young American trekkers who apparently blundered into Iran from neighbouring Iraq in July and who have been in custody since are to be tried for espionage.
 
 ### [ Fifth outbreak of Shia insurgency in Yemen: Houthi fighters in Yemen say Saudi Arabia is using phosphorus bombs against them. ](/news/2009/11/9/fifth-outbreak-of-shia-insurgency-in-yemen-p-houthi-fighters-in-yemen-say-saudi-arabia-is-using-phosphorus-bombs-against-them.md)
-_Context: Houthi, Saudi Arabia, Shia insurgency in Yemen, Yemen, due to fighting, white phosphorus_
+_Context: Houthi, Saudi Arabia, Shia insurgency in Yemen, Yemen's, due to fighting, white phosphorus_
 
 ### [ In China eight ethnic Uyghurs and one Han are executed for their role in the Urumqi riots in July, in the first executions to take place. ](/news/2009/11/9/in-china-eight-ethnic-uyghurs-and-one-han-are-executed-for-their-role-in-the-urumqi-riots-in-july-in-the-first-executions-to-take-place.md)
 Clashes between ethnic Uighurs and Han Chinese in western China left more than 200 dead.

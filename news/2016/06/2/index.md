@@ -37,13 +37,13 @@ _Context: Dusseldorf, Europe, ISIL, Syrians_
 Mathura clashes: 24 killed, 368 arrested in violence - The clashes took place when police went to evict the members of Azad Bharat Vidhik Vaicharik Kranti Satyagrahi, which has made outlandish demands for the removal of the President and Prime Minister and replacing of the Indian currency.
 
 ### [Violence breaks out in a rally supporting Donald Trump in San Jose, California.  An officer and several demonstrators were assaulted, and a few people were arrested. ](/news/2016/06/2/violence-breaks-out-in-a-rally-supporting-donald-trump-in-san-jose-california-an-officer-and-several-demonstrators-were-assaulted-and-a.md)
-_Context: Donald Trump, San Jose, California, breaks out in a rally_
+_Context: Donald Trump's, San Jose, California, breaks out in a rally_
 
 ### [ In Ottawa, Canada Marc Leduc is found guilty first-degree murder in the killings of two women found dead in 2008 and 2011 involved in drugs and sex trade. His DNA was matched after he was arrested in a 2012 sex assault with a knife. ](/news/2016/06/2/in-ottawa-canada-marc-leduc-is-found-guilty-first-degree-murder-in-the-killings-of-two-women-found-dead-in-2008-and-2011-involved-in-drugs.md)
 Marc Leduc has been found guilty of first-degree murder in the deaths of Pamela Kosmack and Leeanne Lawson.
 
 ### [U.S. House Speaker Paul Ryan endorses Donald Trump for President of the United States. ](/news/2016/06/2/u-s-house-speaker-paul-ryan-endorses-donald-trump-for-president-of-the-united-states.md)
-_Context: Donald Trump, Paul Ryan_
+_Context: Donald Trump's, Paul Ryan_
 
 ### [The Supreme Court of the United States accepts a petition by five people from American Samoa arguing that people born in this U.S. territory are entitled to U.S citizenship under the United States Constitution. The State Department currently opposes this idea. ](/news/2016/06/2/the-supreme-court-of-the-united-states-accepts-a-petition-by-five-people-from-american-samoa-arguing-that-people-born-in-this-u-s-territory.md)
 The United States Supreme Court will next week consider a petition from five American Samoans arguing they are entitled to US citizenship.

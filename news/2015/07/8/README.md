@@ -4,7 +4,7 @@
 Suspected militants from the Nigerian Islamist group Boko Haram killed 26 people in attacks on two villages on Lake Chad, local authorities in Chad told Reuters
 
 ### [The Yemeni government in exile announces that it has reached a truce with the Houthi rebels. ](/news/2015/07/8/the-yemeni-government-in-exile-announces-that-it-has-reached-a-truce-with-the-houthi-rebels.md)
-_Context: Houthi, Yemen, Yemeni Crisis (2011-present), truce_
+_Context: Houthi, Yemen's, Yemeni Crisis (2011-present), truce_
 
 ### [At least 22 people are killed in clashes between Arab and Berber communities in Ghardaia, Algeria. ](/news/2015/07/8/at-least-22-people-are-killed-in-clashes-between-arab-and-berber-communities-in-ghardaia-algeria.md)
 At least 22 people have died in clashes between Arabs and Berbers around the Algerian oasis city of Ghardaia, the state news agency says.

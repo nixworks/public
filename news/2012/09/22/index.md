@@ -7,7 +7,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 The rebel Free Syrian Army announces it has moved its command centre from Turkey to &quot;liberated areas&quot; inside Syria.
 
 ### [Eight people die in clashes between Zaydi rebels and Salafis. The Zaidis oppose the nomination by Al-Islah of new provincial leaders in northern Yemen. ](/news/2012/09/22/eight-people-die-in-clashes-between-zaydi-rebels-and-salafis-the-zaidis-oppose-the-nomination-by-al-islah-of-new-provincial-leaders-in-nort.md)
-_Context: Al-Islah, Salafi, Yemen, Zaydi_
+_Context: Al-Islah, Salafi, Yemen's, Zaydi_
 
 ### [The Muse du Louvre in Paris opens a new wing dedicated to Islamic art. It holds 3,000 artifacts from the seventh to the 19th century. An Egyptian Mamluk portal, disassembled in France since 1889, is shown for the first time. ](/news/2012/09/22/the-musee-du-louvre-in-paris-opens-a-new-wing-dedicated-to-islamic-art-it-holds-3-000-artifacts-from-the-seventh-to-the-19th-century-an-eg.md)
 The&#x20;Louvre&#x20;museum&#x20;in&#x20;Paris&#x20;has&#x20;opened&#x20;a&#x20;new,&#x20;&#x24;131&#x20;million&#x20;Islamic&#x20;art&#x20;wing&#x20;with&#x20;3,000&#x20;precious&#x20;artifacts&#x20;dating&#x20;from&#x20;the&#x20;7th&#x20;to&#x20;the&#x20;19th&#x20;centuries&#x20;-&#x20;including&#x20;the&#x20;oldest&#x20;love&#x20;letter&#x20;in&#x20;the&#x20;Muslim&#x20;world.

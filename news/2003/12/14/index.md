@@ -10,7 +10,7 @@ _Context: Pakistan, Pervez Musharraf_
 _Context: African-American, Los Angeles, California, Strom Thurmond, The Washington Post, United States Senate, illegitimate, newspaper_
 
 ### [The famous Italian opera house La Fenice in Venice reopens after being destroyed by fire in 1996. It was rebuilt at the cost of EUR90mn.[http://launch.yahoo.com/read/news.asp?contentID=215989]](/news/2003/12/14/the-famous-italian-opera-house-la-fenice-in-venice-reopens-after-being-destroyed-by-fire-in-1996-it-was-rebuilt-at-the-cost-of-a-90mn-htt.md)
-_Context: Italy, La Fenice, Venice, euro, opera_
+_Context: Italian, La Fenice, Venice, euro, opera_
 
 ### [Jason White, quarterback of the University of Oklahoma Sooners, wins the Heisman Trophy, awarded to the best player in college football. [http://sports.yahoo.com/ncaaf/news;_ylc=X3oDMTBpNWZic251BF9TAzI1NjY0ODI1BHNlYwN0aA--?slug=ap-heismantrophy&prov=ap&type=lgns]](/news/2003/12/14/jason-white-quarterback-of-the-university-of-oklahoma-sooners-wins-the-heisman-trophy-awarded-to-the-best-player-in-college-football-ht.md)
 _Context: Heisman Trophy, Jason White, University of Oklahoma, college football, quarterback_

@@ -4,7 +4,7 @@
 _Context: Cte d'Ivoire_
 
 ### [ In Italy, court in Bologna gives life sentences to five members of Red Brigades for the murder of government advisor Marco Biagi in 2002. They are suspected members of the Communist Combatant faction of the Brigades ](/news/2005/06/1/in-italy-court-in-bologna-gives-life-sentences-to-five-members-of-red-brigades-for-the-murder-of-government-advisor-marco-biagi-in-2002-t.md)
-_Context: 2002, Bologna, Italy, Marco Biagi, Red Brigades, life sentence_
+_Context: 2002, Bologna, Italian, Marco Biagi, Red Brigades, life sentence_
 
 ### [ Israeli-Palestinian Conflict: Haim Yavin, one of Israel's most respected television news presenters has condemned the Israeli occupation of the Palestinian territories, calling it "brutal", the first time he has spoken publicly on the subject. ](/news/2005/06/1/israeli-palestinian-conflict-p-haim-yavin-one-of-israel-s-most-respected-television-news-presenters-has-condemned-the-israeli-occupation-o.md)
 _Context: Haim Yavin, Israel, Israeli-Palestinian conflict, Palestinian, television news_

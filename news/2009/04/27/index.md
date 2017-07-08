@@ -13,7 +13,7 @@ _Context: General Motors, Pontiac, brand_
 _Context: Japan, NEC Corporation, Renesas Technology, pre-merger_
 
 ### [ Yemen's military rescues four oil tankers from Somali pirates. ](/news/2009/04/27/yemen-s-military-rescues-four-oil-tankers-from-somali-pirates.md)
-_Context: Somali pirates, Somalia, Yemen, Yemeni, oil tanker_
+_Context: Somali pirates, Somalia, Yemen's, Yemeni, oil tanker_
 
 ### [ A 5.6-magnitude earthquake strikes near Chilpancingo, Guerrero, Mexico. ](/news/2009/04/27/a-5-6-magnitude-earthquake-strikes-near-chilpancingo-guerrero-mexico.md)
 _Context: Chilpancingo, Guerrero, Mexico, earthquake, magnitude_

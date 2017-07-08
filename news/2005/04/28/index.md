@@ -28,7 +28,7 @@ A panel of Sofia City Court released Serbian war crimes suspect Cedomir Brankovi
 _Context: Bernard Guillet, Charles Pasqua, France, oil-for-food_
 
 ### [ Swiss engineers blast through the Lotschberg Tunnel through the Alps from Germany to Italy. The tunnel will be ready for traffic in two years. ](/news/2005/04/28/swiss-engineers-blast-through-the-laptschberg-tunnel-through-the-alps-from-germany-to-italy-the-tunnel-will-be-ready-for-traffic-in-two-ye.md)
-_Context: Alps, German, Italy, Lotschberg Tunnel, Swiss_
+_Context: Alps, Germany, Italian, Lotschberg Tunnel, Swiss_
 
 ### [ In Kenya, British peer and Kenyan rancher Thomas Cholmondeley is charged with the murder of two Maasai game wardens. ](/news/2005/04/28/in-kenya-british-peer-and-kenyan-rancher-thomas-cholmondeley-is-charged-with-the-murder-of-two-maasai-game-wardens.md)
 _Context: Kenya, Maasai, Thomas P. G. Cholmondeley_

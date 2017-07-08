@@ -4,7 +4,7 @@
 _Context: Conflict in Iraq, Iraq, US soldiers, bomb_
 
 ### [ Mathematician Peter Lax receives the Abel Prize, worth nearly one million USD, from Norway's Crown Prince Haakon in a ceremony in Oslo. The prize is awarded for his work on "the theory and application of partial differential equations.](/news/2005/05/24/mathematician-peter-lax-receives-the-abel-prize-worth-nearly-one-million-usd-from-norway-s-crown-prince-haakon-in-a-ceremony-in-oslo-the.md)
-_Context: $, Abel Prize, Crown Prince Haakon, Mathematicians, Norway, Oslo, Peter Lax, partial differential equations_
+_Context: Abel Prize, Crown Prince Haakon, Mathematicians, Norway, Oslo, Peter Lax, USD, partial differential equations_
 
 ### [ Israeli soldiers catch a 15 year old Palestinian carrying two pipe bombs at a West Bank checkpoint. ](/news/2005/05/24/israeli-soldiers-catch-a-15-year-old-palestinian-carrying-two-pipe-bombs-at-a-west-bank-checkpoint.md)
 _Context: Israel, Palestinian, West Bank, pipe bomb_

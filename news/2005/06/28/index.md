@@ -25,7 +25,7 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 _Context: Lassa fever, vaccination_
 
 ### [ Italian police detain Angelo Sacco after a shooting spree in Bogogno, near Milan. Three people are dead. ](/news/2005/06/28/italian-police-detain-angelo-sacco-after-a-shooting-spree-in-bogogno-near-milan-three-people-are-dead.md)
-_Context: Angelo Sacco, Bogogno, Italy, Milan_
+_Context: Angelo Sacco, Bogogno, Italian, Milan_
 
 ### [ Guinea-Bissau's former president Kumba Yala declares that he accepts the results of presidential elections in the country "in the interest of peace and democracy" but still insists that he actually won. No candidate has won 50% of the vote and the next round of elections commences in July. ](/news/2005/06/28/guinea-bissau-s-former-president-kumba-yala-declares-that-he-accepts-the-results-of-presidential-elections-in-the-country-in-the-interest.md)
 _Context: Guinea-Bissau, Kumba Yala_
@@ -46,7 +46,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Malawi, Rodwell Munyenyembe_
 
 ### [ In Germany, former deputy defense minister Holger Pfahls admits that in 1990 he took a bribe worth million euros from arms dealer Karlheinz Schreiber in connection of a sale of armored vehicles to the US. He is in trial accused of taking bribes from Saudi Arabia in a similar deal in 1991. ](/news/2005/06/28/in-germany-former-deputy-defense-minister-holger-pfahls-admits-that-in-1990-he-took-a-bribe-worth-million-euros-from-arms-dealer-karlheinz.md)
-_Context: German, Holger Pfahls, Karlheinz Schreiber, Saudi Arabia, bribe, euro_
+_Context: Germany, Holger Pfahls, Karlheinz Schreiber, Saudi Arabia, bribe, euro_
 
 ### [ In Australia, councillor Paul Tully wants to exhume the bodies of outlaws Steve Hart and Dan Kelly, two members of Ned Kelly's gang, because he suspects they may have survived and fled to Queensland. ](/news/2005/06/28/in-australia-councillor-paul-tully-wants-to-exhume-the-bodies-of-outlaws-steve-hart-and-dan-kelly-two-members-of-ned-kelly-s-gang-becaus.md)
 _Context: Australia, Ned Kelly, Paul Tully, Queensland_

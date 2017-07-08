@@ -4,7 +4,7 @@
 Security in Cairo tightened amid Friday prayers and protest marches called by the Muslim Brotherhood nationwide.
 
 ### [Yemen changes its weekend from Thursday and Friday to Friday and Saturday. ](/news/2013/08/16/yemen-changes-its-weekend-from-thursday-and-friday-to-friday-and-saturday.md)
-_Context: Friday, Saturday, Thursday, Yemen_
+_Context: Friday, Saturday, Thursday, Yemen's_
 
 ### [The Indian rupee hits new record low against the US dollar. The rupee fell to 62.03 rupees against the dollar. ](/news/2013/08/16/the-indian-rupee-hits-new-record-low-against-the-us-dollar-the-rupee-fell-to-62-03-rupees-against-the-dollar.md)
 _Context: $, India, rupee_

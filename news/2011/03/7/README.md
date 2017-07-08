@@ -4,7 +4,7 @@
 Two Arab newspapers and alJazeera television said on Monday Libyan leader Muammar Gaddafiwas looking for an agreement allowing him to step down, butthere was no official confirmation of the reports.
 
 ### [Protesters in the central jail of the Yemeni capital Sana'a take part in anti-Saleh demonstrations, where warning shots are fired. ](/news/2011/03/7/protesters-in-the-central-jail-of-the-yemeni-capital-sana-a-take-part-in-anti-saleh-demonstrations-where-warning-shots-are-fired.md)
-_Context: 2011 Yemeni protests, Saleh, Sana'a, Yemen_
+_Context: 2011 Yemeni protests, Saleh, Sana'a, Yemen's_
 
 ### [Rebel forces seize a third town in western Ivory Coast from government forces.](/news/2011/03/7/rebel-forces-seize-a-third-town-in-western-ivory-coast-from-government-forces.md)
 _Context: 2010-2011 Ivorian crisis, Ivory Coast_
@@ -19,7 +19,7 @@ _Context: England, London, Nude, Green Leaves and Bust, Picasso, Tate Gallery_
 Warner Bros. has just fired Charlie Sheen from &quot;Two and a Half Men.&quot;Warner Bros. issued the following statement: &quot;After careful consideration, Warner&hellip;
 
 ### [The ''New York Times'' reports that French luxury group LVMH will take control of Italy's Bulgari in an all-share deal. ](/news/2011/03/7/the-new-york-times-reports-that-french-luxury-group-lvmh-will-take-control-of-italy-s-bulgari-in-an-all-share-deal.md)
-_Context: Bulgari, France, Italy, LVMH, New York Times_
+_Context: Bulgari, France, Italian, LVMH, New York Times_
 
 ### [Oil prices rise to their highest level in 29 months as fighting in Libya intensifies. ](/news/2011/03/7/oil-prices-rise-to-their-highest-level-in-29-months-as-fighting-in-libya-intensifies.md)
 _Context: Libya, Libyan Civil War_

@@ -10,7 +10,7 @@ _Context: Zacarias Moussaoui, federal court, terrorism_
 _Context: London, Old Bailey, Richard Reid, Saajid Badat_
 
 ### [ A German court orders a retrial in the case of Armin Meiwes, who was jailed in 2004 for eight years for killing and eating a man (with the man's supposed consent). ](/news/2005/04/22/a-german-court-orders-a-retrial-in-the-case-of-armin-meiwes-who-was-jailed-in-2004-for-eight-years-for-killing-and-eating-a-man-with-the.md)
-_Context: 2004, Armin Meiwes, German_
+_Context: 2004, Armin Meiwes, Germany_
 
 ### [ In an attempt to ease recent tensions between the two Asian economic powerhouses in the Japanese history textbooks controversy, Japanese prime minister Junichiro Koizumi publicly expressed his "deep remorse" for actions of Japanese troops in China during World War II for the first time in a decade. He intends to meet PRC president Hu Jintao at the Asia-Africa Conference in Jakarta. However, 81 Diet members visit Yasukuni Shrine the same day, causing more controversy inside and outside Japan about the true attitude of Tokyo on this subject. ](/news/2005/04/22/in-an-attempt-to-ease-recent-tensions-between-the-two-asian-economic-powerhouses-in-the-japanese-history-textbooks-controversy-japanese-pr.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

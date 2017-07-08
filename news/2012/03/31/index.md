@@ -10,7 +10,7 @@ _Context: Hela Province, Peter O'Neill, Prime Minister_
 Explosions in southern Thailand have killed at least 10 people, officials say, in a region hit by separatist violence.
 
 ### [Around 30 people are killed in clashes between the army and suspected Al-Qaeda militants in southern Yemen. ](/news/2012/03/31/around-30-people-are-killed-in-clashes-between-the-army-and-suspected-al-qaeda-militants-in-southern-yemen.md)
-_Context: Yemen, al-Qaeda_
+_Context: Yemen's, al-Qaeda_
 
 ### [The spire of the Shard London Bridge is put in place making the completion of the United Kingdom's and European Union's tallest building a step closer. ](/news/2012/03/31/the-spire-of-the-shard-london-bridge-is-put-in-place-making-the-completion-of-the-united-kingdom-s-and-european-union-s-tallest-building-a-s.md)
 _Context: European Union, Shard London Bridge, United Kingdom, spire_

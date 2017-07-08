@@ -43,7 +43,7 @@ WELLINGTON, New Zealand (AP) — A New Zealand leader has visited Fiji for the f
 The University of Papua New Guinea obtains an injunction to stop protests, after several people were injured at a demonstration against the prime minister.
 
 ### [The 9th U.S. Circuit Court of Appeals rules there is no Second Amendment protection for concealed weapons, upholding a California law that does not consider "general self-defense" sufficient for a license. ](/news/2016/06/9/the-9th-u-s-circuit-court-of-appeals-rules-there-is-no-second-amendment-protection-for-concealed-weapons-upholding-a-california-law-that-d.md)
-_Context: California, Ninth Circuit Appeals Court panel, Second Amendment, concealed weapons, general self-defense_
+_Context: California, Second Amendment, United States Court of Appeals for the Ninth Circuit, concealed weapons, general self-defense_
 
 ### [Venezuelan opposition lawmaker, Julio Borges, is left bloodied after being hit in the face with a pipe in downtown Caracas. He spoke at a press conference after the attack with blood streaming down from his nose and mouth, and bloody stains on his button-down shirt, accusing the attackers of being supporters of President Nicolas Maduro. ](/news/2016/06/9/venezuelan-opposition-lawmaker-julio-borges-is-left-bloodied-after-being-hit-in-the-face-with-a-pipe-in-downtown-caracas-he-spoke-at-a-pr.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

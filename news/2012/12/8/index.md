@@ -31,7 +31,7 @@ Ghana has been forced to extend voting in its presidential election by another d
 The Burmese government apologises to Buddhist monks for the injuries caused during a police operation at a copper mine.
 
 ### [Politics of Italy:Italian Prime Minister Mario Monti says he will resign after passing the 2013 budget. ](/news/2012/12/8/politics-of-italy-pitalian-prime-minister-mario-monti-says-he-will-resign-after-passing-the-2013-budget.md)
-_Context: Italian Prime Minister, Italy, Mario Monti, Politics of Italy_
+_Context: Italian, Italian Prime Minister, Mario Monti, Politics of Italy_
 
 ### [Hugo Chvez, the President of Venezuela, announces that he has cancer again. Preparing to travel to Havana, Cuba, for further cancer surgery, he named Vice President Nicols Maduro to carry out his legacy if he is unable to remain in office. ](/news/2012/12/8/hugo-chavez-the-president-of-venezuela-announces-that-he-has-cancer-again-preparing-to-travel-to-havana-cuba-for-further-cancer-surgery.md)
 Doctors found malignant cells during tests in Cuba, President Hugo Chávez of Venezuela said, adding that his vice president would succeed him if his health worsened.

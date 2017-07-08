@@ -16,7 +16,7 @@ _Context: Dmitry Medvedev, Domodedovo International Airport, Moscow, Russian Pre
 _Context: Darfur, Sudan Liberation Army, Sudan People's Armed Forces_
 
 ### [An ambush attack on an army-escorted postal truck in Yemen's southern Hadramut region kills 5 people. ](/news/2011/01/26/an-ambush-attack-on-an-army-escorted-postal-truck-in-yemen-s-southern-hadramut-region-kills-5-people.md)
-_Context: Hadramut, Yemen_
+_Context: Hadramut, Yemen's_
 
 ### [Sky Sports presenter Richard Keys resigns following his comments about female referee Sian Massey. ](/news/2011/01/26/sky-sports-presenter-richard-keys-resigns-following-his-comments-about-female-referee-sian-massey.md)
 _Context: Richard Keys, Sian Massey, Sky Sports_

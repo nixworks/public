@@ -22,7 +22,7 @@ _Context: #5-ranked, AP Poll, Appalachian State, Armanti Edwards, Division I FBS
 Breaking News, data &amp; opinions in business, sports, entertainment, travel, lifestyle, plus much more. Newsday.com is the leading news source for Long Island &amp; NYC.
 
 ### [ Thousands of former military officers protest in Yemen with Yemeni riot police firing bullets and tear gas to disperse them. ](/news/2007/09/1/thousands-of-former-military-officers-protest-in-yemen-with-yemeni-riot-police-firing-bullets-and-tear-gas-to-disperse-them.md)
-_Context: Yemen, tear gas_
+_Context: Yemen's, tear gas_
 
 ### [ The United Nations launches a food assistance program to assist Iraqi refugees in Syria. ](/news/2007/09/1/the-united-nations-launches-a-food-assistance-program-to-assist-iraqi-refugees-in-syria.md)
 _Context: Iraq, Syria, United Nations, refugee_

@@ -13,7 +13,7 @@ Gunmen in Pakistan have killed six health workers at the start of a nationwide p
 The decision comes following the Newtown, Conn., tragedy on Friday.
 
 ### [Four people are killed and seven injured after an apartment block collapses in the center of Palermo in Italy. ](/news/2012/12/18/four-people-are-killed-and-seven-injured-after-an-apartment-block-collapses-in-the-center-of-palermo-in-italy.md)
-_Context: Italy, Palermo_
+_Context: Italian, Palermo_
 
 ### [A large, 33.5-ton aquarium bursts in a busy shopping center on the Nanjing Road pedestrian mall in Shanghai, China, injuring 15 people, including customers and shop staff. ](/news/2012/12/18/a-large-33-5-ton-aquarium-bursts-in-a-busy-shopping-center-on-the-nanjing-road-pedestrian-mall-in-shanghai-china-injuring-15-people-incl.md)
 Shanghai, China &#8211; Several people were reportedly injured when a shark tank on the first floor of a shopping center suddenly burst. Customers standing near the

@@ -4,7 +4,7 @@
 _Context: Abu Musa, British Foreign Office, Iran, Iranian Navy, United Arab Emirates, United Kingdom_
 
 ### [ Albania suffers its worst ever electric power shortage. Due to low water levels, hydroelectric power is reduced to the minimum and there are blackouts in all the country. Water supplies won't last for more than two weeks, so electricity is currently available just six hours a day. The government plans to import power from Romania, Bulgaria and Italy. ](/news/2005/11/11/albania-suffers-its-worst-ever-electric-power-shortage-due-to-low-water-levels-hydroelectric-power-is-reduced-to-the-minimum-and-there-ar.md)
-_Context: Albania, Bulgaria, Italy, Romania, electric power, hydroelectric power, power outage, water supply_
+_Context: Albania, Bulgaria, Italian, Romania, electric power, hydroelectric power, power outage, water supply_
 
 ### [ A Pakistani cargo plane carrying eight to ten people crashes near Kabul, capital of Afghanistan. There are no survivors. The cause of the crash is unknown. ](/news/2005/11/11/a-pakistani-cargo-plane-carrying-eight-to-ten-people-crashes-near-kabul-capital-of-afghanistan-there-are-no-survivors-the-cause-of-the-c.md)
 _Context: Afghanistan, Kabul, Pakistan, cargo plane_

@@ -34,7 +34,7 @@ _Context: Nevsky Express, Russia, Russian police, the bomb attack, witness_
 Central Bank has issued a notice to the UAE banks and branches of foreign banks operating in the UAE making available to them a special additional liquidity facility linked to their current accounts at the Central bank at the rate of 50 basis points above the three months EIBOR 
 
 ### [ Saudi Arabia says its forces have seized control of a key mountain area amid the country's ongoing fight with Houthi rebels in Yemen. ](/news/2009/11/29/saudi-arabia-says-its-forces-have-seized-control-of-a-key-mountain-area-amid-the-country-s-ongoing-fight-with-houthi-rebels-in-yemen.md)
-_Context: Houthi, Saudi Arabia, Yemen, ongoing fight_
+_Context: Houthi, Saudi Arabia, Yemen's, ongoing fight_
 
 ### [ Statements from bishops relating to the Murphy Report into sexual abuse scandal in Dublin archdiocese are read at Masses across Ireland. ](/news/2009/11/29/statements-from-bishops-relating-to-the-murphy-report-into-sexual-abuse-scandal-in-dublin-archdiocese-are-read-at-masses-across-ireland.md)
 Archbishop Diarmuid Martin has said at this moment, he believes that decisions on whether to resign by Cardinal Desmond Connell and others mentioned in the Murphy Report should be personal.

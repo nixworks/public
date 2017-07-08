@@ -10,7 +10,7 @@ _Context: China, Communist Party of China, Linfen, Shanxi province, brickworks, 
 _Context: Basra, Iraq, Qurna, bomb_
 
 ### [ New South Wales in Australia is battered with severe storms, killing at least nine people and causing major flooding in Newcastle, the Hunter region, and the Central Coast. The coal freighter ''Pasha Bulker'' is forced to run aground on Nobby's Beach, a major Newcastle beach. ](/news/2007/06/8/new-south-wales-in-australia-is-battered-with-severe-storms-killing-at-least-nine-people-and-causing-major-flooding-in-newcastle-the-hunt.md)
-_Context: Australia, Central Coast, Hunter Valley, New South Wales, Newcastle, Pasha Bulker, battered with severe storms_
+_Context: Australia, Central Coast (New South Wales), Hunter Valley, New South Wales, Newcastle, Pasha Bulker, battered with severe storms_
 
 ### [ The Space Shuttle ''Atlantis'' is launched with a crew of seven on an assembly mission to the International Space Station on mission STS-117. ](/news/2007/06/8/the-space-shuttle-atlantis-is-launched-with-a-crew-of-seven-on-an-assembly-mission-to-the-international-space-station-on-mission-sts-11.md)
 _Context: International Space Station, STS-117, Space Shuttle, Space Shuttle Atlantis_

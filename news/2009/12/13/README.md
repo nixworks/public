@@ -37,7 +37,7 @@ _Context: "Dhanush" missile, India, Orissa State_
 _Context: Accenture, Procter & Gamble, Tiger Woods, endorsement deals, golfer, marital infidelity controversy, multinational_
 
 ### [ Italian Prime Minister Silvio Berlusconi is hit in the face and knocked to the ground after a political rally in Milan. ](/news/2009/12/13/italian-prime-minister-silvio-berlusconi-is-hit-in-the-face-and-knocked-to-the-ground-after-a-political-rally-in-milan.md)
-_Context: Italy, Milan, Silvio Berlusconi_
+_Context: Italian, Milan, Silvio Berlusconi_
 
 ### [ Leaders of north and south Sudan reach a deal on a referendum for the south's independence in 2011. ](/news/2009/12/13/leaders-of-north-and-south-sudan-reach-a-deal-on-a-referendum-for-the-south-s-independence-in-2011.md)
 _Context: Southern Sudan, Southern Sudanese Independence Referendum, Sudan_

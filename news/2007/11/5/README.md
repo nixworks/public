@@ -7,7 +7,7 @@ _Context: Hang Seng Index, Hong Kong_
 _Context: 2007 Pakistani state of emergency, George W. Bush, Netherlands, Pervez Musharraf, President, Sindh, Sindh High Court, United States President, arrested, international aid, lawyers, state of emergency_
 
 ### [ Italian police arrest Sicilian mafia boss Salvatore Lo Piccolo, his son Sandro and two other mafiosi in Carini, Palermo. ](/news/2007/11/5/italian-police-arrest-sicilian-mafia-boss-salvatore-lo-piccolo-his-son-sandro-and-two-other-mafiosi-in-carini-palermo.md)
-_Context: Carini, Italy, Mafia, Palermo, Salvatore Lo Piccolo, Sicily, police_
+_Context: Carini, Italian, Mafia, Palermo, Salvatore Lo Piccolo, Sicily, police_
 
 ### [ A fire at a retirement home in a village near Tula, Russia, kills at least 23 people. ](/news/2007/11/5/a-fire-at-a-retirement-home-in-a-village-near-tula-russia-kills-at-least-23-people.md)
 _Context: Russia, Tula, fire, retirement home_

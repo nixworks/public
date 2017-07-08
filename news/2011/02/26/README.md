@@ -13,7 +13,7 @@ _Context: 1991-95 war, Ban Jelacic Square, Croatia, Jadranka Kosor, Zagreb, gove
 Violent aftershocks hampered desperate efforts to find survivors in quake-hit Christchurch on Saturday as the death toll climbed to 145 and New Zealand Prime Minister John Key called for a two-minute silence for the nation to grieve.
 
 ### [The United Nations Security Council, after the defected Libyan Ambassador to the UN Abdel Rahman Mohamed Shalgam's appeal to act against Muammar Gaddafi's regime escalating violence, being used to crackdown the 2011 Libyan civil war, and following propositions by France, Germany, United Kingdom and the United States, adopts resolution 1970, ](/news/2011/02/26/the-united-nations-security-council-after-the-defected-libyan-ambassador-to-the-un-abdel-rahman-mohamed-shalgam-s-appeal-to-act-against-mua.md)
-_Context: Abdel Rahman Mohamed Shalgam's, France, German, Libyan Civil War, Muammar Gaddafi, Resolution 1970, UN, United Kingdom, United Nations Security Council, United States_
+_Context: Abdel Rahman Mohamed Shalgam's, France, Germany, Libyan Civil War, Muammar Gaddafi, Resolution 1970, UN, United Kingdom, United Nations Security Council, United States_
 
 ### [Hundreds of Iraqi journalists, artists, and intellectuals are arrested the day following the country's "Day of Rage" protest, which resulted in at least twenty-nine deaths throughout the country.](/news/2011/02/26/hundreds-of-iraqi-journalists-artists-and-intellectuals-are-arrested-the-day-following-the-country-s-day-of-rage-protest-which-resulted.md)
 _Context: 2011 Iraqi protests, arrested, intellectuals, journalists_

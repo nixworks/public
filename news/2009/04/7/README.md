@@ -19,7 +19,7 @@ _Context: Batang Ai, Bukit Gantang, Bukit Selambau, Malaysia, by-election_
 _Context: Chisinau, Moldova, PCRM, Parliament, absolute majority, demonstration, election, protesters_
 
 ### [ Two people are killed and two injured during a shooting in Landshut, Bavaria, Germany. ](/news/2009/04/7/two-people-are-killed-and-two-injured-during-a-shooting-in-landshut-bavaria-germany.md)
-_Context: Bavaria, German, Landshut, shooting_
+_Context: Bavaria, Germany, Landshut, shooting_
 
 ### [ Twenty-four people are killed as a Fokker F27 airliner crashes in Bandung, West Java, Indonesia. ](/news/2009/04/7/twenty-four-people-are-killed-as-a-fokker-f27-airliner-crashes-in-bandung-west-java-indonesia.md)
 _Context: Bandung, Fokker F27, Indonesia, West Java, airliner, crashes_

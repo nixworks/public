@@ -10,7 +10,7 @@ Libyan &quot;day of rage&quot; protesters defy Gadhafi crackdown; internal secur
 _Context: 2010-2011 Algerian protests, Abdelaziz Bouteflika, Abdelhamid Mehri, Arab Spring, President_
 
 ### [2011 Yemeni protests:Several people are injured in clashes between pro and anti-government protesters in the Yemeni capital Sana'a. ](/news/2011/02/17/2011-yemeni-protests-pseveral-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.md)
-_Context: 2011 Yemeni protests, Sana'a, Yemen_
+_Context: 2011 Yemeni protests, Sana'a, Yemen's_
 
 ### [Two people are killed and 47 injured in a protest in the northern Iraqi city of Sulaimaniya. ](/news/2011/02/17/two-people-are-killed-and-47-injured-in-a-protest-in-the-northern-iraqi-city-of-sulaimaniya.md)
 _Context: Iraq, Sulaimaniya_

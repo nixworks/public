@@ -4,7 +4,7 @@
 Rebel forces in the eastern Libyan town of Brega fight off an attack by soldiers loyal to Col Muammar Gaddafi.
 
 ### [Thousands of anti-government protesters demonstrate across Yemen, amid mounting pressure for President Ali Abdullah Saleh to step down. ](/news/2011/03/2/thousands-of-anti-government-protesters-demonstrate-across-yemen-amid-mounting-pressure-for-president-ali-abdullah-saleh-to-step-down.md)
-_Context: 2011 Yemeni protests, Saleh, Yemen_
+_Context: 2011 Yemeni protests, Saleh, Yemen's_
 
 ### [Iran's opposition says 200 people were arrested during protests in the capital Tehran yesterday. ](/news/2011/03/2/iran-s-opposition-says-200-people-were-arrested-during-protests-in-the-capital-tehran-yesterday.md)
 Iranian opposition groups say more than 200 people were arrested on Tuesday while trying to protest in Tehran over the reported imprisonment of two opposition leaders.
@@ -49,7 +49,7 @@ _Context: 2011 Canterbury earthquake, Christchurch, New Zealand, dust storm_
 _Context: France, John Galliano, Paris, anti-Semitism, fashion designer, prosecutor_
 
 ### [Frankfurt shootingsTwo United States Air Force personnel are killed and two others injured after a gunman opens fire at Frankfurt Airport in Germany - a suspect is arrested in connection with the incident. ](/news/2011/03/2/frankfurt-shootingsptwo-united-states-air-force-personnel-are-killed-and-two-others-injured-after-a-gunman-opens-fire-at-frankfurt-airport-i.md)
-_Context: Air Force, Frankfurt Airport, German_
+_Context: Air Force, Frankfurt Airport, Germany_
 
 ### [The United States military files new charges against Private Bradley Manning in relation to the leak of the WikiLeaks cables. ](/news/2011/03/2/the-united-states-military-files-new-charges-against-private-bradley-manning-in-relation-to-the-leak-of-the-wikileaks-cables.md)
 The US military has brought 22 new charges against the junior soldier accused of leaking hundreds of thousands of sensitive US government documents that were published by WikiLeaks.
@@ -61,7 +61,7 @@ _Context: California, Robert F. Kennedy, Sirhan Sirhan, parole_
 _Context: BBC News, Ivory Coast, Laurent Gbagbo, RFI_
 
 ### [German Chancellor Angela Merkel names Thomas de Maizire as new defence minister and Hans-Peter Friedrich as the new interior minister, following resignations earlier this week. ](/news/2011/03/2/german-chancellor-angela-merkel-names-thomas-de-maiziere-as-new-defence-minister-and-hans-peter-friedrich-as-the-new-interior-minister-foll.md)
-_Context: Angela Merkel, German, Hans-Peter Friedrich, Thomas de Maizire_
+_Context: Angela Merkel, Germany, Hans-Peter Friedrich, Thomas de Maizire_
 
 ### [The United Kingdom announces plans to axe 11,000 jobs in the British Armed Forces. ](/news/2011/03/2/the-united-kingdom-announces-plans-to-axe-11-000-jobs-in-the-british-armed-forces.md)
 _Context: British military personnel, United Kingdom_

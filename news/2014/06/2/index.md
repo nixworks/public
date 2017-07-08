@@ -16,7 +16,7 @@ _Context: Iran, Tehran, dust storm_
 _Context: Paris, Southern France, Syria_
 
 ### [President Obama is accused of breaking the National Defense Authorization Act for Fiscal Year 2013 by not notifying the US Congress about the release of prisoners from Guantanamo Bay detention camp in the deal to release Bowe Bergdahl. ](/news/2014/06/2/president-obama-is-accused-of-breaking-the-national-defense-authorization-act-for-fiscal-year-2013-by-not-notifying-the-us-congress-about-th.md)
-_Context: Bowe Bergdahl, National Defense Authorization Act for Fiscal Year 2013, US Congress, detainee_
+_Context: Bowe Bergdahl, Guantanamo Bay Detention Camp, National Defense Authorization Act for Fiscal Year 2013, US Congress_
 
 ### [Mahmoud Abbas, the President of the State of Palestine, announces a unity cabinet containing members of both Fatah and Hamas. ](/news/2014/06/2/mahmoud-abbas-the-president-of-the-state-of-palestine-announces-a-unity-cabinet-containing-members-of-both-fatah-and-hamas.md)
 _Context: Fatah, Hamas, Mahmoud Abbas, President of the State of Palestine, unity_

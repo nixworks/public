@@ -7,7 +7,7 @@ _Context: The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, Walden
 _Context: David Geffen, DreamWorks SKG, Jeffrey Katzenberg, Paramount Pictures, Steven Spielberg, Viacom_
 
 ### [ The Groups for the 2006 FIFA World Cup to be held in Germany are finalized. ](/news/2005/12/9/the-groups-for-the-2006-fifa-world-cup-to-be-held-in-germany-are-finalized.md)
-_Context: FIFA, German, World Cup_
+_Context: FIFA, Germany, World Cup_
 
 ### [ The Bush administration summons Canadian ambassador Frank McKenna, and is expected to formally lodge a complaint after Prime Minister Paul Martin's criticism on December 7 of the United States at the Montreal conference on climate change. U.S.-Canada relations are already a major issue in the upcoming Canadian federal election. ](/news/2005/12/9/the-bush-administration-summons-canadian-ambassador-frank-mckenna-and-is-expected-to-formally-lodge-a-complaint-after-prime-minister-paul.md)
 _Context: Canada, Canadian Prime Minister, Canadian federal election, 2006, Frank McKenna, George W. Bush, Paul Martin, U.S.-Canada relations, UN Climate Change Conference, United States, ambassador, criticism on December 7_

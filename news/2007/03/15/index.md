@@ -19,13 +19,13 @@ _Context: Arnold Schwarzenegger, California primary, February 5, Governor of Cal
 _Context: Alexandroupolis, Bulgaria, Greece, Russia, oil, pipeline_
 
 ### [ The five permanent members of the United Nations Security Council and Germany agree on a proposal for sanctions against Iran for its nuclear programs to be discussed by the Security Council. ](/news/2007/03/15/the-five-permanent-members-of-the-united-nations-security-council-and-germany-agree-on-a-proposal-for-sanctions-against-iran-for-its-nuclea.md)
-_Context: German, Iran, United Nations Security Council_
+_Context: Germany, Iran, United Nations Security Council_
 
 ### [ The BBC issues a plea for information on the whereabouts of its Gaza correspondent, Alan Johnston, who has been missing for three days and is believed by Palestinian security officials to have been kidnapped. ](/news/2007/03/15/the-bbc-issues-a-plea-for-information-on-the-whereabouts-of-its-gaza-correspondent-alan-johnston-who-has-been-missing-for-three-days-and.md)
 _Context: Alan Johnston, BBC, Gaza Strip, Palestinian Authority_
 
 ### [ The Movement for the Emancipation of the Niger Delta frees two Italian oilworkers that it took captive last year in Nigeria. ](/news/2007/03/15/the-movement-for-the-emancipation-of-the-niger-delta-frees-two-italian-oilworkers-that-it-took-captive-last-year-in-nigeria.md)
-_Context: Italy, Movement for the Emancipation of the Niger Delta, Nigeria_
+_Context: Italian, Movement for the Emancipation of the Niger Delta, Nigeria_
 
 ### [ Naxalite rebels attack a police outpost in the Bijapur district of Chhattisgarh, India, killing at least 49 officers and looting their weapons. ](/news/2007/03/15/naxalite-rebels-attack-a-police-outpost-in-the-bijapur-district-of-chhattisgarh-india-killing-at-least-49-officers-and-looting-their-weap.md)
 Many security personnel are feared killed in the attack on a police outpost in Bijapur district of Chhattisgarh.

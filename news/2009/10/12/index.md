@@ -28,7 +28,7 @@ _Context: East Timor, Indonesia, crimes against humanity, no-confidence_
 Vladimir Putin&#39;s United Russia party has won nearly 80% of the seats in local and regional elections held yesterday.
 
 ### [ Two people are injured in a bomb attack in Milan, Italy, after a Libyan man explodes a device at the entrance of an army barracks. ](/news/2009/10/12/two-people-are-injured-in-a-bomb-attack-in-milan-italy-after-a-libyan-man-explodes-a-device-at-the-entrance-of-an-army-barracks.md)
-_Context: Italy, Libya, Milan_
+_Context: Italian, Libya, Milan_
 
 ### [ India test fires two medium range Prithvi II missiles in the eastern state of Orissa. ](/news/2009/10/12/india-test-fires-two-medium-range-prithvi-ii-missiles-in-the-eastern-state-of-orissa.md)
 _Context: India, Orissa State, Prithvi II_

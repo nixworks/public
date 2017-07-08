@@ -1,7 +1,7 @@
 ## [2011-09-29](/news/2011/09/29/index.md)
 
 ### [2011 Yemeni uprising: Heavy fighting is reported in the northern suburbs of Sana'a, Yemen's capital. ](/news/2011/09/29/2011-yemeni-uprising-heavy-fighting-is-reported-in-the-northern-suburbs-of-sana-a-yemen-s-capital.md)
-_Context: 2011 Yemeni uprising, Sana'a, Yemen_
+_Context: 2011 Yemeni uprising, Sana'a, Yemen's_
 
 ### [Maple Group, a consortium of Canadian concerns, says it is extending its bid to take over Canada's largest stock market operating company, TMX Group. ](/news/2011/09/29/maple-group-a-consortium-of-canadian-concerns-says-it-is-extending-its-bid-to-take-over-canada-s-largest-stock-market-operating-company-t.md)
 * Offer deadline extended from Sept. 30 to Oct. 31 * Maple says continues to work toward regulatory approvals * TMX shares rise 2.24 pct

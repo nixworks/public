@@ -16,7 +16,7 @@ _Context: Dagestan, Georgia, North Caucasus, Russia_
 _Context: Egyptian Army, Operation Eagle, Sinai, attack_
 
 ### [Gazprom completes building the second leg of the Nord Stream natural gas pipeline connecting Russia, Germany and neighbouring countries. ](/news/2012/08/29/gazprom-completes-building-the-second-leg-of-the-nord-stream-natural-gas-pipeline-connecting-russia-germany-and-neighbouring-countries.md)
-_Context: Gazprom, German, Nord Stream, Russia_
+_Context: Gazprom, Germany, Nord Stream, Russia_
 
 ### [The UK's Serious Fraud Office launches an investigation into payments between Barclays and Qatar Holding LLC after Barclays sought investment from the latter during the financial crisis in 2008. ](/news/2012/08/29/the-uk-s-serious-fraud-office-launches-an-investigation-into-payments-between-barclays-and-qatar-holding-llc-after-barclays-sought-investmen.md)
 _Context: Barclays, Qatar Holding LLC, Serious Fraud Office, financial crisis in 2008_

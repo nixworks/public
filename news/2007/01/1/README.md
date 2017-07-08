@@ -22,7 +22,7 @@ _Context: Bulgaria, European Union, Romania_
 _Context: Eurozone, Slovenia, euro, tolar_
 
 ### [ CITIC, a state-owned investment enterprise of the Chinese government, buys Nations Energy Company, a Canadian petroleum extraction company, giving it a majority stake in KazMunayGas, the state-owned oil and gas company in Kazakhstan, for USD $1.91 billion. The deal is highly controversial because of the amount of control China now has over Kazakhstan's natural resources. Kazakh Oil Minister Baktykozha Izmukhambetov has criticized the deal since it was first considered in October 2006. ](/news/2007/01/1/citic-a-state-owned-investment-enterprise-of-the-chinese-government-buys-nations-energy-company-a-canadian-petroleum-extraction-company.md)
-_Context: $, Baktykozha Izmukhambetov, CITIC, KazMunayGas_
+_Context: Baktykozha Izmukhambetov, CITIC, KazMunayGas, USD_
 
 ### [ The Armenian government detains citizen Vahan Aroyan for allegedly plotting a coup d'etat against Armenian President Robert Kocharyan. The Association of Armenian Volunteers, a political opposition group, denounces Aroyan's detainment, saying the move is an attempt to silence dissidence. ](/news/2007/01/1/the-armenian-government-detains-citizen-vahan-aroyan-for-allegedly-plotting-a-coup-d-a-c-tat-against-armenian-president-robert-kocharyan-the.md)
 _Context: Armenian President, Armenian government, Association of Armenian Volunteers, Robert Kocharyan, coup_

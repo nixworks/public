@@ -22,7 +22,7 @@ _Context: Barack Obama, Gordon Brown, Prime Minister, United Kingdom, United Sta
 _Context: Cologne, Structural Engineering, municipal archives building_
 
 ### [ German frigate ''Rheinland-Pfalz'' foils a Somali pirate attack on a German container ship in the Gulf of Aden. ](/news/2009/03/3/german-frigate-rheinland-pfalz-foils-a-somali-pirate-attack-on-a-german-container-ship-in-the-gulf-of-aden.md)
-_Context: German, Gulf of Aden, Somali pirates, Somalia, container ship, frigate_
+_Context: Germany, Gulf of Aden, Somali pirates, Somalia, container ship, frigate_
 
 ## [Previous Day...](/news/2009/03/2/index.md)
 

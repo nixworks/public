@@ -16,7 +16,7 @@ _Context: Juliaca, Peru, Puno region, earthquake_
 Japan&#039;s main opposition party won the most seats in the Tokyo metropolitan election on Sunday, increasing pressure on Taro Aso, the prime minister, before a general election which must happen within three months.
 
 ### [ Kidnapped Italian Red Cross volunteer Eugenio Vagni is freed by Abu Sayyaf. ](/news/2009/07/12/kidnapped-italian-red-cross-volunteer-eugenio-vagni-is-freed-by-abu-sayyaf.md)
-_Context: Abu Sayyaf, Italy, Red Cross_
+_Context: Abu Sayyaf, Italian, Red Cross_
 
 ### [ Head of the CIA Leon Panetta accuses former United States Vice President Dick Cheney of hiding an intelligence program from Congress. ](/news/2009/07/12/head-of-the-cia-leon-panetta-accuses-former-united-states-vice-president-dick-cheney-of-hiding-an-intelligence-program-from-congress.md)
 _Context: Central Intelligence Agency, Dick Cheney, Leon Panetta, U.S. Vice President, United States, United States Congress_

@@ -1,7 +1,7 @@
 ## [2011-09-21](/news/2011/09/21/index.md)
 
 ### [2011 Yemeni uprising: Yemeni government forces break a recently-established ceasefire by firing mortar rounds at mourners at the funerals of protesters. ](/news/2011/09/21/2011-yemeni-uprising-yemeni-government-forces-break-a-recently-established-ceasefire-by-firing-mortar-rounds-at-mourners-at-the-funerals-of.md)
-_Context: 2011 Yemeni uprising, Mortar, Yemen_
+_Context: 2011 Yemeni uprising, Mortar, Yemen's_
 
 ### [Parts of the Pakistani city of Quetta observe a shutdown in response to the killing of 29 Shiite protesters on Tuesday. ](/news/2011/09/21/parts-of-the-pakistani-city-of-quetta-observe-a-shutdown-in-response-to-the-killing-of-29-shiite-protesters-on-tuesday.md)
 _Context: Pakistan, Quetta, Shiite_

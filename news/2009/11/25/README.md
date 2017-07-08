@@ -16,7 +16,7 @@ _Context: Dubai World, moratorium_
 Australian journalist Nigel Brennan and a Canadian colleague freed after 15 months in captivity in Somalia.
 
 ### [ Five people are killed at a rally demanding secession in Shabwa, southern Yemen. ](/news/2009/11/25/five-people-are-killed-at-a-rally-demanding-secession-in-shabwa-southern-yemen.md)
-_Context: Shabwa province, Yemen, secession_
+_Context: Shabwa province, Yemen's, secession_
 
 ### [ A court in Pakistan charges seven suspects in connection with the 2008 terrorist attacks in Mumbai. ](/news/2009/11/25/a-court-in-pakistan-charges-seven-suspects-in-connection-with-the-2008-terrorist-attacks-in-mumbai.md)
 _Context: 2008 Mumbai attacks, Mumbai, Pakistan_

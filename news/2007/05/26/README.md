@@ -10,7 +10,7 @@ _Context: Iran, United States, espionage_
 As counting in the General Election comes to a close, Fianna Fáil has won 78 seats and is now seeking coalition partners to give Bertie Ahern a third term as Taoiseach.
 
 ### [ Germany celebrates the 175th anniversary of the Hambacher Fest. ](/news/2007/05/26/germany-celebrates-the-175th-anniversary-of-the-hambacher-fest.md)
-_Context: German, Hambacher Fest_
+_Context: Germany, Hambacher Fest_
 
 ### [ Several thousand Ukrainian Interior Ministry troops head for Kiev in defiance of orders to support President Viktor Yushchenko. ](/news/2007/05/26/several-thousand-ukrainian-interior-ministry-troops-head-for-kiev-in-defiance-of-orders-to-support-president-viktor-yushchenko.md)
 _Context: Kiev, Ukrainian, Ukrainian President, Viktor Yushchenko_

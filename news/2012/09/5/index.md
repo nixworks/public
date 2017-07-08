@@ -1,7 +1,7 @@
 ## [2012-09-5](/news/2012/09/5/index.md)
 
 ### [A drone strike conducted by the United States kills at least five suspected militants in the eastern Yemeni province of Hadhramaut. ](/news/2012/09/5/a-drone-strike-conducted-by-the-united-states-kills-at-least-five-suspected-militants-in-the-eastern-yemeni-province-of-hadhramaut.md)
-_Context: Hadhramaut Governorate, Yemen, extrajudicial killing_
+_Context: Hadhramaut Governorate, Yemen's, extrajudicial killing_
 
 ### [A Palestinian Authority colonel is killed by gunfire from unknown assailants in Jenin, West Bank. ](/news/2012/09/5/a-palestinian-authority-colonel-is-killed-by-gunfire-from-unknown-assailants-in-jenin-west-bank.md)
 _Context: Jenin, Palestinian National Authority, West Bank_

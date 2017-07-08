@@ -7,19 +7,19 @@ _Context: Abdullah Al-Attiyah, Gas Exporting Countries Forum_
 _Context: Ephraim Inoni, Paul Biya, Philemon Yang, President of Cameroon, Prime Minister_
 
 ### [ Dresden loses its status as a UNESCO World Heritage Site.  ](/news/2009/06/30/dresden-loses-its-status-as-a-unesco-world-heritage-site.md)
-_Context: Dresden, UNESCO, World Heritage Site_
+_Context: Dresden, UNESCO, world heritage site_
 
 ### [ Germany's Constitutional Court approves the Treaty of Lisbon, but suspends ratification of it. ](/news/2009/06/30/germany-s-constitutional-court-approves-the-treaty-of-lisbon-but-suspends-ratification-of-it.md)
-_Context: Federal Constitutional Court of Germany, German, Treaty of Lisbon, approves_
+_Context: Federal Constitutional Court of Germany, Germany, Treaty of Lisbon, approves_
 
 ### [ Official figures from the Central Statistics Office show a dramatic contraction in the Irish economy in the first three months of 2009. ](/news/2009/06/30/official-figures-from-the-central-statistics-office-show-a-dramatic-contraction-in-the-irish-economy-in-the-first-three-months-of-2009.md)
 Official figures show that there was a dramatic contraction in the economy in the first three months of this year.
 
 ### [ At least 15 people are killed and 40 are injured by the derailment of an Italian freight train and subsequent explosion of two wagons carrying liquified petroleum gas in Viareggio. ](/news/2009/06/30/at-least-15-people-are-killed-and-40-are-injured-by-the-derailment-of-an-italian-freight-train-and-subsequent-explosion-of-two-wagons-carry.md)
-_Context: Italy, Viareggio, liquified petroleum gas, subsequent explosion_
+_Context: Italian, Viareggio, liquified petroleum gas, subsequent explosion_
 
 ### [ Yemenia Flight 626, an Airbus A310, crashes en route to Moroni, Comoros, from Sana'a, Yemen. ](/news/2009/06/30/yemenia-flight-626-an-airbus-a310-crashes-en-route-to-moroni-comoros-from-sana-a-yemen.md)
-_Context: Airbus A310, Comoros, Moroni, Sana'a, Yemen, Yemenia Flight 626_
+_Context: Airbus A310, Comoros, Moroni, Sana'a, Yemen's, Yemenia Flight 626_
 
 ### [ U.S. forces pull out of Baghdad and leave major cities across Iraq. ](/news/2009/06/30/u-s-forces-pull-out-of-baghdad-and-leave-major-cities-across-iraq.md)
 In one neighborhood, results of the American “surge” are evident but sectarian tensions remain.

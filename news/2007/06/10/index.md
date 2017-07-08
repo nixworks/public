@@ -4,7 +4,7 @@
 _Context: Gaza Strip, Islamic Jihad Movement in Palestine, Israel, Israel Defense Forces, Palestinian Journalist Syndicate_
 
 ### [ On the Sunday talk show ''Meet the Press'', former U.S. Secretary of State Colin Powell calls for the immediate closure of the Guantanamo Bay detention camp. ](/news/2007/06/10/on-the-sunday-talk-show-meet-the-press-former-u-s-secretary-of-state-colin-powell-calls-for-the-immediate-closure-of-the-guantanamo-b.md)
-_Context: Colin Powell, Meet the Press, Sunday talk show, United States Secretary of State, detainee_
+_Context: Colin Powell, Guantanamo Bay Detention Camp, Meet the Press, Sunday talk show, United States Secretary of State_
 
 ### [ France holds a parliamentary election; early projections indicate that President Nicolas Sarkozy's center-right UMP party will secure a comfortable victory. ](/news/2007/06/10/france-holds-a-parliamentary-election-early-projections-indicate-that-president-nicolas-sarkozy-s-center-right-ump-party-will-secure-a-com.md)
 _Context: France, Nicolas Sarkozy, President, UMP, center-right, go to the polls_

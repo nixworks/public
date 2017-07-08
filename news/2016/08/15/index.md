@@ -22,7 +22,7 @@ A man who died after being Tasered by police in Telford, Shropshire, has been na
 A New York City man appeared in court on Tuesday and denied charges he shot and killed a Muslim cleric and his assistant on a street in the borough of Queens over the weekend.
 
 ### [The Obama administration transfers 15 Guantanamo Bay detainees to the United Arab Emirates. ](/news/2016/08/15/the-obama-administration-transfers-15-guantanamo-bay-detainees-to-the-united-arab-emirates.md)
-_Context: Obama Administration, United Arab Emirates, detainee_
+_Context: Guantanamo Bay Detention Camp, Obama Administration, United Arab Emirates_
 
 ## [Previous Day...](/news/2016/08/14/index.md)
 

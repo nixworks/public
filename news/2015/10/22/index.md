@@ -10,7 +10,7 @@ US authorities say US and Iraqi forces rescued dozens of hostages from IS to pre
 _Context: Afghanistan, Ghazni Province, Mohammad Daud Sultanzoy, Taliban, War in Afghanistan (2015-present)_
 
 ### [Egypt's military says it has gained "full control" over the North Sinai areas of Arish, Rafah and Sheikh Zuweid after successful raids on terrorist strongholds and weapons caches. ](/news/2015/10/22/egypt-s-military-says-it-has-gained-full-control-over-the-north-sinai-areas-of-arish-rafah-and-sheikh-zuweid-after-successful-raids-on-te.md)
-_Context: Arish, Egypt, Egyptian military, North Sinai Governorate, Rafah, Egypt, Sheikh Zuweid, Sinai insurgency_
+_Context: Arish, Egypt, Egyptian military, North Sinai Governorate, Rafah, Sheikh Zuweid, Sinai insurgency_
 
 ### [At least 10 people are killed and 12 injured when a suicide-bomber attacks a Pakistani Shia Mosque and Imambargah during prayers in the District Bagh of Kachhi 300 Km from Quetta in Balochistan. ](/news/2015/10/22/at-least-10-people-are-killed-and-12-injured-when-a-suicide-bomber-attacks-a-pakistani-shia-mosque-and-imambargah-during-prayers-in-the-dist.md)
 Share this on WhatsApp

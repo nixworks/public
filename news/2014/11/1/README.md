@@ -1,7 +1,7 @@
 ## [2014-11-1](/news/2014/11/1/index.md)
 
 ### [Clashes between al-Qaeda and security forces leave 20 soldiers and 3 militants dead in Hodeidah province of western Yemen. ](/news/2014/11/1/clashes-between-al-qaeda-and-security-forces-leave-20-soldiers-and-3-militants-dead-in-hodeidah-province-of-western-yemen.md)
-_Context: Al Hudaydah Governorate, Al-Qaeda insurgency in Yemen, Yemen, al-Qaeda, soldiers_
+_Context: Al Hudaydah Governorate, Al-Qaeda insurgency in Yemen, Yemen's, al-Qaeda, soldiers_
 
 ### [Unidentified gunmen kill at least 20 police officers in an ambush in northwest Kenya. ](/news/2014/11/1/unidentified-gunmen-kill-at-least-20-police-officers-in-an-ambush-in-northwest-kenya.md)
 _Context: Kenyan police, northwest Kenya_

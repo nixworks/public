@@ -112,7 +112,7 @@ UN court back appeal against acquittal over offences allegedly committed during 
 _Context: Andre Kagwa Rwisereka, Democratic Green Party, Human Rights Watch, Rwanda, presidential election_
 
 ### [Italian police announce 67 arrests, EUR250 million worth of property seizures and the "wipe out" of a local clan. ](/news/2010/07/21/italian-police-announce-67-arrests-a-250-million-worth-of-property-seizures-and-the-wipe-out-of-a-local-clan.md)
-_Context: Italy_
+_Context: Italian_
 
 ### [Israel tells the United Nations it will limit the use of fatal burning weapon white phosphorus in future conflicts after using it on civilians during its War on Gaza. ](/news/2010/07/21/israel-tells-the-united-nations-it-will-limit-the-use-of-fatal-burning-weapon-white-phosphorus-in-future-conflicts-after-using-it-on-civilia.md)
 The Israeli military tells the UN it will limit the use of a controversial weapon in future conflicts.

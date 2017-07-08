@@ -1,7 +1,7 @@
 ## [2016-11-10](/news/2016/11/10/index.md)
 
 ### [At least two people have been killed and 90 injured in an attack on the German consulate in Mazar-i-Sharif. The Taliban has claimed responsibility. ](/news/2016/11/10/at-least-two-people-have-been-killed-and-90-injured-in-an-attack-on-the-german-consulate-in-mazar-i-sharif-the-taliban-has-claimed-responsi.md)
-_Context: German, German consulate in Mazar-i-Sharif attack, Mazar-i-Sharif, Taliban_
+_Context: German consulate in Mazar-i-Sharif attack, Germany, Mazar-i-Sharif, Taliban_
 
 ### [Canadian singer-songwriter Leonard Cohen dies at the age of 82. ](/news/2016/11/10/canadian-singer-songwriter-leonard-cohen-dies-at-the-age-of-82.md)
 Leonard Cohen, the hugely influential singer and songwriter whose work spanned five decades, died at the age of 82.

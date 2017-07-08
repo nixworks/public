@@ -7,7 +7,7 @@ Afghanistan is marking 10 years since the start of the US-led war against the Ta
 _Context: Anhui, China, Lianyungang-Khorgas Expressway, Tianjin, expressway_
 
 ### [The Norwegian Nobel Committee announce the winners of the Nobel Peace Prize in Oslo, with the prize being shared between the President of Liberia Ellen Johnson-Sirleaf, Liberian activist Leymah Gbowee and Yemeni women's rights activist Tawakkul Karman. ](/news/2011/10/7/the-norwegian-nobel-committee-announce-the-winners-of-the-nobel-peace-prize-in-oslo-with-the-prize-being-shared-between-the-president-of-li.md)
-_Context: Ellen Johnson Sirleaf, Leymah Gbowee, Liberia, Nobel Peace Prize, Norwegian Nobel Committee, Oslo, President of Liberia, Tawakkul Karman, Yemen_
+_Context: Ellen Johnson Sirleaf, Leymah Gbowee, Liberia, Nobel Peace Prize, Norwegian Nobel Committee, Oslo, President of Liberia, Tawakkul Karman, Yemen's_
 
 ### [A South Korean presidential aide warns that North Korea could conduct a third nuclear weapons test if disarmament negotiations do not resume. ](/news/2011/10/7/a-south-korean-presidential-aide-warns-that-north-korea-could-conduct-a-third-nuclear-weapons-test-if-disarmament-negotiations-do-not-resume.md)
 _Context: North Korea, North Korea and weapons of mass destruction, South Korea, six-party talks_

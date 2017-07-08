@@ -13,7 +13,7 @@ _Context: Maria Lassnig_
 _Context: Bill Clinton, Monica Lewinsky, U.S. President, affair_
 
 ### [Merck & Co Inc announces plans to sell its consumer business to Bayer AG of Germany for $14 billion. ](/news/2014/05/6/merck-co-inc-announces-plans-to-sell-its-consumer-business-to-bayer-ag-of-germany-for-14-billion.md)
-_Context: Bayer AG, German, Merck & Co._
+_Context: Bayer AG, Germany, Merck & Co._
 
 ### [Office Depot says it will close at least 400 of its U.S. stores. ](/news/2014/05/6/office-depot-says-it-will-close-at-least-400-of-its-u-s-stores.md)
 Office Depot Inc ODP.N said it would close at least 400 stores in the United States over two years as it looks to consolidate operations after acquiring OfficeMax, and the company raised its forecast for full-year adjusted operating income.

@@ -1,7 +1,7 @@
 ## [2006-02-3](/news/2006/02/3/index.md)
 
 ### [ Jamal al-Bedawi, who masterminded the USS ''Cole'' bombing, and Fawaz al-Rabeiee, who planned the 2002 attack on the French tanker ''Limburg'', escape from a prison in Yemen along with 22 other prisoners, 12 of whom were convicted members of Al-Qaida. ](/news/2006/02/3/jamal-al-bedawi-who-masterminded-the-uss-cole-bombing-and-fawaz-al-rabeiee-who-planned-the-2002-attack-on-the-french-tanker-limbur.md)
-_Context: 2002 attack on the French tanker ''Limburg'', Al Qaida's, Fawaz al-Rabeiee, Jamal al-Bedawi, USS ''Cole'' bombing, Yemen_
+_Context: 2002 attack on the French tanker ''Limburg'', Al Qaida's, Fawaz al-Rabeiee, Jamal al-Bedawi, USS ''Cole'' bombing, Yemen's_
 
 ### [ The United States expels Venezuelan diplomat Jeny Figueredo Frias in retaliation for yesterday's expulsion of suspected US spy John Correa from Venezuela. A State Department spokesman described the move as part of "tit-for-tat diplomatic games". ](/news/2006/02/3/the-united-states-expels-venezuelan-diplomat-jeny-figueredo-frias-in-retaliation-for-yesterday-s-expulsion-of-suspected-us-spy-john-correa.md)
 _Context: United States Department of State, Venezuela, persona non-grata_

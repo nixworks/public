@@ -13,7 +13,7 @@ The co-pilot suspected of deliberately crashing a plane into the Alps had resear
 China&#x27;s Foreign Ministry expressed anger on Thursday after two U.S. fighter jets landed in Taiwan, in a rare official contact between the militaries of the United States and the self-ruled democratic island. Taiwan&#x27;s Central News Agency said the two F-18s landed at an air force base in southern
 
 ### [Iran, the United States, the United Kingdom, France, Russia, People's Republic of China, Germany, and the European Union (the P5+1) reach a breakthrough agreement on the general framework for an agreement on Iran's nuclear program, but sign no verbal agreement or official document. The deadline for a full deal is June 30, 2015. ](/news/2015/04/2/iran-the-united-states-the-united-kingdom-france-russia-people-s-republic-of-china-germany-and-the-european-union-the-p5-1-reach-a.md)
-_Context: China, European Union, France, German, Iran, Russia, United Kingdom, United States, agreement on the Iranian nuclear program, several world powers_
+_Context: China, European Union, France, Germany, Iran, Russia, United Kingdom, United States, agreement on the Iranian nuclear program, several world powers_
 
 ### [Denial of the Armenian Genocide is criminalized in the Republic of Cyprus. ](/news/2015/04/2/denial-of-the-armenian-genocide-is-criminalized-in-the-republic-of-cyprus.md)
 Cyprus on Thursday made it a crime to deny that Ottoman Turks committed genocide against Armenian Turks a century ago, a move likely to rile its old rival Turkey as peace talks on the ethnically-split island remain stalled.

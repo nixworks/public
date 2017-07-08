@@ -22,7 +22,7 @@ Security Council passes resolution supporting truce and planned peace talks desp
 UNITED NATIONS (AP) — Ban Ki-moon ends 10 years at the helm of the United Nations lamenting the &quot;fires still burning&quot; from Syria to South Sudan but buoyed by a global agreement to combat climate change and new U.N. goals…
 
 ### [Bolivia, Ethiopia, Italy, Kazakhstan, and Sweden begin their terms on the United Nations Security Council, replacing Angola, Malaysia, New Zealand, Spain, and Venezuela. ](/news/2017/01/1/bolivia-ethiopia-italy-kazakhstan-and-sweden-begin-their-terms-on-the-united-nations-security-council-replacing-angola-malaysia-new-z.md)
-_Context: Angola, Bolivia, Ethiopia, Italy, Kazakhstan, Malaysia, New Zealand, Spain, Sweden, United Nations Security Council election, 2016, Venezuela_
+_Context: Angola, Bolivia, Ethiopia, Italian, Kazakhstan, Malaysia, New Zealand, Spain, Sweden, United Nations Security Council election, 2016, Venezuela_
 
 ### [Gambian President Yahya Jammeh accuses the West African regional bloc, ECOWAS, of "declaring war" after it said it was putting forces on alert in case he refused to step down at the end of his mandate on January 19. ](/news/2017/01/1/gambian-president-yahya-jammeh-accuses-the-west-african-regional-bloc-ecowas-of-declaring-war-after-it-said-it-was-putting-forces-on-ale.md)
 Gambian leader Yahya Jammeh accused West African regional body ECOWAS of declaring war, after it said it was putting forces on alert in case he refused to step down at the end of his mandate this month.

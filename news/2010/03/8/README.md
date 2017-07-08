@@ -22,7 +22,7 @@ International Criminal Police Organization announces 27 people now wanted for al
 _Context: European Union, French naval, Somalia_
 
 ### [German Federal Minister of Justice Sabine Leutheusser-Schnarrenberger says the Vatican has built a "wall of silence" in response to the country's child sexual abuse controversy of recent months. ](/news/2010/03/8/german-federal-minister-of-justice-sabine-leutheusser-schnarrenberger-says-the-vatican-has-built-a-wall-of-silence-in-response-to-the-coun.md)
-_Context: Federal Minister of Justice, German, Holy See, Sabine Leutheusser-Schnarrenberger, sexual abuse_
+_Context: Federal Minister of Justice, Germany, Holy See, Sabine Leutheusser-Schnarrenberger, sexual abuse_
 
 ### [Nine people go on trial charged with terrorism and links to al-Qaeda in Belgium. ](/news/2010/03/8/nine-people-go-on-trial-charged-with-terrorism-and-links-to-al-qaeda-in-belgium.md)
 _Context: Belgian, al-Qaeda, terrorism_

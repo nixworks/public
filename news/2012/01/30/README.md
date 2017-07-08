@@ -16,7 +16,7 @@ _Context: Belden Namah, Papua New Guinea, a mutiny, amnesty_
 The fate of 29 Chinese workers kidnapped in Sudan is unclear after Chinese officials are quoted casting doubts on reports that some have been freed.
 
 ### [A US drone airstrike kills 15 members of al Qaida in the Arabian Peninsula in the Yemeni town of Lawdar in the Abyan Governorate. ](/news/2012/01/30/a-us-drone-airstrike-kills-15-members-of-al-qaida-in-the-arabian-peninsula-in-the-yemeni-town-of-lawdar-in-the-abyan-governorate.md)
-_Context: Abyan Governorate, Lawdar, Yemen, al Qaida in the Arabian Peninsula, flying drone_
+_Context: Abyan Governorate, Lawdar, Yemen's, al Qaida in the Arabian Peninsula, flying drone_
 
 ### [The death toll from a fake medicine crisis at a cardiology hospital in Lahore, Pakistan, reaches 112. ](/news/2012/01/30/the-death-toll-from-a-fake-medicine-crisis-at-a-cardiology-hospital-in-lahore-pakistan-reaches-112.md)
 _Context: Lahore, Pakistan, fake medicine crisis_

@@ -7,10 +7,10 @@ _Context: Afghanistan, Barack Obama, United States, United States President, Uni
 _Context: Allen Stanford, SEC, Stanford Financial Group, United States, chairman, fraud_
 
 ### [ British lawyer David Mills is sentenced to four-and-a-half years in jail for accepting a PS400,000 bribe from Italian Prime Minister Silvio Berlusconi. ](/news/2009/02/17/british-lawyer-david-mills-is-sentenced-to-four-and-a-half-years-in-jail-for-accepting-a-aps400-000-bribe-from-italian-prime-minister-silvio.md)
-_Context: David Mills, Italian Prime Minister, Italy, PS, Silvio Berlusconi, United Kingdom, accepting, bribes_
+_Context: David Mills, Italian, Italian Prime Minister, PS, Silvio Berlusconi, United Kingdom, accepting, bribes_
 
 ### [ Walter Veltroni resigns as Secretary of Italy's Democratic Party. ](/news/2009/02/17/walter-veltroni-resigns-as-secretary-of-italy-s-democratic-party.md)
-_Context: Democratic Party, Italy, Walter Veltroni_
+_Context: Democratic Party, Italian, Walter Veltroni_
 
 ### [ Legal charges against The Pirate Bay are amended. ](/news/2009/02/17/legal-charges-against-the-pirate-bay-are-amended.md)
 _Context: The Pirate Bay, trial_

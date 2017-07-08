@@ -16,7 +16,7 @@ Devaluation and setting of double exchange rate is attempt to improve export lev
 _Context: Eureka, California, earthquake, strikes offshore_
 
 ### [Hundreds of flights are cancelled in Germany as the severe weather conditions across Europe continue. The government asks people to buy several days worth of food and retreat indoors for the rest of the week. ](/news/2010/01/9/hundreds-of-flights-are-cancelled-in-germany-as-the-severe-weather-conditions-across-europe-continue-the-government-asks-people-to-buy-seve.md)
-_Context: Europe, German, severe weather conditions_
+_Context: Europe, Germany, severe weather conditions_
 
 ### [Egypt bans all future aid convoys to Gaza, following recent clashes with Viva Palestina. ](/news/2010/01/9/egypt-bans-all-future-aid-convoys-to-gaza-following-recent-clashes-with-viva-palestina.md)
 No convoys to be allowed passage in future following clashes over Viva Palestina.

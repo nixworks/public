@@ -1,7 +1,7 @@
 ## [2005-12-29](/news/2005/12/29/index.md)
 
 ### [ At least 30 people are killed following a large landslide in a village close to Sanaa in Yemen. ](/news/2005/12/29/at-least-30-people-are-killed-following-a-large-landslide-in-a-village-close-to-sanaa-in-yemen.md)
-_Context: Sana'a, Yemen, landslide_
+_Context: Sana'a, Yemen's, landslide_
 
 ### [ Arab-Israeli conflict: A suicide bomber attacks a checkpoint near the West Bank city of Tulkarm, killing one Israeli soldier, two Palestinian civilians and himself. Islamic Jihad has claimed responsibility for the attack. ](/news/2005/12/29/arabaisraeli-conflict-p-a-suicide-bomber-attacks-a-checkpoint-near-the-west-bank-city-of-tulkarm-killing-one-israeli-soldier-two-palest.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

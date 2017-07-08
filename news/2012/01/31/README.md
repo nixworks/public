@@ -10,7 +10,7 @@ _Context: Jogi, Pakistan, Pakistani Army, Taliban_
 The Kunduz Province authorities say that a woman, 22, was strangled by her husband and mother-in-law three months after she gave birth to a third girl.
 
 ### [Six aid workers are kidnapped in Yemen's Al Mahwit Governorate. ](/news/2012/01/31/six-aid-workers-are-kidnapped-in-yemen-s-al-mahwit-governorate.md)
-_Context: Al Mahwit Governorate, Yemen_
+_Context: Al Mahwit Governorate, Yemen's_
 
 ### [Former Royal Bank of Scotland CEO Fred Goodwin loses his knighthood from Queen Elizabeth II as a result of the near collapse of the bank in 2008. ](/news/2012/01/31/former-royal-bank-of-scotland-ceo-fred-goodwin-loses-his-knighthood-from-queen-elizabeth-ii-as-a-result-of-the-near-collapse-of-the-bank-in.md)
 _Context: Fred Goodwin, Queen Elizabeth II, Royal Bank of Scotland, knighthood_

@@ -7,7 +7,7 @@ _Context: Hurricane Katrina, Louisiana, St. Tammany Parish_
 _Context: ECOWAS, France, Ivorian Civil War, Senegal, United Nations, buffer zone, peacekeepers_
 
 ### [ South Africa announces a ZAR 140 million (USD $22 million) donation to the United Nations World Food Programme (WFP) and the Food and Agriculture Organization (FAO) to alleviate food shortages in Southern Africa. ](/news/2005/10/3/south-africa-announces-a-zar-140-million-usd-22-million-donation-to-the-united-nations-world-food-programme-wfp-and-the-food-and-agric.md)
-_Context: $, Food and Agriculture Organization, South Africa, Southern Africa, United Nations, World Food Programme, ZAR_
+_Context: Food and Agriculture Organization, South Africa, Southern Africa, USD, United Nations, World Food Programme, ZAR_
 
 ### [ Australians Barry J. Marshall and Robin Warren have been awarded the 2005 Nobel Prize in Physiology or Medicine "for their discovery of the bacterium ''Helicobacter pylouri'' and its role in gastritis and peptic ulcer disease". ](/news/2005/10/3/australians-barry-j-marshall-and-robin-warren-have-been-awarded-the-2005-nobel-prize-in-physiology-or-medicine-for-their-discovery-of-the.md)
 _Context: Australia, Barry J. Marshall, Helicobacter pylouri, Nobel Prize in Physiology or Medicine, Robin Warren, bacterium, gastritis, peptic ulcer_

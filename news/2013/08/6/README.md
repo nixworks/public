@@ -7,7 +7,7 @@ India said a group of militants from Pakistan killed five of its soldiers in an 
 DENMARK-EVACUATION/ :Police evacuate area of Copenhagen over suspect car
 
 ### [2013 embassy closures:The United States Department of State evacuates staff from the United States Embassy in Yemen due to an al-Qaida threat. ](/news/2013/08/6/2013-embassy-closures-pthe-united-states-department-of-state-evacuates-staff-from-the-united-states-embassy-in-yemen-due-to-an-al-qaida-thre.md)
-_Context: 2013 embassy closures, Al Qaida's, United States, United States Department of State, Yemen_
+_Context: 2013 embassy closures, Al Qaida's, United States, United States Department of State, Yemen's_
 
 ### [Ten people are killed in a clash between rival drug cartels in Honduras. ](/news/2013/08/6/ten-people-are-killed-in-a-clash-between-rival-drug-cartels-in-honduras.md)
 A shootout between rival drug gangs in Honduras leaves 17 people dead in a region infamous as a drugs transit route.
@@ -19,7 +19,7 @@ Rebels fighting to overthrow Syrian President Bashar al-Assad have captured a ke
 A series of car bombs targeting busy markets and shopping streets in and around Baghdad killed at least 51 people and wounded more than 100 on Tuesday, Iraqi medical and police sources said, part of a surge in violence in recent months.
 
 ### [Yemeni tribesman shoot down an army military helicopter killing eight soldiers. ](/news/2013/08/6/yemeni-tribesman-shoot-down-an-army-military-helicopter-killing-eight-soldiers.md)
-_Context: Yemen, Yemeni_
+_Context: Yemen's, Yemeni_
 
 ### [Four suspected Al-Qaeda militants are killed in a drone strike.  ](/news/2013/08/6/four-suspected-al-qaeda-militants-are-killed-in-a-drone-strike.md)
 _Context: al-Qaeda_

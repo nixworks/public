@@ -43,7 +43,7 @@ The House Ethics Committee Begins a Public Trial Against Charlie Rangel; Lawmake
 AU-PRINCE (Reuters) - Grammy-award winning singer Wyclef Jean said on Thursday that he has taken legal steps toward running for president in quake-devastated Haiti, but has not made a definite decision to run.
 
 ### [UNESCO's World Heritage Committee removes Ecuador's Galpagos Islands from its list of endangered World Heritage Sites. ](/news/2010/07/29/unesco-s-world-heritage-committee-removes-ecuador-s-galapagos-islands-from-its-list-of-endangered-world-heritage-sites.md)
-_Context: Ecuador, Galpagos Islands, UNESCO, World Heritage Committee, World Heritage Site_
+_Context: Ecuador, Galpagos Islands, UNESCO, World Heritage Committee, world heritage site_
 
 ### [Google claims that its Chinese Internet search and mobile search is blocked. ](/news/2010/07/29/google-claims-that-its-chinese-internet-search-and-mobile-search-is-blocked.md)
 _Context: Chinese, Google, Internet, search engine_

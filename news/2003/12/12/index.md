@@ -1,10 +1,10 @@
 ## [2003-12-12](/news/2003/12/12/index.md)
 
 ### [ A plot by militants linked to Al Qaeda to blow up the United Kingdom embassy in Yemen is foiled. [http://www.reuters.co.uk/newsPackageArticle.jhtml?type=topNews&storyID=421471&section=news]](/news/2003/12/12/a-plot-by-militants-linked-to-al-qaeda-to-blow-up-the-united-kingdom-embassy-in-yemen-is-foiled-http-www-reuters-co-uk-newspackageartic.md)
-_Context: United Kingdom, Yemen, al-Qaeda_
+_Context: United Kingdom, Yemen's, al-Qaeda_
 
 ### [ Germany announces plans to commemorate gay victims of the Nazi Holocaust, with a monument to be erected in central Berlin. [http://news.bbc.co.uk/2/hi/europe/3314887.stm]](/news/2003/12/12/germany-announces-plans-to-commemorate-gay-victims-of-the-nazi-holocaust-with-a-monument-to-be-erected-in-central-berlin-http-news-bbc.md)
-_Context: Berlin, German, Holocaust, Nazism, homosexuality_
+_Context: Berlin, Germany, Holocaust, Nazism, homosexuality_
 
 ### [ Queen Elizabeth II has a benign non-cancerous growth removed from her face. Buckingham Palace confirms the removed growths will be subject to further tests but denies there are any cancer fears surrounding the 77-year-old sovereign. She also underwent a knee operation. [http://www.sky.com/skynews/article/0,,30000-12947243,00.html]](/news/2003/12/12/queen-elizabeth-ii-has-a-benign-non-cancerous-growth-removed-from-her-face-buckingham-palace-confirms-the-removed-growths-will-be-subject.md)
 _Context: Buckingham Palace, Queen Elizabeth, cancer, monarch_
@@ -13,7 +13,7 @@ _Context: Buckingham Palace, Queen Elizabeth, cancer, monarch_
 _Context: BC Ferries, Canada, binding arbitration_
 
 ### [A European Union defence policy is agreed upon by Britain, France and Germany at the beginning of an EU summit in Brussels where the member countries will discuss a forthcoming constitution for the EU. Defence policy: ](/news/2003/12/12/a-european-union-defence-policy-is-agreed-upon-by-britain-france-and-germany-at-the-beginning-of-an-eu-summit-in-brussels-where-the-member.md)
-_Context: Brussels, European Union, France, German, United Kingdom, constitution_
+_Context: Brussels, European Union, France, Germany, United Kingdom, constitution_
 
 ### [Paul Martin, Jr. is appointed Canada's 21st Prime Minister, and takes his oath of office along with his cabinet. Notable Ministers include Deputy Prime Minister Anne McLellan in Domestic Security, Ralph Goodale in Finance, Pierre Pettigrew in Health and Intergovernmental Affairs, Lucienne Robillard in Industry, Irwin Cotler in Justice, Bill Graham in Foreign Affairs and David Pratt in Defence. [http://www.cbc.ca/stories/2003/12/12/martin_cab031212]](/news/2003/12/12/paul-martin-jr-is-appointed-canada-s-21st-prime-minister-and-takes-his-oath-of-office-along-with-his-cabinet-notable-ministers-include-d.md)
 _Context: Anne McLellan, Bill Graham, Canada, Canadian Prime Minister, David Pratt, Defence Minister, Deputy Prime Minister, Domestic Security, Finance Minister, Industry, Irwin Cotler, Justice, Lucienne Robillard, Minister of Foreign Affairs, Minister of Health, Minister of Intergovernmental Affairs, Paul Martin, Jr., Pierre Pettigrew, Ralph Goodale, new Cabinet_

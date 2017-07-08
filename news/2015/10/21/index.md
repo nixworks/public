@@ -7,7 +7,7 @@ Map detailing Taliban-controlled or contested districts. Click colored district 
 _Context: ISIL, Raqqa, Syria, Syrian Civil War_
 
 ### [Rockets fired by Houthi forces reportedly kill 14 people in city of Taiz, southwestern Yemen. ](/news/2015/10/21/rockets-fired-by-houthi-forces-reportedly-kill-14-people-in-city-of-taiz-southwestern-yemen.md)
-_Context: Houthi, Taiz, Yemen, Yemeni Civil War (2015)_
+_Context: Houthi, Taiz, Yemen's, Yemeni Civil War (2015)_
 
 ### [According to a civilian vigilante, 20 people are killed after Boko Haram militants open fire on cars outside a village in Nigeria's restive northeast Borno state. ](/news/2015/10/21/according-to-a-civilian-vigilante-20-people-are-killed-after-boko-haram-militants-open-fire-on-cars-outside-a-village-in-nigeria-s-restive.md)
 Twenty people were shot dead by suspected Boko Haram gunmen Wednesday on a road outside a village in Nigeria&#x27;s northeast Borno state, local sources said. A large group of Boko Haram gunmen fleeing a military offensive on their camp in Nganzai district opened fire on four cars just outside Jingalta
@@ -19,7 +19,7 @@ _Context: 2015 Pacific typhoon season, Philippines, Typhoon Koppu (Lando), emerg
 A partly opened parachute F-18 fighter crashes on to farmland, some seven miles from Suffolk&#039;s RAF Lakenheath.
 
 ### [The American Academy of Pediatrics calls for pregnant women to abstain completely from alcohol during the entire three trimesters of the pregnancy, saying no amount of any type of alcohol should be considered safe since the risks, to the baby in particular (such as fetal alcohol syndrome, among many others), are too great. This puts the U.S. alongside other Western developed countries- except Italy and the United Kingdom, which still allow occasional small amounts- in urging complete abstinence. The American College of Obstetricians and Gynecologists and the Centers for Disease Control and Prevention (CDC), the two other U.S. agencies that comment most about this issue, already recommend total alcohol abstinence. ](/news/2015/10/21/the-american-academy-of-pediatrics-calls-for-pregnant-women-to-abstain-completely-from-alcohol-during-the-entire-three-trimesters-of-the-pre.md)
-_Context: American Academy of Pediatrics, American College of Obstetricians and Gynecologists, Centers for Disease Control and Prevention, Italy, United Kingdom, fetal alcohol syndrome_
+_Context: American Academy of Pediatrics, American College of Obstetricians and Gynecologists, Centers for Disease Control and Prevention, Italian, United Kingdom, fetal alcohol syndrome_
 
 ### [The President of Syria Bashar al-Assad visits Moscow for talks with the President of Russia Vladimir Putin in an unannounced visit. ](/news/2015/10/21/the-president-of-syria-bashar-al-assad-visits-moscow-for-talks-with-the-president-of-russia-vladimir-putin-in-an-unannounced-visit.md)
 _Context: Bashar al-Assad, Moscow, President, Russia President, Syrian Civil War, Vladimir Putin_

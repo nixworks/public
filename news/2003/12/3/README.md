@@ -7,7 +7,7 @@ _Context: Deng Pufang, Plaza de Mayo Grandmothers, Srgio Vieira de Mello, UN hum
 _Context: Australia, Daily Telegraph, Sydney, child pornography, national postal service, pornography_
 
 ### [In Kassel, Germany, the trial of Armin Meiwes begins. He is charged with killing and eating Bernd-Jrgen Brandes who was one of 200 people who replied to an Internet advertisement for "a well-built male prepared to be slaughtered and then consumed". The whole episode was videotaped. The case is legally difficult as cannibalism is not explicitly prohibited by the German penal code, and the defence argues that as the victim was willing, no murder took place. [http://news.bbc.co.uk/1/hi/world/europe/3286721.stm]](/news/2003/12/3/in-kassel-germany-the-trial-of-armin-meiwes-begins-he-is-charged-with-killing-and-eating-bernd-jurgen-brandes-who-was-one-of-200-people-w.md)
-_Context: Armin Meiwes, Bernd-Jrgen Brandes, German, Kassel, eat, penal code_
+_Context: Armin Meiwes, Bernd-Jrgen Brandes, Germany, Kassel, eat, penal code_
 
 ### [The Russian government backtracks on statements made the previous day on the Kyoto Protocol, saying it is still considering ratification. [http://news.bbc.co.uk/2/hi/science/nature/3288683.stm]](/news/2003/12/3/the-russian-government-backtracks-on-statements-made-the-previous-day-on-the-kyoto-protocol-saying-it-is-still-considering-ratification-h.md)
 _Context: Kyoto Protocol, Russia, ratified_

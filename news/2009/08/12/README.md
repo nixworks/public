@@ -7,7 +7,7 @@ Venezuelan President Hugo Chavez received on Tuesday Argentine President Cristin
 _Context: killer whale_
 
 ### [ Yemeni troops, backed by tanks and fighter aircraft, launch a major offensive on the stronghold of Shia fighters in northern Yemen. ](/news/2009/08/12/yemeni-troops-backed-by-tanks-and-fighter-aircraft-launch-a-major-offensive-on-the-stronghold-of-shia-fighters-in-northern-yemen.md)
-_Context: Shia, Shia insurgency in Yemen, Yemen_
+_Context: Shia, Shia insurgency in Yemen, Yemen's_
 
 ### [ Thirty people are killed in Warrap state in southern Sudan, in a resurgence of the nomadic conflicts. ](/news/2009/08/12/thirty-people-are-killed-in-warrap-state-in-southern-sudan-in-a-resurgence-of-the-nomadic-conflicts.md)
 _Context: Sudan, Warrap state, renewed violence_
@@ -37,7 +37,7 @@ _Context: New Caledonia, Noumea, police, trade unionists_
 Tongan Transport Minister Paul Karalus has resigned, six days after the sinking of the Princess Ashika. - New Zealand Herald
 
 ### [ German CDU politician Vera Lengsfeld attracts controversy for displaying a photo of Angela Merkel in a revealing gown without the authorisation of the Chancellor. ](/news/2009/08/12/german-cdu-politician-vera-lengsfeld-attracts-controversy-for-displaying-a-photo-of-angela-merkel-in-a-revealing-gown-without-the-authorisa.md)
-_Context: Angela Merkel, Christian Democratic Union, German, German Chancellor, Vera Lengsfeld_
+_Context: Angela Merkel, Christian Democratic Union, German Chancellor, Germany, Vera Lengsfeld_
 
 ### [ Lubna al-Hussein, the Sudanese woman facing forty lashes for wearing trousers in public, is prevented from leaving the country for a trip to Lebanon, where she was to take part in a televised talk-show about women's issues. ](/news/2009/08/12/lubna-al-hussein-the-sudanese-woman-facing-forty-lashes-for-wearing-trousers-in-public-is-prevented-from-leaving-the-country-for-a-trip-t.md)
 _Context: Lebanon, Lubna al-Hussein, Sudan_
@@ -46,7 +46,7 @@ _Context: Lebanon, Lubna al-Hussein, Sudan_
 _Context: Diego Len Montoya Snchez, Norte Valle Cartel, murder, racketeering_
 
 ### [ The Roman Catholic Church is expresses "unease" and "mortification" over revelations surrounding the private life of Italian Prime Minister Silvio Berlusconi. ](/news/2009/08/12/the-roman-catholic-church-is-expresses-unease-and-mortification-over-revelations-surrounding-the-private-life-of-italian-prime-minister.md)
-_Context: Italian Prime Minister, Italy, Roman Catholic Church, Silvio Berlusconi_
+_Context: Italian, Italian Prime Minister, Roman Catholic Church, Silvio Berlusconi_
 
 ### [ Astronomers discover WASP-17b, the first planet that orbits in the opposite direction to the spin of its star. ](/news/2009/08/12/astronomers-discover-wasp-17b-the-first-planet-that-orbits-in-the-opposite-direction-to-the-spin-of-its-star.md)
 _Context: WASP-17b_

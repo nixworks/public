@@ -1,7 +1,7 @@
 ## [2010-03-16](/news/2010/03/16/index.md)
 
 ### [Ancient tombs of Uganda's Bugandan kings, a World Heritage Site, are burnt down by unknown causes. ](/news/2010/03/16/ancient-tombs-of-uganda-s-bugandan-kings-a-world-heritage-site-are-burnt-down-by-unknown-causes.md)
-_Context: Ancient tombs, Buganda, Uganda, World Heritage Site, kings_
+_Context: Ancient tombs, Buganda, Uganda, kings, world heritage site_
 
 ### [Nauru President Marcus Stephen dissolves Parliament, paving the way for an early general election, originally scheduled for 2011. ](/news/2010/03/16/nauru-president-marcus-stephen-dissolves-parliament-paving-the-way-for-an-early-general-election-originally-scheduled-for-2011.md)
 _Context: Marcus Stephen, Nauru, Parliament, President of Nauru, parliamentary election_

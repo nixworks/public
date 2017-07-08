@@ -52,7 +52,7 @@ _Context: Man Booker Prize_
 A group of researchers have found a protein that facilitates the digestion of blood. Now they hope to find ways to eliminate mosquitoes’ thirst for blood as well as fight endemic diseases in the developing world like malaria.
 
 ### [ Italian officials evacuate a newly built hospital in Agrigento in western Sicily after tests show it risked collapse in an earthquake. ](/news/2009/07/28/italian-officials-evacuate-a-newly-built-hospital-in-agrigento-in-western-sicily-after-tests-show-it-risked-collapse-in-an-earthquake.md)
-_Context: Agrigento, Italy, Sicily, earthquake_
+_Context: Agrigento, Italian, Sicily, earthquake_
 
 ### [ 22 people are killed, 41 are injured and seven are missing after heavy rain and floods in Sichuan. ](/news/2009/07/28/22-people-are-killed-41-are-injured-and-seven-are-missing-after-heavy-rain-and-floods-in-sichuan.md)
 _Context: Sichuan_

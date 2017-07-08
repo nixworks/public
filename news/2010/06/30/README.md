@@ -31,7 +31,7 @@ Finland is now the first country in the world where every citizen is entitled to
 Sudanese authorities release Islamist opposition leader Hassan al-Turabi after six weeks in detention, his secretary says.
 
 ### [Inauguration of Noynoy Aquino:Benigno Aquino III is sworn in as the 15th President of the Philippines and Jejomar Binay is sworn the 15th Vice President of the Philippines.](/news/2010/06/30/inauguration-of-noynoy-aquino-pbenigno-aquino-iii-is-sworn-in-as-the-15th-president-of-the-philippines-and-jejomar-binay-is-sworn-the-15th-v.md)
-_Context: Benigno Aquino III, Inauguration of Noynoy Aquino, Jejomar Binay, President of the Philippines, Vice President_
+_Context: Benigno Aquino III, Inauguration of Noynoy Aquino, Jejomar Binay, President of the Philippines, Vice President of the Philippines_
 
 ### [Two people are killed overnight in Burundi and two others wounded in violence that follows a controversial presidential election in which incumbent Pierre Nkurunziza was the only candidate. ](/news/2010/06/30/two-people-are-killed-overnight-in-burundi-and-two-others-wounded-in-violence-that-follows-a-controversial-presidential-election-in-which-in.md)
 _Context: Burundi, Pierre Nkurunziza_
@@ -79,7 +79,7 @@ A former top diplomat says he felt &quot;very uncomfortable&quot; about the UK g
 A war crimes court rules that model Naomi Campbell can be called to testify against former Liberian President Charles Taylor.
 
 ### [The Italian government appeals to the European Court of Human Rights to overturn a ban on classroom crucifixes. ](/news/2010/06/30/the-italian-government-appeals-to-the-european-court-of-human-rights-to-overturn-a-ban-on-classroom-crucifixes.md)
-_Context: European Court of Human Rights, Italy, crucifix_
+_Context: European Court of Human Rights, Italian, crucifix_
 
 ### [Goodluck Jonathan suspends the Nigeria national football team from international competition for two years due to poor performances in the 2010 FIFA World Cup in South Africa. ](/news/2010/06/30/goodluck-jonathan-suspends-the-nigeria-national-football-team-from-international-competition-for-two-years-due-to-poor-performances-in-the-2.md)
 _Context: 2010 FIFA World Cup, Goodluck Jonathan, South Africa, national football team_

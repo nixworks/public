@@ -7,7 +7,7 @@ _Context: George W. Bush, Iraq, United States House of Representatives_
 _Context: North Korea, Taepodong-2_
 
 ### [ The Italian pretender, Vittorio Emanuele, Prince of Naples, is arrested as part of an investigation into corruption and prostitution. ](/news/2006/06/16/the-italian-pretender-vittorio-emanuele-prince-of-naples-is-arrested-as-part-of-an-investigation-into-corruption-and-prostitution.md)
-_Context: Italy, Vittorio Emanuele, Prince of Naples, pretender_
+_Context: Italian, Vittorio Emanuele, Prince of Naples, pretender_
 
 ### [ An H5 strain of avian influenza has been detected in the Canadian province of Prince Edward Island. The bird flu currently has a "low risk" to humans.](/news/2006/06/16/an-h5-strain-of-avian-influenza-has-been-detected-in-the-canadian-province-of-prince-edward-island-the-bird-flu-currently-has-a-low-risk.md)
 _Context: Avian flu virus, Canadian, Prince Edward Island_

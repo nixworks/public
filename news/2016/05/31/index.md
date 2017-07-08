@@ -19,7 +19,7 @@ One of the entrance halls has collapsed in a five-story apartment block in Mezhd
 _Context: Fourth Circuit Appeals Court_
 
 ### [In an interview with the German broadsheet ''Frankfurter Allgemeine'', the Tibetan spiritual leader Dalai Lama says that Germany has taken too many refugees and "from a moral standpoint" refugees should "only be accommodated temporarily" -- with the goal of them returning home to rebuild their countries. ](/news/2016/05/31/in-an-interview-with-the-german-broadsheet-frankfurter-allgemeine-the-tibetan-spiritual-leader-dalai-lama-says-that-germany-has-taken-t.md)
-_Context: Dalai Lama, Frankfurter Allgemeine, German_
+_Context: Dalai Lama, Frankfurter Allgemeine, Germany_
 
 ### [North Korea attempts again to launch a BM25 Musudan intermediate-range ballistic missile capable of striking South Korea or Japan but is unsuccessful. ](/news/2016/05/31/north-korea-attempts-again-to-launch-a-bm25-musudan-intermediate-range-ballistic-missile-capable-of-striking-south-korea-or-japan-but-is-uns.md)
 Pyongyang has never successfully launched one of the intermediate-range missiles, which are theoretically capable of hitting South Korea and Japan

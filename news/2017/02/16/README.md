@@ -19,13 +19,13 @@ President Donald Trump on Wednesday called on Venezuela to release opposition le
 The DOJ told a federal court Thursday that there&#x27;s no point in further court battles over President Trump&#x27;s executive order on immigration.
 
 ### [The Supreme Court of the Philippines allows the electoral protest of defeated candidate  Bongbong Marcos against Philippine vice president  Leni Robredo to continue. ](/news/2017/02/16/the-supreme-court-of-the-philippines-allows-the-electoral-protest-of-defeated-candidate-bongbong-marcos-against-philippine-vice-president.md)
-_Context: Bongbong Marcos, Leni Robredo, Philippine presidential election, 2016, Philippines, Supreme Court_
+_Context: Bongbong Marcos, Leni Robredo, Philippine presidential election, 2016, Philippines, Supreme Court of the Philippines_
 
 ### [United Nations officials announce the creation of a new team in Geneva to investigate possible war crimes, crimes against humanity and genocide during the Syrian Civil War in order to prepare for future prosecutions of those responsible. ](/news/2017/02/16/united-nations-officials-announce-the-creation-of-a-new-team-in-geneva-to-investigate-possible-war-crimes-crimes-against-humanity-and-genoc.md)
 Geneva-based team will investigate ‘abuses that amount to international crimes’ and prepare files for future prosecutions
 
 ### [U.S. President Donald Trump names  Florida International University College of Law Dean  and former National Labor Relations Board member Alexander Acosta to be Secretary of Labor. The President's initial nominee, Andy Puzder, withdrew his nomination yesterday. ](/news/2017/02/16/u-s-president-donald-trump-names-florida-international-university-college-of-law-dean-and-former-national-labor-relations-board-member-al.md)
-_Context: Alexander Acosta, Andy Puzder, Donald Trump, Florida International University College of Law, Formation of Donald Trump's cabinet, National Labor Relations Board, United States President, United States Secretary of Labor_
+_Context: Alexander Acosta, Andy Puzder, Donald Trump's, Florida International University College of Law, Formation of Donald Trump's cabinet, National Labor Relations Board, United States President, United States Secretary of Labor_
 
 ### [The U.S. Senate confirms, 51-49, Congressman Mick Mulvaney to head the Office of Management and Budget. ](/news/2017/02/16/the-u-s-senate-confirms-51-49-congressman-mick-mulvaney-to-head-the-office-of-management-and-budget.md)
 _Context: Mick Mulvaney, Office of Management and Budget, Political appointments of Donald Trump, United States Senate_

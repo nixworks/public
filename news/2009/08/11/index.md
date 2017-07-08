@@ -22,7 +22,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 _Context: 6.5 magnitude quake, Andaman Islands, Asia, India, Japan, Tokyo, magnitude, quake off_
 
 ### [ A German court sentences former Nazi army commander Josef Scheungraber to life in prison for his role in the murder of 10 Italians in Tuscany in 1944. ](/news/2009/08/11/a-german-court-sentences-former-nazi-army-commander-josef-scheungraber-to-life-in-prison-for-his-role-in-the-murder-of-10-italians-in-tusca.md)
-_Context: German, Italy, Josef Scheungraber, Nazi, Tuscany_
+_Context: Germany, Italian, Josef Scheungraber, Nazi, Tuscany_
 
 ### [ Thousands of people worship a baby born with four arms and four legs in Ramechhap, Nepal, revering him as the reincarnation of Ganesh. ](/news/2009/08/11/thousands-of-people-worship-a-baby-born-with-four-arms-and-four-legs-in-ramechhap-nepal-revering-him-as-the-reincarnation-of-ganesh.md)
 _Context: Ganesh, Nepal, Ramechhap_

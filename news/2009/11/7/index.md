@@ -4,7 +4,7 @@
 _Context: Texas, United Kingdom_
 
 ### [ Saudi forces bomb a Houthi rebel stronghold in northern Yemen for a third day. ](/news/2009/11/7/saudi-forces-bomb-a-houthi-rebel-stronghold-in-northern-yemen-for-a-third-day.md)
-_Context: Houthi, Saudi Arabia, Yemen, due to fighting_
+_Context: Houthi, Saudi Arabia, Yemen's, due to fighting_
 
 ### [ Thousands of people in Bermeo, Spain, demonstrate for the release of 36 Spanish fishermen being held by Somali pirates. ](/news/2009/11/7/thousands-of-people-in-bermeo-spain-demonstrate-for-the-release-of-36-spanish-fishermen-being-held-by-somali-pirates.md)
 _Context: Bermeo, Somali pirates, Spain_

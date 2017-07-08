@@ -4,7 +4,7 @@
 _Context: Algerian Army, El Oued, Insurgency in the Maghreb (2002-present)_
 
 ### [More than 50 people have died in fighting in the Yemeni city of Taiz. ](/news/2016/03/11/more-than-50-people-have-died-in-fighting-in-the-yemeni-city-of-taiz.md)
-_Context: Taiz, Yemen, Yemeni conflict_
+_Context: Taiz, Yemen's, Yemeni conflict_
 
 ### [American veterans' nonprofit charity The Wounded Warrior Project board of directors removes chief executive officer Steven Nardizzi and chief operation officer Al Giordano after an independent investigation confirms earlier news reports about lavish spending on employee perks, high overhead, and other perceived malfeasance. ](/news/2016/03/11/american-veteransa-nonprofit-charity-the-wounded-warrior-project-board-of-directors-removes-chief-executive-officer-steven-nardizzi-and-ch.md)
 _Context: Wounded Warrior Project_

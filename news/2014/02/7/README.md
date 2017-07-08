@@ -22,7 +22,7 @@ _Context: Russia_
 _Context: Australian, Bali, Indonesia, Schapelle Corby_
 
 ### [U.S. Chief Justice John G. Roberts announces he appointed Judge Richard C. Tallman of the Ninth Circuit to the United States Foreign Intelligence Surveillance Court of Review for a six-year term beginning January 27, 2014, filling the vacancy that had existed since August, and Judge James E. Boasberg of the United States District Court for the District of Columbia to replace Reggie Walton in the United States Foreign Intelligence Surveillance Court for a six-year term in May.  ](/news/2014/02/7/u-s-chief-justice-john-g-roberts-announces-he-appointed-judge-richard-c-tallman-of-the-ninth-circuit-to-the-united-states-foreign-intelli.md)
-_Context: Chief Justice, James E. Boasberg, John G. Roberts, Ninth Circuit Appeals Court panel, Reggie Walton, Richard C. Tallman, U.S. District Court for the District of Columbia, United States Foreign Intelligence Surveillance Court, United States Foreign Intelligence Surveillance Court of Review_
+_Context: Chief Justice, James E. Boasberg, John G. Roberts, Reggie Walton, Richard C. Tallman, U.S. District Court for the District of Columbia, United States Court of Appeals for the Ninth Circuit, United States Foreign Intelligence Surveillance Court, United States Foreign Intelligence Surveillance Court of Review_
 
 ## [Previous Day...](/news/2014/02/6/index.md)
 

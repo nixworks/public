@@ -10,7 +10,7 @@ Demonstrators protest government&#8217;s failure to act against Islamic State at
 _Context: Afghanistan, Helmand Province, Taliban insurgency, suicide bomber_
 
 ### [al-Qaeda launches an attack on the south Yemen town of al-Bayda killing at least four soldiers before being beaten back by the army. ](/news/2014/10/8/al-qaeda-launches-an-attack-on-the-south-yemen-town-of-al-bayda-killing-at-least-four-soldiers-before-being-beaten-back-by-the-army.md)
-_Context: Al-Qaeda insurgency in Yemen, Yemen, al-Bayda, al-Qaeda_
+_Context: Al-Qaeda insurgency in Yemen, Yemen's, al-Bayda, al-Qaeda_
 
 ### [The Vienna Philharmonic Orchestra is awarded the $1 million Birgit Nilsson Prize in a ceremony in Stockholm. ](/news/2014/10/8/the-vienna-philharmonic-orchestra-is-awarded-the-1-million-birgit-nilsson-prize-in-a-ceremony-in-stockholm.md)
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.

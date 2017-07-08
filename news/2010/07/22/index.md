@@ -112,7 +112,7 @@ _Context: Cabinet formation in the Netherlands, Informateur, Prime Minister, Ruu
 _Context: Roy Oldham_
 
 ### [A woman is diagnosed with Creutzfeldt-Jakob disease ("human mad cow disease") in Milan then hospitalised in Livorno, only the second case in Italy's history and the first since Sicily 2002. ](/news/2010/07/22/a-woman-is-diagnosed-with-creutzfeldtajakob-disease-human-mad-cow-disease-in-milan-then-hospitalised-in-livorno-only-the-second-case.md)
-_Context: Creutzfeldt-Jakob disease, Italy, Livorno, Milan, Sicily_
+_Context: Creutzfeldt-Jakob disease, Italian, Livorno, Milan, Sicily_
 
 ### [A new henge is discovered at Stonehenge World Heritage Site, described to be the biggest discovery of a major monument in over 50 years around Stonehenge. ](/news/2010/07/22/a-new-henge-is-discovered-at-stonehenge-world-heritage-site-described-to-be-the-biggest-discovery-of-a-major-monument-in-over-50-years-arou.md)
 Archaeologists discover a second henge at Stonehenge, described as the most exciting find at the site in 50 years.

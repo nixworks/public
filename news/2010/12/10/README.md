@@ -37,13 +37,13 @@ Jailed Chinese dissident Liu Xiaobo was awarded the Nobel Peace Prize in a cerem
 The British government has trained a paramilitary force accused of hundreds of killings in Bangladesh, according to leaked U.S. embassy cables. 
 
 ### [For the first time since World War II, German troops are stationed in France. ](/news/2010/12/10/for-the-first-time-since-world-war-ii-german-troops-are-stationed-in-france.md)
-_Context: France, German, World War II_
+_Context: France, Germany, World War II_
 
 ### [Detention of Julian Assange:Christine Assange, mother of the imprisoned WikiLeaks spokesperson Julian Assange, expresses her anger with the Australian government, especially Julia Gillard, on the Seven Network. ](/news/2010/12/10/detention-of-julian-assange-pchristine-assange-mother-of-the-imprisoned-wikileaks-spokesperson-julian-assange-expresses-her-anger-with-the.md)
 London, Dec 10 (DPA) WikiLeaks founder Julian Assange, who is being held in extradition custody in London, has been refused the use of his own laptop but...
 
 ### [Prosecutors in Italy open an investigation into allegations that Prime Minister Silvio Berlusconi bought MPs before important votes. ](/news/2010/12/10/prosecutors-in-italy-open-an-investigation-into-allegations-that-prime-minister-silvio-berlusconi-bought-mps-before-important-votes.md)
-_Context: Italian Prime Minister, Italy, Silvio Berlusconi_
+_Context: Italian, Italian Prime Minister, Silvio Berlusconi_
 
 ### [Prosecutors in Croatia issue an arrest warrant for former Prime Minister Ivo Sanader on suspected corruption charges. He is then arrested. ](/news/2010/12/10/prosecutors-in-croatia-issue-an-arrest-warrant-for-former-prime-minister-ivo-sanader-on-suspected-corruption-charges-he-is-then-arrested.md)
 Ivo Sanader, wanted for corruption, has been arrested by Austrian police near Salzburgon on an international warrant.

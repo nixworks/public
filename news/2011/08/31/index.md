@@ -7,13 +7,13 @@ Evidence mounts that Libyan despot lied when he told the world a 1986 U.S. air s
 _Context: Hama, Syrian Army_
 
 ### [The 68th Venice International Film Festival gets underway in Venice, Italy. ](/news/2011/08/31/the-68th-venice-international-film-festival-gets-underway-in-venice-italy.md)
-_Context: 68th Venice International Film Festival, Italy, Venice_
+_Context: 68th Venice International Film Festival, Italian, Venice_
 
 ### [ExxonMobil and OAO Rosneft reach a deal which may reach $500 billion in projects in the Arctic, Gulf of Mexico, and the Black Sea. ](/news/2011/08/31/exxonmobil-and-oao-rosneft-reach-a-deal-which-may-reach-500-billion-in-projects-in-the-arctic-gulf-of-mexico-and-the-black-sea.md)
 Exxon Mobil Corp and Rosneft signed an agreement to extract oil and gas from the Russian Arctic, in the most significant U.S.-Russian corporate deal since U.S. President Barack Obama began a push to improve ties.
 
 ### [The United States Justice Department files an antitrust lawsuit to prevent AT&T from taking over T-Mobile USA. ](/news/2011/08/31/the-united-states-justice-department-files-an-antitrust-lawsuit-to-prevent-at-t-from-taking-over-t-mobile-usa.md)
-_Context: AT&T, T-Mobile USA, United States Justice Department, reduced competition and higher prices_
+_Context: AT&T, Justice Department, T-Mobile USA, reduced competition and higher prices_
 
 ### [Wildfires severely damage homes and infrastructure in the US states of Texas and Oklahoma. ](/news/2011/08/31/wildfires-severely-damage-homes-and-infrastructure-in-the-us-states-of-texas-and-oklahoma.md)
 _Context: Oklahoma!, Texas, wildfire_

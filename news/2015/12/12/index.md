@@ -10,7 +10,7 @@ Syria has suffered another day of death and destruction. This time in the centra
 _Context: 2015 Burundian unrest, Bujumbura, Burundi, Burundian Army_
 
 ### [All sides in the Yemeni civil war  announce a seven-day ceasefire will start on Monday. ](/news/2015/12/12/all-sides-in-the-yemeni-civil-war-announce-a-seven-day-ceasefire-will-start-on-monday.md)
-_Context: Yemen, Yemeni Civil War (2015)_
+_Context: Yemen's, Yemeni Civil War (2015)_
 
 ### [Nigerian soldiers kill at least 12 people and injure dozens more in a clash with followers  of Shi'a cleric Ibrahim Zakzaky's Islamic movement in the northern town of Zaria. The army says the crowd  surged towards General Tukur Buratai's convoy, some firing and attempting to kill Buratai. Afterward, the Nigerian Army and  the Islamic Movement accuse each other of instigating the attacks. ](/news/2015/12/12/nigerian-soldiers-kill-at-least-12-people-and-injure-dozens-more-in-a-clash-with-followers-of-shi-a-cleric-ibrahim-zakzaky-s-islamic-moveme.md)
 The army accuses Shiites of attempting to assassinate its chief, Tukur Buratai.

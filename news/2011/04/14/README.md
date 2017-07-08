@@ -31,7 +31,7 @@ North Korea confirms that it arrested a US citizen last November, and is prepari
 _Context: Brazil, Brazil, Russia, India, China, and South Africa, China, Hainan Province, India, Russia, Sanya, South Africa_
 
 ### [NATO foreign ministers meet in Berlin, Germany, to discuss issues including Libya. ](/news/2011/04/14/nato-foreign-ministers-meet-in-berlin-germany-to-discuss-issues-including-libya.md)
-_Context: Berlin, German, Libyan Civil War, NATO_
+_Context: Berlin, Germany, Libyan Civil War, NATO_
 
 ### [Rejean Hinse, a Quebec man wrongly convicted of a crime in the 1960s before being acquitted by the Supreme Court of Canada 30 years later receives a record $13.1 million in compensation. ](/news/2011/04/14/ra-c-jean-hinse-a-quebec-man-wrongly-convicted-of-a-crime-in-the-1960s-before-being-acquitted-by-the-supreme-court-of-canada-30-years-later-r.md)
 R&eacute;jean Hinse, a Quebecer who was wrongfully imprisoned in the 1960s before being acquitted by the Supreme Court of Canada 30 years later, is getting a record $13.1 million in compensation.

@@ -13,7 +13,7 @@ A suicide attack at the gates of a Mogadishu hotel where the new Somali leader i
 _Context: Ghent, Ghent Altarpiece, Museum of Fine Arts, One panel, Saint Bavo Cathedral, restoration_
 
 ### [The Federal Constitutional Court in Karlsruhe rules that Germany's participation in the European Stability Mechanism (ESM) is, conditionally, within the German Constitution's limits, allowing President Gauck to approve the Bundestag's previous agreement with the mechanism. ](/news/2012/09/12/the-federal-constitutional-court-in-karlsruhe-rules-that-germany-s-participation-in-the-european-stability-mechanism-esm-is-conditionally.md)
-_Context: Bundestag, European Stability Mechanism, Federal Constitutional Court of Germany, German, German Constitution, Joachim Gauck, Karlsruhe, President of Germany_
+_Context: Bundestag, European Stability Mechanism, Federal Constitutional Court of Germany, German Constitution, Germany, Joachim Gauck, Karlsruhe, President of Germany_
 
 ### [Teachers in Chicago continue their strike until a new labour agreement is met. ](/news/2012/09/12/teachers-in-chicago-continue-their-strike-until-a-new-labour-agreement-is-met.md)
 _Context: Chicago_

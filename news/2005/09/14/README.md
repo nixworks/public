@@ -10,7 +10,7 @@ _Context: Central African Republic, Kenya, Liberia, Tanzania, UN High Commission
 _Context: 2005 Atlantic hurricane season, North Carolina, Outer Banks, evacuation centers_
 
 ### [ Two American air carriers, Delta Air Lines and Northwest Airlines, have filed for Chapter 11 bankruptcy protection.   Delta has lost over six billion USD since the start of 2001.](/news/2005/09/14/two-american-air-carriers-delta-air-lines-and-northwest-airlines-have-filed-for-chapter-11-bankruptcy-protection-delta-has-lost-over-s.md)
-_Context: $, Delta Air Lines, Northwest Airlines, bankruptcy, billion, chapter 11_
+_Context: Delta Air Lines, Northwest Airlines, USD, bankruptcy, billion, chapter 11_
 
 ### [ The Massachusetts General Court rejects a proposed amendment to ban Same-sex marriage in Massachusetts by a vote of 157-39, meaning that Massachusetts will remain the only state in the United States to allow gay marriage.](/news/2005/09/14/the-massachusetts-general-court-rejects-a-proposed-amendment-to-ban-same-sex-marriage-in-massachusetts-by-a-vote-of-157-39-meaning-that-ma.md)
 _Context: Massachusetts, Massachusetts General Court, to get married_

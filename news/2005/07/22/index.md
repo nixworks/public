@@ -22,7 +22,7 @@ _Context: Microsoft, Windows Vista, beta test_
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ### [ At least 36 people are dead after two days of violent fuel riots in Yemen. ](/news/2005/07/22/at-least-36-people-are-dead-after-two-days-of-violent-fuel-riots-in-yemen.md)
-_Context: Yemen_
+_Context: Yemen's_
 
 ### [ At least 15 people are killed when a dam collapses in south-west China. ](/news/2005/07/22/at-least-15-people-are-killed-when-a-dam-collapses-in-south-west-china.md)
 _Context: China, dam_

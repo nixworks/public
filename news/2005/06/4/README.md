@@ -16,7 +16,7 @@ _Context: Beirut, Gibran Tueni, Prime Minister, Rafik al-Hariri, Saad al-Hariri,
 _Context: Hamas, July 17, Mahmoud Abbas, President of the Palestinian Authority_
 
 ### [ Roberto Maroni, Italian Minister of Welfare, calls for Italy to stop using the Euro and revert to the Lira. ](/news/2005/06/4/roberto-maroni-italian-minister-of-welfare-calls-for-italy-to-stop-using-the-euro-and-revert-to-the-lira.md)
-_Context: Italy, Lira, Minister of Welfare, Roberto Maroni, euro_
+_Context: Italian, Lira, Minister of Welfare, Roberto Maroni, euro_
 
 ## [Previous Day...](/news/2005/06/3/index.md)
 

@@ -13,7 +13,7 @@ _Context: 2007 United States Air Force nuclear weapons incident, Michael Wynne, 
 _Context: Burma, Cyclone Nargis, State Peace and Development Council, USS ''Essex'', USS ''Harpers Ferry'', USS ''Juneau'', USS ''Mustin''_
 
 ### [ Khalid Sheikh Mohammed and four others are arraigned at Guantanamo Bay detention camp under the Military Commissions Act of 2006, and charged with crimes related to the September 11, 2001 attacks. ](/news/2008/06/5/khalid-sheikh-mohammed-and-four-others-are-arraigned-at-guantanamo-bay-detention-camp-under-the-military-commissions-act-of-2006-and-charg.md)
-_Context: Khalid Sheikh Mohammed, Military Commissions Act of 2006, September 11, 2001 attacks, detainee_
+_Context: Guantanamo Bay Detention Camp, Khalid Sheikh Mohammed, Military Commissions Act of 2006, September 11, 2001 attacks_
 
 ### [ Prosecutor Luis Moreno-Ocampo of the International Criminal Court reports that crimes in the War in Darfur "required the sustained mobilization of the entire State apparatus" of Sudan. ](/news/2008/06/5/prosecutor-luis-moreno-ocampo-of-the-international-criminal-court-reports-that-crimes-in-the-war-in-darfur-required-the-sustained-mobiliza.md)
 _Context: International Criminal Court, Luis Moreno-Ocampo, Sudanese cabinet, conflict_

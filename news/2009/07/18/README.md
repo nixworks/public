@@ -7,7 +7,7 @@ Henry Allingham, who was the world&#39;s oldest man and oldest World War I veter
 _Context: Green Party, Republic of Ireland, Treaty of Lisbon, the second Irish referendum_
 
 ### [ Three people are missing in Nachterstedt, Germany, after their home collapses into a lake. ](/news/2009/07/18/three-people-are-missing-in-nachterstedt-germany-after-their-home-collapses-into-a-lake.md)
-_Context: German, Nachterstedt_
+_Context: Germany, Nachterstedt_
 
 ### [ Voters in Mauritania go to the polls for a presidential election, its first election since the coup d'tat last year. ](/news/2009/07/18/voters-in-mauritania-go-to-the-polls-for-a-presidential-election-its-first-election-since-the-coup-d-etat-last-year.md)
 _Context: Mauritania, coup d'tat, presidential election_

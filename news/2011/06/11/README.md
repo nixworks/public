@@ -10,7 +10,7 @@ Opposition calls for further reform at first protest in months after martial law
 _Context: 1998 United States embassy bombings, Fazul Abdullah Mohammed, Kenya, Somalia, Tanzania_
 
 ### [2011 Yemeni uprising: Yemeni President Ali Abdullah Saleh's health is in poor condition a week after a bomb blast injured him and killed several others. ](/news/2011/06/11/2011-yemeni-uprising-yemeni-president-ali-abdullah-saleh-s-health-is-in-poor-condition-a-week-after-a-bomb-blast-injured-him-and-killed-sev.md)
-_Context: 2011 Yemeni uprising, Saleh, Yemen, Yemeni President_
+_Context: 2011 Yemeni uprising, Saleh, Yemen's, Yemeni President_
 
 ### [2011 Libyan civil war: Rebels make further gains west of Tripoli, battling in Zawiya just 30 miles from the capital. ](/news/2011/06/11/2011-libyan-civil-war-rebels-make-further-gains-west-of-tripoli-battling-in-zawiya-just-30-miles-from-the-capital.md)
 _Context: Libyan Civil War, Tripoli, Zawiya_
@@ -25,7 +25,7 @@ Entertainment legend Bruce Forsyth is knighted in a list which also recognises O
 _Context: Burma, go on sale_
 
 ### [Over half a million people demonstrate in Rome, Italy, demanding same sex rights. ](/news/2011/06/11/over-half-a-million-people-demonstrate-in-rome-italy-demanding-same-sex-rights.md)
-_Context: Italy, Rome, same sex rights_
+_Context: Italian, Rome, same sex rights_
 
 ### [Two officials are detained in China after 1,500 people clashed with riot police over the death of a local legislator in police custody. ](/news/2011/06/11/two-officials-are-detained-in-china-after-1-500-people-clashed-with-riot-police-over-the-death-of-a-local-legislator-in-police-custody.md)
 _Context: People's Republic of China_

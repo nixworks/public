@@ -1,7 +1,7 @@
 ## [2014-12-31](/news/2014/12/31/index.md)
 
 ### [A suicide bombing in Ibb, Yemen, kills at least 26 people. ](/news/2014/12/31/a-suicide-bombing-in-ibb-yemen-kills-at-least-26-people.md)
-_Context: Ibb, Terrorism in Yemen, Yemen, suicide bombing_
+_Context: Ibb, Terrorism in Yemen, Yemen's, suicide bombing_
 
 ### [The United States stock exchange reports ending on a gain of 7.5%. It was the sixth year of continued advancement. ](/news/2014/12/31/the-united-states-stock-exchange-reports-ending-on-a-gain-of-7-5-it-was-the-sixth-year-of-continued-advancement.md)
 The Dow industrials notched a sixth straight annual gain despite a selloff on Wednesday, as investors piled into stocks amid an expanding U.S. economy, growing corporate profits and persistently low interest rates.

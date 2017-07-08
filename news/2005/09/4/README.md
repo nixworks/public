@@ -13,7 +13,7 @@ _Context: Anhui, People's Republic of China, Typhoon Talim_
 _Context: Wistar Institute, regenerate_
 
 ### [ In Bregenz, Austria, a German woman attacks the Roy Lichtenstein painting ''Nudes in Mirror'' with a jackknife.  Witnesses say that the woman claimed that the painting was not authentic.  Although there were several slashes in the painting, valued at EUR4 million, it can be repaired.  ](/news/2005/09/4/in-bregenz-austria-a-german-woman-attacks-the-roy-lichtenstein-painting-nudes-in-mirror-with-a-jackknife-witnesses-say-that-the-wom.md)
-_Context: Austria, Bregenz, German, Roy Lichtenstein, jackknife_
+_Context: Austria, Bregenz, Germany, Roy Lichtenstein, jackknife_
 
 ## [Previous Day...](/news/2005/09/3/index.md)
 

@@ -19,7 +19,7 @@ A US official is killed as Libyan militiamen storm the consulate in Benghazi, ho
 Three men were found shot dead in a car in the mountains of Corsica on Tuesday, the apparent victims of an ambush.
 
 ### [Two people are shot dead at close range in the center of Milan. Hours later, another shooting in plain view shakes the financial capital of Italy. ](/news/2012/09/11/two-people-are-shot-dead-at-close-range-in-the-center-of-milan-hours-later-another-shooting-in-plain-view-shakes-the-financial-capital-of.md)
-_Context: Italy, Milan_
+_Context: Italian, Milan_
 
 ### [Moody's warns the United States that it faces a downgrade in its credit rating before 2014 if the government fails to act on managing its  debt. ](/news/2012/09/11/moody-s-warns-the-united-states-that-it-faces-a-downgrade-in-its-credit-rating-before-2014-if-the-government-fails-to-act-on-managing-its-d.md)
 _Context:  debt, Moody's, United States of America, bond_

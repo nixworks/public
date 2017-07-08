@@ -16,13 +16,13 @@ _Context: Nigeria, Pfizer, sues_
 _Context: Israel, cease-fire_
 
 ### [ Fresh clashes break out between protesters and police in Rostock, Germany prior to the 33rd G8 summit. ](/news/2007/06/4/fresh-clashes-break-out-between-protesters-and-police-in-rostock-germany-prior-to-the-33rd-g8-summit.md)
-_Context: 33rd G8 summit, German, Rostock, police_
+_Context: 33rd G8 summit, Germany, Rostock, police_
 
 ### [ Cyclone Gonu forces the Government of Oman to evacuate 7,000 people from Masirah Island, off the east coast of Oman. ](/news/2007/06/4/cyclone-gonu-forces-the-government-of-oman-to-evacuate-7-000-people-from-masirah-island-off-the-east-coast-of-oman.md)
 _Context: Cyclone Gonu, Masirah Island, Oman_
 
 ### [ A military judge dismisses terrorism-related charges against a Canadian Guantanamo Bay detainee charged with killing a United States Army soldier in Afghanistan. ](/news/2007/06/4/a-military-judge-dismisses-terrorism-related-charges-against-a-canadian-guantanamo-bay-detainee-charged-with-killing-a-united-states-army-s.md)
-_Context: Afghanistan, Canada, United States Army, detainee, soldier, terrorism_
+_Context: Afghanistan, Canada, Guantanamo Bay Detention Camp, United States Army, soldier, terrorism_
 
 ### [ Russian President Vladimir Putin announces that Russia may consider targeting new sites across Europe with nuclear weapons if part of the United States' nuclear capability is introduced into Europe. ](/news/2007/06/4/russian-president-vladimir-putin-announces-that-russia-may-consider-targeting-new-sites-across-europe-with-nuclear-weapons-if-part-of-the-u.md)
 _Context: Europe, Russia, Russia President, United States, Vladimir Putin, missile interceptor, nuclear warheads_

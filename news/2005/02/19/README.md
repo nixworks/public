@@ -7,7 +7,7 @@ _Context: Blink-182_
 _Context: Haiti, Port-au-Prince, prison_
 
 ### [ A massive demonstration in Rome asks for the release of an Italian journalist abducted in Iraq. ](/news/2005/02/19/a-massive-demonstration-in-rome-asks-for-the-release-of-an-italian-journalist-abducted-in-iraq.md)
-_Context: Iraq, Italy, Rome_
+_Context: Iraq, Italian, Rome_
 
 ### [ Former US Presidents George H. W. Bush and Bill Clinton toured parts of Thailand that were ravaged by the Asian Tsunami.  <small>'''''[Newslink missing]'''''</small>](/news/2005/02/19/former-us-presidents-george-h-w-bush-and-bill-clinton-toured-parts-of-thailand-that-were-ravaged-by-the-asian-tsunami-newslink-mi.md)
 _Context: 2004 Indian Ocean earthquake, Bill Clinton, George H. W. Bush, Thailand, United States President_
@@ -16,7 +16,7 @@ _Context: 2004 Indian Ocean earthquake, Bill Clinton, George H. W. Bush, Thailan
 _Context: Indonesia, South East Sulawesi, UTC, earthquake, magnitude_
 
 ### [ Former US President Jimmy Carter is on hand to christen the USS Jimmy Carter, the last of the Seawolf class submarines ordered during the Cold War.  The submarine cost 3.2 billion USD. It has a 100-foot (30.5 m) extension for special operations and can reportedly tap undersea cables. ](/news/2005/02/19/former-us-president-jimmy-carter-is-on-hand-to-christen-the-uss-jimmy-carter-the-last-of-the-seawolf-class-submarines-ordered-during-the-c.md)
-_Context: $, Cold War, Jimmy Carter, Seawolf class submarine, USS Jimmy Carter_
+_Context: Cold War, Jimmy Carter, Seawolf class submarine, USD, USS Jimmy Carter_
 
 ### [ In a 13-hour operation, doctors in Egypt successfully remove the second head of a baby suffering from the rare disease craniopagus parasiticus. This is the second such operation to take place in a year. The previous operation, in the Dominican Republic, was not successful and resulted in death. ](/news/2005/02/19/in-a-13-hour-operation-doctors-in-egypt-successfully-remove-the-second-head-of-a-baby-suffering-from-the-rare-disease-craniopagus-parasiti.md)
 From newly charted astronomical anomalies at the far reaches of the universe to the rise of nanotechnology, nobody covers science and the latest discoveries like Reuters.com.

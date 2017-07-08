@@ -10,7 +10,7 @@ Qassam explodes in open area just hours after Russia&#39;s Lavrov calls on Hamas
 Archbishop of Dublin Diarmuid Martin has criticised Catholics who say their church should move on from grief about the child abuse scandals.
 
 ### [ Archbishop of Westminster Vincent Nichols says he "understands arguments for condoms", in apparent conflict with Roman Catholic Church teaching on contraception. ](/news/2010/04/1/archbishop-of-westminster-vincent-nichols-says-he-understands-arguments-for-condoms-in-apparent-conflict-with-roman-catholic-church-teac.md)
-_Context: Archbishop of Westminster, Roman Catholic Church, Vincent Nichols, condom_
+_Context: Archbishop of Westminster, Roman Catholic Church, Vincent Nichols, condoms_
 
 ### [ Southern Sudan's Sudan People's Liberation Movement (SPLM) announces its decision to withdraw its presidential candidate, Yasir Arman, from elections. Most other opposition parties join them. ](/news/2010/04/1/southern-sudan-s-sudan-people-s-liberation-movement-splm-announces-its-decision-to-withdraw-its-presidential-candidate-yasir-arman-from.md)
 * Parties could return if elections commission reformed * Five candidates left against incumbent President Bashir * U.S. envoy in crisis t

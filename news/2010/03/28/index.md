@@ -31,7 +31,7 @@ Abhisit Vejjajiva, the Thai prime minister met his political opponents on live t
 Dissident feared dead or held in secret by security forces says he is with family.
 
 ### [Italians test Silvio Berlusconi in regional elections. ](/news/2010/03/28/italians-test-silvio-berlusconi-in-regional-elections.md)
-_Context: Italy, Silvio Berlusconi_
+_Context: Italian, Silvio Berlusconi_
 
 ### [First step in Russian time zone reform comes into force. The number of time zones drops from 11 to 9, eliminating Samara Time and Kamchatka Time. ](/news/2010/03/28/first-step-in-russian-time-zone-reform-comes-into-force-the-number-of-time-zones-drops-from-11-to-9-eliminating-samara-time-and-kamchatka.md)
 _Context: Kamchatka Time, Samara Time, time zones_

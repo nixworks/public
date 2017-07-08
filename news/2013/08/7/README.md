@@ -7,7 +7,7 @@ _Context: Damascus, Palestinian, Syrian Army, Syrian Civil War, Yarmouk Camp_
 A U.S. drone killed at least six suspected al Qaeda militants in southern Yemen on Wednesday, officials said, a day after U.S. and British embassies evacuated some staff because of growing fears of attacks.
 
 ### [Yemen authorities foil an Al-Qaeda plot to  blow up the oil pipelines and  seize some of the country's main ports. ](/news/2013/08/7/yemen-authorities-foil-an-al-qaeda-plot-to-blow-up-the-oil-pipelines-and-seize-some-of-the-country-s-main-ports.md)
-_Context: Yemen, al-Qaeda_
+_Context: Yemen's, al-Qaeda_
 
 ### [Four Israeli soldiers are wounded by a landmine near the Lebanese border. ](/news/2013/08/7/four-israeli-soldiers-are-wounded-by-a-landmine-near-the-lebanese-border.md)
 UN peacekeepers open investigation into incident; Israel keeping mostly quiet, but officials don&#8217;t expect an escalation

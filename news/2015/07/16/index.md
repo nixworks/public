@@ -4,7 +4,7 @@
 India and Pakistan exchangedgunfire and mortar bombs along their disputed frontier onThursday, killing five civilians and injuring more than a dozen,Pakistan said, days after the leaders of the nuclear-armedrivals agreed to high-level talks.
 
 ### [Members of exiled President of Yemen Abd Rabbuh Mansur Hadi's Cabinet tour the southern city of Aden for the first time in several months. ](/news/2015/07/16/members-of-exiled-president-of-yemen-abd-rabbuh-mansur-hadi-s-cabinet-tour-the-southern-city-of-aden-for-the-first-time-in-several-months.md)
-_Context: Abd Rabbuh Mansur Hadi, Aden, Yemen, Yemeni Crisis (2011-present), Yemeni President_
+_Context: Abd Rabbuh Mansur Hadi, Aden, Yemen's, Yemeni Crisis (2011-present), Yemeni President_
 
 ### [The Islamic State of Iraq and Greater Syria (ISIS) has claimed that it sank an Egyptian patrol boat in the Mediterranean,  just off the coast of Rafah. The Egyptian military claimed the ship sank from a fire not caused by attacks. ](/news/2015/07/16/the-islamic-state-of-iraq-and-greater-syria-isis-has-claimed-that-it-sank-an-egyptian-patrol-boat-in-the-mediterranean-just-off-the-coas.md)
 _Context: Egypt, ISIL, Rafah, Sinai insurgency, patrol boat_

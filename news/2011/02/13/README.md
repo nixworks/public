@@ -49,7 +49,7 @@ _Context: London, Luke Harding, Russia, Russian Foreign Minister, Sergey Lavrov,
 _Context: Shah Mehmood Qureshi_
 
 ### [Nearly 1,000 Tunisian refugees arrive on the Italian island of Lampedusa overnight, a day after the government declared a humanitarian emergency. ](/news/2011/02/13/nearly-1-000-tunisian-refugees-arrive-on-the-italian-island-of-lampedusa-overnight-a-day-after-the-government-declared-a-humanitarian-emerg.md)
-_Context: Italy, Lampedusa, Tunisia_
+_Context: Italian, Lampedusa, Tunisia_
 
 ### [Immigration to Canada hits a record high, while Minister of Citizenship and Immigration Jason Kenney states that abuse of the immigration system must end. ](/news/2011/02/13/immigration-to-canada-hits-a-record-high-while-minister-of-citizenship-and-immigration-jason-kenney-states-that-abuse-of-the-immigration-sy.md)
 _Context: Immigration to Canada, Jason Kenney, Minister of Citizenship and Immigration_
@@ -73,7 +73,7 @@ Cuba releases the political prisoners Hector Maseda and Angel Moya, after a seve
 _Context: Hina Rabbani Khar, Minister of Foreign Affairs, Pakistan, Prime Minister, Yousaf Raza Gillani_
 
 ### [Thousands of protesters in Dresden, Germany form a human chain to mark the 66th anniversary of the Dresden bombing and to protest against racism. ](/news/2011/02/13/thousands-of-protesters-in-dresden-germany-form-a-human-chain-to-mark-the-66th-anniversary-of-the-dresden-bombing-and-to-protest-against-ra.md)
-_Context: Dresden, Dresden bombing, German, human chain_
+_Context: Dresden, Dresden bombing, Germany, human chain_
 
 ### [Writing in ''The Observer'', British Prime Minister David Cameron defends his vision for a Big Society, dismissing claims that it is a "cover" for spending cuts. ](/news/2011/02/13/writing-in-the-observer-british-prime-minister-david-cameron-defends-his-vision-for-a-big-society-dismissing-claims-that-it-is-a-cove.md)
 _Context: Big Society, David Cameron, The Observer_

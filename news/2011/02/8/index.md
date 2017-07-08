@@ -1,7 +1,7 @@
 ## [2011-02-8](/news/2011/02/8/index.md)
 
 ### [A suspected US spy drone crashes near the south Yemen town of Loder with witnesses claiming that Al-Qaeda removed the wreckage. ](/news/2011/02/8/a-suspected-us-spy-drone-crashes-near-the-south-yemen-town-of-loder-with-witnesses-claiming-that-al-qaeda-removed-the-wreckage.md)
-_Context: Yemen, al-Qaeda_
+_Context: Yemen's, al-Qaeda_
 
 ### [Dokka Umarov, a Chechen warlord and one of Russia's most wanted men, claims responsibility for the bombing at Domodedovo International Airport last month. ](/news/2011/02/8/dokka-umarov-a-chechen-warlord-and-one-of-russia-s-most-wanted-men-claims-responsibility-for-the-bombing-at-domodedovo-international-airpo.md)
 _Context: Chechnya, Dokka Umarov, Domodedovo International Airport, Domodedovo International Airport bombing, Russia_

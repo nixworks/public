@@ -1,7 +1,7 @@
 ## [2017-03-10](/news/2017/03/10/index.md)
 
 ### [A Saudi-led coalition airstrike on a market in Al Hudaydah Governorate, Yemen, kills at least 20 civilians and six Houthi militants. ](/news/2017/03/10/a-saudi-led-coalition-airstrike-on-a-market-in-al-hudaydah-governorate-yemen-kills-at-least-20-civilians-and-six-houthi-militants.md)
-_Context: Al Hudaydah Governorate, Houthi, Saudi Arabian-led intervention in Yemen, Yemen, Yemeni conflict_
+_Context: Al Hudaydah Governorate, Houthi, Saudi Arabian-led intervention in Yemen, Yemen's, Yemeni conflict_
 
 ### [A helicopter crashes in Istanbul's Buyukcekmece district, killing at least seven people. ](/news/2017/03/10/a-helicopter-crashes-in-istanbul-s-ba1-4ya1-4kassekmece-district-killing-at-least-seven-people.md)
 _Context: Buyukcekmece, Istanbul_

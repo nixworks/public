@@ -40,7 +40,7 @@ _Context: 2008 municipal elections, France, Nicolas Sarkozy, President of France
 _Context: 2008, Iraq, John McCain, Republican candidate, United States, United States Senator_
 
 ### [ Italian airline Alitalia is purchased by a consortium of Air France and KLM for EUR138 million. ](/news/2008/03/16/italian-airline-alitalia-is-purchased-by-a-consortium-of-air-france-and-klm-for-a-138-million.md)
-_Context: Air France, Alitalia, EUR, Italy, KLM_
+_Context: Air France, Alitalia, EUR, Italian, KLM_
 
 ### [ At the 2008 National People's Congress, Wen Jiabao is elected as Premier for another five years term. ](/news/2008/03/16/at-the-2008-national-people-s-congress-wen-jiabao-is-elected-as-premier-for-another-five-years-term.md)
 _Context: 2008 National People's Congress, Premier of the People's Republic of China, Wen Jiabao_

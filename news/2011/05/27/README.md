@@ -16,7 +16,7 @@ _Context: AgustaWestland Apache, David Cameron, Libya, Libyan Civil War, Prime M
 A camp in Tunisia for people fleeing the conflict in Libya is nearly completely destroyed in deadly clashes also involving local residents, the UN says.
 
 ### [Six Italian peacekeepers are injured in an attack on their UNIFIL vehicle in Lebanon. ](/news/2011/05/27/six-italian-peacekeepers-are-injured-in-an-attack-on-their-unifil-vehicle-in-lebanon.md)
-_Context: Italy, Lebanon, UNIFIL_
+_Context: Italian, Lebanon, UNIFIL_
 
 ### [British Labour Party leader Ed Miliband marries his long term partner Justine Thornton in a low-key ceremony at Langar Hall in Nottinghamshire. ](/news/2011/05/27/british-labour-party-leader-ed-miliband-marries-his-long-term-partner-justine-thornton-in-a-low-key-ceremony-at-langar-hall-in-nottinghamshi.md)
 _Context: Ed Miliband, Justine Thornton, Labour, Langar Hall, Nottinghamshire_
@@ -46,7 +46,7 @@ Group of Eight leaders promised Friday to support new Arab democracies, accordin
 _Context: 2008 Chinese milk scandal, People's Republic of China, Zhao Lianhai_
 
 ### [More than 270 people are hospitalised after an E. coli outbreak in Germany, thought to have originated from Spanish cucumbers. ](/news/2011/05/27/more-than-270-people-are-hospitalised-after-an-e-coli-outbreak-in-germany-thought-to-have-originated-from-spanish-cucumbers.md)
-_Context: ''E. coli'', German, Spain_
+_Context: ''E. coli'', Germany, Spain_
 
 ### [A second woman dies of a mystery virus, reported to be similar to pneumonia, in South Korea. ](/news/2011/05/27/a-second-woman-dies-of-a-mystery-virus-reported-to-be-similar-to-pneumonia-in-south-korea.md)
 _Context: South Korea, pneumonia_

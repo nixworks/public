@@ -4,7 +4,7 @@
 The attack hit a vehicle in northwestern Pakistan late on Thursday night, government officials said.
 
 ### [Al-Qaeda insurgency in Yemen:Two al-Qaeda fighters and two pro-government militiamen are killed in clashes in Jaar, Yemen. ](/news/2013/03/22/al-qaeda-insurgency-in-yemen-ptwo-al-qaeda-fighters-and-two-pro-government-militiamen-are-killed-in-clashes-in-jaar-yemen.md)
-_Context: Al-Qaeda insurgency in Yemen, Ja'ar, Yemen, al-Qaeda_
+_Context: Al-Qaeda insurgency in Yemen, Ja'ar, Yemen's, al-Qaeda_
 
 ### [American alternative rock band My Chemical Romance announces their breakup in one paragraph after a musical career spanning 12 years. ](/news/2013/03/22/american-alternative-rock-band-my-chemical-romance-announces-their-breakup-in-one-paragraph-after-a-musical-career-spanning-12-years.md)
 My Chemical Romance has called it quits, the rock act announced on its website on Friday. The long-running group had been together for over a decade, releasing four studio albums.

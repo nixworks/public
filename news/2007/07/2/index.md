@@ -1,7 +1,7 @@
 ## [2007-07-2](/news/2007/07/2/index.md)
 
 ### [ Eight people die in a car bomb explosion at a tourist site in Yemen. ](/news/2007/07/2/eight-people-die-in-a-car-bomb-explosion-at-a-tourist-site-in-yemen.md)
-_Context: Ma'rib, Yemen, car bomb_
+_Context: Ma'rib, Yemen's, car bomb_
 
 ### [ The Carlyle Group offers somewhere between PS4 billion and PS5 billion for the purchase of heavily-indebted Virgin Media. ](/news/2007/07/2/the-carlyle-group-offers-somewhere-between-aps4-billion-and-aps5-billion-for-the-purchase-of-heavily-indebted-virgin-media.md)
 _Context: Carlyle Group, PS, Virgin Media_

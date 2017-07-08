@@ -16,13 +16,13 @@ _Context: 2002, Fernando Andreu, Israel, Salah Shehade, Spain, assassinated, cri
 At least nine Palestinians wounded in attack as Olmert considers expanded military action.
 
 ### [ German unemployment rises to 3.27 million (7.8 percent) as the global financial crisis worsens. ](/news/2009/01/29/german-unemployment-rises-to-3-27-million-7-8-percent-as-the-global-financial-crisis-worsens.md)
-_Context: German, current financial crisis, unemployment_
+_Context: Germany, current financial crisis, unemployment_
 
 ### [ French workers strike to force a better response from President Nicolas Sarkozy to the global financial crisis. ](/news/2009/01/29/french-workers-strike-to-force-a-better-response-from-president-nicolas-sarkozy-to-the-global-financial-crisis.md)
 Hundreds of thousands of French workers staged a nationwide strike on Thursday to try to force President Nicolas Sarkozy and business leaders to do more to protect jobs and wages during the economic crisis.
 
 ### [ Somali pirates hijack the German oil tanker MV ''Longchamp'' in the Gulf of Aden. ](/news/2009/01/29/somali-pirates-hijack-the-german-oil-tanker-mv-longchamp-in-the-gulf-of-aden.md)
-_Context: German, Gulf of Aden, MV, Somali pirates, Somalia, oil tanker_
+_Context: Germany, Gulf of Aden, MV, Somali pirates, Somalia, oil tanker_
 
 ### [ Violent anti-government protests in Antananarivo, Madagascar, are temporarily halted. ](/news/2009/01/29/violent-anti-government-protests-in-antananarivo-madagascar-are-temporarily-halted.md)
 _Context: Antananarivo, Madagascar, government, protests_

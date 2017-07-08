@@ -13,7 +13,7 @@ _Context: Gaza Strip_
 _Context: Ali Farzat, Bashar Assad's, President, Syria, political cartoonist_
 
 ### [Berkshire Hathaway, the conglomerate headed by Warren Buffett, announces a plan to invest $5 billion in Bank of America. ](/news/2011/08/25/berkshire-hathaway-the-conglomerate-headed-by-warren-buffett-announces-a-plan-to-invest-5-billion-in-bank-of-america.md)
-_Context: Bank of America, Berkshire Hathaway, Warren Buffett_
+_Context: Bank of America, Berkshire Hathaway Inc., Warren Buffett_
 
 ### [At least 19 people are feared dead in Zimbabwe after a haulage truck and bus collide ](/news/2011/08/25/at-least-19-people-are-feared-dead-in-zimbabwe-after-a-haulage-truck-and-bus-collide.md)
 _Context: Zimbabwe_

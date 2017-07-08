@@ -10,7 +10,7 @@ _Context: Haitian elections, 2006, Rene Preval_
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ U.S. forces are searching for the Cole|DDG-67|06 attacker who escaped from prison last Friday. According to Interpol, an al-Qaida operative who had been sentenced to death for plotting the bombing of the USS ''Cole'' in 2000 escaped with a group of convicts from their prison last week in Sanaa, Yemen. ](/news/2006/02/9/u-s-forces-are-searching-for-the-cole-ddg-67-06-attacker-who-escaped-from-prison-last-friday-according-to-interpol-an-al-qaida-operative.md)
-_Context: Al Qaida's, Interpol, SANAA, USS ''Cole'' bombing, Yemen_
+_Context: Al Qaida's, Interpol, SANAA, USS ''Cole'' bombing, Yemen's_
 
 ### [ Egypt's Supreme Council of Antiquities announces the discovery of an intact pharaonic tomb in the Valley of the Kings&nbsp;&ndash;  the first to be discovered since King Tutankhamun's in 1922. ](/news/2006/02/9/egypt-s-supreme-council-of-antiquities-announces-the-discovery-of-an-intact-pharaonic-tomb-in-the-valley-of-the-kings-nbsp-ndash-the-fir.md)
 _Context: Egypt, KV63, Supreme Council of Antiquities, Valley of the Kings, the tomb_

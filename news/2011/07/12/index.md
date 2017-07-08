@@ -64,7 +64,7 @@ _Context: boycott law, parliament in Israel_
 Police in Guatemala arrest two men in connection with the killing of Argentine singer Facundo Cabral on Saturday.
 
 ### [A three judge panel of the U.S. 9th Circuit Court of Appeals rules that Jared Lee Loughner, the suspect in the 2011 Tucson shooting, has the right to refuse antipsychotic medication while he appeals the treatment prescribed by prison mental health authorities. ](/news/2011/07/12/a-three-judge-panel-of-the-u-s-9th-circuit-court-of-appeals-rules-that-jared-lee-loughner-the-suspect-in-the-2011-tucson-shooting-has-the.md)
-_Context: 2011 Tucson shooting, Jared Lee Loughner, Ninth Circuit Appeals Court panel, antipsychotic_
+_Context: 2011 Tucson shooting, Jared Lee Loughner, United States Court of Appeals for the Ninth Circuit, antipsychotic_
 
 ### [U.S. actress Halle Berry is granted a restraining order against a convicted felon arrested on her Hollywood Hills property on Monday. ](/news/2011/07/12/u-s-actress-halle-berry-is-granted-a-restraining-order-against-a-convicted-felon-arrested-on-her-hollywood-hills-property-on-monday.md)
 _Context: Halle Berry, Hollywood Hills, felons_

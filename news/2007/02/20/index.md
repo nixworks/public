@@ -40,7 +40,7 @@ _Context: Anglican Church, Archbishop, U.S., gay, same-sex marriage, ultimatum_
 _Context: Indonesia, earthquake, tsunami_
 
 ### [ Volvo AB agrees to buy truckmaker Nissan Diesel for $1.1 billion. ](/news/2007/02/20/volvo-ab-agrees-to-buy-truckmaker-nissan-diesel-for-1-1-billion.md)
-_Context: $, Nissan Diesel, Volvo AB_
+_Context: Nissan Diesel, USD, Volvo AB_
 
 ### [ NATO troops in Bosnia-Herzegovina carry out early morning raids on the houses of the children of convicted war criminal Radovan Karadzic. ](/news/2007/02/20/nato-troops-in-bosnia-herzegovina-carry-out-early-morning-raids-on-the-houses-of-the-children-of-convicted-war-criminal-radovan-karada3-4ia.md)
 _Context: Bosnia-Herzegovina, NATO, Radovan Karadzic, war criminal_

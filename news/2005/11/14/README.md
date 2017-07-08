@@ -1,7 +1,7 @@
 ## [2005-11-14](/news/2005/11/14/index.md)
 
 ### [ Germany: Conferences of the CDU, CSU and SPD approve a coalition deal that will see Angela Merkel become Chancellor on November 22. ](/news/2005/11/14/germany-conferences-of-the-cdu-csu-and-spd-approve-a-coalition-deal-that-will-see-angela-merkel-become-chancellor-on-november-22.md)
-_Context: Angela Merkel, CSU, Chancellor, Christian Democratic Union, German, November 22, SPD_
+_Context: Angela Merkel, CSU, Chancellor, Christian Democratic Union, Germany, November 22, SPD_
 
 ### [ Mexico and Venezuela have withdrawn their ambassadors amid rising tension between the two countries. ](/news/2005/11/14/mexico-and-venezuela-have-withdrawn-their-ambassadors-amid-rising-tension-between-the-two-countries.md)
 _Context: Mexico, Venezuela_

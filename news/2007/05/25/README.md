@@ -19,7 +19,7 @@ _Context: Japan, Kyodo, North Korea, Sea of Japan, fires seven more missiles_
 _Context: Svyatoslav Piskun, Ukrainian, Ukrainian President, Viktor Yushchenko_
 
 ### [ NASDAQ agrees to buy OMX AB which runs several stock exchanges in Scandinavia and the Baltic States for 25.1 billion Swedish kronor (USD$3.7 billion). ](/news/2007/05/25/nasdaq-agrees-to-buy-omx-ab-which-runs-several-stock-exchanges-in-scandinavia-and-the-baltic-states-for-25-1-billion-swedish-kronor-usd-3.md)
-_Context: $, Baltics, Nasdaq, OMX AB, SKr, Scandinavians, stock exchange_
+_Context: Baltics, Nasdaq, OMX AB, SKr, Scandinavians, USD, stock exchange_
 
 ### [ Exit polls indicate that Taoiseach Bertie Ahern's Fianna Fil leads in the Irish General Election. ](/news/2007/05/25/exit-polls-indicate-that-taoiseach-bertie-ahern-s-fianna-fail-leads-in-the-irish-general-election.md)
 With all first counts completed, the RTE/Lansdowne Market Research poll, which was first broadcast on Morning Ireland this morning, was extremely close to the final first preference total.

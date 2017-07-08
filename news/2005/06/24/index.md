@@ -9,7 +9,7 @@ _Context: Yuma, Arizona, hospital_
 _Context: Pension Benefit Guaranty Corporation, United Airlines, United States House of Representatives_
 
 ### [ An Italian judge ordering the arrest of 13 people linked to the CIA on charges of kidnapping terrorism suspect Abu Omar allegedly in order to have him tortured in Egypt dramatizes a growing rift between the U.S. and its allies in the War on Terrorism. ](/news/2005/06/24/an-italian-judge-ordering-the-arrest-of-13-people-linked-to-the-cia-on-charges-of-kidnapping-terrorism-suspect-abu-omar-allegedly-in-order.md)
-_Context: Egypt, Hassan Mustafa Osama Nasr, Italy, United States, War on Terrorism, torture_
+_Context: Egypt, Hassan Mustafa Osama Nasr, Italian, United States, War on Terrorism, torture_
 
 ### [ Ohio Governor Bob Taft says he will not resign, despite ethical questions around him and his administration. ](/news/2005/06/24/ohio-governor-bob-taft-says-he-will-not-resign-despite-ethical-questions-around-him-and-his-administration.md)
 _Context: Bob Taft, Governor of Ohio, Ohio_

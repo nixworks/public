@@ -19,7 +19,7 @@ _Context: 2013 meat adulteration scandal, Compass Group, United Kingdom, Whitbre
 _Context: Facebook, Inc., Java, Oracle Corporation, bug, e-mails, hackers, laptop, network, social network, user data, website_
 
 ### [Securities regulators file a lawsuit against traders in options on the stock of H.J. Heinz, alleging they had inside information of the planned acquisition of that company before the announcement thereof by Berkshire Hathaway and 3G Capital. ](/news/2013/02/15/securities-regulators-file-a-lawsuit-against-traders-in-options-on-the-stock-of-h-j-heinz-alleging-they-had-inside-information-of-the-plan.md)
-_Context: 3G Capital, Berkshire Hathaway, H.J. Heinz_
+_Context: 3G Capital, Berkshire Hathaway Inc., H.J. Heinz_
 
 ### [Westminster's Independent Parliamentary Standards Authority launches an investigation into expenses claims submitted by MP Nadine Dorries. ](/news/2013/02/15/westminster-s-independent-parliamentary-standards-authority-launches-an-investigation-into-expenses-claims-submitted-by-mp-nadine-dorries.md)
 The Independent Parliamentary Standards Authority says it will investigate expenses claims submitted by MP Nadine Dorries.

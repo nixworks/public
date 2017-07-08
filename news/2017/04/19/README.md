@@ -49,7 +49,7 @@ Venezuelan security forces fired tear gas as demonstrators staged what they bill
 _Context: House Oversight Committee, Jason Chaffetz, United States House of Representatives elections, 2018, Utah_
 
 ### [Local Republican candidate Karen Handel says she wants Donald Trump to campaign for her in the district. ](/news/2017/04/19/local-republican-candidate-karen-handel-says-she-wants-donald-trump-to-campaign-for-her-in-the-district.md)
-_Context: Donald Trump, Georgia's 6th congressional district special election, 2017, Karen Handel_
+_Context: Donald Trump's, Georgia's 6th congressional district special election, 2017, Karen Handel_
 
 ### [Washington State University professor Peter Engels and his team announce they have created a fluid that displays negative mass. ](/news/2017/04/19/washington-state-university-professor-peter-engels-and-his-team-announce-they-have-created-a-fluid-that-displays-negative-mass.md)
 Physicists have created a fluid with &quot;negative mass&quot;, which accelerates towards you when pushed.

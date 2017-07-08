@@ -10,7 +10,7 @@ More than 500 fans of UEFA Cup champions Zenit St Petersburg have been arrested 
 _Context: Afghanistan, Kabul, Kandahar, Nangarhar Province, bomb_
 
 ### [ A bomb kills four people and injures three others in Shibam, Yemen. ](/news/2009/03/15/a-bomb-kills-four-people-and-injures-three-others-in-shibam-yemen.md)
-_Context: Shibam, Yemen, bomb_
+_Context: Shibam, Yemen's, bomb_
 
 ### [ Mauricio Funes of the Farabundo Mart National Liberation Front wins El Salvador's presidential election. ](/news/2009/03/15/mauricio-funes-of-the-farabundo-marti-national-liberation-front-wins-el-salvador-s-presidential-election.md)
 _Context: El Salvador, Farabundo Mart National Liberation Front, Mauricio Funes, President of El Salvador, election_

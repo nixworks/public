@@ -13,7 +13,7 @@ _Context: Chris Patten, EU Commissioner, European Union, Iraq, United States_
 _Context: European Union_
 
 ### [ Operatic singer (tenor) Luciano Pavarotti marries his partner and producer Nicoletta Mantovani at a ceremony in Northern Italy. [http://www.abc.net.au/news/newsitems/s1009496.htm][http://newsobserver.com/24hour/entertainment/story/1086978p-7593243c.html]](/news/2003/12/13/operatic-singer-tenor-luciano-pavarotti-marries-his-partner-and-producer-nicoletta-mantovani-at-a-ceremony-in-northern-italy-http-www.md)
-_Context: Italy, Luciano Pavarotti, opera, tenor_
+_Context: Italian, Luciano Pavarotti, opera, tenor_
 
 ### [ California legislators approve Arnold Schwarzenegger's $15 billion bond issue.[http://news.bbc.co.uk/2/hi/business/3312341.stm]](/news/2003/12/13/california-legislators-approve-arnold-schwarzenegger-s-15-billion-bond-issue-http-news-bbc-co-uk-2-hi-business-3312341-stm.md)
 _Context: Arnold Schwarzenegger, California_

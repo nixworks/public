@@ -7,7 +7,7 @@ _Context: Al-Shaddadah, American-led intervention in Syria, ISIL, Iraq, Omar al-
 Police in Brussels have shot dead a suspect in an anti-terror operation linked to the Paris attacks, after gunmen with assault rifles opened fire and wounded four officers. The dead person has not been identified but prosecutors said it was not Salah Abdeslam, a key suspect in the November Paris massacre which killed 130 people, and who fled to Brussels after the attacks.
 
 ### [Airstrikes reportedly kill at least 41 people and wound 75 others in Yemen's northern Hajjah Governorate. ](/news/2016/03/15/airstrikes-reportedly-kill-at-least-41-people-and-wound-75-others-in-yemen-s-northern-hajjah-governorate.md)
-_Context: Hajjah Governorate, Saudi Arabian-led intervention in Yemen, Yemen_
+_Context: Hajjah Governorate, Saudi Arabian-led intervention in Yemen, Yemen's_
 
 ### [Pope Francis announces that Mother Teresa will be canonized on September 4. ](/news/2016/03/15/pope-francis-announces-that-mother-teresa-will-be-canonized-on-september-4.md)
 Pope Francis announces elevation months after approving Nobel prize winning nun’s second miracle

@@ -13,13 +13,13 @@ _Context: People's Republic of China, Sino-American relations, United States, bl
 _Context: Alan Johnson, Home Secretary, Joint Terrorism Analysis Centre, United Kingdom, terror threat level_
 
 ### [A U.S. Justice Department task force recommends 47 Guantanamo Bay detainees should be held indefinitely without charge. ](/news/2010/01/22/a-u-s-justice-department-task-force-recommends-47-guantanamo-bay-detainees-should-be-held-indefinitely-without-charge.md)
-_Context: United States, United States Justice Department, detainee, detainees, detention camps, task force_
+_Context: Guantanamo Bay Detention Camp, Justice Department, United States, detainees, detention camps, task force_
 
 ### [Former U.S. Air Force lieutenant colonel James Fondren is sentenced to three years in prison for providing classified documents to Chinese spy Tai Shen Kuo. ](/news/2010/01/22/former-u-s-air-force-lieutenant-colonel-james-fondren-is-sentenced-to-three-years-in-prison-for-providing-classified-documents-to-chinese-s.md)
 _Context: Air Force, China, James Fondren, Tai Shen Kuo, United States, classified document, espionage, lieutenant colonel, prison_
 
 ### [A Nuremberg court issues an arrest warrant for former Argentine leader Jorge Rafael Videla, on suspicion of killing a German man. ](/news/2010/01/22/a-nuremberg-court-issues-an-arrest-warrant-for-former-argentine-leader-jorge-rafael-videla-on-suspicion-of-killing-a-german-man.md)
-_Context: Argentina, German, Jorge Rafael Videla, Nuremberg, arrest warrant_
+_Context: Argentina, Germany, Jorge Rafael Videla, Nuremberg, arrest warrant_
 
 ### [The Electoral Synod of the Serbian Orthodox Church meets in Belgrade and chooses Bishop Irinej of Nis as the new Serbian Patriarch. ](/news/2010/01/22/the-electoral-synod-of-the-serbian-orthodox-church-meets-in-belgrade-and-chooses-bishop-irinej-of-nia-as-the-new-serbian-patriarch.md)
 _Context: Belgrade, Bishop Irinej of Nis, Electoral Synod, Serbian Orthodox Church, Serbian Patriarch_

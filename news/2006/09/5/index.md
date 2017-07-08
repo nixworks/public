@@ -28,7 +28,7 @@ Iranian &#160;President Mahmoud Ahmadinejad called Tuesday for a purge of libera
 _Context: George W. Bush, Mary Peters, Secretary of Transportation_
 
 ### [ One of four existing Aerocar I's (flying cars) is up for sale for US$3.5 million. ](/news/2006/09/5/one-of-four-existing-aerocar-i-s-flying-cars-is-up-for-sale-for-us-3-5-million.md)
-_Context: $, Aerocar I_
+_Context: Aerocar I, USD_
 
 ## [Previous Day...](/news/2006/09/4/index.md)
 

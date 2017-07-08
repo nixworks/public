@@ -10,7 +10,7 @@ Tens of thousands gather for rally in Tahrir Square, as competing demonstrators 
 _Context: Somalia_
 
 ### [China Three Gorges Corp. wins a bid for its 21% stake in EDP-Energias de Portugal SA with an offer of EUR2.69 billion ($3.51 billion), in the first of a series of sales of state-owned assets under Portugal's austerity program. This is the first time a mainland Chinese firm has acquired a significant stake in a southern European company. ](/news/2011/12/23/china-three-gorges-corp-wins-a-bid-for-its-21-stake-in-edp-energias-de-portugal-sa-with-an-offer-of-a-2-69-billion-3-51-billion-in-th.md)
-_Context: $, China Three Gorges Corp., EUR, Energias de Portugal, Portugal, mainland Chinese, state-owned_
+_Context: China Three Gorges Corp., EUR, Energias de Portugal, Portugal, USD, mainland Chinese, state-owned_
 
 ### [A series of large aftershocks from the 22 February earthquake &ndash; the largest registering magnitude 6.0 &ndash; strike the city of Christchurch, New Zealand. ](/news/2011/12/23/a-series-of-large-aftershocks-from-the-22-february-earthquake-ndash-the-largest-registering-magnitude-6-0-ndash-strike-the-city-of-chris.md)
 A series of earthquakes have terrified many already-frazzled Christchurch residents this afternoon, starting with a 5.8 magnitude tremor at 1.58pm. - New Zealand Herald

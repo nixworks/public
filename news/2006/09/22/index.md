@@ -16,7 +16,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: BBC, Richard Hammond, Top Gear_
 
 ### [ A prototype Transrapid Maglev train crashes into a maintenance vehicle on elevated track in Emsland, Germany, killing 23 people and severely injuring 10. ](/news/2006/09/22/a-prototype-transrapid-maglev-train-crashes-into-a-maintenance-vehicle-on-elevated-track-in-emsland-germany-killing-23-people-and-severel.md)
-_Context: Emsland, German, Maglev, Transrapid_
+_Context: Emsland, Germany, Maglev, Transrapid_
 
 ### [ The reported number of people fallen ill after eating tainted spinach reaches 166 in 25 U.S. states. ](/news/2006/09/22/the-reported-number-of-people-fallen-ill-after-eating-tainted-spinach-reaches-166-in-25-u-s-states.md)
 _Context: tainted spinach_

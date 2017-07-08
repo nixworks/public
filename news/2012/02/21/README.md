@@ -25,7 +25,7 @@ _Context: China, Liaoning_
 SEOUL, Feb. 21 (Yonhap) -- National Assembly Speaker Park Hee-tae was indicted without physical detention on Tuesday for bribing a fellow ruling party lawmaker before being elected as party chairman in 2008, prosecutors said.
 
 ### [Voters in Yemen go to the polls for a presidential election with current Vice-President Abd Rabbuh Mansur al-Hadi the only candidate on the ballot paper. ](/news/2012/02/21/voters-in-yemen-go-to-the-polls-for-a-presidential-election-with-current-vice-president-abd-rabbuh-mansur-al-hadi-the-only-candidate-on-the.md)
-_Context: Abd Rabbuh Mansur al-Hadi, Yemen, presidential election_
+_Context: Abd Rabbuh Mansur al-Hadi, Yemen's, presidential election_
 
 ### [Burma lifts restrictions on election campaigning. ](/news/2012/02/21/burma-lifts-restrictions-on-election-campaigning.md)
 _Context: Burma_

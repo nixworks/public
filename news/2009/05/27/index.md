@@ -25,7 +25,7 @@ _Context: New Zealand, Whangarei, Zion Wildlife Gardens, euthanizing animals, wh
 _Context: Russia, US$, United States, civilian, nuclear reactors, uranium_
 
 ### [ An anti-piracy warship destroys a Yemeni fishing vessel in the Red Sea, killing at least two people. ](/news/2009/05/27/an-anti-piracy-warship-destroys-a-yemeni-fishing-vessel-in-the-red-sea-killing-at-least-two-people.md)
-_Context: Red Sea, Somali pirates, Yemen, fishing boat, warships_
+_Context: Red Sea, Somali pirates, Yemen's, fishing boat, warships_
 
 ## [Previous Day...](/news/2009/05/26/index.md)
 

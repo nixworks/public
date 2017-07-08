@@ -16,7 +16,7 @@ The vote also serves as a rebuke to President Trump&rsquo;s policy on Moscow and
 _Context: Djibouti, Djibouti-Eritrea relations, Doumeira Islands, Eritrea, Mahamoud Ali Youssouf, Qatar, Ras Doumeira, peninsula_
 
 ### [U.S. President Donald Trump announces new restrictions on travel and business with Cuba, reversing policies of Cuban Thaw, implemented during the tenure of President Barack Obama. ](/news/2017/06/16/u-s-president-donald-trump-announces-new-restrictions-on-travel-and-business-with-cuba-reversing-policies-of-cuban-thaw-implemented-durin.md)
-_Context: Barack Obama, Cuba-United States relations, Cuban Thaw, Donald Trump_
+_Context: Barack Obama, Cuba-United States relations, Cuban Thaw, Donald Trump's_
 
 ### [Jeronimo Yanez, the police officer previously accused of manslaughter and reckless discharge of a firearm at Philando Castile, is acquitted of all charges. ](/news/2017/06/16/jeronimo-yanez-the-police-officer-previously-accused-of-manslaughter-and-reckless-discharge-of-a-firearm-at-philando-castile-is-acquitted.md)
 A jury has acquitted a Minnesota police officer in the shooting death of a black man outside St. Paul last year.

@@ -4,7 +4,7 @@
 Hospital sources say death toll likely to rise after bomb goes off with cars waiting to enter Khalis, north of capital.
 
 ### [Saudi Arabia's Interior Ministry says five border guards have been killed following clashes with Houthi militants on the border with Yemen. ](/news/2016/07/25/saudi-arabia-s-interior-ministry-says-five-border-guards-have-been-killed-following-clashes-with-houthi-militants-on-the-border-with-yemen.md)
-_Context: Conflict in Najran, Houthi, Interior Ministry, Saudi Arabia, Yemen, border guards_
+_Context: Conflict in Najran, Houthi, Interior Ministry, Saudi Arabia, Yemen's, border guards_
 
 ### [Verizon Communications buys Yahoo! for $4.83 billion in cash, ending the latter's over 20-year run as an independent corporation. ](/news/2016/07/25/verizon-communications-buys-yahoo-for-4-83-billion-in-cash-ending-the-latter-s-over-20-year-run-as-an-independent-corporation.md)
 _Context: Verizon Communications, Yahoo!_

@@ -19,7 +19,7 @@ _Context: Pannapittya, Parami Kulkathunga, Sri Lanka, Sri Lankan Army, suicide b
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Italians reject the modification of their constitution. In a two-day referendum, "No" beats "Yes" approximately 61% to 38%, thus keeping the text unchanged. The Northern League had announced its withdrawal from the centre-right opposition coalition if reform was defeated. Votes of Italians living abroad are still to be counted. ](/news/2006/06/26/italians-reject-the-modification-of-their-constitution-in-a-two-day-referendum-no-beats-yes-approximately-61-to-38-thus-keeping-th.md)
-_Context: Constitution of Italy, Italy, Northern League_
+_Context: Constitution of Italy, Italian, Northern League_
 
 ## [Previous Day...](/news/2006/06/25/index.md)
 

@@ -16,7 +16,7 @@ _Context: Hunan, People's Republic of China, explosion, warehouse_
 Islamic rebels in the Philippines freed a Swiss Red Cross worker held hostage for over three months but continued to hold another European captive, security officials said Saturday.
 
 ### [ The Netherlands' ''Korps Commandotroepen'' rescue 20 Yemeni hostages from Somali pirates in the Gulf of Aden. ](/news/2009/04/18/the-netherlands-korps-commandotroepen-rescue-20-yemeni-hostages-from-somali-pirates-in-the-gulf-of-aden.md)
-_Context: Gulf of Aden, Korps Commandotroepen, Netherlands, Somali pirates, Somalia, Yemen, hostage_
+_Context: Gulf of Aden, Korps Commandotroepen, Netherlands, Somali pirates, Somalia, Yemen's, hostage_
 
 ## [Previous Day...](/news/2009/04/17/index.md)
 

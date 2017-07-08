@@ -13,7 +13,7 @@ _Context: 2008 South Ossetia war, Dmitry Medvedev, Georgia, Moscow, Russia, Russ
 _Context: Indirect presidential elections, Pakistan, Pakistan Presidential Impeachment, Pervez Musharraf, President, impeach_
 
 ### [ A US-Poland agreement to deploy a missile defense shield prompts unnamed Russian officials to declare Poland "a legitimate military target" and the deputy of the Russian general staff states that Poland "opens itself to a nuclear strike". ](/news/2008/08/18/a-us-poland-agreement-to-deploy-a-missile-defense-shield-prompts-unnamed-russian-officials-to-declare-poland-a-legitimate-military-target.md)
-_Context: US-Poland, nuclear programme_
+_Context: Poland-United States relations, nuclear programme_
 
 ## [Previous Day...](/news/2008/08/17/index.md)
 

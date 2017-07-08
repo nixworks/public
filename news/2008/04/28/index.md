@@ -16,7 +16,7 @@ _Context: Baghdad, Mortar, United States military, rocket, soldier_
 The Supreme Court on Monday upheld a tough state law requiring voters to show photo identification, a decision critics say could keep some blacks, poor people and other traditional Democratic supporters from voting in the November election.
 
 ### [ Mars, Incorporated announces that it is buying the Wm. Wrigley Jr. Company, the world's largest chewing gum manufacturer, in a deal worth $23 billion. The deal is being partly financed by Warren Buffett's Berkshire Hathaway company. ](/news/2008/04/28/mars-incorporated-announces-that-it-is-buying-the-wm-wrigley-jr-company-the-world-s-largest-chewing-gum-manufacturer-in-a-deal-worth.md)
-_Context: Berkshire Hathaway, Mars Canada Inc., US$, Warren Buffett, Wm. Wrigley Jr. Company, chewing gum_
+_Context: Berkshire Hathaway Inc., Mars Canada Inc., US$, Warren Buffett, Wm. Wrigley Jr. Company, chewing gum_
 
 ### [ Two passenger trains collide in Zibo in Shandong province in eastern China resulting in the deaths of at least 71 people. ](/news/2008/04/28/two-passenger-trains-collide-in-zibo-in-shandong-province-in-eastern-china-resulting-in-the-deaths-of-at-least-71-people.md)
 _Context: China, Shandong, Zibo, passenger trains collide_

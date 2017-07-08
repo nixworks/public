@@ -4,7 +4,7 @@
 A suicide bomber in an explosive-laden car rammed into a police station in Peshawar, Pakistan, on Wednesday in a Taliban attack that killed seven police officers and injured several others, a senior police official said.
 
 ### [Violent clashes occur between tribesmen and government officials in Sana'a, Yemen. ](/news/2011/05/25/violent-clashes-occur-between-tribesmen-and-government-officials-in-sana-a-yemen.md)
-_Context: 2011 Yemeni uprising, Sana'a, Yemen_
+_Context: 2011 Yemeni uprising, Sana'a, Yemen's_
 
 ### [South African President Jacob Zuma will visit Libya for talks with  Libyan leader Muammar Gaddafi, in renewed efforts by the African Union to broker a cease-fire in the 2011 Libyan civil war. ](/news/2011/05/25/south-african-president-jacob-zuma-will-visit-libya-for-talks-with-libyan-leader-muammar-gaddafi-in-renewed-efforts-by-the-african-union-t.md)
 _Context: African Union, Jacob Zuma, Libya, Libyan Civil War, Muammar Gaddafi, President of South Africa, South Africa_
@@ -25,7 +25,7 @@ _Context: American Idol, Scotty McCreery, tenth season_
 _Context: David Einhorn, Ira W. Sohn Investment Research Conference, Microsoft, Steve Ballmer_
 
 ### [Grimsvotn eruption:Germany shuts down part of its airspace as volcanic ash from the eruption of Iceland's Grimsvotn reaches northern Europe. ](/news/2011/05/25/gramsvaptn-eruption-pgermany-shuts-down-part-of-its-airspace-as-volcanic-ash-from-the-eruption-of-iceland-s-gramsvaptn-reaches-northern-eu.md)
-_Context: German, Grimsvotn, Iceland, eruption, northern Europe_
+_Context: Germany, Grimsvotn, Iceland, eruption, northern Europe_
 
 ### [Powerful storms and tornadoes continue across the Central United States, claiming at least 10 more lives across Arkansas, Kansas and Oklahoma. ](/news/2011/05/25/powerful-storms-and-tornadoes-continue-across-the-central-united-states-claiming-at-least-10-more-lives-across-arkansas-kansas-and-oklahom.md)
 Arkansas, Oklahoma and Kansas picked up the pieces after damaging storms and tornadoes moved through Tuesday night, but national weather forecasters predicted more severe weather Wednesday evening for parts of the Ohio and Mississippi Valleys.

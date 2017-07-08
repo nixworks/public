@@ -40,7 +40,7 @@ Michigan Democrat John Dingell today becomes the longest-serving member of the H
 _Context: French Polynesia, Oscar Temaru, President, elected_
 
 ### [ The United Kingdom's Conservative Party admits to altering the Italian painter Titian's Wikipedia entry following a confrontation with Prime Minister Gordon Brown. ](/news/2009/02/11/the-united-kingdom-s-conservative-party-admits-to-altering-the-italian-painter-titian-s-wikipedia-entry-following-a-confrontation-with-prim.md)
-_Context: Conservative Party, Gordon Brown, Italy, Prime Minister, Titian, United Kingdom, Wikipedia, painter_
+_Context: Conservative Party, Gordon Brown, Italian, Prime Minister, Titian, United Kingdom, Wikipedia, painter_
 
 ### [ Renowned Molecular Biologist Dr Abdul Majid Cheema escaped death when unknown armed men opened fire on his vehicle on Quetta,Pakistan. [http://www.allvoices.com/news/2484493/s/28479265-balochistan-varsity-official-escapes-unhurt-in-attack]](/news/2009/02/11/renowned-molecular-biologist-dr-abdul-majid-cheema-escaped-death-when-unknown-armed-men-opened-fire-on-his-vehicle-on-quetta-pakistan-htt.md)
 ## [Previous Day...](/news/2009/02/10/index.md)

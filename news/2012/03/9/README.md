@@ -10,7 +10,7 @@ Twelve Palestinians, including the leader of the Popular Resistance Committees, 
 _Context: Ashdod, Ashkelon Coast Regional Council, Iron Dome_
 
 ### [Italian President Giorgio Napolitano calls on the British government to explain why it did not inform Italy about an attempt to rescue hostages Chris McManus and Franco Lamolinara until after the operation had been carried out. ](/news/2012/03/9/italian-president-giorgio-napolitano-calls-on-the-british-government-to-explain-why-it-did-not-inform-italy-about-an-attempt-to-rescue-hosta.md)
-_Context: 10 Downing Street, Giorgio Napolitano, Italy, President of Italy_
+_Context: 10 Downing Street, Giorgio Napolitano, Italian, President of Italy_
 
 ### [Simin Daneshvar, Iranian academic, novelist, fiction writer and translator dies at the age of 90. ](/news/2012/03/9/simin-daneshvar-iranian-academic-novelist-fiction-writer-and-translator-dies-at-the-age-of-90.md)
 _Context: Iran, Simin Daneshvar_

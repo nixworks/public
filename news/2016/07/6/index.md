@@ -4,7 +4,7 @@
 _Context: CPP-NPA-NDF rebellion, New People's Army, army, gouged_
 
 ### [A suicide car bomb, that targeted the Central Security headquarters in the port city of Aden, Yemen, kills at least 26 people. Following the blast, militants stormed the compound and clashed with soldiers. No group immediately claimed responsibility but it is similar to an Islamic State in Iraq and the Levant attack on the port of Al Mukalla. ](/news/2016/07/6/a-suicide-car-bomb-that-targeted-the-central-security-headquarters-in-the-port-city-of-aden-yemen-kills-at-least-26-people-following-the.md)
-_Context: Aden, Al Mukalla, Central Security, Islamic State in Iraq and the Levant, Yemen, Yemeni Civil War_
+_Context: Aden, Al Mukalla, Central Security, Islamic State in Iraq and the Levant, Yemen's, Yemeni Civil War_
 
 ### [The price of nickel swings wildly after Philippines environment secretary Gina Lopez announces plans to close existing mines in the country. ](/news/2016/07/6/the-price-of-nickel-swings-wildly-after-philippines-environment-secretary-gina-lopez-announces-plans-to-close-existing-mines-in-the-country.md)
 Nickel fell the most in eight weeks on speculation that the government may take longer than expected to close mines that don’t meet environmental rules in the Philippines, the biggest supplier of ore to China.

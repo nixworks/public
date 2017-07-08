@@ -10,7 +10,7 @@ Today&#39;s latest news from the civil war in Syria with Al Jazeera’s exclusiv
 Dozens of civilians held by Muslim rebels in a stand-off in the Philippine south are freed as troops gained ground, the military said.
 
 ### [The ''Costa Concordia'' is pulled completely upright from the place where it sunk in early 2012 off the coast of Tuscany in Italy. ](/news/2013/09/17/the-costa-concordia-is-pulled-completely-upright-from-the-place-where-it-sunk-in-early-2012-off-the-coast-of-tuscany-in-italy.md)
-_Context: ''Costa Concordia'' disaster, Costa Concordia, Italy, Tuscany_
+_Context: ''Costa Concordia'' disaster, Costa Concordia, Italian, Tuscany_
 
 ### [Iranian President Hassan Rouhani confirmed he had contacted U.S. President Barack Obama via letters. Both countries cut all diplomatic relations after the Iranian Hostage Crisis in 1980. ](/news/2013/09/17/iranian-president-hassan-rouhani-confirmed-he-had-contacted-u-s-president-barack-obama-via-letters-both-countries-cut-all-diplomatic-relat.md)
 _Context: Barack Obama, Hassan Rouhani, Iran, Iranian Hostage Crisis, President, United States, United States President_

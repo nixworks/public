@@ -6,6 +6,9 @@ Militants rammed military compound with car before opening fire in village of el
 ### [UNESCO declares the old city of Hebron, and the Cave of the Patriarchs in the West Bank as world heritage sites. ](/news/2017/07/7/unesco-declares-the-old-city-of-hebron-and-the-cave-of-the-patriarchs-in-the-west-bank-as-world-heritage-sites.md)
 Israel denounces the decision, accusing the UN cultural agency of being a &quot;political tool&quot;.
 
+### [ New religious movement 'Tabernacle Society' starts in the Australian region of the Central Coast (New South Wales) by Dean Liddell ](/news/2017/07/7/new-religious-movement-tabernacle-society-starts-in-the-australian-region-of-the-central-coast-new-south-wales-by-dean-liddell.md)
+_Context: Australian, Central Coast (New South Wales)_
+
 ### [Warren Buffett's Berkshire Hathaway Inc. agrees to pay USD$9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery stepping up its pursuit of steady profits from utilities and infrastructure deals. ](/news/2017/07/7/warren-buffett-s-berkshire-hathaway-inc-agrees-to-pay-usd-9-billion-to-buy-the-parent-of-texas-power-transmission-company-oncor-electric-de.md)
 _Context: Berkshire Hathaway Inc., Oncor Electric Delivery, Texas, USD, Warren Buffett_
 
@@ -30,6 +33,12 @@ Police raided the headquarters of Korean Air Lines Co Ltd on Friday as part of a
 ### [United States Attorney General Jeff Sessions, along with Deputy Attorney General Rod Rosenstein and National Intelligence Director Dan Coats visit the Guantanamo Bay Detention Camp. Justice Department spokesperson Ian Prior said in a statement "Recent attacks in Europe and elsewhere confirm that the threat to our nation is immediate and real, and it remains essential that we use every lawful tool available to prevent as many attacks as possible". ](/news/2017/07/7/united-states-attorney-general-jeff-sessions-along-with-deputy-attorney-general-rod-rosenstein-and-national-intelligence-director-dan-coats.md)
 _Context: Dan Coats, Deputy Attorney General, Europe, Guantanamo Bay Detention Camp, Jeff Sessions, Justice Department, National Intelligence Director, Rod Rosenstein, United States Attorney General_
 
+### [A request by the state of Hawaii to issue an order blocking President Donald Trump's Executive Order 13780 is rejected in the United States Court of Appeals for the Ninth Circuit.](/news/2017/07/7/a-request-by-the-state-of-hawaii-to-issue-an-order-blocking-president-donald-trump-s-executive-order-13780-is-rejected-in-the-united-states.md)
+_Context: Donald Trump's, Executive Order 13780, Hawaii, United States Court of Appeals for the Ninth Circuit_
+
+### [Former president of Panama Ricardo Martinelli is denied bond by United States magistrate judge Edwin Torres. He is accused of charges that include illegally monitoring phone and other conversations of at least 150 people. Martinelli was arrested in Miami last month on an extradition warrant from Panama. ](/news/2017/07/7/former-president-of-panama-ricardo-martinelli-is-denied-bond-by-united-states-magistrate-judge-edwin-torres-he-is-accused-of-charges-that-i.md)
+_Context: Edwin Torres, Miami, Panama, Ricardo Martinelli, United States magistrate judge, bond, illegally monitoring, warrant_
+
 ### [Venezuelan President Nicols Maduro says voting in his upcoming election on July 30 is mandatory for all 2.8 million state employees, with employees who do not vote facing ostracisation. Opponents of the government plan to hold their own unofficial referendum on the Maduro government on July 16. ](/news/2017/07/7/venezuelan-president-nicolas-maduro-says-voting-in-his-upcoming-election-on-july-30-is-mandatory-for-all-2-8-million-state-employees-with-e.md)
 _Context: Nicols Maduro, Venezuela, Venezuelan Constitutional Assembly election, 2017_
 
@@ -38,6 +47,9 @@ _Context: Aden, Aden Governorate, Aidarus al-Zoubaidi, Yemen's, Yemeni Civil War
 
 ### [South Australia finalizes a deal with Tesla, spearheaded by tweets originating from CEO of Tesla Elon Musk, to install a battery system in the state. Tesla said in a statement that upon completion by December 2017, the system would be the largest lithium-ion battery storage project in the world, overtaking an 80 megawatt-hour power station at Mira Loma in California also built using Tesla batteries. ](/news/2017/07/7/south-australia-finalizes-a-deal-with-tesla-spearheaded-by-tweets-originating-from-ceo-of-tesla-elon-musk-to-install-a-battery-system-in-t.md)
 _Context: California, Elon Musk, Mira Loma, Renewable energy in Australia, South Australia, Tesla, lithium-ion battery, megawatt-hour_
+
+### [Phoenix, Arizona records an air temperature of 117 Fahrenheit (47.2 Celsius) at Sky Harbor Airport, breaking the record for hottest temperature recorded in the city by two degrees Fahrenheit recorded in 1905. ](/news/2017/07/7/phoenix-arizona-records-an-air-temperature-of-117deg-fahrenheit-47-2deg-celsius-at-sky-harbor-airport-breaking-the-record-for-hottest-temper.md)
+_Context: Celsius, Fahrenheit, Phoenix, Arizona, Sky Harbor Airport, air temperature_
 
 ## [Previous Day...](/news/2017/07/6/index.md)
 

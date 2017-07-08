@@ -28,7 +28,7 @@ _Context: CNOOC, Chevron Corporation, Unocal, oil_
 _Context: 2003, Morgan Tsvangirai, Movement for Democratic Change, Robert Mugabe, Zimbabwe, prosecutor_
 
 ### [ In Germany, police in Brandenburg announce that they have uncovered bones of nine newborn babies that had been buried in flower pots. The woman believed to be their mother, identified in newspapers as "Sabine H.", has been arrested in the worst case of individual infanticide in German history. ](/news/2005/08/2/in-germany-police-in-brandenburg-announce-that-they-have-uncovered-bones-of-nine-newborn-babies-that-had-been-buried-in-flower-pots-the-w.md)
-_Context: Brandenburg, German, Sabine H., infanticide_
+_Context: Brandenburg, Germany, Sabine H., infanticide_
 
 ### [ Malaysia, Indonesia and Singapore agree to joint anti-piracy patrols in the Malacca Strait. ](/news/2005/08/2/malaysia-indonesia-and-singapore-agree-to-joint-anti-piracy-patrols-in-the-malacca-strait.md)
 Frontpage | New Straits Times : Authoritative source for Malaysia latest news on politics, business, sports, world and entertainment

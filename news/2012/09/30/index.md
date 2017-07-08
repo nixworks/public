@@ -7,7 +7,7 @@ Hundreds of Muslim protesters attack Buddhist villages in Bangladesh, after an i
 Opposition leader Henrique Capriles demands investigation into shooting that killed two politicians and one supporter.
 
 ### [Syrian Civil War: An Islamist group fighting Syrian government troops says it has captured five soldiers from Yemen, whom it alleges were sent to quell the uprising. ](/news/2012/09/30/syrian-civil-war-an-islamist-group-fighting-syrian-government-troops-says-it-has-captured-five-soldiers-from-yemen-whom-it-alleges-were-se.md)
-_Context: Islamist, Syrian Civil War, Yemen_
+_Context: Islamist, Syrian Civil War, Yemen's_
 
 ### [Car bomb blasts kill at least 32 people across Iraq. ](/news/2012/09/30/car-bomb-blasts-kill-at-least-32-people-across-iraq.md)
 Coordinated bomb attacks killed more than 32 people across Iraq on Sunday, the latest violence in an insurgency the government has failed to quell more than nine months after the last U.S. troops withdrew.

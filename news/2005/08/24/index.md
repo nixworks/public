@@ -4,7 +4,7 @@
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Heavy floods hit Switzerland, Austria and Germany forcing thousands of people to abandon their homes. ](/news/2005/08/24/heavy-floods-hit-switzerland-austria-and-germany-forcing-thousands-of-people-to-abandon-their-homes.md)
-_Context: Austria, German, Swiss, flood_
+_Context: Austria, Germany, Swiss, flood_
 
 ### [ Chinese railroad workers in Tibet laid rail tracks on the Tanggula Mountain Pass in the Tanggula Mountains in Tibet at 5,072 m (16,640 ft) above sea level, surpassing the altitude of the highest Peruvian railway by 255 m (837 ft).  This section of the Qinghai-Tibet Railway is now the highest railway in the world.  The railway also includes the highest railway station in the world at Lhasa, 5,068 m (16,627 ft) above sea level.  The railway is expected to open later in 2005. ](/news/2005/08/24/chinese-railroad-workers-in-tibet-laid-rail-tracks-on-the-tanggula-mountain-pass-in-the-tanggula-mountains-in-tibet-at-5-072-m-16-640-ft.md)
 _Context: 2005, China, Lhasa, Peru, Qinghai-Tibet Railway, Tanggula Mountain Pass, Tanggula Mountains, Tibet, above sea level, rail tracks, train station_

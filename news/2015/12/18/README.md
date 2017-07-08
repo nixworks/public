@@ -1,7 +1,7 @@
 ## [2015-12-18](/news/2015/12/18/index.md)
 
 ### [Two ballistic missiles are fired from Yemen at Saudi Arabia, one of which is intercepted by the kingdom's air defences, while the other missile lands near the city of Najran, according to a coalition statement on Saudi state media. No casualties have been reported. ](/news/2015/12/18/two-ballistic-missiles-are-fired-from-yemen-at-saudi-arabia-one-of-which-is-intercepted-by-the-kingdom-s-air-defences-while-the-other-miss.md)
-_Context: Najran, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Saudi state media, Yemen, Yemeni Civil War (2015)_
+_Context: Najran, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Saudi state media, Yemen's, Yemeni Civil War (2015)_
 
 ### [A U.S. B-52 long-range bomber on a routine mission over the South China Sea mistakenly flew within two nautical miles of an artificial island built by China near the Cuarteron Reef in the disputed Spratly Islands archipelago, according to a senior U.S. defense official. The Chinese Defense Ministry issues a statement accusing the U.S. of deliberately raising tensions in the disputed region. ](/news/2015/12/18/a-u-s-b-52-long-range-bomber-on-a-routine-mission-over-the-south-china-sea-mistakenly-flew-within-two-nautical-miles-of-an-artificial-islan.md)
 US Navy says its B-52 plane had no intention of flying so close to the Chinese-claimed Spratly archipelago in the South China Sea

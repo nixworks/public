@@ -49,7 +49,7 @@ _Context: United States Senate, health care reform_
 _Context: Israel, Palestinian terrorist, West Bank_
 
 ### [ At least 30 suspected Al-Qaeda militants are killed in an airstrike in Shabwah Governorate, Yemen. ](/news/2009/12/24/at-least-30-suspected-al-qaeda-militants-are-killed-in-an-airstrike-in-shabwah-governorate-yemen.md)
-_Context: Shabwa province, Yemen, al-Qaeda_
+_Context: Shabwa province, Yemen's, al-Qaeda_
 
 ### [ Venezuela orders businesses to cut electricity consumption by 20% as droughts threaten generation capacity at the 10.2 gigawatt Guri hydroelectric power station. ](/news/2009/12/24/venezuela-orders-businesses-to-cut-electricity-consumption-by-20-as-droughts-threaten-generation-capacity-at-the-10-2-gigawatt-guri-hydroe.md)
 Venezuela has imposed sweeping power cuts on industry and businesses in order to save its limited energy resources and avoid mass blackouts. The government said the cuts were because of falling water levels at the Guri Hydroelectric dam, which supplies much of the country&#039;s power.

@@ -55,7 +55,7 @@ _Context: California, Colorado, Dallas, Texas, George W. Bush, New York City, Sa
 A BRITISH judge has ordered Julian Assange to be extradited to Sweden to face sexual assault allegations, but the Australian plans to lodge an appeal and still hopes the matter can be finalised in the UK.
 
 ### [German prosecutors investigate several companies for possible illegal sales of HIV drugs including those intended for use in Africa. ](/news/2011/02/24/german-prosecutors-investigate-several-companies-for-possible-illegal-sales-of-hiv-drugs-including-those-intended-for-use-in-africa.md)
-_Context: Africa, German, HIV_
+_Context: Africa, Germany, HIV_
 
 ### [United States authorities arrest more than 60 suspected members of Mexican drug cartels following the execution of a US Drug Enforcement Administration agent in Mexico last week. ](/news/2011/02/24/united-states-authorities-arrest-more-than-60-suspected-members-of-mexican-drug-cartels-following-the-execution-of-a-us-drug-enforcement-adm.md)
 Law enforcement officials across the country are conducting a nationwide sweep of suspected members of Mexican drug cartels working in the United States.

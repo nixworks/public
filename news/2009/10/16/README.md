@@ -49,7 +49,7 @@ Around 20 Muslim protesters hurled abuse at far-right Dutch MP Geert Wilders as 
 _Context: Uruguay_
 
 ### [ German heavy metal band Rammstein releases their seventh album, Liebe ist fur Alle Da in Germany.](/news/2009/10/16/german-heavy-metal-band-rammstein-releases-their-seventh-album-liebe-ist-fa1-4r-alle-da-in-germany.md)
-_Context: German, German, Liebe ist fur Alle Da, Rammstein, heavy metal band's_
+_Context: German, Germany, Liebe ist fur Alle Da, Rammstein, heavy metal band's_
 
 ## [Previous Day...](/news/2009/10/15/index.md)
 

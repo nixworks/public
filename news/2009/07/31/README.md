@@ -19,7 +19,7 @@ A Norwegian cargo vessel with a crew of six is believed to have sunk in Swedish 
 _Context: Barcelona, Netherlands, bus crash_
 
 ### [ Patrizia D'Addario, the escort at the centre of Italian Prime Minister Silvio Berlusconi's sex scandal, claims he and his party offered her a seat in the European Parliament until his wife complained. ](/news/2009/07/31/patrizia-d-addario-the-escort-at-the-centre-of-italian-prime-minister-silvio-berlusconi-s-sex-scandal-claims-he-and-his-party-offered-her.md)
-_Context: European Parliament, Italian Prime Minister, Italy, Silvio Berlusconi_
+_Context: European Parliament, Italian, Italian Prime Minister, Silvio Berlusconi_
 
 ### [ Gazprom launches construction of the Sakhalin-Khabarovsk-Vladivostok gas pipeline. ](/news/2009/07/31/gazprom-launches-construction-of-the-sakhalinakhabarovskavladivostok-gas-pipeline.md)
 * Gazprom needs 8-10 bcm of gas for new pipeline * Putin says domestic market should take priority * ExxonMobil considering all options fo

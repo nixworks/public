@@ -10,7 +10,7 @@ The Taoiseach has told the Dáil that the second referendum on the Lisbon Treaty
 _Context: Kim Il-sung, Kim Jong-il, North Korea_
 
 ### [ The 35th G8 Summit begins in L'Aquila, Italy. ](/news/2009/07/8/the-35th-g8-summit-begins-in-l-aquila-italy.md)
-_Context: G8, Italy, L'Aquila_
+_Context: G8, Italian, L'Aquila_
 
 ### [  Chinese President Hu Jintao leaves the 35th G8 Summit and returns to Beijing to deal with the ongoing riots in Urumqi. ](/news/2009/07/8/chinese-president-hu-jintao-leaves-the-35th-g8-summit-and-returns-to-beijing-to-deal-with-the-ongoing-riots-in-ara1-4mqi.md)
 _Context: Beijing, Chinese President, G8, Hu Jintao, People's Republic of China, Urumqi, ethnic riots_

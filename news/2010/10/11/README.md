@@ -55,7 +55,7 @@ _Context: Benigno Aquino III, Manila hostage crisis, President of the Philippine
 _Context: Leadership Academy for Girls, Meyerton, Oprah Winfrey, South Africa, sexual abuse_
 
 ### [The son of Sakineh Mohammadi Ashtiani, the woman sentenced to death by stoning, and two German journalists posing as tourists seeking to interview him, may have been arrested in Iran. ](/news/2010/10/11/the-son-of-sakineh-mohammadi-ashtiani-the-woman-sentenced-to-death-by-stoning-and-two-german-journalists-posing-as-tourists-seeking-to-int.md)
-_Context: German, Iran, Sakineh Mohammadi Ashtiani, journalist_
+_Context: Germany, Iran, Sakineh Mohammadi Ashtiani, journalist_
 
 ### [Kyrgyzstani parliamentary election:Five Kyrgyz political parties, including Ata-Zhurt, Social Democratic Party of Krygyzstan, Ar-Namys, Respublika, and Ata Meken, have passed all thresholds at the election thus can obtain parliamentary seats. ](/news/2010/10/11/kyrgyzstani-parliamentary-election-pfive-kyrgyz-political-parties-including-ata-zhurt-social-democratic-party-of-krygyzstan-ar-namys-res.md)
 _Context: Ar-Namys, Ata Meken, Ata-Zhurt, Kyrgyzstani parliamentary election, Respublika, Social Democratic Party of Kyrgyzstan_

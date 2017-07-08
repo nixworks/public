@@ -7,7 +7,7 @@ _Context: Hizb ut-Tahrir, Komiljon Usmanov, Uzbekistan, amnesty_
 _Context: Colombia, FARC, Peru, Vladimiro Montesinos_
 
 ### [ Israeli troops raid a branch of Jordan National Bank and 23 other financial institutions, seizing the equivalent of over US$1.5 million in cash from West Bank cities. ](/news/2006/09/21/israeli-troops-raid-a-branch-of-jordan-national-bank-and-23-other-financial-institutions-seizing-the-equivalent-of-over-us-1-5-million-in.md)
-_Context: $, Israel, Jordan National Bank_
+_Context: Israel, Jordan National Bank, USD_
 
 ### [ A U.S. federal judge in San Francisco orders two ''San Francisco Chronicle'' reporters jailed for up to 18 months for refusing to reveal who leaked them secret grand jury testimony about steroids in baseball. ](/news/2006/09/21/a-u-s-federal-judge-in-san-francisco-orders-two-san-francisco-chronicle-reporters-jailed-for-up-to-18-months-for-refusing-to-reveal-wh.md)
 _Context: San Francisco, San Francisco Chronicle, anabolic steroid, baseball game, grand jury_

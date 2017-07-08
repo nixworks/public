@@ -37,7 +37,7 @@ The United States is in talks to base long-range bombers in Australia, U.S. defe
 Turkish authorities have seized control of the Cihan news agency, the agency said, widening the crackdown against supporters of U.S.-based Muslim cleric Fethullah Gulen, an influential foe of President Tayyip Erdogan.
 
 ### [Acting on requests from neighboring Italy, Swiss authorities  arrest 15 people sought  as suspected members of the 'Ndrangheta organized crime syndicate,  a Mafia-type organization  centered in Calabria, Italy. ](/news/2016/03/8/acting-on-requests-from-neighboring-italy-swiss-authorities-arrest-15-people-sought-as-suspected-members-of-the-ndrangheta-organized-cri.md)
-_Context: 'Ndrangheta, Calabria, Italy, Mafia, Swiss authorities, organization_
+_Context: 'Ndrangheta, Calabria, Italian, Mafia, Swiss authorities, organization_
 
 ### [Voters in the U.S. states of Mississippi, Michigan, Hawaii and Idaho vote in primary elections and caucuses. ](/news/2016/03/8/voters-in-the-u-s-states-of-mississippi-michigan-hawaii-and-idaho-vote-in-primary-elections-and-caucuses.md)
 Live presidential election results and maps.
@@ -46,7 +46,7 @@ Live presidential election results and maps.
 The Obama administration is expanding the number of households that will receive Internet subsidies.
 
 ### [The Supreme Court of the Philippines, in a 9-6 ruling, reverses the Commission on Elections order that had disqualified Senator Grace Poe from running in the May 9, 2016, presidential election. The petitioners plan to file a motion for reconsideration. ](/news/2016/03/8/the-supreme-court-of-the-philippines-in-a-9-6-ruling-reverses-the-commission-on-elections-order-that-had-disqualified-senator-grace-poe-fr.md)
-_Context: Commission on Elections, Grace Poe, Philippine presidential election, 2016, Supreme Court_
+_Context: Commission on Elections, Grace Poe, Philippine presidential election, 2016, Supreme Court of the Philippines_
 
 ### [U.S. carrier Alaska Airlines reschedules Flight 870 from Anchorage, Alaska, to Honolulu,  Hawaii, to depart at 2:00 p.m. local time  (23:00 UTC) so passengers can view 2016's only total solar eclipse for 1 minute and 59 seconds, 695 miles north of Honolulu  at 37,000 feet.  ](/news/2016/03/8/u-s-carrier-alaska-airlines-reschedules-flight-870-from-anchorage-alaska-to-honolulu-hawaii-to-depart-at-2-00-p-m-local-time-23-00.md)
 The departure time is being adjusted so passengers can get a rare look over the Pacific Ocean.

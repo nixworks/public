@@ -4,7 +4,7 @@
 _Context: Kenya, Somalia_
 
 ### [Children in Ja'ar, Yemen, accidentally set off a shell, killing one and wounding seven others. ](/news/2012/07/2/children-in-jae-ar-yemen-accidentally-set-off-a-shell-killing-one-and-wounding-seven-others.md)
-_Context: Ja'ar, Yemen_
+_Context: Ja'ar, Yemen's_
 
 ### [Officials in Kenya say that two Iranian Islamic Revolutionary Guards arrested with explosives planned to attack Israeli, American, British and Saudi Arabian targets inside Kenya. ](/news/2012/07/2/officials-in-kenya-say-that-two-iranian-islamic-revolutionary-guards-arrested-with-explosives-planned-to-attack-israeli-american-british-a.md)
 _Context: Iran, Islamic Revolutionary Guards, Israelis, Kenya, Saudi Arabian, United Kingdom, United States_
@@ -43,7 +43,7 @@ Four staff members from the International Criminal Court held in Libya for four 
 Ichiro Ozawa and his faction resign from the ruling Democratic Party of Japan, amid a bitter row over the sales tax rise.
 
 ### [The head of Germany's domestic intelligence agency, Heinz Fromm, resigns due to a series of blunders in an investigation about a neo-Nazi cell. ](/news/2012/07/2/the-head-of-germany-s-domestic-intelligence-agency-heinz-fromm-resigns-due-to-a-series-of-blunders-in-an-investigation-about-a-neo-nazi-ce.md)
-_Context: German, Heinz Fromm, neo-nazi_
+_Context: Germany, Heinz Fromm, neo-nazi_
 
 ### [Miguel Angel Mancera wins the 2012 Mexico City head of state (mayoral) election. ](/news/2012/07/2/miguel-angel-mancera-wins-the-2012-mexico-city-head-of-state-mayoral-election.md)
 _Context: Mexico City, Miguel Angel Mancera, head of state (mayoral) election_

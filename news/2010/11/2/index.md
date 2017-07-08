@@ -46,7 +46,7 @@ _Context: David Cameron, London, Nicolas Sarkozy, President of France, Prime Min
 _Context: People's Republic of China, Zambia, bail_
 
 ### [Yemen charges militant Islamic cleric Anwar al-Awlaki with incitement to kill foreigners. ](/news/2010/11/2/yemen-charges-militant-islamic-cleric-anwar-al-awlaki-with-incitement-to-kill-foreigners.md)
-_Context: Anwar al-Awlaki, Islam, Yemen_
+_Context: Anwar al-Awlaki, Islam, Yemen's_
 
 ### [Salum Khalfani Bar'wani of the opposition Civic United Front party is elected as a Member of Parliament, the first albino to serve elective office in Tanzania. ](/news/2010/11/2/salum-khalfani-bar-wani-of-the-opposition-civic-united-front-party-is-elected-as-a-member-of-parliament-the-first-albino-to-serve-elective.md)
 An albino is elected as an MP for the first time in Tanzania, telling the BBC it is a &quot;victory for all albinos&quot;, who face widespread persecution in the East African nation.

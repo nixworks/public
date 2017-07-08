@@ -7,7 +7,7 @@ _Context: His Majesty's Government, Home Office_
 _Context: Albania, Bosnia and Herzegovina, Bulgaria, Central European Free Trade Agreement, Croatia, Kosovo, Macedonian, Moldova, Montenegro, Romania, Serbia, free trade zone_
 
 ### [ The Government of Kazakhstan is considering giving Kyrgyzstan USD $100 million in aid. ](/news/2006/12/20/the-government-of-kazakhstan-is-considering-giving-kyrgyzstan-usd-100-million-in-aid.md)
-_Context: $, Government of Kazakhstan, Kyrgyzstan_
+_Context: Government of Kazakhstan, Kyrgyzstan, USD_
 
 ### [ The 2006 Malaysian floods caused by heavy monsoon rain force the evacuation of 26,000 people in the southern Malaysian state of Johor. Flooding is also reported in the southern states of Malacca and Negeri Sembilan but the situation there is not as serious. ](/news/2006/12/20/the-2006-malaysian-floods-caused-by-heavy-monsoon-rain-force-the-evacuation-of-26-000-people-in-the-southern-malaysian-state-of-johor-floo.md)
 _Context: 2006 Malaysian floods, Johor, Malacca, Malaysia, Negeri Sembilan, monsoon_

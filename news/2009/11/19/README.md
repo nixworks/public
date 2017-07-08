@@ -13,7 +13,7 @@ _Context: Oprah Winfrey, Oprah Winfrey Show_
 Gordon Brown insisted tonight that Britain would remain a powerful voice in Brussels after Labour peer Baroness Ashton was appointed as the European Union&#039;s first foreign minister.
 
 ### [ Yemeni government forces say they have killed a leader during fighting with Houthi rebels in the north of the country. ](/news/2009/11/19/yemeni-government-forces-say-they-have-killed-a-leader-during-fighting-with-houthi-rebels-in-the-north-of-the-country.md)
-_Context: Houthi, Shia insurgency in Yemen, Yemen, ongoing fight_
+_Context: Houthi, Shia insurgency in Yemen, Yemen's, ongoing fight_
 
 ### [ Egypt recalls its ambassador to Algeria after complaints about violence towards its football fans after a World Cup play off. Sudan also summons its envoy to Egypt over media coverage of the game's aftermath. ](/news/2009/11/19/egypt-recalls-its-ambassador-to-algeria-after-complaints-about-violence-towards-its-football-fans-after-a-world-cup-play-off-sudan-also-su.md)
 _Context: 2010 FIFA World Cup, Algeria, Egypt, Sudan, play off_

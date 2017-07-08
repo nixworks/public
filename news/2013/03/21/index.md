@@ -19,7 +19,7 @@ An explosion at a mosque in the Syrian capital on Thursday killed at least 42 pe
 Chinua Achebe dies at 82
 
 ### [2013 Berlin helicopter crash: Two helicopters collide and crash near Berlin's Olympic Stadium in Germany, killing the pilot of one helicopter and injuring four people. ](/news/2013/03/21/2013-berlin-helicopter-crash-two-helicopters-collide-and-crash-near-berlin-s-olympic-stadium-in-germany-killing-the-pilot-of-one-helicopte.md)
-_Context: 2013 Berlin helicopter crash, Berlin, German, Olympic Stadium_
+_Context: 2013 Berlin helicopter crash, Berlin, Germany, Olympic Stadium_
 
 ### [At least 45 people drown and 60 are missing after a boat carrying Nigerian migrants capsizes and sinks off shore from Libreville, Gabon. ](/news/2013/03/21/at-least-45-people-drown-and-60-are-missing-after-a-boat-carrying-nigerian-migrants-capsizes-and-sinks-off-shore-from-libreville-gabon.md)
 Twenty-nine people are rescued after a boat carrying about 130 people from Nigeria to Gabon sinks, rescue officials say.

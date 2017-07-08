@@ -34,7 +34,7 @@ _Context: Chad, France, Laurent Maurice_
 Seven Afghan boys were shot dead on Saturday by police who mistook them for insurgents, a provincial police official said.
 
 ### [23 Yemeni government soldiers are killed by the Houthis in two separate incidents: 15 are ambushed in Wadi al-Jabara, while the remaining 8 die in Sa'dah. ](/news/2010/02/6/23-yemeni-government-soldiers-are-killed-by-the-houthis-in-two-separate-incidents-15-are-ambushed-in-wadi-al-jabara-while-the-remaining-8.md)
-_Context: Houthi, Sa'dah, Wadi al-Jabara, Yemen_
+_Context: Houthi, Sa'dah, Wadi al-Jabara, Yemen's_
 
 ### [The Taliban blow up a girls' school in Huwaid, Pakistan, killing no one. ](/news/2010/02/6/the-taliban-blow-up-a-girls-school-in-huwaid-pakistan-killing-no-one.md)
 _Context: Huwaid, Pakistan, Taliban_

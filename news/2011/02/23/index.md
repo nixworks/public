@@ -1,7 +1,7 @@
 ## [2011-02-23](/news/2011/02/23/index.md)
 
 ### [Italy's foreign minister says as many as 1,000 people have been killed in Libya during the unrest. ](/news/2011/02/23/italy-s-foreign-minister-says-as-many-as-1-000-people-have-been-killed-in-libya-during-the-unrest.md)
-_Context: Italy, Libya, Libyan Civil War_
+_Context: Italian, Libya, Libyan Civil War_
 
 ### [2011 Yemeni protests:Eight members of the ruling General People's Congress party resign after the deaths of protestors. ](/news/2011/02/23/2011-yemeni-protests-peight-members-of-the-ruling-general-people-s-congress-party-resign-after-the-deaths-of-protestors.md)
 Yemeni&#x20;protesters&#x20;remained&#x20;defiant&#x20;on&#x20;Wednesday&#x20;following&#x20;the&#x20;deaths&#x20;of&#x20;two&#x20;of&#x20;their&#x20;number&#x20;during&#x20;an&#x20;overnight&#x20;attack&#x20;by&#x20;government&#x20;loyalists.&#x20;With&#x20;the&#x20;anti-regime&#x20;movement&#x20;refusing&#x20;to&#x20;subside,&#x20;eight&#x20;MPs&#x20;have&#x20;resigned&#x20;from&#x20;Yemen&amp;&#x23;039&#x3B;s&#x20;ruling...

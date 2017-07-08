@@ -4,7 +4,7 @@
 Violent demonstrations continued in Copenhagen, Denmark on Saturday, sparked by the eviction of squatters from a building, officials said.
 
 ### [ Italian leader Romano Prodi is reinstated as prime minister after winning his second and final confidence vote in the Parliament, ending a political crisis that began last week when Prodi resigned after losing a foreign policy vote. ](/news/2007/03/2/italian-leader-romano-prodi-is-reinstated-as-prime-minister-after-winning-his-second-and-final-confidence-vote-in-the-parliament-ending-a.md)
-_Context: Italy, Romano Prodi, parliament_
+_Context: Italian, Romano Prodi, parliament_
 
 ### [ Cuban foreign minister Felipe Prez Roque claims leader Fidel Castro is recovering from his illness and could come back to lead Cuba again. ](/news/2007/03/2/cuban-foreign-minister-felipe-perez-roque-claims-leader-fidel-castro-is-recovering-from-his-illness-and-could-come-back-to-lead-cuba-again.md)
 _Context: Cuba, Felipe Prez Roque, Fidel Castro_

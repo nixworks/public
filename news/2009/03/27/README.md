@@ -19,7 +19,7 @@ A highly radioactive lead ball has gone missing in China, prompting authorities 
 _Context: Arctic, Russia, Russian security forces, officially submit a claim_
 
 ### [ ''The Lancet'' accuses Pope Benedict XVI of "distorting...science" in his argument against the use of condoms. ](/news/2009/03/27/the-lancet-accuses-pope-benedict-xvi-of-distorting-science-in-his-argument-against-the-use-of-condoms.md)
-_Context: Pope, Pope Benedict XVI, The Lancet, argument against the use, condom, science_
+_Context: Pope, Pope Benedict XVI, The Lancet, argument against the use, condoms, science_
 
 ### [ The United Kingdom's economy contracted by 1.6% in the fourth quarter of 2008. ](/news/2009/03/27/the-united-kingdom-s-economy-contracted-by-1-6-in-the-fourth-quarter-of-2008.md)
 _Context: 4th quarter of 2007 and the second quarter of 2009, UK economy, United Kingdom, fiscal year_

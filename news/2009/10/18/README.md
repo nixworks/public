@@ -1,7 +1,7 @@
 ## [2009-10-18](/news/2009/10/18/index.md)
 
 ### [ Yemen claims to have killed 18 Shia rebels in fighting in the north of the country.](/news/2009/10/18/yemen-claims-to-have-killed-18-shia-rebels-in-fighting-in-the-north-of-the-country.md)
-_Context: Shia, Yemen_
+_Context: Shia, Yemen's_
 
 ### [ Iraq accuses neighbouring countries of stealing sections of its national archives, including centuries-old documents. ](/news/2009/10/18/iraq-accuses-neighbouring-countries-of-stealing-sections-of-its-national-archives-including-centuries-old-documents.md)
 _Context: Iraq, its national archives_
@@ -19,7 +19,7 @@ _Context: Pakistan, South Waziristan, Taliban, ongoing offensive_
 _Context: 2009 Brazilian Grand Prix, Brazil, Formula One, Interlagos, Jenson Button, Sao Paulo_
 
 ### [ Germany and Israel complain about a Bangkok museum billboard depicting a salute by Adolf Hitler beside the slogan "Hitler is not dead". ](/news/2009/10/18/germany-and-israel-complain-about-a-bangkok-museum-billboard-depicting-a-salute-by-adolf-hitler-beside-the-slogan-hitler-is-not-dead.md)
-_Context: Adolf Hitler, Bangkok, German, Israel, billboard, museum, salute_
+_Context: Adolf Hitler, Bangkok, Germany, Israel, billboard, museum, salute_
 
 ### [ Hurricane Rick strengthens to a Category 5 storm, becoming the strongest hurricane in a decade in the eastern Pacific Ocean. ](/news/2009/10/18/hurricane-rick-strengthens-to-a-category-5-storm-becoming-the-strongest-hurricane-in-a-decade-in-the-eastern-pacific-ocean.md)
 _Context: Category 4, Hurricane Rick, Pacific, strongest hurricane in a decade_

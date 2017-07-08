@@ -10,7 +10,7 @@ _Context: Jimmy Wales, Wikimedia Foundation, Wikipedia_
 _Context: George W. Bush, John McCain, R, United States President_
 
 ### [ Warren Buffett, CEO of Berkshire Hathaway, is named the richest person in the world by ''Forbes'' magazine. ](/news/2008/03/5/warren-buffett-ceo-of-berkshire-hathaway-is-named-the-richest-person-in-the-world-by-forbes-magazine.md)
-_Context: Berkshire Hathaway, Forbes, Warren Buffett_
+_Context: Berkshire Hathaway Inc., Forbes, Warren Buffett_
 
 ### [ Saudi Arabia announces plans to execute a Canadian man and a Saudi friend convicted of murder by beheading them in public. ](/news/2008/03/5/saudi-arabia-announces-plans-to-execute-a-canadian-man-and-a-saudi-friend-convicted-of-murder-by-beheading-them-in-public.md)
 _Context: Canada, Saudi Arabia_

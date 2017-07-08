@@ -43,7 +43,7 @@ A man is shot dead at a Dublin boxing weigh-in, in a suspected gangland attack b
 _Context: China, Communist Party of China, Sichuan, Wei Hong_
 
 ### [White supremacists in the U.S. state of New Hampshire create a super PAC to support U.S. presidential candidate Donald Trump's presidential campaign. ](/news/2016/02/5/white-supremacists-in-the-u-s-state-of-new-hampshire-create-a-super-pac-to-support-u-s-presidential-candidate-donald-trump-s-presidential.md)
-_Context: Donald Trump, New Hampshire, super PAC_
+_Context: Donald Trump's, New Hampshire, super PAC_
 
 ## [Previous Day...](/news/2016/02/4/index.md)
 

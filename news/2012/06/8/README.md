@@ -19,7 +19,7 @@ _Context: Amnesty International, Israel, criticised_
 _Context: Amy Winehouse, Chalk Farm, The Roundhouse, north London_
 
 ### [Booker Prize winning writer of historical fiction Barry Unsworth dies in Italy. ](/news/2012/06/8/booker-prize-winning-writer-of-historical-fiction-barry-unsworth-dies-in-italy.md)
-_Context: Barry Unsworth, Booker Prize, Italy_
+_Context: Barry Unsworth, Booker Prize, Italian_
 
 ### [The Commonwealth Writers prizes are handed out at Hay: Shehan Karunatilaka from Sri Lanka wins the PS10,000 Commonwealth Book Prize for his debut novel ''Chinaman: The Legend of Pradeep Mathew'', while Emma Martin from New Zealand wins the PS5,000 Commonwealth Short Story Prize for "Two Girls in a Boat". ](/news/2012/06/8/the-commonwealth-writers-prizes-are-handed-out-at-hay-shehan-karunatilaka-from-sri-lanka-wins-the-aps10-000-commonwealth-book-prize-for-his.md)
 _Context: Commonwealth Writers prizes, Emma Martin, Hay, New Zealand, Shehan Karunatilaka, Sri Lanka_

@@ -16,7 +16,7 @@ Passionately smashing every expectation.
 As the Doha meeting looms it appears that the chances of a meaningful outcome are slim, and if there is no agreement whatsoever, then investors can expect a sharp selloff
 
 ### [A member of the board of the Bundesbank in Germany says that the European Central Bank ought to crack down on the political practice, in EU's member states, by which banks that are no longer viable are nonetheless kept in business, as so-called Zombie banks. ](/news/2016/04/18/a-member-of-the-board-of-the-bundesbank-in-germany-says-that-the-european-central-bank-ought-to-crack-down-on-the-political-practice-in-eu.md)
-_Context: Bundesbank, European Central Bank, German, Zombie banks_
+_Context: Bundesbank, European Central Bank, Germany, Zombie banks_
 
 ### [Carnival Cruise Lines says it will postpone its first cruise in 50 years from the United States to Havana, if Cuba does not waive its rule and  allow  Cuban-Americans passengers. Current  Cuban law does not allow those born on the island to return by sea. ](/news/2016/04/18/carnival-cruise-lines-says-it-will-postpone-its-first-cruise-in-50-years-from-the-united-states-to-havana-if-cuba-does-not-waive-its-rule-a.md)
 Carnival Cruise Lines announced Monday it will postpone its first cruise to Havana in 50 years if Cuba does not allow those born on the island to return by sea.

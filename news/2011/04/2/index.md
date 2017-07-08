@@ -10,7 +10,7 @@ A NATO airstrike intended to thwart Moammar Gadhafi&#39;s forces killed 13 rebel
 _Context: Syria, Syrian uprising_
 
 ### [2011 Yemeni protests:Anti-government protesters clash with riot police in Aden, southern Yemen. ](/news/2011/04/2/2011-yemeni-protests-panti-government-protesters-clash-with-riot-police-in-aden-southern-yemen.md)
-_Context: 2011 Yemeni protests, Aden, Yemen_
+_Context: 2011 Yemeni protests, Aden, Yemen's_
 
 ### [Gaza War:Israel asks the United Nations to disavow the Goldstone Report after the report's author, Judge Richard Goldstone, says that he retracts the accusation that Israel intentionally targeted civilians during the 2008-2009 Gaza War. ](/news/2011/04/2/gaza-war-pisrael-asks-the-united-nations-to-disavow-the-goldstone-report-after-the-report-s-author-judge-richard-goldstone-says-that-he-re.md)
 Israel calls on the UN to cancel a report that said it possibly committed war crimes during its 2008-2009 military offensive in Gaza.

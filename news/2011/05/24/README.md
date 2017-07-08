@@ -4,7 +4,7 @@
 _Context: Libya, Libyan Civil War, Tunisia_
 
 ### [Fresh clashes take place in Yemen between police and opposition tribesmen who have taken control of several government buildings in the capital Sana'a. ](/news/2011/05/24/fresh-clashes-take-place-in-yemen-between-police-and-opposition-tribesmen-who-have-taken-control-of-several-government-buildings-in-the-capi.md)
-_Context: 2011 Yemeni protests, Sana'a, Yemen_
+_Context: 2011 Yemeni protests, Sana'a, Yemen's_
 
 ### [Smoke is seen rising from Muammar Gaddafi's compound in Tripoli, Libya, following a NATO airstrike which reportedly kills three people. ](/news/2011/05/24/smoke-is-seen-rising-from-muammar-gaddafi-s-compound-in-tripoli-libya-following-a-nato-airstrike-which-reportedly-kills-three-people.md)
 _Context: Libya, Muammar Gaddafi, NATO, Tripoli, compound_

@@ -16,7 +16,7 @@ _Context: Chansa Kabwela, Rupiah Banda, Zambia, Zambia Post_
 _Context: Barack Obama, Shanghai_
 
 ### [ The United Nations "Hunger Summit" opens in Rome, Italy. ](/news/2009/11/16/the-united-nations-hunger-summit-opens-in-rome-italy.md)
-_Context: Italy, Rome, United Nations_
+_Context: Italian, Rome, United Nations_
 
 ### [ The IAEA expresses concern after a late declaration of a second nuclear site by Iran. ](/news/2009/11/16/the-iaea-expresses-concern-after-a-late-declaration-of-a-second-nuclear-site-by-iran.md)
 Leaked IAEA report says visit to Qom facility raises questions of possible further sites.

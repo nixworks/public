@@ -13,7 +13,7 @@ _Context: 55 Cancri, Astronomer, United States, fifth planet, light years, orbit
 _Context: Discovery, International Space Station, Kennedy Space Center, STS-120_
 
 ### [ A fire in Gwalior, India, ruins over 400 small stores. Losses are estimated at 10 million rupees (USD 250,000).date=December 2007 ](/news/2007/11/7/a-fire-in-gwalior-india-ruins-over-400-small-stores-losses-are-estimated-at-10-million-rupees-usd-250-000-date-december-2007.md)
-_Context: $, Gwalior, India, fire, retail sales, rupee_
+_Context: Gwalior, India, USD, fire, retail sales, rupee_
 
 ### [ Taliban militants capture the Pakistani town of Madyan in Waziristan's Swat region and hoist their flags over buildings.date=December 2007 ](/news/2007/11/7/taliban-militants-capture-the-pakistani-town-of-madyan-in-waziristan-s-swat-region-and-hoist-their-flags-over-buildings-date-december-2007.md)
 _Context: Madyan, Pakistan, Swat, Pakistan, Taliban, Waziristan_

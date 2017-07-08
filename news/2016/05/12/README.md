@@ -1,7 +1,7 @@
 ## [2016-05-12](/news/2016/05/12/index.md)
 
 ### [Al Qaeda militants kill at least 13 Yemeni government troops near the city of Mukalla. ](/news/2016/05/12/al-qaeda-militants-kill-at-least-13-yemeni-government-troops-near-the-city-of-mukalla.md)
-_Context: Mukalla, Yemen, Yemeni Crisis (2011-present), al-Qaeda_
+_Context: Mukalla, Yemen's, Yemeni Crisis (2011-present), al-Qaeda_
 
 ### [A twin suicide bombing attack at a police station in Baghdad kills five people. Yesterday 93 people had been killed and 165 injured in the deadliest day of attacks in Iraq this year. ](/news/2016/05/12/a-twin-suicide-bombing-attack-at-a-police-station-in-baghdad-kills-five-people-yesterday-93-people-had-been-killed-and-165-injured-in-the-d.md)
 _Context: Baghdad, Iraq, Iraqi Civil War (2014-present), Iraqi police, suicide bombing_

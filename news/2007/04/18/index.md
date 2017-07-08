@@ -4,7 +4,7 @@
 _Context: Colombia, Nevado del Huila, volcanic activity_
 
 ### [ After the acquisition of Algoma Steel, India's Essar Group plans to buy U.S.-based Minnesota Steel for US$ 1.66 billion. ](/news/2007/04/18/after-the-acquisition-of-algoma-steel-india-s-essar-group-plans-to-buy-u-s-based-minnesota-steel-for-us-1-66-billion.md)
-_Context: $, Algoma Steel, Essar Group, India, Minnesota Steel, U.S._
+_Context: Algoma Steel, Essar Group, India, Minnesota Steel, U.S., USD_
 
 ### [ A diplomat claims that an International Atomic Energy Agency document claims that Iran has assembled some 1,300 centrifuges at a key underground nuclear plant in Natanz and has started to feed them with the uranium gas necessary for enriching uranium. ](/news/2007/04/18/a-diplomat-claims-that-an-international-atomic-energy-agency-document-claims-that-iran-has-assembled-some-1-300-centrifuges-at-a-key-underg.md)
 _Context: International Atomic Energy Agency, Iran, Natanz, centrifuge, diplomat, uranium_
@@ -25,7 +25,7 @@ _Context: Al Jizah, Egypt, governorates, secondary school, truck_
 _Context: Bible, Turkey, sectarian_
 
 ### [ Australia and the United States agree to exchange hundreds of asylum seekers kept in offshore detention camps in Nauru and Guantanamo Bay. ](/news/2007/04/18/australia-and-the-united-states-agree-to-exchange-hundreds-of-asylum-seekers-kept-in-offshore-detention-camps-in-nauru-and-guantanamo-bay.md)
-_Context: Australia, Nauru, United States, asylum seeker, detainee_
+_Context: Australia, Guantanamo Bay Detention Camp, Nauru, United States, asylum seeker_
 
 ### [ Iccho Itoh, Mayor of Nagasaki, Japan, dies after being shot in a suspected gangland killing on Tuesday. Japanese Prime Minister Shinzo Abe denounces the murder as unforgivable. ](/news/2007/04/18/iccho-itoh-mayor-of-nagasaki-japan-dies-after-being-shot-in-a-suspected-gangland-killing-on-tuesday-japanese-prime-minister-shinzo-abe.md)
 The mayor of the Japanese city of Nagasaki died early on Wednesday after being gunned down by a suspected gangster, stunning a nation where shootings are extremely rare.

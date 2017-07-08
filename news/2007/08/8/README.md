@@ -40,7 +40,7 @@ _Context: An earthquake, Indonesia, Jakarta, magnitude_
 _Context: 2007 South Asian floods, Bihar, Gujarat, India, floods_
 
 ### [ In Germany the labour court of Nuremberg prohibited the strike prepared by the ''Gewerkschaft Deutscher Lokomotivfuhrer'' (GDL), which was to be the largest in 15 years. According to the ''Deutsche Bahn'' train company, the strike was prohibited because of the heavy tribute which would have been paid by the national economy ](/news/2007/08/8/in-germany-the-labour-court-of-nuremberg-prohibited-the-strike-prepared-by-the-gewerkschaft-deutscher-lokomotivfa1-4hrer-gdl-which-was.md)
-_Context: Deutsche Bahn, German, Gewerkschaft Deutscher Lokomotivfuhrer, Nuremberg, economy of Germany, labour court, strike_
+_Context: Deutsche Bahn, Germany, Gewerkschaft Deutscher Lokomotivfuhrer, Nuremberg, economy of Germany, labour court, strike_
 
 ### [ Two people killed and several injured as a bomb hidden in a bicycle parked at a police station explodes at Jorhat, Assam, India](/news/2007/08/8/two-people-killed-and-several-injured-as-a-bomb-hidden-in-a-bicycle-parked-at-a-police-station-explodes-at-jorhat-assam-india.md)
 _Context: Assam, India, Jorhat_

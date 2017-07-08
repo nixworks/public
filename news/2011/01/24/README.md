@@ -70,7 +70,7 @@ _Context: President of Tunisia, Tunisia, Zine El Abidine Ben Ali, demonstrations
 _Context: Hezbollah, Iran, Lebanese lawmakers, Najib Mikati, Prime Minister, Saad Hariri, coup_
 
 ### [Yemen frees a female activist accused of inciting disorder after protests demanding her release. ](/news/2011/01/24/yemen-frees-a-female-activist-accused-of-inciting-disorder-after-protests-demanding-her-release.md)
-_Context: Yemen_
+_Context: Yemen's_
 
 ### [Opposition parties in Ireland are to hold crisis talks to bring down the Brian Cowen-led government after the Green Party pulled out of government yesterday; Fianna Fail no longer has a leader and it no longer has a coalition partner. ](/news/2011/01/24/opposition-parties-in-ireland-are-to-hold-crisis-talks-to-bring-down-the-brian-cowen-led-government-after-the-green-party-pulled-out-of-gove.md)
 The Irish government and opposition agree a timetable on passing the vital finance bill and dissolving parliament, with elections likely on 25 February.

@@ -31,7 +31,7 @@ As it prepared to meet with the deputy director of the United Nations nuclear wa
 _Context: India, Maldives, Male, Mohamed Nasheed, President_
 
 ### [A lawyer representing Barry Bonds appeals his obstruction of justice charge to the United States Court of Appeals for the Ninth Circuit. ](/news/2013/02/13/a-lawyer-representing-barry-bonds-appeals-his-obstruction-of-justice-charge-to-the-united-states-court-of-appeals-for-the-ninth-circuit.md)
-_Context: Barry Bonds, Ninth Circuit Appeals Court panel, obstruction of justice charges_
+_Context: Barry Bonds, United States Court of Appeals for the Ninth Circuit, obstruction of justice charges_
 
 ### [After a 12|mi|km|adj=on chase, a man was caught for shooting a woman and her stepfather near a South Carolina courthouse. ](/news/2013/02/13/after-a-12-mi-km-adj-on-chase-a-man-was-caught-for-shooting-a-woman-and-her-stepfather-near-a-south-carolina-courthouse.md)
 A man involved in a paternity dispute opened fire Wednesday in front of a South Carolina courthouse, wounding a woman and her stepfather, then led police on a 12-mile chase before he was caught, a sheriff said.

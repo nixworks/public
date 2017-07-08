@@ -25,7 +25,7 @@ _Context: Amnesty International, Darfur, genocide, refugees_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Hosts Germany fought back from 3-1 down to beat Olympic champions Australia 4-3 and retain their World Cup title in the 11. edition of the field hockey World Cup. ](/news/2006/09/17/hosts-germany-fought-back-from-3-1-down-to-beat-olympic-champions-australia-4-3-and-retain-their-world-cup-title-in-the-11-edition-of-the.md)
-_Context: Australia, German, field hockey_
+_Context: Australia, Germany, field hockey_
 
 ### [ Eva Avila wins the 4th season of Canadian Idol.](/news/2006/09/17/eva-avila-wins-the-4th-season-of-canadian-idol.md)
 _Context: Canadian Idol, Eva Avila_

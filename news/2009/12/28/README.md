@@ -46,7 +46,7 @@ _Context: Barack Obama, Hugo Chavez, Karl Marx, Mary, Venezuelan President_
 _Context: Albina, Brazil, Suriname_
 
 ### [ Seven people die in a series of avalanche incidents in Italy. ](/news/2009/12/28/seven-people-die-in-a-series-of-avalanche-incidents-in-italy.md)
-_Context: Italy, avalanche_
+_Context: Italian, avalanche_
 
 ### [ At least 10 people die and 19 others are injured when more than 100 vehicles smash into each other near Poyang Lake in Jiangxi, China. ](/news/2009/12/28/at-least-10-people-die-and-19-others-are-injured-when-more-than-100-vehicles-smash-into-each-other-near-poyang-lake-in-jiangxi-china.md)
 _Context: Jiangxi, People's Republic of China, Poyang Lake_

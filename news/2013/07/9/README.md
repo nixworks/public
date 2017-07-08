@@ -10,7 +10,7 @@ At least 17 people including women and children are killed by a roadside bomb in
 Greece secures 6.8bn euros in further funding from its creditors, but is told the pace of reform is too slow.
 
 ### [Francesco Schettino,  former captain of the ''Costa Concordia'' cruise ship, goes on trial in Italy for manslaughter and abandoning ship during the disaster on 13 January 2012. ](/news/2013/07/9/francesco-schettino-former-captain-of-the-costa-concordia-cruise-ship-goes-on-trial-in-italy-for-manslaughter-and-abandoning-ship-dur.md)
-_Context: Costa Concordia, Francesco Schettino, Italy_
+_Context: Costa Concordia, Francesco Schettino, Italian_
 
 ### [British Labour Party leader Ed Miliband says he will end the automatic affiliation fee paid to the Party by three million union members after the Unite union was accused of secretly signing up its members in order to get its favoured candidate elected in the Falkirk constituency. ](/news/2013/07/9/british-labour-party-leader-ed-miliband-says-he-will-end-the-automatic-affiliation-fee-paid-to-the-party-by-three-million-union-members-afte.md)
 _Context: Ed Miliband, Falkirk constituency, Labour, Unite union_

@@ -7,7 +7,7 @@ An inquest into the Sydney siege hears that one hostage was killed by police fir
 _Context: Afghanistan, Taliban, Taliban insurgency_
 
 ### [Philippines President Benigno Aquino III distances himself from a botched raid against a terrorist, Zulkifli Abdhir, that killed around 50 people, including police officers and Abdhir, while pledging support for a peace process with the Moro people. Supreme Court Chief Justice Maria Lourdes Sereno urges the public to continue to support the peace treaty. ](/news/2015/01/29/philippines-president-benigno-aquino-iii-distances-himself-from-a-botched-raid-against-a-terrorist-zulkifli-abdhir-that-killed-around-50-p.md)
-_Context: Benigno Aquino III, Chief Justice, Filipino Muslims, January 25 botched police operation, Maria Lourdes Sereno, Moro insurgency in the Philippines, Philippine National Police, Philippines, President of the Philippines, Supreme Court, Zulkifli Abdhir, peace deal, peace treaty_
+_Context: Benigno Aquino III, Chief Justice, Filipino Muslims, January 25 botched police operation, Maria Lourdes Sereno, Moro insurgency in the Philippines, Philippine National Police, Philippines, President of the Philippines, Supreme Court of the Philippines, Zulkifli Abdhir, peace deal, peace treaty_
 
 ### [Several attacks around Baghdad including bombings and shootings kill at least sixteen people. ](/news/2015/01/29/several-attacks-around-baghdad-including-bombings-and-shootings-kill-at-least-sixteen-people.md)
 _Context: Baghdad, Iraqi insurgency (2011-present)_
@@ -16,7 +16,7 @@ _Context: Baghdad, Iraqi insurgency (2011-present)_
 Islamic State-linked Ansar Beit al-Maqdis claims responsibility for wide-ranging attacks in Sinai, targeting military base, newspaper; army major shot dead in Rafah.
 
 ### [Shiite Houthi rebels seize a Yemeni military base south of the capital, Sana'a, where U.S. military advisers once trained Yemeni counterterrorism forces to fight Al-Qaeda in the south of the country. Forces loyal to former President Ali Abdullah Saleh had manned the captured base. ](/news/2015/01/29/shiite-houthi-rebels-seize-a-yemeni-military-base-south-of-the-capital-sana-a-where-u-s-military-advisers-once-trained-yemeni-counterterr.md)
-_Context: Houthi, Saleh, Sana'a, Shia insurgency in Yemen, Shiite, U.S., Yemen, al-Qaeda_
+_Context: Houthi, Saleh, Sana'a, Shia insurgency in Yemen, Shiite, U.S., Yemen's, al-Qaeda_
 
 ### [The Paraguayan People's Army kills a German couple who lived on a ranch near Yby Yau in northern Paraguay. ](/news/2015/01/29/the-paraguayan-people-s-army-kills-a-german-couple-who-lived-on-a-ranch-near-yby-yaao-in-northern-paraguay.md)
 _Context: German, Paraguay, Paraguayan People's Army_

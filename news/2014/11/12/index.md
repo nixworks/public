@@ -7,7 +7,7 @@ Nato says it has observed columns of Russian troops and military equipment enter
 Russia has said it will conduct regular air patrols to the Caribbean and the Gulf of Mexico, missions that were wound down after the Cold War.
 
 ### [Fighting between Houthi rebels and Ansar al-Sharia-backed Sunni tribes have left at least 33 dead in Al Bayda' Governorate. ](/news/2014/11/12/fighting-between-houthi-rebels-and-ansar-al-sharia-backed-sunni-tribes-have-left-at-least-33-dead-in-al-bayda-governorate.md)
-_Context: Al Bayda Governorate, Ansar al-Sharia, Houthi, Houthi militants, Sunni, Yemen_
+_Context: Al Bayda Governorate, Ansar al-Sharia, Houthi, Houthi militants, Sunni, Yemen's_
 
 ### [Azerbaijan shoots down an Armenian Mil Mi-24 military helicopter. ](/news/2014/11/12/azerbaijan-shoots-down-an-armenian-mil-mi-24-military-helicopter.md)
 _Context: Armenia, Azerbaijan, Mi-24, shoots down_

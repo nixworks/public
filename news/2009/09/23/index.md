@@ -43,7 +43,7 @@ A man has been shot dead in a clash between police and supporters of ousted Hond
 _Context: India, Julia Roberts, Navratri_
 
 ### [ India successfully launches seven satellites in a single mission one month after its inaugural Moon mission is aborted. Included are six smaller satellites from Germany, Switzerland and Turkey. ](/news/2009/09/23/india-successfully-launches-seven-satellites-in-a-single-mission-one-month-after-its-inaugural-moon-mission-is-aborted-included-are-six-sm.md)
-_Context: German, India, Moon, Swiss, Turkey_
+_Context: Germany, India, Moon, Swiss, Turkey_
 
 ### [ Julio Alberto Poch, a Transavia commercial airline pilot, is arrested in Spain over his alleged role in Argentina's 1976&ndash;1983 "Dirty War". ](/news/2009/09/23/julio-alberto-poch-a-transavia-commercial-airline-pilot-is-arrested-in-spain-over-his-alleged-role-in-argentina-s-1976-ndash-1983-dirty.md)
 _Context: Argentina, Dirty War, Julio Alberto Poch, Spain, Transavia_

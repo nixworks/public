@@ -13,7 +13,7 @@ _Context: carbon nanotubes, chemical bonds, chemical structure, molecule, simila
 _Context: Chile, Turkey, United Nations, pandemic H1N1/09 virus, poultry, virus_
 
 ### [ According to declassified documents released this week, a survival manual produced by Transport Canada was used by U.S. interrogators to set limits on dousing detainees with cold water as a form of water torture. ](/news/2009/08/28/according-to-declassified-documents-released-this-week-a-survival-manual-produced-by-transport-canada-was-used-by-u-s-interrogators-to-se.md)
-_Context: Transport Canada, detainee, detainees, dousing, survival manual, water torture_
+_Context: Guantanamo Bay Detention Camp, Transport Canada, detainees, dousing, survival manual, water torture_
 
 ### [ Japan's unemployment rate reaches a record high of 5.7%. ](/news/2009/08/28/japan-s-unemployment-rate-reaches-a-record-high-of-5-7.md)
 _Context: Japan, unemployment rate_

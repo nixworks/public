@@ -11,7 +11,7 @@ Hooded gunmen believed engaged in a drugs feud burst into a bar in northern Mexi
 
 ### [ 27 people were killed by a suicide car bomb in Pakistan near the Afghanistan border during a tribal meeting planning the eviction of the Taliban from the area. ](/news/2008/10/10/27-people-were-killed-by-a-suicide-car-bomb-in-pakistan-near-the-afghanistan-border-during-a-tribal-meeting-planning-the-eviction-of-the-ta.md)
 ### [ Dozens of bodies that washed ashore in Yemen are believed to be from the 130 migrants from Somalia thrown overboard by smugglers; prompting calls for action against human trafficking in the Gulf of Aden. ](/news/2008/10/10/dozens-of-bodies-that-washed-ashore-in-yemen-are-believed-to-be-from-the-130-migrants-from-somalia-thrown-overboard-by-smugglers-prompting.md)
-_Context: Gulf of Aden, Somalia, Yemen_
+_Context: Gulf of Aden, Somalia, Yemen's_
 
 ### [ An Alaskan legislative committee finds that the Governor of Alaska Sarah Palin unlawfully abused her authority in terminating the Public Safety Commissioner Walter Monegan. ](/news/2008/10/10/an-alaskan-legislative-committee-finds-that-the-governor-of-alaska-sarah-palin-unlawfully-abused-her-authority-in-terminating-the-public-sa.md)
 _Context: Alaska, Governor, Sarah Palin, Walter Monegan, legislative_
@@ -23,7 +23,7 @@ _Context: Connecticut, Connecticut Supreme Court, same-sex marriage_
 _Context: Ethiopia, Oxfam_
 
 ### [ NATO ministers reach a deal after overcoming resistance from France, Italy and Germany by agreeing that only willing countries temporarily "act in concert with the Afghans, against [drug] facilities". ](/news/2008/10/10/nato-ministers-reach-a-deal-after-overcoming-resistance-from-france-italy-and-germany-by-agreeing-that-only-willing-countries-temporarily.md)
-_Context: France, German, Italy, NATO_
+_Context: France, Germany, Italian, NATO_
 
 ### [ Nobel Prize: The Nobel peace prize is awarded to former Finnish president Martti Ahtisaari for mediation for the resolution of international conflicts  who, as a UN special envoy, guided Namibia to independence in 1990, oversaw the 2005 reconciliation between the government of Indonesia and rebels in Aceh, and mediated a peace deal in Kosovo.](/news/2008/10/10/nobel-prize-p-the-nobel-peace-prize-is-awarded-to-former-finnish-president-martti-ahtisaari-for-mediation-for-the-resolution-of-internation.md)
 _Context: Aceh, Indonesia, Kosovo, Martti Ahtisaari, Namibia, Nobel Peace Prize, Nobel Prize, UN_

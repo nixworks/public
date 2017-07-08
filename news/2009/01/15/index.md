@@ -22,7 +22,7 @@ _Context: Canada, Toronto, Ontario_
 _Context: Mars, Mars' atmosphere, NASA, geologists, methane_
 
 ### [ China's gross domestic product grew 13&nbsp;percent during 2007, overtaking Germany to become the world's third largest economy. ](/news/2009/01/15/china-s-gross-domestic-product-grew-13-nbsp-percent-during-2007-overtaking-germany-to-become-the-world-s-third-largest-economy.md)
-_Context: GDP, German, People's Republic of China, sixth-largest economy_
+_Context: GDP, Germany, People's Republic of China, sixth-largest economy_
 
 ### [ 2008-2009 Israel-Gaza conflict: Hamas 'in principle' accepts the United Nations' call for an immediate ceasefire in the Gaza Strip. ](/news/2009/01/15/2008a2009-israelagaza-conflict-p-hamas-in-principle-accepts-the-united-nations-call-for-an-immediate-ceasefire-in-the-gaza-strip.md)
 _Context: Gaza Strip, Hamas, United Nations, call, ceasefire, fire_

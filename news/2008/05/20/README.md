@@ -13,7 +13,7 @@ _Context: Ban Ki-moon, Cyclone Nargis, Secretary General_
 The argument is of a piece with Mrs. Clinton’s increasingly populist image, but it is also a debatable claim.
 
 ### [ A 24-hour strike by employees of the National Railway Company of Belgium ends rail services in Belgium and to France, Germany and the Netherlands. ](/news/2008/05/20/a-24-hour-strike-by-employees-of-the-national-railway-company-of-belgium-ends-rail-services-in-belgium-and-to-france-germany-and-the-nethe.md)
-_Context: Belgian, Dutch, France, German, National Railway Company of Belgium, strike_
+_Context: Belgian, Dutch, France, Germany, National Railway Company of Belgium, strike_
 
 ### [ Ma Ying-jeou is sworn in as the President of the Republic of China (Taiwan) with Liu Chao-shiuan as his Premier. ](/news/2008/05/20/ma-ying-jeou-is-sworn-in-as-the-president-of-the-republic-of-china-taiwan-with-liu-chao-shiuan-as-his-premier.md)
 _Context: Liu Chao-shiuan, Ma Ying-jeou, Premier of Taiwan, President of Taiwan, Republic of China (Taiwan)_

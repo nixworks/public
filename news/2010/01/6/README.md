@@ -13,7 +13,7 @@ _Context: Egypt, Gaza Strip, Palestinian, Viva Palestina_
 The wife of Northern Ireland First Minister Peter Robinson tried to kill herself after confessing to her husband that she had an affair.
 
 ### [China becomes the largest exporting country, pushing Germany from first place. ](/news/2010/01/6/china-becomes-the-largest-exporting-country-pushing-germany-from-first-place.md)
-_Context: German, People's Republic of China, top export market_
+_Context: Germany, People's Republic of China, top export market_
 
 ### [China's tourism revenue hits USD 185 billion in 2009. ](/news/2010/01/6/china-s-tourism-revenue-hits-usd-185-billion-in-2009.md)
 _Context: US$, tourism_
@@ -37,7 +37,7 @@ _Context: Abdellah Baali, Algeria, Dora Akunyili, Nigeria, United States_
 _Context: U.S., visa-free travel_
 
 ### [Yemen arrests three suspected Al-Qaeda members, including one leader, northwest of the capital Sana'a. ](/news/2010/01/6/yemen-arrests-three-suspected-al-qaeda-members-including-one-leader-northwest-of-the-capital-sana-a.md)
-_Context: Sana'a, Yemen, al-Qaeda_
+_Context: Sana'a, Yemen's, al-Qaeda_
 
 ### [50-year-old Chinese journalist Li Junqi is imprisoned for 16 years after accepting bribes for his part in a mass three-month cover-up of a coal mine disaster in Hebei in which 35 people, including a rescue worker, were killed prior to the 2008 Summer Olympics in Beijing. ](/news/2010/01/6/50-year-old-chinese-journalist-li-junqi-is-imprisoned-for-16-years-after-accepting-bribes-for-his-part-in-a-mass-three-month-cover-up-of-a-c.md)
 _Context: Beijing, Beijing Olympiad, Hebei, Li Junqi, bribes_

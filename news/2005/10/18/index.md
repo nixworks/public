@@ -4,7 +4,7 @@
 _Context: Conservative Party, Kenneth Clarke, leadership election_
 
 ### [ Malawi food crisis: United Nations Children's Fund (UNICEF) increases its appeal for Malawi to USD13 million, as the humanitarian crisis worsen with an estimated 46,000 severely malnourished children. ](/news/2005/10/18/malawi-food-crisis-united-nations-children-s-fund-unicef-increases-its-appeal-for-malawi-to-usd13-million-as-the-humanitarian-crisis-wo.md)
-_Context: $, Malawi, United Nations Children's Fund, malnutrition, serious food shortages_
+_Context: Malawi, USD, United Nations Children's Fund, malnutrition, serious food shortages_
 
 ### [ Conflict in Iraq: Two U.S. Marines and around four Iraqi insurgents are killed in Western Iraq. ](/news/2005/10/18/conflict-in-iraq-two-u-s-marines-and-around-four-iraqi-insurgents-are-killed-in-western-iraq.md)
 _Context: Conflict in Iraq, Iraq, Iraqi insurgency, U.S. Marine_

@@ -37,7 +37,7 @@ _Context: New York City, United Nations Headquarters, phosgene_
 _Context: Al-Aqsa Martyrs' Brigades, Fatah, Gaza Strip, Israel, Sderot, rocket attacks_
 
 ### [ Scores of Italians are arrested in a crackdown on the 'ndrangheta organised crime clans active in Calabria. ](/news/2007/08/30/scores-of-italians-are-arrested-in-a-crackdown-on-the-ndrangheta-organised-crime-clans-active-in-calabria.md)
-_Context: 'Ndrangheta, Calabria, Italy_
+_Context: 'Ndrangheta, Calabria, Italian_
 
 ### [ Cao Gangchuan, the Defense Minister of People's Republic of China and Masahiko Komura, Defense Minister of Japan. meet and agree to strengthen exchanges. ](/news/2007/08/30/cao-gangchuan-the-defense-minister-of-people-s-republic-of-china-and-masahiko-komura-defense-minister-of-japan-meet-and-agree-to-strengt.md)
 _Context: Cao Gangchuan, Japan, Masahiko Komura, People's Republic of China_

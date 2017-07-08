@@ -13,7 +13,7 @@ _Context: Madagascar_
 _Context: Cape Verde, MV ''Arctic Sea''_
 
 ### [ A Canadian court orders the government to repatriate Omar Khadr, the sole remaining Western citizen held in Guantanamo Bay detention camp. ](/news/2009/08/14/a-canadian-court-orders-the-government-to-repatriate-omar-khadr-the-sole-remaining-western-citizen-held-in-guantanamo-bay-detention-camp.md)
-_Context: Canada, Omar Khadr, detainee_
+_Context: Canada, Guantanamo Bay Detention Camp, Omar Khadr_
 
 ### [ At least 13 people have died after a bus-train collision in Iasi County, Romania. ](/news/2009/08/14/at-least-13-people-have-died-after-a-bus-train-collision-in-iaai-county-romania.md)
 Other two people of those injured on Friday in the train-hit van in Iasi, north-eastern Romania, died on the way to the hospital, increasing the death toll to thirteen, including one infant, deputy secretary of state...

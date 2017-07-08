@@ -1,7 +1,7 @@
 ## [2006-12-18](/news/2006/12/18/index.md)
 
 ### [ Uzbekistan nearly doubles the price of natural gas it sells to Kyrgyzstan from USD $55 to $100 (51) per 1,000 cubic meters of gas amid growing tension between the two nations over alleged spying. ](/news/2006/12/18/uzbekistan-nearly-doubles-the-price-of-natural-gas-it-sells-to-kyrgyzstan-from-usd-55-to-100-ps51-per-1-000-cubic-meters-of-gas-amid-gro.md)
-_Context: $, Kyrgyzstan, Uzbekistan, natural gas_
+_Context: Kyrgyzstan, USD, Uzbekistan, natural gas_
 
 ### [ Six-party talks resume on North Korea's nuclear weapons program with North Korea and the United States being "poles apart" in their opening positions. ](/news/2006/12/18/six-party-talks-resume-on-north-korea-s-nuclear-weapons-program-with-north-korea-and-the-united-states-being-poles-apart-in-their-opening.md)
 _Context: North Korea, United States, six-party talks_

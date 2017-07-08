@@ -7,7 +7,7 @@ As shelling in the Damascus suburbs worsened, the United Nations warned that it 
 _Context: Belfast City Council, Belfast City Hall, Belfast City Hall flag protests, Northern Ireland, Union Flag_
 
 ### [In a setback to the movement toward banking union in the EU, Germany's finance minister Wolfgang Schauble says he will not allow a unitary system of supervision without changes in the underlying treaties. ](/news/2012/12/4/in-a-setback-to-the-movement-toward-banking-union-in-the-eu-germany-s-finance-minister-wolfgang-scha-uble-says-he-will-not-allow-a-unitary.md)
-_Context: European Union, German, Wolfgang Schauble, finance minister_
+_Context: European Union, Germany, Wolfgang Schauble, finance minister_
 
 ### [Typhoon Bopha makes landfall on the Philippines island of Mindanao with reports of floods and landslides. Authorities confirm at least 81 deaths amid widespread property damage. ](/news/2012/12/4/typhoon-bopha-makes-landfall-on-the-philippines-island-of-mindanao-with-reports-of-floods-and-landslides-authorities-confirm-at-least-81-de.md)
 Typhoon Bopha has killed at least 52 people in the Philippines.

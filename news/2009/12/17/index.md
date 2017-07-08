@@ -1,7 +1,7 @@
 ## [2009-12-17](/news/2009/12/17/index.md)
 
 ### [ Europe is hit by heavy snowfall leading to disruptions in France, Germany, Poland and Spain. ](/news/2009/12/17/europe-is-hit-by-heavy-snowfall-leading-to-disruptions-in-france-germany-poland-and-spain.md)
-_Context: Europe, France, German, Poland, Spain_
+_Context: Europe, France, Germany, Poland, Spain_
 
 ### [ The Panamanian livestock transporter MV ''Danny F II'' sinks off the coast of Lebanon while travelling from Uruguay to Syria with 83 people on board. ](/news/2009/12/17/the-panamanian-livestock-transporter-mv-danny-f-ii-sinks-off-the-coast-of-lebanon-while-travelling-from-uruguay-to-syria-with-83-people.md)
 _Context: Lebanon, MV ''Danny F II'', Panama, Syria, Uruguay_
@@ -25,7 +25,7 @@ _Context: Iraq, MQ-1 Predator_
 _Context: Asif Ali Zardari, Pakistan, Supreme Court, amnesty protecting him_
 
 ### [ Yemen authorities say 34 suspected Al-Qaeda militants have been killed and 17 captured in raids at hideouts and training camps in the west of the country. ](/news/2009/12/17/yemen-authorities-say-34-suspected-al-qaeda-militants-have-been-killed-and-17-captured-in-raids-at-hideouts-and-training-camps-in-the-west.md)
-_Context: Yemen, al-Qaeda_
+_Context: Yemen's, al-Qaeda_
 
 ### [ Two of Colombia's main rebel groups, the Revolutionary Armed Forces of Colombia (FARC) and the National Liberation Army (ELN), announce they are to unite. ](/news/2009/12/17/two-of-colombia-s-main-rebel-groups-the-revolutionary-armed-forces-of-colombia-farc-and-the-national-liberation-army-eln-announce-the.md)
 _Context: Colombia, National Liberation Army, Revolutionary Armed Forces of Colombia_

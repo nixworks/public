@@ -22,7 +22,7 @@ _Context: Cuba, Fidel Castro, Juventud Rebelde_
 _Context: Abdullah Abdullah, Afghanistan, Afghanistan President, Hamid Karzai, presidential election_
 
 ### [ Yemeni troops claim to have killed more than 100 Shia rebels in the past two weeks, including two leaders, but the rebels deny their leaders, Mohsen Saleh Gawd and Salah Jorman, are dead and no independent confirmation is made available. ](/news/2009/08/23/yemeni-troops-claim-to-have-killed-more-than-100-shia-rebels-in-the-past-two-weeks-including-two-leaders-but-the-rebels-deny-their-leader.md)
-_Context: Mohsen Saleh Gawd, Salah Jorman, Shia, Yemen_
+_Context: Mohsen Saleh Gawd, Salah Jorman, Shia, Yemen's_
 
 ### [ A leak at an offshore oil rig that caused a large oil spill off the coast of Australia "could take weeks" to be plugged. ](/news/2009/08/23/a-leak-at-an-offshore-oil-rig-that-caused-a-large-oil-spill-off-the-coast-of-australia-could-take-weeks-to-be-plugged.md)
 _Context: Australia, offshore oil platform, oil spill_

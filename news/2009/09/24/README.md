@@ -37,7 +37,7 @@ _Context: Australia, Sydney, worst dust storm in seven decades_
 The largest hoard of Anglo-Saxon gold ever found comprises more than 1,500 items. Here are some of the collection&#039;s highlights:
 
 ### [ The ''News of the World'' and ''Daily Mail'' newspapers apologise to Fabio Capello, the manager of England's national football team, after printing pictures of him and his wife Laura resting in mud-baths on an Italian beach. ](/news/2009/09/24/the-news-of-the-world-and-daily-mail-newspapers-apologise-to-fabio-capello-the-manager-of-england-s-national-football-team-after.md)
-_Context: Daily Mail, England, England, Fabio Capello, Italy, News of the World, mud-bath_
+_Context: Daily Mail, England, England, Fabio Capello, Italian, News of the World, mud-bath_
 
 ### [ South Korea agrees to develop 1,000 km<sup>2</sup> (386 sq miles) of farmland in Tanzania. ](/news/2009/09/24/south-korea-agrees-to-develop-1-000-km2-386-sq-miles-of-farmland-in-tanzania.md)
 _Context: South Korea, Tanzania_

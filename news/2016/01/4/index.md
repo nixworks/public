@@ -31,7 +31,7 @@ Denmark tightens its border controls with Germany, just hours after Sweden impos
 _Context: Barack Obama, United States President, background check, firearms_
 
 ### [German police begin investigations into a gang of up to 1,000 men of North African and Arab appearance who committed sexual assaults on women in Cologne's main square on New Year's Eve. ](/news/2016/01/4/german-police-begin-investigations-into-a-gang-of-up-to-1-000-men-of-north-african-and-arab-appearance-who-committed-sexual-assaults-on-wome.md)
-_Context: Arab, Cologne, German, New Year's Eve sexual assaults in Germany, North African_
+_Context: Arab, Cologne, Germany, New Year's Eve sexual assaults in Germany, North African_
 
 ### [Casten Nemra is elected President of the Marshall Islands by the Nitijela. Nemra narrowly defeated Alvin Jacklick by a 17-16 vote. ](/news/2016/01/4/casten-nemra-is-elected-president-of-the-marshall-islands-by-the-nitijela-nemra-narrowly-defeated-alvin-jacklick-by-a-17-16-vote.md)
 The Marshall Islands parliament elected its youngest President, and only the second commoner to hold the head of state position, Monday morning in Majuro.

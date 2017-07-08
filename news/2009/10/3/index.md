@@ -7,13 +7,13 @@ Opposition campaigners concede defeat as results of referendum start to come in.
 A giant girl figure is seen during the second day of a street theater performance in Berlin, October 2, 2009. The four-day street performance is based on a fair
 
 ### [ Presidency of the European Council: Tony Blair's former chief-of-staff, Jonathan Powell, has been touring European capital cities, including Brussels, Paris and Prague, in an undercover move to make him the first President of the European Council. Blair is supported by French President Nicolas Sarkozy and German Chancellor Angela Merkel. ](/news/2009/10/3/presidency-of-the-european-council-p-tony-blair-s-former-chief-of-staff-jonathan-powell-has-been-touring-european-capital-cities-includi.md)
-_Context: Angela Merkel, Brussels, Europe, France, German, German Chancellor, Jonathan Powell, Nicolas Sarkozy, Paris, Prague, President of France, President of the European Council, Tony Blair_
+_Context: Angela Merkel, Brussels, Europe, France, German Chancellor, Germany, Jonathan Powell, Nicolas Sarkozy, Paris, Prague, President of France, President of the European Council, Tony Blair_
 
 ### [ Typhoon Parma hits the Philippines, with early reports indicating at least four deaths as trees are uprooted and roofs torn off houses. ](/news/2009/10/3/typhoon-parma-hits-the-philippines-with-early-reports-indicating-at-least-four-deaths-as-trees-are-uprooted-and-roofs-torn-off-houses.md)
 A powerful typhoon slammed into the northeastern Philippines on Saturday, killing four people, tearing roofs off houses and uprooting trees, but damage and flooding was much less than expected.
 
 ### [ The death toll in Italy rises to 21 following sudden extreme spells of rain and mud showers in Messina and other parts of Sicily as the injured total reaches at least eighty. ](/news/2009/10/3/the-death-toll-in-italy-rises-to-21-following-sudden-extreme-spells-of-rain-and-mud-showers-in-messina-and-other-parts-of-sicily-as-the-inj.md)
-_Context: Italy, Messina, Sicily, sudden extreme spells of rain and mud showers_
+_Context: Italian, Messina, Sicily, sudden extreme spells of rain and mud showers_
 
 ### [ Burmese National League for Democracy leader Aung San Suu Kyi meets for talks with the military government for the first time since 2008. ](/news/2009/10/3/burmese-national-league-for-democracy-leader-aung-san-suu-kyi-meets-for-talks-with-the-military-government-for-the-first-time-since-2008.md)
 _Context: Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council_

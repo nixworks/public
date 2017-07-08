@@ -43,7 +43,7 @@ _Context: Mogadishu, Somalia, heavy fighting_
 _Context: Barack Obama, Japan, Prime Minister, Taro Aso, United States, United States President, protectionism, stimulating economic demand_
 
 ### [ Italian Prime Minister Silvio Berlusconi and French President Nicolas Sarkozy agree to cooperate in reviving nuclear power in Italy. ](/news/2009/02/24/italian-prime-minister-silvio-berlusconi-and-french-president-nicolas-sarkozy-agree-to-cooperate-in-reviving-nuclear-power-in-italy.md)
-_Context: France, Italian Prime Minister, Italy, Nicolas Sarkozy, President of France, Silvio Berlusconi, nuclear power_
+_Context: France, Italian, Italian Prime Minister, Nicolas Sarkozy, President of France, Silvio Berlusconi, nuclear power_
 
 ### [ Teachers in Zimbabwe will end their strike action upon receiving government aid.  ](/news/2009/02/24/teachers-in-zimbabwe-will-end-their-strike-action-upon-receiving-government-aid.md)
 _Context: Politics of Zimbabwe, Zimbabwe, strike, teacher_

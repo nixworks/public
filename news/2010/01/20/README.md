@@ -28,7 +28,7 @@ _Context: Aung San Suu Kyi, Burma, house arrest_
 _Context: Le Cong Dinh, Vietnam, human rights, prison, subversion_
 
 ### [Microsoft issues a patch for a serious security hole in Internet Explorer 6 after France and Germany advised their citizens to change browsers. ](/news/2010/01/20/microsoft-issues-a-patch-for-a-serious-security-hole-in-internet-explorer-6-after-france-and-germany-advised-their-citizens-to-change-browse.md)
-_Context: France, German, Internet Explorer 6, Microsoft, patch, security hole, web browser_
+_Context: France, Germany, Internet Explorer 6, Microsoft, patch, security hole, web browser_
 
 ### [The 2D version of the film ''Avatar'' is pulled from theaters in China.](/news/2010/01/20/the-2d-version-of-the-film-avatar-is-pulled-from-theaters-in-china.md)
 A controversy over the withdrawal of Avatar from 2D cinema halls has forced the powerful State Administration of Radio, Film and Television in China to come out saying it is not involved in any such move.

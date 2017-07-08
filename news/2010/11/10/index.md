@@ -13,7 +13,7 @@ _Context: Baghdad_
 _Context: Army of Islam, Egypt, Gaza, Israel, Muhammad Jamal al-Namnam, Time, al-Qaeda_
 
 ### [Italian film producer Dino De Laurentiis (''Serpico'', ''Death Wish'') dies in Los Angeles, California ending a movie career that spanned seven decades in both the United States and Italy. ](/news/2010/11/10/italian-film-producer-dino-de-laurentiis-serpico-death-wish-dies-in-los-angeles-california-ending-a-movie-career-that-spanned-se.md)
-_Context: California, Death Wish, Dino De Laurentiis, Italy, Los Angeles, California, Serpico, United States, producing films_
+_Context: California, Death Wish, Dino De Laurentiis, Italian, Los Angeles, California, Serpico, United States, producing films_
 
 ### [3D Express Coach to be put into trial in Beijing. ](/news/2010/11/10/3d-express-coach-to-be-put-into-trial-in-beijing.md)
 _Context: 3D Express Coach, Beijing_

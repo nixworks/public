@@ -25,7 +25,7 @@ _Context: Iran, New York, United Nations General Assembly, United States of Amer
 Two groups in eastern city of Derna announce they will lay down arms, as Tripoli bans all non-state-sanctioned militias.
 
 ### [Police in Italy arrest a man at Turin Caselle Airport on charges of impersonating a pilot. ](/news/2012/09/23/police-in-italy-arrest-a-man-at-turin-caselle-airport-on-charges-of-impersonating-a-pilot.md)
-_Context: Italy, Turin Caselle Airport, pilot_
+_Context: Italian, Turin Caselle Airport, pilot_
 
 ### [Parliamentary elections are held in Belarus. The opposition sees the vote as undemocratic and boycotts it. ](/news/2012/09/23/parliamentary-elections-are-held-in-belarus-the-opposition-sees-the-vote-as-undemocratic-and-boycotts-it.md)
 _Context: Belarus, parliamentary elections_

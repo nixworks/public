@@ -4,7 +4,7 @@
 _Context: Abu Sayyaf, Jemaah Islamiyah, Malaysian, Philippines, Umbra Jumdail, Zulkifli bin Hir_
 
 ### [Six kidnapped aid workers are released in Yemen. ](/news/2012/02/2/six-kidnapped-aid-workers-are-released-in-yemen.md)
-_Context: Yemen_
+_Context: Yemen's_
 
 ### [The Mexican Army sends 4,000 soldiers to Michoacn state as a result of recent violence. ](/news/2012/02/2/the-mexican-army-sends-4-000-soldiers-to-michoacan-state-as-a-result-of-recent-violence.md)
 _Context: Mexican Army, Michoacn_

@@ -7,7 +7,7 @@ The notoriously congested London airport has opened a fifth terminal, at a cost 
 _Context: Colombia, Colombian government, Ivn Ros, Juan Manuel Santos, Minister of National Defence, Revolutionary Armed Forces of Colombia, United States dollars_
 
 ### [ Muhammed Rahim, an al-Qaeda member who helped Osama bin Laden escape from Tora Bora, Afghanistan in 2001, is taken to the Guantanamo Bay detention camp. ](/news/2008/03/14/muhammed-rahim-an-al-qaeda-member-who-helped-osama-bin-laden-escape-from-tora-bora-afghanistan-in-2001-is-taken-to-the-guantanamo-bay-de.md)
-_Context: Afghanistan, Muhammed Rahim, Osama bin Laden, Tora Bora, al-Qaeda, detainee_
+_Context: Afghanistan, Guantanamo Bay Detention Camp, Muhammed Rahim, Osama bin Laden, Tora Bora, al-Qaeda_
 
 ### [ After a summit in Brussels, European Union leaders agree to a 20% reduction in greenhouse gases by 2020. ](/news/2008/03/14/after-a-summit-in-brussels-european-union-leaders-agree-to-a-20-reduction-in-greenhouse-gases-by-2020.md)
 _Context: Brussels, European Union, greenhouse gas_

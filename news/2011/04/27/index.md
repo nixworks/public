@@ -10,7 +10,7 @@ A pipeline taking gas from Egypt to Israel and Jordan explodes after an attack b
 Troops from Thailand and Cambodia exchange fire again along their disputed border, as the death toll from six days of conflict rises to 14.
 
 ### [BP discovers a German naval mine from World War II near pipelines in the North Sea near Peterhead, Scotland with removal of the bomb likely to lead to the temporary closure of 16 oil fields and a consequent rise in the price of oil. ](/news/2011/04/27/bp-discovers-a-german-naval-mine-from-world-war-ii-near-pipelines-in-the-north-sea-near-peterhead-scotland-with-removal-of-the-bomb-likely.md)
-_Context: BP, German, North Sea, Peterhead, Scotland, World War II, naval mine_
+_Context: BP, Germany, North Sea, Peterhead, Scotland, World War II, naval mine_
 
 ### [Ivory Coast militia leader Ibrahim Coulibaly is killed in fighting with the forces of new President Alassane Ouattara. ](/news/2011/04/27/ivory-coast-militia-leader-ibrahim-coulibaly-is-killed-in-fighting-with-the-forces-of-new-president-alassane-ouattara.md)
 Ibrahim Coulibaly, an Ivory Coast militia leader who has been behind several coup attempts in the past decade, is killed by forces loyal to new President Alassane Ouattara.
@@ -64,7 +64,7 @@ _Context: Central Tibetan Administration, Lobsang Sangay, Prime Minister of the,
 _Context: People Action Party, Singapore, election_
 
 ### [In response to persistent accusations by potential Republican primary candidate Donald Trump and others, President of the United States Barack Obama releases his long-form birth certificate, certifying his birth in the state of Hawaii. ](/news/2011/04/27/in-response-to-persistent-accusations-by-potential-republican-primary-candidate-donald-trump-and-others-president-of-the-united-states-bara.md)
-_Context: Barack Obama, Barack Obama citizenship conspiracy theories, Donald Trump, Hawaii, United States President, birth certificate, nomination_
+_Context: Barack Obama, Barack Obama citizenship conspiracy theories, Donald Trump's, Hawaii, United States President, birth certificate, nomination_
 
 ### [Governor Brian Sandoval of Nevada appoints US Congressman Dean Heller to replace Senator John Ensign. ](/news/2011/04/27/governor-brian-sandoval-of-nevada-appoints-us-congressman-dean-heller-to-replace-senator-john-ensign.md)
 Republican Congressman Dean Heller is appointed to replace a Nevada senator who is resigning over an inquiry into his affair with an aide.

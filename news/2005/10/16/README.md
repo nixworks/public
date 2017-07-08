@@ -16,7 +16,7 @@ _Context: China, Chinese manned spacecraft, Inner Mongolia, Shenzhou 6_
 _Context: Junichiro Koizumi, World War II, Yasukuni Shrine_
 
 ### [ More than 4 million people vote in Italy for the primaries of the center left to elect the person that should represent the main antagonist to the current Prime Minister Silvio Berlusconi. (La Repubblica)](/news/2005/10/16/more-than-4-million-people-vote-in-italy-for-the-primaries-of-the-center-left-to-elect-the-person-that-should-represent-the-main-antagonist.md)
-_Context: Italy, Prime Minister, Silvio Berlusconi_
+_Context: Italian, Prime Minister, Silvio Berlusconi_
 
 ## [Previous Day...](/news/2005/10/15/index.md)
 

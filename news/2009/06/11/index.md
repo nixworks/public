@@ -22,13 +22,13 @@ Two garda forensic specialists will be assisting in the identification of bodies
 _Context: 1968 Hong Kong flu, H1N1, World Health Organization, current outbreak_
 
 ### [ Italian students protest Libyan leader Muammar al-Gaddafi's visit to the country. ](/news/2009/06/11/italian-students-protest-libyan-leader-muammar-al-gaddafi-s-visit-to-the-country.md)
-_Context: Italy, Libya, Muammar al-Gaddafi_
+_Context: Italian, Libya, Muammar al-Gaddafi_
 
 ### [ RTE, Ireland's public service broadcaster, denies it is facing bankruptcy. ](/news/2009/06/11/rta-ireland-s-public-service-broadcaster-denies-it-is-facing-bankruptcy.md)
 RTÉ Director-General Cathal Goan has told an Oireachtas Committee that the national broadcaster is not facing bankruptcy.
 
 ### [ Four Chinese Uighurs from the Guantanamo Bay detention camp are resettled in Bermuda. ](/news/2009/06/11/four-chinese-uighurs-from-the-guantanamo-bay-detention-camp-are-resettled-in-bermuda.md)
-_Context: Bermuda, China, Uyghur, detainee_
+_Context: Bermuda, China, Guantanamo Bay Detention Camp, Uyghur_
 
 ### [ Campaigning in Iran's presidential election ends after three weeks of mass rallies and political rhetoric. ](/news/2009/06/11/campaigning-in-iran-s-presidential-election-ends-after-three-weeks-of-mass-rallies-and-political-rhetoric.md)
 _Context: Iran, re-election_
@@ -88,7 +88,7 @@ _Context: Aung San Suu Kyi, General Secretary, National League for Democracy, tr
 _Context: India, Kashmir_
 
 ### [ Two Japanese citizens are detained in Italy after allegedly attempting to take $134 billion worth of U.S. bonds over the border into Switzerland starting the Chiasso financial smuggling case. ](/news/2009/06/11/two-japanese-citizens-are-detained-in-italy-after-allegedly-attempting-to-take-134-billion-worth-of-u-s-bonds-over-the-border-into-switze.md)
-_Context: Chiasso financial smuggling case, Italy, Japan, Swiss, bond_
+_Context: Chiasso financial smuggling case, Italian, Japan, Swiss, bond_
 
 ## [Previous Day...](/news/2009/06/10/index.md)
 

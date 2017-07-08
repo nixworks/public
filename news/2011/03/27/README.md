@@ -25,7 +25,7 @@ _Context: North Korea, South Korea_
 _Context: Sian O'Callaghan, Swindon_
 
 ### [Winfried Kretschmann is set to be the first Green German state premier after the party success in elections in Baden-Wrttemberg. ](/news/2011/03/27/winfried-kretschmann-is-set-to-be-the-first-green-german-state-premier-after-the-party-success-in-elections-in-baden-wurttemberg.md)
-_Context: Baden-Wrttemberg, German, Greens, Winfried Kretschmann, state, success in elections_
+_Context: Baden-Wrttemberg, Germany, Greens, Winfried Kretschmann, state, success in elections_
 
 ## [Previous Day...](/news/2011/03/26/index.md)
 

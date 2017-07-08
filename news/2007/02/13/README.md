@@ -7,7 +7,7 @@ _Context: LGV Est, TGV train, land speed record for railed vehicles_
 _Context: Baghdad, Iraq War, car bomb, suicide bombing_
 
 ### [ Dutch oil-trading company Trafigura agrees to pay the Cte d'Ivoire government $198 million to clean up a 2006 toxic waste spill which led to the deaths of 10 people. ](/news/2007/02/13/dutch-oil-trading-company-trafigura-agrees-to-pay-the-cote-d-ivoire-government-198-million-to-clean-up-a-2006-toxic-waste-spill-which-led.md)
-_Context: $, 2006 toxic waste spill, Cte d'Ivoire, Netherlands, Trafigura, government, oil_
+_Context: 2006 toxic waste spill, Cte d'Ivoire, Netherlands, Trafigura, USD, government, oil_
 
 ### [ Iranian President Mahmoud Ahmadinejad says his administration is open to negotiations regarding its nuclear program. ](/news/2007/02/13/iranian-president-mahmoud-ahmadinejad-says-his-administration-is-open-to-negotiations-regarding-its-nuclear-program.md)
 _Context: Iran, Iranian government, Mahmoud Ahmadinejad, President, nuclear scientist_
@@ -19,7 +19,7 @@ _Context: 2008, Massachusetts governor, Mitt Romney, R, United States President_
 _Context: Louisiana, New Orleans, tornado_
 
 ### [ A small business jet heading to Berlin, Germany crashes during take-off at Vnukovo airport in Moscow, Russia. ](/news/2007/02/13/a-small-business-jet-heading-to-berlin-germany-crashes-during-take-off-at-vnukovo-airport-in-moscow-russia.md)
-_Context: Berlin, German, Moscow, Russia, Vnukovo airport_
+_Context: Berlin, Germany, Moscow, Russia, Vnukovo airport_
 
 ### [ Ma Ying-jeou, the party chairman of the Kuomintang, resigns after being indicted by the Taiwan High Prosecutors Office on charges of embezzlement during his tenure as the mayor of Taipei. ](/news/2007/02/13/ma-ying-jeou-the-party-chairman-of-the-kuomintang-resigns-after-being-indicted-by-the-taiwan-high-prosecutors-office-on-charges-of-embezz.md)
 Chinese Nationalist Party (KMT) chief Ma Ying-jeou (馬英九) stepped down

@@ -1,7 +1,7 @@
 ## [2007-11-18](/news/2007/11/18/index.md)
 
 ### [ Silvio Berlusconi, Italy's former Prime Minister, announces he will dissolve the Forza Italia party and found a new one called Freedom People's Party. ](/news/2007/11/18/silvio-berlusconi-italy-s-former-prime-minister-announces-he-will-dissolve-the-forza-italia-party-and-found-a-new-one-called-freedom-peop.md)
-_Context: Forza Italia, Freedom People's Party, Italian Prime Minister, Italy, Silvio Berlusconi_
+_Context: Forza Italia, Freedom People's Party, Italian, Italian Prime Minister, Silvio Berlusconi_
 
 ### [ Japan resumes whaling of humpbacks for the first time in 40 years. Greenpeace and other environmentalist groups condemn the decision. ](/news/2007/11/18/japan-resumes-whaling-of-humpbacks-for-the-first-time-in-40-years-greenpeace-and-other-environmentalist-groups-condemn-the-decision.md)
 _Context: Greenpeace India's, Japan, environmentalist, humpbacks, hunt_

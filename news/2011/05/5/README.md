@@ -55,7 +55,7 @@ A 97-year-old Hungarian, Sandor Kepiro, goes on trial in Budapest accused of mas
 A man accused of killing Jo Yeates, whose body was found near Bristol on Christmas Day, admits her manslaughter but denies murder.
 
 ### [Calisto Tanzi, the founder of Italian group Parmalat, is arrested on tax charges. ](/news/2011/05/5/calisto-tanzi-the-founder-of-italian-group-parmalat-is-arrested-on-tax-charges.md)
-_Context: Calisto Tanzi, Italy, Parmalat_
+_Context: Calisto Tanzi, Italian, Parmalat_
 
 ### [Italian police seize assets worth around $1.38 billion from the Polverino mafia clan in the Naples region, and arrest 39 alleged clan members, including two who were local elections candidates from Prime Minister Silvio Berlusconi's People of Freedom party. ](/news/2011/05/5/italian-police-seize-assets-worth-around-1-38-billion-from-the-polverino-mafia-clan-in-the-naples-region-and-arrest-39-alleged-clan-member.md)
 _Context: Camorra, Italian Prime Minister, Naples, People of Freedom party, Silvio Berlusconi, US$_

@@ -4,7 +4,7 @@
 _Context: Air Force, T-38C_
 
 ### [ Sudanese cameraman Sami Mohy El Din Muhammed Al Hajj is released from the Guantanamo Bay detention camp after more than six years in captivity. ](/news/2008/05/1/sudanese-cameraman-sami-mohy-el-din-muhammed-al-hajj-is-released-from-the-guantanamo-bay-detention-camp-after-more-than-six-years-in-captiv.md)
-_Context: Sami Mohy El Din Muhammed Al Hajj, Sudan, cameraman, detainee_
+_Context: Guantanamo Bay Detention Camp, Sami Mohy El Din Muhammed Al Hajj, Sudan, cameraman_
 
 ### [ The President of the United States George W. Bush authorises tougher sanctions on Myanmar including a freeze on assets held by Myanmar state owned companies held in the United States. ](/news/2008/05/1/the-president-of-the-united-states-george-w-bush-authorises-tougher-sanctions-on-myanmar-including-a-freeze-on-assets-held-by-myanmar-stat.md)
 U.S. President George W. Bush on Thursday said a vote in Myanmar this month would not be &quot;free, fair or credible&quot; and imposed new sanctions on state-owned companies to put pressure on the military junta.

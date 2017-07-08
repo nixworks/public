@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 UN human rights chief calls for investigation into weekend crackdown as protesters take to the streets for a fifth day.
 
 ### [Journalists in Yemen condemn the restrictions on their media coverage of the 2011 Yemeni protests. ](/news/2011/03/22/journalists-in-yemen-condemn-the-restrictions-on-their-media-coverage-of-the-2011-yemeni-protests.md)
-_Context: 2011 Yemeni protests, Yemen_
+_Context: 2011 Yemeni protests, Yemen's_
 
 ### [Eight Palestinians are killed and dozens more injured from Israeli mortar and tank attacks on Gaza City.](/news/2011/03/22/eight-palestinians-are-killed-and-dozens-more-injured-from-israeli-mortar-and-tank-attacks-on-gaza-city.md)
 AT LEAST eight Palestinians were killed in Israeli attacks in Gaza yesterday in the most serious escalation since the Israeli&hellip;
@@ -28,7 +28,7 @@ Sony said on Tuesday shortages of parts and materials would force it to reduce o
 _Context: Chinese, Chinese Foreign Ministry spokesperson, Gmail, Google_
 
 ### [Germany's Federal Court of Justice rules that Deutsche Bank must compensate a customer, Ille Papier Service, for selling it an interest rate swap product without adequate disclosures. ](/news/2011/03/22/germany-s-federal-court-of-justice-rules-that-deutsche-bank-must-compensate-a-customer-ille-papier-service-for-selling-it-an-interest-rate.md)
-_Context: Deutsche Bank, Federal Court of Justice, German, Ille Papier Service, interest rate swap_
+_Context: Deutsche Bank, Federal Court of Justice, Germany, Ille Papier Service, interest rate swap_
 
 ### [The Mozilla Foundation releases Firefox 4. ](/news/2011/03/22/the-mozilla-foundation-releases-firefox-4.md)
 _Context: Firefox 4, Mozilla Foundation_

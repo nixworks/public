@@ -7,7 +7,7 @@ _Context: British Columbia, Liberal Party, general election, majority, seats_
 _Context: Pakistan, Pakistan Army, Swat, Pakistan, Taliban, War in North-West Pakistan, military installations_
 
 ### [ Suspected Nazi death-camp officer John Demjanjuk arrives in Munich, Germany, to begin his trial. ](/news/2009/05/12/suspected-nazi-death-camp-officer-john-demjanjuk-arrives-in-munich-germany-to-begin-his-trial.md)
-_Context: German, John Demjanjuk, Munich, Nazi, extermination camp, officer, trial_
+_Context: Germany, John Demjanjuk, Munich, Nazi, extermination camp, officer, trial_
 
 ### [ Combat between the government and the Islamic Courts Union kills at least 123 people in Mogadishu, Somalia. ](/news/2009/05/12/combat-between-the-government-and-the-islamic-courts-union-kills-at-least-123-people-in-mogadishu-somalia.md)
 _Context: Islamic Courts Union, Mogadishu, Somalia, Transitional Federal Government, War in Somalia (2009-)_

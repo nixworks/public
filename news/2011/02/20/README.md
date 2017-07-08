@@ -31,7 +31,7 @@ _Context: Minneapolis-Saint Paul International Airport, Minnesota, U.S. state_
 An American official held in Pakistan after shooting dead two men is a CIA agent who was on assignment at the time of the incident, according to reports.
 
 ### [German-Iranian relations:Following a visit by German Foreign Minister Guido Westerwelle to Iran, two German journalists charged with espionage are released and return to Germany having been imprisoned since October for interviewing the son and lawyer of Sakineh Mohammadi Ashtiani.](/news/2011/02/20/germanairanian-relations-pfollowing-a-visit-by-german-foreign-minister-guido-westerwelle-to-iran-two-german-journalists-charged-with-espi.md)
-_Context: German, German Foreign Minister, German journalist, German-Iranian relations, Guido Westerwelle, Iran, Sakineh Mohammadi Ashtiani_
+_Context: German Foreign Minister, German journalist, German-Iranian relations, Germany, Guido Westerwelle, Iran, Sakineh Mohammadi Ashtiani_
 
 ### [North Korea has been observed digging tunnels at a nuclear test site in Punggye-ri in North Hamgyong Province raising concerns about another test. ](/news/2011/02/20/north-korea-has-been-observed-digging-tunnels-at-a-nuclear-test-site-in-punggye-ri-in-north-hamgyong-province-raising-concerns-about-another.md)
 _Context: North Hamgyong Province, North Korea, Punggye-ri, nuclear test_

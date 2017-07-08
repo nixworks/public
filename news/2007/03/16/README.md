@@ -4,7 +4,7 @@
 Three suicide attacks in Anbar Province employed a tactic that insurgents began using earlier this year, the U.S. military said.
 
 ### [ The Inter-American Development Bank forgives US$4.4 billion in debt owed by Bolivia, Honduras, Nicaragua, Haiti and Guyana, five of the poorest countries in the Americas. ](/news/2007/03/16/the-inter-american-development-bank-forgives-us-4-4-billion-in-debt-owed-by-bolivia-honduras-nicaragua-haiti-and-guyana-five-of-the-poo.md)
-_Context: $, Americas, Bolivia, Guyana, Haiti, Honduras, Inter-American Development Bank, Nicaragua_
+_Context: Americas, Bolivia, Guyana, Haiti, Honduras, Inter-American Development Bank, Nicaragua, USD_
 
 ### [ Herschelle Gibbs of South Africa becomes the first cricketer to hit six sixes in one over in a One Day International at the 2007 Cricket World Cup. ](/news/2007/03/16/herschelle-gibbs-of-south-africa-becomes-the-first-cricketer-to-hit-six-sixes-in-one-over-in-a-one-day-international-at-the-2007-cricket-wo.md)
 _Context: 2007 Cricket World Cup, Herschelle Gibbs, One Day International, South Africa, cricketer, six_

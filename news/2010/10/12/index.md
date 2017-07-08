@@ -46,7 +46,7 @@ Two foreigners who interviewed the son of a woman prisoner at the centre of a in
 _Context: U.S. District Judge of California, Virginia A. Phillips, don't ask, don't tell, injunction_
 
 ### [The trial of Ahmed Ghailani, the first Guantanamo Bay prisoner to face a criminal trial in the United States, begins in New York City. ](/news/2010/10/12/the-trial-of-ahmed-ghailani-the-first-guantanamo-bay-prisoner-to-face-a-criminal-trial-in-the-united-states-begins-in-new-york-city.md)
-_Context: Ahmed Ghailani, detainee_
+_Context: Ahmed Ghailani, Guantanamo Bay Detention Camp_
 
 ### [Kim Jong-il's eldest son, Kim Jong-nam, announces his opposition to the hereditary succession plan in North Korea which would see power transferred to his younger brother Kim Jong-un. ](/news/2010/10/12/kim-jong-il-s-eldest-son-kim-jong-nam-announces-his-opposition-to-the-hereditary-succession-plan-in-north-korea-which-would-see-power-tran.md)
 _Context: Kim Jong-il, Kim Jong-nam, Kim Jong-un, North Korea_

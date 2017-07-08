@@ -52,7 +52,7 @@ In an open letter to the Obama administration Thursday, America’s Eastern Euro
 The heads of BBC radio and TV stations and senior corporation management figures used public money to pay for flowers, champagne, hampers for stars and &#034;thank you&#034; lunches and dinners.
 
 ### [ 49 members of a Sicilian Mafia syndicate are jailed in Italy in what the government describes as a landmark case. ](/news/2009/07/17/49-members-of-a-sicilian-mafia-syndicate-are-jailed-in-italy-in-what-the-government-describes-as-a-landmark-case.md)
-_Context: Italy, Sicily_
+_Context: Italian, Sicily_
 
 ## [Previous Day...](/news/2009/07/16/index.md)
 

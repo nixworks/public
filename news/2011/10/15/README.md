@@ -1,10 +1,10 @@
 ## [2011-10-15](/news/2011/10/15/index.md)
 
 ### [2011 Yemeni protests: At least nine people are killed and dozens injured in the Yemeni capital Sana'a after security forces use tear gas and live ammunition to disperse anti-government protesters. ](/news/2011/10/15/2011-yemeni-protests-at-least-nine-people-are-killed-and-dozens-injured-in-the-yemeni-capital-sana-a-after-security-forces-use-tear-gas-and.md)
-_Context: 2011 Yemeni protests, Sana'a, Yemen, tear gas_
+_Context: 2011 Yemeni protests, Sana'a, Yemen's, tear gas_
 
 ### [Yemeni officials report that Ibrahim al-Banna, the media chief of Al-Qaeda in the Arabian Peninsula, has been killed along with six other militants in a Friday air strike in Yemen's Shabwa Governorate. ](/news/2011/10/15/yemeni-officials-report-that-ibrahim-al-banna-the-media-chief-of-al-qaeda-in-the-arabian-peninsula-has-been-killed-along-with-six-other-mi.md)
-_Context: Shabwa Governorate, Yemen, al-Qaida_
+_Context: Shabwa Governorate, Yemen's, al-Qaida_
 
 ### [Afghan and U.S. forces repel a Taliban raid on a NATO base in Afghanistan's Panjshir Province, reportedly killing four militants. ](/news/2011/10/15/afghan-and-u-s-forces-repel-a-taliban-raid-on-a-nato-base-in-afghanistan-s-panjshir-province-reportedly-killing-four-militants.md)
 Four militants are killed as their attack on a US base in the eastern Afghan region of Panjshir is repulsed.

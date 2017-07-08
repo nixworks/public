@@ -22,7 +22,7 @@ Victoria&#039;s bushfire death toll has reached 210 as authorities warn of an ex
 Queensland Premier Anna Bligh has called a snap state election for March 21.
 
 ### [ Ethiopian national Benyam Mohammed is released from Guantanamo Bay Naval Base's detention camp. ](/news/2009/02/23/ethiopian-national-benyam-mohammed-is-released-from-guantanamo-bay-naval-base-s-detention-camp.md)
-_Context: Benyam Mohammed, Ethiopia, detainee, detainees, military base at Guantanamo Bay, national_
+_Context: Benyam Mohammed, Ethiopia, Guantanamo Bay Detention Camp, detainees, military base at Guantanamo Bay, national_
 
 ### [ South Korea's Defense Ministry reports that North Korea has medium-range ballistic missiles capable of striking U.S. military bases. ](/news/2009/02/23/south-korea-s-defense-ministry-reports-that-north-korea-has-medium-range-ballistic-missiles-capable-of-striking-u-s-military-bases.md)
 _Context: Defence Ministry, North Korea, South Korea, United States, United States military, ballistic missile, medium-range ballistic missile, military installations_

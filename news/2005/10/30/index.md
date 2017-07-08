@@ -1,7 +1,7 @@
 ## [2005-10-30](/news/2005/10/30/index.md)
 
 ### [ Italian Minister of the Environment Altero Matteoli announces interest in switching to nuclear power as the main source of energy within 10-15 years. Nuclear power has been banned in Italy since the Chernobyl accident in 1986. ](/news/2005/10/30/italian-minister-of-the-environment-altero-matteoli-announces-interest-in-switching-to-nuclear-power-as-the-main-source-of-energy-within-10.md)
-_Context: 1986, Altero Matteoli, Chernobyl accident, Italy, Minister of the Environment, nuclear power_
+_Context: 1986, Altero Matteoli, Chernobyl accident, Italian, Minister of the Environment, nuclear power_
 
 ### [ Hurricane Beta, the first hurricane named with the Greek letter Beta, approaches Nicaragua and Honduras as a Category 3 storm,  ](/news/2005/10/30/hurricane-beta-the-first-hurricane-named-with-the-greek-letter-beta-approaches-nicaragua-and-honduras-as-a-category-3-storm.md)
 _Context: Greek letter, Honduras, Hurricane Beta, Nicaragua, Saffir-Simpson Hurricane Scale, hurricane_
@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Beijing, Chinese President, Hu Jintao, Kim Jong-il, North Korea, People's Republic of China, Pyongyang, leader_
 
 ### [ The Dresden Frauenkirche (Church of Our Lady), a Protestant Church in Dresden, Germany is re-consecrated. The church was destroyed during the bombing of Dresden in World War II. The remains of the church had been left untouched by the government of East Germany as an anti-war monument. Some 60,000 people celebrated the reopening. Both Queen Elizabeth II of the United Kingdom and German President Horst Khler said that the rebuilding was a 'symbol of reconciliation'. ](/news/2005/10/30/the-dresden-frauenkirche-church-of-our-lady-a-protestant-church-in-dresden-germany-is-re-consecrated-the-church-was-destroyed-during-t.md)
-_Context: Dresden, Dresden Frauenkirche, East Germany, German, Horst Khler, President of Germany, Protestantism, Queen Elizabeth, United Kingdom, bombing of Dresden in World War II, church, consecrated_
+_Context: Dresden, Dresden Frauenkirche, East Germany, Germany, Horst Khler, President of Germany, Protestantism, Queen Elizabeth, United Kingdom, bombing of Dresden in World War II, church, consecrated_
 
 ## [Previous Day...](/news/2005/10/29/index.md)
 

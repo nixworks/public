@@ -4,7 +4,7 @@
 _Context: Catholic, Republic of Ireland, Roman Catholic, Treaty of Lisbon, bishop, the second Irish referendum_
 
 ### [ At least 87 refugees are killed after an army air raid on a camp for displaced people in 'Amran Governorate, northern Yemen. ](/news/2009/09/17/at-least-87-refugees-are-killed-after-an-army-air-raid-on-a-camp-for-displaced-people-in-amran-governorate-northern-yemen.md)
-_Context: 'Amran Governorate, Yemen, soldiers_
+_Context: 'Amran Governorate, Yemen's, soldiers_
 
 ### [ The President of France Nicolas Sarkozy says European Union leaders agree to impose a cap on banker pay. ](/news/2009/09/17/the-president-of-france-nicolas-sarkozy-says-european-union-leaders-agree-to-impose-a-cap-on-banker-pay.md)
 _Context: European Union, Nicolas Sarkozy, President of France, banking_
@@ -16,7 +16,7 @@ _Context: Barack Obama, Czech Republic, Jan Fischer, Poland, Prime Minister of t
 _Context: African Union, Mogadishu, Somalia_
 
 ### [ Shia insurgency in Yemen: More than 80 people are killed in an air raid on a camp for displaced people in northern Yemen. ](/news/2009/09/17/shia-insurgency-in-yemen-more-than-80-people-are-killed-in-an-air-raid-on-a-camp-for-displaced-people-in-northern-yemen.md)
-_Context: Shia insurgency in Yemen, Yemen_
+_Context: Shia insurgency in Yemen, Yemen's_
 
 ### [ A number of children are injured in an attack at the Carolinum secondary school in the Bavarian town of Ansbach. German police arrest a man. ](/news/2009/09/17/a-number-of-children-are-injured-in-an-attack-at-the-carolinum-secondary-school-in-the-bavarian-town-of-ansbach-german-police-arrest-a-man.md)
 An 18-year-old student armed with an axe has been arrested in Germany after throwing petrol bombs into two classrooms at his school.
@@ -28,7 +28,7 @@ Colombia could consider quitting the South American Nations Union, Unasur, if th
 _Context: Ethiopia, International Crisis Group, Meles Zenawi, Prime Minister_
 
 ### [ A large car bomb attack in the centre of Kabul, Afghanistan, kills six Italian ISAF soldiers. ](/news/2009/09/17/a-large-car-bomb-attack-in-the-centre-of-kabul-afghanistan-kills-six-italian-isaf-soldiers.md)
-_Context: Afghanistan, ISAF, Italy, Kabul, car bomb_
+_Context: Afghanistan, ISAF, Italian, Kabul, car bomb_
 
 ### [ Egypt's top Islamic authority, Grand Mufti Ali Gomaa, defends women's rights to wear trousers in public following the high-profile court case in neighbouring Sudan where women, including Lubna al-Hussein, were flogged for dressing in the garments. ](/news/2009/09/17/egypt-s-top-islamic-authority-grand-mufti-ali-gomaa-defends-women-s-rights-to-wear-trousers-in-public-following-the-high-profile-court-ca.md)
 _Context: Ali Gomaa, Egypt, Grand Mufti, Islam, Lubna al-Hussein, Sudan, lashes_

@@ -4,7 +4,7 @@
 _Context: Eliot Spitzer, New York City, New York Governor, primary election_
 
 ### [ Thirteen detainees at Guantanamo Bay are conducting a hunger strike to protest against harsher conditions in a new prison unit and are being force fed. ](/news/2007/04/9/thirteen-detainees-at-guantanamo-bay-are-conducting-a-hunger-strike-to-protest-against-harsher-conditions-in-a-new-prison-unit-and-are-bein.md)
-_Context: detainee, force fed, hunger strike, prison, protest_
+_Context: Guantanamo Bay Detention Camp, force fed, hunger strike, prison, protest_
 
 ### [ The United Kingdom Ministry of Defence bans any more of the 15 Royal Navy sailors and Royal Marines held captive by Iran from selling their stories to the media reversing a previous decision following widespread criticism. ](/news/2007/04/9/the-united-kingdom-ministry-of-defence-bans-any-more-of-the-15-royal-navy-sailors-and-royal-marines-held-captive-by-iran-from-selling-their.md)
 _Context: Ministry of Defence, Royal Marine, Royal Navy, United Kingdom, held captive by Iran, sailor_

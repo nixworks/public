@@ -31,7 +31,7 @@ China is warning Iran against developing nuclear weapons, observers said.
 _Context: Turkey, assassination of Hrant Dink_
 
 ### [2011-2012 Yemeni uprising: The Yemeni government modifies a new bill that would have granted legal immunity to aides of outgoing President Ali Abdullah Saleh. ](/news/2012/01/20/2011a2012-yemeni-uprising-the-yemeni-government-modifies-a-new-bill-that-would-have-granted-legal-immunity-to-aides-of-outgoing-president.md)
-_Context: 2011-2012 Yemeni uprising, Saleh, Yemen, Yemeni President_
+_Context: 2011-2012 Yemeni uprising, Saleh, Yemen's, Yemeni President_
 
 ### [Cuban dissident Wilmar Villar dies after going on hunger strike. ](/news/2012/01/20/cuban-dissident-wilmar-villar-dies-after-going-on-hunger-strike.md)
 _Context: Cuba, Wilmar Villar, hunger strike_

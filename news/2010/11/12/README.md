@@ -61,7 +61,7 @@ Supreme court rejects request to rescind ban on openly gay soldiers, while Obama
 The trial starts of eight officers charged with the murder of prominent human rights activist Floribert Chebeya in the Democratic Republic of Congo.
 
 ### [Hassan Bamoum is arrested in Yemen prompting thousands of people to march through cities in the south. ](/news/2010/11/12/hassan-bamoum-is-arrested-in-yemen-prompting-thousands-of-people-to-march-through-cities-in-the-south.md)
-_Context: Hassan Bamoum, Yemen_
+_Context: Hassan Bamoum, Yemen's_
 
 ### [Omar Bakri Muhammad is sentenced to life imprisonment by a military court in Lebanon. ](/news/2010/11/12/omar-bakri-muhammad-is-sentenced-to-life-imprisonment-by-a-military-court-in-lebanon.md)
 _Context: Lebanon, Omar Bakri Muhammad, life imprisonment_

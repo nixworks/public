@@ -40,7 +40,7 @@ Investigation of violence during protests says former president and interior min
  MEDIA LEAKS: THE &ldquo;SIGNIFICANT leaking&rdquo; of tribunal information by Sarah Carey, a former employee of Denis O&rsquo;Brien, was &ldquo;irresponsible&hellip;
 
 ### [The United States Court of Appeals for the Ninth Circuit refuses to allow same-sex marriages to resume in the US state of California while it considers the constitutionality of Proposition 8. ](/news/2011/03/23/the-united-states-court-of-appeals-for-the-ninth-circuit-refuses-to-allow-same-sex-marriages-to-resume-in-the-us-state-of-california-while-i.md)
-_Context: California, Ninth Circuit Appeals Court panel, reversed its legalization, same-sex marriage_
+_Context: California, United States Court of Appeals for the Ninth Circuit, reversed its legalization, same-sex marriage_
 
 ### [Thousands of people gather in Canberra, Australia to protest the introduction of a carbon tax, Prime Minister Julia Gillard met the Australian Youth Climate Coalition which is pushing for a price on emissions, while climate change mitigation activists including the Australian Council of Trade Unions delivered a petition to Minister for Climate Change and Energy Efficiency Greg Combet signed by about 10,000 "working Australians" urging the government to take action. ](/news/2011/03/23/thousands-of-people-gather-in-canberra-australia-to-protest-the-introduction-of-a-carbon-tax-prime-minister-julia-gillard-met-the-australi.md)
 Canberra has found itself at the centre of clashing rallies by climate action campaigners and anti-carbon tax protesters.

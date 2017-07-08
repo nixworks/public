@@ -25,7 +25,7 @@ _Context: Darfur, Oxfam, United Kingdom_
 _Context: Burundi, constitution_
 
 ### [ In Spain, police arrest Raffaele Amato, head of a mafia gang that has waged turf wars against other gangs in Naples, Italy. ](/news/2005/02/28/in-spain-police-arrest-raffaele-amato-head-of-a-mafia-gang-that-has-waged-turf-wars-against-other-gangs-in-naples-italy.md)
-_Context: Italy, Mafia, Naples, Raffaele Amato, Spain_
+_Context: Italian, Mafia, Naples, Raffaele Amato, Spain_
 
 ### [ Cannes police, investigating the November 2004 disappearance of Earl of Shaftesbury Anthony Ashley-Cooper, arrest his estranged wife Djamilia M'Barek. Her brother, Mohammed, is arrested in Munich. ](/news/2005/02/28/cannes-police-investigating-the-november-2004-disappearance-of-earl-of-shaftesbury-anthony-ashley-cooper-arrest-his-estranged-wife-djamil.md)
 _Context: Anthony Ashley-Cooper, 10th Earl of Shaftesbury, Cannes, Djamilia M'Barek, Earl of Shaftesbury, Mohammed, Munich_

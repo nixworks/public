@@ -22,7 +22,7 @@ _Context: Deloitte & Touche, February 12, Mayor of Madrid, Spain, Windsor Tower,
 _Context: 1917, Fatima, Lucia de Jesus Santos, Nun, Portugal, Virgin Mary, appeared_
 
 ### [ Germans mark the 60th anniversary of the Dresden fire bombing. ](/news/2005/02/13/germans-mark-the-60th-anniversary-of-the-dresden-fire-bombing.md)
-_Context: German, bombing of Dresden in World War II_
+_Context: Germany, bombing of Dresden in World War II_
 
 ## [Previous Day...](/news/2005/02/12/index.md)
 

@@ -7,7 +7,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Greece_
 
 ### [An internal plot among cardinals to kill Pope Benedict XVI is alleged in Italy. ](/news/2012/02/10/an-internal-plot-among-cardinals-to-kill-pope-benedict-xvi-is-alleged-in-italy.md)
-_Context: Cardinal, Italy, Pope Benedict XVI_
+_Context: Cardinal, Italian, Pope Benedict XVI_
 
 ### [A protester is shot dead by security forces in Qatif, eastern Saudi Arabia, amid a demonstration calling for the release of Shia prisoners and democratic reforms. ](/news/2012/02/10/a-protester-is-shot-dead-by-security-forces-in-qatif-eastern-saudi-arabia-amid-a-demonstration-calling-for-the-release-of-shia-prisoners-a.md)
 A protester has been shot dead by security forces in the city of Qatif in eastern Saudi Arabia, activists say.
@@ -34,7 +34,7 @@ _Context: Dublin, James Joyce, The Cats of Copenhagen_
 _Context: The Guard, The Guardian_
 
 ### [Spanish photographer Samuel Aranda wins the 2011 World Press Photo of the Year with an image of a veiled woman holding a wounded relative in her arms after a demonstration in Yemen. ](/news/2012/02/10/spanish-photographer-samuel-aranda-wins-the-2011-world-press-photo-of-the-year-with-an-image-of-a-veiled-woman-holding-a-wounded-relative-in.md)
-_Context: Samuel Aranda, World Press Photo of the Year, Yemen_
+_Context: Samuel Aranda, World Press Photo of the Year, Yemen's_
 
 ### [A Histadrut general strike in Israel continues for a third day with banks, ports and the Tel Aviv Stock Exchange closed. ](/news/2012/02/10/a-histadrut-general-strike-in-israel-continues-for-a-third-day-with-banks-ports-and-the-tel-aviv-stock-exchange-closed.md)
 _Context: Histadrut, Israel, Tel Aviv Stock Exchange, general strike_

@@ -1,7 +1,7 @@
 ## [2009-11-22](/news/2009/11/22/index.md)
 
 ### [ An Algerian court acquits Abdulli Feghoul, who had been detained at Guantanamo Bay detention camp without trial for almost seven years. ](/news/2009/11/22/an-algerian-court-acquits-abdulli-feghoul-who-had-been-detained-at-guantanamo-bay-detention-camp-without-trial-for-almost-seven-years.md)
-_Context: Abdulli Feghoul, Algeria, detainee_
+_Context: Abdulli Feghoul, Algeria, Guantanamo Bay Detention Camp_
 
 ### [ Efren Peaflorida, who started a "pushcart classroom" in the Philippines to provide education to poor children, is named the 2009 CNN Hero of the Year. ](/news/2009/11/22/efren-penaflorida-who-started-a-pushcart-classroom-in-the-philippines-to-provide-education-to-poor-children-is-named-the-2009-cnn-hero.md)
 Efren Penaflorida, who offered disadvantaged children in the Philippines a chance at education, said he is honored to be the 2009 CNN Hero of the Year.

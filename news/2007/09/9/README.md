@@ -28,7 +28,7 @@ Around 5,000 Algerians gathered in central Algiers on Sunday to protest against 
 _Context: 2007 general election, Guatemala_
 
 ### [ Jamaican Asafa Powell set a new men's world 100 meters record of 9.74 seconds at the IAAF Grand Prix at Rieti, Italy. ](/news/2007/09/9/jamaican-asafa-powell-set-a-new-men-s-world-100-meters-record-of-9-74-seconds-at-the-iaaf-grand-prix-at-rieti-italy.md)
-_Context: Asafa Powell, Italy, Jamaica, Rieti, men's world 100 meters record_
+_Context: Asafa Powell, Italian, Jamaica, Rieti, men's world 100 meters record_
 
 ### [ At least 15 dead and many injured when a flyover under construction at Panjagutta junction, Hyderabad, Andhra Pradesh, India collapsed. Wikinews](/news/2007/09/9/at-least-15-dead-and-many-injured-when-a-flyover-under-construction-at-panjagutta-junction-hyderabad-andhra-pradesh-india-collapsed-wik.md)
 _Context: Hyderabad, Andhra Pradesh, India, Wikinews, overpass_

@@ -16,7 +16,7 @@ _Context: Nepal, Nepalese Constituent Assembly election, 2008, Supreme Court, le
 _Context: France, Nicolas Sarkozy, President of France, pension reform, public-sector strikes, strike, train driver_
 
 ### [ German architect Heike Hanada of Weimar wins the international competition for extending the Stockholm Public Library. ](/news/2007/11/16/german-architect-heike-hanada-of-weimar-wins-the-international-competition-for-extending-the-stockholm-public-library.md)
-_Context: German, Heike Hanada, Weimar, architect, central library, competition_
+_Context: Germany, Heike Hanada, Weimar, architect, central library, competition_
 
 ### [ The International Criminal Tribunal for Rwanda sentences Juvnal Rugambarara, the former mayor of Bicumbi, to 11 years in jail for crimes he committed during the Rwandan Genocide. ](/news/2007/11/16/the-international-criminal-tribunal-for-rwanda-sentences-juvenal-rugambarara-the-former-mayor-of-bicumbi-to-11-years-in-jail-for-crimes-h.md)
 _Context: Bicumbi, International Criminal Tribunal for Rwanda, Juvnal Rugambarara, Rwandan Genocide, mayor_
@@ -25,7 +25,7 @@ _Context: Bicumbi, International Criminal Tribunal for Rwanda, Juvnal Rugambarar
 _Context: Ban Ki-moon, Lebanon, President of Lebanon, United Nations, United Nations Secretary-General, political leader, standoff_
 
 ### [ The German train driver strike enters its third day.  ](/news/2007/11/16/the-german-train-driver-strike-enters-its-third-day.md)
-_Context: German, strike, train driver_
+_Context: Germany, strike, train driver_
 
 ### [ Turkish prosecutors ask the Constitutional Court to ban the Kurdish Democratic Society Party, claiming it has links to the outlawed Kurdistan Workers Party. ](/news/2007/11/16/turkish-prosecutors-ask-the-constitutional-court-to-ban-the-kurdish-democratic-society-party-claiming-it-has-links-to-the-outlawed-kurdist.md)
 _Context: Constitutional Court of Turkey, Democratic Society Party, Kurdistan Workers' Party, Turkey, prosecutor_

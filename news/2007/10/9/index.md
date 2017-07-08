@@ -7,7 +7,7 @@ _Context: eggs, sperm_
 _Context: Argentina, Christian Von Wernich, Dirty War, Roman Catholic, kidnapped, police, torture_
 
 ### [ The United States Supreme Court dismisses the case of the German citizen Khalid El-Masri who accuses the CIA of abducting him to a secret prison in Afghanistan where he claims he was tortured. The US government had argued that a public trial would reveal state secrets. ](/news/2007/10/9/the-united-states-supreme-court-dismisses-the-case-of-the-german-citizen-khalid-el-masri-who-accuses-the-cia-of-abducting-him-to-a-secret-p.md)
-_Context: Afghanistan, Central Intelligence Agency, German, Khalid El-Masri, Supreme Court of the United States_
+_Context: Afghanistan, Central Intelligence Agency, Germany, Khalid El-Masri, Supreme Court of the United States_
 
 ### [ Pakistan - Battle of Mir Ali: 20 people are injured in Peshawar, Pakistan, when a bomb rips through a music shop.date=December 2007 At least sixty people are killed as Pakistani aircraft bomb a bazaar in Epi village in North Waziristan. ](/news/2007/10/9/pakistan-battle-of-mir-ali-p-20-people-are-injured-in-peshawar-pakistan-when-a-bomb-rips-through-a-music-shop-date-december-2007p-at-le.md)
 _Context: Battle of Mir Ali, Epi village, North Waziristan, Pakistan, Peshawar, bazaar_

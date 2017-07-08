@@ -58,7 +58,7 @@ _Context: Kenya, poachers_
 A judge in Uganda orders the local Rolling Stone newspaper to stop publishing the names and photographs of people it says are homosexual.
 
 ### [The Government of Canada agrees to accept Canadian Omar Khadr, detained at Guantanamo Bay for the past eight years, after he serves a year of his sentence at the Guantanamo Bay detention camp. ](/news/2010/11/1/the-government-of-canada-agrees-to-accept-canadian-omar-khadr-detained-at-guantanamo-bay-for-the-past-eight-years-after-he-serves-a-year-o.md)
-_Context: Canada, Canadian government, Omar Khadr, detainee_
+_Context: Canada, Canadian government, Guantanamo Bay Detention Camp, Omar Khadr_
 
 ### [State media in Burma warn against a boycott of the general election on Sunday, with the government threatening jail time for those encouraging a boycott. ](/news/2010/11/1/state-media-in-burma-warn-against-a-boycott-of-the-general-election-on-sunday-with-the-government-threatening-jail-time-for-those-encouragi.md)
 _Context: Burma, general elections, go on sale_

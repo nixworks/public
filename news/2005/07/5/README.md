@@ -22,7 +22,7 @@ _Context: Indonesia, Richter scale, Sumatra, earthquake_
 _Context: Ayodhya, Hindu, India, Muslim, Uttar Pradesh_
 
 ### [ In Germany, Sven Jaschan, suspected creator of Sasser worm, goes on trial. ](/news/2005/07/5/in-germany-sven-jaschan-suspected-creator-of-sasser-worm-goes-on-trial.md)
-_Context: German, Sasser worm, Sven Jaschan_
+_Context: Germany, Sasser worm, Sven Jaschan_
 
 ### [ In Brazil, secretary general Silvio Pereira of the ruling Worker's Party resigns for the duration of the parliamentary inquiry into vote-buying. ](/news/2005/07/5/in-brazil-secretary-general-silvio-pereira-of-the-ruling-worker-s-party-resigns-for-the-duration-of-the-parliamentary-inquiry-into-vote-bu.md)
 _Context: Brazil, Silvio Pereira, Workers' Party_
@@ -34,7 +34,7 @@ _Context: Bahrain, Iraq, Pakistan_
 _Context: Indonesia, polio_
 
 ### [ In Germany, workmen remove the unofficial Berlin Wall memorial in Berlin, after the original builders refuse to obey a court order to do so. ](/news/2005/07/5/in-germany-workmen-remove-the-unofficial-berlin-wall-memorial-in-berlin-after-the-original-builders-refuse-to-obey-a-court-order-to-do-so.md)
-_Context: Berlin, Berlin Wall, German, memorial_
+_Context: Berlin, Berlin Wall, Germany, memorial_
 
 ### [ In Peru, former president Alberto Fujimori receives new identity papers and may return to the country. Peru still wants him for charges of murder and corruption.  ](/news/2005/07/5/in-peru-former-president-alberto-fujimori-receives-new-identity-papers-and-may-return-to-the-country-peru-still-wants-him-for-charges-of.md)
 _Context: Alberto Fujimori, Peru, anti-corruption, murder_

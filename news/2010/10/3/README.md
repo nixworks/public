@@ -25,7 +25,7 @@ Four suspected terrorists were killed and another two were detained in a firefig
 Archaeologists find 2,000-year-old tunnels near Egypt border, close to smuggling tunnels.
 
 ### [International cultural experts attack the Italian government's policy of tolerating oversized advertisements on historic Venetian sights as being "probably illegal". They say it violates the city's UNESCO ranking as a World Heritage Site. ](/news/2010/10/3/international-cultural-experts-attack-the-italian-government-s-policy-of-tolerating-oversized-advertisements-on-historic-venetian-sights-as.md)
-_Context: UNESCO, Venice, World Heritage Site_
+_Context: UNESCO, Venice, world heritage site_
 
 ### [An art exhibition indicates Adolf Hitler's foreign minister, Joachim von Ribbentrop, planned to retire in Cornwall after the planned German invasion of Britain during World War II. ](/news/2010/10/3/an-art-exhibition-indicates-adolf-hitler-s-foreign-minister-joachim-von-ribbentrop-planned-to-retire-in-cornwall-after-the-planned-german.md)
 _Context: Adolf Hitler, Cornish, German invasion of Britain, Joachim von Ribbentrop, World War II, foreign minister of Germany_

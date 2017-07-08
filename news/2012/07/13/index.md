@@ -25,7 +25,7 @@ _Context: American Idol, Jennifer Lopez, talent show_
 _Context: Academy Award, Los Angeles, Richard D. Zanuck, heart attack_
 
 ### [Moody's Investor Services downgrades Italy's government rating from A3 to Baa2. ](/news/2012/07/13/moody-s-investor-services-downgrades-italy-s-government-rating-from-a3-to-baa2.md)
-_Context: Italy, Moody's Investor Services_
+_Context: Italian, Moody's Investor Services_
 
 ### [The Federal Reserve Bank of New York is set to release documents outlining what it knew about the Libor scandal and what action it took. ](/news/2012/07/13/the-federal-reserve-bank-of-new-york-is-set-to-release-documents-outlining-what-it-knew-about-the-libor-scandal-and-what-action-it-took.md)
 With the scandal over alleged manipulation of a critical global interest rate threatening to migrate from London to Washington, pressure is growing on one former banking regulator to explain what he knew and when: Treasury Secretary Timothy F. Geithner.

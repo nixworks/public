@@ -43,7 +43,7 @@ International Monetary Fund Managing Director Christine Lagarde denied on Sunday
 Members of Indian women activist group Bhumata Ranragini Brigade were prevented from entering Shani Shingnapur temple on Saturday.
 
 ### [The Republican National Committeeman for North Dakota, Curly Haugland, says that the likelihood for outsiders such as Donald Trump to get state electoral votes are slim as the party honor its own elders. ](/news/2016/04/2/the-republican-national-committeeman-for-north-dakota-curly-haugland-says-that-the-likelihood-for-outsiders-such-as-donald-trump-to-get-st.md)
-_Context: 2016 U.S. presidential election, Curly Haugland, Donald Trump, Republican National Committee, Republican Party presidential candidates, 2016_
+_Context: 2016 U.S. presidential election, Curly Haugland, Donald Trump's, Republican National Committee, Republican Party presidential candidates, 2016_
 
 ### [Tran Dai Quang is sworn in as the President of Vietnam. ](/news/2016/04/2/traossn-aao-i-quang-is-sworn-in-as-the-president-of-vietnam.md)
 _Context: President of Vietnam, Tran Dai Quang_

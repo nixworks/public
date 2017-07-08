@@ -10,7 +10,7 @@ _Context: Australian, High Court of Fiji, sodomy laws_
 _Context: Africa, Paris, immigrant_
 
 ### [ Israeli-Palestinian Conflict: An Israeli Border Policeman is wounded when a Palestinian man stabs him in the back of the neck near The Cave of the Patriarchs in Hebron. ](/news/2005/08/26/israeli-palestinian-conflict-p-an-israeli-border-policeman-is-wounded-when-a-palestinian-man-stabs-him-in-the-back-of-the-neck-near-the-cav.md)
-_Context: Hebron, Israel, Israeli-Palestinian conflict, Palestinian, Tomb of the Patriarchs_
+_Context: Cave of the Patriarchs, Hebron, Israel, Israeli-Palestinian conflict, Palestinian_
 
 ### [ Typhoon Mawar (11W) makes landfall at Chiba city, just east of Tokyo, having weakened from super-typhoon strength. ](/news/2005/08/26/typhoon-mawar-11w-makes-landfall-at-chiba-city-just-east-of-tokyo-having-weakened-from-super-typhoon-strength.md)
 _Context: Chiba city, Tokyo, Typhoon Mawar_

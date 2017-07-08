@@ -22,7 +22,7 @@ _Context: Assistant Secretary of State for East Asian and Pacific Affairs, Chris
 _Context: Dujail, Iraq, Saddam Hussein, Supreme Iraqi Criminal Tribunal, Taha Yassin Ramadan, Vice President, assassinated, death penalty_
 
 ### [ Italian police arrest in raids 15 people who the police claimed were associated with the Red Brigades terrorist group. ](/news/2007/02/12/italian-police-arrest-in-raids-15-people-who-the-police-claimed-were-associated-with-the-red-brigades-terrorist-group.md)
-_Context: Italy, Red Brigades_
+_Context: Italian, Red Brigades_
 
 ### [ Iraq War: At least 76 people are killed in four bomb attacks in Baghdad. ](/news/2007/02/12/iraq-war-at-least-76-people-are-killed-in-four-bomb-attacks-in-baghdad.md)
 _Context: Baghdad, Iraq War, four bomb attacks_
@@ -31,7 +31,7 @@ _Context: Baghdad, Iraq War, four bomb attacks_
 There has been an earthquake off the coast of the Algarve in Portugal.
 
 ### [ A German court orders the release of Brigitte Mohnhaupt, a former member of the Red Army Faction, also known as the "Baader-Meinhof Gang"; she has served 24 years in prison for her involvement in kidnappings and murders in the 1970s. ](/news/2007/02/12/a-german-court-orders-the-release-of-brigitte-mohnhaupt-a-former-member-of-the-red-army-faction-also-known-as-the-baader-meinhof-gang.md)
-_Context: 1970s, Baader, Brigitte Mohnhaupt, German, Meinhof, Red Army Faction, court_
+_Context: 1970s, Baader, Brigitte Mohnhaupt, Germany, Meinhof, Red Army Faction, court_
 
 ### [ 2007 Guinean general strike: Unions in Guinea resume a general strike to protest the President of Guinea Lansana Conte appointing Eugene Camara as Prime Minister of Guinea. At least 17 people have died in protests over the weekend. The protest started on the morning of the 12th with a march from the centre of Conakry to the palace. Widespread problems with armed bandits taking advantage of the insecurity have also been reported. Lansana Conte has now declared a state of emergency. ](/news/2007/02/12/2007-guinean-general-strike-unions-in-guinea-resume-a-general-strike-to-protest-the-president-of-guinea-lansana-conta-c-appointing-euga-ne.md)
 _Context: 2007 Guinean general strike, Conakry, Eugene Camara, Guinea, Lansana Conte, President of Guinea, Prime Minister of Guinea, general strike, state of emergency, unionize_

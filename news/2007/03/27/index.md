@@ -10,7 +10,7 @@ _Context: Gaza Strip, Um el-Nasser, sewage, village_
 _Context: Dominican Republic, Haiti, Hispaniola, flood, rain_
 
 ### [ A 12-km stretch of the Rhine River near Cologne, Germany is closed to shipping following the loss of 31 containers from a container ship with 200 ships backed up. ](/news/2007/03/27/a-12-km-stretch-of-the-rhine-river-near-cologne-germany-is-closed-to-shipping-following-the-loss-of-31-containers-from-a-container-ship-wi.md)
-_Context: Cologne, German, Rhine River, container ship, ship_
+_Context: Cologne, Germany, Rhine River, container ship, ship_
 
 ### [ Iraq War: Suicide car bombings kill at least 55 people and injure 120 in Tal Afar. ](/news/2007/03/27/iraq-war-p-suicide-car-bombings-kill-at-least-55-people-and-injure-120-in-tal-afar.md)
 Frontpage | New Straits Times : Authoritative source for Malaysia latest news on politics, business, sports, world and entertainment

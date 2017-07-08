@@ -10,7 +10,7 @@ _Context: Libyan Civil War, Misrata, NATO_
 _Context: Homs, Syria, Syrian uprising_
 
 ### [2011 Yemeni protests:The United Nations Security Council meets to discuss as the Yemen government killing of the people protesting continues. ](/news/2011/04/19/2011-yemeni-protests-pthe-united-nations-security-council-meets-to-discuss-as-the-yemen-government-killing-of-the-people-protesting-continue.md)
-_Context: 2011 Yemeni protests, United Nations Security Council, Yemen_
+_Context: 2011 Yemeni protests, United Nations Security Council, Yemen's_
 
 ### [2011 Egyptian revolution:Long-time intelligence chief Omar Suleiman is questioned about the Hosni Mubarak regime's attacks on the people of Egypt. ](/news/2011/04/19/2011-egyptian-revolution-plong-time-intelligence-chief-omar-suleiman-is-questioned-about-the-hosni-mubarak-regime-s-attacks-on-the-people-of.md)
 _Context: 2011 Egyptian revolution, Hosni Mubarak, Omar Suleiman_
