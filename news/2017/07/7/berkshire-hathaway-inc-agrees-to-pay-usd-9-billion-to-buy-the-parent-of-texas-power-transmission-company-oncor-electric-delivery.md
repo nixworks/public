@@ -1,6 +1,6 @@
 ### [2017-07-7](/news/2017/07/7/index.md)
 
-# Berkshire Hathaway Inc. agrees to pay USD$9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery. 
+# Berkshire Hathaway Inc. agrees to pay USD $9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery. 
 
 
 
