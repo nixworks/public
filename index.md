@@ -1,13 +1,13 @@
 ## [News](/news/2017/07/8/index.md)
 
-### [The Venezuelan oppositor leader Leopoldo Lopez, leader of the Popular Will party, leaves the jail after almost 3 years and a half of imprisonment, to happen to comply house arrest with an electronic shackle. According to Venezuelan justice, this measure was taken for humanitarian reasons. He was sentenced to 13 years in prison and 9 months of prison for supposedly instigate to the violence during the 2014 anti-Government protests, although his supporters and much of the international community deny this version and consider that exist a political persecution against him. ](/news/2017/07/8/the-venezuelan-oppositor-leader-leopoldo-la3pez-leader-of-the-popular-will-party-leaves-the-jail-after-almost-3-years-and-a-half-of-impris.md)
-Venezuela opposition leader Leopoldo Lopez was released from prison and placed under house arrest Saturday after more than three years in a military lockup
-
 ### [The death toll from flooding on the southern Japanese island of Kyushu rises to 15, with six others missing. ](/news/2017/07/8/the-death-toll-from-flooding-on-the-southern-japanese-island-of-kyushu-rises-to-15-with-six-others-missing.md)
 The death toll from heavy rain and flooding in southern Japan this week has risen to 15 as rescue workers reached isolated villages where at least six others are missing and feared dead.
 
 ### [The summit announces it is unable to gain agreement on climate change between the United States and the other 19 members of this international forum. ](/news/2017/07/8/the-summit-announces-it-is-unable-to-gain-agreement-on-climate-change-between-the-united-states-and-the-other-19-members-of-this-internation.md)
 _Context: 2017 G20 Hamburg summit, United States, climate change_
+
+### [Venezuelan opposition leader Leopoldo Lopez, leader of the Popular Will party, is granted house arrest after over three years of imprisonment. ](/news/2017/07/8/venezuelan-opposition-leader-leopoldo-la3pez-leader-of-the-popular-will-party-is-granted-house-arrest-after-over-three-years-of-imprisonme.md)
+_Context: Leopoldo Lopez, Popular Will, Venezuelan_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -17,10 +17,10 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/07/7/index.md)
 
-### [Masked militants attack an Egyptian Army checkpoint in a village south of Rafah, North Sinai Governorate, killing at least 23 soldiers, including a high-ranking special forces colonel. The Islamic State of Iraq and Syria later claim responsibility. ](/news/2017/07/7/masked-militants-attack-an-egyptian-army-checkpoint-in-a-village-south-of-rafah-north-sinai-governorate-killing-at-least-23-soldiers-incl.md)
+### [Masked militants attack an Egyptian Army checkpoint in a village south of Rafah, North Sinai Governorate, killing at least 23 soldiers, including a high-ranking special forces colonel. The Islamic State of Iraq and Syria later claims responsibility. ](/news/2017/07/7/masked-militants-attack-an-egyptian-army-checkpoint-in-a-village-south-of-rafah-north-sinai-governorate-killing-at-least-23-soldiers-incl.md)
 Militants rammed military compound with car before opening fire in village of el-Barth, security officials say
 
-### [UNESCO declares the old city of Hebron, and the Cave of the Patriarchs in the West Bank as world heritage sites. ](/news/2017/07/7/unesco-declares-the-old-city-of-hebron-and-the-cave-of-the-patriarchs-in-the-west-bank-as-world-heritage-sites.md)
+### [UNESCO declares the old city of Hebron and the Cave of the Patriarchs, both  in the West Bank, as world heritage sites. ](/news/2017/07/7/unesco-declares-the-old-city-of-hebron-and-the-cave-of-the-patriarchs-both-in-the-west-bank-as-world-heritage-sites.md)
 Israel denounces the decision, accusing the UN cultural agency of being a &quot;political tool&quot;.
 
 ### [Berkshire Hathaway Inc. agrees to pay USD $9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery. ](/news/2017/07/7/berkshire-hathaway-inc-agrees-to-pay-usd-9-billion-to-buy-the-parent-of-texas-power-transmission-company-oncor-electric-delivery.md)
@@ -32,7 +32,7 @@ Sears Holdings Corp (SHLD.O) is closing eight of its namesake department stores 
 ### [Severe flooding on the Japanese island of Kyushu has caused seven deaths with twenty people unaccounted for. ](/news/2017/07/7/severe-flooding-on-the-japanese-island-of-kyushu-has-caused-seven-deaths-with-twenty-people-unaccounted-for.md)
 At least seven people are dead and many are missing as the floods on the island of Kyushu continue.
 
-### [A five-story apartment block collapses in the town of Torre Annunziata near the southern Italian city of Naples with six or seven people trapped inside. So far, three have been found dead. ](/news/2017/07/7/a-five-story-apartment-block-collapses-in-the-town-of-torre-annunziata-near-the-southern-italian-city-of-naples-with-six-or-seven-people-tra.md)
+### [A five-story apartment block collapses in the town of Torre Annunziata near the Italian city of Naples, with six or seven people trapped inside. So far, three have been found dead. ](/news/2017/07/7/a-five-story-apartment-block-collapses-in-the-town-of-torre-annunziata-near-the-italian-city-of-naples-with-six-or-seven-people-trapped-ins.md)
 _Context: Italian, Naples, Torre Annunziata_
 
 ### [Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-president-donald-trump-who-is.md)

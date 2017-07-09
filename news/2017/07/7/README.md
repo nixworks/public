@@ -1,9 +1,9 @@
 ## [2017-07-7](/news/2017/07/7/index.md)
 
-### [Masked militants attack an Egyptian Army checkpoint in a village south of Rafah, North Sinai Governorate, killing at least 23 soldiers, including a high-ranking special forces colonel. The Islamic State of Iraq and Syria later claim responsibility. ](/news/2017/07/7/masked-militants-attack-an-egyptian-army-checkpoint-in-a-village-south-of-rafah-north-sinai-governorate-killing-at-least-23-soldiers-incl.md)
+### [Masked militants attack an Egyptian Army checkpoint in a village south of Rafah, North Sinai Governorate, killing at least 23 soldiers, including a high-ranking special forces colonel. The Islamic State of Iraq and Syria later claims responsibility. ](/news/2017/07/7/masked-militants-attack-an-egyptian-army-checkpoint-in-a-village-south-of-rafah-north-sinai-governorate-killing-at-least-23-soldiers-incl.md)
 Militants rammed military compound with car before opening fire in village of el-Barth, security officials say
 
-### [UNESCO declares the old city of Hebron, and the Cave of the Patriarchs in the West Bank as world heritage sites. ](/news/2017/07/7/unesco-declares-the-old-city-of-hebron-and-the-cave-of-the-patriarchs-in-the-west-bank-as-world-heritage-sites.md)
+### [UNESCO declares the old city of Hebron and the Cave of the Patriarchs, both  in the West Bank, as world heritage sites. ](/news/2017/07/7/unesco-declares-the-old-city-of-hebron-and-the-cave-of-the-patriarchs-both-in-the-west-bank-as-world-heritage-sites.md)
 Israel denounces the decision, accusing the UN cultural agency of being a &quot;political tool&quot;.
 
 ### [Berkshire Hathaway Inc. agrees to pay USD $9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery. ](/news/2017/07/7/berkshire-hathaway-inc-agrees-to-pay-usd-9-billion-to-buy-the-parent-of-texas-power-transmission-company-oncor-electric-delivery.md)
@@ -15,7 +15,7 @@ Sears Holdings Corp (SHLD.O) is closing eight of its namesake department stores 
 ### [Severe flooding on the Japanese island of Kyushu has caused seven deaths with twenty people unaccounted for. ](/news/2017/07/7/severe-flooding-on-the-japanese-island-of-kyushu-has-caused-seven-deaths-with-twenty-people-unaccounted-for.md)
 At least seven people are dead and many are missing as the floods on the island of Kyushu continue.
 
-### [A five-story apartment block collapses in the town of Torre Annunziata near the southern Italian city of Naples with six or seven people trapped inside. So far, three have been found dead. ](/news/2017/07/7/a-five-story-apartment-block-collapses-in-the-town-of-torre-annunziata-near-the-southern-italian-city-of-naples-with-six-or-seven-people-tra.md)
+### [A five-story apartment block collapses in the town of Torre Annunziata near the Italian city of Naples, with six or seven people trapped inside. So far, three have been found dead. ](/news/2017/07/7/a-five-story-apartment-block-collapses-in-the-town-of-torre-annunziata-near-the-italian-city-of-naples-with-six-or-seven-people-trapped-ins.md)
 _Context: Italian, Naples, Torre Annunziata_
 
 ### [Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-president-donald-trump-who-is.md)
