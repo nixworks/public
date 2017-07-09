@@ -7,7 +7,7 @@ An explosion Saturday at a Los Angeles Department of Water and Power plant in th
 
 ### Source:
 
-1. [LA Times](http://www.latimes.com/local/lanow/la-me-power-explosion-20170708-story.html)
+1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-power-explosion-20170708-story.html)
 2. [Sky News](http://news.sky.com/story/power-cuts-affect-140000-in-los-angeles-after-fire-at-storage-plant-10942247)
 
 ### Related:
