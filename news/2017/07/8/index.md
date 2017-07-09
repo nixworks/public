@@ -3,6 +3,9 @@
 ### [The death toll from flooding on the southern Japanese island of Kyushu rises to 15, with six others missing. ](/news/2017/07/8/the-death-toll-from-flooding-on-the-southern-japanese-island-of-kyushu-rises-to-15-with-six-others-missing.md)
 The death toll from heavy rain and flooding in southern Japan this week has risen to 15 as rescue workers reached isolated villages where at least six others are missing and feared dead.
 
+### [An explosion at a Northridge power plant causes a widespread power outage in the San Fernando Valley, Los Angeles. ](/news/2017/07/8/an-explosion-at-a-northridge-power-plant-causes-a-widespread-power-outage-in-the-san-fernando-valley-los-angeles.md)
+An explosion Saturday at a Los Angeles Department of Water and Power plant in the San Fernando Valley caused a major fire and knocked out electricity to 140,000 customers.
+
 ### [The summit announces it is unable to gain agreement on climate change between the United States and the other 19 members of this international forum. ](/news/2017/07/8/the-summit-announces-it-is-unable-to-gain-agreement-on-climate-change-between-the-united-states-and-the-other-19-members-of-this-internation.md)
 _Context: 2017 G20 Hamburg summit, United States, climate change_
 
