@@ -1,7 +1,7 @@
 ## [2017-06-24](/news/2017/06/24/index.md)
 
 ### [Israel and Syria exchange weapons fire in the disputed Golan Heights, with Israel destroying several targets, including two Syrian tanks. Although there were deaths on the ground in Syria, the number of casualties among Syrian forces is unknown. No Israeli troops were injured. ](/news/2017/06/24/israel-and-syria-exchange-weapons-fire-in-the-disputed-golan-heights-with-israel-destroying-several-targets-including-two-syrian-tanks-al.md)
-_Context: Golan Heights, Israel, Israeli involvement in the Syrian Civil War, Syria_
+_Context: Golan Heights, Israel, Israeli-Syrian ceasefire line incidents during the Syrian Civil War, Syria_
 
 ### [An early-morning landslide buries 40 homes and leaves 15 people dead and 114 others missing in Aba Prefecture, Sichuan Province, China. At least 500 rescue workers are on scene, and a 2-km stretch of the river in Mao County is blocked. ](/news/2017/06/24/an-early-morning-landslide-buries-40-homes-and-leaves-15-people-dead-and-114-others-missing-in-aba-prefecture-sichuan-province-china-at-l.md)
 _Context: 2017 Sichuan landslide, Aba Prefecture, Mao County, Sichuan Province_
