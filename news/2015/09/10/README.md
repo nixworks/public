@@ -28,7 +28,7 @@ The communist rebellion lives in the so-called Timber and Mining Corridor of the
 _Context: Azerbaijan, Khadija Ismayilova_
 
 ### [Venezuelan opposition leader Leopoldo Lopez is convicted and sentenced to 14 years imprisonment for allegedly inciting violence at anti-government rallies. ](/news/2015/09/10/venezuelan-opposition-leader-leopoldo-la3pez-is-convicted-and-sentenced-to-14-years-imprisonment-for-allegedly-inciting-violence-at-anti-gov.md)
-_Context: Leopoldo  Lopez, Venezuela_
+_Context: Leopoldo Lopez, Venezuela_
 
 ### [A U.S. federal jury awards nearly $17.5 million to five former migrant workers at a South Florida farm in their case of sexual harassment and abuse in their work. ](/news/2015/09/10/a-u-s-federal-jury-awards-nearly-17-5-million-to-five-former-migrant-workers-at-a-south-florida-farm-in-their-case-of-sexual-harassment-an.md)
 A federal jury awarded almost $17.5 million to five former female employees of a South Florida farm who said they were raped and harassed at a vegetable packing plant, the U.S. Equal Employment Opportunity Commission (EEOC) announced on Thursday.

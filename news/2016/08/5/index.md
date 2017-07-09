@@ -16,7 +16,7 @@ _Context: MF Global, October 2011, PricewaterhouseCoopers_
 Seven passengers were on board, six of them Pakistanis and one a Russian technician, confirms Foreign Office
 
 ### [Republican presidential candidate Donald Trump says he plans to ban immigration from Afghanistan, Iraq, Morocco, Pakistan, the Philippines, Somalia, Syria, Uzbekistan and Yemen. ](/news/2016/08/5/republican-presidential-candidate-donald-trump-says-he-plans-to-ban-immigration-from-afghanistan-iraq-morocco-pakistan-the-philippines.md)
-_Context: 2016 U.S. presidential election, Donald Trump's, Morocco, Philippines, R, Uzbekistan_
+_Context: 2016 U.S. presidential election, Donald Trump, Morocco, Philippines, R, Uzbekistan_
 
 ### [Ventimiglian police commander Giorgio Marenco says the more than 100 migrants who crashed the Italian border town's police barriers and entered France remain, under French police  surveillance, outside the French Riviera town of Menton. ](/news/2016/08/5/ventimiglian-police-commander-giorgio-marenco-says-the-more-than-100-migrants-who-crashed-the-italian-border-town-s-police-barriers-and-ente.md)
 More than 100 migrants broke through police barriers at the Italian border town of Ventimiglia and made their way into France on Friday, the local Italian police chief said.

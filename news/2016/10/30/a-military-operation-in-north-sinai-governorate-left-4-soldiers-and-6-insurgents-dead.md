@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Masked militants attack an Egyptian Army checkpoint in a village south of Rafah, North Sinai Governorate, killing at least 23 soldiers, including a high-ranking special forces colonel. ](/news/2017/07/7/masked-militants-attack-an-egyptian-army-checkpoint-in-a-village-south-of-rafah-north-sinai-governorate-killing-at-least-23-soldiers-incl.md) _Context: Sinai insurgency_
+1. [Masked militants attack an Egyptian Army checkpoint in a village south of Rafah, North Sinai Governorate, killing at least 23 soldiers, including a high-ranking special forces colonel. The Islamic State of Iraq and Syria later claim responsibility. ](/news/2017/07/7/masked-militants-attack-an-egyptian-army-checkpoint-in-a-village-south-of-rafah-north-sinai-governorate-killing-at-least-23-soldiers-incl.md) _Context: Sinai insurgency_
 2. [A roadside bomb kills four Egyptian Army soldiers near the town of Arish, North Sinai Governorate. ](/news/2017/03/25/a-roadside-bomb-kills-four-egyptian-army-soldiers-near-the-town-of-arish-north-sinai-governorate.md) _Context: Sinai insurgency_
 3. [An Egyptian Army raid in central Sinai kills at least 14 ISIL militants. ](/news/2017/02/6/an-egyptian-army-raid-in-central-sinai-kills-at-least-14-isil-militants.md) _Context: Sinai insurgency_
 4. [An attack by several gunmen and a truck bomb on a police checkpoint in El-Arish leaves 13 dead and 15 wounded, including the attackers. ](/news/2017/01/9/an-attack-by-several-gunmen-and-a-truck-bomb-on-a-police-checkpoint-in-el-arish-leaves-13-dead-and-15-wounded-including-the-attackers.md) _Context: Sinai insurgency_

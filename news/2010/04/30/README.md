@@ -25,7 +25,7 @@ _Context: Khalid Khawaja, Pakistan_
 The hospital evacuated hundreds of its patients and shut down all but emergency services after protesters stormed the hospital searching for soldiers. 
 
 ### [The United States Justice Department opens a criminal investigation into alleged fraud by Goldman Sachs.  ](/news/2010/04/30/the-united-states-justice-department-opens-a-criminal-investigation-into-alleged-fraud-by-goldman-sachs.md)
-_Context: Goldman Sachs, Justice Department_
+_Context: Goldman Sachs, United States Justice Department_
 
 ### [The Nigerian House of Representatives announces the creation of ten new states, five in the north and five in the south, by 2011. ](/news/2010/04/30/the-nigerian-house-of-representatives-announces-the-creation-of-ten-new-states-five-in-the-north-and-five-in-the-south-by-2011.md)
 _Context: House of Representatives, Nigeria, ten new states_

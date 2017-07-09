@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Warren Buffett's Berkshire Hathaway Inc. agrees to pay USD$9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery stepping up its pursuit of steady profits from utilities and infrastructure deals. ](/news/2017/07/7/warren-buffett-s-berkshire-hathaway-inc-agrees-to-pay-usd-9-billion-to-buy-the-parent-of-texas-power-transmission-company-oncor-electric-de.md) _Context: USD_
+1. [Berkshire Hathaway Inc. agrees to pay USD $9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery. ](/news/2017/07/7/berkshire-hathaway-inc-agrees-to-pay-usd-9-billion-to-buy-the-parent-of-texas-power-transmission-company-oncor-electric-delivery.md) _Context: USD_
 2. [Voters in Botswana go to the polls for a general election with the ruling Botswana Democratic Party of President Ian Khama winning 33 of 57 seats. ](/news/2014/10/24/voters-in-botswana-go-to-the-polls-for-a-general-election-with-the-ruling-botswana-democratic-party-of-president-ian-khama-winning-33-of-57.md) _Context: President_
 3. [China Three Gorges Corp. wins a bid for its 21% stake in EDP-Energias de Portugal SA with an offer of EUR2.69 billion ($3.51 billion), in the first of a series of sales of state-owned assets under Portugal's austerity program. This is the first time a mainland Chinese firm has acquired a significant stake in a southern European company. ](/news/2011/12/23/china-three-gorges-corp-wins-a-bid-for-its-21-stake-in-edp-energias-de-portugal-sa-with-an-offer-of-a-2-69-billion-3-51-billion-in-th.md) _Context: USD_
 4. [Oil prices hit a four-month low, with oil now at USD $93 per barrel. ](/news/2011/06/18/oil-prices-hit-a-four-month-low-with-oil-now-at-usd-93-per-barrel.md) _Context: USD_

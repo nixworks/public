@@ -7,7 +7,7 @@ A top rebel commander in eastern Ukraine has been killed in a car bombing that r
 Australian Foreign Minister Julie Bishop said on Saturday that a controversial refugee resettlement deal with the United States would go ahead, despite U.S. immigration officials postponing interviews with asylum seekers.
 
 ### [U.S. President Donald Trump and Ukrainian President Petro Poroshenko, in a telephone call,  discuss strengthening the two countries' strategic partnership with particular attention to the conflict in the Donbass, a Ukrainian region that borders Russia. ](/news/2017/02/4/u-s-president-donald-trump-and-ukrainian-president-petro-poroshenko-in-a-telephone-call-discuss-strengthening-the-two-countries-strateg.md)
-_Context: Donald Trump's, Donbass, Petro Poroshenko, Russia, Ukraine-United States relations, Ukrainian President, United States President, War in Donbass_
+_Context: Donald Trump, Donbass, Petro Poroshenko, Russia, Ukraine-United States relations, Ukrainian President, United States President, War in Donbass_
 
 ### [Romanian Prime Minister Sorin Grindeanu announces that his government will scrap its proposed decree of decriminalizing some graft offenses on Sunday. ](/news/2017/02/4/romanian-prime-minister-sorin-grindeanu-announces-that-his-government-will-scrap-its-proposed-decree-of-decriminalizing-some-graft-offenses.md)
 _Context: 2017 Romanian protests, Prime Minister, Sorin Grindeanu_

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Masked militants attack an Egyptian Army checkpoint in a village south of Rafah, North Sinai Governorate, killing at least 23 soldiers, including a high-ranking special forces colonel. ](/news/2017/07/7/masked-militants-attack-an-egyptian-army-checkpoint-in-a-village-south-of-rafah-north-sinai-governorate-killing-at-least-23-soldiers-incl.md) _Context: Egyptian Army_
+1. [Masked militants attack an Egyptian Army checkpoint in a village south of Rafah, North Sinai Governorate, killing at least 23 soldiers, including a high-ranking special forces colonel. The Islamic State of Iraq and Syria later claim responsibility. ](/news/2017/07/7/masked-militants-attack-an-egyptian-army-checkpoint-in-a-village-south-of-rafah-north-sinai-governorate-killing-at-least-23-soldiers-incl.md) _Context: Egyptian Army_
 2. [A roadside bomb kills four Egyptian Army soldiers near the town of Arish, North Sinai Governorate. ](/news/2017/03/25/a-roadside-bomb-kills-four-egyptian-army-soldiers-near-the-town-of-arish-north-sinai-governorate.md) _Context: Egyptian Army_
 3. [An Egyptian Army raid in central Sinai kills at least 14 ISIL militants. ](/news/2017/02/6/an-egyptian-army-raid-in-central-sinai-kills-at-least-14-isil-militants.md) _Context: Egyptian Army_
 4. [At least five Egyptian Army soldiers are killed by unknown gunmen in the Sinai Peninsula. ](/news/2017/01/23/at-least-five-egyptian-army-soldiers-are-killed-by-unknown-gunmen-in-the-sinai-peninsula.md) _Context: Egyptian Army_

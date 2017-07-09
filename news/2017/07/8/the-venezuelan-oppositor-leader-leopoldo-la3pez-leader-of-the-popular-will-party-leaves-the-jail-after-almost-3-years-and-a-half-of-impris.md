@@ -1,0 +1,22 @@
+### [2017-07-8](/news/2017/07/8/index.md)
+
+# The Venezuelan oppositor leader Leopoldo Lopez, leader of the Popular Will party, leaves the jail after almost 3 years and a half of imprisonment, to happen to comply house arrest with an electronic shackle. According to Venezuelan justice, this measure was taken for humanitarian reasons. He was sentenced to 13 years in prison and 9 months of prison for supposedly instigate to the violence during the 2014 anti-Government protests, although his supporters and much of the international community deny this version and consider that exist a political persecution against him. 
+
+Venezuela opposition leader Leopoldo Lopez was released from prison and placed under house arrest Saturday after more than three years in a military lockup
+
+
+### Source:
+
+1. [Andina](http://www.andina.com.pe/AGENCIA/noticia-leopoldo-lopez-bajo-arresto-domiciliario-grillete-electronico-674043.aspx)
+2. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-venezuela-opposition-house-arrest-20170708-story.html)
+
+### Related:
+
+1. [Venezuela's Supreme Tribunal of Justice upholds the 13-year, 9-month-plus prison term of Popular Will party founder Leopoldo  Lopez  for  inciting  violence, via "subliminal messages,"  at  the   2014 anti-government protests where 43 people were killed.  Yesterday, United States President Donald Trump  met with Lopez's wife, Lilian Tintori, and called on Venezuela to release Lopez immediately.   ](/news/2017/02/16/venezuela-s-supreme-tribunal-of-justice-upholds-the-13-year-9-month-plus-prison-term-of-popular-will-party-founder-leopoldo-la3pez-for-i.md) _Context: Leopoldo Lopez, Popular Will_
+2. [Venezuelan officials arrest several opposition activists, including Popular Will Party leaders,  just  days before  Thursday's scheduled national protest against the rule of President Nicolas Maduro. ](/news/2016/08/30/venezuelan-officials-arrest-several-opposition-activists-including-popular-will-party-leaders-just-days-before-thursday-s-scheduled-nat.md) _Context: Popular Will_
+3. [The opposition controlled National Assembly of Venezuela passes an amnesty bill that could potentially free over 70 opposition leaders and activists jailed during protests last year, including prominent leader Leopoldo Lopez. ](/news/2016/03/30/the-opposition-controlled-national-assembly-of-venezuela-passes-an-amnesty-bill-that-could-potentially-free-over-70-opposition-leaders-and-a.md) _Context: Leopoldo Lopez_
+4. [Venezuelan opposition leader Leopoldo Lopez is convicted and sentenced to 14 years imprisonment for allegedly inciting violence at anti-government rallies. ](/news/2015/09/10/venezuelan-opposition-leader-leopoldo-la3pez-is-convicted-and-sentenced-to-14-years-imprisonment-for-allegedly-inciting-violence-at-anti-gov.md) _Context: Leopoldo Lopez_
+5. [Venezuelan police arrest the Opposition Mayor of Caracas Antonio Ledezma without a warrant on the anniversary of the arrest of another opposition leader Leopoldo Lopez. The President of Venezuela Nicolas Maduro accused him of organizing a coup d'etat with the support of the United States but the US has denied this. ](/news/2015/02/19/venezuelan-police-arrest-the-opposition-mayor-of-caracas-antonio-ledezma-without-a-warrant-on-the-anniversary-of-the-arrest-of-another-oppos.md) _Context: Leopoldo Lopez_
+6. [2014 Venezuelan protests: Clashes continue between anti-government protesters and security forces after 41 people are arrested. ](/news/2014/03/1/2014-venezuelan-protests-clashes-continue-between-anti-government-protesters-and-security-forces-after-41-people-are-arrested.md) _Context: 2014 anti-Government protests_
+7. [2014 Venezuelan protests:22-year-old Venezuelan beauty queen Genesis Carmona is shot in the head and killed while participating in a student protest against Nicolas Maduro's socialist government. ](/news/2014/02/21/2014-venezuelan-protests-p22-year-old-venezuelan-beauty-queen-ga-c-nesis-carmona-is-shot-in-the-head-and-killed-while-participating-in-a-stude.md) _Context: 2014 anti-Government protests_
+8. [Venezuela orders the expulsion of three US consular officials amid rising tensions over anti-government protests after accusing the US of working with the opposition to undermine President Nicolas Maduro's government. ](/news/2014/02/17/venezuela-orders-the-expulsion-of-three-us-consular-officials-amid-rising-tensions-over-anti-government-protests-after-accusing-the-us-of-wo.md) _Context: 2014 anti-Government protests_

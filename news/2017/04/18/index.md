@@ -43,7 +43,7 @@ UK PM Theresa May announces plan to call snap general election on 8 June
 _Context: Hakainde Hichilema, Zambia, treason_
 
 ### [As expected, during a visit to Kenosha, Wisconsin, President Donald Trump signed an executive order requiring U.S. federal agencies to take measures aimed at protecting U.S. workers, boost protections for some U.S. products, and examine the H-1B visa program which affords foreign workers opportunities for employment in U.S. specialty fields. ](/news/2017/04/18/as-expected-during-a-visit-to-kenosha-wisconsin-president-donald-trump-signed-an-executive-order-requiring-u-s-federal-agencies-to-take.md)
-_Context: Donald Trump's, H-1B visa, Kenosha, President Trump's Executive Orders, Wisconsin_
+_Context: Donald Trump, H-1B visa, Kenosha, President Trump's Executive Orders, Wisconsin_
 
 ### [The European Commission, based on the  Organization for Security and Co-operation in Europe report, calls on Turkey to launch an investigation into allegations of referendum voting irregularities. ](/news/2017/04/18/the-european-commission-based-on-the-organization-for-security-and-co-operation-in-europe-report-calls-on-turkey-to-launch-an-investigati.md)
 The EU called on Turkey to launch an investigation into allegations of irregularities following a report stating its referendum was not genuinely democratic.

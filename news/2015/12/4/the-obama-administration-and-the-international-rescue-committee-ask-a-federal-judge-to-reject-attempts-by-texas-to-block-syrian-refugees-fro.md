@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Warren Buffett's Berkshire Hathaway Inc. agrees to pay USD$9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery stepping up its pursuit of steady profits from utilities and infrastructure deals. ](/news/2017/07/7/warren-buffett-s-berkshire-hathaway-inc-agrees-to-pay-usd-9-billion-to-buy-the-parent-of-texas-power-transmission-company-oncor-electric-de.md) _Context: Texas_
+1. [Berkshire Hathaway Inc. agrees to pay USD $9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery. ](/news/2017/07/7/berkshire-hathaway-inc-agrees-to-pay-usd-9-billion-to-buy-the-parent-of-texas-power-transmission-company-oncor-electric-delivery.md) _Context: Texas_
 2. [At least 7 people are killed in the US states of Missouri, Arkansas and Texas due to tornadoes and floods. ](/news/2017/04/29/at-least-7-people-are-killed-in-the-us-states-of-missouri-arkansas-and-texas-due-to-tornadoes-and-floods.md) _Context: Texas_
 3. [Arkansas becomes the first U.S. state since Texas in 2000 to hold two executions on the same day as executes convicted murderers Jack Jones, Jr. and Marcel Williams. ](/news/2017/04/24/arkansas-becomes-the-first-u-s-state-since-texas-in-2000-to-hold-two-executions-on-the-same-day-as-executes-convicted-murderers-jack-jones.md) _Context: Texas_
 4. [According to the United Nations High Commissioner for Refugees, the total number of refugees from Syria reaches over five million. ](/news/2017/03/30/according-to-the-united-nations-high-commissioner-for-refugees-the-total-number-of-refugees-from-syria-reaches-over-five-million.md) _Context: refugees from Syria_

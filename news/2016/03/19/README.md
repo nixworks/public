@@ -25,7 +25,7 @@ Anthony Banbury, who headed the UN mission on Ebola, said the UN had failed to u
 A growing majority of Brazilians favour impeachment of President Dilma Rousseff or her resignation, according to a survey released on Saturday by polling firm Datafolha.
 
 ### [Two dozen protesters park their cars in the middle of Shea Boulevard, and block the main road to the Phoenix suburb of Fountain Hills, Arizona, where Donald Trump's campaign rally with   former Arizona Governor Jan Brewer, and controversial sheriff Joe Arpaio was held. For hours, traffic was backed up for miles. The road was eventually cleared. Three protesters were arrested and two cars were towed from the boulevard.  ](/news/2016/03/19/two-dozen-protesters-park-their-cars-in-the-middle-of-shea-boulevard-and-block-the-main-road-to-the-phoenix-suburb-of-fountain-hills-arizo.md)
-_Context: Arizona Governor, Donald Trump's, Fountain Hills, Arizona, Jan Brewer, Joe Arpaio, Phoenix, Arizona, Republican Party presidential candidates, 2016, sheriff_
+_Context: Arizona Governor, Donald Trump, Fountain Hills, Arizona, Jan Brewer, Joe Arpaio, Phoenix, Arizona, Republican Party presidential candidates, 2016, sheriff_
 
 ## [Previous Day...](/news/2016/03/18/index.md)
 
