@@ -1,12 +1,12 @@
 ## [2017-07-10](/news/2017/07/10/index.md)
 
-### [ Iraqi Prime Minister Haider al-Abadi declares the battle for Mosul ended as almost all ISIL militants are defeated. ](/news/2017/07/10/iraqi-prime-minister-haider-al-abadi-declares-the-battle-for-mosul-ended-as-almost-all-isil-militants-are-defeated.md)
+### [Iraqi Prime Minister Haider al-Abadi declares the battle for Mosul over, after the majority of ISIL militants were defeated. ](/news/2017/07/10/iraqi-prime-minister-haider-al-abadi-declares-the-battle-for-mosul-over-after-the-majority-of-isil-militants-were-defeated.md)
 The battle has taken nine months, leaving large areas in ruins and thousands of civilians dead.
 
-### [At least 7 pilgrims, including 5 women, were killed and 15 injured in Terror attack south Kashmir's Anantnag on the 11th day of the Amarnath Yatra.](/news/2017/07/10/at-least-7-pilgrims-including-5-women-were-killed-and-15-injured-in-terror-attack-south-kashmir-s-anantnag-on-the-11th-day-of-the-amarnath.md)
+### [At least 7 pilgrims, including 5 women, are killed and 15 injured in a terror attack in south Kashmir's Anantnag, on the 11th day of the Amarnath Yatra. ](/news/2017/07/10/at-least-7-pilgrims-including-5-women-are-killed-and-15-injured-in-a-terror-attack-in-south-kashmir-s-anantnag-on-the-11th-day-of-the-ama.md)
 Seven pilgrims on the Amarnath Yatra - six of those women - were killed today in a terror attack in Anantnag at about 8:30 pm. At least 15 people were injured in one the worst terror strikes in the state of Jammu and Kashmir.
 
-### [ A large fire breaks out at the Camden Markets in North West London, with over 70 firefighters and 10 firetrucks attending the scene. ](/news/2017/07/10/a-large-fire-breaks-out-at-the-camden-markets-in-north-west-london-with-over-70-firefighters-and-10-firetrucks-attending-the-scene.md)
+### [A large fire breaks out at the Camden Markets in North West London, with over 70 firefighters and 10 firetrucks attending the scene. ](/news/2017/07/10/a-large-fire-breaks-out-at-the-camden-markets-in-north-west-london-with-over-70-firefighters-and-10-firetrucks-attending-the-scene.md)
 A massive fire has broken out at a London market and dozens of firefighters are at the scene.
 
 ### [ Amid a stand-off between India and China over the disputed territory of Doklam which is claimed by Bhutan, the Indian National Congress denies the meeting of Rahul Gandhi with the Chinese ambassador to India. ](/news/2017/07/10/amid-a-stand-off-between-india-and-china-over-the-disputed-territory-of-doklam-which-is-claimed-by-bhutan-the-indian-national-congress-den.md)

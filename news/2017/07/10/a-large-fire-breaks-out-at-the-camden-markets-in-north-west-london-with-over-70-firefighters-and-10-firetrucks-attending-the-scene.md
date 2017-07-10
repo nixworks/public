@@ -1,6 +1,6 @@
 ### [2017-07-10](/news/2017/07/10/index.md)
 
-#  A large fire breaks out at the Camden Markets in North West London, with over 70 firefighters and 10 firetrucks attending the scene. 
+# A large fire breaks out at the Camden Markets in North West London, with over 70 firefighters and 10 firetrucks attending the scene. 
 
 A massive fire has broken out at a London market and dozens of firefighters are at the scene.
 
