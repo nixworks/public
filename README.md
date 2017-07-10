@@ -3,6 +3,9 @@
 ### [ Iraqi Prime Minister Haider al-Abadi declares the battle for Mosul ended as almost all ISIL militants are defeated. ](/news/2017/07/10/iraqi-prime-minister-haider-al-abadi-declares-the-battle-for-mosul-ended-as-almost-all-isil-militants-are-defeated.md)
 The battle has taken nine months, leaving large areas in ruins and thousands of civilians dead.
 
+### [At least 7 pilgrims, including 5 women, were killed and 15 injured in Terror attack south Kashmir's Anantnag on the 11th day of the Amarnath Yatra.](/news/2017/07/10/at-least-7-pilgrims-including-5-women-were-killed-and-15-injured-in-terror-attack-south-kashmir-s-anantnag-on-the-11th-day-of-the-amarnath.md)
+Seven pilgrims on the Amarnath Yatra - six of those women - were killed today in a terror attack in Anantnag at about 8:30 pm. At least 15 people were injured in one the worst terror strikes in the state of Jammu and Kashmir.
+
 ### [ A large fire breaks out at the Camden Markets in North West London, with over 70 firefighters and 10 firetrucks attending the scene. ](/news/2017/07/10/a-large-fire-breaks-out-at-the-camden-markets-in-north-west-london-with-over-70-firefighters-and-10-firetrucks-attending-the-scene.md)
 A massive fire has broken out at a London market and dozens of firefighters are at the scene.
 
@@ -42,7 +45,7 @@ An explosion Saturday at a Los Angeles Department of Water and Power plant in th
 ### [The summit announces it is unable to gain agreement on climate change between the United States and the other 19 members of this international forum. ](/news/2017/07/8/the-summit-announces-it-is-unable-to-gain-agreement-on-climate-change-between-the-united-states-and-the-other-19-members-of-this-internation.md)
 _Context: 2017 G20 Hamburg summit, United States, climate change_
 
-### [A shooting at a gender reveal party in Cincinnati kills 1 and injures 8. ](/news/2017/07/8/a-shooting-at-a-gender-reveal-party-in-cincinnati-kills-1-and-injures-8.md)
+### [A shooting at a gender reveal party in Cincinnati kills 1 and injures 8. The unborn child, revealed to be a boy, also dies. ](/news/2017/07/8/a-shooting-at-a-gender-reveal-party-in-cincinnati-kills-1-and-injures-8-the-unborn-child-revealed-to-be-a-boy-also-dies.md)
 _Context: Cincinnati, Crime in Cincinnati, gender reveal_
 
 ### [Venezuelan opposition leader Leopoldo Lopez, leader of the Popular Will party, is granted house arrest after over three years of imprisonment. ](/news/2017/07/8/venezuelan-opposition-leader-leopoldo-la3pez-leader-of-the-popular-will-party-is-granted-house-arrest-after-over-three-years-of-imprisonme.md)
