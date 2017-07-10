@@ -1,6 +1,6 @@
 ## [News](/news/2017/07/10/index.md)
 
-### [Monday midnight morning, a large fire breaks out at the Camden Markets in North West London. More than five dozen firefighters attend the scene. ](/news/2017/07/10/monday-midnight-morning-a-large-fire-breaks-out-at-the-camden-markets-in-north-west-london-more-than-five-dozen-firefighters-attend-the-sc.md)
+### [ Late Sunday night, a large fire broke out at the Camden Markets in North West London, with over 70 firefighters and 10 firetrucks attending the scene. ](/news/2017/07/10/late-sunday-night-a-large-fire-broke-out-at-the-camden-markets-in-north-west-london-with-over-70-firefighters-and-10-firetrucks-attending.md)
 A massive fire has broken out at a London market and dozens of firefighters are at the scene.
 
 ### [ Amid a stand-off between India and China over the disputed territory of Doklam which is claimed by Bhutan, the Indian National Congress denies the meeting of Rahul Gandhi with the Chinese ambassador to India. ](/news/2017/07/10/amid-a-stand-off-between-india-and-china-over-the-disputed-territory-of-doklam-which-is-claimed-by-bhutan-the-indian-national-congress-den.md)
@@ -22,6 +22,9 @@ It joins the likes of the Grand Canyon and Machu Picchu as it gets heritage stat
 
 ### [U.S. President Donald Trump says he and Russian President Vladimir Putin "discussed forming an impenetrable cybersecurity unit so that election hacking, and many other negative things, will be guarded and safe." Trump later says he does not think this will happen. ](/news/2017/07/9/u-s-president-donald-trump-says-he-and-russian-president-vladimir-putin-discussed-forming-an-impenetrable-cybersecurity-unit-so-that-elect.md)
 Donald Trump said a cybersecurity unit with Russia would not happen - hours after proposing the idea.
+
+### [The chief suspect in an attack on June 21, 2017 turns himself in to the police. ](/news/2017/07/9/the-chief-suspect-in-an-attack-on-june-21-2017-turns-himself-in-to-the-police.md)
+Two cousins suffered &quot;life-changing injuries&quot; in an acid attack in east London.
 
 ---
 

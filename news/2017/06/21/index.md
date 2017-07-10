@@ -21,6 +21,9 @@ According to WKRG, the little boy suffered severe facial trauma after possibly b
 ### [A police officer is stabbed in the neck at Bishop International Airport in Flint, Michigan. The FBI is investigating the incident as terrorism. The suspect was arrested on scene and charged with a federal count of violence at an international airport. The victim survived. ](/news/2017/06/21/a-police-officer-is-stabbed-in-the-neck-at-bishop-international-airport-in-flint-michigan-the-fbi-is-investigating-the-incident-as-terrori.md)
 The stabbing of a police officer at a Michigan airport on Wednesday is being investigated by the FBI as a possible terror attack, officials said.
 
+### [Two people are injured in an acid attack in Beckton, east London. ](/news/2017/06/21/two-people-are-injured-in-an-acid-attack-in-beckton-east-london.md)
+Resham Khan had celebrated her 21st birthday with her cousin when they were attacked in their car.
+
 ### [An Imam in Australia who married a 14 year old to a 34 year old will not face jail time despite conviction. ](/news/2017/06/21/an-imam-in-australia-who-married-a-14-year-old-to-a-34-year-old-will-not-face-jail-time-despite-conviction.md)
 Ibrahim Omerdic had presided over the marriage of the teenage girl to a man aged 34, telling her she must obey her new husband
 
