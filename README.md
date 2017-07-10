@@ -1,5 +1,8 @@
 ## [News](/news/2017/07/10/index.md)
 
+### [ Iraqi Prime Minister Haider al-Abadi declares the battle for Mosul ended as almost all ISIL militants are defeated. ](/news/2017/07/10/iraqi-prime-minister-haider-al-abadi-declares-the-battle-for-mosul-ended-as-almost-all-isil-militants-are-defeated.md)
+The battle has taken nine months, leaving large areas in ruins and thousands of civilians dead.
+
 ### [ A large fire breaks out at the Camden Markets in North West London, with over 70 firefighters and 10 firetrucks attending the scene. ](/news/2017/07/10/a-large-fire-breaks-out-at-the-camden-markets-in-north-west-london-with-over-70-firefighters-and-10-firetrucks-attending-the-scene.md)
 A massive fire has broken out at a London market and dozens of firefighters are at the scene.
 
@@ -23,7 +26,7 @@ It joins the likes of the Grand Canyon and Machu Picchu as it gets heritage stat
 ### [U.S. President Donald Trump says he and Russian President Vladimir Putin "discussed forming an impenetrable cybersecurity unit so that election hacking, and many other negative things, will be guarded and safe." Trump later says he does not think this will happen. ](/news/2017/07/9/u-s-president-donald-trump-says-he-and-russian-president-vladimir-putin-discussed-forming-an-impenetrable-cybersecurity-unit-so-that-elect.md)
 Donald Trump said a cybersecurity unit with Russia would not happen - hours after proposing the idea.
 
-### [The chief suspect in an attack on June 21, 2017 turns himself in to the police. ](/news/2017/07/9/the-chief-suspect-in-an-attack-on-june-21-2017-turns-himself-in-to-the-police.md)
+### [The chief suspect in an attack on June 21, 2017, turns himself in to the police. ](/news/2017/07/9/the-chief-suspect-in-an-attack-on-june-21-2017-turns-himself-in-to-the-police.md)
 Two cousins suffered &quot;life-changing injuries&quot; in an acid attack in east London.
 
 ---

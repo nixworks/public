@@ -1,6 +1,6 @@
 ### [2017-07-9](/news/2017/07/9/index.md)
 
-# The chief suspect in an attack on June 21, 2017 turns himself in to the police. 
+# The chief suspect in an attack on June 21, 2017, turns himself in to the police. 
 
 Two cousins suffered &quot;life-changing injuries&quot; in an acid attack in east London.
 
