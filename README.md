@@ -20,6 +20,9 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [UNESCO declares the Lake District in North West England and Iran's City of Yazd as world heritage sites. ](/news/2017/07/9/unesco-declares-the-lake-district-in-north-west-england-and-iran-s-city-of-yazd-as-world-heritage-sites.md)
 It joins the likes of the Grand Canyon and Machu Picchu as it gets heritage status.
 
+### [U.S. President Donald Trump says he and Russian President Vladimir Putin "discussed forming an impenetrable cybersecurity unit so that election hacking, and many other negative things, will be guarded and safe." Trump later says he does not think this will happen. ](/news/2017/07/9/u-s-president-donald-trump-says-he-and-russian-president-vladimir-putin-discussed-forming-an-impenetrable-cybersecurity-unit-so-that-elect.md)
+Donald Trump said a cybersecurity unit with Russia would not happen - hours after proposing the idea.
+
 ---
 
 ## [Day Before Yesterday](/news/2017/07/8/index.md)
@@ -32,6 +35,9 @@ An explosion Saturday at a Los Angeles Department of Water and Power plant in th
 
 ### [The summit announces it is unable to gain agreement on climate change between the United States and the other 19 members of this international forum. ](/news/2017/07/8/the-summit-announces-it-is-unable-to-gain-agreement-on-climate-change-between-the-united-states-and-the-other-19-members-of-this-internation.md)
 _Context: 2017 G20 Hamburg summit, United States, climate change_
+
+### [A shooting at a gender reveal party in Cincinnati kills 1 and injures 8. ](/news/2017/07/8/a-shooting-at-a-gender-reveal-party-in-cincinnati-kills-1-and-injures-8.md)
+_Context: Cincinnati, Crime in Cincinnati, gender reveal_
 
 ### [Venezuelan opposition leader Leopoldo Lopez, leader of the Popular Will party, is granted house arrest after over three years of imprisonment. ](/news/2017/07/8/venezuelan-opposition-leader-leopoldo-la3pez-leader-of-the-popular-will-party-is-granted-house-arrest-after-over-three-years-of-imprisonme.md)
 _Context: Leopoldo Lopez, Popular Will, Venezuelan_
