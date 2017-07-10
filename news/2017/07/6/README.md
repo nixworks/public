@@ -7,7 +7,7 @@ _Context: Krakow, Machu Picchu, Poland, UNESCO, list of endangered heritage site
 (UPDATED - 6:28 a.m., July 7, 2017) MANILA, Philippines - An earthquake of magnitude 6.5 struck Leyte on Thursday, leaving at least two persons dead and many others injured.
 
 ### [Despite an ongoing stand-off between China and India over the Doklam tri-junction which is claimed by both China and Bhutan, China claims that there has been a "basic consensus" with Bhutan over the past 24 months that Doklam belongs to China and that there is no dispute between the two countries. ''[http://economictimes.indiatimes.com/news/defence/no-dispute-with-bhutan-in-doklam-china/articleshow/59456533.cms (The Economic Times)]''](/news/2017/07/6/despite-an-ongoing-stand-off-between-china-and-india-over-the-doklam-tri-junction-which-is-claimed-by-both-china-and-bhutan-china-claims-th.md)
-_Context: Bhutan, Bhutan-China relations, China, China-India relations, Doklam tri-junction, India_
+_Context: Bhutan, Bhutan-China relations, China, China-India relations, Doklam, India_
 
 ### [U.S. President Donald Trump visits Warsaw, where he speaks of defeating radical Islamist terrorism, pledges to uphold the North Atlantic Treaty, and urges Russia to "join the community of responsible nations." ](/news/2017/07/6/u-s-president-donald-trump-visits-warsaw-where-he-speaks-of-defeating-radical-islamist-terrorism-pledges-to-uphold-the-north-atlantic-tre.md)
 An enthusiastic Polish crowd chanted President Donald Trump&#8217;s name and &#8220;USA USA USA&#8221; as the American president gave a valentine of a speech in Warsaw&#8217;s Krasinski Square by a…
