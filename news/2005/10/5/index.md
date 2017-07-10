@@ -16,7 +16,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 _Context: Adam, Bible, Creation, England, Garden of Eden, Roman Catholic, Scotland, Wales_
 
 ### [ Russian President Vladimir Putin in a ceremony at 10 Downing Street awards the Order of Maritime Service to six British military and civilian personnel responsible for the rescue of the mini-submarine AS-28 off the Kamchatka Peninsula. ](/news/2005/10/5/russian-president-vladimir-putin-in-a-ceremony-at-10-downing-street-awards-the-order-of-maritime-service-to-six-british-military-and-civili.md)
-_Context: 10 Downing Street, AS-28, Kamchatka Peninsula, Order of Maritime Service, Russia, Russia President, United Kingdom, Vladimir Putin_
+_Context: 10 Downing Street, AS-28, Kamchatka Peninsula, Order of Maritime Service, President of Russia, Russia, United Kingdom, Vladimir Putin_
 
 ### [ The Royal Swedish Academy of Sciences awards Yves Chauvin, Robert H. Grubbs, and Richard R. Schrock the 2005 Nobel Prize in Chemistry, "for the development of the metathesis method in organic synthesis". ](/news/2005/10/5/the-royal-swedish-academy-of-sciences-awards-yves-chauvin-robert-h-grubbs-and-richard-r-schrock-the-2005-nobel-prize-in-chemistry-for.md)
 _Context: Nobel Prize in Chemistry, Richard R. Schrock, Robert H. Grubbs, Royal Swedish Academy of Sciences, Yves Chauvin, metathesis, organic synthesis_

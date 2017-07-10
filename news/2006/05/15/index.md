@@ -1,7 +1,7 @@
 ## [2006-05-15](/news/2006/05/15/index.md)
 
 ### [ United States President George W. Bush gives a speech proposing major immigration reform in the United States. ](/news/2006/05/15/united-states-president-george-w-bush-gives-a-speech-proposing-major-immigration-reform-in-the-united-states.md)
-_Context: George W. Bush, U.S. President, United States, a speech proposing major immigration reform_
+_Context: George W. Bush, United States, United States President, a speech proposing major immigration reform_
 
 ### [ Mount Merapi erupts, according to the national Indonesian news agency. ](/news/2006/05/15/mount-merapi-erupts-according-to-the-national-indonesian-news-agency.md)
 _Context: Indonesia, Mounts Merapi, erupts_

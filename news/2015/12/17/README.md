@@ -46,7 +46,7 @@ The former Seoul bureau chief of the Japanese daily Sankei Shimbun was found inn
 A new report shows the Navy tried to cover-up a 2012 incident in which SEAL Team 2 joined local Afghan police in the abuse of numerous, and killing of one Afghan detainee.
 
 ### [Russian President Vladimir Putin calls U.S. Republican presidential candidate Donald Trump, "a very colorful person. Talented, without any doubt" as well as an "absolute leader" in the race for the presidency. ](/news/2015/12/17/russian-president-vladimir-putin-calls-u-s-republican-presidential-candidate-donald-trump-a-very-colorful-person-talented-without-any-d.md)
-_Context: Donald Trump, R, Russia, Russia President, Trump's campaign team, United States, Vladimir Putin_
+_Context: Donald Trump, President of Russia, R, Russia, Trump's campaign team, United States, Vladimir Putin_
 
 ## [Previous Day...](/news/2015/12/16/index.md)
 

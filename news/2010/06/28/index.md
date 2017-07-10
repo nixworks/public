@@ -22,7 +22,7 @@ A look at the life and career of US Senator Robert Byrd, who has died aged 92.
 Ahmadinejad says negotiations over nuclear programme will resume only in late August.
 
 ### [World leaders at the G20 summit agree to cut their budget deficits in half by 2013, while US President Obama urges continued spending to support economic growth. ](/news/2010/06/28/world-leaders-at-the-g20-summit-agree-to-cut-their-budget-deficits-in-half-by-2013-while-us-president-obama-urges-continued-spending-to-sup.md)
-_Context: Barack Obama, G20 summit, U.S. President, budget deficit_
+_Context: Barack Obama, G20 summit, United States President, budget deficit_
 
 ### [Toronto police arrest over 600 people outside the G20 summit, with police using rubber bullets and tear gas on protestors. ](/news/2010/06/28/toronto-police-arrest-over-600-people-outside-the-g20-summit-with-police-using-rubber-bullets-and-tear-gas-on-protestors.md)
 ### [Rwandan authorities arrest two people in connection with the killing of a journalist critical of Rwandan President Paul Kagame, and deny complicity in the murder. ](/news/2010/06/28/rwandan-authorities-arrest-two-people-in-connection-with-the-killing-of-a-journalist-critical-of-rwandan-president-paul-kagame-and-deny-com.md)

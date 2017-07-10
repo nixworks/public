@@ -19,7 +19,7 @@ _Context: 2012 presidential election, Nicolas Sarkozy, President of France_
 The U.S. Court of Appeals for the 9th Circuit asked the Justice Department and lawyers for the states of Washington and Minnesota to argue the matter Tuesday.
 
 ### [President of Russia Vladimir Putin signs into law the decriminalization of domestic violence. ](/news/2017/02/7/president-of-russia-vladimir-putin-signs-into-law-the-decriminalization-of-domestic-violence.md)
-_Context: Russia President, Vladimir Putin, Women in Russia, decriminalization, domestic violence_
+_Context: President of Russia, Vladimir Putin, Women in Russia, decriminalization, domestic violence_
 
 ### [Incumbent Australian Senator Cory Bernardi defects from the centre-right Liberal Party of Australia to establish his own minor party, the Australian Conservatives. ](/news/2017/02/7/incumbent-australian-senator-cory-bernardi-defects-from-the-centre-right-liberal-party-of-australia-to-establish-his-own-minor-party-the-au.md)
 South Australian senator Cory Bernardi officially quits the Liberal Party to establish the Australian Conservatives.

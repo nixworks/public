@@ -7,7 +7,7 @@ _Context: Atlantic Ocean, Bolivia, Brazil, Chile, Iquique, Pacific, Santos, Sout
 _Context: Indonesia, Islam, Islamic terrorism, Jemaah Islamiyah_
 
 ### [ President of Russia Vladimir Putin agrees to become Prime Minister after his term as  president ends. ](/news/2007/12/17/president-of-russia-vladimir-putin-agrees-to-become-prime-minister-after-his-term-as-president-ends.md)
-_Context: Prime Minister, Russia, Russia President, Vladimir Putin_
+_Context: President of Russia, Prime Minister, Russia, Vladimir Putin_
 
 ### [ Russia delivers its first shipment of nuclear fuel to the Bushehr nuclear reactor in Iran. ](/news/2007/12/17/russia-delivers-its-first-shipment-of-nuclear-fuel-to-the-bushehr-nuclear-reactor-in-iran.md)
 _Context: Bushehr, Iran, Russia, nuclear fuel, nuclear reactor_

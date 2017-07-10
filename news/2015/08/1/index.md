@@ -13,7 +13,7 @@ _Context: Internal conflict in Peru, Peruvian Army, Shining Path_
 _Context: Hirohito, Japan, Japanese emperor, speech, unconditional surrender_
 
 ### [The President of Russia, Vladimir Putin, places the ancient historic site of Chersonesus under the control of the Russian federal government after a local government made a controversial appointment as site manager. ](/news/2015/08/1/the-president-of-russia-vladimir-putin-places-the-ancient-historic-site-of-chersonesus-under-the-control-of-the-russian-federal-government.md)
-_Context: Chersonesus, Russia President, Russian Government, Vladimir Putin_
+_Context: Chersonesus, President of Russia, Russian Government, Vladimir Putin_
 
 ### [Puerto Rico fails to make a $58 million bond repayment due today. Gubernatorial Chief of Staff Victor Suarez said the government still hopes to reach an agreement with creditors on renegotiating its debts. ](/news/2015/08/1/puerto-rico-fails-to-make-a-58-million-bond-repayment-due-today-gubernatorial-chief-of-staff-vactor-sua-rez-said-the-government-still-hop.md)
 _Context: Gubernatorial Chief of Staff, Puerto Rico, Victor Suarez_

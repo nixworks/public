@@ -1,7 +1,7 @@
 ## [2007-01-24](/news/2007/01/24/index.md)
 
 ### [ In a speech at Brandeis University, former United States President Jimmy Carter apologizes for the wording of a sentence in his recently published book, ''Palestine: Peace Not Apartheid''. He referred to the wording as "stupid" and subsequent reprintings will change it.  Despite the book's controversy, the audience received him with a standing ovation. ](/news/2007/01/24/in-a-speech-at-brandeis-university-former-united-states-president-jimmy-carter-apologizes-for-the-wording-of-a-sentence-in-his-recently-pu.md)
-_Context: Brandeis University, Jimmy Carter, Palestine: Peace Not Apartheid, U.S. President_
+_Context: Brandeis University, Jimmy Carter, Palestine: Peace Not Apartheid, United States President_
 
 ### [ Thomas Lepoutre announced his gay pride movement today](/news/2007/01/24/thomas-lepoutre-announced-his-gay-pride-movement-today.md)
 ### [ Ecuador's Defense Minister Guadalupe Larriva is killed along with three pilots and her daughter in a crash involving two helicopters. Larriva was the first woman to serve as the country's defense minister. ](/news/2007/01/24/ecuador-s-defense-minister-guadalupe-larriva-is-killed-along-with-three-pilots-and-her-daughter-in-a-crash-involving-two-helicopters-larri.md)

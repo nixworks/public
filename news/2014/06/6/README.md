@@ -4,7 +4,7 @@
 _Context: Abdullah Abdullah, Afghan presidential election, 2014, National Coalition of Afghanistan, War in Afghanistan (2001-present)_
 
 ### [2014 pro-Russian conflict in Ukraine:Russian President Vladimir Putin and Ukrainian President-elect Petro Poroshenko call for a quick and peaceful end to the violence in eastern Ukraine. ](/news/2014/06/6/2014-pro-russian-conflict-in-ukraine-prussian-president-vladimir-putin-and-ukrainian-president-elect-petro-poroshenko-call-for-a-quick-and-p.md)
-_Context: 2014 pro-Russian conflict in Ukraine, Petro Poroshenko, Russia President, Ukrainian President-elect, Vladimir Putin, eastern Ukraine_
+_Context: 2014 pro-Russian conflict in Ukraine, Petro Poroshenko, President of Russia, Ukrainian President-elect, Vladimir Putin, eastern Ukraine_
 
 ### [Ashiqullah Mehsud, a senior commander in the Tehreek-i-Taliban Pakistan, is shot and killed by unknown assailants, speculated to be from the Mehsud splinter group, in the village of Urmuz in the North Waziristan region of Pakistan.  ](/news/2014/06/6/ashiqullah-mehsud-a-senior-commander-in-the-tehreek-i-taliban-pakistan-is-shot-and-killed-by-unknown-assailants-speculated-to-be-from-the.md)
 _Context: Mehsud, North Waziristan, Pakistan, Tehreek-i-Taliban Pakistan, Urmuz_

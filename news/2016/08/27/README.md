@@ -7,7 +7,7 @@ Eight soldiers are killed in an ambush in northern Paraguay in an attack blamed 
 _Context: Diyarbakir, Diyarbakir Airport, Kurdish, Kurdish-Turkish conflict (2015-present), Turkey_
 
 ### [A fire at a warehouse in Moscow, Russia, kills at least 17 people, all migrant workers from Kyrgyzstan.  The Investigative Committee of Russia, which reports directly to President Vladimir Putin, says a criminal inquiry has been launched. ](/news/2016/08/27/a-fire-at-a-warehouse-in-moscow-russia-kills-at-least-17-people-all-migrant-workers-from-kyrgyzstan-the-investigative-committee-of-russ.md)
-_Context: Investigative Committee of Russia, Kyrgyzstan, Moscow, Russia, Russia President, Vladimir Putin_
+_Context: Investigative Committee of Russia, Kyrgyzstan, Moscow, President of Russia, Russia, Vladimir Putin_
 
 ### [  The opposition Australian Labor Party defeats the governing Country Liberal Party in a landslide, reducing the CLP to just two seats. ](/news/2016/08/27/the-opposition-australian-labor-party-defeats-the-governing-country-liberal-party-in-a-landslide-reducing-the-clp-to-just-two-seats.md)
 Outgoing chief minister Adam Giles delivers a succinct obituary for his one-term government, which had its 2012 16-seat win cut to two seats

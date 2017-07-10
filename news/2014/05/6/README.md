@@ -10,7 +10,7 @@ Cornelius Gurlitt, the German who was found to have hoarded more than 1,400 work
 _Context: Maria Lassnig_
 
 ### [Monica Lewinsky releases a book recalling her affair with then United States President Bill Clinton. ](/news/2014/05/6/monica-lewinsky-releases-a-book-recalling-her-affair-with-then-united-states-president-bill-clinton.md)
-_Context: Bill Clinton, Monica Lewinsky, U.S. President, affair_
+_Context: Bill Clinton, Monica Lewinsky, United States President, affair_
 
 ### [Merck & Co Inc announces plans to sell its consumer business to Bayer AG of Germany for $14 billion. ](/news/2014/05/6/merck-co-inc-announces-plans-to-sell-its-consumer-business-to-bayer-ag-of-germany-for-14-billion.md)
 _Context: Bayer AG, Germany, Merck & Co._
@@ -25,7 +25,7 @@ Thai PM Yingluck Shinawatra in court for hearing that may lead to her dismissal 
 _Context: 276 girls kidnapped from northern Nigeria, Boko Haram_
 
 ### [Russian President Vladimir Putin signs into law a bill that bans profanity at arts, cultural and entertainment events.  ](/news/2014/05/6/russian-president-vladimir-putin-signs-into-law-a-bill-that-bans-profanity-at-arts-cultural-and-entertainment-events.md)
-_Context: Russia President, Vladimir Putin_
+_Context: President of Russia, Vladimir Putin_
 
 ### [Six people are injured in a knife attack at a Chinese train station in Guangzhou.  ](/news/2014/05/6/six-people-are-injured-in-a-knife-attack-at-a-chinese-train-station-in-guangzhou.md)
 At least six people are injured in a knife attack at a station in Guangzhou, Chinese officials say, in the third such attack on a transport hub in three months.

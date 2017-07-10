@@ -25,7 +25,7 @@ Colossal storage reaches new milestone with a drive that holds 1000 gigabytes.
 _Context: Commodore, Josefa Iloilo, Prime Minister, Voreqe Bainimarama, coup in 2006_
 
 ### [ United States President George W. Bush will nominate Zalmay Khalilzad, the U.S. ambassador to Iraq, to replace Alejandro Daniel Wolff as the U.S. ambassador to the United Nations. If Khalilzad is confirmed by the Senate, he will be the first Muslim to serve in the position, and he will continue to be the highest serving Muslim American official in the U.S. government. ](/news/2007/01/5/united-states-president-george-w-bush-will-nominate-zalmay-khalilzad-the-u-s-ambassador-to-iraq-to-replace-alejandro-daniel-wolff-as-th.md)
-_Context: Alejandro Daniel Wolff, George W. Bush, Senator, U.S. President, U.S. ambassador to Iraq, U.S. ambassador to the United Nations, U.S. government, Zalmay Khalilzad_
+_Context: Alejandro Daniel Wolff, George W. Bush, Senator, U.S. ambassador to Iraq, U.S. ambassador to the United Nations, U.S. government, United States President, Zalmay Khalilzad_
 
 ### [ Australia beats England by ten wickets in the final Ashes cricket test match. The 5-0 series whitewash is only the second in history, the previous being in the 1920-1921 series. It is the final test match for Australian team members Shane Warne, Glenn McGrath and Justin Langer. ](/news/2007/01/5/australia-beats-england-by-ten-wickets-in-the-final-ashes-cricket-test-match-the-5-0-series-whitewash-is-only-the-second-in-history-the-p.md)
 _Context: Ashes, Australia, England, Glenn McGrath, Justin Langer, Shane Warne, Test, cricketer, whitewash_

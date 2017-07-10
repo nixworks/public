@@ -28,7 +28,7 @@ _Context: Urumqi, Uyghur_
 By Emma Amaize LAGOSÂ -Â MOVEMENT for the Emancipation of the Niger-Delta (MEND) yesterday switched its ongoing offensive, codenamed Hurricane Moses outside the Niger-Delta region, setting ablaze the Atlas Cove Jetty in Lagos state. The groupâ€™s spokesman, Jomo Gbomo who confirmed the unparalleled attack in an online statement on Sunday said, â€œThe depot and loadingRead More
 
 ### [ Russian President Dmitry Medvedev makes his first visit to South Ossetia. ](/news/2009/07/13/russian-president-dmitry-medvedev-makes-his-first-visit-to-south-ossetia.md)
-_Context: Dmitry Medvedev, Russia, Russia President, South Ossetia_
+_Context: Dmitry Medvedev, President of Russia, Russia, South Ossetia_
 
 ### [ John Demjanjuk is charged with 27,900 counts of accessory to murder in World War II at a court in Germany. ](/news/2009/07/13/john-demjanjuk-is-charged-with-27-900-counts-of-accessory-to-murder-in-world-war-ii-at-a-court-in-germany.md)
 _Context: Germany, John Demjanjuk, World War II, accessory to murder_
