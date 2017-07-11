@@ -6,6 +6,9 @@ Turkish authorities have ordered the arrest of 105 people working in information
 ### [According to the Turkish Army, its overnight air strike in Dargecit killed eleven militants from the Kurdistan Workers' Party. ](/news/2017/07/11/according-to-the-turkish-army-its-overnight-air-strike-in-dargeassit-killed-eleven-militants-from-the-kurdistan-workers-party.md)
 Turkish warplanes struck Kurdish militant targets in two areas of southeast Turkey overnight, killing 11 Kurdistan Workers Party (PKK) fighters, the army said on Tuesday.
 
+### [The Syrian Observatory for Human Rights says ISIL leader Abu Bakr al-Baghdadi is confirmed dead, according to information from tribal leaders close to ISIL in the Deir ez-Zor Governorate. In June, Russia said it had "most likely" killed al-Baghdadi and several other high profile ISIL leaders in an airstrike but provided no evidence. ](/news/2017/07/11/the-syrian-observatory-for-human-rights-says-isil-leader-abu-bakr-al-baghdadi-is-confirmed-dead-according-to-information-from-tribal-leader.md)
+Isis leader Abu Bakr al-Baghdadi has been confirmed killed, war monitor the Syrian Observatory for Human Rights (SOHR) has said. &quot;(We have) confirmed information from leaders, including one of the first rank, in [Isis territory] in the eastern countryside of Deir Ezzor,&quot; director of the UK-based group Rami Abdulrahman told Reuters on Tuesday.
+
 ### [The death toll from recent torrential rain and flooding in Kyushu in southern Japan  rises to 25. ](/news/2017/07/11/the-death-toll-from-recent-torrential-rain-and-flooding-in-kyushu-in-southern-japan-rises-to-25.md)
 _Context: Japan, Kyushu_
 

@@ -34,7 +34,7 @@ San Francisco&#39;s police chief has resigned at the request of the mayor hours 
 _Context: Accession of Montenegro to NATO, Milo Dukanovic, Montenegro, NATO, Prime Minister, membership_
 
 ### [Decommunization in Ukraine:Ukraine's Parliament, the ''Verkhovna Rada'', decides that the country's third largest city, Dnipropetrovsk, be renamed Dnipro as part of the decommunization drive. ](/news/2016/05/19/decommunization-in-ukraine-pukraine-s-parliament-the-verkhovna-rada-decides-that-the-country-s-third-largest-city-dnipropetrovsk-be.md)
-_Context: Dnipro, Dnipropetrovsk, Ukrainian, Verkhovna Rada, decommunization_
+_Context: Dnipropetrovsk, Ukrainian, Verkhovna Rada, decommunization_
 
 ### [  In the Philippine general election, the Liberal Party emerges as the party with a plurality of seats in the Philippine Senate election, 2016 and Philippine House of Representatives elections, 2016. ](/news/2016/05/19/in-the-philippine-general-election-the-liberal-party-emerges-as-the-party-with-a-plurality-of-seats-in-the-philippine-senate-election-20.md)
 _Context: Liberal Party, Philippine House of Representatives elections, 2016, Philippine Senate election, 2016, Philippine general election, 2016_
