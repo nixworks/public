@@ -1,13 +1,14 @@
 ### [2017-07-11](/news/2017/07/11/index.md)
 
-# The U.S. Department of Homeland Security plans to restrict student visa holders from staying in the United States for over a year. Most people affected are from China and India, where most exploiters of the visa originate from.  
+# The U.S. Department of Homeland Security plans to restrict student visa holders from staying in the United States for over a year. Most people affected are from China and India, where most exploiters of the visa originate.  
 
-Senior officials are discussing whether to require foreignors to reapply each year for permission to continue studies at U.S. universities.
+The number of freshman admission offers to -in-state students declined 1.7 percent to 69,972 but UC officials say they still expect a rise in actual enrollment. Meanwhile the offers to students from other states and nations were up 4 percent in the last year before new enrollment limits on them go into effect.
 
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/local/overseas-students-would-face-close-scrutiny-under-proposal-floated-at-dhs/2017/07/10/393b5cc0-6282-11e7-a4f7-af34fc1d9d39_story.html)
+1. [Ed Source](https://edsource.org/2017/uc-admits-more-students-from-outside-california-but-officials-expect-more-state-residents-will-enroll/584321)
+2. [The Washington Post](https://www.washingtonpost.com/local/overseas-students-would-face-close-scrutiny-under-proposal-floated-at-dhs/2017/07/10/393b5cc0-6282-11e7-a4f7-af34fc1d9d39_story.html)
 
 ### Related:
 
