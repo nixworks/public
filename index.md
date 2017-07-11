@@ -1,16 +1,16 @@
 ## [News](/news/2017/07/11/index.md)
 
+### [Turkish authorities have ordered the arrest of 105 people working in Information technology who were believed to have been involved in the attempted overthrow of the government a year ago, state-run Anadolu Agency reported on Tuesday.](/news/2017/07/11/turkish-authorities-have-ordered-the-arrest-of-105-people-working-in-information-technology-who-were-believed-to-have-been-involved-in-the-a.md)
+Turkish authorities have ordered the arrest of 105 people working in information technology who were believed to have been involved in the attempted military coup a year ago, state-run Anadolu news agency reported on Tuesday.
+
 ### [According to the Turkish Army, its overnight air strike in Dargecit kills eleven militants from the Kurdistan Workers' Party. ](/news/2017/07/11/according-to-the-turkish-army-its-overnight-air-strike-in-dargeassit-kills-eleven-militants-from-the-kurdistan-workers-party.md)
 Turkish warplanes struck Kurdish militant targets in two areas of southeast Turkey overnight, killing 11 Kurdistan Workers Party (PKK) fighters, the army said on Tuesday.
 
 ### [The death toll from recent torrential rain and  flooding in Kyushu in southern Japan  rises to 25. ](/news/2017/07/11/the-death-toll-from-recent-torrential-rain-and-flooding-in-kyushu-in-southern-japan-rises-to-25.md)
 _Context: Japan, Kyushu_
 
-### [The U.S. Department of Homeland Security plans to restrict student visa holders from staying in the United States for over a year. Most people affected are from China and India, where most exploiters of the visa originate.  ](/news/2017/07/11/the-u-s-department-of-homeland-security-plans-to-restrict-student-visa-holders-from-staying-in-the-united-states-for-over-a-year-most-peop.md)
+### [Visas given to potential entrepreneurs who are foreigner will be signoficantly reduced prompting fears and criticism from Silicon Valley. ](/news/2017/07/11/visas-given-to-potential-entrepreneurs-who-are-foreigner-will-be-signoficantly-reduced-prompting-fears-and-criticism-from-silicon-valley.md)
 The number of freshman admission offers to -in-state students declined 1.7 percent to 69,972 but UC officials say they still expect a rise in actual enrollment. Meanwhile the offers to students from other states and nations were up 4 percent in the last year before new enrollment limits on them go into effect.
-
-### [Turkish authorities have ordered the arrest of 105 people working in Information technology who were believed to have been involved in the attempted overthrow of the government a year ago, state-run Anadolu Agency reported on Tuesday.](/news/2017/07/11/turkish-authorities-have-ordered-the-arrest-of-105-people-working-in-information-technology-who-were-believed-to-have-been-involved-in-the-a.md)
-Turkish authorities have ordered the arrest of 105 people working in information technology who were believed to have been involved in the attempted military coup a year ago, state-run Anadolu news agency reported on Tuesday.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -32,11 +32,14 @@ A massive fire has broken out at a London market and dozens of firefighters are 
 ### [An United States Marine Corps Lockheed C-130 Hercules military transport aircraft carrying sixteen people has crashed near the American town of Greenwood, Mississippi. So far, at least sixteen bodies have been recovered. ](/news/2017/07/10/an-united-states-marine-corps-lockheed-c-130-hercules-military-transport-aircraft-carrying-sixteen-people-has-crashed-near-the-american-town.md)
 A military plane crashed in a soybean field in Leflore County, Miss., killing at least 16 and leaving a debris field five miles in radius, officials said.
 
-### [ A 3 year-old boy is stabbed to death in an incident in the Poddle Park area of Kimmage in Dublin, Ireland. The child's mother, believed to be an Iranian national, is in a critical condition in hospital. ](/news/2017/07/10/a-3-year-old-boy-is-stabbed-to-death-in-an-incident-in-the-poddle-park-area-of-kimmage-in-dublin-ireland-the-child-s-mother-believed-to.md)
-An investigation is continuing into the circumstances surrounding the death of a three-year-old boy in Dublin.
+### [Coffee may prolong the human lifespan, suggests one study by Imperial College London and the International Agency for Research on Cancer, and another by the Keck School of Medicine of USC. ](/news/2017/07/10/coffee-may-prolong-the-human-lifespan-suggests-one-study-by-imperial-college-london-and-the-international-agency-for-research-on-cancer-an.md)
+_Context: Coffee, Imperial College London, International Agency for Research on Cancer, Keck School of Medicine of USC, human, life_
 
 ### [ Amid a stand-off between India and China over the disputed territory of Doklam which is claimed by Bhutan, the Indian National Congress denies the meeting of Rahul Gandhi with the Chinese ambassador to India. ](/news/2017/07/10/amid-a-stand-off-between-india-and-china-over-the-disputed-territory-of-doklam-which-is-claimed-by-bhutan-the-indian-national-congress-den.md)
 Amid a bitter stand-off between India and China over the Dokalam region, the Congress party on Monday rejected reports of party vice president Rahul Gandhi&#039;s meeting with Chinese Amabassador to India Luo Zhaohui. 
+
+### [ A 3 year-old boy is stabbed to death in an incident in the Poddle Park area of Kimmage in Dublin, Ireland. The child's mother, believed to be an Iranian national, is in a critical condition in hospital. ](/news/2017/07/10/a-3-year-old-boy-is-stabbed-to-death-in-an-incident-in-the-poddle-park-area-of-kimmage-in-dublin-ireland-the-child-s-mother-believed-to.md)
+An investigation is continuing into the circumstances surrounding the death of a three-year-old boy in Dublin.
 
 ### [The Nobel Peace Prize winner Liu Xiaobo is in "critical condition," according to Chinese doctors. ](/news/2017/07/10/the-nobel-peace-prize-winner-liu-xiaobo-is-in-critical-condition-according-to-chinese-doctors.md)
 The government offered little hope that Liu Xiaobo, the country’s most famous political prisoner, would be allowed to go abroad for treatment, as he has requested.
