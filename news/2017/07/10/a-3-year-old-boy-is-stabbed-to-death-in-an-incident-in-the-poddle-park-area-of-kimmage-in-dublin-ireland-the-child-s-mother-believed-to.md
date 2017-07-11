@@ -1,6 +1,6 @@
 ### [2017-07-10](/news/2017/07/10/index.md)
 
-#  A 3 year-old boy is stabbed to death in an incident in the Poddle Park area of Kimmage in Dublin, Ireland. The child's mother, believed to be an Iranian national, is in a critical condition in hospital. 
+#  A 3 year-old boy is stabbed to death in an incident in the Poddle Park area of Kimmage in Dublin, Ireland. The child's mother, believed to be an Iranian national, is being treated for knife wounds in hospital. 
 
 An investigation is continuing into the circumstances surrounding the death of a three-year-old boy in Dublin.
 

@@ -18,6 +18,9 @@ Researchers studying a mass vaccination campaign against meningitis have found a
 ### [Visas given to potential entrepreneurs who are foreigners will be significantly reduced prompting fears and criticism from Silicon Valley. Many of those given visas are from India.  ](/news/2017/07/11/visas-given-to-potential-entrepreneurs-who-are-foreigners-will-be-significantly-reduced-prompting-fears-and-criticism-from-silicon-valley-m.md)
 Senior officials are discussing whether to require foreignors to reapply each year for permission to continue studies at U.S. universities.
 
+### [The Trump Administration announces this year's Presidential state visit to the U.K. is delayed until  at least 2018. Both the White House and 10 Downing Street state the two countries had been unable to agree on a 2017 date. This planned visit has drawn protests in the United Kingdom since February, and more than 1.8 million signatures on a petition to Parliament to cancel the meeting.  ](/news/2017/07/11/the-trump-administration-announces-this-year-s-presidential-state-visit-to-the-u-k-is-delayed-until-at-least-2018-both-the-white-house-an.md)
+Senior UK government source confirms that Trump has failed to agree a date for his visit this year.
+
 ### [Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. ](/news/2017/07/11/scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-tibet-to-a-satellite-orbiting-earth-at.md)
 For the first time, scientists have successfully teleported a photon from the ground to a satellite in orbit.
 
