@@ -2,15 +2,14 @@
 
 # Visas given to potential entrepreneurs who are foreigners will be significantly reduced prompting fears and criticism from Silicon Valley. Many of those given visas are Indians.  
 
-The number of freshman admission offers to -in-state students declined 1.7 percent to 69,972 but UC officials say they still expect a rise in actual enrollment. Meanwhile the offers to students from other states and nations were up 4 percent in the last year before new enrollment limits on them go into effect.
+Senior officials are discussing whether to require foreignors to reapply each year for permission to continue studies at U.S. universities.
 
 
 ### Source:
 
-1. [Ed Source](https://edsource.org/2017/uc-admits-more-students-from-outside-california-but-officials-expect-more-state-residents-will-enroll/584321)
-2. [The Washington Post](https://www.washingtonpost.com/local/overseas-students-would-face-close-scrutiny-under-proposal-floated-at-dhs/2017/07/10/393b5cc0-6282-11e7-a4f7-af34fc1d9d39_story.html)
-3. [U.S. News and World Report](https://www.usnews.com/news/best-countries/articles/2017-07-10/donald-trumps-america-first-policy-may-jeopardize-the-dreams-of-indians)
-4. [Voice of America](https://www.voanews.com/a/us-expected-to-scrap-visa-program-for-entrepreneurs/3936958.html)
+1. [The Washington Post](https://www.washingtonpost.com/local/overseas-students-would-face-close-scrutiny-under-proposal-floated-at-dhs/2017/07/10/393b5cc0-6282-11e7-a4f7-af34fc1d9d39_story.html)
+2. [U.S. News and World Report](https://www.usnews.com/news/best-countries/articles/2017-07-10/donald-trumps-america-first-policy-may-jeopardize-the-dreams-of-indians)
+3. [Voice of America](https://www.voanews.com/a/us-expected-to-scrap-visa-program-for-entrepreneurs/3936958.html)
 
 ### Related:
 
