@@ -1,6 +1,6 @@
 ### [2017-07-11](/news/2017/07/11/index.md)
 
-# The death toll from recent torrential rain and  flooding in Kyushu in southern Japan  rises to 25. 
+# The death toll from recent torrential rain and flooding in Kyushu in southern Japan  rises to 25. 
 
 
 
