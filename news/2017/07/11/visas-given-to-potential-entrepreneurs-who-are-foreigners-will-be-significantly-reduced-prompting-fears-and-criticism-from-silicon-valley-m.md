@@ -1,14 +1,16 @@
-### [2017-07-10](/news/2017/07/10/index.md)
+### [2017-07-11](/news/2017/07/11/index.md)
 
-# At least 7 people are killed and 15 injured after gunmen fire upon a pilgrimage bus and a police vehicle, on the 11th day of the Amarnath Yatra pilgrimage in the Indian city of Anantnag. The attack is believed to be terror-related. 
+# Visas given to potential entrepreneurs who are foreigners will be significantly reduced prompting fears and criticism from Silicon Valley. Many of those given visas are Indians.  
 
-Seven pilgrims on the Amarnath Yatra - six of those women - were killed today in a terror attack in Anantnag at about 8:30 pm. At least 15 people were injured in one the worst terror strikes in the state of Jammu and Kashmir.
+The number of freshman admission offers to -in-state students declined 1.7 percent to 69,972 but UC officials say they still expect a rise in actual enrollment. Meanwhile the offers to students from other states and nations were up 4 percent in the last year before new enrollment limits on them go into effect.
 
 
 ### Source:
 
-1. [NDTV](http://www.ndtv.com/india-news/2-amarnath-yatra-pilgrims-killed-in-terror-attack-in-jammu-and-kashmirs-anantnag-1723037)
-2. [The Indian Express](http://indianexpress.com/article/india/two-amarnath-pilgrims-killed-four-injured-in-terror-attack-in-anantnag-kashmir/)
+1. [Ed Source](https://edsource.org/2017/uc-admits-more-students-from-outside-california-but-officials-expect-more-state-residents-will-enroll/584321)
+2. [The Washington Post](https://www.washingtonpost.com/local/overseas-students-would-face-close-scrutiny-under-proposal-floated-at-dhs/2017/07/10/393b5cc0-6282-11e7-a4f7-af34fc1d9d39_story.html)
+3. [U.S. News and World Report](https://www.usnews.com/news/best-countries/articles/2017-07-10/donald-trumps-america-first-policy-may-jeopardize-the-dreams-of-indians)
+4. [Voice of America](https://www.voanews.com/a/us-expected-to-scrap-visa-program-for-entrepreneurs/3936958.html)
 
 ### Related:
 
@@ -16,7 +18,7 @@ Seven pilgrims on the Amarnath Yatra - six of those women - were killed today in
 2. [Amid a stand-off between China and India over the Doklam tri-junction, China tells India that former Indian prime minister Jawaharlal Nehru accepted the Convention of Calcutta which China is using to support its territorial claims. Tensions have been rising between China and India and Bhutan over Doklam since China began constructing a road in the disputed territory in mid-June. ](/news/2017/07/4/amid-a-stand-off-between-china-and-india-over-the-doklam-tri-junction-china-tells-india-that-former-indian-prime-minister-jawaharlal-nehru.md) _Context: India_
 3. [Amid growing tensions between China and India and Bhutan over the Doklam tri-junction, a spokesman on behalf of Bhutan via ''India Today'' urges India and China to "de-escalate the situation at the border and bring back normalcy". India and China have been locked in a military stand-off at the Doklam tri-junction since late June. ''[http://indiatoday.intoday.in/story/china-bhutan-india-doka-la-tensions-thimphu/1/992752.html (India Today)]''](/news/2017/07/3/amid-growing-tensions-between-china-and-india-and-bhutan-over-the-doklam-tri-junction-a-spokesman-on-behalf-of-bhutan-via-india-today-u.md) _Context: India_
 4. [Amid growing tensions between China and India and Bhutan over disputed land, the Bharatiya Janata Party supports the words of defence minster Arun Jaitley that "India of 2017 is different from India of 1962". It follows a warning from China to India that referenced the defeat of the latter during the 1962 Sino-Indian War. ](/news/2017/07/2/amid-growing-tensions-between-china-and-india-and-bhutan-over-disputed-land-the-bharatiya-janata-party-supports-the-words-of-defence-minste.md) _Context: India_
-5. [Visas given to potential entrepreneurs who are foreigners will be significantly reduced prompting fears and criticism from Silicon Valley. Many of those given visas are Indians.  ](/news/2017/07/11/visas-given-to-potential-entrepreneurs-who-are-foreigners-will-be-significantly-reduced-prompting-fears-and-criticism-from-silicon-valley-m.md) _Context: India_
+5. [At least 7 people are killed and 15 injured after gunmen fire upon a pilgrimage bus and a police vehicle, on the 11th day of the Amarnath Yatra pilgrimage in the Indian city of Anantnag. The attack is believed to be terror-related. ](/news/2017/07/10/at-least-7-people-are-killed-and-15-injured-after-gunmen-fire-upon-a-pilgrimage-bus-and-a-police-vehicle-on-the-11th-day-of-the-amarnath-ya.md) _Context: India_
 6. [ Amid a stand-off between India and China over the disputed territory of Doklam which is claimed by Bhutan, the Indian National Congress denies the meeting of Rahul Gandhi with the Chinese ambassador to India. ](/news/2017/07/10/amid-a-stand-off-between-india-and-china-over-the-disputed-territory-of-doklam-which-is-claimed-by-bhutan-the-indian-national-congress-den.md) _Context: India_
 7. [Amid growing tensions between China and India and Bhutan, China releases a map detailing pieces of land claimed by Bhutan and India as belonging to China. China claims, via the map, that territory up until Gipmochi belongs to China and claims it's supported by the 1890 Convention of Calcutta. ](/news/2017/07/1/amid-growing-tensions-between-china-and-india-and-bhutan-china-releases-a-map-detailing-pieces-of-land-claimed-by-bhutan-and-india-as-belon.md) _Context: India_
 8. [China informs India that it must withdraw its troops for any dialogue to occur as tensions rise between China and India and Bhutan over the disputed territory of Doklam. ](/news/2017/06/30/china-informs-india-that-it-must-withdraw-its-troops-for-any-dialogue-to-occur-as-tensions-rise-between-china-and-india-and-bhutan-over-the.md) _Context: India_
