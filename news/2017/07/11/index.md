@@ -9,7 +9,7 @@ Turkish warplanes struck Kurdish militant targets in two areas of southeast Turk
 ### [The death toll from recent torrential rain and  flooding in Kyushu in southern Japan  rises to 25. ](/news/2017/07/11/the-death-toll-from-recent-torrential-rain-and-flooding-in-kyushu-in-southern-japan-rises-to-25.md)
 _Context: Japan, Kyushu_
 
-### [Reaserchers in New Zealand have discoved that the MeNZB vaccine for meningitis may protect against gonorrhea by 30%. ](/news/2017/07/11/reaserchers-in-new-zealand-have-discoved-that-the-menzb-vaccine-for-meningitis-may-protect-against-gonorrhea-by-30.md)
+### [Researchers in New Zealand have discovered that the MeNZB vaccine for meningitis may protect against gonorrhea by 30%. ](/news/2017/07/11/researchers-in-new-zealand-have-discovered-that-the-menzb-vaccine-for-meningitis-may-protect-against-gonorrhea-by-30.md)
 Researchers studying a mass vaccination campaign against meningitis have found a surprising side-effect &mdash; the shots also offered moderate protection against gonorrhea.
 
 ### [Visas given to potential entrepreneurs who are foreigners will be significantly reduced prompting fears and criticism from Silicon Valley. Many of those given visas are Indians.  ](/news/2017/07/11/visas-given-to-potential-entrepreneurs-who-are-foreigners-will-be-significantly-reduced-prompting-fears-and-criticism-from-silicon-valley-m.md)

@@ -9,7 +9,7 @@ Turkish warplanes struck Kurdish militant targets in two areas of southeast Turk
 ### [The death toll from recent torrential rain and  flooding in Kyushu in southern Japan  rises to 25. ](/news/2017/07/11/the-death-toll-from-recent-torrential-rain-and-flooding-in-kyushu-in-southern-japan-rises-to-25.md)
 _Context: Japan, Kyushu_
 
-### [Reaserchers in New Zealand have discoved that the MeNZB vaccine for meningitis may protect against gonorrhea by 30%. ](/news/2017/07/11/reaserchers-in-new-zealand-have-discoved-that-the-menzb-vaccine-for-meningitis-may-protect-against-gonorrhea-by-30.md)
+### [Researchers in New Zealand have discovered that the MeNZB vaccine for meningitis may protect against gonorrhea by 30%. ](/news/2017/07/11/researchers-in-new-zealand-have-discovered-that-the-menzb-vaccine-for-meningitis-may-protect-against-gonorrhea-by-30.md)
 Researchers studying a mass vaccination campaign against meningitis have found a surprising side-effect &mdash; the shots also offered moderate protection against gonorrhea.
 
 ### [Visas given to potential entrepreneurs who are foreigners will be significantly reduced prompting fears and criticism from Silicon Valley. Many of those given visas are Indians.  ](/news/2017/07/11/visas-given-to-potential-entrepreneurs-who-are-foreigners-will-be-significantly-reduced-prompting-fears-and-criticism-from-silicon-valley-m.md)
@@ -32,7 +32,7 @@ Seven pilgrims on the Amarnath Yatra - six of those women - were killed today in
 ### [A large fire breaks out at the Camden Markets in North West London, with over 70 firefighters and 10 firetrucks attending the scene. No casualties have been reported. ](/news/2017/07/10/a-large-fire-breaks-out-at-the-camden-markets-in-north-west-london-with-over-70-firefighters-and-10-firetrucks-attending-the-scene-no-casu.md)
 A massive fire has broken out at a London market and dozens of firefighters are at the scene.
 
-### [An United States Marine Corps Lockheed C-130 Hercules military transport aircraft carrying sixteen people has crashed near the American town of Greenwood, Mississippi. So far, at least sixteen bodies have been recovered. ](/news/2017/07/10/an-united-states-marine-corps-lockheed-c-130-hercules-military-transport-aircraft-carrying-sixteen-people-has-crashed-near-the-american-town.md)
+### [A United States Marine Corps Lockheed C-130 Hercules military transport aircraft carrying sixteen people has crashed near the American town of Greenwood, Mississippi. So far, at least sixteen bodies have been recovered. ](/news/2017/07/10/a-united-states-marine-corps-lockheed-c-130-hercules-military-transport-aircraft-carrying-sixteen-people-has-crashed-near-the-american-town.md)
 A military plane crashed in a soybean field in Leflore County, Miss., killing at least 16 and leaving a debris field five miles in radius, officials said.
 
 ### [Coffee may prolong the human lifespan, suggests one study by Imperial College London and the International Agency for Research on Cancer, and another by the Keck School of Medicine of USC. ](/news/2017/07/10/coffee-may-prolong-the-human-lifespan-suggests-one-study-by-imperial-college-london-and-the-international-agency-for-research-on-cancer-an.md)
@@ -59,6 +59,9 @@ Donald Trump said a cybersecurity unit with Russia would not happen - hours afte
 
 ### [The chief suspect in an attack on June 21, 2017, turns himself in to the police. ](/news/2017/07/9/the-chief-suspect-in-an-attack-on-june-21-2017-turns-himself-in-to-the-police.md)
 Two cousins suffered &quot;life-changing injuries&quot; in an acid attack in east London.
+
+### [The 450 km-long Turkish March for Justice concludes in Istanbul at a mass rally attended by hundreds of thousands of people. ](/news/2017/07/9/the-450-km-long-turkish-march-for-justice-concludes-in-istanbul-at-a-mass-rally-attended-by-hundreds-of-thousands-of-people.md)
+_Context: 2017 March for Justice, Istanbul, March for Justice_
 
 ---
 
