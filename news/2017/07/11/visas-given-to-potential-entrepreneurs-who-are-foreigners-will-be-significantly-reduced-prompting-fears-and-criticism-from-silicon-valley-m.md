@@ -1,6 +1,6 @@
 ### [2017-07-11](/news/2017/07/11/index.md)
 
-# Visas given to potential entrepreneurs who are foreigners will be significantly reduced prompting fears and criticism from Silicon Valley. Many of those given visas are Indians.  
+# Visas given to potential entrepreneurs who are foreigners will be significantly reduced prompting fears and criticism from Silicon Valley. Many of those given visas are from India.  
 
 Senior officials are discussing whether to require foreignors to reapply each year for permission to continue studies at U.S. universities.
 

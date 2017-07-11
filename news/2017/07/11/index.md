@@ -15,8 +15,11 @@ _Context: Japan, Kyushu_
 ### [Researchers in New Zealand have discovered that the MeNZB vaccine for meningitis may protect against gonorrhea by 30%. ](/news/2017/07/11/researchers-in-new-zealand-have-discovered-that-the-menzb-vaccine-for-meningitis-may-protect-against-gonorrhea-by-30.md)
 Researchers studying a mass vaccination campaign against meningitis have found a surprising side-effect &mdash; the shots also offered moderate protection against gonorrhea.
 
-### [Visas given to potential entrepreneurs who are foreigners will be significantly reduced. prompting fears and criticism from Silicon Valley. Many of those given visas are from India.  ](/news/2017/07/11/visas-given-to-potential-entrepreneurs-who-are-foreigners-will-be-significantly-reduced-prompting-fears-and-criticism-from-silicon-valley.md)
+### [Visas given to potential entrepreneurs who are foreigners will be significantly reduced prompting fears and criticism from Silicon Valley. Many of those given visas are from India.  ](/news/2017/07/11/visas-given-to-potential-entrepreneurs-who-are-foreigners-will-be-significantly-reduced-prompting-fears-and-criticism-from-silicon-valley-m.md)
 Senior officials are discussing whether to require foreignors to reapply each year for permission to continue studies at U.S. universities.
+
+### [Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. ](/news/2017/07/11/scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-tibet-to-a-satellite-orbiting-earth-at.md)
+For the first time, scientists have successfully teleported a photon from the ground to a satellite in orbit.
 
 ## [Previous Day...](/news/2017/07/10/index.md)
 
