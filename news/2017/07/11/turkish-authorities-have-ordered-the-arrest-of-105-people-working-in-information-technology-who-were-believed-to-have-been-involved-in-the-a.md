@@ -2,12 +2,12 @@
 
 # Turkish authorities have ordered the arrest of 105 people working in Information technology who were believed to have been involved in the attempted overthrow of the government last year, state-run Anadolu Agency reported on Tuesday.
 
-Turkish authorities have ordered the arrest of 105 people working in information technology who were believed to have been involved in the attempted military coup a year ago, state-run Anadolu news agency reported on Tuesday.
+Turkish authorities have ordered the arrest of 105 people working in information technology on suspicion of involvement in an attempted military coup a year ago, state-run Anadolu news agency reported on Tuesday.
 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-turkey-security-detentions-idUSKBN19W0GL?il=0)
+1. [Reuters](http://www.reuters.com/article/us-turkey-security-detentions-idUSKBN19W0GL)
 
 ### Related:
 

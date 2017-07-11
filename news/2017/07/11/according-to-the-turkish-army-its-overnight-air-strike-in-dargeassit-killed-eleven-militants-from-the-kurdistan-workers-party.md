@@ -7,7 +7,7 @@ Turkish warplanes struck Kurdish militant targets in two areas of southeast Turk
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-turkey-security-kurds-idUSKBN19W0DZ?il=0)
+1. [Reuters](http://www.reuters.com/article/us-turkey-security-kurds-idUSKBN19W0DZ)
 
 ### Related:
 

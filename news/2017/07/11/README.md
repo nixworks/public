@@ -1,7 +1,7 @@
 ## [2017-07-11](/news/2017/07/11/index.md)
 
 ### [Turkish authorities have ordered the arrest of 105 people working in Information technology who were believed to have been involved in the attempted overthrow of the government last year, state-run Anadolu Agency reported on Tuesday.](/news/2017/07/11/turkish-authorities-have-ordered-the-arrest-of-105-people-working-in-information-technology-who-were-believed-to-have-been-involved-in-the-a.md)
-Turkish authorities have ordered the arrest of 105 people working in information technology who were believed to have been involved in the attempted military coup a year ago, state-run Anadolu news agency reported on Tuesday.
+Turkish authorities have ordered the arrest of 105 people working in information technology on suspicion of involvement in an attempted military coup a year ago, state-run Anadolu news agency reported on Tuesday.
 
 ### [According to the Turkish Army, its overnight air strike in Dargecit killed eleven militants from the Kurdistan Workers' Party. ](/news/2017/07/11/according-to-the-turkish-army-its-overnight-air-strike-in-dargeassit-killed-eleven-militants-from-the-kurdistan-workers-party.md)
 Turkish warplanes struck Kurdish militant targets in two areas of southeast Turkey overnight, killing 11 Kurdistan Workers Party (PKK) fighters, the army said on Tuesday.
@@ -9,8 +9,11 @@ Turkish warplanes struck Kurdish militant targets in two areas of southeast Turk
 ### [The Syrian Observatory for Human Rights says ISIL leader Abu Bakr al-Baghdadi is confirmed dead, according to information from tribal leaders close to ISIL in the Deir ez-Zor Governorate. In June, Russia said it had "most likely" killed al-Baghdadi and several other high profile ISIL leaders in an airstrike but provided no evidence. ](/news/2017/07/11/the-syrian-observatory-for-human-rights-says-isil-leader-abu-bakr-al-baghdadi-is-confirmed-dead-according-to-information-from-tribal-leader.md)
 Isis leader Abu Bakr al-Baghdadi has been confirmed killed, war monitor the Syrian Observatory for Human Rights (SOHR) has said. &quot;(We have) confirmed information from leaders, including one of the first rank, in [Isis territory] in the eastern countryside of Deir Ezzor,&quot; director of the UK-based group Rami Abdulrahman told Reuters on Tuesday.
 
+### [The United Kingdom and Bill & Melinda Gates' foundation sponsor a summit that plans on raising funds for family planning in developing countries. ](/news/2017/07/11/the-united-kingdom-and-bill-melinda-gates-foundation-sponsor-a-summit-that-plans-on-raising-funds-for-family-planning-in-developing-count.md)
+_Context: Bill, Melinda Gates, United Kingdom, developing countries, family planning, foundation_
+
 ### [The death toll from recent torrential rain and flooding in Kyushu in southern Japan  rises to 25. ](/news/2017/07/11/the-death-toll-from-recent-torrential-rain-and-flooding-in-kyushu-in-southern-japan-rises-to-25.md)
-_Context: Japan, Kyushu_
+_Context: Floods in Japan, Japan, Kyushu_
 
 ### [Researchers in New Zealand have discovered that the MeNZB vaccine for meningitis may protect against gonorrhea by 30%. ](/news/2017/07/11/researchers-in-new-zealand-have-discovered-that-the-menzb-vaccine-for-meningitis-may-protect-against-gonorrhea-by-30.md)
 Researchers studying a mass vaccination campaign against meningitis have found a surprising side-effect &mdash; the shots also offered moderate protection against gonorrhea.
