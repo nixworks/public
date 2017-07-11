@@ -12,6 +12,9 @@ A massive fire has broken out at a London market and dozens of firefighters are 
 ### [An United States Marine Corps Lockheed C-130 Hercules military transport aircraft carrying sixteen people has crashed near the American town of Greenwood, Mississippi. So far, at least sixteen bodies have been recovered. ](/news/2017/07/10/an-united-states-marine-corps-lockheed-c-130-hercules-military-transport-aircraft-carrying-sixteen-people-has-crashed-near-the-american-town.md)
 A military plane crashed in a soybean field in Leflore County, Miss., killing at least 16 and leaving a debris field five miles in radius, officials said.
 
+### [ A 3 year-old boy is stabbed to death in an incident in the Poddle Park area of Kimmage in Dublin, Ireland. The child's mother, believed to be an Iranian national, is in a critical condition in hospital. ](/news/2017/07/10/a-3-year-old-boy-is-stabbed-to-death-in-an-incident-in-the-poddle-park-area-of-kimmage-in-dublin-ireland-the-child-s-mother-believed-to.md)
+An investigation is continuing into the circumstances surrounding the death of a three-year-old boy in Dublin.
+
 ### [ Amid a stand-off between India and China over the disputed territory of Doklam which is claimed by Bhutan, the Indian National Congress denies the meeting of Rahul Gandhi with the Chinese ambassador to India. ](/news/2017/07/10/amid-a-stand-off-between-india-and-china-over-the-disputed-territory-of-doklam-which-is-claimed-by-bhutan-the-indian-national-congress-den.md)
 Amid a bitter stand-off between India and China over the Dokalam region, the Congress party on Monday rejected reports of party vice president Rahul Gandhi&#039;s meeting with Chinese Amabassador to India Luo Zhaohui. 
 

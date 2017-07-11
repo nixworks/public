@@ -6,6 +6,12 @@ Turkish warplanes struck Kurdish militant targets in two areas of southeast Turk
 ### [The death toll from recent torrential rain and  flooding in Kyushu in southern Japan  rises to 25. ](/news/2017/07/11/the-death-toll-from-recent-torrential-rain-and-flooding-in-kyushu-in-southern-japan-rises-to-25.md)
 _Context: Japan, Kyushu_
 
+### [Coffee may prolong the human lifespan based on one study in the European Union and another in the United States. ](/news/2017/07/11/coffee-may-prolong-the-human-lifespan-based-on-one-study-in-the-european-union-and-another-in-the-united-states.md)
+_Context: Coffee, European Union, United States, human, life_
+
+### [The U.S. Department of Homeland Security plans to restrict student visa holders from staying in the United States for over a year. Most people affected are from China and India, where most exploiters of the visa originate from.  ](/news/2017/07/11/the-u-s-department-of-homeland-security-plans-to-restrict-student-visa-holders-from-staying-in-the-united-states-for-over-a-year-most-peop.md)
+Senior officials are discussing whether to require foreignors to reapply each year for permission to continue studies at U.S. universities.
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -25,6 +31,9 @@ A massive fire has broken out at a London market and dozens of firefighters are 
 
 ### [An United States Marine Corps Lockheed C-130 Hercules military transport aircraft carrying sixteen people has crashed near the American town of Greenwood, Mississippi. So far, at least sixteen bodies have been recovered. ](/news/2017/07/10/an-united-states-marine-corps-lockheed-c-130-hercules-military-transport-aircraft-carrying-sixteen-people-has-crashed-near-the-american-town.md)
 A military plane crashed in a soybean field in Leflore County, Miss., killing at least 16 and leaving a debris field five miles in radius, officials said.
+
+### [ A 3 year-old boy is stabbed to death in an incident in the Poddle Park area of Kimmage in Dublin, Ireland. The child's mother, believed to be an Iranian national, is in a critical condition in hospital. ](/news/2017/07/10/a-3-year-old-boy-is-stabbed-to-death-in-an-incident-in-the-poddle-park-area-of-kimmage-in-dublin-ireland-the-child-s-mother-believed-to.md)
+An investigation is continuing into the circumstances surrounding the death of a three-year-old boy in Dublin.
 
 ### [ Amid a stand-off between India and China over the disputed territory of Doklam which is claimed by Bhutan, the Indian National Congress denies the meeting of Rahul Gandhi with the Chinese ambassador to India. ](/news/2017/07/10/amid-a-stand-off-between-india-and-china-over-the-disputed-territory-of-doklam-which-is-claimed-by-bhutan-the-indian-national-congress-den.md)
 Amid a bitter stand-off between India and China over the Dokalam region, the Congress party on Monday rejected reports of party vice president Rahul Gandhi&#039;s meeting with Chinese Amabassador to India Luo Zhaohui. 

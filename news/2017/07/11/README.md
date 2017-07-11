@@ -6,5 +6,11 @@ Turkish warplanes struck Kurdish militant targets in two areas of southeast Turk
 ### [The death toll from recent torrential rain and  flooding in Kyushu in southern Japan  rises to 25. ](/news/2017/07/11/the-death-toll-from-recent-torrential-rain-and-flooding-in-kyushu-in-southern-japan-rises-to-25.md)
 _Context: Japan, Kyushu_
 
+### [Coffee may prolong the human lifespan based on one study in the European Union and another in the United States. ](/news/2017/07/11/coffee-may-prolong-the-human-lifespan-based-on-one-study-in-the-european-union-and-another-in-the-united-states.md)
+_Context: Coffee, European Union, United States, human, life_
+
+### [The U.S. Department of Homeland Security plans to restrict student visa holders from staying in the United States for over a year. Most people affected are from China and India, where most exploiters of the visa originate from.  ](/news/2017/07/11/the-u-s-department-of-homeland-security-plans-to-restrict-student-visa-holders-from-staying-in-the-united-states-for-over-a-year-most-peop.md)
+Senior officials are discussing whether to require foreignors to reapply each year for permission to continue studies at U.S. universities.
+
 ## [Previous Day...](/news/2017/07/10/index.md)
 
