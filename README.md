@@ -9,6 +9,9 @@ Seven pilgrims on the Amarnath Yatra - six of those women - were killed today in
 ### [A large fire breaks out at the Camden Markets in North West London, with over 70 firefighters and 10 firetrucks attending the scene. ](/news/2017/07/10/a-large-fire-breaks-out-at-the-camden-markets-in-north-west-london-with-over-70-firefighters-and-10-firetrucks-attending-the-scene.md)
 A massive fire has broken out at a London market and dozens of firefighters are at the scene.
 
+### [A Lockheed C-130 Hercules military transport aircraft carrying nine people has crashed near the American town of Greenwood, Mississippi. So far, six bodies have been recovered from the wreckage. ](/news/2017/07/10/a-lockheed-c-130-hercules-military-transport-aircraft-carrying-nine-people-has-crashed-near-the-american-town-of-greenwood-mississippi-so.md)
+_Context: Greenwood, Mississippi, Lockheed C-130 Hercules, military transport aircraft_
+
 ### [ Amid a stand-off between India and China over the disputed territory of Doklam which is claimed by Bhutan, the Indian National Congress denies the meeting of Rahul Gandhi with the Chinese ambassador to India. ](/news/2017/07/10/amid-a-stand-off-between-india-and-china-over-the-disputed-territory-of-doklam-which-is-claimed-by-bhutan-the-indian-national-congress-den.md)
 Amid a bitter stand-off between India and China over the Dokalam region, the Congress party on Monday rejected reports of party vice president Rahul Gandhi&#039;s meeting with Chinese Amabassador to India Luo Zhaohui. 
 
