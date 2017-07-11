@@ -24,6 +24,12 @@ Senior officials are discussing whether to require foreignors to reapply each ye
 ### [The Trump Administration announces this year's Presidential state visit to the U.K. is delayed until  at least 2018. Both the White House and 10 Downing Street state the two countries had been unable to agree on a 2017 date. This planned visit has drawn protests in the United Kingdom since February, and more than 1.8 million signatures on a petition to Parliament to cancel the meeting.  ](/news/2017/07/11/the-trump-administration-announces-this-year-s-presidential-state-visit-to-the-u-k-is-delayed-until-at-least-2018-both-the-white-house-an.md)
 Senior UK government source confirms that Trump has failed to agree a date for his visit this year.
 
+### [The detained senator Leila de Lima files a bill urging the teaching of human rights in Philippine schools. ](/news/2017/07/11/the-detained-senator-leila-de-lima-files-a-bill-urging-the-teaching-of-human-rights-in-philippine-schools.md)
+This follows one of the recommendations of a 2012 study commissioned by the Commission on Human Rights and the United Nations Development Programme 
+
+### [Haiti will reinstate its armed forces after 20 years of having none. ](/news/2017/07/11/haiti-will-reinstate-its-armed-forces-after-20-years-of-having-none.md)
+The recruitment drive follows the announcement that the UN is leaving Haiti.
+
 ### [Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. ](/news/2017/07/11/scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-tibet-to-a-satellite-orbiting-earth-at.md)
 For the first time, scientists have successfully teleported a photon from the ground to a satellite in orbit.
 
