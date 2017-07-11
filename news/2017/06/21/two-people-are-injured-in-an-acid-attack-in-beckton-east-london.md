@@ -11,4 +11,4 @@ Resham Khan had celebrated her 21st birthday with her cousin when they were atta
 
 ### Related:
 
-1. [The chief suspect in an attack on June 21, 2017 turns himself in to the police. ](/news/2017/07/9/the-chief-suspect-in-an-attack-on-june-21-2017-turns-himself-in-to-the-police.md) _Context: 2017 Beckton acid attack_
+1. [The chief suspect in an attack on June 21, 2017, turns himself in to the police. ](/news/2017/07/9/the-chief-suspect-in-an-attack-on-june-21-2017-turns-himself-in-to-the-police.md) _Context: 2017 Beckton acid attack_

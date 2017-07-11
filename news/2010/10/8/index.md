@@ -55,7 +55,7 @@ _Context: Tibetan Autonomous Prefecture of Garze_
 _Context: Ankara, Chinese Premier, Recep Tayyip Erdogan, Turkish Prime Minister, Wen Jiabao_
 
 ### [2010 Nobel Peace Prize:Imprisoned Chinese dissident Liu Xiaobo is announced as the winner of the Nobel Peace Prize. China blocks internet coverage of the award. ](/news/2010/10/8/2010-nobel-peace-prize-pimprisoned-chinese-dissident-liu-xiaobo-is-announced-as-the-winner-of-the-nobel-peace-prize-china-blocks-internet-c.md)
-_Context: A ceremony, Chinese, Liu Xiaobo, Nobel Peace Prize, blocks mentions_
+_Context: Chinese, Liu Xiaobo, Nobel Peace Prize, blocks mentions, winner_
 
 ### [TVNZ ''Breakfast'' race row: New Zealand issues an apology to India's External Affairs ministry over the "gratuitous and insulting" behaviour of its now suspended broadcaster Paul Henry, who works for the government-owned corporation television network TVNZ. ](/news/2010/10/8/tvnz-breakfast-race-row-new-zealand-issues-an-apology-to-india-s-external-affairs-ministry-over-the-gratuitous-and-insulting-behaviou.md)
 _Context: Breakfast, India, New Zealand, Paul Henry, TVNZ, government-owned corporation_

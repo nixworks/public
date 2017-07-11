@@ -3,10 +3,10 @@
 ### [Iraqi Prime Minister Haider al-Abadi declares the battle for Mosul over, after the majority of ISIL militants were defeated. ](/news/2017/07/10/iraqi-prime-minister-haider-al-abadi-declares-the-battle-for-mosul-over-after-the-majority-of-isil-militants-were-defeated.md)
 The battle has taken nine months, leaving large areas in ruins and thousands of civilians dead.
 
-### [At least 7 pilgrims, including 5 women, are killed and 15 injured in a terror attack in south Kashmir's Anantnag, on the 11th day of the Amarnath Yatra. ](/news/2017/07/10/at-least-7-pilgrims-including-5-women-are-killed-and-15-injured-in-a-terror-attack-in-south-kashmir-s-anantnag-on-the-11th-day-of-the-ama.md)
+### [At least 7 people are killed and 15 injured after gunmen fire upon a pilgrimage bus and a police vehicle, on the 11th day of the Amarnath Yatra pilgrimage in the Indian city of Anantnag. The attack is believed to be terror-related. ](/news/2017/07/10/at-least-7-people-are-killed-and-15-injured-after-gunmen-fire-upon-a-pilgrimage-bus-and-a-police-vehicle-on-the-11th-day-of-the-amarnath-ya.md)
 Seven pilgrims on the Amarnath Yatra - six of those women - were killed today in a terror attack in Anantnag at about 8:30 pm. At least 15 people were injured in one the worst terror strikes in the state of Jammu and Kashmir.
 
-### [A large fire breaks out at the Camden Markets in North West London, with over 70 firefighters and 10 firetrucks attending the scene. ](/news/2017/07/10/a-large-fire-breaks-out-at-the-camden-markets-in-north-west-london-with-over-70-firefighters-and-10-firetrucks-attending-the-scene.md)
+### [A large fire breaks out at the Camden Markets in North West London, with over 70 firefighters and 10 firetrucks attending the scene. No casualties have been reported. ](/news/2017/07/10/a-large-fire-breaks-out-at-the-camden-markets-in-north-west-london-with-over-70-firefighters-and-10-firetrucks-attending-the-scene-no-casu.md)
 A massive fire has broken out at a London market and dozens of firefighters are at the scene.
 
 ### [A Lockheed C-130 Hercules military transport aircraft carrying nine people has crashed near the American town of Greenwood, Mississippi. So far, six bodies have been recovered from the wreckage. ](/news/2017/07/10/a-lockheed-c-130-hercules-military-transport-aircraft-carrying-nine-people-has-crashed-near-the-american-town-of-greenwood-mississippi-so.md)
