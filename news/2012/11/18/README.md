@@ -19,7 +19,7 @@ Actor Jackie Chan, famed for his daring stunts, confirms he will be steering awa
 _Context: Dubai, Jumeirah Lake Towers, Tamweel Tower, UAE_
 
 ### [7th East Asia Summit:ASEAN leaders sign a controversial human rights declaration. ](/news/2012/11/18/7th-east-asia-summit-pasean-leaders-sign-a-controversial-human-rights-declaration.md)
-_Context: 7th, ASEAN, East Asia Summit, Human rights_
+_Context: 7th, ASEAN, East Asia Summit, human rights_
 
 ### [Clashes take place at an anti-gay marriage protest in Paris, France. ](/news/2012/11/18/clashes-take-place-at-an-anti-gay-marriage-protest-in-paris-france.md)
 _Context: France, Paris, same-sex marriage_

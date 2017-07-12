@@ -28,7 +28,7 @@ _Context: George Yeo, Myanmar, Nyan Win, Singapore, Yangon_
 _Context: Panthongtae, Pinthongta Shinawatra, Shin Corporation, Temasek Holdings, Thailand, Thaksin, baht_
 
 ### [ Microsoft co-founder Bill Gates is in Vietnam, touring medical clinics as he looks to support the development of vaccines for children through the Bill and Melinda Gates Foundation. ](/news/2007/04/2/microsoft-co-founder-bill-gates-is-in-vietnam-touring-medical-clinics-as-he-looks-to-support-the-development-of-vaccines-for-children-thro.md)
-_Context: Bill Gates, Bill and Melinda Gates Foundation, Microsoft, Vietnam, vaccine_
+_Context: Bill, Bill and Melinda Gates Foundation, Microsoft, Vietnam, vaccine_
 
 ## [Previous Day...](/news/2007/04/1/index.md)
 

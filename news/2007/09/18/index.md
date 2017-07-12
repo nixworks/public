@@ -34,7 +34,7 @@ _Context: Australia, wheat_
 _Context: 2007 Pacific typhoon season, China, Shanghai_
 
 ### [ The son of Philippine House Speaker Jose De Venecia, Jr., Jose "Joey" De Venecia III, disclosed in a Senate inquiry that First Gentleman Mike Arroyo is the "mystery man" behind the controversial $ 329-million broadband contract with ZTE Corp. in China. ](/news/2007/09/18/the-son-of-philippine-house-speaker-jose-de-venecia-jr-jose-joey-de-venecia-iii-disclosed-in-a-senate-inquiry-that-first-gentleman-mi.md)
-_Context: China, First Gentleman, Jose De Venecia, Jr., Mike Arroyo, Philippines, Senate, ZTE, broadband_
+_Context: China, First Gentleman, Jose De Venecia, Jr., Mike Arroyo, Philippine, ZTE, broadband, senator_
 
 ### [ O.J. Simpson is charged with several felonies in Las Vegas, Nevada. ](/news/2007/09/18/o-j-simpson-is-charged-with-several-felonies-in-las-vegas-nevada.md)
 _Context: Las Vegas, Nevada, O. J. Simpson, felons_

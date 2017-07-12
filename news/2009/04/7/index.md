@@ -10,7 +10,7 @@ _Context: East Jerusalem, Israel, Israeli police, Palestinian_
 _Context: Alaska, Emmet Sullivan, Ted Stevens, U.S. District Court for the District of Columbia, United States, United States Senate, conviction_
 
 ### [ Former Peruvian President Alberto Fujimori is convicted of violating human rights and imprisoned until 2034. ](/news/2009/04/7/former-peruvian-president-alberto-fujimori-is-convicted-of-violating-human-rights-and-imprisoned-until-2034.md)
-_Context: Alberto Fujimori, Human rights, Peru, President, convicted, prison_
+_Context: Alberto Fujimori, Peru, President, convicted, human rights, prison_
 
 ### [ Malaysia holds by-elections in Bukit Selambau, Bukit Gantang, and Batang Ai. ](/news/2009/04/7/malaysia-holds-by-elections-in-bukit-selambau-bukit-gantang-and-batang-ai.md)
 _Context: Batang Ai, Bukit Gantang, Bukit Selambau, Malaysia, by-election_

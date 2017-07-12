@@ -25,7 +25,7 @@ Former PM found guilty of accepting cash from US Jewish businessman for personal
 Officials say two men dressed as women tried to break through a security gate to the National Security Agency headquarters.
 
 ### [Queen Elizabeth II dissolves the Parliament and calls a general election for May 7. ](/news/2015/03/30/queen-elizabeth-ii-dissolves-the-parliament-and-calls-a-general-election-for-may-7.md)
-_Context: British Parliament, Elizabeth II, newly elected_
+_Context: Elizabeth II, Parliament, newly elected_
 
 ### [Challenger Muhammadu Buhari leads by two million votes with three-quarters of the states having their votes counted but votes from some of President Goodluck Jonathan's strongest states in the Niger Delta have yet to be counted. ](/news/2015/03/30/challenger-muhammadu-buhari-leads-by-two-million-votes-with-three-quarters-of-the-states-having-their-votes-counted-but-votes-from-some-of-p.md)
 _Context: Goodluck Jonathan, Muhammadu Buhari, Niger Delta, Nigerian general election, 2015, President of Nigeria_

@@ -22,7 +22,7 @@ Search crews have now recovered 41 bodies from an area in the Atlantic where an 
 _Context: Bathaa, Dhiqar_
 
 ### [ Massive demonstrations are held in various places in the Philippines against the passage of the Constituent Assembly to amend  the Constitution. ](/news/2009/06/10/massive-demonstrations-are-held-in-various-places-in-the-philippines-against-the-passage-of-the-constituent-assembly-to-amend-the-constitu.md)
-_Context: Constituent Assembly, Philippines, demonstration, unconstitutional_
+_Context: Constituent Assembly, Philippine, demonstration, unconstitutional_
 
 ### [ A two-day strike by the United Kingdom National Union of Rail, Maritime and Transport Workers disrupts train services in London. ](/news/2009/06/10/a-two-day-strike-by-the-united-kingdom-national-union-of-rail-maritime-and-transport-workers-disrupts-train-services-in-london.md)
 _Context: London, National Union of Rail, Maritime and Transport Workers, United Kingdom, strike_

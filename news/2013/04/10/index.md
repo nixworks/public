@@ -34,7 +34,7 @@ _Context: Chamber of Deputies, Uruguay, same-sex marriage_
 _Context: May 5, general election_
 
 ### [The Parliament of the United Kingdom gather for a special session to debate the legacy of former Prime Minister Margaret Thatcher. ](/news/2013/04/10/the-parliament-of-the-united-kingdom-gather-for-a-special-session-to-debate-the-legacy-of-former-prime-minister-margaret-thatcher.md)
-_Context: British Parliament, Margaret Thatcher, Prime Minister, United Kingdom, legacy, special session_
+_Context: Margaret Thatcher, Parliament, Prime Minister, United Kingdom, legacy, special session_
 
 ### [Sally Jewell is confirmed as the new United States Secretary of the Interior. ](/news/2013/04/10/sally-jewell-is-confirmed-as-the-new-united-states-secretary-of-the-interior.md)
 The Senate voted 87 to 11 Wednesday to confirm Sally Jewell, chief executive of the outdoor retailer REI, as interior secretary.

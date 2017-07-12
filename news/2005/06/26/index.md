@@ -34,7 +34,7 @@ _Context: Kenya, industrial alcohol_
 _Context: 2012, Guy Drut, Olympic Games, Paris, anti-corruption_
 
 ### [ Syrian court acquits human rights activist Aktham Naisse ](/news/2005/06/26/syrian-court-acquits-human-rights-activist-aktham-naisse.md)
-_Context: Aktham Naisse, Human rights, Syria_
+_Context: Aktham Naisse, Syria, human rights_
 
 ### [ Rev. Billy Graham finishes what might be his final crusade. He preached before a crowd of 90,000 at Flushing Meadows Corona Park in New York. ](/news/2005/06/26/rev-billy-graham-finishes-what-might-be-his-final-crusade-he-preached-before-a-crowd-of-90-000-at-flushing-meadows-corona-park-in-new-yor.md)
 _Context: Billy Graham, Flushing Meadows Corona Park, New York City_

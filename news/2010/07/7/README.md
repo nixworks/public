@@ -49,7 +49,7 @@ _Context: Constitutional Court of Turkey, European Union, referendum_
 An Israeli allegedly linked to the killing of a Hamas operative in Dubai can be extradited to Germany, a Polish court rules.
 
 ### [Israel rejects as "failed to meet the criteria" the application of Fatima Sharif, the Gaza human rights attorney who hoped to study for a master's degree in human rights and democracy at Birzeit University in the Israeli-occupied West Bank. ](/news/2010/07/7/israel-rejects-as-failed-to-meet-the-criteria-the-application-of-fatima-sharif-the-gaza-human-rights-attorney-who-hoped-to-study-for-a-ma.md)
-_Context: Birzeit University, Gaza Strip, Human rights, West Bank, master's degree_
+_Context: Birzeit University, Gaza Strip, West Bank, human rights, master's degree_
 
 ### [Cuba releases 52 political prisoners in its aim to improve its human rights record, the largest number the country has released for decades. ](/news/2010/07/7/cuba-releases-52-political-prisoners-in-its-aim-to-improve-its-human-rights-record-the-largest-number-the-country-has-released-for-decades.md)
 Cuba agrees to free 52 political prisoners in the largest prisoner release by the communist authorities for decades.

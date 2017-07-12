@@ -43,7 +43,7 @@ _Context: Human Rights Council, Human rights in Iran, Iranian government_
 _Context: European Stability Mechanism, Libyan Civil War, UN Security Council Resolution 1973_
 
 ### [Chinese human rights activist Liu Xianbin is sentenced to ten years in jail on charges of inciting subversion. ](/news/2011/03/25/chinese-human-rights-activist-liu-xianbin-is-sentenced-to-ten-years-in-jail-on-charges-of-inciting-subversion.md)
-_Context: Chinese, Human rights, Liu Xianbin_
+_Context: Chinese, Liu Xianbin, human rights_
 
 ### [Domonique Ramirez wins a lawsuit against the Miss San Antonio pageant which means she will regain her title and crown, this after being stripped of her title for being "overweight". ](/news/2011/03/25/domonique-ramirez-wins-a-lawsuit-against-the-miss-san-antonio-pageant-which-means-she-will-regain-her-title-and-crown-this-after-being-stri.md)
 A jury has ruled that pageant organizers breached their contract when they harassed a Texas beauty queen about her weight and wrongly stripped her of her crown.

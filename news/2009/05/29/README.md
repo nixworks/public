@@ -1,7 +1,7 @@
 ## [2009-05-29](/news/2009/05/29/index.md)
 
 ### [ Member of Parliament for Scunthorpe Elliot Morley will resign at the United Kingdom's 2010 General Election. ](/news/2009/05/29/member-of-parliament-for-scunthorpe-elliot-morley-will-resign-at-the-united-kingdom-s-2010-general-election.md)
-_Context: 2010 general election, British Parliament, Elliot Morley, MP, Scunthorpe, United Kingdom, resignation_
+_Context: 2010 general election, Elliot Morley, MP, Parliament, Scunthorpe, United Kingdom, resignation_
 
 ### [ American record producer Phil Spector is jailed for 19 years for murdering actress Lana Clarkson in 2003. ](/news/2009/05/29/american-record-producer-phil-spector-is-jailed-for-19-years-for-murdering-actress-lana-clarkson-in-2003.md)
 _Context: Lana Clarkson, Phil Spector, United States, murder, record producer_
@@ -10,7 +10,7 @@ _Context: Lana Clarkson, Phil Spector, United States, murder, record producer_
 Nearly a decade after high-flying upstart AOL bought media titan Time Warner Inc. in what turned out to be one of the most disastrous mergers in history, the two parted company Thursday, leaving both firms searching for their places in an altered media landscape.
 
 ### [ Irish brewery Beamish and Crawford closes after 217 years in business. ](/news/2009/05/29/irish-brewery-beamish-and-crawford-closes-after-217-years-in-business.md)
-_Context: Beamish and Crawford, Republic of Ireland, brewery_
+_Context: Beamish and Crawford, Ireland, brewery_
 
 ### [ Irish broadcaster Pat Kenny hosts his final episode of ''The Late Late Show''. ](/news/2009/05/29/irish-broadcaster-pat-kenny-hosts-his-final-episode-of-the-late-late-show.md)
 _Context: Pat Kenny, The Late Late Show, broadcaster_

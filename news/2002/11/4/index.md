@@ -7,7 +7,7 @@ _Context: AGM-114 Hellfire, Qaed Salim Sinan al-Harethi, USS ''Cole'', Yemen's, 
 _Context: Recep Tayyip Erdogan, Turkey, Turkish Prime Minister, ruling party, secular_
 
 ### [ Human rights: Amnesty International has released a 74-page report accusing the Israel Defense Forces of war crimes and human rights violations.](/news/2002/11/4/human-rights-amnesty-international-has-released-a-74-page-report-accusing-the-israel-defense-forces-of-war-crimes-and-human-rights-violati.md)
-_Context: Amnesty International, Human rights, Israel Defense Forces, war crime_
+_Context: Amnesty International, Israel Defense Forces, human rights, war crime_
 
 ### [ Internet: Country code top-level domain administrators have started to talk about taking back control of their parts of the domain name system that has been controlled by ICANN since the death of Jon Postel. They have complained that ICANN is unaccountable, dictatorial and unresponsive to users' needs.](/news/2002/11/4/internet-country-code-top-level-domain-administrators-have-started-to-talk-about-taking-back-control-of-their-parts-of-the-domain-name-sys.md)
 _Context: Internet, Internet Corporation for Assigned Names and Numbers, Jon Postel, domain name, top-level domain_

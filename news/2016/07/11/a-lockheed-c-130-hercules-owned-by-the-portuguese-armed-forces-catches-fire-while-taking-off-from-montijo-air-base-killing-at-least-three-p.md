@@ -11,6 +11,6 @@
 
 ### Related:
 
-1. [A Lockheed C-130 Hercules military transport aircraft carrying nine people has crashed near the American town of Greenwood, Mississippi. So far, six bodies have been recovered from the wreckage. ](/news/2017/07/10/a-lockheed-c-130-hercules-military-transport-aircraft-carrying-nine-people-has-crashed-near-the-american-town-of-greenwood-mississippi-so.md) _Context: Lockheed C-130 Hercules_
+1. [A United States Marine Corps Lockheed C-130 Hercules military transport aircraft carrying sixteen people has crashed near the American town of Greenwood, Mississippi. So far, at least sixteen bodies have been recovered. ](/news/2017/07/10/a-united-states-marine-corps-lockheed-c-130-hercules-military-transport-aircraft-carrying-sixteen-people-has-crashed-near-the-american-town.md) _Context: Lockheed C-130 Hercules_
 2. [An Indonesian military Lockheed C-130 Hercules transport plane crashes in Papua province killing all 13 people on board. ](/news/2016/12/18/an-indonesian-military-lockheed-c-130-hercules-transport-plane-crashes-in-papua-province-killing-all-13-people-on-board.md) _Context: Lockheed C-130 Hercules_
 3. [ A Hercules C-130 military aircraft with 113 people onboard crashes in a residential area in the Indonesian city of Medan, resulting in at least 116 deaths. ](/news/2015/06/30/a-hercules-c-130-military-aircraft-with-113-people-onboard-crashes-in-a-residential-area-in-the-indonesian-city-of-medan-resulting-in-at-l.md) _Context: Lockheed C-130 Hercules_

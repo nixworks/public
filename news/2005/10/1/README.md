@@ -4,7 +4,7 @@
 _Context: Fred Figglehorn, YouTube_
 
 ### [ The Ilamatepec volcano erupts in a coffee-growing area 40 miles (60 km) west of San Salvador, El Salvador, spitting rock and ash into the air.  The Salvadoran government evacuates hundreds of people in the region and there are no reported injuries. San Salvador's air quality - already the most polluted in Central America - is significantly worsened by the additional volcanic debris. [http://news.yahoo.com/s/nm/20051001/wl_nm/salvador_volcano_dc (Yahoo! news)](Link dead as of 22:37, 14 January 2007 (UTC))](/news/2005/10/1/the-ilamatepec-volcano-erupts-in-a-coffee-growing-area-40-miles-60-km-west-of-san-salvador-el-salvador-spitting-rock-and-ash-into-the-a.md)
-_Context: Central America, El Salvador, Ilamatepec, San Salvador, coffee, volcanic activity_
+_Context: Central America, Coffee, El Salvador, Ilamatepec, San Salvador, volcanic activity_
 
 ### [ A bomb explodes outside of a packed football stadium at the University of Oklahoma, killing one. [http://abcnews.go.com/U.S./wireStory?id=1177089 (ABC)]  [http://www.nytimes.com/2005/10/02/national/02blast.html (NYTimes)] (registration required)](/news/2005/10/1/a-bomb-explodes-outside-of-a-packed-football-stadium-at-the-university-of-oklahoma-killing-one-http-abcnews-go-com-u-s-wirestory-id-1.md)
 _Context: University of Oklahoma, a packed football stadium, bomb_

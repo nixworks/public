@@ -49,7 +49,7 @@ Foreign secretary asks that five men, who previously lived in the U.K. but are n
 Breaking News from Perth and Western Australia | Perth Now
 
 ### [ ''Fortune'' magazine lists Mexican businessman Carlos Slim as the richest man in the world ahead of Microsoft founder Bill Gates. ](/news/2007/08/7/fortune-magazine-lists-mexican-businessman-carlos-slim-as-the-richest-man-in-the-world-ahead-of-microsoft-founder-bill-gates.md)
-_Context: ''Fortune'' magazine, Bill Gates, Carlos Slim, Mexico, Microsoft_
+_Context: ''Fortune'' magazine, Bill, Carlos Slim, Mexico, Microsoft_
 
 ### [ The Pakistan Army launches a strike on a militant base in the Degan area near Miranshah in North Waziristan. ](/news/2007/08/7/the-pakistan-army-launches-a-strike-on-a-militant-base-in-the-degan-area-near-miranshah-in-north-waziristan.md)
 _Context: Degan, Miranshah, Pakistan Army, Waziristan_

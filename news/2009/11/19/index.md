@@ -31,7 +31,7 @@ Airline passengers facing long delays should receive the same cash compensation 
 Move allows for hanging of men convicted of killing Bangladesh independence leader.
 
 ### [ Zimbabwe begins withdrawing soldiers from diamond mines after recommendations by the Kimberley Process regarding human rights abuses. ](/news/2009/11/19/zimbabwe-begins-withdrawing-soldiers-from-diamond-mines-after-recommendations-by-the-kimberley-process-regarding-human-rights-abuses.md)
-_Context: Human rights, Kimberley Process, Zimbabwe_
+_Context: Kimberley Process, Zimbabwe, human rights_
 
 ### [ The Russian Constitutional Court prolongs a ban on the death penalty. The moratorium had been due to expire on January 1. ](/news/2009/11/19/the-russian-constitutional-court-prolongs-a-ban-on-the-death-penalty-the-moratorium-had-been-due-to-expire-on-january-1.md)
 _Context: Constitutional Court, Russia, death penalty_

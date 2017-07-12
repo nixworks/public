@@ -25,7 +25,7 @@ _Context: Guangdong province, Japan, Japan, Japanese history textbooks controver
 _Context: Jeremy Jaynes, prison, spam_
 
 ### [ The International Court of Justice at The Hague begins hearing a complaint by the Democratic Republic of Congo that Uganda of invaded its territory and committed human rights violations. ](/news/2005/04/11/the-international-court-of-justice-at-the-hague-begins-hearing-a-complaint-by-the-democratic-republic-of-congo-that-uganda-of-invaded-its-t.md)
-_Context: Democratic Republic of Congo, Human rights, International Court of Justice, The Hague, Uganda, incursions_
+_Context: Democratic Republic of Congo, International Court of Justice, The Hague, Uganda, human rights, incursions_
 
 ### [ Australian Liberal MP David Tollner urges people to kill poisonous cane toads with cricket bats and golf clubs. The toads have become a nuisance in the Northern Territory. Animal rights groups prefer freezing them to death. ](/news/2005/04/11/australian-liberal-mp-david-tollner-urges-people-to-kill-poisonous-cane-toads-with-cricket-bats-and-golf-clubs-the-toads-have-become-a-nui.md)
 _Context: Australia, David Tollner, Liberal Party, MP, Northern Territory, animal rights, cane toad, cricketer, golfer_

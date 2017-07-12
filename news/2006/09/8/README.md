@@ -10,7 +10,7 @@ _Context: 10 Most Wanted Fugitives list, New York, Pennsylvania, Pennsylvania St
 _Context: Augusto Pinochet, Villa Grimaldi_
 
 ### [ The non-governmental organization Freedom House ranks Burma, Cuba, Libya, North Korea, Sudan, Syria, Turkmenistan, and Uzbekistan as the worst violators of human rights. FH also cited Tibet and Chechnya as areas of intense repression. ](/news/2006/09/8/the-non-governmental-organization-freedom-house-ranks-burma-cuba-libya-north-korea-sudan-syria-turkmenistan-and-uzbekistan-as-the-wo.md)
-_Context: Burma, Chechnya, Cuba, Freedom House, Human rights, Libya, NGO, North Korea, Sudan, Syria, Tibet, Turkmenistan, Uzbekistan_
+_Context: Burma, Chechnya, Cuba, Freedom House, Libya, NGO, North Korea, Sudan, Syria, Tibet, Turkmenistan, Uzbekistan, human rights_
 
 ### [ The United States Senate states there is no evidence of formal links between Iraqi ex-leader Saddam Hussein and al-Qaeda leaders in Iraq prior to the 2003 Iraq War. ](/news/2006/09/8/the-united-states-senate-states-there-is-no-evidence-of-formal-links-between-iraqi-ex-leader-saddam-hussein-and-al-qaeda-leaders-in-iraq-pr.md)
 _Context: Iraq, Iraq War, Saddam Hussein, United States Senate, al-Qaeda_

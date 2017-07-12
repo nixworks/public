@@ -28,7 +28,7 @@ _Context: Afghanistan, presidential election_
 _Context: General Motors, Koenigsegg, Saab Automobile_
 
 ### [ A Sri Lankan government investigation into human rights abuses during its offensive with Tamil Tiger rebels disbands. ](/news/2009/06/16/a-sri-lankan-government-investigation-into-human-rights-abuses-during-its-offensive-with-tamil-tiger-rebels-disbands.md)
-_Context: Human rights, LTTE, Sri Lanka, government, offensive_
+_Context: LTTE, Sri Lanka, government, human rights, offensive_
 
 ### [ 15 laptops containing confidential information owned by Ireland's Health Service Executive are stolen in Roscommon. ](/news/2009/06/16/15-laptops-containing-confidential-information-owned-by-ireland-s-health-service-executive-are-stolen-in-roscommon.md)
 The Health Service Executive and gardaí are investigating the theft of 15 laptops from HSE offices in Roscommon town.

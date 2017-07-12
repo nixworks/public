@@ -4,7 +4,7 @@
 CNN HAS apologised for printing a story on its website that incorrectly accused The Irish Times of printing faked naked photographs&hellip;
 
 ### [ Irish Independent Member of Parliament Noel Grealish withdraws his support for the country's government over the issue of pay cuts in the public sector. The move reduces the administration of Taoiseach Brian Cowen to a minority government. ](/news/2009/12/5/irish-independent-member-of-parliament-noel-grealish-withdraws-his-support-for-the-country-s-government-over-the-issue-of-pay-cuts-in-the-p.md)
-_Context: Brian Cowen, Independent, Noel Grealish, Republic of Ireland, TD, Taoiseach, country's government, minority government, public sector_
+_Context: Brian Cowen, Independent, Ireland, Noel Grealish, TD, Taoiseach, country's government, minority government, public sector_
 
 ### [ More than one million tickets for the 2010 FIFA World Cup in South Africa go on sale globally. ](/news/2009/12/5/more-than-one-million-tickets-for-the-2010-fifa-world-cup-in-south-africa-go-on-sale-globally.md)
 _Context: 2010 FIFA World Cup_

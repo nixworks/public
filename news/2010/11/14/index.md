@@ -80,7 +80,7 @@ Italian Prime Minister Silvio Berlusconi, fighting for the survival of his gover
 _Context: Aung San Suu Kyi, Burma, National League for Democracy, Yangon_
 
 ### [Gerry Adams, the President of Sinn Fein, announces that he will resign his positions in the Northern Ireland Assembly and the Parliament of the United Kingdom to stand for the Dail. ](/news/2010/11/14/gerry-adams-the-president-of-sinn-fa-c-in-announces-that-he-will-resign-his-positions-in-the-northern-ireland-assembly-and-the-parliament-of.md)
-_Context: British Parliament, Dail, Gerry Adams, Northern Ireland Assembly, Sinn Fein_
+_Context: Dail, Gerry Adams, Northern Ireland Assembly, Parliament, Sinn Fein_
 
 ### [The Panhellenic Socialist Movement (PASOK) of Greek Prime Minister George Papandreou does well in a second round of municipal elections including its candidates elected as mayors of Athens and Thessaloniki. ](/news/2010/11/14/the-panhellenic-socialist-movement-pasok-of-greek-prime-minister-george-papandreou-does-well-in-a-second-round-of-municipal-elections-incl.md)
 With 99.6 per cent of votes counted across the country, the ruling party won eight of 13 races for regional governor.

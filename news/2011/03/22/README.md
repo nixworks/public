@@ -55,7 +55,7 @@ _Context: Bahrain's protests, Ban Ki-moon, Catherine Ashton, Franziska Brantner,
 PM: Nobody is above the law, not even a former president; Livni: I have great hope the country is in process of repairing itself.
 
 ### [Syrian police arrest human rights activist Loay Hussein. ](/news/2011/03/22/syrian-police-arrest-human-rights-activist-loay-hussein.md)
-_Context: Human rights, Syrian police_
+_Context: Syrian police, human rights_
 
 ### [The Moriarty Tribunal, in investigating links between businessman Denis O'Brien and then government minister Michael Lowry, finds "beyond doubt" that Lowry assisted O'Brien in gaining a mobile phone license for Esat Digifone, and concludes that Lowry's actions were "disgraceful and insidious." ](/news/2011/03/22/the-moriarty-tribunal-in-investigating-links-between-businessman-denis-o-brien-and-then-government-minister-michael-lowry-finds-beyond-do.md)
 The Moriarty Tribunal has published its report into the awarding of the second mobile phone licence to Esat Digifone in 1996.

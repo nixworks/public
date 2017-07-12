@@ -37,7 +37,7 @@ _Context: Fukushima Daiichi Nuclear Power Plant, Fukushima Daiichi nuclear disas
 A small aircraft with 7 on board crashed into a colony in Faridabad on Wednesday, killing all on board. 3 more persons were killed on the ground. 
 
 ### [Barack Obama, the President of the United States, addresses the Parliament of the United Kingdom. ](/news/2011/05/25/barack-obama-the-president-of-the-united-states-addresses-the-parliament-of-the-united-kingdom.md)
-_Context: Barack Obama, British Parliament, United States President_
+_Context: Barack Obama, Parliament, United States President_
 
 ### [Christine Lagarde, the French Minister for Finance, announces her candidacy to be head of the International Monetary Fund. ](/news/2011/05/25/christine-lagarde-the-french-minister-for-finance-announces-her-candidacy-to-be-head-of-the-international-monetary-fund.md)
 Since Dominique Strauss-Kahn resigned to fight sexual assault charges, Finance Minister Christine Lagarde of France has become a top candidate to lead the International Monetary Fund.

@@ -10,7 +10,7 @@ Israeli forces seized a Palestinian minister and other officials on Thursday in 
 _Context: Kemerovo Oblast, Russia, Siberia, Yubileinaya, coal mine, methane_
 
 ### [ Voting is underway in the Republic of Ireland for a general election after a closely fought campaign. ](/news/2007/05/24/voting-is-underway-in-the-republic-of-ireland-for-a-general-election-after-a-closely-fought-campaign.md)
-_Context: Irish general election, Republic of Ireland, Voting_
+_Context: Ireland, Irish general election, Voting_
 
 ## [Previous Day...](/news/2007/05/23/index.md)
 

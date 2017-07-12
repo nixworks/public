@@ -7,7 +7,7 @@ _Context: Interstate Abortion Bill, United States Senate, abortion, minors_
 _Context: Fujian, Jinjiang, Taiwan, Typhoon Bilis, Typhoon Kaemi, Zhejiang_
 
 ### [ Israeli-Palestinian conflict (Operation Summer Rains): The Israeli army has been accused of using Palestinian civilians as human shields in an operation in northern Gaza. According to the Israeli human rights group, B'tselem, six civilians including two minors were subjected to the illegal tactic during an incursion into the town of Beit Hanoun last week. ](/news/2006/07/25/israeli-palestinian-conflict-operation-summer-rains-p-the-israeli-army-has-been-accused-of-using-palestinian-civilians-as-human-shields-i.md)
-_Context: B'Tselem, Beit Hanoun, Gaza Strip, Human rights, Israel, Israeli-Palestinian conflict, Operation Summer Rains, Palestinian, human shields_
+_Context: B'Tselem, Beit Hanoun, Gaza Strip, Israel, Israeli-Palestinian conflict, Operation Summer Rains, Palestinian, human rights, human shields_
 
 ### [ 2006 Kodori Gorge clashes: Georgia sends a military force to the Kodori Valley in the breakaway Abkhazia region, prompting a warning from Russia. ](/news/2006/07/25/2006-kodori-gorge-clashes-georgia-sends-a-military-force-to-the-kodori-valley-in-the-breakaway-abkhazia-region-prompting-a-warning-from-r.md)
 _Context: 2006 Kodori Gorge clashes, Abkhazia, Georgia, Kodori Valley, Russia_

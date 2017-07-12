@@ -1,7 +1,7 @@
 ## [2009-02-14](/news/2009/02/14/index.md)
 
 ### [ An oil spill occurs in the Celtic Sea near County Cork, Ireland.  ](/news/2009/02/14/an-oil-spill-occurs-in-the-celtic-sea-near-county-cork-ireland.md)
-_Context: Celtic Sea, Cork, Republic of Ireland, oil spill_
+_Context: Celtic Sea, Cork, Ireland, oil spill_
 
 ### [ Peruvian director Claudia Llosa's ''The Milk of Sorrow'' wins the Golden Bear at the 59th Berlin International Film Festival. ](/news/2009/02/14/peruvian-director-claudia-llosa-s-the-milk-of-sorrow-wins-the-golden-bear-at-the-59th-berlin-international-film-festival.md)
 Judges unanimous: Peru&#039;s Milk Of Sorrow pick of the flicks at the Berlin Film Festival.

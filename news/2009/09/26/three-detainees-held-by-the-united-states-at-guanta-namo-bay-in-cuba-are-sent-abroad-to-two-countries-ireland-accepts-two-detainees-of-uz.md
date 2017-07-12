@@ -13,7 +13,7 @@ Three detainees held at the U.S. military prison at Guantanamo Bay, Cuba, have b
 
 ### Related:
 
-1. [Ireland becomes the first European nation to be allowed to export beef to the United States since the mad cow disease scare 15 years ago. ](/news/2015/01/5/ireland-becomes-the-first-european-nation-to-be-allowed-to-export-beef-to-the-united-states-since-the-mad-cow-disease-scare-15-years-ago.md) _Context: Europe, Republic of Ireland, United States_
+1. [Ireland becomes the first European nation to be allowed to export beef to the United States since the mad cow disease scare 15 years ago. ](/news/2015/01/5/ireland-becomes-the-first-european-nation-to-be-allowed-to-export-beef-to-the-united-states-since-the-mad-cow-disease-scare-15-years-ago.md) _Context: Europe, Ireland, United States_
 2. [ The United States abandons the term "enemy combatant" for detainees at Guantanamo Bay Naval Base's detention camp.  ](/news/2009/03/13/the-united-states-abandons-the-term-enemy-combatant-for-detainees-at-guanta-namo-bay-naval-base-s-detention-camp.md) _Context: United States, detainees, military base at Guantanamo Bay_
 3. [ United States President Barack Obama halts the trials of detainees at Guantanamo Bay Naval Base's detention camp. ](/news/2009/01/21/united-states-president-barack-obama-halts-the-trials-of-detainees-at-guanta-namo-bay-naval-base-s-detention-camp.md) _Context: United States, detainees, military base at Guantanamo Bay_
 4. [For the first time in 25 years, the United States abstains in a United Nations vote  calling for an end to its Cuban economic embargo. ](/news/2016/10/26/for-the-first-time-in-25-years-the-united-states-abstains-in-a-united-nations-vote-calling-for-an-end-to-its-cuban-economic-embargo.md) _Context: Cuba, United States_

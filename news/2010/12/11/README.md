@@ -1,7 +1,7 @@
 ## [2010-12-11](/news/2010/12/11/index.md)
 
 ### [Leftist New People's Army rebels capture a village official and tribal chieftain during an attack on a militia outpost in Davao City, southern Philippines. ](/news/2010/12/11/leftist-new-people-s-army-rebels-capture-a-village-official-and-tribal-chieftain-during-an-attack-on-a-militia-outpost-in-davao-city-southe.md)
-_Context: Davao City, New People's Army, Philippines_
+_Context: Davao City, New People's Army, Philippine_
 
 ### [Nazario Moreno Gonzalez, the leader of the La Familia Michoacana drug cartel, is killed in a shootout with police in Michoacan, Mexico. ](/news/2010/12/11/nazario-moreno-gonza-lez-the-leader-of-the-la-familia-michoacana-drug-cartel-is-killed-in-a-shootout-with-police-in-michoaca-n-mexico.md)
 Suspected drug lord Nazario Moreno was gunned down late on Thursday by security forces amid an ongoing crackdown in western Mexico, Mexican national security spokesman Alejandro Poire said on Friday.

@@ -16,7 +16,7 @@ _Context: India, New Delhi_
 _Context: Pakistan, United States, devastating floods_
 
 ### [Iran arrests five human rights lawyers for security-related offences, the latest in a series of arrests of Iranian human rights' activists since last year's disputed presidential election. ](/news/2010/11/15/iran-arrests-five-human-rights-lawyers-for-security-related-offences-the-latest-in-a-series-of-arrests-of-iranian-human-rights-activists-s.md)
-_Context: Human rights, Iran, Iranian human rights, post-election riots_
+_Context: Iran, Iranian human rights, human rights, post-election riots_
 
 ### [Recently freed democracy leader Aung San Suu Kyi criticizes the recent elections in Burma, but calls for dialogue with Myanmar government and pledges to keep working toward restoring democracy and improving human rights in Myanmar. ](/news/2010/11/15/recently-freed-democracy-leader-aung-san-suu-kyi-criticizes-the-recent-elections-in-burma-but-calls-for-dialogue-with-myanmar-government-an.md)
 _Context: Aung San Suu Kyi, Burma, Myanmar government, general elections, human rights record_

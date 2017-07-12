@@ -19,7 +19,7 @@ _Context: Kevin Kiley, Lieutenant General, Surgeon General of the United States 
 _Context: Asanbekov Sarybayev, Bishkek, Government of Kyrgyzstan, United Front For A Worthy Future For Kyrgyzstan, constitution_
 
 ### [ United Nations investigators criticise Sudan for gross human rights violations in Darfur, including murder, mass rape and kidnapping. ](/news/2007/03/12/united-nations-investigators-criticise-sudan-for-gross-human-rights-violations-in-darfur-including-murder-mass-rape-and-kidnapping.md)
-_Context: Darfur, Human rights, Sudan, United Nations_
+_Context: Darfur, Sudan, United Nations, human rights_
 
 ### [ The blueprint for the Chinese space program, including the first Chinese-built astronomy satellite, a joint unmanned mission to Mars with Russia, and other extensive international cooperation, is released. ](/news/2007/03/12/the-blueprint-for-the-chinese-space-program-including-the-first-chinese-built-astronomy-satellite-a-joint-unmanned-mission-to-mars-with-r.md)
 _Context: Astronomers, Mars, Russia, released an object into orbit, spaceflight mission_

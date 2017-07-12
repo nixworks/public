@@ -16,7 +16,7 @@ _Context: Hamas, Israeli Defence Forces, Jenin, Qassam rocket_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Microsoft founder Bill Gates is awarded the title of Knight Commander of the Most Excellent Order of the British Empire by Queen Elizabeth II (which will entitle him to suffix the letters "KBE" to his name but not use the title of "Sir") for his contribution to enterprise in the United Kingdom and his efforts in poverty reduction around the world. ](/news/2005/03/2/microsoft-founder-bill-gates-is-awarded-the-title-of-knight-commander-of-the-most-excellent-order-of-the-british-empire-by-queen-elizabeth.md)
-_Context: Bill Gates, Knight Commander of the Most Excellent Order of the British Empire, Microsoft, Queen Elizabeth, poverty_
+_Context: Bill, Knight Commander of the Most Excellent Order of the British Empire, Microsoft, Queen Elizabeth, poverty_
 
 ## [Previous Day...](/news/2005/03/1/index.md)
 

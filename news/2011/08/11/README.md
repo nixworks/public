@@ -19,7 +19,7 @@ Israel gives final approval for the controversial building of 1,600 settler home
 A KEY suspect in the 2002 Bali bombings has arrived in the Indonesian capital after authorities extradited him from Pakistan, officials say.
 
 ### [The Parliament of the United Kingdom comes back from its summer break to debate the 2011 England riots. ](/news/2011/08/11/the-parliament-of-the-united-kingdom-comes-back-from-its-summer-break-to-debate-the-2011-england-riots.md)
-_Context: 2011 England Riots, British Parliament_
+_Context: 2011 England Riots, Parliament_
 
 ### [The Philippine Senate Electoral Tribunal proclaims Aquilino Pimentel III as the winner of the 2007 election days after Juan Miguel Zubiri resigned due to alleged electoral fraud. ](/news/2011/08/11/the-philippine-senate-electoral-tribunal-proclaims-aquilino-pimentel-iii-as-the-winner-of-the-2007-election-days-after-juan-miguel-zubiri-re.md)
 A Philippine election candidate is declared winner of a Senate seat more than four years after the vote took place.

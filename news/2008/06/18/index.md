@@ -7,7 +7,7 @@ _Context: Brazil, Japanese Immigration_
 _Context: Abdullahi Yusuf Ahmed, President, Somalia, assassinated_
 
 ### [ The Parliament of the United Kingdom ratifies the Treaty of Lisbon. ](/news/2008/06/18/the-parliament-of-the-united-kingdom-ratifies-the-treaty-of-lisbon.md)
-_Context: British Parliament, Treaty of Lisbon_
+_Context: Parliament, Treaty of Lisbon_
 
 ### [ The United States and China agree to negotiate an investment treaty and to cooperate more closely on energy security and global pollution. ](/news/2008/06/18/the-united-states-and-china-agree-to-negotiate-an-investment-treaty-and-to-cooperate-more-closely-on-energy-security-and-global-pollution.md)
 _Context: China, United States, energy security_

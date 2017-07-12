@@ -31,7 +31,7 @@ The remains of more than 2,000 people believed to be German civilians killed at 
 Mexico president Felipe Calder&oacute;n and Uruguay&rsquo;s Tabare Vazquez signed on Friday in Montevideo a Strategic Association accord to strengthen political dialogue and bilateral trade relations in the framework of the 2004 free trade agreement.
 
 ### [ After launching a major offensive attack on a suspected ASG training camp, the day-long clash in the Southern Philippines resulted in 23 government casualties and 31 casualties from the Abu Sayyaf Group. ](/news/2009/08/14/after-launching-a-major-offensive-attack-on-a-suspected-asg-training-camp-the-day-long-clash-in-the-southern-philippines-resulted-in-23-go.md)
-_Context: Abu Sayyaf Group, Philippines_
+_Context: Abu Sayyaf Group, Philippine_
 
 ### [ Iranian reformists call for a probe of the Supreme Leader Ali Khamenei and his ability to rule. ](/news/2009/08/14/iranian-reformists-call-for-a-probe-of-the-supreme-leader-ali-khamenei-and-his-ability-to-rule.md)
 _Context: Ali Khamenei, Iran, Supreme Leader of Iran_

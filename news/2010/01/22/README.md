@@ -43,7 +43,7 @@ _Context: Colombo, Sri Lanka, presidential election_
 _Context: Alexey Dymovskiy, Russia, YouTube, corruption, fraud, policeman_
 
 ### [The internationally renowned Waterford Crystal tourist centre in Kilbarry, Ireland, ceases to function. ](/news/2010/01/22/the-internationally-renowned-waterford-crystal-tourist-centre-in-kilbarry-ireland-ceases-to-function.md)
-_Context: Kilbarry, Republic of Ireland, Waterford Crystal_
+_Context: Ireland, Kilbarry, Waterford Crystal_
 
 ### [Conan O'Brien hosted the late night variety television show, The Tonight Show, on NBC for the final time. ](/news/2010/01/22/conan-o-brien-hosted-the-late-night-variety-television-show-the-tonight-show-on-nbc-for-the-final-time.md)
 Jay Leno has concluded his run as host of “The Tonight Show with Jay Leno” by delivering the show’s biggest overall audience in more than 15 years, since May 1998.

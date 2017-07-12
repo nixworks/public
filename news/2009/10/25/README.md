@@ -16,7 +16,7 @@ During a dinner conversation with Wen Jiabao, PM did what Obama hesitates to do:
 _Context: Movement for the Emancipation of the Niger Delta, Nigeria_
 
 ### [ Maksharip Aushev, human rights activist and opposition leader of Ingushetia, is shot dead while driving his car near Nartan in Kabardino-Balkaria. A female passenger is also attacked. ](/news/2009/10/25/maksharip-aushev-human-rights-activist-and-opposition-leader-of-ingushetia-is-shot-dead-while-driving-his-car-near-nartan-in-kabardino-ba.md)
-_Context: Human rights, Ingushetia, Kabardino-Balkaria, Maksharip Aushev, Nartan_
+_Context: Ingushetia, Kabardino-Balkaria, Maksharip Aushev, Nartan, human rights_
 
 ### [ Tunisians vote in a general election. ](/news/2009/10/25/tunisians-vote-in-a-general-election.md)
 Incumbent Ben Ali, who has been in power for 22 years, likely to win fifth term.

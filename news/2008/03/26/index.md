@@ -16,7 +16,7 @@ President Bush has told Chinese President Hu Jintao that a mistake was made in t
 _Context: Battle of Basra (2008), Iraq War, Iraqi security forces, Shiite_
 
 ### [ The South Korean government decides to vote for a resolution on North Korean human rights violations in the United Nations Human Rights Council. ](/news/2008/03/26/the-south-korean-government-decides-to-vote-for-a-resolution-on-north-korean-human-rights-violations-in-the-united-nations-human-rights-cou.md)
-_Context: Human Rights Council, Human rights, North Korea, South Korea_
+_Context: Human Rights Council, North Korea, South Korea, human rights_
 
 ### [ A 41 km &times; 2.5 km chunk of ice (102.5 km, see size comparisons) breaks away from the Antarctic Wilkins ice shelf, heralding the disintegration of the remaining 14,000 km<sup>2</sup>. ](/news/2008/03/26/a-41-km-times-2-5-km-chunk-of-ice-102-5-km2-see-size-comparisons-breaks-away-from-the-antarctic-wilkins-ice-shelf-heralding-the-disin.md)
 _Context: Antarctic, Wilkins ice shelf, iceberg, see size comparisons_

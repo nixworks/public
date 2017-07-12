@@ -28,7 +28,7 @@ _Context: Libya, Libyan Civil War_
 Australian plans to impose a set price on carbon emissions would affect fewer than 1,000 companies, Climate Change Minister Greg Combet said on Monday.
 
 ### [Laurent Gbagbo, the President of Ivory Coast, nationalises the coffee and cocoa industries which are the Ivory Coast's two biggest crops. ](/news/2011/03/7/laurent-gbagbo-the-president-of-ivory-coast-nationalises-the-coffee-and-cocoa-industries-which-are-the-ivory-coast-s-two-biggest-crops.md)
-_Context: Ivory Coast, Laurent Gbagbo, President, cocoa, coffee_
+_Context: Coffee, Ivory Coast, Laurent Gbagbo, President, cocoa_
 
 ### [AOL completes its purchase of the Huffington Post. ](/news/2011/03/7/aol-completes-its-purchase-of-the-huffington-post.md)
 _Context: AOL, Huffington Post_

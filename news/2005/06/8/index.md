@@ -16,7 +16,7 @@ _Context: 1713, 1975, Germany, Johann Sebastian Bach, aria_
 _Context: Bolivia, Carlos Mesa, civil war, election_
 
 ### [ The Philippine senate is evacuated after a bomb threat. ](/news/2005/06/8/the-philippine-senate-is-evacuated-after-a-bomb-threat.md)
-_Context: Philippines_
+_Context: Philippine_
 
 ### [ Ethiopian general elections: At least 22 Ethiopians are killed at demonstrations in Addis Ababa between police and students who accuse the ruling party of fraud in last month's general elections. ](/news/2005/06/8/ethiopian-general-elections-at-least-22-ethiopians-are-killed-at-demonstrations-in-addis-ababa-between-police-and-students-who-accuse-the.md)
 _Context: 2005 elections, Addis Ababa, EPRDF, Ethiopia_

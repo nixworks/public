@@ -46,7 +46,7 @@ _Context: Catholic, France, Middle East, Poland, Spain, Vatican City, charter fl
 Polluters along two of China&#039;s main rivers have defied years of clean-up efforts, leaving much of the water unfit to touch, let alone drink.
 
 ### [ Former Deputy Prime Minister of the United Kingdom John Prescott announces he will retire as a Member of Parliament at the next election. ](/news/2007/08/27/former-deputy-prime-minister-of-the-united-kingdom-john-prescott-announces-he-will-retire-as-a-member-of-parliament-at-the-next-election.md)
-_Context: British Parliament, Deputy Prime Minister, John Prescott_
+_Context: Deputy Prime Minister, John Prescott, Parliament_
 
 ### [ The Flight Data Recorder is retrieved from the wreckage of Adam Air Flight 574. (Wikinews)](/news/2007/08/27/the-flight-data-recorder-is-retrieved-from-the-wreckage-of-adam-air-flight-574-wikinews.md)
 _Context: Adam Air, Flight 574, Wikinews, flight data recorder_

@@ -58,7 +58,7 @@ A meeting is beginning in the Indonesian capital, Jakarta, to discuss the re-est
 _Context: Bkkbrny, Hungary, coal mine, cypress, forest, fossil_
 
 ### [ Gloria Arroyo, the President of the Philippines, sends the chief of the army Romeo Tolentino to Zamboanga in the southern Philippines to direct operations against militants. ](/news/2007/08/12/gloria-arroyo-the-president-of-the-philippines-sends-the-chief-of-the-army-romeo-tolentino-to-zamboanga-in-the-southern-philippines-to-di.md)
-_Context: Gloria Arroyo, Philippines, President of the Philippines, Romeo Tolentino, Zamboanga City_
+_Context: Gloria Arroyo, Philippine, President of the Philippines, Romeo Tolentino, Zamboanga City_
 
 ## [Previous Day...](/news/2007/08/11/index.md)
 

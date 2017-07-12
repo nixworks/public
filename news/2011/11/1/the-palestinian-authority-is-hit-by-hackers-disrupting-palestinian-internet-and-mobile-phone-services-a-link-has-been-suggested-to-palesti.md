@@ -12,7 +12,7 @@ Hackers disruptedPalestinian Internet services in the West Bank and Gaza Strip o
 
 ### Related:
 
-1. [UNESCO declares the Lake District in North West England and Iran's City of Yazd as world heritage sites. ](/news/2017/07/9/unesco-declares-the-lake-district-in-north-west-england-and-iran-s-city-of-yazd-as-world-heritage-sites.md) _Context: UNESCO_
+1. [UNESCO declares eight new sites as world heritage sites; including Lake District in North West England and Iran's Historic City of Yazd. ](/news/2017/07/9/unesco-declares-eight-new-sites-as-world-heritage-sites-including-lake-district-in-north-west-england-and-iran-s-historic-city-of-yazd.md) _Context: UNESCO_
 2. [UNESCO declares the old city of Hebron and the Cave of the Patriarchs, both  in the West Bank, as world heritage sites. ](/news/2017/07/7/unesco-declares-the-old-city-of-hebron-and-the-cave-of-the-patriarchs-both-in-the-west-bank-as-world-heritage-sites.md) _Context: UNESCO_
 3. [In a meeting held in the city of Krakow, Poland, UNESCO decides not to include Machu Picchu on its list of endangered heritage sites due to the steps taken by Peruvian authorities to address concerns about the condition of the Inca citadel. ](/news/2017/07/6/in-a-meeting-held-in-the-city-of-kraka3w-poland-unesco-decides-not-to-include-machu-picchu-on-its-list-of-endangered-heritage-sites-due-to.md) _Context: UNESCO_
 4. [The first synchrotron in the Middle East, SESAME, opens in Jordan, marking a rare cooperation between Iran, Israel, Turkey, and the Palestinian Authority.  ](/news/2017/05/16/the-first-synchrotron-in-the-middle-east-sesame-opens-in-jordan-marking-a-rare-cooperation-between-iran-israel-turkey-and-the-palestin.md) _Context: Palestinian Authority_

@@ -4,7 +4,7 @@
 _Context: 2007 presidential election, Kenya, rioting_
 
 ### [ Seven people are injured and four are missing when a fire razed several fireworks stores in the Municipality of Bocaue, Bulacan, Philippines.](/news/2007/12/31/seven-people-are-injured-and-four-are-missing-when-a-fire-razed-several-fireworks-stores-in-the-municipality-of-bocaue-bulacan-philippine.md)
-_Context: Bocaue, Bulacan, Municipality, Philippines, fire razed several fireworks stores_
+_Context: Bocaue, Bulacan, Municipality, Philippine, fire razed several fireworks stores_
 
 ## [Previous Day...](/news/2007/12/30/index.md)
 

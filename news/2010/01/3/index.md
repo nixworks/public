@@ -43,7 +43,7 @@ Burst oil pipeline dumps thousands of litres of diesel into major tributary.
 _Context: United Kingdom, United States, Yemen's, al-Qaeda_
 
 ### [The Supreme Court of Peru upholds a 25 year prison sentence for former President Alberto Fujimori, convicted of mass human rights violations. ](/news/2010/01/3/the-supreme-court-of-peru-upholds-a-25-year-prison-sentence-for-former-president-alberto-fujimori-convicted-of-mass-human-rights-violations.md)
-_Context: Alberto Fujimori, Human rights, President, Supreme Court of Peru_
+_Context: Alberto Fujimori, President, Supreme Court of Peru, human rights_
 
 ### [Mexican police arrest alleged drug lord Carlos Beltran Leyva in Culiacan, Sinaloa. ](/news/2010/01/3/mexican-police-arrest-alleged-drug-lord-carlos-beltra-n-leyva-in-culiaca-n-sinaloa.md)
 _Context: Beltran Leyva Cartel, Culiacan, Sinaloa, Mexico_

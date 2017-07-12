@@ -31,7 +31,7 @@ _Context: Ethiopia, election fraud_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ International Federation for Human Rights demands that International Criminal Court investigate human rights abuses of Colombian paramilitary group Self-Defense Forces of Colombia (AUC) ](/news/2005/06/29/international-federation-for-human-rights-demands-that-international-criminal-court-investigate-human-rights-abuses-of-colombian-paramilita.md)
-_Context: Colombia, Human rights, International Criminal Court, International Federation for Human Rights, Self-Defense Forces of Colombia_
+_Context: Colombia, International Criminal Court, International Federation for Human Rights, Self-Defense Forces of Colombia, human rights_
 
 ### [ In Liberia, Gyude Bryant, president of transitional government, states that he is going to use death penalty against those who commit gboyo human sacrifice, especially presidential candidates trying to boost their chances ](/news/2005/06/29/in-liberia-gyude-bryant-president-of-transitional-government-states-that-he-is-going-to-use-death-penalty-against-those-who-commit-gboyo.md)
 _Context: Gyude Bryant, Liberia, death penalty, gboyo, human sacrifice_

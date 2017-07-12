@@ -52,7 +52,7 @@ _Context: Lord's Resistance Army, Southern Sudan, Southern Sudanese Independence
 Iran has demonstrated its hold over the future of Iraqi politics, telling Nouri al-Maliki, the prime minister, to &#034;get rid of America&#034; as he arrived to ask Tehran&#039;s blessing for a second term in office.
 
 ### [The Convention on Biological Diversity (CBD), a major United Nations gathering, meets in Japan to work out why governments have failed to stop the rapid rate of extinction and loss of habitats by 2010, as they vowed 8 years ago. ](/news/2010/10/18/the-convention-on-biological-diversity-cbd-a-major-united-nations-gathering-meets-in-japan-to-work-out-why-governments-have-failed-to-st.md)
-_Context: Convention on Biological Diversity, Japan, United Nations, extinction_
+_Context: Convention on Biological Diversity, Holocene extinction, Japan, United Nations_
 
 ### [The Prime Minister of Japan Naoto Kan voices concerns about rowdy anti-Japanese protests in China, sparked by a recent territorial dispute. ](/news/2010/10/18/the-prime-minister-of-japan-naoto-kan-voices-concerns-about-rowdy-anti-japanese-protests-in-china-sparked-by-a-recent-territorial-dispute.md)
 _Context: Chinese, Japan, Naoto Kan, Prime Minister_
@@ -61,7 +61,7 @@ _Context: Chinese, Japan, Naoto Kan, Prime Minister_
 A man can beat his wife and kids as long as no physical marks are left, the highest court in the United Arab Emirates has found.
 
 ### [Five migrant Filipino workers are arrested in Saudi Arabia for filing a labor complaint against their employer according to a Philippine migrant workers' rights group. ](/news/2010/10/18/five-migrant-filipino-workers-are-arrested-in-saudi-arabia-for-filing-a-labor-complaint-against-their-employer-according-to-a-philippine-mig.md)
-_Context: Philippines, Saudi Arabia, migrant workers_
+_Context: Philippine, Saudi Arabia, migrant workers_
 
 ### [More than 150 people, including 12 mayors and some politicians, go on trial for alleged links to the Kurdistan Workers' Party (PKK) in Turkey. ](/news/2010/10/18/more-than-150-people-including-12-mayors-and-some-politicians-go-on-trial-for-alleged-links-to-the-kurdistan-workers-party-pkk-in-turke.md)
 _Context: Kurdistan Workers' Party, Turkey_

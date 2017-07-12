@@ -16,7 +16,7 @@ _Context: Afghanistan, Kabul, Taliban insurgency, suicide bombing_
 At least four people were killed as clashes between Muslim Brotherhood supporters and police flared up across Egypt on Friday, security sources said.
 
 ### [One of the last Japanese soldiers to surrender from World War II, Hiroo Onoda, who surrendered in the Philippines in 1974, dies at the age of 91. ](/news/2014/01/17/one-of-the-last-japanese-soldiers-to-surrender-from-world-war-ii-hiroo-onoda-who-surrendered-in-the-philippines-in-1974-dies-at-the-age-o.md)
-_Context: Hiroo Onoda, Japanese, Philippines, World War II_
+_Context: Hiroo Onoda, Japanese, Philippine, World War II_
 
 ### [Zara Phillips, granddaughter of Queen Elizabeth II gives birth to a daughter. ](/news/2014/01/17/zara-phillips-granddaughter-of-queen-elizabeth-ii-gives-birth-to-a-daughter.md)
 _Context: Elizabeth II, Zara Phillips_

@@ -28,7 +28,7 @@ _Context: 2016 Warsaw summit, Georgia, John Kerry, Kiev, Ukraine-United States r
 The United States has tentatively approved flights on eight U.S. airlines to Havana as early as this autumn, with American Airlines Group Inc (AAL.O) receiving the largest share of the limited routes, the Transportation Department said on Thursday.
 
 ### [Human rights in the Philippines; The Philippines House of Representatives seeks to investigate the rise in deaths of suspected drug dealers in the country. ](/news/2016/07/7/human-rights-in-the-philippines-the-philippines-house-of-representatives-seeks-to-investigate-the-rise-in-deaths-of-suspected-drug-dealers.md)
-_Context: House of Representatives, Philippine Drug War, deaths, human rights, illegal drug trade_
+_Context: House of Representatives, Human rights in the Philippines, Philippine Drug War, deaths, illegal drug trade_
 
 ### [Germany's parliament passes a new law saying that it is rape to have sex with a person who says "No" to the sex. Under the previous law, sex was not considered rape unless the victim fought back. The new law also classifies groping as a sex crime, makes it easier to deport migrants who commit sex offences, and makes it easier to prosecute assaults committed by a large group. ](/news/2016/07/7/germany-s-parliament-passes-a-new-law-saying-that-it-is-rape-to-have-sex-with-a-person-who-says-no-to-the-sex-under-the-previous-law-sex.md)
 _Context: Rape in Germany_
@@ -52,7 +52,7 @@ Zimbabweans carry out nationwide strike and protests in the capital against the 
 Embattled Australian Prime Minister Malcolm Turnbull appeared likely to retain power after gaining the support of a key independent on Thursday, although the closeness of the vote signaled more tough political and economic times ahead.
 
 ### [Conservative Party members of parliament vote in a second ballot to choose the next leader of the party to replace outgoing Prime Minister David Cameron. The Home Secretary Theresa May secured the highest number votes with 199, while Department of Energy and Climate Change minister Andrea Leadsom received the second highest amount, with 84. The Secretary of State for Justice Michael Gove received just 46 votes and is eliminated from the race, meaning a run-off contest will now take place between May and Leadsom, with the result to be announced on September 9. ](/news/2016/07/7/conservative-party-members-of-parliament-vote-in-a-second-ballot-to-choose-the-next-leader-of-the-party-to-replace-outgoing-prime-minister-d.md)
-_Context: Andrea Leadsom, British Parliament, Conservative Party, Conservative Party (UK) leadership election, 2016, David Cameron, Department of Energy and Climate Change, Home Secretary, Michael Gove, Prime Minister, Secretary of State for Justice, Theresa May_
+_Context: Andrea Leadsom, Conservative Party, Conservative Party (UK) leadership election, 2016, David Cameron, Department of Energy and Climate Change, Home Secretary, Michael Gove, Parliament, Prime Minister, Secretary of State for Justice, Theresa May_
 
 ### [The United States Department of State reopens an investigation into the possible mishandling of classified information by former Secretary of State and presumptive Democratic Party presidential nominee Hillary Clinton and her top aides. ](/news/2016/07/7/the-united-states-department-of-state-reopens-an-investigation-into-the-possible-mishandling-of-classified-information-by-former-secretary-o.md)
 _Context: Democratic Party, Hillary Clinton, Hillary Clinton email scandal, United States Department of State_

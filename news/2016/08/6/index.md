@@ -7,7 +7,7 @@ _Context: Idlib province, Syria, Syrian Civil War, Syrian Observatory for Human 
 Two Belgian policewomen on guard outside a police station in the city of Charleroi were wounded in a machete attack on Saturday by an assailant who shouted &ldquo;Allahu Akbar&rdquo;, police said.
 
 ### [Three people, including a pregnant woman, are kidnapped in Patikul, Sulu, in the Philippines Autonomous Region in Muslim Mindanao. No group has claimed responsibility, though Abu Sayyaf is suspected. ](/news/2016/08/6/three-people-including-a-pregnant-woman-are-kidnapped-in-patikul-sulu-in-the-philippines-autonomous-region-in-muslim-mindanao-no-group.md)
-_Context: Abu Sayyaf, Autonomous Region in Muslim Mindanao, Moro conflict, Patikul, Sulu, Philippines_
+_Context: Abu Sayyaf, Autonomous Region in Muslim Mindanao, Moro conflict, Patikul, Sulu, Philippine_
 
 ### [Reuters reports, based on sources "familiar with the matter," that Nissan is talking with Panasonic Corp. about the sale of Nissan's car battery manufacturing operation. ](/news/2016/08/6/reuters-reports-based-on-sources-familiar-with-the-matter-that-nissan-is-talking-with-panasonic-corp-about-the-sale-of-nissan-s-car-bat.md)
 Nissan Motor Co (7201.T) is in talks with Panasonic Corp (6752.T) and overseas companies including Chinese firms over the possible sale of its controlling stake in a car battery manufacturing venture, sources said.
@@ -22,7 +22,7 @@ _Context: 2016 Atlantic hurricane season, Earl's, Mexico, Veracruz_
 _Context: China, Chinese aircraft, Scarborough Shoal, South China Sea, Spratly Islands, Su-30, Territorial disputes in the South China Sea, Xian H-6, Xinhua News Agency, strategic bombers_
 
 ### [Hawaii U.S. Senator Brian Schatz criticizes Donald Trump for calling the Philippines a 'terrorist' country. ](/news/2016/08/6/hawaii-u-s-senator-brian-schatz-criticizes-donald-trump-for-calling-the-philippines-a-terrorist-country.md)
-_Context: 2016 U.S. presidential election, Brian Schatz, Donald Trump, Hawaii, Philippines_
+_Context: 2016 U.S. presidential election, Brian Schatz, Donald Trump, Hawaii, Philippine_
 
 ## [Previous Day...](/news/2016/08/5/index.md)
 

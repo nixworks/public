@@ -25,7 +25,7 @@ _Context: Ohio, Trumbull County, United States, Warren_
 _Context: Chevrolet, Dumas, SUV, Texas, United States, gas tanker_
 
 ### [The head of Sierra Leone's Anti-corruption Commission says that 29 government health officials will appear in court on corruption charges for having allegedly defrauded the Bill & Melinda Gates Foundation's vaccine programme. ](/news/2013/03/10/the-head-of-sierra-leone-s-anti-corruption-commission-says-that-29-government-health-officials-will-appear-in-court-on-corruption-charges-fo.md)
-_Context: Anti-corruption Commission, Bill & Melinda Gates Foundation, Sierra Leone, vaccine_
+_Context: Anti-corruption Commission, Sierra Leone, foundation, vaccine_
 
 ### [The Mexican Navy frees 104 Central American kidnapped migrants from a house in Nuevo Laredo, Tamaulipas. ](/news/2013/03/10/the-mexican-navy-frees-104-central-american-kidnapped-migrants-from-a-house-in-nuevo-laredo-tamaulipas.md)
 Authorities say Mexican marines have freed 104 kidnapped Central American migrants who were being held in a house in the border city of Nuevo Leon.

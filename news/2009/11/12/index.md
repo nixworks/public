@@ -34,7 +34,7 @@ _Context: Nepal, Nepalese Maoist Party, President_
 _Context: President of Palau, Tommy Remengesau_
 
 ### [ The government of Venezuela nationalizes the Fama de America and Cafea coffee producers. ](/news/2009/11/12/the-government-of-venezuela-nationalizes-the-fama-de-america-and-cafea-coffee-producers.md)
-_Context: Venezuela, coffee, nationalizes_
+_Context: Coffee, Venezuela, nationalizes_
 
 ## [Previous Day...](/news/2009/11/11/index.md)
 

@@ -22,7 +22,7 @@ The ultimate news source for music, celebrity, entertainment, movies, and curren
 _Context: Feroz Abbasi, Martin Mubanga, Moazzam Begg, Richard Belmar, United Kingdom_
 
 ### [ Bill Gates donates $750 million through the Bill & Melinda Gates Foundation to the Global Alliance for Vaccines and Immunisation, to provide vaccines to children in poor countries. This is one of the largest philanthropic donations ever made by a living donor. ](/news/2005/01/25/bill-gates-donates-750-million-through-the-bill-melinda-gates-foundation-to-the-global-alliance-for-vaccines-and-immunisation-to-provid.md)
-_Context: Bill & Melinda Gates Foundation, Bill Gates, million_
+_Context: Bill, foundation, million_
 
 ### [ The Bush administration is requesting an additional $80 billion from Congress for Iraq and Afghanistan, bringing the total cost of both operations over $280 billion. ](/news/2005/01/25/the-bush-administration-is-requesting-an-additional-80-billion-from-congress-for-iraq-and-afghanistan-bringing-the-total-cost-of-both-ope.md)
 Get the latest breaking news and top news headlines at Reuters.com

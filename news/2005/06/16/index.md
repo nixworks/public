@@ -22,7 +22,7 @@ _Context: Japan, Yoshiaki Tsutsumi, fraud, insider trading, tycoon_
 _Context: Chile, Colonia Dignidad, Paul Schaefer, Villa Baviera, arsenal_
 
 ### [ Uzbekistan deports four members of human rights group International Helsinki Federation after they had investigated unrest in Andijan. ](/news/2005/06/16/uzbekistan-deports-four-members-of-human-rights-group-international-helsinki-federation-after-they-had-investigated-unrest-in-andijan.md)
-_Context: Andijan, Human rights, International Helsinki Federation, Uzbekistan_
+_Context: Andijan, International Helsinki Federation, Uzbekistan, human rights_
 
 ### [ In Brazil, minister Jos Dirceu resigns due to allegations that he knew about bribery but insists that he is innocent ](/news/2005/06/16/in-brazil-minister-jose-dirceu-resigns-due-to-allegations-that-he-knew-about-bribery-but-insists-that-he-is-innocent.md)
 _Context: Brazil, Jos Dirceu, bribes_

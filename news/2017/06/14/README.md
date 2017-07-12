@@ -25,7 +25,7 @@ GUATEMALA CITY (AP) — Five people were killed and seven injured by a magnitude
 _Context: Egypt-Saudi Arabia relations, Egyptian parliament, Red Sea, Sanafir Island, Saudi Arabia, Tiran Island_
 
 ### [Nearly 200 members of the Democratic Party in the United States Congress file a lawsuit in the federal court, claiming that U.S. President Trump profits from business dealings with foreign governments, in violation of the United States Constitution's emolument clauses. This is the third such suit of its kind, following on the heels of the most recent suit by the Attorneys General of Maryland and the District of Columbia.](/news/2017/06/14/nearly-200-members-of-the-democratic-party-in-the-united-states-congress-file-a-lawsuit-in-the-federal-court-claiming-that-u-s-president-t.md)
-_Context: Democratic Party, District of Columbia, Maryland, Presidency of Donald Trump, United States Congress, United States Constitution, United States President, emolument clauses_
+_Context: Democratic Party, District of Columbia, Maryland, Trump Administration, United States Congress, United States Constitution, United States President, emolument clauses_
 
 ### [Australia agrees to pay AUS$70 million in compensation to 1,905 people who have been detained on Manus Island since 2012, so avoiding a public trial against the government and the Transfield and G4S private companies for the detainees' degrading and cruel treatment. ](/news/2017/06/14/australia-agrees-to-pay-aus-70-million-in-compensation-to-1-905-people-who-have-been-detained-on-manus-island-since-2012-so-avoiding-a-publ.md)
 Detainees at an Australian asylum-seeker camp in Papua New Guinea won millions of dollars in compensation for &quot;degrading and cruel&quot; treatment Wednesday, in a decision hailed as an important human rights victory.
@@ -43,7 +43,7 @@ At least three people were killed and two injured when a man dressed in a UPS un
 Tim Farron has resigned as leader of the Liberal Democrats, following a furore over his beliefs concerning gay sex. The politician admitted some of his comments concerning the matter could have been wiser – when asked if homosexuality is a sin he had previously responded: “We are all sinners.” After the matter refused to go away and surfaced again during the election campaign, Mr Farron said it had felt “impossible” to be both Lib Dem leader and a Christian.
 
 ### [Leo Varadkar becomes the first gay Taoiseach of the  Republic of Ireland. ](/news/2017/06/14/leo-varadkar-becomes-the-first-gay-taoiseach-of-the-republic-of-ireland.md)
-_Context: Government of Ireland, Leo Varadkar, Republic of Ireland, Taoiseach, gay_
+_Context: Government of Ireland, Ireland, Leo Varadkar, Taoiseach, gay_
 
 ### [The deceased body of a rare two-headed porpoise is located for the first time in the North Sea by Dutch fishermen. ](/news/2017/06/14/the-deceased-body-of-a-rare-two-headed-porpoise-is-located-for-the-first-time-in-the-north-sea-by-dutch-fishermen.md)
 Fished from a trawl net, Dutch fisherman stumbled upon the extremely rare catch in the North Sea.

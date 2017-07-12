@@ -19,7 +19,7 @@ _Context: Alaska, Bear attacks, black bear_
 UK and EU representatives say opening day of discussions will mainly deal with timing and structure of separation talks
 
 ### [Indonesia, Malaysia and the Philippines begin joint patrols in the pirate havens within the Celebes and Sulu Seas. ](/news/2017/06/19/indonesia-malaysia-and-the-philippines-begin-joint-patrols-in-the-pirate-havens-within-the-celebes-and-sulu-seas.md)
-_Context: Celebes, Indonesia, Malaysia, Philippines, Piracy in the Sulu Sea, Sulu Sea, pirate_
+_Context: Celebes, Indonesia, Malaysia, Philippine, Piracy in the Sulu Sea, Sulu Sea, pirate_
 
 ### [American student Otto Warmbier, who returned to the United States after serving 17 months in the North Korean prison system dies after returning from North Korea last week in a comatose state. His family has accused the Government of North Korea of torturing him. ](/news/2017/06/19/american-student-otto-warmbier-who-returned-to-the-united-states-after-serving-17-months-in-the-north-korean-prison-system-dies-after-retur.md)
 CINCINNATI (AP) — Otto Warmbier, an American college student who was released by North Korea in a coma last week after almost a year and a half in captivity, died Monday, his family said.

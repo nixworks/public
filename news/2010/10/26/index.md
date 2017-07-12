@@ -52,7 +52,7 @@ Residents face aftermath of powerful Cyclone Giri, as aid groups warn number of 
 _Context: Africa, Uganda, World Health Organization, polio_
 
 ### [Approximately 1 in 5 vertebrate species are threatened with extinction according to scientist taking part in the Nagoya talks.](/news/2010/10/26/approximately-1-in-5-vertebrate-species-are-threatened-with-extinction-according-to-scientist-taking-part-in-the-nagoya-talks.md)
-_Context: extinction, vertebrates_
+_Context: Holocene extinction, vertebrates_
 
 ### [The Emir of Qatar begins a state visit to the United Kingdom by meeting Queen Elizabeth II at Windsor Palace. ](/news/2010/10/26/the-emir-of-qatar-begins-a-state-visit-to-the-united-kingdom-by-meeting-queen-elizabeth-ii-at-windsor-palace.md)
 _Context: Elizabeth II, Emir of Qatar, United Kingdom, Windsor Castle_

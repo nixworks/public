@@ -28,7 +28,7 @@ _Context: Minneapolis's, St. Paul, snow emergencies_
 The fear of bird flu has come back to haunt the poultry industry in Andhra Pradesh. With avian influenza being confirmed in Agartala in Tripura, the poultry industry in AP, which is the biggest in the country, has been put on high alert. 
 
 ### [Mount Bulusan on the island of Luzon in the Philippines erupts. ](/news/2011/02/21/mount-bulusan-on-the-island-of-luzon-in-the-philippines-erupts.md)
-_Context: Luzon, Mount Bulusan, Philippines_
+_Context: Luzon, Mount Bulusan, Philippine_
 
 ### [At least thirty people are killed in a stampede at a Mali stadium following a sermon by a leading Muslim imam. ](/news/2011/02/21/at-least-thirty-people-are-killed-in-a-stampede-at-a-mali-stadium-following-a-sermon-by-a-leading-muslim-imam.md)
 _Context: Mali, Muslim, imam_
@@ -53,7 +53,7 @@ The U.S., with 4.5 percent of the world’s population and 25 percent of the wor
 _Context: Alex Chernov, Governor, Victoria_
 
 ### [Three Venezuelan hunger strikers are hospitalised after calling for an international probe into alleged human rights abuses by the President of Venezuela Hugo Chvez. ](/news/2011/02/21/three-venezuelan-hunger-strikers-are-hospitalised-after-calling-for-an-international-probe-into-alleged-human-rights-abuses-by-the-president.md)
-_Context: Hugo Chvez, Human rights, President, Venezuela, hunger strike_
+_Context: Hugo Chvez, President, Venezuela, human rights, hunger strike_
 
 ## [Previous Day...](/news/2011/02/20/index.md)
 

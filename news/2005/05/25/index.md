@@ -7,7 +7,7 @@ _Context: 1984, AC Milan, Ataturk Olympic Stadium, Istanbul, Liverpool, Steven G
 _Context: American Idol, Carrie Underwood_
 
 ### [ Human Rights: Amnesty International releases its annual Human Rights report for the year 2004. ](/news/2005/05/25/human-rights-p-amnesty-international-releases-its-annual-human-rights-report-for-the-year-2004.md)
-_Context: Amnesty International, Human rights_
+_Context: Amnesty International, human rights_
 
 ### [ Elections in Suriname: General elections are underway in Suriname. Likely winner could be former dictator and drug smuggler, Desi Bouterse. ](/news/2005/05/25/elections-in-suriname-general-elections-are-underway-in-suriname-likely-winner-could-be-former-dictator-and-drug-smuggler-da-c-si-bouterse.md)
 _Context: Desi Bouterse, Elections in Suriname, Suriname, dictator, drug, smuggling_

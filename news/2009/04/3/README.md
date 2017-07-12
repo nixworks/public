@@ -16,7 +16,7 @@ _Context: Army, Cambodia, Preah Vihear Temple, Royal Thai Army, Thailand, exchan
 _Context: Iowa, Iowa Supreme Court, U.S. state, legalizes, same-sex marriage_
 
 ### [ Approximately 40 people riot in Clondalkin, near West Dublin, Ireland. ](/news/2009/04/3/approximately-40-people-riot-in-clondalkin-near-west-dublin-ireland.md)
-_Context: Clondalkin, Dublin, Republic of Ireland, riot_
+_Context: Clondalkin, Dublin, Ireland, riot_
 
 ### [ Fourteen people die and 26 are injured during a shooting at the American Civic Association in Binghamton, New York. ](/news/2009/04/3/fourteen-people-die-and-26-are-injured-during-a-shooting-at-the-american-civic-association-in-binghamton-new-york.md)
 _Context: American Civic Association, Binghamton, New York, shooting_

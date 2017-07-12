@@ -31,7 +31,7 @@ Military forces fought major battles with Taliban fighters just outside Kandahar
 Egyptian police have found 2.75 tonnes of explosives in central Sinai, a security official says.
 
 ### [ The Ogaden National Liberation Front declares a unilateral ceasefire so that a United Nations team can investigate claims of human rights abuses by the Ethiopian government. ](/news/2007/09/2/the-ogaden-national-liberation-front-declares-a-unilateral-ceasefire-so-that-a-united-nations-team-can-investigate-claims-of-human-rights-a.md)
-_Context: Ethiopia, Human rights, Ogaden National Liberation Front, United Nations, ceasefire_
+_Context: Ethiopia, Ogaden National Liberation Front, United Nations, ceasefire, human rights_
 
 ### [ War in Iraq: The United Kingdom withdraws troops from its base at Basra Palace as part of an eventual handover of Basra Province to the Iraqi government. ](/news/2007/09/2/war-in-iraq-the-united-kingdom-withdraws-troops-from-its-base-at-basra-palace-as-part-of-an-eventual-handover-of-basra-province-to-the-ira.md)
 British troops are pulling out of a base at a palace in the southern Iraqi city of Basra on Sunday, a Ministry of Defence source said.

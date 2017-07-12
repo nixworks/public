@@ -25,7 +25,7 @@ _Context: Hamas_
 _Context: BlackBerry, International Trade Commission, Kodak, Research in Motion, iPhone_
 
 ### [Internationally recognised President of Ivory Coast Alassane Ouattara calls for a halt to cocoa and coffee exports to cut off funding for incumbent President Laurent Gbagbo. ](/news/2011/01/24/internationally-recognised-president-of-ivory-coast-alassane-ouattara-calls-for-a-halt-to-cocoa-and-coffee-exports-to-cut-off-funding-for-in.md)
-_Context: Alassane Ouattara, Ivory Coast, Laurent Gbagbo, cocoa, coffee_
+_Context: Alassane Ouattara, Coffee, Ivory Coast, Laurent Gbagbo, cocoa_
 
 ### [An Australian internal review finds that the fatal Christmas Island boat disaster was responded to appropriately. ](/news/2011/01/24/an-australian-internal-review-finds-that-the-fatal-christmas-island-boat-disaster-was-responded-to-appropriately.md)
 Customs and Border Protection personnel responded appropriately to the Christmas Island boat disaster in December, an internal review has found.

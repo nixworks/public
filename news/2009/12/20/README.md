@@ -34,7 +34,7 @@ _Context: Kathmandu, Nepal, Nepalese Maoist Party_
 Colombia said it is preparing to defend against a possible foreign military attack amid growing tensions with neighboring Venezuela, while Venezuelan President Hugo Chavez said on Sunday Colombia would regret any actions that hurt his country.
 
 ### [ Philippine officials warn an eruption at the Mayon Volcano could happen within the next few days. ](/news/2009/12/20/philippine-officials-warn-an-eruption-at-the-mayon-volcano-could-happen-within-the-next-few-days.md)
-_Context: Mayon Volcano, Philippines_
+_Context: Mayon Volcano, Philippine_
 
 ### [ Two people are killed and four people are wounded by flying concrete during a huge demolition of a Soviet war memorial in Georgia. ](/news/2009/12/20/two-people-are-killed-and-four-people-are-wounded-by-flying-concrete-during-a-huge-demolition-of-a-soviet-war-memorial-in-georgia.md)
 _Context: Georgia, Soviet_

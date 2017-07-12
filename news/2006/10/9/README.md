@@ -4,7 +4,7 @@
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ French lawmakers introduce a bill to criminalize Armenian Genocide denial. The legislation would imprison offenders for one year and fine them up to EUR45,000. Turkey calls upon French legislators to vote against the bill. The Turkish Parliament is considering a bill that would criminalize denial of French human rights violations in Algeria. ](/news/2006/10/9/french-lawmakers-introduce-a-bill-to-criminalize-armenian-genocide-denial-the-legislation-would-imprison-offenders-for-one-year-and-fine-t.md)
-_Context: Algeria, France, Human rights, Turkey, euro, genocide of Armenians_
+_Context: Algeria, France, Turkey, euro, genocide of Armenians, human rights_
 
 ### [ Google officially announces that they will buy video sharing website YouTube for US$1.65 billion. ](/news/2006/10/9/google-officially-announces-that-they-will-buy-video-sharing-website-youtube-for-us-1-65-billion.md)
 _Context: Google, USD, YouTube_

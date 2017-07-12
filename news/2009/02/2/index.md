@@ -10,7 +10,7 @@ _Context: Macy's, United States, department store, layoff_
 _Context: African Union, Chairman, Muammar al-Gaddafi_
 
 ### [ A human rights protester throws a shoe at Chinese Premier Wen Jiabao during a speech at Cambridge University. ](/news/2009/02/2/a-human-rights-protester-throws-a-shoe-at-chinese-premier-wen-jiabao-during-a-speech-at-cambridge-university.md)
-_Context: Cambridge University , Human rights, People's Republic of China, Premier, Wen Jiabao, throws a shoe_
+_Context: Cambridge University , People's Republic of China, Premier, Wen Jiabao, human rights, throws a shoe_
 
 ### [ Nine people are killed when a hospital is shelled in Puthukkudiyiruppu, Sri Lanka. ](/news/2009/02/2/nine-people-are-killed-when-a-hospital-is-shelled-in-puthukkudiyiruppu-sri-lanka.md)
 _Context: Puthukkudiyiruppu, Sri Lanka, Sri Lankan Civil War_

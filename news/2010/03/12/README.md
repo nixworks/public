@@ -13,7 +13,7 @@ Twin suicide attacks have targeted the Pakistani military, killing 45 people in 
 In response to rocket fired at Eshkol Regional Council, Israeli jets strikes smuggling tunnel, weapons lab in southern Strip. Gaza eyewitnesses tell AFP several people injured
 
 ### [Pope Benedict XVI is "distraught" by news alleged of child sexual abuse in Catholic dioceses in Germany, according to Archbishop Robert Zollitsch, as the church also faces paedophilia scandals in Ireland, Austria, and the Netherlands, while Pope Benedict defends clerical celibacy, calling it a symbol of "full devotion" and of "giving oneself to God and to others." ](/news/2010/03/12/pope-benedict-xvi-is-distraught-by-news-alleged-of-child-sexual-abuse-in-catholic-dioceses-in-germany-according-to-archbishop-robert-zoll.md)
-_Context: Austria, Germany, Netherlands, Pope Benedict XVI, Republic of Ireland, Robert Zollitsch, celibacy, sexual abuse, sexual relations_
+_Context: Austria, Germany, Ireland, Netherlands, Pope Benedict XVI, Robert Zollitsch, celibacy, sexual abuse, sexual relations_
 
 ### [Karl Rove appears on British television to promote waterboarding and speaks of his pride that "we used techniques that broke the will of these terrorists", saying these techniques were "appropriate". ](/news/2010/03/12/karl-rove-appears-on-british-television-to-promote-waterboarding-and-speaks-of-his-pride-that-we-used-techniques-that-broke-the-will-of-the.md)
 A top aide to former US president George W Bush has defended the use of harsh interrogation techniques.

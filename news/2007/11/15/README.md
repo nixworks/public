@@ -43,7 +43,7 @@ _Context: Florida, Mark Dean Schwab, United States, United States Supreme Court,
 _Context: 2007 Antofagasta earthquake, Chile, Michelle Bachelet, President, aftershock_
 
 ### [ United Nations human rights envoy Paulo Sergio Pinheiro visits political prisoners, including Su Su Nway, in Burma's Insein Prison. ](/news/2007/11/15/united-nations-human-rights-envoy-paulo-sergio-pinheiro-visits-political-prisoners-including-su-su-nway-in-burma-s-insein-prison.md)
-_Context: Burma, Human rights, Insein Prison, Paulo Srgio Pinheiro, Su Su Nway, United Nations, political prisoner_
+_Context: Burma, Insein Prison, Paulo Srgio Pinheiro, Su Su Nway, United Nations, human rights, political prisoner_
 
 ### [ Rift Valley fever kills at least 96 people in the White Nile, Sennar and Gazeera states of Sudan. ](/news/2007/11/15/rift-valley-fever-kills-at-least-96-people-in-the-white-nile-sennar-and-gazeera-states-of-sudan.md)
 _Context: Gazeera, Rift Valley Fever, Sennar, Sudan, White Nile_

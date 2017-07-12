@@ -1,7 +1,7 @@
 ## [2015-07-21](/news/2015/07/21/index.md)
 
 ### [ The Kurdish People's Protection Units (YPG) and human rights organizations say that YPG fighters have captured one juvenile prison and a power station south of Al-Hasakah. ([http://www.kurdpress.ir/En/NSite/FullStory/News/?Id=10887 kurdpress])](/news/2015/07/21/the-kurdish-people-s-protection-units-ypg-and-human-rights-organizations-say-that-ypg-fighters-have-captured-one-juvenile-prison-and-a-po.md)
-_Context: Al-Hasakah, Human rights, Kurdish, YPG_
+_Context: Al-Hasakah, Kurdish, YPG, human rights_
 
 ### [The government of Greece submits more legislation to the Hellenic Parliament required by its creditors to start a bailout package. ](/news/2015/07/21/the-government-of-greece-submits-more-legislation-to-the-hellenic-parliament-required-by-its-creditors-to-start-a-bailout-package.md)
 Greek Prime Minister Alexis Tsipras tried to rally his Syriza party on Tuesday before a vote in parliament on the second package of measures demanded by international creditors to open talks on a new bailout deal.

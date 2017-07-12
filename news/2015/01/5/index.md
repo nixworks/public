@@ -25,7 +25,7 @@ _Context: Israel, Jesus, Old City of Jerusalem, Tower of David Museum_
 _Context: China, United States, World Trade Organization, rare earth element_
 
 ### [Ireland becomes the first European nation to be allowed to export beef to the United States since the mad cow disease scare 15 years ago. ](/news/2015/01/5/ireland-becomes-the-first-european-nation-to-be-allowed-to-export-beef-to-the-united-states-since-the-mad-cow-disease-scare-15-years-ago.md)
-_Context: Europe, Republic of Ireland, United States, mad cow disease_
+_Context: Europe, Ireland, United States, mad cow disease_
 
 ### [For the second day in a row a multi-story residential building in Nairobi, Kenya, collapses, this time an 8-story building, killing one person with eight people still missing. ](/news/2015/01/5/for-the-second-day-in-a-row-a-multi-story-residential-building-in-nairobi-kenya-collapses-this-time-an-8-story-building-killing-one-pers.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
