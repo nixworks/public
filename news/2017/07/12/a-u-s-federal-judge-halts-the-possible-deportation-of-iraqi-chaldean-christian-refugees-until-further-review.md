@@ -2,12 +2,13 @@
 
 # A U.S. federal judge halts the possible deportation of Iraqi Chaldean Christian refugees until further review. 
 
-&quot;Without a stay in place, deportations will begin immediately, which may mean a death sentence for some deportees,&quot; the court wrote.
+Judge Mark Goldsmith said he had the power to order the government to keep Iraqis in the county while their deportation cases under review by the courts.
 
 
 ### Source:
 
-1. [BuzzFeed](https://www.buzzfeed.com/salvadorhernandez/the-trump-administration-wants-to-deport-1400-iraqis-a)
+1. [NBC News](http://www.nbcnews.com/news/us-news/u-s-judge-halts-iraqis-deportation-until-court-review-n782036)
+2. [The Wire](https://thewire.in/156910/us-judge-halts-deportation-iraqi-immigrants/)
 
 ### Related:
 

@@ -1,4 +1,18 @@
-## [News](/news/2017/07/11/index.md)
+## [News](/news/2017/07/12/index.md)
+
+### [A U.S. federal judge halts the possible deportation of Iraqi Chaldean Christian refugees until further review. ](/news/2017/07/12/a-u-s-federal-judge-halts-the-possible-deportation-of-iraqi-chaldean-christian-refugees-until-further-review.md)
+Judge Mark Goldsmith said he had the power to order the government to keep Iraqis in the county while their deportation cases under review by the courts.
+
+### [A giant iceberg covering approximately 6000 sq km breaks away from  the Larsen C Ice Shelf in Antarctica. ](/news/2017/07/12/a-giant-iceberg-covering-approximately-6000-sq-km-breaks-away-from-the-larsen-c-ice-shelf-in-antarctica.md)
+A block of ice a quarter the size of Wales calves from the eastern side of the Antarctic Peninsula.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/07/11/index.md)
 
 ### [According to the Turkish Army, its overnight air strike in Dargecit killed eleven militants from the Kurdistan Workers' Party. ](/news/2017/07/11/according-to-the-turkish-army-its-overnight-air-strike-in-dargeassit-killed-eleven-militants-from-the-kurdistan-workers-party.md)
 Turkish warplanes struck Kurdish militant targets in two areas of southeast Turkey overnight, killing 11 Kurdistan Workers Party (PKK) fighters, the army said on Tuesday.
@@ -36,13 +50,9 @@ President’s son forced to release email chain that reveals he welcomed what he
 ### [Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. ](/news/2017/07/11/scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-tibet-to-a-satellite-orbiting-earth-at.md)
 Researchers in China have teleported a photon from the ground to a satellite orbiting more than 500 kilometers above.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/07/10/index.md)
+## [Day Before Yesterday](/news/2017/07/10/index.md)
 
 ### [Iraqi Prime Minister Haider al-Abadi declares the battle for Mosul over, after the majority of ISIL militants were defeated. ](/news/2017/07/10/iraqi-prime-minister-haider-al-abadi-declares-the-battle-for-mosul-over-after-the-majority-of-isil-militants-were-defeated.md)
 The battle has taken nine months, leaving large areas in ruins and thousands of civilians dead.
@@ -73,23 +83,7 @@ _Context: Holocene extinction, The Sixth Extinction, mammal_
 
 ---
 
-## [Day Before Yesterday](/news/2017/07/9/index.md)
-
-### [UNESCO declares eight new sites as world heritage sites; including Lake District in North West England and Iran's Historic City of Yazd. ](/news/2017/07/9/unesco-declares-eight-new-sites-as-world-heritage-sites-including-lake-district-in-north-west-england-and-iran-s-historic-city-of-yazd.md)
-It joins the likes of the Grand Canyon and Machu Picchu as it gets heritage status.
-
-### [U.S. President Donald Trump says he and Russian President Vladimir Putin "discussed forming an impenetrable cybersecurity unit so that election hacking, and many other negative things, will be guarded and safe." Trump later says he does not think this will happen. ](/news/2017/07/9/u-s-president-donald-trump-says-he-and-russian-president-vladimir-putin-discussed-forming-an-impenetrable-cybersecurity-unit-so-that-elect.md)
-Donald Trump said a cybersecurity unit with Russia would not happen - hours after proposing the idea.
-
-### [The chief suspect in an attack on June 21, 2017, turns himself in to the police. ](/news/2017/07/9/the-chief-suspect-in-an-attack-on-june-21-2017-turns-himself-in-to-the-police.md)
-Two cousins suffered &quot;life-changing injuries&quot; in an acid attack in east London.
-
-### [The 450 km-long Turkish March for Justice concludes in Istanbul at a mass rally attended by hundreds of thousands of people. ](/news/2017/07/9/the-450-km-long-turkish-march-for-justice-concludes-in-istanbul-at-a-mass-rally-attended-by-hundreds-of-thousands-of-people.md)
-_Context: 2017 March for Justice, Istanbul, March for Justice_
-
----
-
-## [Previous Day...](/news/2017/07/8/index.md)
+## [Previous Day...](/news/2017/07/9/index.md)
 
 ---
 
