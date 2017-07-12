@@ -1,6 +1,17 @@
-## [News](/news/2017/07/11/index.md)
+## [News](/news/2017/07/12/index.md)
 
-### [Turkish authorities have ordered the arrest of 105 people working in information technology who were believed to have been involved in the attempted overthrow of the government last year, state-run Anadolu Agency reported on Tuesday.](/news/2017/07/11/turkish-authorities-have-ordered-the-arrest-of-105-people-working-in-information-technology-who-were-believed-to-have-been-involved-in-the-a.md)
+### [A U.S. federal judge halts the possible deportation of Iraqi Chaldean Christian refugees until further review. ](/news/2017/07/12/a-u-s-federal-judge-halts-the-possible-deportation-of-iraqi-chaldean-christian-refugees-until-further-review.md)
+&quot;Without a stay in place, deportations will begin immediately, which may mean a death sentence for some deportees,&quot; the court wrote.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/07/11/index.md)
+
+### [Turkish authorities have ordered the arrest of 105 people working in information technology who were believed to have been involved in the attempted overthrow of the government last year, state-run Anadolu Agency reported on Tuesday. ](/news/2017/07/11/turkish-authorities-have-ordered-the-arrest-of-105-people-working-in-information-technology-who-were-believed-to-have-been-involved-in-the-a.md)
 Turkish authorities have ordered the arrest of 105 people working in information technology on suspicion of involvement in an attempted military coup a year ago, state-run Anadolu news agency reported on Tuesday.
 
 ### [According to the Turkish Army, its overnight air strike in Dargecit killed eleven militants from the Kurdistan Workers' Party. ](/news/2017/07/11/according-to-the-turkish-army-its-overnight-air-strike-in-dargeassit-killed-eleven-militants-from-the-kurdistan-workers-party.md)
@@ -9,8 +20,8 @@ Turkish warplanes struck Kurdish militant targets in two areas of southeast Turk
 ### [The Syrian Observatory for Human Rights says ISIL leader Abu Bakr al-Baghdadi is confirmed dead, according to information from tribal leaders close to ISIL in the Deir ez-Zor Governorate. In June, Russia said it had "most likely" killed al-Baghdadi and several other high profile ISIL leaders in an airstrike but provided no evidence. ](/news/2017/07/11/the-syrian-observatory-for-human-rights-says-isil-leader-abu-bakr-al-baghdadi-is-confirmed-dead-according-to-information-from-tribal-leader.md)
 Isis leader Abu Bakr al-Baghdadi has been confirmed killed, war monitor the Syrian Observatory for Human Rights (SOHR) has said. &quot;(We have) confirmed information from leaders, including one of the first rank, in [Isis territory] in the eastern countryside of Deir Ezzor,&quot; director of the UK-based group Rami Abdulrahman told Reuters on Tuesday.
 
-### [The United Kingdom and Bill & Melinda Gates' foundation sponsor a summit that plans on raising funds for family planning in developing countries. ](/news/2017/07/11/the-united-kingdom-and-bill-melinda-gates-foundation-sponsor-a-summit-that-plans-on-raising-funds-for-family-planning-in-developing-count.md)
-_Context: Bill, Melinda Gates, United Kingdom, developing countries, family planning, foundation_
+### [The United Kingdom and Bill & Melinda Gates Foundation sponsor a summit that plans on raising funds for family planning in developing countries. ](/news/2017/07/11/the-united-kingdom-and-bill-melinda-gates-foundation-sponsor-a-summit-that-plans-on-raising-funds-for-family-planning-in-developing-countr.md)
+A major chunk of the funding &ndash; US$1.5 billion &ndash; has been committed by countries in Asia and Africa to expand family planning services and support to reach underserved...
 
 ### [The death toll from recent torrential rain and flooding in Kyushu in southern Japan  rises to 25. ](/news/2017/07/11/the-death-toll-from-recent-torrential-rain-and-flooding-in-kyushu-in-southern-japan-rises-to-25.md)
 _Context: Floods in Japan, Japan, Kyushu_
@@ -31,15 +42,11 @@ This follows one of the recommendations of a 2012 study commissioned by the Comm
 The recruitment drive follows the announcement that the UN is leaving Haiti.
 
 ### [Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. ](/news/2017/07/11/scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-tibet-to-a-satellite-orbiting-earth-at.md)
-For the first time, scientists have successfully teleported a photon from the ground to a satellite in orbit.
-
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+Researchers in China have teleported a photon from the ground to a satellite orbiting more than 500 kilometers above.
 
 ---
 
-## [Yesterday](/news/2017/07/10/index.md)
+## [Day Before Yesterday](/news/2017/07/10/index.md)
 
 ### [Iraqi Prime Minister Haider al-Abadi declares the battle for Mosul over, after the majority of ISIL militants were defeated. ](/news/2017/07/10/iraqi-prime-minister-haider-al-abadi-declares-the-battle-for-mosul-over-after-the-majority-of-isil-militants-were-defeated.md)
 The battle has taken nine months, leaving large areas in ruins and thousands of civilians dead.
@@ -70,23 +77,7 @@ _Context: Holocene extinction, The Sixth Extinction, mammal_
 
 ---
 
-## [Day Before Yesterday](/news/2017/07/9/index.md)
-
-### [UNESCO declares eight new sites as world heritage sites; including Lake District in North West England and Iran's Historic City of Yazd. ](/news/2017/07/9/unesco-declares-eight-new-sites-as-world-heritage-sites-including-lake-district-in-north-west-england-and-iran-s-historic-city-of-yazd.md)
-It joins the likes of the Grand Canyon and Machu Picchu as it gets heritage status.
-
-### [U.S. President Donald Trump says he and Russian President Vladimir Putin "discussed forming an impenetrable cybersecurity unit so that election hacking, and many other negative things, will be guarded and safe." Trump later says he does not think this will happen. ](/news/2017/07/9/u-s-president-donald-trump-says-he-and-russian-president-vladimir-putin-discussed-forming-an-impenetrable-cybersecurity-unit-so-that-elect.md)
-Donald Trump said a cybersecurity unit with Russia would not happen - hours after proposing the idea.
-
-### [The chief suspect in an attack on June 21, 2017, turns himself in to the police. ](/news/2017/07/9/the-chief-suspect-in-an-attack-on-june-21-2017-turns-himself-in-to-the-police.md)
-Two cousins suffered &quot;life-changing injuries&quot; in an acid attack in east London.
-
-### [The 450 km-long Turkish March for Justice concludes in Istanbul at a mass rally attended by hundreds of thousands of people. ](/news/2017/07/9/the-450-km-long-turkish-march-for-justice-concludes-in-istanbul-at-a-mass-rally-attended-by-hundreds-of-thousands-of-people.md)
-_Context: 2017 March for Justice, Istanbul, March for Justice_
-
----
-
-## [Previous Day...](/news/2017/07/8/index.md)
+## [Previous Day...](/news/2017/07/9/index.md)
 
 ---
 

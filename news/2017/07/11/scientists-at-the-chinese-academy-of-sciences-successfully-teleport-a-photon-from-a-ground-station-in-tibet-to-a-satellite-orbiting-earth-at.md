@@ -2,12 +2,12 @@
 
 # Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. 
 
-For the first time, scientists have successfully teleported a photon from the ground to a satellite in orbit.
+Researchers in China have teleported a photon from the ground to a satellite orbiting more than 500 kilometers above.
 
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/tech/2017/07/11/space-breakthrough-scientists-teleport-photon-from-earth-to-orbit.html)
+1. [MIT Technology Review](https://www.technologyreview.com/s/608252/first-object-teleported-from-earth-to-orbit/)
 
 ### Related:
 
