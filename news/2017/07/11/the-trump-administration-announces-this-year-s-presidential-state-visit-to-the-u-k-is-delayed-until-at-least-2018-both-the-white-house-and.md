@@ -8,7 +8,7 @@ Senior UK government source confirms that Trump has failed to agree a date for h
 ### Source:
 
 1. [Business Insider](http://www.businessinsider.com/donald-trumps-state-visit-to-the-uk-has-been-delayed-until-2018-2017-7)
-2. [Reuters](http://www.reuters.com/article/us-usa-trump-britain-idUSKBN19W28G?il=0)
+2. [Reuters](http://www.reuters.com/article/us-usa-trump-britain-idUSKBN19W28G)
 3. [The Australian](http://www.theaustralian.com.au/news/world/trump-eyes-swift-uk-trade-deal-state-visit/news-story/89430722f5b07e64c692eccfd13c311e)
 
 ### Related:

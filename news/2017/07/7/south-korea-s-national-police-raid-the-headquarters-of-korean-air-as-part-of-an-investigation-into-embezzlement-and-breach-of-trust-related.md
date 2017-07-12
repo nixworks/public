@@ -7,7 +7,7 @@ Police raided the headquarters of Korean Air Lines Co Ltd on Friday as part of a
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-korean-air-probe-idUSKBN19S0M2?il=0)
+1. [Reuters](http://www.reuters.com/article/us-korean-air-probe-idUSKBN19S0M2)
 
 ### Related:
 

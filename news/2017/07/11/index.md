@@ -1,8 +1,5 @@
 ## [2017-07-11](/news/2017/07/11/index.md)
 
-### [Turkish authorities have ordered the arrest of 105 people working in information technology who were believed to have been involved in the attempted overthrow of the government last year, state-run Anadolu Agency reported on Tuesday. ](/news/2017/07/11/turkish-authorities-have-ordered-the-arrest-of-105-people-working-in-information-technology-who-were-believed-to-have-been-involved-in-the-a.md)
-Turkish authorities have ordered the arrest of 105 people working in information technology on suspicion of involvement in an attempted military coup a year ago, state-run Anadolu news agency reported on Tuesday.
-
 ### [According to the Turkish Army, its overnight air strike in Dargecit killed eleven militants from the Kurdistan Workers' Party. ](/news/2017/07/11/according-to-the-turkish-army-its-overnight-air-strike-in-dargeassit-killed-eleven-militants-from-the-kurdistan-workers-party.md)
 Turkish warplanes struck Kurdish militant targets in two areas of southeast Turkey overnight, killing 11 Kurdistan Workers Party (PKK) fighters, the army said on Tuesday.
 
@@ -26,6 +23,9 @@ Senior UK government source confirms that Trump has failed to agree a date for h
 
 ### [The detained senator Leila de Lima files a bill urging the teaching of human rights in Philippine schools. ](/news/2017/07/11/the-detained-senator-leila-de-lima-files-a-bill-urging-the-teaching-of-human-rights-in-philippine-schools.md)
 This follows one of the recommendations of a 2012 study commissioned by the Commission on Human Rights and the United Nations Development Programme 
+
+### [Turkish authorities have ordered the arrest of 105 people working in information technology who were believed to have been involved in the attempted overthrow of the government last year, state-run Anadolu Agency reported on Tuesday. ](/news/2017/07/11/turkish-authorities-have-ordered-the-arrest-of-105-people-working-in-information-technology-who-were-believed-to-have-been-involved-in-the-a.md)
+Turkish authorities have ordered the arrest of 105 people working in information technology on suspicion of involvement in an attempted military coup a year ago, state-run Anadolu news agency reported on Tuesday.
 
 ### [Haiti will reinstate its armed forces after 20 years of having none. ](/news/2017/07/11/haiti-will-reinstate-its-armed-forces-after-20-years-of-having-none.md)
 The recruitment drive follows the announcement that the UN is leaving Haiti.

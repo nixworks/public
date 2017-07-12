@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-immigration-lawsuit-idUSKBN19S2NZ?il=0)
+1. [Reuters](http://www.reuters.com/article/us-usa-immigration-lawsuit-idUSKBN19S2NZ)
 
 ### Related:
 

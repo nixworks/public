@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-australia-power-tesla-idUSKBN19S0EV?il=0)
+1. [Reuters](http://www.reuters.com/article/us-australia-power-tesla-idUSKBN19S0EV)
 
 ### Related:
 

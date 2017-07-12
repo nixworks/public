@@ -7,9 +7,6 @@ Militants rammed military compound with car before opening fire in village of el
 Israel denounces the decision, accusing the UN cultural agency of being a &quot;political tool&quot;.
 
 ### [Berkshire Hathaway Inc. agrees to pay USD $9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery. ](/news/2017/07/7/berkshire-hathaway-inc-agrees-to-pay-usd-9-billion-to-buy-the-parent-of-texas-power-transmission-company-oncor-electric-delivery.md)
-_Context: Berkshire Hathaway Inc., Oncor Electric Delivery, Texas, USD_
-
-### [Sears, Roebuck & Co. announces it will be closing eight more of its namesake department stores, as well as thirty five Kmart locations in addition to the hundred and fifty stores that they had announced in January would be shuttered. ](/news/2017/07/7/sears-roebuck-co-announces-it-will-be-closing-eight-more-of-its-namesake-department-stores-as-well-as-thirty-five-kmart-locations-in-ad.md)
 Sears Holdings Corp (SHLD.O) is closing eight of its namesake department stores and 35 Kmart locations to cut costs and square footage in an effort to return to profitability, Chief Executive Officer Eddie Lampert said on Friday.
 
 ### [Severe flooding on the Japanese island of Kyushu has caused seven deaths with twenty people unaccounted for. ](/news/2017/07/7/severe-flooding-on-the-japanese-island-of-kyushu-has-caused-seven-deaths-with-twenty-people-unaccounted-for.md)
@@ -19,7 +16,7 @@ At least seven people are dead and many are missing as the floods on the island 
 _Context: Italian, Naples, Torre Annunziata_
 
 ### [Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-president-donald-trump-who-is.md)
-The United States, Russia and Jordan have reached a ceasefire and &quot;de-escalation agreement&quot; in southwestern Syria, one of the combat zones in a six-year-old civil war, U.S. Secretary of State Rex Tillerson said on Friday.
+Teargas and water cannon deployed outside Elbphilharmonie concert hall while inside world leaders listen to Ode to Joy
 
 ### [The United Nations votes in favour of the Treaty on the Prohibition of Nuclear Weapons with 122 in favour, 1 abstention, and 1 against. The treaty conference and negotiations had been boycotted by the nuclear weapon states and by the members of NATO. ](/news/2017/07/7/the-united-nations-votes-in-favour-of-the-treaty-on-the-prohibition-of-nuclear-weapons-with-122-in-favour-1-abstention-and-1-against-the.md)
 Nearly two-thirds of United Nations states agreed on Friday to a treaty to ban nuclear weapons after months of talks, which were boycotted by the United States, Britain, France and others who instead pledged commitment to a decades-old Non-Proliferation Treaty.
@@ -40,7 +37,7 @@ _Context: Donald Trump, Executive Order 13780, Hawaii, Legal challenges to Execu
 _Context: Edwin Torres, Miami, Panama, Ricardo Martinelli, United States magistrate judge, bond, illegally monitoring, warrant_
 
 ### [Venezuelan President Nicolas Maduro says voting in his upcoming election on July 30 is mandatory for all 2.8 million state employees, with employees who do not vote facing ostracisation. Opponents of the government plan to hold their own unofficial referendum on the Maduro government on July 16. ](/news/2017/07/7/venezuelan-president-nicola-s-maduro-says-voting-in-his-upcoming-election-on-july-30-is-mandatory-for-all-2-8-million-state-employees-with.md)
-_Context: Nicolas Maduro, Venezuela, Venezuelan Constitutional Assembly election, 2017_
+With many Venezuelans angry at the government and planning to sit out a July 30 vote for a new superbody assembly, President Nicolas Maduro has ordered all state workers to take part, seeking to avoid an embarrassingly low turnout.
 
 ### [Thousands of supporters of Yemen's secessionists rally in the southern city of Aden, backing a new group led by former head of Aden Governorate Aidarus al-Zoubaidi that advocates for autonomy of the country's south. ](/news/2017/07/7/thousands-of-supporters-of-yemen-s-secessionists-rally-in-the-southern-city-of-aden-backing-a-new-group-led-by-former-head-of-aden-governor.md)
 _Context: Aden, Aden Governorate, Aidarus al-Zoubaidi, Yemen's, Yemeni Civil War_

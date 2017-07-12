@@ -2,7 +2,7 @@
 
 # Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. 
 
-The United States, Russia and Jordan have reached a ceasefire and &quot;de-escalation agreement&quot; in southwestern Syria, one of the combat zones in a six-year-old civil war, U.S. Secretary of State Rex Tillerson said on Friday.
+Teargas and water cannon deployed outside Elbphilharmonie concert hall while inside world leaders listen to Ode to Joy
 
 
 ### Source:
@@ -10,7 +10,7 @@ The United States, Russia and Jordan have reached a ceasefire and &quot;de-escal
 1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_GERMANY_G20_SUMMIT)
 2. [AP](http://hosted.ap.org/dynamic/stories/E/EU_UNITED_STATES_RUSSIA_SYRIA)
 3. [CNN](http://www.cnn.com/2017/07/07/europe/ode-to-joy-beethoven-g20-merkel-trump/index.html)
-4. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-ceasefire-idUSKBN19S2DG?il=0)
+4. [Reuters](http://www.reuters.com/article/us-mideast-crisis-syria-ceasefire-idUSKBN19S2DG)
 5. [The Guardian](https://www.theguardian.com/world/2017/jul/07/g20-protests-hamburg-altona-messehalle)
 
 ### Related:
