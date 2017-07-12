@@ -7,7 +7,7 @@ Scientists have detected a new particle at the Large Hadron Collider at Cern
 
 ### Source:
 
-1. [BBC News](http://www.bbc.com/news/science-environment-40521445)
+1. [BBC](http://www.bbc.com/news/science-environment-40521445)
 
 ### Related:
 
