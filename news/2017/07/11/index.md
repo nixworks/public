@@ -21,7 +21,7 @@ Researchers studying a mass vaccination campaign against meningitis have found a
 ### [Visas given to potential entrepreneurs who are foreigners will be significantly reduced prompting fears and criticism from Silicon Valley. Many of those given visas are from India.  ](/news/2017/07/11/visas-given-to-potential-entrepreneurs-who-are-foreigners-will-be-significantly-reduced-prompting-fears-and-criticism-from-silicon-valley-m.md)
 Senior officials are discussing whether to require foreignors to reapply each year for permission to continue studies at U.S. universities.
 
-### [The Trump Administration announces this year's Presidential state visit to the U.K. is delayed until  at least 2018. Both the White House and 10 Downing Street state the two countries had been unable to agree on a 2017 date. This planned visit has drawn protests in the United Kingdom since February, and more than 1.8 million signatures on a petition to Parliament to cancel the meeting.  ](/news/2017/07/11/the-trump-administration-announces-this-year-s-presidential-state-visit-to-the-u-k-is-delayed-until-at-least-2018-both-the-white-house-an.md)
+### [The Trump Administration announces this year's Presidential state visit to the U.K. is delayed until at least 2018. Both the White House and 10 Downing Street state the two countries had been unable to agree on a 2017 date. This planned visit has drawn protests in the United Kingdom since February, and more than 1.8 million signatures on a petition to Parliament to cancel the meeting.  ](/news/2017/07/11/the-trump-administration-announces-this-year-s-presidential-state-visit-to-the-u-k-is-delayed-until-at-least-2018-both-the-white-house-and.md)
 Senior UK government source confirms that Trump has failed to agree a date for his visit this year.
 
 ### [The detained senator Leila de Lima files a bill urging the teaching of human rights in Philippine schools. ](/news/2017/07/11/the-detained-senator-leila-de-lima-files-a-bill-urging-the-teaching-of-human-rights-in-philippine-schools.md)
@@ -29,6 +29,9 @@ This follows one of the recommendations of a 2012 study commissioned by the Comm
 
 ### [Haiti will reinstate its armed forces after 20 years of having none. ](/news/2017/07/11/haiti-will-reinstate-its-armed-forces-after-20-years-of-having-none.md)
 The recruitment drive follows the announcement that the UN is leaving Haiti.
+
+### [Donald Trump Jr. discloses emails in which he and Rob Goldstone discuss gathering opposition research against Hillary Clinton through a June 2016 meeting with Russian lawyer Natalia Veselnitskaya. ](/news/2017/07/11/donald-trump-jr-discloses-emails-in-which-he-and-rob-goldstone-discuss-gathering-opposition-research-against-hillary-clinton-through-a-june.md)
+President’s son forced to release email chain that reveals he welcomed what he was told was Russian government effort to damage Clinton’s campaign
 
 ### [Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. ](/news/2017/07/11/scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-tibet-to-a-satellite-orbiting-earth-at.md)
 Researchers in China have teleported a photon from the ground to a satellite orbiting more than 500 kilometers above.
