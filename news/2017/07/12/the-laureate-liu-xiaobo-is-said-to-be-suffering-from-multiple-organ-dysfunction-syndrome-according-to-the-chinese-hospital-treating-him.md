@@ -1,6 +1,6 @@
 ### [2017-07-12](/news/2017/07/12/index.md)
 
-# The Laureate Liu Xiaobo is said to be suffering from "multiple organ dysfunction syndrome" according to the Chinese hospital treating him.
+# The Laureate Liu Xiaobo is said to be suffering from "multiple organ dysfunction syndrome" according to the Chinese hospital treating him. 
 
 The dissident was moved from prison to be treated for cancer last month, and his situation is now life threatening, his hospital in China says.
 
