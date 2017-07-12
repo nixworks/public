@@ -24,6 +24,9 @@ An investigation is continuing into the circumstances surrounding the death of a
 ### [The Nobel Peace Prize winner Liu Xiaobo is in "critical condition," according to Chinese doctors. ](/news/2017/07/10/the-nobel-peace-prize-winner-liu-xiaobo-is-in-critical-condition-according-to-chinese-doctors.md)
 The government offered little hope that Liu Xiaobo, the country’s most famous political prisoner, would be allowed to go abroad for treatment, as he has requested.
 
+### [Avi Gabbay, former minister of environmental protection in Benyamin Netanyahu's government, wins an upset victory in the primaries of the Israeli Labor Party, thus becoming leader of the opposition. ](/news/2017/07/10/avi-gabbay-former-minister-of-environmental-protection-in-benyamin-netanyahu-s-government-wins-an-upset-victory-in-the-primaries-of-the-is.md)
+Israel’s Avi Gabbay, who steered the country’s biggest telecommunications company before entering politics barely four years ago, won a runoff contest to lead the Labor party and its efforts to unseat Prime Minister Benjamin Netanyahu.
+
 ### [''The Sixth Extinction''Between 1900 and 2015, around 177 species of mammals have lost 80% of their distribution leading to a presumption that the Holocene extinction is accelerating. ](/news/2017/07/10/the-sixth-extinction-pbetween-1900-and-2015-around-177-species-of-mammals-have-lost-80-of-their-distribution-leading-to-a-presumption-t.md)
 _Context: Holocene extinction, The Sixth Extinction, mammal_
 
