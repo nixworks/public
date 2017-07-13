@@ -1,6 +1,6 @@
 ### [2017-07-12](/news/2017/07/12/index.md)
 
-# Former Brazilian president Luiz Incio Lula da Silva is convicted on corruption and money laundering charges in connection with the Petrobras investigation. Lula, who remains free on appeal, is  sentenced to nine and a half years in prison.  
+# Former Brazilian president Luiz Incio Lula da Silva is convicted on corruption and money laundering charges in connection with the Petrobras investigation. Lula, who remains free on appeal, is sentenced to nine and a half years in prison. 
 
 Luiz In&aacute;cio Lula da Silva was sentenced to nine years in prison but is expected to appeal.
 
@@ -8,7 +8,7 @@ Luiz In&aacute;cio Lula da Silva was sentenced to nine years in prison but is ex
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-brazil-corruption-lula-idUSKBN19X2FO)
-2. [The Washington Post](https://www.washingtonpost.com/world/the_americas/former-brazilian-president-lula-convicted-of-corruption-and-money-laundering/2017/07/12/dd3b7e72-672d-11e7-94ab-5b1f0ff459df_story.html?utm_term=.cc92b686f863)
+2. [The Washington Post](https://www.washingtonpost.com/world/the_americas/former-brazilian-president-lula-convicted-of-corruption-and-money-laundering/2017/07/12/dd3b7e72-672d-11e7-94ab-5b1f0ff459df_story.html)
 
 ### Related:
 
