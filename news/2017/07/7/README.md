@@ -36,6 +36,9 @@ _Context: Donald Trump, Executive Order 13780, Hawaii, Legal challenges to Execu
 ### [Former president of Panama Ricardo Martinelli is denied bond by United States magistrate judge Edwin Torres. He is accused of charges that include illegally monitoring phone and other conversations of at least 150 people. Martinelli was arrested in Miami last month on an extradition warrant from Panama. ](/news/2017/07/7/former-president-of-panama-ricardo-martinelli-is-denied-bond-by-united-states-magistrate-judge-edwin-torres-he-is-accused-of-charges-that-i.md)
 _Context: Edwin Torres, Miami, Panama, Ricardo Martinelli, United States magistrate judge, bond, illegally monitoring, warrant_
 
+### [Battulga Khaltmaa of the opposition Democratic Party (DP) is elected President of Mongolia in the second round, defeating former Prime Minister Miyeegombyn Enkhbold of the Mongolian People's Party.](/news/2017/07/7/battulga-khaltmaa-of-the-opposition-democratic-party-dp-is-elected-president-of-mongolia-in-the-second-round-defeating-former-prime-minis.md)
+Khaltmaa Battulga won more than 50 percent of the votes in a scandal-ridden presidential runoff campaign.
+
 ### [Venezuelan President Nicolas Maduro says voting in his upcoming election on July 30 is mandatory for all 2.8 million state employees, with employees who do not vote facing ostracisation. Opponents of the government plan to hold their own unofficial referendum on the Maduro government on July 16. ](/news/2017/07/7/venezuelan-president-nicola-s-maduro-says-voting-in-his-upcoming-election-on-july-30-is-mandatory-for-all-2-8-million-state-employees-with.md)
 With many Venezuelans angry at the government and planning to sit out a July 30 vote for a new superbody assembly, President Nicolas Maduro has ordered all state workers to take part, seeking to avoid an embarrassingly low turnout.
 

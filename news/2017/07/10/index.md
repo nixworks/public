@@ -21,6 +21,9 @@ Amid a bitter stand-off between India and China over the Dokalam region, the Con
 ### [A 3 year-old boy is stabbed to death in an incident in the Poddle Park area of Kimmage in Dublin, Ireland. The child's mother, believed to be an Iranian national, is being treated for knife wounds in hospital. ](/news/2017/07/10/a-3-year-old-boy-is-stabbed-to-death-in-an-incident-in-the-poddle-park-area-of-kimmage-in-dublin-ireland-the-child-s-mother-believed-to-b.md)
 An investigation is continuing into the circumstances surrounding the death of a three-year-old boy in Dublin.
 
+### [Battulga Khaltmaa is sworn in as the new President of Mongolia following his victory in the second round presidential election on 7 July. [http://newsinfo.inquirer.net/912663/populist-tycoon-and-ex-judo-star-inaugurated-as-mongolias-president (''The Inquirer'')](/news/2017/07/10/battulga-khaltmaa-is-sworn-in-as-the-new-president-of-mongolia-following-his-victory-in-the-second-round-presidential-election-on-7-july-h.md)
+_Context: Battulga Khaltmaa, Mongolian presidential election, 2017, President of Mongolia_
+
 ### [The Nobel Peace Prize winner Liu Xiaobo is in "critical condition," according to Chinese doctors. ](/news/2017/07/10/the-nobel-peace-prize-winner-liu-xiaobo-is-in-critical-condition-according-to-chinese-doctors.md)
 The government offered little hope that Liu Xiaobo, the country’s most famous political prisoner, would be allowed to go abroad for treatment, as he has requested.
 

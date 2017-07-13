@@ -1,5 +1,8 @@
 ## [News](/news/2017/07/12/index.md)
 
+### [The United States Court of Appeals for the Ninth Circuit in San Francisco hears a case on whether or not a Celebes crested macaque owns their selfie. ](/news/2017/07/12/the-united-states-court-of-appeals-for-the-ninth-circuit-in-san-francisco-hears-a-case-on-whether-or-not-a-celebes-crested-macaque-owns-thei.md)
+A case between PETA and nature photographer David Slater and Blurb is now being discussed by a federal appeals court.
+
 ### [Wildfires devastate the Italian provinces of Messina, Naples, Enna and Rome. The Vesuvius National Park is reportedly completely destroyed by flames and ash. Italian police claim the fires are the work of arsonists. ](/news/2017/07/12/wildfires-devastate-the-italian-provinces-of-messina-naples-enna-and-rome-the-vesuvius-national-park-is-reportedly-completely-destroyed-b.md)
 The mayor of Naples on Wednesday called for Italy to declare a national state of emergency as firefighters, continued to battle a huge blaze on the slopes of Mount Vesuvius, while almost 300 wildfires raged across the country as a whole.
 
@@ -9,7 +12,7 @@ Judge Mark Goldsmith said he had the power to order the government to keep Iraqi
 ### [Former Brazilian president Luiz Incio Lula da Silva is convicted on corruption and money laundering charges in connection with the Petrobras investigation. Lula, who remains free on appeal, is sentenced to nine and a half years in prison. ](/news/2017/07/12/former-brazilian-president-luiz-inacio-lula-da-silva-is-convicted-on-corruption-and-money-laundering-charges-in-connection-with-the-petrobra.md)
 Luiz In&aacute;cio Lula da Silva was sentenced to nine years in prison but is expected to appeal.
 
-### [Nobel Peace Laureate Liu Xiaobo, who has been incarcerated in China for organizing the pro-democracy manifesto "Charter 08," is suffering from late-stage liver cancer which is worsening. The Chinese hospital treating him and foreign doctors, who examined Liu the weekend, disagree on future treatment. Germany, the United States, Britain, and other countries have appealed that Liu be allowed to go to the hospital of his choice. ](/news/2017/07/12/nobel-peace-laureate-liu-xiaobo-who-has-been-incarcerated-in-china-for-organizing-the-pro-democracy-manifesto-charter-08-is-suffering-fr.md)
+### [Nobel Peace Laureate Liu Xiaobo, who has been incarcerated in China for organizing the pro-democracy manifesto "Charter 08," is suffering from late-stage liver cancer which is worsening. The Chinese hospital treating him and foreign doctors, who examined Liu the weekend, disagree on future treatment. Germany, the United States, UK, and other countries have appealed that Liu be allowed to go to the hospital of his choice. ](/news/2017/07/12/nobel-peace-laureate-liu-xiaobo-who-has-been-incarcerated-in-china-for-organizing-the-pro-democracy-manifesto-charter-08-is-suffering-fr.md)
 Germany urged China on Wednesdayto allow Nobel Peace Prize-winning dissident Liu Xiaobo to leavethe country to receive medical treatment abroad after thehospital treating him said his condition was critical.
 
 ### [Representative Brad Sherman files the first articles for the formal impeachment of Donald Trump in his position of President of the United States. ](/news/2017/07/12/representative-brad-sherman-files-the-first-articles-for-the-formal-impeachment-of-donald-trump-in-his-position-of-president-of-the-united-s.md)
@@ -53,9 +56,6 @@ Senior officials are discussing whether to require foreignors to reapply each ye
 ### [The Trump Administration announces this year's Presidential state visit to the U.K. is delayed until at least 2018. Both the White House and 10 Downing Street state the two countries had been unable to agree on a 2017 date. This planned visit has drawn protests in the United Kingdom since February, and more than 1.8 million signatures on a petition to Parliament to cancel the meeting.  ](/news/2017/07/11/the-trump-administration-announces-this-year-s-presidential-state-visit-to-the-u-k-is-delayed-until-at-least-2018-both-the-white-house-and.md)
 Senior UK government source confirms that Trump has failed to agree a date for his visit this year.
 
-### [The detained senator Leila de Lima files a bill urging the teaching of human rights in Philippine schools. ](/news/2017/07/11/the-detained-senator-leila-de-lima-files-a-bill-urging-the-teaching-of-human-rights-in-philippine-schools.md)
-This follows one of the recommendations of a 2012 study commissioned by the Commission on Human Rights and the United Nations Development Programme 
-
 ### [Turkish authorities have ordered the arrest of 105 people working in information technology who were believed to have been involved in the attempted overthrow of the government last year, state-run Anadolu Agency reported on Tuesday. ](/news/2017/07/11/turkish-authorities-have-ordered-the-arrest-of-105-people-working-in-information-technology-who-were-believed-to-have-been-involved-in-the-a.md)
 Turkish authorities have ordered the arrest of 105 people working in information technology on suspicion of involvement in an attempted military coup a year ago, state-run Anadolu news agency reported on Tuesday.
 
@@ -92,6 +92,9 @@ Amid a bitter stand-off between India and China over the Dokalam region, the Con
 
 ### [A 3 year-old boy is stabbed to death in an incident in the Poddle Park area of Kimmage in Dublin, Ireland. The child's mother, believed to be an Iranian national, is being treated for knife wounds in hospital. ](/news/2017/07/10/a-3-year-old-boy-is-stabbed-to-death-in-an-incident-in-the-poddle-park-area-of-kimmage-in-dublin-ireland-the-child-s-mother-believed-to-b.md)
 An investigation is continuing into the circumstances surrounding the death of a three-year-old boy in Dublin.
+
+### [Battulga Khaltmaa is sworn in as the new President of Mongolia following his victory in the second round presidential election on 7 July. [http://newsinfo.inquirer.net/912663/populist-tycoon-and-ex-judo-star-inaugurated-as-mongolias-president (''The Inquirer'')](/news/2017/07/10/battulga-khaltmaa-is-sworn-in-as-the-new-president-of-mongolia-following-his-victory-in-the-second-round-presidential-election-on-7-july-h.md)
+_Context: Battulga Khaltmaa, Mongolian presidential election, 2017, President of Mongolia_
 
 ### [The Nobel Peace Prize winner Liu Xiaobo is in "critical condition," according to Chinese doctors. ](/news/2017/07/10/the-nobel-peace-prize-winner-liu-xiaobo-is-in-critical-condition-according-to-chinese-doctors.md)
 The government offered little hope that Liu Xiaobo, the country’s most famous political prisoner, would be allowed to go abroad for treatment, as he has requested.
