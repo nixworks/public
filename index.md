@@ -11,7 +11,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/07/12/index.md)
 
-### [The United States Court of Appeals for the Ninth Circuit in San Francisco hears a case on whether or not a Celebes crested macaque owns their selfie. ](/news/2017/07/12/the-united-states-court-of-appeals-for-the-ninth-circuit-in-san-francisco-hears-a-case-on-whether-or-not-a-celebes-crested-macaque-owns-thei.md)
+### [The United States Court of Appeals for the Ninth Circuit in San Francisco hears a case on whether or not a Celebes crested macaque owns its selfie. ](/news/2017/07/12/the-united-states-court-of-appeals-for-the-ninth-circuit-in-san-francisco-hears-a-case-on-whether-or-not-a-celebes-crested-macaque-owns-its.md)
 A case between PETA and nature photographer David Slater and Blurb is now being discussed by a federal appeals court.
 
 ### [Wildfires devastate the Italian provinces of Messina, Naples, Enna and Rome. The Vesuvius National Park is reportedly completely destroyed by flames and ash. Italian police claim the fires are the work of arsonists. ](/news/2017/07/12/wildfires-devastate-the-italian-provinces-of-messina-naples-enna-and-rome-the-vesuvius-national-park-is-reportedly-completely-destroyed-b.md)
