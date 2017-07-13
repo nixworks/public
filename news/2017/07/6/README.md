@@ -18,6 +18,7 @@ An enthusiastic Polish crowd chanted President Donald Trump&#8217;s name and &#8
 ### [A prison riot between rival gangs in Acapulco, Mexico, leaves at least 28 inmates dead. ](/news/2017/07/6/a-prison-riot-between-rival-gangs-in-acapulco-mexico-leaves-at-least-28-inmates-dead.md)
 Rival gangs clashed in a jail in the city of Acapulco, and some of the victims were decapitated.
 
+### [The Oregon legislature passes a bill decriminalizing possession of small quantities of illegal drugs.](/news/2017/07/6/the-oregon-legislature-passes-a-bill-decriminalizing-possession-of-small-quantities-of-illegal-drugs.md)
 ### [Tallis Obed Moses is elected President of Vanuatu, succeeding the late President Baldwin Lonsdale, who died in office in June. ](/news/2017/07/6/tallis-obed-moses-is-elected-president-of-vanuatu-succeeding-the-late-president-baldwin-lonsdale-who-died-in-office-in-june.md)
 There was applause and a sense of relief in Vanuatu&#39;s parliament today as Tallis Obed Moses was voted in as Vanuatu&#39;s new President.
 
