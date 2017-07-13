@@ -16,7 +16,7 @@ _Context: Bangladesh, Jamaat-ul-Mujahideen Bangladesh, Shaykh Abdur Rahman, Sidd
 _Context: China, Menu Foods, United States Food and Drug Administration, chemical, melamine, pet food_
 
 ### [ Iranian seizure of British Navy personnel: A Royal Navy sailor identified as Nathan Thomas Summers appeared on Iranian TV, admitting to and apologizing for entering Iranian territory and his government's wartime actions in general. Tony Blair dismisses the statement as forced. ](/news/2007/03/30/iranian-seizure-of-british-navy-personnel-p-a-royal-navy-sailor-identified-as-nathan-thomas-summers-appeared-on-iranian-tv-admitting-to-an.md)
-_Context: Iran, Royal Navy, TV, Tony Blair, United Kingdom, forced, held captive by Iran_
+_Context: Britain, Iran, Royal Navy, TV, Tony Blair, forced, held captive by Iran_
 
 ### [ Back to the Future: The Ride closes at Universal Studios Florida. ](/news/2007/03/30/back-to-the-future-the-ride-closes-at-universal-studios-florida.md)
 _Context: Back to the Future: The Ride closes, Universal Studios Florida_

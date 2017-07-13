@@ -7,10 +7,10 @@ _Context: Argentina, Felisa Miceli, US$_
 _Context: Europe, George W. Bush, Lech Kaczynski, President of Poland, Russia, missile defense shield_
 
 ### [ The President of the United States announces a Middle East peace conference in the fall involving Israel, Palestinians and neighboring countries. ](/news/2007/07/16/the-president-of-the-united-states-announces-a-middle-east-peace-conference-in-the-fall-involving-israel-palestinians-and-neighboring-coun.md)
-_Context: Israel, Middle East, Palestinian, United States President_
+_Context: Israel, Middle East, Palestinian, President of the United States_
 
 ### [ Britain expels four Russian diplomats and suspends visa negotiations over Russia's failure to extradite Andrei Lugovoy in connection with the murder of Alexander Litvinenko. ](/news/2007/07/16/britain-expels-four-russian-diplomats-and-suspends-visa-negotiations-over-russia-s-failure-to-extradite-andrei-lugovoy-in-connection-with-t.md)
-_Context: Alexander Litvinenko, Andrei Lugovoy, Russia, United Kingdom, diplomat, extradite, visa-free travel_
+_Context: Alexander Litvinenko, Andrei Lugovoy, Britain, Russia, diplomat, extradite, visa-free travel_
 
 ### [ At least 86 people are killed and 136 injured in a car bomb and truck bomb attacks in Kirkuk, Iraq. ](/news/2007/07/16/at-least-86-people-are-killed-and-136-injured-in-a-car-bomb-and-truck-bomb-attacks-in-kirkuk-iraq.md)
 Iraqi police say two car bombs have exploded in the northern city of Kirkuk, killing at least 85 people.

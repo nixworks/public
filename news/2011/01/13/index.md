@@ -7,7 +7,7 @@ In bid to placate protesters, Zine El Abidine Ben Ali vows to broaden political 
 World body accuses security forces loyal to incumbent president of attacking its vehicles and personnel.
 
 ### [A British cruise ship avoids a possible Somali pirate attack 100|mi|km off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-100-mi-km-off-the-coast-of-tanzania-in-the-indian-ocean.md)
-_Context: Indian Ocean, Somali pirates, Tanzania, United Kingdom_
+_Context: Britain, Indian Ocean, Somali pirates, Tanzania_
 
 ### [Israeli-Lebanese conflict:Israel places troops stationed in northern Israel on high alert following the collapse of the Lebanese government. ](/news/2011/01/13/israelialebanese-conflict-pisrael-places-troops-stationed-in-northern-israel-on-high-alert-following-the-collapse-of-the-lebanese-governme.md)
 BEIRUT: The shepherd abducted by the Israeli Army was returned to Lebanon Thursday following intense lobbying from the United Nations Interim Force in Lebanon (UNIFIL) for his release.

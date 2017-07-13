@@ -28,7 +28,7 @@ _Context: Carla Bruni, French President, Guadeloupe, Martinique, Nicolas Sarkozy
 _Context: Cote d'Ivoire, ECOWAS, Ghana, Laurent Gbagbo_
 
 ### [Laurent Gbagbo expels the ambassadors for Canada and the United Kingdom from Cote d'Ivoire. Both nations reject the decision, recognizing Alassane Ouattara as the rightful President. ](/news/2011/01/7/laurent-gbagbo-expels-the-ambassadors-for-canada-and-the-united-kingdom-from-ca-te-d-ivoire-both-nations-reject-the-decision-recognizing-a.md)
-_Context: Alassane Ouattara, Canada, Cote d'Ivoire, Laurent Gbagbo, United Kingdom_
+_Context: Alassane Ouattara, Britain, Canada, Cote d'Ivoire, Laurent Gbagbo_
 
 ### [Chile recognises the State of Palestine. ](/news/2011/01/7/chile-recognises-the-state-of-palestine.md)
 Officials at Foreign Ministry fear &#39;domino effect&#39; in South America; &#39;If Chile, Mexico follow Argentina, Brazil, it will prompt all other Latin American countries to join, because they won&#39;t want to stay on sidelines,&#39; says diplomat

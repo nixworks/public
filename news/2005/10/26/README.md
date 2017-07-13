@@ -7,7 +7,7 @@ _Context: Baghdad, Baqouba, Conflict in Iraq, Iraqi insurgency, United States, U
 _Context: 1917, 2005 World Series, Chicago White Sox, Houston Astros, Jermaine Dye, Series MVP, baseball game_
 
 ### [ For the first time in Iranian history, Indian soldiers killed fighting for the British in Iran have been commemorated in an official ceremony in Tehran. ](/news/2005/10/26/for-the-first-time-in-iranian-history-indian-soldiers-killed-fighting-for-the-british-in-iran-have-been-commemorated-in-an-official-ceremo.md)
-_Context: India, Iran, Tehran, United Kingdom_
+_Context: Britain, India, Iran, Tehran_
 
 ### [ Iranian President Mahmoud Ahmadinejad quotes the founder of the Islamic Republic of Iran, Ayatollah Ruhollah Khomeini, who called for the destruction of Israel, calling it a "disgraceful blot" that should be "wiped off the map".  Ahmadinejad made the reference to 3,000 students during a speech at the "World without Zionism" conference. ](/news/2005/10/26/iranian-president-mahmoud-ahmadinejad-quotes-the-founder-of-the-islamic-republic-of-iran-ayatollah-ruhollah-khomeini-who-called-for-the-d.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
@@ -19,7 +19,7 @@ Terror returns to Israel’s cities: Suicide bomber strikes in market in Hadera,
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Avian influenza: The British  Community Reference Laboratory for Avian Influenza in Weybridge confirms that swans found near Orahovica, Croatia, were infected by the H5N1 flu strain. ](/news/2005/10/26/avian-influenza-p-the-british-community-reference-laboratory-for-avian-influenza-in-weybridge-confirms-that-swans-found-near-orahovica-cr.md)
-_Context: Avian flu virus, Community Reference Laboratory for Avian Influenza, Croatia, United Kingdom, Weybridge, bird flu, infection, swan_
+_Context: Avian flu virus, Britain, Community Reference Laboratory for Avian Influenza, Croatia, Weybridge, bird flu, infection, swan_
 
 ### [ The "Al-Tawhid trial" in Dsseldorf, Germany results in sentences between five and eight years against the defendants, four Palestinian men charged with plotting attacks on Jewish installations in Germany on the orders of Abu Musab al-Zarqawi.](/news/2005/10/26/the-al-tawhid-trial-in-dusseldorf-germany-results-in-sentences-between-five-and-eight-years-against-the-defendants-four-palestinian-men.md)
 _Context: Abu Musab al-Zarqawi, Dsseldorf, Germany, Palestinian_

@@ -11,7 +11,7 @@ A UK helicopter has crashed in southern Afghanistan, killing all five British pe
 
 ### Related:
 
-1. [War in Afghanistan:A suicide bomber kills 5 in a targeted attack on a British embassy vehicle in Kabul, Afghanistan. ](/news/2014/11/27/war-in-afghanistan-pa-suicide-bomber-kills-5-in-a-targeted-attack-on-a-british-embassy-vehicle-in-kabul-afghanistan.md) _Context: Afghanistan, United Kingdom_
+1. [War in Afghanistan:A suicide bomber kills 5 in a targeted attack on a British embassy vehicle in Kabul, Afghanistan. ](/news/2014/11/27/war-in-afghanistan-pa-suicide-bomber-kills-5-in-a-targeted-attack-on-a-british-embassy-vehicle-in-kabul-afghanistan.md) _Context: Afghanistan, Britain_
 2. [A suicide bomb attack kills the police chief of a district in southern Kandahar Province in Afghanistan. ](/news/2014/09/8/a-suicide-bomb-attack-kills-the-police-chief-of-a-district-in-southern-kandahar-province-in-afghanistan.md) _Context: Afghanistan, Kandahar Province_
 3. [War in Afghanistan (2001-present):A car bomb detonates in Kabul, Afghanistan, killing two contractors working with ISAF. ](/news/2014/02/10/war-in-afghanistan-2001-present-pa-car-bomb-detonates-in-kabul-afghanistan-killing-two-contractors-working-with-isaf.md) _Context: Afghanistan, ISAF_
 4. [War in Afghanistan (2001-present):The Taliban kills four US soldiers in Kandahar Province, Afghanistan. ](/news/2013/05/14/war-in-afghanistan-2001apresent-pthe-taliban-kills-four-us-soldiers-in-kandahar-province-afghanistan.md) _Context: Afghanistan, Kandahar Province_

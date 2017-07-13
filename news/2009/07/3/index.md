@@ -19,13 +19,13 @@ Repair work is under way in Co Mayo to roads and bridges damaged by overnight fl
 _Context: Ban Ki-moon, Burma, Secretary General, State Peace and Development Council, Than Shwe, United Nations_
 
 ### [ Two Iranian staff working for the British embassy in Tehran will face trial over allegedly inciting protests. ](/news/2009/07/3/two-iranian-staff-working-for-the-british-embassy-in-tehran-will-face-trial-over-allegedly-inciting-protests.md)
-_Context: Iran, Tehran, United Kingdom, protests against the regime, trial_
+_Context: Britain, Iran, Tehran, protests against the regime, trial_
 
 ### [ Three dinosaur species&mdash;''Australovenator wintonensis'', ''Wintonotitan wattsi'' and ''Diamantinasaurus matildae''&mdash;are discovered in Australia. ](/news/2009/07/3/three-dinosaur-species-mdash-australovenator-wintonensis-wintonotitan-wattsi-and-diamantinasaurus-matildae-mdash-are-discovere.md)
 Meet Australia&#039;s answer to velociraptor.
 
 ### [ Syria invites United States President Barack Obama to the Damascus summit. ](/news/2009/07/3/syria-invites-united-states-president-barack-obama-to-the-damascus-summit.md)
-_Context: Barack Obama, Damascus, Syria, United States, United States President_
+_Context: Barack Obama, Damascus, President of the United States, Syria, United States_
 
 ### [ Algerian ra music star Cheb Mami is jailed for five years in France for trying to force his former partner to have an abortion. ](/news/2009/07/3/algerian-rai-music-star-cheb-mami-is-jailed-for-five-years-in-france-for-trying-to-force-his-former-partner-to-have-an-abortion.md)
 Algerian singer Cheb Mami went on trial in France on Thursday over accusations that he forced his former lover into an attempted abortion in 2005.

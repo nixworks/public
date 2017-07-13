@@ -28,7 +28,7 @@ Towering wildfires burned out of control across Southern California for a third 
 _Context: Idris Osman, Somalia, World Food Programme_
 
 ### [ Nike agrees to buy United Kingdom sportswear firm Umbro for PS285 million. ](/news/2007/10/23/nike-agrees-to-buy-united-kingdom-sportswear-firm-umbro-for-aps285-million.md)
-_Context: Nike, Inc., PS, Umbro, United Kingdom, sportswear_
+_Context: Britain, Nike, Inc., PS, Umbro, sportswear_
 
 ### [ A United States Government report states that the Department of State is unable to account for much of the $1.2 billion in funding that it gave to DynCorp International to train Iraqi police. ](/news/2007/10/23/a-united-states-government-report-states-that-the-department-of-state-is-unable-to-account-for-much-of-the-1-2-billion-in-funding-that-it.md)
 _Context: DynCorp International, Iraq, US$, United States Department of State, United States government_

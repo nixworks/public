@@ -10,13 +10,13 @@ _Context: Guantanamo Bay, Guantanamo Bay Detention Camp, Lakhdar Boumediene, Uni
 _Context: Government of Peru, Peru, indigenous, insurgency_
 
 ### [ Shahid Malik resigns as the United Kingdom's Parliamentary Under-Secretary of State for Justice. ](/news/2009/05/15/shahid-malik-resigns-as-the-united-kingdom-s-parliamentary-under-secretary-of-state-for-justice.md)
-_Context: Ministry of Justice, Parliamentary Under-Secretary of State, Shahid Malik, United Kingdom, expenses controversy_
+_Context: Britain, Ministry of Justice, Parliamentary Under-Secretary of State, Shahid Malik, expenses controversy_
 
 ### [ The Eurozone's 16 national economies contract by 2.5% throughout the first fiscal quarter of 2009. ](/news/2009/05/15/the-eurozone-s-16-national-economies-contract-by-2-5-throughout-the-first-fiscal-quarter-of-2009.md)
 _Context: 2009, 4th quarter of 2007 and the second quarter of 2009, Eurozone, economy, fiscal year_
 
 ### [ U.S. President Barack Obama will resume military tribunals for detainees at Guantanamo Bay. ](/news/2009/05/15/u-s-president-barack-obama-will-resume-military-tribunals-for-detainees-at-guanta-namo-bay.md)
-_Context: Barack Obama, Guantanamo Bay Detention Camp, United States, United States President, detainees, military tribunal_
+_Context: Barack Obama, Guantanamo Bay Detention Camp, President of the United States, United States, detainees, military tribunal_
 
 ### [ A suicide attack kills three people in Grozny, Chechnya, Russia. ](/news/2009/05/15/a-suicide-attack-kills-three-people-in-grozny-chechnya-russia.md)
 _Context: Chechnya, Grozny, Russia, suicide bombing_

@@ -13,7 +13,7 @@ _Context: Kofi Annan, Occupation of Iraq, Secretary General, Security Council, U
 _Context: December 18, December 19, Michael Jackson, Santa Barbara, California_
 
 ### [ A major expansion of British airports is announced by the UK government, with Stansted, Heathrow and Birmingham set to gain extra runways. [http://news.bbc.co.uk/1/hi/uk_politics/3322277.stm]](/news/2003/12/16/a-major-expansion-of-british-airports-is-announced-by-the-uk-government-with-stansted-heathrow-and-birmingham-set-to-gain-extra-runways.md)
-_Context: Birmingham, London Heathrow Airport, London Stansted Airport, United Kingdom, airport_
+_Context: Birmingham, Britain, London Heathrow Airport, London Stansted Airport, airport_
 
 ### [ An advisory committee to the U.S. Food and Drug Administration recommends that the morning-after pill (for emergency contraception) be made available without a prescription. [http://www.cnn.com/2003/HEALTH/12/16/morning.after.pill/index.html]](/news/2003/12/16/an-advisory-committee-to-the-u-s-food-and-drug-administration-recommends-that-the-morning-after-pill-for-emergency-contraception-be-made.md)
 _Context: U.S. Food and Drug Administration, contraception, morning-after pill, prescriptions_

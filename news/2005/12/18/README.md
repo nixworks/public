@@ -16,7 +16,7 @@ _Context: Bolivia, Evo Morales, Jorge Quiroga, National Congress of Bolivia, Pre
 _Context: Chennai, India_
 
 ### [ Bono, Melinda Gates and Bill Gates are named ''Time'''s Persons of the Year. ](/news/2005/12/18/bono-melinda-gates-and-bill-gates-are-named-time-s-persons-of-the-year.md)
-_Context: Bill, Bono, Melinda Gates, Person of the Year, Time_
+_Context: Bill Gates, Bono, Melinda, Person of the Year, Time_
 
 ### [ U.S. Vice President Dick Cheney is on a trip to various countries including Oman, Afghanistan, Pakistan, Egypt and Saudi Arabia. He made a surprise stop to Iraq today. [http://news.yahoo.com/s/ap/20051218/ap_on_re_mi_ea/cheney_iraq (Yahoo! News)] (Link dead as of 22:48, 14 January 2007 (UTC)), [http://www.alertnet.org/thenews/newsdesk/L18757872.htm (Reuters)] (Link dead as of 22:48, 14 January 2007 (UTC))](/news/2005/12/18/u-s-vice-president-dick-cheney-is-on-a-trip-to-various-countries-including-oman-afghanistan-pakistan-egypt-and-saudi-arabia-he-made-a.md)
 _Context: Afghanistan, Dick Cheney, Egypt, Iraq, Oman, Pakistan, Saudi Arabia, U.S. Vice President_

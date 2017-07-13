@@ -16,7 +16,7 @@ _Context: Deputy Attorney General, Paul McNulty, United States Department of Jus
 _Context: Fatah, Hamas, Hani Kawasmeh, Palestinian, ceasefire_
 
 ### [ President George W. Bush orders United States government agencies to take regulatory steps to reduce automobile emissions. ](/news/2007/05/14/president-george-w-bush-orders-united-states-government-agencies-to-take-regulatory-steps-to-reduce-automobile-emissions.md)
-_Context: Auto, George W. Bush, United States, United States President_
+_Context: Auto, George W. Bush, President of the United States, United States_
 
 ### [ The U.S. military is to block troops from using YouTube and MySpace and 11 other popular websites for sharing photos, video clips and messages. ](/news/2007/05/14/the-u-s-military-is-to-block-troops-from-using-youtube-and-myspace-and-11-other-popular-websites-for-sharing-photos-video-clips-and-messa.md)
 _Context: MySpace, YouTube, military, video clips_
@@ -34,7 +34,7 @@ _Context: Orsk, Russia, cafe_
 _Context: Chang Chun-hsiung, Chen Shui-bian, Democratic Progressive Party, Premier of Taiwan, President of Taiwan_
 
 ### [ Nominations open for the leadership of the United Kingdom Labour Party with Chancellor of the Exchequer Gordon Brown as the favourite. ](/news/2007/05/14/nominations-open-for-the-leadership-of-the-united-kingdom-labour-party-with-chancellor-of-the-exchequer-gordon-brown-as-the-favourite.md)
-_Context: Chancellor of the Exchequer, Gordon Brown, Labour, United Kingdom, confirmed_
+_Context: Britain, Chancellor of the Exchequer, Gordon Brown, Labour, confirmed_
 
 ### [ An ethics panel of the World Bank Group finds that its President Paul Wolfowitz was guilty of violating his contract when arranging a compensation package for Shaha Ali Riza with whom he had a relationship. ](/news/2007/05/14/an-ethics-panel-of-the-world-bank-group-finds-that-its-president-paul-wolfowitz-was-guilty-of-violating-his-contract-when-arranging-a-compe.md)
 _Context: Paul Wolfowitz, Shaha Ali Riza, World Bank Group_

@@ -19,10 +19,10 @@ _Context: Ariel, Israel, Israeli-Palestinian conflict, West Bank, barrier, settl
 The ultimate news source for music, celebrity, entertainment, movies, and current events on the web. It&amp;#039;s pop culture on steroids.
 
 ### [ After being incarcerated without trial for almost three years, the four remaining British detainees at Guantanamo Bay, Moazzam Begg, Feroz Abbasi, Martin Mubanga and Richard Belmar, are released and flown back to the United Kingdom, where they are immediately arrested by British police. ](/news/2005/01/25/after-being-incarcerated-without-trial-for-almost-three-years-the-four-remaining-british-detainees-at-guantanamo-bay-moazzam-begg-feroz.md)
-_Context: Feroz Abbasi, Martin Mubanga, Moazzam Begg, Richard Belmar, United Kingdom_
+_Context: Britain, Feroz Abbasi, Martin Mubanga, Moazzam Begg, Richard Belmar_
 
 ### [ Bill Gates donates $750 million through the Bill & Melinda Gates Foundation to the Global Alliance for Vaccines and Immunisation, to provide vaccines to children in poor countries. This is one of the largest philanthropic donations ever made by a living donor. ](/news/2005/01/25/bill-gates-donates-750-million-through-the-bill-melinda-gates-foundation-to-the-global-alliance-for-vaccines-and-immunisation-to-provid.md)
-_Context: Bill, foundation, million_
+_Context: Bill & Melinda Gates Foundation, Bill Gates, million_
 
 ### [ The Bush administration is requesting an additional $80 billion from Congress for Iraq and Afghanistan, bringing the total cost of both operations over $280 billion. ](/news/2005/01/25/the-bush-administration-is-requesting-an-additional-80-billion-from-congress-for-iraq-and-afghanistan-bringing-the-total-cost-of-both-ope.md)
 Get the latest breaking news and top news headlines at Reuters.com

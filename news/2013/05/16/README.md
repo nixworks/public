@@ -22,7 +22,7 @@ _Context: Jenny Colgan, Romantic Novel of the Year Award, Welcome to Rosie Hopki
 _Context: Bea Arthur, US$_
 
 ### [Bill Gates becomes the world's richest person for the first time since 2007 with a fortune of approximately $72.7 billion. ](/news/2013/05/16/bill-gates-becomes-the-world-s-richest-person-for-the-first-time-since-2007-with-a-fortune-of-approximately-72-7-billion.md)
-_Context: Bill_
+_Context: Bill Gates_
 
 ### [The Venezuelan government attempts to put an end to a toilet paper shortage. ](/news/2013/05/16/the-venezuelan-government-attempts-to-put-an-end-to-a-toilet-paper-shortage.md)
 _Context: Venezuela, toilet paper_

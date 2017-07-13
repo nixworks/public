@@ -25,7 +25,7 @@ _Context: Belgian, an attack, day-care center, stabbed_
 _Context: Gulf of Aden, People's Republic of China, Somali pirates, Somalia, US$, cargo ship_
 
 ### [ The United Kingdom enters a recession. ](/news/2009/01/23/the-united-kingdom-enters-a-recession.md)
-_Context: United Kingdom, recession_
+_Context: Britain, recession_
 
 ## [Previous Day...](/news/2009/01/22/index.md)
 

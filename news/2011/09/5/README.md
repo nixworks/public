@@ -40,7 +40,7 @@ Turkish hackers managed to re-direct visitors away from high-profile sites, incl
 He won the state in 2008 by nearly 18 percentage points and pumped billions of tax dollars into the effort to save its flagship industry.
 
 ### [In the United Kingdom the first wave of independent state-funded schools, known as free schools, open their doors as the new academic year begins. ](/news/2011/09/5/in-the-united-kingdom-the-first-wave-of-independent-state-funded-schools-known-as-free-schools-open-their-doors-as-the-new-academic-year-b.md)
-_Context: United Kingdom, free schools_
+_Context: Britain, free schools_
 
 ## [Previous Day...](/news/2011/09/4/index.md)
 

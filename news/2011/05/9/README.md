@@ -67,7 +67,7 @@ _Context: Colombia, Venezuela, Walid Makled Garcia, extradite_
 _Context: Governor, Jan Brewer, United States Supreme Court, immigration law_
 
 ### [American billionaire Louis Bacon wins a judgement in the United Kingdom against Wikipedia, the ''Denver Post'' and WordPress about disclosure of identities of people who published allegedly defamatory comments although the judgement does not apply in the United States. ](/news/2011/05/9/american-billionaire-louis-bacon-wins-a-judgement-in-the-united-kingdom-against-wikipedia-the-denver-post-and-wordpress-about-disclosur.md)
-_Context: Denver Post, Louis Bacon, United Kingdom, United States, Wikipedia, WordPress_
+_Context: Britain, Denver Post, Louis Bacon, United States, Wikipedia, WordPress_
 
 ### [Pennsylvania State Senator Bob Mensch is convicted of disorderly conduct after showing a handgun to another motorist on US Interstate 78. ](/news/2011/05/9/pennsylvania-state-senator-bob-mensch-is-convicted-of-disorderly-conduct-after-showing-a-handgun-to-another-motorist-on-us-interstate-78.md)
 Mensch faces maximum sentence of 90 days in jail and $300 fine

@@ -7,7 +7,7 @@ The Organization of American States lifted its 47-year suspension of Cuba on Wed
 The Leaving Certificate English Paper Two has been postponed after it emerged that students in one centre have already seen the paper.
 
 ### [ Labour Party Members of the United Kingdom's Parliament circulate an e-mail that requests Prime Minister Gordon Brown's resignation. ](/news/2009/06/3/labour-party-members-of-the-united-kingdom-s-parliament-circulate-an-e-mail-that-requests-prime-minister-gordon-brown-s-resignation.md)
-_Context: Gordon Brown, Labour, MP, Parliament, Prime Minister, United Kingdom, e-mail_
+_Context: Britain, Gordon Brown, Labour, MP, Parliament, Prime Minister, e-mail_
 
 ### [ The remotely operated vehicle ''Nereus'' reaches the Challenger Deep in the Pacific Ocean's Mariana Trench. ](/news/2009/06/3/the-remotely-operated-vehicle-nereus-reaches-the-challenger-deep-in-the-pacific-ocean-s-mariana-trench.md)
 _Context: Challenger Deep, Mariana Trench, Nereus, Pacific, remotely operated vehicle_
@@ -16,7 +16,7 @@ _Context: Challenger Deep, Mariana Trench, Nereus, Pacific, remotely operated ve
 _Context: India, Lok Sabha, MP, Meira Kumar, Parliament of India, Speaker, becomes_
 
 ### [ Al-Qaeda founder Osama bin Laden criticizes United States President Barack Obama on an audio cassette. ](/news/2009/06/3/al-qaeda-founder-osama-bin-laden-criticizes-united-states-president-barack-obama-on-an-audio-cassette.md)
-_Context: Barack Obama, Osama bin Laden, United States, United States President, al-Qaeda, cassette, criticizes_
+_Context: Barack Obama, Osama bin Laden, President of the United States, United States, al-Qaeda, cassette, criticizes_
 
 ### [ President Jacob Zuma vows to create 500,000 jobs through 2009 in South Africa's State of the Nation Address. ](/news/2009/06/3/president-jacob-zuma-vows-to-create-500-000-jobs-through-2009-in-south-africa-s-state-of-the-nation-address.md)
 _Context: 2009, Jacob Zuma, President of South Africa, South Africa, State of the Nation Address_
@@ -34,7 +34,7 @@ _Context: Home, Marilynne Robinson, Orange Prize for Fiction, United States, aut
 _Context: New Hampshire, U.S. state, legalizes, same-sex marriage_
 
 ### [ The al-Qaeda Organization in the Islamic Maghreb executes British hostage Edwin Dwyer in the Sahara. ](/news/2009/06/3/the-al-qaeda-organization-in-the-islamic-maghreb-executes-british-hostage-edwin-dwyer-in-the-sahara.md)
-_Context: Al Qaeda in the Islamic Maghreb, Insurgency in the Maghreb (2002-present), Islam, Maghreb, Sahara, United Kingdom, al-Qaeda, hostage_
+_Context: Al Qaeda in the Islamic Maghreb, Britain, Insurgency in the Maghreb (2002-present), Islam, Maghreb, Sahara, al-Qaeda, hostage_
 
 ## [Previous Day...](/news/2009/06/2/index.md)
 

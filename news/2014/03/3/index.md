@@ -22,7 +22,7 @@ RTE’s Prime Time appeared to suffer a technical difficulty this evening during
 _Context: Google, Microsoft, Nokia, People's Republic of China, Samsung_
 
 ### [Microsoft founder Bill Gates regains the top spot as the world's richest person, according to Forbes magazine's annual ranking of global billionaires. ](/news/2014/03/3/microsoft-founder-bill-gates-regains-the-top-spot-as-the-world-s-richest-person-according-to-forbes-magazine-s-annual-ranking-of-global-bil.md)
-_Context: Bill, Forbes, Microsoft_
+_Context: Bill Gates, Forbes, Microsoft_
 
 ### [North Korea announces that it will release Australian Christian missionary John Short on account of his age. ](/news/2014/03/3/north-korea-announces-that-it-will-release-australian-christian-missionary-john-short-on-account-of-his-age.md)
 Australian missionary John Short arrives in Beijing after being released by North Korean authorities.

@@ -79,7 +79,7 @@ East Timor is facing a new humanitarian emergency, with hundreds of houses burnt
 _Context: European Union, Kosovo, Russia, Serbia, United States_
 
 ### [ Britain's Chief Veterinary Officer Debby Reynolds raises concern about another possible outbreak of foot-and-mouth disease in England. ](/news/2007/08/10/britain-s-chief-veterinary-officer-debby-reynolds-raises-concern-about-another-possible-outbreak-of-foot-and-mouth-disease-in-england.md)
-_Context: Debby Reynolds, England, United Kingdom, outbreak of 2007_
+_Context: Britain, Debby Reynolds, England, outbreak of 2007_
 
 ## [Previous Day...](/news/2007/08/9/index.md)
 

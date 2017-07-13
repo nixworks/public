@@ -7,7 +7,7 @@ _Context: Pakistan, Rawalpindi, large blast_
 _Context: Venezuela, rationing water_
 
 ### [ The Royal Bank of Scotland announces cuts of 3,700 staff in the United Kingdom. ](/news/2009/11/2/the-royal-bank-of-scotland-announces-cuts-of-3-700-staff-in-the-united-kingdom.md)
-_Context: Royal Bank of Scotland, United Kingdom_
+_Context: Britain, Royal Bank of Scotland_
 
 ### [ 16 people are killed in a fire that destroyed 58 houses in the Philippine city of Bacolod. ](/news/2009/11/2/16-people-are-killed-in-a-fire-that-destroyed-58-houses-in-the-philippine-city-of-bacolod.md)
 _Context: Bacolod, Philippine_

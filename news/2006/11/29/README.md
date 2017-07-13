@@ -37,7 +37,7 @@ _Context: Iraq, U.S.-led troops, United Nations Security Council, United States_
 _Context: Fiji, Laisenia Qarase, New Zealand, Prime Minister, Voreqe Bainimarama, Wellington_
 
 ### [ In the United Kingdom, the ''News of the World'' newspaper's royal editor Clive Goodman pleads guilty to conspiring to intercept the voicemail messages of Princes William and Harry. ](/news/2006/11/29/in-the-united-kingdom-the-news-of-the-world-newspaper-s-royal-editor-clive-goodman-pleads-guilty-to-conspiring-to-intercept-the-voicem.md)
-_Context: British Royal Family, Duke of Cambridge, News of the World, Prince Harry, United Kingdom_
+_Context: Britain, British Royal Family, Duke of Cambridge, News of the World, Prince Harry_
 
 ### [ The Liberal Party of Canada opens its leadership convention, expected to be the most contentious in decades, with a keynote speech by Howard Dean. ](/news/2006/11/29/the-liberal-party-of-canada-opens-its-leadership-convention-expected-to-be-the-most-contentious-in-decades-with-a-keynote-speech-by-howar.md)
 _Context: Howard Dean, Liberal Party's, leadership convention_

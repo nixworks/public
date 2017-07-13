@@ -22,7 +22,7 @@ Michael Martin, the Commons Speaker, has apologised for his role in the MPs&#039
 The headquarters of the EU Commission in Brussels was evacuated today because of a fire.
 
 ### [ Former United States Secretary of Defense Donald Rumsfeld is accused of quoting the Bible while briefing then-President George W. Bush. ](/news/2009/05/18/former-united-states-secretary-of-defense-donald-rumsfeld-is-accused-of-quoting-the-bible-while-briefing-then-president-george-w-bush.md)
-_Context: Bible, Donald Rumsfeld, George W. Bush, Secretary of Defense, United States, United States President_
+_Context: Bible, Donald Rumsfeld, George W. Bush, President of the United States, Secretary of Defense, United States_
 
 ### [ U.S. President Barack Obama urges Israeli Prime Minister Benjamin Netanyahu to accept a Palestinian state. ](/news/2009/05/18/u-s-president-barack-obama-urges-israeli-prime-minister-benjamin-netanyahu-to-accept-a-palestinian-state.md)
 U.S. President Barack Obama on Monday pressed a two-state solution to the Middle East conflict but failed to win a commitment from Israeli Prime Minister Benjamin Netanyahu to back Palestinian statehood.

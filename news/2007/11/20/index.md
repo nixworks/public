@@ -40,7 +40,7 @@ _Context: Iran, Iraq, Manouchehr Mottaki, Minister of Foreign Affairs, United St
 _Context: HIV, United Nations_
 
 ### [ The UK's HM Revenue and Customs admits that it has lost two computer discs which contained data, including bank details and National Insurance numbers, about every family with a child under 16 in the country. ](/news/2007/11/20/the-uk-s-hm-revenue-and-customs-admits-that-it-has-lost-two-computer-discs-which-contained-data-including-bank-details-and-national-insura.md)
-_Context: 2007 UK child benefit data scandal, HM Revenue and Customs, National Insurance, United Kingdom_
+_Context: 2007 UK child benefit data scandal, Britain, HM Revenue and Customs, National Insurance_
 
 ## [Previous Day...](/news/2007/11/19/index.md)
 

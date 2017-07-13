@@ -4,10 +4,10 @@
 _Context: Darfur, Office for the Coordination of Humanitarian Affairs, United Nations, Zam Zam, refugee, refugee camp_
 
 ### [ United States President Barack Obama nominates former Washington Governor Gary Locke to serve as the next Secretary of Commerce. ](/news/2009/02/25/united-states-president-barack-obama-nominates-former-washington-governor-gary-locke-to-serve-as-the-next-secretary-of-commerce.md)
-_Context: Barack Obama, Gary Locke, Governor, United States, United States President, United States Secretary of Commerce, Washington_
+_Context: Barack Obama, Gary Locke, Governor, President of the United States, United States, United States Secretary of Commerce, Washington_
 
 ### [ An improvised explosive device kills three British Army soldiers in the Gerishk District of Afghanistan's Helmand Province. ](/news/2009/02/25/an-improvised-explosive-device-kills-three-british-army-soldiers-in-the-gerishk-district-of-afghanistan-s-helmand-province.md)
-_Context: Afghanistan, British Army, Gerishk District, Helmand Province, IED, United Kingdom_
+_Context: Afghanistan, Britain, British Army, Gerishk District, Helmand Province, IED_
 
 ### [ Three people set themselves on fire near Tiananmen Square in Beijing, China. ](/news/2009/02/25/three-people-set-themselves-on-fire-near-tiananmen-square-in-beijing-china.md)
 _Context: Beijing, People's Republic of China, Tiananmen Square, sets herself alight_

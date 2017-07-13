@@ -13,7 +13,7 @@ The Irish Aviation Authority has announced that it is lifting restrictions on fl
 _Context: BBC, Ehud Olmert, Israel, Israeli Prime Minister_
 
 ### [The leaders of the United Kingdom's three main political parties take part in the first of three televised debates ahead of the 2010 General Election. ](/news/2010/04/15/the-leaders-of-the-united-kingdom-s-three-main-political-parties-take-part-in-the-first-of-three-televised-debates-ahead-of-the-2010-general.md)
-_Context: 2010 general election, United Kingdom, leaders' debates_
+_Context: 2010 general election, Britain, leaders' debates_
 
 ### [The maiden flight of the Geosynchronous Satellite Launch Vehicle Mk.II, India's first launch with an indigenous cryogenic upper stage, ends in failure, resulting in the loss of the GSAT-4 satellite. ](/news/2010/04/15/the-maiden-flight-of-the-geosynchronous-satellite-launch-vehicle-mk-ii-india-s-first-launch-with-an-indigenous-cryogenic-upper-stage-ends.md)
 _Context: GSAT-4, Geosynchronous Satellite Launch Vehicle, India_

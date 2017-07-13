@@ -25,7 +25,7 @@ _Context: Democratic Party, Ichiro Ozawa, Japan, funding, prosecutor, the Lower 
 _Context: ACLU, Guantanamo Bay, United States, United States Justice Department, detainees, indefinitely without trial_
 
 ### [Jim McCormick, the director of the U.K. company manufacturing the controversial ADE 651 bomb detectors, is arrested on suspicion of fraud. ](/news/2010/01/23/jim-mccormick-the-director-of-the-u-k-company-manufacturing-the-controversial-ade-651-bomb-detectors-is-arrested-on-suspicion-of-fraud.md)
-_Context: ADE 651, Jim McCormick, United Kingdom, bomb detectors, fraud_
+_Context: ADE 651, Britain, Jim McCormick, bomb detectors, fraud_
 
 ### [A new assessment by the U.S. Geological Survey says Venezuela may hold double the oil reserves of Saudi Arabia. ](/news/2010/01/23/a-new-assessment-by-the-u-s-geological-survey-says-venezuela-may-hold-double-the-oil-reserves-of-saudi-arabia.md)
 _Context: Saudi Arabia, United States, United States Geological Survey, Venezuela, oil reserve_

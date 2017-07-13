@@ -4,7 +4,7 @@
 A British security consultant kidnapped six days ago by gunmen in Somalia has described his release as &quot;marvellous&quot;, Save the Children says.
 
 ### [United Kingdom boyband JLS and hip-hop MC Tinie Tempah dominate the Music of Black Origin Awards in Liverpool. ](/news/2010/10/20/united-kingdom-boyband-jls-and-hip-hop-mc-tinie-tempah-dominate-the-music-of-black-origin-awards-in-liverpool.md)
-_Context: JLS, Liverpool, MC, Music of Black Origin Awards, Tinie Tempah, United Kingdom, boyband, hip hop_
+_Context: Britain, JLS, Liverpool, MC, Music of Black Origin Awards, Tinie Tempah, boyband, hip hop_
 
 ### [French strikesFrance braces itself for another day of strikes against proposed cuts to pensions that the Senate will consider later this week. ](/news/2010/10/20/french-strikespfrance-braces-itself-for-another-day-of-strikes-against-proposed-cuts-to-pensions-that-the-senate-will-consider-later-this-we.md)
 French strikers impose new fuel blockades, hours after security forces clear protesters from three depots.

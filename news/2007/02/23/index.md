@@ -13,10 +13,10 @@ _Context: Australia, Julian Moti, Michael Somare, Prime Minister of Papua New Gu
 _Context: Norway, Oslo, cluster bomb, international agreement_
 
 ### [ Grayrigg rail crash: A Virgin Pendolino train derails in Cumbria, United Kingdom, killing one person and injuring dozens more. ](/news/2007/02/23/grayrigg-rail-crash-a-virgin-pendolino-train-derails-in-cumbria-united-kingdom-killing-one-person-and-injuring-dozens-more.md)
-_Context: Cumbria, Grayrigg rail crash, Pendolino, United Kingdom, Virgin Trains, train_
+_Context: Britain, Cumbria, Grayrigg rail crash, Pendolino, Virgin Trains, train_
 
 ### [ Iraq War: Democratic Party members of the United States Senate are planning a challenge to the authority given to President Bush in 2002. ](/news/2007/02/23/iraq-war-p-democratic-party-members-of-the-united-states-senate-are-planning-a-challenge-to-the-authority-given-to-president-bush-in-2002.md)
-_Context: 2002, Democratic Party, George W. Bush, Iraq War, United States President, United States Senate, authority_
+_Context: 2002, Democratic Party, George W. Bush, Iraq War, President of the United States, United States Senate, authority_
 
 ### [ A fire in a nursing home in Alsunga, Latvia, kills at least 26 people. ](/news/2007/02/23/a-fire-in-a-nursing-home-in-alsunga-latvia-kills-at-least-26-people.md)
 _Context: Alsunga, Latvia, nursing home_

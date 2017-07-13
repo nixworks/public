@@ -7,7 +7,7 @@ _Context: Kyrgyzstan, Navi Pillay, the ongoing crisis_
 State of emergency lifted in three provinces but strict laws remain in much of the country.
 
 ### [William Hague, the United Kingdom Foreign Secretary, says that British soldiers should be out of Afghanistan by 2014. ](/news/2010/07/20/william-hague-the-united-kingdom-foreign-secretary-says-that-british-soldiers-should-be-out-of-afghanistan-by-2014.md)
-_Context: Afghanistan, British Army, Secretary of State for Foreign and Commonwealth Affairs, United Kingdom, William Hague_
+_Context: Afghanistan, Britain, British Army, Secretary of State for Foreign and Commonwealth Affairs, William Hague_
 
 ### [Uganda's government defends the forced repatriation of 1,700 Rwandan refugees, deemed "heavy-handed" by the United Nations; two people are killed in a group alleged to be a security risk following the July 2010 Kampala attacks. ](/news/2010/07/20/uganda-s-government-defends-the-forced-repatriation-of-1-700-rwandan-refugees-deemed-heavy-handed-by-the-united-nations-two-people-are-k.md)
 _Context: Rwanda, Uganda, United Nations, attacks_
@@ -97,7 +97,7 @@ Santa Clara police: Activist Ly Tong arrested in pepper spray attack on singer
 South East Asian politicians reportedly give Burma &quot;an earful&quot; over its planned elections, which critics describe as a sham.
 
 ### [Prime Minister of the United Kingdom David Cameron meets with US President Barack Obama to discuss the Gulf of Mexico oil spill, Afghanistan and the global economy. ](/news/2010/07/20/prime-minister-of-the-united-kingdom-david-cameron-meets-with-us-president-barack-obama-to-discuss-the-gulf-of-mexico-oil-spill-afghanistan.md)
-_Context: Afghanistan, Barack Obama, David Cameron, Deepwater Horizon oil spill, Prime Minister, United States President_
+_Context: Afghanistan, Barack Obama, David Cameron, Deepwater Horizon oil spill, President of the United States, Prime Minister_
 
 ### [The Supreme Court of Guinea confirms there will be a presidential run-off in the country's election. ](/news/2010/07/20/the-supreme-court-of-guinea-confirms-there-will-be-a-presidential-run-off-in-the-country-s-election.md)
 _Context: November's presidential poll, Supreme Court_

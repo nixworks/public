@@ -19,7 +19,7 @@ North Korea demolished a cooling tower that was the most prominent symbol of its
 _Context: Morgan Tsvangarai, Movement for Democratic Change, President of Zimbabwe, Robert Mugabe, Zimbabwe, run-off presidential election_
 
 ### [ Bill Gates, the co-founder of Microsoft, finishes work at the company before starting fulltime philanthropic work for the Bill and Melinda Gates Foundation. ](/news/2008/06/27/bill-gates-the-co-founder-of-microsoft-finishes-work-at-the-company-before-starting-fulltime-philanthropic-work-for-the-bill-and-melinda.md)
-_Context: Bill, Bill and Melinda Gates Foundation, Microsoft, philanthropist_
+_Context: Bill Gates, Bill and Melinda Gates Foundation, Microsoft, philanthropist_
 
 ### [ The discovery that the sunken Philippines ferry MV ''Princess of the Stars'' was carrying 10,000 kilos of the dangerous pesticide endosulfan leads to the temporary cessation of the recovery of the bodies on board. ](/news/2008/06/27/the-discovery-that-the-sunken-philippines-ferry-mv-princess-of-the-stars-was-carrying-10-000-kilos-of-the-dangerous-pesticide-endosulfa.md)
 Philippine officials suspended the retrieval Friday of hundreds of bodies believed trapped inside a sunken ferry due to fears divers may be exposed to toxic chemicals in the cargo hold.

@@ -10,7 +10,7 @@ _Context: Discovery, International Space Station, NASA, Space Shuttle, United St
 _Context: 4th quarter of 2007 and the second quarter of 2009, People's Republic of China, export_
 
 ### [ The Liberal Democrats claim that more than 1,000 police officers in the United Kingdom have criminal records. ](/news/2009/03/11/the-liberal-democrats-claim-that-more-than-1-000-police-officers-in-the-united-kingdom-have-criminal-records.md)
-_Context: British police, Liberal Democrats, United Kingdom, criminal records_
+_Context: Britain, British police, Liberal Democrats, criminal records_
 
 ### [ At least 15 people are killed in a school shooting in Winnenden, Germany. ](/news/2009/03/11/at-least-15-people-are-killed-in-a-school-shooting-in-winnenden-germany.md)
 _Context: Germany, School shooting, Winnenden, killed_

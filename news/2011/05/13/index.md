@@ -43,7 +43,7 @@ _Context: Vietnam, prostitution in the country_
 The deputy governor of a prison in Durango, in northern Mexico is found decapitated along with seven other headless bodies, three days after being abducted.
 
 ### [A 62-year-old British woman is beheaded in a supermarket on the Spanish island of Tenerife in what officials say appears to be a random attack. An individual is arrested. ](/news/2011/05/13/a-62-year-old-british-woman-is-beheaded-in-a-supermarket-on-the-spanish-island-of-tenerife-in-what-officials-say-appears-to-be-a-random-atta.md)
-_Context: Spain, Tenerife, United Kingdom_
+_Context: Britain, Spain, Tenerife_
 
 ### [Republika Srpska President Milorad Dodik, speaking after meeting Catherine Ashton in Banja Luka, says a referendum "for the time being is not necessary". The referendum would have been a challenge to both Ashton and the courts of Bosnia. ](/news/2011/05/13/republika-srpska-president-milorad-dodik-speaking-after-meeting-catherine-ashton-in-banja-luka-says-a-referendum-for-the-time-being-is-no.md)
 _Context: Banja Luka, Bosnia, Catherine Ashton, Milorad Dodik, President, Republika Srpska_

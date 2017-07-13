@@ -64,7 +64,7 @@ _Context: BBC News, Ivory Coast, Laurent Gbagbo, RFI_
 _Context: Angela Merkel, Germany, Hans-Peter Friedrich, Thomas de Maizire_
 
 ### [The United Kingdom announces plans to axe 11,000 jobs in the British Armed Forces. ](/news/2011/03/2/the-united-kingdom-announces-plans-to-axe-11-000-jobs-in-the-british-armed-forces.md)
-_Context: British military personnel, United Kingdom_
+_Context: Britain, British military personnel_
 
 ### [Fox News suspends contributors Newt Gingrich and Rick Santorum until they decide on a 2012 US presidential election candidacy. ](/news/2011/03/2/fox-news-suspends-contributors-newt-gingrich-and-rick-santorum-until-they-decide-on-a-2012-us-presidential-election-candidacy.md)
 They&#39;re off the payroll until they decide about 2012.
@@ -76,7 +76,7 @@ _Context: Cyprus, Nicosia, Turkish, Turkish government_
 Senate Republicans stepped up their efforts Wednesday to compel the 14 Senate Democrats who fled Wisconsin two weeks ago to come home.
 
 ### [The President of the United States Barack Obama signs a bill preventing a shutdown of the United States government for another two weeks. ](/news/2011/03/2/the-president-of-the-united-states-barack-obama-signs-a-bill-preventing-a-shutdown-of-the-united-states-government-for-another-two-weeks.md)
-_Context: Barack Obama, United States President, United States government_
+_Context: Barack Obama, President of the United States, United States government_
 
 ### [The South Dakota Senate passes a bill requiring additional steps to provide informed consent before a woman can have an abortion. ](/news/2011/03/2/the-south-dakota-senate-passes-a-bill-requiring-additional-steps-to-provide-informed-consent-before-a-woman-can-have-an-abortion.md)
 After a long and emotional debate, the South Dakota Senate on Wednesday approved a bill requiring additional steps to provide informed consent before a woman can have an abortion.

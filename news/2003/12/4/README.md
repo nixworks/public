@@ -4,7 +4,7 @@
 _Context: Leszek Miller, Poland, Prime Minister, Warsaw, helicopter_
 
 ### [Facing the threat of a trade war, U.S. President George W. Bush lifts 20-month-old tariffs on foreign steel. Within minutes of the announcement, the European Union announces that it is lifting its threat of sanctions on $2.2 billion of U.S. products that would have taken effect in mid-December based on a ruling from the World Trade Organization that the tariffs were in violation of global trade rules. [http://story.news.yahoo.com/news?tmpl=story&cid=544&e=1&u=/ap/20031204/ap_on_go_pr_wh/bush_steel]](/news/2003/12/4/facing-the-threat-of-a-trade-war-u-s-president-george-w-bush-lifts-20-month-old-tariffs-on-foreign-steel-within-minutes-of-the-announcem.md)
-_Context: European Union, George W. Bush, United States President, World Trade Organization, sanctions, steel, tariffs, trade_
+_Context: European Union, George W. Bush, President of the United States, World Trade Organization, sanctions, steel, tariffs, trade_
 
 ### [Hourly productivity of U.S. employees increased in the 3rd quarter of 2003 at an annual rate of 9.2%, the highest since the Reagan years (Q2 of 1983). [http://www.washingtontimes.com/business/20031203-111745-2647r.htm]](/news/2003/12/4/hourly-productivity-of-u-s-employees-increased-in-the-3rd-quarter-of-2003-at-an-annual-rate-of-9-2-the-highest-since-the-reagan-years-q2.md)
 _Context: 1983, Ronald Reagan, United States, employee, productivity, quarter_

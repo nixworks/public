@@ -22,7 +22,7 @@ _Context: General, North Korea, South Korea, United States Forces Korea, Walter 
 _Context: Nepal, lesbian, tie knots_
 
 ### [The Anglican Church in the United Kingdom considers guidelines allowing openly homosexual clergy to become bishops. ](/news/2011/06/20/the-anglican-church-in-the-united-kingdom-considers-guidelines-allowing-openly-homosexual-clergy-to-become-bishops.md)
-_Context: Anglican Church, United Kingdom, gay_
+_Context: Anglican Church, Britain, gay_
 
 ### [London Assembly Member Jenny Jones urges Westminster Council to consider a blue plaque for veteran peace campaigner Brian Haw following his recent death at the age of 62. ](/news/2011/06/20/london-assembly-member-jenny-jones-urges-westminster-council-to-consider-a-blue-plaque-for-veteran-peace-campaigner-brian-haw-following-his.md)
 London Assembly Member Jenny Jones calls on the Westminster Council to put up a blue plaque for campaigner Brian Haw.

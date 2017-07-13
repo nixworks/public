@@ -7,7 +7,7 @@ _Context: Baghdad_
 _Context: Belfast, Irish Republican Army_
 
 ### [ President of the United States George W. Bush delivers his 2005 State of the Union address.  The section on Social Security reform is booed by some members of Congress, a very rare show of open disdain for the President during such a speech. ](/news/2005/02/2/president-of-the-united-states-george-w-bush-delivers-his-2005-state-of-the-union-address-the-section-on-social-security-reform-is-booed.md)
-_Context: George W. Bush, President, Social Security, State of the Union, United States President_
+_Context: George W. Bush, President, President of the United States, Social Security, State of the Union_
 
 ### [ A former secret U.S. military investigative report on Guantanamo Bay is revealed to conclude there is no evidence of systemic detainee abuse but cited several cases of questionable physical force documented on videotape. Prisoners released have stated abuse is commonplace, and one former U.S. National Guardsman received brain damage after being beaten while posing undercover as a rowdy detainee. All Freedom of Information Act requests by the ACLU for video and photographs depicting detainee treatment have been denied. ](/news/2005/02/2/a-former-secret-u-s-military-investigative-report-on-guantanamo-bay-is-revealed-to-conclude-there-is-no-evidence-of-systemic-detainee-abus.md)
 Breaking News, data &amp; opinions in business, sports, entertainment, travel, lifestyle, plus much more. Newsday.com is the leading news source for Long Island &amp; NYC.

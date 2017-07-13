@@ -31,7 +31,7 @@ A federal appeals court has ruled that the venue for Auernheimer&#039;s prosecut
 _Context: Macedonian, runoff presidential election_
 
 ### [The Parliament of Malta passed a law to recognise same sex civil unions and adoption by same sex couples. By this law Malta is going to become the 22nd European nation to accept civil union between same sex couples and 10th European nation to accept adoption by same sex couples.](/news/2014/04/14/the-parliament-of-malta-passed-a-law-to-recognise-same-sex-civil-unions-and-adoption-by-same-sex-couples-by-this-law-malta-is-going-to-beco.md)
-_Context: Malta, Parliament of Malta_
+_Context: Malta, Parliament_
 
 ### [Vietnam frees Nguyen Tien Trung and Vi Duc Hoi. ](/news/2014/04/14/vietnam-frees-nguyen-tien-trung-and-vi-duc-hoi.md)
 Vietnam frees two high-profile political activists after the recent release of dissident Cu Huy Ha Vu, amid ongoing free trade talks with the US.

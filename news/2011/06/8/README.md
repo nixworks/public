@@ -37,7 +37,7 @@ _Context: People's Republic of China, heavy flood_
 _Context: Australia, Indonesia, abattoir, cattle_
 
 ### [The United Kingdom and France prepare a draft United Nations Security Council resolution on the 2011 Syrian uprising. ](/news/2011/06/8/the-united-kingdom-and-france-prepare-a-draft-united-nations-security-council-resolution-on-the-2011-syrian-uprising.md)
-_Context: 2011 Syrian uprising, France, United Kingdom, United Nations Security Council, United Nations Security Council resolution_
+_Context: 2011 Syrian uprising, Britain, France, United Nations Security Council, United Nations Security Council resolution_
 
 ### [In New York, representatives of Morocco and Western Sahara conclude UN-backed talks on resolving the conflict between the two countries without reaching an agreement that was satisfactory to both parties. ](/news/2011/06/8/in-new-york-representatives-of-morocco-and-western-sahara-conclude-un-backed-talks-on-resolving-the-conflict-between-the-two-countries-with.md)
 _Context: Morocco, New York, UN, Western Sahara, conflict between the two countries_

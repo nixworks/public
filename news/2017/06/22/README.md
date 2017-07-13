@@ -19,7 +19,7 @@ Virginia man traveled over past several months to China, federal prosecutors say
 They will be treated as UK citizens for healthcare, education benefits and pensions, says the UK PM.
 
 ### [A judge in Michigan halts the possible deportation of over 100 Chaldean Iraqi Christians. ](/news/2017/06/22/a-judge-in-michigan-halts-the-possible-deportation-of-over-100-chaldean-iraqi-christians.md)
-_Context: Chaldean, Immigration to the United States, Iraqi Christian, Michigan_
+_Context: Chaldean, Christian, Immigration to the United States, Michigan_
 
 ### [U.S. President Donald Trump clarifies that he did not record any private conversations with former FBI Director James Comey. ](/news/2017/06/22/u-s-president-donald-trump-clarifies-that-he-did-not-record-any-private-conversations-with-former-fbi-director-james-comey.md)
 President Donald Trump says he doesn&apos;t have any recordings of his private conversations with fired FBI Director James Comey.

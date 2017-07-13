@@ -76,7 +76,7 @@ The Palestinian cabinet will tender resignations Monday after which Prime Minist
 _Context: Algeria, Mourad Medelci, state of emergency_
 
 ### [The President of the United States Barack Obama puts forward a budget for 2012 proposing heavy spending cuts but still predicting substantial budget deficits. ](/news/2011/02/14/the-president-of-the-united-states-barack-obama-puts-forward-a-budget-for-2012-proposing-heavy-spending-cuts-but-still-predicting-substantia.md)
-_Context: Barack Obama, United States President, budget, budget deficits_
+_Context: Barack Obama, President of the United States, budget, budget deficits_
 
 ### [10 Downing Street receives a new cat to boost the battle against mice seen on television scuttling past British prime minister David Cameron. ](/news/2011/02/14/10-downing-street-receives-a-new-cat-to-boost-the-battle-against-mice-seen-on-television-scuttling-past-british-prime-minister-david-cameron.md)
 _Context: 10 Downing Street, David Cameron_

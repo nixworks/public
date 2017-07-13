@@ -13,7 +13,7 @@ _Context: Apeldoorn, Netherlands, Queen's Day, attacked, parade_
 Polls have opened in the third round of India&#039;s month-long elections, with the residents of Mumbai, the site of last year&#039;s militant attacks, among 144 million registered to vote.
 
 ### [ The United Kingdom ends combat operations in the Iraq War. ](/news/2009/04/30/the-united-kingdom-ends-combat-operations-in-the-iraq-war.md)
-_Context: Iraq, Iraq War, United Kingdom, military operation_
+_Context: Britain, Iraq, Iraq War, military operation_
 
 ### [ Eight National Army soldiers are killed during combat with the Revolutionary Armed Forces in Colombia. ](/news/2009/04/30/eight-national-army-soldiers-are-killed-during-combat-with-the-revolutionary-armed-forces-in-colombia.md)
 _Context: Colombia, Colombian armed conflict (1964-present), National Army of Colombia, Revolutionary Armed Forces of Colombia, soldier_

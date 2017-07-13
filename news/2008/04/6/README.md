@@ -10,7 +10,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 _Context: Iraq, Mosul, War in Iraq, university_
 
 ### [ President of the United States George W. Bush and President of Russia Vladimir Putin hold their final talks in their current positions. ](/news/2008/04/6/president-of-the-united-states-george-w-bush-and-president-of-russia-vladimir-putin-hold-their-final-talks-in-their-current-positions.md)
-_Context: George W. Bush, President of Russia, United States President, Vladimir Putin_
+_Context: George W. Bush, President of Russia, President of the United States, Vladimir Putin_
 
 ### [ At least ten people including Government minister Jeyaraj Fernandopulle are killed in an explosion near Colombo, Sri Lanka. ](/news/2008/04/6/at-least-ten-people-including-government-minister-jeyaraj-fernandopulle-are-killed-in-an-explosion-near-colombo-sri-lanka.md)
 _Context: Colombo, Jeyaraj Fernandopulle, Sri Lanka_

@@ -13,13 +13,13 @@ Pakistan says it has killed the alleged mastermind of a school attack in Peshawa
 _Context: Islamic State of Iraq and Syria, Pope Francis, Urbi et Orbi, children, ethnic minorities, women_
 
 ### [Iraqi Christians defy persecution and celebrate Christmas  in Baghdad. ](/news/2014/12/25/iraqi-christians-defy-persecution-and-celebrate-christmas-in-baghdad.md)
-_Context: Baghdad, Christmas, Iraq, Iraqi Christian_
+_Context: Baghdad, Christian, Christmas, Iraq_
 
 ### [In her Royal Christmas Message, Queen Elizabeth II praises aid workers for fighting ebola in West Africa. ](/news/2014/12/25/in-her-royal-christmas-message-queen-elizabeth-ii-praises-aid-workers-for-fighting-ebola-in-west-africa.md)
 _Context: 2014 Ebola epidemic, Ebola, Queen Elizabeth II, Royal Christmas Message, West Africa_
 
 ### [United States President Barack Obama praises U.S. troops and reflects on the U.S. withdrawal from Afghanistan during his annual Christmas message from Hawaii. ](/news/2014/12/25/united-states-president-barack-obama-praises-u-s-troops-and-reflects-on-the-u-s-withdrawal-from-afghanistan-during-his-annual-christmas-me.md)
-_Context: Afghanistan, Barack Obama, Hawaii, U.S. withdrawal, United States, United States President, United States military_
+_Context: Afghanistan, Barack Obama, Hawaii, President of the United States, U.S. withdrawal, United States, United States military_
 
 ### [Vladimir Putin announces price controls on vodka to reduce bootlegging and moonshining. ](/news/2014/12/25/vladimir-putin-announces-price-controls-on-vodka-to-reduce-bootlegging-and-moonshining.md)
 _Context: 2014 Russian financial crisis, Vladimir Putin, bootleg, moonshine, vodka_

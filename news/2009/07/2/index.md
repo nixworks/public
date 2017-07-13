@@ -25,7 +25,7 @@ _Context: International Atomic Energy Agency, Japan, Yukiya Amano_
 _Context: Germany, H1N1, Marburg, Novartis, swine flu, vaccine_
 
 ### [ A Royal Air Force plane crashes in a rural area of Argyll, United Kingdom. ](/news/2009/07/2/a-royal-air-force-plane-crashes-in-a-rural-area-of-argyll-united-kingdom.md)
-_Context: Argyll, Royal Air Force, United Kingdom_
+_Context: Argyll, Britain, Royal Air Force_
 
 ## [Previous Day...](/news/2009/07/1/index.md)
 

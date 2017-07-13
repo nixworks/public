@@ -13,13 +13,13 @@ _Context: Australian Quarantine and Inspection Service, Avian flu virus, Canada,
 _Context: Al-Dujail trial, Awad Hamed al-Bandar_
 
 ### [ In Portsmouth, UK, the parents of a brain-damaged baby   won a partial victory in their legal battle to have her resuscitated by doctors if she falls seriously ill. ](/news/2005/10/21/in-portsmouth-uk-the-parents-of-a-brain-damaged-baby-won-a-partial-victory-in-their-legal-battle-to-have-her-resuscitated-by-doctors-if.md)
-_Context: Portsmouth, United Kingdom_
+_Context: Britain, Portsmouth_
 
 ### [ A United Nations investigation headed by Detlev Mehlis has found that high-ranking members of the Syrian and Lebanese governments were involved in the assassination of former Lebanese Prime Minister Rafik Hariri. ](/news/2005/10/21/a-united-nations-investigation-headed-by-detlev-mehlis-has-found-that-high-ranking-members-of-the-syrian-and-lebanese-governments-were-invo.md)
 _Context: Detlev Mehlis, Lebanese Prime Minister, Lebanon, Rafik Hariri, Syria, United Nations, assassinated_
 
 ### [ A ceremony is held in Portsmouth, UK, to commemorate the 200th anniversary of the Battle of Trafalgar; other events include the Queen Elizabeth II lighting one of many nationwide beacons. ](/news/2005/10/21/a-ceremony-is-held-in-portsmouth-uk-to-commemorate-the-200th-anniversary-of-the-battle-of-trafalgar-other-events-include-the-queen-eliza.md)
-_Context: Battle of Trafalgar, Portsmouth, Queen Elizabeth, United Kingdom, beacon_
+_Context: Battle of Trafalgar, Britain, Portsmouth, Queen Elizabeth, beacon_
 
 ### [ An earthquake measuring 5.9 on the moment magnitude scale hits the Turkish city of Izmir, injuring 15 people and causing one fatal heart attack. This is the fourth strong tremor this week. ](/news/2005/10/21/an-earthquake-measuring-5-9-on-the-moment-magnitude-scale-hits-the-turkish-city-of-adegzmir-injuring-15-people-and-causing-one-fatal-heart-a.md)
 _Context: Izmir, Turkey, magnitude_

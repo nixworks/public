@@ -19,7 +19,7 @@ NASA.gov brings you images, videos and interactive features from the unique pers
 * Aircraft bomb stronghold of Pakistani Taliban leader Mehsud * U.S. officials see Pakistani operation in South Waziristan * President Zardari vow
 
 ### [ Queen Elizabeth II of the United Kingdom celebrates her 83rd birthday at Trooping the Colour. ](/news/2009/06/13/queen-elizabeth-ii-of-the-united-kingdom-celebrates-her-83rd-birthday-at-trooping-the-colour.md)
-_Context: Queen Elizabeth, United Kingdom, trooping the colour_
+_Context: Britain, Queen Elizabeth, trooping the colour_
 
 ## [Previous Day...](/news/2009/06/12/index.md)
 

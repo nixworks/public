@@ -7,7 +7,7 @@ _Context: 23rd Southeast Asian Games, Philippine_
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ Civil Partnership Act 2004: The United Kingdom begins registration of civil unions for same-sex couples. ](/news/2005/12/5/civil-partnership-act-2004-the-united-kingdom-begins-registration-of-civil-unions-for-same-sex-couples.md)
-_Context: Civil Partnership Act 2004, United Kingdom, civil unions for same-sex couples_
+_Context: Britain, Civil Partnership Act 2004, civil unions for same-sex couples_
 
 ### [ 2005 Kashmir earthquake: Pakistan renews SOS Children's Villages role as custodian of all orphans and unaccompanied children following the earthquake. ](/news/2005/12/5/2005-kashmir-earthquake-pakistan-renews-sos-children-s-villages-role-as-custodian-of-all-orphans-and-unaccompanied-children-following-the.md)
 _Context: 2005 Kashmir earthquake, Pakistan, SOS Children_

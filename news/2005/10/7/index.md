@@ -16,7 +16,7 @@ _Context: International Atomic Energy Agency, Mohamed ElBaradei, Nobel Peace Pri
 3 Hamas members kidnapped in West Bank following abduction of PA security man on Thursday. One person released early Friday.
 
 ### [ According to the BBC, the industrial solvent gamma-butyrolactone (GBL) is being used in the UK as a club drug, with lethal results. ](/news/2005/10/7/according-to-the-bbc-the-industrial-solvent-gamma-butyrolactone-gbl-is-being-used-in-the-uk-as-a-club-drug-with-lethal-results.md)
-_Context: BBC, United Kingdom, club drug, gamma-butyrolactone, solvent_
+_Context: BBC, Britain, club drug, gamma-butyrolactone, solvent_
 
 ## [Previous Day...](/news/2005/10/6/index.md)
 

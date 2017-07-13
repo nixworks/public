@@ -7,7 +7,7 @@ _Context: Afghan Taliban, Afghanistan, Afghanistan President, Hamid Karzai, U.S.
 _Context: 2013 in Pakistan, Christian, Christian, Lahore, Pakistan_
 
 ### [Nigerian Sharia conflict:Nigerian militants belonging to Ansar al-Muslimeen claim responsibility to kidnapping and killing Italian, Greek, and British construction workers in Northern Nigeria. ](/news/2013/03/10/nigerian-sharia-conflict-pnigerian-militants-belonging-to-ansar-al-muslimeen-claim-responsibility-to-kidnapping-and-killing-italian-greek.md)
-_Context: Ansaru, Greece, Italian, Nigeria, Nigerian Sharia conflict, Northern Nigeria, United Kingdom_
+_Context: Ansaru, Britain, Greece, Italian, Nigeria, Nigerian Sharia conflict, Northern Nigeria_
 
 ### [Daylight saving time goes into effect across the United States (except Arizona and Hawaii) and Canada (except Saskatchewan). ](/news/2013/03/10/daylight-saving-time-goes-into-effect-across-the-united-states-except-arizona-and-hawaii-and-canada-except-saskatchewan.md)
 Canadians in provinces that use daylight saving time during the summer months will need to adjust their clocks back by an hour at 2 a.m. on Sunday Nov. 1 for the switch to local standard time.
@@ -25,7 +25,7 @@ _Context: Ohio, Trumbull County, United States, Warren_
 _Context: Chevrolet, Dumas, SUV, Texas, United States, gas tanker_
 
 ### [The head of Sierra Leone's Anti-corruption Commission says that 29 government health officials will appear in court on corruption charges for having allegedly defrauded the Bill & Melinda Gates Foundation's vaccine programme. ](/news/2013/03/10/the-head-of-sierra-leone-s-anti-corruption-commission-says-that-29-government-health-officials-will-appear-in-court-on-corruption-charges-fo.md)
-_Context: Anti-corruption Commission, Sierra Leone, foundation, vaccine_
+_Context: Anti-corruption Commission, Bill & Melinda Gates Foundation, Sierra Leone, vaccine_
 
 ### [The Mexican Navy frees 104 Central American kidnapped migrants from a house in Nuevo Laredo, Tamaulipas. ](/news/2013/03/10/the-mexican-navy-frees-104-central-american-kidnapped-migrants-from-a-house-in-nuevo-laredo-tamaulipas.md)
 Authorities say Mexican marines have freed 104 kidnapped Central American migrants who were being held in a house in the border city of Nuevo Leon.

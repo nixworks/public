@@ -13,7 +13,7 @@ Explosions in southern Thailand have killed at least 10 people, officials say, i
 _Context: Yemen's, al-Qaeda_
 
 ### [The spire of the Shard London Bridge is put in place making the completion of the United Kingdom's and European Union's tallest building a step closer. ](/news/2012/03/31/the-spire-of-the-shard-london-bridge-is-put-in-place-making-the-completion-of-the-united-kingdom-s-and-european-union-s-tallest-building-a-s.md)
-_Context: European Union, Shard London Bridge, United Kingdom, spire_
+_Context: Britain, European Union, Shard London Bridge, spire_
 
 ### [The United States' two acting unions, the Screen Actors Guild and American Federation of Television and Radio Artists, agree to merge forming the SAG-AFTRA. ](/news/2012/03/31/the-united-states-two-acting-unions-the-screen-actors-guild-and-american-federation-of-television-and-radio-artists-agree-to-merge-formin.md)
 _Context: American Federation of Television and Radio Artists, SAG-AFTRA, Screen Actors Guild, United States_
