@@ -1,6 +1,6 @@
 ## [News](/news/2017/07/14/index.md)
 
-### [Three Arab Israelis, are killed after shooting at police officers and injuring three Israelis outside Temple Mount in Jerusalem. ](/news/2017/07/14/three-arab-israelis-are-killed-after-shooting-at-police-officers-and-injuring-three-israelis-outside-temple-mount-in-jerusalem.md)
+### [Two Israeli police officers are killed in a terrorist attack by three Israeli Arab Muslim attackers at the Temple Mount in Jerusalem. ](/news/2017/07/14/two-israeli-police-officers-are-killed-in-a-terrorist-attack-by-three-israeli-arab-muslim-attackers-at-the-temple-mount-in-jerusalem.md)
 Police say the attackers were killed after opening fire near the holy Temple Mount/Haram al-Sharif.
 
 ### [Former Philippine president  Benigno Aquino III is indicted for his failure to prevent the 2015 Mamasapano clash. ](/news/2017/07/14/former-philippine-president-benigno-aquino-iii-is-indicted-for-his-failure-to-prevent-the-2015-mamasapano-clash.md)
