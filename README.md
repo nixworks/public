@@ -6,11 +6,8 @@ Police say the attackers were killed after opening fire near the holy Temple Mou
 ### [Gunmen shoot dead five police officers near Giza. ](/news/2017/07/14/gunmen-shoot-dead-five-police-officers-near-giza.md)
 A man is arrested after two tourists are killed at the Egyptian resort of Hurghada, officials say.
 
-### [Allegations of voter fraud in the 2016 U.S. general elections](/news/2017/07/14/allegations-of-voter-fraud-in-the-2016-u-s-general-elections.md)
-_Context: Allegations of voter fraud in the 2016 U.S. general elections_
-
-### [The White House releases sensitive information, including email communications, of people concerned about their privacy witb regards to the voter fraud witchhunt prompting immediate backlash. ](/news/2017/07/14/the-white-house-releases-sensitive-information-including-email-communications-of-people-concerned-about-their-privacy-witb-regards-to-the.md)
-_Context: White House, email, privacy, voter fraud, witchhunt_
+### [The White House releases sensitive information, including email communications, of people concerned about their privacy with regards to the Presidential Advisory Commission on Election Integrity prompting immediate backlash. ](/news/2017/07/14/the-white-house-releases-sensitive-information-including-email-communications-of-people-concerned-about-their-privacy-with-regards-to-the.md)
+There’s a high proportion of four-letter words.
 
 ### [Former Philippine president  Benigno Aquino III is indicted for his failure to prevent the 2015 Mamasapano clash. ](/news/2017/07/14/former-philippine-president-benigno-aquino-iii-is-indicted-for-his-failure-to-prevent-the-2015-mamasapano-clash.md)
 (UPDATED) Ombudsman Conchita Carpio Morales also orders usurpation of authority charges against the former chief executive, but dismisses charges of reckless imprudence resulting in multiple homicide
