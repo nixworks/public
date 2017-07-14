@@ -1,19 +1,10 @@
-## [News](/news/2017/07/13/index.md)
+## [News](/news/2017/07/14/index.md)
 
-### [A suspect in a disappearances case in Bucks County, Pennsylvania confesses to killing and burying four men. ](/news/2017/07/13/a-suspect-in-a-disappearances-case-in-bucks-county-pennsylvania-confesses-to-killing-and-burying-four-men.md)
-A 20-year-old man has confessed to killing four men who were missing for days and burying their bodies at a sprawling Bucks County, Pennsylvania, farm owned by his family, his attorney said on Thursday.
+### [Three attackers, believed to be Palestinians, are killed after shooting at police officers and injuring three Israelis outside Temple Mount in Jerusalem. ](/news/2017/07/14/three-attackers-believed-to-be-palestinians-are-killed-after-shooting-at-police-officers-and-injuring-three-israelis-outside-temple-mount.md)
+Police say the attackers were killed after opening fire near the holy Temple Mount/Haram al-Sharif.
 
-### [The U.S. Department of Justice charges 412 individuals with health care fraud. Collectively, these individuals are accused of collectively defrauding $1.3 billion from the U.S. government. ](/news/2017/07/13/the-u-s-department-of-justice-charges-412-individuals-with-health-care-fraud-collectively-these-individuals-are-accused-of-collectively-d.md)
-About a third of the defendants are accused of opioid-related crimes. Other accusations included billing Medicare and Medicaid for drugs that were never purchased.
-
-### [Masked men attack a birthday party in Tizayuca, Mexico, killing 11 adults. ](/news/2017/07/13/masked-men-attack-a-birthday-party-in-tizayuca-mexico-killing-11-adults.md)
-Police said they found three children alive but all the adults at the party were shot dead.
-
-### [Prominent Chinese dissident and Nobel Peace Prize winner Liu Xiaobo dies.  ](/news/2017/07/13/prominent-chinese-dissident-and-nobel-peace-prize-winner-liu-xiaobo-dies.md)
-The Nobel laureate, known for his fight for democracy and human rights, was suffering from cancer.
-
-### [The Congressional Budget Office estimates that in ten years the federal budget of U.S. President Donald Trump will produce a $720 billion deficit rather than a $16 billion surplus as claimed by the Trump administration. ](/news/2017/07/13/the-congressional-budget-office-estimates-that-in-ten-years-the-federal-budget-of-u-s-president-donald-trump-will-produce-a-720-billion-de.md)
-President Donald Trump’s proposed budget wouldn’t balance within 10 years, contrary to the White House’s claim, the nonpartisan Congressional Budget Office said Thursday.
+### [Deputy Leader of the Australian Greens Scott Ludlam resigns as a Senator after discovering that he holds dual citizenship with New Zealand, making him electorally ineligible under Section 44 of the Constitution of Australia. ](/news/2017/07/14/deputy-leader-of-the-australian-greens-scott-ludlam-resigns-as-a-senator-after-discovering-that-he-holds-dual-citizenship-with-new-zealand.md)
+The deputy Greens leader steps down from Federal Parliament, after admitting he has been ineligible to sit in the Senate for his whole tenure because he holds dual citizenship.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -21,7 +12,32 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ---
 
-## [Yesterday](/news/2017/07/12/index.md)
+## [Yesterday](/news/2017/07/13/index.md)
+
+### [Masked men attack a birthday party in Tizayuca, Mexico, killing 11 adults. ](/news/2017/07/13/masked-men-attack-a-birthday-party-in-tizayuca-mexico-killing-11-adults.md)
+Police said they found three children alive but all the adults at the party were shot dead.
+
+### [A suspect in a disappearances case in Bucks County, Pennsylvania reportedly confesses to killing and burying four men. ](/news/2017/07/13/a-suspect-in-a-disappearances-case-in-bucks-county-pennsylvania-reportedly-confesses-to-killing-and-burying-four-men.md)
+A 20-year-old man has confessed to killing four men who were missing for days and burying their bodies at a sprawling Bucks County, Pennsylvania, farm owned by his family, his attorney said on Thursday.
+
+### [''Hawaii v. Trump''U.S. District Judge Derrick Watson expands the legal definition of a close familial relationship in Trump's travel ban to include grandparents. ](/news/2017/07/13/hawaii-v-trump-pu-s-district-judge-derrick-watson-expands-the-legal-definition-of-a-close-familial-relationship-in-trump-s-travel-ban-t.md)
+A U.S. District Court judge in Hawaii ordered the Trump administration not to enforce the travel ban on grandparents, grandchildren, aunts, uncles, and other relatives.
+
+### [The U.S. Department of Justice charges 412 individuals with health care fraud. Collectively, these individuals are accused of collectively defrauding $1.3 billion from the U.S. government. ](/news/2017/07/13/the-u-s-department-of-justice-charges-412-individuals-with-health-care-fraud-collectively-these-individuals-are-accused-of-collectively-d.md)
+About a third of the defendants are accused of opioid-related crimes. Other accusations included billing Medicare and Medicaid for drugs that were never purchased.
+
+### [Hawaii District Judge Derrick Watson extends the definition of "close family members" to include grandparents, aunts, and uncles, thereby exempting them from President Donald Trump's travel ban on six Muslim-majority nations. ](/news/2017/07/13/hawaii-district-judge-derrick-watson-extends-the-definition-of-close-family-members-to-include-grandparents-aunts-and-uncles-thereby-ex.md)
+_Context: Derrick Watson, Donald Trump, Executive Order 13780, Hawaii District_
+
+### [Prominent Chinese dissident and Nobel Peace Prize winner Liu Xiaobo dies.  ](/news/2017/07/13/prominent-chinese-dissident-and-nobel-peace-prize-winner-liu-xiaobo-dies.md)
+The Nobel laureate, known for his fight for democracy and human rights, was suffering from cancer.
+
+### [The Congressional Budget Office estimates that in ten years the federal budget of U.S. President Donald Trump will produce a $720 billion deficit rather than a $16 billion surplus as claimed by the Trump administration. ](/news/2017/07/13/the-congressional-budget-office-estimates-that-in-ten-years-the-federal-budget-of-u-s-president-donald-trump-will-produce-a-720-billion-de.md)
+President Donald Trump’s proposed budget wouldn’t balance within 10 years, contrary to the White House’s claim, the nonpartisan Congressional Budget Office said Thursday.
+
+---
+
+## [Day Before Yesterday](/news/2017/07/12/index.md)
 
 ### [The United States Court of Appeals for the Ninth Circuit in San Francisco hears a case on whether or not a Celebes crested macaque owns its selfie. ](/news/2017/07/12/the-united-states-court-of-appeals-for-the-ninth-circuit-in-san-francisco-hears-a-case-on-whether-or-not-a-celebes-crested-macaque-owns-its.md)
 A case between PETA and nature photographer David Slater and Blurb is now being discussed by a federal appeals court.
@@ -52,44 +68,7 @@ Today, some of the world’s biggest internet companies and activist groups are 
 
 ---
 
-## [Day Before Yesterday](/news/2017/07/11/index.md)
-
-### [According to the Turkish Army, its overnight air strike in Dargecit killed eleven militants from the Kurdistan Workers' Party. ](/news/2017/07/11/according-to-the-turkish-army-its-overnight-air-strike-in-dargeassit-killed-eleven-militants-from-the-kurdistan-workers-party.md)
-Turkish warplanes struck Kurdish militant targets in two areas of southeast Turkey overnight, killing 11 Kurdistan Workers Party (PKK) fighters, the army said on Tuesday.
-
-### [The Syrian Observatory for Human Rights says ISIL leader Abu Bakr al-Baghdadi is confirmed dead, according to information from tribal leaders close to ISIL in the Deir ez-Zor Governorate. In June, Russia said it had "most likely" killed al-Baghdadi and several other high profile ISIL leaders in an airstrike but provided no evidence. ](/news/2017/07/11/the-syrian-observatory-for-human-rights-says-isil-leader-abu-bakr-al-baghdadi-is-confirmed-dead-according-to-information-from-tribal-leader.md)
-Isis leader Abu Bakr al-Baghdadi has been confirmed killed, war monitor the Syrian Observatory for Human Rights (SOHR) has said. &quot;(We have) confirmed information from leaders, including one of the first rank, in [Isis territory] in the eastern countryside of Deir Ezzor,&quot; director of the UK-based group Rami Abdulrahman told Reuters on Tuesday.
-
-### [The United Kingdom and Bill & Melinda Gates Foundation sponsor a summit that plans on raising funds for family planning in developing countries. ](/news/2017/07/11/the-united-kingdom-and-bill-melinda-gates-foundation-sponsor-a-summit-that-plans-on-raising-funds-for-family-planning-in-developing-countr.md)
-A major chunk of the funding &ndash; US$1.5 billion &ndash; has been committed by countries in Asia and Africa to expand family planning services and support to reach underserved...
-
-### [The death toll from recent torrential rain and flooding in Kyushu in southern Japan  rises to 25. ](/news/2017/07/11/the-death-toll-from-recent-torrential-rain-and-flooding-in-kyushu-in-southern-japan-rises-to-25.md)
-_Context: Floods in Japan, Japan, Kyushu_
-
-### [Researchers in New Zealand have discovered that the MeNZB vaccine for meningitis may protect against gonorrhea by 30%. ](/news/2017/07/11/researchers-in-new-zealand-have-discovered-that-the-menzb-vaccine-for-meningitis-may-protect-against-gonorrhea-by-30.md)
-Researchers studying a mass vaccination campaign against meningitis have found a surprising side-effect &mdash; the shots also offered moderate protection against gonorrhea.
-
-### [Visas given to potential entrepreneurs who are foreigners will be significantly reduced prompting fears and criticism from Silicon Valley. Many of those given visas are from India.  ](/news/2017/07/11/visas-given-to-potential-entrepreneurs-who-are-foreigners-will-be-significantly-reduced-prompting-fears-and-criticism-from-silicon-valley-m.md)
-Senior officials are discussing whether to require foreignors to reapply each year for permission to continue studies at U.S. universities.
-
-### [The Trump Administration announces this year's presidential state visit to the United Kingdom is delayed until at least 2018. Both the White House and 10 Downing Street state the two countries had been unable to agree on a 2017 date. This planned visit has drawn protests in the United Kingdom since February, and more than 1.8 million signatures on a petition to Parliament to cancel the meeting.  ](/news/2017/07/11/the-trump-administration-announces-this-year-s-presidential-state-visit-to-the-united-kingdom-is-delayed-until-at-least-2018-both-the-white.md)
-Senior UK government source confirms that Trump has failed to agree a date for his visit this year.
-
-### [Turkish authorities have ordered the arrest of 105 people working in information technology who were believed to have been involved in the attempted overthrow of the government last year, state-run Anadolu Agency reported on Tuesday. ](/news/2017/07/11/turkish-authorities-have-ordered-the-arrest-of-105-people-working-in-information-technology-who-were-believed-to-have-been-involved-in-the-a.md)
-Turkish authorities have ordered the arrest of 105 people working in information technology on suspicion of involvement in an attempted military coup a year ago, state-run Anadolu news agency reported on Tuesday.
-
-### [Haiti will reinstate its armed forces after 20 years of having none. ](/news/2017/07/11/haiti-will-reinstate-its-armed-forces-after-20-years-of-having-none.md)
-The recruitment drive follows the announcement that the UN is leaving Haiti.
-
-### [Donald Trump Jr. discloses emails in which he and Rob Goldstone discuss gathering opposition research against Hillary Clinton through a June 2016 meeting with Russian lawyer Natalia Veselnitskaya. ](/news/2017/07/11/donald-trump-jr-discloses-emails-in-which-he-and-rob-goldstone-discuss-gathering-opposition-research-against-hillary-clinton-through-a-june.md)
-President’s son forced to release email chain that reveals he welcomed what he was told was Russian government effort to damage Clinton’s campaign
-
-### [Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. ](/news/2017/07/11/scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-tibet-to-a-satellite-orbiting-earth-at.md)
-Researchers in China have teleported a photon from the ground to a satellite orbiting more than 500 kilometers above.
-
----
-
-## [Previous Day...](/news/2017/07/10/index.md)
+## [Previous Day...](/news/2017/07/11/index.md)
 
 ---
 
