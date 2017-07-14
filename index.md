@@ -1,9 +1,9 @@
 ## [News](/news/2017/07/14/index.md)
 
-### [Three attackers, believed to be Palestinians, are killed after shooting at police officers and injuring three Israelis outside Temple Mount in Jerusalem. ](/news/2017/07/14/three-attackers-believed-to-be-palestinians-are-killed-after-shooting-at-police-officers-and-injuring-three-israelis-outside-temple-mount.md)
+### [Three Arab Israelis, are killed after shooting at police officers and injuring three Israelis outside Temple Mount in Jerusalem. ](/news/2017/07/14/three-arab-israelis-are-killed-after-shooting-at-police-officers-and-injuring-three-israelis-outside-temple-mount-in-jerusalem.md)
 Police say the attackers were killed after opening fire near the holy Temple Mount/Haram al-Sharif.
 
-### [Former Philippine president Noynoy Aquino is indicted for his failure to prevent the Mamasapano massacre. ](/news/2017/07/14/former-philippine-president-noynoy-aquino-is-indicted-for-his-failure-to-prevent-the-mamasapano-massacre.md)
+### [Former Philippine president  Benigno Aquino III is indicted for his failure to prevent the 2015 Mamasapano clash. ](/news/2017/07/14/former-philippine-president-benigno-aquino-iii-is-indicted-for-his-failure-to-prevent-the-2015-mamasapano-clash.md)
 (UPDATED) Ombudsman Conchita Carpio Morales also orders usurpation of authority charges against the former chief executive, but dismisses charges of reckless imprudence resulting in multiple homicide
 
 ### [The Peruvian courts orders the arrest of former president Ollanta Humala and his wife Nadine Heredia for money laundering. ](/news/2017/07/14/the-peruvian-courts-orders-the-arrest-of-former-president-ollanta-humala-and-his-wife-nadine-heredia-for-money-laundering.md)
