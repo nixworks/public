@@ -1,6 +1,6 @@
 ## [2017-07-14](/news/2017/07/14/index.md)
 
-### [Two Israeli police officers are killed in a terrorist attack by three Israeli Arab Muslim attackers at the Temple Mount in Jerusalem. ](/news/2017/07/14/two-israeli-police-officers-are-killed-in-a-terrorist-attack-by-three-israeli-arab-muslim-attackers-at-the-temple-mount-in-jerusalem.md)
+### [Two non-Jewish Israeli police officers are killed in a terrorist attack by three Israeli Arab Muslim attackers at the Temple Mount in Jerusalem. ](/news/2017/07/14/two-non-jewish-israeli-police-officers-are-killed-in-a-terrorist-attack-by-three-israeli-arab-muslim-attackers-at-the-temple-mount-in-jerusa.md)
 Police say the attackers were killed after opening fire near the holy Temple Mount/Haram al-Sharif.
 
 ### [Gunmen shoot dead five police officers near Giza. ](/news/2017/07/14/gunmen-shoot-dead-five-police-officers-near-giza.md)
