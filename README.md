@@ -20,14 +20,11 @@ Police said they found three children alive but all the adults at the party were
 ### [A suspect in a disappearances case in Bucks County, Pennsylvania reportedly confesses to killing and burying four men. ](/news/2017/07/13/a-suspect-in-a-disappearances-case-in-bucks-county-pennsylvania-reportedly-confesses-to-killing-and-burying-four-men.md)
 A 20-year-old man has confessed to killing four men who were missing for days and burying their bodies at a sprawling Bucks County, Pennsylvania, farm owned by his family, his attorney said on Thursday.
 
-### [''Hawaii v. Trump''U.S. District Judge Derrick Watson expands the legal definition of a close familial relationship in Trump's travel ban to include grandparents. ](/news/2017/07/13/hawaii-v-trump-pu-s-district-judge-derrick-watson-expands-the-legal-definition-of-a-close-familial-relationship-in-trump-s-travel-ban-t.md)
-A U.S. District Court judge in Hawaii ordered the Trump administration not to enforce the travel ban on grandparents, grandchildren, aunts, uncles, and other relatives.
-
 ### [The U.S. Department of Justice charges 412 individuals with health care fraud. Collectively, these individuals are accused of collectively defrauding $1.3 billion from the U.S. government. ](/news/2017/07/13/the-u-s-department-of-justice-charges-412-individuals-with-health-care-fraud-collectively-these-individuals-are-accused-of-collectively-d.md)
 About a third of the defendants are accused of opioid-related crimes. Other accusations included billing Medicare and Medicaid for drugs that were never purchased.
 
-### [Hawaii District Judge Derrick Watson extends the definition of "close family members" to include grandparents, aunts, and uncles, thereby exempting them from President Donald Trump's travel ban on six Muslim-majority nations. ](/news/2017/07/13/hawaii-district-judge-derrick-watson-extends-the-definition-of-close-family-members-to-include-grandparents-aunts-and-uncles-thereby-ex.md)
-_Context: Derrick Watson, Donald Trump, Executive Order 13780, Hawaii District_
+### [Executive Order 13780, ''Hawaii v. Trump''Hawaii District Judge Derrick Watson extends the definition of "close family members" to include grandparents, aunts, and uncles, thereby exempting them from President Donald Trump's travel ban on six Muslim-majority nations. ](/news/2017/07/13/executive-order-13780-hawaii-v-trump-phawaii-district-judge-derrick-watson-extends-the-definition-of-close-family-members-to-include.md)
+A U.S. District Court judge in Hawaii ordered the Trump administration not to enforce the travel ban on grandparents, grandchildren, aunts, uncles, and other relatives.
 
 ### [Prominent Chinese dissident and Nobel Peace Prize winner Liu Xiaobo dies.  ](/news/2017/07/13/prominent-chinese-dissident-and-nobel-peace-prize-winner-liu-xiaobo-dies.md)
 The Nobel laureate, known for his fight for democracy and human rights, was suffering from cancer.
