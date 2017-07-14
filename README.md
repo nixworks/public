@@ -3,6 +3,9 @@
 ### [Two Israeli police officers are killed in a terrorist attack by three Israeli Arab Muslim attackers at the Temple Mount in Jerusalem. ](/news/2017/07/14/two-israeli-police-officers-are-killed-in-a-terrorist-attack-by-three-israeli-arab-muslim-attackers-at-the-temple-mount-in-jerusalem.md)
 Police say the attackers were killed after opening fire near the holy Temple Mount/Haram al-Sharif.
 
+### [Gunmen shoot dead five police officers near Giza. ](/news/2017/07/14/gunmen-shoot-dead-five-police-officers-near-giza.md)
+A man is arrested after two tourists are killed at the Egyptian resort of Hurghada, officials say.
+
 ### [Former Philippine president  Benigno Aquino III is indicted for his failure to prevent the 2015 Mamasapano clash. ](/news/2017/07/14/former-philippine-president-benigno-aquino-iii-is-indicted-for-his-failure-to-prevent-the-2015-mamasapano-clash.md)
 (UPDATED) Ombudsman Conchita Carpio Morales also orders usurpation of authority charges against the former chief executive, but dismisses charges of reckless imprudence resulting in multiple homicide
 
