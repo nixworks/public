@@ -1,10 +1,16 @@
 ## [News](/news/2017/07/14/index.md)
 
-### [Two non-Jewish Israeli police officers are killed in a terrorist attack by three Israeli Arab Muslim attackers at the Temple Mount in Jerusalem. ](/news/2017/07/14/two-non-jewish-israeli-police-officers-are-killed-in-a-terrorist-attack-by-three-israeli-arab-muslim-attackers-at-the-temple-mount-in-jerusa.md)
+### [Two Druze Israeli police officers are killed in a terrorist attack by three Israeli Arab Muslim attackers at the Temple Mount in Jerusalem. ](/news/2017/07/14/two-druze-israeli-police-officers-are-killed-in-a-terrorist-attack-by-three-israeli-arab-muslim-attackers-at-the-temple-mount-in-jerusalem.md)
 Police say the attackers were killed after opening fire near the holy Temple Mount/Haram al-Sharif.
 
 ### [Gunmen shoot dead five police officers near Giza. ](/news/2017/07/14/gunmen-shoot-dead-five-police-officers-near-giza.md)
 A man is arrested after two tourists are killed at the Egyptian resort of Hurghada, officials say.
+
+### [Allegations of voter fraud in the 2016 U.S. general elections](/news/2017/07/14/allegations-of-voter-fraud-in-the-2016-u-s-general-elections.md)
+_Context: Allegations of voter fraud in the 2016 U.S. general elections_
+
+### [The White House releases sensitive information, including email communications, of people concerned about their privacy witb regards to the voter fraud witchhunt prompting immediate backlash. ](/news/2017/07/14/the-white-house-releases-sensitive-information-including-email-communications-of-people-concerned-about-their-privacy-witb-regards-to-the.md)
+_Context: White House, email, privacy, voter fraud, witchhunt_
 
 ### [Former Philippine president  Benigno Aquino III is indicted for his failure to prevent the 2015 Mamasapano clash. ](/news/2017/07/14/former-philippine-president-benigno-aquino-iii-is-indicted-for-his-failure-to-prevent-the-2015-mamasapano-clash.md)
 (UPDATED) Ombudsman Conchita Carpio Morales also orders usurpation of authority charges against the former chief executive, but dismisses charges of reckless imprudence resulting in multiple homicide
@@ -14,6 +20,9 @@ The former leader and his wife hand themselves in while corruption charges are p
 
 ### [Deputy Leader of the Australian Greens Scott Ludlam resigns as a Senator after discovering that he holds dual citizenship with New Zealand, making him electorally ineligible under Section 44 of the Constitution of Australia. ](/news/2017/07/14/deputy-leader-of-the-australian-greens-scott-ludlam-resigns-as-a-senator-after-discovering-that-he-holds-dual-citizenship-with-new-zealand.md)
 The deputy Greens leader steps down from Federal Parliament, after admitting he has been ineligible to sit in the Senate for his whole tenure because he holds dual citizenship.
+
+### [Four pro-democracy lawmakers are removed from the Hong Kong legislature. ](/news/2017/07/14/four-pro-democracy-lawmakers-are-removed-from-the-hong-kong-legislature.md)
+_Context: Hong Kong, legislature, pro-democracy_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
