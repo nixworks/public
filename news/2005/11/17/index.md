@@ -19,7 +19,7 @@ _Context: Anglican Communion, Archbishop of Canterbury, Primate, Rowan Williams,
 _Context: French Police, civil unrest_
 
 ### [ British Secretary of State for Education Ruth Kelly promises that student selection will not return to schools. ](/news/2005/11/17/british-secretary-of-state-for-education-ruth-kelly-promises-that-student-selection-will-not-return-to-schools.md)
-_Context: Britain, Ruth Kelly, Secretary of State for Education, student selection_
+_Context: Ruth Kelly, Secretary of State for Education, UK, student selection_
 
 ### [ Members of the European Parliament pass an item of controversial chemical safety testing legislation, known as the Registration, Evaluation and Authorization of Chemicals (REACH) law. ](/news/2005/11/17/members-of-the-european-parliament-pass-an-item-of-controversial-chemical-safety-testing-legislation-known-as-the-registration-evaluation.md)
 _Context: European Parliament, Registration, Evaluation and Authorization of Chemicals_

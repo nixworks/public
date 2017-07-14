@@ -28,7 +28,7 @@ _Context: 1994, Hutu, Marcel Gatsinzi, Rwanda, Rwandan Genocide_
 _Context: Alassane Biga, Ilguilas Weila, Niamey, Niger, slavery_
 
 ### [ British scientists at University of Newcastle announce that they have cloned human embryos for stem cells. Also, a team of South Korean scientists at Seoul National University state they have cloned the first embryonic cells customized to individual patients. ](/news/2005/05/19/british-scientists-at-university-of-newcastle-announce-that-they-have-cloned-human-embryos-for-stem-cells-also-a-team-of-south-korean-sci.md)
-_Context: Britain, Seoul National University, South Korea, University of Newcastle, cloning, embryo, stem cell_
+_Context: Seoul National University, South Korea, UK, University of Newcastle, cloning, embryo, stem cell_
 
 ### [ ''Star Wars Episode III: Revenge of the Sith'', at the time purported to be the final ''Star Wars'' film, is released in the United States. Just hours after its release, the workprint DVD of the film was "leaked" to file sharing networks. ](/news/2005/05/19/star-wars-episode-iii-revenge-of-the-sith-at-the-time-purported-to-be-the-final-star-wars-film-is-released-in-the-united-states.md)
 _Context: DVD, File sharing, Star Wars Episode III: Revenge of the Sith, United States, workprint_

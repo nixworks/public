@@ -43,7 +43,7 @@ _Context: Germany, asylum seekers_
 _Context: Baltics, Latvia, Russian_
 
 ### [The Associated Press reports that hackers linked to the People's Republic of China appear to have gained access to sensitive background material about people seeking security clearances from the United States government. ](/news/2015/06/12/the-associated-press-reports-that-hackers-linked-to-the-people-s-republic-of-china-appear-to-have-gained-access-to-sensitive-background-mate.md)
-_Context: Associated Press, China, United States government, hackers_
+_Context: Associated Press, Chinese, United States government, hackers_
 
 ### [Former International Monetary Fund head Dominique Strauss-Kahn is acquitted of pimping charges in France.  ](/news/2015/06/12/former-international-monetary-fund-head-dominique-strauss-kahn-is-acquitted-of-pimping-charges-in-france.md)
 French court clears former International Monetary Fund chief of ‘aggravated pimping’ in multi-defendant trial over sex parties

@@ -13,7 +13,7 @@ Tens of thousands of people take to the streets for the second major protest aga
 At least six people die after a cassiterite mine collapsed in Burundi, 120km (75 miles) north of the capital.
 
 ### [The death toll in China from Typhoon Fanapi reaches 54 with dozens more people missing. ](/news/2010/09/23/the-death-toll-in-china-from-typhoon-fanapi-reaches-54-with-dozens-more-people-missing.md)
-_Context: China, Typhoon Fanapi_
+_Context: Chinese, Typhoon Fanapi_
 
 ### [2010 Atlantic hurricane season: Tropical Storm Matthew forms in the western Caribbean Sea with predictions that it could hit Central America on Friday or Saturday. ](/news/2010/09/23/2010-atlantic-hurricane-season-tropical-storm-matthew-forms-in-the-western-caribbean-sea-with-predictions-that-it-could-hit-central-america.md)
 _Context: 2010 Atlantic hurricane season, Caribbean Sea, Central America_
@@ -31,7 +31,7 @@ France wants to contact the al-Qaeda group which abducted five of its citizens i
 _Context: International Atomic Energy Agency, Iran_
 
 ### [The United States and other western nations including Britain, Sweden, Australia, Belgium, Uruguay and Spain walk out of the United Nations General Assembly following claims by the President of Iran Mahmoud Ahmadinejad that the "majority of the American people as well as most nations and politicians around the world" say that the 9/11 attacks were the work of the Government of the United States trying to protect Israel. ](/news/2010/09/23/the-united-states-and-other-western-nations-including-britain-sweden-australia-belgium-uruguay-and-spain-walk-out-of-the-united-nations.md)
-_Context: 9/11 attacks, Australia, Belgian, Britain, Government of the United States, Israel, Mahmoud Ahmadinejad, President, Spain, Sweden, United Nations General Assembly, United States, Uruguay_
+_Context: 9/11 attacks, Australia, Belgian, Government of the United States, Israel, Mahmoud Ahmadinejad, President, Spain, Sweden, UK, United Nations General Assembly, United States, Uruguay_
 
 ### [The President of the United States Barack Obama meets with the Premier of China Wen Jiabao, with the value of the renminbi the top issue for discussion. ](/news/2010/09/23/the-president-of-the-united-states-barack-obama-meets-with-the-premier-of-china-wen-jiabao-with-the-value-of-the-renminbi-the-top-issue-for.md)
 _Context: Barack Obama, Premier of the People's Republic of China, President of the United States, Wen Jiabao, yuan_

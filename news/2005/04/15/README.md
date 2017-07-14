@@ -7,7 +7,7 @@ _Context: Gulf Stream, NASA_
 _Context: Japanese history textbooks controversy_
 
 ### [ UN Secretary General Kofi Annan accuses the United States and Britain of not accepting enough responsibility for the Oil for Food Scandal. ](/news/2005/04/15/un-secretary-general-kofi-annan-accuses-the-united-states-and-britain-of-not-accepting-enough-responsibility-for-the-oil-for-food-scandal.md)
-_Context: Britain, Kofi Annan, Secretary General, United Nations, United States, oil-for-food programme_
+_Context: Kofi Annan, Secretary General, UK, United Nations, United States, oil-for-food programme_
 
 ### [ A Palestinian Fatah gunman infiltrates the Golan Heights from Syria and attacks an IDF outpost near the border. The outpost commander manages to disarm the gunman and arrest him. The IDF will investigate how the 21-year-old man, draped in a Palestinian flag, managed to penetrate so deep without being detected earlier. ](/news/2005/04/15/a-palestinian-fatah-gunman-infiltrates-the-golan-heights-from-syria-and-attacks-an-idf-outpost-near-the-border-the-outpost-commander-manag.md)
 _Context: Fatah, Golan Heights, Israel Defense Forces, Palestinian, Syria_
@@ -31,7 +31,7 @@ _Context: Australia, HIH Insurance, Raymond Williams, insure, jailed_
 _Context: Canada, Federal Court of Canada, Lai Changxing, People's Republic of China, refugee, smuggling_
 
 ### [ UK passport applicants must give fingerprints. Preparation for ID cards goes ahead without parliament. ](/news/2005/04/15/uk-passport-applicants-must-give-fingerprints-preparation-for-id-cards-goes-ahead-without-parliament.md)
-_Context: Britain, fingerprint_
+_Context: UK, fingerprint_
 
 ### [ Green Party of England and Wales unveil radical manifesto aiming at measures against climate change. ](/news/2005/04/15/green-party-of-england-and-wales-unveil-radical-manifesto-aiming-at-measures-against-climate-change.md)
 _Context: England, Green Party, Wales, climate change_

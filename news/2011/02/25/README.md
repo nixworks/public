@@ -19,7 +19,7 @@ _Context: Cairo, Egypt, Egyptian Army, Protesters, Tahrir Square_
 Ivory Coast rebels take the town of Zouan-Hounien in the west, as the UN warns that the country may be heading towards civil war.
 
 ### [Victorian era photographs and parole details for women prisoners in the United Kingdom are published on Ancestry.com. ](/news/2011/02/25/victorian-era-photographs-and-parole-details-for-women-prisoners-in-the-united-kingdom-are-published-on-ancestry-com.md)
-_Context: Ancestry.com, Britain, Victorian era, parole_
+_Context: Ancestry.com, UK, Victorian era, parole_
 
 ### [The video game ''Mortal Kombat'' is refused classification in Australia. ](/news/2011/02/25/the-video-game-mortal-kombat-is-refused-classification-in-australia.md)
 _Context: Australia, Mortal Kombat_
@@ -49,7 +49,7 @@ Iran told atomic inspectors that it had run into a serious problem at a newly co
 _Context: Burma_
 
 ### [Representative Ronald Singson of the Philippines is sentenced to 18 months in a Hong Kong jail for cocaine possession. ](/news/2011/02/25/representative-ronald-singson-of-the-philippines-is-sentenced-to-18-months-in-a-hong-kong-jail-for-cocaine-possession.md)
-_Context: Hong Kong, Philippine, Ronald Singson, cocaine, congresswoman_
+_Context: Hong Kong, Philippines, Ronald Singson, cocaine, congresswoman_
 
 ### [The People's Republic of China gets rid of the death penalty for 13 non-violent economic crimes. ](/news/2011/02/25/the-people-s-republic-of-china-gets-rid-of-the-death-penalty-for-13-non-violent-economic-crimes.md)
 _Context: People's Republic of China, death penalty_

@@ -10,7 +10,7 @@ Demonstrators march from Tel Aviv’s Rabin Square to Dizengoff Circle Saturday;
 _Context: Liancourt Rocks, Seoul_
 
 ### [ The government of Ukraine admits that 18 Kh-55 Granat nuclear-capable cruise missiles (without warheads) were smuggled to Iran and China by arms dealers. ](/news/2005/03/18/the-government-of-ukraine-admits-that-18-kh-55-granat-nuclear-capable-cruise-missiles-without-warheads-were-smuggled-to-iran-and-china-by.md)
-_Context: China, Iran, Kh-55 Granat, Ukrainian, cruise missile_
+_Context: Chinese, Iran, Kh-55 Granat, Ukrainian, cruise missile_
 
 ### [ In the Netherlands, businessman Frans van Anraat is put on trial for allegedly selling chemicals to Saddam Hussein to make poison gas. He is accused of complicity to commit war crimes and genocide. ](/news/2005/03/18/in-the-netherlands-businessman-frans-van-anraat-is-put-on-trial-for-allegedly-selling-chemicals-to-saddam-hussein-to-make-poison-gas-he-i.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

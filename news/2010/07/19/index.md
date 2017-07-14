@@ -28,7 +28,7 @@ Russian pianist Mikhail Pletnev, accused of raping a 14-year-old boy, returns to
 Relatives attend the dedication of the new Fromelles Military Cemetery, built following the discovery of remains of hundreds of Allied soldiers who died there in World War I.
 
 ### [The United Kingdom's oldest person, a Gateshead great-great grandmother, dies at the age of 111. She would have been 112 next month. ](/news/2010/07/19/the-united-kingdom-s-oldest-person-a-gateshead-great-great-grandmother-dies-at-the-age-of-111-she-would-have-been-112-next-month.md)
-_Context: Britain, Gateshead_
+_Context: Gateshead, UK_
 
 ### [China surpasses the United States to become world's biggest energy consumer, consuming about 4% more than the U.S. ](/news/2010/07/19/china-surpasses-the-united-states-to-become-world-s-biggest-energy-consumer-consuming-about-4-more-than-the-u-s.md)
 _Context: United States_

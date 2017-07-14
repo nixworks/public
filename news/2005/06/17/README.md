@@ -25,7 +25,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: 2004 presidential election, Chen Shui-bian, Supreme Court, Taiwan_
 
 ### [ In the United Kingdom, the Ugandan-born bishop of Birmingham Rt Rev Dr John Sentamu is named the new Archbishop of York. He is the first ever black person to be appointed an Archbishop of the Church of England. ](/news/2005/06/17/in-the-united-kingdom-the-ugandan-born-bishop-of-birmingham-rt-rev-dr-john-sentamu-is-named-the-new-archbishop-of-york-he-is-the-first-ev.md)
-_Context: Archbishop of York, Birmingham, Britain, Church of England, John Sentamu, Uganda, bishop_
+_Context: Archbishop of York, Birmingham, Church of England, John Sentamu, UK, Uganda, bishop_
 
 ### [ The Vatican announces that it has taken the unusual step of suspending the announced beatification of the Reverend Leon Dehon in order to investigate charges of anti-Semitism. ](/news/2005/06/17/the-vatican-announces-that-it-has-taken-the-unusual-step-of-suspending-the-announced-beatification-of-the-reverend-leon-dehon-in-order-to-i.md)
 _Context: Leon Dehon, Reverend, Roman Curia, anti-Semitism, beatified_

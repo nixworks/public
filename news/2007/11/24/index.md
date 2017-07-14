@@ -4,7 +4,7 @@
 _Context: Iraq, Iraqi Police, Kirkuk, United States Army, militant_
 
 ### [ An explosion at a petrol station kills four people and hurts at least 30 in Shanghai, China. ](/news/2007/11/24/an-explosion-at-a-petrol-station-kills-four-people-and-hurts-at-least-30-in-shanghai-china.md)
-_Context: China, Shanghai, explosion, petrol station_
+_Context: Chinese, Shanghai, explosion, petrol station_
 
 ### [ 2007 UK child benefit data scandal: HM Revenue and Customs confirms that a further six data discs have gone missing in transit between its offices in Preston and London. ](/news/2007/11/24/2007-uk-child-benefit-data-scandal-hm-revenue-and-customs-confirms-that-a-further-six-data-discs-have-gone-missing-in-transit-between-its.md)
 _Context: 2007 UK child benefit data scandal, HM Revenue and Customs, London, Preston_
@@ -19,7 +19,7 @@ _Context: Guwahati, India, demonstration_
 _Context: California, Malibu, state park, wildfires_
 
 ### [ Typhoon Mitag remains static over the Philippine Sea but changes course, and is expected to make landfall in Aurora-Isabela provinces of the Philippines on Monday due to the very slow and unusual movement. ](/news/2007/11/24/typhoon-mitag-remains-static-over-the-philippine-sea-but-changes-course-and-is-expected-to-make-landfall-in-aurora-isabela-provinces-of-th.md)
-_Context: Aurora, Isabela, Philippine, Philippine Sea, Typhoon Mitag, landfall_
+_Context: Aurora, Isabela, Philippine Sea, Philippines, Typhoon Mitag, landfall_
 
 ### [ Russian opposition leader Garry Kasparov is arrested during a The Other Russia rally in Moscow. ](/news/2007/11/24/russian-opposition-leader-garry-kasparov-is-arrested-during-a-the-other-russia-rally-in-moscow.md)
 _Context: Garry Kasparov, Moscow, Russia, The Other Russia, opposition leader_

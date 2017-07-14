@@ -37,7 +37,7 @@ The chief executive of a Sydney football club says he will ignore a ruling by th
 _Context: Abhisit Vejjajiva, National Assembly of Thailand, Prime Minister of Thailand_
 
 ### [Amnesty International's Secretary-General sparks a furor by saying that "jihad in self-defense" is not "antithetical" to human rights. ](/news/2010/04/7/amnesty-internationalas-secretary-general-sparks-a-furor-by-saying-that-ajihad-in-self-defensea-is-not-aantitheticala-to-human-rig.md)
-_Context: Amnesty International, general self-defense, human rights, jihad_
+_Context: Amnesty International, Human rights, general self-defense, jihad_
 
 ### [Sixteen countries attend a two-day conference organised by the Supreme Council of Antiquities in Cairo to discuss the retrieval of old items which were pillaged by other nations, such as the Rosetta Stone (held by the British Museum, London) and Queen Nefertitti's bust (held by the Neues Museum, Berlin). ](/news/2010/04/7/sixteen-countries-attend-a-two-day-conference-organised-by-the-supreme-council-of-antiquities-in-cairo-to-discuss-the-retrieval-of-old-items.md)
 _Context: Berlin, British Museum, Cairo, London, Nefertiti, Neues Museum, Rosetta Stone, Supreme Council of Antiquities_

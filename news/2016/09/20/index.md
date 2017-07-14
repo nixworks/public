@@ -16,7 +16,7 @@ Libyan medics say a helicopter crashed near the eastern city where the internati
 Two pilots ejected safely after a U-2 spy plane went down in Sutter County, just north of Sacramento, according to the U.S. Air Force.
 
 ### [Authorities diagnose six more cases of the Zika virus in the provinces of Cebu and Iloilo in the Visayas and Laguna province near Metro Manila, Philippines. ](/news/2016/09/20/authorities-diagnose-six-more-cases-of-the-zika-virus-in-the-provinces-of-cebu-and-iloilo-in-the-visayas-and-laguna-province-near-metro-mani.md)
-_Context: 2015-16 Zika virus epidemic, Cebu, Iloilo, Laguna province, Metro Manila, Philippine, Visayas, Zika virus_
+_Context: 2015-16 Zika virus epidemic, Cebu, Iloilo, Laguna province, Metro Manila, Philippines, Visayas, Zika virus_
 
 ### [The European Union's 28 member states formally accept Bosnia and Herzegovina's membership application. The European Commission (EC) will now determine whether Bosnia meets the criteria to join the union, a process that is expected to take a year. ](/news/2016/09/20/the-european-union-s-28-member-states-formally-accept-bosnia-and-herzegovina-s-membership-application-the-european-commission-ec-will-now.md)
 EU members states have accepted Bosnia&#39;s membership application, starting a long process to decide on its candidacy. Bosnia&#39;s membership process is particularly complicated given the country&#39;s governance structure.

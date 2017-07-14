@@ -28,7 +28,7 @@ _Context: Lagos, Nigeria, hutment_
 ST. LOUIS, MO ( KTVI) -U.S. Rep. Todd Akin says he misspoke when making a comment about rape and abortion during the taping of The Jaco Report on FOX 2. That remark made national headlines and sparked responses from both Akin’s opponent, Sen. Claire McCaskill and presidential hopeful Mitt Romney.
 
 ### [Gu Kailai, the wife of ousted Chongqing Politburo leader Bo Xilai, is given a suspended death sentence for the murder of Neil Heywood in China. ](/news/2012/08/20/gu-kailai-the-wife-of-ousted-chongqing-politburo-leader-bo-xilai-is-given-a-suspended-death-sentence-for-the-murder-of-neil-heywood-in-chi.md)
-_Context: Bo Xilai, China, Chongqing, Gu Kailai, Neil Heywood, Politburo of the Communist Party of China, suspended death sentence_
+_Context: Bo Xilai, Chinese, Chongqing, Gu Kailai, Neil Heywood, Politburo of the Communist Party of China, suspended death sentence_
 
 ### [Former Polly Peck tycoon Asil Nadir is found guilty on three counts of stealing millions of pounds from his company by a jury at London's Old Bailey. ](/news/2012/08/20/former-polly-peck-tycoon-asil-nadir-is-found-guilty-on-three-counts-of-stealing-millions-of-pounds-from-his-company-by-a-jury-at-london-s-ol.md)
 Former tycoon Asil Nadir is found guilty of three counts of stealing millions from his company Polly Peck before fleeing the country two decades ago.

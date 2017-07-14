@@ -16,7 +16,7 @@ _Context: Australia, February 13, Indigenous, Parliament, stolen generation_
 Rudolph W. Giuliani endorsed Senator John McCain for the Republican nomination. Also Mr. McCain’s aides said he would be endorsed by Gov. Arnold Schwarzenegger.
 
 ### [ As snowstorms continue to worsen in China, Premier Wen Jiabao offers an apology to the public while visiting Changsha train station in Hunan as millions are stranded in train stations waiting to go home during Chinese New Year. ](/news/2008/01/30/as-snowstorms-continue-to-worsen-in-china-premier-wen-jiabao-offers-an-apology-to-the-public-while-visiting-changsha-train-station-in-huna.md)
-_Context: 2008 Chinese winter storms, Changsha, China, Chinese New Year, Hunan, Wen Jiabao, stranded in train stations_
+_Context: 2008 Chinese winter storms, Changsha, Chinese, Chinese New Year, Hunan, Wen Jiabao, stranded in train stations_
 
 ### [ Government probe finds that Israel "failed ... to provide an effective military response to the challenge posed to it by the war in Lebanon." ](/news/2008/01/30/government-probe-finds-that-israel-failed-to-provide-an-effective-military-response-to-the-challenge-posed-to-it-by-the-war-in-lebanon.md)
 _Context: Israel, Lebanon_

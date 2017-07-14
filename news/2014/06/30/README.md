@@ -28,13 +28,13 @@ _Context: derechos_
 _Context: Abraham Lincoln, Yosemite National Park_
 
 ### [The People's Republic of China jails 113 people in Xinjiang autonomous region for terrorism and other offences. ](/news/2014/06/30/the-people-s-republic-of-china-jails-113-people-in-xinjiang-autonomous-region-for-terrorism-and-other-offences.md)
-_Context: China, Xinjiang_
+_Context: Chinese, Xinjiang_
 
 ### [North Korea says it will put on trial two American tourists, Jeffrey Fowle and Michael Miller, for crimes against the state. ](/news/2014/06/30/north-korea-says-it-will-put-on-trial-two-american-tourists-jeffrey-fowle-and-michael-miller-for-crimes-against-the-state.md)
 min Park and James Pearson
 
 ### [Philippines Senator Jinggoy Estrada is arrested for alleged corruption. ](/news/2014/06/30/philippines-senator-jinggoy-estrada-is-arrested-for-alleged-corruption.md)
-_Context: Jinggoy Estrada, senator_
+_Context: Jinggoy Estrada, Senate_
 
 ### [Australian entertainer Rolf Harris is convicted in London, England, of 12 counts of indecent assault against young girls between 1968 and 1986. The 84-year-old is to be sentenced on Friday 4 July. ](/news/2014/06/30/australian-entertainer-rolf-harris-is-convicted-in-london-england-of-12-counts-of-indecent-assault-against-young-girls-between-1968-and-19.md)
 Rolf Harris has been found guilty of indecently assaulting four girls in the UK between 1968 and 1986.

@@ -16,13 +16,13 @@ _Context: AFRICOM, Africa, George W. Bush, President of the United States, Unite
 _Context: Hungary, Komrom, freight train, train_
 
 ### [ UK Prime Minister Tony Blair says people are "increasingly alarmed" by Iran's nuclear program but military action was not being planned against it. ](/news/2007/02/6/uk-prime-minister-tony-blair-says-people-are-increasingly-alarmed-by-iran-s-nuclear-program-but-military-action-was-not-being-planned-aga.md)
-_Context: Britain, Iran, Prime Minister, Tony Blair, nuclear scientist_
+_Context: Iran, Prime Minister, Tony Blair, UK, nuclear scientist_
 
 ### [ The Iranian Government confirms that an Iranian envoy in Baghdad has been kidnapped by men wearing Iraqi army uniforms, and says it holds the United States responsible for his life. The U.S. denies any involvement of U.S. and Iraqi troops. ](/news/2007/02/6/the-iranian-government-confirms-that-an-iranian-envoy-in-baghdad-has-been-kidnapped-by-men-wearing-iraqi-army-uniforms-and-says-it-holds-t.md)
 _Context: Baghdad, Iran, Iranian government, Iraqi army, United States_
 
 ### [ UK newspaper ''The Sun'' has obtained a video tape of a U.S. pilot shooting a UK convoy in a friendly fire incident during the Iraq War, killing one British soldier and injuring four. The pilot, and others, are said to have made a series of crucial mistakes. ](/news/2007/02/6/uk-newspaper-the-sun-has-obtained-a-video-tape-of-a-u-s-pilot-shooting-a-uk-convoy-in-a-friendly-fire-incident-during-the-iraq-war-ki.md)
-_Context: Air Force, Britain, Iraq War, The Sun, friendly fire_
+_Context: Air Force, Iraq War, The Sun, UK, friendly fire_
 
 ### [ Three people in the United Kingdom have been jailed after plotting over internet chatrooms to abduct and rape two teenage girls. ](/news/2007/02/6/three-people-in-the-united-kingdom-have-been-jailed-after-plotting-over-internet-chatrooms-to-abduct-and-rape-two-teenage-girls.md)
 _Context: Kidnap, chatroom, rape_

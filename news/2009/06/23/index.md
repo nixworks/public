@@ -1,7 +1,7 @@
 ## [2009-06-23](/news/2009/06/23/index.md)
 
 ### [ United Kingdom Commons speaker John Bercow breaks with tradition by abandoning the traditional court dress worn by his predecessor Michael Martin. ](/news/2009/06/23/united-kingdom-commons-speaker-john-bercow-breaks-with-tradition-by-abandoning-the-traditional-court-dress-worn-by-his-predecessor-michael.md)
-_Context: Britain, British House of Commons, John Bercow, Michael Martin_
+_Context: British House of Commons, John Bercow, Michael Martin, UK_
 
 ### [ Boeing delays the first test flight of its lightweight jet, the 787, because of stress found where the wings attach to the sides of the plane. ](/news/2009/06/23/boeing-delays-the-first-test-flight-of-its-lightweight-jet-the-787-because-of-stress-found-where-the-wings-attach-to-the-sides-of-the-pla.md)
 Additional stress was found where the wings attach to the sides of the plane, but executives said that minor modifications would fix the problem.

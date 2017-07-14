@@ -28,7 +28,7 @@ Barack Obama has described Northern Ireland&#39;s power-sharing deal as an impor
 _Context: Chechnya, Russia_
 
 ### [Four British politicians will face criminal prosecution over their expense claims in the ongoing expenses scandal. ](/news/2010/02/5/four-british-politicians-will-face-criminal-prosecution-over-their-expense-claims-in-the-ongoing-expenses-scandal.md)
-_Context: Britain, MPs expenses_
+_Context: MPs expenses, UK_
 
 ### [New images of the dwarf planet Pluto reveal rapid changes on its surface. ](/news/2010/02/5/new-images-of-the-dwarf-planet-pluto-reveal-rapid-changes-on-its-surface.md)
 _Context: Pluto, dwarf planet_

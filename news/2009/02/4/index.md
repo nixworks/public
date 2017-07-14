@@ -13,10 +13,10 @@ _Context: Fitch Ratings, Russia, Russian financial crisis of 2008-2009_
 _Context: Iraq, suicide bomber_
 
 ### [ The High Court of Justice alleges British resident Benyam Mohammed was tortured and that the US threatened to withdraw intelligence help from the United Kingdom if details were released. ](/news/2009/02/4/the-high-court-of-justice-alleges-british-resident-benyam-mohammed-was-tortured-and-that-the-us-threatened-to-withdraw-intelligence-help-fr.md)
-_Context: Benyam Mohammed, Britain, High Court_
+_Context: Benyam Mohammed, High Court, UK_
 
 ### [ A senior British Army officer is arrested in Afghanistan on suspicion of breaking the ''Official Secrets Act'' by leaking information on civilian casualties to a human rights campaigner. ](/news/2009/02/4/a-senior-british-army-officer-is-arrested-in-afghanistan-on-suspicion-of-breaking-the-official-secrets-act-by-leaking-information-on-ci.md)
-_Context: Afghanistan, British Army, Official Secrets Act, casualties, civilian, human rights_
+_Context: Afghanistan, British Army, Human rights, Official Secrets Act, casualties, civilian_
 
 ### [ Sri Lankan artillery attacks in the last 24 hours in the Vanni result in the deaths of at least 52 Tamils. ](/news/2009/02/4/sri-lankan-artillery-attacks-in-the-last-24-hours-in-the-vanni-result-in-the-deaths-of-at-least-52-tamils.md)
 _Context: Vanni District_

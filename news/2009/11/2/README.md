@@ -7,10 +7,10 @@ _Context: Pakistan, Rawalpindi, large blast_
 _Context: Venezuela, rationing water_
 
 ### [ The Royal Bank of Scotland announces cuts of 3,700 staff in the United Kingdom. ](/news/2009/11/2/the-royal-bank-of-scotland-announces-cuts-of-3-700-staff-in-the-united-kingdom.md)
-_Context: Britain, Royal Bank of Scotland_
+_Context: Royal Bank of Scotland, UK_
 
 ### [ 16 people are killed in a fire that destroyed 58 houses in the Philippine city of Bacolod. ](/news/2009/11/2/16-people-are-killed-in-a-fire-that-destroyed-58-houses-in-the-philippine-city-of-bacolod.md)
-_Context: Bacolod, Philippine_
+_Context: Bacolod, Philippines_
 
 ### [ At least 15 Tamil asylum seekers are feared dead while being rescued in seas off the coast of Australia. ](/news/2009/11/2/at-least-15-tamil-asylum-seekers-are-feared-dead-while-being-rescued-in-seas-off-the-coast-of-australia.md)
 A desperate search was under way last night for at least 15 Sri Lankan asylum seekers missing in the Indian Ocean after their boat sank in darkness as it headed towards Australia.

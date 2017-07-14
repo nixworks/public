@@ -22,7 +22,7 @@ _Context: African Union, Mogadishu, Somalia_
 _Context: Karachi, Pakistan Air Force_
 
 ### [The UK's military operation in Iraq will officially end at midnight, after the Royal Navy completes its training of Iraqi sailors. ](/news/2011/05/22/the-uk-s-military-operation-in-iraq-will-officially-end-at-midnight-after-the-royal-navy-completes-its-training-of-iraqi-sailors.md)
-_Context: Britain, Iraq, Royal Navy, military operation_
+_Context: Iraq, Royal Navy, UK, military operation_
 
 ### [The Taliban warn that Kazakhstan's decision to send troops to Afghanistan will have "severe consequences". ](/news/2011/05/22/the-taliban-warn-that-kazakhstan-s-decision-to-send-troops-to-afghanistan-will-have-severe-consequences.md)
 _Context: Afghanistan, Kazakhstan, Taliban_

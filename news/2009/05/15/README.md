@@ -10,7 +10,7 @@ _Context: Guantanamo Bay, Guantanamo Bay Detention Camp, Lakhdar Boumediene, Uni
 _Context: Government of Peru, Peru, indigenous, insurgency_
 
 ### [ Shahid Malik resigns as the United Kingdom's Parliamentary Under-Secretary of State for Justice. ](/news/2009/05/15/shahid-malik-resigns-as-the-united-kingdom-s-parliamentary-under-secretary-of-state-for-justice.md)
-_Context: Britain, Ministry of Justice, Parliamentary Under-Secretary of State, Shahid Malik, expenses controversy_
+_Context: Ministry of Justice, Parliamentary Under-Secretary of State, Shahid Malik, UK, expenses controversy_
 
 ### [ The Eurozone's 16 national economies contract by 2.5% throughout the first fiscal quarter of 2009. ](/news/2009/05/15/the-eurozone-s-16-national-economies-contract-by-2-5-throughout-the-first-fiscal-quarter-of-2009.md)
 _Context: 2009, 4th quarter of 2007 and the second quarter of 2009, Eurozone, economy, fiscal year_

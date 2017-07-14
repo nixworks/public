@@ -10,7 +10,7 @@ BAMAKO, Mali (AP) — An Islamic extremist group connected to al-Qaida&#039;s No
 Amnesty International report says military shot and burned members of Islamic Movement in Nigeria last December and secretly buried the bodies
 
 ### [Elizabeth II, queen regnant of the United Kingdom and Head of the Commonwealth of Nations, celebrates her 90th birthday. ](/news/2016/04/21/elizabeth-ii-queen-regnant-of-the-united-kingdom-and-head-of-the-commonwealth-of-nations-celebrates-her-90th-birthday.md)
-_Context: Britain, Commonwealth of Nations, Elizabeth II, Head, queen regnant_
+_Context: Commonwealth of Nations, Elizabeth II, Head, UK, queen regnant_
 
 ### [Bongbong Marcos admits that his family is blocking forfeiture of 200 masterpiece paintings sought by the government saying that the works were not subject of a court order case. The artworks, accumulated during the administration of his father, Philippine dictator Ferdinand Marcos are believed to be part of the family's alleged ill-gotten wealth. ](/news/2016/04/21/bongbong-marcos-admits-that-his-family-is-blocking-forfeiture-of-200-masterpiece-paintings-sought-by-the-government-saying-that-the-works-we.md)
 MANILA &ndash; Vice-presidential candidate Senator Ferdinand &#39;&#39;Bongbong&#39;&#39; Marcos Jr. on Thursday admitted that his family is active in blocking the forfeiture of some 200 missing artworks being sought by the government.

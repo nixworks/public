@@ -13,7 +13,7 @@ _Context: Capture of Saddam Hussein, George W. Bush_
 _Context: European Union, TRNC_
 
 ### [ Safeway, a British grocery store chain, is the subject of a PS3bn ($5.2bn USD) takeover bid from rival supermarket chain Morrisons. [http://money.cnn.com/2003/12/15/news/international/safeway_morris.reut/]   ](/news/2003/12/15/safeway-a-british-grocery-store-chain-is-the-subject-of-a-aps3bn-5-2bn-usd-takeover-bid-from-rival-supermarket-chain-morrisons-http.md)
-_Context: Britain, Morrisons, Safeway, grocery store_
+_Context: Morrisons, Safeway, UK, grocery store_
 
 ### [ Two toddlers are badly burnt when a car crashes into a Sydney child care centre.](/news/2003/12/15/two-toddlers-are-badly-burnt-when-a-car-crashes-into-a-sydney-child-care-centre.md)
 ### [ Liberian Crisis: the United Nations announces the suspension of its disarmament campaign for a month. [http://story.news.yahoo.com/news?tmpl=story&cid=515&ncid=723&e=6&u=/ap/20031215/ap_on_re_af/liberia_disarmament]](/news/2003/12/15/liberian-crisis-the-united-nations-announces-the-suspension-of-its-disarmament-campaign-for-a-month-http-story-news-yahoo-com-news-tmp.md)

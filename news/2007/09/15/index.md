@@ -46,7 +46,7 @@ _Context: September 2007 Sumatra earthquakes_
 _Context: Sri Lanka, Sri Lankan Army, Tamil Tigers_
 
 ### [ Zhao Yan, a Chinese journalist working for the ''New York Times'', is released from jail in China after serving a three year sentence for "leaking state secrets". ](/news/2007/09/15/zhao-yan-a-chinese-journalist-working-for-the-new-york-times-is-released-from-jail-in-china-after-serving-a-three-year-sentence-for.md)
-_Context: China, New York Times, Zhao Yan, jail_
+_Context: Chinese, New York Times, Zhao Yan, jail_
 
 ### [ Impact of Meteorite at Carancas in Peru.](/news/2007/09/15/impact-of-meteorite-at-carancas-in-peru.md)
 _Context: Meteorite_

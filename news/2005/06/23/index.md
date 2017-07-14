@@ -7,7 +7,7 @@ _Context: Fifth Amendment, Kelo v. New London, Supreme Court of the United State
 Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.
 
 ### [ In Indonesia, the team that is investigating the death of human rights campaigner Munir Said Thalib states that the Indonesian intelligence agency BIN may be involved. Munir died of arsenic poisoning en route to the Netherlands on September 7, 2004. ](/news/2005/06/23/in-indonesia-the-team-that-is-investigating-the-death-of-human-rights-campaigner-munir-said-thalib-states-that-the-indonesian-intelligence.md)
-_Context: BIN, Indonesia, Munir Said Thalib, Netherlands, arsenic, human rights_
+_Context: BIN, Human rights, Indonesia, Munir Said Thalib, Netherlands, arsenic_
 
 ### [ Thousands of workers from UPM-Kymmene and Stora Enso, two leading Finnish companies in the paper industry go on strike over pay and working hours. Finland provides two thirds of the paper supply for the European magazine market. Industry analysts believe that the strike may have serious repercussions on the magazine market of Europe. ](/news/2005/06/23/thousands-of-workers-from-upm-kymmene-and-stora-enso-two-leading-finnish-companies-in-the-paper-industry-go-on-strike-over-pay-and-working.md)
 _Context: Stora Enso, UPM-Kymmene, pulp and paper company, strike_

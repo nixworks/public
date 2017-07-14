@@ -1,10 +1,10 @@
 ## [2007-08-14](/news/2007/08/14/index.md)
 
 ### [ A bridge under construction completely collapses in Fenghuang County, Hunan Province, China, killing at least 47 people. 21 workers are injured, 13 are still missing.](/news/2007/08/14/a-bridge-under-construction-completely-collapses-in-fenghuang-county-hunan-province-china-killing-at-least-47-people-21-workers-are-inj.md)
-_Context: 47, China, Fenghuang, Hunan, bridge_
+_Context: 47, Chinese, Fenghuang, Hunan, bridge_
 
 ### [ A fire breaks out at the Shanghai World Financial Center in China. ](/news/2007/08/14/a-fire-breaks-out-at-the-shanghai-world-financial-center-in-china.md)
-_Context: China, Shanghai World Financial Center, fire_
+_Context: Chinese, Shanghai World Financial Center, fire_
 
 ### [ The Italian coast guard finds the dead bodies of 14 illegal immigrants near the shores of the Lampedusa island. ](/news/2007/08/14/the-italian-coast-guard-finds-the-dead-bodies-of-14-illegal-immigrants-near-the-shores-of-the-lampedusa-island.md)
 _Context: Italian, Lampedusa, coast guard, illegal immigrant_
@@ -73,7 +73,7 @@ _Context: Algeria, Islamist, Larba, Mustapha Kartali, car bomb, guerrilla_
 _Context: Gaza Strip, Israel Defense Forces, Palestinian, civilian_
 
 ### [ Pakistan celebrates the 60th anniversary of its independence from the United Kingdom. ](/news/2007/08/14/pakistan-celebrates-the-60th-anniversary-of-its-independence-from-the-united-kingdom.md)
-_Context: Britain, Pakistan, anniversary, independence_
+_Context: Pakistan, UK, anniversary, independence_
 
 ### [ Abdullah Gul, currently the Foreign Minister of Turkey, confirms that he will stand again for election as the President of Turkey. ](/news/2007/08/14/abdullah-ga1-4l-currently-the-foreign-minister-of-turkey-confirms-that-he-will-stand-again-for-election-as-the-president-of-turkey.md)
 _Context: Abdullah Gul, President, Turkey_

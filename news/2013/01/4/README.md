@@ -25,7 +25,7 @@ _Context: Beechcraft BE35, Daytona Beach, Florida, United States_
 Six Russian tourists die as their snowmobile flips over during a night-time run down an Alpine ski slope in north-eastern Italy, reports say.
 
 ### [A gunman kills eight people in a house-to-house rampage in Kawit, the Philippines. ](/news/2013/01/4/a-gunman-kills-eight-people-in-a-house-to-house-rampage-in-kawit-the-philippines.md)
-_Context: Kawit, Philippine, kills eight people_
+_Context: Kawit, Philippines, kills eight people_
 
 ### [The Nigerian police announces that Hyundai has paid a ransom of PS118,000 ($190,000) to free 6 kidnapped workers in the Niger Delta region. ](/news/2013/01/4/the-nigerian-police-announces-that-hyundai-has-paid-a-ransom-of-aps118-000-190-000-to-free-6-kidnapped-workers-in-the-niger-delta-region.md)
 South Korean firm Hyundai paid a ransom of $190,000 (£118,000) to free six workers kidnapped last month, Nigerian police say.
@@ -43,7 +43,7 @@ The Pakistani schoolgirl activist shot in the head by the Taliban is discharged 
 _Context: 2012 Delhi gang rape case, Bangladesh, Nepal, Pakistan, Sri Lanka, sexual violence_
 
 ### [Journalists in China call for the resignation of the propaganda chief in Guangdong province over "excessive censorship" amid the closure of a liberal website. ](/news/2013/01/4/journalists-in-china-call-for-the-resignation-of-the-propaganda-chief-in-guangdong-province-over-excessive-censorship-amid-the-closure-of.md)
-_Context: Censorship in China, China, Guangdong province, liberal_
+_Context: Censorship in China, Chinese, Guangdong province, liberal_
 
 ### [The Venezuelan government announces that president Hugo Chavez is being treated for a "respiratory deficiency" after complications from a severe lung infection. ](/news/2013/01/4/the-venezuelan-government-announces-that-president-hugo-cha-vez-is-being-treated-for-a-respiratory-deficiency-after-complications-from-a-s.md)
 _Context: Hugo Chavez, Venezuela, lung infection_

@@ -1,7 +1,7 @@
 ## [2007-05-14](/news/2007/05/14/index.md)
 
 ### [ Legislative and local elections are being held currently in the Philippines. ](/news/2007/05/14/legislative-and-local-elections-are-being-held-currently-in-the-philippines.md)
-_Context: Philippine, Philippine general election_
+_Context: Philippine general election, Philippines_
 
 ### [ Jorge Daniel Castro, the head of the Colombian National Police force and Guillermo Chavez, the intelligence chief, resign over an illegal wiretapping scandal. ](/news/2007/05/14/jorge-daniel-castro-the-head-of-the-colombian-national-police-force-and-guillermo-chavez-the-intelligence-chief-resign-over-an-illegal-w.md)
 _Context: Colombian National Police, Guillermo Chavez, Jorge Daniel Castro, wiretapping_
@@ -34,7 +34,7 @@ _Context: Orsk, Russia, cafe_
 _Context: Chang Chun-hsiung, Chen Shui-bian, Democratic Progressive Party, Premier of Taiwan, President of Taiwan_
 
 ### [ Nominations open for the leadership of the United Kingdom Labour Party with Chancellor of the Exchequer Gordon Brown as the favourite. ](/news/2007/05/14/nominations-open-for-the-leadership-of-the-united-kingdom-labour-party-with-chancellor-of-the-exchequer-gordon-brown-as-the-favourite.md)
-_Context: Britain, Chancellor of the Exchequer, Gordon Brown, Labour, confirmed_
+_Context: Chancellor of the Exchequer, Gordon Brown, Labour, UK, confirmed_
 
 ### [ An ethics panel of the World Bank Group finds that its President Paul Wolfowitz was guilty of violating his contract when arranging a compensation package for Shaha Ali Riza with whom he had a relationship. ](/news/2007/05/14/an-ethics-panel-of-the-world-bank-group-finds-that-its-president-paul-wolfowitz-was-guilty-of-violating-his-contract-when-arranging-a-compe.md)
 _Context: Paul Wolfowitz, Shaha Ali Riza, World Bank Group_

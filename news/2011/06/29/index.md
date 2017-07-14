@@ -37,7 +37,7 @@ Chinese artist and government critic Ai Weiwei is to challenge a bill of more th
 Parliament passes an austerity plan to slash $40bn off national debt, with 155 MPs voting in favour and 138 against.
 
 ### [Approximately 750,000 workers in the United Kingdom commence strike action over pension reform plans. ](/news/2011/06/29/approximately-750-000-workers-in-the-united-kingdom-commence-strike-action-over-pension-reform-plans.md)
-_Context: Britain_
+_Context: UK_
 
 ### [The Alderney Gambling Control Commission suspends Full Tilt Poker's gaming license prior to a hearing over an indictment by the United States Department of Justice. ](/news/2011/06/29/the-alderney-gambling-control-commission-suspends-full-tilt-poker-s-gaming-license-prior-to-a-hearing-over-an-indictment-by-the-united-state.md)
 _Context: Alderney Gambling Control Commission, Full Tilt Poker, United States Department of Justice, indicted_

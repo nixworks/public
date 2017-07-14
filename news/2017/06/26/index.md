@@ -19,7 +19,7 @@ The Alaska Airlines passengers were reportedly not following directions and maki
 _Context: CNN, CNN 2017 undercover videos controversy, Donald Trump, Eric Lichtblau_
 
 ### [Mongolians go to the polls to elect a new president. The centre-right Democratic Party's Battulga Khaltmaa wins a plurality of votes, but falls short of a majority, necessitating a second round. ](/news/2017/06/26/mongolians-go-to-the-polls-to-elect-a-new-president-the-centre-right-democratic-party-s-battulga-khaltmaa-wins-a-plurality-of-votes-but-fa.md)
-_Context: Battulga Khaltmaa, Democratic Party, Mongolia, Mongolian presidential election, 2017, plurality, president, second round_
+_Context: Battulga Khaltmaa, Democratic Party, Mongolia, Mongolian presidential election, 2017, President of Mongolia, plurality, second round_
 
 ### [President of the Philippines Rodrigo Duterte makes another lengthy absence from any public appearance after missing the Independence Day celebrations earlier in June. Rumors about his health continue to circulate within the minority although government officials deny any issues. ](/news/2017/06/26/president-of-the-philippines-rodrigo-duterte-makes-another-lengthy-absence-from-any-public-appearance-after-missing-the-independence-day-cel.md)
 _Context: Duterty presidency, Independence Day, President of the Philippines, Rodrigo Duterte_

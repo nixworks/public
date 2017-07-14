@@ -19,7 +19,7 @@ A media storm over corrupt officials is embarrassing China’s Communist Party a
 * Govt has set itself June 20 deadline for tax, welfarereform package * Opposition lawmakers see 2nd budget proposal as stallingtactic by PM Kan
 
 ### [Danny Alexander, the Chief Secretary to the Treasury of the United Kingdom, announces that the retirement age for British civil servants will be increased to 66, with the exception of the police, armed forces and fire service. ](/news/2011/06/17/danny-alexander-the-chief-secretary-to-the-treasury-of-the-united-kingdom-announces-that-the-retirement-age-for-british-civil-servants-wil.md)
-_Context: Britain, Chief Secretary to the Treasury, Danny Alexander, civil servant, retirement_
+_Context: Chief Secretary to the Treasury, Danny Alexander, UK, civil servant, retirement_
 
 ### [King of Morocco Mohammed VI announces constitutional reforms with a referendum to be held on July 1. ](/news/2011/06/17/king-of-morocco-mohammed-vi-announces-constitutional-reforms-with-a-referendum-to-be-held-on-july-1.md)
 King Mohammed VI proposes constitutional changes that will whittle down his powers, but keep his role as power-broker.

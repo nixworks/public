@@ -16,7 +16,7 @@ _Context: Ealing Southall, Labour, Sedgefield, Tony Blair, by-election_
 The Dow Jones Industrial Average stock index closed above 14,000 points for the first time ever as bullish investors cheered a flurry of generally up-beat corporate earnings reports.
 
 ### [ The largest Viking treasure discovery in the United Kingdom since the nineteenth century made near Harrogate in northern England is announced. ](/news/2007/07/19/the-largest-viking-treasure-discovery-in-the-united-kingdom-since-the-nineteenth-century-made-near-harrogate-in-northern-england-is-announc.md)
-_Context: Britain, England, Harrogate, Viking_
+_Context: England, Harrogate, UK, Viking_
 
 ### [ Suspected Somali insurgents target a peace meeting with mortar fire but accidentally kill six children. ](/news/2007/07/19/suspected-somali-insurgents-target-a-peace-meeting-with-mortar-fire-but-accidentally-kill-six-children.md)
 _Context: Mortar, Somalia_
@@ -28,7 +28,7 @@ _Context: Bush Administration, CIA leak scandal, George W. Bush, Valerie Plame, 
 _Context: Mumbai_
 
 ### [ Russia expels four British diplomats in the ongoing row over the extradition of Andrei Lugovoi for the suspected murder of Russian spy Alexander Litvinenko. ](/news/2007/07/19/russia-expels-four-british-diplomats-in-the-ongoing-row-over-the-extradition-of-andrei-lugovoi-for-the-suspected-murder-of-russian-spy-alex.md)
-_Context: Andrei Lugovoi, Britain, Russia, murder of Russian spy Alexander Litvinenko_
+_Context: Andrei Lugovoi, Russia, UK, murder of Russian spy Alexander Litvinenko_
 
 ### [ A report commissioned by the Solomon Islands Government is critical of the handling of last year's Honiara riots by the Regional Assistance Mission to the Solomon Islands (RAMSI). ](/news/2007/07/19/a-report-commissioned-by-the-solomon-islands-government-is-critical-of-the-handling-of-last-year-s-honiara-riots-by-the-regional-assistance.md)
 _Context: Honiara, Regional Assistance Mission to the Solomon Islands, Solomon Islands_

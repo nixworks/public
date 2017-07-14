@@ -13,7 +13,7 @@ _Context: France, Paris, UNESCO, World Digital Library_
 The Pentagon and Lockheed Martin Corp, its top supplier, discounted a Wall Street Journal report that cyber spies had stolen secrets of the F-35 Joint Strike Fighter aircraft being built for the United States and nearly a dozen allies.
 
 ### [ The United Kingdom's Retail Prices Index records negative inflation for the first time since 1960. ](/news/2009/04/21/the-united-kingdom-s-retail-prices-index-records-negative-inflation-for-the-first-time-since-1960.md)
-_Context: Britain, Retail Prices Index, inflation_
+_Context: Retail Prices Index, UK, inflation_
 
 ### [ Twenty-four people are killed during combat between the Mungiki criminal organization and citizens of Karatina in Kenya. ](/news/2009/04/21/twenty-four-people-are-killed-during-combat-between-the-mungiki-criminal-organization-and-citizens-of-karatina-in-kenya.md)
 _Context: Karatina, Kenya, Mungiki, citizenship, killed, organization_

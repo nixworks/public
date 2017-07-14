@@ -1,7 +1,7 @@
 ## [2010-10-24](/news/2010/10/24/index.md)
 
 ### [Six killed in shooting rampage inside militia outpost in Palid, Ipil town, in the Zamboanga Sibugay province of the South Philippines. ](/news/2010/10/24/six-killed-in-shooting-rampage-inside-militia-outpost-in-palid-ipil-town-in-the-zamboanga-sibugay-province-of-the-south-philippines.md)
-_Context: Ipil, Palid, Philippine, Southern Philippines, Zamboanga Sibugay_
+_Context: Ipil, Palid, Philippines, Southern Philippines, Zamboanga Sibugay_
 
 ### [South Korea and the United States cancel a joint naval drill against North Korea in the Yellow Sea, citing its previous anti-submarine training -- held from Sept. 27 to Oct. 1 -- and a desire "not to irritate neighboring countries" ahead of the upcoming 2010 G-20 Seoul summit. ](/news/2010/10/24/south-korea-and-the-united-states-cancel-a-joint-naval-drill-against-north-korea-in-the-yellow-sea-citing-its-previous-anti-submarine-train.md)
 _Context: 2010 G-20 Seoul summit, North Korea, South Korea, United States, Yellow Sea_
@@ -46,7 +46,7 @@ Naples mayors reject a government offer to indefinitely freeze the opening of a 
 _Context: President of Ecuador, Rafael Correa, protested against being stripped of their bonuses_
 
 ### [China and Bangladesh want green technology free of cost. Hasan Mahmud held a meeting with global warming negotiators in the UNFCCC climate talks and chairman of National Development and Reform Commission of China Xie Zhenhua. ](/news/2010/10/24/china-and-bangladesh-want-green-technology-free-of-cost-hasan-mahmud-held-a-meeting-with-global-warming-negotiators-in-the-unfccc-climate-t.md)
-_Context: Bangladesh, China, Hasan Mahmud, National Development and Reform Commission, UNFCCC, Xie Zhenhua, green technology, pro- and anti_
+_Context: Bangladesh, Chinese, Hasan Mahmud, National Development and Reform Commission, UNFCCC, Xie Zhenhua, green technology, pro- and anti_
 
 ### [At least 21 people died and a dozen more seriously injured in a bus accident in Nwoya district, northwestern Uganda. ](/news/2010/10/24/at-least-21-people-died-and-a-dozen-more-seriously-injured-in-a-bus-accident-in-nwoya-district-northwestern-uganda.md)
 _Context: Nwoya, Uganda_
@@ -70,7 +70,7 @@ _Context: Deepwater Horizon oil spill, government_
 One of three people killed in a helicopter crash in County Down was a personal friend of the Prince of Wales, Clarence House confirms.
 
 ### [Chinese Vice Premier Wang Qi-shan has held talks with US Treasury, Secretary Timothy Geithner at Qingdao Airport, east China's Shandong province. They exchanged views on Sino-US economic relations, and preparations for the upcoming G20 Summit. ](/news/2010/10/24/chinese-vice-premier-wang-qi-shan-has-held-talks-with-us-treasury-secretary-timothy-geithner-at-qingdao-airport-east-china-s-shandong-prov.md)
-_Context: China, G20, Qingdao Airport, Shandong, Sino-American relations, Timothy Geithner, Wang Qi-shan_
+_Context: Chinese, G20, Qingdao Airport, Shandong, Sino-American relations, Timothy Geithner, Wang Qi-shan_
 
 ### [Darfur's rebel Justice and Equality Movement says it is ready to start discussions with international mediators in Qatar, but was not yet prepared to re-join full peace negotiations, saying Sudan's government had broken a ceasefire ](/news/2010/10/24/darfur-s-rebel-justice-and-equality-movement-says-it-is-ready-to-start-discussions-with-international-mediators-in-qatar-but-was-not-yet-pr.md)
 _Context: Darfur, Justice and Equality Movement, Qatar, Sudan_

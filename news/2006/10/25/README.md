@@ -10,7 +10,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: CITIC Group of Beijing, Kazakhstan, Nations Energy Company, crude oil_
 
 ### [ Surgeons in the United Kingdom are given permission by a National Health Service ethics committee to prepare to perform the world's first full face transplant at London's Royal Free Hospital. ](/news/2006/10/25/surgeons-in-the-united-kingdom-are-given-permission-by-a-national-health-service-ethics-committee-to-prepare-to-perform-the-world-s-first-f.md)
-_Context: Britain, London, National Health Service, Royal Free Hospital, face transplant_
+_Context: London, National Health Service, Royal Free Hospital, UK, face transplant_
 
 ### [ Argentine prosecutors formally charge the Iranian government and the Lebanese militia Hezbollah over the 1994 bombing of a Jewish centre which killed 85 people. ](/news/2006/10/25/argentine-prosecutors-formally-charge-the-iranian-government-and-the-lebanese-militia-hezbollah-over-the-1994-bombing-of-a-jewish-centre-wh.md)
 _Context: AMIA bombing, Argentina, Hezbollah, Iran, Jew, Lebanon, militia_

@@ -1,7 +1,7 @@
 ## [2005-07-23](/news/2005/07/23/index.md)
 
 ### [ Human rights campaigners in Gujarat, India, have condemned a new school textbook introduced last year by the Bharatiya Janata Party which is seen to praise Adolf Hitler and barely mention the holocaust. ](/news/2005/07/23/human-rights-campaigners-in-gujarat-india-have-condemned-a-new-school-textbook-introduced-last-year-by-the-bharatiya-janata-party-which-i.md)
-_Context: Adolf Hitler, Bharatiya Janata Party, Gujarat, Holocaust, human rights, textbook_
+_Context: Adolf Hitler, Bharatiya Janata Party, Gujarat, Holocaust, Human rights, textbook_
 
 ### [ The strongest earthquake to hit Tokyo in more than a decade strikes eastern Japan at 4:35 p.m. local time, injuring at least 27 people, rattling buildings and disrupting train and plane services. ](/news/2005/07/23/the-strongest-earthquake-to-hit-tokyo-in-more-than-a-decade-strikes-eastern-japan-at-4-35-p-m-local-time-injuring-at-least-27-people-rat.md)
 An earthquake with a magnitude of 6.0 shook eastern Japan, rattling buildings in Tokyo and disrupting train services.

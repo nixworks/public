@@ -16,7 +16,7 @@ _Context: Ali Gomaa, Egypt, Grand Mufti, Islam_
 _Context: Libya, Libyan Civil War, NATO, Tripoli_
 
 ### [China's yuan reaches a record level against the United States dollar. ](/news/2011/05/9/china-s-yuan-reaches-a-record-level-against-the-united-states-dollar.md)
-_Context: China, US$, yuan_
+_Context: Chinese, US$, yuan_
 
 ### [Chubu Electric Power considers a call by the Prime Minister of Japan Naoto Kan to close down the Hamaoka Nuclear Power Plant due to its vulnerability to a large earthquake. ](/news/2011/05/9/chubu-electric-power-considers-a-call-by-the-prime-minister-of-japan-naoto-kan-to-close-down-the-hamaoka-nuclear-power-plant-due-to-its-vuln.md)
 Japanese power firm Chubu Electric on Monday agreed to shut a nuclear plant until it can be better defended against the type of massive tsunami that in March triggered the worst atomic crisis in 25 years.
@@ -67,7 +67,7 @@ _Context: Colombia, Venezuela, Walid Makled Garcia, extradite_
 _Context: Governor, Jan Brewer, United States Supreme Court, immigration law_
 
 ### [American billionaire Louis Bacon wins a judgement in the United Kingdom against Wikipedia, the ''Denver Post'' and WordPress about disclosure of identities of people who published allegedly defamatory comments although the judgement does not apply in the United States. ](/news/2011/05/9/american-billionaire-louis-bacon-wins-a-judgement-in-the-united-kingdom-against-wikipedia-the-denver-post-and-wordpress-about-disclosur.md)
-_Context: Britain, Denver Post, Louis Bacon, United States, Wikipedia, WordPress_
+_Context: Denver Post, Louis Bacon, UK, United States, Wikipedia, WordPress_
 
 ### [Pennsylvania State Senator Bob Mensch is convicted of disorderly conduct after showing a handgun to another motorist on US Interstate 78. ](/news/2011/05/9/pennsylvania-state-senator-bob-mensch-is-convicted-of-disorderly-conduct-after-showing-a-handgun-to-another-motorist-on-us-interstate-78.md)
 Mensch faces maximum sentence of 90 days in jail and $300 fine

@@ -1,7 +1,7 @@
 ## [2010-12-11](/news/2010/12/11/index.md)
 
 ### [Leftist New People's Army rebels capture a village official and tribal chieftain during an attack on a militia outpost in Davao City, southern Philippines. ](/news/2010/12/11/leftist-new-people-s-army-rebels-capture-a-village-official-and-tribal-chieftain-during-an-attack-on-a-militia-outpost-in-davao-city-southe.md)
-_Context: Davao City, New People's Army, Philippine_
+_Context: Davao City, New People's Army, Philippines_
 
 ### [Nazario Moreno Gonzalez, the leader of the La Familia Michoacana drug cartel, is killed in a shootout with police in Michoacan, Mexico. ](/news/2010/12/11/nazario-moreno-gonza-lez-the-leader-of-the-la-familia-michoacana-drug-cartel-is-killed-in-a-shootout-with-police-in-michoaca-n-mexico.md)
 Suspected drug lord Nazario Moreno was gunned down late on Thursday by security forces amid an ongoing crackdown in western Mexico, Mexican national security spokesman Alejandro Poire said on Friday.
@@ -22,7 +22,7 @@ Aligarh (Uttar Padesh), Dec 11 (IANS) Five children of a rickshaw-puller, all ag
 Venezuelan President Hugo Chavez is moving into a tent given by Libyan leader Muammar Gaddafi so flood victims can take refuge in his office.
 
 ### [Eight fatal cases of A/H1N1 swine flu and two from seasonal flu are confirmed within six weeks in the United Kingdom. ](/news/2010/12/11/eight-fatal-cases-of-a-h1n1-swine-flu-and-two-from-seasonal-flu-are-confirmed-within-six-weeks-in-the-united-kingdom.md)
-_Context: A/H1N1, Britain, swine flu_
+_Context: A/H1N1, UK, swine flu_
 
 ### [Delegates at the United Nations Climate Change Conference in Cancun, Mexico, agree to a compromise on slowing climate change, though overall failing to reach a "deal that many activists and governments want." ](/news/2010/12/11/delegates-at-the-united-nations-climate-change-conference-in-cancaon-mexico-agree-to-a-compromise-on-slowing-climate-change-though-overal.md)
 Delegates from 190 nations reach a deal to curb climate change, including a fund to help developing countries, at UN talks in Cancun.

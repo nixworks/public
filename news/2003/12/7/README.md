@@ -4,7 +4,7 @@
 _Context: Arnoldo Alemn, Nicaragua, President, anti-corruption, embezzlement, money laundering_
 
 ### [ Zimbabwean President Robert Mugabe announces that he is withdrawing his country from the Commonwealth of Nations. The Commonwealth had earlier decided to maintain Zimbabwe's suspension until human rights and democratic reforms had taken place. [http://www.reuters.co.uk/newsPackageArticle.jhtml?type=worldNews&storyID=417200&section=news]](/news/2003/12/7/zimbabwean-president-robert-mugabe-announces-that-he-is-withdrawing-his-country-from-the-commonwealth-of-nations-the-commonwealth-had-earl.md)
-_Context: Commonwealth of Nations, Robert Mugabe, Zimbabwe, human rights_
+_Context: Commonwealth of Nations, Human rights, Robert Mugabe, Zimbabwe_
 
 ### [ President Putin's United Russia Party wins a resounding victory in the 2003 Russian election, with 37% of the vote. Second place and 12.5% of the vote goes to the Communist Party, with Zhirinovsky's LDPR nationalists close behind with 11.5%. However, electoral monitors say the democratic process was "overwhelmingly distorted" in the government's favour. ](/news/2003/12/7/president-putin-s-united-russia-party-wins-a-resounding-victory-in-the-2003-russian-election-with-37-of-the-vote-second-place-and-12-5.md)
 _Context: 2003 Russian election, Communist Party, Liberal Democratic Party of Russia, United Russia Party, Vladimir Putin, Zhirinovsky_

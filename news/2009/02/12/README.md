@@ -43,7 +43,7 @@ There has been an armed robbery at the European Parliament in Brussels.
 _Context: India, Moninder Singh Pandher, Surender Koli, convicted, domestic worker, murder_
 
 ### [ Dutch Member of Parliament and Islam critic Geert Wilders is denied entry into the United Kingdom. ](/news/2009/02/12/dutch-member-of-parliament-and-islam-critic-geert-wilders-is-denied-entry-into-the-united-kingdom.md)
-_Context: Britain, Geert Wilders, Islam, MP, Netherlands, Parliament, anti-Islamic_
+_Context: Geert Wilders, Islam, MP, Netherlands, Parliament, UK, anti-Islamic_
 
 ### [ Microsoft places a US$250,000 bounty on the Conficker computer worm's creator. ](/news/2009/02/12/microsoft-places-a-us-250-000-bounty-on-the-conficker-computer-worm-s-creator.md)
 Microsoft is offering a $250,000 reward for information leading to the conviction of the Conficker worm&#039;s author.

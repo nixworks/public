@@ -4,7 +4,7 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [The Philippines and the local Communist Party agree to renew talks that may lead to a peace treaty which could end the 46-year communist insurgency in the country. ](/news/2014/12/26/the-philippines-and-the-local-communist-party-agree-to-renew-talks-that-may-lead-to-a-peace-treaty-which-could-end-the-46-year-communist-ins.md)
-_Context: CPP-NPA-NDF rebellion, Communist Party, Philippine, peace treaty_
+_Context: CPP-NPA-NDF rebellion, Communist Party, Philippines, peace treaty_
 
 ### [Flooding in Peninsular Malaysia forces the evacuation of over 100,000 people. ](/news/2014/12/26/flooding-in-peninsular-malaysia-forces-the-evacuation-of-over-100-000-people.md)
 _Context: 2014 Southeast Asian floods, Peninsular Malaysia_

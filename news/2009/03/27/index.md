@@ -22,7 +22,7 @@ _Context: Arctic, Russia, Russian security forces, officially submit a claim_
 _Context: Pope, Pope Benedict XVI, The Lancet, argument against the use, condoms, science_
 
 ### [ The United Kingdom's economy contracted by 1.6% in the fourth quarter of 2008. ](/news/2009/03/27/the-united-kingdom-s-economy-contracted-by-1-6-in-the-fourth-quarter-of-2008.md)
-_Context: 4th quarter of 2007 and the second quarter of 2009, Britain, UK economy, fiscal year_
+_Context: 4th quarter of 2007 and the second quarter of 2009, UK, UK economy, fiscal year_
 
 ### [ Corsican nationalist Yvan Colonna is imprisoned for life for murdering Corse-du-Sud Prefect Claude Erignac in 1998. ](/news/2009/03/27/corsican-nationalist-yvan-colonna-is-imprisoned-for-life-for-murdering-corse-du-sud-prefect-claude-arignac-in-1998.md)
 _Context: Claude Erignac, Corse-du-Sud, Corsica, Prefect, Yvan Colonna, life imprisonment, murder, nationalist_

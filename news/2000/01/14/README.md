@@ -7,7 +7,7 @@ _Context: Dow Jones Industrial Average, dot com bubble_
 _Context: Target Corporation_
 
 ### [An earthquake measuring 5.9 in magnitude occurres in the Yunnan province in southwest China, killing 7 people and injuring at least 2,528 more. Almost 41,000 homes were levelled by the earthquake.](/news/2000/01/14/an-earthquake-measuring-5-9-in-magnitude-occurres-in-the-yunnan-province-in-southwest-china-killing-7-people-and-injuring-at-least-2-528-mo.md)
-_Context: 2000 Yunnan earthquake, China, Yunnan_
+_Context: 2000 Yunnan earthquake, Chinese, Yunnan_
 
 ## [Previous Day...](/news/2000/01/13/index.md)
 

@@ -16,7 +16,7 @@ _Context: Colombia, Colombian President, Fernando Arajo, Mara Consuelo Arajo, Se
 _Context: Colombia, Nevado del Huila_
 
 ### [ A man is arrested over a series of letterbomb attacks that occurred in Britain during the past few weeks. ](/news/2007/02/19/a-man-is-arrested-over-a-series-of-letterbomb-attacks-that-occurred-in-britain-during-the-past-few-weeks.md)
-_Context: Britain, letterbomb_
+_Context: UK, letterbomb_
 
 ### [ A truth commission is set up by East Timor and Indonesia to promote reconciliation after the violence surrounding the 1999 independence referendum. ](/news/2007/02/19/a-truth-commission-is-set-up-by-east-timor-and-indonesia-to-promote-reconciliation-after-the-violence-surrounding-the-1999-independence-ref.md)
 _Context: East Timor, Indonesia, referendum, truth commission_

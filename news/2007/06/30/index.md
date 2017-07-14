@@ -16,7 +16,7 @@ Almost four million Papua New Guineans have begun voting this morning in a natio
 _Context: East Timor, Parliament, go to the polls_
 
 ### [ Hong Kong celebrates the tenth anniversary of the handover from the United Kingdom to the People's Republic of China. ](/news/2007/06/30/hong-kong-celebrates-the-tenth-anniversary-of-the-handover-from-the-united-kingdom-to-the-people-s-republic-of-china.md)
-_Context: Britain, Hong Kong, People's Republic of China, the handover_
+_Context: Hong Kong, People's Republic of China, UK, the handover_
 
 ## [Previous Day...](/news/2007/06/29/index.md)
 

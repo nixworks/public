@@ -10,7 +10,7 @@ A MiG-23 fighter of Libya&#x27;s internationally recognised government was shot 
 _Context: Aden, Yemeni conflict, policemen_
 
 ### [Evgeny Lebedev, the owner of the British national newspaper, ''The Independent'', announces that as of March 2016, the 29-year-old paper will only publish online with print editions coming to an end. ](/news/2016/02/12/evgeny-lebedev-the-owner-of-the-british-national-newspaper-the-independent-announces-that-as-of-march-2016-the-29-year-old-paper-wil.md)
-_Context: Britain, Evgeny Lebedev, The Independent, newspaper_
+_Context: Evgeny Lebedev, The Independent, UK, newspaper_
 
 ### [The death toll from the earthquake rises to 94 with 550 people injured, and at least 30 more missing and believed buried in the apartment complex rubble in Tainan. ](/news/2016/02/12/the-death-toll-from-the-earthquake-rises-to-94-with-550-people-injured-and-at-least-30-more-missing-and-believed-buried-in-the-apartment-co.md)
 _Context: 2016 Taiwan earthquake, Tainan's_
@@ -37,7 +37,7 @@ _Context: Glendale, Arizona, Independence High School, Phoenix, Arizona_
 Thousands of Egyptian doctors demonstrated in Cairo on Friday in a rare protest at what rights groups call police impunity after two doctors were alleged to have been assaulted in a hospital in the city last month.
 
 ### [Stuart Robert representing the Liberal Party, Australia's Minister for Veterans' Affairs and for Human Services, resigns for breaching ministerial standards during his 2014 business trip to China while Assistant Minister for Defence. ](/news/2016/02/12/stuart-robert-representing-the-liberal-party-australia-s-minister-for-veterans-affairs-and-for-human-services-resigns-for-breaching-minis.md)
-_Context: Assistant Minister for Defence, China, Human Services, Liberal Party, Minister for Veterans' Affairs, Stuart Robert_
+_Context: Assistant Minister for Defence, Chinese, Human Services, Liberal Party, Minister for Veterans' Affairs, Stuart Robert_
 
 ### [Salva Kiir, the President of South Sudan, appoints rebel leader Riek Machar as Vice President in a bid to end a two year civil war. ](/news/2016/02/12/salva-kiir-the-president-of-south-sudan-appoints-rebel-leader-riek-machar-as-vice-president-in-a-bid-to-end-a-two-year-civil-war.md)
 South Sudanese President Salva Kiir reappointed rebel leader Riek Machar as his deputy, a key step in a deal to end a two-year civil war that’s killed tens of thousands of people in the oil-producing nation.

@@ -28,7 +28,7 @@ The Chilean government announced that it removed Commander Mariano Rojas over th
 Hosni Mubarak had temporarily handed over power to PM before his gallbladder operation.
 
 ### [At least 11 Philippine soldiers are killed in an ambush by communist rebels in Mansalay, Mindoro. ](/news/2010/03/6/at-least-11-philippine-soldiers-are-killed-in-an-ambush-by-communist-rebels-in-mansalay-mindoro.md)
-_Context: Mansalay, Mindoro, Philippine, communism_
+_Context: Mansalay, Mindoro, Philippines, communism_
 
 ### [Iceland holds a referendum about compensating the United Kingdom and the Netherlands after the collapse of the Icesave bank, with a 95% "no" vote recorded. ](/news/2010/03/6/iceland-holds-a-referendum-about-compensating-the-united-kingdom-and-the-netherlands-after-the-collapse-of-the-icesave-bank-with-a-95-no.md)
 With 83,478 votes counted following Saturday&#039;s referendum in Iceland, 78,092 are votes to reject December&#039;s Icesave law and 1,284 (1.5 percent) have v...

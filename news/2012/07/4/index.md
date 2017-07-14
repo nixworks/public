@@ -10,7 +10,7 @@ A man shot dead four people including his partner before killing himself in a si
 _Context: Baghdad, Iraq_
 
 ### [China accuses the Vatican of obstructing the development of Catholicism after the latter threatens to excommunicate new bishops ordained without papal approval. ](/news/2012/07/4/china-accuses-the-vatican-of-obstructing-the-development-of-catholicism-after-the-latter-threatens-to-excommunicate-new-bishops-ordained-wit.md)
-_Context: Catholic faithful, China, Holy See, Pope, excommunicate_
+_Context: Catholic faithful, Chinese, Holy See, Pope, excommunicate_
 
 ### [British broadcaster George Entwistle is named as the next Director-General of the BBC, beginning in autumn 2012. ](/news/2012/07/4/british-broadcaster-george-entwistle-is-named-as-the-next-director-general-of-the-bbc-beginning-in-autumn-2012.md)
 Current director of BBC Vision, George Entwistle, is announced as the 15th BBC director general.
@@ -22,7 +22,7 @@ _Context: Archaeologists in Israel, Galilee, Samson, mosaic, synagogue_
 British Prime Minister David Cameron has branded a rate fixing scandal which prompted Barclays CEO Bob Diamond to quit as &quot;appalling&quot; and &quot;outrageous.&quot;
 
 ### [Standard & Poor's raises the credit rating of the Philippines to BB+. ](/news/2012/07/4/standard-poor-s-raises-the-credit-rating-of-the-philippines-to-bb.md)
-_Context: Philippine, Standard & Poor's_
+_Context: Philippines, Standard & Poor's_
 
 ### [Egyptian officials deny that newly elected Egyptian President Mohammed Morsi will visit Iran to attend a conference. ](/news/2012/07/4/egyptian-officials-deny-that-newly-elected-egyptian-president-mohammed-morsi-will-visit-iran-to-attend-a-conference.md)
 Cairo says newly elected leader will not be attending conference in Tehran

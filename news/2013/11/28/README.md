@@ -31,7 +31,7 @@ A former Marine charged with murder in the deaths of four homeless men, a woman 
 Thai Prime Minister Yingluck Shinawatra urges anti-government demonstrators to end street protests, after surviving a no-confidence vote in parliament.
 
 ### [China's first lunar vehicle is named 'YuTu' (Chinese:"Yu Tu ", a pet rabbit of Moon goddess in Chinese myth ''see Jade rabbit'') and is planned to launch from Xichang Satellite Launch Center before December 10, 2013. ](/news/2013/11/28/china-s-first-lunar-vehicle-is-named-yutu-chinese-ca-a-pet-rabbit-of-moon-goddess-in-chinese-myth-see-jade-rabbit-and-is-plan.md)
-_Context: China, Jade rabbit, Xichang Satellite Launch Center_
+_Context: Chinese, Jade rabbit, Xichang Satellite Launch Center_
 
 ## [Previous Day...](/news/2013/11/27/index.md)
 

@@ -19,7 +19,7 @@ BSkyB gets Fox&#039;s stakes in Sky Italia and Sky Deutschland, while Fox retain
 _Context: 2014 West Africa Ebola outbreak, Lagos, Liberia, Nigeria_
 
 ### [Food safety incidents in China:McDonald's restaurants stop selling Chicken McNuggets and some other chicken products in Hong Kong, China and Japan from Shanghai Husi Foods that allegedly sold out-of-date items to fast food restaurants. ](/news/2014/07/25/food-safety-incidents-in-china-pmcdonald-s-restaurants-stop-selling-chicken-mcnuggets-and-some-other-chicken-products-in-hong-kong-china-an.md)
-_Context: Chicken McNuggets, China, Fast food, Food safety incidents in China, Hong Kong, Japan, McDonald's_
+_Context: Chicken McNuggets, Chinese, Fast food, Food safety incidents in China, Hong Kong, Japan, McDonald's_
 
 ### [Vietnamese authorities confirm that a shipment of Vietnamese-owned air-to-air missile parts bound for Ukraine was detained by Finland on June 24 after raising concerns the consignment of military hardware violated arms-export regulations. ](/news/2014/07/25/vietnamese-authorities-confirm-that-a-shipment-of-vietnamese-owned-air-to-air-missile-parts-bound-for-ukraine-was-detained-by-finland-on-jun.md)
 A shipment of military hardware bound for Ukraine has been impounded in Helsinki after authorities raised concerns the consignment violated arms-export regulations.

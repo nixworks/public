@@ -58,7 +58,7 @@ Ministers agree to propose joint list of tax havens and approve plan to automati
 &#8203;Federal law enforcement investigators are searching in at least three states for more than 500 pounds of explosives stolen from a CSX train
 
 ### [Human rights activists, lawyers, labor rights groups and other advocates endorse Leni Robredo for vice president. ](/news/2016/04/23/human-rights-activists-lawyers-labor-rights-groups-and-other-advocates-endorse-leni-robredo-for-vice-president.md)
-_Context: Leni Robredo, Philippine presidential election, 2016, human rights, labor rights_
+_Context: Human rights, Leni Robredo, Philippine presidential election, 2016, labor rights_
 
 ### [Rebel leader Riek Machar misses an international deadline to return to the capital Juba to take the post of Vice President. Machar was offered the position by President Salva Kiir Mayardit in the hopes of putting an end to the civil war but has repeatedly delayed his return. ](/news/2016/04/23/rebel-leader-riek-machar-misses-an-international-deadline-to-return-to-the-capital-juba-to-take-the-post-of-vice-president-machar-was-offer.md)
 Government will not allow Riek Machar back until international monitors verify number of weapons troops are bringing.

@@ -10,13 +10,13 @@ Islamic State militants have blown up the ancient temple of Baalshamin at Palmyr
 Seven people have died and over 650,000 people have been affected by floods in Assam. The situation has worsened due to incessant rains across the state.
 
 ### [Typhoon Goni leaves the Philippines with 15 dead and 12 people missing. ](/news/2015/08/23/typhoon-goni-leaves-the-philippines-with-15-dead-and-12-people-missing.md)
-_Context: 2015 Pacific typhoon season, Philippine, Typhoon Goni_
+_Context: 2015 Pacific typhoon season, Philippines, Typhoon Goni_
 
 ### [The number of fatalities in the 2015 Shoreham Airshow crash is "highly likely" to have risen to 11. ](/news/2015/08/23/the-number-of-fatalities-in-the-2015-shoreham-airshow-crash-is-highly-likely-to-have-risen-to-11.md)
 The death toll from the Shoreham air crash where a vintage jet plummeted into traffic is thought to have risen to 11, police say.
 
 ### [Britain and Iran reopen embassies in each others' capitals that had been closed after Iranian protesters stormed the British embassy on November 29, 2011. ](/news/2015/08/23/britain-and-iran-reopen-embassies-in-each-others-capitals-that-had-been-closed-after-iranian-protesters-stormed-the-british-embassy-on-nove.md)
-_Context: Britain, Iran_
+_Context: Iran, UK_
 
 ### [North and South Korea resume talks in the border village of Panmunjon in efforts to defuse recent tensions. ](/news/2015/08/23/north-and-south-korea-resume-talks-in-the-border-village-of-panmunjon-in-efforts-to-defuse-recent-tensions.md)
 _Context: North Korea, Panmunjon, South Korea_

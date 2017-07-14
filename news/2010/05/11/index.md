@@ -25,7 +25,7 @@ _Context: Barack Obama, Deepwater Horizon oil spill, President of the United Sta
 _Context: Aena, Air travel disruption after the 2010 Eyjafjallajkull eruption, Canary Islands', Spain_
 
 ### [9 trapped miners found dead in coal gas leak in northwest China's Gansu Province Tuesday. ](/news/2010/05/11/9-trapped-miners-found-dead-in-coal-gas-leak-in-northwest-china-s-gansu-province-tuesday.md)
-_Context: China, Gansu province_
+_Context: Chinese, Gansu province_
 
 ### [Swedish artist Lars Vilks is headbutted and has his glasses broken by a man sitting in the front row while delivering a lecture about the limits of artistic freedom at Uppsala University, with police using pepper spray and batons on the crowd. ](/news/2010/05/11/swedish-artist-lars-vilks-is-headbutted-and-has-his-glasses-broken-by-a-man-sitting-in-the-front-row-while-delivering-a-lecture-about-the-li.md)
 _Context: Lars Vilks, Sweden, Uppsala University, baton, headbutt, pepper spray_
@@ -34,7 +34,7 @@ _Context: Lars Vilks, Sweden, Uppsala University, baton, headbutt, pepper spray_
 _Context: 2010 FIFA World Cup, Sipho Nkumane, South Africa national football team, South African Football Association, Victor Nosi_
 
 ### [China cracks down on dissenters, banning two leading human rights lawyers from practicing and exiling a leading HIV/AIDS campaigner from the country. ](/news/2010/05/11/china-cracks-down-on-dissenters-banning-two-leading-human-rights-lawyers-from-practicing-and-exiling-a-leading-hiv-aids-campaigner-from-the.md)
-_Context: AIDS, China, Chinese human rights, dissident_
+_Context: AIDS, Chinese, Chinese human rights, dissident_
 
 ### [Pakistan's ambassador to Iran, Mohammad Bakhsh Abbasi, is hospitalised after becoming injured in an attack by an Afghan on his car in Tehran. ](/news/2010/05/11/pakistan-s-ambassador-to-iran-mohammad-bakhsh-abbasi-is-hospitalised-after-becoming-injured-in-an-attack-by-an-afghan-on-his-car-in-tehran.md)
 _Context: Afghanistan, Iran, Mohammad Bakhsh Abbasi, Pakistan, Tehran_

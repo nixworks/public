@@ -16,7 +16,7 @@ _Context: Christian, Islam, Pope Benedict XVI_
 _Context: Turkey, US House of Representatives, United States, genocide of Armenians_
 
 ### [ The British writer Doris Lessing wins the 2007 Nobel Prize in Literature. ](/news/2007/10/11/the-british-writer-doris-lessing-wins-the-2007-nobel-prize-in-literature.md)
-_Context: Britain, Doris Lessing, Nobel Prize in Literature, writer_
+_Context: Doris Lessing, Nobel Prize in Literature, UK, writer_
 
 ## [Previous Day...](/news/2007/10/10/index.md)
 

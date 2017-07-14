@@ -19,7 +19,7 @@ _Context: 2012 BRIT Awards, Adele, British people, Coldplay, Ed Sheeran, London,
 Euro zone finance ministers struck a deal for a second bailout program for Greece that will involve financing of 130 billion euros.
 
 ### [A blast at a steel plant in Liaoning, northeastern China, kills 13 people and injures 17. ](/news/2012/02/21/a-blast-at-a-steel-plant-in-liaoning-northeastern-china-kills-13-people-and-injures-17.md)
-_Context: China, Liaoning_
+_Context: Chinese, Liaoning_
 
 ### [The speaker of the South Korean National Assembly is charged with bribery. ](/news/2012/02/21/the-speaker-of-the-south-korean-national-assembly-is-charged-with-bribery.md)
 SEOUL, Feb. 21 (Yonhap) -- National Assembly Speaker Park Hee-tae was indicted without physical detention on Tuesday for bribing a fellow ruling party lawmaker before being elected as party chairman in 2008, prosecutors said.

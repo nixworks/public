@@ -37,7 +37,7 @@ By Alisa TangBANGKOK (Thomson Reuters Foundation) - The estimated number of adol
 _Context: Emirati martyrs, Martyrs' Day (United Arab Emirates), United Arab Emirates_
 
 ### [South Korea's parliament approves a free trade pact with China after opposition lawmakers, concerned that deal that would hurt agriculture and fisheries, secured a $1.4 billion relief package for farmers. ](/news/2015/11/30/south-korea-s-parliament-approves-a-free-trade-pact-with-china-after-opposition-lawmakers-concerned-that-deal-that-would-hurt-agriculture-a.md)
-_Context: China, South Korea, agriculture, fisheries, free trade, parliamentary review_
+_Context: Chinese, South Korea, agriculture, fisheries, free trade, parliamentary review_
 
 ### [Around 150 world leaders attend the UN Climate Change Conference in Paris, aiming for a global deal on limiting greenhouse gas emissions. ](/news/2015/11/30/around-150-world-leaders-attend-the-un-climate-change-conference-in-paris-aiming-for-a-global-deal-on-limiting-greenhouse-gas-emissions.md)
 _Context: 2015 United Nations Climate Change Conference, Paris, greenhouse gas_

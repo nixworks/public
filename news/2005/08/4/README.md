@@ -7,7 +7,7 @@ _Context: Ayman al-Zawahri, Foreign Policy, July 2005 London bombings, Tony Blai
 _Context: Betar Illit, Bethlehem, Israel, Israeli settlement, Israeli-Palestinian conflict, West Bank_
 
 ### [ In the UK, the Bank of England's Monetary Policy Committee has cut its interest rate by a quarter percent to 4.5% ](/news/2005/08/4/in-the-uk-the-bank-of-england-s-monetary-policy-committee-has-cut-its-interest-rate-by-a-quarter-percent-to-4-5.md)
-_Context: Britain, Monetary Policy Committee_
+_Context: Monetary Policy Committee, UK_
 
 ### [ The leaders of the recent bloodless Coup in Mauritania name Ely Ould Mohamed Vall, former national police chief,  as the new president of the country ](/news/2005/08/4/the-leaders-of-the-recent-bloodless-coup-in-mauritania-name-ely-ould-mohamed-vall-former-national-police-chief-as-the-new-president-of-t.md)
 _Context: Ely Ould Mohamed Vall, Mauritania_
@@ -19,7 +19,7 @@ _Context: Seoul National University, Snuppy, South Korea, cloning_
 _Context: 2008, 2020, New Zealand Labour Party, Waitangi Tribunal_
 
 ### [ Negotiations between the Philippines government and the National Democratic Front, the political wings of the Communist Party of the Philippines, break down. The Government has ended immunity of their members from arrest ](/news/2005/08/4/negotiations-between-the-philippines-government-and-the-national-democratic-front-the-political-wings-of-the-communist-party-of-the-philip.md)
-_Context: Communist Party, Philippine_
+_Context: Communist Party, Philippines_
 
 ### [ The African Union suspends Mauritania from the group after the recent coup.  ](/news/2005/08/4/the-african-union-suspends-mauritania-from-the-group-after-the-recent-coup.md)
 _Context: African Union, Mauritania, coup_

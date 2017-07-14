@@ -19,7 +19,7 @@ _Context: Fatah, Gaza Strip, Hamas, Qassam rocket_
 _Context: F-16, New Jersey, New Jersey National Guard, Pinelands National Reserve, flare, wildfire_
 
 ### [ The United Kingdom's Ministry of Defence announces that HRH Prince Harry of the British Royal Family will not be deployed to Iraq as originally planned, due to the security risks to both himself and his regiment the Blues and Royals. ](/news/2007/05/16/the-united-kingdom-s-ministry-of-defence-announces-that-hrh-prince-harry-of-the-british-royal-family-will-not-be-deployed-to-iraq-as-origin.md)
-_Context: Blues and Royals, Britain, British Royal Family, HRH, Iraq, Ministry of Defence, Prince Harry_
+_Context: Blues and Royals, British Royal Family, HRH, Iraq, Ministry of Defence, Prince Harry, UK_
 
 ## [Previous Day...](/news/2007/05/15/index.md)
 

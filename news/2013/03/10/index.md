@@ -7,7 +7,7 @@ _Context: Afghan Taliban, Afghanistan, Afghanistan President, Hamid Karzai, U.S.
 _Context: 2013 in Pakistan, Christian, Christian, Lahore, Pakistan_
 
 ### [Nigerian Sharia conflict:Nigerian militants belonging to Ansar al-Muslimeen claim responsibility to kidnapping and killing Italian, Greek, and British construction workers in Northern Nigeria. ](/news/2013/03/10/nigerian-sharia-conflict-pnigerian-militants-belonging-to-ansar-al-muslimeen-claim-responsibility-to-kidnapping-and-killing-italian-greek.md)
-_Context: Ansaru, Britain, Greece, Italian, Nigeria, Nigerian Sharia conflict, Northern Nigeria_
+_Context: Ansaru, Greece, Italian, Nigeria, Nigerian Sharia conflict, Northern Nigeria, UK_
 
 ### [Daylight saving time goes into effect across the United States (except Arizona and Hawaii) and Canada (except Saskatchewan). ](/news/2013/03/10/daylight-saving-time-goes-into-effect-across-the-united-states-except-arizona-and-hawaii-and-canada-except-saskatchewan.md)
 Canadians in provinces that use daylight saving time during the summer months will need to adjust their clocks back by an hour at 2 a.m. on Sunday Nov. 1 for the switch to local standard time.

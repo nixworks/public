@@ -13,7 +13,7 @@ _Context: Federal Bureau of Investigation, attack on the U.S. Consulate in Bengh
 _Context: Chief Executive, Lamma Island, Leung Chun-ying, ferry collision, national mourning, three minutes of silence_
 
 ### [A landslide buries at least 19 people in the southwestern Chinese province of Yunnan with 18 later confirmed dead and one missing. ](/news/2012/10/4/a-landslide-buries-at-least-19-people-in-the-southwestern-chinese-province-of-yunnan-with-18-later-confirmed-dead-and-one-missing.md)
-_Context: China, Yunnan_
+_Context: Chinese, Yunnan_
 
 ### [Expelled Ulster Unionist Party member David McNarry, who represents Strangford, joins the UK Independence Party, giving it its first representative in any of the devolved assemblies in Britain and Northern Ireland. ](/news/2012/10/4/expelled-ulster-unionist-party-member-david-mcnarry-who-represents-strangford-joins-the-uk-independence-party-giving-it-its-first-represe.md)
 A Northern Ireland Assembly member, who was expelled from the Ulster Unionist Party in the summer, has joined the UK Independence&hellip;

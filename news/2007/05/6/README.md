@@ -4,7 +4,7 @@
 _Context: Gaza Strip, United Nations, clashes_
 
 ### [ HaMoked Center for the Defense of the Individual and B'Tselem, Israeli human rights organizations, accuse the Israeli Defense Ministry of abusing Palestinian detainees in 73 cases. The Justice Ministry said the report was "fraught with mistakes, groundless claims and inaccuracies." ](/news/2007/05/6/hamoked-center-for-the-defense-of-the-individual-and-b-tselem-israeli-human-rights-organizations-accuse-the-israeli-defense-ministry-of-a.md)
-_Context: B'Tselem, Israel, Palestinian, human rights_
+_Context: B'Tselem, Human rights, Israel, Palestinian_
 
 ### [ Foreign Minister Abdullah Gl withdraws his candidacy from the 2007 Turkish presidential election after failing to win the support of secular lawmakers. ](/news/2007/05/6/foreign-minister-abdullah-gul-withdraws-his-candidacy-from-the-2007-turkish-presidential-election-after-failing-to-win-the-support-of-secul.md)
 Abdullah Gul withdrew his candidacy for Turkey’s presidency today, ending a political struggle.

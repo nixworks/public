@@ -28,7 +28,7 @@ _Context: Democratic Republic of the Congo, Goma, Rwanda_
 A U.S. call for NATO to launch direct attacks on the drugs trade fueling the Taliban insurgency in Afghanistan ran into opposition from Germany and others on Thursday, but Berlin said it still hoped for an agreement.
 
 ### [ Court in the United Kingdom hears of how two doctors planned car bomb attacks on London and Glasgow airports in revenge for how UK was treating Muslims ](/news/2008/10/9/court-in-the-united-kingdom-hears-of-how-two-doctors-planned-car-bomb-attacks-on-london-and-glasgow-airports-in-revenge-for-how-uk-was-trea.md)
-_Context: Britain, Glasgow, London, planned car bomb attacks_
+_Context: Glasgow, London, UK, planned car bomb attacks_
 
 ### [ NATO plans on sending seven warships to protect United Nations food aid from Piracy in Somalia. ](/news/2008/10/9/nato-plans-on-sending-seven-warships-to-protect-united-nations-food-aid-from-piracy-in-somalia.md)
 _Context: NATO, Somali pirates, United Nations_

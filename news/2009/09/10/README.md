@@ -28,7 +28,7 @@ _Context: Abkhazia, Hugo Chavez, Russia, South Ossetia, Venezuela, recognition_
 Afghan journalists have expressed anger over the killing of a local reporter during the rescue operation that saved his British-Irish colleague.
 
 ### [ British consul John Terry is murdered in Jamaica. ](/news/2009/09/10/british-consul-john-terry-is-murdered-in-jamaica.md)
-_Context: Britain, Jamaica_
+_Context: Jamaica, UK_
 
 ### [ Greek militant group Revolutionary Struggle threatens to attack the "golden boys" it blames for the economic crisis as it claims responsibility for the Athens stock market bombing. ](/news/2009/09/10/greek-militant-group-revolutionary-struggle-threatens-to-attack-the-golden-boys-it-blames-for-the-economic-crisis-as-it-claims-responsibi.md)
 Greek militant group Revolutionary Struggle have threatened to attack the &#39;golden boys&#39; it blames for the economic crisis.

@@ -4,7 +4,7 @@
 Britain&#39;s Chancellor of the Exchequer is among nine cabinet members who allegedly used taxpayers&#39; money to pay for personal accountancy advice.
 
 ### [ Tsakhiagiin Elbegdorj of the Democratic Party is elected as President of Mongolia. ](/news/2009/05/25/tsakhiagiin-elbegdorj-of-the-democratic-party-is-elected-as-president-of-mongolia.md)
-_Context: Democratic Party, Mongolia, Tsakhiagiin Elbegdorj, elected, president_
+_Context: Democratic Party, Mongolia, President of Mongolia, Tsakhiagiin Elbegdorj, elected_
 
 ### [ North Korea conducts its second nuclear test. ](/news/2009/05/25/north-korea-conducts-its-second-nuclear-test.md)
 North Korea&#039;s state media has confirmed the communist state has conducted a nuclear weapons test.

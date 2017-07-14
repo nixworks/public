@@ -10,13 +10,13 @@ Small protests against Japan are held in several Chinese cities on a senstitive 
 Deadly clashes erupt between Mauritanian troops and militants linked to al-Qaeda in northern Mali after Mauritania launches an operation against the militants, reports say.
 
 ### [British pop star George Michael is transferred from Pentonville Prison to Highpoint Prison in Suffolk, England, to serve out the remaining weeks of his sentence for driving under the influence of cannabis. ](/news/2010/09/18/british-pop-star-george-michael-is-transferred-from-pentonville-prison-to-highpoint-prison-in-suffolk-england-to-serve-out-the-remaining-w.md)
-_Context: Britain, England, George Michael, Highpoint Prison, Pentonville Prison, Suffolk, driving under the influence, marijuana_
+_Context: England, George Michael, Highpoint Prison, Pentonville Prison, Suffolk, UK, driving under the influence, marijuana_
 
 ### [Chileans celebrate the 200th anniversary of Chilean Independence Day as do the 33 miners trapped underground in the 2010 Copiap mining accident. ](/news/2010/09/18/chileans-celebrate-the-200th-anniversary-of-chilean-independence-day-as-do-the-33-miners-trapped-underground-in-the-2010-copiapo-mining-acci.md)
 _Context: 200th anniversary, 2010 Copiap mining accident, Chile, Chilean Independence Day_
 
 ### [China slightly increased its holdings of  United States treasury debt to US$846.7 billion, this July. ](/news/2010/09/18/china-slightly-increased-its-holdings-of-united-states-treasury-debt-to-us-846-7-billion-this-july.md)
-_Context:  debt, China_
+_Context:  debt, Chinese_
 
 ### [A large storm in New Zealand leaves 100,000 people without power and takes the roof off Stadium Southland in Invercargill on the South Island. ](/news/2010/09/18/a-large-storm-in-new-zealand-leaves-100-000-people-without-power-and-takes-the-roof-off-stadium-southland-in-invercargill-on-the-south-islan.md)
 _Context: Invercargill, New Zealand, South Island, Stadium Southland_

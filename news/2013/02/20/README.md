@@ -13,7 +13,7 @@ _Context: Japan, trade deficit_
 Estonia has become the first country in the world to install a nationwide system of fast chargers for electrical vehicles, the manager of the new system said, as part of European efforts to reduce carbon emissions.
 
 ### [David Cameron, the Prime Minister of the United Kingdom, visits the Indian city of Amritsar to express remorse for the Jallianwala Bagh massacre on 13 April 1919. ](/news/2013/02/20/david-cameron-the-prime-minister-of-the-united-kingdom-visits-the-indian-city-of-amritsar-to-express-remorse-for-the-jallianwala-bagh-mass.md)
-_Context: Amritsar, Britain, David Cameron, India, Jallianwala Bagh massacre, Prime Minister_
+_Context: Amritsar, David Cameron, India, Jallianwala Bagh massacre, Prime Minister, UK_
 
 ### [Japanese whaling vessels clash with Sea Shepherd Conservation Society Neptune's Navy boats in the Southern Ocean with the MY ''Steve Irwin'' and MY ''Bob Barker'' sustaining damage. ](/news/2013/02/20/japanese-whaling-vessels-clash-with-sea-shepherd-conservation-society-neptune-s-navy-boats-in-the-southern-ocean-with-the-my-steve-irwin.md)
 Dramatic images have been sent from the Antarctic of the Japanese whaling factory ship Nisshin Maru colliding with other ships - including its own fuel-laden tanker.

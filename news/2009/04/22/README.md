@@ -1,7 +1,7 @@
 ## [2009-04-22](/news/2009/04/22/index.md)
 
 ### [ The United Kingdom's new government budget will increase borrowing and tax high-income earners to 50%. ](/news/2009/04/22/the-united-kingdom-s-new-government-budget-will-increase-borrowing-and-tax-high-income-earners-to-50.md)
-_Context: Britain, His Majesty's Government, budget, government debt, income tax, tax_
+_Context: His Majesty's Government, UK, budget, government debt, income tax, tax_
 
 ### [ South Africa's general election begins. ](/news/2009/04/22/south-africa-s-general-election-begins.md)
 _Context: South Africa, loses_

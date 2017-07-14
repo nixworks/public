@@ -22,7 +22,7 @@ _Context: Carthage, North Carolina, United States, kills, nursing home_
 _Context: 156th University Boat Race, Cambridge Boat Club, England, London, Oxford Boat Club_
 
 ### [ Home Secretary Jacqui Smith will recompense the United Kingdom's government for her husband's purchase of pornographic films through her expense account. ](/news/2009/03/29/home-secretary-jacqui-smith-will-recompense-the-united-kingdom-s-government-for-her-husband-s-purchase-of-pornographic-films-through-her-ex.md)
-_Context: Britain, His Majesty's Government, Home Secretary, Jacqui Smith, expense account, pornographic film_
+_Context: His Majesty's Government, Home Secretary, Jacqui Smith, UK, expense account, pornographic film_
 
 ### [ A stampede kills 22 people and injures at least 130 during a 2010 FIFA World Cup qualifying match in Abidjan, Ivory Coast. ](/news/2009/03/29/a-stampede-kills-22-people-and-injures-at-least-130-during-a-2010-fifa-world-cup-qualifying-match-in-abidjan-ivory-coast.md)
 _Context: 2010 FIFA World Cup, Abidjan, Cte d'Ivoire, qualifying match, stampede_

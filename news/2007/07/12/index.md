@@ -4,7 +4,7 @@
 _Context: Africa, Lesotho, United Nations_
 
 ### [ Two British teenagers are arrested at the Kotoka International Airport in Accra, Ghana, for attempting to smuggle 6.5 kg of cocaine worth PS300,000 to the UK.](/news/2007/07/12/two-british-teenagers-are-arrested-at-the-kotoka-international-airport-in-accra-ghana-for-attempting-to-smuggle-6-5-kg-of-cocaine-worth-a.md)
-_Context: Accra, Britain, Ghana, Kotoka International Airport, cocaine_
+_Context: Accra, Ghana, Kotoka International Airport, UK, cocaine_
 
 ### [ An attorney convicted of leaking evidence given by U.S. baseball player Barry Bonds and other athletes from the Bay Area Laboratory Co-operative (BALCO) Inquiry is sentenced to two and a half years in prison. ](/news/2007/07/12/an-attorney-convicted-of-leaking-evidence-given-by-u-s-baseball-player-barry-bonds-and-other-athletes-from-the-bay-area-laboratory-co-oper.md)
 _Context: Barry Bonds, Bay Area Laboratory Co-operative_
@@ -25,7 +25,7 @@ Nepal&#039;s Government has scrapped payments to King Gyanendra and vowed to nat
 _Context: Fatah al-Islam, Lebanon, Nahr al-Bared, Tripoli, Lebanon, army, refugee camp_
 
 ### [ A Philippines ferry, the MV ''Blue Water Princess'', sinks off the southeastern coast of Luzon, leading to four deaths and 18 people being declared missing. ](/news/2007/07/12/a-philippines-ferry-the-mv-blue-water-princess-sinks-off-the-southeastern-coast-of-luzon-leading-to-four-deaths-and-18-people-being.md)
-_Context: Luzon, Philippine, ferry_
+_Context: Luzon, Philippines, ferry_
 
 ### [ Iraq War: An interim report says the Iraqi government has made "mixed progress" on the goals set out by the U.S. Congress. ](/news/2007/07/12/iraq-war-p-an-interim-report-says-the-iraqi-government-has-made-mixed-progress-on-the-goals-set-out-by-the-u-s-congress.md)
 _Context: Government of Iraq, Iraq, Iraq War, U.S. Congress, interim_

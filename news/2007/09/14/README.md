@@ -7,7 +7,7 @@ _Context: (Wikinews), Finland, Russia_
 _Context: Chrysler, Honda Civic, Honda Motor Co., SUV, braking_
 
 ### [ There is a run on the Northern Rock bank in the United Kingdom following revelations that it sought a rescue injection of funds from the Bank of England. ](/news/2007/09/14/there-is-a-run-on-the-northern-rock-bank-in-the-united-kingdom-following-revelations-that-it-sought-a-rescue-injection-of-funds-from-the-ba.md)
-_Context: Bank of England, Britain, Northern Rock, bank, run_
+_Context: Bank of England, Northern Rock, UK, bank, run_
 
 ### [ War in Iraq: U.S. General Peter Pace, outgoing chair of the Joint Chiefs of Staff, acknowledges that mistakes were made during the war. ](/news/2007/09/14/war-in-iraq-p-u-s-general-peter-pace-outgoing-chair-of-the-joint-chiefs-of-staff-acknowledges-that-mistakes-were-made-during-the-war.md)
 _Context: General, Joint Chiefs of Staff, Peter Pace, War in Iraq_

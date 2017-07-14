@@ -16,7 +16,7 @@ _Context: 2004, Armin Meiwes, Germany_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ In the UK, the National Portrait Gallery states that the so-called "Flower portrait" of William Shakespeare is a 19th-century forgery. ](/news/2005/04/22/in-the-uk-the-national-portrait-gallery-states-that-the-so-called-flower-portrait-of-william-shakespeare-is-a-19th-century-forgery.md)
-_Context: Britain, Flower portrait, National Portrait Gallery, William Shakespeare, forgery_
+_Context: Flower portrait, National Portrait Gallery, UK, William Shakespeare, forgery_
 
 ### [ Canadian prime minister Paul Martin promises in a televised address to call for an early general election once the Gomery inquiry into the current corruption scandal is over. ](/news/2005/04/22/canadian-prime-minister-paul-martin-promises-in-a-televised-address-to-call-for-an-early-general-election-once-the-gomery-inquiry-into-the.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

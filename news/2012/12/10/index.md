@@ -10,13 +10,13 @@ Afghan police say a roadside bombing has killed the police chief of a southern p
 Google Inc began selling basic laptop computers to schools at a price of $99, meeting a price point that prominent MIT professor Nicholas Negroponte famously held out in 2005 as key to bringing computing power to the masses.
 
 ### [The death toll in the Philippines from Typhoon Bopha rises to 647 with 780 people still missing. ](/news/2012/12/10/the-death-toll-in-the-philippines-from-typhoon-bopha-rises-to-647-with-780-people-still-missing.md)
-_Context: Philippine, Typhoon Bopha_
+_Context: Philippines, Typhoon Bopha_
 
 ### [A New Zealand Royal Commission finds that the CTV Building that collapsed during the 2011 Christchurch earthquake killing 115 people was poorly designed and built and should not have received a building permit. ](/news/2012/12/10/a-new-zealand-royal-commission-finds-that-the-ctv-building-that-collapsed-during-the-2011-christchurch-earthquake-killing-115-people-was-poo.md)
 _Context: 2011 Christchurch earthquake, CTV Building, New Zealand, Royal Commission_
 
 ### [Eleven people are killed and 23 injured in Minquan County, Henan province, China, after a passenger bus swerves off the road and falls in a roadside pond. ](/news/2012/12/10/eleven-people-are-killed-and-23-injured-in-minquan-county-henan-province-china-after-a-passenger-bus-swerves-off-the-road-and-falls-in-a.md)
-_Context: China, Henan Province, Minquan County, bus, pond_
+_Context: Chinese, Henan Province, Minquan County, bus, pond_
 
 ### [At least nine people are killed and at 32 others are wounded in Tolima department, Colombia, after a bus falls of a 300-meter cliff. ](/news/2012/12/10/at-least-nine-people-are-killed-and-at-32-others-are-wounded-in-tolima-department-colombia-after-a-bus-falls-of-a-300-meter-cliff.md)
 _Context: Colombia, Tolima department_

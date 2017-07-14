@@ -34,7 +34,7 @@ A damning report on St Patrick&#39;s Institution in Dublin has found a culture t
 The judge who led the inquiry into serial killer Harold Shipman will chair an investigation into Sir Jimmy Savile&rsquo;s alleged abuse of children at the BBC.
 
 ### [The United Kingdom announces its intention to close its consulate in Basra, Iraq. ](/news/2012/10/16/the-united-kingdom-announces-its-intention-to-close-its-consulate-in-basra-iraq.md)
-_Context: Basra, Britain, Iraq, its consulate_
+_Context: Basra, Iraq, UK, its consulate_
 
 ### [The British computer hacker Gary McKinnon wins his ten-year legal battle to avoid extradition to the United States after Home Secretary Theresa May tells the House of Commons she has blocked the order. ](/news/2012/10/16/the-british-computer-hacker-gary-mckinnon-wins-his-ten-year-legal-battle-to-avoid-extradition-to-the-united-states-after-home-secretary-ther.md)
 The mother of British computer hacker Gary McKinnon says she is &quot;overwhelmed&quot; after the UK blocked his extradition to the US, ending a 10-year ordeal.

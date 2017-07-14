@@ -37,7 +37,7 @@ _Context: Cambodia, Thailand, Thaksin_
 _Context: Afghanistan, United Nations_
 
 ### [ France's Europe Minister Pierre Lellouche describes the UK's Conservative Party pledge to return powers from Brussels to London as "pathetic". ](/news/2009/11/5/france-s-europe-minister-pierre-lellouche-describes-the-uk-s-conservative-party-pledge-to-return-powers-from-brussels-to-london-as-patheti.md)
-_Context: Britain, Conservative Party, France, Pierre Lellouche_
+_Context: Conservative Party, France, Pierre Lellouche, UK_
 
 ### [ Two senior Indonesian officials resign over a plot to weaken the anti-corruption agency. ](/news/2009/11/5/two-senior-indonesian-officials-resign-over-a-plot-to-weaken-the-anti-corruption-agency.md)
 _Context: Indonesia_

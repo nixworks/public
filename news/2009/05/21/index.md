@@ -10,7 +10,7 @@ _Context: Egypt, Hisham Talaat Moustafa, Lebanon, Suzanne Tamim, businessman, co
 _Context: Belgrade, President, Serbia, grenade, official residence_
 
 ### [ Her Majesty's Government will allow retired Gurkhas who served in the Armed Forces to settle in the United Kingdom. ](/news/2009/05/21/her-majesty-s-government-will-allow-retired-gurkhas-who-served-in-the-armed-forces-to-settle-in-the-united-kingdom.md)
-_Context: Britain, British military personnel, Gurkha, His Majesty's Government_
+_Context: British military personnel, Gurkha, His Majesty's Government, UK_
 
 ### [ Apa Sherpa summits Mount Everest for the 19th time. ](/news/2009/05/21/apa-sherpa-summits-mount-everest-for-the-19th-time.md)
 _Context: Apa, Mount Everest_

@@ -10,7 +10,7 @@ _Context: Cardinal, Germany, Papal conclave, 2005, Pope, Pope Benedict XVI, Vati
 _Context: MyPyramid, United States Department of Agriculture, basic food groups, food guide pyramid_
 
 ### [ The United Iraqi Alliance, the leading coalition in the new Government of Iraq, demands the death penalty for Saddam Hussein, accused of genocide in Kurdistan as well as torture and other human rights violations in Baghdad. ([http://www.aljazeera.com/me.asp?service_ID=7807 Al Jazeera])](/news/2005/04/19/the-united-iraqi-alliance-the-leading-coalition-in-the-new-government-of-iraq-demands-the-death-penalty-for-saddam-hussein-accused-of-ge.md)
-_Context: Baghdad, Government of Iraq, Kurdish, Saddam Hussein, United Iraqi Alliance, coalition, death penalty, genocide, human rights, torture_
+_Context: Baghdad, Government of Iraq, Human rights, Kurdish, Saddam Hussein, United Iraqi Alliance, coalition, death penalty, genocide, torture_
 
 ### [ Victims and families observe 168 seconds of silence on the tenth anniversary of the Oklahoma City bombing at 9:02 a.m. (local time). ](/news/2005/04/19/victims-and-families-observe-168-seconds-of-silence-on-the-tenth-anniversary-of-the-oklahoma-city-bombing-at-9-02-a-m-local-time.md)
 _Context: Oklahoma City bombing, silence_
@@ -58,7 +58,7 @@ _Context: Christie's, Iran, Persian_
 _Context: European Union Constitution, Greece_
 
 ### [ President of Pakistan Pervez Musharraf meets the president of the Philippines, Gloria Arroyo, in Manila. ](/news/2005/04/19/president-of-pakistan-pervez-musharraf-meets-the-president-of-the-philippines-gloria-arroyo-in-manila.md)
-_Context: Gloria Arroyo, Manila, Pakistan, Pervez Musharraf, Philippine_
+_Context: Gloria Arroyo, Manila, Pakistan, Pervez Musharraf, Philippines_
 
 ### [ Zanzibar bars foreign workers. ](/news/2005/04/19/zanzibar-bars-foreign-workers.md)
 _Context: Zanzibar_

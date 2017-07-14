@@ -19,7 +19,7 @@ _Context: Michael Misick, Premier of the Turks and Caicos Islands, Turks and Cai
 _Context: 14th Dalai Lama, Dalai Lama, Johannesburg, South Africa, peace conference, visa-free travel_
 
 ### [ The United Kingdom's Retail Prices Index reaches zero percent for the first time since 1960. ](/news/2009/03/24/the-united-kingdom-s-retail-prices-index-reaches-zero-percent-for-the-first-time-since-1960.md)
-_Context: Britain, Retail Prices Index_
+_Context: Retail Prices Index, UK_
 
 ### [ Sixteen militants and eight Indian Army soldiers are killed in Jammu and Kashmir's Kupwara District. ](/news/2009/03/24/sixteen-militants-and-eight-indian-army-soldiers-are-killed-in-jammu-and-kashmir-s-kupwara-district.md)
 _Context: India, Indian Army, Insurgency in Jammu and Kashmir, Jammu and Kashmir, Kupwara District, militant, soldier_

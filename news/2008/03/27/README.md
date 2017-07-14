@@ -13,7 +13,7 @@ Puerto Rican Gov. Anibal Acevedo Vila and 12 political associates in the Caribbe
 _Context: Bavaria, Germany, Munich, Transrapid, airport, monorail_
 
 ### [ Airbus parent EADS wins a 13 billion contract for airtankers from the United Kingdom. ](/news/2008/03/27/airbus-parent-eads-wins-a-ps13-billion-contract-for-airtankers-from-the-united-kingdom.md)
-_Context: , Airbus, Britain, EADS_
+_Context: , Airbus, EADS, UK_
 
 ### [ The oldest known recording of a human voice, created with a phonautograph by douard-Lon Scott de Martinville on April 9, 1860 is replayed by American researchers. ](/news/2008/03/27/the-oldest-known-recording-of-a-human-voice-created-with-a-phonautograph-by-edouard-leon-scott-de-martinville-on-april-9-1860-is-replayed.md)
 A recording found in Paris is believed to predate Thomas Edison’s invention of the phonograph by nearly 20 years.

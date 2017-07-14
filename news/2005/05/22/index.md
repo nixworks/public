@@ -1,7 +1,7 @@
 ## [2005-05-22](/news/2005/05/22/index.md)
 
 ### [ In Shenzhen, China, what is believed to be the largest urban demolition blast in China uses 1,500 lb (680&nbsp;kg) of explosives to simultaneously topple 16 tower blocks. Because of misplaced charges, one tower does not topple, but is reduced from 14 stories to 12, and will have to be demolished manually. ](/news/2005/05/22/in-shenzhen-china-what-is-believed-to-be-the-largest-urban-demolition-blast-in-china-uses-1-500-lb-680-nbsp-kg-of-explosives-to-simulta.md)
-_Context: China, Shenzhen_
+_Context: Chinese, Shenzhen_
 
 ### [ Ariel Sharon, the Prime Minister of Israel, was heckled and booed at a meeting to promote the planned Israeli withdrawal from the Gaza Strip by several U.S. Jews. ](/news/2005/05/22/ariel-sharon-the-prime-minister-of-israel-was-heckled-and-booed-at-a-meeting-to-promote-the-planned-israeli-withdrawal-from-the-gaza-stri.md)
 _Context: Ariel Sharon, Gaza Strip, Israel, Israeli Prime Minister, Jew, United States_
@@ -10,7 +10,7 @@ _Context: Ariel Sharon, Gaza Strip, Israel, Israeli Prime Minister, Jew, United 
 _Context: Dome of the Rock, First Lady, Israel, Laura Bush, Palestinian, Wailing Wall_
 
 ### [ The British government declines a request from the families of soldiers killed in Iraq for an investigation into the legality of the war. ](/news/2005/05/22/the-british-government-declines-a-request-from-the-families-of-soldiers-killed-in-iraq-for-an-investigation-into-the-legality-of-the-war.md)
-_Context: 2003 invasion of Iraq, Britain, Iraq_
+_Context: 2003 invasion of Iraq, Iraq, UK_
 
 ### [ Israel arrests a 15-year-old Palestinian at a Hawara checkpoint, near Nablus, wearing a suicide bomb belt. ](/news/2005/05/22/israel-arrests-a-15-year-old-palestinian-at-a-hawara-checkpoint-near-nablus-wearing-a-suicide-bomb-belt.md)
 _Context: Hawara, Israel, Nablus, Palestinian, suicide bomber_

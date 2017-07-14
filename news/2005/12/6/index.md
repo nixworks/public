@@ -7,7 +7,7 @@ _Context: BBC World Service, Central Intelligence Agency, Romania, extraordinary
 _Context: C-130 Hercules, Iran, Tehran, crashes into a ten-story building_
 
 ### [ David Cameron wins the leadership election for the United Kingdom Conservative Party. ](/news/2005/12/6/david-cameron-wins-the-leadership-election-for-the-united-kingdom-conservative-party.md)
-_Context: Britain, Conservative Party, David Cameron, leadership election_
+_Context: Conservative Party, David Cameron, UK, leadership election_
 
 ### [ The World Wide Fund for Nature (WWF) photographs what appears to be a new species in Borneo. The lemur-like carnivorous mammal is apparently a member of the viverrid family, related to the mongoose and civet. ](/news/2005/12/6/the-world-wide-fund-for-nature-wwf-photographs-what-appears-to-be-a-new-species-in-borneo-the-lemur-like-carnivorous-mammal-is-apparentl.md)
 _Context: Borneo's, World Wildlife Fund, civet, lemur, mammal, mongoose, new species, viverrid_
@@ -22,7 +22,7 @@ _Context: Red Cross, Red Crystal_
 _Context: Iraq, President, Saddam Hussein, deposed_
 
 ### [ At least 123 miners are missing following an explosion at a coal mine in China's Hebei province, the official Xinhua news agency says. ](/news/2005/12/6/at-least-123-miners-are-missing-following-an-explosion-at-a-coal-mine-in-china-s-hebei-province-the-official-xinhua-news-agency-says.md)
-_Context: China, Hebei, province_
+_Context: Chinese, Hebei, province_
 
 ### [ South Africa's axed deputy president Jacob Zuma, who lost his job in post-apartheid South Africa's most sensational corruption scandal, has been charged with rape. ](/news/2005/12/6/south-africa-s-axed-deputy-president-jacob-zuma-who-lost-his-job-in-post-apartheid-south-africa-s-most-sensational-corruption-scandal-has.md)
 _Context: Deputy President, Jacob Zuma, South Africa, rape_

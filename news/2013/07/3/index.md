@@ -13,7 +13,7 @@ The death toll from a strong 6.1-magnitude earthquake that struck the Indonesian
 Bolivia accuses European states of &quot;aggression&quot; after its presidential plane was apparently forced to land and searched for Edward Snowden.
 
 ### [Ecuador announces the discovery of a bugging device used to listen in on its embassy in the United Kingdom. Ecuador's foreign minister Ricardo Patio declares it as "another instance of a loss of ethics at the international level in relations between governments". ](/news/2013/07/3/ecuador-announces-the-discovery-of-a-bugging-device-used-to-listen-in-on-its-embassy-in-the-united-kingdom-ecuador-s-foreign-minister-ricar.md)
-_Context: Britain, Ecuador, Ricardo Patio_
+_Context: Ecuador, Ricardo Patio, UK_
 
 ### [King Albert II of Belgium announces his abdication (effective July 21) for health reasons in favour of his son Prince Philippe, Duke of Brabant. ](/news/2013/07/3/king-albert-ii-of-belgium-announces-his-abdication-effective-july-21-for-health-reasons-in-favour-of-his-son-prince-philippe-duke-of-brab.md)
 _Context: Albert II of Belgium, Prince Philippe, Duke of Brabant, abdicate_

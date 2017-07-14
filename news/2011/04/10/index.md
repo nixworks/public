@@ -22,7 +22,7 @@ Wildfires scorched more than 230,000 acres in Texas on Sunday, roaring through a
 _Context: Beijing, Christian, house church, police_
 
 ### [A British Royal Navy sailor is charged with murdering an officer and attempted murder of three crew members aboard a nuclear submarine HMS Astute on Friday night in Southampton. ](/news/2011/04/10/a-british-royal-navy-sailor-is-charged-with-murdering-an-officer-and-attempted-murder-of-three-crew-members-aboard-a-nuclear-submarine-hms-a.md)
-_Context: Britain, HMS Astute, Royal Navy, Southampton, nuclear submarine_
+_Context: HMS Astute, Royal Navy, Southampton, UK, nuclear submarine_
 
 ### [Peruvians vote in presidential elections with the most likely result a runoff between Ollanta Humala and either Pedro Pablo Kuczynski or Keiko Fujimori. ](/news/2011/04/10/peruvians-vote-in-presidential-elections-with-the-most-likely-result-a-runoff-between-ollanta-humala-and-either-pedro-pablo-kuczynski-or-kei.md)
 Ollanta Humala, a nationalist critical of the expanding influence of foreign companies in Peru, appears to be in the lead, with a June runoff seeming likely.

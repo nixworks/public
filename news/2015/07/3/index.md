@@ -7,7 +7,7 @@ Turkey&#x20;has&#x20;deployed&#x20;additional&#x20;troops&#x20;and&#x20;equipmen
 Boko Haram is waging fresh attacks in northeastern Nigeria, locals say, with nearly 170 people killed in a wave of attacks that President Muhammadu Buhari has blasted as &quot;inhuman and barbaric&quot;. 
 
 ### [The United Kingdom holds a minute of silence at midday to commemorate the 38 people - including 30 Britons - killed in Tunisia a week ago. ](/news/2015/07/3/the-united-kingdom-holds-a-minute-of-silence-at-midday-to-commemorate-the-38-people-including-30-britons-killed-in-tunisia-a-week-ago.md)
-_Context: 2015 Sousse attacks, Britain, Tunisia_
+_Context: 2015 Sousse attacks, Tunisia, UK_
 
 ### [A United States drone strike kills at least four militants in Yemen. ](/news/2015/07/3/a-united-states-drone-strike-kills-at-least-four-militants-in-yemen.md)
 _Context: United States, Yemen's, Yemeni Crisis (2011-present)_

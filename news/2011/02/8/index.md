@@ -16,7 +16,7 @@ The deal ensures workers a larger share of soaring profits in the German auto in
 _Context: Ultimate Electronics, United States, bankruptcy court_
 
 ### [The London Stock Exchange in the United Kingdom is in advanced talks to merge with the TMX Group that operates Canada's two stock exchanges in Montreal and Toronto. ](/news/2011/02/8/the-london-stock-exchange-in-the-united-kingdom-is-in-advanced-talks-to-merge-with-the-tmx-group-that-operates-canada-s-two-stock-exchanges.md)
-_Context: Britain, Canada, London Stock Exchange, Montreal, TMX Group, Toronto, stock exchanges_
+_Context: Canada, London Stock Exchange, Montreal, TMX Group, Toronto, UK, stock exchanges_
 
 ### [Drought hits Central China. Part of the Xiangjiang River dried-up in Changsha, Hunan province. ](/news/2011/02/8/drought-hits-central-china-part-of-the-xiangjiang-river-dried-up-in-changsha-hunan-province.md)
 _Context: Changsha, Drought, Hunan Province, Xiangjiang River, central China_
@@ -52,10 +52,10 @@ Eight MKs vote in favor of law revoking wages, pension of lawmakers who have fai
 Pro-democracy supporters hold fresh rallies in Cairo, just hours after the release of a detained Google executive.
 
 ### [Former Philippines Cabinet Secretary Angelo Reyes dies following an apparent suicide attempt possibly prompted by a scandal over alleged military corruption. ](/news/2011/02/8/former-philippines-cabinet-secretary-angelo-reyes-dies-following-an-apparent-suicide-attempt-possibly-prompted-by-a-scandal-over-alleged-mil.md)
-_Context: Angelo Reyes, Philippine, suicide_
+_Context: Angelo Reyes, Philippines, suicide_
 
 ### [George Osborne, the United Kingdom Chancellor of the Exchequer, announces that the tax on bank profits will become permanent. ](/news/2011/02/8/george-osborne-the-united-kingdom-chancellor-of-the-exchequer-announces-that-the-tax-on-bank-profits-will-become-permanent.md)
-_Context: Britain, Chancellor of the Exchequer, George Osborne, tax_
+_Context: Chancellor of the Exchequer, George Osborne, UK, tax_
 
 ### [British Labour MP Eric Illsley resigns his seat two days before he is due to be sentenced for dishonestly claiming parliamentary expenses, thus triggering a by-election. ](/news/2011/02/8/british-labour-mp-eric-illsley-resigns-his-seat-two-days-before-he-is-due-to-be-sentenced-for-dishonestly-claiming-parliamentary-expenses-t.md)
 Disgraced Barnsley Central MP resigns days before he is due to be sentenced for dishonestly claiming parliamentary expenses.

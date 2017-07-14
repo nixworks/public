@@ -19,7 +19,7 @@ In a pair of landmark decisions, the Supreme Court on Wednesday struck down the 
 _Context: Aaron Hernandez, American football, Massachusetts, New England Patriots, tight end_
 
 ### [Voters in Mongolia go to the polls for a presidential election and incumbent President Tsakhiagiin Elbegdorj wins with 50.23% of the vote. ](/news/2013/06/26/voters-in-mongolia-go-to-the-polls-for-a-presidential-election-and-incumbent-president-tsakhiagiin-elbegdorj-wins-with-50-23-of-the-vote.md)
-_Context: Mongolia, Tsakhiagiin Elbegdorj, president, reelected_
+_Context: Mongolia, President of Mongolia, Tsakhiagiin Elbegdorj, reelected_
 
 ### [Former Prime Minister Kevin Rudd wins leadership of the Australian Labor Party against incumbent Julia Gillard. ](/news/2013/06/26/former-prime-minister-kevin-rudd-wins-leadership-of-the-australian-labor-party-against-incumbent-julia-gillard.md)
 KEVIN Rudd said he resumes the task he began in 2007 &quot;with humility&quot; and he praised the &quot;extraordinary intelligence&quot; of Julia Gillard who had been &quot;a remarkable reformer.&quot;

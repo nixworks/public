@@ -4,7 +4,7 @@
 _Context: (Wikinews), Finland, Iraq_
 
 ### [ The People's Republic of China charges human rights activist Yang Chunlin, who gathered 10,000 signatures to an open letter opposing the Beijing Olympics on human rights grounds, with attempting to subvert state power. ](/news/2007/09/3/the-people-s-republic-of-china-charges-human-rights-activist-yang-chunlin-who-gathered-10-000-signatures-to-an-open-letter-opposing-the-be.md)
-_Context: Beijing Olympiad, People's Republic of China, Yang Chunlin, human rights, open letter_
+_Context: Beijing Olympiad, Human rights, People's Republic of China, Yang Chunlin, open letter_
 
 ### [ Panama begins work on its PS2.7 billion Panama Canal expansion project. ](/news/2007/09/3/panama-begins-work-on-its-aps2-7-billion-panama-canal-expansion-project.md)
 _Context: PS, Panama, expanded_

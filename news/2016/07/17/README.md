@@ -19,7 +19,7 @@ Prime Minister Theresa May describes Australian calls for a free trade deal with
 BEIJING (AP) — Eight people in an eastern Chinese city were killed when the construction elevator they were in plummeted from an apartment building, the local government said Sunday. The Longkou city government in Shandong…
 
 ### [A helicopter crashes at Breighton Aerodrome in the United Kingdom, with reports of five casualties. ](/news/2016/07/17/a-helicopter-crashes-at-breighton-aerodrome-in-the-united-kingdom-with-reports-of-five-casualties.md)
-_Context: Breighton Aerodrome, Britain_
+_Context: Breighton Aerodrome, UK_
 
 ### [At least three Baton Rouge Police Department officers are shot dead and several others are wounded by a gunman in Baton Rouge, Louisiana. ](/news/2016/07/17/at-least-three-baton-rouge-police-department-officers-are-shot-dead-and-several-others-are-wounded-by-a-gunman-in-baton-rouge-louisiana.md)
 3 police officers in Baton Rouge have been shot dead in La., with others wounded and one suspect dead, according to reports.

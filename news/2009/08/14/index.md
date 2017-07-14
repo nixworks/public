@@ -31,7 +31,7 @@ The remains of more than 2,000 people believed to be German civilians killed at 
 Mexico president Felipe Calder&oacute;n and Uruguay&rsquo;s Tabare Vazquez signed on Friday in Montevideo a Strategic Association accord to strengthen political dialogue and bilateral trade relations in the framework of the 2004 free trade agreement.
 
 ### [ After launching a major offensive attack on a suspected ASG training camp, the day-long clash in the Southern Philippines resulted in 23 government casualties and 31 casualties from the Abu Sayyaf Group. ](/news/2009/08/14/after-launching-a-major-offensive-attack-on-a-suspected-asg-training-camp-the-day-long-clash-in-the-southern-philippines-resulted-in-23-go.md)
-_Context: Abu Sayyaf Group, Philippine_
+_Context: Abu Sayyaf Group, Philippines_
 
 ### [ Iranian reformists call for a probe of the Supreme Leader Ali Khamenei and his ability to rule. ](/news/2009/08/14/iranian-reformists-call-for-a-probe-of-the-supreme-leader-ali-khamenei-and-his-ability-to-rule.md)
 _Context: Ali Khamenei, Iran, Supreme Leader of Iran_
@@ -46,7 +46,7 @@ Lynette &quot;Squeaky&quot; Fromme, the Charles Manson follower who tried to ass
 Lawyers for the Lockerbie bomber say he is abandoning his second appeal against his conviction for the December 1988 attack as Scottish officials consider his request to be sent home to Libya.
 
 ### [ The United Kingdom imposes direct rule on the Turks and Caicos Islands after an inquiry found evidence of government corruption. ](/news/2009/08/14/the-united-kingdom-imposes-direct-rule-on-the-turks-and-caicos-islands-after-an-inquiry-found-evidence-of-government-corruption.md)
-_Context: Britain, Turks and Caicos Islands, direct rule, government_
+_Context: Turks and Caicos Islands, UK, direct rule, government_
 
 ### [ At least 13 people are killed and at least 85 are injured in a fierce gun battle in Gaza. ](/news/2009/08/14/at-least-13-people-are-killed-and-at-least-85-are-injured-in-a-fierce-gun-battle-in-gaza.md)
 _Context: Gaza Strip_

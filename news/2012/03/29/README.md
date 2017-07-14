@@ -7,7 +7,7 @@ _Context: Adrienne Rich_
 _Context: Spain, general strike_
 
 ### [Queues form at petrol stations across the United Kingdom after government ministers urged motorists to top up their fuel tanks ahead of a possible strike by fuel tanker drivers. ](/news/2012/03/29/queues-form-at-petrol-stations-across-the-united-kingdom-after-government-ministers-urged-motorists-to-top-up-their-fuel-tanks-ahead-of-a-po.md)
-_Context: 10 Downing Street, Britain, gas station_
+_Context: 10 Downing Street, UK, gas station_
 
 ### [Smart phone pioneer Research in Motion announces major shake-ups in executive ranks and a strategic review in its earnings report.  ](/news/2012/03/29/smart-phone-pioneer-research-in-motion-announces-major-shake-ups-in-executive-ranks-and-a-strategic-review-in-its-earnings-report.md)
 Research In Motion posted a net loss and its first slump in BlackBerry shipments for its holiday quarter since 2006, as its new CEO announced the initial steps in a strategic overhaul and would not rule out an eventual sale of the company.
@@ -16,7 +16,7 @@ Research In Motion posted a net loss and its first slump in BlackBerry shipments
 At least 13 people have died in a riot and fire at a Honduran prison, officials say, a month after a fire in another prison killed more than 350.
 
 ### [The leaders of Brazil, Russia, India, China and South Africa meet in New Delhi, India, for the 2012 BRICS summit. ](/news/2012/03/29/the-leaders-of-brazil-russia-india-china-and-south-africa-meet-in-new-delhi-india-for-the-2012-brics-summit.md)
-_Context: 2012 BRICS summit, Brazil, China, India, New Delhi, Russia, South Africa_
+_Context: 2012 BRICS summit, Brazil, Chinese, India, New Delhi, Russia, South Africa_
 
 ### [Two Italians set themselves on fire in Bologna and Verona. ](/news/2012/03/29/two-italians-set-themselves-on-fire-in-bologna-and-verona.md)
 Italians are left shocked by two cases in as many days in which men set themselves alight in protest at their financial circumstances.

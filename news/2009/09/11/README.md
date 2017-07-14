@@ -10,7 +10,7 @@ Libertas founder Declan Ganley says next month&#39;s referendum on the Lisbon Tr
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 ### [ Zimbabwe's President Robert Mugabe condemns "bloody whites" for meddling in his country's affairs, specifically perceived British and American interference. ](/news/2009/09/11/zimbabwe-s-president-robert-mugabe-condemns-bloody-whites-for-meddling-in-his-country-s-affairs-specifically-perceived-british-and-ameri.md)
-_Context: Britain, President of Zimbabwe, Robert Mugabe, United States, Zimbabwe_
+_Context: President of Zimbabwe, Robert Mugabe, UK, United States, Zimbabwe_
 
 ### [ President Vladimir Voronin of Moldova resigns. ](/news/2009/09/11/president-vladimir-voronin-of-moldova-resigns.md)
 _Context: Moldova, Moldovan President, Vladimir Voronin_

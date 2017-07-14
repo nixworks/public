@@ -31,7 +31,7 @@ _Context: Hizbul Mujahideen, India_
 Foreign ministers from Southeast Asia are due to adopt a five-year work plan on Sunday to strengthen the implementation of a treaty banning nuclear weapons in the region, a Philippine diplomat said.
 
 ### [ A human rights group claims that four Roman Catholic priests are in detention in China. ](/news/2007/07/29/a-human-rights-group-claims-that-four-roman-catholic-priests-are-in-detention-in-china.md)
-_Context: China, Roman Catholic Church, human rights_
+_Context: Chinese, Human rights, Roman Catholic Church_
 
 ### [ Seven crew members die in the crash of an An-12 cargo plane at Moscow's Domodedovo airport. ](/news/2007/07/29/seven-crew-members-die-in-the-crash-of-an-an-12-cargo-plane-at-moscow-s-domodedovo-airport.md)
 _Context: An-12, Domodedovo International Airport, Moscow, cargo plane_

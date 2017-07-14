@@ -43,7 +43,7 @@ Angry at the critical statements by Iranian supreme leader Ayatollah Ali Khamene
 Nato members meet in Lisbon for a crucial summit, with a timetable for handing security to Afghan forces topping the agenda.
 
 ### [The UN General Assembly's human rights committee criticizes Iran for human rights abuses; Iranian diplomat Mohammad-Javad Larijani calls the UN censure a "politicization" of human rights. ](/news/2010/11/19/the-un-general-assembly-s-human-rights-committee-criticizes-iran-for-human-rights-abuses-iranian-diplomat-mohammad-javad-larijani-calls-the.md)
-_Context: Iran, Iranian human rights, Mohammad-Javad Larijani, UN, United Nations General Assembly, human rights_
+_Context: Human rights, Iran, Iranian human rights, Mohammad-Javad Larijani, UN, United Nations General Assembly_
 
 ### [Tibetan spiritual leader, the Dalai Lama, says that cultural genocide is taking place in Tibet, particularly in light of the Chinese authority's requirement of Mandarin as the language of instruction in schools in Tibet. ](/news/2010/11/19/tibetan-spiritual-leader-the-dalai-lama-says-that-cultural-genocide-is-taking-place-in-tibet-particularly-in-light-of-the-chinese-authori.md)
 _Context: 14th Dalai Lama, Dalai Lama, Mandarin, Tibet, Tibet Autonomous Region, cultural genocide_

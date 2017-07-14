@@ -4,7 +4,7 @@
 _Context: Nigeria_
 
 ### [Documents discovered in a Russian archive suggest that Adolf Hitler ordered Rudolf Hess to go to the United Kingdom to negotiate with Winston Churchill over a World War II peace deal in 1941. ](/news/2011/05/30/documents-discovered-in-a-russian-archive-suggest-that-adolf-hitler-ordered-rudolf-hess-to-go-to-the-united-kingdom-to-negotiate-with-winsto.md)
-_Context: Adolf Hitler, Britain, Rudolf Hess, Russia, Winston Churchill, World War II_
+_Context: Adolf Hitler, Rudolf Hess, Russia, UK, Winston Churchill, World War II_
 
 ### [War in Afghanistan (2001-present):United States Marine Corps General John Toolan issues a statement apologising for the deaths of nine Afghan civilians in a NATO bombing raid on behalf of himself, General David Petraeus and Lieutenant General David Rodriguez. ](/news/2011/05/30/war-in-afghanistan-2001apresent-punited-states-marine-corps-general-john-toolan-issues-a-statement-apologising-for-the-deaths-of-nine-af.md)
 Sky News Australia has the top stories in news online from Australia and the rest of the World.

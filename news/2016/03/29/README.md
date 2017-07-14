@@ -34,7 +34,7 @@ WASHINGTON — The State Department and Pentagon ordered the families of US dipl
 _Context: Iran, Iran and weapons of mass destruction, Joint Comprehensive Plan of Action, Reuters, UN resolution 2231, United Nations Security Council, United States_
 
 ### [The Indonesian foreign ministry says 10 Indonesian nationals are being held hostage after their tug boat and coal barge was hijacked in Philippine waters. Islamist militant group, Abu Sayyaf is demanding a ransom. ](/news/2016/03/29/the-indonesian-foreign-ministry-says-10-indonesian-nationals-are-being-held-hostage-after-their-tug-boat-and-coal-barge-was-hijacked-in-phil.md)
-_Context: Abu Sayyaf, Indonesia, Indonesian foreign ministry, Philippine_
+_Context: Abu Sayyaf, Indonesia, Indonesian foreign ministry, Philippines_
 
 ### [A hijacked EgyptAir flight lands in Cyprus. All hostages have been released, and the hijacker has no evident ties to any terrorist organizations. ](/news/2016/03/29/a-hijacked-egyptair-flight-lands-in-cyprus-all-hostages-have-been-released-and-the-hijacker-has-no-evident-ties-to-any-terrorist-organizat.md)
 Plane originally travelling from Alexandria to Cairo lands at Larnaca airport in Cyprus with 55 passengers on board

@@ -16,10 +16,10 @@ _Context: Samsung, South Korea, US$, pre-merger_
 _Context: Carnival, Port-au-Prince, float, killed_
 
 ### [North Korea says that it will respond "very strongly" to a conference held in Washington, D.C. about human rights abuses. ](/news/2015/02/17/north-korea-says-that-it-will-respond-very-strongly-to-a-conference-held-in-washington-d-c-about-human-rights-abuses.md)
-_Context: North Korea, Washington, D.C., human rights_
+_Context: Human rights, North Korea, Washington, D.C._
 
 ### [Chinese prosecutors say that they are investigating former top Communist Party official Su Rong for alleged corruption. ](/news/2015/02/17/chinese-prosecutors-say-that-they-are-investigating-former-top-communist-party-official-su-rong-for-alleged-corruption.md)
-_Context: China, Communist Party of China, Su Rong_
+_Context: Chinese, Communist Party of China, Su Rong_
 
 ### [Chinese authorities also announce the indictment of former Guangdong official Zhu Mingguo, former Jinan CPC party chief Wang Min, and former Taiyuan party chief Chen Chuanping, all on charges of corruption. ](/news/2015/02/17/chinese-authorities-also-announce-the-indictment-of-former-guangdong-official-zhu-mingguo-former-jinan-cpc-party-chief-wang-min-and-former.md)
 _Context: CPC party chief, Chen Chuanping, Guangdong province, Jinan, Taiyuan, Wang Min, Zhu Mingguo_

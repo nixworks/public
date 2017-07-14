@@ -22,7 +22,7 @@ Thirteen Farc rebels are killed in northern Colombia, an operation President Uri
 A complex in Norway housing rejected asylum seekers was burned to the ground following a second night of rioting to protest conditions at the facility.
 
 ### [The United Kingdom is to hand over responsibility for Afghanistan's Sangin area to the United States. ](/news/2010/07/7/the-united-kingdom-is-to-hand-over-responsibility-for-afghanistan-s-sangin-area-to-the-united-states.md)
-_Context: Afghanistan, Britain, Sangin, United States_
+_Context: Afghanistan, Sangin, UK, United States_
 
 ### [A judge orders the arrest of Bruno Fernandes de Souza, one of Brazil's top footballers, in connection with the disappearance of his former mistress. ](/news/2010/07/7/a-judge-orders-the-arrest-of-bruno-fernandes-de-souza-one-of-brazil-s-top-footballers-in-connection-with-the-disappearance-of-his-former-m.md)
 _Context: Brazil, Bruno Fernandes de Souza_
@@ -49,7 +49,7 @@ _Context: Constitutional Court of Turkey, European Union, referendum_
 An Israeli allegedly linked to the killing of a Hamas operative in Dubai can be extradited to Germany, a Polish court rules.
 
 ### [Israel rejects as "failed to meet the criteria" the application of Fatima Sharif, the Gaza human rights attorney who hoped to study for a master's degree in human rights and democracy at Birzeit University in the Israeli-occupied West Bank. ](/news/2010/07/7/israel-rejects-as-failed-to-meet-the-criteria-the-application-of-fatima-sharif-the-gaza-human-rights-attorney-who-hoped-to-study-for-a-ma.md)
-_Context: Birzeit University, Gaza Strip, West Bank, human rights, master's degree_
+_Context: Birzeit University, Gaza Strip, Human rights, West Bank, master's degree_
 
 ### [Cuba releases 52 political prisoners in its aim to improve its human rights record, the largest number the country has released for decades. ](/news/2010/07/7/cuba-releases-52-political-prisoners-in-its-aim-to-improve-its-human-rights-record-the-largest-number-the-country-has-released-for-decades.md)
 Cuba agrees to free 52 political prisoners in the largest prisoner release by the communist authorities for decades.

@@ -16,7 +16,7 @@ _Context: Hamas, Ismail Haniya, January 2006 legislative elections, Prime Minist
 _Context: Chiapas, Kamel Nacif Borge, Lydia Cacho, Mario Marn, Pablo Salazar Mendigucha, Puebla_
 
 ### [ A United Nations report condemns the continued existence of Camp Delta, and multiple breaches of Human Rights by the US. ](/news/2006/02/16/a-united-nations-report-condemns-the-continued-existence-of-camp-delta-and-multiple-breaches-of-human-rights-by-the-us.md)
-_Context: United Nations, human rights_
+_Context: Human rights, United Nations_
 
 ### [ Abu Ghraib prison abuse: US civil liberties groups have called for an inquiry into treatment of Iraqi detainees at Abu Ghraib after new images of apparent abuse were shown. ](/news/2006/02/16/abu-ghraib-prison-abuse-p-us-civil-liberties-groups-have-called-for-an-inquiry-into-treatment-of-iraqi-detainees-at-abu-ghraib-after-new-im.md)
 _Context: Abu Ghraib prison_

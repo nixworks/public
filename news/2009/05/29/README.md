@@ -1,7 +1,7 @@
 ## [2009-05-29](/news/2009/05/29/index.md)
 
 ### [ Member of Parliament for Scunthorpe Elliot Morley will resign at the United Kingdom's 2010 General Election. ](/news/2009/05/29/member-of-parliament-for-scunthorpe-elliot-morley-will-resign-at-the-united-kingdom-s-2010-general-election.md)
-_Context: 2010 general election, Britain, Elliot Morley, MP, Parliament, Scunthorpe, resignation_
+_Context: 2010 general election, Elliot Morley, MP, Parliament, Scunthorpe, UK, resignation_
 
 ### [ American record producer Phil Spector is jailed for 19 years for murdering actress Lana Clarkson in 2003. ](/news/2009/05/29/american-record-producer-phil-spector-is-jailed-for-19-years-for-murdering-actress-lana-clarkson-in-2003.md)
 _Context: Lana Clarkson, Phil Spector, United States, murder, record producer_

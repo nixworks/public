@@ -49,7 +49,7 @@ _Context: International Monetary Fund, Spain_
 _Context: Manchester, Plane Stupid_
 
 ### [At least three people die and four others are critically injured in a school bus crash in Keswick, Cumbria in the Lake District of North West England in the United Kingdom.](/news/2010/05/24/at-least-three-people-die-and-four-others-are-critically-injured-in-a-school-bus-crash-in-keswick-cumbria-in-the-lake-district-of-north-wes.md)
-_Context: Britain, Keswick, Cumbria, Lake District, North West England, a school bus crash_
+_Context: Keswick, Cumbria, Lake District, North West England, UK, a school bus crash_
 
 ### [Twentieth Century Fox's hit TV show ''24'' went completely off the air. ](/news/2010/05/24/twentieth-century-fox-s-hit-tv-show-24-went-completely-off-the-air.md)
 _Context: 24, TV show, Twentieth Century Fox, off-the-air_

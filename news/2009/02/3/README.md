@@ -25,7 +25,7 @@ _Context: ''Omid'', Iran, released an object into orbit_
 _Context: Afghanistan, NATO, Pakistan, Taliban, militant, supply lines_
 
 ### [ The United Kingdom struggles to cope with its heaviest snowfalls since 1991. ](/news/2009/02/3/the-united-kingdom-struggles-to-cope-with-its-heaviest-snowfalls-since-1991.md)
-_Context: Britain_
+_Context: UK_
 
 ## [Previous Day...](/news/2009/02/2/index.md)
 

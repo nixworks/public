@@ -10,7 +10,7 @@ _Context: Alan Johnston, BBC, Gaza Strip, Palestinian_
 _Context: Morgan Tsvangirai, Movement for Democratic Change, Zimbabwe_
 
 ### [ Nigel Griffiths resigns as the Deputy Leader of the British House of Commons  over the proposed expansion of the Trident missile system. ](/news/2007/03/12/nigel-griffiths-resigns-as-the-deputy-leader-of-the-british-house-of-commons-over-the-proposed-expansion-of-the-trident-missile-system.md)
-_Context: Britain, British House of Commons, Leader of the House of Commons, Nigel Griffiths, Trident nuclear missile system_
+_Context: British House of Commons, Leader of the House of Commons, Nigel Griffiths, Trident nuclear missile system, UK_
 
 ### [ Lieutenant General Kevin Kiley resigns as the Surgeon General of the United States Army over the Walter Reed Medical Center scandal. ](/news/2007/03/12/lieutenant-general-kevin-kiley-resigns-as-the-surgeon-general-of-the-united-states-army-over-the-walter-reed-medical-center-scandal.md)
 _Context: Kevin Kiley, Lieutenant General, Surgeon General of the United States Army, poor conditions for veterans_
@@ -19,7 +19,7 @@ _Context: Kevin Kiley, Lieutenant General, Surgeon General of the United States 
 _Context: Asanbekov Sarybayev, Bishkek, Government of Kyrgyzstan, United Front For A Worthy Future For Kyrgyzstan, constitution_
 
 ### [ United Nations investigators criticise Sudan for gross human rights violations in Darfur, including murder, mass rape and kidnapping. ](/news/2007/03/12/united-nations-investigators-criticise-sudan-for-gross-human-rights-violations-in-darfur-including-murder-mass-rape-and-kidnapping.md)
-_Context: Darfur, Sudan, United Nations, human rights_
+_Context: Darfur, Human rights, Sudan, United Nations_
 
 ### [ The blueprint for the Chinese space program, including the first Chinese-built astronomy satellite, a joint unmanned mission to Mars with Russia, and other extensive international cooperation, is released. ](/news/2007/03/12/the-blueprint-for-the-chinese-space-program-including-the-first-chinese-built-astronomy-satellite-a-joint-unmanned-mission-to-mars-with-r.md)
 _Context: Astronomers, Mars, Russia, released an object into orbit, spaceflight mission_

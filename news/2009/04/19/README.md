@@ -10,7 +10,7 @@ _Context: Barack Obama, Central Intelligence Agency, President of the United Sta
 _Context: Fifth, Port-of-Spain, Summit of the Americas, Trinidad and Tobago_
 
 ### [ The Movement for the Emancipation of the Niger Delta releases British hostage Robin Barry Hughes. ](/news/2009/04/19/the-movement-for-the-emancipation-of-the-niger-delta-releases-british-hostage-robin-barry-hughes.md)
-_Context: Britain, Movement for the Emancipation of the Niger Delta, Niger Delta, hostage_
+_Context: Movement for the Emancipation of the Niger Delta, Niger Delta, UK, hostage_
 
 ## [Previous Day...](/news/2009/04/18/index.md)
 

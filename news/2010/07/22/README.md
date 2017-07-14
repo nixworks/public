@@ -40,7 +40,7 @@ New $60m loan approved for quake-devastated nation.
 Vietnam calls on its neighbours in the Asean regional group to adopt nuclear power to meet energy demands.
 
 ### [Volunteers use their hands to clean an oil spill in the Yellow Sea after pipelines burst off Dalian in Northeastern China's Liaoning Province, spilling 1,500 tonnes of oil and covering an area close to 1,000 km<sup>2</sup> and about 90 km of coast. ](/news/2010/07/22/volunteers-use-their-hands-to-clean-an-oil-spill-in-the-yellow-sea-after-pipelines-burst-off-dalian-in-northeastern-china-s-liaoning-provinc.md)
-_Context: China, Dalian, Liaoning province, Northeastern China, Yellow Sea, oil pipeline, oil spill_
+_Context: Chinese, Dalian, Liaoning province, Northeastern China, Yellow Sea, oil pipeline, oil spill_
 
 ### [Tornado strikes Battle Creek, Michigan](/news/2010/07/22/tornado-strikes-battle-creek-michigan.md)
 _Context: Battle Creek, Michigan_

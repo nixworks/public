@@ -25,13 +25,13 @@ The accused trio allegedly tried to recruit women at a New York university, spok
 _Context: CIA, Jeffrey Alexander Sterling, US Eastern District Court of Virginia, nuclear scientist_
 
 ### [Chinese authorities name Huang Lixin as the Communist Party Secretary of Nanjing, following the investigation and dismissal of former party chief Yang Weize. Huang becomes the first woman in city history to take the top office. ](/news/2015/01/26/chinese-authorities-name-huang-lixin-as-the-communist-party-secretary-of-nanjing-following-the-investigation-and-dismissal-of-former-party.md)
-_Context: China, Communist Party Secretary, Huang Lixin, Nanjing, Yang Weize_
+_Context: Chinese, Communist Party Secretary, Huang Lixin, Nanjing, Yang Weize_
 
 ### [A single day after the radical-left SYRIZA party wins the Greek elections, it forms an anti-austerity coalition government with the right-wing Independent Greeks ](/news/2015/01/26/a-single-day-after-the-radical-left-syriza-party-wins-the-greek-elections-it-forms-an-anti-austerity-coalition-government-with-the-right-wi.md)
 _Context: Greek elections, Independent Greeks, Syriza, governing coalition_
 
 ### [The Church of England ordains Libby Lane as their first female bishop, at York Minster, United Kingdom. ](/news/2015/01/26/the-church-of-england-ordains-libby-lane-as-their-first-female-bishop-at-york-minster-united-kingdom.md)
-_Context: Britain, Church of England, Libby Lane, York Minster_
+_Context: Church of England, Libby Lane, UK, York Minster_
 
 ## [Previous Day...](/news/2015/01/25/index.md)
 

@@ -13,7 +13,7 @@ China’s stocks tumbled, with the benchmark index falling the most since Februa
 The Istanbul Police Department has issued of bomb attack warnings on crowded places in central Istanbul, such as metro stations and bus stops, several media reports said
 
 ### [Philippines President Benigno Aquino III holds his final State of the Nation Address before stepping down in 2016.  He advocates the passage of the Bangsamoro Basic Law and an anti-dynasty bill. ](/news/2015/07/27/philippines-president-benigno-aquino-iii-holds-his-final-state-of-the-nation-address-before-stepping-down-in-2016-he-advocates-the-passage.md)
-_Context: Bangsamoro Basic Law, Benigno Aquino III, Philippine, Philippine presidential election, 2016, State of the Nation Address, anti-dynasty bill_
+_Context: Bangsamoro Basic Law, Benigno Aquino III, Philippine presidential election, 2016, Philippines, State of the Nation Address, anti-dynasty bill_
 
 ### [French farmers protesting low prices within the country turn back hundreds of trucks suspected of carrying foreign agricultural products at the country's border with Germany. ](/news/2015/07/27/french-farmers-protesting-low-prices-within-the-country-turn-back-hundreds-of-trucks-suspected-of-carrying-foreign-agricultural-products-at.md)
 _Context: France, Germany, farmers_

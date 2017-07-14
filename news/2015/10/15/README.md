@@ -28,7 +28,7 @@ German automotive watchdog KBA ordered Volkswagen to recall 2.4 million vehicles
 _Context: Eric Schneiderman, New York Attorney General, Papa John's Pizza, United States Department of Labor_
 
 ### [Vietnam says a Chinese vessel rammed into and sank one of its fishing boats near disputed islands in the South China Sea. More than 20 Vietnamese fishing boats have been attacked by Chinese vessels this year causing tensions between both countries. ](/news/2015/10/15/vietnam-says-a-chinese-vessel-rammed-into-and-sank-one-of-its-fishing-boats-near-disputed-islands-in-the-south-china-sea-more-than-20-vietn.md)
-_Context: China, South China Sea, Vietnam_
+_Context: Chinese, South China Sea, Vietnam_
 
 ### [The United States National Transportation Safety Board (NSTB) has asked the U.S. Navy to resume the search ended by the U.S. Coast Guard for the merchant vessel SS ''El Faro'' believed lost on October 7 during Hurricane Joaquin.  The loss of the ship -- with its crew of 33 hands -- is regarded as "the worst U.S. merchant marine disaster of recent memory." ](/news/2015/10/15/the-united-states-national-transportation-safety-board-nstb-has-asked-the-u-s-navy-to-resume-the-search-ended-by-the-u-s-coast-guard-for.md)
 The Navy is scrambling a ship and an underwater search team to find the missing merchant ship SS El Faro, Navy officials told USNI News on Thursday.

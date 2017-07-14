@@ -10,7 +10,7 @@ Militants unleashed a wave of deadly attacks in Baghdad on Tuesday, killing at l
 _Context: North Korea, Northern Limit Line, South Korean navy, fishing boat_
 
 ### [A Singapore court convicts British author Alan Shadrake of insulting the judicial system in his book ''Once a Jolly Hangman:  Singapore Justice in the Dock''. ](/news/2010/11/3/a-singapore-court-convicts-british-author-alan-shadrake-of-insulting-the-judicial-system-in-his-book-once-a-jolly-hangman-singapore-just.md)
-_Context: Alan Shadrake, Britain, Singapore, judicial system_
+_Context: Alan Shadrake, Singapore, UK, judicial system_
 
 ### [At least 25,000 students take to the streets of Dublin to protest against rising emigration, unemployment and an increase in university fees, in the largest such demonstration for a generation. ](/news/2010/11/3/at-least-25-000-students-take-to-the-streets-of-dublin-to-protest-against-rising-emigration-unemployment-and-an-increase-in-university-fees.md)
 IN THE largest student protest for a generation, at least 25,000 voiced their opposition to increased student fees outside the&hellip;

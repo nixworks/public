@@ -25,7 +25,7 @@ _Context: Islamist insurgency in West Africa, Kano state, Nigeria, suicide bombi
 Archaeologists say they have found tombs that are more than 1,000 years old in a cemetery in the midst of Peru&#039;s capital, Lima.
 
 ### [China's Shanghai index closed down 5.5%, a drop of almost 200 points in what was its largest single-day decline in three months. ](/news/2015/11/27/china-s-shanghai-index-closed-down-5-5-a-drop-of-almost-200-points-in-what-was-its-largest-single-day-decline-in-three-months.md)
-_Context: China, Shanghai index_
+_Context: Chinese, Shanghai index_
 
 ### [A new study shows Greece's six-year austerity program is even affecting prostitution. Gregory Laxos, a sociology professor at the Panteion University in Athens, told the ''Times of London'' the going rate for sex with a prostitute was 50 euros ($53) when the economic crisis began. Now, it's fallen to as low as two euros ($2.12) for a 30-minute session, or to a cheese pie, a sandwich because they are hungry. ](/news/2015/11/27/a-new-study-shows-greece-s-six-year-austerity-program-is-even-affecting-prostitution-gregory-laxos-a-sociology-professor-at-the-panteion-u.md)
 Sex in Greece is some of the cheapest on offer in Europe as six years of financial austerity take a toll.

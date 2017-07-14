@@ -19,7 +19,7 @@ Russian President Dmitry Medvedev on Thursday ordered a one fifth cut to the sta
 Court decision brings to 22 number of those awaiting execution over unrest.
 
 ### [ Vietnamese authorities charge human rights lawyer Le Cong Dinh with attempts to "overthrow the state". ](/news/2009/12/24/vietnamese-authorities-charge-human-rights-lawyer-le-cong-dinh-with-attempts-to-overthrow-the-state.md)
-_Context: Communist Party, Le Cong Dinh, Vietnam, human rights_
+_Context: Communist Party, Human rights, Le Cong Dinh, Vietnam_
 
 ### [ Turkish police arrest over 43 campaigners and members of the banned Kurdish Communities Union in raids. ](/news/2009/12/24/turkish-police-arrest-over-43-campaigners-and-members-of-the-banned-kurdish-communities-union-in-raids.md)
 _Context: Kurdish Communities Union, Turkey_

@@ -19,7 +19,7 @@ _Context: Stonehenge, summer solstice_
 _Context: Hawnby, Helmsley, North Yorkshire, Rye, Swale, Thirsk_
 
 ### [ In Manchester, UK, 30 police raid a house at 5 a.m. and arrest a 40-year-old man on suspicion of involvement in suicide bombings in Iraq. Another man resident in the same house is believed to have gone to Iraq in February to carry out a bombing. Last week, police in Spain and Germany also made arrests in connection with bombings in Iraq, but it is not known if the cases are related. ](/news/2005/06/21/in-manchester-uk-30-police-raid-a-house-at-5-a-m-and-arrest-a-40-year-old-man-on-suspicion-of-involvement-in-suicide-bombings-in-iraq-a.md)
-_Context: Britain, Germany, Iraq, Manchester, Spain, suicide bomb_
+_Context: Germany, Iraq, Manchester, Spain, UK, suicide bomb_
 
 ### [ New Zealand's telecoms network crashes for five hours when a rat chews one of the North Island's main fibre-optic cables at the same time as a workman damaged another cable in another part of the island. Mobile phone and Internet communications were badly affected, and the Stock Exchange had to close for several hours. ](/news/2005/06/21/new-zealand-s-telecoms-network-crashes-for-five-hours-when-a-rat-chews-one-of-the-north-island-s-main-fibre-optic-cables-at-the-same-time-a.md)
 _Context: New Zealand_
@@ -34,7 +34,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In the Philippines, congress begins an inquiry into allegations that president Gloria Arroyo had rigged votes in last year's presidential elections. President states that she will comment on the process later. Her supporters and the opposition demonstrate in Manila ](/news/2005/06/21/in-the-philippines-congress-begins-an-inquiry-into-allegations-that-president-gloria-arroyo-had-rigged-votes-in-last-year-s-presidential-e.md)
-_Context: Gloria Arroyo, Manila, Philippine_
+_Context: Gloria Arroyo, Manila, Philippines_
 
 ### [ In Zambia, former health ministry official Kashiba Bulaya has been charged again with accepting a bribe from a Bulgarian firm that manufactures anti-retrovirus drugs against AIDS. Government's decision to halt the case a month ago aroused protests. ](/news/2005/06/21/in-zambia-former-health-ministry-official-kashiba-bulaya-has-been-charged-again-with-accepting-a-bribe-from-a-bulgarian-firm-that-manufact.md)
 _Context: AIDS, Bulgaria, Kashiba Bulaya, Zambia, anti-retrovirus drug, bribe_

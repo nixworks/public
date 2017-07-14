@@ -16,7 +16,7 @@ Militant groups vow to intensify anti-government and peacekeepers assaults as th
 _Context: Afghanistan, International Security Assistance Force, Iranian Revolutionary Guard, NATO_
 
 ### [A Christmas message by Pope Benedict XVI is broadcast by BBC Radio 4's ''Thought for the Day'' programme in the United Kingdom. ](/news/2010/12/24/a-christmas-message-by-pope-benedict-xvi-is-broadcast-by-bbc-radio-4-s-thought-for-the-day-programme-in-the-united-kingdom.md)
-_Context: BBC Radio 4, Britain, Christmas, Pope Benedict XVI, Thought for the Day_
+_Context: BBC Radio 4, Christmas, Pope Benedict XVI, Thought for the Day, UK_
 
 ### [Thousands of people gather in Bethlehem to celebrate Christmas. ](/news/2010/12/24/thousands-of-people-gather-in-bethlehem-to-celebrate-christmas.md)
 Pope Benedict calls on Christians to join God in love as he delivers his traditional Christmas Eve homily amid tight security in Rome.

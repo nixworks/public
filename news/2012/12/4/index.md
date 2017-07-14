@@ -16,7 +16,7 @@ Typhoon Bopha has killed at least 52 people in the Philippines.
 _Context: Black Sea, Istanbul, Russia, Ukrainian_
 
 ### [A Chinese fighter jet Chengdu J-7 crashes in the city of Shantou, Guangdong province, China, sparking a fire that injures at least four people. ](/news/2012/12/4/a-chinese-fighter-jet-chengdu-j-7-crashes-in-the-city-of-shantou-guangdong-province-china-sparking-a-fire-that-injures-at-least-four-peop.md)
-_Context: Chengdu J-7, China, Guangdong province, Shantou, fighter jet_
+_Context: Chengdu J-7, Chinese, Guangdong province, Shantou, fighter jet_
 
 ### [The US Navy denies Iranian state media reports that a ScanEagle drone has been shot down over the Persian Gulf. ](/news/2012/12/4/the-us-navy-denies-iranian-state-media-reports-that-a-scaneagle-drone-has-been-shot-down-over-the-persian-gulf.md)
 As shelling in the Damascus suburbs worsened, the United Nations warned that it was getting harder to get food to displaced Syrians.

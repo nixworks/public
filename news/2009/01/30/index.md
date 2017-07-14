@@ -22,7 +22,7 @@ Pressure mounts on Israel to answer accusations of war crimes in Gaza Strip.
 _Context: 2009 Southeastern Australia heat wave, Adelaide, Australia, Melbourne_
 
 ### [ More than one thousand workers strike at four different United Kingdom oil refineries. ](/news/2009/01/30/more-than-one-thousand-workers-strike-at-four-different-united-kingdom-oil-refineries.md)
-_Context: Britain, refinery, strike_
+_Context: UK, refinery, strike_
 
 ### [ Thirteen people are killed and 47 people are missing after a Nakumatt supermarket burns in Nairobi, Kenya. ](/news/2009/01/30/thirteen-people-are-killed-and-47-people-are-missing-after-a-nakumatt-supermarket-burns-in-nairobi-kenya.md)
 _Context: Kenya, Nairobi, Nakumatt, burns_

@@ -16,7 +16,7 @@ Ministers condemn the invasion of several tourist lodges in Zimbabwe by people s
 Two separate bomb attacks targeting Shia pilgrims in the Iraqi city of Karbala have killed 25 people and injured almost 70, officials say.
 
 ### [Twenty people are injured in China's Sichuan province following clashes with police over a proposed chemical plant, protesters and officials say. In a separate protest, riot police dispersed a group of parents who lost their children in the devastating 2008 earthquake after they tried to meet with the mayor of Deyang city to discuss compensation claims. ](/news/2011/01/24/twenty-people-are-injured-in-china-s-sichuan-province-following-clashes-with-police-over-a-proposed-chemical-plant-protesters-and-officials.md)
-_Context: China, Deyang, Sichuan Province, deadly earthquake, police_
+_Context: Chinese, Deyang, Sichuan Province, deadly earthquake, police_
 
 ### [Hamas bans the sale of two books that it says "contradict" Islam after receiving complaints from locals. ](/news/2011/01/24/hamas-bans-the-sale-of-two-books-that-it-says-contradict-islam-after-receiving-complaints-from-locals.md)
 _Context: Hamas_

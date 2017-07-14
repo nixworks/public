@@ -19,7 +19,7 @@ Repair work is under way in Co Mayo to roads and bridges damaged by overnight fl
 _Context: Ban Ki-moon, Burma, Secretary General, State Peace and Development Council, Than Shwe, United Nations_
 
 ### [ Two Iranian staff working for the British embassy in Tehran will face trial over allegedly inciting protests. ](/news/2009/07/3/two-iranian-staff-working-for-the-british-embassy-in-tehran-will-face-trial-over-allegedly-inciting-protests.md)
-_Context: Britain, Iran, Tehran, protests against the regime, trial_
+_Context: Iran, Tehran, UK, protests against the regime, trial_
 
 ### [ Three dinosaur species&mdash;''Australovenator wintonensis'', ''Wintonotitan wattsi'' and ''Diamantinasaurus matildae''&mdash;are discovered in Australia. ](/news/2009/07/3/three-dinosaur-species-mdash-australovenator-wintonensis-wintonotitan-wattsi-and-diamantinasaurus-matildae-mdash-are-discovere.md)
 Meet Australia&#039;s answer to velociraptor.

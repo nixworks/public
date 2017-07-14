@@ -10,7 +10,7 @@ ROME -- The operator of the Costa Concordia cruise ship, which struck rocks and 
 The biggest border crossing between North Korea and China has been closed to tourist groups, a Chinese official says, as nuclear tensions mounted, but business travel was allowed to continue.
 
 ### [Senkaku Islands dispute:Japan and Taiwan sign an agreement over fishing rights around the Senkaku Islands. China voices "extreme concerns" over the deal. ](/news/2013/04/10/senkaku-islands-dispute-pjapan-and-taiwan-sign-an-agreement-over-fishing-rights-around-the-senkaku-islands-china-voices-extreme-concerns.md)
-_Context: China, Japan, Senkaku Islands, Senkaku Islands dispute, Taiwan, fishing_
+_Context: Chinese, Japan, Senkaku Islands, Senkaku Islands dispute, Taiwan, fishing_
 
 ### [An Arabian camel gifted to President of France Francois Hollande for liberating Mali is killed and stewed by a family in Timbuktu, in whose care Hollande had left it. ](/news/2013/04/10/an-arabian-camel-gifted-to-president-of-france-franassois-hollande-for-liberating-mali-is-killed-and-stewed-by-a-family-in-timbuktu-in-whose.md)
 With his pledge to create a morally irreproachable republic in tatters over a ministerial tax fraud scandal, Fran&ccedil;ois Hollande has already had to eat his hat. Now, it emerges, someone else has eaten his camel.
@@ -34,7 +34,7 @@ _Context: Chamber of Deputies, Uruguay, same-sex marriage_
 _Context: May 5, general election_
 
 ### [The Parliament of the United Kingdom gather for a special session to debate the legacy of former Prime Minister Margaret Thatcher. ](/news/2013/04/10/the-parliament-of-the-united-kingdom-gather-for-a-special-session-to-debate-the-legacy-of-former-prime-minister-margaret-thatcher.md)
-_Context: Britain, Margaret Thatcher, Parliament, Prime Minister, legacy, special session_
+_Context: Margaret Thatcher, Parliament, Prime Minister, UK, legacy, special session_
 
 ### [Sally Jewell is confirmed as the new United States Secretary of the Interior. ](/news/2013/04/10/sally-jewell-is-confirmed-as-the-new-united-states-secretary-of-the-interior.md)
 The Senate voted 87 to 11 Wednesday to confirm Sally Jewell, chief executive of the outdoor retailer REI, as interior secretary.

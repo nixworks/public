@@ -16,7 +16,7 @@ _Context: Saudi Arabia, Strait of Hormuz, United Arab Emirates_
 At least 39 people die as a bus transporting Hindu pilgrims from India swerves off a road in south-western Nepal, officials say.
 
 ### [Hand, foot and mouth disease kills 149 people in Hunan, China. ](/news/2012/07/15/hand-foot-and-mouth-disease-kills-149-people-in-hunan-china.md)
-_Context: China, Hand, foot and mouth disease, Hunan_
+_Context: Chinese, Hand, foot and mouth disease, Hunan_
 
 ### [One person is killed and ten are injured by a tornado in north west Poland ](/news/2012/07/15/one-person-is-killed-and-ten-are-injured-by-a-tornado-in-north-west-poland.md)
 One person died and 10 were wounded as heavy storms swept through the north-western part of Poland on Saturday evening.
