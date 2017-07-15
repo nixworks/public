@@ -12,7 +12,7 @@ At least three people died Friday in a fire in a high-rise apartment building in
 ### [The White House releases unredacted emails of people concerned about the Presidential Advisory Commission on Election Integrity. Sensitive information revealed in the emails prompts immediate backlash and privacy concerns. ](/news/2017/07/14/the-white-house-releases-unredacted-emails-of-people-concerned-about-the-presidential-advisory-commission-on-election-integrity-sensitive-i.md)
 There’s a high proportion of four-letter words.
 
-### [Former Philippine president  Benigno Aquino III is indicted for his failure to prevent the 2015 Mamasapano clash. ](/news/2017/07/14/former-philippine-president-benigno-aquino-iii-is-indicted-for-his-failure-to-prevent-the-2015-mamasapano-clash.md)
+### [Aftermath of the Former Philippine president  Benigno Aquino III is indicted for his failure to prevent the 2015 Mamasapano clash. ](/news/2017/07/14/aftermath-of-the-former-philippine-president-benigno-aquino-iii-is-indicted-for-his-failure-to-prevent-the-2015-mamasapano-clash.md)
 (UPDATED) Ombudsman Conchita Carpio Morales also orders usurpation of authority charges against the former chief executive, but dismisses charges of reckless imprudence resulting in multiple homicide
 
 ### [A Peruvian court orders the arrest of former president Ollanta Humala and his wife Nadine Heredia for money laundering. Both have turned themselves in. ](/news/2017/07/14/a-peruvian-court-orders-the-arrest-of-former-president-ollanta-humala-and-his-wife-nadine-heredia-for-money-laundering-both-have-turned-the.md)
