@@ -1,7 +1,7 @@
 ## [2015-02-8](/news/2015/02/8/index.md)
 
 ### [In Cairo, Egypt, clashes between police and fans of Zamalek SC kill 22 people. Egyptian authorities indefinitely suspend football league matches. ](/news/2015/02/8/in-cairo-egypt-clashes-between-police-and-fans-of-zamalek-sc-kill-22-people-egyptian-authorities-indefinitely-suspend-football-league-mat.md)
-_Context: Cairo, Egypt, Zamalek SC, policemen_
+_Context: Cairo, Egypt, Zamalek SC, police officers_
 
 ### [The National Academy of Recording Arts and Sciences members present the Grammy Awards at the Staples Center in Los Angeles, California. ](/news/2015/02/8/the-national-academy-of-recording-arts-and-sciences-members-present-the-grammy-awards-at-the-staples-center-in-los-angeles-california.md)
 YOU could almost predict who is going to take home a Grammy award by the roll call of artists tapped to perform on the big night.

@@ -22,7 +22,7 @@ Panama seizes a North Korean-flagged ship carrying &quot;undeclared military car
 _Context: North Korea, South Korea, cyberattack_
 
 ### [Clashes continue between Egyptian police and supporters of deposed President Mohamed Morsi in central Cairo with 22 people injured. ](/news/2013/07/16/clashes-continue-between-egyptian-police-and-supporters-of-deposed-president-mohamed-morsi-in-central-cairo-with-22-people-injured.md)
-_Context: Cairo, Egyptian President, Mohamed Morsi, policemen_
+_Context: Cairo, Egyptian President, Mohamed Morsi, police officers_
 
 ### [Norwegian black metal musician, Kristian "Varg" Vikernes, and his wife are arrested in France on suspicion of alleged plans for a terrorist act after buying 4 rifles at the same time. ](/news/2013/07/16/norwegian-black-metal-musician-kristian-varg-vikernes-and-his-wife-are-arrested-in-france-on-suspicion-of-alleged-plans-for-a-terrorist.md)
 A neo-Nazi musician linked to Norwegian mass killer Anders Behring Breivik is arrested in central France on suspicion of planning a &quot;major terrorist act&quot;.

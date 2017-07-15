@@ -34,7 +34,7 @@ The plane carrying footballers which crashed in Colombia ran out of fuel, a leak
 _Context: Basuki Tjahaja Purnama, Jakarta_
 
 ### [Two Hong Kong Youngspiration party Legislative Council election victors  lose their appeal to take their seats in parliament by a High Court three-judge panel. Tomorrow, the High Court will hear the independence supporters' petition for a hearing by the Court of Final Appeal. ](/news/2016/11/30/two-hong-kong-youngspiration-party-legislative-council-election-victors-lose-their-appeal-to-take-their-seats-in-parliament-by-a-high-court.md)
-_Context: Court of Final Appeal, High Court, Hong Kong, Hong Kong Legislative Council oath-taking controversy, Legislative Council, Youngspiration party_
+_Context: Court of Final Appeal, High Court, Hong Kong, Hong Kong Legislative Council oath-taking controversy, Youngspiration party, legislature_
 
 ### [The Indian Supreme Court orders all cinemas must play the national anthem, and the audience must stand  during its performance, before a film is screened. Order is effective in 10 days. ](/news/2016/11/30/the-indian-supreme-court-orders-all-cinemas-must-play-the-national-anthem-and-the-audience-must-stand-during-its-performance-before-a-fil.md)
 Further, the bench said people must show respect to the national anthem and the national flag and called it “imperative” to show them honour and respect.

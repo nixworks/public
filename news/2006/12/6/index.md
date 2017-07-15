@@ -7,7 +7,7 @@ _Context: Democratic Republic of the Congo, Joseph Kabila, President, presidenti
 _Context: Iraq, Iraq Study Group Report, United States_
 
 ### [ The Australian House of Representatives passes private members legislation allowing therapeutic cloning after a conscience vote. The Australian Senate had already approved the bill prepared by Senator Kay Patterson meaning that it will become law. ](/news/2006/12/6/the-australian-house-of-representatives-passes-private-members-legislation-allowing-therapeutic-cloning-after-a-conscience-vote-the-austra.md)
-_Context: Kay Patterson, Lower House, conscience vote, federal representation in Australia, therapeutic cloning_
+_Context: Kay Patterson, Lower House, Senator, conscience vote, therapeutic cloning_
 
 ### [ The United States Senate confirms Robert Gates as the next United States Secretary of Defense by 95-2. Gates will be sworn in on December 18. ](/news/2006/12/6/the-united-states-senate-confirms-robert-gates-as-the-next-united-states-secretary-of-defense-by-95-2-gates-will-be-sworn-in-on-december-1.md)
 _Context: Robert Gates, Secretary of Defense, United States Senate_

@@ -13,7 +13,7 @@ _Context: George W. Bush, John G. Roberts, Jr., President of the United States, 
 _Context: Chechnya, Russia, explosion_
 
 ### [ In the Philippines, President Gloria Arroyo announces that she intends to form a ''truth commission'' to investigate charges of poll fraud against her. ](/news/2005/07/19/in-the-philippines-president-gloria-arroyo-announces-that-she-intends-to-form-a-truth-commission-to-investigate-charges-of-poll-fraud.md)
-_Context: Gloria Arroyo, Philippines, President of the Philippines, electoral fraud, truth commission_
+_Context: Gloria Arroyo, Philippine president, Philippines, electoral fraud, truth commission_
 
 ### [ The Canadian Senate passes Bill C-38 to legalize same-sex marriage in Canada. The bill will become law when it receives Royal Assent from Governor General Adrienne Clarkson, scheduled for tomorrow. ](/news/2005/07/19/the-canadian-senate-passes-bill-c-38-to-legalize-same-sex-marriage-in-canada-the-bill-will-become-law-when-it-receives-royal-assent-from-g.md)
 _Context: Adrienne Clarkson, Bill C-38, Canadian Senate, Governor General, Royal Assent, same-sex marriage in Canada_

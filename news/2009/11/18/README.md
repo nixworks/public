@@ -7,7 +7,7 @@ France striker Thierry Henry admitted that he had intentionally handled the ball
 _Context: population of Africa_
 
 ### [ The Government of Hong Kong unveils a new democratic political reform plan, which includes the expansion of the Legislative Council. ](/news/2009/11/18/the-government-of-hong-kong-unveils-a-new-democratic-political-reform-plan-which-includes-the-expansion-of-the-legislative-council.md)
-_Context: Government of Hong Kong, Legislative Council_
+_Context: Government of Hong Kong, legislature_
 
 ### [ Iraqi Vice President Tariq al-Hashimi vetos part of the country's new election law, putting the scheduled January 2010 elections in doubt. ](/news/2009/11/18/iraqi-vice-president-tariq-al-hashimi-vetos-part-of-the-country-s-new-election-law-putting-the-scheduled-january-2010-elections-in-doubt.md)
 National polls scheduled for January in doubt as Tariq al-Hashemi objects to key article.

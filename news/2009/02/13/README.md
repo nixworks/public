@@ -19,7 +19,7 @@ A female homicide bomber attacked a tent filled with women and children resting 
 _Context: Paris, People's Republic of China, Qing Dynasty, Yves Saint Laurent, auction, estate, government, sculpture_
 
 ### [ Australia's Senate approves a $42-billion economic stimulus package. ](/news/2009/02/13/australia-s-senate-approves-a-42-billion-economic-stimulus-package.md)
-_Context: A$, Australia, economy of Australia, federal representation in Australia, stimulus package_
+_Context: A$, Australia, Senator, economy of Australia, stimulus package_
 
 ### [ Israeli Defense Forces in the Gaza Strip discover grenades made by Hamas from humanitarian supplies. ](/news/2009/02/13/israeli-defense-forces-in-the-gaza-strip-discover-grenades-made-by-hamas-from-humanitarian-supplies.md)
 _Context: Gaza Strip, Hamas, Israel, Israel Defense Forces, aid, grenade_

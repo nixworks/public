@@ -7,7 +7,7 @@ Hours after NATO agreed on Tuesday to send Patriot missiles to Turkey because of
 The Egyptian opposition maintains protests outside the presidential palace in Cairo, as it rejects a call for dialogue by President Mohammed Morsi.
 
 ### [The President of the Philippines Benigno Aquino declares a state of national calamity in the country following Typhoon Bopha, which has claimed over 450 lives. ](/news/2012/12/8/the-president-of-the-philippines-benigno-aquino-declares-a-state-of-national-calamity-in-the-country-following-typhoon-bopha-which-has-clai.md)
-_Context: Benigno Aquino III, President of the Philippines, Typhoon Bopha_
+_Context: Benigno Aquino III, Philippine president, Typhoon Bopha_
 
 ### [Eight people, including four children, are killed after fire rages through a popular night market in the Cambodian town of Siem Reap. ](/news/2012/12/8/eight-people-including-four-children-are-killed-after-fire-rages-through-a-popular-night-market-in-the-cambodian-town-of-siem-reap.md)
 A blaze rages for two hours in the night market, a popular tourist attraction, and destroys some 100 stalls selling souvenirs.

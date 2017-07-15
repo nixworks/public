@@ -4,7 +4,7 @@
 _Context: 2009 Bangladesh Rifles revolt, Bangladesh_
 
 ### [Coptic Christians clash with police in Cairo and Alexandria, Egypt, as they demand more protection for Egypt's Christian minority following a New Year's Day bombing of a Coptic church that killed 21. ](/news/2011/01/3/coptic-christians-clash-with-police-in-cairo-and-alexandria-egypt-as-they-demand-more-protection-for-egypt-s-christian-minority-following.md)
-_Context: Alexandria, Cairo, Christians, Copt, Egypt, New Year's Day church bombing, policemen_
+_Context: Alexandria, Cairo, Christians, Copt, Egypt, New Year's Day church bombing, police officers_
 
 ### [Sudanese soldiers kill one woman and rape six others near Attash Camp in South Darfur. ](/news/2011/01/3/sudanese-soldiers-kill-one-woman-and-rape-six-others-near-attash-camp-in-south-darfur.md)
 _Context: South Darfur, Sudanese soldiers_

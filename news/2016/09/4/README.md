@@ -28,7 +28,7 @@ _Context: 2016 U.S. presidential election, Gary Johnson, Libertarian, Richmond T
 _Context: Alternative for Germany, Germany, Landtag of Mecklenburg-Vorpommern, Mecklenburg-Vorpommern, Mecklenburg-Vorpommern state election, 2016_
 
 ### [Voters in Hong Kong go to the polls for a Legislative Council election, the first major election since the 2014 pro-democracy street protests. Several young pro-independence candidates win seats in the election. ](/news/2016/09/4/voters-in-hong-kong-go-to-the-polls-for-a-legislative-council-election-the-first-major-election-since-the-2014-pro-democracy-street-protest.md)
-_Context: 2014 pro-democracy street protests, Hong Kong, Hong Kong legislative election, 2016, Legislative Council_
+_Context: 2014 pro-democracy street protests, Hong Kong, Hong Kong legislative election, 2016, legislature_
 
 ## [Previous Day...](/news/2016/09/3/index.md)
 

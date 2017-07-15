@@ -7,7 +7,7 @@ A car bomb hit the center of Kabul late on Monday, just hours after a Taliban su
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 ### [With 2,400 people dead so far, Rodrigo Duterte, the President of the Philippines, says that "plenty will be killed" in the war against drugs. ](/news/2016/09/5/with-2-400-people-dead-so-far-rodrigo-duterte-the-president-of-the-philippines-says-that-plenty-will-be-killed-in-the-war-against-drugs.md)
-_Context: Philippine Drug War, President of the Philippines, Rodrigo Duterte_
+_Context: Philippine Drug War, Philippine president, Rodrigo Duterte_
 
 ### [An asteroid is named in honour of Freddie Mercury on what would have been his 70th birthday. ](/news/2016/09/5/an-asteroid-is-named-in-honour-of-freddie-mercury-on-what-would-have-been-his-70th-birthday.md)
 _Context: Freddie Mercury_

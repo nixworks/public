@@ -64,7 +64,7 @@ The suspected militants were interrogated by the taskforce team at an undisclose
 _Context: Chinese, Great Wall of China, Tibet_
 
 ### [ Paul Calvert announces his resignation as President of the Australian Senate and as a Senator for Tasmania effective from next week. ](/news/2007/08/7/paul-calvert-announces-his-resignation-as-president-of-the-australian-senate-and-as-a-senator-for-tasmania-effective-from-next-week.md)
-_Context: Paul Calvert, President of the Australian Senate, Tasmania, federal representation in Australia_
+_Context: Paul Calvert, President of the Australian Senate, Senator, Tasmania_
 
 ### [ An earthquake of 6.4 preliminary magnitude occurs off the coast of Okinawa in Japan. ](/news/2007/08/7/an-earthquake-of-6-4-preliminary-magnitude-occurs-off-the-coast-of-okinawa-in-japan.md)
 _Context: Japan, Okinawa, earthquake_
