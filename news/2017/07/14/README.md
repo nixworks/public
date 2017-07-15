@@ -1,6 +1,6 @@
 ## [2017-07-14](/news/2017/07/14/index.md)
 
-### [Two Druze Israeli police officers are killed in a terrorist attack by three Israeli Arab Muslim attackers at the Temple Mount in Jerusalem. ](/news/2017/07/14/two-druze-israeli-police-officers-are-killed-in-a-terrorist-attack-by-three-israeli-arab-muslim-attackers-at-the-temple-mount-in-jerusalem.md)
+### [Two Druze Israeli police officers are killed in an attack at Temple Mount in Jerusalem. ](/news/2017/07/14/two-druze-israeli-police-officers-are-killed-in-an-attack-at-temple-mount-in-jerusalem.md)
 Police say the attackers were killed after opening fire near the holy Temple Mount/Haram al-Sharif.
 
 ### [Gunmen shoot dead five police officers near Giza. ](/news/2017/07/14/gunmen-shoot-dead-five-police-officers-near-giza.md)
@@ -25,7 +25,7 @@ U.S. lays out criteria for visa applicants from six Muslim nationsVisa applicant
 The deputy Greens leader steps down from Federal Parliament, after admitting he has been ineligible to sit in the Senate for his whole tenure because he holds dual citizenship.
 
 ### [Four pro-democracy lawmakers are removed from the Hong Kong legislature. ](/news/2017/07/14/four-pro-democracy-lawmakers-are-removed-from-the-hong-kong-legislature.md)
-_Context: Hong Kong, legislature, pro-democracy_
+_Context: Hong Kong, Politics of Hong Kong, legislature, pro-democracy_
 
 ## [Previous Day...](/news/2017/07/13/index.md)
 
