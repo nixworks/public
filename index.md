@@ -3,6 +3,9 @@
 ### [An early morning fire in the Chinese city of Changshu in Jiangsu province kills 22 people and injures three. ](/news/2017/07/16/an-early-morning-fire-in-the-chinese-city-of-changshu-in-jiangsu-province-kills-22-people-and-injures-three.md)
 The fire broke out in a house in Changshu city in Jiangsu province.
 
+### [Jodie Whittaker has been announced to be replacing Peter Capaldi as the thirteenth incarnation of The Doctor, becoming the first woman to take the lead role of the BBC's long-running science fiction television series, ''Doctor Who''. ](/news/2017/07/16/jodie-whittaker-has-been-announced-to-be-replacing-peter-capaldi-as-the-thirteenth-incarnation-of-the-doctor-becoming-the-first-woman-to-ta.md)
+Jodie Whittaker is the first woman to get the role.
+
 ### [A stalemate between China and India leads to fears that the ongoing stand-off over Doklam in the Himalayas, disputed by Bhutan, may continue into the winter. It comes after rumors that Indian National Security Adviser, Ajit Doval may travel to Beijing later this month. ''[http://economictimes.indiatimes.com/news/defence/beijing-wont-have-formal-talks-with-india-stand-off-may-continue-till-winter-chinese-expert/articleshow/59615025.cms (Economic Times)]''](/news/2017/07/16/a-stalemate-between-china-and-india-leads-to-fears-that-the-ongoing-stand-off-over-doklam-in-the-himalayas-disputed-by-bhutan-may-continue.md)
 _Context: 2017 Doklam crisis, Ajit Doval, Beijing, Bhutan, China, Doklam, Himalayas, India_
 
@@ -27,7 +30,7 @@ _Context: China, Indonesia, Natuna, South China Sea, South China Sea disputes_
 Tehran police shot dead a man who attacked a clergyman and other people with a knife at a metro station on Saturday, Iranian state television reported.
 
 ### [Thousands protest silently in Hong Kong honoring the life of dissident Liu Xiaobo. ](/news/2017/07/15/thousands-protest-silently-in-hong-kong-honoring-the-life-of-dissident-liu-xiaobo.md)
-_Context: Hong Kong, Liu Xiaobo_
+_Context: Hong Kong, Liu Xiaobo, Politics of Hong Kong_
 
 ### [Chen Min'er replaces Sun Zhengcai as Communist Party Secretary of Chongqing; Sun Zhigang becomes party chief of Guizhou. ](/news/2017/07/15/chen-min-er-replaces-sun-zhengcai-as-communist-party-secretary-of-chongqing-sun-zhigang-becomes-party-chief-of-guizhou.md)
 China on Saturday named rising political star Chen Miner as Communist Party boss in southwestern Chongqing, cementing his reputation as a favorite of President Xi Jinping ahead of a leadership reshuffle at a key party congress in the autumn.
