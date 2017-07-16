@@ -7,7 +7,7 @@ _Context: Paramount Airlines, Sierra Leone, crashes_
 _Context: 2007 North Lebanon conflict, Lebanon, Palestinian refugee, Soldiers, radical Islamists_
 
 ### [ A 6.4 magnitude earthquake strikes southern China near the Myanmar and Laos borders, causing casualties. ](/news/2007/06/3/a-6-4-magnitude-earthquake-strikes-southern-china-near-the-myanmar-and-laos-borders-causing-casualties.md)
-_Context: Chinese, Laos, Myanmar, earthquake_
+_Context: China, Laos, Myanmar, earthquake_
 
 ## [Previous Day...](/news/2007/06/2/index.md)
 

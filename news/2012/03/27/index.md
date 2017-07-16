@@ -16,7 +16,7 @@ THE Libyan government yesterday admitted it faces a national crisis amid an esca
 _Context: Apple Inc., Tim Cook_
 
 ### [The United States Department of Justice says that it will not invoke antitrust laws to stop the merger of Humana with Arcadian Management Services, two important health insurance companies. ](/news/2012/03/27/the-united-states-department-of-justice-says-that-it-will-not-invoke-antitrust-laws-to-stop-the-merger-of-humana-with-arcadian-management-se.md)
-_Context: Arcadian Management Services, Humana, United States Department of Justice, antitrust laws, health insurance_
+_Context: Arcadian Management Services, Humana, U.S. Department of Justice, antitrust laws, health insurance_
 
 ### [The President of Sudan Omar Hassan al-Bashir cancels planned meetings with the government of South Sudan following border clashes yesterday. ](/news/2012/03/27/the-president-of-sudan-omar-hassan-al-bashir-cancels-planned-meetings-with-the-government-of-south-sudan-following-border-clashes-yesterday.md)
 _Context: 2012 South Sudan-Sudan border conflict, Omar Hassan al-Bashir, South Sudan, Sudan, Sudanese President_

@@ -28,13 +28,13 @@ _Context: Gazprom, Russia, Ukrainian_
 Ukrainians have called Vladimir Putin many bad names, among them a Nazi, a dictator and just plain evil. But nothing has caused a firestorm quite like a Ukrainian diplomat&#039;s use of a schoolyard epithet to describe the Russian president during an unscripted moment Saturday night.
 
 ### [The U.S. Supreme Court finds against the Republic of Argentina on a discovery issue in its litigation against hedge fund NML Capital, and refuses to hear appeals on the substantive issues in the same litigation: a victory for hold-out bond-holders against a defaulting sovereign. ](/news/2014/06/16/the-u-s-supreme-court-finds-against-the-republic-of-argentina-on-a-discovery-issue-in-its-litigation-against-hedge-fund-nml-capital-and-re.md)
-_Context: Argentina, Hedge fund, Supreme Court of the United States_
+_Context: Argentina, Hedge fund, U.S. Supreme Court_
 
 ### [A warrant is issued for the arrest of Peter O'Neill, Prime Minister of Papua New Guinea, in relation to a fraud case related to alleged payment of millions of dollars in illegal payments to a law firm. The Supreme Court of Papua New Guinea later stays the warrant. ](/news/2014/06/16/a-warrant-is-issued-for-the-arrest-of-peter-o-neill-prime-minister-of-papua-new-guinea-in-relation-to-a-fraud-case-related-to-alleged-paym.md)
 PNG&#039;s anti-corruption body issues an arrest warrant for Prime Minister Peter O&#039;Neill in relation to a fraud case.
 
 ### [The People's Republic of China sentences three men to death for a deadly attack at Beijing's Tiananmen Square last October. ](/news/2014/06/16/the-people-s-republic-of-china-sentences-three-men-to-death-for-a-deadly-attack-at-beijing-s-tiananmen-square-last-october.md)
-_Context: Beijing, Chinese, Tiananmen Square, last October_
+_Context: Beijing, China, Tiananmen Square, last October_
 
 ### [Israeli police arrest Aziz Duwaik, Speaker of the Palestinian Legislative Council and Hamas member,  during a wave of arrests linked to a manhunt for three kidnapped teenagers. ](/news/2014/06/16/israeli-police-arrest-aziz-duwaik-speaker-of-the-palestinian-legislative-council-and-hamas-member-during-a-wave-of-arrests-linked-to-a-ma.md)
 _Context: Aziz Duwaik, Hamas, Israel, Speaker of the Palestinian Legislative Council, three kidnapped teenagers_

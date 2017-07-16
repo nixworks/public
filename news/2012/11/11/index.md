@@ -19,7 +19,7 @@ Mohammad al-Dahabi found guilty of embezzlement and abuse of office and fined $3
 _Context: Bolivia, Brazil, Paraguay, cocaine_
 
 ### [A Tibetan teenager dies after self-immolating in Gansu, China, in the seventh such incident this week and 70th since 2009. ](/news/2012/11/11/a-tibetan-teenager-dies-after-self-immolating-in-gansu-china-in-the-seventh-such-incident-this-week-and-70th-since-2009.md)
-_Context: Chinese, Gansu, Tibet, sets herself alight, sets himself_
+_Context: China, Gansu, Tibet, sets herself alight, sets himself_
 
 ### [The Iranian parliament is to investigate the death of prominent blogger Sattar Beheshti in police custody. ](/news/2012/11/11/the-iranian-parliament-is-to-investigate-the-death-of-prominent-blogger-sattar-beheshti-in-police-custody.md)
 _Context: Iran, Sattar Beheshti_

@@ -13,7 +13,7 @@ _Context: International Monetary Fund, housing crisis_
 _Context: Movement for Democratic Change, Politics of Zimbabwe, President, President of South Africa, Robert Mugabe, South Africa, Thabo Mbeki, Zimbabwe, military, police, power-sharing talks_
 
 ### [ The U.S. State Department removes North Korea from its list of sponsors of terrorism. ](/news/2008/10/11/the-u-s-state-department-removes-north-korea-from-its-list-of-sponsors-of-terrorism.md)
-_Context: North Korea, United States Department of State, state sponsor of terrorism_
+_Context: North Korea, State Department's, state sponsor of terrorism_
 
 ### [ An earthquake struck southern Russia with tremors felt across five Russian regions. The epicentre was in Chechnya, with 12 dead. ](/news/2008/10/11/an-earthquake-struck-southern-russia-with-tremors-felt-across-five-russian-regions-the-epicentre-was-in-chechnya-with-12-dead.md)
 _Context: Chechnya, Russia, earthquake_

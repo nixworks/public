@@ -16,7 +16,7 @@ The boyfriend of a teenager who had her leg amputated after The Smiler ride cras
 _Context: 2015 Indian heat wave, heat wave, meteorologist, monsoon_
 
 ### [Rescue efforts continue for people on board the ship that sank on the Yangtze River in China's Hubei province with over 450 people on board. So far, fewer than 12 have been rescued and five bodies recovered. ](/news/2015/06/2/rescue-efforts-continue-for-people-on-board-the-ship-that-sank-on-the-yangtze-river-in-china-s-hubei-province-with-over-450-people-on-board.md)
-_Context: Chinese, Hubei, Sinking of the ''Dong Fang Zhi Xing'', Yangtze River_
+_Context: China, Hubei, Sinking of the ''Dong Fang Zhi Xing'', Yangtze River_
 
 ### [Two brothers whose father was on Malaysia Airlines Flight 370 last year when it disappeared receive compensation from the government of Malaysia and Malaysian Airlines. ](/news/2015/06/2/two-brothers-whose-father-was-on-malaysia-airlines-flight-370-last-year-when-it-disappeared-receive-compensation-from-the-government-of-mala.md)
 _Context: Malaysia, Malaysia Airlines Flight 370, Malaysian Airlines_

@@ -10,7 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Fair Russia, Federal Assembly, Rodina, Russia, Russian Party of Life, Russian Pensioners' Party, Sergey Mironov, opposition party, political parties_
 
 ### [ Prime Minister of Iraq Nouri al-Maliki tells the U.S. ambassador that he is Washington's friend but "not America's man in Iraq." ](/news/2006/10/28/prime-minister-of-iraq-nouri-al-maliki-tells-the-u-s-ambassador-that-he-is-washington-s-friend-but-not-america-s-man-in-iraq.md)
-_Context: Iraq, Iraq Prime Minister, Nouri al-Maliki, United States of America, Washington, D.C._
+_Context: American, Iraq, Iraq Prime Minister, Nouri al-Maliki, Washington, D.C._
 
 ### [ At least 42 people are killed in a bus crash in Nepal. ](/news/2006/10/28/at-least-42-people-are-killed-in-a-bus-crash-in-nepal.md)
 _Context: Nepal, bus crash_

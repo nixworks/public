@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Five men in London are attacked with acid in five potentially linked attacks. Two young suspects are taken into custody. ](/news/2017/07/13/five-men-in-london-are-attacked-with-acid-in-five-potentially-linked-attacks-two-young-suspects-are-taken-into-custody.md) _Context: London_
+1. [Five men in London are attacked with acid in five linked attacks. Two teenaged suspects are taken into custody. ](/news/2017/07/13/five-men-in-london-are-attacked-with-acid-in-five-linked-attacks-two-teenaged-suspects-are-taken-into-custody.md) _Context: London_
 2. [A large fire breaks out at the Camden Markets in North West London, with over 70 firefighters and 10 firetrucks attending the scene. No casualties have been reported. ](/news/2017/07/10/a-large-fire-breaks-out-at-the-camden-markets-in-north-west-london-with-over-70-firefighters-and-10-firetrucks-attending-the-scene-no-casu.md) _Context: London_
 3. [A childcare worker in London is reportedly stabbed by three Muslim women while on her way to work, suffering non life threatening injuries. ](/news/2017/06/7/a-childcare-worker-in-london-is-reportedly-stabbed-by-three-muslim-women-while-on-her-way-to-work-suffering-non-life-threatening-injuries.md) _Context: London_
 4. [The suspected death toll of the fire in North Kensington, London earlier in the week significantly increases, as the Metropolitan Police Service reports that a minimum of 58 people are missing and feared dead. ](/news/2017/06/17/the-suspected-death-toll-of-the-fire-in-north-kensington-london-earlier-in-the-week-significantly-increases-as-the-metropolitan-police-ser.md) _Context: London_

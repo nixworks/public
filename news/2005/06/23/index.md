@@ -1,7 +1,7 @@
 ## [2005-06-23](/news/2005/06/23/index.md)
 
 ### [ The Supreme Court of the United States decides 5-4 in the case ''Kelo v. New London'' that local governments can seize residential and commercial property for private development projects against the will of property owners as a "public use" under the 5th Amendment. ](/news/2005/06/23/the-supreme-court-of-the-united-states-decides-5-4-in-the-case-kelo-v-new-london-that-local-governments-can-seize-residential-and-comm.md)
-_Context: Fifth Amendment, Kelo v. New London, Supreme Court of the United States_
+_Context: Fifth Amendment, Kelo v. New London, U.S. Supreme Court_
 
 ### [ Elderly former Ku Klux Klansman Edgar Ray Killen was sentenced to 60 years in prison for the 1964 killing of three civil rights workers, the notorious crime that galvanized the civil rights movement and inspired the 1988 movie ''Mississippi Burning''. Circuit Judge Marcus Gordon handed down the maximum possible sentence for the 80-year-old former Baptist preacher, a punishment which will likely keep him in prison for the rest of his life. ](/news/2005/06/23/elderly-former-ku-klux-klansman-edgar-ray-killen-was-sentenced-to-60-years-in-prison-for-the-1964-killing-of-three-civil-rights-workers-th.md)
 Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.

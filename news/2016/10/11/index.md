@@ -22,7 +22,7 @@ London&#039;s premier share index powered to a new intraday trading high on Tues
 Symantec&#039;s latest research on Odinaff hacker group and its attacks on SWIFT users indicates a surge in cybercrime against financial institutions.
 
 ### [A residential building collapses in the eastern China city of Wenzhou, leaving at least 22 people dead. ](/news/2016/10/11/a-residential-building-collapses-in-the-eastern-china-city-of-wenzhou-leaving-at-least-22-people-dead.md)
-_Context: Chinese, Wenzhou_
+_Context: China, Wenzhou_
 
 ### [The United Nations launches an emergency appeal for almost U.S.$120 million in life-saving help for 750,000 survivors in Haiti at risk of starvation and/or cholera. ](/news/2016/10/11/the-united-nations-launches-an-emergency-appeal-for-almost-u-s-120-million-in-life-saving-help-for-750-000-survivors-in-haiti-at-risk-of-st.md)
 Parts of Haiti hit by Matthew were still without aid Tuesday, as the U.N. sought $120 million in life-saving aid for 750,000 survivors at risk of cholera.
@@ -34,7 +34,7 @@ U.S. investigators believe a Jordanian student pilot was trying to kill himself 
 Infections of the Zika virus are &quot;highly likely&quot; to keep spreading in Asia and the Pacific, the World Health Organization (WHO) warns.
 
 ### [The U.S. Supreme Court hears arguments in a patent dispute between Apple Inc. and Samsung concerning both company's smart phone designs (Samsung Electronics v. Apple (15-777)). ](/news/2016/10/11/the-u-s-supreme-court-hears-arguments-in-a-patent-dispute-between-apple-inc-and-samsung-concerning-both-company-s-smart-phone-designs-sam.md)
-_Context: Apple Inc., Samsung, Supreme Court of the United States_
+_Context: Apple Inc., Samsung, U.S. Supreme Court_
 
 ### [The Obama administration through the U.S. Department of Justice announces that they will file criminal contempt of court charges against Maricopa County, Arizona sheriff Joe Arpaio for violating a judge's order to stop immigration patrols that led to a court finding of racial profiling. The charges carry a maximum penalty of six months in jail. ](/news/2016/10/11/the-obama-administration-through-the-u-s-department-of-justice-announces-that-they-will-file-criminal-contempt-of-court-charges-against-mar.md)
 Sheriff Joe Arpaio faces a misdemeanor charge of defying a court order to stop racial profiling of Latinos suspected of being in the U.S. illegally.

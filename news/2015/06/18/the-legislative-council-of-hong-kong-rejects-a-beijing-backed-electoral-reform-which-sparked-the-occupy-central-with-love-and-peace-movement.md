@@ -11,7 +11,7 @@ Hong Kong’s legislature rejected a Beijing-backed election-reform plan, dealin
 
 ### Related:
 
-1. [Four pro-democracy lawmakers are removed from the Hong Kong legislature. ](/news/2017/07/14/four-pro-democracy-lawmakers-are-removed-from-the-hong-kong-legislature.md) _Context: legislature_
+1. [Four lawmakers are removed from the Hong Kong legislature. ](/news/2017/07/14/four-lawmakers-are-removed-from-the-hong-kong-legislature.md) _Context: legislature_
 2. [Former United States officials report that 18-20 Central Intelligence Agency sources were killed or imprisoned by the Government of China between 2010 and 2012, which significantly hampered the United States Intelligence Community. ](/news/2017/05/20/former-united-states-officials-report-that-18a20-central-intelligence-agency-sources-were-killed-or-imprisoned-by-the-government-of-china.md) _Context: Government of China_
 3. [The Government of China begins a two-day summit in Beijing, in an attempt to raise international support for its Belt and Road Initiative. ](/news/2017/05/14/the-government-of-china-begins-a-two-day-summit-in-beijing-in-an-attempt-to-raise-international-support-for-its-belt-and-road-initiative.md) _Context: Government of China_
 4. [Two Hong Kong Youngspiration party Legislative Council election victors  lose their appeal to take their seats in parliament by a High Court three-judge panel. Tomorrow, the High Court will hear the independence supporters' petition for a hearing by the Court of Final Appeal. ](/news/2016/11/30/two-hong-kong-youngspiration-party-legislative-council-election-victors-lose-their-appeal-to-take-their-seats-in-parliament-by-a-high-court.md) _Context: legislature_

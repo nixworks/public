@@ -67,7 +67,7 @@ Government will not allow Riek Machar back until international monitors verify n
 Thousands of people have protested in the German city of Hannover against a proposed Transatlantic Trade and Investment Partnership (TTIP) deal.
 
 ### [According to the Sudanese electoral commission, more than 97% of voters in Darfur choose to remain as five states rather than form a single region. However, The vote was held amid ongoing insecurity and many of Sudan's 2.5 million displaced people were not registered to vote, with the U.S. State Department warning that the referendum could not be considered credible "under current rules and conditions". ](/news/2016/04/23/according-to-the-sudanese-electoral-commission-more-than-97-of-voters-in-darfur-choose-to-remain-as-five-states-rather-than-form-a-single.md)
-_Context: Darfur, Darfurian status referendum, 2016, Sudan, United States Department of State_
+_Context: Darfur, Darfurian status referendum, 2016, State Department's, Sudan_
 
 ### [Congo President Denis Sassou Nguesso names former opposition leader Clement Mouamba as prime minister. ](/news/2016/04/23/congo-president-denis-sassou-nguesso-names-former-opposition-leader-cla-c-ment-mouamba-as-prime-minister.md)
 _Context: Clement Mouamba, Congo President, Denis Sassou Nguesso_

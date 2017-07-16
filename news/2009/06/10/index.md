@@ -34,7 +34,7 @@ _Context: Russia, Shchuchye, Kurgan Oblast, nerve agent_
 _Context: Japan, North Korea, South Korea, United Nations Security Council, United Nations Security Council resolution_
 
 ### [ Palau agrees to accept up to 17 Chinese Uighurs from Guantanamo Bay detention camp. ](/news/2009/06/10/palau-agrees-to-accept-up-to-17-chinese-uighurs-from-guantanamo-bay-detention-camp.md)
-_Context: Chinese, Guantanamo Bay Detention Camp, Palau, Uyghur_
+_Context: China, Guantanamo Bay Detention Camp, Palau, Uyghur_
 
 ### [ The Thai army is sent to reinforce positions along Thailand's border with Burma after an influx of Karen refugees following a Burmese army offensive in Karen state. ](/news/2009/06/10/the-thai-army-is-sent-to-reinforce-positions-along-thailand-s-border-with-burma-after-an-influx-of-karen-refugees-following-a-burmese-army.md)
 _Context: Burma, Internal conflict in Burma, Karen, Karen State, Myanmar Army, Royal Thai Army, Thailand_

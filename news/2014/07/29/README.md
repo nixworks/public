@@ -10,7 +10,7 @@ IDF carries out heaviest strikes to date in northern Gaza. Territory plunged int
 _Context: Baghdad, Iraqi Army, Iraqi insurgency (2011-present)_
 
 ### [Dozens of people are dead after a mob armed with knives rampages through township of Elixku in China's restive Xinjiang region and is met with gunfire. ](/news/2014/07/29/dozens-of-people-are-dead-after-a-mob-armed-with-knives-rampages-through-township-of-elixku-in-china-s-restive-xinjiang-region-and-is-met-wi.md)
-_Context: Chinese, Xinjiang_
+_Context: China, Xinjiang_
 
 ### [A suicide bomber kills Hashmat Karzai, the cousin of the President of Afghanistan and a regional powerbroker, in the city of Kandahar. ](/news/2014/07/29/a-suicide-bomber-kills-hashmat-karzai-the-cousin-of-the-president-of-afghanistan-and-a-regional-powerbroker-in-the-city-of-kandahar.md)
 The killing of President Hamid Karzai&rsquo;s cousin Hashmat by a Taliban suicide bomber has further weakened his government, analysts say

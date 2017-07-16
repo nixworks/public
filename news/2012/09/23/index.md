@@ -19,7 +19,7 @@ At least nine people are killed and several are missing in Nepal after an avalan
 Iran plans to switch its citizens onto a domestic Internet network in what officials say is a bid to improve cyber security but which many Iranians fear is the latest way to control their access to the web.
 
 ### [Citing nuclear sanctions, the United States of America deny visas to 20 out of 160 Iranian officials, of which two are ministers, impeaching diplomats' attendance at next week's United Nations General Assembly meeting in New York. ](/news/2012/09/23/citing-nuclear-sanctions-the-united-states-of-america-deny-visas-to-20-out-of-160-iranian-officials-of-which-two-are-ministers-impeaching.md)
-_Context: Iran, New York, United Nations General Assembly, United States of America, visa-free travel_
+_Context: American, Iran, New York, United Nations General Assembly, visa-free travel_
 
 ### [Libya dissolves all armed groups and militia not under the authority of the state. ](/news/2012/09/23/libya-dissolves-all-armed-groups-and-militia-not-under-the-authority-of-the-state.md)
 Two groups in eastern city of Derna announce they will lay down arms, as Tripoli bans all non-state-sanctioned militias.

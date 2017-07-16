@@ -22,7 +22,7 @@ The Glastonbury festival and promoters Festival Republic to &quot;go their separ
 Barclays Bank pays £290m in penalties and boss Bob Diamond gives up his bonus after it tried to manipulate the interest rates at which banks lend to each other.
 
 ### [Bank of China becomes the first Chinese bank to open a branch in Taiwan. ](/news/2012/06/27/bank-of-china-becomes-the-first-chinese-bank-to-open-a-branch-in-taiwan.md)
-_Context: Bank of China, Chinese, Taiwan_
+_Context: Bank of China, China, Taiwan_
 
 ### [At least 50 people are killed in rain-triggered landslides in the Bangladesh districts of Cox's Bazaar and Chittagong. ](/news/2012/06/27/at-least-50-people-are-killed-in-rain-triggered-landslides-in-the-bangladesh-districts-of-cox-s-bazaar-and-chittagong.md)
 Landslides and floods kill at least 76 following three days of rains.

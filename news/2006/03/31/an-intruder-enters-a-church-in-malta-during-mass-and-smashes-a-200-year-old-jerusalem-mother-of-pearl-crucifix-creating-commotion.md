@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Two Druze Israeli police officers are killed in a terrorist attack by three Israeli Arab Muslim attackers at the Temple Mount in Jerusalem. ](/news/2017/07/14/two-druze-israeli-police-officers-are-killed-in-a-terrorist-attack-by-three-israeli-arab-muslim-attackers-at-the-temple-mount-in-jerusalem.md) _Context: Jerusalem_
+1. [Two Druze Israeli police officers are killed in an attack at Temple Mount in Jerusalem. ](/news/2017/07/14/two-druze-israeli-police-officers-are-killed-in-an-attack-at-temple-mount-in-jerusalem.md) _Context: Jerusalem_
 2. [A bill allowing same-sex marriage in Malta gets approved by Parliament. ](/news/2017/07/12/a-bill-allowing-same-sex-marriage-in-malta-gets-approved-by-parliament.md) _Context: Malta_
 3. [Voters in Malta go to the polls for a snap election, with current Prime Minister Joseph Muscat and his Labour Party facing off against Forza Nazzjonali, led by Simon Busuttil. The election comes amid corruption allegations leveled against Muscat's associates. ](/news/2017/06/3/voters-in-malta-go-to-the-polls-for-a-snap-election-with-current-prime-minister-joseph-muscat-and-his-labour-party-facing-off-against-forza.md) _Context: Malta_
 4. [In two simultaneous attacks near the Damascus Gate in Jerusalem, an Israeli policewoman is fatally stabbed; the three Palestinian assailants are shot dead. ISIL claims were questioned by Israeli authorities. As well, the PFLP and Hamas claim it was their members who did it. ](/news/2017/06/16/in-two-simultaneous-attacks-near-the-damascus-gate-in-jerusalem-an-israeli-policewoman-is-fatally-stabbed-the-three-palestinian-assailants.md) _Context: Jerusalem_

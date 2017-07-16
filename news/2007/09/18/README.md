@@ -13,7 +13,7 @@ _Context: United States Federal Reserve, interest rates, stock market_
 _Context: Arifur Rahman, Bangladesh, Muhammad, Prothom Alo, caricature, cartoonist_
 
 ### [ China confirms a bird flu outbreak in Guangzhou.](/news/2007/09/18/china-confirms-a-bird-flu-outbreak-in-guangzhou.md)
-_Context: Avian flu virus, Chinese, Guangzhou_
+_Context: Avian flu virus, China, Guangzhou_
 
 ### [ More than 1,000 Buddhist monks march peacefully in Myanmar as part of a wave of anti-government protests. The marches are dispersed using teargas.  ](/news/2007/09/18/more-than-1-000-buddhist-monks-march-peacefully-in-myanmar-as-part-of-a-wave-of-anti-government-protests-the-marches-are-dispersed-using-t.md)
 _Context: Buddhists, Myanmar, monk, teargas_
@@ -31,10 +31,10 @@ _Context: North Korea, Syria, nuclear warheads_
 _Context: Australia, wheat_
 
 ### [ 2007 Pacific typhoon season: Hundreds of thousands of people are evacuated from Shanghai, China as Typhoon Wipha approaches. ](/news/2007/09/18/2007-pacific-typhoon-season-hundreds-of-thousands-of-people-are-evacuated-from-shanghai-china-as-typhoon-wipha-approaches.md)
-_Context: 2007 Pacific typhoon season, Chinese, Shanghai_
+_Context: 2007 Pacific typhoon season, China, Shanghai_
 
 ### [ The son of Philippine House Speaker Jose De Venecia, Jr., Jose "Joey" De Venecia III, disclosed in a Senate inquiry that First Gentleman Mike Arroyo is the "mystery man" behind the controversial $ 329-million broadband contract with ZTE Corp. in China. ](/news/2007/09/18/the-son-of-philippine-house-speaker-jose-de-venecia-jr-jose-joey-de-venecia-iii-disclosed-in-a-senate-inquiry-that-first-gentleman-mi.md)
-_Context: Chinese, First Gentleman, Jose De Venecia, Jr., Mike Arroyo, Philippines, Senate, ZTE, broadband_
+_Context: China, First Gentleman, Jose De Venecia, Jr., Mike Arroyo, Philippines, Senate, ZTE, broadband_
 
 ### [ O.J. Simpson is charged with several felonies in Las Vegas, Nevada. ](/news/2007/09/18/o-j-simpson-is-charged-with-several-felonies-in-las-vegas-nevada.md)
 _Context: Las Vegas, Nevada, O. J. Simpson, felons_

@@ -22,7 +22,7 @@ Tens of thousands of public sector workers demonstrate in the Romanian capital t
 _Context: Everybody Draw Mohammed Day, Facebook, Inc., Lahore High Court, Mohammed, Pakistan Telecommunication Authority_
 
 ### [Ukraine and China are interested in cooperation in cargo transportation sphere. Konstyantyn Hryshchenko says this at the joint news conference with Foreign Minister of China Yang Jiechi. ](/news/2010/05/19/ukraine-and-china-are-interested-in-cooperation-in-cargo-transportation-sphere-konstyantyn-hryshchenko-says-this-at-the-joint-news-conferen.md)
-_Context: Chinese, Foreign Minister of China, Konstyantyn Hryshchenko, Ukrainian, Yang_
+_Context: China, Foreign Minister of China, Konstyantyn Hryshchenko, Ukrainian, Yang_
 
 ### [10 people are confirmed dead and one is missing after a coal mine gas explosion Tuesday in north China's Shanxi Province ](/news/2010/05/19/10-people-are-confirmed-dead-and-one-is-missing-after-a-coal-mine-gas-explosion-tuesday-in-north-china-s-shanxi-province.md)
 _Context: Shanxi province_

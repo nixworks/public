@@ -91,7 +91,7 @@ _Context: Brazil, Brazilian presidential election_
 Military-ruled Myanmar Thursday announced restrictions on campaigning for Novembers general election that it said were to assure the polls are free and...
 
 ### [The Fields Medal is awarded to Elon Lindenstrauss, Ngo Bao Chau, Stanislav Smirnov and Cedric Villani at the 2010 International Congress of Mathematicians in Hyderabad, India. ](/news/2010/08/19/the-fields-medal-is-awarded-to-elon-lindenstrauss-nga-baopso-chac-u-stanislav-smirnov-and-ca-c-dric-villani-at-the-2010-international-congres.md)
-_Context: Cedric Villani, Elon Lindenstrauss, Fields Medals, Hyderabad, International Congress of Mathematicians, Ngo Bao Chau, Stanislav Smirnov_
+_Context: Cedric Villani, Elon Lindenstrauss, Fields Medal, Hyderabad, International Congress of Mathematicians, Ngo Bao Chau, Stanislav Smirnov_
 
 ## [Previous Day...](/news/2010/08/18/index.md)
 

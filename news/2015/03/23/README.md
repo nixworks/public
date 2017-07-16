@@ -4,7 +4,7 @@
 _Context: Baghdad, Iraq, Iraqi insurgency (2011-present)_
 
 ### [China's biggest state-owned chemical company ChemChina acquires a 26% stake in Italian tire manufacturer Pirelli with an additional offer to buy the remaining outstanding shares. ](/news/2015/03/23/china-s-biggest-state-owned-chemical-company-chemchina-acquires-a-26-stake-in-italian-tire-manufacturer-pirelli-with-an-additional-offer-to.md)
-_Context: ChemChina, Chinese, Italian, Pirelli, outstanding shares_
+_Context: ChemChina, China, Italian, Pirelli, outstanding shares_
 
 ### [A bus crashes into traffic near Huarmey in northern Peru, leaving at least thirty-seven people dead and dozens injured. ](/news/2015/03/23/a-bus-crashes-into-traffic-near-huarmey-in-northern-peru-leaving-at-least-thirty-seven-people-dead-and-dozens-injured.md)
 At least 37 people are killed after a bus swerves into oncoming traffic in Peru, authorities say.
@@ -19,7 +19,7 @@ Former Grand Slam tennis champion Bob Hewitt, 75, has been found guilty of two c
 Former NFL star Darren Sharper admitted in court on Monday to drugging and raping women in California and Arizona and was expected to plead guilty in similar Nevada and Louisiana cases in plea deals prosecutors say will land him in prison for at least nine years.
 
 ### [The U.S. Supreme Court affirms Wisconsin's law requiring voters to present photo identification to cast a ballot. ](/news/2015/03/23/the-u-s-supreme-court-affirms-wisconsin-s-law-requiring-voters-to-present-photo-identification-to-cast-a-ballot.md)
-_Context: Supreme Court of the United States, Wisconsin_
+_Context: U.S. Supreme Court, Wisconsin_
 
 ### [The U.S. state of Utah reinstates the use of execution by firing squad for situations where lethal injection is not possible. ](/news/2015/03/23/the-u-s-state-of-utah-reinstates-the-use-of-execution-by-firing-squad-for-situations-where-lethal-injection-is-not-possible.md)
 _Context: Utah, execution by firing squad, lethal injection_

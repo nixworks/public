@@ -1,7 +1,7 @@
 ## [2010-01-25](/news/2010/01/25/index.md)
 
 ### [Live Nation and Ticketmaster complete their merger, following an agreement with the United States Department of Justice to divest some interests. ](/news/2010/01/25/live-nation-and-ticketmaster-complete-their-merger-following-an-agreement-with-the-united-states-department-of-justice-to-divest-some-inter.md)
-_Context: Live Nation, Ticketmaster, United States Department of Justice_
+_Context: Live Nation, Ticketmaster, U.S. Department of Justice_
 
 ### [Police in the Venezuelan capital Caracas disperse an opposition student protest over the closure of several television stations. Meanwhile, Vice President Ramn Carrizales resigns. ](/news/2010/01/25/police-in-the-venezuelan-capital-caracas-disperse-an-opposition-student-protest-over-the-closure-of-several-television-stations-meanwhile.md)
 _Context: Caracas, Ramn Carrizales, Venezuela_

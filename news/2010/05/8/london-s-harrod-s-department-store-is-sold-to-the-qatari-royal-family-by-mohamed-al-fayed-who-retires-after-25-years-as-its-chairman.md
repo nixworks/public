@@ -14,7 +14,7 @@
 
 ### Related:
 
-1. [Five men in London are attacked with acid in five potentially linked attacks. Two young suspects are taken into custody. ](/news/2017/07/13/five-men-in-london-are-attacked-with-acid-in-five-potentially-linked-attacks-two-young-suspects-are-taken-into-custody.md) _Context: London_
+1. [Five men in London are attacked with acid in five linked attacks. Two teenaged suspects are taken into custody. ](/news/2017/07/13/five-men-in-london-are-attacked-with-acid-in-five-linked-attacks-two-teenaged-suspects-are-taken-into-custody.md) _Context: London_
 2. [A large fire breaks out at the Camden Markets in North West London, with over 70 firefighters and 10 firetrucks attending the scene. No casualties have been reported. ](/news/2017/07/10/a-large-fire-breaks-out-at-the-camden-markets-in-north-west-london-with-over-70-firefighters-and-10-firetrucks-attending-the-scene-no-casu.md) _Context: London_
 3. [The Saudi Arabia-led bloc against Qatar issues a "terror list" against the peninsula. ](/news/2017/06/8/the-saudi-arabia-led-bloc-against-qatar-issues-a-terror-list-against-the-peninsula.md) _Context: Qatar_
 4. [The Philippines partially lifts a temporary suspension of deployment of overseas workers to Qatar. ](/news/2017/06/7/the-philippines-partially-lifts-a-temporary-suspension-of-deployment-of-overseas-workers-to-qatar.md) _Context: Qatar_

@@ -10,7 +10,7 @@ _Context: Algoma Steel, Essar Group, India, Minnesota Steel, U.S., USD_
 _Context: International Atomic Energy Agency, Iran, Natanz, centrifuge, diplomat, uranium_
 
 ### [ The Supreme Court of the United States rules 5-4 in favor of upholding the Partial-Birth Abortion Ban Act in the case of ''Gonzales v. Carhart''. ](/news/2007/04/18/the-supreme-court-of-the-united-states-rules-5-4-in-favor-of-upholding-the-partial-birth-abortion-ban-act-in-the-case-of-gonzales-v-carh.md)
-_Context: Gonzales v. Carhart, Partial-Birth Abortion Ban Act, Supreme Court of the United States_
+_Context: Gonzales v. Carhart, Partial-Birth Abortion Ban Act, U.S. Supreme Court_
 
 ### [ Virginia Tech massacre: Virginia Tech police respond to what turned out to be an unfounded threat near Norris Hall, where 31 people died Monday in the United States's deadliest ever shooting spree. ](/news/2007/04/18/virginia-tech-massacre-p-virginia-tech-police-respond-to-what-turned-out-to-be-an-unfounded-threat-near-norris-hall-where-31-people-died-m.md)
 _Context: United States, Virginia Tech, massacre, shooting spree_
@@ -34,7 +34,7 @@ The mayor of the Japanese city of Nagasaki died early on Wednesday after being g
 _Context: People's Republic of China, high-speed rail_
 
 ### [ Thirty-two steel workers are killed and two more injured in China after a ladle full of liquid steel failed, engulfing an adjacent room full of workers. ](/news/2007/04/18/thirty-two-steel-workers-are-killed-and-two-more-injured-in-china-after-a-ladle-full-of-liquid-steel-failed-engulfing-an-adjacent-room-ful.md)
-_Context: Chinese, ladle_
+_Context: China, ladle_
 
 ### [ UEFA chooses Poland and Ukraine as joint hosts for the 2012 UEFA European Football Championship. ](/news/2007/04/18/uefa-chooses-poland-and-ukraine-as-joint-hosts-for-the-2012-uefa-european-football-championship.md)
 _Context: 2012 UEFA European Football Championship, Poland, UEFA, Ukrainian_

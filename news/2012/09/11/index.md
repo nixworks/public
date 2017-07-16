@@ -22,7 +22,7 @@ Three men were found shot dead in a car in the mountains of Corsica on Tuesday, 
 _Context: Italian, Milan_
 
 ### [Moody's warns the United States that it faces a downgrade in its credit rating before 2014 if the government fails to act on managing its  debt. ](/news/2012/09/11/moody-s-warns-the-united-states-that-it-faces-a-downgrade-in-its-credit-rating-before-2014-if-the-government-fails-to-act-on-managing-its-d.md)
-_Context:  debt, Moody's, United States of America, bond_
+_Context:  debt, American, Moody's, bond_
 
 ### [Japan's Minister of State for Financial Services Tadahiro Matsushita is found dead in his home in Tokyo. His death has been ruled a suicide and may further complicate matters for the ruling party which has been battered by internal divisions and parliamentary gridlock. Finance minister Jun Azumi has been named to succeed Matsushita. ](/news/2012/09/11/japan-s-minister-of-state-for-financial-services-tadahiro-matsushita-is-found-dead-in-his-home-in-tokyo-his-death-has-been-ruled-a-suicide.md)
 Japanese Banking MinisterTadahiro Matsushita was found hanged at his home on Monday inwhat police suspect was a suicide, Kyodo news agency said.

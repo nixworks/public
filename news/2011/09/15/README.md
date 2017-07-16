@@ -52,7 +52,7 @@ One in four people charged over the riots in English cities last month had commi
 London police arrest trader Kweku Adoboli after Swiss bank UBS says unauthorised trading by a staff member led to losses of $2bn (£1.3bn).
 
 ### [The Supreme Court of the United States halts the execution of Duane Buck for double murder in Texas while it reviews his case that the sentence was unfair because of a question asked about race during his trial. ](/news/2011/09/15/the-supreme-court-of-the-united-states-halts-the-execution-of-duane-buck-for-double-murder-in-texas-while-it-reviews-his-case-that-the-sente.md)
-_Context: Supreme Court of the United States, Texas_
+_Context: Texas, U.S. Supreme Court_
 
 ### [Danish election:Voters in Denmark go to the polls for parliamentary elections with a left-wing Coalition led by the Social Democrats winning enough seats to form Government. ](/news/2011/09/15/danish-election-pvoters-in-denmark-go-to-the-polls-for-parliamentary-elections-with-a-left-wing-coalition-led-by-the-social-democrats-winnin.md)
 _Context: Denmark, Social Democrat, parliamentary elections_

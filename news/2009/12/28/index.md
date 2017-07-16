@@ -7,19 +7,19 @@ _Context: Hirohisa Fujii, Japan, finance minister_
 _Context: Argentine, Latin America, civil ceremony, homosexuality, same-sex marriage_
 
 ### [ Xinhua News Agency says China has rescued 25 sailors and the ''De Xin Hai'', the hijacked Chinese cargo ship, two months after they were seized off Somalia. ](/news/2009/12/28/xinhua-news-agency-says-china-has-rescued-25-sailors-and-the-de-xin-hai-the-hijacked-chinese-cargo-ship-two-months-after-they-were-se.md)
-_Context: Chinese, De Xin Hai, People's Republic of China, Somalia, Xinhua News Agency_
+_Context: China, De Xin Hai, People's Republic of China, Somalia, Xinhua News Agency_
 
 ### [ A mine explosion in Shuangbai County, Yunnan causes more deaths to add to those from a similar incident in Jiexiu, Shanxi yesterday, bringing the total deaths for the two incidents to 17, with six other people still trapped. ](/news/2009/12/28/a-mine-explosion-in-shuangbai-county-yunnan-causes-more-deaths-to-add-to-those-from-a-similar-incident-in-jiexiu-shanxi-yesterday-bringi.md)
 _Context: Jiexiu, Shanxi province, Shuangbai County, Yunnan_
 
 ### [ China donates 1.1 million dollars to an irrigation project in Guantanamo Province, Cuba. ](/news/2009/12/28/china-donates-1-1-million-dollars-to-an-irrigation-project-in-guanta-namo-province-cuba.md)
-_Context: Chinese, Cuba, Guantanamo Province_
+_Context: China, Cuba, Guantanamo Province_
 
 ### [ Construction begins on China's largest civil aircraft final assembly base in Shanghai. ](/news/2009/12/28/construction-begins-on-china-s-largest-civil-aircraft-final-assembly-base-in-shanghai.md)
-_Context: Chinese, Shanghai_
+_Context: China, Shanghai_
 
 ### [ Authorities in Guangdong, China shut down a battery factory and commence health checks of all children in the region after it is discovered that dozens of poisoned children had high levels of lead in their blood. ](/news/2009/12/28/authorities-in-guangdong-china-shut-down-a-battery-factory-and-commence-health-checks-of-all-children-in-the-region-after-it-is-discovered.md)
-_Context: Chinese, Guangdong province_
+_Context: China, Guangdong province_
 
 ### [ Clashes between joint military-police forces and an Islamic sect in Bauchi, Nigeria, result in at least 35 deaths. ](/news/2009/12/28/clashes-between-joint-military-police-forces-and-an-islamic-sect-in-bauchi-nigeria-result-in-at-least-35-deaths.md)
 _Context: Bauchi, Islam, Nigeria_

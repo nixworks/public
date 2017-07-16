@@ -13,7 +13,7 @@ US President Barack Obama called for an &quot;immediate ceasefire&quot; between 
 Watching the livestream of Monty Python&#039;s last ever performance on GOLD, it was impossible not to experience a tingle of sadness
 
 ### [The death toll from Typhoon Rammasun reaches 94 in the Philippines and 18 in southern China. ](/news/2014/07/20/the-death-toll-from-typhoon-rammasun-reaches-94-in-the-philippines-and-18-in-southern-china.md)
-_Context: 2014 Pacific typhoon season, Chinese, Philippines, Typhoon Rammasun (Glenda)_
+_Context: 2014 Pacific typhoon season, China, Philippines, Typhoon Rammasun (Glenda)_
 
 ### [For the first time in RIMPAC's history a nation (China) sent a surveillance vessel while also participating in the naval exercises.](/news/2014/07/20/for-the-first-time-in-rimpac-s-history-a-nation-china-sent-a-surveillance-vessel-while-also-participating-in-the-naval-exercises.md)
 China has sent a spy ship to international waters off of Hawaii during a giant U.S.-led naval exercise involving 22 countries, even as Beijing participates in the drills for the first time this year, the U.S. Navy said on Sunday.

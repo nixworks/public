@@ -31,7 +31,7 @@ Chinese dissident Chen Guangcheng telephones a US Congressional hearing to plead
 _Context: ECOWAS, Mali, Malian coup d'tat_
 
 ### [China, France, Russia, the United Kingdom and United States urge Iran to co-operate with the International Atomic Energy Agency. ](/news/2012/05/3/china-france-russia-the-united-kingdom-and-united-states-urge-iran-to-co-operate-with-the-international-atomic-energy-agency.md)
-_Context: Chinese, France, International Atomic Energy Agency, Iran, Russia, UK, United States_
+_Context: China, France, International Atomic Energy Agency, Iran, Russia, UK, United States_
 
 ### [Bahrain's King Hamad bin Isa Al Khalifa grants new powers to parliament. ](/news/2012/05/3/bahrain-s-king-hamad-bin-isa-al-khalifa-grants-new-powers-to-parliament.md)
 Monarch gives extra powers to parliament despite criticism from opposition which says new measures are only symbolic.

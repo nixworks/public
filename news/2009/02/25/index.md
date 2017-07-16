@@ -43,7 +43,7 @@ _Context: Belgrade, Milorad Ulemek, Serbia, aiding, assassinated, officer_
 _Context: Japan, export_
 
 ### [ The U.S. State Department criticizes China's human rights record. ](/news/2009/02/25/the-u-s-state-department-criticizes-china-s-human-rights-record.md)
-_Context: Chinese human rights, People's Republic of China, United States, United States Department of State_
+_Context: Chinese human rights, People's Republic of China, State Department's, United States_
 
 ### [ Islamist terrorist group Al-Shabaab seizes Hudur, Somalia. ](/news/2009/02/25/islamist-terrorist-group-al-shabaab-seizes-hudur-somalia.md)
 _Context: Al-Shabaab, Somali Civil War, Somalia, radical Islamists, terrorism_

@@ -31,7 +31,7 @@ Southern China has been warned to brace for more storms after extreme weather la
 _Context: Barack Obama, Israel, Palestinian, Palestinian, Palestinian, U.S. President, visit_
 
 ### [North Korea threatens to attack American military bases in Japan in response to the use of nuclear-capable B-52 bombers in joint military drills with South Korea. ](/news/2013/03/21/north-korea-threatens-to-attack-american-military-bases-in-japan-in-response-to-the-use-of-nuclear-capable-b-52-bombers-in-joint-military-dr.md)
-_Context: American B-52 strategic bomber, Japan, North Korea, South Korea, United States of America, military drills_
+_Context: American, American B-52 strategic bomber, Japan, North Korea, South Korea, military drills_
 
 ### [A dispute between a Muslim gold shop owner and Buddhist sellers escalates into communal violence that leaves 10 people dead, 20 injured, and 4 mosques burnt to the ground in Myanmar. ](/news/2013/03/21/a-dispute-between-a-muslim-gold-shop-owner-and-buddhist-sellers-escalates-into-communal-violence-that-leaves-10-people-dead-20-injured-and.md)
 _Context: Buddhist, Muslim, Myanmar, communal violence, mosque_

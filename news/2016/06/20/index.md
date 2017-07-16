@@ -7,7 +7,7 @@ The guards, who were from Nepal, were in their way to work in the Banaee area of
 Four Iraqi soldiers have been killed in a suicide bombing outside the camp where New Zealand soldiers are deployed in Iraq.
 
 ### [The  U.S. Supreme Court reversed an appeals court ruling that would have narrowly interpreted the auto salesman's exemption from overtime pay rules mandated by statute under rules promulgated by the U.S. Labor Department, remanding the matter for further consideration. ](/news/2016/06/20/the-u-s-supreme-court-reversed-an-appeals-court-ruling-that-would-have-narrowly-interpreted-the-auto-salesman-s-exemption-from-overtime-pa.md)
-_Context: Supreme Court of the United States, U.S. Labor Department, overtime pay_
+_Context: U.S. Labor Department, U.S. Supreme Court, overtime pay_
 
 ### [According to the United Nations High Commissioner for Refugees, the number of people displaced by conflicts in the world is at its highest level ever recorded, with an estimated 65.3 million people either being refugees, internally displaced or asylum seekers. ](/news/2016/06/20/according-to-the-united-nations-high-commissioner-for-refugees-the-number-of-people-displaced-by-conflicts-in-the-world-is-at-its-highest-l.md)
 More than 65m people worldwide are displaced by conflict and war, the UN refugee agency says, half from Syria, Afghanistan and Somalia.

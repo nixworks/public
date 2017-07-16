@@ -20,4 +20,4 @@
 7. [A prison riot between rival gangs in Acapulco, Mexico, leaves at least 28 inmates dead. ](/news/2017/07/6/a-prison-riot-between-rival-gangs-in-acapulco-mexico-leaves-at-least-28-inmates-dead.md) _Context: Mexico_
 8. [France plans to make vaccines mandatory for children in 2018. ](/news/2017/07/5/france-plans-to-make-vaccines-mandatory-for-children-in-2018.md) _Context: France_
 9. [Two gunmen open fire near a mosque in Avignon, France, injuring eight people. Two of the victims were hospitalised. ](/news/2017/07/2/two-gunmen-open-fire-near-a-mosque-in-avignon-france-injuring-eight-people-two-of-the-victims-were-hospitalised.md) _Context: France_
-10. [Masked men attack a birthday party in Tizayuca, Mexico, killing 11 adults. ](/news/2017/07/13/masked-men-attack-a-birthday-party-in-tizayuca-mexico-killing-11-adults.md) _Context: Mexico_
+10. [American actor Leonardo DiCaprio and Mexican president Enrique Pena Nieto meet to discuss the protection of the Vaquita porpoise. ](/news/2017/06/8/american-actor-leonardo-dicaprio-and-mexican-president-enrique-pea-a-nieto-meet-to-discuss-the-protection-of-the-vaquita-porpoise.md) _Context: Mexico_

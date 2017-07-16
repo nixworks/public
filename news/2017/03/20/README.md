@@ -19,7 +19,7 @@ Francisco Guterres, who is favoured by key powerbroker Xanana Gusmao, told Fairf
 FBI Director James B. Comey and Adm. Mike Rogers, director of the NSA, will be in the hot seat.
 
 ### [The Senate Judiciary Committee begins hearings on the nomination of Judge Neil M. Gorsuch to the Supreme Court of the United States. ](/news/2017/03/20/the-senate-judiciary-committee-begins-hearings-on-the-nomination-of-judge-neil-m-gorsuch-to-the-supreme-court-of-the-united-states.md)
-_Context: Neil Gorsuch Supreme Court nomination, Neil M. Gorsuch, Senate Judiciary Committee, Supreme Court of the United States_
+_Context: Neil Gorsuch Supreme Court nomination, Neil M. Gorsuch, Senate Judiciary Committee, U.S. Supreme Court_
 
 ### [British Prime Minister Theresa May announces that her government will trigger article 50, which begins the process of withdrawing from the European Union, on March 29. ](/news/2017/03/20/british-prime-minister-theresa-may-announces-that-her-government-will-trigger-article-50-which-begins-the-process-of-withdrawing-from-the-e.md)
 EU sources say Theresa May missed chance of swift start to Brexit negotiations, which are now likely to start in June

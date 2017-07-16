@@ -13,7 +13,7 @@ At least one protester was shot dead and dozens wounded on Friday when riot poli
 _Context: Japan, Prime Minister, Senkaku Islands, Senkaku Islands dispute, Shinzo Abe, military_
 
 ### [A bus catches fire after falling into a ravine in Gansu province, China, killing 18 people and injuring 34 others. ](/news/2013/02/2/a-bus-catches-fire-after-falling-into-a-ravine-in-gansu-province-china-killing-18-people-and-injuring-34-others.md)
-_Context: Chinese, Gansu_
+_Context: China, Gansu_
 
 ### [Five road accidents in two days claims the lives of at least 58 people in China before Chinese New Year. ](/news/2013/02/2/five-road-accidents-in-two-days-claims-the-lives-of-at-least-58-people-in-china-before-chinese-new-year.md)
 Beijing, Feb 3 (IANS) Five road accidents in two days have claimed the lives of at least 58 people, as thousands of Chinese started travelling across the country for the Lunar New Year.

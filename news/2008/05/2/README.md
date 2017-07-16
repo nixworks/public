@@ -16,7 +16,7 @@ _Context: Seoul, South Korea, mad cow disease_
 _Context: Movement for Democratic Change, President of Zimbabwe, Robert Mugabe, Zimbabwe African National Union, run-off presidential election_
 
 ### [ The foreign ministers of the United Kingdom, United States, Germany, France, Russia and China agree to make a new offer to Iran over its nuclear program. ](/news/2008/05/2/the-foreign-ministers-of-the-united-kingdom-united-states-germany-france-russia-and-china-agree-to-make-a-new-offer-to-iran-over-its-nu.md)
-_Context: Chinese, Foreign Minister, France, Germany, Iran, Russia, UK, United States, nuclear scientist_
+_Context: China, Foreign Minister, France, Germany, Iran, Russia, UK, United States, nuclear scientist_
 
 ### [ A plane crash kills more than a dozen in Southern Sudan, including defense minister Dominic Dim Deng. ](/news/2008/05/2/a-plane-crash-kills-more-than-a-dozen-in-southern-sudan-including-defense-minister-dominic-dim-deng.md)
 _Context: Dominic Dim Deng, Southern Sudan_

@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Four pro-democracy lawmakers are removed from the Hong Kong legislature. ](/news/2017/07/14/four-pro-democracy-lawmakers-are-removed-from-the-hong-kong-legislature.md) _Context: Hong Kong, legislature_
+1. [Four lawmakers are removed from the Hong Kong legislature. ](/news/2017/07/14/four-lawmakers-are-removed-from-the-hong-kong-legislature.md) _Context: Hong Kong, legislature_
 2. [Two Hong Kong Youngspiration party Legislative Council election victors  lose their appeal to take their seats in parliament by a High Court three-judge panel. Tomorrow, the High Court will hear the independence supporters' petition for a hearing by the Court of Final Appeal. ](/news/2016/11/30/two-hong-kong-youngspiration-party-legislative-council-election-victors-lose-their-appeal-to-take-their-seats-in-parliament-by-a-high-court.md) _Context: Hong Kong, legislature_
 3. [Thousands of people march in Hong Kong to demand the Legislative Council reject a China backed proposal for the naming of candidates for Chief Executive be done by a nominating committee. ](/news/2015/06/14/thousands-of-people-march-in-hong-kong-to-demand-the-legislative-council-reject-a-china-backed-proposal-for-the-naming-of-candidates-for-chi.md) _Context: Hong Kong, legislature_
 4. [Pro-democracy protesters peacefully return to the streets of Hong Kong for the first time since the end of Occupy Central protests in December. ](/news/2015/02/1/pro-democracy-protesters-peacefully-return-to-the-streets-of-hong-kong-for-the-first-time-since-the-end-of-occupy-central-protests-in-decemb.md) _Context: 2014 pro-democracy street protests, Hong Kong_

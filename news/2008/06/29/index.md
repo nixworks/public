@@ -13,7 +13,7 @@ _Context: Flagstaff, Arizona_
 _Context: Fernando Torres, Germany, Spain, UEFA Euro 2008_
 
 ### [ China will commence a new range of talks with representatives of the Dalai Lama in early July. ](/news/2008/06/29/china-will-commence-a-new-range-of-talks-with-representatives-of-the-dalai-lama-in-early-july.md)
-_Context: Chinese, Dalai Lama_
+_Context: China, Dalai Lama_
 
 ### [ At least six people die and 39 are laid by bomb blasts in Assam, India, with the United Liberation Front of Asom believed to be responsible. ](/news/2008/06/29/at-least-six-people-die-and-39-are-laid-by-bomb-blasts-in-assam-india-with-the-united-liberation-front-of-asom-believed-to-be-responsible.md)
 _Context: Assam, India, United Liberation Front of Asom, bomb_

@@ -12,7 +12,7 @@ THE PRESIDENTIAL Commission on Good Government (PCGG)-- which is tasked to pursu
 
 ### Related:
 
-1. [Former Philippine president  Benigno Aquino III is indicted for his failure to prevent the 2015 Mamasapano clash. ](/news/2017/07/14/former-philippine-president-benigno-aquino-iii-is-indicted-for-his-failure-to-prevent-the-2015-mamasapano-clash.md) _Context: Benigno Aquino III_
+1. [Aftermath of the Former Philippine president  Benigno Aquino III is indicted for his failure to prevent the 2015 Mamasapano clash. ](/news/2017/07/14/aftermath-of-the-former-philippine-president-benigno-aquino-iii-is-indicted-for-his-failure-to-prevent-the-2015-mamasapano-clash.md) _Context: Benigno Aquino III_
 2. [The Philippines top historian resigns to protest President Rodrigo Duterte's decision to allow the burial of Ferdinand Marcos in the Heroes' Cemetery at Fort Bonifacio in Manila. ](/news/2016/11/29/the-philippines-top-historian-resigns-to-protest-president-rodrigo-duterte-s-decision-to-allow-the-burial-of-ferdinand-marcos-in-the-heroes.md) _Context: Ferdinand Marcos_
 3. [The Philippine Supreme Court postpones the burial of former Philippines dictator Ferdinand Marcos until at least October 18. ](/news/2016/09/8/the-philippine-supreme-court-postpones-the-burial-of-former-philippines-dictator-ferdinand-marcos-until-at-least-october-18.md) _Context: Ferdinand Marcos_
 4. [The Duterte administration defends its decision to bury the former dictator Ferdinand Marcos in the Philippine heroes' cemetery. ](/news/2016/09/7/the-duterte-administration-defends-its-decision-to-bury-the-former-dictator-ferdinand-marcos-in-the-philippine-heroes-cemetery.md) _Context: Ferdinand Marcos_

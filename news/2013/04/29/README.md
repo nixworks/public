@@ -19,7 +19,7 @@ _Context: 2013 ricin attacks_
 _Context: Boston, Boston Marathon bombings, DNA, Dzhokhar Tsarnaev, Russia, death penalty, life in prison without parole_
 
 ### [The U.S. Supreme Court declines to hear a petition (Eaton Corp v. Z F Meritor) from Eaton Corp., letting stand a U.S. 3rd Circuit Court ruling on an antitrust issue that may limit the use of loyalty discounts in the form of rebates as a way of locking in customers. ](/news/2013/04/29/the-u-s-supreme-court-declines-to-hear-a-petition-eaton-corp-v-z-f-meritor-from-eaton-corp-letting-stand-a-u-s-3rd-circuit-court-ruli.md)
-_Context: Eaton Corp., Supreme Court of the United States, United States court, antitrust_
+_Context: Eaton Corp., U.S. Supreme Court, United States court, antitrust_
 
 ### [A powerful explosion occurs in an office building in Prague, Czech Republic, believed to have been caused by natural gas, injures 35 people. Both the nearby Faculty of Arts and Sciences building of Charles University and the National Theater also sustain damage. ](/news/2013/04/29/a-powerful-explosion-occurs-in-an-office-building-in-prague-czech-republic-believed-to-have-been-caused-by-natural-gas-injures-35-people.md)
 _Context: Charles University, Czech Republic, Prague, explosion_

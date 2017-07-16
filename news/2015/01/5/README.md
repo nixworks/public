@@ -22,7 +22,7 @@ _Context: Ancient Egypt, Czech, Fifth Dynasty, Khentakawess III_
 _Context: Israel, Jesus, Old City of Jerusalem, Tower of David Museum_
 
 ### [China relaxes controls over the export of rare earth elements after losing a case brought by the United States at the World Trade Organization. ](/news/2015/01/5/china-relaxes-controls-over-the-export-of-rare-earth-elements-after-losing-a-case-brought-by-the-united-states-at-the-world-trade-organizati.md)
-_Context: Chinese, United States, World Trade Organization, rare earth element_
+_Context: China, United States, World Trade Organization, rare earth element_
 
 ### [Ireland becomes the first European nation to be allowed to export beef to the United States since the mad cow disease scare 15 years ago. ](/news/2015/01/5/ireland-becomes-the-first-european-nation-to-be-allowed-to-export-beef-to-the-united-states-since-the-mad-cow-disease-scare-15-years-ago.md)
 _Context: Europe, Ireland, United States, mad cow disease_
@@ -49,7 +49,7 @@ Former Taiwanese president Chen Shui-bian is to be released from prison after be
 _Context: Jiangsu, Nanjing, Yang Weize, anti-graft agency_
 
 ### [The Justice Department charges two American citizens of Gambian descent with violating the Neutrality Act by helping to finance and lead the 2014 Gambian coup d'etat attempt. ](/news/2015/01/5/the-justice-department-charges-two-american-citizens-of-gambian-descent-with-violating-the-neutrality-act-by-helping-to-finance-and-lead-the.md)
-_Context: 2014 Gambian coup d'etat attempt, American, Gambia, Neutrality Act, United States Department of Justice_
+_Context: 2014 Gambian coup d'etat attempt, American, Gambia, Neutrality Act, U.S. Department of Justice_
 
 ## [Previous Day...](/news/2015/01/4/index.md)
 

@@ -7,7 +7,7 @@ _Context: Afghanistan, Islamabad, Pakistan, Taliban, Taliban insurgency, coaliti
 Gunmen opened fire and killed a police colonel and his aide as their vehicle was passing through a roundabout in the southern Yemeni city of Aden on Saturday, a local security official and witnesses said.
 
 ### [China announces plans to build a railway linking the Tibetan capital Lhasa with Chengdu. ](/news/2016/03/5/china-announces-plans-to-build-a-railway-linking-the-tibetan-capital-lhasa-with-chengdu.md)
-_Context: Chengdu, Chinese, Lhasa, Tibet_
+_Context: Chengdu, China, Lhasa, Tibet_
 
 ### [More than 60 people are hospitalized after an engine  explodes on a crowded Bangkok, Thailand, commuter boat. Police suspect a liquefied natural gas leak caused the blast. The boat operator has been ordered to use diesel fuel only on its 25-boat fleet. ](/news/2016/03/5/more-than-60-people-are-hospitalized-after-an-engine-explodes-on-a-crowded-bangkok-thailand-commuter-boat-police-suspect-a-liquefied-nat.md)
 An initial police investigation suggested the blast was caused by a fuel leak aboard the boat.

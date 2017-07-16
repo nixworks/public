@@ -4,7 +4,7 @@
 The coordinated attack is another stinging blow to NATO-backed Afghan forces. 
 
 ### [An Indonesian maritime patrol boat, the ''KM Hiu Macan 001'', intercepts five boats and arrested 55 Vietnamese crew members for allegedly poaching off Natuna Islands, but after an unexpected aggressive intervention by Vietnamese coast guards forces the Indonesian authorities to back off, release the arrested men and return to base empty handed. ](/news/2017/05/21/an-indonesian-maritime-patrol-boat-the-km-hiu-macan-001-intercepts-five-boats-and-arrested-55-vietnamese-crew-members-for-allegedly-po.md)
-_Context: Indonesia, Natuna Islands, Vietnam_
+_Context: Indonesia, Natuna, Vietnam_
 
 ### [After 146 years, the Ringling Bros. and Barnum & Bailey Circus comes to a close. ](/news/2017/05/21/after-146-years-the-ringling-bros-and-barnum-bailey-circus-comes-to-a-close.md)
 _Context: Ringling Bros. and Barnum & Bailey Circus_
