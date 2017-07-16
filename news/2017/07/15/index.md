@@ -12,6 +12,9 @@ Tehran police shot dead a man who attacked a clergyman and other people with a k
 ### [Thousands protest silently in Hong Kong honoring the life of dissident Liu Xiaobo. ](/news/2017/07/15/thousands-protest-silently-in-hong-kong-honoring-the-life-of-dissident-liu-xiaobo.md)
 _Context: Hong Kong, Liu Xiaobo_
 
+### [Chen Min'er replaces Sun Zhengcai as Communist Party Secretary of Chongqing; Sun Zhigang becomes party chief of Guizhou. ](/news/2017/07/15/chen-min-er-replaces-sun-zhengcai-as-communist-party-secretary-of-chongqing-sun-zhigang-becomes-party-chief-of-guizhou.md)
+China on Saturday named rising political star Chen Miner as Communist Party boss in southwestern Chongqing, cementing his reputation as a favorite of President Xi Jinping ahead of a leadership reshuffle at a key party congress in the autumn.
+
 ### [Maryam Mirzakhani, the first woman and first Iranian to win the Fields Medal in mathematics, dies at 40 of breast cancer. ](/news/2017/07/15/maryam-mirzakhani-the-first-woman-and-first-iranian-to-win-the-fields-medal-in-mathematics-dies-at-40-of-breast-cancer.md)
 Stanford University’s Maryam Mirzakhani was the first and only woman to win the prestigious Fields Medal in mathematics.
 

@@ -1,0 +1,23 @@
+### [2017-07-15](/news/2017/07/15/index.md)
+
+# Chen Min'er replaces Sun Zhengcai as Communist Party Secretary of Chongqing; Sun Zhigang becomes party chief of Guizhou. 
+
+China on Saturday named rising political star Chen Miner as Communist Party boss in southwestern Chongqing, cementing his reputation as a favorite of President Xi Jinping ahead of a leadership reshuffle at a key party congress in the autumn.
+
+
+### Source:
+
+1. [Reuters](https://www.reuters.com/article/us-china-politics-idUSKBN1A001G)
+
+### Related:
+
+1. [Chen Min'er replaces Zhao Kezhi as the Communist Party Secretary of Guizhou province, China. Zhao awaits assignment. ](/news/2015/07/30/chen-min-er-replaces-zhao-kezhi-as-the-communist-party-secretary-of-guizhou-province-china-zhao-awaits-assignment.md) _Context: Chen Min'er, Communist Party Secretary_
+2. [China appoints Sun Zhengcai as new chief for the city of Chongqing, once led by disgraced politician Bo Xilai. ](/news/2012/11/20/china-appoints-sun-zhengcai-as-new-chief-for-the-city-of-chongqing-once-led-by-disgraced-politician-bo-xilai.md) _Context: Chongqing, Sun Zhengcai_
+3. [Chinese state media reports that all 33 miners trapped underground have been found dead on Monday after a gas explosion at Jinshangou Coal Mine in Laisu Town of Yongchuan District in Chongqing, and preliminary investigations have been started. ](/news/2016/11/2/chinese-state-media-reports-that-all-33-miners-trapped-underground-have-been-found-dead-on-monday-after-a-gas-explosion-at-jinshangou-coal-m.md) _Context: Chongqing_
+4. [A court sentences former Communist Party Secretary of Yunnan province, Bai Enpei, to death for corruption and amassing wealth of unclear origin. ](/news/2016/10/9/a-court-sentences-former-communist-party-secretary-of-yunnan-province-bai-enpei-to-death-for-corruption-and-amassing-wealth-of-unclear-ori.md) _Context: Communist Party Secretary_
+5. [At least 13 people are killed and 20 others are missing following a gas explosion in a coal mine in western China's Chongqing region. ](/news/2016/10/31/at-least-13-people-are-killed-and-20-others-are-missing-following-a-gas-explosion-in-a-coal-mine-in-western-china-s-chongqing-region.md) _Context: Chongqing_
+6. [Former Agricultural Bank of China chief executive Jiang Chaoliang is appointed Communist Party Secretary of Hubei province, filling the vacancy left by Li Hongzhong. ](/news/2016/10/30/former-agricultural-bank-of-china-chief-executive-jiang-chaoliang-is-appointed-communist-party-secretary-of-hubei-province-filling-the-vaca.md) _Context: Communist Party Secretary_
+7. [In China, the Central Commission for Discipline Inspection places under investigation Tianjin mayor Huang Xingguo, who is also serving as acting Communist Party Secretary. ](/news/2016/09/11/in-china-the-central-commission-for-discipline-inspection-places-under-investigation-tianjin-mayor-huang-xingguo-who-is-also-serving-as-ac.md) _Context: Communist Party Secretary_
+8. [Political reshuffle in ChinaLi Jinbin becomes Communist Party Secretary (top official) of Anhui, succeeding Wang Xuejun.Chen Quanguo becomes Communist Party Secretary of the Xinjiang Uyghur Autonomous Region, succeeding Zhang Chunxian, who will take on another office.Li Jiheng becomes Communist Party Secretary of the Inner Mongolia Autonomous Region, succeeding Wang Jun. ](/news/2016/08/29/political-reshuffle-in-chinapli-jinbin-becomes-communist-party-secretary-top-official-of-anhui-succeeding-wang-xuejun-pchen-quanguo-becom.md) _Context: Communist Party Secretary_
+9. [Political reshuffle in China:Wu Yingjie becomes the Communist Party Secretary of the Tibet Autonomous Region, replacing Chen Quanguo, who will assume another post.Chen Hao becomes Communist Party Secretary of Yunnan, replacing Li Jiheng, who will assume another post.Du Jiahao becomes Communist Party Secretary of Hunan, replacing Xu Shousheng. ](/news/2016/08/28/political-reshuffle-in-china-pwu-yingjie-becomes-the-communist-party-secretary-of-the-tibet-autonomous-region-replacing-chen-quanguo-who-w.md) _Context: Communist Party Secretary_
+10. [China says Chinese passengers flying from the Chinese cities of  Nanchang, Kunming, and Chongqing, will be allowed to stop at Taiwan Taoyuan International Airport before flying to a third destination. Taiwan President Ma Ying-jeou applauded  this step toward normalizing relations between the two states. Taiwan's opposition party expressed concern that Beijing is trying to interfere with the country's January 16, 2016, presidential and legislative elections. ](/news/2016/01/5/china-says-chinese-passengers-flying-from-the-chinese-cities-of-nanchang-kunming-and-chongqing-will-be-allowed-to-stop-at-taiwan-taoyuan.md) _Context: Chongqing_
