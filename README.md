@@ -1,10 +1,7 @@
-## [News](/news/2017/07/15/index.md)
+## [News](/news/2017/07/16/index.md)
 
-### [An attack by a man armed with a knife in Tehran Metro's Shahr-e-Rey Station leaves two injured. The attacker is shot dead by the police. ](/news/2017/07/15/an-attack-by-a-man-armed-with-a-knife-in-tehran-metro-s-shahr-e-rey-station-leaves-two-injured-the-attacker-is-shot-dead-by-the-police.md)
-Tehran police shot dead a man who attacked a clergyman and other people with a knife at a metro station on Saturday, Iranian state television reported.
-
-### [Maryam Mirzakhani, the first woman and first Iranian to win the Fields Medal in mathematics, dies at 40 of breast cancer. ](/news/2017/07/15/maryam-mirzakhani-the-first-woman-and-first-iranian-to-win-the-fields-medal-in-mathematics-dies-at-40-of-breast-cancer.md)
-Stanford University’s Maryam Mirzakhani was the first and only woman to win the prestigious Fields Medal in mathematics.
+### [Voters in the Republic of the Congo participate in the first round of an election of National Assembly members. ](/news/2017/07/16/voters-in-the-republic-of-the-congo-participate-in-the-first-round-of-an-election-of-national-assembly-members.md)
+The A.U. team is headed by former Mali Prime Minister, Django Sissoko, he leads a team of 40 observers.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -12,7 +9,23 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ---
 
-## [Yesterday](/news/2017/07/14/index.md)
+## [Yesterday](/news/2017/07/15/index.md)
+
+### [At least eight people are killed  in a stampede at a football stadium in Dakar, Senegal, that started after police used tear gas to break up a fight between the rival teams fans. ](/news/2017/07/15/at-least-eight-people-are-killed-in-a-stampede-at-a-football-stadium-in-dakar-senegal-that-started-after-police-used-tear-gas-to-break-up.md)
+At least eight people were killed on Saturday in a stampede in a soccer stadium in the Senegalese capital Dakar during a match between two local teams, the sports minister said.
+
+### [Indonesia renames part of the sea as "North Natuna Sea," angering China. ](/news/2017/07/15/indonesia-renames-part-of-the-sea-as-north-natuna-sea-angering-china.md)
+_Context: China, Indonesia, Natuna, South China Sea disputes_
+
+### [An attack by a man armed with a knife in Tehran Metro's Shahr-e-Rey Station leaves two injured. The attacker is shot dead by the police. ](/news/2017/07/15/an-attack-by-a-man-armed-with-a-knife-in-tehran-metro-s-shahr-e-rey-station-leaves-two-injured-the-attacker-is-shot-dead-by-the-police.md)
+Tehran police shot dead a man who attacked a clergyman and other people with a knife at a metro station on Saturday, Iranian state television reported.
+
+### [Maryam Mirzakhani, the first woman and first Iranian to win the Fields Medal in mathematics, dies at 40 of breast cancer. ](/news/2017/07/15/maryam-mirzakhani-the-first-woman-and-first-iranian-to-win-the-fields-medal-in-mathematics-dies-at-40-of-breast-cancer.md)
+Stanford University’s Maryam Mirzakhani was the first and only woman to win the prestigious Fields Medal in mathematics.
+
+---
+
+## [Day Before Yesterday](/news/2017/07/14/index.md)
 
 ### [Two Druze Israeli police officers are killed in an attack at Temple Mount in Jerusalem. ](/news/2017/07/14/two-druze-israeli-police-officers-are-killed-in-an-attack-at-temple-mount-in-jerusalem.md)
 Police say the attackers were killed after opening fire near the holy Temple Mount/Haram al-Sharif.
@@ -43,32 +56,7 @@ _Context: Hong Kong, Politics of Hong Kong, legislature_
 
 ---
 
-## [Day Before Yesterday](/news/2017/07/13/index.md)
-
-### [Masked men attack a child's birthday party in Tizayuca, Hidalgo, killing 11 adults. ](/news/2017/07/13/masked-men-attack-a-child-s-birthday-party-in-tizayuca-hidalgo-killing-11-adults.md)
-Police said they found three children alive but all the adults at the party were shot dead.
-
-### [Five men in London are attacked with acid in five linked attacks. Two teenaged suspects are taken into custody. ](/news/2017/07/13/five-men-in-london-are-attacked-with-acid-in-five-linked-attacks-two-teenaged-suspects-are-taken-into-custody.md)
-_Context: Crime in London, London, attacked with acid_
-
-### [A suspect in a disappearances case in Bucks County, Pennsylvania, reportedly confesses to killing and burying four men. ](/news/2017/07/13/a-suspect-in-a-disappearances-case-in-bucks-county-pennsylvania-reportedly-confesses-to-killing-and-burying-four-men.md)
-A 20-year-old man has confessed to killing four men who were missing for days and burying their bodies at a sprawling Bucks County, Pennsylvania, farm owned by his family, his attorney said on Thursday.
-
-### [The U.S. Department of Justice charges 412 individuals with health care fraud. Collectively, these individuals are accused of collectively defrauding $1.3 billion from the U.S. government. ](/news/2017/07/13/the-u-s-department-of-justice-charges-412-individuals-with-health-care-fraud-collectively-these-individuals-are-accused-of-collectively-d.md)
-About a third of the defendants are accused of opioid-related crimes. Other accusations included billing Medicare and Medicaid for drugs that were never purchased.
-
-### [Executive Order 13780, ''Hawaii v. Trump''Hawaii District Judge Derrick Watson extends the definition of "close family members" to include grandparents, aunts, and uncles, thereby exempting them from President Donald Trump's travel ban on six Muslim-majority nations. ](/news/2017/07/13/executive-order-13780-hawaii-v-trump-phawaii-district-judge-derrick-watson-extends-the-definition-of-close-family-members-to-include.md)
-A U.S. District Court judge in Hawaii ordered the Trump administration not to enforce the travel ban on grandparents, grandchildren, aunts, uncles, and other relatives.
-
-### [Prominent Chinese dissident and Nobel Peace Prize winner Liu Xiaobo dies.  ](/news/2017/07/13/prominent-chinese-dissident-and-nobel-peace-prize-winner-liu-xiaobo-dies.md)
-The Nobel laureate, known for his fight for democracy and human rights, was suffering from cancer.
-
-### [The Congressional Budget Office estimates that in ten years the federal budget of U.S. President Donald Trump will produce a $720 billion deficit rather than a $16 billion surplus as claimed by the Trump administration. ](/news/2017/07/13/the-congressional-budget-office-estimates-that-in-ten-years-the-federal-budget-of-u-s-president-donald-trump-will-produce-a-720-billion-de.md)
-President Donald Trump’s proposed budget wouldn’t balance within 10 years, contrary to the White House’s claim, the nonpartisan Congressional Budget Office said Thursday.
-
----
-
-## [Previous Day...](/news/2017/07/12/index.md)
+## [Previous Day...](/news/2017/07/13/index.md)
 
 ---
 
