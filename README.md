@@ -45,7 +45,7 @@ Police say the attackers were killed after opening fire near the holy Temple Mou
 ### [Gunmen shoot dead five police officers near Giza. ](/news/2017/07/14/gunmen-shoot-dead-five-police-officers-near-giza.md)
 A man is arrested after two tourists are killed at the Egyptian resort of Hurghada, officials say.
 
-### [At least three people are killed and two hospitalized, one in serious condition, from a fire in a  condominium tower in the American city of Honolulu, Hawaii. An unknown number of residents are reportedly still trapped in their apartments. ](/news/2017/07/14/at-least-three-people-are-killed-and-two-hospitalized-one-in-serious-condition-from-a-fire-in-a-condominium-tower-in-the-american-city-of.md)
+### [At least three people are killed and two hospitalized, one in serious condition, from a fire in a  condominium tower in the U.S. city of Honolulu, Hawaii. An unknown number of residents are reportedly still trapped in their apartments. ](/news/2017/07/14/at-least-three-people-are-killed-and-two-hospitalized-one-in-serious-condition-from-a-fire-in-a-condominium-tower-in-the-u-s-city-of-hon.md)
 At least three people died Friday in a fire in a high-rise apartment building in Honolulu and authorities fear some residents may be trapped in surrounding units, fire officials said.
 
 ### [The White House releases unredacted emails of people concerned about the Presidential Advisory Commission on Election Integrity. Sensitive information revealed in the emails prompts immediate backlash and privacy concerns. ](/news/2017/07/14/the-white-house-releases-unredacted-emails-of-people-concerned-about-the-presidential-advisory-commission-on-election-integrity-sensitive-i.md)
