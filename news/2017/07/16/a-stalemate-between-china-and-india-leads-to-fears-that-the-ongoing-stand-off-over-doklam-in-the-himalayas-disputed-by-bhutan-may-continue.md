@@ -1,6 +1,6 @@
 ### [2017-07-16](/news/2017/07/16/index.md)
 
-# A stalemate between China and India leads to fears that the ongoing stand-off over Doklam in the Himalayas, disputed by Bhutan, may continue into the winter. It comes after rumors that Indian National Security Adviser, Ajit Doval may travel to Beijing later this month. ''[http://economictimes.indiatimes.com/news/defence/beijing-wont-have-formal-talks-with-india-stand-off-may-continue-till-winter-chinese-expert/articleshow/59615025.cms (Economic Times)]''
+# A stalemate between China and India leads to fears that the ongoing stand-off over Doklam in the Himalayas, disputed by Bhutan, may continue into the winter. It comes after rumors that Indian National Security Adviser Ajit Doval may travel to Beijing later this month. ''[http://economictimes.indiatimes.com/news/defence/beijing-wont-have-formal-talks-with-india-stand-off-may-continue-till-winter-chinese-expert/articleshow/59615025.cms (Economic Times)]''
 
 
 
