@@ -3,8 +3,11 @@
 ### [A new set of kidnappings and a jail break plague Sulu province in the southern region of Mindanao in the Philippines. ](/news/2017/07/17/a-new-set-of-kidnappings-and-a-jail-break-plague-sulu-province-in-the-southern-region-of-mindanao-in-the-philippines.md)
 Suspected Abu Sayyaf gunmen abducted four workers in a school in a southern Philippine province where President Rodrigo Duterte visited troops waging an of
 
-### [In Vijfhuizen, the Netherlands exactly three years after the Malaysia Airlines Flight 17 (MH17) disaster, the National Memorial for the victims is opened in the presence of King Willem-Alexander, Queen Mxima and Prime Minister Mark Rutte. ](/news/2017/07/17/in-vijfhuizen-the-netherlands-exactly-three-years-after-the-malaysia-airlines-flight-17-mh17-disaster-the-national-memorial-for-the-vict.md)
-_Context: King, Malaysia Airlines Flight 17, Mark Rutte, Netherlands, Prime Minister, Queen Mxima, Vijfhuizen, Willem-Alexander_
+### [Officials announce that Afghan security forces have retaken Nawa District from the Taliban. ](/news/2017/07/17/officials-announce-that-afghan-security-forces-have-retaken-nawa-district-from-the-taliban.md)
+_Context: Nawa District, Taliban, War in Afghanistan (2001-present)_
+
+### [In Vijfhuizen, the Netherlands, exactly three years after the Malaysia Airlines Flight 17 (MH17) disaster, the National Memorial for the victims is opened in the presence of King Willem-Alexander, Queen Maxima and Prime Minister Mark Rutte. ](/news/2017/07/17/in-vijfhuizen-the-netherlands-exactly-three-years-after-the-malaysia-airlines-flight-17-mh17-disaster-the-national-memorial-for-the-vic.md)
+_Context: King, Malaysia Airlines Flight 17, Mark Rutte, Netherlands, Prime Minister, Queen Maxima, Vijfhuizen, Willem-Alexander_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
