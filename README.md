@@ -36,7 +36,7 @@ The bill gives politicians the power to appoint judges without consulting judici
 
 ## [Day Before Yesterday](/news/2017/07/15/index.md)
 
-### [At least eight people are killed  in a stampede at a football stadium in Dakar, Senegal, that started after police used tear gas to break up a fight between the rival teams' fans. ](/news/2017/07/15/at-least-eight-people-are-killed-in-a-stampede-at-a-football-stadium-in-dakar-senegal-that-started-after-police-used-tear-gas-to-break-up.md)
+### [At least eight people are killed in a stampede at a football stadium in Dakar, Senegal, that started after police used tear gas to break up a fight between the rival teams' fans. ](/news/2017/07/15/at-least-eight-people-are-killed-in-a-stampede-at-a-football-stadium-in-dakar-senegal-that-started-after-police-used-tear-gas-to-break-up.md)
 At least eight people were killed on Saturday in a stampede in a soccer stadium in the Senegalese capital Dakar during a match between two local teams, the sports minister said.
 
 ### [Indonesia renames part of the South China Sea as "North Natuna Sea," angering China. ](/news/2017/07/15/indonesia-renames-part-of-the-south-china-sea-as-north-natuna-sea-angering-china.md)

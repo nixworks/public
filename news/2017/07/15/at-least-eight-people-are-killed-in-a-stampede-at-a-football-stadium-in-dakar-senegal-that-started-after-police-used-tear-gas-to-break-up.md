@@ -1,6 +1,6 @@
 ### [2017-07-15](/news/2017/07/15/index.md)
 
-# At least eight people are killed  in a stampede at a football stadium in Dakar, Senegal, that started after police used tear gas to break up a fight between the rival teams' fans. 
+# At least eight people are killed in a stampede at a football stadium in Dakar, Senegal, that started after police used tear gas to break up a fight between the rival teams' fans. 
 
 At least eight people were killed on Saturday in a stampede in a soccer stadium in the Senegalese capital Dakar during a match between two local teams, the sports minister said.
 
