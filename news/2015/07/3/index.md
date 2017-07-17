@@ -10,7 +10,7 @@ Boko Haram is waging fresh attacks in northeastern Nigeria, locals say, with nea
 _Context: 2015 Sousse attacks, Tunisia, UK_
 
 ### [A United States drone strike kills at least four militants in Yemen. ](/news/2015/07/3/a-united-states-drone-strike-kills-at-least-four-militants-in-yemen.md)
-_Context: United States, Yemen's, Yemeni Crisis (2011-present)_
+_Context: U.S., Yemen's, Yemeni Crisis (2011-present)_
 
 ### [The XV International Tchaikovsky Competition concludes with a ceremony awarding top prizes to Dmitry Masleev in piano, Yu-Chien Tseng in violin, Andrei Ionut Ionita in cello, as well as Yulia Matochkina and Ariunbaatar Ganbaatar in voice. ](/news/2015/07/3/the-xv-international-tchaikovsky-competition-concludes-with-a-ceremony-awarding-top-prizes-to-dmitry-masleev-in-piano-yu-chien-tseng-in-vio.md)
 The Awards Ceremony took place tonight, Wednesday 1 July, at the Tchaikovsky Concert Hall. It was an amazing ceremony after two rich weeks of competition which we will remember for a long time! Congratulations to all the talented candidates, and many thanks to the jury members, the Competition&#39;s teams and the wonderful audience!
@@ -28,7 +28,7 @@ _Context: Brazil, UBS, currency manipulation_
 After slamming the eastern coast of China, Chan-hom bring heavy rain to Korean Peninsula.
 
 ### [At least four people are dead and 48 injured following a 6.5 magnitude earthquake in Pishan County in China's Xinjiang region. ](/news/2015/07/3/at-least-four-people-are-dead-and-48-injured-following-a-6-5-magnitude-earthquake-in-pishan-county-in-china-s-xinjiang-region.md)
-_Context: People's Republic of China, Pishan County, Xinjiang, earthquake_
+_Context: Chinese, Pishan County, Xinjiang, earthquake_
 
 ### [The death toll from yesterday's capsizing of the M/B Nivana off the coast of the Philippines rises to 56 as murder charges are filed against the owner and crew. ](/news/2015/07/3/the-death-toll-from-yesterday-s-capsizing-of-the-m-b-nivana-off-the-coast-of-the-philippines-rises-to-56-as-murder-charges-are-filed-against.md)
 At least three more bodies have been recovered from a ferry that capsized in choppy waters in the central Philippines

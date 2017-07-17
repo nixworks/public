@@ -22,7 +22,7 @@ _Context: American Family Association, Kmart, Nike, Inc., One of the Guys, Rober
 _Context: Malaysia, Osu Sukam, United Malays National Organisation, gambling_
 
 ### [ In China, the death toll in the Xinjiang mine explosion rises to 81, with two missing. ](/news/2005/07/13/in-china-the-death-toll-in-the-xinjiang-mine-explosion-rises-to-81-with-two-missing.md)
-_Context: People's Republic of China, Xinjiang_
+_Context: Chinese, Xinjiang_
 
 ### [ Geologists increase the alert status of Mount Merapi volcano in central Java in Indonesia. The volcano has shown increased activity since last Friday. ](/news/2005/07/13/geologists-increase-the-alert-status-of-mount-merapi-volcano-in-central-java-in-indonesia-the-volcano-has-shown-increased-activity-since-l.md)
 _Context: Indonesia, Java, Mounts Merapi, volcanic activity_

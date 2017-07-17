@@ -25,7 +25,7 @@ Twelve military personnel, including three officers, were killed when their Mi-1
 _Context: Aasia Bibi, Christian, Islam, Pakistan, Pope Benedict XVI, blasphemy_
 
 ### [China's state-backed church appoints a bishop without the approval of Pope Benedict XVI. ](/news/2010/11/20/china-s-state-backed-church-appoints-a-bishop-without-the-approval-of-pope-benedict-xvi.md)
-_Context: People's Republic of China, Pope Benedict XVI, state-backed church_
+_Context: Chinese, Pope Benedict XVI, state-backed church_
 
 ### [United Nations Secretary-General Ban Ki-moon is welcoming Iran's invitation for a visit next year by the United Nations' human rights chief, Navi Pillay ](/news/2010/11/20/united-nations-secretary-general-ban-ki-moon-is-welcoming-iran-s-invitation-for-a-visit-next-year-by-the-united-nations-human-rights-chief.md)
 _Context: Ban Ki-moon, Iran, Navi Pillay, Secretary General, United Nations High Commissioner for Human Rights_

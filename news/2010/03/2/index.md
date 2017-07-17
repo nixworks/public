@@ -7,7 +7,7 @@ _Context: Benjamin Netanyahu, Dubai, Israel, Israeli Prime Minister, Mossad, the
 _Context: Agathe Habyarimana, France, Juvnal Habyarimana, Rwanda, Rwandan Genocide_
 
 ### [More than a dozen Chinese newspapers publish a rare joint editorial calling for the end of the hukou system of household registration. ](/news/2010/03/2/more-than-a-dozen-chinese-newspapers-publish-a-rare-joint-editorial-calling-for-the-end-of-the-hukou-system-of-household-registration.md)
-_Context: People's Republic of China, hukou system_
+_Context: Chinese, hukou system_
 
 ### [The government of the People's Republic of China announces a 10-year program under which clean energy will account for 15 percent of the total consumption mix by 2020. ](/news/2010/03/2/the-government-of-the-people-s-republic-of-china-announces-a-10-year-program-under-which-clean-energy-will-account-for-15-percent-of-the-tot.md)
 _Context: clean energy, government_

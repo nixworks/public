@@ -37,13 +37,13 @@ _Context: Spring 2011 Mississippi River Floods_
 _Context: Bolivia, United Nations_
 
 ### [China, Kyrgyzstan and Tajikistan conduct an anti-terror drill in the restive Xinjiang region of western China. ](/news/2011/05/7/china-kyrgyzstan-and-tajikistan-conduct-an-anti-terror-drill-in-the-restive-xinjiang-region-of-western-china.md)
-_Context: Kyrgyzstan, People's Republic of China, Tajikistan, Xinjiang_
+_Context: Chinese, Kyrgyzstan, Tajikistan, Xinjiang_
 
 ### [Three Russian human rights activists monitoring trials of opposition activists in Belarus are expelled. ](/news/2011/05/7/three-russian-human-rights-activists-monitoring-trials-of-opposition-activists-in-belarus-are-expelled.md)
 _Context: Belarus, Russia_
 
 ### [The ''Yomiuri'' reports that Japan and the United States have given up on plans to relocate Marine Corps Air Station Futenma from Okinawa by 2014. ](/news/2011/05/7/the-yomiuri-reports-that-japan-and-the-united-states-have-given-up-on-plans-to-relocate-marine-corps-air-station-futenma-from-okinawa-by.md)
-_Context: Japan, Marine Corps Air Station Futenma, Okinawa, United States, Yomiuri_
+_Context: Japan, Marine Corps Air Station Futenma, Okinawa, U.S., Yomiuri_
 
 ### [Voters in Singapore go to the polls for a general election.The ruling People's Action Party retains control of government, winning 81 of 87 seats. ](/news/2011/05/7/voters-in-singapore-go-to-the-polls-for-a-general-election-pthe-ruling-people-s-action-party-retains-control-of-government-winning-81-of-87.md)
 Singapore’s long-governing People’s Action Party (PAP) won an absolute parliamentary majority in the early hours of Sunday following Saturday’s general election. Prime Minister Lee Hsien Loong and for

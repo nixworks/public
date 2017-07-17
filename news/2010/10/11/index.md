@@ -49,7 +49,7 @@ A Greek policeman is sentenced to life in jail for murdering a schoolboy in 2008
 _Context: 7 July, Heather Hallett, UK, inquest_
 
 ### [Benigno Aquino III, the President of the Philippines, elects only for administrative, and no criminal charges to be laid in relation to the botched Manila hostage crisis in August. ](/news/2010/10/11/benigno-aquino-iii-the-president-of-the-philippines-elects-only-for-administrative-and-no-criminal-charges-to-be-laid-in-relation-to-the.md)
-_Context: Benigno Aquino III, Manila hostage crisis, Philippine president_
+_Context: Benigno "Noynoy" Aquino III, Manila hostage crisis, President of the Philippines_
 
 ### [A woman accused of sexually abusing girls at the Oprah Winfrey Leadership Academy for Girls in Meyerton, South Africa, is acquitted. ](/news/2010/10/11/a-woman-accused-of-sexually-abusing-girls-at-the-oprah-winfrey-leadership-academy-for-girls-in-meyerton-south-africa-is-acquitted.md)
 _Context: Leadership Academy for Girls, Meyerton, Oprah Winfrey, South Africa, sexual abuse_
@@ -67,7 +67,7 @@ _Context: Bharatiya Janata Party, India, Karnataka state, Legislative Assembly, 
 The Bolivian government says it has annulled a new coca production law which cut by two-thirds the number of coca leaves which growers could sell.
 
 ### [Surgeons at the Shepherd Center in Atlanta, Georgia inject a spinal cord injury patient with embryonic stem cells in an experiment approved by United States Food and Drug Administration. ](/news/2010/10/11/surgeons-at-the-shepherd-center-in-atlanta-georgia-inject-a-spinal-cord-injury-patient-with-embryonic-stem-cells-in-an-experiment-approved.md)
-_Context: Atlanta, Georgia, Shepherd Center, Surgeon, U.S. Food and Drug Administration, United States, embryonic stem cell, spinal cord_
+_Context: Atlanta, Georgia, Shepherd Center, Surgeon, U.S., U.S. Food and Drug Administration, embryonic stem cell, spinal cord_
 
 ## [Previous Day...](/news/2010/10/10/index.md)
 

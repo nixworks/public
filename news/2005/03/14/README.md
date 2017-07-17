@@ -10,7 +10,7 @@ _Context: Cyclone Ingrid, Darwin, Kimberley region of Western Australia, Norther
 _Context: anti-secession law, status_
 
 ### [ According to World Wildlife Fund, melting glaciers in the Himalayas could lead first to floods in China, India and Nepal and then long droughts. ](/news/2005/03/14/according-to-world-wildlife-fund-melting-glaciers-in-the-himalayas-could-lead-first-to-floods-in-china-india-and-nepal-and-then-long-drou.md)
-_Context: China, Himalayan, India, Nepal, World Wildlife Fund, drought, flood, glacier_
+_Context: China, Himalayas, India, Nepal, World Wildlife Fund, drought, flood, glacier_
 
 ### [ In Italy, Alessandra Mussolini, granddaughter of ''Il Duce'' Benito Mussolini, is banned from regional elections for presenting fraudulent signatures. She threatens to go on a hunger strike. ](/news/2005/03/14/in-italy-alessandra-mussolini-granddaughter-of-il-duce-benito-mussolini-is-banned-from-regional-elections-for-presenting-fraudulent.md)
 _Context: Alessandra Mussolini, Benito Mussolini, Il Duce, Italian, hunger strike_

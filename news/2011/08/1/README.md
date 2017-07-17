@@ -1,7 +1,7 @@
 ## [2011-08-1](/news/2011/08/1/index.md)
 
 ### [At least 11 people, including 5 suspects, are killed and 15 others are injured on Sunday's violence in China's Xinjiang region, raising the death toll to 20 over the weekend attacks in Kashgar. ](/news/2011/08/1/at-least-11-people-including-5-suspects-are-killed-and-15-others-are-injured-on-sunday-s-violence-in-china-s-xinjiang-region-raising-the.md)
-_Context: Kashgar, People's Republic of China, Xinjiang, recent unrest_
+_Context: Chinese, Kashgar, Xinjiang, recent unrest_
 
 ### [2011 Syrian uprising:More than 142 people are killed across the country in a continuing crackdown on protests. ](/news/2011/08/1/2011-syrian-uprising-pmore-than-142-people-are-killed-across-the-country-in-a-continuing-crackdown-on-protests.md)
 More deaths reported in several cities, a day after activists said 142 were killed across the country.
@@ -28,7 +28,7 @@ Italian authorities found 25 dead bodies in a boat that was carrying refugees an
 _Context: Atlantic Ocean, Desirade, Dominican Republic, Guadeloupe, Hurricane Rina, Les Saintes, Marie Galante, Puerto Rico, tropical storm_
 
 ### [North Korea agrees to further talks with the United States as part of efforts to restore Six Party talks on its nuclear weapons program. ](/news/2011/08/1/north-korea-agrees-to-further-talks-with-the-united-states-as-part-of-efforts-to-restore-six-party-talks-on-its-nuclear-weapons-program.md)
-_Context: North Korea, North Korea and weapons of mass destruction, United States, six-party talks_
+_Context: North Korea, North Korea and weapons of mass destruction, U.S., six-party talks_
 
 ### [South Korea bans three Japanese lawmakers all from the Liberal Democratic Party due to an assertion of Japanese sovereignty over the Liancourt Rocks. ](/news/2011/08/1/south-korea-bans-three-japanese-lawmakers-all-from-the-liberal-democratic-party-due-to-an-assertion-of-japanese-sovereignty-over-the-liancou.md)
 _Context: Japanese, Liancourt Rocks, Liberal Democratic Party, South Korea, sovereignty_

@@ -10,7 +10,7 @@ Monarch asks ex-army general to form new government in the wake of streets prote
 _Context: Buddhists, South Thailand insurgency, Thailand_
 
 ### [The owner of China's fourth-most visited website, Sohu.com Inc, posted a better-than-estimated 41 percent gain in profit after the company raised prices and boosted services such as video sharing. ](/news/2011/02/1/the-owner-of-china-s-fourth-most-visited-website-sohu-com-inc-posted-a-better-than-estimated-41-percent-gain-in-profit-after-the-company-r.md)
-_Context: People's Republic of China, Sohu.com_
+_Context: Chinese, Sohu.com_
 
 ### [A court in London bars the oil company BP from entering into a planned joint venture and share swap with Rosneft, a state-controlled Russian company.  ](/news/2011/02/1/a-court-in-london-bars-the-oil-company-bp-from-entering-into-a-planned-joint-venture-and-share-swap-with-rosneft-a-state-controlled-russian.md)
 _Context: BP, London, share swap_
@@ -31,7 +31,7 @@ _Context: Indonesia, ferry_
 _Context: Astana, Kazakhstan, Shanghai Cooperation Organization_
 
 ### [The United States urges Iran to halt executions after the hanging of a Dutch-Iranian woman, Zahra Bahrami, accused of being drug smuggler; the U.S. State Department expresses concern that Iran "continues to deny its citizens their human rights" and that cases, trials, and sentences continue to proceed "without transparency and the due process rights enshrined in Iran's own constitution." ](/news/2011/02/1/the-united-states-urges-iran-to-halt-executions-after-the-hanging-of-a-dutch-iranian-woman-zahra-bahrami-accused-of-being-drug-smuggler-t.md)
-_Context: Iran's own constitution, Iranian human rights, United States, Zahra Bahrami, halt executions_
+_Context: Iran's own constitution, Iranian human rights, U.S., Zahra Bahrami, halt executions_
 
 ### [North and South Korea agree to hold working-level military talks on 8 February, their first since the attack on Yeonpyeong Island in November last year. ](/news/2011/02/1/north-and-south-korea-agree-to-hold-working-level-military-talks-on-8-february-their-first-since-the-attack-on-yeonpyeong-island-in-novembe.md)
 _Context: North Korea, South Korea, Yeonpyeong Island, attack_
@@ -43,7 +43,7 @@ _Context: Palestinian, Suriname, officially recognises_
 US soldier accused of giving a dossier of secret documents to WikiLeaks is held in solitary confinement awaiting trial.
 
 ### [The Karmapa Lama, Ogyen Trinley Dorje, Tibetan Buddhism's third-highest lama, is questioned by police after large amounts of foreign money are found at his monastery in Dharamsala, northern India. Some Indian media allege he is acting as a spy for China. ](/news/2011/02/1/the-karmapa-lama-ogyen-trinley-dorje-tibetan-buddhism-s-third-highest-lama-is-questioned-by-police-after-large-amounts-of-foreign-money-a.md)
-_Context: Dharamsala, India, Karmapa Lama, Ogyen Trinley Dorje, People's Republic of China, Tibetan Buddhist_
+_Context: Chinese, Dharamsala, India, Karmapa Lama, Ogyen Trinley Dorje, Tibetan Buddhist_
 
 ### [Irish general election, 2011:Brian Cowen resigns by requesting the dissolution of the 30th Dail, allowing a general election to take place, the first such election of the eurozone debt crisis. ](/news/2011/02/1/irish-general-election-2011-pbrian-cowen-resigns-by-requesting-the-dissolution-of-the-30th-da-il-allowing-a-general-election-to-take-place.md)
 Ireland will vote on February 25 in the first general election in Europe dominated by the euro zone debt crisis and by demands to renegotiate an unpopular EU/IMF bailout.

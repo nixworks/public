@@ -16,7 +16,7 @@ http://www.euronews.net/ More than 45,000 Facebook accounts - mostly in the UK a
 _Context: Lords of Dharmaraja, Norton, Symantec_
 
 ### [A Tibetan protester sets himself on fire in Sichuan, China. ](/news/2012/01/6/a-tibetan-protester-sets-himself-on-fire-in-sichuan-china.md)
-_Context: People's Republic of China, Sichuan, Tibet_
+_Context: Chinese, Sichuan, Tibet_
 
 ### [The Jamaican Prime Minister Portia Simpson-Miller announces that the country is to become a republic, with plans to remove Queen Elizabeth II as head of state and the Jamaican monarchy in general. ](/news/2012/01/6/the-jamaican-prime-minister-portia-simpson-miller-announces-that-the-country-is-to-become-a-republic-with-plans-to-remove-queen-elizabeth-i.md)
 _Context: Jamaica, Jamaican monarchy, Portia Simpson-Miller, Queen Elizabeth II, republic_

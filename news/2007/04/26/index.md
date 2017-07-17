@@ -25,7 +25,7 @@ _Context: George W. Bush, President of the United States, Senator, War in Iraq, 
 _Context: 2008, 2008 presidential debate, Democratic Party, South Carolina Democratic Party, South Carolina State University, candidates_
 
 ### [ A former commander of a United States military detention center in Iraq is detained and under investigation for "aiding the enemy". ](/news/2007/04/26/a-former-commander-of-a-united-states-military-detention-center-in-iraq-is-detained-and-under-investigation-for-aiding-the-enemy.md)
-_Context: Iraq, United States_
+_Context: Iraq, U.S._
 
 ### [ The Sultan of Terengganu, Sultan Mizan Zainal Abidin, is formally installed as the 13th Yang di-Pertuan Agong of Malaysia. ](/news/2007/04/26/the-sultan-of-terengganu-sultan-mizan-zainal-abidin-is-formally-installed-as-the-13th-yang-di-pertuan-agong-of-malaysia.md)
 _Context: Malaysia, Sultan Mizan Zainal Abidin, Sultan of Terengganu, monarch_

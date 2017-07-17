@@ -40,7 +40,7 @@ _Context: Julian Assange, Marianne Ny, Sweden, WikiLeaks, prosecutor_
 A woman in China is sentenced to a year in a labour camp after posting a message on the social networking website Twitter.
 
 ### [Australia deports Gabe Watson to face trial in the US state of Alabama for the alleged murder of his wife Tina. ](/news/2010/11/18/australia-deports-gabe-watson-to-face-trial-in-the-us-state-of-alabama-for-the-alleged-murder-of-his-wife-tina.md)
-_Context: Alabama, Australia, United States, death of his newlywed wife Tina_
+_Context: Alabama, Australia, U.S., death of his newlywed wife Tina_
 
 ### [Japanese police arrest Kiyoshi Takayama, the number two gangster in the Yamaguchi-gumi yakuza group in Kobe. ](/news/2010/11/18/japanese-police-arrest-kiyoshi-takayama-the-number-two-gangster-in-the-yamaguchi-gumi-yakuza-group-in-kobe.md)
 _Context: Japanese police, Kiyoshi Takayama, Kobe, Yamaguchi-gumi, yakuza_
@@ -58,7 +58,7 @@ _Context: U.S. Chamber of Commerce, health care reform_
 _Context: Leonid, meteor_
 
 ### [China is to use own uranium resources to meet growing nuclear demand. ](/news/2010/11/18/china-is-to-use-own-uranium-resources-to-meet-growing-nuclear-demand.md)
-_Context: People's Republic of China, uranium_
+_Context: Chinese, uranium_
 
 ### [A fault discovered in Idaho could produce an earthquake of 7.5 magnitude. ](/news/2010/11/18/a-fault-discovered-in-idaho-could-produce-an-earthquake-of-7-5-magnitude.md)
 Scientists at Idaho State University map out a new, active seismic fault in the US Rocky Mountains capable of unleashing a 7.5 magnitude earthquake.

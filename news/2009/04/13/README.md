@@ -13,7 +13,7 @@ _Context: Abhisit Vejjajiva, Bangkok, Prime Minister of Thailand, Royal Thai Gov
 _Context: Fiji, censorship, government, mass media, protest_
 
 ### [ China's government publishes a National Human Rights Action Plan. ](/news/2009/04/13/china-s-government-publishes-a-national-human-rights-action-plan.md)
-_Context: Chinese human rights, People's Republic of China, government_
+_Context: Chinese, Chinese human rights, government_
 
 ### [ An unmanned Palestinian fishing vessel explodes near an Israeli Navy patrol in the Gaza Strip. ](/news/2009/04/13/an-unmanned-palestinian-fishing-vessel-explodes-near-an-israeli-navy-patrol-in-the-gaza-strip.md)
 _Context: Gaza Strip, Israel, Israeli Navy, Israeli-Palestinian conflict, Palestinian, fishing boat, patrol_
@@ -28,7 +28,7 @@ _Context: Georgia, President of Georgia, Saakashvili, Tbilisi, protest_
 At least four Lebanese soldiers were killed and one wounded Monday in an ambush that security officials blamed on a local drug mafia.News reports put the number of dead at five.Lebanese officials...
 
 ### [ The U.S. federal government will rescind travel and gift restrictions to Cuba. ](/news/2009/04/13/the-u-s-federal-government-will-rescind-travel-and-gift-restrictions-to-cuba.md)
-_Context: Cuba, Cuba - United States relations, United States, United States, United States embargo against Cuba_
+_Context: Cuba, Cuba - United States relations, U.S., United States, United States embargo against Cuba_
 
 ### [ The United Nations Security Council condemns North Korea's launch of Kwangmyongsong-2. ](/news/2009/04/13/the-united-nations-security-council-condemns-north-korea-s-launch-of-kwangmyangsang-2.md)
 _Context: Kwangmyongsong-2, North Korea, United Nations, United Nations Security Council, launches_

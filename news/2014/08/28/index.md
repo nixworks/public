@@ -16,7 +16,7 @@ _Context: Philippines, Typhoon Haiyan (Yolanda)_
 A top US public health official says the Ebola outbreak is set to get worse before it gets better, as West African health ministers meet in Ghana.
 
 ### [Malaysia Airlines Flight 370:Australia, Malaysia and the People's Republic of China reach an agreement about the costs and direction of the ongoing search for the wreckage of Malaysia Airlines Flight 370 which is believed to have crashed in the Indian Ocean southwest of Western Australia. ](/news/2014/08/28/malaysia-airlines-flight-370-paustralia-malaysia-and-the-people-s-republic-of-china-reach-an-agreement-about-the-costs-and-direction-of-the.md)
-_Context: Australia, Indian Ocean, Malaysia, Malaysia Airlines Flight 370, People's Republic of China, Western Australia_
+_Context: Australia, Chinese, Indian Ocean, Malaysia, Malaysia Airlines Flight 370, Western Australia_
 
 ### [Australia and Indonesia sign a code of conduct to govern diplomatic ties following revelations in late 2013 that Australia's Defence Signals Directorate had tapped the phones of the President of Indonesia Susilo Bambang Yudhoyono. ](/news/2014/08/28/australia-and-indonesia-sign-a-code-of-conduct-to-govern-diplomatic-ties-following-revelations-in-late-2013-that-australia-s-defence-signals.md)
 _Context: Australia, Defence Signals Directorate, Indonesia, President of Indonesia, Susilo Bambang Yudhoyono, code of conduct_

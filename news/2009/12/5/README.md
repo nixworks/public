@@ -28,7 +28,7 @@ _Context: Dmitry Medvedev, President of Russia, national mourning, nightclub fir
 _Context: Guinea, Moussa Dadis Camara, Skouba Konat, junta_
 
 ### [ The President of the Philippines Gloria Macapagal-Arroyo declares martial law in Maguindanao following the Maguindanao massacre. ](/news/2009/12/5/the-president-of-the-philippines-gloria-macapagal-arroyo-declares-martial-law-in-maguindanao-following-the-maguindanao-massacre.md)
-_Context: Gloria Macapagal Arroyo, Maguindanao, Maguindanao massacre, Philippine president, martial law_
+_Context: Gloria Macapagal Arroyo, Maguindanao, Maguindanao massacre, President of the Philippines, martial law_
 
 ### [ Six doctors in the United Kingdom are taking legal action to demand a formal inquest into the death of government scientist David Christopher Kelly. ](/news/2009/12/5/six-doctors-in-the-united-kingdom-are-taking-legal-action-to-demand-a-formal-inquest-into-the-death-of-government-scientist-david-christoph.md)
 _Context: David Christopher Kelly_

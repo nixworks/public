@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [A Peruvian court orders the arrest of former president Ollanta Humala and his wife Nadine Heredia for money laundering. Both have turned themselves in. ](/news/2017/07/14/a-peruvian-court-orders-the-arrest-of-former-president-ollanta-humala-and-his-wife-nadine-heredia-for-money-laundering-both-have-turned-the.md) _Context: money laundering_
+1. [A court of Lima orders 18 months of pre-trial imprisonment for former president Ollanta Humala and his wife Nadine Heredia for alleged money laundering. Both have turned themselves in. ](/news/2017/07/14/a-court-of-lima-orders-18-months-of-pre-trial-imprisonment-for-former-president-ollanta-humala-and-his-wife-nadine-heredia-for-alleged-money.md) _Context: money laundering_
 2. [Swiss voters approve a referendum to phase out nuclear power in Switzerland and increase renewable energy. ](/news/2017/05/21/swiss-voters-approve-a-referendum-to-phase-out-nuclear-power-in-switzerland-and-increase-renewable-energy.md) _Context: Swiss_
 3. [A small Swiss-owned plane crashes in the Portuguese village of Tires, west of Lisbon, killing at least five people. ](/news/2017/04/17/a-small-swiss-owned-plane-crashes-in-the-portuguese-village-of-tires-west-of-lisbon-killing-at-least-five-people.md) _Context: Swiss_
 4. [Voters in Switzerland approve a referendum that makes it easier for third-generation immigrants  to become citizens. ](/news/2017/02/12/voters-in-switzerland-approve-a-referendum-that-makes-it-easier-for-third-generation-immigrants-to-become-citizens.md) _Context: Swiss_

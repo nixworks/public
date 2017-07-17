@@ -16,16 +16,16 @@ _Context: Napier, New Zealand, killed, police officer_
 Federal health officials would not confirm reports Thursday that an elderly woman who died in northern Alberta had swine flu.
 
 ### [ Wildfires near Santa Barbara, California, United States, burn 3,000|acre|km2 of land and force 15,000 people to evacuate. ](/news/2009/05/7/wildfires-near-santa-barbara-california-united-states-burn-3-000-acre-km2-of-land-and-force-15-000-people-to-evacuate.md)
-_Context: California, Santa Barbara, California, United States, Wildfires, evacuation centers_
+_Context: California, Santa Barbara, California, U.S., Wildfires, evacuation centers_
 
 ### [ The Armed Forces and the Union of Forces for Democracy and Development battle near Goz Beida, Ouaddai Region, Chad. ](/news/2009/05/7/the-armed-forces-and-the-union-of-forces-for-democracy-and-development-battle-near-goz-bea-da-ouaddaa-region-chad.md)
 _Context: Chad, Goz Beida, Military, Ouaddai Region, Union of Forces for Democracy and Development, performed_
 
 ### [ China announces that 5,335 schoolchildren died during an earthquake in Sichuan on May 12, 2008. ](/news/2009/05/7/china-announces-that-5-335-schoolchildren-died-during-an-earthquake-in-sichuan-on-may-12-2008.md)
-_Context: People's Republic of China, Sichuan, deadly earthquake_
+_Context: Chinese, Sichuan, deadly earthquake_
 
 ### [ An American man is arrested in Burma for trespassing on National League for Democracy General Secretary Aung San Suu Kyi's property. ](/news/2009/05/7/an-american-man-is-arrested-in-burma-for-trespassing-on-national-league-for-democracy-general-secretary-aung-san-suu-kyi-s-property.md)
-_Context: Aung San Suu Kyi, Burma, General Secretary, National League for Democracy, United States, property, trespass_
+_Context: Aung San Suu Kyi, Burma, General Secretary, National League for Democracy, U.S., property, trespass_
 
 ### [ The Central Bank reduces the Eurozone's interest rate to 1% and implements EUR60 billion of quantitative easing. ](/news/2009/05/7/the-central-bank-reduces-the-eurozone-s-interest-rate-to-1-and-implements-a-60-billion-of-quantitative-easing.md)
 _Context: European Central Bank, Eurozone, euro, interest rate, quantitative easing_

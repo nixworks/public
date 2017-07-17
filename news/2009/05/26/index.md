@@ -1,13 +1,13 @@
 ## [2009-05-26](/news/2009/05/26/index.md)
 
 ### [ General Secretary Hu Jintao of the Communist Party in the People's Republic of China and Nationalist Party Chairman Wu Poh-hsiung in Taiwan meet in Beijing to discuss cross-Strait relations. ](/news/2009/05/26/general-secretary-hu-jintao-of-the-communist-party-in-the-people-s-republic-of-china-and-nationalist-party-chairman-wu-poh-hsiung-in-taiwan.md)
-_Context: Beijing, Communist Party general secretary, Communist Party of China, Cross-Strait relations, Hu Jintao, Kuomintang (Chinese Nationalist Party), People's Republic of China, Taiwan, Taiwan Strait, Wu Poh-hsiung, chairman_
+_Context: Beijing, Chinese, Communist Party general secretary, Communist Party of China, Cross-Strait relations, Hu Jintao, Kuomintang (Chinese Nationalist Party), Taiwan, Taiwan Strait, Wu Poh-hsiung, chairman_
 
 ### [ The Supreme Court of California upholds Proposition 8, the state's ban on same-sex marriage. ](/news/2009/05/26/the-supreme-court-of-california-upholds-proposition-8-the-state-s-ban-on-same-sex-marriage.md)
 _Context: California, Supreme Court, ban, reversed its legalization, same-sex marriage, upholds_
 
 ### [ President Barack Obama nominates Federal Judge Sonia Sotomayor for the United States Supreme Court. ](/news/2009/05/26/president-barack-obama-nominates-federal-judge-sonia-sotomayor-for-the-united-states-supreme-court.md)
-_Context: Barack Obama, President of the United States, Sonia Sotomayor, U.S. Supreme Court, United States, United States federal judge, confirmed_
+_Context: Barack Obama, President of the United States, Sonia Sotomayor, U.S., U.S. Supreme Court, United States federal judge, confirmed_
 
 ### [ President Isaias Afewerki says Eritrea will not release imprisoned journalist Dawit Isaak. ](/news/2009/05/26/president-isaias-afewerki-says-eritrea-will-not-release-imprisoned-journalist-dawit-isaak.md)
 _Context: Dawit Isaak, Eritrea, Isaias Afewerki, President, journalism, prison_

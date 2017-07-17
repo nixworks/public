@@ -16,7 +16,7 @@ Injuries reported as authorities move in with tear gas and truncheons to break u
 _Context: Oprah Winfrey, Oprah Winfrey Show_
 
 ### [U.S. author Jeffery Deaver unveils his James Bond novel, ''Carte Blanche''. ](/news/2011/05/25/u-s-author-jeffery-deaver-unveils-his-james-bond-novel-carte-blanche.md)
-_Context: American, Carte Blanche, James Bond, Jeffery Deaver_
+_Context: Carte Blanche, James Bond, Jeffery Deaver, United States of America_
 
 ### [Scotty McCreery becomes the tenth season winner of ''American Idol''.](/news/2011/05/25/scotty-mccreery-becomes-the-tenth-season-winner-of-american-idol.md)
 _Context: American Idol, Scotty McCreery, tenth season_

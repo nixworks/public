@@ -7,7 +7,7 @@ _Context: MESSENGER, Mercury's_
 _Context: An earthquake, Kyrgyzstan, Tajikistan_
 
 ### [ Another earthquake of magnitude 6.4, with two magnitude-5 aftershocks, hits Damxung, Tibet, People's Republic of China, with conflicting casualty reports anywhere from 9 to 30 deaths. ](/news/2008/10/6/another-earthquake-of-magnitude-6-4-with-two-magnitude-5-aftershocks-hits-damxung-tibet-people-s-republic-of-china-with-conflicting-ca.md)
-_Context: Another earthquake, Damxung, People's Republic of China, Tibet_
+_Context: Another earthquake, Chinese, Damxung, Tibet_
 
 ### [ Nobel Prize: The 2008 Nobel Prize in Physiology or Medicine goes to Harald zur Hausen of Germany for his discovery of the human papilloma viruses that can cause cervical cancer in women, and Francoise Barre-Sinoussi and Luc Montagnier of France for their discovery of human immunodeficiency virus, or HIV. ](/news/2008/10/6/nobel-prize-p-the-2008-nobel-prize-in-physiology-or-medicine-goes-to-harald-zur-hausen-of-germany-for-his-discovery-of-the-human-papilloma.md)
 _Context: France, Francoise Barre-Sinoussi, Germany, HIV, Harald zur Hausen, Luc Montagnier, Nobel Prize, Nobel Prize in Physiology or Medicine, cervical cancer, human immunodeficiency virus, papilloma virus_

@@ -4,7 +4,7 @@
 _Context: Calcutta, India_
 
 ### [United States issues new warnings of Al-Qaeda threat to attack ships off coast of Yemen ](/news/2010/03/23/united-states-issues-new-warnings-of-al-qaeda-threat-to-attack-ships-off-coast-of-yemen.md)
-_Context: United States, Yemen's, al-Qaeda_
+_Context: U.S., Yemen's, al-Qaeda_
 
 ### [5,000 people at a rally in the town of Kotli in Pakistan-administered Kashmir vow to wage a holy war to "liberate" the disputed Himalayan state of Kashmir from India on 70th anniversary of resolution to seek independence separately from India ](/news/2010/03/23/5-000-people-at-a-rally-in-the-town-of-kotli-in-pakistan-administered-kashmir-vow-to-wage-a-holy-war-to-liberate-the-disputed-himalayan-st.md)
 The head of an outlawed Pakistan-based militant group blamed for the 2008 attack on the Indian commercial capital of Mumbai urged supporters on Tuesday to wage holy war against &quot;oppressors&quot;.
@@ -34,7 +34,7 @@ _Context: Bavaria, Germany_
 The most sweeping social legislation enacted in decades became law after a festive, at times raucous, signing ceremony in the White House on Tuesday.
 
 ### [A man in Nanping, China, stabs and kills eight children, and wounds another five at an elementary school. ](/news/2010/03/23/a-man-in-nanping-china-stabs-and-kills-eight-children-and-wounds-another-five-at-an-elementary-school.md)
-_Context: Nanping, People's Republic of China_
+_Context: Chinese, Nanping_
 
 ### [China says Google is "totally wrong" to stop censoring its search results. ](/news/2010/03/23/china-says-google-is-totally-wrong-to-stop-censoring-its-search-results.md)
 Beijing accuses search giant of breaking promises to abide by Chinese laws.

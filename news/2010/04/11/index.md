@@ -43,7 +43,7 @@ Three medical workers among nine arrested for allegedly plotting to kill Helmand
 _Context: 2010 Thai political protests, Bangkok, Thailand, red shirt_
 
 ### [Two Chinese singers become the country's first to be punished for lip-synching nearly two years after the Beijing Olympiad. ](/news/2010/04/11/two-chinese-singers-become-the-country-s-first-to-be-punished-for-lip-synching-nearly-two-years-after-the-beijing-olympiad.md)
-_Context: Beijing Olympiad, People's Republic of China, lip-synching_
+_Context: Beijing Olympiad, Chinese, lip-synching_
 
 ### [The Belfast Wheel ](/news/2010/04/11/the-belfast-wheel.md)
 The Belfast Wheel has stopped turning, but not before RTÉ&#39;s Michael Fisher boarded one of the last capsules for a final panoramic view of the city.

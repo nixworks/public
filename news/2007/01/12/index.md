@@ -1,13 +1,13 @@
 ## [2007-01-12](/news/2007/01/12/index.md)
 
 ### [ China and Russia veto a United States drafted United Nations Security Council Resolution that would have urged the government of Myanmar to stop human rights abuses and the repression of political opposition. ](/news/2007/01/12/china-and-russia-veto-a-united-states-drafted-united-nations-security-council-resolution-that-would-have-urged-the-government-of-myanmar-to.md)
-_Context: Human rights in Myanmar, Myanmar, People's Republic of China, Russia, United Nations Security Council, United Nations Security Council resolution, United States, political harassment_
+_Context: Chinese, Human rights in Myanmar, Myanmar, Russia, U.S., United Nations Security Council, United Nations Security Council resolution, political harassment_
 
 ### [ Terri Irwin, widow of naturalist and TV personality Steve Irwin, reports that all footage of his death from a stingray piercing his heart has been destroyed, and the events surrounding his death will not be shown in his final documentary, ''Ocean's Deadliest''. ](/news/2007/01/12/terri-irwin-widow-of-naturalist-and-tv-personality-steve-irwin-reports-that-all-footage-of-his-death-from-a-stingray-piercing-his-heart-h.md)
 In the four months since Steve Irwin’s tragic death, his widow Terri has done her best to make things as normal as possible for her children ? Bob, 3, and Bind, 8.
 
 ### [ The Chinese Foreign Ministry warns it has intelligence indicating East Turkestan Islamic Movement terrorists will launch an attack against China from Kyrgyzstan. Security personnel along the border between the two countries is increased. ](/news/2007/01/12/the-chinese-foreign-ministry-warns-it-has-intelligence-indicating-east-turkestan-islamic-movement-terrorists-will-launch-an-attack-against.md)
-_Context: Chinese Foreign Ministry spokesperson, East Turkestan Islamic Movement, Kyrgyzstan, People's Republic of China, terrorism_
+_Context: Chinese, Chinese Foreign Ministry spokesperson, East Turkestan Islamic Movement, Kyrgyzstan, terrorism_
 
 ### [ United States armed forces raid the office of the Iranian Consulate General in Arbil, a city in Iraqi Kurdistan. ](/news/2007/01/12/united-states-armed-forces-raid-the-office-of-the-iranian-consulate-general-in-arbil-a-city-in-iraqi-kurdistan.md)
 U.S. forces raided the Iranian consulate in the mainly Kurdish city of Erbil in northern Iraq before dawn today.

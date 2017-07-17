@@ -7,7 +7,7 @@ _Context:  labor dispute, TTC_
 _Context: House of Freedoms, Italian municipal elections, Naples, Rita Borsellino, Rome, Rosa Russo Iervolino, Salvatore Cuffaro, Sergio Chiamparino, Turin, Walter Veltroni, regional election of Sicily_
 
 ### [ In Kabul, Afghanistan, thousands demonstrate against the United States after several civilians were killed in a car accident in which 3 US humvees collided with a traffic jam. ](/news/2006/05/29/in-kabul-afghanistan-thousands-demonstrate-against-the-united-states-after-several-civilians-were-killed-in-a-car-accident-in-which-3-us.md)
-_Context: Afghanistan, Kabul, United States_
+_Context: Afghanistan, Kabul, U.S._
 
 ### [ ''The Times'' reports on investigations into an incident in al-Haditha, Iraq, where US Marines are accused of having covered up the murder of 24 civilians after a soldier had been killed in an attack. ](/news/2006/05/29/the-times-reports-on-investigations-into-an-incident-in-al-haditha-iraq-where-us-marines-are-accused-of-having-covered-up-the-murder.md)
 News and opinion from The Times &amp; The Sunday Times

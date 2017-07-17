@@ -28,7 +28,7 @@ _Context: Italian, North African_
 _Context: India, Pakistan_
 
 ### [China arrests two activists on charges of subversion after calling for 'Jasmine' protests similar to those in the Middle East. ](/news/2011/03/29/china-arrests-two-activists-on-charges-of-subversion-after-calling-for-jasmine-protests-similar-to-those-in-the-middle-east.md)
-_Context: Middle East, People's Republic of China, subversion_
+_Context: Chinese, Middle East, subversion_
 
 ### [Wanted Ugandan rebel leader Joseph Kony, leader of the Lord's Resistance Army, returns to eastern Democratic Republic of the Congo. ](/news/2011/03/29/wanted-ugandan-rebel-leader-joseph-kony-leader-of-the-lord-s-resistance-army-returns-to-eastern-democratic-republic-of-the-congo.md)
 _Context: Democratic Republic of the Congo, Joseph Kony, Lord's Resistance Army, Uganda_

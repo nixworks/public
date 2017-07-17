@@ -1,7 +1,7 @@
 ## [2009-02-13](/news/2009/02/13/index.md)
 
 ### [ The United States Congress approves the American Recovery and Reinvestment Act of 2009.  ](/news/2009/02/13/the-united-states-congress-approves-the-american-recovery-and-reinvestment-act-of-2009.md)
-_Context: American Recovery and Reinvestment Act, United States, United States Congress_
+_Context: American Recovery and Reinvestment Act, U.S., United States Congress_
 
 ### [ Zimbabwe's Republic Police charge Roy Bennett of the Movement for Democratic Change with treason. ](/news/2009/02/13/zimbabwe-s-republic-police-charge-roy-bennett-of-the-movement-for-democratic-change-with-treason.md)
 _Context: Movement for Democratic Change, Roy Bennett, Zimbabwe, police, treason_
@@ -16,7 +16,7 @@ The German economy shrank by a sharp 2.1 per cent in the fourth quarter of 2008,
 A female homicide bomber attacked a tent filled with women and children resting from a pilgrimage to a Shiite holy city south of Baghdad on Friday, killing 40 people and injuring 60 others.
 
 ### [ China's government urges Yves Saint Laurent's estate to return two Qing Dynasty sculptures scheduled for auction in Paris. ](/news/2009/02/13/china-s-government-urges-yves-saint-laurent-s-estate-to-return-two-qing-dynasty-sculptures-scheduled-for-auction-in-paris.md)
-_Context: Paris, People's Republic of China, Qing Dynasty, Yves Saint Laurent, auction, estate, government, sculpture_
+_Context: Chinese, Paris, Qing Dynasty, Yves Saint Laurent, auction, estate, government, sculpture_
 
 ### [ Australia's Senate approves a $42-billion economic stimulus package. ](/news/2009/02/13/australia-s-senate-approves-a-42-billion-economic-stimulus-package.md)
 _Context: A$, Australia, Senator, economy of Australia, stimulus package_
@@ -25,7 +25,7 @@ _Context: A$, Australia, Senator, economy of Australia, stimulus package_
 _Context: Gaza Strip, Hamas, Israel, Israel Defense Forces, aid, grenade_
 
 ### [ Germany's Max Planck Institute for Evolutionary Anthropology and the United States' 454 Life Sciences map the Neanderthal genome.  ](/news/2009/02/13/germany-s-max-planck-institute-for-evolutionary-anthropology-and-the-united-states-454-life-sciences-map-the-neanderthal-genome.md)
-_Context: 454 Life Sciences, Germany, Max Planck Institute for Evolutionary Anthropology, Neanderthal, United States, genome, map_
+_Context: 454 Life Sciences, Germany, Max Planck Institute for Evolutionary Anthropology, Neanderthal, U.S., genome, map_
 
 ### [ Lloyds Banking Group warns that HBOS wil register a loss of PS8.5 billion for 2008. ](/news/2009/02/13/lloyds-banking-group-warns-that-hbos-wil-register-a-loss-of-aps8-5-billion-for-2008.md)
 _Context: 2008, HBOS, Lloyds Banking Group, PS_
@@ -43,7 +43,7 @@ At least 15 passengers were killed and around 150 injured when the Howrah-Chenna
 _Context: Air Accident Investigation Unit, Airbus A340, Virgin Atlantic Airways, electrical wiring_
 
 ### [ Six crew members are missing after China's MV ''Changhai 178'' capsizes in the South China Sea. ](/news/2009/02/13/six-crew-members-are-missing-after-china-s-mv-changhai-178-capsizes-in-the-south-china-sea.md)
-_Context: MV, People's Republic of China, South China Sea, capsize_
+_Context: Chinese, MV, South China Sea, capsize_
 
 ### [ At least 40 FDLR members are killed in airstrikes in the Democratic Republic of the Congo. ](/news/2009/02/13/at-least-40-fdlr-members-are-killed-in-airstrikes-in-the-democratic-republic-of-the-congo.md)
 _Context: Democratic Forces for the Liberation of Rwanda, Democratic Republic of the Congo, airstrike, killed_

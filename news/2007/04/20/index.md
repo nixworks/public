@@ -10,10 +10,10 @@ _Context: Chinese Communist Party, Fidel Castro, Politburo, President, Wu Guanzh
 _Context: Brazil, G4, Germany, India, Japan, United Nations Security Council reform_
 
 ### [ India and the People's Republic of China resume talks to resolve border disputes. ](/news/2007/04/20/india-and-the-people-s-republic-of-china-resume-talks-to-resolve-border-disputes.md)
-_Context: India, People's Republic of China_
+_Context: Chinese, India_
 
 ### [ The United States asks India to stop military cooperation with Iran. ](/news/2007/04/20/the-united-states-asks-india-to-stop-military-cooperation-with-iran.md)
-_Context: India, Iran, United States_
+_Context: India, Iran, U.S._
 
 ### [ The U.S. state of Virginia observes a day of mourning for the victims in the Virginia Tech massacre. ](/news/2007/04/20/the-u-s-state-of-virginia-observes-a-day-of-mourning-for-the-victims-in-the-virginia-tech-massacre.md)
 _Context: U.S. state, Virginia, day of mourning, massacre_

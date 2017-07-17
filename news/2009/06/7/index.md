@@ -10,10 +10,10 @@ Search crews have spotted more bodies and found a large amount of debris from th
 _Context: April 2009, Bolivia, Evo Morales, Ireland, President of Bolivia, assassinated, government, passport_
 
 ### [ A seven-day gay pride festival is held for the first time in Shanghai, China. ](/news/2009/06/7/a-seven-day-gay-pride-festival-is-held-for-the-first-time-in-shanghai-china.md)
-_Context: People's Republic of China, Shanghai, festival, gay pride_
+_Context: Chinese, Shanghai, festival, gay pride_
 
 ### [ The United States Supreme Court is requested to block Italian automaker Fiat's purchase of Chrysler. ](/news/2009/06/7/the-united-states-supreme-court-is-requested-to-block-italian-automaker-fiat-s-purchase-of-chrysler.md)
-_Context: Chrysler, Fiat, Indiana State Police Pension Trust v. Chrysler, Italian, U.S. Supreme Court, United States, automakers, purchase_
+_Context: Chrysler, Fiat, Indiana State Police Pension Trust v. Chrysler, Italian, U.S., U.S. Supreme Court, automakers, purchase_
 
 ### [ Former Cuban President Fidel Castro dismisses allegations that ex-U.S. State Department employee Kendall Myers spied for his country. ](/news/2009/06/7/former-cuban-president-fidel-castro-dismisses-allegations-that-ex-u-s-state-department-employee-kendall-myers-spied-for-his-country.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

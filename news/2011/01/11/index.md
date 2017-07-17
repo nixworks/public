@@ -31,7 +31,7 @@ _Context: Brazil, Sao Paulo_
 The Brisbane River has broken its banks amid dire predictions of the biggest floods to hit Queensland&#039;s capital since 1974.
 
 ### [Thousands of airline flights are cancelled in the south, Great Lakes and northeast regions of the United States due to storms. ](/news/2011/01/11/thousands-of-airline-flights-are-cancelled-in-the-south-great-lakes-and-northeast-regions-of-the-united-states-due-to-storms.md)
-_Context: Great Lakes, Southern United States, United States, commercial air traffic, northeastern United States_
+_Context: Great Lakes, Southern United States, U.S., commercial air traffic, northeastern United States_
 
 ### [An official investigation in Kyrgzstan into deadly ethnic riots last year reports that local Uzbek leaders were to blame. ](/news/2011/01/11/an-official-investigation-in-kyrgzstan-into-deadly-ethnic-riots-last-year-reports-that-local-uzbek-leaders-were-to-blame.md)
 An official investigation in Kyrgyzstan into deadly ethnic clashes last year says local Uzbek leaders were to blame.
@@ -52,7 +52,7 @@ _Context: Alassane Ouattara, Laurent Gbagbo_
 _Context: Israel, Palestinian National Authority, Security Council, United Nations, United Nations General Assembly, officially recognises_
 
 ### [China successfully tests the Chengdu J-20 Black Eagle, one of its fifth generation stealth, twin-engine fighter aircraft programs. ](/news/2011/01/11/china-successfully-tests-the-chengdu-j-20-black-eagle-one-of-its-fifth-generation-stealth-twin-engine-fighter-aircraft-programs.md)
-_Context: Chengdu J-20 Black Eagle, People's Republic of China_
+_Context: Chengdu J-20 Black Eagle, Chinese_
 
 ### [Scientists detect streams of antimatter positrons annihilating electrons being responsible for Terrestrial gamma-ray flashes above the tops of thunderstorms. ](/news/2011/01/11/scientists-detect-streams-of-antimatter-positrons-annihilating-electrons-being-responsible-for-terrestrial-gamma-ray-flashes-above-the-tops.md)
 A space telescope designed to probe the farthest reaches of the cosmos has spotted beams of antimatter streaming from thunderstorms on Earth.

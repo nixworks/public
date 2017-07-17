@@ -10,7 +10,7 @@ _Context: Defense Department, defense spending_
 _Context: Anthony Ashley-Cooper, 10th Earl of Shaftesbury, widow_
 
 ### [ Six foreign oil workers (two British, three American and one South African) have been kidnapped in Nigeria. ](/news/2007/05/25/six-foreign-oil-workers-two-british-three-american-and-one-south-african-have-been-kidnapped-in-nigeria.md)
-_Context: South African, UK, United States_
+_Context: South African, U.S., UK_
 
 ### [ Japanese sources tell the Kyodo news agency that North Korea has test-fired several missiles towards the Sea of Japan. ](/news/2007/05/25/japanese-sources-tell-the-kyodo-news-agency-that-north-korea-has-test-fired-several-missiles-towards-the-sea-of-japan.md)
 _Context: Japan, Kyodo, North Korea, Sea of Japan, fires seven more missiles_

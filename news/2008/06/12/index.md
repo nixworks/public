@@ -16,7 +16,7 @@ _Context: Cedar Rapids, Cedar River_
 _Context: Conservative Party, David Davis, Haltemprice and Howden, Haltemprice and Howden by-election, MP, Shadow Home Secretary, civil liberties_
 
 ### [ The Salmonella outbreak in the United States caused by tainted tomatoes continues to worsen with 228 victims in 23 states. ](/news/2008/06/12/the-salmonella-outbreak-in-the-united-states-caused-by-tainted-tomatoes-continues-to-worsen-with-228-victims-in-23-states.md)
-_Context: United States, salmonella, tomato_
+_Context: U.S., salmonella, tomato_
 
 ### [ The United States Secretary of Defense Robert Gates invites Pakistan and Afghanistan to participate in an investigation of the Gora Prai airstrike. ](/news/2008/06/12/the-united-states-secretary-of-defense-robert-gates-invites-pakistan-and-afghanistan-to-participate-in-an-investigation-of-the-gora-prai-ai.md)
 _Context: Afghanistan, Gora Prai airstrike, Pakistan, Robert Gates, Secretary of Defense_
@@ -28,7 +28,7 @@ _Context: 110 metre hurdles, Cuba, Czech Republic, Dayron Robles, Ostrava, world
 _Context: Afghanistan, Paris, international aid_
 
 ### [ The People's Republic of China and Taiwan begin their first formal talks in a decade on improving cross-strait relations. ](/news/2008/06/12/the-people-s-republic-of-china-and-taiwan-begin-their-first-formal-talks-in-a-decade-on-improving-cross-strait-relations.md)
-_Context: Cross-Strait relations, People's Republic of China, Taiwan_
+_Context: Chinese, Cross-Strait relations, Taiwan_
 
 ### [ Irish voters go to the polls for the Twenty-eighth Amendment of the Constitution of Ireland to enable ratification of the Treaty of Lisbon of the European Union. ](/news/2008/06/12/irish-voters-go-to-the-polls-for-the-twenty-eighth-amendment-of-the-constitution-of-ireland-to-enable-ratification-of-the-treaty-of-lisbon.md)
 _Context: European Union, Ireland, Treaty of Lisbon, ratified, the second Irish referendum_

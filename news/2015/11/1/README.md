@@ -22,7 +22,7 @@ _Context: Colectiv nightclub fire_
 _Context: Chindwin River, Myanmar, Sagaing Region_
 
 ### [The leaders of the People's Republic of China, South Korea and Japan hold their first summit in three years. ](/news/2015/11/1/the-leaders-of-the-people-s-republic-of-china-south-korea-and-japan-hold-their-first-summit-in-three-years.md)
-_Context: Japan, People's Republic of China, South Korea, trilateral summit_
+_Context: Chinese, Japan, South Korea, trilateral summit_
 
 ### [ Switzerland Named World's Most Positive Country For 2015. ](/news/2015/11/1/switzerland-named-worldas-most-positive-country-for-2015.md)
 _Context: Swiss_

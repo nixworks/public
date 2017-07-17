@@ -19,7 +19,7 @@ _Context: Baghdad Central Prison, Iraq_
 _Context: Nguyen Tan Dung, Vietnam, first, prime minister, refinery_
 
 ### [ At least 73 miners die following an explosion in a coal mine in Gujiao, Shanxi, China. ](/news/2009/02/22/at-least-73-miners-die-following-an-explosion-in-a-coal-mine-in-gujiao-shanxi-china.md)
-_Context: Gujiao, People's Republic of China, Shanxi province, coal miners, explosion, miner_
+_Context: Chinese, Gujiao, Shanxi province, coal miners, explosion, miner_
 
 ### [ Australia holds a national day of mourning for the 209 confirmed victims of recent bushfires in Victoria. ](/news/2009/02/22/australia-holds-a-national-day-of-mourning-for-the-209-confirmed-victims-of-recent-bushfires-in-victoria.md)
 _Context: Australia, Victoria, national mourning, recent bushfires_

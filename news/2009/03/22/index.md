@@ -7,7 +7,7 @@ _Context: Alaska, Mount Redoubt, volcanic activity_
 _Context: Butte, Montana, Pilatus PC-12, crashes_
 
 ### [ Four police officers are killed in Oakland, California, United States. ](/news/2009/03/22/four-police-officers-are-killed-in-oakland-california-united-states.md)
-_Context: California, Oakland, California, United States, killed, police officer_
+_Context: California, Oakland, California, U.S., killed, police officer_
 
 ### [ India's Board of Control for Cricket will relocate the 2009 Premier League outside the country. ](/news/2009/03/22/india-s-board-of-control-for-cricket-will-relocate-the-2009-premier-league-outside-the-country.md)
 _Context: Board of Control for Cricket, India, Indian Premier League, win_
@@ -22,7 +22,7 @@ _Context: England, New Zealand, Women's Cricket World Cup, win_
 _Context: Australia, Sydney Airport, assailant, outlaw motorcycle gangs_
 
 ### [ Ninety-three Tibetan monks are arrested after attacking a police station in Qinghai, China. ](/news/2009/03/22/ninety-three-tibetan-monks-are-arrested-after-attacking-a-police-station-in-qinghai-china.md)
-_Context: People's Republic of China, Qinghai, Tibet, arrest, attacking, monk, police station_
+_Context: Chinese, Qinghai, Tibet, arrest, attacking, monk, police station_
 
 ### [ Thousands of people assemble for Pope Benedict XVI's Catholic Mass in Luanda, Angola. ](/news/2009/03/22/thousands-of-people-assemble-for-pope-benedict-xvi-s-catholic-mass-in-luanda-angola.md)
 _Context: Angola, Luanda, Mass, Pope, Pope Benedict XVI, Roman Catholic Church_

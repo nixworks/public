@@ -4,13 +4,13 @@
 _Context: Russia, Ukrainian, espionage_
 
 ### [A hearing whether to repeal the Don't Ask, Don't Tell policy is held in the United States allowing the possibility of openly gay people to become active-duty members of the United States armed forces. ([http://news.bbc.co.uk/2/hi/americas/8494369.stm BBC]) ](/news/2010/02/2/a-hearing-whether-to-repeal-the-don-t-ask-don-t-tell-policy-is-held-in-the-united-states-allowing-the-possibility-of-openly-gay-people-to-b.md)
-_Context: United States, United States military, don't ask, don't tell, openly gay people to become active-duty members_
+_Context: U.S., United States military, don't ask, don't tell, openly gay people to become active-duty members_
 
 ### [The World Food Programme announces the number of hungry people in Sudan has quadrupled since August 2009 to 4.3 million. ](/news/2010/02/2/the-world-food-programme-announces-the-number-of-hungry-people-in-sudan-has-quadrupled-since-august-2009-to-4-3-million.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 ### [China says that relations will be undermined if U.S. President Barack Obama meets the Dalai Lama. ](/news/2010/02/2/china-says-that-relations-will-be-undermined-if-u-s-president-barack-obama-meets-the-dalai-lama.md)
-_Context: 14th Dalai Lama, Barack Obama, People's Republic of China, Sino-American relations_
+_Context: 14th Dalai Lama, Barack Obama, Chinese, Sino-American relations_
 
 ### [Continental Airlines and five men go on trial for their alleged role in the crash of Air France Flight 4590, a Concorde flight, that killed 113 people in 2000. ](/news/2010/02/2/continental-airlines-and-five-men-go-on-trial-for-their-alleged-role-in-the-crash-of-air-france-flight-4590-a-concorde-flight-that-killed.md)
 * Trial starts to determine cause of 2000 Concorde crash * Continental Airlines, five individuals face trial * Trial expected to last unti

@@ -34,7 +34,7 @@ _Context: Gao Jin, Ground Force, Li Zuocheng, Liu Fulian, People's Liberation Ar
 _Context: Deputy Communist Party Secretary, Lu Xiwen_
 
 ### [On January 18, 2016, the British Parliament will debate a petition, signed by more than 560,000 people, calling for the Home Secretary to ban United States Republican Party presidential candidate Donald Trump from entering the United Kingdom because of 'hate speech' that is unacceptable behavior, non-conducive to the public good. The  conclusion reached by the lawmakers will not be binding on the UK government. ](/news/2016/01/5/on-january-18-2016-the-british-parliament-will-debate-a-petition-signed-by-more-than-560-000-people-calling-for-the-home-secretary-to-ba.md)
-_Context: 10 Downing Street, 2016 U.S. presidential election, Donald Trump, Home Secretary, Parliament, Republican Party presidential candidate, UK, United States, hate speech_
+_Context: 10 Downing Street, 2016 U.S. presidential election, Donald Trump, Home Secretary, Parliament, Republican Party presidential candidate, U.S., UK, hate speech_
 
 ### [The United Kingdom's Prime Minister David Cameron announces he will suspend collective responsibility ahead of the referendum on the country's EU membership, allowing ministers to campaign for the UK to leave the European Union. A member of his cabinet was reportedly due to resign over the issue within 24 hours. ](/news/2016/01/5/the-united-kingdom-s-prime-minister-david-cameron-announces-he-will-suspend-collective-responsibility-ahead-of-the-referendum-on-the-country.md)
 The Prime Minister announces that he will suspend collective responsibility ahead of the referendum amid fears in Downing Street that Chris Grayling was planning to resign over the issue

@@ -13,7 +13,7 @@ _Context: Aboubacar Sompare, Guinea, Lansana Conte, National Assembly, President
 _Context: Clinch River, Emory, Kingston, Tennessee, Tennessee Valley Authority, a large volume of fly ash slurry being spilled, coal-fired power plant, impoundment_
 
 ### [ A jury finds five men guilty of conspiring to kill soldiers at Fort Dix, New Jersey, United States. ](/news/2008/12/22/a-jury-finds-five-men-guilty-of-conspiring-to-kill-soldiers-at-fort-dix-new-jersey-united-states.md)
-_Context: Fort Dix, New Jersey, United States, conspiring to kill soldiers_
+_Context: Fort Dix, New Jersey, U.S., conspiring to kill soldiers_
 
 ### [ Nine human heads and decapitated bodies, believed to belong to eight soldiers and one high-ranking former police officer, are found in Chilpancingo, Guerrero, Mexico. ](/news/2008/12/22/nine-human-heads-and-decapitated-bodies-believed-to-belong-to-eight-soldiers-and-one-high-ranking-former-police-officer-are-found-in-chil.md)
 _Context: Chilpancingo, Guerrero, Mexico_
@@ -22,7 +22,7 @@ _Context: Chilpancingo, Guerrero, Mexico_
 _Context: US$, bailout, dealers, global crisis_
 
 ### [ The United States and Mexico pledge $1.4 billion for the Merida Initiative, a security cooperation for combating drug trade, transnational crime, and money laundering. ](/news/2008/12/22/the-united-states-and-mexico-pledge-1-4-billion-for-the-ma-c-rida-initiative-a-security-cooperation-for-combating-drug-trade-transnational.md)
-_Context: Merida Initiative, United States, anti-drug plan, money laundering_
+_Context: Merida Initiative, U.S., anti-drug plan, money laundering_
 
 ### [ Toyota Motor Corporation, the world's largest automaker, forecasts its first operating loss in 70 years, due to the automotive crisis. ](/news/2008/12/22/toyota-motor-corporation-the-worldas-largest-automaker-forecasts-its-first-operating-loss-in-70-years-due-to-the-automotive-crisis.md)
 Underscoring how the economic crisis is spreading across the global auto industry, Toyota said it will lose money in its core automaking business.

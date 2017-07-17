@@ -16,7 +16,7 @@ Singer Annie Lennox is recognised in the New Year Honours, along with actors Dav
 _Context: Estonia, Soviet, euro_
 
 ### [Tornadoes touch down in midwestern and southern United States, including Washington County, Arkansas; Greater St. Louis, Sunset Hills, Missouri, Illinois and Oklahoma, with a few tornadoes in the early hours of January 1, 2011. A total 36 tornadoes touched down, resulting in the deaths of 9 people.](/news/2010/12/31/tornadoes-touch-down-in-midwestern-and-southern-united-states-including-washington-county-arkansas-greater-st-louis-sunset-hills-misso.md)
-_Context: Illinois, Oklahoma!, Southern United States, St. Louis-area municipalities, Sunset Hills, Missouri, United States, Washington County, Arkansas, midwestern, tornado outbreak_
+_Context: Illinois, Oklahoma!, Southern United States, St. Louis-area municipalities, Sunset Hills, Missouri, U.S., Washington County, Arkansas, midwestern, tornado outbreak_
 
 ### [Three Tibetan writers, detained earlier this year by Chinese authorities, are sentenced to  jail terms of three to four years for "inciting activities to split the nation" ](/news/2010/12/31/three-tibetan-writers-detained-earlier-this-year-by-chinese-authorities-are-sentenced-to-jail-terms-of-three-to-four-years-for-inciting.md)
 _Context: Chinese police, Tibetan writers_
@@ -28,7 +28,7 @@ _Context: Comoros, Ikililou Dhoinine, Mohamed Said Fazul, President of the, elec
 The two journalists were arrested in mid-October for interviewing family members of woman sentenced to death by stoning for alleged adultery.
 
 ### [Officials in the Chinese Ministry of Industry and Information Technology warn of a crackdown on "illegal" voice-over-Internet(VoIP) telephony services that are not licensed or approved by the country's telecoms regulator. ](/news/2010/12/31/officials-in-the-chinese-ministry-of-industry-and-information-technology-warn-of-a-crackdown-on-illegal-voice-over-internet-voip-telephon.md)
-_Context: Ministry of Industry and Information Technology, People's Republic of China, voice-over-Internet(VoIP)_
+_Context: Chinese, Ministry of Industry and Information Technology, voice-over-Internet(VoIP)_
 
 ### [Italy bans plastic bags. ](/news/2010/12/31/italy-bans-plastic-bags.md)
 A ban on plastic bags is about to come into effect in Italy, where about 20 billion are used every year.

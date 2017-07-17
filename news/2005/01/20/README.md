@@ -1,7 +1,7 @@
 ## [2005-01-20](/news/2005/01/20/index.md)
 
 ### [ Grenada switches recognition from the Republic of China (Taiwan) to the People's Republic of China following a million dollar aid deal from the PRC. This brings the number of countries that officially recognize the ROC to 25. ](/news/2005/01/20/grenada-switches-recognition-from-the-republic-of-china-taiwan-to-the-people-s-republic-of-china-following-a-million-dollar-aid-deal-from.md)
-_Context: Grenada, People's Republic of China, Taiwan_
+_Context: Chinese, Grenada, Taiwan_
 
 ### [ In Belize, unrest over the government's new taxes boils over as people burn the government offices and union workers strike, closing ports and shutting down water services. There are reports that the United Kingdom says it will send in 1500 soldiers to maintain peace. ](/news/2005/01/20/in-belize-unrest-over-the-government-s-new-taxes-boils-over-as-people-burn-the-government-offices-and-union-workers-strike-closing-ports.md)
 _Context: Belize, UK, unrest_

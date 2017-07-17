@@ -1,7 +1,7 @@
 ## [2007-11-28](/news/2007/11/28/index.md)
 
 ### [ An explosion and fire southeast of Clearbrook, Minnesota, kills two workers and forced the closure of a pipeline that carries nearly a fifth of U.S. crude oil imports from Canada. ](/news/2007/11/28/an-explosion-and-fire-southeast-of-clearbrook-minnesota-kills-two-workers-and-forced-the-closure-of-a-pipeline-that-carries-nearly-a-fift.md)
-_Context: Canada, Clearbrook, Minnesota, United States, crude oil, pipeline_
+_Context: Canada, Clearbrook, Minnesota, U.S., crude oil, pipeline_
 
 ### [ Striking Broadway stagehands and producers reach a deal. ](/news/2007/11/28/striking-broadway-stagehands-and-producers-reach-a-deal.md)
 _Context: Broadway_
@@ -28,7 +28,7 @@ _Context: 2007 Pakistani state of emergency, Ashfaq Parvez Kayani, Chief of Army
 _Context: Sri Lanka, suicide bomber_
 
 ### [ The Chinese Type 051B destroyer ''Shenzhen'' visits Tokyo in the first visit of a Chinese warship to Japan since World War II. ](/news/2007/11/28/the-chinese-type-051b-destroyer-shenzhen-visits-tokyo-in-the-first-visit-of-a-chinese-warship-to-japan-since-world-war-ii.md)
-_Context: Japan, People's Republic of China, Tokyo, Type 051B, World War II, destroyer_
+_Context: Chinese, Japan, Tokyo, Type 051B, World War II, destroyer_
 
 ### [ Authorities in Sudan charge a British school teacher at Unity High School in Khartoum with the crime of insulting Islam for letting students name a teddy bear Muhammad. ](/news/2007/11/28/authorities-in-sudan-charge-a-british-school-teacher-at-unity-high-school-in-khartoum-with-the-crime-of-insulting-islam-for-letting-student.md)
 _Context: Islam, Khartoum, Muhammad, Sudan, Unity High School, teddy bear_

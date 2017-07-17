@@ -25,7 +25,7 @@ _Context: Blaise Compaor, Burkina Faso, President_
 Ben Quilty has won Australia&#039;s most prestigious portraiture prize, the Archibald, with his painting of esteemed artist Margaret Olley.
 
 ### [The Chinese economy grew by 9.7 per cent in the first quarter of 2011 while inflation was 5.4%, the highest level in nearly three years. ](/news/2011/04/15/the-chinese-economy-grew-by-9-7-per-cent-in-the-first-quarter-of-2011-while-inflation-was-5-4-the-highest-level-in-nearly-three-years.md)
-_Context: People's Republic of China_
+_Context: Chinese_
 
 ### [Two South Korean internet search engines accuse Google of antitrust violations. ](/news/2011/04/15/two-south-korean-internet-search-engines-accuse-google-of-antitrust-violations.md)
 _Context: Google, South Korea, antitrust, internet search engine_
@@ -43,7 +43,7 @@ _Context: Fukushima I Nuclear Power Plant, Tokyo Electric Power Company, yen_
 Three days of severe storms leave 24 people dead in the US south, with the Carolinas the latest states to suffer as they move east.
 
 ### [Wildfires in Texas, United States destroy dozens of homes and kill a firefighter. ](/news/2011/04/15/wildfires-in-texas-united-states-destroy-dozens-of-homes-and-kill-a-firefighter.md)
-_Context: Texas, United States_
+_Context: Texas, U.S._
 
 ### [Former Australian water polo player Keli Lane is jailed for 18 years for murdering her baby daughter Tegan Lane in 1996. ](/news/2011/04/15/former-australian-water-polo-player-keli-lane-is-jailed-for-18-years-for-murdering-her-baby-daughter-tegan-lane-in-1996.md)
 _Context: Australia, Keli Lane, water polo_

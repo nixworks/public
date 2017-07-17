@@ -16,7 +16,7 @@ _Context: Southern Sudan, Sudan, Zambia_
 Venezuela begins rationing electricity after blackouts on Monday affected nearly half the country.
 
 ### [Trial runs begin for the Beijing-Shanghai High-Speed Railway in the People's Republic of China, ahead of the railway's official opening on 20 June 2011. ](/news/2011/05/11/trial-runs-begin-for-the-beijingashanghai-high-speed-railway-in-the-people-s-republic-of-china-ahead-of-the-railway-s-official-opening-on.md)
-_Context: Beijing-Shanghai High-Speed Railway, People's Republic of China_
+_Context: Beijing-Shanghai High-Speed Railway, Chinese_
 
 ### [The Bank of England says it expects inflation to reach 5% this year, due to higher fuel bills that could rise by up to 15%, and revises down its growth projection for the UK economy. ](/news/2011/05/11/the-bank-of-england-says-it-expects-inflation-to-reach-5-this-year-due-to-higher-fuel-bills-that-could-rise-by-up-to-15-and-revises-down.md)
 The Bank of England says it expects inflation to hit 5% this year, due to higher utility bills, and revises down its growth projection.
@@ -34,7 +34,7 @@ WikiLeaks founder Julian Assange is given an award by the Sydney Peace Foundatio
 A US report says 48 women and girls are raped every hour in DR Congo, a rate significantly higher than a previous UN estimate.
 
 ### [The trial of United States citizens Josh Fattal and Shane Bauer in Tehran, Iran, on espionage charges is again delayed. ](/news/2011/05/11/the-trial-of-united-states-citizens-josh-fattal-and-shane-bauer-in-tehran-iran-on-espionage-charges-is-again-delayed.md)
-_Context: Iran, Josh Fattal and Shane Bauer, Tehran, United States, espionage_
+_Context: Iran, Josh Fattal and Shane Bauer, Tehran, U.S., espionage_
 
 ### [The Supreme Court of India dismisses a government petition for seven people convicted for their role in the Bhopal disaster in 1984 to receive tougher sentences. ](/news/2011/05/11/the-supreme-court-of-india-dismisses-a-government-petition-for-seven-people-convicted-for-their-role-in-the-bhopal-disaster-in-1984-to-recei.md)
 _Context: Bhopal disaster, Government of India, Supreme Court of India_

@@ -13,7 +13,7 @@ _Context: Human Rights Watch, Lebanon, New York City, Saudi Arabia, United Arab 
 Senior Indian and Pakistani officials pledged Thursday to improve frosty relations between their nations following a meeting between their prime ministers at the periphery of a regional summit in...
 
 ### [Twenty-eight children and three adults are stabbed at a nursery school in China. ](/news/2010/04/29/twenty-eight-children-and-three-adults-are-stabbed-at-a-nursery-school-in-china.md)
-_Context: People's Republic of China_
+_Context: Chinese_
 
 ### [The U.S. Food and Drug Administration (FDA) approves Provenge (sipuleucel-T), the first "vaccine" approved to treat cancer, for men with advanced prostate cancer. ](/news/2010/04/29/the-u-s-food-and-drug-administration-fda-approves-provenge-sipuleucel-t-the-first-vaccine-approved-to-treat-cancer-for-men-with-adv.md)
 _Context: Provenge, U.S. Food and Drug Administration, prostate cancer, vaccine_

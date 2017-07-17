@@ -19,7 +19,7 @@ _Context: Eudy Simelane, KwaThema, South Africa, association football, lesbian_
 _Context: Barack Obama, Fidel Castro, President, President of the United States, United Nations General Assembly_
 
 ### [ One of the busiest border crossings between Mexico and the United States at San Ysidro is closed for hours after a gun battle between US agents and suspected human traffickers. ](/news/2009/09/23/one-of-the-busiest-border-crossings-between-mexico-and-the-united-states-at-san-ysidro-is-closed-for-hours-after-a-gun-battle-between-us-ag.md)
-_Context: Mexico, San Ysidro, United States_
+_Context: Mexico, San Ysidro, U.S._
 
 ### [ A Scottish PS1 banknote, dated 1836, sells for a world record PS9,000 price at auction. ](/news/2009/09/23/a-scottish-aps1-banknote-dated-1836-sells-for-a-world-record-aps9-000-price-at-auction.md)
 _Context: Scotland_
@@ -52,7 +52,7 @@ _Context: Argentina, Dirty War, Julio Alberto Poch, Spain, Transavia_
 In his first U.N. appearance, Libyan leader Moammar Gadhafi slams the Security Council and chastised the world body on Wednesday for failing to intervene or prevent some 65 wars.
 
 ### [ China relaxes travel curbs for Guangdong residents visiting Macau. ](/news/2009/09/23/china-relaxes-travel-curbs-for-guangdong-residents-visiting-macau.md)
-_Context: Guangdong province, Macau, People's Republic of China_
+_Context: Chinese, Guangdong province, Macau_
 
 ### [ Human Rights Watch urges world leaders to call on Sri Lanka to free hundreds of thousands of displaced people detained in camps since the island's civil war ended. ](/news/2009/09/23/human-rights-watch-urges-world-leaders-to-call-on-sri-lanka-to-free-hundreds-of-thousands-of-displaced-people-detained-in-camps-since-the-i.md)
 _Context: Human Rights Watch, Sri Lanka_

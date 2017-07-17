@@ -10,7 +10,7 @@ _Context: Khyber Agency_
 _Context: Kunduz, Mohammad Omar_
 
 ### [German officials say that Islamic militants whose disclosures have triggered a Europe-wide terror alert, have links to the perpetrators of the September 11 attacks on the United States in 2001. ](/news/2010/10/8/german-officials-say-that-islamic-militants-whose-disclosures-have-triggered-a-europe-wide-terror-alert-have-links-to-the-perpetrators-of-t.md)
-_Context: Europe-wide terror alert, Germany, Islamic terrorism, September 11 attacks, United States_
+_Context: Europe-wide terror alert, Germany, Islamic terrorism, September 11 attacks, U.S._
 
 ### [A Taiwanese ship initially believed to have been hijacked off the coast of Madagascar is later found safe. ](/news/2010/10/8/a-taiwanese-ship-initially-believed-to-have-been-hijacked-off-the-coast-of-madagascar-is-later-found-safe.md)
 A Taiwanese ship reported to have been seized by pirates east of Madagascar had just &quot;lost touch&quot; with its owner, according to the EU naval force fighting piracy in the Indian Ocean.
@@ -25,7 +25,7 @@ John Lennon, the late Beatles singer, has been celebrated with a special interac
 _Context: BBC Four, Germany, The White Ribbon, World Cinema Award_
 
 ### [United States gospel music singer Albertina Walker, known as the "Queen of Gospel" dies in Chicago. ](/news/2010/10/8/united-states-gospel-music-singer-albertina-walker-known-as-the-queen-of-gospel-dies-in-chicago.md)
-_Context: Albertina Walker, Gospel, United States_
+_Context: Albertina Walker, Gospel, U.S._
 
 ### [The International Civil Aviation Organization (ICAO) concluded its 37th session of its assembly on Friday at its headquarters in Montreal, making progresses on aviation emissions. ](/news/2010/10/8/the-international-civil-aviation-organization-icao-concluded-its-37th-session-of-its-assembly-on-friday-at-its-headquarters-in-montreal-m.md)
 _Context: International Civil Aviation Organization, Montreal_
@@ -40,7 +40,7 @@ _Context: Japanese government, economic stimulus_
 _Context: BlackBerry, United Arab Emirates_
 
 ### [Premier Wen Jiabao of the People's Republic of China denies reports that China is using its control over minerals crucial to high technology (called "rare earth") as a bargaining chip, especially in a dispute with Japan over Japan's arrest of a Chinese fishing-boat captain ](/news/2010/10/8/premier-wen-jiabao-of-the-people-s-republic-of-china-denies-reports-that-china-is-using-its-control-over-minerals-crucial-to-high-technology.md)
-_Context: Japan, People's Republic of China, Wen Jiabao, rare earth element_
+_Context: Chinese, Japan, Wen Jiabao, rare earth element_
 
 ### [Ajka alumina plant accident in Hungary:2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. ](/news/2010/10/8/ajka-alumina-plant-accident-in-hungary-p2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-orb.md)
 Residents blame aluminium company for toxic spill that killed four people and devastated three villages.
@@ -88,7 +88,7 @@ The Murray-Darling Basin Authority calls for water consumption from some of the 
 _Context: Chang'e 2_
 
 ### [Two Russian cosmonauts, Aleksandr Kaleri and Oleg Skripochka, and American astronaut Scott Kelly leave on mission Soyuz TMA-01M for the International Space Station from Kazakhstan's Baikonur Cosmodrome. ](/news/2010/10/8/two-russian-cosmonauts-aleksandr-kaleri-and-oleg-skripochka-and-american-astronaut-scott-kelly-leave-on-mission-soyuz-tma-01m-for-the-inte.md)
-_Context: Aleksandr Kaleri, Baikonur Cosmodrome, International Space Station, Kazakhstan, Oleg Skripochka, Russia, Scott Kelly, Soyuz TMA-01M, United States, astronaut, cosmonaut_
+_Context: Aleksandr Kaleri, Baikonur Cosmodrome, International Space Station, Kazakhstan, Oleg Skripochka, Russia, Scott Kelly, Soyuz TMA-01M, U.S., astronaut, cosmonaut_
 
 ### [Anthropologists claim to have proven that Yersinia pestis was responsible for the Black Death in  Medieval Europe. ](/news/2010/10/8/anthropologists-claim-to-have-proven-that-yersinia-pestis-was-responsible-for-the-black-death-in-medieval-europe.md)
 Anthropologists say they have confirmed long-running suspicions that a germ called Yersinia pestis caused the plague that wiped out an estimated third of Europe&#039;s population in the Middle Ages.

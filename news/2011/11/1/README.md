@@ -19,13 +19,13 @@ _Context: Eastern U.S., nor'easter, state of emergency_
 _Context: LOT Polish Airlines Flight 016, Warsaw Chopin Airport_
 
 ### [At least seven people are killed and 200 injured following an explosion caused by two trucks carrying explosives crashing in Fuquan City in China's Guizhou Province. ](/news/2011/11/1/at-least-seven-people-are-killed-and-200-injured-following-an-explosion-caused-by-two-trucks-carrying-explosives-crashing-in-fuquan-city-in.md)
-_Context: Fuquan City, Guizhou province, People's Republic of China_
+_Context: Chinese, Fuquan City, Guizhou province_
 
 ### [A boat carrying 70 asylum seekers en route to Australia sinks off the coast of Java in Indonesia with eight confirmed deaths and fifteen people missing. ](/news/2011/11/1/a-boat-carrying-70-asylum-seekers-en-route-to-australia-sinks-off-the-coast-of-java-in-indonesia-with-eight-confirmed-deaths-and-fifteen-peo.md)
 _Context: Australia, Indonesia, Java, asylum seeker_
 
 ### [Almazbek Atambayev, the newly elected President of Kyrgyzstan, states that a lease for a United States air base in Manas will not be renewed when it expires in 2014. ](/news/2011/11/1/almazbek-atambayev-the-newly-elected-president-of-kyrgyzstan-states-that-a-lease-for-a-united-states-air-base-in-manas-will-not-be-renewed.md)
-_Context: Almazbek Atambayev, Manas, President, United States_
+_Context: Almazbek Atambayev, Manas, President, U.S._
 
 ### [At least twelve people are arrested in London outside the Parliament of the United Kingdom after a protest against anti-squatting legislation turns violent. ](/news/2011/11/1/at-least-twelve-people-are-arrested-in-london-outside-the-parliament-of-the-united-kingdom-after-a-protest-against-anti-squatting-legislatio.md)
 Twelve people are arrested after a clash between police and protesters outside the Houses of Parliament.

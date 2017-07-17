@@ -7,7 +7,7 @@ _Context: Department of Homeland Security, Hurricane Katrina, Michael Brown, Mic
 _Context: Belgian Air Force, F-16, Netherlands, Vlieland, Wadden Sea, ejected_
 
 ### [ People's Republic of China President Hu Jintao meets with Canadian Prime Minister Paul Martin in Ottawa. The event is met with protesters and supporters of the Chinese government. Martin and Hu agree on a new "Strategic Partnership", and sign a series of agreements on transportation, food inspection, and scientific research. Hu also meets with Governor General Adrienne Clarkson. ](/news/2005/09/9/people-s-republic-of-china-president-hu-jintao-meets-with-canadian-prime-minister-paul-martin-in-ottawa-the-event-is-met-with-protesters-a.md)
-_Context: Adrienne Clarkson, Canada, Canadian Prime Minister, Chinese President, Governor General, Hu Jintao, Paul Martin, People's Republic of China_
+_Context: Adrienne Clarkson, Canada, Canadian Prime Minister, Chinese, Chinese President, Governor General, Hu Jintao, Paul Martin_
 
 ### [ A federal grand jury in Providence, Rhode Island indicts Richard Hatch, winner of ''Survivor: Pulau Tiga'', for income tax evasion and fraud for allegedly failing to pay taxes on his winnings and misusing charity funds. ](/news/2005/09/9/a-federal-grand-jury-in-providence-rhode-island-indicts-richard-hatch-winner-of-survivor-pulau-tiga-for-income-tax-evasion-and-frau.md)
 _Context: Providence, Rhode Island, Rhode Island, Richard Hatch, Survivor: Pulau Tiga, evasion, fraud, grand jury, income tax, indicted, presumption of innocence_

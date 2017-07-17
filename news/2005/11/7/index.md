@@ -13,7 +13,7 @@ _Context: India, Indian National Congress, Iraq, K. Natwar Singh, oil-for-food p
 _Context: Canada, Jack Layton, New Democratic Party, Paul Martin_
 
 ### [ China closes all Beijing poultry markets. Authorities ordered all live poultry markets in China's capital to close immediately and went door-to-door seizing chickens and ducks from private homes, as the government dramatically ramped up its fight against avian influenza today. ](/news/2005/11/7/china-closes-all-beijing-poultry-markets-authorities-ordered-all-live-poultry-markets-in-china-s-capital-to-close-immediately-and-went-doo.md)
-_Context: Avian flu virus, Beijing, People's Republic of China, poultry_
+_Context: Avian flu virus, Beijing, Chinese, poultry_
 
 ### [ Alberto Fujimori, former President of Peru, is arrested in Chile whilst a Chilean judge considers a Peruvian extradition request. ](/news/2005/11/7/alberto-fujimori-former-president-of-peru-is-arrested-in-chile-whilst-a-chilean-judge-considers-a-peruvian-extradition-request.md)
 _Context: Alberto Fujimori, Chile, Peru_

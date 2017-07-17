@@ -10,13 +10,13 @@ A Virender Sehwag century steered India to a record World Cup total as debutants
 _Context: CAN$, Canadian Prime Minister, Ontario, Quebec, Stephen Harper, budget_
 
 ### [ People's Bank of China Governor Zhou Xiaochuan starts talks with leadership of the Inter-American Development Bank to include the People's Republic of China as its newest member. This may signal erosion of Taiwan's status in the Latin American and Caribbean region. ](/news/2007/03/19/people-s-bank-of-china-governor-zhou-xiaochuan-starts-talks-with-leadership-of-the-inter-american-development-bank-to-include-the-people-s.md)
-_Context: Caribbean, Inter-American Development Bank, Latin America, People's Bank of China, People's Republic of China, Taiwan, Zhou Xiaochuan, status_
+_Context: Caribbean, Chinese, Inter-American Development Bank, Latin America, People's Bank of China, Taiwan, Zhou Xiaochuan, status_
 
 ### [ The government of Iraq seeks custody of former Vice President Taha Yassin Ramadan so he can be hanged at dawn tomorrow after having been recently sentenced to death for his role in killing 148 Shiites in 1982. ](/news/2007/03/19/the-government-of-iraq-seeks-custody-of-former-vice-president-taha-yassin-ramadan-so-he-can-be-hanged-at-dawn-tomorrow-after-having-been-re.md)
 _Context: Iraq, Shiite, Taha Yassin Ramadan, Vice President, hanging_
 
 ### [ Waleed bin Attash, a suspected al Qaeda operative, confesses plotting the USS ''Cole'' bombing as well as the bombing of two United States embassies in Africa. ](/news/2007/03/19/waleed-bin-attash-a-suspected-al-qaeda-operative-confesses-plotting-the-uss-cole-bombing-as-well-as-the-bombing-of-two-united-states.md)
-_Context: Africa, USS ''Cole'' bombing, United States, Waleed bin Attash, al-Qaeda_
+_Context: Africa, U.S., USS ''Cole'' bombing, Waleed bin Attash, al-Qaeda_
 
 ### [ The  Supreme Court of the United States hears ''Morse v. Frederick'', in which an Alaskan high school student argues free speech rights in connection with his displaying a banner reading "Bong Hits 4 Jesus" in front of a Juneau high school. ](/news/2007/03/19/the-supreme-court-of-the-united-states-hears-morse-v-frederick-in-which-an-alaskan-high-school-student-argues-free-speech-rights-in.md)
 A high school senior&#8217;s 14-foot banner proclaiming &#8220;Bong Hits 4 Jesus&#8221; gave the Supreme Court a provocative prop for a lively argument Monday about the extent of schools&#8217; control over student speech.
@@ -37,7 +37,7 @@ _Context: Airbus 380, Chicago, Lufthansa, New York_
 _Context: Kabul, convoy, suicide bomber_
 
 ### [ Six-party talks resume to discuss progress in implementing last month's agreement, with North Korea and the United States having resolved an issue about North Korean funds frozen in a Macau bank. ](/news/2007/03/19/six-party-talks-resume-to-discuss-progress-in-implementing-last-month-s-agreement-with-north-korea-and-the-united-states-having-resolved-a.md)
-_Context: Macau, North Korea, United States, six-party talks_
+_Context: Macau, North Korea, U.S., six-party talks_
 
 ## [Previous Day...](/news/2007/03/18/index.md)
 

@@ -1,10 +1,10 @@
 ## [2011-06-18](/news/2011/06/18/index.md)
 
 ### [Burma accuses the Kachin Independence Army of starting deadly fighting near the Chinese border. ](/news/2011/06/18/burma-accuses-the-kachin-independence-army-of-starting-deadly-fighting-near-the-chinese-border.md)
-_Context: Burma, Kachin Independence Army, People's Republic of China_
+_Context: Burma, Chinese, Kachin Independence Army_
 
 ### [South Korean troops mistakenly fire on a Chinese passenger plane as it flies near the disputed Northern Limit Line on the border with North Korea; there are no casualties. ](/news/2011/06/18/south-korean-troops-mistakenly-fire-on-a-chinese-passenger-plane-as-it-flies-near-the-disputed-northern-limit-line-on-the-border-with-north.md)
-_Context: North Korea, Northern Limit Line, People's Republic of China, South Korea_
+_Context: Chinese, North Korea, Northern Limit Line, South Korea_
 
 ### [Syrian troops raid the town of Bdama near the Turkish border in an attempt to crush a nationwide uprising. ](/news/2011/06/18/syrian-troops-raid-the-town-of-bdama-near-the-turkish-border-in-an-attempt-to-crush-a-nationwide-uprising.md)
 Syrian troops sweep into the town of Bdama near the Turkish border, reports say, as a campaign to crush protests continues.

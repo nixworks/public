@@ -19,7 +19,7 @@ _Context: Japan, Jiji Press, nuclear reactor_
 _Context: Afghanistan_
 
 ### [7 people are killed during heavy floods in Sichuan Province in the People's Republic of China. ](/news/2011/07/6/7-people-are-killed-during-heavy-floods-in-sichuan-province-in-the-people-s-republic-of-china.md)
-_Context: People's Republic of China, Sichuan Province, heavy flood_
+_Context: Chinese, Sichuan Province, heavy flood_
 
 ### [A Bell UH-1Y Venom helicopter crashes on a training flight at Marine Corps Base Camp Pendleton near the US city of San Diego with one person dead and five people injured. ](/news/2011/07/6/a-bell-uh-1y-venom-helicopter-crashes-on-a-training-flight-at-marine-corps-base-camp-pendleton-near-the-us-city-of-san-diego-with-one-person.md)
 _Context: Bell UH-1Y Venom, Marine Corps Base Camp Pendleton, San Diego, California, helicopter_

@@ -4,7 +4,7 @@
 _Context: Interstellar Boundary Explorer, NASA, Solar System, heliosphere_
 
 ### [ Nine Chinese oil workers and two Sudanese drivers are kidnapped in the province of Kordofan in Sudan. ](/news/2008/10/18/nine-chinese-oil-workers-and-two-sudanese-drivers-are-kidnapped-in-the-province-of-kordofan-in-sudan.md)
-_Context: Kidnap, Kordofan, People's Republic of China, Sudan_
+_Context: Chinese, Kidnap, Kordofan, Sudan_
 
 ### [ United States President George W. Bush meets with French President Nicolas Sarkozy and European Commission President Jos Manuel Barroso to discuss a proposal for a summit of world leaders to discuss the current economic crisis. ](/news/2008/10/18/united-states-president-george-w-bush-meets-with-french-president-nicolas-sarkozy-and-european-commission-president-jose-manuel-barroso-to.md)
 President Bush and European leaders agreed to take steps toward a series of international meetings to address the economic crisis, the White House said.

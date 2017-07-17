@@ -7,13 +7,13 @@ Israeli aircraft have carried out a strike near the Syrian coastal city of Latak
 The leader of the Pakistani Taliban, Hakimullah Mehsud, has been killed in a drone strike, a high-ranking Taliban official tells the BBC.
 
 ### [2013 Tiananmen Square attack:China's top security official blames the East Turkestan Islamic Movement for a suicide attack that killed five people at the Tiananmen Gate in Beijing on Monday. ](/news/2013/11/1/2013-tiananmen-square-attack-pchina-s-top-security-official-blames-the-east-turkestan-islamic-movement-for-a-suicide-attack-that-killed-five.md)
-_Context: Beijing, East Turkestan Islamic Movement, People's Republic of China, Tiananmen Gate, last October_
+_Context: Beijing, Chinese, East Turkestan Islamic Movement, Tiananmen Gate, last October_
 
 ### [Fannie Mae files a lawsuit for $800 million against nine different banks, including Citigroup and Bank of America, for manipulating the Libor benchmark interest rate. ](/news/2013/11/1/fannie-mae-files-a-lawsuit-for-800-million-against-nine-different-banks-including-citigroup-and-bank-of-america-for-manipulating-the-libo.md)
 _Context: Bank of America, Citigroup, Fannie Mae, LIBOR scandal, Libor, United States dollars_
 
 ### [Flash floods and heavy rains sweep across central Texas, United States, killing 2 people. ](/news/2013/11/1/flash-floods-and-heavy-rains-sweep-across-central-texas-united-states-killing-2-people.md)
-_Context: Flash flooding, Texas, United States_
+_Context: Flash flooding, Texas, U.S._
 
 ### [2013 Los Angeles International Airport shooting: A gunman opens fire at Los Angeles International Airport, killing a US Transportation Security Administration employee, and wounding several other people. It prompts a terminal evacuation. ](/news/2013/11/1/2013-los-angeles-international-airport-shooting-a-gunman-opens-fire-at-los-angeles-international-airport-killing-a-us-transportation-secur.md)
 A gunman with an assault rifle opened fire in a crowded terminal at Los Angeles International Airport Friday, killing a TSA employee and injuring at least six before being wounded and taken into custody.

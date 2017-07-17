@@ -10,13 +10,13 @@ Nearly all of anestimated 1,150 prisoners, including some 400 Taliban inmates,ha
 _Context: Movement for Democratic Change, Tendai Biti, Zimbabwe_
 
 ### [ Kim Jong-hoon, the South Korean Minister for Trade, heads to the United States to push for additional safeguards against mad cow disease in talks with Susan Schwab, the United States Trade Representative as protests continue in South Korea over the decision to resume importing beef from the United States. ](/news/2008/06/13/kim-jong-hoon-the-south-korean-minister-for-trade-heads-to-the-united-states-to-push-for-additional-safeguards-against-mad-cow-disease-in.md)
-_Context: South Korea, Susan Schwab, United States, United States Trade Representative, beef, mad cow disease_
+_Context: South Korea, Susan Schwab, U.S., United States Trade Representative, beef, mad cow disease_
 
 ### [ June 2008 Midwest United States floods: The Governor of Iowa Chet Culver declares that 83 of the 99 counties in Iowa are disaster areas as flooding leads to evacuations in Cedar Rapids and Des Moines. ](/news/2008/06/13/june-2008-midwest-united-states-floods-p-the-governor-of-iowa-chet-culver-declares-that-83-of-the-99-counties-in-iowa-are-disaster-areas-as.md)
 _Context: Cedar Rapids, Chet Culver, Des Moines, Iowa, Governor of Iowa, Iowa, June 2008 Midwest United States floods, federal disaster declaration_
 
 ### [ Nouri al-Maliki, the Prime Minister of Iraq, states talks with the United States on a long-term security agreement have reached "a dead end". ](/news/2008/06/13/nouri-al-maliki-the-prime-minister-of-iraq-states-talks-with-the-united-states-on-a-long-term-security-agreement-have-reached-a-dead-end.md)
-_Context: Iraq Prime Minister, Nouri al-Maliki, United States_
+_Context: Iraq Prime Minister, Nouri al-Maliki, U.S._
 
 ### [ A hydrogen sulfide leak at a fertiliser plant in Kunming, capital of Yunnan Province in China, kills six people and injures 28. ](/news/2008/06/13/a-hydrogen-sulfide-leak-at-a-fertiliser-plant-in-kunming-capital-of-yunnan-province-in-china-kills-six-people-and-injures-28.md)
 A poisonous gas leak at a fertiliser plant in south-west China has killed six people and left 28 others ill, state media reported.
@@ -31,7 +31,7 @@ _Context: Group of Eight, Japan, Osaka, finance minister_
 _Context: Islamabad, Pakistan, Pervez Musharraf, President_
 
 ### [ The People's Republic of China and Taiwan agree to regular civil aviation flights across the Taiwan Strait for the first time since 1949 with flights limited to weekend charters. ](/news/2008/06/13/the-people-s-republic-of-china-and-taiwan-agree-to-regular-civil-aviation-flights-across-the-taiwan-strait-for-the-first-time-since-1949-wi.md)
-_Context: 1949, People's Republic of China, Taiwan, Taiwan Strait, civil aviation_
+_Context: 1949, Chinese, Taiwan, Taiwan Strait, civil aviation_
 
 ### [ Irish voters reject the Treaty of Lisbon in a referendum, thus putting into question the reform programme of the European Union. ](/news/2008/06/13/irish-voters-reject-the-treaty-of-lisbon-in-a-referendum-thus-putting-into-question-the-reform-programme-of-the-european-union.md)
 Irish voters have rejected the Lisbon Treaty by 110,000 votes - a margin of 53.4% to 46.6%.

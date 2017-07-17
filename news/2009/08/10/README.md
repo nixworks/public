@@ -10,7 +10,7 @@ An &ldquo;ethics responsibly&rdquo; clause for the media and a strong criticism 
 _Context: Joseph Msika, President of Zimbabwe, Robert Mugabe, Zimbabwe_
 
 ### [ During a tour of Africa, Hillary Clinton, the United States Secretary of State, attacks a Congolese university student for asking about the opinion of her husband Bill Clinton. ](/news/2009/08/10/during-a-tour-of-africa-hillary-clinton-the-united-states-secretary-of-state-attacks-a-congolese-university-student-for-asking-about-the.md)
-_Context: Africa, Bill Clinton, Democratic Republic of the Congo, Hillary Clinton, United States, United States Secretary of State_
+_Context: Africa, Bill Clinton, Democratic Republic of the Congo, Hillary Clinton, U.S., United States Secretary of State_
 
 ### [ Ecuadorean President Rafael Correa is sworn in for a second term vowing to deepen his socialist "revolution". ](/news/2009/08/10/ecuadorean-president-rafael-correa-is-sworn-in-for-a-second-term-vowing-to-deepen-his-socialist-arevolutiona.md)
 Ecuadorean President Rafael Correa was sworn in for a second term on Monday vowing to deepen his socialist &#147;revolution&#148;. Announcing his vision for a new term, Correa said he sought to fight inequality and invest in projects to help the poor, improve education and improve the lives of long-neglected Andean indigenous groups.
@@ -46,7 +46,7 @@ _Context: Baghdad, Iraq, Mosul_
 South America&#039;s twelve nations on Saturday pledged to respect regional vaccine price ceilings to prevent businesses from exploiting fear of the A/H1N1 flu pandemic, Ecuador&#039;s Health Minister Caroline Chang said.
 
 ### [ Two Namibians and a Chinese who are suspected in a corruption investigation involving a firm linked to the son of China's President Hu Jintao appear in a Windhoek court asking to be released on bail. ](/news/2009/08/10/two-namibians-and-a-chinese-who-are-suspected-in-a-corruption-investigation-involving-a-firm-linked-to-the-son-of-china-s-president-hu-jint.md)
-_Context: Chinese President, Hu Jintao, Namibia, People's Republic of China, Windhoek_
+_Context: Chinese, Chinese President, Hu Jintao, Namibia, Windhoek_
 
 ## [Previous Day...](/news/2009/08/9/index.md)
 

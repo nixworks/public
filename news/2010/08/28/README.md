@@ -10,7 +10,7 @@ Nato-led forces repel attacks by Taliban insurgents on two coalition bases in ea
 Government extends foreign land leases and allows independent agricultural businesses.
 
 ### [China and India state that the military ties between the two countries will not be affected despite the recent visa dispute.[http://www.hindustantimes.com/Visa-row-won-t-affect-Sino-India-ties/Article1-593681.aspx][http://in.reuters.com/article/idINIndia-51126920100828]](/news/2010/08/28/china-and-india-state-that-the-military-ties-between-the-two-countries-will-not-be-affected-despite-the-recent-visa-dispute-http-www-hind.md)
-_Context: India, People's Republic of China_
+_Context: Chinese, India_
 
 ### [The International Criminal Court reports Kenya to the United Nations Security Council over a visit by Sudanese President Omar al-Bashir to the country. ](/news/2010/08/28/the-international-criminal-court-reports-kenya-to-the-united-nations-security-council-over-a-visit-by-sudanese-president-omar-al-bashir-to-t.md)
 _Context: International Criminal Court, Kenya, Omar al-Bashir, Sudan, Sudanese President, United Nations Security Council_

@@ -46,7 +46,7 @@ Up to a third of U.S. adults could have diabetes by 2050 if Americans continue t
 In a final communiqué at the end of a two-week meeting at the Vatican on the plight of Christians in the Middle East, the bishops condemned terrorism and anti-Semitism.
 
 ### [Rival demonstrations take place in China and Japan over the disputed Senkaku Islands. ](/news/2010/10/23/rival-demonstrations-take-place-in-china-and-japan-over-the-disputed-senkaku-islands.md)
-_Context: Japan, People's Republic of China, Senkaku Islands_
+_Context: Chinese, Japan, Senkaku Islands_
 
 ### [German economy minister Rainer Bruederle criticizes the United States' monetary easing as indirectly manipulation of the USD exchange rates. ](/news/2010/10/23/german-economy-minister-rainer-bruederle-criticizes-the-united-states-monetary-easing-as-indirectly-manipulation-of-the-usd-exchange-rates.md)
 US policy of boosting liquidity criticised at G20

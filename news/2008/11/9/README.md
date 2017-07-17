@@ -16,7 +16,7 @@ At least 20 people are killed after the failure of a fire-extinguishing system.
 _Context: 2002 Bali bombings, Amrozi bin Nurhasyim, Huda bin Abdul Haq, Imam Samudra, Indonesia, Kambangan Island, execution by firing squad_
 
 ### [ An anti-police riot in Shenzhen, China involving 400 people, takes place after a police official threw a walkie-talkie at a motorcyclist causing his death. ](/news/2008/11/9/an-anti-police-riot-in-shenzhen-china-involving-400-people-takes-place-after-a-police-official-threw-a-walkie-talkie-at-a-motorcyclist-ca.md)
-_Context: People's Republic of China, Shenzhen, anti-police riot, walkie-talkie_
+_Context: Chinese, Shenzhen, anti-police riot, walkie-talkie_
 
 ## [Previous Day...](/news/2008/11/8/index.md)
 

@@ -25,7 +25,7 @@ Thousands of others were stranded on rooftops, surrounded by water left by the t
 _Context: Colorado, Mary Fallin, Oklahoma!, governor, state of emergency, wildfire_
 
 ### [A bus plunges into a ravine in the Xinjiang region in western China killing at least 16 people and with 24 people injured. ](/news/2011/03/11/a-bus-plunges-into-a-ravine-in-the-xinjiang-region-in-western-china-killing-at-least-16-people-and-with-24-people-injured.md)
-_Context: People's Republic of China, Xinjiang, ravine_
+_Context: Chinese, Xinjiang, ravine_
 
 ### [Mount Karangetang erupts in Sulawesi, Indonesia, forcing local evacuations. ](/news/2011/03/11/mount-karangetang-erupts-in-sulawesi-indonesia-forcing-local-evacuations.md)
 One of Indonesia’s most active volcanoes has erupted, sending lava and searing gas clouds tumbling down its slopes. Volcanology official Agus Budianto said on Friday that authorities were still trying
@@ -34,7 +34,7 @@ One of Indonesia’s most active volcanoes has erupted, sending lava and searing
 _Context: Twitter, United States magistrate judge, WikiLeaks, prosecutor_
 
 ### [Two ex-Blackwater consultants are found guilty in the United States of the involuntary manslaughter of a civilian in the Afghan capital Kabul. ](/news/2011/03/11/two-ex-blackwater-consultants-are-found-guilty-in-the-united-states-of-the-involuntary-manslaughter-of-a-civilian-in-the-afghan-capital-kabu.md)
-_Context: Afghanistan, Blackwater Worldwide, Kabul, United States, manslaughter by gross negligence_
+_Context: Afghanistan, Blackwater Worldwide, Kabul, U.S., manslaughter by gross negligence_
 
 ### [The UNASUR Constitutive Treaty enters into force, making the Union of South American Nations an international legal personality. ](/news/2011/03/11/the-unasur-constitutive-treaty-enters-into-force-making-the-union-of-south-american-nations-an-international-legal-personality.md)
 _Context: UNASUR Constitutive Treaty, Union of South American Nations, into force, legal personality_

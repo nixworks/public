@@ -1,10 +1,10 @@
 ## [2009-03-10](/news/2009/03/10/index.md)
 
 ### [ The United States Senate passes a US$410-billion omnibus spending bill. ](/news/2009/03/10/the-united-states-senate-passes-a-us-410-billion-omnibus-spending-bill.md)
-_Context: US$, United States, United States Senate, omnibus spending bill_
+_Context: U.S., US$, United States Senate, omnibus spending bill_
 
 ### [ At least ten people are killed during a shooting spree in Geneva County, Alabama, United States. ](/news/2009/03/10/at-least-ten-people-are-killed-during-a-shooting-spree-in-geneva-county-alabama-united-states.md)
-_Context: Alabama, Geneva County, United States, shooting spree_
+_Context: Alabama, Geneva County, U.S., shooting spree_
 
 ### [ The Eurovision Song Contest disallows Georgian pop group Stephane & 3G's "We Don't Wanna Put In." ](/news/2009/03/10/the-eurovision-song-contest-disallows-georgian-pop-group-stephane-3g-s-we-don-t-wanna-put-in.md)
 _Context: Eurovision Song Contest, Georgia, Stephane & 3G, We Don't Wanna Put In, pop_
@@ -16,10 +16,10 @@ _Context: Baghdad, Iraq, suicide bombing_
 Two man have been arrested amid widespread condemnation of the murder of a policeman in Northern Ireland.
 
 ### [ Tibet's Central Administration claims that China's accusations of the Dalai Lama's "genocide" are "fabricated." ](/news/2009/03/10/tibet-s-central-administration-claims-that-china-s-accusations-of-the-dalai-lama-s-genocide-are-fabricated.md)
-_Context: Central Tibetan Administration, Dalai Lama, People's Republic of China, Tibet Autonomous Region, genocide_
+_Context: Central Tibetan Administration, Chinese, Dalai Lama, Tibet Autonomous Region, genocide_
 
 ### [ China disputes that its ships illegally harassed USNS ''Impeccable'' in the South China Sea. ](/news/2009/03/10/china-disputes-that-its-ships-illegally-harassed-usns-impeccable-in-the-south-china-sea.md)
-_Context: ''Impeccable'', People's Republic of China, South China Sea, USNS, ship_
+_Context: ''Impeccable'', Chinese, South China Sea, USNS, ship_
 
 ### [ North Korea readmits South Koreans into the Kaesong Industrial Region. ](/news/2009/03/10/north-korea-readmits-south-koreans-into-the-kaesong-industrial-region.md)
 North Korea on Tuesday allowed South Koreans back into a lucrative factory just across the border, a day after the reclusive state accused its neighbor and the United States of threatening war.

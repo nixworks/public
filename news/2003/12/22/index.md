@@ -4,7 +4,7 @@
 _Context: December 19, DirecTV, Federal Communications Commission, General Motors, Hughes Electronics, News Corporation_
 
 ### [ The People's Republic of China plans to peg its currency, the yuan, to a basket of ten currencies instead of only the U.S. dollar, according to its state press. [http://money.inq7.net/breakingnews/view_breakingnews.php?yyyy=2003&mon=12&dd=22&file=9]](/news/2003/12/22/the-people-s-republic-of-china-plans-to-peg-its-currency-the-yuan-to-a-basket-of-ten-currencies-instead-of-only-the-u-s-dollar-accordin.md)
-_Context: People's Republic of China, U.S. dollar, currency, yuan_
+_Context: Chinese, U.S. dollar, currency, yuan_
 
 ### [ Parmalat is likely to declare "controlled administration" as Italian Prime Minister Silvio Berlusconi said the government would intervene and "above all save the industrial part of the company and jobs". [http://news.bbc.co.uk/1/hi/business/3339459.stm]](/news/2003/12/22/parmalat-is-likely-to-declare-controlled-administration-as-italian-prime-minister-silvio-berlusconi-said-the-government-would-intervene-a.md)
 _Context: Italian Prime Minister, Parmalat, Politics of Italy, Silvio Berlusconi_

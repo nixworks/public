@@ -46,7 +46,7 @@ _Context: Argentina, Australia, Puyehue-Cordon Caulle, southern hemisphere_
 _Context: Indonesia, Tahuna_
 
 ### [Vietnam holds a live fire drill in the South China Sea amid a dispute with China. ](/news/2011/06/13/vietnam-holds-a-live-fire-drill-in-the-south-china-sea-amid-a-dispute-with-china.md)
-_Context: People's Republic of China, South China Sea, Spratly Islands dispute, Vietnam_
+_Context: Chinese, South China Sea, Spratly Islands dispute, Vietnam_
 
 ### [The South African Development Community urges opposing parties in Zimbabwe to settle differences to enable elections to be held. ](/news/2011/06/13/the-south-african-development-community-urges-opposing-parties-in-zimbabwe-to-settle-differences-to-enable-elections-to-be-held.md)
 _Context: South African Development Community, Zimbabwe_

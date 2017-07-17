@@ -1,7 +1,7 @@
 ## [2009-03-18](/news/2009/03/18/index.md)
 
 ### [ China's Ministry of Commerce rejects Coca-Cola's bid to acquire the Huiyuan Juice Group. ](/news/2009/03/18/china-s-ministry-of-commerce-rejects-coca-cola-s-bid-to-acquire-the-huiyuan-juice-group.md)
-_Context: Coca-Cola, Huiyuan Juice Group, Ministry of Commerce, People's Republic of China_
+_Context: Chinese, Coca-Cola, Huiyuan Juice Group, Ministry of Commerce_
 
 ### [ Josef Fritzl of Austria changes his plea to guilty on all charges.  ](/news/2009/03/18/josef-fritzl-of-austria-changes-his-plea-to-guilty-on-all-charges.md)
 _Context: Austria, Josef Fritzl_
@@ -22,7 +22,7 @@ _Context: Andry Rajoelina, Madagascar, President, constitutional court, politica
 _Context: Bill Richardson, Governor, House, New Mexico, bill into law, capital punishment_
 
 ### [ Federal Reserve System Chairman Ben Bernanke caps United States Treasury Department yields. ](/news/2009/03/18/federal-reserve-system-chairman-ben-bernanke-caps-united-states-treasury-department-yields.md)
-_Context: Ben Bernanke, Chairman of the Federal Reserve, U.S. Federal Reserve, United States, United States Department of the Treasury, caps, yields_
+_Context: Ben Bernanke, Chairman of the Federal Reserve, U.S., U.S. Federal Reserve, United States Department of the Treasury, caps, yields_
 
 ### [ Somali pirates hijack an Iranian fishing vessel in the Gulf of Aden.  ](/news/2009/03/18/somali-pirates-hijack-an-iranian-fishing-vessel-in-the-gulf-of-aden.md)
 _Context: Gulf of Aden, Iran, Somali pirates, Somalia, fishing boat_

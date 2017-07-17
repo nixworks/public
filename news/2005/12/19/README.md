@@ -13,7 +13,7 @@ _Context: December 2005_
 _Context: GAM, Indonesian government_
 
 ### [ Conflict in Iraq: An insurgent group broadcasts a video over the Internet of what they claim is the death of American Ronald Allen Schulz. ](/news/2005/12/19/conflict-in-iraq-an-insurgent-group-broadcasts-a-video-over-the-internet-of-what-they-claim-is-the-death-of-american-ronald-allen-schulz.md)
-_Context: Conflict in Iraq, Iraqi insurgency, Ronald Allen Schulz, United States_
+_Context: Conflict in Iraq, Iraqi insurgency, Ronald Allen Schulz, U.S._
 
 ### [ Nazi Officer Ladislav Niznansky is acquitted of charges relating to three massacres of Slovaks during World War II. ](/news/2005/12/19/nazi-officer-ladislav-niznansky-is-acquitted-of-charges-relating-to-three-massacres-of-slovaks-during-world-war-ii.md)
 _Context: Ladislav Niznansky, Nazism, Slovakia's, World War II, acquitted_

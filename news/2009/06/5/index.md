@@ -22,7 +22,7 @@ The number of people on the Live Register hit 400,000 for the first time last mo
 The country&#39;s two most senior Catholic clergymen have met meeting Pope Benedict in Rome this evening.
 
 ### [ A bus fire kills at least 24 people in Chengdu, Sichuan, China. ](/news/2009/06/5/a-bus-fire-kills-at-least-24-people-in-chengdu-sichuan-china.md)
-_Context: Chengdu, People's Republic of China, Sichuan, bus fire_
+_Context: Chengdu, Chinese, Sichuan, bus fire_
 
 ### [ Brazil's Air Force confirms that no debris has been recovered from Air France Flight 447. ](/news/2009/06/5/brazil-s-air-force-confirms-that-no-debris-has-been-recovered-from-air-france-flight-447.md)
 _Context: Air Force, Air France, Brazil, crash of Air France Flight 447_
@@ -37,13 +37,13 @@ _Context: Baghdad, Iraq_
 _Context: New Caledonia, Philippe Gomes, President, elected_
 
 ### [ A landslide buries approximately 59 people and kills at least two others in Chongqing, China. ](/news/2009/06/5/a-landslide-buries-approximately-59-people-and-kills-at-least-two-others-in-chongqing-china.md)
-_Context: Chongqing, People's Republic of China, landslide_
+_Context: Chinese, Chongqing, landslide_
 
 ### [ A suicide attack kills at least 38 people at a mosque in Upper Dir District, Pakistan. ](/news/2009/06/5/a-suicide-attack-kills-at-least-38-people-at-a-mosque-in-upper-dir-district-pakistan.md)
 _Context: Pakistan, Upper Dir District, War in North-West Pakistan, mosque, suicide bombing_
 
 ### [ Former United States State Department employee Kendall Myers and his wife, Gwendolyn, are arrested and charged with spying for Cuba's government. ](/news/2009/06/5/former-united-states-state-department-employee-kendall-myers-and-his-wife-gwendolyn-are-arrested-and-charged-with-spying-for-cuba-s-gover.md)
-_Context: Cuba, Kendall Myers, State Department's, United States, espionage, government_
+_Context: Cuba, Kendall Myers, State Department's, U.S., espionage, government_
 
 ### [ David Bain, after an extensive three-month retrial, is found not guilty of murdering five family members in Dunedin, New Zealand on 20 June 1994. ](/news/2009/06/5/david-bain-after-an-extensive-three-month-retrial-is-found-not-guilty-of-murdering-five-family-members-in-dunedin-new-zealand-on-20-june.md)
 _Context: David Bain, Dunedin, New Zealand, murdering, retrial_

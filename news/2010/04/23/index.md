@@ -61,7 +61,7 @@ _Context: China, MOHRSS, Ministry of Human Resources and Social Security_
 _Context: Arizona, Jan Brewer, civil rights_
 
 ### [The 2009 ascent of Kangchenjunga by Korean climber Oh Eun-sun, aiming to be the first woman to climb the 14 highest peaks on Earth, is declared "disputed" by Himalayan climbing records arbiter, Elizabeth Hawle. ](/news/2010/04/23/the-2009-ascent-of-kangchenjunga-by-korean-climber-oh-eun-sun-aiming-to-be-the-first-woman-to-climb-the-14-highest-peaks-on-earth-is-decla.md)
-_Context: Earth, Elizabeth Hawle, Himalayan, Kangchenjunga, Korea, Oh Eun-Sun_
+_Context: Earth, Elizabeth Hawle, Himalayas, Kangchenjunga, Korea, Oh Eun-Sun_
 
 ## [Previous Day...](/news/2010/04/22/index.md)
 

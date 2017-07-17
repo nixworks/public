@@ -1,7 +1,7 @@
 ## [2012-07-24](/news/2012/07/24/index.md)
 
 ### [Hong Kong and China's Guangdong Province is hit by Category 4 Typhoon Vicente, resulting in scores of people injured, cancellation of flights and closure of businesses. ](/news/2012/07/24/hong-kong-and-china-s-guangdong-province-is-hit-by-category-4-typhoon-vicente-resulting-in-scores-of-people-injured-cancellation-of-flight.md)
-_Context: Guangdong province, Hong Kong, People's Republic of China, Typhoon Vicente_
+_Context: Chinese, Guangdong province, Hong Kong, Typhoon Vicente_
 
 ### [Four barrels containing 248 human fetuses are found in a forest in Russia's Sverdlovsk region. ](/news/2012/07/24/four-barrels-containing-248-human-fetuses-are-found-in-a-forest-in-russia-s-sverdlovsk-region.md)
 _Context: Russia, Sverdlovsk region_

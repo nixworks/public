@@ -13,7 +13,7 @@ _Context: Internet Corporation for Assigned Names and Numbers, Latin_
 _Context: Ares I-X, Atlantic Ocean, NASA, parachute, splashdown_
 
 ### [ A U.S. judge orders a trial for two doctors and a lawyer accused of providing American sex symbol Anna Nicole Smith with drugs. ](/news/2009/10/30/a-u-s-judge-orders-a-trial-for-two-doctors-and-a-lawyer-accused-of-providing-american-sex-symbol-anna-nicole-smith-with-drugs.md)
-_Context: Anna Nicole Smith, United States, sex symbol_
+_Context: Anna Nicole Smith, U.S., sex symbol_
 
 ### [ African Union leaders agree to establish a hybrid court to end the Darfur conflict in western Sudan. ](/news/2009/10/30/african-union-leaders-agree-to-establish-a-hybrid-court-to-end-the-darfur-conflict-in-western-sudan.md)
 _Context: African Union, Sudan, conflict_
@@ -34,7 +34,7 @@ _Context: North Korea, South Korea, South Korea's intelligence agency, wave of c
 _Context: India, Jaipur, Rajasthan, large fire, oil depot_
 
 ### [ Taiwan's President Ma Ying-jeou calls on China to remove missiles targeting the island. ](/news/2009/10/30/taiwan-s-president-ma-ying-jeou-calls-on-china-to-remove-missiles-targeting-the-island.md)
-_Context: Ma Ying-jeou, People's Republic of China, President of Taiwan, Taiwan_
+_Context: Chinese, Ma Ying-jeou, President of Taiwan, Taiwan_
 
 ### [ Burmese authorities arrest 50 people &ndash; including journalists, students and political activists, in a security crackdown, according to a Thailand based human rights group. ](/news/2009/10/30/burmese-authorities-arrest-50-people-ndash-including-journalists-students-and-political-activists-in-a-security-crackdown-according-to.md)
 Myanmar authorities have arrested up to 50 people including journalists, political activists and students in a security crackdown this month in its biggest city, a Thailand-based human rights group said on Friday.

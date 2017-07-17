@@ -22,7 +22,7 @@ _Context: CanJet, Flight 918, aircraft piracy, hostage_
 A UN conference on racism is due to open in Geneva today amid controversy over a walkout by Western countries and fears that Iran&#039;s president could launch another verbal onslaught on Israel.
 
 ### [ China's government discovers 3850|km|mi more  of the Great Wall of China. ](/news/2009/04/20/china-s-government-discovers-3850-km-mi-more-of-the-great-wall-of-china.md)
-_Context: Great Wall of China, People's Republic of China, government_
+_Context: Chinese, Great Wall of China, government_
 
 ## [Previous Day...](/news/2009/04/19/index.md)
 

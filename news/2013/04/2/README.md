@@ -16,7 +16,7 @@ _Context: Michael Jackson, wrongful death_
 Official European Union figures published Tuesday showed unemployment in the eurozone hit a record high of 12.0% in February. 
 
 ### [United States Government owned mortgage firms Fannie Mae and Freddie Mac announce record profits during 2012. ](/news/2013/04/2/united-states-government-owned-mortgage-firms-fannie-mae-and-freddie-mac-announce-record-profits-during-2012.md)
-_Context: Fannie Mae, Freddie Mac, United States, United States government, mortgage_
+_Context: Fannie Mae, Freddie Mac, U.S., United States government, mortgage_
 
 ### [Thirteen children are killed in a fire at a mosque in Yangon, Burma. ](/news/2013/04/2/thirteen-children-are-killed-in-a-fire-at-a-mosque-in-yangon-burma.md)
 The police in Myanmar said Tuesday that 13 children died when an electrical fire broke out at a mosque in Yangon, the country’s largest city.
@@ -46,7 +46,7 @@ The Palestinian Authority accused Israel of deliberately delaying the treatment 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Tonya S. Bundick is charged in connection with seventy arsons in Virginia, United States. ](/news/2013/04/2/tonya-s-bundick-is-charged-in-connection-with-seventy-arsons-in-virginia-united-states.md)
-_Context: United States, Virginia, arson_
+_Context: U.S., Virginia, arson_
 
 ### [The Palestinian Islamic organization Hamas re-elects Khaled Meshaal as its leader. The group also passes a new law ordering gender segregation in Gaza's schools that will go into effect in September. ](/news/2013/04/2/the-palestinian-islamic-organization-hamas-re-elects-khaled-meshaal-as-its-leader-the-group-also-passes-a-new-law-ordering-gender-segregati.md)
 Hamas passes new law ordering gender segregation in schools that will go into effect in September.

@@ -31,7 +31,7 @@ _Context: (WikiNews), Downing Street memo, John Kerry_
 _Context: European constitution, Latvia_
 
 ### [ In China, authorities have arrested Lu Jianhua and Chen Hui of the Chinese Academy of Social Sciences for espionage ](/news/2005/06/2/in-china-authorities-have-arrested-lu-jianhua-and-chen-hui-of-the-chinese-academy-of-social-sciences-for-espionage.md)
-_Context: Chen Hui, Chinese Academy of Social Sciences, Lu Jianhua, People's Republic of China, espionage_
+_Context: Chen Hui, Chinese, Chinese Academy of Social Sciences, Lu Jianhua, espionage_
 
 ### [ In the Philippines, male students organize a naked protest in Manila to demonstrate against too little funding in education ](/news/2005/06/2/in-the-philippines-male-students-organize-a-naked-protest-in-manila-to-demonstrate-against-too-little-funding-in-education.md)
 _Context: Manila, Philippines, education_

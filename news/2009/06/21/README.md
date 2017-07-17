@@ -28,7 +28,7 @@ Iranian opposition leader Mir-Hossein Mousavi urged his supporters to continue t
 At least 72 people are now known to have died in a bombing in the Iraqi city of Kirkuk yesterday.
 
 ### [ At least sixteen people are killed in a factory blast in Fengyang county, Anhui, China. ](/news/2009/06/21/at-least-sixteen-people-are-killed-in-a-factory-blast-in-fengyang-county-anhui-china.md)
-_Context: Anhui, People's Republic of China_
+_Context: Anhui, Chinese_
 
 ### [ An open top sightseeing bus with 40 tourists on board is stoned in Belfast. ](/news/2009/06/21/an-open-top-sightseeing-bus-with-40-tourists-on-board-is-stoned-in-belfast.md)
 _Context: Belfast_
@@ -37,7 +37,7 @@ _Context: Belfast_
 _Context: Italian, Mafia, Salvatore Miceli, Venezuela_
 
 ### [ United States President Barack Obama tells a television news crew his country is "fully prepared" for a possible missile test by North Korea over the Pacific Ocean. ](/news/2009/06/21/united-states-president-barack-obama-tells-a-television-news-crew-his-country-is-fully-prepared-for-a-possible-missile-test-by-north-kore.md)
-_Context: Barack Obama, North Korea, Pacific, President of the United States, United States_
+_Context: Barack Obama, North Korea, Pacific, President of the United States, U.S._
 
 ## [Previous Day...](/news/2009/06/20/index.md)
 

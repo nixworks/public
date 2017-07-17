@@ -4,7 +4,7 @@
 A Latvian referendum on whether to give people the right to dismiss parliament outside regular elections failed to win enough backing, but an opposition party said a high turnout showed the legislature should go anyway.
 
 ### [ Two climbers from an international expedition perish after ice fall on K2 mountain in the Himalayas, and six members of the team have gone missing. ](/news/2008/08/2/two-climbers-from-an-international-expedition-perish-after-ice-fall-on-k2-mountain-in-the-himalayas-and-six-members-of-the-team-have-gone.md)
-_Context: Himalayan, K2 mountain, mountaineering_
+_Context: Himalayas, K2 mountain, mountaineering_
 
 ### [ The International Olympic Committee strips the United States 2000 Summer Olympics 4400 metre relay team of their gold medal after team member Antonio Pettigrew admits to doping. ](/news/2008/08/2/the-international-olympic-committee-strips-the-united-states-2000-summer-olympics-4x400-metre-relay-team-of-their-gold-medal-after-team-mem.md)
 The U.S. 4x400m relay team that won gold at the Sydney Games in 2000 have been stripped of their medals after Antonio Pettigrew admitted to doping, the International Olympic Committee (IOC) said on Saturday.

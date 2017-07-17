@@ -10,7 +10,7 @@ _Context: Denmark, Stockholm, Sweden, counterpart, postal service_
 _Context: Finland, Ilkka Kanerva, stripper, text messages_
 
 ### [ India warns the Dalai Lama not to anger the People's Republic of China. ](/news/2008/04/1/india-warns-the-dalai-lama-not-to-anger-the-people-s-republic-of-china.md)
-_Context: Dalai Lama, People's Republic of China_
+_Context: Chinese, Dalai Lama_
 
 ### [ Delays in releasing the official results of parliamentary and presidential elections in Zimbabwe are met with widespread speculation and concerns over possible vote rigging. ](/news/2008/04/1/delays-in-releasing-the-official-results-of-parliamentary-and-presidential-elections-in-zimbabwe-are-met-with-widespread-speculation-and-co.md)
 _Context: Zimbabwe, electoral fraud, parliamentary, run-off presidential election_

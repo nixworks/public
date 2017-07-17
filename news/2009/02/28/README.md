@@ -7,10 +7,10 @@ _Context: Carpatair, Chisinau, Flight 128, Moldova, Romania, Saab 2000, Timisoar
 _Context: Bengalis, Burma, Rohingya, government_
 
 ### [ Chinese Premier Wen Jiabao holds the first online discussion with Internet users before the National People's Congress's annual plenary session. ](/news/2009/02/28/chinese-premier-wen-jiabao-holds-the-first-online-discussion-with-internet-users-before-the-national-people-s-congress-s-annual-plenary-ses.md)
-_Context: Internet, National People's Congress, People's Republic of China, Premier, Wen Jiabao, parliament_
+_Context: Chinese, Internet, National People's Congress, Premier, Wen Jiabao, parliament_
 
 ### [ The Standing Committee of China's NPC approves the Food Safety Law, which will enhance supervision and strengthen quality standards. ](/news/2009/02/28/the-standing-committee-of-china-s-npc-approves-the-food-safety-law-which-will-enhance-supervision-and-strengthen-quality-standards.md)
-_Context: People's Republic of China, Standing Committee of the National People's Congress, food safety, parliament, quality standards, regulation_
+_Context: Chinese, Standing Committee of the National People's Congress, food safety, parliament, quality standards, regulation_
 
 ### [ California Governor Arnold Schwarzenegger declares a state of emergency, due to severe drought. ](/news/2009/02/28/california-governor-arnold-schwarzenegger-declares-a-state-of-emergency-due-to-severe-drought.md)
 _Context: Arnold Schwarzenegger, California, Governor of California, drought, state of emergency_

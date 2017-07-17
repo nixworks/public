@@ -4,7 +4,7 @@
 _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal), car bomb_
 
 ### [South Korea announces that it will expand its air defense zone in response to a recent move by the People's Republic of China. ](/news/2013/12/8/south-korea-announces-that-it-will-expand-its-air-defense-zone-in-response-to-a-recent-move-by-the-people-s-republic-of-china.md)
-_Context: People's Republic of China, South Korea_
+_Context: Chinese, South Korea_
 
 ### [Riots break out in Singapore after a fatal accident in Little India. This is the second riot in post-independence Singapore, and the first in over forty years. ](/news/2013/12/8/riots-break-out-in-singapore-after-a-fatal-accident-in-little-india-this-is-the-second-riot-in-post-independence-singapore-and-the-first-i.md)
 Police in Singapore arrest 27 South Asian suspects after hundreds of foreign workers take part in a riot sparked by the death of an Indian man.

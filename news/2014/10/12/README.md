@@ -16,7 +16,7 @@ _Context: 2014 Pacific typhoon season, Japan, Kyushu, Okinawa, Typhoon Vongfong_
 The cyclone, which crossed the Visakhapatnam coast, seems to be in a period of lull in the first hour, but people should follow the advisory as it may suddenly aggravate later, officials said.
 
 ### [A Texas nurse tests positive for Ebola. The health care worker is the first person to contract the disease in the United States of America, the first infection in the US to occur by secondary contact, and the second in the world sickened from exposure outside of the African continent. ](/news/2014/10/12/a-texas-nurse-tests-positive-for-ebola-the-health-care-worker-is-the-first-person-to-contract-the-disease-in-the-united-states-of-america.md)
-_Context: 2014 United States Ebola virus outbreak, American, Texas_
+_Context: 2014 United States Ebola virus outbreak, Texas, United States of America_
 
 ### [Bakir Izetbegovic and Dragan Covic appear to have won the Bosniak and Croat seat in the presidency while the race for the Serb seat is still too close to call. ](/news/2014/10/12/bakir-izetbegovia-and-dragan-aovia-appear-to-have-won-the-bosniak-and-croat-seat-in-the-presidency-while-the-race-for-the-serb-seat-is-st.md)
 _Context: Bakir Izetbegovic, Bosnia and Herzegovina general election, 2014, Bosniaks, Croat, Dragan Covic, Serb, presidency_

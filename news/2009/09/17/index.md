@@ -10,7 +10,7 @@ _Context: 'Amran Governorate, Yemen's, soldiers_
 _Context: European Union, Nicolas Sarkozy, President of France, banking_
 
 ### [ The Prime Minister of the Czech Republic, Jan Fischer, says that President Barack Obama told him that the United States is abandoning plans for a missile shield based in Poland and the Czech Republic. ](/news/2009/09/17/the-prime-minister-of-the-czech-republic-jan-fischer-says-that-president-barack-obama-told-him-that-the-united-states-is-abandoning-plans.md)
-_Context: Barack Obama, Czech Republic, Jan Fischer, Poland, President of the United States, Prime Minister of the Czech Republic, United States, missile shield_
+_Context: Barack Obama, Czech Republic, Jan Fischer, Poland, President of the United States, Prime Minister of the Czech Republic, U.S., missile shield_
 
 ### [ Two large explosions hit the main base of African Union peacekeepers in Mogadishu, Somalia. ](/news/2009/09/17/two-large-explosions-hit-the-main-base-of-african-union-peacekeepers-in-mogadishu-somalia.md)
 _Context: African Union, Mogadishu, Somalia_
@@ -49,7 +49,7 @@ Chavez says deal, along with another with Russian firms, will produce 900,000 ba
 _Context: Aung San Suu Kyi, State Peace and Development Council_
 
 ### [ Four more people are found guilty and jailed for carrying out attacks with syringes in the western Chinese province of Xinjiang. ](/news/2009/09/17/four-more-people-are-found-guilty-and-jailed-for-carrying-out-attacks-with-syringes-in-the-western-chinese-province-of-xinjiang.md)
-_Context: People's Republic of China, Xinjiang, attacks with syringes_
+_Context: Chinese, Xinjiang, attacks with syringes_
 
 ### [ The National Assembly of Kenya passes a bill to reduce the number of ministries from 40 to 24. ](/news/2009/09/17/the-national-assembly-of-kenya-passes-a-bill-to-reduce-the-number-of-ministries-from-40-to-24.md)
 _Context: bill into law, lawmakers_

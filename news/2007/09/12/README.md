@@ -25,7 +25,7 @@ _Context: Indian Ocean, Indonesia, September 2007 Sumatra earthquakes, Sumatra, 
 _Context: Mikhail Fradkov's Second Cabinet, Viktor Zubkov, Vladimir Putin_
 
 ### [ Thousands of ex-soldiers are rioting in the People's Republic of China in the cities of Baotou, Wuhan, and Baoji, breaking into cars, destroying classrooms, and setting fires. The riot is the largest protest since the 1989 Tiananmen Square protest. ](/news/2007/09/12/thousands-of-ex-soldiers-are-rioting-in-the-people-s-republic-of-china-in-the-cities-of-baotou-wuhan-and-baoji-breaking-into-cars-destr.md)
-_Context: People's Republic of China_
+_Context: Chinese_
 
 ### [ A cholera epidemic occurs in northern Iraq with 7,000 infected and 10 deaths so far. ](/news/2007/09/12/a-cholera-epidemic-occurs-in-northern-iraq-with-7-000-infected-and-10-deaths-so-far.md)
 Ten people are known to have died and health officials warned that the epidemic could reach Baghdad within weeks.
@@ -34,7 +34,7 @@ Ten people are known to have died and health officials warned that the epidemic 
 Peter Beattie was greeted with thunderous applause as he addressed the Queensland Labor Caucus for the last time as Premier this morning and told them he was ready to fade into obscurity.
 
 ### [ Former President of the Philippines Joseph Estrada is found guilty of corruption in his 6-year trial and sentenced to Life Imprisonment. ](/news/2007/09/12/former-president-of-the-philippines-joseph-estrada-is-found-guilty-of-corruption-in-his-6-year-trial-and-sentenced-to-life-imprisonment.md)
-_Context: 6-year trial, Joseph Estrada, Philippine president, anti-corruption_
+_Context: 6-year trial, Joseph Estrada, President of the Philippines, anti-corruption_
 
 ### [ Shinzo Abe, the current Prime Minister of Japan, announces his resignation after failing to win popular support in the aftermath of ruling Liberal Democratic Party's defeat in Upper House elections in July. The resignation comes into effect with the election of his successor in an LDP party conference on 19 September 2007. ](/news/2007/09/12/shinzo-abe-the-current-prime-minister-of-japan-announces-his-resignation-after-failing-to-win-popular-support-in-the-aftermath-of-ruling.md)
 _Context: Prime Minister, Shinzo Abe, with the election of his successor_

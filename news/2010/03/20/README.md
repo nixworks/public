@@ -19,7 +19,7 @@ A senior official of Somali insurgent group al Shabaab was shot dead on Friday i
 _Context: Prime Minister, Russia, Vladimir Putin_
 
 ### [A severe sandstorm affecting northern parts of China hits the capital Beijing, with health authorities urging people to stay inside. ](/news/2010/03/20/a-severe-sandstorm-affecting-northern-parts-of-china-hits-the-capital-beijing-with-health-authorities-urging-people-to-stay-inside.md)
-_Context: Beijing, People's Republic of China, dust storm_
+_Context: Beijing, Chinese, dust storm_
 
 ### [Cabin crew at British Airways begin a three-day strike. ](/news/2010/03/20/cabin-crew-at-british-airways-begin-a-three-day-strike.md)
 _Context: British Airways_

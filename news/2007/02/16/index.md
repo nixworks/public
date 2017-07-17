@@ -1,7 +1,7 @@
 ## [2007-02-16](/news/2007/02/16/index.md)
 
 ### [ The G8 countries, plus Brazil, China, India, Mexico and South Africa, approve the 'Washington Declaration,' proposing a global Carbon emissions trading system to replace the Kyoto Protocol by 2009. ](/news/2007/02/16/the-g8-countries-plus-brazil-china-india-mexico-and-south-africa-approve-the-washington-declaration-proposing-a-global-carbon-emiss.md)
-_Context: 2009, Brazil, Carbon emissions trading, India, Kyoto Protocol, Mexico, People's Republic of China, South Africa, Washington Declaration_
+_Context: 2009, Brazil, Carbon emissions trading, Chinese, India, Kyoto Protocol, Mexico, South Africa, Washington Declaration_
 
 ### [ Palestinians clash with Israeli police in East Jerusalem over archaeological excavations near the al-Aqsa mosque. ](/news/2007/02/16/palestinians-clash-with-israeli-police-in-east-jerusalem-over-archaeological-excavations-near-the-al-aqsa-mosque.md)
 _Context: Al-Aqsa Mosque, East Jerusalem, Israel, Palestinian_
@@ -22,7 +22,7 @@ _Context: Chrysler Group, DaimlerChrysler, General Motors_
 _Context: Concurrent Resolution, George W. Bush, Iraq War, Iraq War troop surge of 2007, U.S. President, United States House of Representatives, non-binding resolution_
 
 ### [ An Italian judge has ordered 26 U.S. citizens, most of them CIA agents, to stand trial over the kidnapping of an Egyptian cleric in Milan in 2003. ](/news/2007/02/16/an-italian-judge-has-ordered-26-u-s-citizens-most-of-them-cia-agents-to-stand-trial-over-the-kidnapping-of-an-egyptian-cleric-in-milan-i.md)
-_Context: 2003, Central Intelligence Agency, Hassan Mustafa Osama Nasr, Italian, Milan, United States_
+_Context: 2003, Central Intelligence Agency, Hassan Mustafa Osama Nasr, Italian, Milan, U.S._
 
 ### [ Abu Ayyub al-Masri, the current leader of al-Qaeda in Iraq, has been wounded in fighting in Baghdad according to Arab TV stations; however, the U.S. government denied the report.](/news/2007/02/16/abu-ayyub-al-masri-the-current-leader-of-al-qaeda-in-iraq-has-been-wounded-in-fighting-in-baghdad-according-to-arab-tv-stations-however.md)
 _Context: Abu Ayyub al-Masri, Baghdad, al-Qaeda in Iraq_

@@ -10,7 +10,7 @@ _Context: Harry Reid, John Ensign, Las Vegas, Nevada, Lloyd D. George Federal Di
 _Context: Burj Khalifa, Dubai, United Arab Emirates, tallest structure in the world_
 
 ### [A representation of President of the United States Barack Obama is found hanging by a noose with the epitaph "Plains, Georgia. Home of Jimmy Carter, our 39th President". ](/news/2010/01/4/a-representation-of-president-of-the-united-states-barack-obama-is-found-hanging-by-a-noose-with-the-epitaph-plains-georgia-home-of-jimmy.md)
-_Context: Barack Obama, Jimmy Carter, Plains, Georgia, President of the United States, United States, epitaph_
+_Context: Barack Obama, Jimmy Carter, Plains, Georgia, President of the United States, U.S., epitaph_
 
 ### [At least 500 homes are damaged after a 7.2 magnitude earthquake hits the Solomon Islands. ](/news/2010/01/4/at-least-500-homes-are-damaged-after-a-7-2-magnitude-earthquake-hits-the-solomon-islands.md)
 _Context: Solomon Islands_
@@ -34,7 +34,7 @@ _Context: Croatia, Government of Serbia, Holocaust, International Court of Justi
 _Context: Islam, Malaysia_
 
 ### [Police search for a mystery man who goes missing after sparking a security alert at Newark Liberty International Airport in the United States, causing the airport to be completely locked down. ](/news/2010/01/4/police-search-for-a-mystery-man-who-goes-missing-after-sparking-a-security-alert-at-newark-liberty-international-airport-in-the-united-state.md)
-_Context: Newark Liberty International Airport, United States_
+_Context: Newark Liberty International Airport, U.S._
 
 ### [Johan Ferrier, first President of Suriname and the world's oldest living former head of state, dies in the Netherlands at the age of 99. ](/news/2010/01/4/johan-ferrier-first-president-of-suriname-and-the-world-s-oldest-living-former-head-of-state-dies-in-the-netherlands-at-the-age-of-99.md)
 _Context: Johan Ferrier, Netherlands, President of Suriname, Suriname, oldest living former head of state_

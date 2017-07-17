@@ -10,7 +10,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 _Context: Gaza Strip, Human rights, Kate Burton, Palestinian, Scotland_
 
 ### [ Chinese state media announce that the country's government will abolish its national agricultural tax starting January 1, 2006. ](/news/2005/12/29/chinese-state-media-announce-that-the-country-s-government-will-abolish-its-national-agricultural-tax-starting-january-1-2006.md)
-_Context: People's Republic of China_
+_Context: Chinese_
 
 ### [ The Associated Press reports story of Farris Hassan, a young Iraqi-American teenager who travelled to Iraq without informing his parents and was picked up by the 101st Airborne.](/news/2005/12/29/the-associated-press-reports-story-of-farris-hassan-a-young-iraqi-american-teenager-who-travelled-to-iraq-without-informing-his-parents-an.md)
 _Context: 101st Airborne, Associated Press, Farris Hassan_

@@ -10,7 +10,7 @@ _Context: Guyana, JFK airport, New York City, Port-of-Spain, Trinidad and Tobago
 _Context: CIA leak grand jury investigation, Dick Cheney, Scooter Libby, U.S. Vice President, United States v. Libby, chief of staff, committed perjury, obstruction of justice, prison_
 
 ### [ U.S. President George W. Bush begins his tour of Europe in Prague before the G8 summit in Germany. During his visit, he intends to address the deployment of interceptor rockets, the establishment of radar bases in Poland and the Czech Republic, and the related tension that has arisen between the United States and Russia. ](/news/2007/06/5/u-s-president-george-w-bush-begins-his-tour-of-europe-in-prague-before-the-g8-summit-in-germany-during-his-visit-he-intends-to-address.md)
-_Context: Czech Republic, Europe, George W. Bush, Germany, Group of Eight, Poland, Prague, President of the United States, Russia, United States, anti-ballistic missile_
+_Context: Czech Republic, Europe, George W. Bush, Germany, Group of Eight, Poland, Prague, President of the United States, Russia, U.S., anti-ballistic missile_
 
 ### [ Spanish Basque separatist group ETA announces it will end its 15-month cease-fire tonight at midnight (CEST). ](/news/2007/06/5/spanish-basque-separatist-group-eta-announces-it-will-end-its-15-month-cease-fire-tonight-at-midnight-cest.md)
 ETA has said it will end its 15-month-old ceasefire at midnight tonight and has warned the Spanish government of new attacks.

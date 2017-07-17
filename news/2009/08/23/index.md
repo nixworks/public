@@ -28,7 +28,7 @@ _Context: Mohsen Saleh Gawd, Salah Jorman, Shia, Yemen's_
 _Context: Australia, offshore oil platform, oil spill_
 
 ### [ A severe drought in northern China leaves 5 million people short of water and damages 8.7 million hectares of farmland. ](/news/2009/08/23/a-severe-drought-in-northern-china-leaves-5-million-people-short-of-water-and-damages-8-7-million-hectares-of-farmland.md)
-_Context: People's Republic of China, farmland, water_
+_Context: Chinese, farmland, water_
 
 ### [ England reclaim The Ashes with a 2-1 series win over Australia. ](/news/2009/08/23/england-reclaim-the-ashes-with-a-2-1-series-win-over-australia.md)
 _Context: Australia, England, The Ashes_

@@ -22,13 +22,13 @@ _Context: Brazil, Brazilian President, G8 group of nations, Luiz Incio Lula da S
 _Context: Angela Merkel, Frank-Walter Steinmeier, German Chancellor_
 
 ### [ Saudi Arabia's veteran foreign minister Prince Saud al-Faisal undergoes successful spine surgery in the United States. ](/news/2009/09/13/saudi-arabia-s-veteran-foreign-minister-prince-saud-al-faisal-undergoes-successful-spine-surgery-in-the-united-states.md)
-_Context: Prince Saud al-Faisal, Saudi Arabia, United States_
+_Context: Prince Saud al-Faisal, Saudi Arabia, U.S._
 
 ### [ 38 people are killed in a fire at a drug abuse clinic in Taldykorgan, Kazakhstan. ](/news/2009/09/13/38-people-are-killed-in-a-fire-at-a-drug-abuse-clinic-in-taldykorgan-kazakhstan.md)
 _Context: Kazakhstan, Taldykorgan, drug abuse, fire_
 
 ### [ Hundreds of people protest in Hong Kong over alleged beatings of its journalists in mainland China covering unrest in Xinjiang. ](/news/2009/09/13/hundreds-of-people-protest-in-hong-kong-over-alleged-beatings-of-its-journalists-in-mainland-china-covering-unrest-in-xinjiang.md)
-_Context: Hong Kong, People's Republic of China, Xinjiang, riots_
+_Context: Chinese, Hong Kong, Xinjiang, riots_
 
 ### [ At least 6 people die in a fall down an elevator shaft of a skyscraper under construction in Hong Kong. ](/news/2009/09/13/at-least-6-people-die-in-a-fall-down-an-elevator-shaft-of-a-skyscraper-under-construction-in-hong-kong.md)
 _Context: Hong Kong_

@@ -16,13 +16,13 @@ _Context: Barack Obama, George Fox University, Newberg, Oregon_
 _Context: 2006 Toronto terrorism case, Canada, Canadian Prime Minister, Parliament of Canada, Stephen Harper, behead_
 
 ### [  Jobless claims in the United States rise to a seven-year high while orders for durable goods fall to their lowest level in 18 months, underscoring the weakness of the United States economy. ](/news/2008/09/25/jobless-claims-in-the-united-states-rise-to-a-seven-year-high-while-orders-for-durable-goods-fall-to-their-lowest-level-in-18-months-unde.md)
-_Context: Jobless, United States, United States economy, durable goods_
+_Context: Jobless, U.S., United States economy, durable goods_
 
 ### [ Following the purchase of British Energy by Electricit de France, plans for a new Hinkley Point C nuclear power station have been announced. ](/news/2008/09/25/following-the-purchase-of-british-energy-by-electricite-de-france-plans-for-a-new-hinkley-point-c-nuclear-power-station-have-been-announce.md)
 _Context: British Energy, Electricit de France, Hinkley Point C nuclear power station_
 
 ### [ The death toll from Typhoon Hagupit rises to 18 with 10 people dead in the People's Republic of China as well as 8 people killed earlier in the Philippines. ](/news/2008/09/25/the-death-toll-from-typhoon-hagupit-rises-to-18-with-10-people-dead-in-the-people-s-republic-of-china-as-well-as-8-people-killed-earlier-in.md)
-_Context: People's Republic of China, Philippines, Typhoon Hagupit_
+_Context: Chinese, Philippines, Typhoon Hagupit_
 
 ### [ Kgalema Motlanthe is sworn in as the third post-apartheid President of South Africa. ](/news/2008/09/25/kgalema-motlanthe-is-sworn-in-as-the-third-post-apartheid-president-of-south-africa.md)
 _Context: Kgalema Motlanthe, President of South Africa, apartheid_

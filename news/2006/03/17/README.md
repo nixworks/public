@@ -1,7 +1,7 @@
 ## [2006-03-17](/news/2006/03/17/index.md)
 
 ### [ Beijing's wealthiest millionaire, Yuan Baojing, and two alleged accomplices are sentenced to death and executed by lethal injection for murder by a Liaoyang court, making Yuan the wealthiest person to be executed in PRC history. ](/news/2006/03/17/beijing-s-wealthiest-millionaire-yuan-baojing-and-two-alleged-accomplices-are-sentenced-to-death-and-executed-by-lethal-injection-for-mur.md)
-_Context: Beijing, Liaoyang, People's Republic of China, Yuan Baojing, court, lethal injection, murder_
+_Context: Beijing, Chinese, Liaoyang, Yuan Baojing, court, lethal injection, murder_
 
 ### [ The European Parliament demands that Senegal turn over Hissne Habr to Belgium to be tried for his actions while he was President of Chad. Senegal is not expected to comply, as it already refused extradition demands from the African Union. The ATDPH has expressed its approval of the decision. ](/news/2006/03/17/the-european-parliament-demands-that-senegal-turn-over-hissene-habre-to-belgium-to-be-tried-for-his-actions-while-he-was-president-of-chad.md)
 _Context: ATDPH, African Union, Belgian, European Parliament, Hissene Habre, President of Chad, Senegal, extradited_

@@ -13,7 +13,7 @@ _Context: Egypt, Gaza Strip, Palestinian, Viva Palestina_
 The wife of Northern Ireland First Minister Peter Robinson tried to kill herself after confessing to her husband that she had an affair.
 
 ### [China becomes the largest exporting country, pushing Germany from first place. ](/news/2010/01/6/china-becomes-the-largest-exporting-country-pushing-germany-from-first-place.md)
-_Context: Germany, People's Republic of China, top export market_
+_Context: Chinese, Germany, top export market_
 
 ### [China's tourism revenue hits USD 185 billion in 2009. ](/news/2010/01/6/china-s-tourism-revenue-hits-usd-185-billion-in-2009.md)
 _Context: US$, tourism_
@@ -31,7 +31,7 @@ _Context: Ady Gil, Sea Shepherd, Shonan Maru, whaling_
 _Context: Dauletabad - Salyp Yar gas pipeline, Iran, Turkmenistan_
 
 ### [Algerian US ambassador Abdellah Baali and Nigerian Information Minister Dora Akunyili are upset at the decision of the United States to subject Algerians and Nigerians to tougher-than-usual security tests at airports, saying it is "discrimination" and "risks ties". Both have officially complained. ](/news/2010/01/6/algerian-us-ambassador-abdellah-baali-and-nigerian-information-minister-dora-akunyili-are-upset-at-the-decision-of-the-united-states-to-subj.md)
-_Context: Abdellah Baali, Algeria, Dora Akunyili, Nigeria, United States_
+_Context: Abdellah Baali, Algeria, Dora Akunyili, Nigeria, U.S._
 
 ### [The U.S. government lowers the threshold for information deemed important enough to put suspicious individuals on a watch list or no-fly list, or have their visa revoked. ](/news/2010/01/6/the-u-s-government-lowers-the-threshold-for-information-deemed-important-enough-to-put-suspicious-individuals-on-a-watch-list-or-no-fly-lis.md)
 _Context: U.S., visa-free travel_

@@ -19,7 +19,7 @@ _Context: 7.6 magnitude earthquake, Indonesia, Sumatra, magnitude_
 _Context: Law Lords, Supreme Court of the United Kingdom, appeals court_
 
 ### [ Mass celebrations take place in Beijing to commemorate the 60th anniversary of the founding of the People's Republic of China. ](/news/2009/10/1/mass-celebrations-take-place-in-beijing-to-commemorate-the-60th-anniversary-of-the-founding-of-the-people-s-republic-of-china.md)
-_Context: 60th anniversary of the founding, Beijing, People's Republic of China_
+_Context: 60th anniversary of the founding, Beijing, Chinese_
 
 ### [ Iran agrees to allow inspections of a recently revealed nuclear facility near the city of Qom. ](/news/2009/10/1/iran-agrees-to-allow-inspections-of-a-recently-revealed-nuclear-facility-near-the-city-of-qom.md)
 Iran agreed to open its newly revealed nuclear plant to inspectors and to send most of its enriched uranium to Russia to be turned into fuel.

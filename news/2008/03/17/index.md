@@ -13,13 +13,13 @@ The pilot of a containership that hit the San Francisco Bay Bridge last year and
 _Context: Bear Stearns, JPMorgan Chase, housing crisis, investment bank, stock market_
 
 ### [ 2008 unrest in Tibet: Chinese security forces round up Tibetan dissidents in Lhasa. Qiangba Puncog, Chairman of the Tibet Autonomous Region, says the official death toll from the unrest is 13 and calm is returning to the city. ](/news/2008/03/17/2008-unrest-in-tibet-p-chinese-security-forces-round-up-tibetan-dissidents-in-lhasa-qiangba-puncog-chairman-of-the-tibet-autonomous-regio.md)
-_Context: 2008 unrest in Tibet, Lhasa, People's Republic of China, Qiangba Puncog, Tibet, Tibet Autonomous Region, dissident, security force_
+_Context: 2008 unrest in Tibet, Chinese, Lhasa, Qiangba Puncog, Tibet, Tibet Autonomous Region, dissident, security force_
 
 ### [ 2008 National People's Congress: Li Keqiang, Hui Liangyu, Zhang Dejiang, and Wang Qishan are approved by the National People's Congress as the new Vice-Premiers of the State Council. ](/news/2008/03/17/2008-national-people-s-congress-li-keqiang-hui-liangyu-zhang-dejiang-and-wang-qishan-are-approved-by-the-national-people-s-congress-as.md)
 _Context: 2008 National People's Congress, Hui Liangyu, Li Keqiang, Wang Qishan, Zhang Dejiang, parliament_
 
 ### [ War in Iraq: United States Vice President Dick Cheney visits Baghdad, three days before the fifth anniversary of the 2003 invasion. ](/news/2008/03/17/war-in-iraq-p-united-states-vice-president-dick-cheney-visits-baghdad-three-days-before-the-fifth-anniversary-of-the-2003-invasion.md)
-_Context: 2003 invasion of Iraq, Baghdad, Dick Cheney, Iraq, U.S. Vice President, United States, War in Iraq_
+_Context: 2003 invasion of Iraq, Baghdad, Dick Cheney, Iraq, U.S., U.S. Vice President, War in Iraq_
 
 ### [ Pakistan: The new Parliament convenes for the first time after the 2008 general election. ](/news/2008/03/17/pakistan-p-the-new-parliament-convenes-for-the-first-time-after-the-2008-general-election.md)
 _Context: Pakistan, Parliament, by-elections_

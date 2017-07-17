@@ -16,7 +16,7 @@ _Context: Fo Guang Shan, Gautama Buddha, Kaohsiung, Taiwan, tooth relic_
 _Context: Johannes Heesters, Netherlands_
 
 ### [A former official of the central bank of the People's Republic of China states that the People's Bank of China could lower the country's reserve requirements in 2012. ](/news/2011/12/24/a-former-official-of-the-central-bank-of-the-people-s-republic-of-china-states-that-the-people-s-bank-of-china-could-lower-the-country-s-res.md)
-_Context: People's Bank of China, People's Republic of China, reserve requirements_
+_Context: Chinese, People's Bank of China, reserve requirements_
 
 ### [North Korean media name Kim Jong-un &ndash; the son and successor of late leader Kim Jong-il &ndash; as the Supreme Commander of the Korean People's Army. ](/news/2011/12/24/north-korean-media-name-kim-jong-un-ndash-the-son-and-successor-of-late-leader-kim-jong-il-ndash-as-the-supreme-commander-of-the-korean.md)
 _Context: Kim Jong-il, Kim Jong-un, Korean People's Army, North Korea, Supreme Commander, state media_

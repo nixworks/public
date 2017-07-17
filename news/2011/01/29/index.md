@@ -19,7 +19,7 @@ _Context: Afghanistan, Kandahar Province, War in Afghanistan (2001-present)_
 _Context: Mogadishu, Somalia_
 
 ### [China begins the first test flights of private helicopters in its airspace. ](/news/2011/01/29/china-begins-the-first-test-flights-of-private-helicopters-in-its-airspace.md)
-_Context: People's Republic of China, helicopters_
+_Context: Chinese, helicopters_
 
 ### [Wall Street firm Goldman Sachs triples the base salary of its chief executive Lloyd Blankfein to $2 million, up from $600,000, after the bank's profit falls by 38 per cent. ](/news/2011/01/29/wall-street-firm-goldman-sachs-triples-the-base-salary-of-its-chief-executive-lloyd-blankfein-to-2-million-up-from-600-000-after-the-ban.md)
 Wall Street firm Goldman Sachs Group awards chief executive Lloyd Blankfein $12.6m in shares and triples his salary to $2m.

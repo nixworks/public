@@ -4,7 +4,7 @@
 _Context: Jonathan Schmitz, Scott Amedure, The Jenny Jones Show, Warner Bros._
 
 ### [ Kosovo War: In Federal Republic of Yugoslavia, three Chinese embassy workers are killed and 20 wounded when a NATO aircraft mistakenly bombs the Chinese embassy in Belgrade.](/news/1999/05/7/kosovo-war-in-federal-republic-of-yugoslavia-three-chinese-embassy-workers-are-killed-and-20-wounded-when-a-nato-aircraft-mistakenly-bomb.md)
-_Context: Belgrade, Federal Republic of Yugoslavia, Kosovo War, NATO, People's Republic of China_
+_Context: Belgrade, Chinese, Federal Republic of Yugoslavia, Kosovo War, NATO_
 
 ### [ In Guinea-Bissau, President Joo Bernardo Vieira is ousted in a military coup.](/news/1999/05/7/in-guinea-bissau-president-joao-bernardo-vieira-is-ousted-in-a-military-coup.md)
 _Context: Guinea-Bissau, Joo Bernardo Vieira, coup_

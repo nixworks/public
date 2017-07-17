@@ -1,7 +1,7 @@
 ## [2005-01-29](/news/2005/01/29/index.md)
 
 ### [ A low-key and tightly controlled funeral is held for purged Chinese Communist leader Zhao Ziyang.](/news/2005/01/29/a-low-key-and-tightly-controlled-funeral-is-held-for-purged-chinese-communist-leader-zhao-ziyang.md)
-_Context: People's Republic of China, Zhao Ziyang_
+_Context: Chinese, Zhao Ziyang_
 
 ### [ Procter & Gamble plan to purchase competitor Gillette in a deal worth $52.4 billion. Industry experts, including Gillette CEO Jim Kilts, expect further industry consolidation this year, spurred in part by a 40% rise in oil prices last year and the need to gain clout against economic giant Wal-Mart. ](/news/2005/01/29/procter-gamble-plan-to-purchase-competitor-gillette-in-a-deal-worth-52-4-billion-industry-experts-including-gillette-ceo-jim-kilts-ex.md)
 _Context: CEO, Gillette, Jim Kilts, Procter & Gamble, Wal-Mart_

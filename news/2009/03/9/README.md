@@ -10,10 +10,10 @@ _Context: Kosovo, Kosovo, Palau_
 _Context: County Armagh, Craigavon, Northern Ireland, Police Service of Northern Ireland, police officer_
 
 ### [ The United States government claims five Chinese ships "harass[ed]" the USNS ''Impeccable'' in the South China Sea. ](/news/2009/03/9/the-united-states-government-claims-five-chinese-ships-harass-ed-the-usns-impeccable-in-the-south-china-sea.md)
-_Context: ''Impeccable'', People's Republic of China, South China Sea, USNS, United States, United States_
+_Context: ''Impeccable'', Chinese, South China Sea, U.S., USNS, United States_
 
 ### [ U.S. President Barack Obama lifts George W. Bush's restrictions on embryonic stem cell research. ](/news/2009/03/9/u-s-president-barack-obama-lifts-george-w-bush-s-restrictions-on-embryonic-stem-cell-research.md)
-_Context: Barack Obama, George W. Bush, President of the United States, United States, embryonic stem cell, restrictions_
+_Context: Barack Obama, George W. Bush, President of the United States, U.S., embryonic stem cell, restrictions_
 
 ### [ Argentina and Chile reject the United Kingdom's claims on Antarctic territory. ](/news/2009/03/9/argentina-and-chile-reject-the-united-kingdom-s-claims-on-antarctic-territory.md)
 _Context: Antarctica, Argentina, British Antarctic Territory, Chile, UK, territory_
@@ -31,7 +31,7 @@ _Context: LTTE, Sri Lanka, Sri Lankan Civil War, armed forces_
 _Context: Japan, Japanese economy, deficit, yen_
 
 ### [ China deploys the People's Armed Police to Tibet to quell possible protests related to Tibetan Uprising Day. ](/news/2009/03/9/china-deploys-the-people-s-armed-police-to-tibet-to-quell-possible-protests-related-to-tibetan-uprising-day.md)
-_Context: People's Armed Police, People's Republic of China, Tibet Autonomous Region, Tibetan Uprising Day, possible protests_
+_Context: Chinese, People's Armed Police, Tibet Autonomous Region, Tibetan Uprising Day, possible protests_
 
 ### [ Zimbabwean Prime Minister Morgan Tsvangirai rules out foul play in a car accident in Harare that killed his wife. ](/news/2009/03/9/zimbabwean-prime-minister-morgan-tsvangirai-rules-out-foul-play-in-a-car-accident-in-harare-that-killed-his-wife.md)
 _Context: Harare, Morgan Tsvangirai, Prime Minister, Zimbabwe, car accident, gunmen, wife_

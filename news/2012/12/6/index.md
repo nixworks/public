@@ -25,7 +25,7 @@ Three people have been killed as a rare tornado ripped through western suburbs o
 Rescue workers searched on Thursday through thick mud, broken homes and fallen trees for survivors, two days after a typhoon swept the southern Philippines killing nearly 400 people and leaving at least as many missing.
 
 ### [South Korea and the People's Republic of China hold discussions about measures in response to North Korea's plans to launch a Unha rocket later this month. ](/news/2012/12/6/south-korea-and-the-people-s-republic-of-china-hold-discussions-about-measures-in-response-to-north-korea-s-plans-to-launch-a-unha-rocket-la.md)
-_Context: North Korea, People's Republic of China, South Korea, Unha_
+_Context: Chinese, North Korea, South Korea, Unha_
 
 ### [Possession of marijuana for personal use of people aged over 21 becomes legal according to state law in the US state of Washington. ](/news/2012/12/6/possession-of-marijuana-for-personal-use-of-people-aged-over-21-becomes-legal-according-to-state-law-in-the-us-state-of-washington.md)
 _Context: Washington, marijuana, state law_

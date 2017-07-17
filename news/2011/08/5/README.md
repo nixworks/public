@@ -7,16 +7,16 @@ Tens of thousands protest across Syria days after the bloody crackdown on the ci
 Rebel spokesman says Libyan army commander Khamis Gaddafi killed in NATO airstrike on Zlitan, a claim government denies.
 
 ### [Meng Jianzhu, the Minister for Public Security in the People's Republic of China, orders a clampdown in Xinjiang following recent unrest. ](/news/2011/08/5/meng-jianzhu-the-minister-for-public-security-in-the-people-s-republic-of-china-orders-a-clampdown-in-xinjiang-following-recent-unrest.md)
-_Context: Meng Jianzhu, Ministry of Public Security of the People's Republic of China, People's Republic of China, Xinjiang, recent unrest_
+_Context: Chinese, Meng Jianzhu, Ministry of Public Security of the People's Republic of China, Xinjiang, recent unrest_
 
 ### [Burmese state media say rebels in the northeast of the country killed seven workers from a Chinese-backed hydroelectric power project. ](/news/2011/08/5/burmese-state-media-say-rebels-in-the-northeast-of-the-country-killed-seven-workers-from-a-chinese-backed-hydroelectric-power-project.md)
-_Context: Burma, People's Republic of China, state media_
+_Context: Burma, Chinese, state media_
 
 ### [Stock markets in Asia and Australia continue falls from Europe and the United States. ](/news/2011/08/5/stock-markets-in-asia-and-australia-continue-falls-from-europe-and-the-united-states.md)
 Stock markets worldwide plunged on Thursday amid fears of a new global economic downturn, with Wall Street suffering its worst day since the financial crisis.
 
 ### [The Standard & Poor's credit rating agency downgrades the credit rating of the United States from AAA to AA+ with a negative outlook. ](/news/2011/08/5/the-standard-poor-s-credit-rating-agency-downgrades-the-credit-rating-of-the-united-states-from-aaa-to-aa-with-a-negative-outlook.md)
-_Context: Standard & Poor's, United States, credit rating_
+_Context: Standard & Poor's, U.S., credit rating_
 
 ### [A bus in Ivory Coast plunges into the capital Abidjan's lagoon, killing 12 people. ](/news/2011/08/5/a-bus-in-ivory-coast-plunges-into-the-capital-abidjan-s-lagoon-killing-12-people.md)
 _Context: Abidjan, Ivory Coast, lagoon_
@@ -31,7 +31,7 @@ _Context: Australia, Malaysia, UNICEF, asylum seekers_
 _Context: Kiev, Ukrainian, Yulia Tymoshenko, opposition party_
 
 ### [Philippine President Benigno Aquino III meets with rebel Moro Islamic Liberation Front leader Al Haj Murad Ibrahim in Tokyo. ](/news/2011/08/5/philippine-president-benigno-aquino-iii-meets-with-rebel-moro-islamic-liberation-front-leader-al-haj-murad-ibrahim-in-tokyo.md)
-_Context: Benigno Aquino III, Moro Islamic Liberation Front, Philippine, Philippine president, Tokyo_
+_Context: Benigno "Noynoy" Aquino III, Moro Islamic Liberation Front, Philippine, President of the Philippines, Tokyo_
 
 ### [Yingluck Shinawatra is officially elected as the Prime Minister of Thailand by the parliament. ](/news/2011/08/5/yingluck-shinawatra-is-officially-elected-as-the-prime-minister-of-thailand-by-the-parliament.md)
 _Context: Parliament, Prime Minister of Thailand, Yingluck Shinawatra_

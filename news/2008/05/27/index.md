@@ -11,13 +11,13 @@ _Context: 2 June, 28 May, Argentina, export, farmer, federal government, grain_
 _Context: Constitutional Court, Decembrists Square, Governing Senate, Moscow, Russia, Saint Petersburg_
 
 ### [ The S&P/Case-Shiller index shows a record annual decline in United States house prices of 14.1%. ](/news/2008/05/27/the-s-p-case-shiller-index-shows-a-record-annual-decline-in-united-states-house-prices-of-14-1.md)
-_Context: Case-Shiller index, S&P, United States_
+_Context: Case-Shiller index, S&P, U.S._
 
 ### [  The State Peace and Development Council extends Aung San Suu Kyi's house arrest by one year. ](/news/2008/05/27/the-state-peace-and-development-council-extends-aung-san-suu-kyi-s-house-arrest-by-one-year.md)
 _Context: Aung San Suu Kyi, State Peace and Development Council, house arrest_
 
 ### [ In the aftermath of the Sichuan earthquake, the People's Republic of China evacuates 100,000 people from Mianyang as engineers prepare to drain the landslide dam-created Tangjiashan Lake.](/news/2008/05/27/in-the-aftermath-of-the-sichuan-earthquake-the-people-s-republic-of-china-evacuates-100-000-people-from-mianyang-as-engineers-prepare-to-d.md)
-_Context: Mianyang, People's Republic of China, Tangjiashan Lake, deadly earthquake, landslide dam_
+_Context: Chinese, Mianyang, Tangjiashan Lake, deadly earthquake, landslide dam_
 
 ### [ Thabo Mbeki, the President of South Africa, leaves for Japan to attend a conference on African development despite concerns about the 2008 South African riots. ](/news/2008/05/27/thabo-mbeki-the-president-of-south-africa-leaves-for-japan-to-attend-a-conference-on-african-development-despite-concerns-about-the-2008.md)
 _Context: 2008 South African riots, Africa, Japan, President of South Africa, Thabo Mbeki_

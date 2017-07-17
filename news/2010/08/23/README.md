@@ -34,7 +34,7 @@ Thailand says it will resume diplomatic ties with Cambodia, after Phnom Penh ann
 _Context: Kenya, Malaysia, Nairobi, elephant, ivory, rhinoceros_
 
 ### [China considers removing the death penalty for several economic crimes. ](/news/2010/08/23/china-considers-removing-the-death-penalty-for-several-economic-crimes.md)
-_Context: People's Republic of China, death penalty_
+_Context: Chinese, death penalty_
 
 ### [25 prisoners, including Islamic militants, escape from a prison in Dushanbe, Tajikistan. ](/news/2010/08/23/25-prisoners-including-islamic-militants-escape-from-a-prison-in-dushanbe-tajikistan.md)
 Twenty-five prisoners, including several Islamic militants, have escaped from a prison in the Central Asian state of Tajikistan, reports say.

@@ -19,7 +19,7 @@ _Context: Burkina Faso, Djibrill Bassole, Mali, Tuareg rebellion (2012), al-Qaed
 _Context: Manila, Philippines_
 
 ### [The People's Republic of China evacuates 200,000 people from Shanghai ahead of Typhoon Haikui which is expected to make landfall in Zhejiang early tonight or tomorrow morning. ](/news/2012/08/7/the-people-s-republic-of-china-evacuates-200-000-people-from-shanghai-ahead-of-typhoon-haikui-which-is-expected-to-make-landfall-in-zhejiang.md)
-_Context: People's Republic of China, Shanghai, Typhoon, Zhejiang_
+_Context: Chinese, Shanghai, Typhoon, Zhejiang_
 
 ### [Police in Malaysia detain eight people after a toddler reportedly dies during a 20 hour exorcism ritual. ](/news/2012/08/7/police-in-malaysia-detain-eight-people-after-a-toddler-reportedly-dies-during-a-20-hour-exorcism-ritual.md)
 _Context: Malaysia, exorcism_

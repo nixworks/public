@@ -1,7 +1,7 @@
 ## [2007-08-30](/news/2007/08/30/index.md)
 
 ### [ Militants fire rockets on a United States military aircraft containing three US Senators (Richard Shelby, Mel Martinez and James Inhofe) as well as Rep. Bud Cramer as it leaves Baghdad for Amman in Jordan. ](/news/2007/08/30/militants-fire-rockets-on-a-united-states-military-aircraft-containing-three-us-senators-richard-shelby-mel-martinez-and-james-inhofe-as.md)
-_Context: Amman, Baghdad, Bud Cramer, James Inhofe, Jordan, Mel Martinez, Richard Shelby, United States, United States House of Representatives, United States Senate, rocket_
+_Context: Amman, Baghdad, Bud Cramer, James Inhofe, Jordan, Mel Martinez, Richard Shelby, U.S., United States House of Representatives, United States Senate, rocket_
 
 ### [ At least 10 Malians are killed and several others injured after their vehicle hits a land mine. ](/news/2007/08/30/at-least-10-malians-are-killed-and-several-others-injured-after-their-vehicle-hits-a-land-mine.md)
 _Context: Mali, land mine_
@@ -16,7 +16,7 @@ _Context: Exile, Nawaz Sharif, Pakistan, Prime Minister, Supreme Court_
 _Context: Iowa, constitution, district court, equal protection, same sex couple_
 
 ### [ United States health officials issue a consumer alert for people to check their freezers for contaminated meat. ](/news/2007/08/30/united-states-health-officials-issue-a-consumer-alert-for-people-to-check-their-freezers-for-contaminated-meat.md)
-_Context: United States, consumer, freezer, meat_
+_Context: U.S., consumer, freezer, meat_
 
 ### [ Darfur rebels accuse the Sudanese Government of bombing South Darfur. ](/news/2007/08/30/darfur-rebels-accuse-the-sudanese-government-of-bombing-south-darfur.md)
 Darfur rebels have accused the Sudanese Government of bombing South Darfur, the latest attack in an aerial campaign that has driven thousands of people from their homes over the past month.
@@ -40,7 +40,7 @@ _Context: Al-Aqsa Martyrs' Brigades, Fatah, Gaza Strip, Israel, Sderot, rocket a
 _Context: 'Ndrangheta, Calabria, Italian_
 
 ### [ Cao Gangchuan, the Defense Minister of People's Republic of China and Masahiko Komura, Defense Minister of Japan. meet and agree to strengthen exchanges. ](/news/2007/08/30/cao-gangchuan-the-defense-minister-of-people-s-republic-of-china-and-masahiko-komura-defense-minister-of-japan-meet-and-agree-to-strengt.md)
-_Context: Cao Gangchuan, Japan, Masahiko Komura, People's Republic of China_
+_Context: Cao Gangchuan, Chinese, Japan, Masahiko Komura_
 
 ### [ The Chinese Finance Minister, Jin Renqing, resigns due to "personal reasons". ](/news/2007/08/30/the-chinese-finance-minister-jin-renqing-resigns-due-to-personal-reasons.md)
 _Context: China, Jin Renqing_

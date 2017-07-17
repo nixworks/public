@@ -4,10 +4,10 @@
 _Context: Mozdok - Makhachkala - Kazi Magomed pipeline, Republic of Dagestan, Russia_
 
 ### [China's top search engine Baidu is allegedly attacked by Iranian hackers, sparking a retaliatory attack by Chinese hackers on Iranian sites. ](/news/2010/01/12/china-s-top-search-engine-baidu-is-allegedly-attacked-by-iranian-hackers-sparking-a-retaliatory-attack-by-chinese-hackers-on-iranian-sites.md)
-_Context: Baidu, Iran, People's Republic of China_
+_Context: Baidu, Chinese, Iran_
 
 ### [Masoud Alimohammadi, an Iranian nuclear physics professor, is killed in a bomb attack in the capital Tehran; Iran state media accuses Israel and the United States of involvement. ](/news/2010/01/12/masoud-alimohammadi-an-iranian-nuclear-physics-professor-is-killed-in-a-bomb-attack-in-the-capital-tehran-iran-state-media-accuses-israel.md)
-_Context: Iran, Israel, Masoud Alimohammadi, Tehran, United States_
+_Context: Iran, Israel, Masoud Alimohammadi, Tehran, U.S._
 
 ### [Mexican Drug War:Mexican authorities report the capture of Teodoro Garcia Simental, one of the country's most notorious drug lords, in a raid in La Paz, Baja California Sur. ](/news/2010/01/12/mexican-drug-war-pmexican-authorities-report-the-capture-of-teodoro-garcaa-simental-one-of-the-country-s-most-notorious-drug-lords-in-a-r.md)
 _Context: La Paz, Baja California Sur, Mexican Drug War, Mexico, Teodoro Garcia Simental_
@@ -19,7 +19,7 @@ _Context: Conan O'Brien, NBC, The Jay Leno Show, The Tonight Show_
 _Context: Americas, Chinese, Matteo Ricci, Wanli Emperor, map_
 
 ### [Google says it may end its operations in China as it is no longer willing to continue censoring its search results. ](/news/2010/01/12/google-says-it-may-end-its-operations-in-china-as-it-is-no-longer-willing-to-continue-censoring-its-search-results.md)
-_Context: Google, People's Republic of China, blocks mentions_
+_Context: Chinese, Google, blocks mentions_
 
 ### [A severe 7.0 magnitude earthquake strikes Haiti. Tsunami watches issued across the Caribbean. ](/news/2010/01/12/a-severe-7-0-magnitude-earthquake-strikes-haiti-tsunami-watches-issued-across-the-caribbean.md)
 _Context: 2010 Haiti earthquake, Caribbean, Haiti, tsunami_

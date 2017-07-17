@@ -25,7 +25,7 @@ _Context: Typhoon Mirinae, Vietnam_
 Twenty-three US secret agents, accused of seizing imam, sentenced to jail in absentia.
 
 ### [ United States officials meet Aung San Suu Kyi and the Burmese Prime Minister Thein Sein in rare talks. ](/news/2009/11/4/united-states-officials-meet-aung-san-suu-kyi-and-the-burmese-prime-minister-thein-sein-in-rare-talks.md)
-_Context: Aung San Suu Kyi, Burma, Prime Minister, Thein Sein, United States_
+_Context: Aung San Suu Kyi, Burma, Prime Minister, Thein Sein, U.S._
 
 ### [ The President of Sierra Leone Ernest Bai Koroma sacks two senior ministers on charges of corruption. ](/news/2009/11/4/the-president-of-sierra-leone-ernest-bai-koroma-sacks-two-senior-ministers-on-charges-of-corruption.md)
 _Context: Ernest Bai Koroma, President of Sierra Leone, Sierra Leone_
@@ -37,7 +37,7 @@ Italian political leaders have united to condemn a European court ruling that cr
 _Context: Iran, earthquake_
 
 ### [ China approves a Disney theme park in Shanghai after a decade of negotiations. ](/news/2009/11/4/china-approves-a-disney-theme-park-in-shanghai-after-a-decade-of-negotiations.md)
-_Context: Disney, People's Republic of China, Shanghai, theme park_
+_Context: Chinese, Disney, Shanghai, theme park_
 
 ### [ Australia and New Zealand expel Fiji's top diplomats in response to the decision of the Government of Prime Minister Frank Bainimarama to expel senior Australian and New Zealand diplomats from Fiji. ](/news/2009/11/4/australia-and-new-zealand-expel-fiji-s-top-diplomats-in-response-to-the-decision-of-the-government-of-prime-minister-frank-bainimarama-to-e.md)
 _Context: Australia, Fiji, New Zealand, Prime Minister, Voreqe Bainimarama_

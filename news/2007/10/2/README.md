@@ -10,7 +10,7 @@ Citigroup said it would buy out minority shareholders in scandal-hit Japanese br
 When fire broke out deep underground at a hydroelectric plant in the Rockies, officials at the surface dropped a radio down to five trapped men in a tunnel and were relieved to learn they were OK.
 
 ### [ At least 27 people are killed when a bus catches fire in Chongqing, southwest China. ](/news/2007/10/2/at-least-27-people-are-killed-when-a-bus-catches-fire-in-chongqing-southwest-china.md)
-_Context: Chongqing, People's Republic of China, bus_
+_Context: Chinese, Chongqing, bus_
 
 ### [ Pakistan: The Pakistani cabinet announces plans to drop all corruption charges against former Prime Minister Benazir Bhutto.date=December 2007 The President of Pakistan Pervez Musharraf appoints General Ashfaq Kiyani to succeed him as the head of the Pakistan Army after Saturday's election. ](/news/2007/10/2/pakistan-p-the-pakistani-cabinet-announces-plans-to-drop-all-corruption-charges-against-former-prime-minister-benazir-bhutto-date-december.md)
 _Context: Ashfaq Kiyani, Benazir Bhutto, General, Pakistan, Pakistan Army, Pervez Musharraf, President, Prime Minister, anti-corruption, government_

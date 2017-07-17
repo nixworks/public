@@ -22,7 +22,7 @@ _Context: Canada, Canadian Prime Minister, Inuit, Metis, Native American, Stephe
 _Context: Articles of Impeachment, Dennis Kucinich, United States House of Representatives_
 
 ### [ InBev, the world's largest brewing company makes an unsolicited $46 billion takeover bid for United States brewing company Anheuser-Busch. ](/news/2008/06/11/inbev-the-world-s-largest-brewing-company-makes-an-unsolicited-46-billion-takeover-bid-for-united-states-brewing-company-anheuser-busch.md)
-_Context: Anheuser-Busch, InBev, US$, United States, brewing, takeover_
+_Context: Anheuser-Busch, InBev, U.S., US$, brewing, takeover_
 
 ### [ Estonia, Greece and Finland ratify the Treaty of Lisbon. ](/news/2008/06/11/estonia-greece-and-finland-ratify-the-treaty-of-lisbon.md)
 _Context: Estonia, Finland, Greece, Treaty of Lisbon_
@@ -37,7 +37,7 @@ The former king of Nepal, Gyanendra Shah, formally turned over his palace in Kat
 _Context: His Majesty's Government, Metropolitan Police, Surrey, Waterloo Station, al-Qaeda_
 
 ### [ Sheikh Hasina, a former Prime Minister of Bangladesh detained on corruption charges, is released to seek treatment in the United States. ](/news/2008/06/11/sheikh-hasina-a-former-prime-minister-of-bangladesh-detained-on-corruption-charges-is-released-to-seek-treatment-in-the-united-states.md)
-_Context: Prime Minister, Sheikh Hasina, United States, anti-corruption_
+_Context: Prime Minister, Sheikh Hasina, U.S., anti-corruption_
 
 ### [ Stojan Zupljanin, a wartime Bosnian Serb police commander is arrested near Belgrade and will be sent to the Hague where he will face trial for alleged war crimes. ](/news/2008/06/11/stojan-a1-2upljanin-a-wartime-bosnian-serb-police-commander-is-arrested-near-belgrade-and-will-be-sent-to-the-hague-where-he-will-face-trial.md)
 _Context: Belgrade, Bosnian Serb, Stojan Zupljanin, The Hague, war crimes_
@@ -61,7 +61,7 @@ Pakistan lodged a strong protest with the United States over what it called an u
 _Context: LTTE, Sri Lankan Navy_
 
 ### [ Taiwanese negotiators led by Chiang Pin-kung, Chairman of the Strait Exchange Foundation, travel to the People's Republic of China to conduct talks on improving Cross-Strait relations. ](/news/2008/06/11/taiwanese-negotiators-led-by-chiang-pin-kung-chairman-of-the-strait-exchange-foundation-travel-to-the-people-s-republic-of-china-to-condu.md)
-_Context: Chiang Pin-kung, Cross-Strait relations, People's Republic of China, Strait Exchange Foundation, Taiwan_
+_Context: Chiang Pin-kung, Chinese, Cross-Strait relations, Strait Exchange Foundation, Taiwan_
 
 ## [Previous Day...](/news/2008/06/10/index.md)
 

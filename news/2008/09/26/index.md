@@ -4,7 +4,7 @@
 US presidential rivals John McCain and Barack Obama have gone head-to-head in their first televised debate.
 
 ### [ 2008 Chinese Milk Scandal: Japan and Hong Kong detect melamine in Chinese food products including breakfast cereals and crackers. ](/news/2008/09/26/2008-chinese-milk-scandal-japan-and-hong-kong-detect-melamine-in-chinese-food-products-including-breakfast-cereals-and-crackers.md)
-_Context: 2008 Chinese milk scandal, Hong Kong, Japan, People's Republic of China, breakfast cereal, cracker, melamine_
+_Context: 2008 Chinese milk scandal, Chinese, Hong Kong, Japan, breakfast cereal, cracker, melamine_
 
 ### [ German commandos storm a KLM airliner at Cologne-Bonn Airport and arrest two men suspected of planning to carry out a terrorist attack. ](/news/2008/09/26/german-commandos-storm-a-klm-airliner-at-cologne-bonn-airport-and-arrest-two-men-suspected-of-planning-to-carry-out-a-terrorist-attack.md)
 _Context: Cologne-Bonn Airport, Germany, KLM, airliner, commando, terrorism_

@@ -16,7 +16,7 @@ The handset maker prepares to drop 1,700 employees, but more announcements may b
 _Context: Seattle Post-Intelligencer, newspaper, online, print edition_
 
 ### [ North Korean Premier Kim Yong-il begins a five-day goodwill tour of China in Jinan, Shandong. ](/news/2009/03/17/north-korean-premier-kim-yong-il-begins-a-five-day-goodwill-tour-of-china-in-jinan-shandong.md)
-_Context: Jinan, Kim Yong-il, North Korea, People's Republic of China, Premier, Shandong, goodwill tour_
+_Context: Chinese, Jinan, Kim Yong-il, North Korea, Premier, Shandong, goodwill tour_
 
 ### [ The European Space Agency's Gravity Field and Steady-State Ocean Circulation Explorer launches from the Plesetsk Cosmodrome in Arkhangelsk Oblast, Russia. ](/news/2009/03/17/the-european-space-agency-s-gravity-field-and-steady-state-ocean-circulation-explorer-launches-from-the-plesetsk-cosmodrome-in-arkhangelsk.md)
 _Context: Arkhangelsk Oblast, European Space Agency, Goce, Plesetsk Cosmodrome, Russia_
@@ -25,7 +25,7 @@ _Context: Arkhangelsk Oblast, European Space Agency, Goce, Plesetsk Cosmodrome, 
 _Context: Coahuila, Mexico, Saltillo, car accident_
 
 ### [ Saint Patrick's Day: United States President Barack Obama meets Irish Taoiseach Brian Cowen and Northern Irish First Minister Peter Robinson and Deputy First Minister Martin McGuinness at the White House. ](/news/2009/03/17/saint-patrick-s-day-p-united-states-president-barack-obama-meets-irish-taoiseach-brian-cowen-and-northern-irish-first-minister-peter-robins.md)
-_Context: Barack Obama, Brian Cowen, Ireland, Martin McGuinness, Northern Ireland, Peter Robinson, President of the United States, Saint Patrick's Day, Taoiseach, United States, White House, deputy First Minister of Northern Ireland_
+_Context: Barack Obama, Brian Cowen, Ireland, Martin McGuinness, Northern Ireland, Peter Robinson, President of the United States, Saint Patrick's Day, Taoiseach, U.S., White House, deputy First Minister of Northern Ireland_
 
 ## [Previous Day...](/news/2009/03/16/index.md)
 

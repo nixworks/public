@@ -7,7 +7,7 @@ The first dissident Mormon to be convicted of sexually assaulting a child at a T
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 ### [ A gold mining operation is investigated by Chinese authorities after allegations it has damaged part of the Great Wall of China in Inner Mongolia. ](/news/2009/11/11/a-gold-mining-operation-is-investigated-by-chinese-authorities-after-allegations-it-has-damaged-part-of-the-great-wall-of-china-in-inner-mo.md)
-_Context: Great Wall of China, Inner Mongolia, People's Republic of China_
+_Context: Chinese, Great Wall of China, Inner Mongolia_
 
 ### [ Iran protests to Oxford University's Queen's College over a scholarship in memory of the slain Iranian student Neda Agha Soltan. ](/news/2009/11/11/iran-protests-to-oxford-university-s-queen-s-college-over-a-scholarship-in-memory-of-the-slain-iranian-student-neda-agha-soltan.md)
 _Context: Iran, Neda Agha Soltan, Oxford University, Queen's College_

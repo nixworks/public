@@ -19,7 +19,7 @@ More than 100 arrests were reported today, the first anniversary of the Occupy W
 _Context: Australia, Rip Curl, surf wear_
 
 ### [Senkaku Islands dispute:Japanese electronics company Panasonic suspends operations at its three factories in the People's Republic of China until Tuesday as a result of the Senkaku Islands dispute. ](/news/2012/09/17/senkaku-islands-dispute-pjapanese-electronics-company-panasonic-suspends-operations-at-its-three-factories-in-the-people-s-republic-of-china.md)
-_Context: Japanese, Panasonic, People's Republic of China, Senkaku Islands dispute_
+_Context: Chinese, Japanese, Panasonic, Senkaku Islands dispute_
 
 ### [The United States and the People's Republic of China exchange WTO trade complaints: the US complaining of China's support for automotive exports, and China complaining of new U.S. duties on several of their products. ](/news/2012/09/17/the-united-states-and-the-people-s-republic-of-china-exchange-wto-trade-complaints-the-us-complaining-of-china-s-support-for-automotive-exp.md)
 President Barack Obama on Monday said the United States was challenging Chinese auto and auto-parts subsidies that threatened American jobs as he campaigned in Ohio, an auto manufacturing state that could be decisive in the November presidential election.
@@ -37,10 +37,10 @@ _Context: Indians, Jubail, Saudi Arabia_
 A ripped condom given to Swedish police by one of Julian Assange’s accusers does not contain the WikiLeaks founder’s DNA, forensic scientists have reportedly found.
 
 ### [United States and Japanese government officials agree to put a second missile defence system in Japan. ](/news/2012/09/17/united-states-and-japanese-government-officials-agree-to-put-a-second-missile-defence-system-in-japan.md)
-_Context: Japan, United States_
+_Context: Japan, U.S._
 
 ### [Nobel Laureate Aung San Suu Kyi begins a 17-day tour of the United States in a bid to help ease economic sanctions on Myanmar. ](/news/2012/09/17/nobel-laureate-aung-san-suu-kyi-begins-a-17-day-tour-of-the-united-states-in-a-bid-to-help-ease-economic-sanctions-on-myanmar.md)
-_Context: Aung San Suu Kyi, Myanmar, Nobel Laureate, United States_
+_Context: Aung San Suu Kyi, Myanmar, Nobel Laureate, U.S._
 
 ### [French police announce that they are exploring the possibility that Sylvain Mollier, and not the al-Hilli family, may have been the intended target in the Annecy murders. ](/news/2012/09/17/french-police-announce-that-they-are-exploring-the-possibility-that-sylvain-mollier-and-not-the-al-hilli-family-may-have-been-the-intended.md)
 A French cyclist who was shot dead alongside a British family in a massacre in the Alps may have been the &#034;main target&#034; of the massacre, police have suggested.

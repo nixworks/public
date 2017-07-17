@@ -28,7 +28,7 @@ For the first time since 1995 more people left Ireland than moved here, accordin
 _Context: Calais, France, migrants_
 
 ### [ China bans foreigners from entering Tibet, ahead of the 60th anniversary celebrations of the People's Republic. ](/news/2009/09/22/china-bans-foreigners-from-entering-tibet-ahead-of-the-60th-anniversary-celebrations-of-the-people-s-republic.md)
-_Context: 60th anniversary of the founding, People's Republic of China, Tibet Autonomous Region_
+_Context: 60th anniversary of the founding, Chinese, Tibet Autonomous Region_
 
 ### [ Taiwan shows a documentary on Uyghur leader Rebiya Kadeer, as the website of the Kaoshiung Film Festival is hacked. ](/news/2009/09/22/taiwan-shows-a-documentary-on-uyghur-leader-rebiya-kadeer-as-the-website-of-the-kaoshiung-film-festival-is-hacked.md)
 _Context: Kaoshiung, Rebiya Kadeer, Taiwan, Uyghur_
@@ -49,7 +49,7 @@ An estimated 49,000 people attended the National Ploughing Championship today.
 _Context: Attorney General for England and Wales, Patricia Scotland, Baroness Scotland of Asthal_
 
 ### [ For the first time in at least ten years, all United States embassies and consulates in South Africa are closed following an unspecified "security threat". ](/news/2009/09/22/for-the-first-time-in-at-least-ten-years-all-united-states-embassies-and-consulates-in-south-africa-are-closed-following-an-unspecified-s.md)
-_Context: South Africa, United States_
+_Context: South Africa, U.S._
 
 ### [ The New Zealand dollar soars to a 13-month high against both the U.S. dollar and euro. ](/news/2009/09/22/the-new-zealand-dollar-soars-to-a-13-month-high-against-both-the-u-s-dollar-and-euro.md)
 Basking in good economic news, the New Zealand dollar reached multi-month highs against major currencies overnight as the greenback weakened further. - New Zealand Herald

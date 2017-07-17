@@ -25,7 +25,7 @@ _Context: Augustine Geve, Harold Keke, Solomon Islands, life sentence_
 _Context: Democratic Republic of Congo, United Nations_
 
 ### [ The SMTH BBS, the most popular newsgroup-like Bulletin Board System among Chinese university students and graduates, is forced by the PRC government to shut down off-campus access. ](/news/2005/03/18/the-smth-bbs-the-most-popular-newsgroup-like-bulletin-board-system-among-chinese-university-students-and-graduates-is-forced-by-the-prc-g.md)
-_Context: Bulletin Board System, People's Republic of China, SMTH BBS, newsgroup_
+_Context: Bulletin Board System, Chinese, SMTH BBS, newsgroup_
 
 ### [ Private Johnson Beharry of the British Army becomes the first person to receive the Victoria Cross since 1982 and the first living recipient since 1969. ](/news/2005/03/18/private-johnson-beharry-of-the-british-army-becomes-the-first-person-to-receive-the-victoria-cross-since-1982-and-the-first-living-recipien.md)
 _Context: British Army, Johnson Beharry, Private, Victoria Cross_

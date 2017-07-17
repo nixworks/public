@@ -22,13 +22,13 @@ _Context: Australia, Mary MacKillop, Pope Benedict XVI, Saint Peter's Square, Va
 _Context: $50 billion government bailout, General Motors, Michigan, a new car plant, tax incentive_
 
 ### [Workers in Hilton Hotels in the US cities of Chicago, San Francisco, and Honolulu continue a strike over what they claim are efforts to "lock workers into cheap recession contracts." ](/news/2010/10/17/workers-in-hilton-hotels-in-the-us-cities-of-chicago-san-francisco-and-honolulu-continue-a-strike-over-what-they-claim-are-efforts-to-loc.md)
-_Context: Chicago, Hilton Hotels, Honolulu, San Francisco, United States, strike_
+_Context: Chicago, Hilton Hotels, Honolulu, San Francisco, U.S., strike_
 
 ### [The Philippines prepares for Typhoon Megi, potentially the strongest typhoon to hit the country this year. ](/news/2010/10/17/the-philippines-prepares-for-typhoon-megi-potentially-the-strongest-typhoon-to-hit-the-country-this-year.md)
 Authorities in the Philippines are preparing for the onslaught of Typhoon Megi, the tenth tropical cyclone and the strongest to hit the country this year.
 
 ### [Five more bodies are found after a gas leak in a coal mine in China's Henan province, bringing the death toll to 26. ](/news/2010/10/17/five-more-bodies-are-found-after-a-gas-leak-in-a-coal-mine-in-china-s-henan-province-bringing-the-death-toll-to-26.md)
-_Context: Henan, People's Republic of China, coal mine_
+_Context: Chinese, Henan, coal mine_
 
 ### [Israeli Prime Minister Benjamin Netanyahu says that Israel had recently renewed contacts with a German mediator to negotiate the release of a captured Israeli soldier, Staff Sgt. Gilad Shalit, who is being held incommunicado by Hamas. ](/news/2010/10/17/israeli-prime-minister-benjamin-netanyahu-says-that-israel-had-recently-renewed-contacts-with-a-german-mediator-to-negotiate-the-release-of.md)
 Prime Minister Benjamin Netanyahu said Israel renewed contacts with a German mediator to negotiate the release of a captured Israeli soldier, Staff Sgt. Gilad Shalit.

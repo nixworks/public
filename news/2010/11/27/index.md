@@ -1,7 +1,7 @@
 ## [2010-11-27](/news/2010/11/27/index.md)
 
 ### [Seven people are killed after steel box girders used for building an overpass overturn in Nanjing, China. ](/news/2010/11/27/seven-people-are-killed-after-steel-box-girders-used-for-building-an-overpass-overturn-in-nanjing-china.md)
-_Context: Nanjing, People's Republic of China_
+_Context: Chinese, Nanjing_
 
 ### [Christians flee from their homes in Saeedabad, Karachi, following violence sparked by a Muslim-Christian marriage. ](/news/2010/11/27/christians-flee-from-their-homes-in-saeedabad-karachi-following-violence-sparked-by-a-muslim-christian-marriage.md)
 _Context: Saeedabad, Karachi_
@@ -25,7 +25,7 @@ PAKISTANI Muslims have threatened anarchy if the Government pardons a Christian 
 _Context: 2010 presidential election, Cte d'Ivoire, Laurent Gbagbo_
 
 ### [Two Japanese ministers are censured by the House of Councillors over a territorial dispute with China. ](/news/2010/11/27/two-japanese-ministers-are-censured-by-the-house-of-councillors-over-a-territorial-dispute-with-china.md)
-_Context: House of Councillors, Japan, People's Republic of China, censured_
+_Context: Chinese, House of Councillors, Japan, censured_
 
 ### [Voters in the Australian state of Victoria go to the polls for the state election. ](/news/2010/11/27/voters-in-the-australian-state-of-victoria-go-to-the-polls-for-the-state-election.md)
 Like a stallion known for its strong final sprint, the Coalition has trailed Labor in all credible opinion polls for months - until now.

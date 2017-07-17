@@ -4,7 +4,7 @@
 _Context: Togo, death penalty_
 
 ### [ China blocks Google services. ](/news/2009/06/24/china-blocks-google-services.md)
-_Context: Google, People's Republic of China_
+_Context: Chinese, Google_
 
 ### [ A flute carved over 35,000 years ago, and thought to be the oldest musical instrument in the world, is unearthed in Germany. ](/news/2009/06/24/a-flute-carved-over-35-000-years-ago-and-thought-to-be-the-oldest-musical-instrument-in-the-world-is-unearthed-in-germany.md)
 Archaeologists said a bone flute and two fragments of ivory flutes discovered last fall represent the earliest known flowering of music-making in Stone Age culture.
@@ -22,7 +22,7 @@ At least 30 people have been killed in US missile strikes in the South Wazirista
 _Context: Liu Xiaobo, dissident, government, subverting_
 
 ### [ The United States is to send an ambassador to Syria after an absence of four years. ](/news/2009/06/24/the-united-states-is-to-send-an-ambassador-to-syria-after-an-absence-of-four-years.md)
-_Context: Syria, United States_
+_Context: Syria, U.S._
 
 ### [ A bomb kills two people and injures six others in Chechnya, Russia. ](/news/2009/06/24/a-bomb-kills-two-people-and-injures-six-others-in-chechnya-russia.md)
 _Context: Chechnya, Russia_

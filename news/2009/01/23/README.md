@@ -4,7 +4,7 @@
 _Context: Internet_
 
 ### [ New York Governor David Paterson appoints Kirsten Gillibrand to Hillary Clinton's vacated United States Senate seat. ](/news/2009/01/23/new-york-governor-david-paterson-appoints-kirsten-gillibrand-to-hillary-clinton-s-vacated-united-states-senate-seat.md)
-_Context: David Paterson, Hillary Clinton, Kirsten Gillibrand, New York, New York Governor, United States, United States Senate_
+_Context: David Paterson, Hillary Clinton, Kirsten Gillibrand, New York, New York Governor, U.S., United States Senate_
 
 ### [ Japan launches the world's first greenhouse-gas-monitoring satellite, ''Ibuki'', from the Tanegashima Space Center. ](/news/2009/01/23/japan-launches-the-world-s-first-greenhouse-gas-monitoring-satellite-ibuki-from-the-tanegashima-space-center.md)
 Japan launched a satellite onFriday to monitor greenhouse gases around the world in the hopethat the data it gathers will help global efforts to combatclimate change.
@@ -22,7 +22,7 @@ In a startling turn against its former ally, Rwanda has arrested Congo rebel lea
 _Context: Belgian, an attack, day-care center, stabbed_
 
 ### [ The 30-man crew of Chinese cargo ship ''Zhenhua 4'' receives US$10,000 each after repelling Somali pirates in the Gulf of Aden. ](/news/2009/01/23/the-30-man-crew-of-chinese-cargo-ship-zhenhua-4-receives-us-10-000-each-after-repelling-somali-pirates-in-the-gulf-of-aden.md)
-_Context: Gulf of Aden, People's Republic of China, Somali pirates, Somalia, US$, cargo ship_
+_Context: Chinese, Gulf of Aden, Somali pirates, Somalia, US$, cargo ship_
 
 ### [ The United Kingdom enters a recession. ](/news/2009/01/23/the-united-kingdom-enters-a-recession.md)
 _Context: UK, recession_

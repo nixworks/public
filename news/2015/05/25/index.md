@@ -22,7 +22,7 @@ At least 13 people died and dozens more were injured after a freak tornado rippe
 The searing heatwave in Andhra Pradesh and Telangana has killed 432 people so far with more deaths being reported on Monday as vast swathes of the country reeled under the unrelenting summer heat.
 
 ### [At least 38 people are killed and 6 injured in a nursing home fire in Lushan County of China's Henan Province. ](/news/2015/05/25/at-least-38-people-are-killed-and-6-injured-in-a-nursing-home-fire-in-lushan-county-of-china-s-henan-province.md)
-_Context: Henan Province, Lushan County, People's Republic of China, nursing home_
+_Context: Chinese, Henan Province, Lushan County, nursing home_
 
 ### [Emergency workers have recovered the final bodies from a collapsed gold mine in Colombia with 15 people recovered. ](/news/2015/05/25/emergency-workers-have-recovered-the-final-bodies-from-a-collapsed-gold-mine-in-colombia-with-15-people-recovered.md)
 _Context: Colombia, gold mine_
@@ -31,7 +31,7 @@ _Context: Colombia, gold mine_
 _Context: Malaysia, Philippines, a dispute regarding the ownership of Sabah_
 
 ### [The People's Republic of China lodges an official complaint with the United States over a flight by an alleged spy plane over parts of the South China Sea. ](/news/2015/05/25/the-people-s-republic-of-china-lodges-an-official-complaint-with-the-united-states-over-a-flight-by-an-alleged-spy-plane-over-parts-of-the-s.md)
-_Context: China, South China Sea, United States_
+_Context: China, South China Sea, U.S._
 
 ### [The government of Sudan denies allegations from South Sudan that it is supporting rebels threatening oil fields in its southern neighbour. ](/news/2015/05/25/the-government-of-sudan-denies-allegations-from-south-sudan-that-it-is-supporting-rebels-threatening-oil-fields-in-its-southern-neighbour.md)
 The Sudanese government has denied supporting rebels in South Sudan after it accused Khartoum of supplying arms to the insurgents threatening its oil fields.

@@ -64,13 +64,13 @@ Israel suspends transfer of $89m to Palestinian Authority in view of recent unit
 Opening Rafah would help Hamas build a formidable terrorist military machine, a government source says.
 
 ### [It is reported that the United States has denied the United Nations access to imprisoned serviceman Bradley Manning whom the U.S. accuses of disclosing government information to the general public. ](/news/2011/05/1/it-is-reported-that-the-united-states-has-denied-the-united-nations-access-to-imprisoned-serviceman-bradley-manning-whom-the-u-s-accuses-of.md)
-_Context: Bradley Manning, United Nations, United States_
+_Context: Bradley Manning, U.S., United Nations_
 
 ### [German officials say they have foiled a terror plot with the arrest of three suspected al-Qaeda bomb-makers. ](/news/2011/05/1/german-officials-say-they-have-foiled-a-terror-plot-with-the-arrest-of-three-suspected-al-qaeda-bomb-makers.md)
 _Context: Police, al-Qaeda_
 
 ### [China outlaws smoking in public places, affecting one third of smokers internationally. ](/news/2011/05/1/china-outlaws-smoking-in-public-places-affecting-one-third-of-smokers-internationally.md)
-_Context: People's Republic of China, tobacco smoking_
+_Context: Chinese, tobacco smoking_
 
 ### [Iranian President Mahmoud Ahmadinejad is to end a boycott of official duties, amid an apparent rift with the Supreme Leader Ayatollah Ali Khamenei. ](/news/2011/05/1/iranian-president-mahmoud-ahmadinejad-is-to-end-a-boycott-of-official-duties-amid-an-apparent-rift-with-the-supreme-leader-ayatollah-ali-kh.md)
 Mahmoud Ahmadinejad has been boycotting cabinet sessions since intelligence minister was reinstated by supreme leader.

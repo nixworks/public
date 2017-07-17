@@ -10,7 +10,7 @@ China said Wednesday its politically sensitive trade surplus hit a record high i
 Democrat Amy Klobuchar sailed to an easy victory in the U.S. Senate race Tuesday, capitalizing on voter anger over the Iraq war to become Minnesota&#039;s first elected female senator. 
 
 ### [ Dr. Margaret Chan, former director of Hong Kong Health Department, represented China to win the nomination to the Director-General of the World Health Organization. ](/news/2006/11/8/dr-margaret-chan-former-director-of-hong-kong-health-department-represented-china-to-win-the-nomination-to-the-director-general-of-the-w.md)
-_Context: Health Department, Hong Kong, Margaret Chan, People's Republic of China, World Health Organization_
+_Context: Chinese, Health Department, Hong Kong, Margaret Chan, World Health Organization_
 
 ### [ At least 42 people die and 20 people are injured in a bomb blast outside an army training centre in north-west Pakistan. ](/news/2006/11/8/at-least-42-people-die-and-20-people-are-injured-in-a-bomb-blast-outside-an-army-training-centre-in-north-west-pakistan.md)
 _Context: Pakistan_

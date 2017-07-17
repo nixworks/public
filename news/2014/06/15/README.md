@@ -10,7 +10,7 @@ A comprehensive operation against terrorists is being launched upon direction of
 _Context: Aden, Yemen's_
 
 ### [2014 Northern Iraq offensive:The United States evacuates personnel from its embassy in Baghdad as Islamic State in Iraq and the Levant nears the city. ](/news/2014/06/15/2014-northern-iraq-offensive-pthe-united-states-evacuates-personnel-from-its-embassy-in-baghdad-as-islamic-state-in-iraq-and-the-levant-near.md)
-_Context: 2014 Northern Iraq offensive, Baghdad, Islamic State in Iraq and the Levant, United States_
+_Context: 2014 Northern Iraq offensive, Baghdad, Islamic State in Iraq and the Levant, U.S._
 
 ### [Islamist militants kill dozens of people in the Kenyan town of Mpeketoni in the Lamu Archipelago in a four hour series of attacks on hotels. ](/news/2014/06/15/islamist-militants-kill-dozens-of-people-in-the-kenyan-town-of-mpeketoni-in-the-lamu-archipelago-in-a-four-hour-series-of-attacks-on-hotels.md)
 Attackers flying flags of Somalia&#039;s al-Shabaab carry out deadliest attack on Kenyan soil since Westgate mall, targeting hotels and businesses near resort island

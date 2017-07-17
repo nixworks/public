@@ -22,7 +22,7 @@ Read the latest World and International news headlines from Sky News Australia. 
 Previous reports of Comet ISON&#x27;s death may have been somewhat exaggerated, but this time it looks like the real thing.Remnants of the object once touted as the &quot;comet of the century&quot; passed through the viewing field of the Solar and Heliospheric Observatory in the wake of Thursday&#x27;s close encounter with the sun — and as it passed, the bright spot that survived grew dimmer and dimmer.
 
 ### [China launches the Chang'e 3 lunar probe incorporating a robotic lander and Jade Rabbit rover. ](/news/2013/12/1/china-launches-the-chang-e-3-lunar-probe-incorporating-a-robotic-lander-and-jade-rabbit-rover.md)
-_Context: Chang'e 3, Jade Rabbit, People's Republic of China, lander, rover_
+_Context: Chang'e 3, Chinese, Jade Rabbit, lander, rover_
 
 ## [Previous Day...](/news/2013/11/30/index.md)
 

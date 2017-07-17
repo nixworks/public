@@ -1,22 +1,22 @@
 ## [2009-03-4](/news/2009/03/4/index.md)
 
 ### [ Venezuelan President Hugo Chvez orders the nationalization of United States-based food company Cargill. ](/news/2009/03/4/venezuelan-president-hugo-chavez-orders-the-nationalization-of-united-states-based-food-company-cargill.md)
-_Context: Cargill, Hugo Chvez, United States, Venezuela, Venezuelan President, food company, nationalizes_
+_Context: Cargill, Hugo Chvez, U.S., Venezuela, Venezuelan President, food company, nationalizes_
 
 ### [ A riot at a prison near Ciudad Jurez, Mexico, kills at least 20 inmates and injures seven others. ](/news/2009/03/4/a-riot-at-a-prison-near-ciudad-juarez-mexico-kills-at-least-20-inmates-and-injures-seven-others.md)
 _Context: Juarez, Mexico, prison, riot_
 
 ### [ Gordon Brown becomes the United Kingdom's fifth Prime Minister to address a joint session of the U.S. Congress. ](/news/2009/03/4/gordon-brown-becomes-the-united-kingdom-s-fifth-prime-minister-to-address-a-joint-session-of-the-u-s-congress.md)
-_Context: Gordon Brown, Prime Minister, UK, United States, United States Congress, joint session of Congress_
+_Context: Gordon Brown, Prime Minister, U.S., UK, United States Congress, joint session of Congress_
 
 ### [ President Nicolas Sarkozy and eight other top French politicians receive death threats. ](/news/2009/03/4/president-nicolas-sarkozy-and-eight-other-top-french-politicians-receive-death-threats.md)
 _Context: France, Nicolas Sarkozy, President of France, death threat, politician_
 
 ### [ China plans to increase its military budget by 14.9% in 2009. ](/news/2009/03/4/china-plans-to-increase-its-military-budget-by-14-9-in-2009.md)
-_Context: People's Republic of China, military budget_
+_Context: Chinese, military budget_
 
 ### [ U.S. Secretary of State Hillary Clinton and Palestinian National Authority President Mahmoud Abbas meet in the West Bank. ](/news/2009/03/4/u-s-secretary-of-state-hillary-clinton-and-palestinian-national-authority-president-mahmoud-abbas-meet-in-the-west-bank.md)
-_Context: Hillary Clinton, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, United States, United States Secretary of State, West Bank_
+_Context: Hillary Clinton, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, U.S., United States Secretary of State, West Bank_
 
 ### [ President Asif Ali Zardari says Pakistan will not negotiate with the "extremist Taliban and terrorists." ](/news/2009/03/4/president-asif-ali-zardari-says-pakistan-will-not-negotiate-with-the-extremist-taliban-and-terrorists.md)
 _Context: Asif Ali Zardari, Pakistan, President, Taliban, extremist, negotiation, terrorism_

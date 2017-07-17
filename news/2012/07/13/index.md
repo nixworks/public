@@ -4,7 +4,7 @@
 A jetliner bound for Madrid returned to Kennedy Airport as a precaution Thursday evening after a passenger reported strange wiring in the bathroom, but no explosive device was found, law enforcement officials...
 
 ### [Bedouin men kidnap two tourists from the United States and their guide in Egypt's Sinai region and demand the release of a jailed tribesman for their return. ](/news/2012/07/13/bedouin-men-kidnap-two-tourists-from-the-united-states-and-their-guide-in-egypt-s-sinai-region-and-demand-the-release-of-a-jailed-tribesman.md)
-_Context: Bedouin, Egypt, Sinai, United States_
+_Context: Bedouin, Egypt, Sinai, U.S._
 
 ### [Cambodian troops aim machine gun fire at a Thai passenger jet, saying they believed it to be a spy plane, but do not hit the plane. ](/news/2012/07/13/cambodian-troops-aim-machine-gun-fire-at-a-thai-passenger-jet-saying-they-believed-it-to-be-a-spy-plane-but-do-not-hit-the-plane.md)
 _Context: Cambodia, Thai passenger jet, machine gun_
@@ -31,7 +31,7 @@ _Context: Italian, Moody's Investor Services_
 With the scandal over alleged manipulation of a critical global interest rate threatening to migrate from London to Washington, pressure is growing on one former banking regulator to explain what he knew and when: Treasury Secretary Timothy F. Geithner.
 
 ### [The economic growth rate for the People's Republic of China falls to 7.6 per cent, its lowest level in three years. ](/news/2012/07/13/the-economic-growth-rate-for-the-people-s-republic-of-china-falls-to-7-6-per-cent-its-lowest-level-in-three-years.md)
-_Context: People's Republic of China, economic growth_
+_Context: Chinese, economic growth_
 
 ### [The Federal Aviation Administration fines Boeing $13.5 million for failing to provide fuel tank flammability instructions by designated deadline. ](/news/2012/07/13/the-federal-aviation-administration-fines-boeing-13-5-million-for-failing-to-provide-fuel-tank-flammability-instructions-by-designated-dead.md)
 _Context: Boeing, Federal Aviation Administration_

@@ -7,7 +7,7 @@ _Context: Belgian Prime Minister, Yves Leterme_
 U.S. Vice President Dick Cheney visited Afghanistan on Thursday and met President Hamid Karzai ahead of a NATO summit where Washington will urge its allies to send more troops to the country.
 
 ### [ 2008 unrest in Tibet: The Xinhua news agency reports for the first time that protests have spread to neighbouring provinces of Sichuan and Gansu as the Chinese authorities attempt to regain control. ](/news/2008/03/20/2008-unrest-in-tibet-p-the-xinhua-news-agency-reports-for-the-first-time-that-protests-have-spread-to-neighbouring-provinces-of-sichuan-and.md)
-_Context: 2008 unrest in Tibet, Gansu, People's Republic of China, Sichuan, Xinhua_
+_Context: 2008 unrest in Tibet, Chinese, Gansu, Sichuan, Xinhua_
 
 ## [Previous Day...](/news/2008/03/19/index.md)
 

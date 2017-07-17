@@ -19,7 +19,7 @@ Eurozone finance ministers agree to release a further 12bn euros of emergency ai
 _Context: Australia, Civil Aviation Safety Authority, Tiger Airways_
 
 ### [3 coal miners are killed and 40 others are trapped in separate incidents in the People's Republic of China. ](/news/2011/07/2/3-coal-miners-are-killed-and-40-others-are-trapped-in-separate-incidents-in-the-people-s-republic-of-china.md)
-_Context: People's Republic of China, coal mine_
+_Context: Chinese, coal mine_
 
 ### [Mexican authorities have confirmed 11 deaths from Tropical Storm Arlene. ](/news/2011/07/2/mexican-authorities-have-confirmed-11-deaths-from-tropical-storm-arlene.md)
 Mexican authorities have confirmed 11 deaths from Tropical Storm Arlene and the aftermath of floods, mudslides and overflowing rivers.

@@ -28,13 +28,13 @@ _Context: Van Gogh_
 _Context: Central Bank of Egypt, Protesters, bank_
 
 ### [China records a trade surplus of $6.5 billion for January, less than expected. ](/news/2011/02/14/china-records-a-trade-surplus-of-6-5-billion-for-january-less-than-expected.md)
-_Context: January, People's Republic of China, trade surplus_
+_Context: Chinese, January, trade surplus_
 
 ### [A court in the city of Lago Agrio, on behalf of 30,000 Ecuadorean people, orders United States oil company Chevron to pay more than $8 billion in environmental damages for dumping wastewater in the Amazon River twenty years ago. ](/news/2011/02/14/a-court-in-the-city-of-lago-agrio-on-behalf-of-30-000-ecuadorean-people-orders-united-states-oil-company-chevron-to-pay-more-than-8-billi.md)
 An Ecuadorean lawyer for theplaintiffs said on Monday that a court in the Amazon city of LagoAgrio had ordered U.S. oil giant Chevron (CVX.N) to pay more than$8 billion in environmental damages.
 
 ### [General Motors announces that it will pay its United States hourly workers more than $4000 each as a share of profits. ](/news/2011/02/14/general-motors-announces-that-it-will-pay-its-united-states-hourly-workers-more-than-4000-each-as-a-share-of-profits.md)
-_Context: General Motors, United States, hourly worker, profit_
+_Context: General Motors, U.S., hourly worker, profit_
 
 ### [Eurozone finance ministers agree to set up a permanent bail-out fund of EUR500 billion - the European Stability Mechanism (ESM). This replaces the European Financial Stability Facility (EFSF). ](/news/2011/02/14/eurozone-finance-ministers-agree-to-set-up-a-permanent-bail-out-fund-of-a-500-billion-the-european-stability-mechanism-esm-this-replac.md)
 Eurozone leaders agree to set up a new bail-out fund of 500bn euros - almost double the current amount that can be lent.

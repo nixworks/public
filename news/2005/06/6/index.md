@@ -37,10 +37,10 @@ _Context: Bolivia_
 _Context: Bougainville Island, Joseph Kabui, autonomous government_
 
 ### [ In Australia, Chinese defector Chen Yonglin claims that the Australian government rejected his request for political asylum without interviewing him. China states that his claims about a large espionage ring in Australia are false ](/news/2005/06/6/in-australia-chinese-defector-chen-yonglin-claims-that-the-australian-government-rejected-his-request-for-political-asylum-without-intervi.md)
-_Context: Australia, Chen Yonglin, People's Republic of China, espionage, political asylum_
+_Context: Australia, Chen Yonglin, Chinese, espionage, political asylum_
 
 ### [ In Washington state, United States, the battle over the results of the 2004 gubernatorial election is settled by a county judge, approving the final count in favor of Christine Gregoire.](/news/2005/06/6/in-washington-state-united-states-the-battle-over-the-results-of-the-2004-gubernatorial-election-is-settled-by-a-county-judge-approving.md)
-_Context: 2004 gubernatorial election, Christine Gregoire, United States, Washington_
+_Context: 2004 gubernatorial election, Christine Gregoire, U.S., Washington_
 
 ## [Previous Day...](/news/2005/06/5/index.md)
 

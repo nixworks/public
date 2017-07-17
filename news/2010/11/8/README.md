@@ -31,7 +31,7 @@ Australian airline Qantas says it is keeping its Airbus A380s grounded for furth
 _Context: DHL, Greece, Yemen bomb attacks, parcel bomb_
 
 ### [A government conservation campaign, and possible hoarding by state oil companies, causes a severe shortage on diesel fuel in the People's Republic of China, disrupting industry and commerce. ](/news/2010/11/8/a-government-conservation-campaign-and-possible-hoarding-by-state-oil-companies-causes-a-severe-shortage-on-diesel-fuel-in-the-people-s-re.md)
-_Context: People's Republic of China, diesel fuel_
+_Context: Chinese, diesel fuel_
 
 ### [At least 120 people are tested for cholera in the capital of Haiti, Port-au-Prince. ](/news/2010/11/8/at-least-120-people-are-tested-for-cholera-in-the-capital-of-haiti-port-au-prince.md)
 _Context: Haiti, Port-au-Prince, worst epidemic of cholera_
@@ -55,7 +55,7 @@ _Context: Obama Administration, Somalia, Yemen bomb attacks_
 Israel reveals plans to build nearly 1,300 housing units for Jewish settlers in occupied East Jerusalem.
 
 ### [The United States offers to drop Sudan from its list of "state sponsors of terrorism", ending its isolation, if two scheduled referendums take place with respected results. ](/news/2010/11/8/the-united-states-offers-to-drop-sudan-from-its-list-of-state-sponsors-of-terrorism-ending-its-isolation-if-two-scheduled-referendums-ta.md)
-_Context: Sudan, United States_
+_Context: Sudan, U.S._
 
 ### [Libyan authorities arrest 10 reporters apparently for criticizing Libya's leadership. ](/news/2010/11/8/libyan-authorities-arrest-10-reporters-apparently-for-criticizing-libya-s-leadership.md)
 _Context: Libya_
@@ -85,7 +85,7 @@ _Context: Constitution, Indigenous, Julia Gillard, Prime Minister of Australia, 
 _Context: Ba Ria-Vung Tau Province, Leiolepis ngovantrii, Vietnam Academy of Science and Technology, cloning_
 
 ### [Chinese Premier Wen Jiabao unveils pictures of the moon's Sinus Iridum, or Bay of Rainbows, taken during China's Chang`e-2 lunar probe mission. ](/news/2010/11/8/chinese-premier-wen-jiabao-unveils-pictures-of-the-moon-s-sinus-iridum-or-bay-of-rainbows-taken-during-china-s-chang-e-2-lunar-probe-missi.md)
-_Context: Chang'e 2, Moon, People's Republic of China, Sinus Iridum, Wen Jiabao_
+_Context: Chang'e 2, Chinese, Moon, Sinus Iridum, Wen Jiabao_
 
 ## [Previous Day...](/news/2010/11/7/index.md)
 

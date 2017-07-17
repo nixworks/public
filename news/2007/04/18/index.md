@@ -13,7 +13,7 @@ _Context: International Atomic Energy Agency, Iran, Natanz, centrifuge, diplomat
 _Context: Gonzales v. Carhart, Partial-Birth Abortion Ban Act, U.S. Supreme Court_
 
 ### [ Virginia Tech massacre: Virginia Tech police respond to what turned out to be an unfounded threat near Norris Hall, where 31 people died Monday in the United States's deadliest ever shooting spree. ](/news/2007/04/18/virginia-tech-massacre-p-virginia-tech-police-respond-to-what-turned-out-to-be-an-unfounded-threat-near-norris-hall-where-31-people-died-m.md)
-_Context: United States, Virginia Tech, massacre, shooting spree_
+_Context: U.S., Virginia Tech, massacre, shooting spree_
 
 ### [ Iraqi insurgency: At least 198 people are confirmed dead after a series of bombings in Baghdad. ](/news/2007/04/18/iraqi-insurgency-p-at-least-198-people-are-confirmed-dead-after-a-series-of-bombings-in-baghdad.md)
 _Context: Baghdad, Iraqi insurgency, series of bombings_
@@ -25,13 +25,13 @@ _Context: Al Jizah, Egypt, governorates, secondary school, truck_
 _Context: Bible, Turkey, sectarian_
 
 ### [ Australia and the United States agree to exchange hundreds of asylum seekers kept in offshore detention camps in Nauru and Guantanamo Bay. ](/news/2007/04/18/australia-and-the-united-states-agree-to-exchange-hundreds-of-asylum-seekers-kept-in-offshore-detention-camps-in-nauru-and-guantanamo-bay.md)
-_Context: Australia, Guantanamo Bay Detention Camp, Nauru, United States, asylum seeker_
+_Context: Australia, Guantanamo Bay Detention Camp, Nauru, U.S., asylum seeker_
 
 ### [ Iccho Itoh, Mayor of Nagasaki, Japan, dies after being shot in a suspected gangland killing on Tuesday. Japanese Prime Minister Shinzo Abe denounces the murder as unforgivable. ](/news/2007/04/18/iccho-itoh-mayor-of-nagasaki-japan-dies-after-being-shot-in-a-suspected-gangland-killing-on-tuesday-japanese-prime-minister-shinzo-abe.md)
 The mayor of the Japanese city of Nagasaki died early on Wednesday after being gunned down by a suspected gangster, stunning a nation where shootings are extremely rare.
 
 ### [ The People's Republic of China begins a new service of high-speed trains capable of reaching speeds of 200km/h (124 mph). ](/news/2007/04/18/the-people-s-republic-of-china-begins-a-new-service-of-high-speed-trains-capable-of-reaching-speeds-of-200km-h-124-mph.md)
-_Context: People's Republic of China, high-speed rail_
+_Context: Chinese, high-speed rail_
 
 ### [ Thirty-two steel workers are killed and two more injured in China after a ladle full of liquid steel failed, engulfing an adjacent room full of workers. ](/news/2007/04/18/thirty-two-steel-workers-are-killed-and-two-more-injured-in-china-after-a-ladle-full-of-liquid-steel-failed-engulfing-an-adjacent-room-ful.md)
 _Context: China, ladle_

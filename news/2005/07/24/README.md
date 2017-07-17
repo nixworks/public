@@ -16,7 +16,7 @@ _Context: Baghdad, Conflict in Iraq, Iraq, capital, civilian, police station, su
 Two civilians murdered, three injured when gunmen ambush Israeli vehicle near Gaza border; attack coincided with visit by U.S. Secretary of State Condoleezza Rice
 
 ### [ American cyclist and cancer survivor Lance Armstrong wins his seventh consecutive Tour de France. Armstrong has announced that this will be his last tour and he will be retiring from the sport. ](/news/2005/07/24/american-cyclist-and-cancer-survivor-lance-armstrong-wins-his-seventh-consecutive-tour-de-france-armstrong-has-announced-that-this-will-be.md)
-_Context: American, Lance Armstrong, Tour de France, cancer, cyclist_
+_Context: Lance Armstrong, Tour de France, United States of America, cancer, cyclist_
 
 ### [ The United States wins the 2005 CONCACAF Gold Cup, defeating Panama after two overtime rounds and a penalty shootout. ](/news/2005/07/24/the-united-states-wins-the-2005-concacaf-gold-cup-defeating-panama-after-two-overtime-rounds-and-a-penalty-shootout.md)
 _Context: 2005 CONCACAF Gold Cup_

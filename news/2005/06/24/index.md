@@ -9,7 +9,7 @@ _Context: Yuma, Arizona, hospital_
 _Context: Pension Benefit Guaranty Corporation, United Airlines, United States House of Representatives_
 
 ### [ An Italian judge ordering the arrest of 13 people linked to the CIA on charges of kidnapping terrorism suspect Abu Omar allegedly in order to have him tortured in Egypt dramatizes a growing rift between the U.S. and its allies in the War on Terrorism. ](/news/2005/06/24/an-italian-judge-ordering-the-arrest-of-13-people-linked-to-the-cia-on-charges-of-kidnapping-terrorism-suspect-abu-omar-allegedly-in-order.md)
-_Context: Egypt, Hassan Mustafa Osama Nasr, Italian, United States, War on Terrorism, torture_
+_Context: Egypt, Hassan Mustafa Osama Nasr, Italian, U.S., War on Terrorism, torture_
 
 ### [ Ohio Governor Bob Taft says he will not resign, despite ethical questions around him and his administration. ](/news/2005/06/24/ohio-governor-bob-taft-says-he-will-not-resign-despite-ethical-questions-around-him-and-his-administration.md)
 _Context: Bob Taft, Governor of Ohio, Ohio_
@@ -24,7 +24,7 @@ _Context: Chief Executive, Donald Tsang, Great Hall of the People, appointment b
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In China, death toll in summer floods has risen to 536 ](/news/2005/06/24/in-china-death-toll-in-summer-floods-has-risen-to-536.md)
-_Context: People's Republic of China_
+_Context: Chinese_
 
 ### [ In the Indian state of Bihar, Maoist rebels clash with police, leaving at least 21 people dead. ](/news/2005/06/24/in-the-indian-state-of-bihar-maoist-rebels-clash-with-police-leaving-at-least-21-people-dead.md)
 _Context: Bihar, India, Indian state, Maoist, police_

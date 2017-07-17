@@ -7,7 +7,7 @@ _Context: HIV, Uganda, circumcision_
 _Context: North Korea, United Nations, United Nations Security Council_
 
 ### [ China's GDP grows 7.9% year by year in the second quarter of 2009, despite the global economic crisis. ](/news/2009/07/16/china-s-gdp-grows-7-9-year-by-year-in-the-second-quarter-of-2009-despite-the-global-economic-crisis.md)
-_Context: GDP, People's Republic of China, global economic crisis_
+_Context: Chinese, GDP, global economic crisis_
 
 ### [ Gholam Reza Aghazadeh, head of the Atomic Energy Organization of Iran and Vice President of Iran, resigns for unknown reasons. ](/news/2009/07/16/gholam-reza-aghazadeh-head-of-the-atomic-energy-organization-of-iran-and-vice-president-of-iran-resigns-for-unknown-reasons.md)
 _Context: First Vice President, Gholam Reza Aghazadeh, Iran nuclear chief_
@@ -31,13 +31,13 @@ _Context: Honduras, Jose Manuel Zelaya, President, Roberto Micheletti_
 _Context: Ali Bongo Ondimba, Omar Bongo, disputed presidential election_
 
 ### [ Chinese athletes withdraw from the opening ceremony of the World Games but say they will compete. ](/news/2009/07/16/chinese-athletes-withdraw-from-the-opening-ceremony-of-the-world-games-but-say-they-will-compete.md)
-_Context: People's Republic of China, World Games_
+_Context: Chinese, World Games_
 
 ### [ A magnitude 6.1 earthquake occurs off the coast of Papua New Guinea but causes little damage. ](/news/2009/07/16/a-magnitude-6-1-earthquake-occurs-off-the-coast-of-papua-new-guinea-but-causes-little-damage.md)
 A magnitude 6.1 quake has struck off the coast of Papua New Guinea, but appears to have done little damage.
 
 ### [ The 110-story Sears Tower in Chicago, United States is renamed the Willis Tower. ](/news/2009/07/16/the-110-story-sears-tower-in-chicago-united-states-is-renamed-the-willis-tower.md)
-_Context: Chicago, Sears Tower, United States, Willis Tower_
+_Context: Chicago, Sears Tower, U.S., Willis Tower_
 
 ### [ The black boxes from crashed Caspian Airlines Flight 7908 in Iran are recovered. ](/news/2009/07/16/the-black-boxes-from-crashed-caspian-airlines-flight-7908-in-iran-are-recovered.md)
 _Context: Caspian Airlines, Flight 7908, Iran, flight data recorder_

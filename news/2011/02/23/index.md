@@ -22,7 +22,7 @@ OIL PRICES have risen to fresh two-year highs near $US96 a barrel in Asia amid t
 _Context: Japan, trade deficit_
 
 ### [Stock markets in the United States and Europe fall due to uncertainty in the Middle East and rising oil prices. ](/news/2011/02/23/stock-markets-in-the-united-states-and-europe-fall-due-to-uncertainty-in-the-middle-east-and-rising-oil-prices.md)
-_Context: Europe, Middle East, United States, stock market_
+_Context: Europe, Middle East, U.S., stock market_
 
 ### [2011 Canterbury earthquake:300 persons are estimated to be still missing in Christchurch, New Zealand, following yesterday's earthquake with the official death toll reaching 75. ](/news/2011/02/23/2011-canterbury-earthquake-p300-persons-are-estimated-to-be-still-missing-in-christchurch-new-zealand-following-yesterday-s-earthquake-wit.md)
 10.58pm That concludes our Christchurch earthquake updates for this evening. They will resume from early tomorrow morning. - New Zealand Herald
@@ -31,16 +31,16 @@ _Context: Europe, Middle East, United States, stock market_
 Romanian weather officials announced on Wednesday that snow and wind will intensify across the country starting February 23, 11 p.m. until Friday, 18 p.m.
 
 ### [President of the Philippines Benigno Aquino says the country has not resolved a row with Taiwan over deportations. ](/news/2011/02/23/president-of-the-philippines-benigno-aquino-says-the-country-has-not-resolved-a-row-with-taiwan-over-deportations.md)
-_Context: Benigno Aquino III, Philippine president, Taiwan_
+_Context: Benigno "Noynoy" Aquino III, President of the Philippines, Taiwan_
 
 ### [Senegal severs diplomatic relations with Iran, accusing it of supplying weapons to anti-government rebels that killed Senegalese soldiers. ](/news/2011/02/23/senegal-severs-diplomatic-relations-with-iran-accusing-it-of-supplying-weapons-to-anti-government-rebels-that-killed-senegalese-soldiers.md)
 _Context: Iran, Senegal, diplomatic relations_
 
 ### [The People's Republic of China refuses to let the United Nations Security Council publish a report on North Korea's efforts to avoid sanctions on its nuclear program. ](/news/2011/02/23/the-people-s-republic-of-china-refuses-to-let-the-united-nations-security-council-publish-a-report-on-north-korea-s-efforts-to-avoid-sanctio.md)
-_Context: North Korea, North Korea and weapons of mass destruction, People's Republic of China, United Nations Security Council, sanctions_
+_Context: Chinese, North Korea, North Korea and weapons of mass destruction, United Nations Security Council, sanctions_
 
 ### [Four men from Xinjiang in western China are to be executed following convictions for terrorism in the region last year. ](/news/2011/02/23/four-men-from-xinjiang-in-western-china-are-to-be-executed-following-convictions-for-terrorism-in-the-region-last-year.md)
-_Context: People's Republic of China, Xinjiang_
+_Context: Chinese, Xinjiang_
 
 ### [Thai police seize six tiger cubs at the house of a suspected weapons dealer. ](/news/2011/02/23/thai-police-seize-six-tiger-cubs-at-the-house-of-a-suspected-weapons-dealer.md)
 _Context: Thailand, tiger_

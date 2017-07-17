@@ -19,7 +19,7 @@ _Context: Taipei, Taiwan_
 _Context: Africa, Mass, Pope Benedict XVI, Rome, Vatican, bishop, synod_
 
 ### [ Chinese Premier Wen Jiabao commences his three-day visit to North Korea, and is greeted at the airport by ailing leader Kim Jong-il. ](/news/2009/10/4/chinese-premier-wen-jiabao-commences-his-three-day-visit-to-north-korea-and-is-greeted-at-the-airport-by-ailing-leader-kim-jong-il.md)
-_Context: Kim Jong-il, North Korea, People's Republic of China, Premier, Wen Jiabao_
+_Context: Chinese, Kim Jong-il, North Korea, Premier, Wen Jiabao_
 
 ### [ The British and French governments announce a "historic" PS2.5 billion allocation to the International Monetary Fund to help less wealthy countries. ](/news/2009/10/4/the-british-and-french-governments-announce-a-historic-aps2-5-billion-allocation-to-the-international-monetary-fund-to-help-less-wealthy-c.md)
 _Context: France, International Monetary Fund, UK_

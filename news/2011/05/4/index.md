@@ -58,7 +58,7 @@ An American hiker released last year from an Iranian prison said Wednesday she w
 Two Rwandan rebel leaders went on trial in Germany on Wednesday on charges of crimes against humanity, war crimes and being members of a foreign terrorist group, a court statement said.
 
 ### [China announces the creation of a State Internet Information Office to 'direct, coordinate, and supervise' online content management, prompting fears that online censorship will grow even more stringent. ](/news/2011/05/4/china-announces-the-creation-of-a-state-internet-information-office-to-direct-coordinate-and-supervise-online-content-management-prompt.md)
-_Context: People's Republic of China, State Internet Information Office, blocks mentions_
+_Context: Chinese, State Internet Information Office, blocks mentions_
 
 ### [The United States House of Representatives passes the "No Taxpayer Funding for Abortion Act" banning the direct Federal funding of abortions. ](/news/2011/05/4/the-united-states-house-of-representatives-passes-the-no-taxpayer-funding-for-abortion-act-banning-the-direct-federal-funding-of-abortions.md)
 The Republican-led House passed a bill today to restrict taxpayer funding of abortions, as well as tax credits for private insurance plans that cover abortion

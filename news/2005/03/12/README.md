@@ -4,7 +4,7 @@
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ The State Council of the People's Republic of China approves the resignation of Hong Kong's Chief Executive Tung Chee-Hwa, who then becomes a vice-chairman of the Political Consultative Conference, an advisory body. ](/news/2005/03/12/the-state-council-of-the-people-s-republic-of-china-approves-the-resignation-of-hong-kong-s-chief-executive-tung-chee-hwa-who-then-becomes.md)
-_Context: Chief Executive, China's State Council, Chinese People's Political Consultative Conference, Hong Kong, People's Republic of China, Tung Chee-Hwa, resignation_
+_Context: Chief Executive, China's State Council, Chinese, Chinese People's Political Consultative Conference, Hong Kong, Tung Chee-Hwa, resignation_
 
 ### [ Ukraine begins to pull its troops out of Iraq. ](/news/2005/03/12/ukraine-begins-to-pull-its-troops-out-of-iraq.md)
 _Context: Iraq, Ukrainian_

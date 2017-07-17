@@ -11,7 +11,7 @@ Ecuador is evacuating people from towns and villages around the Tungurahua volca
 Two people were killed and dozens injured when a Russian airliner rolled off the runway during an emergency landing at a Moscow airport on Saturday. A Tu-154 plane with 160 passengers and eight crew m
 
 ### [10 Chinese sailors are missing and 14 others are rescued after the cargo ship MV Hong Wei founders off the southeast coast of China. ](/news/2010/12/4/10-chinese-sailors-are-missing-and-14-others-are-rescued-after-the-cargo-ship-mv-hong-wei-founders-off-the-southeast-coast-of-china.md)
-_Context: China, MV Hong Wei, People's Republic of China, cargo ship_
+_Context: China, Chinese, MV Hong Wei, cargo ship_
 
 ### [Israeli police say negligence caused a large forest fire burning out of control in the north of the country that killed at least 40 people. ](/news/2010/12/4/israeli-police-say-negligence-caused-a-large-forest-fire-burning-out-of-control-in-the-north-of-the-country-that-killed-at-least-40-people.md)
 Negligence, not arson, is the likely cause of the deadly forest fire burning out of control in Mount Carmel, near the northern port city of Haifa, police say.
@@ -32,7 +32,7 @@ _Context: Internet addiction, South Korea_
 _Context: China Academy of Telecommunication Research, China Daily, hackers, online fraud_
 
 ### [Three people are arrested in China's Guangdong Province in relation to a $90 million gold heist, the biggest in Hong Kong history. ](/news/2010/12/4/three-people-are-arrested-in-china-s-guangdong-province-in-relation-to-a-90-million-gold-heist-the-biggest-in-hong-kong-history.md)
-_Context: Guangdong province, Hong Kong, People's Republic of China_
+_Context: Chinese, Guangdong province, Hong Kong_
 
 ### [Ivorian political crisis:A swearing-in ceremony for Laurent Gbagbo takes place in Cte d'Ivoire, although world leaders and the election commission back Alassane Ouattara as winner of the presidential election. ](/news/2010/12/4/ivorian-political-crisis-pa-swearing-in-ceremony-for-laurent-gbagbo-takes-place-in-cote-d-ivoire-although-world-leaders-and-the-election-co.md)
 Ivory Coast is in a deep political crisis, as rival presidential candidates both swear themselves in after a disputed poll.

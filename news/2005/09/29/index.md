@@ -10,13 +10,13 @@ _Context: CIA, CIA leak scandal, Judith Miller, The New York Times, Valerie Plam
 _Context: Algeria, Algerian Civil War_
 
 ### [ The People's Republic of China Government unveils their new official Internet website, now to be found at ](/news/2005/09/29/the-people-s-republic-of-china-government-unveils-their-new-official-internet-website-now-to-be-found-at.md)
-_Context: People's Republic of China_
+_Context: Chinese_
 
 ### [ The family of Jean Charles de Menezes arrives in London looking for justice. The innocent Brazilian was shot six times by police exercising a shoot-to-kill policy. Metropolitan Police Commissioner Ian Blair has offered his personal apology for the killing, but this has been rejected by the family. ](/news/2005/09/29/the-family-of-jean-charles-de-menezes-arrives-in-london-looking-for-justice-the-innocent-brazilian-was-shot-six-times-by-police-exercising.md)
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ By a vote of 78-22, the United States Senate confirms John G. Roberts, Jr. as Chief Justice, presiding over the Supreme Court. Roberts is sworn in later in the afternoon, and will preside over the Court's Fall term beginning October 3.](/news/2005/09/29/by-a-vote-of-78-22-the-united-states-senate-confirms-john-g-roberts-jr-as-chief-justice-presiding-over-the-supreme-court-roberts-is-s.md)
-_Context: Chief Justice, John G. Roberts, Jr., October 3, U.S. Supreme Court, United States, United States Senate_
+_Context: Chief Justice, John G. Roberts, Jr., October 3, U.S., U.S. Supreme Court, United States Senate_
 
 ### [ The High Court of Australia has found that it is inappropriate for the court to judge whether the Howard Government's unapproved spending on an advertising blitz promoting the controversial industrial relations reform is unlawful.  The case was brought by the Australian Labor Party and trade unions. ](/news/2005/09/29/the-high-court-of-australia-has-found-that-it-is-inappropriate-for-the-court-to-judge-whether-the-howard-government-s-unapproved-spending-o.md)
 _Context: Australian Council of Trade Unions, High Court of Australia, John Howard, Labor Party, industrial relations reform_

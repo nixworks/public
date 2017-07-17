@@ -12,6 +12,7 @@ SFWA has named Gene Wolfe as the 2012 recipient of the Damon Knight Memorial Gra
 
 ### Related:
 
-1. [ The BBC science-fiction series ''Doctor Who'' returns to British television.](/news/2005/03/26/the-bbc-science-fiction-series-doctor-who-returns-to-british-television.md) _Context: science fiction_
-2. [ Recent celebrity deaths: Charles Sheffield, science fiction author and physicist, dies of brain cancer at age 67](/news/2002/11/2/recent-celebrity-deaths-charles-sheffield-science-fiction-author-and-physicist-dies-of-brain-cancer-at-age-67.md) _Context: science fiction_
-3. [ Recent celebrity deaths: Science fiction author Robert L. Forward dies.](/news/2002/09/21/recent-celebrity-deaths-science-fiction-author-robert-l-forward-dies.md) _Context: science fiction_
+1. [Jodie Whittaker has been announced to be replacing Peter Capaldi as the thirteenth incarnation of The Doctor, becoming the first woman to take the lead role of the BBC's long-running science fiction television series, ''Doctor Who''. ](/news/2017/07/16/jodie-whittaker-has-been-announced-to-be-replacing-peter-capaldi-as-the-thirteenth-incarnation-of-the-doctor-becoming-the-first-woman-to-ta.md) _Context: science fiction_
+2. [ The BBC science-fiction series ''Doctor Who'' returns to British television.](/news/2005/03/26/the-bbc-science-fiction-series-doctor-who-returns-to-british-television.md) _Context: science fiction_
+3. [ Recent celebrity deaths: Charles Sheffield, science fiction author and physicist, dies of brain cancer at age 67](/news/2002/11/2/recent-celebrity-deaths-charles-sheffield-science-fiction-author-and-physicist-dies-of-brain-cancer-at-age-67.md) _Context: science fiction_
+4. [ Recent celebrity deaths: Science fiction author Robert L. Forward dies.](/news/2002/09/21/recent-celebrity-deaths-science-fiction-author-robert-l-forward-dies.md) _Context: science fiction_

@@ -34,7 +34,7 @@ _Context: (Wikinews), British Police, London, Stockwell tube station, plaincloth
 _Context: (Wikinews), London, mosque_
 
 ### [ Two ships collide off Japan's Chiba prefecture and the Chinese-crewed freighter ''Wei Hang 9'' sinks. One crewmember is dead, with 8 missing. ](/news/2005/07/22/two-ships-collide-off-japan-s-chiba-prefecture-and-the-chinese-crewed-freighter-wei-hang-9-sinks-one-crewmember-is-dead-with-8-missin.md)
-_Context: Chiba prefecture, People's Republic of China, cargo ship_
+_Context: Chiba prefecture, Chinese, cargo ship_
 
 ### [ The Pentagon confirms that 52 detainees of the Guantanamo camp have gone on hunger strike. ](/news/2005/07/22/the-pentagon-confirms-that-52-detainees-of-the-guantanamo-camp-have-gone-on-hunger-strike.md)
 _Context: Defense Department, Guantnamo Bay detainment camp, hunger strike_

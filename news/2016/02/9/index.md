@@ -19,7 +19,7 @@ A local court in the southern Taiwan city of Tainan ruled on Tuesday to take int
 At least 10 people are killed and more than 100 injured as two passenger trains collide in the German state of Bavaria.
 
 ### [One Indian soldier, buried in the snow for six days, is rescued from last week's  Siachen Glacier avalanche, however the other nine soldiers from the army post in the Himalayan region of Kashmir didn't survive. ](/news/2016/02/9/one-indian-soldier-buried-in-the-snow-for-six-days-is-rescued-from-last-week-s-siachen-glacier-avalanche-however-the-other-nine-soldiers.md)
-_Context: Himalayan, Indian Armed Forces, Kashmir, Siachen Glacier, avalanche_
+_Context: Himalayas, Indian Armed Forces, Kashmir, Siachen Glacier, avalanche_
 
 ### [A 6.3 magnitude earthquake struck  25 miles (40 kilometers) west of Ovalle in Chile's central region. No injuries or damage have been reported. ](/news/2016/02/9/a-6-3-magnitude-earthquake-struck-25-miles-40-kilometers-west-of-ovalle-in-chile-s-central-region-no-injuries-or-damage-have-been-report.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

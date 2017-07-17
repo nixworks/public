@@ -10,7 +10,7 @@ _Context: Germany, Oman, Royal Netherlands Navy, Somali pirates, Tanzania_
 Four Nigerian farmers will launch a ground-breaking pollution claim against oil giant Royal Dutch Shell in a court in The Hague today.
 
 ### [ A further five people are sentenced to death over their involvement in the July riots in rmqi, Xinjiang, in northwestern China. ](/news/2009/12/3/a-further-five-people-are-sentenced-to-death-over-their-involvement-in-the-july-riots-in-urumqi-xinjiang-in-northwestern-china.md)
-_Context: People's Republic of China, Urumqi, Xinjiang, riots_
+_Context: Chinese, Urumqi, Xinjiang, riots_
 
 ### [ Indian activists mark the 25th anniversary of the industrial disaster that took place in Bhopal which led to 3,787 deaths. ](/news/2009/12/3/indian-activists-mark-the-25th-anniversary-of-the-industrial-disaster-that-took-place-in-bhopal-which-led-to-3-787-deaths.md)
 _Context: Bhopal, Bhopal disaster, India_

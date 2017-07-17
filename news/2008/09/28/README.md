@@ -10,7 +10,7 @@ U.S. congressional leaders on Sunday said they had reached the broad outline of 
 _Context: Faina, Somali pirates_
 
 ### [ Chinese astronauts return safely as the Shenzhou 7 re-entry capsule lands. This marks the third country to successfully return three astronauts from space, and the third country to successfully return a spacewalker from space. And the mission marks the third country to successfully develop and deploy a spacesuit. ](/news/2008/09/28/chinese-astronauts-return-safely-as-the-shenzhou-7-re-entry-capsule-lands-this-marks-the-third-country-to-successfully-return-three-astron.md)
-_Context: People's Republic of China, Shenzhou 7, astronaut, spacesuit, spacewalk_
+_Context: Chinese, Shenzhou 7, astronaut, spacesuit, spacewalk_
 
 ### [ Four days after the formation of new Japan cabinet, Transport Minister Nariaki Nakayama resigns after series of controversial speeches. ](/news/2008/09/28/four-days-after-the-formation-of-new-japan-cabinet-transport-minister-nariaki-nakayama-resigns-after-series-of-controversial-speeches.md)
 _Context: Japan, Nariaki Nakayama, forming a government_

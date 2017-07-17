@@ -46,7 +46,7 @@ _Context: Indonesia_
 _Context: Fernando Lugo, Paraguay, Paraguayan President, coup_
 
 ### [ China postpones a plan to raise the Three Gorges reservoir to its ideal height due to lack of water. ](/news/2009/11/5/china-postpones-a-plan-to-raise-the-three-gorges-reservoir-to-its-ideal-height-due-to-lack-of-water.md)
-_Context: People's Republic of China, Three Gorges Dam_
+_Context: Chinese, Three Gorges Dam_
 
 ### [ Ratu Epeli Nailatikau is sworn in as President of Fiji, succeeding Ratu Josefa Iloilo who retired in July 2009. ](/news/2009/11/5/ratu-epeli-nailatikau-is-sworn-in-as-president-of-fiji-succeeding-ratu-josefa-iloilo-who-retired-in-july-2009.md)
 _Context: Epeli Nailatikau, Josefa Iloilo, President of Fiji_

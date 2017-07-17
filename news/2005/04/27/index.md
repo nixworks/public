@@ -46,13 +46,13 @@ _Context: Movement for Democratic Change, Robert Mugabe, Zimbabwe, food aid, mai
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ### [ Cherif Bassiouni, former United Nations human rights envoy to Afghanistan, says he lost his job due to US pressure. ](/news/2005/04/27/cherif-bassiouni-former-united-nations-human-rights-envoy-to-afghanistan-says-he-lost-his-job-due-to-us-pressure.md)
-_Context: Afghanistan, American, Cherif Bassiouni, Human rights, United Nations_
+_Context: Afghanistan, Cherif Bassiouni, Human rights, United Nations, United States of America_
 
 ### [ John Gudenus of the Austrian Freedom Party causes controversy when he questions the existence of Nazi gas chambers and later leaves the party. ](/news/2005/04/27/john-gudenus-of-the-austrian-freedom-party-causes-controversy-when-he-questions-the-existence-of-nazi-gas-chambers-and-later-leaves-the-par.md)
 _Context: Austria, Freedom Party of Austria, John Gudenus, Nazism_
 
 ### [ In Vietnam, six people are arrested for trying to sell human remains as remains of MIA US soldiers. ](/news/2005/04/27/in-vietnam-six-people-are-arrested-for-trying-to-sell-human-remains-as-remains-of-mia-us-soldiers.md)
-_Context: MIA, United States, Vietnam_
+_Context: MIA, U.S., Vietnam_
 
 ### [ In Cte d'Ivoire, opposition leader Alassane Ouattara welcomes President Laurent Gbagbo's decision to let him contest elections. South African president Thabo Mbeki welcomes it as well. ](/news/2005/04/27/in-cote-d-ivoire-opposition-leader-alassane-ouattara-welcomes-president-laurent-gbagbo-s-decision-to-let-him-contest-elections-south-afri.md)
 _Context: Alassane Ouattara, Cte d'Ivoire, Laurent Gbagbo, South Africa, Thabo Mbeki_

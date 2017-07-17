@@ -10,7 +10,7 @@ Some 250,000 people are forced to leave their homes because of flooding in the n
 _Context: Lac-Mgantic train disaster_
 
 ### [Heavy rain in southwest China causes floods and landslides with at least 9 people dead and 62 missing. ](/news/2013/07/11/heavy-rain-in-southwest-china-causes-floods-and-landslides-with-at-least-9-people-dead-and-62-missing.md)
-_Context: People's Republic of China, floods and landslides_
+_Context: Chinese, floods and landslides_
 
 ### [Taiwan evacuates 2,000 tourists as it prepares for Typhoon Soulik expected later this week. ](/news/2013/07/11/taiwan-evacuates-2-000-tourists-as-it-prepares-for-typhoon-soulik-expected-later-this-week.md)
 _Context: 2013 Pacific typhoon season, Taiwan_

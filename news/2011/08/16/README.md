@@ -7,7 +7,7 @@ _Context: Libya, Libyan Civil War, National Transitional Council, Tripoli_
 Palestinian sources: Air strike wounds 3 gunmen; separate strike targets smuggling tunnel; rocket lands in open territory outside Beersheba.
 
 ### [A United States drone attack in the Pakistani province of North Waziristan kills four militants. ](/news/2011/08/16/a-united-states-drone-attack-in-the-pakistani-province-of-north-waziristan-kills-four-militants.md)
-_Context: North Waziristan, Pakistan, United States, drones launch_
+_Context: North Waziristan, Pakistan, U.S., drones launch_
 
 ### [BBC Magazines agrees a 12m deal to sell the ''Radio Times'' &ndash; together with ten other titles &ndash; to Exponent, owner of thetrainline.com.](/news/2011/08/16/bbc-magazines-agrees-a-ps12m-deal-to-sell-the-radio-times-ndash-together-with-ten-other-titles-ndash-to-exponent-owner-of-thetrainli.md)
 BBC Magazines has agreed to sell the Radio Times after 88 years of ownership to the company that owns thetrainline.com.
@@ -31,7 +31,7 @@ MPs release a letter from a journalist jailed for phone hacking, alleging senior
 Two men are jailed for four years each for using Facebook to incite disorder during riots in England last week.
 
 ### [Chinese Vice-Premier Li Keqiang visits Hong Kong on a three-day official tour; observers indicate that this solidifies his status as the next Premier of China. ](/news/2011/08/16/chinese-vice-premier-li-keqiang-visits-hong-kong-on-a-three-day-official-tour-observers-indicate-that-this-solidifies-his-status-as-the-nex.md)
-_Context: Hong Kong, Li Keqiang, People's Republic of China_
+_Context: Chinese, Hong Kong, Li Keqiang_
 
 ## [Previous Day...](/news/2011/08/15/index.md)
 

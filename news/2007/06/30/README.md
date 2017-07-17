@@ -7,7 +7,7 @@ _Context: 2007 attack, COBRA, Glasgow, Gordon Brown, Home Secretary, Jacqui Smit
 _Context: Archbishop, British government, Pius Ncube, Robert Mugabe, Zimbabwe_
 
 ### [ United States troops kill 26 militants in an attack on Sadr City in Baghdad. ](/news/2007/06/30/united-states-troops-kill-26-militants-in-an-attack-on-sadr-city-in-baghdad.md)
-_Context: Baghdad, Sadr City, United States_
+_Context: Baghdad, Sadr City, U.S._
 
 ### [ Voters in Papua New Guinea go to the polls to elect a new Parliament of Papua New Guinea. ](/news/2007/06/30/voters-in-papua-new-guinea-go-to-the-polls-to-elect-a-new-parliament-of-papua-new-guinea.md)
 Almost four million Papua New Guineans have begun voting this morning in a national poll.
@@ -16,7 +16,7 @@ Almost four million Papua New Guineans have begun voting this morning in a natio
 _Context: East Timor, Parliament, go to the polls_
 
 ### [ Hong Kong celebrates the tenth anniversary of the handover from the United Kingdom to the People's Republic of China. ](/news/2007/06/30/hong-kong-celebrates-the-tenth-anniversary-of-the-handover-from-the-united-kingdom-to-the-people-s-republic-of-china.md)
-_Context: Hong Kong, People's Republic of China, UK, the handover_
+_Context: Chinese, Hong Kong, UK, the handover_
 
 ## [Previous Day...](/news/2007/06/29/index.md)
 

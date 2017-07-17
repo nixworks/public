@@ -4,7 +4,7 @@
 The Tasmanian Aboriginal community are using National Aboriginal Islander Day Observance Committee (NAIDOC) Week to criticise the State Government for failing to recognise heritage values.
 
 ### [Imam Ahmad Afzali leaves the United States for Saudi Arabia, under plea deal in the case involving Najibullah Zazi's alleged plan to bomb the New York City subway. ](/news/2010/07/5/imam-ahmad-afzali-leaves-the-united-states-for-saudi-arabia-under-plea-deal-in-the-case-involving-najibullah-zazi-s-alleged-plan-to-bomb-th.md)
-_Context: Ahmad Afzali, Najibullah Zazi, Saudi Arabia, United States, imam, subway_
+_Context: Ahmad Afzali, Najibullah Zazi, Saudi Arabia, U.S., imam, subway_
 
 ### [Somalia:Anti-government demonstrators, including women dressed in full hijabs brandishing AK-47 automatic rifles, march in Somalia's capital Mogadishu, protesting killings by the African Union Mission in Somalia. ](/news/2010/07/5/somalia-panti-government-demonstrators-including-women-dressed-in-full-hijabs-brandishing-ak-47-automatic-rifles-march-in-somalia-s-capita.md)
 _Context: AK-47s, AMISOM, African Union, Mogadishu, Somalia, high-powered rifles, hijab_
@@ -34,7 +34,7 @@ _Context: Romania, Tuzla, plane crash_
 Laboratory tests showed that the tar balls came from the BP Macondo well that blew out April 20, killing 11 crew members on the Deepwater Horizon drilling rig and spewing millions of gallons of oil into the Gulf, said Coast Guard Cpt. Landry’s has lost millions in sales and suffered from higher seafood pricing since the spill occurred, he said, adding that the company is reviewing possible claims against BP. Officials said tar balls are common along the Texas coast because of natural seepage from the Gulf or from small oil spills. The dozen tar balls found in the surf Saturday ranged from the size of a dime to a golf ball, said Richard Arnhart, oil spill response regional director for the Texas General Land Office. A Gilchrist resident reported the tar balls Saturday, and the General Land Office received multiple reports Sunday, said Wesley McDaniel, Land Office oil response officer. Officials were investigating whether the tar balls were from oil that clung to the hull of a ship passing through the BP oil slick or were from ballast water taken on by a ship in the oil slick zone and later dumped in Texas waters, Woodring said.
 
 ### [Security is boosted in Xinjiang in western China on the anniversary of the July 2009 Urumqi riots. ](/news/2010/07/5/security-is-boosted-in-xinjiang-in-western-china-on-the-anniversary-of-the-july-2009-ara1-4mqi-riots.md)
-_Context: People's Republic of China, Xinjiang, ethnic riots_
+_Context: Chinese, Xinjiang, ethnic riots_
 
 ### [Human rights groups say at least 52 prisoners have disappeared from Saidnaya Military Prison in Syria, following disturbances in 2008 that led to the deaths of 22 people. ](/news/2010/07/5/human-rights-groups-say-at-least-52-prisoners-have-disappeared-from-saidnaya-military-prison-in-syria-following-disturbances-in-2008-that-l.md)
 Two years after unrest in Saydnaya jail, relatives of 52 inmates await news of their fate.

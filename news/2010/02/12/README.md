@@ -1,7 +1,7 @@
 ## [2010-02-12](/news/2010/02/12/index.md)
 
 ### [Secretary-General Ban Ki-moon has repeatedly called on the DPRK to re-engage in the Six-Party Talks that also involve the Republic of Korea, Japan, China, Russia and the United States. ](/news/2010/02/12/secretary-general-ban-ki-moon-has-repeatedly-called-on-the-dprk-to-re-engage-in-the-six-party-talks-that-also-involve-the-republic-of-korea.md)
-_Context: Ban Ki-moon, China, DPRK, Japan, Russia, South Korea, United States, six-party talks_
+_Context: Ban Ki-moon, China, DPRK, Japan, Russia, South Korea, U.S., six-party talks_
 
 ### [Police in Mtwapa arrest five men accused of being homosexuals, two of whom had wedding rings and were attempting to marry in a first for Kenya. ](/news/2010/02/12/police-in-mtwapa-arrest-five-men-accused-of-being-homosexuals-two-of-whom-had-wedding-rings-and-were-attempting-to-marry-in-a-first-for-ken.md)
 _Context: Kenya, Mtwapa, homosexuality_
@@ -19,7 +19,7 @@ _Context: Africa Cup of Nations, Court of Arbitration for Sport, Togo, Togo nati
 _Context: Felipe Caldern, Juarez, Mexico, President_
 
 ### [A shooting at the University of Alabama in Huntsville, United States, leaves at least three persons dead. ](/news/2010/02/12/a-shooting-at-the-university-of-alabama-in-huntsville-united-states-leaves-at-least-three-persons-dead.md)
-_Context: United States, University of Alabama in Huntsville, shooting_
+_Context: U.S., University of Alabama in Huntsville, shooting_
 
 ### [2010 Winter Olympics:The XXI Olympic Winter Games competitions begin in Vancouver, British Columbia, Canada. ](/news/2010/02/12/2010-winter-olympics-pthe-xxi-olympic-winter-games-competitions-begin-in-vancouver-british-columbia-canada.md)
 The Winter Olympic Games opening ceremony has been launched in a flurry of ticker-tape in an event dedicated to Georgian luger Nodar Kumaritashvili.
@@ -43,7 +43,7 @@ Army ceases military operations against Houthi fighters following ceasefire.
 Senior General says elections to proceed this year but gives no specific dates.
 
 ### [Chinese human rights activist Feng Zhenghu, stranded at Japan's Narita International Airport after being refused entry to China for three months, returns home. ](/news/2010/02/12/chinese-human-rights-activist-feng-zhenghu-stranded-at-japan-s-narita-international-airport-after-being-refused-entry-to-china-for-three-mo.md)
-_Context: Feng Zhenghu, Japan, Narita International Airport, People's Republic of China_
+_Context: Chinese, Feng Zhenghu, Japan, Narita International Airport_
 
 ## [Previous Day...](/news/2010/02/11/index.md)
 

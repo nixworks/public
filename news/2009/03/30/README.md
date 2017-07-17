@@ -10,7 +10,7 @@ _Context: Lahore, Pakistan, Pakistani police, Taliban, academy, attack_
 _Context: Dodoma, Tanzania, collide, train_
 
 ### [ China will reopen Tibet to tourists on April 5. ](/news/2009/03/30/china-will-reopen-tibet-to-tourists-on-april-5.md)
-_Context: People's Republic of China, Tibet Autonomous Region, tourism_
+_Context: Chinese, Tibet Autonomous Region, tourism_
 
 ### [ Former Khmer Rouge member Kang Kek Iew's trial begins in Cambodia. ](/news/2009/03/30/former-khmer-rouge-member-kang-kek-iew-s-trial-begins-in-cambodia.md)
 _Context: Cambodia, Extraordinary Chambers in the Courts of Cambodia, Kang Kek Iew, Khmer Rouge_

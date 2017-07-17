@@ -13,7 +13,7 @@ _Context: Aaron Peirsol, Beijing Olympiad, Natalie Coughlin, backstroke, world r
 _Context: Glaxosmithkline, Government of Alabama, Medicaid, Novartis, US$, pharmaceutical companies_
 
 ### [ Starbucks announces that it will close 600 underperforming coffee shops in the United States. ](/news/2008/07/1/starbucks-announces-that-it-will-close-600-underperforming-coffee-shops-in-the-united-states.md)
-_Context: Starbucks, United States, coffee shop_
+_Context: Starbucks, U.S., coffee shop_
 
 ### [ A man stabs five people to death in a Shanghai police station. ](/news/2008/07/1/a-man-stabs-five-people-to-death-in-a-shanghai-police-station.md)
 _Context: Shanghai, police_
@@ -22,7 +22,7 @@ _Context: Shanghai, police_
 _Context: Mongolia, legislative elections, violent protests_
 
 ### [ Thousands of citizens battle local government officials in a major riot in Guizhou in China over a police cover-up dealing with the death of a local girl. ](/news/2008/07/1/thousands-of-citizens-battle-local-government-officials-in-a-major-riot-in-guizhou-in-china-over-a-police-cover-up-dealing-with-the-death-o.md)
-_Context: People's Republic of China, cover-up, major riot in Guizhou_
+_Context: Chinese, cover-up, major riot in Guizhou_
 
 ## [Previous Day...](/news/2008/06/30/index.md)
 

@@ -34,7 +34,7 @@ _Context: Democratic Republic of the Congo_
 _Context: United States House of Representatives, health care reform act_
 
 ### [ The Dalai Lama begins a visit to Tawang, in the disputed territory of Arunachal Pradesh in northeastern India, amid objections from China. ](/news/2009/11/8/the-dalai-lama-begins-a-visit-to-tawang-in-the-disputed-territory-of-arunachal-pradesh-in-northeastern-india-amid-objections-from-china.md)
-_Context: 14th Dalai Lama, Arunachal Pradesh, India, People's Republic of China, Tawang_
+_Context: 14th Dalai Lama, Arunachal Pradesh, Chinese, India, Tawang_
 
 ### [ Northern Mariana Islands general election, 2009 results are released Republican Party candidate Heinz Hofschneider and incumbent Governor Benigno Fitial virtually tie in the closest gubernatorial election in history. A runoff election will be held in the next 14 days to determine the winner. ](/news/2009/11/8/northern-mariana-islands-general-election-2009-results-are-releasedp-republican-party-candidate-heinz-hofschneider-and-incumbent-governor.md)
 _Context: 2009 gubernatorial election and runoff, Benigno Fitial, Governor of the Northern Mariana Islands, Heinz Hofschneider, Northern Mariana Islands general election, 2009, R, runoff election_

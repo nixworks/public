@@ -19,7 +19,7 @@ Tribune Publishing — owner of the Chicago Tribune, Los Angeles Times and other
 _Context: BlackBerry Limited, Canada, Pakistan, government, user privacy_
 
 ### [The International Monetary Fund modifies its benchmark currency basket to include the yuan of the People's Republic of China. The basket also includes the U.S. dollar, the euro, the pound sterling, and the Japanese yen. ](/news/2015/11/30/the-international-monetary-fund-modifies-its-benchmark-currency-basket-to-include-the-yuan-of-the-people-s-republic-of-china-the-basket-als.md)
-_Context: International Monetary Fund, People's Republic of China, benchmark currency basket, yuan_
+_Context: Chinese, International Monetary Fund, benchmark currency basket, yuan_
 
 ### [The United States Federal Reserve Board approves a rule prohibiting the government from extending emergency loans to "too big to fail" companies, a practice deemed essential during the global financial crisis of 2008 and 2009. ](/news/2015/11/30/the-united-states-federal-reserve-board-approves-a-rule-prohibiting-the-government-from-extending-emergency-loans-to-too-big-to-fail-compa.md)
 The Federal Reserve Board approved a rule prohibiting the government from extending emergency loans to &quot;too big to fail&quot; companies.

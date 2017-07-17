@@ -13,7 +13,7 @@ _Context: Caracas, Hugo Chavez, Libya, Muammar al-Gaddafi, Venezuela, Venezuelan
 The death toll from devastating floods in the Philippine capital, Manila, and surrounding areas has climbed to 140, with 32 people still missing, the government said on Monday.
 
 ### [ Roman Polanski officially challenges his proposed extradition from Switzerland to the United States to face child sexual abuse charges stemming from a 1977 incident. ](/news/2009/09/28/roman-polanski-officially-challenges-his-proposed-extradition-from-switzerland-to-the-united-states-to-face-child-sexual-abuse-charges-stem.md)
-_Context: Roman Polanski, Swiss, United States, child sexual abuse, extradited_
+_Context: Roman Polanski, Swiss, U.S., child sexual abuse, extradited_
 
 ### [ Japan's Liberal Democratic Party elects Sadakazu Tanigaki to replace Taro Aso. ](/news/2009/09/28/japan-s-liberal-democratic-party-elects-sadakazu-tanigaki-to-replace-taro-aso.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
@@ -40,7 +40,7 @@ _Context: Jestina Mukoko, Robert Mugabe, Zimbabwe_
 _Context: Gregoire Ndahimana, Rwanda, United Nations_
 
 ### [ ''Chinese Civilisation Revisited'' by Xiao Jiansheng, a book about Chinese history which is outlawed in China, goes on sale in Hong Kong. ](/news/2009/09/28/chinese-civilisation-revisited-by-xiao-jiansheng-a-book-about-chinese-history-which-is-outlawed-in-china-goes-on-sale-in-hong-kong.md)
-_Context: Chinese Civilisation Revisited, Hong Kong, People's Republic of China_
+_Context: Chinese, Chinese Civilisation Revisited, Hong Kong_
 
 ### [ A police officer who served at the G20 demonstrations in London in April 2009 is to face a charge of assaulting a woman with a baton after becoming involved in a confrontation at a vigil for Ian Tomlinson. ](/news/2009/09/28/a-police-officer-who-served-at-the-g20-demonstrations-in-london-in-april-2009-is-to-face-a-charge-of-assaulting-a-woman-with-a-baton-after.md)
 A police sergeant who allegedly struck a woman, Nicola Fisher, during G20 protests will be charged with assault, the Crown Prosecution Service (CPS) said.

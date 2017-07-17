@@ -1,7 +1,7 @@
 ## [2008-03-12](/news/2008/03/12/index.md)
 
 ### [ The United States Environmental Protection Agency announces a major expansion of efforts to fight smog in cities and towns throughout the United States. ](/news/2008/03/12/the-united-states-environmental-protection-agency-announces-a-major-expansion-of-efforts-to-fight-smog-in-cities-and-towns-throughout-the-u.md)
-_Context: United States, smog, the agency_
+_Context: U.S., smog, the agency_
 
 ### [ The total amount of digital information is estimated at 281 exabytes in 2007, exceeding available data storage for the first time. ](/news/2008/03/12/the-total-amount-of-digital-information-is-estimated-at-281-exabytes-in-2007-exceeding-available-data-storage-for-the-first-time.md)
 _Context: data storage, digital information, exabyte_
@@ -25,7 +25,7 @@ _Context: First World War, France, French Foreign Legion, Italian, Lazare Pontic
 _Context: Bernard Kouchner, Carl Bildt, European Union, France, Minister of Foreign Affairs, Serbia, Sweden_
 
 ### [ Chinese police fire tear gas to disperse protesters during the second day of demonstrations by Buddhist monks in Lhasa, Tibet demanding the region's independence. ](/news/2008/03/12/chinese-police-fire-tear-gas-to-disperse-protesters-during-the-second-day-of-demonstrations-by-buddhist-monks-in-lhasa-tibet-demanding-the.md)
-_Context: Lhasa, People's Republic of China, Tibet Autonomous Region, free Tibet_
+_Context: Chinese, Lhasa, Tibet Autonomous Region, free Tibet_
 
 ### [ Governor of New York Eliot Spitzer resigns effective March 17 amid a prostitution ring scandal. He will be replaced by David Paterson, the first African American and legally blind person to hold this position. ](/news/2008/03/12/governor-of-new-york-eliot-spitzer-resigns-effective-march-17-amid-a-prostitution-ring-scandal-he-will-be-replaced-by-david-paterson-the.md)
 _Context: African-American, David Paterson, Eliot Spitzer, Governor, March 17, New York_

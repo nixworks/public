@@ -16,7 +16,7 @@ _Context: Afghan Army, Afghanistan, International Security Assistance Force, NAT
 Euro zone joblessnessrose to a new euro-era high while inflation was largely steadyat the start of 2012, data showed on Thursday, leaving theEuropean Central Bank to juggle the demands of a slowing economyand only mild pressure on prices.
 
 ### [Brazil announces the continuation of a "currency war" with the European Union and the United States with the extension of a financial transaction tax on foreign borrowings. ](/news/2012/03/1/brazil-announces-the-continuation-of-a-currency-war-with-the-european-union-and-the-united-states-with-the-extension-of-a-financial-transa.md)
-_Context: Brazil, European Union, United States, financial transaction tax_
+_Context: Brazil, European Union, U.S., financial transaction tax_
 
 ### [Australian floods:Heavy rains in the Australian state of New South Wales leads to evacuations or warnings in the towns of Cooma, Goulburn, Queanbeyan and near the town of Kiama. ](/news/2012/03/1/australian-floods-pheavy-rains-in-the-australian-state-of-new-south-wales-leads-to-evacuations-or-warnings-in-the-towns-of-cooma-goulburn.md)
 Residents in parts of Goulburn are being ordered to leave their homes and businesses immediately because of flooding.
@@ -25,7 +25,7 @@ Residents in parts of Goulburn are being ordered to leave their homes and busine
 Passengers on the Costa Allegra speak of difficult conditions on board as the stricken cruise ship docks in the Seychelles.
 
 ### [Vietnam claims that the People's Republic of China has assaulted Vietnamese fishermen in disputed waters in the South China Sea. ](/news/2012/03/1/vietnam-claims-that-the-people-s-republic-of-china-has-assaulted-vietnamese-fishermen-in-disputed-waters-in-the-south-china-sea.md)
-_Context: People's Republic of China, South China Sea, Vietnam, Vietnamese, disputed waters_
+_Context: Chinese, South China Sea, Vietnam, Vietnamese, disputed waters_
 
 ### [Americans working for non-government organisations who had been facing trial in Egypt are allowed to leave. ](/news/2012/03/1/americans-working-for-non-government-organisations-who-had-been-facing-trial-in-egypt-are-allowed-to-leave.md)
 Two United States-financed nonprofit groups paid about $4 million in bail to fly 11 employees out of reach of Egyptian courts.

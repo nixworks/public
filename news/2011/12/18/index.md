@@ -16,7 +16,7 @@ Crude bomb explosion kills one person, as opposition activists clash with police
 Angry protesters rally in the capital of a Kazakh oil-producing region after two days of unrest over an oil strike leave 11 dead and scores injured.
 
 ### [Nine people die following an explosion in a coal mine in Binzhou City in China's Hunan Province. ](/news/2011/12/18/nine-people-die-following-an-explosion-in-a-coal-mine-in-binzhou-city-in-china-s-hunan-province.md)
-_Context: Binzhou City, Hunan Province, People's Republic of China, coal mine_
+_Context: Binzhou City, Chinese, Hunan Province, coal mine_
 
 ### [The drilling rig ''Kolskaya'' with 76 people on board overturns in the Sea of Okhotsk off the coast of Sakhalin in the Russian Far East resulting in four deaths and fifty people missing. ](/news/2011/12/18/the-drilling-rig-kolskaya-with-76-people-on-board-overturns-in-the-sea-of-okhotsk-off-the-coast-of-sakhalin-in-the-russian-far-east-resu.md)
 Rescuers have saved 14 of the 67 people who were on board a floating oil rig which capsized in the Sea of Okhotsk in Russia’s Far East, according to latest reports.
@@ -31,7 +31,7 @@ _Context: Iran, Kuwait, spying_
 _Context: Occupy Wall Street_
 
 ### [Villagers revolting in Wukan, southern China, threaten to march on government offices this week if detained protesters are not released. ](/news/2011/12/18/villagers-revolting-in-wukan-southern-china-threaten-to-march-on-government-offices-this-week-if-detained-protesters-are-not-released.md)
-_Context: People's Republic of China, rebellion by villagers in Wukan_
+_Context: Chinese, rebellion by villagers in Wukan_
 
 ### [Thousands protest in several Russian cities for a second week, against the results of the parliamentary elections. ](/news/2011/12/18/thousands-protest-in-several-russian-cities-for-a-second-week-against-the-results-of-the-parliamentary-elections.md)
 _Context: Russia, parliamentary elections, protest_

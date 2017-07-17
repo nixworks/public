@@ -25,7 +25,7 @@ Fierce fighting erupts as Jamaican security forces hunting an alleged drugs lord
 _Context: Beijing_
 
 ### [The second round of the U.S.-China Strategic and Economic Dialogue begins in Beijing, China. ](/news/2010/05/24/the-second-round-of-the-u-s-achina-strategic-and-economic-dialogue-begins-in-beijing-china.md)
-_Context: Beijing, People's Republic of China, U.S.-China Strategic and Economic Dialogue_
+_Context: Beijing, Chinese, U.S.-China Strategic and Economic Dialogue_
 
 ### [The assassination of Bashar al-Ageidi from the election-winning Iraqiya bloc of Ayad Allawi takes place outside his house in Mosul. ](/news/2010/05/24/the-assassination-of-bashar-al-ageidi-from-the-election-winning-iraqiya-bloc-of-ayad-allawi-takes-place-outside-his-house-in-mosul.md)
 An Iraqi MP from the secular Iraqiya bloc is shot and killed by gunmen in the northern city of Mosul.
@@ -67,7 +67,7 @@ A teacher who bludgeoned a disruptive teenage pupil with a dumbbell has walked f
 The SDLP leader and South Down MP Margaret Ritchie has formally resigned from the Stormont Executive.
 
 ### [Sarah, Duchess of York receives support from businessman Simon Cowell and an award for her work with the disadvantaged children of the U.S. city of Los Angeles despite being caught in a newspaper sting in Britain. ](/news/2010/05/24/sarah-duchess-of-york-receives-support-from-businessman-simon-cowell-and-an-award-for-her-work-with-the-disadvantaged-children-of-the-u-s.md)
-_Context: Los Angeles, Sarah, Duchess of York, Simon Cowell, United States_
+_Context: Los Angeles, Sarah, Duchess of York, Simon Cowell, U.S._
 
 ### [Iran's largest water supply project is inaugurated in Khorramshahr. ](/news/2010/05/24/iran-s-largest-water-supply-project-is-inaugurated-in-khorramshahr.md)
 _Context: Iran, Khorramshahr_

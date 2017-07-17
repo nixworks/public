@@ -10,7 +10,7 @@ _Context: 2011 Syrian uprising, Jisr al-Shughour, Syria_
 Tear gas and rubber bullets reportedly used to break up religious gatherings in villages across the country.
 
 ### [Two United States drone missiles kill 14 people in  Pakistani Taliban compounds near Wana in South Waziristan. ](/news/2011/06/6/two-united-states-drone-missiles-kill-14-people-in-pakistani-taliban-compounds-near-wana-in-south-waziristan.md)
-_Context: Pakistani Taliban, South Waziristan, United States, Wana, drone_
+_Context: Pakistani Taliban, South Waziristan, U.S., Wana, drone_
 
 ### [2011 Yemeni uprising: Armed men affiliated with al-Qaeda kill seven soldiers and injure 12 others near the city of Zinjibar. ](/news/2011/06/6/2011-yemeni-uprising-armed-men-affiliated-with-al-qaeda-kill-seven-soldiers-and-injure-12-others-near-the-city-of-zinjibar.md)
 Armed men killed sevensoldiers and wounded 12 others in clashes in the southern Yemenicity of Zinjibar on Monday, a local official and witnesses said.
@@ -19,10 +19,10 @@ Armed men killed sevensoldiers and wounded 12 others in clashes in the southern 
 _Context: Kaduqli, South Kordofan, South Sudan, Sudan_
 
 ### [Around 100 people are detained after ethnic unrest in the Inner Mongolia region of China. ](/news/2011/06/6/around-100-people-are-detained-after-ethnic-unrest-in-the-inner-mongolia-region-of-china.md)
-_Context: 2011 Xilinhot incident, Inner Mongolia, People's Republic of China_
+_Context: 2011 Xilinhot incident, Chinese, Inner Mongolia_
 
 ### [North Korea is to establish a special economic zone on two islands close to the Chinese border. ](/news/2011/06/6/north-korea-is-to-establish-a-special-economic-zone-on-two-islands-close-to-the-chinese-border.md)
-_Context: North Korea, People's Republic of China_
+_Context: Chinese, North Korea_
 
 ### [Bloomberg reports Italian company Prada SpA is planning an initial public offering for the Hong Kong Stock Exchange. ](/news/2011/06/6/bloomberg-reports-italian-company-prada-spa-is-planning-an-initial-public-offering-for-the-hong-kong-stock-exchange.md)
 _Context: Bloomberg, Hong Kong Stock Exchange, IPO, Italian, Prada_
@@ -37,7 +37,7 @@ Hackers calling themselves Lulz Security said on Monday that they had broken int
 Apple&#039;s new cloud music service has been criticised by sections of the music industry for encouraging piracy by allowing people to essentially legitimise their pirated music collections.
 
 ### [At least 21 people die as two coal mines in the People's Republic of China flood. ](/news/2011/06/6/at-least-21-people-die-as-two-coal-mines-in-the-people-s-republic-of-china-flood.md)
-_Context: People's Republic of China, coal mine_
+_Context: Chinese, coal mine_
 
 ### [Test results will confirm whether the German ''E. Coli'' outbreak came from vegetable sprouts grown in the Uelzen area. ](/news/2011/06/6/test-results-will-confirm-whether-the-german-e-coli-outbreak-came-from-vegetable-sprouts-grown-in-the-uelzen-area.md)
 _Context: E. coli blamed for 46 deaths, Germany, Uelzen_
@@ -70,7 +70,7 @@ _Context: Dominique Strauss-Kahn, International Monetary Fund, New York, arraign
 _Context: Anwar Ibrahim, Malaysia, Mohamad Zabidin Diah_
 
 ### [The United States Federal Bureau of Investigation announces that it has arrested 13 members of the Mafia in the city of Philadelphia in relation to an illegal gambling operation. ](/news/2011/06/6/the-united-states-federal-bureau-of-investigation-announces-that-it-has-arrested-13-members-of-the-mafia-in-the-city-of-philadelphia-in-rela.md)
-_Context: Federal Bureau of Investigation, Philadelphia, Sicilian Mafia, United States_
+_Context: Federal Bureau of Investigation, Philadelphia, Sicilian Mafia, U.S._
 
 ### [The outgoing speaker of the House of Representatives in Nigeria, Dimeji Bankole, is arrested on fraud charges. ](/news/2011/06/6/the-outgoing-speaker-of-the-house-of-representatives-in-nigeria-dimeji-bankole-is-arrested-on-fraud-charges.md)
 _Context: Dimeji Bankole, House of Representatives, Nigeria_

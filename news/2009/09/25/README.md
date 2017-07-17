@@ -1,7 +1,7 @@
 ## [2009-09-25](/news/2009/09/25/index.md)
 
 ### [ Photographs of Spanish Prime Minister Jos Luis Rodrguez Zapatero and his family are published in the United States and subsequently published on the front pages of newspapers in his home country. A controversy occurs as many Spaniards have never before seen the children of the intensely private Prime Minister. ](/news/2009/09/25/photographs-of-spanish-prime-minister-jose-luis-rodriguez-zapatero-and-his-family-are-published-in-the-united-states-and-subsequently-publi.md)
-_Context: Jos Luis Rodrguez Zapatero, Prime Minister, Spain, United States_
+_Context: Jos Luis Rodrguez Zapatero, Prime Minister, Spain, U.S._
 
 ### [ Poland approves a law making chemical castration mandatory for paedophiles. ](/news/2009/09/25/poland-approves-a-law-making-chemical-castration-mandatory-for-paedophiles.md)
 Poland on Friday approved a law making chemical castration mandatory for pedophiles in some cases, sparking criticism from human rights groups.
@@ -10,7 +10,7 @@ Poland on Friday approved a law making chemical castration mandatory for pedophi
 _Context: Greece_
 
 ### [ Nigerian MPs ask the government to investigate the status of Chinese citizens living in the country, after allegations that Nigerians in China have been mistreated. ](/news/2009/09/25/nigerian-mps-ask-the-government-to-investigate-the-status-of-chinese-citizens-living-in-the-country-after-allegations-that-nigerians-in-ch.md)
-_Context: Nigeria, People's Republic of China_
+_Context: Chinese, Nigeria_
 
 ### [ The trial of former Israeli Prime Minister Ehud Olmert on corruption charges begins in Jerusalem. He is the first ever Israeli Prime Minister to be brought to trial. ](/news/2009/09/25/the-trial-of-former-israeli-prime-minister-ehud-olmert-on-corruption-charges-begins-in-jerusalem-he-is-the-first-ever-israeli-prime-minist.md)
 Former Israeli Prime Minister Ehud Olmert has gone on trial in Jerusalem on corruption charges.

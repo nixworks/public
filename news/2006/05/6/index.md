@@ -1,7 +1,7 @@
 ## [2006-05-6](/news/2006/05/6/index.md)
 
 ### [ The People's Republic of China announces Vatican-approved Paul Pei Junmin will be ordained as a Catholic bishop on Sunday, just days after a diplomatic clash due to the unilateral ordination of two other bishops by Beijing. ](/news/2006/05/6/the-people-s-republic-of-china-announces-vatican-approved-paul-pei-junmin-will-be-ordained-as-a-catholic-bishop-on-sunday-just-days-after.md)
-_Context: Beijing, Catholic, Holy See, Paul Pei Junmin, People's Republic of China, bishop, ordained_
+_Context: Beijing, Catholic, Chinese, Holy See, Paul Pei Junmin, bishop, ordained_
 
 ### [ Mahamat Nouri, until recently the Chadian ambassador to Saudi Arabia, who has previously served as the Chadian Defense Minister, defects to Sudan and joins the United Front for Democratic Change rebels. ](/news/2006/05/6/mahamat-nouri-until-recently-the-chadian-ambassador-to-saudi-arabia-who-has-previously-served-as-the-chadian-defense-minister-defects-to.md)
 _Context: Chad, Chadian rebels, Defense Minister, Mahamat Nouri, Saudi Arabia, Sudan_
@@ -16,7 +16,7 @@ _Context: 2006 general election, People's Action Party, Singapore_
 _Context: ''The Calypso'', Eastbourne, Guernsey, St Peter Port, Tilbury, UK, crew, cruise liner, lifeboat, lifeboat_
 
 ### [ The People's Republic of China plans to launch satellites for lunar surveying, probing the moon's surface, physiognomy, landform and geological structure. ](/news/2006/05/6/the-people-s-republic-of-china-plans-to-launch-satellites-for-lunar-surveying-probing-the-moon-s-surface-physiognomy-landform-and-geolog.md)
-_Context: Moon, People's Republic of China, physiognomy, satellites_
+_Context: Chinese, Moon, physiognomy, satellites_
 
 ## [Previous Day...](/news/2006/05/5/index.md)
 

@@ -28,7 +28,7 @@ Condé Nast is to lease one million square feet in the lead tower at ground zero
 _Context: Fukushima Daiichi Nuclear Power Plant, Fukushima I nuclear accidents, Tokyo Electric Power Co., ongoing Fukushima I nuclear crisis_
 
 ### [The Prime Minister of Pakistan Yusuf Raza Gilani commences a state visit to the People's Republic of China. ](/news/2011/05/17/the-prime-minister-of-pakistan-yusuf-raza-gilani-commences-a-state-visit-to-the-people-s-republic-of-china.md)
-_Context: People's Republic of China, Prime Minister, Yusuf Raza Gilani_
+_Context: Chinese, Prime Minister, Yusuf Raza Gilani_
 
 ### [Queen Elizabeth II's visit to the Republic of Ireland:Queen Elizabeth II starts her first state visit to the Republic of Ireland, the first visit of a British monarch since Ireland's independence from the United Kingdom in 1921. Elizabeth is also the first British monarch to visit Ireland since George V's state visit in 1911. ](/news/2011/05/17/queen-elizabeth-ii-s-visit-to-the-republic-of-ireland-pqueen-elizabeth-ii-starts-her-first-state-visit-to-the-republic-of-ireland-the-first.md)
 The Queen is due to begin the first visit to the Republic of Ireland by a British monarch, amid a huge security operation for the four-day trip.
@@ -58,7 +58,7 @@ _Context: Arizona, Medicaid, US state_
 _Context: Environmental Protection Agency, oil refineries_
 
 ### [Ming Ming, the oldest panda in the world, dies at the age of 34 in Guangdong, China. ](/news/2011/05/17/ming-ming-the-oldest-panda-in-the-world-dies-at-the-age-of-34-in-guangdong-china.md)
-_Context: Guangdong province, People's Republic of China, panda_
+_Context: Chinese, Guangdong province, panda_
 
 ### [Indian National Congress MP Rahul Gandhi alleges that police murdered farmers and raped women during recent protests against a new road in Uttar Pradesh. ](/news/2011/05/17/indian-national-congress-mp-rahul-gandhi-alleges-that-police-murdered-farmers-and-raped-women-during-recent-protests-against-a-new-road-in-u.md)
 A row breaks out in India after Rahul Gandhi accuses police of killing farmers and raping women during protests against a new road in Uttar Pradesh.

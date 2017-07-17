@@ -10,7 +10,7 @@ _Context: Basque separatist, ETA, France, Paris_
 Female relatives of dissidents heckled during march outside Havana, then removed in buses.
 
 ### [Seven Chinese fisherman kidnapped off Cameroon's disputed Bakassi peninsula are released. ](/news/2010/03/17/seven-chinese-fisherman-kidnapped-off-cameroon-s-disputed-bakassi-peninsula-are-released.md)
-_Context: Bakassi, Cameroon, People's Republic of China_
+_Context: Bakassi, Cameroon, Chinese_
 
 ### [Nigeria's acting president Goodluck Jonathan dissolves the country's cabinet. ](/news/2010/03/17/nigeria-s-acting-president-goodluck-jonathan-dissolves-the-country-s-cabinet.md)
 _Context: Goodluck Jonathan, Nigeria_

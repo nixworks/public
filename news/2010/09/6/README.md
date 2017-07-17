@@ -22,10 +22,10 @@ Teams in Guatemala have to halt the search for bodies following devasting mudsli
 _Context: 2010 Atlantic hurricane season, Mexico, Texas_
 
 ### [A wind-driven wildfire in the United States state of Colorado leads to the evacuation of 1,000 houses. ](/news/2010/09/6/a-wind-driven-wildfire-in-the-united-states-state-of-colorado-leads-to-the-evacuation-of-1-000-houses.md)
-_Context: Colorado, United States, wildfire_
+_Context: Colorado, U.S., wildfire_
 
 ### [North Korea announces it will release seven detained Chinese and South Korean fishermen. ](/news/2010/09/6/north-korea-announces-it-will-release-seven-detained-chinese-and-south-korean-fishermen.md)
-_Context: North Korea, People's Republic of China, South Korea_
+_Context: Chinese, North Korea, South Korea_
 
 ### [Bernard Kouchner, the French Minister of Foreign Affairs, and the Vatican offer to assist Sakineh Mohammadi Ashtiani sentenced to death by stoning for adultery in Iran. ](/news/2010/09/6/bernard-kouchner-the-french-minister-of-foreign-affairs-and-the-vatican-offer-to-assist-sakineh-mohammadi-ashtiani-sentenced-to-death-by-s.md)
 _Context: Bernard Kouchner, France, Holy See, Iran, Minister of Foreign Affairs, Sakineh Mohammadi Ashtiani, adultery_

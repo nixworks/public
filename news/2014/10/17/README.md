@@ -10,7 +10,7 @@ _Context: Ebola virus epidemic in West Africa, Senegal, World Health Organisatio
 Washington (AFP) - President Barack Obama on Friday named attorney Ron Klain to coordinate the US response to the Ebola outbreak, amid growing anxiety over its spread beyond West Africa.
 
 ### [The Kyodo news agency reports that the Prime Minister of Japan Shinzo Abe sent a ritual offering to the controversial Yasukuni Shrine in Tokyo that could complicate relations with China and South Korea. ](/news/2014/10/17/the-kyodo-news-agency-reports-that-the-prime-minister-of-japan-shinzo-abe-sent-a-ritual-offering-to-the-controversial-yasukuni-shrine-in-tok.md)
-_Context: Kyodo, People's Republic of China, Prime Minister, Shinzo Abe, South Korea, Tokyo, Yasukuni Shrine_
+_Context: Chinese, Kyodo, Prime Minister, Shinzo Abe, South Korea, Tokyo, Yasukuni Shrine_
 
 ### [Vladimir Putin, the President of Russia, and Petro Poroshenko, the President of Ukraine, will meet at the sidelines of the Asia-Europe Meeting in Milan, Italy to discuss the conflict and supplies of natural gas. ](/news/2014/10/17/vladimir-putin-the-president-of-russia-and-petro-poroshenko-the-president-of-ukraine-will-meet-at-the-sidelines-of-the-asiaaeurope-mee.md)
 The most anticipated meeting of the Asia-Europe summit (ASEM) in Milan will take place on Friday when Russian President Vladimir Putin and Ukrainian

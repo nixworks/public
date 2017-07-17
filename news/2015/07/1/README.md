@@ -16,7 +16,7 @@ The measure passed by an overwhelming margin at the denomination&#x27;s national
 _Context: Greece, Greek government-debt crisis, International Monetary Fund_
 
 ### [The World Bank urges the People's Republic of China to undertake financial reforms to keep economic growth on track. ](/news/2015/07/1/the-world-bank-urges-the-people-s-republic-of-china-to-undertake-financial-reforms-to-keep-economic-growth-on-track.md)
-_Context: People's Republic of China, World Bank_
+_Context: Chinese, World Bank_
 
 ### [The death toll from yesterday's crash in the Indonesian city of Medan rises to 141. ](/news/2015/07/1/the-death-toll-from-yesterday-s-crash-in-the-indonesian-city-of-medan-rises-to-141.md)
 Rescue workers still searching for victims on the ground after Hercules military aircraft crashed into Sumatran city of Medan
@@ -25,7 +25,7 @@ Rescue workers still searching for victims on the ground after Hercules military
 Russian gas firm Gazprom halts gas supplies to Ukraine after Kiev suspends energy purchases following a breakdown on pricing talks.
 
 ### [The United States and Cuba officially announce that embassies will be reopened in each other's countries for the first time since 1961. ](/news/2015/07/1/the-united-states-and-cuba-officially-announce-that-embassies-will-be-reopened-in-each-other-s-countries-for-the-first-time-since-1961.md)
-_Context: Cuba, Cuba-United States relations, United States, embassies_
+_Context: Cuba, Cuba-United States relations, U.S., embassies_
 
 ### [The United States Department of Justice begins an investigation into whether US airlines entered into collusion to illegally keep ticket prices high. ](/news/2015/07/1/the-united-states-department-of-justice-begins-an-investigation-into-whether-us-airlines-entered-into-collusion-to-illegally-keep-ticket-pri.md)
 The Justice Department investigates if US airlines are colluding to keep ticket prices high.

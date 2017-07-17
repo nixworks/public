@@ -40,7 +40,7 @@ Ice loss from Antarctica and Greenland has accelerated over the last 20 years, r
 _Context: North Korea, North Korean defectors_
 
 ### [Taiwan says it will end restrictions on Philippine workers imposed after a row over the deportation of 14 Taiwanese to mainland China. ](/news/2011/03/9/taiwan-says-it-will-end-restrictions-on-philippine-workers-imposed-after-a-row-over-the-deportation-of-14-taiwanese-to-mainland-china.md)
-_Context: People's Republic of China, Philippine, Taiwan, mainland China_
+_Context: Chinese, Philippine, Taiwan, mainland China_
 
 ### [Denmark upgrades its relation with Palestine to a mission, the second highest rank, following many other western nations recent upgrades.](/news/2011/03/9/denmark-upgrades-its-relation-with-palestine-to-a-mission-the-second-highest-rank-following-many-other-western-nations-recent-upgrades.md)
 _Context: Denmark, Palestinian, its relation_
@@ -91,7 +91,7 @@ _Context: Governor of Illinois, Illinois, Pat Quinn, death penalty, death row_
 _Context: Discovery, Florida, Kennedy Space Center, Space Shuttle_
 
 ### [The United States Food and Drug Administration approves the use of the drug Belimumab (Benlysta) to treat lupus, the first drug to be approved for this purpose in 56 years. ](/news/2011/03/9/the-united-states-food-and-drug-administration-approves-the-use-of-the-drug-belimumab-benlysta-to-treat-lupus-the-first-drug-to-be-approv.md)
-_Context: Belimumab, U.S. Food and Drug Administration, United States, lupus_
+_Context: Belimumab, U.S., U.S. Food and Drug Administration, lupus_
 
 ## [Previous Day...](/news/2011/03/8/index.md)
 

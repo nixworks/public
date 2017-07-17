@@ -1,7 +1,7 @@
 ## [2012-03-4](/news/2012/03/4/index.md)
 
 ### [The People's Republic of China announces plans to increase defense spending by 11.2 per cent in 2012. ](/news/2012/03/4/the-people-s-republic-of-china-announces-plans-to-increase-defense-spending-by-11-2-per-cent-in-2012.md)
-_Context: People's Republic of China, defense spending_
+_Context: Chinese, defense spending_
 
 ### [The cleanup continues in the US after tornadoes that claimed at least 39 lives. ](/news/2012/03/4/the-cleanup-continues-in-the-us-after-tornadoes-that-claimed-at-least-39-lives.md)
 US authorities search for survivors and clear damage after a string of tornadoes killed at least 37 people in four Midwestern states.

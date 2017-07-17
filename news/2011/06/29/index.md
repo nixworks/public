@@ -61,7 +61,7 @@ South Sudan claims the North is using rebels to sow chaos ahead of its official 
 _Context: North Korea, South Korea, slander_
 
 ### [Omar al-Bashir of Sudan and Hu Jintao of the People's Republic of China meet. ](/news/2011/06/29/omar-al-bashir-of-sudan-and-hu-jintao-of-the-people-s-republic-of-china-meet.md)
-_Context: Hu Jintao, Omar al-Bashir, People's Republic of China, Sudan_
+_Context: Chinese, Hu Jintao, Omar al-Bashir, Sudan_
 
 ### [A lawsuit of $25 million is brought by the mother of a U.S. teen, who was kidnapped, bound and forced to consume alcoholic substances before his death at a fraternity house, against the group responsible for his ordeal in the U.S. state of New York. ](/news/2011/06/29/a-lawsuit-of-25-million-is-brought-by-the-mother-of-a-u-s-teen-who-was-kidnapped-bound-and-forced-to-consume-alcoholic-substances-before.md)
 The mother of a Cornell University student who died after drinking at a fraternity house in February is suing the fraternity for $25m (£15m).

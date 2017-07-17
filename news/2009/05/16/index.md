@@ -31,7 +31,7 @@ Sri Lanka declared Monday it had crushed the Tamil Tiger rebels, killing their c
 _Context: Iraq, Royal Air Force, UK_
 
 ### [ An acid attack injures 30 people in Hong Kong, People's Republic of China. ](/news/2009/05/16/an-acid-attack-injures-30-people-in-hong-kong-people-s-republic-of-china.md)
-_Context: Hong Kong, People's Republic of China, acid, acid attack, acid attack_
+_Context: Chinese, Hong Kong, acid, acid attack, acid attack_
 
 ### [ Thousands of demonstrators protest unemployment in Berlin, Germany.  ](/news/2009/05/16/thousands-of-demonstrators-protest-unemployment-in-berlin-germany.md)
 Thousands of German workers marched through Berlin today to demand the government do more to protect jobs, highlighting popular&hellip;

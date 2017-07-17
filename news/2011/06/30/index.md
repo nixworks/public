@@ -16,19 +16,19 @@ _Context: riots_
 Peacekeepers to stay another year as war estimated to have taken five million lives rages on.
 
 ### [Amnesty International calls on the People's Republic of China to stop the harassment, arbitrary detention and torture of human rights lawyers. ](/news/2011/06/30/amnesty-international-calls-on-the-people-s-republic-of-china-to-stop-the-harassment-arbitrary-detention-and-torture-of-human-rights-lawyer.md)
-_Context: Amnesty International, Human rights, People's Republic of China_
+_Context: Amnesty International, Chinese, Human rights_
 
 ### [Al-Shamukh, a popular jihadist Internet forum, is knocked off the Internet by a fairly sophisticated cyberattack. ](/news/2011/06/30/al-shamukh-a-popular-jihadist-internet-forum-is-knocked-off-the-internet-by-a-fairly-sophisticated-cyberattack.md)
 _Context: Al-Shamukh, jihad_
 
 ### [Iraq War: The United States has lost a total of 15 troops in Iraq this month, making it the deadliest month for U.S. forces in Iraq since June 2009, when 14 soldiers were killed fighting the Iraqi insurgency. ](/news/2011/06/30/iraq-war-the-united-states-has-lost-a-total-of-15-troops-in-iraq-this-month-making-it-the-deadliest-month-for-u-s-forces-in-iraq-since-ju.md)
-_Context: Iraq, Iraq War, Iraqi insurgency, United States_
+_Context: Iraq, Iraq War, Iraqi insurgency, U.S._
 
 ### [Glenn Beck hosts his final program on the US Fox News Channel. ](/news/2011/06/30/glenn-beck-hosts-his-final-program-on-the-us-fox-news-channel.md)
 _Context: Fox News, Glenn Beck_
 
 ### [The Beijing-Shanghai High-Speed Railway commences commercial operation in the People's Republic of China. ](/news/2011/06/30/the-beijingashanghai-high-speed-railway-commences-commercial-operation-in-the-people-s-republic-of-china.md)
-_Context: Beijing-Shanghai High-Speed Railway, People's Republic of China_
+_Context: Beijing-Shanghai High-Speed Railway, Chinese_
 
 ### [The Japanese auto industry begins designated weekday shutdowns as part of an effort to save energy as a result of the Fukushima Daiichi nuclear disaster. ](/news/2011/06/30/the-japanese-auto-industry-begins-designated-weekday-shutdowns-as-part-of-an-effort-to-save-energy-as-a-result-of-the-fukushima-daiichi-nucl.md)
 _Context: Fukushima Daiichi nuclear disaster, automakers_

@@ -19,7 +19,7 @@ Capping one of the tightest races in recent Academy Awards history, director Ste
 RTE’s Prime Time appeared to suffer a technical difficulty this evening during an interview with the Russian ambassador to Ireland.
 
 ### [Google and Samsung have asked an agency of the government of the People's Republic of China to impose limiting conditions on a proposed merger of Microsoft and Nokia. ](/news/2014/03/3/google-and-samsung-have-asked-an-agency-of-the-government-of-the-people-s-republic-of-china-to-impose-limiting-conditions-on-a-proposed-merg.md)
-_Context: Google, Microsoft, Nokia, People's Republic of China, Samsung_
+_Context: Chinese, Google, Microsoft, Nokia, Samsung_
 
 ### [Microsoft founder Bill Gates regains the top spot as the world's richest person, according to Forbes magazine's annual ranking of global billionaires. ](/news/2014/03/3/microsoft-founder-bill-gates-regains-the-top-spot-as-the-world-s-richest-person-according-to-forbes-magazine-s-annual-ranking-of-global-bil.md)
 _Context: Bill Gates, Forbes, Microsoft_

@@ -31,7 +31,7 @@ The search has resumed for four British sailors missing since their yacht appare
 The Indianapolis singer is the sixth-season winner of the NBC competition.
 
 ### [The President of Russia Vladimir Putin arrives in the People's Republic of China for a state visit. ](/news/2014/05/20/the-president-of-russia-vladimir-putin-arrives-in-the-people-s-republic-of-china-for-a-state-visit.md)
-_Context: People's Republic of China, President of Russia, Vladimir Putin_
+_Context: Chinese, President of Russia, Vladimir Putin_
 
 ### [American actor Michael Jace is arrested in relation to the shooting death of his wife in Los Angeles. ](/news/2014/05/20/american-actor-michael-jace-is-arrested-in-relation-to-the-shooting-death-of-his-wife-in-los-angeles.md)
 Actor Michael Jace, who played a Los Angeles police officer in the FX drama The Shield, has been arrested in the shooting death of his wife, police said.

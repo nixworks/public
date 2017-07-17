@@ -28,7 +28,7 @@ U.S. reporters say China&rsquo;s efforts to intimidate journalists have increase
 _Context: Benjamin Netanyahu, Israeli Prime Minister, Jerusalem, John Kerry, United States Secretary of State, nuclear scientist_
 
 ### [Myanmar's Thein Sein and the Philippines' Benigno Aquino III ink trade agreements including those that involve renewable energy, mass media, and visa-free travel.  ](/news/2013/12/5/myanmar-s-thein-sein-and-the-philippines-benigno-aquino-iii-ink-trade-agreements-including-those-that-involve-renewable-energy-mass-media.md)
-_Context: Benigno Aquino III, Myanmar, Philippines, Thein Sein, mass media, renewable energy, visa-free travel_
+_Context: Benigno "Noynoy" Aquino III, Myanmar, Philippines, Thein Sein, mass media, renewable energy, visa-free travel_
 
 ### [Indonesia jails 14 Rohingya asylum seekers for their role in a deadly brawl in a North Sumatra detention centre that claimed 8 lives. ](/news/2013/12/5/indonesia-jails-14-rohingya-asylum-seekers-for-their-role-in-a-deadly-brawl-in-a-north-sumatra-detention-centre-that-claimed-8-lives.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

@@ -7,7 +7,7 @@ Reports from the Syrian city of Hama say 50 protesters have been released and go
 Gen. David Petraeus, the outgoing top commander of the NATO forces in Afghanistan, formally transferred authority Monday to incoming commander Marine Corps Gen. John Allen.
 
 ### [Rioting at a police station in Hotan in the Xinjiang region of western China kills at least four people. ](/news/2011/07/18/rioting-at-a-police-station-in-hotan-in-the-xinjiang-region-of-western-china-kills-at-least-four-people.md)
-_Context: Hotan, People's Republic of China, Xinjiang_
+_Context: Chinese, Hotan, Xinjiang_
 
 ### [Nine months after a goodwill gesture Japan and South Korea will commence negotiations in August on the return of more than 1,200 volumes of ancient Korean royal archives taken during Japanese rule between 1910 and 1945. ](/news/2011/07/18/nine-months-after-a-goodwill-gesture-japan-and-south-korea-will-commence-negotiations-in-august-on-the-return-of-more-than-1-200-volumes-of.md)
 _Context: Japan, Japanese occupation, South Korea_

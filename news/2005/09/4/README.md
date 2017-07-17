@@ -7,7 +7,7 @@ _Context: Gaza Strip, Israeli-Palestinian conflict, Mahmoud Abbas, Palestinian N
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Typhoon Talim brings torrential rains and landslides in east People's Republic of China's Anhui Province, claiming 53 lives and leaving 12 missing. ](/news/2005/09/4/typhoon-talim-brings-torrential-rains-and-landslides-in-east-people-s-republic-of-china-s-anhui-province-claiming-53-lives-and-leaving-12.md)
-_Context: Anhui, People's Republic of China, Typhoon Talim_
+_Context: Anhui, Chinese, Typhoon Talim_
 
 ### [ Wistar Institute scientists say they will present details of research on their creation of "miracle mice" next week at a Cambridge University conference on Regeneration. The experimental animals are able to regenerate amputated limbs or body organs.](/news/2005/09/4/wistar-institute-scientists-say-they-will-present-details-of-research-on-their-creation-of-miracle-mice-next-week-at-a-cambridge-universi.md)
 _Context: Wistar Institute, regenerate_

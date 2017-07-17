@@ -19,7 +19,7 @@ _Context: Ares I-X, NASA, Space Shuttle_
 Group fined $900,000 for fraud but is allowed to continue practising in France.
 
 ### [ China confirms it has executed 2 Tibetans over unrest last year. ](/news/2009/10/27/china-confirms-it-has-executed-2-tibetans-over-unrest-last-year.md)
-_Context: People's Republic of China, Tibet, unrest in 2008_
+_Context: Chinese, Tibet, unrest in 2008_
 
 ### [ The son of ex-French President Franois Mitterrand, Jean-Christophe Mitterrand and an ex-government minister, Charles Pasqua, are convicted for their roles in illegal arms sales to Angola. ](/news/2009/10/27/the-son-of-ex-french-president-francois-mitterrand-jean-christophe-mitterrand-and-an-ex-government-minister-charles-pasqua-are-convicted.md)
 _Context: Charles Pasqua, France, Franois Mitterrand, Jean-Christophe Mitterrand, President of France, illegal arms sales to Angola_

@@ -7,7 +7,7 @@ _Context: Marshall Islands, flood, state of emergency_
 _Context: India, Maruti Suzuki, global crisis, largest automobile manufacturer_
 
 ### [ A gas leak at a steel mill in Zunhua, China, causes 17 deaths. ](/news/2008/12/25/a-gas-leak-at-a-steel-mill-in-zunhua-china-causes-17-deaths.md)
-_Context: People's Republic of China, Zunhua, natural gas leak, steel mill_
+_Context: Chinese, Zunhua, natural gas leak, steel mill_
 
 ### [ An explosion at an apartment in Yevpatoria, Ukraine, kills at least 19. ](/news/2008/12/25/an-explosion-at-an-apartment-in-yevpatoria-ukraine-kills-at-least-19.md)
 An explosion ripped through an apartment building in southern Ukraine, killing 19 people, and officials said Thursday they expected the toll to rise.

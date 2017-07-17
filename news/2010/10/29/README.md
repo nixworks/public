@@ -76,7 +76,7 @@ New suspected cholera cases in Haiti raise fears that the epidemic is moving clo
 Australian rescuers searching for survivors of a French helicopter crash in Antarctica confirm all four on board died in the incident.
 
 ### [Seven people are killed and one missing after a blast at a coal mine in Sichuan, China. ](/news/2010/10/29/seven-people-are-killed-and-one-missing-after-a-blast-at-a-coal-mine-in-sichuan-china.md)
-_Context: People's Republic of China, Sichuan_
+_Context: Chinese, Sichuan_
 
 ### [2010 Atlantic hurricane season: Tropical Storm Shary strengthens and nears Bermuda, while Tropical Storm Tomas forms and approaches the Caribbean Sea. ](/news/2010/10/29/2010-atlantic-hurricane-season-tropical-storm-shary-strengthens-and-nears-bermuda-while-tropical-storm-tomas-forms-and-approaches-the-cari.md)
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News

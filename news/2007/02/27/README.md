@@ -31,13 +31,13 @@ _Context: 2007 Bagram Air Base bombing, Bagram Air Base, Dick Cheney, Taliban, U
 _Context: North Korea, North Korean nuclear weapons program, South Korea, six-party talks_
 
 ### [ The ambassadors from the United States and Italy to Sri Lanka are injured by mortar fire while visiting eastern Sri Lanka. ](/news/2007/02/27/the-ambassadors-from-the-united-states-and-italy-to-sri-lanka-are-injured-by-mortar-fire-while-visiting-eastern-sri-lanka.md)
-_Context: Italian, Mortar, Sri Lanka, United States, ambassador_
+_Context: Italian, Mortar, Sri Lanka, U.S., ambassador_
 
 ### [ Prime Minister of Papua New Guinea Michael Somare removes Minister for Defence Martin Aini from office over the Julian Moti affair. ](/news/2007/02/27/prime-minister-of-papua-new-guinea-michael-somare-removes-minister-for-defence-martin-aini-from-office-over-the-julian-moti-affair.md)
 _Context: Julian Moti, Martin Aini, Michael Somare, Minister for Defence, Prime Minister_
 
 ### [ Drought in southwestern China is threatening the drinking water supply of 1.5 million people. ](/news/2007/02/27/drought-in-southwestern-china-is-threatening-the-drinking-water-supply-of-1-5-million-people.md)
-_Context: People's Republic of China, drought, water_
+_Context: Chinese, drought, water_
 
 ### [ A hail storm damages the Space Shuttle ''Atlantis'', delaying the STS-117 launch originally scheduled for March 15. ](/news/2007/02/27/a-hail-storm-damages-the-space-shuttle-atlantis-delaying-the-sts-117-launch-originally-scheduled-for-march-15.md)
 _Context: March 15, STS-117, Space Shuttle, Space Shuttle Atlantis, hail_

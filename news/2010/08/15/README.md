@@ -16,7 +16,7 @@ _Context: Jamaica, Kingston_
 Prime minister calls for end to violence in speech marking independence day.
 
 ### [A United States missile attack on a militant compound in the village of Essori near Miranshah in the North Waziristan area of Pakistan kills 13 people. ](/news/2010/08/15/a-united-states-missile-attack-on-a-militant-compound-in-the-village-of-essori-near-miranshah-in-the-north-waziristan-area-of-pakistan-kills.md)
-_Context: Miranshah, North Waziristan, Pakistan, Taliban, United States_
+_Context: Miranshah, North Waziristan, Pakistan, Taliban, U.S._
 
 ### [Ayman al-Zawahiri, speaking via an audio message, criticises the Turkish government for what he says is co-operation with Israel, as well as "killing Muslims in Afghanistan". ](/news/2010/08/15/ayman-al-zawahiri-speaking-via-an-audio-message-criticises-the-turkish-government-for-what-he-says-is-co-operation-with-israel-as-well-as.md)
 _Context: Afghanistan, Ayman al-Zawahiri, Israel, Muslim, Turkey_

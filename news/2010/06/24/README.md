@@ -61,13 +61,13 @@ _Context: Somaliland_
 _Context: Belarus, Gazprom, Russia, export, monopoly, natural gas_
 
 ### [Bridgeport, Connecticut in the United States is put under a state of emergency when hurricane-force winds from a strong storm went through, causing injuries and severe damage including the collapse of a multi-story building. ](/news/2010/06/24/bridgeport-connecticut-in-the-united-states-is-put-under-a-state-of-emergency-when-hurricane-force-winds-from-a-strong-storm-went-through.md)
-_Context: Bridgeport, United States_
+_Context: Bridgeport, U.S._
 
 ### [Sri Lanka announces that a United Nations panel investigating human rights abuses will not be allowed to enter the country. ](/news/2010/06/24/sri-lanka-announces-that-a-united-nations-panel-investigating-human-rights-abuses-will-not-be-allowed-to-enter-the-country.md)
 The Sri Lankan foreign minister has said that a UN panel on human rights will not be allowed into the country.
 
 ### [China announces it has broken up what it describes as a terrorist ring in Xinjiang in the west of the country. ](/news/2010/06/24/china-announces-it-has-broken-up-what-it-describes-as-a-terrorist-ring-in-xinjiang-in-the-west-of-the-country.md)
-_Context: People's Republic of China, Xinjiang_
+_Context: Chinese, Xinjiang_
 
 ### [Slovakia defeat defending champion Italy by a 3-2 score; following France's elimination on Tuesday, this marks the first time in World Cup history that both previous finalists fail to progress beyond the first round of play. ](/news/2010/06/24/slovakia-defeat-defending-champion-italy-by-a-3-2-score-following-france-s-elimination-on-tuesday-this-marks-the-first-time-in-world-cup-h.md)
 _Context: 3-2 score, French, Italy, Slovakia, World Cup, defending champion, elimination_

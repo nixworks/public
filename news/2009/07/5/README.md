@@ -1,7 +1,7 @@
 ## [2009-07-5](/news/2009/07/5/index.md)
 
 ### [ Three people are killed and twenty injured following clashes in rmqi, capital of Xinjiang, western China. ](/news/2009/07/5/three-people-are-killed-and-twenty-injured-following-clashes-in-urumqi-capital-of-xinjiang-western-china.md)
-_Context: People's Republic of China, Urumqi, Xinjiang, riots_
+_Context: Chinese, Urumqi, Xinjiang, riots_
 
 ### [ At least eight people die in blasts at two explosives factories in Madhya Pradesh, India. ](/news/2009/07/5/at-least-eight-people-die-in-blasts-at-two-explosives-factories-in-madhya-pradesh-india.md)
 _Context: India, Madhya Pradesh_
@@ -10,7 +10,7 @@ _Context: India, Madhya Pradesh_
 _Context: Florida, Orlando, Florida, Walt Disney World, monorail collision_
 
 ### [ The Fellowship of Confessing Anglicans claims the debate over homosexuality may split the Church of England the way it has split the Episcopal Church in the United States. ](/news/2009/07/5/the-fellowship-of-confessing-anglicans-claims-the-debate-over-homosexuality-may-split-the-church-of-england-the-way-it-has-split-the-episco.md)
-_Context: Church of England, Fellowship of Confessing Anglicans, U.S. branch of the Communion, United States, homosexuality_
+_Context: Church of England, Fellowship of Confessing Anglicans, U.S., U.S. branch of the Communion, homosexuality_
 
 ### [ An Irish government delegation arrives in Cairo to be briefed on the Sudan kidnappings. ](/news/2009/07/5/an-irish-government-delegation-arrives-in-cairo-to-be-briefed-on-the-sudan-kidnappings.md)
 _Context: Cairo, Ireland, Sudan_

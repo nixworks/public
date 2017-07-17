@@ -19,7 +19,7 @@ _Context: Battle of Iwo Jima, Imperial Japanese Army, Naoto Kan, Prime Minister,
 _Context: California, Raymond Chandler, San Diego, U.S. state_
 
 ### [The People's Republic of China orders makers of films and television programs to limit the amount of smoking shown on-screen. ](/news/2011/02/15/the-people-s-republic-of-china-orders-makers-of-films-and-television-programs-to-limit-the-amount-of-smoking-shown-on-screen.md)
-_Context: People's Republic of China, smoking_
+_Context: Chinese, smoking_
 
 ### [Mtley Cre singer Vince Neil begins a 15-day jail sentence for drunk driving in Las Vegas. ](/news/2011/02/15/motley-crue-singer-vince-neil-begins-a-15-day-jail-sentence-for-drunk-driving-in-las-vegas.md)
 _Context: Las Vegas, Mtley Cre, Vince Neil, driving under the influence_
@@ -40,7 +40,7 @@ _Context: Boeing 757, United Airlines_
 reaching impact on deals (Adds background, judge and Airgas comment, from paragraphfour)
 
 ### [Argentina lodges an official complaint against the United States after America's landing of a military plane loaded with undeclared "sensitive material", including guns, drugs and satellite phones, leading the Argentinian government to express concerns that the U.S. was attempting to sneak its cargo into the country.  ](/news/2011/02/15/argentina-lodges-an-official-complaint-against-the-united-states-after-america-s-landing-of-a-military-plane-loaded-with-undeclared-sensiti.md)
-_Context: Argentina, United States_
+_Context: Argentina, U.S._
 
 ### [The United States Secretary of State Hillary Clinton outlines a new policy on Internet freedom. ](/news/2011/02/15/the-united-states-secretary-of-state-hillary-clinton-outlines-a-new-policy-on-internet-freedom.md)
 The State Department will finance programs to help Internet users around the world limit surveillance.

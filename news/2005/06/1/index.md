@@ -40,7 +40,7 @@ _Context: Jimmy Wales, June 6, Time, Wikipedia_
 _Context: SEC, William Donaldson_
 
 ### [  In Crosby, Texas, United States of America an oil well owned by Louisiana Oil & Gas Co. exploded. <small>''<<NEWSLINK MISSING>>''</small>](/news/2005/06/1/in-crosby-texas-united-states-of-america-an-oil-well-owned-by-louisiana-oil-gas-co-exploded.md)
-_Context: American, Crosby, Texas, Louisiana Oil & Gas Co._
+_Context: Crosby, Texas, Louisiana Oil & Gas Co., United States of America_
 
 ## [Previous Day...](/news/2005/05/31/index.md)
 

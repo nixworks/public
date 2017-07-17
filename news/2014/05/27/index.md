@@ -10,7 +10,7 @@ A convoy of chemical weapons inspectors and UN staff that was travelling to a si
 The troops will include troops to train and advise Afghanistan&rsquo;s military and a group of Special Operations forces.
 
 ### [An American doctor, Mehdi Ali Qamar, is shot and killed in Pakistan by unknown assailants on motorbikes.  ](/news/2014/05/27/an-american-doctor-mehdi-ali-qamar-is-shot-and-killed-in-pakistan-by-unknown-assailants-on-motorbikes.md)
-_Context: Pakistan, United States_
+_Context: Pakistan, U.S._
 
 ### [At least 35 people killed, 70 injured in bomb attacks in Baghdad and Anbar Province of Iraq. ](/news/2014/05/27/at-least-35-people-killed-70-injured-in-bomb-attacks-in-baghdad-and-anbar-province-of-iraq.md)
 _Context: Anbar province, Baghdad, Iraq, Iraqi insurgency_

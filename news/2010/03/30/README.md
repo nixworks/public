@@ -25,7 +25,7 @@ In their biggest hijacking ever, Somali pirates captured 8 boats taking nearly 1
 _Context: Durango, Mexican states, Mexico_
 
 ### [Chinese police are hunting a man suspected of killing five members of a migrant family, including an 8-year-old girl, in the Inner Mongolia Autonomous Region. ](/news/2010/03/30/chinese-police-are-hunting-a-man-suspected-of-killing-five-members-of-a-migrant-family-including-an-8-year-old-girl-in-the-inner-mongolia.md)
-_Context: Inner Mongolia, People's Republic of China_
+_Context: Chinese, Inner Mongolia_
 
 ### [Sen Quinn's Quinn Insurance goes into administration. ](/news/2010/03/30/sean-quinn-s-quinn-insurance-goes-into-administration.md)
 The High Court has appointed two joint provisional administrators to Quinn Insurance Ltd.

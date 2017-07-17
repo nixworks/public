@@ -34,7 +34,7 @@ Powerful electrical storms swept across the area Sunday evening, felling trees a
 _Context: Baja California, Mexico, Sea of Cortez, sinks_
 
 ### [South Korea announces plans to submit a claim to the United Nations to a larger portion of the East China Sea in a move which is likely to be disputed by the People's Republic of China and Japan. ](/news/2011/07/3/south-korea-announces-plans-to-submit-a-claim-to-the-united-nations-to-a-larger-portion-of-the-east-china-sea-in-a-move-which-is-likely-to-b.md)
-_Context: East China Sea, Japan, People's Republic of China, South Korea, United Nations, territorial waters_
+_Context: Chinese, East China Sea, Japan, South Korea, United Nations, territorial waters_
 
 ### [The Swiss Government blocks 27 million Swiss francs worth of assets linked to senior Syrian officials. ](/news/2011/07/3/the-swiss-government-blocks-27-million-swiss-francs-worth-of-assets-linked-to-senior-syrian-officials.md)
 _Context: Swiss Government, Syria, francs_

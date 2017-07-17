@@ -7,7 +7,7 @@ Current and former world leaders gathered Saturday to bid farewell to former Ger
 _Context: Enzo Ferrari, Italian, Modena, Modena Park 2017, Vasco Rossi, a-Ha_
 
 ### [President of the Philippines Rodrigo Duterte threatens the ''Philippine Daily Inquirer'' with an expose. The newspaper has been a long-time ally of the politically prominent Aquino family (ever since the 1986 EDSA People Power Revolution), as well as the minority opposition Liberal Party (of which the Vice President of the Philippines Leni Robredo is its prominent member); both have been consistent in their criticisms of the Duterty presidency and its policies since its inauguration in 2016. ](/news/2017/07/1/president-of-the-philippines-rodrigo-duterte-threatens-the-philippine-daily-inquirer-with-an-exposa-c-the-newspaper-has-been-a-long-time.md)
-_Context: 1986 EDSA People Power Revolution, Aquino family, Duterty presidency, Freedom of speech in the Philippines, Leni Robredo, Liberal Party, Philippine Daily Inquirer, Philippine president, Rodrigo Duterte, Vice President of the Philippines, expose_
+_Context: 1986 EDSA People Power Revolution, Aquino family, Duterty presidency, Freedom of speech in the Philippines, Leni Robredo, Liberal Party, Philippine Daily Inquirer, President of the Philippines, Rodrigo Duterte, Vice President of the Philippines, expose_
 
 ### [India replaces its federal and state taxes with the Goods and Services Tax (GST), the most extensive tax reform since its independence. ](/news/2017/07/1/india-replaces-its-federal-and-state-taxes-with-the-goods-and-services-tax-gst-the-most-extensive-tax-reform-since-its-independence.md)
 The overhaul existing laws was carried out at a special midnight session of parliament.

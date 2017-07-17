@@ -43,7 +43,7 @@ Tropical Cyclone Amos was upgraded to a category three on Friday night, and was 
 MEXICO CITY (AP) — Searchers recovered four more bodies from a petrochemical plant wrecked by a huge explosion this week on Mexico&#039;s southeastern Gulf coast, raising the death toll to 28, the state oil company said Friday…
 
 ### [Mayor of London and cabinet member Boris Johnson says that U.S. President Barack Obama is "inconsistent and hypocritical" in persuading the British people to remain in the European Union. ](/news/2016/04/22/mayor-of-london-and-cabinet-member-boris-johnson-says-that-u-s-president-barack-obama-is-inconsistent-and-hypocritical-in-persuading-the.md)
-_Context: Barack Obama, Boris Johnson, European Union, London Mayor, United Kingdom withdrawal from the European Union, United States_
+_Context: Barack Obama, Boris Johnson, European Union, London Mayor, U.S., United Kingdom withdrawal from the European Union_
 
 ### [The U.S. House Committee on Foreign Affairs unanimously passes a resolution reaffirming the Taiwan Relations Act and the Six Assurances. ](/news/2016/04/22/the-u-s-house-committee-on-foreign-affairs-unanimously-passes-a-resolution-reaffirming-the-taiwan-relations-act-and-the-six-assurances.md)
 The US House of Representatives’ Foreign Affairs Committee on Wednesday unanimously passed a resolution reaffirming the Taiwan Relations Act (TRA) and the “six assurances” as the “cornerstone of US-Taiwan relations.”
@@ -52,7 +52,7 @@ The US House of Representatives’ Foreign Affairs Committee on Wednesday unanim
 Records are set to be broken as 168 countries line up to sign the historic UN Paris agreement on climate change in New York, but what happens after that?
 
 ### [U.S. General Curtis Scaparrotti, the incoming head of the United States military forces in Europe, says he supports a permanent brigade-sized presence of U.S. combat troops in Eastern Europe to deter Russia's expanded and assertive actions. ](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-says-he-supports-a-permanent-brigade-size.md)
-_Context: Cold War II, Curtis Scaparrotti, Europe, NATO-Russia relations, Russia, United States, United States military, eastern Europe_
+_Context: Cold War II, Curtis Scaparrotti, Europe, NATO-Russia relations, Russia, U.S., United States military, eastern Europe_
 
 ### [Belize accuses Guatemala of "amassing" troops on the disputed Belize-Guatemala border following the death of a teenage Guatemalan boy in a shooting incident apparently involving Belize Defence Force soldiers. Guatemalan President Jimmy Morales called the shooting a "cowardly and excessive attack" that merits the "total condemnation of the Guatemalan state". ](/news/2016/04/22/belize-accuses-guatemala-of-amassing-troops-on-the-disputed-belizeaguatemala-border-following-the-death-of-a-teenage-guatemalan-boy-in-a.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
@@ -85,7 +85,7 @@ _Context: Philippine general election, 2016, a massive breach on its database_
 It’s at the mouth of the Amazon River. 
 
 ### [China's National Space Administration says it is working on a program to land a rover on Mars by 2020. ](/news/2016/04/22/china-s-national-space-administration-says-it-is-working-on-a-program-to-land-a-rover-on-mars-by-2020.md)
-_Context: China National Space Administration, Mars, People's Republic of China_
+_Context: China National Space Administration, Chinese, Mars_
 
 ### [The Alaska SeaLife Center (Seward, Alaska)  announces that 98 percent of the center's heating and cooling  now comes from low-cost, alternative energy derived from seawater. ](/news/2016/04/22/the-alaska-sealife-center-seward-alaska-announces-that-98-percent-of-the-center-s-heating-and-cooling-now-comes-from-low-cost-alternat.md)
 Alaska SeaLife Center converts the use of fossil fuel into renewable seawater system for the heating and cooling needs of the center. The offices and labs within its building use almost 98 percent of low-cost renewable energy from the ocean.

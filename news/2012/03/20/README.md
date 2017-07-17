@@ -37,7 +37,7 @@ _Context: NATO, Pakistani Army, Parliament's_
 _Context: New Years Eve, Ross Mirkarimi, San Franciscan sheriff deputies, San Francisco, California, captivity_
 
 ### [Media reports in the People's Republic of China claim that former Chongqing Communist Party boss Bo Xilai interfered in a police investigation into a family member before he was dismissed. ](/news/2012/03/20/media-reports-in-the-people-s-republic-of-china-claim-that-former-chongqing-communist-party-boss-bo-xilai-interfered-in-a-police-investigati.md)
-_Context: Bo Xilai, Chongqing, Communist Party of China, People's Republic of China_
+_Context: Bo Xilai, Chinese, Chongqing, Communist Party of China_
 
 ### [Voters in the US state of Illinois go to the polls for the Republican primary with Mitt Romney projected as the winner.](/news/2012/03/20/voters-in-the-us-state-of-illinois-go-to-the-polls-for-the-republican-primary-with-mitt-romney-projected-as-the-winner.md)
 Mitt Romney left Rick Santorum with a dwindling number of opportunities to shake up the race, at least for another month, after trouncing his chief rival in the Illinois Republican primary Tuesday.

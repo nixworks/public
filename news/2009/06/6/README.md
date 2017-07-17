@@ -10,7 +10,7 @@ _Context: Dublin Central, Dublin South, Fianna Fail, Ireland, by-election, local
 _Context: Conservative Party, Labour, Liberal Democrats, UK, county council, local elections_
 
 ### [ Twenty-six people are killed during and 100 others remain missing after a landslide near Chongqing, China. ](/news/2009/06/6/twenty-six-people-are-killed-during-and-100-others-remain-missing-after-a-landslide-near-chongqing-china.md)
-_Context: Chongqing, People's Republic of China, landslide_
+_Context: Chinese, Chongqing, landslide_
 
 ### [ Seventy-six people die at Harmony Gold's mine in Free State, South Africa. ](/news/2009/06/6/seventy-six-people-die-at-harmony-gold-s-mine-in-free-state-south-africa.md)
 _Context: Free State, Harmony Gold, South Africa, die, gold mine_

@@ -1,7 +1,7 @@
 ## [2008-04-19](/news/2008/04/19/index.md)
 
 ### [ Muqtada al-Sadr threatens a new rebellion if a United States-Iraqi crackdown against his followers continues. ](/news/2008/04/19/muqtada-al-sadr-threatens-a-new-rebellion-if-a-united-states-iraqi-crackdown-against-his-followers-continues.md)
-_Context: Iraq, Muqtada al-Sadr, United States, crackdown against his followers_
+_Context: Iraq, Muqtada al-Sadr, U.S., crackdown against his followers_
 
 ### [ Soyuz TMA-11 lands safely outside Arkalyk, 475|km|mi|sp=us short of the planned landing site in Kazakhstan, due to a computer glitch. ](/news/2008/04/19/soyuz-tma-11-lands-safely-outside-arkalyk-475-km-mi-sp-us-short-of-the-planned-landing-site-in-kazakhstan-due-to-a-computer-glitch.md)
 _Context: Arkalyk, Kazakhstan, Soyuz TMA-11_
@@ -10,7 +10,7 @@ _Context: Arkalyk, Kazakhstan, Soyuz TMA-11_
 _Context: 2008 Summer Olympics torch relay, Carrefour, Chinese, Frenchman, Hefei, Kunming, Wuhan, boycott, flag, racism, water bottle_
 
 ### [ A South African court blocks unloading of the ''An Yue Jiang'', a Chinese cargo ship carrying 77 tonnes of small arms bound for Zimbabwe, purportedly from the Chinese Ministry of Defense. According to reports, the ship has since left for Mozambique. ](/news/2008/04/19/a-south-african-court-blocks-unloading-of-the-an-yue-jiang-a-chinese-cargo-ship-carrying-77-tonnes-of-small-arms-bound-for-zimbabwe-p.md)
-_Context: Chinese Ministry of Defense, Mozambique, People's Republic of China, South Africa, Zimbabwe, cargo ship, small arms, tonne_
+_Context: Chinese, Chinese Ministry of Defense, Mozambique, South Africa, Zimbabwe, cargo ship, small arms, tonne_
 
 ## [Previous Day...](/news/2008/04/18/index.md)
 

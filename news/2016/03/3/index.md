@@ -19,7 +19,7 @@ _Context: Islamabad, Pakistan, Sartaj Aziz, Taliban, Taliban insurgency_
 President Obama has extended for another year U.S. sanctions imposed on Russia over its military intervention in Ukraine, according to a White House statement. Obama signed an executive order to prolong the raft of measures that target senior Russian officials and businessmen connected to President...
 
 ### [The United States delivers eight UH-60 Black Hawk helicopters to Jordan to help the Jordanian Armed Forces defend the country from the threat of ISIL.  ](/news/2016/03/3/the-united-states-delivers-eight-uh-60-black-hawk-helicopters-to-jordan-to-help-the-jordanian-armed-forces-defend-the-country-from-the-threa.md)
-_Context: ISIL, Jordan, Jordan-United States relations, Jordanian military, Sikorsky UH-60 Black Hawk, United States_
+_Context: ISIL, Jordan, Jordan-United States relations, Jordanian military, Sikorsky UH-60 Black Hawk, U.S._
 
 ### [Honduran indigenous environmental activist Berta Caceres is assassinated in her home in La Esperanza in Intibuca Department. ](/news/2016/03/3/honduran-indigenous-environmental-activist-berta-ca-ceres-is-assassinated-in-her-home-in-la-esperanza-in-intibuca-department.md)
 _Context: Berta Caceres, Honduran, Intibuca Department, La Esperanza_
@@ -31,7 +31,7 @@ _Context: Georgetown, Guyana, mobile phone_
 New Zealanders can now begin voting by post in the final stage of a referendum on whether to ditch the existing flag and adopt a new design.
 
 ### [Violence breaks out in in the Venezuelan city of San Cristobal between students and police after a supreme court ruling curtailed the power of the opposition-controlled National Assembly to review government appointments of Supreme Court justices. ](/news/2016/03/3/violence-breaks-out-in-in-the-venezuelan-city-of-san-crista3bal-between-students-and-police-after-a-supreme-court-ruling-curtailed-the-power.md)
-_Context: 2014-16 Venezuelan protests, National Assembly, San Cristobal, Supreme Court, Venezuela, Venezuelan police_
+_Context: 2014-16 Venezuelan protests, National Assembly, San Cristobal, Supreme Tribunal, Venezuela, Venezuelan police_
 
 ### [The eleventh Republican Party presidential debate of the election cycle takes place at the Fox Theatre in downtown Detroit, Michigan, airing live on Fox News Channel. The debate features four Republican candidates, Donald Trump, Ted Cruz, Marco Rubio and John Kasich. Ben Carson was also invited to the debate but he said that he would not be attending. An estimated 16.9 million viewers watched the debate, 5.5 million of them adults aged 25-54, making it the most watched debate since December 2015. ](/news/2016/03/3/the-eleventh-republican-party-presidential-debate-of-the-election-cycle-takes-place-at-the-fox-theatre-in-downtown-detroit-michigan-airing.md)
 The Republican presidential primary debates, hosted by Fox News, held at The Fox Theater in Detroit, Michigan.

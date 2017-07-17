@@ -10,7 +10,7 @@ _Context: Ali Hassan Al Majeed, Iran, Iran-Iraq War, Iraqi Kurdistan, Iraqi troo
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Chinese President Hu Jintao signs a series of economic deals with Sudan, which China has protected from UN sanctions. ](/news/2007/02/2/chinese-president-hu-jintao-signs-a-series-of-economic-deals-with-sudan-which-china-has-protected-from-un-sanctions.md)
-_Context: Hu Jintao, People's Republic of China, Sudan, UN, economic sanction, paramount leader_
+_Context: Chinese, Hu Jintao, Sudan, UN, economic sanction, paramount leader_
 
 ### [ War in Somalia: Eight people are killed in a mortar attack in Somalia's capital Mogadishu. ](/news/2007/02/2/war-in-somalia-eight-people-are-killed-in-a-mortar-attack-in-somalia-s-capital-mogadishu.md)
 _Context: Mogadishu, Mortar, Somalia, two years of helping_

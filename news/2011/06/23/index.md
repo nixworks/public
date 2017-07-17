@@ -7,7 +7,7 @@ Syrian troops massed onthe Turkish border overnight, witnesses said on Thursday,
 _Context: 2010-2011 Senegal protests, Dakar, riot police, rubber bullet, tear gas_
 
 ### [France announces plans to withdraw troops from Afghanistan in a similar timeframe to that announced for United States forces by President Barack Obama yesterday. ](/news/2011/06/23/france-announces-plans-to-withdraw-troops-from-afghanistan-in-a-similar-timeframe-to-that-announced-for-united-states-forces-by-president-ba.md)
-_Context: Afghanistan, Barack Obama, France, President of the United States, United States_
+_Context: Afghanistan, Barack Obama, France, President of the United States, U.S._
 
 ### [After Hamas rejects a call from the International Red Cross for access to  Israeli soldier Gilad Shalit, held incommunicado since he was captured nearly five years ago, Israeli Prime Minister Benjamin Netanyahu says Israel will reduce Palestinian prisoners' privileges in response. ](/news/2011/06/23/after-hamas-rejects-a-call-from-the-international-red-cross-for-access-to-israeli-soldier-gilad-shalit-held-incommunicado-since-he-was-cap.md)
 Noam Schalit asks why it took Israeli governments five years to make move; Hamas rejects Red Cross call for sign of life.
@@ -37,7 +37,7 @@ _Context: U.S. Supreme Court, freedom of speech, pharmaceutical companies_
 An earthquake with a preliminary magnitude of 6.7 struck off the coast of Iwate prefecture in northeast Japan Thursday, one of the areas devastated by the March 11 quake and tsunami, but there were no immediate reports of damage or injuries.
 
 ### [The fourth tropical storm of the 2011 Pacific typhoon season, Tropical Storm Haima (Egay), makes landfall in southern Guangdong Province in the People's Republic of China. ](/news/2011/06/23/the-fourth-tropical-storm-of-the-2011-pacific-typhoon-season-tropical-storm-haima-egay-makes-landfall-in-southern-guangdong-province-in.md)
-_Context: 2011 Pacific typhoon season, Guangdong province, People's Republic of China, tropical storm_
+_Context: 2011 Pacific typhoon season, Chinese, Guangdong province, tropical storm_
 
 ### [2011 Missouri River floods:U.S. nuclear regulators say two  nuclear power plants at the Fort Calhoun plant, about 20 miles north of Omaha, Nebraska, have protected critical equipment from the rising waters of the Missouri River even though flooding has already reached the grounds of one of them. ](/news/2011/06/23/2011-missouri-river-floods-pu-s-nuclear-regulators-say-two-nuclear-power-plants-at-the-fort-calhoun-plant-about-20-miles-north-of-omaha.md)
 U.S. nuclear regulators say two Nebraska nuclear power plants have protected critical equipment from the rising waters of the Missouri River even though flooding has reached the grounds of one of them.

@@ -19,7 +19,7 @@ _Context: Global Industries, Securities and Exchange Commission, Technip, inside
 _Context: 2011 Sindh floods, Pakistan, United Nations_
 
 ### [At least 27 people are dead and dozens missing after heavy rains in the People's Republic of China. ](/news/2011/09/19/at-least-27-people-are-dead-and-dozens-missing-after-heavy-rains-in-the-people-s-republic-of-china.md)
-_Context: People's Republic of China_
+_Context: Chinese_
 
 ### [Rescue efforts continue for the victims of the 2011 Sikkim earthquake, which has claimed at least 67 lives in India, Nepal and Tibet. ](/news/2011/09/19/rescue-efforts-continue-for-the-victims-of-the-2011-sikkim-earthquake-which-has-claimed-at-least-67-lives-in-india-nepal-and-tibet.md)
 _Context: 2011 Sikkim earthquake, India, Nepal, Tibet_

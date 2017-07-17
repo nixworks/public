@@ -4,7 +4,7 @@
 _Context: California, Esperanza Fire, Palm Springs, California_
 
 ### [ A United States federal appeals court blocks a landmark judgment against the tobacco industry clearing the way for selling "light" and "low tar" cigarettes until industry appeals can be reviewed. ](/news/2006/10/31/a-united-states-federal-appeals-court-blocks-a-landmark-judgment-against-the-tobacco-industry-clearing-the-way-for-selling-light-and-low.md)
-_Context: United States, cigarette, tobacco_
+_Context: U.S., cigarette, tobacco_
 
 ### [ Hassan Nasrallah, the Secretary-General of Hezbollah, says that it has started negotiating with Israel on prisoner exchange. ](/news/2006/10/31/hassan-nasrallah-the-secretary-general-of-hezbollah-says-that-it-has-started-negotiating-with-israel-on-prisoner-exchange.md)
 _Context: Hassan Nasrallah, Hezbollah, Israel, Secretary General_
@@ -19,13 +19,13 @@ News and opinion from The Times &amp; The Sunday Times
 _Context: Israel Air Force, South Lebanon_
 
 ### [ China announces the resumption of the stalled six-party talks to find a peaceful resolution to concerns about North Korean nuclear weapons program. ](/news/2006/10/31/china-announces-the-resumption-of-the-stalled-six-party-talks-to-find-a-peaceful-resolution-to-concerns-about-north-korean-nuclear-weapons.md)
-_Context: North Korea, North Korea and weapons of mass destruction, People's Republic of China, six-party talks_
+_Context: Chinese, North Korea, North Korea and weapons of mass destruction, six-party talks_
 
 ### [ Taliban insurgency: Suspected militants attack a convoy of NATO troops in Afghanistan's eastern province of Nuristan killing three soldiers. ](/news/2006/10/31/taliban-insurgency-suspected-militants-attack-a-convoy-of-nato-troops-in-afghanistan-s-eastern-province-of-nuristan-killing-three-soldiers.md)
 _Context: Afghanistan, NATO, Nuristan, Taliban insurgency_
 
 ### [ Chenagai airstrike: Pakistani officials confirm that a strike on a madrassah was based on United States intelligence that senior members of al-Qaeda were hiding there. The attack has generated protests by religious and tribal leaders in Pakistan. ](/news/2006/10/31/chenagai-airstrike-pakistani-officials-confirm-that-a-strike-on-a-madrassah-was-based-on-united-states-intelligence-that-senior-members-of.md)
-_Context: Chenagai airstrike, Pakistan, United States, al-Qaeda, madrassah_
+_Context: Chenagai airstrike, Pakistan, U.S., al-Qaeda, madrassah_
 
 ### [ Fiji's military stage exercises around the capital Suva and close off the city's army barracks as tensions rose due to fears of a coup d'etat. Fiji's military chief, Frank Bainimarama, has threatened to force the Prime Minister of Fiji Laisenia Qarase to resign unless the Prime Minister drops two Bills, one which will offer amnesty to some of those involved in a 2000 coup led by George Speight. ](/news/2006/10/31/fiji-s-military-stage-exercises-around-the-capital-suva-and-close-off-the-city-s-army-barracks-as-tensions-rose-due-to-fears-of-a-coup-d-a-c.md)
 _Context: 2000 coup, George Speight, Laisenia Qarase, Prime Minister, Suva, Voreqe Bainimarama, coup, military government_

@@ -7,7 +7,7 @@ _Context: Boko Haram, Maiduguri, Nigeria_
 Two more people died and one was missing Monday following flooding in the southeastern Brazilian state of Minas Gerais that brought the total death toll to four.
 
 ### [At least 16 people die after a bus runs off a bridge in China's Guizhou province. ](/news/2012/01/4/at-least-16-people-die-after-a-bus-runs-off-a-bridge-in-china-s-guizhou-province.md)
-_Context: Guizhou province, People's Republic of China_
+_Context: Chinese, Guizhou province_
 
 ### [The China Air Transport Association advises that Chinese airlines will not pay the carbon costs under the European Union's Emissions Trading Scheme. ](/news/2012/01/4/the-china-air-transport-association-advises-that-chinese-airlines-will-not-pay-the-carbon-costs-under-the-european-union-s-emissions-trading.md)
 The European Commission said airlines that refused to participate in its carbon trading system could be banned from European airports.
@@ -19,7 +19,7 @@ _Context: Burma, commuted_
 Two men convicted of the murder of Stephen Lawrence have been given life sentences with minimum terms of 15 years and two months and 14 years and three months.
 
 ### [Mexican drug cartel kingpin Benjamn Arellano Flix pleads guilty to racketeering and conspiracy to launder money in the United States. ](/news/2012/01/4/mexican-drug-cartel-kingpin-benjamin-arellano-felix-pleads-guilty-to-racketeering-and-conspiracy-to-launder-money-in-the-united-states.md)
-_Context: Benjamn Arellano Flix, Mexican, United States, money laundering, racketeering_
+_Context: Benjamn Arellano Flix, Mexican, U.S., money laundering, racketeering_
 
 ### [The President of Argentina Cristina Fernndez de Kirchner temporarily hands over power to her Vice-President Amado Boudou ahead of surgery for thyroid cancer. ](/news/2012/01/4/the-president-of-argentina-cristina-fernandez-de-kirchner-temporarily-hands-over-power-to-her-vice-president-amado-boudou-ahead-of-surgery-f.md)
 _Context: Amado Boudou, Cristina Kirchner, President of Argentina, thyroid cancer_
