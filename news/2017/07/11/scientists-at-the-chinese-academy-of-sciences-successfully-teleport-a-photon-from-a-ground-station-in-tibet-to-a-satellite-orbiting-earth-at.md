@@ -11,7 +11,7 @@ Researchers in China have teleported a photon from the ground to a satellite orb
 
 ### Related:
 
-1. [A newly-published paper suggest that some tardigrades may outlive most life on Earth. ](/news/2017/07/15/a-newly-published-paper-suggest-that-some-tardigrades-may-outlive-most-life-on-earth.md) _Context: Earth_
+1. [A newly-published paper suggests that some tardigrades may outlive most life on Earth. ](/news/2017/07/15/a-newly-published-paper-suggests-that-some-tardigrades-may-outlive-most-life-on-earth.md) _Context: Earth_
 2. [The European Space Agency (ESA) approves the PLATO space observatory which will seek out Earth-like exoplanets. ](/news/2017/06/21/the-european-space-agency-esa-approves-the-plato-space-observatory-which-will-seek-out-earth-like-exoplanets.md) _Context: Earth_
 3. [NASA and the European Southern Observatory announce the discovery of four new Earth-like planets in the Goldilocks zone of the star TRAPPIST-1, in addition to the three discovered there last year. ](/news/2017/02/22/nasa-and-the-european-southern-observatory-announce-the-discovery-of-four-new-earth-like-planets-in-the-goldilocks-zone-of-the-star-trappist.md) _Context: Earth_
 4. [China's Shenzhou 11 returns to Earth after completing China's longest manned space mission to date. ](/news/2016/11/18/china-s-shenzhou-11-returns-to-earth-after-completing-china-s-longest-manned-space-mission-to-date.md) _Context: Earth_
