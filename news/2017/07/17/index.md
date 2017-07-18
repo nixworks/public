@@ -18,5 +18,11 @@ _Context: King, Malaysia Airlines Flight 17, Mark Rutte, Netherlands, Prime Mini
 ### [Robert Lighthizer sends a document to U.S. lawmakers outlining the Trump Administration's priorities for renegotiating NAFTA, including lower trade deficits and efforts to deter currency manipulation. ](/news/2017/07/17/robert-lighthizer-sends-a-document-to-u-s-lawmakers-outlining-the-trump-administration-s-priorities-for-renegotiating-nafta-including-lowe.md)
 The United States on Monday launched the first salvo in the renegotiation of the 23-year-old North American Free Trade Agreement (NAFTA), saying its top priority for the talks was shrinking the U.S. trade deficit with Canada and Mexico.
 
+### [The European Union restricts the exports of inflatable boats to Libya. ](/news/2017/07/17/the-european-union-restricts-the-exports-of-inflatable-boats-to-libya.md)
+Most of the 100,000 refugees and migrants who crossed the Mediterranean Sea this year arrived in Italy from Libya.
+
+### [The White House tells U.S. Congress that Iran is complying with its nuclear deal, and promises to impose new sanctions on Iran's ballistic missile program. ](/news/2017/07/17/the-white-house-tells-u-s-congress-that-iran-is-complying-with-its-nuclear-deal-and-promises-to-impose-new-sanctions-on-iran-s-ballistic-m.md)
+The U.S. has certified with Congress that Iran is legally in compliance on the nuclear deal, but senior Trump administration officials said both Secretary of State Rex Tillerson and President Donald Trump will couch that certification with an accusation that Iran is &ldquo;unquestionably in default of the...
+
 ## [Previous Day...](/news/2017/07/16/index.md)
 
