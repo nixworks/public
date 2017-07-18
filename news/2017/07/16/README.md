@@ -1,5 +1,8 @@
 ## [2017-07-16](/news/2017/07/16/index.md)
 
+### [Jodie Whittaker has been announced to be replacing Peter Capaldi as the thirteenth incarnation of The Doctor, becoming the first woman to take the lead role of the BBC's long-running science fiction television series, ''Doctor Who''. ](/news/2017/07/16/jodie-whittaker-has-been-announced-to-be-replacing-peter-capaldi-as-the-thirteenth-incarnation-of-the-doctor-becoming-the-first-woman-to-ta.md)
+Jodie Whittaker is the first woman to get the role.
+
 ### [An early morning fire in the Chinese city of Changshu in Jiangsu province kills 22 people and injures three. ](/news/2017/07/16/an-early-morning-fire-in-the-chinese-city-of-changshu-in-jiangsu-province-kills-22-people-and-injures-three.md)
 The fire broke out in a house in Changshu city in Jiangsu province.
 
