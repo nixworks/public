@@ -10,7 +10,7 @@ _Context: Democratic Progressive Party, Kuomintang (Chinese Nationalist Party), 
 _Context: Abu Hamza Rabia, Afghanistan, Pakistan_
 
 ### [ An attack about 60 miles from Baghdad, involving a roadside bomb, kills 19 Iraqi soldiers. ](/news/2005/12/3/an-attack-about-60-miles-from-baghdad-involving-a-roadside-bomb-kills-19-iraqi-soldiers.md)
-_Context: Baghdad, IED_
+_Context: Baghdad, roadside bomb_
 
 ### [ Some 40,000 protest inaction on global warming in Montreal. The demonstration, held as part of the United Nations Climate Change Conference, is one of the largest environmental protests ever and is accompanied by marches worldwide, including one in hurricane-devastated New Orleans. ](/news/2005/12/3/some-40-000-protest-inaction-on-global-warming-in-montreal-the-demonstration-held-as-part-of-the-united-nations-climate-change-conference.md)
 _Context: Global warming, Montreal, New Orleans, UN Climate Change Conference_

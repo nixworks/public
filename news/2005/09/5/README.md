@@ -28,7 +28,7 @@ _Context: Google, Google China_
 _Context: Ibrahim Rugova, President, lung cancer_
 
 ### [ Conflict in Iraq: Two British Soldiers have been killed following a roadside IED bomb in Basra, southern Iraq. ](/news/2005/09/5/conflict-in-iraq-two-british-soldiers-have-been-killed-following-a-roadside-ied-bomb-in-basra-southern-iraq.md)
-_Context: Basra, British Soldiers, Conflict in Iraq, IED, Iraq_
+_Context: Basra, British Soldiers, Conflict in Iraq, Iraq, roadside bomb_
 
 ### [ Mandala Airlines Flight 091: A Mandala Airlines flight crashes into a residential area of the Indonesian city of Medan, killing at least 100 passengers. Among the dead are the governor and former governor of Sumatra Utara, Rizal Nurdin and Raja Inal Siregar. ](/news/2005/09/5/mandala-airlines-flight-091-a-mandala-airlines-flight-crashes-into-a-residential-area-of-the-indonesian-city-of-medan-killing-at-least-10.md)
 _Context: Mandala Airlines, Mandala Airlines Flight 091, Medan, North Sumatra, Raja Inal Siregar, Rizal Nurdin_

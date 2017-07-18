@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [A newly-published paper suggest that some tardigrades may outlive most life on Earth. ](/news/2017/07/15/a-newly-published-paper-suggest-that-some-tardigrades-may-outlive-most-life-on-earth.md) _Context: Earth_
+1. [A newly-published paper suggests that some tardigrades may outlive most life on Earth. ](/news/2017/07/15/a-newly-published-paper-suggests-that-some-tardigrades-may-outlive-most-life-on-earth.md) _Context: Earth_
 2. [Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. ](/news/2017/07/11/scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-tibet-to-a-satellite-orbiting-earth-at.md) _Context: Earth_
 3. [A temperature of 53.7degC (128.7degF) is recorded during the 2017 heat wave in Ahvaz, Khuzestan Province, breaking Iran's previous record and becoming one of the highest temperatures ever recorded on Earth. ](/news/2017/06/30/a-temperature-of-53-7adegc-128-7adegf-is-recorded-during-the-2017-heat-wave-in-ahvaz-khuzestan-province-breaking-iran-s-previous-record-and.md) _Context: Global warming_
 4. [The European Space Agency (ESA) approves the PLATO space observatory which will seek out Earth-like exoplanets. ](/news/2017/06/21/the-european-space-agency-esa-approves-the-plato-space-observatory-which-will-seek-out-earth-like-exoplanets.md) _Context: Earth_

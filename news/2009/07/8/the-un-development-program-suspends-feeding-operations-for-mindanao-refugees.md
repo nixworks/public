@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [A new set of kidnappings and a jail break plague the southern region of Mindanao in the Philippines. ](/news/2017/07/17/a-new-set-of-kidnappings-and-a-jail-break-plague-the-southern-region-of-mindanao-in-the-philippines.md) _Context: Mindanao_
+1. [A new set of kidnappings and a jail break plague Sulu province in the southern region of Mindanao in the Philippines. ](/news/2017/07/17/a-new-set-of-kidnappings-and-a-jail-break-plague-sulu-province-in-the-southern-region-of-mindanao-in-the-philippines.md) _Context: Mindanao_
 2. [The government of the Philippines and the Communist Party cancel peace talks after president Rodrigo Duterte declares martial law in Mindanao. ](/news/2017/05/28/the-government-of-the-philippines-and-the-communist-party-cancel-peace-talks-after-president-rodrigo-duterte-declares-martial-law-in-mindana.md) _Context: Mindanao_
 3. [President of the Philippines Rodrigo Duterte tells soldiers fighting in Mindanao, where he proclaimed martial law earlier this week, that he will accept responsibility for abuses they commit, and jokes that "[i]f you had raped three, I will admit it, that's on me." ](/news/2017/05/27/president-of-the-philippines-rodrigo-duterte-tells-soldiers-fighting-in-mindanao-where-he-proclaimed-martial-law-earlier-this-week-that-he.md) _Context: Mindanao_
 4. [President Rodrigo Duterte declares martial law in the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/president-rodrigo-duterte-declares-martial-law-in-the-island-of-mindanao-after-maute-militants-clash-with-army-troops-in-marawi-lanao-del-s.md) _Context: Mindanao_

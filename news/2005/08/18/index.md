@@ -13,7 +13,7 @@ _Context: BTK Killer, Dennis Rader_
 _Context: Cologne, Germany, Pope Benedict XVI, Rhine, World Youth Day 2005_
 
 ### [ Conflict in Iraq: Insurgents kill 4 US Troops in an IED explosion in Samarra, north of Baghdad, Iraq. ](/news/2005/08/18/conflict-in-iraq-p-insurgents-kill-4-us-troops-in-an-ied-explosion-in-samarra-north-of-baghdad-iraq.md)
-_Context: Baghdad, Conflict in Iraq, IED, Iraq, Iraqi insurgency, Samarra, US Troops_
+_Context: Baghdad, Conflict in Iraq, Iraq, Iraqi insurgency, Samarra, US Troops, roadside bomb_
 
 ### [ NASA has decided to push the next shuttle mission STS-121 to March 2006 and reassign it to the Space Shuttle ''Discovery'' ](/news/2005/08/18/nasa-has-decided-to-push-the-next-shuttle-mission-sts-121-to-march-2006-and-reassign-it-to-the-space-shuttle-discovery.md)
 Because of the repercussions of the shuttle Discovery&#39;s fuel tank problems, NASA is adjusting its plans for the next launch to come in March or later.

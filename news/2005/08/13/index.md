@@ -1,7 +1,7 @@
 ## [2005-08-13](/news/2005/08/13/index.md)
 
 ### [ Conflict in Iraq: Three US Soldiers are killed following an IED attack by insurgents in Tuz, northern Iraq. ](/news/2005/08/13/conflict-in-iraq-p-three-us-soldiers-are-killed-following-an-ied-attack-by-insurgents-in-tuz-northern-iraq.md)
-_Context: Conflict in Iraq, IED, Iraq, Iraqi insurgency, Tuz Khormato, US soldiers_
+_Context: Conflict in Iraq, Iraq, Iraqi insurgency, Tuz Khormato, US soldiers, roadside bomb_
 
 ### [ Former Prime Minister David Lange of New Zealand dies.  His 1984&ndash;1989 administration has left a permanent mark on New Zealand. ](/news/2005/08/13/former-prime-minister-david-lange-of-new-zealand-dies-his-1984-ndash-1989-administration-has-left-a-permanent-mark-on-new-zealand.md)
 _Context: David Lange, New Zealand, Prime Minister_

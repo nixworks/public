@@ -1,7 +1,7 @@
 ## [2015-08-24](/news/2015/08/24/index.md)
 
 ### [A roadside IED near the town of Semdinli in Hakkari Province kills two Turkish Army soldiers and injures three others. ](/news/2015/08/24/a-roadside-ied-near-the-town-of-aemdinli-in-hakkari-province-kills-two-turkish-army-soldiers-and-injures-three-others.md)
-_Context: Hakkari Province, IED, Semdinli, Turkey-PKK conflict, Turkish Army_
+_Context: Hakkari Province, Semdinli, Turkey-PKK conflict, Turkish Army, roadside bomb_
 
 ### [The President of France, Francois Hollande, presents the Legion d'honneur to four people, three of them Americans, Spencer Stone, Alek Skarlatos, Anthony Sadler; and Briton Chris Norman, for foiling a suspected terrorist act last Friday. ](/news/2015/08/24/the-president-of-france-franassois-hollande-presents-the-la-c-gion-d-honneur-to-four-people-three-of-them-americans-spencer-stone-alek-ska.md)
 _Context: 2015 Thalys attack, Francois Hollande, Legion d'honneur, President of France, terrorism_

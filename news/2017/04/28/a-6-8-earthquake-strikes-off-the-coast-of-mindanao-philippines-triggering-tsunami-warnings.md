@@ -12,7 +12,7 @@
 ### Related:
 
 1. [A magnitude 6.2 earthquake occurs near the southern Philippine island of Mindanao. ](/news/2013/02/16/a-magnitude-6-2-earthquake-occurs-near-the-southern-philippine-island-of-mindanao.md) _Context: Mindanao, Philippines, earthquake_
-2. [A new set of kidnappings and a jail break plague the southern region of Mindanao in the Philippines. ](/news/2017/07/17/a-new-set-of-kidnappings-and-a-jail-break-plague-the-southern-region-of-mindanao-in-the-philippines.md) _Context: Mindanao, Philippines_
+2. [A new set of kidnappings and a jail break plague Sulu province in the southern region of Mindanao in the Philippines. ](/news/2017/07/17/a-new-set-of-kidnappings-and-a-jail-break-plague-sulu-province-in-the-southern-region-of-mindanao-in-the-philippines.md) _Context: Mindanao, Philippines_
 3. [The government of the Philippines and the Communist Party cancel peace talks after president Rodrigo Duterte declares martial law in Mindanao. ](/news/2017/05/28/the-government-of-the-philippines-and-the-communist-party-cancel-peace-talks-after-president-rodrigo-duterte-declares-martial-law-in-mindana.md) _Context: Mindanao, Philippines_
 4. [A 6.5 magnitude earthquake strikes 14 kilometers (8 miles) northwest of Surigao City on the Philippines island of Mindanao and kills four people, injures  more than 100  others, and damages multiple buildings. ](/news/2017/02/10/a-6-5-magnitude-earthquake-strikes-14-kilometers-8-miles-northwest-of-surigao-city-on-the-philippines-island-of-mindanao-and-kills-four-pe.md) _Context: Mindanao, Philippines_
 5. [A magnitude 7.7 earthquake in Chile spurs tsunami warnings. ](/news/2016/12/25/a-magnitude-7-7-earthquake-in-chile-spurs-tsunami-warnings.md) _Context: earthquake, tsunami_
