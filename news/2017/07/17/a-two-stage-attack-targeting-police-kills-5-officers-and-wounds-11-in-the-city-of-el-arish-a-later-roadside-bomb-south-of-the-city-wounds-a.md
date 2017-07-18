@@ -7,7 +7,7 @@ Islamic militants launched a series of attacks against Egyptian police in the no
 
 ### Source:
 
-1. [abc News](http://abcnews.go.com/International/wireStory/militants-kill-police-complex-attack-egypts-sinai-48679899)
+1. [ABC News](http://abcnews.go.com/International/wireStory/militants-kill-police-complex-attack-egypts-sinai-48679899)
 
 ### Related:
 

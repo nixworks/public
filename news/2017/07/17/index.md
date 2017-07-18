@@ -12,8 +12,11 @@ The Syrian army has seized oil wells in Raqqa as IS militants battle to defend t
 ### [A two stage attack targeting police kills 5 officers and wounds 11 in the city of el-Arish. A later roadside bomb south of the city wounds a further 6 officers. ](/news/2017/07/17/a-two-stage-attack-targeting-police-kills-5-officers-and-wounds-11-in-the-city-of-el-arish-a-later-roadside-bomb-south-of-the-city-wounds-a.md)
 Islamic militants launched a series of attacks against Egyptian police in the northern Sinai Peninsula on Monday, killing five of them and wounding another 11, security officials said. They say the militants opened fire on an armored vehicle before setting it ablaze in the city of el-Arish....
 
-### [In Vijfhuizen, the Netherlands, exactly three years after the Malaysia Airlines Flight 17 (MH17) disaster, the National Memorial for the victims is opened in the presence of King Willem-Alexander, Queen Maxima and Prime Minister Mark Rutte. ](/news/2017/07/17/in-vijfhuizen-the-netherlands-exactly-three-years-after-the-malaysia-airlines-flight-17-mh17-disaster-the-national-memorial-for-the-vic.md)
+### [Aftermath of the In Vijfhuizen, the Netherlands, exactly three years after the Malaysia Airlines Flight 17 (MH17) disaster, the National Memorial for the victims is opened in the presence of King Willem-Alexander, Queen Maxima and Prime Minister Mark Rutte. ](/news/2017/07/17/aftermath-of-the-in-vijfhuizen-the-netherlands-exactly-three-years-after-the-malaysia-airlines-flight-17-mh17-disaster-the-national-mem.md)
 _Context: King, Malaysia Airlines Flight 17, Mark Rutte, Netherlands, Prime Minister, Queen Maxima, Vijfhuizen, Willem-Alexander_
+
+### [Robert Lighthizer sends a document to U.S. lawmakers outlining the Trump Administration's priorities for renegotiating NAFTA, including lower trade deficits and efforts to deter currency manipulation. ](/news/2017/07/17/robert-lighthizer-sends-a-document-to-u-s-lawmakers-outlining-the-trump-administration-s-priorities-for-renegotiating-nafta-including-lowe.md)
+The United States on Monday launched the first salvo in the renegotiation of the 23-year-old North American Free Trade Agreement (NAFTA), saying its top priority for the talks was shrinking the U.S. trade deficit with Canada and Mexico.
 
 ## [Previous Day...](/news/2017/07/16/index.md)
 

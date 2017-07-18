@@ -12,8 +12,11 @@ The Syrian army has seized oil wells in Raqqa as IS militants battle to defend t
 ### [A two stage attack targeting police kills 5 officers and wounds 11 in the city of el-Arish. A later roadside bomb south of the city wounds a further 6 officers. ](/news/2017/07/17/a-two-stage-attack-targeting-police-kills-5-officers-and-wounds-11-in-the-city-of-el-arish-a-later-roadside-bomb-south-of-the-city-wounds-a.md)
 Islamic militants launched a series of attacks against Egyptian police in the northern Sinai Peninsula on Monday, killing five of them and wounding another 11, security officials said. They say the militants opened fire on an armored vehicle before setting it ablaze in the city of el-Arish....
 
-### [In Vijfhuizen, the Netherlands, exactly three years after the Malaysia Airlines Flight 17 (MH17) disaster, the National Memorial for the victims is opened in the presence of King Willem-Alexander, Queen Maxima and Prime Minister Mark Rutte. ](/news/2017/07/17/in-vijfhuizen-the-netherlands-exactly-three-years-after-the-malaysia-airlines-flight-17-mh17-disaster-the-national-memorial-for-the-vic.md)
+### [Aftermath of the In Vijfhuizen, the Netherlands, exactly three years after the Malaysia Airlines Flight 17 (MH17) disaster, the National Memorial for the victims is opened in the presence of King Willem-Alexander, Queen Maxima and Prime Minister Mark Rutte. ](/news/2017/07/17/aftermath-of-the-in-vijfhuizen-the-netherlands-exactly-three-years-after-the-malaysia-airlines-flight-17-mh17-disaster-the-national-mem.md)
 _Context: King, Malaysia Airlines Flight 17, Mark Rutte, Netherlands, Prime Minister, Queen Maxima, Vijfhuizen, Willem-Alexander_
+
+### [Robert Lighthizer sends a document to U.S. lawmakers outlining the Trump Administration's priorities for renegotiating NAFTA, including lower trade deficits and efforts to deter currency manipulation. ](/news/2017/07/17/robert-lighthizer-sends-a-document-to-u-s-lawmakers-outlining-the-trump-administration-s-priorities-for-renegotiating-nafta-including-lowe.md)
+The United States on Monday launched the first salvo in the renegotiation of the 23-year-old North American Free Trade Agreement (NAFTA), saying its top priority for the talks was shrinking the U.S. trade deficit with Canada and Mexico.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -23,13 +26,10 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/07/16/index.md)
 
-### [Jodie Whittaker has been announced to be replacing Peter Capaldi as the thirteenth incarnation of The Doctor, becoming the first woman to take the lead role of the BBC's long-running science fiction television series, ''Doctor Who''. ](/news/2017/07/16/jodie-whittaker-has-been-announced-to-be-replacing-peter-capaldi-as-the-thirteenth-incarnation-of-the-doctor-becoming-the-first-woman-to-ta.md)
-Jodie Whittaker is the first woman to get the role.
-
 ### [An early morning fire in the Chinese city of Changshu in Jiangsu province kills 22 people and injures three. ](/news/2017/07/16/an-early-morning-fire-in-the-chinese-city-of-changshu-in-jiangsu-province-kills-22-people-and-injures-three.md)
 The fire broke out in a house in Changshu city in Jiangsu province.
 
-### [A flash flood near Payson, Arizona, leaves at least seven people dead and three others missing, according to the Gila County Sheriff's Office. ](/news/2017/07/16/a-flash-flood-near-payson-arizona-leaves-at-least-seven-people-dead-and-three-others-missing-according-to-the-gila-county-sheriff-s-offic.md)
+### [A flash flood near Payson, Arizona, leaves at least nine people dead and one person missing, according to the Gila County Sheriff's Office. ](/news/2017/07/16/a-flash-flood-near-payson-arizona-leaves-at-least-nine-people-dead-and-one-person-missing-according-to-the-gila-county-sheriff-s-office.md)
 At least seven people die and three more are missing after a swimming hole is struck near Payson.
 
 ### [A stalemate between China and India leads to fears that the ongoing stand-off over Doklam in the Himalayas, disputed by Bhutan, may continue into the winter. It comes after rumors that Indian National Security Adviser Ajit Doval may travel to Beijing later this month. ''[http://economictimes.indiatimes.com/news/defence/beijing-wont-have-formal-talks-with-india-stand-off-may-continue-till-winter-chinese-expert/articleshow/59615025.cms (Economic Times)]''](/news/2017/07/16/a-stalemate-between-china-and-india-leads-to-fears-that-the-ongoing-stand-off-over-doklam-in-the-himalayas-disputed-by-bhutan-may-continue.md)
