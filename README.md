@@ -1,5 +1,8 @@
 ## [News](/news/2017/07/18/index.md)
 
+### [A 7.7 magnitude earthquake strikes off Russia's Kamchatka Peninsula,  west of the  Alaskan Aleutian Island of Attu, in the North Pacific Ocean. No immediate reports of  casualties or damage; a tsunami warning was cancelled. ](/news/2017/07/18/a-7-7-magnitude-earthquake-strikes-off-russia-s-kamchatka-peninsula-west-of-the-alaskan-aleutian-island-of-attu-in-the-north-pacific-oce.md)
+ ANCHORAGE, Alaska (AP) — A strong earthquake on the Russian side of the Bering Sea briefly prompted a tsunami advisory for parts of the Pacific, including Alaska&#39;s remote Aleutian
+
 ### [Canadian-born Larissa Waters resigns as a Senator, and as deputy leader of the Australian Greens, after discovering she remains a dual citizen of Canada, rendering her election unconstitutional under section 44. The move comes four days after Scott Ludlam, Waters' co-deputy, resigned due to his New Zealand citizenship. ](/news/2017/07/18/canadian-born-larissa-waters-resigns-as-a-senator-and-as-deputy-leader-of-the-australian-greens-after-discovering-she-remains-a-dual-citiz.md)
 Greens senator Larissa Waters resigns from Parliament because of issues over her citizenship.
 
@@ -26,7 +29,7 @@ The Syrian army has seized oil wells in Raqqa as IS militants battle to defend t
 ### [A two stage attack targeting police kills 5 officers and wounds 11 in the city of el-Arish. A later roadside bomb south of the city wounds a further 6 officers. ](/news/2017/07/17/a-two-stage-attack-targeting-police-kills-5-officers-and-wounds-11-in-the-city-of-el-arish-a-later-roadside-bomb-south-of-the-city-wounds-a.md)
 Islamic militants launched a series of attacks against Egyptian police in the northern Sinai Peninsula on Monday, killing five of them and wounding another 11, security officials said. They say the militants opened fire on an armored vehicle before setting it ablaze in the city of el-Arish....
 
-### [Aftermath of the In Vijfhuizen, the Netherlands, exactly three years after the Malaysia Airlines Flight 17 (MH17) disaster, the National Memorial for the victims is opened in the presence of King Willem-Alexander, Queen Maxima and Prime Minister Mark Rutte. ](/news/2017/07/17/aftermath-of-the-in-vijfhuizen-the-netherlands-exactly-three-years-after-the-malaysia-airlines-flight-17-mh17-disaster-the-national-mem.md)
+### [Aftermath of In Vijfhuizen, the Netherlands, exactly three years after the Malaysia Airlines Flight 17 (MH17) disaster, the National Memorial for the victims is opened in the presence of King Willem-Alexander, Queen Maxima and Prime Minister Mark Rutte. ](/news/2017/07/17/aftermath-of-in-vijfhuizen-the-netherlands-exactly-three-years-after-the-malaysia-airlines-flight-17-mh17-disaster-the-national-memoria.md)
 _Context: King, Malaysia Airlines Flight 17, Mark Rutte, Netherlands, Prime Minister, Queen Maxima, Vijfhuizen, Willem-Alexander_
 
 ### [Robert Lighthizer sends a document to U.S. lawmakers outlining the Trump Administration's priorities for renegotiating NAFTA, including lower trade deficits and efforts to deter currency manipulation. ](/news/2017/07/17/robert-lighthizer-sends-a-document-to-u-s-lawmakers-outlining-the-trump-administration-s-priorities-for-renegotiating-nafta-including-lowe.md)
