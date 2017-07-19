@@ -9,5 +9,8 @@ Greens senator Larissa Waters resigns from Parliament because of issues over her
 ### [Voters in Bermuda go to the polls to elect their Premier and members of the House of Assembly. ](/news/2017/07/18/voters-in-bermuda-go-to-the-polls-to-elect-their-premier-and-members-of-the-house-of-assembly.md)
 _Context: Bermuda, Bermudian general election, 2017, House of Assembly, Premier_
 
+### [Philippine President Rodrigo Duterte seeks to extend his martial law proclamation until the beginning of 2018. ](/news/2017/07/18/philippine-president-rodrigo-duterte-seeks-to-extend-his-martial-law-proclamation-until-the-beginning-of-2018.md)
+To quell the rebellion in the Philippine city, President Rodrigo Duterte asked lawmakers to allow martial law on the island of Mindanao through the end of the year.
+
 ## [Previous Day...](/news/2017/07/17/index.md)
 
