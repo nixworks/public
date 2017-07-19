@@ -25,7 +25,7 @@ Broadway musical How to Succeed in Business Without Really Trying is to close af
 The Jockey Club, the largest commercial group in British horse racing, is to increase prize money after a rise in turnover and profits in 2011.
 
 ### [17 people are killed in a blaze at a clothing store in Butuan City, Philippines. ](/news/2012/05/9/17-people-are-killed-in-a-blaze-at-a-clothing-store-in-butuan-city-philippines.md)
-_Context: Butuan City, Philippines_
+_Context: Butuan City, Philippine_
 
 ### [A Russian Sukhoi Superjet 100 passenger jet disappears after taking off from Halim Perdanakusuma Airport in Jakarta, Indonesia, with 44 people on board. ](/news/2012/05/9/a-russian-sukhoi-superjet-100-passenger-jet-disappears-after-taking-off-from-halim-perdanakusuma-airport-in-jakarta-indonesia-with-44-peop.md)
 A new Russian Sukhoi Superjet passenger plane carrying 50 people goes missing on a demonstration flight in Indonesia.
@@ -43,7 +43,7 @@ _Context: Adam Mayes, Guntown, Mississippi, Tennessee Bureau of Investigation, f
 A journalist with a top Honduran radio station was kidnapped Wednesday on his way to work, police and co-workers said, days after another reporter was killed and dumped on the side of a road.
 
 ### [Jailed Ukrainian opposition leader Yulia Tymoshenko is moved to a hospital after a political compromise, and ends her hunger strike. ](/news/2012/05/9/jailed-ukrainian-opposition-leader-yulia-tymoshenko-is-moved-to-a-hospital-after-a-political-compromise-and-ends-her-hunger-strike.md)
-_Context: Ukrainian, Yulia Tymoshenko_
+_Context: Ukraine, Yulia Tymoshenko_
 
 ### [United States President Barack Obama officially states that he supports the right for same-sex partners to marry. ](/news/2012/05/9/united-states-president-barack-obama-officially-states-that-he-supports-the-right-for-same-sex-partners-to-marry.md)
 _Context: Barack Obama, President of the United States, same-sex marriage_

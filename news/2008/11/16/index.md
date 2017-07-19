@@ -4,7 +4,7 @@
 Jimmie Johnson locked up his third consecutive championship with a solid 15th-place finish, joining Cale Yarborough as the only drivers to win three straight Cup titles.
 
 ### [ A 7.3 magnitude earthquake strikes off the coast of Indonesia, kills two; a tsunami warning is issued, but later lifted. ](/news/2008/11/16/a-7-3-magnitude-earthquake-strikes-off-the-coast-of-indonesia-kills-two-a-tsunami-warning-is-issued-but-later-lifted.md)
-_Context: Indonesia, earthquake, magnitude, tsunami_
+_Context: Indonesia, earthquake, magnitude earthquake, tsunami_
 
 ### [ United States President-elect Barack Obama resigns his Senate seat. ](/news/2008/11/16/united-states-president-elect-barack-obama-resigns-his-senate-seat.md)
 _Context: Barack Obama, President of the United States, President-elect, U.S., United States Senate_

@@ -13,7 +13,7 @@ _Context: England, local government, structural changes_
 _Context: April Fools' Day, Conficker_
 
 ### [ Ukraine will hold a presidential election on October 25. ](/news/2009/04/1/ukraine-will-hold-a-presidential-election-on-october-25.md)
-_Context: Ukrainian, Ukrainian President, election_
+_Context: Ukraine, Ukrainian President, election_
 
 ### [ At least eight people are killed when a Eurocopter AS332 ditches into the North Sea. ](/news/2009/04/1/at-least-eight-people-are-killed-when-a-eurocopter-as332-ditches-into-the-north-sea.md)
 _Context: Eurocopter AS332, North Sea, ditches_

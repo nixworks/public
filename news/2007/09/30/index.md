@@ -7,7 +7,7 @@ _Context: 2006 Thai coup d'etat, Council for National Security, Prime Minister, 
 _Context: Garry Kasparov, President of Russia, The Other Russia, World Chess Champion, go to the polls_
 
 ### [ Ukrainian parliamentary election, 2007: Ukrainians went to the polls for the third time in three years to vote in parliamentary election. ](/news/2007/09/30/ukrainian-parliamentary-election-2007-p-ukrainians-went-to-the-polls-for-the-third-time-in-three-years-to-vote-in-parliamentary-election.md)
-_Context: Ukrainian, Ukrainian parliamentary election, 2007_
+_Context: Ukraine, Ukrainian parliamentary election, 2007_
 
 ### [ The Topps Meat Company recalls 21700000|lb|t of frozen beef patties because of potential contamination with ''E. coli''. Twenty-five cases of illness due to ''E. coli'' have been reported in the Northeastern United States. ](/news/2007/09/30/the-topps-meat-company-recalls-21700000-lb-t-of-frozen-beef-patties-because-of-potential-contamination-with-e-coli-twenty-five-cases.md)
 The Topps Meat Company, based in Elizabeth, N.J., said it was recalling 21.7 million pounds of ground beef products, which may have sickened 25 people in eight states.

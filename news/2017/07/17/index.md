@@ -4,7 +4,7 @@
 Suspected Abu Sayyaf gunmen abducted four workers in a school in a southern Philippine province where President Rodrigo Duterte visited troops waging an of
 
 ### [Officials announce that Afghan security forces have retaken Nawa District from the Taliban. ](/news/2017/07/17/officials-announce-that-afghan-security-forces-have-retaken-nawa-district-from-the-taliban.md)
-_Context: Nawa District, Taliban, War in Afghanistan (2015-present)_
+_Context: Nawa District, Taliban, War in Afghanistan (2001-present)_
 
 ### [The Syrian army seizes oil wells in south-west Raqqa Governorate from ISIL. ](/news/2017/07/17/the-syrian-army-seizes-oil-wells-in-south-west-raqqa-governorate-from-isil.md)
 The Syrian army has seized oil wells in Raqqa as IS militants battle to defend their remaining territory.

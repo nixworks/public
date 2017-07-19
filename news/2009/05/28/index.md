@@ -16,7 +16,7 @@ _Context: 1973, 1973 Chilean coup d'tat, Army, Augusto Pinochet, Chile, Vctor Ja
 _Context: Barack Obama, Hillary Clinton, Israel, Israeli settlement, President of the United States, U.S., United States Secretary of State, West Bank_
 
 ### [ A 7.1-magnitude earthquake occurs in the Gulf of Honduras. ](/news/2009/05/28/a-7-1-magnitude-earthquake-occurs-in-the-gulf-of-honduras.md)
-_Context: Gulf of Honduras, earthquake, magnitude_
+_Context: Gulf of Honduras, earthquake, magnitude earthquake_
 
 ### [ Two bombs kill eight people and injure 74 others in Peshawar, Pakistan.  ](/news/2009/05/28/two-bombs-kill-eight-people-and-injure-74-others-in-peshawar-pakistan.md)
 _Context: Pakistan, Peshawar, War in North-West Pakistan, bomb_

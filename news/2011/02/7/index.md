@@ -34,7 +34,7 @@ LONDON: Julian Assange&#039;s defence team is to argue that he cannot be given a
 An Australian archaeologist working from his armchair in Perth has unearthed almost two thousand potential archaeological sites in Saudi Arabia.
 
 ### [The Molecule of the Year 2010 is FOXM1 as announced by Isidro A. T. Savillo, President, ISMCBBPR. ](/news/2011/02/7/the-molecule-of-the-year-2010-is-foxm1-as-announced-by-isidro-a-t-savillo-president-ismcbbpr.md)
-_Context: FOXM1, ISMCBBPR, Isidro A. T. Savillo, Molecule of the Year_
+_Context: FOXM1, ISMCBBPR, Molecule of the Year_
 
 ### [Constitutional Democratic Rally, the former ruling party of Tunisia is officially dissolved. ](/news/2011/02/7/constitutional-democratic-rally-the-former-ruling-party-of-tunisia-is-officially-dissolved.md)
 _Context: Constitutional Democratic Rally, Tunisia_

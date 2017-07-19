@@ -25,7 +25,7 @@ _Context: Government House, Thailand, assemble, elections, red shirt_
 Pakistani Taliban militants announced on Tuesday an indefinite ceasefire in the Swat valley in the northwest of the country, a day after the army said it was ceasing operations in the region.
 
 ### [ NASA's Orbiting Carbon Observatory lands in the Pacific Ocean near Antarctica after failing to reach Earth's orbit. ](/news/2009/02/24/nasa-s-orbiting-carbon-observatory-lands-in-the-pacific-ocean-near-antarctica-after-failing-to-reach-earth-s-orbit.md)
-_Context: Antarctica, Earth, NASA, Orbiting Carbon Observatory, Pacific, orbit_
+_Context: Antarctica, Earth, NASA, North Pacific Ocean, Orbiting Carbon Observatory, orbit_
 
 ### [ Ireland's Stock Exchange falls to its lowest level since 1995. ](/news/2009/02/24/ireland-s-stock-exchange-falls-to-its-lowest-level-since-1995.md)
 Dublin&#39;s ISEQ index hit a 14-year low this morning, as markets around the world tumble on fears over the global financial system.

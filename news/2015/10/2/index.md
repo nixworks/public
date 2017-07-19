@@ -7,7 +7,7 @@ _Context: ISIL, Raqqah, Russian, Russian Government, Russian intervention in the
 At least 17 members of the Kurdistan Workers Party (PKK) have been killed in a Turkish military assault on the city of Silvan, which has a mainly Kurdish population, reports say.
 
 ### [OSCE observers who are monitoring a ceasefire in eastern Ukraine between the Ukrainian military and pro-Russian rebels, reported the presence of a new Russian weapons system in rebel-held territory this week, the 'TOS-1 Buratino' is a thermobaric multiple rocket launcher system which can destroy several city blocks in one strike and cause indiscriminate damage. Only Russia produces the system and it was not exported to Ukraine before the conflict broke out. ](/news/2015/10/2/osce-observers-who-are-monitoring-a-ceasefire-in-eastern-ukraine-between-the-ukrainian-military-and-pro-russian-rebels-reported-the-presenc.md)
-_Context: 2014-15 Russian military intervention in Ukraine, Minsk Protocol, OSCE, Russia, TOS-1 Buratino, Ukrainian, Ukrainian military, War in Donbass, thermobaric_
+_Context: 2014-15 Russian military intervention in Ukraine, Minsk Protocol, OSCE, Russia, TOS-1 Buratino, Ukraine, Ukrainian military, War in Donbass, thermobaric_
 
 ### [Air France KLM will cut 2,900 jobs after talks with pilots unions are unsuccessful. ](/news/2015/10/2/air-france-klm-will-cut-2-900-jobs-after-talks-with-pilots-unions-are-unsuccessful.md)
 Air France is reportedly cutting 2,900 jobs after talks with pilot unions were unsuccessful.

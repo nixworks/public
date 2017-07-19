@@ -10,7 +10,7 @@ _Context: Arlen Specter, Democratic Party, Pennsylvania, R, U.S., United States 
 Sweden has recalled its ambassador to Sri Lanka after Colombo barred Swedish Foreign Minister Carl Bildt from participating in a mission there with French and British colleagues this week, Bildt said on Tuesday.
 
 ### [ A 3.7-magnitude earthquake strikes Ulverston, Cumbria, England. ](/news/2009/04/28/a-3-7-magnitude-earthquake-strikes-ulverston-cumbria-england.md)
-_Context: Cumbria, England, Ulverston, earthquake, magnitude_
+_Context: Cumbria, England, Ulverston, earthquake, magnitude earthquake_
 
 ### [ The Russian destroyer ''Admiral Panteleyev'' detains 29 suspected Somali pirates in the Gulf of Aden. ](/news/2009/04/28/the-russian-destroyer-admiral-panteleyev-detains-29-suspected-somali-pirates-in-the-gulf-of-aden.md)
 A Russian navy ship boarded a suspected Somali pirate vessel Tuesday night, detaining 29 alleged maritime marauders, a Russian Defense Ministry source said.

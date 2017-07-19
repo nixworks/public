@@ -22,7 +22,7 @@ _Context: Spain_
 _Context: Niger River_
 
 ### [A 7.6 magnitude earthquake and small tsunami hits the Pacific Ocean nation of Vanuatu. ](/news/2010/08/10/a-7-6-magnitude-earthquake-and-small-tsunami-hits-the-pacific-ocean-nation-of-vanuatu.md)
-_Context: Pacific, Vanuatu, earthquake, tsunami_
+_Context: North Pacific Ocean, Vanuatu, earthquake, tsunami_
 
 ### [Rescuers in China's Gansu province continue to search for 1,100 missing people in a recent landslide, as the death toll rises to 702. ](/news/2010/08/10/rescuers-in-china-s-gansu-province-continue-to-search-for-1-100-missing-people-in-a-recent-landslide-as-the-death-toll-rises-to-702.md)
 _Context: China, Gansu province, landslide_

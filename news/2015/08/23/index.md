@@ -10,7 +10,7 @@ Islamic State militants have blown up the ancient temple of Baalshamin at Palmyr
 Seven people have died and over 650,000 people have been affected by floods in Assam. The situation has worsened due to incessant rains across the state.
 
 ### [Typhoon Goni leaves the Philippines with 15 dead and 12 people missing. ](/news/2015/08/23/typhoon-goni-leaves-the-philippines-with-15-dead-and-12-people-missing.md)
-_Context: 2015 Pacific typhoon season, Philippines, Typhoon Goni_
+_Context: 2015 Pacific typhoon season, Philippine, Typhoon Goni_
 
 ### [The number of fatalities in the 2015 Shoreham Airshow crash is "highly likely" to have risen to 11. ](/news/2015/08/23/the-number-of-fatalities-in-the-2015-shoreham-airshow-crash-is-highly-likely-to-have-risen-to-11.md)
 The death toll from the Shoreham air crash where a vintage jet plummeted into traffic is thought to have risen to 11, police say.

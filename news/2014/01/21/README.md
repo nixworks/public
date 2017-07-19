@@ -1,7 +1,7 @@
 ## [2014-01-21](/news/2014/01/21/index.md)
 
 ### [Euromaidan:Violent clashes occur for a second day between protesters and police in Kiev, Ukraine. ](/news/2014/01/21/euromaidan-pviolent-clashes-occur-for-a-second-day-between-protesters-and-police-in-kiev-ukraine.md)
-_Context: Euromaidan, Kiev, Ukrainian_
+_Context: Euromaidan, Kiev, Ukraine_
 
 ### [Syrian Civil War spillover in Lebanon:A bomb detonates at a Hezbollah building in Beirut, Lebanon killing 4 people and wounding 35. ](/news/2014/01/21/syrian-civil-war-spillover-in-lebanon-pa-bomb-detonates-at-a-hezbollah-building-in-beirut-lebanon-killing-4-people-and-wounding-35.md)
 BEIRUT (AP) — A car bomb ripped through a Shiite neighborhood in south Beirut on Tuesday, killing four people and sending plumes of smoke over the area in the latest attack to target supporters of Lebanon&#39;s

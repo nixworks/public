@@ -34,7 +34,7 @@ _Context: Fukushima Daiichi Nuclear Power Plant, radiation_
 Incident comes a day after a boat laden with another such group of 600 people sank off Libyan coast.
 
 ### [An international search and rescue mission is launched in Kiribati after six teenagers on an outrigger canoe go missing in the Pacific Ocean. ](/news/2011/05/8/an-international-search-and-rescue-mission-is-launched-in-kiribati-after-six-teenagers-on-an-outrigger-canoe-go-missing-in-the-pacific-ocean.md)
-_Context: Kiribati, Pacific, outrigger canoe, search and rescue_
+_Context: Kiribati, North Pacific Ocean, outrigger canoe, search and rescue_
 
 ### [Hun Sen, the Prime Minister of Cambodia and Abhisit Vejjajiva, the Prime Minister of Thailand, meet during an ASEAN summit meeting in Jakarta to try to resolve an ongoing territorial dispute, but fail. ](/news/2011/05/8/hun-sen-the-prime-minister-of-cambodia-and-abhisit-vejjajiva-the-prime-minister-of-thailand-meet-during-an-asean-summit-meeting-in-jakart.md)
 _Context: ASEAN, Abhisit Vejjajiva, Hun Sen, Jakarta, Prime Minister, Prime Minister of Thailand_

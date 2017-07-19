@@ -31,7 +31,7 @@ _Context: Aung San Suu Kyi, Burma, General Secretary, National League for Democr
 _Context: European Central Bank, Eurozone, euro, interest rate, quantitative easing_
 
 ### [ A fire at a casino kills ten people and injures ten others in Dnipropetrovsk, Ukraine. ](/news/2009/05/7/a-fire-at-a-casino-kills-ten-people-and-injures-ten-others-in-dnipropetrovsk-ukraine.md)
-_Context: Dnipropetrovsk, Ukrainian, casino_
+_Context: Dnipropetrovsk, Ukraine, casino_
 
 ### [ The fourth phase of India's general election concludes. ](/news/2009/05/7/the-fourth-phase-of-india-s-general-election-concludes.md)
 _Context: India, becomes_

@@ -19,7 +19,7 @@ _Context: Lake Malawi, Rumphi District_
 One crew member was killed and two others were injured Monday when a military helicopter crashed on a southern Maryland golf course.
 
 ### [A 5.7 magnitude earthquake strikes 250 kilometers (155 miles) northwest of the Pacific island nation of Vanuatu. No immediate report of damages or injuries; no tsunami warning has been issued. ](/news/2017/04/17/a-5-7-magnitude-earthquake-strikes-250-kilometers-155-miles-northwest-of-the-pacific-island-nation-of-vanuatu-no-immediate-report-of-dama.md)
-_Context: Pacific, Vanuatu, island nation, magnitude_
+_Context: North Pacific Ocean, Vanuatu, island nation, magnitude earthquake_
 
 ### [A BP Alaskan North Slope oil well near Deadhorse Airport, that was leaking oil and natural gas since it was discovered on Friday, is successfully plugged, according to private and government reports. ](/news/2017/04/17/a-bp-alaskan-north-slope-oil-well-near-deadhorse-airport-that-was-leaking-oil-and-natural-gas-since-it-was-discovered-on-friday-is-success.md)
 _Context: Alaskan North Slope, BP, Deadhorse Airport_

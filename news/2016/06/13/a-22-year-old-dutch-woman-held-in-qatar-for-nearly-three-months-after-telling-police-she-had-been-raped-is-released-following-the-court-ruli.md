@@ -11,7 +11,7 @@ DUBAI, United Arab Emirates (AP) — A Dutch woman held in Qatar for nearly thre
 
 ### Related:
 
-1. [In Vijfhuizen, the Netherlands, exactly three years after the Malaysia Airlines Flight 17 (MH17) disaster, the National Memorial for the victims is opened in the presence of King Willem-Alexander, Queen Maxima and Prime Minister Mark Rutte. ](/news/2017/07/17/in-vijfhuizen-the-netherlands-exactly-three-years-after-the-malaysia-airlines-flight-17-mh17-disaster-the-national-memorial-for-the-vic.md) _Context: Netherlands_
+1. [Aftermath of In Vijfhuizen, the Netherlands, exactly three years after the Malaysia Airlines Flight 17 (MH17) disaster, the National Memorial for the victims is opened in the presence of King Willem-Alexander, Queen Maxima and Prime Minister Mark Rutte. ](/news/2017/07/17/aftermath-of-in-vijfhuizen-the-netherlands-exactly-three-years-after-the-malaysia-airlines-flight-17-mh17-disaster-the-national-memoria.md) _Context: Netherlands_
 2. [The Saudi Arabia-led bloc against Qatar issues a "terror list" against the peninsula. ](/news/2017/06/8/the-saudi-arabia-led-bloc-against-qatar-issues-a-terror-list-against-the-peninsula.md) _Context: Qatar_
 3. [The Philippines partially lifts a temporary suspension of deployment of overseas workers to Qatar. ](/news/2017/06/7/the-philippines-partially-lifts-a-temporary-suspension-of-deployment-of-overseas-workers-to-qatar.md) _Context: Qatar_
 4. [The Philippines temporarily suspends sending workers to Qatar. ](/news/2017/06/6/the-philippines-temporarily-suspends-sending-workers-to-qatar.md) _Context: Qatar_

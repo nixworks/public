@@ -19,7 +19,7 @@ Swiss bank Credit Suisse CSGN.VX is cutting about 2,000 jobs after weak trading 
 _Context: Japan, Sony, an earthquake and tsunami, hackers_
 
 ### [Asiana Airlines Flight 991 crashes in the Pacific Ocean, near Jeju Island, South Korea, killing 2 onboard. ](/news/2011/07/28/asiana-airlines-flight-991-crashes-in-the-pacific-ocean-near-jeju-island-south-korea-killing-2-onboard.md)
-_Context: Asiana Airlines Flight 991, Jeju Island, Pacific, South Korea_
+_Context: Asiana Airlines Flight 991, Jeju Island, North Pacific Ocean, South Korea_
 
 ### [At least 57 people are dead and 12 are confirmed missing in the Seoul and Siheung region of South Korea due to landslides caused by heavy rain. ](/news/2011/07/28/at-least-57-people-are-dead-and-12-are-confirmed-missing-in-the-seoul-and-siheung-region-of-south-korea-due-to-landslides-caused-by-heavy-ra.md)
 _Context: Seoul, Siheung, South Korea, landslide_

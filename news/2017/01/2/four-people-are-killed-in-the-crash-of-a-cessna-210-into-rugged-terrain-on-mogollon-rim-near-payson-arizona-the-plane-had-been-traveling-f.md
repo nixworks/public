@@ -13,5 +13,5 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Related:
 
-1. [A flash flood near Payson, Arizona, leaves at least seven people dead and three others missing, according to the Gila County Sheriff's Office. ](/news/2017/07/16/a-flash-flood-near-payson-arizona-leaves-at-least-seven-people-dead-and-three-others-missing-according-to-the-gila-county-sheriff-s-offic.md) _Context: Payson, Arizona_
+1. [A flash flood near Payson, Arizona, leaves at least nine people dead and one person missing, according to the Gila County Sheriff's Office. ](/news/2017/07/16/a-flash-flood-near-payson-arizona-leaves-at-least-nine-people-dead-and-one-person-missing-according-to-the-gila-county-sheriff-s-office.md) _Context: Payson, Arizona_
 2. [ Famous U.S. test pilot Scott Crossfield dies in an air crash of a Cessna 210.](/news/2006/04/20/famous-u-s-test-pilot-scott-crossfield-dies-in-an-air-crash-of-a-cessna-210.md) _Context: Cessna 210_

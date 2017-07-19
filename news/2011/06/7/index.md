@@ -34,7 +34,7 @@ Dry, windy conditions whipped flames and spread smoke across several states as a
 Days of heavy rain caused houses and shanties in the capital to collapse.
 
 ### [Tropical Storm Adrian forms in the eastern Pacific Ocean becoming the first tropical storm of the 2011 Pacific hurricane season. ](/news/2011/06/7/tropical-storm-adrian-forms-in-the-eastern-pacific-ocean-becoming-the-first-tropical-storm-of-the-2011-pacific-hurricane-season.md)
-_Context: Hurricane Jova, Pacific, tropical storm_
+_Context: Hurricane Jova, North Pacific Ocean, tropical storm_
 
 ### [Minor earthquake (4.2) in St. Louis, Missouri area within New Madrid Seismic Zone, one of the few intraplate zones. ](/news/2011/06/7/minor-earthquake-4-2-in-st-louis-missouri-area-within-new-madrid-seismic-zone-one-of-the-few-intraplate-zones.md)
 Missouri suffered a small earthquake Tuesday that caused no deaths or injuries, a relatively minor blow for a state hit by a series of natural disasters this spring including tornadoes, floods, soaring temperatures, and even cicadas.

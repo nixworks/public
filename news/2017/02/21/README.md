@@ -28,7 +28,7 @@ _Context: France-Lebanon relations, Marine Le Pen, National Front, Sunni Muslim,
 Swedish police say riots broke out overnight in a predominantly immigrant Stockholm suburb after officers arrested a suspect on drug charges.
 
 ### [An Austrian court grants a United States request to extradite Ukrainian businessman Dmytro Firtash. U.S. officials accuse Firtash of being involved in a scandal where he allegedly paid US$18.5 million in bribes for a permit to mine titanium in India, something Firtash denies. ](/news/2017/02/21/an-austrian-court-grants-a-united-states-request-to-extradite-ukrainian-businessman-dmytro-firtash-u-s-officials-accuse-firtash-of-being-i.md)
-_Context: Austria, Dmytro Firtash, India, U.S., US$, Ukrainian, bribes, titanium_
+_Context: Austria, Dmytro Firtash, India, U.S., US$, Ukraine, bribes, titanium_
 
 ### [Following last month's manslaughter conviction, Israeli soldier Elor Azaria is sentenced to 18 months in prison by a military court for, during a violent incident, his deadly shooting of the wounded, unarmed, prone Palestinian Abdel Fattah al-Sharif, who had stabbed a soldier last March in Hebron. ](/news/2017/02/21/following-last-month-s-manslaughter-conviction-israeli-soldier-elor-azaria-is-sentenced-to-18-months-in-prison-by-a-military-court-for-dur.md)
 The sentence, which also included a year&rsquo;s probation and a demotion in rank, was lighter than expected

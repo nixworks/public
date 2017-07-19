@@ -10,7 +10,7 @@ _Context: North Waziristan, War in North-West Pakistan, drones launch_
 Activists say Syrian army helicopters bomb a refugee camp, killing at least 20 people, mostly children and women
 
 ### [Ukrainian President Petro Poroshenko asks parliament to dismiss the country's central bank governor, Stepan Kubiv. ](/news/2014/06/18/ukrainian-president-petro-poroshenko-asks-parliament-to-dismiss-the-country-s-central-bank-governor-stepan-kubiv.md)
-_Context: Petro Poroshenko, Stepan Kubiv, Ukrainian, country's central bank_
+_Context: Petro Poroshenko, Stepan Kubiv, Ukraine, country's central bank_
 
 ### [The Malaysian Maritime Enforcement Agency reports that a boat carrying 97 Indonesians has capsized with 66 missing. ](/news/2014/06/18/the-malaysian-maritime-enforcement-agency-reports-that-a-boat-carrying-97-indonesians-has-capsized-with-66-missing.md)
 _Context: Indonesia, Malaysian Maritime Enforcement Agency_

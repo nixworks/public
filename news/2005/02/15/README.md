@@ -1,7 +1,7 @@
 ## [2005-02-15](/news/2005/02/15/index.md)
 
 ### [ A state of emergency is announced in Samoa and American Samoa as South Pacific cyclones Olaf and Nancy make landfall on Savai'i.  ](/news/2005/02/15/a-state-of-emergency-is-announced-in-samoa-and-american-samoa-as-south-pacific-cyclones-olaf-and-nancy-make-landfall-on-savai-i.md)
-_Context: American Samoa, Pacific, Samoa, Savai'i, cyclone, state of emergency_
+_Context: American Samoa, North Pacific Ocean, Samoa, Savai'i, cyclone, state of emergency_
 
 ### [ The Nigerian government will not rule out military actions against the coup regime in Togo if it does not comply with demands from West African leaders to step down. ](/news/2005/02/15/the-nigerian-government-will-not-rule-out-military-actions-against-the-coup-regime-in-togo-if-it-does-not-comply-with-demands-from-west-afr.md)
 _Context: ECOWAS, Nigeria, Togo, coup_

@@ -46,7 +46,7 @@ _Context: Commissioner for Justice, Fundamental Rights and Citizenship, Luxembou
 Mitchell says Israel-Palestinian negotiations moving in the right direction; Egyptian FM says breakthrough cannot be expected.
 
 ### [Ukrainian prosecutors say that former Interior Minister Yuriy Kravchenko ordered the murder of journalist Georgiy Gongadze in 2000. ](/news/2010/09/14/ukrainian-prosecutors-say-that-former-interior-minister-yuriy-kravchenko-ordered-the-murder-of-journalist-georgiy-gongadze-in-2000.md)
-_Context: Georgiy Gongadze, Ukraine's Minister of the Interior, Ukrainian, Yuriy Kravchenko_
+_Context: Georgiy Gongadze, Ukraine, Ukraine's Minister of the Interior, Yuriy Kravchenko_
 
 ### [Peruvian President Alan Garcia names Jose Chang as Prime Minister, replacing Javier Velasquez as part of a cabinet reshuffle. ](/news/2010/09/14/peruvian-president-alan-garcaa-names-josa-c-chang-as-prime-minister-replacing-javier-vela-squez-as-part-of-a-cabinet-reshuffle.md)
 Peruvian President Alan Garcia names Jose Chang as his new prime minister as part of a cabinet reshuffle.

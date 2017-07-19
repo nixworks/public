@@ -10,10 +10,10 @@ _Context: ABN Amro, Antonio Fazio, Banca Antonveneta, Banca Popolare Italiana, B
 _Context: Archaeologist, Conflict in Iraq, Germany, Iraq, Susanne Osthoff_
 
 ### [ Cebu leads the "soft-opening" of the 23rd Southeast Asian Games in the Philippines. Games will formally start on November 27, 2005, at Manila's Quirino Grandstand. ](/news/2005/11/25/cebu-leads-the-soft-opening-of-the-23rd-southeast-asian-games-in-the-philippines-games-will-formally-start-on-november-27-2005-at-mani.md)
-_Context: Cebu City, Manila, Philippines, Southeast Asian Games_
+_Context: Cebu City, Manila, Philippine, Southeast Asian Games_
 
 ### [ The president of Ukraine, Viktor Yushchenko, calls for the Holodomor to be internationally recognised as an act of genocide. ](/news/2005/11/25/the-president-of-ukraine-viktor-yushchenko-calls-for-the-holodomor-to-be-internationally-recognised-as-an-act-of-genocide.md)
-_Context: Ukrainian, Viktor Yushchenko, famine in Ukraine in 1932-1933, genocide_
+_Context: Ukraine, Viktor Yushchenko, famine in Ukraine in 1932-1933, genocide_
 
 ### [ Papua New Guinea decides to evacuate the 1500 inhabitants of Carteret Atoll to Bougainville, 100 km away, over the next two years. The atolls, maximum elevation 1.5 metres, are the first inhabited land to be abandoned to rising sea levels and they are expected to be totally inundated by around 2015. ](/news/2005/11/25/papua-new-guinea-decides-to-evacuate-the-1500-inhabitants-of-carteret-atoll-to-bougainville-100-km-away-over-the-next-two-years-the-atol.md)
 _Context: 2015, Bougainville Island, Carteret Atoll, Papua New Guinea_

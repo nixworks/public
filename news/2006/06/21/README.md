@@ -22,7 +22,7 @@ _Context: Baghdad, Saddam Hussein, assassinated, one_
 _Context: U.S._
 
 ### [ Ukraine's formerly estranged Orange Revolution allies reach an agreement to restore Yulia Tymoshenko as Prime Minister of Ukraine after three months of uncertainty. ](/news/2006/06/21/ukraine-s-formerly-estranged-orange-revolution-allies-reach-an-agreement-to-restore-yulia-tymoshenko-as-prime-minister-of-ukraine-after-thr.md)
-_Context: Orange Revolution, Prime Minister of Ukraine, Ukrainian, Yulia Tymoshenko_
+_Context: Orange Revolution, Prime Minister of Ukraine, Ukraine, Yulia Tymoshenko_
 
 ### [ Katharine Jefferts Schori, the Episcopal bishop of Nevada, and the new leader of the Episcopal Church in the United States of America has said that homosexuality is not a sin. ](/news/2006/06/21/katharine-jefferts-schori-the-episcopal-bishop-of-nevada-and-the-new-leader-of-the-episcopal-church-in-the-united-states-of-america-has-s.md)
 _Context: Katharine Jefferts Schori, Nevada, United States Episcopal Church, homosexuality, sin_

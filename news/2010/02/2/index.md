@@ -1,7 +1,7 @@
 ## [2010-02-2](/news/2010/02/2/index.md)
 
 ### [Russia and Ukraine accuse each other of espionage, while the latter detains one Russian and expels four others. ](/news/2010/02/2/russia-and-ukraine-accuse-each-other-of-espionage-while-the-latter-detains-one-russian-and-expels-four-others.md)
-_Context: Russia, Ukrainian, espionage_
+_Context: Russia, Ukraine, espionage_
 
 ### [A hearing whether to repeal the Don't Ask, Don't Tell policy is held in the United States allowing the possibility of openly gay people to become active-duty members of the United States armed forces. ([http://news.bbc.co.uk/2/hi/americas/8494369.stm BBC]) ](/news/2010/02/2/a-hearing-whether-to-repeal-the-don-t-ask-don-t-tell-policy-is-held-in-the-united-states-allowing-the-possibility-of-openly-gay-people-to-b.md)
 _Context: U.S., United States military, don't ask, don't tell, openly gay people to become active-duty members_

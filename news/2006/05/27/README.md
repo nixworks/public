@@ -10,7 +10,7 @@ _Context: Aung San Suu Kyi, Myanmar, United Nations, house arrest_
 _Context: Bundestag, European Parliament, Moscow, Volker Beck, Yuriy Luzhkov, gay pride_
 
 ### [ May 2006 Java earthquake: A tectonic earthquake centred 25 kilometres (16 miles) south of Yogyakarta on the island of Java, Indonesia kills more than 4300 people and injures more than 3400. The 6.2 magnitude quake strikes at 5:54 a.m. (22:54 UTC, 26 May). The epicenter is southwest of the city and near the erupting Mount Merapi. ](/news/2006/05/27/may-2006-java-earthquake-a-tectonic-earthquake-centred-25-kilometres-16-miles-south-of-yogyakarta-on-the-island-of-java-indonesia-kills.md)
-_Context: Indonesia, Java, May 2006 Java earthquake, Mount Merapi, Yogyakarta, clock, epicenter, magnitude, tectonic earthquake_
+_Context: Indonesia, Java, May 2006 Java earthquake, Mount Merapi, Yogyakarta, clock, epicenter, magnitude earthquake, tectonic earthquake_
 
 ## [Previous Day...](/news/2006/05/26/index.md)
 

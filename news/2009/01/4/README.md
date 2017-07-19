@@ -7,7 +7,7 @@ _Context: Dera Ismail Khan, Khyber Pakhtunkhwa, Pakistan, suicide bombing_
 At least 40 people were killed and 72 were wounded Sunday in a suicide bombing in Baghdad at the doorstep of one of Iraq’s holiest Shiite shrines.
 
 ### [ A series of earthquakes up to 7.6 in magnitude strike the Indonesian province of West Papua, killing at least four people and wounding at least 37. ](/news/2009/01/4/a-series-of-earthquakes-up-to-7-6-in-magnitude-strike-the-indonesian-province-of-west-papua-killing-at-least-four-people-and-wounding-at-l.md)
-_Context: Indonesia, West Papua, earthquakes, magnitude_
+_Context: Indonesia, West Papua, earthquakes, magnitude earthquake_
 
 ### [ New Mexico Governor Bill Richardson withdraws his nomination to be the next United States Secretary of Commerce because of an ongoing federal investigation into possible pay-to-play politics. ](/news/2009/01/4/new-mexico-governor-bill-richardson-withdraws-his-nomination-to-be-the-next-united-states-secretary-of-commerce-because-of-an-ongoing-feder.md)
 President-elect Barack Obama stumbled in his quest for a smooth transition on Sunday when New Mexico Gov. Bill Richardson withdrew as his nominee for commerce secretary in the face of a legal inquiry.

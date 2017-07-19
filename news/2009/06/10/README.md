@@ -22,7 +22,7 @@ Search crews have now recovered 41 bodies from an area in the Atlantic where an 
 _Context: Bathaa, Dhiqar_
 
 ### [ Massive demonstrations are held in various places in the Philippines against the passage of the Constituent Assembly to amend  the Constitution. ](/news/2009/06/10/massive-demonstrations-are-held-in-various-places-in-the-philippines-against-the-passage-of-the-constituent-assembly-to-amend-the-constitu.md)
-_Context: Constituent Assembly, Philippines, demonstration, unconstitutional_
+_Context: Constituent Assembly, Philippine, demonstration, unconstitutional_
 
 ### [ A two-day strike by the United Kingdom National Union of Rail, Maritime and Transport Workers disrupts train services in London. ](/news/2009/06/10/a-two-day-strike-by-the-united-kingdom-national-union-of-rail-maritime-and-transport-workers-disrupts-train-services-in-london.md)
 _Context: London, National Union of Rail, Maritime and Transport Workers, UK, strike_
@@ -43,7 +43,7 @@ _Context: Burma, Internal conflict in Burma, Karen, Karen State, Myanmar Army, R
 _Context: Gabon, Omar Bongo Ondimba, Rose Francine Rogomb_
 
 ### [ Nine miners die and four are still missing after an accident at a coal mine in Donetsk, Ukraine. ](/news/2009/06/10/nine-miners-die-and-four-are-still-missing-after-an-accident-at-a-coal-mine-in-donetsk-ukraine.md)
-_Context: Donetsk, Ukrainian_
+_Context: Donetsk, Ukraine_
 
 ### [ Libyan leader Muammar Gaddafi arrives in Rome on his first visit to Italy, Libya's former colonial ruler and now its biggest trading partner, wearing a photograph of Omar Mukhtar. ](/news/2009/06/10/libyan-leader-muammar-gaddafi-arrives-in-rome-on-his-first-visit-to-italy-libya-s-former-colonial-ruler-and-now-its-biggest-trading-partne.md)
 _Context: Italian, Libya, Muammar Gaddafi, Omar Mukhtar, Rome_

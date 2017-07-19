@@ -28,7 +28,7 @@ _Context: Pakistan, Taliban, al-Qaeda_
 _Context: 2007 Russian North Pole expedition, MIR submersibles, North Pole, Russia, bathyscaphe_
 
 ### [ An offshore earthquake occurs in the Pacific Ocean off the shore of Vanuatu measuring 7.2 on the Richter scale but no tsunami is triggered. ](/news/2007/08/2/an-offshore-earthquake-occurs-in-the-pacific-ocean-off-the-shore-of-vanuatu-measuring-7-2-on-the-richter-scale-but-no-tsunami-is-triggered.md)
-_Context: Pacific, Richter scale, Vanuatu, earthquake, tsunami_
+_Context: North Pacific Ocean, Richter scale, Vanuatu, earthquake, tsunami_
 
 ### [ South Korea suspends beef imports from the United States following the discovery of banned parts in a recent shipment. ](/news/2007/08/2/south-korea-suspends-beef-imports-from-the-united-states-following-the-discovery-of-banned-parts-in-a-recent-shipment.md)
 _Context: South Korea, U.S., beef_

@@ -19,7 +19,7 @@ _Context: Campsfield House, Oxford, detention facilities_
 _Context: Afghanistan, Farah Province, military_
 
 ### [ The  magnitude 6.8 M<sub>w</sub> 2008 Iwate earthquake shakes Iwate and Miyagi Prefectures on Japan's main island of Honshu, killing at least 6 people and injuring at least 8 others.](/news/2008/06/14/the-magnitude-6-8-mw-2008-iwate-earthquake-shakes-iwate-and-miyagi-prefectures-on-japan-s-main-island-of-honsha-killing-at-least-6-peopl.md)
-_Context: 2008 Iwate earthquake, Honshu Island, Iwate prefecture, Japan, Miyagi Prefecture, magnitude_
+_Context: 2008 Iwate earthquake, Honshu Island, Iwate prefecture, Japan, Miyagi Prefecture, magnitude earthquake_
 
 ### [ The French Defense Ministry announces France is increasing its military presence in Djibouti following border clashes with Eritrea. France has a mutual defense agreement with Djibouti. ](/news/2008/06/14/the-french-defense-ministry-announces-france-is-increasing-its-military-presence-in-djibouti-following-border-clashes-with-eritrea-france.md)
 _Context: Djibouti, Eritrea, France, border clashes_

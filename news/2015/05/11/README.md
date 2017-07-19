@@ -19,7 +19,7 @@ _Context: Arctic Ocean, Obama Administration, Royal Dutch Shell_
 Fifteen people died and 20 others were injured, six of them critically, when a bus they were travelling in rolled down into a deep gorge in Udhampur district.
 
 ### [Two people are dead after Typhoon Noul hits the Philippines. The storm is now headed for Japan. ](/news/2015/05/11/two-people-are-dead-after-typhoon-noul-hits-the-philippines-the-storm-is-now-headed-for-japan.md)
-_Context: Japan, Philippines, Typhoon Noul_
+_Context: Japan, Philippine, Typhoon Noul_
 
 ### [The death toll from a tornado outbreak in the United States rises to five with dozens injured and eight people missing. ](/news/2015/05/11/the-death-toll-from-a-tornado-outbreak-in-the-united-states-rises-to-five-with-dozens-injured-and-eight-people-missing.md)
 _Context: May 5-10, 2015 tornado outbreak sequence, U.S._

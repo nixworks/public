@@ -1,7 +1,7 @@
 ## [2014-09-10](/news/2014/09/10/index.md)
 
 ### [Moro insurgency in the Philippines:Philippines President Benigno Aquino III submits a bill to the Congress of the Philippines that will give autonomy to Filipino Muslims in Bangsamoro and bring peace to Mindanao.](/news/2014/09/10/moro-insurgency-in-the-philippines-pphilippines-president-benigno-aquino-iii-submits-a-bill-to-the-congress-of-the-philippines-that-will-giv.md)
-_Context: Bangsamoro, Benigno "Noynoy" Aquino III, Congress of the Philippines, Filipino Muslims, Mindanao, Moro insurgency in the Philippines, Philippines, bill, peace_
+_Context: Bangsamoro, Benigno "Noynoy" Aquino III, Congress of the Philippines, Filipino Muslims, Mindanao, Moro insurgency in the Philippines, Philippine, bill, peace_
 
 ### [Timeline of the Iraqi insurgency (2014):The President of the United States Barack Obama authorises $25 million for "immediate military assistance" to the Iraqi government and Kurdistan Regional Government. He also outlines plans to expand US operations against Islamic State in Iraq and the Levant to Syria in a televised address to the nation. ](/news/2014/09/10/timeline-of-the-iraqi-insurgency-2014-pthe-president-of-the-united-states-barack-obama-authorises-25-million-for-immediate-military-assi.md)
 President Barack Obama authorized $25 million in &quot;immediate military assistance&quot; on Wednesday for the Iraqi government and Kurdistan Regional Government to help with military education and training, according to a memorandum posted on the White House website.

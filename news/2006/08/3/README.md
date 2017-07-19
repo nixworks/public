@@ -13,7 +13,7 @@ _Context: Beirut, Conseil Representatif des Institutions juives de France, Frenc
 _Context: Tropical Depression Chris, hurricane_
 
 ### [ Ukrainian President Viktor Yushchenko nominates his political rival Viktor Yanukovich to become prime minister.](/news/2006/08/3/ukrainian-president-viktor-yushchenko-nominates-his-political-rival-viktor-yanukovich-to-become-prime-minister.md)
-_Context: Ukrainian, Viktor Yanukovich, Viktor Yushchenko_
+_Context: Ukraine, Viktor Yanukovich, Viktor Yushchenko_
 
 ### [ Clashes between Sri Lanka's army and the Liberation Tigers of Tamil Eelam escalates into the worst violence since they agreed a cease-fire in 2002. ](/news/2006/08/3/clashes-between-sri-lanka-s-army-and-the-liberation-tigers-of-tamil-eelam-escalates-into-the-worst-violence-since-they-agreed-a-cease-fire.md)
 _Context: LTTE, Sri Lankan military_

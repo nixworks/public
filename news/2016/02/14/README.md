@@ -16,7 +16,7 @@ _Context: Israel, Israeli-Palestinian conflict, Palestinian_
 The British Academy of Film and Television Arts celebrated its biggest night tonight at London’s Royal Opera House, which ended with kudos going to Alejandro G Inarritu and The Revenant. The movie …
 
 ### [The U.S. Geological Survey reports a magnitude 5.8 earthquake strikes Christchurch in New Zealand. The St. John ambulance service says that several people suffered minor injuries from falls as they ran from the quake but there were no immediate reports of serious damage. ](/news/2016/02/14/the-u-s-geological-survey-reports-a-magnitude-5-8-earthquake-strikes-christchurch-in-new-zealand-the-st-john-ambulance-service-says-that.md)
-_Context: 2016 Christchurch earthquake, Christchurch, New Zealand, St. John ambulance service, United States Geological Survey, earthquake, magnitude_
+_Context: 2016 Christchurch earthquake, Christchurch, New Zealand, St. John ambulance service, United States Geological Survey, earthquake, magnitude earthquake_
 
 ### [The cold snap continues in the northeastern United States with record lows forecast in major cities like New York City and Philadelphia. ](/news/2016/02/14/the-cold-snap-continues-in-the-northeastern-united-states-with-record-lows-forecast-in-major-cities-like-new-york-city-and-philadelphia.md)
 _Context: New York City, Northeastern United States, Philadelphia_

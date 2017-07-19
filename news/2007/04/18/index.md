@@ -37,7 +37,7 @@ _Context: Chinese, high-speed rail_
 _Context: China, ladle_
 
 ### [ UEFA chooses Poland and Ukraine as joint hosts for the 2012 UEFA European Football Championship. ](/news/2007/04/18/uefa-chooses-poland-and-ukraine-as-joint-hosts-for-the-2012-uefa-european-football-championship.md)
-_Context: 2012 UEFA European Football Championship, Poland, UEFA, Ukrainian_
+_Context: 2012 UEFA European Football Championship, Poland, UEFA, Ukraine_
 
 ## [Previous Day...](/news/2007/04/17/index.md)
 

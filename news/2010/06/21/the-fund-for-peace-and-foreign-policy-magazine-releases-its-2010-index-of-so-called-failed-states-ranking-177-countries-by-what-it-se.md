@@ -11,4 +11,5 @@ Annual report ranks seven African countries among top 10 most unstable in the wo
 
 ### Related:
 
-1. [U.S. magazine ''Foreign Policy'' releases its index of "failed states", with the editor labeling Somalia as an "unequivocably failed state". ](/news/2011/06/20/u-s-magazine-foreign-policy-releases-its-index-of-failed-states-with-the-editor-labeling-somalia-as-an-unequivocably-failed-state.md) _Context: failed state_
+1. [DPR leader Alexander Zakharchenko announces the Donetsk People's Republic (DPR) and Luhansk People's Republic (LPR) are to form a new state called Malorossiya (Little Russia) as an official successor to the "failed state" of Ukraine, with Donetsk replacing Kiev as the country's capital. Ukrainian president Petro Poroshenko denounces the plans. ](/news/2017/07/18/dpr-leader-alexander-zakharchenko-announces-the-donetsk-people-s-republic-dpr-and-luhansk-people-s-republic-lpr-are-to-form-a-new-state.md) _Context: failed state_
+2. [U.S. magazine ''Foreign Policy'' releases its index of "failed states", with the editor labeling Somalia as an "unequivocably failed state". ](/news/2011/06/20/u-s-magazine-foreign-policy-releases-its-index-of-failed-states-with-the-editor-labeling-somalia-as-an-unequivocably-failed-state.md) _Context: failed state_

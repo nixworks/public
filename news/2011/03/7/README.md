@@ -37,7 +37,7 @@ _Context: AOL, Huffington Post_
 The national state of emergency imposed after last month&#039;s devastating Christchurch earthquake will be extended on Monday and is likely to be in place for some time, Prime Minister John Key says.
 
 ### [A strong 6.6 magnitude earthquake occurs off the coast of the Solomon Islands in the Pacific Ocean. ](/news/2011/03/7/a-strong-6-6-magnitude-earthquake-occurs-off-the-coast-of-the-solomon-islands-in-the-pacific-ocean.md)
-_Context: Pacific, Solomon Islands, earthquake_
+_Context: North Pacific Ocean, Solomon Islands, earthquake_
 
 ### [China closes Tibet to foreign tourists, ahead of the third anniversary since unrest there in 2008. ](/news/2011/03/7/china-closes-tibet-to-foreign-tourists-ahead-of-the-third-anniversary-since-unrest-there-in-2008.md)
 _Context: Tibet, unrest in 2008_

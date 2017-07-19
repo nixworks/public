@@ -28,7 +28,7 @@ _Context: 2015 Pacific typhoon season, Honshu Island, Japan, Typhoon Nangka_
 Ash spewing from two volcanoes in Indonesia prompts the closure of three more airports, which means five are now shut as millions head home for the Eid holiday.
 
 ### [At least five people are dead and three are missing after a coal mine in the Philippines province of Antique collapses. ](/news/2015/07/17/at-least-five-people-are-dead-and-three-are-missing-after-a-coal-mine-in-the-philippines-province-of-antique-collapses.md)
-_Context: Antique, Philippines_
+_Context: Antique, Philippine_
 
 ### [Two commuter trains collide at the Booysens train station in Johannesburg, South Africa, injuring more than 250 people. ](/news/2015/07/17/two-commuter-trains-collide-at-the-booysens-train-station-in-johannesburg-south-africa-injuring-more-than-250-people.md)
 Paramedics at the scene of the Booysens station train crash in Johannesburg say they have tended to about 250 injured commuters, and that the number of casualties may still increase.
@@ -37,7 +37,7 @@ Paramedics at the scene of the Booysens station train crash in Johannesburg say 
 All 10 South Africans detained in China a few weeks ago will soon be home, the department of international relations and co-operation has confirmed.
 
 ### [Ukraine expels Valery Shibeko, Russia's top envoy to Odessa, after declaring the consulate general "''persona non grata''" for conducting unnamed activities "incompatible" with his diplomatic work. ](/news/2015/07/17/ukraine-expels-valery-shibeko-russia-s-top-envoy-to-odessa-after-declaring-the-consulate-general-persona-non-grata-for-conducting-un.md)
-_Context: Odessa, Ukrainian, persona non-grata_
+_Context: Odessa, Ukraine, persona non-grata_
 
 ### [Liza Maza, a human rights activist and former Filipino congresswoman, and the Center for Women's Resources criticized the United States and the Philippines governments for preventing Maza's boarding of a July 9, 2015, Korean Air flight destined for Washington, D.C. Maza, who has a U.S. visa valid until 2018, was scheduled to speak before a left-wing conference on U.S. activities in the Philippines. ](/news/2015/07/17/liza-maza-a-human-rights-activist-and-former-filipino-congresswoman-and-the-center-for-women-s-resources-criticized-the-united-states-and.md)
 “This tribunal will contribute to this record and, hopefully, the people will use its results to end impunity.” Related story | ‘Still no justice’ | Torture survivors under Arroyo govt

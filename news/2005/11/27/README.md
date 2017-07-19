@@ -1,7 +1,7 @@
 ## [2005-11-27](/news/2005/11/27/index.md)
 
 ### [ 23rd Southeast Asian Games formally opens in Manila, Philippines. ](/news/2005/11/27/23rd-southeast-asian-games-formally-opens-in-manila-philippines.md)
-_Context: 23rd Southeast Asian Games, Manila, Philippines_
+_Context: 23rd Southeast Asian Games, Manila, Philippine_
 
 ### [ A tornado outbreak across four U.S. states kills at least two people. ](/news/2005/11/27/a-tornado-outbreak-across-four-u-s-states-kills-at-least-two-people.md)
 _Context: U.S. state, tornado outbreak_
@@ -16,7 +16,7 @@ _Context: Omar Bongo Ondimba, presidential elections_
 _Context: Elections in Honduras, Honduran general election, 2005, Manuel Zelaya_
 
 ### [ An earthquake hits southern Iran, measuring 5.9 on the moment magnitude scale. ](/news/2005/11/27/an-earthquake-hits-southern-iran-measuring-5-9-on-the-moment-magnitude-scale.md)
-_Context: earthquake hits southern Iran, magnitude_
+_Context: earthquake hits southern Iran, magnitude earthquake_
 
 ### [ Leader of the Democratic Action Party Lim Kit Siang calls for the resignation of the Malaysian Deputy Inspector-General of the Police for his actions in the Malaysian prisoner abuse scandal. ](/news/2005/11/27/leader-of-the-democratic-action-party-lim-kit-siang-calls-for-the-resignation-of-the-malaysian-deputy-inspector-general-of-the-police-for-h.md)
 _Context: Democratic Action Party, Lim Kit Siang, Malaysia, Malaysian prisoner abuse scandal_

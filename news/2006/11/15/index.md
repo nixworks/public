@@ -4,7 +4,7 @@
 _Context: CENTCOM, Iraq, John Abizaid, Senate Armed Services Committee_
 
 ### [ An earthquake measuring 8.1 on the Richter scale occurs at 11:14:19 UTC on the Pacific Ocean seafloor with an epicentre 390 kilometres (244 miles) east of Etorofu island (latitude 46.7 North, longitude 153.5 East). Tsunami warnings and watches are issued by the Pacific Tsunami Warning Center and the East Coast and Alaska Tsunami Warning Center. After expectations of a tsunami at least 2 metres (6 feet) high, the largest wave to hit Hokkaido measures only 40 centimetres (16 inches).](/news/2006/11/15/an-earthquake-measuring-8-1-on-the-richter-scale-occurs-at-11-14-19-utc-on-the-pacific-ocean-seafloor-with-an-epicentre-390-kilometres-244.md)
-_Context: East Coast and Alaska Tsunami Warning Center, Hokkaido, Iturup, Pacific, Pacific Tsunami Warning Center, UTC, magnitude, tsunami_
+_Context: East Coast and Alaska Tsunami Warning Center, Hokkaido, Iturup, North Pacific Ocean, Pacific Tsunami Warning Center, UTC, magnitude, tsunami_
 
 ### [ Joseph Kabila wins the presidential run-off election in the Democratic Republic of the Congo with 58% of the vote according to the electoral commission. His opponent Jean-Pierre Bemba claims that there were widespread instances of fraud. ](/news/2006/11/15/joseph-kabila-wins-the-presidential-run-off-election-in-the-democratic-republic-of-the-congo-with-58-of-the-vote-according-to-the-electora.md)
 _Context: Democratic Republic of the Congo, Jean-Pierre Bemba, Joseph Kabila_

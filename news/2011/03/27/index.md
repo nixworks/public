@@ -7,7 +7,7 @@ _Context: Arab Spring, Latakia, Syrian Army, Syrian uprising_
 _Context: Arcade Fire, Canadian music, Juno Awards of 2011_
 
 ### [The level of radioactive iodine in the Pacific Ocean near the Fukushima I Nuclear Power Plant reaches 1850 times normal levels following the recent accidents. ](/news/2011/03/27/the-level-of-radioactive-iodine-in-the-pacific-ocean-near-the-fukushima-i-nuclear-power-plant-reaches-1850-times-normal-levels-following-the.md)
-_Context: Fukushima I Nuclear Power Plant, Fukushima I nuclear accidents, Pacific, radioactive iodine_
+_Context: Fukushima I Nuclear Power Plant, Fukushima I nuclear accidents, North Pacific Ocean, radioactive iodine_
 
 ### [Anti-nuclear activists hold a big rally in Tokyo. ](/news/2011/03/27/anti-nuclear-activists-hold-a-big-rally-in-tokyo.md)
 _Context: Tokyo_

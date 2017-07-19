@@ -34,7 +34,7 @@ _Context: 2011 Egyptian revolution, Egyptian President, Hosni Mubarak, Mohamed M
 _Context: President of Georgia, Prime Minister of Georgia, Saakashvili, Vano Merabishvili_
 
 ### [The Molecule of the Year 2011 is BMP7 as announced by Isidro A. T. Savillo, President, ISMCBBPR. ](/news/2012/06/30/the-molecule-of-the-year-2011-is-bmp7-as-announced-by-isidro-a-t-savillo-president-ismcbbpr.md)
-_Context: BMP7, ISMCBBPR, Isidro A. T. Savillo, Molecule of the Year_
+_Context: BMP7, ISMCBBPR, Molecule of the Year_
 
 ## [Previous Day...](/news/2012/06/29/index.md)
 

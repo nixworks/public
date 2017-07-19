@@ -61,7 +61,7 @@ Eighteen Class V students in a primary school run by RSS were buried alive and e
 A strange double earthquake triggered the Tonga tsunami that killed 192 people in September 2009, scientists say.
 
 ### [A bus plunges into a 100 metre ravine in the Philippines Benguet province resulting in 39 deaths. ](/news/2010/08/18/a-bus-plunges-into-a-100-metre-ravine-in-the-philippines-benguet-province-resulting-in-39-deaths.md)
-_Context: Benguet, Philippines, bus, ravine_
+_Context: Benguet, Philippine, bus, ravine_
 
 ### [3 people are killed and 3 others are missing after a South Korean fishing boat sinks 400 miles from Dunedin on the South Island of New Zealand. ](/news/2010/08/18/3-people-are-killed-and-3-others-are-missing-after-a-south-korean-fishing-boat-sinks-400-miles-from-dunedin-on-the-south-island-of-new-zeala.md)
 _Context: Dunedin, New Zealand, South Island, South Korea, fishing boat_

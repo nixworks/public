@@ -37,7 +37,7 @@ _Context: Belfast_
 _Context: Italian, Mafia, Salvatore Miceli, Venezuela_
 
 ### [ United States President Barack Obama tells a television news crew his country is "fully prepared" for a possible missile test by North Korea over the Pacific Ocean. ](/news/2009/06/21/united-states-president-barack-obama-tells-a-television-news-crew-his-country-is-fully-prepared-for-a-possible-missile-test-by-north-kore.md)
-_Context: Barack Obama, North Korea, Pacific, President of the United States, U.S._
+_Context: Barack Obama, North Korea, North Pacific Ocean, President of the United States, U.S._
 
 ## [Previous Day...](/news/2009/06/20/index.md)
 

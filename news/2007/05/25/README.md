@@ -16,7 +16,7 @@ _Context: South African, U.S., UK_
 _Context: Japan, Kyodo, North Korea, Sea of Japan, fires seven more missiles_
 
 ### [ Ukraine's political crisis worsens after the President of Ukraine Viktor Yushchenko fires the prosecutor general Svyatoslav Piskun. Piskun has defied the order and his supporters have occupied government buildings. ](/news/2007/05/25/ukraine-s-political-crisis-worsens-after-the-president-of-ukraine-viktor-yushchenko-fires-the-prosecutor-general-svyatoslav-piskun-piskun.md)
-_Context: Svyatoslav Piskun, Ukrainian, Ukrainian President, Viktor Yushchenko_
+_Context: Svyatoslav Piskun, Ukraine, Ukrainian President, Viktor Yushchenko_
 
 ### [ NASDAQ agrees to buy OMX AB which runs several stock exchanges in Scandinavia and the Baltic States for 25.1 billion Swedish kronor (USD$3.7 billion). ](/news/2007/05/25/nasdaq-agrees-to-buy-omx-ab-which-runs-several-stock-exchanges-in-scandinavia-and-the-baltic-states-for-25-1-billion-swedish-kronor-usd-3.md)
 _Context: Baltics, Nasdaq, OMX AB, SKr, Scandinavians, USD, stock exchange_

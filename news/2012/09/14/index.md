@@ -25,7 +25,7 @@ Anti-American violence flared Friday across North Africa and the Middle East, wi
 The United States accused Syria on Friday of using the &quot;brutal repression&quot; of its people waging an uprising as an excuse not to address U.N. nuclear watchdog concerns about suspected past illicit nuclear activity in the Arab state.
 
 ### [HTV-3 detaches from the ISS for a burial in the Pacific Ocean. ATV 3 thrusts the ISS' orbit two kilometers up. TMA-04M will land on 17 September. ATV-003, named ''Edoardo Amaldi'', is planned to disconnect on September 25th and burn up itself and a load of trash in the atmosphere over the same ocean. ](/news/2012/09/14/htv-3-detaches-from-the-iss-for-a-burial-in-the-pacific-ocean-atv-3-thrusts-the-iss-orbit-two-kilometers-up-tma-04m-will-land-on-17-septe.md)
-_Context: ATV-3, Edoardo Amaldi, HTV-3, ISS, Pacific, TMA_
+_Context: ATV-3, Edoardo Amaldi, HTV-3, ISS, North Pacific Ocean, TMA_
 
 ## [Previous Day...](/news/2012/09/13/index.md)
 

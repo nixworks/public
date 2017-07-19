@@ -13,7 +13,7 @@ _Context: Sbastien Loeb, Tommi Mkinen, World Rally Championship_
 _Context: Brazil, Sao Paulo, digital television_
 
 ### [ Four people are killed at the Zasyadko coal mine in eastern Ukraine where 101 people were killed twelve days earlier in the country's worst mining accident. ](/news/2007/12/2/four-people-are-killed-at-the-zasyadko-coal-mine-in-eastern-ukraine-where-101-people-were-killed-twelve-days-earlier-in-the-country-s-worst.md)
-_Context: Ukrainian, Zasyadko coal mine, twelve days earlier_
+_Context: Ukraine, Zasyadko coal mine, twelve days earlier_
 
 ## [Previous Day...](/news/2007/12/1/index.md)
 

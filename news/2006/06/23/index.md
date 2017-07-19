@@ -13,7 +13,7 @@ _Context: George W. Bush, President of the United States, U.S., executive order_
 Saddam Hussein thinks that the United States will have to seek his help to quell the insurgency in Iraq and open the way for U.S. forces to withdraw, his chief lawyer said Sunday.
 
 ### [ A United States warship is reported to have shot down a missile in the Pacific, in a test of their now operational sea-based missile defense system. ](/news/2006/06/23/a-united-states-warship-is-reported-to-have-shot-down-a-missile-in-the-pacific-in-a-test-of-their-now-operational-sea-based-missile-defens.md)
-_Context: Pacific, U.S., missile interceptor_
+_Context: North Pacific Ocean, U.S., missile interceptor_
 
 ### [ Harriet, a Galapagos tortoise, has died at age 176. Harriet was one of the oldest known animals in the world. ](/news/2006/06/23/harriet-a-galapagos-tortoise-has-died-at-age-176-harriet-was-one-of-the-oldest-known-animals-in-the-world.md)
 _Context: Galapagos tortoise, Harriet_

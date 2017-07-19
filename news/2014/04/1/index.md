@@ -4,7 +4,7 @@
 _Context: Homestar Runner_
 
 ### [An 8.2 magnitude earthquake occurs in the Pacific Ocean near Chile causing landslides and killing at least five people. A tsunami warning is issued. ](/news/2014/04/1/an-8-2-magnitude-earthquake-occurs-in-the-pacific-ocean-near-chile-causing-landslides-and-killing-at-least-five-people-a-tsunami-warning-is.md)
-_Context: 2014 Iquique earthquake, Chile, Pacific, tsunami_
+_Context: 2014 Iquique earthquake, Chile, North Pacific Ocean, tsunami_
 
 ### [2014 Guinea Ebola outbreak:The death toll in Guinea rises to 80 with two people dead in neighbouring Liberia. ](/news/2014/04/1/2014-guinea-ebola-outbreak-pthe-death-toll-in-guinea-rises-to-80-with-two-people-dead-in-neighbouring-liberia.md)
 Sky News Australia has the top stories in news online from Australia and the rest of the World.

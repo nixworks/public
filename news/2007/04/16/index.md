@@ -4,7 +4,7 @@
 Wedding pros offer unique tips to save and still have your dream wedding.
 
 ### [ Ekmeleddin Ihsanoglu, the Secretary-General of the Organisation of the Islamic Conference, calls for an end of fighting between the Philippines government and the Moro National Liberation Front, which has killed at least 12 people over the past few days. ](/news/2007/04/16/ekmeleddin-adeghsanoalu-the-secretary-general-of-the-organisation-of-the-islamic-conference-calls-for-an-end-of-fighting-between-the-phili.md)
-_Context: Ekmeleddin Ihsanoglu, Moro National Liberation Front, Organisation of Islamic Cooperation, Philippines_
+_Context: Ekmeleddin Ihsanoglu, Moro National Liberation Front, Organisation of Islamic Cooperation, Philippine_
 
 ### [ At least 33 coal miners are trapped in a mine in Baofeng county, Henan province, China. ](/news/2007/04/16/at-least-33-coal-miners-are-trapped-in-a-mine-in-baofeng-county-henan-province-china.md)
 _Context: Baofeng, China, Henan, coal, miner_
@@ -19,7 +19,7 @@ The gunman who killed 32 people and then himself at Virginia Tech university on 
 _Context: Prosperous Armenia, Yerevan_
 
 ### [ The United States, Japan and India carry out a joint naval exercise in the Pacific Ocean in an attempt to increase strategic cooperation. ](/news/2007/04/16/the-united-states-japan-and-india-carry-out-a-joint-naval-exercise-in-the-pacific-ocean-in-an-attempt-to-increase-strategic-cooperation.md)
-_Context: India, Japan, Pacific, U.S., maritime forces_
+_Context: India, Japan, North Pacific Ocean, U.S., maritime forces_
 
 ### [ Kalyk Imankulov, the former Chairman of the Kyrgyz National Security Service, joins the United Front For A Worthy Future For Kyrgyzstan political alliance. The alliance is staging its sixth day of protests as it calls for the resignation of President Kurmanbek Bakiyev. ](/news/2007/04/16/kalyk-imankulov-the-former-chairman-of-the-kyrgyz-national-security-service-joins-the-united-front-for-a-worthy-future-for-kyrgyzstan-pol.md)
 Kyrgyzstan entered its sixth day of anti-government protests on April 16, after a tense weekend that included several violent encounters. With the estimated turnout lower than opposition organizers ha

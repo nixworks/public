@@ -10,7 +10,7 @@ _Context: Cook Strait, New Zealand, Wellington, strikes_
 _Context: Egyptian Army, Mediterranean coast_
 
 ### [At least 12 people have been killed or wounded in a clash between two Muslim families in the province of Lanao del Sur in the southern Philippines. ](/news/2013/07/21/at-least-12-people-have-been-killed-or-wounded-in-a-clash-between-two-muslim-families-in-the-province-of-lanao-del-sur-in-the-southern-phili.md)
-_Context: Lanao del Sur, Muslim, Philippines_
+_Context: Lanao del Sur, Muslim, Philippine_
 
 ### [Voters in Japan go to the polls for a House of Councillors (Japan's upper house) election with the governing coalition led by Shinzo Abe winning control of the upper house. ](/news/2013/07/21/voters-in-japan-go-to-the-polls-for-a-house-of-councillors-japan-s-upper-house-election-with-the-governing-coalition-led-by-shinzo-abe-win.md)
 Reviving the long-stagnant economy is the top priority for voters.

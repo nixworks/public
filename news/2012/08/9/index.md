@@ -16,7 +16,7 @@ Three US soldiers are killed by a gunman wearing uniform in the province of Helm
 Barclays bank appoints Sir David Walker, who led an inquiry into how banks are run, as its new chairman in the wake of the Libor scandal.
 
 ### [The death toll from floods in the Philippines over the past ten days rises to 70. ](/news/2012/08/9/the-death-toll-from-floods-in-the-philippines-over-the-past-ten-days-rises-to-70.md)
-_Context: Philippines_
+_Context: Philippine_
 
 ### [Hurricane Ernesto makes landfall in the Mexican state of Veracruz causing at least three deaths. ](/news/2012/08/9/hurricane-ernesto-makes-landfall-in-the-mexican-state-of-veracruz-causing-at-least-three-deaths.md)
 _Context: Hurricane Ernesto, Mexico, Veracruz_

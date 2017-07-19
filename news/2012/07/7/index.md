@@ -13,7 +13,7 @@ _Context: Leon, Mexico, Pakistan, World Karl Popper Debate Championships, Zainab
 More than 144 people have been killed as flash floods swept through parts of the Krasnodar region in southern Russia, officials say.
 
 ### [A bus crash in northeastern Ukraine kills at least 14 Russian pilgrims. ](/news/2012/07/7/a-bus-crash-in-northeastern-ukraine-kills-at-least-14-russian-pilgrims.md)
-_Context: Russia, Ukrainian_
+_Context: Russia, Ukraine_
 
 ### [Up to 13 million in West Africa are at risk in a food crisis caused by a prolonged drought. ](/news/2012/07/7/up-to-13-million-in-west-africa-are-at-risk-in-a-food-crisis-caused-by-a-prolonged-drought.md)
 Cereal production has fallen by as much as 62 per cent in some countries. 

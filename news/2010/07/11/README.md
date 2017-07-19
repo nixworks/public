@@ -22,7 +22,7 @@ _Context: Colton Harris-Moore, Eleuthera, Police, U.S., the Bahamas_
 Spanish film-maker Agusti Vila wins the main prize at the Karlovy Vary festival in the Czech Republic.
 
 ### [A total solar eclipse occurs in the south Pacific Ocean with thousands viewing the event on Easter Island. ](/news/2010/07/11/a-total-solar-eclipse-occurs-in-the-south-pacific-ocean-with-thousands-viewing-the-event-on-easter-island.md)
-_Context: Easter Island, Pacific, total solar eclipse_
+_Context: Easter Island, North Pacific Ocean, total solar eclipse_
 
 ### [Spain defeats the Netherlands by a score of one goal to nil in extra time of the 2010 FIFA World Cup Final to win the 2010 FIFA World Cup, with Andrs Iniesta scoring the winning goal. ](/news/2010/07/11/spain-defeats-the-netherlands-by-a-score-of-one-goal-to-nil-in-extra-time-of-the-2010-fifa-world-cup-final-to-win-the-2010-fifa-world-cup-w.md)
 Spain has ended its long wait for a maiden World Cup title, defeating the Netherlands 1-0 at Soccer City in Johannesburg.

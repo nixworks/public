@@ -7,7 +7,7 @@ Attacks by government forces and rebels killed at least 30 people, including eig
 _Context: Attacks on secularists in Bangladesh, Bangladesh, USAID, Xulhaz Mannan, al-Qaeda in the Indian Subcontinent_
 
 ### [Ukraine commemorates the 30th anniversary of the Chernobyl disaster. ](/news/2016/04/26/ukraine-commemorates-the-30th-anniversary-of-the-chernobyl-disaster.md)
-_Context: Chernobyl disaster, Ukrainian_
+_Context: Chernobyl disaster, Ukraine_
 
 ### [The Prime Minister of Australia Malcolm Turnbull announces that French company DCNS has been awarded a $50 billion contract to build a new fleet of submarines for the Royal Australian Navy with the subs to be built in Adelaide. ](/news/2016/04/26/the-prime-minister-of-australia-malcolm-turnbull-announces-that-french-company-dcns-has-been-awarded-a-50-billion-contract-to-build-a-new-f.md)
 French company wins the contract to build Australia&#039;s next fleet of submarines, with Prime Minister Malcolm Turnbull promising thousands of jobs.

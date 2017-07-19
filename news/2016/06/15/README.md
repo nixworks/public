@@ -13,7 +13,7 @@ Wreckage of the EgyptAir Paris-Cairo flight MS804 has been found in the Mediterr
 European commission says Turkey has not met conditions of possible deal including border security and human rights issues
 
 ### [NATO's defense ministers agree to boost support for Ukraine with a "comprehensive package of assistance", which will help it strengthen defense and to modernize its armed forces. ](/news/2016/06/15/nato-s-defense-ministers-agree-to-boost-support-for-ukraine-with-a-comprehensive-package-of-assistance-which-will-help-it-strengthen-defe.md)
-_Context: NATO, Ukraine-NATO relations, Ukrainian, Ukrainian military_
+_Context: NATO, Ukraine, Ukraine-NATO relations, Ukrainian military_
 
 ### [Israel announces plans for construction of a three-story residential building for Jewish settlers in a Palestinian neighborhood of East Jerusalem. ](/news/2016/06/15/israel-announces-plans-for-construction-of-a-three-story-residential-building-for-jewish-settlers-in-a-palestinian-neighborhood-of-east-jeru.md)
 Israeli municipal authorities on Wednesday approved the construction of a three-storey residential building for Jewish settlers in a Palestinian neighbourhood of East Jerusalem.

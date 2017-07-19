@@ -1,7 +1,7 @@
 ## [2015-02-10](/news/2015/02/10/index.md)
 
 ### [Fighting kills fifteen people and leaves 60 injured as missiles hit Ukraine's military headquarters in the city of Kramatorsk. ](/news/2015/02/10/fighting-kills-fifteen-people-and-leaves-60-injured-as-missiles-hit-ukraine-s-military-headquarters-in-the-city-of-kramatorsk.md)
-_Context: Kramatorsk, Ukrainian, War in Donbass_
+_Context: Kramatorsk, Ukraine, War in Donbass_
 
 ### [The Obama Administration announces the creation of the Cyber Threat Intelligence Integration Center, a new United States federal government agency that will be a fusion center between existing agencies and the private sector for real-time use against cyber attacks. ](/news/2015/02/10/the-obama-administration-announces-the-creation-of-the-cyber-threat-intelligence-integration-center-a-new-united-states-federal-government.md)
 Calling the destructive cyberattack on Sony Pictures &quot;a game changer,&quot; a top White House official on Tuesday announced a new intelligence unit to coordinate analysis of cyberthreats, modeled on similar U.S. government efforts to fight terrorism.

@@ -58,7 +58,7 @@ _Context: Morgan Tsvangirai, President of Zimbabwe, Robert Mugabe_
 _Context: Gaza Strip, Israel, Jimmy Carter, The Elders_
 
 ### [Scientists discover a new type of snailfish, in the Peru-Chile trench in the south-east Pacific Ocean. ](/news/2010/10/16/scientists-discover-a-new-type-of-snailfish-in-the-peru-chile-trench-in-the-south-east-pacific-ocean.md)
-_Context: Pacific, Peru-Chile trench, snailfish_
+_Context: North Pacific Ocean, Peru-Chile trench, snailfish_
 
 ## [Previous Day...](/news/2010/10/15/index.md)
 

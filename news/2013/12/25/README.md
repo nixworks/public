@@ -1,7 +1,7 @@
 ## [2013-12-25](/news/2013/12/25/index.md)
 
 ### [Euromaidan:Tetiana Chornovol, an Ukrainian civic activist and journalist, is dragged from her car and beaten by a group of men. Authorities say that this is the latest attack on government opponents. ](/news/2013/12/25/euromaidan-ptetiana-chornovol-an-ukrainian-civic-activist-and-journalist-is-dragged-from-her-car-and-beaten-by-a-group-of-men-authorities.md)
-_Context: Euromaidan, Tetiana Chornovol, Ukrainian_
+_Context: Euromaidan, Tetiana Chornovol, Ukraine_
 
 ### [Iraqi insurgency (post-U.S. withdrawal):A car bomb explodes near a church as Christian worshippers were leaving a Christmas service in the capital, Baghdad, killing at least 14 people and wounding 28 others. ](/news/2013/12/25/iraqi-insurgency-post-u-s-withdrawal-pa-car-bomb-explodes-near-a-church-as-christian-worshippers-were-leaving-a-christmas-service-in-the.md)
 Two bombs near a Catholic church and a market in Baghdad kill at least 35 people, as Iraqi Christians celebrated Christmas, officials say.

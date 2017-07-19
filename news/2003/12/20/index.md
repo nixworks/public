@@ -22,7 +22,7 @@ _Context: Israel, Palestinian National Authority, West Bank, World Court_
 _Context: Iraq, Jos Mara Aznar, Prime Minister, Spain_
 
 ### [Massive landslides in the Philippines caused by heavy rain result in the deaths of up to 90 people. [http://news.bbc.co.uk/2/hi/asia-pacific/3336327.stm]](/news/2003/12/20/massive-landslides-in-the-philippines-caused-by-heavy-rain-result-in-the-deaths-of-up-to-90-people-http-news-bbc-co-uk-2-hi-asia-pacific.md)
-_Context: Philippines_
+_Context: Philippine_
 
 ### [A Malaysian opposition website is shut down by its British web-hosting company amid claims of "political censorship" from the opposition. [http://news.bbc.co.uk/2/hi/asia-pacific/3337019.stm] ](/news/2003/12/20/a-malaysian-opposition-website-is-shut-down-by-its-british-web-hosting-company-amid-claims-of-political-censorship-from-the-opposition-h.md)
 _Context: Malaysia, UK, website_

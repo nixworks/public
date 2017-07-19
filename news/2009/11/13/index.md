@@ -1,7 +1,7 @@
 ## [2009-11-13](/news/2009/11/13/index.md)
 
 ### [ Philippines President Gloria Arroyo signs a law banning torture, making it a criminal offence punishable by up to 30 years imprisonment. ](/news/2009/11/13/philippines-president-gloria-arroyo-signs-a-law-banning-torture-making-it-a-criminal-offence-punishable-by-up-to-30-years-imprisonment.md)
-_Context: Gloria Arroyo, Philippines, President of the Philippines, torture_
+_Context: Gloria Arroyo, Philippine, President of the Philippines, torture_
 
 ### [ The Turkish government unveils a plan to improve rights of the Kurdish minority to end the decades long ethnic conflict in the southeast of the country. ](/news/2009/11/13/the-turkish-government-unveils-a-plan-to-improve-rights-of-the-kurdish-minority-to-end-the-decades-long-ethnic-conflict-in-the-southeast-of.md)
 _Context: Kurd, Turkey, disarm_
@@ -52,7 +52,7 @@ _Context: Inter-Services Intelligence, Pakistan, Peshawar_
 Taoiseach Brian Cowen is to attend the 13th British-Irish Council Summit today in Jersey.
 
 ### [ The Japan Coast Guard evacuates 28 passengers and crew from the ''Ariake'' commercial ferry after it rolls over onto its side in rough seas off Mie Prefecture in the Pacific Ocean. ](/news/2009/11/13/the-japan-coast-guard-evacuates-28-passengers-and-crew-from-the-ariake-commercial-ferry-after-it-rolls-over-onto-its-side-in-rough-seas.md)
-_Context: Ariake, Japan Coast Guard, Mie Prefecture, Pacific_
+_Context: Ariake, Japan Coast Guard, Mie Prefecture, North Pacific Ocean_
 
 ### [ Kosovo prepares for historic elections after a flare-up earlier this week targeted Prime Minister Hashim Thaci in the western town of Decan. ](/news/2009/11/13/kosovo-prepares-for-historic-elections-after-a-flare-up-earlier-this-week-targeted-prime-minister-hashim-thaci-in-the-western-town-of-deassa.md)
 _Context: Decan, Hashim Thai, Kosovo_

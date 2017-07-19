@@ -8,7 +8,7 @@ _Context: February 1, Kenya, Mogadishu, Somalia_
 _Context: Beirut, Conflict in Iraq, Hazim al-Shaalan, Iraq, John Negroponte, U.S., US$_
 
 ### [ Viktor Yushchenko is invested as president of Ukraine at a ceremony in Kiev before a large crowd of supporters and attended by numerous heads of state and other dignitaries from around the world. ](/news/2005/01/23/viktor-yushchenko-is-invested-as-president-of-ukraine-at-a-ceremony-in-kiev-before-a-large-crowd-of-supporters-and-attended-by-numerous-hea.md)
-_Context: Kiev, Ukrainian, Viktor Yushchenko, head of state, invested as president_
+_Context: Kiev, Ukraine, Viktor Yushchenko, head of state, invested as president_
 
 ## [Previous Day...](/news/2005/01/22/index.md)
 

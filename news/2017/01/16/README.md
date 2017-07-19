@@ -13,7 +13,7 @@ Andrei Yevdochenko noted that it was with deep sympathy and grief that Belarus l
 Cagayan de Oro City is now under “orange alert,” paving the way for preemptive evacuation of residents near the Cagayan de Oro River as large parts of the city and some parts of Visayas and Mindanao are inundated due to rains induced by a low pressure area and tail end of the cold front.
 
 ### [Ukraine sues Russia at the International Court of Justice, accusing the latter of being engaged in acts of "terrorism" and "discrimination" in eastern Ukraine and Crimea. ](/news/2017/01/16/ukraine-sues-russia-at-the-international-court-of-justice-accusing-the-latter-of-being-engaged-in-acts-of-terrorism-and-discrimination.md)
-_Context: Crimea, International Court of Justice, Russia, Russia-Ukraine relations, Ukrainian, War in Donbass, eastern Ukraine_
+_Context: Crimea, International Court of Justice, Russia, Russia-Ukraine relations, Ukraine, War in Donbass, eastern Ukraine_
 
 ### [A top Egyptian court rules against giving away the two Red Sea islands of Tiran and Sanafir to Saudi Arabia. ](/news/2017/01/16/a-top-egyptian-court-rules-against-giving-away-the-two-red-sea-islands-of-tiran-and-sanafir-to-saudi-arabia.md)
 _Context: Egypt-Saudi Arabia relations, Red Sea, Sanafir Island, Saudi Arabia, Tiran Island_

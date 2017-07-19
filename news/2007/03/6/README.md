@@ -19,7 +19,7 @@ _Context: Bogota, Colombia, George W. Bush, March 11, President of the United St
 _Context: Empress Michiko, Japan, Kyodo News, internal bleeding_
 
 ### [ Two earthquakes measuring 6.4 and 6.3 on the Moment magnitude scale hit Sumatra in Indonesia, with the epicenter near Lake Singkarak. At least 82 fatalities are currently reported. The earthquakes were felt as far as in Malaysia and Singapore. ](/news/2007/03/6/two-earthquakes-measuring-6-4-and-6-3-on-the-moment-magnitude-scale-hit-sumatra-in-indonesia-with-the-epicenter-near-lake-singkarak-at-le.md)
-_Context: Indonesia, Lake Singkarak, Malaysia, Singapore, Sumatra, Two earthquakes, magnitude_
+_Context: Indonesia, Lake Singkarak, Malaysia, Singapore, Sumatra, Two earthquakes, magnitude earthquake_
 
 ### [ India and Pakistan hold a meeting in Islamabad to discuss joint actions against terrorism with discussion focussing on the Samjhauta Express bombings.  ](/news/2007/03/6/india-and-pakistan-hold-a-meeting-in-islamabad-to-discuss-joint-actions-against-terrorism-with-discussion-focussing-on-the-samjhauta-expres.md)
 _Context: India, Islamabad, Pakistan, Samjhauta Express bombings, terrorism_

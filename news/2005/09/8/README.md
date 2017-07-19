@@ -19,7 +19,7 @@ AskMen is the No. 1 site to help men improve their lives—from discovering new 
 _Context: Hurricane Katrina, Louisiana_
 
 ### [ Ukraine President Viktor Yushchenko fires Prime Minister Yulia Tymoshenko and most of his cabinet amid accusations of graft and serious infighting. [http://news.yahoo.com/s/nm/20050908/wl_nm/ukraine_dc (Yahoo! News)] (Link dead as of 00:43, 15 January 2007 (UTC))](/news/2005/09/8/ukraine-president-viktor-yushchenko-fires-prime-minister-yulia-tymoshenko-and-most-of-his-cabinet-amid-accusations-of-graft-and-serious-inf.md)
-_Context: Prime Minister of Ukraine, Ukrainian, Ukrainian President, Viktor Yushchenko, Yulia Tymoshenko, anti-corruption, cabinet_
+_Context: Prime Minister of Ukraine, Ukraine, Ukrainian President, Viktor Yushchenko, Yulia Tymoshenko, anti-corruption, cabinet_
 
 ### [ Guy Theunis, a Catholic priest from Belgium, has been arrested on a charge of republishing articles in a magazine that the authorities cite as encouraging genocide in Rwanda. ](/news/2005/09/8/guy-theunis-a-catholic-priest-from-belgium-has-been-arrested-on-a-charge-of-republishing-articles-in-a-magazine-that-the-authorities-cite.md)
 _Context: Belgian, Catholic, Guy Theunis, genocide in Rwanda, priest_

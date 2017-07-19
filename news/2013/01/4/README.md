@@ -25,7 +25,7 @@ _Context: Beechcraft BE35, Daytona Beach, Florida, U.S._
 Six Russian tourists die as their snowmobile flips over during a night-time run down an Alpine ski slope in north-eastern Italy, reports say.
 
 ### [A gunman kills eight people in a house-to-house rampage in Kawit, the Philippines. ](/news/2013/01/4/a-gunman-kills-eight-people-in-a-house-to-house-rampage-in-kawit-the-philippines.md)
-_Context: Kawit, Philippines, kills eight people_
+_Context: Kawit, Philippine, kills eight people_
 
 ### [The Nigerian police announces that Hyundai has paid a ransom of PS118,000 ($190,000) to free 6 kidnapped workers in the Niger Delta region. ](/news/2013/01/4/the-nigerian-police-announces-that-hyundai-has-paid-a-ransom-of-aps118-000-190-000-to-free-6-kidnapped-workers-in-the-niger-delta-region.md)
 South Korean firm Hyundai paid a ransom of $190,000 (£118,000) to free six workers kidnapped last month, Nigerian police say.

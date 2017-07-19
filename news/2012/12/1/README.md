@@ -7,7 +7,7 @@ Syrian jets bombed rebel-held areas of Damascus on Saturday, residents said, as 
 _Context: 2012 East D.R. Congo conflict, Goma, M23, Uganda_
 
 ### [Anastasiya Petryk from Ukraine wins the Junior Eurovision Song Contest 2012 with her song ''Nebo'' (''Sky'') which got 138 points. ](/news/2012/12/1/anastasiya-petryk-from-ukraine-wins-the-junior-eurovision-song-contest-2012-with-her-song-nebo-sky-which-got-138-points.md)
-_Context: Anastasiya Petryk, Junior Eurovision Song Contest 2012, Ukrainian_
+_Context: Anastasiya Petryk, Junior Eurovision Song Contest 2012, Ukraine_
 
 ### [A tour bus hits a bridge at Miami International Airport, USA, killing at least two people and injuring many more. ](/news/2012/12/1/a-tour-bus-hits-a-bridge-at-miami-international-airport-usa-killing-at-least-two-people-and-injuring-many-more.md)
 A bus carrying church members hits a low bridge at Miami International Airport, killing two passengers and injuring dozens more.

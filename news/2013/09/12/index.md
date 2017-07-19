@@ -1,7 +1,7 @@
 ## [2013-09-12](/news/2013/09/12/index.md)
 
 ### [Islamic insurgency in the Philippines:The Moro National Liberation Front attacks the Philippines town of Lamitan with five people missing and two injured. ](/news/2013/09/12/islamic-insurgency-in-the-philippines-pthe-moro-national-liberation-front-attacks-the-philippines-town-of-lamitan-with-five-people-missing-a.md)
-_Context: Islamic insurgency in the Philippines, Lamitan, Moro National Liberation Front, Philippines_
+_Context: Islamic insurgency in the Philippines, Lamitan, Moro National Liberation Front, Philippine_
 
 ### [American born Islamist militant Abu Mansoor Al-Amriki is shot dead in a dawn raid in a shootout with his former al-Shabaab colleagues in southern Somalia. ](/news/2013/09/12/american-born-islamist-militant-abu-mansoor-al-amriki-is-shot-dead-in-a-dawn-raid-in-a-shootout-with-his-former-al-shabaab-colleagues-in-sou.md)
 A US-born Islamist with a $5 billion bounty on his head is shot dead in Somalia.

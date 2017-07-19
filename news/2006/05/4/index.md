@@ -10,7 +10,7 @@ _Context: Manasseh Sogavare, Prime Minister of the Solomon Islands, Snyder Rini_
 _Context: Ehud Olmert, Israel, Israeli Prime Minister, Israeli cabinet, oath of office_
 
 ### [ A tsunami warning was issued for Fiji and New Zealand following a magnitude 7.9 earthquake in Tonga which occurred at 15:26 UTC (04:26 May 4, local time).  The warning was canceled when it was found that the earthquake did not produce a tsunami.  ](/news/2006/05/4/a-tsunami-warning-was-issued-for-fiji-and-new-zealand-following-a-magnitude-7-9-earthquake-in-tonga-which-occurred-at-15-26-utc-04-26-may.md)
-_Context: 7.9 earthquake in Tonga, Fiji, New Zealand, magnitude, tsunami, warnings_
+_Context: 7.9 earthquake in Tonga, Fiji, New Zealand, magnitude earthquake, tsunami, warnings_
 
 ### [ Picasso's ''Dora Maar With Cat'' is sold in an auction for US$95,216,000, becoming one of the most expensive paintings in the world. ](/news/2006/05/4/picasso-s-dora-maar-with-cat-is-sold-in-an-auction-for-us-95-216-000-becoming-one-of-the-most-expensive-paintings-in-the-world.md)
 _Context: ''Dora Maar With Cat'', Picasso, U.S. dollar, most expensive work of art sold at auction_

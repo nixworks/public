@@ -10,7 +10,7 @@ The Leaving Certificate English Paper Two has been postponed after it emerged th
 _Context: Gordon Brown, Labour, MP, Parliament, Prime Minister, UK, e-mail_
 
 ### [ The remotely operated vehicle ''Nereus'' reaches the Challenger Deep in the Pacific Ocean's Mariana Trench. ](/news/2009/06/3/the-remotely-operated-vehicle-nereus-reaches-the-challenger-deep-in-the-pacific-ocean-s-mariana-trench.md)
-_Context: Challenger Deep, Mariana Trench, Nereus, Pacific, remotely operated vehicle_
+_Context: Challenger Deep, Mariana Trench, Nereus, North Pacific Ocean, remotely operated vehicle_
 
 ### [ Indian Member of Parliament Meira Kumar becomes the first female Speaker of the House of the People. ](/news/2009/06/3/indian-member-of-parliament-meira-kumar-becomes-the-first-female-speaker-of-the-house-of-the-people.md)
 _Context: India, Lok Sabha, MP, Meira Kumar, Parliament of India, Speaker, becomes_

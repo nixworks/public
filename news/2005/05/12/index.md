@@ -19,7 +19,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: AIDS, Nigeria, Olusegun Obasanjo, blood transfusion_
 
 ### [ Western countries pledge funds to Ukraine so the country can cover the Chernobyl nuclear reactor. ](/news/2005/05/12/western-countries-pledge-funds-to-ukraine-so-the-country-can-cover-the-chernobyl-nuclear-reactor.md)
-_Context: Chernobyl, Ukrainian, nuclear reactor_
+_Context: Chernobyl, Ukraine, nuclear reactor_
 
 ### [ In Colombia, former justice minister  Alberto Santofimio Botero is arrested suspected of complicity in the murder of presidential candidate Luis Carlos Galn in 1989. ](/news/2005/05/12/in-colombia-former-justice-minister-alberto-santofimio-botero-is-arrested-suspected-of-complicity-in-the-murder-of-presidential-candidate.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

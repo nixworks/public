@@ -31,7 +31,7 @@ _Context: Darfur, International Criminal Court, Luis Moreno-Ocampo, Sudan_
 _Context: Breton Revolutionary Army, ETA, separatist_
 
 ### [ In the Philippines, agriculture minister Arthur Yap resigns because of charges of tax evasion](/news/2005/06/30/in-the-philippines-agriculture-minister-arthur-yap-resigns-because-of-charges-of-tax-evasion.md)
-_Context: Arthur Yap, Philippines, tax evasion_
+_Context: Arthur Yap, Philippine, tax evasion_
 
 ### [ In India, Gautam Goswami, main suspect of a massive flood relief scam connected to 2005 Indian Ocean earthquake, gives himself up after several weeks and is remanded to judicial custody. He is also under another investigation of misusing public funds meant for social programs.](/news/2005/06/30/in-india-gautam-goswami-main-suspect-of-a-massive-flood-relief-scam-connected-to-2005-indian-ocean-earthquake-gives-himself-up-after-sev.md)
 _Context: 2005 Indian Ocean earthquake, Gautam Goswami, judicial custody_

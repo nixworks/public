@@ -7,7 +7,7 @@ _Context: Burundi, Burundi Civil War, National Liberation Forces_
 _Context: 10 Most Wanted Fugitives list, New York, Ralph "Bucky" Phillips_
 
 ### [Ukrainian archaeologists claim they have found underground pyramids near Luhansk that predate the pyramids at Giza. BBC news's Helen Fawkes calls the complex the "Ukrainian Stonehenge." ](/news/2006/09/7/ukrainian-archaeologists-claim-they-have-found-underground-pyramids-near-luhansk-that-predate-the-pyramids-at-giza-bbc-news-s-helen-fawkes.md)
-_Context: Giza, Luhansk, Stonehenge, Ukrainian, underground pyramids_
+_Context: Giza, Luhansk, Stonehenge, Ukraine, underground pyramids_
 
 ### ['''Belgian False Flag Terror arrests:''' Police in Belgium make arrests at army barracks and soldiers' homes as part of an investigation into suspected far-right terrorists (Bloed-Bodem-Eer en Trouw) operating inside the military. The soldiers were reportedly planning attacks aimed at destabilizing the country. ](/news/2006/09/7/belgian-false-flag-terror-arrests-police-in-belgium-make-arrests-at-army-barracks-and-soldiers-homes-as-part-of-an-investigation-int.md)
 _Context: Belgian, Bloed, Bodem, Eer en Trouw, destabilizing the country, far right, terrorists_

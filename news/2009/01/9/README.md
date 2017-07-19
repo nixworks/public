@@ -16,7 +16,7 @@ _Context: India, Indian Oil Corporation, PSUs, petroleum product, strike_
 _Context: Governor of Illinois, House of Representatives, Illinois, Rod Blagojevich, U.S. state, corruption, impeach_
 
 ### [ A 6.1-magnitude earthquake in northern Costa Rica kills 15 people and injures 32. ](/news/2009/01/9/a-6-1-magnitude-earthquake-in-northern-costa-rica-kills-15-people-and-injures-32.md)
-_Context: Costa Rica, earthquake, magnitude_
+_Context: Costa Rica, earthquake, magnitude earthquake_
 
 ### [ Piracy in Somalia: The MV ''Sirius Star'', a supertanker seized in the world's largest hijacking, is released with 2000000|oilbbl|m3 of oil and all 25 crew members unharmed after a US$3 million ransom is paid. ](/news/2009/01/9/piracy-in-somalia-p-the-mv-sirius-star-a-supertanker-seized-in-the-world-s-largest-hijacking-is-released-with-2000000-oilbbl-m3-of-oi.md)
 _Context: ''Sirius Star'', MV, Somali pirates, Somalia, US$, oil, oil tanker, ransom_

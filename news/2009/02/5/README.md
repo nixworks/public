@@ -13,7 +13,7 @@ _Context: Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia, Tajikistan, Uzbekist
 _Context: Chinese, drought, state of emergency_
 
 ### [ Somali pirates release Ukraine's MV ''Faina''  following a US$3.2-million ransom payment. ](/news/2009/02/5/somali-pirates-release-ukraine-s-mv-faina-following-a-us-3-2-million-ransom-payment.md)
-_Context: Faina, MV, Somali pirates, Somalia, US$, Ukrainian, ransom_
+_Context: Faina, MV, Somali pirates, Somalia, US$, Ukraine, ransom_
 
 ### [ Late 2000s recession: The Bank of England reduces the base rate of interest to a new historic low of 1%. ](/news/2009/02/5/late-2000s-recession-p-the-bank-of-england-reduces-the-base-rate-of-interest-to-a-new-historic-low-of-1.md)
 _Context: Bank of England, base rate, interest, late 2000s recession_

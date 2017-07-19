@@ -19,7 +19,7 @@ _Context: China, Croatia, Table Tennis, Zagreb_
 A Hamas rocket attack from Gaza killed a man in Israel on Sunday and Prime Minister Ehud Olmert pledged unlimited military action against the militant group, saying &quot;no one involved in terror&quot; would be immune.
 
 ### [ President Viktor Yushchenko and Prime Minister Viktor Yanukovych of Ukraine agree to a compromise, with early parliamentary elections to be held on September 30. ](/news/2007/05/27/president-viktor-yushchenko-and-prime-minister-viktor-yanukovych-of-ukraine-agree-to-a-compromise-with-early-parliamentary-elections-to-be.md)
-_Context: Prime Minister of Ukraine, September 30, Ukrainian, Ukrainian President, Viktor Yanukovych, Viktor Yushchenko_
+_Context: Prime Minister of Ukraine, September 30, Ukraine, Ukrainian President, Viktor Yanukovych, Viktor Yushchenko_
 
 ### [ Spanish voters go to the polls in local and regional elections. ](/news/2007/05/27/spanish-voters-go-to-the-polls-in-local-and-regional-elections.md)
 _Context: Spain, local and regional elections_

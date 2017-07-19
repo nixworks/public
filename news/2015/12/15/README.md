@@ -13,7 +13,7 @@ Brutal weekend attacks on three villages by Boko Haram Islamists in the restive 
 The French air force used its first cruise missiles against Islamic State group targets in Iraq on Tuesday, the defence ministry said.
 
 ### [Typhoon Melor (Nona) causes widespread flooding and blackouts in the Philippines. More than 700,000 people had been evacuated ahead of the storm which hit late on Monday night. ](/news/2015/12/15/typhoon-melor-nona-causes-widespread-flooding-and-blackouts-in-the-philippines-more-than-700-000-people-had-been-evacuated-ahead-of-the-s.md)
-_Context: 2015 Pacific typhoon season, Philippines_
+_Context: 2015 Pacific typhoon season, Philippine_
 
 ### [The United States Food and Drug Administration approves the Merck & Co. drug, Bridion, that reverses the effects of muscle relaxants used during surgery. ](/news/2015/12/15/the-united-states-food-and-drug-administration-approves-the-merck-co-drug-bridion-that-reverses-the-effects-of-muscle-relaxants-used-du.md)
 _Context: Bridion, Merck & Co., U.S., U.S. Food and Drug Administration, muscle relaxant_

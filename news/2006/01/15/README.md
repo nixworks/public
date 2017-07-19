@@ -4,7 +4,7 @@
 _Context: Kenya, Mwai Kibaki, ongoing drought_
 
 ### [ Russia and Ukraine are set to enter more diplomatic troubled waters over the alleged occupation of a lighthouse in the Black Sea. ](/news/2006/01/15/russia-and-ukraine-are-set-to-enter-more-diplomatic-troubled-waters-over-the-alleged-occupation-of-a-lighthouse-in-the-black-sea.md)
-_Context: Black Sea, Ukrainian, lighthouses_
+_Context: Black Sea, Ukraine, lighthouses_
 
 ### [ Kim Jong-il, the leader of North Korea, is alleged to have made a journey to China as part of a fact-finding mission in the region. ](/news/2006/01/15/kim-jong-il-the-leader-of-north-korea-is-alleged-to-have-made-a-journey-to-china-as-part-of-a-fact-finding-mission-in-the-region.md)
 _Context: Kim Jong-il, North Korea_

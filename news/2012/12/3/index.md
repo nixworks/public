@@ -40,7 +40,7 @@ _Context: Mykola Azarov, Prime Minister of Ukraine, elections, en masse, governm
 NASA&#039;s Mars rover Curiosity has found some complex chemistry on Mars, but not proof of organic compounds that could aid primitive life, NASA announced today (Dec. 3).
 
 ### [The Sea Launch consortium successfully launches its Zenit-3SL carrier rocket with the Eutelsat 70B satellite from the Odyssey Launch Platform in the Pacific Ocean. ](/news/2012/12/3/the-sea-launch-consortium-successfully-launches-its-zenit-3sl-carrier-rocket-with-the-eutelsat-70b-satellite-from-the-odyssey-launch-platfor.md)
-_Context: Eutelsat 70B, Odyssey Launch Platform, Pacific, Sea Launch, Zenit-3SL, carrier rocket, released an object into orbit, successfully_
+_Context: Eutelsat 70B, North Pacific Ocean, Odyssey Launch Platform, Sea Launch, Zenit-3SL, carrier rocket, released an object into orbit, successfully_
 
 ### [NASA announces that the Voyager 1 spacecraft, launched in 1977, has nearly reached the edge of the solar system and is imminently to past through the heliosphere into interstellar space. ](/news/2012/12/3/nasa-announces-that-the-voyager-1-spacecraft-launched-in-1977-has-nearly-reached-the-edge-of-the-solar-system-and-is-imminently-to-past-th.md)
 NASA&#039;s Voyager 1 spacecraft has entered a new region at the far reaches of our solar system that scientists feel is the final area the spacecraft has to cross before reaching interstellar space.

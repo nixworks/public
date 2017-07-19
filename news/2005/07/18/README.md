@@ -31,7 +31,7 @@ _Context: Aceh, European Union_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In Ukraine, president Viktor Yushchenko wants to abolish traffic police because it is too corrupted ](/news/2005/07/18/in-ukraine-president-viktor-yushchenko-wants-to-abolish-traffic-police-because-it-is-too-corrupted.md)
-_Context: Ukrainian, Viktor Yushchenko_
+_Context: Ukraine, Viktor Yushchenko_
 
 ### [ General William Westmoreland, once the commander of U.S. forces in Vietnam, dies peacefully in a retirement home in South Carolina. ](/news/2005/07/18/general-william-westmoreland-once-the-commander-of-u-s-forces-in-vietnam-dies-peacefully-in-a-retirement-home-in-south-carolina.md)
 _Context: South Carolina, Vietnam, William Westmoreland_

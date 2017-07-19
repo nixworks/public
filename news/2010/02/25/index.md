@@ -25,7 +25,7 @@ Minister for Foreign Affairs Miche&aacute;l Martin today pleaded with Israel to 
 _Context: 2010 Haiti earthquake, Brazil, Brazilian President, Haiti, Lula, President of Haiti, Rene Preval_
 
 ### [Viktor Yanukovych is sworn in as the as 4th President of Ukraine. ](/news/2010/02/25/viktor-yanukovych-is-sworn-in-as-the-as-4th-president-of-ukraine.md)
-_Context: Ukrainian, Ukrainian President, Viktor Yanukovych_
+_Context: Ukraine, Ukrainian President, Viktor Yanukovych_
 
 ### [A fire at the Garib & Garib Sweater Factory clothes factory in Gazipur, Bangladesh kills at least 18 people and injures more than 50 others. ](/news/2010/02/25/a-fire-at-the-garib-garib-sweater-factory-clothes-factory-in-gazipur-bangladesh-kills-at-least-18-people-and-injures-more-than-50-others.md)
 _Context: Bangladesh, Gazipur_
