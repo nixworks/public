@@ -1,4 +1,15 @@
-## [News](/news/2017/07/18/index.md)
+## [News](/news/2017/07/19/index.md)
+
+### [Australian Prime Minister Malcolm Turnbull expresses shock and demands answers after an Australian woman was gunned down on Saturday (US CT) by an American police officer in Minneapolis, Minnesota. ](/news/2017/07/19/australian-prime-minister-malcolm-turnbull-expresses-shock-and-demands-answers-after-an-australian-woman-was-gunned-down-on-saturday-us-ct.md)
+Malcolm Turnbull condemns the police shooting of unarmed Australian Justine Damond in a Minneapolis alleyway as a shocking killing, adding the Government is demanding answers on behalf of her family.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/07/18/index.md)
 
 ### [A 7.7 magnitude earthquake strikes off Russia's Kamchatka Peninsula,  west of the  Alaskan Aleutian Island of Attu, in the North Pacific Ocean. No immediate reports of  casualties or damage; a tsunami warning was cancelled. ](/news/2017/07/18/a-7-7-magnitude-earthquake-strikes-off-russia-s-kamchatka-peninsula-west-of-the-alaskan-aleutian-island-of-attu-in-the-north-pacific-oce.md)
  ANCHORAGE, Alaska (AP) — A strong earthquake on the Russian side of the Bering Sea briefly prompted a tsunami advisory for parts of the Pacific, including Alaska&#39;s remote Aleutian
@@ -18,13 +29,9 @@ _Context: Bermuda, Bermudian general election, 2017, House of Assembly, Premier_
 ### [Philippine President Rodrigo Duterte seeks to extend his martial law proclamation in Marawi until the beginning of 2018. ](/news/2017/07/18/philippine-president-rodrigo-duterte-seeks-to-extend-his-martial-law-proclamation-in-marawi-until-the-beginning-of-2018.md)
 To quell the rebellion in the Philippine city, President Rodrigo Duterte asked lawmakers to allow martial law on the island of Mindanao through the end of the year.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/07/17/index.md)
+## [Day Before Yesterday](/news/2017/07/17/index.md)
 
 ### [A new set of kidnappings and a jail break plague Sulu province in the southern region of Mindanao in the Philippines. ](/news/2017/07/17/a-new-set-of-kidnappings-and-a-jail-break-plague-sulu-province-in-the-southern-region-of-mindanao-in-the-philippines.md)
 Suspected Abu Sayyaf gunmen abducted four workers in a school in a southern Philippine province where President Rodrigo Duterte visited troops waging an of
@@ -52,26 +59,7 @@ The U.S. has certified with Congress that Iran is legally in compliance on the n
 
 ---
 
-## [Day Before Yesterday](/news/2017/07/16/index.md)
-
-### [An early morning fire in the Chinese city of Changshu in Jiangsu province kills 22 people and injures three. ](/news/2017/07/16/an-early-morning-fire-in-the-chinese-city-of-changshu-in-jiangsu-province-kills-22-people-and-injures-three.md)
-The fire broke out in a house in Changshu city in Jiangsu province.
-
-### [A flash flood near Payson, Arizona, leaves at least nine people dead and one person missing, according to the Gila County Sheriff's Office. ](/news/2017/07/16/a-flash-flood-near-payson-arizona-leaves-at-least-nine-people-dead-and-one-person-missing-according-to-the-gila-county-sheriff-s-office.md)
-At least seven people die and three more are missing after a swimming hole is struck near Payson.
-
-### [A stalemate between China and India leads to fears that the ongoing stand-off over Doklam in the Himalayas, disputed by Bhutan, may continue into the winter. It comes after rumors that Indian National Security Adviser Ajit Doval may travel to Beijing later this month. ''[http://economictimes.indiatimes.com/news/defence/beijing-wont-have-formal-talks-with-india-stand-off-may-continue-till-winter-chinese-expert/articleshow/59615025.cms (Economic Times)]''](/news/2017/07/16/a-stalemate-between-china-and-india-leads-to-fears-that-the-ongoing-stand-off-over-doklam-in-the-himalayas-disputed-by-bhutan-may-continue.md)
-_Context: 2017 Doklam crisis, Ajit Doval, Beijing, Bhutan, China, Doklam, Himalayas, India_
-
-### [Voters in the Republic of the Congo participate in the first round of an election of National Assembly members. ](/news/2017/07/16/voters-in-the-republic-of-the-congo-participate-in-the-first-round-of-an-election-of-national-assembly-members.md)
-The A.U. team is headed by former Mali Prime Minister, Django Sissoko, he leads a team of 40 observers.
-
-### [  Thousands of Poles have held rallies in the capital Warsaw and other cities to condemn a controversial reform of the judiciary. Protestors claim the bill, passed by the Senate on Saturday, will erode judges' independence and undermine democracy.](/news/2017/07/16/thousands-of-poles-have-held-rallies-in-the-capital-warsaw-and-other-cities-to-condemn-a-controversial-reform-of-the-judiciary-protestors.md)
-The bill gives politicians the power to appoint judges without consulting judicial circles.
-
----
-
-## [Previous Day...](/news/2017/07/15/index.md)
+## [Previous Day...](/news/2017/07/16/index.md)
 
 ---
 
