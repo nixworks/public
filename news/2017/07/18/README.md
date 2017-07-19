@@ -18,5 +18,8 @@ _Context: Bermuda, Bermudian general election, 2017, House of Assembly, Premier_
 ### [President of the Philippines Rodrigo Duterte is planning to seek the approval of the Congress of the Philippines to extend Proclamation No. 216 (martial law on the whole of Mindanao in response to the Marawi crisis) until the end of 2017. According to the 1987 revision of the Constitution, under Section 18 of Article VII, any martial law proclamation should not exceed a period of 60 days (Proclamation No. 216 officially ends on 22 July); and upon the initiative of the President, Congress (voting jointly, by a vote of at least a majority of all its Members in regular or special session) may extend the proclamation for a period to be determined by Congress, if the current situation still persists and public safety requires it. ](/news/2017/07/18/president-of-the-philippines-rodrigo-duterte-is-planning-to-seek-the-approval-of-the-congress-of-the-philippines-to-extend-proclamation-no.md)
 President Rodrigo Duterte plans to extend martial law in the southern Philippines to defeat Islamist militants who have seized a major city, his administration said Tuesday, as critics warned the country could be edging towards a dictatorship. Duterte had imposed military rule for 60 days in the Mindanao
 
+### [A Senate GOP bill to repeal and replace large portions of Obamacare fails to win enough support to pass. ](/news/2017/07/18/a-senate-gop-bill-to-repeal-and-replace-large-portions-of-obamacare-fails-to-win-enough-support-to-pass.md)
+The seven-year Republican quest to repeal the Affordable Care Act seemed to reach a dead end Tuesday, but President Trump vowed to “let Obamacare fail.”
+
 ## [Previous Day...](/news/2017/07/17/index.md)
 

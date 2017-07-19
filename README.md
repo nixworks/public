@@ -6,7 +6,7 @@ A 25,000-acre wildfire in central California, one of three dozen major blazes bu
 ### [Amid a stalemate between India and China over Doklam, disputed between the latter and Bhutan, China renews a call for India to withdraw its troops from Doklam. It follows reports claiming China held live firing drills in the region. ''[http://www.arabnews.com/node/1131641/world (Arab News)]''](/news/2017/07/19/amid-a-stalemate-between-india-and-china-over-doklam-disputed-between-the-latter-and-bhutan-china-renews-a-call-for-india-to-withdraw-its.md)
 _Context: 2017 Doklam crisis, Bhutan, China, Doklam, India_
 
-### [Australian Prime Minister Malcolm Turnbull expresses shock and demands answers after an Australian woman, who called 9-1-1 for help because of a suspected assault near her home, was shot and killed on Saturday by a Somali-American police officer who had responded in Minneapolis, Minnesota. ](/news/2017/07/19/australian-prime-minister-malcolm-turnbull-expresses-shock-and-demands-answers-after-an-australian-woman-who-called-9-1-1-for-help-because.md)
+### [Australian Prime Minister Malcolm Turnbull expresses shock and demands answers after an Australian woman, who called 9-1-1 for help because of a suspected assault near her home, was shot and killed on Saturday by a police officer who had responded in Minneapolis, Minnesota. ](/news/2017/07/19/australian-prime-minister-malcolm-turnbull-expresses-shock-and-demands-answers-after-an-australian-woman-who-called-9-1-1-for-help-because.md)
 Malcolm Turnbull condemns the police shooting of unarmed Australian Justine Damond in a Minneapolis alleyway as a shocking killing, adding the Government is demanding answers on behalf of her family.
 
 ### [Pierre de Villiers resigns as the Chief of the Defence Staff of the French Armed Forces due to disagreements with President Emmanuel Macron over proposed budget cuts. ](/news/2017/07/19/pierre-de-villiers-resigns-as-the-chief-of-the-defence-staff-of-the-french-armed-forces-due-to-disagreements-with-president-emmanuel-macron.md)
@@ -37,6 +37,9 @@ _Context: Bermuda, Bermudian general election, 2017, House of Assembly, Premier_
 
 ### [President of the Philippines Rodrigo Duterte is planning to seek the approval of the Congress of the Philippines to extend Proclamation No. 216 (martial law on the whole of Mindanao in response to the Marawi crisis) until the end of 2017. According to the 1987 revision of the Constitution, under Section 18 of Article VII, any martial law proclamation should not exceed a period of 60 days (Proclamation No. 216 officially ends on 22 July); and upon the initiative of the President, Congress (voting jointly, by a vote of at least a majority of all its Members in regular or special session) may extend the proclamation for a period to be determined by Congress, if the current situation still persists and public safety requires it. ](/news/2017/07/18/president-of-the-philippines-rodrigo-duterte-is-planning-to-seek-the-approval-of-the-congress-of-the-philippines-to-extend-proclamation-no.md)
 President Rodrigo Duterte plans to extend martial law in the southern Philippines to defeat Islamist militants who have seized a major city, his administration said Tuesday, as critics warned the country could be edging towards a dictatorship. Duterte had imposed military rule for 60 days in the Mindanao
+
+### [A Senate GOP bill to repeal and replace large portions of Obamacare fails to win enough support to pass. ](/news/2017/07/18/a-senate-gop-bill-to-repeal-and-replace-large-portions-of-obamacare-fails-to-win-enough-support-to-pass.md)
+The seven-year Republican quest to repeal the Affordable Care Act seemed to reach a dead end Tuesday, but President Trump vowed to “let Obamacare fail.”
 
 ---
 
