@@ -28,7 +28,7 @@ _Context: Cook Islands, Foreign Minister, Jim Marurai, Prime Minister, Wilkie Ra
 The Communist President Vladimir Voronin of Moldova has said that he is ready for dialogue &#39;with all political forces represented in the new parliament.&#39;
 
 ### [ Australian Prime Minister Kevin Rudd promises to create 50,000 green jobs and apprenticeships to combat climate change and unemployment simultaneously. ](/news/2009/07/30/australian-prime-minister-kevin-rudd-promises-to-create-50-000-green-jobs-and-apprenticeships-to-combat-climate-change-and-unemployment-sim.md)
-_Context: Australia, Kevin Rudd, Prime Minister of Australia_
+_Context: Australia, Australian Prime Minister, Kevin Rudd_
 
 ### [ U.S. President Barack Obama arranged a meeting with police officer Sgt. James Crowley and African American public intellectual Henry Louis Gates at the White House in a bid to quell a dispute over racial profiling that arose from an altercation between the two of them. ](/news/2009/07/30/u-s-president-barack-obama-arranged-a-meeting-with-police-officer-sgt-james-crowley-and-african-american-public-intellectual-henry-louis.md)
 _Context: African-American, Barack Obama, Henry Louis Gates, President of the United States, U.S., White House, altercation, public intellectual, racial profiling_

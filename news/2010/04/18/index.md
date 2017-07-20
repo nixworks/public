@@ -1,7 +1,7 @@
 ## [2010-04-18](/news/2010/04/18/index.md)
 
 ### [The Dow Live Earth Run for Water started on April 18th. The host cities are: Buenos Aires, Cape Town, Chicago, Hong Kong, Jimbaran, London, Los Angeles, Manchester, Melbourne, Mexico City, Milan, Minneapolis, New York, Lisboa, Rio de Janeiro, Sao Paulo, Singapore City, Stockholm, Toronto and Washington, D.C.. ](/news/2010/04/18/the-dow-live-earth-run-for-water-started-on-april-18th-the-host-cities-are-buenos-aires-cape-town-chicago-hong-kong-jimbaran-london.md)
-_Context: Buenos Aires, Cape Town, Chicago, Hong Kong, Jimbaran, Lisboa, Live Earth, London, Los Angeles, Manchester, Melbourne, Mexico City, Milan, Minneapolis's, New York, Rio de Janeiro, Sao Paulo, Singapore, Stockholm, Toronto, Washington, D.C._
+_Context: Buenos Aires, Cape Town, Chicago, Hong Kong, Jimbaran, Lisboa, Live Earth, London, Los Angeles, Manchester, Melbourne, Mexico City, Milan, Minneapolis, New York, Rio de Janeiro, Sao Paulo, Singapore, Stockholm, Toronto, Washington, D.C._
 
 ### [The Tehran International Conference on Disarmament and Non-Proliferation, 2010 concludes.President of Iran Mahmoud Ahmadinejad says Iran wants "peace, progress and security for all", asks "supporters and creators" of the Israeli-Palestinian conflict to "allow the regional nations and the Palestinians to settle things" themselves and calls on "alien troops" to leave the region. ](/news/2010/04/18/the-tehran-international-conference-on-disarmament-and-non-proliferation-2010-concludes-ppresident-of-iran-mahmoud-ahmadinejad-says-iran-wa.md)
 Ahmadinejad says US troops in the region and Afghanistan are stoking more insecurity.

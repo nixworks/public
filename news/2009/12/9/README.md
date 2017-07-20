@@ -16,7 +16,7 @@ _Context: Brian Lenihan, Jnr, Budget for 2010, Finance Minister, Ireland_
 The Irish Bishops&#39; Conference has issued an apology to all those who were abused by priests.
 
 ### [ 24 people are charged with rebellion after 57 people were killed during the Maguindanao massacre in the southern Philippines last month. ](/news/2009/12/9/24-people-are-charged-with-rebellion-after-57-people-were-killed-during-the-maguindanao-massacre-in-the-southern-philippines-last-month.md)
-_Context: Maguindanao massacre, Philippine_
+_Context: Maguindanao massacre, Philippines_
 
 ### [ A legal challenge to Ireland's abortion laws takes place at the European Court of Human Rights in Strasbourg. ](/news/2009/12/9/a-legal-challenge-to-ireland-s-abortion-laws-takes-place-at-the-european-court-of-human-rights-in-strasbourg.md)
 _Context: European Court of Human Rights, Ireland, Strasbourg, abortion_

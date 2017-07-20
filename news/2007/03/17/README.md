@@ -10,7 +10,7 @@ _Context: Arthur Mutambara, Movement for Democratic Change, South Africa, Zimbab
 The Age 404 Page
 
 ### [ The Prime Minister of Australia John Howard makes a commitment to keep Australian troops in Iraq until Iraq is able to control its own security. ](/news/2007/03/17/the-prime-minister-of-australia-john-howard-makes-a-commitment-to-keep-australian-troops-in-iraq-until-iraq-is-able-to-control-its-own-secu.md)
-_Context: Australia, Iraq, John Howard, Prime Minister of Australia_
+_Context: Australia, Australian Prime Minister, Iraq, John Howard_
 
 ### [ The Palestinian Legislative Council endorses a unity cabinet containing members of Fatah and Hamas. ](/news/2007/03/17/the-palestinian-legislative-council-endorses-a-unity-cabinet-containing-members-of-fatah-and-hamas.md)
 _Context: Fatah, Hamas, Palestinian Legislative Council, forming a government_

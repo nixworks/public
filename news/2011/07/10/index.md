@@ -25,7 +25,7 @@ _Context: Bolgar, Bulgaria, Russia, Volga River_
 More than a dozen prisoners, some believed to be dangerous, are on the run in southwestern Colombia after breaking out of jail in the city of Tumaco.
 
 ### [The Prime Minister of Australia Julia Gillard announces the details of a plan to introduce a carbon tax. ](/news/2011/07/10/the-prime-minister-of-australia-julia-gillard-announces-the-details-of-a-plan-to-introduce-a-carbon-tax.md)
-_Context: Julia Gillard, Prime Minister of Australia, carbon tax_
+_Context: Australian Prime Minister, Julia Gillard, carbon tax_
 
 ### [Pro-Palestinian activists begin a week of protests on the West Bank. ](/news/2011/07/10/pro-palestinian-activists-begin-a-week-of-protests-on-the-west-bank.md)
 Foreign activists to take a stand in support of Palestinian statehood in second phase of the &quot;Welcome to Palestine&quot; campaign.

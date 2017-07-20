@@ -61,7 +61,7 @@ _Context: Pakistan, Red Mosque, imam_
 An official in Indonesia says the death toll from devastating floods and landslides on the country&#039;s eastern Sulawesi island has risen to 107, as aid distribution to survivors gains pace.
 
 ### [ The President of Indonesia Susilo Bambang Yudhoyono meets with the Prime Minister of Australia John Howard to discuss security issues and the possibility of a bilateral free trade agreement. ](/news/2007/07/27/the-president-of-indonesia-susilo-bambang-yudhoyono-meets-with-the-prime-minister-of-australia-john-howard-to-discuss-security-issues-and-t.md)
-_Context: John Howard, President of Indonesia, Prime Minister of Australia, Susilo Bambang Yudhoyono, free trade_
+_Context: Australian Prime Minister, John Howard, President of Indonesia, Susilo Bambang Yudhoyono, free trade_
 
 ### [ The Commonwealth Director of Public Prosecutions drops the charge of supporting a terrorist organization against Mohamed Haneef. [http://www.news.com.au/story/0,23599,22143906-2,00.html (News Limited)] Australian Federal Police admits all their main evidence against Haneef was wrong. ](/news/2007/07/27/the-commonwealth-director-of-public-prosecutions-drops-the-charge-of-supporting-a-terrorist-organization-against-mohamed-haneef-http-ww.md)
 _Context: Commonwealth, Director of Public Prosecutions, Mohamed Haneef, police_

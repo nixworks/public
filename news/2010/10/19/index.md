@@ -34,7 +34,7 @@ French&#x20;protesters&#x20;engaged&#x20;in&#x20;a&#x20;sixth&#x20;day&#x20;of&#
 The Southern California megachurch founded by televangelist Robert Schuller filed for bankruptcy court protection, saying a number of creditors had opted not to prolong a moratorium on debt payments.
 
 ### [The death toll from Typhoon Megi in the Philippines rises to three as heavy rain falls on the island of Luzon for a second consecutive day. ](/news/2010/10/19/the-death-toll-from-typhoon-megi-in-the-philippines-rises-to-three-as-heavy-rain-falls-on-the-island-of-luzon-for-a-second-consecutive-day.md)
-_Context: Luzon, Philippine, Typhoon Megi_
+_Context: Luzon, Philippines, Typhoon Megi_
 
 ### [A British court finds Saudi Prince Abdulaziz bin Nasser al Saud guilty of murdering his servant in a hotel. ](/news/2010/10/19/a-british-court-finds-saudi-prince-abdulaziz-bin-nasser-al-saud-guilty-of-murdering-his-servant-in-a-hotel.md)
 UK court finds Prince Saud Abdulaziz bin Nasser al Saud guilty of murdering servant in London hotel.

@@ -13,7 +13,7 @@ Two car bombs have exploded outside a hotel in the Somali capital Mogadishu, wit
 Latvia begins the new year by joining the eurozone, becoming the 18th member of the group of EU states which uses the euro as its currency.
 
 ### [A three-story building, housing apartments and a grocery store, explodes and burns in the Cedar-Riverside neighborhood of Minneapolis, Minnesota, injuring 13 people, some critically. ](/news/2014/01/1/a-three-story-building-housing-apartments-and-a-grocery-store-explodes-and-burns-in-the-cedar-riverside-neighborhood-of-minneapolis-minne.md)
-_Context: Cedar-Riverside, Minneapolis's, Minnesota_
+_Context: Cedar-Riverside, Minneapolis, Minnesota_
 
 ### [Indonesia's Sinabung volcano erupts, displacing more than 19,000 people. ](/news/2014/01/1/indonesia-s-sinabung-volcano-erupts-displacing-more-than-19-000-people.md)
 An erupting volcano displaces almost 20,000 people in Indonesia as it shoots lava into the air.

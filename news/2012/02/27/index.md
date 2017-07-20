@@ -49,7 +49,7 @@ Singer Charlotte Church says she is &quot;sickened&quot; by what she discovered 
 One student was killed and four were injured in a shooting Monday morning&nbsp;at a high school in suburban Chardon, Ohio, authorities have reported. A suspect was taken into custody, but his name...
 
 ### [The Prime Minister of Australia Julia Gillard wins a leadership ballot in the Australian Labor Party, defeating former Prime Minister Kevin Rudd. ](/news/2012/02/27/the-prime-minister-of-australia-julia-gillard-wins-a-leadership-ballot-in-the-australian-labor-party-defeating-former-prime-minister-kevin.md)
-_Context: Julia Gillard, Kevin Rudd, Labor Party, Prime Minister of Australia, leadership ballot_
+_Context: Australian Prime Minister, Julia Gillard, Kevin Rudd, Labor Party, leadership ballot_
 
 ### [Former Ukrainian interior minister Yuriy Lutsenko is sentenced to fours year in jail for embezzlement and abuse of office. ](/news/2012/02/27/former-ukrainian-interior-minister-yuriy-lutsenko-is-sentenced-to-fours-year-in-jail-for-embezzlement-and-abuse-of-office.md)
 _Context: Ukraine's Minister of the Interior, Yuriy Lutsenko, abuse of office, embezzlement_

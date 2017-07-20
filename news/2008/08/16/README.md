@@ -7,7 +7,7 @@ Rebels from the breakaway region of Abkhazia, backed by Russian forces, have sei
 _Context: 2008 Atlantic hurricane season, Charlie Crist, Florida, Governor of Florida, Tropical Storm Fay, hurricane, state of emergency_
 
 ### [ A bomb explodes outside the house of Mayor Lito Pinol in the city of Mlang, Philippines, but fails to assassinate the Mayor. Police successfully defuse a bomb placed in the market of Kidapawan City. ](/news/2008/08/16/a-bomb-explodes-outside-the-house-of-mayor-lito-pinol-in-the-city-of-mlang-philippines-but-fails-to-assassinate-the-mayor-police-success.md)
-_Context: Kidapawan City, Mlang, Philippine_
+_Context: Kidapawan City, Mlang, Philippines_
 
 ### [ At least eight people die and 60 are injured after a passenger train collides with a goods train in Indonesia's Lampung province. ](/news/2008/08/16/at-least-eight-people-die-and-60-are-injured-after-a-passenger-train-collides-with-a-goods-train-in-indonesia-s-lampung-province.md)
 _Context: Indonesia, Lampung, goods train, passenger train_

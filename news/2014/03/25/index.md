@@ -4,7 +4,7 @@
 _Context: Girl Scout, Oklahoma City, cookies_
 
 ### [Australian Prime Minister Tony Abbott restores Knights and Dames to the Australian Honours System through the Order of Australia. ](/news/2014/03/25/australian-prime-minister-tony-abbott-restores-knights-and-dames-to-the-australian-honours-system-through-the-order-of-australia.md)
-_Context: Australian Honours System, Dames, Order of Australia, Prime Minister of Australia, Tony Abbott, knights and dames_
+_Context: Australian Honours System, Australian Prime Minister, Dames, Order of Australia, Tony Abbott, knights and dames_
 
 ### [The U.S. District Court in Manhattan finds that the trustee of MF Global may proceed with a lawsuit against former executives thereof, including former CEO Jon Corzine. ](/news/2014/03/25/the-u-s-district-court-in-manhattan-finds-that-the-trustee-of-mf-global-may-proceed-with-a-lawsuit-against-former-executives-thereof-inclu.md)
 _Context: Jon Corzine, MF Global, Manhattan_

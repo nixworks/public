@@ -22,7 +22,7 @@ A train speeding through a Spanish railway station strikes a group of people cro
 Plessner: The Turks are opening another front against us.
 
 ### [Prime Minister of Australia Kevin Rudd steps down after his leadership is contested following considerable drops in popularity in polls in recent months. Julia Gillard becomes Australia's first female Prime Minister. ](/news/2010/06/24/prime-minister-of-australia-kevin-rudd-steps-down-after-his-leadership-is-contested-following-considerable-drops-in-popularity-in-polls-in-r.md)
-_Context: Julia Gillard, Kevin Rudd, Prime Minister of Australia, leadership is contested_
+_Context: Australian Prime Minister, Julia Gillard, Kevin Rudd, leadership is contested_
 
 ### [Several people are killed during suicide attacks and bombings across Iraq. ](/news/2010/06/24/several-people-are-killed-during-suicide-attacks-and-bombings-across-iraq.md)
 Suicide attacks and bombings across country leave several security personnel dead.

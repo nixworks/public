@@ -76,7 +76,7 @@ _Context: Canadian, Ottawa, Prime Minister, Stephen Harper, firebomb_
 _Context: African National Congress, Democratic Alliance, Independent Democrats, South Africa_
 
 ### [Prime Minister of Australia Julia Gillard defends her controversial plan to establish a citizens assembly of 150 randomly-selected Australians who would consider climate change. ](/news/2010/08/15/prime-minister-of-australia-julia-gillard-defends-her-controversial-plan-to-establish-a-citizens-assembly-of-150-randomly-selected-australia.md)
-_Context: Julia Gillard, Prime Minister of Australia, climate change_
+_Context: Australian Prime Minister, Julia Gillard, climate change_
 
 ### [The entire cabinet of Japanese Prime Minister Naoto Kan avoids visiting Yasukuni Shrine on the anniversary of Japan's surrender in World War II. ](/news/2010/08/15/the-entire-cabinet-of-japanese-prime-minister-naoto-kan-avoids-visiting-yasukuni-shrine-on-the-anniversary-of-japan-s-surrender-in-world-war.md)
 _Context: Japan, Japan's surrender in World War II, Naoto Kan, Prime Minister, Tokyo, Yasukuni Shrine_

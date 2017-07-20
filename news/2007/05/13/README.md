@@ -19,7 +19,7 @@ _Context: Dadullah, NATO, Taliban_
 _Context: Mahmoud Ahmadinejad, President, United Arab Emirates_
 
 ### [ Prime Minister of Australia John Howard writes to Cricket Australia telling it to call off a tour of Zimbabwe due to concern over human rights abuses in that country. ](/news/2007/05/13/prime-minister-of-australia-john-howard-writes-to-cricket-australia-telling-it-to-call-off-a-tour-of-zimbabwe-due-to-concern-over-human-rig.md)
-_Context: Cricket Australia, John Howard, Prime Minister of Australia, Zimbabwe, human rights abuses in that country_
+_Context: Australian Prime Minister, Cricket Australia, John Howard, Zimbabwe, human rights abuses in that country_
 
 ## [Previous Day...](/news/2007/05/12/index.md)
 

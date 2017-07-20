@@ -1,7 +1,7 @@
 ## [2007-10-11](/news/2007/10/11/index.md)
 
 ### [ The Prime Minister of Australia John Howard proposes a constitutional referendum recognising indigenous Australians in the Australian constitution, if he is reelected. ](/news/2007/10/11/the-prime-minister-of-australia-john-howard-proposes-a-constitutional-referendum-recognising-indigenous-australians-in-the-australian-const.md)
-_Context: Constitution, Indigenous, John Howard, Prime Minister of Australia, referendum_
+_Context: Australian Prime Minister, Constitution, Indigenous, John Howard, referendum_
 
 ### [ Mychal Bell of the Jena 6 is ordered to spend 18 months in a juvenile facility for violating probation for previous convictions. ](/news/2007/10/11/mychal-bell-of-the-jena-6-is-ordered-to-spend-18-months-in-a-juvenile-facility-for-violating-probation-for-previous-convictions.md)
 _Context: Jena 6, Mychal Bell, probation_

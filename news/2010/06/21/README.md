@@ -34,7 +34,7 @@ _Context: Australia, CASA C-212 Aviocar, Ken Talbot, Republic of the Congo, jung
 Read the latest World and International news headlines from Sky News Australia. For coverage of breaking news from around the World visit skynews.com.au.
 
 ### [Chinese Vice-President Xi Jinping meets with Australian Prime Minister Kevin Rudd on an official trip to Canberra. The two countries sign agreements valued at over A$10 billion. ](/news/2010/06/21/chinese-vice-president-xi-jinping-meets-with-australian-prime-minister-kevin-rudd-on-an-official-trip-to-canberra-the-two-countries-sign-ag.md)
-_Context: A$, Australia, Canberra, Kevin Rudd, Prime Minister of Australia, Xi Jinping_
+_Context: A$, Australia, Australian Prime Minister, Canberra, Kevin Rudd, Xi Jinping_
 
 ### [8 people die and 10 people are wounded in a suicide attack in the northern city of Shirqat of Iraq. ](/news/2010/06/21/8-people-die-and-10-people-are-wounded-in-a-suicide-attack-in-the-northern-city-of-shirqat-of-iraq.md)
 _Context: Iraq, Shirqat_

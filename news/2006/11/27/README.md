@@ -19,7 +19,7 @@ _Context: 2008, 2013, Cliff Richard, His Majesty's Government, The Beatles, copy
 _Context: Islamic Revolutionary Guards Corps, Tehran_
 
 ### [ Australian Attorney-General Philip Ruddock tables the multi-volume Cole Inquiry report. It finds that the Prime Minister of Australia John Howard, his ministers or Australian government departments were not aware of AWB Limited paying kickbacks to the regime of Saddam Hussein to buy Australian wheat under the Oil for Food program. ](/news/2006/11/27/australian-attorney-general-philip-ruddock-tables-the-multi-volume-cole-inquiry-report-it-finds-that-the-prime-minister-of-australia-john.md)
-_Context: AWB Limited, Cole Inquiry, John Howard, Philip Ruddock, Prime Minister of Australia, Saddam Hussein, attorney general, oil-for-food_
+_Context: AWB Limited, Australian Prime Minister, Cole Inquiry, John Howard, Philip Ruddock, Saddam Hussein, attorney general, oil-for-food_
 
 ### [ John Key is elected leader of the opposition New Zealand National Party, with Bill English as his deputy. Both were unopposed. ](/news/2006/11/27/john-key-is-elected-leader-of-the-opposition-new-zealand-national-party-with-bill-english-as-his-deputy-both-were-unopposed.md)
 _Context: Bill English, John Key, New Zealand National Party_

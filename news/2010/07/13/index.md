@@ -115,7 +115,7 @@ _Context: Barack Obama, Jacob Lew, Office of Management and Budget, Peter Orszag
 _Context: United States Senate, financial reform_
 
 ### [The Philippines' first typhoon of the year moves toward the country's eastern coast, with 33 of the country's 81 provinces and the capital Manila being placed under storm alert. ](/news/2010/07/13/the-philippines-first-typhoon-of-the-year-moves-toward-the-country-s-eastern-coast-with-33-of-the-country-s-81-provinces-and-the-capital-m.md)
-_Context: Manila, Philippine_
+_Context: Manila, Philippines_
 
 ### [The company behind the Green Dam Youth Escort internet filtering software in China has closed its operation, due to lack of funding. ](/news/2010/07/13/the-company-behind-the-green-dam-youth-escort-internet-filtering-software-in-china-has-closed-its-operation-due-to-lack-of-funding.md)
 _Context: Green Dam Youth Escort_

@@ -22,7 +22,7 @@ _Context: Ivan Velazquez Caballero, Los Zetas, San Luis Potosi_
 _Context: Northwestern University, Wilmette_
 
 ### [A mass shooting takes place at Accent Signage Systems, a sign company in Minneapolis, Minnesota, United States; five people are killed, including the gunman who committed suicide, and four others are wounded. ](/news/2012/09/27/a-mass-shooting-takes-place-at-accent-signage-systems-a-sign-company-in-minneapolis-minnesota-united-states-five-people-are-killed-incl.md)
-_Context: Minneapolis's, Minnesota, mass shooting_
+_Context: Minneapolis, Minnesota, mass shooting_
 
 ### [The Parliament of Catalonia votes in favor of a resolution to hold a referendum on self-determination. ](/news/2012/09/27/the-parliament-of-catalonia-votes-in-favor-of-a-resolution-to-hold-a-referendum-on-self-determination.md)
 _Context: Parliament of Catalonia, self-determination_

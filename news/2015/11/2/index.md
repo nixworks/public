@@ -10,7 +10,7 @@ _Context: Lower Shebelle, Somalia army soldiers, Wanlaweyn, War in Somalia (2009
 _Context: Netanya, Palestinian terrorist, Rishon Letzion_
 
 ### [New Australian Prime Minister Malcolm Turnbull announces knights and dames will no longer be part of the nation's honors system.  He said Queen Elizabeth signed off on the decision. ](/news/2015/11/2/new-australian-prime-minister-malcolm-turnbull-announces-knights-and-dames-will-no-longer-be-part-of-the-nationas-honors-system-he-said.md)
-_Context: Elizabeth II, Malcolm Turnbull, Prime Minister of Australia, knights and dames_
+_Context: Australian Prime Minister, Elizabeth II, Malcolm Turnbull, knights and dames_
 
 ### [In the United States, the hacking group Anonymous starts releasing names and information about alleged members of the Ku Klux Klan (KKK), a white-supremacist terrorist group originally founded after the Civil War by former Confederate soldiers. Prominent individuals listed deny the allegations. The group says they also infiltrated  KKK-affiliated websites, and warned of more action  culminating on November 24, the anniversary of the Ferguson, Missouri grand jury's decision not to indict. ](/news/2015/11/2/in-the-united-states-the-hacking-group-anonymous-starts-releasing-names-and-information-about-alleged-members-of-the-ku-klux-klan-kkk-a.md)
 The hacking group revealed emails and phone numbers for alleged members.

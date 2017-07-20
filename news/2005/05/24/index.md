@@ -13,7 +13,7 @@ _Context: Israel, Palestinian, West Bank, pipe bomb_
 _Context: Abu Musab al-Zarqawi, Iraq, al-Qaeda_
 
 ### [ John Howard, the Prime Minister of Australia, has written to his Japanese counterpart, Junichiro Koizumi, urging Japan to reconsider its position on whaling. The International Whaling Commission is expected to consider Japan's expansion proposal when it meets next month. ](/news/2005/05/24/john-howard-the-prime-minister-of-australia-has-written-to-his-japanese-counterpart-junichiro-koizumi-urging-japan-to-reconsider-its-po.md)
-_Context: International Whaling Commission , Japan, John Howard, Junichiro Koizumi, Prime Minister of Australia, hunt_
+_Context: Australian Prime Minister, International Whaling Commission , Japan, John Howard, Junichiro Koizumi, hunt_
 
 ### [ The Chilean army buries 24 of 46 conscripts that died in a snow storm in the Andes. Presidential candidates have called for an end to compulsory military service. 13 bodies still unfound.](/news/2005/05/24/the-chilean-army-buries-24-of-46-conscripts-that-died-in-a-snow-storm-in-the-andes-presidential-candidates-have-called-for-an-end-to-compu.md)
 _Context: Andes, Chile, military service_

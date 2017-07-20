@@ -10,7 +10,7 @@ Singer, comedian and actor Max Bygraves has died in Australia at the age of 89.
 _Context: Los Angeles County Coroner's Office, Sage Stallone_
 
 ### [A 7.6-magnitude earthquake in the Philippine province of Eastern Samar kills at least one person. ](/news/2012/08/31/a-7-6-magnitude-earthquake-in-the-philippine-province-of-eastern-samar-kills-at-least-one-person.md)
-_Context: Eastern Samar, Philippine, earthquake, magnitude_
+_Context: Eastern Samar, Philippines, earthquake, magnitude_
 
 ### [Armenia suspends diplomatic relations with Hungary after Ramil Safarov's extradition to Azerbaijan. ](/news/2012/08/31/armenia-suspends-diplomatic-relations-with-hungary-after-ramil-safarov-s-extradition-to-azerbaijan.md)
 Armenia is severing diplomatic ties with Hungary after the release of an Azeri army officer convicted of murdering an Armenian soldier to Baku.

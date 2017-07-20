@@ -13,7 +13,7 @@ _Context: Kazakhstan, Nursultan Nazarbayev's, exit poll, presidential election_
 _Context: Conflict in Iraq, Imam Ali Mosque, Iraq, Iyad Allawi, Muslim, Najaf, RUC, Shi'ite, UK, assassinated, mob_
 
 ### [ Former Prime Minister of Australia Malcolm Fraser calls for a worldwide ban on capital punishment. ](/news/2005/12/4/former-prime-minister-of-australia-malcolm-fraser-calls-for-a-worldwide-ban-on-capital-punishment.md)
-_Context: Malcolm Fraser, Prime Minister of Australia, capital punishment_
+_Context: Australian Prime Minister, Malcolm Fraser, capital punishment_
 
 ### [ The people of Venezuela vote in Parliamentary Elections. ](/news/2005/12/4/the-people-of-venezuela-vote-in-parliamentary-elections.md)
 _Context: parliamentary elections_

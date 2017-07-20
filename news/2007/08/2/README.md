@@ -4,7 +4,7 @@
 Third World countries given one more day to address members of how global warming may affect them.
 
 ### [ Mary Peters, the United States Secretary of Transportation, orders an immediate inspection of all truss bridges in the United States following the collapse of the I-35W Mississippi River bridge in Minneapolis. ](/news/2007/08/2/mary-peters-the-united-states-secretary-of-transportation-orders-an-immediate-inspection-of-all-truss-bridges-in-the-united-states-follow.md)
-_Context: I-35W Mississippi River bridge, Mary Peters, Minneapolis's, Secretary of Transportation, U.S., truss bridge_
+_Context: I-35W Mississippi River bridge, Mary Peters, Minneapolis, Secretary of Transportation, U.S., truss bridge_
 
 ### [ Kafeel Ahmed, who was one of the instigators of the 2007 Glasgow International Airport attack, dies in the Glasgow Royal Infirmary of the injuries he sustained in the attack. ](/news/2007/08/2/kafeel-ahmed-who-was-one-of-the-instigators-of-the-2007-glasgow-international-airport-attack-dies-in-the-glasgow-royal-infirmary-of-the-i.md)
 _Context: 2007 attack, Glasgow Royal Infirmary, Kafeel Ahmed_

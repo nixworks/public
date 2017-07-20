@@ -64,7 +64,7 @@ Interval Licensing is suing a cluster of defendants, including AOL, eBay, Facebo
 Myanmars defence minister and other top generals resigned their junta and military posts Friday to contest the upcoming polls as civilians, officials...
 
 ### [Legal advice clears Governor-General of Australia Mrs. Quentin Bryce to make a decision on who will be the next Prime Minister of Australia despite family ties to Australian Labor Party powerbroker Bill Shorten. ](/news/2010/08/27/legal-advice-clears-governor-general-of-australia-mrs-quentin-bryce-to-make-a-decision-on-who-will-be-the-next-prime-minister-of-australia.md)
-_Context: Australia, Bill Shorten, Governor General of Australia, Labor Party, Prime Minister of Australia, Quentin Bryce_
+_Context: Australia, Australian Prime Minister, Bill Shorten, Governor General of Australia, Labor Party, Quentin Bryce_
 
 ### [A team of scientists, led by Neil Hall from the University of Liverpool, releases draft sequences of the wheat genome. ](/news/2010/08/27/a-team-of-scientists-led-by-neil-hall-from-the-university-of-liverpool-releases-draft-sequences-of-the-wheat-genome.md)
 _Context: University of Liverpool, genome, wheat_

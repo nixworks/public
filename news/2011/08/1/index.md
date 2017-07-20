@@ -34,7 +34,7 @@ _Context: North Korea, North Korea and weapons of mass destruction, U.S., six-pa
 _Context: Japanese, Liancourt Rocks, Liberal Democratic Party, South Korea, sovereignty_
 
 ### [Kevin Rudd, the Minister for Foreign Affairs and former Prime Minister of Australia, goes into hospital to have the aortic valve in his heart replaced. ](/news/2011/08/1/kevin-rudd-the-minister-for-foreign-affairs-and-former-prime-minister-of-australia-goes-into-hospital-to-have-the-aortic-valve-in-his-hear.md)
-_Context: Australian Foreign Minister, Kevin Rudd, Prime Minister of Australia, aortic valve_
+_Context: Australian Foreign Minister, Australian Prime Minister, Kevin Rudd, aortic valve_
 
 ### [The United States House of Representatives passes legislation to raise the debt ceiling and avert the  2011 U.S. debt ceiling crisis. ](/news/2011/08/1/the-united-states-house-of-representatives-passes-legislation-to-raise-the-debt-ceiling-and-avert-the-2011-u-s-debt-ceiling-crisis.md)
 The US House of Representatives has approved legislation to avert a disastrous debt default and cut trillions in government spending, setting the stage for the measure to face a Senate vote.

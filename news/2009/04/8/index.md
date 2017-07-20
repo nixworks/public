@@ -25,7 +25,7 @@ _Context: ''Maersk Alabama'', Denmark, Indian Ocean, MV, Somali pirates, Somalia
 _Context: Chad, French Foreign Legion, rogue_
 
 ### [ The Organisation for Economic Co-operation and Development removes Costa Rica, Malaysia, and the Philippines from its blacklist of non-cooperative tax havens. ](/news/2009/04/8/the-organisation-for-economic-co-operation-and-development-removes-costa-rica-malaysia-and-the-philippines-from-its-blacklist-of-non-coop.md)
-_Context: Costa Rica, Malaysia, Organisation for Economic Co-operation and Development, Philippine, blacklist, tax haven_
+_Context: Costa Rica, Malaysia, Organisation for Economic Co-operation and Development, Philippines, blacklist, tax haven_
 
 ### [ The United Kingdom Independent Police Complaints Commission announces an inquest into Ian Tomlinson's death. ](/news/2009/04/8/the-united-kingdom-independent-police-complaints-commission-announces-an-inquest-into-ian-tomlinson-s-death.md)
 _Context: Independent Police Complaints Commission, UK, death of Ian Tomlinson, inquest_

@@ -13,7 +13,7 @@ _Context: All Nippon Airways, Boeing 787 Dreamliner_
 _Context: Centers for Disease Control and Prevention, Colorado, cantaloupe, listeriosis, outbreak_
 
 ### [Residents and authorities in the Philippines clean up after Typhoon Nesat which killed at least 20 people, most in and near the capital Manila. ](/news/2011/09/28/residents-and-authorities-in-the-philippines-clean-up-after-typhoon-nesat-which-killed-at-least-20-people-most-in-and-near-the-capital-mani.md)
-_Context: Manila, Philippine, Typhoon Nesat_
+_Context: Manila, Philippines, Typhoon Nesat_
 
 ### [A stampede on a docked ferry in Indonesia's East Java province results in eight deaths and dozens more injured. ](/news/2011/09/28/a-stampede-on-a-docked-ferry-in-indonesia-s-east-java-province-results-in-eight-deaths-and-dozens-more-injured.md)
 _Context: East Java, Indonesia, stampede_

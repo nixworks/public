@@ -22,7 +22,7 @@ _Context: Alabama, Australia, Great Barrier Reef, death of his newlywed wife Tin
 _Context: Eric Joyce, Falkirk constituency, House of Commons of the United Kingdom, Labour, MP_
 
 ### [The Prime Minister of Australia Julia Gillard calls for a ballot of a caucus of the Australian Labor Party for Monday as a result of the resignation of Foreign Minister Kevin Rudd. ](/news/2012/02/23/the-prime-minister-of-australia-julia-gillard-calls-for-a-ballot-of-a-caucus-of-the-australian-labor-party-for-monday-as-a-result-of-the-res.md)
-_Context: Foreign Minister of Australia, Julia Gillard, Kevin Rudd, Labor Party, Prime Minister of Australia, ballot, caucus_
+_Context: Australian Prime Minister, Foreign Minister of Australia, Julia Gillard, Kevin Rudd, Labor Party, ballot, caucus_
 
 ### [Tens of thousands rally at Moscow's Luzhniki Stadium in support of the Prime Minister Vladimir Putin's candidacy for President of Russia in the upcoming election on March 4th. ](/news/2012/02/23/tens-of-thousands-rally-at-moscow-s-luzhniki-stadium-in-support-of-the-prime-minister-vladimir-putin-s-candidacy-for-president-of-russia-in.md)
 Thousands of supporters hear Vladimir Putin deliver a strongly patriotic speech at a Moscow stadium as he bids for re-election.

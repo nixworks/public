@@ -13,7 +13,7 @@ _Context: Muhammad, Omar al-Bashir, President of Sudan, Sudan, Unity High School
 _Context: Muttiah Muralitharan, Shane Warne, Sri Lanka, Test, wicket_
 
 ### [ Kevin Rudd is sworn in as the 26th Prime Minister of Australia by Governor-General Maj. Gen. Michael Jeffery. ](/news/2007/12/3/kevin-rudd-is-sworn-in-as-the-26th-prime-minister-of-australia-by-governor-general-maj-gen-michael-jeffery.md)
-_Context: Australia, Governor General of Australia, Kevin Rudd, Michael Jeffery, Prime Minister of Australia_
+_Context: Australia, Australian Prime Minister, Governor General of Australia, Kevin Rudd, Michael Jeffery_
 
 ### [ Australia ratifies the Kyoto Protocol agreement, which former Prime Minister John Howard declined to sign due to claims that it would harm Australia's economy. ](/news/2007/12/3/australia-ratifies-the-kyoto-protocol-agreement-which-former-prime-minister-john-howard-declined-to-sign-due-to-claims-that-it-would-harm.md)
 _Context: John Howard, Kyoto Protocol, economy of Australia_

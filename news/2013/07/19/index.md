@@ -7,7 +7,7 @@ A bomb blast in crowded Sunni mosque in central Iraq has killed at least 20 peop
 _Context: Colombia, FARC_
 
 ### [The Prime Minister of Australia, Kevin Rudd, announces a plan to settle asylum seekers who come by boat in Papua New Guinea. ](/news/2013/07/19/the-prime-minister-of-australia-kevin-rudd-announces-a-plan-to-settle-asylum-seekers-who-come-by-boat-in-papua-new-guinea.md)
-_Context: Kevin Rudd, Papua New Guinea, Prime Minister of Australia, asylum seeker_
+_Context: Australian Prime Minister, Kevin Rudd, Papua New Guinea, asylum seeker_
 
 ### [Pope Francis names a new Pontifical Commission to investigate current accounting practices among all Vatican offices and bodies and to help devise new strategies for greater fiscal responsibility and fiscal transparency. ](/news/2013/07/19/pope-francis-names-a-new-pontifical-commission-to-investigate-current-accounting-practices-among-all-vatican-offices-and-bodies-and-to-help.md)
 _Context: Holy See, Pontifical Commission, Pope Francis, accounting, fiscal responsibility, fiscal transparency_

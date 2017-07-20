@@ -1,7 +1,7 @@
 ## [2009-11-16](/news/2009/11/16/index.md)
 
 ### [ Kevin Rudd, the Prime Minister of Australia, apologises to the "forgotten Australians" raised in orphanages and foster homes during the twentieth century. ](/news/2009/11/16/kevin-rudd-the-prime-minister-of-australia-apologises-to-the-forgotten-australians-raised-in-orphanages-and-foster-homes-during-the-twe.md)
-_Context: Kevin Rudd, Prime Minister of Australia, foster home, orphanage, twentieth century_
+_Context: Australian Prime Minister, Kevin Rudd, foster home, orphanage, twentieth century_
 
 ### [ NASA launches Space Shuttle ''Atlantis'' on STS-129 at 1928 UTC (2:28pm EST), bringing supplies and the first two ExPRESS Logistics Carriers to the International Space Station. ](/news/2009/11/16/nasa-launches-space-shuttle-atlantis-on-sts-129-at-1928-utc-2-28pm-est-bringing-supplies-and-the-first-two-express-logistics-carrier.md)
 NASA&#039;s space shuttle fleet began setting records with its first launch on April 12, 1981 and continued to set high marks of achievement and endurance through 30 years of missions.

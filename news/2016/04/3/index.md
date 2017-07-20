@@ -43,7 +43,7 @@ RIYADH, Saudi Arabia (AP) — India&#039;s Prime Minister Narendra Modi met with
 ATHENS, Greece (AP) — An agreement between the European Union and Turkey to deport migrants currently on Greek islands back to the Turkish mainland is to take effect Monday morning, but the operation is threatened by a…
 
 ### [A Japanese Navy submarine makes a port call in the Philippines, the first in fifteen years, in a show of growing military cooperation amid tension triggered by China's growing assertiveness in the South China Sea. It was escorted into the former U.S. Naval Base at Subic Bay by two Japanese destroyers on a tour of Southeast Asia. ](/news/2016/04/3/a-japanese-navy-submarine-makes-a-port-call-in-the-philippines-the-first-in-fifteen-years-in-a-show-of-growing-military-cooperation-amid-t.md)
-_Context: China, Japan-Philippines relations, Japanese Navy, Philippine, South China Sea, Subic Bay, former U.S. Naval Base_
+_Context: China, Japan-Philippines relations, Japanese Navy, Philippines, South China Sea, Subic Bay, former U.S. Naval Base_
 
 ### [Guillaume Pepy, France's national railway company president, announces armed train marshals, in civilian dress, will be patrolling some passenger trains. ](/news/2016/04/3/guillaume-pepy-france-s-national-railway-company-president-announces-armed-train-marshals-in-civilian-dress-will-be-patrolling-some-pass.md)
 PARIS (AP) — The head of the French national rail service says that train marshals, armed and allowed to use their weapons, will be patrolling some passenger trains, one of a series of new security measures. Guillaume…

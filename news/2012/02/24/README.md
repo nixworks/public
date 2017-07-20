@@ -37,7 +37,7 @@ US ex-student Dharun Ravi goes on trial, facing 15 charges for spying on a homos
 _Context: Garry Conille, Haiti_
 
 ### [Former Prime Minister Kevin Rudd announces that he will contest the leadership of the Australian Labor Party with current PM Julia Gillard on Monday. ](/news/2012/02/24/former-prime-minister-kevin-rudd-announces-that-he-will-contest-the-leadership-of-the-australian-labor-party-with-current-pm-julia-gillard-o.md)
-_Context: Julia Gillard, Kevin Rudd, Labor Party, Prime Minister of Australia_
+_Context: Australian Prime Minister, Julia Gillard, Kevin Rudd, Labor Party_
 
 ### [The Governor of the Mexican state of Nuevo Leon fires the states' public safety secretary General Jaime Castaneda following the Apodaca prison riot where 44 inmates were killed. ](/news/2012/02/24/the-governor-of-the-mexican-state-of-nuevo-lea3n-fires-the-states-public-safety-secretary-general-jaime-castaneda-following-the-apodaca-pri.md)
 _Context: Apodaca prison riot, Governor, Jaime Castaneda, Mexico, Nuevo Leon_

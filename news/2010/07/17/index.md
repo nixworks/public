@@ -43,7 +43,7 @@ British tour operator Goldtrail collapses, leaving thousands of holidaymakers ab
 _Context: Israel, West Bank_
 
 ### [Typhoon Conson makes landfall near Hai Phong, Vietnam, after devastating Southern China and the Philippines with at least 65 dead. ](/news/2010/07/17/typhoon-conson-makes-landfall-near-hai-phong-vietnam-after-devastating-southern-china-and-the-philippines-with-at-least-65-dead.md)
-_Context: Hai Phong, Philippine, Typhoon Conson, Vietnam_
+_Context: Hai Phong, Philippines, Typhoon Conson, Vietnam_
 
 ### [One month after Israel's announcement it was easing its Gazan blockade the humanitarian situation remains dire. ](/news/2010/07/17/one-month-after-israel-s-announcement-it-was-easing-its-gazan-blockade-the-humanitarian-situation-remains-dire.md)
 _Context: Gaza Strip, Israel_
@@ -79,7 +79,7 @@ _Context: Hugo Chavez, Simon Bolivar_
 _Context: Michael Somare, National Alliance Party, Prime Minister_
 
 ### [The Prime Minister of Australia Julia Gillard calls a federal election for 21 August 2010. ](/news/2010/07/17/the-prime-minister-of-australia-julia-gillard-calls-a-federal-election-for-21-august-2010.md)
-_Context: Julia Gillard, Prime Minister of Australia, recent election_
+_Context: Australian Prime Minister, Julia Gillard, recent election_
 
 ### [Dozens of residents protest against plans to build four wind turbines in a field in Berkshire, England. ](/news/2010/07/17/dozens-of-residents-protest-against-plans-to-build-four-wind-turbines-in-a-field-in-berkshire-england.md)
 Walkers, horse riders, cyclists and runners hold a protest march against plans for a wind farm in a field near Reading.

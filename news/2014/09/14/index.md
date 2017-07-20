@@ -7,7 +7,7 @@ _Context: Australia, ISIL, Middle East_
 _Context: Donetsk International Airport, War in Donbass_
 
 ### [At least 70 people are still missing after the ferry MV ''Maharlika II'' sinks off the Philippines island of Leyte. ](/news/2014/09/14/at-least-70-people-are-still-missing-after-the-ferry-mv-maharlika-ii-sinks-off-the-philippines-island-of-leyte.md)
-_Context: Leyte, Philippine_
+_Context: Leyte, Philippines_
 
 ### [2014 India-Pakistan floods:India suspends rescue operations due to heavy rain in Jammu and Kashmir state where over 100,000 still await rescue. ](/news/2014/09/14/2014-indiaapakistan-floods-pindia-suspends-rescue-operations-due-to-heavy-rain-in-jammu-and-kashmir-state-where-over-100-000-still-await-r.md)
 _Context: 2014 India-Pakistan floods, Jammu and Kashmir_
@@ -19,7 +19,7 @@ Forty people died after a building collapse at the megachurch of one of Nigeria&
 _Context: 2014 Pacific hurricane season, Baja California, Hurricane Odile, Mexico_
 
 ### [Typhoon Kalmaegi hits the northeast Philippines with warnings of potential floods and landslides. ](/news/2014/09/14/typhoon-kalmaegi-hits-the-northeast-philippines-with-warnings-of-potential-floods-and-landslides.md)
-_Context: 2014 Pacific typhoon season, Philippine, Typhoon Kalmaegi_
+_Context: 2014 Pacific typhoon season, Philippines, Typhoon Kalmaegi_
 
 ### [A boat carrying 250 people from Africa to Europe sinks off the coast off Tajoura in Libya with most people feared drowned. ](/news/2014/09/14/a-boat-carrying-250-people-from-africa-to-europe-sinks-off-the-coast-off-tajoura-in-libya-with-most-people-feared-drowned.md)
 _Context: Africa, Europe, Libya, Tajoura_

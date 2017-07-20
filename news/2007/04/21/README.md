@@ -16,7 +16,7 @@ _Context: Egypt, Mohammed al-Attar, Mossad, prison_
 _Context: Francisco Guterres, Fretilin, Jose Ramos-Horta, President, Prime Minister of East Timor, appeals court, second round_
 
 ### [ The United States and Australia issue travel advisories warning their citizens not to go to the Philippines due to a potentially imminent terrorist threat. ](/news/2007/04/21/the-united-states-and-australia-issue-travel-advisories-warning-their-citizens-not-to-go-to-the-philippines-due-to-a-potentially-imminent-t.md)
-_Context: Australia, Philippine, U.S., terrorist, travel advisories_
+_Context: Australia, Philippines, U.S., terrorist, travel advisories_
 
 ### [ Protests against the Bakiyev administration in Kyrgyzstan become violent as protesters fight with government security forces. ](/news/2007/04/21/protests-against-the-bakiyev-administration-in-kyrgyzstan-become-violent-as-protesters-fight-with-government-security-forces.md)
 _Context: Kurmanbek Bakiyev, Kyrgyzstan_

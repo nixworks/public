@@ -19,7 +19,7 @@ _Context: Guwahati, India, demonstration_
 _Context: California, Malibu, state park, wildfires_
 
 ### [ Typhoon Mitag remains static over the Philippine Sea but changes course, and is expected to make landfall in Aurora-Isabela provinces of the Philippines on Monday due to the very slow and unusual movement. ](/news/2007/11/24/typhoon-mitag-remains-static-over-the-philippine-sea-but-changes-course-and-is-expected-to-make-landfall-in-aurora-isabela-provinces-of-th.md)
-_Context: Aurora, Isabela, Philippine, Philippine Sea, Typhoon Mitag, landfall_
+_Context: Aurora, Isabela, Philippine Sea, Philippines, Typhoon Mitag, landfall_
 
 ### [ Russian opposition leader Garry Kasparov is arrested during a The Other Russia rally in Moscow. ](/news/2007/11/24/russian-opposition-leader-garry-kasparov-is-arrested-during-a-the-other-russia-rally-in-moscow.md)
 _Context: Garry Kasparov, Moscow, Russia, The Other Russia, opposition leader_
@@ -31,7 +31,7 @@ _Context: Cardinal, Pope, Pope Benedict XVI, Vatican, Vatican City_
 _Context: Afghanistan, Paghman, suicide bomber_
 
 ### [ Australian federal election, 2007: The national election in Australia results in a change of government, with the Australian Labor Party securing an electoral swing of more than 5%.  Kevin Rudd will take office as 26th Prime Minister of Australia and the outgoing Prime Minister John Howard is also likely to lose his seat in parliament.  [http://www.theaustralian.news.com.au/story/0,25197,22814923-601,00.html (The Australian)] John Howard calls the leader of the Australian Labor Party, Kevin Rudd, on the phone and concedes defeat. ](/news/2007/11/24/australian-federal-election-2007-p-the-national-election-in-australia-results-in-a-change-of-government-with-the-australian-labor-party-s.md)
-_Context: Australia, John Howard, Kevin Rudd, Labor Party, Parliament, Prime Minister of Australia, national election_
+_Context: Australia, Australian Prime Minister, John Howard, Kevin Rudd, Labor Party, Parliament, national election_
 
 ### [ 2007 Pakistani state of emergency: Former Prime Minister Shaukat Aziz refuses to contest in forthcoming elections and denied rumors that he is leaving the country. Two suicide car bombings kill at least 30 people and injure many more in Rawalpindi. ](/news/2007/11/24/2007-pakistani-state-of-emergency-p-former-prime-minister-shaukat-aziz-refuses-to-contest-in-forthcoming-elections-and-denied-rumors-that-h.md)
 _Context: 2007 Pakistani state of emergency, Prime Minister, Rawalpindi, Shaukat Aziz, car bombing, suicide bomber_

@@ -79,7 +79,7 @@ At least five people are killed and dozens injured as Moroccan forces break up a
 _Context: ECOWAS, Mamadou Tandja, Niger, West Africa, coup_
 
 ### [Australian Prime Minister Julia Gillard announces a referendum to decide whether indigenous Australians should be recognised in the Constitution. ](/news/2010/11/8/australian-prime-minister-julia-gillard-announces-a-referendum-to-decide-whether-indigenous-australians-should-be-recognised-in-the-constitu.md)
-_Context: Constitution, Indigenous, Julia Gillard, Prime Minister of Australia, referendum_
+_Context: Australian Prime Minister, Constitution, Indigenous, Julia Gillard, referendum_
 
 ### [The reptile scientist, Ngo Van Tri of the Vietnam Academy of Science and Technology, discovers a species of self-cloning lizard later known as ''Leiolepis ngovantrii'' when he came across tanks full of them at small restaurants in rural villages in Ba Ria-Vung Tau Province. Ngo Van Tri becomes intrigued when he notices that all of the lizards appeared to be female. ](/news/2010/11/8/the-reptile-scientist-nga-van-tra-of-the-vietnam-academy-of-science-and-technology-discovers-a-species-of-self-cloning-lizard-later-kno.md)
 _Context: Ba Ria-Vung Tau Province, Leiolepis ngovantrii, Vietnam Academy of Science and Technology, cloning_

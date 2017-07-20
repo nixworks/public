@@ -37,7 +37,7 @@ Adam Steenkamp, the brother of Reeva Steenkamp, says her family wants to remembe
 _Context: Canada, City Hall, Montreal, Quebec police, anti-corruption_
 
 ### [Christine Milne, the leader of The Australian Greens, announces that the party has ended its agreement with the Australian Labor Party which led to the formation of the minority government led by Prime Minister Julia Gillard. ](/news/2013/02/19/christine-milne-the-leader-of-the-australian-greens-announces-that-the-party-has-ended-its-agreement-with-the-australian-labor-party-which.md)
-_Context: Christine Milne, Julia Gillard, Labor Party, Prime Minister of Australia, The Australian Greens_
+_Context: Australian Prime Minister, Christine Milne, Julia Gillard, Labor Party, The Australian Greens_
 
 ### [Official partial returns from the Armenian presidential election indicate that incumbent President Serzh Sargsyan will be reelected in a landslide with the leading Opposition candidate Raffi Hovannisian raising concerns about irregularities. ](/news/2013/02/19/official-partial-returns-from-the-armenian-presidential-election-indicate-that-incumbent-president-serzh-sargsyan-will-be-reelected-in-a-lan.md)
 Incumbent Serzh Sargsyan garners 61 percent of vote, according to partial results, amid claims of voting violations.

@@ -13,7 +13,7 @@ _Context: Basic Law of Hong Kong, Government Consultation Exercise, Hong Kong_
 _Context: Basque, ETA, Ibon Femandez de Iradi_
 
 ### [''Time'' announced that its "Persons of the Year" are three female whistleblowers - Coleen Rowley, FBI agent who wrote a memorandum to FBI Director Robert Mueller claiming that the Minneapolis office had been remiss in its investigation of suspected terrorist Zacarias Moussaoui; Cynthia Cooper, former WorldCom auditor, who alerted the company's Board of Directors of accounting irregularities; and Sherron Watkins, former Enron Vice President, who reported to the company's former Chairman Kenneth Lay in 2001 that the company was about to collapse as a result of false accounting.](/news/2002/12/22/time-announced-that-its-persons-of-the-year-are-three-female-whistleblowers-a-coleen-rowley-fbi-agent-who-wrote-a-memorandum-to-fbi.md)
-_Context: Coleen Rowley, Cynthia Cooper, Enron, Federal Bureau of Investigations, Kenneth Lay, Minneapolis's, Robert Mueller, Sherron Watkins, Time, WorldCom, Zacarias Moussaoui, audit, terrorism, whistleblower_
+_Context: Coleen Rowley, Cynthia Cooper, Enron, Federal Bureau of Investigations, Kenneth Lay, Minneapolis, Robert Mueller, Sherron Watkins, Time, WorldCom, Zacarias Moussaoui, audit, terrorism, whistleblower_
 
 ### [Musician Joe Strummer dies of a heart attack, aged 50.](/news/2002/12/22/musician-joe-strummer-dies-of-a-heart-attack-aged-50.md)
 _Context: Joe Strummer_

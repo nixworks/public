@@ -19,10 +19,10 @@ Typhoon Nabi lashed Japan and parts of South Korea, killing one person and injur
 _Context: India, Japanese encephalitis, death toll, outbreak_
 
 ### [ Australian telecommunication company Telstra's share price tumbles to a two year low of $4.32AU as Prime Minister John Howard condemns their new management team as disgraceful and the Australian Securities and Investment Commission launches a criminal probe of Telstra's leaked and negative statements. ](/news/2005/09/6/australian-telecommunication-company-telstra-s-share-price-tumbles-to-a-two-year-low-of-4-32au-as-prime-minister-john-howard-condemns-thei.md)
-_Context: Australia, Australian Securities and Investment Commission, John Howard, Prime Minister of Australia, Telstra, share price_
+_Context: Australia, Australian Prime Minister, Australian Securities and Investment Commission, John Howard, Telstra, share price_
 
 ### [ Philippine President Gloria Macapagal-Arroyo survives the 2005 political crisis as the plenary session of the House of Representatives of the Philippines dropped the impeachment complaint filed against her. ](/news/2005/09/6/philippine-president-gloria-macapagal-arroyo-survives-the-2005-political-crisis-as-the-plenary-session-of-the-house-of-representatives-of-t.md)
-_Context: 2005 political crisis, Gloria Macapagal Arroyo, Philippine, President of the Philippines, congresswoman_
+_Context: 2005 political crisis, Gloria Macapagal Arroyo, Philippines, President of the Philippines, congresswoman_
 
 ## [Previous Day...](/news/2005/09/5/index.md)
 

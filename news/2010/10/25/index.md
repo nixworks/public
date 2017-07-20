@@ -79,13 +79,13 @@ Lib Dem deputy leader Simon Hughes threatens a backbench rebellion over planned 
 A Ghana-born doctor is elected mayor of a town in Slovenia - apparently breaking new ground for the former Yugoslavia.
 
 ### [Voters in Philippines go to the polls for the Philippine barangay and Sangguniang Kabataan elections. ](/news/2010/10/25/voters-in-philippines-go-to-the-polls-for-the-philippine-barangay-and-sangguniang-kabataan-elections.md)
-_Context: Philippine, Philippine barangay and Sangguniang Kabataan elections_
+_Context: Philippine barangay and Sangguniang Kabataan elections, Philippines_
 
 ### [Voters across all municipalities in Ontario go to the polls for the Ontario municipal elections, 2010. ](/news/2010/10/25/voters-across-all-municipalities-in-ontario-go-to-the-polls-for-the-ontario-municipal-elections-2010.md)
 _Context: Ontario, Ontario municipal elections, 2010_
 
 ### [An audience member throws shoes at former Prime Minister of Australia John Howard during an appearance on Q&A on ABC1. ](/news/2010/10/25/an-audience-member-throws-shoes-at-former-prime-minister-of-australia-john-howard-during-an-appearance-on-q-a-on-abc1.md)
-_Context: ABC1, John Howard, Prime Minister of Australia, Q&A_
+_Context: ABC1, Australian Prime Minister, John Howard, Q&A_
 
 ### [More than 700 species of ancient insects are discovered preserved in amber in an ancient rainforest in India. ](/news/2010/10/25/more-than-700-species-of-ancient-insects-are-discovered-preserved-in-amber-in-an-ancient-rainforest-in-india.md)
 More than 700 new species of ancient insects, preserved in 50-million-year-old amber, were found in India.

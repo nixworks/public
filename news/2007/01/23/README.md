@@ -22,7 +22,7 @@ _Context: Communist Party of China, NBS, Qiu Xiaohua, anti-corruption_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ The Prime Minister of Australia, John Howard, reshuffles his Ministry with Joe Hockey and Malcolm Turnbull promoted to Cabinet and Amanda Vanstone losing her position. ](/news/2007/01/23/the-prime-minister-of-australia-john-howard-reshuffles-his-ministry-with-joe-hockey-and-malcolm-turnbull-promoted-to-cabinet-and-amanda-v.md)
-_Context: Amanda Vanstone, Joe Hockey, John Howard, Malcolm Turnbull, Prime Minister of Australia_
+_Context: Amanda Vanstone, Australian Prime Minister, Joe Hockey, John Howard, Malcolm Turnbull_
 
 ### [ Trade union leaders in Guinea are released and meet with President Lansana Conte as the general strike escalates. ](/news/2007/01/23/trade-union-leaders-in-guinea-are-released-and-meet-with-president-lansana-conta-c-as-the-general-strike-escalates.md)
 _Context: Guinea, Lansana Conte, President of Guinea, general strike_

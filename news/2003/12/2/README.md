@@ -13,7 +13,7 @@ _Context: US$, current account, euro, protectionism_
 _Context: Andrei Illarionov, Kyoto Protocol, Russia, Vladimir Putin, election_
 
 ### [ Mark Latham is elected to succeed Simon Crean as the new leader of the opposition Australian Labor Party, defeating former leader Kim Beazley by 47 votes to 45. In 2004 Latham will face Liberal Prime Minister John Howard at a general election. [http://www.smh.com.au/articles/2003/12/02/1070127386800.html]](/news/2003/12/2/mark-latham-is-elected-to-succeed-simon-crean-as-the-new-leader-of-the-opposition-australian-labor-party-defeating-former-leader-kim-beazl.md)
-_Context: 2004, John Howard, Kim Beazley, Labor Party, Liberal Party, Mark Latham, Prime Minister of Australia, Simon Crean, parliamentary election_
+_Context: 2004, Australian Prime Minister, John Howard, Kim Beazley, Labor Party, Liberal Party, Mark Latham, Simon Crean, parliamentary election_
 
 ### [ The Israeli government has called on U.S. Secretary of State Colin Powell not to meet with former ministers of Israel and the Palestinian Authority who have drawn up the unofficial Geneva plan. [http://www.voanews.com/article.cfm?objectID=10A4368A-A917-4370-A4EB40CDB94EF998] ](/news/2003/12/2/the-israeli-government-has-called-on-u-s-secretary-of-state-colin-powell-not-to-meet-with-former-ministers-of-israel-and-the-palestinian-a.md)
 _Context: Colin Powell, Geneva plan, Israel, Palestinian Authority, Politics of Israel, U.S. Secretary of State_

@@ -22,13 +22,13 @@ _Context: BP, Reliance Industries, natural gas_
 _Context: ConAgra, Garner, North Carolina, Slim Jim_
 
 ### [The United States cities of St. Paul and Minneapolis declare snow emergencies. ](/news/2011/02/21/the-united-states-cities-of-st-paul-and-minneapolis-declare-snow-emergencies.md)
-_Context: Minneapolis's, St. Paul, snow emergencies_
+_Context: Minneapolis, St. Paul, snow emergencies_
 
 ### [Bird flu is discovered in the Indian state of Andhra Pradesh. ](/news/2011/02/21/bird-flu-is-discovered-in-the-indian-state-of-andhra-pradesh.md)
 The fear of bird flu has come back to haunt the poultry industry in Andhra Pradesh. With avian influenza being confirmed in Agartala in Tripura, the poultry industry in AP, which is the biggest in the country, has been put on high alert. 
 
 ### [Mount Bulusan on the island of Luzon in the Philippines erupts. ](/news/2011/02/21/mount-bulusan-on-the-island-of-luzon-in-the-philippines-erupts.md)
-_Context: Luzon, Mount Bulusan, Philippine_
+_Context: Luzon, Mount Bulusan, Philippines_
 
 ### [At least thirty people are killed in a stampede at a Mali stadium following a sermon by a leading Muslim imam. ](/news/2011/02/21/at-least-thirty-people-are-killed-in-a-stampede-at-a-mali-stadium-following-a-sermon-by-a-leading-muslim-imam.md)
 _Context: Mali, Muslim, imam_

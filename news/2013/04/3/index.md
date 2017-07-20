@@ -52,7 +52,7 @@ _Context: cholesterol, macular degeneration_
 Men going thin on top may be more likely to have heart problems than their friends with a full head of hair, according to researchers in Japan.
 
 ### [Australia opens a national probe into child sex abuse, with Prime Minister Julia Gillard warning of "uncomfortable truths" as institutions including schools and churches come under scrutiny. ](/news/2013/04/3/australia-opens-a-national-probe-into-child-sex-abuse-with-prime-minister-julia-gillard-warning-of-uncomfortable-truths-as-institutions-i.md)
-_Context: Australia, Julia Gillard, Prime Minister of Australia, child sex abuse_
+_Context: Australia, Australian Prime Minister, Julia Gillard, child sex abuse_
 
 ### [Four sisters are burned by motorcyclists throwing acid in India's Uttar Pradesh province. ](/news/2013/04/3/four-sisters-are-burned-by-motorcyclists-throwing-acid-in-india-s-uttar-pradesh-province.md)
 _Context: India, Uttar Pradesh, acid, motorcyclist_

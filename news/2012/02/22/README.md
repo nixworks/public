@@ -37,7 +37,7 @@ _Context: Charlottesville, Virginia, University of Virginia, Yeardley Love, men'
 _Context: Benjamin Netanyahu, Israeli Prime Minister, Yoaz Hendel_
 
 ### [Kevin Rudd resigns as Foreign Minister of Australia after alleged "attacks on credibility" by supporters of Prime Minister Julia Gillard. ](/news/2012/02/22/kevin-rudd-resigns-as-foreign-minister-of-australia-after-alleged-attacks-on-credibility-by-supporters-of-prime-minister-julia-gillard.md)
-_Context: Foreign Minister of Australia, Julia Gillard, Kevin Rudd, Prime Minister of Australia_
+_Context: Australian Prime Minister, Foreign Minister of Australia, Julia Gillard, Kevin Rudd_
 
 ## [Previous Day...](/news/2012/02/21/index.md)
 

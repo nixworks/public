@@ -56,7 +56,7 @@ _Context: Bavaria, Germany, Krailling, two girls_
 Irish billionaire businessman Denis O&#039;Brien and a former Irish government minister have been accused of being involved in a &#034;cynical and venal abuse of power&#034; in negotiations for a substantial mobile telephone licence.
 
 ### [Australian Prime Minister Julia Gillard is among the MPs to have been revealed in the latest MPs' interests register to have received gifts, including iPods and concert tickets, from Bono. ](/news/2011/03/24/australian-prime-minister-julia-gillard-is-among-the-mps-to-have-been-revealed-in-the-latest-mps-interests-register-to-have-received-gifts.md)
-_Context: Australia, Bono, Julia Gillard, Prime Minister of Australia, iPod_
+_Context: Australia, Australian Prime Minister, Bono, Julia Gillard, iPod_
 
 ### [The Governor of the US state of California Jerry Brown signs off on billions of savings to the budget but acknowledges that billions more in savings or revenue increases need to be found to resolve the ongoing budget crisis. ](/news/2011/03/24/the-governor-of-the-us-state-of-california-jerry-brown-signs-off-on-billions-of-savings-to-the-budget-but-acknowledges-that-billions-more-in.md)
 _Context: California, Governor of California, Jerry Brown, ongoing budget crisis_

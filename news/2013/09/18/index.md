@@ -22,7 +22,7 @@ Analysts said the release of 11 prominent prisoners was a significant step in Pr
 Antonio Feliu killed two people, took off in his SUV, and led police on a high-speed chase before crashing into another car, whose driver was killed in the
 
 ### [Tony Abbott is sworn in as the 28th Prime Minister of Australia together with his Ministry. ](/news/2013/09/18/tony-abbott-is-sworn-in-as-the-28th-prime-minister-of-australia-together-with-his-ministry.md)
-_Context: Ministry, Prime Minister of Australia, Tony Abbott_
+_Context: Australian Prime Minister, Ministry, Tony Abbott_
 
 ### [iOS 7, the seventh iteration of Apple Inc.'s iOS mobile operating system, is officially released. The new OS includes major changes to the user interface. ](/news/2013/09/18/ios-7-the-seventh-iteration-of-apple-inc-s-ios-mobile-operating-system-is-officially-released-the-new-os-includes-major-changes-to-the-u.md)
 _Context: Apple Inc., iOS, iOS 7, mobile operating system_

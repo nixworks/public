@@ -25,7 +25,7 @@ _Context: Fradique de Menezes, So Tom and Prncipe, presidential election_
 _Context: 2006 Israel-Lebanon crisis, Israel, Lebanon, UN Security Council, civilians_
 
 ### [ John Howard announces that he intends to stay on as Prime Minister of Australia until the 2007 election which he plans to contest as Leader of the Liberal Party of Australia. ](/news/2006/07/31/john-howard-announces-that-he-intends-to-stay-on-as-prime-minister-of-australia-until-the-2007-election-which-he-plans-to-contest-as-leader.md)
-_Context: John Howard, Liberal Party, Prime Minister of Australia_
+_Context: Australian Prime Minister, John Howard, Liberal Party_
 
 ### [ NATO takes over command of operations in southern Afghanistan in Kandahar from a US-led coalition. ](/news/2006/07/31/nato-takes-over-command-of-operations-in-southern-afghanistan-in-kandahar-from-a-us-led-coalition.md)
 _Context: Afghanistan, Kandahar, NATO_

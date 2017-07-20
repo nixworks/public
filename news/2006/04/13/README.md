@@ -4,7 +4,7 @@
 _Context: Chad, Chadian rebels, Military, N'Djamena, attempted coup, capital_
 
 ### [ John Howard, Prime Minister of Australia denies being aware of an Australian company giving "kick-backs" to Saddam Hussein during the United Nations' Oil for food programme. ](/news/2006/04/13/john-howard-prime-minister-of-australia-denies-being-aware-of-an-australian-company-giving-kick-backs-to-saddam-hussein-during-the-unite.md)
-_Context: John Howard, Prime Minister of Australia, Saddam Hussein, United Nations, oil-for-food_
+_Context: Australian Prime Minister, John Howard, Saddam Hussein, United Nations, oil-for-food_
 
 ## [Previous Day...](/news/2006/04/12/index.md)
 

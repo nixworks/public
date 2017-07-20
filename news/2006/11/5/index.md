@@ -13,7 +13,7 @@ _Context: 2006 general election, Daniel Ortega, Eduardo Montealegre, National As
 _Context: France, Germany, Western Europe, cascading failure, power cut_
 
 ### [ The Prime Minister of Australia, John Howard, calls State Premiers to a crisis meeting to discuss the current drought and problems in the Murray-Darling Basin. ](/news/2006/11/5/the-prime-minister-of-australia-john-howard-calls-state-premiers-to-a-crisis-meeting-to-discuss-the-current-drought-and-problems-in-the-m.md)
-_Context: John Howard, Murray-Darling basin, Prime Minister of Australia, drought_
+_Context: Australian Prime Minister, John Howard, Murray-Darling basin, drought_
 
 ## [Previous Day...](/news/2006/11/4/index.md)
 
