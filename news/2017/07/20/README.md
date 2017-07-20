@@ -1,10 +1,13 @@
 ## [2017-07-20](/news/2017/07/20/index.md)
 
-### [Lead vocalist of Linkin Park Chester Bennington dies at his home in the Los Angeles suburb of Palos Verdes Estates, California. ](/news/2017/07/20/lead-vocalist-of-linkin-park-chester-bennington-dies-at-his-home-in-the-los-angeles-suburb-of-palos-verdes-estates-california.md)
-_Context: Linkin Park, Palos Verdes Estates, California_
+### [Chester Bennington, lead vocalist of Linkin Park, dies at his home in the Los Angeles suburb of Palos Verdes Estates, California. ](/news/2017/07/20/chester-bennington-lead-vocalist-of-linkin-park-dies-at-his-home-in-the-los-angeles-suburb-of-palos-verdes-estates-california.md)
+_Context: Chester Bennington, Linkin Park, Palos Verdes Estates, California_
 
 ### [A hearing in the U.S. Senate is held about "alleged and so-called" human rights violations in the Philippines's war against illegal drugs. ](/news/2017/07/20/a-hearing-in-the-u-s-senate-is-held-about-alleged-and-so-called-human-rights-violations-in-the-philippines-s-war-against-illegal-drugs.md)
 The hearing is scheduled Thursday 10 pm (Manila time). Watch it live on Rappler.
+
+### [Six teenagers,  four males and two females, from a Burundi robotics team are reported missing after competing in the FIRST Global Robotics Competition in Washington, D.C.  A 16-year-old boy and a 17-year old female reportedly crossed the United States border into Canada. There is no indication of foul play. ](/news/2017/07/20/six-teenagers-four-males-and-two-females-from-a-burundi-robotics-team-are-reported-missing-after-competing-in-the-first-global-robotics-c.md)
+Six teenagers from a Burundi robotics team have been reported missing after an international competition in Washington and two of them were seen entering Canada, police said on Thursday.
 
 ### [ O. J. Simpson is granted parole by the Nevada Board of Parole Commissioners after serving nearly nine years in prison. ](/news/2017/07/20/o-j-simpson-is-granted-parole-by-the-nevada-board-of-parole-commissioners-after-serving-nearly-nine-years-in-prison.md)
 Simpson, who has served nine years, mouthed the words &quot;thank you&quot; as he stood and returned to his cell, where he will remain until fall.

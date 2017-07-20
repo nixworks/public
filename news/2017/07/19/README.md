@@ -1,5 +1,8 @@
 ## [2017-07-19](/news/2017/07/19/index.md)
 
+### [Singer Barbara Weldens, whose recently released first album had won several awards, collapses and dies on stage while singing in Festival Leo Ferre in Gourdon in southwestern France. The 35-year-old singer  and poet  apparently was electrocuted. ](/news/2017/07/19/singer-barbara-weldens-whose-recently-released-first-album-had-won-several-awards-collapses-and-dies-on-stage-while-singing-in-festival-la.md)
+Barbara Weldens collapsed mid-concert and was apparently electrocuted.
+
 ### [Thousands of residents are evacuated from Mariposa and several other communities in Mariposa County, California, following the rapid spread of the Detwiler Fire near Yosemite National Park. ](/news/2017/07/19/thousands-of-residents-are-evacuated-from-mariposa-and-several-other-communities-in-mariposa-county-california-following-the-rapid-spread.md)
 A 25,000-acre wildfire in central California, one of three dozen major blazes burning across the U.S. West, threatened hundreds of homes and businesses on Wednesday after forcing the evacuation of about 5,000 residents.
 

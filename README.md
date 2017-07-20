@@ -1,10 +1,13 @@
 ## [News](/news/2017/07/20/index.md)
 
-### [Lead vocalist of Linkin Park Chester Bennington dies at his home in the Los Angeles suburb of Palos Verdes Estates, California. ](/news/2017/07/20/lead-vocalist-of-linkin-park-chester-bennington-dies-at-his-home-in-the-los-angeles-suburb-of-palos-verdes-estates-california.md)
-_Context: Linkin Park, Palos Verdes Estates, California_
+### [Chester Bennington, lead vocalist of Linkin Park, dies at his home in the Los Angeles suburb of Palos Verdes Estates, California. ](/news/2017/07/20/chester-bennington-lead-vocalist-of-linkin-park-dies-at-his-home-in-the-los-angeles-suburb-of-palos-verdes-estates-california.md)
+_Context: Chester Bennington, Linkin Park, Palos Verdes Estates, California_
 
 ### [A hearing in the U.S. Senate is held about "alleged and so-called" human rights violations in the Philippines's war against illegal drugs. ](/news/2017/07/20/a-hearing-in-the-u-s-senate-is-held-about-alleged-and-so-called-human-rights-violations-in-the-philippines-s-war-against-illegal-drugs.md)
 The hearing is scheduled Thursday 10 pm (Manila time). Watch it live on Rappler.
+
+### [Six teenagers,  four males and two females, from a Burundi robotics team are reported missing after competing in the FIRST Global Robotics Competition in Washington, D.C.  A 16-year-old boy and a 17-year old female reportedly crossed the United States border into Canada. There is no indication of foul play. ](/news/2017/07/20/six-teenagers-four-males-and-two-females-from-a-burundi-robotics-team-are-reported-missing-after-competing-in-the-first-global-robotics-c.md)
+Six teenagers from a Burundi robotics team have been reported missing after an international competition in Washington and two of them were seen entering Canada, police said on Thursday.
 
 ### [ O. J. Simpson is granted parole by the Nevada Board of Parole Commissioners after serving nearly nine years in prison. ](/news/2017/07/20/o-j-simpson-is-granted-parole-by-the-nevada-board-of-parole-commissioners-after-serving-nearly-nine-years-in-prison.md)
 Simpson, who has served nine years, mouthed the words &quot;thank you&quot; as he stood and returned to his cell, where he will remain until fall.
@@ -25,6 +28,9 @@ Most of the daily information we see on the mainstream media today is the news e
 ---
 
 ## [Yesterday](/news/2017/07/19/index.md)
+
+### [Singer Barbara Weldens, whose recently released first album had won several awards, collapses and dies on stage while singing in Festival Leo Ferre in Gourdon in southwestern France. The 35-year-old singer  and poet  apparently was electrocuted. ](/news/2017/07/19/singer-barbara-weldens-whose-recently-released-first-album-had-won-several-awards-collapses-and-dies-on-stage-while-singing-in-festival-la.md)
+Barbara Weldens collapsed mid-concert and was apparently electrocuted.
 
 ### [Thousands of residents are evacuated from Mariposa and several other communities in Mariposa County, California, following the rapid spread of the Detwiler Fire near Yosemite National Park. ](/news/2017/07/19/thousands-of-residents-are-evacuated-from-mariposa-and-several-other-communities-in-mariposa-county-california-following-the-rapid-spread.md)
 A 25,000-acre wildfire in central California, one of three dozen major blazes burning across the U.S. West, threatened hundreds of homes and businesses on Wednesday after forcing the evacuation of about 5,000 residents.
@@ -60,6 +66,9 @@ Separatists in eastern Ukraine on Tuesday proclaimed a new state that aspires to
 ### [Turkey arrests six people, including the director of Amnesty International, for allegedly "helping an armed terrorist organisation". ](/news/2017/07/18/turkey-arrests-six-people-including-the-director-of-amnesty-international-for-allegedly-helping-an-armed-terrorist-organisation.md)
 Amnesty International director among the six jailed for &#39;helping an armed terrorist organisation&#39;.
 
+### [A European Parliament  delegation, led by Soraya Post, visits detained senator Leila de Lima. ](/news/2017/07/18/a-european-parliament-delegation-led-by-soraya-post-visits-detained-senator-leila-de-lima.md)
+EU lawmakers, led by Soraya Post, plan to visit detained Senator Leila de Lima during their trip to the Philippines
+
 ### [Canadian-born Larissa Waters resigns as a Senator, and as deputy leader of the Australian Greens, after discovering she remains a dual citizen of Canada, rendering her election unconstitutional under section 44. The move comes four days after Scott Ludlam, Waters' co-deputy, resigned due to his New Zealand citizenship. ](/news/2017/07/18/canadian-born-larissa-waters-resigns-as-a-senator-and-as-deputy-leader-of-the-australian-greens-after-discovering-she-remains-a-dual-citiz.md)
 Greens senator Larissa Waters resigns from Parliament because of issues over her citizenship.
 
@@ -67,7 +76,7 @@ Greens senator Larissa Waters resigns from Parliament because of issues over her
 _Context: Bermuda, Bermudian general election, 2017, House of Assembly, Premier_
 
 ### [President of the Philippines Rodrigo Duterte plans to appeal to the Congress of the Philippines to extend Proclamation No. 216 (martial law on the whole of Mindanao, which will end on 22 July 10 PM PST) until the end of 2017, due to constitutional constraints as well as the ongoing Marawi crisis. ](/news/2017/07/18/president-of-the-philippines-rodrigo-duterte-plans-to-appeal-to-the-congress-of-the-philippines-to-extend-proclamation-no-216-martial-law.md)
-President Rodrigo Duterte plans to extend martial law in the southern Philippines to defeat Islamist militants who have seized a major city, his administration said Tuesday, as critics warned the country could be edging towards a dictatorship. Duterte had imposed military rule for 60 days in the Mindanao
+To quell the rebellion in the Philippine city, President Rodrigo Duterte asked lawmakers to allow martial law on the island of Mindanao through the end of the year.
 
 ### [A Senate GOP bill to repeal and replace large portions of Obamacare fails to win enough support to pass. ](/news/2017/07/18/a-senate-gop-bill-to-repeal-and-replace-large-portions-of-obamacare-fails-to-win-enough-support-to-pass.md)
 The seven-year Republican quest to repeal the Affordable Care Act seemed to reach a dead end Tuesday, but President Trump vowed to “let Obamacare fail.”
