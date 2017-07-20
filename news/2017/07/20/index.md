@@ -1,12 +1,18 @@
 ## [2017-07-20](/news/2017/07/20/index.md)
 
+### [Lead vocalist of Linkin Park Chester Bennington dies at his home in the Los Angeles suburb of Palos Verdes Estates, California. ](/news/2017/07/20/lead-vocalist-of-linkin-park-chester-bennington-dies-at-his-home-in-the-los-angeles-suburb-of-palos-verdes-estates-california.md)
+_Context: Linkin Park, Palos Verdes Estates, California_
+
 ### [A hearing in the U.S. Senate is held about "alleged and so-called" human rights violations in the Philippines's war against illegal drugs. ](/news/2017/07/20/a-hearing-in-the-u-s-senate-is-held-about-alleged-and-so-called-human-rights-violations-in-the-philippines-s-war-against-illegal-drugs.md)
 The hearing is scheduled Thursday 10 pm (Manila time). Watch it live on Rappler.
+
+### [ O. J. Simpson is granted parole by the Nevada Board of Parole Commissioners after serving nearly nine years in prison. ](/news/2017/07/20/o-j-simpson-is-granted-parole-by-the-nevada-board-of-parole-commissioners-after-serving-nearly-nine-years-in-prison.md)
+Simpson, who has served nine years, mouthed the words &quot;thank you&quot; as he stood and returned to his cell, where he will remain until fall.
 
 ### [Ram Nath Kovind has won the Indian presidential election after securing over two-thirds of the total electoral college votes. ](/news/2017/07/20/ram-nath-kovind-has-won-the-indian-presidential-election-after-securing-over-two-thirds-of-the-total-electoral-college-votes.md)
 He defeats Opposition candidate Meira Kumar, garnering more than 65 per cent of the votes in the Electoral College,
 
-### [Vince Cable becomes Leader of the Liberal Democrats after running unopposed. ](/news/2017/07/20/vince-cable-becomes-leader-of-the-liberal-democrats-after-running-unopposed.md)
+### [Vince Cable is acclaimed as Leader of the Liberal Democrats in the United Kingdom after running unopposed. ](/news/2017/07/20/vince-cable-is-acclaimed-as-leader-of-the-liberal-democrats-in-the-united-kingdom-after-running-unopposed.md)
 The 74-year-old calls for an &quot;exit from Brexit&quot; as he is elected unopposed to succeed Tim Farron.
 
 ### [SpaceX CEO Elon Musk says he has received federal government approval for The Boring Company to build an underground 760mph Hyperloop that will connect New York City and Washington, D.C.. ](/news/2017/07/20/spacex-ceo-elon-musk-says-he-has-received-federal-government-approval-for-the-boring-company-to-build-an-underground-760mph-hyperloop-that-w.md)
