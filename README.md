@@ -1,7 +1,10 @@
 ## [News](/news/2017/07/20/index.md)
 
-### [A hearing in the U.S. Congress is held about alleged human rights violations in the Philippines' crackdown on recreational drugs. ](/news/2017/07/20/a-hearing-in-the-u-s-congress-is-held-about-alleged-human-rights-violations-in-the-philippines-crackdown-on-recreational-drugs.md)
+### [A hearing in the U.S. Senate is held about "alleged and so-called" human rights violations in the Philippines's war against illegal drugs. ](/news/2017/07/20/a-hearing-in-the-u-s-senate-is-held-about-alleged-and-so-called-human-rights-violations-in-the-philippines-s-war-against-illegal-drugs.md)
 The hearing is scheduled Thursday 10 pm (Manila time). Watch it live on Rappler.
+
+### [Ram Nath Kovind has won the Indian presidential election after securing over two-thirds of the total electoral college votes. ](/news/2017/07/20/ram-nath-kovind-has-won-the-indian-presidential-election-after-securing-over-two-thirds-of-the-total-electoral-college-votes.md)
+He defeats Opposition candidate Meira Kumar, garnering more than 65 per cent of the votes in the Electoral College,
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -51,8 +54,8 @@ Greens senator Larissa Waters resigns from Parliament because of issues over her
 ### [Voters in Bermuda go to the polls to elect their Premier and members of the House of Assembly. ](/news/2017/07/18/voters-in-bermuda-go-to-the-polls-to-elect-their-premier-and-members-of-the-house-of-assembly.md)
 _Context: Bermuda, Bermudian general election, 2017, House of Assembly, Premier_
 
-### [Philippine President Rodrigo Duterte seeks to extend his martial law proclamation in Marawi until the beginning of 2018. ](/news/2017/07/18/philippine-president-rodrigo-duterte-seeks-to-extend-his-martial-law-proclamation-in-marawi-until-the-beginning-of-2018.md)
-To quell the rebellion in the Philippine city, President Rodrigo Duterte asked lawmakers to allow martial law on the island of Mindanao through the end of the year.
+### [President of the Philippines Rodrigo Duterte plans to appeal to the Congress of the Philippines to extend Proclamation No. 216 (martial law on the whole of Mindanao, which will end on 22 July 10 PM PST) until the end of 2017, due to constitutional constraints as well as the ongoing Marawi crisis. ](/news/2017/07/18/president-of-the-philippines-rodrigo-duterte-plans-to-appeal-to-the-congress-of-the-philippines-to-extend-proclamation-no-216-martial-law.md)
+President Rodrigo Duterte plans to extend martial law in the southern Philippines to defeat Islamist militants who have seized a major city, his administration said Tuesday, as critics warned the country could be edging towards a dictatorship. Duterte had imposed military rule for 60 days in the Mindanao
 
 ### [A Senate GOP bill to repeal and replace large portions of Obamacare fails to win enough support to pass. ](/news/2017/07/18/a-senate-gop-bill-to-repeal-and-replace-large-portions-of-obamacare-fails-to-win-enough-support-to-pass.md)
 The seven-year Republican quest to repeal the Affordable Care Act seemed to reach a dead end Tuesday, but President Trump vowed to “let Obamacare fail.”
