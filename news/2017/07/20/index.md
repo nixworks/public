@@ -3,7 +3,7 @@
 ### [Chester Bennington, lead vocalist of Linkin Park, dies at his home in the Los Angeles suburb of Palos Verdes Estates, California. ](/news/2017/07/20/chester-bennington-lead-vocalist-of-linkin-park-dies-at-his-home-in-the-los-angeles-suburb-of-palos-verdes-estates-california.md)
 _Context: Chester Bennington, Linkin Park, Palos Verdes Estates, California_
 
-### [A hearing in the U.S. Senate is held about "alleged and so-called" human rights violations in the Philippines's war against illegal drugs. ](/news/2017/07/20/a-hearing-in-the-u-s-senate-is-held-about-alleged-and-so-called-human-rights-violations-in-the-philippines-s-war-against-illegal-drugs.md)
+### [A hearing in the U.S. Senate is held about alleged human rights violations in the Philippines's war against illegal drugs. ](/news/2017/07/20/a-hearing-in-the-u-s-senate-is-held-about-alleged-human-rights-violations-in-the-philippines-s-war-against-illegal-drugs.md)
 The hearing is scheduled Thursday 10 pm (Manila time). Watch it live on Rappler.
 
 ### [Six teenagers, four males and two females, from a Burundi robotics team are reported missing after competing in the FIRST Global Robotics Competition in Washington, D.C.  A 16-year-old boy and a 17-year old girl reportedly crossed the United States border into Canada. There is no indication of foul play. ](/news/2017/07/20/six-teenagers-four-males-and-two-females-from-a-burundi-robotics-team-are-reported-missing-after-competing-in-the-first-global-robotics-co.md)
