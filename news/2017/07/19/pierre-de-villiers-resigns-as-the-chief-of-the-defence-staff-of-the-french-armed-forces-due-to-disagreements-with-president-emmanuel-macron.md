@@ -7,7 +7,7 @@ The head of the French armed forces, General Pierre de Villiers, has quit his po
 
 ### Source:
 
-1. [The Independnent](http://www.independent.co.uk/news/world/europe/emmanuel-macron-pierre-de-villiers-head-of-french-armed-forces-quits-france-budget-cuts-army-resigns-a7848186.html)
+1. [The Independent](http://www.independent.co.uk/news/world/europe/emmanuel-macron-pierre-de-villiers-head-of-french-armed-forces-quits-france-budget-cuts-army-resigns-a7848186.html)
 
 ### Related:
 
