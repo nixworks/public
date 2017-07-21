@@ -6,5 +6,8 @@ _Context: Salvador Dali_
 ### [A 6.7 magnitude earthquake in the Aegean Sea near Greece and Turkey kills two people and injures more than 200 others. ](/news/2017/07/21/a-6-7-magnitude-earthquake-in-the-aegean-sea-near-greece-and-turkey-kills-two-people-and-injures-more-than-200-others.md)
 A powerful magnitude-6.7 earthquake kills two people and causes a small tsunami after striking near Turkish and Greek tourist destinations in the Aegean Sea.
 
+### [Sean Spicer resigns after Donald Trump appoints Anthony Scaramucci as the White House Communications Director. ](/news/2017/07/21/sean-spicer-resigns-after-donald-trump-appoints-anthony-scaramucci-as-the-white-house-communications-director.md)
+Mr. Spicer quit after telling President Trump he vehemently disagreed with the appointment of the financier Anthony Scaramucci as communications director.
+
 ## [Previous Day...](/news/2017/07/20/index.md)
 
