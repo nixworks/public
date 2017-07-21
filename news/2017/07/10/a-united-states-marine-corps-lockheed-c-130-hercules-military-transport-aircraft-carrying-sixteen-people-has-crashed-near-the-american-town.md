@@ -1,6 +1,6 @@
 ### [2017-07-10](/news/2017/07/10/index.md)
 
-# A United States Marine Corps Lockheed C-130 Hercules military transport aircraft carrying sixteen people has crashed near the American town of Greenwood, Mississippi. So far, at least sixteen bodies have been recovered. 
+# A United States Marine Corps Lockheed C-130 Hercules military transport aircraft carrying sixteen people has crashed near the American town of Greenwood, Mississippi. All sixteen bodies have been recovered. 
 
 A military plane crashed in a soybean field in Leflore County, Miss., killing at least 16 and leaving a debris field five miles in radius, officials said.
 
