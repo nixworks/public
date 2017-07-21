@@ -3,6 +3,9 @@
 ### [A 7.7 magnitude earthquake strikes off Russia's Kamchatka Peninsula,  west of the  Alaskan Aleutian Island of Attu, in the North Pacific Ocean. No immediate reports of  casualties or damage; a tsunami warning was cancelled. ](/news/2017/07/18/a-7-7-magnitude-earthquake-strikes-off-russia-s-kamchatka-peninsula-west-of-the-alaskan-aleutian-island-of-attu-in-the-north-pacific-oce.md)
  ANCHORAGE, Alaska (AP) — A strong earthquake on the Russian side of the Bering Sea briefly prompted a tsunami advisory for parts of the Pacific, including Alaska&#39;s remote Aleutian
 
+### [A shrinking glacier in Switzerland has revealed two frozen bodies believed to be of a couple who went missing in 1942 and had never been found, despite extensive searches. Swiss authorities said that a DNA test will be conducted in several days' time. ](/news/2017/07/18/a-shrinking-glacier-in-switzerland-has-revealed-two-frozen-bodies-believed-to-be-of-a-couple-who-went-missing-in-1942-and-had-never-been-fou.md)
+Their 79-year-old daughter says she has found peace from the discovery after a life-long search.
+
 ### [DPR leader Alexander Zakharchenko announced that the self-declared Donetsk People's Republic (DPR) and Luhansk People's Republic (LPR) would form a new state called Malorossiya (Little Russia) as an official successor to what he called the "failed state" of Ukraine, with Donetsk replacing Kiev as the country's capital. Ukrainian president Petro Poroshenko and LPR leader Igor Plotnitsky denounced the plans. ](/news/2017/07/18/dpr-leader-alexander-zakharchenko-announced-that-the-self-declared-donetsk-people-s-republic-dpr-and-luhansk-people-s-republic-lpr-would.md)
 Separatists in eastern Ukraine on Tuesday proclaimed a new state that aspires to include not only the areas they control but also the rest of the country. But Russia, their chief backer, sought to play down the announcement, saying it was merely part of public discussion. The surprise...
 

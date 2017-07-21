@@ -1,5 +1,8 @@
 ## [2017-07-20](/news/2017/07/20/index.md)
 
+### [Syrian rebels, who have benefited from the "covert" CIA military aid program, say they have not been officially informed of the U.S. decision to stop this aid, and add that its full impact depends on whether U.S. allies Jordan, Saudi Arabia, Qatar, and Turkey continue to support their fight. A Free Syrian Army commander warns this decision risks triggering the collapse of the moderate opposition. ](/news/2017/07/20/syrian-rebels-who-have-benefited-from-the-covert-cia-military-aid-program-say-they-have-not-been-officially-informed-of-the-u-s-decisio.md)
+_Context: CIA, Free Syrian Army, Jordan, Qatar, Saudi Arabia, Syrian Civil War, Turkey_
+
 ### [Chester Bennington, lead vocalist of Linkin Park, dies at his home in the Los Angeles suburb of Palos Verdes Estates, California. ](/news/2017/07/20/chester-bennington-lead-vocalist-of-linkin-park-dies-at-his-home-in-the-los-angeles-suburb-of-palos-verdes-estates-california.md)
 _Context: Chester Bennington, Linkin Park, Palos Verdes Estates, California_
 
@@ -9,7 +12,7 @@ The hearing is scheduled Thursday 10 pm (Manila time). Watch it live on Rappler.
 ### [Six teenagers, four males and two females, from a Burundi robotics team are reported missing after competing in the FIRST Global Robotics Competition in Washington, D.C.  A 16-year-old boy and a 17-year old girl reportedly crossed the United States border into Canada. There is no indication of foul play. ](/news/2017/07/20/six-teenagers-four-males-and-two-females-from-a-burundi-robotics-team-are-reported-missing-after-competing-in-the-first-global-robotics-co.md)
 Six teenagers from a Burundi robotics team have been reported missing after an international competition in Washington and two of them were seen entering Canada, police said on Thursday.
 
-### [ O. J. Simpson is granted parole by the Nevada Board of Parole Commissioners after serving nearly nine years in prison. ](/news/2017/07/20/o-j-simpson-is-granted-parole-by-the-nevada-board-of-parole-commissioners-after-serving-nearly-nine-years-in-prison.md)
+### [O. J. Simpson is granted parole by the Nevada Board of Parole Commissioners after serving nearly nine years in prison. ](/news/2017/07/20/o-j-simpson-is-granted-parole-by-the-nevada-board-of-parole-commissioners-after-serving-nearly-nine-years-in-prison.md)
 Simpson, who has served nine years, mouthed the words &quot;thank you&quot; as he stood and returned to his cell, where he will remain until fall.
 
 ### [Ram Nath Kovind has won the Indian presidential election after securing over two-thirds of the total electoral college votes. ](/news/2017/07/20/ram-nath-kovind-has-won-the-indian-presidential-election-after-securing-over-two-thirds-of-the-total-electoral-college-votes.md)
