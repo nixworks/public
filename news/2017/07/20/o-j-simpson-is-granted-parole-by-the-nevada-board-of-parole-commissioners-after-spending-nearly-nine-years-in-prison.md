@@ -1,0 +1,23 @@
+### [2017-07-20](/news/2017/07/20/index.md)
+
+# O. J. Simpson is granted parole by the Nevada Board of Parole Commissioners after spending nearly nine years in prison. 
+
+Simpson, who has served nine years, mouthed the words &quot;thank you&quot; as he stood and returned to his cell, where he will remain until fall.
+
+
+### Source:
+
+1. [Washington Post](https://www.washingtonpost.com/news/early-lead/wp/2017/07/20/what-to-expect-from-the-o-j-simpson-parole-hearing/)
+
+### Related:
+
+1. [The Maryland House of Delegates and Senate override Governor Larry Hogan's veto of a bill extending felons' voting rights to those who  have not completed the terms of their probation or parole. The law goes into effect March 10, 2016. ](/news/2016/02/9/the-maryland-house-of-delegates-and-senate-override-governor-larry-hogan-s-veto-of-a-bill-extending-felons-voting-rights-to-those-who-have.md) _Context: parole_
+2. [The United States releases on parole convicted Israeli spy Jonathan Pollard, a former U.S. intelligence analyst, who served 30 years in federal prison. His parole, approved on July 28, 2015, is for five years  during which time he has to remain in the United States. A supporter said Pollard will have a curfew and will wear a GPS unit. ](/news/2015/11/20/the-united-states-releases-on-parole-convicted-israeli-spy-jonathan-pollard-a-former-u-s-intelligence-analyst-who-served-30-years-in-fede.md) _Context: parole_
+3. [Israeli agent Jonathan Pollard, a former U.S. intelligence analyst convicted and sentenced to a life imprisonment for providing top secret classified information to Israel, will be released by the Obama Administration on parole tomorrow after serving 30 years in a U.S. federal prison. He will be given an ankle monitor while he completes five years of parole in America. ](/news/2015/11/19/israeli-agent-jonathan-pollard-a-former-u-s-intelligence-analyst-convicted-and-sentenced-to-a-life-imprisonment-for-providing-top-secret-c.md) _Context: parole_
+4. [Former American football player Aaron Hernandez is convicted of murder in the first degree in the town of Fall River, Massachusetts. Hernandez shot a former friend Odin Lloyd in 2013. He was automatically sentenced to life in prison without parole. ](/news/2015/04/15/former-american-football-player-aaron-hernandez-is-convicted-of-murder-in-the-first-degree-in-the-town-of-fall-river-massachusetts-hernand.md) _Context: parole_
+5. [Eddie Ray Routh is found guilty of the 2013 murder of United States Navy SEALs' sniper Chris Kyle and Kyle's friend Chad Littlefield in Texas. Routh is automatically sentenced to life imprisonment without parole. ](/news/2015/02/24/eddie-ray-routh-is-found-guilty-of-the-2013-murder-of-united-states-navy-seals-sniper-chris-kyle-and-kyle-s-friend-chad-littlefield-in-texa.md) _Context: parole_
+6. [A parole decision on the former Mayor of the US city of Detroit, Kwame Kilpatrick, is delayed because of the prospect that he could face federal government corruption charges. ](/news/2011/05/20/a-parole-decision-on-the-former-mayor-of-the-us-city-of-detroit-kwame-kilpatrick-is-delayed-because-of-the-prospect-that-he-could-face-fed.md) _Context: parole_
+7. [Delroy Grant, a 53-year-old London taxi driver who was found guilty on a total of 29 charges including indecent assault, burglary and rape committed against 10 elderly people between 1992 and 2009, is sentenced to life imprisonment at Woolwich Crown Court with a recommendation that he should serve at least 27 years in prison before parole can even be considered. ](/news/2011/03/25/delroy-grant-a-53-year-old-london-taxi-driver-who-was-found-guilty-on-a-total-of-29-charges-including-indecent-assault-burglary-and-rape-c.md) _Context: parole_
+8. [Sirhan Sirhan, the assassin of US politician Robert F. Kennedy in 1968, is denied parole again in California. ](/news/2011/03/2/sirhan-sirhan-the-assassin-of-us-politician-robert-f-kennedy-in-1968-is-denied-parole-again-in-california.md) _Context: parole_
+9. [Victorian era photographs and parole details for women prisoners in the United Kingdom are published on Ancestry.com. ](/news/2011/02/25/victorian-era-photographs-and-parole-details-for-women-prisoners-in-the-united-kingdom-are-published-on-ancestry-com.md) _Context: parole_
+10. [51-year-old Texan Cornelius Dupree, freed on parole in July 2010 after serving 30 of a 75 year sentence for aggravated robbery, has his conviction quashed after he was found to be innocent of the crime through DNA evidence. ](/news/2011/01/4/51-year-old-texan-cornelius-dupree-freed-on-parole-in-july-2010-after-serving-30-of-a-75-year-sentence-for-aggravated-robbery-has-his-conv.md) _Context: parole_

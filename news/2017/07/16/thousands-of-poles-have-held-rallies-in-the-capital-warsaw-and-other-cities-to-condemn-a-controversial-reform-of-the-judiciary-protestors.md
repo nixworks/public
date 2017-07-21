@@ -8,3 +8,7 @@ The bill gives politicians the power to appoint judges without consulting judici
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-40622896)
+
+### Related:
+
+1. [  Thousands of Poles continue to protest against the bill concerning the Supreme Court. [http://www.politico.eu/article/protests-in-warsaw-as-government-moves-on-courts/ (''Politico'')](/news/2017/07/20/thousands-of-poles-continue-to-protest-against-the-bill-concerning-the-supreme-court-http-www-politico-eu-article-protests-in-warsaw-a.md) _Context: Cabinet of Beata Szydlo_
