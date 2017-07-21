@@ -21,7 +21,7 @@ He defeats Opposition candidate Meira Kumar, garnering more than 65 per cent of 
 ### [Vince Cable is acclaimed as Leader of the Liberal Democrats in the United Kingdom after running unopposed. ](/news/2017/07/20/vince-cable-is-acclaimed-as-leader-of-the-liberal-democrats-in-the-united-kingdom-after-running-unopposed.md)
 The 74-year-old calls for an &quot;exit from Brexit&quot; as he is elected unopposed to succeed Tim Farron.
 
-### [  Thousands of Poles continue to protest against the bill concerning the Supreme Court. [http://www.politico.eu/article/protests-in-warsaw-as-government-moves-on-courts/ (''Politico'')](/news/2017/07/20/thousands-of-poles-continue-to-protest-against-the-bill-concerning-the-supreme-court-http-www-politico-eu-article-protests-in-warsaw-a.md)
+### [  Thousands of Poles continue to protest against the bill concerning the Supreme Court. ](/news/2017/07/20/thousands-of-poles-continue-to-protest-against-the-bill-concerning-the-supreme-court.md)
 _Context: Cabinet of Beata Szydlo_
 
 ### [SpaceX CEO Elon Musk says he has received federal government approval for The Boring Company to build an underground 760mph Hyperloop that will connect New York City and Washington, D.C.. ](/news/2017/07/20/spacex-ceo-elon-musk-says-he-has-received-federal-government-approval-for-the-boring-company-to-build-an-underground-760mph-hyperloop-that-w.md)
