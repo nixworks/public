@@ -1,6 +1,6 @@
 ### [2017-07-21](/news/2017/07/21/index.md)
 
-# White House Press Secretary Sean Spicer resigns after Donald Trump appoints Anthony Scaramucci as the White House Communications Director, Sarah Huckabee Sanders takes over as the White House Press Secretary. 
+# White House Press Secretary Sean Spicer resigns after Donald Trump appoints Anthony Scaramucci as the White House Communications Director; Sarah Huckabee Sanders takes over as the White House Press Secretary. 
 
 Mr. Spicer quit after telling President Trump he vehemently disagreed with the appointment of the financier Anthony Scaramucci as communications director.
 
