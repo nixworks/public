@@ -28,7 +28,7 @@ Geneva-based team will investigate ‘abuses that amount to international crimes
 _Context: Alexander Acosta, Andy Puzder, Donald Trump, Florida International University College of Law, Formation of Donald Trump's cabinet, National Labor Relations Board, President of the United States, United States Secretary of Labor_
 
 ### [The U.S. Senate confirms, 51-49, Congressman Mick Mulvaney to head the Office of Management and Budget. ](/news/2017/02/16/the-u-s-senate-confirms-51-49-congressman-mick-mulvaney-to-head-the-office-of-management-and-budget.md)
-_Context: Mick Mulvaney, Office of Management and Budget, Political appointments of Donald Trump, United States Senate_
+_Context: Mick Mulvaney, Office of Management and Budget, Political appointments of Donald Trump, Senate_
 
 ### [Hundreds of restaurants and other businesses in U.S. cities close their doors after activists called on immigrants to stay home from work, avoid shopping or eating out, and skip classes Thursday for #ADayWithoutImmigrants, to protest the President's immigration reforms and highlight the immigrant community's contributions to the United States. ](/news/2017/02/16/hundreds-of-restaurants-and-other-businesses-in-u-s-cities-close-their-doors-after-activists-called-on-immigrants-to-stay-home-from-work-a.md)
 On Thursday, small businesses around the country—many of them restaurants—are closing as their foreign-born employees walk out.

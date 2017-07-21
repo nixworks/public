@@ -1,7 +1,7 @@
 ## [2009-06-28](/news/2009/06/28/index.md)
 
 ### [ The United Kingdom reports its second death from swine flu. ](/news/2009/06/28/the-united-kingdom-reports-its-second-death-from-swine-flu.md)
-_Context: UK, swine flu_
+_Context: United Kingdom, swine flu_
 
 ### [ 2009 Honduran political crisis: President Manuel Zelaya is removed from office by the army ahead of a disputed constitutional referendum and sent to Costa Rica. ](/news/2009/06/28/2009-honduran-political-crisis-p-president-manuel-zelaya-is-removed-from-office-by-the-army-ahead-of-a-disputed-constitutional-referendum-a.md)
 _Context: Costa Rica, Manuel Zelaya, President, constitutional referendum, removed from office_
@@ -13,7 +13,7 @@ _Context: Guinea-Bissau, Joo Bernardo Vieira, acting president, presidential ele
 Albanians were voting in legislative elections seen as crucial for the European future of the country, with polls showing the two main rivals neck and neck.
 
 ### [ Iranian authorities arrest eight employees at the British embassy in Tehran. ](/news/2009/06/28/iranian-authorities-arrest-eight-employees-at-the-british-embassy-in-tehran.md)
-_Context: Iran, Tehran, UK_
+_Context: Iran, Tehran, United Kingdom_
 
 ### [ Voters in Argentina go to the polls for the legislative elections. ](/news/2009/06/28/voters-in-argentina-go-to-the-polls-for-the-legislative-elections.md)
 _Context: Argentina, Argentine legislative elections_

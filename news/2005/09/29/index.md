@@ -16,7 +16,7 @@ _Context: Chinese_
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ By a vote of 78-22, the United States Senate confirms John G. Roberts, Jr. as Chief Justice, presiding over the Supreme Court. Roberts is sworn in later in the afternoon, and will preside over the Court's Fall term beginning October 3.](/news/2005/09/29/by-a-vote-of-78-22-the-united-states-senate-confirms-john-g-roberts-jr-as-chief-justice-presiding-over-the-supreme-court-roberts-is-s.md)
-_Context: Chief Justice, John G. Roberts, Jr., October 3, U.S., U.S. Supreme Court, United States Senate_
+_Context: Chief Justice, John G. Roberts, Jr., October 3, Senate, U.S. Supreme Court, United States_
 
 ### [ The High Court of Australia has found that it is inappropriate for the court to judge whether the Howard Government's unapproved spending on an advertising blitz promoting the controversial industrial relations reform is unlawful.  The case was brought by the Australian Labor Party and trade unions. ](/news/2005/09/29/the-high-court-of-australia-has-found-that-it-is-inappropriate-for-the-court-to-judge-whether-the-howard-government-s-unapproved-spending-o.md)
 _Context: Australian Council of Trade Unions, High Court of Australia, John Howard, Labor Party, industrial relations reform_
@@ -28,7 +28,7 @@ _Context: British Columbia, Supreme Court of Canada, Tobacco Damages and Health 
 _Context: Ian Huntley, Soham murderer Ian Huntley_
 
 ### [ The UK Prime Minister Tony Blair has apologised to Walter Wolfgang, an 82-year old Labour Party activist thrown out of the party's annual conference by stewards for heckling Jack Straw. He was controversially arrested under anti-terrorist legislation.  ](/news/2005/09/29/the-uk-prime-minister-tony-blair-has-apologised-to-walter-wolfgang-an-82-year-old-labour-party-activist-thrown-out-of-the-party-s-annual-c.md)
-_Context: Jack Straw, Labour, Prime Minister, Tony Blair, UK, Walter Wolfgang_
+_Context: Jack Straw, Labour, Prime Minister, Tony Blair, United Kingdom, Walter Wolfgang_
 
 ### [ The government of Macau takes over the management of Banco Delta Asia bank, after a US report on its North Korea ties caused a panic run on deposits. ](/news/2005/09/29/the-government-of-macau-takes-over-the-management-of-banco-delta-asia-bank-after-a-us-report-on-its-north-korea-ties-caused-a-panic-run-on.md)
 _Context: Banco Delta Asia, Macau, North Korea_

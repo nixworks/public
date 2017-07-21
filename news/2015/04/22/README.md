@@ -25,7 +25,7 @@ _Context: Sinking of the MV ''Sewol'', South Korea_
 The Calbuco volcano in southern Chile erupted on Wednesday, forcing the government to declare a “red alert” as it evacuated residents from nearby communities.
 
 ### [The United States Senate unanimously passes a bill to combat human trafficking after a long delay caused by a dispute over abortion funding. ](/news/2015/04/22/the-united-states-senate-unanimously-passes-a-bill-to-combat-human-trafficking-after-a-long-delay-caused-by-a-dispute-over-abortion-funding.md)
-_Context: United States Senate, abortion, human trafficking_
+_Context: Senate, abortion, human trafficking_
 
 ### [ An 11-judge panel of the U.S. Ninth Circuit Court of Appeals overturns the 2011 conviction of all-time Major League Baseball home run leader Barry Bonds on obstruction of justice charges stemming from the BALCO doping scandal. ](/news/2015/04/22/an-11-judge-panel-of-the-u-s-ninth-circuit-court-of-appeals-overturns-the-2011-conviction-of-all-time-major-league-baseball-home-run-leade.md)
 _Context: BALCO doping scandal, Barry Bonds, Major League Baseball, United States Court of Appeals for the Ninth Circuit, obstruction of justice charges_

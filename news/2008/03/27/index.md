@@ -13,13 +13,13 @@ Puerto Rican Gov. Anibal Acevedo Vila and 12 political associates in the Caribbe
 _Context: Bavaria, Germany, Munich, Transrapid, airport, monorail_
 
 ### [ Airbus parent EADS wins a 13 billion contract for airtankers from the United Kingdom. ](/news/2008/03/27/airbus-parent-eads-wins-a-ps13-billion-contract-for-airtankers-from-the-united-kingdom.md)
-_Context: , Airbus, EADS, UK_
+_Context: , Airbus, EADS, United Kingdom_
 
 ### [ The oldest known recording of a human voice, created with a phonautograph by douard-Lon Scott de Martinville on April 9, 1860 is replayed by American researchers. ](/news/2008/03/27/the-oldest-known-recording-of-a-human-voice-created-with-a-phonautograph-by-edouard-leon-scott-de-martinville-on-april-9-1860-is-replayed.md)
 A recording found in Paris is believed to predate Thomas Edison’s invention of the phonograph by nearly 20 years.
 
 ### [ A gunman opens fire at Doctors Hospital in Columbus, Georgia, United States, killing two people and critically wounding one other who later died of his injuries before being shot and wounded by police. ](/news/2008/03/27/a-gunman-opens-fire-at-doctors-hospital-in-columbus-georgia-united-states-killing-two-people-and-critically-wounding-one-other-who-later.md)
-_Context: Columbus, Georgia's, Georgia, U.S._
+_Context: Columbus, Georgia's, Georgia, United States_
 
 ## [Previous Day...](/news/2008/03/26/index.md)
 

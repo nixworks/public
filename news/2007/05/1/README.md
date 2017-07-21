@@ -16,10 +16,10 @@ _Context: Constitutional Court of Turkey, July elections, Turkish Parliament_
 _Context: Palencia, Spain, apartment_
 
 ### [ Police arrest 30 alleged animal rights extremists in raids in the United Kingdom, Belgium and the Netherlands. ](/news/2007/05/1/police-arrest-30-alleged-animal-rights-extremists-in-raids-in-the-united-kingdom-belgium-and-the-netherlands.md)
-_Context: Belgian, Dutch, UK, animal rights, police_
+_Context: Belgian, Dutch, United Kingdom, animal rights, police_
 
 ### [ Deutsche Brse AG, operator of the Frankfurt Stock Exchange, agrees to buy International Securities Exchange the second biggest United States options market for $2.8 billion creating the largest transatlantic derivatives market. ](/news/2007/05/1/deutsche-borse-ag-operator-of-the-frankfurt-stock-exchange-agrees-to-buy-international-securities-exchange-the-second-biggest-united-stat.md)
-_Context: Deutsche Borse, Frankfurt Stock Exchange, International Securities Exchange, U.S., derivatives, market, stock options_
+_Context: Deutsche Borse, Frankfurt Stock Exchange, International Securities Exchange, United States, derivatives, market, stock options_
 
 ### [ Nigerian opposition and civil society groups join trade unions in May Day rallies against the recent presidential election which saw Umaru Yar'Adua elected as the President of Nigeria. ](/news/2007/05/1/nigerian-opposition-and-civil-society-groups-join-trade-unions-in-may-day-rallies-against-the-recent-presidential-election-which-saw-umaru.md)
 _Context: May Day, Nigeria, President of Nigeria, Umaru Yar'Adua, civil society, presidential election, unionize_

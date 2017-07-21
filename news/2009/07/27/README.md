@@ -40,7 +40,7 @@ Garda&iacute; in Waterford are investigating after a significant amount of damag
 _Context: barcode, bokode_
 
 ### [ A British-led military offensive, Operation Panther's Claw, succeeds in clearing the Taliban from parts of southern Helmand Province in Afghanistan. ](/news/2009/07/27/a-british-led-military-offensive-operation-panther-s-claw-succeeds-in-clearing-the-taliban-from-parts-of-southern-helmand-province-in-afg.md)
-_Context: Afghanistan, Helmand Province, Operation Panther's Claw, Taliban, UK_
+_Context: Afghanistan, Helmand Province, Operation Panther's Claw, Taliban, United Kingdom_
 
 ### [ Albanian Prime Minister Sali Berisha's alliance wins enough seats to form a government, though it fell one seat short of a majority. ](/news/2009/07/27/albanian-prime-minister-sali-berisha-s-alliance-wins-enough-seats-to-form-a-government-though-it-fell-one-seat-short-of-a-majority.md)
 _Context: Albania, Prime Minister, Sali Berisha_

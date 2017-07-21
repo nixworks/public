@@ -7,7 +7,7 @@ A eerie turquoise light spotted over Norway has sparked a mystery, with suggesti
 _Context: Israel, Israeli settlement, West Bank_
 
 ### [ British Chancellor of the Exchequer Alistair Darling delivers the pre Budget report, with tax rises and spending cuts to reduce the government debt. ](/news/2009/12/9/british-chancellor-of-the-exchequer-alistair-darling-delivers-the-pre-budget-report-with-tax-rises-and-spending-cuts-to-reduce-the-governm.md)
-_Context: Alistair Darling, Chancellor of the Exchequer, UK_
+_Context: Alistair Darling, Chancellor of the Exchequer, United Kingdom_
 
 ### [ Irish Minister for Finance Brian Lenihan delivers the nation's Budget for 2010. ](/news/2009/12/9/irish-minister-for-finance-brian-lenihan-delivers-the-nation-s-budget-for-2010.md)
 _Context: Brian Lenihan, Jnr, Budget for 2010, Finance Minister, Ireland_

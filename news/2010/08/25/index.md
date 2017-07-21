@@ -28,13 +28,13 @@ A plane crashes in the west of the Democratic Republic of Congo, killing 20 peop
 _Context: 2010 Atlantic hurricane season, Bermuda, Category 4, hurricane_
 
 ### [The former President of the United States Jimmy Carter arrives in North Korea to negotiate for the release of United States citizen Aijalon Gomes. ](/news/2010/08/25/the-former-president-of-the-united-states-jimmy-carter-arrives-in-north-korea-to-negotiate-for-the-release-of-united-states-citizen-aijalon.md)
-_Context: Aijalon Gomes, Jimmy Carter, North Korea, President of the United States, U.S._
+_Context: Aijalon Gomes, Jimmy Carter, North Korea, President of the United States, United States_
 
 ### [Wikileaks publishes a CIA analysis claiming that the United States could be perceived as an "exporter of terrorism". ](/news/2010/08/25/wikileaks-publishes-a-cia-analysis-claiming-that-the-united-states-could-be-perceived-as-an-exporter-of-terrorism.md)
-_Context: CIA, U.S., WikiLeaks, terrorism_
+_Context: CIA, United States, WikiLeaks, terrorism_
 
 ### [Mexican Naval Infantry find 72 corpses at a remote ranch in San Fernando, Tamaulipas, near the border with the US state of Texas. The victims were economic migrants from Central America and South America believed to be murdered by a drug cartel. ](/news/2010/08/25/mexican-naval-infantry-find-72-corpses-at-a-remote-ranch-in-san-fernando-tamaulipas-near-the-border-with-the-us-state-of-texas-the-victim.md)
-_Context: Central America, Mexican Drug War, Mexican marines, San Fernando, Tamaulipas, South America, Texas, U.S._
+_Context: Central America, Mexican Drug War, Mexican marines, San Fernando, Tamaulipas, South America, Texas, United States_
 
 ### [The Royal Canadian Mounted Police arrests two suspects in Ottawa for alleged terrorism offences. ](/news/2010/08/25/the-royal-canadian-mounted-police-arrests-two-suspects-in-ottawa-for-alleged-terrorism-offences.md)
 _Context: Ottawa, Royal Canadian Mounted Police, terrorism_

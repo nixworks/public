@@ -13,10 +13,10 @@ Pro-establishment group threatens to move against red shirts if government fails
 32 boats working to contain, collect oil that is spilling from sunken rig at the rate of 160,000 litres a day
 
 ### [The British ambassador to Yemen, Timothy Torlot, survives an attempted suicide bombing. ](/news/2010/04/26/the-british-ambassador-to-yemen-timothy-torlot-survives-an-attempted-suicide-bombing.md)
-_Context: Timothy Torlot, UK, Yemen's, suicide bombing_
+_Context: Timothy Torlot, United Kingdom, Yemen's, suicide bombing_
 
 ### [Former dictator of Panama, Manuel Noriega is extradited from the United States to France. ](/news/2010/04/26/former-dictator-of-panama-manuel-noriega-is-extradited-from-the-united-states-to-france.md)
-_Context: France, Manuel Noriega, Panama, U.S., extradited_
+_Context: France, Manuel Noriega, Panama, United States, extradited_
 
 ### [Noma, located in Copenhagen, Denmark, is named as the "world's best restaurant" in ''Restaurant'' magazine's annual survey. ](/news/2010/04/26/noma-located-in-copenhagen-denmark-is-named-as-the-world-s-best-restaurant-in-restaurant-magazine-s-annual-survey.md)
 _Context: ''Restaurant'', Copenhagen, Denmark, Noma, annual survey_

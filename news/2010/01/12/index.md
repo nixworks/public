@@ -7,7 +7,7 @@ _Context: Mozdok - Makhachkala - Kazi Magomed pipeline, Republic of Dagestan, Ru
 _Context: Baidu, Chinese, Iran_
 
 ### [Masoud Alimohammadi, an Iranian nuclear physics professor, is killed in a bomb attack in the capital Tehran; Iran state media accuses Israel and the United States of involvement. ](/news/2010/01/12/masoud-alimohammadi-an-iranian-nuclear-physics-professor-is-killed-in-a-bomb-attack-in-the-capital-tehran-iran-state-media-accuses-israel.md)
-_Context: Iran, Israel, Masoud Alimohammadi, Tehran, U.S._
+_Context: Iran, Israel, Masoud Alimohammadi, Tehran, United States_
 
 ### [Mexican Drug War:Mexican authorities report the capture of Teodoro Garcia Simental, one of the country's most notorious drug lords, in a raid in La Paz, Baja California Sur. ](/news/2010/01/12/mexican-drug-war-pmexican-authorities-report-the-capture-of-teodoro-garcaa-simental-one-of-the-country-s-most-notorious-drug-lords-in-a-r.md)
 _Context: La Paz, Baja California Sur, Mexican Drug War, Mexico, Teodoro Garcia Simental_
@@ -37,7 +37,7 @@ Chile News | Breaking News, Views, Analysis
 _Context: European Convention on Human Rights, European Court of Human Rights, Terrorism Act_
 
 ### [The United Kingdom bans the Islamist organisation Al-Muhajiroun and an offshoot group, Islam4UK. ](/news/2010/01/12/the-united-kingdom-bans-the-islamist-organisation-al-muhajiroun-and-an-offshoot-group-islam4uk.md)
-_Context: Al-Muhajiroun, Islam4UK, Islamist, UK_
+_Context: Al-Muhajiroun, Islam4UK, Islamist, United Kingdom_
 
 ### [A gunman kills two people at a bar in Habikino, Japan, before turning the gun on himself. ](/news/2010/01/12/a-gunman-kills-two-people-at-a-bar-in-habikino-japan-before-turning-the-gun-on-himself.md)
 _Context: Habikino, Japan, gunman kills two people_
@@ -49,7 +49,7 @@ _Context: Saudi Arabia, Thailand_
 Four men alleged to have carried out an armed robbery at Heathrow went on trial on Tuesday in an unprecedented case being heard without a jury
 
 ### [Police in Kent, UK, admit the unlawful searching of two 11-year-old children who were left "crying and shaking" after being targeted at a demonstration near Hoo. ](/news/2010/01/12/police-in-kent-uk-admit-the-unlawful-searching-of-two-11-year-old-children-who-were-left-crying-and-shaking-after-being-targeted-at-a-de.md)
-_Context: Hoo, Kent, UK_
+_Context: Hoo, Kent, United Kingdom_
 
 ### [The 1980s Welsh popstar Michael Barrett (Shakin' Stevens) is convicted of assault and criminal damage at a court in Ballymena, Northern Ireland. ](/news/2010/01/12/the-1980s-welsh-popstar-michael-barrett-shakin-stevens-is-convicted-of-assault-and-criminal-damage-at-a-court-in-ballymena-northern-irel.md)
 The 1980s British pop star Shakin&#39; Stevens has been convicted of assaulting a press photographer in Co Antrim.

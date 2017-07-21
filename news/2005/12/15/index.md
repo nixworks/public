@@ -28,7 +28,7 @@ _Context: Kathmandu, Nagarkot, Nepal_
 _Context: Fatah, Marwan Barghouti, Palestinian National Authority, al-Mustaqbal_
 
 ### [ Bradley John Murdoch, convicted murderer of British backpacker Peter Falconio, is sentenced to a non-parole period of 28 years in prison in Australia. ](/news/2005/12/15/bradley-john-murdoch-convicted-murderer-of-british-backpacker-peter-falconio-is-sentenced-to-a-non-parole-period-of-28-years-in-prison-in.md)
-_Context: Australia, Bradley John Murdoch, Murderer, Peter Falconio, UK, backpacker, convicted, prison_
+_Context: Australia, Bradley John Murdoch, Murderer, Peter Falconio, United Kingdom, backpacker, convicted, prison_
 
 ## [Previous Day...](/news/2005/12/14/index.md)
 

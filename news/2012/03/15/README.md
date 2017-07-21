@@ -28,7 +28,7 @@ Former PM Margaret Thatcher was told a senior Merseyside police officer blamed &
 A Ugandan gay rights group sues a US minister accusing him of involvement in a campaign to persecute gay people in the East African country.
 
 ### [A free trade agreement between the United States and South Korea comes into effect. ](/news/2012/03/15/a-free-trade-agreement-between-the-united-states-and-south-korea-comes-into-effect.md)
-_Context: Free Trade Agreement, South Korea, U.S._
+_Context: Free Trade Agreement, South Korea, United States_
 
 ### [The Government of Papua New Guinea reacts angrily after the new Australian Minister for Foreign Affairs Bob Carr threatens the imposition of sanctions if elections are delayed. ](/news/2012/03/15/the-government-of-papua-new-guinea-reacts-angrily-after-the-new-australian-minister-for-foreign-affairs-bob-carr-threatens-the-imposition-of.md)
 PAPUA New Guinea has responded with dismay over Bob Carr&#039;s surprise threat to sanction the country, calling in Australia&#039;s top diplomat in Port Moresby for a dressing down.

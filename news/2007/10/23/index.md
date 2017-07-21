@@ -7,7 +7,7 @@ _Context: Hugo Chavez, President, Venezuela, term limits_
 _Context: 1999-2002 economic crisis, Argentina, December 2001 riots, Fernando de la Rua, President of Argentina_
 
 ### [ Space Shuttle ''Discovery'' successfully lifts off from Kennedy Space Center in Florida in the United States. The Shuttle was carrying the STS-120 crew on an assembly mission to the International Space Station, as well as the Harmony module. ](/news/2007/10/23/space-shuttle-discovery-successfully-lifts-off-from-kennedy-space-center-in-florida-in-the-united-states-the-shuttle-was-carrying-the.md)
-_Context: Discovery, Florida, Harmony module, International Space Station, Kennedy Space Center, STS-120, Space Shuttle, U.S._
+_Context: Discovery, Florida, Harmony module, International Space Station, Kennedy Space Center, STS-120, Space Shuttle, United States_
 
 ### [ Kyrgyz President Kurmanbek Bakiyev signs a decree dissolving the parliament, moving to strengthen his control after voters overwhelmingly approved constitutional changes in a referendum called by the president. ](/news/2007/10/23/kyrgyz-president-kurmanbek-bakiyev-signs-a-decree-dissolving-the-parliament-moving-to-strengthen-his-control-after-voters-overwhelmingly-a.md)
 _Context: Kyrgyzstan, President, President, constitutional changes in a referendum_
@@ -28,7 +28,7 @@ Towering wildfires burned out of control across Southern California for a third 
 _Context: Idris Osman, Somalia, World Food Programme_
 
 ### [ Nike agrees to buy United Kingdom sportswear firm Umbro for PS285 million. ](/news/2007/10/23/nike-agrees-to-buy-united-kingdom-sportswear-firm-umbro-for-aps285-million.md)
-_Context: Nike, Inc., PS, UK, Umbro, sportswear_
+_Context: Nike, Inc., PS, Umbro, United Kingdom, sportswear_
 
 ### [ A United States Government report states that the Department of State is unable to account for much of the $1.2 billion in funding that it gave to DynCorp International to train Iraqi police. ](/news/2007/10/23/a-united-states-government-report-states-that-the-department-of-state-is-unable-to-account-for-much-of-the-1-2-billion-in-funding-that-it.md)
 _Context: DynCorp International, Iraq, State Department's, US$, United States government_

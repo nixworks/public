@@ -16,7 +16,7 @@ _Context: Conflict in Iraq, Hilla, suicide bomb_
 _Context: Canadian House of Commons, Canadian Prime Minister, Canadian federal election, 2006, Leader of the Opposition, Liberal Party's, Paul Martin, Stephen Harper, minority government, no-confidence, opposition parties_
 
 ### [ There are further calls in the media and Parliament of the United Kingdom for Prime Minister Tony Blair to publish a full account of his discussions with US President Bush on the bombing of Al Jazeera TV station headquarters in Doha. A memo on the conversation has been partly leaked to the ''Daily Mirror'' newspaper, before the Official Secrets Act was invoked. ](/news/2005/11/24/there-are-further-calls-in-the-media-and-parliament-of-the-united-kingdom-for-prime-minister-tony-blair-to-publish-a-full-account-of-his-di.md)
-_Context: Al Jazeera, British House of Commons, Daily Mirror, Doha, George W. Bush, Tony Blair, UK, media_
+_Context: Al Jazeera, British House of Commons, Daily Mirror, Doha, George W. Bush, Tony Blair, United Kingdom, media_
 
 ## [Previous Day...](/news/2005/11/23/index.md)
 

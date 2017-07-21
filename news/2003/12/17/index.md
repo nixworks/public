@@ -22,16 +22,16 @@ _Context: England, Holly Wells, Ian Huntley, Jessica Chapman, Maxine Carr, Soham
 _Context: SARS, Taiwan_
 
 ### [ The United States National Weather Service warns of "excessive heat" after the Earth reportedly breaks out of its orbit and begins falling into the sun. Fortunately, it turns out to be a mistakenly published test message. [http://www.informationweek.com/story/showArticle.jhtml?articleID=17000138]](/news/2003/12/17/the-united-states-national-weather-service-warns-of-excessive-heat-after-the-earth-reportedly-breaks-out-of-its-orbit-and-begins-falling.md)
-_Context: Earth, National Weather Service, Sun, U.S._
+_Context: Earth, National Weather Service, Sun, United States_
 
 ### [ ''The Lord of the Rings: The Return of the King'', the final part of Peter Jackson's film adaptation of J. R. R. Tolkien's ''The Lord of the Rings'', goes on broad public release in the United States and much of Europe. Industry pundits predicted that it could have become the second film, after ''Titanic'', to earn over US$1 billion at the box office. [http://news.bbc.co.uk/1/hi/entertainment/film/3325051.stm]](/news/2003/12/17/the-lord-of-the-rings-the-return-of-the-king-the-final-part-of-peter-jackson-s-film-adaptation-of-j-r-r-tolkien-s-the-lord-of-th.md)
-_Context: Europe, J. R. R. Tolkien, Peter Jackson, The Lord of the Rings, The Lord of the Rings: The Return of the King, Titanic, U.S._
+_Context: Europe, J. R. R. Tolkien, Peter Jackson, The Lord of the Rings, The Lord of the Rings: The Return of the King, Titanic, United States_
 
 ### [Republic of Congo: A gunbattle breaks out in Brazzaville.[http://story.news.yahoo.com/news?tmpl=story&u=/ap/20031217/ap_on_re_af/republic_of_congo_fighting]](/news/2003/12/17/republic-of-congo-a-gunbattle-breaks-out-in-brazzaville-http-story-news-yahoo-com-news-tmpl-story-u-ap-20031217-ap_on_re_af-republic_of.md)
 _Context: Brazzaville, Republic of Congo_
 
 ### [Health: The UK government says that a case of variant Creutzfeldt-Jakob disease may have occurred through blood transfusion. [http://news.bbc.co.uk/1/hi/health/3327745.stm]](/news/2003/12/17/health-the-uk-government-says-that-a-case-of-variant-creutzfeldtajakob-disease-may-have-occurred-through-blood-transfusion-http-news.md)
-_Context: UK, blood transfusion, health, variant Creutzfeldt-Jakob disease_
+_Context: United Kingdom, blood transfusion, health, variant Creutzfeldt-Jakob disease_
 
 ### [Former Governor of Illinois George H. Ryan is indicted on corruption charges for receiving payoffs, gifts and vacations in return for government contracts and leases while he served as the Governor and Secretary of State of Illinois. [http://www.dallasnews.com/sharedcontent/dallas/politics/national/stories/121703dnnatindict.9f1c0.html]](/news/2003/12/17/former-governor-of-illinois-george-h-ryan-is-indicted-on-corruption-charges-for-receiving-payoffs-gifts-and-vacations-in-return-for-govern.md)
 _Context: George H. Ryan, Governor of Illinois, Illinois_

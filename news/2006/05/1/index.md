@@ -10,7 +10,7 @@ _Context: Baburam Bhattarai, Girija Prasad Koirala, Gyanendra of Nepal, Maoist s
 _Context: Chadian government, Chadian rebels, Donald Yamamoto, Idriss Deby, President of Chad, presidential elections_
 
 ### [ Spain, Portugal, Finland and Greece join the United Kingdom, Republic of Ireland and Sweden in allowing workers from the ten countries which joined the European Union two years ago free access to their labour markets. ](/news/2006/05/1/spain-portugal-finland-and-greece-join-the-united-kingdom-republic-of-ireland-and-sweden-in-allowing-workers-from-the-ten-countries-whic.md)
-_Context: European Union, Finland, Greece, Ireland, Portugal, Spain, Sweden, UK_
+_Context: European Union, Finland, Greece, Ireland, Portugal, Spain, Sweden, United Kingdom_
 
 ### [ Bolivian Gas War: President Evo Morales has signed a decree nationalising the nation's natural gas industry, instructing foreign energy firms to channel their activities through the Bolivian government within a six-month deadline or face expulsion, and ordering the Bolivian military to occupy and secure key energy installations. ](/news/2006/05/1/bolivian-gas-war-president-evo-morales-has-signed-a-decree-nationalising-the-nation-s-natural-gas-industry-instructing-foreign-energy-fir.md)
 _Context: Bolivian Gas War, Bolivian military, Evo Morales, President of Bolivia, nationalising, natural gas_
@@ -28,7 +28,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Beaconsfield mine collapse, Beaconsfield, Tasmania_
 
 ### [ Immigrant workers and their supporters across the United States stay home from work or school and abstain from commerce during the 2006 Immigration Policy Boycott in the United States, also called the "Great American Boycott" or "Day Without Immigrants", a protest against the enforcement of immigration law. Demonstrations are planned nationwide. In Latin America, a one-day boycott of American products called the "Nothing Gringo Boycott" is planned in conjunction with U.S. events. ](/news/2006/05/1/immigrant-workers-and-their-supporters-across-the-united-states-stay-home-from-work-or-school-and-abstain-from-commerce-during-the-2006-imm.md)
-_Context: 2006 Immigration Policy Boycott in the United States, Latin America, U.S., demonstration_
+_Context: 2006 Immigration Policy Boycott in the United States, Latin America, United States, demonstration_
 
 ### [ Asian Pacific American Heritage Month: The first day of Asian American and Pacific Islander Heritage Month in the United States.](/news/2006/05/1/asian-pacific-american-heritage-month-the-first-day-of-asian-american-and-pacific-islander-heritage-month-in-the-united-states.md)
 _Context: Asian Pacific American Heritage Month_

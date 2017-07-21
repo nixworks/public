@@ -16,7 +16,7 @@ Fifteen refugees killed in Sinai as they reportedly attempt to enter Israel to s
 The United States has carried out a fresh delivery of ammunition to fighters from the Syrian Arab Coalition battling Islamic State in northern Syria, pushing ahead with a strategy that initially unnerved ally Turkey, a U.S. official told Reuters on Sunday.
 
 ### [Daily fantasy sports companies DraftKings and FanDuel, who are fighting New York's cease-and-desist order that their industry is gambling in the U.S. state, apparently are OK with that label in the United Kingdom. DraftKings obtained a British gambling license in August and FanDuel applied for one earlier this month. ](/news/2015/11/15/daily-fantasy-sports-companies-draftkings-and-fanduel-who-are-fighting-new-york-s-cease-and-desist-order-that-their-industry-is-gambling-in.md)
-_Context: Daily fantasy sports, DraftKings, FanDuel, New York, UK_
+_Context: Daily fantasy sports, DraftKings, FanDuel, New York, United Kingdom_
 
 ### [The death toll from a landslide on Friday in China's Zhejiang province rises to 16 with 21 still missing. ](/news/2015/11/15/the-death-toll-from-a-landslide-on-friday-in-china-s-zhejiang-province-rises-to-16-with-21-still-missing.md)
 _Context: China, Zhejiang_

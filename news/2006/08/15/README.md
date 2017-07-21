@@ -7,7 +7,7 @@ _Context: Junichiro Koizumi, Yasukuni Shrine_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ The United Kingdom government is to seek Parliamentary approval to grant posthumous pardons for over 300 soldiers executed for cowardice during the First World War. The soldiers' families have long claimed that they were suffering from shell shock (Post traumatic stress disorder). ](/news/2006/08/15/the-united-kingdom-government-is-to-seek-parliamentary-approval-to-grant-posthumous-pardons-for-over-300-soldiers-executed-for-cowardice-du.md)
-_Context: First World War, Post traumatic stress disorder, UK, United Kingdom parliament, shell shock_
+_Context: First World War, Post traumatic stress disorder, United Kingdom, United Kingdom parliament, shell shock_
 
 ### [ New Jersey Transit says that service has been suspended between New York's Penn Station and Secaucus due to a suspicious item found on the tracks east of the Secaucus junction. ](/news/2006/08/15/new-jersey-transit-says-that-service-has-been-suspended-between-new-york-s-penn-station-and-secaucus-due-to-a-suspicious-item-found-on-the.md)
 _Context: New Jersey Transit, New York, Penn Station, Secaucus_

@@ -1,7 +1,7 @@
 ## [2002-09-30](/news/2002/09/30/index.md)
 
 ### [ Senator Robert Torricelli (D-NJ) withdraws from his campaign for reelection following ethics scandals.](/news/2002/09/30/senator-robert-torricelli-d-nj-withdraws-from-his-campaign-for-reelection-following-ethics-scandals.md)
-_Context: Democratic Party, New Jersey, Robert Torricelli, United States Senate_
+_Context: Democratic Party, New Jersey, Robert Torricelli, Senate_
 
 ### [ NOAA and NASA researchers announce the ozone hole over Antarctica has grown markedly smaller since last year and has broken into two, due to warmer temperatures.](/news/2002/09/30/noaa-and-nasa-researchers-announce-the-ozone-hole-over-antarctica-has-grown-markedly-smaller-since-last-year-and-has-broken-into-two-due-t.md)
 _Context: Antarctica, NASA, NOAA, ozone hole_

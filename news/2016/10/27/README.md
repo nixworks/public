@@ -13,7 +13,7 @@ Jan Bartunek and Philip Blenkinsop
 By Tommy Wilkes and Amjad Ali NEW DELHI/ISLAMABAD (Reuters) - India and Pakistan on Thursday announced they would each expel one of the other&#039;s ...
 
 ### [The San Francisco Police Department halts a training program between itself and the Philippine National Police over allegations of civil rights violations committed under the guise of the Philippine Drug War. ](/news/2016/10/27/the-san-francisco-police-department-halts-a-training-program-between-itself-and-the-philippine-national-police-over-allegations-of-civil-rig.md)
-_Context: Philippine Drug War, Philippine National Police, Philippines-United States relations, San Francisco Police Department, civil rights_
+_Context: Philippine National Police, Philippines's war against illegal drugs, Philippines-United States relations, San Francisco Police Department, civil rights_
 
 ### [ Seven members of the militia who occupied the wildlife refuge, including the leader Ammon Bundy, was acquitted of all federal charges related to the takeover. ](/news/2016/10/27/seven-members-of-the-militia-who-occupied-the-wildlife-refuge-including-the-leader-ammon-bundy-was-acquitted-of-all-federal-charges-relat.md)
 _Context: Ammon Bundy, Occupation of the Malheur National Wildlife Refuge_

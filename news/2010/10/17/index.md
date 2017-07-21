@@ -22,7 +22,7 @@ _Context: Australia, Mary MacKillop, Pope Benedict XVI, Saint Peter's Square, Va
 _Context: $50 billion government bailout, General Motors, Michigan, a new car plant, tax incentive_
 
 ### [Workers in Hilton Hotels in the US cities of Chicago, San Francisco, and Honolulu continue a strike over what they claim are efforts to "lock workers into cheap recession contracts." ](/news/2010/10/17/workers-in-hilton-hotels-in-the-us-cities-of-chicago-san-francisco-and-honolulu-continue-a-strike-over-what-they-claim-are-efforts-to-loc.md)
-_Context: Chicago, Hilton Hotels, Honolulu, San Francisco, U.S., strike_
+_Context: Chicago, Hilton Hotels, Honolulu, San Francisco, United States, strike_
 
 ### [The Philippines prepares for Typhoon Megi, potentially the strongest typhoon to hit the country this year. ](/news/2010/10/17/the-philippines-prepares-for-typhoon-megi-potentially-the-strongest-typhoon-to-hit-the-country-this-year.md)
 Authorities in the Philippines are preparing for the onslaught of Typhoon Megi, the tenth tropical cyclone and the strongest to hit the country this year.
@@ -70,7 +70,7 @@ _Context: Afghanistan, Hossein Zolfaqari, Iran_
 _Context: Rome_
 
 ### [The U.K. government urges councils to stop giving charity tax breaks to Scientology, an organization described as a cult by a high court judge. ](/news/2010/10/17/the-u-k-government-urges-councils-to-stop-giving-charity-tax-breaks-to-scientology-an-organization-described-as-a-cult-by-a-high-court-jud.md)
-_Context: Scientology, UK, cult_
+_Context: Scientology, United Kingdom, cult_
 
 ### [Olive Lembe di Sita, the First Lady of the Democratic Republic of the Congo, leads a march of thousands of women against sexual violence in the town of Bukavu in the east of the country where hundreds of women have been raped. ](/news/2010/10/17/olive-lembe-di-sita-the-first-lady-of-the-democratic-republic-of-the-congo-leads-a-march-of-thousands-of-women-against-sexual-violence-in.md)
 _Context: Bukavu, Democratic Republic of the Congo, First Lady, Olive Lembe di Sita, sexual violence_

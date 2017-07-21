@@ -13,7 +13,7 @@ _Context: Italian, Linate Airport, Milan, hare, radar_
 _Context: 24 Hours of Le Mans, Audi, R10, diesel, prototype_
 
 ### [ A Canadian pilot and five British passengers die in a plane crash in Malawi. ](/news/2007/06/17/a-canadian-pilot-and-five-british-passengers-die-in-a-plane-crash-in-malawi.md)
-_Context: Canadian, Malawi, UK, plane crash_
+_Context: Canadian, Malawi, United Kingdom, plane crash_
 
 ### [ Mahmoud Abbas, president of the Palestinian National Authority, outlaws armed factions of Hamas. ](/news/2007/06/17/mahmoud-abbas-president-of-the-palestinian-national-authority-outlaws-armed-factions-of-hamas.md)
 _Context: Hamas, Mahmoud Abbas, Palestinian Authority President, outlaw_

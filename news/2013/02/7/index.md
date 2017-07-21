@@ -25,7 +25,7 @@ Two Russian fighter jets have violated Japanese airspace, prompting Tokyo to scr
 _Context: Bucharest, Hungary, Romania_
 
 ### [The Supreme Leader of Iran Ali Khamenei accuses the United States of "holding a gun" to Tehran's head to pressure it to hold direct talks and states that it's very unlikely that these talks may take place. ](/news/2013/02/7/the-supreme-leader-of-iran-ali-khamenei-accuses-the-united-states-of-holding-a-gun-to-tehran-s-head-to-pressure-it-to-hold-direct-talks-an.md)
-_Context: Ali Khamenei, Iran, Supreme Leader of Iran, Tehran, U.S._
+_Context: Ali Khamenei, Iran, Supreme Leader of Iran, Tehran, United States_
 
 ### [South Korean soldiers on the world's most heavily armed border now have orders to shoot back immediately if they come under attack. ](/news/2013/02/7/south-korean-soldiers-on-the-world-s-most-heavily-armed-border-now-have-orders-to-shoot-back-immediately-if-they-come-under-attack.md)
 _Context: South Korea, world's most heavily armed border_
@@ -37,7 +37,7 @@ _Context: 2013 Southern California shootings, California State University, Fulle
 _Context: Chokri Belaid, Ennahda, Hamadi Jebali, Prime Minister of Tunisia, Tunisia_
 
 ### [UK Secretary of State for Education Michael Gove confirms that plans to replace the General Certificate of Secondary Education with a new English Baccalaureate qualification have been abandoned. ](/news/2013/02/7/uk-secretary-of-state-for-education-michael-gove-confirms-that-plans-to-replace-the-general-certificate-of-secondary-education-with-a-new-en.md)
-_Context: English Baccalaureate, General Certificate of Secondary Education, Michael Gove, Secretary of State for Education, UK_
+_Context: English Baccalaureate, General Certificate of Secondary Education, Michael Gove, Secretary of State for Education, United Kingdom_
 
 ### [Canadian Senator Patrick Brazeau is arrested over an incident relating to domestic violence. The ruling Conservative Party of Canada in response removes him from caucus. ](/news/2013/02/7/canadian-senator-patrick-brazeau-is-arrested-over-an-incident-relating-to-domestic-violence-the-ruling-conservative-party-of-canada-in-resp.md)
 _Context: Canadian Senator, Conservative Party's, Patrick Brazeau, caucus_

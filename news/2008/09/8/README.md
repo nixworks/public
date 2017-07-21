@@ -7,7 +7,7 @@ Angola’s governing party took a lead in a parliamentary election and is on tra
 _Context: Andy Murray, Roger Federer, U.S. Tennis Open_
 
 ### [ Washington Mutual, the largest savings and loan in the United States, ousts Chief Executive Kerry Killinger as a result of losses incurred as a result of the subprime mortgage crisis. ](/news/2008/09/8/washington-mutual-the-largest-savings-and-loan-in-the-united-states-ousts-chief-executive-kerry-killinger-as-a-result-of-losses-incurred.md)
-_Context: Kerry Killinger, U.S., Washington Mutual, chief executive, housing crisis, savings and loan_
+_Context: Kerry Killinger, United States, Washington Mutual, chief executive, housing crisis, savings and loan_
 
 ### [ A landslide triggered by heavy rain strikes a warehouse in Linfen in Shanxi province, China, killing at least 26 people and injuring others. ](/news/2008/09/8/a-landslide-triggered-by-heavy-rain-strikes-a-warehouse-in-linfen-in-shanxi-province-china-killing-at-least-26-people-and-injuring-others.md)
 Heavy rain triggered a landslide triggered that killed at least 34 people in northern China on Monday, trapping an unknown number of other victims, a state news agency reported.
@@ -22,7 +22,7 @@ _Context: Afghanistan, Azizabad, Herat Province, US military, civilian_
 _Context: 2008 South Ossetia war, Abkhazia, Dmitry Medvedev, Georgia, Moscow, Nicolas Sarkozy, President of France, President of Russia, Russian security forces, South Ossetia_
 
 ### [ Three British Muslim men are found guilty of conspiracy to murder relating to the 2006 transatlantic aircraft plot. ](/news/2008/09/8/three-british-muslim-men-are-found-guilty-of-conspiracy-to-murder-relating-to-the-2006-transatlantic-aircraft-plot.md)
-_Context: 2006 transatlantic aircraft plot, UK, conspiracy, murder_
+_Context: 2006 transatlantic aircraft plot, United Kingdom, conspiracy, murder_
 
 ## [Previous Day...](/news/2008/09/7/index.md)
 

@@ -10,7 +10,7 @@ Libertas founder Declan Ganley says next month&#39;s referendum on the Lisbon Tr
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 ### [ Zimbabwe's President Robert Mugabe condemns "bloody whites" for meddling in his country's affairs, specifically perceived British and American interference. ](/news/2009/09/11/zimbabwe-s-president-robert-mugabe-condemns-bloody-whites-for-meddling-in-his-country-s-affairs-specifically-perceived-british-and-ameri.md)
-_Context: President of Zimbabwe, Robert Mugabe, U.S., UK, Zimbabwe_
+_Context: President of Zimbabwe, Robert Mugabe, United Kingdom, United States, Zimbabwe_
 
 ### [ President Vladimir Voronin of Moldova resigns. ](/news/2009/09/11/president-vladimir-voronin-of-moldova-resigns.md)
 _Context: Moldova, Moldovan President, Vladimir Voronin_
@@ -19,7 +19,7 @@ _Context: Moldova, Moldovan President, Vladimir Voronin_
 _Context: Borut Pahor, Croatia, Gulf of Piran, Jadranka Kosor, Prime Minister of Slovenia, Slovenia, Slovenia's blockade of Croatia's EU accession, prime minister_
 
 ### [ A Kenyan magistrate sentences Jon Cardon Wagner, an American who founded the popular chain of coffee shops, Nairobi Java House, to 15 years of imprisonment for the statutory rape of three teenage Kenyan girls. ](/news/2009/09/11/a-kenyan-magistrate-sentences-jon-cardon-wagner-an-american-who-founded-the-popular-chain-of-coffee-shops-nairobi-java-house-to-15-years.md)
-_Context: Jon Cardon Wagner, Kenya, Nairobi Java House, U.S._
+_Context: Jon Cardon Wagner, Kenya, Nairobi Java House, United States_
 
 ### [ The oldest person in the world, Gertrude Baines, dies in Los Angeles aged 115. ](/news/2009/09/11/the-oldest-person-in-the-world-gertrude-baines-dies-in-los-angeles-aged-115.md)
 The world&#39;s oldest person has died at the age of 115 in Los Angeles.
@@ -28,7 +28,7 @@ The world&#39;s oldest person has died at the age of 115 in Los Angeles.
 Kidnapped GOAL aid-worker Sharon Commins has made contact with her family in Ireland.
 
 ### [ NASA's Space Shuttle ''Discovery'' lands at the Edwards Air Force Base in California, USA. ](/news/2009/09/11/nasa-s-space-shuttle-discovery-lands-at-the-edwards-air-force-base-in-california-usa.md)
-_Context: California, Discovery, Edwards Air Force Base, NASA, U.S._
+_Context: California, Discovery, Edwards Air Force Base, NASA, United States_
 
 ### [ Venezuelan President Hugo Chvez announces the discovery of a vast gas field off the coast of his country, one of the world's largest finds. ](/news/2009/09/11/venezuelan-president-hugo-chavez-announces-the-discovery-of-a-vast-gas-field-off-the-coast-of-his-country-one-of-the-world-s-largest-finds.md)
 Spain&rsquo;s biggest oil company Repsol-YPF announced on Friday the discovery of a Venezuelan gas field containing as much as 8 trillion cubic feet of fuel, equivalent to 1.2 to 1.4 billion barrels, one of the world&rsquo;s largest finds.

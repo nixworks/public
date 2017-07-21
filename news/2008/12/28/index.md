@@ -7,7 +7,7 @@ _Context: fire_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [The United States vetoes a United Nations Security Council resolution aimed at stopping Israeli airstrikes against Gaza. UN Secretary-General Ban Ki-moon and the United Kingdom, European Union, Russia, France, and China all call for a ceasefire. ](/news/2008/12/28/the-united-states-vetoes-a-united-nations-security-council-resolution-aimed-at-stopping-israeli-airstrikes-against-gaza-un-secretary-genera.md)
-_Context: Ban Ki-moon, Chinese, European Union, France, Russia, Secretary General, U.S., UK, United Nations, United Nations Security Council, United Nations Security Council resolution, ceasefire, vetoes_
+_Context: Ban Ki-moon, Chinese, European Union, France, Russia, Secretary General, United Kingdom, United Nations, United Nations Security Council, United Nations Security Council resolution, United States, ceasefire, vetoes_
 
 ### [ 2008 Garamba offensive: Uganda's People's Defence Force accuses the Lord's Resistance Army of hacking to death 45 people in a church in the Democratic Republic of the Congo. ](/news/2008/12/28/2008-garamba-offensive-uganda-s-people-s-defence-force-accuses-the-lord-s-resistance-army-of-hacking-to-death-45-people-in-a-church-in-the.md)
 _Context: 2008 Garamba offensive, Democratic Republic of the Congo, Lord's Resistance Army, Uganda, Ugandan soldier_

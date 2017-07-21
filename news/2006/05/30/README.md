@@ -4,7 +4,7 @@
 _Context: Democratic Progressive Party, Taiwan, Taiwan, Three Links, coalition allies, legislative chamber, mainland China_
 
 ### [ British mobile phone operator Vodafone posts the largest annual loss in British corporate history &ndash; 21.8 billion &ndash; as it writes down the value of company purchases made mainly in Germany in the years up to 2000. ](/news/2006/05/30/british-mobile-phone-operator-vodafone-posts-the-largest-annual-loss-in-british-corporate-history-ndash-ps21-8-billion-ndash-as-it-write.md)
-_Context: Germany, PS, UK, Vodafone Group Plc, mobile phone_
+_Context: Germany, PS, United Kingdom, Vodafone Group Plc, mobile phone_
 
 ### [ The board of the Engelhard Corporation agreed to a takeover by BASF. BASF will become the world's largest manufacturer of catalytic converters. BASF will pay USD 5.0 billion for Engelhard, which translates to $39 per share. ](/news/2006/05/30/the-board-of-the-engelhard-corporation-agreed-to-a-takeover-by-basf-basf-will-become-the-world-s-largest-manufacturer-of-catalytic-convert.md)
 _Context: BASF, Engelhard, US$, catalytic converter_
@@ -13,7 +13,7 @@ _Context: BASF, Engelhard, US$, catalytic converter_
 _Context: Democratic Republic of the Congo, Ituri, Nationalist and Integrationist Front, United Nations, peacekeepers_
 
 ### [ The European Court of Justice rules illegal an EU-US agreement to pass airline passenger data to the US authorities, as it does not ensure privacy protection for European passengers. ](/news/2006/05/30/the-european-court-of-justice-rules-illegal-an-eu-us-agreement-to-pass-airline-passenger-data-to-the-us-authorities-as-it-does-not-ensure.md)
-_Context: European Court of Justice, European Union, U.S._
+_Context: European Court of Justice, European Union, United States_
 
 ### [ The Constitutional Council of Chad, the highest court in Chad, confirms Idriss Dby's victory in the presidential elections which took place on May 3, 2006. However, the court only gives him 64.67% of the vote, instead of his administration's claim of 77.4%. Turnout was also reduced to 53.08% instead of the previous 60%. ](/news/2006/05/30/the-constitutional-council-of-chad-the-highest-court-in-chad-confirms-idriss-deby-s-victory-in-the-presidential-elections-which-took-plac.md)
 _Context: Chad, Constitutional Council of Chad, Idriss Deby, presidential elections_

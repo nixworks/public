@@ -4,7 +4,7 @@
 _Context: 1918, 1922, Austro-Hungarian, Crown Prince, Germany, Holy See, Karl, Member of the European Parliament, Otto von Habsburg, Zita of Bourbon-Parma, beatified, emperor, saints_
 
 ### [ CCTV footage at Hampton Court Palace near London, once home of King Henry VIII of England, is released, and claimed to show a "ghost". The footage, taken in October 2003, shows a man in 16th century clothes closing a firedoor that had blown open. The palace markets itself as one of Britain's most haunted locations. ](/news/2003/12/20/cctv-footage-at-hampton-court-palace-near-london-once-home-of-king-henry-viii-of-england-is-released-and-claimed-to-show-a-ghost-the.md)
-_Context: 16th-century, CCTV, Hampton Court, Henry VIII of England, UK, ghost_
+_Context: 16th-century, CCTV, Hampton Court, Henry VIII of England, United Kingdom, ghost_
 
 ### [Celebrations marking the Bicentennial of the Louisiana Purchase culminate in New Orleans, Louisiana. [http://www.ajc.com/news/content/news/1203/20louisiana.html]](/news/2003/12/20/celebrations-marking-the-bicentennial-of-the-louisiana-purchase-culminate-in-new-orleans-louisiana-http-www-ajc-com-news-content-news-1.md)
 _Context: Louisiana Purchase, New Orleans, Louisiana_
@@ -25,7 +25,7 @@ _Context: Iraq, Jos Mara Aznar, Prime Minister, Spain_
 _Context: Philippines_
 
 ### [A Malaysian opposition website is shut down by its British web-hosting company amid claims of "political censorship" from the opposition. [http://news.bbc.co.uk/2/hi/asia-pacific/3337019.stm] ](/news/2003/12/20/a-malaysian-opposition-website-is-shut-down-by-its-british-web-hosting-company-amid-claims-of-political-censorship-from-the-opposition-h.md)
-_Context: Malaysia, UK, website_
+_Context: Malaysia, United Kingdom, website_
 
 ### [ Zimbabwean opposition leader Morgan Tsvangirai tells his supporters to "fight fear" as they campaign against President Robert Mugabe. His comments follow the decision of Zimbabwe's police to occupy the offices of Zimbabwe's only privately owned newspaper in defiance of a court order that the newspaper could resume publication. [http://news.bbc.co.uk/2/hi/africa/3337147.stm]](/news/2003/12/20/zimbabwean-opposition-leader-morgan-tsvangirai-tells-his-supporters-to-fight-fear-as-they-campaign-against-president-robert-mugabe-his-c.md)
 _Context: Morgan Tsvangirai, Robert Mugabe, Zimbabwe, newspaper_

@@ -7,7 +7,7 @@ _Context: Rhesus Macaque, Science, genome, scientific journal_
 _Context: Police Coast Guard, Singapore_
 
 ### [ The United States Senate holds hearings on the 2007 pet food recalls. ](/news/2007/04/13/the-united-states-senate-holds-hearings-on-the-2007-pet-food-recalls.md)
-_Context: 2007 pet food recalls, United States Senate_
+_Context: 2007 pet food recalls, Senate_
 
 ### [ A NASA Review Board finds that the Mars Global Surveyor stopped working in November 2006 due to computer programming errors. ](/news/2007/04/13/a-nasa-review-board-finds-that-the-mars-global-surveyor-stopped-working-in-november-2006-due-to-computer-programming-errors.md)
 An errant command placed in the wrong location of the Mars Global Surveyor’s computer memory implanted a fatal defect in the spacecraft.

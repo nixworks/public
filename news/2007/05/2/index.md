@@ -25,7 +25,7 @@ _Context: Bali, Bali Nine, Jakarta, death row_
 _Context: Avigdor Yitzhaki, Ehud Olmert, Foreign Minister of Israel, Israeli Prime Minister, Israeli-Lebanese war of 2006, Kadima, Tzipi Livni_
 
 ### [ Four people are killed in a helicopter crash in Cambridgeshire, United Kingdom. ](/news/2007/05/2/four-people-are-killed-in-a-helicopter-crash-in-cambridgeshire-united-kingdom.md)
-_Context: Cambridgeshire, UK, helicopter, incidents_
+_Context: Cambridgeshire, United Kingdom, helicopter, incidents_
 
 ### [ A train carrying solid-fuel booster segments for the space shuttle programme is involved in a bridge collapse in Alabama, injuring six people, two seriously. ](/news/2007/05/2/a-train-carrying-solid-fuel-booster-segments-for-the-space-shuttle-programme-is-involved-in-a-bridge-collapse-in-alabama-injuring-six-peop.md)
 _Context: Alabama, Space Shuttle_

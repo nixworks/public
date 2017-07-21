@@ -22,7 +22,7 @@ _Context: Puntland, Somalia, Somaliland_
 _Context: Afghanistan, Leon Panetta, Nazi, Schutzstaffel, Secretary of Defense, United States Marine Corps, sniper_
 
 ### [The United States Central Intelligence Agency website  and Alabama state websites go down with reports that Anonymous is responsible. ](/news/2012/02/10/the-united-states-central-intelligence-agency-website-and-alabama-state-websites-go-down-with-reports-that-anonymous-is-responsible.md)
-_Context: Alabama, Central Intelligence Agency, U.S., hacker group Anonymous_
+_Context: Alabama, Central Intelligence Agency, United States, hacker group Anonymous_
 
 ### [A new book of poetry by President of Ireland Michael D. Higgins is negatively reviewed by leading critic Professor Kevin Kiely, who says the President "can be accused of crimes against literature". ](/news/2012/02/10/a-new-book-of-poetry-by-president-of-ireland-michael-d-higgins-is-negatively-reviewed-by-leading-critic-professor-kevin-kiely-who-says-the.md)
 _Context: Michael D. Higgins, President_

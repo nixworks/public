@@ -31,7 +31,7 @@ Chinese police used pepper spray, tear gas and water cannon to break up an anti-
 _Context: China, Japan, Tokyo_
 
 ### [US Defence Secretary Leon Panetta urges China and its neighbours not to engage in "provocative behaviour" over maritime border disputes. ](/news/2012/09/16/us-defence-secretary-leon-panetta-urges-china-and-its-neighbours-not-to-engage-in-provocative-behaviour-over-maritime-border-disputes.md)
-_Context: Leon Panetta, Secretary of Defense, U.S., maritime border disputes_
+_Context: Leon Panetta, Secretary of Defense, United States, maritime border disputes_
 
 ### [The Egyptian Army now names Operation Eagle as Operation Sinai. ](/news/2012/09/16/the-egyptian-army-now-names-operation-eagle-as-operation-sinai.md)
 _Context: Egyptian Army, Operation Eagle, Operation Sinai_

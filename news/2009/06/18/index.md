@@ -7,7 +7,7 @@ _Context: Hawaii, North Korea_
 _Context: Atlas V, LCROSS, LRO, Moon, explore_
 
 ### [ Continental Flight 61, a Boeing 777 containing 247 passengers flying from Brussels, Belgium, to Newark, New Jersey, United States, lands safely at Newark Liberty International Airport, after the 61-year-old pilot died mid-flight.  ](/news/2009/06/18/continental-flight-61-a-boeing-777-containing-247-passengers-flying-from-brussels-belgium-to-newark-new-jersey-united-states-lands-sa.md)
-_Context: Belgian, Boeing 777, Brussels, Continental Airlines, Newark Liberty International Airport, Newark, New Jersey's, U.S., pilot_
+_Context: Belgian, Boeing 777, Brussels, Continental Airlines, Newark Liberty International Airport, Newark, New Jersey's, United States, pilot_
 
 ### [ 2009 Iranian election protests: Iran is accused of altering ](/news/2009/06/18/2009-iranian-election-protests-p-iran-is-accused-of-altering.md)
 _Context: altering, protests against the regime_
@@ -22,10 +22,10 @@ _Context: Canada_
 _Context: Belfast, Romanians_
 
 ### [ Chancellor Alistair Darling states there is "growing evidence" that government measures have stabilised the British banking system and economy.  ](/news/2009/06/18/chancellor-alistair-darling-states-there-is-growing-evidence-that-government-measures-have-stabilised-the-british-banking-system-and-econ.md)
-_Context: Alistair Darling, Chancellor, UK_
+_Context: Alistair Darling, Chancellor, United Kingdom_
 
 ### [ The expense claims of British Members of Parliament are published online. ](/news/2009/06/18/the-expense-claims-of-british-members-of-parliament-are-published-online.md)
-_Context: MP, MPs expenses, UK_
+_Context: MP, MPs expenses, United Kingdom_
 
 ### [ The High Court rules that Suzanne Breen, an editor of the ''Sunday Tribune'', need not hand over her notes on the Real IRA to police as it would endanger her life. ](/news/2009/06/18/the-high-court-rules-that-suzanne-breen-an-editor-of-the-sunday-tribune-need-not-hand-over-her-notes-on-the-real-ira-to-police-as-it.md)
 A judge in Belfast has ruled that journalist Suzanne Breen does not have to hand over interview notes on the Real IRA to the PSNI.
@@ -46,7 +46,7 @@ The Taoiseach has welcomed reports that loyalist paramilitary organisations have
 In 1660, New France had six male settlers for every female settler. The Filles du Roi were poor women who were brought to North America to fix this imbalance and populate the colony.
 
 ### [ South Africa receives its first case of swine flu via the United States. ](/news/2009/06/18/south-africa-receives-its-first-case-of-swine-flu-via-the-united-states.md)
-_Context: South Africa, U.S., first case, swine flu_
+_Context: South Africa, United States, first case, swine flu_
 
 ## [Previous Day...](/news/2009/06/17/index.md)
 

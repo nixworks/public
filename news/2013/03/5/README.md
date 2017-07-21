@@ -13,10 +13,10 @@ China targeted economic growth of 7.5 percent in 2013 and vowed an unwavering fi
 There are concerns about whether the forces that have driven the market rally — government spending and banner corporate profits — will be sufficient to push it higher.
 
 ### [Venezuela announces its intention to expel a member of the United States embassy working as a US Air Force military attache. The U.S. official is accused of spying on the military and meeting with officials to plan destabilizing the country. ](/news/2013/03/5/venezuela-announces-its-intention-to-expel-a-member-of-the-united-states-embassy-working-as-a-us-air-force-military-attacha-c-the-u-s-offic.md)
-_Context: Air Force, U.S., U.S., Venezuela, embassy, military attache_
+_Context: Air Force, U.S., United States, Venezuela, embassy, military attache_
 
 ### [The UN Security Council holds a closed-door session to discuss new sanctions against North Korea following reports of an agreement on a draft resolution between the United States and China. North Korea announces plans to nullify the armistice agreement that ended the Korean War. ](/news/2013/03/5/the-un-security-council-holds-a-closed-door-session-to-discuss-new-sanctions-against-north-korea-following-reports-of-an-agreement-on-a-draf.md)
-_Context: 2013, Chinese, Korean Armistice Agreement, Korean War, North Korea, U.S., United Nations Security Council_
+_Context: 2013, Chinese, Korean Armistice Agreement, Korean War, North Korea, United Nations Security Council, United States_
 
 ### [A black American political candidate "was dragged and set on fire" during his murder in the U.S. state of Mississippi, say his family. The corpse of Marco McMillian was found bruised and burned near a levee on the Mississippi River. ](/news/2013/03/5/a-black-american-political-candidate-was-dragged-and-set-on-fire-during-his-murder-in-the-u-s-state-of-mississippi-say-his-family-the-c.md)
 One of the first openly gay political candidates in the southern US state of Mississippi was beaten, dragged and set on fire during his murder, his family has claimed.
@@ -37,7 +37,7 @@ _Context: government coalition, government of Moldova_
 Four Army bases are to close as part of a shake-up to accommodate thousands of troops returning from Germany.
 
 ### [Voters in the American city of Los Angeles, California, go to the polls for a mayoral election with Eric Garcetti and Wendy Greuel to contest a runoff on 21 May 2013. ](/news/2013/03/5/voters-in-the-american-city-of-los-angeles-california-go-to-the-polls-for-a-mayoral-election-with-eric-garcetti-and-wendy-greuel-to-contes.md)
-_Context: California, Eric Garcetti, Los Angeles, U.S., Wendy Greuel, mayoral election, second round_
+_Context: California, Eric Garcetti, Los Angeles, United States, Wendy Greuel, mayoral election, second round_
 
 ### [Japanese carrier Willcom announces the Phone Strap 2 WX06A, which weighs only 32 grams. The company advertises it as the world's "smallest and lightest phone". ](/news/2013/03/5/japanese-carrier-willcom-announces-the-phone-strap-2-wx06a-which-weighs-only-32-grams-the-company-advertises-it-as-the-world-s-smallest-a.md)
 Japanese carrier Willcom has just announced the Phone Strap 2 WX06A, which it calls the world&#39;s &quot;smallest and lightest phone.&quot; The Phone Strap 2 is the sequel to the original Phone Strap, measures...

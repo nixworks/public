@@ -1,10 +1,10 @@
 ## [2009-01-15](/news/2009/01/15/index.md)
 
 ### [ British Member of Parliament John McDonnell (Hayes and Harlington) is suspended after manhandling the ceremonial mace during House of Commons proceedings. ](/news/2009/01/15/british-member-of-parliament-john-mcdonnell-hayes-and-harlington-is-suspended-after-manhandling-the-ceremonial-mace-during-house-of-commo.md)
-_Context: Hayes and Harlington, House of Commons of the United Kingdom, John McDonnell, MP, Parliament, UK, ceremonial mace_
+_Context: Hayes and Harlington, House of Commons of the United Kingdom, John McDonnell, MP, Parliament, United Kingdom, ceremonial mace_
 
 ### [ President George W. Bush bids farewell to the United States in a 15-minute televised address, during which he touted his record and warned his successor, Barack Obama, to maintain an aggressive stance against terrorism. ](/news/2009/01/15/president-george-w-bush-bids-farewell-to-the-united-states-in-a-15-minute-televised-address-during-which-he-touted-his-record-and-warned.md)
-_Context: Barack Obama, George W. Bush, President of the United States, U.S., terrorism_
+_Context: Barack Obama, George W. Bush, President of the United States, United States, terrorism_
 
 ### [ Sweden's National Bank announces that all 1-krona coins minted in 2009 will carry a new motif on their reverse to commemorate the 200th anniversary of Finland's separation from Sweden. ](/news/2009/01/15/sweden-s-national-bank-announces-that-all-1-krona-coins-minted-in-2009-will-carry-a-new-motif-on-their-reverse-to-commemorate-the-200th-ann.md)
 _Context: Finland, National Bank, SKr, Sweden, separation_
@@ -37,7 +37,7 @@ _Context: Japan, late 2000s recession, machine orders_
 _Context: Hawaii, North Carolina, U.S. state, Wilmington, digital television, media market, switch from analog_
 
 ### [ Despite the corruption scandal surrounding Illinois Governor Rod Blagojevich, the United States Senate confirms Roland Burris as a member. ](/news/2009/01/15/despite-the-corruption-scandal-surrounding-illinois-governor-rod-blagojevich-the-united-states-senate-confirms-roland-burris-as-a-member.md)
-_Context: Governor of Illinois, Illinois, Rod Blagojevich, Roland Burris, United States Senate, corruption_
+_Context: Governor of Illinois, Illinois, Rod Blagojevich, Roland Burris, Senate, corruption_
 
 ## [Previous Day...](/news/2009/01/14/index.md)
 

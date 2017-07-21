@@ -16,7 +16,7 @@ _Context: 2000, Israel, Israeli Arabs, Israeli-Palestinian conflict_
 _Context: New Orleans_
 
 ### [ One person is injured following an apparent letter bomb attack in the British Embassy in the Croatian capital Zagreb. ](/news/2005/09/19/one-person-is-injured-following-an-apparent-letter-bomb-attack-in-the-british-embassy-in-the-croatian-capital-zagreb.md)
-_Context: Croatia, UK, Zagreb, capital, embassies, letter bomb_
+_Context: Croatia, United Kingdom, Zagreb, capital, embassies, letter bomb_
 
 ### [ ''7th Heaven'' officially became the longest running family drama in television history when former network ''The WB'' began airing the series' 10th season.](/news/2005/09/19/7th-heaven-officially-became-the-longest-running-family-drama-in-television-history-when-former-network-the-wb-began-airing-the-ser.md)
 _Context: 7th Heaven, The WB_

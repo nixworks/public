@@ -4,7 +4,7 @@
 _Context: Africa, Lesotho, United Nations_
 
 ### [ Two British teenagers are arrested at the Kotoka International Airport in Accra, Ghana, for attempting to smuggle 6.5 kg of cocaine worth PS300,000 to the UK.](/news/2007/07/12/two-british-teenagers-are-arrested-at-the-kotoka-international-airport-in-accra-ghana-for-attempting-to-smuggle-6-5-kg-of-cocaine-worth-a.md)
-_Context: Accra, Ghana, Kotoka International Airport, UK, cocaine_
+_Context: Accra, Ghana, Kotoka International Airport, United Kingdom, cocaine_
 
 ### [ An attorney convicted of leaking evidence given by U.S. baseball player Barry Bonds and other athletes from the Bay Area Laboratory Co-operative (BALCO) Inquiry is sentenced to two and a half years in prison. ](/news/2007/07/12/an-attorney-convicted-of-leaking-evidence-given-by-u-s-baseball-player-barry-bonds-and-other-athletes-from-the-bay-area-laboratory-co-oper.md)
 _Context: Barry Bonds, Bay Area Laboratory Co-operative_
@@ -61,7 +61,7 @@ _Context: Colombo, Tamil Tiger, Thoppigala, government_
 _Context: Charles G. Taylor, Liberia, Parliament, President of Liberia, government_
 
 ### [ At a press conference, U.S. President George W. Bush admits for the first time that someone in his administration may have leaked the name of CIA agent Valerie Plame. ](/news/2007/07/12/at-a-press-conference-u-s-president-george-w-bush-admits-for-the-first-time-that-someone-in-his-administration-may-have-leaked-the-name.md)
-_Context: CIA leak scandal, Central Intelligence Agency, George W. Bush, President of the United States, U.S., Valerie Plame, press conference_
+_Context: CIA leak scandal, Central Intelligence Agency, George W. Bush, President of the United States, United States, Valerie Plame, press conference_
 
 ## [Previous Day...](/news/2007/07/11/index.md)
 

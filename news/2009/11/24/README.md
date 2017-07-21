@@ -16,7 +16,7 @@ Trade unions have announced plans for a second national strike in public sector 
 The Government has announced a €10m humanitarian fund to help those worst affected by the worst flooding on record.
 
 ### [ Over 1,500 complaints are received from American viewers after a gay kiss involving Adam Lambert is televised during an awards ceremony. ](/news/2009/11/24/over-1-500-complaints-are-received-from-american-viewers-after-a-gay-kiss-involving-adam-lambert-is-televised-during-an-awards-ceremony.md)
-_Context: Adam Lambert, U.S., homosexuality_
+_Context: Adam Lambert, United States, homosexuality_
 
 ### [ Iran lifts a ban on one of its best-selling newspapers, ''Hamshahri'', a day after it was banned from publication after publishing a picture of a temple from the banned Baha'i faith. ](/news/2009/11/24/iran-lifts-a-ban-on-one-of-its-best-selling-newspapers-hamshahri-a-day-after-it-was-banned-from-publication-after-publishing-a-pictur.md)
 _Context: Baha'i faith, Hamshahri, Iran, banned_
@@ -31,7 +31,7 @@ President Dmitry Medvedev of Russia has ordered an investigation into the death 
 _Context: European Parliament, European Union_
 
 ### [ An inquiry opens in the United Kingdom over the country's involvement in the Iraq War. ](/news/2009/11/24/an-inquiry-opens-in-the-united-kingdom-over-the-country-s-involvement-in-the-iraq-war.md)
-_Context: Iraq War, UK, inquiry opens_
+_Context: Iraq War, United Kingdom, inquiry opens_
 
 ### [ Pirates kill a Ukrainian sailor after an oil tanker is attacked off the coast of Benin. ](/news/2009/11/24/pirates-kill-a-ukrainian-sailor-after-an-oil-tanker-is-attacked-off-the-coast-of-benin.md)
 _Context: Beninese, Ukraine_

@@ -7,10 +7,10 @@ _Context: Kurgan Oblast, Russia_
 A small plane apparently low on fuel hit a power line and crashed into a wooded area near a West Virginia airport, killing all six people aboard, authorities said.
 
 ### [ The U.S. State Department will not renew security contractor Blackwater Worldwide's license when it expires in May 2009. ](/news/2009/01/30/the-u-s-state-department-will-not-renew-security-contractor-blackwater-worldwide-s-license-when-it-expires-in-may-2009.md)
-_Context: Blackwater Worldwide, State Department's, U.S., civilian contractor_
+_Context: Blackwater Worldwide, State Department's, United States, civilian contractor_
 
 ### [ Michael S. Steele becomes the U.S. Republican National Committee's first African-American chairman. ](/news/2009/01/30/michael-s-steele-becomes-the-u-s-republican-national-committee-s-first-african-american-chairman.md)
-_Context: African-American, Michael S. Steele, Republican National Committee, U.S., chairman, first_
+_Context: African-American, Michael S. Steele, Republican National Committee, United States, chairman, first_
 
 ### [ Somalia's Transitional Federal Government collapses after Al-Shabaab captures Baidoa. ](/news/2009/01/30/somalia-s-transitional-federal-government-collapses-after-al-shabaab-captures-baidoa.md)
 _Context: Al-Shabaab, Baidoa, Somalia, Transitional Federal Government_
@@ -22,7 +22,7 @@ Pressure mounts on Israel to answer accusations of war crimes in Gaza Strip.
 _Context: 2009 Southeastern Australia heat wave, Adelaide, Australia, Melbourne_
 
 ### [ More than one thousand workers strike at four different United Kingdom oil refineries. ](/news/2009/01/30/more-than-one-thousand-workers-strike-at-four-different-united-kingdom-oil-refineries.md)
-_Context: UK, refinery, strike_
+_Context: United Kingdom, refinery, strike_
 
 ### [ Thirteen people are killed and 47 people are missing after a Nakumatt supermarket burns in Nairobi, Kenya. ](/news/2009/01/30/thirteen-people-are-killed-and-47-people-are-missing-after-a-nakumatt-supermarket-burns-in-nairobi-kenya.md)
 _Context: Kenya, Nairobi, Nakumatt, burns_

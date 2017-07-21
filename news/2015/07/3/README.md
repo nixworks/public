@@ -7,10 +7,10 @@ Turkey&#x20;has&#x20;deployed&#x20;additional&#x20;troops&#x20;and&#x20;equipmen
 Boko Haram is waging fresh attacks in northeastern Nigeria, locals say, with nearly 170 people killed in a wave of attacks that President Muhammadu Buhari has blasted as &quot;inhuman and barbaric&quot;. 
 
 ### [The United Kingdom holds a minute of silence at midday to commemorate the 38 people - including 30 Britons - killed in Tunisia a week ago. ](/news/2015/07/3/the-united-kingdom-holds-a-minute-of-silence-at-midday-to-commemorate-the-38-people-including-30-britons-killed-in-tunisia-a-week-ago.md)
-_Context: 2015 Sousse attacks, Tunisia, UK_
+_Context: 2015 Sousse attacks, Tunisia, United Kingdom_
 
 ### [A United States drone strike kills at least four militants in Yemen. ](/news/2015/07/3/a-united-states-drone-strike-kills-at-least-four-militants-in-yemen.md)
-_Context: U.S., Yemen's, Yemeni Crisis (2011-present)_
+_Context: United States, Yemen's, Yemeni Crisis (2011-present)_
 
 ### [The XV International Tchaikovsky Competition concludes with a ceremony awarding top prizes to Dmitry Masleev in piano, Yu-Chien Tseng in violin, Andrei Ionut Ionita in cello, as well as Yulia Matochkina and Ariunbaatar Ganbaatar in voice. ](/news/2015/07/3/the-xv-international-tchaikovsky-competition-concludes-with-a-ceremony-awarding-top-prizes-to-dmitry-masleev-in-piano-yu-chien-tseng-in-vio.md)
 The Awards Ceremony took place tonight, Wednesday 1 July, at the Tchaikovsky Concert Hall. It was an amazing ceremony after two rich weeks of competition which we will remember for a long time! Congratulations to all the talented candidates, and many thanks to the jury members, the Competition&#39;s teams and the wonderful audience!

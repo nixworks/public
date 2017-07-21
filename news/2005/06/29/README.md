@@ -1,7 +1,7 @@
 ## [2005-06-29](/news/2005/06/29/index.md)
 
 ### [ The United States House of Representatives passes a $1.17 billion funding bill for Amtrak in fiscal year 2006, an amount that is still short of the $2 billion Amtrak was originally seeking. The funding was approved in an amendment to a more general transportation and treasury appropriations bill. The House also removed the requirement in the bill that would mandate Amtrak to end passenger train service on currently unprofitable routes. The funding has yet to be approved by the Senate.](/news/2005/06/29/the-united-states-house-of-representatives-passes-a-1-17-billion-funding-bill-for-amtrak-in-fiscal-year-2006-an-amount-that-is-still-shor.md)
-_Context: 2006, Amtrak, US$, United States House of Representatives, United States Senate, passenger train_
+_Context: 2006, Amtrak, Senate, US$, United States House of Representatives, passenger train_
 
 ### [ The United States Capitol in Washington D.C. was briefly evacuated due to an aircraft that entered restricted airspace.](/news/2005/06/29/the-united-states-capitol-in-washington-d-c-was-briefly-evacuated-due-to-an-aircraft-that-entered-restricted-airspace.md)
 _Context: United States Capitol, Washington, D.C._

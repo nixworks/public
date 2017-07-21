@@ -28,7 +28,7 @@ Hungary&#039;s centre-right opposition has won a two-thirds general election vic
 Heinz Fischer easily defeats controversial leader of far-right Freedom Party.
 
 ### [Nearly 100,000 people rally in Okinawa, Japan, demanding the removal of an American base from the island. ](/news/2010/04/25/nearly-100-000-people-rally-in-okinawa-japan-demanding-the-removal-of-an-american-base-from-the-island.md)
-_Context: Japan, Okinawa, U.S._
+_Context: Japan, Okinawa, United States_
 
 ### [Thousands of people rally in Beirut to ask for the separation of religion and state in Lebanon. ](/news/2010/04/25/thousands-of-people-rally-in-beirut-to-ask-for-the-separation-of-religion-and-state-in-lebanon.md)
 Thousands of demonstrators demand an end to the religious-based political system.
@@ -43,7 +43,7 @@ _Context: Somalia, Spanish Navy_
 _Context: Havana, Ladies in White_
 
 ### [Cuba's Speaker of the Parliament Ricardo Alarcon challenges the United States to lift its 48-year embargo on the island if it believes Cuba benefits from the embargo, as Hillary Clinton suggested. ](/news/2010/04/25/cuba-s-speaker-of-the-parliament-ricardo-alarca3n-challenges-the-united-states-to-lift-its-48-year-embargo-on-the-island-if-it-believes-cuba.md)
-_Context: Cuba, Hillary Clinton, Ricardo Alarcon, U.S._
+_Context: Cuba, Hillary Clinton, Ricardo Alarcon, United States_
 
 ### [Iranian Minister for Foreign Affairs Manouchehr Mottaki meets the head of the International Atomic Energy Agency (IAEA) in Vienna and says Iran remains interested in a nuclear fuel swap drafted by the United Nations. ](/news/2010/04/25/iranian-minister-for-foreign-affairs-manouchehr-mottaki-meets-the-head-of-the-international-atomic-energy-agency-iaea-in-vienna-and-says-i.md)
 Iranian foreign minister discusses fuel proposal with head of UN nuclear agency.
@@ -70,7 +70,7 @@ _Context: Stephen Hawking, extraterrestrials_
 Wayne Rooney, who was last night named PFA Player of the Year, has allayed fears over his fitness for the World Cup by declaring he will return for Manchester United&rsquo;s potentially decisive final Premier League game of the season against Stoke City.
 
 ### [The first passenger flight between Iraq and the United Kingdom in two decades touches down at London Gatwick Airport, nine days overdue because of volcanic ash problems. ](/news/2010/04/25/the-first-passenger-flight-between-iraq-and-the-united-kingdom-in-two-decades-touches-down-at-london-gatwick-airport-nine-days-overdue-beca.md)
-_Context: Iraq, London Gatwick Airport, UK, volcanic ash problems_
+_Context: Iraq, London Gatwick Airport, United Kingdom, volcanic ash problems_
 
 ## [Previous Day...](/news/2010/04/24/index.md)
 

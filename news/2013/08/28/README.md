@@ -13,7 +13,7 @@ _Context: San Francisco Bay Bridge_
 _Context: Fort Hood massacre, Nidal Malik Hasan_
 
 ### [Iran pursues the 1953 Iranian coup d'tat case, which was orchestrated by US and Britain, in the international courts at The Hague. CIA officially admitted role in the coup on 20 August 2013. ](/news/2013/08/28/iran-pursues-the-1953-iranian-coup-d-etat-case-which-was-orchestrated-by-us-and-britain-in-the-international-courts-at-the-hague-cia-offi.md)
-_Context: 1953 Iranian coup d'tat, Iran, The Hague, UK, US$_
+_Context: 1953 Iranian coup d'tat, Iran, The Hague, US$, United Kingdom_
 
 ## [Previous Day...](/news/2013/08/27/index.md)
 

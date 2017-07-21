@@ -37,7 +37,7 @@ China and Norway signed a pact on Friday to resume free trade negotiations, mark
 _Context: Maldives Police Service, People's Majlis, Qasim Ibrahim_
 
 ### [Neil Gorsuch is confirmed as the 113th justice of the Supreme Court of the United States by a 54-45 vote in the United States Senate after invocation of the "nuclear option". ](/news/2017/04/7/neil-gorsuch-is-confirmed-as-the-113th-justice-of-the-supreme-court-of-the-united-states-by-a-54a45-vote-in-the-united-states-senate-after.md)
-_Context: Neil Gorsuch, U.S. Supreme Court, United States Senate, nuclear option_
+_Context: Neil Gorsuch, Senate, U.S. Supreme Court, nuclear option_
 
 ### [The governor of the State of Alabama, Robert Bentley, wins a court victory halting impeachment proceedings that were set to begin Monday to determine whether he should remain in office after it was discovered that he had a romantic relationship with a staffer. ](/news/2017/04/7/the-governor-of-the-state-of-alabama-robert-bentley-wins-a-court-victory-halting-impeachment-proceedings-that-were-set-to-begin-monday-to.md)
 _Context: Alabama, Robert Bentley_

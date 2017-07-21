@@ -19,7 +19,7 @@ _Context: National Assembly, Treaty of Lisbon_
 Atlantis launches on schedule despite earlier forecasts of thunderstorms and heavy cloud cover.
 
 ### [ British Muslim cleric Abu Hamza al-Masri will be extradited to the United States to face terror charges. ](/news/2008/02/7/british-muslim-cleric-abu-hamza-al-masri-will-be-extradited-to-the-united-states-to-face-terror-charges.md)
-_Context: Abu Hamza al-Masri, Muslim, U.S., extradited_
+_Context: Abu Hamza al-Masri, Muslim, United States, extradited_
 
 ### [ There are mass arrests in the United States and Italy in an anti-Mafia sweep including three suspected senior members of the Gambino crime family. ](/news/2008/02/7/there-are-mass-arrests-in-the-united-states-and-italy-in-an-anti-mafia-sweep-including-three-suspected-senior-members-of-the-gambino-crime.md)
 Police in the United States and Italy arrested 77 suspected members of the Mafia on Thursday, including some of its most wanted leaders, for an array of crimes going back more than 30 years.
@@ -34,7 +34,7 @@ _Context: Archbishop Ieronymos II of Athens, Church of Greece, Eastern Orthodox 
 _Context: Afghanistan, Lithuania, NATO, NATO meets, Vilnius_
 
 ### [ The United States Secretary of State Condoleezza Rice and United Kingdom Secretary of State for Foreign and Commonwealth Affairs David Miliband visit Afghanistan. ](/news/2008/02/7/the-united-states-secretary-of-state-condoleezza-rice-and-united-kingdom-secretary-of-state-for-foreign-and-commonwealth-affairs-david-mili.md)
-_Context: Afghanistan, Condoleezza Rice, David Miliband, Secretary of State for Foreign and Commonwealth Affairs, UK, United States Secretary of State_
+_Context: Afghanistan, Condoleezza Rice, David Miliband, Secretary of State for Foreign and Commonwealth Affairs, United Kingdom, United States Secretary of State_
 
 ### [ Rio Tinto rejects BHP Billiton's $147 billion hostile takeover bid. ](/news/2008/02/7/rio-tinto-rejects-bhp-billiton-s-147-billion-hostile-takeover-bid.md)
 _Context: BHP Billiton, Rio Tinto, hostile takeover_

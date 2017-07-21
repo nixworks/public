@@ -16,13 +16,13 @@ _Context: FW de Klerk, New National Party, President of South Africa, South Afri
 _Context: Al-Aqsa Mosque, Hamas, Israel, Israeli-Palestinian conflict, Ramallah, Sheikh Hassan Yousef, mosque_
 
 ### [ American spammer Jeremy Jaynes is sentenced for nine years in prison. The sentence is suspended until further appeals. ](/news/2005/04/10/american-spammer-jeremy-jaynes-is-sentenced-for-nine-years-in-prison-the-sentence-is-suspended-until-further-appeals.md)
-_Context: Jeremy Jaynes, U.S., spam_
+_Context: Jeremy Jaynes, United States, spam_
 
 ### [ A magnitude 6.1 earthquake strikes Tokyo. There are no reports of serious damages. ](/news/2005/04/10/a-magnitude-6-1-earthquake-strikes-tokyo-there-are-no-reports-of-serious-damages.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ British carmaker MG Rover receives a loan of 6.5 million from the British government. ](/news/2005/04/10/british-carmaker-mg-rover-receives-a-loan-of-ps6-5-million-from-the-british-government.md)
-_Context: MG Rover, UK_
+_Context: MG Rover, United Kingdom_
 
 ### [ Spanish police seize an ETA cache of explosives in Hernani, near San Sebastin. ](/news/2005/04/10/spanish-police-seize-an-eta-cache-of-explosives-in-hernani-near-san-sebastian.md)
 _Context: ETA, Hernani, San Sebastin, Spain_

@@ -40,7 +40,7 @@ UK Prime Minister David Cameron and French President Nicolas Sarkozy are in Liby
 _Context: UNICEF, child mortality_
 
 ### [The United States designates the Indian Mujahideen as a terrorist organisation. ](/news/2011/09/15/the-united-states-designates-the-indian-mujahideen-as-a-terrorist-organisation.md)
-_Context: Indian Mujahideen, U.S., terrorism_
+_Context: Indian Mujahideen, United States, terrorism_
 
 ### [The People's Republic of China sentences four people to death in the Xinjiang region following threats to crack down on terrorism in the far-western region. ](/news/2011/09/15/the-people-s-republic-of-china-sentences-four-people-to-death-in-the-xinjiang-region-following-threats-to-crack-down-on-terrorism-in-the-far.md)
 _Context: Chinese, Xinjiang, terrorism_

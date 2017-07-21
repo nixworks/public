@@ -13,7 +13,7 @@ _Context: Angela Merkel, Berlin, Berlin Hauptbahnhof, Chancellor, Deutsche Bahn,
 _Context: Mahmoud al-Majzoub, Nidal, Palestinian Islamic Jihad_
 
 ### [ The United States Capitol building complex in Washington, D.C. is locked down after reports of what sounded like gunfire reached US Capitol police. The United States Senate was in session as a report of at least one person seeing a gunman in the Rayburn House Office Building gym was issued. Police say that the sound was likely that of a pneumatic hammer and that the 'gunman' may have been a plainclothes police officer. ](/news/2006/05/26/the-united-states-capitol-building-complex-in-washington-d-c-is-locked-down-after-reports-of-what-sounded-like-gunfire-reached-us-capitol.md)
-_Context: Rayburn House Office Building, United States Capitol, United States Senate, Washington, D.C., locked down_
+_Context: Rayburn House Office Building, Senate, United States Capitol, Washington, D.C., locked down_
 
 ## [Previous Day...](/news/2006/05/25/index.md)
 

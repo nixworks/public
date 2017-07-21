@@ -19,7 +19,7 @@ UPS plane went down in a ball of fire in military area between Emirates Road and
 _Context: Indonesia, Mount Sinabung, North Sumatra_
 
 ### [States in the New England region of the United States prepare for a possible impact from Hurricane Earl which has weakened to a tropical storm. ](/news/2010/09/3/states-in-the-new-england-region-of-the-united-states-prepare-for-a-possible-impact-from-hurricane-earl-which-has-weakened-to-a-tropical-sto.md)
-_Context: Hurricane Earl, New England, U.S., tropical storm_
+_Context: Hurricane Earl, New England, United States, tropical storm_
 
 ### [Forest fires flare up in the southern Russian regions of Volgograd and Saratov, killing two people and burning down 500 buildings. ](/news/2010/09/3/forest-fires-flare-up-in-the-southern-russian-regions-of-volgograd-and-saratov-killing-two-people-and-burning-down-500-buildings.md)
 At least four people have died and hundreds of homes have been destroyed in a new outbreak of wildfires in Russia.
@@ -40,7 +40,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: United Nations Food and Agriculture Organization_
 
 ### [Miami International Airport in the US state of Florida is evacuated after a suspicious package is found. A passenger is taken into custody. ](/news/2010/09/3/miami-international-airport-in-the-us-state-of-florida-is-evacuated-after-a-suspicious-package-is-found-a-passenger-is-taken-into-custody.md)
-_Context: Florida, Miami International Airport, U.S._
+_Context: Florida, Miami International Airport, United States_
 
 ### [The President of the Philippines, Benigno Aquino III, takes responsibility for the handling of the Manila hostage crisis in August. ](/news/2010/09/3/the-president-of-the-philippines-benigno-aquino-iii-takes-responsibility-for-the-handling-of-the-manila-hostage-crisis-in-august.md)
 _Context: Benigno "Noynoy" Aquino III, Manila hostage crisis, President of the Philippines_
@@ -55,7 +55,7 @@ President Mahmoud Ahmadinejad addresses thousands in Tehran, saying that Middle 
 An Australian Muslim cleric has reportedly called for the beheading of the Dutch anti-Islam MP Geert Wilders, for denigrating Islam.
 
 ### [The Royal Mail in the United Kingdom launches the first intelligent postage stamp, the first to work with image recognition technology. ](/news/2010/09/3/the-royal-mail-in-the-united-kingdom-launches-the-first-intelligent-postage-stamp-the-first-to-work-with-image-recognition-technology.md)
-_Context: Royal Mail, UK, image recognition, postage stamp_
+_Context: Royal Mail, United Kingdom, image recognition, postage stamp_
 
 ### [A study published in the journal ''Cell'' reports the discovery that the cerebral cortex of mammals shares a common evolutionary origin with mushroom bodies, brain structures involved in learning and memory in insects and other invertebrates. ](/news/2010/09/3/a-study-published-in-the-journal-cell-reports-the-discovery-that-the-cerebral-cortex-of-mammals-shares-a-common-evolutionary-origin-with.md)
 _Context: cerebral cortex, mushroom bodies_

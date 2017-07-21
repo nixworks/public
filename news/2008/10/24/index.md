@@ -7,7 +7,7 @@ _Context: Asia, Asia-Europe Meeting, Beijing, Europe, current economic crisis_
 _Context: Djibouti, Eritrea, United Nations, border dispute, government_
 
 ### [ The mother and the brother of American actress and singer Jennifer Hudson are murdered. ](/news/2008/10/24/the-mother-and-the-brother-of-american-actress-and-singer-jennifer-hudson-are-murdered.md)
-_Context: Jennifer Hudson, U.S._
+_Context: Jennifer Hudson, United States_
 
 ## [Previous Day...](/news/2008/10/23/index.md)
 

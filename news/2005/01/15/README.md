@@ -7,7 +7,7 @@ _Context: Chinese Civil War, Chinese New Year, Straits Aviation Exchange Commiss
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Conflict in Iraq: U.S.-led forces in Iraq have destroyed and contaminated precious ancient Babylonian archaeological evidence and sites according to a report by the British Museum. ](/news/2005/01/15/conflict-in-iraq-u-s-led-forces-in-iraq-have-destroyed-and-contaminated-precious-ancient-babylonian-archaeological-evidence-and-sites-acc.md)
-_Context: Babylon, Conflict in Iraq, Iraq, U.S._
+_Context: Babylon, Conflict in Iraq, Iraq, United States_
 
 ### [ Palestinian presidential election: Mahmoud Abbas (a.k.a. Abu Mazen) is sworn in as president of the Palestinian Authority in a ceremony in the West Bank town of Ramallah, six days after winning the Palestinian presidential election. ](/news/2005/01/15/palestinian-presidential-election-p-mahmoud-abbas-a-k-a-abu-mazen-is-sworn-in-as-president-of-the-palestinian-authority-in-a-ceremony-in.md)
 _Context: Mahmoud Abbas, Palestinian Authority, Palestinian presidential election, Ramallah, West Bank_

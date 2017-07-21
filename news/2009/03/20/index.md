@@ -1,7 +1,7 @@
 ## [2009-03-20](/news/2009/03/20/index.md)
 
 ### [ The United States Navy's USS ''Hartford'' and USS ''New Orleans'' collide in the Strait of Hormuz. ](/news/2009/03/20/the-united-states-navy-s-uss-hartford-and-uss-new-orleans-collide-in-the-strait-of-hormuz.md)
-_Context: Strait of Hormuz, U.S., USS ''Hartford'', USS ''New Orleans'', United States Navy, collide_
+_Context: Strait of Hormuz, USS ''Hartford'', USS ''New Orleans'', United States, United States Navy, collide_
 
 ### [ Somali pirates hijack the Greek cargo ship MV ''Titan''. ](/news/2009/03/20/somali-pirates-hijack-the-greek-cargo-ship-mv-titan.md)
 _Context: Greece, MV, Somali pirates, Somalia, cargo ship_

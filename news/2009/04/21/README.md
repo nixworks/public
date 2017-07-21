@@ -4,7 +4,7 @@
 _Context: Yahoo!, layoff_
 
 ### [ Twelve navies from the Americas begin annual UNITAS Gold exercises near Florida, United States. ](/news/2009/04/21/twelve-navies-from-the-americas-begin-annual-unitas-gold-exercises-near-florida-united-states.md)
-_Context: Americas, Florida, U.S., UNITAS Gold, maritime forces, military exercise_
+_Context: Americas, Florida, UNITAS Gold, United States, maritime forces, military exercise_
 
 ### [ The World Digital Library launches at UNESCO's headquarters in Paris, France. ](/news/2009/04/21/the-world-digital-library-launches-at-unesco-s-headquarters-in-paris-france.md)
 _Context: France, Paris, UNESCO, World Digital Library_
@@ -13,7 +13,7 @@ _Context: France, Paris, UNESCO, World Digital Library_
 The Pentagon and Lockheed Martin Corp, its top supplier, discounted a Wall Street Journal report that cyber spies had stolen secrets of the F-35 Joint Strike Fighter aircraft being built for the United States and nearly a dozen allies.
 
 ### [ The United Kingdom's Retail Prices Index records negative inflation for the first time since 1960. ](/news/2009/04/21/the-united-kingdom-s-retail-prices-index-records-negative-inflation-for-the-first-time-since-1960.md)
-_Context: Retail Prices Index, UK, inflation_
+_Context: Retail Prices Index, United Kingdom, inflation_
 
 ### [ Twenty-four people are killed during combat between the Mungiki criminal organization and citizens of Karatina in Kenya. ](/news/2009/04/21/twenty-four-people-are-killed-during-combat-between-the-mungiki-criminal-organization-and-citizens-of-karatina-in-kenya.md)
 _Context: Karatina, Kenya, Mungiki, citizenship, killed, organization_

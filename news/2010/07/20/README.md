@@ -7,7 +7,7 @@ _Context: Kyrgyzstan, Navi Pillay, the ongoing crisis_
 State of emergency lifted in three provinces but strict laws remain in much of the country.
 
 ### [William Hague, the United Kingdom Foreign Secretary, says that British soldiers should be out of Afghanistan by 2014. ](/news/2010/07/20/william-hague-the-united-kingdom-foreign-secretary-says-that-british-soldiers-should-be-out-of-afghanistan-by-2014.md)
-_Context: Afghanistan, British Army, Secretary of State for Foreign and Commonwealth Affairs, UK, William Hague_
+_Context: Afghanistan, British Army, Secretary of State for Foreign and Commonwealth Affairs, United Kingdom, William Hague_
 
 ### [Uganda's government defends the forced repatriation of 1,700 Rwandan refugees, deemed "heavy-handed" by the United Nations; two people are killed in a group alleged to be a security risk following the July 2010 Kampala attacks. ](/news/2010/07/20/uganda-s-government-defends-the-forced-repatriation-of-1-700-rwandan-refugees-deemed-heavy-handed-by-the-united-nations-two-people-are-k.md)
 _Context: Rwanda, Uganda, United Nations, attacks_
@@ -64,7 +64,7 @@ Turkish Foreign Minister Ahmet Davutoglu has met with Hamas supremo Khaled Mesha
 _Context: Ban Ki-moon, Secretary General_
 
 ### [ASEAN formally invites Russia and the United States to attend the East Asia Summit and urges Myanmar to hold free and fair elections in a foreign ministers meeting in Hanoi, Vietnam. ](/news/2010/07/20/asean-formally-invites-russia-and-the-united-states-to-attend-the-east-asia-summit-and-urges-myanmar-to-hold-free-and-fair-elections-in-a-fo.md)
-_Context: ASEAN, East Asia Summit, Hanoi, Myanmar, Russia, U.S., Vietnam_
+_Context: ASEAN, East Asia Summit, Hanoi, Myanmar, Russia, United States, Vietnam_
 
 ### [Former MI5 head Baroness Manningham-Buller gives evidence in public before the Iraq Inquiry into Iraq's alleged weapons of mass destruction, admitting that the 2003 invasion of Iraq served to "substantially" increase the security threat to the UK. ](/news/2010/07/20/former-mi5-head-baroness-manningham-buller-gives-evidence-in-public-before-the-iraq-inquiry-into-iraq-s-alleged-weapons-of-mass-destruction.md)
 The ex-MI5 chief Baroness Manningham-Buller says Iraq posed only a &quot;very limited&quot; threat to the UK - but the war increased the threat from terrorism.

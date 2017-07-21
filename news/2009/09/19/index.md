@@ -4,7 +4,7 @@
 _Context: Africa, Djibouti, Eritrea, Ethiopia, Islam, Kenya, Somalia, Sudan, Uganda_
 
 ### [ Two men are arrested in Denver, Colorado, United States, as part of an FBI terror probe. ](/news/2009/09/19/two-men-are-arrested-in-denver-colorado-united-states-as-part-of-an-fbi-terror-probe.md)
-_Context: Colorado, Denver, FBI, U.S._
+_Context: Colorado, Denver, FBI, United States_
 
 ### [ Attacks by rebels in Yemen are reported despite a  ceasefire. ](/news/2009/09/19/attacks-by-rebels-in-yemen-are-reported-despite-a-ceasefire.md)
 _Context: Yemen's, ceasefire_
@@ -28,7 +28,7 @@ European Commission President José Manuel Barroso has said a No vote will affec
 _Context: Gifu Prefecture, Japan, Takayama_
 
 ### [ Pakistani police raid a local security firm that provides security for the United States embassy for illegal weapons possession. ](/news/2009/09/19/pakistani-police-raid-a-local-security-firm-that-provides-security-for-the-united-states-embassy-for-illegal-weapons-possession.md)
-_Context: Pakistan, Security experts, U.S._
+_Context: Pakistan, Security experts, United States_
 
 ### [ The German government raises its terrorism alert level after al Qaeda posted a video on the Internet threatening attacks in Germany based on the outcome of this month's elections.  ](/news/2009/09/19/the-german-government-raises-its-terrorism-alert-level-after-al-qaeda-posted-a-video-on-the-internet-threatening-attacks-in-germany-based-o.md)
 _Context: Germany, al-Qaeda_

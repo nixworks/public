@@ -28,7 +28,7 @@ _Context: Clostridium difficile, England, Leicester, National Health Service, co
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ New laws against age discrimination in the workplace - officially titled the Employment Equality (Age) Regulations 2006 - come into force in the United Kingdom. ](/news/2006/10/1/new-laws-against-age-discrimination-in-the-workplace-officially-titled-the-employment-equality-age-regulations-2006-come-into-force-i.md)
-_Context: UK, age discrimination_
+_Context: United Kingdom, age discrimination_
 
 ### [ In the Australian National Rugby League's premiership-deciding game for season 2006, the Brisbane Broncos defeat the Melbourne Storm by 15&ndash;8 to win its sixth premiership title. ](/news/2006/10/1/in-the-australian-national-rugby-league-s-premiership-deciding-game-for-season-2006-the-brisbane-broncos-defeat-the-melbourne-storm-by-15.md)
 _Context: Brisbane Broncos, Melbourne Storm, National Rugby League, premiership-deciding game for season 2006_

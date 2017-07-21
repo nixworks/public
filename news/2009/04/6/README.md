@@ -19,7 +19,7 @@ _Context: Afghan government's, Afghanistan, men to rape their wives, sharia law_
 _Context: Gjorge Ivanov, Macedonian, VMRO-DPMNE, election, presidential_
 
 ### [ Somali pirates hijack five ships from the United Kingdom, Taiwan, Germany, France, and Yemen. ](/news/2009/04/6/somali-pirates-hijack-five-ships-from-the-united-kingdom-taiwan-germany-france-and-yemen.md)
-_Context: France, Germany, Somali pirates, Somalia, Taiwan, UK, Yemen's, ship_
+_Context: France, Germany, Somali pirates, Somalia, Taiwan, United Kingdom, Yemen's, ship_
 
 ### [ Indonesia's National Police shoot nine demonstrators at a pre-election protest in Nabire, West Papua. ](/news/2009/04/6/indonesia-s-national-police-shoot-nine-demonstrators-at-a-pre-election-protest-in-nabire-west-papua.md)
 _Context: 2009 legislative elections, Indonesia, Indonesian police, West Papua, demonstration, protest_

@@ -10,13 +10,13 @@ Italian media report security around Benedict XVI tightened following harsh resp
 _Context: Category 3 hurricane, Hurricane Lane, Mexico, Pacific_
 
 ### [ Darfur conflict: On the eve of the International Day for Darfur, British Prime Minister Tony Blair insists the government of Sudan must start to "live up to its obligations" towards the war-torn region. ](/news/2006/09/16/darfur-conflict-on-the-eve-of-the-international-day-for-darfur-british-prime-minister-tony-blair-insists-the-government-of-sudan-must-sta.md)
-_Context: Darfur, Darfur conflict, Prime Minister, Sudan, Tony Blair, UK_
+_Context: Darfur, Darfur conflict, Prime Minister, Sudan, Tony Blair, United Kingdom_
 
 ### [ Iraq insurgency: Baghdad police find 47 corpses across the city, most bound and shot, thought to be more victims of the ongoing sectarian killing that has been taking place in the region and appears aimed at provoking civil war. ](/news/2006/09/16/iraq-insurgency-baghdad-police-find-47-corpses-across-the-city-most-bound-and-shot-thought-to-be-more-victims-of-the-ongoing-sectarian-k.md)
 _Context: Baghdad, Iraq Insurgency, civil war, sectarian_
 
 ### [ 2006 United States ''E. coli'' outbreak: Bagged spinach recalled in United States after products linked to at least 94 cases of ''E. coli'' in 19 states. ](/news/2006/09/16/2006-united-states-e-coli-outbreak-bagged-spinach-recalled-in-united-states-after-products-linked-to-at-least-94-cases-of-e-coli.md)
-_Context: ''E. coli'', U.S., spinach, tainted spinach_
+_Context: ''E. coli'', United States, spinach, tainted spinach_
 
 ### [ A Delta Air Lines flight makes an emergency landing at Shannon Airport in Ireland. The flight was en route to New York from Shannon itself, and had 276 passengers on board. It was reported that there was smoke in the cabin. ](/news/2006/09/16/a-delta-air-lines-flight-makes-an-emergency-landing-at-shannon-airport-in-ireland-the-flight-was-en-route-to-new-york-from-shannon-itself.md)
 A Delta Airlines aircraft with 276 passengers on board has made a precautionary emergency landing at Shannon Airport.

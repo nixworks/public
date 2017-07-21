@@ -10,7 +10,7 @@ _Context: France, Italian, Lebanon, United Nations, war_
 _Context: Islamic Movement of Uzbekistan, Kyrgyzstan, Osh, al-Qaeda_
 
 ### [ Eleven suspects are charged over the 2006 transatlantic aircraft plot in the United Kingdom as police find bomb-making equipment and martyrdom videos during their inquiries. ](/news/2006/08/21/eleven-suspects-are-charged-over-the-2006-transatlantic-aircraft-plot-in-the-united-kingdom-as-police-find-bomb-making-equipment-and-martyr.md)
-_Context: 2006 transatlantic aircraft plot, UK, martyrdom video_
+_Context: 2006 transatlantic aircraft plot, United Kingdom, martyrdom video_
 
 ### [ The Channel Tunnel, which connects the UK to France, closes after smoke is seen coming from a freight train in the tunnel. ](/news/2006/08/21/the-channel-tunnel-which-connects-the-uk-to-france-closes-after-smoke-is-seen-coming-from-a-freight-train-in-the-tunnel.md)
 _Context: Channel Tunnel, France, UK_

@@ -4,7 +4,7 @@
 _Context: Bok Abudema, Central African Republic, Lord's Resistance Army, Uganda, Ugandan soldier_
 
 ### [Somali pirates seize an Indonesian chemical tanker with 24 crew in the Gulf of Aden and a British cargo ship with 26 cars 620 miles off the Horn of Africa. ](/news/2010/01/2/somali-pirates-seize-an-indonesian-chemical-tanker-with-24-crew-in-the-gulf-of-aden-and-a-british-cargo-ship-with-26-cars-620-miles-off-the.md)
-_Context: Gulf of Aden, Horn of Africa, Indonesia, Somali pirates, UK, seize_
+_Context: Gulf of Aden, Horn of Africa, Indonesia, Somali pirates, United Kingdom, seize_
 
 ### [The Israeli Air Force launches an attack against tunnels leading from Gaza into Israel in response to missile attacks and mortar fire. ](/news/2010/01/2/the-israeli-air-force-launches-an-attack-against-tunnels-leading-from-gaza-into-israel-in-response-to-missile-attacks-and-mortar-fire.md)
 Military says two tunnels targeted while witnesses report several other explosions.

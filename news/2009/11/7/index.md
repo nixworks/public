@@ -1,7 +1,7 @@
 ## [2009-11-7](/news/2009/11/7/index.md)
 
 ### [ A British tourist is shot dead by a masked gunman in the U.S. state of Texas. ](/news/2009/11/7/a-british-tourist-is-shot-dead-by-a-masked-gunman-in-the-u-s-state-of-texas.md)
-_Context: Texas, UK_
+_Context: Texas, United Kingdom_
 
 ### [ Saudi forces bomb a Houthi rebel stronghold in northern Yemen for a third day. ](/news/2009/11/7/saudi-forces-bomb-a-houthi-rebel-stronghold-in-northern-yemen-for-a-third-day.md)
 _Context: Houthi, Saudi Arabia, Yemen's, due to fighting_

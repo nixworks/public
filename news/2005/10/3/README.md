@@ -13,7 +13,7 @@ _Context: Food and Agriculture Organization, South Africa, Southern Africa, USD,
 _Context: Australia, Barry J. Marshall, Helicobacter pylouri, Nobel Prize in Physiology or Medicine, Robin Warren, bacterium, gastritis, peptic ulcer_
 
 ### [ U.S. Representative Tom DeLay is indicted on a charge of money laundering. ](/news/2005/10/3/u-s-representative-tom-delay-is-indicted-on-a-charge-of-money-laundering.md)
-_Context: Tom DeLay, U.S., U.S. House of Representatives, money laundering_
+_Context: Tom DeLay, U.S. House of Representatives, United States, money laundering_
 
 ### [ Up to 60 police cadets have been swept away by powerful Typhoon Longwang in Fujian, south-east China. ](/news/2005/10/3/up-to-60-police-cadets-have-been-swept-away-by-powerful-typhoon-longwang-in-fujian-south-east-china.md)
 _Context: China, Fujian, Typhoon Longwang_
@@ -25,10 +25,10 @@ _Context: George Best, London, Manchester United, footballer, intensive care_
 _Context: Sangju, South Korea, concert, stampede_
 
 ### [ Welsh heavy metal band Bullet For My Valentine release their debut album The Poison. On January 30, 2009, the album was certified gold by the RIAA after 500,000 copies were sold in the United States. ](/news/2005/10/3/welsh-heavy-metal-band-bullet-for-my-valentine-release-their-debut-album-the-poison-on-january-30-2009-the-album-was-certified-gold-by-t.md)
-_Context: Bullet For My Valentine, RIAA, The Poison, U.S., heavy metal band's_
+_Context: Bullet For My Valentine, RIAA, The Poison, United States, heavy metal band's_
 
 ### [ On the first day of  the U.S. Supreme Court's fall term, President George W. Bush nominates White House Counsel Harriet Miers to fill the seat currently held by Sandra Day O'Connor. The nominee has no judicial experience.  ](/news/2005/10/3/on-the-first-day-of-the-u-s-supreme-court-s-fall-term-president-george-w-bush-nominates-white-house-counsel-harriet-miers-to-fill-the-s.md)
-_Context: George W. Bush, Harriet Miers, President of the United States, Sandra Day O'Connor, U.S., U.S. Supreme Court, White House Counsel_
+_Context: George W. Bush, Harriet Miers, President of the United States, Sandra Day O'Connor, U.S. Supreme Court, United States, White House Counsel_
 
 ### [ Conflict in Afghanistan: Afghan troops kill 31 suspects following clashes in Paktika, in eastern Afghanistan. ](/news/2005/10/3/conflict-in-afghanistan-afghan-troops-kill-31-suspects-following-clashes-in-paktika-in-eastern-afghanistan.md)
 _Context: Afghanistan, Paktika, War in Afghanistan (2001-present)_

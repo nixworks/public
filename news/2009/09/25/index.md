@@ -1,7 +1,7 @@
 ## [2009-09-25](/news/2009/09/25/index.md)
 
 ### [ Photographs of Spanish Prime Minister Jos Luis Rodrguez Zapatero and his family are published in the United States and subsequently published on the front pages of newspapers in his home country. A controversy occurs as many Spaniards have never before seen the children of the intensely private Prime Minister. ](/news/2009/09/25/photographs-of-spanish-prime-minister-jose-luis-rodriguez-zapatero-and-his-family-are-published-in-the-united-states-and-subsequently-publi.md)
-_Context: Jos Luis Rodrguez Zapatero, Prime Minister, Spain, U.S._
+_Context: Jos Luis Rodrguez Zapatero, Prime Minister, Spain, United States_
 
 ### [ Poland approves a law making chemical castration mandatory for paedophiles. ](/news/2009/09/25/poland-approves-a-law-making-chemical-castration-mandatory-for-paedophiles.md)
 Poland on Friday approved a law making chemical castration mandatory for pedophiles in some cases, sparking criticism from human rights groups.
@@ -25,7 +25,7 @@ _Context: Clearstream, Dominique de Villepin, Nicolas Sarkozy, President of Fran
 _Context: Brazil, Greater So Paulo, Santo Andr_
 
 ### [ Hundreds of people queue in Birmingham, United Kingdom, to see part of the Staffordshire hoard. ](/news/2009/09/25/hundreds-of-people-queue-in-birmingham-united-kingdom-to-see-part-of-the-staffordshire-hoard.md)
-_Context: Birmingham, Staffordshire hoard, UK_
+_Context: Birmingham, Staffordshire hoard, United Kingdom_
 
 ### [ Palau is to create the world's first "shark sanctuary", banning all commercial shark fishing in its waters. ](/news/2009/09/25/palau-is-to-create-the-world-s-first-shark-sanctuary-banning-all-commercial-shark-fishing-in-its-waters.md)
 _Context: Palau, commercial shark fishing, shark_

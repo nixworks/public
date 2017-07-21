@@ -10,7 +10,7 @@ _Context: Kofi Annan, Syria, Syrian Army, Syrian uprising (2011-present), United
 South Sudan freed prisoners of war on Wednesday as clashes appeared to abate between north and south, after cross-border fighting that threatened to tip into all-out war.
 
 ### [South Korean retailers cease selling beef from the United States after a case of mad cow disease is reported. ](/news/2012/04/25/south-korean-retailers-cease-selling-beef-from-the-united-states-after-a-case-of-mad-cow-disease-is-reported.md)
-_Context: South Korea, U.S., mad cow disease_
+_Context: South Korea, United States, mad cow disease_
 
 ### [Figures from the Office for National Statistics indicate the UK economy has returned to recession after shrinking by 0.2% in the first three months of 2012, bringing about a much-feared double-dip recession. ](/news/2012/04/25/figures-from-the-office-for-national-statistics-indicate-the-uk-economy-has-returned-to-recession-after-shrinking-by-0-2-in-the-first-three.md)
 The UK returns to recession, after a sharp fall in construction leads to the economy shrinking by 0.2% in the first three months of 2012.

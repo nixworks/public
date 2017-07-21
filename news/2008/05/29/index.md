@@ -28,7 +28,7 @@ _Context: Global food price crisis, Third World, US$, World Bank, grant_
 _Context: Bay Area Laboratory Co-operative, Trevor Graham, steroids, track and field_
 
 ### [ The United States Department of Commerce revises its estimate of economic growth in the United States to 0.9% for the first quarter of 2008. ](/news/2008/05/29/the-united-states-department-of-commerce-revises-its-estimate-of-economic-growth-in-the-united-states-to-0-9-for-the-first-quarter-of-2008.md)
-_Context: U.S., U.S. Commerce Department, economic growth, quarter_
+_Context: U.S. Commerce Department, United States, economic growth, quarter_
 
 ### [ At least 20 people are killed and 42 injured after two suicide bombings in northern Iraq. ](/news/2008/05/29/at-least-20-people-are-killed-and-42-injured-after-two-suicide-bombings-in-northern-iraq.md)
 _Context: Iraq, suicide bombing_
@@ -49,7 +49,7 @@ _Context: Luxembourg, Treaty of Lisbon_
 _Context:  reconstruction, Iraq, Stockholm, U.N. conference on Iraq, debt forgiveness_
 
 ### [ Torrential rain causes flash flooding across half of Somerset, United Kingdom. ](/news/2008/05/29/torrential-rain-causes-flash-flooding-across-half-of-somerset-united-kingdom.md)
-_Context: Flash flooding, Somerset, UK_
+_Context: Flash flooding, Somerset, United Kingdom_
 
 ## [Previous Day...](/news/2008/05/28/index.md)
 

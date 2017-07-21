@@ -4,7 +4,7 @@
 _Context: CPP-NPA-NDF rebellion, Communist Party, Martial law in the Philippines, Mindanao, Philippine government, Philippines, Rodrigo Duterte_
 
 ### [The Philippine military announces that it has discovered the bodies of 16 people, believed to have been killed by the ISIL affiliated Abu Sayyaf. Authorities say that the death toll after six days of fighting is 95, including 19 civilians. ](/news/2017/05/28/the-philippine-military-announces-that-it-has-discovered-the-bodies-of-16-people-believed-to-have-been-killed-by-the-isil-affiliated-abu-sa.md)
-_Context: Abu Sayyaf, ISIL, current situation_
+_Context: Abu Sayyaf, ISIL, Marawi crisis_
 
 ### [''The Square'', a Swedish film directed by Ruben stlund, wins the ''Palme d'Or'', the top award at the Cannes Film Festival. ](/news/2017/05/28/the-square-a-swedish-film-directed-by-ruben-ostlund-wins-the-palme-d-or-the-top-award-at-the-cannes-film-festival.md)
 &quot;The Square&quot;, a Swedish movie about the curator of a museum filled with grotesquely pretentious conceptual art was awarded the top prize at the Cannes Film Festival on Sunday.

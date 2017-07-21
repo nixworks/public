@@ -7,7 +7,7 @@ _Context: Lake Michigan, Northwest Orient Airlines Flight 2501_
 _Context: Bolivia, Pando, Unrest in Bolivia, martial law_
 
 ### [ The collapse of the United Kingdom's third largest tour operator XL Leisure Group, leaves over 85,000 British holidaymakers stranded abroad. ](/news/2008/09/12/the-collapse-of-the-united-kingdom-s-third-largest-tour-operator-xl-leisure-group-leaves-over-85-000-british-holidaymakers-stranded-abroad.md)
-_Context: UK, XL Leisure Group_
+_Context: United Kingdom, XL Leisure Group_
 
 ### [ Twenty Four people die in Chatsworth in Los Angeles, California following a collision between a Metrolink passenger train and a Union Pacific freight train. At least 135 people were also injured in the accident. ](/news/2008/09/12/twenty-four-people-die-in-chatsworth-in-los-angeles-california-following-a-collision-between-a-metrolink-passenger-train-and-a-union-pacif.md)
 Rescue teams worked frantically into this morning after a Metrolink passenger train carrying 225 people collided Friday with a Union Pacific freight train on a sharp curve in Chatsworth, killing at least 17 people and leaving more than 135 injured. It was one of the worst train crashes in Southern California history and Metrolink officials said they could not explain why warning systems failed to prevent such a catastrophic collision.
@@ -25,7 +25,7 @@ _Context: Bajaur, Federally Administered Tribal Areas, Pakistan Army_
 _Context: Malaysia, Malaysia Today, Raja Petra Kamarudin, Sin Chew Jit Poh, Teresa Kok, indefinite detention without trial_
 
 ### [ The United States-led coalition claims to kill at least 10 militants in fighting in Afghanistan. ](/news/2008/09/12/the-united-states-led-coalition-claims-to-kill-at-least-10-militants-in-fighting-in-afghanistan.md)
-_Context: Afghanistan, U.S._
+_Context: Afghanistan, United States_
 
 ### [ The Prime Minister of New Zealand Helen Clark calls an election for November 8. ](/news/2008/09/12/the-prime-minister-of-new-zealand-helen-clark-calls-an-election-for-november-8.md)
 _Context: Helen Clark, November 8, Prime Minister, wins a majority of seats_

@@ -10,7 +10,7 @@ South Korea&#8217;s president ordered his top security officials Sunday to deal 
 _Context: New Caledonia, Pierre Ngaiohni, Vice President_
 
 ### [ British Prime Minister Gordon Brown announces that an independent inquiry into the country's role in the Iraq War will be held in private. ](/news/2009/06/15/british-prime-minister-gordon-brown-announces-that-an-independent-inquiry-into-the-country-s-role-in-the-iraq-war-will-be-held-in-private.md)
-_Context: Gordon Brown, Iraq War, Prime Minister, UK, in private, independent inquiry_
+_Context: Gordon Brown, Iraq War, Prime Minister, United Kingdom, in private, independent inquiry_
 
 ### [ Leaders gather in Yekaterinburg, Russia, ahead of a Shanghai Cooperation Organisation and the first ever BRIC summit. ](/news/2009/06/15/leaders-gather-in-yekaterinburg-russia-ahead-of-a-shanghai-cooperation-organisation-and-the-first-ever-bric-summit.md)
 _Context: BRIC, Russia, Shanghai Cooperation Organisation, Yekaterinburg, first ever_
@@ -22,7 +22,7 @@ _Context: 2009 ICC World Twenty20, England, India_
 European Union member states are ready to help resettle detainees freed from the U.S. detention center at Guantanamo Bay in Cuba, the EU said on Monday.
 
 ### [ Five Cubans convicted of spying for Cuba are denied an appeal for a new trial by the United States Supreme Court. ](/news/2009/06/15/five-cubans-convicted-of-spying-for-cuba-are-denied-an-appeal-for-a-new-trial-by-the-united-states-supreme-court.md)
-_Context: Cuba, Cuban Five, U.S., United States Supreme Court, trial_
+_Context: Cuba, Cuban Five, United States, United States Supreme Court, trial_
 
 ### [ Notorious Melbourne Gangland figure Desmond "Tuppence" Moran is shot dead outside Deli Cafe in Ascot Vale, Victoria, Australia. [http://www.news.com.au/des-tuppence-moran-shot-dead-in-melbourne/story-0-1225735165691]](/news/2009/06/15/notorious-melbourne-gangland-figure-desmond-tuppence-moran-is-shot-dead-outside-deli-cafe-in-ascot-vale-victoria-australia-http-www.md)
 _Context: Ascot Vale, Australia, Melbourne gangland killings, Victoria_

@@ -7,7 +7,7 @@ _Context: Alaska, Mount Redoubt, volcanic activity_
 _Context: Butte, Montana, Pilatus PC-12, crashes_
 
 ### [ Four police officers are killed in Oakland, California, United States. ](/news/2009/03/22/four-police-officers-are-killed-in-oakland-california-united-states.md)
-_Context: California, Oakland, California, U.S., killed, police officer_
+_Context: California, Oakland, California, United States, killed, police officer_
 
 ### [ India's Board of Control for Cricket will relocate the 2009 Premier League outside the country. ](/news/2009/03/22/india-s-board-of-control-for-cricket-will-relocate-the-2009-premier-league-outside-the-country.md)
 _Context: Board of Control for Cricket, India, Indian Premier League, win_

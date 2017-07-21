@@ -1,13 +1,13 @@
 ## [2009-03-4](/news/2009/03/4/index.md)
 
 ### [ Venezuelan President Hugo Chvez orders the nationalization of United States-based food company Cargill. ](/news/2009/03/4/venezuelan-president-hugo-chavez-orders-the-nationalization-of-united-states-based-food-company-cargill.md)
-_Context: Cargill, Hugo Chvez, U.S., Venezuela, Venezuelan President, food company, nationalizes_
+_Context: Cargill, Hugo Chvez, United States, Venezuela, Venezuelan President, food company, nationalizes_
 
 ### [ A riot at a prison near Ciudad Jurez, Mexico, kills at least 20 inmates and injures seven others. ](/news/2009/03/4/a-riot-at-a-prison-near-ciudad-juarez-mexico-kills-at-least-20-inmates-and-injures-seven-others.md)
 _Context: Juarez, Mexico, prison, riot_
 
 ### [ Gordon Brown becomes the United Kingdom's fifth Prime Minister to address a joint session of the U.S. Congress. ](/news/2009/03/4/gordon-brown-becomes-the-united-kingdom-s-fifth-prime-minister-to-address-a-joint-session-of-the-u-s-congress.md)
-_Context: Gordon Brown, Prime Minister, U.S., UK, United States Congress, joint session of Congress_
+_Context: Gordon Brown, Prime Minister, United Kingdom, United States, United States Congress, joint session of Congress_
 
 ### [ President Nicolas Sarkozy and eight other top French politicians receive death threats. ](/news/2009/03/4/president-nicolas-sarkozy-and-eight-other-top-french-politicians-receive-death-threats.md)
 _Context: France, Nicolas Sarkozy, President of France, death threat, politician_
@@ -16,7 +16,7 @@ _Context: France, Nicolas Sarkozy, President of France, death threat, politician
 _Context: Chinese, military budget_
 
 ### [ U.S. Secretary of State Hillary Clinton and Palestinian National Authority President Mahmoud Abbas meet in the West Bank. ](/news/2009/03/4/u-s-secretary-of-state-hillary-clinton-and-palestinian-national-authority-president-mahmoud-abbas-meet-in-the-west-bank.md)
-_Context: Hillary Clinton, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, U.S., United States Secretary of State, West Bank_
+_Context: Hillary Clinton, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, United States, United States Secretary of State, West Bank_
 
 ### [ President Asif Ali Zardari says Pakistan will not negotiate with the "extremist Taliban and terrorists." ](/news/2009/03/4/president-asif-ali-zardari-says-pakistan-will-not-negotiate-with-the-extremist-taliban-and-terrorists.md)
 _Context: Asif Ali Zardari, Pakistan, President, Taliban, extremist, negotiation, terrorism_
@@ -34,7 +34,7 @@ _Context: Darfur, International Criminal Court, Omar al-Bashir, President, Sudan
 _Context: Kiev, Naftogas, Security Service of Ukraine, Ukraine_
 
 ### [ British-Norwegian cruise line Fred Olsen's cruise ship ''Balmoral'' escapes a Somali pirate attack in the Gulf of Aden. ](/news/2009/03/4/british-norwegian-cruise-line-fred-olsen-s-cruise-ship-balmoral-escapes-a-somali-pirate-attack-in-the-gulf-of-aden.md)
-_Context: Balmoral, Fred Olsen, Gulf of Aden, Norway, Somali pirates, Somalia, UK, cruise line, cruise ship_
+_Context: Balmoral, Fred Olsen, Gulf of Aden, Norway, Somali pirates, Somalia, United Kingdom, cruise line, cruise ship_
 
 ### [ The Netherlands' Safety Board finds that Turkish Airlines Flight 1951 crash-landed near Amsterdam's Schiphol Airport because of a faulty altimeter. ](/news/2009/03/4/the-netherlands-safety-board-finds-that-turkish-airlines-flight-1951-crash-landed-near-amsterdam-s-schiphol-airport-because-of-a-faulty-al.md)
 _Context: Amsterdam, Amsterdam Airport Schiphol, Dutch Safety Board, Flight 1951, Netherlands, Turkish Airlines, altimeter, emergency landing_

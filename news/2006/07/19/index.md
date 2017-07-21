@@ -7,7 +7,7 @@ _Context: George W. Bush, President of the United States, Stem cell controversy,
 _Context: Europe, Netherlands, Wisley, heat wave_
 
 ### [ Ben Bernanke, Chairman of the United States Federal Reserve warns the United States Senate Banking Committee of the possible impact of rising energy prices on inflation. ](/news/2006/07/19/ben-bernanke-chairman-of-the-united-states-federal-reserve-warns-the-united-states-senate-banking-committee-of-the-possible-impact-of-risi.md)
-_Context: Ben Bernanke, United States Federal Reserve, United States Senate, inflation_
+_Context: Ben Bernanke, Senate, United States Federal Reserve, inflation_
 
 ### [ Internet censorship: In an unprecedented move for a leading democracy, India bans some blogs; Huge outrage reported. ](/news/2006/07/19/internet-censorship-in-an-unprecedented-move-for-a-leading-democracy-india-bans-some-blogs-huge-outrage-reported.md)
 Indian bloggers have reacted with anger and confusion, accusing the government of censorship and demanding to know why their sites have been jammed.

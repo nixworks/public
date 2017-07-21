@@ -70,7 +70,7 @@ _Context: 2011 Yemeni protests, State Department's, Yemen's_
 _Context: Islamist, Kenya, Mandera, Somalia, al-Shabaab militants_
 
 ### [Gunmen attacked patrons at a bar near the United States consulate in Ciudad Juarez, Mexico killing three people. ](/news/2011/03/6/gunmen-attacked-patrons-at-a-bar-near-the-united-states-consulate-in-ciudad-jua-rez-mexico-killing-three-people.md)
-_Context: Ciudad Juarez, Mexico, U.S._
+_Context: Ciudad Juarez, Mexico, United States_
 
 ### [Egyptian Army General Mansour el-Essawy is named as the new Minister of Interior responsible for security replacing Mahmoud Wagdy. ](/news/2011/03/6/egyptian-army-general-mansour-el-essawy-is-named-as-the-new-minister-of-interior-responsible-for-security-replacing-mahmoud-wagdy.md)
 _Context: Egyptian Army, Egyptian interior minister, Mahmoud Wagdy, Mansour el-Essawy_

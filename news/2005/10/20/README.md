@@ -7,7 +7,7 @@ Ontario announced Thursday it will follow the U.S. lead and extend daylight time
 _Context: 2005 Kashmir earthquake, United Nations_
 
 ### [ In the United Kingdom,  David Cameron and David Davis go through to a runoff vote of Conservative Party members after a second round of voting amongst Tory MPs in the party's leadership election. Liam Fox is eliminated. ](/news/2005/10/20/in-the-united-kingdom-david-cameron-and-david-davis-go-through-to-a-runoff-vote-of-conservative-party-members-after-a-second-round-of-vot.md)
-_Context: Conservative Party, David Cameron, David Davis, Liam Fox, Members of Parliament, UK, leadership election_
+_Context: Conservative Party, David Cameron, David Davis, Liam Fox, Members of Parliament, United Kingdom, leadership election_
 
 ### [ Conflict in Iraq: Four U.S. soldiers are killed in two insurgent attacks north of Baghdad, Iraq. ](/news/2005/10/20/conflict-in-iraq-p-four-u-s-soldiers-are-killed-in-two-insurgent-attacks-north-of-baghdad-iraq.md)
 _Context: Baghdad, Conflict in Iraq, Iraq, Iraqi insurgency, United States Army_
@@ -19,7 +19,7 @@ _Context: Muslim, TV, Taliban, War in Afghanistan (2001-present)_
 _Context: Guinea_
 
 ### [ One ticket sold in Oregon matched all the numbers in the United States Powerball Lottery which was worth U.S.$340 million.](/news/2005/10/20/one-ticket-sold-in-oregon-matched-all-the-numbers-in-the-united-states-powerball-lottery-which-was-worth-u-s-340-million.md)
-_Context: Oregon, Powerball, U.S., US$, lottery_
+_Context: Oregon, Powerball, US$, United States, lottery_
 
 ## [Previous Day...](/news/2005/10/19/index.md)
 

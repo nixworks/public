@@ -22,7 +22,7 @@ _Context: Solomon Islands, two major earthquakes and tsunami_
 _Context: Brazil, Rio Grande do Sul_
 
 ### [The United Kingdom is once again deluged by heavy snowfall as the country endures its worst cold snap since 1979. ](/news/2010/01/5/the-united-kingdom-is-once-again-deluged-by-heavy-snowfall-as-the-country-endures-its-worst-cold-snap-since-1979.md)
-_Context: UK, heavy snowfall_
+_Context: United Kingdom, heavy snowfall_
 
 ### [A Learjet cargo plane on approach to Chicago Executive Airport crashes into the Des Plaines River in Wheeling, Illinois. ](/news/2010/01/5/a-learjet-cargo-plane-on-approach-to-chicago-executive-airport-crashes-into-the-des-plaines-river-in-wheeling-illinois.md)
 _Context: Chicago Executive Airport, Des Plaines River, Learjet, Wheeling, Illinois_
@@ -37,7 +37,7 @@ _Context: Iran_
 A third uninvited guest made it into a White House state dinner in honor of the Indian prime minister, but there is no evidence the person had contact with the president or first lady, the Secret Service said on Monday.
 
 ### [The United States reopens its embassy in Yemen after strikes on al-Qaeda. ](/news/2010/01/5/the-united-states-reopens-its-embassy-in-yemen-after-strikes-on-al-qaeda.md)
-_Context: U.S., Yemen's_
+_Context: United States, Yemen's_
 
 ### [Andal Ampatuan Jr., charged with 41 counts of murder in the Maguindanao massacre in November, pleads not guilty at the beginning of his trial in the Philippines. ](/news/2010/01/5/andal-ampatuan-jr-charged-with-41-counts-of-murder-in-the-maguindanao-massacre-in-november-pleads-not-guilty-at-the-beginning-of-his-tria.md)
 _Context: Andal Ampatuan Jr., Maguindanao massacre, Philippines_

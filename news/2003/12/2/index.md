@@ -19,13 +19,13 @@ _Context: 2004, Australian Prime Minister, John Howard, Kim Beazley, Labor Party
 _Context: Colin Powell, Geneva plan, Israel, Palestinian Authority, Politics of Israel, U.S. Secretary of State_
 
 ### [ US Defense Secretary Donald Rumsfeld wins the annual "Foot in Mouth Prize" awarded by the UK's Plain English Campaign for the most nonsensical remark made by a public figure. Among the runners-up are Arnold Schwarzenegger and Chris Patten. [http://news.bbc.co.uk/2/hi/americas/3254852.stm]](/news/2003/12/2/us-defense-secretary-donald-rumsfeld-wins-the-annual-foot-in-mouth-prize-awarded-by-the-uk-s-plain-english-campaign-for-the-most-nonsensi.md)
-_Context: Arnold Schwarzenegger, Chris Patten, Donald Rumsfeld, Plain English Campaign, Secretary of Defense, UK_
+_Context: Arnold Schwarzenegger, Chris Patten, Donald Rumsfeld, Plain English Campaign, Secretary of Defense, United Kingdom_
 
 ### [ Hospitals around Paris struggle to cope with an outbreak of influenza and gastro-enteritis. [http://news.bbc.co.uk/2/hi/europe/3253286.stm]](/news/2003/12/2/hospitals-around-paris-struggle-to-cope-with-an-outbreak-of-influenza-and-gastro-enteritis-http-news-bbc-co-uk-2-hi-europe-3253286-stm.md)
 _Context: Paris, flu_
 
 ### [ The European Union threatens retaliatory sanctions unless the United States lifts its threat of restrictions on imports of steel; the US measures have been declared illegal by the WTO. [http://abcnews.go.com/wire/Politics/ap20031201_936.html]](/news/2003/12/2/the-european-union-threatens-retaliatory-sanctions-unless-the-united-states-lifts-its-threat-of-restrictions-on-imports-of-steel-the-us-me.md)
-_Context: European Union, U.S., WTO, steel_
+_Context: European Union, United States, WTO, steel_
 
 ### [ Pirate copies of a pre-alpha version of Microsoft's Windows "Longhorn" operating system go on sale in Malaysia more than a year ahead of its expected release date. [http://news.bbc.co.uk/2/hi/technology/3255120.stm]](/news/2003/12/2/pirate-copies-of-a-pre-alpha-version-of-microsoft-s-windows-longhorn-operating-system-go-on-sale-in-malaysia-more-than-a-year-ahead-of-it.md)
 _Context: Malaysia, Microsoft, Windows Vista_
@@ -34,7 +34,7 @@ _Context: Malaysia, Microsoft, Windows Vista_
 _Context: Great Internet Mersenne Prime Search, Mersenne prime, decimal, digits, prime number_
 
 ### [ The Pentagon announces that U.S.-born illegal combatant and Taliban fighter Yaser Esam Hamdi will be allowed access to a lawyer after having been denied such counsel for two years. [http://www.myafghan.com/news2.asp?id=985750365&search=12/3/2003]](/news/2003/12/2/the-pentagon-announces-that-u-s-born-illegal-combatant-and-taliban-fighter-yaser-esam-hamdi-will-be-allowed-access-to-a-lawyer-after-havin.md)
-_Context: Taliban, U.S., United States military, Yaser Esam Hamdi, illegal combatant_
+_Context: Taliban, United States, United States military, Yaser Esam Hamdi, illegal combatant_
 
 ## [Previous Day...](/news/2003/12/1/index.md)
 

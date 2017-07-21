@@ -10,13 +10,13 @@ _Context: Kosovo, Kosovo, Palau_
 _Context: County Armagh, Craigavon, Northern Ireland, Police Service of Northern Ireland, police officer_
 
 ### [ The United States government claims five Chinese ships "harass[ed]" the USNS ''Impeccable'' in the South China Sea. ](/news/2009/03/9/the-united-states-government-claims-five-chinese-ships-harass-ed-the-usns-impeccable-in-the-south-china-sea.md)
-_Context: ''Impeccable'', Chinese, South China Sea, U.S., USNS, United States_
+_Context: ''Impeccable'', Chinese, South China Sea, USNS, United States, United States_
 
 ### [ U.S. President Barack Obama lifts George W. Bush's restrictions on embryonic stem cell research. ](/news/2009/03/9/u-s-president-barack-obama-lifts-george-w-bush-s-restrictions-on-embryonic-stem-cell-research.md)
-_Context: Barack Obama, George W. Bush, President of the United States, U.S., embryonic stem cell, restrictions_
+_Context: Barack Obama, George W. Bush, President of the United States, United States, embryonic stem cell, restrictions_
 
 ### [ Argentina and Chile reject the United Kingdom's claims on Antarctic territory. ](/news/2009/03/9/argentina-and-chile-reject-the-united-kingdom-s-claims-on-antarctic-territory.md)
-_Context: Antarctica, Argentina, British Antarctic Territory, Chile, UK, territory_
+_Context: Antarctica, Argentina, British Antarctic Territory, Chile, United Kingdom, territory_
 
 ### [ North Korea says an interception of its upcoming "satellite" launch would "mean a war." ](/news/2009/03/9/north-korea-says-an-interception-of-its-upcoming-satellite-launch-would-mean-a-war.md)
 _Context: North Korea, released an object into orbit_

@@ -7,7 +7,7 @@ FOUR people have been killed and more than 20 injured when a homemade bomb was d
 The Syrian opposition reverses its decision to boycott international talks in Rome, after the US and the UK promise to increase their support.
 
 ### [Telecommunications giant BT expands its investment in sports broadcasting with the purchase of ESPN's channels in Britain and Ireland. ](/news/2013/02/25/telecommunications-giant-bt-expands-its-investment-in-sports-broadcasting-with-the-purchase-of-espn-s-channels-in-britain-and-ireland.md)
-_Context: BT, ESPN, Ireland, UK, sports broadcasting_
+_Context: BT, ESPN, Ireland, United Kingdom, sports broadcasting_
 
 ### [BlackBerry, the company formally known as Research in Motion, launches its BlackBerry Z10 smartphone in India, where it costs 43,490 rupees, or roughly US$800. ](/news/2013/02/25/blackberry-the-company-formally-known-as-research-in-motion-launches-its-blackberry-z10-smartphone-in-india-where-it-costs-43-490-rupees.md)
 BlackBerry launched its first smartphone from its BlackBerry 10 line in India on Monday, pricing the phone at 43,490 rupees ($800).
@@ -28,10 +28,10 @@ Swedish-style meatballs for sale at Ikea in the Czech Republic are found to cont
 By Genevra PittmanNEW YORK (Reuters Health) - A Mediterranean diet high in olive oil, nuts, fish and fresh fruits and vegetables may help prevent hea
 
 ### [Former United States Surgeon General C. Everett Koop dies at the age of 96. ](/news/2013/02/25/former-united-states-surgeon-general-c-everett-koop-dies-at-the-age-of-96.md)
-_Context: C. Everett Koop, U.S., U.S. Surgeon General_
+_Context: C. Everett Koop, U.S. Surgeon General, United States_
 
 ### [NATO says it has found no evidence to back the Afghan claim of misconduct by United States forces. ](/news/2013/02/25/nato-says-it-has-found-no-evidence-to-back-the-afghan-claim-of-misconduct-by-united-states-forces.md)
-_Context: Afghanistan, NATO, U.S._
+_Context: Afghanistan, NATO, United States_
 
 ### [Russia enacts a law banning smoking on subways and in schools. ](/news/2013/02/25/russia-enacts-a-law-banning-smoking-on-subways-and-in-schools.md)
 _Context: Russia, enacts, school, smoking, smoking ban, subways_

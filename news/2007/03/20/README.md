@@ -19,13 +19,13 @@ _Context: Bob Woolmer, Jamaica, Pakistan, cricketer, murder_
 _Context: Pakistan, South Waziristan, Uzbek_
 
 ### [ Britain releases a school uniform policy allowing schools to ban the niqab or full-face veil for girls. ](/news/2007/03/20/britain-releases-a-school-uniform-policy-allowing-schools-to-ban-the-niqab-or-full-face-veil-for-girls.md)
-_Context: UK, girl, niqab, school, school uniform, veil_
+_Context: United Kingdom, girl, niqab, school, school uniform, veil_
 
 ### [ Up to 65 people die as a truck overturns on a bridge near Gueckedou, Guinea. ](/news/2007/03/20/up-to-65-people-die-as-a-truck-overturns-on-a-bridge-near-gueckedou-guinea.md)
 _Context: Gueckedou, Guinea, bridge, truck_
 
 ### [ United Kingdom Secretary of State for Defence Des Browne orders the military to destroy cluster bombs that lack self-destruct mechanisms in order to avoid harming civilians. ](/news/2007/03/20/united-kingdom-secretary-of-state-for-defence-des-browne-orders-the-military-to-destroy-cluster-bombs-that-lack-self-destruct-mechanisms-in.md)
-_Context: Des Browne, Secretary of State for Defence, UK, civilian, cluster bomb, military_
+_Context: Des Browne, Secretary of State for Defence, United Kingdom, civilian, cluster bomb, military_
 
 ### [ Dismissal of U.S. attorneys controversy: The Bush administration agrees to allow Deputy White House Chief of Staff Karl Rove and former White House Counsel Harriet Miers to testify but not under oath.](/news/2007/03/20/dismissal-of-u-s-attorneys-controversy-the-bush-administration-agrees-to-allow-deputy-white-house-chief-of-staff-karl-rove-and-former-whi.md)
 _Context: Deputy White House Chief of Staff, George W. Bush administration, Harriet Miers, Karl Rove, White House Counsel, firings, oath, testify_
@@ -43,7 +43,7 @@ _Context: Krasnodar Krai, Russia, fire, nursing home_
 _Context: Baath Party, Baghdad, Dujail, Iraq, Taha Yassin Ramadan, Vice President, most-wanted Iraqi playing cards_
 
 ### [ The wife of Sami Al-Arian, a former university professor convicted by a United States district court of funneling money to Islamic Jihad, fears for his life as his hunger strike to protest his imprisonment enters its 58th day. ](/news/2007/03/20/the-wife-of-sami-al-arian-a-former-university-professor-convicted-by-a-united-states-district-court-of-funneling-money-to-islamic-jihad-f.md)
-_Context: Islamic Jihad Movement in Palestine, Sami Al-Arian, U.S., U.S. federal court, hunger strike_
+_Context: Islamic Jihad Movement in Palestine, Sami Al-Arian, U.S. federal court, United States, hunger strike_
 
 ## [Previous Day...](/news/2007/03/19/index.md)
 

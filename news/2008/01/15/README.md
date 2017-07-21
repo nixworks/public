@@ -13,7 +13,7 @@ _Context: 16 December, Bombing of northern Iraq, northern Iraq_
 _Context: Afghanistan, Marines, United States military, War in Afghanistan (2001-present)_
 
 ### [ The U.S. Food and Drug Administration allows the production and sale of foods derived from cloned animals. ](/news/2008/01/15/the-u-s-food-and-drug-administration-allows-the-production-and-sale-of-foods-derived-from-cloned-animals.md)
-_Context: U.S., U.S. Food and Drug Administration, cloning_
+_Context: U.S. Food and Drug Administration, United States, cloning_
 
 ## [Previous Day...](/news/2008/01/14/index.md)
 

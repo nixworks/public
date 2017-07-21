@@ -7,7 +7,7 @@ _Context: BBC World Service, Central Intelligence Agency, Romania, extraordinary
 _Context: C-130 Hercules, Iran, Tehran, crashes into a ten-story building_
 
 ### [ David Cameron wins the leadership election for the United Kingdom Conservative Party. ](/news/2005/12/6/david-cameron-wins-the-leadership-election-for-the-united-kingdom-conservative-party.md)
-_Context: Conservative Party, David Cameron, UK, leadership election_
+_Context: Conservative Party, David Cameron, United Kingdom, leadership election_
 
 ### [ The World Wide Fund for Nature (WWF) photographs what appears to be a new species in Borneo. The lemur-like carnivorous mammal is apparently a member of the viverrid family, related to the mongoose and civet. ](/news/2005/12/6/the-world-wide-fund-for-nature-wwf-photographs-what-appears-to-be-a-new-species-in-borneo-the-lemur-like-carnivorous-mammal-is-apparentl.md)
 _Context: Borneo's, World Wildlife Fund, civet, lemur, mammal, mongoose, new species, viverrid_

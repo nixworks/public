@@ -4,7 +4,7 @@
 Viva Palestina vehicles leave London en route to besieged Strip for what organisers say will be biggest aid convoy yet.
 
 ### [The United States Army charges 5 US soldiers with murdering 3 Afghan civilians earlier this year. ](/news/2010/09/19/the-united-states-army-charges-5-us-soldiers-with-murdering-3-afghan-civilians-earlier-this-year.md)
-_Context: Afghanistan, U.S., United States Army_
+_Context: Afghanistan, United States, United States Army_
 
 ### [2 car bombs explode in Baghdad, Iraq, killing at least 31 people and injuring 111. ](/news/2010/09/19/2-car-bombs-explode-in-baghdad-iraq-killing-at-least-31-people-and-injuring-111.md)
 _Context: 2 car bomb, Baghdad, Iraq_
@@ -49,7 +49,7 @@ _Context: Chinese, Japan_
 Viva Palestina vehicles leave London en route to besieged Strip for what organisers say will be biggest aid convoy yet.
 
 ### [A British man of Somali origin, destined for Uganda, is arrested in Schiphol airport in Amsterdam on suspicion of being a terrorist. ](/news/2010/09/19/a-british-man-of-somali-origin-destined-for-uganda-is-arrested-in-schiphol-airport-in-amsterdam-on-suspicion-of-being-a-terrorist.md)
-_Context: Amsterdam, Amsterdam Airport Schiphol, Somalia, UK, Uganda, terrorism_
+_Context: Amsterdam, Amsterdam Airport Schiphol, Somalia, Uganda, United Kingdom, terrorism_
 
 ### [Inderjit Singh Reyat, the only man convicted of the bombings of Air India Flight 182 and Narita International Airport in 1985, is found guilty of perjury. ](/news/2010/09/19/inderjit-singh-reyat-the-only-man-convicted-of-the-bombings-of-air-india-flight-182-and-narita-international-airport-in-1985-is-found-guil.md)
 _Context: Air India Flight 182, Narita International Airport, committed perjury_
@@ -79,7 +79,7 @@ _Context: Minister for Basic Industry, President, Raul Castro, Yadira Garcia Ver
 _Context: Birmingham, Cardinal, England, John Henry Newman, Pope Benedict XVI, beatified, visit of Pope Benedict XVI_
 
 ### [Concerns are held about a cult-like group of Salvadoran migrants to the United States in Palmdale, California, who have gone missing after leaving a note that they were going to meet Jesus. They are later found alive in a park. ](/news/2010/09/19/concerns-are-held-about-a-cult-like-group-of-salvadoran-migrants-to-the-united-states-in-palmdale-california-who-have-gone-missing-after-l.md)
-_Context: California, El Salvador, Jesus, Palmdale, U.S., cult_
+_Context: California, El Salvador, Jesus, Palmdale, United States, cult_
 
 ### [Approximately 2,000 Armenians worship at the 10th century Church of the Holy Cross on Akdamar Island in Turkey for the first time since 1915. ](/news/2010/09/19/approximately-2-000-armenians-worship-at-the-10th-century-church-of-the-holy-cross-on-akdamar-island-in-turkey-for-the-first-time-since-1915.md)
 _Context: 10th century, Akdamar Island, Armenia, Turkey_

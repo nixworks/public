@@ -19,7 +19,7 @@ Myanmars prime minister and at least 17 other ministers and deputy ministers Mon
 _Context: Russia, Sevastopol, Ukraine, Verkhovna Rada, during protests, smoke bomb_
 
 ### [A United States Senate investigation finds that Goldman Sachs made billions of dollars at the expense of its clients during the collapse of the housing market. ](/news/2010/04/27/a-united-states-senate-investigation-finds-that-goldman-sachs-made-billions-of-dollars-at-the-expense-of-its-clients-during-the-collapse-of.md)
-_Context: Goldman Sachs, United States Senate, housing market_
+_Context: Goldman Sachs, Senate, housing market_
 
 ### [Oh Eun-Sun becomes the first woman to successfully scale all of the world's 14 highest peaks. ](/news/2010/04/27/oh-eun-sun-becomes-the-first-woman-to-successfully-scale-all-of-the-world-s-14-highest-peaks.md)
 _Context: Oh Eun-Sun, highest peaks, mountaineering_

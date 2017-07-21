@@ -7,7 +7,7 @@ A car bomb killed more than 50 people and wounded 200 in central Damascus on Thu
 At least 12 people are killed by twin blasts in the southern Indian city of Hyderabad, which PM Manmohan Singh has called a &quot;dastardly attack&quot;.
 
 ### [Michael Edwards becomes the first British writer elected at the Academie francaise. ](/news/2013/02/21/michael-edwards-becomes-the-first-british-writer-elected-at-the-acada-c-mie-franassaise.md)
-_Context: Academie francaise, Michael Edwards, UK, writer_
+_Context: Academie francaise, Michael Edwards, United Kingdom, writer_
 
 ### [PayPal, the online payments business, a division of eBay, launches a European version of the PayPal Here mobile payments system. ](/news/2013/02/21/paypal-the-online-payments-business-a-division-of-ebay-launches-a-european-version-of-the-paypal-here-mobile-payments-system.md)
 PayPal launched a European version of its PayPal Here mobile payments service for small merchants on Thursday as the online payments division of eBay Inc steps up competition with rivals, including Square Inc.
@@ -19,7 +19,7 @@ _Context: Ally Financial, Bank of America, Citigroup, JPMorgan Chase, United Sta
 A major winter storm in the US Midwest that is already blamed for two deaths blankets several states in up to 17in (43cm) of snow.
 
 ### [A car crash and shooting occurs at the Las Vegas Strip in Paradise, Nevada, United States. Three people are dead, and six others are wounded. ](/news/2013/02/21/a-car-crash-and-shooting-occurs-at-the-las-vegas-strip-in-paradise-nevada-united-states-three-people-are-dead-and-six-others-are-wounded.md)
-_Context: Las Vegas Strip, Nevada, Paradise, Nevada, U.S., shooting_
+_Context: Las Vegas Strip, Nevada, Paradise, Nevada, United States, shooting_
 
 ### [Three young girls are kidnapped, raped, and killed in the Bhandara district of India. ](/news/2013/02/21/three-young-girls-are-kidnapped-raped-and-killed-in-the-bhandara-district-of-india.md)
 _Context: Bhandara district, India_

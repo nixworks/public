@@ -19,7 +19,7 @@ _Context: Michael Misick, Premier of the Turks and Caicos Islands, Turks and Cai
 _Context: 14th Dalai Lama, Dalai Lama, Johannesburg, South Africa, peace conference, visa-free travel_
 
 ### [ The United Kingdom's Retail Prices Index reaches zero percent for the first time since 1960. ](/news/2009/03/24/the-united-kingdom-s-retail-prices-index-reaches-zero-percent-for-the-first-time-since-1960.md)
-_Context: Retail Prices Index, UK_
+_Context: Retail Prices Index, United Kingdom_
 
 ### [ Sixteen militants and eight Indian Army soldiers are killed in Jammu and Kashmir's Kupwara District. ](/news/2009/03/24/sixteen-militants-and-eight-indian-army-soldiers-are-killed-in-jammu-and-kashmir-s-kupwara-district.md)
 _Context: India, Indian Army, Insurgency in Jammu and Kashmir, Jammu and Kashmir, Kupwara District, militant, soldier_
@@ -34,7 +34,7 @@ Traffic on the site has dropped to nearly zero, the company said, adding that it
 Mexicans desperate for an end to drug gang murders, abductions and extortion saw a glimmer of hope on Tuesday as the United States vowed to tighten security on the increasingly violent border.
 
 ### [ Immaculata University discovers the mass grave of 57 Irish immigrants in East Whiteland Township, Pennsylvania, United States. ](/news/2009/03/24/immaculata-university-discovers-the-mass-grave-of-57-irish-immigrants-in-east-whiteland-township-pennsylvania-united-states.md)
-_Context: East Whiteland Township, Immaculata University, Ireland, Pennsylvania, U.S., mass grave, migrants_
+_Context: East Whiteland Township, Immaculata University, Ireland, Pennsylvania, United States, mass grave, migrants_
 
 ## [Previous Day...](/news/2009/03/23/index.md)
 

@@ -4,7 +4,7 @@
 The UN says government troops in the Democratic Republic of Congo might have committed rapes and murders in an area recently attacked by rebels.
 
 ### [Gunmen abduct British and local Save the Children aid workers from a compound in western Somalia. ](/news/2010/10/15/gunmen-abduct-british-and-local-save-the-children-aid-workers-from-a-compound-in-western-somalia.md)
-_Context: Save the Children, Somalia, UK_
+_Context: Save the Children, Somalia, United Kingdom_
 
 ### [A United States Army soldier from 5th Stryker Brigade Combat Team is to face a court martial on murder and other charges related to the deaths of civilians in Afghanistan. ](/news/2010/10/15/a-united-states-army-soldier-from-5th-stryker-brigade-combat-team-is-to-face-a-court-martial-on-murder-and-other-charges-related-to-the-deat.md)
 _Context: 5th Stryker Brigade Combat Team, Afghanistan, United States Army, court-martial_
@@ -16,7 +16,7 @@ _Context: England, G4S, Jimmy Mubenga_
 _Context: Adolf Hitler, Berlin, German, Germany_
 
 ### [US rapper T.I. is sentenced to eleven months in prison for violating the terms of his parole. ](/news/2010/10/15/us-rapper-t-i-is-sentenced-to-eleven-months-in-prison-for-violating-the-terms-of-his-parole.md)
-_Context: T.I., U.S., parole, rapper_
+_Context: T.I., United States, parole, rapper_
 
 ### [Canton Fair opens, China's largest trade fair and a key barometer of its trade and economic development. ](/news/2010/10/15/canton-fair-opens-china-s-largest-trade-fair-and-a-key-barometer-of-its-trade-and-economic-development.md)
 _Context: Canton Fair, barometer_
@@ -61,7 +61,7 @@ A Saudi prince accused of beating his servant to death in a London hotel will no
 Iran says two Germans have admitted breaking the law after they were arrested for interviewing the son of a woman sentenced to death for adultery.
 
 ### [Former Countrywide Financial Chief Executive Officer Angelo Mozilo and two other senior executives agree to settle United States Securities and Exchange Commission claims that they misled investors and of insider trading. ](/news/2010/10/15/former-countrywide-financial-chief-executive-officer-angelo-mozilo-and-two-other-senior-executives-agree-to-settle-united-states-securities.md)
-_Context: Angelo Mozilo, Countrywide Financial, Securities and Exchange Commission, U.S., chief executive officer, insider trading_
+_Context: Angelo Mozilo, Countrywide Financial, Securities and Exchange Commission, United States, chief executive officer, insider trading_
 
 ### [More than 100 Chinese scholars, journalists and lawyers publish an open letter demanding the release of Liu Xiaobo. ](/news/2010/10/15/more-than-100-chinese-scholars-journalists-and-lawyers-publish-an-open-letter-demanding-the-release-of-liu-xiaobo.md)
 China&#039;s leaders faced fresh calls for freedom of speech on Friday after group of 100 scholars, journalists and lawyers published an open letter demanding the release of Nobel peace laureate Liu Xiaobo.

@@ -22,7 +22,7 @@ Al-Shabab forces pro-government group out of towns in central Galgudud region.
 PM says attacks that killed 69 people were response to killing of two al-Qaeda leaders.
 
 ### [Russia's Proton-M rocket sends a United States SES-1 telecommunications satellite into space. ](/news/2010/04/24/russia-s-proton-m-rocket-sends-a-united-states-ses-1-telecommunications-satellite-into-space.md)
-_Context: Proton-M, Russia, U.S., rocket, space, telecommunications satellite_
+_Context: Proton-M, Russia, United States, rocket, space, telecommunications satellite_
 
 ### [ An unmanned American aircraft kills seven militants in Pakistan. ](/news/2010/04/24/an-unmanned-american-aircraft-kills-seven-militants-in-pakistan.md)
 _Context: Pakistan, drone_

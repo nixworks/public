@@ -40,7 +40,7 @@ A man involved in a paternity dispute opened fire Wednesday in front of a South 
 Israel confirms it imprisoned an Australian-Israeli man under a false identity for security reasons, and that he died in custody.
 
 ### [The U.S. administration's nominee to become next Treasury Secretary, Jack Lew, testifies before the financial committee of the United States Senate at the start of his confirmation hearing. ](/news/2013/02/13/the-u-s-administration-s-nominee-to-become-next-treasury-secretary-jack-lew-testifies-before-the-financial-committee-of-the-united-states.md)
-_Context: Jack Lew, Treasury Secretary, U.S., United States Senate_
+_Context: Jack Lew, Senate, Treasury Secretary, U.S._
 
 ## [Previous Day...](/news/2013/02/12/index.md)
 

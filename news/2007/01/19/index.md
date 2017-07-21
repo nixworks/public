@@ -1,7 +1,7 @@
 ## [2007-01-19](/news/2007/01/19/index.md)
 
 ### [ The Storm Worm Trojan horse infects thousands of computers (mostly private) in Europe and the United States. ](/news/2007/01/19/the-storm-worm-trojan-horse-infects-thousands-of-computers-mostly-private-in-europe-and-the-united-states.md)
-_Context: Europe, Storm Worm, Trojan horse, U.S._
+_Context: Europe, Storm Worm, Trojan horse, United States_
 
 ### [ The Government of Kyrgyzstan arrests the leader of the Hizb ut-Tahrir branch in Kyrgyzstan. HuT is a designated terrorist organization and is considered to have ties to Al Qaeda, though it maintains it is a political party. ](/news/2007/01/19/the-government-of-kyrgyzstan-arrests-the-leader-of-the-hizb-ut-tahrir-branch-in-kyrgyzstan-hut-is-a-designated-terrorist-organization-and.md)
 _Context: Government of Kyrgyzstan, Hizb ut-Tahrir, Kyrgyzstan, al-Qaeda, political party_
@@ -25,7 +25,7 @@ _Context: Basra, Iraq, Robert Gates, Secretary of Defense_
 _Context: NOKAS robbery, Norway_
 
 ### [ The furore over the treatment towards contestant Shilpa Shetty in Celebrity Big Brother 2007, by contestants including Jade Goody, has resulted in Jade being evicted by popular vote from the show, due to heightened concerns over safety, after the issue reached a lowpoint in UK-Indian relations. ](/news/2007/01/19/the-furore-over-the-treatment-towards-contestant-shilpa-shetty-in-celebrity-big-brother-2007-by-contestants-including-jade-goody-has-resu.md)
-_Context: Celebrity Big Brother 2007, India, Jade Goody, Shilpa Shetty, UK_
+_Context: Celebrity Big Brother 2007, India, Jade Goody, Shilpa Shetty, United Kingdom_
 
 ## [Previous Day...](/news/2007/01/18/index.md)
 

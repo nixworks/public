@@ -4,7 +4,7 @@
 _Context: Burundi, National Liberation Front, Pierre Nkurunziza_
 
 ### [ Many petrol stations across the United Kingdom experienced increased demand ahead of the 2005 fuel protests. ](/news/2005/09/13/many-petrol-stations-across-the-united-kingdom-experienced-increased-demand-ahead-of-the-2005-fuel-protests.md)
-_Context: 2005 fuel protests, UK, petrol station_
+_Context: 2005 fuel protests, United Kingdom, petrol station_
 
 ### [ Sony recalls 3.5 million faulty PlayStation 2 power adapters. ](/news/2005/09/13/sony-recalls-3-5-million-faulty-playstation-2-power-adapters.md)
 _Context: PlayStation 2, Sony_

@@ -4,13 +4,13 @@
 _Context: Burkina Faso, Mali, Niger, Nigeria, United Nations, United Nations Children's Fund, epidemic, meningitis_
 
 ### [ The United States National Aeronautics and Space Administration delays the Space Shuttle ''Discovery'''s mission to the International Space Station due to a hydrogen gas leak. ](/news/2009/03/11/the-united-states-national-aeronautics-and-space-administration-delays-the-space-shuttle-discovery-s-mission-to-the-international-space.md)
-_Context: Discovery, International Space Station, NASA, Space Shuttle, U.S., hydrogen gas, lands, natural gas leak_
+_Context: Discovery, International Space Station, NASA, Space Shuttle, United States, hydrogen gas, lands, natural gas leak_
 
 ### [ China's exports contract 25.7%, the worst decline since 1993. ](/news/2009/03/11/china-s-exports-contract-25-7-the-worst-decline-since-1993.md)
 _Context: 4th quarter of 2007 and the second quarter of 2009, Chinese, export_
 
 ### [ The Liberal Democrats claim that more than 1,000 police officers in the United Kingdom have criminal records. ](/news/2009/03/11/the-liberal-democrats-claim-that-more-than-1-000-police-officers-in-the-united-kingdom-have-criminal-records.md)
-_Context: British police, Liberal Democrats, UK, criminal records_
+_Context: British police, Liberal Democrats, United Kingdom, criminal records_
 
 ### [ At least 15 people are killed in a school shooting in Winnenden, Germany. ](/news/2009/03/11/at-least-15-people-are-killed-in-a-school-shooting-in-winnenden-germany.md)
 _Context: Germany, School shooting, Winnenden, killed_

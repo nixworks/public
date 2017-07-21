@@ -31,7 +31,7 @@ Canadian police have arrested a man who was found carrying three bombs in the bo
 _Context: Colombia, FARC, Hugo Chavez, President_
 
 ### [ Provisional data from the United Kingdom Meteorological Office shows that the 2007 British summer was the wettest on record with five areas of England on flood warning. ](/news/2007/08/31/provisional-data-from-the-united-kingdom-meteorological-office-shows-that-the-2007-british-summer-was-the-wettest-on-record-with-five-areas.md)
-_Context: England, Meteorological Office, UK_
+_Context: England, Meteorological Office, United Kingdom_
 
 ### [ Mike Nifong, the prosecutor in the 2006 Duke University lacrosse case, is found in criminal contempt of court for lying to a judge in the case and is sentenced to a day in jail. ](/news/2007/08/31/mike-nifong-the-prosecutor-in-the-2006-duke-university-lacrosse-case-is-found-in-criminal-contempt-of-court-for-lying-to-a-judge-in-the-c.md)
 _Context: 2006 Duke University lacrosse case, Mike Nifong, contempt of court_
@@ -55,7 +55,7 @@ _Context: Pakistan, Pakistan Army, Taliban, Waziristan War, convoy_
 _Context: United Nations, climate change, greenhouse gas_
 
 ### [ Republican Senator John Warner announces that he will not seek re-election to the United States Senate. ](/news/2007/08/31/republican-senator-john-warner-announces-that-he-will-not-seek-re-election-to-the-united-states-senate.md)
-_Context: John Warner, R, United States Senate_
+_Context: John Warner, R, Senate_
 
 ### [ Two Egyptian students at the University of South Florida are indicted for carrying explosive materials across state lines with one indicted for terrorism charges. ](/news/2007/08/31/two-egyptian-students-at-the-university-of-south-florida-are-indicted-for-carrying-explosive-materials-across-state-lines-with-one-indicted.md)
 _Context: Egypt, University of South Florida, border, terrorism_

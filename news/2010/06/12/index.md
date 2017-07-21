@@ -37,13 +37,13 @@ _Context: East Africa, European Union, Kenya_
 _Context: Buddhist monks, Buddhists, Gautama Buddha, Jiangsu Province_
 
 ### [UK Prime Minister David Cameron and U.S. President Barack Obama discuss America's oil spill problem over a telephone call. ](/news/2010/06/12/uk-prime-minister-david-cameron-and-u-s-president-barack-obama-discuss-america-s-oil-spill-problem-over-a-telephone-call.md)
-_Context: Barack Obama, David Cameron, Deepwater Horizon oil spill, Prime Minister, U.S. President, UK_
+_Context: Barack Obama, David Cameron, Deepwater Horizon oil spill, Prime Minister, U.S. President, United Kingdom_
 
 ### [A French fishing boat rescues US teenage sailor Abby Sunderland in the Southern Ocean. ](/news/2010/06/12/a-french-fishing-boat-rescues-us-teenage-sailor-abby-sunderland-in-the-southern-ocean.md)
-_Context: Abby Sunderland, France, Southern Ocean, U.S., fishing boat, sailor, teenage_
+_Context: Abby Sunderland, France, Southern Ocean, United States, fishing boat, sailor, teenage_
 
 ### [Pilots for the American low-cost carrier Spirit Airlines go on strike. ](/news/2010/06/12/pilots-for-the-american-low-cost-carrier-spirit-airlines-go-on-strike.md)
-_Context: Spirit Airlines, U.S., airline pilot, low-cost carrier, strike_
+_Context: Spirit Airlines, United States, airline pilot, low-cost carrier, strike_
 
 ## [Previous Day...](/news/2010/06/11/index.md)
 

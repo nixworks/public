@@ -4,13 +4,13 @@
 A British security consultant kidnapped six days ago by gunmen in Somalia has described his release as &quot;marvellous&quot;, Save the Children says.
 
 ### [United Kingdom boyband JLS and hip-hop MC Tinie Tempah dominate the Music of Black Origin Awards in Liverpool. ](/news/2010/10/20/united-kingdom-boyband-jls-and-hip-hop-mc-tinie-tempah-dominate-the-music-of-black-origin-awards-in-liverpool.md)
-_Context: JLS, Liverpool, MC, Music of Black Origin Awards, Tinie Tempah, UK, boyband, hip hop_
+_Context: JLS, Liverpool, MC, Music of Black Origin Awards, Tinie Tempah, United Kingdom, boyband, hip hop_
 
 ### [French strikesFrance braces itself for another day of strikes against proposed cuts to pensions that the Senate will consider later this week. ](/news/2010/10/20/french-strikespfrance-braces-itself-for-another-day-of-strikes-against-proposed-cuts-to-pensions-that-the-senate-will-consider-later-this-we.md)
 French strikers impose new fuel blockades, hours after security forces clear protesters from three depots.
 
 ### [China denies reports that it has banned export of rare earth mineral to the United States and Europe following similar measures against Japan. ](/news/2010/10/20/china-denies-reports-that-it-has-banned-export-of-rare-earth-mineral-to-the-united-states-and-europe-following-similar-measures-against-japa.md)
-_Context: Chinese, Europe, Japan, U.S., rare earth mineral_
+_Context: Chinese, Europe, Japan, United States, rare earth mineral_
 
 ### [The Sino-Singapore Tianjin Eco-city holds a groundbreaking ceremony for its Eco-technology Park in Binhai New Area a key national strategic area in Tianjin. ](/news/2010/10/20/the-sino-singapore-tianjin-eco-city-holds-a-groundbreaking-ceremony-for-its-eco-technology-park-in-binhai-new-area-a-key-national-strategic.md)
 _Context: Binhai New Area, Eco-technology Park, Sino-Singapore Tianjin Eco-city, Tianjin_

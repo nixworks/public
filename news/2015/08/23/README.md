@@ -16,7 +16,7 @@ _Context: 2015 Pacific typhoon season, Philippines, Typhoon Goni_
 The death toll from the Shoreham air crash where a vintage jet plummeted into traffic is thought to have risen to 11, police say.
 
 ### [Britain and Iran reopen embassies in each others' capitals that had been closed after Iranian protesters stormed the British embassy on November 29, 2011. ](/news/2015/08/23/britain-and-iran-reopen-embassies-in-each-others-capitals-that-had-been-closed-after-iranian-protesters-stormed-the-british-embassy-on-nove.md)
-_Context: Iran, UK_
+_Context: Iran, United Kingdom_
 
 ### [North and South Korea resume talks in the border village of Panmunjon in efforts to defuse recent tensions. ](/news/2015/08/23/north-and-south-korea-resume-talks-in-the-border-village-of-panmunjon-in-efforts-to-defuse-recent-tensions.md)
 _Context: North Korea, Panmunjon, South Korea_

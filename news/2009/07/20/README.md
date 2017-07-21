@@ -10,7 +10,7 @@ Ex-president seeks referendum to resolve dispute over June 12 presidential vote.
 _Context: Canada, Okanagan, wildfire_
 
 ### [ India and the United States sign a defence pact. ](/news/2009/07/20/india-and-the-united-states-sign-a-defence-pact.md)
-_Context: India, U.S._
+_Context: India, United States_
 
 ### [ 260 cars pile up in Germany. ](/news/2009/07/20/260-cars-pile-up-in-germany.md)
 _Context: Germany_

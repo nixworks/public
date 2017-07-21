@@ -1,7 +1,7 @@
 ## [2005-04-22](/news/2005/04/22/index.md)
 
 ### [ Rumors abound that a nuclear test by North Korea may be imminent, and that the United States is urging the People's Republic of China to pressure North Korea not to do so. [http://www.hindu.com/thehindu/holnus/003200504231210.htm (The Hindu)] [http://www.washingtonpost.com/wp-dyn/articles/A10477-2005Apr22.html (Washington Post)] There was no test however for over a year following.](/news/2005/04/22/rumors-abound-that-a-nuclear-test-by-north-korea-may-be-imminent-and-that-the-united-states-is-urging-the-people-s-republic-of-china-to-pr.md)
-_Context: Chinese, North Korea, North Korea and weapons of mass destruction, U.S._
+_Context: Chinese, North Korea, North Korea and weapons of mass destruction, United States_
 
 ### [ Zacarias Moussaoui pleads guilty to terror charges in U.S. federal court. ](/news/2005/04/22/zacarias-moussaoui-pleads-guilty-to-terror-charges-in-u-s-federal-court.md)
 _Context: Zacarias Moussaoui, federal court, terrorism_
@@ -16,7 +16,7 @@ _Context: 2004, Armin Meiwes, Germany_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ In the UK, the National Portrait Gallery states that the so-called "Flower portrait" of William Shakespeare is a 19th-century forgery. ](/news/2005/04/22/in-the-uk-the-national-portrait-gallery-states-that-the-so-called-flower-portrait-of-william-shakespeare-is-a-19th-century-forgery.md)
-_Context: Flower portrait, National Portrait Gallery, UK, William Shakespeare, forgery_
+_Context: Flower portrait, National Portrait Gallery, United Kingdom, William Shakespeare, forgery_
 
 ### [ Canadian prime minister Paul Martin promises in a televised address to call for an early general election once the Gomery inquiry into the current corruption scandal is over. ](/news/2005/04/22/canadian-prime-minister-paul-martin-promises-in-a-televised-address-to-call-for-an-early-general-election-once-the-gomery-inquiry-into-the.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

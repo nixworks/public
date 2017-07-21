@@ -19,7 +19,7 @@ _Context: Mian Channu, Pakistan, bomb blast_
 _Context: Greece, Patras, migrants_
 
 ### [ The United Kingdom halts some arms sales to Israel following the Gaza conflict. ](/news/2009/07/13/the-united-kingdom-halts-some-arms-sales-to-israel-following-the-gaza-conflict.md)
-_Context: 2008-2009 Gaza War, Israel, UK_
+_Context: 2008-2009 Gaza War, Israel, United Kingdom_
 
 ### [ Urumqi police shoot dead two armed suspects and injure another, all being from the Uyghur ethnic group. ](/news/2009/07/13/ara1-4mqi-police-shoot-dead-two-armed-suspects-and-injure-another-all-being-from-the-uyghur-ethnic-group.md)
 _Context: Urumqi, Uyghur_
@@ -37,7 +37,7 @@ _Context: Germany, John Demjanjuk, World War II, accessory to murder_
 The police chief of a district south of Kabul that the Americans had sought to make a Taliban-free model of safety and security was killed in a roadside blast.
 
 ### [ U.S. Senate confirmation hearings for United States Supreme Court nominee Sonia Sotomayor begin. ](/news/2009/07/13/u-s-senate-confirmation-hearings-for-united-states-supreme-court-nominee-sonia-sotomayor-begin.md)
-_Context: Sonia Sotomayor, U.S., U.S. Supreme Court, United States Senate_
+_Context: Senate, Sonia Sotomayor, U.S. Supreme Court, United States_
 
 ### [ Former Prime Minister of Lebanon Amin al-Hafez dies at age 83. ](/news/2009/07/13/former-prime-minister-of-lebanon-amin-al-hafez-dies-at-age-83.md)
 _Context: Amin al-Hafez, Prime Minister_

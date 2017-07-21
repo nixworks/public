@@ -16,7 +16,7 @@ _Context: Andr Boisclair, Canada, Parti Qubcois, Parti Qubcois leadership electi
 _Context: Great Lakes, Gulf of Mexico, Mid-November 2005 Tornado Outbreak, North America, tornado_
 
 ### [ Japan: 2005 Sanriku Japan Earthquake A 6.9-magnitude earthquake, as determined by the Japan Meteorological Society, occurred off the northern coast of Japan near Sanriku at 6:39am Japan Standard Time (UTC+9), prompting a tsunami warning to be issued in Japan and the western coast of the United States. ](/news/2005/11/15/japan-2005-sanriku-japan-earthquake-a-6-9-magnitude-earthquake-as-determined-by-the-japan-meteorological-society-occurred-off-the-northe.md)
-_Context: 2005 Sanriku Japan Earthquake, Japan, Japan Standard Time, U.S., clock, magnitude earthquake, tsunami_
+_Context: 2005 Sanriku Japan Earthquake, Japan, Japan Standard Time, United States, clock, magnitude earthquake, tsunami_
 
 ### [ Sayako, Princess Nori of Japan marries a commoner and thereby leaves the Imperial Family, taking the surname of her husband. ](/news/2005/11/15/sayako-princess-nori-of-japan-marries-a-commoner-and-thereby-leaves-the-imperial-family-taking-the-surname-of-her-husband.md)
 The Age 404 Page

@@ -16,7 +16,7 @@ _Context: ''Generalitat'', Catalonia, ERC, EUiA, ICV, Jos Montilla, PSC, electio
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [ Dhiren Barot of London is convicted of conspiracy to murder for developing al-Qaeda plots to kill thousands of people in the United Kingdom and United States in the 2004 Financial buildings plot. ](/news/2006/11/7/dhiren-barot-of-london-is-convicted-of-conspiracy-to-murder-for-developing-al-qaeda-plots-to-kill-thousands-of-people-in-the-united-kingdom.md)
-_Context: 2004 Financial buildings plot, Dhiren Barot, London, U.S., UK, al-Qaeda_
+_Context: 2004 Financial buildings plot, Dhiren Barot, London, United Kingdom, United States, al-Qaeda_
 
 ### [ United States general elections, 2006: Voters go to the polls today in the United States. ](/news/2006/11/7/united-states-general-elections-2006-voters-go-to-the-polls-today-in-the-united-states.md)
 A woman who died two months ago won a county commissioner&#39;s race in Jerauld County on Tuesday. 

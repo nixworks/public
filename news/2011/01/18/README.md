@@ -1,7 +1,7 @@
 ## [2011-01-18](/news/2011/01/18/index.md)
 
 ### [War in North-West Pakistan:A US drone attack kills five militants in a compound in northwest Pakistan. ](/news/2011/01/18/war-in-north-west-pakistan-pa-us-drone-attack-kills-five-militants-in-a-compound-in-northwest-pakistan.md)
-_Context: U.S., War in North-West Pakistan, drone attack_
+_Context: United States, War in North-West Pakistan, drone attack_
 
 ### [Three Sudanese army officers are killed in a clash between rebel forces and the army in western Darfur. ](/news/2011/01/18/three-sudanese-army-officers-are-killed-in-a-clash-between-rebel-forces-and-the-army-in-western-darfur.md)
 _Context: Darfur, Sudan People's Armed Forces, conflict_

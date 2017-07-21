@@ -7,7 +7,7 @@ _Context: Gulf Cartel, Mario Ramirez Trevino, Mexican Drug War, Miguel ''El Grin
 An official says a bomb attached to a donkey has exploded, killing a policeman and wounded three civilians.
 
 ### [Queen Elizabeth of the United Kingdom receives an honorary BAFTA award for her support of British film and television and she is honored as the "most memorable Bond girl" for her appearance at the 2012 London Olympics. ](/news/2013/04/5/queen-elizabeth-of-the-united-kingdom-receives-an-honorary-bafta-award-for-her-support-of-british-film-and-television-and-she-is-honored-as.md)
-_Context: 2012 London Olympics, BAFTA award, Bond girl, British film, Elizabeth II, UK, television_
+_Context: 2012 London Olympics, BAFTA award, Bond girl, British film, Elizabeth II, United Kingdom, television_
 
 ### [Japan's stock market index, the Nikkei 225, hits its highest level in almost five years, after a Bank of Japan stimulus plan raises hope of economic revival. ](/news/2013/04/5/japan-s-stock-market-index-the-nikkei-225-hits-its-highest-level-in-almost-five-years-after-a-bank-of-japan-stimulus-plan-raises-hope-of.md)
 _Context: Bank of Japan, Japan, Nikkei 225, index, stock market_
@@ -25,7 +25,7 @@ South Korea deploys two warships with missile-defence systems, reports say, afte
 Iran has failed to give &quot;a concrete response&quot; to proposals aimed at ending deadlock over its nuclear programme, a Western diplomat at talks in Almaty says.
 
 ### [The United States agrees to a plan to return some land, used by the US Military's Futenma Airbase in Okinawa, to Japan. ](/news/2013/04/5/the-united-states-agrees-to-a-plan-to-return-some-land-used-by-the-us-military-s-futenma-airbase-in-okinawa-to-japan.md)
-_Context: Japan, Marine Corps Air Station Futenma, Okinawa, U.S., United States military_
+_Context: Japan, Marine Corps Air Station Futenma, Okinawa, United States, United States military_
 
 ### [Eight people are killed when Buddhists and Muslims from Myanmar brawl in a detention center in Indonesia. ](/news/2013/04/5/eight-people-are-killed-when-buddhists-and-muslims-from-myanmar-brawl-in-a-detention-center-in-indonesia.md)
 _Context: Buddhists, Indonesia, Muslims, Myanmar, detention center_

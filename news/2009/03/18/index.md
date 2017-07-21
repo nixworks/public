@@ -7,7 +7,7 @@ _Context: Chinese, Coca-Cola, Huiyuan Juice Group, Ministry of Commerce_
 _Context: Austria, Josef Fritzl_
 
 ### [ The Office for National Statistics reports that 2.04 million people in the United Kingdom are unemployed. ](/news/2009/03/18/the-office-for-national-statistics-reports-that-2-04-million-people-in-the-united-kingdom-are-unemployed.md)
-_Context: Office for National Statistics, UK, unemployment_
+_Context: Office for National Statistics, United Kingdom, unemployment_
 
 ### [ Pope Benedict XVI denounces the use of condoms to prevent HIV/AIDS during a tour of Africa. ](/news/2009/03/18/pope-benedict-xvi-denounces-the-use-of-condoms-to-prevent-hiv-aids-during-a-tour-of-africa.md)
 Pope Benedict XVI&#39;s denunciation of condom use to prevent the spread of HIV sparked an international outcry on as he toured Africa.
@@ -22,7 +22,7 @@ _Context: Andry Rajoelina, Madagascar, President, constitutional court, politica
 _Context: Bill Richardson, Governor, House, New Mexico, bill into law, capital punishment_
 
 ### [ Federal Reserve System Chairman Ben Bernanke caps United States Treasury Department yields. ](/news/2009/03/18/federal-reserve-system-chairman-ben-bernanke-caps-united-states-treasury-department-yields.md)
-_Context: Ben Bernanke, Chairman of the Federal Reserve, U.S., U.S. Federal Reserve, United States Department of the Treasury, caps, yields_
+_Context: Ben Bernanke, Chairman of the Federal Reserve, U.S. Federal Reserve, United States, United States Department of the Treasury, caps, yields_
 
 ### [ Somali pirates hijack an Iranian fishing vessel in the Gulf of Aden.  ](/news/2009/03/18/somali-pirates-hijack-an-iranian-fishing-vessel-in-the-gulf-of-aden.md)
 _Context: Gulf of Aden, Iran, Somali pirates, Somalia, fishing boat_

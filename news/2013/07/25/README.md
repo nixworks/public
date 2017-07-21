@@ -25,7 +25,7 @@ Four Russian nationals and a Ukrainian have been charged with running a sophisti
 Citizens of the small, poverty-stricken West African country of Togo are to vote on Thursday in long-delayed parliamentary elections.
 
 ### [British scientists discover the mechanism which causes human allergy to cats, and state that a general cure for the condition could become available within five years. ](/news/2013/07/25/british-scientists-discover-the-mechanism-which-causes-human-allergy-to-cats-and-state-that-a-general-cure-for-the-condition-could-become-a.md)
-_Context: UK, allergy to cats_
+_Context: United Kingdom, allergy to cats_
 
 ## [Previous Day...](/news/2013/07/24/index.md)
 

@@ -1,13 +1,13 @@
 ## [2013-03-10](/news/2013/03/10/index.md)
 
 ### [War in Afghanistan:President of Afghanistan Hamid Karzai alleges that the U.S. armed forces are collaborating in some way with the Afghan Taliban in an effort to ensure that some troops remain after the scheduled 2014 pullout. ](/news/2013/03/10/war-in-afghanistan-ppresident-of-afghanistan-hamid-karzai-alleges-that-the-u-s-armed-forces-are-collaborating-in-some-way-with-the-afghan-t.md)
-_Context: Afghan Taliban, Afghanistan, Afghanistan President, Hamid Karzai, U.S., U.S. withdrawal, United States military, War in Afghanistan (2001-present)_
+_Context: Afghan Taliban, Afghanistan, Afghanistan President, Hamid Karzai, U.S. withdrawal, United States, United States military, War in Afghanistan (2001-present)_
 
 ### [2013 in Pakistan:Hundreds of Christian protestors clash with police across Pakistan after the burning of Christian houses in Lahore. ](/news/2013/03/10/2013-in-pakistan-phundreds-of-christian-protestors-clash-with-police-across-pakistan-after-the-burning-of-christian-houses-in-lahore.md)
 _Context: 2013 in Pakistan, Christian, Christian, Lahore, Pakistan_
 
 ### [Nigerian Sharia conflict:Nigerian militants belonging to Ansar al-Muslimeen claim responsibility to kidnapping and killing Italian, Greek, and British construction workers in Northern Nigeria. ](/news/2013/03/10/nigerian-sharia-conflict-pnigerian-militants-belonging-to-ansar-al-muslimeen-claim-responsibility-to-kidnapping-and-killing-italian-greek.md)
-_Context: Ansaru, Greece, Italian, Nigeria, Nigerian Sharia conflict, Northern Nigeria, UK_
+_Context: Ansaru, Greece, Italian, Nigeria, Nigerian Sharia conflict, Northern Nigeria, United Kingdom_
 
 ### [Daylight saving time goes into effect across the United States (except Arizona and Hawaii) and Canada (except Saskatchewan). ](/news/2013/03/10/daylight-saving-time-goes-into-effect-across-the-united-states-except-arizona-and-hawaii-and-canada-except-saskatchewan.md)
 Canadians in provinces that use daylight saving time during the summer months will need to adjust their clocks back by an hour at 2 a.m. on Sunday Nov. 1 for the switch to local standard time.
@@ -19,10 +19,10 @@ James Franco-led, Toto-free Wizard of Oz prequel posts biggest debut of slumping
 A dog called Jilly, who despite a very ordinary name is a Petit Basset Griffon Vendeen, won the Best in Show title at Crufts tonight, after competing against thousands of other pedigrees to win the...
 
 ### [Six teenagers are killed and two other people are injured in a car accident near Warren, Ohio, United States. It is the deadliest accident in Trumbull County history and the deadliest in Ohio in three years. ](/news/2013/03/10/six-teenagers-are-killed-and-two-other-people-are-injured-in-a-car-accident-near-warren-ohio-united-states-it-is-the-deadliest-accident-i.md)
-_Context: Ohio, Trumbull County, U.S., Warren_
+_Context: Ohio, Trumbull County, United States, Warren_
 
 ### [Five teenagers are killed after a Chevrolet SUV and a gas tanker collide at the intersection of two county roads in Dumas, Texas, United States. ](/news/2013/03/10/five-teenagers-are-killed-after-a-chevrolet-suv-and-a-gas-tanker-collide-at-the-intersection-of-two-county-roads-in-dumas-texas-united-sta.md)
-_Context: Chevrolet, Dumas, SUV, Texas, U.S., gas tanker_
+_Context: Chevrolet, Dumas, SUV, Texas, United States, gas tanker_
 
 ### [The head of Sierra Leone's Anti-corruption Commission says that 29 government health officials will appear in court on corruption charges for having allegedly defrauded the Bill & Melinda Gates Foundation's vaccine programme. ](/news/2013/03/10/the-head-of-sierra-leone-s-anti-corruption-commission-says-that-29-government-health-officials-will-appear-in-court-on-corruption-charges-fo.md)
 _Context: Anti-corruption Commission, Bill & Melinda Gates Foundation, Sierra Leone, vaccine_

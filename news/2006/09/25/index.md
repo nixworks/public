@@ -4,13 +4,13 @@
 _Context: Hezbollah, Israel, Southern Lebanon, UN, cluster bomb_
 
 ### [ Iranian President Mahmoud Ahmadinejad says that rabbis are more critical of Zionism and the "Zionist regime" than he has been. He expresses hope that "God willing, with the force of God behind it, we shall soon experience a world without the United States and Zionism." ](/news/2006/09/25/iranian-president-mahmoud-ahmadinejad-says-that-rabbis-are-more-critical-of-zionism-and-the-zionist-regime-than-he-has-been-he-expresses.md)
-_Context: Iranian President, Mahmoud Ahmadinejad, U.S., Zionist, government_
+_Context: Iranian President, Mahmoud Ahmadinejad, United States, Zionist, government_
 
 ### [ Condoleezza Rice, the United States Secretary of State, and Barry Lowenkron, the assistant secretary of state for human rights, meet with Kasymzhomart Tokayev, the foreign minister of Kazakhstan. They discussed the War in Afghanistan and Iraq and the Nazarbayev administration's desire to head the Organization for Security and Cooperation in Europe in 2009, which the United States Government opposes. ](/news/2006/09/25/condoleezza-rice-the-united-states-secretary-of-state-and-barry-lowenkron-the-assistant-secretary-of-state-for-human-rights-meet-with-k.md)
 _Context: Condoleezza Rice, Foreign Minister, Kasymzhomart Tokayev, Kazakhstan, Nursultan Nazarbayev's, Organization for Security and Cooperation in Europe, United States Secretary of State, United States government, War in Afghanistan (2001-present), War in Iraq_
 
 ### [ 2003 invasion of Iraq and its aftermath: Iraq insurgency: British forces are reported to have killed senior Al-Qaeda operative Omar al-Faruq during a gunfight in Basra, Iraq. ](/news/2006/09/25/2003-invasion-of-iraq-and-its-aftermath-p-iraq-insurgency-british-forces-are-reported-to-have-killed-senior-al-qaeda-operative-omar-al-far.md)
-_Context: 2003 invasion of Iraq, Basra, British military personnel, Iraq, Iraq Insurgency, Omar al-Faruq, UK, al-Qaeda_
+_Context: 2003 invasion of Iraq, Basra, British military personnel, Iraq, Iraq Insurgency, Omar al-Faruq, United Kingdom, al-Qaeda_
 
 ### [ The family of the lone survivor in the crash of Comair Flight 5191 says doctors have amputated co-pilot James Polehinke's left leg, and he has no memory of the crash. ](/news/2006/09/25/the-family-of-the-lone-survivor-in-the-crash-of-comair-flight-5191-says-doctors-have-amputated-co-pilot-james-polehinke-s-left-leg-and-he.md)
 _Context: Comair Flight 5191, co-pilot_

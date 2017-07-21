@@ -7,7 +7,7 @@ _Context: Indian police, Jharkhand, Maoist, Naxalite, Naxalite-Maoist insurgency
 Rebels in Syria say they have captured a major army base in the south of the country, the latest in a string of defeats suffered by the government.
 
 ### [HSBC announces plans to cut 8,000 jobs in the United Kingdom, one-sixth of its U.K. workforce, via "natural attrition"  as it restructures its banking business.  A total of 25,000 jobs could be axed globally.  ](/news/2015/06/9/hsbc-announces-plans-to-cut-8-000-jobs-in-the-united-kingdom-one-sixth-of-its-u-k-workforce-via-natural-attrition-as-it-restructures-i.md)
-_Context: HSBC, UK_
+_Context: HSBC, United Kingdom_
 
 ### [Several firefighters are killed after an explosion at a military oil depot near Kiev, Ukraine, with several people missing and hundreds evacuated. ](/news/2015/06/9/several-firefighters-are-killed-after-an-explosion-at-a-military-oil-depot-near-kiev-ukraine-with-several-people-missing-and-hundreds-evac.md)
 A massive fire at a Ukrainian fuel depot killed five people on Tuesday, officials said, including three firemen who went missing after the flames triggered a powerful explosion.

@@ -10,7 +10,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: CITIC Group of Beijing, Kazakhstan, Nations Energy Company, crude oil_
 
 ### [ Surgeons in the United Kingdom are given permission by a National Health Service ethics committee to prepare to perform the world's first full face transplant at London's Royal Free Hospital. ](/news/2006/10/25/surgeons-in-the-united-kingdom-are-given-permission-by-a-national-health-service-ethics-committee-to-prepare-to-perform-the-world-s-first-f.md)
-_Context: London, National Health Service, Royal Free Hospital, UK, face transplant_
+_Context: London, National Health Service, Royal Free Hospital, United Kingdom, face transplant_
 
 ### [ Argentine prosecutors formally charge the Iranian government and the Lebanese militia Hezbollah over the 1994 bombing of a Jewish centre which killed 85 people. ](/news/2006/10/25/argentine-prosecutors-formally-charge-the-iranian-government-and-the-lebanese-militia-hezbollah-over-the-1994-bombing-of-a-jewish-centre-wh.md)
 _Context: AMIA bombing, Argentina, Hezbollah, Iran, Jew, Lebanon, militia_
@@ -28,7 +28,7 @@ _Context: Ethiopia, Islamic Courts Union, Somalia, alleged military action_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ General George William Casey Jr., the top United States commander in Iraq has said it will take 12 to 18 months before Iraqi security forces are ready to take over in the country. ](/news/2006/10/25/general-george-william-casey-jr-the-top-united-states-commander-in-iraq-has-said-it-will-take-12-to-18-months-before-iraqi-security-force.md)
-_Context: General, George William Casey Jr., Iraq, U.S._
+_Context: General, George William Casey Jr., Iraq, United States_
 
 ### [ South Korean Unification Minister Lee Jong-Seok resigns. Defence Minister Yoon Kwang-Ung had resigned earlier in the week with the President of South Korea Roh Moo-Hyun expected to announce changes in his foreign policy and defence advisers soon. ](/news/2006/10/25/south-korean-unification-minister-lee-jong-seok-resigns-defence-minister-yoon-kwang-ung-had-resigned-earlier-in-the-week-with-the-presiden.md)
 _Context: Lee Jong-Seok, Roh Moo-hyun, South Korea, South Korean President, Yoon Kwang-Ung_

@@ -1,13 +1,13 @@
 ## [2009-05-19](/news/2009/05/19/index.md)
 
 ### [ The United States Government Accountability Office warns that the Global Positioning System could fail by 2010. ](/news/2009/05/19/the-united-states-government-accountability-office-warns-that-the-global-positioning-system-could-fail-by-2010.md)
-_Context: 2010, Global Positioning System, Government Accountability Office, U.S._
+_Context: 2010, Global Positioning System, Government Accountability Office, United States_
 
 ### [ President Mahmoud Abbas inaugurates the Palestinian National Authority's new government. ](/news/2009/05/19/president-mahmoud-abbas-inaugurates-the-palestinian-national-authority-s-new-government.md)
 _Context: Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, form of government, inauguration_
 
 ### [ United Kingdom House of Commons Speaker Michael Martin announces that he will resign  on June 21. ](/news/2009/05/19/united-kingdom-house-of-commons-speaker-michael-martin-announces-that-he-will-resign-on-june-21.md)
-_Context: House of Commons of the United Kingdom, Michael Martin, Speaker of the UK House of Commons, UK_
+_Context: House of Commons of the United Kingdom, Michael Martin, Speaker of the UK House of Commons, United Kingdom_
 
 ### [ President Mahinda Rajapaksa declares Sri Lanka "liberated" from the Liberation Tigers of Tamil Eelam. ](/news/2009/05/19/president-mahinda-rajapaksa-declares-sri-lanka-liberated-from-the-liberation-tigers-of-tamil-eelam.md)
 _Context: LTTE, Mahinda Rajapaksa, President of Sri Lanka, Sri Lanka, Sri Lankan Civil War_
@@ -19,7 +19,7 @@ _Context: NATO, Navoiy Airport, Uzbekistan, government, lease_
 _Context: England, LTTE, London, Metropolitan Police Service, protest_
 
 ### [ The U.S. and Russia begin negotiations to replace the expiring Strategic Arms Reduction Treaty. ](/news/2009/05/19/the-u-s-and-russia-begin-negotiations-to-replace-the-expiring-strategic-arms-reduction-treaty.md)
-_Context: Russia, Strategic Arms Reduction Treaty, U.S., negotiation_
+_Context: Russia, Strategic Arms Reduction Treaty, United States, negotiation_
 
 ### [ The Association of Southeast Asian Nations expresses "grave concern" about National League for Democracy General Secretary Aung San Suu Kyi's trial. ](/news/2009/05/19/the-association-of-southeast-asian-nations-expresses-grave-concern-about-national-league-for-democracy-general-secretary-aung-san-suu-kyi.md)
 _Context: ASEAN, Aung San Suu Kyi, General Secretary, National League for Democracy, trial_

@@ -43,7 +43,7 @@ The United States has followed the Economic Community of West African States (Ec
 _Context: Archbishop of York, John Sentamu, Uganda, bill into law, homosexuality_
 
 ### [ The United States Senate passes a health-care bill expected to extend insurance coverage to 30 million additional Americans, in a party-line vote, 60-39. ](/news/2009/12/24/the-united-states-senate-passes-a-health-care-bill-expected-to-extend-insurance-coverage-to-30-million-additional-americans-in-a-party-lin.md)
-_Context: United States Senate, health care reform_
+_Context: Senate, health care reform_
 
 ### [ An Israeli man is shot dead  by Palestinian gunmen in the northern West Bank. ](/news/2009/12/24/an-israeli-man-is-shot-dead-by-palestinian-gunmen-in-the-northern-west-bank.md)
 _Context: Israel, Palestinian terrorist, West Bank_

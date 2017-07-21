@@ -28,7 +28,7 @@ _Context: Apple Inc., CEO, China, Tim Cook_
 Private newspapers are published in Burma for the first time in almost 50 years, as the latest in a series of democratic reforms comes into effect.
 
 ### [2013 Korean crisis: The annual session of North Korea's Parliament, the Supreme People's Assembly, takes place in Pyongyang, following repeated threats of violence by the leader Kim Jong-Un against South Korea and the United States. Choi Bu-Il is appointed Minister of Internal Security. ](/news/2013/04/1/2013-korean-crisis-the-annual-session-of-north-korea-s-parliament-the-supreme-people-s-assembly-takes-place-in-pyongyang-following-repea.md)
-_Context: 2013 Korean crisis, Kim Jong-un, North Korea, Parliament, Pyongyang, South Korea, Supreme People's Assembly, U.S._
+_Context: 2013 Korean crisis, Kim Jong-un, North Korea, Parliament, Pyongyang, South Korea, Supreme People's Assembly, United States_
 
 ### [Japan accuses three Chinese surveillance ships of entering the territorial waters of Tokyo-controlled Senkaku Islands. ](/news/2013/04/1/japan-accuses-three-chinese-surveillance-ships-of-entering-the-territorial-waters-of-tokyo-controlled-senkaku-islands.md)
 _Context: China, Japan, Senkaku Islands, Tokyo, surveillance, territorial waters_
@@ -43,7 +43,7 @@ _Context: 2012 Aurora shooting, Arapahoe County, District Attorney, James Eagan 
 Pirates off Bangladesh are thought to have drowned at least 16 fishermen after tying up their hands and feet and throwing them into the Bay of Bengal.
 
 ### [Major changes to welfare payments in the United Kingdom introduced by the Welfare Reform Act 2012 begin to go into effect. ](/news/2013/04/1/major-changes-to-welfare-payments-in-the-united-kingdom-introduced-by-the-welfare-reform-act-2012-begin-to-go-into-effect.md)
-_Context: UK, Welfare Reform Act 2012, social welfare_
+_Context: United Kingdom, Welfare Reform Act 2012, social welfare_
 
 ### [Health experts warn that the National Health Service in England is "not ready for" major changes passed in 2012 that go into effect today. ](/news/2013/04/1/health-experts-warn-that-the-national-health-service-in-england-is-not-ready-for-major-changes-passed-in-2012-that-go-into-effect-today.md)
 _Context: England, National Health Service in England, major changes_

@@ -7,13 +7,13 @@ _Context: Civic Platform, Donald Tusk, Law and Justice, Lech Kaczynski, Polish P
 _Context: African-American, New Orleans, Robert Davis, white_
 
 ### [ New York Senator Hillary Clinton is inducted into the National Women's Hall of Fame. ](/news/2005/10/9/new-york-senator-hillary-clinton-is-inducted-into-the-national-women-s-hall-of-fame.md)
-_Context: Hillary Clinton, National Women's Hall of Fame, United States Senate_
+_Context: Hillary Clinton, National Women's Hall of Fame, Senate_
 
 ### [ United Kingdom: In a joint statement, Anglican and Catholic leaders voice concerns over euthanasia as the House of Lords gears up for debate on legislation. ](/news/2005/10/9/united-kingdom-in-a-joint-statement-anglican-and-catholic-leaders-voice-concerns-over-euthanasia-as-the-house-of-lords-gears-up-for-debat.md)
-_Context: Anglican, Catholic, House of Lords, UK, whether or not to continue_
+_Context: Anglican, Catholic, House of Lords, United Kingdom, whether or not to continue_
 
 ### [ United Kingdom: Former actress and current Labour MP Glenda Jackson announces she intends to stand against Tony Blair in a leadership bid if he doesn't stand down in the near future. ](/news/2005/10/9/united-kingdom-former-actress-and-current-labour-mp-glenda-jackson-announces-she-intends-to-stand-against-tony-blair-in-a-leadership-bid-i.md)
-_Context: Glenda Jackson, Labour, MP, Tony Blair, UK_
+_Context: Glenda Jackson, Labour, MP, Tony Blair, United Kingdom_
 
 ### [ Tropical Storm Vince, the 20th named storm of the season (making the current Atlantic hurricane season the 2nd most active since recording first took place) is gaining hurricane strength while heading towards Europe. It is unusual for such a storm to form so far east in the Atlantic Ocean, and more so gaining hurricane strength, since the waters are much cooler than in the Caribbean area. ](/news/2005/10/9/tropical-storm-vince-the-20th-named-storm-of-the-season-making-the-current-atlantic-hurricane-season-the-2nd-most-active-since-recording.md)
 _Context: 2005 Atlantic hurricane season, Atlantic Ocean, Caribbean, Europe, tropical cyclone_

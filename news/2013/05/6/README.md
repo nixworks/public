@@ -46,7 +46,7 @@ _Context: Lauryn Hill, U.S._
 Giulio Andreotti, who served seven times as Christian Democrat prime minister, and was dogged by corruption allegations, dies at the age of 94.
 
 ### [The US Senate passes a bill allowing states to tax internet sales. ](/news/2013/05/6/the-us-senate-passes-a-bill-allowing-states-to-tax-internet-sales.md)
-_Context: United States Senate_
+_Context: Senate_
 
 ## [Previous Day...](/news/2013/05/5/index.md)
 

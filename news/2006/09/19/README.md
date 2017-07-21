@@ -22,7 +22,7 @@ _Context: Budapest, Gyurcsny-government, Hungarian Television, Hungary, crowds o
 _Context: Ankara, Turkey, controversial speech_
 
 ### [ A corporal in the Duke of Lancaster's Regiment becomes the first British soldier to confess to committing a war crime in Iraq, after admitting inhumane treatment of civilians, at a court martial. ](/news/2006/09/19/a-corporal-in-the-duke-of-lancaster-s-regiment-becomes-the-first-british-soldier-to-confess-to-committing-a-war-crime-in-iraq-after-admitt.md)
-_Context: Duke of Lancaster's Regiment, Iraq, UK, corporal, court-martial, war crime_
+_Context: Duke of Lancaster's Regiment, Iraq, United Kingdom, corporal, court-martial, war crime_
 
 ### [ Western New England College has embarked on the most ambitious fundraising campaign in the College's history. ''Transformations: The Campaign for Western New England College'' is a $20 million effort that will enable the College to advance its mission of helping students achieve their educational and career goals.  [http://www1.wnec.edu/assets/cfm/dci_popup.cfm?id=6736&site=2&type=athletics(WNEC)]](/news/2006/09/19/western-new-england-college-has-embarked-on-the-most-ambitious-fundraising-campaign-in-the-college-s-history-transformations-the-campai.md)
 _Context: Western New England College_

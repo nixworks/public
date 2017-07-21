@@ -4,7 +4,7 @@
 _Context: Incomati River, Maputo_
 
 ### [In the United Kingdom, the Ministry of Defence's policy since this day is to allow homosexual men, lesbians and transgender personnel to join any of the British Armed Forces, and discrimination on a sexual orientation basis is forbidden. It is also forbidden for someone to pressure LGBT people to come out.](/news/2000/01/12/in-the-united-kingdom-the-ministry-of-defence-s-policy-since-this-day-is-to-allow-homosexual-men-lesbians-and-transgender-personnel-to-joi.md)
-_Context: British military personnel, Ministry of Defence, UK_
+_Context: British military personnel, Ministry of Defence, United Kingdom_
 
 ## [Previous Day...](/news/2000/01/11/index.md)
 

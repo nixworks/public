@@ -13,10 +13,10 @@ _Context: Java, Temanggung, blasphemy_
 The deal ensures workers a larger share of soaring profits in the German auto industry — and may signal an end to a decade in which pay barely kept pace with inflation.
 
 ### [Ultimate Electronics, a United States electronics retail chain, has applied to a bankruptcy court for permission to close all of its 46 stores. ](/news/2011/02/8/ultimate-electronics-a-united-states-electronics-retail-chain-has-applied-to-a-bankruptcy-court-for-permission-to-close-all-of-its-46-stor.md)
-_Context: U.S., Ultimate Electronics, bankruptcy court_
+_Context: Ultimate Electronics, United States, bankruptcy court_
 
 ### [The London Stock Exchange in the United Kingdom is in advanced talks to merge with the TMX Group that operates Canada's two stock exchanges in Montreal and Toronto. ](/news/2011/02/8/the-london-stock-exchange-in-the-united-kingdom-is-in-advanced-talks-to-merge-with-the-tmx-group-that-operates-canada-s-two-stock-exchanges.md)
-_Context: Canada, London Stock Exchange, Montreal, TMX Group, Toronto, UK, stock exchanges_
+_Context: Canada, London Stock Exchange, Montreal, TMX Group, Toronto, United Kingdom, stock exchanges_
 
 ### [Drought hits Central China. Part of the Xiangjiang River dried-up in Changsha, Hunan province. ](/news/2011/02/8/drought-hits-central-china-part-of-the-xiangjiang-river-dried-up-in-changsha-hunan-province.md)
 _Context: Changsha, Drought, Hunan Province, Xiangjiang River, central China_
@@ -25,7 +25,7 @@ _Context: Changsha, Drought, Hunan Province, Xiangjiang River, central China_
 _Context: Bangka Belitung, Indonesia, Tanjung Priok_
 
 ### [A snow storm hits the Mountain West and Great Plains areas of the United States. ](/news/2011/02/8/a-snow-storm-hits-the-mountain-west-and-great-plains-areas-of-the-united-states.md)
-_Context: Great Plains, Mountain West, U.S., snow storm_
+_Context: Great Plains, Mountain West, United States, snow storm_
 
 ### [Officials from North Korea and South Korea meet in Panmunjom for military-level talks. ](/news/2011/02/8/officials-from-north-korea-and-south-korea-meet-in-panmunjom-for-military-level-talks.md)
 _Context: North Korea, Panmunjom, South Korea_
@@ -55,7 +55,7 @@ Pro-democracy supporters hold fresh rallies in Cairo, just hours after the relea
 _Context: Angelo Reyes, Philippines, suicide_
 
 ### [George Osborne, the United Kingdom Chancellor of the Exchequer, announces that the tax on bank profits will become permanent. ](/news/2011/02/8/george-osborne-the-united-kingdom-chancellor-of-the-exchequer-announces-that-the-tax-on-bank-profits-will-become-permanent.md)
-_Context: Chancellor of the Exchequer, George Osborne, UK, tax_
+_Context: Chancellor of the Exchequer, George Osborne, United Kingdom, tax_
 
 ### [British Labour MP Eric Illsley resigns his seat two days before he is due to be sentenced for dishonestly claiming parliamentary expenses, thus triggering a by-election. ](/news/2011/02/8/british-labour-mp-eric-illsley-resigns-his-seat-two-days-before-he-is-due-to-be-sentenced-for-dishonestly-claiming-parliamentary-expenses-t.md)
 Disgraced Barnsley Central MP resigns days before he is due to be sentenced for dishonestly claiming parliamentary expenses.

@@ -4,7 +4,7 @@
 _Context: Central Intelligence Agency, Donald Rumsfeld, Strategic Support Branch, U.S. Defense Secretary, United States military, Washington Post_
 
 ### [ The Tsunami relief concert is held at the Millennium Stadium, Cardiff, in aid of the victims of the 2004 Indian Ocean earthquake, raising over PS1.25 million (EUR1.8 million or $2.4 million), making it the biggest charity concert in the United Kingdom since Live Aid in 1985. ](/news/2005/01/22/the-tsunami-relief-concert-is-held-at-the-millennium-stadium-cardiff-in-aid-of-the-victims-of-the-2004-indian-ocean-earthquake-raising-o.md)
-_Context: 2004 Indian Ocean earthquake, Cardiff, Live Aid, Millennium Stadium, Tsunami relief concert, UK_
+_Context: 2004 Indian Ocean earthquake, Cardiff, Live Aid, Millennium Stadium, Tsunami relief concert, United Kingdom_
 
 ### [ U.S. Defense Secretary Donald Rumsfeld cancels his attendance at the Munich Security Conference in February due to a war crimes investigation filed against him in Germany by the New York-based Center for Constitutional Rights in connection with detainee abuses at Iraq's Abu Ghraib prison. ](/news/2005/01/22/u-s-defense-secretary-donald-rumsfeld-cancels-his-attendance-at-the-munich-security-conference-in-february-due-to-a-war-crimes-investigati.md)
 _Context: Abu Ghraib prison, Center for Constitutional Rights, Donald Rumsfeld, Munich Security Conference, U.S. Defense Secretary, war crimes_

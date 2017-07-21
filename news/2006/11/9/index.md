@@ -1,7 +1,7 @@
 ## [2006-11-9](/news/2006/11/9/index.md)
 
 ### [ Ken Mehlman is to step down as chairman of the National Committee of the United States Republican Party. ](/news/2006/11/9/ken-mehlman-is-to-step-down-as-chairman-of-the-national-committee-of-the-united-states-republican-party.md)
-_Context: Ken Mehlman, R, Republican National Committee, U.S._
+_Context: Ken Mehlman, R, Republican National Committee, United States_
 
 ### [ Eight synchronized bombs hit car showrooms in Southern Thailand, nine injured. ](/news/2006/11/9/eight-synchronized-bombs-hit-car-showrooms-in-southern-thailand-nine-injured.md)
 _Context: Thailand_
@@ -10,7 +10,7 @@ _Context: Thailand_
 The new constitution marks a political defeat for Bakiyev, who had been wrestling for power with his parliamentary foes for most of 2006.[For background see the Eurasia Insight archive]. Presidential 
 
 ### [ United States general elections, 2006: Montana Senator Conrad Burns concedes his U.S. Senate race to Jon Tester. ](/news/2006/11/9/united-states-general-elections-2006-p-montana-senator-conrad-burns-concedes-his-u-s-senate-race-to-jon-tester.md)
-_Context: Conrad Burns, Jon Tester, Montana, U.S. Senate, United States Senate, United States general elections, 2006_
+_Context: Conrad Burns, Jon Tester, Montana, Senate, U.S. Senate, United States general elections, 2006_
 
 ### [ BP settles the last remaining lawsuit from the 2005 explosion at its Texas oil refinery that cost 15 lives. ](/news/2006/11/9/bp-settles-the-last-remaining-lawsuit-from-the-2005-explosion-at-its-texas-oil-refinery-that-cost-15-lives.md)
 _Context: BP, Texas, refinery_

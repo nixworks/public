@@ -22,13 +22,13 @@ Pope Benedict was visibly upset by accounts of the Child Abuse Commission&#39;s 
 _Context: Gabon, Omar Bongo, President, heart attack_
 
 ### [ Two American journalists are found guilty of illegally entering North Korea and sentenced to 12 years of penal labour. ](/news/2009/06/8/two-american-journalists-are-found-guilty-of-illegally-entering-north-korea-and-sentenced-to-12-years-of-penal-labour.md)
-_Context: North Korea, U.S., found guilty, penal labour_
+_Context: North Korea, United States, found guilty, penal labour_
 
 ### [ North Korea restricts access to the Sea of Japan, near Wonsan, from June 10-30, possibly indicating future missile testing. ](/news/2009/06/8/north-korea-restricts-access-to-the-sea-of-japan-near-wonsan-from-june-10a30-possibly-indicating-future-missile-testing.md)
 _Context: North Korea, North Korea and weapons of mass destruction, Sea of Japan, Wonsan_
 
 ### [ Mayor Ray Nagin of New Orleans, Louisiana, is quarantined in Shanghai, China, after a passenger on his flight from the United States was diagnosed with A(H1N1) influenza. ](/news/2009/06/8/mayor-ray-nagin-of-new-orleans-louisiana-is-quarantined-in-shanghai-china-after-a-passenger-on-his-flight-from-the-united-states-was-di.md)
-_Context: Chinese, H1N1, Louisiana, Mayor, New Orleans, Ray Nagin, Shanghai, U.S., quarantine, swine flu_
+_Context: Chinese, H1N1, Louisiana, Mayor, New Orleans, Ray Nagin, Shanghai, United States, quarantine, swine flu_
 
 ### [ European Union's parliamentary elections: The centre-right European People's Party increases its plurality. ](/news/2009/06/8/european-union-s-parliamentary-elections-p-the-centre-right-european-people-s-party-increases-its-plurality.md)
 _Context: European Parliament, European People's Party, European Union, centre-right, elections, plurality_
