@@ -1,6 +1,6 @@
 ### [2017-07-20](/news/2017/07/20/index.md)
 
-#   Thousands of Poles continue to protest against the bill concerning the Supreme Court. 
+# Thousands of Poles continue to protest against the bill concerning the Supreme Court. 
 
 
 

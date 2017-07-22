@@ -7,7 +7,7 @@ Simpson, who has served nine years, mouthed the words &quot;thank you&quot; as h
 
 ### Source:
 
-1. [Washington Post](https://www.washingtonpost.com/news/early-lead/wp/2017/07/20/what-to-expect-from-the-o-j-simpson-parole-hearing/)
+1. [The Washington Post](https://www.washingtonpost.com/news/early-lead/wp/2017/07/20/what-to-expect-from-the-o-j-simpson-parole-hearing/)
 
 ### Related:
 
