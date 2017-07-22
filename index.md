@@ -3,8 +3,11 @@
 ### [Voters in East Timor go to the polls to elect members of their National Parliament. ](/news/2017/07/22/voters-in-east-timor-go-to-the-polls-to-elect-members-of-their-national-parliament.md)
 _Context: East Timor, East Timorese parliamentary election, 2017, National Parliament_
 
-### [Both houses of the Congress of the Philippines have convened a joint special session to discuss and debate on President of the Philippines Rodrigo Duterte's appeal for the extension of Proclamation No. 216 (martial law on the whole of Mindanao in response to the Marawi crisis; set to expire 10 PM PST) until the end of 2017. A joint nominal majority vote (at least 158 out of 314) is needed for the approval of the extension as well as the duration. ](/news/2017/07/22/both-houses-of-the-congress-of-the-philippines-have-convened-a-joint-special-session-to-discuss-and-debate-on-president-of-the-philippines-r.md)
-The Philippine Congress opened a special session Saturday to vote on President Rodrigo Duterte&#x27;s bid for an extension of martial law in the south to defeat Islamist gunmen. Duterte is widely expected to win approval for martial law in the region until the end of the year, with troops having failed
+### [After seven hours of debate, the joint special session of the Congress of the Philippines votes 261-18 in favor of the motion to extend Proclamation No. 216 (martial law on the whole of Mindanao in response to the Marawi crisis), that was set to expire 10 PM Philippine Standard Time,  until the end of the year. ](/news/2017/07/22/after-seven-hours-of-debate-the-joint-special-session-of-the-congress-of-the-philippines-votes-261a18-in-favor-of-the-motion-to-extend-pr.md)
+Martial law stays in Mindanao until the end of the year. 
+
+### [Negotiators from the Democratic and Republican parties agree on new sanctions against Russia, Iran, and  North Korea. Both chambers of the United States Congress  are scheduled to vote on passage on Tuesday. ](/news/2017/07/22/negotiators-from-the-democratic-and-republican-parties-agree-on-new-sanctions-against-russia-iran-and-north-korea-both-chambers-of-the-u.md)
+U.S. Republicans and Democrats have reached agreement on legislation that allows new sanctions against Russia, Iran and now also North Korea, leading congressional Democrats said on Saturday.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
