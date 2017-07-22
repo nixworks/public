@@ -40,7 +40,7 @@ _Context: Bolivia, La Paz, ravine_
 _Context: Florida, Lake Wales, Florida, Lakeland, Florida, Pilatus PC-12/47, Polk County, Florida, Tiger Creek Swamp_
 
 ### [CIA director David Petraeus makes an unofficial visit to Bulgaria, meeting the president and prime minister. ](/news/2012/06/7/cia-director-david-petraeus-makes-an-unofficial-visit-to-bulgaria-meeting-the-president-and-prime-minister.md)
-_Context: Bulgaria, Central Intelligence Agency, David Petraeus_
+_Context: Bulgaria, CIA, David Petraeus_
 
 ### [U.S. Secretary of Defense Leon Panetta makes an unannounced trip to Kabul and warns that his country is "reaching the limits of our patience here" with regard to Pakistan. ](/news/2012/06/7/u-s-secretary-of-defense-leon-panetta-makes-an-unannounced-trip-to-kabul-and-warns-that-his-country-is-reaching-the-limits-of-our-patience.md)
 Washington is losing patience with Pakistan over alleged safe havens for Taliban militants, US Defence Secretary Leon Panetta warns.

@@ -19,7 +19,7 @@ _Context: India_
 Get the latest breaking news and top news headlines at Reuters.com
 
 ### [ In Israel, Jerusalem police deny members of Jewish organization Revava access to Temple Mount during Passover because of danger that they could use the situation to encourage violence. Revava has planned a pilgrimage to the site in April 10  ](/news/2005/03/30/in-israel-jerusalem-police-deny-members-of-jewish-organization-revava-access-to-temple-mount-during-passover-because-of-danger-that-they-c.md)
-_Context: 10, Israel, Jerusalem, Jew, Passover, Revava, Temple Mount_
+_Context: 10, Israel, Jerusalem, Jew, Passover, Revava, holy place_
 
 ### [ In Guatemala, dozens of disguised AIDS patients protest government ruling that gives pharmaceutical companies 5-10 years to keep their drug trial data secret, limiting access to cheap generic AIDS drugs ](/news/2005/03/30/in-guatemala-dozens-of-disguised-aids-patients-protest-government-ruling-that-gives-pharmaceutical-companies-5-10-years-to-keep-their-drug.md)
 _Context: AIDS, Guatemala_

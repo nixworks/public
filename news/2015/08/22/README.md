@@ -49,7 +49,7 @@ Sorsogon radioman Teodoro Escanilla of DZMS was gunned down in his home on Tuesd
 Fourteen members of one of El Salvador&#x27;s most powerful street gangs were killed in a prison on Saturday in what appeared to be an internal gang purge, authorities said. El Salvador has been racked by rising violence over the past year, with murders surging since the breakdown of a gang truce between
 
 ### [President of the State of Palestine Mahmoud Abbas resigns from the Executive Committee of the Palestinian Liberation Organisation along with 11 ministers to force an election. The last time there were elections in the Palestinian authority was in 2005. ](/news/2015/08/22/president-of-the-state-of-palestine-mahmoud-abbas-resigns-from-the-executive-committee-of-the-palestinian-liberation-organisation-along-with.md)
-_Context: Mahmoud Abbas, Palestinian Liberation Organisation, President of the State of Palestine_
+_Context: Mahmoud Abbas, Palestinian Liberation Organisation, Palestinian President_
 
 ## [Previous Day...](/news/2015/08/21/index.md)
 

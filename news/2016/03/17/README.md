@@ -16,7 +16,7 @@ ROME (New York Daily News) -- The Vatican ambassador to the U.S. who arranged th
 The owner of the Los Angeles Times was selected as the top bidder for the Orange County Register and Riverside Press-Enterprise during the papers&apos; bankruptcy auction, but the U.S. Department of Justice immediately filed a lawsuit to block the deal Thursday on antitrust grounds.
 
 ### [At least 16 Palestinian pilgrims are killed when the bus they were traveling to Saudi Arabia on overturns in southern Jordan. ](/news/2016/03/17/at-least-16-palestinian-pilgrims-are-killed-when-the-bus-they-were-traveling-to-saudi-arabia-on-overturns-in-southern-jordan.md)
-_Context: Jordan, Palestinian, Saudi Arabia_
+_Context: Jordan, Palestinians, Saudi Arabia_
 
 ### [The People's Republic of China expresses its opposition to unilateral sanctions against North Korea in the wake of the imposition of new sanctions by the United States on the country in response to its recent nuclear and rocket tests. ](/news/2016/03/17/the-people-s-republic-of-china-expresses-its-opposition-to-unilateral-sanctions-against-north-korea-in-the-wake-of-the-imposition-of-new-san.md)
 China expressed its opposition on Thursday to unilateral sanctions against North Korea saying they could raise tension, after the United States imposed new curbs on the isolated country in retaliation for its nuclear and rocket tests.

@@ -7,7 +7,7 @@ _Context: Suez Canal, Umrah_
 _Context: Conflict in Iraq, Iraq, Ramadi, U.S., civilian, innocent, witness_
 
 ### [ Israeli-Palestinian Conflict: Israel bans Palestinians from travelling throughout the West Bank and cuts off contact with the Palestinian Authority. ](/news/2005/10/17/israeli-palestinian-conflict-israel-bans-palestinians-from-travelling-throughout-the-west-bank-and-cuts-off-contact-with-the-palestinian-a.md)
-_Context: Israel, Israeli-Palestinian conflict, Palestinian, Palestinian Authority, West Bank_
+_Context: Israel, Israeli-Palestinian conflict, Palestinian Authority, Palestinians, West Bank_
 
 ### [ Jens Stoltenberg takes over as the Prime Minister of Norway after Kjell Magne Bondevik. In Stoltenberg's majority coalition government, ten ministers represent the PMs own party, the Norwegian Labour Party (Ap), five come from the Socialist Left Party (SV), and four from the Centre Party (Sp). Nine of the nineteen ministers are women. ](/news/2005/10/17/jens-stoltenberg-takes-over-as-the-prime-minister-of-norway-after-kjell-magne-bondevik-in-stoltenberg-s-majority-coalition-government-ten.md)
 _Context: Centre Party, Jens Stoltenberg, Kjell Magne Bondevik, Norwegian Labour Party, Prime Minister of Norway, Socialist Left Party_

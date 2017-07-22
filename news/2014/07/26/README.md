@@ -13,7 +13,7 @@ _Context: Afghanistan, Ghor Province, Shi'ite, Taliban insurgency_
 _Context: 2014 West Africa Ebola outbreak, Samaritan's Purse_
 
 ### [Turkey's state run Anadolu Agency reports that twenty police officers have been charged with illegal wiretaps of officials including the Prime Minister of Turkey Recep Tayyip Erdogan. Another 49 are awaiting questioning. ](/news/2014/07/26/turkey-s-state-run-anadolu-agency-reports-that-twenty-police-officers-have-been-charged-with-illegal-wiretaps-of-officials-including-the-pri.md)
-_Context: Anadolu Agency, Prime Minister of Turkey, Recep Tayyip Erdogan, Turkey, wiretap_
+_Context: Anadolu Agency, Recep Tayyip Erdogan, Turkey, Turkish Prime Minister, wiretap_
 
 ### [Pedro Sanchez Perez-Castejon is elected Secretary-General of the Spanish Socialist Workers' Party by an extraordinary congress, following the party's first-ever primary elections, and thereby becomes leader of the Spanish opposition. ](/news/2014/07/26/pedro-sa-nchez-pa-c-rez-casteja3n-is-elected-secretary-general-of-the-spanish-socialist-workers-party-by-an-extraordinary-congress-following.md)
 Grass root members of Spain’s Socialist party have elected a new leader. He is 42-year-old Pedro Sanchez, a sitting MP with a doctorate in

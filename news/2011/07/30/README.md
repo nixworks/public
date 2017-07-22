@@ -7,7 +7,7 @@ _Context: Libya, Libyan Civil War, NATO, Tripoli_
 _Context: Pakistan, Quetta_
 
 ### [Suspected Communist Party of the Philippines New People's Army forces attack a police station in Agusan del Sur killing a civilian and wounding two police officers. ](/news/2011/07/30/suspected-communist-party-of-the-philippines-new-people-s-army-forces-attack-a-police-station-in-agusan-del-sur-killing-a-civilian-and-wound.md)
-_Context: Agusan del Sur, Communist Party, New People's Army_
+_Context: Agusan del Sur, Communist Party of the Philippines, New People's Army_
 
 ### [Zara Phillips, granddaughter of Queen Elizabeth II, marries England rugby union international Mike Tindall in a ceremony at Canongate Kirk, Edinburgh, Scotland. ](/news/2011/07/30/zara-phillips-granddaughter-of-queen-elizabeth-ii-marries-england-rugby-union-international-mike-tindall-in-a-ceremony-at-canongate-kirk.md)
 _Context: Canongate Kirk, Edinburgh, Scotland, Elizabeth II, England rugby union international, Mike Tindall, Zara Phillips_

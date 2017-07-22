@@ -7,7 +7,7 @@ _Context: Michael Stone, Northern Ireland, Stormont, loyalist_
 _Context: France, Jean-Louis Bruguire, Juvnal Habyarimana, Paul Kagame, President, Rwanda, Rwandan Genocide, warrant_
 
 ### [ Israeli-Palestinian conflict: Israel and Palestinians have agreed to a ceasefire.](/news/2006/11/24/israeli-palestinian-conflict-israel-and-palestinians-have-agreed-to-a-ceasefire.md)
-_Context: Israel, Israeli-Palestinian conflict, Palestinian_
+_Context: Israel, Israeli-Palestinian conflict, Palestinians_
 
 ### [ Campaigning has ended in Bahrain's  parliamentary elections before tomorrow's vote. The International Herald Tribune says voter turnout is expected to be 'huge' after a divisive election campaign. ](/news/2006/11/24/campaigning-has-ended-in-bahrain-s-parliamentary-elections-before-tomorrow-s-vote-the-international-herald-tribune-says-voter-turnout-is.md)
 _Context: Bahrain, International Herald Tribune, parliamentary elections_

@@ -4,13 +4,13 @@
 Security forces said to be pushing towards northern town of Maarat al-Numaan as new videos show army unit defecting.
 
 ### [Iraq War:''Time'' reports that a Federal Grand Jury is investigating claims of war crimes and torture by the US Central Intelligence Agency at Iraq's Abu Ghraib prison in 2003. ](/news/2011/06/14/iraq-war-p-time-reports-that-a-federal-grand-jury-is-investigating-claims-of-war-crimes-and-torture-by-the-us-central-intelligence-agency.md)
-_Context: Abu Ghraib, Central Intelligence Agency, Iraq, Iraq War, Time, grand jury, torture, war crime_
+_Context: Abu Ghraib, CIA, Iraq, Iraq War, Time, grand jury, torture, war crime_
 
 ### [Canada recognises the rebel National Transitional Council of Libya as the country's legitimate government with the Canadian House of Commons voting to extend its mission in Libya by three and a half months. ](/news/2011/06/14/canada-recognises-the-rebel-national-transitional-council-of-libya-as-the-country-s-legitimate-government-with-the-canadian-house-of-commons.md)
 _Context: Canadian House of Commons, Libya, National Transitional Council_
 
 ### [Pakistan's Directorate for Inter-Services Intelligence has arrested Central Intelligence Agency informants who contributed to the raid on Osama bin Laden. ](/news/2011/06/14/pakistan-s-directorate-for-inter-services-intelligence-has-arrested-central-intelligence-agency-informants-who-contributed-to-the-raid-on-os.md)
-_Context: Central Intelligence Agency, Directorate for Inter-Services Intelligence, Osama bin Laden, Pakistan, father's killing_
+_Context: CIA, Directorate for Inter-Services Intelligence, Osama bin Laden, Pakistan, father's killing_
 
 ### [A new diary by Che Guevara of his time fighting in the Cuban Revolution between 1956 and 1958 is published. ](/news/2011/06/14/a-new-diary-by-che-guevara-of-his-time-fighting-in-the-cuban-revolution-between-1956-and-1958-is-published.md)
 _Context: Che Guevara, Cuban Revolution_

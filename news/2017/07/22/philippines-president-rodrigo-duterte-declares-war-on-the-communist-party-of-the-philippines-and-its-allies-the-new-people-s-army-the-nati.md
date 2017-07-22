@@ -1,0 +1,23 @@
+### [2017-07-22](/news/2017/07/22/index.md)
+
+# Philippines president Rodrigo Duterte declares war on the Communist Party of the Philippines and its allies (the New People's Army, the National Democratic Front, Makabayan coalition, and the Bagong Alyansang Makabayan) after peace talks collapse yet again. 
+
+Philippine government halts talks with communist rebels after series of attacks as president vows new offensive.
+
+
+### Source:
+
+1. [al-Jazeera](http://www.aljazeera.com/news/2017/07/philippines-freezes-peace-talks-communist-rebels-170721062205681.html)
+
+### Related:
+
+1. [The government of the Philippines and the Communist Party cancel peace talks after president Rodrigo Duterte declares martial law in Mindanao. ](/news/2017/05/28/the-government-of-the-philippines-and-the-communist-party-cancel-peace-talks-after-president-rodrigo-duterte-declares-martial-law-in-mindana.md) _Context: CPP-NPA-NDF rebellion, Communist Party of the Philippines, Philippines, Rodrigo Duterte_
+2. [CPP-NPA-NDF rebellion; The Communist Party of the Philippines agrees to fight drug lords after its legal wing Bagong Alyansang Makabayan joins the government cabinet of Rodrigo Duterte. ](/news/2016/07/4/cppanpaandf-rebellion-the-communist-party-of-the-philippines-agrees-to-fight-drug-lords-after-its-legal-wing-bagong-alyansang-makabayan.md) _Context: Bagong Alyansang Makabayan, Communist Party of the Philippines, Rodrigo Duterte_
+3. [The Philippines and the local Communist Party agree to renew talks that may lead to a peace treaty which could end the 46-year communist insurgency in the country. ](/news/2014/12/26/the-philippines-and-the-local-communist-party-agree-to-renew-talks-that-may-lead-to-a-peace-treaty-which-could-end-the-46-year-communist-ins.md) _Context: CPP-NPA-NDF rebellion, Communist Party of the Philippines, Philippines_
+4. [Top leaders and couple of the CPP-NPA-NDF, Benito and Wilma Tiamzon was arrested by joint military and police forces in Aloguinsan, Cebu. Wilma Tiamzon is the secretary general of militant group while Benito is the chairman. ](/news/2014/03/22/top-leaders-and-couple-of-the-cpp-npa-ndf-benito-and-wilma-tiamzon-was-arrested-by-joint-military-and-police-forces-in-aloguinsan-cebu-wi.md) _Context: Communist Party of the Philippines, National Democratic Front, New People's Army_
+5. [The Supreme Court of the Philippines says President of the Philippines Rodrigo Duterte can declare martial law in the whole Philippines. Two days prior, the Supreme Court had ](/news/2017/07/6/the-supreme-court-of-the-philippines-says-president-of-the-philippines-rodrigo-duterte-can-declare-martial-law-in-the-whole-philippines-two.md) _Context: Philippines, Rodrigo Duterte_
+6. [Philippines president Rodrigo Duterte says he is "not aware" of the United States providing support to the Philippine government's military intervention against Islamists in Marawi. Duterte also said that he "never approached America for help". ](/news/2017/06/11/philippines-president-rodrigo-duterte-says-he-is-not-aware-of-the-united-states-providing-support-to-the-philippine-government-s-military.md) _Context: Philippines, Rodrigo Duterte_
+7. [A Filipino lawyer files a complaint of "mass murder and crimes against humanity" against Philippines president Rodrigo Duterte and eleven other officials at the International Criminal Court in The Hague, Netherlands. ](/news/2017/04/24/a-filipino-lawyer-files-a-complaint-of-mass-murder-and-crimes-against-humanity-against-philippines-president-rodrigo-duterte-and-eleven-ot.md) _Context: Philippines, Rodrigo Duterte_
+8. [Amnesty International releases a report criticizing the rise of populist leaders such as Donald Trump of the United States, Viktor Orban of Hungary, Rodrigo Duterte of the Philippines and Recep Tayyip Erdogan of Turkey. ](/news/2017/02/22/amnesty-international-releases-a-report-criticizing-the-rise-of-populist-leaders-such-as-donald-trump-of-the-united-states-viktor-orba-n-of.md) _Context: Philippines, Rodrigo Duterte_
+9. [Philippines president  Rodrigo Duterte accuses the opposition Liberal Party of trying to oust him and install the current vice president  Leni Robredo to the presidency. ](/news/2016/12/7/philippines-president-rodrigo-duterte-accuses-the-opposition-liberal-party-of-trying-to-oust-him-and-install-the-current-vice-president-le.md) _Context: Philippines, Rodrigo Duterte_
+10. [The Commission on Human Rights launches an investigation into alleged murders committed by current Philippines president Rodrigo Duterte. ](/news/2016/12/22/the-commission-on-human-rights-launches-an-investigation-into-alleged-murders-committed-by-current-philippines-president-rodrigo-duterte.md) _Context: Philippines, Rodrigo Duterte_

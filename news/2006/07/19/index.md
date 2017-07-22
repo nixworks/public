@@ -16,7 +16,7 @@ Indian bloggers have reacted with anger and confusion, accusing the government o
 _Context: Hezbollah, Israel, Kofi Annan, Lebanon, UN, war_
 
 ### [ Israeli-Palestinian conflict (Operation Summer Rains): At least nine Palestinians have been killed in fresh Israeli operations in Gaza and the West Bank.](/news/2006/07/19/israeli-palestinian-conflict-operation-summer-rains-p-at-least-nine-palestinians-have-been-killed-in-fresh-israeli-operations-in-gaza-and.md)
-_Context: Gaza Strip, Israeli-Palestinian conflict, Operation Summer Rains, Palestinian, West Bank_
+_Context: Gaza Strip, Israeli-Palestinian conflict, Operation Summer Rains, Palestinians, West Bank_
 
 ### [ Independent reports say that over 100 people are dead and missing in North Korea as a result of floods and landslides, while the North's government-controlled media omitted mention of any casualties. More than 9,000 families are left homeless. There have been at least 25 deaths in South Korea. ](/news/2006/07/19/independent-reports-say-that-over-100-people-are-dead-and-missing-in-north-korea-as-a-result-of-floods-and-landslides-while-the-north-s-go.md)
 More than 100 people are dead or missing in North Korea due to floods and landslides, an aid group operating in the communist nation said.

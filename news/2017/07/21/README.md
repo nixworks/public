@@ -9,13 +9,16 @@ _Context: Salvador Dali, Spain_
 ### [A 6.7 magnitude earthquake in the Aegean Sea near Greece and Turkey kills two people and injures more than 520 others. ](/news/2017/07/21/a-6-7-magnitude-earthquake-in-the-aegean-sea-near-greece-and-turkey-kills-two-people-and-injures-more-than-520-others.md)
 A powerful magnitude-6.7 earthquake kills two people and causes a small tsunami after striking near Turkish and Greek tourist destinations in the Aegean Sea.
 
+### [Members of the European Parliament call for the release of detained senator Leila de Lima and allow her to fulfill her duties. ](/news/2017/07/21/members-of-the-european-parliament-call-for-the-release-of-detained-senator-leila-de-lima-and-allow-her-to-fulfill-her-duties.md)
+_Context: European Parliament, Leila de Lima, Philippine Drug War, senator_
+
 ### [The U.S. State Department announces that it will ban travel to North Korea, following the death of Otto Warmbier. ](/news/2017/07/21/the-u-s-state-department-announces-that-it-will-ban-travel-to-north-korea-following-the-death-of-otto-warmbier.md)
 U.S. citizens will be banned from traveling to North Korea after Trump action
 
-### [ Minneapolis Police Chief Janee Harteau, upon reflection, resigns in the wake of last Saturday's tragedy as well as some other recent incidents. ](/news/2017/07/21/minneapolis-police-chief-janea-c-harteau-upon-reflection-resigns-in-the-wake-of-last-saturdayas-tragedy-as-well-as-some-other-recent-inc.md)
+### [ Minneapolis Police Chief Janee Harteau, upon reflection and at Mayor Betsy Hodges's request, resigns in the wake of last Saturday's tragedy as well as some other recent incidents. ](/news/2017/07/21/minneapolis-police-chief-janea-c-harteau-upon-reflection-and-at-mayor-betsy-hodges-s-request-resigns-in-the-wake-of-last-saturdayas-trag.md)
 &quot;I have to put the communities we serve first,&quot; she said.
 
-### [White House Press Secretary Sean Spicer announced his intention to resign as White House Press Secretary becauseDonald Trump appoints Anthony Scaramucci as the White House Communications Director,and will formally step down from the role in August 2017. Sarah Huckabee Sanders will take over as the White House Press Secretary in August 2017. ](/news/2017/07/21/white-house-press-secretary-sean-spicer-announced-his-intention-to-resign-as-white-house-press-secretary-becausedonald-trump-appoints-anthon.md)
+### [White House Press Secretary Sean Spicer announced his intention to resign as White House Press Secretary due to Donald Trump's appointment of Anthony Scaramucci as the White House Communications Director, and will formally step down from the role in August 2017. Sarah Huckabee Sanders will take over as the White House Press Secretary in August 2017. ](/news/2017/07/21/white-house-press-secretary-sean-spicer-announced-his-intention-to-resign-as-white-house-press-secretary-due-to-donald-trump-s-appointment-o.md)
 Mr. Spicer quit after telling President Trump he vehemently disagreed with the appointment of the financier Anthony Scaramucci as communications director.
 
 ## [Previous Day...](/news/2017/07/20/index.md)

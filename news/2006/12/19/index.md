@@ -10,7 +10,7 @@ _Context: Daniar Usenov, Felix Kulov, Kurmanbek Bakiyev, Kyrgyz Prime Minister, 
 _Context: Kazakh President, Nursultan Nazarbayev's, Tehran, drug trafficking, terrorism, weapons of mass destruction_
 
 ### [ Palestinian civil skirmishes: Five people have been killed and 12 injured after gun battles erupted between armed Palestinians loyal to Hamas and Fatah in the Gaza Strip.  ](/news/2006/12/19/palestinian-civil-skirmishes-p-five-people-have-been-killed-and-12-injured-after-gun-battles-erupted-between-armed-palestinians-loyal-to-ha.md)
-_Context: Fatah, Gaza Strip, Hamas, Palestinian, Palestinian civil skirmishes_
+_Context: Fatah, Gaza Strip, Hamas, Palestinian civil skirmishes, Palestinians_
 
 ### [ Hugo Chvez announces his plans to merge the parties which support the Bolivarian Revolution into the United Socialist Party of Venezuela. ](/news/2006/12/19/hugo-chavez-announces-his-plans-to-merge-the-parties-which-support-the-bolivarian-revolution-into-the-united-socialist-party-of-venezuela.md)
 _Context: Bolivarian Revolution, Hugo Chvez, United Social Party of Venezuela_

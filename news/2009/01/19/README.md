@@ -13,7 +13,7 @@ Royal Bank of Scotland, one of Britain&#039;s biggest banks, was yesterday drive
 _Context: Australia, Chakri Dynasty, Harry Nicolaides, Thailand, lese-majeste_
 
 ### [ Palestinians unearth 23 bodies from the rubble in Zeitoun after the declaration of a ceasefire in their conflict with Israel. ](/news/2009/01/19/palestinians-unearth-23-bodies-from-the-rubble-in-zeitoun-after-the-declaration-of-a-ceasefire-in-their-conflict-with-israel.md)
-_Context: Israel, Palestinian, Zeitoun, ceasefire, fire_
+_Context: Israel, Palestinians, Zeitoun, ceasefire, fire_
 
 ### [ The 2009 Australian Open tennis competition begins in Melbourne. ](/news/2009/01/19/the-2009-australian-open-tennis-competition-begins-in-melbourne.md)
 The first round of the Australian Open is underway at Melbourne Park.

@@ -19,7 +19,7 @@ _Context: Paris, Southern France, Syria_
 _Context: Bowe Bergdahl, Guantanamo Bay Detention Camp, National Defense Authorization Act for Fiscal Year 2013, US Congress_
 
 ### [Mahmoud Abbas, the President of the State of Palestine, announces a unity cabinet containing members of both Fatah and Hamas. ](/news/2014/06/2/mahmoud-abbas-the-president-of-the-state-of-palestine-announces-a-unity-cabinet-containing-members-of-both-fatah-and-hamas.md)
-_Context: Fatah, Hamas, Mahmoud Abbas, President of the State of Palestine, unity_
+_Context: Fatah, Hamas, Mahmoud Abbas, Palestinian President, unity_
 
 ### [King Juan Carlos I of Spain announces that he is to abdicate with Felipe, Prince of Asturias, to succeed him. ](/news/2014/06/2/king-juan-carlos-i-of-spain-announces-that-he-is-to-abdicate-with-felipe-prince-of-asturias-to-succeed-him.md)
 Spanish Prime Minister Mariano Rahoy has said 76-year-old King Juan Carlos is to abdicate and his son Crown Prince Felipe will take over the throne.

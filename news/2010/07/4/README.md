@@ -25,7 +25,7 @@ _Context: Africa, Brazilian President, Lula_
 American Gen. David Petraeus formally assumes command of the 130,000-strong international force in Afghanistan.
 
 ### [Iran passes on to Tehran's Swiss embassy what it describes as evidence proving that the United States Central Intelligence Agency abducted Iranian nuclear scientist Shahram Amiri. ](/news/2010/07/4/iran-passes-on-to-tehran-s-swiss-embassy-what-it-describes-as-evidence-proving-that-the-united-states-central-intelligence-agency-abducted-i.md)
-_Context: Central Intelligence Agency, Iran, Shahram Amiri, Swiss, Tehran, United States_
+_Context: CIA, Iran, Shahram Amiri, Swiss, Tehran, United States_
 
 ### [Japan's competitive eating champion Takeru "Tsunami" Kobayashi is arrested after disrupting the Nathan's Hot Dog Eating Contest in New York City, United States. ](/news/2010/07/4/japan-s-competitive-eating-champion-takeru-tsunami-kobayashi-is-arrested-after-disrupting-the-nathan-s-hot-dog-eating-contest-in-new-york.md)
 _Context: Japan, Nathan's Hot Dog Eating Contest, New York City, Takeru "Tsunami" Kobayashi, United States, competitive eating_

@@ -25,7 +25,7 @@ _Context: line 10, metro_
 _Context: Copenhagen, K.B. Hallen_
 
 ### [Japan asks South Korea to block plans to build a monument to Korean World War II "comfort women" near the Japanese embassy in Seoul. ](/news/2011/09/28/japan-asks-south-korea-to-block-plans-to-build-a-monument-to-korean-world-war-ii-comfort-women-near-the-japanese-embassy-in-seoul.md)
-_Context: Korean, Seoul, comfort women_
+_Context: Comfort women, Korean, Seoul_
 
 ### [Australian newspaper columnist Andrew Bolt loses an action in the Federal Court of Australia in relation to  breaches of the Racial Discrimination Act in columns about nine prominent aborigines. ](/news/2011/09/28/australian-newspaper-columnist-andrew-bolt-loses-an-action-in-the-federal-court-of-australia-in-relation-to-breaches-of-the-racial-discrimi.md)
 _Context: Aboriginal Australians, Andrew Bolt, Federal Court of Australia, Racial Discrimination Act, newspaper columnist_

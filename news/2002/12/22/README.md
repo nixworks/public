@@ -1,7 +1,7 @@
 ## [2002-12-22](/news/2002/12/22/index.md)
 
 ### [Palestinian leader Yasser Arafat announced that he has called off presidential and legislative elections scheduled for next month, as he feels that continued Israeli occupation of Palestinian territory will make a free election impossible.](/news/2002/12/22/palestinian-leader-yasser-arafat-announced-that-he-has-called-off-presidential-and-legislative-elections-scheduled-for-next-month-as-he-fee.md)
-_Context: Israel, Palestinian, Yasser Arafat_
+_Context: Israel, Palestinians, Yasser Arafat_
 
 ### [North Korea announced that it is physically removing monitoring devices placed on the Yongbyon nuclear reactor.  The devices were placed by the United Nations following the 1994 nuclear agreement to shut down Yongbyon, which is capable of making weapons-grade material, in exchange for deliveries of oil.  In November 2002, Korea admitted that it is working on a weapons of mass destruction program in response to "imperialist threats."  The United States states it does not trust the North Koreans.](/news/2002/12/22/north-korea-announced-that-it-is-physically-removing-monitoring-devices-placed-on-the-yongbyon-nuclear-reactor-the-devices-were-placed-by.md)
 _Context: 1994 nuclear agreement, North Korea, Yongbyon, weapons of mass destruction_

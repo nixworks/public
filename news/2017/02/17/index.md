@@ -28,7 +28,7 @@ _Context: Africa, European migrant crisis, Morocco, Spain_
 _Context: Cristina, Spain, fraud_
 
 ### [Leila de Lima, senator and critic of the Philippine Drug War, is charged by Philippines justice secretary Vitaliano Aguirre II of alleged drug-related crimes. ](/news/2017/02/17/leila-de-lima-senator-and-critic-of-the-philippine-drug-war-is-charged-by-philippines-justice-secretary-vitaliano-aguirre-ii-of-alleged-dr.md)
-_Context: Leila de Lima, Philippines, Philippines's war against illegal drugs, Vitaliano Aguirre II_
+_Context: Leila de Lima, Philippine Drug War, Philippines, Vitaliano Aguirre II_
 
 ### [With a 52-46 vote, the U.S. Senate confirms Attorney General of Oklahoma Scott Pruitt as the Administrator of the Environmental Protection Agency. Breaking with party lines, Republican Susan Collins opposed the nomination, while Democrats Heidi Heitkamp and Joe Manchin supported Pruitt, who has been described as a climate change denier with a history of criticizing the agency he now leads. ](/news/2017/02/17/with-a-52a46-vote-the-u-s-senate-confirms-attorney-general-of-oklahoma-scott-pruitt-as-the-administrator-of-the-environmental-protection.md)
 Scott Pruitt has attracted scorn from Democrats and environmentalists and praise from conservatives and the energy industry.

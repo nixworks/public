@@ -4,7 +4,7 @@
 _Context: 1995, Georgia, Igor Giorgadze, Interpol, Russia, Shevardnadze_
 
 ### [ The United States government announces that fourteen suspected terrorists are to be transferred to the Guantanamo Bay detainment camp and admits that these suspects have been held in CIA black sites. These people include Khalid Sheik Mohammed, believed to be the No. 3 al-Qaida leader before he was captured in Pakistan in 2003; Ramzi Binalshibh, an alleged would-be 9/11 hijacker; and Abu Zubaydah, who was believed to be a link between Osama bin Laden and many al-Qaida cells before he was also captured in Pakistan in March 2002. ](/news/2006/09/6/the-united-states-government-announces-that-fourteen-suspected-terrorists-are-to-be-transferred-to-the-guantanamo-bay-detainment-camp-and-a.md)
-_Context: 9/11, Abu Zubaydah, Al Qaida's, Central Intelligence Agency, Guantnamo Bay detainment camp, Khalid Sheik Mohammed, Osama bin Laden, Pakistan, Ramzi Binalshibh, black site_
+_Context: 9/11, Abu Zubaydah, Al Qaida's, CIA, Guantnamo Bay detainment camp, Khalid Sheik Mohammed, Osama bin Laden, Pakistan, Ramzi Binalshibh, black site_
 
 ### [ The Singaporean economy tops a list of 175 economies as the most business-friendly economy in the world in a survey conducted by the World Bank's International Finance Corporation. ](/news/2006/09/6/the-singaporean-economy-tops-a-list-of-175-economies-as-the-most-business-friendly-economy-in-the-world-in-a-survey-conducted-by-the-world.md)
 _Context: International Finance Corporation, Singapore's economy, World Bank_

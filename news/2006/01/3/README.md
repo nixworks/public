@@ -17,7 +17,7 @@ _Context: Bo Xilai, Hong Kong, Jiang Weiping, Liaoning, State Secrets Law, anti-
 _Context: Iraq, Iraqi insurgency, airstrike, military_
 
 ### [ Israeli-Palestinian Conflict: Israel Police prevents Palestinians in East Jerusalem from campaigning in the upcoming Elections in the Palestinian National Authority. ](/news/2006/01/3/israeli-palestinian-conflict-israel-police-prevents-palestinians-in-east-jerusalem-from-campaigning-in-the-upcoming-elections-in-the-pales.md)
-_Context: East Jerusalem, Israeli police, Israeli-Palestinian conflict, Palestinian, elections_
+_Context: East Jerusalem, Israeli police, Israeli-Palestinian conflict, Palestinians, elections_
 
 ### [ Rescue workers are still battling to find survivors after the roof of an ice rink collapsed in Bad Reichenhall, southern Germany, leaving at least 10 people dead, some of them children. It is thought many are still trapped under the rubble. ](/news/2006/01/3/rescue-workers-are-still-battling-to-find-survivors-after-the-roof-of-an-ice-rink-collapsed-in-bad-reichenhall-southern-germany-leaving-a.md)
 _Context: Bad Reichenhall, children_

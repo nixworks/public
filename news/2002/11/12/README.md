@@ -7,7 +7,7 @@ _Context: Ethiopia, Ethiopian famine, Meles Zenawi, famine, famine relief_
 _Context: Staphylococcus aureus, antibiotic, antibiotic-resistant bacteria, vancomycin_
 
 ### [Anti-Semitism: Harvard University canceled an invitation to Irish poet and Oxford University lecturer Tom Paulin after some statements attributed to him in an article in an Egyptian newspaper, al-Ahram, were labelled anti-Jewish by university officials. Paulin is quoted (amongst other things) as saying that American Jewish settlers in Israel should be "shot dead.&nbsp;... I think they are Nazis, racists. I feel nothing but hatred for them." He is also quoted as saying that he understands "how suicide bombers feel", and recommends that Palestinians take up guerrilla warfare against civilians in order to create a sense of solidarity.](/news/2002/11/12/anti-semitism-harvard-university-canceled-an-invitation-to-irish-poet-and-oxford-university-lecturer-tom-paulin-after-some-statements-attri.md)
-_Context: Ahram Online, Egypt, Harvard University, Ireland, Israel, Nazism, Oxford University, Palestinian, Tom Paulin, anti-Semitism, guerillas_
+_Context: Ahram Online, Egypt, Harvard University, Ireland, Israel, Nazism, Oxford University, Palestinians, Tom Paulin, anti-Semitism, guerillas_
 
 ### [ R&B Super Group, TLC released their fourth studio album, 3D (TLC album), seven months after the tragic death of their band member, rapper Lisa Lopes, resulting from a deadly car accident in the Honduras.](/news/2002/11/12/r-b-super-group-tlc-released-their-fourth-studio-album-3d-tlc-album-seven-months-after-the-tragic-death-of-their-band-member-rapper-l.md)
 _Context: 3D (TLC album), Honduras, Lisa Lopes, TLC_

@@ -4,7 +4,7 @@
 _Context: Kurdistan Workers' Party, Sirnak Province, Turkey_
 
 ### [ A recently released Iranian diplomat claims that he was tortured by the CIA while in captivity in Iraq. ](/news/2007/04/7/a-recently-released-iranian-diplomat-claims-that-he-was-tortured-by-the-cia-while-in-captivity-in-iraq.md)
-_Context: Central Intelligence Agency, Foreign relations of Iran, Iran, Iraq, torture_
+_Context: CIA, Foreign relations of Iran, Iran, Iraq, torture_
 
 ### [ Cambridge University defeats Oxford University by one and a half lengths in the 153rd University Boat Race.](/news/2007/04/7/cambridge-university-defeats-oxford-university-by-one-and-a-half-lengths-in-the-153rd-university-boat-race.md)
 _Context: Cambridge University, Oxford University, University Boat Race_

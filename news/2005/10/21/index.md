@@ -1,7 +1,7 @@
 ## [2005-10-21](/news/2005/10/21/index.md)
 
 ### [ Israeli-Palestinian Conflict: Two Palestinians were shot dead by Israeli soldiers in the West Bank after they attacked an Israeli Defence Forces vehicle in Tulkarm. ](/news/2005/10/21/israeli-palestinian-conflict-two-palestinians-were-shot-dead-by-israeli-soldiers-in-the-west-bank-after-they-attacked-an-israeli-defence-f.md)
-_Context: Israel, Israeli Defence Forces, Israeli-Palestinian conflict, Palestinian, Tulkarm, West Bank_
+_Context: Israel, Israeli Defence Forces, Israeli-Palestinian conflict, Palestinians, Tulkarm, West Bank_
 
 ### [ Telecommunications company Inmarsat is planning to launch the second in a series of two super-satellites into geosynchronous orbit. They are designed to be among the most powerful commercial communications satellites in orbit. They will beam broadband data and voice services to almost any location on the planet. ](/news/2005/10/21/telecommunications-company-inmarsat-is-planning-to-launch-the-second-in-a-series-of-two-super-satellites-into-geosynchronous-orbit-they-ar.md)
 _Context: Inmarsat, broadband, communications satellite, geosynchronous orbit, released an object into orbit, telecommunication_

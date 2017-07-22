@@ -13,7 +13,7 @@ _Context: Baghdad, Hilla, Iraq_
 BOULDER, Colorado – Ground controllers today successfully performed a major maneuver of NASA’s Mars Reconnaissance Orbiter (MOR)—an “end game” tactic that puts the orbiting probe a step closer to studying the red planet with its entire suite of science se
 
 ### [ Israeli troops kill at least eight Palestinians in fighting in Gaza City, as part of a two-month offensive in the territory.](/news/2006/08/30/israeli-troops-kill-at-least-eight-palestinians-in-fighting-in-gaza-city-as-part-of-a-two-month-offensive-in-the-territory.md)
-_Context: Gaza, Israel, Palestinian_
+_Context: Gaza, Israel, Palestinians_
 
 ### [ Mexican presidential candidate Andres Manuel Lopez Obrador vows to form a parallel government following the Federal Electoral Tribunal's ruling that Felipe Calderon won the presidential election. ](/news/2006/08/30/mexican-presidential-candidate-andra-c-s-manuel-la3pez-obrador-vows-to-form-a-parallel-government-following-the-federal-electoral-tribunal-s.md)
 _Context: Andres Manuel Lopez Obrador, Federal Electoral Tribunal, Felipe Calderon, Mexican President, Mexican general election_

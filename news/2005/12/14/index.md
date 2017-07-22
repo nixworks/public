@@ -19,10 +19,10 @@ _Context: Brazilian President, International Monetary Fund, Luiz Incio Lula da S
 _Context: Hindu, India, Muslim, life imprisonment, riots_
 
 ### [ Israeli-Palestinian Conflict: An Israeli Air-Strike in the Gaza Strip leaves four Palestinians dead. Israel claims that all four were militants and were about to launch a rocket attack into Israel. ](/news/2005/12/14/israeli-palestinian-conflict-p-an-israeli-air-strike-in-the-gaza-strip-leaves-four-palestinians-dead-israel-claims-that-all-four-were-mili.md)
-_Context: Gaza Strip, Israel, Israeli-Palestinian conflict, Palestinian, air strike_
+_Context: Gaza Strip, Israel, Israeli-Palestinian conflict, Palestinians, air strike_
 
 ### [ The President of Iran, Mahmoud Ahmadinejad, describes the Holocaust as a myth. He also said that Europe should house the Jews of the world, rather than the Palestinians. ](/news/2005/12/14/the-president-of-iran-mahmoud-ahmadinejad-describes-the-holocaust-as-a-myth-he-also-said-that-europe-should-house-the-jews-of-the-world.md)
-_Context: Europe, Holocaust, Holocaust denial, Mahmoud Ahmadinejad, Palestinian, President_
+_Context: Europe, Holocaust, Holocaust denial, Mahmoud Ahmadinejad, Palestinians, President_
 
 ### [ A reservoir bursts near Lesterville, Missouri at the Taum Sauk hydroelectric power plant on the Black River, causing significant damage. ](/news/2005/12/14/a-reservoir-bursts-near-lesterville-missouri-at-the-taum-sauk-hydroelectric-power-plant-on-the-black-river-causing-significant-damage.md)
 _Context: Black River, Lesterville, Missouri, Taum Sauk hydroelectric power plant_

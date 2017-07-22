@@ -28,7 +28,7 @@ _Context: Assets Recovery Agency, England, Irish Republican Army, Manchester_
 _Context: Stan, death toll_
 
 ### [ Israeli-Palestinian Conflict: Israel is to ban using Palestinians as human shields following a Supreme Court of Israel ruling. ](/news/2005/10/6/israeli-palestinian-conflict-israel-is-to-ban-using-palestinians-as-human-shields-following-a-supreme-court-of-israel-ruling.md)
-_Context: Israel, Israel's Supreme Court, Israeli-Palestinian conflict, Palestinian, human shield_
+_Context: Israel, Israel's Supreme Court, Israeli-Palestinian conflict, Palestinians, human shield_
 
 ### [ Malalai Joya, a 27-year-old women's rights worker, has won one of the first seats in Afghanistan's National Assembly, also called the Wolesa Jirga. ](/news/2005/10/6/malalai-joya-a-27-year-old-women-s-rights-worker-has-won-one-of-the-first-seats-in-afghanistan-s-national-assembly-also-called-the-woles.md)
 _Context: Wolesa Jirga_

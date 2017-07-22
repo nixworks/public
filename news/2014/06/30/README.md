@@ -34,7 +34,7 @@ _Context: China, Xinjiang_
 min Park and James Pearson
 
 ### [Philippines Senator Jinggoy Estrada is arrested for alleged corruption. ](/news/2014/06/30/philippines-senator-jinggoy-estrada-is-arrested-for-alleged-corruption.md)
-_Context: Jinggoy Estrada, Senate_
+_Context: Jinggoy Estrada, senator_
 
 ### [Australian entertainer Rolf Harris is convicted in London, England, of 12 counts of indecent assault against young girls between 1968 and 1986. The 84-year-old is to be sentenced on Friday 4 July. ](/news/2014/06/30/australian-entertainer-rolf-harris-is-convicted-in-london-england-of-12-counts-of-indecent-assault-against-young-girls-between-1968-and-19.md)
 Rolf Harris has been found guilty of indecently assaulting four girls in the UK between 1968 and 1986.

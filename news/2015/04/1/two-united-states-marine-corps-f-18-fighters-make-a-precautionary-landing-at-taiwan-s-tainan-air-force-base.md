@@ -12,7 +12,7 @@ The emergency landing of two U.S. Marine Corps F-18 fighter jets on the island o
 
 ### Related:
 
-1. [A United States Marine Corps Lockheed C-130 Hercules military transport aircraft carrying sixteen people has crashed near the American town of Greenwood, Mississippi. So far, at least sixteen bodies have been recovered. ](/news/2017/07/10/a-united-states-marine-corps-lockheed-c-130-hercules-military-transport-aircraft-carrying-sixteen-people-has-crashed-near-the-american-town.md) _Context: United States Marine Corps_
+1. [A United States Marine Corps Lockheed C-130 Hercules military transport aircraft carrying sixteen people has crashed near the American town of Greenwood, Mississippi. All sixteen bodies have been recovered. ](/news/2017/07/10/a-united-states-marine-corps-lockheed-c-130-hercules-military-transport-aircraft-carrying-sixteen-people-has-crashed-near-the-american-town.md) _Context: United States Marine Corps_
 2. [The United States plans to sell Taiwan $1.42 billion in arms, the first such sale under the administration of Donald Trump. ](/news/2017/06/29/the-united-states-plans-to-sell-taiwan-1-42-billion-in-arms-the-first-such-sale-under-the-administration-of-donald-trump.md) _Context: Taiwan_
 3. [Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md) _Context: Taiwan_
 4. [After the Supreme Court rules in favor, same-sex-marriage is on its way to being legalized in Taiwan, the first country in Asia to do so. ](/news/2017/05/24/after-the-supreme-court-rules-in-favor-same-sex-marriage-is-on-its-way-to-being-legalized-in-taiwan-the-first-country-in-asia-to-do-so.md) _Context: Taiwan_

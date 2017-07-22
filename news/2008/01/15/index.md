@@ -1,7 +1,7 @@
 ## [2008-01-15](/news/2008/01/15/index.md)
 
 ### [ 20 Palestinians are killed by the Israeli Defense Forces including 14 fighters and five civilians, with 55 people wounded. Hamas leader Mahmoud Zahar's son is killed. Dozens of rockets are fired into Israel by Hamas, landing in the town of Sderot, injuring 4 Israelis. An Ecuadorian laborer is also shot and killed by Hamas. ](/news/2008/01/15/20-palestinians-are-killed-by-the-israeli-defense-forces-including-14-fighters-and-five-civilians-with-55-people-wounded-hamas-leader-mah.md)
-_Context: Ecuadorian, Hamas, Israel, Israeli Defense Forces, Israelis, Mahmoud Zahar, Palestinian, Sderot_
+_Context: Ecuadorian, Hamas, Israel, Israeli Defense Forces, Israelis, Mahmoud Zahar, Palestinians, Sderot_
 
 ### [ United States presidential election, 2008: Mitt Romney wins the Republican Michigan primary with John McCain finishing second. Hillary Clinton wins the Democratic contest but she was the only leading contender in that election. Democratic candidates brace for a competitive primary in Nevada while Republicans contend for the South Carolina primary. ](/news/2008/01/15/united-states-presidential-election-2008-mitt-romney-wins-the-republican-michigan-primary-with-john-mccain-finishing-second-hillary-clin.md)
 The pressure&#39;s on for Republicans to show staying power in a presidential primary race where, as Fred Thompson put it Wednesday, &quot;everyone gets to be hero of the day.&quot;

@@ -4,7 +4,7 @@
 _Context: 1984, 2007, African-American, United States, wealth, white_
 
 ### [Hamas' interior ministry executes three Palestinians in Gaza, without the approval of the President of the Palestinian National Authority, Mahmoud Abbas. ](/news/2010/05/18/hamas-interior-ministry-executes-three-palestinians-in-gaza-without-the-approval-of-the-president-of-the-palestinian-national-authority-m.md)
-_Context: Gaza Strip, Hamas, Mahmoud Abbas, Palestinian, Palestinian Authority President, capital punishment_
+_Context: Gaza Strip, Hamas, Mahmoud Abbas, Palestinian Authority President, Palestinians, capital punishment_
 
 ### [A Taliban suicide car bomber kills at least 12 Afghan civilians and wounds dozens more in an attack on a NATO convoy in the capital, Kabul. ](/news/2010/05/18/a-taliban-suicide-car-bomber-kills-at-least-12-afghan-civilians-and-wounds-dozens-more-in-an-attack-on-a-nato-convoy-in-the-capital-kabul.md)
 _Context: Kabul, Taliban_

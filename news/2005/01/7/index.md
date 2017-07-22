@@ -13,7 +13,7 @@ The Taoiseach has said the attribution of last month&#39;s robbery at the Northe
 _Context: Baghdad, Conflict in Iraq_
 
 ### [ Israeli-Palestinian conflict: Palestinian presidential candidate Mustafa Barghouti is  arrested by Israeli police on the last day of the campaign as he tried to enter the Al-Aqsa Mosque. ](/news/2005/01/7/israeliapalestinian-conflict-p-palestinian-presidential-candidate-mustafa-barghouti-is-arrested-by-israeli-police-on-the-last-day-of-the.md)
-_Context: Al-Aqsa Mosque, Israel, Israeli-Palestinian conflict, Mustafa Barghouti, Palestinian, Palestinian presidential election_
+_Context: Al-Aqsa Mosque, Israel, Israeli-Palestinian conflict, Mustafa Barghouti, Palestinian presidential election, Palestinians_
 
 ### [ The People's Republic of China jails five people for eight years for selling fake infant formula, which has caused the deaths of at least 13 infants and illness in 189. ](/news/2005/01/7/the-people-s-republic-of-china-jails-five-people-for-eight-years-for-selling-fake-infant-formula-which-has-caused-the-deaths-of-at-least-1.md)
 _Context: baby formula_

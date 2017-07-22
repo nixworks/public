@@ -19,7 +19,7 @@ _Context: Afghanistan, Pakistan, military_
 _Context: Baghdad, Conflict in Iraq_
 
 ### [ Israeli-Palestinian conflict: A Palestinian man is shot dead near the Israeli settlement of Netzarim in the Gaza Strip. Israel Defence Force sources claim he was armed. ](/news/2005/07/17/israeliapalestinian-conflict-p-a-palestinian-man-is-shot-dead-near-the-israeli-settlement-of-netzarim-in-the-gaza-strip-israel-defence-f.md)
-_Context: Gaza Strip, Israeli settlement, Israeli soldier, Israeli-Palestinian conflict, Netzarim, Palestinian_
+_Context: Gaza Strip, Israeli settlement, Israeli soldier, Israeli-Palestinian conflict, Netzarim, Palestinians_
 
 ### [ Thailand declares emergency in three southern provinces of Narathiwat, Pattani and Yala because of increasing violence of Muslim insurgency. ](/news/2005/07/17/thailand-declares-emergency-in-three-southern-provinces-of-narathiwat-pattani-and-yala-because-of-increasing-violence-of-muslim-insurgency.md)
 _Context: Muslim, Narathiwat, Pattani, Thailand, Yala, insurgency, state of emergency_

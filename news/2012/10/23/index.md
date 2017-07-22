@@ -7,7 +7,7 @@ Artillery attack targets fighters trying to launch rockets into Israel, hours af
 At least nine people have been killed in car bomb and mortar attacks in predominantly Shia districts of the Iraqi capital, Baghdad, officials say.
 
 ### [A young Pakistani man, whose father was killed by drones alongside 40 others in March 2011, seeks to block the sharing of British intelligence with the CIA. This represents the first serious legal challenge in the English courts to Britain's involvement in the drones campaign. ](/news/2012/10/23/a-young-pakistani-man-whose-father-was-killed-by-drones-alongside-40-others-in-march-2011-seeks-to-block-the-sharing-of-british-intelligen.md)
-_Context: Central Intelligence Agency, Pakistani, drone_
+_Context: CIA, Pakistani, drone_
 
 ### [''Skyfall'', the 23rd James Bond film, receives its Royal premiere at London's Royal Albert Hall. ](/news/2012/10/23/skyfall-the-23rd-james-bond-film-receives-its-royal-premiere-at-london-s-royal-albert-hall.md)
 James Bond star Daniel Craig declares the royal world premiere of new 007 film Skyfall as his &quot;biggest and the best&quot;.

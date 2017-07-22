@@ -16,7 +16,7 @@ _Context: Basque, ETA, Spain, separatist_
 _Context: Arctic National Wildlife Refuge, U.S. Senate, oil drilling_
 
 ### [ Israeli-Palestinian Conflict: Israel bans Palestinians from East Jerusalem from voting in the next Palestinian legislative election throwing the entire election in doubt. Israel claims that it made the ban out of fears that Hamas would do well. ](/news/2005/12/21/israeli-palestinian-conflict-israel-bans-palestinians-from-east-jerusalem-from-voting-in-the-next-palestinian-legislative-election-throwin.md)
-_Context: East Jerusalem, Hamas, Israel, Israeli-Palestinian conflict, January 2006 legislative elections, Palestinian_
+_Context: East Jerusalem, Hamas, Israel, Israeli-Palestinian conflict, January 2006 legislative elections, Palestinians_
 
 ### [ Musician Elton John and Canadian filmmaker David Furnish are joined in a civil partnership ceremony at Windsor Town Hall. The couple are among hundreds of same-sex couples entering civil partnerships in England and Wales on the first day that such ceremonies become possible. Ceremonies were held earlier this week in Northern Ireland and Scotland. ](/news/2005/12/21/musician-elton-john-and-canadian-filmmaker-david-furnish-are-joined-in-a-civil-partnership-ceremony-at-windsor-town-hall-the-couple-are-am.md)
 _Context: Civil partnership, David Furnish, Elton John, England, Northern Ireland, Scotland, Wales, Windsor, same-sex couples_

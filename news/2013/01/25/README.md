@@ -34,7 +34,7 @@ Amateur video captures the panic and confusion inside a Turkish plane after it w
 North Korea issues another warning - this time to Seoul - a day after announcing plans for a third nuclear test.
 
 ### [John Kiriakou, the former CIA agent, who publicly discussed the U.S. government agency's use of waterboarding interrogation techniques, is sentenced to 30 months in prison. An argument that he was a whistleblower was dismissed and he was instead convicted of violating an intelligence law, the first person to be successfully targeted under the statute in 27 years. ](/news/2013/01/25/john-kiriakou-the-former-cia-agent-who-publicly-discussed-the-u-s-government-agency-s-use-of-waterboarding-interrogation-techniques-is-s.md)
-_Context: Central Intelligence Agency, John Kiriakou, U.S. government, waterboarding, whistleblower_
+_Context: CIA, John Kiriakou, U.S. government, waterboarding, whistleblower_
 
 ### [A detective in the Irish police force is shot dead in an attempted robbery near Dundalk, County Louth. ](/news/2013/01/25/a-detective-in-the-irish-police-force-is-shot-dead-in-an-attempted-robbery-near-dundalk-county-louth.md)
 Irish police say a detective shot dead in an attempted robbery near Dundalk in County Louth was killed without warning.

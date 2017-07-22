@@ -1,7 +1,7 @@
 ## [2006-06-1](/news/2006/06/1/index.md)
 
 ### [ Extraordinary renditions. The Bundesnachrichtendienst (German intelligence agency) declares that it had known of Khalid El-Masri's seizure 16 months before Germany was officially informed of his mistaken arrest in the name of the War on Terror. Germany had previously claimed that it did not know of el-Masri's abduction by the CIA and his stay in the Salt Pit in Afghanistan until his return to the country in May 2004 ](/news/2006/06/1/extraordinary-renditions-the-bundesnachrichtendienst-german-intelligence-agency-declares-that-it-had-known-of-khalid-el-masri-s-seizure.md)
-_Context: Afghanistan, Central Intelligence Agency, German intelligence, Khalid El-Masri, Salt Pit, War on Terror, extraordinary rendition_
+_Context: Afghanistan, CIA, German intelligence, Khalid El-Masri, Salt Pit, War on Terror, extraordinary rendition_
 
 ### [ The 16th World Economic Forum on Africa is convened in Cape Town, South Africa.](/news/2006/06/1/the-16th-world-economic-forum-on-africa-is-convened-in-cape-town-south-africa.md)
 _Context: 16th World Economic Forum on Africa, Cape Town, South Africa_

@@ -7,7 +7,7 @@ _Context: Babyface, Hurricane Katrina, Michael Jackson, charitable giving, vocal
 _Context: Basra, Conflict in Iraq, Iraq, car bomb_
 
 ### [ Israeli-Palestinian Conflict: An investigation by B'Tselem and Haaretz casts doubt on the IDF version of events which left 5 Palestinians, including 3 minors, dead in Tulkarm on August 24.  IDF Chief of Staff Dan Halutz announces that he will open an investigation, and Colonel Kobi Barak declares that the operation was a "Failure". ](/news/2005/09/7/israeli-palestinian-conflict-an-investigation-by-b-tselem-and-haaretz-casts-doubt-on-the-idf-version-of-events-which-left-5-palestinians.md)
-_Context: August 24, B'Tselem, Colonel, Dan Halutz, Haaretz, Israel Defense Forces, Israeli-Palestinian conflict, Kobi Barak, Palestinian, Tulkarm, minors_
+_Context: August 24, B'Tselem, Colonel, Dan Halutz, Haaretz, Israel Defense Forces, Israeli-Palestinian conflict, Kobi Barak, Palestinians, Tulkarm, minors_
 
 ### [  New Orleans mayor Ray Nagin again urges the city's remaining holdouts to leave the area.  New Orleans is now only 60% underwater.  The number of dead in the city could be as few as 2,000 and as many as 20,000, according to estimates. ](/news/2005/09/7/new-orleans-mayor-ray-nagin-again-urges-the-city-s-remaining-holdouts-to-leave-the-area-new-orleans-is-now-only-60-underwater-the-num.md)
 As an aerial coordinator for Hollywood movies, helicopter pilot Alan Purwin has witnessed plenty of make-believe mayhem. But from the skies above New Orleans and neighboring Gulf Coast cities, he...

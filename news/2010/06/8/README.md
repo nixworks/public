@@ -22,7 +22,7 @@ Iran faces its toughest sanctions over its nuclear policy, the US says, as the U
 UNHCR says it was told to cease operations without explanation.
 
 ### [The Red Crescent Society, for the first time since December 2008 and in a joint venture between Iran and Turkey, prepares to send two aid boats of donations and relief workers to Gaza. ](/news/2010/06/8/the-red-crescent-society-for-the-first-time-since-december-2008-and-in-a-joint-venture-between-iran-and-turkey-prepares-to-send-two-aid-bo.md)
-_Context: Gaza Strip, International Red Cross and Red Crescent Movement, Iran, Turkey_
+_Context: Gaza Strip, Iran, Red Crescent, Turkey_
 
 ### [China lodges a formal protest to North Korea after a North Korean soldier fatally shot three Chinese citizens at their mutual border. ](/news/2010/06/8/china-lodges-a-formal-protest-to-north-korea-after-a-north-korean-soldier-fatally-shot-three-chinese-citizens-at-their-mutual-border.md)
 China says it has filed a formal complaint with North Korea about the killing of..

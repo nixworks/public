@@ -28,7 +28,7 @@ _Context: Amgen, Avastin, Enbrel, Herceptin, Neupogen, Novartis, Remicade, U.S. 
 _Context: 2014 Taipei Metro attack, New Taipei City, Taipei Metro_
 
 ### [Central Intelligence Agency (CIA) Director John O. Brennan announces plans for a major restructuring and reorganization, including a focus on digital espionage (through the creation of the CIA Directorate of Digital Innovation). The plan will end some longstanding divisions, and create ten new centers that team analysts with operators, fostering collaboration and focus on a range of new security issues and threats, and replacing geographic division offices with hybrid mission centers modeled on the CIA Counterterrorism Center. ](/news/2015/03/6/central-intelligence-agency-cia-director-john-o-brennan-announces-plans-for-a-major-restructuring-and-reorganization-including-a-focus-o.md)
-_Context: CIA Counterterrorism Center, CIA Directorate of Digital Innovation, Central Intelligence Agency, John Brennan_
+_Context: CIA, CIA Counterterrorism Center, CIA Directorate of Digital Innovation, John Brennan_
 
 ### [Customs officers at the Shahjalal International Airport catch Son Young Nam, a North Korean diplomat trying to smuggle an estimated $1.4 million worth of gold into Bangladesh. Bangladesh authorities release him but will still seek to press charges. ](/news/2015/03/6/customs-officers-at-the-shahjalal-international-airport-catch-son-young-nam-a-north-korean-diplomat-trying-to-smuggle-an-estimated-1-4-mil.md)
 _Context: Bangladesh, North Korea, Shahjalal International Airport, US$_

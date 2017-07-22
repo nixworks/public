@@ -28,7 +28,7 @@ Flooded regions across Africa have been warned to expect further heavy rain afte
 _Context: Nevada, Steve Fossett, United States_
 
 ### [ Prime Minister of Turkey Recep Tayyip Erdogan calls for a change to the country's Constitution to end the ban on the wearing of headscarves in universities. ](/news/2007/09/19/prime-minister-of-turkey-recep-tayyip-erdoaan-calls-for-a-change-to-the-country-s-constitution-to-end-the-ban-on-the-wearing-of-headscarve.md)
-_Context: Prime Minister of Turkey, Recep Tayyip Erdogan, Turkey, constitution, headscarves_
+_Context: Recep Tayyip Erdogan, Turkey, Turkish Prime Minister, constitution, headscarves_
 
 ### [ Due to increasing rocket attacks aimed at Israeli civilians, The Government of Israel declares the Palestinian-controlled Gaza Strip an "enemy entity", and announces plans to cut utilities to the territory. ](/news/2007/09/19/due-to-increasing-rocket-attacks-aimed-at-israeli-civilians-the-government-of-israel-declares-the-palestinian-controlled-gaza-strip-an-en.md)
 _Context: Gaza Strip, Palestinian Authority, government_

@@ -7,7 +7,7 @@ _Context: Federal Reserve, United States, economic growth, housing market_
 _Context: Chad, Darfur, Janjaweed, Sudanese, militia_
 
 ### [ Nine Palestinians have been killed during an Israeli raid in the Gaza Strip, reports say. ](/news/2006/10/12/nine-palestinians-have-been-killed-during-an-israeli-raid-in-the-gaza-strip-reports-say.md)
-_Context: Gaza Strip, Israel, Palestinian_
+_Context: Gaza Strip, Israel, Palestinians_
 
 ### [ The French parliament adopts a bill criminalizing Armenian genocide denial, despite significant lobbying efforts by the Government of Turkey. ](/news/2006/10/12/the-french-parliament-adopts-a-bill-criminalizing-armenian-genocide-denial-despite-significant-lobbying-efforts-by-the-government-of-turke.md)
 _Context: French parliament, Turkish government, genocide of Armenians_

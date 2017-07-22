@@ -7,7 +7,7 @@ U.S. and coalition military planes will not be allowed to fly over designated sa
 _Context: Afghan police, Chaman, Pakistani military, border crossing_
 
 ### [United States senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales to the Philippine National Police over its drug war. ](/news/2017/05/5/united-states-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-to-the-philippine-national-police-over-it.md)
-_Context: Ben Cardin, Democratic Party, Florida, Marco Rubio, Maryland, Philippine National Police, Philippines's war against illegal drugs, R, Senate, arms sales_
+_Context: Ben Cardin, Democratic Party, Florida, Marco Rubio, Maryland, Philippine Drug War, Philippine National Police, R, Senate, arms sales_
 
 ### [The Indian Supreme Court upholds the death sentences imposed on four men convicted in the  2012 gang rape and murder of a 23-year-old woman on board a bus in South Delhi. ](/news/2017/05/5/the-indian-supreme-court-upholds-the-death-sentences-imposed-on-four-men-convicted-in-the-2012-gang-rape-and-murder-of-a-23-year-old-woman.md)
 The Supreme Court on Friday upheld death sentences against four men who fatally gang raped a woman on board a bus in 2012, a crime that sparked widespread protests and drew international attention to violence against women.

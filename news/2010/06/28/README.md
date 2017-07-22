@@ -83,7 +83,7 @@ Ten people in the US are held and charged with spying for Russia, but Moscow say
 The US Supreme Court restricts the rights of state and city governments to enforce controls on gun ownership.
 
 ### [America's Central Intelligence Agency (CIA) remains unaware of Australia's new prime minister. ](/news/2010/06/28/america-s-central-intelligence-agency-cia-remains-unaware-of-australia-s-new-prime-minister.md)
-_Context: Australia, Central Intelligence Agency_
+_Context: Australia, CIA_
 
 ### [''Le Monde'' is sold to Xavier Niel, Matthieu Pigasse and Pierre Berge. ](/news/2010/06/28/le-monde-is-sold-to-xavier-niel-matthieu-pigasse-and-pierre-berga-c.md)
 _Context: Le Monde, Matthieu Pigasse, Pierre Berge, Xavier Niel_

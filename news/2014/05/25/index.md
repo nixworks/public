@@ -13,7 +13,7 @@ _Context: Djibouti, Spain_
 The rainstorms, stated to be once-in-a-century phenomenon, slashed Guangzhou, Zhaoqing and Qingyuan cities and caused floods, house collapses and mud flows.
 
 ### [Pope Francis invites the President of Israel Shimon Peres and the President of the State of Palestine Mahmoud Abbas to pray with him at the Vatican for peace and the invitations are accepted. ](/news/2014/05/25/pope-francis-invites-the-president-of-israel-shimon-peres-and-the-president-of-the-state-of-palestine-mahmoud-abbas-to-pray-with-him-at-the.md)
-_Context: Mahmoud Abbas, Pope Francis, President, President of the State of Palestine, Shimon Peres, Vatican City_
+_Context: Mahmoud Abbas, Palestinian President, Pope Francis, President, Shimon Peres, Vatican City_
 
 ### [Lebanese security forces arrest Islamist militant leader Omar Bakri Muhammad. ](/news/2014/05/25/lebanese-security-forces-arrest-islamist-militant-leader-omar-bakri-muhammad.md)
 _Context: Lebanon, Omar Bakri Muhammad, radical Islamists_

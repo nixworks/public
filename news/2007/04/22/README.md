@@ -4,7 +4,7 @@
 _Context: Turkey_
 
 ### [ Israeli troops have shot dead three Palestinians in raids in the West Bank, the army and local residents say.](/news/2007/04/22/israeli-troops-have-shot-dead-three-palestinians-in-raids-in-the-west-bank-the-army-and-local-residents-say.md)
-_Context: Israel, Palestinian, West Bank_
+_Context: Israel, Palestinians, West Bank_
 
 ### [ According to exit polls, Nicolas Sarkozy and Segolene Royal will meet in the second round of the French presidential election on May 6. Francois Bayrou and Jean-Marie Le Pen are believed to have received the third and fourth most votes respectively. ](/news/2007/04/22/according-to-exit-polls-nicolas-sarkozy-and-sa-c-gola-ne-royal-will-meet-in-the-second-round-of-the-french-presidential-election-on-may-6-f.md)
 _Context: 2007 presidential election, Francois Bayrou, Jean-Marie Le Pen, May 6, Nicolas Sarkozy, Segolene Royal, second round_

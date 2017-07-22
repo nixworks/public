@@ -40,7 +40,7 @@ MIAMI (AP) — Passengers set sail Sunday from Miami on an historic cruise to Cu
 Battered bodies of the two men were found in bushes in separate areas in rural Jamaica
 
 ### [Philippine general election, 2016 Jose Maria Sison, who is the leader of the guerrilla Communist Party of the Philippines, says that the presidency of Rodrigo Duterte is "good for national unity." ](/news/2016/05/1/philippine-general-election-2016-jose-maria-sison-who-is-the-leader-of-the-guerrilla-communist-party-of-the-philippines-says-that-the-pre.md)
-_Context: CPP-NPA-NDF rebellion, Communist Party, Jose Maria Sison, Philippine general election, 2016, Rodrigo Duterte_
+_Context: CPP-NPA-NDF rebellion, Communist Party of the Philippines, Jose Maria Sison, Philippine general election, 2016, Rodrigo Duterte_
 
 ### [Thousands  are set for May Day demonstrations across the United States   for immigrant and worker rights, and for civility in presidential campaign rhetoric. Organizers and authorities in California are urging participants to remain calm, given the violence this week connected with Presidential campaign protests. ](/news/2016/05/1/thousands-are-set-for-may-day-demonstrations-across-the-united-states-for-immigrant-and-worker-rights-and-for-civility-in-presidential-c.md)
 May Day march organizers are asking participants to remain peaceful while police say they&#39;re ready for whatever happens following violent protests at Donald Trump&#39;s California appearances.

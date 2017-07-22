@@ -16,7 +16,7 @@ _Context: Cairo, Christian, Copt, Egypt, Muslim_
 Pakistan arrests a man after at least 25 people killed in an apparent car bomb blast at a gas station in Faisalabad.
 
 ### [Israeli troops and settlers open fire upon Palestinians in the West Bank while they repaired orchards previously attacked by settlers, injuring 8 Palestinians. ](/news/2011/03/8/israeli-troops-and-settlers-open-fire-upon-palestinians-in-the-west-bank-while-they-repaired-orchards-previously-attacked-by-settlers-injur.md)
-_Context: Israel Defense Forces, Israeli settlement, Palestinian, West Bank_
+_Context: Israel Defense Forces, Israeli settlement, Palestinians, West Bank_
 
 ### [Oil companies and banks have stopped trading with Libya after the introduction of sanctions leading to a shutdown of exports and further pressure on oil prices. ](/news/2011/03/8/oil-companies-and-banks-have-stopped-trading-with-libya-after-the-introduction-of-sanctions-leading-to-a-shutdown-of-exports-and-further-pre.md)
 _Context: Libya, Oil, sanctions_

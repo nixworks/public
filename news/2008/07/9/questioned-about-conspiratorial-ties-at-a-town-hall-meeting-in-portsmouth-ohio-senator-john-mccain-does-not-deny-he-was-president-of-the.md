@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [U.S. Senator John McCain is diagnosed with brain cancer. ](/news/2017/07/19/u-s-senator-john-mccain-is-diagnosed-with-brain-cancer.md) _Context: John McCain_
+1. [U.S. Senator John McCain is diagnosed with a malignant brain cancer, glioblastoma multiforme. This is his second battle with cancer, after having been successfully treated for malignant melanoma. ](/news/2017/07/19/u-s-senator-john-mccain-is-diagnosed-with-a-malignant-brain-cancer-glioblastoma-multiforme-this-is-his-second-battle-with-cancer-after-h.md) _Context: John McCain_
 2. [The U.S. summons Turkish ambassador Serdar Kilic after violence between protesters and Turkish security personnel outside the Embassy of Turkey, Washington, D.C. leaves over a dozen people injured. U.S. Senator John McCain calls on the Trump administration to expel the ambassador. ](/news/2017/05/18/the-u-s-summons-turkish-ambassador-serdar-ka-la-ass-after-violence-between-protesters-and-turkish-security-personnel-outside-the-embassy-of.md) _Context: John McCain_
 3. [Euromaidan:U.S. Senator John McCain joins protesters in Kiev and accuses Moscow of intervening in the internal politics of the country. ](/news/2013/12/15/euromaidan-pu-s-senator-john-mccain-joins-protesters-in-kiev-and-accuses-moscow-of-intervening-in-the-internal-politics-of-the-country.md) _Context: John McCain_
 4. [Syrian civil war:United States Senator John McCain travels to Syria to meet with rebel fighters and discuss with them America's possible involvement in the nation's civil war.](/news/2013/05/28/syrian-civil-war-punited-states-senator-john-mccain-travels-to-syria-to-meet-with-rebel-fighters-and-discuss-with-them-america-s-possible-in.md) _Context: John McCain_

@@ -7,7 +7,7 @@ A policewoman suffers a head injury in a riot following an Orange parade through
 Libyan vessel changes course following warning from Israeli navy.
 
 ### [Pakistani embassy officials confirm missing Iranian nuclear scientist Shahram Amiri, who was reported to have been kidnapped by the United States Central Intelligence Agency, is taking refuge in the country's Washington, D.C. embassy. ](/news/2010/07/13/pakistani-embassy-officials-confirm-missing-iranian-nuclear-scientist-shahram-amiri-who-was-reported-to-have-been-kidnapped-by-the-united-s.md)
-_Context: Central Intelligence Agency, Iran, Shahram Amiri_
+_Context: CIA, Iran, Shahram Amiri_
 
 ### [Chile tests a package marked "anthrax" delivered to the country's foreign ministry. ](/news/2010/07/13/chile-tests-a-package-marked-anthrax-delivered-to-the-country-s-foreign-ministry.md)
 _Context: Chile, anthrax_

@@ -10,7 +10,7 @@ _Context: 9/11 Commission, Federal Aviation Administration, September 11, 2001 a
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Israeli-Palestinian Conflict: Israel has postponed security talks with Palestinians following a mortar attack by Hamas on the Gush Katif Jewish settlements in the Gaza Strip.  Hamas claim the attack was in retaliation for an attack by Jewish settlers which left one man dead. Palestinian leader Mahmoud Abbas responds by firing the top security commanders in the Gaza Strip. ](/news/2005/02/10/israeli-palestinian-conflict-israel-has-postponed-security-talks-with-palestinians-following-a-mortar-attack-by-hamas-on-the-gush-katif-je.md)
-_Context: Gaza Strip, Gush Katif, Hamas, Israeli-Palestinian conflict, Jew, Jewish, Mahmoud Abbas, Mortar, Palestinian, President of the Palestinian Authority_
+_Context: Gaza Strip, Gush Katif, Hamas, Israeli-Palestinian conflict, Jew, Jewish, Mahmoud Abbas, Mortar, Palestinians, President of the Palestinian Authority_
 
 ### [ Clarence House announces that Charles, Prince of Wales is to marry Camilla Parker Bowles in a civil ceremony on 8 April. When Charles becomes a king, it is intended that she be styled as a princess consort, rather than a queen consort. ](/news/2005/02/10/clarence-house-announces-that-charles-prince-of-wales-is-to-marry-camilla-parker-bowles-in-a-civil-ceremony-on-8-april-when-charles-becom.md)
 _Context: Camilla Parker Bowles, Clarence House, Prince Charles, Queen, princess consort, queen consort_

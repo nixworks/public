@@ -28,7 +28,7 @@ _Context: Burj Dubai, Taipei, Taipei 101_
 More than 100 people have died in floods and landslides in China where dykes protecting a swollen river in the east, which has already prompted tens of thousands to flee their homes, are in danger of being breached.
 
 ### [ Turkish voters go to the polls for general elections. The ruling AKP led by the Prime Minister of Turkey Tayyip Erdogan wins a resounding victory. ](/news/2007/07/22/turkish-voters-go-to-the-polls-for-general-elections-the-ruling-akp-led-by-the-prime-minister-of-turkey-tayyip-erdogan-wins-a-resounding-v.md)
-_Context: Prime Minister of Turkey, Tayyip Erdogan, Turkey, general elections, ruling party_
+_Context: Tayyip Erdogan, Turkey, Turkish Prime Minister, general elections, ruling party_
 
 ### [ 2007 FIFA U-20 World Cup Final: Argentina defeated the Czech Republic 2-1 to win its sixth World Cup title. ](/news/2007/07/22/2007-fifa-u-20-world-cup-final-argentina-defeated-the-czech-republic-2-1-to-win-its-sixth-world-cup-title.md)
 _Context: 2007 FIFA U-20 World Cup, Argentina, Czech Republic_

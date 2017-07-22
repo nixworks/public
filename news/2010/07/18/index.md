@@ -43,7 +43,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 There are no reports of damage from two earthquakes that hit off the coast of Papua New Guinea overnight.
 
 ### [Iranian scientist Shahram Amiri, who says he was abducted by the United States Central Intelligence Agency, says the United States wanted him to confess to being a spy as part of a plan to force the release of three Americans spies caught by Iran. ](/news/2010/07/18/iranian-scientist-shahram-amiri-who-says-he-was-abducted-by-the-united-states-central-intelligence-agency-says-the-united-states-wanted-hi.md)
-_Context: Central Intelligence Agency, Iran, Shahram Amiri, United States_
+_Context: CIA, Iran, Shahram Amiri, United States_
 
 ### [The Arab League, speaking in Cairo, states written guarantees are required if Palestine is to enter into direct negotiations with Israel as Egyptian, Israeli, Palestinian and American representatives meet to talk. ](/news/2010/07/18/the-arab-league-speaking-in-cairo-states-written-guarantees-are-required-if-palestine-is-to-enter-into-direct-negotiations-with-israel-as.md)
 _Context: Arab League, Cairo, Egypt, Israel, Palestinian, United States_

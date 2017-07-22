@@ -19,7 +19,7 @@ _Context: Ante Gotovina, Croatia, International Criminal Tribunal for the former
 _Context: Margaret Thatcher, Prime Minister_
 
 ### [ The International Red Cross and Red Crescent Movement adopt a Red Crystal design, allowing Israel to join as a fully participating member. ](/news/2005/12/8/the-international-red-cross-and-red-crescent-movement-adopt-a-red-crystal-design-allowing-israel-to-join-as-a-fully-participating-member.md)
-_Context: International Red Cross and Red Crescent Movement, Israel, Red Crystal_
+_Context: Israel, Red Crescent, Red Crystal_
 
 ### [ UK Law Lords rule in ''A v. Secretary of State for the Home Department'' that evidence which may have been obtained by torture cannot be used against suspects in terrorism cases. ](/news/2005/12/8/uk-law-lords-rule-in-a-v-secretary-of-state-for-the-home-department-that-evidence-which-may-have-been-obtained-by-torture-cannot-be-us.md)
 _Context: A v. Secretary of State for the Home Department, Appellate Committee of the House of Lords, United Kingdom, terrorism, torture_

@@ -16,7 +16,7 @@ The Environmental Protection Agency is aiming to cut methane emissions by 40 to 
 _Context: Flibanserin, Hypoactive Sexual Desire Disorder, U.S. Food and Drug Administration_
 
 ### [The Prime Minister of Turkey Ahmet Davutoglu returns his mandate to form a government to the President after failing to form a coalition government. This means that a new election is likely. ](/news/2015/08/18/the-prime-minister-of-turkey-ahmet-davutoalu-returns-his-mandate-to-form-a-government-to-the-president-after-failing-to-form-a-coalition-go.md)
-_Context: Ahmet Davutoglu, President, Prime Minister of Turkey, mandate_
+_Context: Ahmet Davutoglu, President, Turkish Prime Minister, mandate_
 
 ## [Previous Day...](/news/2015/08/17/index.md)
 

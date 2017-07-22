@@ -7,7 +7,7 @@ Flight recorders from a plane that crashed in Libya on 12 May killing 103 people
 AT least 30 people died when their bus crashed, rolled over and broke in two in central Cameroon, police said Sunday,adding that the toll could rise.
 
 ### [Prime Minister of Turkey Recep Tayyip Erdogan bypasses Argentina on his South American tour, opting to travel straight to Chile after Buenos Aires officials call off an event honouring Mustafa Kemal Ataturk due to what Turkey considers "hostile" interference from Armenian pressure groups. ](/news/2010/05/30/prime-minister-of-turkey-recep-tayyip-erdoaan-bypasses-argentina-on-his-south-american-tour-opting-to-travel-straight-to-chile-after-bueno.md)
-_Context: Argentina, Armenia, Buenos Aires, Chile, Mustafa Kemal Ataturk, Prime Minister of Turkey, Recep Tayyip Erdogan, South American_
+_Context: Argentina, Armenia, Buenos Aires, Chile, Mustafa Kemal Ataturk, Recep Tayyip Erdogan, South American, Turkish Prime Minister_
 
 ### [A second Danish pharmaceutical company, Leo Pharma, suspends sales of medical products in Greece over the government's decision to reduce the cost of medicine there. The government condemns these acts as "unfair". ](/news/2010/05/30/a-second-danish-pharmaceutical-company-leo-pharma-suspends-sales-of-medical-products-in-greece-over-the-government-s-decision-to-reduce-th.md)
 A second Danish pharmaceutical company withdraws products from Greece over its decision to cut medicine prices by 25%.

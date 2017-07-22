@@ -16,7 +16,7 @@ _Context: Gothic Chapel, Maria Fyodorovna, Peterhof_
 _Context: Democratic Party, George W. Bush, Iraq conflict, terrorism_
 
 ### [ Israeli-Palestinian conflict: An Israeli court sentences Asher Weisgan to four consecutive life sentences plus an additional 12 years in prison for murdering four Palestinian workmen and wounding a fifth in August 2005. Weisgan must also pay more than 1,000,000 shekels ($US 235,000) in compensation to the victims' families. ](/news/2006/09/27/israeliapalestinian-conflict-p-an-israeli-court-sentences-asher-weisgan-to-four-consecutive-life-sentences-plus-an-additional-12-years-in.md)
-_Context: Asher Weisgan, August 2005, Israel, Israeli-Palestinian conflict, NIS, Palestinian, life sentence_
+_Context: Asher Weisgan, August 2005, Israel, Israeli-Palestinian conflict, NIS, Palestinians, life sentence_
 
 ## [Previous Day...](/news/2006/09/26/index.md)
 

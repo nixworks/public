@@ -1,7 +1,7 @@
 ## [2005-12-6](/news/2005/12/6/index.md)
 
 ### [ The BBC World Service reports that the U.S. are moving into four new bases in Romania, one of the bases is where the CIA has been accused of carrying out extraordinary rendition. ](/news/2005/12/6/the-bbc-world-service-reports-that-the-u-s-are-moving-into-four-new-bases-in-romania-one-of-the-bases-is-where-the-cia-has-been-accused-o.md)
-_Context: BBC World Service, Central Intelligence Agency, Romania, extraordinary rendition_
+_Context: BBC World Service, CIA, Romania, extraordinary rendition_
 
 ### [ An Iranian C-130 Hercules airplane crashes into a ten-story building in a civilian area of the Iranian capital Tehran, killing all 94 people aboard and 34 residents of the building - a total of 128+ people. ](/news/2005/12/6/an-iranian-c-130-hercules-airplane-crashes-into-a-ten-story-building-in-a-civilian-area-of-the-iranian-capital-tehran-killing-all-94-peopl.md)
 _Context: C-130 Hercules, Iran, Tehran, crashes into a ten-story building_

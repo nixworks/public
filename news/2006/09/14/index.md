@@ -1,7 +1,7 @@
 ## [2006-09-14](/news/2006/09/14/index.md)
 
 ### [ U.S. Senate committee approves a bill to give more rights to "terrorism" detainees. The White House and the Central Intelligence Agency (CIA) agree that signing the bill into law would end a classified CIA interrogation program, which a recent Supreme Court ruling leaves on tenuous ground. ](/news/2006/09/14/u-s-senate-committee-approves-a-bill-to-give-more-rights-to-terrorism-detainees-the-white-house-and-the-central-intelligence-agency-ci.md)
-_Context: Central Intelligence Agency_
+_Context: CIA_
 
 ### [ U.S. Representative Bob Ney (R-Ohio) has agreed to plead guilty to federal criminal charges related to his dealings with the lobbyist Jack Abramoff according to lawyers and others with knowledge of the investigation. ](/news/2006/09/14/u-s-representative-bob-ney-r-ohio-has-agreed-to-plead-guilty-to-federal-criminal-charges-related-to-his-dealings-with-the-lobbyist-jack.md)
 _Context: Bob Ney, Jack Abramoff, Ohio, Republican, United States House of Representatives_

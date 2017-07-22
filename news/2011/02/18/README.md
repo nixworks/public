@@ -10,7 +10,7 @@ _Context: Panama_
 _Context: Afghanistan, Kunar Province_
 
 ### [Retired CIA officer-turned-political activist Ray McGovern is thrown out, bloodied and arrested while protesting a speech given by Hillary Clinton on internet freedom at George Washington University in Washington, D.C. Veterans for Peace requests that Clinton apologise. ](/news/2011/02/18/retired-cia-officer-turned-political-activist-ray-mcgovern-is-thrown-out-bloodied-and-arrested-while-protesting-a-speech-given-by-hillary-c.md)
-_Context: Central Intelligence Agency, George Washington University, Hillary Clinton, Ray McGovern, Veterans for Peace, Washington, D.C., internet freedom_
+_Context: CIA, George Washington University, Hillary Clinton, Ray McGovern, Veterans for Peace, Washington, D.C., internet freedom_
 
 ### [2011 Bahraini protests:Troops and tanks patrol Manama as the Bahraini military sets up checkpoints; a ban on public gatherings is announced. ](/news/2011/02/18/2011-bahraini-protests-ptroops-and-tanks-patrol-manama-as-the-bahraini-military-sets-up-checkpoints-a-ban-on-public-gatherings-is-announced.md)
 _Context: 2011 Bahraini protests, Manama_

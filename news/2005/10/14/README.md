@@ -7,7 +7,7 @@ _Context: United States, Zimbabwe_
 _Context: 2005 Kashmir earthquake, Islamabad, SOS Children_
 
 ### [ A high ranking undercover Central Intelligence Agency officer, known only as "Jose," will coordinate CIA, FBI, and State Department spying operations as the new director of the National Clandestine Service. ](/news/2005/10/14/a-high-ranking-undercover-central-intelligence-agency-officer-known-only-as-jose-will-coordinate-cia-fbi-and-state-department-spying.md)
-_Context: Central Intelligence Agency, National Clandestine Service_
+_Context: CIA, National Clandestine Service_
 
 ### [ Futures industry regulators, brokerages, and futures exchanges in the United States engage in furious talks over how to avoid, or how to minimize the consequences of, the impending failure of Refco, a global commodities broker-dealer. ](/news/2005/10/14/futures-industry-regulators-brokerages-and-futures-exchanges-in-the-united-states-engage-in-furious-talks-over-how-to-avoid-or-how-to-mi.md)
 _Context: Refco, futures_

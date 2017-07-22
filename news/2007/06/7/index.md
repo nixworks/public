@@ -13,7 +13,7 @@ _Context: 33rd G8 summit, George W. Bush, President of Russia, President of the 
 _Context: Cyclone Gonu, Oman_
 
 ### [ Hamas militants kill a Fatah member, and five other Palestinians are injured in a renewal of fighting between the two groups. ](/news/2007/06/7/hamas-militants-kill-a-fatah-member-and-five-other-palestinians-are-injured-in-a-renewal-of-fighting-between-the-two-groups.md)
-_Context: Fatah, Hamas, Palestinian_
+_Context: Fatah, Hamas, Palestinians_
 
 ### [ The Reserve Bank of New Zealand raises interest rates in New Zealand to 8%, the highest level of any industrialised nation. ](/news/2007/06/7/the-reserve-bank-of-new-zealand-raises-interest-rates-in-new-zealand-to-8-the-highest-level-of-any-industrialised-nation.md)
 _Context: New Zealand, Reserve Bank of New Zealand, interest rate_

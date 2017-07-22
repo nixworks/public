@@ -22,7 +22,7 @@ Reno police on Saturday raised the death toll in the crash of a World War II-era
 _Context: Kosovo, Serbia, Serbs_
 
 ### [The Prime Minister of Turkey, Recep Tayyip Erdogan, arrives in Libya for a meeting with the National Transitional Council. ](/news/2011/09/16/the-prime-minister-of-turkey-recep-tayyip-erdogan-arrives-in-libya-for-a-meeting-with-the-national-transitional-council.md)
-_Context: Libya, National Transitional Council, Prime Minister of Turkey, Recep Tayyip Erdogan_
+_Context: Libya, National Transitional Council, Recep Tayyip Erdogan, Turkish Prime Minister_
 
 ### [The first security camera pictures are released of Anders Behring Breivik, the perpetrator of the 2011 Norway attacks. ](/news/2011/09/16/the-first-security-camera-pictures-are-released-of-anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks.md)
 Security cameras captured images of the Norwegian far right extremist accused of killing 77 people minutes before he detonated a car bomb outside the prime minister&#39;s office two months ago, police said Thursday.
