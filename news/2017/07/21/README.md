@@ -21,9 +21,6 @@ U.S. citizens will be banned from traveling to North Korea after Trump action
 ### [ Minneapolis Police Chief Janee Harteau, upon reflection and at Mayor Betsy Hodges's request, resigns in the wake of last Saturday's tragedy as well as some other recent incidents. ](/news/2017/07/21/minneapolis-police-chief-janea-c-harteau-upon-reflection-and-at-mayor-betsy-hodges-s-request-resigns-in-the-wake-of-last-saturdayas-trag.md)
 &quot;I have to put the communities we serve first,&quot; she said.
 
-### [Members of the European Parliament call for the release of detained senator Leila de Lima and allow her to fulfill her duties. ](/news/2017/07/21/members-of-the-european-parliament-call-for-the-release-of-detained-senator-leila-de-lima-and-allow-her-to-fulfill-her-duties.md)
-_Context: European Parliament, Leila de Lima, Philippine Drug War, senator_
-
 ### [White House Press Secretary Sean Spicer announced his intention to resign as White House Press Secretary due to Donald Trump's appointment of Anthony Scaramucci as the White House Communications Director, and will formally step down from the role in August 2017. Sarah Huckabee Sanders will take over as the White House Press Secretary in August 2017. ](/news/2017/07/21/white-house-press-secretary-sean-spicer-announced-his-intention-to-resign-as-white-house-press-secretary-due-to-donald-trump-s-appointment-o.md)
 Mr. Spicer quit after telling President Trump he vehemently disagreed with the appointment of the financier Anthony Scaramucci as communications director.
 
