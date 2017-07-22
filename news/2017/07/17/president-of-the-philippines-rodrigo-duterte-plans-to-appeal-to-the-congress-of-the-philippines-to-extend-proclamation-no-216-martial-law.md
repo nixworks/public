@@ -1,17 +1,18 @@
-### [2017-07-22](/news/2017/07/22/index.md)
+### [2017-07-17](/news/2017/07/17/index.md)
 
-# Both houses of the Congress of the Philippines have convened a joint special session to discuss and debate on President of the Philippines Rodrigo Duterte's appeal for the extension of Proclamation No. 216 (martial law on the whole of Mindanao in response to the Marawi crisis; set to expire 10 PM PST). A joint majority vote is needed for the approval of the extension as well as the duration. 
+# President of the Philippines Rodrigo Duterte plans to appeal to the Congress of the Philippines to extend Proclamation No. 216 (martial law on the whole of Mindanao, which will end on 22 July 10 PM PST) until the end of 2017, due to constitutional constraints as well as the ongoing Marawi crisis. 
 
-
+To quell the rebellion in the Philippine city, President Rodrigo Duterte asked lawmakers to allow martial law on the island of Mindanao through the end of the year.
 
 
 ### Source:
 
-1. [AFP](https://www.afp.com/en/news/824/philippine-mps-vote-martial-law-extension-bid)
+1. [The New York Times](https://www.nytimes.com/2017/07/18/world/asia/philippines-rodrigo-duterte-martial-law.html)
+2. [Yahoo News](http://www.yahoo.com/news/philippines-duterte-seeks-martial-law-extension-south-093019912.html)
 
 ### Related:
 
-1. [President of the Philippines Rodrigo Duterte plans to appeal to the Congress of the Philippines to extend Proclamation No. 216 (martial law on the whole of Mindanao, which will end on 22 July 10 PM PST) until the end of 2017, due to constitutional constraints as well as the ongoing Marawi crisis. ](/news/2017/07/17/president-of-the-philippines-rodrigo-duterte-plans-to-appeal-to-the-congress-of-the-philippines-to-extend-proclamation-no-216-martial-law.md) _Context: Congress of the Philippines, Marawi crisis, Martial law in the Philippines, Mindanao, PST, President of the Philippines, Proclamation No. 216, Rodrigo Duterte_
+1. [Both houses of the Congress of the Philippines have convened a joint special session to discuss and debate on President of the Philippines Rodrigo Duterte's appeal for the extension of Proclamation No. 216 (martial law on the whole of Mindanao in response to the Marawi crisis; set to expire 10 PM PST). A joint majority vote is needed for the approval of the extension as well as the duration. ](/news/2017/07/22/both-houses-of-the-congress-of-the-philippines-have-convened-a-joint-special-session-to-discuss-and-debate-on-president-of-the-philippines-r.md) _Context: Congress of the Philippines, Marawi crisis, Martial law in the Philippines, Mindanao, PST, President of the Philippines, Proclamation No. 216, Rodrigo Duterte_
 2. [President of the Philippines Rodrigo Duterte tells soldiers fighting in Mindanao, where he proclaimed martial law earlier this week, that he will accept responsibility for abuses they commit, and jokes that "[i]f you had raped three, I will admit it, that's on me." ](/news/2017/05/27/president-of-the-philippines-rodrigo-duterte-tells-soldiers-fighting-in-mindanao-where-he-proclaimed-martial-law-earlier-this-week-that-he.md) _Context: Marawi crisis, Mindanao, President of the Philippines, Proclamation No. 216, Rodrigo Duterte_
 3. [President Rodrigo Duterte declares martial law in the island of Mindanao after Maute militants clash with army troops in Marawi, Lanao del Sur. ](/news/2017/05/23/president-rodrigo-duterte-declares-martial-law-in-the-island-of-mindanao-after-maute-militants-clash-with-army-troops-in-marawi-lanao-del-s.md) _Context: Martial law in the Philippines, Mindanao, President of the Philippines, Rodrigo Duterte_
 4. [The Supreme Court of the Philippines says President of the Philippines Rodrigo Duterte can declare martial law in the whole Philippines. Two days prior, the Supreme Court had ](/news/2017/07/6/the-supreme-court-of-the-philippines-says-president-of-the-philippines-rodrigo-duterte-can-declare-martial-law-in-the-whole-philippines-two.md) _Context: Martial law in the Philippines, President of the Philippines, Rodrigo Duterte_
