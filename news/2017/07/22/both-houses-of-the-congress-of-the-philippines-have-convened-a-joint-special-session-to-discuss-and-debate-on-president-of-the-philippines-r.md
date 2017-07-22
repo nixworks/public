@@ -1,6 +1,6 @@
 ### [2017-07-22](/news/2017/07/22/index.md)
 
-# Both houses of the Congress of the Philippines have convened a joint special session to discuss and debate on President of the Philippines Rodrigo Duterte's appeal for the extension of Proclamation No. 216 (martial law on the whole of Mindanao in response to the Marawi crisis; set to expire 10 PM PST). A joint nominal majority vote (158 out of 314) is needed for the approval of the extension as well as the duration. 
+# Both houses of the Congress of the Philippines have convened a joint special session to discuss and debate on President of the Philippines Rodrigo Duterte's appeal for the extension of Proclamation No. 216 (martial law on the whole of Mindanao in response to the Marawi crisis; set to expire 10 PM PST) until the end of 2017. A joint nominal majority vote (158 out of 314) is needed for the approval of the extension as well as the duration. 
 
 Martial law stays in Mindanao until the end of the year. 
 
@@ -9,7 +9,6 @@ Martial law stays in Mindanao until the end of the year.
 
 1. [AFP](https://www.afp.com/en/news/824/philippine-mps-vote-martial-law-extension-bid)
 2. [CNN Philippines](http://cnnphilippines.com/news/2017/07/22/Congress-votes-martial-law-extension-Duterte.html)
-3. [The Philippine Star](http://www.philstar.com/headlines/2017/07/22/1720428/congress-oks-martial-law-extension-overwhelming-majority)
 
 ### Related:
 
