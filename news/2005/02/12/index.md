@@ -7,7 +7,7 @@ _Context: Faure Gnassingb, Lome, Togo_
 _Context: AIDS, HIV, New York City, drug-resistant, methamphetamine, mutagen, strain_
 
 ### [ Howard Dean, a former governor of Vermont and a 2004 U.S. presidential candidate, is elected chairman of the Democratic National Committee. ](/news/2005/02/12/howard-dean-a-former-governor-of-vermont-and-a-2004-u-s-presidential-candidate-is-elected-chairman-of-the-democratic-national-committee.md)
-_Context: 2004 U.S. presidential candidate, Democratic National Committee, Democratic Party, Howard Dean, Vermont, governor_
+_Context: 2004 U.S. presidential candidate, Democratic, Democratic National Committee, Howard Dean, Vermont, governor_
 
 ## [Previous Day...](/news/2005/02/11/index.md)
 

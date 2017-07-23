@@ -7,7 +7,7 @@ There is only one thing worse than the image of a child killed by military confl
 Move comes as FARC rebels declare two-month unilateral truce after holding meetings in Cuba with peace negotiators.
 
 ### [Syrian civil war:Islamist rebel groups in Aleppo denounce what they call a "conspiratorial project" and the new Syrian opposition, and say they seek to establish an "Islamic state". ](/news/2012/11/20/syrian-civil-war-pislamist-rebel-groups-in-aleppo-denounce-what-they-call-a-conspiratorial-project-and-the-new-syrian-opposition-and-say.md)
-_Context: Aleppo, Syrian Civil War, Syrian opposition_
+_Context: Aleppo, Syrian Civil War, Syrian rebels_
 
 ### [2012 East DR Congo conflict:Tension between central African neighbours is reaching breaking point over an uprising in Congo's eastern hills. ](/news/2012/11/20/2012-east-dr-congo-conflict-ptension-between-central-african-neighbours-is-reaching-breaking-point-over-an-uprising-in-congo-s-eastern-hills.md)
 _Context: 2012 East DR Congo conflict, Congo_

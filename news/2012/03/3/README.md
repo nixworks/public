@@ -34,7 +34,7 @@ _Context: Mahmoud Ahmadinejad, President, legislative elections_
 _Context: Emomali Rakhmon, Facebook, Inc., President, Tajikistan_
 
 ### [Republican voters in the US state of Washington go to the polls for caucuses, with Mitt Romney winning. ](/news/2012/03/3/republican-voters-in-the-us-state-of-washington-go-to-the-polls-for-caucuses-with-mitt-romney-winning.md)
-_Context: Mitt Romney, R, Washington, caucuses_
+_Context: Mitt Romney, Republican, Washington, caucuses_
 
 ## [Previous Day...](/news/2012/03/2/index.md)
 

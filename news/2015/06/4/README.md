@@ -31,7 +31,7 @@ _Context: Flibanserin, U.S. Food and Drug Administration_
 Up to four million US government personnel records compromised by an alleged China-based cyber attack, in fresh embarrassment for Obama administration
 
 ### [Former Governor of Texas Rick Perry announces that he will be a candidate for the Republican Party. ](/news/2015/06/4/former-governor-of-texas-rick-perry-announces-that-he-will-be-a-candidate-for-the-republican-party.md)
-_Context: 2016 U.S. presidential election, Governor of Texas, R, Rick Perry_
+_Context: 2016 U.S. presidential election, Governor of Texas, Republican, Rick Perry_
 
 ### [ President Barack Obama signs the bill, reinstating expired provisions of the Patriot Act while reforming Section 215 of the Act. ](/news/2015/06/4/president-barack-obama-signs-the-bill-reinstating-expired-provisions-of-the-patriot-act-while-reforming-section-215-of-the-act.md)
 The bill moves the storage of bulk telephone metadata used by the NSA to telecom companies.

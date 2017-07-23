@@ -4,7 +4,7 @@
 _Context: Argentina, Felisa Miceli, US$_
 
 ### [ The President of the United States George W. Bush and the President of Poland Lech Kaczynski agree to proceed with building a missile defense system in Europe despite Russian concerns. ](/news/2007/07/16/the-president-of-the-united-states-george-w-bush-and-the-president-of-poland-lech-kaczyaski-agree-to-proceed-with-building-a-missile-defe.md)
-_Context: Europe, George W. Bush, Lech Kaczynski, President of Poland, Russia, missile defense shield_
+_Context: Europe, George W. Bush, Lech Kaczynski, President, Russia, missile defense shield_
 
 ### [ The President of the United States announces a Middle East peace conference in the fall involving Israel, Palestinians and neighboring countries. ](/news/2007/07/16/the-president-of-the-united-states-announces-a-middle-east-peace-conference-in-the-fall-involving-israel-palestinians-and-neighboring-coun.md)
 _Context: Israel, Middle East, Palestinians, President of the United States_

@@ -13,7 +13,7 @@ _Context: General Motors, Janesville, Wisconsin, Moraine, Ohio, Oshawa, Ontario,
 _Context: Kennedy Space Center, Launch Complex 39B, NASA, STS-124, final servicing mission_
 
 ### [ United States Democratic Party primaries, 2008: Illinois Senator Barack Obama wins the Democratic Party presumptive nomination, becoming the first African American to be nominated by a major party. ](/news/2008/06/3/united-states-democratic-party-primaries-2008-p-illinois-senator-barack-obama-wins-the-democratic-party-presumptive-nomination-becoming-t.md)
-_Context: African-American, Barack Obama, Democratic Party, Illinois, Senate, United States Democratic Party primaries, 2008, presumptive nominee, two-party system_
+_Context: African-American, Barack Obama, Democratic, Illinois, Senate, United States Democratic Party primaries, 2008, presumptive nominee, two-party system_
 
 ### [ The United Nations Food and Agriculture Organization opens the High-Level Conference on World Food Security in Rome, focusing on the world food price crisis, climate change and agriculture and food vs fuel issues.](/news/2008/06/3/the-united-nations-food-and-agriculture-organization-opens-the-high-level-conference-on-world-food-security-in-rome-focusing-on-the-world.md)
 _Context: Food and Agriculture Organization, Global food price crisis, High-Level Conference on World Food Security, climate change and agriculture, food vs fuel_

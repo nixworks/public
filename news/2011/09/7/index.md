@@ -31,7 +31,7 @@ _Context: Bangladesh, India, India's Prime Minister, Manmohan Singh, Prime Minis
 Legislation to create a single police force and single fire service in Scotland is among 15 new bills to be introduced at Holyrood.
 
 ### [Republican Party candidates in the 2012 US presidential election hold a debate in California's Simi Valley. ](/news/2011/09/7/republican-party-candidates-in-the-2012-us-presidential-election-hold-a-debate-in-california-s-simi-valley.md)
-_Context: California, R, Simi Valley, United States presidential election, 2012_
+_Context: California, Republican, Simi Valley, United States presidential election, 2012_
 
 ## [Previous Day...](/news/2011/09/6/index.md)
 

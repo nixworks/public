@@ -1,7 +1,7 @@
 ## [2000-11-7](/news/2000/11/7/index.md)
 
 ### [ U.S. presidential election, 2000: Republican challenger and Governor of Texas George W. Bush defeats Democrat Vice President Al Gore by the electoral college, despite Gore winning the popular votes, but the final outcome is not known for over a month because of disputed votes in Florida, until 12 December 2000 the US Supreme Court stop the recount.](/news/2000/11/7/u-s-presidential-election-2000-republican-challenger-and-governor-of-texas-george-w-bush-defeats-democrat-vice-president-al-gore-by-the.md)
-_Context: Al Gore, Democratic Party, Florida, George W. Bush, R, U.S. presidential election, 2000, US Supreme Court, electoral college_
+_Context: Al Gore, Democratic, Florida, George W. Bush, Republican, U.S. presidential election, 2000, US Supreme Court, electoral college_
 
 ### [A criminal gang raids the Millennium Dome to steal The Millennium Star diamond but police surveillance catches them in the act.](/news/2000/11/7/a-criminal-gang-raids-the-millennium-dome-to-steal-the-millennium-star-diamond-but-police-surveillance-catches-them-in-the-act.md)
 _Context: Millennium Dome, Millennium Star_

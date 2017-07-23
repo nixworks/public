@@ -1,7 +1,7 @@
 ## [2014-12-6](/news/2014/12/6/index.md)
 
 ### [An American civilian and a South African civilian die during an attempt to rescue them by U.S. Navy SEALs in Yemen. They were being held hostage by al-Qaeda in the Arabian Peninsula. ](/news/2014/12/6/an-american-civilian-and-a-south-african-civilian-die-during-an-attempt-to-rescue-them-by-u-s-navy-seals-in-yemen-they-were-being-held-hos.md)
-_Context: 2014 hostage rescue operations in Yemen, United States Navy SEAL, Yemen's, al-Qaida_
+_Context: 2014 hostage rescue operations in Yemen, U.S. Navy SEAL, Yemen's, al-Qaida_
 
 ### [Forensic specialists at the University of Innsbruck confirm the identity of the first of the 43 missing students in Guerrero. The remains were located at a municipal dump in Cocula, Guerrero. ](/news/2014/12/6/forensic-specialists-at-the-university-of-innsbruck-confirm-the-identity-of-the-first-of-the-43-missing-students-in-guerrero-the-remains-we.md)
 _Context: 2014 Iguala mass kidnapping, Cocula, Guerrero, Guerrero, University of Innsbruck_

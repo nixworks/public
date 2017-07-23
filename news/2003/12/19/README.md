@@ -31,7 +31,7 @@ _Context: Beagle 2, Christmas morning, European Space Agency, Mars, Mars Express
 _Context: Daily News, Zimbabwe_
 
 ### [ Same-sex marriage in Canada: an Ontario court rules that Canadians whose same-sex partners died after 1985 are entitled to survivors' benefits. It is believed to be the first class-action lawsuit awarding compensation to gays and lesbians anywhere in the world. [http://www.cbc.ca/stories/2003/12/19/samesex_benefits031219]](/news/2003/12/19/same-sex-marriage-in-canada-an-ontario-court-rules-that-canadians-whose-same-sex-partners-died-after-1985-are-entitled-to-survivors-benef.md)
-_Context: 1985, Canada, Ontario, class-action lawsuit, gay, lesbian, same-sex marriage in Canada, survivors' benefits_
+_Context: 1985, Canada, Ontario, class action lawsuit, gay, lesbian, same-sex marriage in Canada, survivors' benefits_
 
 ### [ The University of Delaware's Blue Hens shut out Colgate University to win the NCAA Division I-AA football national championship. [http://www.delawareonline.com/newsjournal/local/2003/12/20hensarenational.html]](/news/2003/12/19/the-university-of-delaware-s-blue-hens-shut-out-colgate-university-to-win-the-ncaa-division-i-aa-football-national-championship-http-ww.md)
 _Context: American football, Colgate University, NCAA, University of Delaware_

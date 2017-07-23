@@ -19,7 +19,7 @@ _Context: Bolivia, Potosi, Sucre, bus_
 North Korea is to carry out its second rocket launch this year in December as South Korea holds its presidential election in a move that will likely trigger diplomatic tensions between the two Koreas and censure from the United States and Japan.
 
 ### [Foreign ministers of the Arab League meet in Istanbul, Turkey, to show their support for the Syrian opposition groups and Palestinians. ](/news/2012/12/1/foreign-ministers-of-the-arab-league-meet-in-istanbul-turkey-to-show-their-support-for-the-syrian-opposition-groups-and-palestinians.md)
-_Context: Arab League, Istanbul, Palestinian, Syrian opposition, Turkey_
+_Context: Arab League, Istanbul, Palestinian, Syrian rebels, Turkey_
 
 ### [Notorious Macau gangster Broken Tooth Koi is released from prison after serving nearly 15 years. ](/news/2012/12/1/notorious-macau-gangster-broken-tooth-koi-is-released-from-prison-after-serving-nearly-15-years.md)
 _Context: Broken Tooth Koi, Macau_

@@ -13,7 +13,7 @@ _Context: Delta, Mississippi River, United States, United States Army Corps of E
 _Context: 2008 Atlantic hurricane season, Hurricane Gustav_
 
 ### [ Republican Party adopts a platform at its national convention that is critical of George W. Bush and John McCain for their support of government bailouts of companies. ](/news/2008/09/2/republican-party-adopts-a-platform-at-its-national-convention-that-is-critical-of-george-w-bush-and-john-mccain-for-their-support-of-gover.md)
-_Context: 2008 Republican National Convention, George W. Bush, John McCain, R, government bailouts of companies_
+_Context: 2008 Republican National Convention, George W. Bush, John McCain, Republican, government bailouts of companies_
 
 ### [ 2008 Thai political crisis: Thai Prime Minister Samak Sundaravej declares a state of emergency in Bangkok after clashes between groups of pro- and anti-government protesters resulted in one death and 43 injuries. ](/news/2008/09/2/2008-thai-political-crisis-p-thai-prime-minister-samak-sundaravej-declares-a-state-of-emergency-in-bangkok-after-clashes-between-groups-of.md)
 _Context: Bangkok, Prime Minister, Samak Sundaravej, Thailand, assemble, state of emergency, yellow shirt_

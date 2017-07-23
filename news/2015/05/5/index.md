@@ -25,7 +25,7 @@ John Kerry became the first U.S. secretary of state ever to travel to Somalia on
 _Context: Barack Obama, Chairman of the Joint Chiefs of Staff, Commandant of the United States Marine Corps, Joseph F. Dunford, Jr._
 
 ### [2016 United States presidential election: Former Governor of Arkansas Mike Huckabee announces that he is seeking the Republican Party nomination. ](/news/2015/05/5/2016-united-states-presidential-election-former-governor-of-arkansas-mike-huckabee-announces-that-he-is-seeking-the-republican-party-nomina.md)
-_Context: 2016 United States presidential election, Governor of Arkansas, Mike Huckabee, R_
+_Context: 2016 United States presidential election, Governor of Arkansas, Mike Huckabee, Republican_
 
 ### [Alberta general election, 2015: Voters in the Canadian province of Alberta go to the polls with the New Democratic Party, led by Rachel Notley, winning a majority of seats in the Legislative Assembly for the first time ever. The Progressive Conservative Party, which had ruled for more than 40 years, not only loses its majority, but also finishes behind the Wildrose Party. ](/news/2015/05/5/alberta-general-election-2015-voters-in-the-canadian-province-of-alberta-go-to-the-polls-with-the-new-democratic-party-led-by-rachel-notl.md)
 Seismic shift in politics in province where Progressive Conservatives had recorded 12 straight majority wins

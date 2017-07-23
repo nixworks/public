@@ -19,7 +19,7 @@ _Context: Ericsson, Marconi_
 _Context: Iraq, October 15, in the vote held_
 
 ### [ Paul Hackett, who in August narrowly lost an April 2005 by-election for an Ohio U.S. House of Representatives seat to Jean Schmidt, announced that he will seek the Democratic Senate nomination to run against incumbent Ohio Senator Mike DeWine, a Republican.  ](/news/2005/10/25/paul-hackett-who-in-august-narrowly-lost-an-april-2005-by-election-for-an-ohio-u-s-house-of-representatives-seat-to-jean-schmidt-announc.md)
-_Context: Democratic Party, Jean Schmidt, Mike DeWine, Paul Hackett, R, Senate, U.S. House of Representatives_
+_Context: Democratic, Jean Schmidt, Mike DeWine, Paul Hackett, Republican, Senate, U.S. House of Representatives_
 
 ## [Previous Day...](/news/2005/10/24/index.md)
 

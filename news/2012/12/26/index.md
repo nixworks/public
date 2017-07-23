@@ -31,7 +31,7 @@ _Context: Nelson Mandela, President of South Africa, Pretoria, South Africa, gal
 _Context: George H. W. Bush, Houston, Texas, The Methodist Hospital, U.S. President, bronchitis_
 
 ### [Hawaii's Democratic Governor Neil Abercrombie appoints Lieutenant Governor Brian Schatz (a former state legislator and nonprofit group executive) to fill the term of the recently-deceased longtime Democratic U.S. Senator Daniel Inouye until 2014, when a special election will be called to fill the slot until 2016. His was one of three names known to have been submitted by the state party's central committee, along with an unnamed person and U.S. Democrat Colleen Hanabusa, whom Inouye had stated as his preferred successor hours before his death. ](/news/2012/12/26/hawaii-s-democratic-governor-neil-abercrombie-appoints-lieutenant-governor-brian-schatz-a-former-state-legislator-and-nonprofit-group-execu.md)
-_Context: Brian Schatz, Colleen Hanabusa, Daniel Inouye, Democratic Party, Governor, Hawaii, Lieutenant Governor, Neil Abercrombie, Senate, U.S._
+_Context: Brian Schatz, Colleen Hanabusa, Daniel Inouye, Democratic, Governor, Hawaii, Lieutenant Governor, Neil Abercrombie, Senate, U.S._
 
 ### [China officially opens the world's longest high-speed rail route, which links Beijing and Guangzhou. ](/news/2012/12/26/china-officially-opens-the-world-s-longest-high-speed-rail-route-which-links-beijing-and-guangzhou.md)
 _Context: Beijing, China, Guangzhou, bullet train system, high-speed rail, route, world's longest_

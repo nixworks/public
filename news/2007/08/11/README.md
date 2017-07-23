@@ -28,7 +28,7 @@ _Context: Thailand, Yala_
 President George W. Bush and French President Nicolas Sarkozy on Saturday stressed friendship over disagreement at a lunch of hamburgers and hot dogs at the Bush family estate aimed at improving relations strained by the Iraq war.
 
 ### [ United States presidential candidate Mitt Romney wins the Republican Party's Ames Straw Poll in Ames, Iowa. ](/news/2007/08/11/united-states-presidential-candidate-mitt-romney-wins-the-republican-party-s-ames-straw-poll-in-ames-iowa.md)
-_Context: 2008, Ames, Ames Straw Poll, Mitt Romney, R_
+_Context: 2008, Ames, Ames Straw Poll, Mitt Romney, Republican_
 
 ### [ Voters in Sierra Leone go to the polls for the first time since the end of the country's civil war in 2002. ](/news/2007/08/11/voters-in-sierra-leone-go-to-the-polls-for-the-first-time-since-the-end-of-the-country-s-civil-war-in-2002.md)
 _Context: 2002, Sierra Leone, civil war, run-off election_

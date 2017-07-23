@@ -4,7 +4,7 @@
 _Context: Hollywood, Writers Guild of America strike (2007-present), movie studio_
 
 ### [ United States presidential election, 2008: Former Governor of Arkansas Mike Huckabee wins the Kansas Republican Party caucus and the Louisiana primary. ](/news/2008/02/9/united-states-presidential-election-2008-p-former-governor-of-arkansas-mike-huckabee-wins-the-kansas-republican-party-caucus-and-the-louis.md)
-_Context: 2008, Governor of Arkansas, Kansas, Louisiana, Mike Huckabee, R, caucus, primary election_
+_Context: 2008, Governor of Arkansas, Kansas, Louisiana, Mike Huckabee, Republican, caucus, primary election_
 
 ### [ A suicide bomber kills 20 people at an opposition rally in Pakistan. ](/news/2008/02/9/a-suicide-bomber-kills-20-people-at-an-opposition-rally-in-pakistan.md)
 _Context: Pakistan, kills 20 people, suicide bomber_

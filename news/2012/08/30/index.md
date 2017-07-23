@@ -52,7 +52,7 @@ _Context: Bundestag, German government, Leistungsschutzrecht_
 _Context: Ali Khamenei, Supreme Leader of Iran, nuclear scientist, nuclear warheads_
 
 ### [Mitt Romney accepts the nomination of the Republican Party to be its candidate in the 2012 US presidential election. ](/news/2012/08/30/mitt-romney-accepts-the-nomination-of-the-republican-party-to-be-its-candidate-in-the-2012-us-presidential-election.md)
-_Context: Mitt Romney, R, United States presidential election, 2012_
+_Context: Mitt Romney, Republican, United States presidential election, 2012_
 
 ### [Mexico's electoral tribunal unanimously rejects a challenge to the 2012 presidential election victory won by Enrique Pena Nieto. ](/news/2012/08/30/mexico-s-electoral-tribunal-unanimously-rejects-a-challenge-to-the-2012-presidential-election-victory-won-by-enrique-pea-a-nieto.md)
 _Context: 2012 presidential election, Enrique Pena Nieto, Mexico_

@@ -82,7 +82,7 @@ Security minister Baroness Neville-Jones has stepped down from the government &q
 The leader of the Scottish Conservative Party Annabel Goldie says she will stand down in the autumn.
 
 ### [Republican Dean Heller is sworn in as a United States Senator representing Nevada replacing John Ensign who resigned. ](/news/2011/05/9/republican-dean-heller-is-sworn-in-as-a-united-states-senator-representing-nevada-replacing-john-ensign-who-resigned.md)
-_Context: Dean Heller, John Ensign, Nevada, R, Senator_
+_Context: Dean Heller, John Ensign, Nevada, Republican, Senator_
 
 ### [The Texas Senate approves legislation containing an amendment allowing university students in the US state of Texas to carry handguns on campus. ](/news/2011/05/9/the-texas-senate-approves-legislation-containing-an-amendment-allowing-university-students-in-the-us-state-of-texas-to-carry-handguns-on-cam.md)
 _Context: Texas, Texas Senate, handgun_

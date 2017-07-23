@@ -4,7 +4,7 @@
 Sectarian outfit Lashkar-e-Jhangvi al-Alami claims responsibility for the attack
 
 ### [Syrian rebels fire volleys of mortar shells into Damascus,  killing three people and wounding at least 30. Government forces respond with airstrikes into rebel-controlled Douma, just northeast of the capital, and surface-to-surface missiles into Eastern Ghouta and Saqba, that  kill at least 35  people and injure many more, according to the Syrian Observatory for Human Rights.  ](/news/2015/12/13/syrian-rebels-fire-volleys-of-mortar-shells-into-damascus-killing-three-people-and-wounding-at-least-30-government-forces-respond-with-ai.md)
-_Context: Damascus, Douma, Eastern Ghouta, Mortar, Saqba, Syria, Syrian Civil War, Syrian Observatory for Human Rights, Syrian opposition, airstrike, surface-to-surface missile_
+_Context: Damascus, Douma, Eastern Ghouta, Mortar, Saqba, Syria, Syrian Civil War, Syrian Observatory for Human Rights, Syrian rebels, airstrike, surface-to-surface missile_
 
 ### [Israel says an Arab-Israeli man who served in the Israel Defense Forces (IDF) has joined Islamic State militants in Syria. ](/news/2015/12/13/israel-says-an-arab-israeli-man-who-served-in-the-israel-defense-forces-idf-has-joined-islamic-state-militants-in-syria.md)
 _Context: Arab citizen, ISIL, Israel, Israel Defense Forces, Syria_

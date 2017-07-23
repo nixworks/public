@@ -19,7 +19,7 @@ _Context: Mauritania, homeless_
 _Context: Dallas, Texas, freeway_
 
 ### [ Former Governor of Wisconsin Tommy Thompson withdraws as a candidate for the Republican nomination in the United States presidential election, 2008 following his low level of support in the Ames Straw Poll. ](/news/2007/08/12/former-governor-of-wisconsin-tommy-thompson-withdraws-as-a-candidate-for-the-republican-nomination-in-the-united-states-presidential-electi.md)
-_Context: 2008, Ames Straw Poll, Governor of Wisconsin, R, Tommy Thompson_
+_Context: 2008, Ames Straw Poll, Governor of Wisconsin, Republican, Tommy Thompson_
 
 ### [ Guatemalan authorities find 46 children believed to have been taken from the parents for illegal adoption overseas in Antigua Guatemala. ](/news/2007/08/12/guatemalan-authorities-find-46-children-believed-to-have-been-taken-from-the-parents-for-illegal-adoption-overseas-in-antigua-guatemala.md)
 _Context: Antigua Guatemala, Guatemala, adoption_

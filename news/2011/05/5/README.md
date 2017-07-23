@@ -70,7 +70,7 @@ The people of Wales are going to the polls to elect the next Welsh Assembly Gove
 _Context: Barack Obama, Ground Zero, New York City, President of the United States, September 11 attacks, father's killing_
 
 ### [A United States Court of Appeals for the Third Circuit rules that former Olympic champion Carl Lewis be placed on the ballot for a Democrat primary election  for a New Jersey State Senate seat. ](/news/2011/05/5/a-united-states-court-of-appeals-for-the-third-circuit-rules-that-former-olympic-champion-carl-lewis-be-placed-on-the-ballot-for-a-democrat.md)
-_Context: Carl Lewis, Democratic Party, New Jersey State Senate, United States court, primary election_
+_Context: Carl Lewis, Democratic, New Jersey State Senate, United States court, primary election_
 
 ### [The Ivory Coast Constitutional Council confirms that Alassane Ouattara won the 2010 presidential election reversing a decision that had found in favour of the previous incumbent Laurent Gbagbo. That original decision (now reversed) had sparked a brief war. ](/news/2011/05/5/the-ivory-coast-constitutional-council-confirms-that-alassane-ouattara-won-the-2010-presidential-election-reversing-a-decision-that-had-foun.md)
 _Context: 2010 presidential election, Alassane Ouattara, Ivory Coast Constitutional Council, Laurent Gbagbo, war_
@@ -79,7 +79,7 @@ _Context: 2010 presidential election, Alassane Ouattara, Ivory Coast Constitutio
 _Context: Brazil, Supreme Federal Court, civil union, same-sex couples_
 
 ### [Republican Party candidates for the nomination in the 2012 United States presidential election hold their first debate in Greenville, South Carolina. ](/news/2011/05/5/republican-party-candidates-for-the-nomination-in-the-2012-united-states-presidential-election-hold-their-first-debate-in-greenville-south.md)
-_Context: Greenville, R, South Carolina, United States presidential election, 2012, nomination_
+_Context: Greenville, Republican, South Carolina, United States presidential election, 2012, nomination_
 
 ### [A report warns of accumulating mercury in the Arctic regions and that global emissions of mercury could increase by 25% by 2020, after another report suggested a global sea level rise by 1.6 metres by 2100, while a previous study detected chemical changes from elemental mercury to neurotoxic monomethylmercury occurring in the Arctic Ocean. ](/news/2011/05/5/a-report-warns-of-accumulating-mercury-in-the-arctic-regions-and-that-global-emissions-of-mercury-could-increase-by-25-by-2020-after-anoth.md)
 _Context: Arctic, Arctic Ocean, mercury, monomethylmercury, neurotoxic, sea level rise_

@@ -7,7 +7,7 @@ _Context: 11th, 2008 National People's Congress, Chinese, Premier of the People'
 _Context: Jimmy Wales, Wikimedia Foundation, Wikipedia_
 
 ### [ U.S. Republican presidential nominee John McCain is endorsed by President George W. Bush. ](/news/2008/03/5/u-s-republican-presidential-nominee-john-mccain-is-endorsed-by-president-george-w-bush.md)
-_Context: George W. Bush, John McCain, President of the United States, R_
+_Context: George W. Bush, John McCain, President of the United States, Republican_
 
 ### [ Warren Buffett, CEO of Berkshire Hathaway, is named the richest person in the world by ''Forbes'' magazine. ](/news/2008/03/5/warren-buffett-ceo-of-berkshire-hathaway-is-named-the-richest-person-in-the-world-by-forbes-magazine.md)
 _Context: Berkshire Hathaway Inc., Forbes, Warren Buffett_

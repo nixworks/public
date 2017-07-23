@@ -1,7 +1,7 @@
 ## [2012-08-2](/news/2012/08/2/index.md)
 
 ### [Syrian civil war:A United States government source reveals that Barack Obama signed a secret order in early 2012 permitting the CIA and other U.S. agencies to provide the rebels in Syria with support in order to overthrow the al-Assad regime. ](/news/2012/08/2/syrian-civil-war-pa-united-states-government-source-reveals-that-barack-obama-signed-a-secret-order-in-early-2012-permitting-the-cia-and-oth.md)
-_Context: Barack Obama, Bashar al-Assad, CIA, Syrian Civil War, Syrian opposition_
+_Context: Barack Obama, Bashar al-Assad, CIA, Syrian Civil War, Syrian rebels_
 
 ### [War in Afghanistan:Afghan security forces kill five insurgents planning a suicide attack in Kabul. ](/news/2012/08/2/war-in-afghanistan-pafghan-security-forces-kill-five-insurgents-planning-a-suicide-attack-in-kabul.md)
 _Context: Afghanistan, Kabul, War in Afghanistan (2001-present)_

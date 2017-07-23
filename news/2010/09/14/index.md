@@ -70,7 +70,7 @@ U.S. Defense Secretary Robert Gates Tuesday gave a taste of his $100 billion, fi
 _Context: Cecilia Romero, National Institute of Migration, drug cartel_
 
 ### [United States primary electionsChristine O'Donnell is elected the Republican Party candidate in the Delaware US Senate race. ](/news/2010/09/14/united-states-primary-electionspchristine-o-donnell-is-elected-the-republican-party-candidate-in-the-delaware-us-senate-race.md)
-_Context: Christine O'Donnell, Delaware, R, US Senate race, primary election_
+_Context: Christine O'Donnell, Delaware, Republican, US Senate race, primary election_
 
 ## [Previous Day...](/news/2010/09/13/index.md)
 

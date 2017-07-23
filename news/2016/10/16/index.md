@@ -22,7 +22,7 @@ _Context: Bali, Indonesia, Ceningan, Lembongan, footbridge_
 The United States and Britain called on Sunday for an immediate and unconditional ceasefire in Yemen to end violence between Iran-backed Houthis and the government, which is supported by Gulf states.
 
 ### [An arsonist firebombs a Republican Party office in Hillsborough, North Carolina, and leaves a graffiti message reading, "Nazi Republicans get out of town or else." ](/news/2016/10/16/an-arsonist-firebombs-a-republican-party-office-in-hillsborough-north-carolina-and-leaves-a-graffiti-message-reading-nazi-republicans-ge.md)
-_Context: Hillsborough, North Carolina, Nazi, R, arson_
+_Context: Hillsborough, North Carolina, Nazi, Republican, arson_
 
 ### [With over 95 percent of votes counted, Prime Minister Milo Dukanovic's Democratic Party of Socialists receives the most votes in this quadrennial election, but, by five seats, fails to gain an absolute majority. Djukanovic says he will seek a coalition with parties of national minorities. ](/news/2016/10/16/with-over-95-percent-of-votes-counted-prime-minister-milo-aukanovia-s-democratic-party-of-socialists-receives-the-most-votes-in-this-quad.md)
 _Context: Democratic Party of Socialists, Milo Dukanovic, Montenegrin parliamentary election, 2016, Prime Minister_

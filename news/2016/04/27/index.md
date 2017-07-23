@@ -76,7 +76,7 @@ An Iranian asylum seeker being held on Nauru is in a critical condition after se
 North Korea announces it will hold a Workers Party congress next month, the first for the ruling party in nearly 40 years.
 
 ### [Texas Senator Ted Cruz names former Republican presidential candidate Carly Fiorina as his vice-presidential running mate. ](/news/2016/04/27/texas-senator-ted-cruz-names-former-republican-presidential-candidate-carly-fiorina-as-his-vice-presidential-running-mate.md)
-_Context: 2016 U.S. presidential election, Carly Fiorina, R, Senate, Ted Cruz, Ted Cruz presidential campaign, 2016, Texas, presidential candidate_
+_Context: 2016 U.S. presidential election, Carly Fiorina, Republican, Senate, Ted Cruz, Ted Cruz presidential campaign, 2016, Texas, presidential candidate_
 
 ### [Bradford West MP Naz Shah is suspended from the opposition Labour Party over comments she made on Facebook about Israel. ](/news/2016/04/27/bradford-west-mp-naz-shah-is-suspended-from-the-opposition-labour-party-over-comments-she-made-on-facebook-about-israel.md)
 Labour suspends MP Naz Shah over a Facebook post suggesting Israel should be moved to America.

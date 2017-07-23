@@ -4,7 +4,7 @@
 _Context: George W. Bush, Georgia, President of the United States of America, Tbilisi, grenade_
 
 ### [ Polish President Aleksander Kwasniewski set the date for parliamentary elections for September 25, 2005 and a presidential election for October 9, 2005. ](/news/2005/05/18/polish-president-aleksander-kwaaniewski-set-the-date-for-parliamentary-elections-for-september-25-2005-and-a-presidential-election-for-oc.md)
-_Context: 2005, Aleksander Kwasniewski, October 9, Polish Presidential election, Polish parliamentary election, 2005, President of Poland, September 25_
+_Context: 2005, Aleksander Kwasniewski, October 9, Polish Presidential election, Polish parliamentary election, 2005, President, September 25_
 
 ### [ Unrest in Uzbekistan: 36 foreign diplomats visit Andijan in a government-sponsored trip and under heavy guard. The Uzbek government continues to deny that civilians were killed. The official death toll has risen to 169 but some human rights groups state that it can be as high as 750. A group of Islamic rebels led by a man called Baxtiyor Rahimov claim that they now control the border town of Qorasuv. ](/news/2005/05/18/unrest-in-uzbekistan-36-foreign-diplomats-visit-andijan-in-a-government-sponsored-trip-and-under-heavy-guard-the-uzbek-government-continu.md)
 _Context: Andijan, Baxtiyor Rahimov, Qorasuv, Uzbekistan, death toll, unrest_

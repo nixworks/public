@@ -55,7 +55,7 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 _Context: Darfur, International Criminal Court, Omar al-Bashir, President of Sudan, Sudan, conflict_
 
 ### [ Al Franken is sworn in as a U.S. Senator, the 60th caucusing with the Democratic Party which is a filibuster-proof majority. ](/news/2009/07/7/al-franken-is-sworn-in-as-a-u-s-senator-the-60th-caucusing-with-the-democratic-party-which-is-a-filibuster-proof-majority.md)
-_Context: Al Franken, Democratic Party, U.S. Senator, filibuster_
+_Context: Al Franken, Democratic, U.S. Senator, filibuster_
 
 ## [Previous Day...](/news/2009/07/6/index.md)
 

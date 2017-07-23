@@ -16,7 +16,7 @@ _Context: Debate, Harvard University, Speech_
 _Context: Africa, Beninese, George W. Bush, President of the United States_
 
 ### [ United States presidential election, 2008: A majority of Michigan's Republican delegates say that they will support John McCain following the withdrawal of Michigan primary winner Mitt Romney from the race. McCain has also won the allegiance of a majority of Louisiana delegates. ](/news/2008/02/16/united-states-presidential-election-2008-a-majority-of-michigan-s-republican-delegates-say-that-they-will-support-john-mccain-following-t.md)
-_Context: 2008, John McCain, Louisiana, Michigan, Mitt Romney, R, primary election_
+_Context: 2008, John McCain, Louisiana, Michigan, Mitt Romney, Republican, primary election_
 
 ### [ A street racing accident kills eight people and injures four in Accokeek, Maryland. ](/news/2008/02/16/a-street-racing-accident-kills-eight-people-and-injures-four-in-accokeek-maryland.md)
 _Context: Accokeek, Maryland, street racing_

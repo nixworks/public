@@ -34,7 +34,7 @@ _Context: Washington, marijuana, state law_
 A convicted sex offender who provided home day-care services to unsuspecting families was indicted Thursday on charges of raping and abusing at least a dozen infants and children — a case prosecutors described as the most disturbing they had ever seen. John Burbine, a 49-year-old from Wakefield who worked in his wife’s child-care service, was accused of assaulting 13 infants and young children who were in his care, many of them repeatedly, over a two-year span beginning in August 2010. 
 
 ### [Republican Jim DeMint announces that he will resign from the Senate of the United States in January to lead the Heritage Foundation. ](/news/2012/12/6/republican-jim-demint-announces-that-he-will-resign-from-the-senate-of-the-united-states-in-january-to-lead-the-heritage-foundation.md)
-_Context: Heritage Foundation, Jim DeMint, R, Senator_
+_Context: Heritage Foundation, Jim DeMint, Republican, Senator_
 
 ### [In the Netherlands State Secretary for Economic Affairs Co Verdaas resigns following an expense-affair after only thirty-one days in office. ](/news/2012/12/6/in-the-netherlands-state-secretary-for-economic-affairs-co-verdaas-resigns-following-an-expense-affair-after-only-thirty-one-days-in-office.md)
 _Context: Co Verdaas, Economic Affairs, Netherlands, State Secretary, expense_

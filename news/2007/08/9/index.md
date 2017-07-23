@@ -7,7 +7,7 @@ _Context: Amama Mbabazi, Democratic Republic of the Congo, Uganda_
 Rescue authorities in French Polynesia are at the scene of a commuter plane crash on the island of Moorea, with initial reports indicating there are no survivors.
 
 ### [ Democratic candidates in the United States presidential election appear in a televised forum sponsored by Human Rights Campaign Foundation and focusing on gay and lesbian issues. ](/news/2007/08/9/democratic-candidates-in-the-united-states-presidential-election-appear-in-a-televised-forum-sponsored-by-human-rights-campaign-foundation.md)
-_Context: 2008, Democratic Party, Human Rights Campaign, gay, lesbian_
+_Context: 2008, Democratic, Human Rights Campaign, gay, lesbian_
 
 ### [ Two more bodies have been recovered at the site of the I-35W Mississippi River bridge collapse in Minneapolis, Minnesota. ](/news/2007/08/9/two-more-bodies-have-been-recovered-at-the-site-of-the-i-35w-mississippi-river-bridge-collapse-in-minneapolis-minnesota.md)
 Authorities said on Thursday that searchers have found the remains of more victims in the wreckage of the bridge collapse in Minneapolis, raising the total death toll so far to at least eight.
@@ -31,7 +31,7 @@ _Context: BNP Paribas_
 _Context: Bank of Canada, Canada, Dow Jones Industrial Average, Europe, European Central Bank, Federal Reserve, United States_
 
 ### [ The South Carolina Republican Party moves its primary election date forward to January 19. ](/news/2007/08/9/the-south-carolina-republican-party-moves-its-primary-election-date-forward-to-january-19.md)
-_Context: January 19, R, South Carolina, primary election_
+_Context: January 19, Republican, South Carolina, primary election_
 
 ### [ The death toll from the 2007 South Asian floods rises to 2000. ](/news/2007/08/9/the-death-toll-from-the-2007-south-asian-floods-rises-to-2000.md)
 _Context: 2007 South Asian floods_
