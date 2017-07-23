@@ -9,6 +9,9 @@ Fledgling competition tribunal refuses to allow claim relating to 16 years of al
 ### [Aftershocks cause panic in the Greek island of Kos after deadly earthquake that injured hundreds. ](/news/2017/07/22/aftershocks-cause-panic-in-the-greek-island-of-kos-after-deadly-earthquake-that-injured-hundreds.md)
 Two strong aftershocks have struck the Greek island of Kos within minutes of each other, sending startled residents and tourists scurrying away from homes and restaurants. A tremor measuring a preliminary 4.4 magnitude struck at 8.09pm local time (6.09on BST), sending restaurant customers scurrying toward the middle of the town&#039;s main square, as far away as possible from buildings. 
 
+### [Russian Ambassador to the United States Sergey Kislyak, who was cited in ''Washington Post'' reports yesterday that American intelligence overheard  him telling Moscow about his election-related discussions with a Trump campaign official, ends his nine-year assignment and leaves the United States. In May 2017, Russian Deputy Foreign Minister Anatoly Antonov was approved as the next ambassador. ](/news/2017/07/22/russian-ambassador-to-the-united-states-sergey-kislyak-who-was-cited-in-washington-post-reports-yesterday-that-american-intelligence-ov.md)
+Kislyak emerged as a central figure in investigations into possible collusion between the Trump campaign and Russia
+
 ### [Poles march against a bill that critics say might decrease judicial independence in Poland. Hungary has supported the bill while the European Union has opposed it. The protesters hope that the President Andrzej Duda would intervene against the proposed law. ](/news/2017/07/22/poles-march-against-a-bill-that-critics-say-might-decrease-judicial-independence-in-poland-hungary-has-supported-the-bill-while-the-europea.md)
 _Context: Andrzej Duda, European Union, Hungary, Poland, Poles, President_
 
