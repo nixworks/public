@@ -33,7 +33,7 @@ President Rodrigo Duterte says ransom has been paid for Norwegian hostage Kjarta
 ### [The Johannesburg High Court rejects an appeal against the sentencing of Oscar Pistorius. ](/news/2016/08/26/the-johannesburg-high-court-rejects-an-appeal-against-the-sentencing-of-oscar-pistorius.md)
 _Context: North Gauteng High Court, Oscar Pistorius, Trial of Oscar Pistorius_
 
-### [The France Conseil d'Etat suspends Villeneuve-Loubet commune's ban on  on full-body burkini swimsuits. ](/news/2016/08/26/the-france-conseil-d-atat-suspends-villeneuve-loubet-commune-s-ban-on-on-full-body-burkini-swimsuits.md)
+### [The France Conseil d'Etat suspends Villeneuve-Loubet commune's ban on full-body burkini swimsuits. ](/news/2016/08/26/the-france-conseil-d-atat-suspends-villeneuve-loubet-commune-s-ban-on-full-body-burkini-swimsuits.md)
 _Context: Conseil d'Etat, France, Villeneuve-Loubet, burkini, commune_
 
 ### [Police and protesters clash in Harare after a court ruled that protests against Robert Mugabe can continue. ](/news/2016/08/26/police-and-protesters-clash-in-harare-after-a-court-ruled-that-protests-against-robert-mugabe-can-continue.md)
