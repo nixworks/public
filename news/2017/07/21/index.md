@@ -21,7 +21,7 @@ U.S. citizens will be banned from traveling to North Korea after Trump action
 ### [ Minneapolis Police Chief Janee Harteau, upon reflection and at Mayor Betsy Hodges's request, resigns in the wake of last Saturday's tragedy as well as some other recent incidents. ](/news/2017/07/21/minneapolis-police-chief-janea-c-harteau-upon-reflection-and-at-mayor-betsy-hodges-s-request-resigns-in-the-wake-of-last-saturdayas-trag.md)
 &quot;I have to put the communities we serve first,&quot; she said.
 
-### [White House Press Secretary Sean Spicer announced his intention to resign as White House Press Secretary due to Donald Trump's appointment of Anthony Scaramucci as the White House Communications Director, and will formally step down from the role in August 2017. Sarah Huckabee Sanders will take over as the White House Press Secretary in August 2017. ](/news/2017/07/21/white-house-press-secretary-sean-spicer-announced-his-intention-to-resign-as-white-house-press-secretary-due-to-donald-trump-s-appointment-o.md)
+### [White House Press Secretary Sean Spicer announces his intention to resign as White House Press Secretary due to Donald Trump's appointment of Anthony Scaramucci as the White House Communications Director, and will formally step down from the role in August 2017. Sarah Huckabee Sanders will take over as the White House Press Secretary in August 2017. ](/news/2017/07/21/white-house-press-secretary-sean-spicer-announces-his-intention-to-resign-as-white-house-press-secretary-due-to-donald-trump-s-appointment-o.md)
 Mr. Spicer quit after telling President Trump he vehemently disagreed with the appointment of the financier Anthony Scaramucci as communications director.
 
 ## [Previous Day...](/news/2017/07/20/index.md)
