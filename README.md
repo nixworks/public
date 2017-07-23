@@ -14,6 +14,9 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/07/22/index.md)
 
+### [A United Nations Security Council session is to be held to address the escalating violence in Jerusalem. ](/news/2017/07/22/a-united-nations-security-council-session-is-to-be-held-to-address-the-escalating-violence-in-jerusalem.md)
+The US, Russia, EU and United Nations have expressed concern about escalating violence in Jerusalem. The UN Security Council is to hold closed-door talks and called on all sides to &quot;demonstrate maximum restraint.&quot;
+
 ### [Bank of America chooses Dublin as its European hub. ](/news/2017/07/22/bank-of-america-chooses-dublin-as-its-european-hub.md)
 Bank of America Corp. has picked Dublin to locate its main European Union hub in preparation for Britain quitting the bloc in 2019, the latest global bank to finalize its contingency arrangements after Brexit.
 
