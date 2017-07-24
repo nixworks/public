@@ -9,6 +9,9 @@ Almost 50 others were injured in the explosion near a vegetable market in the so
 ### [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. ](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland.md)
 _Context: Schaffhausen, Switzerland_
 
+### [KeyCorp finalizes its purchase of financial app HelloWallet. ](/news/2017/07/24/keycorp-finalizes-its-purchase-of-financial-app-hellowallet.md)
+_Context: HelloWallet, KeyCorp_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.

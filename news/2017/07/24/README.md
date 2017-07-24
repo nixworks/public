@@ -9,5 +9,8 @@ Almost 50 others were injured in the explosion near a vegetable market in the so
 ### [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. ](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland.md)
 _Context: Schaffhausen, Switzerland_
 
+### [KeyCorp finalizes its purchase of financial app HelloWallet. ](/news/2017/07/24/keycorp-finalizes-its-purchase-of-financial-app-hellowallet.md)
+_Context: HelloWallet, KeyCorp_
+
 ## [Previous Day...](/news/2017/07/23/index.md)
 
