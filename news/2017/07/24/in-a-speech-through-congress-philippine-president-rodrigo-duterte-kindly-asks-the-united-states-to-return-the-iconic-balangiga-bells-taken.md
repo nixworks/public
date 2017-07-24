@@ -2,12 +2,13 @@
 
 # In a speech through Congress,  Philippine President Rodrigo Duterte kindly asks the United States to return the iconic Balangiga bells taken during the Philippine-American War. 
 
-Duterte has repeatedly criticized the United States for killing thousands of Filipinos during the Philippine-American war.
+Filipino leader Rodrigo Duterte on Monday demanded the U.S. government return church bells that American soldiers took more than a hundred years ago.
 
 
 ### Source:
 
 1. [The Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2017/07/24/philippiness-duterte-keeps-lashing-out-at-the-united-states-over-its-atrocities-a-century-ago/)
+2. [United Press International](https://www.upi.com/Top_News/World-News/2017/07/24/Duterte-to-US-Return-Balangiga-bells-seized-in-1901/5301500915328/)
 
 ### Related:
 
