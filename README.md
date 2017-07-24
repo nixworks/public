@@ -6,11 +6,14 @@ A Taliban suicide attacker detonated a car bomb in the western part of Kabul on 
 ### [At least 26 people are killed and over 50 others are injured in a suicide car bombing in southern Lahore. ](/news/2017/07/24/at-least-26-people-are-killed-and-over-50-others-are-injured-in-a-suicide-car-bombing-in-southern-lahore.md)
 Almost 50 others were injured in the explosion near a vegetable market in the south of the city.
 
-### [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. ](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland.md)
+### [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. A manhunt is underway for the suspect.](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland-a-manhunt-is-under.md)
 _Context: Schaffhausen, Switzerland_
 
 ### [KeyCorp finalizes its purchase of financial app HelloWallet. ](/news/2017/07/24/keycorp-finalizes-its-purchase-of-financial-app-hellowallet.md)
 _Context: HelloWallet, KeyCorp_
+
+### [The parents of the terminally ill Charlie Gard give up their legal challenge over treatment in the US. The latest medical reports indicate that the window of opportunity no longer exists. ](/news/2017/07/24/the-parents-of-the-terminally-ill-charlie-gard-give-up-their-legal-challenge-over-treatment-in-the-us-the-latest-medical-reports-indicate-t.md)
+_Context: Charlie Gard case, window of opportunity_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
