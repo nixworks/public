@@ -25,7 +25,7 @@ _Context: DMCA, SCO Group, SCO v. IBM_
 _Context: California, Paso Robles, San Simeon, UTC, earthquake, magnitude, time zone_
 
 ### [ The Philippines declares a calamity in a southern province after floods killed up to 209 people. [http://asia.news.yahoo.com/031223/3/19vvc.html]](/news/2003/12/22/the-philippines-declares-a-calamity-in-a-southern-province-after-floods-killed-up-to-209-people-http-asia-news-yahoo-com-031223-3-19vvc.md)
-_Context: Philippines_
+_Context: Philippine_
 
 ### [ Drive-By Truckers' bassist, Earl Hicks, leaves the band and is replaced by Shonna Tucker.](/news/2003/12/22/drive-by-truckers-bassist-earl-hicks-leaves-the-band-and-is-replaced-by-shonna-tucker.md)
 _Context: Drive-By Truckers_

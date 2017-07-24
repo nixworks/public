@@ -4,7 +4,7 @@
 _Context: Rhea, Rings, Saturnian moon, moon, ring system_
 
 ### [ The United States Senate passes legislation providing for more rigorous inspection of toys and other playthings imported into the United States. ](/news/2008/03/6/the-united-states-senate-passes-legislation-providing-for-more-rigorous-inspection-of-toys-and-other-playthings-imported-into-the-united-st.md)
-_Context: Senator, United States_
+_Context: American, Senator_
 
 ### [ At least eight people, including four children, are killed and dozens wounded in a shooting attack on the Mercaz HaRav yeshiva in Jerusalem. ](/news/2008/03/6/at-least-eight-people-including-four-children-are-killed-and-dozens-wounded-in-a-shooting-attack-on-the-mercaz-harav-yeshiva-in-jerusalem.md)
 Get local Miami news plus Miami breaking news, business, green, national, and world news from NBC 6 Miami.
@@ -22,7 +22,7 @@ _Context: 1997, Death of Diana, Princess of Wales, Paul Burrell, grandmother_
 _Context: A bomb causes minor damage, New York City, Times Square, military recruitment_
 
 ### [ Philippine authorities arrest three people accused of plotting terrorist attacks on foreign embassies in Manila. ](/news/2008/03/6/philippine-authorities-arrest-three-people-accused-of-plotting-terrorist-attacks-on-foreign-embassies-in-manila.md)
-_Context: Manila, Philippines_
+_Context: Manila, Philippine_
 
 ## [Previous Day...](/news/2008/03/5/index.md)
 

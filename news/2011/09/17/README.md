@@ -13,7 +13,7 @@ _Context: Friday's Reno air crash, National Transportation Safety Board_
 _Context: Eastern WV Regional Airport, Martinsburg, West Virginia, North American T-28 Trojan_
 
 ### [A strong 6.6 magnitude earthquake and a series of aftershocks occur off the coast of Honshu in Japan. ](/news/2011/09/17/a-strong-6-6-magnitude-earthquake-and-a-series-of-aftershocks-occur-off-the-coast-of-honshu-in-japan.md)
-_Context: Honshu Island, Japan, aftershock, earthquake_
+_Context: Aftershock, Honshu Island, Japan, earthquake_
 
 ### [Former Prime Minister of Thailand Thaksin Shinawatra visits Cambodia for high-level talks with the government of Cambodia over a variety of issues, including the ownership of the disputed Preah Vihear Temple. ](/news/2011/09/17/former-prime-minister-of-thailand-thaksin-shinawatra-visits-cambodia-for-high-level-talks-with-the-government-of-cambodia-over-a-variety-of.md)
 _Context: Cambodia, Government of Cambodia, Preah Vihear Temple, Prime Minister of Thailand, Thaksin_
@@ -25,7 +25,7 @@ Finnish authorities were holding a man and a woman on Saturday for alleged invol
 More than 240 people died when a ferry sank in the early hours of Sept. 10.
 
 ### [Hundreds of United States citizens rally to peacefully occupy Wall Street, demonstrating against corporate dominance and perceived tax evasion by the super-rich. The movement is reportedly inspired by the periodic protests tactic of the Arab Spring. ](/news/2011/09/17/hundreds-of-united-states-citizens-rally-to-peacefully-occupy-wall-street-demonstrating-against-corporate-dominance-and-perceived-tax-evasi.md)
-_Context: Arab Spring, Occupy Wall Street, United States, Wall Street, corporate dominance, super-rich_
+_Context: American, Arab Spring, Occupy Wall Street, Wall Street, corporate dominance, super-rich_
 
 ### [Voters in Latvia go to the polls for a parliamentary election. ](/news/2011/09/17/voters-in-latvia-go-to-the-polls-for-a-parliamentary-election.md)
 _Context: Latvia, parliamentary election_

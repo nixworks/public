@@ -4,7 +4,7 @@
 _Context: Budapest, Hungary, police, tear gas, water cannon_
 
 ### [ Four United States soldiers die in Baghdad in a car bomb attack, while 12 Iraqis die in Baghdad and Iskandariya in the south of Iraq. ](/news/2007/03/15/four-united-states-soldiers-die-in-baghdad-in-a-car-bomb-attack-while-12-iraqis-die-in-baghdad-and-iskandariya-in-the-south-of-iraq.md)
-_Context: Baghdad, Iraq, Iskandariya, United States, car bomb_
+_Context: American, Baghdad, Iraq, Iskandariya, car bomb_
 
 ### [ Willie Brigitte is sentenced to nine years' jail in France for planning terrorist attacks in Australia. ](/news/2007/03/15/willie-brigitte-is-sentenced-to-nine-years-jail-in-france-for-planning-terrorist-attacks-in-australia.md)
 _Context: Australia, France, Willie Brigitte, jail_
@@ -16,7 +16,7 @@ _Context: Mars, Planum Australe, South Pole, planet, polar ice cap, water_
 _Context: Arnold Schwarzenegger, California primary, February 5, Governor of California_
 
 ### [ Russia, Greece and Bulgaria sign a deal to build a pipeline to transport Russian oil to the Greek port of Alexandroupolis. ](/news/2007/03/15/russia-greece-and-bulgaria-sign-a-deal-to-build-a-pipeline-to-transport-russian-oil-to-the-greek-port-of-alexandroupolis.md)
-_Context: Alexandroupolis, Bulgaria, Greece, Russia, oil, pipeline_
+_Context: Alexandroupolis, Bulgaria, Greek, Russia, oil, pipeline_
 
 ### [ The five permanent members of the United Nations Security Council and Germany agree on a proposal for sanctions against Iran for its nuclear programs to be discussed by the Security Council. ](/news/2007/03/15/the-five-permanent-members-of-the-united-nations-security-council-and-germany-agree-on-a-proposal-for-sanctions-against-iran-for-its-nuclea.md)
 _Context: Germany, Iran, United Nations Security Council_

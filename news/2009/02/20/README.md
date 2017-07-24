@@ -4,7 +4,7 @@
 _Context: Colombo, LTTE, Sri Lanka, aerially attack_
 
 ### [ The United States will return Benyam Mohammed to the United Kingdom after four years of imprisonment at Guantanamo Bay Naval Base's detention camp. ](/news/2009/02/20/the-united-states-will-return-benyam-mohammed-to-the-united-kingdom-after-four-years-of-imprisonment-at-guantanamo-bay-naval-base-s-detenti.md)
-_Context: Benyam Mohammed, Guantanamo Bay Detention Camp, United Kingdom, United States, military base at Guantanamo Bay_
+_Context: American, Benyam Mohammed, Guantanamo Bay Detention Camp, United Kingdom, military base at Guantanamo Bay_
 
 ### [ Israel seizes 425 acres of Palestinian Authority state land in the West Bank for a Jewish settlement. ](/news/2009/02/20/israel-seizes-425-acres-of-palestinian-authority-state-land-in-the-west-bank-for-a-jewish-settlement.md)
 _Context: Israel, Israeli settlement, Palestinian Authority, West Bank_
@@ -28,7 +28,7 @@ _Context: Benjamin Netanyahu, Israel, Likud, Politics of Israel, President, Shim
 _Context: Dera Ismail Khan, Pakistan, suicide bombing_
 
 ### [ Forty-seven people are injured when a Northwest Airlines flight from the Philippines to Japan experiences severe turbulence. ](/news/2009/02/20/forty-seven-people-are-injured-when-a-northwest-airlines-flight-from-the-philippines-to-japan-experiences-severe-turbulence.md)
-_Context: Japan, Northwest Airlines, Philippines, turbulence_
+_Context: Japan, Northwest Airlines, Philippine, turbulence_
 
 ### [ India investigates several deaths caused by the hepatitis B virus in the western state of Gujarat. ](/news/2009/02/20/india-investigates-several-deaths-caused-by-the-hepatitis-b-virus-in-the-western-state-of-gujarat.md)
 _Context: Gujarat, India, Indian state, hepatitis B, outbreak_

@@ -25,7 +25,7 @@ A bridegroom in Turkey accidentally kills his father and two aunts while firing 
 _Context: Apple Inc., Mark Papermaster, iPhone, iPhone 4_
 
 ### [Ads website Craigslist faces allegations of "pay to rape" underage prostitution after a letter is published in ''The Washington Post''. ](/news/2010/08/8/ads-website-craigslist-faces-allegations-of-pay-to-rape-underage-prostitution-after-a-letter-is-published-in-the-washington-post.md)
-_Context: Craigslist, The Washington Post_
+_Context: Craigslist, Washington Post_
 
 ### [It is revealed that Sarah, Duchess of York faces possible bankruptcy, which would make her the first Royal to suffer this. ](/news/2010/08/8/it-is-revealed-that-sarah-duchess-of-york-faces-possible-bankruptcy-which-would-make-her-the-first-royal-to-suffer-this.md)
 _Context: Sarah, Duchess of York_

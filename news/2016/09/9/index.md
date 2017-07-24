@@ -1,7 +1,7 @@
 ## [2016-09-9](/news/2016/09/9/index.md)
 
 ### [United States Navy SEALs, by high altitude parachuting, fail in a rescue attempt after the team does not find the American and Australian hostages who were kidnapped in Kabul last month. ](/news/2016/09/9/united-states-navy-seals-by-high-altitude-parachuting-fail-in-a-rescue-attempt-after-the-team-does-not-find-the-american-and-australian-ho.md)
-_Context: Kabul, U.S. Navy SEAL, War in Afghanistan (2015-present), high altitude parachuting_
+_Context: Kabul, United States Navy SEAL, War in Afghanistan (2015-present), high altitude parachuting_
 
 ### [Twin suicide bombings  at the  Nakheel Mall  in eastern Baghdad kill 12 people and injure more than 40 others. ISIL claims responsibility. ](/news/2016/09/9/twin-suicide-bombings-at-the-nakheel-mall-in-eastern-baghdad-kill-12-people-and-injure-more-than-40-others-isil-claims-responsibility.md)
 Twelve people were killed late on Friday in two suicide bombings claimed by Islamic State at a shopping mall in eastern Baghdad, police and hospital sources said.
@@ -22,7 +22,7 @@ But federal authorities quickly said the pipeline near a lake will not go forwar
 Britain has become &ldquo;completely lost&rdquo; post Brexit and can eventually be expected to &ldquo;plead&rdquo; for a deal when it realises the weakness of its position at the negotiating table, senior European Commission officials now believe.
 
 ### [The alert level for the Mayon Volcano in the Philippines is increased after more than a hundred earthquakes were detected in its vicinity. ](/news/2016/09/9/the-alert-level-for-the-mayon-volcano-in-the-philippines-is-increased-after-more-than-a-hundred-earthquakes-were-detected-in-its-vicinity.md)
-_Context: Mayon Volcano, Philippines_
+_Context: Mayon Volcano, Philippine_
 
 ### [Millions of people in Nigeria are at risk of famine. ](/news/2016/09/9/millions-of-people-in-nigeria-are-at-risk-of-famine.md)
 _Context: Nigeria, famine_

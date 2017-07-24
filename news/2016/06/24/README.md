@@ -1,7 +1,7 @@
 ## [2016-06-24](/news/2016/06/24/index.md)
 
 ### [Seven Indonesian sailors are kidnapped off the coast of Sulu near Mindanao in the southern Philippines raising terrorism fears. ](/news/2016/06/24/seven-indonesian-sailors-are-kidnapped-off-the-coast-of-sulu-near-mindanao-in-the-southern-philippines-raising-terrorism-fears.md)
-_Context: Indonesia, Mindanao, Moro conflict, Philippines, Sulu_
+_Context: Indonesia, Mindanao, Moro conflict, Philippine, Sulu_
 
 ### [At least three people are killed and 32 more are wounded by a bomb blast in Quetta. ](/news/2016/06/24/at-least-three-people-are-killed-and-32-more-are-wounded-by-a-bomb-blast-in-quetta.md)
 _Context: Quetta, War in North-West Pakistan_
@@ -28,7 +28,7 @@ Indonesia said on Friday a halt on coal shipments to the Philippines will remain
 _Context: Korean Peninsula, South Korea, Volkswagen AG, Volkswagen emissions scandal_
 
 ### [Crime in the Philippines; More than 50 people accused of dealing in illegal drugs have been murdered in the Philippines within a month after incoming president Rodrigo Duterte called for more extrajudicial killings against suspected criminals. ](/news/2016/06/24/crime-in-the-philippines-more-than-50-people-accused-of-dealing-in-illegal-drugs-have-been-murdered-in-the-philippines-within-a-month-after.md)
-_Context: Philippines's war against illegal drugs, Rodrigo Duterte, extrajudicial killings, illegal drugs, jail break_
+_Context: Philippine Drug War, Rodrigo Duterte, extrajudicial killings, illegal drugs, jail break_
 
 ### [The United Kingdom votes, 52% to 48%, to leave the European Union. Prime Minister David Cameron, who called the referendum three years ago, announces his resignation indicating he will leave office by October. ](/news/2016/06/24/the-united-kingdom-votes-52-to-48-to-leave-the-european-union-prime-minister-david-cameron-who-called-the-referendum-three-years-ago.md)
 Up to the minute results for the 2016 EU Referendum from BBC News

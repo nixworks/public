@@ -16,7 +16,7 @@ _Context: Mikhail Khodorkovsky, Yukos, financial crimes, trial_
 _Context: Gaddafi Stadium, Lahore, Pakistan, Pakistani police, Sri Lanka, cricket players, shootings_
 
 ### [ United States President Barack Obama and United Kingdom Prime Minister Gordon Brown meet at the White House. ](/news/2009/03/3/united-states-president-barack-obama-and-united-kingdom-prime-minister-gordon-brown-meet-at-the-white-house.md)
-_Context: Barack Obama, Gordon Brown, President of the United States, Prime Minister, United Kingdom, United States, White House_
+_Context: American, Barack Obama, Gordon Brown, President of the United States, Prime Minister, United Kingdom, White House_
 
 ### [ Three people are believed trapped after Cologne's municipal archives building collapses. ](/news/2009/03/3/three-people-are-believed-trapped-after-cologne-s-municipal-archives-building-collapses.md)
 _Context: Cologne, Structural Engineering, municipal archives building_

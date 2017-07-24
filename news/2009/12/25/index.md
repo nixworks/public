@@ -25,7 +25,7 @@ _Context: Alberto Velzquez, Expresiones de Tulum, Mexico_
 In her Christmas message this year, the Queen has praised the bravery and commitment of the Armed Forces serving in Afghanistan.
 
 ### [ Six Filipino sailors and three Greek officers are missing after fire engulfs a ship in an incident off the coast of Venezuela. ](/news/2009/12/25/six-filipino-sailors-and-three-greek-officers-are-missing-after-fire-engulfs-a-ship-in-an-incident-off-the-coast-of-venezuela.md)
-_Context: Greece, Philippines, Venezuela_
+_Context: Greek, Philippine, Venezuela_
 
 ### [ American officials investigate a possible attempted terrorist attack after an incident on Northwest Airlines Flight 253  from Amsterdam to Detroit. ](/news/2009/12/25/american-officials-investigate-a-possible-attempted-terrorist-attack-after-an-incident-on-northwest-airlines-flight-253-from-amsterdam-to.md)
 The Obama administration vows to review security procedures at airports and the government&#39;s system for checking suspicious travelers.

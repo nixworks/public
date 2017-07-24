@@ -40,7 +40,7 @@ _Context: Constitutional Court, Italian, Italian Prime Minister, Silvio Berlusco
 A diplomatic team, including Ireland&#39;s ambassador to Sudan, have renewed efforts to secure the release of the two GOAL workers kidnapped in Darfur.
 
 ### [ A 7.8 magnitude earthquake strikes Vanuatu, followed 15 minutes later by a 7.3 magnitude aftershock. A tsunami warning is issued. ](/news/2009/10/7/a-7-8-magnitude-earthquake-strikes-vanuatu-followed-15-minutes-later-by-a-7-3-magnitude-aftershock-a-tsunami-warning-is-issued.md)
-_Context: Vanuatu, aftershock, earthquake, magnitude_
+_Context: Aftershock, Vanuatu, earthquake, magnitude_
 
 ### [ ''The Red Book'' by Swiss psychiatrist Carl Jung is displayed for the first time in public. ](/news/2009/10/7/the-red-book-by-swiss-psychiatrist-carl-jung-is-displayed-for-the-first-time-in-public.md)
 _Context: Carl Jung, Swiss, The Red Book, psychiatrist_

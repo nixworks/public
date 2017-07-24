@@ -22,7 +22,7 @@ Veteran US political activist and intellectual Noam Chomsky has received another
 _Context: Jay Leno, Jimmy Fallon, Late Night with Jimmy Fallon, NBC, TV network, The Tonight Show, U.S._
 
 ### [Subaru recalls around 200,000 vehicles in the United States to fix a defect which could lead to corrosion of the brake lines. ](/news/2013/04/3/subaru-recalls-around-200-000-vehicles-in-the-united-states-to-fix-a-defect-which-could-lead-to-corrosion-of-the-brake-lines.md)
-_Context: Subaru, United States, corrosion_
+_Context: American, Subaru, corrosion_
 
 ### [Disney announces that it is ceasing all internal development at its LucasArts game division. ](/news/2013/04/3/disney-announces-that-it-is-ceasing-all-internal-development-at-its-lucasarts-game-division.md)
 _Context: Disney, LucasArts_

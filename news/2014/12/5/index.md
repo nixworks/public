@@ -13,7 +13,7 @@ The shakeup in women&rsquo;s fashion merchandising continues with the bankruptcy
 Italian news reports say rescue crews have discovered some 17 bodies in the hull of a migrant ship off Libya in the first reported deaths since the European Union took over Mediterranean rescue operations.
 
 ### [The British Museum announces that it will loan one of the Elgin Marbles in its collection, originally taken from Greece, to the Hermitage Museum in Saint Petersburg. Greece's Prime Minister Antonis Samaras calls the move "a provocation to the Greek people." ](/news/2014/12/5/the-british-museum-announces-that-it-will-loan-one-of-the-elgin-marbles-in-its-collection-originally-taken-from-greece-to-the-hermitage-mu.md)
-_Context: Antonis Samaras, British Museum, Elgin Marbles, Greece, Greek Prime Minister, Hermitage Museum, Saint Petersburg_
+_Context: Antonis Samaras, British Museum, Elgin Marbles, Greek, Greek Prime Minister, Hermitage Museum, Saint Petersburg_
 
 ### [China's Supreme People's Procuratorate arrests former Politburo Standing Committee member Zhou Yongkang on corruption charges and expels him from the Communist Party of China.  ](/news/2014/12/5/china-s-supreme-people-s-procuratorate-arrests-former-politburo-standing-committee-member-zhou-yongkang-on-corruption-charges-and-expels-him.md)
 Chinese ex-security chief Zhou Yongkang is arrested and expelled from the Communist Party for alleged corruption, state media report.

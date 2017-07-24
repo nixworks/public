@@ -19,7 +19,7 @@ _Context: 2013-14 Australian region cyclone season, Lucinda, Proserpine, north Q
 An emaciated man whose boat washed up on the shores of the Pacific’s Marshall Islands is telling a harrowing tale of being adrift for 16 months, surviving on fish, birds, and turtle blood.
 
 ### [The Philippines refuses to apologize to Hong Kong for the Manila hostage crisis a day after visa-free access was revoked by the territory. ](/news/2014/01/30/the-philippines-refuses-to-apologize-to-hong-kong-for-the-manila-hostage-crisis-a-day-after-visa-free-access-was-revoked-by-the-territory.md)
-_Context: Hong Kong, Manila hostage crisis, Philippines_
+_Context: Hong Kong, Manila hostage crisis, Philippine_
 
 ### [182 inmates escape from a provincial jail in Leyte, Philippines, which was previously affected by Typhoon Haiyan, citing squalid conditions and a lack of food. 148 are recaptured hours later. ](/news/2014/01/30/182-inmates-escape-from-a-provincial-jail-in-leyte-philippines-which-was-previously-affected-by-typhoon-haiyan-citing-squalid-conditions.md)
 Philippine police say 182 inmates complaining of hunger and squalid conditions have escaped from a provincial jail in an eastern province that was devastated by a monster storm in November.

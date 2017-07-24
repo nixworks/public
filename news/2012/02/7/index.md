@@ -13,7 +13,7 @@ State governor says issue can be resolved through negotiations after state legis
 _Context: Mali, Tuareg Rebellion (2011-present)_
 
 ### [Greek government debt crisis: discussions among the three parties within the ruling coalition in Greece are postponed, at least in part because the paperwork wasn't ready. ](/news/2012/02/7/greek-government-debt-crisis-discussions-among-the-three-parties-within-the-ruling-coalition-in-greece-are-postponed-at-least-in-part-beca.md)
-_Context: Greece, Greek government-debt crisis_
+_Context: Greek, Greek government-debt crisis_
 
 ### [Rescuers in the Philippines search for survivors of the 2012 Negros Oriental earthquake with the death toll so far confirmed at 43. ](/news/2012/02/7/rescuers-in-the-philippines-search-for-survivors-of-the-2012-negros-oriental-earthquake-with-the-death-toll-so-far-confirmed-at-43.md)
 Rescuers in the Philippines are digging through rubble with shovels and their bare hands after a powerful earthquake triggered landslides, killing 43.
@@ -28,7 +28,7 @@ Argentina will make a formal complaint to the UN about British &quot;militarisat
 _Context: California, California Proposition 8, United States Court of Appeals for the Ninth Circuit, gay marriage_
 
 ### [Manssor Arbabsiar will face a trial on October 22 in the United States for his role in the 2011 alleged Iran assassination plot against the Saudi Arabian ambassador. ](/news/2012/02/7/manssor-arbabsiar-will-face-a-trial-on-october-22-in-the-united-states-for-his-role-in-the-2011-alleged-iran-assassination-plot-against-the.md)
-_Context: 2011 alleged Iran assassination plot, Saudi Arabia, United States_
+_Context: 2011 alleged Iran assassination plot, American, Saudi Arabia_
 
 ### [Republican Party voters in Colorado participate in caucuses with 36 delegates at stake - Santorum wins, with Mitt Romney placing second.   ](/news/2012/02/7/republican-party-voters-in-colorado-participate-in-caucuses-with-36-delegates-at-stake-santorum-wins-with-mitt-romney-placing-second.md)
 US conservative Rick Santorum wins races for the Republican presidential nomination in three states, upsetting front-runner Mitt Romney.
@@ -43,7 +43,7 @@ _Context: Iran, Iranian Revolution, Islamic Consultative Assembly, Mahmoud Ahmad
 _Context: Uganda, law_
 
 ### [The United States Congress votes to pass legislation allowing for greater use of drone aircraft in the United States. ](/news/2012/02/7/the-united-states-congress-votes-to-pass-legislation-allowing-for-greater-use-of-drone-aircraft-in-the-united-states.md)
-_Context: United States, United States Congress, drone aircraft_
+_Context: American, United States Congress, drone aircraft_
 
 ## [Previous Day...](/news/2012/02/6/index.md)
 

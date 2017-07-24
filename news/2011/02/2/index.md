@@ -28,7 +28,7 @@ _Context: Chinese, Yunnan Province_
 Fifteen youths were killed and several others injured on Tuesday when they fell from the roof of two speeding trains crammed with job aspirants returning from an ITBP recruitment camp in Bareilly in UP.
 
 ### [Six thousand flights are cancelled in the United States following the January 31-February 2, 2011 North American winter storm. ](/news/2011/02/2/six-thousand-flights-are-cancelled-in-the-united-states-following-the-january-31afebruary-2-2011-north-american-winter-storm.md)
-_Context: January 31-February 2, 2011 North American winter storm, United States_
+_Context: American, January 31-February 2, 2011 North American winter storm_
 
 ### [A fire destroys a five-star Sheraton hotel in the Heping District of Shenyang, Liaoning, China, then the tallest building in Northeastern China, after midnight fireworks celebrating the Chinese New Year set ablaze flammable thermal insulation outside the hotel walls. Firefighters were unable to put out the blaze as ladders could not reach the higher storeys of the building, but no casualties or injuries were reported. ](/news/2011/02/2/a-fire-destroys-a-five-star-sheraton-hotel-in-the-heping-district-of-shenyang-liaoning-china-then-the-tallest-building-in-northeastern-ch.md)
 _Context: Chinese New Year, Heping District, Liaoning, Northeastern China, Shenyang, Sheraton, firework, five-star, thermal insulation_

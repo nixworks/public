@@ -16,7 +16,7 @@ _Context: Russia, United Russia, Vladimir Putin, parliamentary elections_
 French commuters dusted off old bikes and aired their walking shoes on Tuesday in anticipation of a transport strike that is set to last for days and could become the biggest the country has seen in more than 10 years.
 
 ### [ An explosion hits the south wing of the House of Representatives of the Philippines in Quezon City, killing three people, including Congressman Wahab Akbar, and wounding 10. ](/news/2007/11/13/an-explosion-hits-the-south-wing-of-the-house-of-representatives-of-the-philippines-in-quezon-city-killing-three-people-including-congres.md)
-_Context: Congressman, Philippines, Quezon City, Wahab Akbar, congresswoman, explosion_
+_Context: Congressman, Philippine, Quezon City, Wahab Akbar, congresswoman, explosion_
 
 ### [ Clean-up operations continue in the Strait of Kerch after the oil spill disaster. Ten ships have sunk, 2,000 tons of fuel oil and 6,000 tons of sulphur have been spilled, three sailors have died and about 20 are missing. ](/news/2007/11/13/clean-up-operations-continue-in-the-strait-of-kerch-after-the-oil-spill-disaster-ten-ships-have-sunk-2-000-tons-of-fuel-oil-and-6-000-ton.md)
 _Context: Strait of Kerch, environmental disaster, fuel oil, oil spill, sailor, ship, sulphur, tons_

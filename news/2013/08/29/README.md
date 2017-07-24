@@ -4,7 +4,7 @@
 MPs vote against possible military action against Syria, ruling out involvement in US-led attacks, while France says the vote does not change its resolve to act.
 
 ### [Aftermath of the 2013 Korean crisis:North Korea warns against an underway joint military drill by South Korea and the United States, stating that the exercise could jeopardize a recent easing of tension on the Korean Peninsula. ](/news/2013/08/29/aftermath-of-the-2013-korean-crisis-pnorth-korea-warns-against-an-underway-joint-military-drill-by-south-korea-and-the-united-states-statin.md)
-_Context: 2013 Korean crisis, Korean Peninsula, North Korea, South Korea, United States_
+_Context: 2013 Korean crisis, American, Korean Peninsula, North Korea, South Korea_
 
 ### [Zurich Insurance Group chairman Josef Ackermann steps down after the CFO Pierre Wauthier committed suicide earlier this week. ](/news/2013/08/29/zurich-insurance-group-chairman-josef-ackermann-steps-down-after-the-cfo-pierre-wauthier-committed-suicide-earlier-this-week.md)
 * Former Deutsche Bank boss steps down as Zurich chairman* Follows apparent suicide of CFO Pierre Wauthier* Several top executives have left

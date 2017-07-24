@@ -10,7 +10,7 @@ Fact-finding mission, appointed by the king, begins inquiry into the crackdown t
 _Context: Academy Awards, Athens, Greek-Cypriot, Michael Cacoyannis, Zorba the Greek_
 
 ### [Moody's cuts Greece's credit rating further to Ca on the grounds that a proposed debt swap is equivalent to a default. ](/news/2011/07/25/moody-s-cuts-greece-s-credit-rating-further-to-ca-on-the-grounds-that-a-proposed-debt-swap-is-equivalent-to-a-default.md)
-_Context: Greece, Moody's, defaults_
+_Context: Greek, Moody's, defaults_
 
 ### [2011 Horn of Africa famine: The World Bank promises $500 million in aid to drought victims in East Africa as a United Nations agency hosts an emergency meeting aimed at fighting famine. ](/news/2011/07/25/2011-horn-of-africa-famine-the-world-bank-promises-500-million-in-aid-to-drought-victims-in-east-africa-as-a-united-nations-agency-hosts-a.md)
 Efforts to save starving Somalis and others suffering from drought in East Africa were intensified Monday, with United Nations agencies pitching for more funding for relief efforts.

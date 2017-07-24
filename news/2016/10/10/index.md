@@ -7,7 +7,7 @@ A suspected car bomb on Monday killed at least 10 police amid increased Taliban 
 Death of nine officers in Rohingya-dominated area in Rakhine state sets off military raid that claims eight more lives.
 
 ### [Polish film director and recipient of an Academy Honorary Award Andrzej Wajda dies at the age of 90. ](/news/2016/10/10/polish-film-director-and-recipient-of-an-academy-honorary-award-andrzej-wajda-dies-at-the-age-of-90.md)
-_Context: Academy Honorary Award, Andrzej Wajda, Polish_
+_Context: Academy Honorary Award, Andrzej Wajda, Poles_
 
 ### [British-born American Oliver Hart and Finnish Bengt Holmstrom win the Nobel Prize in Economics for their work on the science of contracts. ](/news/2016/10/10/british-born-american-oliver-hart-and-finnish-bengt-holmstrapm-win-the-nobel-prize-in-economics-for-their-work-on-the-science-of-contracts.md)
 UK-born Oliver Hart and Bengt Holmstrom of Finland have won the Nobel Economics Prize for work on contract theory.

@@ -22,7 +22,7 @@ _Context: Czech Republic, European Union, United Kingdom_
 _Context: Danone, Nestl, Pfizer_
 
 ### [Moody's Investor Services cuts Greece's credit rating to C claiming that there is a still a significant risk of default despite the Eurozone bailout. ](/news/2012/03/2/moody-s-investor-services-cuts-greece-s-credit-rating-to-c-claiming-that-there-is-a-still-a-significant-risk-of-default-despite-the-eurozone.md)
-_Context: Eurozone, Greece, Moody's Investor Services, credit rating_
+_Context: Eurozone, Greek, Moody's Investor Services, credit rating_
 
 ### [Anglican Church officials in Christchurch, New Zealand, announce that the 131-year-old landmark ChristChurch Cathedral will need to be demolished, having suffered severe damage from the 2011 Christchurch earthquake and its aftershocks. ](/news/2012/03/2/anglican-church-officials-in-christchurch-new-zealand-announce-that-the-131-year-old-landmark-christchurch-cathedral-will-need-to-be-demol.md)
 A city councillor will chain himself to Christ Church Cathedral to prevent its demise. + CBD reopening delayed

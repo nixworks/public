@@ -10,7 +10,7 @@ _Context: Commonwealth of Nations, Human rights, Robert Mugabe, Zimbabwe_
 _Context: 2003 Russian election, Communist Party, Liberal Democratic Party of Russia, United Russia Party, Vladimir Putin, Zhirinovsky_
 
 ### [Afghan villagers have disputed United States claims that a bombing by the US that killed nine children had killed the intended target, Taliban militant, Mullah Wazir. They say Wazir had left the village ten days earlier. ](/news/2003/12/7/afghan-villagers-have-disputed-united-states-claims-that-a-bombing-by-the-us-that-killed-nine-children-had-killed-the-intended-target-talib.md)
-_Context: Afghanistan, Mullah Wazir, Taliban, United States_
+_Context: Afghanistan, American, Mullah Wazir, Taliban_
 
 ### [ Currency analysts remain negative on the US dollar. [http://news.bbc.co.uk/2/hi/business/3298543.stm]](/news/2003/12/7/currency-analysts-remain-negative-on-the-us-dollar-http-news-bbc-co-uk-2-hi-business-3298543-stm.md)
 _Context: $_

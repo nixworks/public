@@ -70,7 +70,7 @@ British and Japanese ultranationalists will shrug off protests from war veterans
 _Context: Japan, Pink Panthers, Rifat Hadziahmetovic, Spain, Tokyo, extradited_
 
 ### [United States prosecutors are investigating whether the Louis Berger Group overcharged the U.S. Agency for International Development for foreign aid projects. ](/news/2010/08/14/united-states-prosecutors-are-investigating-whether-the-louis-berger-group-overcharged-the-u-s-agency-for-international-development-for-for.md)
-_Context: Louis Berger Group, U.S. Agency for International Development, United States, foreign aid, prosecutor_
+_Context: American, Louis Berger Group, U.S. Agency for International Development, foreign aid, prosecutor_
 
 ### [A court in Somalia imprisons for six years and fines $500 radio journalist Abdifatah Jama Mire for the broadcast of an interview with a militia leader in Puntland. ](/news/2010/08/14/a-court-in-somalia-imprisons-for-six-years-and-fines-500-radio-journalist-abdifatah-jama-mire-for-the-broadcast-of-an-interview-with-a-mili.md)
 Puntland court jails journalist for interviewing Muslim leader with ties to fighters.

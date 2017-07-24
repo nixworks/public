@@ -22,7 +22,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Belize, strike_
 
 ### [ The U.S. chief weapons inspector, Charles Duelfer states that search of weapons of mass destruction in Iraq has "gone as far as feasible". ](/news/2005/04/26/the-u-s-chief-weapons-inspector-charles-duelfer-states-that-search-of-weapons-of-mass-destruction-in-iraq-has-gone-as-far-as-feasible.md)
-_Context: Charles Duelfer, Iraq, United States, weapons of mass destruction_
+_Context: American, Charles Duelfer, Iraq, weapons of mass destruction_
 
 ### [ Military action in Lebanon: After three decades, all Syrian troops leave Lebanon, fulfilling UN Security Council Resolution 1559. ](/news/2005/04/26/military-action-in-lebanon-after-three-decades-all-syrian-troops-leave-lebanon-fulfilling-un-security-council-resolution-1559.md)
 Today, as the last Syrian troops depart from the country they have occupied for 29 years, the Lebanese will likely breathe a sigh of relief. But they won&#39;t have much time to savor the sweetness of their newfound liberty; they are now left with the task of managing their own affairs, and there is an awful lot of work to be done. 

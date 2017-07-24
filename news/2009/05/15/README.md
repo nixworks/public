@@ -4,7 +4,7 @@
 Automaker Not Renewing Franchises; Company Says Bankruptcy Possible Without Bond Deal
 
 ### [ The United States releases Lakhdar Boumediene from Guantanamo Bay Naval Base's detention center. ](/news/2009/05/15/the-united-states-releases-lakhdar-boumediene-from-guanta-namo-bay-naval-base-s-detention-center.md)
-_Context: Guantanamo Bay, Guantanamo Bay Detention Camp, Lakhdar Boumediene, United States, military base at Guantanamo Bay_
+_Context: American, Guantanamo Bay, Guantanamo Bay Detention Camp, Lakhdar Boumediene, military base at Guantanamo Bay_
 
 ### [ Sixty-five indigenous peoples declare an insurgency against Peru's government. ](/news/2009/05/15/sixty-five-indigenous-peoples-declare-an-insurgency-against-peru-s-government.md)
 _Context: Government of Peru, Peru, indigenous, insurgency_
@@ -16,7 +16,7 @@ _Context: Ministry of Justice, Parliamentary Under-Secretary of State, Shahid Ma
 _Context: 2009, 4th quarter of 2007 and the second quarter of 2009, Eurozone, economy, fiscal year_
 
 ### [ U.S. President Barack Obama will resume military tribunals for detainees at Guantanamo Bay. ](/news/2009/05/15/u-s-president-barack-obama-will-resume-military-tribunals-for-detainees-at-guanta-namo-bay.md)
-_Context: Barack Obama, Guantanamo Bay Detention Camp, President of the United States, United States, detainees, military tribunal_
+_Context: American, Barack Obama, Guantanamo Bay Detention Camp, President of the United States, detainees, military tribunal_
 
 ### [ A suicide attack kills three people in Grozny, Chechnya, Russia. ](/news/2009/05/15/a-suicide-attack-kills-three-people-in-grozny-chechnya-russia.md)
 _Context: Chechnya, Grozny, Russia, suicide bombing_

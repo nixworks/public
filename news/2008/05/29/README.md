@@ -28,13 +28,13 @@ _Context: Global food price crisis, Third World, US$, World Bank, grant_
 _Context: Bay Area Laboratory Co-operative, Trevor Graham, steroids, track and field_
 
 ### [ The United States Department of Commerce revises its estimate of economic growth in the United States to 0.9% for the first quarter of 2008. ](/news/2008/05/29/the-united-states-department-of-commerce-revises-its-estimate-of-economic-growth-in-the-united-states-to-0-9-for-the-first-quarter-of-2008.md)
-_Context: U.S. Commerce Department, United States, economic growth, quarter_
+_Context: American, U.S. Commerce Department, economic growth, quarter_
 
 ### [ At least 20 people are killed and 42 injured after two suicide bombings in northern Iraq. ](/news/2008/05/29/at-least-20-people-are-killed-and-42-injured-after-two-suicide-bombings-in-northern-iraq.md)
 _Context: Iraq, suicide bombing_
 
 ### [ A bomb at Edwin Andrews Air Base in Zamboanga City in the southern Philippines kills two people and injures another 17. ](/news/2008/05/29/a-bomb-at-edwin-andrews-air-base-in-zamboanga-city-in-the-southern-philippines-kills-two-people-and-injures-another-17.md)
-_Context: Philippines, Zamboanga City, Zamboanga International Airport_
+_Context: Philippine, Zamboanga City, Zamboanga International Airport_
 
 ### [ Hu Jintao, the President of the People's Republic of China calls for resumption of official talks between mainland China and Taiwan in a meeting with Wu Po-hsiung, the Chairman of Taiwan's ruling party the Kuomintang. ](/news/2008/05/29/hu-jintao-the-president-of-the-people-s-republic-of-china-calls-for-resumption-of-official-talks-between-mainland-china-and-taiwan-in-a-me.md)
 _Context: Chinese, Chinese President, Cross-Strait relations, Hu Jintao, Kuomintang (Chinese Nationalist Party), Taiwan, Wu Po-hsiung_

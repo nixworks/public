@@ -1,7 +1,7 @@
 ## [2006-06-20](/news/2006/06/20/index.md)
 
 ### [ ''The Washington Post'', under the Freedom of Information Act, obtains the transcript of an investigative interview with Donald Rumsfeld. The U.S. Secretary of Defense cited poor memory, loose office procedures, and preoccupation with "the wars" as the reasons he did not know how his department nearly squandered $30 billion leasing several hundred tanker aircraft from Boeing. ](/news/2006/06/20/the-washington-post-under-the-freedom-of-information-act-obtains-the-transcript-of-an-investigative-interview-with-donald-rumsfeld-t.md)
-_Context: Boeing, Donald Rumsfeld, Freedom of Information Act, Secretary of Defense, The Washington Post_
+_Context: Boeing, Donald Rumsfeld, Freedom of Information Act, Secretary of Defense, Washington Post_
 
 ### [ Iraqi officials have unconfirmed reports that they have found the bodies of the two U.S. soldiers the American military began looking for at the beginning of this week. The bodies of PFC Kristian Menchaca of Houston, Texas, and PFC Thomas Lowell Tucker of Madras, Oregon showed several signs of torture. ](/news/2006/06/20/iraqi-officials-have-unconfirmed-reports-that-they-have-found-the-bodies-of-the-two-u-s-soldiers-the-american-military-began-looking-for-a.md)
 U.S. and Iraqi officials on Tuesday said bodies believed to be those of two missing U.S. soldiers had been found, while a statement posted online said the two men were killed by the new leader of al-Qaida in Iraq.

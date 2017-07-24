@@ -19,7 +19,7 @@ _Context: Chinese, deadly earthquake_
 _Context: Atlantic Yards, Brooklyn, New York City, U.S. Supreme Court, eminent domain, evict_
 
 ### [ The Court of Appeals for the D.C. Circuit rules that Hozaifa Parhat, a Chinese Uyghur militant currently detained at the Guantanamo Bay detention camp, cannot be ruled an "enemy combatant" because he never took up arms against the United States. ](/news/2008/06/23/the-court-of-appeals-for-the-d-c-circuit-rules-that-hozaifa-parhat-a-chinese-uyghur-militant-currently-detained-at-the-guantanamo-bay-det.md)
-_Context: Chinese, Guantanamo Bay Detention Camp, Hozaifa Parhat, U.S. Court of Appeals for the District of Columbia Circuit, United States, Uyghur, enemy combatant_
+_Context: American, Chinese, Guantanamo Bay Detention Camp, Hozaifa Parhat, U.S. Court of Appeals for the District of Columbia Circuit, Uyghur, enemy combatant_
 
 ### [ The European Union agrees to new sanctions against Iran including a freeze on the assets of Bank Melli, Iran's largest bank, over the refusal to curb its nuclear program. ](/news/2008/06/23/the-european-union-agrees-to-new-sanctions-against-iran-including-a-freeze-on-the-assets-of-bank-melli-iran-s-largest-bank-over-the-refus.md)
 _Context: Bank Melli, European Union, Iran, nuclear program, sanctions_

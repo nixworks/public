@@ -1,7 +1,7 @@
 ## [2000-04-1](/news/2000/04/1/index.md)
 
 ### [Boomerang is first broadcast on television in the United States.](/news/2000/04/1/boomerang-is-first-broadcast-on-television-in-the-united-states.md)
-_Context: Boomerang, United States_
+_Context: American, Boomerang_
 
 ### [Singapore Airlines joins the Star Alliance.](/news/2000/04/1/singapore-airlines-joins-the-star-alliance.md)
 _Context: Singapore Airlines, Star Alliance_

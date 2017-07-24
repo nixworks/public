@@ -25,7 +25,7 @@ _Context: Shanxi province_
 Via Rail has confirmed that three of its employees, all in the locomotive section, died in a train derailment in the southern Ontario city of Burlington on Sunday afternoon.
 
 ### [A trial begins in Cairo of 16 Americans and 27 others linked to an Egyptian government crackdown on non-government organizations which has created tension between the United States and Egypt. ](/news/2012/02/26/a-trial-begins-in-cairo-of-16-americans-and-27-others-linked-to-an-egyptian-government-crackdown-on-non-government-organizations-which-has-c.md)
-_Context: American, Cairo, Egypt, Government of Egypt, United States, non-government organizations_
+_Context: American, American, Cairo, Egypt, Government of Egypt, non-government organizations_
 
 ### [Two members of the Italian Marines accused of killing two Indian fishermen will be prosecuted under Indian law. ](/news/2012/02/26/two-members-of-the-italian-marines-accused-of-killing-two-indian-fishermen-will-be-prosecuted-under-indian-law.md)
 _Context: India, Indian law, Italian marines_

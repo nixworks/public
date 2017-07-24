@@ -4,7 +4,7 @@
 Third World countries given one more day to address members of how global warming may affect them.
 
 ### [ Mary Peters, the United States Secretary of Transportation, orders an immediate inspection of all truss bridges in the United States following the collapse of the I-35W Mississippi River bridge in Minneapolis. ](/news/2007/08/2/mary-peters-the-united-states-secretary-of-transportation-orders-an-immediate-inspection-of-all-truss-bridges-in-the-united-states-follow.md)
-_Context: I-35W Mississippi River bridge, Mary Peters, Minneapolis, Secretary of Transportation, United States, truss bridge_
+_Context: American, I-35W Mississippi River bridge, Mary Peters, Minneapolis, Secretary of Transportation, truss bridge_
 
 ### [ Kafeel Ahmed, who was one of the instigators of the 2007 Glasgow International Airport attack, dies in the Glasgow Royal Infirmary of the injuries he sustained in the attack. ](/news/2007/08/2/kafeel-ahmed-who-was-one-of-the-instigators-of-the-2007-glasgow-international-airport-attack-dies-in-the-glasgow-royal-infirmary-of-the-i.md)
 _Context: 2007 attack, Glasgow Royal Infirmary, Kafeel Ahmed_
@@ -31,7 +31,7 @@ _Context: 2007 Russian North Pole expedition, MIR submersibles, North Pole, Russ
 _Context: North Pacific Ocean, Richter scale, Vanuatu, earthquake, tsunami_
 
 ### [ South Korea suspends beef imports from the United States following the discovery of banned parts in a recent shipment. ](/news/2007/08/2/south-korea-suspends-beef-imports-from-the-united-states-following-the-discovery-of-banned-parts-in-a-recent-shipment.md)
-_Context: South Korea, United States, beef_
+_Context: American, South Korea, beef_
 
 ### [ Journalists in the Indian state of Manipur refuse to put out newspapers as a protest against threats from rebel groups. ](/news/2007/08/2/journalists-in-the-indian-state-of-manipur-refuse-to-put-out-newspapers-as-a-protest-against-threats-from-rebel-groups.md)
 _Context: India, Manipur, journalist, newspaper_

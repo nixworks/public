@@ -1,6 +1,6 @@
 ### [2017-07-23](/news/2017/07/23/index.md)
 
-# Nine men are found dead inside a tractor-trailer parked outside a Walmart store in the American city of San Antonio, Texas in what authorities call a case of "ruthless" human trafficking. Thirty people,  many in critical condition and suffering from heat stoke and exhaustion, were removed from the non-air  conditioned trailer which also lacked a water supply. 
+# Nine men are found dead inside a tractor-trailer parked outside a Walmart store in the American city of San Antonio, Texas in what authorities call a case of "ruthless" human trafficking. Thirty people,  many in critical condition and suffering from heat stroke and exhaustion, were removed from the non-air  conditioned trailer which also lacked a water supply. 
 
 Eight people, including two children, were found Sunday morning inside a tractor-trailer in the parking lot of a Walmart store in San Antonio, according to reports.
 

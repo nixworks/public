@@ -4,7 +4,7 @@
 _Context: Global warming, Mount Everest, Nepal, Retreat of glaciers since 1850_
 
 ### [ Somali pirates capture the Greek owned oil tanker ''Maran Centaurus'' 1,300 kilometres off the coast of Somalia. ](/news/2009/11/29/somali-pirates-capture-the-greek-owned-oil-tanker-maran-centaurus-1-300-kilometres-off-the-coast-of-somalia.md)
-_Context: Greece, Somali pirates, Somalia, oil tanker_
+_Context: Greek, Somali pirates, Somalia, oil tanker_
 
 ### [ Uruguayan voters elect Broad Front candidate Jos Mujica as their new president. ](/news/2009/11/29/uruguayan-voters-elect-broad-front-candidate-jose-mujica-as-their-new-president.md)
 (For more on the Honduras election, click [ID:nHONDURAS]) * Leftist Mujica wins -- exit polls, projections * Rightist rival Lacalle concede
@@ -55,7 +55,7 @@ Hondurans are voting on Sunday for a new president, hoping to unlock a political
 President Obiang tells Al Jazeera his leadership is unchallenged ahead of election.
 
 ### [ A United States Senate report states that Osama bin Laden was "within grasp" of the United States Army in Tora Bora in December 2001. ](/news/2009/11/29/a-united-states-senate-report-states-that-osama-bin-laden-was-within-grasp-of-the-united-states-army-in-tora-bora-in-december-2001.md)
-_Context: Osama bin Laden, Senate, Tora Bora, United States, United States Army, within grasp_
+_Context: American, Osama bin Laden, Senate, Tora Bora, United States Army, within grasp_
 
 ### [ British scientists at the University of East Anglia, who are criticised, say they will publish their figures in full. ](/news/2009/11/29/british-scientists-at-the-university-of-east-anglia-who-are-criticised-say-they-will-publish-their-figures-in-full.md)
 Latest environmental news, features and updates. Pictures, video and more. 

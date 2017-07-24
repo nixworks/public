@@ -4,7 +4,7 @@
 A Bangladeshi-flagged cargo ship hijacked by pirates off the coast of India appears to be heading towards the Somali coast, shipping officials say.
 
 ### [''The Washington Post'' reports that an FBI informant so frightened Muslim worshippers by referring to violent jihad while spying on an Islamic community centre in Irvine, California, that they reported him to the authorities. The FBI spy, a convicted fraudster, sues the FBI. ](/news/2010/12/6/the-washington-post-reports-that-an-fbi-informant-so-frightened-muslim-worshippers-by-referring-to-violent-jihad-while-spying-on-an-isla.md)
-_Context: FBI, Irvine, California, Muslim, The Washington Post, jihad_
+_Context: FBI, Irvine, California, Muslim, Washington Post, jihad_
 
 ### [Egypt calls in international shark experts following recent attacks, one fatal, on tourists in Sharm el-Sheikh in the past week. ](/news/2010/12/6/egypt-calls-in-international-shark-experts-following-recent-attacks-one-fatal-on-tourists-in-sharm-el-sheikh-in-the-past-week.md)
 _Context: Egypt, Sharm el-Sheikh, shark_

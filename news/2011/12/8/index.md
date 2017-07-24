@@ -22,13 +22,13 @@ _Context: Jon Corzine, MF Global, U.S. House of Representatives_
 Police tell people in Scotland not to travel, as severe winds of up to 165mph hit the country, leaving more than 50,000 people without power.
 
 ### [Philippines officials claim that the People's Republic of China has executed a Filipino man for drug trafficking despite a plea for clemency from the President of the Philippines Benigno Aquino III on humanitarian grounds. ](/news/2011/12/8/philippines-officials-claim-that-the-people-s-republic-of-china-has-executed-a-filipino-man-for-drug-trafficking-despite-a-plea-for-clemency.md)
-_Context: Benigno "Noynoy" Aquino III, Chinese, Filipino, Philippines, President of the Philippines, drug trafficking_
+_Context: Benigno "Noynoy" Aquino III, Chinese, Filipino, Philippine, President of the Philippines, drug trafficking_
 
 ### [Russian Prime Minister Vladimir Putin accuses the United States of sponsoring the opposition in the country, following protests over the outcome of the recent elections. ](/news/2011/12/8/russian-prime-minister-vladimir-putin-accuses-the-united-states-of-sponsoring-the-opposition-in-the-country-following-protests-over-the-out.md)
-_Context: Russia, United States, Vladimir Putin, parliamentary elections_
+_Context: American, Russia, Vladimir Putin, parliamentary elections_
 
 ### [Iranian state television shows footage of a United States Lockheed Martin RQ-170 Sentinel drone that its forces claim to have shot down. ](/news/2011/12/8/iranian-state-television-shows-footage-of-a-united-states-lockheed-martin-rq-170-sentinel-drone-that-its-forces-claim-to-have-shot-down.md)
-_Context: Iran, Lockheed Martin RQ-170 Sentinel, United States_
+_Context: American, Iran, Lockheed Martin RQ-170 Sentinel_
 
 ### [The Government of Japan apologizes to Canada over the treatment of Canadian POWs during World War II. ](/news/2011/12/8/the-government-of-japan-apologizes-to-canada-over-the-treatment-of-canadian-pows-during-world-war-ii.md)
 _Context: Canada, Japan, POWs, World War II_

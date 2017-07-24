@@ -11,7 +11,7 @@ _Context: Baghdad, Iraqi insurgency_
 _Context: Bahrain, parliamentary elections_
 
 ### [ Rescuers in the Philippines continue to look for survivors of Typhoon Durian. ](/news/2006/12/2/rescuers-in-the-philippines-continue-to-look-for-survivors-of-typhoon-durian.md)
-_Context: Philippines, Typhoon Durian_
+_Context: Philippine, Typhoon Durian_
 
 ### [ London police are examining whether the killers of Alexander Litvinenko also tried to poison Mario Scaramella, an Italian security expert who met the Russian exile on the day that he fell ill. ](/news/2006/12/2/london-police-are-examining-whether-the-killers-of-alexander-litvinenko-also-tried-to-poison-mario-scaramella-an-italian-security-expert-w.md)
 News and opinion from The Times &amp; The Sunday Times

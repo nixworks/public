@@ -28,10 +28,10 @@ _Context: Chinese, Henan Province, Lushan County, nursing home_
 _Context: Colombia, gold mine_
 
 ### [Malaysia summons a Philippines diplomat over a dispute regarding the ownership of Sabah. ](/news/2015/05/25/malaysia-summons-a-philippines-diplomat-over-a-dispute-regarding-the-ownership-of-sabah.md)
-_Context: Malaysia, Philippines, a dispute regarding the ownership of Sabah_
+_Context: Malaysia, Philippine, a dispute regarding the ownership of Sabah_
 
 ### [The People's Republic of China lodges an official complaint with the United States over a flight by an alleged spy plane over parts of the South China Sea. ](/news/2015/05/25/the-people-s-republic-of-china-lodges-an-official-complaint-with-the-united-states-over-a-flight-by-an-alleged-spy-plane-over-parts-of-the-s.md)
-_Context: China, South China Sea, United States_
+_Context: American, China, South China Sea_
 
 ### [The government of Sudan denies allegations from South Sudan that it is supporting rebels threatening oil fields in its southern neighbour. ](/news/2015/05/25/the-government-of-sudan-denies-allegations-from-south-sudan-that-it-is-supporting-rebels-threatening-oil-fields-in-its-southern-neighbour.md)
 The Sudanese government has denied supporting rebels in South Sudan after it accused Khartoum of supplying arms to the insurgents threatening its oil fields.

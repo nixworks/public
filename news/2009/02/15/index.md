@@ -19,7 +19,7 @@ _Context: Burma, Karen National Union, Myawaddy_
 _Context: Colombia, Galeras, volcanic activity_
 
 ### [ Fifty-four percent of participating Venezuelan voters approve a constitutional referendum to remove term limits for elected offices, including the Presidency. ](/news/2009/02/15/fifty-four-percent-of-participating-venezuelan-voters-approve-a-constitutional-referendum-to-remove-term-limits-for-elected-offices-includ.md)
-_Context: Venezuela, Venezuelan President, constitution, elected offices, referendum, term limit_
+_Context: Venezuela, Venezuelan President, elected offices, referendum, term limit, the constitution_
 
 ### [ Prime Minister Ehud Olmert denies reports that Israel is negotiating with Hamas. ](/news/2009/02/15/prime-minister-ehud-olmert-denies-reports-that-israel-is-negotiating-with-hamas.md)
 _Context: Ehud Olmert, Hamas, Israel, Israeli Prime Minister, fire_

@@ -22,7 +22,7 @@ IDF formulating response to report which claims property was sometimes damaged e
 Nomination of Sambo, a governor from north, must be approved by houses of parliament.
 
 ### [Following a warning, a bomb explodes outside a maximum security prison in Korydallos, Greece. ](/news/2010/05/13/following-a-warning-a-bomb-explodes-outside-a-maximum-security-prison-in-korydallos-greece.md)
-_Context: Greece, Korydallos_
+_Context: Greek, Korydallos_
 
 ### [The ''Aban Pearl'', a natural gas platform, sinks off the coast of Venezuela, with all 95 workers evacuated safely. ](/news/2010/05/13/the-aban-pearl-a-natural-gas-platform-sinks-off-the-coast-of-venezuela-with-all-95-workers-evacuated-safely.md)
 _Context: Aban Pearl, Venezuela_

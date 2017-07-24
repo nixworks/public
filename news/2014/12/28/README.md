@@ -19,7 +19,7 @@ _Context: Adriatic coast, Italian_
 Twenty-four people have been killed and eight others are missing due to floods and mudslides caused by incessant rain in Sri Lanka over the past week, offi
 
 ### [An apartment building fire near San Antonio, Texas, USA, kills five people. ](/news/2014/12/28/an-apartment-building-fire-near-san-antonio-texas-usa-kills-five-people.md)
-_Context: San Antonio, Texas_
+_Context: San Antonio, Texas, Texas_
 
 ### [The Croatian presidential election goes to a run-off between incumbent Ivo Josipovic and challenger Kolinda Grabar-Kitarovic. ](/news/2014/12/28/the-croatian-presidential-election-goes-to-a-run-off-between-incumbent-ivo-josipovia-and-challenger-kolinda-grabar-kitarovia.md)
 _Context: Croatian presidential election, Ivo Josipovic, Kolinda Grabar-Kitarovic_

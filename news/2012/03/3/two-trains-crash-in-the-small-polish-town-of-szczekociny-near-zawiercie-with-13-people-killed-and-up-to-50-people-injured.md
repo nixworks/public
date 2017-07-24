@@ -13,6 +13,5 @@ Two trains collide on the Warsaw-Krakow mainline in southern Poland, leaving 16 
 
 ### Related:
 
-1. [Poles march against a bill that critics say might decrease judicial independence in Poland. Hungary has supported the bill while the European Union has opposed it. The protesters hope that the President Andrzej Duda would intervene against the proposed law. ](/news/2017/07/22/poles-march-against-a-bill-that-critics-say-might-decrease-judicial-independence-in-poland-hungary-has-supported-the-bill-while-the-europea.md) _Context: Poles_
-2. [The death toll from the train crash in Poland rises to 16. ](/news/2012/03/4/the-death-toll-from-the-train-crash-in-poland-rises-to-16.md) _Context: train crash_
-3. [Polish poet Wislawa Szymborska, former winner of the Nobel Prize for Literature, dies of lung cancer at 88. ](/news/2012/02/1/polish-poet-wisaawa-szymborska-former-winner-of-the-nobel-prize-for-literature-dies-of-lung-cancer-at-88.md) _Context: Poles_
+1. [The death toll from the train crash in Poland rises to 16. ](/news/2012/03/4/the-death-toll-from-the-train-crash-in-poland-rises-to-16.md) _Context: train crash_
+2. [Polish poet Wislawa Szymborska, former winner of the Nobel Prize for Literature, dies of lung cancer at 88. ](/news/2012/02/1/polish-poet-wisaawa-szymborska-former-winner-of-the-nobel-prize-for-literature-dies-of-lung-cancer-at-88.md) _Context: Polish_

@@ -10,7 +10,7 @@ _Context: George W. Bush, Israel, Palestinian state, President of the United Sta
 _Context: 2008, Bill Richardson, Governor of New Mexico_
 
 ### [ Four people die after two tractor trailers collide crossing the Pharr-Reynosa International Bridge on the Mexico-United States border. ](/news/2008/01/10/four-people-die-after-two-tractor-trailers-collide-crossing-the-pharr-reynosa-international-bridge-on-the-mexicoaunited-states-border.md)
-_Context: Mexico-U.S. border, Pharr-Reynosa International Bridge, tractor trailer_
+_Context: Mexico-U.S. border, Pharr-Reynosa International Bridge, tractor-trailer_
 
 ## [Previous Day...](/news/2008/01/9/index.md)
 

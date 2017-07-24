@@ -28,7 +28,7 @@ _Context: Amnesty International, Gaza Strip, Israel, Israeli blockade, consumer 
 _Context: Canada, David Lloyd Johnston, Governor General, Michaelle Jean, University of Waterloo_
 
 ### [United States Republican Party Chairman Michael Steele again resist calls for him to step down after he asserted that the War in Afghanistan was a "war of Obama's choosing". ](/news/2010/07/8/united-states-republican-party-chairman-michael-steele-again-resist-calls-for-him-to-step-down-after-he-asserted-that-the-war-in-afghanistan.md)
-_Context: Michael Steele, Republican, United States, War in Afghanistan (2001-present)_
+_Context: American, Michael Steele, Republican, War in Afghanistan (2001-present)_
 
 ### [US federal judge Joseph Louis Tauro, in two separate cases,  rules that a federal ban against gay marriage is unconstitutional, as it interferes with a state's right to define marriage. ](/news/2010/07/8/us-federal-judge-joseph-louis-tauro-in-two-separate-cases-rules-that-a-federal-ban-against-gay-marriage-is-unconstitutional-as-it-interf.md)
 A U.S. judge in Boston has ruled that a federal gay marriage ban is unconstitutional because it interferes with the right of a state to define marriage.
@@ -49,7 +49,7 @@ Ten people plead guilty in a US court to spying for Russia, as the judge orders 
 The involuntary manslaughter conviction of a white former transit officer in the death of an unarmed black man set the stage for a sentencing that could be just as explosive as the trial. 
 
 ### [Greece heads for a general strike after legislators raise the retirement age from 60 to 65. ](/news/2010/07/8/greece-heads-for-a-general-strike-after-legislators-raise-the-retirement-age-from-60-to-65.md)
-_Context: Greece_
+_Context: Greek_
 
 ### [The IMF raises global economic growth forecast for this year from 4.2% to 4.6%. ](/news/2010/07/8/the-imf-raises-global-economic-growth-forecast-for-this-year-from-4-2-to-4-6.md)
 The International Monetary Fund raises its world economic growth forecast for 2010 from 4.2% to 4.6%, but downgrades the UK.

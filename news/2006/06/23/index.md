@@ -4,16 +4,16 @@
 _Context: Chad, Chadian-Sudanese conflict, Darfur conflict, Human Rights Watch, Janjaweed, Sudan, Sudanese cabinet, UFDC, child soldiers_
 
 ### [ Director of the United States Missile Defense Agency, Air Force Lt. Gen. Henry A. Obering III, stated that he is "very confident" any North Korean missile headed towards the United States would be destroyed mid-flight by interceptor missiles if approved by the President. ](/news/2006/06/23/director-of-the-united-states-missile-defense-agency-air-force-lt-gen-henry-a-obering-iii-stated-that-he-is-very-confident-any-north.md)
-_Context: Air Force, George W. Bush, Missile Defense Agency, North Korea, United States_
+_Context: Air Force, American, George W. Bush, Missile Defense Agency, North Korea_
 
 ### [ U.S. President George W. Bush has issued an executive order stating that he will limit taking of private property by the federal government and that it must "benefit... the general public...and not merely for the purpose of economic interest of private properties..."  ](/news/2006/06/23/u-s-president-george-w-bush-has-issued-an-executive-order-stating-that-he-will-limit-taking-of-private-property-by-the-federal-government.md)
-_Context: George W. Bush, President of the United States, United States, executive order_
+_Context: American, George W. Bush, President of the United States, executive order_
 
 ### [ Saddam Hussein has ended a brief hunger strike, after missing one meal in his prison. He did this in protest of the killing of one of his lawyers. ](/news/2006/06/23/saddam-hussein-has-ended-a-brief-hunger-strike-after-missing-one-meal-in-his-prison-he-did-this-in-protest-of-the-killing-of-one-of-his-l.md)
 Saddam Hussein thinks that the United States will have to seek his help to quell the insurgency in Iraq and open the way for U.S. forces to withdraw, his chief lawyer said Sunday.
 
 ### [ A United States warship is reported to have shot down a missile in the Pacific, in a test of their now operational sea-based missile defense system. ](/news/2006/06/23/a-united-states-warship-is-reported-to-have-shot-down-a-missile-in-the-pacific-in-a-test-of-their-now-operational-sea-based-missile-defens.md)
-_Context: North Pacific Ocean, United States, missile interceptor_
+_Context: American, North Pacific Ocean, missile interceptor_
 
 ### [ Harriet, a Galapagos tortoise, has died at age 176. Harriet was one of the oldest known animals in the world. ](/news/2006/06/23/harriet-a-galapagos-tortoise-has-died-at-age-176-harriet-was-one-of-the-oldest-known-animals-in-the-world.md)
 _Context: Galapagos tortoise, Harriet_

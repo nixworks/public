@@ -91,7 +91,7 @@ _Context: Governor of Illinois, Illinois, Pat Quinn, death penalty, death row_
 _Context: Discovery, Florida, Kennedy Space Center, Space Shuttle_
 
 ### [The United States Food and Drug Administration approves the use of the drug Belimumab (Benlysta) to treat lupus, the first drug to be approved for this purpose in 56 years. ](/news/2011/03/9/the-united-states-food-and-drug-administration-approves-the-use-of-the-drug-belimumab-benlysta-to-treat-lupus-the-first-drug-to-be-approv.md)
-_Context: Belimumab, U.S. Food and Drug Administration, United States, lupus_
+_Context: American, Belimumab, U.S. Food and Drug Administration, lupus_
 
 ## [Previous Day...](/news/2011/03/8/index.md)
 

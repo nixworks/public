@@ -16,7 +16,7 @@ Rodney King, the African American at the centre of the 1992 LA riots, is found d
 Two Palestinians are shot dead by an Israeli truck driver in the West Bank after allegedly attacking him in a botched robbery, Israeli police say.
 
 ### [Voters in Greece go to the polls for a second legislative election after the first election on May 6 failed to form a coalition government. ](/news/2012/06/17/voters-in-greece-go-to-the-polls-for-a-second-legislative-election-after-the-first-election-on-may-6-failed-to-form-a-coalition-government.md)
-_Context: Greece, failed, first election on May 6, governing coalition, second legislative election_
+_Context: Greek, failed, first election on May 6, governing coalition, second legislative election_
 
 ### [Voters in Egypt go to the polls for a second day to vote in the second round of a presidential election, with former prime minister Ahmed Shafik and Mohamed Morsi of the Muslim Brotherhood's Freedom and Justice Party both competing for the presidency. ](/news/2012/06/17/voters-in-egypt-go-to-the-polls-for-a-second-day-to-vote-in-the-second-round-of-a-presidential-election-with-former-prime-minister-ahmed-sh.md)
 _Context: Ahmed Shafiq, Egypt, Freedom and Justice Party, Mohamed Morsi, presidential election, prime minister_

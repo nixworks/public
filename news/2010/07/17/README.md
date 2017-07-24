@@ -43,7 +43,7 @@ British tour operator Goldtrail collapses, leaving thousands of holidaymakers ab
 _Context: Israel, West Bank_
 
 ### [Typhoon Conson makes landfall near Hai Phong, Vietnam, after devastating Southern China and the Philippines with at least 65 dead. ](/news/2010/07/17/typhoon-conson-makes-landfall-near-hai-phong-vietnam-after-devastating-southern-china-and-the-philippines-with-at-least-65-dead.md)
-_Context: Hai Phong, Philippines, Typhoon Conson, Vietnam_
+_Context: Hai Phong, Philippine, Typhoon Conson, Vietnam_
 
 ### [One month after Israel's announcement it was easing its Gazan blockade the humanitarian situation remains dire. ](/news/2010/07/17/one-month-after-israel-s-announcement-it-was-easing-its-gazan-blockade-the-humanitarian-situation-remains-dire.md)
 _Context: Gaza Strip, Israel_
@@ -52,7 +52,7 @@ _Context: Gaza Strip, Israel_
 Two oil pipelines in the Chinese port city of Dalian have exploded, starting a fire which burned for 15 hours.
 
 ### [Greece experiences its first forest fires of the summer season. ](/news/2010/07/17/greece-experiences-its-first-forest-fires-of-the-summer-season.md)
-_Context: Greece_
+_Context: Greek_
 
 ### [Twenty-eight coal miners die after a fire in their mine near Hancheng City in China's Shaanxi Province. ](/news/2010/07/17/twenty-eight-coal-miners-die-after-a-fire-in-their-mine-near-hancheng-city-in-china-s-shaanxi-province.md)
 _Context: China, Hancheng City, Shaanxi province, coal mine_

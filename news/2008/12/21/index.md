@@ -19,7 +19,7 @@ _Context: Canada, US$, bailout, troubled automotive industry_
 _Context: 2008 Russian financial crisis, Internal Troops, Russia, Vladivostok, import, import tariffs, used automobiles_
 
 ### [ Clashes between rioters and the Hellenic Police continue near the National Technical University of Athens in Greece. ](/news/2008/12/21/clashes-between-rioters-and-the-hellenic-police-continue-near-the-national-technical-university-of-athens-in-greece.md)
-_Context: 2008 Greek riots, Athens, Greece, Greek police, National Technical University_
+_Context: 2008 Greek riots, Athens, Greek, Greek police, National Technical University_
 
 ### [ The Oberoi Trident and Taj Mahal Palace & Tower hotels in Mumbai reopen less than a month after the November terrorist attacks. ](/news/2008/12/21/the-oberoi-trident-and-taj-mahal-palace-tower-hotels-in-mumbai-reopen-less-than-a-month-after-the-november-terrorist-attacks.md)
 _Context: Mumbai, November terrorist attacks, Oberoi Hotel, Taj Mahal Palace & Tower_

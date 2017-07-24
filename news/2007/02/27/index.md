@@ -31,7 +31,7 @@ _Context: 2007 Bagram Air Base bombing, Bagram Air Base, Dick Cheney, Taliban, U
 _Context: North Korea, North Korean nuclear weapons program, South Korea, six-party talks_
 
 ### [ The ambassadors from the United States and Italy to Sri Lanka are injured by mortar fire while visiting eastern Sri Lanka. ](/news/2007/02/27/the-ambassadors-from-the-united-states-and-italy-to-sri-lanka-are-injured-by-mortar-fire-while-visiting-eastern-sri-lanka.md)
-_Context: Italian, Mortar, Sri Lanka, United States, ambassador_
+_Context: American, Italian, Mortar, Sri Lanka, ambassador_
 
 ### [ Prime Minister of Papua New Guinea Michael Somare removes Minister for Defence Martin Aini from office over the Julian Moti affair. ](/news/2007/02/27/prime-minister-of-papua-new-guinea-michael-somare-removes-minister-for-defence-martin-aini-from-office-over-the-julian-moti-affair.md)
 _Context: Julian Moti, Martin Aini, Michael Somare, Minister for Defence, Prime Minister_

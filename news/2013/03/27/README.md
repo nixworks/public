@@ -7,7 +7,7 @@ Five people are reported killed as Thai government begins talks with separatists
 _Context: France, Government, January 2013, Mali, Northern Mali conflict (2012-present), Operation Serval_
 
 ### [Terrorism in Greece:A bomb explodes outside the residence of a Greek shipowner near Acropolis in central Athens; no one is injured. ](/news/2013/03/27/terrorism-in-greece-pa-bomb-explodes-outside-the-residence-of-a-greek-shipowner-near-acropolis-in-central-athens-no-one-is-injured.md)
-_Context: Acropolis, Athens, Greece, Terrorism in Greece_
+_Context: Acropolis, Athens, Greek, Terrorism in Greece_
 
 ### [The Rolling Stones are to headline Glastonbury Festival 2013 in Pilton, Somerset, England. ](/news/2013/03/27/the-rolling-stones-are-to-headline-glastonbury-festival-2013-in-pilton-somerset-england.md)
 As the Rolling Stones confirm they will headline Glastonbury for the first time in 2013, Neil McCormick looks at why it took them so long.
@@ -22,7 +22,7 @@ _Context: Kate Tempest, Ted Hughes Award, poetry_
 _Context: 2013 Nantou earthquake, Taipei, Taiwan, earthquake, hits, magnitude_
 
 ### [A mini-tornado in the Philippines kills 12 people when a motorboat capsized. ](/news/2013/03/27/a-mini-tornado-in-the-philippines-kills-12-people-when-a-motorboat-capsized.md)
-_Context: Philippines, speedboat, tornado_
+_Context: Philippine, speedboat, tornado_
 
 ### [North Korea renews war threats against South Korea and the United States, saying conditions "for a simmering nuclear war" have been created on the Korean peninsula. The country also says it is cutting a military hotline, which facilitates the travel of South Korean workers to a joint industrial complex in Kaesong. ](/news/2013/03/27/north-korea-renews-war-threats-against-south-korea-and-the-united-states-saying-conditions-for-a-simmering-nuclear-war-have-been-created.md)
 Communist state says it is cutting all direct military contact with South Korea.

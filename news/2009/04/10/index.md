@@ -4,7 +4,7 @@
 _Context: Cape Fear Bank, Colorado, Greeley, New Frontier Bank, North Carolina, Wilmington, banks failed_
 
 ### [ At least 27 tornadoes kill six people throughout the Southern United States. ](/news/2009/04/10/at-least-27-tornadoes-kill-six-people-throughout-the-southern-united-states.md)
-_Context: Southern United States, United States, kill, tornado_
+_Context: American, Southern United States, kill, tornado_
 
 ### [ The Fourth East Asia Summit begins in Pattaya, Thailand. ](/news/2009/04/10/the-fourth-east-asia-summit-begins-in-pattaya-thailand.md)
 _Context: East Asia Summit, Fourth, Pattaya, Thailand_
@@ -25,7 +25,7 @@ _Context: Mexico City, closes, freshwater, water supply_
 _Context: Japan, US$, economic stimulus package_
 
 ### [ Three people are shot at OAED Vocational College near Athens, Greece. ](/news/2009/04/10/three-people-are-shot-at-oaed-vocational-college-near-athens-greece.md)
-_Context: Athens, Greece, OAED Vocational College, shot_
+_Context: Athens, Greek, OAED Vocational College, shot_
 
 ## [Previous Day...](/news/2009/04/9/index.md)
 

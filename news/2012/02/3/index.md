@@ -16,7 +16,7 @@ _Context: Homs, Syrian Observatory for Human Rights_
 * All Malev flights grounded as of 0500 GMT on Friday* Comes after EU ruling in January to repay state aid* Malev accounted for 40 pc
 
 ### [Stocks rise sharply in the United States following positive jobs information with the Nasdaq Composite reaching its highest level since 2000 and the Dow Jones Industrial Average nearing levels last reached in 2008. ](/news/2012/02/3/stocks-rise-sharply-in-the-united-states-following-positive-jobs-information-with-the-nasdaq-composite-reaching-its-highest-level-since-2000.md)
-_Context: Dow Jones Industrial Average, NASDAQ, United States_
+_Context: American, Dow Jones Industrial Average, NASDAQ_
 
 ### [In the United States, employers added over 240,000 jobs in the month of January and the unemployment rate dropped to 8.3%, the lowest percent in three years. ](/news/2012/02/3/in-the-united-states-employers-added-over-240-000-jobs-in-the-month-of-january-and-the-unemployment-rate-dropped-to-8-3-the-lowest-percen.md)
 American employers substantially stepped up their hiring in January, bringing the unemployment rate down for the fifth month in a row.

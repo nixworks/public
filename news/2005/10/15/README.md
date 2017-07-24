@@ -1,7 +1,7 @@
 ## [2005-10-15](/news/2005/10/15/index.md)
 
 ### [ Conflict in Iraq: Jean Ziegler, a Human rights investigator and senior United Nations official, has accuses the United States and occupying forces of "using hunger and deprivation of water as a weapon of war against the civilian population" in Iraq. ](/news/2005/10/15/conflict-in-iraq-p-jean-ziegler-a-human-rights-investigator-and-senior-united-nations-official-has-accuses-the-united-states-and-occupyin.md)
-_Context: Conflict in Iraq, Human rights, Iraq, Jean Ziegler, United Nations, United States_
+_Context: American, Conflict in Iraq, Human rights, Iraq, Jean Ziegler, United Nations_
 
 ### [ Crown Princess Mary of Denmark gives birth to her first child, a 3.5 kg boy, at 0157 local time (2357 UTC Friday). The prince, likely to be named Christian, is second in line of succession to Europe's oldest crown. ](/news/2005/10/15/crown-princess-mary-of-denmark-gives-birth-to-her-first-child-a-3-5-kg-boy-at-0157-local-time-2357-utc-friday-the-prince-likely-to-be.md)
 _Context: Christian, Crown Princess Mary of Denmark_

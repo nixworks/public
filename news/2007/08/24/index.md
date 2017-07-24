@@ -10,7 +10,7 @@ _Context: James Seale, Ku Klux Klan, Mississippi, U.S. state, life imprisonment_
 _Context: Georgia, Russia_
 
 ### [ United States District Court judge William Hoeveler rules against former Panamanian leader Manuel Noriega returning to Panama after he completes his sentence in a United States prison stating that there was no reason why he shouldn't be extradited to France to face a prison term there. ](/news/2007/08/24/united-states-district-court-judge-william-hoeveler-rules-against-former-panamanian-leader-manuel-noriega-returning-to-panama-after-he-comp.md)
-_Context: France, Manuel Noriega, Panama, U.S. federal court, United States, William Hoeveler, judge, prison_
+_Context: American, France, Manuel Noriega, Panama, U.S. federal court, William Hoeveler, judge, prison_
 
 ### [ Citing a "very reliable" source at the University of Miami, the Swedish broad sheet newspaper ''Norra Skne'' reports that Cuban leader Fidel Castro is dead. ](/news/2007/08/24/citing-a-very-reliable-source-at-the-university-of-miami-the-swedish-broad-sheet-newspaper-norra-skane-reports-that-cuban-leader-fid.md)
 _Context: Cuba, Fidel Castro, Sweden, University of Miami_
@@ -19,7 +19,7 @@ _Context: Cuba, Fidel Castro, Sweden, University of Miami_
 _Context: McGill station, Montreal Metro_
 
 ### [ At least 20 people are killed in Peloponnese, Greece as a result of 150 wildfires burning out of control: two regions have been declared as disaster areas. ](/news/2007/08/24/at-least-20-people-are-killed-in-peloponnese-greece-as-a-result-of-150-wildfires-burning-out-of-control-two-regions-have-been-declared-as.md)
-_Context: Greece, Peloponnese, wildfire_
+_Context: Greek, Peloponnese, wildfire_
 
 ### [ A U.S. circuit judge sentences John Couey to death for the rape and murder of a 9-year-old girl Jessica Lunsford in Citrus County, Florida. ](/news/2007/08/24/a-u-s-circuit-judge-sentences-john-couey-to-death-for-the-rape-and-murder-of-a-9-year-old-girl-jessica-lunsford-in-citrus-county-florida.md)
 A Florida judge this afternoon sentenced sex offender John Evander Couey to die for the brutal 2005 rape and murder of 9-year-old Jessica Lunsford. &quot;Sentencing is about a final accounting, it is a closure, it is a reckoning,&quot; Circuit Judge Richard Howard said at a sentencing hearing this afternoon...
@@ -28,7 +28,7 @@ A Florida judge this afternoon sentenced sex offender John Evander Couey to die 
 _Context: Ilyushin Il-114, Russia, Venezuela_
 
 ### [ Flood warnings are in place in 10 US states from Ohio to Texas with at least 25 people believed to have died in the past week. ](/news/2007/08/24/flood-warnings-are-in-place-in-10-us-states-from-ohio-to-texas-with-at-least-25-people-believed-to-have-died-in-the-past-week.md)
-_Context: Ohio, Texas, U.S. state, United States, flood_
+_Context: American, Ohio, Texas, U.S. state, flood_
 
 ### [ Mexican oil platforms resume production following the end of the threat from Hurricane Dean. ](/news/2007/08/24/mexican-oil-platforms-resume-production-following-the-end-of-the-threat-from-hurricane-dean.md)
 _Context: Hurricane Dean, Mexico, offshore oil platform_

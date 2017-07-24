@@ -4,7 +4,7 @@
 At least six mediators have been killed by pro-government militiamen in the Syrian province of Homs while trying to broker talks, reports say.
 
 ### [Unions in Greece call a general strike over new austerity measures. ](/news/2013/07/16/unions-in-greece-call-a-general-strike-over-new-austerity-measures.md)
-_Context: Greece, general strike_
+_Context: Greek, general strike_
 
 ### [McDonald's announces that it will open its first outlet in Viet Nam early next year, which will be in Ho Chi Minh City, and will be operated by Henry Nguyen, a Vietnamese businessman and the son-in-law of Vietnam's Prime Minister Nguyen Tan Dung. ](/news/2013/07/16/mcdonald-s-announces-that-it-will-open-its-first-outlet-in-viet-nam-early-next-year-which-will-be-in-ho-chi-minh-city-and-will-be-operated.md)
 _Context: Ho Chi Minh City, McDonald's, Nguyen Tan Dung, Viet Nam_

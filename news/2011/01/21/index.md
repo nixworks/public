@@ -88,7 +88,7 @@ _Context: Andy Coulson, David Cameron, News of the World_
 _Context: Aung San Suu Kyi, Burma, Rangoon_
 
 ### [United States Representative Gabrielle Giffords leaves hospital in Tucson, Arizona for rehabilitation in Houston, Texas less than two weeks after the 2011 Tucson shooting. ](/news/2011/01/21/united-states-representative-gabrielle-giffords-leaves-hospital-in-tucson-arizona-for-rehabilitation-in-houston-texas-less-than-two-weeks.md)
-_Context: 2011 Tucson shooting, Gabrielle Giffords, Houston, Texas, Tucson, Arizona, United States, United States House of Representatives, hospital_
+_Context: 2011 Tucson shooting, American, Gabrielle Giffords, Houston, Texas, Tucson, Arizona, United States House of Representatives, hospital_
 
 ## [Previous Day...](/news/2011/01/20/index.md)
 

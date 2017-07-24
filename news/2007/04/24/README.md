@@ -19,7 +19,7 @@ _Context: 2007 Abortion Law, Legislative Assembly, Mexico City, abortion, first 
 _Context: Boris Yeltsin, Moscow, President, Russia_
 
 ### [ Prisoners riot at the New Castle Correctional Facility in Indiana, United States. ](/news/2007/04/24/prisoners-riot-at-the-new-castle-correctional-facility-in-indiana-united-states.md)
-_Context: Indiana, New Castle Correctional Facility, United States, prison riot_
+_Context: American, Indiana, New Castle Correctional Facility, prison riot_
 
 ### [ Ethiopian rebels from the Ogaden National Liberation Front raid a Chinese-run oil field in near the country's border with Somalia, killing 74. ](/news/2007/04/24/ethiopian-rebels-from-the-ogaden-national-liberation-front-raid-a-chinese-run-oil-field-in-near-the-country-s-border-with-somalia-killing.md)
 _Context: China, Ethiopia, Ogaden National Liberation Front, Somalia, oil field, raid_

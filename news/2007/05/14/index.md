@@ -1,7 +1,7 @@
 ## [2007-05-14](/news/2007/05/14/index.md)
 
 ### [ Legislative and local elections are being held currently in the Philippines. ](/news/2007/05/14/legislative-and-local-elections-are-being-held-currently-in-the-philippines.md)
-_Context: Philippine general election, Philippines_
+_Context: Philippine, Philippine general election_
 
 ### [ Jorge Daniel Castro, the head of the Colombian National Police force and Guillermo Chavez, the intelligence chief, resign over an illegal wiretapping scandal. ](/news/2007/05/14/jorge-daniel-castro-the-head-of-the-colombian-national-police-force-and-guillermo-chavez-the-intelligence-chief-resign-over-an-illegal-w.md)
 _Context: Colombian National Police, Guillermo Chavez, Jorge Daniel Castro, wiretapping_
@@ -16,7 +16,7 @@ _Context: Deputy Attorney General, Paul McNulty, U.S. Department of Justice_
 _Context: Fatah, Hamas, Hani Kawasmeh, Palestinian, ceasefire_
 
 ### [ President George W. Bush orders United States government agencies to take regulatory steps to reduce automobile emissions. ](/news/2007/05/14/president-george-w-bush-orders-united-states-government-agencies-to-take-regulatory-steps-to-reduce-automobile-emissions.md)
-_Context: Auto, George W. Bush, President of the United States, United States_
+_Context: American, Auto, George W. Bush, President of the United States_
 
 ### [ The U.S. military is to block troops from using YouTube and MySpace and 11 other popular websites for sharing photos, video clips and messages. ](/news/2007/05/14/the-u-s-military-is-to-block-troops-from-using-youtube-and-myspace-and-11-other-popular-websites-for-sharing-photos-video-clips-and-messa.md)
 _Context: MySpace, YouTube, military, video clips_

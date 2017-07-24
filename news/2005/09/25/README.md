@@ -16,7 +16,7 @@ _Context: Alliance of the Democratic Left, Civic Platform, Law and Justice, Poli
 _Context: 2011, European Union, Swiss, referendum_
 
 ### [ Conflict in Iraq: At least four Shia Muslims, believed to be members of the Mahdi Army are killed by US soldiers in a gunfight following a U.S. raid into Sadr City, eastern Baghdad. ](/news/2005/09/25/conflict-in-iraq-p-at-least-four-shia-muslims-believed-to-be-members-of-the-mahdi-army-are-killed-by-us-soldiers-in-a-gunfight-following-a.md)
-_Context: Baghdad, Conflict in Iraq, Mahdi Army, Muslim, Sadr City, Shia, US soldiers, United States_
+_Context: American, Baghdad, Conflict in Iraq, Mahdi Army, Muslim, Sadr City, Shia, US soldiers_
 
 ### [ Conflict in Afghanistan: 5 US soldiers die when a Chinook helicopter crashes in Zabul, southern Afghanistan. ](/news/2005/09/25/conflict-in-afghanistan-5-us-soldiers-die-when-a-chinook-helicopter-crashes-in-zabul-southern-afghanistan.md)
 _Context: Afghanistan, CH-47 Chinook, US soldiers, War in Afghanistan (2001-present), Zabul_
@@ -28,7 +28,7 @@ _Context: Washington, D.C._
 IDF launches operation &#39;First Rain,&#39; hits Hamas, al-Aqsa Martyrs&#39; Brigades targets in Gaza Strip in response to Qassam rocket barrage directed at Israeli communities over weekend. More than 20 Palestinians hurt; earlier, cabinet approves harsh measures, including renewed targeted killings, artillery fire, attacks on infrastructure in Gaza; meanwhile, 150 wanted Palestinians arrested in broad overnight operation
 
 ### [ Eurobasket 2005: Greece beats Germany 78 to 62 and wins for the second time in its history the Eurobasket.](/news/2005/09/25/eurobasket-2005-greece-beats-germany-78-to-62-and-wins-for-the-second-time-in-its-history-the-eurobasket.md)
-_Context: Eurobasket 2005, Greece_
+_Context: Eurobasket 2005, Greek_
 
 ## [Previous Day...](/news/2005/09/24/index.md)
 

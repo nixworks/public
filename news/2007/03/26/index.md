@@ -40,7 +40,7 @@ _Context: Chinese President, Hu Jintao, Russia, energy, trade_
 A dispute over the proper role of military defense lawyers is intensifying as military commissions reopen at Guantánamo Bay, Cuba.
 
 ### [ A 5.3 magnitude aftershock hits the Noto Peninsula of Honshu, 300 km northwest of Tokyo, a day after a 6.9 magnitude earthquake hits the same area. ](/news/2007/03/26/a-5-3-magnitude-aftershock-hits-the-noto-peninsula-of-honsha-300-km-northwest-of-tokyo-a-day-after-a-6-9-magnitude-earthquake-hits-the-s.md)
-_Context: Honshu Island, Noto Peninsula, Tokyo, aftershock, earthquake_
+_Context: Aftershock, Honshu Island, Noto Peninsula, Tokyo, earthquake_
 
 ### [ Sri Lankan Civil War: The Sri Lanka Army claims that an airbase adjacent to Bandaranaike International Airport was subjected to air attack by the Tamil Tigers, making it the first air attack launched by the Tigers. ](/news/2007/03/26/sri-lankan-civil-war-the-sri-lanka-army-claims-that-an-airbase-adjacent-to-bandaranaike-international-airport-was-subjected-to-air-attack.md)
 _Context: Army, Bandaranaike International Airport, Sri Lankan Civil War, Tamil Tigers_

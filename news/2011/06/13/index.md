@@ -34,7 +34,7 @@ _Context: Abyei, South Sudan, Sudan, demilitarise_
 The US secretary of state cuts short a three-nation tour of Africa due to a volcanic eruption that threatened to leave her stranded in Ethiopia.
 
 ### [Tens of thousands of people in Christchurch, New Zealand, are left without power as the city is hit by powerful aftershocks of the 2011 Christchurch earthquake. ](/news/2011/06/13/tens-of-thousands-of-people-in-christchurch-new-zealand-are-left-without-power-as-the-city-is-hit-by-powerful-aftershocks-of-the-2011-chri.md)
-_Context: 2011 Christchurch earthquake, Christchurch, New Zealand, aftershock_
+_Context: 2011 Christchurch earthquake, Aftershock, Christchurch, New Zealand_
 
 ### [The US National Weather Service issues a flash flood warning after the Missouri River breaches a levee near Hamburg, Iowa. ](/news/2011/06/13/the-us-national-weather-service-issues-a-flash-flood-warning-after-the-missouri-river-breaches-a-levee-near-hamburg-iowa.md)
 _Context: Flash flooding, Hamburg, Iowa, Missouri River, National Weather Service, levee_

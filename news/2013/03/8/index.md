@@ -1,7 +1,7 @@
 ## [2013-03-8](/news/2013/03/8/index.md)
 
 ### [Piracy in Somalia:The Greek-owned oil tanker ''MT Smyrni'' is released along with its 26 crew members for a reported ransom of $9.5 million after being held hostage for 10 months. ](/news/2013/03/8/piracy-in-somalia-pthe-greek-owned-oil-tanker-mt-smyrni-is-released-along-with-its-26-crew-members-for-a-reported-ransom-of-9-5-million.md)
-_Context: Greece, Somali pirates_
+_Context: Greek, Somali pirates_
 
 ### [Tropical Cyclone Sandra forms in the Coral Sea off the coast of the Australian state of Queensland. ](/news/2013/03/8/tropical-cyclone-sandra-forms-in-the-coral-sea-off-the-coast-of-the-australian-state-of-queensland.md)
 _Context: Australia, Coral Sea, Queensland, Tropical Cyclone Sandra_

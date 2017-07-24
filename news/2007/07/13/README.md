@@ -16,10 +16,10 @@ The Philippines Government says a deal to expand intelligence sharing with Indon
 _Context: International Atomic Energy Agency, Iran_
 
 ### [ Typhoon Man-yi: The death toll in the sinking of the MV ''Blue Water Princess'' of the coast of Luzon in the Philippines rises to 15. ](/news/2007/07/13/typhoon-man-yi-p-the-death-toll-in-the-sinking-of-the-mv-blue-water-princess-of-the-coast-of-luzon-in-the-philippines-rises-to-15.md)
-_Context: Luzon, Philippines, Typhoon Man-yi_
+_Context: Luzon, Philippine, Typhoon Man-yi_
 
 ### [ North Korea's military seeks talks with the United States to discuss "peace and security on the Korean peninsula." ](/news/2007/07/13/north-korea-s-military-seeks-talks-with-the-united-states-to-discuss-peace-and-security-on-the-korean-peninsula.md)
-_Context: Korean Peninsula, North Korea, United States_
+_Context: American, Korean Peninsula, North Korea_
 
 ## [Previous Day...](/news/2007/07/12/index.md)
 

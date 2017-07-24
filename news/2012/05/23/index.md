@@ -1,10 +1,10 @@
 ## [2012-05-23](/news/2012/05/23/index.md)
 
 ### [A drone attack conducted by the United States kills five people in a tribal area of North Waziristan, Pakistan. ](/news/2012/05/23/a-drone-attack-conducted-by-the-united-states-kills-five-people-in-a-tribal-area-of-north-waziristan-pakistan.md)
-_Context: North Waziristan, United States, drones launch_
+_Context: American, North Waziristan, drones launch_
 
 ### [The Iranian navy assists an American cargo ship that was attacked by pirates off the United Arab Emirates. ](/news/2012/05/23/the-iranian-navy-assists-an-american-cargo-ship-that-was-attacked-by-pirates-off-the-united-arab-emirates.md)
-_Context: Iranian Naval, United Arab Emirates, United States_
+_Context: American, Iranian Naval, United Arab Emirates_
 
 ### [Georgia-native Phillip Phillips is crowned the eleventh ''American Idol''. Runner-up Jessica Sanchez is the first contestant of Asian ancestry to advance in the finals. ](/news/2012/05/23/georgia-native-phillip-phillips-is-crowned-the-eleventh-american-idol-runner-up-jessica-sanchez-is-the-first-contestant-of-asian-ancest.md)
 _Context: American Idol, Georgia, Jessica Sanchez, Phillip Phillips, eleventh_

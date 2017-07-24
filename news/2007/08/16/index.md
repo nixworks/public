@@ -4,7 +4,7 @@
 Three rescue workers are dead and six others were injured during an attempt to reach six men trapped at Crandall Canyon Mine, officials said.
 
 ### [ The leaders of Russia, China and Iran use the forum of the Shanghai Cooperation Organisation to warn the United States not to become too heavily involved in Central Asia. ](/news/2007/08/16/the-leaders-of-russia-china-and-iran-use-the-forum-of-the-shanghai-cooperation-organisation-to-warn-the-united-states-not-to-become-too-he.md)
-_Context: Central Asia, China, Iran, Russia, Shanghai Cooperation Organisation, United States_
+_Context: American, Central Asia, China, Iran, Russia, Shanghai Cooperation Organisation_
 
 ### [ The British government is preparing to evacuate all Britons from Zimbabwe, about 22,000 people, due to increasing violence and shortage of food. ](/news/2007/08/16/the-british-government-is-preparing-to-evacuate-all-britons-from-zimbabwe-about-22-000-people-due-to-increasing-violence-and-shortage-of.md)
 _Context: British government, Zimbabwe_
@@ -43,7 +43,7 @@ U.S. forces launched an airborne assault on a desert compound south of Baghdad o
 _Context: Almaz Atambayev, China, Chinese President, Hu Jintao, Kyrgyzstan, Prime Minister, Turkmenistan_
 
 ### [ Hugo Chavez, the President of Venezuela, announces plans to abolish term limits for the President by changing the Constitution. ](/news/2007/08/16/hugo-cha-vez-the-president-of-venezuela-announces-plans-to-abolish-term-limits-for-the-president-by-changing-the-constitution.md)
-_Context: Hugo Chavez, President, Venezuela, constitution, term limit_
+_Context: Hugo Chavez, President, Venezuela, term limit, the constitution_
 
 ### [ Japan is hit by a 5.3 magnitude earthquake off the coast of Honshu. ](/news/2007/08/16/japan-is-hit-by-a-5-3-magnitude-earthquake-off-the-coast-of-honsha.md)
 _Context: Honshu Island, Japan, earthquake_

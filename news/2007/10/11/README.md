@@ -13,7 +13,7 @@ _Context: AMC Airlines, Atatrk International Airport, MD-83, belly landing_
 _Context: Christian, Islam, Pope Benedict XVI_
 
 ### [ Turkey recalls its ambassador to the United States due to anger over an upcoming  House of Representatives vote on recognizing the Armenian Genocide. ](/news/2007/10/11/turkey-recalls-its-ambassador-to-the-united-states-due-to-anger-over-an-upcoming-house-of-representatives-vote-on-recognizing-the-armenian.md)
-_Context: Turkey, US House of Representatives, United States, genocide of Armenians_
+_Context: American, Turkey, US House of Representatives, genocide of Armenians_
 
 ### [ The British writer Doris Lessing wins the 2007 Nobel Prize in Literature. ](/news/2007/10/11/the-british-writer-doris-lessing-wins-the-2007-nobel-prize-in-literature.md)
 _Context: Doris Lessing, Nobel Prize in Literature, United Kingdom, writer_

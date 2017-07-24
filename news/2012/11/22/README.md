@@ -16,7 +16,7 @@ _Context: Busan, South Korea, subway train_
 _Context: Beaumont, Texas, Interstate 10, Southeast Texas_
 
 ### [A hostage situation in the northern city of Thessaloniki, Greece, ends peacefully, as policemen arrest a 72-year-old Greek pensioner who was threatening to set a tax office building on fire due to a financial dispute. ](/news/2012/11/22/a-hostage-situation-in-the-northern-city-of-thessaloniki-greece-ends-peacefully-as-policemen-arrest-a-72-year-old-greek-pensioner-who-was.md)
-_Context: Greece, Thessaloniki, arson, hostage, pensioner_
+_Context: Greek, Thessaloniki, arson, hostage, pensioner_
 
 ### [Israeli police and Shin Bet arrest several suspects in relation to the bombing of a public bus in Tel Aviv. The suspects claim affiliation with Hamas and Islamic Jihad and reveal they planted the bomb on the bus and detonated it remotely using a cell phone. ](/news/2012/11/22/israeli-police-and-shin-bet-arrest-several-suspects-in-relation-to-the-bombing-of-a-public-bus-in-tel-aviv-the-suspects-claim-affiliation-w.md)
 Israel Security Agency reveals suspects arrested hours after the terror attack that wounded 28; court extends remand of 2 suspects.

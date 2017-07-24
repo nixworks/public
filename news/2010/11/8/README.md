@@ -28,7 +28,7 @@ _Context: Copenhagen, Global Green Growth_
 Australian airline Qantas says it is keeping its Airbus A380s grounded for further checks after finding &quot;anomalies&quot; with three engines.
 
 ### [Express delivery company DHL promises better screening of customers and parcels before they are sent to airports after recent parcel bombs sent from Yemen and Greece. ](/news/2010/11/8/express-delivery-company-dhl-promises-better-screening-of-customers-and-parcels-before-they-are-sent-to-airports-after-recent-parcel-bombs-s.md)
-_Context: DHL, Greece, Yemen bomb attacks, parcel bomb_
+_Context: DHL, Greek, Yemen bomb attacks, parcel bomb_
 
 ### [A government conservation campaign, and possible hoarding by state oil companies, causes a severe shortage on diesel fuel in the People's Republic of China, disrupting industry and commerce. ](/news/2010/11/8/a-government-conservation-campaign-and-possible-hoarding-by-state-oil-companies-causes-a-severe-shortage-on-diesel-fuel-in-the-people-s-re.md)
 _Context: Chinese, diesel fuel_
@@ -55,7 +55,7 @@ _Context: Obama Administration, Somalia, Yemen bomb attacks_
 Israel reveals plans to build nearly 1,300 housing units for Jewish settlers in occupied East Jerusalem.
 
 ### [The United States offers to drop Sudan from its list of "state sponsors of terrorism", ending its isolation, if two scheduled referendums take place with respected results. ](/news/2010/11/8/the-united-states-offers-to-drop-sudan-from-its-list-of-state-sponsors-of-terrorism-ending-its-isolation-if-two-scheduled-referendums-ta.md)
-_Context: Sudan, United States_
+_Context: American, Sudan_
 
 ### [Libyan authorities arrest 10 reporters apparently for criticizing Libya's leadership. ](/news/2010/11/8/libyan-authorities-arrest-10-reporters-apparently-for-criticizing-libya-s-leadership.md)
 _Context: Libya_

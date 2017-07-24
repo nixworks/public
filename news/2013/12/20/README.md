@@ -1,7 +1,7 @@
 ## [2013-12-20](/news/2013/12/20/index.md)
 
 ### [A gunman opens fire outside a terminal at Ninoy Aquino International Airport in Manila, Philippines, killing four people, including the mayor of Labangan, Ukol Talumpa. ](/news/2013/12/20/a-gunman-opens-fire-outside-a-terminal-at-ninoy-aquino-international-airport-in-manila-philippines-killing-four-people-including-the-mayo.md)
-_Context: Labangan, Manila, Ninoy Aquino International Airport, Philippines, airport terminal_
+_Context: Labangan, Manila, Ninoy Aquino International Airport, Philippine, airport terminal_
 
 ### [Sinai insurgency:Two Egyptian soldiers are killed and eight wounded in an operation targeting Sinai militants in the northern Sinai Peninsula. ](/news/2013/12/20/sinai-insurgency-ptwo-egyptian-soldiers-are-killed-and-eight-wounded-in-an-operation-targeting-sinai-militants-in-the-northern-sinai-peninsu.md)
 A security official in Egypt says clashes between soldiers and wanted al-Qaida-inspired militants in the northern Sinai Peninsula have killed two soldiers and wounded eight.
@@ -28,7 +28,7 @@ TEHRAN – Iranian lawmakers Friday threatened retaliation for a Senate bill tha
 _Context: Supreme Court of Canada, anti-prostitution laws_
 
 ### [Same-sex marriage becomes legal in the U.S. state of Utah, and gay couples begin receiving marriage licenses, after a federal judge strikes down a provision of the Utah Constitution. ](/news/2013/12/20/same-sex-marriage-becomes-legal-in-the-u-s-state-of-utah-and-gay-couples-begin-receiving-marriage-licenses-after-a-federal-judge-strikes.md)
-_Context: United States, Utah, Utah Constitution, same-sex marriages_
+_Context: American, Utah, Utah Constitution, same-sex marriages_
 
 ### [Uganda passes law banning homosexuality. ](/news/2013/12/20/uganda-passes-law-banning-homosexuality.md)
 _Context: Uganda, law_

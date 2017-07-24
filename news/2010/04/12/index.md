@@ -28,7 +28,7 @@ _Context: Barack Obama, Nuclear Security Summit, terrorists_
 _Context: 2010 general election, Labour, manifesto_
 
 ### [''The Washington Post'' wins four awards at the 2010 Pulitzer Prizes. ](/news/2010/04/12/the-washington-post-wins-four-awards-at-the-2010-pulitzer-prizes.md)
-_Context: 2010 Pulitzer Prize, The Washington Post_
+_Context: 2010 Pulitzer Prize, Washington Post_
 
 ### [Pope Benedict XVI and the child sexual abuse scandal in the Roman Catholic Church:Homosexuality is to blame for paedophilia, according to Vatican Secretary of State and the Pope's Deputy, Cardinal Tarcisio Bertone, speaking today at a news conference in Chile. ](/news/2010/04/12/pope-benedict-xvi-and-the-child-sexual-abuse-scandal-in-the-roman-catholic-church-phomosexuality-is-to-blame-for-paedophilia-according-to-v.md)
 Security around the Pope is to be stepped up for his visit to Malta after sex abuse victims on the island said they planned to protest at his failure to tackle the scandal rocking the Catholic Church.

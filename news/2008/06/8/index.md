@@ -10,10 +10,10 @@ _Context: Texas Governor's Mansion_
 _Context: Abyei, Southern Sudan, Sudanese cabinet_
 
 ### [ Robert Kubica of the BMW Sauber team wins the 2008 Canadian Grand Prix, becoming the first Pole to win a Formula One Grand Prix auto race, and giving BMW its first win as a constructor. ](/news/2008/06/8/robert-kubica-of-the-bmw-sauber-team-wins-the-2008-canadian-grand-prix-becoming-the-first-pole-to-win-a-formula-one-grand-prix-auto-race.md)
-_Context: 2008 Canadian Grand Prix, BMW, BMW Sauber, Formula One, Polish, Robert Kubica_
+_Context: 2008 Canadian Grand Prix, BMW, BMW Sauber, Formula One, Poles, Robert Kubica_
 
 ### [ At least two people have been killed as an earthquake rocked southern Greece, collapsing buildings and causing panic. ](/news/2008/06/8/at-least-two-people-have-been-killed-as-an-earthquake-rocked-southern-greece-collapsing-buildings-and-causing-panic.md)
-_Context: Greece, an earthquake_
+_Context: Greek, an earthquake_
 
 ### [ The government of Southern Sudan withdraws its mediation efforts at the Juba talks between Uganda and the rebel Lord's Resistance Army. ](/news/2008/06/8/the-government-of-southern-sudan-withdraws-its-mediation-efforts-at-the-juba-talks-between-uganda-and-the-rebel-lord-s-resistance-army.md)
 _Context: Juba talks, Lord's Resistance Army, Southern Sudan, Uganda_

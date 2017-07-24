@@ -19,7 +19,7 @@ An aircraft crashed into a wall and burst into flames in Dwarka area, on the out
 _Context: Mexico, Villahermosa, pipeline_
 
 ### [Turkey's state-run Anadolu Agency reports 11 migrants, including three children, drowned, and the Turkish coast guard rescued seven Syrians from a capsized boat headed to the Greek island of Samos. ](/news/2015/12/22/turkey-s-state-run-anadolu-agency-reports-11-migrants-including-three-children-drowned-and-the-turkish-coast-guard-rescued-seven-syrians.md)
-_Context: Anadolu Agency, European migrant crisis, Greece, Samos, Syrian, Turkey, Turkish Coast Guard, migrants_
+_Context: Anadolu Agency, European migrant crisis, Greek, Samos, Syrian, Turkey, Turkish Coast Guard, migrants_
 
 ### [The Philippines becomes the first country in Asia, and second in the world (after Mexico), to approve use of the dengue vaccine. ](/news/2015/12/22/the-philippines-becomes-the-first-country-in-asia-and-second-in-the-world-after-mexico-to-approve-use-of-the-dengue-vaccine.md)
 Dengvaxia, manufactured by French pharmaceutical giant Sanofi, is also being reviewed by around 20 countries in Asia and Latin America
@@ -31,7 +31,7 @@ _Context: India, India's health ministry, Sanofi Pasteur's, clinical trial, deng
 _Context: Colombia, Colombian President, Juan Manuel Santos, Legality of cannabis, medical marijuana, personal possession_
 
 ### [The Philippine Commission on Elections disqualifies presidential frontrunner Grace Poe, who is a rival of Mar Roxas, the candidate favored by President Benigno Aquino III. The move is widely believed to be politically motivated. ](/news/2015/12/22/the-philippine-commission-on-elections-disqualifies-presidential-frontrunner-grace-poe-who-is-a-rival-of-mar-roxas-the-candidate-favored-b.md)
-_Context: Benigno "Noynoy" Aquino III, Commission on Elections, Grace Poe, Mar Roxas, Philippine presidential election, 2016, Philippines, politically motivated_
+_Context: Benigno "Noynoy" Aquino III, Commission on Elections, Grace Poe, Mar Roxas, Philippine, Philippine presidential election, 2016, politically motivated_
 
 ### [Central African Republic's National Election Authority announces voters approved (93%) the new constitution in the  December 13 referendum. Amid sporatic violence,  39 percent of registered citizens voted in the two-day poll. The first round of the presidential elections and Parliamentary elections now can be held on December 27, 2015. Acting President Catherine Samba-Panza and current members of the  legislature cannot participate.  ](/news/2015/12/22/central-african-republic-s-national-election-authority-announces-voters-approved-93-the-new-constitution-in-the-december-13-referendum.md)
 Citizens of the CAR have voted for a new constitution that will replace a transitional charter for governing the country. Legislative and presidential elections are due to take place on December 27.

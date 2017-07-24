@@ -44,7 +44,7 @@ Heads of three regional countries say they will not recognise new government aft
 The Rio+20 summit ends with an agreement from world leaders that charities say represents a &quot;missed chance&quot; to tackle environmental problems.
 
 ### [A United States judge dismisses an injunction from Apple Inc. against Motorola for patent infringement. ](/news/2012/06/23/a-united-states-judge-dismisses-an-injunction-from-apple-inc-against-motorola-for-patent-infringement.md)
-_Context: Apple Inc., Motorola, United States_
+_Context: American, Apple Inc., Motorola_
 
 ### [After a five-day trial in the High Court, 27-year-old assistant tutor Luke Cooper, who is completing a PhD in international relations at the University of Sussex, is awarded 35,000 over a front page ''Evening Standard'' article and 25,000 over a follow-up piece in the ''Daily Mail''. These articles threatened his future academic prospects during the November 2010 march against government cuts. ](/news/2012/06/23/after-a-five-day-trial-in-the-high-court-27-year-old-assistant-tutor-luke-cooper-who-is-completing-a-phd-in-international-relations-at-the.md)
 _Context: Daily Mail, Evening Standard, High Court, PhD, University of Sussex, international relations, the November 2010 march against government cuts_

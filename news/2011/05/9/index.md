@@ -22,7 +22,7 @@ _Context: China, US$, yuan_
 Japanese power firm Chubu Electric on Monday agreed to shut a nuclear plant until it can be better defended against the type of massive tsunami that in March triggered the worst atomic crisis in 25 years.
 
 ### [Values in the United States housing market decline by 1.1% for March and 3% in the March quarter, the heaviest fall since late 2008, with values falling for 57 months in a row since the United States housing bubble burst in 2007. ](/news/2011/05/9/values-in-the-united-states-housing-market-decline-by-1-1-for-march-and-3-in-the-march-quarter-the-heaviest-fall-since-late-2008-with-va.md)
-_Context: United States, United States housing bubble_
+_Context: American, United States housing bubble_
 
 ### [Qantas flights face disruptions as 1600 aircraft maintenance engineers announce plans to go on strike. ](/news/2011/05/9/qantas-flights-face-disruptions-as-1600-aircraft-maintenance-engineers-announce-plans-to-go-on-strike.md)
 Qantas passengers face likely disruptions to flights after the airline&#039;s 1600 licensed aircraft engineers announced today that they intended to begin strike action later this week.
@@ -31,7 +31,7 @@ Qantas passengers face likely disruptions to flights after the airline&#039;s 16
 _Context: 2010-2011 Ivorian crisis, Ivory Coast, cocoa_
 
 ### [Officials in the European Union acknowledge that Greece will need a second bailout program soon, and American ratings agency Standard & Poor's downgrades Greek bonds to junk status. ](/news/2011/05/9/officials-in-the-european-union-acknowledge-that-greece-will-need-a-second-bailout-program-soon-and-american-ratings-agency-standard-poor.md)
-_Context: European Union, Greece, Standard & Poor's_
+_Context: European Union, Greek, Standard & Poor's_
 
 ### [At least 36 people are killed after several boats capsize during a storm on Lake Togo in southeastern Togo. ](/news/2011/05/9/at-least-36-people-are-killed-after-several-boats-capsize-during-a-storm-on-lake-togo-in-southeastern-togo.md)
 Seven boats have capsized in a storm in the west African nation of Togo, leaving at least 36 people dead, a police sources says, as authorities search for more victims. 
@@ -49,7 +49,7 @@ People are using social media to document the Mississippi River floods, as well 
 _Context: Assiniboine River, Brandon, Manitoba, Red River of the North, state of emergency_
 
 ### [The ''Mainichi Shimbun'' reports that Japan and the United States are planning to build a spent nuclear fuel storage facility in Mongolia. ](/news/2011/05/9/the-mainichi-shimbun-reports-that-japan-and-the-united-states-are-planning-to-build-a-spent-nuclear-fuel-storage-facility-in-mongolia.md)
-_Context: Japan, Mainichi Shimbun, Mongolia, United States, nuclear fuel_
+_Context: American, Japan, Mainichi Shimbun, Mongolia, nuclear fuel_
 
 ### [The Prime Minister of Pakistan Yusuf Raza Gilani warns the United States that it will defend its air space from incursions following the raid on Osama bin Laden's compound and denies collaborating with al-Qaeda. ](/news/2011/05/9/the-prime-minister-of-pakistan-yusuf-raza-gilani-warns-the-united-states-that-it-will-defend-its-air-space-from-incursions-following-the-rai.md)
 Pakistan&#039;s prime minister will on Monday warn the United States it will defend its air space if American forces mount another raid on terrorists suspected of hiding inside the country.
@@ -67,7 +67,7 @@ _Context: Colombia, Venezuela, Walid Makled Garcia, extradite_
 _Context: Governor, Jan Brewer, United States Supreme Court, immigration law_
 
 ### [American billionaire Louis Bacon wins a judgement in the United Kingdom against Wikipedia, the ''Denver Post'' and WordPress about disclosure of identities of people who published allegedly defamatory comments although the judgement does not apply in the United States. ](/news/2011/05/9/american-billionaire-louis-bacon-wins-a-judgement-in-the-united-kingdom-against-wikipedia-the-denver-post-and-wordpress-about-disclosur.md)
-_Context: Denver Post, Louis Bacon, United Kingdom, United States, Wikipedia, WordPress_
+_Context: American, Denver Post, Louis Bacon, United Kingdom, Wikipedia, WordPress_
 
 ### [Pennsylvania State Senator Bob Mensch is convicted of disorderly conduct after showing a handgun to another motorist on US Interstate 78. ](/news/2011/05/9/pennsylvania-state-senator-bob-mensch-is-convicted-of-disorderly-conduct-after-showing-a-handgun-to-another-motorist-on-us-interstate-78.md)
 Mensch faces maximum sentence of 90 days in jail and $300 fine

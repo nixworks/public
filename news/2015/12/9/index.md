@@ -28,7 +28,7 @@ Fields are submerged; AIADMK worker electrocuted; old man washed away
 _Context: Floods in the United States: 2001-present, Governor of Washington, Jay Inslee, Western Washington, state of emergency_
 
 ### [The United States expands sanctions against North Korea over its alleged weapons breaches. ](/news/2015/12/9/the-united-states-expands-sanctions-against-north-korea-over-its-alleged-weapons-breaches.md)
-_Context: North Korea, United States_
+_Context: American, North Korea_
 
 ### [Government officials from Cuba and the U.S. met in Havana, beginning settlement discussions surrounding $1.9 billion worth of U.S. assets seized by Fidel Castro's regime in the early 1960s.  By law, the United States embargo against Cuba cannot cease until settlements are made. ](/news/2015/12/9/government-officials-from-cuba-and-the-u-s-met-in-havana-beginning-settlement-discussions-surrounding-1-9-billion-worth-of-u-s-assets-se.md)
 A negotiated settlement could be a huge step in normalizing relations. But Cuba has its own claims.

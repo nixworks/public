@@ -10,7 +10,7 @@ _Context: Dick Cheney, Scooter Libby, U.S. Vice President, committed perjury, gr
 _Context: Andy Warhol, Charles M. Schulz, Elvis Presley, Forbes, John Lennon, US$_
 
 ### [ President Fidel Castro of Cuba agrees to allow three officials from the United States Agency for International Development into the country to assist in relief efforts in the wake of Hurricane Wilma. The communist nation typically turns down offers of assistance from the United States since trade embargoes from the U.S. have been in place for over 40 years. ](/news/2005/10/28/president-fidel-castro-of-cuba-agrees-to-allow-three-officials-from-the-united-states-agency-for-international-development-into-the-country.md)
-_Context: Communist, Cuba, Fidel Castro, President, USAID, United States, Wilma, trade embargo_
+_Context: American, Communist, Cuba, Fidel Castro, President, USAID, Wilma, trade embargo_
 
 ### [ In the continuing negotiations over global free trade, the trade commissioner for the European Union, Peter Mandelson, said Friday that the EU will cut its average farm tariff by 47%, reducing the highest rates by 60%. Jacques Chirac, the president of France, said that he doesn't have France's support in such a proposal. ](/news/2005/10/28/in-the-continuing-negotiations-over-global-free-trade-the-trade-commissioner-for-the-european-union-peter-mandelson-said-friday-that-the.md)
 _Context: European Union, Jacques Chirac, Peter Mandelson, President of France, free trade_

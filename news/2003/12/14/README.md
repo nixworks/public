@@ -7,7 +7,7 @@ _Context: December 13, Iraq, L. Paul Bremer, Occupation of Iraq, Saddam Hussein,
 _Context: Pakistan, Pervez Musharraf_
 
 ### [ In an interview with ''The Washington Post'' newspaper, a 78-year-old African-American Los Angeles woman claims to be the illegitimate daughter of the late U.S. Senator Strom Thurmond. [http://www.washingtonpost.com/wp-dyn/articles/A60363-2003Dec12.html]](/news/2003/12/14/in-an-interview-with-the-washington-post-newspaper-a-78-year-old-african-american-los-angeles-woman-claims-to-be-the-illegitimate-daug.md)
-_Context: African-American, Los Angeles, California, Senate, Strom Thurmond, The Washington Post, illegitimate, newspaper_
+_Context: African-American, Los Angeles, California, Senate, Strom Thurmond, Washington Post, illegitimate, newspaper_
 
 ### [The famous Italian opera house La Fenice in Venice reopens after being destroyed by fire in 1996. It was rebuilt at the cost of EUR90mn.[http://launch.yahoo.com/read/news.asp?contentID=215989]](/news/2003/12/14/the-famous-italian-opera-house-la-fenice-in-venice-reopens-after-being-destroyed-by-fire-in-1996-it-was-rebuilt-at-the-cost-of-a-90mn-htt.md)
 _Context: Italian, La Fenice, Venice, euro, opera_

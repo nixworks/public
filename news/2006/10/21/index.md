@@ -7,7 +7,7 @@ _Context: Lord's Resistance Army, President, Uganda, Yoweri Museveni, negotiatio
 _Context: Arcelor Mittal, Dariga Nazarbayev, Forbes, Kazakh President, Kazakhstan, Nursultan Nazarbayev's, steel maker_
 
 ### [ An earthquake of magnitude 5.2 hits the central Philippines. The quake struck at 10:30 p.m. with its epicenter some 35 kilometers south of Boac, Marinduque. The temblor was felt at intensity 4 in the capital Manila. ](/news/2006/10/21/an-earthquake-of-magnitude-5-2-hits-the-central-philippines-the-quake-struck-at-10-30-p-m-with-its-epicenter-some-35-kilometers-south-of.md)
-_Context: Boac, Manila, Marinduque, Philippines, Richter scale, earthquake, epicenter_
+_Context: Boac, Manila, Marinduque, Philippine, Richter scale, earthquake, epicenter_
 
 ### [ Tropical Storm Paul forms off Mexico's west coast and forecasters predict it could strengthen into a hurricane and reach land within days. The storm is over the Pacific Ocean about 315 miles (500 km) south of Cabo Corrientes on the  Jalisco coast. ](/news/2006/10/21/tropical-storm-paul-forms-off-mexico-s-west-coast-and-forecasters-predict-it-could-strengthen-into-a-hurricane-and-reach-land-within-days.md)
 _Context: Cabo Corrientes, Jalisco, Mexico, North Pacific Ocean, hurricane_

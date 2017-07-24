@@ -19,7 +19,7 @@ The Seattle Fire Department said in addition to the fatalities, a 37-year-old ma
 Japan has announced a set of sanctions against Russia for its recognition of Crimea as an independent state.
 
 ### [United States-Syria relations:The United States expels all Syrian diplomats and closes the Syrian embassy in Washington D.C. ](/news/2014/03/18/united-states-syria-relations-pthe-united-states-expels-all-syrian-diplomats-and-closes-the-syrian-embassy-in-washington-d-c.md)
-_Context: Syrian, United States, United States-Syria relations, Washington, D.C., embassy_
+_Context: American, Syrian, United States-Syria relations, Washington, D.C., embassy_
 
 ### [Protesters storm and occupy the Legislative Yuan in Taiwan due to a unilateral move by the Kuomintang that forces the Cross-Strait Service Trade Agreement to the legislative floor without giving it an item-by-item review. ](/news/2014/03/18/protesters-storm-and-occupy-the-legislative-yuan-in-taiwan-due-to-a-unilateral-move-by-the-kuomintang-that-forces-the-cross-strait-service-t.md)
 _Context: Kuomintang (Chinese Nationalist Party), Taiwan, continue to occupy, legislative chamber, trade deal_

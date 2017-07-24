@@ -10,13 +10,13 @@ _Context: 2007 United Kingdom floods, Gloucestershire, Oxford_
 Tony Blair spoke of a &quot;moment of opportunity&quot; after he met Palestinian and Israeli leaders on Tuesday on his first visit to the region as an international envoy.
 
 ### [ Republic of Macedonia, Albania and Serbian autonomous province of Kosovo are experiencing blackouts as a result of the 2007 European heatwave that spreads over the Balkans.  It also causes bushfires everywhere in the region between Croatia, Hungary, Serbia and Greece. ](/news/2007/07/24/republic-of-macedonia-albania-and-serbian-autonomous-province-of-kosovo-are-experiencing-blackouts-as-a-result-of-the-2007-european-heatwa.md)
-_Context: Albania, Croatia, Greece, Hungary, Kosovo, Macedonian, Serbia_
+_Context: Albania, Croatia, Greek, Hungary, Kosovo, Macedonian, Serbia_
 
 ### [ Team Astana retires from the 2007 Tour de France following Kazakh rider Alexander Vinokourov testing positive for a banned blood transfusion. ](/news/2007/07/24/team-astana-retires-from-the-2007-tour-de-france-following-kazakh-rider-alexander-vinokourov-testing-positive-for-a-banned-blood-transfusio.md)
 _Context: 2007 Tour de France, Alexander Vinokourov, Kazakhstan, Team Astana, blood transfusion_
 
 ### [ New Haven, Connecticut becomes the first United States city to give identification cards to undocumented immigrants. ](/news/2007/07/24/new-haven-connecticut-becomes-the-first-united-states-city-to-give-identification-cards-to-undocumented-immigrants.md)
-_Context: Connecticut, New Haven, United States, identification card, undocumented immigrant_
+_Context: American, Connecticut, New Haven, identification card, undocumented immigrant_
 
 ### [ Pakistani militants fire rockets at the town of Bannu resulting in at least seven deaths and 30 injuries. [http://ca.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2007-07-24T235556Z_01_ISL166536_RTRIDST_0_NEWS-PAKISTAN-VIOLENCE-COL.XML&archived=False (Reuters via Canada)] In another attack in the North Waziristan region, about 35 militants attacked on security forces killing 4 and injuring 6.  ](/news/2007/07/24/pakistani-militants-fire-rockets-at-the-town-of-bannu-resulting-in-at-least-seven-deaths-and-30-injuries-http-ca-today-reuters-com-news.md)
 _Context: Bannu, North Waziristan, Pakistan_

@@ -1,13 +1,13 @@
 ## [2006-05-15](/news/2006/05/15/index.md)
 
 ### [ United States President George W. Bush gives a speech proposing major immigration reform in the United States. ](/news/2006/05/15/united-states-president-george-w-bush-gives-a-speech-proposing-major-immigration-reform-in-the-united-states.md)
-_Context: George W. Bush, United States, United States President, a speech proposing major immigration reform_
+_Context: American, George W. Bush, United States President, a speech proposing major immigration reform_
 
 ### [ Mount Merapi erupts, according to the national Indonesian news agency. ](/news/2006/05/15/mount-merapi-erupts-according-to-the-national-indonesian-news-agency.md)
 _Context: Indonesia, Mounts Merapi, erupts_
 
 ### [ The United States State Department announces it will re-establish diplomatic ties with Libya and remove it from its list of states that sponsor terrorism. ](/news/2006/05/15/the-united-states-state-department-announces-it-will-re-establish-diplomatic-ties-with-libya-and-remove-it-from-its-list-of-states-that-spo.md)
-_Context: Libya, State Department, United States, its list of states that sponsor terrorism_
+_Context: American, Libya, State Department, its list of states that sponsor terrorism_
 
 ### [ Giorgio Napolitano is sworn in as President of the Italian Republic, following his election held on May 10. ](/news/2006/05/15/giorgio-napolitano-is-sworn-in-as-president-of-the-italian-republic-following-his-election-held-on-may-10.md)
 _Context: Giorgio Napolitano, President, election_

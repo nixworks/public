@@ -10,7 +10,7 @@ _Context: Libya, Muammar al-Gaddafi, countries, weapons of mass destruction_
 _Context: 1776, New York City, One World Trade Center, United States Declaration of Independence, predecessor_
 
 ### [ Occupation of Iraq: U.S.-appointed civil administrator of Iraq, L. Paul Bremer reveals that he survived an attack on his convoy on December 6. ](/news/2003/12/19/occupation-of-iraq-p-u-s-appointed-civil-administrator-of-iraq-l-paul-bremer-reveals-that-he-survived-an-attack-on-his-convoy-on-decembe.md)
-_Context: December 6, Iraq, L. Paul Bremer, U.S. presence in Iraq, United States_
+_Context: American, December 6, Iraq, L. Paul Bremer, U.S. presence in Iraq_
 
 ### [ Flights from Vancouver International Airport bound for the U.S. are delayed following the discovery of an envelope containing suspicious white powder and a threatening note at one of the terminals. [http://www.canada.com/vancouver/story.asp?id=CB66EEAE-4EF9-4542-82EC-654371F49BD1] ](/news/2003/12/19/flights-from-vancouver-international-airport-bound-for-the-u-s-are-delayed-following-the-discovery-of-an-envelope-containing-suspicious-wh.md)
 _Context: Vancouver International Airport_
@@ -22,7 +22,7 @@ _Context: Asia, SARS, Singapore, virus_
 _Context: A$, Alexander Downer, Australia, Nauru, Pacific_
 
 ### [ In a major blow to the recording industry's efforts to stamp out online file sharing, a United States federal appeals court invalidates subpoenas issued against Verizon to identify individual P2P users. [http://www.washingtonpost.com/wp-dyn/articles/A14836-2003Dec19.html]](/news/2003/12/19/in-a-major-blow-to-the-recording-industry-s-efforts-to-stamp-out-online-file-sharing-a-united-states-federal-appeals-court-invalidates-sub.md)
-_Context: File sharing, P2P, United States, Verizon, appeals court, recording industry's, subpoena_
+_Context: American, File sharing, P2P, Verizon, appeals court, recording industry's, subpoena_
 
 ### [ The British spacecraft Beagle 2 successfully separates from the ESA's Mars Express orbiter and is now less than 10 days away from its scheduled landing on the surface of Mars; it will attempt to parachute onto the surface on Christmas morning. ](/news/2003/12/19/the-british-spacecraft-beagle-2-successfully-separates-from-the-esa-s-mars-express-orbiter-and-is-now-less-than-10-days-away-from-its-sched.md)
 _Context: Beagle 2, Christmas morning, European Space Agency, Mars, Mars Express_
@@ -31,7 +31,7 @@ _Context: Beagle 2, Christmas morning, European Space Agency, Mars, Mars Express
 _Context: Daily News, Zimbabwe_
 
 ### [ Same-sex marriage in Canada: an Ontario court rules that Canadians whose same-sex partners died after 1985 are entitled to survivors' benefits. It is believed to be the first class-action lawsuit awarding compensation to gays and lesbians anywhere in the world. [http://www.cbc.ca/stories/2003/12/19/samesex_benefits031219]](/news/2003/12/19/same-sex-marriage-in-canada-an-ontario-court-rules-that-canadians-whose-same-sex-partners-died-after-1985-are-entitled-to-survivors-benef.md)
-_Context: 1985, Canada, Ontario, class action lawsuit, gay, lesbian, same-sex marriage in Canada, survivors' benefits_
+_Context: 1985, Canada, Ontario, class-action lawsuit, gay, lesbian, same-sex marriage in Canada, survivors' benefits_
 
 ### [ The University of Delaware's Blue Hens shut out Colgate University to win the NCAA Division I-AA football national championship. [http://www.delawareonline.com/newsjournal/local/2003/12/20hensarenational.html]](/news/2003/12/19/the-university-of-delaware-s-blue-hens-shut-out-colgate-university-to-win-the-ncaa-division-i-aa-football-national-championship-http-ww.md)
 _Context: American football, Colgate University, NCAA, University of Delaware_

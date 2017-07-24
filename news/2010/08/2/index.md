@@ -46,7 +46,7 @@ Politicians in Nepal fail for a third time to elect a new prime minister after b
 Seven civilians died in continuing violence in the Kashmir Valley on Monday as thousands of people defied curfew at several places. At least 50 people were injured. Mobs set on fire several government
 
 ### [A Greek truck drivers strike ends with the situation expected  to get back to normal quickly. ](/news/2010/08/2/a-greek-truck-drivers-strike-ends-with-the-situation-expected-to-get-back-to-normal-quickly.md)
-_Context: Greece, truck driver_
+_Context: Greek, truck driver_
 
 ### [The United States House of Representatives ethics committee charges California Democrat Maxine Waters with breaking ethics rules. ](/news/2010/08/2/the-united-states-house-of-representatives-ethics-committee-charges-california-democrat-maxine-waters-with-breaking-ethics-rules.md)
 A House ethics panel charged California Democrat Rep. Maxine Waters today with breaking unspecified ethics rules -- making the 10-term veteran the second lawmaker to face an ethics trial just months before the midterm election.

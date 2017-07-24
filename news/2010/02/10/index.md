@@ -10,7 +10,7 @@ _Context: Prime Minister, Voreqe Bainimarama, coup in 2006_
 _Context: 1902 Cremation Act, Britain's Court of Appeal, pyre_
 
 ### [A 3.8-magnitude earthquake strikes near Chicago, United States. No reports of major damage. ](/news/2010/02/10/a-3-8-magnitude-earthquake-strikes-near-chicago-united-states-no-reports-of-major-damage.md)
-_Context: Chicago, United States, magnitude earthquake_
+_Context: American, Chicago, magnitude earthquake_
 
 ### [Officials in Haiti state that at least 230,000 people died in the 2010 Haiti earthquake, but that number may yet grow, approaching the 2004 Indian Ocean earthquake as the deadliest natural disaster of the 21st century thus far. ](/news/2010/02/10/officials-in-haiti-state-that-at-least-230-000-people-died-in-the-2010-haiti-earthquake-but-that-number-may-yet-grow-approaching-the-2004.md)
 _Context: 2004 Indian Ocean earthquake, 2010 Haiti earthquake, Haiti_
@@ -19,7 +19,7 @@ _Context: 2004 Indian Ocean earthquake, 2010 Haiti earthquake, Haiti_
 _Context: Goodluck Jonathan, President of Nigeria, Umaru Yar'Adua_
 
 ### [Nationwide strikes led by Communist and Socialist parties take place in Greece to protest the government's handing of the country's debt. Most of the country was brought to a standstill as factories, schools, airports and hospitals closed down or reduced capacity ](/news/2010/02/10/nationwide-strikes-led-by-communist-and-socialist-parties-take-place-in-greece-to-protest-the-government-s-handing-of-the-country-s-debt-mo.md)
-_Context: Greece_
+_Context: Greek_
 
 ### [Prominent Uzbek photographer Umida Akhmedova is found guilty on charges of "slandering the nation" in her work, but is immediately pardoned under an amnesty. ](/news/2010/02/10/prominent-uzbek-photographer-umida-akhmedova-is-found-guilty-on-charges-of-slandering-the-nation-in-her-work-but-is-immediately-pardoned.md)
 _Context: Umida Akhmedova, Uzbekistan_

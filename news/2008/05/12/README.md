@@ -28,7 +28,7 @@ _Context: Bolivia, Evo Morales, President of Bolivia, departments, gubernatorial
 _Context: Prime Minister, Russia, Russian Government, Vladimir Putin_
 
 ### [ United States federal authorities start sending aid to Missouri, Oklahoma and Georgia as the total death toll from the May 2008 tornado outbreak sequence reaches 23. ](/news/2008/05/12/united-states-federal-authorities-start-sending-aid-to-missouri-oklahoma-and-georgia-as-the-total-death-toll-from-the-may-2008-tornado-out.md)
-_Context: Georgia, May 2008 tornado outbreak sequence, Missouri, Oklahoma!, United States_
+_Context: American, Georgia, May 2008 tornado outbreak sequence, Missouri, Oklahoma!_
 
 ## [Previous Day...](/news/2008/05/11/index.md)
 

@@ -13,7 +13,7 @@ Police officer kills 10 people in shooting rampage near station outside Nairobi,
 Action in Arab town in Negev, following a court order, prompts protest call by Muslim residents.
 
 ### [Fourteen people are killed in United States drone attacks in North Waziristan, Pakistan. ](/news/2010/11/7/fourteen-people-are-killed-in-united-states-drone-attacks-in-north-waziristan-pakistan.md)
-_Context: North Waziristan, Pakistan, United States, drone aircraft, drones launch_
+_Context: American, North Waziristan, Pakistan, drone aircraft, drones launch_
 
 ### [At least three people die, including two members of Sons of Iraq due to a bomb planted at their checkpoint in central Iraq, and an imam was shot dead in Baghdad. ](/news/2010/11/7/at-least-three-people-die-including-two-members-of-sons-of-iraq-due-to-a-bomb-planted-at-their-checkpoint-in-central-iraq-and-an-imam-was.md)
 _Context: Baghdad, Iraq, Sons of Iraq, imam_
@@ -52,7 +52,7 @@ Allegations of fraud and voter intimidation are overshadowing Burma&#039;s first
 _Context: Vietnam, propaganda_
 
 ### [Greeks vote in local elections with the Prime Minister George Papandreou threatening to dissolve parliament if his party does not fare well. Early results show that the PASOK is doing well making an early election less likely. ](/news/2010/11/7/greeks-vote-in-local-elections-with-the-prime-minister-george-papandreou-threatening-to-dissolve-parliament-if-his-party-does-not-fare-well.md)
-_Context: George Papandreou, Greece, Greek Prime Minister, PASOK_
+_Context: George Papandreou, Greek, Greek Prime Minister, PASOK_
 
 ### [Voters in Guinea finally go to the polls for the second round of voting in the presidential election. ](/news/2010/11/7/voters-in-guinea-finally-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election.md)
 Guineans cast their ballots in a vote that has been delayed multiple times following violent ethnic clashes.

@@ -25,7 +25,7 @@ Chinese government has dismissed chances of West Asia style revolution in the Co
 _Context: Bay of Bengal, India_
 
 ### [''The Washington Post'' reports that the military forces imprisoned alleged whistleblower Bradley Manning to strip each night and sleep naked, having confiscated his boxers earlier this week following Manning's protest that restrictions imposed on him were "absurd". A spokesperson for the facility denies "any sort of humiliation or embarrassment" is intended. ](/news/2011/03/6/the-washington-post-reports-that-the-military-forces-imprisoned-alleged-whistleblower-bradley-manning-to-strip-each-night-and-sleep-nake.md)
-_Context: Bradley Manning, The Washington Post, whistleblower_
+_Context: Bradley Manning, Washington Post, whistleblower_
 
 ### [United States Navy commandos from the destroyer USS ''Bulkeley'' capture four Somali pirates who boarded the Japanese oil tanker, the MV Guanabara. ](/news/2011/03/6/united-states-navy-commandos-from-the-destroyer-uss-bulkeley-capture-four-somali-pirates-who-boarded-the-japanese-oil-tanker-the-mv-gua.md)
 _Context: Japan, MV Guanabara, Somali pirates, USS ''Bulkeley'', United States Navy, commando, destroyer, oil tanker_
@@ -49,7 +49,7 @@ _Context: Chile, Peru_
 Nine people are killed and 11 more injured after a fire breaks out in a bar in the Taiwanese city of Taichung, officials say.
 
 ### [Three people are killed and 28 others are hospitalised in a shipping incident on the Greek island of Crete. ](/news/2011/03/6/three-people-are-killed-and-28-others-are-hospitalised-in-a-shipping-incident-on-the-greek-island-of-crete.md)
-_Context: Crete, Greece_
+_Context: Crete, Greek_
 
 ### [Seven people are missing after a mobile home park fire near Lake Granbury, Texas. ](/news/2011/03/6/seven-people-are-missing-after-a-mobile-home-park-fire-near-lake-granbury-texas.md)
 _Context: Lake Granbury, Texas, mobile home_
@@ -70,7 +70,7 @@ _Context: 2011 Yemeni protests, State Department's, Yemen's_
 _Context: Islamist, Kenya, Mandera, Somalia, al-Shabaab militants_
 
 ### [Gunmen attacked patrons at a bar near the United States consulate in Ciudad Juarez, Mexico killing three people. ](/news/2011/03/6/gunmen-attacked-patrons-at-a-bar-near-the-united-states-consulate-in-ciudad-jua-rez-mexico-killing-three-people.md)
-_Context: Ciudad Juarez, Mexico, United States_
+_Context: American, Ciudad Juarez, Mexico_
 
 ### [Egyptian Army General Mansour el-Essawy is named as the new Minister of Interior responsible for security replacing Mahmoud Wagdy. ](/news/2011/03/6/egyptian-army-general-mansour-el-essawy-is-named-as-the-new-minister-of-interior-responsible-for-security-replacing-mahmoud-wagdy.md)
 _Context: Egyptian Army, Egyptian interior minister, Mahmoud Wagdy, Mansour el-Essawy_

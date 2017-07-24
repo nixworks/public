@@ -28,7 +28,7 @@ _Context: Sri Lankan Civil War, Sri Lankan Military, State Department's, Tamil T
 _Context: China, Department of Homeland Security, Northern Mariana Islands, Russia, tourists, visa-free travel_
 
 ### [ The Olympic Flame was lit during a ceremony in Olympia, Greece to start the 2010 Winter Olympics Torch Relay.([http://www.gamesbids.com/eng/mobile/other_news/1216134797.html Gamesbids.com])](/news/2009/10/22/the-olympic-flame-was-lit-during-a-ceremony-in-olympia-greece-to-start-the-2010-winter-olympics-torch-relay-http-www-gamesbids-com-eng.md)
-_Context: 2010 Winter Olympics, Greece, Olympia, Greece, Olympic Torch, Torch Relay_
+_Context: 2010 Winter Olympics, Greek, Olympia, Greece, Olympic Torch, Torch Relay_
 
 ### [ The U.S. House Financial Services Committee approved a measure establishing a Consumer Financial Protection Agency.([http://www.washingtonpost.com/wp-dyn/content/article/2009/10/22/AR2009102200312.html?hpid=moreheadlines Washington Post])](/news/2009/10/22/the-u-s-house-financial-services-committee-approved-a-measure-establishing-a-consumer-financial-protection-agency-http-www-washingtonp.md)
 _Context: Consumer Financial Protection Agency, U.S. House Financial Services Committee_

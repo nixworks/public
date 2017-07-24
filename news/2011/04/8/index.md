@@ -34,7 +34,7 @@ The owner of the News of the World says sorry over the phone hacking scandal and
 U.S. biotechnology company Amgen Inc (AMGN.O) is expanding in Brazil, announcing on Friday it had acquired privately-held Bergamo for about $215 million while reacquiring rights in the country to several Amgen products.
 
 ### [The death toll from yesterday's aftershock from the 2011 Tohoku earthquake and tsunami rises to three and 140 wounded. ](/news/2011/04/8/the-death-toll-from-yesterday-s-aftershock-from-the-2011-tahoku-earthquake-and-tsunami-rises-to-three-and-140-wounded.md)
-_Context: aftershock, an earthquake and tsunami_
+_Context: Aftershock, an earthquake and tsunami_
 
 ### [Eight people are killed and 130 injured in a massive car pile-up caused by a sandstorm on the German autobahn A 19 near Rostock. The pile-up involves about 80 vehicles and causes at least 30 of them to catch fire, making it the worst accident in the state of Mecklenburg-Vorpommern. ](/news/2011/04/8/eight-people-are-killed-and-130-injured-in-a-massive-car-pile-up-caused-by-a-sandstorm-on-the-german-autobahn-a-19-near-rostock-the-pile-up.md)
 A freak sandstorm sweeps across a motorway in northern Germany causing a multiple pile-up and leaving eight people dead.

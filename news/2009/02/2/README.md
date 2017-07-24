@@ -1,10 +1,10 @@
 ## [2009-02-2](/news/2009/02/2/index.md)
 
 ### [ The United States Senate confirms Eric Holder as Attorney General. ](/news/2009/02/2/the-united-states-senate-confirms-eric-holder-as-attorney-general.md)
-_Context: Eric Holder, Senate, United States, United States Attorney General_
+_Context: American, Eric Holder, Senate, United States Attorney General_
 
 ### [ U.S. department store Macy's announces it will cut 7,000 jobs. ](/news/2009/02/2/u-s-department-store-macy-s-announces-it-will-cut-7-000-jobs.md)
-_Context: Macy's, United States, department store, layoff_
+_Context: American, Macy's, department store, layoff_
 
 ### [ Muammar al-Gaddafi is elected Chairman of the African Union. ](/news/2009/02/2/muammar-al-gaddafi-is-elected-chairman-of-the-african-union.md)
 _Context: African Union, Chairman, Muammar al-Gaddafi_

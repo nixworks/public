@@ -25,7 +25,7 @@ President Hugo Chávez won re-election on Sunday, facing down the strongest elec
 Libya&#x27;s&#x20;newly&#x20;elected&#x20;Prime&#x20;Minister&#x20;Mustafa&#x20;Abushagur&#x20;was&#x20;dismissed&#x20;by&#x20;the&#x20;country&#x27;s&#x20;congress&#x20;on&#x20;Sunday&#x20;after&#x20;members&#x20;passed&#x20;a&#x20;vote&#x20;of&#x20;no&#x20;confidence.&#x20;The&#x20;vote&#x20;came&#x20;after&#x20;lawmakers&#x20;rejected&#x20;Abushagur&#x27;s&#x20;nominations&#x20;for&#x20;a&#x20;new&#x20;government.
 
 ### [President Benigno Aquino of the Philippines announces that the Philippine government has reached an outline peace agreement with the Moro Islamic Liberation Front over the disputed Mindanao region. ](/news/2012/10/8/president-benigno-aquino-of-the-philippines-announces-that-the-philippine-government-has-reached-an-outline-peace-agreement-with-the-moro-is.md)
-_Context: Mindanao, Moro Islamic Liberation Front, Philippines, President Benigno Aquino_
+_Context: Mindanao, Moro Islamic Liberation Front, Philippine, President Benigno Aquino_
 
 ### [Haitian Prime Minister Laurent Lamothe announces a new "sin tax" on gambling, alcohol, and cigarettes to pay for a new education fund. ](/news/2012/10/8/haitian-prime-minister-laurent-lamothe-announces-a-new-sin-tax-on-gambling-alcohol-and-cigarettes-to-pay-for-a-new-education-fund.md)
 _Context: Haiti, Laurent Lamothe, alcohol, cigarettes, gambling_

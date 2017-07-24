@@ -4,7 +4,7 @@
 Fighting rages in Libya between Islamic State fighters and a militia alliance from the west of the country, near the city of Sirte.
 
 ### [The United States embassy and consulates in Saudi Arabia close for Sunday and Monday due to heightened security concerns.](/news/2015/03/15/the-united-states-embassy-and-consulates-in-saudi-arabia-close-for-sunday-and-monday-due-to-heightened-security-concerns.md)
-_Context: Saudi Arabia, United States_
+_Context: American, Saudi Arabia_
 
 ### [Two suicide bombers belonging to the Tehreek-i-Taliban Pakistan splinter group Jamaat-ul-Ahrar blow themselves up in twin bomb attacks on two churches in the Pakistani city of Lahore, killing at least fourteen people with 70 more injured. ](/news/2015/03/15/two-suicide-bombers-belonging-to-the-tehreek-i-taliban-pakistan-splinter-group-jamaat-ul-ahrar-blow-themselves-up-in-twin-bomb-attacks-on-tw.md)
 At least 14 people dead and dozens wounded in twin bombing targeting two churches in Lahore, police say.

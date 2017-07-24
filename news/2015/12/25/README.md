@@ -4,7 +4,7 @@
 _Context: Bashar al-Assad, Damascus, December 10th conference, Jaysh al-Islam, Russia, Russian military intervention, Syrian Observatory for Human Rights, Zahran Alloush, radical Islamists_
 
 ### [With the death of an 18-year-old killer whale at its San Antonio, Texas facility and the recent malfunction of the Sky Tower ride at its park in Orlando, Florida, SeaWorld's problems in the wake of recent earning shortfalls, decline in attendance, and drop the values of its shares.  In response, the company plans new pricing and attractions. ](/news/2015/12/25/with-the-death-of-an-18-year-old-killer-whale-at-its-san-antonio-texas-facility-and-the-recent-malfunction-of-the-sky-tower-ride-at-its-par.md)
-_Context: Florida, Orlando, San Antonio, SeaWorld, Sky Tower, Texas, killer whale_
+_Context: Florida, Orlando, San Antonio, Texas, SeaWorld, Sky Tower, Texas, killer whale_
 
 ### [At least 17 people are injured in Peshawar, Pakistan, and five people are hurt in Afghanistan's Nangarhar Province after a 6.3-magnitude earthquake hit near the Afghanistan-Tajikistan border. The epicenter is in Afghanistan's quake-prone Ishkashim district, a mountainous area where mainly impoverished farmers live in homes  made with mud, according to Peshawar District Officer Muhmand Asim Khan. Other details about damage or casualties are not presently available. ](/news/2015/12/25/at-least-17-people-are-injured-in-peshawar-pakistan-and-five-people-are-hurt-in-afghanistan-s-nangarhar-province-after-a-6-3-magnitude-ear.md)
 It came two months after more than 300 people were killed by a quake in the same mountainous region in Afghanistan.

@@ -7,7 +7,7 @@ _Context: Barawa, MV Miltzow, Merka, Pirate, Somalia, United Nations, cargo ship
 _Context: CNN, Hurricane Katrina, Louisiana, Memorial Medical Center, New Orleans, Louisiana, attorney general, whether or not to continue_
 
 ### [ German Chancellor Gerhard Schroder informs that he won't play a role in the Merkel grand coalition cabinet. He criticizes the United States for its response to Hurricane Katrina and "Anglo-Saxon economic policies," while stressing the importance of Franco-Germanic ties. ](/news/2005/10/12/german-chancellor-gerhard-schrapder-informs-that-he-won-t-play-a-role-in-the-merkel-grand-coalition-cabinet-he-criticizes-the-united-state.md)
-_Context: Anglo-Saxon, Chancellor, Gerhard Schroder, Hurricane Katrina, United States, grand coalition_
+_Context: American, Anglo-Saxon, Chancellor, Gerhard Schroder, Hurricane Katrina, grand coalition_
 
 ### [ Conflict in Iraq: At least 30 people die following an insurgent suicide bomb attack in Talafar, North Western Iraq, the second such attack in as many days. ](/news/2005/10/12/conflict-in-iraq-at-least-30-people-die-following-an-insurgent-suicide-bomb-attack-in-talafar-north-western-iraq-the-second-such-attack.md)
 _Context: Conflict in Iraq, Iraq, Iraqi insurgency, Talafar, suicide bomb_

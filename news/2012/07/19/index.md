@@ -25,7 +25,7 @@ _Context: Ban Ki-moon, Secretary General, bombing_
 Assets worth £100m belonging to Syrian regime leaders have been located and frozen in Britain, the BBC has learned.
 
 ### [Six people are killed and one is injured in Antwerp, New York when a tractor trailer carrying yogurt rear-ends a vehicle that had slowed for construction work. ](/news/2012/07/19/six-people-are-killed-and-one-is-injured-in-antwerp-new-york-when-a-tractor-trailer-carrying-yogurt-rear-ends-a-vehicle-that-had-slowed-for.md)
-_Context: Antwerp, New York, tractor trailer, yogurt_
+_Context: Antwerp, New York, tractor-trailer, yogurt_
 
 ### [Eight men are found not guilty of the murder of three friends in Birmingham during last year's riots in England. ](/news/2012/07/19/eight-men-are-found-not-guilty-of-the-murder-of-three-friends-in-birmingham-during-last-year-s-riots-in-england.md)
 _Context: 2011 England Riots, Birmingham_

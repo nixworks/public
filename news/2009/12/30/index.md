@@ -1,7 +1,7 @@
 ## [2009-12-30](/news/2009/12/30/index.md)
 
 ### [ Seven American CIA agents are killed  by a suicide bomb attack in a US military base in Khost Province, Afghanistan. Two of the seven killed are contractors for Blackwater Worldwide. The CIA considers contractors to be officers. ](/news/2009/12/30/seven-american-cia-agents-are-killed-by-a-suicide-bomb-attack-in-a-us-military-base-in-khost-province-afghanistan-two-of-the-seven-kille.md)
-_Context: Afghanistan, Blackwater Worldwide, CIA, Khost, United States, suicide bomb_
+_Context: Afghanistan, American, Blackwater Worldwide, CIA, Khost, suicide bomb_
 
 ### [ Four Canadian soldiers and a journalist, Michelle Lang of the ''Calgary Herald, ''are killed in a vehicle explosion in Kandahar, Afghanistan. ](/news/2009/12/30/four-canadian-soldiers-and-a-journalist-michelle-lang-of-the-calgary-herald-are-killed-in-a-vehicle-explosion-in-kandahar-afghanista.md)
 Four Canadian soldiers and Calgary Herald reporter Michelle Lang were killed in a bomb blast Wednesday in Afghanistan.
@@ -22,7 +22,7 @@ _Context: Abdurrahman Wahid, Indonesia, President of Indonesia_
 _Context: Bauchi State, Nigeria_
 
 ### [ Taiwan announces plans to reimpose a ban on certain U.S. beef products amid concerns over mad cow disease. ](/news/2009/12/30/taiwan-announces-plans-to-reimpose-a-ban-on-certain-u-s-beef-products-amid-concerns-over-mad-cow-disease.md)
-_Context: Taiwan, United States, mad cow disease_
+_Context: American, Taiwan, mad cow disease_
 
 ### [ The Australian government predicts a 20% fall in the number of Indian students studying in the country, due to a series of racist attacks earlier this year. ](/news/2009/12/30/the-australian-government-predicts-a-20-fall-in-the-number-of-indian-students-studying-in-the-country-due-to-a-series-of-racist-attacks-e.md)
 New figures show there will be 4,000 fewer Indian nationals coming to Australia to study next year.

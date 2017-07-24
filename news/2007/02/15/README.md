@@ -28,7 +28,7 @@ _Context: Hamas, Ismail Haniyeh, Palestinian National Authority, Palestinian Pri
 _Context: North Korea, Nuclear program of North Korea, South Korea_
 
 ### [ The United States will build a military communications facility near Geraldton, Western Australia. ](/news/2007/02/15/the-united-states-will-build-a-military-communications-facility-near-geraldton-western-australia.md)
-_Context: Geraldton, Western Australia, United States_
+_Context: American, Geraldton, Western Australia_
 
 ### [ The Foreign Minister of China, Li Zhaoxing, is visiting Japan hoping to improve bilateral relations between the nations. The Chinese Prime Minister Wen Jiabao will visit Japan in April. ](/news/2007/02/15/the-foreign-minister-of-china-li-zhaoxing-is-visiting-japan-hoping-to-improve-bilateral-relations-between-the-nations-the-chinese-prime.md)
 _Context: Foreign Minister of China, Japan, Li Zhaoxing, Premier of the People's Republic of China, Wen Jiabao_

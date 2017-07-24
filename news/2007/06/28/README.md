@@ -22,10 +22,10 @@ _Context: 737, Angola, Europe, European Union, TAAG-Angola Airlines, commercial 
 _Context: bacteria, genetic material, synthetic life_
 
 ### [ Record high temperatures in Greece lead to nine deaths through heat stroke; outbreaks of wildfires, killing two people; and extensive power cuts. ](/news/2007/06/28/record-high-temperatures-in-greece-lead-to-nine-deaths-through-heat-stroke-outbreaks-of-wildfires-killing-two-people-and-extensive-power.md)
-_Context: Greece, heat stroke, wildfire_
+_Context: Greek, heat stroke, wildfire_
 
 ### [ A bill to legalize millions of illegal immigrants living in the United States is defeated in the United States Senate. ](/news/2007/06/28/a-bill-to-legalize-millions-of-illegal-immigrants-living-in-the-united-states-is-defeated-in-the-united-states-senate.md)
-_Context: Senate, United States, illegal worker_
+_Context: American, Senate, illegal worker_
 
 ### [ Former Libyan intelligence agent Abdelbaset al-Megrahi, convicted of the bombing of Pan Am Flight 103, wins a case for an appeal in the Scottish Criminal Cases Review Commission. ](/news/2007/06/28/former-libyan-intelligence-agent-abdelbaset-al-megrahi-convicted-of-the-bombing-of-pan-am-flight-103-wins-a-case-for-an-appeal-in-the-sco.md)
 _Context: Abdelbaset al-Megrahi, Libya, Lockerbie bombing, Scottish Criminal Cases Review Commission, appealed_

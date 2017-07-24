@@ -7,7 +7,7 @@ The death toll from heavy rain and flooding in southern Japan this week has rise
 An explosion Saturday at a Los Angeles Department of Water and Power plant in the San Fernando Valley caused a major fire and knocked out electricity to 140,000 customers.
 
 ### [The summit announces it is unable to gain agreement on climate change between the United States and the other 19 members of this international forum. ](/news/2017/07/8/the-summit-announces-it-is-unable-to-gain-agreement-on-climate-change-between-the-united-states-and-the-other-19-members-of-this-internation.md)
-_Context: 2017 G20 Hamburg summit, United States, climate change_
+_Context: 2017 G20 Hamburg summit, American, climate change_
 
 ### [A shooting at a gender reveal party in Cincinnati kills 1 and injures 8. The unborn child, revealed to be a boy, also dies. ](/news/2017/07/8/a-shooting-at-a-gender-reveal-party-in-cincinnati-kills-1-and-injures-8-the-unborn-child-revealed-to-be-a-boy-also-dies.md)
 _Context: Cincinnati, Crime in Cincinnati, gender reveal_

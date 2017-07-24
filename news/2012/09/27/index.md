@@ -7,7 +7,7 @@ _Context: Hajj, novel coronavirus_
 Mobs had wrecked the buildings in southwest Hunan province and stolen stock. -AFP
 
 ### [The United States announces that it will seek to lift its ban on imported goods from Myanmar. ](/news/2012/09/27/the-united-states-announces-that-it-will-seek-to-lift-its-ban-on-imported-goods-from-myanmar.md)
-_Context: Myanmar, United States_
+_Context: American, Myanmar_
 
 ### [A Los Angeles jury finds David Viens, the Lomita chef who told authorities that he cooked his dead wife's body to dispose of it, guilty of second-degree murder. ](/news/2012/09/27/a-los-angeles-jury-finds-david-viens-the-lomita-chef-who-told-authorities-that-he-cooked-his-dead-wifeas-body-to-dispose-of-it-guilty-of.md)
 _Context: David Viens, Lomita, Los Angeles, chef, second degree murder_

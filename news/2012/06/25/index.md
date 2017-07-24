@@ -16,7 +16,7 @@ _Context: Arab Spring, MI5, War on Terror, al-Qaeda_
 A BACKLOG in payments affecting more than 100,000 Ulster Bank customers will not be resolved until the end of the week, the bank&hellip;
 
 ### [Greece's new finance minister Vassilis Rapanos resigns due to ill health. ](/news/2012/06/25/greece-s-new-finance-minister-vassilis-rapanos-resigns-due-to-ill-health.md)
-_Context: Greece, Vassilis Rapanos_
+_Context: Greek, Vassilis Rapanos_
 
 ### [Cyprus says that it plans to ask its European partners for a loan of about 1.8 billion euros by the end of this week; this would make Cyprus the fifth European country to seek help. ](/news/2012/06/25/cyprus-says-that-it-plans-to-ask-its-european-partners-for-a-loan-of-about-1-8-billion-euros-by-the-end-of-this-week-this-would-make-cyprus.md)
 The fifth eurozone nation to seek help says it wants to limit exposure of its financial institutions to Greece crisis.

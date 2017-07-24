@@ -43,7 +43,7 @@ A top lawmaker on Sunday created waves over two key aspects of the proposed merg
 _Context: Influenza A virus subtype H5N1, Seoul, South Korea_
 
 ### [''The Guardian'''s Moscow Correspondent Luke Harding, who was expelled from Russia, is issued a new entry visa ahead of Foreign Minister Sergey Lavrov's visit to London. ](/news/2011/02/13/the-guardian-s-moscow-correspondent-luke-harding-who-was-expelled-from-russia-is-issued-a-new-entry-visa-ahead-of-foreign-minister-ser.md)
-_Context: London, Luke Harding, Russia, Russian Foreign Minister, Sergey Lavrov, The Guardian_
+_Context: London, Luke Harding, Russia, Russian Deputy Foreign Minister, Sergey Lavrov, The Guardian_
 
 ### [Pakistan's former foreign minister Shah Mehmood Qureshi dismisses claims by U.S. authorities that the American gunman who recently shot two Pakistanis dead is a diplomat. ](/news/2011/02/13/pakistan-s-former-foreign-minister-shah-mehmood-qureshi-dismisses-claims-by-u-s-authorities-that-the-american-gunman-who-recently-shot-two.md)
 _Context: Shah Mehmood Qureshi_

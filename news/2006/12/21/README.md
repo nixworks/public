@@ -10,7 +10,7 @@ _Context: Ipswich murder case, Steven Wright, Suffolk police_
 Four U.S. marines, including a squad leader, were charged with murder Thursday in the slaughter of 24 Iraqi civilians &mdash; in the biggest American criminal case involving civilian deaths to arise from the Iraqi war.
 
 ### [ New Jersey Governor Jon S. Corzine signs a bill granting civil unions to same-sex couples, with all the rights and privileges of marriage. New Jersey becomes the third U.S. state to offer civil unions, and the fifth to offer some version of marriage to gay couples. ](/news/2006/12/21/new-jersey-governor-jon-s-corzine-signs-a-bill-granting-civil-unions-to-same-sex-couples-with-all-the-rights-and-privileges-of-marriage.md)
-_Context: Jon Corzine, New Jersey, United States, civil union, gubernatorial elections, marriage, same-sex marriage_
+_Context: American, Jon Corzine, New Jersey, civil union, gubernatorial elections, marriage, same-sex marriage_
 
 ### [ War in Somalia: Fresh heavy fighting is reported near the weak Somali government's Baidoa base, amid fears conflict could plunge the entire Horn of Africa into crisis. ](/news/2006/12/21/war-in-somalia-p-fresh-heavy-fighting-is-reported-near-the-weak-somali-government-s-baidoa-base-amid-fears-conflict-could-plunge-the-entir.md)
 _Context: Baidoa, Horn of Africa, War in Somalia_

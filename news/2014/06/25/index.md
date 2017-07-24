@@ -19,7 +19,7 @@ Railways, while confirming the death of 4 people in the accident, has not ruled 
 China sends its first ever ministerial-level official on a charm offensive to Taiwan following mass protests over a proposed trade agreement.
 
 ### [The United States has added several LeT-affiliated organizations including Jama'at-ud-Dawa to its list of foreign terror organisations.](/news/2014/06/25/the-united-states-has-added-several-let-affiliated-organizations-including-jama-at-ud-dawa-to-its-list-of-foreign-terror-organisations.md)
-_Context: Jama'at-ud-Dawa, LeT, United States_
+_Context: American, Jama'at-ud-Dawa, LeT_
 
 ### [Algeria-Egypt relations:Egypt's president Abdel Fattah el-Sisi makes his first official visit abroad to Algeria where security was top of the agenda. ](/news/2014/06/25/algeriaaegypt-relations-pegypt-s-president-abdel-fattah-el-sisi-makes-his-first-official-visit-abroad-to-algeria-where-security-was-top-of.md)
 * Gas deal part of supply talks since early this year* Five cargoes to be delivered by year-end* Sisi, Algeria talk over security, Libya (A

@@ -22,7 +22,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Mexico, Subcomandante Marcos, Zapatista_
 
 ### [ Greek prosecutor launches a preliminary investigation to determine if Greeks fighting for Bosnian Serbs were involved with the Srebrenica massacre. ](/news/2005/06/27/greek-prosecutor-launches-a-preliminary-investigation-to-determine-if-greeks-fighting-for-bosnian-serbs-were-involved-with-the-srebrenica-m.md)
-_Context: Greece, Serb, Srebrenica massacre_
+_Context: Greek, Serb, Srebrenica massacre_
 
 ### [ In Bosnia, Bosnian Serb police arrests 11 for connection with war crimes. ](/news/2005/06/27/in-bosnia-bosnian-serb-police-arrests-11-for-connection-with-war-crimes.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

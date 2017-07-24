@@ -37,7 +37,7 @@ _Context: Italian Prime Minister, Lega Nord, People of Freedom, Roberto Maroni, 
 Bob Brown will spearhead Sea Shepherd Society&#039;s next anti-whaling protest in the Southern Ocean.
 
 ### [The United States records its hottest year on record in 2012. ](/news/2013/01/8/the-united-states-records-its-hottest-year-on-record-in-2012.md)
-_Context: United States_
+_Context: American_
 
 ## [Previous Day...](/news/2013/01/7/index.md)
 

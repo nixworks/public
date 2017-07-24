@@ -4,7 +4,7 @@
 _Context: Hezbollah, Israel, Southern Lebanon, UN, cluster bomb_
 
 ### [ Iranian President Mahmoud Ahmadinejad says that rabbis are more critical of Zionism and the "Zionist regime" than he has been. He expresses hope that "God willing, with the force of God behind it, we shall soon experience a world without the United States and Zionism." ](/news/2006/09/25/iranian-president-mahmoud-ahmadinejad-says-that-rabbis-are-more-critical-of-zionism-and-the-zionist-regime-than-he-has-been-he-expresses.md)
-_Context: Iranian President, Mahmoud Ahmadinejad, United States, Zionist, government_
+_Context: American, Iranian President, Mahmoud Ahmadinejad, Zionist, government_
 
 ### [ Condoleezza Rice, the United States Secretary of State, and Barry Lowenkron, the assistant secretary of state for human rights, meet with Kasymzhomart Tokayev, the foreign minister of Kazakhstan. They discussed the War in Afghanistan and Iraq and the Nazarbayev administration's desire to head the Organization for Security and Cooperation in Europe in 2009, which the United States Government opposes. ](/news/2006/09/25/condoleezza-rice-the-united-states-secretary-of-state-and-barry-lowenkron-the-assistant-secretary-of-state-for-human-rights-meet-with-k.md)
 _Context: Condoleezza Rice, Foreign Minister, Kasymzhomart Tokayev, Kazakhstan, Nursultan Nazarbayev's, Organization for Security and Cooperation in Europe, United States Secretary of State, United States government, War in Afghanistan (2001-present), War in Iraq_

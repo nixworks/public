@@ -19,7 +19,7 @@ YANGON, Myanmar (AP) — Thousands of Myanmar politicians, activists and others 
 A 27-year-old student allegedly known for his right-wing, nationalist views appears in court in Canada charged with murdering six people during a shooting at a Quebec City mosque.
 
 ### [Iris Mittenaere, winner of Miss France 2016, is crowned as the winner of Miss Universe 2016 at a ceremony in the Philippines. ](/news/2017/01/30/iris-mittenaere-winner-of-miss-france-2016-is-crowned-as-the-winner-of-miss-universe-2016-at-a-ceremony-in-the-philippines.md)
-_Context: Iris Mittenaere, Miss France 2016, Miss Universe 2016, Philippines_
+_Context: Iris Mittenaere, Miss France 2016, Miss Universe 2016, Philippine_
 
 ### [Walgreens Boots Alliance  reduces its offer price for  Rite Aid and defers the expected closing date by six months due to concerns about regulatory approval. ](/news/2017/01/30/walgreens-boots-alliance-reduces-its-offer-price-for-rite-aid-and-defers-the-expected-closing-date-by-six-months-due-to-concerns-about-reg.md)
 Drugstore chain Walgreens Boots Alliance Inc (WBA.O) said its deal to buy smaller rival Rite Aid Corp (RAD.N) would now take six months longer to close and also reduced its offer price as it expects to divest more stores to gain regulatory approval.
@@ -31,7 +31,7 @@ _Context: Gorno-Badakhshan, Tajikistan_
 The petition suggested it should be canceled &quot;because it would cause embarrassment&quot; to Queen Elizabeth II.
 
 ### [The Iraqi Parliament votes in favour of a reciprocal travel ban on U.S. citizens if U.S. President Donald Trump's executive order barring citizens of Iraq and six other Muslim-majority countries is not reversed. The Iraqi travel ban will not be implemented while tens of thousands of U.S. soldiers and contractors are involved in the fight against ISIL. ](/news/2017/01/30/the-iraqi-parliament-votes-in-favour-of-a-reciprocal-travel-ban-on-u-s-citizens-if-u-s-president-donald-trump-s-executive-order-barring-ci.md)
-_Context: ISIL, Iraq, Iraq-United States relations, Iraqi Parliament, President Donald Trump's travel ban, United States_
+_Context: American, ISIL, Iraq, Iraq-United States relations, Iraqi Parliament, President Donald Trump's travel ban_
 
 ### [Philippine President Rodrigo Duterte suspends the war on drugs so  resources can focus on ridding "corrupt" officers from the Philippine National Police. The ''cause celebre'' is the kidnapping and strangulation of South Korean businessman  Jee Ick-joo last October. ](/news/2017/01/30/philippine-president-rodrigo-duterte-suspends-the-war-on-drugs-so-resources-can-focus-on-ridding-acorrupta-officers-from-the-philippine.md)
 The Philippine police are to suspend their controversial war on drugs until &ldquo;corrupt&rdquo; officers can be rooted out, the chief of the force said on Monday, following the killing of a South Korean businessman.

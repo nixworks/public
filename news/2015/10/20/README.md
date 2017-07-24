@@ -1,7 +1,7 @@
 ## [2015-10-20](/news/2015/10/20/index.md)
 
 ### [The United States Chairman of the Joint Chiefs of Staff, Marine Corps General Joseph Dunford arrived in Iraq to discuss the ongoing battle against ISIS. ](/news/2015/10/20/the-united-states-chairman-of-the-joint-chiefs-of-staff-marine-corps-general-joseph-dunford-arrived-in-iraq-to-discuss-the-ongoing-battle-a.md)
-_Context: American-led intervention in Iraq, Chairman of the Joint Chiefs of Staff, General, ISIL, Iraq, Iraqi Civil War (2014-present), Joseph Dunford, United States, United States Marine Corps_
+_Context: American, American-led intervention in Iraq, Chairman of the Joint Chiefs of Staff, General, ISIL, Iraq, Iraqi Civil War (2014-present), Joseph Dunford, United States Marine Corps_
 
 ### [U.N. Secretary-General Ban Ki-moon, during a surprise visit to Jerusalem today, calls for calm ahead of meetings with Israeli and Palestinian leaders in an effort to bring an end to the month-long wave of violence. ](/news/2015/10/20/u-n-secretary-general-ban-ki-moon-during-a-surprise-visit-to-jerusalem-today-calls-for-calm-ahead-of-meetings-with-israeli-and-palestinia.md)
 _Context: Ban Ki-moon, Israel, Israeli-Palestinian conflict (2015), Jerusalem, Palestinians, Secretary General_
@@ -34,7 +34,7 @@ New mammogram advice considers the risks posed by screenings, not just the benef
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [European Union members agree to provide 291 border guards to Greece and Italy to help identify and register migrants. ](/news/2015/10/20/european-union-members-agree-to-provide-291-border-guards-to-greece-and-italy-to-help-identify-and-register-migrants.md)
-_Context: European Union, European migrant crisis, Greece, Italian, border guard_
+_Context: European Union, European migrant crisis, Greek, Italian, border guard_
 
 ### [Saudi Arabia receives US State Department approval for the purchase of four Multi-Mission Combat Ships for $11.25 billion. ](/news/2015/10/20/saudi-arabia-receives-us-state-department-approval-for-the-purchase-of-four-multi-mission-combat-ships-for-11-25-billion.md)
 Saudi Arabia has received U.S. State Department approval for the $11.25 billion purchase of four Multi-Mission Combat Ships from the United States.

@@ -4,7 +4,7 @@
 _Context: Bashar al-Assad, Lebanon, Syrian uprising (2011-present), Tripoli, Lebanon_
 
 ### [War in North-West Pakistan:A drone attack conducted by the United States kills two suspected militants outside their hideout in South Waziristan in northwestern Pakistan. ](/news/2012/06/2/war-in-north-west-pakistan-pa-drone-attack-conducted-by-the-united-states-kills-two-suspected-militants-outside-their-hideout-in-south-wazir.md)
-_Context: Pakistan, South Waziristan, United States, War in North-West Pakistan, drones launch_
+_Context: American, Pakistan, South Waziristan, War in North-West Pakistan, drones launch_
 
 ### [War in Afghanistan (2001-present):Four aid workers kidnapped by Taliban insurgents in the northern Afghan province of Badakhshan on May 22 are rescued by ISAF forces. ](/news/2012/06/2/war-in-afghanistan-2001apresent-pfour-aid-workers-kidnapped-by-taliban-insurgents-in-the-northern-afghan-province-of-badakhshan-on-may-2.md)
 _Context: Afghan, Badakhshan, ISAF, Taliban, War in Afghanistan (2001-present)_

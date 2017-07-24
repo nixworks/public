@@ -4,7 +4,7 @@
 Dozens of people living in a Peruvian town near Lake Titicaca reported vomiting and headaches after they went to look at a crater apparently left by a meteorite that crashed down over the weekend, health officials said on Tuesday.
 
 ### [ Nuclear program of Iran: The United States is drafting a United Nations Security Council resolution calling for sanctions against Iran prior to discussions amongst the five permanent members. ](/news/2007/09/18/nuclear-program-of-iran-the-united-states-is-drafting-a-united-nations-security-council-resolution-calling-for-sanctions-against-iran-prio.md)
-_Context: Iran, United Nations Security Council, United States, nuclear scientist, sanctions_
+_Context: American, Iran, United Nations Security Council, nuclear scientist, sanctions_
 
 ### [ The United States Federal Reserve cuts a key short-term interest rate by a half-percentage point, resulting in a stock market rally. ](/news/2007/09/18/the-united-states-federal-reserve-cuts-a-key-short-term-interest-rate-by-a-half-percentage-point-resulting-in-a-stock-market-rally.md)
 _Context: United States Federal Reserve, interest rates, stock market_
@@ -34,7 +34,7 @@ _Context: Australia, wheat_
 _Context: 2007 Pacific typhoon season, China, Shanghai_
 
 ### [ The son of Philippine House Speaker Jose De Venecia, Jr., Jose "Joey" De Venecia III, disclosed in a Senate inquiry that First Gentleman Mike Arroyo is the "mystery man" behind the controversial $ 329-million broadband contract with ZTE Corp. in China. ](/news/2007/09/18/the-son-of-philippine-house-speaker-jose-de-venecia-jr-jose-joey-de-venecia-iii-disclosed-in-a-senate-inquiry-that-first-gentleman-mi.md)
-_Context: China, First Gentleman, Jose De Venecia, Jr., Mike Arroyo, Philippines, Senate, ZTE, broadband_
+_Context: China, First Gentleman, Jose De Venecia, Jr., Mike Arroyo, Philippine, Senate, ZTE, broadband_
 
 ### [ O.J. Simpson is charged with several felonies in Las Vegas, Nevada. ](/news/2007/09/18/o-j-simpson-is-charged-with-several-felonies-in-las-vegas-nevada.md)
 _Context: Las Vegas, Nevada, O. J. Simpson, felons_

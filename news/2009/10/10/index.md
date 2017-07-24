@@ -13,7 +13,7 @@ Polish President Lech Kaczynski signed the European Union&#39;s Lisbon Treaty in
 _Context: Nigeria, tanker_
 
 ### [ 186 people are killed by landslides in the Philippines. ](/news/2009/10/10/186-people-are-killed-by-landslides-in-the-philippines.md)
-_Context: Philippines_
+_Context: Philippine_
 
 ### [ Ireland's Green Party votes by 84% to endorse a new Programme for Government with government partners Fianna Fail.](/news/2009/10/10/ireland-s-green-party-votes-by-84-to-endorse-a-new-programme-for-government-with-government-partners-fianna-fa-il.md)
 The Green Party has overwhelmingly endorsed the new Programme for Government, and rejected a motion calling on the party to oppose the NAMA legislation in the Dáil.
@@ -28,7 +28,7 @@ Three people arrested during protests over disputed presidential poll are senten
 _Context: Guinea, massacre of opposition protesters_
 
 ### [ United States President Barack Obama announces he will end the "Don't ask, don't tell" policy against homosexuals serving in the U.S. military. ](/news/2009/10/10/united-states-president-barack-obama-announces-he-will-end-the-don-t-ask-don-t-tell-policy-against-homosexuals-serving-in-the-u-s-milit.md)
-_Context: Barack Obama, President of the United States, United States, United States military, don't ask, don't tell, gay_
+_Context: American, Barack Obama, President of the United States, United States military, don't ask, don't tell, gay_
 
 ### [ More than 40 people are arrested after clashes between anti-Islamic and anti-racist demonstrations in Manchester, England. ](/news/2009/10/10/more-than-40-people-are-arrested-after-clashes-between-anti-islamic-and-anti-racist-demonstrations-in-manchester-england.md)
 _Context: England, Islam, Manchester, racial bias_

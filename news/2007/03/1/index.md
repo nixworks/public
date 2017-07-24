@@ -34,7 +34,7 @@ Tornadoes killed at least seven people in south Alabama today, including five at
 _Context: Abdoulaye Wade, President, Senegal_
 
 ### [ The United States formally charges David Hicks with aiding the Taliban. He will be the first person tried under the new law for military commissions. ](/news/2007/03/1/the-united-states-formally-charges-david-hicks-with-aiding-the-taliban-he-will-be-the-first-person-tried-under-the-new-law-for-military-co.md)
-_Context: David Hicks, Guantanamo military commission, Taliban, United States_
+_Context: American, David Hicks, Guantanamo military commission, Taliban_
 
 ### [ Eight people die in a landmine explosion in Chhattisgarh, India. ](/news/2007/03/1/eight-people-die-in-a-landmine-explosion-in-chhattisgarh-india.md)
 _Context: Chhattisgarh, India, landmine_
@@ -46,7 +46,7 @@ _Context: 1975, Balibo, Balibo Five, East Timor, Indonesia, New South Wales, Yun
 _Context: France, International Polar Year, North Pole, Paris, South Pole_
 
 ### [ Greek archaeologists announce that a 2,200-year-old statue of the goddess Hera has been found during excavations in the ruins of ancient Dion, a city under Mount Olympus. ](/news/2007/03/1/greek-archaeologists-announce-that-a-2-200-year-old-statue-of-the-goddess-hera-has-been-found-during-excavations-in-the-ruins-of-ancient-di.md)
-_Context: Dion, Greece, Hera, Mount Olympus_
+_Context: Dion, Greek, Hera, Mount Olympus_
 
 ## [Previous Day...](/news/2007/02/28/index.md)
 

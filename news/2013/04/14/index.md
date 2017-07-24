@@ -4,7 +4,7 @@
 At least 19 people are killed in bomb and gun attacks in the Somali capital Mogadishu, including an assault on the main courts.
 
 ### [War in North-West Pakistan:A drone attack conducted by the United States kills at least five people in Datta Khel, North Waziristan, Pakistan. ](/news/2013/04/14/war-in-north-west-pakistan-pa-drone-attack-conducted-by-the-united-states-kills-at-least-five-people-in-datta-khel-north-waziristan-pakist.md)
-_Context: Datta Khel, North Waziristan, Pakistan, United States, War in North-West Pakistan, drones launch_
+_Context: American, Datta Khel, North Waziristan, Pakistan, War in North-West Pakistan, drones launch_
 
 ### [At least 33 people die when a bus tumbles into a river near Trujillo, Peru. ](/news/2013/04/14/at-least-33-people-die-when-a-bus-tumbles-into-a-river-near-trujillo-peru.md)
 _Context: Peru, Trujillo, bus_

@@ -16,7 +16,7 @@ A bomb blast in a teahouse in the northern Iraqi city of Mosul killed at least s
 _Context: China, Sichuan, floods_
 
 ### [A heat wave settles over the United States with at least one death reported. ](/news/2013/07/17/a-heat-wave-settles-over-the-united-states-with-at-least-one-death-reported.md)
-_Context: United States, heat wave_
+_Context: American, heat wave_
 
 ### [A Bangladesh war crimes tribunal sentences Ali Ahsan Mohammad Mojaheed, Secretary General of the Bangladesh Jamaat-e-Islami political party, to death for atrocities committed during the Bangladesh Liberation War. ](/news/2013/07/17/a-bangladesh-war-crimes-tribunal-sentences-ali-ahsan-mohammad-mojaheed-secretary-general-of-the-bangladesh-jamaat-e-islami-political-party.md)
 A Bangladesh war crimes tribunal sentenced a top Islamist politician to death on Wednesday for crimes during a 1971 war of independence, as his supporters clashed with security forces in different parts of the country.

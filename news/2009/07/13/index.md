@@ -16,7 +16,7 @@ _Context: Austria, Bulgaria, Hungary, Nabucco natural gas pipeline, Romania, Tur
 _Context: Mian Channu, Pakistan, bomb blast_
 
 ### [ Greek police use bulldozers to completely clear a sprawling migrant camp that had been in place in the port town of Patras for over a decade.  ](/news/2009/07/13/greek-police-use-bulldozers-to-completely-clear-a-sprawling-migrant-camp-that-had-been-in-place-in-the-port-town-of-patras-for-over-a-decad.md)
-_Context: Greece, Patras, migrants_
+_Context: Greek, Patras, migrants_
 
 ### [ The United Kingdom halts some arms sales to Israel following the Gaza conflict. ](/news/2009/07/13/the-united-kingdom-halts-some-arms-sales-to-israel-following-the-gaza-conflict.md)
 _Context: 2008-2009 Gaza War, Israel, United Kingdom_
@@ -37,7 +37,7 @@ _Context: Germany, John Demjanjuk, World War II, accessory to murder_
 The police chief of a district south of Kabul that the Americans had sought to make a Taliban-free model of safety and security was killed in a roadside blast.
 
 ### [ U.S. Senate confirmation hearings for United States Supreme Court nominee Sonia Sotomayor begin. ](/news/2009/07/13/u-s-senate-confirmation-hearings-for-united-states-supreme-court-nominee-sonia-sotomayor-begin.md)
-_Context: Senate, Sonia Sotomayor, U.S. Supreme Court, United States_
+_Context: American, Senate, Sonia Sotomayor, U.S. Supreme Court_
 
 ### [ Former Prime Minister of Lebanon Amin al-Hafez dies at age 83. ](/news/2009/07/13/former-prime-minister-of-lebanon-amin-al-hafez-dies-at-age-83.md)
 _Context: Amin al-Hafez, Prime Minister_

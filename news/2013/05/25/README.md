@@ -25,7 +25,7 @@ At least 16 children and a teacher are killed in a fire on their school bus in t
 A total of 48 passengers, including children, are rescued from a boat after it hits a rock and starts taking in water off the Pembrokeshire coast.
 
 ### [Two people are killed when the US city of San Antonio, Texas, experiences heavy flooding. ](/news/2013/05/25/two-people-are-killed-when-the-us-city-of-san-antonio-texas-experiences-heavy-flooding.md)
-_Context: San Antonio, Texas_
+_Context: San Antonio, Texas, Texas_
 
 ### [Two freight trains collide in southeast Missouri, United States, causing a highway overpass to collapse. ](/news/2013/05/25/two-freight-trains-collide-in-southeast-missouri-united-states-causing-a-highway-overpass-to-collapse.md)
 _Context: Missouri, freight train, overpass_

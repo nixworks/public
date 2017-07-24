@@ -25,7 +25,7 @@ _Context: Chinese, Fujian, Guangdong province, Guangxi Zhuang, Hainan, Taiwan, T
 The official death toll from the natural-gas-line explosion in a Bay Area suburb stands at four people, with 38 homes destroyed, as authorities investigate what caused the blast.
 
 ### [An Iranian diplomat at the United Nations states that United States citizen Sarah Shourd will be released "very soon". ](/news/2010/09/9/an-iranian-diplomat-at-the-united-nations-states-that-united-states-citizen-sarah-shourd-will-be-released-very-soon.md)
-_Context: Iran, Sarah Shourd, United Nations, United States, diplomat_
+_Context: American, Iran, Sarah Shourd, United Nations, diplomat_
 
 ### ["Ground zero" mosque and cultural centre controversySusilo Bambang Yudhoyono, the President of Indonesia, and Asif Ali Zardari, the President of Pakistan, call on President of the United States, Barack Obama, to stop International Burn a Koran Day being organised by the Dove World Outreach Center. ](/news/2010/09/9/ground-zero-mosque-and-cultural-centre-controversypsusilo-bambang-yudhoyono-the-president-of-indonesia-and-asif-ali-zardari-the-preside.md)
 Barack Obama has condemned an American pastor&rsquo;s plan to burn copies of the Koran on the ninth anniversary of September 11 as a &ldquo;recruitment bonanza for al-Qaeda&rdquo;, as outrage has built across the Islam world.
@@ -34,7 +34,7 @@ Barack Obama has condemned an American pastor&rsquo;s plan to burn copies of the
 _Context: Chinese, Shandong, anti-corruption, bribe_
 
 ### [Investigators in the Philippines admit that Manila Police District officers may have shot dead some of the tourists killed in the Manila hostage crisis in August. ](/news/2010/09/9/investigators-in-the-philippines-admit-that-manila-police-district-officers-may-have-shot-dead-some-of-the-tourists-killed-in-the-manila-hos.md)
-_Context: Manila Police District, Manila hostage crisis, Philippines_
+_Context: Manila Police District, Manila hostage crisis, Philippine_
 
 ### [US District Court Judge Virginia A. Phillips rules that the United States military's don't ask, don't tell policy violates the First Amendment rights of gay men and lesbians. ](/news/2010/09/9/us-district-court-judge-virginia-a-phillips-rules-that-the-united-states-military-s-don-t-ask-don-t-tell-policy-violates-the-first-amendme.md)
 _Context: First Amendment, US District Court Judge, United States military, Virginia A. Phillips, don't ask, don't tell, gay, lesbian_

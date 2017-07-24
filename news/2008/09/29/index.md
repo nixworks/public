@@ -7,7 +7,7 @@ Two crude bombs hit Malegaon in Maharashtra, killing seven and injuring 30, and 
 _Context: Michael Mukasey, United States Attorney General, chief federal prosecutors, firings, special prosecutor_
 
 ### [ Subprime mortgage crisis: The United States House of Representatives rejects a proposed bailout of the U.S. financial system.](/news/2008/09/29/subprime-mortgage-crisis-p-the-united-states-house-of-representatives-rejects-a-proposed-bailout-of-the-u-s-financial-system.md)
-_Context: U.S. House of Representatives, United States, housing crisis, proposed bailout of the U.S. financial system_
+_Context: American, U.S. House of Representatives, housing crisis, proposed bailout of the U.S. financial system_
 
 ### [ A car bomb explodes near a bus carrying Lebanese Army troops to work in Tripoli, Lebanon, which kills at least five people and injures 25. ](/news/2008/09/29/a-car-bomb-explodes-near-a-bus-carrying-lebanese-army-troops-to-work-in-tripoli-lebanon-which-kills-at-least-five-people-and-injures-25.md)
 A car bomb exploded near a military bus carrying troops going to work in northern Lebanon, killing at least five people and injuring 25 others, Lebanese security officials said.

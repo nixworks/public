@@ -13,7 +13,7 @@ _Context: Democratic Republic of the Congo, Hutu_
 _Context: Baghdad, Iraqi insurgency_
 
 ### [ Officials from Iran and the United States hold their first talks since 1980 with the topic being the future of Iraq. ](/news/2007/05/28/officials-from-iran-and-the-united-states-hold-their-first-talks-since-1980-with-the-topic-being-the-future-of-iraq.md)
-_Context: 1980, Iran, Iraq, United States_
+_Context: 1980, American, Iran, Iraq_
 
 ### [ Japan: Minister of Agriculture Toshikatsu Matsuoka commits suicide, apparently over a financial scandal. ](/news/2007/05/28/japan-p-minister-of-agriculture-toshikatsu-matsuoka-commits-suicide-apparently-over-a-financial-scandal.md)
 _Context: Japan, Minister of Agriculture, Toshikatsu Matsuoka_

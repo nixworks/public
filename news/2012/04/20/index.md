@@ -13,7 +13,7 @@ The exec had a rocky tenure at the film studio, with his greatest setback being 
 A passenger plane carrying 127 people on board crashed in bad weather in the outskirts of the Pakistani capital of Islamabad on Friday.
 
 ### [More than 40 people are killed and 27 injured when a tractor trailer collides with a bus near Alamo, Veracruz, Mexico. ](/news/2012/04/20/more-than-40-people-are-killed-and-27-injured-when-a-tractor-trailer-collides-with-a-bus-near-alamo-veracruz-mexico.md)
-_Context: Alamo, Veracruz, Mexico, tractor trailer_
+_Context: Alamo, Veracruz, Mexico, tractor-trailer_
 
 ### [Marcus Robinson, due to have been executed in 2007, is ordered off death row after North Carolina Superior Court Judge Gregory Weeks rules his trial was tainted by racial bias, grounds for cancellation of a death sentence under the state's Racial Justice Act. The judge used controversial statistical evidence of bias to grant the change of sentence. ](/news/2012/04/20/marcus-robinson-due-to-have-been-executed-in-2007-is-ordered-off-death-row-after-north-carolina-superior-court-judge-gregory-weeks-rules-h.md)
 Convicted US killer Marcus Robinson is ordered off death row after a judge determines that racial bias was evident during jury selection in his 1994 trial.
