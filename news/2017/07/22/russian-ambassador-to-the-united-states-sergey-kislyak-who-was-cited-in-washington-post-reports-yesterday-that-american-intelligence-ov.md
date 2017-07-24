@@ -1,6 +1,6 @@
 ### [2017-07-22](/news/2017/07/22/index.md)
 
-# Russian Ambassador to the United States Sergey Kislyak, who was cited in ''Washington Post'' reports yesterday that American intelligence overheard  him telling Moscow about his election-related discussions with a Trump campaign official, ends his nine-year assignment and leaves the United States. In May 2017, Russian Deputy Foreign Minister Anatoly Antonov was approved as the next ambassador. 
+# Russian Ambassador to the United States Sergey Kislyak, who was cited in ''Washington Post'' reports yesterday that American intelligence overheard him telling Moscow about his election-related discussions with a Trump campaign official, ends his nine-year assignment and leaves the United States. In May 2017, Russian Deputy Foreign Minister Anatoly Antonov was approved as the next ambassador. 
 
 Kislyak emerged as a central figure in investigations into possible collusion between the Trump campaign and Russia
 

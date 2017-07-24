@@ -1,6 +1,6 @@
 ### [2017-07-22](/news/2017/07/22/index.md)
 
-# Negotiators from the Democratic and Republican parties agree on new sanctions against Russia, Iran, and  North Korea. Both chambers of the United States Congress  are scheduled to vote on passage on Tuesday. 
+# Negotiators from the Democratic and Republican parties agree on new sanctions against Russia, Iran, and  North Korea. Both chambers of the United States Congress are scheduled to vote on passage on Tuesday. 
 
 U.S. Republicans and Democrats have reached agreement on legislation that allows new sanctions against Russia, Iran and now also North Korea, leading congressional Democrats said on Saturday.
 
