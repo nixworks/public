@@ -15,5 +15,8 @@ _Context: HelloWallet, KeyCorp_
 ### [The parents of the terminally ill Charlie Gard give up their legal challenge over treatment in the US. The latest medical reports indicate that the window of opportunity no longer exists. ](/news/2017/07/24/the-parents-of-the-terminally-ill-charlie-gard-give-up-their-legal-challenge-over-treatment-in-the-us-the-latest-medical-reports-indicate-t.md)
 _Context: Charlie Gard case, window of opportunity_
 
+### [The Central Commission for Discipline Inspection announces that former Chongqing party boss Sun Zhengcai is under investigation for violating party discipline. Sun is the fourth sitting Politburo member since 1990 to fall from power. ](/news/2017/07/24/the-central-commission-for-discipline-inspection-announces-that-former-chongqing-party-boss-sun-zhengcai-is-under-investigation-for-violatin.md)
+Officials said Sun Zhengcai, fired last month as party secretary of the city of Chongqing, was suspected of “grave violations of discipline.”
+
 ## [Previous Day...](/news/2017/07/23/index.md)
 
