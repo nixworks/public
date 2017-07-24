@@ -1,14 +1,15 @@
 ### [2017-07-23](/news/2017/07/23/index.md)
 
-# A shooting at the Israeli embassy in Amman, Jordan, leaves one person, a Jordanian, dead, and an Israeli and a Jordanian wounded. There is speculation the attack may be linked to recent events at Jerusalem's  Al-Aqsa Mosque. 
+# A shooting at the Israeli embassy in Amman, Jordan, leaves one person, a Jordanian, dead, and an Israeli and a Jordanian wounded. There is speculation the attack may be linked to recent events at Jerusalem's  Al-Aqsa Mosque. Another Jordanian man was killed inadvertently. 
 
 The shooting at the compound in Amman may be related to recent protests over the Al-Aqsa Mosque.
 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-jordan-israel-security-idUSKBN1A80SE?il=0)
-2. [The Atlantic](https://www.theatlantic.com/news/archive/2017/07/israeli-embassy-attack/534612/)
+1. [BBC](http://www.bbc.com/news/world-middle-east-40700467)
+2. [Reuters](http://www.reuters.com/article/us-jordan-israel-security-idUSKBN1A80SE?il=0)
+3. [The Atlantic](https://www.theatlantic.com/news/archive/2017/07/israeli-embassy-attack/534612/)
 
 ### Related:
 
