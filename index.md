@@ -32,6 +32,9 @@ _Context: Charlie Gard case, window of opportunity_
 ### [A girl born with HIV, who was started on HIV drugs when she was 2 months old and stopped 40 weeks later, is virtually-free of the virus even after no further treatment. ](/news/2017/07/24/a-girl-born-with-hiv-who-was-started-on-hiv-drugs-when-she-was-2-months-old-and-stopped-40-weeks-later-is-virtually-free-of-the-virus-even.md)
 The case provides more evidence that early treatment can occasionally bring about a long remission, raising hopes of cure
 
+### [Israel's embassy staff in Jordan, including a security guard involved in a shooting incident in which two Jordanians were killed yesterday, return to Israel from Amman. Israeli Prime Minister Benjamin Netanyahu thanked U.S. President Donald Trump and Jordan's King Abdullah for their help and cooperation. ](/news/2017/07/24/israel-s-embassy-staff-in-jordan-including-a-security-guard-involved-in-a-shooting-incident-in-which-two-jordanians-were-killed-yesterday.md)
+A security officer who killed an alleged attacker in Amman is among those to return to Israel.
+
 ### [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. A manhunt is underway for the suspect.](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland-a-manhunt-is-under.md)
 _Context: Schaffhausen, Switzerland_
 
