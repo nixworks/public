@@ -6,7 +6,7 @@ The US, Russia, EU and United Nations have expressed concern about escalating vi
 ### [Bank of America chooses Dublin as its European hub. ](/news/2017/07/22/bank-of-america-chooses-dublin-as-its-european-hub.md)
 Bank of America Corp. has picked Dublin to locate its main European Union hub in preparation for Britain quitting the bloc in 2019, the latest global bank to finalize its contingency arrangements after Brexit.
 
-### [A United Kingdom court blocks a PS14 billion class action lawsuit against Mastercard. ](/news/2017/07/22/a-united-kingdom-court-blocks-a-aps14-billion-class-action-lawsuit-against-mastercard.md)
+### [A United Kingdom court blocks a PS14 billion class action lawsuit against MasterCard. ](/news/2017/07/22/a-united-kingdom-court-blocks-a-aps14-billion-class-action-lawsuit-against-mastercard.md)
 Fledgling competition tribunal refuses to allow claim relating to 16 years of alleged overcharging to proceed
 
 ### [Aftershocks cause panic in the Greek island of Kos after a deadly earthquake that injured hundreds. ](/news/2017/07/22/aftershocks-cause-panic-in-the-greek-island-of-kos-after-a-deadly-earthquake-that-injured-hundreds.md)
@@ -16,7 +16,7 @@ Two strong aftershocks have struck the Greek island of Kos within minutes of eac
 Kislyak emerged as a central figure in investigations into possible collusion between the Trump campaign and Russia
 
 ### [Poles march against a bill that critics say might decrease judicial independence in Poland. Hungary has supported the bill while the European Union has opposed it. The protesters hope that the President Andrzej Duda would intervene against the proposed law. ](/news/2017/07/22/poles-march-against-a-bill-that-critics-say-might-decrease-judicial-independence-in-poland-hungary-has-supported-the-bill-while-the-europea.md)
-_Context: Andrzej Duda, European Union, Hungary, Poland, Poles, President_
+_Context: Andrzej Duda, European Union, Hungary, Law of Poland, Poland, Poles, President_
 
 ### [Voters in East Timor go to the polls to elect members of their National Parliament. ](/news/2017/07/22/voters-in-east-timor-go-to-the-polls-to-elect-members-of-their-national-parliament.md)
 _Context: East Timor, East Timorese parliamentary election, 2017, National Parliament_

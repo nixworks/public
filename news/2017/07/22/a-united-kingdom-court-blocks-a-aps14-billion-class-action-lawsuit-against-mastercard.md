@@ -1,6 +1,6 @@
 ### [2017-07-22](/news/2017/07/22/index.md)
 
-# A United Kingdom court blocks a PS14 billion class action lawsuit against Mastercard. 
+# A United Kingdom court blocks a PS14 billion class action lawsuit against MasterCard. 
 
 Fledgling competition tribunal refuses to allow claim relating to 16 years of alleged overcharging to proceed
 
