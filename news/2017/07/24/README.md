@@ -6,9 +6,6 @@ A Taliban suicide attacker detonated a car bomb in the western part of Kabul on 
 ### [At least 26 people are killed and over 50 others are injured in a suicide car bombing in southern Lahore. ](/news/2017/07/24/at-least-26-people-are-killed-and-over-50-others-are-injured-in-a-suicide-car-bombing-in-southern-lahore.md)
 Almost 50 others were injured in the explosion near a vegetable market in the south of the city.
 
-### [In a speech through Congress,  Philippine President Rodrigo Duterte asks the United States to return the iconic Balangiga bells taken during the Philippine-American War. ](/news/2017/07/24/in-a-speech-through-congress-philippine-president-rodrigo-duterte-asks-the-united-states-to-return-the-iconic-balangiga-bells-taken-during.md)
-Filipino leader Rodrigo Duterte on Monday demanded the U.S. government return church bells that American soldiers took more than a hundred years ago.
-
 ### [Microsoft announces that Paint will cease to be updated after the Windows 10 Fall Creators Update because its functionality was "integrated into Paint 3D". Paint was first released 32 years ago. ](/news/2017/07/24/microsoft-announces-that-paint-will-cease-to-be-updated-after-the-windows-10-fall-creators-update-because-its-functionality-was-integrated.md)
 Long-standing basic graphics editing program, used throughout childhoods since the 1980s, has been marked for death
 
@@ -23,6 +20,9 @@ The case provides more evidence that early treatment can occasionally bring abou
 
 ### [Israel's embassy staff in Jordan, including a security guard involved in a shooting incident in which two Jordanians were killed yesterday, return to Israel from Amman. Israeli Prime Minister Benjamin Netanyahu thanked U.S. President Donald Trump and Jordan's King Abdullah for their help and cooperation. ](/news/2017/07/24/israel-s-embassy-staff-in-jordan-including-a-security-guard-involved-in-a-shooting-incident-in-which-two-jordanians-were-killed-yesterday.md)
 A security officer who killed an alleged attacker in Amman is among those to return to Israel.
+
+### [History of the Philippines (1898-1946), During the annual State of the Nation Address through the Congress of the Philippines, President of the Philippines Rodrigo Duterte has outright demanded the United States to return the controversial Balangiga bells, taken during one of the campaigns of the Philippine-American War as spoils of war. Previous attempts to recover the bells have all failed so far. ](/news/2017/07/24/history-of-the-philippines-1898a1946-during-the-annual-state-of-the-nation-address-through-the-congress-of-the-philippines-president-o.md)
+Filipino leader Rodrigo Duterte on Monday demanded the U.S. government return church bells that American soldiers took more than a hundred years ago.
 
 ### [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. A manhunt is underway for the suspect.](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland-a-manhunt-is-under.md)
 _Context: Crime in Switzerland, Schaffhausen, Switzerland_
