@@ -12,11 +12,17 @@ Microsoft will not kill of Paint, it has now said. A suggestion from the company
 ### [Michael Kors buys Jimmy Choo for US$1.2 billion. ](/news/2017/07/25/michael-kors-buys-jimmy-choo-for-us-1-2-billion.md)
 The agreement comes as upscale American brands grapple with plummeting sales and tepid profits, particularly in the so-called middle market.
 
+### [Adobe Systems announces it will  stop updating and distributing its multimedia software platform Flash by the end of 2020. ](/news/2017/07/25/adobe-systems-announces-it-will-stop-updating-and-distributing-its-multimedia-software-platform-flash-by-the-end-of-2020.md)
+Adobe said it plans to stop updating and distributing its Flash Player by the end of 2020.
+
 ### [2017 heat wave in EuropeFirefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/2017-heat-wave-in-europepfirefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md)
 Hundreds&#x20;of&#x20;firefighters&#x20;were&#x20;battling&#x20;blazes&#x20;across&#x20;southern&#x20;France&#x20;on&#x20;Monday,&#x20;with&#x20;one&#x20;inferno&#x20;spreading&#x20;across&#x20;900&#x20;hectares&#x20;of&#x20;forest&#x20;and&#x20;threatening&#x20;homes&#x20;on&#x20;the&#x20;island&#x20;of&#x20;Corsica,&#x20;emergency&#x20;services&#x20;said.
 
 ### [A report by Human Rights Watch and interACT Advocates for Intersex Youth calls for a U.S. moratorium on all surgical procedures on intersex children because they are medically unnecessary and can scar young patients for life. ](/news/2017/07/25/a-report-by-human-rights-watch-and-interact-advocates-for-intersex-youth-calls-for-a-u-s-moratorium-on-all-surgical-procedures-on-intersex.md)
 By Sebastien MaloNEW YORK (Thomson Reuters Foundation) - Genital surgeryshould be banned on children whose sex characteristics areambiguous because
+
+### [A study, published in the  ''Journal of the American Medical Association'',  finds 99 percent of the brains, donated for scientific research, of former National Football League players show signs of chronic traumatic encephalopathy (CTE),  the disease identified in autopsies of numerous NFL players who committed suicide, and the subject of the 2015 movie ''Concussion''. ](/news/2017/07/25/a-study-published-in-the-journal-of-the-american-medical-association-finds-99-percent-of-the-brains-donated-for-scientific-research.md)
+The brains of 99 percent of former National Football League players studied showed signs of a disease linked to repeated hits to the head that can lead to aggression and dementia, according to research published in a medical journal on Tuesday.
 
 ### [Jordanian authorities release a video of a shooting of United States soldiers by a Jordanian Air Force sergeant. ](/news/2017/07/25/jordanian-authorities-release-a-video-of-a-shooting-of-united-states-soldiers-by-a-jordanian-air-force-sergeant.md)
 Newly released footage of a gunfight that left three Americans dead in November shows a deliberate attack that was initially explained as a mistake.
