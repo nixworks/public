@@ -6,7 +6,7 @@ A Taliban suicide attacker detonated a car bomb in the western part of Kabul on 
 ### [At least 26 people are killed and over 50 others are injured in a suicide car bombing in southern Lahore. ](/news/2017/07/24/at-least-26-people-are-killed-and-over-50-others-are-injured-in-a-suicide-car-bombing-in-southern-lahore.md)
 Almost 50 others were injured in the explosion near a vegetable market in the south of the city.
 
-### [In a speech through Congress,  Philippine President Rodrigo Duterte begs the United States to return the iconic Balangiga bells taken during the Philippine-American War. ](/news/2017/07/24/in-a-speech-through-congress-philippine-president-rodrigo-duterte-begs-the-united-states-to-return-the-iconic-balangiga-bells-taken-during.md)
+### [In a speech through Congress,  Philippine President Rodrigo Duterte asks the United States to return the iconic Balangiga bells taken during the Philippine-American War. ](/news/2017/07/24/in-a-speech-through-congress-philippine-president-rodrigo-duterte-asks-the-united-states-to-return-the-iconic-balangiga-bells-taken-during.md)
 Filipino leader Rodrigo Duterte on Monday demanded the U.S. government return church bells that American soldiers took more than a hundred years ago.
 
 ### [Microsoft announces that Paint will cease to be updated after the Windows 10 Fall Creators Update because its functionality was "integrated into Paint 3D". Paint was first released 32 years ago. ](/news/2017/07/24/microsoft-announces-that-paint-will-cease-to-be-updated-after-the-windows-10-fall-creators-update-because-its-functionality-was-integrated.md)
@@ -23,6 +23,9 @@ The case provides more evidence that early treatment can occasionally bring abou
 
 ### [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. A manhunt is underway for the suspect.](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland-a-manhunt-is-under.md)
 _Context: Schaffhausen, Switzerland_
+
+### [U.S. District Judge for the Eastern District of Michigan, Mark A. Goldsmith, halts for 90 days deportation from the United States of more than 1,400 Iraqi nationals to allow the plaintiffs time to appeal their cases. The American Civil Liberties Union petitioned for the injunction stating these people would face persecution in Iraq where they are considered ethnic and religious minorities. ](/news/2017/07/24/u-s-district-judge-for-the-eastern-district-of-michigan-mark-a-goldsmith-halts-for-90-days-deportation-from-the-united-states-of-more-th.md)
+A federal judge in Michigan halted on Monday the deportation of more than 1,400 Iraqi nationals from the United States, the latest legal victory for the Iraqi nationals facing deportation in a closely watched case.
 
 ### [The Chinese Central Commission for Discipline Inspection announces that current Politburo member Sun Zhengcai is under investigation for violating party discipline. Sun is the fourth sitting Politburo member since 1990 to fall from power. ](/news/2017/07/24/the-chinese-central-commission-for-discipline-inspection-announces-that-current-politburo-member-sun-zhengcai-is-under-investigation-for-vio.md)
 Officials said Sun Zhengcai, fired last month as party secretary of the city of Chongqing, was suspected of “grave violations of discipline.”
