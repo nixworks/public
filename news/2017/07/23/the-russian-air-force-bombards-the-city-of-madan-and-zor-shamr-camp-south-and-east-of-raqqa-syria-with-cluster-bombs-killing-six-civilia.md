@@ -1,6 +1,6 @@
 ### [2017-07-23](/news/2017/07/23/index.md)
 
-# The Russian air force bombards the city of Madan and Zor Shamr Camp, south and east of Raqqa, Syria, with cluster bombs, killing six civilians and wounding 19 others. Nearby Alburamadan town  was also struck; there are no reports of civilian casualties. 
+# The Russian air force bombards the city of Madan and Zor Shamr Camp, south and east of Raqqa, Syria, with cluster bombs, killing six civilians and wounding 19 others. Nearby Alburamadan town  was also struck; there are no reports of casualties. 
 
 
 

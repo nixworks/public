@@ -32,6 +32,9 @@ A Taliban suicide attacker detonated a car bomb in the western part of Kabul on 
 ### [At least 26 people are killed and over 50 others are injured in a suicide car bombing in southern Lahore. ](/news/2017/07/24/at-least-26-people-are-killed-and-over-50-others-are-injured-in-a-suicide-car-bombing-in-southern-lahore.md)
 Almost 50 others were injured in the explosion near a vegetable market in the south of the city.
 
+### [Ukrainian President Petro Poroshenko demands Russia halt arms supplies to Russian-backed militants as the leaders of France and Germany tried to revive a peace plan. ](/news/2017/07/24/ukrainian-president-petro-poroshenko-demands-russia-halt-arms-supplies-to-russian-backed-militants-as-the-leaders-of-france-and-germany-trie.md)
+Ukraine leader slams Russia over arms given to rebels
+
 ### [Microsoft announces that Paint will cease to be updated after the Windows 10 Fall Creators Update because its functionality was "integrated into Paint 3D". Paint was first released 32 years ago. ](/news/2017/07/24/microsoft-announces-that-paint-will-cease-to-be-updated-after-the-windows-10-fall-creators-update-because-its-functionality-was-integrated.md)
 Long-standing basic graphics editing program, used throughout childhoods since the 1980s, has been marked for death
 
@@ -72,7 +75,7 @@ Ancient volcanic deposits on the moon indicate the lunar interior has a substant
 
 ## [Day Before Yesterday](/news/2017/07/23/index.md)
 
-### [The Russian air force bombards the city of Madan and Zor Shamr Camp, south and east of Raqqa, Syria, with cluster bombs, killing six civilians and wounding 19 others. Nearby Alburamadan town  was also struck; there are no reports of civilian casualties. ](/news/2017/07/23/the-russian-air-force-bombards-the-city-of-madan-and-zor-shamr-camp-south-and-east-of-raqqa-syria-with-cluster-bombs-killing-six-civilia.md)
+### [The Russian air force bombards the city of Madan and Zor Shamr Camp, south and east of Raqqa, Syria, with cluster bombs, killing six civilians and wounding 19 others. Nearby Alburamadan town  was also struck; there are no reports of casualties. ](/news/2017/07/23/the-russian-air-force-bombards-the-city-of-madan-and-zor-shamr-camp-south-and-east-of-raqqa-syria-with-cluster-bombs-killing-six-civilia.md)
 _Context: Raqqa, Russia, Syria, Syrian Civil War, cluster bomb_
 
 ### [A shooting at the Israeli embassy in Amman, Jordan, leaves one person, a Jordanian, dead, and an Israeli and a Jordanian wounded. There is speculation the attack may be linked to recent events at Jerusalem's  Al-Aqsa Mosque. Another Jordanian man was killed inadvertently. ](/news/2017/07/23/a-shooting-at-the-israeli-embassy-in-amman-jordan-leaves-one-person-a-jordanian-dead-and-an-israeli-and-a-jordanian-wounded-there-is-s.md)

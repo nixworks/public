@@ -6,6 +6,9 @@ A Taliban suicide attacker detonated a car bomb in the western part of Kabul on 
 ### [At least 26 people are killed and over 50 others are injured in a suicide car bombing in southern Lahore. ](/news/2017/07/24/at-least-26-people-are-killed-and-over-50-others-are-injured-in-a-suicide-car-bombing-in-southern-lahore.md)
 Almost 50 others were injured in the explosion near a vegetable market in the south of the city.
 
+### [Ukrainian President Petro Poroshenko demands Russia halt arms supplies to Russian-backed militants as the leaders of France and Germany tried to revive a peace plan. ](/news/2017/07/24/ukrainian-president-petro-poroshenko-demands-russia-halt-arms-supplies-to-russian-backed-militants-as-the-leaders-of-france-and-germany-trie.md)
+Ukraine leader slams Russia over arms given to rebels
+
 ### [Microsoft announces that Paint will cease to be updated after the Windows 10 Fall Creators Update because its functionality was "integrated into Paint 3D". Paint was first released 32 years ago. ](/news/2017/07/24/microsoft-announces-that-paint-will-cease-to-be-updated-after-the-windows-10-fall-creators-update-because-its-functionality-was-integrated.md)
 Long-standing basic graphics editing program, used throughout childhoods since the 1980s, has been marked for death
 
