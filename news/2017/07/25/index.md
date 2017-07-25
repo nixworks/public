@@ -9,7 +9,7 @@ Microsoft will not kill of Paint, it has now said. A suggestion from the company
 ### [Michael Kors buys Jimmy Choo for US$1.2 billion. ](/news/2017/07/25/michael-kors-buys-jimmy-choo-for-us-1-2-billion.md)
 The agreement comes as upscale American brands grapple with plummeting sales and tepid profits, particularly in the so-called middle market.
 
-### [European Firefirghters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/european-firefirghters-battle-wildfires-across-southern-france-including-one-in-corsica.md)
+### [2017 heat wave in EuropeFirefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/2017-heat-wave-in-europepfirefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md)
 Hundreds&#x20;of&#x20;firefighters&#x20;were&#x20;battling&#x20;blazes&#x20;across&#x20;southern&#x20;France&#x20;on&#x20;Monday,&#x20;with&#x20;one&#x20;inferno&#x20;spreading&#x20;across&#x20;900&#x20;hectares&#x20;of&#x20;forest&#x20;and&#x20;threatening&#x20;homes&#x20;on&#x20;the&#x20;island&#x20;of&#x20;Corsica,&#x20;emergency&#x20;services&#x20;said.
 
 ### [Jordanian authorities release a video of a shooting of United States soldiers by a Jordanian Air Force sergeant. ](/news/2017/07/25/jordanian-authorities-release-a-video-of-a-shooting-of-united-states-soldiers-by-a-jordanian-air-force-sergeant.md)

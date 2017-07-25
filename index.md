@@ -9,7 +9,7 @@ Microsoft will not kill of Paint, it has now said. A suggestion from the company
 ### [Michael Kors buys Jimmy Choo for US$1.2 billion. ](/news/2017/07/25/michael-kors-buys-jimmy-choo-for-us-1-2-billion.md)
 The agreement comes as upscale American brands grapple with plummeting sales and tepid profits, particularly in the so-called middle market.
 
-### [European Firefirghters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/european-firefirghters-battle-wildfires-across-southern-france-including-one-in-corsica.md)
+### [2017 heat wave in EuropeFirefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/2017-heat-wave-in-europepfirefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md)
 Hundreds&#x20;of&#x20;firefighters&#x20;were&#x20;battling&#x20;blazes&#x20;across&#x20;southern&#x20;France&#x20;on&#x20;Monday,&#x20;with&#x20;one&#x20;inferno&#x20;spreading&#x20;across&#x20;900&#x20;hectares&#x20;of&#x20;forest&#x20;and&#x20;threatening&#x20;homes&#x20;on&#x20;the&#x20;island&#x20;of&#x20;Corsica,&#x20;emergency&#x20;services&#x20;said.
 
 ### [Jordanian authorities release a video of a shooting of United States soldiers by a Jordanian Air Force sergeant. ](/news/2017/07/25/jordanian-authorities-release-a-video-of-a-shooting-of-united-states-soldiers-by-a-jordanian-air-force-sergeant.md)
@@ -53,8 +53,8 @@ _Context: Crime in Switzerland, Schaffhausen, Switzerland_
 ### [U.S. District Judge for the Eastern District of Michigan, Mark A. Goldsmith, halts for 90 days the  mass deportation from the United States of more than 1,400 Iraqi nationals , including Chaldean Christians, to allow the plaintiffs time to appeal their cases. The American Civil Liberties Union petitioned for the injunction stating these people would face persecution in Iraq where they are considered ethnic and religious minorities. ](/news/2017/07/24/u-s-district-judge-for-the-eastern-district-of-michigan-mark-a-goldsmith-halts-for-90-days-the-mass-deportation-from-the-united-states.md)
 A federal judge in Michigan halted on Monday the deportation of more than 1,400 Iraqi nationals from the United States, the latest legal victory for the Iraqi nationals facing deportation in a closely watched case.
 
-### [Winston Blackmore and James Oler, leaders of a polygamist Mormon cult in Canada, is convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-cult-in-canada-is-convicted.md)
-_Context: Canada, Freedom of religion in Canada, James Oler, Mormon, Winston Blackmore, cult_
+### [Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md)
+_Context: Canada, Freedom of religion in Canada, James Oler, Mormon, Winston Blackmore_
 
 ### [The Chinese Central Commission for Discipline Inspection announces that current Politburo member Sun Zhengcai is under investigation for violating party discipline. Sun is the fourth sitting Politburo member since 1990 to fall from power. ](/news/2017/07/24/the-chinese-central-commission-for-discipline-inspection-announces-that-current-politburo-member-sun-zhengcai-is-under-investigation-for-vio.md)
 Officials said Sun Zhengcai, fired last month as party secretary of the city of Chongqing, was suspected of “grave violations of discipline.”
@@ -76,7 +76,7 @@ _Context: Raqqa, Russia, Syria, Syrian Civil War, cluster bomb_
 The shooting at the compound in Amman may be related to recent protests over the Al-Aqsa Mosque.
 
 ### [Snooty, formerly the world's oldest West Indian manatee, dies at age 69 after being trapped in the plumbing of the South Florida Museum. ](/news/2017/07/23/snooty-formerly-the-world-s-oldest-west-indian-manatee-dies-at-age-69-after-being-trapped-in-the-plumbing-of-the-south-florida-museum.md)
-_Context: Snooty, South Florida Museum, West Indian manatee_
+_Context: Florida manatee, Snooty, South Florida Museum, West Indian manatee_
 
 ### [In alleged emulation of Philippine president Rodrigo Duterte's war on drugs, Indonesian President Joko Widodo announces orders for police to "shoot" suspected drug dealers without trial. ](/news/2017/07/23/in-alleged-emulation-of-philippine-president-rodrigo-duterte-s-war-on-drugs-indonesian-president-joko-widodo-announces-orders-for-police-to.md)
 President Joko Widodo’s comments echo those of Philippines leader Rodrigo Duterte, whose drug war has killed thousands
