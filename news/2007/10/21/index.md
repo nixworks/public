@@ -16,7 +16,7 @@ _Context: 2007 Royal London Watches Grand Prix snooker tournament, Marco Fu, Ron
 _Context: Kurmanbek Bakiyev, Kyrgyzstan, President, constitutional changes in a referendum_
 
 ### [ Speaking at the Washington Institute for Near East Policy, United States Vice President Dick Cheney states: "The United States joins other nations in sending a clear message - we will not allow Iran to have a nuclear weapon." ](/news/2007/10/21/speaking-at-the-washington-institute-for-near-east-policy-united-states-vice-president-dick-cheney-states-the-united-states-joins-other.md)
-_Context: American, Dick Cheney, Iran, U.S. Vice President, Washington Institute for Near East Policy, nuclear warheads_
+_Context: Dick Cheney, Iran, U.S. Vice President, United States, Washington Institute for Near East Policy, nuclear warheads_
 
 ### [ A fire in an illegal shoe factory kills at least 34 people in Putian in Fujian province, China. ](/news/2007/10/21/a-fire-in-an-illegal-shoe-factory-kills-at-least-34-people-in-putian-in-fujian-province-china.md)
 _Context: China, Fujian, Putian, factory_
@@ -46,7 +46,7 @@ _Context: Arkalyk, Kazakhstan, Soyuz TMA-10_
 _Context: 2007 Ogaden conflict, Ethiopia, Ogaden National Liberation Front_
 
 ### [ Swiss voters go to the polls for the Swiss federal election, 2007, with the right-wing Swiss People's Party set to win. ](/news/2007/10/21/swiss-voters-go-to-the-polls-for-the-swiss-federal-election-2007-with-the-right-wing-swiss-people-s-party-set-to-win.md)
-_Context: 2007 election, Swiss, Swiss People's Party_
+_Context: 2007 election, Swiss People's Party, Switzerland_
 
 ### [ Three of the Peoples Republic of China's top politicians, namely, Vice-President Zeng Qinghong, anti-corruption chief Wu Guanzheng, and Luo Gan, are dropped from the Communist Party of China's Central Committee. Also retiring are Vice-Premier Wu Yi, Vice-Premier Zeng Peiyan, and Defence Minister Cao Gangchuan. Hu's ''Scientific Development Concept'' is enshrined in the Party Constitution. ](/news/2007/10/21/three-of-the-peoples-republic-of-china-s-top-politicians-namely-vice-president-zeng-qinghong-anti-corruption-chief-wu-guanzheng-and-luo.md)
 _Context: Cao Gangchuan, Central Committee, Chinese, Communist Party of China, Luo Gan, Scientific Development Concept, Wu Guanzheng, Wu Yi, Zeng Peiyan, Zeng Qinghong_

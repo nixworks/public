@@ -31,7 +31,7 @@ Winds will continue to challenge firefighters across North Central Washington. P
 North Korean leader Kim Jong-un has ordered his frontline troops to be on a war footing, state media says, as tensions rise with the South.
 
 ### [The United States halts, then resumes its annual military exercise with South Korea, Foal Eagle, amid rising tensions. ](/news/2015/08/21/the-united-states-halts-then-resumes-its-annual-military-exercise-with-south-korea-foal-eagle-amid-rising-tensions.md)
-_Context: American, Foal Eagle, South Korea, military exercise_
+_Context: Foal Eagle, South Korea, United States, military exercise_
 
 ### [Ranil Wickremesinghe is sworn in as the new Prime Minister of Sri Lanka following a strong performance by his United National Front for Good Governance in last Monday's election. ](/news/2015/08/21/ranil-wickremesinghe-is-sworn-in-as-the-new-prime-minister-of-sri-lanka-following-a-strong-performance-by-his-united-national-front-for-good.md)
 _Context: Prime Minister of Sri Lanka, Ranil Wickremesinghe, United National Front for Good Governance, election_

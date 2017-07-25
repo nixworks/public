@@ -22,7 +22,7 @@ _Context: Argentina, Argentine legislative elections_
 Russia is closing every legal casino this week, throwing hundreds of thousands of people out of work.
 
 ### [ An internet child pornography ring, involving at least 2,000 IP addresses in 78 countries, is uncovered in Switzerland. ](/news/2009/06/28/an-internet-child-pornography-ring-involving-at-least-2-000-ip-addresses-in-78-countries-is-uncovered-in-switzerland.md)
-_Context: Swiss, addresses, child pornography_
+_Context: Switzerland, addresses, child pornography_
 
 ### [ Stephen Hawking holds a party for future time travelers at the University of Cambridge. ](/news/2009/06/28/stephen-hawking-holds-a-party-for-future-time-travelers-at-the-university-of-cambridge.md)
 _Context: Stephen Hawking_

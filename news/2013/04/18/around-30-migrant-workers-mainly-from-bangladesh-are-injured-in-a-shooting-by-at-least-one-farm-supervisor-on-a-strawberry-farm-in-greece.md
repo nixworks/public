@@ -12,7 +12,7 @@ About 30 migrant workers are injured in a shooting on a strawberry farm in Greec
 ### Related:
 
 1. [A garment factory boiler explosion in Dhaka, Bangladesh, kills 10 people and injures dozens. ](/news/2017/07/4/a-garment-factory-boiler-explosion-in-dhaka-bangladesh-kills-10-people-and-injures-dozens.md) _Context: Bangladesh_
-2. [Aftershocks cause panic in the Greek island of Kos after deadly earthquake that injured hundreds. ](/news/2017/07/22/aftershocks-cause-panic-in-the-greek-island-of-kos-after-deadly-earthquake-that-injured-hundreds.md) _Context: Greek_
+2. [Aftershocks cause panic in the Greek island of Kos after a deadly earthquake that injured hundreds. ](/news/2017/07/22/aftershocks-cause-panic-in-the-greek-island-of-kos-after-a-deadly-earthquake-that-injured-hundreds.md) _Context: Greek_
 3. [A 6.7 magnitude earthquake in the Aegean Sea near Greece and Turkey kills two people and injures more than 520 others. ](/news/2017/07/21/a-6-7-magnitude-earthquake-in-the-aegean-sea-near-greece-and-turkey-kills-two-people-and-injures-more-than-520-others.md) _Context: Greek_
 4. [At least 134 people are dead and dozens are missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-134-people-are-dead-and-dozens-are-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: Bangladesh_
 5. [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-one-death-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md) _Context: Greek_

@@ -46,7 +46,7 @@ _Context: Barack Obama, National Defense Authorization Act, President of the Uni
 _Context: Kim Jong-il, Kim Jong-un, North Korea_
 
 ### [NASA succeeds in putting the first of two Gravity Recovery and Interior Laboratory satellites in orbit around the moon. ](/news/2011/12/31/nasa-succeeds-in-putting-the-first-of-two-gravity-recovery-and-interior-laboratory-satellites-in-orbit-around-the-moon.md)
-_Context: GRAIL, Moon, NASA, released an object into orbit_
+_Context: GRAIL, NASA, moon, released an object into orbit_
 
 ## [Previous Day...](/news/2011/12/30/index.md)
 

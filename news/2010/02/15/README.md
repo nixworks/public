@@ -40,7 +40,7 @@ _Context: Afghanistan, Helmand, NATO, Taliban_
 _Context: 2010 Winter Olympics, Vancouver_
 
 ### [Dario Cologna secures Switzerland's first ever Olympic cross-country gold medal and Norway delivers its poorest ever cross-country Olympic performance in the men's 15km freestyle cross-country competition ](/news/2010/02/15/dario-cologna-secures-switzerland-s-first-ever-olympic-cross-country-gold-medal-and-norway-delivers-its-poorest-ever-cross-country-olympic-p.md)
-_Context: Dario Cologna, Norway, Swiss, cross-country skiers, men's 15km freestyle cross-country competition_
+_Context: Dario Cologna, Norway, Switzerland, cross-country skiers, men's 15km freestyle cross-country competition_
 
 ## [Previous Day...](/news/2010/02/14/index.md)
 

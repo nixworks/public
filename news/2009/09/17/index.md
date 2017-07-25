@@ -10,7 +10,7 @@ _Context: 'Amran Governorate, Yemen's, soldiers_
 _Context: European Union, Nicolas Sarkozy, President of France, banking_
 
 ### [ The Prime Minister of the Czech Republic, Jan Fischer, says that President Barack Obama told him that the United States is abandoning plans for a missile shield based in Poland and the Czech Republic. ](/news/2009/09/17/the-prime-minister-of-the-czech-republic-jan-fischer-says-that-president-barack-obama-told-him-that-the-united-states-is-abandoning-plans.md)
-_Context: American, Barack Obama, Czech Republic, Jan Fischer, Poland, President of the United States, Prime Minister of the Czech Republic, missile shield_
+_Context: Barack Obama, Czech Republic, Jan Fischer, Poland, President of the United States, Prime Minister of the Czech Republic, United States, missile shield_
 
 ### [ Two large explosions hit the main base of African Union peacekeepers in Mogadishu, Somalia. ](/news/2009/09/17/two-large-explosions-hit-the-main-base-of-african-union-peacekeepers-in-mogadishu-somalia.md)
 _Context: African Union, Mogadishu, Somalia_

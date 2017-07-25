@@ -52,7 +52,7 @@ _Context: Turks and Caicos Islands, United Kingdom, direct rule, government_
 _Context: Gaza Strip_
 
 ### [ United States senator Jim Webb arrives in Burma for talks with General Than Shwe. ](/news/2009/08/14/united-states-senator-jim-webb-arrives-in-burma-for-talks-with-general-than-shwe.md)
-_Context: American, Burma, Jim Webb, Than Shwe_
+_Context: Burma, Jim Webb, Than Shwe, United States_
 
 ### [ A University of Glasgow study suggests Asians may view faces differently from others. ](/news/2009/08/14/a-university-of-glasgow-study-suggests-asians-may-view-faces-differently-from-others.md)
 _Context: Asia, University of Glasgow_

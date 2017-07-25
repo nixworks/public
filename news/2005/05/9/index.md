@@ -16,7 +16,7 @@ _Context: (Wikinews), Chancellor, George W. Bush, Gerhard Schrder, Moscow, Russi
 The search is back on for a spacecraft that disappeared during a landing attempt nearly six years ago. And there are hints that the probe might have been found.
 
 ### [ Peter Friederich, former Swiss ambassador to Luxembourg, goes on trial for money laundering. ](/news/2005/05/9/peter-friederich-former-swiss-ambassador-to-luxembourg-goes-on-trial-for-money-laundering.md)
-_Context: Luxembourg, Peter Friederich, Swiss, money laundering_
+_Context: Luxembourg, Peter Friederich, Switzerland, money laundering_
 
 ### [ Former Indonesian president Suharto is hospitalized; there are conflicting reports about his condition. ](/news/2005/05/9/former-indonesian-president-suharto-is-hospitalized-there-are-conflicting-reports-about-his-condition.md)
 _Context: Indonesia, Suharto_

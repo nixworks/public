@@ -28,7 +28,7 @@ A Canadian singer is the first person in the world to graduate with a Masters de
 _Context: China, job growth, million_
 
 ### [The 41st World Economic Forum opens in Davos, Switzerland. ](/news/2011/01/26/the-41st-world-economic-forum-opens-in-davos-switzerland.md)
-_Context: Davos, Swiss, World Economic Forum_
+_Context: Davos, Switzerland, World Economic Forum_
 
 ### [Incumbent Ivorian leader Laurent Gbagbo orders the seizure of all local branches of the Central Bank of West African States. ](/news/2011/01/26/incumbent-ivorian-leader-laurent-gbagbo-orders-the-seizure-of-all-local-branches-of-the-central-bank-of-west-african-states.md)
 _Context: Central Bank of West African States, Ivory Coast, Laurent Gbagbo_

@@ -25,7 +25,7 @@ _Context: Busan, South Korea, karaoke_
 _Context: Cambodia_
 
 ### [A supermoon is formed as the moon gets closest to the earth for the year. ](/news/2012/05/5/a-supermoon-is-formed-as-the-moon-gets-closest-to-the-earth-for-the-year.md)
-_Context: Earth, Moon, supermoon_
+_Context: Earth, moon, supermoon_
 
 ## [Previous Day...](/news/2012/05/4/index.md)
 

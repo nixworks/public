@@ -28,7 +28,7 @@ _Context: World Meteorological Organisation, hole, ozone layer_
 _Context: Chinese, Xinjiang_
 
 ### [ The Somalian Islamist group Al-Shabaab call for reinforcements after a U.S. raid killed its leader Saleh Ali Saleh Nabhan. ](/news/2009/09/16/the-somalian-islamist-group-al-shabaab-call-for-reinforcements-after-a-u-s-raid-killed-its-leader-saleh-ali-saleh-nabhan.md)
-_Context: Al-Shabaab, American, Islam, Saleh Ali Saleh Nabhan, Somalia_
+_Context: Al-Shabaab, Islam, Saleh Ali Saleh Nabhan, Somalia, United States_
 
 ### [ Gunmen kill 10 people at a drug rehabilitation clinic in Mexico. ](/news/2009/09/16/gunmen-kill-10-people-at-a-drug-rehabilitation-clinic-in-mexico.md)
 _Context: Mexico_

@@ -13,7 +13,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 _Context: Iraq, Marla Ruzicka, activist, aid worker, car bomb_
 
 ### [ 12 people die and 15 are injured when a coach plunges into a ravine near the Great St. Bernard Pass in Switzerland. ](/news/2005/04/17/12-people-die-and-15-are-injured-when-a-coach-plunges-into-a-ravine-near-the-great-st-bernard-pass-in-switzerland.md)
-_Context: Great St Bernard Pass, Swiss_
+_Context: Great St Bernard Pass, Switzerland_
 
 ### [ In the Comoros Islands, the volcano Mount Karthala begins to erupt, forcing hundreds of villagers to flee. ](/news/2005/04/17/in-the-comoros-islands-the-volcano-mount-karthala-begins-to-erupt-forcing-hundreds-of-villagers-to-flee.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

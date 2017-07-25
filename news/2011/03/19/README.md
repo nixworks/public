@@ -61,7 +61,7 @@ _Context: Daniel Ellsberg, Iraq War, Pentagon Papers, Washington DC, White House
 _Context: Alan Garcia, Jose Antonio Chang, Peru, President, Prime Minister, Rosario Fernandez_
 
 ### [The moon reaches its closest point to the Earth since March 1993, and will appear 30% brighter and 14% larger than at its furthest point. ](/news/2011/03/19/the-moon-reaches-its-closest-point-to-the-earth-since-march-1993-and-will-appear-30-brighter-and-14-larger-than-at-its-furthest-point.md)
-_Context: Moon, closest point_
+_Context: closest point, moon_
 
 ## [Previous Day...](/news/2011/03/18/index.md)
 

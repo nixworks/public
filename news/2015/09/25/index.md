@@ -28,7 +28,7 @@ _Context: Johns Island, South Carolina_
 The World Health Organization removes Nigeria from the list of polio endemic countries, a &quot;milestone&quot; on the path to eradicating the paralysing viral infection.
 
 ### [The Office of the Attorney General of Switzerland opens criminal proceedings against the President of FIFA Sepp Blatter. ](/news/2015/09/25/the-office-of-the-attorney-general-of-switzerland-opens-criminal-proceedings-against-the-president-of-fifa-sepp-blatter.md)
-_Context: 2015 FIFA corruption case, President of FIFA, Sepp Blatter, Swiss_
+_Context: 2015 FIFA corruption case, President of FIFA, Sepp Blatter, Switzerland_
 
 ### [Croatia reopens its border with Serbia. ](/news/2015/09/25/croatia-reopens-its-border-with-serbia.md)
 _Context: Croatia, European migrant crisis, Serbia_

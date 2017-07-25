@@ -10,7 +10,7 @@ Meanwhile, Qatar becomes the latest Gulf Arab state to recall its ambassador to 
 J.J. Abrams&#039; record-shattering blockbuster achieved the historic milestone Wednesday after only 20 days in release. Globally, &#039;Force Awakens&#039; is a long way from matching the $2.78 billion earned by &#039;Avatar.&#039;
 
 ### [TransCanada, the firm that unsuccessfully applied for cross-border permission to build the Keystone XL pipeline, files a lawsuit against the United States alleging that the refusal of permission violated the North American Free Trade Agreement. ](/news/2016/01/6/transcanada-the-firm-that-unsuccessfully-applied-for-cross-border-permission-to-build-the-keystone-xl-pipeline-files-a-lawsuit-against-the.md)
-_Context: American, Keystone XL, North American Free Trade Agreement, TransCanada_
+_Context: Keystone XL, North American Free Trade Agreement, TransCanada, United States_
 
 ### [A 5.1 magnitude earthquake near Sungjibaegam, North Korea, is suspected to be a nuclear explosion at the Punggye-ri Nuclear Test Site. North Korea announces it has conducted a hydrogen bomb test. They claim to have tested a miniaturized bomb. If not true it would mean that the test partially failed. ](/news/2016/01/6/a-5-1-magnitude-earthquake-near-sungjibaegam-north-korea-is-suspected-to-be-a-nuclear-explosion-at-the-punggye-ri-nuclear-test-site-north.md)
 A 5.1-magnitude earthquake detected near North Korea’s nuclear test site appears to have been artificial, according to South Korea’s meteorological service, raising the prospect the isolated regime tested a nuclear device.

@@ -13,7 +13,7 @@ _Context: George W. Bush, Ohio, Republican, Reuters, Rob Portman, Robert Zoellic
 _Context: Iraq, Transparency International, anti-corruption_
 
 ### [ A number of non-governmental organizations meet in Geneva, Switzerland in the World Water Forum. They call for water to be treated as a common asset instead of being privatized. ](/news/2005/03/17/a-number-of-non-governmental-organizations-meet-in-geneva-switzerland-in-the-world-water-forum-they-call-for-water-to-be-treated-as-a-com.md)
-_Context: Geneva, NGO, Swiss, World Water Forum, privatization, water_
+_Context: Geneva, NGO, Switzerland, World Water Forum, privatization, water_
 
 ### [ In China, a bus explosion kills about 30 people in Jiangxi province. ](/news/2005/03/17/in-china-a-bus-explosion-kills-about-30-people-in-jiangxi-province.md)
 _Context: China, Jiangxi, bus_

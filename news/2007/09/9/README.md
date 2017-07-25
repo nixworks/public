@@ -19,7 +19,7 @@ _Context: Colombia, earthquake_
 _Context: Israel, Soviet, neo-nazi_
 
 ### [ 2007 U.S. Open: Roger Federer of Switzerland defeats Novak Djokovic in the final of the men's singles in straight sets 7-6 (7-4), 7-6 (7-2), 6-4. ](/news/2007/09/9/2007-u-s-open-roger-federer-of-switzerland-defeats-novak-djokovic-in-the-final-of-the-men-s-singles-in-straight-sets-7-6-7-4-7-6-7-2.md)
-_Context: 2007 U.S. Open, Novak Djokovic, Roger Federer, Swiss_
+_Context: 2007 U.S. Open, Novak Djokovic, Roger Federer, Switzerland_
 
 ### [ Five thousand Algerians protest in Algiers after two recent suicide bomb attacks. ](/news/2007/09/9/five-thousand-algerians-protest-in-algiers-after-two-recent-suicide-bomb-attacks.md)
 Around 5,000 Algerians gathered in central Algiers on Sunday to protest against violence after two suicide attacks killed at least 57 people in the North African country.
@@ -43,7 +43,7 @@ _Context: India, West Bengal, landslide_
 Nawaz Sharif, the exiled former prime minister of Pakistan, boarded a flight from London to Islamabad as he headed towards a showdown with President Pervez Musharraf, who has threatened him with arrest.
 
 ### [ Tropical Storm Gabrielle makes landfall near the Cape Lookout National Seashore in North Carolina, United States, and hooks over Cape Hatteras before returning to the Atlantic as a tropical depression, bringing much-needed rain to coastal North Carolina as well as some beach erosion. ](/news/2007/09/9/tropical-storm-gabrielle-makes-landfall-near-the-cape-lookout-national-seashore-in-north-carolina-united-states-and-hooks-over-cape-hatte.md)
-_Context: American, Cape Hatteras, Cape Lookout National Seashore, North Carolina, Tropical Storm Gabrielle, beach erosion_
+_Context: Cape Hatteras, Cape Lookout National Seashore, North Carolina, Tropical Storm Gabrielle, United States, beach erosion_
 
 ### [ APEC Australia 2007: The APEC summit draws to a close with most leaders preparing to leave and the President of the United States George W. Bush having left. ](/news/2007/09/9/apec-australia-2007-p-the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w.md)
 The APEC summit in Sydney is drawing to a conclusion, with leaders working on their final statement.

@@ -31,7 +31,7 @@ The Dominican Republic confirms a Haitian man is the first to die of cholera in 
 Negotiations to resolve the stand-off over Iran&#039;s nuclear programme have ended in deadlock &ndash; raising fears that its regime could accelerate its nuclear weapons programme, potentially sparking off a dangerous Middle East crisis.
 
 ### [The BBC apologises after offending the sensibilities of Japanese viewers by broadcasting jokes targeting Tsutomu Yamaguchi, who survived both atomic bomb attacks carried out by the United States on Hiroshima and Nagasaki in 1945. ](/news/2011/01/23/the-bbc-apologises-after-offending-the-sensibilities-of-japanese-viewers-by-broadcasting-jokes-targeting-tsutomu-yamaguchi-who-survived-bot.md)
-_Context: American, BBC, Hiroshima, Japan, Nagasaki, Tsutomu Yamaguchi_
+_Context: BBC, Hiroshima, Japan, Nagasaki, Tsutomu Yamaguchi, United States_
 
 ### [WikiLeaks revelations:A "spy" computer is found in an office next to Icelandic MP Birgitta Jonsdottir who has been the target in the United States Department of Justice/Twitter case concerning the WikiLeaks website. ](/news/2011/01/23/wikileaks-revelations-pa-spy-computer-is-found-in-an-office-next-to-icelandic-mp-birgitta-jonsdottir-who-has-been-the-target-in-the-united.md)
 The founder of whistleblower site WikiLeaks attacked Switzerland on Sunday for arresting a Swiss banker on suspicion of breaching banking secrecy instead of investigating the tax evasion he said he had uncovered.

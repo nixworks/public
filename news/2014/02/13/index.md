@@ -7,7 +7,7 @@ Afghan authorities release 65 detainees from the Bagram detention centre, a move
 _Context: Karachi, Pakistani police, suicide bomb_
 
 ### [South China Sea dispute:The United States says that it is ready to defend its allies in case of an armed conflict. ](/news/2014/02/13/south-china-sea-dispute-pthe-united-states-says-that-it-is-ready-to-defend-its-allies-in-case-of-an-armed-conflict.md)
-_Context: American, South China Sea dispute_
+_Context: South China Sea dispute, United States_
 
 ### [Typhoon Haiyan victims are visited by former footballer David Beckham who seeks to raise awareness about their plight. ](/news/2014/02/13/typhoon-haiyan-victims-are-visited-by-former-footballer-david-beckham-who-seeks-to-raise-awareness-about-their-plight.md)
 _Context: David Beckham, Typhoon Haiyan (Yolanda), footballer_
@@ -22,7 +22,7 @@ _Context: Comcast, Time Warner Cable, United States dollars_
 The threat of deflation across the euro zone is more serious than the European Central Bank claims, as austerity imposed on peripheral economies is already pushing prices lower, a Reuters poll of forecasters found on Thursday.
 
 ### [Facebook users in the United States are now allowed to customize their gender. ](/news/2014/02/13/facebook-users-in-the-united-states-are-now-allowed-to-customize-their-gender.md)
-_Context: American, Facebook, Inc._
+_Context: Facebook, Inc., United States_
 
 ### [Thousands of homes in England remain without power following Wednesday's storms as the UK's Met Office forecasts fresh heavy rain and high winds for Friday. ](/news/2014/02/13/thousands-of-homes-in-england-remain-without-power-following-wednesday-s-storms-as-the-uk-s-met-office-forecasts-fresh-heavy-rain-and-high-w.md)
 _Context: Met Office, Winter storms_
@@ -55,7 +55,7 @@ Centre-left mayor of Florence tells Democratic party meeting that Italy urgently
 A federal judge in Virginia has struck down the state&#39;s prohibition on same-sex marriage, joining a growing list of state and federal courts that have granted gay and lesbian couples the right to marry following two landmark Supreme Court rulings in June.
 
 ### [China's Yutu rover, after being pronounced dead the day previously, leaves dormancy one day late after malfunctioning prior to the Lunar night. ](/news/2014/02/13/china-s-yutu-rover-after-being-pronounced-dead-the-day-previously-leaves-dormancy-one-day-late-after-malfunctioning-prior-to-the-lunar-nig.md)
-_Context: Moon, Yutu_
+_Context: Yutu, moon_
 
 ### [The remains of an infant boy from the Clovis culture is determined to be Native American. ](/news/2014/02/13/the-remains-of-an-infant-boy-from-the-clovis-culture-is-determined-to-be-native-american.md)
 The mysterious Clovis culture, which appeared in North America about 13,000 years ago, appears to be the forerunner of Native Americans throughout the Americas, a study of DNA evidence suggests. Remains from an infant buried more than 12,000 years ago at a Clovis site in modern Montana held the genetic key.

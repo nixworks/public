@@ -13,7 +13,7 @@ Six members of the same family, including three children and two teenagers, have
 _Context: Spanish politicians, West Africa, oil tanker_
 
 ### [Oswald Grbel, chief executive of Swiss bank UBS, resigns in the wake of a rogue trading scandal. ](/news/2011/09/24/oswald-grubel-chief-executive-of-swiss-bank-ubs-resigns-in-the-wake-of-a-rogue-trading-scandal.md)
-_Context: Oswald Grbel, Swiss, UBS_
+_Context: Oswald Grbel, Switzerland, UBS_
 
 ### [At the United Russia Congress, Prime Minister Vladimir Putin accepts President Dmitry Medvedev's proposal to run in the 2012 Russian presidential election. ](/news/2011/09/24/at-the-united-russia-congress-prime-minister-vladimir-putin-accepts-president-dmitry-medvedev-s-proposal-to-run-in-the-2012-russian-preside.md)
 Russian Prime Minister Vladimir Putin announces he has accepted a proposal to run for president next year, all but guaranteeing his return to the Kremlin.

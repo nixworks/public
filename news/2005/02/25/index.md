@@ -22,7 +22,7 @@ _Context: Ecuador, Jos Gallardo_
 _Context: Communist Party of Nepal, Gyanendra of Nepal, Nepal, democratic progress_
 
 ### [ In Switzerland, the court of appeals rules that Yeslam Binladin, a half-brother of Osama bin Laden, can market products under the brand name ''Bin Ladin'' ](/news/2005/02/25/in-switzerland-the-court-of-appeals-rules-that-yeslam-binladin-a-half-brother-of-osama-bin-laden-can-market-products-under-the-brand-nam.md)
-_Context: Court of Appeals, Osama bin Laden, Swiss, Yeslam Binladin_
+_Context: Court of Appeals, Osama bin Laden, Switzerland, Yeslam Binladin_
 
 ### [ Militia members ambush and kill 9 UN Bangladeshi peacekeepers in the Democratic Republic of Congo. ](/news/2005/02/25/militia-members-ambush-and-kill-9-un-bangladeshi-peacekeepers-in-the-democratic-republic-of-congo.md)
 _Context: Bangladesh, Democratic Republic of Congo, United Nations, peacekeepers_

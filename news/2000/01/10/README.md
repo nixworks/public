@@ -7,7 +7,7 @@ _Context: Japan, Tama Toshi Monorail (Tama-Center Station), Tokyo_
 _Context: America On-line, Time Warner_
 
 ### [Crossair suffers the first fatal accident in its 25-year history when Crossair Flight 498 crashes in Niederhasli, Switzerland, after take off from Zurich, killing all 10 people on board.](/news/2000/01/10/crossair-suffers-the-first-fatal-accident-in-its-25-year-history-when-crossair-flight-498-crashes-in-niederhasli-switzerland-after-take-of.md)
-_Context: Crossair, Crossair Flight 498, Niederhasli, Swiss, Zurich_
+_Context: Crossair, Crossair Flight 498, Niederhasli, Switzerland, Zurich_
 
 ### [The Lady Franklin Point catches fire and is almost totally destroyed.](/news/2000/01/10/the-lady-franklin-point-catches-fire-and-is-almost-totally-destroyed.md)
 _Context: Lady Franklin Point_

@@ -40,7 +40,7 @@ _Context: Afghanistan, Khost, Paktika Province, roadside bomb_
 JERUSALEM, July 12 — An Israeli soldier was killed early this morning during a military incursion in the central Gaza Strip, an army spokesman said. He was the first Israeli killed in combat since November 2006.
 
 ### [ Six Swiss Army recruits are killed by an avalanche on the Jungfrau mountain in Switzerland. ](/news/2007/07/12/six-swiss-army-recruits-are-killed-by-an-avalanche-on-the-jungfrau-mountain-in-switzerland.md)
-_Context: Jungfrau, Swiss, Swiss Army, avalanche, recruits_
+_Context: Jungfrau, Swiss Army, Switzerland, avalanche, recruits_
 
 ### [ A false alarm causes the diversion of American Airlines Flight 136. The plane crew was concerned that a passenger of Middle Eastern descent might have bypassed security controls. ](/news/2007/07/12/a-false-alarm-causes-the-diversion-of-american-airlines-flight-136-the-plane-crew-was-concerned-that-a-passenger-of-middle-eastern-descent.md)
 _Context: American Airlines, Middle East, false alarm, security controls_
@@ -61,7 +61,7 @@ _Context: Colombo, Tamil Tiger, Thoppigala, government_
 _Context: Charles G. Taylor, Liberia, Parliament, President of Liberia, government_
 
 ### [ At a press conference, U.S. President George W. Bush admits for the first time that someone in his administration may have leaked the name of CIA agent Valerie Plame. ](/news/2007/07/12/at-a-press-conference-u-s-president-george-w-bush-admits-for-the-first-time-that-someone-in-his-administration-may-have-leaked-the-name.md)
-_Context: American, CIA, CIA leak scandal, George W. Bush, President of the United States, Valerie Plame, press conference_
+_Context: CIA, CIA leak scandal, George W. Bush, President of the United States, United States, Valerie Plame, press conference_
 
 ## [Previous Day...](/news/2007/07/11/index.md)
 

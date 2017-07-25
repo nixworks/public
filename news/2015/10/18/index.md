@@ -31,7 +31,7 @@ One person was removed from the flight after &#39;a rapidly escalating situation
 People vote in Egypt in the first round of long-delayed elections to choose a new parliament, with most candidates supporters of President Sisi.
 
 ### [Voters in Switzerland go to the polls for a federal election. Results show the anti-immigration Swiss People's Party winning the election with at least 29.5% of the vote, a record election result for the nationalist party. ](/news/2015/10/18/voters-in-switzerland-go-to-the-polls-for-a-federal-election-results-show-the-anti-immigration-swiss-people-s-party-winning-the-election-wi.md)
-_Context: Swiss, Swiss People's Party, Swiss federal election, 2015, anti-immigration, nationalist_
+_Context: Swiss People's Party, Swiss federal election, 2015, Switzerland, anti-immigration, nationalist_
 
 ## [Previous Day...](/news/2015/10/17/index.md)
 

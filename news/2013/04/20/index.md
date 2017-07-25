@@ -10,7 +10,7 @@ A magnitude 6.6 earthquake has hit south-western China, killing at least 192 peo
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [In southern California, United States, 200 residents are evacuated due to a brush fire. ](/news/2013/04/20/in-southern-california-united-states-200-residents-are-evacuated-due-to-a-brush-fire.md)
-_Context: American, California, brush fire_
+_Context: California, United States, brush fire_
 
 ### [Five people are killed and 17 are injured in Vail, Arizona, United States, when a car accident occurs during a U.S. Border Patrol pursuit. ](/news/2013/04/20/five-people-are-killed-and-17-are-injured-in-vail-arizona-united-states-when-a-car-accident-occurs-during-a-u-s-border-patrol-pursuit.md)
 TUCSON -- At least five people were killed and 17 injured when a van crashed during a border patrol pursuit, Pima County Rural/Metro Fire Chief Willie Treatch said Sunday. The incident happened late...

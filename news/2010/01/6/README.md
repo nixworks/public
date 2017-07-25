@@ -19,7 +19,7 @@ _Context: Chinese, Germany, top export market_
 _Context: US$, tourism_
 
 ### [Extreme weather across Europe leads to dozens of deaths, including at least 122 in Poland and at least 7 as a result of an avalanche in Switzerland. ](/news/2010/01/6/extreme-weather-across-europe-leads-to-dozens-of-deaths-including-at-least-122-in-poland-and-at-least-7-as-a-result-of-an-avalanche-in-swit.md)
-_Context: Europe, Poland, Swiss_
+_Context: Europe, Poland, Switzerland_
 
 ### [At least 25 people are killed and at least three others are trapped in a mine fire in Xiangtan County in Hunan. ](/news/2010/01/6/at-least-25-people-are-killed-and-at-least-three-others-are-trapped-in-a-mine-fire-in-xiangtan-county-in-hunan.md)
 _Context: Hunan, Xiangtan County_
@@ -31,7 +31,7 @@ _Context: Ady Gil, Sea Shepherd, Shonan Maru, whaling_
 _Context: Dauletabad - Salyp Yar gas pipeline, Iran, Turkmenistan_
 
 ### [Algerian US ambassador Abdellah Baali and Nigerian Information Minister Dora Akunyili are upset at the decision of the United States to subject Algerians and Nigerians to tougher-than-usual security tests at airports, saying it is "discrimination" and "risks ties". Both have officially complained. ](/news/2010/01/6/algerian-us-ambassador-abdellah-baali-and-nigerian-information-minister-dora-akunyili-are-upset-at-the-decision-of-the-united-states-to-subj.md)
-_Context: Abdellah Baali, Algeria, American, Dora Akunyili, Nigeria_
+_Context: Abdellah Baali, Algeria, Dora Akunyili, Nigeria, United States_
 
 ### [The U.S. government lowers the threshold for information deemed important enough to put suspicious individuals on a watch list or no-fly list, or have their visa revoked. ](/news/2010/01/6/the-u-s-government-lowers-the-threshold-for-information-deemed-important-enough-to-put-suspicious-individuals-on-a-watch-list-or-no-fly-lis.md)
 _Context: U.S., visa-free travel_

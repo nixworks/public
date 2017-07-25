@@ -34,7 +34,7 @@ _Context: Malaysia, illegal immigrant_
 _Context: David Crane, Sierra Leone, war crime_
 
 ### [ Greenpeace in Switzerland accuses three chemical firms based in Basel of failing to clean up toxic waste ](/news/2005/03/1/greenpeace-in-switzerland-accuses-three-chemical-firms-based-in-basel-of-failing-to-clean-up-toxic-waste.md)
-_Context: Basel, Greenpeace India's, Swiss, toxic_
+_Context: Basel, Greenpeace India's, Switzerland, toxic_
 
 ### [ Syrian president Bashar al-Assad states that Syria could withdraw all its troops from Lebanon in a couple of months ](/news/2005/03/1/syrian-president-bashar-al-assad-states-that-syria-could-withdraw-all-its-troops-from-lebanon-in-a-couple-of-months.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

@@ -1,10 +1,10 @@
 ## [2008-06-29](/news/2008/06/29/index.md)
 
 ### [ A ship arrives in North Korea carrying food aid from the United States as part of a deal between North Korea, the US and the United Nations. ](/news/2008/06/29/a-ship-arrives-in-north-korea-carrying-food-aid-from-the-united-states-as-part-of-a-deal-between-north-korea-the-us-and-the-united-nations.md)
-_Context: American, North Korea, United Nations, food aid_
+_Context: North Korea, United Nations, United States, food aid_
 
 ### [ Katie Hoff and Michael Phelps set world records for the 400-meter individual medley at the United States Olympics swimming trials in Omaha, Nebraska. ](/news/2008/06/29/katie-hoff-and-michael-phelps-set-world-records-for-the-400-meter-individual-medley-at-the-united-states-olympics-swimming-trials-in-omaha.md)
-_Context: American, Katie Hoff, Michael Phelps, Olympics, Omaha, Nebraska, individual medley, swimming_
+_Context: Katie Hoff, Michael Phelps, Olympics, Omaha, Nebraska, United States, individual medley, swimming_
 
 ### [ Two medical helicopters collide in Flagstaff, Arizona, resulting in seven deaths and three people being critically injured. ](/news/2008/06/29/two-medical-helicopters-collide-in-flagstaff-arizona-resulting-in-seven-deaths-and-three-people-being-critically-injured.md)
 _Context: Flagstaff, Arizona_

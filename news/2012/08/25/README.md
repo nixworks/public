@@ -7,7 +7,7 @@ The bodies of at least 200 people were found in a town close to Damascus on Satu
 _Context: 2011-present Libyan factional fighting, Mohamed Yousef el-Magariaf, Sufi, Tripoli_
 
 ### [Neil Armstrong, the first person on the Moon, dies at age 82. ](/news/2012/08/25/neil-armstrong-the-first-person-on-the-moon-dies-at-age-82.md)
-_Context: Moon, Neil Armstrong, first person_
+_Context: Neil Armstrong, first person, moon_
 
 ### [A historic drought develops in the Balkans causing severe losses to agriculture. Towns in Serbia introduce water restrictions while scorching temperatures fuel hundreds of fires. Russia stations a second fire fighting aircraft to help in Nis. ](/news/2012/08/25/a-historic-drought-develops-in-the-balkans-causing-severe-losses-to-agriculture-towns-in-serbia-introduce-water-restrictions-while-scorchin.md)
 _Context: Balkans, Nis, Russia, Serbia, drought, fire fighting aircraft, fuel, help, wildfire_

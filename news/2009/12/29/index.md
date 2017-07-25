@@ -31,10 +31,10 @@ A Greek-owned cargo ship and a British-flagged chemical tanker have been seized,
 _Context: China, Japan, U.S._
 
 ### [ An American Christian activist is reportedly arrested after crossing into North Korea from China, according to North Korean media. ](/news/2009/12/29/an-american-christian-activist-is-reportedly-arrested-after-crossing-into-north-korea-from-china-according-to-north-korean-media.md)
-_Context: American, Chinese, Christian, North Korea, state media_
+_Context: Chinese, Christian, North Korea, United States, state media_
 
 ### [ Two Italians are injured and one American is killed in a shooting incident in Badghis Province, Afghanistan. ](/news/2009/12/29/two-italians-are-injured-and-one-american-is-killed-in-a-shooting-incident-in-badghis-province-afghanistan.md)
-_Context: Afghanistan, American, Badghis Province, Italian_
+_Context: Afghanistan, Badghis Province, Italian, United States_
 
 ## [Previous Day...](/news/2009/12/28/index.md)
 

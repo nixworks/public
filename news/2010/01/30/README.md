@@ -28,7 +28,7 @@ Twelve people have died and at least 20 others are missing after a boat jammed w
 Government rejects resignation
 
 ### [China suspends military exchanges and reviews cooperation on issues with the United States after the latter agreed to a proposed weapons sale to Taiwan. ](/news/2010/01/30/china-suspends-military-exchanges-and-reviews-cooperation-on-issues-with-the-united-states-after-the-latter-agreed-to-a-proposed-weapons-sal.md)
-_Context: American, Chinese, Taiwan_
+_Context: Chinese, Taiwan, United States_
 
 ### [Google begins to phase out its support for Internet Explorer 6 after it was identified as a weak link in cyber attacks on the search engine. ](/news/2010/01/30/google-begins-to-phase-out-its-support-for-internet-explorer-6-after-it-was-identified-as-a-weak-link-in-cyber-attacks-on-the-search-engine.md)
 _Context: Google, Internet Explorer 6, cyber-attack_

@@ -28,7 +28,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ The Swiss cabinet intends to outlaw English-sounding names of government departments. ](/news/2005/04/7/the-swiss-cabinet-intends-to-outlaw-english-sounding-names-of-government-departments.md)
-_Context: Swiss_
+_Context: Switzerland_
 
 ### [ The prime ministers of Malaysia and Australia announce that they intend begin talks of free trade agreement ](/news/2005/04/7/the-prime-ministers-of-malaysia-and-australia-announce-that-they-intend-begin-talks-of-free-trade-agreement.md)
 _Context: Australia, Malaysia, trade agreement_

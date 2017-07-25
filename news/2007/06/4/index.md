@@ -7,7 +7,7 @@ _Context: Asia, Environment Programme, Global warming, glaciers, mountains, snow
 _Context: Eurasia, Geyser Valley_
 
 ### [ The United States government arrests ten people, including former Laotian Army general Vang Pao, on charges of organizing a plot to overthrow the Laotian government. ](/news/2007/06/4/the-united-states-government-arrests-ten-people-including-former-laotian-army-general-vang-pao-on-charges-of-organizing-a-plot-to-overthr.md)
-_Context: American, Laos, Laotian Army, Vang Pao_
+_Context: Laos, Laotian Army, United States, Vang Pao_
 
 ### [ The government of Nigeria sues pharmaceutical company Pfizer for $6.95-billion in damages. ](/news/2007/06/4/the-government-of-nigeria-sues-pharmaceutical-company-pfizer-for-6-95-billion-in-damages.md)
 _Context: Nigeria, Pfizer, sues_
@@ -25,7 +25,7 @@ _Context: Cyclone Gonu, Masirah Island, Oman_
 _Context: Afghanistan, Canada, Guantanamo Bay Detention Camp, United States Army, soldier, terrorism_
 
 ### [ Russian President Vladimir Putin announces that Russia may consider targeting new sites across Europe with nuclear weapons if part of the United States' nuclear capability is introduced into Europe. ](/news/2007/06/4/russian-president-vladimir-putin-announces-that-russia-may-consider-targeting-new-sites-across-europe-with-nuclear-weapons-if-part-of-the-u.md)
-_Context: American, Europe, President of Russia, Russia, Vladimir Putin, missile interceptor, nuclear warheads_
+_Context: Europe, President of Russia, Russia, United States, Vladimir Putin, missile interceptor, nuclear warheads_
 
 ### [ China publishes its first National Action Plan on Climate Change, expected to cut national carbon emissions by up to 1.5 million metric tons annually by 2010. ](/news/2007/06/4/china-publishes-its-first-national-action-plan-on-climate-change-expected-to-cut-national-carbon-emissions-by-up-to-1-5-million-metric-ton.md)
 _Context: China, National Action Plan on Climate Change, carbon emissions_

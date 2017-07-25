@@ -10,7 +10,7 @@ _Context: G-20 Summit_
 _Context: Baghdad, al-Qaeda_
 
 ### [ India's Chandrayaan-1 probe discovers large amounts of water on the Moon. ](/news/2009/09/24/india-s-chandrayaan-1-probe-discovers-large-amounts-of-water-on-the-moon.md)
-_Context: Chandrayaan-1, India, Moon_
+_Context: Chandrayaan-1, India, moon_
 
 ### [ The United Nations Security Council, headed by world leaders, unanimously approve Resolution 1887 to prevent the proliferation of nuclear weapons. ](/news/2009/09/24/the-united-nations-security-council-headed-by-world-leaders-unanimously-approve-resolution-1887-to-prevent-the-proliferation-of-nuclear-w.md)
 The United Nations council unanimously passed a resolution aimed at shoring up commitment to limiting nuclear weapons.
@@ -46,7 +46,7 @@ _Context: South Korea, Tanzania_
 _Context: Brussels, Rene Magritte, euro, surrealist_
 
 ### [ Detained Burmese National League for Democracy leader Aung San Suu Kyi welcomes a new United States policy shift which would engage with the Burmese military government. ](/news/2009/09/24/detained-burmese-national-league-for-democracy-leader-aung-san-suu-kyi-welcomes-a-new-united-states-policy-shift-which-would-engage-with-th.md)
-_Context: American, Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council_
+_Context: Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council, United States_
 
 ### [ A court in Taiwan rejects former President Chen Shui-bian's appeal to be released on bail. ](/news/2009/09/24/a-court-in-taiwan-rejects-former-president-chen-shui-bian-s-appeal-to-be-released-on-bail.md)
 _Context: Chen Shui-bian, President of Taiwan, Taiwan_

@@ -13,7 +13,7 @@ A stabbing at a Tube station in east London, in which one man suffered serious i
 _Context: Bangladesh, Kantajew Temple_
 
 ### [America's largest seven-day newspaper, ''The New York Times'', breaking with the tradition that front pages belong to the news department, publishes Saturday morning's edition with the first front page editorial since 1920. The editorial calls for tighter gun control laws after the shootings in Colorado Springs, Colorado, and San Bernardino, California, over the past eight days. ](/news/2015/12/5/america-s-largest-seven-day-newspaper-the-new-york-times-breaking-with-the-tradition-that-front-pages-belong-to-the-news-department-p.md)
-_Context: American, Colorado Springs, Colorado, San Bernardino, The New York Times, editorial, gun control laws, news department_
+_Context: Colorado Springs, Colorado, San Bernardino, The New York Times, United States, editorial, gun control laws, news department_
 
 ### [Colombian President Juan Manuel Santos announces the discovery of the Spanish galleon San Jose which sunk off that country's coast over 300 years ago. The discovery was a joint venture between Colombia and U.S. firm Sea Search Armada, which filed a lawsuit when Colombia claimed the wreck as a heritage site. The wreck's cargo is placed somewhere in the $4 to $17 billion range. ](/news/2015/12/5/colombian-president-juan-manuel-santos-announces-the-discovery-of-the-spanish-galleon-san-josa-c-which-sunk-off-that-countryas-coast-over-3.md)
 The San Jose sank in 1708. The value of its cargo — believed to include gold, silver, emeralds, and other precious cargo — has been estimated at more than $10 billion.

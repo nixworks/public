@@ -4,7 +4,7 @@
 Eight mummies, colourful coffins and more than 1000 funerary statues have been found at a tomb near the Valley of the Kings in Egypt.
 
 ### [American consumer goods company Post Holdings agrees to acquire British cereal maker Weetabix Limited from China's Bright Food for $1.8 billion. ](/news/2017/04/18/american-consumer-goods-company-post-holdings-agrees-to-acquire-british-cereal-maker-weetabix-limited-from-china-s-bright-food-for-1-8-bill.md)
-_Context: American, Bright Food, China, Post Holdings, United Kingdom, Weetabix Limited, consumer goods_
+_Context: Bright Food, China, Post Holdings, United Kingdom, United States, Weetabix Limited, consumer goods_
 
 ### [At least 24 people are dead after a Leomarick Trans bus falls into a ravine in the Philippines province of Nueva Ecija. ](/news/2017/04/18/at-least-24-people-are-dead-after-a-leomarick-trans-bus-falls-into-a-ravine-in-the-philippines-province-of-nueva-ecija.md)
 (4th UPDATE) A Leomarick Trans bus traveling from Isabela province to Ilocos Sur falls into a ravine in Carranglan town in Nueva Ecija

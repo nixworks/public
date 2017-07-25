@@ -7,7 +7,7 @@ _Context: Brazil, Fonte Nova, Salvador de Bahia, footballer, stadium_
 _Context: Arnouville, France, Paris, Villiers-le-Bel, car accident, motorbike, police car, riot, suburb, teenager_
 
 ### [ Syria accepts a United States invitation to participate in the 2007 Mideast peace conference. ](/news/2007/11/25/syria-accepts-a-united-states-invitation-to-participate-in-the-2007-mideast-peace-conference.md)
-_Context: 2007 Mideast peace conference, American, Syria_
+_Context: 2007 Mideast peace conference, Syria, United States_
 
 ### [ Croatia's opposition Social Democrats take a narrow lead on in a close national election, according to exit polls, after a campaign fought over corruption, the economy and future European Union membership. ](/news/2007/11/25/croatia-s-opposition-social-democrats-take-a-narrow-lead-on-in-a-close-national-election-according-to-exit-polls-after-a-campaign-fought.md)
 _Context: Croatia, European Union, Social Democrats, in a close national election_

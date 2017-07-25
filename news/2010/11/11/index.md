@@ -13,7 +13,7 @@ _Context: Kabul, Logar Province, Taliban_
 Large explosion hits Criminal Investigation Department in Pakistani city, killing at least 15 people and injuring 100.
 
 ### [International media are giving the impression that all of Mexico is awash with drug violence while ignoring other matters concerning the country, according to Mexico's ambassador to the United States at the American think tank Council on Foreign Relations. ](/news/2010/11/11/international-media-are-giving-the-impression-that-all-of-mexico-is-awash-with-drug-violence-while-ignoring-other-matters-concerning-the-cou.md)
-_Context: American, Council on Foreign Relations, Mexico_
+_Context: Council on Foreign Relations, Mexico, United States_
 
 ### [At least 11 deaths result from violence in Dagestan, North Caucasus. ](/news/2010/11/11/at-least-11-deaths-result-from-violence-in-dagestan-north-caucasus.md)
 _Context: Dagestan, North Caucasus_

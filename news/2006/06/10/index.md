@@ -10,7 +10,7 @@ _Context: 2006 Atlantic hurricane season, Caribbean Sea_
 _Context: Gaza Strip, Hamas, Israel, Qassam rocket_
 
 ### [ A Yemeni man, linked to the September 11, 2001 attacks in the United States, has been deported from New Zealand. It is only the second time that section 72 of the Immigration Act, which deals with threats to national security, has been used to deport someone. Its use requires the consent of the Governor-General, and there is no right of appeal. ](/news/2006/06/10/a-yemeni-man-linked-to-the-september-11-2001-attacks-in-the-united-states-has-been-deported-from-new-zealand-it-is-only-the-second-time.md)
-_Context: American, Governor-General, New Zealand, September 11, 2001 attacks, Yemen's, appealed, national security_
+_Context: Governor-General, New Zealand, September 11, 2001 attacks, United States, Yemen's, appealed, national security_
 
 ## [Previous Day...](/news/2006/06/9/index.md)
 

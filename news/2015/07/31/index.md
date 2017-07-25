@@ -10,7 +10,7 @@ Separate PKK attacks in Turkey on a police station and railway leave two police,
 Shelling from Yemeni side kills four troops and wounds eight others in Saudi border town of Aseer.
 
 ### [Swiss National Bank reports a first half loss of 50 billion CHF as a result of the franc to euro peg removal earlier this year. ](/news/2015/07/31/swiss-national-bank-reports-a-first-half-loss-of-50-billion-chf-as-a-result-of-the-franc-to-euro-peg-removal-earlier-this-year.md)
-_Context: Swiss, franc to euro peg removal, francs_
+_Context: Switzerland, franc to euro peg removal, francs_
 
 ### [The Central Bank lowers interest rate to 11%, while the ruble falls 1.5% on the day to close at 60.60 against the dollar. ](/news/2015/07/31/the-central-bank-lowers-interest-rate-to-11-while-the-ruble-falls-1-5-on-the-day-to-close-at-60-60-against-the-dollar.md)
 * Key rate cut by 50 bps to 11 pct as expected* Bank warns on cooling economy, downplays inflation* Rouble sinks after rate cut (Adds conte

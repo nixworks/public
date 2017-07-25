@@ -52,7 +52,7 @@ _Context: Bushehr, Iran, nuclear reactor_
 _Context: Dick Cheney, Halliburton, Nigeria_
 
 ### [Police in Iran make several arrests of suspects in relation to an attack on two nuclear physicists that it claims are connected to the United States Central Intelligence Agency, Mossad from Israel, and MI6 in the United Kingdom. ](/news/2010/12/2/police-in-iran-make-several-arrests-of-suspects-in-relation-to-an-attack-on-two-nuclear-physicists-that-it-claims-are-connected-to-the-unite.md)
-_Context: American, CIA, Iran, Iranian police, Israel, MI6, Mossad, United Kingdom, nuclear physicists_
+_Context: CIA, Iran, Iranian police, Israel, MI6, Mossad, United Kingdom, United States, nuclear physicists_
 
 ### [Former Taiwanese President Chen Shui-bian enters prison on being convicted of corruption charges. ](/news/2010/12/2/former-taiwanese-president-chen-shui-bian-enters-prison-on-being-convicted-of-corruption-charges.md)
 Former president Chen Shui-bian (陳水扁) will now be identified by his personal identification number, 1020, as he began serving his prison sentence at Taipei Prison on Thursday after being convicted on corruption charges.

@@ -1,7 +1,7 @@
 ## [2009-05-21](/news/2009/05/21/index.md)
 
 ### [ Four men are arrested for planning to bomb two synagogues and destroy military aircraft in New York, United States. ](/news/2009/05/21/four-men-are-arrested-for-planning-to-bomb-two-synagogues-and-destroy-military-aircraft-in-new-york-united-states.md)
-_Context: American, New York, arrest, bomb, synagogue, warplanes_
+_Context: New York, United States, arrest, bomb, synagogue, warplanes_
 
 ### [ Egyptian businessman Hisham Talaat Moustafa is convicted of murdering Lebanese pop singer Suzanne Tamim. ](/news/2009/05/21/egyptian-businessman-hisham-talaat-moustafa-is-convicted-of-murdering-lebanese-pop-singer-suzanne-tamim.md)
 _Context: Egypt, Hisham Talaat Moustafa, Lebanon, Suzanne Tamim, businessman, convicted, murder, pop_
@@ -19,7 +19,7 @@ _Context: Apa, Mount Everest_
 Israeli police evicted Jewish settlers from a West Bank hilltop on Thursday, a day after Prime Minister Benjamin Netanyahu returned from Washington, where he was urged to take just such action.
 
 ### [ The U.S. develops a framework to provide the United Arab Emirates with nuclear energy. ](/news/2009/05/21/the-u-s-develops-a-framework-to-provide-the-united-arab-emirates-with-nuclear-energy.md)
-_Context: American, United Arab Emirates, framework, nuclear power_
+_Context: United Arab Emirates, United States, framework, nuclear power_
 
 ### [ The Communist Party kills 16 police officers near Nagpur, Maharashtra, India. ](/news/2009/05/21/the-communist-party-kills-16-police-officers-near-nagpur-maharashtra-india.md)
 _Context: Communist Party of India, India, Indian police, Maharashtra, Nagpur, Naxalite-Maoist insurgency_

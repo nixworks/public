@@ -4,7 +4,7 @@
 _Context: Kazakhstan, Kyzyl-Agash dam_
 
 ### [Two children are prevented by the Roman Catholic Archdiocese of Denver from enrolling in a Catholic school in Boulder, Colorado, United States because their parents are lesbians. ](/news/2010/03/11/two-children-are-prevented-by-the-roman-catholic-archdiocese-of-denver-from-enrolling-in-a-catholic-school-in-boulder-colorado-united-stat.md)
-_Context: American, Boulder, Roman Catholic Archdiocese of Denver, Roman Catholic Church, lesbian_
+_Context: Boulder, Roman Catholic Archdiocese of Denver, Roman Catholic Church, United States, lesbian_
 
 ### [The American Civil Liberties Union (ACLU) intervenes when Mississippi bans same-sex relationships and cancels its prom (leavers' dinner) due to the desire of a female student to bring her girlfriend and wear a tuxedo, while one of her teachers tells her "she had to remember where she was". ](/news/2010/03/11/the-american-civil-liberties-union-aclu-intervenes-when-mississippi-bans-same-sex-relationships-and-cancels-its-prom-leavers-dinner-due.md)
 _Context: ACLU, Mississippi, leavers' dinner, same-sex couples, tuxedo_

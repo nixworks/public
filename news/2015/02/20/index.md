@@ -25,7 +25,7 @@ High tides on the River Thames left cars submerged under several feet of water i
 A fire fanned by strong winds sweeps through the Torch skyscraper in Dubai, one of the tallest residential buildings in the world.
 
 ### [At least 23 people die this week in the United States due to cold weather, with 18 dead in the state of Tennessee. ](/news/2015/02/20/at-least-23-people-die-this-week-in-the-united-states-due-to-cold-weather-with-18-dead-in-the-state-of-tennessee.md)
-_Context: American, Tennessee_
+_Context: Tennessee, United States_
 
 ### [Liberia lifts curfews and reopens borders from Sunday as the epidemic starts to end. ](/news/2015/02/20/liberia-lifts-curfews-and-reopens-borders-from-sunday-as-the-epidemic-starts-to-end.md)
 Liberia said Friday it was lifting nationwide curfews and re-opening borders shut last year at the height of the Ebola crisis, after the retreat of an epidemic that has killed thousands.

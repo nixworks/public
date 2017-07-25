@@ -10,7 +10,7 @@ _Context: Chief of Staff, Dan Halutz, General, Israel, Israeli Air Force, Israel
 The death toll from an earthquake in central Iran climbed to at least 420 people by late Tuesday, with more than 900 hospitalized.
 
 ### [ Swiss medical company Novartis buys US company Eon Labs and German Hexal AG, increasing its share in the generic medical drugs market ](/news/2005/02/22/swiss-medical-company-novartis-buys-us-company-eon-labs-and-german-hexal-ag-increasing-its-share-in-the-generic-medical-drugs-market.md)
-_Context: Eon Labs, Hexal, Novartis, Swiss_
+_Context: Eon Labs, Hexal, Novartis, Switzerland_
 
 ### [ The World Food Program states that it has only 70 000 tons of food left for Eritrea food aid until June. Reason given is the concentration of aid to areas that suffered from 2004 Indian Ocean earthquake ](/news/2005/02/22/the-world-food-program-states-that-it-has-only-70-000-tons-of-food-left-for-eritrea-food-aid-until-june-reason-given-is-the-concentration.md)
 _Context: 2004 Indian Ocean earthquake, Eritrea, World Food Program_

@@ -13,7 +13,7 @@ New satellite imagery appears to reveal extensive damage to a major airbase in S
 Ukraine said on Tuesday seven of its servicemen had been killed in the past 24 hours as a result of increased attacks by pro-Russian rebels, the highest reported daily casualty figure since August.
 
 ### [American agrochemical and agricultural biotechnology company Monsanto rejects an unsolicited $62 billion takeover bid by German pharmaceutical giant Bayer, saying the price was too low but adding that it remained "open to further talks." ](/news/2016/05/24/american-agrochemical-and-agricultural-biotechnology-company-monsanto-rejects-an-unsolicited-62-billion-takeover-bid-by-german-pharmaceutic.md)
-_Context: American, Bayer, Germany, Monsanto, agricultural biotechnology, agrochemical_
+_Context: Bayer, Germany, Monsanto, United States, agricultural biotechnology, agrochemical_
 
 ### [Eleven people are dead and many are missing after a jade mine collapses in the Myanmar town of Hpakant. ](/news/2016/05/24/eleven-people-are-dead-and-many-are-missing-after-a-jade-mine-collapses-in-the-myanmar-town-of-hpakant.md)
 YANGON: At least 11 people died in a landslide in a remote jade mining region of northern Myanmar with many more feared missing, authorities said Tuesday, the latest deadly incident to hit the shadowy industry.
@@ -25,7 +25,7 @@ _Context: EgyptAir, EgyptAir Flight 804, Egyptian_
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 ### [A court in the U.S. state of Pennsylvania finds that there is enough evidence to hold entertainer Bill Cosby on felony indecent assault charges in relation to the case of ''Andrea Constand v. William H. Cosby, Jr.''. ](/news/2016/05/24/a-court-in-the-u-s-state-of-pennsylvania-finds-that-there-is-enough-evidence-to-hold-entertainer-bill-cosby-on-felony-indecent-assault-char.md)
-_Context: American, Andrea Constand v. William H. Cosby, Jr., Bill Cosby, Pennsylvania_
+_Context: Andrea Constand v. William H. Cosby, Jr., Bill Cosby, Pennsylvania, United States_
 
 ### [Google's offices in central Paris are raided by French finance officials as part of a tax fraud investigation. Google is accused of owing EUR1.6bn ($1.8bn; PS1.3bn) in unpaid taxes. ](/news/2016/05/24/google-s-offices-in-central-paris-are-raided-by-french-finance-officials-as-part-of-a-tax-fraud-investigation-google-is-accused-of-owing-a.md)
 French finance officials raid the Paris offices of US internet giant Google as part of a €1.6bn tax fraud investigation.

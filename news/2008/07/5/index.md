@@ -4,7 +4,7 @@
 _Context: 2008 Tri Nations Series, All Blacks, South Africa, World Cup, rugby union_
 
 ### [ Margaret Hoelzer sets a world record for the 200 metre backstroke at the United States Olympic trials in Omaha, Nebraska. ](/news/2008/07/5/margaret-hoelzer-sets-a-world-record-for-the-200-metre-backstroke-at-the-united-states-olympic-trials-in-omaha-nebraska.md)
-_Context: American, Beijing Olympiad, Margaret Hoelzer, Omaha, Nebraska, backstroke, world record_
+_Context: Beijing Olympiad, Margaret Hoelzer, Omaha, Nebraska, United States, backstroke, world record_
 
 ### [ The Mississippi River reopens for traffic after recent flooding. ](/news/2008/07/5/the-mississippi-river-reopens-for-traffic-after-recent-flooding.md)
 _Context: Mississippi River_

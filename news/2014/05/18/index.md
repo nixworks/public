@@ -22,7 +22,7 @@ _Context: Colombia, Fundacion, department of Magdalena_
 More than 3,000 Chinese nationals have been evacuated from Vietnam, state news agency Xinhua said on Sunday, following deadly rioting that stemmed from an outpouring of rage over Chinese oil drilling in a disputed area of the South China Sea.
 
 ### [Voters in Switzerland resoundingly reject a proposed law change that would have given that country the world's highest minimum wage. ](/news/2014/05/18/voters-in-switzerland-resoundingly-reject-a-proposed-law-change-that-would-have-given-that-country-the-world-s-highest-minimum-wage.md)
-_Context: Swiss, minimum wage reform, proposed law change_
+_Context: Switzerland, minimum wage reform, proposed law change_
 
 ## [Previous Day...](/news/2014/05/17/index.md)
 

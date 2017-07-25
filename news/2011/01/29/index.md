@@ -52,7 +52,7 @@ Cuban dissident Guillermo Farinas is released after being arrested three times i
 The Finance Bill will not go to the D&aacute;il tonight after the Seanad passed the Bill by 30 votes to 20 without accepting any Opposition&hellip;
 
 ### [Burma's pro-democracy leader Aung San Suu Kyi addresses the World Economic Forum in Davos, Switzerland. ](/news/2011/01/29/burma-s-pro-democracy-leader-aung-san-suu-kyi-addresses-the-world-economic-forum-in-davos-switzerland.md)
-_Context: Aung San Suu Kyi, Burma, Davos, Swiss, World Economic Forum, democratic progress_
+_Context: Aung San Suu Kyi, Burma, Davos, Switzerland, World Economic Forum, democratic progress_
 
 ### [Students and union members stage protest marches in London and Manchester against increases in tuition fees and public spending cuts in the United Kingdom. ](/news/2011/01/29/students-and-union-members-stage-protest-marches-in-london-and-manchester-against-increases-in-tuition-fees-and-public-spending-cuts-in-the.md)
 Demonstrations are held in London and Manchester against raising university tuition fees in England and public spending cuts.

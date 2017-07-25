@@ -28,7 +28,7 @@ _Context: Amnesty International, Gaza Strip, Israel, Israeli blockade, consumer 
 _Context: Canada, David Lloyd Johnston, Governor General, Michaelle Jean, University of Waterloo_
 
 ### [United States Republican Party Chairman Michael Steele again resist calls for him to step down after he asserted that the War in Afghanistan was a "war of Obama's choosing". ](/news/2010/07/8/united-states-republican-party-chairman-michael-steele-again-resist-calls-for-him-to-step-down-after-he-asserted-that-the-war-in-afghanistan.md)
-_Context: American, Michael Steele, Republican, War in Afghanistan (2001-present)_
+_Context: Michael Steele, Republican, United States, War in Afghanistan (2001-present)_
 
 ### [US federal judge Joseph Louis Tauro, in two separate cases,  rules that a federal ban against gay marriage is unconstitutional, as it interferes with a state's right to define marriage. ](/news/2010/07/8/us-federal-judge-joseph-louis-tauro-in-two-separate-cases-rules-that-a-federal-ban-against-gay-marriage-is-unconstitutional-as-it-interf.md)
 A U.S. judge in Boston has ruled that a federal gay marriage ban is unconstitutional because it interferes with the right of a state to define marriage.
@@ -64,7 +64,7 @@ _Context: Atlantic Tropical Depression Two, South Padre Island, Texas_
 The body of a bottlenose dolphin, believed to be the famous Kiwi dolphin, Moko, has washed up on a beach in the North Island.
 
 ### [The Swiss Solar Impulse project's solar powered plane remains aloft for 24 hours, a record for a solar powered craft. ](/news/2010/07/8/the-swiss-solar-impulse-project-s-solar-powered-plane-remains-aloft-for-24-hours-a-record-for-a-solar-powered-craft.md)
-_Context: Solar Impulse project, Solar-powered, Swiss, aircraft_
+_Context: Solar Impulse project, Solar-powered, Switzerland, aircraft_
 
 ### [British researchers publish the results of an 11-year study, challenging the traditional notion that childhood obesity is a result of inadequate exercise, arguing instead that obesity leads to inadequate exercise. ](/news/2010/07/8/british-researchers-publish-the-results-of-an-11-year-study-challenging-the-traditional-notion-that-childhood-obesity-is-a-result-of-inadeq.md)
 The idea lack of exercise makes children put on weight is challenged by research which says it is the other way round.

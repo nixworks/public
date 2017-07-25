@@ -31,7 +31,7 @@ _Context: Armenian President, Armenian government, Association of Armenian Volun
 _Context: Adam Air, Flight 574, Indonesia_
 
 ### [ In Switzerland civil unions for same-sex partners are possible.](/news/2007/01/1/in-switzerland-civil-unions-for-same-sex-partners-are-possible.md)
-_Context: Swiss, civil union_
+_Context: Switzerland, civil union_
 
 ### [ Irish becomes the 21st official language of the European Union](/news/2007/01/1/irish-becomes-the-21st-official-language-of-the-european-union.md)
 _Context: European Union, Irish language, official language_

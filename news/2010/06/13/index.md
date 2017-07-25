@@ -70,7 +70,7 @@ _Context: South Korea_
 Air Chief Marshal Sir Jock Stirrup is to quit as head of the armed forces in the autumn, before the end of his term in April 2011.
 
 ### [Freed Swiss businessman Max Goldi is due to leave Libya. ](/news/2010/06/13/freed-swiss-businessman-max-gapldi-is-due-to-leave-libya.md)
-_Context: Libya, Max Goldi, Swiss_
+_Context: Libya, Max Goldi, Switzerland_
 
 ### [The Japan Aerospace Exploration Agency's Hayabusa spacecraft returns to earth near Woomera in northwest South Australia. ](/news/2010/06/13/the-japan-aerospace-exploration-agency-s-hayabusa-spacecraft-returns-to-earth-near-woomera-in-northwest-south-australia.md)
 Japanese scientists are waiting to find out if a space capsule which crashed to Earth in outback South Australia last night contains dust from an ancient, distant asteroid.

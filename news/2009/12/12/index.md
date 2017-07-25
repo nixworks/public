@@ -22,7 +22,7 @@ _Context: Gloria Arroyo, Maguindanao, Maguindanao massacre, Philippine, martial 
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.
 
 ### [ The U.S. Central Intelligence Agency has cancelled the contract of its private security firm with Xe Services LLC, previously known as Blackwater, for its services related to Drone operations in Afghanistan and Pakistan. ](/news/2009/12/12/the-u-s-central-intelligence-agency-has-cancelled-the-contract-of-its-private-security-firm-with-xe-services-llc-previously-known-as-blac.md)
-_Context: American, Blackwater Worldwide, CIA, drones launch_
+_Context: Blackwater Worldwide, CIA, United States, drones launch_
 
 ## [Previous Day...](/news/2009/12/11/index.md)
 

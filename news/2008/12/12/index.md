@@ -10,7 +10,7 @@ _Context: 2008 Russian financial crisis, Andrei Klepach, Russia_
 The Bush administration said it would consider dipping into the $700 billion rescue fund to help automakers.
 
 ### [ Switzerland becomes the 25th European country to join the Schengen Agreement, whereby cross-border passport checks will be abolished. ](/news/2008/12/12/switzerland-becomes-the-25th-european-country-to-join-the-schengen-agreement-whereby-cross-border-passport-checks-will-be-abolished.md)
-_Context: Schengen Agreement, Swiss, border crossing_
+_Context: Schengen Agreement, Switzerland, border crossing_
 
 ### [ The United Nations Security Council finds that Rwanda and the Democratic Republic of the Congo are using child soldiers to fight a proxy war. ](/news/2008/12/12/the-united-nations-security-council-finds-that-rwanda-and-the-democratic-republic-of-the-congo-are-using-child-soldiers-to-fight-a-proxy-wa.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan

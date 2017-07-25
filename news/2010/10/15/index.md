@@ -16,7 +16,7 @@ _Context: England, G4S, Jimmy Mubenga_
 _Context: Adolf Hitler, Berlin, German, Germany_
 
 ### [US rapper T.I. is sentenced to eleven months in prison for violating the terms of his parole. ](/news/2010/10/15/us-rapper-t-i-is-sentenced-to-eleven-months-in-prison-for-violating-the-terms-of-his-parole.md)
-_Context: American, T.I., parole, rapper_
+_Context: T.I., United States, parole, rapper_
 
 ### [Canton Fair opens, China's largest trade fair and a key barometer of its trade and economic development. ](/news/2010/10/15/canton-fair-opens-china-s-largest-trade-fair-and-a-key-barometer-of-its-trade-and-economic-development.md)
 _Context: Canton Fair, barometer_
@@ -28,7 +28,7 @@ Party officials gather to outline five-year economic and social development plan
 Reckitt Benckiser agrees to pay a £10.2m fine after admitting to abusing its market position for the supply of Gaviscon.
 
 ### [The Gotthard Base Tunnel in the Swiss Alps becomes the world's longest railway tunnel, as final breakthrough occurs on the east bore. ](/news/2010/10/15/the-gotthard-base-tunnel-in-the-swiss-alps-becomes-the-world-s-longest-railway-tunnel-as-final-breakthrough-occurs-on-the-east-bore.md)
-_Context: Alps, Gotthard Base Tunnel, Swiss, railway tunnel_
+_Context: Alps, Gotthard Base Tunnel, Switzerland, railway tunnel_
 
 ### [The Nicaraguan Health Ministry reported nine new deaths of leptospirosis in Leon department, to make a total of 17 deaths due to this disease. ](/news/2010/10/15/the-nicaraguan-health-ministry-reported-nine-new-deaths-of-leptospirosis-in-leon-department-to-make-a-total-of-17-deaths-due-to-this-diseas.md)
 _Context: Health Ministry, Nicaragua, leptospirosis_
@@ -61,7 +61,7 @@ A Saudi prince accused of beating his servant to death in a London hotel will no
 Iran says two Germans have admitted breaking the law after they were arrested for interviewing the son of a woman sentenced to death for adultery.
 
 ### [Former Countrywide Financial Chief Executive Officer Angelo Mozilo and two other senior executives agree to settle United States Securities and Exchange Commission claims that they misled investors and of insider trading. ](/news/2010/10/15/former-countrywide-financial-chief-executive-officer-angelo-mozilo-and-two-other-senior-executives-agree-to-settle-united-states-securities.md)
-_Context: American, Angelo Mozilo, Countrywide Financial, Securities and Exchange Commission, chief executive officer, insider trading_
+_Context: Angelo Mozilo, Countrywide Financial, Securities and Exchange Commission, United States, chief executive officer, insider trading_
 
 ### [More than 100 Chinese scholars, journalists and lawyers publish an open letter demanding the release of Liu Xiaobo. ](/news/2010/10/15/more-than-100-chinese-scholars-journalists-and-lawyers-publish-an-open-letter-demanding-the-release-of-liu-xiaobo.md)
 China&#039;s leaders faced fresh calls for freedom of speech on Friday after group of 100 scholars, journalists and lawyers published an open letter demanding the release of Nobel peace laureate Liu Xiaobo.

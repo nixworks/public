@@ -11,7 +11,7 @@ A second Danish pharmaceutical company withdraws products from Greece over its d
 
 ### Related:
 
-1. [Aftershocks cause panic in the Greek island of Kos after deadly earthquake that injured hundreds. ](/news/2017/07/22/aftershocks-cause-panic-in-the-greek-island-of-kos-after-deadly-earthquake-that-injured-hundreds.md) _Context: Greek_
+1. [Aftershocks cause panic in the Greek island of Kos after a deadly earthquake that injured hundreds. ](/news/2017/07/22/aftershocks-cause-panic-in-the-greek-island-of-kos-after-a-deadly-earthquake-that-injured-hundreds.md) _Context: Greek_
 2. [A 6.7 magnitude earthquake in the Aegean Sea near Greece and Turkey kills two people and injures more than 520 others. ](/news/2017/07/21/a-6-7-magnitude-earthquake-in-the-aegean-sea-near-greece-and-turkey-kills-two-people-and-injures-more-than-520-others.md) _Context: Greek_
 3. [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-one-death-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md) _Context: Greek_
 4. [Scientists confirm that Denmark has its first wild pack of Gray wolves for the first time in 200 years. ](/news/2017/05/4/scientists-confirm-that-denmark-has-its-first-wild-pack-of-gray-wolves-for-the-first-time-in-200-years.md) _Context: Denmark_

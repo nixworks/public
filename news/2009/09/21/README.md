@@ -52,7 +52,7 @@ _Context: Adidas, Puma_
 _Context: Jade Ewen, Keisha Buchanan, Sugababes, internationally successful_
 
 ### [ Massimo Busacca, a high-profile Swiss football referee who officiated the 2009 UEFA Champions League Final and was expected to take part at the 2010 FIFA World Cup in South Africa, is suspended "immediately" for waving his middle finger at fans during a match. ](/news/2009/09/21/massimo-busacca-a-high-profile-swiss-football-referee-who-officiated-the-2009-uefa-champions-league-final-and-was-expected-to-take-part-at.md)
-_Context: 2009 UEFA Champions League Final, 2010 FIFA World Cup, Massimo Busacca, South Africa, Swiss_
+_Context: 2009 UEFA Champions League Final, 2010 FIFA World Cup, Massimo Busacca, South Africa, Switzerland_
 
 ### [ Rescuers scour the sea off the Morocco coast for dozens of African migrants who are missing and feared dead after their boat capsized in an accident that kills eight others. ](/news/2009/09/21/rescuers-scour-the-sea-off-the-morocco-coast-for-dozens-of-african-migrants-who-are-missing-and-feared-dead-after-their-boat-capsized-in-an.md)
 At least eight people drowned when a small boat carrying dozens of migrants from sub-Saharan Africa sank off the coast of Morocco.

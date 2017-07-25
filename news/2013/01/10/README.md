@@ -7,7 +7,7 @@ Twin blasts at a snooker hall in the south-western Pakistani city of Quetta kill
 Islamist rebels drove the Malian army out of the strategic northern town of Konna on Thursday, residents said, in the fiercest fighting since militant groups seized control of northern Mali nine months ago.
 
 ### [2013 Neuhausen am Rheinfall train collision: Two trains collide and derail in Neuhausen am Rheinfall, Switzerland, injuring 17 people. ](/news/2013/01/10/2013-neuhausen-am-rheinfall-train-collision-two-trains-collide-and-derail-in-neuhausen-am-rheinfall-switzerland-injuring-17-people.md)
-_Context: 2013 Neuhausen am Rheinfall train collision, Neuhausen am Rheinfall, Swiss_
+_Context: 2013 Neuhausen am Rheinfall train collision, Neuhausen am Rheinfall, Switzerland_
 
 ### [Police in France discover the bodies of Sakine Cansiz, one of the co-founders of the Kurdistan Workers' Party, and two other Kurdish activists who were all shot dead in a Kurdish information center in the capital, Paris. ](/news/2013/01/10/police-in-france-discover-the-bodies-of-sakine-cansa-z-one-of-the-co-founders-of-the-kurdistan-workers-party-and-two-other-kurdish-activi.md)
 Three Kurdish activists - among them a co-founder of the militant PKK group - are shot dead in Paris, but no motive has yet been established.

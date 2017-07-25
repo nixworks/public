@@ -67,7 +67,7 @@ A teacher who bludgeoned a disruptive teenage pupil with a dumbbell has walked f
 The SDLP leader and South Down MP Margaret Ritchie has formally resigned from the Stormont Executive.
 
 ### [Sarah, Duchess of York receives support from businessman Simon Cowell and an award for her work with the disadvantaged children of the U.S. city of Los Angeles despite being caught in a newspaper sting in Britain. ](/news/2010/05/24/sarah-duchess-of-york-receives-support-from-businessman-simon-cowell-and-an-award-for-her-work-with-the-disadvantaged-children-of-the-u-s.md)
-_Context: American, Los Angeles, Sarah, Duchess of York, Simon Cowell_
+_Context: Los Angeles, Sarah, Duchess of York, Simon Cowell, United States_
 
 ### [Iran's largest water supply project is inaugurated in Khorramshahr. ](/news/2010/05/24/iran-s-largest-water-supply-project-is-inaugurated-in-khorramshahr.md)
 _Context: Iran, Khorramshahr_

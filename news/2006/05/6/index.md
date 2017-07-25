@@ -16,7 +16,7 @@ _Context: 2006 general election, People's Action Party, Singapore_
 _Context: ''The Calypso'', Eastbourne, Guernsey, St Peter Port, Tilbury, United Kingdom, crew, cruise liner, lifeboat, lifeboat_
 
 ### [ The People's Republic of China plans to launch satellites for lunar surveying, probing the moon's surface, physiognomy, landform and geological structure. ](/news/2006/05/6/the-people-s-republic-of-china-plans-to-launch-satellites-for-lunar-surveying-probing-the-moon-s-surface-physiognomy-landform-and-geolog.md)
-_Context: Chinese, Moon, physiognomy, satellites_
+_Context: Chinese, moon, physiognomy, satellites_
 
 ## [Previous Day...](/news/2006/05/5/index.md)
 

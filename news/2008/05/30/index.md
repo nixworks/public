@@ -1,10 +1,10 @@
 ## [2008-05-30](/news/2008/05/30/index.md)
 
 ### [ In the United States, Sameer Mishra wins the 81st Scripps National Spelling Bee, the winning word was "guerdon", a noun meaning a reward. ](/news/2008/05/30/in-the-united-states-sameer-mishra-wins-the-81st-scripps-national-spelling-bee-the-winning-word-was-guerdon-a-noun-meaning-a-reward.md)
-_Context: 81st Scripps National Spelling Bee, American, guerdon_
+_Context: 81st Scripps National Spelling Bee, United States, guerdon_
 
 ### [ A gunman shoots dead a magistrate and a Perry County, Kentucky, employee before killing himself in a convenience store near Hazard, Kentucky, United States. ](/news/2008/05/30/a-gunman-shoots-dead-a-magistrate-and-a-perry-county-kentucky-employee-before-killing-himself-in-a-convenience-store-near-hazard-kentuck.md)
-_Context: American, Hazard, Perry County, Kentucky, magistrate_
+_Context: Hazard, Perry County, Kentucky, United States, magistrate_
 
 ### [ Agathon Rwasa returns to Burundi from exile in Tanzania after an agreement between his Party for the Liberation of the Hutu People and the government. ](/news/2008/05/30/agathon-rwasa-returns-to-burundi-from-exile-in-tanzania-after-an-agreement-between-his-party-for-the-liberation-of-the-hutu-people-and-the.md)
 _Context: Agathon Rwasa, Party for the Liberation of the Hutu People_

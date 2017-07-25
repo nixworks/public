@@ -13,7 +13,7 @@ _Context: Amtrak, Boston, New York, train derailment_
 A hostage drama at a Greek prison ends peacefully with the surrender of an Albanian killer who previously escaped twice from a high-security jail.
 
 ### [Five people are wounded during a shooting at a nightclub in Belle Glade, Florida, United States. ](/news/2013/03/17/five-people-are-wounded-during-a-shooting-at-a-nightclub-in-belle-glade-florida-united-states.md)
-_Context: American, Belle Glade, Florida, nightclub, shooting_
+_Context: Belle Glade, Florida, United States, nightclub, shooting_
 
 ### [Prominent French lawyer Olivier Metzner is found dead of an apparent suicide. ](/news/2013/03/17/prominent-french-lawyer-olivier-metzner-is-found-dead-of-an-apparent-suicide.md)
 _Context: France, Olivier Metzner, lawyer, suicide_

@@ -76,7 +76,7 @@ Six men are now being questioned by police in London following reports of a thre
 _Context: Mogadishu, police_
 
 ### [A former scientist at the Los Alamos National Laboratory and his wife are indicted on charges of trying to provide information about the United States nuclear program to Venezuela. ](/news/2010/09/17/a-former-scientist-at-the-los-alamos-national-laboratory-and-his-wife-are-indicted-on-charges-of-trying-to-provide-information-about-the-uni.md)
-_Context: American, Los Alamos National Laboratory, Venezuela_
+_Context: Los Alamos National Laboratory, United States, Venezuela_
 
 ### [Iranian security forces reportedly surround Mir-Hossein Mousavi's office in Tehran. ](/news/2010/09/17/iranian-security-forces-reportedly-surround-mir-hossein-mousavi-s-office-in-tehran.md)
 Iranian security forces surround the office of opposition leader Mir Hossein Mousavi, in effect closing it, his supporters say.

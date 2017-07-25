@@ -34,7 +34,7 @@ Environmental group 10:10 axe their campaign movie starring Gillian Anderson and
 Paris Hilton is headed back to television -- this time in what is billed as a behind the scenes look at the life and friends of the jet-setting socialite and model.
 
 ### [Palestinian President Mahmoud Abbas tells that peace negotiations will not continue until Israel makes a new settlement freeze on the West Bank, ending the current Israel-Palestine peace negotiations after just one month, though maintaining contacts with the United States. ](/news/2010/10/2/palestinian-president-mahmoud-abbas-tells-that-peace-negotiations-will-not-continue-until-israel-makes-a-new-settlement-freeze-on-the-west-b.md)
-_Context: American, Israel, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, West Bank, peace talks_
+_Context: Israel, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, United States, West Bank, peace talks_
 
 ### [Sweden raises its threat level in response to reports that the country could be targeted by terrorists. ](/news/2010/10/2/sweden-raises-its-threat-level-in-response-to-reports-that-the-country-could-be-targeted-by-terrorists.md)
 _Context: Sweden, terrorist_

@@ -16,7 +16,7 @@ _Context: Bulgaria, presidential election_
 _Context: Argentina, Cristina Kirchner, President of Argentina, exit poll, general election_
 
 ### [Voters in Switzerland go to the polls for a federal election, with the Green Liberal Party of Switzerland gaining the most seats compared to the 2007 election, and the Swiss People's Party losing eight seats but remaining the biggest party in the Federal Assembly. ](/news/2011/10/23/voters-in-switzerland-go-to-the-polls-for-a-federal-election-with-the-green-liberal-party-of-switzerland-gaining-the-most-seats-compared-to.md)
-_Context: 2007 election, Federal Assembly, Green Liberal Party of Switzerland, Swiss, Swiss People's Party, federal election_
+_Context: 2007 election, Federal Assembly, Green Liberal Party of Switzerland, Swiss People's Party, Switzerland, federal election_
 
 ## [Previous Day...](/news/2011/10/22/index.md)
 

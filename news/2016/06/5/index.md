@@ -37,7 +37,7 @@ Sunday&#039;s runoff for leadership of the South American nation will pit Pedro 
 _Context: Romania, Romanian local elections, 2016_
 
 ### [Voters in Switzerland go to the polls to vote in a number of referenda including a proposal for a basic income of 2,500 francs a month. ](/news/2016/06/5/voters-in-switzerland-go-to-the-polls-to-vote-in-a-number-of-referenda-including-a-proposal-for-a-basic-income-of-2-500-francs-a-month.md)
-_Context: Swiss, Swiss referendums, 2016, basic income, francs, referenda_
+_Context: Swiss referendums, 2016, Switzerland, basic income, francs, referenda_
 
 ### [Amid frustrations with the ongoing economic crisis, Puerto Rican Democrats  vote in the Commonwealth's primary  with front-runner Hillary Clinton forecast to win following yesterday's sweep in the  Virgin Islands' caucus, moving even closer to locking up her party's presidential nomination. There are 60 pledged delegates at stake. ](/news/2016/06/5/amid-frustrations-with-the-ongoing-economic-crisis-puerto-rican-democrats-vote-in-the-commonwealth-s-primary-with-front-runner-hillary-cl.md)
 SAN JUAN, Puerto Rico (AP) — Hillary Clinton overwhelmed Bernie Sanders in Puerto Rico&#039;s Democratic presidential primary on Sunday, putting her within striking distance of capturing her party&#039;s nomination. After a blowout…

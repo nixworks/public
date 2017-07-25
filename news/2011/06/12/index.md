@@ -31,7 +31,7 @@ _Context: Chinese, Zhejiang, lead contamination_
 _Context: Eritrea_
 
 ### [Italian MEP and diplomat Mario Borghezio is expelled and given a bloody nose during an attempt to access the Suvretta House luxury hotel hosting the Bilderberg Group's secretive annual conference in the Swiss resort of St. Moritz. ](/news/2011/06/12/italian-mep-and-diplomat-mario-borghezio-is-expelled-and-given-a-bloody-nose-during-an-attempt-to-access-the-suvretta-house-luxury-hotel-hos.md)
-_Context: Bilderberg Group, Mario Borghezio, Member of the European Parliament, St. Moritz, Swiss_
+_Context: Bilderberg Group, Mario Borghezio, Member of the European Parliament, St. Moritz, Switzerland_
 
 ### [An anti-China protest takes place in Hanoi, Vietnam, for the second weekend in a row, amid a territorial dispute between the two countries. ](/news/2011/06/12/an-anti-china-protest-takes-place-in-hanoi-vietnam-for-the-second-weekend-in-a-row-amid-a-territorial-dispute-between-the-two-countries.md)
 _Context: Chinese, Hanoi, Vietnam_

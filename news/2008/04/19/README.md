@@ -1,7 +1,7 @@
 ## [2008-04-19](/news/2008/04/19/index.md)
 
 ### [ Muqtada al-Sadr threatens a new rebellion if a United States-Iraqi crackdown against his followers continues. ](/news/2008/04/19/muqtada-al-sadr-threatens-a-new-rebellion-if-a-united-states-iraqi-crackdown-against-his-followers-continues.md)
-_Context: American, Iraq, Muqtada al-Sadr, crackdown against his followers_
+_Context: Iraq, Muqtada al-Sadr, United States, crackdown against his followers_
 
 ### [ Soyuz TMA-11 lands safely outside Arkalyk, 475|km|mi|sp=us short of the planned landing site in Kazakhstan, due to a computer glitch. ](/news/2008/04/19/soyuz-tma-11-lands-safely-outside-arkalyk-475-km-mi-sp-us-short-of-the-planned-landing-site-in-kazakhstan-due-to-a-computer-glitch.md)
 _Context: Arkalyk, Kazakhstan, Soyuz TMA-11_

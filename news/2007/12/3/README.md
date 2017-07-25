@@ -1,7 +1,7 @@
 ## [2007-12-3](/news/2007/12/3/index.md)
 
 ### [ The United States National Intelligence Estimate of November 2007 reports with "high confidence" that Iran stopped its nuclear weapons program in the fall of 2003 and has probably not restarted it since. ](/news/2007/12/3/the-united-states-national-intelligence-estimate-of-november-2007-reports-with-high-confidence-that-iran-stopped-its-nuclear-weapons-prog.md)
-_Context: 2003, American, Iran, Iran and weapons of mass destruction, National Intelligence Estimate, November 2007_
+_Context: 2003, Iran, Iran and weapons of mass destruction, National Intelligence Estimate, November 2007, United States_
 
 ### [ The Election Commission of Pakistan rejects former Prime Minister Nawaz Sharif's nomination papers for the upcoming parliamentary election. ([http://www.dailytimes.com.pk/default.asp?page=2007%5C12%5C04%5Cstory_4-12-2007_pg1_5 ''Daily Times''])](/news/2007/12/3/the-election-commission-of-pakistan-rejects-former-prime-minister-nawaz-sharif-s-nomination-papers-for-the-upcoming-parliamentary-election.md)
 _Context: Nawaz Sharif, Pakistan, Prime Minister, by-elections_

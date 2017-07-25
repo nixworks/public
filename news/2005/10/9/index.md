@@ -1,7 +1,7 @@
 ## [2005-10-9](/news/2005/10/9/index.md)
 
 ### [ In the Polish presidential election, frontrunner Donald Tusk of the liberal (libertarian) Civic Platform party  receives approximately 35.8% of the vote, slightly ahead of Lech Kaczynski  of the conservative Law and Justice Party with 33.3%. A run-off election between Tusk and Kaczynski will take place on October 23.   ](/news/2005/10/9/in-the-polish-presidential-election-frontrunner-donald-tusk-of-the-liberal-libertarian-civic-platform-party-receives-approximately-35-8.md)
-_Context: Civic Platform, Donald Tusk, Law and Justice, Lech Kaczynski, Polish Presidential election_
+_Context: Civic Platform, Donald Tusk, Law and Justice Party, Lech Kaczynski, Polish Presidential election_
 
 ### [ Three white New Orleans police officers are arrested after a video surfaces showing the officers brutally beating unarmed 64-year-old Robert Davis. The victim, who is black, has been charged with public intoxication, resisting arrest, battery on a police officer and public intimidation. ](/news/2005/10/9/three-white-new-orleans-police-officers-are-arrested-after-a-video-surfaces-showing-the-officers-brutally-beating-unarmed-64-year-old-rober.md)
 _Context: African-American, New Orleans, Robert Davis, white_

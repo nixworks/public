@@ -13,7 +13,7 @@ _Context: Diyala Governorate, Iraq_
 Cuba plans to lay off more than a million public sector workers, with half the jobs going in six months, as part of plans to revive its economy.
 
 ### [The Basel Committee on Banking Supervision based in Basel, Switzerland, increases capital requirements for banks around the world to be introduced on 1 January 2015. ](/news/2010/09/13/the-basel-committee-on-banking-supervision-based-in-basel-switzerland-increases-capital-requirements-for-banks-around-the-world-to-be-intr.md)
-_Context: Basel, Basel Committee on Banking Supervision, Swiss, bank_
+_Context: Basel, Basel Committee on Banking Supervision, Switzerland, bank_
 
 ### [Harley-Davidson workers in Menomonee Falls, Wisconsin approve a new contract freezing pay and cutting jobs following a threat to move production from the state cutting 1,350 jobs. ](/news/2010/09/13/harley-davidson-workers-in-menomonee-falls-wisconsin-approve-a-new-contract-freezing-pay-and-cutting-jobs-following-a-threat-to-move-produc.md)
 _Context: Harley Davidson, Menomonee Falls, Wisconsin_

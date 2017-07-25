@@ -31,7 +31,7 @@ _Context: Baghdad, Iraq, Sadr City, United States Army, militia_
 _Context: Defense Department, Mohammed al Qahtani, September 11, 2001 attacks_
 
 ### [ Colombian warlord extradition Colombia extradites 14 former paramilitary leaders, including Salvatore Mancuso, Rodrigo Tovar Pupo, and Diego Murillo Bejarano, to the United States where they have been charged with drug trafficking. [http://news.bbc.co.uk/2/hi/americas/7398332.stm (BBC News)] President of Colombia  lvaro Uribe says that the assets of warlords will be confiscated to compensate victims.date=October 2012 ](/news/2008/05/13/colombian-warlord-extraditionp-colombia-extradites-14-former-paramilitary-leaders-including-salvatore-mancuso-rodrigo-tovar-pupo-and-die.md)
-_Context: Alvaro Uribe, American, Colombia, Colombian President, Diego Murillo Bejarano, Rodrigo Tovar Pupo, Salvatore Mancuso, drug trafficking, paramilitary_
+_Context: Alvaro Uribe, Colombia, Colombian President, Diego Murillo Bejarano, Rodrigo Tovar Pupo, Salvatore Mancuso, United States, drug trafficking, paramilitary_
 
 ## [Previous Day...](/news/2008/05/12/index.md)
 

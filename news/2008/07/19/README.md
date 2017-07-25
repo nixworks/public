@@ -4,7 +4,7 @@
 _Context: Hizbul Mujahideen, Indian Army, Jammu and Kashmir, land mine_
 
 ### [ Iran advises a high-level meeting between it, the United States and European Union in Geneva over its nuclear program saying that it will not suspend production of enriched uranium. ](/news/2008/07/19/iran-advises-a-high-level-meeting-between-it-the-united-states-and-european-union-in-geneva-over-its-nuclear-program-saying-that-it-will-n.md)
-_Context: American, European Union, Iran, enriched uranium, nuclear scientist_
+_Context: European Union, Iran, United States, enriched uranium, nuclear scientist_
 
 ### [ 2008 Cambodian-Thai stand-off: Some 500 Thai and 1,000 Cambodian troops have massed near Prasat Preah Vihear temple on the border between the two countries, increasing their presence on the fifth day of the tense stand-off. ](/news/2008/07/19/2008-cambodian-thai-stand-off-some-500-thai-and-1-000-cambodian-troops-have-massed-near-prasat-preah-vihear-temple-on-the-border-between-t.md)
 _Context: Cambodia, Prasat Preah Vihear, Thailand, exchange gunfire_

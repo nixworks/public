@@ -4,7 +4,7 @@
 _Context: Maguindanao, Maguindanao massacre, Philippine_
 
 ### [ The first atom collisions have taken place in the Large Hadron Collider at CERN, near Geneva, Switzerland. ](/news/2009/11/23/the-first-atom-collisions-have-taken-place-in-the-large-hadron-collider-at-cern-near-geneva-switzerland.md)
-_Context: CERN, Geneva, Large Hadron Collider, Swiss_
+_Context: CERN, Geneva, Large Hadron Collider, Switzerland_
 
 ### [ A second fire at an arms depot plant in Ulyanovsk, Russia, kills at least eight people, 10 days after a previous explosion at the same site. ](/news/2009/11/23/a-second-fire-at-an-arms-depot-plant-in-ulyanovsk-russia-kills-at-least-eight-people-10-days-after-a-previous-explosion-at-the-same-site.md)
 _Context: Russia, Ulyanovsk, previous explosion at the same site_

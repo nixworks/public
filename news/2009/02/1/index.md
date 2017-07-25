@@ -10,7 +10,7 @@ American deep-sea explorers say they have discovered the wreck of a legendary Br
 _Context: Dagestan, Russia, cafe_
 
 ### [ Rafael Nadal of Spain defeats Roger Federer of Switzerland to win the 2009 Australian Open men's singles. ](/news/2009/02/1/rafael-nadal-of-spain-defeats-roger-federer-of-switzerland-to-win-the-2009-australian-open-men-s-singles.md)
-_Context: 2009 Australian Open, Rafael Nadal, Roger Federer, Spain, Swiss, men's singles_
+_Context: 2009 Australian Open, Rafael Nadal, Roger Federer, Spain, Switzerland, men's singles_
 
 ### [ Japan Airlines conducts the first successful test flight of a Boeing 747-300 partly powered by biofuel. ](/news/2009/02/1/japan-airlines-conducts-the-first-successful-test-flight-of-a-boeing-747-300-partly-powered-by-biofuel.md)
 _Context: Boeing 747-300, Japan Airlines, biofuel, test flight_

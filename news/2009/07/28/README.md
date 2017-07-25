@@ -10,7 +10,7 @@ _Context: Borno State, Maiduguri, Nigeria, Yusuf Mohamed_
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 ### [ The United States and China continue the first U.S.-China Strategic and Economic Dialogue. ](/news/2009/07/28/the-united-states-and-china-continue-the-first-u-s-china-strategic-and-economic-dialogue.md)
-_Context: American, Chinese, U.S.-China Strategic and Economic Dialogue_
+_Context: Chinese, U.S.-China Strategic and Economic Dialogue, United States_
 
 ### [ South African police clash with about 200 protesters at an informal settlement outside Johannesburg. ](/news/2009/07/28/south-african-police-clash-with-about-200-protesters-at-an-informal-settlement-outside-johannesburg.md)
 _Context: Johannesburg, South Africa_

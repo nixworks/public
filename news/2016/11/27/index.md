@@ -28,7 +28,7 @@ _Context: Bayou Classic, French Quarter, New Orleans, mass shooting_
 Francois Fillon looks set to win the French Republican primaries.
 
 ### [In a referendum, Switzerland rejects a proposal to abolish commercial nuclear power by 2029. ](/news/2016/11/27/in-a-referendum-switzerland-rejects-a-proposal-to-abolish-commercial-nuclear-power-by-2029.md)
-_Context: Swiss, Swiss referendums, 2016, nuclear power_
+_Context: Swiss referendums, 2016, Switzerland, nuclear power_
 
 ### [The campaign of Republican president-elect Donald Trump has called the planned recounts by Green nominee Jill Stein's campaign in Wisconsin, Pennsylvania and Michigan a "scam" and has criticized the participation of the campaign of Democratic candidate Hillary Clinton. ](/news/2016/11/27/the-campaign-of-republican-presidentaelect-donald-trump-has-called-the-planned-recounts-by-green-nominee-jill-stein-s-campaign-in-wisconsi.md)
 Republican President-elect Donald Trump says an impending recount of votes in Wisconsin is a &quot;scam&quot;.

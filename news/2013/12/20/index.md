@@ -28,7 +28,7 @@ TEHRAN – Iranian lawmakers Friday threatened retaliation for a Senate bill tha
 _Context: Supreme Court of Canada, anti-prostitution laws_
 
 ### [Same-sex marriage becomes legal in the U.S. state of Utah, and gay couples begin receiving marriage licenses, after a federal judge strikes down a provision of the Utah Constitution. ](/news/2013/12/20/same-sex-marriage-becomes-legal-in-the-u-s-state-of-utah-and-gay-couples-begin-receiving-marriage-licenses-after-a-federal-judge-strikes.md)
-_Context: American, Utah, Utah Constitution, same-sex marriages_
+_Context: United States, Utah, Utah Constitution, same-sex marriages_
 
 ### [Uganda passes law banning homosexuality. ](/news/2013/12/20/uganda-passes-law-banning-homosexuality.md)
 _Context: Uganda, law_

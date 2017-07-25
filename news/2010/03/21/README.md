@@ -4,7 +4,7 @@
 _Context: Nicolas Sarkozy, UMP, regional elections_
 
 ### [Tens of thousands of people gather on the National Mall in Washington, D.C., United States to support President Barack Obama in his bid to overhaul the country's immigration laws. ](/news/2010/03/21/tens-of-thousands-of-people-gather-on-the-national-mall-in-washington-d-c-united-states-to-support-president-barack-obama-in-his-bid-to-o.md)
-_Context: American, Barack Obama, National Mall, President of the United States, Washington, D.C._
+_Context: Barack Obama, National Mall, President of the United States, United States, Washington, D.C._
 
 ### [A new earthquake in Haiti kills two in Cap-Hatien. ](/news/2010/03/21/a-new-earthquake-in-haiti-kills-two-in-cap-haitien.md)
 _Context: Cap-Hatien, Haiti_

@@ -10,7 +10,7 @@ Pyongyang launches what appears to be two medium-range ballistic missiles weeks 
 Aid groups say the deal, to come into effect on Sunday, is &#039;ugly and illegal&#039;
 
 ### [Swiss research,  published in the medical journal ''The Lancet'', found that paracetamol -- sold as Tylenol and as a generic, acetaminophen,  in the United States -- was not effective at reducing pain or improving movement in patients with osteoarthritis of the knee or hip. The analysis examined 74 randomly-selected trials published between 1980 and 2015 with 58,556 patients who had osteoarthritis. The study did find the prescription drug diclofenac, sold in the U.S. as Cataflam or Voltaren,  is the most effective NSAID available. McNeil Consumer Healthcare, the makers of Tylenol, disagree with the study's conclusions. ](/news/2016/03/18/swiss-research-published-in-the-medical-journal-the-lancet-found-that-paracetamol-sold-as-tylenol-and-as-a-generic-acetaminophen.md)
-_Context: McNeil Consumer Healthcare, NSAID, Swiss, The Lancet, Tylenol, diclofenac, paracetamol_
+_Context: McNeil Consumer Healthcare, NSAID, Switzerland, The Lancet, Tylenol, diclofenac, paracetamol_
 
 ### [ A rare bacterial infection from  bacterium Elizabethkingia anophelis may have contributed to the deaths of 17 people since November 2015. ](/news/2016/03/18/a-rare-bacterial-infection-from-bacterium-elizabethkingia-anophelis-may-have-contributed-to-the-deaths-of-17-people-since-november-2015.md)
 Officials are searching for the source of the Elizabethkingia anophelis bacteria linked to 18 deaths and 54 reported infections.

@@ -7,7 +7,7 @@ India said a group of militants from Pakistan killed five of its soldiers in an 
 DENMARK-EVACUATION/ :Police evacuate area of Copenhagen over suspect car
 
 ### [2013 embassy closures:The United States Department of State evacuates staff from the United States Embassy in Yemen due to an al-Qaida threat. ](/news/2013/08/6/2013-embassy-closures-pthe-united-states-department-of-state-evacuates-staff-from-the-united-states-embassy-in-yemen-due-to-an-al-qaida-thre.md)
-_Context: 2013 embassy closures, Al Qaida's, American, State Department's, Yemen's_
+_Context: 2013 embassy closures, Al Qaida's, State Department's, United States, Yemen's_
 
 ### [Ten people are killed in a clash between rival drug cartels in Honduras. ](/news/2013/08/6/ten-people-are-killed-in-a-clash-between-rival-drug-cartels-in-honduras.md)
 A shootout between rival drug gangs in Honduras leaves 17 people dead in a region infamous as a drugs transit route.
@@ -31,7 +31,7 @@ Tunisian police shot dead an Islamist militant on Tuesday in a suburb on the out
 The blast took place in the Argentine city of Rosario, the nation&#39;s third most populace locale.
 
 ### [A hot Air Balloon carrying an American family crashes killing one person and injures four in the Swiss town of Montbovon. ](/news/2013/08/6/a-hot-air-balloon-carrying-an-american-family-crashes-killing-one-person-and-injures-four-in-the-swiss-town-of-montbovon.md)
-_Context: Swiss_
+_Context: Switzerland_
 
 ### [The trial of Major Nidal Malik Hasan, a former United States Army Medical Corps officer and the Gunman during the Fort Hood shooting, begins. ](/news/2013/08/6/the-trial-of-major-nidal-malik-hasan-a-former-united-states-army-medical-corps-officer-and-the-gunman-during-the-fort-hood-shooting-begins.md)
 Hasan, paralyzed from the waist down after being shot by police, is representing himself.

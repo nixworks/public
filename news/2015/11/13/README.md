@@ -22,7 +22,7 @@ _Context: Central African Republic, Pope Francis, civil war_
 Yaakov Litman and Netanel, 18, were shot dead four days before daughter&#8217;s wedding; &#8216;Who will walk Sara down the aisle now?&#8217; cries son
 
 ### [The Anne Frank Fonds in Basel, Switzerland, announces that Otto Frank, father of Anne Frank, is editor and legally the co-author of "The Diary of Anne Frank." ](/news/2015/11/13/the-anne-frank-fonds-in-basel-switzerland-announces-that-otto-frank-father-of-anne-frank-is-editor-and-legally-the-co-author-of-athe-d.md)
-_Context: Anne Frank, Anne Frank Fonds, Basel, Otto Frank, Swiss, The Diary of Anne Frank_
+_Context: Anne Frank, Anne Frank Fonds, Basel, Otto Frank, Switzerland, The Diary of Anne Frank_
 
 ### [South Korean news agency Yonhap  reports China's mobile phone users are discarding 80 million devices annually, but almost none are being recycled. China's recycling rate stands at 9-10 percent of the global recycling average. ](/news/2015/11/13/south-korean-news-agency-yonhap-reports-china-s-mobile-phone-users-are-discarding-80-million-devices-annually-but-almost-none-are-being-re.md)
 _Context: China, South Korea, Yonhap, mobile phone, recycling_

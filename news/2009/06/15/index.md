@@ -22,7 +22,7 @@ _Context: 2009 ICC World Twenty20, England, India_
 European Union member states are ready to help resettle detainees freed from the U.S. detention center at Guantanamo Bay in Cuba, the EU said on Monday.
 
 ### [ Five Cubans convicted of spying for Cuba are denied an appeal for a new trial by the United States Supreme Court. ](/news/2009/06/15/five-cubans-convicted-of-spying-for-cuba-are-denied-an-appeal-for-a-new-trial-by-the-united-states-supreme-court.md)
-_Context: American, Cuba, Cuban Five, United States Supreme Court, trial_
+_Context: Cuba, Cuban Five, United States, United States Supreme Court, trial_
 
 ### [ Notorious Melbourne Gangland figure Desmond "Tuppence" Moran is shot dead outside Deli Cafe in Ascot Vale, Victoria, Australia. [http://www.news.com.au/des-tuppence-moran-shot-dead-in-melbourne/story-0-1225735165691]](/news/2009/06/15/notorious-melbourne-gangland-figure-desmond-tuppence-moran-is-shot-dead-outside-deli-cafe-in-ascot-vale-victoria-australia-http-www.md)
 _Context: Ascot Vale, Australia, Melbourne gangland killings, Victoria_

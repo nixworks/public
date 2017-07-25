@@ -22,7 +22,7 @@ A missile launched by North Korea from an area near its capital Pyongyang flies 
 Enes Kanter landed safely back in the United States on Sunday, one day after being detained in a Romanian airport and having his Turkish passport canceled.
 
 ### [Swiss voters approve a referendum to phase out nuclear power in Switzerland and increase renewable energy. ](/news/2017/05/21/swiss-voters-approve-a-referendum-to-phase-out-nuclear-power-in-switzerland-and-increase-renewable-energy.md)
-_Context: Swiss, Swiss referendums, 2017, nuclear power in Switzerland_
+_Context: Swiss referendums, 2017, Switzerland, nuclear power in Switzerland_
 
 ## [Previous Day...](/news/2017/05/20/index.md)
 

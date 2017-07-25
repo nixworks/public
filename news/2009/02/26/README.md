@@ -1,7 +1,7 @@
 ## [2009-02-26](/news/2009/02/26/index.md)
 
 ### [ United States President Barack Obama will withdraw most soldiers from the Iraq War by August 2010. ](/news/2009/02/26/united-states-president-barack-obama-will-withdraw-most-soldiers-from-the-iraq-war-by-august-2010.md)
-_Context: American, Barack Obama, Iraq, Iraq War, President of the United States, United States military_
+_Context: Barack Obama, Iraq, Iraq War, President of the United States, United States, United States military_
 
 ### [ The Bangladesh Rifles surrender after the government promises amnesty. ](/news/2009/02/26/the-bangladesh-rifles-surrender-after-the-government-promises-amnesty.md)
 _Context: 2009 Bangladesh Rifles revolt, Bangladesh, Bangladesh Rifles, amnesty, government_
@@ -16,7 +16,7 @@ _Context: International Criminal Tribunal for the former Yugoslavia, Milan Milut
 Rick Wagoner, the chief executive of General Motors, met with government officials to discuss the carmaker’s finances after the company reported a $9.6 billion loss for the quarter.
 
 ### [ Switzerland's UBS AG appoints former Credit Suisse CEO Oswald Grubel as its new Group CEO. ](/news/2009/02/26/switzerland-s-ubs-ag-appoints-former-credit-suisse-ceo-oswald-gra1-4bel-as-its-new-group-ceo.md)
-_Context: Credit Suisse, Oswald Grubel, Swiss, UBS AG, chief executive officer_
+_Context: Credit Suisse, Oswald Grubel, Switzerland, UBS AG, chief executive officer_
 
 ### [ China's Navy and Denmark's Navy rescue Italian and Chinese merchant vessels from Somali pirates in the Gulf of Aden. ](/news/2009/02/26/china-s-navy-and-denmark-s-navy-rescue-italian-and-chinese-merchant-vessels-from-somali-pirates-in-the-gulf-of-aden.md)
 _Context: Chinese, Denmark, Gulf of Aden, Italian, MV, Navy, People's Liberation Army Navy, Somali pirates, Somalia_
@@ -55,7 +55,7 @@ _Context: Kenya, Koobi Fora, anatomy, footprint, gait, human foot_
 _Context: Svalbard Global Seed Vault, crop, food, seed_
 
 ### [ The United States Defense Department allows news agencies to publicize photographs of the coffins of soldiers killed in Iraq and Afghanistan. ](/news/2009/02/26/the-united-states-defense-department-allows-news-agencies-to-publicize-photographs-of-the-coffins-of-soldiers-killed-in-iraq-and-afghanista.md)
-_Context: Afghanistan, American, Defense Department, Iraq, United States military, coffin, news agency_
+_Context: Afghanistan, Defense Department, Iraq, United States, United States military, coffin, news agency_
 
 ### [ The Rocky Mountain News, one of Colorado's largest newspapers, publishes its last issue. This issue hits the streets the following morning.[www.9news.com]](/news/2009/02/26/the-rocky-mountain-news-one-of-colorado-s-largest-newspapers-publishes-its-last-issue-this-issue-hits-the-streets-the-following-morning.md)
 _Context: Rocky Mountain News_

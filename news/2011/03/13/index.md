@@ -16,7 +16,7 @@ _Context: 2011 Canterbury earthquake, Bob Parker, Christchurch, New Zealand_
 _Context: Japan, Kagoshima Prefecture, Shinmoedake, volcanic activity_
 
 ### [A wind and rainstorm in the Pacific Northwest of the United States results in the loss of power to 114,000 in Portland, Oregon. ](/news/2011/03/13/a-wind-and-rainstorm-in-the-pacific-northwest-of-the-united-states-results-in-the-loss-of-power-to-114-000-in-portland-oregon.md)
-_Context: American, Pacific Northwest, Portland, Oregon_
+_Context: Pacific Northwest, Portland, Oregon, United States_
 
 ### [UN Secretary-General  Ban Ki-moon condemns the Palestinian Itamar attack that stabbed and murdered an Israeli family of five. ](/news/2011/03/13/un-secretary-general-ban-ki-moon-condemns-the-palestinian-itamar-attack-that-stabbed-and-murdered-an-israeli-family-of-five.md)
 Israel approves the construction of hundreds of homes for Jewish settlers in the West Bank, after the murder of five members of a settler family.

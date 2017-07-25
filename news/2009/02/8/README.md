@@ -13,7 +13,7 @@ _Context: Iraq, Karbala, roadside bomb_
 _Context: Gaza Strip, Israel, Palestinian, militant, rocket_
 
 ### [ Switzerland votes on a referendum to make permanent freedom of movement for workers from the European Union. ](/news/2009/02/8/switzerland-votes-on-a-referendum-to-make-permanent-freedom-of-movement-for-workers-from-the-european-union.md)
-_Context: European Union, Swiss, freedom of movement for workers, referendum_
+_Context: European Union, Switzerland, freedom of movement for workers, referendum_
 
 ### [ Bushfires in Victoria, Australia, have killed at least 108 people and destroyed at least 750 homes. ](/news/2009/02/8/bushfires-in-victoria-australia-have-killed-at-least-108-people-and-destroyed-at-least-750-homes.md)
 _Context: Australia, Victoria, recent bushfires_

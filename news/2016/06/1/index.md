@@ -61,7 +61,7 @@ Darmstadt, Germany, police are seeking suspects after 26 women filed sexual assa
 Richard Huckle admitted 71 charges - but investigators believe he abused up to 200 victims in poor Christian communities.
 
 ### [The world's longest and deepest rail tunnel, the 57 km (35 miles) Gotthard Base Tunnel, opens in Switzerland. ](/news/2016/06/1/the-world-s-longest-and-deepest-rail-tunnel-the-57-km-35-miles-gotthard-base-tunnel-opens-in-switzerland.md)
-_Context: Gotthard Base Tunnel, Swiss_
+_Context: Gotthard Base Tunnel, Switzerland_
 
 ## [Previous Day...](/news/2016/05/31/index.md)
 

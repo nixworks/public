@@ -13,7 +13,7 @@ More than 200 people are wounded as protesters demanding jobs clash with securit
 Ministers are proposing to set a minimum price of 45p a unit for the sale of alcohol in England and Wales as part of a drive to tackle problem drinking.
 
 ### [The United States Environmental Protection Agency announces that BP has been suspended from bidding on future US government contracts as a result of the 2010 ''Deepwater Horizon'' oil spill. ](/news/2012/11/28/the-united-states-environmental-protection-agency-announces-that-bp-has-been-suspended-from-bidding-on-future-us-government-contracts-as-a-r.md)
-_Context: 2010 ''Deepwater Horizon'' oil spill, American, BP, Environmental Protection Agency, government_
+_Context: 2010 ''Deepwater Horizon'' oil spill, BP, Environmental Protection Agency, United States, government_
 
 ### [The European Commission approves a Spanish government plan to shrink and restructure three major Spanish banks (Bankia, NCG Banco and Catalunya Banc) and sell a fourth (Banco de Valencia). ](/news/2012/11/28/the-european-commission-approves-a-spanish-government-plan-to-shrink-and-restructure-three-major-spanish-banks-bankia-ncg-banco-and-catalu.md)
 The European Commission gives the go-ahead to a major restructuring of four nationalised Spanish banks, which includes bank closures and thousands of job losses.

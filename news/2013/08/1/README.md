@@ -19,7 +19,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Greek, Turkey_
 
 ### [The U.S. states of Minnesota and Rhode Island begin issuing marriage licenses to same-sex couples. ](/news/2013/08/1/the-u-s-states-of-minnesota-and-rhode-island-begin-issuing-marriage-licenses-to-same-sex-couples.md)
-_Context: American, Minnesota, Rhode Island, same-sex marriage_
+_Context: Minnesota, Rhode Island, United States, same-sex marriage_
 
 ### [The Dhaka High Court rules the registration of Bangladesh's largest Islamic group Jamaat-e-Islami as a political party illegal making it potentially ineligible to contest elections. ](/news/2013/08/1/the-dhaka-high-court-rules-the-registration-of-bangladesh-s-largest-islamic-group-jamaat-e-islami-as-a-political-party-illegal-making-it-pot.md)
 _Context: Bangladesh, Bangladesh Jamaat-e-Islami, Dhaka, High Court, Islam_

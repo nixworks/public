@@ -25,7 +25,7 @@ Cardinal Keith O&#39;Brien said Sunday that he &quot;will play no further part i
 _Context: Brooklyn, C-section, Hasidic Jewish, pregnancy_
 
 ### [Swiss referendum, 2013: Voters in Switzerland pass measures limiting CEO pay and outlawing golden parachutes. ](/news/2013/03/3/swiss-referendum-2013-voters-in-switzerland-pass-measures-limiting-ceo-pay-and-outlawing-golden-parachutes.md)
-_Context: CEO, Swiss, Swiss referendum, 2013, golden parachutes, measures_
+_Context: CEO, Swiss referendum, 2013, Switzerland, golden parachutes, measures_
 
 ### [SpaceX CRS-2: The cargo ship SpaceX Dragon docks at the International Space Station after a brief delay. ](/news/2013/03/3/spacex-crs-2-the-cargo-ship-spacex-dragon-docks-at-the-international-space-station-after-a-brief-delay.md)
 _Context: Dragon, International Space Station, SpaceX, SpaceX CRS-2_

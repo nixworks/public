@@ -13,7 +13,7 @@ _Context: Louisiana Purchase, New Orleans, Louisiana_
 _Context: Ireland, John O'Shea, Manchester United, Sir Alex Ferguson, cancer_
 
 ### [ Former Argentinian president Carlos Menem is charged with tax fraud for failing to declare a Swiss bank account containing $600,000. If convicted he could be debarred from public office. [http://news.bbc.co.uk/2/hi/americas/3336367.stm]](/news/2003/12/20/former-argentinian-president-carlos-menem-is-charged-with-tax-fraud-for-failing-to-declare-a-swiss-bank-account-containing-600-000-if-con.md)
-_Context: Argentina, Carlos Menem, Swiss_
+_Context: Argentina, Carlos Menem, Switzerland_
 
 ### [The World Court says it will hear legal arguments about Israel's construction of a controversial barrier in the West Bank to separate Israeli and Palestinian areas. The hearings will begin on 23 February 2004. [http://news.bbc.co.uk/2/hi/middle_east/3336229.stm]](/news/2003/12/20/the-world-court-says-it-will-hear-legal-arguments-about-israel-s-construction-of-a-controversial-barrier-in-the-west-bank-to-separate-israel.md)
 _Context: Israel, Palestinian National Authority, West Bank, World Court_

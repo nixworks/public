@@ -43,7 +43,7 @@ A diplomatic team, including Ireland&#39;s ambassador to Sudan, have renewed eff
 _Context: Aftershock, Vanuatu, earthquake, magnitude_
 
 ### [ ''The Red Book'' by Swiss psychiatrist Carl Jung is displayed for the first time in public. ](/news/2009/10/7/the-red-book-by-swiss-psychiatrist-carl-jung-is-displayed-for-the-first-time-in-public.md)
-_Context: Carl Jung, Swiss, The Red Book, psychiatrist_
+_Context: Carl Jung, Switzerland, The Red Book, psychiatrist_
 
 ## [Previous Day...](/news/2009/10/6/index.md)
 

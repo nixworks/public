@@ -25,7 +25,7 @@ _Context: Gaza Strip, Grad, Islamic Jihad, Israel, rocket attacks_
 _Context: Iraq, Kirkuk_
 
 ### [ The South Central Farm in Los Angeles, California, reportedly the largest urban farm in the United States, is raided by the LAPD, with assistance from the Los Angeles Fire Department. ](/news/2006/06/13/the-south-central-farm-in-los-angeles-california-reportedly-the-largest-urban-farm-in-the-united-states-is-raided-by-the-lapd-with-assi.md)
-_Context: American, California, Los Angeles, Los Angeles Fire Department, Los Angeles Police Department, South Central Farm_
+_Context: California, Los Angeles, Los Angeles Fire Department, Los Angeles Police Department, South Central Farm, United States_
 
 ## [Previous Day...](/news/2006/06/12/index.md)
 

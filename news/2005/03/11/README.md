@@ -7,7 +7,7 @@ _Context: 11 March, 2004 Madrid attacks, Forest of the Departed, Juan Carlos I, 
 _Context: Abu Ghraib, Iraq_
 
 ### [ President of Switzerland, Samuel Schmid, speaks in Madrid in a conference on terrorism and urges countries to respect international law and human rights ](/news/2005/03/11/president-of-switzerland-samuel-schmid-speaks-in-madrid-in-a-conference-on-terrorism-and-urges-countries-to-respect-international-law-and.md)
-_Context: Human rights, Madrid, Samuel Schmid, Swiss, international law, terrorism_
+_Context: Human rights, Madrid, Samuel Schmid, Switzerland, international law, terrorism_
 
 ### [ The former chess world champion Garry Kasparov announces he is going to retire from professional competitions ](/news/2005/03/11/the-former-chess-world-champion-garry-kasparov-announces-he-is-going-to-retire-from-professional-competitions.md)
 _Context: Garry Kasparov, chess_

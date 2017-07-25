@@ -7,7 +7,7 @@ Loyalist Syrian forces killed at least 30 army deserters in an ambush on the Dam
 Israeli troops shot to death a Palestinian man on Tuesday after he and others hurled rocks and firebombs at them in the West Bank, the military said.
 
 ### [English singer and lyricist Morrissey is diagnosed with severe pneumonia and hospitalised in San Francisco on his U.S. tour. ](/news/2013/03/12/english-singer-and-lyricist-morrissey-is-diagnosed-with-severe-pneumonia-and-hospitalised-in-san-francisco-on-his-u-s-tour.md)
-_Context: American, England, Morrissey, San Francisco, pneumonia_
+_Context: England, Morrissey, San Francisco, United States, pneumonia_
 
 ### [The Better Business Bureau expels the Los Angeles chapter, the nation's largest chapter, over a pay-to-play scheme. ](/news/2013/03/12/the-better-business-bureau-expels-the-los-angeles-chapter-the-nation-s-largest-chapter-over-a-pay-to-play-scheme.md)
 The Better Business Bureau chapter that predominantly served the Los Angeles area is no more. 
@@ -55,7 +55,7 @@ A US judge has entered a plea of not guilty on behalf of alleged Aurora theatre 
 New York City police officer Gilberto Valle is convicted of plotting to murder his wife, and cook and eat other women.
 
 ### [Authorities believe that a U.S. man suspected of killing his grandparents on March 8 in Renton, Washington, is barricaded in a hotel in Lincoln City, Oregon. ](/news/2013/03/12/authorities-believe-that-a-u-s-man-suspected-of-killing-his-grandparents-on-march-8-in-renton-washington-is-barricaded-in-a-hotel-in-linc.md)
-_Context: American, Lincoln City, March 8, Oregon, Renton, Washington, Washington_
+_Context: Lincoln City, March 8, Oregon, Renton, Washington, United States, Washington_
 
 ### [Voters in Greenland go to the polls for a parliamentary election. ](/news/2013/03/12/voters-in-greenland-go-to-the-polls-for-a-parliamentary-election.md)
 Voters go to the polls in Greenland on Tuesday, in an election dominated by the question of how the territory should exploit its mineral riches.

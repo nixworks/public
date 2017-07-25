@@ -4,7 +4,7 @@
 _Context: Miami_
 
 ### [ Google sponsors a US$30 million spaceflight contest to land a robotic lander on the moon and beam back a gigabyte of images and videos to earth. ](/news/2007/09/13/google-sponsors-a-us-30-million-spaceflight-contest-to-land-a-robotic-lander-on-the-moon-and-beam-back-a-gigabyte-of-images-and-videos-to-e.md)
-_Context: Earth, Google, Moon, US$, gigabyte, space transport_
+_Context: Earth, Google, US$, gigabyte, moon, space transport_
 
 ### [ 2007 Atlantic hurricane season: Tropical Storm Ingrid forms in the Atlantic Ocean 800 miles from the outer Caribbean islands. ](/news/2007/09/13/2007-atlantic-hurricane-season-tropical-storm-ingrid-forms-in-the-atlantic-ocean-800-miles-from-the-outer-caribbean-islands.md)
 _Context: 2007 Atlantic hurricane season, Atlantic Ocean, Caribbean_
@@ -13,7 +13,7 @@ _Context: 2007 Atlantic hurricane season, Atlantic Ocean, Caribbean_
 _Context: African Union, Darfur, Ethiopia, Sudan, United Nations_
 
 ### [ After deliberating for 22 years, the United Nations General Assembly adopts the non-binding Declaration on the Rights of Indigenous Peoples; 143 countries vote in favour, while 11 abstain and Australia, Canada, New Zealand and the United States vote against. ](/news/2007/09/13/after-deliberating-for-22-years-the-united-nations-general-assembly-adopts-the-non-binding-declaration-on-the-rights-of-indigenous-peoples.md)
-_Context: American, Australia, Canada, Declaration on the Rights of Indigenous Peoples, New Zealand, United Nations General Assembly_
+_Context: Australia, Canada, Declaration on the Rights of Indigenous Peoples, New Zealand, United Nations General Assembly, United States_
 
 ### [ At least fifteen Pakistani Army soldiers die in a bombing at their mess at the Terbella Ghazi base north of Islamabad. ](/news/2007/09/13/at-least-fifteen-pakistani-army-soldiers-die-in-a-bombing-at-their-mess-at-the-terbella-ghazi-base-north-of-islamabad.md)
 _Context: Islamabad, Pakistani Army, Terbella Ghazi_

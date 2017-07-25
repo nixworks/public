@@ -4,7 +4,7 @@
 _Context: Donald Carcieri, Governor, Rhode Island, decriminalized prostitution_
 
 ### [ Voters go to the polls in elections in the United States for Governors of Virginia and New Jersey, special elections for two Congressional districts, and several municipal elections. ](/news/2009/11/3/voters-go-to-the-polls-in-elections-in-the-united-states-for-governors-of-virginia-and-new-jersey-special-elections-for-two-congressional.md)
-_Context: American, New Jersey, United States elections, 2009, Virginia, two Congressional districts_
+_Context: New Jersey, United States, United States elections, 2009, Virginia, two Congressional districts_
 
 ### [ Czech President Vaclav Klaus signs the Lisbon Treaty after it was upheld by the Constitutional Court, thus fulfilling the final step in its ratification. ](/news/2009/11/3/czech-president-va-clav-klaus-signs-the-lisbon-treaty-after-it-was-upheld-by-the-constitutional-court-thus-fulfilling-the-final-step-in-it.md)
 _Context: Constitutional Court, Czech Republic, Lisbon Treaty, Vaclav Klaus, deposits_
@@ -28,7 +28,7 @@ _Context: 14th Dalai Lama, Arunachal Pradesh, Chinese, to deal_
 _Context: Dubai, mufti_
 
 ### [ Two senior United States officials arrive in Burma for talks with the military junta and National League for Democracy leader Aung San Suu Kyi. ](/news/2009/11/3/two-senior-united-states-officials-arrive-in-burma-for-talks-with-the-military-junta-and-national-league-for-democracy-leader-aung-san-suu.md)
-_Context: American, Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council_
+_Context: Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council, United States_
 
 ### [ Fiji expels envoys from Australia and New Zealand over alleged interference in the country's judiciary. ](/news/2009/11/3/fiji-expels-envoys-from-australia-and-new-zealand-over-alleged-interference-in-the-country-s-judiciary.md)
 _Context: Australia, Fiji, New Zealand, country's judiciary_

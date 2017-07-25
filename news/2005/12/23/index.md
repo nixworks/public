@@ -10,13 +10,13 @@ _Context: Chad, Idriss Deby, Sudan, conflict zones_
 _Context: 2012 Summer Olympics, IOC, London_
 
 ### [ Astronomers have discovered new moons and rings around Uranus using the Hubble Space Telescope. ](/news/2005/12/23/astronomers-have-discovered-new-moons-and-rings-around-uranus-using-the-hubble-space-telescope.md)
-_Context: Hubble Space Telescope, Moon, Uranus, ring system_
+_Context: Hubble Space Telescope, Uranus, moon, ring system_
 
 ### [ Lech Kaczynski was sworn in as President of the Republic of Poland. ](/news/2005/12/23/lech-kaczyaski-was-sworn-in-as-president-of-the-republic-of-poland.md)
 _Context: Lech Kaczynski, Poland, President_
 
 ### [ ''U.S. News and World Report'' claimed that the United States government has been monitoring mosques in the United States since September 11 for traces of radiation. ](/news/2005/12/23/u-s-news-and-world-report-claimed-that-the-united-states-government-has-been-monitoring-mosques-in-the-united-states-since-september-1.md)
-_Context: American, September 11, 2001 attacks, U.S. News and World Report, mosque, radiation_
+_Context: September 11, 2001 attacks, U.S. News and World Report, United States, mosque, radiation_
 
 ### [ The ITV News Channel closes after 5 years](/news/2005/12/23/the-itv-news-channel-closes-after-5-years.md)
 _Context: ITV News Channel_

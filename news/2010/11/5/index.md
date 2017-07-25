@@ -52,10 +52,10 @@ China warns that there will be &quot;consequences&quot; if governments show supp
 Greece resumed the shipment of all mail and packages abroad after midnight on Friday, following a suspension it imposed in the wake of a spate of parcel bombs sent to embassies in Athens and to European governments.
 
 ### [The Government of Norway demands an explanation from the US Government on reports that the US embassy in Oslo conducted illegal surveillance on Norwegian citizens for more than ten years. ](/news/2010/11/5/the-government-of-norway-demands-an-explanation-from-the-us-government-on-reports-that-the-us-embassy-in-oslo-conducted-illegal-surveillance.md)
-_Context: American, Government of the United States, Norway, Oslo, government of Norway_
+_Context: Government of the United States, Norway, Oslo, United States, government of Norway_
 
 ### [A Peruvian judge orders that United States born militant Lori Berenson be released from prison in Lima. ](/news/2010/11/5/a-peruvian-judge-orders-that-united-states-born-militant-lori-berenson-be-released-from-prison-in-lima.md)
-_Context: American, Lima, Lori Berenson, Peru_
+_Context: Lima, Lori Berenson, Peru, United States_
 
 ### [Mexican drug cartel leader Ezequiel Cardenas Guilln is shot dead by Mexican security forces in Matamoros following a gun fight of several hours. ](/news/2010/11/5/mexican-drug-cartel-leader-ezequiel-cardenas-guillen-is-shot-dead-by-mexican-security-forces-in-matamoros-following-a-gun-fight-of-several-h.md)
 _Context: Ezequiel Cardenas Guilln, Matamoros, Mexico, drug cartel_

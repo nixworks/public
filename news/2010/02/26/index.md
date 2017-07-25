@@ -55,7 +55,7 @@ _Context: Minnesota, Soudan Mine, cold dark matter, electronvolts, weakly intera
 _Context: David Paterson, Democratic, Governor, New York, New York gubernatorial election of 2010_
 
 ### [President Muammar Gaddafi of Libya declares a holy war on Switzerland. ](/news/2010/02/26/president-muammar-gaddafi-of-libya-declares-a-holy-war-on-switzerland.md)
-_Context: Libya, Muammar Gaddafi, President of Libya, Swiss, holy war_
+_Context: Libya, Muammar Gaddafi, President of Libya, Switzerland, holy war_
 
 ### [A 7.0 magnitude earthquake strikes off the southern coast of Japan's Ryukyu Island. ](/news/2010/02/26/a-7-0-magnitude-earthquake-strikes-off-the-southern-coast-of-japan-s-ryukyu-island.md)
 A magnitude 7.0 earthquake struck off Japan in the Pacific Ocean, the U.S. Geological Survey reports. Japanese officials have canceled all tsunami warnings.

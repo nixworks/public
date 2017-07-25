@@ -10,7 +10,7 @@ Police engaged in what appeared to be an effort to either clear streets or at le
 _Context: Humanae Vitae, Pope Emeritus Benedict XVI, Pope Francis, Pope Paul VI, Third Extraordinary General Assembly of the Synod of Bishops, Vatican Council II_
 
 ### [A working human intestine is generated in a laboratory from induced pluripotent stem cells in the United States. ](/news/2014/10/19/a-working-human-intestine-is-generated-in-a-laboratory-from-induced-pluripotent-stem-cells-in-the-united-states.md)
-_Context: American, induced pluripotent stem cells, intestine_
+_Context: United States, induced pluripotent stem cells, intestine_
 
 ### [Oort cloud Comet Siding Spring makes a close fly-by the planet Mars passing within 140,000 kilometres.  ](/news/2014/10/19/oort-cloud-comet-siding-spring-makes-a-close-fly-by-the-planet-mars-passing-within-140-000-kilometres.md)
 A rare comet from the Ort Cloud races past Mars at a distance less than half that between Earth and the Moon.

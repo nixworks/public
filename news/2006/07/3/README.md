@@ -4,7 +4,7 @@
 NASA loads the shuttle Discovery&#39;s external tank with rocket fuel in preparation for what could be the space agency&#39;s first Fourth of July shuttle launch.
 
 ### [ North Korean leaders say that they will respond to any pre-emptive attack from the US with an "annihilating strike and a nuclear war." ](/news/2006/07/3/north-korean-leaders-say-that-they-will-respond-to-any-pre-emptive-attack-from-the-us-with-an-annihilating-strike-and-a-nuclear-war.md)
-_Context: American, North Korea, nuclear warfare_
+_Context: North Korea, United States, nuclear warfare_
 
 ### [ Greece is suspended from international football competition by FIFA due to Greek government interference in the sport. ](/news/2006/07/3/greece-is-suspended-from-international-football-competition-by-fifa-due-to-greek-government-interference-in-the-sport.md)
 _Context: FIFA, Greece, footballer, government_

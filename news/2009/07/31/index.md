@@ -34,7 +34,7 @@ Myanmar opposition leader to know fate on August 11 as court defers ruling.
 _Context: Baghdad, Iraq, Shi'ite_
 
 ### [ Space Shuttle ''Endeavour'' lands at Kennedy Space Centre in Florida, United States, ending a 16-day mission to the International Space Station (ISS). ](/news/2009/07/31/space-shuttle-endeavour-lands-at-kennedy-space-centre-in-florida-united-states-ending-a-16-day-mission-to-the-international-space-sta.md)
-_Context: 16-day mission, American, Florida, International Space Station, Kennedy Space Center, Space Shuttle ''Endeavour''_
+_Context: 16-day mission, Florida, International Space Station, Kennedy Space Center, Space Shuttle ''Endeavour'', United States_
 
 ### [ Aerial photographs reveal the streetplan of the lost Roman city of Altinum, regarded by some scholars as a forerunner of Venice. ](/news/2009/07/31/aerial-photographs-reveal-the-streetplan-of-the-lost-roman-city-of-altinum-regarded-by-some-scholars-as-a-forerunner-of-venice.md)
 _Context: Altinum, Venice_
@@ -49,7 +49,7 @@ _Context: Benicio del Toro, Cuba, Cuba - United States relations, Havana, Intern
 _Context: Newcastle upon Tyne, plagiarising, sperm_
 
 ### [ Three United States tourists are detained by Iranians in Iraq. ](/news/2009/07/31/three-united-states-tourists-are-detained-by-iranians-in-iraq.md)
-_Context: American, Iran, Iraq_
+_Context: Iran, Iraq, United States_
 
 ### [ The giant Swiss bank UBS and that nation's government have agreed to settle a lawsuit brought against UBS by United States tax authorities, in an agreement that seems likely to result in giving the Internal Revenue Service access to thousands of previously secret U.S. client accounts. ](/news/2009/07/31/the-giant-swiss-bank-ubs-and-that-nation-s-government-have-agreed-to-settle-a-lawsuit-brought-against-ubs-by-united-states-tax-authorities.md)
 The Globe and Mail offers the most authoritative news in Canada, featuring national and international news

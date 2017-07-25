@@ -34,7 +34,7 @@ _Context: Aung San Suu Kyi, General Secretary, National League for Democracy, tr
 _Context: India, Kashmir_
 
 ### [ Two Japanese citizens are detained in Italy after allegedly attempting to take $134 billion worth of U.S. bonds over the border into Switzerland starting the Chiasso financial smuggling case. ](/news/2009/06/12/two-japanese-citizens-are-detained-in-italy-after-allegedly-attempting-to-take-134-billion-worth-of-u-s-bonds-over-the-border-into-switze.md)
-_Context: Chiasso financial smuggling case, Italian, Japan, Swiss, bond_
+_Context: Chiasso financial smuggling case, Italian, Japan, Switzerland, bond_
 
 ### [ Analog TV shuts down across USA  (Wikipedia)](/news/2009/06/12/analog-tv-shuts-down-across-usa-wikipedia.md)
 _Context: (Wikipedia), USA_

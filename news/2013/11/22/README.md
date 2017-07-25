@@ -22,7 +22,7 @@ At least 44 people are killed when a leaking oil pipeline catches fire and explo
 A man was killed in Oakland when a falling tree struck him on Austin Street near Fruitvale Avenue shortly after 8 p.m. Thursday, police said. About a half hour later, a motorist who appeared to be trying to avoid downed debris crashed on Skyline Boulevard in Oakland, police said.
 
 ### [2013 global surveillance disclosures:The United States has snooped on the Netherlands since 1946, according to files published in NRC Handelsblad. ](/news/2013/11/22/2013-global-surveillance-disclosures-pthe-united-states-has-snooped-on-the-netherlands-since-1946-according-to-files-published-in-nrc-hande.md)
-_Context: 2013 global surveillance disclosures, American, NRC Handelsblad, Netherlands, snooped_
+_Context: 2013 global surveillance disclosures, NRC Handelsblad, Netherlands, United States, snooped_
 
 ### [Crystal Mangum, the accuser in the 2006 Duke lacrosse case, is convicted of second-degree murder by a North Carolina jury in the 2011 stabbing death of her boyfriend, and is sentenced to serve between 14 and 18 years in prison. ](/news/2013/11/22/crystal-mangum-the-accuser-in-the-2006-duke-lacrosse-case-is-convicted-of-second-degree-murder-by-a-north-carolina-jury-in-the-2011-stabbi.md)
 The woman who falsely accused three Duke University lacrosse players of rape has been found guilty of second-degree murder in the stabbing death of her boyfriend.

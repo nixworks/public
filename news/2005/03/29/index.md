@@ -28,7 +28,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ In the United States, Douglas S. Smith Jr, a former top official of Boy Scouts of America, is charged with possession of child pornography. ](/news/2005/03/29/in-the-united-states-douglas-s-smith-jr-a-former-top-official-of-boy-scouts-of-america-is-charged-with-possession-of-child-pornography.md)
-_Context: American, Boy Scouts of America, Douglas S. Smith Jr, child pornography_
+_Context: Boy Scouts of America, Douglas S. Smith Jr, United States, child pornography_
 
 ### [ In Uganda, thousands of Muslims demonstrate in the capital Kampala against the Domestic Relations Bill that would, among other things, limit polygamy. ](/news/2005/03/29/in-uganda-thousands-of-muslims-demonstrate-in-the-capital-kampala-against-the-domestic-relations-bill-that-would-among-other-things-limi.md)
 _Context: Domestic Relations Bill, Kampala, Muslim, Uganda, polygamy_

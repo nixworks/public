@@ -58,7 +58,7 @@ _Context: Agra, India, curfew_
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ The United States releases seven Iranians hours after detaining them in a Baghdad hotel. ](/news/2007/08/29/the-united-states-releases-seven-iranians-hours-after-detaining-them-in-a-baghdad-hotel.md)
-_Context: American, Baghdad, Iran_
+_Context: Baghdad, Iran, United States_
 
 ### [ Three people are killed - including a father and son - in a "targeted incident" involving firearms at a house in Bishop's Stortford. Two others are injured, but a 3 year-old girl is unharmed. Police are hunting "two Asian men" in connection with the attack. ](/news/2007/08/29/three-people-are-killed-including-a-father-and-son-in-a-targeted-incident-involving-firearms-at-a-house-in-bishop-s-stortford-two-ot.md)
 _Context: Bishop's Stortford_

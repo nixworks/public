@@ -7,7 +7,7 @@ Nigerian police are searching the troubled city of Jos after a booby-trap bomb w
 North Korea says it will use its &quot;nuclear deterrent&quot; in response to joint US-South Korean military exercises this weekend.
 
 ### [One person is killed and 42 injured after a Swiss tourist train derails in the Alps. ](/news/2010/07/23/one-person-is-killed-and-42-injured-after-a-swiss-tourist-train-derails-in-the-alps.md)
-_Context: Alps, Swiss_
+_Context: Alps, Switzerland_
 
 ### [Israel Defense Forces soldiers kill a Palestinian man attempting to enter the Israeli settlement of Barkan. ](/news/2010/07/23/israel-defense-forces-soldiers-kill-a-palestinian-man-attempting-to-enter-the-israeli-settlement-of-barkan.md)
 A Palestinian man has been shot dead by Israeli troops after entering a Jewish settlement in the West Bank.

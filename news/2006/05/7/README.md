@@ -7,7 +7,7 @@ A 61-year-old woman has been killed and 13 other people were injured, including 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Iranian President Mahmoud Ahmadinejad threatens to pull Iran out of the Nuclear Nonproliferation Treaty if the United States and the EU 3 do not accept Iran's nuclear program. ](/news/2006/05/7/iranian-president-mahmoud-ahmadinejad-threatens-to-pull-iran-out-of-the-nuclear-nonproliferation-treaty-if-the-united-states-and-the-eu-3-d.md)
-_Context: American, EU 3, Iran, Iran's nuclear program, Iranian President, Mahmoud Ahmadinejad, Nuclear Nonproliferation Treaty_
+_Context: EU 3, Iran, Iran's nuclear program, Iranian President, Mahmoud Ahmadinejad, Nuclear Nonproliferation Treaty, United States_
 
 ### [ Arsenal F.C. play their last game at Highbury, or Arsenal Stadium. They have played there for 93 years ](/news/2006/05/7/arsenal-f-c-play-their-last-game-at-highbury-or-arsenal-stadium-they-have-played-there-for-93-years.md)
 _Context: Arsenal, Arsenal Stadium, Highbury_

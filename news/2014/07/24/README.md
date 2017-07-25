@@ -19,7 +19,7 @@ An Air Algerie flight crashed on Thursday en route from Ouagadougou in Burkina F
 Mangled remains of a school bus with blood stains on it, strewn bags, tiffin boxes, notebooks and text books was all it remained on the accident site of the bus-train collision in which 18 persons, including 16 school children, were killed in
 
 ### [The United States Federal Aviation Administration lifts its ban on aircraft travelling to and from Israel imposed due to concerns about Hamas rockets. ](/news/2014/07/24/the-united-states-federal-aviation-administration-lifts-its-ban-on-aircraft-travelling-to-and-from-israel-imposed-due-to-concerns-about-hama.md)
-_Context: American, Federal Aviation Administration, Hamas, Israel_
+_Context: Federal Aviation Administration, Hamas, Israel, United States_
 
 ### [Three American citizens have been detained in Iran this week including ''Washington Post'' correspondent Jason Rezaian. Rezaian's Iranian wife Yeganeh Salehi has also been detained. ](/news/2014/07/24/three-american-citizens-have-been-detained-in-iran-this-week-including-washington-post-correspondent-jason-rezaian-rezaian-s-iranian-wi.md)
 Tehran bureau chief Jason Rezaian and three others believed detained;

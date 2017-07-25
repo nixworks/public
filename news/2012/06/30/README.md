@@ -22,7 +22,7 @@ _Context: Apple Inc., Galaxy Nexus, Samsung_
 _Context: Chinese, Xinjiang_
 
 ### [The death toll from storms in the Mid-Atlantic states of the United States reaches 13, with millions out of power and states of emergencies declared in the states of Ohio, West Virginia, Virginia and Maryland as well as the District of Columbia. ](/news/2012/06/30/the-death-toll-from-storms-in-the-mid-atlantic-states-of-the-united-states-reaches-13-with-millions-out-of-power-and-states-of-emergencies.md)
-_Context: American, District of Columbia, Maryland, Mid-Atlantic states, Ohio, Virginia, West Virginia, state of emergency, strong storms_
+_Context: District of Columbia, Maryland, Mid-Atlantic states, Ohio, United States, Virginia, West Virginia, state of emergency, strong storms_
 
 ### [A top leader of the Texan gang known as Barrio Azteca is extradited to the United States from Mexico. The gang member was responsible for killing two U.S. consulate workers in Ciudad Juarez in March 2010. ](/news/2012/06/30/a-top-leader-of-the-texan-gang-known-as-barrio-azteca-is-extradited-to-the-united-states-from-mexico-the-gang-member-was-responsible-for-ki.md)
 MEXICO CITY (Reuters) - Mexico has extradited a drug gang leader to face charges that he played a key part in the daylight execution of a U.S. consulate employee two years ago, officials said on...

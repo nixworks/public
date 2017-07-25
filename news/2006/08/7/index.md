@@ -4,7 +4,7 @@
 _Context: Hamas, Israel, Israeli-Palestinian conflict, Palestinian Parliament, West Bank_
 
 ### [ Iraq War: A US military hearing has examined the testimony by one of the accused in an incident where an Iraqi girl and her three family members were allegedly killed by four U.S. soldiers. ](/news/2006/08/7/iraq-war-p-a-us-military-hearing-has-examined-the-testimony-by-one-of-the-accused-in-an-incident-where-an-iraqi-girl-and-her-three-family-m.md)
-_Context: American, Iraq War_
+_Context: Iraq War, United States_
 
 ### [ 2006 Israel-Lebanon conflict: Reuters has withdrawn 920 photographs by a Lebanese photographer after a review of his work showed that he had changed two images from the 2006 Israel-Lebanon conflict. ](/news/2006/08/7/2006-israel-lebanon-conflict-p-reuters-has-withdrawn-920-photographs-by-a-lebanese-photographer-after-a-review-of-his-work-showed-that-he-h.md)
 News organization withdraws photograph of Israeli fighter jet, admits image was doctored, fires photographer. Reuters pledges &#39;tighter editing procedure for images of the Middle East conflict&#39;

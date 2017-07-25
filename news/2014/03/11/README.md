@@ -34,7 +34,7 @@ At issue is whether the CIA violated an agreement made with the committee about 
 _Context: Atlantic slave trade, Caribbean, France, Netherlands, United Kingdom_
 
 ### [Joran van der Sloot faces an extradition case in the United States. ](/news/2014/03/11/joran-van-der-sloot-faces-an-extradition-case-in-the-united-states.md)
-_Context: American, Joran van der Sloot_
+_Context: Joran van der Sloot, United States_
 
 ### [The Libyan Parliament sacks Prime Minister Ali Zeidan and appoints former defense secretary Abdullah al-Thani as acting prime minister. ](/news/2014/03/11/the-libyan-parliament-sacks-prime-minister-ali-zeidan-and-appoints-former-defense-secretary-abdullah-al-thani-as-acting-prime-minister.md)
 * Parliament appoints defence minister as acting PM* Clashes between rebels, pro-government militias reported* Western powers fear chaos in o
