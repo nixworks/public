@@ -7,7 +7,7 @@ A federal judge in Michigan halted on Monday the deportation of more than 1,400 
 
 ### Source:
 
-1. [Detroit Free Press'']](http://www.freep.com/story/news/2017/07/25/detroit-judge-halts-deportation-iraqis-detained-ice/505321001/)
+1. [Detroit Free Press](http://www.freep.com/story/news/2017/07/25/detroit-judge-halts-deportation-iraqis-detained-ice/505321001/)
 2. [Reuters](http://www.reuters.com/article/us-usa-immigration-iraqis-idUSKBN1AA04Z)
 
 ### Related:

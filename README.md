@@ -36,7 +36,7 @@ The case provides more evidence that early treatment can occasionally bring abou
 A security officer who killed an alleged attacker in Amman is among those to return to Israel.
 
 ### [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. A manhunt is underway for the suspect.](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland-a-manhunt-is-under.md)
-_Context: Schaffhausen, Switzerland_
+_Context: Crime in Switzerland, Schaffhausen, Switzerland_
 
 ### [U.S. District Judge for the Eastern District of Michigan, Mark A. Goldsmith, halts for 90 days deportation from the United States of more than 1,400 Iraqi nationals to allow the plaintiffs time to appeal their cases. The American Civil Liberties Union petitioned for the injunction stating these people would face persecution in Iraq where they are considered ethnic and religious minorities. ](/news/2017/07/24/u-s-district-judge-for-the-eastern-district-of-michigan-mark-a-goldsmith-halts-for-90-days-deportation-from-the-united-states-of-more-th.md)
 A federal judge in Michigan halted on Monday the deportation of more than 1,400 Iraqi nationals from the United States, the latest legal victory for the Iraqi nationals facing deportation in a closely watched case.
@@ -47,7 +47,7 @@ Officials said Sun Zhengcai, fired last month as party secretary of the city of 
 ### [Polish President Andrzej Duda announces he will veto two judicial reform bills   passed by Poland's parliament, which the European Commission said would result in sanctions, and  which have generated continuous demonstrations across the country.   The ruling Law and Justice Party needs to put together a three-fifths majority to override the veto. ](/news/2017/07/24/polish-president-andrzej-duda-announces-he-will-veto-two-judicial-reform-bills-passed-by-poland-s-parliament-which-the-european-commissio.md)
 The decision was a setback for the governing party, though a bill giving it more control over local courts was still set for approval.
 
-### [Brown University researchers discover that water may be present beneath the surface of the moon. ](/news/2017/07/24/brown-university-researchers-discover-that-water-may-be-present-beneath-the-surface-of-the-moon.md)
+### [Brown University researchers discover that water may be present beneath the surface of the Moon. ](/news/2017/07/24/brown-university-researchers-discover-that-water-may-be-present-beneath-the-surface-of-the-moon.md)
 Ancient volcanic deposits on the moon indicate the lunar interior has a substantial amount of water.
 
 ---
