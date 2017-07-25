@@ -6,7 +6,7 @@ A Taliban suicide attacker detonated a car bomb in the western part of Kabul on 
 ### [At least 26 people are killed and over 50 others are injured in a suicide car bombing in southern Lahore. ](/news/2017/07/24/at-least-26-people-are-killed-and-over-50-others-are-injured-in-a-suicide-car-bombing-in-southern-lahore.md)
 Almost 50 others were injured in the explosion near a vegetable market in the south of the city.
 
-### [In a speech through Congress,  Philippine President Rodrigo Duterte kindly asks the United States to return the iconic Balangiga bells taken during the Philippine-American War. ](/news/2017/07/24/in-a-speech-through-congress-philippine-president-rodrigo-duterte-kindly-asks-the-united-states-to-return-the-iconic-balangiga-bells-taken.md)
+### [In a speech through Congress,  Philippine President Rodrigo Duterte asks the United States to return the iconic Balangiga bells taken during the Philippine-American War. ](/news/2017/07/24/in-a-speech-through-congress-philippine-president-rodrigo-duterte-asks-the-united-states-to-return-the-iconic-balangiga-bells-taken-during.md)
 Filipino leader Rodrigo Duterte on Monday demanded the U.S. government return church bells that American soldiers took more than a hundred years ago.
 
 ### [Microsoft ends its Paint programme 32 years after it was first released. ](/news/2017/07/24/microsoft-ends-its-paint-programme-32-years-after-it-was-first-released.md)

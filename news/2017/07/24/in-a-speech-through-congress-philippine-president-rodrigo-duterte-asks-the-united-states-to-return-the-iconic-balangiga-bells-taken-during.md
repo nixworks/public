@@ -1,0 +1,24 @@
+### [2017-07-24](/news/2017/07/24/index.md)
+
+# In a speech through Congress,  Philippine President Rodrigo Duterte asks the United States to return the iconic Balangiga bells taken during the Philippine-American War. 
+
+Filipino leader Rodrigo Duterte on Monday demanded the U.S. government return church bells that American soldiers took more than a hundred years ago.
+
+
+### Source:
+
+1. [The Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2017/07/24/philippiness-duterte-keeps-lashing-out-at-the-united-states-over-its-atrocities-a-century-ago/)
+2. [United Press International](https://www.upi.com/Top_News/World-News/2017/07/24/Duterte-to-US-Return-Balangiga-bells-seized-in-1901/5301500915328/)
+
+### Related:
+
+1. [Philippines president Rodrigo Duterte says he is "not aware" of the United States providing support to the Philippine government's military intervention against Islamists in Marawi. Duterte also said that he "never approached America for help". ](/news/2017/06/11/philippines-president-rodrigo-duterte-says-he-is-not-aware-of-the-united-states-providing-support-to-the-philippine-government-s-military.md) _Context: Philippine, Rodrigo Duterte, United States_
+2. [Amnesty International releases a report criticizing the rise of populist leaders such as Donald Trump of the United States, Viktor Orban of Hungary, Rodrigo Duterte of the Philippines and Recep Tayyip Erdogan of Turkey. ](/news/2017/02/22/amnesty-international-releases-a-report-criticizing-the-rise-of-populist-leaders-such-as-donald-trump-of-the-united-states-viktor-orba-n-of.md) _Context: Philippine, Rodrigo Duterte, United States_
+3. [The Philippines Secretary of National Defense Delfin Lorenzana suspends participation in any joint patrols with the United States in the disputed South China Sea. Lorenzana will ask a detachment of 107 U.S. troops providing counterterrorism assistance on the southern island of Mindanao to leave as President Rodrigo Duterte requested. ](/news/2016/10/7/the-philippines-secretary-of-national-defense-delfin-lorenzana-suspends-participation-in-any-joint-patrols-with-the-united-states-in-the-dis.md) _Context: Philippine, Rodrigo Duterte, United States_
+4. [Philippines president Rodrigo Duterte says he plans to cut ties with his country's former colonial ruler, the United States, while strengthening ties with China. ](/news/2016/10/20/philippines-president-rodrigo-duterte-says-he-plans-to-cut-ties-with-his-country-s-former-colonial-ruler-the-united-states-while-strengthe.md) _Context: Philippine, Rodrigo Duterte, United States_
+5. [  The Congress of the Philippines proclaims Rodrigo Duterte and Leni Robredo as President-elect and Vice President-elect of the Philippines, respectively. ](/news/2016/05/30/the-congress-of-the-philippines-proclaims-rodrigo-duterte-and-leni-robredo-as-president-elect-and-vice-president-elect-of-the-philippines.md) _Context: Congress, Philippine, Rodrigo Duterte_
+6. [The Supreme Court of the Philippines says President of the Philippines Rodrigo Duterte can declare martial law in the whole Philippines. Two days prior, the Supreme Court had ](/news/2017/07/6/the-supreme-court-of-the-philippines-says-president-of-the-philippines-rodrigo-duterte-can-declare-martial-law-in-the-whole-philippines-two.md) _Context: Philippine, Rodrigo Duterte_
+7. [In alleged emulation of Philippine president Rodrigo Duterte's war on drugs, Indonesian President Joko Widodo announces orders for police to "shoot" suspected drug dealers without trial. ](/news/2017/07/23/in-alleged-emulation-of-philippine-president-rodrigo-duterte-s-war-on-drugs-indonesian-president-joko-widodo-announces-orders-for-police-to.md) _Context: Philippine, Rodrigo Duterte_
+8. [President of the Philippines Rodrigo Duterte plans to appeal to the Congress of the Philippines to extend Proclamation No. 216 (martial law on the whole of Mindanao, which will end on 22 July 10 PM PST) until the end of 2017, due to constitutional constraints as well as the ongoing Marawi crisis. ](/news/2017/07/17/president-of-the-philippines-rodrigo-duterte-plans-to-appeal-to-the-congress-of-the-philippines-to-extend-proclamation-no-216-martial-law.md) _Context: Congress, Rodrigo Duterte_
+9. [United States special forces join the battle in Marawi, Philippines, against the Maute. ](/news/2017/06/10/united-states-special-forces-join-the-battle-in-marawi-philippines-against-the-maute.md) _Context: Philippine, United States_
+10. [The government of the Philippines and the Communist Party cancel peace talks after president Rodrigo Duterte declares martial law in Mindanao. ](/news/2017/05/28/the-government-of-the-philippines-and-the-communist-party-cancel-peace-talks-after-president-rodrigo-duterte-declares-martial-law-in-mindana.md) _Context: Philippine, Rodrigo Duterte_
