@@ -3,7 +3,7 @@
 ### [The Israeli government says it will remove metal detectors and some cameras recently installed at the entrances to the Temple Mount in Jerusalem that resulted in a wave of protests and some deaths. Instead,  smart, less obtrusive surveillance means will be used. ](/news/2017/07/25/the-israeli-government-says-it-will-remove-metal-detectors-and-some-cameras-recently-installed-at-the-entrances-to-the-temple-mount-in-jerus.md)
 After days of violent protests and a diplomatic crisis with Jordan over the placement of metal detectors at the entrances to the Aqsa Compound, the Israeli government said it would remove them.
 
-### [Microsoft reneges on its decision to end its Paint program and would instead place it on the app store. ](/news/2017/07/25/microsoft-reneges-on-its-decision-to-end-its-paint-program-and-would-instead-place-it-on-the-app-store.md)
+### [Amid a public backlash, Microsoft reneges on its decision to end its Paint program and states that it will be placed on its app store rather than bundled with future editions of Windows. ](/news/2017/07/25/amid-a-public-backlash-microsoft-reneges-on-its-decision-to-end-its-paint-program-and-states-that-it-will-be-placed-on-its-app-store-rather.md)
 Microsoft will not kill of Paint, it has now said. A suggestion from the company that it would &quot;deprecate&quot; the app and may remove it from future versions of Windows provoke rage, sadness and nostalgia among almost everyone on the internet when it was announced. But Microsoft has now made clear that it will be sticking around – albeit in a different form.
 
 ### [Michael Kors buys Jimmy Choo for US$1.2 billion. ](/news/2017/07/25/michael-kors-buys-jimmy-choo-for-us-1-2-billion.md)
