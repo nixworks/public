@@ -1,6 +1,6 @@
 ### [2017-07-24](/news/2017/07/24/index.md)
 
-# History of the Philippines (1898-1946), During the annual State of the Nation Address through the Congress of the Philippines, President of the Philippines Rodrigo Duterte has outright demanded the United States to return the controversial Balangiga bells, taken during one of the campaigns of the Philippine-American War as spoils of war. Previous attempts to recover the bells have all failed so far. 
+# History of the Philippines (1898-1946), During the annual State of the Nation Address through the Congress of the Philippines, President of the Philippines Rodrigo Duterte has outright demanded that the United States return the controversial Balangiga bells, taken during one of the campaigns of the Philippine-American War as spoils of war. Previous attempts to recover the bells have all failed so far. 
 
 Filipino leader Rodrigo Duterte on Monday demanded the U.S. government return church bells that American soldiers took more than a hundred years ago.
 
