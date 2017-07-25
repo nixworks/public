@@ -6,10 +6,10 @@ A Taliban suicide attacker detonated a car bomb in the western part of Kabul on 
 ### [At least 26 people are killed and over 50 others are injured in a suicide car bombing in southern Lahore. ](/news/2017/07/24/at-least-26-people-are-killed-and-over-50-others-are-injured-in-a-suicide-car-bombing-in-southern-lahore.md)
 Almost 50 others were injured in the explosion near a vegetable market in the south of the city.
 
-### [In a speech through Congress,  Philippine President Rodrigo Duterte asks the United States to return the iconic Balangiga bells taken during the Philippine-American War. ](/news/2017/07/24/in-a-speech-through-congress-philippine-president-rodrigo-duterte-asks-the-united-states-to-return-the-iconic-balangiga-bells-taken-during.md)
+### [In a speech through Congress,  Philippine President Rodrigo Duterte begs the United States to return the iconic Balangiga bells taken during the Philippine-American War. ](/news/2017/07/24/in-a-speech-through-congress-philippine-president-rodrigo-duterte-begs-the-united-states-to-return-the-iconic-balangiga-bells-taken-during.md)
 Filipino leader Rodrigo Duterte on Monday demanded the U.S. government return church bells that American soldiers took more than a hundred years ago.
 
-### [Microsoft ends its Paint programme 32 years after it was first released. ](/news/2017/07/24/microsoft-ends-its-paint-programme-32-years-after-it-was-first-released.md)
+### [Microsoft announces that Paint will cease to be updated after the Windows 10 Fall Creators Update because its functionality was "integrated into Paint 3D". Paint was first released 32 years ago. ](/news/2017/07/24/microsoft-announces-that-paint-will-cease-to-be-updated-after-the-windows-10-fall-creators-update-because-its-functionality-was-integrated.md)
 Long-standing basic graphics editing program, used throughout childhoods since the 1980s, has been marked for death
 
 ### [KeyCorp finalizes its purchase of financial app HelloWallet. ](/news/2017/07/24/keycorp-finalizes-its-purchase-of-financial-app-hellowallet.md)
@@ -18,13 +18,13 @@ _Context: HelloWallet, KeyCorp_
 ### [The parents of the terminally ill Charlie Gard give up their legal challenge over treatment in the United States. The latest medical reports indicate that the window of opportunity no longer exists. ](/news/2017/07/24/the-parents-of-the-terminally-ill-charlie-gard-give-up-their-legal-challenge-over-treatment-in-the-united-states-the-latest-medical-reports.md)
 _Context: Charlie Gard case, window of opportunity_
 
-### [A girl born with HIV is virtually-free of the virus even after ceasing her treatment. ](/news/2017/07/24/a-girl-born-with-hiv-is-virtually-free-of-the-virus-even-after-ceasing-her-treatment.md)
+### [A girl born with HIV, who was started on HIV drugs when she was 2 months old and stopped 40 weeks later, is virtually-free of the virus even after no further treatment. ](/news/2017/07/24/a-girl-born-with-hiv-who-was-started-on-hiv-drugs-when-she-was-2-months-old-and-stopped-40-weeks-later-is-virtually-free-of-the-virus-even.md)
 The case provides more evidence that early treatment can occasionally bring about a long remission, raising hopes of cure
 
 ### [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. A manhunt is underway for the suspect.](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland-a-manhunt-is-under.md)
 _Context: Schaffhausen, Switzerland_
 
-### [The Chinese Central Commission for Discipline Inspection announces that former Chongqing party boss Sun Zhengcai is under investigation for violating party discipline. Sun is the fourth sitting Politburo member since 1990 to fall from power. ](/news/2017/07/24/the-chinese-central-commission-for-discipline-inspection-announces-that-former-chongqing-party-boss-sun-zhengcai-is-under-investigation-for.md)
+### [The Chinese Central Commission for Discipline Inspection announces that current Politburo member Sun Zhengcai is under investigation for violating party discipline. Sun is the fourth sitting Politburo member since 1990 to fall from power. ](/news/2017/07/24/the-chinese-central-commission-for-discipline-inspection-announces-that-current-politburo-member-sun-zhengcai-is-under-investigation-for-vio.md)
 Officials said Sun Zhengcai, fired last month as party secretary of the city of Chongqing, was suspected of “grave violations of discipline.”
 
 ### [Polish President Andrzej Duda announces he will veto two judicial reform bills   passed by Poland's parliament, which the European Commission said would result in sanctions, and  which have generated continuous demonstrations across the country.   The ruling Law and Justice Party needs to put together a three-fifths majority to override the veto. ](/news/2017/07/24/polish-president-andrzej-duda-announces-he-will-veto-two-judicial-reform-bills-passed-by-poland-s-parliament-which-the-european-commissio.md)
