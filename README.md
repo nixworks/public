@@ -1,6 +1,6 @@
 ## [News](/news/2017/07/25/index.md)
 
-### [The Israeli government says it will remove metal detectors and some cameras recently installed at the entrances to the Temple Mount in Jerusalem that resulted in a wave of protests and some deaths. Instead,  smart, less obtrusive surveillance means will be used. ](/news/2017/07/25/the-israeli-government-says-it-will-remove-metal-detectors-and-some-cameras-recently-installed-at-the-entrances-to-the-temple-mount-in-jerus.md)
+### [The Israeli government says it will remove metal detectors and some cameras recently installed at the entrances to the Temple Mount in Jerusalem that resulted in a wave of protests and some deaths. Instead,  less obtrusive surveillance means will be used. ](/news/2017/07/25/the-israeli-government-says-it-will-remove-metal-detectors-and-some-cameras-recently-installed-at-the-entrances-to-the-temple-mount-in-jerus.md)
 After days of violent protests and a diplomatic crisis with Jordan over the placement of metal detectors at the entrances to the Aqsa Compound, the Israeli government said it would remove them.
 
 ### [Amid a public backlash, Microsoft reneges on its decision to end its Paint program and states that it will be placed on its app store rather than bundled with future editions of Windows. ](/news/2017/07/25/amid-a-public-backlash-microsoft-reneges-on-its-decision-to-end-its-paint-program-and-states-that-it-will-be-placed-on-its-app-store-rather.md)
@@ -14,6 +14,9 @@ Hundreds&#x20;of&#x20;firefighters&#x20;were&#x20;battling&#x20;blazes&#x20;acro
 
 ### [Jordanian authorities release a video of a shooting of United States soldiers by a Jordanian Air Force sergeant. ](/news/2017/07/25/jordanian-authorities-release-a-video-of-a-shooting-of-united-states-soldiers-by-a-jordanian-air-force-sergeant.md)
 Newly released footage of a gunfight that left three Americans dead in November shows a deliberate attack that was initially explained as a mistake.
+
+### [ The United States Navy says the USS Thunderbolt fired a warning shot at an Iranian patrol boat after it came within 150 yards of the ship. ](/news/2017/07/25/the-united-states-navy-says-the-uss-thunderbolt-fired-a-warning-shot-at-an-iranian-patrol-boat-after-it-came-within-150-yards-of-the-ship.md)
+A U.S. Navy ship fired multiple warning shots at an Iranian vessel in the Persian Gulf that came within 150 yards of the American ship, the Navy confirmed. The Islamic Revolutionary Guard Corps naval vessel was approaching the USS Thunderbolt at a high rate of speed and ignored warnings from the...
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -62,7 +65,7 @@ Officials said Sun Zhengcai, fired last month as party secretary of the city of 
 ### [Polish President Andrzej Duda announces he will veto two judicial reform bills   passed by Poland's parliament, which the European Commission said would result in sanctions, and  which have generated continuous demonstrations across the country.   The ruling Law and Justice Party needs to put together a three-fifths majority to override the veto. ](/news/2017/07/24/polish-president-andrzej-duda-announces-he-will-veto-two-judicial-reform-bills-passed-by-poland-s-parliament-which-the-european-commissio.md)
 The decision was a setback for the governing party, though a bill giving it more control over local courts was still set for approval.
 
-### [Brown University researchers discover that water may be present beneath the surface of the Moon. ](/news/2017/07/24/brown-university-researchers-discover-that-water-may-be-present-beneath-the-surface-of-the-moon.md)
+### [Brown University researchers discover that substantial amount of water may be present beneath the surface of the Moon. ](/news/2017/07/24/brown-university-researchers-discover-that-substantial-amount-of-water-may-be-present-beneath-the-surface-of-the-moon.md)
 Ancient volcanic deposits on the moon indicate the lunar interior has a substantial amount of water.
 
 ---
