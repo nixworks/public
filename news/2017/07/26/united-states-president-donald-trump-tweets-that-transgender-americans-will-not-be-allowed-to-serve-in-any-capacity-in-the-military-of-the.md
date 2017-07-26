@@ -2,12 +2,13 @@
 
 # United States president Donald Trump tweets that transgender Americans will not be allowed to serve "in any capacity" in the Military of the United States. 
 
-
+“....Transgender individuals to serve in any capacity in the U.S. Military. Our military must be focused on decisive and overwhelming.....”
 
 
 ### Source:
 
 1. [The Hill](http://thehill.com/homenews/administration/343847-trump-calls-for-ban-on-transgender-individuals-in-military)
+2. [Twitter](https://twitter.com/realDonaldTrump/status/890196164313833472)
 
 ### Related:
 

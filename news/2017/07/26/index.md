@@ -7,7 +7,7 @@ _Context: Defence Ministry, Kandahar Province, Taliban, War in Afghanistan, mili
 Wildfires also devouring swaths of forests in Corsica, Portugal, Italy and Albania
 
 ### [United States president Donald Trump tweets that transgender Americans will not be allowed to serve "in any capacity" in the Military of the United States. ](/news/2017/07/26/united-states-president-donald-trump-tweets-that-transgender-americans-will-not-be-allowed-to-serve-in-any-capacity-in-the-military-of-the.md)
-_Context: Donald Trump, Military of the United States, Transgender rights in the United States, transgender, tweets_
+“....Transgender individuals to serve in any capacity in the U.S. Military. Our military must be focused on decisive and overwhelming.....”
 
 ## [Previous Day...](/news/2017/07/25/index.md)
 
