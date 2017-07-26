@@ -30,6 +30,9 @@ Newly released footage of a gunfight that left three Americans dead in November 
 ### [The United States Navy says the USS Thunderbolt fired a warning shot at an Iranian patrol boat after it came within 150 yards of U.S. ship. ](/news/2017/07/25/the-united-states-navy-says-the-uss-thunderbolt-fired-a-warning-shot-at-an-iranian-patrol-boat-after-it-came-within-150-yards-of-u-s-ship.md)
 A U.S. Navy ship fired multiple warning shots at an Iranian vessel in the Persian Gulf that came within 150 yards of the American ship, the Navy confirmed. The Islamic Revolutionary Guard Corps naval vessel was approaching the USS Thunderbolt at a high rate of speed and ignored warnings from the...
 
+### [The U.S. House of Representatives votes in favor of economic sanctions against Russia for its interference in the 2016 U.S. election, and against Iran and North Korea for their weapons programs. ](/news/2017/07/25/the-u-s-house-of-representatives-votes-in-favor-of-economic-sanctions-against-russia-for-its-interference-in-the-2016-u-s-election-and-ag.md)
+The House bill would impose new sanctions on Russia, Iran and North Korea, and prevent President Trump from easing some of them without congressional approval.
+
 ### [The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md)
 Republicans faced their first defeat, failing to pass a measure that they&#x27;ve been working on that would have partially repealed and replaced Obamacare. 
 
