@@ -1,7 +1,7 @@
 ## [2007-11-22](/news/2007/11/22/index.md)
 
 ### [ Jordanian King Abdullah appoints technocrat Nader al-Dahabi as the new Prime Minister. ](/news/2007/11/22/jordanian-king-abdullah-appoints-technocrat-nader-al-dahabi-as-the-new-prime-minister.md)
-_Context: Abdullah II, Jordan, Jordanian King, Nader al-Dahabi, Prime Minister, Technocrat_
+_Context: Jordan, Jordanian King, King Abdullah, Nader al-Dahabi, Prime Minister, Technocrat_
 
 ### [ Bangladeshi feminist writer Taslima Nasreen leaves Kolkata after riots against her in which at least 43 people were hurt. ](/news/2007/11/22/bangladeshi-feminist-writer-taslima-nasreen-leaves-kolkata-after-riots-against-her-in-which-at-least-43-people-were-hurt.md)
 _Context: Bangladesh, Kolkata, Taslima Nasreen, feminist, riot_

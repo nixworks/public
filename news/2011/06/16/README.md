@@ -31,7 +31,7 @@ _Context: 2011 Puyehue eruption, Argentina, Australian, New Zealand, Qantas, Vir
 _Context: New Britain, Papua New Guinea, earthquake, tsunami_
 
 ### [Traces of dioxin are found in stream waters near the United States Army base Camp Carroll in South Korea where drums of Agent Orange were allegedly dumped three decades ago. ](/news/2011/06/16/traces-of-dioxin-are-found-in-stream-waters-near-the-united-states-army-base-camp-carroll-in-south-korea-where-drums-of-agent-orange-were-al.md)
-_Context: Agent Orange, Camp Carroll, South Korea, United States Army, dioxin_
+_Context: Agent Orange, Camp Carroll, South Korea, United States soldiers, dioxin_
 
 ### [An Indonesian court delivers a guilty verdict in the terrorism trial of radical Muslim cleric Abu Bakar Bashir in the South Jakarta District Court and sentenced to 15 years in prison.  ](/news/2011/06/16/an-indonesian-court-delivers-a-guilty-verdict-in-the-terrorism-trial-of-radical-muslim-cleric-abu-bakar-bashir-in-the-si-uth-jakarta-distric.md)
 Indonesian cleric Abu Bakar Bashir has been found guilty of inciting and organising the financing of terrorism ending a decade long effort by authorities to put the firebrand militant who endorsed the Bali bombings behind bars.

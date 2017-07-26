@@ -1,7 +1,7 @@
 ## [2006-01-20](/news/2006/01/20/index.md)
 
 ### [ At 4 o'clock UTC NASA's Pluto probe ''New Horizons'' crossed the orbit of the Moon, eight hours and thirty-five minutes after launch. This is a new Earth-to-Moon-distance flight record.](/news/2006/01/20/at-4-o-clock-utc-nasa-s-pluto-probe-new-horizons-crossed-the-orbit-of-the-moon-eight-hours-and-thirty-five-minutes-after-launch-this.md)
-_Context: NASA, New Horizons, Pluto, UTC, moon_
+_Context: Moon, NASA, New Horizons, Pluto, UTC_
 
 ### [ Three former workers at the Davis-Besse nuclear power plant in Ohio are indicted for repeatedly falsifying inspection reports and other information to the US Nuclear Regulatory Commission. The plant's owner, FirstEnergy Corporation, accepts a plea bargain and $28 million in fines in lieu of criminal prosecution. ](/news/2006/01/20/three-former-workers-at-the-davis-besse-nuclear-power-plant-in-ohio-are-indicted-for-repeatedly-falsifying-inspection-reports-and-other-inf.md)
 _Context: Davis-Besse, FirstEnergy, U.S. nuclear regulators_

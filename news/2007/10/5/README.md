@@ -25,7 +25,7 @@ _Context: Saudi Arabia_
 _Context: Elections, Maoist supporters, Seven Party Alliance_
 
 ### [ SELENE, Japan's lunar probe, successfully achieves an orbit around the moon. ](/news/2007/10/5/selene-japan-s-lunar-probe-successfully-achieves-an-orbit-around-the-moon.md)
-_Context: Japan, SELENE, moon, orbit_
+_Context: Japan, Moon, SELENE, orbit_
 
 ## [Previous Day...](/news/2007/10/4/index.md)
 

@@ -7,7 +7,7 @@ _Context: Spanish national anthem_
 _Context: Madagascar, Tahina spectabilis, palm_
 
 ### [ Three United States Army soldiers are killed and another two wounded by small arms fire in the northern Salahuddin province of Iraq. ](/news/2008/01/16/three-united-states-army-soldiers-are-killed-and-another-two-wounded-by-small-arms-fire-in-the-northern-salahuddin-province-of-iraq.md)
-_Context: Iraq, Salahuddin province, United States Army, small arms_
+_Context: Iraq, Salahuddin province, United States soldiers, small arms_
 
 ### [ War in Somalia (2006-present): A huge blast in Mogadishu targeted an Ethiopian army convoy as it drove through a major intersection, killing seven soldiers on board, witnesses reported. ](/news/2008/01/16/war-in-somalia-2006apresent-a-huge-blast-in-mogadishu-targeted-an-ethiopian-army-convoy-as-it-drove-through-a-major-intersection-kill.md)
 _Context: Ethiopian army, Mogadishu, two years of helping_

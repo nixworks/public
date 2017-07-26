@@ -4,7 +4,7 @@
 _Context: Hawaii, North Korea_
 
 ### [ An Atlas V rocket launches the LRO and LCROSS spacecraft to explore the Moon.](/news/2009/06/18/an-atlas-v-rocket-launches-the-lro-and-lcross-spacecraft-to-explore-the-moon.md)
-_Context: Atlas V, LCROSS, LRO, explore, moon_
+_Context: Atlas V, LCROSS, LRO, Moon, explore_
 
 ### [ Continental Flight 61, a Boeing 777 containing 247 passengers flying from Brussels, Belgium, to Newark, New Jersey, United States, lands safely at Newark Liberty International Airport, after the 61-year-old pilot died mid-flight.  ](/news/2009/06/18/continental-flight-61-a-boeing-777-containing-247-passengers-flying-from-brussels-belgium-to-newark-new-jersey-united-states-lands-sa.md)
 _Context: Belgian, Boeing 777, Brussels, Continental Airlines, Newark Liberty International Airport, Newark, New Jersey's, United States, pilot_

@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Brown University researchers discover that water may be present beneath the surface of the moon. ](/news/2017/07/24/brown-university-researchers-discover-that-water-may-be-present-beneath-the-surface-of-the-moon.md) _Context: water_
+1. [Brown University researchers discover that substantial amount of water may be present beneath the surface of the Moon. ](/news/2017/07/24/brown-university-researchers-discover-that-substantial-amount-of-water-may-be-present-beneath-the-surface-of-the-moon.md) _Context: water_
 2. [Nine people die in Vancouver, British Columbia from overdoses of fentanyl. ](/news/2016/12/16/nine-people-die-in-vancouver-british-columbia-from-overdoses-of-fentanyl.md) _Context: Vancouver_
 3. [NASA publishes the first close up photos of Pluto from the New Horizons spacecraft. They show geologically young mountains made of water ice.  ](/news/2015/07/15/nasa-publishes-the-first-close-up-photos-of-pluto-from-the-new-horizons-spacecraft-they-show-geologically-young-mountains-made-of-water-ice.md) _Context: water_
 4. [ A ship spills toxic bunker fuel into English Bay, Vancouver. The fuel has washed up on Vancouver's beaches, prompting a warning from city officials.  ](/news/2015/04/9/a-ship-spills-toxic-bunker-fuel-into-english-bay-vancouver-the-fuel-has-washed-up-on-vancouver-s-beaches-prompting-a-warning-from-city-o.md) _Context: Vancouver_

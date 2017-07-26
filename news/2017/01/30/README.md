@@ -1,7 +1,7 @@
 ## [2017-01-30](/news/2017/01/30/index.md)
 
 ### [The Ukrainian military says seven soldiers have been killed  by pro-Russian separatists since Sunday. The separatists report over 5 days of artillery attacks on them by the Ukrainian side. ](/news/2017/01/30/the-ukrainian-military-says-seven-soldiers-have-been-killed-by-pro-russian-separatists-since-sunday-the-separatists-report-over-5-days-of.md)
-_Context: Ukrainian military, War in Donbass, pro-Russian separatists, since Sunday_
+_Context: Pro-Russian militants, Ukrainian military, War in Donbass, since Sunday_
 
 ### [ The Russian Defence Ministry says six Russian bombers  hit ISIL positions in Syria's Deir ez-Zor Governorate. ](/news/2017/01/30/the-russian-defence-ministry-says-six-russian-bombers-hit-isil-positions-in-syria-s-deir-ez-zor-governorate.md)
 _Context: Deir ez-Zor Governorate, ISIL, Ministry of Defence, Russian military intervention, Syria_

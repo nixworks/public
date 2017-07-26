@@ -25,7 +25,7 @@ Senator Leila de Lima is ready to face the charges and go to jail in case the Ju
 _Context: Islamabad High Court, Pakistan, Valentine's Day_
 
 ### [Michael T. Flynn resigns as National Security Advisor following controversy over his alleged contacts with Russian officials. Retired United States Army general Keith Kellogg subsequently becomes acting  National Security Advisor until a permanent replacement is appointed. ](/news/2017/02/13/michael-t-flynn-resigns-as-national-security-advisor-following-controversy-over-his-alleged-contacts-with-russian-officials-retired-united.md)
-_Context: Keith Kellogg, Michael Flynn, National Security Advisor, Russia, United States Army_
+_Context: Keith Kellogg, Michael Flynn, National Security Advisor, Russia, United States soldiers_
 
 ### [Kim Jong-nam, eldest son of Kim Jong-il, is assassinated in Malaysia after two unidentified women reportedly poisoned him at Kuala Lumpur International Airport. ](/news/2017/02/13/kim-jong-nam-eldest-son-of-kim-jong-il-is-assassinated-in-malaysia-after-two-unidentified-women-reportedly-poisoned-him-at-kuala-lumpur-in.md)
 North Korean dictator Kim Jong Un’s half-brother was assassinated Monday in Malaysia, South Korean news agency Yonhap reported early Tuesday, citing a government source.

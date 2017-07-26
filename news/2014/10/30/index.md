@@ -22,7 +22,7 @@ _Context: 2014 Pennsylvania State Police barracks attack, Eric Frein, Pennsylvan
 Thomas Michael Menino, who served an unprecedented five consecutive terms in City Hall, died Thursday. He was 71 and was diagnosed with advanced cancer not long after leaving office at the beginning of this year.
 
 ### [The Temple Mount in Jerusalem was closed to all visitors for the first time since 2000, following the attempted assassination of Israeli activist Yehuda Glick. ](/news/2014/10/30/the-temple-mount-in-jerusalem-was-closed-to-all-visitors-for-the-first-time-since-2000-following-the-attempted-assassination-of-israeli-act.md)
-_Context: Jerusalem, Yehuda Glick, holy place_
+_Context: Jerusalem, Temple Mount, Yehuda Glick_
 
 ## [Previous Day...](/news/2014/10/29/index.md)
 

@@ -4,7 +4,7 @@
 Viva Palestina vehicles leave London en route to besieged Strip for what organisers say will be biggest aid convoy yet.
 
 ### [The United States Army charges 5 US soldiers with murdering 3 Afghan civilians earlier this year. ](/news/2010/09/19/the-united-states-army-charges-5-us-soldiers-with-murdering-3-afghan-civilians-earlier-this-year.md)
-_Context: Afghanistan, United States, United States Army_
+_Context: Afghanistan, United States, United States soldiers_
 
 ### [2 car bombs explode in Baghdad, Iraq, killing at least 31 people and injuring 111. ](/news/2010/09/19/2-car-bombs-explode-in-baghdad-iraq-killing-at-least-31-people-and-injuring-111.md)
 _Context: 2 car bomb, Baghdad, Iraq_

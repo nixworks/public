@@ -7,7 +7,7 @@ Tourists from Poland and France among those killed, as Tunisian PM says one of g
 _Context: 2014-15 Australian region cyclone season, Cooktown, Queensland, tropical cyclone_
 
 ### [The United States Department of Defense authorizes the U.S. Army to destroy a large U.S. stockpile of chemical weapons. ](/news/2015/03/18/the-united-states-department-of-defense-authorizes-the-u-s-army-to-destroy-a-large-u-s-stockpile-of-chemical-weapons.md)
-_Context: Defense Department, U.S. stockpile of chemical weapons, United States Army_
+_Context: Defense Department, U.S. stockpile of chemical weapons, United States soldiers_
 
 ### [Kraft Foods Group Inc. recalls more than 6.5 million 7.25-ounce (0.2-kilogram) boxes of its macaroni and cheese after customers reported finding small pieces of metal inside. The recalled products were shipped nationwide in the U.S. as well as to some countries in South America and the Caribbean. ](/news/2015/03/18/kraft-foods-group-inc-recalls-more-than-6-5-million-7-25-ounce-0-2-kilogram-boxes-of-its-macaroni-and-cheese-after-customers-reported-fin.md)
 _Context: Caribbean, Kraft Foods, South America, U.S._

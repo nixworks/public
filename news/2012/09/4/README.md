@@ -59,7 +59,7 @@ Parti Quebecois Leader Pauline Marois will become Quebec&rsquo;s first female pr
 All the moves, the sackings, the promotions, rumours and analysis as Prime Minister David Cameron reshuffled his government team.
 
 ### [Reuters calls Xi Jinping China's "next leader". Hu Chunhua reportedly misses a promotion to the Politburo Standing Committee in an expected power transition at or around the 18th Congress of the Communist Party of China. ](/news/2012/09/4/reuters-calls-xi-jinping-china-s-next-leader-hu-chunhua-reportedly-misses-a-promotion-to-the-politburo-standing-committee-in-an-expected.md)
-_Context: 18th National Congress, Communist Party of China, Hu Chunhua, Politburo Standing Committee, Politburo of the Communist Party of China, Reuters, Xi Jinping, expected power transition_
+_Context: 18th National Congress, Communist Party of China, Hu Chunhua, Politburo, Politburo Standing Committee, Reuters, Xi Jinping, expected power transition_
 
 ### [President-elect Pena Nieto of Mexico names his "transition team", ahead of his cabinet and December 1st inauguration. ](/news/2012/09/4/president-elect-pea-a-nieto-of-mexico-names-his-transition-team-ahead-of-his-cabinet-and-december-1st-inauguration.md)
 _Context: Enrique Pena Nieto, cabinet_

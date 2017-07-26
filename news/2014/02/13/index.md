@@ -55,7 +55,7 @@ Centre-left mayor of Florence tells Democratic party meeting that Italy urgently
 A federal judge in Virginia has struck down the state&#39;s prohibition on same-sex marriage, joining a growing list of state and federal courts that have granted gay and lesbian couples the right to marry following two landmark Supreme Court rulings in June.
 
 ### [China's Yutu rover, after being pronounced dead the day previously, leaves dormancy one day late after malfunctioning prior to the Lunar night. ](/news/2014/02/13/china-s-yutu-rover-after-being-pronounced-dead-the-day-previously-leaves-dormancy-one-day-late-after-malfunctioning-prior-to-the-lunar-nig.md)
-_Context: Yutu, moon_
+_Context: Moon, Yutu_
 
 ### [The remains of an infant boy from the Clovis culture is determined to be Native American. ](/news/2014/02/13/the-remains-of-an-infant-boy-from-the-clovis-culture-is-determined-to-be-native-american.md)
 The mysterious Clovis culture, which appeared in North America about 13,000 years ago, appears to be the forerunner of Native Americans throughout the Americas, a study of DNA evidence suggests. Remains from an infant buried more than 12,000 years ago at a Clovis site in modern Montana held the genetic key.

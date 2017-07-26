@@ -85,7 +85,7 @@ _Context: Australian Prime Minister, Constitution, Indigenous, Julia Gillard, re
 _Context: Ba Ria-Vung Tau Province, Leiolepis ngovantrii, Vietnam Academy of Science and Technology, cloning_
 
 ### [Chinese Premier Wen Jiabao unveils pictures of the moon's Sinus Iridum, or Bay of Rainbows, taken during China's Chang`e-2 lunar probe mission. ](/news/2010/11/8/chinese-premier-wen-jiabao-unveils-pictures-of-the-moon-s-sinus-iridum-or-bay-of-rainbows-taken-during-china-s-chang-e-2-lunar-probe-missi.md)
-_Context: Chang'e 2, Chinese, Sinus Iridum, Wen Jiabao, moon_
+_Context: Chang'e 2, Chinese, Moon, Sinus Iridum, Wen Jiabao_
 
 ## [Previous Day...](/news/2010/11/7/index.md)
 

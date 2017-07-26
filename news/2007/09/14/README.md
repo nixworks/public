@@ -34,7 +34,7 @@ _Context: French Polynesia, Oscar Temaru_
 At least 13 people have been confirmed dead and hundreds of homes damaged as relief efforts accelerate after powerful earthquakes off Indonesia&#039;s Sumatra island.
 
 ### [ The Japan Aerospace Exploration Agency successfully launches SELENE, the largest lunar mission since the Apollo program, on a mission to explore the moon. ](/news/2007/09/14/the-japan-aerospace-exploration-agency-successfully-launches-selene-the-largest-lunar-mission-since-the-apollo-program-on-a-mission-to-ex.md)
-_Context: Apollo program, Japan Aerospace Exploration Agency, SELENE, moon_
+_Context: Apollo program, Japan Aerospace Exploration Agency, Moon, SELENE_
 
 ### [ Michael Sulick is named the new Director of the United States' National Clandestine Service. [http://www.nytimes.com/2007/09/15/washington/15cia.html]](/news/2007/09/14/michael-sulick-is-named-the-new-director-of-the-united-states-national-clandestine-service-http-www-nytimes-com-2007-09-15-washington.md)
 _Context: Director, Michael Sulick, National Clandestine Service_

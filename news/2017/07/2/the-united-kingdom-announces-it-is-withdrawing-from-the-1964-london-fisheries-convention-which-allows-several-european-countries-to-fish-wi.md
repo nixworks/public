@@ -11,7 +11,7 @@ Ministers say ending the arrangement will help the UK take back control of acces
 
 ### Related:
 
-1. [A United Kingdom court blocks a PS14 billion class action lawsuit against Mastercard. ](/news/2017/07/22/a-united-kingdom-court-blocks-a-aps14-billion-class-action-lawsuit-against-mastercard.md) _Context: United Kingdom_
+1. [A United Kingdom court blocks a PS14 billion class action lawsuit against MasterCard. ](/news/2017/07/22/a-united-kingdom-court-blocks-a-aps14-billion-class-action-lawsuit-against-mastercard.md) _Context: United Kingdom_
 2. [Vince Cable is acclaimed as Leader of the Liberal Democrats in the United Kingdom after running unopposed. ](/news/2017/07/20/vince-cable-is-acclaimed-as-leader-of-the-liberal-democrats-in-the-united-kingdom-after-running-unopposed.md) _Context: United Kingdom_
 3. [Nobel Peace Laureate Liu Xiaobo, who has been incarcerated in China for organizing the pro-democracy manifesto "Charter 08," is suffering from late-stage liver cancer which is worsening. The Chinese hospital treating him and foreign doctors, who examined Liu the weekend, disagree on future treatment. Germany, the United States, UK, and other countries have appealed that Liu be allowed to go to the hospital of his choice. ](/news/2017/07/12/nobel-peace-laureate-liu-xiaobo-who-has-been-incarcerated-in-china-for-organizing-the-pro-democracy-manifesto-charter-08-is-suffering-fr.md) _Context: United Kingdom_
 4. [The United Kingdom and Bill & Melinda Gates Foundation sponsor a summit that plans on raising funds for family planning in developing countries. ](/news/2017/07/11/the-united-kingdom-and-bill-melinda-gates-foundation-sponsor-a-summit-that-plans-on-raising-funds-for-family-planning-in-developing-countr.md) _Context: United Kingdom_

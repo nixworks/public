@@ -11,4 +11,5 @@
 
 ### Related:
 
-1. [Paul Ryan announces that the Republican party will, as part of its efforts to repeal Obamacare, seek to stop using federal money to fund Planned Parenthood. ](/news/2017/01/5/paul-ryan-announces-that-the-republican-party-will-as-part-of-its-efforts-to-repeal-obamacare-seek-to-stop-using-federal-money-to-fund-pla.md) _Context: Obamacare_
+1. [The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md) _Context: Obamacare_
+2. [Paul Ryan announces that the Republican party will, as part of its efforts to repeal Obamacare, seek to stop using federal money to fund Planned Parenthood. ](/news/2017/01/5/paul-ryan-announces-that-the-republican-party-will-as-part-of-its-efforts-to-repeal-obamacare-seek-to-stop-using-federal-money-to-fund-pla.md) _Context: Obamacare_

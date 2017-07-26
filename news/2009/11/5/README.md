@@ -16,7 +16,7 @@ An old grey mare named Twilight has provided an international team of researcher
 _Context: Colombia, Venezuela_
 
 ### [ 13 people die and 30 people are injured in a shooting at the Fort Hood U.S. Army base in Texas. ](/news/2009/11/5/13-people-die-and-30-people-are-injured-in-a-shooting-at-the-fort-hood-u-s-army-base-in-texas.md)
-_Context: Fort Hood, Fort Hood massacre, Texas, United States Army_
+_Context: Fort Hood, Fort Hood massacre, Texas, United States soldiers_
 
 ### [ The International Criminal Court is to open an investigation into the 2007 Kenyan post-election violence in which more than 1,000 people died. ](/news/2009/11/5/the-international-criminal-court-is-to-open-an-investigation-into-the-2007-kenyan-post-election-violence-in-which-more-than-1-000-people-di.md)
 _Context: International Criminal Court, Kenya, post-election violence_

@@ -22,7 +22,7 @@ A Monrovia middle school was on lockdown Monday afternoon after a man called pol
 _Context: Amsterdam, Sunset at Montmajour, Van Gogh, Van Gogh Museum_
 
 ### [Israel's Hebrew University of Jerusalem announces the discovery of a 1,400-year-old golden treasure trove at the foot of the Temple Mount. ](/news/2013/09/9/israel-s-hebrew-university-of-jerusalem-announces-the-discovery-of-a-1-400-year-old-golden-treasure-trove-at-the-foot-of-the-temple-mount.md)
-_Context: Hebrew University of Jerusalem, Israel, holy place, treasure trove_
+_Context: Hebrew University of Jerusalem, Israel, Temple Mount, treasure trove_
 
 ### [At least 44 people are dead and 45 injured after a bus crashes into a ravine in northern Guatemala. ](/news/2013/09/9/at-least-44-people-are-dead-and-45-injured-after-a-bus-crashes-into-a-ravine-in-northern-guatemala.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

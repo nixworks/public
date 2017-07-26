@@ -4,7 +4,7 @@
 A judge in Taipei ruled that former Taiwan president Chen Shui-bian be held in jail while prosecutors in the city pursue money-laundering and corruption charges against him.
 
 ### [ India's Chandrayaan-1 lunar exploration mission successfully completes its journey to the Moon, entering its intended operational orbit 100|km|mi|abbr=on above the surface. ](/news/2008/11/12/india-s-chandrayaan-1-lunar-exploration-mission-successfully-completes-its-journey-to-the-moon-entering-its-intended-operational-orbit-100.md)
-_Context: Chandrayaan-1, India, explore, moon_
+_Context: Chandrayaan-1, India, Moon, explore_
 
 ### [ 2008 Russian financial crisis: Russia's two main stock exchanges are suspended for one hour after the market opened with a more than 10% decline in response to trends on global markets and falling oil prices. ](/news/2008/11/12/2008-russian-financial-crisis-p-russia-s-two-main-stock-exchanges-are-suspended-for-one-hour-after-the-market-opened-with-a-more-than-10-d.md)
 _Context: 2008 Russian financial crisis, Russia_

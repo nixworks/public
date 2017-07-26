@@ -40,7 +40,7 @@ _Context: Albuquerque, New Mexico, Antisemitism in the United States, Jewish, Je
 _Context: New York City, Permanent Representative to the United Nations, Russia, Vitaly Churkin_
 
 ### [President Donald Trump names United States Army Lt. General H. R. McMaster as National Security Advisor and says that U.S. Lt. Gen. Keith Kellogg, who has been the acting NSA, will remain as the NSC's Chief of Staff. ](/news/2017/02/20/president-donald-trump-names-united-states-army-lt-general-h-r-mcmaster-as-national-security-advisor-and-says-that-u-s-lt-gen-keith-ke.md)
-_Context: Donald Trump, Formation of Donald Trump's cabinet, H. R. McMaster, Keith Kellogg, National Security Advisor, President of the United States, United States Army_
+_Context: Donald Trump, Formation of Donald Trump's cabinet, H. R. McMaster, Keith Kellogg, National Security Advisor, President of the United States, United States soldiers_
 
 ## [Previous Day...](/news/2017/02/19/index.md)
 

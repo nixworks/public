@@ -10,7 +10,7 @@ Nineteen Muslim separatist rebels have been killed in fresh air strikes carried 
 A 5.0 magnitude aftershock rattled south-western Pakistan, three days after a powerful earthquake killed up to 300 people in the region, the US Geological Survey said.
 
 ### [ India's first lunar mission, Chandrayaan-1, transmits two pictures of the Earth while en route to the Moon. ](/news/2008/11/1/india-s-first-lunar-mission-chandrayaan-1-transmits-two-pictures-of-the-earth-while-en-route-to-the-moon.md)
-_Context: Chandrayaan-1, Earth, explore, moon_
+_Context: Chandrayaan-1, Earth, Moon, explore_
 
 ## [Previous Day...](/news/2008/10/31/index.md)
 

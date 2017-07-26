@@ -49,7 +49,7 @@ A plan to approve new West Bank construction before a building freeze drew prote
 _Context: Air India Flight 829, Chhatrapati Shivaji International Airport, Mumbai_
 
 ### [ Two Bangladeshi newspapers, the ''Daily Manab Zamin'' and the ''New Nation'', apologise after publishing an article taken from satirical US website ''The Onion'', which claimed the Moon landings were faked. ](/news/2009/09/4/two-bangladeshi-newspapers-the-daily-manab-zamin-and-the-new-nation-apologise-after-publishing-an-article-taken-from-satirical-us.md)
-_Context: Bangladesh, Daily Manab Zamin, New Nation, The Onion, United States, moon_
+_Context: Bangladesh, Daily Manab Zamin, Moon, New Nation, The Onion, United States_
 
 ### [ Former US soldier Steven D. Green is sentenced to life in prison with no possibility of release for the murder of an Iraqi girl and her family.](/news/2009/09/4/former-us-soldier-steven-d-green-is-sentenced-to-life-in-prison-with-no-possibility-of-release-for-the-murder-of-an-iraqi-girl-and-her-fam.md)
 Ex-soldier receives five life terms for rape and killing of Iraqi family members.

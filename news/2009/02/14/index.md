@@ -13,7 +13,7 @@ Among the victims were Al Qaeda and Taliban fighters, according to an intelligen
 Ehud Olmert rules out truce with Hamas until seized Israeli soldier is freed.
 
 ### [ Japan's National Astronomical Observatory completes the first topographic map of the Moon. ](/news/2009/02/14/japan-s-national-astronomical-observatory-completes-the-first-topographic-map-of-the-moon.md)
-_Context: Japan, National Astronomical Observatory, moon, topographic map_
+_Context: Japan, Moon, National Astronomical Observatory, topographic map_
 
 ### [ Somali pirates release the Japanese oil tanker ''Chemstar Venus'' and its 23 crew members. ](/news/2009/02/14/somali-pirates-release-the-japanese-oil-tanker-chemstar-venus-and-its-23-crew-members.md)
 _Context: ''Chemstar Venus'', Japan, Somali pirates, Somalia, oil tanker_

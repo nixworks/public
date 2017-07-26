@@ -7,7 +7,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 _Context: Conoco Phillips, ExxonMobil Corporation, Orinoco Belt, PDVSA, Venezuela_
 
 ### [ Middle East leaders President of Egypt Hosni Mubarak, President of the Palestinian Authority Mahmoud Abbas, Prime Minister of Israel Ehud Olmert, and King Abdullah II of Jordan meet to support Abbas' leadership of the Palestinian Authority. Olmert announces that he will release 250 Palestinian political prisoners as a gesture of goodwill. ](/news/2007/06/25/middle-east-leaders-president-of-egypt-hosni-mubarak-president-of-the-palestinian-authority-mahmoud-abbas-prime-minister-of-israel-ehud-o.md)
-_Context: Abdullah II, Egyptian President, Ehud Olmert, Hosni Mubarak, Israeli Prime Minister, Jordanian King, Mahmoud Abbas, Palestinian Authority, President of the Palestinian Authority_
+_Context: Egyptian President, Ehud Olmert, Hosni Mubarak, Israeli Prime Minister, Jordanian King, King Abdullah, Mahmoud Abbas, Palestinian Authority, President of the Palestinian Authority_
 
 ### [ Iran invites the International Atomic Energy Agency to Tehran to discuss its nuclear program. ](/news/2007/06/25/iran-invites-the-international-atomic-energy-agency-to-tehran-to-discuss-its-nuclear-program.md)
 _Context: International Atomic Energy Agency, Iran, Tehran_

@@ -1,7 +1,7 @@
 ## [2007-11-24](/news/2007/11/24/index.md)
 
 ### [ United States and Iraqi forces arrest at least 20 suspected militants in Kirkuk, Iraq. ](/news/2007/11/24/united-states-and-iraqi-forces-arrest-at-least-20-suspected-militants-in-kirkuk-iraq.md)
-_Context: Iraq, Iraqi Police, Kirkuk, United States Army, militant_
+_Context: Iraq, Iraqi Police, Kirkuk, United States soldiers, militant_
 
 ### [ An explosion at a petrol station kills four people and hurts at least 30 in Shanghai, China. ](/news/2007/11/24/an-explosion-at-a-petrol-station-kills-four-people-and-hurts-at-least-30-in-shanghai-china.md)
 _Context: China, Shanghai, explosion, petrol station_

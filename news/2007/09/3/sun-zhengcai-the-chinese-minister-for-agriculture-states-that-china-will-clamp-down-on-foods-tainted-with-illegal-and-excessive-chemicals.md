@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The Chinese Central Commission for Discipline Inspection announces that former Chongqing party boss Sun Zhengcai is under investigation for violating party discipline. Sun is the fourth sitting Politburo member since 1990 to fall from power. ](/news/2017/07/24/the-chinese-central-commission-for-discipline-inspection-announces-that-former-chongqing-party-boss-sun-zhengcai-is-under-investigation-for.md) _Context: Sun Zhengcai_
+1. [The Chinese Central Commission for Discipline Inspection announces that current Politburo member Sun Zhengcai is under investigation for violating party discipline. Sun is the fourth sitting Politburo member since 1990 to fall from power. ](/news/2017/07/24/the-chinese-central-commission-for-discipline-inspection-announces-that-current-politburo-member-sun-zhengcai-is-under-investigation-for-vio.md) _Context: Sun Zhengcai_
 2. [Chen Min'er replaces Sun Zhengcai as Communist Party Secretary of Chongqing; Sun Zhigang becomes party chief of Guizhou. ](/news/2017/07/15/chen-min-er-replaces-sun-zhengcai-as-communist-party-secretary-of-chongqing-sun-zhigang-becomes-party-chief-of-guizhou.md) _Context: Sun Zhengcai_
 3. [China appoints Sun Zhengcai as new chief for the city of Chongqing, once led by disgraced politician Bo Xilai. ](/news/2012/11/20/china-appoints-sun-zhengcai-as-new-chief-for-the-city-of-chongqing-once-led-by-disgraced-politician-bo-xilai.md) _Context: Sun Zhengcai_
 4. [Scientists announce the discovery of a chemical compound which destroys the reproduction capabilities of bacteria that are antibiotic-resistant. ](/news/2010/08/12/scientists-announce-the-discovery-of-a-chemical-compound-which-destroys-the-reproduction-capabilities-of-bacteria-that-are-antibiotic-resist.md) _Context: chemical_

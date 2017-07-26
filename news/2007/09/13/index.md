@@ -4,7 +4,7 @@
 _Context: Miami_
 
 ### [ Google sponsors a US$30 million spaceflight contest to land a robotic lander on the moon and beam back a gigabyte of images and videos to earth. ](/news/2007/09/13/google-sponsors-a-us-30-million-spaceflight-contest-to-land-a-robotic-lander-on-the-moon-and-beam-back-a-gigabyte-of-images-and-videos-to-e.md)
-_Context: Earth, Google, US$, gigabyte, moon, space transport_
+_Context: Earth, Google, Moon, US$, gigabyte, space transport_
 
 ### [ 2007 Atlantic hurricane season: Tropical Storm Ingrid forms in the Atlantic Ocean 800 miles from the outer Caribbean islands. ](/news/2007/09/13/2007-atlantic-hurricane-season-tropical-storm-ingrid-forms-in-the-atlantic-ocean-800-miles-from-the-outer-caribbean-islands.md)
 _Context: 2007 Atlantic hurricane season, Atlantic Ocean, Caribbean_

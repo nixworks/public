@@ -40,7 +40,7 @@ _Context: Aung San Suu Kyi, Burma, State Peace and Development Council, go on sa
 The Obama administration on Tuesday announced it would pay Native Americans $3.4 billion to settle a class-action lawsuit that claimed the federal government cheated tribes for more than a century...
 
 ### [ For the first time since the return of democracy in 1986, the Congress of the Philippines is debating in a joint session to discuss whether to approve, revoke or extend the declaration of martial law in Maguindanao. ](/news/2009/12/9/for-the-first-time-since-the-return-of-democracy-in-1986-the-congress-of-the-philippines-is-debating-in-a-joint-session-to-discuss-whether.md)
-_Context: Congress, Maguindanao, martial law_
+_Context: Congress of the Philippines, Maguindanao, martial law_
 
 ### [ North Korea announces for the first time an outbreak of the H1N1 swine flu virus in the country. ](/news/2009/12/9/north-korea-announces-for-the-first-time-an-outbreak-of-the-h1n1-swine-flu-virus-in-the-country.md)
 _Context: H1N1, North Korea, flu pandemic, outbreak_

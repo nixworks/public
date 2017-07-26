@@ -7,7 +7,7 @@ _Context: Dominican Republic, Fonds-Verrettes, Haiti, Jordan, MINUSTAH, United N
 _Context: General Motors, Hummer, Sichuan Tengzhong Heavy Industrial Machinery Company_
 
 ### [ In an attempt to determine the extent of lunar ice, NASA crashes two unmanned spacecraft into the Moon's south pole. ](/news/2009/10/9/in-an-attempt-to-determine-the-extent-of-lunar-ice-nasa-crashes-two-unmanned-spacecraft-into-the-moon-s-south-pole.md)
-_Context: LCROSS, NASA, lunar ice, moon_
+_Context: LCROSS, Lunar water, Moon, NASA_
 
 ### [ Treaty of Lisbon: A statement on Polish President Lech Kaczynski's website says a signing ceremony of the treaty will take place on Saturday at 1000 GMT. ](/news/2009/10/9/treaty-of-lisbon-p-a-statement-on-polish-president-lech-kaczyaski-s-website-says-a-signing-ceremony-of-the-treaty-will-take-place-on-satur.md)
 Czech President Vaclav Klaus wants an opt-out on the Charter of Fundamental Rights attached to the Lisbon Treaty as a condition to his signing it.

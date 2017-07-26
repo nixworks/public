@@ -1,6 +1,23 @@
-## [News](/news/2017/07/25/index.md)
+## [News](/news/2017/07/30/index.md)
 
-### [The Israeli government says it will remove metal detectors and some cameras recently installed at the entrances to the Temple Mount in Jerusalem that resulted in a wave of protests and some deaths. Instead,  less obtrusive surveillance means will be used. ](/news/2017/07/25/the-israeli-government-says-it-will-remove-metal-detectors-and-some-cameras-recently-installed-at-the-entrances-to-the-temple-mount-in-jerus.md)
+### [Voters in Venezuela participate in a controversial election for members of a new Constitutional Assembly, devised by President Nicols Maduro to amend the constitution following a legislative takeover in March. Protests and strikes are expected. ](/news/2017/07/30/voters-in-venezuela-participate-in-a-controversial-election-for-members-of-a-new-constitutional-assembly-devised-by-president-nicolas-madur.md)
+_Context: Nicols Maduro, Protests and strikes, Venezuela, Venezuelan Constitutional Assembly election, 2017, legislative takeover in March, the constitution_
+
+### [Voters in Senegal elect all 150 members of their National Assembly, with former President Abdoulaye Wade leading a coalition against the incumbent Macky Sall's United in Hope coalition. ](/news/2017/07/30/voters-in-senegal-elect-all-150-members-of-their-national-assembly-with-former-president-abdoulaye-wade-leading-a-coalition-against-the-inc.md)
+_Context: Abdoulaye Wade, Macky Sall, National Assembly, Senegal, Senegalese parliamentary election, 2017, United in Hope coalition, a coalition_
+
+### [Voters in the Republic of the Congo return to the polls for the second round of an election for 139 National Assembly members, after the governing Congolese Party of Labour won 70 seats in the first round two weeks earlier. ](/news/2017/07/30/voters-in-the-republic-of-the-congo-return-to-the-polls-for-the-second-round-of-an-election-for-139-national-assembly-members-after-the-gov.md)
+_Context: Congolese Party of Labour, National Assembly, Republic of the Congo, Republic of the Congo parliamentary election, 2017, second round_
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/07/25/index.md)
+
+### [The Israeli government says it will remove metal detectors and some cameras recently installed at the entrances to the Temple Mount in Jerusalem that resulted in a wave of protests and some deaths. Instead, less obtrusive surveillance means will be used. ](/news/2017/07/25/the-israeli-government-says-it-will-remove-metal-detectors-and-some-cameras-recently-installed-at-the-entrances-to-the-temple-mount-in-jerus.md)
 After days of violent protests and a diplomatic crisis with Jordan over the placement of metal detectors at the entrances to the Aqsa Compound, the Israeli government said it would remove them.
 
 ### [Kurt Volker, U.S. special representative for Ukraine, says in a BBC interview that the White House is considering arming Ukrainian government forces fighting Pro-Russian militants with defensive weapons. ](/news/2017/07/25/kurt-volker-u-s-special-representative-for-ukraine-says-in-a-bbc-interview-that-the-white-house-is-considering-arming-ukrainian-governmen.md)
@@ -12,7 +29,7 @@ Microsoft will not kill of Paint, it has now said. A suggestion from the company
 ### [Michael Kors buys Jimmy Choo for US$1.2 billion. ](/news/2017/07/25/michael-kors-buys-jimmy-choo-for-us-1-2-billion.md)
 The agreement comes as upscale American brands grapple with plummeting sales and tepid profits, particularly in the so-called middle market.
 
-### [Adobe Systems announces it will  stop updating and distributing its multimedia software platform Flash by the end of 2020. ](/news/2017/07/25/adobe-systems-announces-it-will-stop-updating-and-distributing-its-multimedia-software-platform-flash-by-the-end-of-2020.md)
+### [Adobe Systems announces it will stop updating and distributing its multimedia software platform Flash by the end of 2020. ](/news/2017/07/25/adobe-systems-announces-it-will-stop-updating-and-distributing-its-multimedia-software-platform-flash-by-the-end-of-2020.md)
 Adobe said it plans to stop updating and distributing its Flash Player by the end of 2020.
 
 ### [2017 heat wave in EuropeFirefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/2017-heat-wave-in-europepfirefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md)
@@ -21,22 +38,21 @@ Hundreds&#x20;of&#x20;firefighters&#x20;were&#x20;battling&#x20;blazes&#x20;acro
 ### [A report by Human Rights Watch and interACT Advocates for Intersex Youth calls for a U.S. moratorium on all surgical procedures on intersex children because they are medically unnecessary and can scar young patients for life. ](/news/2017/07/25/a-report-by-human-rights-watch-and-interact-advocates-for-intersex-youth-calls-for-a-u-s-moratorium-on-all-surgical-procedures-on-intersex.md)
 By Sebastien MaloNEW YORK (Thomson Reuters Foundation) - Genital surgeryshould be banned on children whose sex characteristics areambiguous because
 
-### [A study, published in the  ''Journal of the American Medical Association'',  finds 99 percent of the brains, donated for scientific research, of former National Football League players show signs of chronic traumatic encephalopathy (CTE),  the disease identified in autopsies of numerous NFL players who committed suicide, and the subject of the 2015 movie ''Concussion''. ](/news/2017/07/25/a-study-published-in-the-journal-of-the-american-medical-association-finds-99-percent-of-the-brains-donated-for-scientific-research.md)
+### [A study, published in the ''Journal of the American Medical Association'', finds 99 percent of the brains, donated for scientific research, of former National Football League players show signs of chronic traumatic encephalopathy (CTE), the disease identified in autopsies of numerous NFL players who committed suicide, and the subject of the 2015 movie ''Concussion''. ](/news/2017/07/25/a-study-published-in-the-journal-of-the-american-medical-association-finds-99-percent-of-the-brains-donated-for-scientific-research.md)
 The brains of 99 percent of former National Football League players studied showed signs of a disease linked to repeated hits to the head that can lead to aggression and dementia, according to research published in a medical journal on Tuesday.
 
 ### [Jordanian authorities release a video of a shooting of United States soldiers by a Jordanian Air Force sergeant. ](/news/2017/07/25/jordanian-authorities-release-a-video-of-a-shooting-of-united-states-soldiers-by-a-jordanian-air-force-sergeant.md)
 Newly released footage of a gunfight that left three Americans dead in November shows a deliberate attack that was initially explained as a mistake.
 
-### [ The United States Navy says the USS Thunderbolt fired a warning shot at an Iranian patrol boat after it came within 150 yards of U.S. ship. ](/news/2017/07/25/the-united-states-navy-says-the-uss-thunderbolt-fired-a-warning-shot-at-an-iranian-patrol-boat-after-it-came-within-150-yards-of-u-s-ship.md)
+### [The United States Navy says the USS Thunderbolt fired a warning shot at an Iranian patrol boat after it came within 150 yards of U.S. ship. ](/news/2017/07/25/the-united-states-navy-says-the-uss-thunderbolt-fired-a-warning-shot-at-an-iranian-patrol-boat-after-it-came-within-150-yards-of-u-s-ship.md)
 A U.S. Navy ship fired multiple warning shots at an Iranian vessel in the Persian Gulf that came within 150 yards of the American ship, the Navy confirmed. The Islamic Revolutionary Guard Corps naval vessel was approaching the USS Thunderbolt at a high rate of speed and ignored warnings from the...
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+### [The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md)
+Republicans faced their first defeat, failing to pass a measure that they&#x27;ve been working on that would have partially repealed and replaced Obamacare. 
 
 ---
 
-## [Yesterday](/news/2017/07/24/index.md)
+## [Day Before Yesterday](/news/2017/07/24/index.md)
 
 ### [A suicide car bombing in the western part of Kabul kills at least 24 and injures more than 40 people. Afghan authorities say the target of the attack was a bus of civilian government workers from the Ministry of Mines and Petroleum. ](/news/2017/07/24/a-suicide-car-bombing-in-the-western-part-of-kabul-kills-at-least-24-and-injures-more-than-40-people-afghan-authorities-say-the-target-of-t.md)
 A Taliban suicide attacker detonated a car bomb in the western part of Kabul on Monday, killing at least 24 people and wounding more than 40, and the death toll could rise, an Interior Ministry spokesman in the Afghan capital said.
@@ -85,26 +101,7 @@ Ancient volcanic deposits on the moon indicate the lunar interior has a substant
 
 ---
 
-## [Day Before Yesterday](/news/2017/07/23/index.md)
-
-### [The Russian air force bombards the city of Madan and Zor Shamr Camp, south and east of Raqqa, Syria, with cluster bombs, killing six civilians and wounding 19 others. Nearby Alburamadan town  was also struck; there are no reports of casualties. ](/news/2017/07/23/the-russian-air-force-bombards-the-city-of-madan-and-zor-shamr-camp-south-and-east-of-raqqa-syria-with-cluster-bombs-killing-six-civilia.md)
-_Context: Raqqa, Russia, Syria, Syrian Civil War, cluster bomb_
-
-### [A shooting at the Israeli embassy in Amman, Jordan, leaves one person, a Jordanian, dead, and an Israeli and a Jordanian wounded. There is speculation the attack may be linked to recent events at Jerusalem's  Al-Aqsa Mosque. Another Jordanian man was killed inadvertently. ](/news/2017/07/23/a-shooting-at-the-israeli-embassy-in-amman-jordan-leaves-one-person-a-jordanian-dead-and-an-israeli-and-a-jordanian-wounded-there-is-s.md)
-The shooting at the compound in Amman may be related to recent protests over the Al-Aqsa Mosque.
-
-### [Snooty, formerly the world's oldest West Indian manatee, dies at age 69 after being trapped in the plumbing of the South Florida Museum. ](/news/2017/07/23/snooty-formerly-the-world-s-oldest-west-indian-manatee-dies-at-age-69-after-being-trapped-in-the-plumbing-of-the-south-florida-museum.md)
-_Context: Florida manatee, Snooty, South Florida Museum, West Indian manatee_
-
-### [In alleged emulation of Philippine president Rodrigo Duterte's war on drugs, Indonesian President Joko Widodo announces orders for police to "shoot" suspected drug dealers without trial. ](/news/2017/07/23/in-alleged-emulation-of-philippine-president-rodrigo-duterte-s-war-on-drugs-indonesian-president-joko-widodo-announces-orders-for-police-to.md)
-President Joko Widodo’s comments echo those of Philippines leader Rodrigo Duterte, whose drug war has killed thousands
-
-### [Nine men are found dead inside a tractor-trailer parked outside a Walmart store in the American city of San Antonio, Texas, in what authorities call a case of "ruthless" human trafficking. Thirty people,  many in critical condition and suffering from heat stroke and exhaustion, were removed from the non-air conditioned trailer which also lacked a water supply. ](/news/2017/07/23/nine-men-are-found-dead-inside-a-tractor-trailer-parked-outside-a-walmart-store-in-the-american-city-of-san-antonio-texas-in-what-authorit.md)
-Eight people, including two children, were found Sunday morning inside a tractor-trailer in the parking lot of a Walmart store in San Antonio, according to reports.
-
----
-
-## [Previous Day...](/news/2017/07/22/index.md)
+## [Previous Day...](/news/2017/07/23/index.md)
 
 ---
 

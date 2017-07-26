@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [A United Kingdom court blocks a PS14 billion class action lawsuit against Mastercard. ](/news/2017/07/22/a-united-kingdom-court-blocks-a-aps14-billion-class-action-lawsuit-against-mastercard.md) _Context: United Kingdom_
+1. [A United Kingdom court blocks a PS14 billion class action lawsuit against MasterCard. ](/news/2017/07/22/a-united-kingdom-court-blocks-a-aps14-billion-class-action-lawsuit-against-mastercard.md) _Context: United Kingdom_
 2. [Vince Cable is acclaimed as Leader of the Liberal Democrats in the United Kingdom after running unopposed. ](/news/2017/07/20/vince-cable-is-acclaimed-as-leader-of-the-liberal-democrats-in-the-united-kingdom-after-running-unopposed.md) _Context: United Kingdom_
 3. [O. J. Simpson is granted parole by the Nevada Board of Parole Commissioners after spending nearly nine years in prison. ](/news/2017/07/20/o-j-simpson-is-granted-parole-by-the-nevada-board-of-parole-commissioners-after-spending-nearly-nine-years-in-prison.md) _Context: parole_
 4. [The United Kingdom announces it is withdrawing from the 1964 London Fisheries Convention, which allows several European countries to fish within 6 to 12 nautical miles of each other's coastlines. ](/news/2017/07/2/the-united-kingdom-announces-it-is-withdrawing-from-the-1964-london-fisheries-convention-which-allows-several-european-countries-to-fish-wi.md) _Context: United Kingdom_

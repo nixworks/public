@@ -31,7 +31,7 @@ Athens rejects outright German proposals for an EU power of veto over the Greek 
 UN Secretary General Ban Ki-moon urges African leaders to respect gay rights in his opening address at the African Union summit.
 
 ### [The exiled Hamas leader Khaled Meshaal and Abdullah II of Jordan meet in Khaled Meshaal's first trip to Jordan since his expulsion in 1999. ](/news/2012/01/29/the-exiled-hamas-leader-khaled-meshaal-and-abdullah-ii-of-jordan-meet-in-khaled-meshaal-s-first-trip-to-jordan-since-his-expulsion-in-1999.md)
-_Context: Abdullah II, Hamas, Khaled Meshaal_
+_Context: Hamas, Khaled Meshaal, King Abdullah_
 
 ### [International Atomic Energy Agency (IAEA) inspectors begin a three-day visit to Iran. ](/news/2012/01/29/international-atomic-energy-agency-iaea-inspectors-begin-a-three-day-visit-to-iran.md)
 _Context: International Atomic Energy Agency, Iran_

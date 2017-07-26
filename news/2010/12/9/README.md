@@ -43,7 +43,7 @@ One person in four worldwide paid a bribe during the past year, according to stu
 The two Swedish women who have brought sex charges against WikiLeaks founder Julian Assange boasted about their relationship with him days before going to cops. Special
 
 ### [A national high-tech crime team in The Hague arrests a 16-year-old male they accuse of disrupting MasterCard and PayPal websites. Both companies previously cut off donations to the WikiLeaks website. ](/news/2010/12/9/a-national-high-tech-crime-team-in-the-hague-arrests-a-16-year-old-male-they-accuse-of-disrupting-mastercard-and-paypal-websites-both-compa.md)
-_Context: Mastercard, PayPal, The Hague, WikiLeaks_
+_Context: MasterCard, PayPal, The Hague, WikiLeaks_
 
 ### [U.S. Attorney General Eric Holder announces that his country's justice department is "looking into" incidents which have disrupted websites opposed to WikiLeaks. ](/news/2010/12/9/u-s-attorney-general-eric-holder-announces-that-his-country-s-justice-department-is-looking-into-incidents-which-have-disrupted-websites.md)
 _Context: Eric Holder, WikiLeaks_

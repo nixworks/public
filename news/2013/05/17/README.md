@@ -28,7 +28,7 @@ More than $1m (£650,000) worth of jewels have been stolen from a hotel in the F
 _Context: Georgia, Tbilisi, homophobia_
 
 ### [NASA records the brightest lunar meteor impact yet observed. ](/news/2013/05/17/nasa-records-the-brightest-lunar-meteor-impact-yet-observed.md)
-_Context: NASA, meteor impact, moon_
+_Context: Moon, NASA, meteor impact_
 
 ### [Mild electric shock is shown to provide lasting improvement to mathematical ability. ](/news/2013/05/17/mild-electric-shock-is-shown-to-provide-lasting-improvement-to-mathematical-ability.md)
 _Context: electric shock, mathematical_

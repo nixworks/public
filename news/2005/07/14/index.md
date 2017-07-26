@@ -34,7 +34,7 @@ _Context: Chautauqua Institution, Muslim, New York, Zaki Badawi_
 _Context: Haiti, Jacques Roche_
 
 ### [ In Zimbabwe, court jails male athlete Samukeliso Sithole for 3.5 years for masquerading as a female in women's sports. Sithole had said that he has both male and female sexual organs ](/news/2005/07/14/in-zimbabwe-court-jails-male-athlete-samukeliso-sithole-for-3-5-years-for-masquerading-as-a-female-in-women-s-sports-sithole-had-said-tha.md)
-_Context: Samukeliso Sithole, Zimbabwe, male and female_
+_Context: Samukeliso Sithole, Zimbabwe, intersex children_
 
 ### [ In Isiolo, Kenya, catholic missionary and bishop Luigi Locati is shot to death ](/news/2005/07/14/in-isiolo-kenya-catholic-missionary-and-bishop-luigi-locati-is-shot-to-death.md)
 _Context: Catholic Church, Isiolo, Kenya, Luigi Locati, missionaries_

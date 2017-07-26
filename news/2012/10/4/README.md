@@ -25,7 +25,7 @@ A ship that offers women medical abortions was blocked Thursday from entering th
 MANILA &ndash; Former President and Congresswoman Gloria Macapagal Arroyo is now a &ldquo;patient-detainee&rdquo; at the Veterans Memorial Medical Center in Quezon City after being served a warrant for her arrest on plunder charges.
 
 ### [Jordan's official news agency announces that King Abdullah dissolves parliament, paving the way for early elections. ](/news/2012/10/4/jordan-s-official-news-agency-announces-that-king-abdullah-dissolves-parliament-paving-the-way-for-early-elections.md)
-_Context: Abdullah II, Jordan_
+_Context: Jordan, King Abdullah_
 
 ### [GCHQ director Iain Lobban gives a rare public speech in which he speaks of the "enduring lessons" to be drawn from the work of Alan Turing, who reportedly committed suicide. ](/news/2012/10/4/gchq-director-iain-lobban-gives-a-rare-public-speech-in-which-he-speaks-of-the-enduring-lessons-to-be-drawn-from-the-work-of-alan-turing.md)
 _Context: Alan Turing, GCHQ, Iain Lobban_

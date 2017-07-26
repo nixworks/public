@@ -10,7 +10,7 @@ _Context: Condoleezza Rice, Iraq, United States Secretary of State_
 At least 13 people, including a senior judge were killed in a suspected suicide bomb attack in a district court in Quetta.
 
 ### [ Italians demonstrate against the expansion of a United States Army base in Vicenza, home of the 173rd Airborne Brigade. ](/news/2007/02/17/italians-demonstrate-against-the-expansion-of-a-united-states-army-base-in-vicenza-home-of-the-173rd-airborne-brigade.md)
-_Context: 173rd Airborne Brigade, Italian, United States Army, Vicenza, protest_
+_Context: 173rd Airborne Brigade, Italian, United States soldiers, Vicenza, protest_
 
 ### [ Former professional wrestler Mike Awesome is found dead in his Tampa, FL residence. He was 42. [http://www.wrestlingobserver.com/wo/news/headlines/default.asp?aID=18705]](/news/2007/02/17/former-professional-wrestler-mike-awesome-is-found-dead-in-his-tampa-fl-residence-he-was-42-http-www-wrestlingobserver-com-wo-news-he.md)
 _Context: Mike Awesome_

@@ -1,7 +1,7 @@
 ## [2005-09-20](/news/2005/09/20/index.md)
 
 ### [ Conflict in Iraq: Five U.S. troops die following three insurgent attacks, two in Ramadi and one in Baghdad.  ](/news/2005/09/20/conflict-in-iraq-five-u-s-troops-die-following-three-insurgent-attacks-two-in-ramadi-and-one-in-baghdad.md)
-_Context: Baghdad, Conflict in Iraq, Iraqi insurgency, Ramadi, United States Army_
+_Context: Baghdad, Conflict in Iraq, Iraqi insurgency, Ramadi, United States soldiers_
 
 ### [ North Korea announces that its offer to end its nuclear arms program is dependent on it being allowed to build a civilian nuclear reactor.   ](/news/2005/09/20/north-korea-announces-that-its-offer-to-end-its-nuclear-arms-program-is-dependent-on-it-being-allowed-to-build-a-civilian-nuclear-reactor.md)
 _Context: North Korea_

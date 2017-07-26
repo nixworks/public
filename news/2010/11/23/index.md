@@ -40,7 +40,7 @@ Taoiseach Brian Cowen has rejected Fine Gael&#39;s accusations that he is engage
 _Context: Aung San Suu Kyi, Burma, democratic progress_
 
 ### [King Abdullah II of Jordan commissions the Prime Minister Samir Rifai to form a new government following recent elections. ](/news/2010/11/23/king-abdullah-ii-of-jordan-commissions-the-prime-minister-samir-rifai-to-form-a-new-government-following-recent-elections.md)
-_Context: Abdullah II, Prime Minister, Samir Rifai_
+_Context: King Abdullah, Prime Minister, Samir Rifai_
 
 ## [Previous Day...](/news/2010/11/22/index.md)
 

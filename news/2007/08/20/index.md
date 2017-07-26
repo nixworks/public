@@ -13,7 +13,7 @@ _Context: AMISOM, United Nations Security Council_
 Storms that deluged widely separated parts of the country from the upper Mississippi to Texas have caused at least 20 deaths since last week.
 
 ### [ A military judge dismisses two charges against Lieutenant Colonel Steven Jordan, a United States Army officer in charge of the interrogation centre at the Abu Ghraib prison in Iraq. Jordan still faces several more charges including cruelty and maltreatment of detainees, disobeying a superior officer and failure to obey orders. ](/news/2007/08/20/a-military-judge-dismisses-two-charges-against-lieutenant-colonel-steven-jordan-a-united-states-army-officer-in-charge-of-the-interrogatio.md)
-_Context: Abu Ghraib, Iraq, United States Army, judge, lieutenant colonel_
+_Context: Abu Ghraib, Iraq, United States soldiers, judge, lieutenant colonel_
 
 ### [ The thirteenth and final victim is recovered from the site of the I-35W Mississippi River Bridge Collapse. ](/news/2007/08/20/the-thirteenth-and-final-victim-is-recovered-from-the-site-of-the-i-35w-mississippi-river-bridge-collapse.md)
 _Context: I-35W Mississippi River Bridge Collapse_

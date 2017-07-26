@@ -4,7 +4,7 @@
 _Context: Baidu, Chinese, Japanese, search engine_
 
 ### [ NASA announces plans to build a base on either the north pole or south pole of the Moon. ](/news/2006/12/4/nasa-announces-plans-to-build-a-base-on-either-the-north-pole-or-south-pole-of-the-moon.md)
-_Context: NASA, North Pole, South Pole, moon_
+_Context: Moon, NASA, North Pole, South Pole_
 
 ### [ John R. Bolton will resign as U.S. ambassador to the United Nations when his recess appointment expires in January 2007. ](/news/2006/12/4/john-r-bolton-will-resign-as-u-s-ambassador-to-the-united-nations-when-his-recess-appointment-expires-in-january-2007.md)
 News and opinion from The Times &amp; The Sunday Times

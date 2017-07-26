@@ -58,7 +58,7 @@ Workers in Japan start injecting nitrogen into one of the reactors at the crippl
 _Context: Caracas, Venezuela, power outage_
 
 ### [A British government diplomat calls the United States Department of State to draw "attention to our concerns over Bradley Manning", the Welsh-born U.S. serviceman imprisoned by the U.S. military in solitary confinement and forced to sleep naked, conditions condemned by Amnesty International, the American Civil Liberties Union and British MPs among others. ](/news/2011/04/7/a-british-government-diplomat-calls-the-united-states-department-of-state-to-draw-attention-to-our-concerns-over-bradley-manning-the-wels.md)
-_Context: ACLU, Amnesty International, Bradley Manning, State Department's, Wales_
+_Context: American Civil Liberties Union, Amnesty International, Bradley Manning, State Department's, Wales_
 
 ### [UK prime minister David Cameron admits to students in Pakistan that Britain and its empire is to blame for many of the world's problems. ](/news/2011/04/7/uk-prime-minister-david-cameron-admits-to-students-in-pakistan-that-britain-and-its-empire-is-to-blame-for-many-of-the-world-s-problems.md)
 David Cameron has been criticised for being &ldquo;simplistic and trendy&rdquo; and for being &ldquo;more PC than PM&rdquo; for trying to apologise for Britain&rsquo;s imperial past.

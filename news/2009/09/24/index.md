@@ -10,7 +10,7 @@ _Context: G-20 Summit_
 _Context: Baghdad, al-Qaeda_
 
 ### [ India's Chandrayaan-1 probe discovers large amounts of water on the Moon. ](/news/2009/09/24/india-s-chandrayaan-1-probe-discovers-large-amounts-of-water-on-the-moon.md)
-_Context: Chandrayaan-1, India, moon_
+_Context: Chandrayaan-1, India, Moon_
 
 ### [ The United Nations Security Council, headed by world leaders, unanimously approve Resolution 1887 to prevent the proliferation of nuclear weapons. ](/news/2009/09/24/the-united-nations-security-council-headed-by-world-leaders-unanimously-approve-resolution-1887-to-prevent-the-proliferation-of-nuclear-w.md)
 The United Nations council unanimously passed a resolution aimed at shoring up commitment to limiting nuclear weapons.

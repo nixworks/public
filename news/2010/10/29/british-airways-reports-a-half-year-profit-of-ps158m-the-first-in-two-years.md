@@ -11,7 +11,7 @@ British Airways reports a profit of £158m, its first in two years, as the compa
 
 ### Related:
 
-1. [A United Kingdom court blocks a PS14 billion class action lawsuit against Mastercard. ](/news/2017/07/22/a-united-kingdom-court-blocks-a-aps14-billion-class-action-lawsuit-against-mastercard.md) _Context: PS_
+1. [A United Kingdom court blocks a PS14 billion class action lawsuit against MasterCard. ](/news/2017/07/22/a-united-kingdom-court-blocks-a-aps14-billion-class-action-lawsuit-against-mastercard.md) _Context: PS_
 2. [British Airways cancels all flights from Heathrow Airport and Gatwick Airport amid a "major IT system failure", that is causing severe disruption to flight operations worldwide. ](/news/2017/05/27/british-airways-cancels-all-flights-from-heathrow-airport-and-gatwick-airport-amid-a-major-it-system-failure-that-is-causing-severe-disru.md) _Context: British Airways_
 3. [A manuscript by the Austrian composer Gustav Mahler sells for about PS4.5 million at Sotheby's. ](/news/2016/11/30/a-manuscript-by-the-austrian-composer-gustav-mahler-sells-for-about-aps4-5-million-at-sothebyas.md) _Context: PS_
 4. [Following the June 23 Brexit vote, the exchange rate for the British pound reaches a 31-year low against the United States dollar. ](/news/2016/10/4/following-the-june-23-brexit-vote-the-exchange-rate-for-the-british-pound-reaches-a-31-year-low-against-the-united-states-dollar.md) _Context: PS_

@@ -25,7 +25,7 @@ _Context: Iran, White House, nuclear scientist_
 _Context: AWOL, Brandon Hughey, Canada, Iraq War, Jeremy Hinzman, Supreme Court of Canada, United States, asylum_
 
 ### [ Iraqi insurgency: The United States Army announces it has killed 25 insurgents in Taji, but the Taji Awakening Council says airstrikes killed 45 pro-U.S. fighters. ](/news/2007/11/15/iraqi-insurgency-the-united-states-army-announces-it-has-killed-25-insurgents-in-taji-but-the-taji-awakening-council-says-airstrikes-kill.md)
-_Context: Iraqi insurgency, Taji, Taji Awakening Council, United States, United States Army, airstrike_
+_Context: Iraqi insurgency, Taji, Taji Awakening Council, United States, United States soldiers, airstrike_
 
 ### [ A Saudi Arabian gang rape victim is sentenced to jail and 200 lashes for being in the car of an unrelated man. ](/news/2007/11/15/a-saudi-arabian-gang-rape-victim-is-sentenced-to-jail-and-200-lashes-for-being-in-the-car-of-an-unrelated-man.md)
 _Context: Saudi Arabia, gang rape, lashes_

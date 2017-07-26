@@ -16,7 +16,7 @@ Manama, Feb 24 (IANS) An umbrella group of seven main opposition parties in Bahr
 Katyushas cause extensive damage, are first Grad launch since Cast Lead; IAF strikes rocket launching cell in northern Gaza Strip.
 
 ### [''Rolling Stone Magazine'' alleges that United States Army Lieutenant General William B. Caldwell ordered a campaign of "psychological operations" to persuade influential people to continue support for the War in Afghanistan. ](/news/2011/02/24/rolling-stone-magazine-alleges-that-united-states-army-lieutenant-general-william-b-caldwell-ordered-a-campaign-of-psychological-opera.md)
-_Context: Rolling Stone Magazine, United States Army, War in Afghanistan (2001-present), William B. Caldwell, lieutenant general, psychological operations_
+_Context: Rolling Stone Magazine, United States soldiers, War in Afghanistan (2001-present), William B. Caldwell, lieutenant general, psychological operations_
 
 ### [The Superior Court in Riverside County, California, orders an urgent medical evaluation of US blues singer Etta James after concerns are raised about her health. ](/news/2011/02/24/the-superior-court-in-riverside-county-california-orders-an-urgent-medical-evaluation-of-us-blues-singer-etta-james-after-concerns-are-rai.md)
 _Context: Etta James, Riverside County, California, Superior Court, blues_

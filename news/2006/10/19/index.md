@@ -4,7 +4,7 @@
 _Context: 2005, Baghdad, Iraq, Mohammad Munaf, Royce Lamberth, U.S. federal court, United States, death penalty_
 
 ### [ U.S. Army Maj. Gen. William B. Caldwell IV states that Operation Together Forward, a coalition operation against the Iraqi insurgency in Baghdad, has not met expectations. ](/news/2006/10/19/u-s-army-maj-gen-william-b-caldwell-iv-states-that-operation-together-forward-a-coalition-operation-against-the-iraqi-insurgency-in-ba.md)
-_Context: Baghdad, Iraqi insurgency, Operation Together Forward, United States Army, William B. Caldwell IV, coalition operation_
+_Context: Baghdad, Iraqi insurgency, Operation Together Forward, United States soldiers, William B. Caldwell IV, coalition operation_
 
 ### [ Tan D. Nguyen, a Republican candidate for California's 47th congressional district in  Orange County, California, denies authorizing a letter warning Hispanic immigrants that they could go to jail or be deported if they vote next month, a mailing that prompted an investigation by the state government. ](/news/2006/10/19/tan-d-nguyen-a-republican-candidate-for-california-s-47th-congressional-district-in-orange-county-california-denies-authorizing-a-lett.md)
 _Context: California, California's 47th congressional district, Hispanic, Orange County, Republican, Tan D. Nguyen, state government_

@@ -22,7 +22,7 @@ _Context: Archibald Prize, Australia, Tim Storrier_
 Spain cuts 27bn euros ($36bn; £22.5bn) from its budget this year and freezes public sector salaries to try to address its &quot;extreme&quot; economic situation.
 
 ### [VISA and MasterCard warn banks across the United States about a "massive" breach of security with more than ten million credit card numbers potentially compromised. ](/news/2012/03/30/visa-and-mastercard-warn-banks-across-the-united-states-about-a-massive-breach-of-security-with-more-than-ten-million-credit-card-numbers.md)
-_Context: Mastercard, United States, VISA, payment cards_
+_Context: MasterCard, United States, VISA, payment cards_
 
 ### [The Mega Millions jackpot in the United States is up to $640 million, becoming the world's largest lottery jackpot. ](/news/2012/03/30/the-mega-millions-jackpot-in-the-united-states-is-up-to-640-million-becoming-the-world-s-largest-lottery-jackpot.md)
 World-record prize increases by $100 million hours before much-anticipated late-night drawing; Odds of winning 1 in 176 million

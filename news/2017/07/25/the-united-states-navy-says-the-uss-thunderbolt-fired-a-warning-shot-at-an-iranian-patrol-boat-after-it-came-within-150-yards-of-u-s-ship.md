@@ -1,6 +1,6 @@
 ### [2017-07-25](/news/2017/07/25/index.md)
 
-#  The United States Navy says the USS Thunderbolt fired a warning shot at an Iranian patrol boat after it came within 150 yards of U.S. ship. 
+# The United States Navy says the USS Thunderbolt fired a warning shot at an Iranian patrol boat after it came within 150 yards of U.S. ship. 
 
 A U.S. Navy ship fired multiple warning shots at an Iranian vessel in the Persian Gulf that came within 150 yards of the American ship, the Navy confirmed. The Islamic Revolutionary Guard Corps naval vessel was approaching the USS Thunderbolt at a high rate of speed and ignored warnings from the...
 

@@ -25,7 +25,7 @@ Former presidential hopeful charged with murder of boy.
 The FBI has announced that it will be investigating a hack that leaked celebrities&#x27;, including Jennifer Lawrence&#x27;s, private photos to the Web.
 
 ### [The impeachment cases against Benigno Aquino III are scrapped by the Philippine Congress, where his party currently holds the majority. ](/news/2014/09/2/the-impeachment-cases-against-benigno-aquino-iii-are-scrapped-by-the-philippine-congress-where-his-party-currently-holds-the-majority.md)
-_Context: Benigno "Noynoy" Aquino III, Congress, impeachment, party_
+_Context: Benigno "Noynoy" Aquino III, Congress of the Philippines, impeachment, party_
 
 ## [Previous Day...](/news/2014/09/1/index.md)
 
