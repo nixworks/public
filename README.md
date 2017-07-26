@@ -86,7 +86,7 @@ Officials said Sun Zhengcai, fired last month as party secretary of the city of 
 ### [Polish President Andrzej Duda announces he will veto two judicial reform bills   passed by Poland's parliament, which the European Commission said would result in sanctions, and  which have generated continuous demonstrations across the country.   The ruling Law and Justice Party needs to put together a three-fifths majority to override the veto. ](/news/2017/07/24/polish-president-andrzej-duda-announces-he-will-veto-two-judicial-reform-bills-passed-by-poland-s-parliament-which-the-european-commissio.md)
 The decision was a setback for the governing party, though a bill giving it more control over local courts was still set for approval.
 
-### [Brown University researchers discover that substantial amount of water may be present beneath the surface of the Moon. ](/news/2017/07/24/brown-university-researchers-discover-that-substantial-amount-of-water-may-be-present-beneath-the-surface-of-the-moon.md)
+### [Brown University researchers discover that a substantial amount of water may be present beneath the surface of the Moon. ](/news/2017/07/24/brown-university-researchers-discover-that-a-substantial-amount-of-water-may-be-present-beneath-the-surface-of-the-moon.md)
 Ancient volcanic deposits on the moon indicate the lunar interior has a substantial amount of water.
 
 ---
