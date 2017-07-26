@@ -3,7 +3,7 @@
 ### [The Israeli government says it will remove metal detectors and some cameras recently installed at the entrances to the Temple Mount in Jerusalem that resulted in a wave of protests and some deaths. Instead, less obtrusive surveillance means will be used. ](/news/2017/07/25/the-israeli-government-says-it-will-remove-metal-detectors-and-some-cameras-recently-installed-at-the-entrances-to-the-temple-mount-in-jerus.md)
 After days of violent protests and a diplomatic crisis with Jordan over the placement of metal detectors at the entrances to the Aqsa Compound, the Israeli government said it would remove them.
 
-### [Kurt Volker, U.S. special representative for Ukraine, says in a BBC interview that the White House is considering arming Ukrainian government forces fighting Pro-Russian militants with defensive weapons. ](/news/2017/07/25/kurt-volker-u-s-special-representative-for-ukraine-says-in-a-bbc-interview-that-the-white-house-is-considering-arming-ukrainian-governmen.md)
+### [Kurt Volker, U.S. special representative for Ukraine, says in a BBC News interview that the White House is considering arming Ukrainian government forces fighting Pro-Russian militants with defensive weapons. ](/news/2017/07/25/kurt-volker-u-s-special-representative-for-ukraine-says-in-a-bbc-news-interview-that-the-white-house-is-considering-arming-ukrainian-gove.md)
 Washington is reviewing whether to arm those fighting Russian-backed rebels, says a new envoy.
 
 ### [Amid a public backlash, Microsoft reneges on its decision to end its Paint program and states that it will be placed on its app store rather than bundled with future editions of Windows. ](/news/2017/07/25/amid-a-public-backlash-microsoft-reneges-on-its-decision-to-end-its-paint-program-and-states-that-it-will-be-placed-on-its-app-store-rather.md)
@@ -14,6 +14,9 @@ The agreement comes as upscale American brands grapple with plummeting sales and
 
 ### [Adobe Systems announces it will stop updating and distributing its multimedia software platform Flash by the end of 2020. ](/news/2017/07/25/adobe-systems-announces-it-will-stop-updating-and-distributing-its-multimedia-software-platform-flash-by-the-end-of-2020.md)
 Adobe said it plans to stop updating and distributing its Flash Player by the end of 2020.
+
+### [Following a similar move in France, the United Kingdom is to ban the sale of petrol and diesel cars by 2040 in order to reduce air pollution. A new tax will also be levied on diesel car drivers in 2020. ](/news/2017/07/25/following-a-similar-move-in-france-the-united-kingdom-is-to-ban-the-sale-of-petrol-and-diesel-cars-by-2040-in-order-to-reduce-air-pollution.md)
+The sale of petrol and diesel cars will end in 2040 - with a new tax on diesel drivers from 2020.
 
 ### [2017 heat wave in EuropeFirefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/2017-heat-wave-in-europepfirefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md)
 Hundreds&#x20;of&#x20;firefighters&#x20;were&#x20;battling&#x20;blazes&#x20;across&#x20;southern&#x20;France&#x20;on&#x20;Monday,&#x20;with&#x20;one&#x20;inferno&#x20;spreading&#x20;across&#x20;900&#x20;hectares&#x20;of&#x20;forest&#x20;and&#x20;threatening&#x20;homes&#x20;on&#x20;the&#x20;island&#x20;of&#x20;Corsica,&#x20;emergency&#x20;services&#x20;said.
