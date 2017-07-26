@@ -27,7 +27,7 @@ The brains of 99 percent of former National Football League players studied show
 ### [Jordanian authorities release a video of a Jordanian Air Force sergeant shooting United States soldiers. ](/news/2017/07/25/jordanian-authorities-release-a-video-of-a-jordanian-air-force-sergeant-shooting-united-states-soldiers.md)
 Newly released footage of a gunfight that left three Americans dead in November shows a deliberate attack that was initially explained as a mistake.
 
-### [The United States Navy says the USS ''Thunderbolt'' fired a warning shot at an Iranian patrol boat after it came within 150 yards of U.S. ship. ](/news/2017/07/25/the-united-states-navy-says-the-uss-thunderbolt-fired-a-warning-shot-at-an-iranian-patrol-boat-after-it-came-within-150-yards-of-u-s-sh.md)
+### [The United States Navy says the USS ''Thunderbolt'' fired a warning shot at an Iranian patrol boat after it came within 150 yards of the U.S. ship. ](/news/2017/07/25/the-united-states-navy-says-the-uss-thunderbolt-fired-a-warning-shot-at-an-iranian-patrol-boat-after-it-came-within-150-yards-of-the-u-s.md)
 A U.S. Navy ship fired multiple warning shots at an Iranian vessel in the Persian Gulf that came within 150 yards of the American ship, the Navy confirmed. The Islamic Revolutionary Guard Corps naval vessel was approaching the USS Thunderbolt at a high rate of speed and ignored warnings from the...
 
 ### [The U.S. House of Representatives votes in favor of economic sanctions against Russia for its interference in the 2016 U.S. election, and against Iran and North Korea for their weapons programs. ](/news/2017/07/25/the-u-s-house-of-representatives-votes-in-favor-of-economic-sanctions-against-russia-for-its-interference-in-the-2016-u-s-election-and-ag.md)

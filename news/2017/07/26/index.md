@@ -1,6 +1,6 @@
 ## [2017-07-26](/news/2017/07/26/index.md)
 
-### [According to the Defence Ministry, between 26 and 30 military personnel are killed and over 80 Taliban militants have either died or been wounded amid intense fighting at a military base in Kandahar Province. ](/news/2017/07/26/according-to-the-defence-ministry-between-26-and-30-military-personnel-are-killed-and-over-80-taliban-militants-have-either-died-or-been-wo.md)
+### [According to the Defence Ministry, between 26 and 30 military personnel are dead and over 80 Taliban militants have been either killed or wounded amid intense fighting at a military base in Kandahar Province. ](/news/2017/07/26/according-to-the-defence-ministry-between-26-and-30-military-personnel-are-dead-and-over-80-taliban-militants-have-been-either-killed-or-wo.md)
 _Context: Defence Ministry, Kandahar Province, Taliban, War in Afghanistan, military personnel_
 
 ### [A U.N. peacekeeping helicopter crashes during a mission in northern Mali, resulting in the death of two German pilots within. ](/news/2017/07/26/a-u-n-peacekeeping-helicopter-crashes-during-a-mission-in-northern-mali-resulting-in-the-death-of-two-german-pilots-within.md)
