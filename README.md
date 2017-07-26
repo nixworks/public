@@ -9,7 +9,7 @@ Two German army pilots have died after their helicopter crashed near Gao, easter
 ### [Wildfires prompt the evacuation of 12,000 people along the French Riviera, while more than 4,000 firefighters and French Armed Forces personnel backed by 19 water-bomber planes are mobilised to extinguish the flames. ](/news/2017/07/26/wildfires-prompt-the-evacuation-of-12-000-people-along-the-french-riviera-while-more-than-4-000-firefighters-and-french-armed-forces-person.md)
 Wildfires also devouring swaths of forests in Corsica, Portugal, Italy and Albania
 
-### [United States president Donald Trump tweets that transgender Americans will not be allowed to serve "in any capacity" in the Military of the United States. ](/news/2017/07/26/united-states-president-donald-trump-tweets-that-transgender-americans-will-not-be-allowed-to-serve-in-any-capacity-in-the-military-of-the.md)
+### [United States President Donald Trump tweets that transgender Americans will not be allowed to serve "in any capacity" in the United States Armed Forces. ](/news/2017/07/26/united-states-president-donald-trump-tweets-that-transgender-americans-will-not-be-allowed-to-serve-in-any-capacity-in-the-united-states-a.md)
 “....Transgender individuals to serve in any capacity in the U.S. Military. Our military must be focused on decisive and overwhelming.....”
 
 ## Opinion
@@ -40,9 +40,6 @@ The sale of petrol and diesel cars will end in 2040 - with a new tax on diesel d
 
 ### [2017 heat wave in EuropeFirefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/2017-heat-wave-in-europepfirefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md)
 Hundreds&#x20;of&#x20;firefighters&#x20;were&#x20;battling&#x20;blazes&#x20;across&#x20;southern&#x20;France&#x20;on&#x20;Monday,&#x20;with&#x20;one&#x20;inferno&#x20;spreading&#x20;across&#x20;900&#x20;hectares&#x20;of&#x20;forest&#x20;and&#x20;threatening&#x20;homes&#x20;on&#x20;the&#x20;island&#x20;of&#x20;Corsica,&#x20;emergency&#x20;services&#x20;said.
-
-### [A report by Human Rights Watch and interACT Advocates for Intersex Youth calls for a U.S. moratorium on all surgical procedures on intersex children because they are medically unnecessary and can scar young patients for life. ](/news/2017/07/25/a-report-by-human-rights-watch-and-interact-advocates-for-intersex-youth-calls-for-a-u-s-moratorium-on-all-surgical-procedures-on-intersex.md)
-By Sebastien MaloNEW YORK (Thomson Reuters Foundation) - Genital surgeryshould be banned on children whose sex characteristics areambiguous because
 
 ### [A study, published in the ''Journal of the American Medical Association'', finds that 99 percent of the brains donated for scientific research by deceased National Football League players show signs of chronic traumatic encephalopathy (CTE), the disease identified in autopsies of numerous NFL players who have committed suicide, and the subject of the 2015 movie ''Concussion''. ](/news/2017/07/25/a-study-published-in-the-journal-of-the-american-medical-association-finds-that-99-percent-of-the-brains-donated-for-scientific-resear.md)
 The brains of 99 percent of former National Football League players studied showed signs of a disease linked to repeated hits to the head that can lead to aggression and dementia, according to research published in a medical journal on Tuesday.
