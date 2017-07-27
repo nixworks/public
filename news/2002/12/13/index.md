@@ -4,7 +4,7 @@
 _Context: Bernard Francis Law, Holy See, Pope, Pope John Paul II, diocese, priest, sexual relations_
 
 ### [US Senate majority leader Trent Lott apologizes on television amid growing outcry for his resignation from both ends of the political spectrum for comments made at Senator Strom Thurmond's 100th birthday party which seemed to support Thurmond's 1948 segregationist presidential campaign platform. ](/news/2002/12/13/us-senate-majority-leader-trent-lott-apologizes-on-television-amid-growing-outcry-for-his-resignation-from-both-ends-of-the-political-spectr.md)
-_Context: Senate, Strom Thurmond, Trent Lott, segregationist_
+_Context: Strom Thurmond, Trent Lott, United States Senate, segregationist_
 
 ### [The Geminid meteor shower peaks tonight. Best viewing is between midnight and dawn.](/news/2002/12/13/the-geminid-meteor-shower-peaks-tonight-best-viewing-is-between-midnight-and-dawn.md)
 _Context: Geminids_

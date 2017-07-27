@@ -16,7 +16,7 @@ _Context: Ahmad Sa'adat, Israel, Israeli-Palestinian conflict, Jericho, Palestin
 _Context: Amsterdam, Deutsche Borse, Euronext NV, London Stock Exchange, Nasdaq, Paris_
 
 ### [ At least seven people have died in wildfires in the U.S. state of Texas which have burned 1,000&nbsp;mi<sup>2</sup> (2500&nbsp;km<sup>2</sup>), forcing 1,900 people to evacuate. ](/news/2006/03/14/at-least-seven-people-have-died-in-wildfires-in-the-u-s-state-of-texas-which-have-burned-1-000-nbsp-mi2-2500-nbsp-km2-forcing-1-900-peo.md)
-_Context: Texas, wildfire_
+_Context: Texas, Wildfire_
 
 ### [ In London, six men taking part in a clinical trial for a new monoclonal antibody anti-inflammatory drug, TGN1412, are placed in intensive care, some in a life-threatening condition, after suffering adverse side-effects. ](/news/2006/03/14/in-london-six-men-taking-part-in-a-clinical-trial-for-a-new-monoclonal-antibody-anti-inflammatory-drug-tgn1412-are-placed-in-intensive-c.md)
 _Context: London, TGN1412, clinical trial, intensive care, monoclonal antibody_

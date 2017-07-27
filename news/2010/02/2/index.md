@@ -4,7 +4,7 @@
 _Context: Russia, Ukraine, espionage_
 
 ### [A hearing whether to repeal the Don't Ask, Don't Tell policy is held in the United States allowing the possibility of openly gay people to become active-duty members of the United States armed forces. ([http://news.bbc.co.uk/2/hi/americas/8494369.stm BBC]) ](/news/2010/02/2/a-hearing-whether-to-repeal-the-don-t-ask-don-t-tell-policy-is-held-in-the-united-states-allowing-the-possibility-of-openly-gay-people-to-b.md)
-_Context: United States, United States military, don't ask, don't tell, openly gay people to become active-duty members_
+_Context: United States, United States Armed Forces, don't ask, don't tell, openly gay people to become active-duty members_
 
 ### [The World Food Programme announces the number of hungry people in Sudan has quadrupled since August 2009 to 4.3 million. ](/news/2010/02/2/the-world-food-programme-announces-the-number-of-hungry-people-in-sudan-has-quadrupled-since-august-2009-to-4-3-million.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
@@ -25,7 +25,7 @@ _Context: Finance Minister of Germany, Swiss Bank, Wolfgang Schaeuble, euros, ta
 _Context: 1943, 82nd Academy Awards, Academy Award for Best Picture, Avatar, The Hurt Locker_
 
 ### [Paul Volcker testifies before the Banking Committee of the United States Senate about the so-called "Volcker rule," an administration proposal to separate banks from hedge funds and have them close down their risk-taking prop desks. ](/news/2010/02/2/paul-volcker-testifies-before-the-banking-committee-of-the-united-states-senate-about-the-so-called-volcker-rule-an-administration-propos.md)
-_Context: Paul Volcker, Senate, United States Senate Committee on Banking, Housing, and Urban Affairs, hedge funds, prop desks_
+_Context: Paul Volcker, United States Senate, United States Senate Committee on Banking, Housing, and Urban Affairs, hedge funds, prop desks_
 
 ## [Previous Day...](/news/2010/02/1/index.md)
 

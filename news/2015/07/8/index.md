@@ -34,7 +34,7 @@ _Context: 2015 Pacific typhoon season, Philippine_
 Russia vetoed a United Nations Security Council resolution on Wednesday that would have condemned the Srebrenica massacre as a genocide to mark the 20th anniversary of the killing of 8,000 Muslim men and boys.
 
 ### [Tens of thousands of people are being evacuated from western Canada as firefighters continue to battle wildfires in Saskatchewan, Alberta and British Columbia. ](/news/2015/07/8/tens-of-thousands-of-people-are-being-evacuated-from-western-canada-as-firefighters-continue-to-battle-wildfires-in-saskatchewan-alberta-an.md)
-_Context: Alberta, British Columbia, Canada, Saskatchewan, wildfire_
+_Context: Alberta, British Columbia, Canada, Saskatchewan, Wildfire_
 
 ### [Malaysian police raid the offices of government owned by 1Malaysia Development Berhad in relation to a corruption scandal. ](/news/2015/07/8/malaysian-police-raid-the-offices-of-government-owned-by-1malaysia-development-berhad-in-relation-to-a-corruption-scandal.md)
 _Context: 1Malaysia Development Berhad scandal, Malaysian police_

@@ -10,7 +10,7 @@ _Context: Munich Conference on Security Policy, President of Russia, Russia, Uni
 _Context: Ali Mohammed Ghedi, Djibouti, Islamic Courts Union, Ismail Qasim Naji, Kenya, Oman, Prime Minister of Somalia, Somali People's Resistance Movement, Somalia, Transitional Federal Government, Yemen's, insurgency, two years of helping, underground_
 
 ### [ United States presidential election, 2008: Senator Barack Obama (D-IL) officially announces his candidacy for president during a speech at the Old State Capitol in Springfield, Illinois. ](/news/2007/02/10/united-states-presidential-election-2008-senator-barack-obama-d-il-officially-announces-his-candidacy-for-president-during-a-speech-at.md)
-_Context: 2008, Barack Obama, Democratic, Illinois, Old State Capitol, President of the United States, Senate, Springfield, Illinois_
+_Context: 2008, Barack Obama, Democratic, Illinois, Old State Capitol, President of the United States, Springfield, Illinois, United States Senate_
 
 ## [Previous Day...](/news/2007/02/9/index.md)
 

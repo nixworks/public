@@ -1,7 +1,7 @@
 ## [2008-06-12](/news/2008/06/12/index.md)
 
 ### [ Wildfires in northern California lead to the evacuation of residents in Paradise, California and Bonny Doon, California. ](/news/2008/06/12/wildfires-in-northern-california-lead-to-the-evacuation-of-residents-in-paradise-california-and-bonny-doon-california.md)
-_Context: Bonny Doon, California, California, Paradise, California, wildfire_
+_Context: Bonny Doon, California, California, Paradise, California, Wildfire_
 
 ### [ Ecuadorean police arrest four men including three Colombians on suspicion of plotting an assassination of the President of Ecuador Rafael Correa. ](/news/2008/06/12/ecuadorean-police-arrest-four-men-including-three-colombians-on-suspicion-of-plotting-an-assassination-of-the-president-of-ecuador-rafael-c.md)
 _Context: Colombia, Ecuador, President, Rafael Correa_

@@ -13,7 +13,7 @@ Islamabad, Nov 19 (IANS) At least three suspected militants were killed in a US 
 Israeli warplanes raided at leasttwo targets in the Gaza Strip on Friday, Palestinian witnessesand Hamas officials said.
 
 ### [The U.S. military is sending M1 Abrams tanks to Afghanistan for the first time in the nine-year  war in Afghanistan. ](/news/2010/11/19/the-u-s-military-is-sending-m1-abrams-tanks-to-afghanistan-for-the-first-time-in-the-nine-year-war-in-afghanistan.md)
-_Context: Afghanistan, M1 Abrams tanks, United States military, War in Afghanistan (2001-present)_
+_Context: Afghanistan, M1 Abrams tanks, United States Armed Forces, War in Afghanistan (2001-present)_
 
 ### [Germany says the laptop bag containing an explosive simulation training device found at Namibia's main airport during loading of a flight to Munich was part of a security test, a day after German Interior Minister Thomas de Maiziere issued a warning of possible terror attacks next week. ](/news/2010/11/19/germany-says-the-laptop-bag-containing-an-explosive-simulation-training-device-found-at-namibia-s-main-airport-during-loading-of-a-flight-to.md)
 A dummy bomb that sparked an international terror alert was made by an 80-year-old Calif. grandmother and was discarded in an Namibia airport because of &quot;a boo boo,&quot; NBC reported.

@@ -22,7 +22,7 @@ _Context: Alejandro Garcia Padilla, Governor of Puerto Rico, Puerto Rican govern
 The American known as ‘Lungs With Legs’ was climbing the 8,013m Shishapangma in 1999 when he was hit by an avalanche
 
 ### [About 200 U.S. troops arrive in Moldova from Romania for planned military exercises with the Moldovan military which will last until May 20. ](/news/2016/05/2/about-200-u-s-troops-arrive-in-moldova-from-romania-for-planned-military-exercises-with-the-moldovan-military-which-will-last-until-may-20.md)
-_Context: Moldova, Moldova-United States relations, Moldovan military, Romania, United States military_
+_Context: Moldova, Moldova-United States relations, Moldovan military, Romania, United States Armed Forces_
 
 ### [United States Chief of Naval Operations Admiral John M. Richardson says Russian jets in the Baltics buzzing a U.S. military ship and planes are escalating tension between the two nations. Richardson added he doesn't think the Russians are trying to provoke an incident but these actions increase the chance of a "tactical miscalculation." ](/news/2016/05/2/united-states-chief-of-naval-operations-admiral-john-m-richardson-says-russian-jets-in-the-baltics-buzzing-a-u-s-military-ship-and-planes.md)
 Another close Russian fighter jet fly-by of a U.S. aircraft prompts plea from Admiral John M. Richardson

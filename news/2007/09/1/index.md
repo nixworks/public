@@ -46,7 +46,7 @@ _Context: Ayatollah Ali Khamenei, General, Iran, Iranian Revolutionary guards, M
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ Idaho Republican Senator Larry Craig resigns from the United States Senate effective 30 September following a guilty plea to a disorderly conduct charge following his arrest in a restroom at the Minneapolis-St. Paul International Airport. (Wikinews)](/news/2007/09/1/idaho-republican-senator-larry-craig-resigns-from-the-united-states-senate-effective-30-september-following-a-guilty-plea-to-a-disorderly-c.md)
-_Context: (Wikinews), Idaho, Larry Craig, Minneapolis-St. Paul International Airport, Republican, Senate, disorderly conduct_
+_Context: (Wikinews), Idaho, Larry Craig, Minneapolis-St. Paul International Airport, Republican, United States Senate, disorderly conduct_
 
 ### [ 2007 Ogaden conflict: International aid agency Medecins Sans Frontieres has accused Ethiopia of denying it access to the country's eastern Ogaden region.](/news/2007/09/1/2007-ogaden-conflict-international-aid-agency-ma-c-decins-sans-frontia-res-has-accused-ethiopia-of-denying-it-access-to-the-country-s-easter.md)
 _Context: 2007 Ogaden conflict, Ethiopia, Medecins Sans Frontieres, Ogaden_

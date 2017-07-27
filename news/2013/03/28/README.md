@@ -40,7 +40,7 @@ Russia’s unscheduled war games in the Black Sea that began on Thursday without
 Hundreds of rounds of ammunition, guns, knives and three samurai swords were among the items seized from the home of Adam Lanza in the days after the Sandy Hook tragedy, warrants released Thursday revealed.
 
 ### [Edwin Ernesto Rivera Gracias, a Salvadoran national recently added to the FBI's 10 Most Wanted Fugitives list for allegedly committing a 2011 murder in Colorado, surrenders after agreeing to face charges. ](/news/2013/03/28/edwin-ernesto-rivera-gracias-a-salvadoran-national-recently-added-to-the-fbi-s-10-most-wanted-fugitives-list-for-allegedly-committing-a-201.md)
-_Context: 10 Most Wanted Fugitives list, Colorado, El Salvador, Federal Bureau of Investigation_
+_Context: 10 Most Wanted Fugitives list, Colorado, El Salvador, FBI_
 
 ### [British-Italian fraudster Giovanni Di Stefano is sentenced to 14 years in jail for fraud. ](/news/2013/03/28/britishaitalian-fraudster-giovanni-di-stefano-is-sentenced-to-14-years-in-jail-for-fraud.md)
 A bogus lawyer who tricked people into thinking he was a bona fide legal professional is jailed for 14 years.

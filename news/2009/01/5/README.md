@@ -7,7 +7,7 @@ _Context: Barack Obama, CIA, Director of the CIA, Leon Panetta, President-elect,
 _Context: British Columbia, EnCana Corporation, fourth bomb, pipeline_
 
 ### [ Minnesota's State Canvassing Board certifies Democratic candidate Al Franken as the winner of the senatorial election recount. Republican Senator Norm Coleman, whose term officially expired January 3, intends to file a lawsuit challenging the decision. ](/news/2009/01/5/minnesota-s-state-canvassing-board-certifies-democratic-candidate-al-franken-as-the-winner-of-the-senatorial-election-recount-republican-s.md)
-_Context: Al Franken, Canvassing, Democratic, January 3, Minnesota, Norm Coleman, Republican, Senate, U.S. Senator_
+_Context: Al Franken, Canvassing, Democratic, January 3, Minnesota, Norm Coleman, Republican, U.S. Senator, United States Senate_
 
 ## [Previous Day...](/news/2009/01/4/index.md)
 

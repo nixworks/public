@@ -7,7 +7,7 @@ _Context: 2011 Syrian uprising, Syria_
 Tropical Storm Lee spawned tornado sightings and alerts from the Louisiana Gulf Coast to the Florida panhandle on Sunday, and at least one death was reported from a traffic accident related to the storm.
 
 ### [Wildfires continue to burn in the US state of Texas, destroying tens of thousands of acres of land. ](/news/2011/09/4/wildfires-continue-to-burn-in-the-us-state-of-texas-destroying-tens-of-thousands-of-acres-of-land.md)
-_Context: Texas, wildfire_
+_Context: Texas, Wildfire_
 
 ### [Voters in the German state of Mecklenburg-Vorpommern go to the polls for a state election with the Social Democrats and Greens performing well and the Christian Democrats and Free Democrats performing poorly. ](/news/2011/09/4/voters-in-the-german-state-of-mecklenburg-vorpommern-go-to-the-polls-for-a-state-election-with-the-social-democrats-and-greens-performing-we.md)
 _Context: CDU, Free Democrats, German, Greens, Landtag of Mecklenburg-Vorpommern, SPD, state election_

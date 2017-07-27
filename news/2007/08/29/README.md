@@ -34,7 +34,7 @@ A Darfur rebel group says it has seized control of a Sudanese army base in Kordo
 An internal investigation has found no evidence of heavy drinking or drunkenness among astronauts before space missions, NASA officials said.
 
 ### [ The United States Senate Republican Party leadership requests that Senator Larry Craig of Idaho stand aside from his Senate committees until the United States Senate Select Committee on Ethics makes a ruling on his situation. Senator Craig agrees. ](/news/2007/08/29/the-united-states-senate-republican-party-leadership-requests-that-senator-larry-craig-of-idaho-stand-aside-from-his-senate-committees-unti.md)
-_Context: Idaho, Larry Craig, Republican, Senate, Senate Select Committee on Ethics, Senate committees_
+_Context: Idaho, Larry Craig, Republican, Senate Select Committee on Ethics, Senate committees, United States Senate_
 
 ### [ John Holmes, the United Nations' emergency relief coordinator, warns that refugees of the Darfur conflict are arming themselves and may soon be able to defend themselves if the Sudanese government renews its attacks.  ](/news/2007/08/29/john-holmes-the-united-nations-emergency-relief-coordinator-warns-that-refugees-of-the-darfur-conflict-are-arming-themselves-and-may-soo.md)
 _Context: Darfur conflict, John Holmes, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, United Nations_

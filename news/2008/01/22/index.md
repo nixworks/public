@@ -10,7 +10,7 @@ _Context: Avian flu virus, India, Influenza A virus subtype H5N1, West Bengal_
 _Context: 2003 invasion of Iraq, Bush Administration, Iraq, ties to al Qaeda, weapons of mass destruction_
 
 ### [ U.S. presidential election, 2008: Former Tennessee Senator Fred Thompson withdraws his candidacy. ](/news/2008/01/22/u-s-presidential-election-2008-former-tennessee-senator-fred-thompson-withdraws-his-candidacy.md)
-_Context: 2008, Fred Thompson, Senate, Tennessee_
+_Context: 2008, Fred Thompson, Tennessee, United States Senate_
 
 ### [ The nominees of the 80th Academy Awards are announced. ](/news/2008/01/22/the-nominees-of-the-80th-academy-awards-are-announced.md)
 _Context: 80th Academy Awards_

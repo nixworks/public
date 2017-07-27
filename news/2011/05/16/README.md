@@ -46,7 +46,7 @@ _Context: France, crash of Air France Flight 447, flight recorders_
 _Context: Arkansas, Morrilton_
 
 ### [A wildfire destroys one third of the Canadian town of Slave Lake, Alberta. ](/news/2011/05/16/a-wildfire-destroys-one-third-of-the-canadian-town-of-slave-lake-alberta.md)
-_Context: Alberta, Canada, Slave Lake, wildfire_
+_Context: Alberta, Canada, Slave Lake, Wildfire_
 
 ### [The High Court of Kuala Lumpur rules that Malaysian Opposition Leader Anwar Ibrahim has a case to answer on sodomy charges. ](/news/2011/05/16/the-high-court-of-kuala-lumpur-rules-that-malaysian-opposition-leader-anwar-ibrahim-has-a-case-to-answer-on-sodomy-charges.md)
 A court in Malaysia rules there is enough credible evidence against opposition leader Anwar Ibrahim for his trial on a sodomy charge to proceed.

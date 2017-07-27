@@ -22,7 +22,7 @@ _Context: 2015 Moncks Corner mid-air collision, Cessna, F-16_
 Malaysian authorities said Tuesday they have ordered six bank accounts to be frozen in connection with an investigation into alleged fund transfers to the bank accounts of Prime Minister Najib Razak.
 
 ### [The FBI, U.S. Postal Service, and Indiana State Police seize electronics and other items from the Zionsville, Indiana home of Subway commercial spokesman Jared Fogle. The seizure comes two months after the former head of Fogle's foundation was arrested on child pornography charges. ](/news/2015/07/7/the-fbi-u-s-postal-service-and-indiana-state-police-seize-electronics-and-other-items-from-the-zionsville-indiana-home-of-subway-commerc.md)
-_Context: Federal Bureau of Investigation, Indiana State Police, Jared Fogle, U.S. Postal Service, Zionsville, Indiana, child pornography, restaurant_
+_Context: FBI, Indiana State Police, Jared Fogle, U.S. Postal Service, Zionsville, Indiana, child pornography, restaurant_
 
 ## [Previous Day...](/news/2015/07/6/index.md)
 

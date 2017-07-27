@@ -7,7 +7,7 @@ _Context: Damascus, Syrian uprising (2011-present), double bombing_
 _Context: El Maana, Mexican Drug War, Nuevo Laredo, much of the violence_
 
 ### [The United States Armed Forces are embroiled in controversy over a defunct officer training course called ''Perspectives on Islam and Islamic Radicalism'', which taught that Islam is America's irreconcilable enemy. ](/news/2012/05/11/the-united-states-armed-forces-are-embroiled-in-controversy-over-a-defunct-officer-training-course-called-perspectives-on-islam-and-islami.md)
-_Context: Islam, United States military_
+_Context: Islam, United States Armed Forces_
 
 ### [An American study reveals that North Koreans have an increasing level of informal access to foreign media, despite the intense censorship efforts of the North Korean government. ](/news/2012/05/11/an-american-study-reveals-that-north-koreans-have-an-increasing-level-of-informal-access-to-foreign-media-despite-the-intense-censorship-ef.md)
 North Koreans have more access than before to outside media, especially foreign and South Korean DVDs, says a US study.

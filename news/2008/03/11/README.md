@@ -1,7 +1,7 @@
 ## [2008-03-11](/news/2008/03/11/index.md)
 
 ### [ United States presidential election, 2008: Illinois Senator Barack Obama wins the Mississippi Democratic primary. ](/news/2008/03/11/united-states-presidential-election-2008-illinois-senator-barack-obama-wins-the-mississippi-democratic-primary.md)
-_Context: 2008, Barack Obama, Democratic primary, Illinois, Mississippi, Senate_
+_Context: 2008, Barack Obama, Democratic primary, Illinois, Mississippi, United States Senate_
 
 ### [ The United States House of Representatives fails to override President Bush's veto of a bill outlawing waterboarding and other interrogation techniques. ](/news/2008/03/11/the-united-states-house-of-representatives-fails-to-override-president-bush-s-veto-of-a-bill-outlawing-waterboarding-and-other-interrogatio.md)
 _Context: George W. Bush, President of the United States, United States, United States House of Representatives, interrogation, veto, veto override, waterboarding_

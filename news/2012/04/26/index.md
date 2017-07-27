@@ -10,7 +10,7 @@ _Context: 2011-2012 Bahraini uprising_
 Suicide bomber explodes car bomb outside office in capital; Separate attack targets another publication
 
 ### [Three members of the United States Armed Forces are killed in a bombing in eastern Afghanistan. ](/news/2012/04/26/three-members-of-the-united-states-armed-forces-are-killed-in-a-bombing-in-eastern-afghanistan.md)
-_Context: Afghanistan, United States military_
+_Context: Afghanistan, United States Armed Forces_
 
 ### [Indonesia suspends imports of beef from the United States after a dairy cow with mad cow disease is discovered in California. ](/news/2012/04/26/indonesia-suspends-imports-of-beef-from-the-united-states-after-a-dairy-cow-with-mad-cow-disease-is-discovered-in-california.md)
 _Context: California, Indonesia, United States, mad cow disease_

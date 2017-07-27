@@ -16,7 +16,7 @@ Exxon Mobil Corp and Rosneft signed an agreement to extract oil and gas from the
 _Context: AT&T, T-Mobile USA, United States Justice Department, reduced competition and higher prices_
 
 ### [Wildfires severely damage homes and infrastructure in the US states of Texas and Oklahoma. ](/news/2011/08/31/wildfires-severely-damage-homes-and-infrastructure-in-the-us-states-of-texas-and-oklahoma.md)
-_Context: Oklahoma!, Texas, wildfire_
+_Context: Oklahoma!, Texas, Wildfire_
 
 ### [Hurricane Katia becomes the second hurricane of the 2011 Atlantic hurricane season. ](/news/2011/08/31/hurricane-katia-becomes-the-second-hurricane-of-the-2011-atlantic-hurricane-season.md)
 _Context: Hurricane Katia, Hurricane Rina, hurricane_

@@ -17,7 +17,7 @@ _Context: 2007 Pacific hurricane season, Guaymas, Mexican state, Mexico, Sonora_
 British Prime Minister Gordon Brown launched an international initiative, which aims to improve healthcare and sweep away killer diseases in some of the world&#039;s poorest countries.
 
 ### [ Fred Thompson, a former U.S. Senator and actor, announces that he is a candidate for the Republican nomination in the 2008 presidential election. ](/news/2007/09/5/fred-thompson-a-former-u-s-senator-and-actor-announces-that-he-is-a-candidate-for-the-republican-nomination-in-the-2008-presidential-ele.md)
-_Context: 2008, Fred Thompson, Republican, Senate_
+_Context: 2008, Fred Thompson, Republican, United States Senate_
 
 ### [ Judge William Hoeveler places a stay on ex-Panamanian leader Manuel Noriega's extradition from the United States to France so that his defence can present a new appeal. ](/news/2007/09/5/judge-william-hoeveler-places-a-stay-on-ex-panamanian-leader-manuel-noriega-s-extradition-from-the-united-states-to-france-so-that-his-defe.md)
 _Context: France, Manuel Noriega, Panama, United States, William Hoeveler, extradited_

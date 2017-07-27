@@ -28,7 +28,7 @@ _Context: A/H1N1, United Kingdom, swine flu_
 Delegates from 190 nations reach a deal to curb climate change, including a fund to help developing countries, at UN talks in Cancun.
 
 ### [U.S. attorney-general Eric Holder tells a Muslim community group near San Francisco that FBI sting operations are "an essential law enforcement tool". ](/news/2010/12/11/u-s-attorney-general-eric-holder-tells-a-muslim-community-group-near-san-francisco-that-fbi-sting-operations-are-an-essential-law-enforcem.md)
-_Context: Eric Holder, Federal Bureau of Investigation, San Francisco, sting operation_
+_Context: Eric Holder, FBI, San Francisco, sting operation_
 
 ### [U.S. envoy to Afghanistan and Pakistan Richard Holbrooke is hospitalised in a critically ill state in Washington, D.C., after gasping at a meeting with Hillary Clinton. ](/news/2010/12/11/u-s-envoy-to-afghanistan-and-pakistan-richard-holbrooke-is-hospitalised-in-a-critically-ill-state-in-washington-d-c-after-gasping-at-a-m.md)
 Richard Holbrooke, the US envoy to Afghanistan and Pakistan, has been taken critically ill with a torn aorta, the US state department says.

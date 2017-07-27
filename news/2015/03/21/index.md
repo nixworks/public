@@ -1,7 +1,7 @@
 ## [2015-03-21](/news/2015/03/21/index.md)
 
 ### [The United States military evacuates the remaining 100 Special Operations forces members in the country due to the deteriorating security situation. ](/news/2015/03/21/the-united-states-military-evacuates-the-remaining-100-special-operations-forces-members-in-the-country-due-to-the-deteriorating-security-si.md)
-_Context: United States military, Yemeni Crisis, special forces_
+_Context: United States Armed Forces, Yemeni Crisis, special forces_
 
 ### [Both the Vikram Samwat (Year 2072) and the Shaka Samvat or Indian national calendar (Year 1933) occur today in the Hindu New Year (Ugadi) according to Indian calendars.date=March 2015](/news/2015/03/21/both-the-vikram-samwat-year-2072-and-the-shaka-samvat-or-indian-national-calendar-year-1933-occur-today-in-the-hindu-new-year-ugadi-ac.md)
 _Context: Hindu New Year, Indian calendar, Indian national calendar, Ugadi, Vikram Samwat_

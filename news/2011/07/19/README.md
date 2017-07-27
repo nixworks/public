@@ -28,7 +28,7 @@ _Context: Hurricane Jova, Mexico, hurricane_
 Indonesian President Susilo Bambang Yudhoyono urges Asian nations to agree on a code of conduct for disputes in the South China Sea, as a regional summit in Bali gets under way.
 
 ### [The Federal Bureau of Investigation (FBI) arrests an alleged agent of Pakistan's Inter-Services Intelligence in the US state of Virginia for making illegal campaign contributions. ](/news/2011/07/19/the-federal-bureau-of-investigation-fbi-arrests-an-alleged-agent-of-pakistan-s-inter-services-intelligence-in-the-us-state-of-virginia-for.md)
-_Context: Federal Bureau of Investigation, Inter-Services Intelligence, Pakistan, Virginia_
+_Context: FBI, Inter-Services Intelligence, Pakistan, Virginia_
 
 ### [Sixteen alleged members of the computer hacking group Anonymous are arrested in FBI raids across several states in the US. ](/news/2011/07/19/sixteen-alleged-members-of-the-computer-hacking-group-anonymous-are-arrested-in-fbi-raids-across-several-states-in-the-us.md)
 Fourteen people have been arrested as part of an ongoing operation targeting the notorious hacking collective known as Anonymous, the U.S. Department of Justice and the FBI said on Tuesday.
@@ -52,7 +52,7 @@ The balloting in the Green Bay area will be a first definitive outcome in the se
 An ambitious plan to slice $3.7 trillion from the federal budget over the next decade was gaining momentum in the Senate Tuesday.
 
 ### [The United States House of Representatives votes to approve the "Cut, Cap and Balance Act" by 234-190 but it is unlikely to pass the United States Senate. ](/news/2011/07/19/the-united-states-house-of-representatives-votes-to-approve-the-cut-cap-and-balance-act-by-234-190-but-it-is-unlikely-to-pass-the-united.md)
-_Context: Senate, United States House of Representatives_
+_Context: United States House of Representatives, United States Senate_
 
 ### [Pope Benedict XVI appoints Charles J. Chaput, the current Archbishop of Denver, as the head of the Roman Catholic Archdiocese of Philadelphia replacing Cardinal Justin Rigali. ](/news/2011/07/19/pope-benedict-xvi-appoints-charles-j-chaput-the-current-archbishop-of-denver-as-the-head-of-the-roman-catholic-archdiocese-of-philadelphi.md)
 _Context: Archbishop, Cardinal, Charles J. Chaput, Denver, Colorado, Justin Rigali, Pope Benedict XVI, Roman Catholic Archdiocese of Philadelphia_

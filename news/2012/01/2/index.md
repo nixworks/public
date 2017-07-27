@@ -13,7 +13,7 @@ _Context: Boko Haram, Christian, Islamist, Nigerian_
 Reports from the Ningxia region of northern China say several hundred Muslim villagers fought with riot police who tore down a mosque.
 
 ### [Firefighters in Chile battle three large wildfires, which have reportedly killed at least one person. ](/news/2012/01/2/firefighters-in-chile-battle-three-large-wildfires-which-have-reportedly-killed-at-least-one-person.md)
-_Context: Chile, wildfire_
+_Context: Chile, Wildfire_
 
 ### [India lodges a high-level protest with the government of China over the treatment of an Indian diplomat in a courtroom. ](/news/2012/01/2/india-lodges-a-high-level-protest-with-the-government-of-china-over-the-treatment-of-an-indian-diplomat-in-a-courtroom.md)
 _Context: China, India_

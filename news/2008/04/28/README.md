@@ -10,7 +10,7 @@ _Context: Texas Department of Family and Protective Services, YFZ Ranch, pregnan
 _Context: Canadian Auto Workers, General Motors, Michigan, Oshawa, Ontario, SUV, United Auto Workers, layoff, pickup truck_
 
 ### [ The United States Armed Forces says that three American soldiers have been killed in rocket or mortar attack in eastern Baghdad. ](/news/2008/04/28/the-united-states-armed-forces-says-that-three-american-soldiers-have-been-killed-in-rocket-or-mortar-attack-in-eastern-baghdad.md)
-_Context: Baghdad, Mortar, United States military, rocket, soldier_
+_Context: Baghdad, Mortar, United States Armed Forces, rocket, soldier_
 
 ### [ The Supreme Court of the United States issues a decision upholding an Indiana law requiring voters to provide photo identification. ](/news/2008/04/28/the-supreme-court-of-the-united-states-issues-a-decision-upholding-an-indiana-law-requiring-voters-to-provide-photo-identification.md)
 The Supreme Court on Monday upheld a tough state law requiring voters to show photo identification, a decision critics say could keep some blacks, poor people and other traditional Democratic supporters from voting in the November election.

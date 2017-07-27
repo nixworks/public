@@ -37,7 +37,7 @@ Afghan President Hamid Karzai, setting out his election manifesto, vowed on Frid
 _Context: Canada, Via Rail, strike_
 
 ### [ FBI and IRS agents arrests 44 people, including five rabbis, two New Jersey state legislators, and three mayors in Operation Bid Rig. ](/news/2009/07/24/fbi-and-irs-agents-arrests-44-people-including-five-rabbis-two-new-jersey-state-legislators-and-three-mayors-in-operation-bid-rig.md)
-_Context: Federal Bureau of Investigation, Internal Revenue Service, New Jersey, Operation Bid Rig, mayors, rabbi_
+_Context: FBI, Internal Revenue Service, New Jersey, Operation Bid Rig, mayors, rabbi_
 
 ### [ A group of 8 people were trapped for 8 hours in an Otis elevator in Toronto. A repair man who tried to fix the elevator fell 10 floors to his death. ](/news/2009/07/24/a-group-of-8-people-were-trapped-for-8-hours-in-an-otis-elevator-in-toronto-a-repair-man-who-tried-to-fix-the-elevator-fell-10-floors-to-h.md)
 A group of eight people were stuck in a sweltering elevator for about eight hours Wednesday, but their clausterphobic plight was minor in comparison to the tragedy that put them in that unenviable ...

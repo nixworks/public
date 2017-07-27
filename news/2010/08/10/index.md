@@ -28,7 +28,7 @@ _Context: North Pacific Ocean, Vanuatu, earthquake, tsunami_
 _Context: China, Gansu province, landslide_
 
 ### [A de Havilland Canada DHC-3 Otter seaplane crashes near Aleknagik, Alaska, killing five people, including former U.S. Senator Ted Stevens. Former NASA Administrator Sean O'Keefe and O'Keefe's son were aboard the plane, but survived. ](/news/2010/08/10/a-de-havilland-canada-dhc-3-otter-seaplane-crashes-near-aleknagik-alaska-killing-five-people-including-former-u-s-senator-ted-stevens-f.md)
-_Context: Administrator, Aleknagik, NASA, Sean O'Keefe, Senate, Ted Stevens, crashes, de Havilland Canada DHC-3 Otter, seaplane_
+_Context: Administrator, Aleknagik, NASA, Sean O'Keefe, Ted Stevens, United States Senate, crashes, de Havilland Canada DHC-3 Otter, seaplane_
 
 ### [The United States defends its decision to appoint as Venezuelan ambassador Larry Palmer, who has expressed negative views of the country in the past, including insinuating that it has ties with Colombian rebels. ](/news/2010/08/10/the-united-states-defends-its-decision-to-appoint-as-venezuelan-ambassador-larry-palmer-who-has-expressed-negative-views-of-the-country-in.md)
 State Department says Larry Palmer remains nominee for US ambassador to Caracas.
@@ -37,7 +37,7 @@ State Department says Larry Palmer remains nominee for US ambassador to Caracas.
 Japan apologises to South Korea for colonising the peninsula and promises to return cultural relics.
 
 ### [Iran digs mass graves in Khuzestan province, using psychological warfare in preparation for an invasion by the United States armed forces after the United Nations Security Council Resolution 1929, and warns that Iran will attack American bases in the Middle East if American forces attack. ](/news/2010/08/10/iran-digs-mass-graves-in-khuzestan-province-using-psychological-warfare-in-preparation-for-an-invasion-by-the-united-states-armed-forces-af.md)
-_Context: Iran, Khuzestan, United States military, ban on ballistic missile tests, mass grave, psychological warfare_
+_Context: Iran, Khuzestan, United States Armed Forces, ban on ballistic missile tests, mass grave, psychological warfare_
 
 ### [The United States convicts Noshir Gowadia, a former engineer who allegedly sold secrets to China, and who now faces life imprisonment. ](/news/2010/08/10/the-united-states-convicts-noshir-gowadia-a-former-engineer-who-allegedly-sold-secrets-to-china-and-who-now-faces-life-imprisonment.md)
 A US engineer of Indian origin is convicted of selling military secrets about the B-2 bomber to China.

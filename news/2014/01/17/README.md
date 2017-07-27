@@ -28,7 +28,7 @@ _Context: Uganda, Yoweri Museveni, homosexuality_
 A fragment of bone unearthed in 1999 could be the remains of King Alfred the Great or his son Edward the Elder, experts say.
 
 ### [Bushfires in the Australian state of Victoria claim at least one life with towns in the Grampians National Park region evacuated. ](/news/2014/01/17/bushfires-in-the-australian-state-of-victoria-claim-at-least-one-life-with-towns-in-the-grampians-national-park-region-evacuated.md)
-_Context: Australia, Grampians National Park, Victoria, wildfire_
+_Context: Australia, Grampians National Park, Victoria, Wildfire_
 
 ### [Police in Glendora, California arrest three men suspected of starting the Colby Fire burning in the San Gabriel Mountains. ](/news/2014/01/17/police-in-glendora-california-arrest-three-men-suspected-of-starting-the-colby-fire-burning-in-the-san-gabriel-mountains.md)
 Arson investigators were at the scene of a wildfire near Los Angeles that exploded in size Thursday to more than 1,700 acres and destroyed at least two homes, authorities said.

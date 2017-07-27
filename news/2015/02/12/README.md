@@ -19,7 +19,7 @@ Expedia announced Thursday that it would buy rival online travel site Orbitz for
 Six inmates who held a warden and guard hostage at a prison in Kaohsiung, Taiwan for 14 hours have killed themselves, says the justice ministry.
 
 ### [The FBI launches a hate crime investigation into the February 11 killing of three Muslim students in Chapel Hill, North Carolina. ](/news/2015/02/12/the-fbi-launches-a-hate-crime-investigation-into-the-february-11-killing-of-three-muslim-students-in-chapel-hill-north-carolina.md)
-_Context: Chapel Hill, North Carolina, Federal Bureau of Investigation, Muslim, hate crime_
+_Context: Chapel Hill, North Carolina, FBI, Muslim, hate crime_
 
 ### [The US Senate confirms Ashton Carter as the 25th Secretary of Defense. ](/news/2015/02/12/the-us-senate-confirms-ashton-carter-as-the-25th-secretary-of-defense.md)
 Senate set to confirm Carter as Defense secretary

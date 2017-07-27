@@ -49,7 +49,7 @@ An internet blogger is jailed for 12 years after admitting soliciting the murder
 A federal appeals court ruled on Friday that genes can be patented, overturning a lower court decision that had shocked the biotechnology industry.
 
 ### [The United States House of Representatives votes to increase the debt ceiling but the Senate rejects it. ](/news/2011/07/29/the-united-states-house-of-representatives-votes-to-increase-the-debt-ceiling-but-the-senate-rejects-it.md)
-_Context:  debt, Senate, United States House of Representatives_
+_Context:  debt, United States House of Representatives, United States Senate_
 
 ### [The Prime Minister of Spain Jose Luis Rodriguez Zapatero calls an early election for November 20 rather than 2012. ](/news/2011/07/29/the-prime-minister-of-spain-josa-c-luis-rodraguez-zapatero-calls-an-early-election-for-november-20-rather-than-2012.md)
 _Context: Jose Luis Rodriguez Zapatero, Prime Minister_

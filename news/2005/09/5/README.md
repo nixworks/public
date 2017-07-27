@@ -10,7 +10,7 @@ _Context: 2005 elections, EPRDF, Ethiopia_
 _Context: Japan, Kyushu, Typhoon Nabi_
 
 ### [ Hurricane Katrina: Senator and former First Lady Hillary Clinton calls for a "9/11 Style Inquiry" into the U.S. federal government's response to the Hurricane. ](/news/2005/09/5/hurricane-katrina-senator-and-former-first-lady-hillary-clinton-calls-for-a-9-11-style-inquiry-into-the-u-s-federal-government-s-respon.md)
-_Context: First Lady, Government of the United States, Hillary Clinton, Hurricane Katrina, Senate_
+_Context: First Lady, Government of the United States, Hillary Clinton, Hurricane Katrina, United States Senate_
 
 ### [ A cable car crash at Solden, Otztal, in the Austrian Alps leaves nine people dead when a helicopter carrying construction materials dropped concrete onto the cable. ](/news/2005/09/5/a-cable-car-crash-at-saplden-atztal-in-the-austrian-alps-leaves-nine-people-dead-when-a-helicopter-carrying-construction-materials-dropp.md)
 _Context: Alps, Austria, Otztal, Solden, cable car_

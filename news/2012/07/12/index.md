@@ -37,7 +37,7 @@ _Context: Japan_
 After what some described as a shambolic trial, two hotel workers are found not guilty of murdering Michaela McAreavey.
 
 ### [Former FBI Director Louis Freeh's report into the Penn State sex abuse scandal is released, alleging that late head football coach Joe Paterno and other school officials covered up child sexual abuse by former assistant coach Jerry Sandusky. ](/news/2012/07/12/former-fbi-director-louis-freeh-s-report-into-the-penn-state-sex-abuse-scandal-is-released-alleging-that-late-head-football-coach-joe-pater.md)
-_Context: FBI Director, Federal Bureau of Investigation, Jerry Sandusky, Joe Paterno, Louis Freeh, Penn State sex abuse scandal_
+_Context: FBI, FBI Director, Jerry Sandusky, Joe Paterno, Louis Freeh, Penn State sex abuse scandal_
 
 ### [A 38-year-old seller of antiquities attacks and beheads two people in the Chilean town of Lolol ](/news/2012/07/12/a-38-year-old-seller-of-antiquities-attacks-and-beheads-two-people-in-the-chilean-town-of-lolol.md)
 _Context: Lolol, attacks and beheads two people_

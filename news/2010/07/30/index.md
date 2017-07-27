@@ -19,7 +19,7 @@ Bridges and streets swept away in what is reported as worst flooding in 100 year
 Forest fires sweeping across eastern Russia have killed at least 25 people and the forced the evacuation of thousands in the hottest weather since records began 130 years ago.
 
 ### [A wildfire forces the evacuation of thousands of homes in Palmdale California, United States. ](/news/2010/07/30/a-wildfire-forces-the-evacuation-of-thousands-of-homes-in-palmdale-california-united-states.md)
-_Context: California, Palmdale, wildfire_
+_Context: California, Palmdale, Wildfire_
 
 ### [Multiple law-enforcement agencies seize a hoard of cannabis thought to be worth up to US$1.7&nbsp;billion in the Sierra Nevada in southern California, United States. ](/news/2010/07/30/multiple-law-enforcement-agencies-seize-a-hoard-of-cannabis-thought-to-be-worth-up-to-us-1-7-nbsp-billion-in-the-sierra-nevada-in-southern-c.md)
 Police in California seize $1.7bn worth of marijuana in the Sierra Nevada mountains.

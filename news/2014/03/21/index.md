@@ -7,7 +7,7 @@ _Context: Baghdad, Iraqi insurgency (post-U.S. withdrawal)_
 _Context: Tripoli, Lebanon_
 
 ### [Turkey restricts access to Twitter hours after the Prime Minister Recep Tayyip Erdogan threatens to "root out" the social network where politically sensitive documents had been published. ](/news/2014/03/21/turkey-restricts-access-to-twitter-hours-after-the-prime-minister-recep-tayyip-erdoaan-threatens-to-root-out-the-social-network-where-pol.md)
-_Context: Recep Tayyip Erdogan, Turkey, Turkish Prime Minister, Twitter_
+_Context: Recep Tayyip Erdogan, Turkey, Turkish Prime Minister, tweets_
 
 ### [2014 Crimean Crisis:The Russian Federation Council, the upper house of the Federal Assembly, approves the annexation of Crimea. ](/news/2014/03/21/2014-crimean-crisis-pthe-russian-federation-council-the-upper-house-of-the-federal-assembly-approves-the-annexation-of-crimea.md)
 MOSCOW (AP) — The upper house of the Russian parliament has approved Moscow&#x27;s annexation of Crimea.

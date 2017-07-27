@@ -1,7 +1,7 @@
 ## [2007-09-17](/news/2007/09/17/index.md)
 
 ### [ Andrew Meyer, a 21-year-old fourth-year undergraduate, is apprehended by five police officers and tasered while allegedly having interrupted a speech by U.S. Senator John Kerry.](/news/2007/09/17/andrew-meyer-a-21-year-old-fourth-year-undergraduate-is-apprehended-by-five-police-officers-and-tasered-while-allegedly-having-interrupte.md)
-_Context: John Kerry, Senate, apprehended by five police officers, tasered_
+_Context: John Kerry, United States Senate, apprehended by five police officers, tasered_
 
 ### [ Bernard Kouchner, the French Foreign Minister, warns of the possibility of war over Iran's nuclear program. ](/news/2007/09/17/bernard-kouchner-the-french-foreign-minister-warns-of-the-possibility-of-war-over-iran-s-nuclear-program.md)
 _Context: Bernard Kouchner, Minister of Foreign Affairs, nuclear scientist_

@@ -34,7 +34,7 @@ _Context: African National Congress, IFP, South Africa, Thulani Zulu, Zulu, driv
 _Context: Equatorial Guinea, South Africa, Zimbabwe, coup, mercenaries_
 
 ### [ FBI sends a special agent to Azerbaijan to help in the investigation of murder Elmar Huseynov. editor in chief of ''Monitor'' magazine. The magazine has often criticized the government of the country. ](/news/2005/03/3/fbi-sends-a-special-agent-to-azerbaijan-to-help-in-the-investigation-of-murder-elmar-huseynov-editor-in-chief-of-monitor-magazine-the.md)
-_Context: Azerbaijan, Elmar Huseynov, Federal Bureau of Investigation_
+_Context: Azerbaijan, Elmar Huseynov, FBI_
 
 ### [ World Trade Organization upheld a ruling that orders US to stop subsidies to its cotton farmers. ](/news/2005/03/3/world-trade-organization-upheld-a-ruling-that-orders-us-to-stop-subsidies-to-its-cotton-farmers.md)
 _Context:  subsidies, World Trade Organization, cotton_

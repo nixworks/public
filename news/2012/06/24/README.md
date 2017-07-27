@@ -19,7 +19,7 @@ _Context: Florida, Sarasota, Tropical Storm Debby_
 Rescue effort ends after refugee boat with 200 people capsized near Christmas Island, with more than 90 still missing.
 
 ### [Manitou Springs in the U.S. state of Colorado is evacuated due to a raging wildfire just three miles from the popular vacation town. ](/news/2012/06/24/manitou-springs-in-the-u-s-state-of-colorado-is-evacuated-due-to-a-raging-wildfire-just-three-miles-from-the-popular-vacation-town.md)
-_Context: Colorado, Manitou Springs, U.S. state, wildfire_
+_Context: Colorado, Manitou Springs, U.S. state, Wildfire_
 
 ### [The roof of the Algo Centre Mall in Elliot Lake, Ontario, Canada collapses killing at least one person and trapping several others in the debris. ](/news/2012/06/24/the-roof-of-the-algo-centre-mall-in-elliot-lake-ontario-canada-collapses-killing-at-least-one-person-and-trapping-several-others-in-the-de.md)
 Part of the roof of a shopping mall in Elliot Lake, Ont., has collapsed, apparently sending cars crashing through a gaping hole.

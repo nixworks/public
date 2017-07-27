@@ -16,7 +16,7 @@ _Context: American, Gore Vidal, pneumonia_
 Not the first time.
 
 ### [Following the @ reply and # hashtag, social media service Twitter introduces the $ symbol, a way for users to click on stock symbols and see related tweets. ](/news/2012/07/31/following-the-reply-and-hashtag-social-media-service-twitter-introduces-the-symbol-a-way-for-users-to-click-on-stock-symbols-and-see.md)
-_Context: Twitter, hashtag_
+_Context: hashtag, tweets_
 
 ### [German global financial services company Deutsche Bank announces plans to cut 1,900 jobs. ](/news/2012/07/31/german-global-financial-services-company-deutsche-bank-announces-plans-to-cut-1-900-jobs.md)
 _Context: Deutsche Bank_
@@ -25,7 +25,7 @@ _Context: Deutsche Bank_
 Hundreds of millions are left without electricity in northern and eastern India, after a massive power cut that also cripples much of the transport system.
 
 ### [United States President Barack Obama announces additional sanctions against Iran for its nuclear program. ](/news/2012/07/31/united-states-president-barack-obama-announces-additional-sanctions-against-iran-for-its-nuclear-program.md)
-_Context: Barack Obama, Iran, against, nuclear scientist_
+_Context: Barack Obama, Iran, Iran, nuclear scientist_
 
 ### [Russian anti-corruption campaigner Alexei Navalny is charged with fraudulent conversion. ](/news/2012/07/31/russian-anti-corruption-campaigner-alexei-navalny-is-charged-with-fraudulent-conversion.md)
 Russian anti-corruption campaigner Alexei Navalny is charged with embezzlement in a case he describes as &quot;strange and absurd&quot;.

@@ -37,7 +37,7 @@ _Context: Japan, late 2000s recession, machine orders_
 _Context: Hawaii, North Carolina, U.S. state, Wilmington, digital television, media market, switch from analog_
 
 ### [ Despite the corruption scandal surrounding Illinois Governor Rod Blagojevich, the United States Senate confirms Roland Burris as a member. ](/news/2009/01/15/despite-the-corruption-scandal-surrounding-illinois-governor-rod-blagojevich-the-united-states-senate-confirms-roland-burris-as-a-member.md)
-_Context: Governor of Illinois, Illinois, Rod Blagojevich, Roland Burris, Senate, corruption_
+_Context: Governor of Illinois, Illinois, Rod Blagojevich, Roland Burris, United States Senate, corruption_
 
 ## [Previous Day...](/news/2009/01/14/index.md)
 

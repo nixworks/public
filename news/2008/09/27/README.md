@@ -7,7 +7,7 @@ _Context: Delhi, India, bomb blast_
 Tropical Storm Kyle strengthened into a hurricane on Saturday in the Atlantic Ocean off the northeast U.S. coast, the U.S. National Hurricane Center said.
 
 ### [ The United States Senate passes a large spending bill including $25 billion in taxpayer subsidised loans for automakers and the end of offshore drilling bans. ](/news/2008/09/27/the-united-states-senate-passes-a-large-spending-bill-including-25-billion-in-taxpayer-subsidised-loans-for-automakers-and-the-end-of-offs.md)
-_Context: Senate, automaker, offshore_
+_Context: United States Senate, automaker, offshore_
 
 ### [ The People's Council of Turkmenistan, implementing changes approved in the Constitution, passes a vote to abolish itself and allow opposition parties. ](/news/2008/09/27/the-people-s-council-of-turkmenistan-implementing-changes-approved-in-the-constitution-passes-a-vote-to-abolish-itself-and-allow-oppositi.md)
 _Context: Constitution, People's Council, Turkmenistan_

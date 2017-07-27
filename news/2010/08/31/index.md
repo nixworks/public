@@ -10,7 +10,7 @@ Six women and two men have been killed in an attack on a bar in the Mexican reso
 Murderous terror attack on eve of peace talks: Four Israelis killed in West Bank shooting attack Tuesday evening; pregnant woman apparently among victims, officials say. Security forces nationwide ordered to go on high alert 
 
 ### [A roadside bomb kills 4 United States troops in eastern Afghanistan. ](/news/2010/08/31/a-roadside-bomb-kills-4-united-states-troops-in-eastern-afghanistan.md)
-_Context: Afghanistan, United States, United States military, bomb_
+_Context: Afghanistan, United States, United States Armed Forces, bomb_
 
 ### [An explosion occurs outside the head office of a government-run television station in Bangkok, Thailand. ](/news/2010/08/31/an-explosion-occurs-outside-the-head-office-of-a-government-run-television-station-in-bangkok-thailand.md)
 _Context: Bangkok, Thailand_

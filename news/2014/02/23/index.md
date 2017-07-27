@@ -7,7 +7,7 @@ _Context: Donetsk, Ukrainian Revolution of 2014, Viktor Yanukovych_
 A bomb killed two people and wounded at least 22 in a busy shopping district of the Thai capital on Sunday, hours after supporters of Thai Prime Minister Yingluck Shinawatra promised to get tough with demonstrators paralyzing parts of the city.
 
 ### [Taliban insurgency:The Taliban attack an Afghan Armed Forces base in Kunar province, killing 19 soldiers and kidnapping seven. ](/news/2014/02/23/taliban-insurgency-pthe-taliban-attack-an-afghan-armed-forces-base-in-kunar-province-killing-19-soldiers-and-kidnapping-seven.md)
-_Context: Afghan Armed Forces, Kunar Province, Taliban, Taliban insurgency_
+_Context: Kunar Province, Taliban, Taliban insurgency, military personnel_
 
 ### [Syrian Civil War:Seven people are killed and 50 wounded in a car bombing near a field hospital in northern Syria, close to the border with Turkey. ](/news/2014/02/23/syrian-civil-war-pseven-people-are-killed-and-50-wounded-in-a-car-bombing-near-a-field-hospital-in-northern-syria-close-to-the-border-with.md)
 Several people are reported killed by a bomb near a field hospital near the Turkish border, as a leading militant is killed in a separate attack in Aleppo.

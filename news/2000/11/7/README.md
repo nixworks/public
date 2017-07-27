@@ -7,7 +7,7 @@ _Context: Al Gore, Democratic, Florida, George W. Bush, Republican, U.S. preside
 _Context: Millennium Dome, Millennium Star_
 
 ### [ Hillary Clinton is elected to the United States Senate, becoming the first First Lady of the United States to win public office.](/news/2000/11/7/hillary-clinton-is-elected-to-the-united-states-senate-becoming-the-first-first-lady-of-the-united-states-to-win-public-office.md)
-_Context: First Lady, Hillary Clinton, Senate_
+_Context: First Lady, Hillary Clinton, United States Senate_
 
 ### ['''Died:''' Former Queen Ingrid of Sweden, 90; Chidambaram Subramaniam, 90, Indian statesman](/news/2000/11/7/died-former-queen-ingrid-of-sweden-90-chidambaram-subramaniam-90-indian-statesman.md)
 _Context: Chidambaram Subramaniam, Ingrid of Sweden_

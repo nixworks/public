@@ -4,7 +4,7 @@
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Twitter sets a modest-seeming goal of US$1.6 billion for its forthcoming initial public offering. ](/news/2013/10/24/twitter-sets-a-modest-seeming-goal-of-us-1-6-billion-for-its-forthcoming-initial-public-offering.md)
-_Context: IPO, Twitter_
+_Context: IPO, tweets_
 
 ### [China's Ministry of the Environment and Water Resources will send inspection teams to Chinese regional cities to inspect air quality following the 2013 Harbin smog incident. ](/news/2013/10/24/china-s-ministry-of-the-environment-and-water-resources-will-send-inspection-teams-to-chinese-regional-cities-to-inspect-air-quality-followi.md)
 CHINA-POLLUTION/:China to send air pollution inspection teams to provinces

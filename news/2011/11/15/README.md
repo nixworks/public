@@ -31,7 +31,7 @@ _Context: Freddie Pitcher, Nauru, President of Nauru, Sprent Dabwido, vote of no
 The judge said the demonstrators had not shown “that they have a First Amendment right” to camp in Zuccotti Park.
 
 ### [Negotiators from the United States Senate and House of Representatives reach a partial budget agreement. ](/news/2011/11/15/negotiators-from-the-united-states-senate-and-house-of-representatives-reach-a-partial-budget-agreement.md)
-_Context: Senate, United States House of Representatives_
+_Context: United States House of Representatives, United States Senate_
 
 ## [Previous Day...](/news/2011/11/14/index.md)
 

@@ -1,7 +1,7 @@
 ## [2015-04-6](/news/2015/04/6/index.md)
 
 ### [Twitter and YouTube are both inaccessible for hours in Turkey; part of a crack-down on social media by the government there. ](/news/2015/04/6/twitter-and-youtube-are-both-inaccessible-for-hours-in-turkey-part-of-a-crack-down-on-social-media-by-the-government-there.md)
-_Context: Turkey, Twitter, YouTube, social media_
+_Context: Turkey, YouTube, social media, tweets_
 
 ### [ In Fujian, Southeast China an explosion and fire at a paraxylene producing petrochemical plant by Dragon Aromatics occupied 430 firemen.  ](/news/2015/04/6/in-fujian-southeast-china-an-explosion-and-fire-at-a-paraxylene-producing-petrochemical-plant-by-dragon-aromatics-occupied-430-firemen.md)
 An explosion hit part of an oilstorage facility on Monday at Dragon Aromatics, an independentpetrochemical producer in eastern China, Xinhua reported.

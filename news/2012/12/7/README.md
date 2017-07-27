@@ -28,7 +28,7 @@ German business daily Financial Times Deutschland (FTD) bade farewell to its rea
 Google has rolled out a brand new feature for its Google+ social network today, which brings the ability to form groups based around a specific interest, organization, or passion.
 
 ### [Irish state broadcaster RTE is to provide staff training on what subjects are appropriate for discussion on social media sites such as Twitter following several controversies involving tweets from its employees. ](/news/2012/12/7/irish-state-broadcaster-rta-is-to-provide-staff-training-on-what-subjects-are-appropriate-for-discussion-on-social-media-sites-such-as-twit.md)
-_Context: Ireland, RTE, Twitter_
+_Context: Ireland, RTE, tweets_
 
 ### [At the 25th anniversary celebrations of Hamas in Gaza, Hamas leader in exile Khaled Mashal, who arrived in Gaza for the first time ever, declared in a speech he held at a mass rally that the Palestinian people will never compromise with Israel's existence and that the organization intends to gradually conquer the entire region which now includes both the State of Israel and the Palestinian territories, and would establish one Islamic state in that region. ](/news/2012/12/7/at-the-25th-anniversary-celebrations-of-hamas-in-gaza-hamas-leader-in-exile-khaled-mashal-who-arrived-in-gaza-for-the-first-time-ever-dec.md)
 Visiting leader Khaled Meshal used a Hamas anniversary rally to restate

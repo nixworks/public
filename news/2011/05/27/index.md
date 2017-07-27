@@ -25,7 +25,7 @@ _Context: Ed Miliband, Justine Thornton, Labour, Langar Hall, Nottinghamshire_
 India said on Friday it would give Tanzania $180 million to upgrade water supplies in the East African nation, and the two countries agreed to remove tax hurdles and boost bilateral trade.
 
 ### [A wildfire causes the evacuation of hundreds of homes in Lake Isabella, California. ](/news/2011/05/27/a-wildfire-causes-the-evacuation-of-hundreds-of-homes-in-lake-isabella-california.md)
-_Context: California, Lake Isabella, wildfire_
+_Context: California, Lake Isabella, Wildfire_
 
 ### [Bhutan's opposition leader Tshering Tobgay condemns the country's anti-smoking law as "utter madness" as three more people are jailed for possessing cigarettes. ](/news/2011/05/27/bhutan-s-opposition-leader-tshering-tobgay-condemns-the-country-s-anti-smoking-law-as-utter-madness-as-three-more-people-are-jailed-for-po.md)
 _Context: Bhutan, Tshering Tobgay, anti-smoking_

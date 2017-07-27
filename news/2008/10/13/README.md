@@ -4,7 +4,7 @@
 Last week’s stock sell-off gave way to a big rally as countries around the world took steps to ease the financial crisis.
 
 ### [  A second wildfire breaks out in the hills above Los Angeles' San Fernando Valley prompting mandatory evacuations. ](/news/2008/10/13/a-second-wildfire-breaks-out-in-the-hills-above-los-angeles-san-fernando-valley-prompting-mandatory-evacuations.md)
-_Context: Los Angeles, San Fernando Valley, Summer 2008 California wildfires, wildfire_
+_Context: Los Angeles, San Fernando Valley, Summer 2008 California wildfires, Wildfire_
 
 ### [ The United Kingdom House of Lords rejects the Counter-Terrorism Bill 2008 by 309 votes to 118. ](/news/2008/10/13/the-united-kingdom-house-of-lords-rejects-the-counter-terrorism-bill-2008-by-309-votes-to-118.md)
 The House of Lords firmly rejected a government proposal to tighten anti-terrorism laws on Monday, saying it would not support suspects being held for up to six weeks without charge.

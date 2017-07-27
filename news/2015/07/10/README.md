@@ -31,7 +31,7 @@ INDONESIA-VOLCANO/ (URGENT):Four Indonesian airports closed due to volcanic erup
 The ruling junta in the Southeast Asian country ordered 100 ethnic Uighur Muslims to return to China, where Washington says they &quot;could face harsh treatment and a lack of due process.&quot;
 
 ### [The Federal Bureau of Investigation admits that Dylann Roof, the suspect in the Charleston church shooting, should not have passed a background check to obtain a gun licence. ](/news/2015/07/10/the-federal-bureau-of-investigation-admits-that-dylann-roof-the-suspect-in-the-charleston-church-shooting-should-not-have-passed-a-backgro.md)
-_Context: Charleston church shooting, Dylann Roof, Federal Bureau of Investigation, background check_
+_Context: Charleston church shooting, Dylann Roof, FBI, background check_
 
 ### [Katherine Archuleta resigns as the director of the United States Office of Personnel Management following the hacking of 21.5 million data records. ](/news/2015/07/10/katherine-archuleta-resigns-as-the-director-of-the-united-states-office-of-personnel-management-following-the-hacking-of-21-5-million-data-r.md)
 _Context: Katherine Archuleta, Office of Personnel Management data breach, United States Office of Personnel Management_

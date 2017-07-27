@@ -19,7 +19,7 @@ _Context: Pakistan Taliban_
 _Context: Compostela Valley Province, Philippine, gold mine, landslide_
 
 ### [At least six firefighters die fighting wildfires in southern Chile with two badly burnt and one missing. ](/news/2012/01/5/at-least-six-firefighters-die-fighting-wildfires-in-southern-chile-with-two-badly-burnt-and-one-missing.md)
-_Context: Chile, wildfire_
+_Context: Chile, Wildfire_
 
 ### [An alleged North Korean spy is indicted in South Korea. ](/news/2012/01/5/an-alleged-north-korean-spy-is-indicted-in-south-korea.md)
 _Context: North Korea, South Korea_

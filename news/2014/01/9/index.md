@@ -31,7 +31,7 @@ _Context: 2014 Winter Olympics, Sochi, Stavropol, police officers_
 Venezuela says farewell to slain beauty queen
 
 ### [Insane Clown Posse sues the Federal Bureau of Investigation for accusing its fangroup, the Juggalos, of being a gang. ](/news/2014/01/9/insane-clown-posse-sues-the-federal-bureau-of-investigation-for-accusing-its-fangroup-the-juggalos-of-being-a-gang.md)
-_Context: Federal Bureau of Investigation, Insane Clown Posse, Juggalo, gang_
+_Context: FBI, Insane Clown Posse, Juggalo, gang_
 
 ### [Prime Minister of Tunisia Ali Larayedh steps down following renewed protests, paving the way for new elections, in accordance with an agreement between his Islamist Ennahda party, and secular opposition parties. ](/news/2014/01/9/prime-minister-of-tunisia-ali-larayedh-steps-down-following-renewed-protests-paving-the-way-for-new-elections-in-accordance-with-an-agreem.md)
 CAIRO -- Tunisia’s Islamist prime minister stepped down Thursday, upholding a pledge aimed at breaking a political stalemate and paving the way for new elections in the country where the Arab Spring began.

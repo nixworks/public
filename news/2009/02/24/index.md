@@ -34,7 +34,7 @@ Dublin&#39;s ISEQ index hit a 14-year low this morning, as markets around the wo
 Gardaí attached to the ODCE have ended their search at the Anglo Irish Bank headquarters in Dublin.
 
 ### [ Iraq's Police Service kills an Iraqi interpreter and injures at least three U.S. soldiers in Mosul. ](/news/2009/02/24/iraq-s-police-service-kills-an-iraqi-interpreter-and-injures-at-least-three-u-s-soldiers-in-mosul.md)
-_Context: Iraq, Iraq War, Iraqi, Iraqi Police, Mosul, United States, United States military, interpreter_
+_Context: Iraq, Iraq War, Iraqi, Iraqi Police, Mosul, United States, United States Armed Forces, interpreter_
 
 ### [ At least 15 people are killed and 90 injured in heavy fighting in Mogadishu, Somalia. ](/news/2009/02/24/at-least-15-people-are-killed-and-90-injured-in-heavy-fighting-in-mogadishu-somalia.md)
 _Context: Mogadishu, Somalia, heavy fighting_

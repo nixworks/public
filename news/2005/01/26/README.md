@@ -1,7 +1,7 @@
 ## [2005-01-26](/news/2005/01/26/index.md)
 
 ### [ Condoleezza Rice is confirmed in the U.S. Senate by a vote of ](/news/2005/01/26/condoleezza-rice-is-confirmed-in-the-u-s-senate-by-a-vote-of.md)
-_Context: Condoleezza Rice, Senate_
+_Context: Condoleezza Rice, United States Senate_
 
 ### [ After being incarcerated without trial for almost three years, the four British detainees at Guantanamo Bay, Moazzam Begg, Feroz Abbasi, Martin Mubanga and Richard Belmar, are free to go home, having been released without charge by the UK government. ](/news/2005/01/26/after-being-incarcerated-without-trial-for-almost-three-years-the-four-british-detainees-at-guantanamo-bay-moazzam-begg-feroz-abbasi-ma.md)
 _Context: Feroz Abbasi, Martin Mubanga, Moazzam Begg, Richard Belmar_

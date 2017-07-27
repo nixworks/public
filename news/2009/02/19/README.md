@@ -7,7 +7,7 @@ _Context: Georgia, Prime Minister, Russia, Stefane & 3G, Vladimir Putin, We Don'
 Economists say that California’s budget foreshadows the difficult choices other state legislatures will soon face as the economy worsens.
 
 ### [ The United States Federal Bureau of Investigation locates Stanford Financial Group Chairman Allen Stanford in Virginia and serves him with a fraud complaint on behalf of the Securities and Exchange Commission. ](/news/2009/02/19/the-united-states-federal-bureau-of-investigation-locates-stanford-financial-group-chairman-allen-stanford-in-virginia-and-serves-him-with.md)
-_Context: Allen Stanford, Federal Bureau of Investigation, SEC, Stanford Financial Group, United States, Virginia, chairman, complaint, fraud_
+_Context: Allen Stanford, FBI, SEC, Stanford Financial Group, United States, Virginia, chairman, complaint, fraud_
 
 ### [ China claims it has artificially produced snowfall by cloud seeding to ease drought. ](/news/2009/02/19/china-claims-it-has-artificially-produced-snowfall-by-cloud-seeding-to-ease-drought.md)
 _Context: Chinese, artificially produced, cloud seeding, drought, snow_

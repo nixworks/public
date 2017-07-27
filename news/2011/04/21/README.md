@@ -25,7 +25,7 @@ Hundreds in latest display of resentment in Shanghai over surging inflation.
 _Context: Hosni Mubarak_
 
 ### [U.S. Senator John Ensign, a Nevada Republican, announces his resignation from his Senate seat effective May 3, due to allegations he had an affair with the wife of a member of his staff. ](/news/2011/04/21/u-s-senator-john-ensign-a-nevada-republican-announces-his-resignation-from-his-senate-seat-effective-may-3-due-to-allegations-he-had-an.md)
-_Context: John Ensign, Nevada, Republican, Senate_
+_Context: John Ensign, Nevada, Republican, United States Senate_
 
 ## [Previous Day...](/news/2011/04/20/index.md)
 

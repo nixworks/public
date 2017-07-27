@@ -13,7 +13,7 @@
 ### Related:
 
 1. [ Linguistic analysis confirms that American astronaut Neil Armstrong did not say the article "a" in the phrase "one small step for a man" when he walked on the Moon on July 20, 1969. ](/news/2009/06/4/linguistic-analysis-confirms-that-american-astronaut-neil-armstrong-did-not-say-the-article-a-in-the-phrase-one-small-step-for-a-man-wh.md) _Context: Moon, Neil Armstrong_
-2. [Brown University researchers discover that substantial amount of water may be present beneath the surface of the Moon. ](/news/2017/07/24/brown-university-researchers-discover-that-substantial-amount-of-water-may-be-present-beneath-the-surface-of-the-moon.md) _Context: Moon_
+2. [Brown University researchers discover that a substantial amount of water may be present beneath the surface of the Moon. ](/news/2017/07/24/brown-university-researchers-discover-that-a-substantial-amount-of-water-may-be-present-beneath-the-surface-of-the-moon.md) _Context: Moon_
 3. [SpaceX announces that it will take two space tourists on an orbit of the Moon in 2018. ](/news/2017/02/27/spacex-announces-that-it-will-take-two-space-tourists-on-an-orbit-of-the-moon-in-2018.md) _Context: Moon_
 4. [A UCLA research team, analyzing lunar minerals brought back during the Apollo program, reports that the moon is at least 4.51 billion years old, up to 150 million years older than previous estimates.](/news/2017/01/13/a-ucla-research-team-analyzing-lunar-minerals-brought-back-during-the-apollo-program-reports-that-the-moon-is-at-least-4-51-billion-years.md) _Context: Moon_
 5. [China's unmanned lunar rover Yutu shuts down after exploring the Moon for 31 months. ](/news/2016/08/4/china-s-unmanned-lunar-rover-yutu-shuts-down-after-exploring-the-moon-for-31-months.md) _Context: Moon_

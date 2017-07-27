@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Jordanian authorities release a video of a shooting of United States soldiers by a Jordanian Air Force sergeant. ](/news/2017/07/25/jordanian-authorities-release-a-video-of-a-shooting-of-united-states-soldiers-by-a-jordanian-air-force-sergeant.md) _Context: United States soldiers_
+1. [Jordanian authorities release a video of a Jordanian Air Force sergeant shooting United States soldiers. ](/news/2017/07/25/jordanian-authorities-release-a-video-of-a-jordanian-air-force-sergeant-shooting-united-states-soldiers.md) _Context: United States soldiers_
 2. [A United States Marine Corps Lockheed C-130 Hercules military transport aircraft carrying sixteen people has crashed near the American town of Greenwood, Mississippi. All sixteen bodies have been recovered. ](/news/2017/07/10/a-united-states-marine-corps-lockheed-c-130-hercules-military-transport-aircraft-carrying-sixteen-people-has-crashed-near-the-american-town.md) _Context: United States Marine Corps_
 3. [United States Army soldier Chelsea Manning is released from prison after serving seven years. Manning was sentenced by a U.S. military court to 35 years in prison, but her sentence was commuted by President Barack Obama. ](/news/2017/05/17/united-states-army-soldier-chelsea-manning-is-released-from-prison-after-serving-seven-years-manning-was-sentenced-by-a-u-s-military-court.md) _Context: United States soldiers_
 4. [A United States Army UH-60 Black Hawk helicopter crashes on a golf course in Leonardtown, Maryland. At least one crew member is injured and taken to hospital. ](/news/2017/04/17/a-united-states-army-uh-60-black-hawk-helicopter-crashes-on-a-golf-course-in-leonardtown-maryland-at-least-one-crew-member-is-injured-and.md) _Context: United States soldiers_
