@@ -9,11 +9,11 @@ Washington is reviewing whether to arm those fighting Russian-backed rebels, say
 ### [Amid a public backlash, Microsoft reneges on its decision to end its Paint program and states that it will be placed on its app store rather than bundled with future editions of Windows. ](/news/2017/07/25/amid-a-public-backlash-microsoft-reneges-on-its-decision-to-end-its-paint-program-and-states-that-it-will-be-placed-on-its-app-store-rather.md)
 Microsoft will not kill of Paint, it has now said. A suggestion from the company that it would &quot;deprecate&quot; the app and may remove it from future versions of Windows provoke rage, sadness and nostalgia among almost everyone on the internet when it was announced. But Microsoft has now made clear that it will be sticking around – albeit in a different form.
 
-### [Michael Kors buys Jimmy Choo for US$1.2 billion. ](/news/2017/07/25/michael-kors-buys-jimmy-choo-for-us-1-2-billion.md)
-The agreement comes as upscale American brands grapple with plummeting sales and tepid profits, particularly in the so-called middle market.
-
 ### [Adobe Systems announces it will stop updating and distributing its multimedia software platform Flash by the end of 2020. ](/news/2017/07/25/adobe-systems-announces-it-will-stop-updating-and-distributing-its-multimedia-software-platform-flash-by-the-end-of-2020.md)
 Adobe said it plans to stop updating and distributing its Flash Player by the end of 2020.
+
+### [Michael Kors buys Jimmy Choo for US$1.2 billion. ](/news/2017/07/25/michael-kors-buys-jimmy-choo-for-us-1-2-billion.md)
+The agreement comes as upscale American brands grapple with plummeting sales and tepid profits, particularly in the so-called middle market.
 
 ### [Following a similar move in France, the United Kingdom is to ban the sale of petrol and diesel cars by 2040 in order to reduce air pollution. A new tax will also be levied on diesel car drivers in 2020. ](/news/2017/07/25/following-a-similar-move-in-france-the-united-kingdom-is-to-ban-the-sale-of-petrol-and-diesel-cars-by-2040-in-order-to-reduce-air-pollution.md)
 The sale of petrol and diesel cars will end in 2040 - with a new tax on diesel drivers from 2020.

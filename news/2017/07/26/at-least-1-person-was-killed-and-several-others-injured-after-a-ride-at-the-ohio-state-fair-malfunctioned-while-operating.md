@@ -7,4 +7,4 @@
 
 ### Source:
 
-1. ["CNN"](http://www.cnn.com/2017/07/26/us/ohio-state-fair-ride-incident/index.html)
+1. [CNN](http://www.cnn.com/2017/07/26/us/ohio-state-fair-ride-incident/index.html)
