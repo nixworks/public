@@ -21,7 +21,7 @@ The FBI is investigating the death of a Utah woman stemming from a domestic disp
 ### [United States President Donald Trump tweets that transgender Americans will not be allowed to serve "in any capacity" in the United States Armed Forces. ](/news/2017/07/26/united-states-president-donald-trump-tweets-that-transgender-americans-will-not-be-allowed-to-serve-in-any-capacity-in-the-united-states-a.md)
 “....Transgender individuals to serve in any capacity in the U.S. Military. Our military must be focused on decisive and overwhelming.....”
 
-### [The United States Senate rejects "repeal only" propositions of the Affordable Care Act. United States President Donald Trump lashes out at Republican Senator Lisa Murkowski, who voted against the proposal. ](/news/2017/07/26/the-united-states-senate-rejects-arepeal-onlya-propositions-of-the-affordable-care-act-united-states-president-donald-trump-lashes-out.md)
+### [The United States Senate rejects "repeal only" propositions of the Patient Protection and Affordable Care Act. United States President Donald Trump lashes out at Republican Senator Lisa Murkowski, who voted against the proposal. ](/news/2017/07/26/the-united-states-senate-rejects-repeal-only-propositions-of-the-patient-protection-and-affordable-care-act-united-states-president-donal.md)
 The legislative showdown will continue Wednesday as the Senate considers various measures to replace the health law.
 
 ## Opinion
