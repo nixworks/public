@@ -12,7 +12,7 @@ Wildfires also devouring swaths of forests in Corsica, Portugal, Italy and Alban
 ### [At least 17 people are killed in a building collapse in the Indian city of Mumbai with at least 13 injured and twelve people unaccounted for. ](/news/2017/07/26/at-least-17-people-are-killed-in-a-building-collapse-in-the-indian-city-of-mumbai-with-at-least-13-injured-and-twelve-people-unaccounted-for.md)
 _Context: India, Mumbai_
 
-### [At least 1 person was killed and several others injured after a ride at the Ohio State Fair malfunctioned while operating. ](/news/2017/07/26/at-least-1-person-was-killed-and-several-others-injured-after-a-ride-at-the-ohio-state-fair-malfunctioned-while-operating.md)
+### [At least one person was killed and several others injured after a ride at the Ohio State Fair malfunctioned while operating. ](/news/2017/07/26/at-least-one-person-was-killed-and-several-others-injured-after-a-ride-at-the-ohio-state-fair-malfunctioned-while-operating.md)
 _Context: Ohio State Fair_
 
 ### [A woman is killed aboard the ''Emerald Princess'' cruise ship as it sails to a port of call in Juneau, Alaska, U.S. The passengers are detained while the FBI investigates. Authorities suspect the incident is related to domestic violence. ](/news/2017/07/26/a-woman-is-killed-aboard-the-emerald-princess-cruise-ship-as-it-sails-to-a-port-of-call-in-juneau-alaska-u-s-the-passengers-are-detai.md)
