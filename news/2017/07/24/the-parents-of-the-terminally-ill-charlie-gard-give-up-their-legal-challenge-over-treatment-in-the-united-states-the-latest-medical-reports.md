@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [Baby Charlie Gard dies at the age of 11 months. ](/news/2017/07/28/baby-charlie-gard-dies-at-the-age-of-11-months.md) _Context: Charlie Gard case_
+1. [Charlie Gard, an infant with a rare genetic condition known as mitochondrial DNA depletion syndrome, dies at the age of 11 months. ](/news/2017/07/28/charlie-gard-an-infant-with-a-rare-genetic-condition-known-as-mitochondrial-dna-depletion-syndrome-dies-at-the-age-of-11-months.md) _Context: Charlie Gard case_
