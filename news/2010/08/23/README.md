@@ -43,7 +43,7 @@ Twenty-five prisoners, including several Islamic militants, have escaped from a 
 Eight Hong Kong tourists killed in 11-hour standoff in the Philippine capital.
 
 ### [Judge Royce C. Lamberth of the United States District Court for the District of Columbia rules against a decision by President Barack Obama allowing the expansion of embryonic stem cell research claiming it breaks US law. ](/news/2010/08/23/judge-royce-c-lamberth-of-the-united-states-district-court-for-the-district-of-columbia-rules-against-a-decision-by-president-barack-obama.md)
-_Context: Barack Obama, President of the United States, Royce C. Lamberth, U.S. District Court for the District of Columbia, embryonic stem cell_
+_Context: Barack Obama, Royce C. Lamberth, U.S. District Court for the District of Columbia, United States President, embryonic stem cell_
 
 ## [Previous Day...](/news/2010/08/22/index.md)
 

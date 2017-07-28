@@ -10,7 +10,7 @@ _Context: Afghanistan, Herat Province, Taliban insurgency, attack the Indian con
 _Context: Chinese, May 2014 rmqi attack, Urumqi_
 
 ### [2014 pro-Russian unrest in Ukraine:Russian President Vladimir Putin announces that he will respect the outcome of Ukraine's presidential election.  ](/news/2014/05/23/2014-pro-russian-unrest-in-ukraine-prussian-president-vladimir-putin-announces-that-he-will-respect-the-outcome-of-ukraine-s-presidential-el.md)
-_Context: 2014 pro-Russian unrest in Ukraine, President of Russia, Ukrainian presidential election, Vladimir Putin_
+_Context: 2014 pro-Russian unrest in Ukraine, Russian President, Ukrainian presidential election, Vladimir Putin_
 
 ### [Syrian TV reports that 39 people have been killed and 205 injured as a result of a mortar attack on a pro-Assad rally. ](/news/2014/05/23/syrian-tv-reports-that-39-people-have-been-killed-and-205-injured-as-a-result-of-a-mortar-attack-on-a-pro-assad-rally.md)
 BEIRUT - In the first attack to target a campaign event, a mortar shell slammed into a tent packed with supporters of President Bashar Assad, killing 39 people and wounding 205 others, Syrian state TV said Friday. The shelling underscored deep fears in government strongholds that rebels will escalate attacks in an attempt to disrupt the balloting.

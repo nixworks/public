@@ -13,7 +13,7 @@ _Context: 2006 toxic waste spill, Cte d'Ivoire, Netherlands, Trafigura, USD, gov
 _Context: Iran, Iranian government, Mahmoud Ahmadinejad, President, nuclear scientist_
 
 ### [ United States presidential election, 2008: Former Governor of Massachusetts Mitt Romney (R) formally announces his candidacy for president. ](/news/2007/02/13/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-r-formally-announces-his-candidacy-for-president.md)
-_Context: 2008, Massachusetts governor, Mitt Romney, President of the United States, Republican_
+_Context: 2008, Massachusetts governor, Mitt Romney, Republican, United States President_
 
 ### [ A tornado strikes New Orleans, Louisiana leaving one dead and three people injured. ](/news/2007/02/13/a-tornado-strikes-new-orleans-louisiana-leaving-one-dead-and-three-people-injured.md)
 _Context: Louisiana, New Orleans, tornado_

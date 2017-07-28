@@ -13,7 +13,7 @@ _Context: 1980, Beatle, John Lennon, Mark David Chapman_
 _Context: Iran, United States Department of the Treasury, nuclear scientist_
 
 ### [ 2008 South Ossetia war: President of Russia Dmitry Medvedev announced that the operation of Russian forces in South Ossetia is completed. He added that 'The aggressor has been punished, having sustained considerable losses. Its armed forces have been disorganised'. Medvedev also ordered the Russian Ministry of Defence to consider awarding the  peacekeepers and military personnel that have 'showed their best' during the operation. ](/news/2008/08/12/2008-south-ossetia-war-p-president-of-russia-dmitry-medvedev-announced-that-the-operation-of-russian-forces-in-south-ossetia-is-completed.md)
-_Context:  peacekeepers, 2008 South Ossetia war, Battle of Tskhinvali, Dmitry Medvedev, President of Russia, Russian Ministry of Defence_
+_Context:  peacekeepers, 2008 South Ossetia war, Battle of Tskhinvali, Dmitry Medvedev, Russian Ministry of Defence, Russian President_
 
 ### [ Floods and landslides associated with Tropical Storm Kammuri kill 28 people in southwest China and force 11,000 people from their homes. ](/news/2008/08/12/floods-and-landslides-associated-with-tropical-storm-kammuri-kill-28-people-in-southwest-china-and-force-11-000-people-from-their-homes.md)
 Landslides and flash floods have killed at least 28 people in south-west China and 11,200 have been forced to leave their homes, state media reported.

@@ -28,7 +28,7 @@ _Context: Brazil, Colombia, FARC, Guaviare, Tomas Medina Caracas, anti-drug plan
 _Context: Iran, Israeli Defense Forces, Israeli-Lebanese war of 2006_
 
 ### [ War in Iraq: U.S. President George W. Bush makes a surprise visit to Iraq and addresses military leaders and the troops, saying that with success, a U.S. Iraq troop cut is possible. ](/news/2007/09/3/war-in-iraq-p-u-s-president-george-w-bush-makes-a-surprise-visit-to-iraq-and-addresses-military-leaders-and-the-troops-saying-that-with.md)
-_Context: George W. Bush, Iraq, Iraq War, President of the United States, War in Iraq, military, troop cut_
+_Context: George W. Bush, Iraq, Iraq War, United States President, War in Iraq, military, troop cut_
 
 ### [ The Rail Maritime and Transport Union threatens a three day strike on the London Underground with last minute talks between the union and Transport for London failing to prevent this outcome. ](/news/2007/09/3/the-rail-maritime-and-transport-union-threatens-a-three-day-strike-on-the-london-underground-with-last-minute-talks-between-the-union-and-t.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

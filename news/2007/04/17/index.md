@@ -13,7 +13,7 @@ _Context: massacre_
 _Context: Seung-Hui Cho, shooting spree_
 
 ### [U.S. President Bush joins thousands of mourners at a memorial service for the victims. ](/news/2007/04/17/u-s-president-bush-joins-thousands-of-mourners-at-a-memorial-service-for-the-victims.md)
-_Context: George W. Bush, President of the United States, funeral_
+_Context: George W. Bush, United States President, funeral_
 
 ### [ Iccho Ito, the mayor of Nagasaki, Japan, is shot at least twice outside his re-election campaign headquarters. The assassin, Tetsuya Shiroo, is alleged to be a senior member of a local gang affiliated to the Yamaguchi-gumi crime syndicate. ](/news/2007/04/17/iccho-ito-the-mayor-of-nagasaki-japan-is-shot-at-least-twice-outside-his-re-election-campaign-headquarters-the-assassin-tetsuya-shiroo.md)
 The mayor of the Japanese city of Nagasaki died early on Wednesday after being shot by a gangster, police said.

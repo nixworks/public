@@ -55,7 +55,7 @@ Nick Clegg promises the Lib Dems will be &quot;a moderating influence&quot; on t
 Thousands of Mexicans on Sunday marched into the capital city to protest the wave of killing that has claimed 38,000 lives since President Felipe Calderon launched his war on drug gangs in late 2006.
 
 ### [The President of the United States Barack Obama claims that "there had to be some sort of support network for bin Laden inside of Pakistan" on 60 Minutes. ](/news/2011/05/8/the-president-of-the-united-states-barack-obama-claims-that-there-had-to-be-some-sort-of-support-network-for-bin-laden-inside-of-pakistan.md)
-_Context: 60 Minutes, Barack Obama, Osama bin Laden, Pakistan, President of the United States_
+_Context: 60 Minutes, Barack Obama, Osama bin Laden, Pakistan, United States President_
 
 ## [Previous Day...](/news/2011/05/7/index.md)
 

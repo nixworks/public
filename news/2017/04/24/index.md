@@ -1,7 +1,7 @@
 ## [2017-04-24](/news/2017/04/24/index.md)
 
 ### [The Afghan Minister of Defense, Abdullah Habibi and the Chief of Staff of the Afghan National Army, Qadam Shah Shahim, resign after a Taliban attack on Camp Shaheen near Mazar-i-Sharif that claimed over 140 lives. ](/news/2017/04/24/the-afghan-minister-of-defense-abdullah-habibi-and-the-chief-of-staff-of-the-afghan-national-army-qadam-shah-shahim-resign-after-a-taliba.md)
-_Context: 2017 Camp Shaheen attack, Abdullah Habibi, Afghan National Army, Afghanistan, Defence Ministry, Mazar-i-Sharif, Qadam Shah Shahim, Taliban_
+_Context: 2017 Camp Shaheen attack, Abdullah Habibi, Afghan National Army, Afghanistan, Defense Ministry, Mazar-i-Sharif, Qadam Shah Shahim, Taliban_
 
 ### [Suspected Maoist insurgents kill at least 24 Central Reserve Police Force (CRPF) officers in the Sukma district of Chhattisgarh, India. ](/news/2017/04/24/suspected-maoist-insurgents-kill-at-least-24-central-reserve-police-force-crpf-officers-in-the-sukma-district-of-chhattisgarh-india.md)
 The police were guarding road workers in Chhattisgarh when they came under attack themselves.

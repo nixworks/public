@@ -58,7 +58,7 @@ _Context: Hurricane Beatriz, Hurricane Jova_
 An index of troubled countries reveals the common threads that lead to suffering around the world.
 
 ### [President of Russia Dmitry Medvedev practically rules out supporting a United Nations Security Council resolution condemning a crackdown by the Government of Syria on protestors. ](/news/2011/06/20/president-of-russia-dmitry-medvedev-practically-rules-out-supporting-a-united-nations-security-council-resolution-condemning-a-crackdown-by.md)
-_Context: Dmitry Medvedev, Government of Syria, President of Russia, Syrian uprising, United Nations Security Council_
+_Context: Dmitry Medvedev, Government of Syria, Russian President, Syrian uprising, United Nations Security Council_
 
 ### [France prepares to attempt to extradite Manuel Noriega back to Panama. ](/news/2011/06/20/france-prepares-to-attempt-to-extradite-manuel-noriega-back-to-panama.md)
 The French authorities say they are preparing to extradite the former Panamanian military ruler, Manuel Noriega, back to Panama.

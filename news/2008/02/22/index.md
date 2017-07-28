@@ -1,7 +1,7 @@
 ## [2008-02-22](/news/2008/02/22/index.md)
 
 ### [ Russian President Vladimir Putin describes the recognition of Kosovo's unilaterally declared independence by several major world powers as "a terrible precedent," ... that "breaks up the entire system of international relations," ... which has taken "centuries to evolve." "And undoubtedly, it may entail a whole chain of unpredictable consequences to other regions in the world" and that will come back to hit the West "in the face." ](/news/2008/02/22/russian-president-vladimir-putin-describes-the-recognition-of-kosovo-s-unilaterally-declared-independence-by-several-major-world-powers-as.md)
-_Context: Kosovo, President of Russia, Russia, Vladimir Putin_
+_Context: Kosovo, Russia, Russian President, Vladimir Putin_
 
 ### [ The White House announces that U.S. Army National Guard Master Sergeant Woodrow W. Keeble will posthumously receive the Medal of Honor for his service in the Korean War, becoming the first Sioux to receive the award. ](/news/2008/02/22/the-white-house-announces-that-u-s-army-national-guard-master-sergeant-woodrow-w-keeble-will-posthumously-receive-the-medal-of-honor-for.md)
 _Context: Korean War, Medal of Honor, Sioux, U.S. Army National Guard, White House, Woodrow W. Keeble_
@@ -13,7 +13,7 @@ _Context: Anders Olsson, Lars Forssell, Nobel Prize in Literature, Swedish Acade
 Thousands of Turkish troops have crossed into northern Iraq to hunt Kurdish rebels, television and a military source said on Friday, escalating a conflict that could undermine stability in the region.
 
 ### [ The Northern Rock bank is formally nationalized by the British government. ](/news/2008/02/22/the-northern-rock-bank-is-formally-nationalized-by-the-british-government.md)
-_Context: His Majesty's Government, Northern Rock, nationalizes_
+_Context: His Majesty's Government, Northern Rock, nationalises_
 
 ### [ The United States warns the Serbian government that it has a responsibility to protect its assets after about 1,000 protesters set fire to the U.S. embassy in anger at Kosovo's declaration of independence. ](/news/2008/02/22/the-united-states-warns-the-serbian-government-that-it-has-a-responsibility-to-protect-its-assets-after-about-1-000-protesters-set-fire-to.md)
 _Context: Kosovo, Serbia, United States_

@@ -16,7 +16,7 @@ Twenty-one passengers &mdash; including three children &mdash; on an Air Canada 
 _Context: The Address Downtown Dubai_
 
 ### [Russian President Vladimir Putin signs an amendment to Russia's law regarding the regulation of the use of weapons, giving the FSB the authority to use lethal force on crowds in order to "prevent acts of terrorism, rescue hostages, or repel attacks on public buildings." ](/news/2015/12/31/russian-president-vladimir-putin-signs-an-amendment-to-russia-s-law-regarding-the-regulation-of-the-use-of-weapons-giving-the-fsb-the-autho.md)
-_Context: Federal Security Service, President of Russia, Russia, Vladimir Putin_
+_Context: Federal Security Service, Russia, Russian President, Vladimir Putin_
 
 ### [The Indonesian government plans an appeal to a South Sumatra court's rejection of a Rp 7.8 trillion (SGD 780 million) lawsuit against a pulp and paper company accused of contributing to the recurring Southeast Asian hazes, particularly the recent incident of hazes in 2015. ](/news/2015/12/31/the-indonesian-government-plans-an-appeal-to-a-south-sumatra-court-s-rejection-of-a-rp-7-8-trillion-sgd-780-million-lawsuit-against-a-pulp.md)
 The Indonesian government says it will appeal a court decision to reject a $565m (£381m) lawsuit against a plantation company accused of causing forest fires.

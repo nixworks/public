@@ -10,7 +10,7 @@ _Context: Germany, Iraq_
 _Context: April 9-10 elections, Carlo Azeglio Ciampi, Italian Prime Minister, President, Romano Prodi, Silvio Berlusconi_
 
 ### [ Newly elected  President Evo Morales orders the nationalization of Bolivia's gas industry. This process is a result of his plan to nationalize major industries, he said in his election campaign. Further nationalizations are planned in forestry and mining. ](/news/2006/05/2/newly-elected-president-evo-morales-orders-the-nationalization-of-bolivia-s-gas-industry-this-process-is-a-result-of-his-plan-to-national.md)
-_Context: Bolivia, Bolivian Gas War, Evo Morales, President of Bolivia, forestry, mine, nationalizes, natural gas_
+_Context: Bolivia, Bolivian Gas War, Evo Morales, President of Bolivia, forestry, mine, nationalises, natural gas_
 
 ### [ The thieves of the famous Edvard Munch paintings ''The Scream ''and ''Madonna'' are sentenced to four and eight years in prison. ](/news/2006/05/2/the-thieves-of-the-famous-edvard-munch-paintings-the-scream-and-madonna-are-sentenced-to-four-and-eight-years-in-prison.md)
 _Context: ''Madonna'', Edvard Munch, The Scream_

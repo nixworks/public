@@ -22,7 +22,7 @@ A partly opened parachute F-18 fighter crashes on to farmland, some seven miles 
 _Context: American Academy of Pediatrics, American College of Obstetricians and Gynecologists, Centers for Disease Control and Prevention, Italian, United Kingdom, fetal alcohol syndrome_
 
 ### [The President of Syria Bashar al-Assad visits Moscow for talks with the President of Russia Vladimir Putin in an unannounced visit. ](/news/2015/10/21/the-president-of-syria-bashar-al-assad-visits-moscow-for-talks-with-the-president-of-russia-vladimir-putin-in-an-unannounced-visit.md)
-_Context: Bashar al-Assad, Moscow, President, President of Russia, Syrian Civil War, Vladimir Putin_
+_Context: Bashar al-Assad, Moscow, President, Russian President, Syrian Civil War, Vladimir Putin_
 
 ### [Iran's Supreme Leader Ayatollah Ali Khamenei approves the nuclear deal between Tehran and world powers, and orders it to be implemented subject to certain conditions. The letter states the United States and European Union should clearly announce the elimination of sanctions against Iran. The imposition of sanctions at any level and under any pretext from any of the negotiating countries would violate the JCPOA. ](/news/2015/10/21/iran-s-supreme-leader-ayatollah-ali-khamenei-approves-the-nuclear-deal-between-tehran-and-world-powers-and-orders-it-to-be-implemented-subj.md)
 _Context: Ali Khamenei, European Union, Iranian government, Joint Comprehensive Plan of Action, Supreme Leader of Iran, United States, pre-sanction_

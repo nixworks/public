@@ -7,7 +7,7 @@ _Context: Pakistan, Taliban, United States, United States Congress, al-Qaeda, fo
 _Context: Andres Penate, Colombia, FARC_
 
 ### [ The President of the United States George W. Bush urges  Congress to pass legislation to expand potential surveillance targets. ](/news/2007/07/28/the-president-of-the-united-states-george-w-bush-urges-congress-to-pass-legislation-to-expand-potential-surveillance-targets.md)
-_Context: George W. Bush, President of the United States, United States Congress_
+_Context: George W. Bush, United States Congress, United States President_
 
 ### [ The death toll from the Summer 2007 United Kingdom floods rises to nine as police find a body near Tewkesbury in Gloucestershire. ](/news/2007/07/28/the-death-toll-from-the-summer-2007-united-kingdom-floods-rises-to-nine-as-police-find-a-body-near-tewkesbury-in-gloucestershire.md)
 Police say emergency workers have found a man&#039;s body in a submerged field, bringing to at least nine the death toll in Britain&#039;s worst floods for 60 years.

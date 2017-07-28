@@ -19,7 +19,7 @@ _Context: 1981, Iraq, Iraqi Parliament, Israel, nuclear reactors, reparations_
 Palestinian group says 18-month ceasefire in Gaza and opening of borders within three days.
 
 ### [ Ford's Theatre in Washington, D.C. reopens for the bicentennial of assassinated U.S. President Abraham Lincoln's birth. ](/news/2009/02/12/ford-s-theatre-in-washington-d-c-reopens-for-the-bicentennial-of-assassinated-u-s-president-abraham-lincoln-s-birth.md)
-_Context: Abraham Lincoln, Ford's Theatre, President of the United States, United States, Washington, D.C., assassinated, bicentennial_
+_Context: Abraham Lincoln, Ford's Theatre, United States, United States President, Washington, D.C., assassinated, bicentennial_
 
 ### [ Late 2000s recession: Japanese electronics company Pioneer Corporation will leave the television business and cut 10,000 jobs. ](/news/2009/02/12/late-2000s-recession-p-japanese-electronics-company-pioneer-corporation-will-leave-the-television-business-and-cut-10-000-jobs.md)
 Union pledges to fight to reverse the decision.

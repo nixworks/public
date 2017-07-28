@@ -22,7 +22,7 @@ _Context: 2009 United Nations Climate Change Conference, Copenhagen_
 _Context: Italian Prime Minister, Silvio Berlusconi_
 
 ### [ Russian President Dmitry Medvedev declares a national day of mourning on December 7 following a nightclub fire which resulted in 109 deaths yesterday. ](/news/2009/12/5/russian-president-dmitry-medvedev-declares-a-national-day-of-mourning-on-december-7-following-a-nightclub-fire-which-resulted-in-109-deaths.md)
-_Context: Dmitry Medvedev, President of Russia, national mourning, nightclub fire_
+_Context: Dmitry Medvedev, Russian President, national mourning, nightclub fire_
 
 ### [ Guinea's vice-president and defence minister Sekouba Konat of the ruling National Council for Democracy and Development takes charge of the country after leader Moussa Dadis Camara was shot in an assassination attempt. ](/news/2009/12/5/guinea-s-vice-president-and-defence-minister-sekouba-konate-of-the-ruling-national-council-for-democracy-and-development-takes-charge-of-th.md)
 _Context: Guinea, Moussa Dadis Camara, Skouba Konat, junta_

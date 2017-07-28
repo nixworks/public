@@ -61,7 +61,7 @@ The Government is close to finalising its four-year fiscal plan and pending appr
 _Context: Charlie Rangel, United States House Committee on Standards of Official Conduct, United States House of Representatives_
 
 ### [The President of the United States Barack Obama presents a Medal of Honor, the highest United States military decoration to  Staff Sgt Salvatore Giunta at the White House. ](/news/2010/11/16/the-president-of-the-united-states-barack-obama-presents-a-medal-of-honor-the-highest-united-states-military-decoration-to-staff-sgt-salva.md)
-_Context: Barack Obama, Medal of Honor, President of the United States, Salvatore Giunta, United States, White House_
+_Context: Barack Obama, Medal of Honor, Salvatore Giunta, United States, United States President, White House_
 
 ### [U.S. Republican Party Senators adopt a ban on earmarking, or setting aside money in bills for specific purposes specified by legislators. ](/news/2010/11/16/u-s-republican-party-senators-adopt-a-ban-on-earmarking-or-setting-aside-money-in-bills-for-specific-purposes-specified-by-legislators.md)
 _Context: Republican, United States Senate, earmarking_

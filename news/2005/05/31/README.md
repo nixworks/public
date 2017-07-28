@@ -1,7 +1,7 @@
 ## [2005-05-31](/news/2005/05/31/index.md)
 
 ### [ In Bolivia, police and protesters clash in the capital La Paz outside congress, disrupting its meetings. Protesters have closed the roads to the city. They demand nationalization of energy industry. ](/news/2005/05/31/in-bolivia-police-and-protesters-clash-in-the-capital-la-paz-outside-congress-disrupting-its-meetings-protesters-have-closed-the-roads-t.md)
-_Context: Bolivia, La Paz, nationalizes_
+_Context: Bolivia, La Paz, nationalises_
 
 ### [ Serbia withdraws arrest warrant of Mirjana Markovic, wife of Slobodan Milosevic ](/news/2005/05/31/serbia-withdraws-arrest-warrant-of-mirjana-markovia-wife-of-slobodan-miloa-evia.md)
 _Context: Mirjana Markovic, Serbia, Slobodan Milosevic_

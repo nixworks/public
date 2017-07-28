@@ -25,7 +25,7 @@ _Context: Uganda, national constitutional referendum_
 _Context: Ayodhya, Bharatiya Janata Party, Lal Krishna Advani_
 
 ### [ In the United States, the House of Representatives approves the Dominican Republic-Central America Free Trade Agreement, 217-215, sending the approved treaty to President George W. Bush. ](/news/2005/07/28/in-the-united-states-the-house-of-representatives-approves-the-dominican-republic-central-america-free-trade-agreement-217-215-sending-t.md)
-_Context: Dominican Republic-Central America Free Trade Agreement, George W. Bush, President of the United States, United States House of Representatives_
+_Context: Dominican Republic-Central America Free Trade Agreement, George W. Bush, United States House of Representatives, United States President_
 
 ### [ The United States, China, India, Japan, South Korea and Australia have formed a partnership aiming to cut the emissions of gasses that lead to global warming. The agreement is known as the Asia Pacific Partnership on Clean Development and Climate.](/news/2005/07/28/the-united-states-china-india-japan-south-korea-and-australia-have-formed-a-partnership-aiming-to-cut-the-emissions-of-gasses-that-lead.md)
 _Context: Asia Pacific Partnership on Clean Development and Climate_

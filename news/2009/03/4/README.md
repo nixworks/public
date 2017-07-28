@@ -1,7 +1,7 @@
 ## [2009-03-4](/news/2009/03/4/index.md)
 
 ### [ Venezuelan President Hugo Chvez orders the nationalization of United States-based food company Cargill. ](/news/2009/03/4/venezuelan-president-hugo-chavez-orders-the-nationalization-of-united-states-based-food-company-cargill.md)
-_Context: Cargill, Hugo Chvez, United States, Venezuela, Venezuelan President, food company, nationalizes_
+_Context: Cargill, Hugo Chvez, United States, Venezuela, Venezuelan President, food company, nationalises_
 
 ### [ A riot at a prison near Ciudad Jurez, Mexico, kills at least 20 inmates and injures seven others. ](/news/2009/03/4/a-riot-at-a-prison-near-ciudad-juarez-mexico-kills-at-least-20-inmates-and-injures-seven-others.md)
 _Context: Juarez, Mexico, prison, riot_

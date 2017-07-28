@@ -16,7 +16,7 @@ The Archbishop of Canterbury and Pope Benedict XVI took significant steps on Sat
 Parts of the south and west are on high alert this evening as more rain and high winds are forecast.
 
 ### [ U.S. President Barack Obama's job approval rating slips below 50 percent in a daily tracking survey by Gallup poll. ](/news/2009/11/21/u-s-president-barack-obama-s-job-approval-rating-slips-below-50-percent-in-a-daily-tracking-survey-by-gallup-poll.md)
-_Context: Barack Obama, Gallup poll, President of the United States_
+_Context: Barack Obama, Gallup poll, United States President_
 
 ### [ New research concludes that ''Homo floresiensis'', discovered in 2003, is a distinct species and not a previously known species with dwarfism or microcephaly. ](/news/2009/11/21/new-research-concludes-that-homo-floresiensis-discovered-in-2003-is-a-distinct-species-and-not-a-previously-known-species-with-dwarfi.md)
 _Context: Homo floresiensis, dwarfism, microcephaly_

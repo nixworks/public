@@ -19,7 +19,7 @@ _Context: Devon, Kyrill, MSC ''Napoli''_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Angela Merkel, the Chancellor of Germany, holds talks with Vladimir Putin, the President of Russia over energy security issues. ](/news/2007/01/21/angela-merkel-the-chancellor-of-germany-holds-talks-with-vladimir-putin-the-president-of-russia-over-energy-security-issues.md)
-_Context: Angela Merkel, Chancellor, President of Russia, Vladimir Putin_
+_Context: Angela Merkel, Chancellor, Russian President, Vladimir Putin_
 
 ### [ A 7.3 M<sub>w</sub> earthquake occurs off of Indonesia, centered in the Molucca Sea. Buildings shake in northeastern Indonesia, panicking residents, but there are no reports of casualties. ](/news/2007/01/21/a-7-3-mw-earthquake-occurs-off-of-indonesia-centered-in-the-molucca-sea-buildings-shake-in-northeastern-indonesia-panicking-residents-b.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

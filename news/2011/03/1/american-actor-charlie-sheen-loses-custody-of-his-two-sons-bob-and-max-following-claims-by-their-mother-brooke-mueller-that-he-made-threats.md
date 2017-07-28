@@ -11,7 +11,7 @@ A judge temporarily stripped Charlie Sheen of custody of his twin sons Tuesday, 
 
 ### Related:
 
-1. [A woman is killed aboard the Emerald Princess cruise ship as it sails to a port of call in Juneau, Alaska, U.S. The passengers are detained while the FBI investigates. Authorities suspect the incident is related to domestic violence. ](/news/2017/07/26/a-woman-is-killed-aboard-the-emerald-princess-cruise-ship-as-it-sails-to-a-port-of-call-in-juneau-alaska-u-s-the-passengers-are-detained.md) _Context: domestic violence_
+1. [A woman is killed aboard the ''Emerald Princess'' cruise ship as it sails to a port of call in Juneau, Alaska, U.S. The passengers are detained while the FBI investigates. Authorities suspect the incident is related to domestic violence. ](/news/2017/07/26/a-woman-is-killed-aboard-the-emerald-princess-cruise-ship-as-it-sails-to-a-port-of-call-in-juneau-alaska-u-s-the-passengers-are-detai.md) _Context: domestic violence_
 2. [President of Russia Vladimir Putin signs into law the decriminalization of domestic violence. ](/news/2017/02/7/president-of-russia-vladimir-putin-signs-into-law-the-decriminalization-of-domestic-violence.md) _Context: domestic violence_
 3. [The Russian Duma backs a law decriminalizing a first instance of domestic violence that does "not seriously injure" the person, making it an administrative offense. The bill also includes violence against children. ](/news/2017/01/25/the-russian-duma-backs-a-law-decriminalizing-a-first-instance-of-domestic-violence-that-does-not-seriously-injure-the-person-making-it-an.md) _Context: domestic violence_
 4. [American actor Charlie Sheen confirms he has HIV. ](/news/2015/11/17/american-actor-charlie-sheen-confirms-he-has-hiv.md) _Context: Charlie Sheen_

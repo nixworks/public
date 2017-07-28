@@ -10,7 +10,7 @@ _Context: European Central Bank, emergency liquidity assistance_
 _Context: Danish People's Party, Danish general election, 2015, Social Democrat, Venstre_
 
 ### [Hawaii becomes the first U.S. state to raise the smoking age from 18 to 21, effective January 1, 2016, and will also outlaw sales, purchases, or uses of electronic cigarettes for those under 21. ](/news/2015/06/19/hawaii-becomes-the-first-u-s-state-to-raise-the-smoking-age-from-18-to-21-effective-january-1-2016-and-will-also-outlaw-sales-purchases.md)
-_Context: Hawaii, e-cigarettes, smoking age_
+_Context: Electronic cigarette, Hawaii, smoking age_
 
 ## [Previous Day...](/news/2015/06/18/index.md)
 

@@ -76,7 +76,7 @@ _Context: Cyprus, Nicosia, Turkish, Turkish government_
 Senate Republicans stepped up their efforts Wednesday to compel the 14 Senate Democrats who fled Wisconsin two weeks ago to come home.
 
 ### [The President of the United States Barack Obama signs a bill preventing a shutdown of the United States government for another two weeks. ](/news/2011/03/2/the-president-of-the-united-states-barack-obama-signs-a-bill-preventing-a-shutdown-of-the-united-states-government-for-another-two-weeks.md)
-_Context: Barack Obama, President of the United States, United States government_
+_Context: Barack Obama, United States President, United States government_
 
 ### [The South Dakota Senate passes a bill requiring additional steps to provide informed consent before a woman can have an abortion. ](/news/2011/03/2/the-south-dakota-senate-passes-a-bill-requiring-additional-steps-to-provide-informed-consent-before-a-woman-can-have-an-abortion.md)
 After a long and emotional debate, the South Dakota Senate on Wednesday approved a bill requiring additional steps to provide informed consent before a woman can have an abortion.

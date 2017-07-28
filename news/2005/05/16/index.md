@@ -22,7 +22,7 @@ _Context: Abu Bakar Bashir, Indonesia_
 _Context: National Prosecuting Authority, South Africa, Zimbabwe, mercenaries_
 
 ### [ Thousands of protesters rally in La Paz, Bolivia in support of legislation that would impose larger taxes on foreign energy companies. Some demand nationalization. ](/news/2005/05/16/thousands-of-protesters-rally-in-la-paz-bolivia-in-support-of-legislation-that-would-impose-larger-taxes-on-foreign-energy-companies-some.md)
-_Context: Bolivia, La Paz, nationalizes, taxes_
+_Context: Bolivia, La Paz, nationalises, taxes_
 
 ### [ The United Nations World Food Program states that North Korea is in dire need of food aid. ](/news/2005/05/16/the-united-nations-world-food-program-states-that-north-korea-is-in-dire-need-of-food-aid.md)
 _Context: North Korea, United Nations, World Food Program, food aid_

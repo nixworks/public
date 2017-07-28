@@ -13,7 +13,7 @@ Federal prosecutors sought a Manhattan skyscraper, the Piaget Building, and parc
 _Context: Glasgow North East by-election, Michael Martin, Scottish Labour Party, Speaker of the British House of Commons, Willie Bain_
 
 ### [ Russian President Dmitry Medvedev calls for an overhaul of the Russian economy and democratic modernisation in an annual state of nation address. ](/news/2009/11/12/russian-president-dmitry-medvedev-calls-for-an-overhaul-of-the-russian-economy-and-democratic-modernisation-in-an-annual-state-of-nation-ad.md)
-_Context: Dmitry Medvedev, President of Russia, Russia, Russian economy_
+_Context: Dmitry Medvedev, Russia, Russian President, Russian economy_
 
 ### [ The head of the Sri Lankan armed forces Sarath Fonseka resigns over reports he is suspected to contest the next presidential election. ](/news/2009/11/12/the-head-of-the-sri-lankan-armed-forces-sarath-fonseka-resigns-over-reports-he-is-suspected-to-contest-the-next-presidential-election.md)
 _Context: Sarath Fonseka, Sri Lanka, armed forces_
@@ -34,7 +34,7 @@ _Context: Nepal, Nepalese Maoist Party, President_
 _Context: President of Palau, Tommy Remengesau_
 
 ### [ The government of Venezuela nationalizes the Fama de America and Cafea coffee producers. ](/news/2009/11/12/the-government-of-venezuela-nationalizes-the-fama-de-america-and-cafea-coffee-producers.md)
-_Context: Coffee, Venezuela, nationalizes_
+_Context: Coffee, Venezuela, nationalises_
 
 ## [Previous Day...](/news/2009/11/11/index.md)
 

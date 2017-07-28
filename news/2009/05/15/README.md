@@ -16,7 +16,7 @@ _Context: Ministry of Justice, Parliamentary Under-Secretary of State, Shahid Ma
 _Context: 2009, 4th quarter of 2007 and the second quarter of 2009, Eurozone, economy, fiscal year_
 
 ### [ U.S. President Barack Obama will resume military tribunals for detainees at Guantanamo Bay. ](/news/2009/05/15/u-s-president-barack-obama-will-resume-military-tribunals-for-detainees-at-guanta-namo-bay.md)
-_Context: Barack Obama, Guantanamo Bay Detention Camp, President of the United States, United States, detainees, military tribunal_
+_Context: Barack Obama, Guantanamo Bay Detention Camp, United States, United States President, detainees, military tribunal_
 
 ### [ A suicide attack kills three people in Grozny, Chechnya, Russia. ](/news/2009/05/15/a-suicide-attack-kills-three-people-in-grozny-chechnya-russia.md)
 _Context: Chechnya, Grozny, Russia, suicide bombing_

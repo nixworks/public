@@ -19,7 +19,7 @@ A senior Metropolitan Police detective is found guilty of trying to sell informa
 _Context: Taft Union High School, Taft, California, gunman opened fire, pellet_
 
 ### [U.S. President Barack Obama nominates White House Chief of Staff Jack Lew to be the next Secretary of the Treasury. ](/news/2013/01/10/u-s-president-barack-obama-nominates-white-house-chief-of-staff-jack-lew-to-be-the-next-secretary-of-the-treasury.md)
-_Context: Barack Obama, Jack Lew, President of the United States, Treasury Secretary, White House Chief of Staff_
+_Context: Barack Obama, Jack Lew, Treasury Secretary, United States President, White House Chief of Staff_
 
 ### [Near-Earth asteroid 99942 Apophis passes close to the Earth with observations by European astronomers estimating that it is larger than previously thought. ](/news/2013/01/10/near-earth-asteroid-99942-apophis-passes-close-to-the-earth-with-observations-by-european-astronomers-estimating-that-it-is-larger-than-prev.md)
 Asteroid, which was once deemed a danger to the planet, will return much closer in 2036; watch it zoom by online

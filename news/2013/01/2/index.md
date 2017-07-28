@@ -31,7 +31,7 @@ THE PRESIDENTIAL Commission on Good Government (PCGG)-- which is tasked to pursu
 _Context: Hugo Chavez, Venezuela, inauguration approaches_
 
 ### [U.S. President Barack Obama signs the American Taxpayer Relief Act of 2012, intended to prevent the "fiscal cliff". ](/news/2013/01/2/u-s-president-barack-obama-signs-the-american-taxpayer-relief-act-of-2012-intended-to-prevent-the-fiscal-cliff.md)
-_Context: American Taxpayer Relief Act of 2012, Barack Obama, President of the United States, fiscal cliff_
+_Context: American Taxpayer Relief Act of 2012, Barack Obama, United States President, fiscal cliff_
 
 ### [U.S. Secretary of State Hillary Clinton is discharged from the NewYork-Presbyterian Hospital after being treated for a blood clot. ](/news/2013/01/2/u-s-secretary-of-state-hillary-clinton-is-discharged-from-the-newyorkapresbyterian-hospital-after-being-treated-for-a-blood-clot.md)
 _Context: Hillary Clinton, NewYork-Presbyterian Hospital, United States Secretary of State, blood clot_
