@@ -1,0 +1,23 @@
+### [2017-07-28](/news/2017/07/28/index.md)
+
+# The American Health Care Act of 2017, an attempt to repeal the Patient Protection and Affordable Care Act, fails passage in the United States Senate. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-usa-healthcare-idUSKBN1AC1G0?il=0)
+
+### Related:
+
+1. [The Republican-controlled United States House of Representatives votes in favor of the repeal of the 2010 Patient Protection and Affordable Care Act and passage of the House's 2017 American Health Care Act, by a narrow, 217-213 vote. Twenty Republicans and all Democrats opposed the bill, which now heads to the United States Senate for its legislative action. ](/news/2017/05/4/the-republican-controlled-united-states-house-of-representatives-votes-in-favor-of-the-repeal-of-the-2010-patient-protection-and-affordable.md) _Context: American Health Care Act of 2017, Patient Protection and Affordable Care Act, United States Senate_
+2. [The United States Senate rejects "repeal only" propositions of the Patient Protection and Affordable Care Act. United States President Donald Trump lashes out at Republican Senator Lisa Murkowski, who voted against the proposal. ](/news/2017/07/26/the-united-states-senate-rejects-repeal-only-propositions-of-the-patient-protection-and-affordable-care-act-united-states-president-donal.md) _Context: Patient Protection and Affordable Care Act, United States Senate_
+3. [The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md) _Context: Patient Protection and Affordable Care Act, United States Senate_
+4. [The replacement plan for the Patient Protection and Affordable Care Act (aka Obamacare) is withdrawn after Republican leaders fail to gain enough support. The failure of the Trump administration to repeal the act means it will remain law in the United States.](/news/2017/03/24/the-replacement-plan-for-the-patient-protection-and-affordable-care-act-aka-obamacare-is-withdrawn-after-republican-leaders-fail-to-gain-e.md) _Context: 2017 Patient Protection and Affordable Care Act replacement proposals, Patient Protection and Affordable Care Act_
+5. [The United States House of Representatives approaches a vote on a replacement plan for the Patient Protection and Affordable Care Act (aka Obamacare). ](/news/2017/03/23/the-united-states-house-of-representatives-approaches-a-vote-on-a-replacement-plan-for-the-patient-protection-and-affordable-care-act-aka-o.md) _Context: American Health Care Act of 2017, Patient Protection and Affordable Care Act_
+6. [The Republican-controlled United States House of Representatives votes for the thirty-third time to repeal the Patient Protection and Affordable Care Act, commonly known as Obamacare; the measure is not likely to pass the Democratic-controlled United States Senate. ](/news/2012/07/11/the-republican-controlled-united-states-house-of-representatives-votes-for-the-thirty-third-time-to-repeal-the-patient-protection-and-afford.md) _Context: Patient Protection and Affordable Care Act, United States Senate_
+7. [The United States Senate votes down a repeal of healthcare reforms 47-51. ](/news/2011/02/2/the-united-states-senate-votes-down-a-repeal-of-healthcare-reforms-47-51.md) _Context: Patient Protection and Affordable Care Act, United States Senate_
+8. [A hearing in the U.S. Senate is held about alleged human rights violations in the Philippines's war against illegal drugs. ](/news/2017/07/20/a-hearing-in-the-u-s-senate-is-held-about-alleged-human-rights-violations-in-the-philippines-s-war-against-illegal-drugs.md) _Context: United States Senate_
+9. [U.S. Senator John McCain is diagnosed with a malignant brain cancer, glioblastoma multiforme. This is his second battle with cancer, after having been successfully treated for malignant melanoma. ](/news/2017/07/19/u-s-senator-john-mccain-is-diagnosed-with-a-malignant-brain-cancer-glioblastoma-multiforme-this-is-his-second-battle-with-cancer-after-h.md) _Context: United States Senate_
+10. [A Republican Senate bill to repeal and replace large portions of the Patient Protection and Affordable Care Act fails to win enough support to pass. ](/news/2017/07/18/a-republican-senate-bill-to-repeal-and-replace-large-portions-of-the-patient-protection-and-affordable-care-act-fails-to-win-enough-support.md) _Context: Patient Protection and Affordable Care Act_
