@@ -2,12 +2,12 @@
 
 # The American Health Care Act of 2017, an attempt to repeal the Patient Protection and Affordable Care Act, fails passage in the United States Senate. 
 
-
+The seven-year Republican quest to scrap Obamacare, a major campaign vow by President Donald Trump, lay in ruins on Friday after the Senate failed to dismantle the healthcare law, with congressional leaders now planning to move on to other matters.
 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-healthcare-idUSKBN1AC1G0?il=0)
+1. [Reuters](http://www.reuters.com/article/us-usa-healthcare-idUSKBN1AC1G0)
 
 ### Related:
 
