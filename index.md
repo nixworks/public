@@ -1,9 +1,6 @@
 ## [News](/news/2017/07/28/index.md)
 
-### [2017 Hamburg attack](/news/2017/07/28/2017-hamburg-attack.md)
-_Context: 2017 Hamburg attack_
-
-### [One person is killed and four are others injured in a knife attack in an Edeka supermarket in Barmbek in the German city of Hamburg. The motive for the attack is currently unknown. ](/news/2017/07/28/one-person-is-killed-and-four-are-others-injured-in-a-knife-attack-in-an-edeka-supermarket-in-barmbek-in-the-german-city-of-hamburg-the-mot.md)
+### [One person is killed and four others are injured in a knife attack in an Edeka supermarket in Barmbek in the German city of Hamburg. The motive for the attack is currently unknown. ](/news/2017/07/28/one-person-is-killed-and-four-others-are-injured-in-a-knife-attack-in-an-edeka-supermarket-in-barmbek-in-the-german-city-of-hamburg-the-mot.md)
 Police say one suspect has been arrested but that it is too soon to pinpoint a motive.
 
 ### [A passenger train crashes into a buffer stop at Barcelona Frana railway station, injuring 54 people, five seriously. ](/news/2017/07/28/a-passenger-train-crashes-into-a-buffer-stop-at-barcelona-franca-railway-station-injuring-54-people-five-seriously.md)
