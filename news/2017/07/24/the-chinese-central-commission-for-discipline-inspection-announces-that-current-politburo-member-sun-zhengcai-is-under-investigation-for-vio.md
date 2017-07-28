@@ -2,12 +2,12 @@
 
 # The Chinese Central Commission for Discipline Inspection announces that current Politburo member Sun Zhengcai is under investigation for violating party discipline. Sun is the fourth sitting Politburo member since 1990 to fall from power. 
 
-Officials said Sun Zhengcai, fired last month as party secretary of the city of Chongqing, was suspected of “grave violations of discipline.”
+Officials said Sun Zhengcai, fired this month as party secretary of the city of Chongqing, was suspected of “grave violations of discipline.”
 
 
 ### Source:
 
-1. [The New York Times](https://www.nytimes.com/2017/07/24/world/asia/china-xi-jinping-sun-zhengcai.html?rref=collection%2Fsectioncollection%2Fasia)
+1. [The New York Times](https://www.nytimes.com/2017/07/24/world/asia/china-xi-jinping-sun-zhengcai.html)
 
 ### Related:
 

@@ -6,8 +6,8 @@ The train did not brake when entering the station, hitting the buffers at the pl
 ### [The American Health Care Act of 2017, an attempt to repeal the Patient Protection and Affordable Care Act, fails passage in the United States Senate. ](/news/2017/07/28/the-american-health-care-act-of-2017-an-attempt-to-repeal-the-patient-protection-and-affordable-care-act-fails-passage-in-the-united-state.md)
 _Context: 2017 Patient Protection and Affordable Care Act replacement proposals, American Health Care Act of 2017, Patient Protection and Affordable Care Act, United States Senate_
 
-### [The Supreme Court of Pakistan disqualifies Prime Minister Nawaz Sharif from holding public office following an investigation on corruption allegations regarding his family's wealth, forcing him to resign as Prime Minister. ](/news/2017/07/28/the-supreme-court-of-pakistan-disqualifies-prime-minister-nawaz-sharif-from-holding-public-office-following-an-investigation-on-corruption-a.md)
-ISLAMABAD (AFP, REUTERS) - Pakistan&#039;s Supreme Court disqualified Prime Minister Nawaz Sharif from office on Friday (July 28), forcing him to resign.. Read more at straitstimes.com.
+### [The Supreme Court of Pakistan disqualifies Prime Minister Nawaz Sharif from holding public office following a verdict that he had been dishonest in not disclosing his employment in the Dubai-based Capital FZE company in his nomination papers. ](/news/2017/07/28/the-supreme-court-of-pakistan-disqualifies-prime-minister-nawaz-sharif-from-holding-public-office-following-a-verdict-that-he-had-been-disho.md)
+&quot;PM failed to disclose his un-withdrawn receivables from Capital FZE, UAE in 2013 nomination papers,&quot; reads SC order. 
 
 ## [Previous Day...](/news/2017/07/27/index.md)
 
