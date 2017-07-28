@@ -1,13 +1,19 @@
-## [News](/news/2017/07/30/index.md)
+## [News](/news/2017/07/27/index.md)
 
-### [Voters in Venezuela participate in a controversial election for members of a new Constitutional Assembly, devised by President Nicols Maduro to amend the constitution following a legislative takeover in March. Protests and strikes are expected. ](/news/2017/07/30/voters-in-venezuela-participate-in-a-controversial-election-for-members-of-a-new-constitutional-assembly-devised-by-president-nicolas-madur.md)
-_Context: Nicols Maduro, Protests and strikes, Venezuela, Venezuelan Constitutional Assembly election, 2017, legislative takeover in March, the constitution_
+### [Ukraine's domestic intelligence service, the SBU, reports that the March 2017 explosions at Balakliia military base in Eastern Ukraine were caused by a drone carrying a ZMG-1 thermite grenade. The explosions resulted in 1 death and 5 injuries. ](/news/2017/07/27/ukraine-s-domestic-intelligence-service-the-sbu-reports-that-the-march-2017-explosions-at-balakliia-military-base-in-eastern-ukraine-were.md)
+A single grenade-carrying drone set off one of the largest explosions in recent memory.
 
-### [Voters in Senegal elect all 150 members of their National Assembly, with former President Abdoulaye Wade leading a coalition against the incumbent Macky Sall's United in Hope coalition. ](/news/2017/07/30/voters-in-senegal-elect-all-150-members-of-their-national-assembly-with-former-president-abdoulaye-wade-leading-a-coalition-against-the-inc.md)
-_Context: Abdoulaye Wade, Macky Sall, National Assembly, Senegal, Senegalese parliamentary election, 2017, United in Hope coalition, a coalition_
+### [France nationalises the STX Europe-owned Chantiers de l'Atlantique shipyard in Saint-Nazaire, Pays de la Loire, to prevent Italian shipbuilding firm Fincantieri taking majority control. Italian Minister of Economy and Finances Pier Carlo Padoan calls the French decision to nationalise the shipyard "grave and incomprehensible". ](/news/2017/07/27/france-nationalises-the-stx-europe-owned-chantiers-de-l-atlantique-shipyard-in-saint-nazaire-pays-de-la-loire-to-prevent-italian-shipbuild.md)
+_Context: Chantiers de l'Atlantique, Fincantieri, France, Italian, Italian Minister of Economy and Finances, Pays de la Loire, Pier Carlo Padoan, STX Europe, Saint-Nazaire, nationalises_
 
-### [Voters in the Republic of the Congo return to the polls for the second round of an election for 139 National Assembly members, after the governing Congolese Party of Labour won 70 seats in the first round two weeks earlier. ](/news/2017/07/30/voters-in-the-republic-of-the-congo-return-to-the-polls-for-the-second-round-of-an-election-for-139-national-assembly-members-after-the-gov.md)
-_Context: Congolese Party of Labour, National Assembly, Republic of the Congo, Republic of the Congo parliamentary election, 2017, second round_
+### [Russian President Vladimir Putin appoints Vasily Nebenzya to be the new Permanent Representative of Russia to the United Nations following the sudden death of Vitaly Churkin in February. ](/news/2017/07/27/russian-president-vladimir-putin-appoints-vasily-nebenzya-to-be-the-new-permanent-representative-of-russia-to-the-united-nations-following-t.md)
+_Context: Permanent Representative of Russia, Russia and the United Nations, Russian President, United Nations, Vasily Nebenzya, Vitaly Churkin, Vladimir Putin_
+
+### [At least three protesters are killed across the country amid clashes with police as a two-day national strike called by the opposition begins. ](/news/2017/07/27/at-least-three-protesters-are-killed-across-the-country-amid-clashes-with-police-as-a-two-day-national-strike-called-by-the-opposition-begin.md)
+Fresh clashes lift number killed in four months of violence to more than 100, as Maduro&#39;s controversial election nears.
+
+### [A new study, published in the ''The BMJ'' medical journal, finds that electronic cigarettes may  help smokers stop their habit.  The researchers found that a substantial increase in e-cigarette use among American adult smokers was associated with a statistically significant increase in the smoking cessation rate. ](/news/2017/07/27/a-new-study-published-in-the-the-bmj-medical-journal-finds-that-electronic-cigarettes-may-help-smokers-stop-their-habit-the-researc.md)
+A new study suggest the devices may help smokers stub out the habit.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -15,23 +21,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ---
 
-## [Yesterday](/news/2017/07/27/index.md)
-
-### [France nationalises the STX Europe-owned Chantiers de l'Atlantique shipyard in Saint-Nazaire, Pays de la Loire, to prevent Italian shipbuilding firm Fincantieri taking majority control. Italian Minister of Economy and Finances Pier Carlo Padoan calls the French decision to nationalise the shipyard "grave and incomprehensible". ](/news/2017/07/27/france-nationalises-the-stx-europe-owned-chantiers-de-l-atlantique-shipyard-in-saint-nazaire-pays-de-la-loire-to-prevent-italian-shipbuild.md)
-_Context: Chantiers de l'Atlantique, Fincantieri, France, Italian, Italian Minister of Economy and Finances, Pays de la Loire, Pier Carlo Padoan, STX Europe, Saint-Nazaire, nationalises_
-
-### [Russian President Vladimir Putin appoints Vasily Nebenzya to be the country's new Permanent Representative of Russia to the United Nations following the sudden death of Vitaly Churkin in February. ](/news/2017/07/27/russian-president-vladimir-putin-appoints-vasily-nebenzya-to-be-the-country-s-new-permanent-representative-of-russia-to-the-united-nations-f.md)
-_Context: Permanent Representative of Russia, Russia and the United Nations, Russian President, United Nations, Vasily Nebenzya, Vitaly Churkin, Vladimir Putin_
-
-### [At least three protesters are killed across the country amid clashes with police as a two-day national strike called by the opposition begins. ](/news/2017/07/27/at-least-three-protesters-are-killed-across-the-country-amid-clashes-with-police-as-a-two-day-national-strike-called-by-the-opposition-begin.md)
-Fresh clashes lift number killed in four months of violence to more than 100, as Maduro&#39;s controversial election nears.
-
-### [A new study, published in the ''The BMJ'' medical journal, finds that Electronic cigarettes may  help smokers stop their habit.  The researchers found that a substantial increase in e-cigarette use among American adult smokers was associated with a statistically significant increase in the smoking cessation rate. ](/news/2017/07/27/a-new-study-published-in-the-the-bmj-medical-journal-finds-that-electronic-cigarettes-may-help-smokers-stop-their-habit-the-researc.md)
-A new study suggest the devices may help smokers stub out the habit.
-
----
-
-## [Day Before Yesterday](/news/2017/07/26/index.md)
+## [Yesterday](/news/2017/07/26/index.md)
 
 ### [According to the Defense Ministry, between 26 and 30 military personnel are dead and over 80 Taliban militants have been either killed or wounded amid intense fighting at a military base in Kandahar Province. ](/news/2017/07/26/according-to-the-defense-ministry-between-26-and-30-military-personnel-are-dead-and-over-80-taliban-militants-have-been-either-killed-or-wo.md)
 _Context: Defense Ministry, Kandahar Province, Taliban, War in Afghanistan, military personnel_
@@ -59,7 +49,47 @@ The legislative showdown will continue Wednesday as the Senate considers various
 
 ---
 
-## [Previous Day...](/news/2017/07/25/index.md)
+## [Day Before Yesterday](/news/2017/07/25/index.md)
+
+### [The Israeli government says it will remove metal detectors and some cameras recently installed at the entrances to the Temple Mount in Jerusalem that resulted in a wave of protests and some deaths. Instead, less obtrusive surveillance means will be used. ](/news/2017/07/25/the-israeli-government-says-it-will-remove-metal-detectors-and-some-cameras-recently-installed-at-the-entrances-to-the-temple-mount-in-jerus.md)
+After days of violent protests and a diplomatic crisis with Jordan over the placement of metal detectors at the entrances to the Aqsa Compound, the Israeli government said it would remove them.
+
+### [Kurt Volker, U.S. special representative for Ukraine, says in a BBC News interview that the White House is considering arming Ukrainian government forces fighting Pro-Russian militants with defensive weapons. ](/news/2017/07/25/kurt-volker-u-s-special-representative-for-ukraine-says-in-a-bbc-news-interview-that-the-white-house-is-considering-arming-ukrainian-gove.md)
+Washington is reviewing whether to arm those fighting Russian-backed rebels, says a new envoy.
+
+### [Amid a public backlash, Microsoft reneges on its decision to end its Paint program and states that it will be placed on its app store rather than bundled with future editions of Windows. ](/news/2017/07/25/amid-a-public-backlash-microsoft-reneges-on-its-decision-to-end-its-paint-program-and-states-that-it-will-be-placed-on-its-app-store-rather.md)
+Microsoft will not kill of Paint, it has now said. A suggestion from the company that it would &quot;deprecate&quot; the app and may remove it from future versions of Windows provoke rage, sadness and nostalgia among almost everyone on the internet when it was announced. But Microsoft has now made clear that it will be sticking around – albeit in a different form.
+
+### [Adobe Systems announces it will stop updating and distributing its multimedia software platform Flash by the end of 2020. ](/news/2017/07/25/adobe-systems-announces-it-will-stop-updating-and-distributing-its-multimedia-software-platform-flash-by-the-end-of-2020.md)
+Adobe said it plans to stop updating and distributing its Flash Player by the end of 2020.
+
+### [Michael Kors buys Jimmy Choo for US$1.2 billion. ](/news/2017/07/25/michael-kors-buys-jimmy-choo-for-us-1-2-billion.md)
+The agreement comes as upscale American brands grapple with plummeting sales and tepid profits, particularly in the so-called middle market.
+
+### [Following a similar move in France, the United Kingdom is to ban the sale of petrol and diesel cars by 2040 in order to reduce air pollution. A new tax will also be levied on diesel car drivers in 2020. ](/news/2017/07/25/following-a-similar-move-in-france-the-united-kingdom-is-to-ban-the-sale-of-petrol-and-diesel-cars-by-2040-in-order-to-reduce-air-pollution.md)
+The sale of petrol and diesel cars will end in 2040 - with a new tax on diesel drivers from 2020.
+
+### [2017 heat wave in EuropeFirefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/2017-heat-wave-in-europepfirefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md)
+Hundreds&#x20;of&#x20;firefighters&#x20;were&#x20;battling&#x20;blazes&#x20;across&#x20;southern&#x20;France&#x20;on&#x20;Monday,&#x20;with&#x20;one&#x20;inferno&#x20;spreading&#x20;across&#x20;900&#x20;hectares&#x20;of&#x20;forest&#x20;and&#x20;threatening&#x20;homes&#x20;on&#x20;the&#x20;island&#x20;of&#x20;Corsica,&#x20;emergency&#x20;services&#x20;said.
+
+### [A study, published in the ''Journal of the American Medical Association'', finds that 99 percent of the brains donated for scientific research by deceased National Football League players show signs of chronic traumatic encephalopathy (CTE), the disease identified in autopsies of numerous NFL players who have committed suicide, and the subject of the 2015 movie ''Concussion''. ](/news/2017/07/25/a-study-published-in-the-journal-of-the-american-medical-association-finds-that-99-percent-of-the-brains-donated-for-scientific-resear.md)
+The brains of 99 percent of former National Football League players studied showed signs of a disease linked to repeated hits to the head that can lead to aggression and dementia, according to research published in a medical journal on Tuesday.
+
+### [Jordanian authorities release a video of a Jordanian Air Force sergeant shooting United States soldiers. ](/news/2017/07/25/jordanian-authorities-release-a-video-of-a-jordanian-air-force-sergeant-shooting-united-states-soldiers.md)
+Newly released footage of a gunfight that left three Americans dead in November shows a deliberate attack that was initially explained as a mistake.
+
+### [The United States Navy says the USS ''Thunderbolt'' fired a warning shot at an Iranian patrol boat after it came within 150 yards of the U.S. ship. ](/news/2017/07/25/the-united-states-navy-says-the-uss-thunderbolt-fired-a-warning-shot-at-an-iranian-patrol-boat-after-it-came-within-150-yards-of-the-u-s.md)
+A U.S. Navy ship fired multiple warning shots at an Iranian vessel in the Persian Gulf that came within 150 yards of the American ship, the Navy confirmed. The Islamic Revolutionary Guard Corps naval vessel was approaching the USS Thunderbolt at a high rate of speed and ignored warnings from the...
+
+### [The U.S. House of Representatives votes in favor of economic sanctions against Russia for its interference in the 2016 U.S. election, and against Iran and North Korea for their weapons programs. ](/news/2017/07/25/the-u-s-house-of-representatives-votes-in-favor-of-economic-sanctions-against-russia-for-its-interference-in-the-2016-u-s-election-and-ag.md)
+The House bill would impose new sanctions on Russia, Iran and North Korea, and prevent President Trump from easing some of them without congressional approval.
+
+### [The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md)
+Republicans faced their first defeat, failing to pass a measure that they&#x27;ve been working on that would have partially repealed and replaced Obamacare. 
+
+---
+
+## [Previous Day...](/news/2017/07/24/index.md)
 
 ---
 
