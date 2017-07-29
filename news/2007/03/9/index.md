@@ -13,7 +13,7 @@ _Context: European Union, biofuels, climate change_
 _Context: President, Uganda, Yoweri Museveni_
 
 ### [ The United States Court of Appeals for the District of Columbia Circuit strikes down the Firearms Control Regulations Act of 1975, a local law in the District of Columbia which banned residents from keeping handguns at home, on Second Amendment grounds. ](/news/2007/03/9/the-united-states-court-of-appeals-for-the-district-of-columbia-circuit-strikes-down-the-firearms-control-regulations-act-of-1975-a-local.md)
-_Context: District of Columbia, Firearms Control Regulations Act of 1975, Second Amendment, U.S. Court of Appeals for the District of Columbia Circuit, handgun_
+_Context: District of Columbia, Firearms Control Regulations Act of 1975, Second Amendment, U.S. Appeals Court Judge, handgun_
 
 ### [ Nepal: The Interim legislature of Nepal amends the constitution to turn the country into a federal state. ](/news/2007/03/9/nepal-p-the-interim-legislature-of-nepal-amends-the-constitution-to-turn-the-country-into-a-federal-state.md)
 _Context: Nepal, federal state, no sitting national Legislature_

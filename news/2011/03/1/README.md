@@ -28,7 +28,7 @@ _Context: Christian Dior S.A., John Galliano, anti-Semitism, fashion designer_
 A judge temporarily stripped Charlie Sheen of custody of his twin sons Tuesday, after Brooke Mueller submitted a declaration in which she alleged Charlie&hellip;
 
 ### [Ally Financial, the company formerly known as General Motors Acceptance Corporation, announced in a filing with the Securities and Exchange Commission that the U.S. Treasury Department will be selling some of Ally's preferred securities. This is part of the unwinding of the Treasury's investment in the auto industry as a result of the 2008 financial crisis.  ](/news/2011/03/1/ally-financial-the-company-formerly-known-as-general-motors-acceptance-corporation-announced-in-a-filing-with-the-securities-and-exchange.md)
-_Context: Ally Financial, Securities and Exchange Commission, United States Department of the Treasury_
+_Context: Ally Financial, Securities and Exchange Commission, United States Treasury Department_
 
 ### [2011 Canterbury earthquakeNew Zealand holds a two-minute silence in respect for the victims of the 2011 Canterbury earthquake. ](/news/2011/03/1/2011-canterbury-earthquakepnew-zealand-holds-a-two-minute-silence-in-respect-for-the-victims-of-the-2011-canterbury-earthquake.md)
 The death toll from the Christchurch earthquake is likely to be about 240, police say. - New Zealand Herald

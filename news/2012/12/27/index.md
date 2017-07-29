@@ -22,7 +22,7 @@ _Context: Private investigator, Whitney Houston_
 Iranian President MahmoudAhmadinejad on Thursday dismissed his only female cabinetminister, Health Minister Marzieh Vahid Dastjerdi, after shecriticised her colleagues for failing to provide funds to importvital medicines.
 
 ### [Bilawal Bhutto Zardari, the son of Pakistan's murdered ex-Prime Minister Benazir Bhutto, promises to fight militancy and maintain democracy, in his first major political speech marking five years since his mother's death. ](/news/2012/12/27/bilawal-bhutto-zardari-the-son-of-pakistan-s-murdered-ex-prime-minister-benazir-bhutto-promises-to-fight-militancy-and-maintain-democracy.md)
-_Context: 2007 assassination, Benazir Bhutto, Bilawal Bhutto Zardari, Pakistan, Prime Minister_
+_Context: 2007 assassination, Benazir Bhutto, Bilawal Bhutto Zardari, Pakistan, Prime Minister of Pakistan_
 
 ### [Catholic figurehead Sean Brady's intervention in Ireland's abortion debate draws harsh criticism from legislators and more calls for the Church to transfer the rest of the compensation it promised for those abused by priests, but has not yet paid. ](/news/2012/12/27/catholic-figurehead-sea-n-brady-s-intervention-in-ireland-s-abortion-debate-draws-harsh-criticism-from-legislators-and-more-calls-for-the-ch.md)
 _Context: Catholic, Catholic Church, Ireland, Sean Brady, abortion, abortion_

@@ -22,7 +22,7 @@ _Context: Italian Prime Minister, Italian Senate, Silvio Berlusconi, legal troub
 _Context: Saudi Arabia, al-Qaeda, insurgency in Saudi Arabia_
 
 ### [ The Supreme Court of Pakistan delays by-elections until it can handle the appeal of disqualified candidate Nawaz Sharif, former Prime Minister and leader of the Pakistan Muslim League (N). ](/news/2008/06/25/the-supreme-court-of-pakistan-delays-by-elections-until-it-can-handle-the-appeal-of-disqualified-candidate-nawaz-sharif-former-prime-minis.md)
-_Context: Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minister, Supreme Court, by-elections_
+_Context: Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minister of Pakistan, Supreme Court, by-elections_
 
 ### [ A worker at a plastics plant in Henderson, Kentucky shoots and kills five people and wounds another before killing himself. ](/news/2008/06/25/a-worker-at-a-plastics-plant-in-henderson-kentucky-shoots-and-kills-five-people-and-wounds-another-before-killing-himself.md)
 _Context: Henderson, Kentucky, plastics plant_

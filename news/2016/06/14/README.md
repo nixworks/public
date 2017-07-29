@@ -28,7 +28,7 @@ An armed man was fatally shot by police after holding two people hostage in an A
 The breach at the Democratic National Committee was one of several targeting U.S. political organizations, including the Trump and Clinton campaigns.
 
 ### [A U.S. Court of Appeals for the District of Columbia Circuit three-judge  panel upholds the Federal Communications Commission's net neutrality rules that prohibit broadband providers from giving or selling access to faster internet service to selected customers. ](/news/2016/06/14/a-u-s-court-of-appeals-for-the-district-of-columbia-circuit-three-judge-panel-upholds-the-federal-communications-commission-s-net-neutrali.md)
-_Context: Federal Communications Commission, U.S. Court of Appeals for the District of Columbia Circuit, broadband providers, net neutrality_
+_Context: Federal Communications Commission, U.S. Appeals Court Judge, broadband providers, net neutrality_
 
 ### [An Egyptian Misdemeanor Court acquits 52 people charged with taking part in anti-government demonstrations in April.  Thousands rallied on April 25 to protest the transfer of Red Sea islands Tiran and Sanafir to Saudi Arabia. Police arrested nearly 300 demonstrators; government reports indicate all have  been released from prison. ](/news/2016/06/14/an-egyptian-misdemeanor-court-acquits-52-people-charged-with-taking-part-in-anti-government-demonstrations-in-april-thousands-rallied-on-a.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

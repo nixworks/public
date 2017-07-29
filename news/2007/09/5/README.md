@@ -71,7 +71,7 @@ _Context: Calcutta, Mother Teresa_
 The Sydney Morning Herald 404 Page
 
 ### [ Pakistani police arrest approximately 50 supporters of former Prime Minister Nawaz Sharif's Pakistan Muslim League in Punjab prior to his return to Pakistan next week. ](/news/2007/09/5/pakistani-police-arrest-approximately-50-supporters-of-former-prime-minister-nawaz-sharif-s-pakistan-muslim-league-in-punjab-prior-to-his-r.md)
-_Context: Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minister, Punjab_
+_Context: Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minister of Pakistan, Punjab_
 
 ### [  The Prime Minister of Australia John Howard and the President of the United States George W. Bush agree to discuss upgrading the defense relationship with Australia to enjoy the same access to US military technology as the United Kingdom. ](/news/2007/09/5/the-prime-minister-of-australia-john-howard-and-the-president-of-the-united-states-george-w-bush-agree-to-discuss-upgrading-the-defense-r.md)
 Prime Minister John Howard has announced that he and US President George W Bush have agreed to discuss a further upgrade of the defence relationship between the two nations.

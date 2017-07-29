@@ -55,7 +55,7 @@ Arrest report filed by Cambridge Police Dept, Cambridge, Mass. on January 13, 20
 _Context: Southern Sudanese Independence Referendum, geostationary satellites, observers_
 
 ### [Prime Minister of Pakistan Yousaf Raza Gillani cancels recent fuel price increases in an apparent concession to the opposition in an attempt to save his government from collapse after losing its majority in parliament. ](/news/2011/01/6/prime-minister-of-pakistan-yousaf-raza-gillani-cancels-recent-fuel-price-increases-in-an-apparent-concession-to-the-opposition-in-an-attempt.md)
-_Context: Parliament's, Prime Minister, Yousaf Raza Gillani_
+_Context: Parliament's, Prime Minister of Pakistan, Yousaf Raza Gillani_
 
 ### [Laurence Mackenzie resigns as chief executive of Northern Ireland Water in response to the organisation's handling of the recent water shortage in Northern Ireland. ](/news/2011/01/6/laurence-mackenzie-resigns-as-chief-executive-of-northern-ireland-water-in-response-to-the-organisation-s-handling-of-the-recent-water-short.md)
 Northern Ireland Water (NIW) has apologised to customers for its handling of the recent water shortage after being overwhelmed by more than one million contacts from customers

@@ -4,7 +4,7 @@
 _Context: Afghan Interior Ministry, April 2016 Kabul attack, Kabul, National Directorate of Security, Taliban, War in Afghanistan (2015-present)_
 
 ### [A Ukrainian military spokesman says three of its soldiers were killed by a mortar attack in the country's east, the heaviest toll reported in the region in nearly two months. ](/news/2016/04/20/a-ukrainian-military-spokesman-says-three-of-its-soldiers-were-killed-by-a-mortar-attack-in-the-country-s-east-the-heaviest-toll-reported-i.md)
-_Context: Ukraine, Ukrainian military, War in Donbass, eastern Ukraine_
+_Context: Eastern Ukraine, Ukraine, Ukrainian military, War in Donbass_
 
 ### [Pakistani Taliban militants, in two attacks, kill seven police officers who were guarding medical workers administering polio vaccinations in Karachi. ](/news/2016/04/20/pakistani-taliban-militants-in-two-attacks-kill-seven-police-officers-who-were-guarding-medical-workers-administering-polio-vaccinations-i.md)
 Group claims its gunmen carried out the two separate attacks in Karachi but officials say medical teams were not targeted

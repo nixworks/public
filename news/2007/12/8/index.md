@@ -7,7 +7,7 @@ _Context: CIA, U.S. Department of Justice, United States, al-Qaeda, destroying C
 _Context: Avian flu virus, Chinese, bird flu_
 
 ### [ Gunmen attack a party office of former Prime Minister Benazir Bhutto in Karachi, Pakistan, killing three supporters. ](/news/2007/12/8/gunmen-attack-a-party-office-of-former-prime-minister-benazir-bhutto-in-karachi-pakistan-killing-three-supporters.md)
-_Context: Benazir Bhutto, Karachi, Pakistan, Prime Minister_
+_Context: Benazir Bhutto, Karachi, Pakistan, Prime Minister of Pakistan_
 
 ### [ The Junior Eurovision Song Contest 2007 was held in Rotterdam, The Netherlands.date=December 2007](/news/2007/12/8/the-junior-eurovision-song-contest-2007-was-held-in-rotterdam-the-netherlands-date-december-2007.md)
 _Context: Dutch, Junior Eurovision Song Contest 2007, Rotterdam_

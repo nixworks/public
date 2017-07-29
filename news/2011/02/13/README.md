@@ -70,7 +70,7 @@ _Context: Fred Karger, Iowa, LGBT rights in the United States, New Hampshire, Re
 Cuba releases the political prisoners Hector Maseda and Angel Moya, after a seven-month delay following their refusal to go into exile in Spain.
 
 ### [Hina Rabbani Khar is appointed Minister of Foreign Affairs of Pakistan by Prime Minister Yousaf Raza Gillani to become the first female Foreign Minister. ](/news/2011/02/13/hina-rabbani-khar-is-appointed-minister-of-foreign-affairs-of-pakistan-by-prime-minister-yousaf-raza-gillani-to-become-the-first-female-fore.md)
-_Context: Hina Rabbani Khar, Minister of Foreign Affairs, Pakistan, Prime Minister, Yousaf Raza Gillani_
+_Context: Hina Rabbani Khar, Minister of Foreign Affairs, Pakistan, Prime Minister of Pakistan, Yousaf Raza Gillani_
 
 ### [Thousands of protesters in Dresden, Germany form a human chain to mark the 66th anniversary of the Dresden bombing and to protest against racism. ](/news/2011/02/13/thousands-of-protesters-in-dresden-germany-form-a-human-chain-to-mark-the-66th-anniversary-of-the-dresden-bombing-and-to-protest-against-ra.md)
 _Context: Dresden, Dresden bombing, Germany, human chain_

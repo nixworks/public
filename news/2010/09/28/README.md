@@ -40,7 +40,7 @@ _Context: AK47, Austin, University of Texas at Austin_
 _Context: Egypt, Hisham Talaat Moustafa, Suzanne Tamim_
 
 ### [The United States Court of Appeals for the District of Columbia Circuit permanently lifts an injunction thereby allowing the United States Government to fund embryonic stem cell research. ](/news/2010/09/28/the-united-states-court-of-appeals-for-the-district-of-columbia-circuit-permanently-lifts-an-injunction-thereby-allowing-the-united-states-g.md)
-_Context: U.S. Court of Appeals for the District of Columbia Circuit, United States government, embryonic stem cell_
+_Context: U.S. Appeals Court Judge, United States government, embryonic stem cell_
 
 ### [Four people are killed, including a toddler, and one seriously injured in a shooting spree in the Mattapan neighbourhood of Boston, Massachusetts. ](/news/2010/09/28/four-people-are-killed-including-a-toddler-and-one-seriously-injured-in-a-shooting-spree-in-the-mattapan-neighbourhood-of-boston-massachu.md)
 _Context: Boston, Massachusetts, Mattapan, shooting spree_

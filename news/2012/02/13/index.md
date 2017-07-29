@@ -43,7 +43,7 @@ _Context: Northern California, United States Geological Survey, Weitchpec, magni
 _Context: Azerbaijan, Iran, Israel_
 
 ### [The Prime Minister of Pakistan Yousuf Raza Gilani appears before the Supreme Court of Pakistan to face contempt of court charges. ](/news/2012/02/13/the-prime-minister-of-pakistan-yousuf-raza-gilani-appears-before-the-supreme-court-of-pakistan-to-face-contempt-of-court-charges.md)
-_Context: Prime Minister, Supreme Court, Yousuf Raza Gilani, contempt of court_
+_Context: Prime Minister of Pakistan, Supreme Court, Yousuf Raza Gilani, contempt of court_
 
 ### [Abu Qatada, accused of being one of the United Kingdom's most dangerous preachers of Islamic extremism, is released from prison following a ruling from the European Court of Human Rights last week. ](/news/2012/02/13/abu-qatada-accused-of-being-one-of-the-united-kingdom-s-most-dangerous-preachers-of-islamic-extremism-is-released-from-prison-following-a.md)
 _Context: Abu Qatada, European Court of Human Rights, Islamic extremist group, United Kingdom_

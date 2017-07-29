@@ -68,7 +68,7 @@ _Context: Daniel Patrick Boyd, North Carolina, United States, terrorism_
 _Context: Basque language, Basque nationalists, ETA, Sortu_
 
 ### [The Cabinet of Pakistan submit their resignations to the prime minister, who intends to appoint a smaller cabinet in order to reduce government spending at a time of economic crisis. ](/news/2011/02/9/the-cabinet-of-pakistan-submit-their-resignations-to-the-prime-minister-who-intends-to-appoint-a-smaller-cabinet-in-order-to-reduce-governm.md)
-_Context: Cabinet of Pakistan, Prime Minister, economic crisis, forming a government_
+_Context: Cabinet of Pakistan, Prime Minister of Pakistan, economic crisis, forming a government_
 
 ### [US Representative Chris Lee representing New York's 26th congressional district resigns after it is revealed that he sent a racy photo to a woman who was not his wife. ](/news/2011/02/9/us-representative-chris-lee-representing-new-york-s-26th-congressional-district-resigns-after-it-is-revealed-that-he-sent-a-racy-photo-to-a.md)
 _Context: 26th congressional district, Chris Lee, United States House of Representatives_

@@ -10,7 +10,7 @@ _Context: Washington Metro, Washington, D.C._
 _Context: Democratic Republic of the Congo, Goma, Kivu conflict, Laurent Nkunda, Tutsi_
 
 ### [ Nine major US banks will receive a $US123 billion capital injection from the federal government, says a Treasury Department official. ](/news/2008/10/27/nine-major-us-banks-will-receive-a-us123-billion-capital-injection-from-the-federal-government-says-a-treasury-department-official.md)
-_Context: US$, United States Department of the Treasury, United States government_
+_Context: US$, United States Treasury Department, United States government_
 
 ### [ Line m2 of the Lausanne Metro starts revenue service, making Lausanne, Switzerland, the smallest city in the world to have a metro system. ](/news/2008/10/27/line-m2-of-the-lausanne-metro-starts-revenue-service-making-lausanne-switzerland-the-smallest-city-in-the-world-to-have-a-metro-system.md)
 _Context: Lausanne, Lausanne Metro, Switzerland_

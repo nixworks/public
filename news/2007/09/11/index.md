@@ -28,7 +28,7 @@ _Context: Belgian, Brussels, Europe, Filip Dewinter, Frank Vanhecke, Islamisatio
 Russia says it has tested the world&#039;s most powerful vacuum bomb.
 
 ### [ Lawyers for former Prime Minister of Pakistan Nawaz Sharif file a petition in the Supreme Court of Pakistan against his deportation to Saudi Arabia. ](/news/2007/09/11/lawyers-for-former-prime-minister-of-pakistan-nawaz-sharif-file-a-petition-in-the-supreme-court-of-pakistan-against-his-deportation-to-saud.md)
-_Context: Nawaz Sharif, Prime Minister, Saudi Arabia, Supreme Court_
+_Context: Nawaz Sharif, Prime Minister of Pakistan, Saudi Arabia, Supreme Court_
 
 ### [ Roman Catholic archbishop and critic of Robert Mugabe Pius Ncube resigns as a result of a sex scandal set up by Zimbabwe's intelligence agency. ](/news/2007/09/11/roman-catholic-archbishop-and-critic-of-robert-mugabe-pius-ncube-resigns-as-a-result-of-a-sex-scandal-set-up-by-zimbabwe-s-intelligence-age.md)
 _Context: Archbishop, Pius Ncube, Robert Mugabe, Roman Catholic, influence for sex_

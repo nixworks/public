@@ -1,7 +1,7 @@
 ## [2014-05-5](/news/2014/05/5/index.md)
 
 ### [2014 pro-Russian unrest in Ukraine and the A Ukrainian military helicopter patrolling around the eastern city of Sloviansk is shot down; all of the pilots survived and were later rescued.  ](/news/2014/05/5/2014-pro-russian-unrest-in-ukraine-and-the-a-ukrainian-military-helicopter-patrolling-around-the-eastern-city-of-sloviansk-is-shot-down-all.md)
-_Context: 2014 pro-Russian unrest in Ukraine, Siege of Sloviansk, Sloviansk, Ukrainian military, eastern Ukraine_
+_Context: 2014 pro-Russian unrest in Ukraine, Eastern Ukraine, Siege of Sloviansk, Sloviansk, Ukrainian military_
 
 ### [Russian media reveals that President Vladimir Putin secretly signed a decree (No. 279) honoring more than 300 journalists for their "objective coverage" of Crimea's seizure from Ukraine. ](/news/2014/05/5/russian-media-reveals-that-president-vladimir-putin-secretly-signed-a-decree-no-279-honoring-more-than-300-journalists-for-their-objecti.md)
 _Context: Crimea, Vladimir Putin, signed a decree_

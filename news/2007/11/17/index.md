@@ -22,7 +22,7 @@ _Context: Hashim Thai, Kosovo, parliamentary election_
 A 6.0 magnitude earthquake struck northern Chile on Saturday, the latest in a series of aftershocks to hit the mineral-rich Andean country since a powerful temblor on Wednesday.
 
 ### [ 2007 Pakistani state of emergency: Former Prime Minister of Pakistan Benazir Bhutto returns to Karachi after release from house arrest in Lahore.date=December 2007 TV networks Geo TV and ARY Digital are shut down by the Pakistan government. ](/news/2007/11/17/2007-pakistani-state-of-emergency-p-former-prime-minister-of-pakistan-benazir-bhutto-returns-to-karachi-after-release-from-house-arrest-in.md)
-_Context: 2007 Pakistani state of emergency, ARY Digital, Benazir Bhutto, GEO Television, Karachi, Lahore, Prime Minister, house arrest_
+_Context: 2007 Pakistani state of emergency, ARY Digital, Benazir Bhutto, GEO Television, Karachi, Lahore, Prime Minister of Pakistan, house arrest_
 
 ### [ Russian prosecutors confirm the detention of Deputy Finance Minister Sergei Storchak and two businessmen on suspicion of "attempting large-scale embezzlement from the Russian state budget through fraud". ](/news/2007/11/17/russian-prosecutors-confirm-the-detention-of-deputy-finance-minister-sergei-storchak-and-two-businessmen-on-suspicion-of-attempting-large.md)
 _Context: Russia, Sergei Storchak_

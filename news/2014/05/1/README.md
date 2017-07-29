@@ -1,7 +1,7 @@
 ## [2014-05-1](/news/2014/05/1/index.md)
 
 ### [2014 pro-Russian unrest in Ukraine:Pro-Russian militants seize the regional prosecutor's office in the eastern Ukrainian city of Donetsk.  ](/news/2014/05/1/2014-pro-russian-unrest-in-ukraine-ppro-russian-militants-seize-the-regional-prosecutor-s-office-in-the-eastern-ukrainian-city-of-donetsk.md)
-_Context: 2014 pro-Russian unrest in Ukraine, Donetsk, eastern Ukraine_
+_Context: 2014 pro-Russian unrest in Ukraine, Donetsk, Eastern Ukraine_
 
 ### [Islamist insurgency in Nigeria:A car bomb attack in the Nigerian capital Abuja kills at least nine people. ](/news/2014/05/1/islamist-insurgency-in-nigeria-pa-car-bomb-attack-in-the-nigerian-capital-abuja-kills-at-least-nine-people.md)
 A car bomb attack in the Nigerian capital Abuja, the second in recent weeks, kills at least 19 people and injures dozens more.

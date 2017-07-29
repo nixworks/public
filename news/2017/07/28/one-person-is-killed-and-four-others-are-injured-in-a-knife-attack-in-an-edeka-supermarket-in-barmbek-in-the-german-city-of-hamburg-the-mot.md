@@ -1,6 +1,6 @@
 ### [2017-07-28](/news/2017/07/28/index.md)
 
-# One person is killed and four others are injured in a knife attack in an Edeka supermarket in Barmbek in the German city of Hamburg. The motive for the attack is currently unknown. 
+# One person is killed and four others are injured in a knife attack in an Edeka supermarket in Barmbek in the German city of Hamburg. The motive for the attack is Muslim terrorism. 
 
 Police say one suspect has been arrested but that it is too soon to pinpoint a motive.
 

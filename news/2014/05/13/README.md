@@ -1,7 +1,7 @@
 ## [2014-05-13](/news/2014/05/13/index.md)
 
 ### [2014 pro-Russian unrest in Ukraine:Valery Bolotov, a leader of the separatist movement in the eastern city of Luhansk, is wounded in an assassination attempt by an unknown assailant.  ](/news/2014/05/13/2014-pro-russian-unrest-in-ukraine-pvalery-bolotov-a-leader-of-the-separatist-movement-in-the-eastern-city-of-luhansk-is-wounded-in-an-ass.md)
-_Context: 2014 pro-Russian unrest in Ukraine, Luhansk, Valery Bolotov, eastern Ukraine_
+_Context: 2014 pro-Russian unrest in Ukraine, Eastern Ukraine, Luhansk, Valery Bolotov_
 
 ### [Central African Republic conflict (2012-present):The body of 26-year-old French photojournalist Camille Lepage was found in the Bouar region. The French presidency released a statement saying she was "murdered" and announced that a team of investigators will be dispatched to the scene. ](/news/2014/05/13/central-african-republic-conflict-2012apresent-pthe-body-of-26-year-old-french-photojournalist-camille-lepage-was-found-in-the-bouar-reg.md)
 French president orders immediate despatch of team to &#x27;shine light on circumstances of assassination&#x27; of 26-year-old

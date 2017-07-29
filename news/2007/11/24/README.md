@@ -34,7 +34,7 @@ _Context: Afghanistan, Paghman, suicide bomber_
 _Context: Australia, Australian Prime Minister, John Howard, Kevin Rudd, Labor Party, Parliament, national election_
 
 ### [ 2007 Pakistani state of emergency: Former Prime Minister Shaukat Aziz refuses to contest in forthcoming elections and denied rumors that he is leaving the country. Two suicide car bombings kill at least 30 people and injure many more in Rawalpindi. ](/news/2007/11/24/2007-pakistani-state-of-emergency-p-former-prime-minister-shaukat-aziz-refuses-to-contest-in-forthcoming-elections-and-denied-rumors-that-h.md)
-_Context: 2007 Pakistani state of emergency, Prime Minister, Rawalpindi, Shaukat Aziz, car bombing, suicide bomber_
+_Context: 2007 Pakistani state of emergency, Prime Minister of Pakistan, Rawalpindi, Shaukat Aziz, car bombing, suicide bomber_
 
 ## [Previous Day...](/news/2007/11/23/index.md)
 

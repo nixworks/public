@@ -1,7 +1,7 @@
 ## [2005-05-6](/news/2005/05/6/index.md)
 
 ### [ The United States Court of Appeals for the District of Columbia Circuit rules that the FCC overstepped its authority in attempting to impose the "broadcast flag" on hardware manufacturers. ](/news/2005/05/6/the-united-states-court-of-appeals-for-the-district-of-columbia-circuit-rules-that-the-fcc-overstepped-its-authority-in-attempting-to-impos.md)
-_Context: Federal Communications Commission, U.S. Court of Appeals for the District of Columbia Circuit, broadcast flag_
+_Context: Federal Communications Commission, U.S. Appeals Court Judge, broadcast flag_
 
 ### [ Fatah wins 55 percent of the seats in municipal elections held in 84 cities across the West Bank and Gaza. Hamas wins about a third of the seats. Fatah won a majority of seats in Beit Lahiya, Hawara and Tulkarem, Hamas won the majority in Qalqiliya and El Boureij. Election participation was 70 percent in the West Bank and 80 percent in Gaza. ](/news/2005/05/6/fatah-wins-55-percent-of-the-seats-in-municipal-elections-held-in-84-cities-across-the-west-bank-and-gaza-hamas-wins-about-a-third-of-the.md)
 _Context: Beit Lahiya, El Boureij, Fatah, Gaza Strip, Hamas, Hawara, Qalqiliya, Tulkarem, West Bank_

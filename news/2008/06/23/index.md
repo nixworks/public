@@ -7,7 +7,7 @@ _Context: A. Q. Khan, Buhary Syed Abu Tahir, Malaysia_
 _Context: International Whaling Commission , Santiago_
 
 ### [ Nawaz Sharif, former Prime Minister of Pakistan and leader of the Pakistan Muslim League (N), is found ineligible by a court to stand in upcoming by-elections. ](/news/2008/06/23/nawaz-sharif-former-prime-minister-of-pakistan-and-leader-of-the-pakistan-muslim-league-n-is-found-ineligible-by-a-court-to-stand-in-up.md)
-_Context: Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minister, by-elections_
+_Context: Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minister of Pakistan, by-elections_
 
 ### [ In Serbia, the Milosevic-founded Socialist Party is to join the coalition led by the pro-Western Democratic Party which came to power in 2007 elections. ](/news/2008/06/23/in-serbia-the-miloa-evia-founded-socialist-party-is-to-join-the-coalition-led-by-the-pro-western-democratic-party-which-came-to-power-in.md)
 _Context: 2007 elections, Democratic Party, Serbia, Slobodan Milosevic, Socialist Party_
@@ -19,7 +19,7 @@ _Context: Chinese, deadly earthquake_
 _Context: Atlantic Yards, Brooklyn, New York City, U.S. Supreme Court, eminent domain, evict_
 
 ### [ The Court of Appeals for the D.C. Circuit rules that Hozaifa Parhat, a Chinese Uyghur militant currently detained at the Guantanamo Bay detention camp, cannot be ruled an "enemy combatant" because he never took up arms against the United States. ](/news/2008/06/23/the-court-of-appeals-for-the-d-c-circuit-rules-that-hozaifa-parhat-a-chinese-uyghur-militant-currently-detained-at-the-guantanamo-bay-det.md)
-_Context: Chinese, Guantanamo Bay Detention Camp, Hozaifa Parhat, U.S. Court of Appeals for the District of Columbia Circuit, United States, Uyghur, enemy combatant_
+_Context: Chinese, Guantanamo Bay Detention Camp, Hozaifa Parhat, U.S. Appeals Court Judge, United States, Uyghur, enemy combatant_
 
 ### [ The European Union agrees to new sanctions against Iran including a freeze on the assets of Bank Melli, Iran's largest bank, over the refusal to curb its nuclear program. ](/news/2008/06/23/the-european-union-agrees-to-new-sanctions-against-iran-including-a-freeze-on-the-assets-of-bank-melli-iran-s-largest-bank-over-the-refus.md)
 _Context: Bank Melli, European Union, Iran, nuclear program, sanctions_

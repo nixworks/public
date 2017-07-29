@@ -1,6 +1,6 @@
 ## [2017-07-28](/news/2017/07/28/index.md)
 
-### [One person is killed and four others are injured in a knife attack in an Edeka supermarket in Barmbek in the German city of Hamburg. The motive for the attack is currently unknown. ](/news/2017/07/28/one-person-is-killed-and-four-others-are-injured-in-a-knife-attack-in-an-edeka-supermarket-in-barmbek-in-the-german-city-of-hamburg-the-mot.md)
+### [One person is killed and four others are injured in a knife attack in an Edeka supermarket in Barmbek in the German city of Hamburg. The motive for the attack is Muslim terrorism. ](/news/2017/07/28/one-person-is-killed-and-four-others-are-injured-in-a-knife-attack-in-an-edeka-supermarket-in-barmbek-in-the-german-city-of-hamburg-the-mot.md)
 Police say one suspect has been arrested but that it is too soon to pinpoint a motive.
 
 ### [U.S. Appeals Court Judge Patricia Millett rejects the Federal Aviation Administration argument that seat size is unimportant when passengers exit a plane in an emergency, and orders the FAA to set minimum standards for the space airlines give passengers.  ](/news/2017/07/28/u-s-appeals-court-judge-patricia-millett-rejects-the-federal-aviation-administration-argument-that-seat-size-is-unimportant-when-passengers.md)
@@ -12,7 +12,7 @@ The train did not brake when entering the station, hitting the buffers at the pl
 ### [Charlie Gard, an infant with a rare genetic condition known as mitochondrial DNA depletion syndrome, dies at the age of 11 months. ](/news/2017/07/28/charlie-gard-an-infant-with-a-rare-genetic-condition-known-as-mitochondrial-dna-depletion-syndrome-dies-at-the-age-of-11-months.md)
 Charlie Gard has died following his near year-long battle with a rare genetic disease.
 
-### [North Korea launches a ballistic missile that flies 620 miles horizontally in about 45 minutes, landing in the Sea of Japan, according to Japan, South Korea and the United States.  ](/news/2017/07/28/north-korea-launches-a-ballistic-missile-that-flies-620-miles-horizontally-in-about-45-minutes-landing-in-the-sea-of-japan-according-to-ja.md)
+### [North Korea launches an intercontinental ballistic missile that flies 620 miles horizontally in about 45 minutes, landing in the Sea of Japan, according to Japan, South Korea and the United States.  ](/news/2017/07/28/north-korea-launches-an-intercontinental-ballistic-missile-that-flies-620-miles-horizontally-in-about-45-minutes-landing-in-the-sea-of-japa.md)
 _Context: 2017 North Korean missile tests, Japan, North Korea and weapons of mass destruction, Sea of Japan, South Korea, United States_
 
 ### [The United States Treasury Department imposes sanctions on six Shahid Hemmat Industrial Group satellite companies following a recent Iranian rocket launch that the U.S. says breached  United Nations Security Council Resolution 2231. ](/news/2017/07/28/the-united-states-treasury-department-imposes-sanctions-on-six-shahid-hemmat-industrial-group-satellite-companies-following-a-recent-iranian.md)

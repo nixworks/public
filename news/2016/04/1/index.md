@@ -4,7 +4,7 @@
 America condemned Syria&rsquo;s regime in the &ldquo;strongest terms&rdquo; on Friday after air strikes on a school and a hospital in a suburb of Damascus killed at least 30 people, including women and children.
 
 ### [International monitors from the OSCE report that fighting has intensified in Eastern Ukraine as a second year of a shaky truce begins. The worst of the fighting is located between government-controlled Avdiivka and separatist-controlled Yasynuvata. ](/news/2016/04/1/international-monitors-from-the-osce-report-that-fighting-has-intensified-in-eastern-ukraine-as-a-second-year-of-a-shaky-truce-begins-the-w.md)
-_Context: Avdiivka, OSCE, War in Donbass, Yasynuvata, eastern Ukraine_
+_Context: Avdiivka, Eastern Ukraine, OSCE, War in Donbass, Yasynuvata_
 
 ### [A U.S. drone strike reportedly kills a key Al-Shabaab leader, Hassan Ali Dhoore, and two other militants, near the town of Jilib, Somalia, according to several U.S. officials. ](/news/2016/04/1/a-u-s-drone-strike-reportedly-kills-a-key-al-shabaab-leader-hassan-ali-dhoore-and-two-other-militants-near-the-town-of-jilib-somalia-a.md)
 WASHINGTON (AP) — A U.S. drone strike in Somalia has targeted a key leader of the al-Shabab militant group who was involved in two attacks in Mogadishu more than a year ago that killed more than 30 people, at least three…

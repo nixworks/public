@@ -16,7 +16,7 @@ Citing a 2011 statement by a French intellectual, Erdogan claimed he could prove
 _Context: Duncan, Oklahoma, murder_
 
 ### [A Pakistani court indicts former President Pervez Musharraf for his alleged involvement in the 2007 assassination of former Prime Minister Benazir Bhutto. ](/news/2013/08/20/a-pakistani-court-indicts-former-president-pervez-musharraf-for-his-alleged-involvement-in-the-2007-assassination-of-former-prime-minister-b.md)
-_Context: 2007 assassination, Benazir Bhutto, Pakistan, Pervez Musharraf, President, Prime Minister, indicted_
+_Context: 2007 assassination, Benazir Bhutto, Pakistan, Pervez Musharraf, President, Prime Minister of Pakistan, indicted_
 
 ### [Six gunshots are fired from an AK-47 at an elementary school in Decatur, Georgia, U.S. No one was injured, and premises were evacuated. Suspected gunman, a 20-year-old man arrested. ](/news/2013/08/20/six-gunshots-are-fired-from-an-ak-47-at-an-elementary-school-in-decatur-georgia-u-s-no-one-was-injured-and-premises-were-evacuated-susp.md)
 _Context: AK-47s, Decatur, Georgia, U.S._

@@ -13,7 +13,7 @@ When fire broke out deep underground at a hydroelectric plant in the Rockies, of
 _Context: Chinese, Chongqing, bus_
 
 ### [ Pakistan: The Pakistani cabinet announces plans to drop all corruption charges against former Prime Minister Benazir Bhutto.date=December 2007 The President of Pakistan Pervez Musharraf appoints General Ashfaq Kiyani to succeed him as the head of the Pakistan Army after Saturday's election. ](/news/2007/10/2/pakistan-p-the-pakistani-cabinet-announces-plans-to-drop-all-corruption-charges-against-former-prime-minister-benazir-bhutto-date-december.md)
-_Context: Ashfaq Kiyani, Benazir Bhutto, General, Pakistan, Pakistan Army, Pervez Musharraf, President, Prime Minister, anti-corruption, government_
+_Context: Ashfaq Kiyani, Benazir Bhutto, General, Pakistan, Pakistan Army, Pervez Musharraf, President, Prime Minister of Pakistan, anti-corruption, government_
 
 ### [ Israel confirms it conducted an airstrike on Syria on September 6. ](/news/2007/10/2/israel-confirms-it-conducted-an-airstrike-on-syria-on-september-6.md)
 Ambiguity surrounding reported IAF attack in Syria ends as Israel confirms air raid of undisclosed Syrian targets

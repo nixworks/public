@@ -34,7 +34,7 @@ GENEVA (AP) — The U.N. envoy for Syria appealed to the U.S. and Russia to inte
 _Context: European Union, France, France-Russia relations, National Assembly, Nicolas Sarkozy, PS, President of France, Republican, Russia, The Greens, against, annexation by Russia_
 
 ### [The Organization for Security and Co-operation in Europe warns that the situation in Eastern Ukraine is worsening. Chief monitor for Ukraine Ertugrul Apakan says that "during the past weeks, the OSCE has registered the highest number of cease-fire violations in months" and warned that artillery and mortars banned under Minsk II "are being used again in increased numbers." ](/news/2016/04/28/the-organization-for-security-and-co-operation-in-europe-warns-that-the-situation-in-eastern-ukraine-is-worsening-chief-monitor-for-ukraine.md)
-_Context: Ertugrul Apakan, Minsk II, OSCE, War in Donbass, eastern Ukraine_
+_Context: Eastern Ukraine, Ertugrul Apakan, Minsk II, OSCE, War in Donbass_
 
 ### [U.S. Special Envoy to South Sudan Donald E. Booth said that the United States would consider imposing sanctions or an arms embargo on South Sudan's leaders if they fail to form and cooperate in a proposed unity government to end the country's civil war. ](/news/2016/04/28/u-s-special-envoy-to-south-sudan-donald-e-booth-said-that-the-united-states-would-consider-imposing-sanctions-or-an-arms-embargo-on-south.md)
 US envoy says sanctions or an arms embargo may be imposed on political leaders if they fail to keep the peace.

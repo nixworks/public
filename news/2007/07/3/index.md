@@ -10,7 +10,7 @@ _Context: British government, Jamaat-ul-Mujahideen Bangladesh, Tehreek-e-Nafaz-e
 _Context: Charles Taylor, President of Liberia, The Hague_
 
 ### [ Former Prime Minister Benazir Bhutto says she will return to Pakistan and is considering contesting the next presidential election. ](/news/2007/07/3/former-prime-minister-benazir-bhutto-says-she-will-return-to-pakistan-and-is-considering-contesting-the-next-presidential-election.md)
-_Context: Benazir Bhutto, Pakistan, Prime Minister_
+_Context: Benazir Bhutto, Pakistan, Prime Minister of Pakistan_
 
 ### [ Lal Masjid clashes: At least seven people have been killed in clashes between security forces and militant students at a mosque in the Pakistani capital Islamabad. ](/news/2007/07/3/lal-masjid-clashes-at-least-seven-people-have-been-killed-in-clashes-between-security-forces-and-militant-students-at-a-mosque-in-the-paki.md)
 _Context: 700 students surrender, Islamabad, Pakistan, Red Mosque_
