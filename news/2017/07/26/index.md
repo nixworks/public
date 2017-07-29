@@ -10,7 +10,7 @@ Two German army pilots have died after their helicopter crashed near Gao, easter
 Wildfires also devouring swaths of forests in Corsica, Portugal, Italy and Albania
 
 ### [At least 17 people are killed in a building collapse in the Indian city of Mumbai with at least 13 injured and twelve people unaccounted for. ](/news/2017/07/26/at-least-17-people-are-killed-in-a-building-collapse-in-the-indian-city-of-mumbai-with-at-least-13-injured-and-twelve-people-unaccounted-for.md)
-_Context: India, Mumbai_
+_Context: History of Mumbai, India, Mumbai_
 
 ### [At least one person was killed and several others injured after a ride at the Ohio State Fair malfunctioned while operating. ](/news/2017/07/26/at-least-one-person-was-killed-and-several-others-injured-after-a-ride-at-the-ohio-state-fair-malfunctioned-while-operating.md)
 _Context: Ohio State Fair_
