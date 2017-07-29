@@ -1,23 +1,6 @@
-## [News](/news/2017/07/30/index.md)
+## [News](/news/2017/07/28/index.md)
 
-### [Voters in Venezuela participate in a controversial election for members of a new Constitutional Assembly, devised by President Nicols Maduro to amend the constitution following a legislative takeover in March. Protests and strikes are expected. ](/news/2017/07/30/voters-in-venezuela-participate-in-a-controversial-election-for-members-of-a-new-constitutional-assembly-devised-by-president-nicolas-madur.md)
-_Context: Nicols Maduro, Protests and strikes, Venezuela, Venezuelan Constitutional Assembly election, 2017, legislative takeover in March, the constitution_
-
-### [Voters in Senegal elect all 150 members of their National Assembly, with former President Abdoulaye Wade leading a coalition against the incumbent Macky Sall's United in Hope coalition. ](/news/2017/07/30/voters-in-senegal-elect-all-150-members-of-their-national-assembly-with-former-president-abdoulaye-wade-leading-a-coalition-against-the-inc.md)
-_Context: Abdoulaye Wade, Macky Sall, National Assembly, Senegal, Senegalese parliamentary election, 2017, United in Hope coalition, a coalition_
-
-### [Voters in the Republic of the Congo return to the polls for the second round of an election for 139 National Assembly members, after the governing Congolese Party of Labour won 70 seats in the first round two weeks earlier. ](/news/2017/07/30/voters-in-the-republic-of-the-congo-return-to-the-polls-for-the-second-round-of-an-election-for-139-national-assembly-members-after-the-gov.md)
-_Context: Congolese Party of Labour, National Assembly, Republic of the Congo, Republic of the Congo parliamentary election, 2017, second round_
-
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
----
-
-## [Yesterday](/news/2017/07/28/index.md)
-
-### [One person is killed and four others are injured in a knife attack in an Edeka supermarket in Barmbek in the German city of Hamburg. The motive for the attack is Muslim terrorism. ](/news/2017/07/28/one-person-is-killed-and-four-others-are-injured-in-a-knife-attack-in-an-edeka-supermarket-in-barmbek-in-the-german-city-of-hamburg-the-mot.md)
+### [One person is killed and four others are injured in a knife attack in an Edeka supermarket in Barmbek in the German city of Hamburg. Mayor Olaf Scholz said the attack was motivated by "hate". ](/news/2017/07/28/one-person-is-killed-and-four-others-are-injured-in-a-knife-attack-in-an-edeka-supermarket-in-barmbek-in-the-german-city-of-hamburg-mayor-o.md)
 Police say one suspect has been arrested but that it is too soon to pinpoint a motive.
 
 ### [U.S. Appeals Court Judge Patricia Millett rejects the Federal Aviation Administration argument that seat size is unimportant when passengers exit a plane in an emergency, and orders the FAA to set minimum standards for the space airlines give passengers.  ](/news/2017/07/28/u-s-appeals-court-judge-patricia-millett-rejects-the-federal-aviation-administration-argument-that-seat-size-is-unimportant-when-passengers.md)
@@ -44,9 +27,13 @@ The seven-year Republican quest to scrap Obamacare, a major campaign vow by Pres
 ### [U.S. President Donald Trump announces Homeland Security Secretary John F. Kelly will be White House Chief of Staff, replacing Reince Priebus. ](/news/2017/07/28/u-s-president-donald-trump-announces-homeland-security-secretary-john-f-kelly-will-be-white-house-chief-of-staff-replacing-reince-priebus.md)
 President Donald Trump has named Ret. Gen. John Kelly as the new White House chief of staff, replacing Reince Priebus in the role. &quot;I am pleased to inform you that I have just named General/Secretary John F Kelly as White House Chief of Staff. He is a Great American and a Great Leader. John has...
 
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
 ---
 
-## [Day Before Yesterday](/news/2017/07/27/index.md)
+## [Yesterday](/news/2017/07/27/index.md)
 
 ### [Ukraine's domestic intelligence service, the SBU, reports that the March 2017 explosions at Balakliia military base in Eastern Ukraine were caused by a drone carrying a ZMG-1 thermite grenade. The explosions resulted in 1 death and 5 injuries. ](/news/2017/07/27/ukraine-s-domestic-intelligence-service-the-sbu-reports-that-the-march-2017-explosions-at-balakliia-military-base-in-eastern-ukraine-were.md)
 A single grenade-carrying drone set off one of the largest explosions in recent memory.
@@ -65,7 +52,35 @@ Fresh clashes lift number killed in four months of violence to more than 100, as
 
 ---
 
-## [Previous Day...](/news/2017/07/26/index.md)
+## [Day Before Yesterday](/news/2017/07/26/index.md)
+
+### [According to the Defense Ministry, between 26 and 30 military personnel are dead and over 80 Taliban militants have been either killed or wounded amid intense fighting at a military base in Kandahar Province. ](/news/2017/07/26/according-to-the-defense-ministry-between-26-and-30-military-personnel-are-dead-and-over-80-taliban-militants-have-been-either-killed-or-wo.md)
+_Context: Defense Ministry, Kandahar Province, Taliban, War in Afghanistan, military personnel_
+
+### [A U.N. peacekeeping helicopter crashes during a mission in northern Mali, resulting in the death of two German pilots within. ](/news/2017/07/26/a-u-n-peacekeeping-helicopter-crashes-during-a-mission-in-northern-mali-resulting-in-the-death-of-two-german-pilots-within.md)
+Two German army pilots have died after their helicopter crashed near Gao, eastern Mali. At the time of the crash, the helicopter was monitoring &quot;confrontations.&quot;
+
+### [Wildfires prompt the evacuation of 12,000 people along the French Riviera, while more than 4,000 firefighters and French Armed Forces personnel backed by 19 water-bomber planes are mobilised to extinguish the flames. ](/news/2017/07/26/wildfires-prompt-the-evacuation-of-12-000-people-along-the-french-riviera-while-more-than-4-000-firefighters-and-french-armed-forces-person.md)
+Wildfires also devouring swaths of forests in Corsica, Portugal, Italy and Albania
+
+### [At least 17 people are killed in a building collapse in the Indian city of Mumbai with at least 13 injured and twelve people unaccounted for. ](/news/2017/07/26/at-least-17-people-are-killed-in-a-building-collapse-in-the-indian-city-of-mumbai-with-at-least-13-injured-and-twelve-people-unaccounted-for.md)
+_Context: India, Mumbai_
+
+### [At least one person was killed and several others injured after a ride at the Ohio State Fair malfunctioned while operating. ](/news/2017/07/26/at-least-one-person-was-killed-and-several-others-injured-after-a-ride-at-the-ohio-state-fair-malfunctioned-while-operating.md)
+_Context: Ohio State Fair_
+
+### [A woman is killed aboard the ''Emerald Princess'' cruise ship as it sails to a port of call in Juneau, Alaska, U.S. The passengers are detained while the FBI investigates. Authorities suspect the incident is related to domestic violence. ](/news/2017/07/26/a-woman-is-killed-aboard-the-emerald-princess-cruise-ship-as-it-sails-to-a-port-of-call-in-juneau-alaska-u-s-the-passengers-are-detai.md)
+The FBI is investigating the death of a Utah woman stemming from a domestic dispute aboard a cruise ship traveling in U.S. waters off Alaska.
+
+### [United States President Donald Trump tweets that transgender Americans will not be allowed to serve "in any capacity" in the United States Armed Forces. ](/news/2017/07/26/united-states-president-donald-trump-tweets-that-transgender-americans-will-not-be-allowed-to-serve-in-any-capacity-in-the-united-states-a.md)
+“....Transgender individuals to serve in any capacity in the U.S. Military. Our military must be focused on decisive and overwhelming.....”
+
+### [The United States Senate rejects "repeal only" propositions of the Patient Protection and Affordable Care Act. United States President Donald Trump lashes out at Republican Senator Lisa Murkowski, who voted against the proposal. ](/news/2017/07/26/the-united-states-senate-rejects-repeal-only-propositions-of-the-patient-protection-and-affordable-care-act-united-states-president-donal.md)
+The legislative showdown will continue Wednesday as the Senate considers various measures to replace the health law.
+
+---
+
+## [Previous Day...](/news/2017/07/25/index.md)
 
 ---
 
