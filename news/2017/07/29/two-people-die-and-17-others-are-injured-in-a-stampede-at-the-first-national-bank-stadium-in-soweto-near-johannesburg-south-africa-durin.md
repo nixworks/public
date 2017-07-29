@@ -1,6 +1,6 @@
 ### [2017-07-29](/news/2017/07/29/index.md)
 
-# Two people die and 17 others are injured in a stampede  at the First National Bank Stadium in Soweto, near Johannesburg, South Africa, during a soccer game between Orlando Pirates and Kaizer Chiefs. 
+# Two people die and 17 others are injured in a stampede  at the First National Bank Stadium in Soweto, near Johannesburg, South Africa, during a soccer match between Orlando Pirates and Kaizer Chiefs. 
 
 Officials are unsure about what caused the stampede
 
