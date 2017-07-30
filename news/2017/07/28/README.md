@@ -1,6 +1,6 @@
 ## [2017-07-28](/news/2017/07/28/index.md)
 
-### [One person is killed and four others are injured in a knife attack in an Edeka supermarket in Barmbek in the German city of Hamburg. Mayor Olaf Scholz said the attack was motivated by "hate". The attacker is reported to have shouted "Allah Akbar" before attacking. ](/news/2017/07/28/one-person-is-killed-and-four-others-are-injured-in-a-knife-attack-in-an-edeka-supermarket-in-barmbek-in-the-german-city-of-hamburg-mayor-o.md)
+### [One person is killed and four others are injured in a knife attack in an Edeka supermarket in Barmbek in the German city of Hamburg. Mayor Olaf Scholz said the attack was motivated by "hate". The attacker is reported to have shouted "Allahu Akbar" before attacking. ](/news/2017/07/28/one-person-is-killed-and-four-others-are-injured-in-a-knife-attack-in-an-edeka-supermarket-in-barmbek-in-the-german-city-of-hamburg-mayor-o.md)
 Police say one suspect has been arrested but that it is too soon to pinpoint a motive.
 
 ### [U.S. Appeals Court Judge Patricia Millett rejects the Federal Aviation Administration argument that seat size is unimportant when passengers exit a plane in an emergency, and orders the FAA to set minimum standards for the space airlines give passengers.  ](/news/2017/07/28/u-s-appeals-court-judge-patricia-millett-rejects-the-federal-aviation-administration-argument-that-seat-size-is-unimportant-when-passengers.md)
