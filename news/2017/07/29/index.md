@@ -9,5 +9,8 @@ A lone man armed with a machete attacked and wounded a guard at the home of Keny
 ### [Two people die and 17 others are injured in a stampede  at the First National Bank Stadium in Soweto, near Johannesburg, South Africa, during a soccer match between Orlando Pirates and Kaizer Chiefs. ](/news/2017/07/29/two-people-die-and-17-others-are-injured-in-a-stampede-at-the-first-national-bank-stadium-in-soweto-near-johannesburg-south-africa-durin.md)
 Officials are unsure about what caused the stampede
 
+### [The European Union's executive branch sends a formal notice to Poland expressing their concern  that  the new "discretionary" powers given to the  country's justice minister threaten the independence of the courts  in violation of EU laws. Poland has a month to respond. ](/news/2017/07/29/the-european-union-s-executive-branch-sends-a-formal-notice-to-poland-expressing-their-concern-that-the-new-discretionary-powers-given-t.md)
+The European Commission launched legal action on Saturday against what it sees as Polish government attempts to undermine the independence of judges.
+
 ## [Previous Day...](/news/2017/07/28/index.md)
 

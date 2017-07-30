@@ -1,4 +1,21 @@
-## [News](/news/2017/07/29/index.md)
+## [News](/news/2017/07/30/index.md)
+
+### [Voters in Venezuela participate in a controversial election for members of a new Constitutional Assembly, devised by President Nicols Maduro to amend the constitution following a legislative takeover in March. Protests and strikes are expected. ](/news/2017/07/30/voters-in-venezuela-participate-in-a-controversial-election-for-members-of-a-new-constitutional-assembly-devised-by-president-nicolas-madur.md)
+_Context: Nicols Maduro, Protests and strikes, Venezuela, Venezuelan Constitutional Assembly election, 2017, legislative takeover in March, the constitution_
+
+### [Voters in Senegal elect all 150 members of their National Assembly, with former President Abdoulaye Wade leading a coalition against the incumbent Macky Sall's United in Hope coalition. ](/news/2017/07/30/voters-in-senegal-elect-all-150-members-of-their-national-assembly-with-former-president-abdoulaye-wade-leading-a-coalition-against-the-inc.md)
+_Context: Abdoulaye Wade, Macky Sall, National Assembly, Senegal, Senegalese parliamentary election, 2017, United in Hope coalition, a coalition_
+
+### [Voters in the Republic of the Congo return to the polls for the second round of an election for 139 National Assembly members, after the governing Congolese Party of Labour won 70 seats in the first round two weeks earlier. ](/news/2017/07/30/voters-in-the-republic-of-the-congo-return-to-the-polls-for-the-second-round-of-an-election-for-139-national-assembly-members-after-the-gov.md)
+_Context: Congolese Party of Labour, National Assembly, Republic of the Congo, Republic of the Congo parliamentary election, 2017, second round_
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/07/29/index.md)
 
 ### [Australian federal police conduct raids in four separate suburbs of Sydney detaining individuals and confiscating materials in a suspected plot to bomb an aircraft. ](/news/2017/07/29/australian-federal-police-conduct-raids-in-four-separate-suburbs-of-sydney-detaining-individuals-and-confiscating-materials-in-a-suspected-p.md)
 Prime minister Malcolm Turnbull said the operations were in order to prevent ‘terrorist attacks in Australia’
@@ -9,15 +26,14 @@ A lone man armed with a machete attacked and wounded a guard at the home of Keny
 ### [Two people die and 17 others are injured in a stampede  at the First National Bank Stadium in Soweto, near Johannesburg, South Africa, during a soccer match between Orlando Pirates and Kaizer Chiefs. ](/news/2017/07/29/two-people-die-and-17-others-are-injured-in-a-stampede-at-the-first-national-bank-stadium-in-soweto-near-johannesburg-south-africa-durin.md)
 Officials are unsure about what caused the stampede
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+### [The European Union's executive branch sends a formal notice to Poland expressing their concern  that  the new "discretionary" powers given to the  country's justice minister threaten the independence of the courts  in violation of EU laws. Poland has a month to respond. ](/news/2017/07/29/the-european-union-s-executive-branch-sends-a-formal-notice-to-poland-expressing-their-concern-that-the-new-discretionary-powers-given-t.md)
+The European Commission launched legal action on Saturday against what it sees as Polish government attempts to undermine the independence of judges.
 
 ---
 
-## [Yesterday](/news/2017/07/28/index.md)
+## [Day Before Yesterday](/news/2017/07/28/index.md)
 
-### [One person is killed and four others are injured in a knife attack in an Edeka supermarket in Barmbek in the German city of Hamburg. Mayor Olaf Scholz said the attack was motivated by "hate". ](/news/2017/07/28/one-person-is-killed-and-four-others-are-injured-in-a-knife-attack-in-an-edeka-supermarket-in-barmbek-in-the-german-city-of-hamburg-mayor-o.md)
+### [One person is killed and four others are injured in a knife attack in an Edeka supermarket in Barmbek in the German city of Hamburg. Mayor Olaf Scholz said the attack was motivated by "hate". The attacker is reported to have shouted "Allah Akbar" before attacking. ](/news/2017/07/28/one-person-is-killed-and-four-others-are-injured-in-a-knife-attack-in-an-edeka-supermarket-in-barmbek-in-the-german-city-of-hamburg-mayor-o.md)
 Police say one suspect has been arrested but that it is too soon to pinpoint a motive.
 
 ### [U.S. Appeals Court Judge Patricia Millett rejects the Federal Aviation Administration argument that seat size is unimportant when passengers exit a plane in an emergency, and orders the FAA to set minimum standards for the space airlines give passengers.  ](/news/2017/07/28/u-s-appeals-court-judge-patricia-millett-rejects-the-federal-aviation-administration-argument-that-seat-size-is-unimportant-when-passengers.md)
@@ -46,26 +62,7 @@ President Donald Trump has named Ret. Gen. John Kelly as the new White House chi
 
 ---
 
-## [Day Before Yesterday](/news/2017/07/27/index.md)
-
-### [Ukraine's domestic intelligence service, the SBU, reports that the March 2017 explosions at Balakliia military base in Eastern Ukraine were caused by a drone carrying a ZMG-1 thermite grenade. The explosions resulted in 1 death and 5 injuries. ](/news/2017/07/27/ukraine-s-domestic-intelligence-service-the-sbu-reports-that-the-march-2017-explosions-at-balakliia-military-base-in-eastern-ukraine-were.md)
-A single grenade-carrying drone set off one of the largest explosions in recent memory.
-
-### [France nationalises the STX Europe-owned Chantiers de l'Atlantique shipyard in Saint-Nazaire, Pays de la Loire, to prevent Italian shipbuilding firm Fincantieri taking majority control. Italian Minister of Economy and Finances Pier Carlo Padoan calls the French decision to nationalise the shipyard "grave and incomprehensible". ](/news/2017/07/27/france-nationalises-the-stx-europe-owned-chantiers-de-l-atlantique-shipyard-in-saint-nazaire-pays-de-la-loire-to-prevent-italian-shipbuild.md)
-_Context: Chantiers de l'Atlantique, Fincantieri, France, Italian, Italian Minister of Economy and Finances, Pays de la Loire, Pier Carlo Padoan, STX Europe, Saint-Nazaire, nationalises_
-
-### [A new study, published in the ''The BMJ'' medical journal, finds that electronic cigarettes may  help smokers stop their habit. The researchers found that a substantial increase in e-cigarette use among American adult smokers was associated with a statistically significant increase in the smoking cessation rate. ](/news/2017/07/27/a-new-study-published-in-the-the-bmj-medical-journal-finds-that-electronic-cigarettes-may-help-smokers-stop-their-habit-the-research.md)
-A new study suggest the devices may help smokers stub out the habit.
-
-### [Russian President Vladimir Putin appoints Vasily Nebenzya to be the new Permanent Representative of Russia to the United Nations following the sudden death of Vitaly Churkin in February. ](/news/2017/07/27/russian-president-vladimir-putin-appoints-vasily-nebenzya-to-be-the-new-permanent-representative-of-russia-to-the-united-nations-following-t.md)
-_Context: Permanent Representative of Russia, Russia and the United Nations, Russian President, United Nations, Vasily Nebenzya, Vitaly Churkin, Vladimir Putin_
-
-### [At least three protesters are killed across the country amid clashes with police as a two-day national strike called by the opposition begins. ](/news/2017/07/27/at-least-three-protesters-are-killed-across-the-country-amid-clashes-with-police-as-a-two-day-national-strike-called-by-the-opposition-begin.md)
-Fresh clashes lift number killed in four months of violence to more than 100, as Maduro&#39;s controversial election nears.
-
----
-
-## [Previous Day...](/news/2017/07/26/index.md)
+## [Previous Day...](/news/2017/07/27/index.md)
 
 ---
 
