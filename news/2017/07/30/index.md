@@ -3,7 +3,7 @@
 ### [Fifteen people, including Mayor Reynaldo Parojinog Sr., are killed in a police drug raid in Ozamiz, Philippines. ](/news/2017/07/30/fifteen-people-including-mayor-reynaldo-parojinog-sr-are-killed-in-a-police-drug-raid-in-ozamiz-philippines.md)
 Police were simultaneously serving six search warrants for the Mayor, his daughter and several family members at their properties when they were met with violent resistance
 
-### [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno state, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md)
+### [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md)
 At least 69 people are known to have died in a Boko Haram ambush of an oil exploration team in northeast Nigeria, as three men kidnapped by the jihadists made a video appeal. 
 
 ### [A car bomb explodes near a police station in Mogadishu, killing at least six people and wounding thirteen others. ](/news/2017/07/30/a-car-bomb-explodes-near-a-police-station-in-mogadishu-killing-at-least-six-people-and-wounding-thirteen-others.md)
