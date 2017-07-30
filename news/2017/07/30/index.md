@@ -1,5 +1,8 @@
 ## [2017-07-30](/news/2017/07/30/index.md)
 
+### [Fifteen people including incumbent Mayor were killed in a police drug raid in Ozamiz, Philippines. ](/news/2017/07/30/fifteen-people-including-incumbent-mayor-were-killed-in-a-police-drug-raid-in-ozamiz-philippines.md)
+Police were simultaneously serving six search warrants for the Mayor, his daughter and several family members at their properties when they were met with violent resistance
+
 ### [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno state, Nigeria, killing 69. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-69.md)
 At least 69 people are known to have died in a Boko Haram ambush of an oil exploration team in northeast Nigeria, as three men kidnapped by the jihadists made a video appeal. 
 
