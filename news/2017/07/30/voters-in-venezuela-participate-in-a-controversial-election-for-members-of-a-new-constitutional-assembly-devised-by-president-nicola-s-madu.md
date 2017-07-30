@@ -7,7 +7,8 @@ Venezuelan President Nicolas Maduro defies critics to push for a new constitutio
 
 ### Source:
 
-1. [The Los Angeles Times](http://www.latimes.com/world/mexico-americas/la-fg-venezuela-constitution-20170730-htmlstory.html)
+1. [Al Jazeera](http://www.aljazeera.com/news/2017/07/candidate-killed-violence-venezuela-vote-170730155600672.html)
+2. [The Los Angeles Times](http://www.latimes.com/world/mexico-americas/la-fg-venezuela-constitution-20170730-htmlstory.html)
 
 ### Related:
 
