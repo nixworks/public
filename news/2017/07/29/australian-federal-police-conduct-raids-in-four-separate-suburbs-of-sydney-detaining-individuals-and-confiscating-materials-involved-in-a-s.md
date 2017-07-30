@@ -2,12 +2,12 @@
 
 # Australian federal police conduct raids in four separate suburbs of Sydney, detaining individuals and confiscating materials involved in a suspected terrorist plot to bomb an aircraft. 
 
-Prime minister Malcolm Turnbull said the operations were in order to prevent ‘terrorist attacks in Australia’
+Malcolm Turnbull says the operation was in order to prevent ‘terrorist attacks in Australia’
 
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/australia-news/2017/jul/29/counter-terrorism-police-raid-properties-in-four-sydney-suburbs?CMP=fb_us)
+1. [The Guardian](https://www.theguardian.com/australia-news/2017/jul/29/counter-terrorism-police-raid-properties-in-four-sydney-suburbs)
 
 ### Related:
 

@@ -1,15 +1,18 @@
 ## [News](/news/2017/07/30/index.md)
 
-### [Fifteen people including incumbent Mayor were killed in a police drug raid in Ozamiz, Philippines. ](/news/2017/07/30/fifteen-people-including-incumbent-mayor-were-killed-in-a-police-drug-raid-in-ozamiz-philippines.md)
+### [Fifteen people, including Mayor Reynaldo Parojinog Sr., are killed in a police drug raid in Ozamiz, Philippines. ](/news/2017/07/30/fifteen-people-including-mayor-reynaldo-parojinog-sr-are-killed-in-a-police-drug-raid-in-ozamiz-philippines.md)
 Police were simultaneously serving six search warrants for the Mayor, his daughter and several family members at their properties when they were met with violent resistance
 
-### [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno state, Nigeria, killing 69. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-69.md)
+### [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno state, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md)
 At least 69 people are known to have died in a Boko Haram ambush of an oil exploration team in northeast Nigeria, as three men kidnapped by the jihadists made a video appeal. 
 
-### [Two people are killed and three people seriously injured in a shooting at a nightclub in the German city of Konstanz. The gunman is shot and killed by police. ](/news/2017/07/30/two-people-are-killed-and-three-people-seriously-injured-in-a-shooting-at-a-nightclub-in-the-german-city-of-konstanz-the-gunman-is-shot-and.md)
+### [A car bomb explodes near a police station in Mogadishu, killing at least six people and wounding thirteen others. ](/news/2017/07/30/a-car-bomb-explodes-near-a-police-station-in-mogadishu-killing-at-least-six-people-and-wounding-thirteen-others.md)
+At least six people reportedly killed in blast near police station next to busy market in Waberi district.
+
+### [Two people are killed and three people seriously injured in a shooting at a nightclub in Konstanz, Germany. The gunman is shot and killed by police. ](/news/2017/07/30/two-people-are-killed-and-three-people-seriously-injured-in-a-shooting-at-a-nightclub-in-konstanz-germany-the-gunman-is-shot-and-killed-by.md)
 A man who opened fire in a nightclub in Constance was then shot by police and later died.
 
-### [Voters in Venezuela participate in a controversial election for members of a new Constitutional Assembly, devised by President Nicols Maduro to amend the constitution following a legislative takeover in March. Many Venezuelans question the election's legitimacy, resulting in boycotts and ongoing protests. ](/news/2017/07/30/voters-in-venezuela-participate-in-a-controversial-election-for-members-of-a-new-constitutional-assembly-devised-by-president-nicolas-madur.md)
+### [Voters in Venezuela participate in a controversial election for members of a new Constitutional Assembly, devised by President Nicolas Maduro to amend the constitution following a legislative takeover in March. Many Venezuelans question the election's legitimacy, resulting in boycotts and ongoing protests. ](/news/2017/07/30/voters-in-venezuela-participate-in-a-controversial-election-for-members-of-a-new-constitutional-assembly-devised-by-president-nicola-s-madu.md)
 Venezuelan President Nicolas Maduro defies critics to push for a new constitution. Critics call is a power grab. Here&apos;s what you need to know.
 
 ### [Voters in Senegal elect all 165 members of their National Assembly, with former President Abdoulaye Wade leading a coalition against the incumbent Macky Sall's United in Hope coalition. ](/news/2017/07/30/voters-in-senegal-elect-all-165-members-of-their-national-assembly-with-former-president-abdoulaye-wade-leading-a-coalition-against-the-inc.md)
@@ -26,17 +29,17 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/07/29/index.md)
 
-### [Australian federal police conduct raids in four separate suburbs of Sydney, detaining individuals and confiscating materials involved in a suspected terrorist plot to bomb an aircraft. ](/news/2017/07/29/australian-federal-police-conduct-raids-in-four-separate-suburbs-of-sydney-detaining-individuals-and-confiscating-materials-involved-in-a-s.md)
-Prime minister Malcolm Turnbull said the operations were in order to prevent ‘terrorist attacks in Australia’
-
-### [A man wielding a machete attacks the home of Kenya's Deputy President William Ruto, injuring one guard, 10 days before national elections. Ruto and his family were not home at the time. The assailant flees to a farm complex, reportedly hiding in an unfinished building. There are other media reports that gunmen also struck the home. ](/news/2017/07/29/a-man-wielding-a-machete-attacks-the-home-of-kenya-s-deputy-president-william-ruto-injuring-one-guard-10-days-before-national-elections-r.md)
-A lone man armed with a machete attacked and wounded a guard at the home of Kenyan Deputy President William Ruto then entered the compound, Kenya&rsquo;s police chief said Saturday.
-
 ### [Two people die and 17 others are injured in a stampede  at the First National Bank Stadium in Soweto, near Johannesburg, South Africa, during a soccer match between Orlando Pirates and Kaizer Chiefs. ](/news/2017/07/29/two-people-die-and-17-others-are-injured-in-a-stampede-at-the-first-national-bank-stadium-in-soweto-near-johannesburg-south-africa-durin.md)
 Officials are unsure about what caused the stampede
 
 ### [The European Union's executive branch sends a formal notice to Poland expressing their concern that the new "discretionary" powers given to the country's justice minister threaten the independence of the courts in violation of EU laws. Poland has a month to respond. ](/news/2017/07/29/the-european-union-s-executive-branch-sends-a-formal-notice-to-poland-expressing-their-concern-that-the-new-discretionary-powers-given-to.md)
 The European Commission launched legal action on Saturday against what it sees as Polish government attempts to undermine the independence of judges.
+
+### [Australian federal police conduct raids in four separate suburbs of Sydney, detaining individuals and confiscating materials involved in a suspected terrorist plot to bomb an aircraft. ](/news/2017/07/29/australian-federal-police-conduct-raids-in-four-separate-suburbs-of-sydney-detaining-individuals-and-confiscating-materials-involved-in-a-s.md)
+Malcolm Turnbull says the operation was in order to prevent ‘terrorist attacks in Australia’
+
+### [A man wielding a machete attacks the home of Kenya's Deputy President William Ruto, injuring one guard, 10 days before national elections. Ruto and his family were not home at the time. The assailant flees to a farm complex, reportedly hiding in an unfinished building. There are other media reports that gunmen also struck the home. ](/news/2017/07/29/a-man-wielding-a-machete-attacks-the-home-of-kenya-s-deputy-president-william-ruto-injuring-one-guard-10-days-before-national-elections-r.md)
+A lone man armed with a machete attacked and wounded a guard at the home of Kenyan Deputy President William Ruto then entered the compound, Kenya&rsquo;s police chief said Saturday.
 
 ---
 
