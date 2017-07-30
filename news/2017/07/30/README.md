@@ -9,8 +9,14 @@ At least 69 people are known to have died in a Boko Haram ambush of an oil explo
 ### [A car bomb explodes near a police station in Mogadishu, killing at least six people and wounding thirteen others. ](/news/2017/07/30/a-car-bomb-explodes-near-a-police-station-in-mogadishu-killing-at-least-six-people-and-wounding-thirteen-others.md)
 At least six people reportedly killed in blast near police station next to busy market in Waberi district.
 
+### [Russian President Vladimir Putin expels 755 United States Diplomats in response to new sanctions imposed by the United States. ](/news/2017/07/30/russian-president-vladimir-putin-expels-755-united-states-diplomats-in-response-to-new-sanctions-imposed-by-the-united-states.md)
+President Vladimir Putin orders reduction in staff and vows for additional measures in retaliation to new US sanctions.
+
 ### [Two people are killed and three people seriously injured in a shooting at a nightclub in Konstanz, Germany. The gunman is shot and killed by police. ](/news/2017/07/30/two-people-are-killed-and-three-people-seriously-injured-in-a-shooting-at-a-nightclub-in-konstanz-germany-the-gunman-is-shot-and-killed-by.md)
 A man who opened fire in a nightclub in Constance was then shot by police and later died.
+
+### [Former Iranian President Mahmoud Ahmadinejad faces sentences on seven verdicts of misusing billions of dollars in government funds while in office, the public prosecutor at Supreme Audit Court said. If confirmed, Ahmadinejad will be barred from public office for seven years. ](/news/2017/07/30/former-iranian-president-mahmoud-ahmadinejad-faces-sentences-on-seven-verdicts-of-misusing-billions-of-dollars-in-government-funds-while-in.md)
+_Context: Mahmoud Ahmadinejad, President, Supreme Audit Court_
 
 ### [Voters in Venezuela participate in a controversial election for members of a new Constitutional Assembly, devised by President Nicolas Maduro to amend the constitution following a legislative takeover in March. Many Venezuelans question the election's legitimacy, resulting in boycotts and ongoing protests. ](/news/2017/07/30/voters-in-venezuela-participate-in-a-controversial-election-for-members-of-a-new-constitutional-assembly-devised-by-president-nicola-s-madu.md)
 Venezuelan President Nicolas Maduro defies critics to push for a new constitution. Critics call is a power grab. Here&apos;s what you need to know.
