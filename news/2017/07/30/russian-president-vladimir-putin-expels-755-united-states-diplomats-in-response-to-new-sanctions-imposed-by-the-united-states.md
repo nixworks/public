@@ -1,6 +1,6 @@
 ### [2017-07-30](/news/2017/07/30/index.md)
 
-# Russian President Vladimir Putin expels 755 United States Diplomats in response to new sanctions imposed by the United States. 
+# Russian President Vladimir Putin expels 755 United States diplomats in response to new sanctions imposed by the United States. 
 
 President Vladimir Putin orders reduction in staff and vows for additional measures in retaliation to new US sanctions.
 
