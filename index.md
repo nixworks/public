@@ -12,7 +12,7 @@ A van plowed into a crowd of people Sunday afternoon in the Mid-Wilshire area, i
 ### [Russian President Vladimir Putin expels 755 United States Diplomats in response to new sanctions imposed by the United States. ](/news/2017/07/30/russian-president-vladimir-putin-expels-755-united-states-diplomats-in-response-to-new-sanctions-imposed-by-the-united-states.md)
 President Vladimir Putin orders reduction in staff and vows for additional measures in retaliation to new US sanctions.
 
-### [Two people are killed and three people seriously injured in a shooting at a nightclub in Konstanz, Germany. The gunman is shot and killed by police. ](/news/2017/07/30/two-people-are-killed-and-three-people-seriously-injured-in-a-shooting-at-a-nightclub-in-konstanz-germany-the-gunman-is-shot-and-killed-by.md)
+### [A man shoots several people in a nightclub in Konstanz, Germany, killing one. The gunman is shot and killed by police. ](/news/2017/07/30/a-man-shoots-several-people-in-a-nightclub-in-konstanz-germany-killing-one-the-gunman-is-shot-and-killed-by-police.md)
 A man who opened fire in a nightclub in Constance was then shot by police and later died.
 
 ### [Former Iranian President Mahmoud Ahmadinejad faces sentences on seven verdicts of misusing billions of dollars in government funds while in office, the  Supreme Audit Court public prosecutor said. If confirmed, Ahmadinejad will be barred from public office for seven years. ](/news/2017/07/30/former-iranian-president-mahmoud-ahmadinejad-faces-sentences-on-seven-verdicts-of-misusing-billions-of-dollars-in-government-funds-while-in.md)
