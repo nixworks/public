@@ -1,6 +1,6 @@
 ### [2017-07-29](/news/2017/07/29/index.md)
 
-# A man wielding a machete attacks the home of Kenya's Deputy President William Ruto, injuring one guard, 10 days before national elections. Ruto and his family were not home at the time. The assailant flees to a farm complex, reportedly hiding in an unfinished building. There are other media reports that gunmen also struck the home. 
+# A man wielding a machete attacks the home of Kenya's Deputy President William Ruto, injuring one guard, 10 days before national elections. Ruto and his family were not home at the time. The assailant fled to a farm complex, reportedly hiding in an unfinished building. There are other media reports that gunmen also struck the home. 
 
 A lone man armed with a machete attacked and wounded a guard at the home of Kenyan Deputy President William Ruto then entered the compound, Kenya&rsquo;s police chief said Saturday.
 
