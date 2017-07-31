@@ -22,7 +22,7 @@ _Context: Clare Short, Independent, Labour_
 _Context: Honiara, Manasseh Sogavare, Prime Minister, Regional Assistance Mission to the Solomon Islands, Solomon Islands_
 
 ### [ European Union leaders gather in Lahti, Finland, for a summit with Russian President Vladimir Putin. ](/news/2006/10/20/european-union-leaders-gather-in-lahti-finland-for-a-summit-with-russian-president-vladimir-putin.md)
-_Context: European Union, Lahti, Russian President, Vladimir Putin_
+_Context: European Union, Lahti, Russian President Vladimir Putin, Vladimir Putin_
 
 ### [ Newly convicted prisoners in the United Kingdom are to be held in police cells rather than prisons, as the nation's prison service faces chronic overcrowding in its jails. ](/news/2006/10/20/newly-convicted-prisoners-in-the-united-kingdom-are-to-be-held-in-police-cells-rather-than-prisons-as-the-nation-s-prison-service-faces-ch.md)
 _Context: convicted prisoners, held in police cells, its jails, prison service_

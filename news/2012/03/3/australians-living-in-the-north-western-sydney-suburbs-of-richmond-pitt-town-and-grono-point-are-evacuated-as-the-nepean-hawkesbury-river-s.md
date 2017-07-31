@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Australian federal police conduct raids in four separate suburbs of Sydney detaining individuals and confiscating materials in a suspected plot to bomb an aircraft. ](/news/2017/07/29/australian-federal-police-conduct-raids-in-four-separate-suburbs-of-sydney-detaining-individuals-and-confiscating-materials-in-a-suspected-p.md) _Context: Sydney_
+1. [Australian federal police conduct raids in four separate suburbs of Sydney, detaining individuals and confiscating materials involved in a suspected terrorist plot to bomb an aircraft. ](/news/2017/07/29/australian-federal-police-conduct-raids-in-four-separate-suburbs-of-sydney-detaining-individuals-and-confiscating-materials-involved-in-a-s.md) _Context: Sydney_
 2. [An Australian woman has reportedly been kidnapped in Kabul. ](/news/2016/11/6/an-australian-woman-has-reportedly-been-kidnapped-in-kabul.md) _Context: Australian_
 3. [  New South Wales facing evacuations and a rising flood threat as heavy rain and high winds hit Sydney and Newcastle. Parts of Victoria and Tasmania are braced for wild weather. ](/news/2016/06/5/new-south-wales-facing-evacuations-and-a-rising-flood-threat-as-heavy-rain-and-high-winds-hit-sydney-and-newcastle-parts-of-victoria-and.md) _Context: Sydney_
 4. [An Australian security contractor is killed outside the Australian embassy in Baghdad. There are unconfirmed reports that he was shot. ](/news/2016/05/13/an-australian-security-contractor-is-killed-outside-the-australian-embassy-in-baghdad-there-are-unconfirmed-reports-that-he-was-shot.md) _Context: Australian_

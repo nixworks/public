@@ -46,7 +46,7 @@ _Context: Pakistan, Pervez Musharraf, President_
 _Context: NASA, Spitzer Space Telescope_
 
 ### [ Russian President Dmitry Medvedev delays sending a new ambassador to Ukraine after criticising its "anti-Russian" stance. ](/news/2009/08/11/russian-president-dmitry-medvedev-delays-sending-a-new-ambassador-to-ukraine-after-criticising-its-anti-russian-stance.md)
-_Context: Dmitry Medvedev, Russian President, Ukraine_
+_Context: Dmitry Medvedev, Russian President Vladimir Putin, Ukraine_
 
 ### [ A pilot flying from England to Ireland is airlifted to safety after his two-man aircraft crashes into the Irish Sea near Tuskar Rock. ](/news/2009/08/11/a-pilot-flying-from-england-to-ireland-is-airlifted-to-safety-after-his-two-man-aircraft-crashes-into-the-irish-sea-near-tuskar-rock.md)
 A man has been rescued after his light aircraft ditched into the sea off Co Wexford this afternoon.
@@ -61,7 +61,7 @@ _Context: Louvre, Mona Lisa, Paris, Russia_
 A passenger plane carrying 13 people, including nine Australians, is missing feared crashed over Papua New Guinea.
 
 ### [ ''Nepenthes attenboroughii'', a new species of giant carnivorous plant, is discovered in the highlands of the central Philippines. ](/news/2009/08/11/nepenthes-attenboroughii-a-new-species-of-giant-carnivorous-plant-is-discovered-in-the-highlands-of-the-central-philippines.md)
-_Context: Nepenthes attenboroughii, Philippine_
+_Context: Nepenthes attenboroughii, Philippines_
 
 ### [ Two Kenyans, two French, a Bulgarian and a Belgian held captive since November 2008 are freed by their Somali kidnappers. ](/news/2009/08/11/two-kenyans-two-french-a-bulgarian-and-a-belgian-held-captive-since-november-2008-are-freed-by-their-somali-kidnappers.md)
 _Context: Belgian, Bulgaria, France, Kenya, Somalia_

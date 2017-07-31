@@ -4,7 +4,7 @@
 In a list heavy with make-good honors, grunge pioneer Nirvana is the sole act among 2014 inductees in the Rock and Roll Hall of Fame to be recognized in their first year of eligibility. The Aberdee…
 
 ### [Bea Rose Santiago of the Philippines is crowned Miss International 2013. ](/news/2013/12/17/bea-rose-santiago-of-the-philippines-is-crowned-miss-international-2013.md)
-_Context: Bea Rose Santiago, Miss International 2013, Philippine_
+_Context: Bea Rose Santiago, Miss International 2013, Philippines_
 
 ### [Jamaican reggae singer Tessanne Chin wins Season 5 of the American singing competition ''The Voice''. ](/news/2013/12/17/jamaican-reggae-singer-tessanne-chin-wins-season-5-of-the-american-singing-competition-the-voice.md)
 It&apos;s official: Tessanne Chin, the supple-singing pride of Jamaica, has won Season 5 of &quot;The Voice.&quot;
@@ -43,7 +43,7 @@ _Context:  October 2013 federal government shutdown, China, Federal Election Com
 Americans officials want to rotate more military forces through the country, concerned about mounting pressure from China on its neighbors.
 
 ### [Euromaidan:President of Ukraine Viktor Yanukovych meets Russian President Vladimir Putin in Moscow amid mass protests against the relationship between the two. ](/news/2013/12/17/euromaidan-ppresident-of-ukraine-viktor-yanukovych-meets-russian-president-vladimir-putin-in-moscow-amid-mass-protests-against-the-relations.md)
-_Context: Euromaidan, Moscow, Russian President, Ukrainian President, Viktor Yanukovych, Vladimir Putin_
+_Context: Euromaidan, Moscow, Russian President Vladimir Putin, Ukrainian President, Viktor Yanukovych, Vladimir Putin_
 
 ### [Angela Merkel is elected for a third term as Chancellor of Germany. ](/news/2013/12/17/angela-merkel-is-elected-for-a-third-term-as-chancellor-of-germany.md)
 _Context: Angela Merkel, German Chancellor_

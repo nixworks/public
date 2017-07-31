@@ -28,7 +28,7 @@ _Context: Indian penal code, LGBT rights in India, Supreme Court of India, homos
 SAN DIEGO - A 27-year-old San Diego man was arrested Tuesday on suspicion of operating a &quot;revenge porn&quot; website and demanding up to $350 to remove sexually explicit photos of women that were...
 
 ### [President of Russia Vladimir Putin announces a policy mandate that increases military focus in the Arctic. ](/news/2013/12/11/president-of-russia-vladimir-putin-announces-a-policy-mandate-that-increases-military-focus-in-the-arctic.md)
-_Context: Arctic, Russian President, Vladimir Putin_
+_Context: Arctic, Russian President Vladimir Putin, Vladimir Putin_
 
 ### [Euromaidan:Police in Kiev abandon their posts after a sweep of the protesters ended in violence. ](/news/2013/12/11/euromaidan-ppolice-in-kiev-abandon-their-posts-after-a-sweep-of-the-protesters-ended-in-violence.md)
 Security forces pulled back after seizing control of a large section of the square, setting off clashes with protesters rallying against the Ukrainian government.

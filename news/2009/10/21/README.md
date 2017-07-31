@@ -49,7 +49,7 @@ The crypt of Daniel O&#39;Connell at Glasnevin Cemetery in Dublin has been refur
 _Context: Japan_
 
 ### [ Russian President Dmitry Medvedev announces plans to curb the number of state companies by privatising some. ](/news/2009/10/21/russian-president-dmitry-medvedev-announces-plans-to-curb-the-number-of-state-companies-by-privatising-some.md)
-_Context: Dmitry Medvedev, Russia, Russian President_
+_Context: Dmitry Medvedev, Russia, Russian President Vladimir Putin_
 
 ### [ Former President of South Africa Nelson Mandela denies writing a foreword praising Republic of the Congo President Denis Sassou Nguesso's biography, ''Straight Speaking for Africa''. ](/news/2009/10/21/former-president-of-south-africa-nelson-mandela-denies-writing-a-foreword-praising-republic-of-the-congo-president-denis-sassou-nguesso-s-b.md)
 _Context: Denis Sassou Nguesso, Nelson Mandela, President, President of South Africa, Republic of the Congo, South Africa, foreword_

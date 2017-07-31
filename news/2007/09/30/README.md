@@ -4,7 +4,7 @@
 _Context: 2006 Thai coup d'etat, Council for National Security, Prime Minister, Sonthi Boonyaratglin, Thaksin_
 
 ### [ Former World Chess Champion Garry Kasparov is selected Presidential Candidate for Other Russia in the 2008 presidentials. ](/news/2007/09/30/former-world-chess-champion-garry-kasparov-is-selected-presidential-candidate-for-other-russia-in-the-2008-presidentials.md)
-_Context: Garry Kasparov, Russian President, The Other Russia, World Chess Champion, go to the polls_
+_Context: Garry Kasparov, Russian President Vladimir Putin, The Other Russia, World Chess Champion, go to the polls_
 
 ### [ Ukrainian parliamentary election, 2007: Ukrainians went to the polls for the third time in three years to vote in parliamentary election. ](/news/2007/09/30/ukrainian-parliamentary-election-2007-p-ukrainians-went-to-the-polls-for-the-third-time-in-three-years-to-vote-in-parliamentary-election.md)
 _Context: Ukraine, Ukrainian parliamentary election, 2007_

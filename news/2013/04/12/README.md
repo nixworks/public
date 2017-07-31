@@ -70,7 +70,7 @@ Minutes before an unidentified gunman opened fire at a Virginia mall on Friday a
 Hassan Rowhani, who resigned as nuclear negotiator in 2005, joins dozens looking to replace Mahmoud Ahmadinejad in June.
 
 ### [Russian President Vladimir Putin unveils a new $50 billion drive for the country to preserve its status as a top space power, including the construction of the new Vostochny Cosmodrome to fly humans to space by the end of the decade. ](/news/2013/04/12/russian-president-vladimir-putin-unveils-a-new-50-billion-drive-for-the-country-to-preserve-its-status-as-a-top-space-power-including-the.md)
-_Context: Russia, Russian President, US$, Vladimir Putin, Vostochny Cosmodrome, fly humans to space_
+_Context: Russia, Russian President Vladimir Putin, US$, Vladimir Putin, Vostochny Cosmodrome, fly humans to space_
 
 ### [A 32-foot tall, 60,000 ton stone monument found in the Sea of Galilee in 2003 is determined to be man-made, dating to approximately 2000 B.C. ](/news/2013/04/12/a-32-foot-tall-60-000-ton-stone-monument-found-in-the-sea-of-galilee-in-2003-is-determined-to-be-man-made-dating-to-approximately-2000-b-c.md)
 _Context: B.C., Sea of Galilee, monument, stone_

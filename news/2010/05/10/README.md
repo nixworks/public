@@ -22,7 +22,7 @@ _Context: BP, Deepwater Horizon oil spill, Gulf of Mexico_
 _Context: Albanians, Kosovo War, Serbia_
 
 ### [Presidential elections, legislative elections and local elections start today in the Philippines. ](/news/2010/05/10/presidential-elections-legislative-elections-and-local-elections-start-today-in-the-philippines.md)
-_Context: Philippine, Philippine general election, 2010_
+_Context: Philippine general election, 2010, Philippines_
 
 ### [The South Korean Defence Minister Kim Tae-Young announces that investigators have found traces of explosives in the wreck of the ROKS ''Cheonan'' that sank in March. ](/news/2010/05/10/the-south-korean-defence-minister-kim-tae-young-announces-that-investigators-have-found-traces-of-explosives-in-the-wreck-of-the-roks-cheo.md)
 _Context: Kim Tae-Young, ROKS ''Cheonan'', South Korea, sinking_

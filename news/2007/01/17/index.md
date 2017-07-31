@@ -11,7 +11,7 @@ _Context: Dan Halutz, Hezbollah, Israel, Israel Defense Forces_
 _Context: Days of Our Lives, Jeff Zucker, NBC, NBC Universal Television, Passions, soap opera_
 
 ### [ The Philippine Army kills Abu Sulaiman, the leader of Abu Sayyaf, a terrorist organization affiliated with Al Qaeda that operates in the Philippines. ](/news/2007/01/17/the-philippine-army-kills-abu-sulaiman-the-leader-of-abu-sayyaf-a-terrorist-organization-affiliated-with-al-qaeda-that-operates-in-the-ph.md)
-_Context: Abu Sayyaf, Abu Sulaiman, Philippine, al-Qaeda, army_
+_Context: Abu Sayyaf, Abu Sulaiman, Philippines, al-Qaeda, army_
 
 ### [ Members of the Senate of the United States agree on a draft resolution opposing the proposed increase in the number of troops in Iraq. ](/news/2007/01/17/members-of-the-senate-of-the-united-states-agree-on-a-draft-resolution-opposing-the-proposed-increase-in-the-number-of-troops-in-iraq.md)
 _Context: Iraq, Iraq War troop surge of 2007, Senator_

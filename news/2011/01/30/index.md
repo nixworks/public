@@ -22,7 +22,7 @@ _Context: 17th Screen Actors Guild Awards, Screen Actors Guild Awards, The King'
 Alpha Natural Resources said on Saturday it agreed to a $7.1 billion deal to buy Massey Energy Co, which was rocked by a deadly coal mining accident last year.
 
 ### [12 people are killed and 360 families left homeless after a fire in Navotas City, near Manila, Philippines. ](/news/2011/01/30/12-people-are-killed-and-360-families-left-homeless-after-a-fire-in-navotas-city-near-manila-philippines.md)
-_Context: Manila, Navotas City, Philippine_
+_Context: Manila, Navotas City, Philippines_
 
 ### [1 person is killed and at least 40 others are injured due to an explosion and a fire in Maracay, Aragua. ](/news/2011/01/30/1-person-is-killed-and-at-least-40-others-are-injured-due-to-an-explosion-and-a-fire-in-maracay-aragua.md)
 A series of explosions at an arms depot in Venezuela leaves one person dead and forces thousands of people to flee their homes.

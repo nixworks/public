@@ -16,7 +16,7 @@ _Context: 2012, George W. Bush administration, Lawrence Livermore National Labor
 _Context: New York Stock Exchange, Toronto Stock Exchange_
 
 ### [ The Parliament of Chechnya appoints Ramzan Kadyrov as the President of Chechnya after his nomination by the President of Russia Vladimir Putin. ](/news/2007/03/2/the-parliament-of-chechnya-appoints-ramzan-kadyrov-as-the-president-of-chechnya-after-his-nomination-by-the-president-of-russia-vladimir-pu.md)
-_Context: Parliament, President of Chechnya, Ramzan Kadyrov, Russian President, Vladimir Putin_
+_Context: Parliament, President of Chechnya, Ramzan Kadyrov, Russian President Vladimir Putin, Vladimir Putin_
 
 ### [ The United States Secretary of the Army Francis J. Harvey resigns over poor conditions at the Walter Reed Army Medical Center. President Bush later orders a full review of health care available to returning soldiers. ](/news/2007/03/2/the-united-states-secretary-of-the-army-francis-j-harvey-resigns-over-poor-conditions-at-the-walter-reed-army-medical-center-president-bu.md)
 The Secretary of the Army, Francis J. Harvey, resigned today amid the fallout over revelations of shabby conditions at the Walter Reed Army Medical Center.

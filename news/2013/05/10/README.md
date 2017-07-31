@@ -4,7 +4,7 @@
 _Context: Benghazi, Libya_
 
 ### [Albert del Rosario, the Philippines Secretary of Foreign Affairs, wants to withdraw Filipino peacekeepers from the Golan Heights subsequent to Syrian rebels kidnapping four troops. ](/news/2013/05/10/albert-del-rosario-the-philippines-secretary-of-foreign-affairs-wants-to-withdraw-filipino-peacekeepers-from-the-golan-heights-subsequent.md)
-_Context: Albert del Rosario, Filipino, Golan Heights, Philippine, Philippines Foreign Secretary, Syria_
+_Context: Albert del Rosario, Filipino, Golan Heights, Philippines, Philippines Foreign Secretary, Syria_
 
 ### [Boston Marathon bombings:Suspect Tamerlan Tsarnaev is buried in the al-Barzakh Cemetery in Doswell, Virginia, United States. ](/news/2013/05/10/boston-marathon-bombings-psuspect-tamerlan-tsarnaev-is-buried-in-the-al-barzakh-cemetery-in-doswell-virginia-united-states.md)
 Boston Marathon bombing suspect Tamerlan Tsarnaev has been buried in a Muslim cemetery in Virginia, the head of an Islamic centre says.

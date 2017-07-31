@@ -1,7 +1,7 @@
 ## [2010-10-24](/news/2010/10/24/index.md)
 
 ### [Six killed in shooting rampage inside militia outpost in Palid, Ipil town, in the Zamboanga Sibugay province of the South Philippines. ](/news/2010/10/24/six-killed-in-shooting-rampage-inside-militia-outpost-in-palid-ipil-town-in-the-zamboanga-sibugay-province-of-the-south-philippines.md)
-_Context: Ipil, Palid, Philippine, Southern Philippines, Zamboanga Sibugay_
+_Context: Ipil, Palid, Philippines, Southern Philippines, Zamboanga Sibugay_
 
 ### [South Korea and the United States cancel a joint naval drill against North Korea in the Yellow Sea, citing its previous anti-submarine training -- held from Sept. 27 to Oct. 1 -- and a desire "not to irritate neighboring countries" ahead of the upcoming 2010 G-20 Seoul summit. ](/news/2010/10/24/south-korea-and-the-united-states-cancel-a-joint-naval-drill-against-north-korea-in-the-yellow-sea-citing-its-previous-anti-submarine-train.md)
 _Context: 2010 G-20 Seoul summit, North Korea, South Korea, United States, Yellow Sea_

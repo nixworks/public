@@ -13,7 +13,7 @@ _Context: Eduardo Arellano Felix, Mexican Drug War, Tijuana Cartel_
 _Context: 2012 Northern Mali conflict, Douentza, Islamist, Mali_
 
 ### [An unidentified man throws a grenade to spectators of a festival in Paquibato district near Davao City, Philippines, wounding 41 people. ](/news/2012/09/1/an-unidentified-man-throws-a-grenade-to-spectators-of-a-festival-in-paquibato-district-near-davao-city-philippines-wounding-41-people.md)
-_Context: Davao City, Philippine_
+_Context: Davao City, Philippines_
 
 ### [Former progressive Cardinal Carlo Maria Martini describes the Catholic Church as "200 years behind the times" in an interview published the day after his death. ](/news/2012/09/1/former-progressive-cardinal-carlo-maria-martini-describes-the-catholic-church-as-200-years-behind-the-times-in-an-interview-published-the.md)
 _Context: Carlo Maria Martini, Catholic Church_

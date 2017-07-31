@@ -10,7 +10,7 @@ Fitch Ratings downgraded Japan&#039;s credit rating by one notch, the agency sai
 _Context: Nepal, suspicions_
 
 ### [Philippines President Benigno Aquino III asks Indonesian President Joko Widodo to spare the life of Mary Jane Veloso, a migrant domestic worker sentenced to death for drug trafficking.  ](/news/2015/04/27/philippines-president-benigno-aquino-iii-asks-indonesian-president-joko-widodo-to-spare-the-life-of-mary-jane-veloso-a-migrant-domestic-wor.md)
-_Context: Benigno "Noynoy" Aquino III, Indonesia, Joko Widodo, Mary Jane Veloso, Philippine, domestic worker_
+_Context: Benigno "Noynoy" Aquino III, Indonesia, Joko Widodo, Mary Jane Veloso, Philippines, domestic worker_
 
 ### [Opposition activists protest for a second day over President of Burundi Pierre Nkurunziza's decision to run for a third term in office. At least two people were killed yesterday in protests. ](/news/2015/04/27/opposition-activists-protest-for-a-second-day-over-president-of-burundi-pierre-nkurunziza-s-decision-to-run-for-a-third-term-in-office-at-l.md)
 _Context: Pierre Nkurunziza, Presidents_

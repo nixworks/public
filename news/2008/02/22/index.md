@@ -1,7 +1,7 @@
 ## [2008-02-22](/news/2008/02/22/index.md)
 
 ### [ Russian President Vladimir Putin describes the recognition of Kosovo's unilaterally declared independence by several major world powers as "a terrible precedent," ... that "breaks up the entire system of international relations," ... which has taken "centuries to evolve." "And undoubtedly, it may entail a whole chain of unpredictable consequences to other regions in the world" and that will come back to hit the West "in the face." ](/news/2008/02/22/russian-president-vladimir-putin-describes-the-recognition-of-kosovo-s-unilaterally-declared-independence-by-several-major-world-powers-as.md)
-_Context: Kosovo, Russia, Russian President, Vladimir Putin_
+_Context: Kosovo, Russia, Russian President Vladimir Putin, Vladimir Putin_
 
 ### [ The White House announces that U.S. Army National Guard Master Sergeant Woodrow W. Keeble will posthumously receive the Medal of Honor for his service in the Korean War, becoming the first Sioux to receive the award. ](/news/2008/02/22/the-white-house-announces-that-u-s-army-national-guard-master-sergeant-woodrow-w-keeble-will-posthumously-receive-the-medal-of-honor-for.md)
 _Context: Korean War, Medal of Honor, Sioux, U.S. Army National Guard, White House, Woodrow W. Keeble_

@@ -31,7 +31,7 @@ _Context: 2010 Polish Air Force Tu-154 crash, Lech Kaczynski, Maria Kaczynska, P
 _Context: Barack Obama, First Lady, Haiti, Michelle Obama_
 
 ### [11 people are killed in Isabela City, Philippines, after 25 suspected members of the Abu Sayyaf extremist group clash with security forces. ](/news/2010/04/13/11-people-are-killed-in-isabela-city-philippines-after-25-suspected-members-of-the-abu-sayyaf-extremist-group-clash-with-security-forces.md)
-_Context: Abu Sayyaf, Isabela City, Philippine_
+_Context: Abu Sayyaf, Isabela City, Philippines_
 
 ### [At least 73 civilians were killed when an army jet bombed a remote village in Pakistan's tribal region of Khyber, a local official has told the BBC. ](/news/2010/04/13/at-least-73-civilians-were-killed-when-an-army-jet-bombed-a-remote-village-in-pakistan-s-tribal-region-of-khyber-a-local-official-has-told.md)
 _Context: Pakistan_

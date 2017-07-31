@@ -31,7 +31,7 @@ _Context: Holy See, Malaysia_
 _Context: Iran, Iraq, PJAK_
 
 ### [The President of Russia Dmitry Medvedev commences a two-day visit to Germany. ](/news/2011/07/18/the-president-of-russia-dmitry-medvedev-commences-a-two-day-visit-to-germany.md)
-_Context: Dmitry Medvedev, Germany, Russian President_
+_Context: Dmitry Medvedev, Germany, Russian President Vladimir Putin_
 
 ### [The United States Secretary of State Hillary Clinton arrives in India for two days of talks with the Indian government. ](/news/2011/07/18/the-united-states-secretary-of-state-hillary-clinton-arrives-in-india-for-two-days-of-talks-with-the-indian-government.md)
 _Context: Hillary Clinton, India, United States Secretary of State_

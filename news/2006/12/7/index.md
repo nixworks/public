@@ -22,7 +22,7 @@ _Context: Doha Asian Games, Kim Hyung-chil, South Korea_
 _Context: Agip, Italian, Niger River, Nigerian_
 
 ### [ Nearly 100 people are dead or unaccounted for in Vietnam as a result of Typhoon Durian. It had earlier killed over 550 people in the Philippines and left a similar number missing. ](/news/2006/12/7/nearly-100-people-are-dead-or-unaccounted-for-in-vietnam-as-a-result-of-typhoon-durian-it-had-earlier-killed-over-550-people-in-the-philip.md)
-_Context: Philippine, Typhoon Durian, Vietnam_
+_Context: Philippines, Typhoon Durian, Vietnam_
 
 ### [ Seven towns are under immediate threat from bushfires in Gippsland in the Australian state of Victoria. ](/news/2006/12/7/seven-towns-are-under-immediate-threat-from-bushfires-in-gippsland-in-the-australian-state-of-victoria.md)
 _Context: Australia, Gippsland, Victoria, bushfire_

@@ -4,7 +4,7 @@
 _Context: Egypt, Marsa Matrouh_
 
 ### [ Former Yukos chief Mikhail Khodorkovsky applies for parole in a bid to challenge Russian President Dmitry Medvedev to follow through on promises to build an independent judiciary, his lawyers said. ](/news/2008/07/16/former-yukos-chief-mikhail-khodorkovsky-applies-for-parole-in-a-bid-to-challenge-russian-president-dmitry-medvedev-to-follow-through-on-pro.md)
-_Context: Dmitry Medvedev, Mikhail Khodorkovsky, Russia, Russian President, Yukos_
+_Context: Dmitry Medvedev, Mikhail Khodorkovsky, Russia, Russian President Vladimir Putin, Yukos_
 
 ### [ The United States Senate agrees to triple funding for the President's Emergency Plan for AIDS Relief to $48 billion. ](/news/2008/07/16/the-united-states-senate-agrees-to-triple-funding-for-the-president-s-emergency-plan-for-aids-relief-to-48-billion.md)
 _Context: President's Emergency Plan for AIDS Relief, United States Senate_

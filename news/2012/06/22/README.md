@@ -22,7 +22,7 @@ _Context: Islamist, Mali, Sharia law_
 _Context: Isle of Wight musical festival_
 
 ### [The Philippines lends the International Monetary Fund $1 billion. ](/news/2012/06/22/the-philippines-lends-the-international-monetary-fund-1-billion.md)
-_Context: International Monetary Fund, Philippine_
+_Context: International Monetary Fund, Philippines_
 
 ### [Wells Fargo plans to move jobs to India and the Philippines. ](/news/2012/06/22/wells-fargo-plans-to-move-jobs-to-india-and-the-philippines.md)
 Wells Fargo & Co, the fourth-largest U.S. bank by assets, is looking tomove some jobs outside the United States as it pushes forwardwith a company-wide cost-cutting program, a spokeswoman said onWednesday.

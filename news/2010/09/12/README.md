@@ -49,7 +49,7 @@ Iranian authorities are ready to release on $500,000 (£325,000) bail one of the
 _Context: Beltrn Leyva Cartel, Mexican marines, Puebla, Sergio Villarreal Barragn_
 
 ### [President of Russia Dmitry Medvedev approves a plan to overhaul Russia's police system. ](/news/2010/09/12/president-of-russia-dmitry-medvedev-approves-a-plan-to-overhaul-russia-s-police-system.md)
-_Context: Dmitry Medvedev, Russia, Russian President, state police_
+_Context: Dmitry Medvedev, Russia, Russian President Vladimir Putin, state police_
 
 ### [Malaysia's police force is debated following the fatal shooting of a 15-year-old boy. ](/news/2010/09/12/malaysia-s-police-force-is-debated-following-the-fatal-shooting-of-a-15-year-old-boy.md)
 Death of 15-year-old boy sparks debate over police efforts to combat crime.

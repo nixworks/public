@@ -4,7 +4,7 @@
 _Context: Benedict XVI, Genoa archdiocese, Guido Marini, Piero Marini, director of office of papal liturgies_
 
 ### [ President of Russia Vladimir Putin announces he will run on centrist list in the parliamentary elections in December and that he does not exclude the option of becoming Prime Minister of Russia after the election. [http://www.softonlinesoft.net/vb/showthread.php?t=765]](/news/2007/10/1/president-of-russia-vladimir-putin-announces-he-will-run-on-centrist-list-in-the-parliamentary-elections-in-december-and-that-he-does-not-e.md)
-_Context: Prime Minister, Russian President, United Russia, Vladimir Putin, parliamentary elections_
+_Context: Prime Minister, Russian President Vladimir Putin, United Russia, Vladimir Putin, parliamentary elections_
 
 ### [ Ukrainian parliamentary election, 2007: With 70 percent counted, Yulia Tymoshenko's bloc and Viktor Yushchenko's Our Ukraine party had 48 percent of the vote. Prime Minister Viktor Yanukovych's party and his Communist and Socialist allies had 36.8 percent. ](/news/2007/10/1/ukrainian-parliamentary-election-2007-with-70-percent-counted-yulia-tymoshenko-s-bloc-and-viktor-yushchenko-s-our-ukraine-party-had-48-p.md)
 _Context: Ukrainian parliamentary election, 2007, Viktor Yanukovych, Viktor Yushchenko, Yulia Tymoshenko_
