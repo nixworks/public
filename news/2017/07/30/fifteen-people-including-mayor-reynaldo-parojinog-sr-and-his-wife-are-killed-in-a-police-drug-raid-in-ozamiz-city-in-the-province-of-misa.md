@@ -1,6 +1,6 @@
 ### [2017-07-30](/news/2017/07/30/index.md)
 
-# Fifteen people, including Mayor Reynaldo Parojinog Sr. and his wife, are killed in a police drug raid in Ozamiz City in the province of Misamis Occidental. Two of the victims, the mayor and a city board member, as well as the vice mayor (taken under custody) had been previously identified in the August 2016 speech by President of the Philippines Rodrigo Duterte; the Parojinog family were identified as a drug syndicate in the New Bilibid Prison drug trafficking scandal. 
+# Fifteen people, including Mayor Reynaldo Parojinog Sr. and his wife, are killed in a police drug raid in Ozamiz City in the province of Misamis Occidental. The mayor and the vice mayor (the latter taken under custody) had been previously identified in the August 2016 speech by President of the Philippines Rodrigo Duterte. The Parojinog family was also identified as a drug syndicate in the New Bilibid Prison drug trafficking scandal, as well as its ties to the crime group Kuratong Baleleng. 
 
 Police were simultaneously serving six search warrants for the Mayor, his daughter and several family members at their properties when they were met with violent resistance
 
