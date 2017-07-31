@@ -1,6 +1,6 @@
 ### [2017-07-29](/news/2017/07/29/index.md)
 
-# A Catholic priest from the Roman Catholic Diocese of Antipolo, Philippines was arrested in Marikina for sexually abusing a 13-year old girl, by inviting her to a motel with a 16-year old pimp. 
+# A Catholic priest from the Roman Catholic Diocese of Antipolo, Philippines was arrested in Marikina for sexually abusing a 13-year-old girl, by inviting her to a motel with a 16-year-old pimp. 
 
 
 
