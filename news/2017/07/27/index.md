@@ -15,5 +15,8 @@ _Context: Permanent Representative of Russia, Russia and the United Nations, Rus
 ### [At least three protesters are killed across the country amid clashes with police as a two-day national strike called by the opposition begins. ](/news/2017/07/27/at-least-three-protesters-are-killed-across-the-country-amid-clashes-with-police-as-a-two-day-national-strike-called-by-the-opposition-begin.md)
 Fresh clashes lift number killed in four months of violence to more than 100, as Maduro&#39;s controversial election nears.
 
+### [Anna Johansson and Anders Ygeman resign in the wake of controversy surrounding a 2015 data leak of the Swedish Transport Agency. ](/news/2017/07/27/anna-johansson-and-anders-ygeman-resign-in-the-wake-of-controversy-surrounding-a-2015-data-leak-of-the-swedish-transport-agency.md)
+_Context: Anders Ygeman, Anna Johansson, Swedish Transport Agency_
+
 ## [Previous Day...](/news/2017/07/26/index.md)
 
