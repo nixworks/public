@@ -1,7 +1,7 @@
 ## [News](/news/2017/07/31/index.md)
 
-### [Three days after a senior Kenyan election official went missing, his body is discovered, and he is believed to have been tortured and murdered. ](/news/2017/07/31/three-days-after-a-senior-kenyan-election-official-went-missing-his-body-is-discovered-and-he-is-believed-to-have-been-tortured-and-murder.md)
-_Context: Kenyan general election, 2017_
+### [The body of Chris Msando, the Kenyan election board's head of information, communication and technology, is discovered. Msando,  who went missing three day ago, is believed to have been tortured and murdered. ](/news/2017/07/31/the-body-of-chris-msando-the-kenyan-election-board-s-head-of-information-communication-and-technology-is-discovered-msando-who-went-mi.md)
+_Context: Kenyan general election, 2017, election board's_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
