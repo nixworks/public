@@ -33,6 +33,9 @@ _Context: Crime in Switzerland, Schaffhausen, Switzerland_
 ### [U.S. District Judge for the Eastern District of Michigan, Mark A. Goldsmith, halts for 90 days the mass deportation from the United States of more than 1,400 Iraqi nationals, including Chaldean Christians, to allow the plaintiffs time to appeal their cases. The American Civil Liberties Union petitioned for the injunction stating these people would face persecution in Iraq where they are considered ethnic and religious minorities. ](/news/2017/07/24/u-s-district-judge-for-the-eastern-district-of-michigan-mark-a-goldsmith-halts-for-90-days-the-mass-deportation-from-the-united-states-o.md)
 A federal judge in Michigan halted on Monday the deportation of more than 1,400 Iraqi nationals from the United States, the latest legal victory for the Iraqi nationals facing deportation in a closely watched case.
 
+### [Former Democratic IT shared employee Imran Awan is arrested on charges of bank fraud at the Washington Dulles International Airport. ](/news/2017/07/24/former-democratic-it-shared-employee-imran-awan-is-arrested-on-charges-of-bank-fraud-at-the-washington-dulles-international-airport.md)
+_Context: Imran Awan, Washington Dulles International Airport_
+
 ### [Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md)
 _Context: Canada, Freedom of religion in Canada, James Oler, Mormon, Winston Blackmore_
 

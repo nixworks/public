@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Radio Free Europe/ Radio Liberty](https://www.rferl.org/a/afghanistan-attack-kandahar-taliban/28638763.html)
+1. [Radio Free Europe/Radio Liberty](https://www.rferl.org/a/afghanistan-attack-kandahar-taliban/28638763.html)
 
 ### Related:
 
