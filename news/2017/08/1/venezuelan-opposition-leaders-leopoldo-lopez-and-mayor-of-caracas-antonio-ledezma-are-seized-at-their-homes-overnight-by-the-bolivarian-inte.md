@@ -1,6 +1,6 @@
 ### [2017-08-1](/news/2017/08/1/index.md)
 
-# Venezuelan opposition leaders Leopoldo Lpez and Mayor of Caracas Antonio Ledezma are seized at their homes overnight by the Bolivarian Intelligence Service (SEBIN) and taken to Ramo Verde Prison. 
+# Venezuelan opposition leaders Leopoldo Lpez and Mayor of Caracas Antonio Ledezma are seized at their homes overnight by the Bolivarian Intelligence Service (SEBIN) and taken to Ramo Verde Prison. They had been arrested previously by the Venezuelan  goverment, but were under house arrest at the time of being seized. 
 
 Two leading activists were taken to a military jail by security forces in the middle of the night.
 
