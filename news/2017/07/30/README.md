@@ -6,8 +6,8 @@ At least 69 people are known to have died in a Boko Haram ambush of an oil explo
 ### [A car bomb explodes near a police station in Mogadishu, killing at least six people and wounding thirteen others. ](/news/2017/07/30/a-car-bomb-explodes-near-a-police-station-in-mogadishu-killing-at-least-six-people-and-wounding-thirteen-others.md)
 At least six people reportedly killed in blast near police station next to busy market in Waberi district.
 
-### [At least nine people are injured following a two-vehicle collision at an intersection in Los Angeles' mid-Wilshire neighborhood that sent one car onto the sidewalk where a crowd of people were dining. Eight people were taken to hospital, one in critical and three in serious condition. ](/news/2017/07/30/at-least-nine-people-are-injured-following-a-two-vehicle-collision-at-an-intersection-in-los-angeles-mid-wilshire-neighborhood-that-sent-on.md)
-A van plowed into a crowd of people Sunday afternoon in the Mid-Wilshire area, injuring at least nine people, Los Angeles Fire Department spokeswoman Margaret Stewart said.
+### [  Following heavy rain in July 2017, the Gujarat state of India was affected by the severe flood resulting in more than 200 deaths.](/news/2017/07/30/following-heavy-rain-in-july-2017-the-gujarat-state-of-india-was-affected-by-the-severe-flood-resulting-in-more-than-200-deaths.md)
+The flood toll in Gujarat has risen to 218 this monsoon, with 61 people killed in worst-hit Banaskantha district, an official said on Monday.
 
 ### [Russian President Vladimir Putin expels 755 United States diplomats in response to new sanctions imposed by the United States. ](/news/2017/07/30/russian-president-vladimir-putin-expels-755-united-states-diplomats-in-response-to-new-sanctions-imposed-by-the-united-states.md)
 President Vladimir Putin orders reduction in staff and vows for additional measures in retaliation to new US sanctions.

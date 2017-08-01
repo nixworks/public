@@ -12,11 +12,14 @@ The European Commission launched legal action on Saturday against what it sees a
 ### [Australian federal police conduct raids in four separate suburbs of Sydney, detaining individuals and confiscating materials involved in a suspected terrorist plot to bomb an aircraft. ](/news/2017/07/29/australian-federal-police-conduct-raids-in-four-separate-suburbs-of-sydney-detaining-individuals-and-confiscating-materials-involved-in-a-s.md)
 Malcolm Turnbull says the operation was in order to prevent ‘terrorist attacks in Australia’
 
-### [A Catholic priest from the Roman Catholic Diocese of Antipolo, Philippines was arrested in Marikina for sexually abusing a 13-year-old girl, by inviting her to a motel with a 16-year-old pimp. ](/news/2017/07/29/a-catholic-priest-from-the-roman-catholic-diocese-of-antipolo-philippines-was-arrested-in-marikina-for-sexually-abusing-a-13-year-old-girl.md)
+### [Monsignor Arnel Lagarejos, a Catholic priest from the Roman Catholic Diocese of Antipolo, Philippines was arrested in Marikina for sexually abusing a 13-year-old girl, by inviting her to a motel with a 16-year-old pimp. ](/news/2017/07/29/monsignor-arnel-lagarejos-a-catholic-priest-from-the-roman-catholic-diocese-of-antipolo-philippines-was-arrested-in-marikina-for-sexually.md)
 _Context: Catholic Church sexual abuse cases, Marikina, Roman Catholic Diocese of Antipolo_
 
 ### [A man wielding a machete attacks the home of Kenya's Deputy President William Ruto, injuring one guard, 10 days before national elections. Ruto and his family were not home at the time. The assailant fled to a farm complex, reportedly hiding in an unfinished building. There are other media reports that gunmen also struck the home. ](/news/2017/07/29/a-man-wielding-a-machete-attacks-the-home-of-kenya-s-deputy-president-william-ruto-injuring-one-guard-10-days-before-national-elections-r.md)
 A lone man armed with a machete attacked and wounded a guard at the home of Kenyan Deputy President William Ruto then entered the compound, Kenya&rsquo;s police chief said Saturday.
+
+### [The Charles Kuonen Bridge  in the Swiss Alps in Randa, Switzerland, opens. At 1,621 feet (494 meters), it is the longest pedestrian suspension bridge in the world. ](/news/2017/07/29/the-charles-kuonen-bridge-in-the-swiss-alps-in-randa-switzerland-opens-at-1-621-feet-494-meters-it-is-the-longest-pedestrian-suspensi.md)
+_Context: Charles Kuonen Bridge, Randa, Switzerland, Swiss Alps_
 
 ## [Previous Day...](/news/2017/07/28/index.md)
 
