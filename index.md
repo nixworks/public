@@ -1,6 +1,6 @@
 ## [News](/news/2017/08/1/index.md)
 
-### [An explosion kills at least 20 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/an-explosion-kills-at-least-20-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md)
+### [An explosion kills at least 29 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/an-explosion-kills-at-least-29-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md)
 An explosion at a Shia mosque in the Afghan city of Herat kills at least 20 people, officials say.
 
 ### [A 2 meter (6.5 feet) tall 12th century sandstone statue of a human figure is unearthed by archaeologists during an excavation of a Khmer Empire-era hospital built during the reign of King Jayavarman VII at Cambodia's Angkor Wat temple complex in Siem Reap Province. ](/news/2017/08/1/a-2-meter-6-5-feet-tall-12th-century-sandstone-statue-of-a-human-figure-is-unearthed-by-archaeologists-during-an-excavation-of-a-khmer-emp.md)
@@ -14,6 +14,9 @@ New Labour leader Jacinda Ardern says the party is about to &quot;run the campai
 
 ### [Venezuelan opposition leaders Leopoldo Lopez and Mayor of Caracas Antonio Ledezma are seized at their homes overnight by the Bolivarian Intelligence Service (SEBIN) and taken to Ramo Verde Prison. They had been arrested previously by the Venezuelan  goverment, but were under house arrest at the time of being seized. ](/news/2017/08/1/venezuelan-opposition-leaders-leopoldo-la3pez-and-mayor-of-caracas-antonio-ledezma-are-seized-at-their-homes-overnight-by-the-bolivarian-int.md)
 Two leading activists were taken to a military jail by security forces in the middle of the night.
+
+### [The United States Senate, in a 92-5 vote, confirms Christopher A. Wray as Director of the Federal Bureau of Investigation. ](/news/2017/08/1/the-united-states-senate-in-a-92a5-vote-confirms-christopher-a-wray-as-director-of-the-federal-bureau-of-investigation.md)
+_Context: Christopher A. Wray, Director of the Federal Bureau of Investigation, United States Senate_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
