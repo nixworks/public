@@ -31,7 +31,7 @@ Leading Philippine presidential candidate Rodrigo Duterte is angrily condemned a
 A referendum to be held next Sunday in Italy could shape the country’s energy policy for decades to come. The ballot was triggered by a request from
 
 ### [Aftermath of the At least 7,000 people take to the streets of Brussels, Belgium, in a march "against terror and hate." However, turnout was less than half of what was hoped for by organizers. ](/news/2016/04/17/aftermath-of-the-at-least-7-000-people-take-to-the-streets-of-brussels-belgium-in-a-march-against-terror-and-hate-however-turnout-was.md)
-_Context: 2016 Brussels bombings, Belgian, Brussels_
+_Context: 2016 Brussels bombings, Belgium, Brussels_
 
 ### [Protests continue in Skopje, Republic of Macedonia, against President Gjorge Ivanov's decision to suspend an investigation into the alleged corruption of a number of politicians. ](/news/2016/04/17/protests-continue-in-skopje-republic-of-macedonia-against-president-gjorge-ivanov-s-decision-to-suspend-an-investigation-into-the-alleged.md)
 Protesters in Skopje pelted the Macedonian capital&#8217;s triumphal arch with stones and eggs on the fifth night of protests demanding the resignation of president Gjorge Ivanov and calling for th…

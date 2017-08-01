@@ -34,7 +34,7 @@ _Context: Alaska, Arctic, Royal Dutch Shell, Statoil, United States_
 The final US Airways flight is heading from San Francisco to Philadelphia, making the last leg of its roundtrip journey.
 
 ### [Typhoon Koppu (Lando) heads towards the Philippines island of Luzon where it is expected to make landfall as a Category 4 storm, linger and deposit up to 50 inches of rain in some areas. ](/news/2015/10/17/typhoon-koppu-lando-heads-towards-the-philippines-island-of-luzon-where-it-is-expected-to-make-landfall-as-a-category-4-storm-linger-and.md)
-_Context: 2015 Pacific typhoon season, Luzon, Philippines_
+_Context: 2015 Pacific typhoon season, Luzon, Philippine_
 
 ### [At least 15 people are killed in a wedding bus crash in Andhra Pradesh state in southern India. ](/news/2015/10/17/at-least-15-people-are-killed-in-a-wedding-bus-crash-in-andhra-pradesh-state-in-southern-india.md)
 AT least 15 members of a wedding party, including three children, have been killed when a truck they were travelling in collided with a bus in southern India.

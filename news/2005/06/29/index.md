@@ -13,7 +13,7 @@ _Context: One World Trade Center, World Trade Center_
 _Context: Franco, Galicia, Manuel Fraga, Spain_
 
 ### [ A Belgian jury finds two Rwandans, Etienne Nzabonimana and Samuel Ndashyikirwa, guilty of involvement in the Rwandan genocide.](/news/2005/06/29/a-belgian-jury-finds-two-rwandans-etienne-nzabonimana-and-samuel-ndashyikirwa-guilty-of-involvement-in-the-rwandan-genocide.md)
-_Context: Belgian, Etienne Nzabonimana, Rwanda, Rwandan Genocide, Samuel Ndashyikirwa_
+_Context: Belgium, Etienne Nzabonimana, Rwanda, Rwandan Genocide, Samuel Ndashyikirwa_
 
 ### [ Hezbollah shells Israeli positions with mortars and rockets in the disputed Shebaa farms, wounding five soldiers and killing one, The Israeli military shelled areas around several villages in southern Lebanon and planes launched missiles. Israel intends to file a complaint against Lebanon and UNIFIL for failing to prevent aggression by Hezbollah.](/news/2005/06/29/hezbollah-shells-israeli-positions-with-mortars-and-rockets-in-the-disputed-shebaa-farms-wounding-five-soldiers-and-killing-one-the-israe.md)
 _Context: Hezbollah, Lebanon, Shebaa farms, UN peacekeeper_

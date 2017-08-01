@@ -67,7 +67,7 @@ _Context: CAN$, Newfoundland, Taiwan, illegal dumping, oil spill_
 The people of Wales are going to the polls to elect the next Welsh Assembly Government and vote in the AV referendum.
 
 ### [President of the United States Barack Obama visits the World Trade Center site in New York City to commemorate the victims of the September 11 attacks following the death of Osama bin Laden. ](/news/2011/05/5/president-of-the-united-states-barack-obama-visits-the-world-trade-center-site-in-new-york-city-to-commemorate-the-victims-of-the-september.md)
-_Context: Barack Obama, Ground Zero, New York City, September 11 attacks, United States President, father's killing_
+_Context: Barack Obama, Ground Zero, New York City, September 11 attacks, U.S. President, father's killing_
 
 ### [A United States Court of Appeals for the Third Circuit rules that former Olympic champion Carl Lewis be placed on the ballot for a Democrat primary election  for a New Jersey State Senate seat. ](/news/2011/05/5/a-united-states-court-of-appeals-for-the-third-circuit-rules-that-former-olympic-champion-carl-lewis-be-placed-on-the-ballot-for-a-democrat.md)
 _Context: Carl Lewis, Democratic, New Jersey State Senate, United States court, primary election_

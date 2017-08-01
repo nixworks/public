@@ -25,7 +25,7 @@ _Context: Australia, Eureka Tower, Melbourne, residential apartment, second tall
 _Context: International Space Station, Space Shuttle_
 
 ### [ In New York, It is officially declared "Final Fantasy XII" day. ](/news/2006/10/11/in-new-york-it-is-officially-declared-final-fantasy-xii-day.md)
-_Context: New York_
+_Context: New York City_
 
 ## [Previous Day...](/news/2006/10/10/index.md)
 

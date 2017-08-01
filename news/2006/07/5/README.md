@@ -7,7 +7,7 @@ The three people who died Wednesday night in a crash on Highway 101 in Menlo Par
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Light Sweet Crude futures close at an all-time high at $75.19/barrel, with an intraday all-time high of $75.40/barrel in New York. Analysts have downplayed the effect of North Korea's missile launch. ](/news/2006/07/5/light-sweet-crude-futures-close-at-an-all-time-high-at-75-19-barrel-with-an-intraday-all-time-high-of-75-40-barrel-in-new-york-analysts.md)
-_Context: New York, North Korea, crude oil_
+_Context: New York City, North Korea, crude oil_
 
 ### [ Former Enron executive Kenneth Lay has died of a heart attack at the age of 64.  ](/news/2006/07/5/former-enron-executive-kenneth-lay-has-died-of-a-heart-attack-at-the-age-of-64.md)
 _Context: Enron, Kenneth Lay, heart attack_

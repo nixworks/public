@@ -7,7 +7,7 @@ _Context: Bermuda II, European Union, Open Skies Agreement, United States_
 _Context: Scott v. Harris, United States Supreme Court, unreasonable search or seizure_
 
 ### [ President of Venezuela Hugo Chvez announces that Venezuela will withdraw from the International Monetary Fund and the World Bank. ](/news/2007/04/30/president-of-venezuela-hugo-chavez-announces-that-venezuela-will-withdraw-from-the-international-monetary-fund-and-the-world-bank.md)
-_Context: Hugo Chvez, International Monetary Fund, President, Venezuela, World Bank_
+_Context: Hugo Chvez, International Monetary Fund, Venezuela, Venezuelan President, World Bank_
 
 ### [ Morocco and the Polisario Front agree to United Nations sponsored talks about the future of Western Sahara. ](/news/2007/04/30/morocco-and-the-polisario-front-agree-to-united-nations-sponsored-talks-about-the-future-of-western-sahara.md)
 _Context: Morocco, Polisario Front, United Nations, Western Sahara_

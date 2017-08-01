@@ -4,7 +4,7 @@
 _Context: Discovery, NASA, STS-116_
 
 ### [ George W. Bush, the President of the United States says that Syria and Iran might be included in regional talks on the future of Iraq if they meet certain conditions. ](/news/2006/12/7/george-w-bush-the-president-of-the-united-states-says-that-syria-and-iran-might-be-included-in-regional-talks-on-the-future-of-iraq-if-th.md)
-_Context: George W. Bush, Iran, Iraq, Syria, United States President_
+_Context: George W. Bush, Iran, Iraq, Syria, U.S. President_
 
 ### [ Hewlett-Packard pays a fine of $14.5 million to settle an investigation by the Attorney General of California related to leaks from its boardroom. ](/news/2006/12/7/hewlett-packard-pays-a-fine-of-14-5-million-to-settle-an-investigation-by-the-attorney-general-of-california-related-to-leaks-from-its-boa.md)
 _Context: Attorney General of California, Hewlett-Packard_
@@ -22,7 +22,7 @@ _Context: Doha Asian Games, Kim Hyung-chil, South Korea_
 _Context: Agip, Italian, Niger River, Nigerian_
 
 ### [ Nearly 100 people are dead or unaccounted for in Vietnam as a result of Typhoon Durian. It had earlier killed over 550 people in the Philippines and left a similar number missing. ](/news/2006/12/7/nearly-100-people-are-dead-or-unaccounted-for-in-vietnam-as-a-result-of-typhoon-durian-it-had-earlier-killed-over-550-people-in-the-philip.md)
-_Context: Philippines, Typhoon Durian, Vietnam_
+_Context: Philippine, Typhoon Durian, Vietnam_
 
 ### [ Seven towns are under immediate threat from bushfires in Gippsland in the Australian state of Victoria. ](/news/2006/12/7/seven-towns-are-under-immediate-threat-from-bushfires-in-gippsland-in-the-australian-state-of-victoria.md)
 _Context: Australia, Gippsland, Victoria, bushfire_

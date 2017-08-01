@@ -16,7 +16,7 @@ _Context: Gregory Olsen, International Space Station, Soyuz, rocket, space touri
 _Context: Bali, Bali bombings_
 
 ### [ New Zealand's  Labour Prime Minister Helen Clark is set to form a third-term government after the National Party loses a seat following the count of 'special' votes.  She begins talks with minor party leaders to form a coalition government as well obtain the support of enough minor parties to have a majority on supply and confidence issues. ](/news/2005/10/1/new-zealand-s-labour-prime-minister-helen-clark-is-set-to-form-a-third-term-government-after-the-national-party-loses-a-seat-following-the.md)
-_Context: Helen Clark, New Zealand, New Zealand Labour Party, New Zealand National Party, count of 'special' votes_
+_Context: Helen Clark, Labour Party, New Zealand, New Zealand National Party, count of 'special' votes_
 
 ### [ The Indonesian government raises fuel prices by more than 100%, resulting in petrol prices of 4,500 rupiah (US$0.44) a litre (US$1.67 per gallon). [http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-09-30T225434Z_01_KRA082440_RTRUKOC_0_UK-INDONESIA-FUEL.xml&archived=False (Reuters)] (Link dead as of 22:37, 14 January 2007 (UTC)) ](/news/2005/10/1/the-indonesian-government-raises-fuel-prices-by-more-than-100-resulting-in-petrol-prices-of-4-500-rupiah-us-0-44-a-litre-us-1-67-per-g.md)
 _Context: Indonesia, fuel, rupiah_

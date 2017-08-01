@@ -1,7 +1,7 @@
 ## [2008-01-25](/news/2008/01/25/index.md)
 
 ### [ President of Venezuela Hugo Chvez accuses Colombia of preparing a "military aggression against Venezuela". ](/news/2008/01/25/president-of-venezuela-hugo-chavez-accuses-colombia-of-preparing-a-military-aggression-against-venezuela.md)
-_Context: Colombia, Hugo Chvez, President, Venezuela_
+_Context: Colombia, Hugo Chvez, Venezuela, Venezuelan President_
 
 ### [ United States Secretary of Defense Robert Gates says the U.S. is "ready and willing" to send troops to Pakistan to combat al-Qaeda and the Taliban. ](/news/2008/01/25/united-states-secretary-of-defense-robert-gates-says-the-u-s-is-ready-and-willing-to-send-troops-to-pakistan-to-combat-al-qaeda-and-the.md)
 _Context: Pakistan, Robert Gates, Secretary of Defense, Taliban, U.S., al-Qaeda, military_

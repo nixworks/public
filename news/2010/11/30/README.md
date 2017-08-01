@@ -43,7 +43,7 @@ Snow contnues to fall across much of the UK, bringing disruption to roads and ai
 _Context: Ireland_
 
 ### [Heavy flooding and mudslides claim at least 21 lives in Venezuela, with the President of Venezuela declaring a state of emergency in the state of Falcon. ](/news/2010/11/30/heavy-flooding-and-mudslides-claim-at-least-21-lives-in-venezuela-with-the-president-of-venezuela-declaring-a-state-of-emergency-in-the-sta.md)
-_Context: Falcon, President, Venezuela, mudslide, state of emergency_
+_Context: Falcon, Venezuela, Venezuelan President, mudslide, state of emergency_
 
 ### [Korean peninsula:Officials from the United States, South Korea and Japan are to meet in Washington, D.C., to discuss North Korea. ](/news/2010/11/30/korean-peninsula-pofficials-from-the-united-states-south-korea-and-japan-are-to-meet-in-washington-d-c-to-discuss-north-korea.md)
 North Korea says it has thousands of centrifuges operating at a previously undetected uranium enrichment facility it revealed earlier this month.

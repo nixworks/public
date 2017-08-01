@@ -1,4 +1,15 @@
-## [News](/news/2017/07/31/index.md)
+## [News](/news/2017/08/1/index.md)
+
+### [ Jacinda Ardern is elected the new leader of the Labour Party, after Andrew Little resigns on the back of poor polling performance ahead of the 23 September election. ](/news/2017/08/1/jacinda-ardern-is-elected-the-new-leader-of-the-labour-party-after-andrew-little-resigns-on-the-back-of-poor-polling-performance-ahead-of.md)
+New Labour leader Jacinda Ardern says the party is about to &quot;run the campaign of our lives&quot;.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/07/31/index.md)
 
 ### [Flooding in Gujarat, Western India, kills at least 213 people with the death toll expected to rise as receding flood waters reveal additional victims. Chief Minister of Gujarat Vijay Rupani says heavy rain had triggered "the worst flood of the century" in the state. ](/news/2017/07/31/flooding-in-gujarat-western-india-kills-at-least-213-people-with-the-death-toll-expected-to-rise-as-receding-flood-waters-reveal-additiona.md)
 Authorities race to identify bodies as rescue workers reach new areas and fear monsoon death toll will rise further
@@ -9,16 +20,12 @@ Sanctions freeze Venezuelan president’s assets under US jurisdiction and preve
 ### [The body of Chris Msando, the Kenyan election board's head of information, communication and technology, is discovered. Msando,  who went missing three days ago, is believed to have been tortured and murdered. ](/news/2017/07/31/the-body-of-chris-msando-the-kenyan-election-board-s-head-of-information-communication-and-technology-is-discovered-msando-who-went-mi.md)
 _Context: Kenyan general election, 2017, election board's_
 
-### [Newly-appointed White House Chief of Staff John F. Kelly fires Director of Communications Anthony Scaramucci on his second day in office, less than ten days after Scaramucci took up his post. ](/news/2017/07/31/newly-appointed-white-house-chief-of-staff-john-f-kelly-fires-director-of-communications-anthony-scaramucci-on-his-second-day-in-office-le.md)
+### [Newly-appointed White House Chief of Staff John F. Kelly fires Director of Communications Anthony Scaramucci less than ten days after Scaramucci took up his post. ](/news/2017/07/31/newly-appointed-white-house-chief-of-staff-john-f-kelly-fires-director-of-communications-anthony-scaramucci-less-than-ten-days-after-scaram.md)
 The decision to remove Mr. Scaramucci came at request of the new chief of staff, John Kelly, people close to the decision said.
-
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
 
 ---
 
-## [Yesterday](/news/2017/07/30/index.md)
+## [Day Before Yesterday](/news/2017/07/30/index.md)
 
 ### [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md)
 At least 69 people are known to have died in a Boko Haram ambush of an oil exploration team in northeast Nigeria, as three men kidnapped by the jihadists made a video appeal. 
@@ -52,29 +59,7 @@ _Context: Congolese Party of Labour, National Assembly, Republic of the Congo, R
 
 ---
 
-## [Day Before Yesterday](/news/2017/07/29/index.md)
-
-### [Two people die and 17 others are injured in a stampede  at the First National Bank Stadium in Soweto, near Johannesburg, South Africa, during a soccer match between Orlando Pirates and Kaizer Chiefs. ](/news/2017/07/29/two-people-die-and-17-others-are-injured-in-a-stampede-at-the-first-national-bank-stadium-in-soweto-near-johannesburg-south-africa-durin.md)
-Officials are unsure about what caused the stampede
-
-### [A fire forces the evacuation of more than 22,000 concertgoers at the Tomorrowland music festival at the Parc de Can Zam in Barcelona, Spain. There were no serious injuries. This is the first time the festival has been held in Spain; Belgium had been the home since 2005. ](/news/2017/07/29/a-fire-forces-the-evacuation-of-more-than-22-000-concertgoers-at-the-tomorrowland-music-festival-at-the-parc-de-can-zam-in-barcelona-spain.md)
-More than 22,000 people were evacuated from the &quot;Tomorrowland&quot; festival in Barcelona after a huge fire broke out on a stage.
-
-### [The European Union's executive branch sends a formal notice to Poland expressing their concern that the new "discretionary" powers given to the country's justice minister threaten the independence of the courts in violation of EU laws. Poland has a month to respond. ](/news/2017/07/29/the-european-union-s-executive-branch-sends-a-formal-notice-to-poland-expressing-their-concern-that-the-new-discretionary-powers-given-to.md)
-The European Commission launched legal action on Saturday against what it sees as Polish government attempts to undermine the independence of judges.
-
-### [Australian federal police conduct raids in four separate suburbs of Sydney, detaining individuals and confiscating materials involved in a suspected terrorist plot to bomb an aircraft. ](/news/2017/07/29/australian-federal-police-conduct-raids-in-four-separate-suburbs-of-sydney-detaining-individuals-and-confiscating-materials-involved-in-a-s.md)
-Malcolm Turnbull says the operation was in order to prevent ‘terrorist attacks in Australia’
-
-### [A Catholic priest from the Roman Catholic Diocese of Antipolo, Philippines was arrested in Marikina for sexually abusing a 13-year-old girl, by inviting her to a motel with a 16-year-old pimp. ](/news/2017/07/29/a-catholic-priest-from-the-roman-catholic-diocese-of-antipolo-philippines-was-arrested-in-marikina-for-sexually-abusing-a-13-year-old-girl.md)
-_Context: Catholic Church sexual abuse cases, Marikina, Roman Catholic Diocese of Antipolo_
-
-### [A man wielding a machete attacks the home of Kenya's Deputy President William Ruto, injuring one guard, 10 days before national elections. Ruto and his family were not home at the time. The assailant fled to a farm complex, reportedly hiding in an unfinished building. There are other media reports that gunmen also struck the home. ](/news/2017/07/29/a-man-wielding-a-machete-attacks-the-home-of-kenya-s-deputy-president-william-ruto-injuring-one-guard-10-days-before-national-elections-r.md)
-A lone man armed with a machete attacked and wounded a guard at the home of Kenyan Deputy President William Ruto then entered the compound, Kenya&rsquo;s police chief said Saturday.
-
----
-
-## [Previous Day...](/news/2017/07/28/index.md)
+## [Previous Day...](/news/2017/07/29/index.md)
 
 ---
 

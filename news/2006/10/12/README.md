@@ -13,7 +13,7 @@ _Context: Gaza Strip, Israel, Palestinians_
 _Context: French parliament, Turkish government, genocide of Armenians_
 
 ### [ The New Zealand Auditor-General's report into 2005 election funding is released. NZ$1.17 million dollars was unlawfully spent during the election by seven parties, more than half of it by Labour. Labour immediately promises to repay the money. ](/news/2006/10/12/the-new-zealand-auditor-general-s-report-into-2005-election-funding-is-released-nz-1-17-million-dollars-was-unlawfully-spent-during-the-el.md)
-_Context: 2005 election funding, New Zealand Dollar, New Zealand Labour Party_
+_Context: 2005 election funding, Labour Party, New Zealand Dollar_
 
 ### [ Iraq insurgency: A gun attack on the office of a satellite TV station in Baghdad kills 11 people. ](/news/2006/10/12/iraq-insurgency-p-a-gun-attack-on-the-office-of-a-satellite-tv-station-in-baghdad-kills-11-people.md)
 _Context: Baghdad, Iraq Insurgency_

@@ -22,7 +22,7 @@ _Context: 2001, Pervez Musharraf, Richard Armitage, September 11 attacks, Stone 
 3 Men Killed By Firing Squad, Raising Questions Over Role Of Religion In Sentencing
 
 ### [ Response to President of Venezuela Hugo Chvez's remarks that United States President George W. Bush is like the devil: ](/news/2006/09/21/response-to-president-of-venezuela-hugo-chavez-s-remarks-that-united-states-president-george-w-bush-is-like-the-devil.md)
-_Context: George W. Bush, Hugo Chvez, President, devil_
+_Context: George W. Bush, Hugo Chvez, Venezuelan President, devil_
 
 ### [ United States Senate Republicans and the Bush administration announce an agreement on interrogation methods and the trial of suspects in the War on Terror. ](/news/2006/09/21/united-states-senate-republicans-and-the-bush-administration-announce-an-agreement-on-interrogation-methods-and-the-trial-of-suspects-in-th.md)
 _Context: George W. Bush, Republican, United States Senate, War on Terror_

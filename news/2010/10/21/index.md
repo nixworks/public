@@ -31,7 +31,7 @@ Guillermo Farinas, the Cuban dissident who held a 135-day hunger strike earlier 
 _Context: African Union - United Nations Hybrid Operation in Darfur, China, Darfur, Sudan, United Nations_
 
 ### [President of Venezuela Hugo Chavez finishes a two-day visit to Iran, signing agreements on oil, energy and commerce. ](/news/2010/10/21/president-of-venezuela-hugo-cha-vez-finishes-a-two-day-visit-to-iran-signing-agreements-on-oil-energy-and-commerce.md)
-_Context: Hugo Chavez, Iran, President_
+_Context: Hugo Chavez, Iran, Venezuelan President_
 
 ### [Jewish settlers have started building more than 600 homes in the West Bank since a building freeze expired last month. ](/news/2010/10/21/jewish-settlers-have-started-building-more-than-600-homes-in-the-west-bank-since-a-building-freeze-expired-last-month.md)
 Jewish settlers have started work on some 600 West Bank homes since an Israeli construction freeze expired - four times the pace of building before then, a pressure group says.

@@ -13,7 +13,7 @@ The Government is to establish a statutory fund for former residents of institut
 _Context: Gaza Strip, Israel, Israeli-Palestinian conflict, Palestinian_
 
 ### [President of Iran Mahmoud Ahmadinejad writes a letter to President of the United States Barack Obama urging cooperation between the two countries. ](/news/2010/04/16/president-of-iran-mahmoud-ahmadinejad-writes-a-letter-to-president-of-the-united-states-barack-obama-urging-cooperation-between-the-two-coun.md)
-_Context: Barack Obama, Mahmoud Ahmadinejad, President, United States President_
+_Context: Barack Obama, Mahmoud Ahmadinejad, President, U.S. President_
 
 ### [Victims of the recent severe storm in India angered by slow government response attack officials and raid an aid storage facility. ](/news/2010/04/16/victims-of-the-recent-severe-storm-in-india-angered-by-slow-government-response-attack-officials-and-raid-an-aid-storage-facility.md)
 _Context: severe storm in India_

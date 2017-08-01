@@ -22,7 +22,7 @@ _Context: Alberto Fujimori, Chile, Peru_
 First of three points on the LoC between India and Pakistan opens. | White flags at the LoC
 
 ### [ The 2005 French urban riots continue to intensify and spread, in the eleventh consecutive night of rioting in cities across France. A related incident has been reported in Saint-Gillis, Brussels, Belgium [http://www.guardian.co.uk/france/story/0,11882,1636153,00.html (Guardian)] [http://news.bbc.co.uk/2/hi/europe/4413250.stm (BBC)] [http://edition.cnn.com/2005/WORLD/europe/11/07/france.riots/ (CNN)] [http://www.lefigaro.fr/societe/20051107.FIG0019.html?112845 (Le Figaro)] (in French)](/news/2005/11/7/the-2005-french-urban-riots-continue-to-intensify-and-spread-in-the-eleventh-consecutive-night-of-rioting-in-cities-across-france-a-relat.md)
-_Context: 2005 French urban riots, Belgian, Brussels, Saint-Gillis_
+_Context: 2005 French urban riots, Belgium, Brussels, Saint-Gillis_
 
 ## [Previous Day...](/news/2005/11/6/index.md)
 

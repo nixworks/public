@@ -13,7 +13,7 @@ _Context: Chertsey, Surrey, United Kingdom, foot-and-mouth disease_
 _Context: Afak, Iraq_
 
 ### [ Michael B. Mukasey, a retired federal judge from New York, will be nominated to replace Alberto Gonzales as United States Attorney General and President Bush will announce his selection on Monday. ](/news/2007/09/16/michael-b-mukasey-a-retired-federal-judge-from-new-york-will-be-nominated-to-replace-alberto-gonzales-as-united-states-attorney-general.md)
-_Context: Alberto Gonzales, George W. Bush, Michael B. Mukasey, New York, United States Attorney General_
+_Context: Alberto Gonzales, George W. Bush, Michael B. Mukasey, New York City, United States Attorney General_
 
 ### [ Andrei Lugovoy, the former KGB agent accused by British authorities of murdering Alexander Litvinenko with a radioactive isotope in London last November, says he will run for parliament on the party list of the Liberal Democratic Party of Russia. ](/news/2007/09/16/andrei-lugovoy-the-former-kgb-agent-accused-by-british-authorities-of-murdering-alexander-litvinenko-with-a-radioactive-isotope-in-london.md)
 _Context: Alexander Litvinenko, Andrei Lugovoy, KGB, Liberal Democratic Party of Russia, London, State Duma_

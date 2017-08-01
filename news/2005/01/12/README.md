@@ -4,7 +4,7 @@
 _Context: Conflict in Iraq, Iraq, Iyad Allawi_
 
 ### [ British Airways flight 175 from London to New York is turned back by the U.S. Transportation Security Administration, who claim a passenger's name matches a suspected Moroccan terrorist. The passenger is questioned for two hours by British police and then released. The other 239 passengers resume their journeys nine hours late. ](/news/2005/01/12/british-airways-flight-175-from-london-to-new-york-is-turned-back-by-the-u-s-transportation-security-administration-who-claim-a-passenger.md)
-_Context: British Airways, British Police, London, Morocco, New York, Transportation Security Administration_
+_Context: British Airways, British Police, London, Morocco, New York City, Transportation Security Administration_
 
 ### [ Reports are emerging, from Channel 4 news and other sources, that Sir Mark Thatcher is to plead guilty over his part in an alleged coup plot in Equatorial Guinea. ](/news/2005/01/12/reports-are-emerging-from-channel-4-news-and-other-sources-that-sir-mark-thatcher-is-to-plead-guilty-over-his-part-in-an-alleged-coup-plo.md)
 _Context: Channel 4, Equatorial Guinea, Mark Thatcher_

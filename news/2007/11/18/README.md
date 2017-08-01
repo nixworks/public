@@ -19,7 +19,7 @@ _Context: Chinese, District Council, Hong Kong, elections, parties_
 _Context: 2007 Pakistani state of emergency, Hina Jilani, John Negroponte, London, Pervez Musharraf, Peshawar, President, US Deputy Secretary of State, United States, bomb, explosion, passenger train, political opponent, railway track, state of emergency_
 
 ### [ Venezuelan President Hugo Chvez opens the 2007 OPEC meeting in Saudi Arabia, warning the United States against attacking Iran. ](/news/2007/11/18/venezuelan-president-hugo-chavez-opens-the-2007-opec-meeting-in-saudi-arabia-warning-the-united-states-against-attacking-iran.md)
-_Context: Hugo Chvez, Iran, OPEC, President, Saudi Arabia, United States, Venezuela_
+_Context: Hugo Chvez, Iran, OPEC, Saudi Arabia, United States, Venezuela, Venezuelan President_
 
 ### [ 2007 Writers Guild of America strike: Screenwriters announce they will resume negotiations with movie studios on November 26. ](/news/2007/11/18/2007-writers-guild-of-america-strike-screenwriters-announce-they-will-resume-negotiations-with-movie-studios-on-november-26.md)
 _Context: 2007 Writers Guild of America strike, Screenwriter, movie studio, negotiation_

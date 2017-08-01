@@ -13,7 +13,7 @@ Pope Benedict XVI has accepted the resignation of the Bishop of Kildare and Leig
 Protesters blockade parliament amid growing stand-off over presidential decree.
 
 ### [The Flemish Liberals and Democrats leave the Government of Belgium following a dispute over the dissolution of the electoral district Brussels-Halle-Vilvoorde. ](/news/2010/04/22/the-flemish-liberals-and-democrats-leave-the-government-of-belgium-following-a-dispute-over-the-dissolution-of-the-electoral-district-brusse.md)
-_Context: Belgian, Brussels-Halle-Vilvoorde, Flemish Liberals and Democrats, Government_
+_Context: Belgium, Brussels-Halle-Vilvoorde, Flemish Liberals and Democrats, Government_
 
 ### [Several grenades explode in Thailand's capital, Bangkok, killing at least one person and injuring at least 75 others. ](/news/2010/04/22/several-grenades-explode-in-thailand-s-capital-bangkok-killing-at-least-one-person-and-injuring-at-least-75-others.md)
 _Context: Bangkok, Several grenades explode, Thailand_
@@ -52,7 +52,7 @@ _Context: Greek, euro_
 Officials say alert follows intercepted telephonic messages of fighter groups.
 
 ### [President of the United States Barack Obama calls on Wall Street to join him in his efforts to reform the financial sector in a visit to Manhattan. ](/news/2010/04/22/president-of-the-united-states-barack-obama-calls-on-wall-street-to-join-him-in-his-efforts-to-reform-the-financial-sector-in-a-visit-to-man.md)
-_Context: Barack Obama, Manhattan, United States President, Wall Street_
+_Context: Barack Obama, Manhattan, U.S. President, Wall Street_
 
 ### [The Melbourne Storm are stripped of their 2007 and 2009 National Rugby League titles after being found to have cheated the salary cap. ](/news/2010/04/22/the-melbourne-storm-are-stripped-of-their-2007-and-2009-national-rugby-league-titles-after-being-found-to-have-cheated-the-salary-cap.md)
 _Context: 2007, 2009, Melbourne Storm, National Rugby League, salary cap_

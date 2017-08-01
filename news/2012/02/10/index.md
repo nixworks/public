@@ -61,7 +61,7 @@ _Context: Daily Mail, Nat Rothschild, Oleg Deripaska, Peter Mandelson_
 A man suspected of involvement in the 2003 killing of Serbian Prime Minister Zoran Djindjic is arrested in Spain, police say.
 
 ### [An Uzbek man Ulugbek Kodirov pleads guilty to plotting with the Islamic Movement of Uzbekistan to assassinate President of the United States Barack Obama in a hearing in Birmingham, Alabama. ](/news/2012/02/10/an-uzbek-man-ulugbek-kodirov-pleads-guilty-to-plotting-with-the-islamic-movement-of-uzbekistan-to-assassinate-president-of-the-united-states.md)
-_Context: Alabama, Barack Obama, Birmingham, Islamic Movement of Uzbekistan, Ulugbek Kodirov, United States President, Uzbek_
+_Context: Alabama, Barack Obama, Birmingham, Islamic Movement of Uzbekistan, U.S. President, Ulugbek Kodirov, Uzbek_
 
 ### [Chinese Premier Wen Jiabao pledges greater freedoms in Tibet, hours after two protesters are killed demanding the end of Chinese rule in the region; seven officials are also sacked for "neglecting state duties". ](/news/2012/02/10/chinese-premier-wen-jiabao-pledges-greater-freedoms-in-tibet-hours-after-two-protesters-are-killed-demanding-the-end-of-chinese-rule-in-the.md)
 _Context: Chinese, Tibet, Wen Jiabao_
@@ -76,7 +76,7 @@ Burmese monk Shin Gambira, one of the leaders of the 2007 protests, is taken awa
 Hamza Kashgari detained after apparently fleeing kingdom after being accused of insulting Prophet Muhammad on Twitter.
 
 ### [Firefighters hose down the Belgian prime minister's office in protest over plans to increase their retirement age. ](/news/2012/02/10/firefighters-hose-down-the-belgian-prime-minister-s-office-in-protest-over-plans-to-increase-their-retirement-age.md)
-_Context: Belgian_
+_Context: Belgium_
 
 ### [Mohamed Nasheed, former president of the Maldives, demands new elections and threatens protests if the new government meet the demands. ](/news/2012/02/10/mohamed-nasheed-former-president-of-the-maldives-demands-new-elections-and-threatens-protests-if-the-new-government-meet-the-demands.md)
 The former president of the Maldives, Mohamed Nasheed, on Friday demanded new elections and vowed mass street protests if the new government did not relent, raising the prospect of a protracted crisis on the Indian Ocean islands famed as a beach paradise.

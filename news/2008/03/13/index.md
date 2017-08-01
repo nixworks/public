@@ -25,7 +25,7 @@ The dollar extended losses late on Thursday, hitting fresh record lows against t
 _Context: Adelaide, Hobart, Melbourne_
 
 ### [ Leaders of the European Union meet in Brussels, Belgium with climate change and energy security dominating the agenda. ](/news/2008/03/13/leaders-of-the-european-union-meet-in-brussels-belgium-with-climate-change-and-energy-security-dominating-the-agenda.md)
-_Context: Belgian, Brussels, European Union, climate change, energy security_
+_Context: Belgium, Brussels, European Union, climate change, energy security_
 
 ### [ Turkish prosecutor Abdurrahman Yalcinkaya asks the Constitutional Court of Turkey to ban the ruling Justice and Development Party for anti-secular activities. ](/news/2008/03/13/turkish-prosecutor-abdurrahman-yalassa-nkaya-asks-the-constitutional-court-of-turkey-to-ban-the-ruling-justice-and-development-party-for-ant.md)
 _Context: Abdurrahman Yalcinkaya, Constitutional Court of Turkey, Turkey, ruling party, secular_

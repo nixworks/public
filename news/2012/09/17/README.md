@@ -25,7 +25,7 @@ _Context: Chinese, Japanese, Panasonic, Senkaku Islands dispute_
 President Barack Obama on Monday said the United States was challenging Chinese auto and auto-parts subsidies that threatened American jobs as he campaigned in Ohio, an auto manufacturing state that could be decisive in the November presidential election.
 
 ### [ArcelorMittal announces the likely loss of two thousand cold process jobs in Lige, Belgium, after the failure of talks with unions. Unions say the steel maker wants to force an agreement before even starting talks. Wallonia wants to see the long-term plan. ](/news/2012/09/17/arcelormittal-announces-the-likely-loss-of-two-thousand-cold-process-jobs-in-liege-belgium-after-the-failure-of-talks-with-unions-unions.md)
-_Context: ArcelorMittal, Belgian, Lige, Wallonia, cold process, force an agreement before even starting talks, steel maker, unionize_
+_Context: ArcelorMittal, Belgium, Lige, Wallonia, cold process, force an agreement before even starting talks, steel maker, unionize_
 
 ### [Typhoon Sanba makes landfall in South Korea near the port of Yeosu causing the cancellation of flights and other transport services; one person is reported dead. ](/news/2012/09/17/typhoon-sanba-makes-landfall-in-south-korea-near-the-port-of-yeosu-causing-the-cancellation-of-flights-and-other-transport-services-one-per.md)
 Read the latest World and International news headlines from Sky News Australia. For coverage of breaking news from around the World visit skynews.com.au.

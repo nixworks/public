@@ -1,7 +1,7 @@
 ## [2007-08-13](/news/2007/08/13/index.md)
 
 ### [ Two Belgian tourists who went missing last week in Iran appear to have been kidnapped by a bandit who is demanding that his brother be freed from prison. ](/news/2007/08/13/two-belgian-tourists-who-went-missing-last-week-in-iran-appear-to-have-been-kidnapped-by-a-bandit-who-is-demanding-that-his-brother-be-free.md)
-_Context: Belgian, Iran_
+_Context: Belgium, Iran_
 
 ### [ A scandal erupts in Argentina when a Venezuelan businessman is caught trying to smuggle $800,000 into the country on a plane belonging to Enarsa, Argentina's government-owned energy company. ](/news/2007/08/13/a-scandal-erupts-in-argentina-when-a-venezuelan-businessman-is-caught-trying-to-smuggle-800-000-into-the-country-on-a-plane-belonging-to-e.md)
 A scandal has left President Néstor Kirchner of Argentina and his wife scrambling to contain any potential damage to her bid to succeed him as president.

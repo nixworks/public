@@ -31,7 +31,7 @@ _Context: March 31, Movement for Democratic Change, Roy Bennett, Zimbabwe_
 _Context: Paris_
 
 ### [ In Lebanon, United Nations team that investigates murder of Rafik Hariri, completes its mission. They will present their findings to secretary general Kofi Annan in New York ](/news/2005/03/15/in-lebanon-united-nations-team-that-investigates-murder-of-rafik-hariri-completes-its-mission-they-will-present-their-findings-to-secret.md)
-_Context: Kofi Annan, Lebanon, New York, Rafik Hariri, United Nations_
+_Context: Kofi Annan, Lebanon, New York City, Rafik Hariri, United Nations_
 
 ### [ In Italy, cardinal Tarcisio Bertone, Roman Catholic archbishop of Genoa, speaks against what he describes as "lies" in the popular book "The Da Vinci Code"; the book effectively claims that, among other things, the church suppresses information about Jesus' marriage with Mary Magdalene ](/news/2005/03/15/in-italy-cardinal-tarcisio-bertone-roman-catholic-archbishop-of-genoa-speaks-against-what-he-describes-as-lies-in-the-popular-book-th.md)
 A chief provider and curator of Catholic information on the web since 1996. Our editorial voice, always faithful to the teachings of the Church, assists and inspires Catholic clergy and laity.

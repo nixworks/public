@@ -13,7 +13,7 @@ _Context: Egypt, Gaza Strip, Palestinian_
 Seven U.S. troops have died in weekend attacks in Afghanistan&#39;s embattled southern and eastern regions, while officials found the bodies Sunday of five kidnapped campaign aides working for a female candidate in the western province of Herat.
 
 ### [The Catholic Church admits that during a meeting in April Godfried Danneels, the retired Catholic leader in Belgium, advised a person who had experienced abuse to remain silent until his abuser Roger Vangheluwe, the Bishop of Brugge, retired. ](/news/2010/08/29/the-catholic-church-admits-that-during-a-meeting-in-april-godfried-danneels-the-retired-catholic-leader-in-belgium-advised-a-person-who-ha.md)
-_Context: Belgian, Bishop of Brugge, Catholic Church, Godfried Danneels, Roger Vangheluwe_
+_Context: Belgium, Bishop of Brugge, Catholic Church, Godfried Danneels, Roger Vangheluwe_
 
 ### [''Mad Men'' wins the Emmy for Outstanding Drama Series. ](/news/2010/08/29/mad-men-wins-the-emmy-for-outstanding-drama-series.md)
 _Context: 62nd Primetime Emmy Awards, Emmy Awards, Mad Men_

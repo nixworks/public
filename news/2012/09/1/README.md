@@ -13,7 +13,7 @@ _Context: Eduardo Arellano Felix, Mexican Drug War, Tijuana Cartel_
 _Context: 2012 Northern Mali conflict, Douentza, Islamist, Mali_
 
 ### [An unidentified man throws a grenade to spectators of a festival in Paquibato district near Davao City, Philippines, wounding 41 people. ](/news/2012/09/1/an-unidentified-man-throws-a-grenade-to-spectators-of-a-festival-in-paquibato-district-near-davao-city-philippines-wounding-41-people.md)
-_Context: Davao City, Philippines_
+_Context: Davao City, Philippine_
 
 ### [Former progressive Cardinal Carlo Maria Martini describes the Catholic Church as "200 years behind the times" in an interview published the day after his death. ](/news/2012/09/1/former-progressive-cardinal-carlo-maria-martini-describes-the-catholic-church-as-200-years-behind-the-times-in-an-interview-published-the.md)
 _Context: Carlo Maria Martini, Catholic Church_
@@ -25,7 +25,7 @@ US songwriter Hal David, who wrote dozens of hit songs with collaborator Burt Ba
 _Context: Hantavirus, United States, Yosemite National Park, an outbreak_
 
 ### [A nuclear reactor in Belgium shows up to 0.3 m-depth signs of erosion weakening the 1.2 m outer reinforced concrete mantle, three times deeper than previously reported. The owner and the nuclear regulator deny any risk since the reactor was already shut down due to another issue. ](/news/2012/09/1/a-nuclear-reactor-in-belgium-shows-up-to-0-3-m-depth-signs-of-erosion-weakening-the-1-2-m-outer-reinforced-concrete-mantle-three-times-deep.md)
-_Context: A nuclear reactor, Belgian, another, nuclear regulator, owner_
+_Context: A nuclear reactor, Belgium, another, nuclear regulator, owner_
 
 ### [Now middle-aged victims of Thalidomide (''Softenon'', ''Contergan'')'s mutilating effects on embryos say the first ever apologies from the manufacturer Grunenthal GmbH are "insulting". ](/news/2012/09/1/now-middle-aged-victims-of-thalidomide-softenon-contergan-s-mutilating-effects-on-embryos-say-the-first-ever-apologies-from-the-m.md)
 In its first apology for the scandal in 50 years, Grunenthal said on Friday it was “very sorry” for its silence towards victims of the drug, which caused thousands of babies to be born with disabilities

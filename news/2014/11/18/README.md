@@ -31,7 +31,7 @@ By Daniel Stroe BucharestTeodor Melescanu Romanian minister of Foreign Affairs h
 _Context: 2014 pro-democracy street protests, Admiralty, Hong Kong_
 
 ### [Andrew Little is elected to lead the New Zealand Labour Party following the resignation of David Cunliffe in September. ](/news/2014/11/18/andrew-little-is-elected-to-lead-the-new-zealand-labour-party-following-the-resignation-of-david-cunliffe-in-september.md)
-_Context: Andrew Little, David Cunliffe, New Zealand Labour Party, elected_
+_Context: Andrew Little, David Cunliffe, Labour Party, elected_
 
 ### [The United States Senate narrowly defeats legislation on the Keystone XL Pipeline, intended to allow oil from the oil sands of Canada to flow to the Gulf Coast of Texas. ](/news/2014/11/18/the-united-states-senate-narrowly-defeats-legislation-on-the-keystone-xl-pipeline-intended-to-allow-oil-from-the-oil-sands-of-canada-to-flo.md)
 _Context: Canada, Gulf Coast, Keystone XL, Senator, Texas, oil sands_

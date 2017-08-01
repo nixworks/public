@@ -28,7 +28,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 The Voyager-1 probe may be beyond our Sun’s influence, but Nasa will not yet officially describe it as outside the Solar System.
 
 ### [Belgium's Pierre Deligne wins the 2013 Abel Prize in mathematics for seminal contributions to algebraic geometry. ](/news/2013/03/20/belgium-s-pierre-deligne-wins-the-2013-abel-prize-in-mathematics-for-seminal-contributions-to-algebraic-geometry.md)
-_Context: Abel Prize, Belgian, Pierre Deligne, algebraic geometry, mathematics_
+_Context: Abel Prize, Belgium, Pierre Deligne, algebraic geometry, mathematics_
 
 ## [Previous Day...](/news/2013/03/19/index.md)
 

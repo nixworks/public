@@ -31,7 +31,7 @@ Ministerial Committee for Symbols and Ceremonies decides that last summer&#39;s 
 _Context: Kemerovo, Novokuznetsk, Siberia, Ulyanovskaya Mine disaster, gas explosion, methane_
 
 ### [ The Airbus 380 makes a publicity flight with Lufthansa to New York and then Chicago. ](/news/2007/03/19/the-airbus-380-makes-a-publicity-flight-with-lufthansa-to-new-york-and-then-chicago.md)
-_Context: Airbus 380, Chicago, Lufthansa, New York_
+_Context: Airbus 380, Chicago, Lufthansa, New York City_
 
 ### [ A suicide bomber attacks a Western convoy in Kabul, causing casualties. ](/news/2007/03/19/a-suicide-bomber-attacks-a-western-convoy-in-kabul-causing-casualties.md)
 _Context: Kabul, convoy, suicide bomber_

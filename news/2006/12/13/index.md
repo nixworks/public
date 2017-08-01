@@ -4,7 +4,7 @@
 _Context: Bushmen, Central Botswana Game Reserve, High Court of Botswana_
 
 ### [ Belgian state TV station RTBF shows a spoof news report announcing the secession of Flanders and thus the dissolution of the Belgian state. It further reported the escape of the Belgian Royal Family into exile. The report fools foreign diplomats and panics Belgian viewers. ](/news/2006/12/13/belgian-state-tv-station-rtbf-shows-a-spoof-news-report-announcing-the-secession-of-flanders-and-thus-the-dissolution-of-the-belgian-state.md)
-_Context: Belgian, Flemish, King, RTBF, secession_
+_Context: Belgium, Flemish, King, RTBF, secession_
 
 ### [ Bomb and mortar attacks kill 23 Iraqis and wound at least 52 in Baghdad and Kirkuk. ](/news/2006/12/13/bomb-and-mortar-attacks-kill-23-iraqis-and-wound-at-least-52-in-baghdad-and-kirkuk.md)
 _Context: Baghdad, Iraq, Kirkuk_

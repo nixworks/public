@@ -19,7 +19,7 @@ Tesla Motors said it would buy solar panel installer SolarCity for $2.6 billion 
 A security law has come into force in Malaysia that gives the Prime Minister, Najib Razak, sweeping new powers. As well as letting him declare any area in Malaysia a security zone, the law gives police enhanced powers, including the right to use unlimited force, plus immunity for their acts. Mr Najib is under international investigation in a billion dollar plus embezzlement scandal.
 
 ### [Venezuelan protests,  Venezuela's National Electoral Council says the opposition successfully met the one percent of voter signatures in every state requirement for a referendum to recall  President Nicolas Maduro. Council head Tibisay Lucena  did not name a date for the next phase of the referendum process: collect 20 percent of voters' signatures. ](/news/2016/08/1/venezuelan-protests-venezuela-s-national-electoral-council-says-the-opposition-successfully-met-the-one-percent-of-voter-signatures-in-eve.md)
-_Context: 2014-16 Venezuelan protests, 2016 state of emergency in Venezuela, National Electoral Council, Nicolas Maduro, President, Tibisay Lucena, Venezuela_
+_Context: 2014-16 Venezuelan protests, 2016 state of emergency in Venezuela, National Electoral Council, Nicolas Maduro, Tibisay Lucena, Venezuela, Venezuelan President_
 
 ## [Previous Day...](/news/2016/07/31/index.md)
 

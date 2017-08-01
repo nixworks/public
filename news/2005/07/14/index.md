@@ -28,7 +28,7 @@ Former politician and police prosecutor Graham Capill was today handed a nine-ye
 _Context: Duisburg, Germany, World Games_
 
 ### [ In the US, customs in New York airport have refused entry of British leading moderate Muslim theologian Zaki Badawi. Bawadi had been invited to a talk in Chautauqua Institution. He had publicly condemned the bombings in London ](/news/2005/07/14/in-the-us-customs-in-new-york-airport-have-refused-entry-of-british-leading-moderate-muslim-theologian-zaki-badawi-bawadi-had-been-invite.md)
-_Context: Chautauqua Institution, Muslim, New York, Zaki Badawi_
+_Context: Chautauqua Institution, Muslim, New York City, Zaki Badawi_
 
 ### [ In Haiti, Jacques Roche, kidnapped prominent journalist and poet, is found dead. Police says he was tortured and shot. Roche was kidnapped July 10 [http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-14T204557Z_01_SPI474748_RTRUKOC_0_HAITI-JOURNALIST.xml (Reuters)] (Link dead as of 00:39, 15 January 2007 (UTC))](/news/2005/07/14/in-haiti-jacques-roche-kidnapped-prominent-journalist-and-poet-is-found-dead-police-says-he-was-tortured-and-shot-roche-was-kidnapped.md)
 _Context: Haiti, Jacques Roche_

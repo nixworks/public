@@ -19,7 +19,7 @@ At least seven people are missing after a major road tunnel collapses west of To
 _Context: China, Heilongjiang province, coal mine, miner_
 
 ### [The Philippines warns citizens about Typhoon Bopha expected to make landfall on Tuesday, December 4. ](/news/2012/12/2/the-philippines-warns-citizens-about-typhoon-bopha-expected-to-make-landfall-on-tuesday-december-4.md)
-_Context: Philippines, Typhoon Bopha, landfall_
+_Context: Philippine, Typhoon Bopha, landfall_
 
 ### [Egypt's Supreme Constitutional Court defers a ruling on whether the Constituent Assembly is legal following pressure from supporters of President Mohamed Morsi. ](/news/2012/12/2/egypt-s-supreme-constitutional-court-defers-a-ruling-on-whether-the-constituent-assembly-is-legal-following-pressure-from-supporters-of-pres.md)
 _Context: Constituent Assembly of Egypt, Egypt, Egyptian President, Mohamed Morsi, Supreme Constitutional Court_

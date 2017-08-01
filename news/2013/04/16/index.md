@@ -34,7 +34,7 @@ _Context: Ghana, Kyekyewere, gold mine_
 North Korea issued new threats against South Korea on Tuesday, vowing &quot;sledge-hammer blows&quot; of retaliation if South Korea did not apologize for anti-North Korean protests the previous day when the North was celebrating the birth of its founding leader.
 
 ### [China's defense ministry criticizes the United States for allegedly increasing tensions in the Asia-Pacific region by increasing its military presence and supporting Japan, the Philippines and Vietnam in longstanding territorial disputes. ](/news/2013/04/16/china-s-defense-ministry-criticizes-the-united-states-for-allegedly-increasing-tensions-in-the-asia-pacific-region-by-increasing-its-militar.md)
-_Context: China, Chinese Defense Ministry, Japan, Pacific, Philippines, Territorial disputes in the South China Sea, United States, Vietnam, military presence_
+_Context: China, Chinese Defense Ministry, Japan, Pacific, Philippine, Territorial disputes in the South China Sea, United States, Vietnam, military presence_
 
 ### [Three teenagers in Liverpool, England, are convicted for beating a homeless man to death as part of a dare. ](/news/2013/04/16/three-teenagers-in-liverpool-england-are-convicted-for-beating-a-homeless-man-to-death-as-part-of-a-dare.md)
 _Context: England, Liverpool, convicted, homeless people_

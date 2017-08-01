@@ -10,7 +10,7 @@ U.S. stocks rise sharply after data that show jobless claims falling to a five-y
 NSA whistleblower Edward Snowden has been granted temporary asylum in Russia and is allowed to enter the country’s territory.
 
 ### [In talks in Manila, the Philippines and Vietnam agree to work together on a framework for resolving maritime territorial disputes in the South China Sea. ](/news/2013/08/1/in-talks-in-manila-the-philippines-and-vietnam-agree-to-work-together-on-a-framework-for-resolving-maritime-territorial-disputes-in-the-sou.md)
-_Context: Manila, Philippines, Vietnam_
+_Context: Manila, Philippine, Vietnam_
 
 ### [Russian police detain 1,200 illegal Vietnamese migrants in raids in Moscow. ](/news/2013/08/1/russian-police-detain-1-200-illegal-vietnamese-migrants-in-raids-in-moscow.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

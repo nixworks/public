@@ -7,7 +7,7 @@ _Context: Cairns, Pacific Islands Forum_
 _Context: Iran, Mahmoud Ahmadinejad, President, re-election_
 
 ### [ The funeral of Corazon Aquino, the first female President of an Asian country and the Philippines, takes place in the Philippines. ](/news/2009/08/5/the-funeral-of-corazon-aquino-the-first-female-president-of-an-asian-country-and-the-philippines-takes-place-in-the-philippines.md)
-_Context: Asia, Corazon Aquino, Philippines, President of the Philippines, first female_
+_Context: Asia, Corazon Aquino, Philippine, President of the Philippines, first female_
 
 ### [ Brazilian President Lula da Silva says his country is "now advising the International Monetary Fund, IMF". ](/news/2009/08/5/brazilian-president-lula-da-silva-says-his-country-is-anow-advising-the-international-monetary-fund-imfa.md)
 President Lula da Silva said that Brazil is climbing out, and strengthened, from the deep global financial crisis and underlined that &ldquo;Brazil is now advising the International Monetary Fund, IMF&rdquo;.
@@ -22,7 +22,7 @@ _Context: Baghdad, Bremer wall, Government of Iraq, Iraq_
 _Context: Khartoum, Nile, Sudan_
 
 ### [ Two United States journalists, Laura Ling and Euna Lee, who had been detained by North Korea, return home with former U.S. President Bill Clinton. ](/news/2009/08/5/two-united-states-journalists-laura-ling-and-euna-lee-who-had-been-detained-by-north-korea-return-home-with-former-u-s-president-bill-c.md)
-_Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, United States, United States President, detained_
+_Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, U.S. President, United States, detained_
 
 ### [ Former Madagascar leader Marc Ravalomanana is hopeful that a relaunch of peace talks between the country's rival factions will bring progress toward a return of political stability. ](/news/2009/08/5/former-madagascar-leader-marc-ravalomanana-is-hopeful-that-a-relaunch-of-peace-talks-between-the-country-s-rival-factions-will-bring-progre.md)
 _Context: Madagascar, Marc Ravalomanana_
@@ -70,7 +70,7 @@ _Context: FC Schalke 04, Islam, Muhammad, Prophet_
 A number of Romanians who fled Belfast in the wake of racist attacks have returned to Northern Ireland, it was revealed tonight&hellip;
 
 ### [ Belgian Justice Minister Stefaan De Clerck is under fire after three men with criminal records escape from a courthouse in Brussls. The escape follows the helicopter breakout of three inmates, including one of Belgium's most dangerous criminals, and the ladder breakout of six more convicts all in the space of twelve days. ](/news/2009/08/5/belgian-justice-minister-stefaan-de-clerck-is-under-fire-after-three-men-with-criminal-records-escape-from-a-courthouse-in-brussls-the-esc.md)
-_Context: Belgian, Stefaan De Clerck_
+_Context: Belgium, Stefaan De Clerck_
 
 ### [ Former Argentine President Fernando de la Rua is indicted in a bribery case. ](/news/2009/08/5/former-argentine-president-fernando-de-la-raoa-is-indicted-in-a-bribery-case.md)
 The Argentine Federal Appeals court has confirmed the indictment of ex-president Fernando de la R&uacute;a in a case linking the former Radical president to the payment of bribes at the Senate in 2000 and which ended with a major political crisis.

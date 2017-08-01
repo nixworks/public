@@ -52,7 +52,7 @@ _Context: Cuba, Leftist, President, Tabar Vzquez, Uruguay, diplomatic relations,
 _Context: Capital punishment in the United States, Roper v. Simmons, US Supreme Court, capital crime, death penalty_
 
 ### [ In the US, New York Federal court hears a case of Vietnamese plaintiffs who demand compensation for effects of the Agent Orange during the Vietnam War. United States Justice Department and companies that manufactured Agent Orange demand that the federal judge dismiss the case.](/news/2005/03/1/in-the-us-new-york-federal-court-hears-a-case-of-vietnamese-plaintiffs-who-demand-compensation-for-effects-of-the-agent-orange-during-the.md)
-_Context: Agent Orange, New York, U.S. federal court, United States Justice Department, Vietnam, Vietnam War_
+_Context: Agent Orange, New York City, U.S. federal court, United States Justice Department, Vietnam, Vietnam War_
 
 ## [Previous Day...](/news/2005/02/28/index.md)
 

@@ -16,7 +16,7 @@ Minister for Foreign Affairs Micheál Martin is is expected to arrive in Khartou
 _Context: Jack Straw, Libya, Lockerbie bomber, United Kingdom_
 
 ### [ Thousands of people attend rival demonstrations for or against the policies of Venezuelan President Hugo Chvez in Venezuela, Spain, Honduras and in other Latin American capitals. ](/news/2009/09/5/thousands-of-people-attend-rival-demonstrations-for-or-against-the-policies-of-venezuelan-president-hugo-chavez-in-venezuela-spain-hondur.md)
-_Context: Honduras, Hugo Chvez, President, Spain, Venezuela_
+_Context: Honduras, Hugo Chvez, Spain, Venezuela, Venezuelan President_
 
 ### [ Around 90 people are arrested in clashes between right wing anti-Islamic groups and anti-Fascist protesters in Birmingham, England. ](/news/2009/09/5/around-90-people-are-arrested-in-clashes-between-right-wing-anti-islamic-groups-and-anti-fascist-protesters-in-birmingham-england.md)
 Hundreds of people clashed in Birmingham city centre yesterday as right-wing protesters fought with anti-fascist campaigners in a busy shopping street. A demo by the English Defence League ended in violence.

@@ -10,7 +10,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: First World War, Post traumatic stress disorder, United Kingdom, United Kingdom parliament, shell shock_
 
 ### [ New Jersey Transit says that service has been suspended between New York's Penn Station and Secaucus due to a suspicious item found on the tracks east of the Secaucus junction. ](/news/2006/08/15/new-jersey-transit-says-that-service-has-been-suspended-between-new-york-s-penn-station-and-secaucus-due-to-a-suspicious-item-found-on-the.md)
-_Context: New Jersey Transit, New York, Penn Station, Secaucus_
+_Context: New Jersey Transit, New York City, Penn Station, Secaucus_
 
 ### [ 2006 Israel-Lebanon conflict: Israel claims that Hezbollah fired 10 Katyusha rockets into Southern Lebanon with none reaching Israel. ](/news/2006/08/15/2006-israel-lebanon-conflict-p-israel-claims-that-hezbollah-fired-10-katyusha-rockets-into-southern-lebanon-with-none-reaching-israel.md)
 _Context: Hezbollah, Israel, Katyusha, Southern Lebanon, war_

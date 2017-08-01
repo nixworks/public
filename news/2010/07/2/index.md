@@ -37,7 +37,7 @@ _Context: Ahmed M. Mahamoud Silanyo, President, Somaliland presidential election
 _Context: Antichrist, Ian Paisley_
 
 ### [President of the United States Barack Obama signs into law the CISAD Act, which bans US banks from doing business with foreign banks that provide services to Iran's elite Revolutionary Guards. ](/news/2010/07/2/president-of-the-united-states-barack-obama-signs-into-law-the-cisad-act-which-bans-us-banks-from-doing-business-with-foreign-banks-that-pr.md)
-_Context: Barack Obama, CISAD Act, Revolutionary Guards, United States President_
+_Context: Barack Obama, CISAD Act, Revolutionary Guards, U.S. President_
 
 ### [Germany vows to suspend aid to Zimbabwe unless occupiers leave a farm owned by a German national. ](/news/2010/07/2/germany-vows-to-suspend-aid-to-zimbabwe-unless-occupiers-leave-a-farm-owned-by-a-german-national.md)
 _Context: Germany, Zimbabwe_

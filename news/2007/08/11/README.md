@@ -13,7 +13,7 @@ _Context: Firebase Anaconda, Helmand Province, Kandahar, Taliban, Uruzgan, War i
 _Context: Canadian House of Commons, Outremont, Roberval--Lac-Saint-Jean, Saint-Hyacinthe--Bagot, by-election, ridings_
 
 ### [ The President of Venezuela Hugo Chavez proposes building a gas pipeline between Venezuela and the Caribbean supplying states such as Cuba. ](/news/2007/08/11/the-president-of-venezuela-hugo-chavez-proposes-building-a-gas-pipeline-between-venezuela-and-the-caribbean-supplying-states-such-as-cuba.md)
-_Context: Caribbean, Cuba, Hugo Chvez, President, Venezuela_
+_Context: Caribbean, Cuba, Hugo Chvez, Venezuela, Venezuelan President_
 
 ### [ The President of Russia Vladimir Putin states that a new radar station in the village of Lekhtusi near St Petersburg is the first step in a large-scale air defense program. ](/news/2007/08/11/the-president-of-russia-vladimir-putin-states-that-a-new-radar-station-in-the-village-of-lekhtusi-near-st-petersburg-is-the-first-step-in-a.md)
 _Context: Lekhtusi, Russian President Vladimir Putin, St. Petersburg, Vladimir Putin, air defense, radar_

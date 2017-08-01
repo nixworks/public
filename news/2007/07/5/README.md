@@ -16,7 +16,7 @@ A forceful 6.1 magnitude earthquake shook two poor southern Mexican farming stat
 _Context: Arab League boycott of Israel, Bahrain_
 
 ### [ A Belgian court sentences former Rwandan army major Bernard Ntuyahaga to twenty years in jail for the murder of 10 Belgian Army peacekeepers and an undetermined number of civilians in the Rwandan genocide. ](/news/2007/07/5/a-belgian-court-sentences-former-rwandan-army-major-bernard-ntuyahaga-to-twenty-years-in-jail-for-the-murder-of-10-belgian-army-peacekeeper.md)
-_Context: Belgian, Bernard Ntuyahaga, Rwanda, Rwandan Genocide, army, jail, major, peacekeepers_
+_Context: Belgium, Bernard Ntuyahaga, Rwanda, Rwandan Genocide, army, jail, major, peacekeepers_
 
 ### [ The Zimbabwe Congress of Trade Unions votes to strike for higher wages as inflation in Zimbabwe rises above 10,000%. ](/news/2007/07/5/the-zimbabwe-congress-of-trade-unions-votes-to-strike-for-higher-wages-as-inflation-in-zimbabwe-rises-above-10-000.md)
 _Context: Zimbabwe, Zimbabwe Congress of Trade Unions, wages_

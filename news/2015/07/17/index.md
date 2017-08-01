@@ -28,7 +28,7 @@ _Context: 2015 Pacific typhoon season, Honshu Island, Japan, Typhoon Nangka_
 Ash spewing from two volcanoes in Indonesia prompts the closure of three more airports, which means five are now shut as millions head home for the Eid holiday.
 
 ### [At least five people are dead and three are missing after a coal mine in the Philippines province of Antique collapses. ](/news/2015/07/17/at-least-five-people-are-dead-and-three-are-missing-after-a-coal-mine-in-the-philippines-province-of-antique-collapses.md)
-_Context: Antique, Philippines_
+_Context: Antique, Philippine_
 
 ### [Two commuter trains collide at the Booysens train station in Johannesburg, South Africa, injuring more than 250 people. ](/news/2015/07/17/two-commuter-trains-collide-at-the-booysens-train-station-in-johannesburg-south-africa-injuring-more-than-250-people.md)
 Paramedics at the scene of the Booysens station train crash in Johannesburg say they have tended to about 250 injured commuters, and that the number of casualties may still increase.

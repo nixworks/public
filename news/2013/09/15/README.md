@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 Bavarians go to the polls with Chancellor Angela Merkel hoping for momentum ahead of general elections in a week.
 
 ### [New Zealand Labour Party MP David Cunliffe is elected leader of the party with 51.5% of the total vote. ([http://New%20Zealand%20Herald New Zealand Herald])](/news/2013/09/15/new-zealand-labour-party-mp-david-cunliffe-is-elected-leader-of-the-party-with-51-5-of-the-total-vote-http-new-20zealand-20herald-new.md)
-_Context: David Cunliffe, New Zealand Labour Party_
+_Context: David Cunliffe, Labour Party_
 
 ## [Previous Day...](/news/2013/09/14/index.md)
 

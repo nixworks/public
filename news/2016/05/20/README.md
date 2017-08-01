@@ -31,7 +31,7 @@ More than 270 pregnant women in the U.S. are also infected with the Zika virus, 
 _Context: Accession of Montenegro to NATO, Montenegro, NATO, Russian Government_
 
 ### [NATO foreign ministers, meeting at NATO headquarters in Brussels, Belgium, agree to extend the alliance's Resolute Support Mission, that trains, advises and assists Afghanistan's military beyond 2016. ](/news/2016/05/20/nato-foreign-ministers-meeting-at-nato-headquarters-in-brussels-belgium-agree-to-extend-the-alliance-s-resolute-support-mission-that-tra.md)
-_Context: Afghanistan, Belgian, Brussels, NATO, NATO headquarters, War in Afghanistan (2015-present), coalition, military personnel_
+_Context: Afghanistan, Belgium, Brussels, NATO, NATO headquarters, War in Afghanistan (2015-present), coalition, military personnel_
 
 ### [The Oklahoma Legislature files a measure asking for Congress to impeach Barack Obama over his decision to allow transgender students to use the bathrooms corresponding to their gender identity. ](/news/2016/05/20/the-oklahoma-legislature-files-a-measure-asking-for-congress-to-impeach-barack-obama-over-his-decision-to-allow-transgender-students-to-use.md)
 _Context: Barack Obama, Efforts to impeach Barack Obama, Oklahoma Legislature, United States Congress_

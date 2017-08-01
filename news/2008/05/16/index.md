@@ -1,7 +1,7 @@
 ## [2008-05-16](/news/2008/05/16/index.md)
 
 ### [ 10 people were shot at a branch of the Rizal Commercial Banking Corporation (RCBC) in Cabuyao, Laguna, Philippines, with 9 dead and 1 in critical condition in what could be one of the bloodiest bank robberies in the nation's history. ](/news/2008/05/16/10-people-were-shot-at-a-branch-of-the-rizal-commercial-banking-corporation-rcbc-in-cabuyao-laguna-philippines-with-9-dead-and-1-in-cr.md)
-_Context: 10 people were shot, Cabuyao, Laguna province, Philippines, Rizal Commercial Banking Corporation_
+_Context: 10 people were shot, Cabuyao, Laguna province, Philippine, Rizal Commercial Banking Corporation_
 
 ### [ Leonel Fernandez is re-elected as the President of the Dominican Republic in the 2008 presidential election. ](/news/2008/05/16/leonel-ferna-ndez-is-re-elected-as-the-president-of-the-dominican-republic-in-the-2008-presidential-election.md)
 _Context: 2008 presidential election, Leonel Fernandez, President of the Dominican Republic_
@@ -28,7 +28,7 @@ _Context: Beijing Olympiad, Court of Arbitration for Sport, IAAF, Oscar Pistoriu
 _Context: Colombo, Sri Lanka_
 
 ### [ The President of the United States George W. Bush arrives in Saudi Arabia to discuss rising fuel prices with King Abdullah of Saudi Arabia. Saudi Arabia later announces plans to raise its output by 300,000 barrels a day. ](/news/2008/05/16/the-president-of-the-united-states-george-w-bush-arrives-in-saudi-arabia-to-discuss-rising-fuel-prices-with-king-abdullah-of-saudi-arabia.md)
-_Context: Abdullah, George W. Bush, King, Saudi Arabia, United States President_
+_Context: Abdullah, George W. Bush, King, Saudi Arabia, U.S. President_
 
 ### [ The runoff election for the 2008 presidential election between the President of Zimbabwe Robert Mugabe and Morgan Tsvangirai of the Movement for Democratic Change is set for June 27. ](/news/2008/05/16/the-runoff-election-for-the-2008-presidential-election-between-the-president-of-zimbabwe-robert-mugabe-and-morgan-tsvangirai-of-the-movemen.md)
 _Context: June 27, Morgan Tsvangirai, Movement for Democratic Change, President of Zimbabwe, Robert Mugabe, presidential election, runoff election_

@@ -22,7 +22,7 @@ _Context: Amrit Bohara, Madhav Kumar Nepal, Nepal, house arrest_
 ...More than 11,000 refugees flee GENEVA, April 30 -- The United...
 
 ### [ Foreign ministers gather in New York to review the Nuclear Non-Proliferation Treaty. ](/news/2005/05/2/foreign-ministers-gather-in-new-york-to-review-the-nuclear-non-proliferation-treaty.md)
-_Context: New York, Nuclear Non-Proliferation Treaty_
+_Context: New York City, Nuclear Non-Proliferation Treaty_
 
 ### [ Cairo terrorism: Following Saturday's terrorist incidents in Cairo, some 200 people are brought in for questioning by Egyptian police. Ten people were injured in the attacks, and three militants were killed. ](/news/2005/05/2/cairo-terrorism-following-saturday-s-terrorist-incidents-in-cairo-some-200-people-are-brought-in-for-questioning-by-egyptian-police-ten.md)
 _Context: Cairo, Cairo terrorism, terrorism_

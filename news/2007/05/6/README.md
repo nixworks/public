@@ -25,7 +25,7 @@ _Context: Afghanistan, Farah Province, Taliban_
 _Context: 2007 presidential election, France, Nicolas Sarkozy, Sgolne Royal_
 
 ### [ A former World No. 1 ranked tennis player from Belgium, Kim Clijsters, announces her retirement effective immediately. ](/news/2007/05/6/a-former-world-no-1-ranked-tennis-player-from-belgium-kim-clijsters-announces-her-retirement-effective-immediately.md)
-_Context: Belgian, Kim Clijsters, tennis, world number 1_
+_Context: Belgium, Kim Clijsters, tennis, world number 1_
 
 ## [Previous Day...](/news/2007/05/5/index.md)
 

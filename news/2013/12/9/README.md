@@ -13,7 +13,7 @@ Eleven months after American Airlines and US Airways announced plans to merge, t
 _Context: Indonesia, accident_
 
 ### [The Philippines and the Bangsamoro sign a power-sharing agreement, paving the way for the peace process. ](/news/2013/12/9/the-philippines-and-the-bangsamoro-sign-a-power-sharing-agreement-paving-the-way-for-the-peace-process.md)
-_Context: Filipino Muslims, Philippines, peace deal_
+_Context: Filipino Muslims, Philippine, peace deal_
 
 ### [Iraqi Jewish artifacts that were rescued from Saddam Hussein's palace by a Jewish-American scholar and brought to the United States are scheduled to be returned to Iraq by the end of the summer in 2014, despite objections from American Jews citing instability in Iraq. ](/news/2013/12/9/iraqi-jewish-artifacts-that-were-rescued-from-saddam-hussein-s-palace-by-a-jewish-american-scholar-and-brought-to-the-united-states-are-sche.md)
 Harold Rhode&apos;s elation at finding a trove of Jewish texts during the Iraq war has since turned to outrage that it might go back.

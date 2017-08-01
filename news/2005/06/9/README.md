@@ -34,7 +34,7 @@ _Context: Zimbabwe, general strike_
 _Context: Edem Kodjo, Faure Gnassingb, Patriotic Pan-African Party, Togo_
 
 ### [ A former Bank of America broker, Theodore Sihpol is acquitted by a jury in a New York Court of charges that he assisted a New Jersey hedge fund in trading illegally in mutual funds, at the expense of investors in the latter. ](/news/2005/06/9/a-former-bank-of-america-broker-theodore-sihpol-is-acquitted-by-a-jury-in-a-new-york-court-of-charges-that-he-assisted-a-new-jersey-hedge.md)
-_Context: Bank of America, Hedge fund, New Jersey, New York, Theodore Sihpol_
+_Context: Bank of America, Hedge fund, New Jersey, New York City, Theodore Sihpol_
 
 ## [Previous Day...](/news/2005/06/8/index.md)
 

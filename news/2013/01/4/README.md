@@ -25,7 +25,7 @@ _Context: Beechcraft BE35, Daytona Beach, Florida, United States_
 Six Russian tourists die as their snowmobile flips over during a night-time run down an Alpine ski slope in north-eastern Italy, reports say.
 
 ### [A gunman kills eight people in a house-to-house rampage in Kawit, the Philippines. ](/news/2013/01/4/a-gunman-kills-eight-people-in-a-house-to-house-rampage-in-kawit-the-philippines.md)
-_Context: Kawit, Philippines, kills eight people_
+_Context: Kawit, Philippine, kills eight people_
 
 ### [The Nigerian police announces that Hyundai has paid a ransom of PS118,000 ($190,000) to free 6 kidnapped workers in the Niger Delta region. ](/news/2013/01/4/the-nigerian-police-announces-that-hyundai-has-paid-a-ransom-of-aps118-000-190-000-to-free-6-kidnapped-workers-in-the-niger-delta-region.md)
 South Korean firm Hyundai paid a ransom of $190,000 (£118,000) to free six workers kidnapped last month, Nigerian police say.
@@ -49,7 +49,7 @@ _Context: Censorship in China, China, Guangdong province, liberal_
 _Context: Hugo Chavez, Venezuela, lung infection_
 
 ### [The United States Congress officially declares President Barack Obama the winner of the 2012 presidential election. ](/news/2013/01/4/the-united-states-congress-officially-declares-president-barack-obama-the-winner-of-the-2012-presidential-election.md)
-_Context: Barack Obama, United States Congress, United States President, United States presidential election, 2012_
+_Context: Barack Obama, U.S. President, United States Congress, United States presidential election, 2012_
 
 ### [The leaders of Sudan and South Sudan, Omar al-Bashir and Salva Kiir Mayardit, respectively, will meet in Addis Ababa to convene for talks regarding escalating tensions is response to Sudan's recent seizure of Abyei. ](/news/2013/01/4/the-leaders-of-sudan-and-south-sudan-omar-al-bashir-and-salva-kiir-mayardit-respectively-will-meet-in-addis-ababa-to-convene-for-talks-re.md)
 The leaders of Sudan and South Sudan reaffirm their commitment to setting up a buffer zone on their shared border and resuming oil exports.

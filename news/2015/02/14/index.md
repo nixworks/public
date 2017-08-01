@@ -37,7 +37,7 @@ _Context: Andrew Chan, Australian Prime Minister, Bali Nine, Indonesia, Myuran S
 _Context: Hissene Habre, President of Chad, Senegal_
 
 ### [A motorcycle gunman shoots and kills a journalist in the Philippines who had been critical of local officials' alleged involvement in the illegal drug trade. The murder of the journalist is the 34th since the regime of Benigno Aquino III began in 2010. ](/news/2015/02/14/a-motorcycle-gunman-shoots-and-kills-a-journalist-in-the-philippines-who-had-been-critical-of-local-officials-alleged-involvement-in-the-il.md)
-_Context: Benigno "Noynoy" Aquino III, Philippines, journalist_
+_Context: Benigno "Noynoy" Aquino III, Philippine, journalist_
 
 ### [Canadian Police foil a planned Valentines Day massacre in Halifax, Nova Scotia. ](/news/2015/02/14/canadian-police-foil-a-planned-valentines-day-massacre-in-halifax-nova-scotia.md)
 A group of &#39;murderous misfits&#39; planned to massacre as many people as possible in a Valentine&#39;s Day shooting spree that police foiled after an anonymous tip off.

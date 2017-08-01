@@ -4,7 +4,7 @@
 At least six people have been killed in a bomb attack targeting a UN convoy near the airport in the Somali capital, Mogadishu, police say.
 
 ### [Foreign ministers from members of NATO attend a summit in Belgium to discuss the 2014 pro-Russian unrest in Ukraine and the Islamic State in Iraq and the Levant insurgency. ](/news/2014/12/3/foreign-ministers-from-members-of-nato-attend-a-summit-in-belgium-to-discuss-the-2014-pro-russian-unrest-in-ukraine-and-the-islamic-state-in.md)
-_Context: 2014 pro-Russian unrest in Ukraine, Belgian, Islamic State in Iraq and the Levant, NATO_
+_Context: 2014 pro-Russian unrest in Ukraine, Belgium, Islamic State in Iraq and the Levant, NATO_
 
 ### [Transparency International issues its 2014 Corruption Perceptions Index with Denmark achieving the highest rating and North Korea and Somalia tied with the lowest ranking. ](/news/2014/12/3/transparency-international-issues-its-2014-corruption-perceptions-index-with-denmark-achieving-the-highest-rating-and-north-korea-and-somali.md)
 By Kieran GuilbertLONDON (Thomson Reuters Foundation) - Efforts to end corruption will be undermined as long as corrupt officials are able to hide th

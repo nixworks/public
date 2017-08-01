@@ -22,7 +22,7 @@ _Context: Dow Jones Industrial Average_
 _Context: Assistant Secretary of State for African Affairs, Eritrea, Ethiopia, Islamic Courts Union, Jendayi Frazer, Somalia_
 
 ### [ A spokesman for New York Attorney General Eliot Spitzer says that a judge has ordered former New York Stock Exchange Chairman and Chief Executive Richard Grasso to repay part of his deferred compensation pay package. ](/news/2006/10/19/a-spokesman-for-new-york-attorney-general-eliot-spitzer-says-that-a-judge-has-ordered-former-new-york-stock-exchange-chairman-and-chief-exe.md)
-_Context: Eliot Spitzer, New York, New York Stock Exchange, Richard Grasso_
+_Context: Eliot Spitzer, New York City, New York Stock Exchange, Richard Grasso_
 
 ### [ The United States has adopted a document that rejects any proposals to ban space weapons. ](/news/2006/10/19/the-united-states-has-adopted-a-document-that-rejects-any-proposals-to-ban-space-weapons.md)
 _Context: United States, space weapon_

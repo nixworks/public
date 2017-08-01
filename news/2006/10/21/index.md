@@ -7,13 +7,13 @@ _Context: Lord's Resistance Army, President, Uganda, Yoweri Museveni, negotiatio
 _Context: Arcelor Mittal, Dariga Nazarbayev, Forbes, Kazakh President, Kazakhstan, Nursultan Nazarbayev's, steel maker_
 
 ### [ An earthquake of magnitude 5.2 hits the central Philippines. The quake struck at 10:30 p.m. with its epicenter some 35 kilometers south of Boac, Marinduque. The temblor was felt at intensity 4 in the capital Manila. ](/news/2006/10/21/an-earthquake-of-magnitude-5-2-hits-the-central-philippines-the-quake-struck-at-10-30-p-m-with-its-epicenter-some-35-kilometers-south-of.md)
-_Context: Boac, Manila, Marinduque, Philippines, Richter scale, earthquake, epicenter_
+_Context: Boac, Manila, Marinduque, Philippine, Richter scale, earthquake, epicenter_
 
 ### [ Tropical Storm Paul forms off Mexico's west coast and forecasters predict it could strengthen into a hurricane and reach land within days. The storm is over the Pacific Ocean about 315 miles (500 km) south of Cabo Corrientes on the  Jalisco coast. ](/news/2006/10/21/tropical-storm-paul-forms-off-mexico-s-west-coast-and-forecasters-predict-it-could-strengthen-into-a-hurricane-and-reach-land-within-days.md)
 _Context: Cabo Corrientes, Jalisco, Mexico, North Pacific Ocean, hurricane_
 
 ### [ Iraqi insurgency: President of the United States George W. Bush confers with his top Iraq commanders.  The meeting is met with a surge in sectarian violence. ](/news/2006/10/21/iraqi-insurgency-p-president-of-the-united-states-george-w-bush-confers-with-his-top-iraq-commanders-the-meeting-is-met-with-a-surge-in.md)
-_Context: George W. Bush, Iraq, Iraqi insurgency, Sectarian war in Iraq, United States President_
+_Context: George W. Bush, Iraq, Iraqi insurgency, Sectarian war in Iraq, U.S. President_
 
 ### [ Fighting has broken out between Somalian troops and a local militia in alliance with the country's new Islamic movement. ](/news/2006/10/21/fighting-has-broken-out-between-somalian-troops-and-a-local-militia-in-alliance-with-the-country-s-new-islamic-movement.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

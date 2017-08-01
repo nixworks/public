@@ -7,7 +7,7 @@ _Context: Nintendo, Wii_
 _Context: French Quarter, George W. Bush, New Orleans, Louisiana, U.S. Federal Emergency Management Agency_
 
 ### [ The Clinton Global Initiative is inaugurated in New York.](/news/2005/09/15/the-clinton-global-initiative-is-inaugurated-in-new-york.md)
-_Context: Clinton Global Initiative, New York_
+_Context: Clinton Global Initiative, New York City_
 
 ### [ The Supreme court of Israel rejects the opinion of International Court of Justice for the removal of Israeli West Bank barrier, but calls on part of the wall to be re-routed so as not to encroach on Palestinian lands. The world court had called the barrier illegal and ordered the wall be torn down. ](/news/2005/09/15/the-supreme-court-of-israel-rejects-the-opinion-of-international-court-of-justice-for-the-removal-of-israeli-west-bank-barrier-but-calls-o.md)
 _Context: International Court of Justice, Israel, Palestinian, Supreme Court, barrier_

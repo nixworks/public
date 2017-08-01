@@ -47,7 +47,7 @@ _Context: European Union, Israel, Middle East Quartet, Munich, Russia, United Na
 European Union foreign policy chief Catherine Ashton said yesterday that events in Egypt and other Mideast countries make progress in peace talks between Israel and the Palestinians eve
 
 ### [Spanish police remove more than 100 rowdy Belgian students from an aeroplane. ](/news/2011/02/6/spanish-police-remove-more-than-100-rowdy-belgian-students-from-an-aeroplane.md)
-_Context: Belgian, Spanish police_
+_Context: Belgium, Spanish police_
 
 ### [24-year-old Anat Kamm, a former soldier of Israel, signs a plea bargain to plead guilty in Tel Aviv District Court to a lesser charge of leaking more than 2,000 secret military documents to the ''Haaretz'' newspaper; she may be jailed for 15 years. ''Haaretz'' reported a possibly-illegal Israeli assassination operation against Palestinians in the West Bank; her lawyer says she "believed she stumbled onto evidence of war crimes". ](/news/2011/02/6/24-year-old-anat-kamm-a-former-soldier-of-israel-signs-a-plea-bargain-to-plead-guilty-in-tel-aviv-district-court-to-a-lesser-charge-of-lea.md)
 A former Israeli soldier admits leaking secret military information to a newspaper, but more serious spying charges are dropped.

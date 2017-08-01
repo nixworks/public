@@ -19,7 +19,7 @@ _Context: Army, Sri Lanka, Sri Lankan Civil War, Tamil Tigers_
 _Context:  Insurgency in Somalia, AMISOM, African Union, Mogadishu, War in Somalia, ambush_
 
 ### [ U.S. President George W. Bush departs on a tour of Latin America that will take him to Brazil, Uruguay, Colombia, Guatemala and Mexico. Upon arrival in Sao Paulo he is greeted with protest demonstrations. ](/news/2007/03/8/u-s-president-george-w-bush-departs-on-a-tour-of-latin-america-that-will-take-him-to-brazil-uruguay-colombia-guatemala-and-mexico-upo.md)
-_Context: Brazil, Colombia, George W. Bush, Guatemala, Latin America, Mexico, Sao Paulo, United States President, Uruguay, demonstration, protest_
+_Context: Brazil, Colombia, George W. Bush, Guatemala, Latin America, Mexico, Sao Paulo, U.S. President, Uruguay, demonstration, protest_
 
 ### [ Greek Cypriots dismantle the portion of the separation fence between the Republic of Cyprus and the Turkish Republic of Northern Cyprus in Nicosia. ](/news/2007/03/8/greek-cypriots-dismantle-the-portion-of-the-separation-fence-between-the-republic-of-cyprus-and-the-turkish-republic-of-northern-cyprus-in.md)
 _Context: Cyprus, Greek Cypriots, Nicosia, TRNC, separation fence_

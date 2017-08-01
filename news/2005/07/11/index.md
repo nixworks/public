@@ -19,7 +19,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ The Roman Catholic Church defrocks six New York priests accused of sexual abuse, returning them to lay status. ](/news/2005/07/11/the-roman-catholic-church-defrocks-six-new-york-priests-accused-of-sexual-abuse-returning-them-to-lay-status.md)
-_Context: New York, Roman Catholic Church, defrocks, lay, sexual abuse_
+_Context: New York City, Roman Catholic Church, defrocks, lay, sexual abuse_
 
 ### [ In the Netherlands, Mohammed Bouyeri, suspected killer of filmmaker Theo van Gogh, goes on trial ](/news/2005/07/11/in-the-netherlands-mohammed-bouyeri-suspected-killer-of-filmmaker-theo-van-gogh-goes-on-trial.md)
 _Context: Mohammed Bouyeri, Netherlands, Theo van Gogh_

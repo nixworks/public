@@ -46,7 +46,7 @@ _Context: Jacob Zuma, National Assembly, Public Protector, South African Constit
 &quot;With one blasé comment, this entire foundation of US grand strategy is just blasted away.&quot;
 
 ### [Venezuela's National Assembly, responding to last month's  Central Bank of Venezuela report that the country experienced a 180.9 percent inflation increase in 2015, passes legislation, ''The Law of Bonds for Food and Medicine for Retirees and Pensioners'', that could make it easier for pensioners and retirees to pay for food and medicine. The approved bill has been forwarded for President Nicolas Maduro's signature. ](/news/2016/03/31/venezuela-s-national-assembly-responding-to-last-month-s-central-bank-of-venezuela-report-that-the-country-experienced-a-180-9-percent-inf.md)
-_Context: National Assembly, Nicolas Maduro, President, Venezuelan Central Bank, inflation_
+_Context: National Assembly, Nicolas Maduro, Venezuelan Central Bank, Venezuelan President, inflation_
 
 ### [Italy's Minister of Economic Development, Federica Guidi, resigns amid allegations that she passed along confidential information to her boyfriend that helped his business interests. ](/news/2016/03/31/italy-s-minister-of-economic-development-federica-guidi-resigns-amid-allegations-that-she-passed-along-confidential-information-to-her-boy.md)
 _Context: Federica Guidi, Italian, Minister of Economic Development_

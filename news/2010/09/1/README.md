@@ -67,7 +67,7 @@ European countries asked Kenyan ambassadors to explain why Kenya refused to arre
 The United States on Wednesday added the Pakistani Taliban to its list of foreign terrorist organizations and set rewards of up to $5 million for information leading to the capture of two of its leaders.
 
 ### [President of the United States Barack Obama meets with a range of Middle East leaders in pursuit of peace between Israel and Palestine, including Prime Minister of Israel Benjamin Netanyahu, President of the Palestinian Authority Mahmoud Abbas, King of Jordan Abdullah II and President of Egypt Hosni Mubarak. ](/news/2010/09/1/president-of-the-united-states-barack-obama-meets-with-a-range-of-middle-east-leaders-in-pursuit-of-peace-between-israel-and-palestine-incl.md)
-_Context: Barack Obama, Benjamin Netanyahu, Egyptian President, Hosni Mubarak, Israel, Israeli Prime Minister, Jordanian King, King Abdullah, Mahmoud Abbas, Middle East, Palestinian, President of the Palestinian Authority, United States President_
+_Context: Barack Obama, Benjamin Netanyahu, Egyptian President, Hosni Mubarak, Israel, Israeli Prime Minister, Jordanian King, King Abdullah, Mahmoud Abbas, Middle East, Palestinian, President of the Palestinian Authority, U.S. President_
 
 ### [Greece brings into force a smoking ban. ](/news/2010/09/1/greece-brings-into-force-a-smoking-ban.md)
 A new law comes into force in Greece banning smoking in enclosed public spaces and prohibiting tobacco advertising.

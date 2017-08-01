@@ -28,7 +28,7 @@ _Context: Bangladesh, Khaleda Zia, National Board of Revenue_
 Canadian police have arrested a man who was found carrying three bombs in the boot of his car.
 
 ### [ Hugo Chavez, the President of Venezuela, states that he will meet with FARC guerillas to mediate a dispute with the Government of Colombia about the release of captives. ](/news/2007/08/31/hugo-cha-vez-the-president-of-venezuela-states-that-he-will-meet-with-farc-guerillas-to-mediate-a-dispute-with-the-government-of-colombia.md)
-_Context: Colombia, FARC, Hugo Chavez, President_
+_Context: Colombia, FARC, Hugo Chavez, Venezuelan President_
 
 ### [ Provisional data from the United Kingdom Meteorological Office shows that the 2007 British summer was the wettest on record with five areas of England on flood warning. ](/news/2007/08/31/provisional-data-from-the-united-kingdom-meteorological-office-shows-that-the-2007-british-summer-was-the-wettest-on-record-with-five-areas.md)
 _Context: England, Meteorological Office, United Kingdom_
@@ -61,7 +61,7 @@ _Context: John Warner, Republican, United States Senate_
 _Context: Egypt, University of South Florida, border, terrorism_
 
 ### [ The Secretary-General of the United Nations orders an investigation into how hazardous material from Iraq came to be in the United Nations headquarters in New York. ](/news/2007/08/31/the-secretary-general-of-the-united-nations-orders-an-investigation-into-how-hazardous-material-from-iraq-came-to-be-in-the-united-nations.md)
-_Context: Iraq, New York, Secretary General, United Nations_
+_Context: Iraq, New York City, Secretary General, United Nations_
 
 ### [ White House Press Secretary Tony Snow resigns, effective September 14, 2007. Deputy Press Secretary Dana Perino will replace him after his resignation is effective. ](/news/2007/08/31/white-house-press-secretary-tony-snow-resigns-effective-september-14-2007-deputy-press-secretary-dana-perino-will-replace-him-after-his.md)
 _Context: Dana Perino, Tony Snow, White House Press Secretary_

@@ -10,7 +10,7 @@ _Context: Bank of Japan, Reserve Bank of Australia, inject, liquidity, money mar
 _Context: Jordan, November 20, Ziad Fariz, fuel_
 
 ### [ The National Assembly of Venezuela gives initial unanimous approval to constitutional amendments that would remove term limits on the position of President of Venezuela currently held by Hugo Chvez. ](/news/2007/08/21/the-national-assembly-of-venezuela-gives-initial-unanimous-approval-to-constitutional-amendments-that-would-remove-term-limits-on-the-posit.md)
-_Context: Hugo Chvez, National Assembly, President, term limits, the constitution_
+_Context: Hugo Chvez, National Assembly, Venezuelan President, term limits, the constitution_
 
 ### [ Jailed Iranian-American academic Haleh Esfandiari is released on bail after more than 100 days in detention. ](/news/2007/08/21/jailed-iranian-american-academic-haleh-esfandiari-is-released-on-bail-after-more-than-100-days-in-detention.md)
 Haleh Esfandiari looked tired and much thinner from her ordeal but pronounced herself well.

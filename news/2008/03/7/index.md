@@ -19,7 +19,7 @@ _Context: Colombia, FARC, Ivn Ros_
 _Context: United States Department of Labor, United States economy_
 
 ### [ The President of Venezuela Hugo Chvez calls for a cooling of tensions with Colombia at a summit of the Rio Group presidents in the Dominican Republic. The Rio Group later approves a declaration aimed at reducing tensions between, Ecuador, Venezuela and Colombia. ](/news/2008/03/7/the-president-of-venezuela-hugo-chavez-calls-for-a-cooling-of-tensions-with-colombia-at-a-summit-of-the-rio-group-presidents-in-the-dominic.md)
-_Context: Andean diplomatic crisis, Colombia, Dominican Republic, Ecuador, Hugo Chvez, President, Rio Group, Venezuela_
+_Context: Andean diplomatic crisis, Colombia, Dominican Republic, Ecuador, Hugo Chvez, Rio Group, Venezuela, Venezuelan President_
 
 ### [ Pakistan's Election Commission announces the completed results of parliamentary election. ](/news/2008/03/7/pakistan-s-election-commission-announces-the-completed-results-of-parliamentary-election.md)
 _Context: Pakistan, by-elections_

@@ -10,7 +10,7 @@ _Context: Gordon Brown, Leader of the Labour Party, Prime Minister, being electe
 _Context: European Union, International Monetary Fund, economically troubled euro-zone nations, stock market_
 
 ### [President Obama nominates Solicitor General  Elena Kagan as the youngest Justice and third woman for the Supreme Court of the United States. ](/news/2010/05/10/president-obama-nominates-solicitor-general-elena-kagan-as-the-youngest-justice-and-third-woman-for-the-supreme-court-of-the-united-states.md)
-_Context: Barack Obama, Elena Kagan, Justice, U.S. Supreme Court, United States President, United States solicitor general_
+_Context: Barack Obama, Elena Kagan, Justice, U.S. President, U.S. Supreme Court, United States solicitor general_
 
 ### [German Chancellor Angela Merkel's government loses its majority in the upper house of parliament in a state election marked by voter anger over the bailout to avoid the Greek debt crisis. ](/news/2010/05/10/german-chancellor-angela-merkelas-government-loses-its-majority-in-the-upper-house-of-parliament-in-a-state-election-marked-by-voter-anger.md)
 _Context: Angela Merkel, German Chancellor, economically troubled euro-zone nations, upper house of parliament_
@@ -22,7 +22,7 @@ _Context: BP, Deepwater Horizon oil spill, Gulf of Mexico_
 _Context: Albanians, Kosovo War, Serbia_
 
 ### [Presidential elections, legislative elections and local elections start today in the Philippines. ](/news/2010/05/10/presidential-elections-legislative-elections-and-local-elections-start-today-in-the-philippines.md)
-_Context: Philippine general election, 2010, Philippines_
+_Context: Philippine, Philippine general election, 2010_
 
 ### [The South Korean Defence Minister Kim Tae-Young announces that investigators have found traces of explosives in the wreck of the ROKS ''Cheonan'' that sank in March. ](/news/2010/05/10/the-south-korean-defence-minister-kim-tae-young-announces-that-investigators-have-found-traces-of-explosives-in-the-wreck-of-the-roks-cheo.md)
 _Context: Kim Tae-Young, ROKS ''Cheonan'', South Korea, sinking_

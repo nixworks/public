@@ -13,7 +13,7 @@ _Context: Israel, Israeli-Palestinian conflict, Palestinian Authority, Palestini
 _Context: Centre Party, Jens Stoltenberg, Kjell Magne Bondevik, Norwegian Labour Party, Prime Minister of Norway, Socialist Left Party_
 
 ### [ Helen Clark announces the formation of a Labour-led Government in New Zealand. The Progressive Party is in coalition. New Zealand First and United Future support the government and are each given ministerial positions outside Cabinet. ](/news/2005/10/17/helen-clark-announces-the-formation-of-a-labour-led-government-in-new-zealand-the-progressive-party-is-in-coalition-new-zealand-first-and.md)
-_Context: Cabinet Minister, Helen Clark, New Zealand First, New Zealand Labour Party, Progressive Party, United Future_
+_Context: Cabinet Minister, Helen Clark, Labour Party, New Zealand First, Progressive Party, United Future_
 
 ### [ Tropical Storm Wilma forms, making it only the second time there have been 21 recorded tropical storms in a single hurricane season in the north Atlantic basin, tying the 1933 season. It was upgraded to hurricane status on 18 October. ](/news/2005/10/17/tropical-storm-wilma-forms-making-it-only-the-second-time-there-have-been-21-recorded-tropical-storms-in-a-single-hurricane-season-in-the.md)
 _Context: 18 October, 1933, Tropical Storm Wilma_

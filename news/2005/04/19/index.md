@@ -58,7 +58,7 @@ _Context: Christie's, Iran, Persian_
 _Context: European Union Constitution, Greek_
 
 ### [ President of Pakistan Pervez Musharraf meets the president of the Philippines, Gloria Arroyo, in Manila. ](/news/2005/04/19/president-of-pakistan-pervez-musharraf-meets-the-president-of-the-philippines-gloria-arroyo-in-manila.md)
-_Context: Gloria Arroyo, Manila, Pakistan, Pervez Musharraf, Philippines_
+_Context: Gloria Arroyo, Manila, Pakistan, Pervez Musharraf, Philippine_
 
 ### [ Zanzibar bars foreign workers. ](/news/2005/04/19/zanzibar-bars-foreign-workers.md)
 _Context: Zanzibar_

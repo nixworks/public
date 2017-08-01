@@ -16,7 +16,7 @@ _Context: Human Rights Council, LGBT rights, United Nations, favor_
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;By LYDIA WARREN FOR MAILONLINE&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;A fired employee who had been trying to convert co-workers to Islam stabbed two female colleagues - beheading one of them - before an off-duty officer
 
 ### [David Cunliffe resigns as leader of the New Zealand Labour Party following a crushing defeat in last week's election, but will nominate himself as leader in the subsequent leadership contest. ](/news/2014/09/27/david-cunliffe-resigns-as-leader-of-the-new-zealand-labour-party-following-a-crushing-defeat-in-last-week-s-election-but-will-nominate-hims.md)
-_Context: David Cunliffe, New Zealand Labour Party, New Zealand general election_
+_Context: David Cunliffe, Labour Party, New Zealand general election_
 
 ### [Artur Mas i Gavarr, the President of the Spanish region of Catalonia, authorises a referendum on independence on November 9 despite the opposition of the Government of Spain. ](/news/2014/09/27/artur-mas-i-gavarro-the-president-of-the-spanish-region-of-catalonia-authorises-a-referendum-on-independence-on-november-9-despite-the-opp.md)
 _Context: Artur Mas i Gavarr, Catalonia, President of the Generalitat of Catalonia, Spain, national government_

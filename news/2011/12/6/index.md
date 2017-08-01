@@ -19,7 +19,7 @@ _Context: Fairfax, Virginia, Federal Aviation Administration, Randy Babbitt, Vir
 _Context: Honduras_
 
 ### [After 541 days of negotiations, the longest in history, the new federal government of Belgium is sworn in, with Elio di Rupo as Prime Minister, making him the first Walloon to reach this position in 38 years and the second openly gay head of government in the world. ](/news/2011/12/6/after-541-days-of-negotiations-the-longest-in-history-the-new-federal-government-of-belgium-is-sworn-in-with-elio-di-rupo-as-prime-minist.md)
-_Context: 541 days of negotiations, Belgian, Elio di Rupo, Walloon_
+_Context: 541 days of negotiations, Belgium, Elio di Rupo, Walloon_
 
 ### [Thousands of people take to the streets of Moscow in protests against the conduct and outcome of the Russian legislative election with dozens of opposition supporters being arrested as the demonstrations turn violent. ](/news/2011/12/6/thousands-of-people-take-to-the-streets-of-moscow-in-protests-against-the-conduct-and-outcome-of-the-russian-legislative-election-with-dozen.md)
 _Context: Moscow, parliamentary elections_

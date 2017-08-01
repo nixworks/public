@@ -19,7 +19,7 @@ _Context: Guwahati, India, demonstration_
 _Context: California, Malibu, state park, wildfires_
 
 ### [ Typhoon Mitag remains static over the Philippine Sea but changes course, and is expected to make landfall in Aurora-Isabela provinces of the Philippines on Monday due to the very slow and unusual movement. ](/news/2007/11/24/typhoon-mitag-remains-static-over-the-philippine-sea-but-changes-course-and-is-expected-to-make-landfall-in-aurora-isabela-provinces-of-th.md)
-_Context: Aurora, Isabela, Philippine Sea, Philippines, Typhoon Mitag, landfall_
+_Context: Aurora, Isabela, Philippine, Philippine Sea, Typhoon Mitag, landfall_
 
 ### [ Russian opposition leader Garry Kasparov is arrested during a The Other Russia rally in Moscow. ](/news/2007/11/24/russian-opposition-leader-garry-kasparov-is-arrested-during-a-the-other-russia-rally-in-moscow.md)
 _Context: Garry Kasparov, Moscow, Russia, The Other Russia, opposition leader_

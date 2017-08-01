@@ -13,7 +13,7 @@ Survivors tell authorities 15 women and five children among the missing after bo
 North’s Punggye-ri site appears to be ready for what would be the country’s sixth nuclear test since 2006
 
 ### [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md)
-_Context: Belgian, Democratic Republic of the Congo_
+_Context: Belgium, Democratic Republic of the Congo_
 
 ### [The European Court of Human Rights rules that Russia had failed to protect students and teachers during the 2004 Beslan school siege, which left 334 people dead, and orders the Russian Government to pay 2,955,000 euros to 409 relatives of the victims. The ruling was quickly denounced by Russia as "unacceptable". ](/news/2017/04/13/the-european-court-of-human-rights-rules-that-russia-had-failed-to-protect-students-and-teachers-during-the-2004-beslan-school-siege-which.md)
 _Context: Beslan school siege, European Court of Human Rights, Russia, Russian Government, euro_
@@ -22,7 +22,7 @@ _Context: Beslan school siege, European Court of Human Rights, Russia, Russian G
 The student was brutally murdered by a mob at a university campus in northern Pakistan, police say.
 
 ### [Thousands of people take to the streets in Caracas as Venezuelan authorities acknowledge a fifth death in the protests. ](/news/2017/04/13/thousands-of-people-take-to-the-streets-in-caracas-as-venezuelan-authorities-acknowledge-a-fifth-death-in-the-protests.md)
-_Context: Caracas, Venezuela, legislative takeover in March_
+_Context: 2017 Venezuelan constitutional crisis, Caracas, Venezuela_
 
 ### [NASA announces Saturn's moon Enceladus has the conditions in its global subsurface ocean to support life. ](/news/2017/04/13/nasa-announces-saturn-s-moon-enceladus-has-the-conditions-in-its-global-subsurface-ocean-to-support-life.md)
 Space organization finds that hydrogen erupts out of underground ocean on Enceladus, meaning it has the water, chemistry and energy sources life requires

@@ -19,7 +19,7 @@ _Context: Chuncheon, South Korea, landslide_
 _Context: Mogadishu, Somalia, United Nations, World Food Programme, famine_
 
 ### [At least seventeen people are dead and 25 missing after Severe Tropical Storm Nock-ten (Juaning) hits the Philippines. ](/news/2011/07/27/at-least-seventeen-people-are-dead-and-25-missing-after-severe-tropical-storm-nock-ten-juaning-hits-the-philippines.md)
-_Context: 2011 Pacific typhoon season, Philippines_
+_Context: 2011 Pacific typhoon season, Philippine_
 
 ### [A tropical storm watch is issued for Tropical Storm Don in the US state of Texas between Port Mansfield north to San Luis Pass. ](/news/2011/07/27/a-tropical-storm-watch-is-issued-for-tropical-storm-don-in-the-us-state-of-texas-between-port-mansfield-north-to-san-luis-pass.md)
 _Context: Port Mansfield, San Luis Pass, Texas, Tropical Storm Don, tropical storm_
@@ -46,7 +46,7 @@ An 18-year-old man is arrested in the Shetland Islands as part of an investigati
 House Republicans delayed a vote on their bill to lift the debt ceiling as they scrambled Tuesday night to rewrite the measure to ensure that accompanying spending cuts were large enough, according to three senior GOP aides.
 
 ### [Spanish protesters known as the "Indignants" begin a march from Madrid to Brussels in Belgium to protest at cuts in government expenditure in Spain. ](/news/2011/07/27/spanish-protesters-known-as-the-indignants-begin-a-march-from-madrid-to-brussels-in-belgium-to-protest-at-cuts-in-government-expenditure-i.md)
-_Context: Belgian, Brussels, Madrid, Spain, Spanish politicians_
+_Context: Belgium, Brussels, Madrid, Spain, Spanish politicians_
 
 ## [Previous Day...](/news/2011/07/26/index.md)
 

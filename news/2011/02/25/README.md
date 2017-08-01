@@ -49,7 +49,7 @@ Iran told atomic inspectors that it had run into a serious problem at a newly co
 _Context: Burma_
 
 ### [Representative Ronald Singson of the Philippines is sentenced to 18 months in a Hong Kong jail for cocaine possession. ](/news/2011/02/25/representative-ronald-singson-of-the-philippines-is-sentenced-to-18-months-in-a-hong-kong-jail-for-cocaine-possession.md)
-_Context: Hong Kong, Philippines, Ronald Singson, cocaine, congresswoman_
+_Context: Hong Kong, Philippine, Ronald Singson, cocaine, congresswoman_
 
 ### [The People's Republic of China gets rid of the death penalty for 13 non-violent economic crimes. ](/news/2011/02/25/the-people-s-republic-of-china-gets-rid-of-the-death-penalty-for-13-non-violent-economic-crimes.md)
 _Context: Chinese, death penalty_

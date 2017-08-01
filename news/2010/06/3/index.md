@@ -34,7 +34,7 @@ President says donors must deliver on pledges of aid to quake-hit Caribbean nati
 _Context: Shangqiu, central China_
 
 ### [A judge and court clerk are shot dead at the Law Courts of Brussels, the main courts in the Belgian capital. ](/news/2010/06/3/a-judge-and-court-clerk-are-shot-dead-at-the-law-courts-of-brussels-the-main-courts-in-the-belgian-capital.md)
-_Context: Belgian, Law Courts of Brussels_
+_Context: Belgium, Law Courts of Brussels_
 
 ### [Leading Congolese rights activist Floribert Chebeya is found dead in his car after having been summoned to a meeting with the police chief. ](/news/2010/06/3/leading-congolese-rights-activist-floribert-chebeya-is-found-dead-in-his-car-after-having-been-summoned-to-a-meeting-with-the-police-chief.md)
 Congolese rights activist Floribert Chebeya is found dead in his car after having been summoned to a meeting with the police chief.

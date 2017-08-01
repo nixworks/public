@@ -37,7 +37,7 @@ _Context: National Resistance Movement, President, Uganda, Yoweri Museveni_
 It seems Kim Jong-il ̔s poor health is the reason for the delay of North Korea ̔s party representative meeting. The South Korean 24-hour news channel YTN cited a government official in Seoul on Monday who said South Korean officials are aware that Kim ̔s health had worsened after his recent trip to China delaying Pyeongyang ̔s Worker ̔s Party conference which was planned for last Monday. The source added that the North Korean leader ̔s condition is not serious enough to cancel the meeting and the conference would begin in the near future. It ̔s the first time in 40 years for the representative meeting to be held and it ̔s widely expected that the North ̔s next leader will be announced at the conference. 
 
 ### [Andre-Joseph Leonard, the Archbishopric of Mechelen-Brussels and head of Belgium's Roman Catholic Church, announces how the church will deal with widespread cases of sexual abuse within its ranks. ](/news/2010/09/13/andra-c-joseph-la-c-onard-the-archbishopric-of-mechelen-brussels-and-head-of-belgium-s-roman-catholic-church-announces-how-the-church-will-de.md)
-_Context: Andre-Joseph Leonard, Archbishopric of Mechelen-Brussels, Belgian, Roman Catholic, sexual abuse_
+_Context: Andre-Joseph Leonard, Archbishopric of Mechelen-Brussels, Belgium, Roman Catholic, sexual abuse_
 
 ### [US defense officials claim they are preparing to notify  Congress of plans to sell $60 billion of military equipment to Saudi Arabia. ](/news/2010/09/13/us-defense-officials-claim-they-are-preparing-to-notify-congress-of-plans-to-sell-60-billion-of-military-equipment-to-saudi-arabia.md)
 _Context: Saudi Arabia, United States Congress_
