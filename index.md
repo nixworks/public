@@ -1,7 +1,13 @@
 ## [News](/news/2017/08/1/index.md)
 
+### [Three so-called GTA gang members are shot dead and four others are wounded, including two guards, at a courthouse in Moscow, Russia, after they attempted to escape. ](/news/2017/08/1/three-so-called-gta-gang-members-are-shot-dead-and-four-others-are-wounded-including-two-guards-at-a-courthouse-in-moscow-russia-after-t.md)
+Three people standing trial have been killed in a shootout at a courthouse in Moscow, Russian officials have said. Five handcuffed defendants tried to escape as they were escorted by two guards at the Moscow Regional Court, according to Russia&#039;s Investigative Committee, the country&#039;s chief investigative body.
+
 ### [ Jacinda Ardern is elected the new leader of the Labour Party, after Andrew Little resigns on the back of poor opinion poll performance ahead of the 23 September election. ](/news/2017/08/1/jacinda-ardern-is-elected-the-new-leader-of-the-labour-party-after-andrew-little-resigns-on-the-back-of-poor-opinion-poll-performance-ahea.md)
 New Labour leader Jacinda Ardern says the party is about to &quot;run the campaign of our lives&quot;.
+
+### [Venezuelan opposition leaders Leopoldo Lpez and Mayor of Caracas Antonio Ledezma are seized at their homes overnight by the Bolivarian Intelligence Service (SEBIN) and taken to Ramo Verde Prison. ](/news/2017/08/1/venezuelan-opposition-leaders-leopoldo-lopez-and-mayor-of-caracas-antonio-ledezma-are-seized-at-their-homes-overnight-by-the-bolivarian-inte.md)
+Two leading activists were taken to a military jail by security forces in the middle of the night.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -39,7 +45,7 @@ At least 69 people are known to have died in a Boko Haram ambush of an oil explo
 ### [A car bomb explodes near a police station in Mogadishu, killing at least six people and wounding thirteen others. ](/news/2017/07/30/a-car-bomb-explodes-near-a-police-station-in-mogadishu-killing-at-least-six-people-and-wounding-thirteen-others.md)
 At least six people reportedly killed in blast near police station next to busy market in Waberi district.
 
-### [  Following heavy rain in July 2017, the Gujarat state of India was affected by the severe flood resulting in more than 200 deaths.](/news/2017/07/30/following-heavy-rain-in-july-2017-the-gujarat-state-of-india-was-affected-by-the-severe-flood-resulting-in-more-than-200-deaths.md)
+### [  Following heavy rain in July 2017, the Gujarat state of India was affected by a severe flood resulting in more than 200 deaths.](/news/2017/07/30/following-heavy-rain-in-july-2017-the-gujarat-state-of-india-was-affected-by-a-severe-flood-resulting-in-more-than-200-deaths.md)
 The flood toll in Gujarat has risen to 218 this monsoon, with 61 people killed in worst-hit Banaskantha district, an official said on Monday.
 
 ### [Russian President Vladimir Putin expels 755 United States diplomats in response to new sanctions imposed by the United States. ](/news/2017/07/30/russian-president-vladimir-putin-expels-755-united-states-diplomats-in-response-to-new-sanctions-imposed-by-the-united-states.md)
