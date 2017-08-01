@@ -1,5 +1,8 @@
 ## [News](/news/2017/08/1/index.md)
 
+### [A 2m (6.5ft) 12th century sandstone statue of a human figure is unearthed by archaeologists during an excavation of an Khmer Empire-era hospital built during the reign of King Jayavarman VII at Cambodia's Angkor Wat temple complex in Siem Reap Province. ](/news/2017/08/1/a-2m-6-5ft-12th-century-sandstone-statue-of-a-human-figure-is-unearthed-by-archaeologists-during-an-excavation-of-an-khmer-empire-era-hosp.md)
+The discovery at Angkor Wat has been described as &quot;like something that only happens in the movies&quot;.
+
 ### [Three so-called GTA gang members are shot dead and four others are wounded, including two guards, at a courthouse in Moscow, Russia, after they attempted to escape. ](/news/2017/08/1/three-so-called-gta-gang-members-are-shot-dead-and-four-others-are-wounded-including-two-guards-at-a-courthouse-in-moscow-russia-after-t.md)
 Three people standing trial have been killed in a shootout at a courthouse in Moscow, Russian officials have said. Five handcuffed defendants tried to escape as they were escorted by two guards at the Moscow Regional Court, according to Russia&#039;s Investigative Committee, the country&#039;s chief investigative body.
 
