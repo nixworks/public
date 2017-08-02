@@ -1,6 +1,6 @@
 ### [2017-08-2](/news/2017/08/2/index.md)
 
-# United States President Donald Trump, together with Senators Tom Cotton and David Perdue, unveils the RAISE Act, a plan that would, if passed, change the legal immigration process by reducing family-based chain migration, and replacing it with a "merit-based system" prioritizing skilled workers. 
+# United States President Donald Trump, together with Senators Tom Cotton and David Perdue, unveils the RAISE Act, a plan that would, if passed, reduce legal immigration to the U.S. by half each year, and implement a "merit-based system" prioritizing skilled workers, instead of the current family-based chain migration system. 
 
 The bill is expected to face fierce resistance from congressional Democrats and immigrant rights groups.
 
@@ -12,7 +12,7 @@ The bill is expected to face fierce resistance from congressional Democrats and 
 
 ### Related:
 
-1. [A U.S. federal judge halts the possible deportation of Iraqi Chaldean Christian refugees until further review. ](/news/2017/07/12/a-u-s-federal-judge-halts-the-possible-deportation-of-iraqi-chaldean-christian-refugees-until-further-review.md) _Context: United States, legal immigration process_
+1. [A U.S. federal judge halts the possible deportation of Iraqi Chaldean Christian refugees until further review. ](/news/2017/07/12/a-u-s-federal-judge-halts-the-possible-deportation-of-iraqi-chaldean-christian-refugees-until-further-review.md) _Context: United States, legal immigration to the U.S._
 2. [U.S. President Donald Trump signs an executive order re-establishing the National Space Council, which was disbanded in 1993. ](/news/2017/06/30/u-s-president-donald-trump-signs-an-executive-order-re-establishing-the-national-space-council-which-was-disbanded-in-1993.md) _Context: Donald Trump, United States_
 3. [The Supreme Court of the United States partially reinstates President Donald Trump's travel ban and invalidates certain injunctions that were put on the order by two federal appeals courts earlier. Final oral hearings concerning the legality of the Executive Order 13780 will be held in October 2017 at the Supreme Court. ](/news/2017/06/26/the-supreme-court-of-the-united-states-partially-reinstates-president-donald-trump-s-travel-ban-and-invalidates-certain-injunctions-that-wer.md) _Context: Donald Trump, Immigration policy of Donald Trump_
 4. [The U.S. summons Turkish ambassador Serdar Kilic after violence between protesters and Turkish security personnel outside the Embassy of Turkey, Washington, D.C. leaves over a dozen people injured. U.S. Senator John McCain calls on the Trump administration to expel the ambassador. ](/news/2017/05/18/the-u-s-summons-turkish-ambassador-serdar-ka-la-ass-after-violence-between-protesters-and-turkish-security-personnel-outside-the-embassy-of.md) _Context: Donald Trump, United States_
