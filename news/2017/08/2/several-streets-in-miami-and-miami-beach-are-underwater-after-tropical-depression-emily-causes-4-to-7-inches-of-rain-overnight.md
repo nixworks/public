@@ -1,6 +1,6 @@
 ### [2017-08-2](/news/2017/08/2/index.md)
 
-# Several streets in Miami and Miami Beach are underwater after Tropical Depression Emily causes 4 to 7 inches of rain overnight.  
+# Several streets in Miami and Miami Beach are underwater after Tropical Depression Emily causes 4 to 7 inches of rain overnight. 
 
 
 
