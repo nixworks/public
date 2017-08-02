@@ -1,4 +1,18 @@
-## [News](/news/2017/08/1/index.md)
+## [News](/news/2017/08/2/index.md)
+
+### [The parliament of Papua New Guinea re-elect Peter O'Neill as Prime Minister, ending a chaotic election campaign marred by violence, which analysts fear may continue amid widespread voter unrest. ](/news/2017/08/2/the-parliament-of-papua-new-guinea-re-elect-peter-o-neill-as-prime-minister-ending-a-chaotic-election-campaign-marred-by-violence-which-an.md)
+_Context: Papua New Guinea, Papua New Guinean general election, 2017, Peter O'Neill, Prime Minister, parliament, re-elect_
+
+### [Two impeachment complaints are filed in the House of Representatives against Supreme Court Chief Justice Maria Lourdes Sereno, citing (among others) culpable violation of the Constitution and betrayal of public trust. Sereno was appointed Chief Justice in 2012, replacing the late Renato Corona who was impeached as Chief Justice the same year on similar charges. ](/news/2017/08/2/two-impeachment-complaints-are-filed-in-the-house-of-representatives-against-supreme-court-chief-justice-maria-lourdes-sereno-citing-among.md)
+Anti-crime watchdogs on Tuesday filed an impeachment complaint against Chief Justice Maria Lourdes Sereno for supposed culpable violation of the Constitution and betrayal of public trust. 
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/08/1/index.md)
 
 ### [An explosion kills at least 29 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/an-explosion-kills-at-least-29-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md)
 An explosion at a Shia mosque in the Afghan city of Herat kills at least 20 people, officials say.
@@ -18,13 +32,9 @@ Two leading activists were taken to a military jail by security forces in the mi
 ### [The United States Senate, in a 92-5 vote, confirms Christopher A. Wray as Director of the Federal Bureau of Investigation. ](/news/2017/08/1/the-united-states-senate-in-a-92a5-vote-confirms-christopher-a-wray-as-director-of-the-federal-bureau-of-investigation.md)
 _Context: Christopher A. Wray, Director of the Federal Bureau of Investigation, United States Senate_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/07/31/index.md)
+## [Day Before Yesterday](/news/2017/07/31/index.md)
 
 ### [Discovery Communications announces it will acquire Scripps Networks Interactive for US$ 14.6 billion. ](/news/2017/07/31/discovery-communications-announces-it-will-acquire-scripps-networks-interactive-for-us-14-6-billion.md)
 Discovery Communications is acquiring Scripps Networks Interactive in a cash-and-stock deal valued at $14.6 billion.
@@ -46,41 +56,7 @@ The decision to remove Mr. Scaramucci came at request of the new chief of staff,
 
 ---
 
-## [Day Before Yesterday](/news/2017/07/30/index.md)
-
-### [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md)
-At least 69 people are known to have died in a Boko Haram ambush of an oil exploration team in northeast Nigeria, as three men kidnapped by the jihadists made a video appeal. 
-
-### [A car bomb explodes near a police station in Mogadishu, killing at least six people and wounding thirteen others. ](/news/2017/07/30/a-car-bomb-explodes-near-a-police-station-in-mogadishu-killing-at-least-six-people-and-wounding-thirteen-others.md)
-At least six people reportedly killed in blast near police station next to busy market in Waberi district.
-
-### [  Following heavy rain in July 2017, the Gujarat state of India was affected by a severe flood resulting in more than 200 deaths.](/news/2017/07/30/following-heavy-rain-in-july-2017-the-gujarat-state-of-india-was-affected-by-a-severe-flood-resulting-in-more-than-200-deaths.md)
-The flood toll in Gujarat has risen to 218 this monsoon, with 61 people killed in worst-hit Banaskantha district, an official said on Monday.
-
-### [Russian President Vladimir Putin expels 755 United States diplomats in response to new sanctions imposed by the United States. ](/news/2017/07/30/russian-president-vladimir-putin-expels-755-united-states-diplomats-in-response-to-new-sanctions-imposed-by-the-united-states.md)
-President Vladimir Putin orders reduction in staff and vows for additional measures in retaliation to new US sanctions.
-
-### [A man shoots several people in a nightclub in Konstanz, Germany, killing one. The gunman is shot and killed by police. ](/news/2017/07/30/a-man-shoots-several-people-in-a-nightclub-in-konstanz-germany-killing-one-the-gunman-is-shot-and-killed-by-police.md)
-A man who opened fire in a nightclub in Constance was then shot by police and later died.
-
-### [Former Iranian President Mahmoud Ahmadinejad faces sentences on seven verdicts of misusing billions of dollars in government funds while in office, the  Supreme Audit Court public prosecutor said. If confirmed, Ahmadinejad will be barred from public office for seven years. ](/news/2017/07/30/former-iranian-president-mahmoud-ahmadinejad-faces-sentences-on-seven-verdicts-of-misusing-billions-of-dollars-in-government-funds-while-in.md)
-_Context: Corruption in Iran, Mahmoud Ahmadinejad, President, Supreme Audit Court_
-
-### [Sixteen people, including Mayor Reynaldo Parojinog Sr. and his wife, are killed in a police drug raid in Ozamiz City in the province of Misamis Occidental. The Parojinog family had been previously identified with their ties to the illegal drug trade. ](/news/2017/07/30/sixteen-people-including-mayor-reynaldo-parojinog-sr-and-his-wife-are-killed-in-a-police-drug-raid-in-ozamiz-city-in-the-province-of-misa.md)
-Police were simultaneously serving six search warrants for the Mayor, his daughter and several family members at their properties when they were met with violent resistance
-
-### [Voters in Venezuela participate in an election for members of a new Constitutional Assembly, devised by President Nicolas Maduro to amend the constitution following a legislative takeover in March. Many Venezuelans question the election's legitimacy, resulting in boycotts and ongoing protests. ](/news/2017/07/30/voters-in-venezuela-participate-in-an-election-for-members-of-a-new-constitutional-assembly-devised-by-president-nicola-s-maduro-to-amend-t.md)
-Venezuelan President Nicolas Maduro defies critics to push for a new constitution. Critics call is a power grab. Here&apos;s what you need to know.
-
-### [Voters in Senegal elect all 165 members of their National Assembly, with former President Abdoulaye Wade leading a coalition against the incumbent Macky Sall's United in Hope coalition. ](/news/2017/07/30/voters-in-senegal-elect-all-165-members-of-their-national-assembly-with-former-president-abdoulaye-wade-leading-a-coalition-against-the-inc.md)
-The Senegalese legislative elections take place on Sunday, with President Macky Sall&#39;s coalition facing two strong challengers. The polls are seen as a test for presidential elections slated for 2019.
-
-### [Voters in the Republic of the Congo return to the polls for the second round of an election for 139 National Assembly members, after the governing Congolese Party of Labour won 70 seats in the first round two weeks earlier. ](/news/2017/07/30/voters-in-the-republic-of-the-congo-return-to-the-polls-for-the-second-round-of-an-election-for-139-national-assembly-members-after-the-gov.md)
-_Context: Congolese Party of Labour, National Assembly, Republic of the Congo, Republic of the Congo parliamentary election, 2017, second round_
-
----
-
-## [Previous Day...](/news/2017/07/29/index.md)
+## [Previous Day...](/news/2017/07/30/index.md)
 
 ---
 
