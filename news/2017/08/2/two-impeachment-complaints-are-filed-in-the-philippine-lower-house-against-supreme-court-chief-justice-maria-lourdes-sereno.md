@@ -1,0 +1,24 @@
+### [2017-08-2](/news/2017/08/2/index.md)
+
+# Two impeachment complaints are filed in the Philippine lower house against Supreme Court Chief Justice Maria Lourdes Sereno. 
+
+Anti-crime watchdogs on Tuesday filed an impeachment complaint against Chief Justice Maria Lourdes Sereno for supposed culpable violation of the Constitution and betrayal of public trust. 
+
+
+### Source:
+
+1. [ABS-CBN News](http://news.abs-cbn.com/news/08/02/17/impeachment-raps-filed-vs-chief-justice-sereno)
+2. [Manila Standard](http://www.manilastandard.net/news/national/243179/cj-sereno-faces-impeachment-raps.html)
+
+### Related:
+
+1. [Three impeachment complaints against Philippines President Benigno Aquino III are deemed by the Philippine House of Representatives as "sufficient in form", paving the way for possible legal proceedings against him. ](/news/2014/08/26/three-impeachment-complaints-against-philippines-president-benigno-aquino-iii-are-deemed-by-the-philippine-house-of-representatives-as-suff.md) _Context: Impeachment in the Philippines, Philippine lower house_
+2. [The House of Representatives of the Philippines impeaches Chief Justice Renato Corona after 188 representatives signed a complaint. This is the second impeachment passed in the year after the impeachment of Ombudsman Merceditas Gutierrez early in March. ](/news/2011/12/12/the-house-of-representatives-of-the-philippines-impeaches-chief-justice-renato-corona-after-188-representatives-signed-a-complaint-this-is.md) _Context: Chief Justice, Philippine lower house_
+3. [Philippine vice president Leni Robredo faces an impeachment charge before the House of Representatives for condemning the country's war on drugs at the United Nations. ](/news/2017/05/2/philippine-vice-president-leni-robredo-faces-an-impeachment-charge-before-the-house-of-representatives-for-condemning-the-country-s-war-on-d.md) _Context: Impeachment in the Philippines_
+4. [Philippine president Rodrigo Duterte accuses the Liberal Party of former president Benigno Aquino III and their allies of orchestrating an impeachment complaint against him regarding his anti-drug campaign. ](/news/2016/09/13/philippine-president-rodrigo-duterte-accuses-the-liberal-party-of-former-president-benigno-aquino-iii-and-their-allies-of-orchestrating-an-i.md) _Context: Impeachment in the Philippines_
+5. [Liza Maza, a human rights activist and former Filipino congresswoman, and the Center for Women's Resources criticized the United States and the Philippines governments for preventing Maza's boarding of a July 9, 2015, Korean Air flight destined for Washington, D.C. Maza, who has a U.S. visa valid until 2018, was scheduled to speak before a left-wing conference on U.S. activities in the Philippines. ](/news/2015/07/17/liza-maza-a-human-rights-activist-and-former-filipino-congresswoman-and-the-center-for-women-s-resources-criticized-the-united-states-and.md) _Context: Philippine lower house_
+6. [The Catholic Bishops Conference of the Philippines says that it will not join growing calls for the impeachment and resignation of Philippines President Benigno Aquino III following the January 25 botched police operation. ](/news/2015/02/4/the-catholic-bishops-conference-of-the-philippines-says-that-it-will-not-join-growing-calls-for-the-impeachment-and-resignation-of-philippin.md) _Context: Impeachment in the Philippines_
+7. [Philippines President Benigno Aquino III distances himself from a botched raid against a terrorist, Zulkifli Abdhir, that killed around 50 people, including police officers and Abdhir, while pledging support for a peace process with the Moro people. Supreme Court Chief Justice Maria Lourdes Sereno urges the public to continue to support the peace treaty. ](/news/2015/01/29/philippines-president-benigno-aquino-iii-distances-himself-from-a-botched-raid-against-a-terrorist-zulkifli-abdhir-that-killed-around-50-p.md) _Context: Maria Lourdes Sereno_
+8. [The impeachment cases against Benigno Aquino III are scrapped by the Philippine Congress, where his party currently holds the majority. ](/news/2014/09/2/the-impeachment-cases-against-benigno-aquino-iii-are-scrapped-by-the-philippine-congress-where-his-party-currently-holds-the-majority.md) _Context: Impeachment in the Philippines_
+9. [The Senate of the Philippines finds the Chief Justice of the Supreme Court Renato Corona guilty of failure to disclose to the public his assets following a four-month-long impeachment trial. ](/news/2012/05/29/the-senate-of-the-philippines-finds-the-chief-justice-of-the-supreme-court-renato-corona-guilty-of-failure-to-disclose-to-the-public-his-ass.md) _Context: Chief Justice_
+10. [Representative Ronald Singson of the Philippines is sentenced to 18 months in a Hong Kong jail for cocaine possession. ](/news/2011/02/25/representative-ronald-singson-of-the-philippines-is-sentenced-to-18-months-in-a-hong-kong-jail-for-cocaine-possession.md) _Context: Philippine lower house_

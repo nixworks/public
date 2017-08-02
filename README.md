@@ -1,10 +1,10 @@
 ## [News](/news/2017/08/2/index.md)
 
+### [Two impeachment complaints are filed in the Philippine lower house against Supreme Court Chief Justice Maria Lourdes Sereno. ](/news/2017/08/2/two-impeachment-complaints-are-filed-in-the-philippine-lower-house-against-supreme-court-chief-justice-maria-lourdes-sereno.md)
+Anti-crime watchdogs on Tuesday filed an impeachment complaint against Chief Justice Maria Lourdes Sereno for supposed culpable violation of the Constitution and betrayal of public trust. 
+
 ### [The parliament of Papua New Guinea re-elect Peter O'Neill as Prime Minister, ending a chaotic election campaign marred by violence, which analysts fear may continue amid widespread voter unrest. ](/news/2017/08/2/the-parliament-of-papua-new-guinea-re-elect-peter-o-neill-as-prime-minister-ending-a-chaotic-election-campaign-marred-by-violence-which-an.md)
 _Context: Papua New Guinea, Papua New Guinean general election, 2017, Peter O'Neill, Prime Minister, parliament, re-elect_
-
-### [Two impeachment complaints are filed in the House of Representatives against Supreme Court Chief Justice Maria Lourdes Sereno, citing (among others) culpable violation of the Constitution and betrayal of public trust. Sereno was appointed Chief Justice in 2012, replacing the late Renato Corona who was impeached as Chief Justice the same year on similar charges. ](/news/2017/08/2/two-impeachment-complaints-are-filed-in-the-house-of-representatives-against-supreme-court-chief-justice-maria-lourdes-sereno-citing-among.md)
-Anti-crime watchdogs on Tuesday filed an impeachment complaint against Chief Justice Maria Lourdes Sereno for supposed culpable violation of the Constitution and betrayal of public trust. 
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -19,6 +19,9 @@ An explosion at a Shia mosque in the Afghan city of Herat kills at least 20 peop
 
 ### [A 2 meter (6.5 feet) tall 12th century sandstone statue of a human figure is unearthed by archaeologists during an excavation of a Khmer Empire-era hospital built during the reign of King Jayavarman VII at Cambodia's Angkor Wat temple complex in Siem Reap Province. ](/news/2017/08/1/a-2-meter-6-5-feet-tall-12th-century-sandstone-statue-of-a-human-figure-is-unearthed-by-archaeologists-during-an-excavation-of-a-khmer-emp.md)
 The discovery at Angkor Wat has been described as &quot;like something that only happens in the movies&quot;.
+
+### [According to the United Nations, the Philippines has the largest increase in HIV/AIDS in the Asia Pacific region with about a 140% increase in cases from 2010 until 2016 possibly causing a 'national emergency.' ](/news/2017/08/1/according-to-the-united-nations-the-philippines-has-the-largest-increase-in-hiv-aids-in-the-asia-pacific-region-with-about-a-140-increase.md)
+The Philippines records the fastest-growing HIV/AIDS epidemic in the Asia-Pacific in the past six years, the UN says.
 
 ### [Three so-called GTA gang members are shot dead and four others are wounded, including two guards, at a courthouse in Moscow, Russia, after they attempted to escape. ](/news/2017/08/1/three-so-called-gta-gang-members-are-shot-dead-and-four-others-are-wounded-including-two-guards-at-a-courthouse-in-moscow-russia-after-t.md)
 Three people standing trial have been killed in a shootout at a courthouse in Moscow, Russian officials have said. Five handcuffed defendants tried to escape as they were escorted by two guards at the Moscow Regional Court, according to Russia&#039;s Investigative Committee, the country&#039;s chief investigative body.
