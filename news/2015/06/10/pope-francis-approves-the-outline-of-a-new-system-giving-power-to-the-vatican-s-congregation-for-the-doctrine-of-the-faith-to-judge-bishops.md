@@ -11,4 +11,4 @@ Pope Francis has approved the outline of a new system of accountability for Cath
 
 ### Related:
 
-1. [A Catholic priest from the Roman Catholic Diocese of Antipolo, Philippines was arrested in Marikina for sexually abusing a 13-year-old girl, by inviting her to a motel with a 16-year-old pimp. ](/news/2017/07/29/a-catholic-priest-from-the-roman-catholic-diocese-of-antipolo-philippines-was-arrested-in-marikina-for-sexually-abusing-a-13-year-old-girl.md) _Context: Catholic Church sexual abuse cases_
+1. [Monsignor Arnel Lagarejos, a Catholic priest from the Roman Catholic Diocese of Antipolo, Philippines was arrested in Marikina for sexually abusing a 13-year-old girl, by inviting her to a motel with a 16-year-old pimp. ](/news/2017/07/29/monsignor-arnel-lagarejos-a-catholic-priest-from-the-roman-catholic-diocese-of-antipolo-philippines-was-arrested-in-marikina-for-sexually.md) _Context: Catholic Church sexual abuse cases_
