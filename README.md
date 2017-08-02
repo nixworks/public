@@ -1,5 +1,8 @@
 ## [News](/news/2017/08/2/index.md)
 
+### [Several streets in Miami and Miami Beach are underwater after Tropical Depression Emily causes 4 to 7 inches of rain overnight.  ](/news/2017/08/2/several-streets-in-miami-and-miami-beach-are-underwater-after-tropical-depression-emily-causes-4-to-7-inches-of-rain-overnight.md)
+_Context: Floods in the United States, Miami, Miami Beach_
+
 ### [Two impeachment complaints are filed in the lower house of the Philippine Congress against Supreme Court Chief Justice Maria Lourdes Sereno. ](/news/2017/08/2/two-impeachment-complaints-are-filed-in-the-lower-house-of-the-philippine-congress-against-supreme-court-chief-justice-maria-lourdes-sereno.md)
 Anti-crime watchdogs on Tuesday filed an impeachment complaint against Chief Justice Maria Lourdes Sereno for supposed culpable violation of the Constitution and betrayal of public trust. 
 
