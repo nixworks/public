@@ -3,7 +3,7 @@
 ### [Several streets in Miami and Miami Beach are underwater after Tropical Depression Emily causes 4 to 7 inches of rain overnight. ](/news/2017/08/2/several-streets-in-miami-and-miami-beach-are-underwater-after-tropical-depression-emily-causes-4-to-7-inches-of-rain-overnight.md)
 _Context: Floods in the United States, Miami, Miami Beach_
 
-### [United States President Donald Trump, together with Senators Tom Cotton and David Perdue, unveils the RAISE Act, a plan that will change the legal immigration process by reducing family-based chain migration, and replacing it with a "merit-based system" prioritizing skilled workers. ](/news/2017/08/2/united-states-president-donald-trump-together-with-senators-tom-cotton-and-david-perdue-unveils-the-raise-act-a-plan-that-will-change-the.md)
+### [United States President Donald Trump, together with Senators Tom Cotton and David Perdue, unveils the RAISE Act, a plan that would, if passed, change the legal immigration process by reducing family-based chain migration, and replacing it with a "merit-based system" prioritizing skilled workers. ](/news/2017/08/2/united-states-president-donald-trump-together-with-senators-tom-cotton-and-david-perdue-unveils-the-raise-act-a-plan-that-would-if-passe.md)
 The bill is expected to face fierce resistance from congressional Democrats and immigrant rights groups.
 
 ### [Two impeachment complaints are filed in the lower house of the Philippine Congress against Supreme Court Chief Justice Maria Lourdes Sereno. ](/news/2017/08/2/two-impeachment-complaints-are-filed-in-the-lower-house-of-the-philippine-congress-against-supreme-court-chief-justice-maria-lourdes-sereno.md)
