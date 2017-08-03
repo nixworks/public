@@ -3,8 +3,8 @@
 ### [Prince Philip, Duke of Edinburgh, retires from public appearances at the age of 96, after having completed 22,219 solo engagements since 1952. ](/news/2017/08/2/prince-philip-duke-of-edinburgh-retires-from-public-appearances-at-the-age-of-96-after-having-completed-22-219-solo-engagements-since-195.md)
 Crowds cheer as Prince Philip, the 96-year-old husband of Queen Elizabeth, braves pouring rain to make his 22,219th and final solo public engagement.
 
-### [The U.S. Justice Department announces internally that it is to start investigating colleges which have admissions policies that are seen as unfair to white applicants.. ](/news/2017/08/2/the-u-s-justice-department-announces-internally-that-it-is-to-start-investigating-colleges-which-have-admissions-policies-that-are-seen-as.md)
-What is affirmative action? Why is this a big deal? Is the Trump report true?
+### [A suicide bomber kills two American troops near the Kandahar International Airport in Afghanistan. The Taliban insurgency claims responsibility. ](/news/2017/08/2/a-suicide-bomber-kills-two-american-troops-near-the-kandahar-international-airport-in-afghanistan-the-taliban-insurgency-claims-responsibil.md)
+A suicide bomb attack killed two American troops in Afghanistan on Wednesday as they were traveling in a convoy near the airport in the southern city of Kandahar, the U.S. military said, in a strike claimed by the Taliban insurgency.
 
 ### [Several streets in Miami and Miami Beach are underwater after Tropical Depression Emily causes 4 to 7 inches of rain overnight. ](/news/2017/08/2/several-streets-in-miami-and-miami-beach-are-underwater-after-tropical-depression-emily-causes-4-to-7-inches-of-rain-overnight.md)
 _Context: Floods in the United States, Miami, Miami Beach, Tropical Depression Emily_
@@ -20,9 +20,6 @@ The bill is expected to face fierce resistance from congressional Democrats and 
 
 ### [Two impeachment complaints are filed in the lower house of the Philippine Congress against Supreme Court Chief Justice Maria Lourdes Sereno. ](/news/2017/08/2/two-impeachment-complaints-are-filed-in-the-lower-house-of-the-philippine-congress-against-supreme-court-chief-justice-maria-lourdes-sereno.md)
 Anti-crime watchdogs on Tuesday filed an impeachment complaint against Chief Justice Maria Lourdes Sereno for supposed culpable violation of the Constitution and betrayal of public trust. 
-
-### [A suicide bomber kills two American troops near the Kandahar International Airport in Afghanistan. The Taliban insurgency claims responsibility. ](/news/2017/08/2/a-suicide-bomber-kills-two-american-troops-near-the-kandahar-international-airport-in-afghanistan-the-taliban-insurgency-claims-responsibil.md)
-A suicide bomb attack killed two American troops in Afghanistan on Wednesday as they were traveling in a convoy near the airport in the southern city of Kandahar, the U.S. military said, in a strike claimed by the Taliban insurgency.
 
 ### [The parliament of Papua New Guinea re-elects Peter O'Neill as Prime Minister, ending a chaotic election campaign marred by violence, which analysts fear may continue amid widespread voter unrest. ](/news/2017/08/2/the-parliament-of-papua-new-guinea-re-elects-peter-o-neill-as-prime-minister-ending-a-chaotic-election-campaign-marred-by-violence-which-a.md)
 _Context: Papua New Guinea, Papua New Guinean general election, 2017, Peter O'Neill, Prime Minister, parliament, re-elects_
