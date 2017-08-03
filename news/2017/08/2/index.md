@@ -15,6 +15,9 @@ _Context: Floods in the United States, Miami, Miami Beach, Tropical Depression E
 ### [Teams of United States-based researchers, composed of American, Chinese and South Korean scientists, successfully edit a piece of faulty DNA that causes a deadly form of heart disease from cells in human embryos.  ](/news/2017/08/2/teams-of-united-states-based-researchers-composed-of-american-chinese-and-south-korean-scientists-successfully-edit-a-piece-of-faulty-dna.md)
 The technique could prevent deadly diseases being passed down the generations.
 
+### [President of the United States Donald Trump signs a Congress bill enacting sanctions on Russia. Prime Minister of Russia Dmitry Medvedev calls it a "trade war". ](/news/2017/08/2/president-of-the-united-states-donald-trump-signs-a-congress-bill-enacting-sanctions-on-russia-prime-minister-of-russia-dmitry-medvedev-cal.md)
+U.S. President Donald Trump grudgingly signed into law new sanctions against Russia on Wednesday, a move Moscow said amounted to a full-scale trade war and an end to hopes for better ties with the Trump administration.
+
 ### [Two impeachment complaints are filed in the lower house of the Philippine Congress against Supreme Court Chief Justice Maria Lourdes Sereno. ](/news/2017/08/2/two-impeachment-complaints-are-filed-in-the-lower-house-of-the-philippine-congress-against-supreme-court-chief-justice-maria-lourdes-sereno.md)
 Anti-crime watchdogs on Tuesday filed an impeachment complaint against Chief Justice Maria Lourdes Sereno for supposed culpable violation of the Constitution and betrayal of public trust. 
 

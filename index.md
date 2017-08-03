@@ -1,4 +1,15 @@
-## [News](/news/2017/08/2/index.md)
+## [News](/news/2017/08/3/index.md)
+
+### [Prime Minister of Japan Shinzo Abe appoints Taro Kono as Foreign Minister. ](/news/2017/08/3/prime-minister-of-japan-shinza-abe-appoints-tara-kano-as-foreign-minister.md)
+Japanese Prime Minister Shinzo Abe, beset by scandals and falling support, opted for safe hands over fresh faces in a cabinet reshuffle on Thursday but the changes may not boost his support to the extent he seeks.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/08/2/index.md)
 
 ### [Prince Philip, Duke of Edinburgh, retires from public appearances at the age of 96, after having completed 22,219 solo engagements since 1952. ](/news/2017/08/2/prince-philip-duke-of-edinburgh-retires-from-public-appearances-at-the-age-of-96-after-having-completed-22-219-solo-engagements-since-195.md)
 Crowds cheer as Prince Philip, the 96-year-old husband of Queen Elizabeth, braves pouring rain to make his 22,219th and final solo public engagement.
@@ -15,6 +26,9 @@ _Context: Floods in the United States, Miami, Miami Beach, Tropical Depression E
 ### [Teams of United States-based researchers, composed of American, Chinese and South Korean scientists, successfully edit a piece of faulty DNA that causes a deadly form of heart disease from cells in human embryos.  ](/news/2017/08/2/teams-of-united-states-based-researchers-composed-of-american-chinese-and-south-korean-scientists-successfully-edit-a-piece-of-faulty-dna.md)
 The technique could prevent deadly diseases being passed down the generations.
 
+### [President of the United States Donald Trump signs a Congress bill enacting sanctions on Russia. Prime Minister of Russia Dmitry Medvedev calls it a "trade war". ](/news/2017/08/2/president-of-the-united-states-donald-trump-signs-a-congress-bill-enacting-sanctions-on-russia-prime-minister-of-russia-dmitry-medvedev-cal.md)
+U.S. President Donald Trump grudgingly signed into law new sanctions against Russia on Wednesday, a move Moscow said amounted to a full-scale trade war and an end to hopes for better ties with the Trump administration.
+
 ### [Two impeachment complaints are filed in the lower house of the Philippine Congress against Supreme Court Chief Justice Maria Lourdes Sereno. ](/news/2017/08/2/two-impeachment-complaints-are-filed-in-the-lower-house-of-the-philippine-congress-against-supreme-court-chief-justice-maria-lourdes-sereno.md)
 Anti-crime watchdogs on Tuesday filed an impeachment complaint against Chief Justice Maria Lourdes Sereno for supposed culpable violation of the Constitution and betrayal of public trust. 
 
@@ -30,13 +44,9 @@ The bill is expected to face fierce resistance from congressional Democrats and 
 ### [New research suggests that large parts of Southern Asia may be uninhabitable by 2100 due to levels of humidity dangerous to humans. ](/news/2017/08/2/new-research-suggests-that-large-parts-of-southern-asia-may-be-uninhabitable-by-2100-due-to-levels-of-humidity-dangerous-to-humans.md)
 Unless carbon emissions are curtailed, climate change may expose 1.5 billion people in South Asia to potentially lethal heat and humidity in the near future.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/08/1/index.md)
+## [Day Before Yesterday](/news/2017/08/1/index.md)
 
 ### [An explosion kills at least 29 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/an-explosion-kills-at-least-29-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md)
 An explosion at a Shia mosque in the Afghan city of Herat kills at least 20 people, officials say.
@@ -61,29 +71,7 @@ _Context: Christopher A. Wray, Director of the Federal Bureau of Investigation, 
 
 ---
 
-## [Day Before Yesterday](/news/2017/07/31/index.md)
-
-### [Discovery Communications announces it will acquire Scripps Networks Interactive for US$ 14.6 billion. ](/news/2017/07/31/discovery-communications-announces-it-will-acquire-scripps-networks-interactive-for-us-14-6-billion.md)
-Discovery Communications is acquiring Scripps Networks Interactive in a cash-and-stock deal valued at $14.6 billion.
-
-### [Flooding in Gujarat, Western India, kills at least 213 people with the death toll expected to rise as receding flood waters reveal additional victims. Chief Minister of Gujarat Vijay Rupani says heavy rain had triggered "the worst flood of the century" in the state. ](/news/2017/07/31/flooding-in-gujarat-western-india-kills-at-least-213-people-with-the-death-toll-expected-to-rise-as-receding-flood-waters-reveal-additiona.md)
-Authorities race to identify bodies as rescue workers reach new areas and fear monsoon death toll will rise further
-
-### [The United States sanctions Venezuelan President Nicolas Maduro over the controversial Constitutional Assembly election which critics say is an attempt to establish a dictatorship. ](/news/2017/07/31/the-united-states-sanctions-venezuelan-president-nicola-s-maduro-over-the-controversial-constitutional-assembly-election-which-critics-say-i.md)
-Sanctions freeze Venezuelan president’s assets under US jurisdiction and prevent US citizens from doing business with him
-
-### [Qatar files a legal complaint at the World Trade Organization  (WTO) concerning the embargo imposed by Saudi Arabia, Egypt, Bahrain and United Arab Emirates in June. The parties have 60 days to settle the complaint to avoid WTO litigation. ](/news/2017/07/31/qatar-files-a-legal-complaint-at-the-world-trade-organization-wto-concerning-the-embargo-imposed-by-saudi-arabia-egypt-bahrain-and-unit.md)
-_Context: 2017 Qatar crisis, Bahrain, Egypt, Qatar, Saudi Arabia, United Arab Emirates, World Trade Organization_
-
-### [The body of Chris Msando, the Kenyan election board's head of information, communication and technology, is discovered. Msando,  who went missing three days ago, is believed to have been tortured and murdered. ](/news/2017/07/31/the-body-of-chris-msando-the-kenyan-election-board-s-head-of-information-communication-and-technology-is-discovered-msando-who-went-mi.md)
-_Context: Kenyan general election, 2017, election board's_
-
-### [Newly-appointed White House Chief of Staff John F. Kelly fires Director of Communications Anthony Scaramucci less than ten days after Scaramucci took up his post. ](/news/2017/07/31/newly-appointed-white-house-chief-of-staff-john-f-kelly-fires-director-of-communications-anthony-scaramucci-less-than-ten-days-after-scaram.md)
-The decision to remove Mr. Scaramucci came at request of the new chief of staff, John Kelly, people close to the decision said.
-
----
-
-## [Previous Day...](/news/2017/07/30/index.md)
+## [Previous Day...](/news/2017/07/31/index.md)
 
 ---
 
