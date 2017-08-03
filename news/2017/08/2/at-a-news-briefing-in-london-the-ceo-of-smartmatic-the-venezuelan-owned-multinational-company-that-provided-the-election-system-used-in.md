@@ -1,6 +1,6 @@
 ### [2017-08-2](/news/2017/08/2/index.md)
 
-# At a news briefing in London, the CEO of Smartmatic,  the Venezuelan-owned multinational company that provided the election system used in  Sunday's election, says the number of  those participating in the poll was tampered with,  off by at least one million. 
+# At a news briefing in London, the CEO of Smartmatic,  the Venezuelan-owned multinational company that provided the election system used in  Sunday's election, says the number of those participating in the poll was tampered with, off by at least one million. 
 
 
 
