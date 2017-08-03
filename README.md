@@ -1,9 +1,9 @@
 ## [News](/news/2017/08/3/index.md)
 
-### [ A NATO soldier was killed and six other personnel were wounded on Thursday after a suicide bomber attacked their convoy in Afghanistan's Kabul province.](/news/2017/08/3/a-nato-soldier-was-killed-and-six-other-personnel-were-wounded-on-thursday-after-a-suicide-bomber-attacked-their-convoy-in-afghanistan-s-ka.md)
+### [ A NATO soldier is killed and six other personnel are wounded after a suicide bomber attacked their convoy in Afghanistan's Kabul province.](/news/2017/08/3/a-nato-soldier-is-killed-and-six-other-personnel-are-wounded-after-a-suicide-bomber-attacked-their-convoy-in-afghanistan-s-kabul-province.md)
 _Context: Afghanistan's, Kabul province, NATO, War in Afghanistan (2015-present), suicide bomber_
 
-### [The Trump administration dedicates $169 million to feed people facing starvation in Ethiopia and Kenya, USAID said on Thursday, adding to earlier assistance for those suffering from drought and conflict in the region. ](/news/2017/08/3/the-trump-administration-dedicates-169-million-to-feed-people-facing-starvation-in-ethiopia-and-kenya-usaid-said-on-thursday-adding-to-ea.md)
+### [USAID  announces the Trump administration is dedicating  $169 million to feed people facing starvation in Ethiopia and Kenya, adding to earlier assistance for those suffering from drought and conflict in the region. ](/news/2017/08/3/usaid-announces-the-trump-administration-is-dedicating-169-million-to-feed-people-facing-starvation-in-ethiopia-and-kenya-adding-to-earl.md)
 The Trump administration gave $169 million to feed people facing starvation in Ethiopia and Kenya, USAID said on Thursday, adding to earlier assistance for those suffering from drought and conflict in four other nations.
 
 ### [South American trade bloc Mercosur will trigger its democratic clause this weekend to suspend Venezuela indefinitely, furthering its past temporary suspension, and not allow the country back until internal political issues have been resolved.](/news/2017/08/3/south-american-trade-bloc-mercosur-will-trigger-its-democratic-clause-this-weekend-to-suspend-venezuela-indefinitely-furthering-its-past-te.md)
@@ -13,13 +13,16 @@ South American trade bloc Mercosur will trigger its democratic clause this weeke
 Special counsel Robert Mueller has impaneled a grand jury in Washington to investigate allegations of Russia’s interference in the 2016 elections, the Wall Street Journal said on Thursday, citing two unnamed people familiar with the matter.
 
 ### [Chilean lawmakers have approved a bill that would legalize abortion in limited circumstances and end the socially conservative country's status as the last in South America with a blanket ban on the procedure. ](/news/2017/08/3/chilean-lawmakers-have-approved-a-bill-that-would-legalize-abortion-in-limited-circumstances-and-end-the-socially-conservative-country-s-sta.md)
-_Context: Chilean lawmakers, South America, abortion, conservative_
+_Context: Abortion in Chile, Chilean lawmakers, South America, abortion, conservative_
 
 ### [American lawmakers break for summer recess. ](/news/2017/08/3/american-lawmakers-break-for-summer-recess.md)
 _Context: 115th United States Congress, American, recess_
 
 ### [Prime Minister of Japan Shinzo Abe appoints Taro Kono as Foreign Minister. ](/news/2017/08/3/prime-minister-of-japan-shinza-abe-appoints-tara-kano-as-foreign-minister.md)
 Japanese Prime Minister Shinzo Abe, beset by scandals and falling support, opted for safe hands over fresh faces in a cabinet reshuffle on Thursday but the changes may not boost his support to the extent he seeks.
+
+### [West Virginia Governor Jim Justice will announce, during President Donald Trump's rally in Huntington, he is changing his party affiliation from Democratic to Republican. ](/news/2017/08/3/west-virginia-governor-jim-justice-will-announce-during-president-donald-trump-s-rally-in-huntington-he-is-changing-his-party-affiliation.md)
+Trump won all 55 counties in the state, including 43 counties where he received more than 70 percent of votes.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)

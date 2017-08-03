@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/L/LT_CHILE_ABORTION?)
+1. [AP](http://hosted.ap.org/dynamic/stories/L/LT_CHILE_ABORTION?SITE=TNMOR)
 
 ### Related:
 
