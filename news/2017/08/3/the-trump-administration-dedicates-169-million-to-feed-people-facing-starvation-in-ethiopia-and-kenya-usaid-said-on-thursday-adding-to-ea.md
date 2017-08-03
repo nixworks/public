@@ -1,9 +1,13 @@
 ### [2017-08-3](/news/2017/08/3/index.md)
 
-# The Trump administration dedicates $169 million to feed people facing starvation in Ethiopia and Kenya, USAID said on Thursday, adding to earlier assistance for those suffering from drought and conflict in the region.
+# The Trump administration dedicates $169 million to feed people facing starvation in Ethiopia and Kenya, USAID said on Thursday, adding to earlier assistance for those suffering from drought and conflict in the region. 
+
+The Trump administration gave $169 million to feed people facing starvation in Ethiopia and Kenya, USAID said on Thursday, adding to earlier assistance for those suffering from drought and conflict in four other nations.
 
 
+### Source:
 
+1. [Reuters](http://www.reuters.com/article/us-usa-africa-famine-idUSKBN1AJ21J?il=0)
 
 ### Related:
 
