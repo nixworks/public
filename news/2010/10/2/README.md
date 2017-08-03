@@ -25,7 +25,7 @@ CNN news anchor Rick Sanchez is dimissed by the network after calling top TV sat
 The British architect Zaha Hadid has finally won the RIBA Stirling Prize on her fourth attempt.
 
 ### [The 60th Miss World 2010 pageant begins as the last delegates from 120 nations worldwide arrive in China.  ](/news/2010/10/2/the-60th-miss-world-2010-pageant-begins-as-the-last-delegates-from-120-nations-worldwide-arrive-in-china.md)
-_Context: 60th edition, China_
+_Context: 60th edition, Chinese_
 
 ### [A film produced for the 10:10 campaign in which a teacher explodes two of her students is withdrawn due to complaints and an apology is issued. ](/news/2010/10/2/a-film-produced-for-the-10-10-campaign-in-which-a-teacher-explodes-two-of-her-students-is-withdrawn-due-to-complaints-and-an-apology-is-issu.md)
 Environmental group 10:10 axe their campaign movie starring Gillian Anderson and David Ginola after complaints.

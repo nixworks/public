@@ -4,7 +4,7 @@
 _Context: CIA, Council of Europe, Poland, Romania_
 
 ### [ Chinese police rescue 31 workers kept as slaves at a brickworks in Linfen, in Shanxi province, run by the son of a local official of the Communist Party of China. ](/news/2007/06/8/chinese-police-rescue-31-workers-kept-as-slaves-at-a-brickworks-in-linfen-in-shanxi-province-run-by-the-son-of-a-local-official-of-the-co.md)
-_Context: China, Communist Party of China, Linfen, Shanxi province, brickworks, police, slave_
+_Context: Chinese, Communist Party of China, Linfen, Shanxi province, brickworks, police, slave_
 
 ### [ At least 14 people are killed in two bomb explosions in Qurna near Basra in Iraq. ](/news/2007/06/8/at-least-14-people-are-killed-in-two-bomb-explosions-in-qurna-near-basra-in-iraq.md)
 _Context: Basra, Iraq, Qurna, bomb_

@@ -13,7 +13,7 @@ _Context: Gloria Arroyo, Joseph Estrada, President of the Philippines_
 _Context: European Union, Lisbon, Russia_
 
 ### [ The southern segment of the Kallang-Paya Lebar Expressway in Singapore, set to be the longest subterranean road tunnel in Southeast Asia when fully complete, opens to traffic. ](/news/2007/10/26/the-southern-segment-of-the-kallang-paya-lebar-expressway-in-singapore-set-to-be-the-longest-subterranean-road-tunnel-in-southeast-asia-wh.md)
-_Context: Kallang-Paya Lebar Expressway, Singapore, Southeast Asia, subterranean, tunnel_
+_Context: Asia, Kallang-Paya Lebar Expressway, Singapore, subterranean, tunnel_
 
 ### [ Apple Inc. launches the sixth major release of their Mac OS X operating system, entitled Mac OS X 10.5 Leopard. ](/news/2007/10/26/apple-inc-launches-the-sixth-major-release-of-their-mac-os-x-operating-system-entitled-mac-os-x-10-5-leopard.md)
 _Context: Apple Inc., Mac OS X, Mac OS X 10.5 Leopard, operating system_

@@ -10,7 +10,7 @@ U.S. football star Michael Vick publicly apologized on Monday after pleading gui
 _Context: Muhammed Ishaq Khakwani, Pakistan, Pervez Musharraf, President_
 
 ### [ In a ''Der Spiegel'' report, Chinese hackers are accused of breaking into the computer systems of the German Chancellor's office and three other government ministries. ](/news/2007/08/27/in-a-der-spiegel-report-chinese-hackers-are-accused-of-breaking-into-the-computer-systems-of-the-german-chancellor-s-office-and-three.md)
-_Context: Chancellor, China, Der Spiegel, Government of Germany, computer, hackers_
+_Context: Chancellor, Chinese, Der Spiegel, Government of Germany, computer, hackers_
 
 ### [ The Montreal Metro Green Line and most of Downtown that were closed off on Friday reopens. Emergency reparation are made on a nearby building whose concrete side panels were in danger of falling off. The Bay considers suing the city, alleging that construction work is the source of the cracks. ](/news/2007/08/27/the-montreal-metro-green-line-and-most-of-downtown-that-were-closed-off-on-friday-reopens-emergency-reparation-are-made-on-a-nearby-buildi.md)
 _Context: Montreal Metro, The Bay_

@@ -28,7 +28,7 @@ _Context: derechos_
 _Context: Abraham Lincoln, Yosemite National Park_
 
 ### [The People's Republic of China jails 113 people in Xinjiang autonomous region for terrorism and other offences. ](/news/2014/06/30/the-people-s-republic-of-china-jails-113-people-in-xinjiang-autonomous-region-for-terrorism-and-other-offences.md)
-_Context: China, Xinjiang_
+_Context: Chinese, Xinjiang_
 
 ### [North Korea says it will put on trial two American tourists, Jeffrey Fowle and Michael Miller, for crimes against the state. ](/news/2014/06/30/north-korea-says-it-will-put-on-trial-two-american-tourists-jeffrey-fowle-and-michael-miller-for-crimes-against-the-state.md)
 min Park and James Pearson

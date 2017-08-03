@@ -28,7 +28,7 @@ Freezing weather and snow paralyse northern Mexico, which is experiencing its lo
 An&#x20;explosion&#x20;killed&#x20;five&#x20;workers&#x20;in&#x20;Romania&#x27;s&#x20;south-west&#x20;Uricani&#x20;mine&#x20;Saturday,&#x20;leaving&#x20;no&#x20;survivors.&#x20;According&#x20;to&#x20;officials,&#x20;the&#x20;five&#x20;had&#x20;been&#x20;finishing&#x20;an&#x20;electrical&#x20;installation&#x20;when&#x20;the&#x20;blast&#x20;happened.
 
 ### [Six firefighters die and two are injured fighting a fire in China's Zhejiang Province. ](/news/2011/02/5/six-firefighters-die-and-two-are-injured-fighting-a-fire-in-china-s-zhejiang-province.md)
-_Context: China, Zhejiang province, firefighter_
+_Context: Chinese, Zhejiang province, firefighter_
 
 ### [UK prime minister David Cameron uses an important speech at a security conference in Munich to say "state multiculturalism" has failed, adding that the UK needs a stronger national identity and promising to promote Western values. ](/news/2011/02/5/uk-prime-minister-david-cameron-uses-an-important-speech-at-a-security-conference-in-munich-to-say-state-multiculturalism-has-failed-addi.md)
 David Cameron criticises &quot;state multiculturalism&quot; in his first speech as prime minister on radicalisation and the causes of terrorism.

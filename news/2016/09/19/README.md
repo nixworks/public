@@ -22,7 +22,7 @@ Drivers in the Southeast are feeling the effects of the region&#039;s big pipeli
 BIG SUR, Calif. (AP) — A wildfire burning for nearly two months on California&#039;s scenic Big Sur coast has surpassed $200 million in firefighting costs, becoming the costliest to fight in U.S. history, according to date…
 
 ### [In 2015, more than 100,000 people in Indonesia, Malaysia, and Singapore may have died as a result of forest fires in Southeast Asia. The continued poor air quality also continues to affect the health of more than 42 million Indonesians. ](/news/2016/09/19/in-2015-more-than-100-000-people-in-indonesia-malaysia-and-singapore-may-have-died-as-a-result-of-forest-fires-in-southeast-asia-the-con.md)
-_Context: 2016 Southeast Asian haze, Indonesia, Indonesians, Malaysia, Singapore, Southeast Asia, forest fires_
+_Context: 2016 Southeast Asian haze, Asia, Indonesia, Indonesians, Malaysia, Singapore, forest fires_
 
 ### [Mexican authorities find the bodies of two priests who were kidnapped yesterday in Poza Rica, Veracruz. Authorities find the third abducted person, the driver, alive. ](/news/2016/09/19/mexican-authorities-find-the-bodies-of-two-priests-who-were-kidnapped-yesterday-in-poza-rica-veracruz-authorities-find-the-third-abducted.md)
 _Context: Mexico, Poza Rica, Veracruz_

@@ -16,7 +16,7 @@ _Context: Alan Johnson, Home Secretary, Joint Terrorism Analysis Centre, United 
 _Context: Guantanamo Bay Detention Camp, United States, United States Justice Department, detainees, detention camps, task force_
 
 ### [Former U.S. Air Force lieutenant colonel James Fondren is sentenced to three years in prison for providing classified documents to Chinese spy Tai Shen Kuo. ](/news/2010/01/22/former-u-s-air-force-lieutenant-colonel-james-fondren-is-sentenced-to-three-years-in-prison-for-providing-classified-documents-to-chinese-s.md)
-_Context: Air Force, China, James Fondren, Tai Shen Kuo, United States, classified document, espionage, lieutenant colonel, prison_
+_Context: Air Force, Chinese, James Fondren, Tai Shen Kuo, United States, classified document, espionage, lieutenant colonel, prison_
 
 ### [A Nuremberg court issues an arrest warrant for former Argentine leader Jorge Rafael Videla, on suspicion of killing a German man. ](/news/2010/01/22/a-nuremberg-court-issues-an-arrest-warrant-for-former-argentine-leader-jorge-rafael-videla-on-suspicion-of-killing-a-german-man.md)
 _Context: Argentina, Germany, Jorge Rafael Videla, Nuremberg, arrest warrant_

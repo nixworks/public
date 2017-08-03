@@ -3,7 +3,7 @@
 ### [Prince Philip, Duke of Edinburgh retires from public appearances. ](/news/2017/08/2/prince-philip-duke-of-edinburgh-retires-from-public-appearances.md)
 Crowds cheer as Prince Philip, the 96-year-old husband of Queen Elizabeth, braves pouring rain to make his 22,219th and final solo public engagement.
 
-### [The U.S. Justice department plans on challenging American colleges and universities on affirmative action that disproportionately affects Asian and White American students. ](/news/2017/08/2/the-u-s-justice-department-plans-on-challenging-american-colleges-and-universities-on-affirmative-action-that-disproportionately-affects-as.md)
+### [The U.S. Justice Department plans on challenging American colleges and universities on affirmative action decisions that it views disproportionately affect Asian and White American students. ](/news/2017/08/2/the-u-s-justice-department-plans-on-challenging-american-colleges-and-universities-on-affirmative-action-decisions-that-it-views-disproport.md)
 What is affirmative action? Why is this a big deal? Is the Trump report true?
 
 ### [Several streets in Miami and Miami Beach are underwater after Tropical Depression Emily causes 4 to 7 inches of rain overnight. ](/news/2017/08/2/several-streets-in-miami-and-miami-beach-are-underwater-after-tropical-depression-emily-causes-4-to-7-inches-of-rain-overnight.md)

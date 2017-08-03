@@ -25,13 +25,13 @@ _Context: International Air Transport Association_
 _Context: Vodafone Group Plc, crore, rupee_
 
 ### [At least 119 people are killed in a fire at a poultry farm in Jilin Province in northeastern China. ](/news/2013/06/3/at-least-119-people-are-killed-in-a-fire-at-a-poultry-farm-in-jilin-province-in-northeastern-china.md)
-_Context: China, Jilin Baoyuanfeng Poultry Plant fire, Jilin province_
+_Context: Chinese, Jilin Baoyuanfeng Poultry Plant fire, Jilin province_
 
 ### [2013 European floods:Flooding across Europe kills seven people and leaves others unaccounted for. ](/news/2013/06/3/2013-european-floods-pflooding-across-europe-kills-seven-people-and-leaves-others-unaccounted-for.md)
 State of emergency declared in several regions as heavy flooding kills eight and leaves nine more missing across Europe.
 
 ### [A Cebu Pacific flight carrying 165 passengers inbound from Manila, overshoots the runway during heavy rain in Davao City, Philippines. There are no fatalities, however the plane is heavily damaged. ](/news/2013/06/3/a-cebu-pacific-flight-carrying-165-passengers-inbound-from-manila-overshoots-the-runway-during-heavy-rain-in-davao-city-philippines-there.md)
-_Context: Cebu Pacific, Davao City, Manila, Philippine_
+_Context: Cebu Pacific, Davao City, Manila, Philippines_
 
 ### [Former U.S. president Bill Clinton is paid $500,000 to give a speech in honour of Israeli president Shimon Peres. ](/news/2013/06/3/former-u-s-president-bill-clinton-is-paid-500-000-to-give-a-speech-in-honour-of-israeli-president-shimon-peres.md)
 Former US president Bill Clinton has been paid $500,000 for a speech to be given at an event in honour of Israeli President Shimon Peres, sources told X...

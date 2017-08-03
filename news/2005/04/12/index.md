@@ -4,7 +4,7 @@
 _Context: Hawara, Nablus, Palestinian, pipe bomb_
 
 ### [ Andrus Ansip is confirmed by the ''Riigikogu'', the Estonian Parliament, as the country's next Prime Minister, following the 24 March resignation of former Prime Minister Juhan Parts. ](/news/2005/04/12/andrus-ansip-is-confirmed-by-the-riigikogu-the-estonian-parliament-as-the-country-s-next-prime-minister-following-the-24-march-resig.md)
-_Context: 24 March, Andrus Ansip, Estonia, Juhan Parts, Parliament, Prime Minister of Estonia, Riigikogu_
+_Context: 24 March, Andrus Ansip, Estonia, Juhan Parts, Prime Minister of Estonia, Riigikogu, parliament_
 
 ### [ Four girls who were held hostage for four hours are freed from a house in Ennepetal, in the state of North Rhine-Westphalia, Germany.  ](/news/2005/04/12/four-girls-who-were-held-hostage-for-four-hours-are-freed-from-a-house-in-ennepetal-in-the-state-of-north-rhine-westphalia-germany.md)
 _Context: Ennepetal, Germany, North Rhine-Westphalia, held hostage_

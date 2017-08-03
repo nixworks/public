@@ -19,7 +19,7 @@ The Senate has confirmed Heather Wilson as Air Force secretary, making her Presi
 The French collection was incinerated by Australian biosecurity officers due to missing paperwork.
 
 ### [The journal ''Genes & Development'' publishes research from the University of Texas Southwestern Medical Center in a mouse-model study (which may translate over to humans) alluding as to why hair turns gray and goes bald. The scientists describe a protein called KROX20 which switches on skin cells that become a hair shaft, which then causes cells to produce another protein called stem cell factor. In mice, these two proteins are important for baldness and graying. ](/news/2017/05/8/the-journal-genes-development-publishes-research-from-the-university-of-texas-southwestern-medical-center-in-a-mouse-model-study-whic.md)
-_Context: Genes & Development, KROX20, University of Texas Southwestern Medical Center, bald, cell, gray, hair, mouse, protein, skin, stem cell factor_
+_Context: Genes & Development, KROX20, University of Texas Southwestern Medical Center, bald, cells, gray, hair, mouse, protein, skin, stem cell factor_
 
 ## [Previous Day...](/news/2017/05/7/index.md)
 

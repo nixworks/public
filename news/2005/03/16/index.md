@@ -43,7 +43,7 @@ _Context: Iran, Mohammad Bijeh, serial killer_
 Get the latest technology news, including new product releases, sales figures and tech industry performance information at Reuters.com.
 
 ### [ In China, smth, the biggest BBS in Chinese campus, announced that IP outside the Tsinghua University would be blocked off. ](/news/2005/03/16/in-china-smth-the-biggest-bbs-in-chinese-campus-announced-that-ip-outside-the-tsinghua-university-would-be-blocked-off.md)
-_Context: China, Tsinghua University, smth_
+_Context: Chinese, Tsinghua University, smth_
 
 ## [Previous Day...](/news/2005/03/15/index.md)
 

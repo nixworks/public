@@ -13,7 +13,7 @@ _Context: Afghan government, Afghanistan, Helmand Province, NATO_
 _Context: Sahrawi, Western Sahara_
 
 ### [China and Africa celebrated the tenth anniversary of the Forum on China-Africa Cooperation (FOCAC) in Beijing. Jia Qinglin, chairman of the National Committee of the Chinese People's Political Consultative Conference, addressed the reception commemorating. ](/news/2010/10/25/china-and-africa-celebrated-the-tenth-anniversary-of-the-forum-on-china-africa-cooperation-focac-in-beijing-jia-qinglin-chairman-of-the.md)
-_Context: Africa, Beijing, China, Forum on China-Africa Cooperation, Jia Qinglin, National Committee of the Chinese People's Political Consultative Conference_
+_Context: Africa, Beijing, Chinese, Forum on China-Africa Cooperation, Jia Qinglin, National Committee of the Chinese People's Political Consultative Conference_
 
 ### [Lhasa invests 90 million yuan in 23 tourist facilities. The tourist facilities include Lhasa Tourist Service Center, Namtso Scenic Spot, Potala Palace- Jokhang Temple- Norbu Linka Cultural Heritage tourist attractions, etc. ](/news/2010/10/25/lhasa-invests-90-million-yuan-in-23-tourist-facilities-the-tourist-facilities-include-lhasa-tourist-service-center-namtso-scenic-spot-pot.md)
 _Context: Jokhang, Lhasa, Lhasa Tourist Service Center, Namtso Scenic Spot, Potala Palace_
@@ -79,7 +79,7 @@ Lib Dem deputy leader Simon Hughes threatens a backbench rebellion over planned 
 A Ghana-born doctor is elected mayor of a town in Slovenia - apparently breaking new ground for the former Yugoslavia.
 
 ### [Voters in Philippines go to the polls for the Philippine barangay and Sangguniang Kabataan elections. ](/news/2010/10/25/voters-in-philippines-go-to-the-polls-for-the-philippine-barangay-and-sangguniang-kabataan-elections.md)
-_Context: Philippine, Philippine barangay and Sangguniang Kabataan elections_
+_Context: Philippine barangay and Sangguniang Kabataan elections, Philippines_
 
 ### [Voters across all municipalities in Ontario go to the polls for the Ontario municipal elections, 2010. ](/news/2010/10/25/voters-across-all-municipalities-in-ontario-go-to-the-polls-for-the-ontario-municipal-elections-2010.md)
 _Context: Ontario, Ontario municipal elections, 2010_

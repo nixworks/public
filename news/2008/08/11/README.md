@@ -10,7 +10,7 @@ An incredible anchor leg by Jason Lezak kept Michael Phelps’ hope of eight gol
 The pullback from an area where the Taliban and Al Qaeda have forged close ties came after the military launched an offensive there late last week.
 
 ### [ The Autonomous Region in Muslim Mindanao in the Philippines are holding elections using for the first-time electronic voting as precedent to the Presidential elections in 2010. ](/news/2008/08/11/the-autonomous-region-in-muslim-mindanao-in-the-philippines-are-holding-elections-using-for-the-first-time-electronic-voting-as-precedent-t.md)
-_Context: 2010, Autonomous Region in Muslim Mindanao, Philippine, elections, electronic machines_
+_Context: 2010, Autonomous Region in Muslim Mindanao, Philippines, election system, elections_
 
 ### [ 2008 South Ossetian War: According to Ossetian and Russian sources, Georgian attacks leave 2000 dead in South Ossetia, most of which civilian population of Tskhinvali. ](/news/2008/08/11/2008-south-ossetian-war-p-according-to-ossetian-and-russian-sources-georgian-attacks-leave-2000-dead-in-south-ossetia-most-of-which-civil.md)
 ----CHECK MY CHANNEL FOR LATEST NEWS---- President Mikheil Saakashvili said Monday that the proposal would be taken to Moscow by the French and Finnish forei...

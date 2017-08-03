@@ -4,7 +4,7 @@
 _Context: Spamming, Virginia, e-mail_
 
 ### [ Electronic voting comes under scrutiny at a conference in Maryland. ](/news/2003/12/11/electronic-voting-comes-under-scrutiny-at-a-conference-in-maryland.md)
-_Context: electronic machines_
+_Context: election system_
 
 ### [ According to Pentagon investigations, Halliburton overcharged the US Army for fuel in Iraq. Dick Cheney was chairman of Halliburton prior to becoming Vice President of the United States. ](/news/2003/12/11/according-to-pentagon-investigations-halliburton-overcharged-the-us-army-for-fuel-in-iraq-dick-cheney-was-chairman-of-halliburton-prior-t.md)
 _Context: Dick Cheney, Halliburton, U.S. Vice President, United States military, United States soldiers_

@@ -13,7 +13,7 @@ At least 17 people were killed in and around the Iraqi capital on Monday in four
 Air strikes by a Saudi-led coalition killed 50 people in Yemen when they hit a Houthi-held security compound in the north and a house in Sanaa, medical sources and officials said, in an escalating campaign that has claimed increasing civilian lives.
 
 ### [Gunmen abduct a Norwegian resort manager, two Canadians, and a Filipino from a resort in the southern Philippines. ](/news/2015/09/21/gunmen-abduct-a-norwegian-resort-manager-two-canadians-and-a-filipino-from-a-resort-in-the-southern-philippines.md)
-_Context: Canadian, Filipino, Moro conflict, Norwegian, Philippine_
+_Context: Canadian, Filipino, Moro conflict, Norwegian, Philippines_
 
 ### [Pope Francis, on the second day of his journey in Cuba, leaves Havana for Holguin. He says a Mass at Revolution Plaza, blesses Holguin from the Loma de la Cruz area, arrives in Santiago de Cuba, flies to Santiago de Cuba, meets with the Cuban Bishops at Saint Basil the Great Seminary, and says a prayer with them at the Minor Basilica of the Basilica Santuario Nacional de Nuestra Senora de la Caridad del Cobre (Shrine of Our Lady of del Cobre). ](/news/2015/09/21/pope-francis-on-the-second-day-of-his-journey-in-cuba-leaves-havana-for-holguin-he-says-a-mass-at-revolution-plaza-blesses-holguin-from.md)
 _Context: Basilica Santuario Nacional de Nuestra Senora de la Caridad del Cobre, Havana, Holguin, Minor Basilica, Pope Francis, Saint Basil the Great, Santiago de Cuba_

@@ -10,7 +10,7 @@ _Context: Chechnya, Grozny, Insurgency in the North Caucasus, Russia, suicide bo
 _Context: Bulgarian parliamentary election, 2014, GERB, National Assembly, Socialist Party, the establishment of democratic rule in 1989_
 
 ### [Brazilians vote in a presidential general election using electronic machines. ](/news/2014/10/5/brazilians-vote-in-a-presidential-general-election-using-electronic-machines.md)
-_Context: 2014, Brazil, electronic machines_
+_Context: 2014, Brazil, election system_
 
 ## [Previous Day...](/news/2014/10/4/index.md)
 

@@ -37,10 +37,10 @@ _Context: Detroit, Michigan, Windsor, Ontario, a bridge between_
 Japanese police arrest the last fugitive of the Aum Shinrikyo cult wanted for the 1995 nerve gas attack on the Tokyo subway, ending a 17-year manhunt.
 
 ### [China suspends three officials and the government of Ankang city apologizes to a woman, Feng Jianmei, 23, who is forced to undergo an illegal abortion seven months into her pregnancy after graphic photos of the mother and her dead baby are circulated online. ](/news/2012/06/15/china-suspends-three-officials-and-the-government-of-ankang-city-apologizes-to-a-woman-feng-jianmei-23-who-is-forced-to-undergo-an-illega.md)
-_Context: Ankang city, China, Feng Jianmei_
+_Context: Ankang city, Chinese, Feng Jianmei_
 
 ### [Baker Atyani, ''Al Arabiya{{'}}s'' TV bureau chief for southeast Asia, disappears with four other people on the restive southern Philippine island of Jolo where Muslim militants are active. ](/news/2012/06/15/baker-atyani-al-arabiya-s-tv-bureau-chief-for-southeast-asia-disappears-with-four-other-people-on-the-restive-southern-philippine.md)
-_Context: Al Arabiya, Jolo, Southeast Asia_
+_Context: Al Arabiya, Asia, Jolo_
 
 ### [Three employees of an armoured car company are reported dead and one injured in a shooting at the University of Alberta in Edmonton, Canada. ](/news/2012/06/15/three-employees-of-an-armoured-car-company-are-reported-dead-and-one-injured-in-a-shooting-at-the-university-of-alberta-in-edmonton-canada.md)
 Edmonton police say an employee of G4S Security faces three counts of first-degree murder and one count of attempted murder in connection with a deadly robbery in which three of his fellow guards were killed and another wounded early Friday morning at the University of Alberta.

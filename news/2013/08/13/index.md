@@ -13,7 +13,7 @@ Israel intercepted and destroyed a rocket fired from Egyptian territory at the R
 _Context: Jesse Jackson, Jr., Sandi Jackson, United States House of Representatives_
 
 ### [The United States Department of Justice and six states file an antitrust lawsuit to block the proposed merger of American Airlines and US Airways. ](/news/2013/08/13/the-united-states-department-of-justice-and-six-states-file-an-antitrust-lawsuit-to-block-the-proposed-merger-of-american-airlines-and-us-ai.md)
-_Context: American Airlines, U.S. Department of Justice, US Airways, reduced competition and higher prices_
+_Context: American Airlines, U.S. Justice Department, US Airways, reduced competition and higher prices_
 
 ### [2013 Israeli-Palestinian peace talks start amid controversy over Israeli settlement expansion and the release of 26 Palestinians convicted of murdering Israelis. ](/news/2013/08/13/2013-israeli-palestinian-peace-talks-start-amid-controversy-over-israeli-settlement-expansion-and-the-release-of-26-palestinians-convicted-o.md)
 _Context: 2013 Israeli-Palestinian peace talks_

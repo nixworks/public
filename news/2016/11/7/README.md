@@ -28,7 +28,7 @@ The rare intervention by Beijing could spark more social unrest.
 _Context: Malaysia, Malaysiakini, Najib Razak_
 
 ### [Filipino senator Leila de Lima files a lawsuit against Philippine president Rodrigo Duterte in the country's  Supreme Court seeking to stop the president from gathering, and making public, information about her private life. ](/news/2016/11/7/filipino-senator-leila-de-lima-files-a-lawsuit-against-philippine-president-rodrigo-duterte-in-the-country-s-supreme-court-seeking-to-stop.md)
-_Context: Leila de Lima, Philippine, Rodrigo Duterte, Supreme Court of the Philippines_
+_Context: Leila de Lima, Philippine, Rodrigo Duterte, Supreme Court_
 
 ### [Former Georgian president Mikhail Saakashvili resigns as governor of the Ukrainian region of Odessa, citing corruption in Odessa as the main reason. ](/news/2016/11/7/former-georgian-president-mikhail-saakashvili-resigns-as-governor-of-the-ukrainian-region-of-odessa-citing-corruption-in-odessa-as-the-main.md)
 _Context: Georgia, Mikhail Saakashvili, Odessa, Ukraine_

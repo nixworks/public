@@ -37,7 +37,7 @@ EU MONITORS in Georgia have confirmed that Russian forces have dismantled 17 che
 _Context: Austria, Carinthia, Governor, Jorg Haider, Klagenfurt_
 
 ### [ Extrajudicial killings in the Philippines decrease as noted by the Commission on Human Rights. ](/news/2008/10/11/extrajudicial-killings-in-the-philippines-decrease-as-noted-by-the-commission-on-human-rights.md)
-_Context: Commission on Human Rights, Philippine, kill_
+_Context: Commission on Human Rights, Philippines, kill_
 
 ### [ The University of Toledo's Rockets stunned the Michigan Wolverines 13-10 at the Big House, in the first ever match up between the two schools, only fifty miles apart.](/news/2008/10/11/the-university-of-toledo-s-rockets-stunned-the-michigan-wolverines-13-10-at-the-big-house-in-the-first-ever-match-up-between-the-two-schoo.md)
 _Context: Michigan Wolverines, University of Toledo_

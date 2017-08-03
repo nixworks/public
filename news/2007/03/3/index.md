@@ -7,7 +7,7 @@ _Context: Copenhagen, Denmark, Nrrebro, Ungdomshuset, evict_
 _Context: Coffee County, Alabama, George W. Bush, U.S. President, United States, federal disaster area, tornado_
 
 ### [ A total lunar eclipse is visible from the Midwestern United States to Southeast Asia from 22:44 to 23:58 GMT. ](/news/2007/03/3/a-total-lunar-eclipse-is-visible-from-the-midwestern-united-states-to-southeast-asia-from-22-44-to-23-58-gmt.md)
-_Context: GMT, Southeast Asia, lunar eclipse, midwestern_
+_Context: Asia, GMT, lunar eclipse, midwestern_
 
 ### [ The Cherokee Nation has voted to exclude the descendants of freed slaves from Cherokee citizenship, reversing a decision of the Cherokee Nation Supreme Court. ](/news/2007/03/3/the-cherokee-nation-has-voted-to-exclude-the-descendants-of-freed-slaves-from-cherokee-citizenship-reversing-a-decision-of-the-cherokee-na.md)
 _Context: Cherokee Nation, Cherokee Nation Supreme Court, freed slave_

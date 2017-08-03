@@ -7,7 +7,7 @@ Five men accused of involvement in a Pakistan school massacre have been arrested
 Police have launched an anti-terror operation in an eastern Belgian city, according to news reports, who said they heard gunfire and explosions near a train station.
 
 ### [Pope Francis arrives in Manila and meets Philippines President Benigno Aquino III. ](/news/2015/01/15/pope-francis-arrives-in-manila-and-meets-philippines-president-benigno-aquino-iii.md)
-_Context: Benigno "Noynoy" Aquino III, Manila, Philippine, Pope Francis, Pope Francis' visit to the Philippines, President of the Philippines_
+_Context: Benigno "Noynoy" Aquino III, Manila, Philippines, Pope Francis, Pope Francis' visit to the Philippines, President of the Philippines_
 
 ### [The Motion Picture Academy announces the nominees for the 87th Academy Awards best picture at the Samuel Goldwyn Theater in Beverly Hills, California. The nominations are ''American Sniper'', ''Birdman'', ''Boyhood'', ''The Grand Budapest Hotel'', ''The Imitation Game'', ''Selma'', ''The Theory of Everything'', and ''Whiplash''. ](/news/2015/01/15/the-motion-picture-academy-announces-the-nominees-for-the-87th-academy-awards-best-picture-at-the-samuel-goldwyn-theater-in-beverly-hills-c.md)
 The impetus behind today’s announcement to reveal the Oscar nominees in 24 categories next Thursday wasn’t the result of an outcry by those nominees who are omitted from the short-burst telecast th…
@@ -28,7 +28,7 @@ Electronics retailer RadioShack Corp might prepare to file for bankruptcy protec
 KUALA LUMPUR (AFP/THE STAR/ASIA NEWS NETWORK) - Eight people were killed and 22 others injured when a tour bus veered off a Malaysian highway and caught fire early on Thursday morning, media reports said.. Read more at straitstimes.com.
 
 ### [A newly manufactured tug boat capsizes during a test run in the Yangtze River in east China's Jiangsu Province leaving at least 20 people missing. ](/news/2015/01/15/a-newly-manufactured-tug-boat-capsizes-during-a-test-run-in-the-yangtze-river-in-east-china-s-jiangsu-province-leaving-at-least-20-people-mi.md)
-_Context: China, Jiangsu Province, Yangtze River_
+_Context: Chinese, Jiangsu Province, Yangtze River_
 
 ### [The Morbidity and Mortality Weekly Report estimates the effectiveness of the influenza vaccination in 2014&ndash;2015 at 23% which is the lowest since 2006. ](/news/2015/01/15/the-morbidity-and-mortality-weekly-report-estimates-the-effectiveness-of-the-influenza-vaccination-in-2014-ndash-2015-at-23-which-is-the-lo.md)
 Take a look at the latest and archived public health news releases published by the CDC. 

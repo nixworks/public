@@ -37,7 +37,7 @@ _Context: 2009 L'Aquila earthquake, Bernardo De Bernardinis, Civil Protection De
 _Context: Bosnia, Ratko Mladic, Serb, Serbia, The Hague, genocide_
 
 ### [Tom Horne, the Arizona Attorney General takes the United States Department of Justice to court over the states medical marijuana laws. ](/news/2011/05/27/tom-horne-the-arizona-attorney-general-takes-the-united-states-department-of-justice-to-court-over-the-states-medical-marijuana-laws.md)
-_Context: Arizona Attorney General, Medical marijuana, Tom Horne, U.S. Department of Justice_
+_Context: Arizona Attorney General, Medical marijuana, Tom Horne, U.S. Justice Department_
 
 ### [37th G8 summit:The G8 leaders agree to give US$20 billion in support of Tunisian and Egyptian reforms after the Arab Spring. ](/news/2011/05/27/37th-g8-summit-pthe-g8-leaders-agree-to-give-us-20-billion-in-support-of-tunisian-and-egyptian-reforms-after-the-arab-spring.md)
 Group of Eight leaders promised Friday to support new Arab democracies, according to a statement they were due to release following a meeting in the French town of Deauville.

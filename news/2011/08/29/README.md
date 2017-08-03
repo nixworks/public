@@ -7,7 +7,7 @@ As many as 50,000 political prisoners may still be trapped in underground jails 
 _Context: Hurricane Irene, New York City, United States_
 
 ### [Typhoon Nanmadol hits Taiwan after killing 11 people in the Philippines. ](/news/2011/08/29/typhoon-nanmadol-hits-taiwan-after-killing-11-people-in-the-philippines.md)
-_Context: Philippine, Taiwan, Typhoon Nanmadol_
+_Context: Philippines, Taiwan, Typhoon Nanmadol_
 
 ### [Floods hit northern India with transport services disrupted in Mumbai and 15 villages isolated in Maharashtra state. ](/news/2011/08/29/floods-hit-northern-india-with-transport-services-disrupted-in-mumbai-and-15-villages-isolated-in-maharashtra-state.md)
 Floods are devastating several regions of India. In Mumbai, Central Railway services have been halted between Thane and Mumbai CST as water logging has left ...

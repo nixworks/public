@@ -16,7 +16,7 @@ Boeing Co (BA.N) completed thefirst test flight of its new lightweight carbon an
 _Context: Chile, Organisation for Economic Co-operation and Development_
 
 ### [ Evacuations begin in the Albay province of the Philippines as the Mayon Volcano oozes lava, with an eruption possible. ](/news/2009/12/15/evacuations-begin-in-the-albay-province-of-the-philippines-as-the-mayon-volcano-oozes-lava-with-an-eruption-possible.md)
-_Context: Albay, Mayon Volcano, Philippine, lava_
+_Context: Albay, Mayon Volcano, Philippines, lava_
 
 ### [ Canadian sports medicine specialist Anthony Galea, who helped Tiger Woods recover from knee surgery, is accused of providing top athletes with performance-enhancing drugs. ](/news/2009/12/15/canadian-sports-medicine-specialist-anthony-galea-who-helped-tiger-woods-recover-from-knee-surgery-is-accused-of-providing-top-athletes-w.md)
 A Canadian doctor who treated top athletes reportedly gave them performance-enhancing drugs.

@@ -16,7 +16,7 @@ At least 12 Algerian soldiers were killed when a military helicopter crashed in 
 The gas deal signed by Prime Minister Benjamin Netanyahu last December with US and Israeli gas companies to develop Israel&#39;s offshore gas deposits is rejected by High Court on the grounds that the &#39;stability clause&#39; is unconstitutional.
 
 ### [Senior General Min Aung Hlaing, Myanmar's military chief, pledges to work with the new civilian government that takes over the Southeast Asian country next week, after 54 years of direct or indirect rule by the military. ](/news/2016/03/27/senior-general-min-aung-hlaing-myanmar-s-military-chief-pledges-to-work-with-the-new-civilian-government-that-takes-over-the-southeast-asi.md)
-_Context: Min Aung Hlaing, Myanmar general election, 2015, Myanmar's military, Southeast Asia_
+_Context: Asia, Min Aung Hlaing, Myanmar general election, 2015, Myanmar's military_
 
 ### [According to a new poll, two-thirds of Venezuelans think President Nicolas Maduro should end his presidency this year or be removed via a recall referendum amid a worsening economic crisis. In the event of a referendum, 52.1 percent of Venezuelans would vote to remove him from office, up from 44.5 percent in January, according to the poll. ](/news/2016/03/27/according-to-a-new-poll-two-thirds-of-venezuelans-think-president-nicola-s-maduro-should-end-his-presidency-this-year-or-be-removed-via-a-r.md)
 _Context: 2014-16 Venezuelan protests, Nicolas Maduro, Venezuela, Venezuelan President, economic crisis_

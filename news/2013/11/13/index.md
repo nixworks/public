@@ -28,7 +28,7 @@ Despite 10 years of western efforts to curb production, a combination of economi
 Starbucks has been ordered to pay almost $3bn in damages and other costs in a dispute with Kraft Foods over packaged coffee.
 
 ### [Typhoon Haiyan:The official death toll in the Philippines is actually reported that 2,500 people were killed. ](/news/2013/11/13/typhoon-haiyan-pthe-official-death-toll-in-the-philippines-is-actually-reported-that-2-500-people-were-killed.md)
-_Context: Philippine, Typhoon Haiyan (Yolanda)_
+_Context: Philippines, Typhoon Haiyan (Yolanda)_
 
 ### [Four members of the United States Marine Corps are killed after ordnance accidentally explodes after a training exercise at Marine Corps Base Camp Pendleton in Southern California. ](/news/2013/11/13/four-members-of-the-united-states-marine-corps-are-killed-after-ordnance-accidentally-explodes-after-a-training-exercise-at-marine-corps-bas.md)
 _Context: Marine Corps Base Camp Pendleton, Southern California, United States Marine Corps, ordnance_
@@ -37,7 +37,7 @@ _Context: Marine Corps Base Camp Pendleton, Southern California, United States M
 The United States formally designated Nigerian militant groups Boko Haram and Ansaru as &quot;Foreign Terrorist Organizations and Specially Designated Global Terrorists&quot; on Wednesday, the White House said in a statement.
 
 ### [China, Russia, Cuba, Saudi Arabia, Vietnam, and Algeria are elected to the United Nations Human Rights Council. ](/news/2013/11/13/china-russia-cuba-saudi-arabia-vietnam-and-algeria-are-elected-to-the-united-nations-human-rights-council.md)
-_Context: Algeria, China, Cuba, Human Rights Council, Russia, Saudi Arabia, United Nations, Vietnam_
+_Context: Algeria, Chinese, Cuba, Human Rights Council, Russia, Saudi Arabia, United Nations, Vietnam_
 
 ### [Kevin Rudd announces his retirement from Australian politics. ](/news/2013/11/13/kevin-rudd-announces-his-retirement-from-australian-politics.md)
 _Context: Australia, Kevin Rudd, Politics of Australia_

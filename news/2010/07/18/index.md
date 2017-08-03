@@ -34,7 +34,7 @@ People across the world give 67 minutes of public service to pay tribute to Mand
 At least 14 people are killed and 12 others are injured after a bus falls off a cliff in northern Albania, officials say.
 
 ### [A bus falls off a cliff in the Garze Tibetan Autonomous Prefecture in southwestern China resulting in the death of 23 people. ](/news/2010/07/18/a-bus-falls-off-a-cliff-in-the-garzaa-tibetan-autonomous-prefecture-in-southwestern-china-resulting-in-the-death-of-23-people.md)
-_Context: China, Tibetan Autonomous Prefecture of Garze, bus, cliff_
+_Context: Chinese, Tibetan Autonomous Prefecture of Garze, bus, cliff_
 
 ### [United Nations figures indicate around 225 families remain homeless in Gaza since Israel's three-week military offensive was launched in December 2008. ](/news/2010/07/18/united-nations-figures-indicate-around-225-families-remain-homeless-in-gaza-since-israel-s-three-week-military-offensive-was-launched-in-dec.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
@@ -58,7 +58,7 @@ _Context: Chris Patten, Baron Patten of Barnes, Gaza Strip, Israel, United State
 Israeli PM seen discussing ways to undermine Oslo Accords in 2001 videotape.
 
 ### [The United Kingdom plans to reduce or eliminate international aid to countries such as the "powerhouses" of  Russia and China, as well as South American and eastern European countries. The government plans aid increases to some poorer nations including a 40% increase to Afghanistan.  ](/news/2010/07/18/the-united-kingdom-plans-to-reduce-or-eliminate-international-aid-to-countries-such-as-the-powerhouses-of-russia-and-china-as-well-as-so.md)
-_Context: China, Russia, South America, United Kingdom, eastern Europe, international aid_
+_Context: Chinese, Russia, South America, United Kingdom, eastern Europe, international aid_
 
 ### [European Union foreign policy chief Catherine Ashton says that Israel must go beyond easing its blockade of Gaza and throw open its long-closed border. ](/news/2010/07/18/european-union-foreign-policy-chief-catherine-ashton-says-that-israel-must-go-beyond-easing-its-blockade-of-gaza-and-throw-open-its-long-clo.md)
 Israel must go beyond easing its blockade of Gaza and throw open its border, EU foreign policy chief Catherine Ashton has said.

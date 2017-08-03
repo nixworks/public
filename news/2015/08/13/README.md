@@ -10,7 +10,7 @@ _Context: ISIL, Iraq, Kurdish, Rojava Revolution, United States, mustard gas_
 The struggling state-owned coal company has been put into temporary voluntary administration, the government has confirmed.
 
 ### [The People's Republic of China further devalues the yuan (Renminbi) by 1 percent after two previous devaluings. ](/news/2015/08/13/the-people-s-republic-of-china-further-devalues-the-yuan-renminbi-by-1-percent-after-two-previous-devaluings.md)
-_Context: 2015 Chinese stock market crash, China, yuan_
+_Context: 2015 Chinese stock market crash, Chinese, yuan_
 
 ### [The death toll rises to 50. ](/news/2015/08/13/the-death-toll-rises-to-50.md)
 _Context: the explosions last year_

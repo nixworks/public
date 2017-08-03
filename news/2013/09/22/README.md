@@ -10,7 +10,7 @@ The latest on the stand-off at a shopping centre in Nairobi as a siege enters in
 Jeff Daniels and Claire Danes win dramatic acting awards, Julia Louis-Dreyfus and Jim Parsons win for lead acting in comedy series
 
 ### [Hong Kong braces for the impact of Typhoon Usagi after two people are killed in the Philippines. ](/news/2013/09/22/hong-kong-braces-for-the-impact-of-typhoon-usagi-after-two-people-are-killed-in-the-philippines.md)
-_Context: Hong Kong, Philippine, Typhoon Usagi_
+_Context: Hong Kong, Philippines, Typhoon Usagi_
 
 ### [A Chinese court finds former senior politician Bo Xilai guilty of bribery, embezzlement and abuse of power and sentences him to life imprisonment. ](/news/2013/09/22/a-chinese-court-finds-former-senior-politician-bo-xilai-guilty-of-bribery-embezzlement-and-abuse-of-power-and-sentences-him-to-life-impriso.md)
 A Chinese court sentences disgraced former top politician Bo Xilai to life after finding him guilty of abuse of power, corruption and bribery.

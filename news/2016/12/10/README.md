@@ -25,13 +25,13 @@ A freight train derails and explodes in a north-east Bulgarian village, killing 
 A roof collapses during a church ceremony in south-eastern Nigeria, killing at least 100 people.
 
 ### [China opposes any new sanctions against North Korea during a meeting in the United Nations Security Council. ](/news/2016/12/10/china-opposes-any-new-sanctions-against-north-korea-during-a-meeting-in-the-united-nations-security-council.md)
-_Context: China, North Korea, United Nations Security Council_
+_Context: Chinese, North Korea, United Nations Security Council_
 
 ### [Aftermath of the Gambian security forces are deployed on the streets of the capital Banjul, following President Yahya Jammeh's rejection of last week's presidential election result. ](/news/2016/12/10/aftermath-of-the-gambian-security-forces-are-deployed-on-the-streets-of-the-capital-banjul-following-president-yahya-jammeh-s-rejection-of.md)
 Yahya Jammeh had conceded result to Adama Barrow but now claims ‘fresh and transparent elections’ are needed
 
 ### [In the Philippines, demonstrators call for President Rodrigo Duterte to address extrajudicial killings linked to the Philippine Drug War, ongoing military operations against communist rebels, and the controversial burial of Ferdinand Marcos in the Heroes' Cemetery. An effigy of Marcos was made as a centerpiece of the protest. ](/news/2016/12/10/in-the-philippines-demonstrators-call-for-president-rodrigo-duterte-to-address-extrajudicial-killings-linked-to-the-philippine-drug-war-on.md)
-_Context: Heroes' Cemetery, Human Rights Day, Philippine, Philippine Drug War, Rodrigo Duterte, burial of Ferdinand Marcos_
+_Context: Heroes' Cemetery, Human Rights Day, Philippine Drug War, Philippines, Rodrigo Duterte, burial of Ferdinand Marcos_
 
 ### [John N. Kennedy of the Republican Party defeats Foster Campbell of the Democratic Party to become the junior Senator for Louisiana. ](/news/2016/12/10/john-n-kennedy-of-the-republican-party-defeats-foster-campbell-of-the-democratic-party-to-become-the-junior-senator-for-louisiana.md)
 _Context: Democratic, Foster Campbell, John N. Kennedy, Louisiana, Republican, United States Senate election in Louisiana, 2016_

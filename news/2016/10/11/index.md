@@ -22,7 +22,7 @@ London&#039;s premier share index powered to a new intraday trading high on Tues
 Symantec&#039;s latest research on Odinaff hacker group and its attacks on SWIFT users indicates a surge in cybercrime against financial institutions.
 
 ### [A residential building collapses in the eastern China city of Wenzhou, leaving at least 22 people dead. ](/news/2016/10/11/a-residential-building-collapses-in-the-eastern-china-city-of-wenzhou-leaving-at-least-22-people-dead.md)
-_Context: China, Wenzhou_
+_Context: Chinese, Wenzhou_
 
 ### [The United Nations launches an emergency appeal for almost U.S.$120 million in life-saving help for 750,000 survivors in Haiti at risk of starvation and/or cholera. ](/news/2016/10/11/the-united-nations-launches-an-emergency-appeal-for-almost-u-s-120-million-in-life-saving-help-for-750-000-survivors-in-haiti-at-risk-of-st.md)
 Parts of Haiti hit by Matthew were still without aid Tuesday, as the U.N. sought $120 million in life-saving aid for 750,000 survivors at risk of cholera.

@@ -61,7 +61,7 @@ _Context: Vietnam, another tropical storm_
 The suspected militants were interrogated by the taskforce team at an undisclosed place soon after their arrest, a newspaper reported on Tuesday. 
 
 ### [ Chinese police arrest six protesters calling for a free Tibet by unfurling banners on the Great Wall of China. ](/news/2007/08/7/chinese-police-arrest-six-protesters-calling-for-a-free-tibet-by-unfurling-banners-on-the-great-wall-of-china.md)
-_Context: China, Great Wall of China, Tibet_
+_Context: Chinese, Great Wall of China, Tibet_
 
 ### [ Paul Calvert announces his resignation as President of the Australian Senate and as a Senator for Tasmania effective from next week. ](/news/2007/08/7/paul-calvert-announces-his-resignation-as-president-of-the-australian-senate-and-as-a-senator-for-tasmania-effective-from-next-week.md)
 _Context: Paul Calvert, President of the Australian Senate, Senator, Tasmania_

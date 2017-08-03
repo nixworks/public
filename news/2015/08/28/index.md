@@ -22,7 +22,7 @@ TAMPAMeteorologists may have remained divided Friday evening on the fate of Trop
 Gov. David Ige signed an emergency proclamation on Friday in anticipation of the arrival of Hurricane Ignacio. 
 
 ### [Exposure to toxic chemicals at a paper mill in central China kills seven people are and injures two others. ](/news/2015/08/28/exposure-to-toxic-chemicals-at-a-paper-mill-in-central-china-kills-seven-people-are-and-injures-two-others.md)
-_Context: China, paper mill_
+_Context: Chinese, paper mill_
 
 ### [Thirty-eight girls and young women die in a crash and twenty others on board the truck receive injuries while travelling to the traditional Umhlanga ceremony in Swaziland. ](/news/2015/08/28/thirty-eight-girls-and-young-women-die-in-a-crash-and-twenty-others-on-board-the-truck-receive-injuries-while-travelling-to-the-traditional.md)
 _Context: Swaziland, Umhlanga_

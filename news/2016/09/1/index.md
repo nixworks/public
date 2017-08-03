@@ -25,7 +25,7 @@ Labor powerbroker Sam Dastyari has been admonished by a senior factional ally an
 _Context: Cambodia, Cambodia-Vietnam relations, Vietnam_
 
 ### [Female victims of the martial law dictatorship of Ferdinand Marcos speak at the Philippine Supreme Court about how they endured torture during Marcos' regime. ](/news/2016/09/1/female-victims-of-the-martial-law-dictatorship-of-ferdinand-marcos-speak-at-the-philippine-supreme-court-about-how-they-endured-torture-duri.md)
-_Context: Ferdinand Marcos, Martial law in the Philippines, Supreme Court of the Philippines, burial of Ferdinand Marcos, torture_
+_Context: Ferdinand Marcos, Martial law in the Philippines, Supreme Court, burial of Ferdinand Marcos, torture_
 
 ### [The Parliament of Cambodia plans to strip political immunity for  opposition politician Thak Lany of the Cambodia National Rescue Party alliance after she criticized Prime Minister Hun Sen. ](/news/2016/09/1/the-parliament-of-cambodia-plans-to-strip-political-immunity-for-opposition-politician-thak-lany-of-the-cambodia-national-rescue-party-alli.md)
 The Senate is set to vote today on whether to strip the senatorial immunity of opposition Senator Thak Lany, after the body’s permanent committee yesterday decided to hold a plenary session following a request by the Appeal Court.

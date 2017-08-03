@@ -16,7 +16,7 @@ Ukraine&#x27;s pro-Russian rebel leader Alexander Zakharchenko said Saturday tha
 _Context: Chhattisgarh, India, Naxalite-Maoist insurgency_
 
 ### [Thousands of people are evacuated from the Philippines island of Luzon ahead of Typhoon Noul (Dodong). ](/news/2015/05/9/thousands-of-people-are-evacuated-from-the-philippines-island-of-luzon-ahead-of-typhoon-noul-dodong.md)
-_Context: 2015 Pacific typhoon season, Luzon, Philippine_
+_Context: 2015 Pacific typhoon season, Luzon, Philippines_
 
 ### [Tropical storm Ana forms near the states of North and South Carolina weeks before the official start of the hurricane season. ](/news/2015/05/9/tropical-storm-ana-forms-near-the-states-of-north-and-south-carolina-weeks-before-the-official-start-of-the-hurricane-season.md)
 Ana has weakened but will still continue to soak eastern North Carolina through Monday.
@@ -46,7 +46,7 @@ A man who allegedly sexually abused and impregnated his 10-year-old stepdaughter
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [ The Moro Islamic Liberation Front registers the United Bangsamoro Justice Party as its vehicle to run in future elections in the Philippines. ](/news/2015/05/9/the-moro-islamic-liberation-front-registers-the-united-bangsamoro-justice-party-as-its-vehicle-to-run-in-future-elections-in-the-philippine.md)
-_Context: Moro Islamic Liberation Front, Philippine, United Bangsamoro Justice Party_
+_Context: Moro Islamic Liberation Front, Philippines, United Bangsamoro Justice Party_
 
 ## [Previous Day...](/news/2015/05/8/index.md)
 

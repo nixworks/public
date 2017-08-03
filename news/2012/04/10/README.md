@@ -28,7 +28,7 @@ North Korea says the rocket built to carry a satellite into space is ready for l
 David Cameron meets Japanese PM Yoshihiko Noda for talks in Tokyo, as he begins a week-long tour aimed at boosting UK trade with East and South East Asia.
 
 ### [Disabled Chinese land rights lawyer Ni Yulan and her husband are sentenced by a Beijing court a year after they were detained for fraud and "provoking trouble". ](/news/2012/04/10/disabled-chinese-land-rights-lawyer-ni-yulan-and-her-husband-are-sentenced-by-a-beijing-court-a-year-after-they-were-detained-for-fraud-and.md)
-_Context: China, Ni Yulan_
+_Context: Chinese, Ni Yulan_
 
 ### [The Costa Rican embassy's trade attache in Caracas, Venezuela is kidnapped. ](/news/2012/04/10/the-costa-rican-embassy-s-trade-attache-in-caracas-venezuela-is-kidnapped.md)
 _Context: Caracas, Costa Rica, Venezuela_

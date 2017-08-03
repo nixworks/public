@@ -28,7 +28,7 @@ More than two dozen people were injured when a wood platform holding live firewo
 Whole Foods Market Inc. is recalling Crave Brothers Les Freres cheese in response to an outbreak of a bacterial infection that has sickened people in several states and killed at least one person. Whole Foods says the cheese may be contaminated with Listeria monocytogenes. It was sold in 30 states and Washington DC under names including Les Freres and Crave Brothers Les Freres.
 
 ### [The People's Republic of China and Russia begin joint naval exercises in the Sea of Japan. ](/news/2013/07/5/the-people-s-republic-of-china-and-russia-begin-joint-naval-exercises-in-the-sea-of-japan.md)
-_Context: China, Russia, Sea of Japan_
+_Context: Chinese, Russia, Sea of Japan_
 
 ### [NSA spying scandalBolivian president Evo Morales calls the Eurozone for a violation of international law and threatens to close down the U.S. embassy in Bolivia after the episode of having his official airplane being refused to land ''en route'' to Vienna, amid suspicions of having former NSA employee Edward Snowden on board. Ambassadors of France, Italy, Spain and Portugal are summoned to give full explanations.](/news/2013/07/5/nsa-spying-scandalpbolivian-president-evo-morales-calls-the-eurozone-for-a-violation-of-international-law-and-threatens-to-close-down-the-u.md)
 MANAGUA, Nicaragua (AP) — Presidents Daniel Ortega of Nicaragua and Nicolas Maduro of Venezuela said Friday they were willing to grant asylum to NSA leaker Edward Snowden.

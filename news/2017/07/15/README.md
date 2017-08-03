@@ -4,7 +4,7 @@
 At least eight people were killed on Saturday in a stampede in a soccer stadium in the Senegalese capital Dakar during a match between two local teams, the sports minister said.
 
 ### [Indonesia renames part of the South China Sea as "North Natuna Sea," angering China. ](/news/2017/07/15/indonesia-renames-part-of-the-south-china-sea-as-north-natuna-sea-angering-china.md)
-_Context: China, Indonesia, Natuna, South China Sea, South China Sea disputes_
+_Context: Chinese, Indonesia, Natuna, South China Sea, South China Sea disputes_
 
 ### [An attack by a man armed with a knife in Tehran Metro's Shahr-e-Rey Station leaves two injured. The attacker is shot dead by the police. ](/news/2017/07/15/an-attack-by-a-man-armed-with-a-knife-in-tehran-metro-s-shahr-e-rey-station-leaves-two-injured-the-attacker-is-shot-dead-by-the-police.md)
 Tehran police shot dead a man who attacked a clergyman and other people with a knife at a metro station on Saturday, Iranian state television reported.

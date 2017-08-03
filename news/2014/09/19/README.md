@@ -4,7 +4,7 @@
 _Context: Manila, Ninoy Aquino International Airport, Tropical Storm Fung-wong_
 
 ### [Between 20,000 to 30,000 people are evacuated in Luzon as the Philippine volcano Mayon spews lava. ](/news/2014/09/19/between-20-000-to-30-000-people-are-evacuated-in-luzon-as-the-philippine-volcano-mayon-spews-lava.md)
-_Context: Luzon, Mayon Volcano, Philippine, lava_
+_Context: Luzon, Mayon Volcano, Philippines, lava_
 
 ### [Indonesia's Mount Slamet erupts.](/news/2014/09/19/indonesia-s-mount-slamet-erupts.md)
 _Context: Indonesia, Mount Slamet_

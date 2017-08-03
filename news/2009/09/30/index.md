@@ -16,7 +16,7 @@ _Context: Burma, New York City, United States_
 _Context: Nepal, church_
 
 ### [ The death toll from Typhoon Ketsana across Southeast Asia rises to 300. ](/news/2009/09/30/the-death-toll-from-typhoon-ketsana-across-southeast-asia-rises-to-300.md)
-_Context: Southeast Asia, Typhoon Ketsana_
+_Context: Asia, Typhoon Ketsana_
 
 ### [ The United States is to withdraw 4,000 troops from Iraq by the end of October. ](/news/2009/09/30/the-united-states-is-to-withdraw-4-000-troops-from-iraq-by-the-end-of-october.md)
 US commander Odierno says 4,000 troops will be sent home by the end October.

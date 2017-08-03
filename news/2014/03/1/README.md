@@ -16,7 +16,7 @@ An attack by knife-wielding men at a railway station in Kunming, south-west Chin
 _Context: Fuck, Wikipedia_
 
 ### [Sultan Abdul Halim Muadzam Shah Bridge or the Penang Second Bridge, Southeast Asia's longest bridge over water in Penang, Malaysia is officially opened.](/news/2014/03/1/sultan-abdul-halim-muadzam-shah-bridge-or-the-penang-second-bridge-southeast-asia-s-longest-bridge-over-water-in-penang-malaysia-is-offici.md)
-_Context: Malaysia, Penang, Penang Second Bridge, Southeast Asia, Sultan Abdul Halim Muadzam Shah Bridge_
+_Context: Asia, Malaysia, Penang, Penang Second Bridge, Sultan Abdul Halim Muadzam Shah Bridge_
 
 ### [2014 Venezuelan protests: Clashes continue between anti-government protesters and security forces after 41 people are arrested. ](/news/2014/03/1/2014-venezuelan-protests-clashes-continue-between-anti-government-protesters-and-security-forces-after-41-people-are-arrested.md)
 Call for nationwide rallies comes after dozens are arrested in street battles between government forces and protesters.

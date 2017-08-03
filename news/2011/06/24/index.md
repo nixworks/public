@@ -16,7 +16,7 @@ EU&#x20;leaders&#x20;appointed&#x20;Italy&#x27;s&#x20;Mario&#x20;Draghi&#x20;&#x
 _Context: Japan, Nagano Prefecture, mudslide_
 
 ### [Tropical Storm Meari hits the Philippines, leaving 11 people missing and over 40,000 displaced. ](/news/2011/06/24/tropical-storm-meari-hits-the-philippines-leaving-11-people-missing-and-over-40-000-displaced.md)
-_Context: 2011 Pacific typhoon season, Philippine_
+_Context: 2011 Pacific typhoon season, Philippines_
 
 ### [The Souris River floods to record levels and overflows levee banks in the US town of Minot, North Dakota. ](/news/2011/06/24/the-souris-river-floods-to-record-levels-and-overflows-levee-banks-in-the-us-town-of-minot-north-dakota.md)
 _Context: Minot, North Dakota, Souris River, levee_

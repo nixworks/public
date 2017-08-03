@@ -22,7 +22,7 @@ Politician in court over comments he made about Dutch Moroccans, but insists he 
 French national, 26, has been on the run since November’s attacks in French capital that left 130 dead
 
 ### [Jia Jia, a columnist for China's Tencent media company is reported missing after not being heard from since Tuesday, when he was on his way to Hong Kong. He was last heard from when he tried to warn a friend about publishing an anonymous letter calling for President Xi Jinping's resignation. ](/news/2016/03/18/jia-jia-a-columnist-for-china-s-tencent-media-company-is-reported-missing-after-not-being-heard-from-since-tuesday-when-he-was-on-his-way.md)
-_Context: Censorship in China, China, Chinese President, Hong Kong, Tencent, Xi Jinping_
+_Context: Censorship in China, Chinese, Chinese President, Hong Kong, Tencent, Xi Jinping_
 
 ### [The FBI's Joint Terrorism Task Force, United States Secret Service and New York City Police Department are investigating a letter containing a suspicious white powder and a threatening note which was sent to the home of Eric Trump, son of Donald Trump, in New York City. The handwritten note within the letter said: "If your father does not drop out of the race, the next envelope won't be a fake." It was signed "X". ](/news/2016/03/18/the-fbi-s-joint-terrorism-task-force-united-states-secret-service-and-new-york-city-police-department-are-investigating-a-letter-containing.md)
 _Context: Donald Trump, Eric Trump, FBI, Joint Terrorism Task Force, New York City, New York City Police Department, Trump's campaign team, United States Secret Service_

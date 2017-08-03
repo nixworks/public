@@ -46,7 +46,7 @@ Live presidential election results and maps.
 The Obama administration is expanding the number of households that will receive Internet subsidies.
 
 ### [The Supreme Court of the Philippines, in a 9-6 ruling, reverses the Commission on Elections order that had disqualified Senator Grace Poe from running in the May 9, 2016, presidential election. The petitioners plan to file a motion for reconsideration. ](/news/2016/03/8/the-supreme-court-of-the-philippines-in-a-9-6-ruling-reverses-the-commission-on-elections-order-that-had-disqualified-senator-grace-poe-fr.md)
-_Context: Commission on Elections, Grace Poe, Philippine presidential election, 2016, Supreme Court of the Philippines_
+_Context: Commission on Elections, Grace Poe, Philippine presidential election, 2016, Supreme Court_
 
 ### [U.S. carrier Alaska Airlines reschedules Flight 870 from Anchorage, Alaska, to Honolulu,  Hawaii, to depart at 2:00 p.m. local time  (23:00 UTC) so passengers can view 2016's only total solar eclipse for 1 minute and 59 seconds, 695 miles north of Honolulu  at 37,000 feet.  ](/news/2016/03/8/u-s-carrier-alaska-airlines-reschedules-flight-870-from-anchorage-alaska-to-honolulu-hawaii-to-depart-at-2-00-p-m-local-time-23-00.md)
 The departure time is being adjusted so passengers can get a rare look over the Pacific Ocean.

@@ -34,7 +34,7 @@ _Context: IIM Indore_
 Mortar bombs have struck a petrol station in eastern Baghdad, killing at least nine people and wounding 11, Iraqi police say.
 
 ### [ Thirty-four rail workers building a tunnel in Hubei province China are trapped 200 metres underground following a landslide. ](/news/2007/08/5/thirty-four-rail-workers-building-a-tunnel-in-hubei-province-china-are-trapped-200-metres-underground-following-a-landslide.md)
-_Context: China, Hubei, landslide, tunnel_
+_Context: Chinese, Hubei, landslide, tunnel_
 
 ## [Previous Day...](/news/2007/08/4/index.md)
 

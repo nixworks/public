@@ -1,13 +1,13 @@
 ## [2013-10-18](/news/2013/10/18/index.md)
 
 ### [China's economy grew at a rate of 7.8 percent in the third quarter. ](/news/2013/10/18/china-s-economy-grew-at-a-rate-of-7-8-percent-in-the-third-quarter.md)
-_Context: China_
+_Context: Chinese_
 
 ### [The Prime Minister of Canada and the European Union tentatively sign a free trade and copyright agreement. ](/news/2013/10/18/the-prime-minister-of-canada-and-the-european-union-tentatively-sign-a-free-trade-and-copyright-agreement.md)
 Canada and the EU have sign a tentative deal to open up markets and drop nearly all import taxes, on everything from food to cars to intellectual property. Prime Minster Stephen Harper signed the agreement in principle in Brussels today, but it could be two years or more before it is in effect.
 
 ### [Japanese cabinet minister Yoshitaka Shindo visits the controversial Yasukuni Shrine potentially causing conflict with the Philippines, South Korea and the People's Republic of China. ](/news/2013/10/18/japanese-cabinet-minister-yoshitaka-shinda-visits-the-controversial-yasukuni-shrine-potentially-causing-conflict-with-the-philippines-sout.md)
-_Context: Chinese, Philippine, South Korea, Yasukuni Shrine, Yoshitaka Shindo_
+_Context: Chinese, Philippines, South Korea, Yasukuni Shrine, Yoshitaka Shindo_
 
 ### [Former Tijuana Cartel leader Francisco Rafael Arellano Felix is killed in Los Cabos, Baja California Sur. ](/news/2013/10/18/former-tijuana-cartel-leader-francisco-rafael-arellano-fa-c-lix-is-killed-in-los-cabos-baja-california-sur.md)
 _Context: Francisco Rafael Arellano Felix, Los Cabos, Baja California Sur, Tijuana Cartel_

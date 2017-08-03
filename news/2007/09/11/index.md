@@ -4,7 +4,7 @@
 _Context: Bruce Golding, Jamaica, Jamaica Labour Party_
 
 ### [ Chinese and US safety officials sign an agreement banning the export of toys with lead paint to the United States. ](/news/2007/09/11/chinese-and-us-safety-officials-sign-an-agreement-banning-the-export-of-toys-with-lead-paint-to-the-united-states.md)
-_Context: China, United States, lead paint, toy_
+_Context: Chinese, United States, lead paint, toy_
 
 ### [ Burger King announces that it would limit advertising to children younger than 12 to foods that meet strict nutritional guidelines. ](/news/2007/09/11/burger-king-announces-that-it-would-limit-advertising-to-children-younger-than-12-to-foods-that-meet-strict-nutritional-guidelines.md)
 Fast-food chain Burger King Holdings Inc said on Tuesday that, beginning late next year, it will limit advertising aimed at children younger than 12 to food and drinks that meet strict nutritional guidelines.
@@ -46,7 +46,7 @@ Turkish police foiled a bomb attack in Ankara on Tuesday, the sixth anniversary 
 _Context: OPEC, Saudi Arabia_
 
 ### [ Police in the Philippines arrest seven militants suspected of plotting to bomb tourist and shopping locations in the southern Philippines. ](/news/2007/09/11/police-in-the-philippines-arrest-seven-militants-suspected-of-plotting-to-bomb-tourist-and-shopping-locations-in-the-southern-philippines.md)
-_Context: Philippine_
+_Context: Philippines_
 
 ### [ The European Union decides the United Kingdom can continue to use imperial measurements for the foreseeable future. ](/news/2007/09/11/the-european-union-decides-the-united-kingdom-can-continue-to-use-imperial-measurements-for-the-foreseeable-future.md)
 _Context: European Union, United Kingdom, imperial measurement_

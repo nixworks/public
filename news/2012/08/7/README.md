@@ -16,7 +16,7 @@ Two gunmen sprayed the windowless sanctuary Monday night with fire from Kalashni
 _Context: Burkina Faso, Djibrill Bassole, Mali, Tuareg rebellion (2012), al-Qaeda_
 
 ### [Flooding in the Philippines capital Manila forces at least 20,000 people to flee their homes with the death toll after eight days of heavy rain throughout the country reaching 53. ](/news/2012/08/7/flooding-in-the-philippines-capital-manila-forces-at-least-20-000-people-to-flee-their-homes-with-the-death-toll-after-eight-days-of-heavy-r.md)
-_Context: Manila, Philippine_
+_Context: Manila, Philippines_
 
 ### [The People's Republic of China evacuates 200,000 people from Shanghai ahead of Typhoon Haikui which is expected to make landfall in Zhejiang early tonight or tomorrow morning. ](/news/2012/08/7/the-people-s-republic-of-china-evacuates-200-000-people-from-shanghai-ahead-of-typhoon-haikui-which-is-expected-to-make-landfall-in-zhejiang.md)
 _Context: Chinese, Shanghai, Typhoon, Zhejiang_
@@ -28,7 +28,7 @@ _Context: Malaysia, exorcism_
 The stepfather of missing schoolgirl Tia Sharp says the family is &quot;in bits&quot; and urged people to find &quot;my little girl&quot;.
 
 ### [A Tibetan man sets himself on fire in Sichuan, in the latest in a series of protests against Chinese rule. ](/news/2012/08/7/a-tibetan-man-sets-himself-on-fire-in-sichuan-in-the-latest-in-a-series-of-protests-against-chinese-rule.md)
-_Context: China, Sichuan, Tibet_
+_Context: Chinese, Sichuan, Tibet_
 
 ## [Previous Day...](/news/2012/08/6/index.md)
 

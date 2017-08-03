@@ -13,7 +13,7 @@ _Context: 2010 Australian Open, Andy Murray, Roger Federer_
 _Context: 2010 Africa Cup of Nations, African Cup of Nations, Angola, Egypt, Estdio 11 de Novembro, Ghana national football team, Luanda_
 
 ### [A M<sub>w</sub>&nbsp;5.2 earthquake in Sichuan province, China, kills one person and injures 11 others, destroying at least 100 homes. ](/news/2010/01/31/a-mw-nbsp-5-2-earthquake-in-sichuan-province-china-kills-one-person-and-injures-11-others-destroying-at-least-100-homes.md)
-_Context: China, Sichuan, earthquake, magnitude earthquake, province_
+_Context: Chinese, Sichuan, earthquake, magnitude earthquake, province_
 
 ### [The death toll from flooding in southern Peru rises to 20. ](/news/2010/01/31/the-death-toll-from-flooding-in-southern-peru-rises-to-20.md)
 _Context: Peru_

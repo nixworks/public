@@ -22,7 +22,7 @@ Search crews have now recovered 41 bodies from an area in the Atlantic where an 
 _Context: Bathaa, Dhiqar_
 
 ### [ Massive demonstrations are held in various places in the Philippines against the passage of the Constituent Assembly to amend  the Constitution. ](/news/2009/06/10/massive-demonstrations-are-held-in-various-places-in-the-philippines-against-the-passage-of-the-constituent-assembly-to-amend-the-constitu.md)
-_Context: Constituent Assembly, Philippine, constitutional constraints, demonstration_
+_Context: Constituent Assembly, Philippines, constitutional constraints, demonstration_
 
 ### [ A two-day strike by the United Kingdom National Union of Rail, Maritime and Transport Workers disrupts train services in London. ](/news/2009/06/10/a-two-day-strike-by-the-united-kingdom-national-union-of-rail-maritime-and-transport-workers-disrupts-train-services-in-london.md)
 _Context: London, National Union of Rail, Maritime and Transport Workers, United Kingdom, strike_
@@ -34,7 +34,7 @@ _Context: Russia, Shchuchye, Kurgan Oblast, nerve agent_
 _Context: Japan, North Korea, South Korea, United Nations Security Council, United Nations Security Council resolution_
 
 ### [ Palau agrees to accept up to 17 Chinese Uighurs from Guantanamo Bay detention camp. ](/news/2009/06/10/palau-agrees-to-accept-up-to-17-chinese-uighurs-from-guantanamo-bay-detention-camp.md)
-_Context: China, Guantanamo Bay Detention Camp, Palau, Uyghur_
+_Context: Chinese, Guantanamo Bay Detention Camp, Palau, Uyghur_
 
 ### [ The Thai army is sent to reinforce positions along Thailand's border with Burma after an influx of Karen refugees following a Burmese army offensive in Karen state. ](/news/2009/06/10/the-thai-army-is-sent-to-reinforce-positions-along-thailand-s-border-with-burma-after-an-influx-of-karen-refugees-following-a-burmese-army.md)
 _Context: Burma, Internal conflict in Burma, Karen, Karen State, Myanmar Army, Royal Thai Army, Thailand_

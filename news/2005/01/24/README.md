@@ -4,7 +4,7 @@
 Get the latest breaking news and top news headlines at Reuters.com
 
 ### [ Yulia Tymoshenko is appointed Prime Minister of Ukraine as one of President Viktor Yushchenko's first official acts, before a state visit in Moscow.  Her post still requires ratification by the Verkhovna Rada, Ukraine's parliament. ](/news/2005/01/24/yulia-tymoshenko-is-appointed-prime-minister-of-ukraine-as-one-of-president-viktor-yushchenko-s-first-official-acts-before-a-state-visit-i.md)
-_Context: Moscow, Parliament, Prime Minister of Ukraine, Ukrainian President, Verkhovna Rada, Viktor Yushchenko, Yulia Tymoshenko_
+_Context: Moscow, Prime Minister of Ukraine, Ukrainian President, Verkhovna Rada, Viktor Yushchenko, Yulia Tymoshenko, parliament_
 
 ### [ New "Wall of Names" holocaust memorial is unveiled in Paris. The site will be officially opened on Thursday. ](/news/2005/01/24/new-wall-of-names-holocaust-memorial-is-unveiled-in-paris-the-site-will-be-officially-opened-on-thursday.md)
 _Context: Holocaust, Paris, Wall of Names_

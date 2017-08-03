@@ -4,7 +4,7 @@
 Things to do in Miami
 
 ### [ Ahmat Mahamat Bachir, the president of the Chadian Independent National Election Commission, announces that incumbent President of Chad Idriss Dby won the 2006 Chadian presidential election held on May 3 with 77.5% of the vote. The official turnout was 61%, though international observers estimated turnout at 4&ndash;10%. ](/news/2006/05/14/ahmat-mahamat-bachir-the-president-of-the-chadian-independent-national-election-commission-announces-that-incumbent-president-of-chad-idr.md)
-_Context: Ahmat Mahamat Bachir, Chadian Independent National Election Commission, Idriss Deby, May 3, President of Chad, incumbent, presidential elections_
+_Context: Ahmat Mahamat Bachir, Chadian Independent National Election Commission, Idriss Deby, May 3, President of Chad, presidential elections, re-elects_
 
 ### [ Organized crime led by the group Primeiro Comando da Capital causes rioting in Brazil and claims over 50 lives.  ](/news/2006/05/14/organized-crime-led-by-the-group-primeiro-comando-da-capital-causes-rioting-in-brazil-and-claims-over-50-lives.md)
 _Context: Brazil, Primeiro Comando da Capital_

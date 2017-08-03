@@ -16,7 +16,7 @@ Kidnapped Australian adventurer Warren Rodwell pleads for his life in a video se
 _Context: Pakistan Taliban_
 
 ### [At least 25 people die with dozens missing as a result of a landslide at a gold mining site in the Philippines Compostela Valley Province. ](/news/2012/01/5/at-least-25-people-die-with-dozens-missing-as-a-result-of-a-landslide-at-a-gold-mining-site-in-the-philippines-compostela-valley-province.md)
-_Context: Compostela Valley Province, Philippine, gold mine, landslide_
+_Context: Compostela Valley Province, Philippines, gold mine, landslide_
 
 ### [At least six firefighters die fighting wildfires in southern Chile with two badly burnt and one missing. ](/news/2012/01/5/at-least-six-firefighters-die-fighting-wildfires-in-southern-chile-with-two-badly-burnt-and-one-missing.md)
 _Context: Chile, Wildfire_

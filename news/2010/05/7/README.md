@@ -46,7 +46,7 @@ _Context: Abdul Tejan-Cole, Sierra Leone_
 Airports in western Ireland reopen after ash threat prompted airspace closure.
 
 ### [The Supreme Court of the Philippines rejects several petitions calling for a presidential election to be postponed and asking for manual counting of votes to be maintained. ](/news/2010/05/7/the-supreme-court-of-the-philippines-rejects-several-petitions-calling-for-a-presidential-election-to-be-postponed-and-asking-for-manual-cou.md)
-_Context: Supreme Court of the Philippines_
+_Context: Supreme Court_
 
 ### [Starlin Castro makes his MLB-debut, hitting a home run in his first career at-bat, and later adding a three-run triple to set the MLB record for RBI's in an MLB Debut.](/news/2010/05/7/starlin-castro-makes-his-mlb-debut-hitting-a-home-run-in-his-first-career-at-bat-and-later-adding-a-three-run-triple-to-set-the-mlb-record.md)
 _Context: MLB, Starlin Castro_

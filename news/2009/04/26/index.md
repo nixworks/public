@@ -7,7 +7,7 @@ _Context: Justice and Equality Movement, Khartoum, Sudan, capital punishment, co
 U.S. health officials said that they had confirmed 20 cases of swine flu in the country and expected to see more as investigators track the path of the outbreak.
 
 ### [ Incumbent President Rafael Correa claims victory in Ecuador's general election. ](/news/2009/04/26/incumbent-president-rafael-correa-claims-victory-in-ecuador-s-general-election.md)
-_Context: Ecuador, President of Ecuador, Rafael Correa, general election, incumbent_
+_Context: Ecuador, President of Ecuador, Rafael Correa, general election, re-elects_
 
 ### [ The cruise ship MSC ''Melody'' thwarts an attack by Somali pirates in the Gulf of Aden. ](/news/2009/04/26/the-cruise-ship-msc-melody-thwarts-an-attack-by-somali-pirates-in-the-gulf-of-aden.md)
 _Context: ''Melody'', Gulf of Aden, MSC, Somali pirates, Somalia, cruise ship_

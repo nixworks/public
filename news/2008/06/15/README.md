@@ -4,7 +4,7 @@
 _Context: 2008 invasion of Anjouan, Anjouan, Mohamed Bacar, Union of the Comoros, presidential election_
 
 ### [ Six members of the Kuratong baleleng Philippines crime gang, as well as a police officer are killed in a shootout with police officers in Manila. ](/news/2008/06/15/six-members-of-the-kuratong-baleleng-philippines-crime-gang-as-well-as-a-police-officer-are-killed-in-a-shootout-with-police-officers-in-m.md)
-_Context: Kuratong baleleng, Manila, Philippine, Philippine National Police_
+_Context: Kuratong Baleleng, Manila, Philippine National Police, Philippines_
 
 ### [ ''August: Osage County'' wins the 62nd Tony Award for best play while ''In the Heights'' wins best musical. ](/news/2008/06/15/august-osage-county-wins-the-62nd-tony-award-for-best-play-while-in-the-heights-wins-best-musical.md)
 _Context: 62nd, August: Osage County, Best Musical, Best Play, In the Heights, Tony Award_

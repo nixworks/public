@@ -10,7 +10,7 @@ _Context: Damascus, Israeli-Palestinian conflict, Palestinian Authority, Palesti
 _Context: BTK Killer, Wichita, Kansas_
 
 ### [ In a conference organized by the UN Food and Agriculture Organization, officials urge changes to be made in how poultry are raised in Southeast Asia to prevent a bird flu pandemic. ](/news/2005/02/26/in-a-conference-organized-by-the-un-food-and-agriculture-organization-officials-urge-changes-to-be-made-in-how-poultry-are-raised-in-south.md)
-_Context: Avian flu virus, Southeast Asia, United Nations, pandemic, poultry_
+_Context: Asia, Avian flu virus, United Nations, pandemic, poultry_
 
 ### [ Nepali soldiers kill at least a dozen Maoist rebels in Kailali district. ](/news/2005/02/26/nepali-soldiers-kill-at-least-a-dozen-maoist-rebels-in-kailali-district.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

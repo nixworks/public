@@ -16,7 +16,7 @@ _Context: Hyderabad, Andhra Pradesh, India, Mecca Masjid, killed in a bomb blast
 _Context: Nursultan Nazarbayev's, President, parliament_
 
 ### [ A home-made bomb explodes in a bus terminal in Cotabato in the southern Philippines, killing 3 people and injuring 15. ](/news/2007/05/18/a-home-made-bomb-explodes-in-a-bus-terminal-in-cotabato-in-the-southern-philippines-killing-3-people-and-injuring-15.md)
-_Context: Cotabato City, Philippine, bus station_
+_Context: Cotabato City, Philippines, bus station_
 
 ### [ Rioting breaks out in Guangxi province, China, in protest at the government imposing fines for breaches of its strict one-child policy. ](/news/2007/05/18/rioting-breaks-out-in-guangxi-province-china-in-protest-at-the-government-imposing-fines-for-breaches-of-its-strict-one-child-policy.md)
 _Context: Chinese, Guangxi Zhuang, government, one-child policy_

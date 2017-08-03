@@ -1,7 +1,7 @@
 ## [2007-02-27](/news/2007/02/27/index.md)
 
 ### [ In Senegal, unofficial results from government sources indicate that incumbent President Abdoulaye Wade has won the 2007 presidential election with more than 50% of the votes. ](/news/2007/02/27/in-senegal-unofficial-results-from-government-sources-indicate-that-incumbent-president-abdoulaye-wade-has-won-the-2007-presidential-elect.md)
-_Context: 2007 presidential election, Abdoulaye Wade, President, Senegal, incumbent_
+_Context: 2007 presidential election, Abdoulaye Wade, President, Senegal, re-elects_
 
 ### [ Richard M. Daley, the Mayor of Chicago, is elected for his sixth term. If he serves the length of this term, he will become the longest serving mayor of Chicago, surpassing his father Richard J. Daley. ](/news/2007/02/27/richard-m-daley-the-mayor-of-chicago-is-elected-for-his-sixth-term-if-he-serves-the-length-of-this-term-he-will-become-the-longest-ser.md)
 Get the latest Chicago local news and US & World news. See recent updates on politics, sports, health, tech, and weird news on NBC Chicago.
