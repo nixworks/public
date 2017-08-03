@@ -1,6 +1,6 @@
 ### [2017-08-2](/news/2017/08/2/index.md)
 
-# The U.S. Justice department plans on challenging American colleges and universities on affirmative action that disproportionately affects Asian American students. 
+# The U.S. Justice department plans on challenging American colleges and universities on affirmative action that disproportionately affects Asian and White American students. 
 
 What is affirmative action? Why is this a big deal? Is the Trump report true?
 
