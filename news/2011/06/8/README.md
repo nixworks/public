@@ -40,7 +40,7 @@ _Context: Australia, Indonesia, abattoir, cattle_
 _Context: 2011 Syrian uprising, France, United Kingdom, United Nations Security Council, United Nations Security Council resolution_
 
 ### [In New York, representatives of Morocco and Western Sahara conclude UN-backed talks on resolving the conflict between the two countries without reaching an agreement that was satisfactory to both parties. ](/news/2011/06/8/in-new-york-representatives-of-morocco-and-western-sahara-conclude-un-backed-talks-on-resolving-the-conflict-between-the-two-countries-with.md)
-_Context: Morocco, New York, UN, Western Sahara, conflict between the two countries_
+_Context: Morocco, New York City, UN, Western Sahara, conflict between the two countries_
 
 ### [Indian social activist Anna Hazare begins a second hunger strike against corruption. ](/news/2011/06/8/indian-social-activist-anna-hazare-begins-a-second-hunger-strike-against-corruption.md)
 _Context: Anna Hazare, India_

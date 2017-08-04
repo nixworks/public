@@ -31,7 +31,7 @@ _Context: Cambodia, Ieng Thirith, Khmer Rouge, genocide_
 _Context: Karachi, Pakistan, Pakistani factory fires_
 
 ### [Russian Prime Minister Dmitry Medvedev calls for Russian punk band Pussy Riot to be freed, saying that their further imprisonment is "unproductive". ](/news/2012/09/13/russian-prime-minister-dmitry-medvedev-calls-for-russian-punk-band-pussy-riot-to-be-freed-saying-that-their-further-imprisonment-is-unprod.md)
-_Context: Dmitry Medvedev, Prime Minister, Pussy Riot_
+_Context: Dmitry Medvedev, Prime Minister of Russia, Pussy Riot_
 
 ### [In the general election in the Netherlands, Prime Minister Mark Rutte's People's Party for Freedom and Democracy gains 10 seats to win 41 of the 150 in the House of Representatives and Diederik Samsom's Labour Party, gains 8. ](/news/2012/09/13/in-the-general-election-in-the-netherlands-prime-minister-mark-rutte-s-people-s-party-for-freedom-and-democracy-gains-10-seats-to-win-41-of.md)
 Dutch voters back pro-European centrist parties and inflict heavy losses on a far-right Eurosceptic group.

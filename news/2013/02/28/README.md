@@ -52,7 +52,7 @@ Bradley Manning, the US Army private accused in the Wikileaks case, pleads guilt
 _Context: Alenka Bratusek, Janez Jansa, Parliament, Prime Minister of Slovenia, Slovenia_
 
 ### [Haruhiko Kuroda is selected by Japanese Prime Minister Shinzo Abe to lead the Bank of Japan. ](/news/2013/02/28/haruhiko-kuroda-is-selected-by-japanese-prime-minister-shinza-abe-to-lead-the-bank-of-japan.md)
-_Context: Bank of Japan, Haruhiko Kuroda, Japan, Prime Minister, Shinzo Abe_
+_Context: Bank of Japan, Haruhiko Kuroda, Japan, Prime Minister of Japan, Shinzo Abe_
 
 ### [Voters go to the polls in the Eastleigh by-election following the resignation of former UK Cabinet Minister Chris Huhne with Liberal Democrat candidate Mike Thornton retaining the seat for his party. ](/news/2013/02/28/voters-go-to-the-polls-in-the-eastleigh-by-election-following-the-resignation-of-former-uk-cabinet-minister-chris-huhne-with-liberal-democra.md)
 The Lib Dems have claimed victory in the Eastleigh by-election, with the official result yet to be announced.

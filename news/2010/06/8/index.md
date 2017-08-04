@@ -13,7 +13,7 @@ Twelve people, including schoolchildren, perish as boat capsizes in lake.
 _Context: European Union, Roma_
 
 ### [21 nations, including the Presidents of Afghanistan, Russia and Syria, attending the Conference on Interaction and Confidence-Building Measures in Asia summit in Istanbul condemn Israel's deadly raid on the Gaza-bound aid flotilla, while Israel, the 22nd participant with a lower-level diplomat, disagrees. ](/news/2010/06/8/21-nations-including-the-presidents-of-afghanistan-russia-and-syria-attending-the-conference-on-interaction-and-confidence-building-measu.md)
-_Context: Afghanistan, Conference on Interaction and Confidence-Building Measures in Asia, Gaza Strip, Gaza flotilla raid, Israel, Istanbul, Russia, Syria_
+_Context: Afghanistan's, Conference on Interaction and Confidence-Building Measures in Asia, Gaza Strip, Gaza flotilla raid, Israel, Istanbul, Russia, Syria_
 
 ### [The United States threatens Iran with its toughest nuclear sanctions yet, despite the nuclear fuel-swap arrangement Iran made with Brazil and Turkey in May. ](/news/2010/06/8/the-united-states-threatens-iran-with-its-toughest-nuclear-sanctions-yet-despite-the-nuclear-fuel-swap-arrangement-iran-made-with-brazil-an.md)
 Iran faces its toughest sanctions over its nuclear policy, the US says, as the UN prepares to vote on the issue.
@@ -40,7 +40,7 @@ Jerome Kerviel appears in court accused of unauthorised deals that cost bank $5.
 _Context: Governor of Illinois, Rod Blagojevich, United States, corruption_
 
 ### [Refugee agencies criticise the UK Border Agency's decision to deport Afghan children. ](/news/2010/06/8/refugee-agencies-criticise-the-uk-border-agency-s-decision-to-deport-afghan-children.md)
-_Context: Afghanistan, UK Border Agency_
+_Context: Afghanistan's, UK Border Agency_
 
 ### [Poland legalises chemical castration. ](/news/2010/06/8/poland-legalises-chemical-castration.md)
 Legislation which requires some rapists and paedophiles to undergo chemical castration comes into effect in Poland.
@@ -55,7 +55,7 @@ At least two tonnes of cocaine with a street value of some $1bn is seized in The
 _Context: Joseph Estrada, Noynoy Aquino, Philippine presidential election, Philippines, President of the Philippines_
 
 ### [Japanese Prime Minister Naoto Kan is due to name his cabinet and be formally sworn in by Emperor Akihito. ](/news/2010/06/8/japanese-prime-minister-naoto-kan-is-due-to-name-his-cabinet-and-be-formally-sworn-in-by-emperor-akihito.md)
-_Context: Emperor Akihito, Japan, Naoto Kan, Prime Minister_
+_Context: Emperor Akihito, Japan, Naoto Kan, Prime Minister of Japan_
 
 ### [Public sector workers in Spain hold a major strike in protest against a 5% pay cut due to come into effect this month as part of a government austerity package. ](/news/2010/06/8/public-sector-workers-in-spain-hold-a-major-strike-in-protest-against-a-5-pay-cut-due-to-come-into-effect-this-month-as-part-of-a-governmen.md)
 _Context: Spain_

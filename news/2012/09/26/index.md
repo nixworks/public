@@ -10,7 +10,7 @@ _Context: Greek, general strike, unionize_
 _Context: Japan, Russia, Tokyo, rival territorial claims_
 
 ### [Senkaku Islands dispute:Prime Minister Yoshihiko Noda addresses the UNGA by stating that Japan is committed to a "peaceful solution" to its territorial disputes, but that it intends to "fulfill its responsibility"  to protecting its sovereignty. ](/news/2012/09/26/senkaku-islands-dispute-pprime-minister-yoshihiko-noda-addresses-the-unga-by-stating-that-japan-is-committed-to-a-peaceful-solution-to-its.md)
-_Context: Japan, Prime Minister, Senkaku Islands dispute, United Nations General Assembly, Yoshihiko Noda_
+_Context: Japan, Prime Minister of Japan, Senkaku Islands dispute, United Nations General Assembly, Yoshihiko Noda_
 
 ### [Russian billionaire Alexander Lebedev is charged with hooliganism and battery over a televised punch-up, with a possible five-year jail sentence in what he says is revenge for criticising President Vladimir Putin. ](/news/2012/09/26/russian-billionaire-alexander-lebedev-is-charged-with-hooliganism-and-battery-over-a-televised-punch-up-with-a-possible-five-year-jail-sent.md)
 Russian billionaire Alexander Lebedev was charged on Wednesday with hooliganism and battery over a televised punch-up and faces up to five years in jail in what he says is revenge for criticising President Vladimir Putin.

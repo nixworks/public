@@ -18,7 +18,7 @@ Special counsel Robert Mueller has impaneled a grand jury in Washington to inves
 ### [Chilean lawmakers have approved a bill that would legalize abortion in limited circumstances and end the socially conservative country's status as the last in South America with a blanket ban on the procedure. ](/news/2017/08/3/chilean-lawmakers-have-approved-a-bill-that-would-legalize-abortion-in-limited-circumstances-and-end-the-socially-conservative-country-s-sta.md)
 _Context: Abortion in Chile, Chilean lawmakers, South America, abortion, conservative_
 
-### [Raytheon wins the dismissal of a USD$1 billion whistleblower lawsuit accusing the defense contractor of over billing the U.S. government on a contract for satellite sensors, nearly 1-1/2 years after the United States Court of Appeals for the Ninth Circuit revived the case. ](/news/2017/08/3/raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-government-on.md)
+### [Raytheon wins the dismissal of a USD$1 billion whistleblower lawsuit accusing the defense contractor of over billing the U.S. government on a contract for satellite sensors, nearly 18 months after the United States Court of Appeals for the Ninth Circuit revived the case. ](/news/2017/08/3/raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-government-on.md)
 Raytheon Co (RTN.N) on Thursday won the dismissal of a $1 billion whistleblower lawsuit accusing the defense contractor of overbilling the U.S. government on a contract for satellite sensors, nearly 1-1/2 years after a federal appeals court revived the case.
 
 ### [American lawmakers break for summer recess. ](/news/2017/08/3/american-lawmakers-break-for-summer-recess.md)
@@ -27,7 +27,7 @@ _Context: 115th United States Congress, American, recess_
 ### [Prime Minister of Japan Shinzo Abe appoints Taro Kono as Foreign Minister. ](/news/2017/08/3/prime-minister-of-japan-shinza-abe-appoints-tara-kano-as-foreign-minister.md)
 Japanese Prime Minister Shinzo Abe, beset by scandals and falling support, opted for safe hands over fresh faces in a cabinet reshuffle on Thursday but the changes may not boost his support to the extent he seeks.
 
-### [West Virginia Governor Jim Justice will announce, during President Donald Trump's rally in Huntington, he is changing his party affiliation from Democratic to Republican. ](/news/2017/08/3/west-virginia-governor-jim-justice-will-announce-during-president-donald-trump-s-rally-in-huntington-he-is-changing-his-party-affiliation.md)
+### [West Virginia Governor Jim Justice announced, during President Donald Trump's rally in Huntington, he is changing his party affiliation from Democratic to Republican. ](/news/2017/08/3/west-virginia-governor-jim-justice-announced-during-president-donald-trump-s-rally-in-huntington-he-is-changing-his-party-affiliation-from.md)
 Trump won all 55 counties in the state, including 43 counties where he received more than 70 percent of votes.
 
 ## Opinion

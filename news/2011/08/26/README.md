@@ -28,7 +28,7 @@ President Barack Obama&#39;s uncle was stopped on suspicion of drunken driving i
 _Context: Mayor of Seoul, Oh Se-hoon_
 
 ### [Naoto Kan announces his resignation as Prime Minister of Japan after the Parliament passes two key pieces of legislation. ](/news/2011/08/26/naoto-kan-announces-his-resignation-as-prime-minister-of-japan-after-the-parliament-passes-two-key-pieces-of-legislation.md)
-_Context: Naoto Kan, Parliament of Japan, Prime Minister_
+_Context: Naoto Kan, Parliament of Japan, Prime Minister of Japan_
 
 ### [An investigation by the consultancy firm Deloitte clears Iris Robinson, the wife of the Northern Ireland First Minister Peter Robinson, of any wrongdoing over a council contract which was awarded to an individual with whom she was conducting an affair. ](/news/2011/08/26/an-investigation-by-the-consultancy-firm-deloitte-clears-iris-robinson-the-wife-of-the-northern-ireland-first-minister-peter-robinson-of-a.md)
 _Context: Deloitte Touche Tohmatsu Limited, First Minister of Northern Ireland, Iris Robinson, Peter Robinson_

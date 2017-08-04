@@ -13,7 +13,7 @@ _Context: Fomalhaut, HR 8799, direct imaging, extrasolar planet, planet_
 _Context: 2008 Russian financial crisis, Federal Financial Markets Service, Moscow Interbank Currency Exchange_
 
 ### [ Russian Prime Minister Vladimir Putin questions the commitment of the European Union to the construction of the Nord Stream pipeline to establish a natural gas delivery network from his country to Europe. A European Commission spokesman responds, "The EU continues to strongly support the Nord Stream pipeline". ](/news/2008/11/13/russian-prime-minister-vladimir-putin-questions-the-commitment-of-the-european-union-to-the-construction-of-the-nord-stream-pipeline-to-est.md)
-_Context: Europe, European Commission, European Union, Nord Stream, Prime Minister, Russia, Vladimir Putin, natural gas, pipeline_
+_Context: Europe, European Commission, European Union, Nord Stream, Prime Minister of Russia, Russia, Vladimir Putin, natural gas, pipeline_
 
 ## [Previous Day...](/news/2008/11/12/index.md)
 

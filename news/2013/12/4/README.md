@@ -4,7 +4,7 @@
 Twenty-one skulls believed to be the remains of soldiers loyal to ousted former president Amadou Toumani Toure.
 
 ### [War in Afghanistan (2001-present):The United States stops shipping supplies to Afghanistan through Pakistan due to protests over drone attacks. ](/news/2013/12/4/war-in-afghanistan-2001apresent-pthe-united-states-stops-shipping-supplies-to-afghanistan-through-pakistan-due-to-protests-over-drone-at.md)
-_Context: Afghanistan, Pakistan, United States, War in Afghanistan (2001-present), drones launch_
+_Context: Afghanistan's, Pakistan, United States, War in Afghanistan (2001-present), drones launch_
 
 ### [Sectarianism in Pakistan:Thirteen people are killed as a result of targetted shootings in Pakistan's biggest city Karachi. ](/news/2013/12/4/sectarianism-in-pakistan-pthirteen-people-are-killed-as-a-result-of-targetted-shootings-in-pakistan-s-biggest-city-karachi.md)
 Violence rocked Pakistan&#039;s biggest city today as 13 people were killed in targeted shootings including five suspected Taliban activists, a Shia scholar and two Moroccan students at a religious seminary.

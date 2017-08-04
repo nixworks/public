@@ -4,7 +4,7 @@
 _Context: Calcutta, Mother Teresa_
 
 ### [Japanese Prime Minister Shinzo Abe plans on increasing the spending for the Japan Self-Defense Force. ](/news/2016/08/31/japanese-prime-minister-shinzo-abe-plans-on-increasing-the-spending-for-the-japan-self-defense-force.md)
-_Context: Japan Self-Defense Force, Prime Minister, Shinzo Abe_
+_Context: Japan Self-Defense Force, Prime Minister of Japan, Shinzo Abe_
 
 ### [United Airlines Flight 880 makes an emergency landing at Shannon Airport in the Republic of Ireland due to "severe and unexpected turbulence". At least 12 people are hospitalized. ](/news/2016/08/31/united-airlines-flight-880-makes-an-emergency-landing-at-shannon-airport-in-the-republic-of-ireland-due-to-severe-and-unexpected-turbulence.md)
 Twelve people are taken to hospital after transatlantic turbulence prompts an emergency landing at Shannon Airport.

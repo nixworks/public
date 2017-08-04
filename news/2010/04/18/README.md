@@ -1,7 +1,7 @@
 ## [2010-04-18](/news/2010/04/18/index.md)
 
 ### [The Dow Live Earth Run for Water started on April 18th. The host cities are: Buenos Aires, Cape Town, Chicago, Hong Kong, Jimbaran, London, Los Angeles, Manchester, Melbourne, Mexico City, Milan, Minneapolis, New York, Lisboa, Rio de Janeiro, Sao Paulo, Singapore City, Stockholm, Toronto and Washington, D.C.. ](/news/2010/04/18/the-dow-live-earth-run-for-water-started-on-april-18th-the-host-cities-are-buenos-aires-cape-town-chicago-hong-kong-jimbaran-london.md)
-_Context: Buenos Aires, Cape Town, Chicago, Hong Kong, Jimbaran, Lisboa, Live Earth, London, Los Angeles, Manchester, Melbourne, Mexico City, Milan, Minneapolis, New York, Rio de Janeiro, Sao Paulo, Singapore, Stockholm, Toronto, Washington, D.C._
+_Context: Buenos Aires, Cape Town, Chicago, Hong Kong, Jimbaran, Lisboa, Live Earth, London, Los Angeles, Manchester, Melbourne, Mexico City, Milan, Minneapolis, New York City, Rio de Janeiro, Sao Paulo, Singapore, Stockholm, Toronto, Washington, D.C._
 
 ### [The Tehran International Conference on Disarmament and Non-Proliferation, 2010 concludes.President of Iran Mahmoud Ahmadinejad says Iran wants "peace, progress and security for all", asks "supporters and creators" of the Israeli-Palestinian conflict to "allow the regional nations and the Palestinians to settle things" themselves and calls on "alien troops" to leave the region. ](/news/2010/04/18/the-tehran-international-conference-on-disarmament-and-non-proliferation-2010-concludes-ppresident-of-iran-mahmoud-ahmadinejad-says-iran-wa.md)
 Ahmadinejad says US troops in the region and Afghanistan are stoking more insecurity.
@@ -40,7 +40,7 @@ _Context: Abdullah, Al-Sakhir Palace, Bahrain, Imam Turki bin Abdullah, Sheikh I
 _Context: King Oyo, Rukidi IV of Toro, Uganda_
 
 ### [Former President of the United States George Washington owes $300,000 for overdue library books he borrowed from New York Society Library five months into his presidency and which he failed to return. ](/news/2010/04/18/former-president-of-the-united-states-george-washington-owes-300-000-for-overdue-library-books-he-borrowed-from-new-york-society-library-fi.md)
-_Context: George Washington, New York Society Library, U.S. President_
+_Context: George Washington, New York Society Library, President of the United States_
 
 ### [69-year-old Spanish tenor opera star Placido Domingo returns to the stage at Milan's Teatro alla Scala weeks after colorectal cancer surgery. ](/news/2010/04/18/69-year-old-spanish-tenor-opera-star-pla-cido-domingo-returns-to-the-stage-at-milan-s-teatro-alla-scala-weeks-after-colorectal-cancer-surger.md)
 _Context: Milan, Placido Domingo, Spain, Teatro alla Scala, colorectal cancer_

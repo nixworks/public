@@ -13,7 +13,7 @@ Nato says it will investigate allegations that its forces have killed dozens of 
 _Context: Mohmand Agency, Pakistan Army_
 
 ### [War in Afghanistan:Sapper Jamie Larkham of the 1st Combat Engineer Regiment (Australia) and an Afghan interpreter die in overnight fighting. ](/news/2011/02/20/war-in-afghanistan-psapper-jamie-larkham-of-the-1st-combat-engineer-regiment-australia-and-an-afghan-interpreter-die-in-overnight-fighting.md)
-_Context: 1st Combat Engineer Regiment (Australia), Afghanistan, Jamie Larkham, sapping_
+_Context: 1st Combat Engineer Regiment (Australia), Afghanistan's, Jamie Larkham, sapping_
 
 ### [The death is announced of slain LTTE leader Velupillai Prabhakaran's mother Vallipuram Parvathi. ](/news/2011/02/20/the-death-is-announced-of-slain-ltte-leader-velupillai-prabhakaran-s-mother-vallipuram-parvathi.md)
 Vallipuram Parvathi, the mother of slain LTTE leader Velupillai Prabakaran, passed away on Sunday morning at a Jaffna Hospital. She was 81. Cofirming this, the Army said that the death came at around

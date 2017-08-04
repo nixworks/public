@@ -7,7 +7,7 @@ _Context: 1976, 2008, Burj Dubai, CN Tower, Canada, Toronto, Ontario, United Ara
 _Context: Russia, Russian Navy, Russian Northern Fleet, Vladimir Masorin, Vladimir Putin, Vladimir Vysotsky_
 
 ### [ Airstrikes and Afghan army gunfire kills more than 45 Taliban insurgents on the first day of Ramadan. ](/news/2007/09/12/airstrikes-and-afghan-army-gunfire-kills-more-than-45-taliban-insurgents-on-the-first-day-of-ramadan.md)
-_Context: Afghanistan, Ramadan, Taliban_
+_Context: Afghanistan's, Ramadan, Taliban_
 
 ### [ Bombardier Aerospace orders the grounding of at least 40 percent of its Q-400 turboprop following recent incidents in Scandinavian Airlines aircraft in Denmark and Lithuania. ](/news/2007/09/12/bombardier-aerospace-orders-the-grounding-of-at-least-40-percent-of-its-q-400-turboprop-following-recent-incidents-in-scandinavian-airlines.md)
 _Context: Bombardier Aerospace, Dash 8 Q400, Denmark, Lithuania, Scandinavian Airlines, turboprop_
@@ -37,7 +37,7 @@ Peter Beattie was greeted with thunderous applause as he addressed the Queenslan
 _Context: 6-year trial, Joseph Estrada, President of the Philippines, anti-corruption_
 
 ### [ Shinzo Abe, the current Prime Minister of Japan, announces his resignation after failing to win popular support in the aftermath of ruling Liberal Democratic Party's defeat in Upper House elections in July. The resignation comes into effect with the election of his successor in an LDP party conference on 19 September 2007. ](/news/2007/09/12/shinzo-abe-the-current-prime-minister-of-japan-announces-his-resignation-after-failing-to-win-popular-support-in-the-aftermath-of-ruling.md)
-_Context: Prime Minister, Shinzo Abe, with the election of his successor_
+_Context: Prime Minister of Japan, Shinzo Abe, with the election of his successor_
 
 ### [  Tropical Depression Eight and Tropical Depression Nine form near the Lesser Antilles and Gulf of Mexico respectively. ](/news/2007/09/12/tropical-depression-eight-and-tropical-depression-nine-form-near-the-lesser-antilles-and-gulf-of-mexico-respectively.md)
 _Context: 2007 Atlantic hurricane season, Gulf of Mexico, Lesser Antilles, Tropical Depression Eight, Tropical Depression Nine_

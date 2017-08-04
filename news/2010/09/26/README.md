@@ -22,7 +22,7 @@ The Spanish government has rejected a statement by the Basque separatist group E
 _Context: Iranian Revolutionary guards, Iraq, Kurd_
 
 ### [2 NATO service members are killed in a bomb blast in southern Afghanistan. ](/news/2010/09/26/2-nato-service-members-are-killed-in-a-bomb-blast-in-southern-afghanistan.md)
-_Context: Afghanistan, NATO_
+_Context: Afghanistan's, NATO_
 
 ### [Yemen issues a list of eight alleged Al Qaeda operatives wanted for possible involvement in an attack on a Yemen police bus on Saturday in Sana'a. ](/news/2010/09/26/yemen-issues-a-list-of-eight-alleged-al-qaeda-operatives-wanted-for-possible-involvement-in-an-attack-on-a-yemen-police-bus-on-saturday-in-s.md)
 _Context: Sana'a, Yemen's, al-Qaeda, policemen_
@@ -58,7 +58,7 @@ Aid boat carrying Jewish activists sails to Gaza
 _Context: Gaza flotilla raid, Human Rights Council, Israel_
 
 ### [Philip Alston, the international law scholar who recently stepped down as the United Nations's senior official on extrajudicial killings, calls for the UN to investigate war crimes in Afghanistan and to convict those responsible. ](/news/2010/09/26/philip-alston-the-international-law-scholar-who-recently-stepped-down-as-the-united-nations-s-senior-official-on-extrajudicial-killings-ca.md)
-_Context: Afghanistan, Philip Alston, United Nations, extrajudicial killing, international law, war crime_
+_Context: Afghanistan's, Philip Alston, United Nations, extrajudicial killing, international law, war crime_
 
 ### [The Israeli settlement freeze ends at 22.00 (GMT), should Israel restart construction of buildings on the West Bank the peace talks with Palestinian leader Mahmoud Abbas are expected to end. ](/news/2010/09/26/the-israeli-settlement-freeze-ends-at-22-00-gmt-should-israel-restart-construction-of-buildings-on-the-west-bank-the-peace-talks-with-pal.md)
 _Context: Israel, Israeli settlement freeze, Mahmoud Abbas, West Bank_

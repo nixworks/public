@@ -22,7 +22,7 @@ _Context: India, Kingfisher Airlines, pilot_
 The collapsed section raised new doubts about the quality of work and training on the high-speed rail system, one of China’s most ambitious modernizations.
 
 ### [Over 45 people are trapped by avalanches in the remote Afghan villages of Poshan and Ghadoor in Nuristan province. ](/news/2012/03/12/over-45-people-are-trapped-by-avalanches-in-the-remote-afghan-villages-of-poshan-and-ghadoor-in-nuristan-province.md)
-_Context: Afghanistan, Ghadoor, Nuristan province, Poshan, avalanche_
+_Context: Afghanistan's, Ghadoor, Nuristan province, Poshan, avalanche_
 
 ### [United States Census Bureau has estimated the world population up to 7 billion people. ](/news/2012/03/12/united-states-census-bureau-has-estimated-the-world-population-up-to-7-billion-people.md)
 _Context: US Census Bureau headquarters, world's population_

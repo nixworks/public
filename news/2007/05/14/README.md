@@ -10,13 +10,13 @@ _Context: Colombian National Police, Guillermo Chavez, Jorge Daniel Castro, wire
 _Context: CHP, DYP, Hakkri, Kurdistan Workers' Party, MHP, Turkey, Van, death threat, general elections, ruling party, was mailed_
 
 ### [ United States Deputy Attorney General Paul McNulty will resign, two Justice Department officials tell The Associated Press. ](/news/2007/05/14/united-states-deputy-attorney-general-paul-mcnulty-will-resign-two-justice-department-officials-tell-the-associated-press.md)
-_Context: Deputy Attorney General, Paul McNulty, U.S. Justice Department_
+_Context: Deputy Attorney General, Paul McNulty, U.S. Department of Justice_
 
 ### [ Top Palestinian Security Official, Hani Kawasmeh, quits in protest on Monday as Sunday's ceasefire is broken, with fighting across Gaza between Hamas and Fatah killing 8 and wounding 40. Fighting began as both sides set up security checkpoints and kidnapped rivals as bargaining chips. ](/news/2007/05/14/top-palestinian-security-official-hani-kawasmeh-quits-in-protest-on-monday-as-sunday-s-ceasefire-is-broken-with-fighting-across-gaza-bet.md)
 _Context: Fatah, Hamas, Hani Kawasmeh, Palestinian, ceasefire_
 
 ### [ President George W. Bush orders United States government agencies to take regulatory steps to reduce automobile emissions. ](/news/2007/05/14/president-george-w-bush-orders-united-states-government-agencies-to-take-regulatory-steps-to-reduce-automobile-emissions.md)
-_Context: Auto, George W. Bush, U.S. President, United States_
+_Context: Auto, George W. Bush, President of the United States, United States_
 
 ### [ The U.S. military is to block troops from using YouTube and MySpace and 11 other popular websites for sharing photos, video clips and messages. ](/news/2007/05/14/the-u-s-military-is-to-block-troops-from-using-youtube-and-myspace-and-11-other-popular-websites-for-sharing-photos-video-clips-and-messa.md)
 _Context: MySpace, YouTube, military, video clips_
@@ -25,7 +25,7 @@ _Context: MySpace, YouTube, military, video clips_
 _Context: 2007 Pakistan unrest, Karachi, Pakistan_
 
 ### [ The House of Councillors passes rules for revising the pacifist Constitution of Japan, a central goal of Prime Minister Shinzo Abe. ](/news/2007/05/14/the-house-of-councillors-passes-rules-for-revising-the-pacifist-constitution-of-japan-a-central-goal-of-prime-minister-shinzo-abe.md)
-_Context: House of Councillors, Prime Minister, Shinzo Abe, constitution, pacifist_
+_Context: House of Councillors, Prime Minister of Japan, Shinzo Abe, constitution, pacifist_
 
 ### [ Ten people die in an explosion and fire in a cafe in Orsk, Russia. ](/news/2007/05/14/ten-people-die-in-an-explosion-and-fire-in-a-cafe-in-orsk-russia.md)
 _Context: Orsk, Russia, cafe_

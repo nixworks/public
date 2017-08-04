@@ -55,7 +55,7 @@ Iran has demonstrated its hold over the future of Iraqi politics, telling Nouri 
 _Context: Convention on Biological Diversity, Holocene extinction, Japan, United Nations_
 
 ### [The Prime Minister of Japan Naoto Kan voices concerns about rowdy anti-Japanese protests in China, sparked by a recent territorial dispute. ](/news/2010/10/18/the-prime-minister-of-japan-naoto-kan-voices-concerns-about-rowdy-anti-japanese-protests-in-china-sparked-by-a-recent-territorial-dispute.md)
-_Context: Chinese, Japan, Naoto Kan, Prime Minister_
+_Context: Chinese, Japan, Naoto Kan, Prime Minister of Japan_
 
 ### [The United Arab Emirates' highest court rules in a domestic violence case that a man can beat his wife and children as long as he leaves no physical marks. ](/news/2010/10/18/the-united-arab-emirates-highest-court-rules-in-a-domestic-violence-case-that-a-man-can-beat-his-wife-and-children-as-long-as-he-leaves-no.md)
 A man can beat his wife and kids as long as no physical marks are left, the highest court in the United Arab Emirates has found.

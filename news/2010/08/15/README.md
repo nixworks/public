@@ -19,7 +19,7 @@ Prime minister calls for end to violence in speech marking independence day.
 _Context: Miranshah, North Waziristan, Pakistan, Taliban, United States_
 
 ### [Ayman al-Zawahiri, speaking via an audio message, criticises the Turkish government for what he says is co-operation with Israel, as well as "killing Muslims in Afghanistan". ](/news/2010/08/15/ayman-al-zawahiri-speaking-via-an-audio-message-criticises-the-turkish-government-for-what-he-says-is-co-operation-with-israel-as-well-as.md)
-_Context: Afghanistan, Ayman al-Zawahiri, Israel, Muslim, Turkey_
+_Context: Afghanistan's, Ayman al-Zawahiri, Israel, Muslim, Turkey_
 
 ### [No people are killed in two blasts targeting Televisa in Monterrey and Matamoros. ](/news/2010/08/15/no-people-are-killed-in-two-blasts-targeting-televisa-in-monterrey-and-matamoros.md)
 Mexican television network Televisa is targeted in explosive attacks in two different cities.
@@ -79,7 +79,7 @@ _Context: African National Congress, Democratic Alliance, Independent Democrats,
 _Context: Australian Prime Minister, Julia Gillard, climate change_
 
 ### [The entire cabinet of Japanese Prime Minister Naoto Kan avoids visiting Yasukuni Shrine on the anniversary of Japan's surrender in World War II. ](/news/2010/08/15/the-entire-cabinet-of-japanese-prime-minister-naoto-kan-avoids-visiting-yasukuni-shrine-on-the-anniversary-of-japan-s-surrender-in-world-war.md)
-_Context: Japan, Japan's surrender in World War II, Naoto Kan, Prime Minister, Tokyo, Yasukuni Shrine_
+_Context: Japan, Japan's surrender in World War II, Naoto Kan, Prime Minister of Japan, Tokyo, Yasukuni Shrine_
 
 ## [Previous Day...](/news/2010/08/14/index.md)
 

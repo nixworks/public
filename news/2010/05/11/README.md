@@ -19,7 +19,7 @@ _Context: North Waziristan, Pakistan, Times Square bomber_
 Pope Benedict XVI has begun a four-day trip to Portugal, during which he is likely to call for solidarity across Europe&#39;s struggling economies and urge people to uphold Christian values.
 
 ### [Gulf of Mexico oil spill:United States Coast Guard commander, Admiral Thad Allen, is appointed by President Obama to lead the federal response to the Gulf of Mexico oil spill. ](/news/2010/05/11/gulf-of-mexico-oil-spill-punited-states-coast-guard-commander-admiral-thad-allen-is-appointed-by-president-obama-to-lead-the-federal-respo.md)
-_Context: Barack Obama, Deepwater Horizon oil spill, Thad Allen, U.S. Coast Guard, U.S. President, admiral_
+_Context: Barack Obama, Deepwater Horizon oil spill, President of the United States, Thad Allen, U.S. Coast Guard, admiral_
 
 ### [Air travel disruption after the 2010 Eyjafjallajkull eruption:Four airports in the Canary Islands and three in southern Spain are closed, Spain's air traffic control agency Aena said. ](/news/2010/05/11/air-travel-disruption-after-the-2010-eyjafjallajokull-eruption-pfour-airports-in-the-canary-islands-and-three-in-southern-spain-are-closed.md)
 _Context: Aena, Air travel disruption after the 2010 Eyjafjallajkull eruption, Canary Islands', Spain_
@@ -37,7 +37,7 @@ _Context: 2010 FIFA World Cup, Sipho Nkumane, South Africa national football tea
 _Context: AIDS, Chinese, Chinese human rights, dissident_
 
 ### [Pakistan's ambassador to Iran, Mohammad Bakhsh Abbasi, is hospitalised after becoming injured in an attack by an Afghan on his car in Tehran. ](/news/2010/05/11/pakistan-s-ambassador-to-iran-mohammad-bakhsh-abbasi-is-hospitalised-after-becoming-injured-in-an-attack-by-an-afghan-on-his-car-in-tehran.md)
-_Context: Afghanistan, Iran, Mohammad Bakhsh Abbasi, Pakistan, Tehran_
+_Context: Afghanistan's, Iran, Mohammad Bakhsh Abbasi, Pakistan, Tehran_
 
 ### [A nearly $1 trillion rescue package to prevent the Greek sovereign debt crisis spreading in Europe will impact various facets of the Chinese economy. ](/news/2010/05/11/a-nearly-1-trillion-rescue-package-to-prevent-the-greek-sovereign-debt-crisis-spreading-in-europe-will-impact-various-facets-of-the-chinese.md)
 _Context: Economy of the People's Republic of China, Greek economic crisis, economically troubled euro-zone nations_

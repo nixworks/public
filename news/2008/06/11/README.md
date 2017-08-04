@@ -52,7 +52,7 @@ President George W. Bush said on Wednesday he wants to solve the Iran issue peac
 _Context: British House of Commons, Labour, anti-terror law, backbench, preventive detention_
 
 ### [ Japan's House of Councillors passes a censure motion against the Prime Minister of Japan Yasuo Fukuda, the first such motion to be passed since World War II. ](/news/2008/06/11/japan-s-house-of-councillors-passes-a-censure-motion-against-the-prime-minister-of-japan-yasuo-fukuda-the-first-such-motion-to-be-passed-s.md)
-_Context: House of Councillors, Japan, Prime Minister, World War II, Yasuo Fukuda, censure motion_
+_Context: House of Councillors, Japan, Prime Minister of Japan, World War II, Yasuo Fukuda, censure motion_
 
 ### [ Afghanistan: Airstrikes targeting militants have killed at least 31 people including some civilians. ](/news/2008/06/11/afghanistan-p-airstrikes-targeting-militants-have-killed-at-least-31-people-including-some-civilians.md)
 Pakistan lodged a strong protest with the United States over what it called an unprovoked and cowardly air strike by U.S. forces in Afghanistan that killed 11 Pakistani soldiers at a border post.

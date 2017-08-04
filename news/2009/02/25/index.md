@@ -4,10 +4,10 @@
 _Context: Darfur, Office for the Coordination of Humanitarian Affairs, United Nations, Zam Zam, refugee, refugee camp_
 
 ### [ United States President Barack Obama nominates former Washington Governor Gary Locke to serve as the next Secretary of Commerce. ](/news/2009/02/25/united-states-president-barack-obama-nominates-former-washington-governor-gary-locke-to-serve-as-the-next-secretary-of-commerce.md)
-_Context: Barack Obama, Gary Locke, Governor, U.S. President, United States, United States Secretary of Commerce, Washington_
+_Context: Barack Obama, Gary Locke, Governor, President of the United States, United States, United States Secretary of Commerce, Washington_
 
 ### [ An improvised explosive device kills three British Army soldiers in the Gerishk District of Afghanistan's Helmand Province. ](/news/2009/02/25/an-improvised-explosive-device-kills-three-british-army-soldiers-in-the-gerishk-district-of-afghanistan-s-helmand-province.md)
-_Context: Afghanistan, British Army, Gerishk District, Helmand Province, United Kingdom, roadside bomb_
+_Context: Afghanistan's, British Army, Gerishk District, Helmand Province, United Kingdom, roadside bomb_
 
 ### [ Three people set themselves on fire near Tiananmen Square in Beijing, China. ](/news/2009/02/25/three-people-set-themselves-on-fire-near-tiananmen-square-in-beijing-china.md)
 _Context: Beijing, Chinese, Tiananmen Square, sets herself alight_
@@ -52,7 +52,7 @@ _Context: Al-Shabaab, Somali Civil War, Somalia, radical Islamists, terrorism_
 _Context: Mexico, United States, drug cartel_
 
 ### [ A Syrian arms dealer is jailed for 30 years for conspiring to sell weapons  to Colombia's Revolutionary Armed Forces. ](/news/2009/02/25/a-syrian-arms-dealer-is-jailed-for-30-years-for-conspiring-to-sell-weapons-to-colombia-s-revolutionary-armed-forces.md)
-_Context: Colombia, Revolutionary Armed Forces of Colombia, Syria, arms sales, conspiracy, weapon_
+_Context: Colombia, Revolutionary Armed Forces of Colombia, Syria, conspiracy, defense contractor, weapon_
 
 ### [ Former Indian Communications Minister Sukhram is jailed for three years for corruption. ](/news/2009/02/25/former-indian-communications-minister-sukhram-is-jailed-for-three-years-for-corruption.md)
 _Context: India, Telecommunications Minister, anti-corruption_

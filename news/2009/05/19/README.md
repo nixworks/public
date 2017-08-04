@@ -28,7 +28,7 @@ _Context: ASEAN, Aung San Suu Kyi, General Secretary, National League for Democr
 _Context: Ethiopia, Ethiopian Army, Somalia, War in Somalia (2009-)_
 
 ### [ Former Canadian Prime Minister Brian Mulroney testifies about his relationship with arms dealer Karlheinz Schreiber. ](/news/2009/05/19/former-canadian-prime-minister-brian-mulroney-testifies-about-his-relationship-with-arms-dealer-karlheinz-schreiber.md)
-_Context: Brian Mulroney, Canada, Canadian Prime Minister, Karlheinz Schreiber, arms sales, relationship_
+_Context: Brian Mulroney, Canada, Canadian Prime Minister, Karlheinz Schreiber, defense contractor, relationship_
 
 ### [ Manmohan Singh of the National Congress is reelected as Prime Minister of India. ](/news/2009/05/19/manmohan-singh-of-the-national-congress-is-reelected-as-prime-minister-of-india.md)
 _Context: India, India's Prime Minister, Indian National Congress, Manmohan Singh, becomes_

@@ -7,7 +7,7 @@ _Context: Australia, Islamabad, Pakistan, attacks and protests, embassies_
 A warrant has been issued for the arrest of firebrand South African politician Julius Malema, his lawyer says, following a corruption investigation.
 
 ### [The Prime Minister of Japan, Yoshihiko Noda, wins a leadership ballot held by the Democratic Party of Japan. ](/news/2012/09/21/the-prime-minister-of-japan-yoshihiko-noda-wins-a-leadership-ballot-held-by-the-democratic-party-of-japan.md)
-_Context: Democratic Party, Prime Minister, Yoshihiko Noda_
+_Context: Democratic Party, Prime Minister of Japan, Yoshihiko Noda_
 
 ### [Witnesses see Ansar al-Sharia Islamists in Benghazi evacuate their headquarters after demonstrations by thousands of Libyan people. ](/news/2012/09/21/witnesses-see-ansar-al-sharia-islamists-in-benghazi-evacuate-their-headquarters-after-demonstrations-by-thousands-of-libyan-people.md)
 _Context: Ansar al-Sharia, Benghazi, Libya_

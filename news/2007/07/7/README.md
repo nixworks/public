@@ -13,7 +13,7 @@ _Context: Java, bus_
 _Context: 2007 Amirli bombing, Amirli, Iraq, Shiite, Turkmen, suicide bomber_
 
 ### [ The Government of Afghanistan states that it will investigate claims that United States and NATO air strikes caused heavy civilian casualties in Farah Province and Kunar Province. ](/news/2007/07/7/the-government-of-afghanistan-states-that-it-will-investigate-claims-that-united-states-and-nato-air-strikes-caused-heavy-civilian-casualti.md)
-_Context: Afghanistan, Farah Province, Kunar Province, NATO, United States_
+_Context: Afghanistan's, Farah Province, Kunar Province, NATO, United States_
 
 ### [ Live Earth gets underway with concerts in Australia, the United States, Germany, South Africa, the United Kingdom, Brazil, Japan and China. ](/news/2007/07/7/live-earth-gets-underway-with-concerts-in-australia-the-united-states-germany-south-africa-the-united-kingdom-brazil-japan-and-china.md)
 _Context: Australia, Brazil, Chinese, Germany, Japan, Live Earth, South Africa, United Kingdom, United States_

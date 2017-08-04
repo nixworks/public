@@ -25,7 +25,7 @@ _Context: $, yuan_
 A Manhattan federal judge dismissed part of a lawsuit by Lions Gate Entertainment Corp LGF.N against Carl Icahn that accused the activist investor of plotting to merge the studio with Metro-Goldwyn-Mayer.
 
 ### [The Prime Minister of Japan Naoto Kan instructs the Governor of Fukushima Prefecture Yuhei Sato to advise residents to avoid eating leafy vegetables, due to the Fukushima I nuclear accidents. ](/news/2011/03/23/the-prime-minister-of-japan-naoto-kan-instructs-the-governor-of-fukushima-prefecture-ya-hei-sata-to-advise-residents-to-avoid-eating-leafy.md)
-_Context: Fukushima I nuclear accidents, Fukushima Prefecture, Governor, Naoto Kan, Prime Minister, Yuhei Sato, leafy vegetables_
+_Context: Fukushima I nuclear accidents, Fukushima Prefecture, Governor, Naoto Kan, Prime Minister of Japan, Yuhei Sato, leafy vegetables_
 
 ### [The Tokyo Metropolitan Government Bureau of Waterworks says levels of radioactive iodine in city tap water are two times the recommended limit for infants. ](/news/2011/03/23/the-tokyo-metropolitan-government-bureau-of-waterworks-says-levels-of-radioactive-iodine-in-city-tap-water-are-two-times-the-recommended-lim.md)
 Tokyo residents were warned not to give babies tap water because of radiation leaking from a nuclear plant crippled in the earthquake and tsunami that devastated northeast Japan.

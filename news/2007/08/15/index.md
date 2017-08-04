@@ -13,7 +13,7 @@ _Context: Lesser Antilles, Martinique, St. Lucia, Tropical Storm Dean, hurricane
 _Context: Gaza Strip, Israel, Israeli Defence Force_
 
 ### [ President of the United States George W. Bush, President of Mexico Felipe Calderon and the Prime Minister of Canada Stephen Harper to meet later this month under the North American Security and Prosperity Partnership (SPP) mechanism to discuss economic and security issues. ](/news/2007/08/15/president-of-the-united-states-george-w-bush-president-of-mexico-felipe-caldera3n-and-the-prime-minister-of-canada-stephen-harper-to-meet.md)
-_Context: Canadian Prime Minister, Felipe Calderon, George W. Bush, President, Security and Prosperity Partnership of North America, Stephen Harper, U.S. President_
+_Context: Canadian Prime Minister, Felipe Calderon, George W. Bush, President, President of the United States, Security and Prosperity Partnership of North America, Stephen Harper_
 
 ### [ Jack McConnell resigns as the leader of the Scottish Labour Party with Wendy Alexander likely to be elected as his replacement as leader. ](/news/2007/08/15/jack-mcconnell-resigns-as-the-leader-of-the-scottish-labour-party-with-wendy-alexander-likely-to-be-elected-as-his-replacement-as-leader.md)
 _Context: Jack McConnell, Scottish Labour Party, Wendy Alexander_
@@ -64,7 +64,7 @@ _Context: Charles Murigande, Democratic Forces for the Liberation of Rwanda, Dem
 _Context: Germany, Kabul, War in Afghanistan (2001-present)_
 
 ### [ On the 62nd anniversary of Japan's surrender in World War II, Prime Minister Shinzo Abe and his ministers do not visit the Yasukuni Shrine. ](/news/2007/08/15/on-the-62nd-anniversary-of-japan-s-surrender-in-world-war-ii-prime-minister-shinzo-abe-and-his-ministers-do-not-visit-the-yasukuni-shrine.md)
-_Context: Japan, Prime Minister, Shinzo Abe, World War II, Yasukuni Shrine_
+_Context: Japan, Prime Minister of Japan, Shinzo Abe, World War II, Yasukuni Shrine_
 
 ### [ Government sources reveal that the Russian administration of Boris Yeltsin sent unofficial signals to Finland at the end of 1991 about returning Karelia to Finland. ](/news/2007/08/15/government-sources-reveal-that-the-russian-administration-of-boris-yeltsin-sent-unofficial-signals-to-finland-at-the-end-of-1991-about-retu.md)
 _Context: Boris Yeltsin, Finland, Karelia, Russia_

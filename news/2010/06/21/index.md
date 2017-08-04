@@ -43,7 +43,7 @@ _Context: Iraq, Shirqat_
 _Context: Gizab, Taliban, United States, Washington Post_
 
 ### [Three Australian soldiers and a United States army soldier are killed in a helicopter crash in Afghanistan with nine NATO casualties overall. ](/news/2010/06/21/three-australian-soldiers-and-a-united-states-army-soldier-are-killed-in-a-helicopter-crash-in-afghanistan-with-nine-nato-casualties-overall.md)
-_Context: Afghanistan, Australia, NATO, United States soldiers, helicopter, soldiers_
+_Context: Afghanistan's, Australia, NATO, United States soldiers, helicopter, soldiers_
 
 ### [The northernmost radiation detection station of the South Korean Institute of Nuclear Safety claims to have detected an eightfold increase in the radioactive substance xenon. ](/news/2010/06/21/the-northernmost-radiation-detection-station-of-the-south-korean-institute-of-nuclear-safety-claims-to-have-detected-an-eightfold-increase-i.md)
 Right after North Korea claimed a successful nuclear fusion test on May 12, the ..

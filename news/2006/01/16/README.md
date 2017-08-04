@@ -1,7 +1,7 @@
 ## [2006-01-16](/news/2006/01/16/index.md)
 
 ### [ Former United States President Gerald Ford is hospitalized with pneumonia. ](/news/2006/01/16/former-united-states-president-gerald-ford-is-hospitalized-with-pneumonia.md)
-_Context: Gerald Ford, U.S. President, pneumonia_
+_Context: Gerald Ford, President of the United States, pneumonia_
 
 ### [ Rizgar Mohammed Amin, the chief judge in the Saddam Hussein trial, tenders his resignation, following criticism of his handling of the trial. ](/news/2006/01/16/rizgar-mohammed-amin-the-chief-judge-in-the-saddam-hussein-trial-tenders-his-resignation-following-criticism-of-his-handling-of-the-tria.md)
 _Context: Rizgar Mohammed Amin, Saddam Hussein, Trials of Saddam Hussein_
@@ -13,13 +13,13 @@ _Context: Niger, United Nations, West Africa_
 _Context: European Parliament, European Union, Strasbourg, dockworker, strike_
 
 ### [ Former US Vice President Al Gore blasts President George W. Bush's policy of spying on American citizen conversations with suspected overseas terrorists, saying President Bush "repeatedly and persistently" broke the law in connection with the NSA warrantless surveillance controversy, says the United States Constitution is in danger. ](/news/2006/01/16/former-us-vice-president-al-gore-blasts-president-george-w-bush-s-policy-of-spying-on-american-citizen-conversations-with-suspected-overse.md)
-_Context: Al Gore, George W. Bush, U.S. President, U.S. Vice President, United States Constitution, warrantless wiretapping_
+_Context: Al Gore, George W. Bush, President of the United States, U.S. Vice President, United States Constitution, warrantless wiretapping_
 
 ### [ The Premier of Western Australia, Geoff Gallop, resigns his office after announcing he is suffering from depression. ](/news/2006/01/16/the-premier-of-western-australia-geoff-gallop-resigns-his-office-after-announcing-he-is-suffering-from-depression.md)
 _Context: Geoff Gallop, Premier, depression_
 
 ### [ At least 27 people are killed in two suicide bombings in Afghanistan. ](/news/2006/01/16/at-least-27-people-are-killed-in-two-suicide-bombings-in-afghanistan.md)
-_Context: Afghanistan_
+_Context: Afghanistan's_
 
 ### [ Ellen Johnson Sirleaf is sworn in as Liberia's new president. She becomes Africa's first female elected head of state. ](/news/2006/01/16/ellen-johnson-sirleaf-is-sworn-in-as-liberia-s-new-president-she-becomes-africa-s-first-female-elected-head-of-state.md)
 _Context: Ellen Johnson Sirleaf, Liberia, President_

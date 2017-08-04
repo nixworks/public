@@ -16,7 +16,7 @@ _Context: Bangladesh, Bay of Bengal, India_
 _Context: Ben Bernanke, Federal Reserve, United States, interest rate_
 
 ### [ Shinzo Abe is elected as party leader of the Liberal Democratic Party in Japan, replacing the current Prime Minister Junichiro Koizumi. He will likely be elected as the new prime minister on 30 September 2006. ](/news/2006/09/20/shinzo-abe-is-elected-as-party-leader-of-the-liberal-democratic-party-in-japan-replacing-the-current-prime-minister-junichiro-koizumi-he.md)
-_Context: Japan, Junichiro Koizumi, Liberal Democratic Party, Prime Minister, Shinzo Abe_
+_Context: Japan, Junichiro Koizumi, Liberal Democratic Party, Prime Minister of Japan, Shinzo Abe_
 
 ### [ Thailand coup d'tat: The leader of the military coup in Thailand, General Sonthi Boonyaratglin, declares that a new civilian prime minister will be appointed in two weeks to replace the deposed Thaksin Shinawatra. ](/news/2006/09/20/thailand-coup-d-etat-p-the-leader-of-the-military-coup-in-thailand-general-sonthi-boonyaratglin-declares-that-a-new-civilian-prime-minist.md)
 _Context: General, Sonthi Boonyaratglin, Thailand, Thaksin, civilian, coup_

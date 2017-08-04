@@ -16,7 +16,7 @@ _Context: European Commission, Greek, Moody's, Portugal, Stavros Lambrinidis_
 _Context: Japan, Jiji Press, nuclear reactor_
 
 ### [Authorities report that a cargo plane has crashed in eastern Afghanistan with casualties feared. ](/news/2011/07/6/authorities-report-that-a-cargo-plane-has-crashed-in-eastern-afghanistan-with-casualties-feared.md)
-_Context: Afghanistan_
+_Context: Afghanistan's_
 
 ### [7 people are killed during heavy floods in Sichuan Province in the People's Republic of China. ](/news/2011/07/6/7-people-are-killed-during-heavy-floods-in-sichuan-province-in-the-people-s-republic-of-china.md)
 _Context: Chinese, Sichuan Province, heavy flood_

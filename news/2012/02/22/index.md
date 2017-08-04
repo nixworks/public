@@ -1,7 +1,7 @@
 ## [2012-02-22](/news/2012/02/22/index.md)
 
 ### [Afghanistan Quran protests:Hundreds of Afghans hold violent protests against the alleged burning of Qurans at the Bagram Airbase north of Kabul. ](/news/2012/02/22/afghanistan-quran-protests-phundreds-of-afghans-hold-violent-protests-against-the-alleged-burning-of-qurans-at-the-bagram-airbase-north-of-k.md)
-_Context: Afghanistan, Bagram Airbase, Kabul, Quran_
+_Context: Afghanistan's, Bagram Airbase, Kabul, Quran_
 
 ### [2011-2012 Syrian uprising:Two Western journalists are killed in the Syrian city of Homs, American Marie Colvin working for the ''Sunday Times'' and French photographer Remi Ochlik. ](/news/2012/02/22/2011a2012-syrian-uprising-ptwo-western-journalists-are-killed-in-the-syrian-city-of-homs-american-marie-colvin-working-for-the-sunday-t.md)
 American correspondent Marie Colvin and French photographer Remi Ochlik were killed in the besieged Syrian city of Homs on Wednesday when rockets fired by government forces hit the house they were staying in, opposition activists and witnesses said.

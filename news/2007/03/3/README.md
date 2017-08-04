@@ -4,7 +4,7 @@
 _Context: Copenhagen, Denmark, Nrrebro, Ungdomshuset, evict_
 
 ### [ United States President Bush declares Coffee County, Alabama, hit by a tornado last Thursday, to be a federal disaster area. ](/news/2007/03/3/united-states-president-bush-declares-coffee-county-alabama-hit-by-a-tornado-last-thursday-to-be-a-federal-disaster-area.md)
-_Context: Coffee County, Alabama, George W. Bush, U.S. President, United States, federal disaster area, tornado_
+_Context: Coffee County, Alabama, George W. Bush, President of the United States, United States, federal disaster area, tornado_
 
 ### [ A total lunar eclipse is visible from the Midwestern United States to Southeast Asia from 22:44 to 23:58 GMT. ](/news/2007/03/3/a-total-lunar-eclipse-is-visible-from-the-midwestern-united-states-to-southeast-asia-from-22-44-to-23-58-gmt.md)
 _Context: Asia, GMT, lunar eclipse, midwestern_

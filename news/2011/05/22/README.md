@@ -7,7 +7,7 @@ Gulf nations suspend mediation efforts after Saleh fails to sign exit pact and w
 _Context: Libya, Libyan Civil War, Muammar Gaddafi, NATO, Tripoli_
 
 ### [Gunmen wearing explosive suicide vests storm a government building in Khost, Afghanistan. ](/news/2011/05/22/gunmen-wearing-explosive-suicide-vests-storm-a-government-building-in-khost-afghanistan.md)
-_Context: Afghan government, Afghanistan, Khost, suicide bomber_
+_Context: Afghan government, Afghanistan's, Khost, suicide bomber_
 
 ### [A series of bomb attacks around the Iraqi capital of Baghdad kills at least 18 people, including 7 policemen. ](/news/2011/05/22/a-series-of-bomb-attacks-around-the-iraqi-capital-of-baghdad-kills-at-least-18-people-including-7-policemen.md)
 More than a dozen bomb attacks in and around Baghdad left 18 people dead and more than 80 wounded.
@@ -25,7 +25,7 @@ _Context: Karachi, Pakistan Air Force_
 _Context: Iraq, Royal Navy, United Kingdom, military operation_
 
 ### [The Taliban warn that Kazakhstan's decision to send troops to Afghanistan will have "severe consequences". ](/news/2011/05/22/the-taliban-warn-that-kazakhstan-s-decision-to-send-troops-to-afghanistan-will-have-severe-consequences.md)
-_Context: Afghanistan, Kazakhstan, Taliban_
+_Context: Afghanistan's, Kazakhstan, Taliban_
 
 ### [''The Tree of Life'', directed by Terrence Malick and starring Brad Pitt, wins the Palme d'Or at the 2011 Cannes Film Festival. ](/news/2011/05/22/the-tree-of-life-directed-by-terrence-malick-and-starring-brad-pitt-wins-the-palme-d-or-at-the-2011-cannes-film-festival.md)
 _Context: 2011 Cannes Film Festival, Brad Pitt, Palme d'Or, Terrence Malick, The Tree of Life_
@@ -46,7 +46,7 @@ _Context: Government of Iceland, Grmsvtn, Iceland, volcanic activity_
 Powerful storm blew into metro, killing 1, injuring 30 and putting North Side under curfew.
 
 ### [The Prime Minister of Japan Naoto Kan, the Premier of China Wen Jiabao and the President of South Korea Lee Myung Bak meet in Japan and agree to improve cooperation on nuclear and economic issues. ](/news/2011/05/22/the-prime-minister-of-japan-naoto-kan-the-premier-of-china-wen-jiabao-and-the-president-of-south-korea-lee-myung-bak-meet-in-japan-and-agre.md)
-_Context: Japan, Lee Myung-bak, Naoto Kan, Premier of China, Prime Minister, South Korean President, Wen Jiabao_
+_Context: Japan, Lee Myung-bak, Naoto Kan, Premier of China, Prime Minister of Japan, South Korean President, Wen Jiabao_
 
 ### [Hamid Baqai, the Chief of Staff of the Iranian President, is banned from public office for four years, after it was exposed that he was involved in a multi-million dollar embezzlement during the construction of a building on Kish Island in 2010. ](/news/2011/05/22/hamid-baqai-the-chief-of-staff-of-the-iranian-president-is-banned-from-public-office-for-four-years-after-it-was-exposed-that-he-was-invo.md)
 _Context: Hamid Baqai, Kish Island, President_
@@ -82,7 +82,7 @@ _Context: British government_
 _Context: People's Party, Socialist Workers' Party, Spain, local and regional elections_
 
 ### [Tim Pawlenty, ex-Governor of Minnesota, announces his candidacy for the Republican nomination as President of the United States. ](/news/2011/05/22/tim-pawlenty-ex-governor-of-minnesota-announces-his-candidacy-for-the-republican-nomination-as-president-of-the-united-states.md)
-_Context: Minnesota Governor, Tim Pawlenty, U.S. President, candidacy, nomination_
+_Context: Minnesota Governor, President of the United States, Tim Pawlenty, candidacy, nomination_
 
 ## [Previous Day...](/news/2011/05/21/index.md)
 

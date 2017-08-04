@@ -10,7 +10,7 @@ _Context: Wikimania_
 RTÉ News has learned that the three Irishmen who were found guilty of training FARC rebels in Colombia have returned to Ireland.
 
 ### [ Conflict in Afghanistan: Al-Arabiya television broadcasts video footage shot by al-Qaeda which appears to show the downing of a US Chinook helicopter in Afghanistan. ](/news/2005/08/5/conflict-in-afghanistan-al-arabiya-television-broadcasts-video-footage-shot-by-al-qaeda-which-appears-to-show-the-downing-of-a-us-chinook.md)
-_Context: Afghanistan, Al Arabiya, Chinook helicopter, War in Afghanistan (2001-present), al-Qaeda_
+_Context: Afghanistan's, Al Arabiya, Chinook helicopter, War in Afghanistan (2001-present), al-Qaeda_
 
 ### [ Yahoo! has introduced a test version of a new search service Yahoo! Audio Search that it claims can comb through 50 million music, voice and other audio files. ](/news/2005/08/5/yahoo-has-introduced-a-test-version-of-a-new-search-service-yahoo-audio-search-that-it-claims-can-comb-through-50-million-music-voice-an.md)
 _Context: Yahoo!, Yahoo! Audio Search_

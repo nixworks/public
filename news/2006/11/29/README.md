@@ -22,7 +22,7 @@ _Context: 11 March, 2004 Madrid attacks, Brandon Mayfield, FBI_
 _Context: Al-Qaida in Iraq, Crusader, God, Holy See, Islam, Pope Benedict XVI, Turkey_
 
 ### [ Former Prime Minister of Russia Yegor Gaidar is recovering in hospital in Moscow from a mystery illness contracted in Ireland prompting speculation of a connection with the poisoning of Alexander Litvinenko. ](/news/2006/11/29/former-prime-minister-of-russia-yegor-gaidar-is-recovering-in-hospital-in-moscow-from-a-mystery-illness-contracted-in-ireland-prompting-spe.md)
-_Context: Alexander Litvinenko, Ireland, Moscow, Prime Minister, Yegor Gaidar_
+_Context: Alexander Litvinenko, Ireland, Moscow, Prime Minister of Russia, Yegor Gaidar_
 
 ### [ After Islamists win a large number of seats in the first round of Bahrain's parliamentary election last Saturday, rumours sweep the Kingdom that leaders of the Shia opposition party, Al Wefaq, will join the government in a cabinet reshuffle. ](/news/2006/11/29/after-islamists-win-a-large-number-of-seats-in-the-first-round-of-bahrain-s-parliamentary-election-last-saturday-rumours-sweep-the-kingdom.md)
 _Context: Al Wefaq, parliamentary elections, radical Islamists_

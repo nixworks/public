@@ -34,7 +34,7 @@ _Context: Mansalay, Mindoro, Philippines, communism_
 With 83,478 votes counted following Saturday&#039;s referendum in Iceland, 78,092 are votes to reject December&#039;s Icesave law and 1,284 (1.5 percent) have v...
 
 ### [US Defense Secretary Robert Gates reviews allegations of misconduct in Afghanistan by the private military company formerly known as Blackwater, Xe Services LLC. ](/news/2010/03/6/us-defense-secretary-robert-gates-reviews-allegations-of-misconduct-in-afghanistan-by-the-private-military-company-formerly-known-as-blackwa.md)
-_Context: Afghanistan, Blackwater Worldwide, Robert Gates, Secretary of Defense, United States, civilian contractor_
+_Context: Afghanistan's, Blackwater Worldwide, Robert Gates, Secretary of Defense, United States, civilian contractor_
 
 ## [Previous Day...](/news/2010/03/5/index.md)
 

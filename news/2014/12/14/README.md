@@ -34,7 +34,7 @@ _Context: Fethullah Gulen, President, Recep Tayyip Erdogan, Turkey, United State
 _Context: 2014 Sydney hostage crisis, Australia, Sydney_
 
 ### [Japanese citizens vote in a general election. Prime Minister Shinzo Abe's Liberal Democratic Party and its junior coalition partner win 325 seats out of 475 and thus a new term. ](/news/2014/12/14/japanese-citizens-vote-in-a-general-election-prime-minister-shinzo-abe-s-liberal-democratic-party-and-its-junior-coalition-partner-win-325.md)
-_Context: 2014, Japanese, Komeito, Liberal Democratic Party, Prime Minister, Shinzo Abe_
+_Context: 2014, Japanese, Komeito, Liberal Democratic Party, Prime Minister of Japan, Shinzo Abe_
 
 ### [Laurent Lamothe resigns as Prime Minister of Haiti along with several ministers following violent protests and a commission's call for him to step down. The protesters have been demanding the holding of early elections. ](/news/2014/12/14/laurent-lamothe-resigns-as-prime-minister-of-haiti-along-with-several-ministers-following-violent-protests-and-a-commission-s-call-for-him-t.md)
 PORT-AU-PRINCE, Haiti (AP) — Prime Minister Laurent Lamothe announced early Sunday that he was resigning 

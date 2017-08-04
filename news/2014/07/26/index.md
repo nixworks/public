@@ -7,7 +7,7 @@ _Context: 2014 Israel-Gaza conflict, Gaza Strip, Hamas, Israel_
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.
 
 ### [Taliban insurgency:Insurgents stop minibuses in Ghor Province, Afghanistan and execute 14 Shiite Muslims. ](/news/2014/07/26/taliban-insurgency-pinsurgents-stop-minibuses-in-ghar-province-afghanistan-and-execute-14-shiite-muslims.md)
-_Context: Afghanistan, Ghor Province, Shi'ite, Taliban insurgency_
+_Context: Afghanistan's, Ghor Province, Shi'ite, Taliban insurgency_
 
 ### [2014 West Africa Ebola outbreak:Dr. Kent Brantly, the medical director for Samaritan's Purse in Liberia, tests positive for the virus. ](/news/2014/07/26/2014-west-africa-ebola-outbreak-pdr-kent-brantly-the-medical-director-for-samaritan-s-purse-in-liberia-tests-positive-for-the-virus.md)
 _Context: 2014 West Africa Ebola outbreak, Samaritan's Purse_

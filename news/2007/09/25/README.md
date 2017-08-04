@@ -23,7 +23,7 @@ _Context: Halo 3, Xbox 360_
 _Context: Mandalay, Myanmar_
 
 ### [ The House of Representatives of Japan elects Yasuo Fukuda as the new Prime Minister of Japan. ](/news/2007/09/25/the-house-of-representatives-of-japan-elects-yasuo-fukuda-as-the-new-prime-minister-of-japan.md)
-_Context: Prime Minister, Yasuo Fukuda, the Lower House of the Diet_
+_Context: Prime Minister of Japan, Yasuo Fukuda, the Lower House of the Diet_
 
 ### [ The Supreme Court of Indonesia rejects the final appeals of Imam Samudra and Mukhlas, two men sentenced to death for their roles in the 2002 Bali bombings. ](/news/2007/09/25/the-supreme-court-of-indonesia-rejects-the-final-appeals-of-imam-samudra-and-mukhlas-two-men-sentenced-to-death-for-their-roles-in-the-200.md)
 _Context: 2002 Bali bombings, Imam Samudra, Indonesia, Mukhlas, Supreme Court_

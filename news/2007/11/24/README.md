@@ -28,7 +28,7 @@ _Context: Garry Kasparov, Moscow, Russia, The Other Russia, opposition leader_
 _Context: Cardinal, Pope, Pope Benedict XVI, Vatican, Vatican City_
 
 ### [ At least six people, most of them children, are killed by a suicide bomber in Paghman, Afghanistan. ](/news/2007/11/24/at-least-six-people-most-of-them-children-are-killed-by-a-suicide-bomber-in-paghman-afghanistan.md)
-_Context: Afghanistan, Paghman, suicide bomber_
+_Context: Afghanistan's, Paghman, suicide bomber_
 
 ### [ Australian federal election, 2007: The national election in Australia results in a change of government, with the Australian Labor Party securing an electoral swing of more than 5%.  Kevin Rudd will take office as 26th Prime Minister of Australia and the outgoing Prime Minister John Howard is also likely to lose his seat in parliament.  [http://www.theaustralian.news.com.au/story/0,25197,22814923-601,00.html (The Australian)] John Howard calls the leader of the Australian Labor Party, Kevin Rudd, on the phone and concedes defeat. ](/news/2007/11/24/australian-federal-election-2007-p-the-national-election-in-australia-results-in-a-change-of-government-with-the-australian-labor-party-s.md)
 _Context: Australia, Australian Prime Minister, John Howard, Kevin Rudd, Labor Party, Parliament, national election_

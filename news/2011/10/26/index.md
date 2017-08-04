@@ -4,7 +4,7 @@
 _Context: 2011 Syrian uprising, Syria_
 
 ### [A bomb hidden in a fuel truck kills at least 5 people and injures 45 in Afghanistan's Parwan province. ](/news/2011/10/26/a-bomb-hidden-in-a-fuel-truck-kills-at-least-5-people-and-injures-45-in-afghanistan-s-parwan-province.md)
-_Context: Afghanistan, Parwan_
+_Context: Afghanistan's, Parwan_
 
 ### [Indian superhero film ''Ra.One'', the most expensive Bollywood film to date, is released to coincide with the Hindu festival of Diwali. ](/news/2011/10/26/indian-superhero-film-ra-one-the-most-expensive-bollywood-film-to-date-is-released-to-coincide-with-the-hindu-festival-of-diwali.md)
 _Context: Bollywood, Diwali, Hindu, India, Ra.One_

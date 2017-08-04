@@ -4,7 +4,7 @@
 _Context: Arab Spring, Bahraini uprising (2011-present)_
 
 ### [Afghanistan:Five people are killed after an ambulance hits a roadside bomb in Sar-e-Pul Province. ](/news/2012/06/11/afghanistan-pfive-people-are-killed-after-an-ambulance-hits-a-roadside-bomb-in-sar-e-pul-province.md)
-_Context: Afghanistan, Sar-e-Pul Province, ambulance_
+_Context: Afghanistan's, Sar-e-Pul Province, ambulance_
 
 ### [Mexican Drug War:Margarito Genchi Casiano, a politician of the Party of the Democratic Revolution, is gunned down in the southern state of Guerrero. ](/news/2012/06/11/mexican-drug-war-pmargarito-genchi-casiano-a-politician-of-the-party-of-the-democratic-revolution-is-gunned-down-in-the-southern-state-of.md)
 _Context: Guerrero, Mexican Drug War, Party of the Democratic Revolution_

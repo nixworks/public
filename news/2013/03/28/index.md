@@ -28,7 +28,7 @@ A teenage girl is still fighting for her life in hospital following the collapse
 Davao City -- About 40 houses were burned to the ground after a fire broke out in Barangay Miranda in the Island Garden City of Samal at around 4 p.m. on Thursday.
 
 ### [The members of the United Nations are scheduled to decide on Australian diplomat Peter Woolcott's draft for the first ever treaty to regulate the conventional arms trade. ](/news/2013/03/28/the-members-of-the-united-nations-are-scheduled-to-decide-on-australian-diplomat-peter-woolcott-s-draft-for-the-first-ever-treaty-to-regulat.md)
-_Context: 193 UN member states, Australia, Peter Woolcott, United Nations, arms sales, international agreement_
+_Context: 193 UN member states, Australia, Peter Woolcott, United Nations, defense contractor, international agreement_
 
 ### [The Syrian opposition opens its first embassy in Qatar, a day after it was given Damascus's seat at the Arab League. ](/news/2013/03/28/the-syrian-opposition-opens-its-first-embassy-in-qatar-a-day-after-it-was-given-damascus-s-seat-at-the-arab-league.md)
 The move comes a day after opponents of Bashar al-Assad were given Syria seat at the Arab League.

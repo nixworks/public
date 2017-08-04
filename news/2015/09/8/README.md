@@ -46,7 +46,7 @@ _Context: Kentucky, Kim Davis, Miller v. Davis, Rowan County, Kentucky, contempt
 Pope Francis unveils reforms intended to make it easier for Roman Catholics to get annulments and remarry within the Church.
 
 ### [Shinzo Abe, the Prime Minister of Japan, is reelected (unopposed)  President of the Liberal Democratic Party. ](/news/2015/09/8/shinzo-abe-the-prime-minister-of-japan-is-reelected-unopposed-president-of-the-liberal-democratic-party.md)
-_Context: Liberal Democratic Party, Prime Minister, Shinzo Abe_
+_Context: Liberal Democratic Party, Prime Minister of Japan, Shinzo Abe_
 
 ## [Previous Day...](/news/2015/09/7/index.md)
 

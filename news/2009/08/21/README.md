@@ -16,7 +16,7 @@ _Context: Botswana, Kingsley Holgate, Namibia, Oranjemund, Robert Mugabe, Serets
 _Context: My Lai, Vietnam War, William Calley, mass killings_
 
 ### [ A missile fired from a U.S. unmanned plane destroyed a suspected militant hide-out in northwest Pakistan on Friday, killing at least 12 people in a stronghold of a jihadi leader blamed for attacks in Afghanistan. ](/news/2009/08/21/a-missile-fired-from-a-u-s-unmanned-plane-destroyed-a-suspected-militant-hide-out-in-northwest-pakistan-on-friday-killing-at-least-12-peo.md)
-_Context: Afghanistan, Pakistan, combat drone_
+_Context: Afghanistan's, Pakistan, combat drone_
 
 ### [ Four policemen are killed after 4 suicide bombs on bicycles detonate in Grozny, Chechnya. ](/news/2009/08/21/four-policemen-are-killed-after-4-suicide-bombs-on-bicycles-detonate-in-grozny-chechnya.md)
 _Context: Chechnya, Grozny, bicycles, suicide bombing_
@@ -34,7 +34,7 @@ At least five holidaymakers were crushed to death when part of a cliff collapsed
 Small-scale possession is decriminalised as part of attempt to focus on traffickers.
 
 ### [ U.S. President Barack Obama condemns Lockerbie bomber Abdelbaset al-Megrahi's homecoming in Libya.  ](/news/2009/08/21/u-s-president-barack-obama-condemns-lockerbie-bomber-abdelbaset-al-megrahi-s-homecoming-in-libya.md)
-_Context: Abdelbaset al-Megrahi, Barack Obama, Libya, Lockerbie bombing, U.S. President_
+_Context: Abdelbaset al-Megrahi, Barack Obama, Libya, Lockerbie bombing, President of the United States_
 
 ### [ A 34-year-old Tunisian woman from Gafsa, thought to have been pregnant with 12 babies and whose story had attracted international attention, is determined to have been the victim of a phantom pregnancy. ](/news/2009/08/21/a-34-year-old-tunisian-woman-from-gafsa-thought-to-have-been-pregnant-with-12-babies-and-whose-story-had-attracted-international-attention.md)
 _Context: Gafsa, Tunisia, phantom pregnancy, pregnancy_

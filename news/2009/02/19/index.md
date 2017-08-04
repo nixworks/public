@@ -1,7 +1,7 @@
 ## [2009-02-19](/news/2009/02/19/index.md)
 
 ### [ Russian Prime Minister Vladimir Putin's office accuses Georgian pop group Stefane & 3G's song "We Don't Wanna Put In" of hooliganism. ](/news/2009/02/19/russian-prime-minister-vladimir-putin-s-office-accuses-georgian-pop-group-stefane-3g-s-song-we-don-t-wanna-put-in-of-hooliganism.md)
-_Context: Georgia, Prime Minister, Russia, Stefane & 3G, Vladimir Putin, We Don't Wanna Put In, hooliganism, office, pop_
+_Context: Georgia, Prime Minister of Russia, Russia, Stefane & 3G, Vladimir Putin, We Don't Wanna Put In, hooliganism, office, pop_
 
 ### [ California's State Legislature approves a US$143-billion budget and fills a $41-billion deficit with a combination of loans, spending and service reductions, and tax increases. ](/news/2009/02/19/california-s-state-legislature-approves-a-us-143-billion-budget-and-fills-a-41-billion-deficit-with-a-combination-of-loans-spending-and-s.md)
 Economists say that California’s budget foreshadows the difficult choices other state legislatures will soon face as the economy worsens.
@@ -28,7 +28,7 @@ _Context: 2006, Anna Politkovskaya, Russia, acquits, aiding, investigative repor
 _Context: ''Danton'', France, Mediterranean Sea, battleship_
 
 ### [ U.S. President Barack Obama meets with Canadian Prime Minister Stephen Harper in Ottawa. ](/news/2009/02/19/u-s-president-barack-obama-meets-with-canadian-prime-minister-stephen-harper-in-ottawa.md)
-_Context: Barack Obama, Canada, Canadian Prime Minister, Ottawa, Stephen Harper, U.S. President, United States_
+_Context: Barack Obama, Canada, Canadian Prime Minister, Ottawa, President of the United States, Stephen Harper, United States_
 
 ### [ China's Ministry of Health reports that HIV/AIDS was the country's leading cause of death from infectious disease in 2008. ](/news/2009/02/19/china-s-ministry-of-health-reports-that-hiv-aids-was-the-country-s-leading-cause-of-death-from-infectious-disease-in-2008.md)
 _Context: 2008, AIDS, Chinese, HIV, Ministry of Health, infectious disease, leading cause of death_

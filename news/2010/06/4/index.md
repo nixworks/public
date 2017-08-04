@@ -31,7 +31,7 @@ Links between WHO experts and drug firms that profited from H1N1 pandemic under 
 _Context: Aruba, Chile, Joran van der Sloot, Natalee Holloway, Peru_
 
 ### [A Joint Base Lewis-McChord United States Army soldier is charged with three counts of premeditated murder in connection with the deaths of three Afghan civilians. ](/news/2010/06/4/a-joint-base-lewis-mcchord-united-states-army-soldier-is-charged-with-three-counts-of-premeditated-murder-in-connection-with-the-deaths-of-t.md)
-_Context: Afghanistan, Joint Base Lewis-McChord, United States soldiers, murder_
+_Context: Afghanistan's, Joint Base Lewis-McChord, United States soldiers, murder_
 
 ### [French Interior Minister Brice Hortefeux is convicted of racism. ](/news/2010/06/4/french-interior-minister-brice-hortefeux-is-convicted-of-racism.md)
 A&#x20;French&#x20;court&#x20;fined&#x20;Interior&#x20;Minister&#x20;Brice&#x20;Hortefeux&#x20;&#x20AC;750&#x20;on&#x20;Friday&#x20;for&#x20;making&#x20;a&#x20;racial&#x20;remark&#x20;in&#x20;reference&#x20;to&#x20;a&#x20;party&#x20;member&#x20;of&#x20;Arab&#x20;origin&#x20;during&#x20;an&#x20;informal&#x20;political&#x20;gathering&#x20;last&#x20;year.&#x20;Hortefeux&#x20;says&#x20;he&#x20;will&#x20;appeal.
@@ -49,7 +49,7 @@ _Context: Ahmadinejad, Iran_
 Secret files show ruling military building atomic weapons programme, defectors say.
 
 ### [Naoto Kan is elected as the new leader of the Democratic Party of Japan and subsequently as the new Prime Minister of Japan, where he currently awaits confirmation from Emperor Akihito. ](/news/2010/06/4/naoto-kan-is-elected-as-the-new-leader-of-the-democratic-party-of-japan-and-subsequently-as-the-new-prime-minister-of-japan-where-he-curren.md)
-_Context: Democratic Party, Emperor Akihito, Naoto Kan, Prime Minister_
+_Context: Democratic Party, Emperor Akihito, Naoto Kan, Prime Minister of Japan_
 
 ### [The Government of the United Kingdom releases hitherto undisclosed public spending details from the past two years ](/news/2010/06/4/the-government-of-the-united-kingdom-releases-hitherto-undisclosed-public-spending-details-from-the-past-two-years.md)
 Information about government spending has been published as part of a drive to open up official data to the public.

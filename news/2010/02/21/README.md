@@ -13,7 +13,7 @@ _Context: Chinese, Chinese Ministry of Commerce, Foreign investment_
 _Context: King Mohammed, Morocco, a minaret collapse_
 
 ### [Japanese Foreign Minister Katsuya Okada dismisses Australia's threat to take the country to the International Court of Justice over Japan's whaling in the Antarctic. ](/news/2010/02/21/japanese-foreign-minister-katsuya-okada-dismisses-australia-s-threat-to-take-the-country-to-the-international-court-of-justice-over-japan-s.md)
-_Context: Antarctic, Australia, International Court of Justice, Japan, Japanese Foreign Minister, Katsuya Okada, whaling_
+_Context: Antarctic, Australia, Foreign Minister, International Court of Justice, Japan, Katsuya Okada, whaling_
 
 ### [Prime Minister of the Netherlands Jan Peter Balkenende says the country will begin pulling out of Afghanistan in August and be gone by the end of the year following the collapse of Balkenende-4 over the issue. ](/news/2010/02/21/prime-minister-of-the-netherlands-jan-peter-balkenende-says-the-country-will-begin-pulling-out-of-afghanistan-in-august-and-be-gone-by-the-e.md)
 The 1,600 Dutch soldiers in Afghanistan will probably leave this year, Prime Minister Jan Peter Balkenende said Sunday. 

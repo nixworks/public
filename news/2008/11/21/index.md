@@ -13,7 +13,7 @@ _Context: Neil Barofsky, Republican, Troubled Assets Relief Program, United Stat
 Two confidants said Hillary Rodham Clinton would give up her Senate seat and accept the nomination for secretary of state after talks with the president-elect.
 
 ### [ The U.S. National Intelligence Council predicts a major decline in U.S. economic, military, and political dominance over the next two decades ](/news/2008/11/21/the-u-s-national-intelligence-council-predicts-a-major-decline-in-u-s-economic-military-and-political-dominance-over-the-next-two-decad.md)
-_Context: Economy of the United States, National Intelligence Council, dominance, military, political_
+_Context: Economy of the United States, National Intelligence Council, Politics of the United States, dominance, military_
 
 ### [ Malaysia bans the practice of yoga by Muslims. ](/news/2008/11/21/malaysia-bans-the-practice-of-yoga-by-muslims.md)
 _Context: Malaysia, Muslims, yoga_

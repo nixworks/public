@@ -34,7 +34,7 @@ TTC vehicle and crane truck crash near Lawrence and DVP
 Former NBA player Javaris Crittenton, who was suspended from the league for having guns in a locker room with teammate Gilbert Arenas, was arrested Monday in Southern California to face a murder charge in a deadly Atlanta shooting.
 
 ### [New Japanese Prime Minister:The Cabinet of former Prime Minister of Japan Naoto Kan resigns en masse following the election of Yoshihiko Noda as the presumptive Prime Minister. ](/news/2011/08/30/new-japanese-prime-minister-pthe-cabinet-of-former-prime-minister-of-japan-naoto-kan-resigns-en-masse-following-the-election-of-yoshihiko-no.md)
-_Context: Naoto Kan, Prime Minister, Yoshihiko Noda_
+_Context: Naoto Kan, Prime Minister of Japan, Yoshihiko Noda_
 
 ### [Kenneth E. Melson is replaced as the acting head of the United States Bureau of Alcohol, Tobacco, Firearms and Explosives as a result of a controversial gun trafficking operation called Operation Fast and Furious. ](/news/2011/08/30/kenneth-e-melson-is-replaced-as-the-acting-head-of-the-united-states-bureau-of-alcohol-tobacco-firearms-and-explosives-as-a-result-of-a-c.md)
 The head of the ATF has been reassigned amid an investigation into a controversial U.S. gun-trafficking operation, the Justice Department announced Tuesday.

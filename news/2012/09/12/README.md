@@ -4,7 +4,7 @@
 _Context: Idlib, Syrian Civil War_
 
 ### [President Hamid Karzai of Afghanistan calls for a re-think of the War on Terror. ](/news/2012/09/12/president-hamid-karzai-of-afghanistan-calls-for-a-re-think-of-the-war-on-terror.md)
-_Context: Afghanistan, Hamid Karzai, War in Afghanistan, War on Terror_
+_Context: Afghanistan's, Hamid Karzai, War in Afghanistan, War on Terror_
 
 ### [A suicide bombing at a hotel in the Somali capital of Mogadishu where newly elected president Hassan Sheikh Mohamoud was holding a news conference kills at least four people. ](/news/2012/09/12/a-suicide-bombing-at-a-hotel-in-the-somali-capital-of-mogadishu-where-newly-elected-president-hassan-sheikh-mohamoud-was-holding-a-news-conf.md)
 A suicide attack at the gates of a Mogadishu hotel where the new Somali leader is staying kills two bombers and a number of guards.
@@ -34,7 +34,7 @@ A proposal to give the European Union more control over banking has stirred up d
 &quot;We are shocked that ... Governor Romney would choose to launch a political attack.&quot;
 
 ### [Senkaku Islands dispute:The Japanese Foreign Minister Koichiro Gemba says Japan will "not reconsider" the ownership issue. ](/news/2012/09/12/senkaku-islands-dispute-pthe-japanese-foreign-minister-kaichira-gemba-says-japan-will-not-reconsider-the-ownership-issue.md)
-_Context: Japanese Foreign Minister, Koichiro Gemba, Senkaku Islands dispute_
+_Context: Foreign Minister, Koichiro Gemba, Senkaku Islands dispute_
 
 ### [Police in Bosnia and Herzegovina arrest 25 people on suspicion of multiple murders, drug-trafficking and robbery in the biggest crackdown on organised crime since the Bosnian War. ](/news/2012/09/12/police-in-bosnia-and-herzegovina-arrest-25-people-on-suspicion-of-multiple-murders-drug-trafficking-and-robbery-in-the-biggest-crackdown-on.md)
 _Context: Bosnia and Herzegovina, Bosnian War_

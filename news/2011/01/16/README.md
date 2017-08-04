@@ -40,7 +40,7 @@ _Context: Magistrate, Silvio Berlusconi_
 Iran has been developing contacts in more than 30 countries to acquire technology, equipment and raw materials needed to build a nuclear bomb, a Norwegian newspaper said on Sunday, citing U.S. diplomatic cables.
 
 ### [The approval rating of Japanese Prime Minister Naoto Kan improves to 34% following a cabinet reshuffle. ](/news/2011/01/16/the-approval-rating-of-japanese-prime-minister-naoto-kan-improves-to-34-following-a-cabinet-reshuffle.md)
-_Context: Japan, Naoto Kan, Prime Minister, Tokyo_
+_Context: Japan, Naoto Kan, Prime Minister of Japan, Tokyo_
 
 ### [Leadership challenge to Taoiseach Brian Cowen:Taoiseach Brian Cowen announces his intention to lead the ruling Fianna Fail party into the upcoming general election after spending the past two days consulting his party. He offers his colleagues a secret motion of confidence ballot in his leadership, scheduled for Tuesday. ](/news/2011/01/16/leadership-challenge-to-taoiseach-brian-cowen-ptaoiseach-brian-cowen-announces-his-intention-to-lead-the-ruling-fianna-fa-il-party-into-the.md)
 The Irish prime minister announces he will not be standing down as leader of the ruling Fianna Fail party.

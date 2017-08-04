@@ -13,7 +13,7 @@ _Context: Battle of Mogadishu (2010), MPs, President, Villa Somalia, al-Shabaab 
 Aid groups say up to 200 women were raped in four days near a UN peacekeeping base.
 
 ### [A lance-corporal in the Australian Army is killed in fighting with the Taliban in Afghanistan's Oruzgan province. ](/news/2010/08/24/a-lance-corporal-in-the-australian-army-is-killed-in-fighting-with-the-taliban-in-afghanistan-s-oruzgan-province.md)
-_Context: Afghanistan, Lance Corporal, Oruzgan province, Taliban, soldiers_
+_Context: Afghanistan's, Lance Corporal, Oruzgan province, Taliban, soldiers_
 
 ### [American actor Lindsay Lohan is released from a rehabilitation centre 22 days into a three month program. ](/news/2010/08/24/american-actor-lindsay-lohan-is-released-from-a-rehabilitation-centre-22-days-into-a-three-month-program.md)
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.
@@ -40,7 +40,7 @@ _Context: Agni Air Flight 101, Makwanpur District, Nepal_
 Rescue workers established phone contact with the 33 trapped Chilean miners for an hour today, revealing new details on just how the men survived 17 days with no help. The miners were just days away from running out of their meager food supply. Engineers say that the men almost escaped; they were...
 
 ### [The United States Department of Justice states that it will appeal a decision by United States federal judge Royce C. Lamberth to block an executive order by President Barack Obama to expand embryonic stem cell research. ](/news/2010/08/24/the-united-states-department-of-justice-states-that-it-will-appeal-a-decision-by-united-states-federal-judge-royce-c-lamberth-to-block-an-e.md)
-_Context: Barack Obama, Royce C. Lamberth, U.S. Justice Department, U.S. President, United States federal judge, embryonic stem cell, executive actions_
+_Context: Barack Obama, President of the United States, Royce C. Lamberth, U.S. Department of Justice, United States federal judge, embryonic stem cell, executive actions_
 
 ### [Samantha Cameron, wife of the British Prime Minister David Cameron, gives birth to the couple's fourth child, a girl. ](/news/2010/08/24/samantha-cameron-wife-of-the-british-prime-minister-david-cameron-gives-birth-to-the-couple-s-fourth-child-a-girl.md)
 David Cameron says he is a &quot;very proud dad&quot; after his wife Samantha gave birth to a girl, their fourth child, during a family holiday in Cornwall.

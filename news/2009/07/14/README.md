@@ -19,7 +19,7 @@ Armed men take hostage two French guests from a hotel in Mogadishu as fighting r
 First publicly reported trials since the 2003 attacks involved suspected al-Qaeda members.
 
 ### [ Japanese Prime Minister Taro Aso survives a vote of no-confidence. ](/news/2009/07/14/japanese-prime-minister-taro-aso-survives-a-vote-of-no-confidence.md)
-_Context: Japan, Prime Minister, Taro Aso_
+_Context: Japan, Prime Minister of Japan, Taro Aso_
 
 ### [ Former Liberian President Charles Taylor takes the stand in his own defence at his trial. ](/news/2009/07/14/former-liberian-president-charles-taylor-takes-the-stand-in-his-own-defence-at-his-trial.md)
 _Context: Charles Taylor, Liberia, President of Liberia, trial_

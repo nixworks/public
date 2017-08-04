@@ -4,7 +4,7 @@
 The Palestinian government warns that it will pull out of peace talks if Israel renews the construction of settlements in the occupied West Bank.
 
 ### [Two members of NATO's International Security Assistance Force are killed by improvised explosive devices in Afghanistan. ](/news/2010/08/23/two-members-of-nato-s-international-security-assistance-force-are-killed-by-improvised-explosive-devices-in-afghanistan.md)
-_Context: Afghanistan, International Security Assistance Force, NATO, roadside bomb_
+_Context: Afghanistan's, International Security Assistance Force, NATO, roadside bomb_
 
 ### [At least 17 people, including a member of the National Assembly of Pakistan, Maulana Noor Mohammed Wazir, are killed in the bombing of a mosque in Pakistan's South Waziristan region. ](/news/2010/08/23/at-least-17-people-including-a-member-of-the-national-assembly-of-pakistan-maulana-noor-mohammed-wazir-are-killed-in-the-bombing-of-a-mos.md)
 _Context: MNA, Maulana Noor Mohammed Wazir, Pakistan, South Waziristan, bomb, mosque_
@@ -43,7 +43,7 @@ Twenty-five prisoners, including several Islamic militants, have escaped from a 
 Eight Hong Kong tourists killed in 11-hour standoff in the Philippine capital.
 
 ### [Judge Royce C. Lamberth of the United States District Court for the District of Columbia rules against a decision by President Barack Obama allowing the expansion of embryonic stem cell research claiming it breaks US law. ](/news/2010/08/23/judge-royce-c-lamberth-of-the-united-states-district-court-for-the-district-of-columbia-rules-against-a-decision-by-president-barack-obama.md)
-_Context: Barack Obama, Royce C. Lamberth, U.S. District Court for the District of Columbia, U.S. President, embryonic stem cell_
+_Context: Barack Obama, President of the United States, Royce C. Lamberth, U.S. District Court for the District of Columbia, embryonic stem cell_
 
 ## [Previous Day...](/news/2010/08/22/index.md)
 

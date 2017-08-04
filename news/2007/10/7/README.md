@@ -1,7 +1,7 @@
 ## [2007-10-7](/news/2007/10/7/index.md)
 
 ### [ War in Afghanistan: Sixteen militants fighting under wanted Uzbek warlord Tahir Yuldash are killed in eastern Afghanistan. ](/news/2007/10/7/war-in-afghanistan-sixteen-militants-fighting-under-wanted-uzbek-warlord-tahir-yuldash-are-killed-in-eastern-afghanistan.md)
-_Context: Afghanistan, Tahir Yuldash, Uzbekistan, War in Afghanistan (2001-present)_
+_Context: Afghanistan's, Tahir Yuldash, Uzbekistan, War in Afghanistan (2001-present)_
 
 ### [ The United Auto Workers sets a Wednesday deadline to reach a new four-year contract with Chrysler. ](/news/2007/10/7/the-united-auto-workers-sets-a-wednesday-deadline-to-reach-a-new-four-year-contract-with-chrysler.md)
 The United Automobile Workers union has set a Wednesday strike deadline in talks with Chrysler, people with direct knowledge of the negotiations said.

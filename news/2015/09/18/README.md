@@ -28,7 +28,7 @@ A national alert has been issued after an outbreak of highly drug-resistant gono
 Starting Monday, travelers from Liberia will no longer be subject to extra screening for Ebola at five U.S. airports, but extra scrutiny will remain for travelers from Sierra Leone and Guinea
 
 ### [The government of Prime Minister Shinzo Abe moves to enact legislation allowing the Japan Self-Defense Forces to serve overseas. Yesterday, fist-fights erupted in the parliament over this legislation. ](/news/2015/09/18/the-government-of-prime-minister-shinzo-abe-moves-to-enact-legislation-allowing-the-japan-self-defense-forces-to-serve-overseas-yesterday.md)
-_Context: Japanese government, Prime Minister, Shinzo Abe, legislation, military_
+_Context: Japanese government, Prime Minister of Japan, Shinzo Abe, legislation, military_
 
 ### [Croatia closes seven out of eight border crossings with Serbia. Zoran Milanovic, the Prime Minister, says that his country "will move  migrants on". ](/news/2015/09/18/croatia-closes-seven-out-of-eight-border-crossings-with-serbia-zoran-milanovia-the-prime-minister-says-that-his-country-will-move-migr.md)
 Croatia closes seven of its eight border crossings with Serbia as thousands of desperate migrants seek alternative routes to Germany and other EU states.

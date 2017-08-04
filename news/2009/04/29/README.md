@@ -10,7 +10,7 @@ _Context: United States, current outbreak, swine flu_
 _Context: Government of India, India, Kashmir, Srinagar, becomes, lockdown, protest_
 
 ### [ Australia announces the deployment of 450 additional soldiers to the Afghanistan War. ](/news/2009/04/29/australia-announces-the-deployment-of-450-additional-soldiers-to-the-afghanistan-war.md)
-_Context: Afghanistan, Australia, Defence Force, War in Afghanistan (2001-present), deployment_
+_Context: Afghanistan's, Australia, Defence Force, War in Afghanistan (2001-present), deployment_
 
 ### [ Pakistan: The Armed Forces kill more than 50 Taliban militants while capturing Daggar, Buner Valley. ](/news/2009/04/29/pakistan-p-the-armed-forces-kill-more-than-50-taliban-militants-while-capturing-daggar-buner-valley.md)
 Pakistani troops took the main town in strategically important Buner Valley on Wednesday after dropping by helicopter behind Taliban lines, killing more than 50 militants in two days, the military said.
@@ -19,7 +19,7 @@ Pakistani troops took the main town in strategically important Buner Valley on W
 _Context: Solomon Islands, Truth and Reconciliation Commission_
 
 ### [ President of the United States Barack Obama delivers his 3rd primetime news conference on his 100th day in office](/news/2009/04/29/president-of-the-united-states-barack-obama-delivers-his-3rd-primetime-news-conference-on-his-100th-day-in-office.md)
-_Context: Barack Obama, U.S. President_
+_Context: Barack Obama, President of the United States_
 
 ## [Previous Day...](/news/2009/04/28/index.md)
 

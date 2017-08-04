@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Large parts of Southern Asia may be uninhabitable by 2100 due to levels of humidity dangerous to humans. ](/news/2017/08/2/large-parts-of-southern-asia-may-be-uninhabitable-by-2100-due-to-levels-of-humidity-dangerous-to-humans.md) _Context: Asia_
+1. [New research suggests that large parts of Southern Asia may be uninhabitable by 2100 due to levels of humidity dangerous to humans. ](/news/2017/08/2/new-research-suggests-that-large-parts-of-southern-asia-may-be-uninhabitable-by-2100-due-to-levels-of-humidity-dangerous-to-humans.md) _Context: Asia_
 2. [The death tolls from tornadoes and floods in the midwestern and southern United States rises to ten with two people missing. ](/news/2017/04/30/the-death-tolls-from-tornadoes-and-floods-in-the-midwestern-and-southern-united-states-rises-to-ten-with-two-people-missing.md) _Context: midwestern_
 3. [The Zika virus outbreak in Singapore which has infected over 200 people likely evolved from Southeast Asia. ](/news/2016/09/4/the-zika-virus-outbreak-in-singapore-which-has-infected-over-200-people-likely-evolved-from-southeast-asia.md) _Context: Asia_
 4. [In 2015, more than 100,000 people in Indonesia, Malaysia, and Singapore may have died as a result of forest fires in Southeast Asia. The continued poor air quality also continues to affect the health of more than 42 million Indonesians. ](/news/2016/09/19/in-2015-more-than-100-000-people-in-indonesia-malaysia-and-singapore-may-have-died-as-a-result-of-forest-fires-in-southeast-asia-the-con.md) _Context: Asia_

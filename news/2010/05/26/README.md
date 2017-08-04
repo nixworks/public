@@ -1,7 +1,7 @@
 ## [2010-05-26](/news/2010/05/26/index.md)
 
 ### [More than 80 students are sickened in a girls' school in Kunduz, Afghanistan, in a poison gas attack suspected to have been carried out by Taliban assailants whose version of Islam is opposed to girls being educated.](/news/2010/05/26/more-than-80-students-are-sickened-in-a-girls-school-in-kunduz-afghanistan-in-a-poison-gas-attack-suspected-to-have-been-carried-out-by-t.md)
-_Context: Afghanistan, Islam, Kunduz, Taliban, poison gas_
+_Context: Afghanistan's, Islam, Kunduz, Taliban, poison gas_
 
 ### [International Criminal Court judges tell the UN Security Council that the Sudanese government is protecting suspects wanted for war crimes in Darfur instead of arresting them to face trial. ](/news/2010/05/26/international-criminal-court-judges-tell-the-un-security-council-that-the-sudanese-government-is-protecting-suspects-wanted-for-war-crimes-i.md)
 Judges at the International Criminal Court want action on crimes committed during the Darfur crisis where more than 300,000 have died since 2003

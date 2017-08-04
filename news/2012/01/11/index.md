@@ -13,7 +13,7 @@ _Context: Joran van der Sloot, Peruvian_
 _Context: Golan Heights, Israel, refugees from Syria_
 
 ### [Republican candidates for United States President are campaigning in South Carolina for the upcoming South Carolina primaries. ](/news/2012/01/11/republican-candidates-for-united-states-president-are-campaigning-in-south-carolina-for-the-upcoming-south-carolina-primaries.md)
-_Context: Republican candidates, South Carolina, South Carolina primaries, U.S. President_
+_Context: President of the United States, Republican candidates, South Carolina, South Carolina primaries_
 
 ## [Previous Day...](/news/2012/01/10/index.md)
 

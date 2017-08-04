@@ -43,7 +43,7 @@ A rare tropical cyclone makes landfall in Yemen, flooding the al-Qaeda controlle
 A senior Defense official told NBC News Monday that an American infrared satellite detected a heat flash at the same time and in the same vicinity.
 
 ### [A day after Sunday's  trilateral summit between China, Japan, and South Korea, South Korean President Park Geun-hye and Japanese Prime Minister Shinzo Abe  are meeting in Seoul. The two countries haven't met  in over three years. Expected topics include trade ties, North Korea's pursuit of nuclear bombs, and long-running disputes over Japanese wartime aggression and behavior. ](/news/2015/11/2/a-day-after-sunday-s-trilateral-summit-between-china-japan-and-south-korea-south-korean-president-park-geun-hye-and-japanese-prime-minis.md)
-_Context: Chinese, North Korea, Park Geun-hye, Prime Minister, Shinzo Abe, South Korean President, disputes, nuclear warheads, trilateral summit_
+_Context: Chinese, North Korea, Park Geun-hye, Prime Minister of Japan, Shinzo Abe, South Korean President, disputes, nuclear warheads, trilateral summit_
 
 ### [Chinese military aircraft conduct training in the South China Sea following the cruise of a U.S. Navy ship in the vicinity of the disputed Spratly Islands. ](/news/2015/11/2/chinese-military-aircraft-conduct-training-in-the-south-china-sea-following-the-cruise-of-a-u-s-navy-ship-in-the-vicinity-of-the-disputed-s.md)
 Days after a U.S. naval ship sailed by, Chinese officials released photographs of armed aircraft training over disputed territory in the South China Sea.

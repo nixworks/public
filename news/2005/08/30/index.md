@@ -13,7 +13,7 @@ _Context: Ariel Sharon, Binyamin Netanyahu, Israeli Prime Minister, Likud_
 _Context: France, Paris, fire_
 
 ### [ Prime Minister Manmohan Singh announced India would give US$50 million in additional aid for the reconstruction of Afghanistan during his meetings with Hamid Karzai. Earlier, it had pledged US$500 million to help rebuild the war-ravaged country.](/news/2005/08/30/prime-minister-manmohan-singh-announced-india-would-give-us-50-million-in-additional-aid-for-the-reconstruction-of-afghanistan-during-his-m.md)
-_Context: Afghanistan, Hamid Karzai, India, India's Prime Minister, Manmohan Singh_
+_Context: Afghanistan's, Hamid Karzai, India, India's Prime Minister, Manmohan Singh_
 
 ### [ The 2005 Forbes Global CEO Conference has kicked off in Sydney, Australia.  Police arrest four at a barricade surrounding the Opera House (Wikinews) ](/news/2005/08/30/the-2005-forbes-global-ceo-conference-has-kicked-off-in-sydney-australia-police-arrest-four-at-a-barricade-surrounding-the-opera-house.md)
 _Context: (Wikinews), 2005 Forbes Global CEO Conference, Australia, Sydney_

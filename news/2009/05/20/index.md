@@ -13,10 +13,10 @@ _Context: Iran, Sajjil, medium-range ballistic missile, nuclear scientist, surfa
 An Indonesian military transport plane carrying 110 passengers and crew crashed and burst into flames in East Java on Wednesday, killing at least 98 people on board and on the ground, officials said.
 
 ### [ ''The Globe and Mail'' refutes portions of former Canadian Prime Minister Brian Mulroney's testimony about his relationship with German arms dealer Karlheinz Schreiber. ](/news/2009/05/20/the-globe-and-mail-refutes-portions-of-former-canadian-prime-minister-brian-mulroney-s-testimony-about-his-relationship-with-german-arm.md)
-_Context: Brian Mulroney, Canada, Canadian Prime Minister, Germany, Karlheinz Schreiber, The Globe and Mail, arms sales, relationship_
+_Context: Brian Mulroney, Canada, Canadian Prime Minister, Germany, Karlheinz Schreiber, The Globe and Mail, defense contractor, relationship_
 
 ### [ The International Security Assistance Force reports that the Taliban are using white phosphorus in the Afghanistan War. ](/news/2009/05/20/the-international-security-assistance-force-reports-that-the-taliban-are-using-white-phosphorus-in-the-afghanistan-war.md)
-_Context: Afghanistan, International Security Assistance Force, Taliban, War, white phosphorus_
+_Context: Afghanistan's, International Security Assistance Force, Taliban, War, white phosphorus_
 
 ### [ Scottish First Minister Alex Salmond activates Whitelee Wind Farm, Europe's largest onshore wind farm. ](/news/2009/05/20/scottish-first-minister-alex-salmond-activates-whitelee-wind-farm-europe-s-largest-onshore-wind-farm.md)
 _Context: Alex Salmond, Europe, First Minister, Scotland, Whitelee Wind Farm, wind farm_

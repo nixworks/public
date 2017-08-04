@@ -1,7 +1,7 @@
 ## [2010-10-5](/news/2010/10/5/index.md)
 
 ### [Afghan militant attacks kill 4 civilians, wound 6 in southwestern Farah province's Rusht Rod district. ](/news/2010/10/5/afghan-militant-attacks-kill-4-civilians-wound-6-in-southwestern-farah-province-s-rusht-rod-district.md)
-_Context: Afghanistan, Farah Province, Rusht Rod_
+_Context: Afghanistan's, Farah Province, Rusht Rod_
 
 ### [At least 3 people are killed and 9 others receive wounds during a bomb explosion at an apartment complex in the suburbs of Bangkok. ](/news/2010/10/5/at-least-3-people-are-killed-and-9-others-receive-wounds-during-a-bomb-explosion-at-an-apartment-complex-in-the-suburbs-of-bangkok.md)
 A bomb explosion at an apartment building on the outskirts of the Thai capital of Bangkok has killed at least three people.
@@ -46,7 +46,7 @@ Decision blamed on legal move by Holland-based pro-Moluccan group to have Yudhoy
 Former Pakistani military ruler Pervez Musharraf says that his forces trained militant groups to fight in Indian-administered Kashmir.
 
 ### [President of the United States Barack Obama announces plans via Secretary of Energy Steven Chu that additional solar panels will be installed at the White House, while the founder of Sungevity plans to install solar panels at the private official residence of President of the Maldives Mohamed Nasheed for the "Global Work Party" event planned by 350. ](/news/2010/10/5/president-of-the-united-states-barack-obama-announces-plans-via-secretary-of-energy-steven-chu-that-additional-solar-panels-will-be-installe.md)
-_Context: Barack Obama, Mohamed Nasheed, President, Steven Chu, Sungevity, U.S. President, White House, solar panel_
+_Context: Barack Obama, Mohamed Nasheed, President, President of the United States, Steven Chu, Sungevity, White House, solar panel_
 
 ### [1976 Nobel Peace Prize laureate Mairead Maguire is deported by Israel ending her joint effort with other Nobel laureates to meet Israeli and Palestinian peace activists. ](/news/2010/10/5/1976-nobel-peace-prize-laureate-mairead-maguire-is-deported-by-israel-ending-her-joint-effort-with-other-nobel-laureates-to-meet-israeli-and.md)
 Israel deported Irish Nobel peace laureate Mairead Maguire on Tuesday, after the country’s highest court rejected her appeal against a deportation order. “The supreme court yesterday ruled that she mu

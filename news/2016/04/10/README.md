@@ -1,7 +1,7 @@
 ## [2016-04-10](/news/2016/04/10/index.md)
 
 ### [The Taliban, in a statement claiming responsibility for yesterday's rocket attacks into Kabul, Afghanistan, says the intended target was U.S. Secretary of State John Kerry, who was in the capital to help defuse a crisis within the unity government.  Kerry had departed less than an hour earlier. No casualties have been reported. ](/news/2016/04/10/the-taliban-in-a-statement-claiming-responsibility-for-yesterday-s-rocket-attacks-into-kabul-afghanistan-says-the-intended-target-was-u-s.md)
-_Context: Afghanistan, John Kerry, Kabul, Taliban, United States Secretary of State, War in Afghanistan (2015-present), unity government_
+_Context: Afghanistan's, John Kerry, Kabul, Taliban, United States Secretary of State, War in Afghanistan (2015-present), unity government_
 
 ### [Developers announce their intention to build a new tower in Dubai, United Arab Emirates, to surpass the Burj Khalifa as the tallest structure in the world. The project is expected to be roughly $1bn (PS710m) and scheduled to be completed for the Dubai Expo trade fair in 2020. ](/news/2016/04/10/developers-announce-their-intention-to-build-a-new-tower-in-dubai-united-arab-emirates-to-surpass-the-burj-khalifa-as-the-tallest-structur.md)
 _Context: Burj Khalifa, Dubai, United Arab Emirates, tallest structure in the world_

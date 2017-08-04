@@ -31,7 +31,7 @@ By Genevra PittmanNEW YORK (Reuters Health) - A Mediterranean diet high in olive
 _Context: C. Everett Koop, U.S. Surgeon General, United States_
 
 ### [NATO says it has found no evidence to back the Afghan claim of misconduct by United States forces. ](/news/2013/02/25/nato-says-it-has-found-no-evidence-to-back-the-afghan-claim-of-misconduct-by-united-states-forces.md)
-_Context: Afghanistan, NATO, United States_
+_Context: Afghanistan's, NATO, United States_
 
 ### [Russia enacts a law banning smoking on subways and in schools. ](/news/2013/02/25/russia-enacts-a-law-banning-smoking-on-subways-and-in-schools.md)
 _Context: Russia, enacts, school, smoking, smoking ban, subways_

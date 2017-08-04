@@ -10,7 +10,7 @@ _Context: Ildus Fayzov, Kazan, Russian Republic of Tatarstan, Valiulla Yakupov_
 The government should slow the pace of budget cuts next year if growth in the UK does not recover, the International Monetary Fund says.
 
 ### [Bangladeshi writer and film director Humayun Ahmed dies at 63 in New York while undergoing a treatment for colorectal cancer. ](/news/2012/07/19/bangladeshi-writer-and-film-director-humayun-ahmed-dies-at-63-in-new-york-while-undergoing-a-treatment-for-colorectal-cancer.md)
-_Context: Bangladesh, Humayun Ahmed, New York, colorectal cancer_
+_Context: Bangladesh, Humayun Ahmed, New York City, colorectal cancer_
 
 ### [China summons a Russian diplomat after the latter country opened fire on a fishing boat and detained the Chinese crew. ](/news/2012/07/19/china-summons-a-russian-diplomat-after-the-latter-country-opened-fire-on-a-fishing-boat-and-detained-the-chinese-crew.md)
 _Context: Chinese, Russia_

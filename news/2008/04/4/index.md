@@ -10,7 +10,7 @@ _Context: Skybus, United States, commercial air traffic_
 Although it has been accused of tax fraud, improper use of force, arms trafficking and overbilling, the Blackwater firm will have its $1.2 billion contract for private security in Iraq renewed by the State Department, a spokesman confirmed Friday. The one-year extension, worth an estimated $240...
 
 ### [ A suicide bomb attack kills three policemen and a civilian in southern Afghanistan. ](/news/2008/04/4/a-suicide-bomb-attack-kills-three-policemen-and-a-civilian-in-southern-afghanistan.md)
-_Context: Afghanistan, suicide bomb_
+_Context: Afghanistan's, suicide bomb_
 
 ### [ The luxury yacht Le Ponant is seized by pirates off the Somalian coast. ](/news/2008/04/4/the-luxury-yacht-le-ponant-is-seized-by-pirates-off-the-somalian-coast.md)
 _Context: Le Ponant_

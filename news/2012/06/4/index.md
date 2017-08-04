@@ -34,7 +34,7 @@ Police in Berlin arrest the Canadian porn actor wanted for the murder and dismem
 _Context: President of Albania, Republic of Albania, elects, parliament_
 
 ### [The Prime Minister of Japan Yoshihiko Noda announces a Cabinet reshuffle following a split in the ruling Democratic Party of Japan. ](/news/2012/06/4/the-prime-minister-of-japan-yoshihiko-noda-announces-a-cabinet-reshuffle-following-a-split-in-the-ruling-democratic-party-of-japan.md)
-_Context: Democratic Party, Prime Minister, Yoshihiko Noda_
+_Context: Democratic Party, Prime Minister of Japan, Yoshihiko Noda_
 
 ### [Indian cricketer Sachin Tendulkar is sworn in as a member of Parliament's upper house the Rajya Sabha. ](/news/2012/06/4/indian-cricketer-sachin-tendulkar-is-sworn-in-as-a-member-of-parliament-s-upper-house-the-rajya-sabha.md)
 _Context: Indians, Rajya Sabha, Sachin Tendulkar_

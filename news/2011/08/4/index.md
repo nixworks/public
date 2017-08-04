@@ -1,7 +1,7 @@
 ## [2011-08-4](/news/2011/08/4/index.md)
 
 ### [War in Afghanistan (2001-present):A senior intelligence officer in Afghanistan's National Directorate of Security, Payenda Khan, is killed in a bombing in  Kunduz Province. ](/news/2011/08/4/war-in-afghanistan-2001apresent-pa-senior-intelligence-officer-in-afghanistan-s-national-directorate-of-security-payenda-khan-is-kille.md)
-_Context: Afghanistan, Kunduz Province, National Directorate of Security, Payenda Khan, War in Afghanistan (2001-present)_
+_Context: Afghanistan's, Kunduz Province, National Directorate of Security, Payenda Khan, War in Afghanistan (2001-present)_
 
 ### [Kraft Foods announces that it will split into two operations consisting of its North American grocery business and its global snack foods business. ](/news/2011/08/4/kraft-foods-announces-that-it-will-split-into-two-operations-consisting-of-its-north-american-grocery-business-and-its-global-snack-foods-bu.md)
 _Context: Kraft Foods, North America_
@@ -13,7 +13,7 @@ American indexes fell around 5 percent as new data heightened fears that the Uni
 _Context: Haiti, Tropical Storm Emily_
 
 ### [The Japanese government led by Prime Minister Naoto Kan announces that it is firing three senior bureaucrats responsible for nuclear energy policy as a result of the Fukushima Daiichi nuclear disaster earlier this year. ](/news/2011/08/4/the-japanese-government-led-by-prime-minister-naoto-kan-announces-that-it-is-firing-three-senior-bureaucrats-responsible-for-nuclear-energy.md)
-_Context: Fukushima Daiichi nuclear disaster, Japanese government, Naoto Kan, Prime Minister, nuclear power_
+_Context: Fukushima Daiichi nuclear disaster, Japanese government, Naoto Kan, Prime Minister of Japan, nuclear power_
 
 ### [Fourteen states in the Southern United States are on a heat alert with several dozen deaths since July as part of a heat wave. ](/news/2011/08/4/fourteen-states-in-the-southern-united-states-are-on-a-heat-alert-with-several-dozen-deaths-since-july-as-part-of-a-heat-wave.md)
 The National Weather Service chief calls it a heat wave more intense than any he can recall. It&#39;s particularly bad in Texas, where high electricity use triggered power outages Thursday.

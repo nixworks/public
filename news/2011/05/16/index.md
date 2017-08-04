@@ -13,7 +13,7 @@ _Context: 2011 Syrian uprising, Deraa, Syria_
 _Context: Libya, Misrata, Muammar Gaddafi, NATO_
 
 ### [Four members of the United States Army are killed by a bomb in southern Afghanistan. ](/news/2011/05/16/four-members-of-the-united-states-army-are-killed-by-a-bomb-in-southern-afghanistan.md)
-_Context: Afghanistan, United States soldiers_
+_Context: Afghanistan's, United States soldiers_
 
 ### [Irish republican dissidents have issued a bomb threat for London, the first coded warning outside Northern Ireland in 10 years, officials have said. ](/news/2011/05/16/irish-republican-dissidents-have-issued-a-bomb-threat-for-london-the-first-coded-warning-outside-northern-ireland-in-10-years-officials-ha.md)
 A bomb threat for London has been issued by Irish dissidents - in what officials say is the first coded warning outside Northern Ireland in 10 years.
@@ -55,7 +55,7 @@ A court in Malaysia rules there is enough credible evidence against opposition l
 _Context: Dominique Strauss-Kahn, International Monetary Fund, New York City_
 
 ### [American mafia boss Vincent Basciano is convicted of murder in New York. ](/news/2011/05/16/american-mafia-boss-vincent-basciano-is-convicted-of-murder-in-new-york.md)
-_Context: American mafia, New York, Vincent Basciano_
+_Context: American mafia, New York City, Vincent Basciano_
 
 ### [Suzanne Mubarak, the former First Lady of Egypt, offers to hand over $3 million to prosecutors, claiming that this is all she has. ](/news/2011/05/16/suzanne-mubarak-the-former-first-lady-of-egypt-offers-to-hand-over-3-million-to-prosecutors-claiming-that-this-is-all-she-has.md)
 _Context: Egypt, First Lady, Suzanne Mubarak_

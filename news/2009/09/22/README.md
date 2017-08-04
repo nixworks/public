@@ -10,7 +10,7 @@ _Context: AWACS, Ilyushin Il-76, Iran, mid-air collision_
 _Context: Moscow, Russia, racial bias_
 
 ### [ U.S. President Barack Obama calls for the resumption of the Middle East peace process in meetings with the Prime Minister of Israel Benjamin Netanyahu and the President of the Palestinian Authority Mahmoud Abbas. ](/news/2009/09/22/u-s-president-barack-obama-calls-for-the-resumption-of-the-middle-east-peace-process-in-meetings-with-the-prime-minister-of-israel-benjami.md)
-_Context: Barack Obama, Benjamin Netanyahu, Israeli Prime Minister, Mahmoud Abbas, Middle East, Palestinian Authority President, U.S. President_
+_Context: Barack Obama, Benjamin Netanyahu, Israeli Prime Minister, Mahmoud Abbas, Middle East, Palestinian Authority President, President of the United States_
 
 ### [ Honduran soldiers break up protests outside the Brazilian embassy in Tegucigalpa in support of deposed President Manuel Zelaya, who is staying inside. ](/news/2009/09/22/honduran-soldiers-break-up-protests-outside-the-brazilian-embassy-in-tegucigalpa-in-support-of-deposed-president-manuel-zelaya-who-is-stay.md)
 Honduras de facto leader Roberto Micheleti demanded that Brazil hand over deposed constitutional president Manuel Zelaya who is currently in the Brazilian embassy in Tegucigalpa following a dramatic secret return to the country.
@@ -34,7 +34,7 @@ _Context: 60th anniversary of the founding, Chinese, Tibet Autonomous Region_
 _Context: Kaoshiung, Rebiya Kadeer, Taiwan, Uyghur_
 
 ### [ Iranian President Mahmoud Ahmadinejad heads for New York to attend the United Nations General Assembly. ](/news/2009/09/22/iranian-president-mahmoud-ahmadinejad-heads-for-new-york-to-attend-the-united-nations-general-assembly.md)
-_Context: Iran, Mahmoud Ahmadinejad, New York, President, United Nations, United Nations General Assembly_
+_Context: Iran, Mahmoud Ahmadinejad, New York City, President, United Nations, United Nations General Assembly_
 
 ### [ An Iranian military airplane crashes during a military parade in Tehran. ](/news/2009/09/22/an-iranian-military-airplane-crashes-during-a-military-parade-in-tehran.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
@@ -79,7 +79,7 @@ Sixteen Vietnamese doctors, nurses and officials sold 266 babies for overseas ad
 _Context: Bhutan_
 
 ### [ Security is tightened across Germany after the emergence of al-Qaeda videos threatening attacks if troops are not withdrawn from Afghanistan. ](/news/2009/09/22/security-is-tightened-across-germany-after-the-emergence-of-al-qaeda-videos-threatening-attacks-if-troops-are-not-withdrawn-from-afghanista.md)
-_Context: Afghanistan, Germany, al-Qaeda_
+_Context: Afghanistan's, Germany, al-Qaeda_
 
 ### [ Cities around the world celebrate World Car Free Day. ](/news/2009/09/22/cities-around-the-world-celebrate-world-car-free-day.md)
 _Context: World Car Free Day_

@@ -7,7 +7,7 @@ _Context: Ciudad Juarez, Mexico, bus, tractor-trailer_
 _Context: Flash flooding, Thailand, Trang Province_
 
 ### [ A suicide bomber kills 8 people in the Khost Province of Afghanistan. ](/news/2007/04/14/a-suicide-bomber-kills-8-people-in-the-khost-province-of-afghanistan.md)
-_Context: Afghanistan, Khost, suicide bomber_
+_Context: Afghanistan's, Khost, suicide bomber_
 
 ### [ A bus carrying primary school students crashes with a truck on the Aksaray-Konya highway in central Turkey, resulting in the death of 32 people. ](/news/2007/04/14/a-bus-carrying-primary-school-students-crashes-with-a-truck-on-the-aksaray-konya-highway-in-central-turkey-resulting-in-the-death-of-32-pe.md)
 _Context: Aksaray, Konya, Turkey, bus, primary school_

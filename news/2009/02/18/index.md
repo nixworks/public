@@ -1,7 +1,7 @@
 ## [2009-02-18](/news/2009/02/18/index.md)
 
 ### [ Stefane & 3G will represent Georgia at the Eurovision Song Contest 2009 in Moscow with "We Don't Wanna Put In", a song allegedly against Russian Prime Minister Vladimir Putin. ](/news/2009/02/18/stefane-3g-will-represent-georgia-at-the-eurovision-song-contest-2009-in-moscow-with-we-don-t-wanna-put-in-a-song-allegedly-against-ru.md)
-_Context: 2009, Eurovision Song Contest, Georgia, Moscow, Prime Minister, Russia, Stefane & 3G, Vladimir Putin, We Don't Wanna Put In_
+_Context: 2009, Eurovision Song Contest, Georgia, Moscow, Prime Minister of Russia, Russia, Stefane & 3G, Vladimir Putin, We Don't Wanna Put In_
 
 ### [ A Columbian mammoth is discovered in the La Brea Tar Pits in Los Angeles, California. ](/news/2009/02/18/a-columbian-mammoth-is-discovered-in-the-la-brea-tar-pits-in-los-angeles-california.md)
 The nearly complete skeleton of a massive Columbian mammoth who died during the last ice age has been dug out of a construction site near the La Brea Tar Pits in downtown Los Angeles, a remarkable find even in the fossil-rich area, scientists said Wednesday.

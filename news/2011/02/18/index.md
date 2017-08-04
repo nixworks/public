@@ -7,7 +7,7 @@ At least 1,000 Arabs demonstrate to demand citizenship in Gulf country, leading 
 _Context: Panama_
 
 ### [At least 37 people are killed and others are wounded in a U.S.-led airstrike in Kunar Province, Afghanistan. ](/news/2011/02/18/at-least-37-people-are-killed-and-others-are-wounded-in-a-u-s-led-airstrike-in-kunar-province-afghanistan.md)
-_Context: Afghanistan, Kunar Province_
+_Context: Afghanistan's, Kunar Province_
 
 ### [Retired CIA officer-turned-political activist Ray McGovern is thrown out, bloodied and arrested while protesting a speech given by Hillary Clinton on internet freedom at George Washington University in Washington, D.C. Veterans for Peace requests that Clinton apologise. ](/news/2011/02/18/retired-cia-officer-turned-political-activist-ray-mcgovern-is-thrown-out-bloodied-and-arrested-while-protesting-a-speech-given-by-hillary-c.md)
 _Context: CIA, George Washington University, Hillary Clinton, Ray McGovern, Veterans for Peace, Washington, D.C., internet freedom_
@@ -52,7 +52,7 @@ Federal prosecutors have shelved a criminal investigation of Angelo R. Mozilo af
 _Context: Japan, Sea Shepherd, whaling_
 
 ### [President of the United States Barack Obama is announced to visit Brazil, Chile and El Salvador from March 19 to 23. ](/news/2011/02/18/president-of-the-united-states-barack-obama-is-announced-to-visit-brazil-chile-and-el-salvador-from-march-19-to-23.md)
-_Context: Barack Obama, Brazil, Chile, El Salvador, U.S. President_
+_Context: Barack Obama, Brazil, Chile, El Salvador, President of the United States_
 
 ### [Prime Minister of Italy Silvio Berlusconi proposes a reform of the Italian judiciary system restricting  telephone taps, one of the methods used by prosecutors in the Ruby Rubacuori scandal. ](/news/2011/02/18/prime-minister-of-italy-silvio-berlusconi-proposes-a-reform-of-the-italian-judiciary-system-restricting-telephone-taps-one-of-the-methods.md)
 Italian PM Silvio Berlusconi launches an attempt to reform the judicial system, days after being charged with having sex with an under-age prostitute.

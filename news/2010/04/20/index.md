@@ -16,7 +16,7 @@ _Context: Bishop of Augsburg, Walter Mixa_
 _Context: Argentina, Reynaldo Bignone_
 
 ### [A New York businessman, Abdul Tawala Ibn Ali Alishtari is sentenced to 10 years in prison for funneling money to a terrorism training camp in Afghanistan. ](/news/2010/04/20/a-new-york-businessman-abdul-tawala-ibn-ali-alishtari-is-sentenced-to-10-years-in-prison-for-funneling-money-to-a-terrorism-training-camp-i.md)
-_Context: Abdul Tawala Ibn Ali Alishtari, Afghanistan, New York, terrorism training camp_
+_Context: Abdul Tawala Ibn Ali Alishtari, Afghanistan's, New York City, terrorism training camp_
 
 ### [Dozens of people gather in central Cairo in a rare protest against the use of force on pro-democracy demonstrations which "pose a threat to the national security". ](/news/2010/04/20/dozens-of-people-gather-in-central-cairo-in-a-rare-protest-against-the-use-of-force-on-pro-democracy-demonstrations-which-pose-a-threat-to.md)
 _Context: Cairo_
@@ -40,13 +40,13 @@ Kurmanbek Bakiyev and three family members under government protection in Minsk.
 Britain has been accused of complicity in the torture of Taliban suspects arrested and handed over to the Afghan security forces to face &quot;horrible abuse&quot;.
 
 ### [Deputy Mayor of Kandahar Azizollah Yarmal, Afghanistan is shot dead while praying at a mosque. ](/news/2010/04/20/deputy-mayor-of-kandahar-azizollah-yarmal-afghanistan-is-shot-dead-while-praying-at-a-mosque.md)
-_Context: Afghanistan, Azizollah Yarmal, Kandahar, mosque_
+_Context: Afghanistan's, Azizollah Yarmal, Kandahar, mosque_
 
 ### [Repeat polls for Sri Lanka's April parliamentary election are held in Nawalapitiya and Trincomalee where ballots were annulled due to violence. ](/news/2010/04/20/repeat-polls-for-sri-lanka-s-april-parliamentary-election-are-held-in-nawalapitiya-and-trincomalee-where-ballots-were-annulled-due-to-violen.md)
 _Context: Nawalapitiya, Sri Lanka, Trincomalee, parliamentary election_
 
 ### [President of the United States Barack Obama speaks of the "unbreakable bonds" and "special relationship" between his country and Israel on the 62nd anniversary of Israel's birth. ](/news/2010/04/20/president-of-the-united-states-barack-obama-speaks-of-the-unbreakable-bonds-and-special-relationship-between-his-country-and-israel-on-t.md)
-_Context: Barack Obama, Israel, U.S. President_
+_Context: Barack Obama, Israel, President of the United States_
 
 ### [The United States Supreme Court, in ruling on ''United States v. Stevens'', strikes down a law outlawing videos that depict animal cruelty. ](/news/2010/04/20/the-united-states-supreme-court-in-ruling-on-united-states-v-stevens-strikes-down-a-law-outlawing-videos-that-depict-animal-cruelty.md)
 _Context: United States Supreme Court, United States v. Stevens_

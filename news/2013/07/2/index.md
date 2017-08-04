@@ -13,7 +13,7 @@ Taliban insurgents including a suicide bomber in a truck killed six people in an
 _Context: Iraqi insurgency (post-U.S. withdrawal), Shi'ite_
 
 ### [At least seven people are killed in Pakistan after an American drone strike targets a militant compound near the border with Afghanistan. ](/news/2013/07/2/at-least-seven-people-are-killed-in-pakistan-after-an-american-drone-strike-targets-a-militant-compound-near-the-border-with-afghanistan.md)
-_Context: Afghanistan, Pakistan, drones launch_
+_Context: Afghanistan's, Pakistan, drones launch_
 
 ### [Pending approval from Pope Francis, reports that Pope John Paul II may be canonized at the end of the year are confirmed after approval by the Vatican Congregation for the Causes of Saints of an alleged second miracle. ](/news/2013/07/2/pending-approval-from-pope-francis-reports-that-pope-john-paul-ii-may-be-canonized-at-the-end-of-the-year-are-confirmed-after-approval-by-t.md)
 Awaiting final approval from Pope Francis; possible canonization date is Dec. 8, the feast of the Immaculate Conception

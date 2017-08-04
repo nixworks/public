@@ -19,7 +19,7 @@ _Context: Kassym-Jomart Tokayev, Kazakhstan political shakeup of 2007, Nursultan
 _Context: U.S., al-Qaeda, capture, two years of helping_
 
 ### [ In the ongoing Operation Mountain Fury, NATO forces kill as many as 150 Taliban militants in Afghanistan's Paktika province. ](/news/2007/01/11/in-the-ongoing-operation-mountain-fury-nato-forces-kill-as-many-as-150-taliban-militants-in-afghanistan-s-paktika-province.md)
-_Context: Afghanistan, NATO, Operation Mountain Fury, Paktika Province, Taliban_
+_Context: Afghanistan's, NATO, Operation Mountain Fury, Paktika Province, Taliban_
 
 ### [ The U.S. Defense Department reports that United States Department of Defense contractors, while traveling through Canada, have had Canadian coins with radio transmitters inside planted on them by unknown people.  The transmitters could be used to track the locations of the contractors. ](/news/2007/01/11/the-u-s-defense-department-reports-that-united-states-department-of-defense-contractors-while-traveling-through-canada-have-had-canadian.md)
 _Context: Canada, Canadian coin, Defense Department, U.S. Defense Department, radio transmitter_

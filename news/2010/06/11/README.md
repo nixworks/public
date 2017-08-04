@@ -11,7 +11,7 @@ Thousands flee homes in southern region as ethnic unrest leaves more than 600 wo
 _Context: Mexico, Mexico - United States relations, United States, Univision's_
 
 ### [Politics of Japan:Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/politics-of-japan-pjapanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md)
-_Context: Japan, Naoto Kan, Politics of Japan, Prime Minister_
+_Context: Japan, Naoto Kan, Politics of Japan, Prime Minister of Japan_
 
 ### [Francois Bazaramba is sentenced to life imprisonment for his part in the 1994 Rwandan Genocide in Porvoo, Finland's first genocide trial. ](/news/2010/06/11/franassois-bazaramba-is-sentenced-to-life-imprisonment-for-his-part-in-the-1994-rwandan-genocide-in-porvoo-finland-s-first-genocide-trial.md)
 A finish court has found a Rwandan man guilty of taking part in the African country’s 1994 genocide and handed him a sentence of life in prison. 

@@ -64,7 +64,7 @@ _Context:  United Democratic Forces, Rwanda, Victoire Ingabire_
 _Context: Ayad Allawi, Iran, Iraq Prime Minister, Middle East_
 
 ### [Iranian police have arrested seven Afghan border guards who had illegally crossed the border, border police chief Hossein Zolfaqari announced. ](/news/2010/10/17/iranian-police-have-arrested-seven-afghan-border-guards-who-had-illegally-crossed-the-border-border-police-chief-hossein-zolfaqari-announce.md)
-_Context: Afghanistan, Hossein Zolfaqari, Iran_
+_Context: Afghanistan's, Hossein Zolfaqari, Iran_
 
 ### [Tens of thousands of people rally in Rome against a weakening of labour rights being carried out by the country's government; rumours spread by politicians of clashes caused by "anarchist infiltration" prove unfounded. ](/news/2010/10/17/tens-of-thousands-of-people-rally-in-rome-against-a-weakening-of-labour-rights-being-carried-out-by-the-country-s-government-rumours-spread.md)
 _Context: Rome_

@@ -13,7 +13,7 @@ Prime Minister Perry Christie is seeking a second-consecutive term for his Progr
 Members of parliament dismiss government in no-confidence motion, triggering a snap election in June.
 
 ### [The U.S. Attorney's Office in Alexandria, Virginia, through U.S. Attorney Dana Boente, issues subpoenas to former National Security Advisor Michael T. Flynn to assess the extent of his ties to Russia. ](/news/2017/05/10/the-u-s-attorney-s-office-in-alexandria-virginia-through-u-s-attorney-dana-boente-issues-subpoenas-to-former-national-security-advisor.md)
-_Context: Alexandria, Virginia, Dana Boente, Michael Flynn, National Security Advisor, Russia, interference in the 2016 U.S. election, subpoena_
+_Context: Alexandria, Virginia, Dana Boente, Michael Flynn, National Security Advisor, Russia, Russian interference in the 2016 United States elections, subpoena_
 
 ## [Previous Day...](/news/2017/05/9/index.md)
 

@@ -1,7 +1,7 @@
 ## [2009-07-21](/news/2009/07/21/index.md)
 
 ### [ Japanese Prime Minister Taro Aso dissolves the House of Representatives, setting the stage for a general election on August 30. ](/news/2009/07/21/japanese-prime-minister-taro-aso-dissolves-the-house-of-representatives-setting-the-stage-for-a-general-election-on-august-30.md)
-_Context: Japan, Prime Minister, Taro Aso, the Lower House of the Diet_
+_Context: Japan, Prime Minister of Japan, Taro Aso, the Lower House of the Diet_
 
 ### [ NASA scientists confirm an impact event on Jupiter, the first observed since the impact of Shoemaker-Levy 9 on July 16&ndash;22, 1994. ](/news/2009/07/21/nasa-scientists-confirm-an-impact-event-on-jupiter-the-first-observed-since-the-impact-of-shoemaker-levy-9-on-july-16-ndash-22-1994.md)
 _Context: Jupiter, NASA, Shoemaker-Levy 9, impact event_

@@ -10,7 +10,7 @@ _Context: Church of England, General Synod, bishop, women bishops_
 Sharon calls on Western Jews to &#39;come home&#39; at Maccabiah opening ceremony, world&#39;s largest Jewish sporting event begins at National Stadium near Tel Aviv
 
 ### [ The body of a U.S. Navy SEAL has been found and recovered in Afghanistan, a senior defense official said Sunday.  ](/news/2005/07/11/the-body-of-a-u-s-navy-seal-has-been-found-and-recovered-in-afghanistan-a-senior-defense-official-said-sunday.md)
-_Context: Afghanistan, U.S. Navy SEAL_
+_Context: Afghanistan's, U.S. Navy SEAL_
 
 ### [ In Kyrgyzstan, acting president Kurmanbek Bakiev wins presidential elections with 89% support so far ](/news/2005/07/11/in-kyrgyzstan-acting-president-kurmanbek-bakiev-wins-presidential-elections-with-89-support-so-far.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

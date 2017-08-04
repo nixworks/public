@@ -34,7 +34,7 @@ _Context: Cambodia, Thailand, Thaksin_
 * Ida becomes a depression but rains are dangerous * Persistent rain could affect coffee farms further inland * Storm could move into oil-rich G
 
 ### [ The United Nations is to pull non-essential staff out of Afghanistan after an increase in violence in the country. ](/news/2009/11/5/the-united-nations-is-to-pull-non-essential-staff-out-of-afghanistan-after-an-increase-in-violence-in-the-country.md)
-_Context: Afghanistan, United Nations_
+_Context: Afghanistan's, United Nations_
 
 ### [ France's Europe Minister Pierre Lellouche describes the UK's Conservative Party pledge to return powers from Brussels to London as "pathetic". ](/news/2009/11/5/france-s-europe-minister-pierre-lellouche-describes-the-uk-s-conservative-party-pledge-to-return-powers-from-brussels-to-london-as-patheti.md)
 _Context: Conservative Party, France, Pierre Lellouche, United Kingdom_

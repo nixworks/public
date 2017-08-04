@@ -1,7 +1,7 @@
 ## [2010-07-9](/news/2010/07/9/index.md)
 
 ### [A suicide bomb in Pakistan's tribal areas near the Afghanistan border kills at least 50. ](/news/2010/07/9/a-suicide-bomb-in-pakistan-s-tribal-areas-near-the-afghanistan-border-kills-at-least-50.md)
-_Context: Afghanistan, Federally Administered Tribal Areas, Pakistan, suicide bomb_
+_Context: Afghanistan's, Federally Administered Tribal Areas, Pakistan, suicide bomb_
 
 ### [Floribert Chebeya's autopsy returns an "inconclusive" result. ](/news/2010/07/9/floribert-chebeya-s-autopsy-returns-an-inconclusive-result.md)
 An independent autopsy into the death of a human rights activist in DR Congo is unable to establish how he died.

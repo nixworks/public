@@ -16,7 +16,7 @@ _Context: European Union, Sri Lanka, human rights record_
 Iran accuses the UK, Germany and the UAE of refusing to refuel its passenger jets, days after tough new US sanctions.
 
 ### [Afghan Police and  international forces  kill 64 people in a three-day drug bust operation in Helmand province, Afghanistan, and destroy 16,641 kilograms (36,687 pounds) of narcotics. ](/news/2010/07/5/afghan-police-and-international-forces-kill-64-people-in-a-three-day-drug-bust-operation-in-helmand-province-afghanistan-and-destroy-16.md)
-_Context: Afghan police, Afghanistan, Helmand, International Security Assistance Force, narcotic_
+_Context: Afghan police, Afghanistan's, Helmand, International Security Assistance Force, narcotic_
 
 ### [A nationwide strike takes place in India in protest at a recent rise in fuel prices. ](/news/2010/07/5/a-nationwide-strike-takes-place-in-india-in-protest-at-a-recent-rise-in-fuel-prices.md)
 Bharat bandh on Monday partially disrupted economic activities with commodity markets and the transport sector taking a hit in many parts of the country. Ficci has pegged the losses at up to Rs 13,000 crore. 

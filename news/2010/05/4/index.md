@@ -19,7 +19,7 @@ Parts of downtown Nashville were evacuated as the rising Cumberland River flowed
 The calamitous oil spill in the Gulf of Mexico isn&#39;t just a mess for the people who live or work on the coast. If you drink coffee, eat shrimp, like bananas or plan to buy a new set of tires, you could end up paying more because of the disaster.
 
 ### [Pablo Picasso's ''Nude, Green Leaves and Bust'' sells for US$106 million at Christie's in New York, becoming the most expensive work of art sold at auction. ](/news/2010/05/4/pablo-picasso-s-nude-green-leaves-and-bust-sells-for-us-106-million-at-christie-s-in-new-york-becoming-the-most-expensive-work-of-art.md)
-_Context: Christie's, New York, Nude, Green Leaves and Bust, Picasso, most expensive work of art sold at auction_
+_Context: Christie's, New York City, Nude, Green Leaves and Bust, Picasso, most expensive work of art sold at auction_
 
 ### [A new European Jewish group, JCall, supported by thousands of European Jews is founded to lobby for a resolution to the Middle East conflict.](/news/2010/05/4/a-new-european-jewish-group-jcall-supported-by-thousands-of-european-jews-is-founded-to-lobby-for-a-resolution-to-the-middle-east-conflict.md)
 New left-wing Jewish initiative in Europe, modeled after J Street, defends itself against critics.

@@ -10,7 +10,7 @@ Barack Obama rejected John McCain’s call to halt the campaign for president du
 The first evidence that millions of tons of a greenhouse gas 20 times more potent than carbon dioxide is being released into the atmosphere from beneath the Arctic seabed has been discovered by scientists.
 
 ### [ The Diet elects Taro Aso of the Liberal Democratic Party as the new Prime Minister of Japan. ](/news/2008/09/24/the-diet-elects-taro-aso-of-the-liberal-democratic-party-as-the-new-prime-minister-of-japan.md)
-_Context: Diet, Liberal Democratic Party, Prime Minister, Taro Aso_
+_Context: Diet, Liberal Democratic Party, Prime Minister of Japan, Taro Aso_
 
 ### [ Tomislav Nikolic announces that his party (a splinter from the Serbian Radical Party) will be called Serbian Progressive Party and that it will be founded on 21 October 2008. ](/news/2008/09/24/tomislav-nikolia-announces-that-his-party-a-splinter-from-the-serbian-radical-party-will-be-called-serbian-progressive-party-and-that-it.md)
 _Context: Serbian Progressive Party, Serbian Radical Party, Tomislav Nikolic_

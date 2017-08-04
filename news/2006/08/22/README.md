@@ -7,7 +7,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Justin Gatlin, United States, track and field_
 
 ### [ Japanese Cabinet Secretary Shinzo Abe announces that if elected president of the Liberal Democratic Party, and thus Prime Minister, he will propose an amendment to the pacifist Constitution of Japan allowing Japanese troops to be sent overseas. Abe currently leads in polls over candidates Taro Aso and Sadakazu Tanigaki by about 30%. ([http://mdn.mainichi-msn.co.jp/national/news/20060822p2a00m0na016000c.html Mainichi Daily News])](/news/2006/08/22/japanese-cabinet-secretary-shinzo-abe-announces-that-if-elected-president-of-the-liberal-democratic-party-and-thus-prime-minister-he-will.md)
-_Context: Chief Cabinet Secretary, Japan, Liberal Democratic Party, Prime Minister, Sadakazu Tanigaki, Shinzo Abe, Taro Aso, constitution_
+_Context: Chief Cabinet Secretary, Japan, Liberal Democratic Party, Prime Minister of Japan, Sadakazu Tanigaki, Shinzo Abe, Taro Aso, constitution_
 
 ### [ Nominations have been called for the first Nunatsiavut Assembly General Election. The election will be held on October 3, 2006. ](/news/2006/08/22/nominations-have-been-called-for-the-first-nunatsiavut-assembly-general-election-the-election-will-be-held-on-october-3-2006.md)
 _Context: Nunatsiavut_

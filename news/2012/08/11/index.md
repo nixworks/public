@@ -7,7 +7,7 @@ Britain will give 5-million-pounds ($AU7.8million) worth of equipment to Syrian 
 At least five dead as suspected gang members go on rampage in drug-violence-ravaged western state of Michoacan.
 
 ### [An Afghan policeman kills ten of his colleagues at a checkpoint in southwestern Afghanistan. ](/news/2012/08/11/an-afghan-policeman-kills-ten-of-his-colleagues-at-a-checkpoint-in-southwestern-afghanistan.md)
-_Context: Afghanistan_
+_Context: Afghanistan's_
 
 ### [At least two people are killed and 18 others injured as protests held in Mumbai, India, against religious riots in Assam and Myanmar turn violent. ](/news/2012/08/11/at-least-two-people-are-killed-and-18-others-injured-as-protests-held-in-mumbai-india-against-religious-riots-in-assam-and-myanmar-turn-vi.md)
 At least two people killed and 18 others injured as protests against religious riots in Assam and Myanmar turn violent.
@@ -22,7 +22,7 @@ _Context: Himachal Pradesh, India_
 _Context: Bangladesh_
 
 ### [Mitt Romney, the presumptive Republican Party nominee for the United States presidency, names Wisconsin Congressman Paul Ryan as the Republican Party's vice presidential candidate in the presidential election in November. ](/news/2012/08/11/mitt-romney-the-presumptive-republican-party-nominee-for-the-united-states-presidency-names-wisconsin-congressman-paul-ryan-as-the-republi.md)
-_Context: Mitt Romney, Paul Ryan, Republican, U.S. President, United States presidential election, 2012, Wisconsin, presumptive nominee, vice presidential candidate_
+_Context: Mitt Romney, Paul Ryan, President of the United States, Republican, United States presidential election, 2012, Wisconsin, presumptive nominee, vice presidential candidate_
 
 ## [Previous Day...](/news/2012/08/10/index.md)
 

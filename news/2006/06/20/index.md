@@ -13,7 +13,7 @@ _Context: David Safavian, George W. Bush, Jack Abramoff, Jack Abramoff scandals,
 _Context: Charles G. Taylor, President of Liberia, Sierra Leone, The Hague_
 
 ### [ Japanese Prime Minister Junichiro Koizumi announces plans to withdraw his country's troops from Iraq.  The 600 soldiers had been deployed to Iraq in 2004 to aid in reconstruction and sparked controversy in Japan, as it was the most ambitious overseas deployment by Japan since World War II. ](/news/2006/06/20/japanese-prime-minister-junichiro-koizumi-announces-plans-to-withdraw-his-country-s-troops-from-iraq-the-600-soldiers-had-been-deployed-t.md)
-_Context: Japan, Junichiro Koizumi, Prime Minister, World War II_
+_Context: Japan, Junichiro Koizumi, Prime Minister of Japan, World War II_
 
 ### [ Israeli Prime Minister Ehud Olmert and Palestinean President Mahmoud Abbas will attend a common meeting later this week. ](/news/2006/06/20/israeli-prime-minister-ehud-olmert-and-palestinean-president-mahmoud-abbas-will-attend-a-common-meeting-later-this-week.md)
 Israeli Prime Minister Ehud Olmert and Palestinian leader Mahmoud Abbas will attend a gathering in Jordan this week, officials said Tuesday.

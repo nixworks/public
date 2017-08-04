@@ -19,7 +19,7 @@ Three Palestinians were shot dead after attacking Israeli soldiers with knives i
 Pakistan says seven of its soldiers have been killed in the South Waziristan tribal region by fire from across the border with Afghanistan.
 
 ### [In a plea bargain with U.S. federal prosecutors, Rohit Bansal, a former Goldman Sachs banker accused of using private information leaked by source inside the Federal Reserve Bank of New York, has agreed to plead guilty.  The leaked information was said to have given Goldman an undue advantage regarding client advisement.  Goldman also faces fines from the New York State's Department of Financial Services. ](/news/2015/10/27/in-a-plea-bargain-with-u-s-federal-prosecutors-rohit-bansal-a-former-goldman-sachs-banker-accused-of-using-private-information-leaked-by.md)
-_Context: Federal Reserve Bank of New York, Goldman Sachs, U.S. Justice Department, plea bargain, plead guilty_
+_Context: Federal Reserve Bank of New York, Goldman Sachs, U.S. Department of Justice, plea bargain, plead guilty_
 
 ### [Walgreens Boots Alliance agrees to buy Rite Aid for US$9.4 billion in a move which will create a retail pharmaceutical giant with 13,000 stores. ](/news/2015/10/27/walgreens-boots-alliance-agrees-to-buy-rite-aid-for-us-9-4-billion-in-a-move-which-will-create-a-retail-pharmaceutical-giant-with-13-000-sto.md)
 The move would create a drugstore giant at a time when companies in nearly every corner of the health-care industry are seeking to gain advantage from bulking up.

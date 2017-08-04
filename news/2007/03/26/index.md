@@ -22,7 +22,7 @@ _Context: Inca, South America, fossil, mites_
 _Context: Alan Johnston, Arab League, BBC News, Gaza Strip, Reporters without Borders's_
 
 ### [ Prime Minister of Japan Shinzo Abe apologizes for Japan's use of women as sex slaves in frontline brothels during World War II. ](/news/2007/03/26/prime-minister-of-japan-shinzo-abe-apologizes-for-japan-s-use-of-women-as-sex-slaves-in-frontline-brothels-during-world-war-ii.md)
-_Context: Japan, Prime Minister, Shinzo Abe, World War II, brothel, sex slave, women_
+_Context: Japan, Prime Minister of Japan, Shinzo Abe, World War II, brothel, sex slave, women_
 
 ### [ French presidential election: Nicolas Sarkozy resigns as Interior Minister to concentrate on his presidential candidacy. ](/news/2007/03/26/french-presidential-election-nicolas-sarkozy-resigns-as-interior-minister-to-concentrate-on-his-presidential-candidacy.md)
 _Context: 2007 presidential election, Nicolas Sarkozy, President of France, minister of the interior_

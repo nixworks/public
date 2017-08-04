@@ -7,7 +7,7 @@ _Context: Pope Benedict XVI, Society of St. Pius X, ordained, priests, tradition
 _Context: Burnley, Exchequer Secretary to the Treasury, Kitty Ussher, MP, MPs expenses_
 
 ### [ United States President Barack Obama extends some benefits to the same-sex partners of federal government workers. ](/news/2009/06/17/united-states-president-barack-obama-extends-some-benefits-to-the-same-sex-partners-of-federal-government-workers.md)
-_Context: Barack Obama, U.S. President, United States, some benefits_
+_Context: Barack Obama, President of the United States, United States, some benefits_
 
 ### [ 2009 Iranian election protests: Mir-Hossein Mousavi calls for a day of mourning and rallies after several people die in protests following the presidential election. ](/news/2009/06/17/2009-iranian-election-protests-p-mir-hossein-mousavi-calls-for-a-day-of-mourning-and-rallies-after-several-people-die-in-protests-following.md)
 The Iranian soccer team made a political statement in World Cup qualifying, but will have to wait and see if they still have a chance of advancing to the 2010 tournament in South Africa.

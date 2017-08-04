@@ -7,7 +7,7 @@ _Context: civil war in Cote d'Ivoire, elections, peace treaty_
 _Context: Movement for Democratic Change, Robert Mugabe, Zimbabwe, Zimbabwe African National Union - Patriotic Front, parliamentary elections, parliamentary opposition_
 
 ### [ At least 16 people are killed in Afghanistan when a U.S. military Chinook helicopter crashes in the south-eastern province of Ghazni. ](/news/2005/04/6/at-least-16-people-are-killed-in-afghanistan-when-a-u-s-military-chinook-helicopter-crashes-in-the-south-eastern-province-of-ghazni.md)
-_Context: Afghanistan, CH-47 Chinook, Ghazni Province, helicopter, military, provincial_
+_Context: Afghanistan's, CH-47 Chinook, Ghazni Province, helicopter, military, provincial_
 
 ### [ The College of Cardinals sets April 18 as the date for a conclave for a papal election to select a successor to Pope John Paul II. ](/news/2005/04/6/the-college-of-cardinals-sets-april-18-as-the-date-for-a-conclave-for-a-papal-election-to-select-a-successor-to-pope-john-paul-ii.md)
 _Context: April 18, College of Cardinals, Papal conclave, 2005, Pope John Paul II, papal election_

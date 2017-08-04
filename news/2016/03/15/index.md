@@ -43,7 +43,7 @@ Argentina&#x27;s coast guard has sunk a Chinese trawler that was fishing illegal
 Landmark resolution is the first of its kind to be passed in a national parliament since the EU parliament called for an arms sales freeze
 
 ### [The Ferguson, Missouri, city council, after last month voting to change the terms of the agreement, reverses course and unanimously (6-0) agrees to accept a U.S. Justice Department overhaul of its troubled police force and municipal courts.  This avoided a likely expensive legal battle with the federal government which had filed suit against the city following last month's vote. ](/news/2016/03/15/the-ferguson-missouri-city-council-after-last-month-voting-to-change-the-terms-of-the-agreement-reverses-course-and-unanimously-6-0-ag.md)
-_Context: Ferguson unrest, Ferguson, Missouri, U.S. Justice Department, city council, municipal courts, police force, shooting of Michael Brown_
+_Context: Ferguson unrest, Ferguson, Missouri, U.S. Department of Justice, city council, municipal courts, police force, shooting of Michael Brown_
 
 ### [Voters in the U.S. states of Florida, Illinois, Ohio, Missouri, North Carolina and the commonwealth of the Northern Mariana Islands head to the polls for Republican and Democratic Party primaries that the media has dubbed "Super Tuesday 2". ](/news/2016/03/15/voters-in-the-u-s-states-of-florida-illinois-ohio-missouri-north-carolina-and-the-commonwealth-of-the-northern-mariana-islands-head-to.md)
 Americans in five major states prepared to vote Tuesday in make-or-break presidential nominating contests, with Donald Trump seeking to tighten his grip on the Republican mantle as rivals and critics bemoaned a weekend of campaign trail unrest. Dubbed &quot;Super Tuesday 2&quot; by US media, the latest

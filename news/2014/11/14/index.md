@@ -10,7 +10,7 @@ _Context: Russia, Wikipedia_
 Sweden releases a sonar image it says is proof that a foreign submarine entered its waters in October, sparking a huge search.
 
 ### [Japanese Prime Minister Shinzo Abe is preparing to dissolve the Lower House of the Diet on Tuesday and call a snap election on December 14th in order to seek a public mandate on whether to delay a scheduled increase in the consumption tax. ](/news/2014/11/14/japanese-prime-minister-shinzo-abe-is-preparing-to-dissolve-the-lower-house-of-the-diet-on-tuesday-and-call-a-snap-election-on-december-14th.md)
-_Context: Prime Minister, Shinzo Abe, on December 14th, snap election, the Lower House of the Diet_
+_Context: Prime Minister of Japan, Shinzo Abe, on December 14th, snap election, the Lower House of the Diet_
 
 ## [Previous Day...](/news/2014/11/13/index.md)
 

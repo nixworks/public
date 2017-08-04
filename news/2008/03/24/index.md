@@ -10,7 +10,7 @@ _Context: US$, Virginia, massacre_
 _Context: Bhutan, Bhutan Peace and Prosperity Party, Lyonpo Jigme Thinley, Prime Minister, general election_
 
 ### [ The United States Department of Justice approves the merger of Sirius Satellite Radio and XM Satellite Radio. ](/news/2008/03/24/the-united-states-department-of-justice-approves-the-merger-of-sirius-satellite-radio-and-xm-satellite-radio.md)
-_Context: Sirius Satellite Radio, U.S. Justice Department, XM Satellite Radio, merger_
+_Context: Sirius Satellite Radio, U.S. Department of Justice, XM Satellite Radio, merger_
 
 ### [ The Federal Bureau of Investigation identifies the bodies of two United States citizens working as contractors in Iraq kidnapped more than a year ago. ](/news/2008/03/24/the-federal-bureau-of-investigation-identifies-the-bodies-of-two-united-states-citizens-working-as-contractors-in-iraq-kidnapped-more-than.md)
 _Context: FBI, Iraq, Kidnap, United States_

@@ -31,7 +31,7 @@ _Context: Chhattisgarh, India, Jharkhand, Raipur_
 BRUSSELS (AP) — The European Union pressed ahead Wednesday with efforts to persuade Turkey to stop asylum seekers from reaching Europe and take back thousands more by offering Turkish citizens the prospect of visa-free…
 
 ### [The U.S. Justice Department notifies North Carolina Governor Pat McCrory  that the state's new law which limits restroom access for transgender people violates the U.S. Civil Rights Act, and asks for a response by May 9 whether the state will correct "these violations of Title VII." The Governor's statement in response does not specifically say what the state will do. ](/news/2016/05/4/the-u-s-justice-department-notifies-north-carolina-governor-pat-mccrory-that-the-state-s-new-law-which-limits-restroom-access-for-transgen.md)
-_Context: 1964 Civil Rights Act, Governor, North Carolina Public Facilities Privacy & Security Act, Pat McCrory, Title VII, U.S. Justice Department, restroom access for transgender people_
+_Context: 1964 Civil Rights Act, Governor, North Carolina Public Facilities Privacy & Security Act, Pat McCrory, Title VII, U.S. Department of Justice, restroom access for transgender people_
 
 ### [The Nepalese Maoist Party says that they will withdraw support from Prime Minister Khadga Prasad Sharma Oli and form a new government. ](/news/2016/05/4/the-nepalese-maoist-party-says-that-they-will-withdraw-support-from-prime-minister-khadga-prasad-sharma-oli-and-form-a-new-government.md)
 _Context: Khadga Prasad Sharma Oli, Nepalese Maoist Party, Prime Minister, the Nepalese government_

@@ -7,7 +7,7 @@ _Context: Conflict in Iraq, Iraqi insurgency, United States_
 _Context: Ariel Sharon, Benjamin Netanyahu, Israeli Labor Party, Israeli Prime Minister, Israeli army radio, Israeli legislative election, Kadima, Likud, disengagement, grand coalition_
 
 ### [ U.S. President George W. Bush attends a church service during his visit to People's Republic of China as he presses for greater freedoms of expression and faith during his east Asian tour. ](/news/2005/11/20/u-s-president-george-w-bush-attends-a-church-service-during-his-visit-to-people-s-republic-of-china-as-he-presses-for-greater-freedoms-of.md)
-_Context: Chinese, George W. Bush, U.S. President_
+_Context: Chinese, George W. Bush, President of the United States_
 
 ### [ Russia: Russian President Vladimir Putin visits Japan with 100 business leaders for trade talks. ](/news/2005/11/20/russia-p-russian-president-vladimir-putin-visits-japan-with-100-business-leaders-for-trade-talks.md)
 _Context: Japan, Russia, Russian President Vladimir Putin, Vladimir Putin_

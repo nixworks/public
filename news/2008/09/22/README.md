@@ -13,7 +13,7 @@ _Context: African National Congress, Kgalema Motlanthe, South Africa, Thabo Mbek
 _Context: National Radio, Sweden, computer server_
 
 ### [ Liberal Democratic Party (Japan) leadership election, 2008: Japan's ruling Liberal Democratic Party chooses former Foreign Minister of Japan Taro Aso as the next Prime Minister of Japan replacing Yasuo Fukuda. ](/news/2008/09/22/liberal-democratic-party-japan-leadership-election-2008-japan-s-ruling-liberal-democratic-party-chooses-former-foreign-minister-of-japa.md)
-_Context: Foreign Minister of Japan, Japan, Liberal Democratic Party, Liberal Democratic Party (Japan) leadership election, 2008, Prime Minister, Taro Aso, Yasuo Fukuda_
+_Context: Foreign Minister of Japan, Japan, Liberal Democratic Party, Liberal Democratic Party (Japan) leadership election, 2008, Prime Minister of Japan, Taro Aso, Yasuo Fukuda_
 
 ### [ Edward Natapei is elected the new Prime Minister of Vanuatu following the 2008 general elections replacing Ham Lini. ](/news/2008/09/22/edward-natapei-is-elected-the-new-prime-minister-of-vanuatu-following-the-2008-general-elections-replacing-ham-lini.md)
 _Context: 2008 general elections, Edward Natapei, Ham Lini, Prime Minister of Vanuatu, Vanuatu_

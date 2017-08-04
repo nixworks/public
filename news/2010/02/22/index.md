@@ -16,7 +16,7 @@ _Context: Harare, Robert Mugabe, Zimbabwe_
 Minister for Foreign Affairs Micheál Martin has said his Israeli counterpart, Avigdor Leiberman, told him he had no information about Israeli involvement in the killing of a Palestinian official in Dubai last month.
 
 ### [Afghanistan's government condemns a NATO air strike on a convoy of vehicles in Uruzgan province, in the south of the country, which killed at least 27 civilians.  ](/news/2010/02/22/afghanistan-s-government-condemns-a-nato-air-strike-on-a-convoy-of-vehicles-in-uruzgan-province-in-the-south-of-the-country-which-killed-a.md)
-_Context: Afghanistan, NATO, Uruzgan province_
+_Context: Afghanistan's, NATO, Uruzgan province_
 
 ### [Conference of the German Bishops chairman Archbishop Robert Zollitsch formally apologises to those who went through sexual abuse as children after fresh controversy surrounding the issue at the beginning of this year. ](/news/2010/02/22/conference-of-the-german-bishops-chairman-archbishop-robert-zollitsch-formally-apologises-to-those-who-went-through-sexual-abuse-as-children.md)
 The head of the German Bishop&#39;s Conference Archbishop, Robert Zollitsch, has made a formal apology to the victims of clerical abuse at some Catholic schools.

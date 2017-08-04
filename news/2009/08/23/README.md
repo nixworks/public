@@ -19,7 +19,7 @@ _Context: Lee Myung-bak, North Korea, South Korea, South Korean President_
 _Context: Cuba, Fidel Castro, Juventud Rebelde_
 
 ### [ Afghan President Hamid Karzai's main rival Abdullah Abdullah alleges fraud in the presidential election. ](/news/2009/08/23/afghan-president-hamid-karzai-s-main-rival-abdullah-abdullah-alleges-fraud-in-the-presidential-election.md)
-_Context: Abdullah Abdullah, Afghanistan, Afghanistan President, Hamid Karzai, presidential election_
+_Context: Abdullah Abdullah, Afghanistan President, Afghanistan's, Hamid Karzai, presidential election_
 
 ### [ Yemeni troops claim to have killed more than 100 Shia rebels in the past two weeks, including two leaders, but the rebels deny their leaders, Mohsen Saleh Gawd and Salah Jorman, are dead and no independent confirmation is made available. ](/news/2009/08/23/yemeni-troops-claim-to-have-killed-more-than-100-shia-rebels-in-the-past-two-weeks-including-two-leaders-but-the-rebels-deny-their-leader.md)
 _Context: Mohsen Saleh Gawd, Salah Jorman, Shia, Yemen's_

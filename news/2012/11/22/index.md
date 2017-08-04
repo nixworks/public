@@ -22,7 +22,7 @@ _Context: Greek, Thessaloniki, arson, hostage, pensioner_
 Israel Security Agency reveals suspects arrested hours after the terror attack that wounded 28; court extends remand of 2 suspects.
 
 ### [Japanese police rescue four hostages from a Toyokawa Shinkin bank and arrest the knife-wielding man who had held them captive for more than 12 hours while demanding that Prime Minister Yoshihiko Noda resign. ](/news/2012/11/22/japanese-police-rescue-four-hostages-from-a-toyokawa-shinkin-bank-and-arrest-the-knife-wielding-man-who-had-held-them-captive-for-more-than.md)
-_Context: Japan, Prime Minister, Shinkin bank, Toyokawa, Yoshihiko Noda, hostage, police_
+_Context: Japan, Prime Minister of Japan, Shinkin bank, Toyokawa, Yoshihiko Noda, hostage, police_
 
 ### [The BBC appoints Tony Hall, Baron Hall of Birkenhead, as the new Director-General of the corporation after the resignation of George Entwistle earlier this month due to the Newsnight controversy. He is expected to start in the role in early March 2013. ](/news/2012/11/22/the-bbc-appoints-tony-hall-baron-hall-of-birkenhead-as-the-new-director-general-of-the-corporation-after-the-resignation-of-george-entwist.md)
 The BBC has appointed Tony Hall - Lord Hall of Birkenhead - as the new Director General of the corporation. 

@@ -16,7 +16,7 @@ MULTAN, Pakistan (AP) — Pakistani police say that counter-terrorism forces kil
 _Context: Kraft Heinz, US$, Unilever_
 
 ### [At least 25 people are killed by snowstorms and avalanches in northern Afghanistan as heavy snow continues to hit the country. ](/news/2017/02/19/at-least-25-people-are-killed-by-snowstorms-and-avalanches-in-northern-afghanistan-as-heavy-snow-continues-to-hit-the-country.md)
-_Context: 2017 Afghanistan avalanches, Afghanistan_
+_Context: 2017 Afghanistan avalanches, Afghanistan's_
 
 ### [An agreement is reached between Mongolian government representatives  and the International Monetary Fund  and other international partners on a  three-year, $5.5 billion economic stabilization package. ](/news/2017/02/19/an-agreement-is-reached-between-mongolian-government-representatives-and-the-international-monetary-fund-and-other-international-partners.md)
 Mongolia has agreed with the International Monetary Fund and other partners for a $5.5 billion economic stabilization package, according to a statement from the IMF on Sunday.

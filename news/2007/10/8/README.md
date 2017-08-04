@@ -4,7 +4,7 @@
 _Context: 2000 Olympics, Marion Jones, U.S., athlete, banned substances_
 
 ### [ Australia suffers its first combat casualty in Afghanistan following the explosion of a bomb in the southern province of Oruzgan. ](/news/2007/10/8/australia-suffers-its-first-combat-casualty-in-afghanistan-following-the-explosion-of-a-bomb-in-the-southern-province-of-ora-zgan.md)
-_Context: Afghanistan, Australia, Oruzgan Province_
+_Context: Afghanistan's, Australia, Oruzgan Province_
 
 ### [ Washington plane crash Air crews conduct search and rescue missions for an airplane carrying 8-10 passengers that is believed to have crashed in a mountainous area of the U.S. state of Washington 45 miles west of Yakima. ](/news/2007/10/8/washington-plane-crashp-air-crews-conduct-search-and-rescue-missions-for-an-airplane-carrying-8-10-passengers-that-is-believed-to-have-cras.md)
 Air crews launched a search and rescue mission at daybreak on Monday for an airplane carrying up to 10 people that is believed to have crashed in a mountainous area of Washington state, a state official said.

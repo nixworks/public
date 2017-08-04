@@ -10,7 +10,7 @@ _Context: Apple Inc., Dusseldorf, Galaxy Tab, Samsung_
 The move came after Israel’s refusal to apologize for a raid last year in which nine people died trying to break the naval blockade of Gaza.
 
 ### [The Prime Minister of Japan Yoshihiko Noda announces his new Cabinet with Jun Azumi as Minister of Finance and Koichiro Genba as Minister for Foreign Affairs. ](/news/2011/09/2/the-prime-minister-of-japan-yoshihiko-noda-announces-his-new-cabinet-with-jun-azumi-as-minister-of-finance-and-kaichira-genba-as-minister.md)
-_Context: Japanese Foreign Minister, Jun Azumi, Koichiro Genba, Minister of Finance, Prime Minister, Yoshihiko Noda_
+_Context: Foreign Minister, Jun Azumi, Koichiro Genba, Minister of Finance, Prime Minister of Japan, Yoshihiko Noda_
 
 ## [Previous Day...](/news/2011/09/1/index.md)
 

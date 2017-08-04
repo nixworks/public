@@ -25,7 +25,7 @@ More than a million people take part in a rally in north-eastern Spain seeking g
 _Context: Burma, National League for Democracy, general elections_
 
 ### [Japanese Prime Minister Naoto Kan makes a final campaign push on the eve of the country's Upper House election. ](/news/2010/07/10/japanese-prime-minister-naoto-kan-makes-a-final-campaign-push-on-the-eve-of-the-country-s-upper-house-election.md)
-_Context: Japan, Naoto Kan, Prime Minister, loses its majority_
+_Context: Japan, Naoto Kan, Prime Minister of Japan, loses its majority_
 
 ### [North Korea offers to return to the six-party talks over its nuclear weapons programme. ](/news/2010/07/10/north-korea-offers-to-return-to-the-six-party-talks-over-its-nuclear-weapons-programme.md)
 Pyongyang says it is will restart disarmament talks as UN condemns South Korea sinking.

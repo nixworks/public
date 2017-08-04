@@ -10,13 +10,13 @@ Israel and the Palestinians begin a fresh five-day ceasefire in Gaza, but immedi
 The UN declares its highest level of emergency in Iraq as a humanitarian crisis follows the rapid advance by Islamic State militants.
 
 ### [Taliban  insurgency:A roadside bomb detonates next to a police car in Laghman Province, Afghanistan killing 3 police officers and injuring another 4. ](/news/2014/08/14/taliban-insurgency-pa-roadside-bomb-detonates-next-to-a-police-car-in-laghman-province-afghanistan-killing-3-police-officers-and-injuring.md)
-_Context: Afghanistan, Laghman Province, Taliban insurgency_
+_Context: Afghanistan's, Laghman Province, Taliban insurgency_
 
 ### [Pope Francis begins a five day visit to South Korea. ](/news/2014/08/14/pope-francis-begins-a-five-day-visit-to-south-korea.md)
 Pope Francis has arrived in Seoul looking to fuel a new era of Catholic growth in Asia - a mission fraught with complex political challenges but huge potential rewards.
 
 ### [The President of the United States Barack Obama orders an independent inquiry by the United States Department of Justice and the Federal Bureau of Investigation into the shooting of Michael Brown by the Ferguson Police Department. ](/news/2014/08/14/the-president-of-the-united-states-barack-obama-orders-an-independent-inquiry-by-the-united-states-department-of-justice-and-the-federal-bur.md)
-_Context: Barack Obama, FBI, U.S. Justice Department, U.S. President, police force, shooting of Michael Brown_
+_Context: Barack Obama, FBI, President of the United States, U.S. Department of Justice, police force, shooting of Michael Brown_
 
 ### [Police search a Berkshire property belonging to Cliff Richard in relation to an alleged historical sex offense.  ](/news/2014/08/14/police-search-a-berkshire-property-belonging-to-cliff-richard-in-relation-to-an-alleged-historical-sex-offense.md)
 Police search a Berkshire property belonging to Sir Cliff Richard in relation to an alleged historical sex offence.

@@ -25,7 +25,7 @@ _Context: Robert Gates, Secretary of Defense, US$, War in Afghanistan (2001-pres
 _Context: Madeleine McCann, Morocco_
 
 ### [ The new Prime Minister of Japan Yasuo Fukuda is sworn into office with his Cabinet. ](/news/2007/09/26/the-new-prime-minister-of-japan-yasuo-fukuda-is-sworn-into-office-with-his-cabinet.md)
-_Context: Prime Minister, Yasuo Fukuda, forming a government_
+_Context: Prime Minister of Japan, Yasuo Fukuda, forming a government_
 
 ### [ The United Auto Workers announces a tentative agreement with General Motors ending a two-day strike. ](/news/2007/09/26/the-united-auto-workers-announces-a-tentative-agreement-with-general-motors-ending-a-two-day-strike.md)
 The United Auto Workers and General Motors Corp. said Wednesday they have reached a tentative contract agreement that ends a two-day nationwide strike immediately.

@@ -34,7 +34,7 @@ The police were out in force as students protested in London against higher tuit
 Thousands of head teachers in England and Wales have voted in favour of strike action over changes to pensions.
 
 ### [Voters in San Francisco, California, elect Ed Lee as the city's interim Mayor. Lee is the first Asian-American to become Mayor of San Francisco. ](/news/2011/11/9/voters-in-san-francisco-california-elect-ed-lee-as-the-city-s-interim-mayor-lee-is-the-first-asian-american-to-become-mayor-of-san-franci.md)
-_Context: Asian, California, Ed Lee, Mayor, San Francisco, California_
+_Context: Asian-American, California, Ed Lee, Mayor, San Francisco, California_
 
 ### [Russia's Fobos-Grunt mission to the Martian moon of Phobos runs into problems shortly after its launch, with no telemetry reported from the spacecraft. ](/news/2011/11/9/russia-s-fobos-grunt-mission-to-the-martian-moon-of-phobos-runs-into-problems-shortly-after-its-launch-with-no-telemetry-reported-from-the.md)
 Russia&#39;s bid for its first interplanetary mission in 15 years went awry on Wednesday when an unmanned spacecraft failed to take the proper course toward Mars after its launch.

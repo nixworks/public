@@ -13,7 +13,7 @@ _Context: Baghdad, Baquba, Shia_
 _Context: Pakistan, Quetta_
 
 ### [Three men in Afghan police uniform kill a NATO soldier in eastern Afghanistan.](/news/2012/06/18/three-men-in-afghan-police-uniform-kill-a-nato-soldier-in-eastern-afghanistan.md)
-_Context: Afghanistan, NATO_
+_Context: Afghanistan's, NATO_
 
 ### [It is disclosed that Jack Osbourne has the incurable neurological condition multiple sclerosis (MS). ](/news/2012/06/18/it-is-disclosed-that-jack-osbourne-has-the-incurable-neurological-condition-multiple-sclerosis-ms.md)
 Ozzy and Sharon Osbourne reveal that son Jack has the incurable neurological condition multiple sclerosis (MS).
@@ -37,7 +37,7 @@ Burma&#39;s pro-democracy campaigner Aung San Suu Kyi has flown out of Dublin af
 World leaders meeting at a G20 summit in Mexico urge Europe to take all necessary measures to overcome the eurozone debt crisis.
 
 ### [United States President Barack Obama and Russian President Vladimir Putin discuss the uprising in Syria, Iran, and trade at the summit. ](/news/2012/06/18/united-states-president-barack-obama-and-russian-president-vladimir-putin-discuss-the-uprising-in-syria-iran-and-trade-at-the-summit.md)
-_Context: Barack Obama, Iran, Russian President Vladimir Putin, Syrian uprising (2011-present), U.S. President, Vladimir Putin_
+_Context: Barack Obama, Iran, President of the United States, Russian President Vladimir Putin, Syrian uprising (2011-present), Vladimir Putin_
 
 ### [Rwanda's "gacaca courts", set up to try those responsible for playing a role in the 1994 Rwandan Genocide, finish their work. ](/news/2012/06/18/rwanda-s-gacaca-courts-set-up-to-try-those-responsible-for-playing-a-role-in-the-1994-rwandan-genocide-finish-their-work.md)
 Survivors of the Rwandan genocide in 1994 say they are concerned about their safety after community courts ended their work after 10 years.

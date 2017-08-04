@@ -7,7 +7,7 @@ _Context: Bulgaria, Iraq, U.S.-led troops_
 _Context: Chechnya_
 
 ### [ United States Government: Senator John McCain persuades President George W. Bush to accept a ban on cruel, inhuman and degrading treatment of detainees. ](/news/2005/12/16/united-states-government-p-senator-john-mccain-persuades-president-george-w-bush-to-accept-a-ban-on-cruel-inhuman-and-degrading-treatment.md)
-_Context: George W. Bush, John McCain, U.S. President, United States, United States Senate_
+_Context: George W. Bush, John McCain, President of the United States, United States, United States Senate_
 
 ### [ Conflict in Iraq: Iraqi Police claim that they captured Abu Musab al-Zarqawi in 2004 and then released him by mistake. ](/news/2005/12/16/conflict-in-iraq-iraqi-police-claim-that-they-captured-abu-musab-al-zarqawi-in-2004-and-then-released-him-by-mistake.md)
 _Context: 2004, Abu Musab al-Zarqawi, Conflict in Iraq, Iraqi Police_

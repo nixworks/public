@@ -1,7 +1,7 @@
 ## [2009-05-21](/news/2009/05/21/index.md)
 
 ### [ Four men are arrested for planning to bomb two synagogues and destroy military aircraft in New York, United States. ](/news/2009/05/21/four-men-are-arrested-for-planning-to-bomb-two-synagogues-and-destroy-military-aircraft-in-new-york-united-states.md)
-_Context: New York, United States, arrest, bomb, synagogue, warplanes_
+_Context: New York City, United States, arrest, bomb, synagogue, warplanes_
 
 ### [ Egyptian businessman Hisham Talaat Moustafa is convicted of murdering Lebanese pop singer Suzanne Tamim. ](/news/2009/05/21/egyptian-businessman-hisham-talaat-moustafa-is-convicted-of-murdering-lebanese-pop-singer-suzanne-tamim.md)
 _Context: Egypt, Hisham Talaat Moustafa, Lebanon, Suzanne Tamim, businessman, convicted, murder, pop_

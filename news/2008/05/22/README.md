@@ -10,7 +10,7 @@ _Context: Arnold Schwarzenegger, California, Governor of California, Santa Cruz 
 The town hall and several other buildings in Windsor were hit by a mile-wide tornado around lunch time, and at least one person died as the twister carved a swath of destruction through Weld County.
 
 ### [ Two civilians and a Lithuanian soldier are killed as an Afghan protest over the Koran shooting outside the Chagcharan Airfield in the Ghor Province of Afghanistan turns violent. ](/news/2008/05/22/two-civilians-and-a-lithuanian-soldier-are-killed-as-an-afghan-protest-over-the-koran-shooting-outside-the-chagcharan-airfield-in-the-ghor.md)
-_Context: Afghanistan, Ghor Province, Koran, Lithuania_
+_Context: Afghanistan's, Ghor Province, Koran, Lithuania_
 
 ### [ The death toll from the 2008 Sichuan earthquake rises to 51,151 with 29,328 still missing. ](/news/2008/05/22/the-death-toll-from-the-2008-sichuan-earthquake-rises-to-51-151-with-29-328-still-missing.md)
 _Context: deadly earthquake_

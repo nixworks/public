@@ -43,7 +43,7 @@ _Context: 2011 Tucson shooting, Jared Lee Loughner_
 _Context: Germany, United Nations Convention against Corruption_
 
 ### [Japanese Prime Minister Yoshihiko Noda announces that the ruling Democratic Party of Japan has reached an agreement with the opposition Liberal Democratic and New Komeito parties to pass a bill that will raise Japan's consumption tax rate.  This will "shortly" be followed by dissolution of the Diet and a snap election, although no timetable has been set. ](/news/2012/08/8/japanese-prime-minister-yoshihiko-noda-announces-that-the-ruling-democratic-party-of-japan-has-reached-an-agreement-with-the-opposition-libe.md)
-_Context: Democratic Party, Diet, Liberal Democratic Party, New Komeito, Prime Minister, Yoshihiko Noda, snap election_
+_Context: Democratic Party, Diet, Liberal Democratic Party, New Komeito, Prime Minister of Japan, Yoshihiko Noda, snap election_
 
 ### [President of Ukraine Viktor Yanukovych signs a controversial law about official status of 18 languages (including Russian, Hungarian, Crimean Tatar language, etc.) as regional and minority languages, allowing officials in Russian-speaking regions of the country to use Russian at public events and in documents. ](/news/2012/08/8/president-of-ukraine-viktor-yanukovych-signs-a-controversial-law-about-official-status-of-18-languages-including-russian-hungarian-crimea.md)
 _Context: Crimean Tatar language, Hungarian, Russian language, Russian-speaking regions, Ukrainian President, Viktor Yanukovych, minority language, regional_

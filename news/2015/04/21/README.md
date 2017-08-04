@@ -34,7 +34,7 @@ _Context: Egypt, Egyptian President, Mohammed Morsi_
 A high-frequency trader was arrested in London over his alleged role in the May 2010 &quot;flash crash&quot; that briefly wiped out nearly $1 trillion in market value, the first time authorities have blamed manipulation for the turbulence.
 
 ### [The United States Department of Justice announces a federal investigation into the death of Freddie Gray in police custody in the city of Baltimore, Maryland. ](/news/2015/04/21/the-united-states-department-of-justice-announces-a-federal-investigation-into-the-death-of-freddie-gray-in-police-custody-in-the-city-of-ba.md)
-_Context: Baltimore, U.S. Justice Department, death of Freddie Gray_
+_Context: Baltimore, U.S. Department of Justice, death of Freddie Gray_
 
 ### [Michele Leonhart announces her retirement as the Administrator of the United States Drug Enforcement Administration with concerns raised about her leadership following a prostitution scandal involving Agency officers having sex with prostitutes provided by drug cartels. ](/news/2015/04/21/michele-leonhart-announces-her-retirement-as-the-administrator-of-the-united-states-drug-enforcement-administration-with-concerns-raised-abo.md)
 _Context: Michele Leonhart, U.S. Drug Enforcement Administration, drug cartel_

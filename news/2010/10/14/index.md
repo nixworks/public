@@ -1,7 +1,7 @@
 ## [2010-10-14](/news/2010/10/14/index.md)
 
 ### [Eight ISAF NATO soldiers are killed in multiple attacks in Afghanistan, including four in roadside bombings. ](/news/2010/10/14/eight-isaf-nato-soldiers-are-killed-in-multiple-attacks-in-afghanistan-including-four-in-roadside-bombings.md)
-_Context: Afghanistan, ISAF, NATO, roadside bomb_
+_Context: Afghanistan's, ISAF, NATO, roadside bomb_
 
 ### [Six people, including an Iraqi Interior Ministry official and four members of a leading political bloc, die in multiple explosions throughout Baghdad apparently targeting members of former prime Minister Ayad Allawi's al-Iraqiya political coalition; four were killed in a roadside bomb and three others were wounded. ](/news/2010/10/14/six-people-including-an-iraqi-interior-ministry-official-and-four-members-of-a-leading-political-bloc-die-in-multiple-explosions-throughou.md)
 _Context: Ayad Allawi, Baghdad, Iraq, Iraqi National Movement_
@@ -28,10 +28,10 @@ _Context: Cyprus, TRNC_
 Complaint filed with International Criminal Court accuses Israel of war crimes including torture, inhuman treatment during IDF raid on Gaza-bound flotilla last May. ICC&#39;s jurisdiction unclear 
 
 ### [At least seven Afghan border guards are detained by Iran after crossing their mutual border. ](/news/2010/10/14/at-least-seven-afghan-border-guards-are-detained-by-iran-after-crossing-their-mutual-border.md)
-_Context: Afghanistan, Iran_
+_Context: Afghanistan's, Iran_
 
 ### [The Prime Minister of Japan Naoto Kan calls on China to release Nobel Peace Prize winner Liu Xiaobo. ](/news/2010/10/14/the-prime-minister-of-japan-naoto-kan-calls-on-china-to-release-nobel-peace-prize-winner-liu-xiaobo.md)
-_Context: Chinese, Liu Xiaobo, Naoto Kan, Nobel Peace Prize, Prime Minister_
+_Context: Chinese, Liu Xiaobo, Naoto Kan, Nobel Peace Prize, Prime Minister of Japan_
 
 ### [Canada's PM Stephen Harper and Lan Lijun, China's Ambassador to Canada, take part in a ceremony to mark the 40th anniversary of Sino-Canadian relations. ](/news/2010/10/14/canada-s-pm-stephen-harper-and-lan-lijun-china-s-ambassador-to-canada-take-part-in-a-ceremony-to-mark-the-40th-anniversary-of-sino-canadia.md)
 _Context: Lan Lijun, Sino-Canadian relations, Stephen Harper_

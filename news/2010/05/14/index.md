@@ -19,7 +19,7 @@ Relatives broke the news to a Dutch boy who is the sole survivor of a plane cras
 The body of a Palestinian teenager was found in the occupied West Bank on Friday, and Palestinian police and witnesses said he had been shot dead by Jewish settlers after he threw rocks at their car.
 
 ### [Pakistan arrests a suspect with connections to a Pakistani group who said he acted as an accomplice to the man accused of trying to bomb Times Square in New York. ](/news/2010/05/14/pakistan-arrests-a-suspect-with-connections-to-a-pakistani-group-who-said-he-acted-as-an-accomplice-to-the-man-accused-of-trying-to-bomb-tim.md)
-_Context: Faisal Shahzad, New York, Pakistan, Times Square bomber_
+_Context: Faisal Shahzad, New York City, Pakistan, Times Square bomber_
 
 ### [The chairman of the Nigerian People's Democratic Party (PDP), Vincent Eze Ogbulafor, resigns days after facing fraud charges in court. ](/news/2010/05/14/the-chairman-of-the-nigerian-people-s-democratic-party-pdp-vincent-eze-ogbulafor-resigns-days-after-facing-fraud-charges-in-court.md)
 _Context: Nigeria, People's Democratic Party, Vincent Eze Ogbulafor_

@@ -17,7 +17,7 @@ _Context: Cambodian Armed Forces, Cambodian-Thai border stand-off, Preah Vihear 
 A new centre opens designed to help some of the thousands of people who have been raped in DR Congo.
 
 ### [At least ten people are killed and several others injured in separate incidents of violence across Afghanistan. ](/news/2011/02/4/at-least-ten-people-are-killed-and-several-others-injured-in-separate-incidents-of-violence-across-afghanistan.md)
-_Context: Afghanistan_
+_Context: Afghanistan's_
 
 ### [Angela Merkel, the German Chancellor, and Nicolas Sarkozy, the President of France, jointly propose a new set of policies for the euro zone defined to defend the euro as a currency, such as higher retirement ages and the abolition of inflation-indexed wages. ](/news/2011/02/4/angela-merkel-the-german-chancellor-and-nicolas-sarkozy-the-president-of-france-jointly-propose-a-new-set-of-policies-for-the-euro-zone.md)
 _Context: Angela Merkel, Eurozone, Nicolas Sarkozy, euro_

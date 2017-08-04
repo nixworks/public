@@ -47,7 +47,7 @@ Prime Minister Julia Gillard has unveiled a complete reshuffle at the top of the
 _Context: Iran, Mahmoud Ahmadinejad, President, parliament_
 
 ### [Japan's Opposition lodges a no-confidence motion in the Diet against Prime Minister Naoto Kan. ](/news/2011/06/1/japan-s-opposition-lodges-a-no-confidence-motion-in-the-diet-against-prime-minister-naoto-kan.md)
-_Context: Diet, Japan, Naoto Kan, Prime Minister_
+_Context: Diet, Japan, Naoto Kan, Prime Minister of Japan_
 
 ### [Badri Bitsadze, husband of Nino Burdzhanadze, a former Speaker of Parliament, is arrested and charged with attempting to orchestrate a  government takeover using paramilitary groups during the 2011 Georgian protests.](/news/2011/06/1/badri-bitsadze-husband-of-nino-burdzhanadze-a-former-speaker-of-parliament-is-arrested-and-charged-with-attempting-to-orchestrate-a-gove.md)
 _Context: 2011 Georgian protests, Badri Bitsadze, Nino Burdzhanadze_

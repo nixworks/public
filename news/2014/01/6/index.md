@@ -4,7 +4,7 @@
 _Context: Khyber Agency, Pakistan, War in North-West Pakistan_
 
 ### [War in Afghanistan (2001-present):A suicide car bomber detonates at a police checkpoint in Ghazni Province, Afghanistan, killing 3 police officers. ](/news/2014/01/6/war-in-afghanistan-2001apresent-pa-suicide-car-bomber-detonates-at-a-police-checkpoint-in-ghazni-province-afghanistan-killing-3-police.md)
-_Context: Afghanistan, Ghazni Province, War in Afghanistan (2001-present)_
+_Context: Afghanistan's, Ghazni Province, War in Afghanistan (2001-present)_
 
 ### [Islamist insurgency in Nigeria:Gunmen  kill 30 people in the central Nigerian village of Shonong in the Riyom local government area. ](/news/2014/01/6/islamist-insurgency-in-nigeria-pgunmen-kill-30-people-in-the-central-nigerian-village-of-shonong-in-the-riyom-local-government-area.md)
 Gunmen killed 30 people in a village in central Nigeria on Monday, officials said, in a religiously-mixed region with a long history of ethnic and communal violence.

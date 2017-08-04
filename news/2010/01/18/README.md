@@ -16,7 +16,7 @@ _Context: Mehmet Ali Agca, Pope, Pope John Paul II, Turkey_
 _Context: Al-Amin Kimathi, Kenya, MP, Muslim, Somalia_
 
 ### [Two dozen Afghan Taliban insurgents launch coordinated attacks against the presidential palace and other buildings in central Kabul on the day a new government is to be sworn in. ](/news/2010/01/18/two-dozen-afghan-taliban-insurgents-launch-coordinated-attacks-against-the-presidential-palace-and-other-buildings-in-central-kabul-on-the-d.md)
-_Context: Afghanistan, Kabul, Taliban_
+_Context: Afghanistan's, Kabul, Taliban_
 
 ### [A 3.4 M<sub>w</sub> earthquake hits Guizhou Province, China, and kills seven people. ](/news/2010/01/18/a-3-4-mw-earthquake-hits-guizhou-province-china-and-kills-seven-people.md)
 _Context: Chinese, Guizhou province, earthquake, magnitude earthquake_

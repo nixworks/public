@@ -1,7 +1,7 @@
 ## [2012-12-26](/news/2012/12/26/index.md)
 
 ### [War in Afghanistan (2001-present):A suicide bomber kills himself and three Afghans (a guard and two civilians) outside the perimeter of Forward Operating Base Chapman in Khost, Afghanistan, the scene of an earlier attack in December 2009. ](/news/2012/12/26/war-in-afghanistan-2001apresent-pa-suicide-bomber-kills-himself-and-three-afghans-a-guard-and-two-civilians-outside-the-perimeter-of-f.md)
-_Context: Afghanistan, Afghans, Forward Operating Base Chapman, Khost, War in Afghanistan (2001-present)_
+_Context: Afghanistan's, Afghans, Forward Operating Base Chapman, Khost, War in Afghanistan (2001-present)_
 
 ### [The death is announced of Irish poet, essayist, critic and editor Dennis O'Driscoll at the age of 58. ](/news/2012/12/26/the-death-is-announced-of-irish-poet-essayist-critic-and-editor-dennis-o-driscoll-at-the-age-of-58.md)
 _Context: Dennis O'Driscoll, Irish_
@@ -22,7 +22,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Mexico, Sinaloa_
 
 ### [Japan's new Prime Minister Shinzo Abe unveils his cabinet line-up as he begins the task of economic revitalisation. ](/news/2012/12/26/japan-s-new-prime-minister-shinza-abe-unveils-his-cabinet-line-up-as-he-begins-the-task-of-economic-revitalisation.md)
-_Context: Japan, Prime Minister, Shinzo Abe_
+_Context: Japan, Prime Minister of Japan, Shinzo Abe_
 
 ### [Former South African President and anti-apartheid leader Nelson Mandela, 94, in still-fragile health, is released from the hospital in Pretoria, South Africa to receive continuing at-home care. He had had his longest period of hospitalization (more than 2 weeks) there since his 1990 release from prison, as the result of a gallstone removal operation and a lung infection. ](/news/2012/12/26/former-south-african-president-and-anti-apartheid-leader-nelson-mandela-94-in-still-fragile-health-is-released-from-the-hospital-in-preto.md)
 _Context: Nelson Mandela, President of South Africa, Pretoria, South Africa, gallstone, lung infection_

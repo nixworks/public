@@ -1,7 +1,7 @@
 ## [2010-08-12](/news/2010/08/12/index.md)
 
 ### [War in Afghanistan:The International Assistance Mission says it now believes that the Taliban was responsible for the 2010 Badakhshan massacre of its medical team in Afghanistan. ](/news/2010/08/12/war-in-afghanistan-pthe-international-assistance-mission-says-it-now-believes-that-the-taliban-was-responsible-for-the-2010-badakhshan-massa.md)
-_Context: 2010 Badakhshan massacre, Afghanistan, International Assistance Mission, Taliban, War in Afghanistan (2001-present)_
+_Context: 2010 Badakhshan massacre, Afghanistan's, International Assistance Mission, Taliban, War in Afghanistan (2001-present)_
 
 ### [Human Rights Watch accuses the northern Ugandan  Lord's Resistance Army of abducting and forcing the recruitment of at least 697 people during the last year and a half across central Africa. ](/news/2010/08/12/human-rights-watch-accuses-the-northern-ugandan-lord-s-resistance-army-of-abducting-and-forcing-the-recruitment-of-at-least-697-people-duri.md)
 _Context: Central Africa, Human Rights Watch, Lord's Resistance Army, Uganda_

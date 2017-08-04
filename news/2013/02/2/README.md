@@ -10,7 +10,7 @@ _Context: Ankara, Revolutionary People's Liberation Army-Front (DHKP-C), Turkey,
 At least one protester was shot dead and dozens wounded on Friday when riot police clashed with demonstrators demanding the overthrow of Egyptian President Mohamed Mursi.
 
 ### [Senkaku Islands dispute:Prime Minister of Japan Shinzo Abe vows to defend the Senkaku Islands "at all costs" in a speech aimed at the Japan Self-Defense Forces. ](/news/2013/02/2/senkaku-islands-dispute-pprime-minister-of-japan-shinza-abe-vows-to-defend-the-senkaku-islands-at-all-costs-in-a-speech-aimed-at-the-japa.md)
-_Context: Japan, Prime Minister, Senkaku Islands, Senkaku Islands dispute, Shinzo Abe, military_
+_Context: Japan, Prime Minister of Japan, Senkaku Islands, Senkaku Islands dispute, Shinzo Abe, military_
 
 ### [A bus catches fire after falling into a ravine in Gansu province, China, killing 18 people and injuring 34 others. ](/news/2013/02/2/a-bus-catches-fire-after-falling-into-a-ravine-in-gansu-province-china-killing-18-people-and-injuring-34-others.md)
 _Context: Chinese, Gansu_

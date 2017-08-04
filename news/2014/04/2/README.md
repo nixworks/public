@@ -4,7 +4,7 @@
 Several bombs near Cairo university kill a police brigadier-general and wound five people, in an attack claimed by the militant group Ajnad Misr.
 
 ### [A suicide bomber wearing a military uniform strikes a voter registration office in Kabul, Afghanistan killing 6 police officers. ](/news/2014/04/2/a-suicide-bomber-wearing-a-military-uniform-strikes-a-voter-registration-office-in-kabul-afghanistan-killing-6-police-officers.md)
-_Context: Afghanistan, Kabul_
+_Context: Afghanistan's, Kabul_
 
 ### [2014 Fort Hood shooting:A shooting is reported at the Fort Hood Army Base near the US town of Killeen, Texas with reports of at least four deaths, including the gunman, and 14 injuries. ](/news/2014/04/2/2014-fort-hood-shooting-pa-shooting-is-reported-at-the-fort-hood-army-base-near-the-us-town-of-killeen-texas-with-reports-of-at-least-four.md)
 At least four people were killed in the shooting at Fort Hood, a toll that includes the gunman

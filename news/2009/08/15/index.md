@@ -10,7 +10,7 @@ _Context: Hong Kong_
 _Context: Colombia, United States_
 
 ### [ Japan expresses remorse for its actions in World War II on the anniversary of its 1945 defeat, but former Prime Ministers Junichiro Koizumi and Shinzo Abe visit the Yasukuni Shrine, a controversial war shrine seen as a symbol of its past militarism. ](/news/2009/08/15/japan-expresses-remorse-for-its-actions-in-world-war-ii-on-the-anniversary-of-its-1945-defeat-but-former-prime-ministers-junichiro-koizumi.md)
-_Context: Japan, Junichiro Koizumi, Prime Minister, Shinzo Abe, World War II, Yasukuni Shrine, controversial, surrender_
+_Context: Japan, Junichiro Koizumi, Prime Minister of Japan, Shinzo Abe, World War II, Yasukuni Shrine, controversial, surrender_
 
 ### [ Former President of Zambia, Frederick Chiluba, awaits the verdict in his trial into his criminal case for being accused of plundering the national economy during his decade-long rule. ](/news/2009/08/15/former-president-of-zambia-frederick-chiluba-awaits-the-verdict-in-his-trial-into-his-criminal-case-for-being-accused-of-plundering-the-n.md)
 JOHANNESBURG: A former president of Zambia faces jail after a trial that may send a shiver down the spines of Africa&#039;s once-untouchable autocrats.
@@ -19,7 +19,7 @@ JOHANNESBURG: A former president of Zambia faces jail after a trial that may sen
 The whereabouts of the Finnish-owned vessel and its Russian crew remain unknown.
 
 ### [ A suicide bomb attack occurs outside the NATO headquarters in Kabul, Afghanistan, killing at least seven and injuring 100. ](/news/2009/08/15/a-suicide-bomb-attack-occurs-outside-the-nato-headquarters-in-kabul-afghanistan-killing-at-least-seven-and-injuring-100.md)
-_Context: Afghanistan, Kabul, NATO, suicide bomb_
+_Context: Afghanistan's, Kabul, NATO, suicide bomb_
 
 ### [ A prison riot in the Mexican state of Durango leaves at least 19 people dead and 20 injured. ](/news/2009/08/15/a-prison-riot-in-the-mexican-state-of-durango-leaves-at-least-19-people-dead-and-20-injured.md)
 Nineteen people died and at least another 20 were hurt in a prison fight on Friday in the northern Mexican state of Durango, a security official said. Many of the dead were shot in the clash between rival gangs at the prison in the town of Gomez Palacios, said Barbara Ramirez, a spokeswoman for the state security minister. &quot;We are currently trying to find out how these weapons got into the prison,&quot; she said. The prison holds inmates seen as low or medium security risks. Durango has seen an explosion of drug gang violence in recent months in clashes between the Gulf and the Sinaloa cartels but it was unclear whether this incident was related to drugs. At least 13,000 people have died in drug violence since President Felipe Calderon took office in Dec., 2006. Some 4,000 have been slain this year as powerful gangs clash over territory and federal police and soldiers try to impose order. (Reporting by Luis Rojas Mena and Robert Campbell, editing by Alan Elsner)

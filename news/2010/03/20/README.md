@@ -16,7 +16,7 @@ Ahead of AIPAC meeting, US Congress leaders express &quot;deep concern&quot; ove
 A senior official of Somali insurgent group al Shabaab was shot dead on Friday in a rare assassination in the southern port of Kismayu, which is tightly controlled by the al Qaeda-linked rebels.
 
 ### [Thousands of Russians demonstrate across the country against the policies of the government of Prime Minister Vladimir Putin. ](/news/2010/03/20/thousands-of-russians-demonstrate-across-the-country-against-the-policies-of-the-government-of-prime-minister-vladimir-putin.md)
-_Context: Prime Minister, Russia, Vladimir Putin_
+_Context: Prime Minister of Russia, Russia, Vladimir Putin_
 
 ### [A severe sandstorm affecting northern parts of China hits the capital Beijing, with health authorities urging people to stay inside. ](/news/2010/03/20/a-severe-sandstorm-affecting-northern-parts-of-china-hits-the-capital-beijing-with-health-authorities-urging-people-to-stay-inside.md)
 _Context: Beijing, Chinese, dust storm_

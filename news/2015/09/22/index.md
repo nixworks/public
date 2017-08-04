@@ -25,7 +25,7 @@ Chinese President Xi Jinping&#39;s first stop on his United States tour isn&#39;
 [JAKARTA] The haze from Indonesian forest fires intensified Tuesday afternoon, driving the pollution gauge in parts of the country to hazardous levels and blanketing downtown Singapore with a layer of smog. Read more at The Business Times.
 
 ### [The President of the United States Barack Obama signs a disaster declaration for the Valley Fire which has claimed three lives in Lake County, California. ](/news/2015/09/22/the-president-of-the-united-states-barack-obama-signs-a-disaster-declaration-for-the-valley-fire-which-has-claimed-three-lives-in-lake-count.md)
-_Context: 2015 California wildfires, Barack Obama, Lake County, California, U.S. President_
+_Context: 2015 California wildfires, Barack Obama, Lake County, California, President of the United States_
 
 ### [The President of Venezuela Nicolas Maduro and the President of Colombia Juan Manuel Santos agree to gradually reopen their common border which had been closed following a Venezuelan crackdown on smuggling. ](/news/2015/09/22/the-president-of-venezuela-nicola-s-maduro-and-the-president-of-colombia-juan-manuel-santos-agree-to-gradually-reopen-their-common-border-wh.md)
 The leaders of Venezuela and Colombia agree to &quot;normalise&quot; the situation at their joint border, which Venezuela closed a month ago.

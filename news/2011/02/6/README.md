@@ -10,7 +10,7 @@ Tunisian police kill at least two people in the north-western town of Kef, durin
 _Context: Cambodian-Thai border stand-off_
 
 ### [U.S.-led forces kill four civilians, including a woman, in northern Afghanistan. ](/news/2011/02/6/u-s-led-forces-kill-four-civilians-including-a-woman-in-northern-afghanistan.md)
-_Context: Afghanistan_
+_Context: Afghanistan's_
 
 ### [Israeli soldiers have shot three Palestinians, two while they collected gravel from destroyed homes in Gaza, and another while he worked in the northern Gaza Strip. ](/news/2011/02/6/israeli-soldiers-have-shot-three-palestinians-two-while-they-collected-gravel-from-destroyed-homes-in-gaza-and-another-while-he-worked-in.md)
 _Context: Gaza Strip, Israel, gravel_
@@ -22,7 +22,7 @@ Army Chief General V.K. Singh today said that the Army would make an enquiry on 
 At least 30 soldiers have been killed in southern Sudan during internal fighting among troops of the national army, state officials said.
 
 ### [The President of Afghanistan Hamid Karzai says that a transfer of security authority from international to Afghan forces will begin on March 21. ](/news/2011/02/6/the-president-of-afghanistan-hamid-karzai-says-that-a-transfer-of-security-authority-from-international-to-afghan-forces-will-begin-on-march.md)
-_Context: Afghanistan, Afghanistan President, Hamid Karzai_
+_Context: Afghanistan President, Afghanistan's, Hamid Karzai_
 
 ### [The Indian Navy captures 28 suspected Somali pirates on a Thai fishing vessel in the Indian Ocean. ](/news/2011/02/6/the-indian-navy-captures-28-suspected-somali-pirates-on-a-thai-fishing-vessel-in-the-indian-ocean.md)
 _Context: Indian Navy, Indian Ocean, Somali pirates, Thailand_

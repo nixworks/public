@@ -13,7 +13,7 @@ Heavy rain leads to more flooding in northern England, with homes evacuated in L
 The body of a 5-year-old boy, who went missing Friday after the car he was in was washed over by floodwaters, was discovered in Alabama.
 
 ### [Officials report at least four people died and more than 100 were injured, most in Pakistan,  after Friday night's 6.3 magnitude earthquake in northeast Afghanistan. Casualty numbers may change since rescue teams have not reached all affected areas. ](/news/2015/12/26/officials-report-at-least-four-people-died-and-more-than-100-were-injured-most-in-pakistan-after-friday-night-s-6-3-magnitude-earthquake.md)
-_Context: Afghanistan, December 2015 Hindu Kush earthquake, Pakistan, magnitude earthquake_
+_Context: Afghanistan's, December 2015 Hindu Kush earthquake, Pakistan, magnitude earthquake_
 
 ### [China's Foreign Ministry announces French journalist Ursula Gauthier of news magazine L'Obs would not be issued press credentials for 2016, effectively expelling her at the end of month. Gauthier allegedly made speculative reports on the deadly attack at a coal mine in Xinjiang. ](/news/2015/12/26/china-s-foreign-ministry-announces-french-journalist-ursula-gauthier-of-news-magazine-l-obs-would-not-be-issued-press-credentials-for-2016.md)
 China is &#039;expelling&#039; a French journalist for writing article critical of Beijing&#039;s stance on Muslim Uighurs in Xinjiang.

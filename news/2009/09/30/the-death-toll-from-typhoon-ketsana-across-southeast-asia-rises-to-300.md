@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Large parts of Southern Asia may be uninhabitable by 2100 due to levels of humidity dangerous to humans. ](/news/2017/08/2/large-parts-of-southern-asia-may-be-uninhabitable-by-2100-due-to-levels-of-humidity-dangerous-to-humans.md) _Context: Asia_
+1. [New research suggests that large parts of Southern Asia may be uninhabitable by 2100 due to levels of humidity dangerous to humans. ](/news/2017/08/2/new-research-suggests-that-large-parts-of-southern-asia-may-be-uninhabitable-by-2100-due-to-levels-of-humidity-dangerous-to-humans.md) _Context: Asia_
 2. [The Zika virus outbreak in Singapore which has infected over 200 people likely evolved from Southeast Asia. ](/news/2016/09/4/the-zika-virus-outbreak-in-singapore-which-has-infected-over-200-people-likely-evolved-from-southeast-asia.md) _Context: Asia_
 3. [In 2015, more than 100,000 people in Indonesia, Malaysia, and Singapore may have died as a result of forest fires in Southeast Asia. The continued poor air quality also continues to affect the health of more than 42 million Indonesians. ](/news/2016/09/19/in-2015-more-than-100-000-people-in-indonesia-malaysia-and-singapore-may-have-died-as-a-result-of-forest-fires-in-southeast-asia-the-con.md) _Context: Asia_
 4. [Pulitzer PrizesThe Associated Press wins the Pulitzer Prize for Public Service for documenting the use of slave labor in Southeast Asia to supply seafood to American tables. ](/news/2016/04/18/pulitzer-prizespthe-associated-press-wins-the-pulitzer-prize-for-public-service-for-documenting-the-use-of-slave-labor-in-southeast-asia-to.md) _Context: Asia_

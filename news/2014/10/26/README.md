@@ -1,7 +1,7 @@
 ## [2014-10-26](/news/2014/10/26/index.md)
 
 ### [Pakistan's military claims to have killed 18 militants in air strikes near the Afghanistan border. ](/news/2014/10/26/pakistan-s-military-claims-to-have-killed-18-militants-in-air-strikes-near-the-afghanistan-border.md)
-_Context: Afghanistan, Pakistan, War in North-West Pakistan_
+_Context: Afghanistan's, Pakistan, War in North-West Pakistan_
 
 ### [Camp Bastion, the last remaining British base in Afghanistan, and Camp Leatherneck, an American base next to it, are handed over to the Afghan Government. ](/news/2014/10/26/camp-bastion-the-last-remaining-british-base-in-afghanistan-and-camp-leatherneck-an-american-base-next-to-it-are-handed-over-to-the-afgh.md)
 The last UK base and a key US base in Afghanistan are handed over to Afghan security forces, ending British combat operations in the country.

@@ -1,7 +1,7 @@
 ## [2014-03-11](/news/2014/03/11/index.md)
 
 ### [Gunmen in Kabul, Afghanistan kill Swedish Radio foreign correspondent Nils Horner. ](/news/2014/03/11/gunmen-in-kabul-afghanistan-kill-swedish-radio-foreign-correspondent-nils-horner.md)
-_Context: Afghanistan, Kabul, Nils Horner, Swedish Radio_
+_Context: Afghanistan's, Kabul, Nils Horner, Swedish Radio_
 
 ### [Maoist rebels ambush an Indian paramilitary force in Chhattisgarh, India, killing 18 soldiers. ](/news/2014/03/11/maoist-rebels-ambush-an-indian-paramilitary-force-in-chhattisgarh-india-killing-18-soldiers.md)
 _Context: Chhattisgarh, India, Maoist_

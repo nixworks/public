@@ -19,7 +19,7 @@ Russia enacted a new treason law on Wednesday, alarming opponents of President V
 Millions of EU workers hold a day of action against unemployment and austerity, with protests in Spain and Portugal marred by violence.
 
 ### [Japanese Prime Minister Yoshihiko Noda announces he will dissolve the House of Representatives of the Diet on Friday after the ruling DPJ government and opposition LDP come to an agreement regarding a reduction of seats in the House.  A general election is scheduled for December 16. ](/news/2012/11/14/japanese-prime-minister-yoshihiko-noda-announces-he-will-dissolve-the-house-of-representatives-of-the-diet-on-friday-after-the-ruling-dpj-go.md)
-_Context: Democratic Party, Diet, Liberal Democratic Party, Prime Minister, Yoshihiko Noda, general election, the Lower House of the Diet_
+_Context: Democratic Party, Diet, Liberal Democratic Party, Prime Minister of Japan, Yoshihiko Noda, general election, the Lower House of the Diet_
 
 ### [Astronomers announce the discovery of CFBDSIR 2149-0403, the closest known rogue planet to Earth at approximately 100 light-years away. ](/news/2012/11/14/astronomers-announce-the-discovery-of-cfbdsir-2149-0403-the-closest-known-rogue-planet-to-earth-at-approximately-100-light-years-away.md)
 Astronomers spot a planet wandering the cosmos without a host star about 100 light-years away, finding it to have a mass a few times that of Jupiter.
