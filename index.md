@@ -1,4 +1,15 @@
-## [News](/news/2017/08/3/index.md)
+## [News](/news/2017/08/4/index.md)
+
+### [Voters in Rwanda go the polls to elect their president. Paul Kagame, incumbent since 2000, referred to the election as a formality, despite challenges from the Democratic Greens' Frank Habineza and independent Philippe Mpayimana. ](/news/2017/08/4/voters-in-rwanda-go-the-polls-to-elect-their-president-paul-kagame-incumbent-since-2000-referred-to-the-election-as-a-formality-despite.md)
+_Context: Democratic Greens, Frank Habineza, Paul Kagame, Rwanda, Rwandan presidential election, 2017, president_
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/08/3/index.md)
 
 ### [ A NATO soldier is killed and six other personnel are wounded after a suicide bomber attacked their convoy in Afghanistan's Kabul province. ](/news/2017/08/3/a-nato-soldier-is-killed-and-six-other-personnel-are-wounded-after-a-suicide-bomber-attacked-their-convoy-in-afghanistan-s-kabul-province.md)
 _Context: Afghanistan's, Kabul province, NATO, War in Afghanistan (2015-present), suicide bomber_
@@ -27,13 +38,9 @@ Japanese Prime Minister Shinzo Abe, beset by scandals and falling support, opted
 ### [West Virginia Governor Jim Justice announces, during U.S. President Donald Trump's rally in Huntington, he is changing his party affiliation from Democratic to Republican. ](/news/2017/08/3/west-virginia-governor-jim-justice-announces-during-u-s-president-donald-trump-s-rally-in-huntington-he-is-changing-his-party-affiliation.md)
 Trump won all 55 counties in the state, including 43 counties where he received more than 70 percent of votes.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/08/2/index.md)
+## [Day Before Yesterday](/news/2017/08/2/index.md)
 
 ### [Prince Philip, Duke of Edinburgh, retires from public appearances at the age of 96, after having completed 22,219 solo engagements since 1952. ](/news/2017/08/2/prince-philip-duke-of-edinburgh-retires-from-public-appearances-at-the-age-of-96-after-having-completed-22-219-solo-engagements-since-195.md)
 Crowds cheer as Prince Philip, the 96-year-old husband of Queen Elizabeth, braves pouring rain to make his 22,219th and final solo public engagement.
@@ -70,32 +77,7 @@ Unless carbon emissions are curtailed, climate change may expose 1.5 billion peo
 
 ---
 
-## [Day Before Yesterday](/news/2017/08/1/index.md)
-
-### [An explosion kills at least 29 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/an-explosion-kills-at-least-29-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md)
-An explosion at a Shia mosque in the Afghan city of Herat kills at least 20 people, officials say.
-
-### [A 2 meter (6.5 feet) tall 12th century sandstone statue of a human figure is unearthed by archaeologists during an excavation of a Khmer Empire-era hospital built during the reign of King Jayavarman VII at Cambodia's Angkor Wat temple complex in Siem Reap Province. ](/news/2017/08/1/a-2-meter-6-5-feet-tall-12th-century-sandstone-statue-of-a-human-figure-is-unearthed-by-archaeologists-during-an-excavation-of-a-khmer-emp.md)
-The discovery at Angkor Wat has been described as &quot;like something that only happens in the movies&quot;.
-
-### [According to the United Nations, the Philippines has the largest increase in HIV/AIDS in the Asia Pacific region with about a 140% increase in cases from 2010 until 2016 possibly causing a 'national emergency.' ](/news/2017/08/1/according-to-the-united-nations-the-philippines-has-the-largest-increase-in-hiv-aids-in-the-asia-pacific-region-with-about-a-140-increase.md)
-The Philippines records the fastest-growing HIV/AIDS epidemic in the Asia-Pacific in the past six years, the UN says.
-
-### [Three so-called GTA gang members are shot dead and four others are wounded, including two guards, at a courthouse in Moscow, Russia, after they attempted to escape. ](/news/2017/08/1/three-so-called-gta-gang-members-are-shot-dead-and-four-others-are-wounded-including-two-guards-at-a-courthouse-in-moscow-russia-after-t.md)
-Three people standing trial have been killed in a shootout at a courthouse in Moscow, Russian officials have said. Five handcuffed defendants tried to escape as they were escorted by two guards at the Moscow Regional Court, according to Russia&#039;s Investigative Committee, the country&#039;s chief investigative body.
-
-### [ Jacinda Ardern is elected the new leader of the Labour Party, after Andrew Little resigns on the back of poor opinion poll performance ahead of the 23 September election. ](/news/2017/08/1/jacinda-ardern-is-elected-the-new-leader-of-the-labour-party-after-andrew-little-resigns-on-the-back-of-poor-opinion-poll-performance-ahea.md)
-New Labour leader Jacinda Ardern says the party is about to &quot;run the campaign of our lives&quot;.
-
-### [Venezuelan opposition leaders Leopoldo Lopez and Mayor of Caracas Antonio Ledezma are seized at their homes overnight by the Bolivarian Intelligence Service (SEBIN) and taken to Ramo Verde Prison. They had been arrested previously by the Venezuelan  government, but were under house arrest at the time of being seized. ](/news/2017/08/1/venezuelan-opposition-leaders-leopoldo-la3pez-and-mayor-of-caracas-antonio-ledezma-are-seized-at-their-homes-overnight-by-the-bolivarian-int.md)
-Two leading activists were taken to a military jail by security forces in the middle of the night.
-
-### [The United States Senate, in a 92-5 vote, confirms Christopher A. Wray as Director of the Federal Bureau of Investigation. ](/news/2017/08/1/the-united-states-senate-in-a-92a5-vote-confirms-christopher-a-wray-as-director-of-the-federal-bureau-of-investigation.md)
-_Context: Christopher A. Wray, Director of the Federal Bureau of Investigation, United States Senate_
-
----
-
-## [Previous Day...](/news/2017/07/31/index.md)
+## [Previous Day...](/news/2017/08/1/index.md)
 
 ---
 
