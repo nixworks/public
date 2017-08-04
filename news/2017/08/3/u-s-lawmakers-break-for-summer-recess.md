@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/U/US_CONGRESS_WRAP_UP?)
+1. [AP](http://hosted.ap.org/dynamic/stories/U/US_CONGRESS_WRAP_UP?SITE=TNMOR)
 
 ### Related:
 
