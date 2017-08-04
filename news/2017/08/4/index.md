@@ -1,7 +1,7 @@
 ## [2017-08-4](/news/2017/08/4/index.md)
 
 ### [Denmark's Prince Henrik announces he won't be buried next to Queen Margrethe II in the Roskilde Cathedral where Danish royals have been buried since 1559. The 83-year-old, French-born Henrik has been dissatisfied with his non-equal role as Prince consort. The 77-year old Margrethe, who had a specially designed sarcophagus made for the couple, accepts Henrik's decision, according to a royal house spokeswoman. ](/news/2017/08/4/denmark-s-prince-henrik-announces-he-won-t-be-buried-next-to-queen-margrethe-ii-in-the-roskilde-cathedral-where-danish-royals-have-been-buri.md)
-_Context: Denmark's Prince Henrik, French-born, Prince consort, Queen Margrethe II, Roskilde Cathedral, sarcophagus_
+_Context: Denmark, French-born, Prince Henrik, Prince consort, Queen Margrethe II, Roskilde Cathedral, sarcophagus_
 
 ### [The U.S. economy added over 200,000 jobs last month, dropping that country's unemployment rate to match a previous 16-year low at 4.3%.  Wage growth remained below the Federal Reserve Board's target of 3.5%. ](/news/2017/08/4/the-u-s-economy-added-over-200-000-jobs-last-month-dropping-that-country-s-unemployment-rate-to-match-a-previous-16-year-low-at-4-3-wag.md)
 The U.S. economy added a strong 209,000 jobs in July, and the unemployment rate matched a 16-year low.
