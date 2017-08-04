@@ -1,6 +1,6 @@
 ### [2017-08-3](/news/2017/08/3/index.md)
 
-#  A NATO soldier is killed and six other personnel are wounded after a suicide bomber attacked their convoy in Afghanistan's Kabul province.
+#  A NATO soldier is killed and six other personnel are wounded after a suicide bomber attacked their convoy in Afghanistan's Kabul province. 
 
 
 
