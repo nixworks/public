@@ -1,0 +1,23 @@
+### [2017-08-5](/news/2017/08/5/index.md)
+
+# Voters in Mauritania participate in a referendum on whether to amend the Constitution of Mauritania, with the abolition of the Senate and addition of red bands to the flag of Mauritania among the most significant proposed changes. The OCHR has criticised Mohamed Ould Abdel Aziz's government for apparent suppression of opposition protests. 
+
+Opposition parties fear changes proposed by President Mohamed Ould Abdel Aziz will result in a slide towards dictatorship. 
+
+
+### Source:
+
+1. [Al Jazeera](http://www.aljazeera.com/video/news/2017/08/mauritanians-fear-dictatorship-referendum-vote-170804135119576.html)
+
+### Related:
+
+1. [Mauritanian President Mohamed Ould Abdel Aziz is elected to a second term with over 80% of the vote. ](/news/2014/06/23/mauritanian-president-mohamed-ould-abdel-aziz-is-elected-to-a-second-term-with-over-80-of-the-vote.md) _Context: Mauritania, Mohamed Ould Abdel Aziz_
+2. [President Mohamed Ould Abdel Aziz returns to Mauritania after being in France for five weeks recovering after being shot by a soldier on 13 October. ](/news/2012/11/25/president-mohamed-ould-abdel-aziz-returns-to-mauritania-after-being-in-france-for-five-weeks-recovering-after-being-shot-by-a-soldier-on-13.md) _Context: Mauritania, Mohamed Ould Abdel Aziz_
+3. [ A military coup d'etat occurs in Mauritania with the Army, led by Mohamed Ould Abdel Aziz, seizing the President Sidi Ould Cheikh Abdallahi, the Prime Minister Yahya Ould Ahmed El Waghef and the Interior Minister. ](/news/2008/08/6/a-military-coup-d-a-c-tat-occurs-in-mauritania-with-the-army-led-by-mohamed-ould-abdel-aziz-seizing-the-president-sidi-ould-cheikh-abdallah.md) _Context: Mauritania, Mohamed Ould Abdel Aziz_
+4. [United Nations High Commissioner for Human Rights Zeid bin Ra'ad calls on all air forces in Syria to better distinguish between military targets and civilians. ](/news/2017/05/26/united-nations-high-commissioner-for-human-rights-zeid-bin-ra-ad-calls-on-all-air-forces-in-syria-to-better-distinguish-between-military-tar.md) _Context: OCHR_
+5. [The United Nations Security Council extends the MINURSO mission for another year and attempts to restart Western Sahara peace process negotiations after both sides retracted their military from a standoff position in Guerguerat, near the border with Mauritania. ](/news/2017/04/28/the-united-nations-security-council-extends-the-minurso-mission-for-another-year-and-attempts-to-restart-western-sahara-peace-process-negoti.md) _Context: Mauritania_
+6. [ 2016 Nampala attack: At least 12 soldiers are killed and 27 others injured after unidentified militants briefly overrun a government base in central Mali, near the border with Mauritania. The attackers also burn and loot the adjacent village of Nampala. ](/news/2016/07/19/2016-nampala-attack-at-least-12-soldiers-are-killed-and-27-others-injured-after-unidentified-militants-briefly-overrun-a-government-base-i.md) _Context: Mauritania_
+7. [Gunmen attack a Malian military checkpoint in the town of Lere, near the Mauritanian border with Mali, killing at least three soldiers and wounding two others. ](/news/2016/02/24/gunmen-attack-a-malian-military-checkpoint-in-the-town-of-la-c-ra-c-near-the-mauritanian-border-with-mali-killing-at-least-three-soldiers-and.md) _Context: Mauritania_
+8. [Operation Protective Edge:United Nations High Commissioner for Human Rights Navi Pillay condemns both Israel's military actions in the Gaza Strip and Hamas for "indiscriminate attacks" on Israel, and warns that war crimes may have been committed.  ](/news/2014/07/23/operation-protective-edge-punited-nations-high-commissioner-for-human-rights-navi-pillay-condemns-both-israel-s-military-actions-in-the-gaza.md) _Context: OCHR_
+9. [The UN Human Rights Office says that the force-feeding of hunger-strikers at the U.S. Guantnamo Bay Prison is a violation of international law. ](/news/2013/05/1/the-un-human-rights-office-says-that-the-force-feeding-of-hunger-strikers-at-the-u-s-guantanamo-bay-prison-is-a-violation-of-international.md) _Context: OCHR_
+10. [Mauritania bans the use of plastic bags. ](/news/2013/01/2/mauritania-bans-the-use-of-plastic-bags.md) _Context: Mauritania_
