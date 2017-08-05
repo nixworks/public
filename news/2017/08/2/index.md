@@ -1,10 +1,10 @@
 ## [2017-08-2](/news/2017/08/2/index.md)
 
-### [Prince Philip, Duke of Edinburgh, retires from public appearances at the age of 96, after having completed 22,219 solo engagements since 1952. ](/news/2017/08/2/prince-philip-duke-of-edinburgh-retires-from-public-appearances-at-the-age-of-96-after-having-completed-22-219-solo-engagements-since-195.md)
-Crowds cheer as Prince Philip, the 96-year-old husband of Queen Elizabeth, braves pouring rain to make his 22,219th and final solo public engagement.
-
 ### [A suicide bomber kills two American troops near the Kandahar International Airport in Afghanistan. The Taliban insurgency claims responsibility. ](/news/2017/08/2/a-suicide-bomber-kills-two-american-troops-near-the-kandahar-international-airport-in-afghanistan-the-taliban-insurgency-claims-responsibil.md)
 A suicide bomb attack killed two American troops in Afghanistan on Wednesday as they were traveling in a convoy near the airport in the southern city of Kandahar, the U.S. military said, in a strike claimed by the Taliban insurgency.
+
+### [Prince Philip, Duke of Edinburgh, retires from public appearances at the age of 96, after having completed 22,219 solo engagements since 1952. ](/news/2017/08/2/prince-philip-duke-of-edinburgh-retires-from-public-appearances-at-the-age-of-96-after-having-completed-22-219-solo-engagements-since-195.md)
+Crowds cheer as Prince Philip, the 96-year-old husband of Queen Elizabeth, braves pouring rain to make his 22,219th and final solo public engagement.
 
 ### [Several streets in Miami and Miami Beach are underwater after Tropical Depression Emily causes 4 to 7 inches of rain overnight. ](/news/2017/08/2/several-streets-in-miami-and-miami-beach-are-underwater-after-tropical-depression-emily-causes-4-to-7-inches-of-rain-overnight.md)
 _Context: Floods in the United States, Miami, Miami Beach, Tropical Depression Emily_

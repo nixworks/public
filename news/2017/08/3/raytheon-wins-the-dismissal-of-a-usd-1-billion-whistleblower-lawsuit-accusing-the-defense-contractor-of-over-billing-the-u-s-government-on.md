@@ -7,7 +7,7 @@ Raytheon Co (RTN.N) on Thursday won the dismissal of a $1 billion whistleblower 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-raytheon-decision-idUSKBN1AJ34V?il=0)
+1. [Reuters](http://www.reuters.com/article/us-raytheon-decision-idUSKBN1AJ34V)
 
 ### Related:
 

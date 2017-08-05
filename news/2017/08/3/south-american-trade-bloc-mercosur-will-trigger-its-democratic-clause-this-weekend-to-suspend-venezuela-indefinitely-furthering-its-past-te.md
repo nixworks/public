@@ -7,7 +7,7 @@ South American trade bloc Mercosur will trigger its democratic clause this weeke
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-venezuela-mercosur-idUSKBN1AJ2RI?il=0)
+1. [Reuters](http://www.reuters.com/article/us-venezuela-mercosur-idUSKBN1AJ2RI)
 
 ### Related:
 

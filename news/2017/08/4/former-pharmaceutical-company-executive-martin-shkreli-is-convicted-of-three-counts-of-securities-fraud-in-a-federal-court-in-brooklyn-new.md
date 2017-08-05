@@ -2,12 +2,12 @@
 
 # Former pharmaceutical company executive Martin Shkreli is convicted of three counts of securities fraud in a federal court in Brooklyn, New York.
 
-A U.S. jury convicted Martin Shkreli, the brash former drug company and hedge fund executive who drew fierce criticism for jacking up drug prices, of securities fraud on Friday in an unrelated case.
+A U.S. jury convicted Martin Shkreli, the brash former drug company and hedge fund executive, on Friday of defrauding investors in hedge funds he ran years before he gained fame for jacking up the price of a drug.
 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-usa-crime-shkreli-idUSKBN1AK27F?il=0)
+1. [Reuters](http://www.reuters.com/article/us-usa-crime-shkreli-idUSKBN1AK27F)
 
 ### Related:
 

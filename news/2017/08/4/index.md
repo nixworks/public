@@ -1,7 +1,7 @@
 ## [2017-08-4](/news/2017/08/4/index.md)
 
 ### [Denmark's Prince Henrik announces he won't be buried next to Queen Margrethe II in the Roskilde Cathedral where Danish royals have been buried since 1559. The 83-year-old, French-born Henrik has been dissatisfied with his non-equal role as Prince consort. The 77-year old Margrethe, who had a specially designed sarcophagus made for the couple, accepts Henrik's decision, according to a royal house spokeswoman. ](/news/2017/08/4/denmark-s-prince-henrik-announces-he-won-t-be-buried-next-to-queen-margrethe-ii-in-the-roskilde-cathedral-where-danish-royals-have-been-buri.md)
-_Context: Denmark, French-born, Prince Henrik, Prince consort, Queen Margrethe II, Roskilde Cathedral, sarcophagus_
+_Context: Danish royal consorts, Denmark, French-born, Prince Henrik, Prince consort, Queen Margrethe II, Roskilde Cathedral, sarcophagus_
 
 ### [The U.S. economy added over 200,000 jobs last month, dropping that country's unemployment rate to match a previous 16-year low at 4.3%.  Wage growth remained below the Federal Reserve Board's target of 3.5%. ](/news/2017/08/4/the-u-s-economy-added-over-200-000-jobs-last-month-dropping-that-country-s-unemployment-rate-to-match-a-previous-16-year-low-at-4-3-wag.md)
 The U.S. economy added a strong 209,000 jobs in July, and the unemployment rate matched a 16-year low.
@@ -10,7 +10,7 @@ The U.S. economy added a strong 209,000 jobs in July, and the unemployment rate 
 The blaze started soon after midnight and spread across dozens of floors in one of the world’s tallest buildings, but the authorities said everyone made it out safely.
 
 ### [Former pharmaceutical company executive Martin Shkreli is convicted of three counts of securities fraud in a federal court in Brooklyn, New York.](/news/2017/08/4/former-pharmaceutical-company-executive-martin-shkreli-is-convicted-of-three-counts-of-securities-fraud-in-a-federal-court-in-brooklyn-new.md)
-A U.S. jury convicted Martin Shkreli, the brash former drug company and hedge fund executive who drew fierce criticism for jacking up drug prices, of securities fraud on Friday in an unrelated case.
+A U.S. jury convicted Martin Shkreli, the brash former drug company and hedge fund executive, on Friday of defrauding investors in hedge funds he ran years before he gained fame for jacking up the price of a drug.
 
 ### [Voters in Rwanda go to the polls to elect their president. Paul Kagame, incumbent since 2000, referred to the election as a formality, despite challenges from the Democratic Greens' Frank Habineza and independent Philippe Mpayimana. Kagame is re-elected with 98.66 of the vote. ](/news/2017/08/4/voters-in-rwanda-go-to-the-polls-to-elect-their-president-paul-kagame-incumbent-since-2000-referred-to-the-election-as-a-formality-despi.md)
 Rwandan President Paul Kagame has extended his 17 years in power after winning the presidential election.

@@ -7,7 +7,7 @@ The Post has obtained transcripts of President Donald Trump’s talks with Mexic
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/graphics/2017/politics/australia-mexico-transcripts/?tid=ss_tw&utm_term=.2754568a194c)
+1. [The Washington Post](https://www.washingtonpost.com/graphics/2017/politics/australia-mexico-transcripts/)
 
 ### Related:
 

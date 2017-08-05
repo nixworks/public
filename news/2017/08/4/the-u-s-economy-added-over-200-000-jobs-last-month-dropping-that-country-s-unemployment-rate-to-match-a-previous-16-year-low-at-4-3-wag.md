@@ -7,7 +7,7 @@ The U.S. economy added a strong 209,000 jobs in July, and the unemployment rate 
 
 ### Source:
 
-1. [CNN Money](http://money.cnn.com/2017/08/04/news/economy/july-jobs-report/index.html?adkey=bn)
+1. [CNN Money](http://money.cnn.com/2017/08/04/news/economy/july-jobs-report/index.html)
 
 ### Related:
 

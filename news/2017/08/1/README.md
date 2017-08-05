@@ -19,7 +19,7 @@ New Labour leader Jacinda Ardern says the party is about to &quot;run the campai
 Two leading activists were taken to a military jail by security forces in the middle of the night.
 
 ### [The United States Senate, in a 92-5 vote, confirms Christopher A. Wray as Director of the Federal Bureau of Investigation. ](/news/2017/08/1/the-united-states-senate-in-a-92a5-vote-confirms-christopher-a-wray-as-director-of-the-federal-bureau-of-investigation.md)
-_Context: Christopher A. Wray, Director of the Federal Bureau of Investigation, United States Senate_
+_Context: Christopher A. Wray, Director of the Federal Bureau of Investigation, Political appointments by Donald Trump, United States Senate_
 
 ## [Previous Day...](/news/2017/07/31/index.md)
 
