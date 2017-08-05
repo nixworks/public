@@ -11,7 +11,7 @@ Ethiopians have entered the third millennium - seven years after the rest of the
 
 ### Related:
 
-1. [USAID  announces the Trump administration is dedicating  $169 million to feed people facing starvation in Ethiopia and Kenya, adding to earlier assistance for those suffering from drought and conflict in the region. ](/news/2017/08/3/usaid-announces-the-trump-administration-is-dedicating-169-million-to-feed-people-facing-starvation-in-ethiopia-and-kenya-adding-to-earl.md) _Context: Ethiopia_
+1. [USAID announces the Trump administration dedicated $169 million to feed people facing starvation in Ethiopia and Kenya, adding to earlier assistance for those suffering from drought and conflict in the region. ](/news/2017/08/3/usaid-announces-the-trump-administration-dedicated-169-million-to-feed-people-facing-starvation-in-ethiopia-and-kenya-adding-to-earlier-as.md) _Context: Ethiopia_
 2. [A landslide at a rubbish dump on the outskirts of Addis Ababa, Ethiopia, kills at least 48 people. ](/news/2017/03/12/a-landslide-at-a-rubbish-dump-on-the-outskirts-of-addis-ababa-ethiopia-kills-at-least-48-people.md) _Context: Ethiopia_
 3. [Addis Ababa-Djibouti Railway is officially completed, creating a rail link between Djibouti and Ethiopia. ](/news/2017/01/10/addis-ababaadjibouti-railway-is-officially-completed-creating-a-rail-link-between-djibouti-and-ethiopia.md) _Context: Ethiopia_
 4. [Bolivia, Ethiopia, Italy, Kazakhstan, and Sweden begin their terms on the United Nations Security Council, replacing Angola, Malaysia, New Zealand, Spain, and Venezuela. ](/news/2017/01/1/bolivia-ethiopia-italy-kazakhstan-and-sweden-begin-their-terms-on-the-united-nations-security-council-replacing-angola-malaysia-new-z.md) _Context: Ethiopia_

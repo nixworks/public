@@ -10,7 +10,7 @@ _Context: Deutsche Bahn, Germany, passenger, strike, train driver_
 _Context: Third Committee, United Nations, United Nations General Assembly, capital punishment, moratorium, unenforceable resolution_
 
 ### [ The City of Westminster Magistrates' Court rules Egyptian-born Muslim cleric Abu Hamza al-Masri can be extradited from the United Kingdom to the United States, where he is accused of terrorism. ](/news/2007/11/15/the-city-of-westminster-magistrates-court-rules-egyptian-born-muslim-cleric-abu-hamza-al-masri-can-be-extradited-from-the-united-kingdom-t.md)
-_Context: Abu Hamza al-Masri, City of Westminster, Egypt, Magistrates' Court, Muslim, United Kingdom, United States, extradited, terrorism_
+_Context: Abu Hamza al-Masri, City of Westminster, Egypt, Magistrates' Court, Muslim, U.S., United Kingdom, extradited, terrorism_
 
 ### [ A New South Wales coroner concludes that a group of five journalists, known as the Balibo Five, were deliberately killed by Indonesian forces in 1975 in order to prevent them exposing Indonesia's 1975 invasion of East Timor. ](/news/2007/11/15/a-new-south-wales-coroner-concludes-that-a-group-of-five-journalists-known-as-the-balibo-five-were-deliberately-killed-by-indonesian-forc.md)
 _Context: Balibo Five, East Timor, Indonesia, New South Wales_
@@ -22,10 +22,10 @@ Barry Bonds was charged Thursday with perjury and obstruction of justice, the cu
 _Context: Iran, White House, nuclear scientist_
 
 ### [ The Supreme Court of Canada denies asylum to Jeremy Hinzman and Brandon Hughey, two United States soldiers who deserted the Iraq War. ](/news/2007/11/15/the-supreme-court-of-canada-denies-asylum-to-jeremy-hinzman-and-brandon-hughey-two-united-states-soldiers-who-deserted-the-iraq-war.md)
-_Context: AWOL, Brandon Hughey, Canada, Iraq War, Jeremy Hinzman, Supreme Court of Canada, United States, asylum_
+_Context: AWOL, Brandon Hughey, Canada, Iraq War, Jeremy Hinzman, Supreme Court of Canada, U.S., asylum_
 
 ### [ Iraqi insurgency: The United States Army announces it has killed 25 insurgents in Taji, but the Taji Awakening Council says airstrikes killed 45 pro-U.S. fighters. ](/news/2007/11/15/iraqi-insurgency-the-united-states-army-announces-it-has-killed-25-insurgents-in-taji-but-the-taji-awakening-council-says-airstrikes-kill.md)
-_Context: Iraqi insurgency, Taji, Taji Awakening Council, United States, United States soldiers, airstrike_
+_Context: Iraqi insurgency, Taji, Taji Awakening Council, U.S., United States soldiers, airstrike_
 
 ### [ A Saudi Arabian gang rape victim is sentenced to jail and 200 lashes for being in the car of an unrelated man. ](/news/2007/11/15/a-saudi-arabian-gang-rape-victim-is-sentenced-to-jail-and-200-lashes-for-being-in-the-car-of-an-unrelated-man.md)
 _Context: Saudi Arabia, gang rape, lashes_
@@ -34,10 +34,10 @@ _Context: Saudi Arabia, gang rape, lashes_
 _Context: Celestin Chibalonza, Sud-Kivu, impeach_
 
 ### [ The United States Treasury freezes all assets of the Tamils Rehabilitation Organisation, claiming that it acts as a "front to facilitate fundraising" for the Tamil Tigers. ](/news/2007/11/15/the-united-states-treasury-freezes-all-assets-of-the-tamils-rehabilitation-organisation-claiming-that-it-acts-as-a-front-to-facilitate-fu.md)
-_Context: Tamil Tigers, Tamils Rehabilitation Organisation, United States, United States Treasury_
+_Context: Tamil Tigers, Tamils Rehabilitation Organisation, U.S., United States Treasury_
 
 ### [ The execution of Mark Dean Schwab in Florida is suspended while the United States Supreme Court decides if lethal injection is unconstitutional. ](/news/2007/11/15/the-execution-of-mark-dean-schwab-in-florida-is-suspended-while-the-united-states-supreme-court-decides-if-lethal-injection-is-unconstituti.md)
-_Context: Florida, Mark Dean Schwab, United States, United States Supreme Court, executed, lethal injection_
+_Context: Florida, Mark Dean Schwab, U.S., United States Supreme Court, executed, lethal injection_
 
 ### [ Powerful aftershocks hit Chile after the Antofagasta earthquake, as President Michelle Bachelet visits the affected areas. ](/news/2007/11/15/powerful-aftershocks-hit-chile-after-the-antofagasta-earthquake-as-president-michelle-bachelet-visits-the-affected-areas.md)
 _Context: 2007 Antofagasta earthquake, Aftershock, Chile, Michelle Bachelet, President_
@@ -49,7 +49,7 @@ _Context: Burma, Human rights, Insein Prison, Paulo Srgio Pinheiro, Su Su Nway, 
 _Context: Gazeera, Rift Valley Fever, Sennar, Sudan, White Nile_
 
 ### [ The Russian Ground Forces shut down their last remaining base in Georgia, located in the city of Batumi. ](/news/2007/11/15/the-russian-ground-forces-shut-down-their-last-remaining-base-in-georgia-located-in-the-city-of-batumi.md)
-_Context: Batumi, Georgia, Russia, Russian Army_
+_Context: Batumi, Georgian, Russia, Russian Army_
 
 ### [ 2007 Pakistani state of emergency: President Pervez Musharraf appoints Muhammad Mian Soomro, Chairman of the Senate, as interim Prime Minister. ](/news/2007/11/15/2007-pakistani-state-of-emergency-p-president-pervez-musharraf-appoints-muhammad-mian-soomro-chairman-of-the-senate-as-interim-prime-mini.md)
 _Context: 2007 Pakistani state of emergency, Chairman, Muhammad Mian Soomro, Pervez Musharraf, President, Prime Minister of Pakistan, Senate, interim_

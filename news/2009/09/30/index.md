@@ -10,7 +10,7 @@ _Context: Indonesia, earthquake, magnitude earthquake_
 _Context: Guinea, Moussa Dadis Camara, massacre of opposition protesters_
 
 ### [ Diplomatic officials from the United States and Burma hold their first high level meetings in New York City. ](/news/2009/09/30/diplomatic-officials-from-the-united-states-and-burma-hold-their-first-high-level-meetings-in-new-york-city.md)
-_Context: Burma, New York City, United States_
+_Context: Burma, New York City, U.S._
 
 ### [ 24 people are killed and 62 injured after a church collapses in Nepal. ](/news/2009/09/30/24-people-are-killed-and-62-injured-after-a-church-collapses-in-nepal.md)
 _Context: Nepal, church_
@@ -25,7 +25,7 @@ US commander Odierno says 4,000 troops will be sent home by the end October.
 Six parties withdraw from Juba conference discussing the future of south Sudan.
 
 ### [ The final report of an international fact-finding mission concludes that Georgia started the 2008 South Ossetia war. ](/news/2009/09/30/the-final-report-of-an-international-fact-finding-mission-concludes-that-georgia-started-the-2008-south-ossetia-war.md)
-_Context: 2008 South Ossetia war, Georgia, international fact-finding mission_
+_Context: 2008 South Ossetia war, Georgian, international fact-finding mission_
 
 ### [ Former President of Peru Alberto Fujimori is sentenced to six years in jail for corruption by a court in Lima.  ](/news/2009/09/30/former-president-of-peru-alberto-fujimori-is-sentenced-to-six-years-in-jail-for-corruption-by-a-court-in-lima.md)
 _Context: Alberto Fujimori, Lima, Peru, President_

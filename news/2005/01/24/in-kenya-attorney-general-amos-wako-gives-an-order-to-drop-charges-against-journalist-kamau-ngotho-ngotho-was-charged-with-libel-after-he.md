@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [USAID  announces the Trump administration is dedicating  $169 million to feed people facing starvation in Ethiopia and Kenya, adding to earlier assistance for those suffering from drought and conflict in the region. ](/news/2017/08/3/usaid-announces-the-trump-administration-is-dedicating-169-million-to-feed-people-facing-starvation-in-ethiopia-and-kenya-adding-to-earl.md) _Context: Kenya_
+1. [USAID announces the Trump administration dedicated $169 million to feed people facing starvation in Ethiopia and Kenya, adding to earlier assistance for those suffering from drought and conflict in the region. ](/news/2017/08/3/usaid-announces-the-trump-administration-dedicated-169-million-to-feed-people-facing-starvation-in-ethiopia-and-kenya-adding-to-earlier-as.md) _Context: Kenya_
 2. [Kenya opens the Mombasa-Nairobi Standard Gauge Railway, the East African country's largest infrastructure project since gaining independence. ](/news/2017/05/31/kenya-opens-the-mombasaanairobi-standard-gauge-railway-the-east-african-country-s-largest-infrastructure-project-since-gaining-independen.md) _Context: Kenya_
 3. [Prominent Italian-born conservationist Kuki Gallmann is shot and injured in an ambush in northern Kenya. ](/news/2017/04/23/prominent-italian-born-conservationist-kuki-gallmann-is-shot-and-injured-in-an-ambush-in-northern-kenya.md) _Context: Kenya_
 4. [Luisa Ortega Diaz, Venezuela's attorney general, denounces a rupture of the constitutional order. Some protesters hold banners reading: "No To Dictatorship". ](/news/2017/03/31/luisa-ortega-daaz-venezuela-s-attorney-general-denounces-a-rupture-of-the-constitutional-order-some-protesters-hold-banners-reading-no.md) _Context: attorney general_

@@ -11,7 +11,7 @@ Nato says it will investigate allegations that its forces have killed dozens of 
 
 ### Related:
 
-1. [ A NATO soldier is killed and six other personnel are wounded after a suicide bomber attacked their convoy in Afghanistan's Kabul province. ](/news/2017/08/3/a-nato-soldier-is-killed-and-six-other-personnel-are-wounded-after-a-suicide-bomber-attacked-their-convoy-in-afghanistan-s-kabul-province.md) _Context: NATO_
+1. [ A suicide bomber attacks a NATO convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding six other personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-nato-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-six-oth.md) _Context: NATO_
 2. [The United Nations votes in favour of the Treaty on the Prohibition of Nuclear Weapons with 122 in favour, 1 abstention, and 1 against. The treaty conference and negotiations had been boycotted by the nuclear weapon states and by the members of NATO. ](/news/2017/07/7/the-united-nations-votes-in-favour-of-the-treaty-on-the-prohibition-of-nuclear-weapons-with-122-in-favour-1-abstention-and-1-against-the.md) _Context: NATO_
 3. [Montenegro officially joins NATO as its 29th member at a ceremony in Washington, D.C. ](/news/2017/06/5/montenegro-officially-joins-nato-as-its-29th-member-at-a-ceremony-in-washington-d-c.md) _Context: NATO_
 4. [The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and against Iran. Language in the measure also reaffirms United States' commitment to NATO. ](/news/2017/06/16/the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping-up-sanctions-against-russia-and-against-iran-language-in-the-mea.md) _Context: NATO_

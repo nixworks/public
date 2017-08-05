@@ -1,7 +1,7 @@
 ## [2007-05-19](/news/2007/05/19/index.md)
 
 ### [ Three people are killed and two wounded in a sniper attack in Moscow, Idaho, United States. ](/news/2007/05/19/three-people-are-killed-and-two-wounded-in-a-sniper-attack-in-moscow-idaho-united-states.md)
-_Context: Moscow, Idaho, United States, sniper_
+_Context: Moscow, Idaho, U.S., sniper_
 
 ### [ Chelsea F.C. wins the FA Cup Final 2007, defeating Manchester United 1-0 through a goal by Didier Drogba in extra time. It was the first final played at a rebuilt Wembley Stadium. ](/news/2007/05/19/chelsea-f-c-wins-the-fa-cup-final-2007-defeating-manchester-united-1a0-through-a-goal-by-didier-drogba-in-extra-time-it-was-the-first.md)
 _Context: Chelsea F.C., Didier Drogba, FA Cup Final 2007, Manchester United, Wembley Stadium, extra time_

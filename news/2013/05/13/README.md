@@ -4,7 +4,7 @@
 A car bomb explosion near a hospital in the Libyan city of Benghazi kills and injures several people, local officials say.
 
 ### [War in Afghanistan (2001-present):Three Georgian soldiers are killed and several wounded in a large-scale insurgent attack on an ISAF base in the Helmand Province. ](/news/2013/05/13/war-in-afghanistan-2001apresent-pthree-georgian-soldiers-are-killed-and-several-wounded-in-a-large-scale-insurgent-attack-on-an-isaf-bas.md)
-_Context: Georgia, Georgian servicemen, Helmand Province, International Security Assistance Force, War in Afghanistan (2001-present)_
+_Context: Georgian, Georgian servicemen, Helmand Province, International Security Assistance Force, War in Afghanistan (2001-present)_
 
 ### [A 2,300-year-old Mayan pyramid at Nohmul in Belize is destroyed by a construction company seeking road fill gravel. ](/news/2013/05/13/a-2-300-year-old-mayan-pyramid-at-nohmul-in-belize-is-destroyed-by-a-construction-company-seeking-road-fill-gravel.md)
 _Context: Belize, Mayan, Nohmul_

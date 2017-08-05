@@ -16,10 +16,10 @@ _Context: Bad Arolsen, Germany, Hesse, International Tracing Service, Israel_
 _Context: Fragments of a Psalter, Ireland, bog_
 
 ### [ United States National Park Service director Fran P. Mainella announces her resignation. ](/news/2006/07/26/united-states-national-park-service-director-fran-p-mainella-announces-her-resignation.md)
-_Context: Fran P. Mainella, National Park Service, United States_
+_Context: Fran P. Mainella, National Park Service, U.S._
 
 ### [ 2006 Kodori Gorge clashes: Georgian forces attack surrounded rebels after an ultimatum expires. ](/news/2006/07/26/2006-kodori-gorge-clashes-georgian-forces-attack-surrounded-rebels-after-an-ultimatum-expires.md)
-_Context: 2006 Kodori Gorge clashes, Georgia_
+_Context: 2006 Kodori Gorge clashes, Georgian_
 
 ### [ 2006 Israel-Lebanon conflict: Four United Nations observers are killed in an Israeli air strike on an observation post in south Lebanon. An initial UN report says they contacted the Israeli troops 10 times before an incoming bomb killed four of them. ](/news/2006/07/26/2006-israel-lebanon-conflict-p-four-united-nations-observers-are-killed-in-an-israeli-air-strike-on-an-observation-post-in-south-lebanon-a.md)
 (VIDEO) Heavy exchanges of fire continue in Hizbullah&#39;s &#39;capital&#39; in south Lebanon; at least 13 troops hurt Rocket barrages fired on Tiberias, Safed, no injuries reported

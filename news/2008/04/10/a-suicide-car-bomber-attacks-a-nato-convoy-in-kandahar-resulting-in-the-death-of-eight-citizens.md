@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ A NATO soldier is killed and six other personnel are wounded after a suicide bomber attacked their convoy in Afghanistan's Kabul province. ](/news/2017/08/3/a-nato-soldier-is-killed-and-six-other-personnel-are-wounded-after-a-suicide-bomber-attacked-their-convoy-in-afghanistan-s-kabul-province.md) _Context: NATO, suicide bomber_
+1. [ A suicide bomber attacks a NATO convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding six other personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-nato-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-six-oth.md) _Context: NATO, suicide bomber_
 2. [An Afghan suicide bomber attacks a NATO convoy in Kabul killing at least twelve people and injuring 66 others. ](/news/2015/08/22/an-afghan-suicide-bomber-attacks-a-nato-convoy-in-kabul-killing-at-least-twelve-people-and-injuring-66-others.md) _Context: NATO, suicide bomber_
 3. [War in Afghanistan:A suicide bomber kills four civilians and a police officer in the Afghan city of Kandahar. ](/news/2012/01/3/war-in-afghanistan-pa-suicide-bomber-kills-four-civilians-and-a-police-officer-in-the-afghan-city-of-kandahar.md) _Context: Kandahar, suicide bomber_
 4. [War in Afghanistan (2001-present):A suicide bomber targets a NATO convoy in the Afghan capital Kabul killing at least four Afghans, 13 American troops, and members of the International Security Assistance Force. ](/news/2011/10/29/war-in-afghanistan-2001apresent-pa-suicide-bomber-targets-a-nato-convoy-in-the-afghan-capital-kabul-killing-at-least-four-afghans-13-am.md) _Context: NATO, suicide bomber_

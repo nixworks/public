@@ -10,7 +10,7 @@ _Context: Court of Appeal, Emilio Gnutti, Giovanni Consorte, Ivano Sacchetti, Mi
 _Context: 2007 presidential election, Kenya, Mwai Kibaki, President, Samuel Kivuitu_
 
 ### [ Georgian opposition parties choose Levan Gachechiladze as their common candidate to challenge President Mikheil Saakashvili in the 2008 presidential election. ](/news/2007/11/12/georgian-opposition-parties-choose-levan-gachechiladze-as-their-common-candidate-to-challenge-president-mikheil-saakashvili-in-the-2008-pre.md)
-_Context: Georgia, Georgian presidential election, 2008, Levan Gachechiladze, President of Georgia, Saakashvili_
+_Context: Georgian, Georgian presidential election, 2008, Levan Gachechiladze, President of Georgia, Saakashvili_
 
 ### [ IBM announces it will buy business intelligence firm Cognos for US$5 billion. ](/news/2007/11/12/ibm-announces-it-will-buy-business-intelligence-firm-cognos-for-us-5-billion.md)
 _Context: Cognos, IBM, business intelligence_

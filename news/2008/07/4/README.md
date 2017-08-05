@@ -7,7 +7,7 @@ _Context: Djurgrden, Stockholm_
 _Context: Angela Merkel, Berlin, Brandenburg Gate, Embassy of the United States in Berlin, George H. W. Bush, Germany, Pariser Platz, William Timken_
 
 ### [ Georgian forces shell Tskhinvali in South Ossetia. ](/news/2008/07/4/georgian-forces-shell-tskhinvali-in-south-ossetia.md)
-_Context: Georgia, South Ossetia, Tskhinvali_
+_Context: Georgian, South Ossetia, Tskhinvali_
 
 ### [ Four people are shot dead in Milwaukee, Wisconsin, during a street party. ](/news/2008/07/4/four-people-are-shot-dead-in-milwaukee-wisconsin-during-a-street-party.md)
 At least one person fired a gun into a crowd on a Milwaukee street, killing four people and sending people running for cover.

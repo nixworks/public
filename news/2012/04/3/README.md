@@ -40,7 +40,7 @@ RT&Eacute;&rsquo;s head of current affairs Ed Mulhall has retired and the editor
 _Context: California, Oakland, California, Oikos University shooting_
 
 ### [The New York Police Department orders an investigation into the death of French academic Richard Descoings who was found nude in his hotel room. ](/news/2012/04/3/the-new-york-police-department-orders-an-investigation-into-the-death-of-french-academic-richard-descoings-who-was-found-nude-in-his-hotel-r.md)
-_Context: Frenchman, New York Police Department, Richard Descoings_
+_Context: French-born, New York Police Department, Richard Descoings_
 
 ### [United States Presidential election:Voters in the US states of Maryland and Wisconsin as well as Washington, D.C. go to the polls for Republican primaries with Mitt Romney projected as the winner in all three contests. ](/news/2012/04/3/united-states-presidential-election-pvoters-in-the-us-states-of-maryland-and-wisconsin-as-well-as-washington-d-c-go-to-the-polls-for-repub.md)
 Mitt Romney wins in the politically significant state of Wisconsin, as well as in Maryland and the District of Columbia

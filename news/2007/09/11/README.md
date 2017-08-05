@@ -4,7 +4,7 @@
 _Context: Bruce Golding, Jamaica, Jamaica Labour Party_
 
 ### [ Chinese and US safety officials sign an agreement banning the export of toys with lead paint to the United States. ](/news/2007/09/11/chinese-and-us-safety-officials-sign-an-agreement-banning-the-export-of-toys-with-lead-paint-to-the-united-states.md)
-_Context: Chinese, United States, lead paint, toy_
+_Context: Chinese, U.S., lead paint, toy_
 
 ### [ Burger King announces that it would limit advertising to children younger than 12 to foods that meet strict nutritional guidelines. ](/news/2007/09/11/burger-king-announces-that-it-would-limit-advertising-to-children-younger-than-12-to-foods-that-meet-strict-nutritional-guidelines.md)
 Fast-food chain Burger King Holdings Inc said on Tuesday that, beginning late next year, it will limit advertising aimed at children younger than 12 to food and drinks that meet strict nutritional guidelines.

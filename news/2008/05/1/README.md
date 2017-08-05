@@ -10,7 +10,7 @@ _Context: Guantanamo Bay Detention Camp, Sami Mohy El Din Muhammed Al Hajj, Suda
 U.S. President George W. Bush on Thursday said a vote in Myanmar this month would not be &quot;free, fair or credible&quot; and imposed new sanctions on state-owned companies to put pressure on the military junta.
 
 ### [ The United States Federal Reserve System auctions off $24.12 billion in Treasury securities to help relieve the subprime mortgage crisis. ](/news/2008/05/1/the-united-states-federal-reserve-system-auctions-off-24-12-billion-in-treasury-securities-to-help-relieve-the-subprime-mortgage-crisis.md)
-_Context: Treasury securities, U.S. Federal Reserve, US$, United States, auction, housing crisis_
+_Context: Treasury securities, U.S., U.S. Federal Reserve, US$, auction, housing crisis_
 
 ### [ The President of the United States George W. Bush calls on the United States Congress to approve a $US700 million food aid package to help relieve the 2007-2008 world food price crisis. ](/news/2008/05/1/the-president-of-the-united-states-george-w-bush-calls-on-the-united-states-congress-to-approve-a-us700-million-food-aid-package-to-help.md)
 _Context: 2007-2008 world food price crisis, George W. Bush, President of the United States, US$, United States Congress, food aid_

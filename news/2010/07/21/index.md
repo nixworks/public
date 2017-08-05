@@ -13,7 +13,7 @@ _Context: Abu Sayeeda, Baqubah, Diyala Governorate, Iraq, Shi'ite, mosque_
 Houthi rebels clash with government-allied tribesmen in north of country.
 
 ### [The United States threatens to impose new sanctions on North Korea as part of its attempt to halt perceived nuclear weapons ambitions; North Korea describes United States military exercises in the Sea of Japan as "very dangerous sabre-rattling". ](/news/2010/07/21/the-united-states-threatens-to-impose-new-sanctions-on-north-korea-as-part-of-its-attempt-to-halt-perceived-nuclear-weapons-ambitions-north.md)
-_Context: North Korea, Sea of Japan, United States_
+_Context: North Korea, Sea of Japan, U.S._
 
 ### [Assailants launch an attack on a hydroelectric plant in Kabardino-Balkaria in southern Russia killing two guards and letting off bombs. ](/news/2010/07/21/assailants-launch-an-attack-on-a-hydroelectric-plant-in-kabardino-balkaria-in-southern-russia-killing-two-guards-and-letting-off-bombs.md)
 _Context: Kabardino-Balkaria, Russia, hydroelectric_
@@ -88,7 +88,7 @@ Sudan president arrives in Chad despite being wanted on genocide and war crimes 
 _Context: Australia, Fiji, Melanesian Spearhead Group, New Zealand, South Pacific_
 
 ### [Hillary Clinton, the United States Secretary of State, announces that the United States will impose further sanctions against North Korea as a result of the sinking of the South Korean warship ROKS ''Cheonan''. ](/news/2010/07/21/hillary-clinton-the-united-states-secretary-of-state-announces-that-the-united-states-will-impose-further-sanctions-against-north-korea-as.md)
-_Context: Hillary Clinton, North Korea, ROKS ''Cheonan'', South Korean Navy, United States, United States Secretary of State, sanctions, sinking_
+_Context: Hillary Clinton, North Korea, ROKS ''Cheonan'', South Korean Navy, U.S., United States Secretary of State, sanctions, sinking_
 
 ### [Mexico states that it has the support of Bolivia, Cuba, Ecuador, Ghana, Guatemala, the Federated States of Micronesia, Panama, Senegal, Turkey, and Uruguay in pursuing its case against Arizona's immigration law. ](/news/2010/07/21/mexico-states-that-it-has-the-support-of-bolivia-cuba-ecuador-ghana-guatemala-the-federated-states-of-micronesia-panama-senegal-turk.md)
 _Context: Arizona, Bolivia, Cuba, Ecuador, Federated States of Micronesia, Ghana, Guatemala, Mexico, Panama, Senegal, Turkey, Uruguay, immigration law_
@@ -109,7 +109,7 @@ Kenyan judges award compensation to victims of police torture during the rule of
 UN court back appeal against acquittal over offences allegedly committed during 1998 war.
 
 ### [Human Rights Watch calls for an independent investigation in Rwanda into the death of Andre Kagwa Rwisereka, vice president of the opposition Democratic Green Party, who was killed weeks before a presidential election. ](/news/2010/07/21/human-rights-watch-calls-for-an-independent-investigation-in-rwanda-into-the-death-of-andre-kagwa-rwisereka-vice-president-of-the-oppositio.md)
-_Context: Andre Kagwa Rwisereka, Democratic Green Party, Human Rights Watch, Rwanda, presidential election_
+_Context: Andre Kagwa Rwisereka, Democratic Greens, Human Rights Watch, Rwanda, presidential election_
 
 ### [Italian police announce 67 arrests, EUR250 million worth of property seizures and the "wipe out" of a local clan. ](/news/2010/07/21/italian-police-announce-67-arrests-a-250-million-worth-of-property-seizures-and-the-wipe-out-of-a-local-clan.md)
 _Context: Italian_

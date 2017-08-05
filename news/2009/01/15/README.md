@@ -4,7 +4,7 @@
 _Context: Hayes and Harlington, House of Commons of the United Kingdom, John McDonnell, MP, Parliament, United Kingdom, ceremonial mace_
 
 ### [ President George W. Bush bids farewell to the United States in a 15-minute televised address, during which he touted his record and warned his successor, Barack Obama, to maintain an aggressive stance against terrorism. ](/news/2009/01/15/president-george-w-bush-bids-farewell-to-the-united-states-in-a-15-minute-televised-address-during-which-he-touted-his-record-and-warned.md)
-_Context: Barack Obama, George W. Bush, President of the United States, United States, terrorism_
+_Context: Barack Obama, George W. Bush, President of the United States, U.S., terrorism_
 
 ### [ Sweden's National Bank announces that all 1-krona coins minted in 2009 will carry a new motif on their reverse to commemorate the 200th anniversary of Finland's separation from Sweden. ](/news/2009/01/15/sweden-s-national-bank-announces-that-all-1-krona-coins-minted-in-2009-will-carry-a-new-motif-on-their-reverse-to-commemorate-the-200th-ann.md)
 _Context: Finland, National Bank, SKr, Sweden, separation_

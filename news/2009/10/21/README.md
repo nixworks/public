@@ -19,7 +19,7 @@ _Context: Litokwa Tomeing, President, Ruben Zackhras, vote of no confidence_
 _Context: Lima, Peru, abortion_
 
 ### [ The United States is to send a rare mission to Burma for talks with the military government. ](/news/2009/10/21/the-united-states-is-to-send-a-rare-mission-to-burma-for-talks-with-the-military-government.md)
-_Context: Burma, State Peace and Development Council, United States_
+_Context: Burma, State Peace and Development Council, U.S._
 
 ### [ Several people are arrested over a bomb attack in southeastern Iran that killed 42 people, including members of the Revolutionary Guards. ](/news/2009/10/21/several-people-are-arrested-over-a-bomb-attack-in-southeastern-iran-that-killed-42-people-including-members-of-the-revolutionary-guards.md)
 _Context: Iran, Iranian Revolutionary guards, bomb attack_
@@ -34,7 +34,7 @@ _Context: France, Lidl, Sevran_
 _Context: Goa Express, India, Mewar Express, Rajasthan_
 
 ### [ A goods train derails east of Poti, Georgia, in an incident described as "sabotage". ](/news/2009/10/21/a-goods-train-derails-east-of-poti-georgia-in-an-incident-described-as-sabotage.md)
-_Context: Georgia, Poti_
+_Context: Georgian, Poti_
 
 ### [ The International Atomic Energy Agency propose draft agreement for Iran and three world powers to agree, aimed at reducing international concerns over Tehran's nuclear programme. ](/news/2009/10/21/the-international-atomic-energy-agency-propose-draft-agreement-for-iran-and-three-world-powers-to-agree-aimed-at-reducing-international-co.md)
 _Context: International Atomic Energy Agency, Iran, Tehran_

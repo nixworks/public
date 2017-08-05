@@ -35,7 +35,7 @@ _Context: Chernobyl, containment shell_
 _Context: David Cameron, Gordon Brown, International Monetary Fund_
 
 ### [Georgia annuls a military transit treaty with Russia, which allowed the latter access to its military base in Armenia.](/news/2011/04/19/georgia-annuls-a-military-transit-treaty-with-russia-which-allowed-the-latter-access-to-its-military-base-in-armenia.md)
-_Context: Armenia, Georgia, Russia_
+_Context: Armenia, Georgian, Russia_
 
 ### [Singapore's Parliament is dissolved for the 14th General Election which is to be held on 7 May 2011. ](/news/2011/04/19/singapore-s-parliament-is-dissolved-for-the-14th-general-election-which-is-to-be-held-on-7-may-2011.md)
 _Context: Singapore, general election_

@@ -7,7 +7,7 @@ Chinese police seek two suspects from Xinjiang linked to a &quot;major incident&
 Thousands of desperate civilians flee a suburb of the Syrian capital Damascus that has been blockaded by government forces since March.
 
 ### [Four French hostages held in Niger by an Al-Qaeda offshoot since 2010 are released. ](/news/2013/10/29/four-french-hostages-held-in-niger-by-an-al-qaeda-offshoot-since-2010-are-released.md)
-_Context: Frenchman, Niger, al-Qaeda_
+_Context: French-born, Niger, al-Qaeda_
 
 ### [The Nasdaq Composite and NASDAQ-100 stock indices froze for an hour before resuming at around 1 PM EST. ](/news/2013/10/29/the-nasdaq-composite-and-nasdaq-100-stock-indices-froze-for-an-hour-before-resuming-at-around-1-pm-est.md)
 The Nasdaq was hit with another market glitch on Tuesday, as index data froze just before lunchtime. 

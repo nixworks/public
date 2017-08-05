@@ -34,7 +34,7 @@ _Context: Michigan_
 _Context: Budapest, Ferenc Madl, President of Hungary_
 
 ### [Sergei Bagapsh, the President of the breakaway Georgian province of Abkhazia, dies from complications of lung surgery in Moscow. ](/news/2011/05/29/sergei-bagapsh-the-president-of-the-breakaway-georgian-province-of-abkhazia-dies-from-complications-of-lung-surgery-in-moscow.md)
-_Context: Abkhazia, Georgia, Moscow, President, Sergei Bagapsh_
+_Context: Abkhazia, Georgian, Moscow, President, Sergei Bagapsh_
 
 ### [Goodluck Jonathan is sworn in as President of Nigeria at a ceremony attended by foreign heads of state in Abuja. ](/news/2011/05/29/goodluck-jonathan-is-sworn-in-as-president-of-nigeria-at-a-ceremony-attended-by-foreign-heads-of-state-in-abuja.md)
 Deadly blast hits a northern city just hours after Goodluck Jonathan begins four-year term in the West African nation.

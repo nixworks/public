@@ -7,7 +7,7 @@ _Context: Afghanistan's, Tahir Yuldash, Uzbekistan, War in Afghanistan (2001-pre
 The United Automobile Workers union has set a Wednesday strike deadline in talks with Chrysler, people with direct knowledge of the negotiations said.
 
 ### [ A sheriff's deputy shoots dead six young people in Crandon, Wisconsin, United States. It was initially believed that he was killed by a police sniper after a manhunt, but is now believed to have committed suicide by multiple gunshots. ](/news/2007/10/7/a-sheriff-s-deputy-shoots-dead-six-young-people-in-crandon-wisconsin-united-states-it-was-initially-believed-that-he-was-killed-by-a-pol.md)
-_Context: Crandon, Wisconsin, United States, killed by a police sniper, manhunt, multiple gunshots, sheriff, shoots_
+_Context: Crandon, Wisconsin, U.S., killed by a police sniper, manhunt, multiple gunshots, sheriff, shoots_
 
 ### [ Costa Ricans approve CAFTA in a referendum with 52% of the votes. ](/news/2007/10/7/costa-ricans-approve-cafta-in-a-referendum-with-52-of-the-votes.md)
 Costa Ricans on Sunday appeared to narrowly vote in favor of joining the Central American Free Trade Agreement with the U.S., and President Oscar Arias declared victory for the pact. But with results so far contradicting most earlier polls, the opposition
@@ -31,7 +31,7 @@ _Context: Le Pont d'Argenteuil, Monet, Nuit Blanche, Orsay Museum, Paris_
 _Context: Last Man Standing match, Randy Orton, Triple H, Umaga, WWE Championship_
 
 ### [ U.S. college football: On the heels of last week's historic AP Poll shakeup, another one of comparable size occurs, in which four Top Ten teams and eleven ranked teams overall move down the list or off the poll entirely. LSU receives first place from all 65 sports critics, the first time that has occurred for any team since December 2006. #2 California earns its highest rank since 1951, #4 Boston College earns its highest showing since 1984, and #5 South Florida continues its ascent after first moving into the AP Poll three weeks ago. ](/news/2007/10/7/u-s-college-football-on-the-heels-of-last-week-s-historic-ap-poll-shakeup-another-one-of-comparable-size-occurs-in-which-four-top-ten-t.md)
-_Context: AP Poll, Boston College, December 2006, Louisiana State University, United States, University of California, Berkeley, University of South Florida, college football_
+_Context: AP Poll, Boston College, December 2006, Louisiana State University, U.S., University of California, Berkeley, University of South Florida, college football_
 
 ## [Previous Day...](/news/2007/10/6/index.md)
 

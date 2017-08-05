@@ -46,7 +46,7 @@ Zambian police investigate claims that managers at a Chinese-run coal mine in th
 _Context: FAO Goodwill Ambassador, Rashid Ahmed bin Fahd, Sheikha Fatima_
 
 ### [The Georgian parliament votes 112 to 4 to introduce 44 changes to its constitution. ](/news/2010/10/16/the-georgian-parliament-votes-112-to-4-to-introduce-44-changes-to-its-constitution.md)
-_Context: Georgia, its constitution_
+_Context: Georgian, its constitution_
 
 ### [The Government of India sets up an inquiry into allegations of corruption and mismanagement at the 2010 Commonwealth Games in Delhi. ](/news/2010/10/16/the-government-of-india-sets-up-an-inquiry-into-allegations-of-corruption-and-mismanagement-at-the-2010-commonwealth-games-in-delhi.md)
 _Context: 2010 Commonwealth Games, Delhi, Government of India_

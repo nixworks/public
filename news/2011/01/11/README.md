@@ -13,7 +13,7 @@ WikiLeaks founder Julian Assange has vowed to step up the website&#039;s release
 An Egyptian policeman shoots dead a Christian man and wounds others on a train, sparking fears of a sectarian attack and triggering protests.
 
 ### [Three Georgian Army soldiers are killed and 13 wounded when a mortar bomb explodes during exercises at a military base near Tbilisi, Georgia. ](/news/2011/01/11/three-georgian-army-soldiers-are-killed-and-13-wounded-when-a-mortar-bomb-explodes-during-exercises-at-a-military-base-near-tbilisi-georgia.md)
-_Context: Georgia, Georgian Army, Tbilisi_
+_Context: Georgian, Georgian Army, Tbilisi_
 
 ### [At least five people are killed in Abidjan, Ivory Coast, as clashes continue between police and supporters of presidential aspirant Alassane Ouattara. ](/news/2011/01/11/at-least-five-people-are-killed-in-abidjan-ivory-coast-as-clashes-continue-between-police-and-supporters-of-presidential-aspirant-alassane.md)
 _Context: Abidjan, Alassane Ouattara, Ivory Coast_
@@ -31,7 +31,7 @@ _Context: Brazil, Sao Paulo_
 The Brisbane River has broken its banks amid dire predictions of the biggest floods to hit Queensland&#039;s capital since 1974.
 
 ### [Thousands of airline flights are cancelled in the south, Great Lakes and northeast regions of the United States due to storms. ](/news/2011/01/11/thousands-of-airline-flights-are-cancelled-in-the-south-great-lakes-and-northeast-regions-of-the-united-states-due-to-storms.md)
-_Context: Great Lakes, Southern United States, United States, commercial air traffic, northeastern United States_
+_Context: Great Lakes, Southern United States, U.S., commercial air traffic, northeastern United States_
 
 ### [An official investigation in Kyrgzstan into deadly ethnic riots last year reports that local Uzbek leaders were to blame. ](/news/2011/01/11/an-official-investigation-in-kyrgzstan-into-deadly-ethnic-riots-last-year-reports-that-local-uzbek-leaders-were-to-blame.md)
 An official investigation in Kyrgyzstan into deadly ethnic clashes last year says local Uzbek leaders were to blame.

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [USAID  announces the Trump administration is dedicating  $169 million to feed people facing starvation in Ethiopia and Kenya, adding to earlier assistance for those suffering from drought and conflict in the region. ](/news/2017/08/3/usaid-announces-the-trump-administration-is-dedicating-169-million-to-feed-people-facing-starvation-in-ethiopia-and-kenya-adding-to-earl.md) _Context: Kenya_
+1. [USAID announces the Trump administration dedicated $169 million to feed people facing starvation in Ethiopia and Kenya, adding to earlier assistance for those suffering from drought and conflict in the region. ](/news/2017/08/3/usaid-announces-the-trump-administration-dedicated-169-million-to-feed-people-facing-starvation-in-ethiopia-and-kenya-adding-to-earlier-as.md) _Context: Kenya_
 2. [Prominent Italian-born conservationist Kuki Gallmann is shot and injured in an ambush in northern Kenya. ](/news/2017/04/23/prominent-italian-born-conservationist-kuki-gallmann-is-shot-and-injured-in-an-ambush-in-northern-kenya.md) _Context: Kenya_
 3. [A high court in Kenya blocks a government bid to close the Dadaab refugee camp and repatriate over 260,000 Somali refugees back to Somalia. The government said it will appeal against the ruling. ](/news/2017/02/9/a-high-court-in-kenya-blocks-a-government-bid-to-close-the-dadaab-refugee-camp-and-repatriate-over-260-000-somali-refugees-back-to-somalia.md) _Context: Kenya_
 4. [Al-Shabaab militants attack a remote AMISOM base in southern Somalia, claiming to have killed dozens of Kenyan troops. ](/news/2017/01/27/al-shabaab-militants-attack-a-remote-amisom-base-in-southern-somalia-claiming-to-have-killed-dozens-of-kenyan-troops.md) _Context: Kenya_

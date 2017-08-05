@@ -4,7 +4,7 @@
 _Context: Boko Haram, Niger_
 
 ### [The Pentagon raises security at its US military bases due to a growing jihadist threat in the United States and a recent shooting in Garland, Texas. ](/news/2015/05/7/the-pentagon-raises-security-at-its-us-military-bases-due-to-a-growing-jihadist-threat-in-the-united-states-and-a-recent-shooting-in-garland.md)
-_Context: Defense Department, Garland, Texas, ISIL, United States_
+_Context: Defense Department, Garland, Texas, ISIL, U.S._
 
 ### [Archaeologists in Madagascar announce the partial discovery of Captain Kidd's treasure. A silver ingot was found in a wreck off the coast of le Sainte-Marie. ](/news/2015/05/7/archaeologists-in-madagascar-announce-the-partial-discovery-of-captain-kidd-s-treasure-a-silver-ingot-was-found-in-a-wreck-off-the-coast-of.md)
 Underwater explorers in Madagascar say they have found what is thought to be the treasure of notorious Scottish pirate Captain William Kidd.

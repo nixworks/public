@@ -19,7 +19,7 @@ Pope Francis appoints 20 cardinals at a Vatican ceremony, boosting the number of
 Taxi, by dissident Iranian director Jafar Panahi, wins top prize at the Berlin Film Festival, while British stars Charlotte Rampling and Sir Tom Courtenay win acting honours.
 
 ### [French film and television actor Louis Jourdan (''Gigi'') dies at the age of 93. ](/news/2015/02/14/french-film-and-television-actor-louis-jourdan-gigi-dies-at-the-age-of-93.md)
-_Context: Frenchman, Gigi, Louis Jourdan_
+_Context: French-born, Gigi, Louis Jourdan_
 
 ### [There is a blizzard warning in place for eastern Massachusetts in the northeastern United States. ](/news/2015/02/14/there-is-a-blizzard-warning-in-place-for-eastern-massachusetts-in-the-northeastern-united-states.md)
 _Context: Massachusetts, Northeastern United States, blizzard_

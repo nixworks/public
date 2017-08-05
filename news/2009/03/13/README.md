@@ -1,19 +1,19 @@
 ## [2009-03-13](/news/2009/03/13/index.md)
 
 ### [ The United States abandons the term "enemy combatant" for detainees at Guantanamo Bay Naval Base's detention camp.  ](/news/2009/03/13/the-united-states-abandons-the-term-enemy-combatant-for-detainees-at-guanta-namo-bay-naval-base-s-detention-camp.md)
-_Context: Guantanamo Bay, Guantanamo Bay Detention Camp, United States, detainees, enemy combatant, military base at Guantanamo Bay_
+_Context: Guantanamo Bay, Guantanamo Bay Detention Camp, U.S., detainees, enemy combatant, military base at Guantanamo Bay_
 
 ### [ Italy's Ministry of Foreign Affairs reports that three Doctors Without Borders volunteers kidnapped in Darfur, Sudan, have been freed.  ](/news/2009/03/13/italy-s-ministry-of-foreign-affairs-reports-that-three-doctors-without-borders-volunteers-kidnapped-in-darfur-sudan-have-been-freed.md)
 _Context: Darfur, Italian, Medecins Sans Frontieres, Ministry of Foreign Affairs, Sudan, conflict, volunteer_
 
 ### [ United Nations High Commissioner for Human Rights Navanethem Pillay accuses Sri Lanka's Armed Forces and the Tamil Tigers of possible war crimes. ](/news/2009/03/13/united-nations-high-commissioner-for-human-rights-navanethem-pillay-accuses-sri-lanka-s-armed-forces-and-the-tamil-tigers-of-possible-war-c.md)
-_Context: LTTE, Navanethem Pillay, Sri Lanka, Sri Lankan Civil War, United Nations, United Nations High Commissioner for Human Rights, armed forces, war crime_
+_Context: LTTE, Navanethem Pillay, OCHR, Sri Lanka, Sri Lankan Civil War, United Nations, armed forces, war crime_
 
 ### [ Police are mobilized in Pakistan as thousands of protestors march toward Islamabad. ](/news/2009/03/13/police-are-mobilized-in-pakistan-as-thousands-of-protestors-march-toward-islamabad.md)
 Police in Pakistan have blocked highways and banned political gatherings in three provinces as thousands of protesters attempt to march to the capital, Islamabad.
 
 ### [ An American demonstrator from the International Solidarity Movement is critically wounded by Israel's Defense Forces at the West Bank barrier. ](/news/2009/03/13/an-american-demonstrator-from-the-international-solidarity-movement-is-critically-wounded-by-israel-s-defense-forces-at-the-west-bank-barri.md)
-_Context: International Solidarity Movement, Israel, Israel Defense Forces, United States, West Bank, barrier, demonstration_
+_Context: International Solidarity Movement, Israel, Israel Defense Forces, U.S., West Bank, barrier, demonstration_
 
 ### [ Japan announces it will intercept North Korea's upcoming satellite launch if the boosters threaten its territory. ](/news/2009/03/13/japan-announces-it-will-intercept-north-korea-s-upcoming-satellite-launch-if-the-boosters-threaten-its-territory.md)
 _Context: Japan, North Korea, boosters, released an object into orbit_

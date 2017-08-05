@@ -10,7 +10,7 @@ _Context: State Department's, Venezuela, persona non-grata_
 _Context: International Atomic Energy Agency, Iran, United Nations Security Council_
 
 ### [ A plot to assassinate President Mikhail Saakashvili of Georgia by shooting down his helicopter has been foiled. ](/news/2006/02/3/a-plot-to-assassinate-president-mikhail-saakashvili-of-georgia-by-shooting-down-his-helicopter-has-been-foiled.md)
-_Context: Georgia, Mikhail Saakashvili, President of Georgia, assassinated, helicopter_
+_Context: Georgian, Mikhail Saakashvili, President of Georgia, assassinated, helicopter_
 
 ### [ Queues build up at vendors as the EuroMillions lottery offers a jackpot of EUR180 million after 11 successive rollovers (statistically expected once in 25 years). Some British vendors report a 1200% increase in sales. EuroMillions tickets are sold in Austria, Belgium. France, Ireland, Luxembourg, Portugal, Spain, Switzerland and the United Kingdom. An Irish woman won EUR115,436,126 last July. ](/news/2006/02/3/queues-build-up-at-vendors-as-the-euromillions-lottery-offers-a-jackpot-of-a-180-million-after-11-successive-rollovers-statistically-expe.md)
 _Context: Euromillions, Luxembourg, euro, lottery_

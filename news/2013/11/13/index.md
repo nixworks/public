@@ -19,7 +19,7 @@ _Context: Christie's, Geneva, diamond_
 A diamond called the Pink Star has fetched a record price for a gemstone by selling for $83m at an auction in Geneva.
 
 ### [One World Trade Center becomes the tallest building in the United States. ](/news/2013/11/13/one-world-trade-center-becomes-the-tallest-building-in-the-united-states.md)
-_Context: One World Trade Center, United States_
+_Context: One World Trade Center, U.S._
 
 ### [Poppy farmers in Afghanistan report record yields for their opium crops. ](/news/2013/11/13/poppy-farmers-in-afghanistan-report-record-yields-for-their-opium-crops.md)
 Despite 10 years of western efforts to curb production, a combination of economics and political instability means farmers in the world&#x27;s largest heroin-producing country are as enthusiastic as ever for the poppy
@@ -46,7 +46,7 @@ _Context: Australia, Kevin Rudd, Politics of Australia_
 The Trans-Pacific Partnership, negotiated in secret between 12 Pacific Rim nations, &amp;#34;would trample over individual rights and free expression&amp;#34; according to Julian Assange
 
 ### [The United States Government announces that 106,185 people signed up for health insurance through the Health Insurance Marketplace as part of the Patient Protection and Affordable Care Act during its first month of release on October. ](/news/2013/11/13/the-united-states-government-announces-that-106-185-people-signed-up-for-health-insurance-through-the-health-insurance-marketplace-as-part-o.md)
-_Context: Government of the United States, Health Insurance Marketplace, Patient Protection and Affordable Care Act, United States_
+_Context: Government of the United States, Health Insurance Marketplace, Patient Protection and Affordable Care Act, U.S._
 
 ### [A gigantic iceberg is floating in the Southern Ocean after breaking off the Pine Island Glacier in Antarctica. ](/news/2013/11/13/a-gigantic-iceberg-is-floating-in-the-southern-ocean-after-breaking-off-the-pine-island-glacier-in-antarctica.md)
 _Context: Antarctica, Pine Island Glacier, Southern Ocean_

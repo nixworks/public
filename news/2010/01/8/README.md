@@ -28,7 +28,7 @@ The Sea Shepherd speedboat Ady Gil has sunk after it was sliced in two by a Japa
 _Context: Guinea, Senegal, Skouba Konat, junta_
 
 ### [A Georgian flight lands in Moscow, Russia, the first since the 2008 war. ](/news/2010/01/8/a-georgian-flight-lands-in-moscow-russia-the-first-since-the-2008-war.md)
-_Context: 2008 war, Georgia, Moscow, Russia_
+_Context: 2008 war, Georgian, Moscow, Russia_
 
 ### [British MP George Galloway is deported from Egypt. ](/news/2010/01/8/british-mp-george-galloway-is-deported-from-egypt.md)
 British MP George Galloway, who led the Viva Palestina to Gaza, put on London flight.

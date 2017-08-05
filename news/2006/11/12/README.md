@@ -16,7 +16,7 @@ _Context: 2003 Protocol on Explosive Remnants of War, cluster bomb_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ The former Soviet autonomous oblast of South Ossetia holds a referendum on independence from Georgia, heightening tension in the Caucasus. ](/news/2006/11/12/the-former-soviet-autonomous-oblast-of-south-ossetia-holds-a-referendum-on-independence-from-georgia-heightening-tension-in-the-caucasus.md)
-_Context: Caucasus, Georgia, Georgian-Ossetian conflict, South Ossetia, oblast, referendum on independence_
+_Context: Caucasus, Georgian, Georgian-Ossetian conflict, South Ossetia, oblast, referendum on independence_
 
 ### [ The first round of the 2006 local elections for local mayors and local city councils takes place in Poland.](/news/2006/11/12/the-first-round-of-the-2006-local-elections-for-local-mayors-and-local-city-councils-takes-place-in-poland.md)
 _Context: 2006 local elections, Poland_

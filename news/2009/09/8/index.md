@@ -16,7 +16,7 @@ _Context: Democratic Republic of Congo, Joshua French and Tjostolv Moland, Norwa
 _Context: Orange, T-Mobile, United Kingdom, wireless mobile carriers_
 
 ### [ A magnitude 6.2 earthquake strikes northern Georgia. ](/news/2009/09/8/a-magnitude-6-2-earthquake-strikes-northern-georgia.md)
-_Context: Georgia, magnitude earthquake_
+_Context: Georgian, magnitude earthquake_
 
 ### [ 35 people are killed and 44 remain missing after an explosion in a coal mine in Pingdingshan, China. ](/news/2009/09/8/35-people-are-killed-and-44-remain-missing-after-an-explosion-in-a-coal-mine-in-pingdingshan-china.md)
 At least 42 people killed and dozens more trapped in explosion at Henan coal mine.

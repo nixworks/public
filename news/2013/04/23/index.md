@@ -4,7 +4,7 @@
 Tel Aviv made its most definitive statement accusing Syria of using chemical weapons, which President Obama has called a “red line” Syria cannot cross.
 
 ### [War on Terror:A car bomb detonates outside the French embassy in the Libyan capital Tripoli, resulting in injury to two guards and extensive damage to the embassy. ](/news/2013/04/23/war-on-terror-pa-car-bomb-detonates-outside-the-french-embassy-in-the-libyan-capital-tripoli-resulting-in-injury-to-two-guards-and-extensiv.md)
-_Context: Frenchman, Libya, Tripoli, War on Terror, car bomb_
+_Context: French-born, Libya, Tripoli, War on Terror, car bomb_
 
 ### [2013 Hawija clashes:At least 28 are dead and more than 70 are injured as violence breaks out in Hawija, Iraq, between police forces and Sunni Muslim activists. ](/news/2013/04/23/2013-hawija-clashes-pat-least-28-are-dead-and-more-than-70-are-injured-as-violence-breaks-out-in-hawija-iraq-between-police-forces-and-sun.md)
 _Context: 2013 Hawija clashes, Hawija, Iraq, Sunni Muslim_

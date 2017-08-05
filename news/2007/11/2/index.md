@@ -10,7 +10,7 @@ _Context: 2007 Georgian demonstrations, Mikhail Saakashvili, Tbilisi_
 _Context: Kilinochchi, S. P. Thamilselvan, Sri Lanka, Sri Lanka Air Force, Tamil Tigers_
 
 ### [ Stocks across Asia drop sharply after a rough Thursday in Europe and the United States, with the Hang Seng Index in Hong Kong losing over 1,000 points, or 3.25%, the biggest loss of any Asian market. London's FTSE 100 Index loses ground for a second day after the news in Asia. ](/news/2007/11/2/stocks-across-asia-drop-sharply-after-a-rough-thursday-in-europe-and-the-united-states-with-the-hang-seng-index-in-hong-kong-losing-over-1.md)
-_Context: Europe, FTSE 100 Index, Hang Seng Index, Hong Kong, United States_
+_Context: Europe, FTSE 100 Index, Hang Seng Index, Hong Kong, U.S._
 
 ### [ ICANN celebrates Vint Cerf years, names Peter Dengate Thrush chairman, forms working group on internationalized domain names. ](/news/2007/11/2/icann-celebrates-vint-cerf-years-names-peter-dengate-thrush-chairman-forms-working-group-on-internationalized-domain-names.md)
 ICANN forms group to hasten non-English domain names

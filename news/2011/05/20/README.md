@@ -37,7 +37,7 @@ _Context: Coral Coast, Fiji, Southern Ocean_
 _Context: Baton Rouge, Louisiana, Mississippi River, flooding_
 
 ### [Georgia becomes the first country to recognize the 19th-century Russian military campaign against the Circassians in the northwest Caucasus as a "genocide". ](/news/2011/05/20/georgia-becomes-the-first-country-to-recognize-the-19th-century-russian-military-campaign-against-the-circassians-in-the-northwest-caucasus.md)
-_Context: Caucasus, Circassians, Georgia, Russian, genocide_
+_Context: Caucasus, Circassians, Georgian, Russian, genocide_
 
 ### [Japan agrees to join an international child custody agreement under the 1980 Hague Convention on the Civil Aspects of International Child Abduction. ](/news/2011/05/20/japan-agrees-to-join-an-international-child-custody-agreement-under-the-1980-hague-convention-on-the-civil-aspects-of-international-child-ab.md)
 _Context: Hague Convention on the Civil Aspects of International Child Abduction, Japan_

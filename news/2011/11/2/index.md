@@ -22,7 +22,7 @@ _Context: American, Lindsay Lohan, Los Angeles_
 An Irish and a Canadian aid ship are currently in international waters on their way to Gaza to take part in a humanitarian mission.
 
 ### [Russia and Georgia strike a deal that will allow Russia to enter the World Trade Organization. ](/news/2011/11/2/russia-and-georgia-strike-a-deal-that-will-allow-russia-to-enter-the-world-trade-organization.md)
-_Context: Georgia, Russia, World Trade Organization_
+_Context: Georgian, Russia, World Trade Organization_
 
 ### [Greek economic referendum:The Greek Cabinet unanimously supports plans by Prime Minister George Papandreou to hold a referendum on the European Union's proposed economic rescue plan. ](/news/2011/11/2/greek-economic-referendum-pthe-greek-cabinet-unanimously-supports-plans-by-prime-minister-george-papandreou-to-hold-a-referendum-on-the-euro.md)
 _Context: European Union, George Papandreou, Greek, Greek Prime Minister, referendum_

@@ -25,7 +25,7 @@ Videla died of natural causes while serving life sentences for crimes against hu
 More than $1m (£650,000) worth of jewels have been stolen from a hotel in the French town of Cannes, police say.
 
 ### [An anti-homophobia march in the Georgian capital Tbilisi results in a riot with dozens of people injured as opponents attack the march. ](/news/2013/05/17/an-anti-homophobia-march-in-the-georgian-capital-tbilisi-results-in-a-riot-with-dozens-of-people-injured-as-opponents-attack-the-march.md)
-_Context: Georgia, Tbilisi, homophobia_
+_Context: Georgian, Tbilisi, homophobia_
 
 ### [NASA records the brightest lunar meteor impact yet observed. ](/news/2013/05/17/nasa-records-the-brightest-lunar-meteor-impact-yet-observed.md)
 _Context: Moon, NASA, meteor impact_

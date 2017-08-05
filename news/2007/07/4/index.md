@@ -16,7 +16,7 @@ _Context: 2007 attack, suicide note_
 _Context: East Timor, Fretilin, coalition, political party_
 
 ### [ A power blackout hits eastern Georgia, leaving 2.5m people without electricity and briefly stranding a thousand on the Tbilisi Metro. ](/news/2007/07/4/a-power-blackout-hits-eastern-georgia-leaving-2-5m-people-without-electricity-and-briefly-stranding-a-thousand-on-the-tbilisi-metro.md)
-_Context: Georgia, Tbilisi Metro_
+_Context: Georgian, Tbilisi Metro_
 
 ### [ The terror threat level in the United Kingdom is reduced from critical to severe. ](/news/2007/07/4/the-terror-threat-level-in-the-united-kingdom-is-reduced-from-critical-to-severe.md)
 _Context: United Kingdom_

@@ -4,7 +4,7 @@
 _Context: Air New Zealand, Air New Zealand Flight 901, Airbus A320, NZDT_
 
 ### [ A Polish ABW secret service report says the shooting incident in Georgia involving Polish President Lech Kaczynski and Georgian President Mikheil Saakashvili was most likely "a provocation" staged by the Georgians ](/news/2008/11/27/a-polish-abw-secret-service-report-says-the-shooting-incident-in-georgia-involving-polish-president-lech-kaczyaski-and-georgian-president.md)
-_Context: ABW, Georgia, Lech Kaczynski, Mikhail Saakashvili, Poland_
+_Context: ABW, Georgian, Lech Kaczynski, Mikhail Saakashvili, Poland_
 
 ### [ 2008 Santa Catarina floods: The Brazilian federal government authorizes nearly 2 billion reais (881 million U.S. dollars) in emergency relief funds. ](/news/2008/11/27/2008-santa-catarina-floods-the-brazilian-federal-government-authorizes-nearly-2-billion-reais-881-million-u-s-dollars-in-emergency-reli.md)
 Brazil sent hundreds of stateand federal police officers on Wednesday to quell looting byhomeless and hungry landslide victims facing the threat ofdisease after heavy flooding that authorities say killed morethan 100 people and displaced 54,000.
@@ -13,7 +13,7 @@ Brazil sent hundreds of stateand federal police officers on Wednesday to quell l
 Russian President Dmitry Medvedev and his Brazilian counterpart Luiz Inacio Lula da Silva called on Wednesday for the first summit of major emerging market countries known as BRICs in Russia next year.
 
 ### [ A suicide car bomb explodes near the United States embassy in Kabul, Afghanistan, with at least one person dead. ](/news/2008/11/27/a-suicide-car-bomb-explodes-near-the-united-states-embassy-in-kabul-afghanistan-with-at-least-one-person-dead.md)
-_Context: Afghanistan's, Kabul, United States, car bomb, embassies, suicide_
+_Context: Afghanistan's, Kabul, U.S., car bomb, embassies, suicide_
 
 ### [ An Australian soldier is killed and several injured in fighting in Oruzgan Province, Afghanistan. ](/news/2008/11/27/an-australian-soldier-is-killed-and-several-injured-in-fighting-in-oruzgan-province-afghanistan.md)
 _Context: Oruzgan province_

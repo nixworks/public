@@ -10,10 +10,10 @@ Eighteen gas pipeline workers, most of them Iranians, have been shot dead in an 
 Authorities said Friday they foiled a suicide bombing plot to blow up the Mid-Continent Airport in Wichita, Kansas, arresting a man who proclaimed himself Muslim and had talked of committing &quot;violent jihad on behalf of al Qaeda.&quot;
 
 ### [A gunman critically wounds a student in a shooting at Arapahoe High School, Centennial, Colorado, United States. ](/news/2013/12/13/a-gunman-critically-wounds-a-student-in-a-shooting-at-arapahoe-high-school-centennial-colorado-united-states.md)
-_Context: Arapahoe High School, Centennial, Colorado, United States, gunman critically wounds a student in a shooting_
+_Context: Arapahoe High School, Centennial, Colorado, U.S., gunman critically wounds a student in a shooting_
 
 ### [Territorial disputes in the South China Sea:Warships of the United States and China confront each other in international waters within the South China Sea. ](/news/2013/12/13/territorial-disputes-in-the-south-china-sea-pwarships-of-the-united-states-and-china-confront-each-other-in-international-waters-within-the.md)
-_Context: Chinese, South China Sea, Territorial disputes in the South China Sea, United States, international waters_
+_Context: Chinese, South China Sea, Territorial disputes in the South China Sea, U.S., international waters_
 
 ### [Prince Harry and his "Walking with the Wounded" team reach the South Pole after three weeks trekking in the Antarctic. ](/news/2013/12/13/prince-harry-and-his-walking-with-the-wounded-team-reach-the-south-pole-after-three-weeks-trekking-in-the-antarctic.md)
 Prince Harry and his fellow adventurers in the Walking With The Wounded expedition arrive at the South Pole, organisers say.

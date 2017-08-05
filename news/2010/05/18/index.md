@@ -1,7 +1,7 @@
 ## [2010-05-18](/news/2010/05/18/index.md)
 
 ### [A new study has found that the gap in wealth between white and black Americans increased by more than four times between 1984 and 2007. ](/news/2010/05/18/a-new-study-has-found-that-the-gap-in-wealth-between-white-and-black-americans-increased-by-more-than-four-times-between-1984-and-2007.md)
-_Context: 1984, 2007, African-American, United States, wealth, white_
+_Context: 1984, 2007, African-American, U.S., wealth, white_
 
 ### [Hamas' interior ministry executes three Palestinians in Gaza, without the approval of the President of the Palestinian National Authority, Mahmoud Abbas. ](/news/2010/05/18/hamas-interior-ministry-executes-three-palestinians-in-gaza-without-the-approval-of-the-president-of-the-palestinian-national-authority-m.md)
 _Context: Gaza Strip, Hamas, Mahmoud Abbas, Palestinian Authority President, Palestinians, capital punishment_

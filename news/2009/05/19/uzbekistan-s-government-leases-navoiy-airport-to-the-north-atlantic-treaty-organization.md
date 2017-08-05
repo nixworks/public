@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ A NATO soldier is killed and six other personnel are wounded after a suicide bomber attacked their convoy in Afghanistan's Kabul province. ](/news/2017/08/3/a-nato-soldier-is-killed-and-six-other-personnel-are-wounded-after-a-suicide-bomber-attacked-their-convoy-in-afghanistan-s-kabul-province.md) _Context: NATO_
+1. [ A suicide bomber attacks a NATO convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding six other personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-nato-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-six-oth.md) _Context: NATO_
 2. [The United Nations votes in favour of the Treaty on the Prohibition of Nuclear Weapons with 122 in favour, 1 abstention, and 1 against. The treaty conference and negotiations had been boycotted by the nuclear weapon states and by the members of NATO. ](/news/2017/07/7/the-united-nations-votes-in-favour-of-the-treaty-on-the-prohibition-of-nuclear-weapons-with-122-in-favour-1-abstention-and-1-against-the.md) _Context: NATO_
 3. [Uzbekistan Deputy Prime Minister Rustam Azimov is dismissed by President Shavkat Mirziyoyev, who had earlier criticized Azimov for failing to control financiers' activities. He is replaced by former Deputy Finance Minister Jamshed Kuchkarev. ](/news/2017/06/6/uzbekistan-deputy-prime-minister-rustam-azimov-is-dismissed-by-president-shavkat-mirziyoyev-who-had-earlier-criticized-azimov-for-failing-t.md) _Context: Uzbekistan_
 4. [Montenegro officially joins NATO as its 29th member at a ceremony in Washington, D.C. ](/news/2017/06/5/montenegro-officially-joins-nato-as-its-29th-member-at-a-ceremony-in-washington-d-c.md) _Context: NATO_

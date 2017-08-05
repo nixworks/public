@@ -13,7 +13,7 @@ _Context: 2013 Los Angeles International Airport shooting_
 _Context: 2013 Tunisian protests, Tunisia, government_
 
 ### [Georgian Prime Minister Bidzina Ivanishvili, due to leave office this month, names Interior Minister Irakli Garibashvili as his successor. ](/news/2013/11/2/georgian-prime-minister-bidzina-ivanishvili-due-to-leave-office-this-month-names-interior-minister-irakli-garibashvili-as-his-successor.md)
-_Context: Bidzina Ivanishvili, Georgia, Irakli Garibashvili_
+_Context: Bidzina Ivanishvili, Georgian, Irakli Garibashvili_
 
 ## [Previous Day...](/news/2013/11/1/index.md)
 

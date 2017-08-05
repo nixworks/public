@@ -1,7 +1,7 @@
 ## [2010-05-12](/news/2010/05/12/index.md)
 
 ### [Global Green USA attends BioShield 2010 Tabletop Exercise in Tbilisi, Georgia. ](/news/2010/05/12/global-green-usa-attends-bioshield-2010-tabletop-exercise-in-tbilisi-georgia.md)
-_Context: Georgia, Global Green USA, Tbilisi_
+_Context: Georgian, Global Green USA, Tbilisi_
 
 ### [Afriqiyah Airways Flight 771 arriving from South Africa en route to London crashes at Tripoli airport, Libya, killing 104 people; a 10-year-old child is the sole survivor. ](/news/2010/05/12/afriqiyah-airways-flight-771-arriving-from-south-africa-en-route-to-london-crashes-at-tripoli-airport-libya-killing-104-people-a-10-year.md)
 Minister says Dutch child is the sole survivor as up to 103 people are killed at Tripoli airport.

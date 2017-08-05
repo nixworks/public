@@ -7,7 +7,7 @@ _Context: 2014 pro-Russian unrest in Ukraine, Assumption Monastery Lavra, Moscow
 _Context: Egypt, Post-coup unrest in Egypt (2013-14)_
 
 ### [Central African Republic conflict:Russia and China have blocked a proposal by the United States and France to impose U.N. sanctions on Central African Republic's former President Francois Bozize and two other people linked to the conflict. ](/news/2014/04/23/central-african-republic-conflict-prussia-and-china-have-blocked-a-proposal-by-the-united-states-and-france-to-impose-u-n-sanctions-on-cent.md)
-_Context: Central African Republic, Central African Republic conflict (2012-present), Chinese, France, Francois Bozize, Russia, U.N., United States_
+_Context: Central African Republic, Central African Republic conflict (2012-present), Chinese, France, Francois Bozize, Russia, U.N., U.S._
 
 ### [A car bomb detonates outside a police station in Nairobi, Kenya, killing 4 people. ](/news/2014/04/23/a-car-bomb-detonates-outside-a-police-station-in-nairobi-kenya-killing-4-people.md)
 Four people, two of them police, are killed in the Kenyan capital Nairobi by a car bomb outside a police station.

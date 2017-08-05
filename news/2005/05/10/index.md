@@ -25,7 +25,7 @@ _Context: Ahmad Didi, Fathimath Nisreen, Maldives, Mohamed Zaki_
 _Context: Egypt, constitutional amendment, presidential election_
 
 ### [ President George W. Bush and Georgian President Mikhail Saakashvili met in Tbilisi, Georgia and Bush gets a hand grenade thrown at him, but does not detonate.](/news/2005/05/10/president-george-w-bush-and-georgian-president-mikhail-saakashvili-met-in-tbilisi-georgia-and-bush-gets-a-hand-grenade-thrown-at-him-but.md)
-_Context: George W. Bush, Georgia, Mikhail Saakashvili, Tbilisi_
+_Context: George W. Bush, Georgian, Mikhail Saakashvili, Tbilisi_
 
 ## [Previous Day...](/news/2005/05/9/index.md)
 

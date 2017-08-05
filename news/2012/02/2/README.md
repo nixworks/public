@@ -28,7 +28,7 @@ Corruption charges against former West Australian Labor premier Brian Burke have
 _Context: A. Raja, Supreme Court of India, telecommunication_
 
 ### [A French appeals court upholds a 2009 conviction of the Church of Scientology on fraud charges. ](/news/2012/02/2/a-french-appeals-court-upholds-a-2009-conviction-of-the-church-of-scientology-on-fraud-charges.md)
-_Context: Church of Scientology, Frenchman, fraud_
+_Context: Church of Scientology, French-born, fraud_
 
 ### [Egyptian comedian Adel Emam is sentenced to three months in prison for insulting Islam. ](/news/2012/02/2/egyptian-comedian-adel-emam-is-sentenced-to-three-months-in-prison-for-insulting-islam.md)
 _Context: Adel Emam, Egypt, insulting Islam_

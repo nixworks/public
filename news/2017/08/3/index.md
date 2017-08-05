@@ -1,9 +1,9 @@
 ## [2017-08-3](/news/2017/08/3/index.md)
 
-### [ A NATO soldier is killed and six other personnel are wounded after a suicide bomber attacked their convoy in Afghanistan's Kabul province. ](/news/2017/08/3/a-nato-soldier-is-killed-and-six-other-personnel-are-wounded-after-a-suicide-bomber-attacked-their-convoy-in-afghanistan-s-kabul-province.md)
-_Context: Afghanistan's, Kabul province, NATO, War in Afghanistan (2015-present), suicide bomber_
+### [ A suicide bomber attacks a NATO convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding six other personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-nato-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-six-oth.md)
+_Context: Afghanistan's, Georgian, Kabul province, NATO, War in Afghanistan (2015-present), suicide bomber_
 
-### [USAID  announces the Trump administration is dedicating  $169 million to feed people facing starvation in Ethiopia and Kenya, adding to earlier assistance for those suffering from drought and conflict in the region. ](/news/2017/08/3/usaid-announces-the-trump-administration-is-dedicating-169-million-to-feed-people-facing-starvation-in-ethiopia-and-kenya-adding-to-earl.md)
+### [USAID announces the Trump administration dedicated $169 million to feed people facing starvation in Ethiopia and Kenya, adding to earlier assistance for those suffering from drought and conflict in the region. ](/news/2017/08/3/usaid-announces-the-trump-administration-dedicated-169-million-to-feed-people-facing-starvation-in-ethiopia-and-kenya-adding-to-earlier-as.md)
 The Trump administration gave $169 million to feed people facing starvation in Ethiopia and Kenya, USAID said on Thursday, adding to earlier assistance for those suffering from drought and conflict in four other nations.
 
 ### [South American trade bloc Mercosur will trigger its democratic clause this weekend to suspend Venezuela indefinitely, furthering its past temporary suspension, and not allow the country back until internal political issues have been resolved. ](/news/2017/08/3/south-american-trade-bloc-mercosur-will-trigger-its-democratic-clause-this-weekend-to-suspend-venezuela-indefinitely-furthering-its-past-te.md)

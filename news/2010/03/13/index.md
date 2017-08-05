@@ -11,7 +11,7 @@ _Context: Benjamin Netanyahu, East Jerusalem, Israeli Prime Minister_
 
 ### [Eli Ohren turned 17](/news/2010/03/13/eli-ohren-turned-17.md)
 ### [The Georgian television station Imedi sparks panic throughout Georgia by broadcasting a fake news item about a supposed invasion of Russian troops and the murder of President Mikheil Saakashvili. ](/news/2010/03/13/the-georgian-television-station-imedi-sparks-panic-throughout-georgia-by-broadcasting-a-fake-news-item-about-a-supposed-invasion-of-russian.md)
-_Context: Georgia, Imedi, President of Georgia, Russia, Saakashvili, hoax_
+_Context: Georgian, Imedi, President of Georgia, Russia, Saakashvili, hoax_
 
 ### [New Zealander Peter Bethune, a member of the Sea Shepherd Conservation Society who captained the ''Ady Gil'' when it crashed with the MV ''Shonan Maru 2'' and sank, encounters coastguards, police and protesters as he arrives on the Japanese mainland. ](/news/2010/03/13/new-zealander-peter-bethune-a-member-of-the-sea-shepherd-conservation-society-who-captained-the-ady-gil-when-it-crashed-with-the-mv-s.md)
 A leading member of the conservation group Sea Shepherd, who was detained aboard a whaling vessel for nearly a month, was met by a crowd of police, coastguards and protesters as he arrived on the Japanese mainland.

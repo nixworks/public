@@ -19,7 +19,7 @@ _Context: US$, crude oil_
 _Context: Golan Heights, Israel, Middle East, Syria, Turkey_
 
 ### [ Georgian voters go to the polls for the Georgian legislative election, 2008. ](/news/2008/05/21/georgian-voters-go-to-the-polls-for-the-georgian-legislative-election-2008.md)
-_Context: Georgia, Georgian legislative election, 2008_
+_Context: Georgian, Georgian legislative election, 2008_
 
 ## [Previous Day...](/news/2008/05/20/index.md)
 

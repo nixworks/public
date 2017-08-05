@@ -10,7 +10,7 @@ F-16 shoots down vessel over Mediterranean; not clear whether drone was armed; H
 _Context: AK-47s, France, Istres_
 
 ### [French unemployment reaches a record level of 3.22 million. ](/news/2013/04/25/french-unemployment-reaches-a-record-level-of-3-22-million.md)
-_Context: Frenchman_
+_Context: French-born_
 
 ### [Northern Mali conflict (2012-present):The United Nations Security Council votes to send a peacekeeping force to Mali to replace French and African forces battling Islamist guerrillas. ](/news/2013/04/25/northern-mali-conflict-2012apresent-pthe-united-nations-security-council-votes-to-send-a-peacekeeping-force-to-mali-to-replace-french-an.md)
 THE UN Security Council has unanimously backed sending up to 12,600 international troops and police to take over from French and African forces battling Islamist guerrillas in Mali.

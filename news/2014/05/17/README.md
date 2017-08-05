@@ -7,7 +7,7 @@ Nigeria, Cameroon, Niger, Chad and Benin pledge to cooperate against militant gr
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [A landslide in the Dariali Gorge in northeastern Georgia kills at least three people, blocks the Terek River, and disrupts gas supply to Armenia. ](/news/2014/05/17/a-landslide-in-the-dariali-gorge-in-northeastern-georgia-kills-at-least-three-people-blocks-the-terek-river-and-disrupts-gas-supply-to-arm.md)
-_Context: Armenia, Dariali Gorge, Georgia, Terek River_
+_Context: Armenia, Dariali Gorge, Georgian, Terek River_
 
 ### [Sinking of the MV Miraj-4:Officials call off rescue operations as 54 dead bodies recovered with an unknown number of people missing in a ferry disaster in the Meghna River of Bangladesh.](/news/2014/05/17/sinking-of-the-mv-miraj-4-pofficials-call-off-rescue-operations-as-54-dead-bodies-recovered-with-an-unknown-number-of-people-missing-in-a-fe.md)
 _Context: Bangladesh, Meghna River, Sinking of the MV Miraj-4_

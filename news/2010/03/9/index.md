@@ -49,7 +49,7 @@ _Context: Burma, State Peace and Development Council, general elections_
 Indonesian president Susilo Bambang Yudhoyono arrives in Australia for talks on free trade and people smuggling.
 
 ### [First President of Rwanda Dominique Mbonyumutwa's son objects to the removal of his father's corpse from the Democracy Stadium in Gitarama, saying it defies a court ruling. ](/news/2010/03/9/first-president-of-rwanda-dominique-mbonyumutwa-s-son-objects-to-the-removal-of-his-father-s-corpse-from-the-democracy-stadium-in-gitarama.md)
-_Context: Democracy Stadium, Dominique Mbonyumutwa, Gitarama, President_
+_Context: Democracy Stadium, Dominique Mbonyumutwa, Gitarama, president_
 
 ### [Dublin's Tallaght Hospital blames "systemic and process failures" for more than 57,000 X-rays taken between 2005 and 2009 not being reviewed by medical professionals and admits at least two patients received incorrect treatment, one of whom has since died and the other who is receiving cancer treatment. ](/news/2010/03/9/dublin-s-tallaght-hospital-blames-systemic-and-process-failures-for-more-than-57-000-x-rays-taken-between-2005-and-2009-not-being-reviewed.md)
 A patient died when their diagnosis was delayed at Tallaght Hospital because x-rays were not reviewed by a consultant radiologist.

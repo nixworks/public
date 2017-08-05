@@ -13,7 +13,7 @@ An attack by dozens of Muslim rebels shut down the major southern Philippine por
 _Context: July 2013 Egyptian protests, Mahmoud Badr, Political violence in Egypt, 2013, Tamarod_
 
 ### [A senior Russian diplomat is gunned down in Sukhumi, the capital of Georgia's breakaway region of Abkhazia. ](/news/2013/09/9/a-senior-russian-diplomat-is-gunned-down-in-sukhumi-the-capital-of-georgia-s-breakaway-region-of-abkhazia.md)
-_Context: Abkhazia, Georgia, Russia, Sukhumi_
+_Context: Abkhazia, Georgian, Russia, Sukhumi_
 
 ### [A man calls the police that he has an AK-47 in both Santa Fe Middle School in Monrovia, California and the "Citrus Medical Center" in West Covina, California. ](/news/2013/09/9/a-man-calls-the-police-that-he-has-an-ak-47-in-both-santa-fe-middle-school-in-monrovia-california-and-the-citrus-medical-center-in-west-c.md)
 A Monrovia middle school was on lockdown Monday afternoon after a man called police and said he was on campus with a firearm, authorities said. A male caller phoned the Monrovia Police Department at about 2 p.m., saying he was on the campus of Santa Fe Middle School with an AK-47 assault rifle, Lt. Michael Lee said.

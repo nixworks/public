@@ -37,10 +37,10 @@ Colombia said it is preparing to defend against a possible foreign military atta
 _Context: Mayon Volcano, Philippines_
 
 ### [ Two people are killed and four people are wounded by flying concrete during a huge demolition of a Soviet war memorial in Georgia. ](/news/2009/12/20/two-people-are-killed-and-four-people-are-wounded-by-flying-concrete-during-a-huge-demolition-of-a-soviet-war-memorial-in-georgia.md)
-_Context: Georgia, Soviet_
+_Context: Georgian, Soviet_
 
 ### [ American band Rage Against the Machine top the UK Christmas Singles Chart with 1992 song "Killing in the Name". Its popularity arose from an internet campaign to prevent ''X Factor'' winner Joe McElderry from topping the charts. ](/news/2009/12/20/american-band-rage-against-the-machine-top-the-uk-christmas-singles-chart-with-1992-song-killing-in-the-name-its-popularity-arose-from-a.md)
-_Context: Joe McElderry, Killing in the Name, Rage Against the Machine, The X Factor, UK Christmas Singles Chart, United States_
+_Context: Joe McElderry, Killing in the Name, Rage Against the Machine, The X Factor, U.S., UK Christmas Singles Chart_
 
 ### [ Actress Brittany Murphy dies at age 32 of Pneumonia and iron deficiency](/news/2009/12/20/actress-brittany-murphy-dies-at-age-32-of-pneumonia-and-iron-deficiency.md)
 ## [Previous Day...](/news/2009/12/19/index.md)

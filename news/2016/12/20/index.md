@@ -31,7 +31,7 @@ Christmas travel plans look set to be thrown into chaos, with 90mph winds threat
 A cargo plane crashes shortly after take-off from the southern Colombian city of Puerto Carreno, reportedly killing five and injuring one crew member.
 
 ### [The People's Republic of China returns a United States unmanned underwater drone that it seized in the South China Sea last week. ](/news/2016/12/20/the-people-s-republic-of-china-returns-a-united-states-unmanned-underwater-drone-that-it-seized-in-the-south-china-sea-last-week.md)
-_Context: China-United States relations, Chinese, South China Sea, United States_
+_Context: China-United States relations, Chinese, South China Sea, U.S._
 
 ### [Indonesia arrests hundreds  of protesters in Indonesian Papua. ](/news/2016/12/20/indonesia-arrests-hundreds-of-protesters-in-indonesian-papua.md)
 _Context: Indonesia, Indonesian Papua_

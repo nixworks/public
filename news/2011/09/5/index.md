@@ -31,7 +31,7 @@ No longer a hurricane, Lee continued to drench the South and fuel wildfires in T
 _Context: North Korea, South Korea_
 
 ### [The trial of former French President Jacques Chirac on embezzlement charges begins in Paris. ](/news/2011/09/5/the-trial-of-former-french-president-jacques-chirac-on-embezzlement-charges-begins-in-paris.md)
-_Context: Frenchman, Jacques Chirac, Paris, President of France, embezzlement_
+_Context: French-born, Jacques Chirac, Paris, President of France, embezzlement_
 
 ### [Turkish hackers gain access to the websites of several companies, including Vodafone, the ''Daily Telegraph'' and UPS, redirecting visitors to a site set up by the group. ](/news/2011/09/5/turkish-hackers-gain-access-to-the-websites-of-several-companies-including-vodafone-the-daily-telegraph-and-ups-redirecting-visitors.md)
 Turkish hackers managed to re-direct visitors away from high-profile sites, including Vodafone and the Daily Telegraph.

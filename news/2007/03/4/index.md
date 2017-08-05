@@ -4,7 +4,7 @@
 _Context: Andrus Ansip, Estonian parliamentary election, 2007, Internet, Reform Party, Riigikogu, electronic voting_
 
 ### [ Abkhazian parliamentary election, 2007: Separatists in the breakaway Georgian republic of Abkhazia hold elections. The Government of Georgia claims that the elections are not legitimate. ](/news/2007/03/4/abkhazian-parliamentary-election-2007-separatists-in-the-breakaway-georgian-republic-of-abkhazia-hold-elections-the-government-of-georgi.md)
-_Context: Abkhazia, Abkhazian parliamentary election, 2007, Georgia, government_
+_Context: Abkhazia, Abkhazian parliamentary election, 2007, Georgian, government_
 
 ### [ Sunil Kumar Mahato, an Indian member of parliament from the Jharkhand Mukti Morcha, is killed by suspected Maoist rebels while watching football in Jharkhand. ](/news/2007/03/4/sunil-kumar-mahato-an-indian-member-of-parliament-from-the-jharkhand-mukti-morcha-is-killed-by-suspected-maoist-rebels-while-watching-foo.md)
 _Context: India, Jharkhand, Jharkhand Mukti Morcha, Lok Sabha, Naxalite, Sunil Kumar Mahato, soccer_

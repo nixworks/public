@@ -1,7 +1,7 @@
 ## [2007-09-28](/news/2007/09/28/index.md)
 
 ### [ Supporters of the opposition gather in Georgia's capital, Tbilisi, to protest against the government in the largest such rally in the country since 2003. ](/news/2007/09/28/supporters-of-the-opposition-gather-in-georgia-s-capital-tbilisi-to-protest-against-the-government-in-the-largest-such-rally-in-the-count.md)
-_Context: 2003, Georgia, Tbilisi, protest against the government_
+_Context: 2003, Georgian, Tbilisi, protest against the government_
 
 ### [ ''Lehendakari'' Juan Jos Ibarretxe announces a referendum on the future of the Basque Country for 25 October 2008. ](/news/2007/09/28/lehendakari-juan-jose-ibarretxe-announces-a-referendum-on-the-future-of-the-basque-country-for-25-october-2008.md)
 _Context: 2008, 25 October, Basque, Juan Jos Ibarretxe, Lehendakari, planned referendum_

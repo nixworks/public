@@ -10,7 +10,7 @@ _Context: Fujian, Jinjiang, Taiwan, Typhoon Bilis, Typhoon Kaemi, Zhejiang_
 _Context: B'Tselem, Beit Hanoun, Gaza Strip, Human rights, Israel, Israeli-Palestinian conflict, Operation Summer Rains, Palestinian, human shields_
 
 ### [ 2006 Kodori Gorge clashes: Georgia sends a military force to the Kodori Valley in the breakaway Abkhazia region, prompting a warning from Russia. ](/news/2006/07/25/2006-kodori-gorge-clashes-georgia-sends-a-military-force-to-the-kodori-valley-in-the-breakaway-abkhazia-region-prompting-a-warning-from-r.md)
-_Context: 2006 Kodori Gorge clashes, Abkhazia, Georgia, Kodori Valley, Russia_
+_Context: 2006 Kodori Gorge clashes, Abkhazia, Georgian, Kodori Valley, Russia_
 
 ### [ 2006 Israel-Lebanon conflict: Israeli army radio reports that Israeli Army chief of staff Dan Halutz has ordered the air force to destroy 10 multi-story buildings in the Dahiya district (of Beirut) in response to every rocket fired on Haifa. As of Sunday the ratio of reported deaths was more than 17:1. ](/news/2006/07/25/2006-israel-lebanon-conflict-p-israeli-army-radio-reports-that-israeli-army-chief-of-staff-dan-halutz-has-ordered-the-air-force-to-destroy.md)
 As the war between Israel and Hezbollah continued, four unarmed U.N. observers were killed when an Israeli airstrike hit their observation post near the Israeli border.

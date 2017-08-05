@@ -25,7 +25,7 @@ _Context: detention camps, lawyer, terrorism_
 _Context: Darfur, Sudan, United Nations, genocide, torture, war crimes_
 
 ### [ At least three people are known to have died following a bomb blast in Gori, northern Georgia. ](/news/2005/02/1/at-least-three-people-are-known-to-have-died-following-a-bomb-blast-in-gori-northern-georgia.md)
-_Context: Georgia, Gori_
+_Context: Georgian, Gori_
 
 ### [ King Gyanendra of Nepal sacks the government of Sher Bahadur Deuba and takes direct power for himself. ](/news/2005/02/1/king-gyanendra-of-nepal-sacks-the-government-of-sher-bahadur-deuba-and-takes-direct-power-for-himself.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

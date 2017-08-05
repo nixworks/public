@@ -1,7 +1,7 @@
 ## [2017-02-22](/news/2017/02/22/index.md)
 
 ### [U.S.-backed SDF forces on two fronts meet up northeast of Raqqa, encircling a pocket of villages still held by ISIS. ](/news/2017/02/22/u-s-backed-sdf-forces-on-two-fronts-meet-up-northeast-of-raqqa-encircling-a-pocket-of-villages-still-held-by-isis.md)
-_Context: ISIS, Raqqa, Raqqa offensive, Syrian Democratic Forces, United States_
+_Context: ISIS, Raqqa, Raqqa offensive, Syrian Democratic Forces, U.S._
 
 ### [A Houthi missile attack on a Yemeni military camp near the port city of Mocha  kills Major General Ahmed Saif al-Yafei, Yemen's deputy chief of staff, and several others. ](/news/2017/02/22/a-houthi-missile-attack-on-a-yemeni-military-camp-near-the-port-city-of-mocha-kills-major-general-ahmed-saif-al-yafei-yemen-s-deputy-chief.md)
 _Context: Houthi, Mocha, Yemen's, Yemeni conflict, Yemeni soldiers_

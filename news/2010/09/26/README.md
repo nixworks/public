@@ -31,7 +31,7 @@ _Context: Sana'a, Yemen's, al-Qaeda, policemen_
 The Pentagon has admitted buying up and destroying 10,000 copies of an insider&#039;s account of life in Afghanistan by an army intelligence officer.
 
 ### [Georgia replaces the Russian language with the English language as its second language. ](/news/2010/09/26/georgia-replaces-the-russian-language-with-the-english-language-as-its-second-language.md)
-_Context: English, Georgia, Russian language_
+_Context: English, Georgian, Russian language_
 
 ### [The Peter Mullan film ''Neds'' wins two major honours at the San Sebastian International Film Festival. ](/news/2010/09/26/the-peter-mullan-film-neds-wins-two-major-honours-at-the-san-sebastia-n-international-film-festival.md)
 _Context: Peter Mullan, San Sebastian International Film Festival_

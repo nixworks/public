@@ -37,7 +37,7 @@ Police in the western Indian city of Thane arrest more than 750 people suspected
 WILLEMSTAD – The Supreme Electoral Council (SEC) held its first briefing today at 12 o’clock. According to Pacheco Römer, chairman of the SEC, up until that moment, 21,571 people voted which represents about 20% of the total voters on the island. “This is a good sign because normally this is 12 to 15%,” said Römer during&hellip;
 
 ### [Frenchman Jean-Pierre Sauvage, Scotsman Sir Fraser Stoddart, and Dutchman Ben Feringa win the Nobel Prize in Chemistry for their research into nanotechnology. ](/news/2016/10/5/frenchman-jean-pierre-sauvage-scotsman-sir-fraser-stoddart-and-dutchman-ben-feringa-win-the-nobel-prize-in-chemistry-for-their-research-in.md)
-_Context: Ben Feringa, Dutch, Fraser Stoddart, Frenchman, Jean-Pierre Sauvage, Nobel Prize in Chemistry, Scotsman, nanotechnology_
+_Context: Ben Feringa, Dutch, Fraser Stoddart, French-born, Jean-Pierre Sauvage, Nobel Prize in Chemistry, Scotsman, nanotechnology_
 
 ### [Aerospace manufacturer Blue Origin tests its New Shepard reusable launch system in Van Horn, Texas. ](/news/2016/10/5/aerospace-manufacturer-blue-origin-tests-its-new-shepard-reusable-launch-system-in-van-horn-texas.md)
 Amazon boss Jeff Bezos has furthered his ambition to launch people into space by practising a critical safety manoeuvre on his New Shepard vehicle.

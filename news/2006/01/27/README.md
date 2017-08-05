@@ -13,7 +13,7 @@ _Context: Banda Sea, Indonesia, earthquake_
 _Context: Mozart, anniversary, birthday, world_
 
 ### [ President Mikhail Saakashvili of Georgia pledges to end his country's energy crisis by importing Iranian natural gas. Starting Monday, Georgia will import 2 million m<sup>3</sup> of gas a day at $120/m<sup>3</sup>, $10 more than for Russian gas. Georgia's supply of Russian gas has been interrupted since Sunday due to pipeline explosions. Saakashvili has accused Moscow of sabotage for political gain. ](/news/2006/01/27/president-mikhail-saakashvili-of-georgia-pledges-to-end-his-country-s-energy-crisis-by-importing-iranian-natural-gas-starting-monday-geor.md)
-_Context: Georgia, Iran, Mikhail Saakashvili, Moscow, President of Georgia, natural gas, pipeline explosions_
+_Context: Georgian, Iran, Mikhail Saakashvili, Moscow, President of Georgia, natural gas, pipeline explosions_
 
 ## [Previous Day...](/news/2006/01/26/index.md)
 

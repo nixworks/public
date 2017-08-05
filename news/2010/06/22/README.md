@@ -49,7 +49,7 @@ _Context: Martin Leach-Cross Feldman, United States federal judge, injunction, m
 _Context: George Osborne, emergency budget statement_
 
 ### [Nikki Haley wins the Republican Party primary to be the Republican candidate in the South Carolina gubernatorial election in the United States. ](/news/2010/06/22/nikki-haley-wins-the-republican-party-primary-to-be-the-republican-candidate-in-the-south-carolina-gubernatorial-election-in-the-united-stat.md)
-_Context: Nikki Haley, Republican, South Carolina, United States, gubernatorial election, primary election_
+_Context: Nikki Haley, Republican, South Carolina, U.S., gubernatorial election, primary election_
 
 ### [One person is killed and 10 injured after a former worker at a Mazda factory in Japan drives his car at colleagues. ](/news/2010/06/22/one-person-is-killed-and-10-injured-after-a-former-worker-at-a-mazda-factory-in-japan-drives-his-car-at-colleagues.md)
 A former employee &quot;with a grudge&quot; crashes into workers at a Mazda plant in southern Japan, killing one and injuring 10.

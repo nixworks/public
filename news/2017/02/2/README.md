@@ -1,7 +1,7 @@
 ## [2017-02-2](/news/2017/02/2/index.md)
 
 ### [The European Parliament unanimously approves visa-free regime in the Schengen zone for Georgia. ](/news/2017/02/2/the-european-parliament-unanimously-approves-visa-free-regime-in-the-schengen-zone-for-georgia.md)
-_Context: European Parliament, Georgia, Georgia-European Union relations, Schengen zone_
+_Context: European Parliament, Georgia-European Union relations, Georgian, Schengen zone_
 
 ### [The United States Department of the Treasury eases some sanctions on the Federal Security Service (FSB), allowing for limited transactions with the intelligence agency. The sanctions were put in place last year by Barack Obama over alleged Russian interference in the 2016 U.S. election. ](/news/2017/02/2/the-united-states-department-of-the-treasury-eases-some-sanctions-on-the-federal-security-service-fsb-allowing-for-limited-transactions-w.md)
 The U.S. Treasury Department on Thursday adjusted sanctions on Russian intelligence agency FSB, making limited exceptions to the measures put in place by former President Barack Obama over accusations Moscow tried to influence the 2016 U.S. presidential election with cyber attacks on political organizations.

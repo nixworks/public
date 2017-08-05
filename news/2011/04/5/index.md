@@ -28,7 +28,7 @@ _Context: Bangladesh, Muhammad Yunus_
 A tanker is believed to have docked in rebel-held eastern Libya to begin the first export of oil for almost three weeks, as new air strikes hit government forces.
 
 ### [The United States Federal Trade Commission considers taking antitrust action against Google. ](/news/2011/04/5/the-united-states-federal-trade-commission-considers-taking-antitrust-action-against-google.md)
-_Context: Google, U.S. Federal Trade Commission, United States, antitrust_
+_Context: Google, U.S., U.S. Federal Trade Commission, antitrust_
 
 ### [Wayne Swan, the Treasurer of Australia, advises that he is inclined to reject a proposed merger of the Australian Stock Exchange and the Singapore Stock Exchange. ](/news/2011/04/5/wayne-swan-the-treasurer-of-australia-advises-that-he-is-inclined-to-reject-a-proposed-merger-of-the-australian-stock-exchange-and-the-sin.md)
 _Context: Australian Stock Exchange, Singapore Stock Exchange, Treasurer of Australia, Wayne Swan_

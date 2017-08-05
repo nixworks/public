@@ -13,7 +13,7 @@ _Context: Ban Ki-moon, Cyclone Nargis, Myanmar, Secretary General, State Peace a
 Around 20,000 rail passengers were affected by today&#39;s industrial action, according to Iarnród Éireann.
 
 ### [ Hu Jintao, the President of China, and the President of Russia Dmitry Medvedev condemn the United States' National missile defense system. ](/news/2008/05/23/hu-jintao-the-president-of-china-and-the-president-of-russia-dmitry-medvedev-condemn-the-united-states-national-missile-defense-system.md)
-_Context: Chinese President, Dmitry Medvedev, Hu Jintao, Russian President Vladimir Putin, United States, missile interceptor_
+_Context: Chinese President, Dmitry Medvedev, Hu Jintao, Russian President Vladimir Putin, U.S., missile interceptor_
 
 ### [ The International Court of Justice awards sovereignty of Pedra Branca to Singapore, ending a 28-year dispute over the islet between Singapore and Malaysia. Malaysia was awarded sovereignty of an outcropping of Pedra Branca, Middle Rocks, while the sovereignty of South Ledge was left to be determined by the maritime boundary between the two nations, which is also a contentious point. ](/news/2008/05/23/the-international-court-of-justice-awards-sovereignty-of-pedra-branca-to-singapore-ending-a-28-year-dispute-over-the-islet-between-singapo.md)
 _Context: International Court of Justice, Malaysia, Middle Rocks, Pedra Branca, Singapore, South Ledge_

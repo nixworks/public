@@ -43,7 +43,7 @@ _Context: Mexico, Santiago de Queretaro_
 _Context: U.S. government, ban on ballistic missile tests, nuclear scientist_
 
 ### [Rwandan opposition parties appeal to the United States and the UN Security Council to intervene on behalf of the opposition FDU party leader, Victoire Ingabire Umuhoza, arrested last week, and other political prisoners. ](/news/2010/10/18/rwandan-opposition-parties-appeal-to-the-united-states-and-the-un-security-council-to-intervene-on-behalf-of-the-opposition-fdu-party-leader.md)
-_Context: Rwanda, UN Security Council, United States, Victoire Ingabire_
+_Context: Rwanda, U.S., UN Security Council, Victoire Ingabire_
 
 ### [Fears mount that the Ugandan rebel group, the Lord's Resistance Army, which has ties to the Sudanese government, is poised to destabilize South Sudan as it prepares for a referendum on independence. ](/news/2010/10/18/fears-mount-that-the-ugandan-rebel-group-the-lord-s-resistance-army-which-has-ties-to-the-sudanese-government-is-poised-to-destabilize-so.md)
 _Context: Lord's Resistance Army, Southern Sudan, Southern Sudanese Independence Referendum, Sudanese cabinet, Uganda_

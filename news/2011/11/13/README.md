@@ -31,7 +31,7 @@ Portland Police arrested more than 50 people on Sunday as the authorities cleare
 PM supports legislation which passes with majority of 11 to 5; new law bans foreign donations from exceeding NIS 20,000.
 
 ### [Voters in South Ossetia, a breakaway region of Georgia, go to the polls for a presidential election and a referendum. ](/news/2011/11/13/voters-in-south-ossetia-a-breakaway-region-of-georgia-go-to-the-polls-for-a-presidential-election-and-a-referendum.md)
-_Context: Georgia, South Ossetia, presidential election, referendum_
+_Context: Georgian, South Ossetia, presidential election, referendum_
 
 ### [The President of Italy Giorgio Napolitano nominates Mario Monti to be the new Prime Minister. ](/news/2011/11/13/the-president-of-italy-giorgio-napolitano-nominates-mario-monti-to-be-the-new-prime-minister.md)
 Mario Monti, the economist and former European Union commissioner, was tapped to implement needed reforms as Prime Minister. 

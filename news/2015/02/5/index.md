@@ -7,7 +7,7 @@ The United Arab Emirates stops combat missions over Syria because the U.S. wasn&
 _Context: Paul Gauguin, Qatar, United States dollars, When Will You Marry?_
 
 ### [American pharmaceutical company Pfizer announces plans to acquire Hospira at a cost of $17 billion. ](/news/2015/02/5/american-pharmaceutical-company-pfizer-announces-plans-to-acquire-hospira-at-a-cost-of-17-billion.md)
-_Context: Hospira, Pfizer, Pharmaceutical, United States dollars_
+_Context: Hospira, Pfizer, United States dollars, pharmaceutical_
 
 ### [American electronics retailer RadioShack files for Chapter 11 bankruptcy. ](/news/2015/02/5/american-electronics-retailer-radioshack-files-for-chapter-11-bankruptcy.md)
 RadioShack filed its long-awaited bankruptcy papers Thursday evening.

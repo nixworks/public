@@ -1,7 +1,7 @@
 ## [2010-02-20](/news/2010/02/20/index.md)
 
 ### [Olympic luger Nodar Kumaritashvili is buried in Bakuriani, Georgia. ](/news/2010/02/20/olympic-luger-nodar-kumaritashvili-is-buried-in-bakuriani-georgia.md)
-_Context: Bakuriani, Georgia, Nodar Kumaritashvili_
+_Context: Bakuriani, Georgian, Nodar Kumaritashvili_
 
 ### [2010 Nigerien coup d'etat:The African Union (AU) suspends Niger following this week's coup d'etat. ](/news/2010/02/20/2010-nigerien-coup-d-a-c-tat-pthe-african-union-au-suspends-niger-following-this-week-s-coup-d-a-c-tat.md)
 Capital calm as international bodies urge military leadership to restore democracy.

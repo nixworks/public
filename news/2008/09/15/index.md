@@ -13,7 +13,7 @@ Hewlett-Packard Co plans to cut 7.5 percent of its work force, or 24,600 jobs, s
 _Context: US and Pakistan_
 
 ### [ Jaap de Hoop Scheffer, the Secretary General of NATO, visits Georgia in a show of support. ](/news/2008/09/15/jaap-de-hoop-scheffer-the-secretary-general-of-nato-visits-georgia-in-a-show-of-support.md)
-_Context: Georgia, Jaap de Hoop Scheffer, Secretary General of NATO_
+_Context: Georgian, Jaap de Hoop Scheffer, Secretary General of NATO_
 
 ### [ Richard Wright, a founding member of the English rock group Pink Floyd, dies at the age of 65 after a long battle with cancer. ](/news/2008/09/15/richard-wright-a-founding-member-of-the-english-rock-group-pink-floyd-dies-at-the-age-of-65-after-a-long-battle-with-cancer.md)
 _Context: Pink Floyd, Richard Wright, cancer_

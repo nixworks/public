@@ -43,13 +43,13 @@ _Context: Mohamed Nasheed, Mohammed Waheed Hassan, President, national unity gov
 _Context: Bharatiya Janata Party, C C Patil, India, J. Krishna Palemar, Karnataka, Laxman Savadi, Legislative Assembly_
 
 ### [The Washington State Legislature in the United States approves a bill that will allow same-sex marriage in the state. ](/news/2012/02/8/the-washington-state-legislature-in-the-united-states-approves-a-bill-that-will-allow-same-sex-marriage-in-the-state.md)
-_Context: United States, Washington State Legislature, same-sex marriage_
+_Context: U.S., Washington State Legislature, same-sex marriage_
 
 ### [Wang Lijun, former police chief of the central Chinese city of Chongqing, unexpectedly leaves his position and goes to the Chongqing U.S. Consulate, sparking rumours of his political downfall. ](/news/2012/02/8/wang-lijun-former-police-chief-of-the-central-chinese-city-of-chongqing-unexpectedly-leaves-his-position-and-goes-to-the-chongqing-u-s-co.md)
 A top Chinese policeman in charge of a major crackdown on organised crime goes on leave, amid rumours of an investigation and a bid for asylum.
 
 ### [Three investigating judges from the Cour de Justice de la Rpublique file preliminary charges against former French Minister of Labor, Solidarity and Public service ric Woerth over "passive influence peddling" in relation to the affairs of L'Oreal heiress Liliane Bettencourt. ](/news/2012/02/8/three-investigating-judges-from-the-cour-de-justice-de-la-republique-file-preliminary-charges-against-former-french-minister-of-labor-solid.md)
-_Context: Cour de Justice de la Rpublique, Frenchman, L'Oral, Liliane Bettencourt, ric Woerth_
+_Context: Cour de Justice de la Rpublique, French-born, L'Oral, Liliane Bettencourt, ric Woerth_
 
 ### [In Charlottesville, Virginia, U.S., the prosecution and defense both make their opening statements in the trial of former University of Virginia men's lacrosse player George Huguely on murder charges in the 2010 death of former UVA women's lacrosse player Yeardley Love. ](/news/2012/02/8/in-charlottesville-virginia-u-s-the-prosecution-and-defense-both-make-their-opening-statements-in-the-trial-of-former-university-of-virg.md)
 A former University of Virginia lacrosse player and the ex-girlfriend he is accused of killing traded allegations of infidelity and angry emails in the months before her death, with one of his messages saying: &quot;I should have killed you,&quot; prosecutors said

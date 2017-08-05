@@ -25,7 +25,7 @@ _Context: Cte d'Ivoire, civil war_
 _Context: 1983, Senegal, amnesty_
 
 ### [ In Abkhazia, breakway province of Georgia, government re-runs disputed presidential election of last October. Sergei Bagapsh and Raul Khadzhimba run as a team. Most countries do not recognize Abkhazian independence. ](/news/2005/01/12/in-abkhazia-breakway-province-of-georgia-government-re-runs-disputed-presidential-election-of-last-october-sergei-bagapsh-and-raul-khadz.md)
-_Context: Abkhazia, Georgia, Raul Khadzhimba, Sergei Bagapsh, independent_
+_Context: Abkhazia, Georgian, Raul Khadzhimba, Sergei Bagapsh, independent_
 
 ### [ In the US, Lithuanian-born Vladas Zajanckauskas is charged with killing Jews in the Warsaw Ghetto during World War II. If sentenced, he may lose his US citizenship ](/news/2005/01/12/in-the-us-lithuanian-born-vladas-zajanckauskas-is-charged-with-killing-jews-in-the-warsaw-ghetto-during-world-war-ii-if-sentenced-he-may.md)
 _Context: Lithuania, Vladas Zajanckauskas, Warsaw Ghetto, World War II, citizenship_

@@ -19,7 +19,7 @@ TV personality Kazuyoshi Morita, better known as Tamori, signed off from his noo
 The International Court of Justice rules Japan must immediately stop its whaling program in the Antarctic.
 
 ### [Tuvalu withdraws its recognition of Abkhazia and South Ossetia after re-establishing diplomatic relations with Georgia. ](/news/2014/03/31/tuvalu-withdraws-its-recognition-of-abkhazia-and-south-ossetia-after-re-establishing-diplomatic-relations-with-georgia.md)
-_Context: Abkhazia, Georgia, South Ossetia, Tuvalu, recognition_
+_Context: Abkhazia, Georgian, South Ossetia, Tuvalu, recognition_
 
 ### [A Pakistani court charges former President Pervez Musharraf with high treason in relation to the imposition of the emergency rule in 2007. ](/news/2014/03/31/a-pakistani-court-charges-former-president-pervez-musharraf-with-high-treason-in-relation-to-the-imposition-of-the-emergency-rule-in-2007.md)
 _Context: Pakistan, Pervez Musharraf, President, emergency rule, high treason_

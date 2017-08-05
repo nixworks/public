@@ -7,10 +7,10 @@ _Context: 2008 Toronto explosions, Canada, Downsview, Highway 401, Toronto, prop
 _Context: Andhra Pradesh, Hyderabad, India, flood, monsoon_
 
 ### [ 2008 South Ossetian War: Georgian troops are forced to withdraw from Tskhinvali, the capital of South Ossetia by Russian army. ](/news/2008/08/10/2008-south-ossetian-war-p-georgian-troops-are-forced-to-withdraw-from-tskhinvali-the-capital-of-south-ossetia-by-russian-army.md)
-_Context: 2008 South Ossetian war, Georgia, Russia, South Ossetia, Tskhinvali_
+_Context: 2008 South Ossetian war, Georgian, Russia, South Ossetia, Tskhinvali_
 
 ### [ 2008 Summer Olympics: Swimmer Michael Phelps of the United States wins a gold medal in the 400 metre individual medley setting a new world record. ](/news/2008/08/10/2008-summer-olympics-p-swimmer-michael-phelps-of-the-united-states-wins-a-gold-medal-in-the-400-metre-individual-medley-setting-a-new-world.md)
-_Context: Beijing Olympiad, Michael Phelps, Swimmer, United States, world record_
+_Context: Beijing Olympiad, Michael Phelps, Swimmer, U.S., world record_
 
 ### [ A number of blasts in China's western Xinjiang province kill at least two people. ](/news/2008/08/10/a-number-of-blasts-in-china-s-western-xinjiang-province-kill-at-least-two-people.md)
 _Context: A number of blasts, Chinese, Xinjiang_

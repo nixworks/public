@@ -16,7 +16,7 @@ More than 50 people have been killed and dozens more injured in a prison riot in
 Iraq9 are killed as protesters, army clash
 
 ### [The U.S. writer Stephen King issues a 25-page essay calling for gun control after numerous mass shootings. ](/news/2013/01/25/the-u-s-writer-stephen-king-issues-a-25-page-essay-calling-for-gun-control-after-numerous-mass-shootings.md)
-_Context: Stephen King, United States, essay, gun control, mass shooting_
+_Context: Stephen King, U.S., essay, gun control, mass shooting_
 
 ### [Tropical cyclone Oswald makes landfall in Queensland, Australia, and causes widespread flooding. ](/news/2013/01/25/tropical-cyclone-oswald-makes-landfall-in-queensland-australia-and-causes-widespread-flooding.md)
 Torrential rain has caused widespread flooding in the Australian state of Queensland.

@@ -10,7 +10,7 @@ _Context: Afghan Army, Oruzgan, War in Afghanistan (2001-present), soldiers_
 Taliban militants attacked an army post near the Afghan border in Pakistan&#x27;s northwest, killing nine soldiers, a military official said Wednesday.
 
 ### [Georgian forces free 10 hostages held by militants from Russia's North Caucasian republic of Dagestan. Three Georgian police officers and 11 militants die in a clash. ](/news/2012/08/29/georgian-forces-free-10-hostages-held-by-militants-from-russia-s-north-caucasian-republic-of-dagestan-three-georgian-police-officers-and-11.md)
-_Context: Dagestan, Georgia, North Caucasus, Russia_
+_Context: Dagestan, Georgian, North Caucasus, Russia_
 
 ### [With Operation Eagle, its biggest since 1979, the Egyptian Army says it used tanks and helicopters to kill 11 suspected terrorists and arrest 23 others in the Sinai, following the attack that killed 16 border guards. ](/news/2012/08/29/with-operation-eagle-its-biggest-since-1979-the-egyptian-army-says-it-used-tanks-and-helicopters-to-kill-11-suspected-terrorists-and-arres.md)
 _Context: Egyptian Army, Operation Eagle, Sinai, attack_

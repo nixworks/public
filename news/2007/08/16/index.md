@@ -4,7 +4,7 @@
 Three rescue workers are dead and six others were injured during an attempt to reach six men trapped at Crandall Canyon Mine, officials said.
 
 ### [ The leaders of Russia, China and Iran use the forum of the Shanghai Cooperation Organisation to warn the United States not to become too heavily involved in Central Asia. ](/news/2007/08/16/the-leaders-of-russia-china-and-iran-use-the-forum-of-the-shanghai-cooperation-organisation-to-warn-the-united-states-not-to-become-too-he.md)
-_Context: Central Asia, Chinese, Iran, Russia, Shanghai Cooperation Organisation, United States_
+_Context: Central Asia, Chinese, Iran, Russia, Shanghai Cooperation Organisation, U.S._
 
 ### [ The British government is preparing to evacuate all Britons from Zimbabwe, about 22,000 people, due to increasing violence and shortage of food. ](/news/2007/08/16/the-british-government-is-preparing-to-evacuate-all-britons-from-zimbabwe-about-22-000-people-due-to-increasing-violence-and-shortage-of.md)
 _Context: British government, Zimbabwe_

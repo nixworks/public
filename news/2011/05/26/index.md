@@ -22,7 +22,7 @@ _Context: North Vietnam, Vietnam, Vietnam War, mass grave_
 _Context: Ethiopia, Ogaden, Somali, United Nations_
 
 ### [Two people are killed in an anti-government demonstration in the Georgian capital Tbilisi. ](/news/2011/05/26/two-people-are-killed-in-an-anti-government-demonstration-in-the-georgian-capital-tbilisi.md)
-_Context: Georgia, Tbilisi_
+_Context: Georgian, Tbilisi_
 
 ### [A series of bombings take place against two government buildings in the city of Fuzhou, Jiangxi, China; at least two people are killed. ](/news/2011/05/26/a-series-of-bombings-take-place-against-two-government-buildings-in-the-city-of-fuzhou-jiangxi-china-at-least-two-people-are-killed.md)
 _Context: Fuzhou, Jiangxi, series of bombings_

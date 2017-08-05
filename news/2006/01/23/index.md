@@ -28,7 +28,7 @@ _Context: Ford Motor Company, factory, job growth_
 _Context: Kenya, Nairobi_
 
 ### [ Azerbaijan has started supplying Russian natural gas to Georgia, the Georgian gas company says, helping compensate for a fuel cutoff caused by explosions in southern Russian pipelines that brought a new energy crisis to the region this weekend. ](/news/2006/01/23/azerbaijan-has-started-supplying-russian-natural-gas-to-georgia-the-georgian-gas-company-says-helping-compensate-for-a-fuel-cutoff-caused.md)
-_Context: Azerbaijan, Georgia, natural gas_
+_Context: Azerbaijan, Georgian, natural gas_
 
 ### [ The U.S. Supreme Court rejects an appeal from Research In Motion Ltd. which had asked it to reverse a lower-court ruling that found its BlackBerry wireless email device in violation of patents held by NTP, Inc., a Virginia patent-holding firm. The case now moves to a federal district court in Virginia, which will decide whether to reinstate an injunction against the U.S. sale of the popular BlackBerrys. ](/news/2006/01/23/the-u-s-supreme-court-rejects-an-appeal-from-research-in-motion-ltd-which-had-asked-it-to-reverse-a-lower-court-ruling-that-found-its-bla.md)
 _Context: BlackBerry, NTP Inc., Research in Motion, U.S. Supreme Court, federal district court_

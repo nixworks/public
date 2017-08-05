@@ -31,13 +31,13 @@ _Context: Iraq, Jordan, government school, refugee_
 Israel has plunged into a bitter debate over the source of authority for many of its soldiers after a group of troops refused orders to evacuate hardline Jewish settlers in the occupied West Bank.
 
 ### [ Juan Carlos Ramirez-Abadia, Colombian cocaine trafficker boss of the Norte del Valle Cartel is apprehended in Brazil and faces extradition to the United States. The US Government had offered a reward of US$5 million dollars. ](/news/2007/08/7/juan-carlos-ramirez-abadia-colombian-cocaine-trafficker-boss-of-the-norte-del-valle-cartel-is-apprehended-in-brazil-and-faces-extradition.md)
-_Context: Brazil, Colombian, Juan Carlos Ramirez-Abadia, Norte del Valle cartel, United States, cocaine_
+_Context: Brazil, Colombian, Juan Carlos Ramirez-Abadia, Norte del Valle cartel, U.S., cocaine_
 
 ### [ Malaysia bans hiring of foreign security guards following rape and murder of a student by a Pakistani security guard recently. ](/news/2007/08/7/malaysia-bans-hiring-of-foreign-security-guards-following-rape-and-murder-of-a-student-by-a-pakistani-security-guard-recently.md)
 _Context: Malaysia, Pakistan, security guard_
 
 ### [ Georgian-Russian relations: Two Russian aircraft allegedly violate Georgia's airspace with one firing an air-to-surface guided rocket onto Georgian territory. The rocket did not explode and the Russian government denies the incident took place. ](/news/2007/08/7/georgian-russian-relations-two-russian-aircraft-allegedly-violate-georgia-s-airspace-with-one-firing-an-air-to-surface-guided-rocket-onto.md)
-_Context: Georgia, Georgian-Russian relations, Russia, Two Russian aircraft allegedly violate Georgia's airspace_
+_Context: Georgian, Georgian-Russian relations, Russia, Two Russian aircraft allegedly violate Georgia's airspace_
 
 ### [ Tests confirm a second outbreak of foot and mouth disease in Surrey, England. Inspectors think that there is a "strong probability" that the disease came from a research site at Pirbright shared by Merial, a vaccine company and the Institute for Animal Health. ](/news/2007/08/7/tests-confirm-a-second-outbreak-of-foot-and-mouth-disease-in-surrey-england-inspectors-think-that-there-is-a-strong-probability-that-th.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

@@ -10,7 +10,7 @@ Three Turkish soldiers are killed by gunfire in the town of Ceylanpinar on the b
 _Context: Bukidnon, Philippines_
 
 ### [Al Qaeda in the Islamic Maghreb release Serge Lazarevic, a French hostage seized three years ago in Mali. ](/news/2014/12/9/al-qaeda-in-the-islamic-maghreb-release-serge-lazarevic-a-french-hostage-seized-three-years-ago-in-mali.md)
-_Context: Frenchman, Mali, al-Qaeda_
+_Context: French-born, Mali, al-Qaeda_
 
 ### [A court in Lismore, Australia, convicts the former National Rugby League player Craig Field of the manslaughter of Kelvin Kane outside the Kingscliff Hotel in 2012. ](/news/2014/12/9/a-court-in-lismore-australia-convicts-the-former-national-rugby-league-player-craig-field-of-the-manslaughter-of-kelvin-kane-outside-the-k.md)
 Former rugby league star Craig Field is found guilty of killing a man outside a hotel in northern New South Wales in 2012.

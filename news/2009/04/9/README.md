@@ -22,10 +22,10 @@ _Context: Harry Potter, J. K. Rowling, Multiple Sclerosis Society, Scotland, aut
 _Context: 2010 FIFA World Cup, Belfast, Northern Ireland, foreign national, qualifying matches, riot_
 
 ### [ Demonstrators assemble in Tbilisi, Georgia, to demand the resignation of President Mikheil Saakashvili. ](/news/2009/04/9/demonstrators-assemble-in-tbilisi-georgia-to-demand-the-resignation-of-president-mikheil-saakashvili.md)
-_Context: Georgia, President of Georgia, Saakashvili, Tbilisi, demonstration_
+_Context: Georgian, President of Georgia, Saakashvili, Tbilisi, demonstration_
 
 ### [ The U.S. Central Intelligence Agency allegedly decommissions its black sites worldwide. ](/news/2009/04/9/the-u-s-central-intelligence-agency-allegedly-decommissions-its-black-sites-worldwide.md)
-_Context: CIA, United States, black site_
+_Context: CIA, U.S., black site_
 
 ### [ Bishop Harold Miller of the Church of Ireland advises a boycott of television on Good Friday. ](/news/2009/04/9/bishop-harold-miller-of-the-church-of-ireland-advises-a-boycott-of-television-on-good-friday.md)
 _Context: Bishop, Church of Ireland, Good Friday, Harold Miller, boycott, television_

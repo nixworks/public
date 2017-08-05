@@ -61,7 +61,7 @@ _Context: Union Solidarity and Development Party, general elections_
 David Cameron&#039;s visit to China has been overshadowed by human rights concerns after Chinese security forces barred the lawyer of Liu Xiaobo, the Chinese Nobel Peace prize winner, from leaving the country.
 
 ### [Construction of a factory for the first fleet of commercial spaceships begins  at the Mojave Air and Space Port in the United States. ](/news/2010/11/9/construction-of-a-factory-for-the-first-fleet-of-commercial-spaceships-begins-at-the-mojave-air-and-space-port-in-the-united-states.md)
-_Context: Mojave Air and Space Port, SpaceShipTwo, United States_
+_Context: Mojave Air and Space Port, SpaceShipTwo, U.S._
 
 ## [Previous Day...](/news/2010/11/8/index.md)
 

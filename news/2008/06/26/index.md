@@ -7,7 +7,7 @@ Internet regulators on Thursday voted to relax rules on domain names like .com o
 _Context: Afghanistan's, Pakistan, Taliban_
 
 ### [ North Korea releases details of its nuclear program and the United States removes it from its list of state sponsors of terrorism. ](/news/2008/06/26/north-korea-releases-details-of-its-nuclear-program-and-the-united-states-removes-it-from-its-list-of-state-sponsors-of-terrorism.md)
-_Context: North Korea, United States, begins, terrorism_
+_Context: North Korea, U.S., begins, terrorism_
 
 ### [ The Austrian SPO states that in the future, it wants to hold referendums on EU treaties. ](/news/2008/06/26/the-austrian-spa-states-that-in-the-future-it-wants-to-hold-referendums-on-eu-treaties.md)
 _Context: Austria, EU treaties, health spa_

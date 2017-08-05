@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [USAID  announces the Trump administration is dedicating  $169 million to feed people facing starvation in Ethiopia and Kenya, adding to earlier assistance for those suffering from drought and conflict in the region. ](/news/2017/08/3/usaid-announces-the-trump-administration-is-dedicating-169-million-to-feed-people-facing-starvation-in-ethiopia-and-kenya-adding-to-earl.md) _Context: Ethiopia_
+1. [USAID announces the Trump administration dedicated $169 million to feed people facing starvation in Ethiopia and Kenya, adding to earlier assistance for those suffering from drought and conflict in the region. ](/news/2017/08/3/usaid-announces-the-trump-administration-dedicated-169-million-to-feed-people-facing-starvation-in-ethiopia-and-kenya-adding-to-earlier-as.md) _Context: Ethiopia_
 2. [French ecology minister Nicolas Hulot announces France is to ban the sale of petrol and diesel vehicles by 2040. ](/news/2017/07/6/french-ecology-minister-nicolas-hulot-announces-france-is-to-ban-the-sale-of-petrol-and-diesel-vehicles-by-2040.md) _Context: France_
 3. [France plans to make vaccines mandatory for children in 2018. ](/news/2017/07/5/france-plans-to-make-vaccines-mandatory-for-children-in-2018.md) _Context: France_
 4. [France nationalises the STX Europe-owned Chantiers de l'Atlantique shipyard in Saint-Nazaire, Pays de la Loire, to prevent Italian shipbuilding firm Fincantieri taking majority control. Italian Minister of Economy and Finances Pier Carlo Padoan calls the French decision to nationalise the shipyard "grave and incomprehensible". ](/news/2017/07/27/france-nationalises-the-stx-europe-owned-chantiers-de-l-atlantique-shipyard-in-saint-nazaire-pays-de-la-loire-to-prevent-italian-shipbuild.md) _Context: France_

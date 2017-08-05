@@ -1,7 +1,7 @@
 ## [2009-02-23](/news/2009/02/23/index.md)
 
 ### [ Member of Parliament Peter Archer's report into the United Kingdom's tainted blood scandal chiefly blames United States pharmaceutical companies that provided contaminated blood plasma, thus infecting approximately 5,700 hemophiliacs with HIV or hepatitis C. ](/news/2009/02/23/member-of-parliament-peter-archer-s-report-into-the-united-kingdom-s-tainted-blood-scandal-chiefly-blames-united-states-pharmaceutical-comp.md)
-_Context: HIV, MP, Parliament, Peter Archer, United Kingdom, United States, blood plasma, contaminated, hemophiliacs, hepatitis C, infection, pharmaceutical companies, tainted blood scandal_
+_Context: HIV, MP, Parliament, Peter Archer, U.S., United Kingdom, blood plasma, contaminated, hemophiliacs, hepatitis C, infection, pharmaceutical companies, tainted blood scandal_
 
 ### [ Norway's Royal Navy will resume searching for Antarctic explorer Roald Amundsen's Latham 47 flying boat. ](/news/2009/02/23/norway-s-royal-navy-will-resume-searching-for-antarctic-explorer-roald-amundsen-s-latham-47-flying-boat.md)
 _Context: Antarctica, Latham 47, Norway, Roald Amundsen, Royal Navy, exploration, flying boat_
@@ -25,7 +25,7 @@ Queensland Premier Anna Bligh has called a snap state election for March 21.
 _Context: Benyam Mohammed, Ethiopia, Guantanamo Bay Detention Camp, detainees, military base at Guantanamo Bay, national_
 
 ### [ South Korea's Defense Ministry reports that North Korea has medium-range ballistic missiles capable of striking U.S. military bases. ](/news/2009/02/23/south-korea-s-defense-ministry-reports-that-north-korea-has-medium-range-ballistic-missiles-capable-of-striking-u-s-military-bases.md)
-_Context: Defence Ministry, North Korea, South Korea, United States, United States Armed Forces, ballistic missile, medium-range ballistic missile, military installations_
+_Context: Defence Ministry, North Korea, South Korea, U.S., United States Armed Forces, ballistic missile, medium-range ballistic missile, military installations_
 
 ### [ India approves a 1.7-billion plan to launch its first astronauts into outer space by 2015. ](/news/2009/02/23/india-approves-a-ps1-7-billion-plan-to-launch-its-first-astronauts-into-outer-space-by-2015.md)
 _Context: India, PS, astronaut, plan, space_
