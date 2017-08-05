@@ -1,6 +1,6 @@
 ### [2017-08-5](/news/2017/08/5/index.md)
 
-# Iranian President Hassan Rouhani will take the oath of office to start his new four year term. 
+# Iranian President Hassan Rouhani will take the oath of office to start his new four-year term. 
 
 The swearing-in ceremony for the reelected President Hassan Rouhani, which is due this Saturday...
 
