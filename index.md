@@ -23,15 +23,15 @@ The blaze started soon after midnight and spread across dozens of floors in one 
 ### [Former pharmaceutical company executive Martin Shkreli is convicted of three counts of securities fraud in a federal court in Brooklyn, New York.](/news/2017/08/4/former-pharmaceutical-company-executive-martin-shkreli-is-convicted-of-three-counts-of-securities-fraud-in-a-federal-court-in-brooklyn-new.md)
 A U.S. jury convicted Martin Shkreli, the brash former drug company and hedge fund executive who drew fierce criticism for jacking up drug prices, of securities fraud on Friday in an unrelated case.
 
-### [Voters in Rwanda go to the polls to elect their president. Paul Kagame, incumbent since 2000, referred to the election as a formality, despite challenges from the Democratic Greens' Frank Habineza and independent Philippe Mpayimana. ](/news/2017/08/4/voters-in-rwanda-go-to-the-polls-to-elect-their-president-paul-kagame-incumbent-since-2000-referred-to-the-election-as-a-formality-despi.md)
-_Context: Democratic Greens, Frank Habineza, Paul Kagame, Rwanda, Rwandan presidential election, 2017, president_
+### [Voters in Rwanda go to the polls to elect their president. Paul Kagame, incumbent since 2000, referred to the election as a formality, despite challenges from the Democratic Greens' Frank Habineza and independent Philippe Mpayimana. Kagame is re-elected with 98.66 of the vote. ](/news/2017/08/4/voters-in-rwanda-go-to-the-polls-to-elect-their-president-paul-kagame-incumbent-since-2000-referred-to-the-election-as-a-formality-despi.md)
+Rwandan President Paul Kagame has extended his 17 years in power after winning the presidential election.
 
 ---
 
 ## [Day Before Yesterday](/news/2017/08/3/index.md)
 
-### [ A suicide bomber attacks a NATO convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding six other personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-nato-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-six-oth.md)
-_Context: Afghanistan's, Georgian, Kabul province, NATO, War in Afghanistan (2015-present), suicide bomber_
+### [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md)
+_Context: Afghanistan's, Georgian, Kabul province, Resolute Support, War in Afghanistan (2015-present), suicide bomber_
 
 ### [USAID announces the Trump administration dedicated $169 million to feed people facing starvation in Ethiopia and Kenya, adding to earlier assistance for those suffering from drought and conflict in the region. ](/news/2017/08/3/usaid-announces-the-trump-administration-dedicated-169-million-to-feed-people-facing-starvation-in-ethiopia-and-kenya-adding-to-earlier-as.md)
 The Trump administration gave $169 million to feed people facing starvation in Ethiopia and Kenya, USAID said on Thursday, adding to earlier assistance for those suffering from drought and conflict in four other nations.
