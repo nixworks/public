@@ -1,5 +1,8 @@
 ## [News](/news/2017/08/5/index.md)
 
+### [Searches are underway for three members of the United States Marine Corps missing after a MV-22 Osprey crashed off the coast of the Australian state of Queensland. Twenty three of the twenty six people on board have been rescued. ](/news/2017/08/5/searches-are-underway-for-three-members-of-the-united-states-marine-corps-missing-after-a-mv-22-osprey-crashed-off-the-coast-of-the-australi.md)
+A search and rescue operation is underway for three US Marines who remain missing after an military aircraft ...
+
 ### [Voters in Mauritania participate in a referendum on whether to amend the Constitution of Mauritania, with the abolition of the Senate and addition of red bands to the flag of Mauritania among the most significant proposed changes. The OCHR has criticised Mohamed Ould Abdel Aziz's government for apparent suppression of opposition protests. ](/news/2017/08/5/voters-in-mauritania-participate-in-a-referendum-on-whether-to-amend-the-constitution-of-mauritania-with-the-abolition-of-the-senate-and-ad.md)
 Opposition parties fear changes proposed by President Mohamed Ould Abdel Aziz will result in a slide towards dictatorship. 
 
