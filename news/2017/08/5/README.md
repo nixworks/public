@@ -7,7 +7,7 @@ A search and rescue operation is underway for three US Marines who remain missin
 _Context: North Korea, North Korea and the United Nations, United Nations Security Council, intercontinental ballistic, missile tests_
 
 ### [An improvised explosive device goes off at a mosque in Bloomington, Minnesota. No injuries were reported, and the FBI is investigating the case. ](/news/2017/08/5/an-improvised-explosive-device-goes-off-at-a-mosque-in-bloomington-minnesota-no-injuries-were-reported-and-the-fbi-is-investigating-the-c.md)
-_Context: Bloomington, Minnesota, FBI, improvised explosive device_
+_Context: Bloomington, Minnesota, Crime in Minnesota, FBI, improvised explosive device_
 
 ### [Voters in Mauritania participate in a referendum on whether to amend the Constitution of Mauritania, with the abolition of the Senate and addition of red bands to the flag of Mauritania among the most significant proposed changes. The OCHR has criticised Mohamed Ould Abdel Aziz's government for apparent suppression of opposition protests. ](/news/2017/08/5/voters-in-mauritania-participate-in-a-referendum-on-whether-to-amend-the-constitution-of-mauritania-with-the-abolition-of-the-senate-and-ad.md)
 Opposition parties fear changes proposed by President Mohamed Ould Abdel Aziz will result in a slide towards dictatorship. 

@@ -1,10 +1,10 @@
 ## [News](/news/2017/08/6/index.md)
 
-### [Gunmen kill 8 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-8-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md)
-_Context: Anambra State, Nigeria, Ozubulu_
+### [Gunmen kill eight worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-eight-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md)
+_Context: Anambra State, Boko Haram insurgency, Nigeria, Ozubulu_
 
-### [Israel plans to shut down all of Al-Jazeera's operations in the country, citing the station's support of terrorism. ](/news/2017/08/6/israel-plans-to-shut-down-all-of-al-jazeera-s-operations-in-the-country-citing-the-station-s-support-of-terrorism.md)
-_Context: Al Jazeera controversies and criticism, Al-Jazeera, Israel_
+### [Israel plans to shut down all of Al Jazeera's operations in the country, citing the station's support of terrorism. ](/news/2017/08/6/israel-plans-to-shut-down-all-of-al-jazeera-s-operations-in-the-country-citing-the-station-s-support-of-terrorism.md)
+_Context: Al Jazeera, Al Jazeera controversies and criticism, Israel_
 
 ### [The search for three members of the United States Marines Corps lost in a MV-22 Osprey crash in Shoalwater Bay in the Australian state of Queensland is called off. ](/news/2017/08/6/the-search-for-three-members-of-the-united-states-marines-corps-lost-in-a-mv-22-osprey-crash-in-shoalwater-bay-in-the-australian-state-of-qu.md)
 A search operation for three US marines missing off the Queensland coast has been called off.
@@ -24,7 +24,7 @@ A search and rescue operation is underway for three US Marines who remain missin
 _Context: North Korea, North Korea and the United Nations, United Nations Security Council, intercontinental ballistic, missile tests_
 
 ### [An improvised explosive device goes off at a mosque in Bloomington, Minnesota. No injuries were reported, and the FBI is investigating the case. ](/news/2017/08/5/an-improvised-explosive-device-goes-off-at-a-mosque-in-bloomington-minnesota-no-injuries-were-reported-and-the-fbi-is-investigating-the-c.md)
-_Context: Bloomington, Minnesota, FBI, improvised explosive device_
+_Context: Bloomington, Minnesota, Crime in Minnesota, FBI, improvised explosive device_
 
 ### [Voters in Mauritania participate in a referendum on whether to amend the Constitution of Mauritania, with the abolition of the Senate and addition of red bands to the flag of Mauritania among the most significant proposed changes. The OCHR has criticised Mohamed Ould Abdel Aziz's government for apparent suppression of opposition protests. ](/news/2017/08/5/voters-in-mauritania-participate-in-a-referendum-on-whether-to-amend-the-constitution-of-mauritania-with-the-abolition-of-the-senate-and-ad.md)
 Opposition parties fear changes proposed by President Mohamed Ould Abdel Aziz will result in a slide towards dictatorship. 

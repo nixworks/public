@@ -7,8 +7,8 @@ Trump won all 55 counties in the state, including 43 counties where he received 
 
 ### Source:
 
-1. [ (''The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/08/03/why-is-trump-rallying-in-west-virginias-huntington-because-hes-mostly-popular-there/?utm_term=.a91fce5c5a42)
-2. [Huff Post via MSN.com](http://www.msn.com/en-us/news/us/west-virginia-governor-to-join-switch-parties-join-gop/ar-AApnfe8?ocid=edgsp)
+1. [Huff Post via MSN.com](http://www.msn.com/en-us/news/us/west-virginia-governor-to-join-switch-parties-join-gop/ar-AApnfe8?ocid=edgsp)
+2. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/08/03/why-is-trump-rallying-in-west-virginias-huntington-because-hes-mostly-popular-there/?utm_term=.a91fce5c5a42)
 
 ### Related:
 
