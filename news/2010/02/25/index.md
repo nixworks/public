@@ -1,7 +1,7 @@
 ## [2010-02-25](/news/2010/02/25/index.md)
 
 ### [President Hugo Chavez vows to withdraw Venezuela from the Inter-American Commission on Human Rights following its publication of a highly critical report on human rights in the country. ](/news/2010/02/25/president-hugo-cha-vez-vows-to-withdraw-venezuela-from-the-inter-american-commission-on-human-rights-following-its-publication-of-a-highly-c.md)
-_Context: Hugo Chavez, Human rights in Venezuela, Inter-American Commission on Human Rights, Venezuela, Venezuelan President_
+_Context: Hugo Chavez, Human rights in Venezuela, Inter-American Commission on Human Rights, President, Venezuela_
 
 ### [Libyan leader Muammar al-Gaddafi calls for jihad against Switzerland after a referendum last year supported a ban on minarets and other rows between the two nations. ](/news/2010/02/25/libyan-leader-muammar-al-gaddafi-calls-for-jihad-against-switzerland-after-a-referendum-last-year-supported-a-ban-on-minarets-and-other-rows.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan

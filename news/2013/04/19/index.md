@@ -16,7 +16,7 @@ _Context: Pakistan, Pervez Musharraf, President, unlawful detention of judges_
 A court in India sentences a man to death for plotting a bomb blast at a German bakery in the western city of Pune in 2010.
 
 ### [Nicols Maduro is sworn in as the President of Venezuela despite a review of the results of the Venezuelan presidential election. ](/news/2013/04/19/nicolas-maduro-is-sworn-in-as-the-president-of-venezuela-despite-a-review-of-the-results-of-the-venezuelan-presidential-election.md)
-_Context: Nicolas Maduro, Venezuela, Venezuelan President, last month's presidential election_
+_Context: Nicols Maduro, President, Venezuela, last month's presidential election_
 
 ### [In Italy, after failing to elect the President of Italy on the fourth ballot, Democratic leader Pier Luigi Bersani is to step down, pointing out traitors in his own party. ](/news/2013/04/19/in-italy-after-failing-to-elect-the-president-of-italy-on-the-fourth-ballot-democratic-leader-pier-luigi-bersani-is-to-step-down-pointing.md)
 _Context: Democratic Party, Italian, Pier Luigi Bersani, President of Italy_

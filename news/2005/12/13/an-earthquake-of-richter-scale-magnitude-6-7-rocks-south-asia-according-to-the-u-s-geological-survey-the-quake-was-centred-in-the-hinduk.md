@@ -13,7 +13,7 @@ Although there were no reports of casualties, many houses in Uri, Fafiabad and B
 
 ### Related:
 
-1. [ A suicide bomber attacks a NATO convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding six other personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-nato-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-six-oth.md) _Context: Afghanistan's_
+1. [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md) _Context: Afghanistan's_
 2. [New research suggests that large parts of Southern Asia may be uninhabitable by 2100 due to levels of humidity dangerous to humans. ](/news/2017/08/2/new-research-suggests-that-large-parts-of-southern-asia-may-be-uninhabitable-by-2100-due-to-levels-of-humidity-dangerous-to-humans.md) _Context: Southern_
 3. [An explosion kills at least 29 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/an-explosion-kills-at-least-29-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md) _Context: Afghanistan's_
 4. [The number of people displaced globally totals 65.6 million after an addition of 10.3 million people displaced in 2016. Syria, Colombia, Afghanistan, Iraq and South Sudan are the countries in the top five.  ](/news/2017/06/19/the-number-of-people-displaced-globally-totals-65-6-million-after-an-addition-of-10-3-million-people-displaced-in-2016-syria-colombia-afg.md) _Context: Afghanistan's_

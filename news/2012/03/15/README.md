@@ -58,7 +58,7 @@ _Context: Chilean police, Santiago, tear gas, water cannon_
 _Context: Canadian, Montreal, Quebec_
 
 ### [The President of Venezuela Hugo Chavez returns home after three weeks in Cuba for cancer surgery. ](/news/2012/03/15/the-president-of-venezuela-hugo-chavez-returns-home-after-three-weeks-in-cuba-for-cancer-surgery.md)
-_Context: Cuba, Hugo Chvez, Venezuelan President_
+_Context: Cuba, Hugo Chvez, President_
 
 ## [Previous Day...](/news/2012/03/14/index.md)
 

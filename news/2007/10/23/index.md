@@ -1,7 +1,7 @@
 ## [2007-10-23](/news/2007/10/23/index.md)
 
 ### [ Thousands of Venezuelan students clash with riot police and supporters of President Hugo Chavez over proposals to remove term limits from the presidency. ](/news/2007/10/23/thousands-of-venezuelan-students-clash-with-riot-police-and-supporters-of-president-hugo-cha-vez-over-proposals-to-remove-term-limits-from.md)
-_Context: Hugo Chavez, Venezuela, Venezuelan President, term limits_
+_Context: Hugo Chavez, President, Venezuela, term limits_
 
 ### [ An Argentine court initiates legal proceedings against former president Fernando de la Rua for failing to prevent the deaths of five protesters during the December 2001 riots at the peak of the 1999-2002 economic crisis. ](/news/2007/10/23/an-argentine-court-initiates-legal-proceedings-against-former-president-fernando-de-la-raoa-for-failing-to-prevent-the-deaths-of-five-prote.md)
 _Context: 1999-2002 economic crisis, Argentina, December 2001 riots, Fernando de la Rua, President of Argentina_

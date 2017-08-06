@@ -16,7 +16,7 @@ _Context: Islamabad, Lal Masjid siege, Red Mosque_
 _Context: 21 July 2005 London bombings, conspiracy_
 
 ### [ The Election Commission of India issues notification for the election of the next Vice President of India. The election is scheduled to be held on August 10, 2007.](/news/2007/07/9/the-election-commission-of-india-issues-notification-for-the-election-of-the-next-vice-president-of-india-the-election-is-scheduled-to-be.md)
-_Context: Election Commission of India, India's Vice president_
+_Context: Election Commission of India, Vice-President of India_
 
 ### [ On the country's Independence Day, snow falls in Buenos Aires, Argentina, for the first time in 89 years and the second time in recorded history. Two people die of exposure in Argentina while one person dies in Chile. ](/news/2007/07/9/on-the-country-s-independence-day-snow-falls-in-buenos-aires-argentina-for-the-first-time-in-89-years-and-the-second-time-in-recorded-hi.md)
 _Context: Argentina, Buenos Aires, Chile, Independence Day_

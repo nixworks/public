@@ -1,7 +1,7 @@
 ## [2016-03-5](/news/2016/03/5/index.md)
 
 ### [The Afghan Taliban releases a statement rejecting peace talks with the government of Afghanistan until foreign forces stop attacking their positions and withdraw from the country. Direct peace talks between the government and the Taliban were expected to take place in Islamabad, Pakistan next week. ](/news/2016/03/5/the-afghan-taliban-releases-a-statement-rejecting-peace-talks-with-the-government-of-afghanistan-until-foreign-forces-stop-attacking-their-p.md)
-_Context: Afghanistan's, Islamabad, Pakistan, Taliban, Taliban insurgency, coalition_
+_Context: Afghanistan's, Islamabad, Pakistan, Resolute Support, Taliban, Taliban insurgency_
 
 ### [Gunmen shoot dead the police chief of Aden's Tawahi district and one of his aides. ](/news/2016/03/5/gunmen-shoot-dead-the-police-chief-of-aden-s-tawahi-district-and-one-of-his-aides.md)
 Gunmen opened fire and killed a police colonel and his aide as their vehicle was passing through a roundabout in the southern Yemeni city of Aden on Saturday, a local security official and witnesses said.

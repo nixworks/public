@@ -16,7 +16,7 @@ At least 52 people are killed after Iraqi troops storm a Catholic church in Bagh
 Shanghai bids farewell to the World Expo, a six-month extravaganza which drew 72m visitors and which China branded as &quot;splendid&quot;.
 
 ### [The President of Venezuela Hugo Chvez nationalises Sidetur, a subsidiary of Sivensa.](/news/2010/10/31/the-president-of-venezuela-hugo-chavez-nationalises-sidetur-a-subsidiary-of-sivensa.md)
-_Context: Hugo Chvez, Sidetur, Sivensa, Venezuelan President_
+_Context: Hugo Chvez, President, Sidetur, Sivensa_
 
 ### [The Sony BMG CD copy protection scandal is triggered after Mark Russinovich publishes details of Sony's rootkit.](/news/2010/10/31/the-sony-bmg-cd-copy-protection-scandal-is-triggered-after-mark-russinovich-publishes-details-of-sony-s-rootkit.md)
 _Context: Mark Russinovich, Sony BMG CD copy protection scandal, rootkit_

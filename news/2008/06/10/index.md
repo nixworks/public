@@ -4,7 +4,7 @@
 _Context: Kenya, Kipkalya Kones, Lorna Laboso, Narok_
 
 ### [ President of Venezuela Hugo Chavez revokes an intelligence law that opposition groups and the Roman Catholic church claim would have forced citizens to become government informants and asks the National Assembly to develop new legislation. ](/news/2008/06/10/president-of-venezuela-hugo-cha-vez-revokes-an-intelligence-law-that-opposition-groups-and-the-roman-catholic-church-claim-would-have-force.md)
-_Context: Hugo Chavez, National Assembly, Roman Catholic Church, Venezuelan President_
+_Context: Hugo Chavez, National Assembly, President, Roman Catholic Church_
 
 ### [ A Moroccan court sentences 29 people to prison sentences for recruiting people to fight for militants in Iraq. ](/news/2008/06/10/a-moroccan-court-sentences-29-people-to-prison-sentences-for-recruiting-people-to-fight-for-militants-in-iraq.md)
 _Context: Iraq, Morocco_

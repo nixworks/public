@@ -64,7 +64,7 @@ All but a handful of the 35 educators accused in a massive cheating scandal in A
 WILLIAMSON, W.Va. -- The newly elected Mingo County sheriff, intent on cleaning up the county&#39;s drug problem, was gunned down at midday Wednesday in downtown Williamson.
 
 ### [Nicolas Maduro, acting President of Venezuela, officially begins his campaign to succeed Hugo Chavez in the late leader's hometown ahead of the April 14 election. ](/news/2013/04/3/nicola-s-maduro-acting-president-of-venezuela-officially-begins-his-campaign-to-succeed-hugo-cha-vez-in-the-late-leader-s-hometown-ahead-o.md)
-_Context: Hugo Chavez, Nicolas Maduro, Venezuela, Venezuelan President, last month's presidential election_
+_Context: Hugo Chavez, Nicolas Maduro, President, Venezuela, last month's presidential election_
 
 ### [Malaysia's Prime Minister Najib Razak dissolves parliament and advises all the state governments, except Negeri Sembilan and Sarawak to do the same, in preparation for general election. ](/news/2013/04/3/malaysia-s-prime-minister-najib-razak-dissolves-parliament-and-advises-all-the-state-governments-except-negeri-sembilan-and-sarawak-to-do-t.md)
 _Context: Malaysia, Malaysian Prime Minister, Najib Razak, Negeri Sembilan, Parliament of Malaysia, Sarawak, general election, state governments_

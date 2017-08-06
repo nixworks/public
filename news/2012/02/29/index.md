@@ -25,7 +25,7 @@ The decision Wednesday appeared to signal the end of the worst crisis in relatio
 _Context: Jenny Tonge, Liberal Democrats_
 
 ### [The President of Venezuela Hugo Chvez is recovering from the removal of a tumour from his pelvis in a Cuban hospital. ](/news/2012/02/29/the-president-of-venezuela-hugo-chavez-is-recovering-from-the-removal-of-a-tumour-from-his-pelvis-in-a-cuban-hospital.md)
-_Context: Cuba, Hugo Chvez, Venezuelan President, tumour_
+_Context: Cuba, Hugo Chvez, President, tumour_
 
 ### [Egypt announces that a presidential election will held on May 23-24. ](/news/2012/02/29/egypt-announces-that-a-presidential-election-will-held-on-may-23-24.md)
 _Context: Egypt, presidential election_

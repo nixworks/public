@@ -67,7 +67,7 @@ BRATISLAVA, Slovakia (AP) — The new Slovak government of Prime Minister Robert
 MADRID (AP) — Spain&#039;s King Felipe VI decided Tuesday that none of the country&#039;s political parties has enough support to form a government, setting the stage for an unprecedented repeat election in June, six months after…
 
 ### [Venezuelan President Nicolas Maduro, who previously gave most of the country's 2.8 million state employees Fridays off through May, announces public workers will also have Wednesdays and Thursdays off for at least two weeks as an energy-saving measure. Full salaries will still be paid despite the two-day week. ](/news/2016/04/26/venezuelan-president-nicola-s-maduro-who-previously-gave-most-of-the-country-s-2-8-million-state-employees-fridays-off-through-may-announc.md)
-_Context: Nicolas Maduro, Venezuelan President_
+_Context: Nicolas Maduro, President_
 
 ## [Previous Day...](/news/2016/04/25/index.md)
 

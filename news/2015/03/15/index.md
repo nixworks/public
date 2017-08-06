@@ -25,7 +25,7 @@ Reports suggest renovation work on the heritage site, involving wooden scaffoldi
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [The National Assembly of Venezuela grants President Nicolas Maduro the power to legislate by decree for nine months. ](/news/2015/03/15/the-national-assembly-of-venezuela-grants-president-nicola-s-maduro-the-power-to-legislate-by-decree-for-nine-months.md)
-_Context: National Assembly, Nicolas Maduro, Venezuela, Venezuelan President, royal decrees_
+_Context: National Assembly, Nicolas Maduro, President, Venezuela, royal decrees_
 
 ## [Previous Day...](/news/2015/03/14/index.md)
 

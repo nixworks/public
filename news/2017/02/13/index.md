@@ -4,7 +4,7 @@
 _Context: 2017 Lahore suicide bombing, Jamaat-ul-Ahrar, Lahore, Pakistani Taliban, Punjab, police officers_
 
 ### [According to a United Nations Assistance Mission in Afghanistan inquiry, 18 civilians in Helmand Province were killed in coalition air raids last Thursday and Friday, with locals and Afghan officials claiming that the death toll is higher. ](/news/2017/02/13/according-to-a-united-nations-assistance-mission-in-afghanistan-inquiry-18-civilians-in-helmand-province-were-killed-in-coalition-air-raids.md)
-_Context: Helmand Province, United Nations Assistance Mission in Afghanistan, War in Afghanistan (2015-present), coalition_
+_Context: Helmand Province, Resolute Support, United Nations Assistance Mission in Afghanistan, War in Afghanistan (2015-present)_
 
 ### [Thousands of people are urged to evacuate in and around the vicinity of Yuba City due to the impending failure of an emergency spillway at Oroville Dam in Northern California.   188,000 people were reported to be evacuated. ](/news/2017/02/13/thousands-of-people-are-urged-to-evacuate-in-and-around-the-vicinity-of-yuba-city-due-to-the-impending-failure-of-an-emergency-spillway-at-o.md)
 The situation stabilized by Monday morning, but officials remain worried about rain predicted later in the week.

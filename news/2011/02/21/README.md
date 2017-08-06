@@ -53,7 +53,7 @@ The U.S., with 4.5 percent of the world’s population and 25 percent of the wor
 _Context: Alex Chernov, Governor, Victoria_
 
 ### [Three Venezuelan hunger strikers are hospitalised after calling for an international probe into alleged human rights abuses by the President of Venezuela Hugo Chvez. ](/news/2011/02/21/three-venezuelan-hunger-strikers-are-hospitalised-after-calling-for-an-international-probe-into-alleged-human-rights-abuses-by-the-president.md)
-_Context: Hugo Chvez, Human rights, Venezuela, Venezuelan President, hunger strike_
+_Context: Hugo Chvez, Human rights, President, Venezuela, hunger strike_
 
 ## [Previous Day...](/news/2011/02/20/index.md)
 

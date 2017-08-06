@@ -55,7 +55,7 @@ _Context: Brandon Joseph Rhode, Georgia, Jackson, U.S._
 _Context: Korean Workers' Party, North Korea, Pyongyang_
 
 ### [The President of Venezuela Hugo Chavez's United Socialist Party of Venezuela wins a majority of seats in the parliamentary election held yesterday but lost a two-thirds majority needed to pass major legislation unaided. ](/news/2010/09/27/the-president-of-venezuela-hugo-cha-vez-s-united-socialist-party-of-venezuela-wins-a-majority-of-seats-in-the-parliamentary-election-held-ye.md)
-_Context: Hugo Chavez, United Social Party of Venezuela, Venezuelan President, parliamentary election_
+_Context: Hugo Chavez, President, United Social Party of Venezuela, parliamentary election_
 
 ### [President of the United States Barack Obama signs a small business lending bill into law. ](/news/2010/09/27/president-of-the-united-states-barack-obama-signs-a-small-business-lending-bill-into-law.md)
 President Barack Obama signed a $30 billion small business lending bill into law on Monday, claiming a victory on economic policy for his fellow Democrats ahead of November congressional elections.

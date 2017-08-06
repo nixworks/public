@@ -38,6 +38,9 @@ A U.S. jury convicted Martin Shkreli, the brash former drug company and hedge fu
 ### [Voters in Rwanda go to the polls to elect their president. Paul Kagame, incumbent since 2000, referred to the election as a formality, despite challenges from the Democratic Greens' Frank Habineza and independent Philippe Mpayimana. Kagame is re-elected with 98.66 of the vote. ](/news/2017/08/4/voters-in-rwanda-go-to-the-polls-to-elect-their-president-paul-kagame-incumbent-since-2000-referred-to-the-election-as-a-formality-despi.md)
 Rwandan President Paul Kagame has extended his 17 years in power after winning the presidential election.
 
+### [Socorro Flores Liera, Mexico's deputy foreign minister for Latin America and the Caribbean, speaks during an interview with Reuters in Mexico City, that during the first half of 2017, 1,420 Venezuelans have sought asylum in Mexico, a nearly four-fold jump compared to the 361 total Venezuelan asylum applicants for all of 2016, as the result of Venezuela's deepening political and economic crisis. ](/news/2017/08/4/socorro-flores-liera-mexico-s-deputy-foreign-minister-for-latin-america-and-the-caribbean-speaks-during-an-interview-with-reuters-in-mexic.md)
+_Context: 2017 Venezuelan constitutional crisis, Mexico, Mexico City, Venezuela_
+
 ---
 
 ## [Day Before Yesterday](/news/2017/08/3/index.md)

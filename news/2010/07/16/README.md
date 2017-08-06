@@ -70,7 +70,7 @@ _Context: Bashar al-Assad, Human Rights Watch, President_
 Photos taken by a mountaineer on Everest from the same spot where similar pictures were taken in 1921 reveal an &quot;alarming&quot; ice loss.
 
 ### [President of Venezuela Hugo Chvez announces the exhumation of 19th-century revolutionary Simn Bolvar to investigate suspected foul play in Bolvar's death. ](/news/2010/07/16/president-of-venezuela-hugo-chavez-announces-the-exhumation-of-19th-century-revolutionary-simon-bolivar-to-investigate-suspected-foul-play-i.md)
-_Context: Hugo Chvez, Simn Bolvar, Venezuelan President, exhumed_
+_Context: Hugo Chvez, President, Simn Bolvar, exhumed_
 
 ### [Police in Nigeria seize the passports of four top football officials who were sacked after the national football team's poor performance at the 2010 FIFA World Cup leads to fraud allegations. ](/news/2010/07/16/police-in-nigeria-seize-the-passports-of-four-top-football-officials-who-were-sacked-after-the-national-football-team-s-poor-performance-at.md)
 Fraud police in Nigeria seize the passports of four top football officials sacked after the World Cup.

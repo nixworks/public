@@ -43,13 +43,13 @@ _Context: Federal Reserve, U.S., US$_
 _Context: United Nations Assistance Mission in Iraq, United Nations Security Council_
 
 ### [ Hamid Ansari becomes 13th Vice-President of India.](/news/2007/08/10/hamid-ansari-becomes-13th-vice-president-of-india.md)
-_Context: Hamid Ansari, India's Vice president_
+_Context: Hamid Ansari, Vice-President of India_
 
 ### [ Thabo Mbeki, the President of South Africa, sacks Nozizwe Madlala-Routledge as the Deputy Health Minister for attending an AIDS conference in Spain without authorisation and criticising hospital conditions. ](/news/2007/08/10/thabo-mbeki-the-president-of-south-africa-sacks-nozizwe-madlala-routledge-as-the-deputy-health-minister-for-attending-an-aids-conference.md)
 _Context: AIDS, Nozizwe Madlala-Routledge, President of South Africa, Spain, Thabo Mbeki, hospital_
 
 ### [ The President of Venezuela Hugo Chvez meets with the President of Bolivia Evo Morales and the President of Argentina Nstor Kirchner in Tarija, Bolivia. ](/news/2007/08/10/the-president-of-venezuela-hugo-chavez-meets-with-the-president-of-bolivia-evo-morales-and-the-president-of-argentina-nestor-kirchner-in-ta.md)
-_Context: Evo Morales, Hugo Chvez, Nstor Kirchner, President of Argentina, President of Bolivia, Tarija, Bolivia, Venezuelan President_
+_Context: Evo Morales, Hugo Chvez, Nstor Kirchner, President, President of Argentina, President of Bolivia, Tarija, Bolivia_
 
 ### [ A bus carrying Serbian tourists to the Croatian Adriatic coast crashes resulting in two deaths and 40 injuries. ](/news/2007/08/10/a-bus-carrying-serbian-tourists-to-the-croatian-adriatic-coast-crashes-resulting-in-two-deaths-and-40-injuries.md)
 _Context: Adriatic coast, Croatia, Serbia, tourist_

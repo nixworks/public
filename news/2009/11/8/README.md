@@ -1,7 +1,7 @@
 ## [2009-11-8](/news/2009/11/8/index.md)
 
 ### [ Venezuelan President Hugo Chavez tells the country's army and civilians to "prepare for war" with Colombia. ](/news/2009/11/8/venezuelan-president-hugo-chavez-tells-the-country-s-army-and-civilians-to-prepare-for-war-with-colombia.md)
-_Context: Colombia, Hugo Chvez, Venezuelan President_
+_Context: Colombia, Hugo Chvez, President_
 
 ### [ Sudan's President Omar Hassan al-Bashir, indicted by the International Criminal Court, cancels his trip to Turkey. ](/news/2009/11/8/sudan-s-president-omar-hassan-al-bashir-indicted-by-the-international-criminal-court-cancels-his-trip-to-turkey.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews

@@ -31,7 +31,7 @@ _Context: Democratic National Convention, Fox News, Losing My Religion, R.E.M._
 The Hong Kong government backs down over plans to force schoolchildren to take Chinese patriotism classes, after weeks of protests.
 
 ### [India's Vice president Ansari says, despite "significant progress", India has the largest number of illiterates in the world, marking the point at a speech for International Literacy Day. ](/news/2012/09/8/india-s-vice-president-ansari-says-despite-significant-progress-india-has-the-largest-number-of-illiterates-in-the-world-marking-the-po.md)
-_Context: Ansari, India, India's Vice president, International Literacy Day, literates, significant progress_
+_Context: Ansari, India, International Literacy Day, Vice-President of India, literates, significant progress_
 
 ## [Previous Day...](/news/2012/09/7/index.md)
 

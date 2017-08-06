@@ -16,7 +16,7 @@ _Context: Air Canada Jazz, Toronto Pearson International Airport_
 _Context: Bulgaria, GERB, elects Members of the European Parliament_
 
 ### [ Tens of thousands of Venezuelans march in protest in support of  Radio Caracas Televisin and in opposition to President Hugo Chvez, who has vowed not to renew its licence. ](/news/2007/05/20/tens-of-thousands-of-venezuelans-march-in-protest-in-support-of-radio-caracas-television-and-in-opposition-to-president-hugo-chavez-who-h.md)
-_Context: Hugo Chvez, Radio Caracas Television, Venezuela, Venezuelan President_
+_Context: Hugo Chvez, President, Radio Caracas Television, Venezuela_
 
 ### [ Thousands gather in Samsun, Turkey to protest against the government. ](/news/2007/05/20/thousands-gather-in-samsun-turkey-to-protest-against-the-government.md)
 _Context: Samsun, Thousands gather, Turkey_
