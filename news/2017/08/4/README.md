@@ -12,6 +12,9 @@ The blaze started soon after midnight and spread across dozens of floors in one 
 ### [Former pharmaceutical company executive Martin Shkreli is convicted of three counts of securities fraud in a federal court in Brooklyn, New York.](/news/2017/08/4/former-pharmaceutical-company-executive-martin-shkreli-is-convicted-of-three-counts-of-securities-fraud-in-a-federal-court-in-brooklyn-new.md)
 A U.S. jury convicted Martin Shkreli, the brash former drug company and hedge fund executive, on Friday of defrauding investors in hedge funds he ran years before he gained fame for jacking up the price of a drug.
 
+### [A former Volkswagen executive pleads guilty to defrauding the United States and violating the Clean Air Act. ](/news/2017/08/4/a-former-volkswagen-executive-pleads-guilty-to-defrauding-the-united-states-and-violating-the-clean-air-act.md)
+Oliver Schmidt faces up to seven years in prison for his role in the Volkswagen emissions scandal.
+
 ### [Voters in Rwanda go to the polls to elect their president. Paul Kagame, incumbent since 2000, referred to the election as a formality, despite challenges from the Democratic Greens' Frank Habineza and independent Philippe Mpayimana. Kagame is re-elected with 98.66 of the vote. ](/news/2017/08/4/voters-in-rwanda-go-to-the-polls-to-elect-their-president-paul-kagame-incumbent-since-2000-referred-to-the-election-as-a-formality-despi.md)
 Rwandan President Paul Kagame has extended his 17 years in power after winning the presidential election.
 
