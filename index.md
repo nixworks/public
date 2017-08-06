@@ -1,19 +1,7 @@
-## [News](/news/2017/08/5/index.md)
+## [News](/news/2017/08/6/index.md)
 
-### [Searches are underway for three members of the United States Marine Corps missing after a MV-22 Osprey crashed off the coast of the Australian state of Queensland. Twenty three of the twenty six people on board have been rescued. ](/news/2017/08/5/searches-are-underway-for-three-members-of-the-united-states-marine-corps-missing-after-a-mv-22-osprey-crashed-off-the-coast-of-the-australi.md)
-A search and rescue operation is underway for three US Marines who remain missing after an military aircraft ...
-
-### [Voters in Mauritania participate in a referendum on whether to amend the Constitution of Mauritania, with the abolition of the Senate and addition of red bands to the flag of Mauritania among the most significant proposed changes. The OCHR has criticised Mohamed Ould Abdel Aziz's government for apparent suppression of opposition protests. ](/news/2017/08/5/voters-in-mauritania-participate-in-a-referendum-on-whether-to-amend-the-constitution-of-mauritania-with-the-abolition-of-the-senate-and-ad.md)
-Opposition parties fear changes proposed by President Mohamed Ould Abdel Aziz will result in a slide towards dictatorship. 
-
-### [Iranian President Hassan Rouhani take the oath of office to start his new four-year term. ](/news/2017/08/5/iranian-president-hassan-rouhani-take-the-oath-of-office-to-start-his-new-four-year-term.md)
-The swearing-in ceremony for the reelected President Hassan Rouhani, which is due this Saturday...
-
-### [ Venkaiah Naidu elected as India's 13th Vice-President of India.](/news/2017/08/5/venkaiah-naidu-elected-as-india-s-13th-vice-president-of-india.md)
-M Venkaiah Naidu, the ruling BJP-led National Democratic Alliance candidate, will be India&#039;s 13th Vice President. He received 516 votes defeating the opposition candidate former West Bengal Governor Gopalkrishna Gandhi who got 244 votes. For someone who came from a family of an ordinary farmer, 68-year-old former minister said his election &quot;speaks for the beauty and strength of our democracy&quot;. Mr Naidu also promised &quot;to uphold the Constitution and the high standards set by my esteemed predecessors&quot;.
-
-### [The new Constituent Assembly votes to remove Attorney General Luisa Ortega Daz, a prominent critic of President Nicols Maduro, from her post. The move comes hours after troops from the National Guard surrounded her home in Caracas. ](/news/2017/08/5/the-new-constituent-assembly-votes-to-remove-attorney-general-luisa-ortega-diaz-a-prominent-critic-of-president-nicolas-maduro-from-her-po.md)
-New legislative body sacks dissident chief prosecutor Luisa Ortega hours after troops block entrance to her office.
+### [The search for three members of the United States Marines Corp lost in a MV-22 Osprey crash in Shoalwater Bay in the Australian state of Queensland is called off. ](/news/2017/08/6/the-search-for-three-members-of-the-united-states-marines-corp-lost-in-a-mv-22-osprey-crash-in-shoalwater-bay-in-the-australian-state-of-que.md)
+A search operation for three US marines missing off the Queensland coast has been called off.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -21,7 +9,32 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ---
 
-## [Yesterday](/news/2017/08/4/index.md)
+## [Yesterday](/news/2017/08/5/index.md)
+
+### [Searches are underway for three members of the United States Marine Corps missing after a MV-22 Osprey crashed off the coast of the Australian state of Queensland. Twenty three of the twenty six people on board have been rescued. ](/news/2017/08/5/searches-are-underway-for-three-members-of-the-united-states-marine-corps-missing-after-a-mv-22-osprey-crashed-off-the-coast-of-the-australi.md)
+A search and rescue operation is underway for three US Marines who remain missing after an military aircraft ...
+
+### [The United Nations Security Council votes 15-0 to impose sanctions on North Korea for its intercontinental ballistic missile tests. ](/news/2017/08/5/the-united-nations-security-council-votes-15a0-to-impose-sanctions-on-north-korea-for-its-intercontinental-ballistic-missile-tests.md)
+_Context: Korea and the United Nations, North Korea, United Nations Security Council, intercontinental ballistic missile tests_
+
+### [An improvised explosive device goes off at a mosque in Bloomington, Minnesota. No injuries were reported, and the FBI is investigating the case. ](/news/2017/08/5/an-improvised-explosive-device-goes-off-at-a-mosque-in-bloomington-minnesota-no-injuries-were-reported-and-the-fbi-is-investigating-the-c.md)
+_Context: Bloomington, Minnesota, FBI, improvised explosive device_
+
+### [Voters in Mauritania participate in a referendum on whether to amend the Constitution of Mauritania, with the abolition of the Senate and addition of red bands to the flag of Mauritania among the most significant proposed changes. The OCHR has criticised Mohamed Ould Abdel Aziz's government for apparent suppression of opposition protests. ](/news/2017/08/5/voters-in-mauritania-participate-in-a-referendum-on-whether-to-amend-the-constitution-of-mauritania-with-the-abolition-of-the-senate-and-ad.md)
+Opposition parties fear changes proposed by President Mohamed Ould Abdel Aziz will result in a slide towards dictatorship. 
+
+### [Iranian President Hassan Rouhani takes the oath of office to start his second four-year term. ](/news/2017/08/5/iranian-president-hassan-rouhani-takes-the-oath-of-office-to-start-his-second-four-year-term.md)
+The swearing-in ceremony for the reelected President Hassan Rouhani, which is due this Saturday...
+
+### [ Venkaiah Naidu elected as India's 13th Vice-President of India.](/news/2017/08/5/venkaiah-naidu-elected-as-india-s-13th-vice-president-of-india.md)
+M Venkaiah Naidu, the ruling BJP-led National Democratic Alliance candidate, will be India&#039;s 13th Vice President. He received 516 votes defeating the opposition candidate former West Bengal Governor Gopalkrishna Gandhi who got 244 votes. For someone who came from a family of an ordinary farmer, 68-year-old former minister said his election &quot;speaks for the beauty and strength of our democracy&quot;. Mr Naidu also promised &quot;to uphold the Constitution and the high standards set by my esteemed predecessors&quot;.
+
+### [The new Constituent Assembly votes to remove Attorney General Luisa Ortega Diaz, a prominent critic of President Nicolas Maduro, from her post. The move comes hours after troops from the National Guard surrounded her home in Caracas. ](/news/2017/08/5/the-new-constituent-assembly-votes-to-remove-attorney-general-luisa-ortega-daaz-a-prominent-critic-of-president-nicola-s-maduro-from-her.md)
+New legislative body sacks dissident chief prosecutor Luisa Ortega hours after troops block entrance to her office.
+
+---
+
+## [Day Before Yesterday](/news/2017/08/4/index.md)
 
 ### [Denmark's Prince Henrik announces he won't be buried next to Queen Margrethe II in the Roskilde Cathedral where Danish royals have been buried since 1559. The 83-year-old, French-born Henrik has been dissatisfied with his non-equal role as Prince consort. The 77-year old Margrethe, who had a specially designed sarcophagus made for the couple, accepts Henrik's decision, according to a royal house spokeswoman. ](/news/2017/08/4/denmark-s-prince-henrik-announces-he-won-t-be-buried-next-to-queen-margrethe-ii-in-the-roskilde-cathedral-where-danish-royals-have-been-buri.md)
 _Context: Danish royal consorts, Denmark, French-born, Prince Henrik, Prince consort, Queen Margrethe II, Roskilde Cathedral, sarcophagus_
@@ -43,41 +56,7 @@ _Context: 2017 Venezuelan constitutional crisis, Mexico, Mexico City, Venezuela_
 
 ---
 
-## [Day Before Yesterday](/news/2017/08/3/index.md)
-
-### [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md)
-_Context: Afghanistan's, Georgian, Kabul province, Resolute Support, War in Afghanistan (2015-present), suicide bomber_
-
-### [USAID announces the Trump administration dedicated $169 million to feed people facing starvation in Ethiopia and Kenya, adding to earlier assistance for those suffering from drought and conflict in the region. ](/news/2017/08/3/usaid-announces-the-trump-administration-dedicated-169-million-to-feed-people-facing-starvation-in-ethiopia-and-kenya-adding-to-earlier-as.md)
-The Trump administration gave $169 million to feed people facing starvation in Ethiopia and Kenya, USAID said on Thursday, adding to earlier assistance for those suffering from drought and conflict in four other nations.
-
-### [South American trade bloc Mercosur will trigger its democratic clause this weekend to suspend Venezuela indefinitely, furthering its past temporary suspension, and not allow the country back until internal political issues have been resolved. ](/news/2017/08/3/south-american-trade-bloc-mercosur-will-trigger-its-democratic-clause-this-weekend-to-suspend-venezuela-indefinitely-furthering-its-past-te.md)
-South American trade bloc Mercosur will trigger its democratic clause this weekend to suspend Venezuela indefinitely and not allow it back until democracy is restored, a Brazilian government source said on Thursday.
-
-### [Two transcripts of telephone conversations between U.S. President Donald Trump and foreign leaders are leaked. Trump was shown to disagree with Mexican President Enrique Pena Nieto on 27 January over the proposed border wall, and with Australian Prime Minister Malcolm Turnbull the next day over the resettlement deal of refugees in Nauru and Manus. ](/news/2017/08/3/two-transcripts-of-telephone-conversations-between-u-s-president-donald-trump-and-foreign-leaders-are-leaked-trump-was-shown-to-disagree-w.md)
-The Post has obtained transcripts of President Donald Trump’s talks with Mexican President Enrique Pena Nieto and Australian Prime Minister Malcolm Turnbull in January.
-
-### [Special counsel Robert Mueller has impaneled a grand jury in Washington, D.C. to investigate allegations of Russia's interference in the 2016 elections. ](/news/2017/08/3/special-counsel-robert-mueller-has-impaneled-a-grand-jury-in-washington-d-c-to-investigate-allegations-of-russiaas-interference-in-the-2.md)
-Special counsel Robert Mueller has impaneled a grand jury in Washington to investigate allegations of Russia’s interference in the 2016 elections, the Wall Street Journal said on Thursday, citing two unnamed people familiar with the matter.
-
-### [Chilean lawmakers have approved a bill that would legalize abortion in limited circumstances and end the socially conservative country's status as the last in South America with a blanket ban on the procedure. ](/news/2017/08/3/chilean-lawmakers-have-approved-a-bill-that-would-legalize-abortion-in-limited-circumstances-and-end-the-socially-conservative-country-s-sta.md)
-_Context: Abortion in Chile, Chilean lawmakers, South America, abortion, conservative_
-
-### [Raytheon wins the dismissal of a USD$1 billion whistleblower lawsuit accusing the defense contractor of over billing the U.S. government on a contract for satellite sensors, nearly 18 months after the United States Court of Appeals for the Ninth Circuit revived the case. ](/news/2017/08/3/raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-government-on.md)
-Raytheon Co (RTN.N) on Thursday won the dismissal of a $1 billion whistleblower lawsuit accusing the defense contractor of overbilling the U.S. government on a contract for satellite sensors, nearly 1-1/2 years after a federal appeals court revived the case.
-
-### [U.S. lawmakers break for summer recess. ](/news/2017/08/3/u-s-lawmakers-break-for-summer-recess.md)
-_Context: 115th United States Congress, U.S., recess_
-
-### [Prime Minister of Japan Shinzo Abe appoints Taro Kono as Foreign Minister. ](/news/2017/08/3/prime-minister-of-japan-shinza-abe-appoints-tara-kano-as-foreign-minister.md)
-Japanese Prime Minister Shinzo Abe, beset by scandals and falling support, opted for safe hands over fresh faces in a cabinet reshuffle on Thursday but the changes may not boost his support to the extent he seeks.
-
-### [West Virginia Governor Jim Justice announces, during U.S. President Donald Trump's rally in Huntington, he is changing his party affiliation from Democratic to Republican. ](/news/2017/08/3/west-virginia-governor-jim-justice-announces-during-u-s-president-donald-trump-s-rally-in-huntington-he-is-changing-his-party-affiliation.md)
-Trump won all 55 counties in the state, including 43 counties where he received more than 70 percent of votes.
-
----
-
-## [Previous Day...](/news/2017/08/2/index.md)
+## [Previous Day...](/news/2017/08/3/index.md)
 
 ---
 
