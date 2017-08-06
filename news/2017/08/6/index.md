@@ -1,6 +1,6 @@
 ## [2017-08-6](/news/2017/08/6/index.md)
 
-### [Gunmen kill a number of worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-a-number-of-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md)
+### [Gunmen kill 8 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-8-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md)
 _Context: Anambra State, Nigeria, Ozubulu_
 
 ### [Israel plans to shut down all of Al-Jazeera's operations in the country, citing the station's support of terrorism. ](/news/2017/08/6/israel-plans-to-shut-down-all-of-al-jazeera-s-operations-in-the-country-citing-the-station-s-support-of-terrorism.md)

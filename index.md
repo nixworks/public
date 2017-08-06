@@ -1,6 +1,6 @@
 ## [News](/news/2017/08/6/index.md)
 
-### [Gunmen kill a number of worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-a-number-of-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md)
+### [Gunmen kill 8 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-8-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md)
 _Context: Anambra State, Nigeria, Ozubulu_
 
 ### [Israel plans to shut down all of Al-Jazeera's operations in the country, citing the station's support of terrorism. ](/news/2017/08/6/israel-plans-to-shut-down-all-of-al-jazeera-s-operations-in-the-country-citing-the-station-s-support-of-terrorism.md)
@@ -21,7 +21,7 @@ Most of the daily information we see on the mainstream media today is the news e
 A search and rescue operation is underway for three US Marines who remain missing after an military aircraft ...
 
 ### [The United Nations Security Council votes 15-0 to impose sanctions on North Korea for its intercontinental ballistic missile tests. ](/news/2017/08/5/the-united-nations-security-council-votes-15a0-to-impose-sanctions-on-north-korea-for-its-intercontinental-ballistic-missile-tests.md)
-_Context: North Korea, North Korea and the United Nations, United Nations Security Council, intercontinental ballistic missile tests_
+_Context: North Korea, North Korea and the United Nations, United Nations Security Council, intercontinental ballistic, missile tests_
 
 ### [An improvised explosive device goes off at a mosque in Bloomington, Minnesota. No injuries were reported, and the FBI is investigating the case. ](/news/2017/08/5/an-improvised-explosive-device-goes-off-at-a-mosque-in-bloomington-minnesota-no-injuries-were-reported-and-the-fbi-is-investigating-the-c.md)
 _Context: Bloomington, Minnesota, FBI, improvised explosive device_
