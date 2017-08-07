@@ -1,9 +1,13 @@
 ### [2017-08-7](/news/2017/08/7/index.md)
 
-# The Speaker of the National Assembly of South Africa, Baleka Mbete announces that a vote of no confidence in President Jacob Zuma be held by secret ballot. The vote, to be held on 8 August 2017, will be the eighth vote of no confidence against the president and the first by secret ballot.
+# The Speaker of the National Assembly of South Africa, Baleka Mbete announces that a vote of no confidence in President Jacob Zuma be held by secret ballot. The vote, to be held on 8 August 2017, will be the eighth vote of no confidence against the president and the first by secret ballot. 
 
 
 
+
+### Source:
+
+1. [CNN](http://edition.cnn.com/2017/08/07/africa/jacob-zuma-no-confidence-vote-south-africa/index.html)
 
 ### Related:
 
