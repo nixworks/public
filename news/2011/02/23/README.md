@@ -37,7 +37,7 @@ _Context: Benigno "Noynoy" Aquino III, President of the Philippines, Taiwan_
 _Context: Iran, Senegal, diplomatic relations_
 
 ### [The People's Republic of China refuses to let the United Nations Security Council publish a report on North Korea's efforts to avoid sanctions on its nuclear program. ](/news/2011/02/23/the-people-s-republic-of-china-refuses-to-let-the-united-nations-security-council-publish-a-report-on-north-korea-s-efforts-to-avoid-sanctio.md)
-_Context: Chinese, North Korea, North Korea and weapons of mass destruction, United Nations Security Council, sanctions_
+_Context: Chinese, North Korea, United Nations Security Council, intercontinental ballistic, sanctions_
 
 ### [Four men from Xinjiang in western China are to be executed following convictions for terrorism in the region last year. ](/news/2011/02/23/four-men-from-xinjiang-in-western-china-are-to-be-executed-following-convictions-for-terrorism-in-the-region-last-year.md)
 _Context: Chinese, Xinjiang_

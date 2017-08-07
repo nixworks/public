@@ -1,7 +1,7 @@
 ## [2009-12-4](/news/2009/12/4/index.md)
 
 ### [ US Marines and Afghan troops launch Operation Cobra's Anger in northern Helmand province. ](/news/2009/12/4/us-marines-and-afghan-troops-launch-operation-cobra-s-anger-in-northern-helmand-province.md)
-_Context: Afghanistan's, Helmand Province, Operation Cobra's Anger, US Marines_
+_Context: Afghanistan's, Helmand Province, Operation Cobra's Anger, United States Marines Corps_
 
 ### [ The U.S. Office of Thrift Supervision closes down the Cleveland based AmTrust Bank. ](/news/2009/12/4/the-u-s-office-of-thrift-supervision-closes-down-the-cleveland-based-amtrust-bank.md)
 _Context: AmTrust Bank, Cleveland, Office of Thrift Supervision_

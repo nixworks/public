@@ -10,7 +10,7 @@ _Context: Gaza Strip, Israel, Palestinian_
 _Context: Bahrain, Hamad bin Isa Al Khalifa, King of Bahrain, Pakistan_
 
 ### [The Australian Army reports that another Australian soldier has been killed by an improvised explosive device lost in fighting in Afghanistan. ](/news/2011/08/22/the-australian-army-reports-that-another-australian-soldier-has-been-killed-by-an-improvised-explosive-device-lost-in-fighting-in-afghanista.md)
-_Context: Afghanistan's, Australian, roadside bomb, soldiers_
+_Context: Afghanistan's, Australian, improvised explosive device, soldiers_
 
 ### [The UN says 600 people have been killed in clashes in South Sudan. ](/news/2011/08/22/the-un-says-600-people-have-been-killed-in-clashes-in-south-sudan.md)
 As many as 200 people may have been abducted in connection with ethnic fighting, and up to 30,000 head of cattle stolen.

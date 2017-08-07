@@ -1,7 +1,7 @@
 ## [2010-10-14](/news/2010/10/14/index.md)
 
 ### [Eight ISAF NATO soldiers are killed in multiple attacks in Afghanistan, including four in roadside bombings. ](/news/2010/10/14/eight-isaf-nato-soldiers-are-killed-in-multiple-attacks-in-afghanistan-including-four-in-roadside-bombings.md)
-_Context: Afghanistan's, ISAF, NATO, roadside bomb_
+_Context: Afghanistan's, ISAF, NATO, improvised explosive device_
 
 ### [Six people, including an Iraqi Interior Ministry official and four members of a leading political bloc, die in multiple explosions throughout Baghdad apparently targeting members of former prime Minister Ayad Allawi's al-Iraqiya political coalition; four were killed in a roadside bomb and three others were wounded. ](/news/2010/10/14/six-people-including-an-iraqi-interior-ministry-official-and-four-members-of-a-leading-political-bloc-die-in-multiple-explosions-throughou.md)
 _Context: Ayad Allawi, Baghdad, Iraq, Iraqi National Movement_

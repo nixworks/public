@@ -13,7 +13,7 @@ Violence erupted as thousands protesting against Indian rule stormed polling sta
 Nearly 200 people around Efate, the main island in Vanuatu, have been moved to evacuation centres because of flooding caused by Cyclone Cook.
 
 ### [The United States Pacific Command deploys warships, including the USS ''Carl Vinson'', to move towards the Korean Peninsula following North Korea's recent tests with weapons of mass destruction and opposition to the Sharyat missile strike. North Korea is also reclassified as a state sponsor of terrorism. ](/news/2017/04/9/the-united-states-pacific-command-deploys-warships-including-the-uss-carl-vinson-to-move-towards-the-korean-peninsula-following-north.md)
-_Context: Korean Peninsula, North Korea, North Korea, North Korea and weapons of mass destruction, Sharyat missile strike, U.S. Pacific Command, USS ''Carl Vinson'', state sponsor of terrorism_
+_Context: Korean Peninsula, North Korea, North Korea, Sharyat missile strike, U.S. Pacific Command, USS ''Carl Vinson'', intercontinental ballistic, state sponsor of terrorism_
 
 ### [A United Airlines passenger is dragged off a flight at O'Hare International Airport in Chicago. The airline company is under fire because of the mistreatment of the passenger. ](/news/2017/04/9/a-united-airlines-passenger-is-dragged-off-a-flight-at-o-hare-international-airport-in-chicago-the-airline-company-is-under-fire-because-of.md)
 Video of police officers dragging a passenger from an overcrowded United Airlines flight sparked an uproar Monday on social media, and a spokesman for the airline insisted that employees had no choice but to contact authorities to remove the man.

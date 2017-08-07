@@ -1,7 +1,7 @@
 ## [2006-09-24](/news/2006/09/24/index.md)
 
 ### [ Venezuela's Foreign Minister Nicols Maduro is detained in John F. Kennedy International Airport for secondary screening. ](/news/2006/09/24/venezuela-s-foreign-minister-nicolas-maduro-is-detained-in-john-f-kennedy-international-airport-for-secondary-screening.md)
-_Context: New York, Nicols Maduro, Venezuela, secondary screening_
+_Context: New York, Nicolas Maduro, Venezuela, secondary screening_
 
 ### [ At least 47 people, including a number of children, are killed in a bus crash near Quito, capital of Ecuador. ](/news/2006/09/24/at-least-47-people-including-a-number-of-children-are-killed-in-a-bus-crash-near-quito-capital-of-ecuador.md)
 _Context: Ecuador, Quito_
