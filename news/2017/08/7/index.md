@@ -1,5 +1,8 @@
 ## [2017-08-7](/news/2017/08/7/index.md)
 
+### [Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado and Portland, Oregon.](/news/2017/08/7/air-carrier-penair-declares-chapter-11-bankruptcy-in-the-united-states-and-ends-service-to-denver-colorado-and-portland-oregon.md)
+Regional airline Peninsula Airways filed for bankruptcy over the weekend, blaming its financial decline on money-losing hubs in Portland, Ore., and Denver that it plans to shut down.
+
 ### [Results from Saturday's constitutional referendum show Mauritanians have voted to abolish the Senate. Turnout was 53.73%, with 85% of voters supporting the change, according to officials. ](/news/2017/08/7/results-from-saturday-s-constitutional-referendum-show-mauritanians-have-voted-to-abolish-the-senate-turnout-was-53-73-with-85-of-voters.md)
 The referendum result is seen as a victory for the president, accused of trying to stay in power.
 
