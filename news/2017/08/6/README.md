@@ -1,8 +1,5 @@
 ## [2017-08-6](/news/2017/08/6/index.md)
 
-### [Philippines senator Leila de Lima requests the foreign affairs department to invite the United Nations for an investigation on alleged human rights violations in Marawi. ](/news/2017/08/6/philippines-senator-leila-de-lima-requests-the-foreign-affairs-department-to-invite-the-united-nations-for-an-investigation-on-alleged-human.md)
-_Context: Battle of Marawi, Leila de Lima, Marawi, Philippines, United Nations, foreign affairs department, human rights_
-
 ### [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md)
 Gunmen killed 11 people and wounded 18 others in a church in southeastern Nigeria on Sunday in an attack arising from a feud between members of the local community, officials said.
 
