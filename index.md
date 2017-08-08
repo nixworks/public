@@ -1,4 +1,15 @@
-## [News](/news/2017/08/7/index.md)
+## [News](/news/2017/08/8/index.md)
+
+### [  The Supreme Court has junked all petitions against the burial of former president Ferdinand Marcos at the Libingan ng mga Bayani, re-affirming its earlier ruling in 8 November 2016. ](/news/2017/08/8/the-supreme-court-has-junked-all-petitions-against-the-burial-of-former-president-ferdinand-marcos-at-the-libingan-ng-mga-bayani-re-affir.md)
+_Context: Burial of Ferdinand Marcos, Ferdinand Marcos, Libingan ng mga Bayani, Supreme Court_
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/08/7/index.md)
 
 ### [Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado, and Portland, Oregon. ](/news/2017/08/7/air-carrier-penair-declares-chapter-11-bankruptcy-in-the-united-states-and-ends-service-to-denver-colorado-and-portland-oregon.md)
 Regional airline Peninsula Airways filed for bankruptcy over the weekend, blaming its financial decline on money-losing hubs in Portland, Ore., and Denver that it plans to shut down.
@@ -15,13 +26,9 @@ _Context: Baleka Mbete, Corruption in South Africa, Jacob Zuma, National Assembl
 ### [Haruo Nakajima, who portrayed the monster Godzilla from 1954 to 1972, dies at the age of 88. ](/news/2017/08/7/haruo-nakajima-who-portrayed-the-monster-godzilla-from-1954-to-1972-dies-at-the-age-of-88.md)
 _Context: Godzilla, Haruo Nakajima_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/08/6/index.md)
+## [Day Before Yesterday](/news/2017/08/6/index.md)
 
 ### [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md)
 Gunmen killed 11 people and wounded 18 others in a church in southeastern Nigeria on Sunday in an attack arising from a feud between members of the local community, officials said.
@@ -43,32 +50,7 @@ Southeast Asian foreign ministers ended an impasse on Sunday over how to address
 
 ---
 
-## [Day Before Yesterday](/news/2017/08/5/index.md)
-
-### [Searches are underway for three members of the United States Marine Corps missing after a MV-22 Osprey crashed off the coast of the Australian state of Queensland. Twenty three of the twenty six people on board have been rescued. ](/news/2017/08/5/searches-are-underway-for-three-members-of-the-united-states-marine-corps-missing-after-a-mv-22-osprey-crashed-off-the-coast-of-the-australi.md)
-A search and rescue operation is underway for three US Marines who remain missing after an military aircraft ...
-
-### [The United Nations Security Council votes 15-0 to impose sanctions on North Korea for its intercontinental ballistic missile tests. ](/news/2017/08/5/the-united-nations-security-council-votes-15a0-to-impose-sanctions-on-north-korea-for-its-intercontinental-ballistic-missile-tests.md)
-_Context: North Korea, North Korea and the United Nations, United Nations Security Council, intercontinental ballistic, missile tests_
-
-### [An improvised explosive device goes off at a mosque in Bloomington, Minnesota. No injuries were reported, and the FBI is investigating the case. ](/news/2017/08/5/an-improvised-explosive-device-goes-off-at-a-mosque-in-bloomington-minnesota-no-injuries-were-reported-and-the-fbi-is-investigating-the-c.md)
-_Context: Bloomington, Minnesota, Crime in Minnesota, FBI, improvised explosive device_
-
-### [Voters in Mauritania participate in a referendum on whether to amend the Constitution of Mauritania, with the abolition of the Senate and addition of red bands to the flag of Mauritania among the most significant proposed changes. The OCHR has criticised Mohamed Ould Abdel Aziz's government for apparent suppression of opposition protests. ](/news/2017/08/5/voters-in-mauritania-participate-in-a-referendum-on-whether-to-amend-the-constitution-of-mauritania-with-the-abolition-of-the-senate-and-ad.md)
-Opposition parties fear changes proposed by President Mohamed Ould Abdel Aziz will result in a slide towards dictatorship. 
-
-### [Iranian President Hassan Rouhani takes the oath of office to start his second four-year term. ](/news/2017/08/5/iranian-president-hassan-rouhani-takes-the-oath-of-office-to-start-his-second-four-year-term.md)
-The swearing-in ceremony for the reelected President Hassan Rouhani, which is due this Saturday...
-
-### [ Venkaiah Naidu elected as India's 13th Vice-President of India.](/news/2017/08/5/venkaiah-naidu-elected-as-india-s-13th-vice-president-of-india.md)
-M Venkaiah Naidu, the ruling BJP-led National Democratic Alliance candidate, will be India&#039;s 13th Vice President. He received 516 votes defeating the opposition candidate former West Bengal Governor Gopalkrishna Gandhi who got 244 votes. For someone who came from a family of an ordinary farmer, 68-year-old former minister said his election &quot;speaks for the beauty and strength of our democracy&quot;. Mr Naidu also promised &quot;to uphold the Constitution and the high standards set by my esteemed predecessors&quot;.
-
-### [The new Constituent Assembly votes to remove Attorney General Luisa Ortega Diaz, a prominent critic of President Nicolas Maduro, from her post. The move comes hours after troops from the National Guard surrounded her home in Caracas. ](/news/2017/08/5/the-new-constituent-assembly-votes-to-remove-attorney-general-luisa-ortega-daaz-a-prominent-critic-of-president-nicola-s-maduro-from-her.md)
-New legislative body sacks dissident chief prosecutor Luisa Ortega hours after troops block entrance to her office.
-
----
-
-## [Previous Day...](/news/2017/08/4/index.md)
+## [Previous Day...](/news/2017/08/5/index.md)
 
 ---
 
