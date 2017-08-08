@@ -49,7 +49,7 @@ Prosecutors charged two San Francisco sheriff’s deputies and a former deputy T
 Hour-by-hour news, analysis, exit polls and results throughout the day of the contests.
 
 ### [President Jacob Zuma survives a no-confidence vote in the South African Parliament in response to corruption allegations against him. ](/news/2016/03/1/president-jacob-zuma-survives-a-no-confidence-vote-in-the-south-african-parliament-in-response-to-corruption-allegations-against-him.md)
-_Context: Corruption in South Africa, Jacob Zuma, Parliament, President of South Africa_
+_Context: Corruption in South Africa, Jacob Zuma, Parliament, President_
 
 ### [Prime Minister Enda Kenny, who rejected suggestions he should resign, says he will "fully and inclusively" engage with other parties, groups and Independents, including Fianna Fail,  as he forms the country's  government. Sinn Fein says it is not interested in forming a coalition government with Kenny's  Fine Gael party. ](/news/2016/03/1/prime-minister-enda-kenny-who-rejected-suggestions-he-should-resign-says-he-will-fully-and-inclusively-engage-with-other-parties-groups.md)
 Taoiseach Enda Kenny has performed a dramatic U-turn on his pre-election promise of ruling out Fianna Fáil as a potential coalition partner.

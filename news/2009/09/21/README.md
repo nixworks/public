@@ -19,7 +19,7 @@ _Context: Craiova, Romania_
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 ### [ South African President Jacob Zuma admits disagreements do exist between the ANC and the trade union federation (COSATU)&mdash;one of its main political partners. ](/news/2009/09/21/south-african-president-jacob-zuma-admits-disagreements-do-exist-between-the-anc-and-the-trade-union-federation-cosatu-mdash-one-of-its-m.md)
-_Context: African National Congress, Congress of South African Trade Unions, Jacob Zuma, President of South Africa, South Africa_
+_Context: African National Congress, Congress of South African Trade Unions, Jacob Zuma, President, South Africa_
 
 ### [ Italy holds a state funeral for six soldiers killed in Afghanistan last week. ](/news/2009/09/21/italy-holds-a-state-funeral-for-six-soldiers-killed-in-afghanistan-last-week.md)
 _Context: Afghanistan's, Italian, state funeral_

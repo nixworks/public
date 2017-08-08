@@ -1,7 +1,7 @@
 ## [2009-08-9](/news/2009/08/9/index.md)
 
 ### [ South African opposition parties call on President Jacob Zuma to withdraw Sandile Ngcobo as Chief Justice because he failed to consult the opposition and Judicial Service Committee. ](/news/2009/08/9/south-african-opposition-parties-call-on-president-jacob-zuma-to-withdraw-sandile-ngcobo-as-chief-justice-because-he-failed-to-consult-the.md)
-_Context: Chief Justice, Jacob Zuma, Judicial Service Committee, President of South Africa, Sandile Ngcobo, South Africa_
+_Context: Chief Justice, Jacob Zuma, Judicial Service Committee, President, Sandile Ngcobo, South Africa_
 
 ### [ Sri Lanka's governing coalition wins in Jaffna but suffers a surprise defeat in Vavuniya in the country's first post-war local elections. ](/news/2009/08/9/sri-lanka-s-governing-coalition-wins-in-jaffna-but-suffers-a-surprise-defeat-in-vavuniya-in-the-country-s-first-post-war-local-elections.md)
 _Context: Jaffna, Sri Lanka, Vavuniya, coalition, local elections_

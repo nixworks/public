@@ -1,6 +1,6 @@
 ### [2017-08-7](/news/2017/08/7/index.md)
 
-# Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado and Portland, Oregon.
+# Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado and Portland, Oregon. 
 
 Regional airline Peninsula Airways filed for bankruptcy over the weekend, blaming its financial decline on money-losing hubs in Portland, Ore., and Denver that it plans to shut down.
 

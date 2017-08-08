@@ -19,7 +19,7 @@ _Context: Australia, Indonesia, people smugglers_
 _Context: 2002 Bali bombings, Australia, Dulmatin, Jakarta, Pamulang, Susilo Bambang Yudhoyono_
 
 ### [Aid worker Alicia Gamez, captured in Mauritania in 2009 by a group affiliated with Al Qaeda and taken to Mali, is released. ](/news/2010/03/10/aid-worker-alicia-gamez-captured-in-mauritania-in-2009-by-a-group-affiliated-with-al-qaeda-and-taken-to-mali-is-released.md)
-_Context: Mali, Mauritania, al-Qaeda_
+_Context: Mali, Mauritanian, al-Qaeda_
 
 ### [Boris Berezovsky is awarded 150,000 in England's High Court and wins his libel case in relation to the 2006 poisoning to death of Alexander Litvinenko. ](/news/2010/03/10/boris-berezovsky-is-awarded-ps150-000-in-england-s-high-court-and-wins-his-libel-case-in-relation-to-the-2006-poisoning-to-death-of-alexander.md)
 Boris Berezovsky won &pound;150,000 High Court libel damages over claims on a Russian TV broadcast about the radiation poisoning murder of Alexander Litvinenko.

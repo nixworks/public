@@ -13,7 +13,7 @@ _Context: Afghanistan's, Kandahar, Taliban, bomb_
 _Context: Chile, Peru_
 
 ### [ Heavy rains in Mauritania cause at least two deaths from mudslides and causes thousands of people to become homeless. ](/news/2007/08/12/heavy-rains-in-mauritania-cause-at-least-two-deaths-from-mudslides-and-causes-thousands-of-people-to-become-homeless.md)
-_Context: Mauritania, homeless_
+_Context: Mauritanian, homeless_
 
 ### [ A gunman kills two people and wounds two others before killing himself on a Dallas, Texas freeway. ](/news/2007/08/12/a-gunman-kills-two-people-and-wounds-two-others-before-killing-himself-on-a-dallas-texas-freeway.md)
 _Context: Dallas, Texas, freeway_

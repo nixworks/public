@@ -4,7 +4,7 @@
 A 17-year-old Briton became the youngest person to sail round the globe single-handed on Thursday after nine months at sea.
 
 ### [ South African President Jacob Zuma is to visit Zimbabwe for talks on the power-sharing government. ](/news/2009/08/27/south-african-president-jacob-zuma-is-to-visit-zimbabwe-for-talks-on-the-power-sharing-government.md)
-_Context: Jacob Zuma, President of South Africa, South Africa, Zimbabwe_
+_Context: Jacob Zuma, President, South Africa, Zimbabwe_
 
 ### [ Taiwan approves a visit by the Dalai Lama to comfort the victims of Typhoon Morakot. ](/news/2009/08/27/taiwan-approves-a-visit-by-the-dalai-lama-to-comfort-the-victims-of-typhoon-morakot.md)
 Visit to survivors of recent typhoon risks triggering angry reaction from Beijing.

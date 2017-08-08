@@ -35,7 +35,7 @@ _Context: 2050, Climate Change Bill, carbon emissions_
 
 ### [ Japan and Australia sign a security pact, the first defence treaty for Japan with a nation other than the United States since the end of World War II. ](/news/2007/03/13/japan-and-australia-sign-a-security-pact-the-first-defence-treaty-for-japan-with-a-nation-other-than-the-united-states-since-the-end-of-wo.md)
 ### [ The Mauritanian government announces that Sidi Ould Cheikh Abdallahi and Ahmed Ould Daddah have won the most votes in the first round of the 2007 presidential election, and their runoff election will be held on March 25. ](/news/2007/03/13/the-mauritanian-government-announces-that-sidi-ould-cheikh-abdallahi-and-ahmed-ould-daddah-have-won-the-most-votes-in-the-first-round-of-th.md)
-_Context: 2007 presidential election, Ahmed Ould Daddah, March 25, Mauritania, Sidi Ould Cheikh Abdallahi_
+_Context: 2007 presidential election, Ahmed Ould Daddah, March 25, Mauritanian, Sidi Ould Cheikh Abdallahi_
 
 ## [Previous Day...](/news/2007/03/12/index.md)
 

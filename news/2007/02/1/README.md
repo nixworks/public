@@ -22,7 +22,7 @@ _Context: Shia insurgency in Yemen, Yemen's_
 _Context: Janelle Patton, Norfolk Island_
 
 ### [ The Enhanced Fujita scale begins operational use. This scale measures the intensity of tornadoes based on the damage they cause in the United States.](/news/2007/02/1/the-enhanced-fujita-scale-begins-operational-use-this-scale-measures-the-intensity-of-tornadoes-based-on-the-damage-they-cause-in-the-unit.md)
-_Context: EF2, tornado_
+_Context: EF-2, tornado_
 
 ## [Previous Day...](/news/2007/01/31/index.md)
 

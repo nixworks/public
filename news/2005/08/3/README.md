@@ -52,7 +52,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Chris Ellison, forced marriage_
 
 ### [ Reports from Mauritania indicate that the Army has seized control of the government. State media is reportedly taken over by troops, signaling a military coup while President Ould Taya is out of the country attending the funeral of Saudi Arabia's King Fahd. ](/news/2005/08/3/reports-from-mauritania-indicate-that-the-army-has-seized-control-of-the-government-state-media-is-reportedly-taken-over-by-troops-signal.md)
-_Context: King Fahd, Mauritania, Ould Taya, Saudi Arabia_
+_Context: King Fahd, Mauritanian, Ould Taya, Saudi Arabia_
 
 ### [ In Norway, thieves steal three worthless copies of Edvard Munch's paintings from an Oslo hotel ](/news/2005/08/3/in-norway-thieves-steal-three-worthless-copies-of-edvard-munch-s-paintings-from-an-oslo-hotel.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

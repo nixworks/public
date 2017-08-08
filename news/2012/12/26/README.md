@@ -25,7 +25,7 @@ _Context: Mexico, Sinaloa_
 _Context: Japan, Prime Minister of Japan, Shinzo Abe_
 
 ### [Former South African President and anti-apartheid leader Nelson Mandela, 94, in still-fragile health, is released from the hospital in Pretoria, South Africa to receive continuing at-home care. He had had his longest period of hospitalization (more than 2 weeks) there since his 1990 release from prison, as the result of a gallstone removal operation and a lung infection. ](/news/2012/12/26/former-south-african-president-and-anti-apartheid-leader-nelson-mandela-94-in-still-fragile-health-is-released-from-the-hospital-in-preto.md)
-_Context: Nelson Mandela, President of South Africa, Pretoria, South Africa, gallstone, lung infection_
+_Context: Nelson Mandela, President, Pretoria, South Africa, gallstone, lung infection_
 
 ### [Former U.S. President, 88-year-old George H. W. Bush, still receiving visitors, remains hospitalized (since 23 November) at The Methodist Hospital in Houston, Texas, where he resides during the winter, with a receding bronchitis-like cough but with a now-rising and long-lasting fever, and has been put in intensive care on a liquids-only diet for unspecified reasons. ](/news/2012/12/26/former-u-s-president-88-year-old-george-h-w-bush-still-receiving-visitors-remains-hospitalized-since-23-november-at-the-methodist-ho.md)
 _Context: George H. W. Bush, Houston, Texas, The Methodist Hospital, U.S. President, bronchitis_

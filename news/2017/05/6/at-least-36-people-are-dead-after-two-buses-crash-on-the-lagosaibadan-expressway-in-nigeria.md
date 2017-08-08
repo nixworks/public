@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Gunmen kill eleven worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-eleven-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Nigeria_
+1. [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Nigeria_
 2. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Nigeria_
 3. [Nigerian officials report, as a result of negotiations, Boko Haram has released an estimated 82 schoolgirls who were among about 220 kidnapped from a secondary school in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-an-estimated-82-schoolgirls-who-were-among-about-220-kidnapp.md) _Context: Nigeria_
 4. [Nigerian spy chief Ayo Oke has been suspended by President Muhammadu Buhari after anti-corruption agents uncovered more than $43 million in cash at his flat in Lagos. ](/news/2017/04/19/nigerian-spy-chief-ayo-oke-has-been-suspended-by-president-muhammadu-buhari-after-anti-corruption-agents-uncovered-more-than-43-million-in.md) _Context: Nigeria_

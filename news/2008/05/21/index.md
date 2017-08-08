@@ -7,7 +7,7 @@ _Context: SN 2008D_
 _Context: Chelsea F.C., Manchester United, UEFA Champions League 2007-08, penalty shootout_
 
 ### [ The President of South Africa Thabo Mbeki calls in the South African National Defense Force to end the 2008 South Africa riots. ](/news/2008/05/21/the-president-of-south-africa-thabo-mbeki-calls-in-the-south-african-national-defense-force-to-end-the-2008-south-africa-riots.md)
-_Context: 2008 South Africa riots, President of South Africa, South African National Defense Force, Thabo Mbeki_
+_Context: 2008 South Africa riots, President, South African National Defense Force, Thabo Mbeki_
 
 ### [ The North West Frontier Province of Pakistan signs a peace deal with Taliban militants where troops are withdrawn from the Swat valley and Sharia law introduced in exchange for a halt to suicide bombings and an attack on government buildings. ](/news/2008/05/21/the-north-west-frontier-province-of-pakistan-signs-a-peace-deal-with-taliban-militants-where-troops-are-withdrawn-from-the-swat-valley-and.md)
 _Context: Khyber Pakhtunkhwa, Pakistan, Swat, Pakistan, Taliban, sharia law, suicide bombing_

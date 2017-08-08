@@ -10,7 +10,7 @@ _Context: Green Party, Ireland, Treaty of Lisbon, the second Irish referendum_
 _Context: Germany, Nachterstedt_
 
 ### [ Voters in Mauritania go to the polls for a presidential election, its first election since the coup d'tat last year. ](/news/2009/07/18/voters-in-mauritania-go-to-the-polls-for-a-presidential-election-its-first-election-since-the-coup-d-etat-last-year.md)
-_Context: Mauritania, coup d'tat, presidential election_
+_Context: Mauritanian, coup d'tat, presidential election_
 
 ### [ Palestinian Prime Minister Salam Fayyad receives a slice as Nablus bakers attempt to set a record for the world's biggest kunafa. ](/news/2009/07/18/palestinian-prime-minister-salam-fayyad-receives-a-slice-as-nablus-bakers-attempt-to-set-a-record-for-the-world-s-biggest-kunafa.md)
 _Context: Nablus, Palestinian, Prime Minister, Salam Fayyad, kunafa_

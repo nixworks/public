@@ -52,7 +52,7 @@ Former cabinet minister Andrew Mitchell is suing the Sun over claims he swore an
 _Context: Chile, Michelle Bachelet, President, president_
 
 ### [Former President of South Africa Nelson Mandela is hospitalised with a lung infection. ](/news/2013/03/28/former-president-of-south-africa-nelson-mandela-is-hospitalised-with-a-lung-infection.md)
-_Context: Nelson Mandela, President of South Africa, South Africa, lung infection_
+_Context: Nelson Mandela, President, South Africa, lung infection_
 
 ### [Italy remains in political gridlock as Pier Luigi Bersani announces that the latest attempts to form a stable government have failed. ](/news/2013/03/28/italy-remains-in-political-gridlock-as-pier-luigi-bersani-announces-that-the-latest-attempts-to-form-a-stable-government-have-failed.md)
 Italy remained in political gridlock on Thursday after the center-left leader announced he had failed to form a stable government.

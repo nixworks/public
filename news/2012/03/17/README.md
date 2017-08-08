@@ -22,7 +22,7 @@ _Context: Burma, International Labour Organization, forced labour_
 Beijing adds voice to international concern and urges restraint after Pyongyang announces plans to launch satellite.
 
 ### [Mauritania's state information agency announces that Abdullah Senussi, Muammar Gaddafi's former intelligence chief, has been arrested at the airport in Nouakchott upon arrival from Morocco. ](/news/2012/03/17/mauritania-s-state-information-agency-announces-that-abdullah-senussi-muammar-gaddafi-s-former-intelligence-chief-has-been-arrested-at-the.md)
-_Context: Abdullah Senussi, Mauritania, Morocco, Muammar Gaddafi, Nouakchott_
+_Context: Abdullah Senussi, Mauritanian, Morocco, Muammar Gaddafi, Nouakchott_
 
 ### [Belarus executes Vladislav Kovalev, one of the men convicted of the 2011 Minsk Metro bombing. ](/news/2012/03/17/belarus-executes-vladislav-kovalev-one-of-the-men-convicted-of-the-2011-minsk-metro-bombing.md)
 The two men convicted of the April 2011 Minsk subway bombing have been executed according to Belarusian state television. EU members had urged Belarus not to carry out the executions and have strongly condemned them.

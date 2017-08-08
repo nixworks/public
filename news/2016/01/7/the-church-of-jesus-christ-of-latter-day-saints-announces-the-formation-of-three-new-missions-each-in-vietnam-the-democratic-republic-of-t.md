@@ -12,7 +12,7 @@
 ### Related:
 
 1. [Indonesia executes six people for drug trafficking including foreign citizens from Brazil, Malawi, the Netherlands, Nigeria, and Vietnam. Brazil and the Netherlands withdraw their ambassadors in protest. ](/news/2015/01/18/indonesia-executes-six-people-for-drug-trafficking-including-foreign-citizens-from-brazil-malawi-the-netherlands-nigeria-and-vietnam-br.md) _Context: Nigeria, Vietnam_
-2. [Gunmen kill eleven worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-eleven-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Nigeria_
+2. [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Nigeria_
 3. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Nigeria_
 4. [Vietnam pledges on ending the trafficking and farming of bears. ](/news/2017/07/19/vietnam-pledges-on-ending-the-trafficking-and-farming-of-bears.md) _Context: Vietnam_
 5. [At least 11 people are dead after a bus and truck collide in Vietnam's Gia Lai province. ](/news/2017/05/7/at-least-11-people-are-dead-after-a-bus-and-truck-collide-in-vietnam-s-gia-lai-province.md) _Context: Vietnam_

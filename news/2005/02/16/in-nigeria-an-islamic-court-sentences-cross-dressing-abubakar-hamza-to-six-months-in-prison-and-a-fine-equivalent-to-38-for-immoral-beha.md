@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Gunmen kill eleven worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-eleven-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Nigeria_
+1. [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Nigeria_
 2. [Discovery Communications announces it will acquire Scripps Networks Interactive for US$ 14.6 billion. ](/news/2017/07/31/discovery-communications-announces-it-will-acquire-scripps-networks-interactive-for-us-14-6-billion.md) _Context: US$_
 3. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Nigeria_
 4. [Michael Kors buys Jimmy Choo for US$1.2 billion. ](/news/2017/07/25/michael-kors-buys-jimmy-choo-for-us-1-2-billion.md) _Context: US$_

@@ -25,7 +25,7 @@ An explosion in western Turkey at an ammunition store for hand grenades kills 25
 Despite Vice President Xi Jinping&#039;s cancellation, Clinton met with President Hu Jintao and other top Chinese leaders in Beijing on Tuesday and Wednesday
 
 ### [Mauritania extradites former Libyan intelligence chief Abdullah Senussi, who was arrested in the capital Nouakchott in March after fleeing Libya during the civil war in 2011. The United States insist on a fair trial for the suspect, a "milestone in (Libya's) democratic transition". ](/news/2012/09/5/mauritania-extradites-former-libyan-intelligence-chief-abdullah-senussi-who-was-arrested-in-the-capital-nouakchott-in-march-after-fleeing-l.md)
-_Context: Abdullah Senussi, Libya, Libyan Civil War, Mauritania, Nouakchott, fair trial, government officials, insist_
+_Context: Abdullah Senussi, Libya, Libyan Civil War, Mauritanian, Nouakchott, fair trial, government officials, insist_
 
 ### [A masked gunman kills one person and wounds another at a Quebec rally for the new premier Pauline Marois. ](/news/2012/09/5/a-masked-gunman-kills-one-person-and-wounds-another-at-a-quebec-rally-for-the-new-premier-pauline-marois.md)
 A masked gunman wearing a blue bathrobe opened fire during a midnight victory rally for Quebec&#x27;s new premier, killing one person and wounding another. The new premier, Pauline Marois of the separatist Parti Quebecois, was whisked off the stage by guards while giving her speech and uninjured.

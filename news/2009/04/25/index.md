@@ -7,7 +7,7 @@ Mexican President Felipe Calderon issued an emergency decree on Saturday giving 
 Authorities in Ethiopia say they have arrested 35 people suspected of plotting to overthrow the government.
 
 ### [ The African National Congress loses its supermajority in South Africa's National Assembly. ](/news/2009/04/25/the-african-national-congress-loses-its-supermajority-in-south-africa-s-national-assembly.md)
-_Context: African National Congress, National Assembly, South Africa, loses, two-thirds majority_
+_Context: African National Congress, National Assembly of South Africa, South Africa, loses, two-thirds majority_
 
 ### [ North Korea begins to reprocess fuel rods at its Yongbyon Nuclear Scientific Research Center. ](/news/2009/04/25/north-korea-begins-to-reprocess-fuel-rods-at-its-yongbyon-nuclear-scientific-research-center.md)
 _Context: North Korea, Yongbyon Nuclear Scientific Research Center, begins, nuclear fuel, reprocess_

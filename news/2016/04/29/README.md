@@ -34,7 +34,7 @@ A long-term guard and former inmates of Kerobokan speak of their loss, one year 
 NORTHKOREA-USA/PRISONER (URGENT):North Korea sentences Korean American to 10 years hard labour - Xinhua
 
 ### [A court in South Africa rules that the decision in 2009 to drop over 750 corruption charges against President Jacob Zuma was irrational and called for a review of them. However, the court ruling does not automatically reinstate the charges against Zuma as a legal team must be set up to decide on whether to charge him or not. ](/news/2016/04/29/a-court-in-south-africa-rules-that-the-decision-in-2009-to-drop-over-750-corruption-charges-against-president-jacob-zuma-was-irrational-and.md)
-_Context: Jacob Zuma, President of South Africa, South Africa_
+_Context: Jacob Zuma, President, South Africa_
 
 ### [The states of Oklahoma and Nebraska, having recently suffered a loss in their frontal attack on Colorado's state-legal cannabis policy, launch another litigation strategy to the same end. ](/news/2016/04/29/the-states-of-oklahoma-and-nebraska-having-recently-suffered-a-loss-in-their-frontal-attack-on-colorado-s-state-legal-cannabis-policy-laun.md)
 Rejected by the U.S. Supreme Court, Nebraska Attorney General Doug Peterson and his Oklahoma counterpart are trying a different strategy to halt legal marijuana in Colorado.

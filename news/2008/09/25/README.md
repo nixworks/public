@@ -25,7 +25,7 @@ _Context: British Energy, Electricit de France, Hinkley Point C nuclear power st
 _Context: Chinese, Philippines, Typhoon Hagupit_
 
 ### [ Kgalema Motlanthe is sworn in as the third post-apartheid President of South Africa. ](/news/2008/09/25/kgalema-motlanthe-is-sworn-in-as-the-third-post-apartheid-president-of-south-africa.md)
-_Context: Kgalema Motlanthe, President of South Africa, apartheid_
+_Context: Kgalema Motlanthe, President, apartheid_
 
 ### [ Dark flow, a new and unexplained cosmic phenomenon, is observed by astronomers for the first time. ](/news/2008/09/25/dark-flow-a-new-and-unexplained-cosmic-phenomenon-is-observed-by-astronomers-for-the-first-time.md)
 Latest environmental news, features and updates. Pictures, video and more. 

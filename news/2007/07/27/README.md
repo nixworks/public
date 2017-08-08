@@ -49,7 +49,7 @@ _Context: KNXV, KTVK, Phoenix, Arizona, car chase, helicopter_
 _Context: Dominique de Villepin, France, Nicolas Sarkozy, President, Prime Minister_
 
 ### [ Jailed policeman Eugene de Kock claims in an interview from prison that former South African President Frederik Willem de Klerk had hands "soaked in blood" and had ordered political killings and other crimes during the anti-apartheid conflict.  ](/news/2007/07/27/jailed-policeman-eugene-de-kock-claims-in-an-interview-from-prison-that-former-south-african-president-frederik-willem-de-klerk-had-hands.md)
-_Context: Eugene de Kock, Frederik Willem de Klerk, President of South Africa, South Africa, apartheid, kill_
+_Context: Eugene de Kock, Frederik Willem de Klerk, President, South Africa, apartheid, kill_
 
 ### [ A general strike goes into its third day in Swaziland; strikers demand democratic elections and an end to absolute monarchy. ](/news/2007/07/27/a-general-strike-goes-into-its-third-day-in-swaziland-strikers-demand-democratic-elections-and-an-end-to-absolute-monarchy.md)
 _Context: Swaziland, absolute monarchy, general strike_

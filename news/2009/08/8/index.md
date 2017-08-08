@@ -13,7 +13,7 @@ _Context: Sri Lanka, Sri Lankan Civil War, local elections_
 _Context: Hudson River, U.S., collide_
 
 ### [ A suicide bomber detonates a bomb outside the French embassy in Nouakchott, Mauritania, wounding two. The attack is the first suicide bombing in Mauritania's history.](/news/2009/08/8/a-suicide-bomber-detonates-a-bomb-outside-the-french-embassy-in-nouakchott-mauritania-wounding-two-the-attack-is-the-first-suicide-bombi.md)
-_Context: France, Mauritania, Nouakchott, detonates a bomb, suicide bomber_
+_Context: France, Mauritanian, Nouakchott, detonates a bomb, suicide bomber_
 
 ## [Previous Day...](/news/2009/08/7/index.md)
 

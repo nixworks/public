@@ -40,7 +40,7 @@ A Virginia State trooper who was shot when a suspect opened fire at a Greyhound 
 _Context: Communist Party Congress, Nguyen Thi Kim Ngan, Parliament, Politburo, Vietnam_
 
 ### [The Constitutional Court of South Africa delivered a unanimous judgement that President Jacob Zuma and the National Assembly failed to uphold the country's constitution by ignoring the findings of the Public Protector regarding public expenditure on Zuma's private homestead. ](/news/2016/03/31/the-constitutional-court-of-south-africa-delivered-a-unanimous-judgement-that-president-jacob-zuma-and-the-national-assembly-failed-to-uphol.md)
-_Context: Jacob Zuma, National Assembly, Public Protector, South African Constitutional Court_
+_Context: Jacob Zuma, National Assembly of South Africa, Public Protector, South African Constitutional Court_
 
 ### [Pennsylvania's Supreme Court upholds the previous court ruling that dismissed the case against Ted Cruz which challenged his eligibility to appear on the state's GOP primary ballot, and serve as president. ](/news/2016/03/31/pennsylvania-s-supreme-court-upholds-the-previous-court-ruling-that-dismissed-the-case-against-ted-cruz-which-challenged-his-eligibility-to.md)
 &quot;With one blasé comment, this entire foundation of US grand strategy is just blasted away.&quot;

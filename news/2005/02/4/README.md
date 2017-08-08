@@ -13,7 +13,7 @@ _Context: Congo Free State, Democratic Republic of Congo, King Lopold of the Bel
 _Context: Lord's Resistance Army, Uganda, ceasefire_
 
 ### [ In Mauritania, four army officers who plotted coups against President Maaouya Ould Sid'Ahmed Taya each receive a life sentence instead of the expected death penalty after a four-month trial. The sentenced include former army major Saleh Ould Hanenna. ](/news/2005/02/4/in-mauritania-four-army-officers-who-plotted-coups-against-president-maaouya-ould-sid-ahmed-taya-each-receive-a-life-sentence-instead-of-t.md)
-_Context: Mauritania, Ould Taya, President, Saleh Ould Hanenna, coup, death penalty, life sentence_
+_Context: Mauritanian, Ould Taya, President, Saleh Ould Hanenna, coup, death penalty, life sentence_
 
 ### [ Watergate papers of ''Washington Post'' reporters Bob Woodward and Carl Bernstein are announced to go on public display. The reporters still do not intend to reveal the identity of Deep Throat. ](/news/2005/02/4/watergate-papers-of-washington-post-reporters-bob-woodward-and-carl-bernstein-are-announced-to-go-on-public-display-the-reporters-stil.md)
 _Context: Bob Woodward, Carl Bernstein, Deep Throat, Washington Post, Watergate_

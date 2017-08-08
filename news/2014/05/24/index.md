@@ -34,7 +34,7 @@ _Context: military coup_
 Voters in two European Union countries, the Czech Republic and Ireland, began voting on May 23 in the 2014 European Parliament elections. Voting in the Czech Republic continues on May 24, when Latv…
 
 ### [Jacob Zuma is sworn in for a second term as President of South Africa following his recent election victory. ](/news/2014/05/24/jacob-zuma-is-sworn-in-for-a-second-term-as-president-of-south-africa-following-his-recent-election-victory.md)
-_Context: Jacob Zuma, President of South Africa, election_
+_Context: Jacob Zuma, President, election_
 
 ### [Malawian general election:The President of Malawi Joyce Banda annuls the general elections in which she was a candidate because of claimed electoral irregularities. ](/news/2014/05/24/malawian-general-election-pthe-president-of-malawi-joyce-banda-annuls-the-general-elections-in-which-she-was-a-candidate-because-of-claimed.md)
 _Context: Joyce Banda, Malawian general election, 2014, President of Malawi_

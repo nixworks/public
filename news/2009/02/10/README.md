@@ -34,7 +34,7 @@ _Context: Bolivia, Lesotho, Swaziland, Venezuela, national, visa-free travel_
 Mexico will start a national register of mobile phone users that will include fingerprinting all customers in an effort to catch criminals who use the devices to extort money and negotiate kidnapping ransoms.
 
 ### [ An EF4 tornado kills at least eight people and injures 50 in Lone Grove, Oklahoma, United States. ](/news/2009/02/10/an-ef4-tornado-kills-at-least-eight-people-and-injures-50-in-lone-grove-oklahoma-united-states.md)
-_Context: EF2, Lone Grove, Oklahoma!, kills, tornado_
+_Context: EF-2, Lone Grove, Oklahoma!, kills, tornado_
 
 ### [ Fifty thousand people protest living costs in Guadeloupe and Martinique. ](/news/2009/02/10/fifty-thousand-people-protest-living-costs-in-guadeloupe-and-martinique.md)
 _Context: Guadeloupe, Martinique, living costs, ongoing general strikes_

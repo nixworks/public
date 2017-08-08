@@ -82,7 +82,7 @@ _Context: President of the Dominican Republic, Salvador Jorge Blanco, Santo Domi
 The Sri Lankan government says 200 detained former Tamil Tiger rebels have passed a university entrance exam while in prison.
 
 ### [Cape Town is to name a street after former President of South Africa, Nelson Mandela. ](/news/2010/12/26/cape-town-is-to-name-a-street-after-former-president-of-south-africa-nelson-mandela.md)
-_Context: Cape Town, Nelson Mandela, President of South Africa_
+_Context: Cape Town, Nelson Mandela, President_
 
 ## [Previous Day...](/news/2010/12/25/index.md)
 

@@ -37,7 +37,7 @@ _Context: Aung San Suu Kyi, Burma, National League for Democracy_
 The people of the Falkland Islands are voting in a referendum on whether to remain a British overseas territory, amid claims on the islands by Argentina.
 
 ### [Former President of South Africa Nelson Mandela is released from the hospital after "successful" medical tests. ](/news/2013/03/10/former-president-of-south-africa-nelson-mandela-is-released-from-the-hospital-after-successful-medical-tests.md)
-_Context: Nelson Mandela, President of South Africa, South Africa, medical tests_
+_Context: Nelson Mandela, President, South Africa, medical tests_
 
 ## [Previous Day...](/news/2013/03/9/index.md)
 

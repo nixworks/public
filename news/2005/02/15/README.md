@@ -16,7 +16,7 @@ _Context: 2004, Chinese, Fuxin City, Liaoning, mine, province_
 _Context: European Court of Human Rights, Human rights, McDonald's, McLibel case, libel_
 
 ### [ In South Africa, President Thabo Mbeki announces that the country's elite crime-fighting unit Scorpions will be investigated. There have been claims of political vendettas and mismanagement of funds. ](/news/2005/02/15/in-south-africa-president-thabo-mbeki-announces-that-the-country-s-elite-crime-fighting-unit-scorpions-will-be-investigated-there-have-be.md)
-_Context: President of South Africa, Scorpions, Thabo Mbeki, management, vendetta_
+_Context: President, Scorpions, Thabo Mbeki, management, vendetta_
 
 ### [ United States, India and European Union countries recall their ambassadors from Nepal in protest of the takeover by King Gyanendra. ](/news/2005/02/15/united-states-india-and-european-union-countries-recall-their-ambassadors-from-nepal-in-protest-of-the-takeover-by-king-gyanendra.md)
 _Context: European Union, Gyanendra of Nepal, Nepal, ambassador_

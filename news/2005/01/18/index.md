@@ -13,7 +13,7 @@ _Context: National Democratic Alliance, Sudan, peace treaty, umbrella group_
 _Context: Airbus, Airbus A380, France, Toulouse, airliner_
 
 ### [ The United Nations World Food Program appeals for aid to Mauritania, after drought and large locust swarms destroy the harvest. ](/news/2005/01/18/the-united-nations-world-food-program-appeals-for-aid-to-mauritania-after-drought-and-large-locust-swarms-destroy-the-harvest.md)
-_Context: Mauritania, United Nations World Food Program, drought, locust, swarm_
+_Context: Mauritanian, United Nations World Food Program, drought, locust, swarm_
 
 ### [ A U.N. World Conference on Disaster Reduction in Kobe, Japan begins. About 3,000 government officials, non-governmental experts and other specialists from around the world will discuss the growing trend of people affected by natural disasters. ](/news/2005/01/18/a-u-n-world-conference-on-disaster-reduction-in-kobe-japan-begins-about-3-000-government-officials-non-governmental-experts-and-other-s.md)
 _Context: Kobe, Japan, United Nations, World Conference on Disaster Reduction, natural disaster_

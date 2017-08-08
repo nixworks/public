@@ -52,7 +52,7 @@ _Context: Japan_
 _Context: Dmitry Medvedev, Russia, Russian President Vladimir Putin_
 
 ### [ Former President of South Africa Nelson Mandela denies writing a foreword praising Republic of the Congo President Denis Sassou Nguesso's biography, ''Straight Speaking for Africa''. ](/news/2009/10/21/former-president-of-south-africa-nelson-mandela-denies-writing-a-foreword-praising-republic-of-the-congo-president-denis-sassou-nguesso-s-b.md)
-_Context: Denis Sassou Nguesso, Nelson Mandela, President, President of South Africa, Republic of the Congo, South Africa, foreword_
+_Context: Denis Sassou Nguesso, Nelson Mandela, President, President, Republic of the Congo, South Africa, foreword_
 
 ## [Previous Day...](/news/2009/10/20/index.md)
 

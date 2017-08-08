@@ -7,7 +7,7 @@ _Context: Chinese_
 _Context: Let L-410 Turbolet, Los Roques Archipelago, Transaven crash, Venezuela_
 
 ### [ The 2008 Dakar Rally is cancelled due to safety concerns in Mauritania. ](/news/2008/01/4/the-2008-dakar-rally-is-cancelled-due-to-safety-concerns-in-mauritania.md)
-_Context: 2008 Dakar Rally, Mauritania_
+_Context: 2008 Dakar Rally, Mauritanian_
 
 ### [ North Korean officials accuse the United States of not fulfilling its promise of humanitarian aid after an international disarmament agreement. ](/news/2008/01/4/north-korean-officials-accuse-the-united-states-of-not-fulfilling-its-promise-of-humanitarian-aid-after-an-international-disarmament-agreem.md)
 _Context: North Korea, U.S., aid, international disarmament agreement_

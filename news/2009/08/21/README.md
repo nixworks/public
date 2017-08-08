@@ -7,7 +7,7 @@ Argentina&rsquo;s soccer championship kicks Friday night after the government st
 Brazil has become Chile&rsquo;s third largest trading partner, displacing Japan, according to recently released government trade figures. Total July trade between Chile and Brazil was US$547 million, compared to the US$446 million in trade between Chile and Japan during July.
 
 ### [ South African President Jacob Zuma makes a pilgrimage to a former anti-apartheid guerrilla camp in Angola where he lays a wreath and pays tribute to fallen comrades. ](/news/2009/08/21/south-african-president-jacob-zuma-makes-a-pilgrimage-to-a-former-anti-apartheid-guerrilla-camp-in-angola-where-he-lays-a-wreath-and-pays-t.md)
-_Context: Angola, Jacob Zuma, President of South Africa, South Africa, apartheid_
+_Context: Angola, Jacob Zuma, President, South Africa, apartheid_
 
 ### [ The presidents or heads of state of five nations, including Seretse Ian Khama of Botswana and Robert Mugabe of Zimbabwe, along with ministers and musical troupes gather at the cricket stadium in Oranjemund, Namibia, for a welcoming ceremony at the conclusion of explorer Kingsley Holgate's latest expedition, which took him through nine countries. ](/news/2009/08/21/the-presidents-or-heads-of-state-of-five-nations-including-seretse-ian-khama-of-botswana-and-robert-mugabe-of-zimbabwe-along-with-ministe.md)
 _Context: Botswana, Kingsley Holgate, Namibia, Oranjemund, Robert Mugabe, Seretse Ian Khama, Zimbabwe, cricketer_

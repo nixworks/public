@@ -16,7 +16,7 @@ _Context: United Nations, developing countries, mobile phone_
 _Context: Chinese, blocks mentions_
 
 ### [Mauritania recalls its ambassador from Mali after the latter released four members of Al-Qaeda in the Islamic Maghreb. ](/news/2010/02/23/mauritania-recalls-its-ambassador-from-mali-after-the-latter-released-four-members-of-al-qaeda-in-the-islamic-maghreb.md)
-_Context: Al Qaeda in the Islamic Maghreb, Mali, Mauritania, its ambassador_
+_Context: Al Qaeda in the Islamic Maghreb, Mali, Mauritanian, its ambassador_
 
 ### [Iranian authorities arrest the leader of the Jundallah, Abdolmalek Rigi, a Sunni militant organisation based in southeastern Iran. ](/news/2010/02/23/iranian-authorities-arrest-the-leader-of-the-jundallah-abdolmalek-rigi-a-sunni-militant-organisation-based-in-southeastern-iran.md)
 _Context: Abdolmalek Rigi, Iran, Jundallah, Sunni_

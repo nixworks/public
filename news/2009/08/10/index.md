@@ -1,7 +1,7 @@
 ## [2009-08-10](/news/2009/08/10/index.md)
 
 ### [ In an open letter four South African opposition leaders accuse President Jacob Zuma of abuse of power after his naming of Sandile Ngcobo as Chief Justice. The office of President Jacob Zuma responds by saying there was "nothing unconstitutional" in Zuma's action. ](/news/2009/08/10/in-an-open-letter-four-south-african-opposition-leaders-accuse-president-jacob-zuma-of-abuse-of-power-after-his-naming-of-sandile-ngcobo-as.md)
-_Context: Chief Justice, Jacob Zuma, President of South Africa, Sandile Ngcobo, South Africa_
+_Context: Chief Justice, Jacob Zuma, President, Sandile Ngcobo, South Africa_
 
 ### [ The UNASUR summit opens in Quito to discuss issues such as Venezuela's "ethics responsibility" clause, Colombian military bases and the Honduras crisis. ](/news/2009/08/10/the-unasur-summit-opens-in-quito-to-discuss-issues-such-as-venezuela-s-aethics-responsibilitya-clause-colombian-military-bases-and-the.md)
 An &ldquo;ethics responsibly&rdquo; clause for the media and a strong criticism of the current financial architecture in South America and the global crisis are two controversial issues added to the already charged agenda of the Unasur summit which opens Monday in Quito, Ecuador.

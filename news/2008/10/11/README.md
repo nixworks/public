@@ -10,7 +10,7 @@ _Context: G7, George W. Bush, President of the United States, U.S._
 _Context: International Monetary Fund, housing crisis_
 
 ### [ Former South African President Thabo Mbeki will mediate between the Movement for Democratic Change and Zimbabwean President Robert Mugabe's government after Mugabe takes control of ministries that command the military and the police, an action that allegedly violates the power-sharing agreement reached last month. ](/news/2008/10/11/former-south-african-president-thabo-mbeki-will-mediate-between-the-movement-for-democratic-change-and-zimbabwean-president-robert-mugabe-s.md)
-_Context: Movement for Democratic Change, Politics of Zimbabwe, President, President of South Africa, Robert Mugabe, South Africa, Thabo Mbeki, Zimbabwe, military, police, power-sharing talks_
+_Context: Movement for Democratic Change, Politics of Zimbabwe, President, President, Robert Mugabe, South Africa, Thabo Mbeki, Zimbabwe, military, police, power-sharing talks_
 
 ### [ The U.S. State Department removes North Korea from its list of sponsors of terrorism. ](/news/2008/10/11/the-u-s-state-department-removes-north-korea-from-its-list-of-sponsors-of-terrorism.md)
 _Context: North Korea, State Department's, state sponsor of terrorism_

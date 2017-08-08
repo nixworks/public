@@ -20,7 +20,7 @@ _Context: Aung San Suu Kyi, State Peace and Development Council, house arrest_
 _Context: Chinese, Mianyang, Tangjiashan Lake, deadly earthquake, landslide dam_
 
 ### [ Thabo Mbeki, the President of South Africa, leaves for Japan to attend a conference on African development despite concerns about the 2008 South African riots. ](/news/2008/05/27/thabo-mbeki-the-president-of-south-africa-leaves-for-japan-to-attend-a-conference-on-african-development-despite-concerns-about-the-2008.md)
-_Context: 2008 South African riots, Africa, Japan, President of South Africa, Thabo Mbeki_
+_Context: 2008 South African riots, Africa, Japan, President, Thabo Mbeki_
 
 ### [ Protesting soldiers seize the deputy head of the Army of Guinea a week after Lansana Kouyate is dismissed as Prime Minister. ](/news/2008/05/27/protesting-soldiers-seize-the-deputy-head-of-the-army-of-guinea-a-week-after-lansana-kouyate-is-dismissed-as-prime-minister.md)
 _Context: Guinean military, Lansana Kouyate, Prime Minister_

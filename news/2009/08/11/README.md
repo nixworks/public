@@ -4,7 +4,7 @@
 Costa Rican President Oscar Arias is said to have the H1N1 virus. He was placed under medical care at his home, but he will not delegate power in the meantime, Presidency Minister Rodrigo Arias said.
 
 ### [ A court ruling in Pretoria bars President Jacob Zuma from appointing a successor to axed prosecutions chief Vusi Pikoli. ](/news/2009/08/11/a-court-ruling-in-pretoria-bars-president-jacob-zuma-from-appointing-a-successor-to-axed-prosecutions-chief-vusi-pikoli.md)
-_Context: Jacob Zuma, President of South Africa, Pretoria, Vusi Pikoli_
+_Context: Jacob Zuma, President, Pretoria, Vusi Pikoli_
 
 ### [ UNASUR leaders express fresh concerns over Colombian plans to grant United States troops access to its military bases but cannot agree on a declaration to formally condemn the proposals. Venezuelan President Hugo Chavez warns that "the winds of war are beginning to blow" across the region. ](/news/2009/08/11/unasur-leaders-express-fresh-concerns-over-colombian-plans-to-grant-united-states-troops-access-to-its-military-bases-but-cannot-agree-on-a.md)
 Leaders from the Union of South American Nations, Unasur meeting in a regional summit in Ecuador expressed fresh concerns over Colombian plans to grant US troops access to its military bases but could not agree on a declaration to formally condemn the proposals.

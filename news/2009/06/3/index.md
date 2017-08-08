@@ -19,7 +19,7 @@ _Context: India, Lok Sabha, MP, Meira Kumar, Parliament of India, Speaker, becom
 _Context: Barack Obama, Osama bin Laden, President of the United States, U.S., al-Qaeda, cassette, criticizes_
 
 ### [ President Jacob Zuma vows to create 500,000 jobs through 2009 in South Africa's State of the Nation Address. ](/news/2009/06/3/president-jacob-zuma-vows-to-create-500-000-jobs-through-2009-in-south-africa-s-state-of-the-nation-address.md)
-_Context: 2009, Jacob Zuma, President of South Africa, South Africa, State of the Nation Address_
+_Context: 2009, Jacob Zuma, President, South Africa, State of the Nation Address_
 
 ### [ The Nigerian government recaptures 130 of 150 inmates who escaped from a prison in Enugu. ](/news/2009/06/3/the-nigerian-government-recaptures-130-of-150-inmates-who-escaped-from-a-prison-in-enugu.md)
 _Context: Enugu, Nigeria, government, prison escape_

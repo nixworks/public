@@ -14,7 +14,7 @@
 ### Related:
 
 1. [Nigerian Sharia conflict:Seven French tourists are kidnapped by gunmen near Waza National Park in northern Cameroon, near the border with Nigeria.  President of France Francois Hollande states that the Islamist group Boko Haram may be responsible. ](/news/2013/02/19/nigerian-sharia-conflict-pseven-french-tourists-are-kidnapped-by-gunmen-near-waza-national-park-in-northern-cameroon-near-the-border-with-n.md) _Context: France, Nigeria_
-2. [Gunmen kill eleven worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-eleven-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Nigeria_
+2. [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Nigeria_
 3. [French ecology minister Nicolas Hulot announces France is to ban the sale of petrol and diesel vehicles by 2040. ](/news/2017/07/6/french-ecology-minister-nicolas-hulot-announces-france-is-to-ban-the-sale-of-petrol-and-diesel-vehicles-by-2040.md) _Context: France_
 4. [France plans to make vaccines mandatory for children in 2018. ](/news/2017/07/5/france-plans-to-make-vaccines-mandatory-for-children-in-2018.md) _Context: France_
 5. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Nigeria_

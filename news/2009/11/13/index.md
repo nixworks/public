@@ -19,7 +19,7 @@ _Context: Democratic, Louisiana, U.S., U.S. state, United States Congress, Willi
 The discovery, which came out of a mission a month ago, confirmed scientists’ suspicions and could help explorers.
 
 ### [ South African President Jacob Zuma says the police do not have a "licence to kill" after recent incidents of innocent people being killed by police. ](/news/2009/11/13/south-african-president-jacob-zuma-says-the-police-do-not-have-a-licence-to-kill-after-recent-incidents-of-innocent-people-being-killed-b.md)
-_Context: Jacob Zuma, President of South Africa, South Africa_
+_Context: Jacob Zuma, President, South Africa_
 
 ### [ Two people are killed and 43 rescued from a bomb shelter in a fire that triggered multiple explosions at an arms depot near Ulyanovsk, western Russia. ](/news/2009/11/13/two-people-are-killed-and-43-rescued-from-a-bomb-shelter-in-a-fire-that-triggered-multiple-explosions-at-an-arms-depot-near-ulyanovsk-west.md)
 Thirty-five people missing after series of blasts at depot outside city of Ulyanovsk.

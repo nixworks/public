@@ -1,13 +1,16 @@
 ## [News](/news/2017/08/7/index.md)
 
-### [Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado and Portland, Oregon.](/news/2017/08/7/air-carrier-penair-declares-chapter-11-bankruptcy-in-the-united-states-and-ends-service-to-denver-colorado-and-portland-oregon.md)
+### [Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado and Portland, Oregon. ](/news/2017/08/7/air-carrier-penair-declares-chapter-11-bankruptcy-in-the-united-states-and-ends-service-to-denver-colorado-and-portland-oregon.md)
 Regional airline Peninsula Airways filed for bankruptcy over the weekend, blaming its financial decline on money-losing hubs in Portland, Ore., and Denver that it plans to shut down.
+
+### [Two more Filipino journalists are murdered in a single day adding to toll of hundreds of journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-single-day-adding-to-toll-of-hundreds-of-journalists-killed-since-2000.md)
+ZAMBOANGA, Philippines (AFP) - Two journalists have been shot dead in two days in separate incidents in the Philippines, reinforcing the country&#039;s image as one of the world&#039;s most dangerous for media workers, officials said Monday (Aug 7).. Read more at straitstimes.com.
 
 ### [Results from Saturday's constitutional referendum show Mauritanians have voted to abolish the Senate. Turnout was 53.73%, with 85% of voters supporting the change, according to officials. ](/news/2017/08/7/results-from-saturday-s-constitutional-referendum-show-mauritanians-have-voted-to-abolish-the-senate-turnout-was-53-73-with-85-of-voters.md)
 The referendum result is seen as a victory for the president, accused of trying to stay in power.
 
 ### [The Speaker of the National Assembly of South Africa, Baleka Mbete, announces that a vote of no confidence in President Jacob Zuma will be held by secret ballot. The vote, to be held on 8 August 2017, will be the eighth vote of no confidence against the president and the first by secret ballot. ](/news/2017/08/7/the-speaker-of-the-national-assembly-of-south-africa-baleka-mbete-announces-that-a-vote-of-no-confidence-in-president-jacob-zuma-will-be-h.md)
-_Context: Baleka Mbete, Jacob Zuma, National Assembly of South Africa, President, Speaker, secret ballot_
+_Context: Baleka Mbete, Corruption in South Africa, Jacob Zuma, National Assembly of South Africa, President, Speaker, secret ballot_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -16,6 +19,9 @@ Most of the daily information we see on the mainstream media today is the news e
 ---
 
 ## [Yesterday](/news/2017/08/6/index.md)
+
+### [Philippines senator Leila de Lima requests the foreign affairs department to invite the United Nations for an investigation on alleged human rights violations in Marawi. ](/news/2017/08/6/philippines-senator-leila-de-lima-requests-the-foreign-affairs-department-to-invite-the-united-nations-for-an-investigation-on-alleged-human.md)
+_Context: Battle of Marawi, Leila de Lima, Marawi, Philippines, United Nations, foreign affairs department, human rights_
 
 ### [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md)
 Gunmen killed 11 people and wounded 18 others in a church in southeastern Nigeria on Sunday in an attack arising from a feud between members of the local community, officials said.

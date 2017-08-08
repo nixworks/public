@@ -7,7 +7,7 @@ A suicide bomber in an explosive-laden car rammed into a police station in Pesha
 _Context: 2011 Yemeni uprising, Sana'a, Yemen's_
 
 ### [South African President Jacob Zuma will visit Libya for talks with  Libyan leader Muammar Gaddafi, in renewed efforts by the African Union to broker a cease-fire in the 2011 Libyan civil war. ](/news/2011/05/25/south-african-president-jacob-zuma-will-visit-libya-for-talks-with-libyan-leader-muammar-gaddafi-in-renewed-efforts-by-the-african-union-t.md)
-_Context: African Union, Jacob Zuma, Libya, Libyan Civil War, Muammar Gaddafi, President of South Africa, South Africa_
+_Context: African Union, Jacob Zuma, Libya, Libyan Civil War, Muammar Gaddafi, President, South Africa_
 
 ### [Police in the eastern European state of Georgia use teargas to disperse a protest in central Tbilisi. ](/news/2011/05/25/police-in-the-eastern-european-state-of-georgia-use-teargas-to-disperse-a-protest-in-central-tbilisi.md)
 Injuries reported as authorities move in with tear gas and truncheons to break up demonstration.

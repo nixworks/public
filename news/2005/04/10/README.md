@@ -10,7 +10,7 @@ _Context: Mainland Affairs Council, People's Daily, Taiwan, Taiwan, Xinhua News 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Former South African President FW de Klerk has called for a new political party to be set up following the dissolution of the New National Party. ](/news/2005/04/10/former-south-african-president-fw-de-klerk-has-called-for-a-new-political-party-to-be-set-up-following-the-dissolution-of-the-new-national.md)
-_Context: FW de Klerk, New National Party, President of South Africa, South Africa, political party_
+_Context: FW de Klerk, New National Party, President, South Africa, political party_
 
 ### [ Israeli-Palestinian Conflict: Israel arrests Hamas leader Sheikh Hassan Yousef on his return home after he illegally makes his way from Ramallah to the Al-Aqsa Mosque to deliver a sermon. ](/news/2005/04/10/israeli-palestinian-conflict-p-israel-arrests-hamas-leader-sheikh-hassan-yousef-on-his-return-home-after-he-illegally-makes-his-way-from-ra.md)
 _Context: Al-Aqsa Mosque, Hamas, Israel, Israeli-Palestinian conflict, Ramallah, Sheikh Hassan Yousef, mosque_

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [A sewage leak, due a single toilet, contaminated about 200 passengers's bags at Nashville International Airport, according to Southwest Airlines. ](/news/2017/08/3/a-sewage-leak-due-a-single-toilet-contaminated-about-200-passengers-s-bags-at-nashville-international-airport-according-to-southwest-airl.md) _Context: sewage_
+1. [A sewage leak, due to a single toilet, contaminated about 200 passengers's bags at Nashville International Airport, according to Southwest Airlines. ](/news/2017/08/3/a-sewage-leak-due-to-a-single-toilet-contaminated-about-200-passengers-s-bags-at-nashville-international-airport-according-to-southwest-a.md) _Context: sewage_
 2. [The Gaza Strip's sole power plant is shut down due to running out of fuel, amid unpaid bills and a dispute over tax bills on fuel imports to the blockaded Palestinian territory. ](/news/2017/04/16/the-gaza-strip-s-sole-power-plant-is-shut-down-due-to-running-out-of-fuel-amid-unpaid-bills-and-a-dispute-over-tax-bills-on-fuel-imports-to.md) _Context: Gaza Strip_
 3. [An Israeli Army tank kills a Palestinian teenager and wounds two others near the Gaza border. ](/news/2017/03/22/an-israeli-army-tank-kills-a-palestinian-teenager-and-wounds-two-others-near-the-gaza-border.md) _Context: Gaza Strip_
 4. [An airstrike hits a tunnel in the Gaza Strip near the Egyptian border, killing at least two people and injuring five more. It is unclear who launched the airstrike. ](/news/2017/02/9/an-airstrike-hits-a-tunnel-in-the-gaza-strip-near-the-egyptian-border-killing-at-least-two-people-and-injuring-five-more-it-is-unclear-who.md) _Context: Gaza Strip_

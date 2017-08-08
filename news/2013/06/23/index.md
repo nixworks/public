@@ -34,7 +34,7 @@ Shootout that killed opposition activist and dispute over who certifies ballots 
 Palestinian President Mahmoud Abbas on Sunday accepted the resignation of his new prime minister, whose quick departure clouded efforts to project government stability after Western favorite Salam Fayyad quit the post.
 
 ### [Nelson Mandela, former President of South Africa, is in a critical condition after his lung infection takes a turn for the worse. ](/news/2013/06/23/nelson-mandela-former-president-of-south-africa-is-in-a-critical-condition-after-his-lung-infection-takes-a-turn-for-the-worse.md)
-_Context: Nelson Mandela, President of South Africa_
+_Context: Nelson Mandela, President_
 
 ## [Previous Day...](/news/2013/06/22/index.md)
 

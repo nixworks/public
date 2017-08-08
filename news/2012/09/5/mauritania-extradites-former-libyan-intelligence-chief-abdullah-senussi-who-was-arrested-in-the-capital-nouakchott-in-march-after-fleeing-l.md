@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Mauritania's state information agency announces that Abdullah Senussi, Muammar Gaddafi's former intelligence chief, has been arrested at the airport in Nouakchott upon arrival from Morocco. ](/news/2012/03/17/mauritania-s-state-information-agency-announces-that-abdullah-senussi-muammar-gaddafi-s-former-intelligence-chief-has-been-arrested-at-the.md) _Context: Abdullah Senussi, Mauritania, Nouakchott_
+1. [Mauritania's state information agency announces that Abdullah Senussi, Muammar Gaddafi's former intelligence chief, has been arrested at the airport in Nouakchott upon arrival from Morocco. ](/news/2012/03/17/mauritania-s-state-information-agency-announces-that-abdullah-senussi-muammar-gaddafi-s-former-intelligence-chief-has-been-arrested-at-the.md) _Context: Abdullah Senussi, Mauritanian, Nouakchott_
 2. [The US Deputy Secretary of State William Burns meets with government officials in Libya about last week's deadly attack at the US consulate in Benghazi. ](/news/2012/09/20/the-us-deputy-secretary-of-state-william-burns-meets-with-government-officials-in-libya-about-last-week-s-deadly-attack-at-the-us-consulate.md) _Context: Libya, government officials_
 3. [A Libyan starts court proceedings against 41 people accused of helping Muammar Gaddafi to attempt to suppress the opposition in the Libyan Civil War. ](/news/2012/02/5/a-libyan-starts-court-proceedings-against-41-people-accused-of-helping-muammar-gaddafi-to-attempt-to-suppress-the-opposition-in-the-libyan-c.md) _Context: Libya, Libyan Civil War_
 4. [The United Nations says detainees from Libya's civil war are being tortured. ](/news/2012/01/26/the-united-nations-says-detainees-from-libya-s-civil-war-are-being-tortured.md) _Context: Libya, Libyan Civil War_

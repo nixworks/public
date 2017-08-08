@@ -1,7 +1,7 @@
 ## [2009-08-7](/news/2009/08/7/index.md)
 
 ### [ The leaders of three South African opposition parties urge President Jacob Zuma to withdraw his statement on the nomination of Sandile Ngcobo to replace outgoing Chief Justice Pius Langa, calling it "unconstitutional". ](/news/2009/08/7/the-leaders-of-three-south-african-opposition-parties-urge-president-jacob-zuma-to-withdraw-his-statement-on-the-nomination-of-sandile-ngco.md)
-_Context: Chief Justice, Jacob Zuma, Pius Langa, President of South Africa, Sandile Ngcobo, South Africa_
+_Context: Chief Justice, Jacob Zuma, Pius Langa, President, Sandile Ngcobo, South Africa_
 
 ### [ Senator Miguel Carrioza says the Congress of Paraguay is not interested in considering the protocol for Venezuela's incorporation to Mercosur. ](/news/2009/08/7/senator-miguel-carrioza-says-the-congress-of-paraguay-is-not-interested-in-considering-the-protocol-for-venezuelaas-incorporation-to-merc.md)
 The Paraguayan Congress is not interested in considering the protocol for Venezuela&rsquo;s incorporation to Mercosur said Senator Miguel Carrioza, president of the Upper house.

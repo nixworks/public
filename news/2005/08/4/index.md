@@ -10,7 +10,7 @@ _Context: Betar Illit, Bethlehem, Israel, Israeli settlement, Israeli-Palestinia
 _Context: Monetary Policy Committee, United Kingdom_
 
 ### [ The leaders of the recent bloodless Coup in Mauritania name Ely Ould Mohamed Vall, former national police chief,  as the new president of the country ](/news/2005/08/4/the-leaders-of-the-recent-bloodless-coup-in-mauritania-name-ely-ould-mohamed-vall-former-national-police-chief-as-the-new-president-of-t.md)
-_Context: Ely Ould Mohamed Vall, Mauritania_
+_Context: Ely Ould Mohamed Vall, Mauritanian_
 
 ### [ Scientists in Seoul National University, South Korea, have cloned a dog named Snuppy ](/news/2005/08/4/scientists-in-seoul-national-university-south-korea-have-cloned-a-dog-named-snuppy.md)
 _Context: Seoul National University, Snuppy, South Korea, cloning_
@@ -22,7 +22,7 @@ _Context: 2008, 2020, Labour Party, Waitangi Tribunal_
 _Context: Communist Party of the Philippines, Philippines_
 
 ### [ The African Union suspends Mauritania from the group after the recent coup.  ](/news/2005/08/4/the-african-union-suspends-mauritania-from-the-group-after-the-recent-coup.md)
-_Context: African Union, Mauritania, coup_
+_Context: African Union, Mauritanian, coup_
 
 ### [ Portuguese firefighters fight huge forest fires in the districts of Aveiro, Braga and Porto ](/news/2005/08/4/portuguese-firefighters-fight-huge-forest-fires-in-the-districts-of-aveiro-braga-and-porto.md)
 _Context: Aveiro, Braga, Porto, Portugal, forest fire_

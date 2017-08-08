@@ -12,7 +12,7 @@
 ### Related:
 
 1. [Nigerian writer and literary icon Chinua Achebe dies at the age of 82. ](/news/2013/03/21/nigerian-writer-and-literary-icon-chinua-achebe-dies-at-the-age-of-82.md) _Context: Chinua Achebe, Nigeria_
-2. [Gunmen kill eleven worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-eleven-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Nigeria_
+2. [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Nigeria_
 3. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Nigeria_
 4. [ David Grossman wins the Man Booker International Prize for his novel ''A Horse Walks Into a Bar''. ](/news/2017/06/15/david-grossman-wins-the-man-booker-international-prize-for-his-novel-a-horse-walks-into-a-bar.md) _Context: Man Booker International Prize_
 5. [Nigerian officials report, as a result of negotiations, Boko Haram has released an estimated 82 schoolgirls who were among about 220 kidnapped from a secondary school in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-an-estimated-82-schoolgirls-who-were-among-about-220-kidnapp.md) _Context: Nigeria_

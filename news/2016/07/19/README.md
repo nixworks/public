@@ -4,7 +4,7 @@
 At least 56 civilians were killed on Tuesday in air strikes north of the besieged Islamic State-held city of Manbij in northern Syria, and residents said they believed the attack was carried out by U.S.-led warplanes, a monitoring group said.
 
 ### [ 2016 Nampala attack: At least 12 soldiers are killed and 27 others injured after unidentified militants briefly overrun a government base in central Mali, near the border with Mauritania. The attackers also burn and loot the adjacent village of Nampala. ](/news/2016/07/19/2016-nampala-attack-at-least-12-soldiers-are-killed-and-27-others-injured-after-unidentified-militants-briefly-overrun-a-government-base-i.md)
-_Context: Mali, Mauritania, Nampala, Nampala attack, Northern Mali conflict_
+_Context: Mali, Mauritanian, Nampala, Nampala attack, Northern Mali conflict_
 
 ### [Three people, including the perpetrator, are killed in a shooting in the town of Spalding, Lincolnshire in the United Kingdom. Lincolnshire Police have ruled out a potential link to terrorism. ](/news/2016/07/19/three-people-including-the-perpetrator-are-killed-in-a-shooting-in-the-town-of-spalding-lincolnshire-in-the-united-kingdom-lincolnshire.md)
 Three members of a family are killed in a shooting near a swimming pool in Lincolnshire.

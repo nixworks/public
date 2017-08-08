@@ -19,7 +19,7 @@ _Context: Alvaro Uribe, Colombia, militia, paramilitary_
 _Context: International Whaling Commission , South Korea, Ulsan, hunt, scientific, whale_
 
 ### [ In South Africa, President Thabo Mbeki names energy and minerals minister Phumzile Mlambo-Ngcuka as his deputy president. She is the first woman to hold the position. ](/news/2005/06/22/in-south-africa-president-thabo-mbeki-names-energy-and-minerals-minister-phumzile-mlambo-ngcuka-as-his-deputy-president-she-is-the-first.md)
-_Context: Deputy President, Phumzile Mlambo-Ngcuka, President of South Africa, South Africa, Thabo Mbeki_
+_Context: Deputy President, Phumzile Mlambo-Ngcuka, President, South Africa, Thabo Mbeki_
 
 ### [ The Peruvian government condemns supreme court decision to drop the case of former president Alberto Fujimori for forging signatures for 2000 elections ](/news/2005/06/22/the-peruvian-government-condemns-supreme-court-decision-to-drop-the-case-of-former-president-alberto-fujimori-for-forging-signatures-for-20.md)
 _Context: 2000, Alberto Fujimori, Peru_

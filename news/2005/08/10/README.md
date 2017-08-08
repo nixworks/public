@@ -13,7 +13,7 @@ _Context: Baiji, Conflict in Iraq, Iraqi insurgency, Kurdish, military, oil_
 _Context: Copterline, Estonia, Finland, Gulf of Finland, Sikorsky S-76, Tallinn, crashed, helicopter_
 
 ### [ The United States and the African Union have dropped their demands that last week's coup in Mauritania be reversed. The US is working with the military junta to ensure that multi-party elections are held as soon as possible ](/news/2005/08/10/the-united-states-and-the-african-union-have-dropped-their-demands-that-last-week-s-coup-in-mauritania-be-reversed-the-us-is-working-with.md)
-_Context: African Union, Mauritania, military junta_
+_Context: African Union, Mauritanian, military junta_
 
 ### [ Yahoo Inc. is negotiating to pay approx. US$1 billion, plus the transfer of its own China operations, in return for a 35% equity stake in Alibaba.com, China's second-largest e-commerce concern. ](/news/2005/08/10/yahoo-inc-is-negotiating-to-pay-approx-us-1-billion-plus-the-transfer-of-its-own-china-operations-in-return-for-a-35-equity-stake-in-a.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
