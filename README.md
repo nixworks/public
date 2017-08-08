@@ -1,7 +1,7 @@
 ## [News](/news/2017/08/8/index.md)
 
-### [  The Supreme Court has junked all petitions against the burial of former president Ferdinand Marcos at the Libingan ng mga Bayani, re-affirming its earlier ruling on 8 November 2016. ](/news/2017/08/8/the-supreme-court-has-junked-all-petitions-against-the-burial-of-former-president-ferdinand-marcos-at-the-libingan-ng-mga-bayani-re-affir.md)
-_Context: Burial of Ferdinand Marcos, Ferdinand Marcos, Libingan ng mga Bayani, Supreme Court_
+### [  The Supreme Court has junked all petitions against the burial of former President of the Philippines Ferdinand Marcos at the Libingan ng mga Bayani, re-affirming its earlier ruling on 8 November 2016. ](/news/2017/08/8/the-supreme-court-has-junked-all-petitions-against-the-burial-of-former-president-of-the-philippines-ferdinand-marcos-at-the-libingan-ng-m.md)
+_Context: Burial of Ferdinand Marcos, Ferdinand Marcos, Libingan ng mga Bayani, President of the Philippines, Supreme Court_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
