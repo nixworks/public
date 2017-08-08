@@ -1,8 +1,5 @@
 ## [2017-08-6](/news/2017/08/6/index.md)
 
-### [Philippines senator Leila de Lima requests the foreign affairs department to invite the United Nations for an investigation on alleged human rights violations in Marawi. ](/news/2017/08/6/philippines-senator-leila-de-lima-requests-the-foreign-affairs-department-to-invite-the-united-nations-for-an-investigation-on-alleged-human.md)
-_Context: Battle of Marawi, Leila de Lima, Marawi, Philippines, United Nations, foreign affairs department, human rights_
-
 ### [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md)
 Gunmen killed 11 people and wounded 18 others in a church in southeastern Nigeria on Sunday in an attack arising from a feud between members of the local community, officials said.
 
@@ -17,6 +14,9 @@ A search operation for three US marines missing off the Queensland coast has bee
 
 ### [An EF-2 tornado strikes Tulsa, Oklahoma, injuring 30 people and damaging dozens of buildings. ](/news/2017/08/6/an-ef-2-tornado-strikes-tulsa-oklahoma-injuring-30-people-and-damaging-dozens-of-buildings.md)
 More than 30 people were injured and dozens of buildings damaged when a tornado hit Tulsa early on Sunday, causing power outages to about 17,000 customers after powerful winds snapped utility poles and downed trees in the Oklahoma city, officials said.
+
+### [During one of the meetings of the 50th Association of Southeast Asian Nations Regional Forum at Manila, the foreign ministers of the member nations issued a communique "emphasizing the importance of non-militarisation and self-restraint," ending an impasse regarding the disputes on the South China Sea. ](/news/2017/08/6/during-one-of-the-meetings-of-the-50th-association-of-southeast-asian-nations-regional-forum-at-manila-the-foreign-ministers-of-the-member.md)
+Southeast Asian foreign ministers ended an impasse on Sunday over how to address disputes with China in the South China Sea, issuing a communique that called for militarization to be avoided and noting concern about island-building.
 
 ## [Previous Day...](/news/2017/08/5/index.md)
 
