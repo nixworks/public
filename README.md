@@ -1,10 +1,10 @@
 ## [News](/news/2017/08/9/index.md)
 
-### [ In Paris, France, six French soldiers are injured, three seriously, after a car is slammed into them near a barrack in a suspected terror attack. ](/news/2017/08/9/in-paris-france-six-french-soldiers-are-injured-three-seriously-after-a-car-is-slammed-into-them-near-a-barrack-in-a-suspected-terror-a.md)
+### [In a suspected terror attack, six French soldiers are injured, three seriously, after a car is slammed into them at a barracks in the Paris suburb of Levallois-Perret. ](/news/2017/08/9/in-a-suspected-terror-attack-six-french-soldiers-are-injured-three-seriously-after-a-car-is-slammed-into-them-at-a-barracks-in-the-paris.md)
 Six French soldiers have been injured after a car slammed into them before speeding off in a suspected terror attack in Paris. The BMW was parked in an alley before it accelerated into the soldiers as they left their barracks to go on patrol, Patrick Balkany, the mayor of Levallois-Perret, said. &quot;The vehicle did not stop. It hurtled at them... it accelerated rapidly,&quot; he told broadcaster BFM TV.
 
-### [ Former Pakistani Prime Minister Nawaz Sharif go home after his disqualification by Supreme Court of Pakistan in Panama Papers case. ](/news/2017/08/9/former-pakistani-prime-minister-nawaz-sharif-go-home-after-his-disqualification-by-supreme-court-of-pakistan-in-panama-papers-case.md)
-_Context: GT road rally, Nawaz Sharif, Panama Papers case, Supreme Court of Pakistan_
+### [ Former Prime Minister of Pakistan Nawaz Sharif goes home after his disqualification by the Supreme Court in the Panama Papers case. ](/news/2017/08/9/former-prime-minister-of-pakistan-nawaz-sharif-goes-home-after-his-disqualification-by-the-supreme-court-in-the-panama-papers-case.md)
+_Context: GT road rally, Nawaz Sharif, Panama Papers case, Supreme Court_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -20,7 +20,10 @@ The strikes would likely be conducted by drones, and would be part of an officia
 ### [A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. ](/news/2017/08/8/a-magnitude-7-0-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-thirteen-people-and-injuring-more-than-175.md)
 At least five people have reportedly died and more than 60 wounded in the 6.5-magnitude quake.
 
-### [  The Supreme Court of the Philippines has junked all petitions against the burial of former President of the Philippines Ferdinand Marcos at the Libingan ng mga Bayani, re-affirming its earlier ruling on 8 November 2016. ](/news/2017/08/8/the-supreme-court-of-the-philippines-has-junked-all-petitions-against-the-burial-of-former-president-of-the-philippines-ferdinand-marcos-a.md)
+### [U.S. President Donald Trump promises "fire and fury like the world has never seen" if North Korea threatens the United States. ](/news/2017/08/8/u-s-president-donald-trump-promises-fire-and-fury-like-the-world-has-never-seen-if-north-korea-threatens-the-united-states.md)
+President Trump vows North Korea could be met with &quot;fire and fury&quot; if it continues to threaten nuclear action against the U.S. 
+
+### [The Supreme Court of the Philippines has junked all petitions against the burial of former President of the Philippines Ferdinand Marcos at the Libingan ng mga Bayani, re-affirming its earlier ruling on 8 November 2016. ](/news/2017/08/8/the-supreme-court-of-the-philippines-has-junked-all-petitions-against-the-burial-of-former-president-of-the-philippines-ferdinand-marcos-at.md)
 _Context: Burial of Ferdinand Marcos, Ferdinand Marcos, Libingan ng mga Bayani, President of the Philippines, Supreme Court of the Philippines_
 
 ### [Voters in Kenya go to the polls to elect the President, as well as members of the National Assembly and Senate. ](/news/2017/08/8/voters-in-kenya-go-to-the-polls-to-elect-the-president-as-well-as-members-of-the-national-assembly-and-senate.md)
