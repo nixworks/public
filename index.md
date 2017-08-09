@@ -1,4 +1,18 @@
-## [News](/news/2017/08/8/index.md)
+## [News](/news/2017/08/9/index.md)
+
+### [ In Paris, France, six French soldiers are injured, three seriously, after a car is slammed into them near a barrack in a suspected terror attack. ](/news/2017/08/9/in-paris-france-six-french-soldiers-are-injured-three-seriously-after-a-car-is-slammed-into-them-near-a-barrack-in-a-suspected-terror-a.md)
+Six French soldiers have been injured after a car slammed into them before speeding off in a suspected terror attack in Paris. The BMW was parked in an alley before it accelerated into the soldiers as they left their barracks to go on patrol, Patrick Balkany, the mayor of Levallois-Perret, said. &quot;The vehicle did not stop. It hurtled at them... it accelerated rapidly,&quot; he told broadcaster BFM TV.
+
+### [ Former Pakistani Prime Minister Nawaz Sharif go home after his disqualification by Supreme Court of Pakistan in Panama Papers case. ](/news/2017/08/9/former-pakistani-prime-minister-nawaz-sharif-go-home-after-his-disqualification-by-supreme-court-of-pakistan-in-panama-papers-case.md)
+_Context: GT road rally, Nawaz Sharif, Panama Papers case, Supreme Court of Pakistan_
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/08/8/index.md)
 
 ### [The Pentagon is considering conducting airstrikes in Marawi, which if approved would later put U.S. troops on the ground to battle the ISIS-affiliated Maute group as well as related Islamist terror groups. A spokesperson later denied the claims as well as clarified that the Philippines has yet to make a request. ](/news/2017/08/8/the-pentagon-is-considering-conducting-airstrikes-in-marawi-which-if-approved-would-later-put-u-s-troops-on-the-ground-to-battle-the-isis.md)
 The strikes would likely be conducted by drones, and would be part of an official military operation that may be named as early as Tuesday. 
@@ -15,13 +29,9 @@ The incumbent president takes a strong lead but the opposition says it rejects t
 ### [President Jacob Zuma survives his eighth no-confidence motion in parliament via a 198-177 secret ballot vote with nine abstentions. The rand fell by 1 percent on the announcement of the outcome.  ](/news/2017/08/8/president-jacob-zuma-survives-his-eighth-no-confidence-motion-in-parliament-via-a-198a177-secret-ballot-vote-with-nine-abstentions-the-ra.md)
 _Context: Corruption in South Africa, Jacob Zuma, President, rand_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/08/7/index.md)
+## [Day Before Yesterday](/news/2017/08/7/index.md)
 
 ### [Haruo Nakajima, who portrayed the monster Godzilla from 1954 to 1972, dies at the age of 88. ](/news/2017/08/7/haruo-nakajima-who-portrayed-the-monster-godzilla-from-1954-to-1972-dies-at-the-age-of-88.md)
 _Context: Godzilla, Godzilla in popular culture, Haruo Nakajima_
@@ -40,29 +50,7 @@ _Context: Baleka Mbete, Corruption in South Africa, Jacob Zuma, National Assembl
 
 ---
 
-## [Day Before Yesterday](/news/2017/08/6/index.md)
-
-### [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md)
-Gunmen killed 11 people and wounded 18 others in a church in southeastern Nigeria on Sunday in an attack arising from a feud between members of the local community, officials said.
-
-### [Armed men dressed as soldiers, apparently led by former National Guard captain Juan Carlos Caguaripano, attack a Venezuelan Army base near Valencia, Carabobo, declaring themselves in rebellion against the National Constituent Assembly and President Nicolas Maduro. At least two people are killed. ](/news/2017/08/6/armed-men-dressed-as-soldiers-apparently-led-by-former-national-guard-captain-juan-carlos-caguaripano-attack-a-venezuelan-army-base-near-v.md)
-Army chief says ‘peace has triumphed’, though TV footage is inconclusive, after video released showing group of armed men calling for rebellion
-
-### [Israel plans to shut down all of Al Jazeera's operations in the country, alleging support of terrorism. ](/news/2017/08/6/israel-plans-to-shut-down-all-of-al-jazeera-s-operations-in-the-country-alleging-support-of-terrorism.md)
-_Context: Al Jazeera, Al Jazeera controversies and criticism, Israel_
-
-### [The search for three members of the United States Marines Corps lost in a MV-22 Osprey crash in Shoalwater Bay in the Australian state of Queensland is called off. ](/news/2017/08/6/the-search-for-three-members-of-the-united-states-marines-corps-lost-in-a-mv-22-osprey-crash-in-shoalwater-bay-in-the-australian-state-of-qu.md)
-A search operation for three US marines missing off the Queensland coast has been called off.
-
-### [An EF-2 tornado strikes Tulsa, Oklahoma, injuring 30 people and damaging dozens of buildings. ](/news/2017/08/6/an-ef-2-tornado-strikes-tulsa-oklahoma-injuring-30-people-and-damaging-dozens-of-buildings.md)
-More than 30 people were injured and dozens of buildings damaged when a tornado hit Tulsa early on Sunday, causing power outages to about 17,000 customers after powerful winds snapped utility poles and downed trees in the Oklahoma city, officials said.
-
-### [During one of the meetings of the 50th Association of Southeast Asian Nations Regional Forum at Manila, the foreign ministers of the member nations issued a communique "emphasizing the importance of non-militarisation and self-restraint," ending an impasse regarding the disputes on the South China Sea. ](/news/2017/08/6/during-one-of-the-meetings-of-the-50th-association-of-southeast-asian-nations-regional-forum-at-manila-the-foreign-ministers-of-the-member.md)
-Southeast Asian foreign ministers ended an impasse on Sunday over how to address disputes with China in the South China Sea, issuing a communique that called for militarization to be avoided and noting concern about island-building.
-
----
-
-## [Previous Day...](/news/2017/08/5/index.md)
+## [Previous Day...](/news/2017/08/6/index.md)
 
 ---
 
