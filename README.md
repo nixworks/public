@@ -7,7 +7,7 @@ Six French soldiers have been injured after a car slammed into them before speed
 North Korea frees a Canadian pastor who was serving a life sentence of hard labour, one day after a Canadian delegation arrived to negotiate his release. 
 
 ### [ Former Prime Minister of Pakistan Nawaz Sharif goes home after his disqualification by the Supreme Court in the Panama Papers case. ](/news/2017/08/9/former-prime-minister-of-pakistan-nawaz-sharif-goes-home-after-his-disqualification-by-the-supreme-court-in-the-panama-papers-case.md)
-_Context: GT road rally, Nawaz Sharif, Panama Papers case, Supreme Court_
+_Context: GT road rally, Nawaz Sharif, Panama Papers case, Prime Minister of Pakistan, Supreme Court_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
