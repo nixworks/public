@@ -3,7 +3,7 @@
 ### [Haruo Nakajima, who portrayed the monster Godzilla from 1954 to 1972, dies at the age of 88. ](/news/2017/08/7/haruo-nakajima-who-portrayed-the-monster-godzilla-from-1954-to-1972-dies-at-the-age-of-88.md)
 _Context: Godzilla, Godzilla in popular culture, Haruo Nakajima_
 
-### [Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado and Portland, Oregon. ](/news/2017/08/7/air-carrier-penair-declares-chapter-11-bankruptcy-in-the-united-states-and-ends-service-to-denver-colorado-and-portland-oregon.md)
+### [Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado, and Portland, Oregon. ](/news/2017/08/7/air-carrier-penair-declares-chapter-11-bankruptcy-in-the-united-states-and-ends-service-to-denver-colorado-and-portland-oregon.md)
 Regional airline Peninsula Airways filed for bankruptcy over the weekend, blaming its financial decline on money-losing hubs in Portland, Ore., and Denver that it plans to shut down.
 
 ### [Two more Filipino journalists are murdered in a span of two days adding to toll of more than a hundred journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-span-of-two-days-adding-to-toll-of-more-than-a-hundred-journalists-killed-since-2000.md)

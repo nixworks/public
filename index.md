@@ -1,10 +1,13 @@
 ## [News](/news/2017/08/8/index.md)
 
-### [A magnitude 6.5 earthquake strikes Sichuan in southwest China, killing at least five people and injuring more than 60. ](/news/2017/08/8/a-magnitude-6-5-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-five-people-and-injuring-more-than-60.md)
+### [A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. ](/news/2017/08/8/a-magnitude-7-0-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-thirteen-people-and-injuring-more-than-175.md)
 At least five people have reportedly died and more than 60 wounded in the 6.5-magnitude quake.
 
 ### [  The Supreme Court of the Philippines has junked all petitions against the burial of former President of the Philippines Ferdinand Marcos at the Libingan ng mga Bayani, re-affirming its earlier ruling on 8 November 2016. ](/news/2017/08/8/the-supreme-court-of-the-philippines-has-junked-all-petitions-against-the-burial-of-former-president-of-the-philippines-ferdinand-marcos-a.md)
 _Context: Burial of Ferdinand Marcos, Ferdinand Marcos, Libingan ng mga Bayani, President of the Philippines, Supreme Court of the Philippines_
+
+### [Voters in Kenya go to the polls to elect their President, as well as members of the National Assembly and Senate. ](/news/2017/08/8/voters-in-kenya-go-to-the-polls-to-elect-their-president-as-well-as-members-of-the-national-assembly-and-senate.md)
+The incumbent president takes a strong lead but the opposition says it rejects the partial results.
 
 ### [President Jacob Zuma survives his eighth no-confidence motion in parliament via a 198-177 secret ballot vote with four abstentions. The rand fell by 1 percent on the announcement of the outcome.  ](/news/2017/08/8/president-jacob-zuma-survives-his-eighth-no-confidence-motion-in-parliament-via-a-198a177-secret-ballot-vote-with-four-abstentions-the-ra.md)
 _Context: Corruption in South Africa, Jacob Zuma, President, rand_
@@ -20,7 +23,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [Haruo Nakajima, who portrayed the monster Godzilla from 1954 to 1972, dies at the age of 88. ](/news/2017/08/7/haruo-nakajima-who-portrayed-the-monster-godzilla-from-1954-to-1972-dies-at-the-age-of-88.md)
 _Context: Godzilla, Godzilla in popular culture, Haruo Nakajima_
 
-### [Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado and Portland, Oregon. ](/news/2017/08/7/air-carrier-penair-declares-chapter-11-bankruptcy-in-the-united-states-and-ends-service-to-denver-colorado-and-portland-oregon.md)
+### [Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado, and Portland, Oregon. ](/news/2017/08/7/air-carrier-penair-declares-chapter-11-bankruptcy-in-the-united-states-and-ends-service-to-denver-colorado-and-portland-oregon.md)
 Regional airline Peninsula Airways filed for bankruptcy over the weekend, blaming its financial decline on money-losing hubs in Portland, Ore., and Denver that it plans to shut down.
 
 ### [Two more Filipino journalists are murdered in a span of two days adding to toll of more than a hundred journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-span-of-two-days-adding-to-toll-of-more-than-a-hundred-journalists-killed-since-2000.md)
