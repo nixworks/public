@@ -6,7 +6,7 @@ Six French soldiers have been injured after a car slammed into them before speed
 ### [North Korea releases imprisoned Canadian pastor Hyeon Soo Lim on "sick bail." ](/news/2017/08/9/north-korea-releases-imprisoned-canadian-pastor-hyeon-soo-lim-on-sick-bail.md)
 North Korea frees a Canadian pastor who was serving a life sentence of hard labour, one day after a Canadian delegation arrived to negotiate his release. 
 
-### [ Former Prime Minister of Pakistan Nawaz Sharif goes home after his disqualification by the Supreme Court in the Panama Papers case. ](/news/2017/08/9/former-prime-minister-of-pakistan-nawaz-sharif-goes-home-after-his-disqualification-by-the-supreme-court-in-the-panama-papers-case.md)
+### [Former Prime Minister of Pakistan Nawaz Sharif goes home after his disqualification by the Supreme Court in the Panama Papers case. ](/news/2017/08/9/former-prime-minister-of-pakistan-nawaz-sharif-goes-home-after-his-disqualification-by-the-supreme-court-in-the-panama-papers-case.md)
 _Context: GT road rally, Nawaz Sharif, Panama Papers case, Prime Minister of Pakistan, Supreme Court_
 
 ## Opinion

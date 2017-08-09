@@ -1,6 +1,6 @@
 ### [2017-08-9](/news/2017/08/9/index.md)
 
-#  Former Prime Minister of Pakistan Nawaz Sharif goes home after his disqualification by the Supreme Court in the Panama Papers case. 
+# Former Prime Minister of Pakistan Nawaz Sharif goes home after his disqualification by the Supreme Court in the Panama Papers case. 
 
 
 
