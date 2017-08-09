@@ -10,7 +10,7 @@ At least nine people, including two policemen, are killed during anti-government
 _Context: Ai Wei Wei, Miami, US$_
 
 ### [The Supreme Court of the Philippines declares the libel provisions in the Cybercrime Prevention Act of 2012 as legal. ](/news/2014/02/18/the-supreme-court-of-the-philippines-declares-the-libel-provisions-in-the-cybercrime-prevention-act-of-2012-as-legal.md)
-_Context: Cybercrime Prevention Act of 2012, Supreme Court, libel_
+_Context: Cybercrime Prevention Act of 2012, Supreme Court of the Philippines, libel_
 
 ### [Former Australian parliamentarian Craig Thomson is found guilty of theft and fraud during his time as national secretary of the Health Services Union. ](/news/2014/02/18/former-australian-parliamentarian-craig-thomson-is-found-guilty-of-theft-and-fraud-during-his-time-as-national-secretary-of-the-health-servi.md)
 Craig Thomson’s public fall has been like few others in Australia and it continued on Tuesday when a magistrate found the former federal MP guilty of using union funds for personal use, including paying for sexual services.

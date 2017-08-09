@@ -10,7 +10,7 @@ Detention of president, prime minister and cabinet members raises fears of coup 
 _Context: Hewlett-Packard, PC_
 
 ### [One person is dead and fourteen missing after floods hit Huaping County in China's Yunnan province. ](/news/2015/09/16/one-person-is-dead-and-fourteen-missing-after-floods-hit-huaping-county-in-china-s-yunnan-province.md)
-_Context: Chinese, Huaping County, Yunnan_
+_Context: China, Huaping County, Yunnan_
 
 ### [The remnants of former Tropical Storm Henri combines with another storm in western Europe to cause heavy rains and possible floods in the United Kingdom, France, Spain and Portugal. ](/news/2015/09/16/the-remnants-of-former-tropical-storm-henri-combines-with-another-storm-in-western-europe-to-cause-heavy-rains-and-possible-floods-in-the-un.md)
 Once-Tropical Storm Henri will contribute to bring flooding rain and damaging winds to western Europe through Wednesday.

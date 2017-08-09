@@ -4,7 +4,7 @@
 _Context: Earth, University of Wisconsin-Madison, crystal, zircon_
 
 ### [ Spring 2005 anti-Japanese demonstrations in China: Chinese rioters storm the Japanese embassy in Beijing.  The riot grew from a protest against Japan's newly approved history textbooks, which according to critics, whitewashed Japanese wartime atrocities. (Wikinews) ](/news/2005/04/9/spring-2005-anti-japanese-demonstrations-in-china-chinese-rioters-storm-the-japanese-embassy-in-beijing-the-riot-grew-from-a-protest-aga.md)
-_Context: (Wikinews), Beijing, Chinese, Japan, Japanese history textbooks controversy, atrocities, conflict zones, embassies, history, riot, textbooks_
+_Context: (Wikinews), Beijing, China, Japan, Japanese history textbooks controversy, atrocities, conflict zones, embassies, history, riot, textbooks_
 
 ### [ The South African New National Party, successor to the National Party which governed in the apartheid era, votes to dissolve itself following poor results in last year's elections. Its elected representatives are expected to join the governing African National Congress. ](/news/2005/04/9/the-south-african-new-national-party-successor-to-the-national-party-which-governed-in-the-apartheid-era-votes-to-dissolve-itself-followi.md)
 _Context: African National Congress, National Party, New National Party, South Africa, apartheid_

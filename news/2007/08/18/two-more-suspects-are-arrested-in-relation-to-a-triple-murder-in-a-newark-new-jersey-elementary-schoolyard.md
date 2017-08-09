@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Two more Filipino journalists are murdered in a single day adding to toll of hundreds of journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-single-day-adding-to-toll-of-hundreds-of-journalists-killed-since-2000.md) _Context: murder_
+1. [Two more Filipino journalists are murdered in a span of two days adding to toll of more than a hundred journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-span-of-two-days-adding-to-toll-of-more-than-a-hundred-journalists-killed-since-2000.md) _Context: murder_
 2. [The Archbishop of Manila Luis Antonio Tagle condemns the extralegal killings and murders under Rodrigo Duterte. ](/news/2016/08/28/the-archbishop-of-manila-luis-antonio-tagle-condemns-the-extralegal-killings-and-murders-under-rodrigo-duterte.md) _Context: murder_
 3. [Crime in the Philippines; Philippines President Rodrigo Duterte urges Filipino citizens to murder people suspected of using illegal drugs. ](/news/2016/07/1/crime-in-the-philippines-philippines-president-rodrigo-duterte-urges-filipino-citizens-to-murder-people-suspected-of-using-illegal-drugs.md) _Context: murder_
 4. [An overnight fire at Pitakiatwittaya Christian elementary school's dormitory  in the northern Chiang Rai Province in Thailand kills 18 girls  between the ages of 5 and 12. The other 20 girls sleeping in the dorm are rescued, though five are injured. ](/news/2016/05/23/an-overnight-fire-at-pitakiatwittaya-christian-elementary-school-s-dormitory-in-the-northern-chiang-rai-province-in-thailand-kills-18-girls.md) _Context: elementary school's_

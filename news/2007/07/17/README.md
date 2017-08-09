@@ -28,7 +28,7 @@ _Context: Pakistan, Pervez Musharraf_
 All three men charged with supporting Sri Lanka&#039;s Tamil Tigers rebel group have been granted bail.
 
 ### [ Delegates arrive in Beijing for the resumption of six party talks on Wednesday involving North Korea, South Korea, China, Russia, Japan and the United States to discuss the second phase of a deal on North Korean nuclear disarmament. ](/news/2007/07/17/delegates-arrive-in-beijing-for-the-resumption-of-six-party-talks-on-wednesday-involving-north-korea-south-korea-china-russia-japan-and.md)
-_Context: Beijing, Chinese, Japan, North Korea, Russia, South Korea, U.S., six-party talks_
+_Context: Beijing, China, Japan, North Korea, Russia, South Korea, U.S., six-party talks_
 
 ### [ 2007 Chuetsu offshore earthquake: The Government of Japan orders The Tokyo Electric Power Company to keep its Kashiwazaki-Kariwa Nuclear Power Plant closed pending safety checks after the earthquake caused a leak. ](/news/2007/07/17/2007-cha-etsu-offshore-earthquake-the-government-of-japan-orders-the-tokyo-electric-power-company-to-keep-its-kashiwazaki-kariwa-nuclear-p.md)
 _Context: 2007 Chuetsu offshore earthquake, Japan, Kashiwazaki-Kariwa Nuclear Power Plant, The Tokyo Electric Power Company, earthquake_

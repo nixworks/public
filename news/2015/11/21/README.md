@@ -22,7 +22,7 @@ After 5-hour manhunt, police capture Muhammad Tarada, 18, in yard of private res
 _Context: 25, Adele, British people_
 
 ### [Miss World Canada Anastasia Lin says that she is prevented from competing in China by the Chinese authorities after she spoke up against human rights abuses in the country. ](/news/2015/11/21/miss-world-canada-anastasia-lin-says-that-she-is-prevented-from-competing-in-china-by-the-chinese-authorities-after-she-spoke-up-against-hum.md)
-_Context: Anastasia Lin, Chinese, Human rights in China, Miss World 2015, Miss World Canada_
+_Context: Anastasia Lin, China, Human rights in China, Miss World 2015, Miss World Canada_
 
 ### [Muslim cleric Sheikh Ahmed al-Tayeb, the head of al-Azhar in Egypt, says violence has no link to authentic Islam, terrorism is a life philosophy whose adherents were willing to die and is an intellectual and psychological disease that uses religion as a front. ](/news/2015/11/21/muslim-cleric-sheikh-ahmed-al-tayeb-the-head-of-al-azhar-in-egypt-says-violence-has-no-link-to-authentic-islam-terrorism-is-a-life-philos.md)
 _Context: Egypt, Muslim, al-Azhar_
@@ -31,7 +31,7 @@ _Context: Egypt, Muslim, al-Azhar_
 Bodies of four tourists still on Fox Glacier unlikely to be recovered until at least Wednesday, police say.
 
 ### [A fire in a coal mine in China's northeast Heilongjiang province results in 21 deaths and one person missing. ](/news/2015/11/21/a-fire-in-a-coal-mine-in-china-s-northeast-heilongjiang-province-results-in-21-deaths-and-one-person-missing.md)
-_Context: Chinese, Heilongjiang, coal mine_
+_Context: China, Heilongjiang, coal mine_
 
 ### [A landslide near a jade mine  in northern Myanmar kills up to 60 people with more than a hundred missing. ](/news/2015/11/21/a-landslide-near-a-jade-mine-in-northern-myanmar-kills-up-to-60-people-with-more-than-a-hundred-missing.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

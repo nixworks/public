@@ -28,7 +28,7 @@ _Context: Spain_
 _Context: Nippon Steel, Sumitomo Metal Industries, Tokyo Stock Exchange, second-largest steelmaker_
 
 ### [Bo Guagua, the son of disgraced Chinese politician Bo Xilai, defends his father in his first comments on the political scandal. ](/news/2012/09/30/bo-guagua-the-son-of-disgraced-chinese-politician-bo-xilai-defends-his-father-in-his-first-comments-on-the-political-scandal.md)
-_Context: Bo Guagua, Bo Xilai, Chinese_
+_Context: Bo Guagua, Bo Xilai, China_
 
 ## [Previous Day...](/news/2012/09/29/index.md)
 

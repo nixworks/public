@@ -25,7 +25,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 Two people have been killed in another outbreak of violence in East Timor.
 
 ### [ The South African Communist Party launches an investigation into what happened to a political donation of 500,000 rand allegedly made in 2002. ](/news/2007/08/23/the-south-african-communist-party-launches-an-investigation-into-what-happened-to-a-political-donation-of-500-000-rand-allegedly-made-in-20.md)
-_Context: South African Communist Party, South African rand_
+_Context: South African Communist Party, rand_
 
 ### [ The European Union lifts a ban on the export of British livestock, meat and dairy products imposed after a recent foot and mouth disease outbreak in Surrey. ](/news/2007/08/23/the-european-union-lifts-a-ban-on-the-export-of-british-livestock-meat-and-dairy-products-imposed-after-a-recent-foot-and-mouth-disease-ou.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

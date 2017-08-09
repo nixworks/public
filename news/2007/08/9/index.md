@@ -19,7 +19,7 @@ A large fire broke out late on Thursday at the legendary Cinecitta film studios 
 _Context: Arctic, Canada, Canadian Prime Minister, North Pole, Russia, Stephen Harper, sovereignty_
 
 ### [ China temporarily bans exports from two toy manufacturers whose products were banned or recalled in the United States and other countries. ](/news/2007/08/9/china-temporarily-bans-exports-from-two-toy-manufacturers-whose-products-were-banned-or-recalled-in-the-united-states-and-other-countries.md)
-_Context: Chinese, U.S., export, toy_
+_Context: China, U.S., export, toy_
 
 ### [ Charges against two United States Marines accused of involvement in the killing of Iraqis in 2005 are dropped. ](/news/2007/08/9/charges-against-two-united-states-marines-accused-of-involvement-in-the-killing-of-iraqis-in-2005-are-dropped.md)
 _Context: Iraq, United States Marine Corps_

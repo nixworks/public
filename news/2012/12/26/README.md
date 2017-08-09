@@ -10,7 +10,7 @@ _Context: Dennis O'Driscoll, Irish_
 Gerry Anderson, creator of the Thunderbirds and Joe 90 puppet superhero TV shows, has died at the age of 83, his son announces.
 
 ### [CBB International, a financial analytics concern, releases a survey of executives indicating that China's retail sector is growing, leading a broader upswing in that nation's economy. ](/news/2012/12/26/cbb-international-a-financial-analytics-concern-releases-a-survey-of-executives-indicating-that-china-s-retail-sector-is-growing-leading.md)
-_Context: Chinese, retail_
+_Context: China, retail_
 
 ### [A moderate severe weather outbreak pounds several southern U.S. states on Christmas Day, including Texas, Alabama, Mississippi and Louisiana. More than 30 tornadoes are reported as the storms leave at least six people dead. The system is expected to move northeast and affect the East Coast with high winds and heavy snowfall. ](/news/2012/12/26/a-moderate-severe-weather-outbreak-pounds-several-southern-u-s-states-on-christmas-day-including-texas-alabama-mississippi-and-louisiana.md)
 Severe Christmas day weather tore across the deep south of the U.S., spinning off at least 34 possible tornadoes and killing at least three people in its path, while extreme weather is forecast throughout today for parts of the East Coast.
@@ -34,7 +34,7 @@ _Context: George H. W. Bush, Houston, Texas, The Methodist Hospital, U.S. Presid
 _Context: Brian Schatz, Colleen Hanabusa, Daniel Inouye, Democratic, Governor, Hawaii, Lieutenant Governor, Neil Abercrombie, U.S., United States Senate_
 
 ### [China officially opens the world's longest high-speed rail route, which links Beijing and Guangzhou. ](/news/2012/12/26/china-officially-opens-the-world-s-longest-high-speed-rail-route-which-links-beijing-and-guangzhou.md)
-_Context: Beijing, Chinese, Guangzhou, bullet train system, high-speed rail, route, world's longest_
+_Context: Beijing, China, Guangzhou, bullet train system, high-speed rail, route, world's longest_
 
 ## [Previous Day...](/news/2012/12/25/index.md)
 

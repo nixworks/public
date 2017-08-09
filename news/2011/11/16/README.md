@@ -13,7 +13,7 @@ _Context: Countrywide Financial, Darrell Issa, House Oversight Committee, United
 _Context: Bangkok, Thai authorities, floods, super-canal_
 
 ### [Eighteen children and two adults die after an overloaded school bus collides with a coal truck in northwest China's Gansu province. ](/news/2011/11/16/eighteen-children-and-two-adults-die-after-an-overloaded-school-bus-collides-with-a-coal-truck-in-northwest-china-s-gansu-province.md)
-_Context: Chinese, Gansu province, collides_
+_Context: China, Gansu province, collides_
 
 ### [2011 Tibetan self-immolation protests:Tibetans demonstrate near the Chinese embassy in New Delhi, India, following recent self-immolations by Tibetan monks and nuns protesting the Chinese government's repressive policies in Tibet. ](/news/2011/11/16/2011-tibetan-self-immolation-protests-ptibetans-demonstrate-near-the-chinese-embassy-in-new-delhi-india-following-recent-self-immolations.md)
 The spiritual leader of the Kirti monastery, the starting point for a spate of self-immolation protests, says Chinese authorities have imposed new repressive measures.

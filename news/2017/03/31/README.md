@@ -25,7 +25,7 @@ _Context: 2017 dissolution of Venezuelan National Assembly, Luisa Ortega Diaz, a
 New York Mayor Bill de Blasio says he wants to close the troubled Rikers Island prison within 10 years.
 
 ### [President of South Africa Jacob Zuma fires finance minister Pravin Gordhan amid a major cabinet reshuffle. The South African rand plunges. ](/news/2017/03/31/president-of-south-africa-jacob-zuma-fires-finance-minister-pravin-gordhan-amid-a-major-cabinet-reshuffle-the-south-african-rand-plunges.md)
-_Context: Jacob Zuma, Pravin Gordhan, President, South African rand, finance minister_
+_Context: Jacob Zuma, Pravin Gordhan, President, finance minister, rand_
 
 ### [Some individuals set the Congress of Paraguay on fire.  The attack occurs during a protest against a bill that would let the president seek re-election. ](/news/2017/03/31/some-individuals-set-the-congress-of-paraguay-on-fire-the-attack-occurs-during-a-protest-against-a-bill-that-would-let-the-president-seek.md)
 Violence broke out amid street protests against a bill allowing the president to run for re-election.

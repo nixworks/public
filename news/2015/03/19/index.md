@@ -7,7 +7,7 @@ Queensland Premier Annastacia Palaszczuk says preparations are well under way as
 Vanuatu warns it faces imminent food shortages in the wake of Cyclone Pam that struck the archipelago on Friday night.
 
 ### [A huge boulder falls upon tourists awaiting to board a ship at the scenic Diecai Hill of China's Guilin region killing seven of them. ](/news/2015/03/19/a-huge-boulder-falls-upon-tourists-awaiting-to-board-a-ship-at-the-scenic-diecai-hill-of-china-s-guilin-region-killing-seven-of-them.md)
-_Context: Chinese, Diecai Hill, Guilin_
+_Context: China, Diecai Hill, Guilin_
 
 ### [The Euro zone tells Greece that it must stay with its reform package or risk being forced out of the euro zone by cash-flow problems. ](/news/2015/03/19/the-euro-zone-tells-greece-that-it-must-stay-with-its-reform-package-or-risk-being-forced-out-of-the-euro-zone-by-cash-flow-problems.md)
 Euro zone leaders told Greece on Thursday its leftist-led government must implement agreed reforms to avert a looming cash crunch that could force it out of the single currency.

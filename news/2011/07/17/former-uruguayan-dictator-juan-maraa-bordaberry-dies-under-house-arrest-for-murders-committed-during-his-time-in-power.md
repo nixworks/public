@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Two more Filipino journalists are murdered in a single day adding to toll of hundreds of journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-single-day-adding-to-toll-of-hundreds-of-journalists-killed-since-2000.md) _Context: murder_
+1. [Two more Filipino journalists are murdered in a span of two days adding to toll of more than a hundred journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-span-of-two-days-adding-to-toll-of-more-than-a-hundred-journalists-killed-since-2000.md) _Context: murder_
 2. [Authorities cannot contact the South Korean cargo freighter ''Stellar Daisy''. It is believed that the ship sunk off the coast of Uruguay. ](/news/2017/04/1/authorities-cannot-contact-the-south-korean-cargo-freighter-stellar-daisy-it-is-believed-that-the-ship-sunk-off-the-coast-of-uruguay.md) _Context: Uruguay_
 3. [Pakistan detains Hafiz Muhammad Saeed, the suspected mastermind of the 2008 attacks in the  Indian city. Saeed, co-founder of the active terrorist organization Lashkar-e-Taiba, is being held under house arrest in Lahore in Pakistan's Punjab Province. Four other men are also under house arrest in the area. ](/news/2017/01/31/pakistan-detains-hafiz-muhammad-saeed-the-suspected-mastermind-of-the-2008-attacks-in-the-indian-city-saeed-co-founder-of-the-active-ter.md) _Context: house arrest_
 4. [The Archbishop of Manila Luis Antonio Tagle condemns the extralegal killings and murders under Rodrigo Duterte. ](/news/2016/08/28/the-archbishop-of-manila-luis-antonio-tagle-condemns-the-extralegal-killings-and-murders-under-rodrigo-duterte.md) _Context: murder_

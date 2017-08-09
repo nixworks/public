@@ -16,7 +16,7 @@ _Context: Bernard Ebbers, WorldCom_
 _Context: California, U.S. state, coronial, heat wave_
 
 ### [ An explosion at a fluorine plant in China's Jiangsu Province kills 12 people and leads to the evacuation of 7,000 people. ](/news/2006/07/28/an-explosion-at-a-fluorine-plant-in-china-s-jiangsu-province-kills-12-people-and-leads-to-the-evacuation-of-7-000-people.md)
-_Context: Chinese, Jiangsu Province, fluorine_
+_Context: China, Jiangsu Province, fluorine_
 
 ### [ 2006 Kodori crisis: both Georgia and Abkhazia threaten war over the dispute. ](/news/2006/07/28/2006-kodori-crisis-both-georgia-and-abkhazia-threaten-war-over-the-dispute.md)
 _Context: 2006 Kodori crisis, Abkhazia, Georgian_

@@ -31,7 +31,7 @@ _Context: 16th Summit of the Non-Aligned Movement, Ban Ki-moon, Iranian human ri
 Government officials from Japan and North Korea meet in Beijing for their first direct talks in four years.
 
 ### [President Hu officially receives Egypt's president Morsi, who is in China for in-depth discussion and cooperation talks. ](/news/2012/08/29/president-hu-officially-receives-egypt-s-president-morsi-who-is-in-china-for-in-depth-discussion-and-cooperation-talks.md)
-_Context: Chinese, Hu Jintao, Mohamed Morsi_
+_Context: China, Hu Jintao, Mohamed Morsi_
 
 ### [A judge orders the arrest of Tomas Yarrington, a former governor of the Mexican state of Tamaulipas, for allegedly fomenting drug trafficking. ](/news/2012/08/29/a-judge-orders-the-arrest-of-toma-s-yarrington-a-former-governor-of-the-mexican-state-of-tamaulipas-for-allegedly-fomenting-drug-trafficki.md)
 _Context: Tamaulipas, Tomas Yarrington_

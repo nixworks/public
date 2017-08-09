@@ -46,7 +46,7 @@ Deaths from floods, lightning and landslides across China this summer have reach
 A meeting of Victoria&#039;s Labor Caucus has named John Brumby as the state&#039;s premier-elect, with Rob Hulls elected as his deputy.
 
 ### [ Sixty-nine miners are trapped in a flooded coal mine in Henan province in central China. ](/news/2007/07/30/sixty-nine-miners-are-trapped-in-a-flooded-coal-mine-in-henan-province-in-central-china.md)
-_Context: Chinese, Henan, coal mine, flood, miner_
+_Context: China, Henan, coal mine, flood, miner_
 
 ### [ The President of the Ivory Coast Laurent Gbagbo visits the former rebel held north for the first time since 2002 where stockpiled weapons will be burnt as a symbol of reconciliation after the end of an uprising. ](/news/2007/07/30/the-president-of-the-ivory-coast-laurent-gbagbo-visits-the-former-rebel-held-north-for-the-first-time-since-2002-where-stockpiled-weapons-w.md)
 _Context: Ivory Coast, Laurent Gbagbo_

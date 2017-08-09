@@ -4,7 +4,7 @@
 _Context: Afghanistan's, British military_
 
 ### [A Tibetan protester self-immolates during a protest in the Indian capital New Delhi, ahead of a visit by the Chinese president Hu Jintao. ](/news/2012/03/26/a-tibetan-protester-self-immolates-during-a-protest-in-the-indian-capital-new-delhi-ahead-of-a-visit-by-the-chinese-president-hu-jintao.md)
-_Context: Chinese, Hu Jintao, India, New Delhi, Tibet, sets herself alight_
+_Context: China, Hu Jintao, India, New Delhi, Tibet, sets herself alight_
 
 ### [Colombian forces kill 32 FARC rebels in the latest government offensive. ](/news/2012/03/26/colombian-forces-kill-32-farc-rebels-in-the-latest-government-offensive.md)
 _Context: Colombia, FARC_

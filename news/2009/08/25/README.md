@@ -25,7 +25,7 @@ _Context: Barack Obama, Ben Bernanke, Chairman of the Federal Reserve, Federal R
 _Context: Afghanistan's, USA, War in Afghanistan (2001-present)_
 
 ### [ A gas explosion at a coal mine in Shanxi, China, kills at least 14 people. ](/news/2009/08/25/a-gas-explosion-at-a-coal-mine-in-shanxi-china-kills-at-least-14-people.md)
-_Context: Chinese, Shanxi province_
+_Context: China, Shanxi province_
 
 ### [ The United States budget deficit for 2009 will reach $1.6 trillion, the highest ever recorded. ](/news/2009/08/25/the-united-states-budget-deficit-for-2009-will-reach-1-6-trillion-the-highest-ever-recorded.md)
 _Context:  debt_

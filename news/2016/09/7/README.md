@@ -10,7 +10,7 @@ A gang brought down a helicopter during a police operation in Mexico&#39;s troub
 _Context: Guy Ritchie, Madonna, U.S., pop_
 
 ### [The Duterte administration defends its decision to bury the former dictator Ferdinand Marcos in the Philippine heroes' cemetery. ](/news/2016/09/7/the-duterte-administration-defends-its-decision-to-bury-the-former-dictator-ferdinand-marcos-in-the-philippine-heroes-cemetery.md)
-_Context: Ferdinand Marcos, Rodrigo Duterte, burial of Ferdinand Marcos_
+_Context: Burial of Ferdinand Marcos, Ferdinand Marcos, Rodrigo Duterte_
 
 ### [Hunters discover a 1000-year-old sword in Iceland. ](/news/2016/09/7/hunters-discover-a-1000-year-old-sword-in-iceland.md)
 _Context: Iceland_

@@ -7,7 +7,7 @@ Barbara Weldens collapsed mid-concert and was apparently electrocuted.
 A 25,000-acre wildfire in central California, one of three dozen major blazes burning across the U.S. West, threatened hundreds of homes and businesses on Wednesday after forcing the evacuation of about 5,000 residents.
 
 ### [Amid a stalemate between India and China over Doklam, disputed between the latter and Bhutan, China renews a call for India to withdraw its troops from Doklam. It follows reports claiming China held live firing drills in the region. ''[http://www.arabnews.com/node/1131641/world (Arab News)]''](/news/2017/07/19/amid-a-stalemate-between-india-and-china-over-doklam-disputed-between-the-latter-and-bhutan-china-renews-a-call-for-india-to-withdraw-its.md)
-_Context: 2017 Doklam crisis, Bhutan, Chinese, Doklam, India_
+_Context: 2017 Doklam crisis, Bhutan, China, Doklam, India_
 
 ### [South Korea plans to establish a national memorial day (set to be celebrated on every 14 August) to remember and honor the country's comfort women victims. ](/news/2017/07/19/south-korea-plans-to-establish-a-national-memorial-day-set-to-be-celebrated-on-every-14-august-to-remember-and-honor-the-country-s-comfort.md)
 _Context: Comfort women_

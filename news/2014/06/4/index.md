@@ -28,7 +28,7 @@ Internet Brands Inc., the El Segundo owner of CarsDirect.com and other online bu
 _Context: Mexico passes a law, minimum sentence_
 
 ### [Authorities in China crack down on dissidents on the 25th anniversary of the Tiananmen Square massacre. ](/news/2014/06/4/authorities-in-china-crack-down-on-dissidents-on-the-25th-anniversary-of-the-tiananmen-square-massacre.md)
-_Context: Chinese, Tiananmen Square protests of 1989_
+_Context: China, Tiananmen Square protests of 1989_
 
 ### [35 people, including Giorgio Orsoni, the Mayor of Venice, are arrested in Italy on corruption charges in connection with the MOSE Project.  ](/news/2014/06/4/35-people-including-giorgio-orsoni-the-mayor-of-venice-are-arrested-in-italy-on-corruption-charges-in-connection-with-the-mose-project.md)
 The mayor of Venice is among 35 people arrested in Italy over alleged corruption in connection with new flood barriers being built around the city.
@@ -37,7 +37,7 @@ The mayor of Venice is among 35 people arrested in Italy over alleged corruption
 _Context: Attorney General of Germany, Harald Range, NSA, surveillance of Chancellor Angela Merkel's phone_
 
 ### [The International Court of Arbitration in The Hague urges China to respond to ''Philippines v. China'', the case filed by the Philippines regarding the Nine-dotted line. ](/news/2014/06/4/the-international-court-of-arbitration-in-the-hague-urges-china-to-respond-to-philippines-v-china-the-case-filed-by-the-philippines-re.md)
-_Context: Chinese, International Court of Arbitration, Philippines, Philippines v. China, The Hague, sweeping claim_
+_Context: China, International Court of Arbitration, Philippines, Philippines v. China, The Hague, sweeping claim_
 
 ### [In the city of Moncton, New Brunswick, Canada, an armed gunman shoots five RCMP officers, killing three. ](/news/2014/06/4/in-the-city-of-moncton-new-brunswick-canada-an-armed-gunman-shoots-five-rcmp-officers-killing-three.md)
 New Brunswick RCMP have confirmed that three officers were shot and killed and two other officers were wounded by a heavily armed gunman wearing camouflage in Moncton.

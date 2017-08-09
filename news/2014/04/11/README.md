@@ -7,7 +7,7 @@ At least 12 insurgents were killed on Friday in the latest round of infighting b
 _Context: Cat Stevens, Hall & Oates, KISS, Linda Ronstadt, Nirvana, Peter Gabriel, Rock and Roll Hall of Fame_
 
 ### [American women's clothing retailer Coldwater Creek files for chapter 11 bankruptcy. ](/news/2014/04/11/american-women-s-clothing-retailer-coldwater-creek-files-for-chapter-11-bankruptcy.md)
-_Context: Coldwater Creek, chapter 11_
+_Context: Chapter 11, Coldwater Creek_
 
 ### [Cyclone Ita:Residents in the Australian state of Queensland prepare for Cyclone Ita to make landfall between Cooktown and Cape Flattery. ](/news/2014/04/11/cyclone-ita-presidents-in-the-australian-state-of-queensland-prepare-for-cyclone-ita-to-make-landfall-between-cooktown-and-cape-flattery.md)
 _Context: Cape Flattery, Cooktown, Cyclone Ita, Queensland_

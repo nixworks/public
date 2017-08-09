@@ -15,7 +15,7 @@ Japan’s first jury trial in more than a half century concluded as a panel of t
 
 ### Related:
 
-1. [Two more Filipino journalists are murdered in a single day adding to toll of hundreds of journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-single-day-adding-to-toll-of-hundreds-of-journalists-killed-since-2000.md) _Context: murder_
+1. [Two more Filipino journalists are murdered in a span of two days adding to toll of more than a hundred journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-span-of-two-days-adding-to-toll-of-more-than-a-hundred-journalists-killed-since-2000.md) _Context: murder_
 2. [The death toll from flooding on the southern Japanese island of Kyushu rises to 15, with six others missing. ](/news/2017/07/8/the-death-toll-from-flooding-on-the-southern-japanese-island-of-kyushu-rises-to-15-with-six-others-missing.md) _Context: Japan_
 3. [Severe flooding on the Japanese island of Kyushu has caused seven deaths with twenty people unaccounted for. ](/news/2017/07/7/severe-flooding-on-the-japanese-island-of-kyushu-has-caused-seven-deaths-with-twenty-people-unaccounted-for.md) _Context: Japan_
 4. [North Korea test-launches what is presumed to be its first intercontinental ballistic missile 933 kilometers  into the Sea of Japan within Japan's Exclusive Economic Zone. An American expert theorizes the ICBM, which reached an altitude of 2,802 km, could potentially reach the U.S. state of Alaska. ](/news/2017/07/4/north-korea-test-launches-what-is-presumed-to-be-its-first-intercontinental-ballistic-missile-933-kilometers-into-the-sea-of-japan-within-j.md) _Context: Japan_

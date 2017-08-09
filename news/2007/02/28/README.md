@@ -19,7 +19,7 @@ _Context: Airbus, Europe_
 _Context: Bosnia-Herzegovina, European Union, European Union Force_
 
 ### [ Strong wind blows a passenger train off the tracks near Turpan, Xinjiang, China, killing four and injuring 30 more. ](/news/2007/02/28/strong-wind-blows-a-passenger-train-off-the-tracks-near-turpan-xinjiang-china-killing-four-and-injuring-30-more.md)
-_Context: Chinese, Turpan, Xinjiang, train_
+_Context: China, Turpan, Xinjiang, train_
 
 ### [ Authorities monitor a volcano on the island of Stromboli off the north coast of Sicily as lava pours down its slope for a second successive day. ](/news/2007/02/28/authorities-monitor-a-volcano-on-the-island-of-stromboli-off-the-north-coast-of-sicily-as-lava-pours-down-its-slope-for-a-second-successive.md)
 _Context: Sicily, Stromboli, lava, volcanic activity_

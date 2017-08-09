@@ -28,7 +28,7 @@ _Context: Afghanistan's, Canada, Guantanamo Bay Detention Camp, United States so
 _Context: Europe, Russia, Russian President Vladimir Putin, U.S., Vladimir Putin, missile interceptor, nuclear warheads_
 
 ### [ China publishes its first National Action Plan on Climate Change, expected to cut national carbon emissions by up to 1.5 million metric tons annually by 2010. ](/news/2007/06/4/china-publishes-its-first-national-action-plan-on-climate-change-expected-to-cut-national-carbon-emissions-by-up-to-1-5-million-metric-ton.md)
-_Context: Chinese, National Action Plan on Climate Change, carbon emissions_
+_Context: China, National Action Plan on Climate Change, carbon emissions_
 
 ### [ ''Sri Lankan Civil War:'' Two Red Cross aid workers are found dead after being detained for questioning by unknown men claiming to be police. ](/news/2007/06/4/sri-lankan-civil-war-p-two-red-cross-aid-workers-are-found-dead-after-being-detained-for-questioning-by-unknown-men-claiming-to-be-poli.md)
 _Context: Red Cross, Sri Lankan Civil War, aid workers are found dead_

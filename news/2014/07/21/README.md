@@ -13,7 +13,7 @@ Ten people were killed, including a mother and three children, in a government a
 _Context: AK Steel, Russia, Severstal, Steel Dynamics, US$_
 
 ### [The death toll from Typhoon Rammasun rises to 26 in southern China and 11 in northern Vietnam. ](/news/2014/07/21/the-death-toll-from-typhoon-rammasun-rises-to-26-in-southern-china-and-11-in-northern-vietnam.md)
-_Context: 2014 Pacific typhoon season, Chinese, Typhoon Rammasun (Glenda), Vietnam_
+_Context: 2014 Pacific typhoon season, China, Typhoon Rammasun (Glenda), Vietnam_
 
 ### [A bus crashes into a ravine in Pakistan's Kashmir region killing 16 people with 37 others injured. ](/news/2014/07/21/a-bus-crashes-into-a-ravine-in-pakistan-s-kashmir-region-killing-16-people-with-37-others-injured.md)
 _Context: Kashmir, Pakistan, ravine_

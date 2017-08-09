@@ -25,7 +25,7 @@ _Context: (Wikinews), India, Kudankulam, Mass protest, Tamil Nadu, nuclear power
 _Context: Fukushima Daiichi nuclear disaster_
 
 ### [Senkaku Islands dispute:Anti-Japanese protests spread in China over the disputed Senkaku Islands. ](/news/2012/09/15/senkaku-islands-dispute-panti-japanese-protests-spread-in-china-over-the-disputed-senkaku-islands.md)
-_Context: Chinese, Japan, Senkaku Islands, Senkaku Islands dispute_
+_Context: China, Japan, Senkaku Islands, Senkaku Islands dispute_
 
 ### [Gambia's President Yahya Jammeh orders an immediate halt to executions on death row. ](/news/2012/09/15/gambia-s-president-yahya-jammeh-orders-an-immediate-halt-to-executions-on-death-row.md)
 Gambian President Yahya Jemmeh orders that execution of prisoners on death row be suspended, amid an international outcry.

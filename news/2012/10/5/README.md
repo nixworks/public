@@ -7,7 +7,7 @@ The Syrian city of Homs is subjected to the most severe bombardment in five mont
 News - Your daily dose of information: European and International latest breaking news, economic news, business news and more. Stay up to date with Euronews.
 
 ### [Anglo Platinum Limited&mdash;the world's biggest platinum producer&mdash;fires 12,000 people in South Africa after a strike over working conditions. The corporation has stated that the strikes have cost it 39,000 ounces in output - equivalent to 700 million rand ($82.3 million; 51 million) in revenue. ](/news/2012/10/5/anglo-platinum-limited-mdash-the-world-s-biggest-platinum-producer-mdash-fires-12-000-people-in-south-africa-after-a-strike-over-working-con.md)
-_Context: Anglo American Platinum, South Africa, South African rand_
+_Context: Anglo American Platinum, South Africa, rand_
 
 ### [At least 47 people throughout the United States are infected with fungal meningitis from contaminated medicine, with five people dying. ](/news/2012/10/5/at-least-47-people-throughout-the-united-states-are-infected-with-fungal-meningitis-from-contaminated-medicine-with-five-people-dying.md)
 _Context: fungal meningitis_

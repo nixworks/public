@@ -1,7 +1,7 @@
 ## [2008-05-12](/news/2008/05/12/index.md)
 
 ### [ 2008 Sichuan earthquake: A magnitude 7.9 earthquake hits China's Sichuan province, killing at least 22,000 people. ](/news/2008/05/12/2008-sichuan-earthquake-a-magnitude-7-9-earthquake-hits-china-s-sichuan-province-killing-at-least-22-000-people.md)
-_Context: Chinese, Sichuan, deadly earthquake, earthquake, magnitude earthquake_
+_Context: China, Sichuan, deadly earthquake, earthquake, magnitude earthquake_
 
 ### [ United Nations Secretary-General Ban Ki-moon says he is "immensely frustrated" at the State Peace and Development Council's slow response to the cyclone. ](/news/2008/05/12/united-nations-secretary-general-ban-ki-moon-says-he-is-immensely-frustrated-at-the-state-peace-and-development-council-s-slow-response-t.md)
 _Context: Ban Ki-moon, Cyclone Nargis, State Peace and Development Council, United Nations, United Nations Secretary-General_

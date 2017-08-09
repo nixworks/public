@@ -7,7 +7,7 @@ Madhya Pradesh police shot dead eight Islamist prisoners who had escaped from ja
 _Context: Baker Hughes, General Electric, Halliburton, oil and gas_
 
 ### [At least 13 people are killed and 20 others are missing following a gas explosion in a coal mine in western China's Chongqing region. ](/news/2016/10/31/at-least-13-people-are-killed-and-20-others-are-missing-following-a-gas-explosion-in-a-coal-mine-in-western-china-s-chongqing-region.md)
-_Context: Chinese, Chongqing_
+_Context: China, Chongqing_
 
 ### [One person is killed and at least five others injured following an explosion and fire   along one of Colonial Pipeline's conduits in rural Alabama (US),  the second incident on this section of the line in less than two months. One pipeline reopened this evening while a second  is expected to working by Saturday. ](/news/2016/10/31/one-person-is-killed-and-at-least-five-others-injured-following-an-explosion-and-fire-along-one-of-colonial-pipeline-s-conduits-in-rural-a.md)
 Five were hospitalized after the blast, which occurred after equipment used by a contractor hit the pipeline not fare from a rupture last month.

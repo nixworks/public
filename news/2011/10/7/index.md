@@ -4,7 +4,7 @@
 Afghanistan is marking 10 years since the start of the US-led war against the Taliban in quiet fashion, but security is being stepped up in the capital.
 
 ### [At least 35 people are killed in an expressway accident in the north Chinese port city of Tianjin, while another 10 are killed in a 24-car pileup in the Lianyungang-Khorgas Expressway's Anhui section. ](/news/2011/10/7/at-least-35-people-are-killed-in-an-expressway-accident-in-the-north-chinese-port-city-of-tianjin-while-another-10-are-killed-in-a-24-car-p.md)
-_Context: Anhui, Chinese, Lianyungang-Khorgas Expressway, Tianjin, expressway_
+_Context: Anhui, China, Lianyungang-Khorgas Expressway, Tianjin, expressway_
 
 ### [The Norwegian Nobel Committee announce the winners of the Nobel Peace Prize in Oslo, with the prize being shared between the President of Liberia Ellen Johnson-Sirleaf, Liberian activist Leymah Gbowee and Yemeni women's rights activist Tawakkul Karman. ](/news/2011/10/7/the-norwegian-nobel-committee-announce-the-winners-of-the-nobel-peace-prize-in-oslo-with-the-prize-being-shared-between-the-president-of-li.md)
 _Context: Ellen Johnson Sirleaf, Leymah Gbowee, Liberia, Nobel Peace Prize, Norwegian Nobel Committee, Oslo, President of Liberia, Tawakkul Karman, Yemen's_

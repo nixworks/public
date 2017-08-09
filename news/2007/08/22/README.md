@@ -22,7 +22,7 @@ _Context: Kiribati, Kiribatian parliamentary election, 2007_
 _Context: Bannu, Khyber Pakhtunkhwa, Pakistan, Taliban_
 
 ### [ Typhoon Sepat has killed at least 36 people in southeast China in the past week. ](/news/2007/08/22/typhoon-sepat-has-killed-at-least-36-people-in-southeast-china-in-the-past-week.md)
-_Context: Chinese, Typhoon Sepat_
+_Context: China, Typhoon Sepat_
 
 ### [ The U.S. Campaign for Burma claims that Myanmar's military government has arrested at least nine leaders of the pro-democracy 88 Generation Students. ](/news/2007/08/22/the-u-s-campaign-for-burma-claims-that-myanmar-s-military-government-has-arrested-at-least-nine-leaders-of-the-pro-democracy-88-generation.md)
 _Context: 88 Generation Students, Myanmar, U.S. Campaign for Burma, democratic progress_

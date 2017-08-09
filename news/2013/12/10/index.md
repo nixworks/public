@@ -4,7 +4,7 @@
 Two French soldiers are killed in overnight fighting in the Central African Republic amid an operation to restore order to the troubled country.
 
 ### [Maguindanao massacre:The Supreme Court of the Philippines issues guidelines in order to hasten a resolution for the trial. ](/news/2013/12/10/maguindanao-massacre-pthe-supreme-court-of-the-philippines-issues-guidelines-in-order-to-hasten-a-resolution-for-the-trial.md)
-_Context: Maguindanao massacre, Supreme Court_
+_Context: Maguindanao massacre, Supreme Court of the Philippines_
 
 ### [Death and state funeral of Nelson Mandela:The life of Nelson Mandela is celebrated in a memorial service in Johannesburg. ](/news/2013/12/10/death-and-state-funeral-of-nelson-mandela-pthe-life-of-nelson-mandela-is-celebrated-in-a-memorial-service-in-johannesburg.md)
 Latest updates as the official memorial service for former South African president Nelson Mandela is held in Johannesburg.

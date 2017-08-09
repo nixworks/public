@@ -46,7 +46,7 @@ _Context: Bingu wa Mutharika, Flag of Malawi, Malawi_
 _Context: 1989 Tiananmen Square protests, Beijing_
 
 ### [The Chinese Communist Party expels the former railways minister, Liu Zhijun, over corruption. ](/news/2012/05/28/the-chinese-communist-party-expels-the-former-railways-minister-liu-zhijun-over-corruption.md)
-_Context: Chinese, Communist Party of China, Liu Zhijun_
+_Context: China, Communist Party of China, Liu Zhijun_
 
 ### [Political parties in Nepal fail to agree on a new constitution, leaving the country with no constitution and no sitting national Legislature. ](/news/2012/05/28/political-parties-in-nepal-fail-to-agree-on-a-new-constitution-leaving-the-country-with-no-constitution-and-no-sitting-national-legislature.md)
 _Context: Nepal, no sitting national Legislature_

@@ -7,7 +7,7 @@ Police are investigating the cause of the blast, which ripped through a shopping
 _Context: Battle of Mosul (2016-17), ISIL, Iraqi Police, Mosul International Airport_
 
 ### [American-born panda Bao Bao arrives in China. ](/news/2017/02/23/american-born-panda-bao-bao-arrives-in-china.md)
-_Context: Bao Bao, Chinese, U.S., panda_
+_Context: Bao Bao, China, U.S., panda_
 
 ### [The protestors in the area of the Dakota Access Pipeline are evicted, clearing the way for the oil pipeline through Canada and the United States to be built. ](/news/2017/02/23/the-protestors-in-the-area-of-the-dakota-access-pipeline-are-evicted-clearing-the-way-for-the-oil-pipeline-through-canada-and-the-united-st.md)
 _Context: Canada, Dakota Access Pipeline, Dakota Access Pipeline protests, U.S., oil pipeline_

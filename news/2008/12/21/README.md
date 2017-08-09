@@ -7,7 +7,7 @@ _Context: Chinese, Combined Task Force 150, Gulf of Aden, People's Liberation Ar
 _Context: Boris Johnson, London, London Mayor, Routemaster, double decker bus, winning design_
 
 ### [ Continental Airlines Flight 1404 skids off the runway at Denver International Airport, injuring 38 of the 110 passengers on board.  ](/news/2008/12/21/continental-airlines-flight-1404-skids-off-the-runway-at-denver-international-airport-injuring-38-of-the-110-passengers-on-board.md)
-_Context: Continental Airlines, Denver International Airport, Flight 1404_
+_Context: Continental Airlines, Denver, Colorado, Flight 1404_
 
 ### [ Iranian police raid and close Nobel Peace Prize laureate Shirin Ebadi's Children's Rights Support Association prior to a planned celebration of Human Rights Day. ](/news/2008/12/21/iranian-police-raid-and-close-nobel-peace-prize-laureate-shirin-ebadi-s-children-s-rights-support-association-prior-to-a-planned-celebratio.md)
 _Context: Human Rights Day, Iran, Iranian police, Nobel Peace Prize, Shirin Ebadi_

@@ -25,7 +25,7 @@ _Context: Jennifer Hudson, U.S._
 _Context: Jeremy Hunt, Leveson Inquiry, News International, Rebekah Brooks, Secretary of State for Culture, Media and Sport, phone hacking_
 
 ### [Chinese scientists use quantum teleportation to transmit photons over a distance of 97|km|mi &ndash; a world record for quantum teleportation. ](/news/2012/05/11/chinese-scientists-use-quantum-teleportation-to-transmit-photons-over-a-distance-of-97-km-mi-ndash-a-world-record-for-quantum-teleportatio.md)
-_Context: Chinese, photon, quantum teleportation_
+_Context: China, photon, quantum teleportation_
 
 ### [A panel of American health experts recommends formal approval of the Truvada anti-HIV drug for prescription to non-infected men who have sex with multiple male partners, a decision opposed by some health workers and groups active among those with HIV. ](/news/2012/05/11/a-panel-of-american-health-experts-recommends-formal-approval-of-the-truvada-anti-hiv-drug-for-prescription-to-non-infected-men-who-have-sex.md)
 A panel of US health experts recommends formal approval of Truvada, a drug to prevent HIV infection in healthy people.

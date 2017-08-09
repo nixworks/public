@@ -34,7 +34,7 @@ Twelve people are arrested after a clash between police and protesters outside t
 _Context: City of London Corporation, Occupy London, St Paul's Cathedral_
 
 ### [China launches the unmanned Shenzhou 8 spacecraft, intending to robotically dock it with the orbiting Tiangong 1 space station module. If successful, the mission will mark China's first orbital docking, and will be a major milestone in its efforts to construct a full-scale space station. ](/news/2011/11/1/china-launches-the-unmanned-shenzhou-8-spacecraft-intending-to-robotically-dock-it-with-the-orbiting-tiangong-1-space-station-module-if-su.md)
-_Context: Chinese, Shenzhou 8, Tiangong-1, full-scale space station, space station_
+_Context: China, Shenzhou 8, Tiangong-1, full-scale space station, space station_
 
 ## [Previous Day...](/news/2011/10/31/index.md)
 

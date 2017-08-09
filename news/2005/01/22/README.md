@@ -16,7 +16,7 @@ _Context: Chinese, Qinghai, Song Xiuyan_
 _Context: 15 January, 2007, Al-Aqsa Martyrs' Brigades, Gaza Strip, Israel, Israeli-Palestinian conflict, West Bank_
 
 ### [ Conflict in Iraq: The Association of Muslim Scholars negotiates the release of 8 Chinese hostages kidnapped by the Islamic Resistance Movement. [http://news.bbc.co.uk/2/hi/middle_east/4197405.stm (BBC)] [http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7400128 (Reuters)] (Link dead as of 02:35, 15 January 2007 (UTC)) The International Organization for Migration extends voter registration for 2 days for Iraqis living abroad due to low turnout. Ansar al-Sunna announces it has executed 15 kidnapped Iraqi National Guard. [http://news.bbc.co.uk/2/hi/middle_east/4198071.stm (BBC)] [http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-01-22T191401Z_01_N22667410_RTRIDST_0_INTERNATIONAL-IRAQ-ELECTIONS-EXPATRIATES-DC.XML (Reuters)] (Link dead as of 02:35, 15 January 2007 (UTC))](/news/2005/01/22/conflict-in-iraq-p-the-association-of-muslim-scholars-negotiates-the-release-of-8-chinese-hostages-kidnapped-by-the-islamic-resistance-move.md)
-_Context: 15 January, 2007, Ansar al-Sunna, Association of Muslim Scholars, Chinese, Conflict in Iraq, International Organization for Migration, Iraq, Iraqi National Guard, Islamic Resistance Movement_
+_Context: 15 January, 2007, Ansar al-Sunna, Association of Muslim Scholars, China, Conflict in Iraq, International Organization for Migration, Iraq, Iraqi National Guard, Islamic Resistance Movement_
 
 ### [ Eid ul-Adha the second in the series of Eid festivals that Muslims celebrate.](/news/2005/01/22/eid-ul-adha-the-second-in-the-series-of-eid-festivals-that-muslims-celebrate.md)
 _Context: Eid ul-Adha_
