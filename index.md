@@ -1,5 +1,8 @@
 ## [News](/news/2017/08/10/index.md)
 
+### [ North Korea - United States relations;  North Korea threatens the United States of America with genocide, and states its intentions to turn five million of its population into suicide bombers. ([http://www.news.com.au/finance/work/leaders/north-korea-threatens-to-turn-young-people-into-5-million-human-bullets/news-story/905b7408d017beb4c6d6abffbdc198bc News.com.au])](/news/2017/08/10/north-korea-united-states-relations-north-korea-threatens-the-united-states-of-america-with-genocide-and-states-its-intentions-to-turn.md)
+_Context: North Korea, North Korea - United States relations, Terrorism in the United States, United States of America, genocide, suicide bombers_
+
 ### [New York State-based GateHouse Media announces an agreement to buy 11 U.S. newspapers from Georgia-based Morris Communications. Included in the deal is the Log Cabin Democrat, founded in 1879, and three Alaskan newspapers; the Juneau Empire, the Peninsula Clarion and Homer News. The deal is expected to close on October 2. ](/news/2017/08/10/new-york-state-based-gatehouse-media-announces-an-agreement-to-buy-11-u-s-newspapers-from-georgia-based-morris-communications-included-in.md)
 Mix includes publications in Alaska, Georgia and Florida.
 
@@ -11,7 +14,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/08/9/index.md)
 
-### [In a suspected terror attack, six French soldiers are injured, three seriously, after a car is slammed into them at a barracks in the Paris suburb of Levallois-Perret. ](/news/2017/08/9/in-a-suspected-terror-attack-six-french-soldiers-are-injured-three-seriously-after-a-car-is-slammed-into-them-at-a-barracks-in-the-paris.md)
+### [In a suspected terror attack, six French soldiers are injured, three seriously, after a man drove a car into them at a barracks in the Paris suburb of Levallois-Perret. ](/news/2017/08/9/in-a-suspected-terror-attack-six-french-soldiers-are-injured-three-seriously-after-a-man-drove-a-car-into-them-at-a-barracks-in-the-paris.md)
 Six French soldiers have been injured after a car slammed into them before speeding off in a suspected terror attack in Paris. The BMW was parked in an alley before it accelerated into the soldiers as they left their barracks to go on patrol, Patrick Balkany, the mayor of Levallois-Perret, said. &quot;The vehicle did not stop. It hurtled at them... it accelerated rapidly,&quot; he told broadcaster BFM TV.
 
 ### [Hurricane Franklin, the Atlantic Ocean's first hurricane of the season, is set to hit Mexico's  Gulf state of Veracruz tonight or tomorrow morning. The category 1 storm is  expected to lose strength as it moves inland through the oil-producing state. ](/news/2017/08/9/hurricane-franklin-the-atlantic-ocean-s-first-hurricane-of-the-season-is-set-to-hit-mexico-s-gulf-state-of-veracruz-tonight-or-tomorrow-m.md)
