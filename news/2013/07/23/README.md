@@ -19,7 +19,7 @@ More than 250 people have been sickened, mostly in the Midwest, by a rare parasi
 Japan says it is taking steps to prevent contaminated water from the crippled Fukushima nuclear plant leaking into the sea.
 
 ### [Hercules 264, a Gulf of Mexico natural gas drilling rig, partially collapses off the coast of Louisiana after catching fire.  ](/news/2013/07/23/hercules-264-a-gulf-of-mexico-natural-gas-drilling-rig-partially-collapses-off-the-coast-of-louisiana-after-catching-fire.md)
-_Context: Gulf of Mexico, Louisiana, natural gas_
+_Context: Gulf, Louisiana, natural gas_
 
 ### [Burma frees dozens of political prisoners as part of the country's ongoing effort at political reform. ](/news/2013/07/23/burma-frees-dozens-of-political-prisoners-as-part-of-the-country-s-ongoing-effort-at-political-reform.md)
 _Context: Burma, ongoing effort at political reform, political prisoner_

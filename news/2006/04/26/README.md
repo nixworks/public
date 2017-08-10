@@ -13,7 +13,7 @@ _Context: Tony Snow, White House Press Secretary_
 _Context: Chernobyl disaster, Ukraine_
 
 ### [ Snyder Rini resigns as Prime Minister of the Solomon Islands immediately before facing a motion of no confidence in Parliament, prompting celebrations in the streets of Honiara. ](/news/2006/04/26/snyder-rini-resigns-as-prime-minister-of-the-solomon-islands-immediately-before-facing-a-motion-of-no-confidence-in-parliament-prompting-c.md)
-_Context: Honiara, Prime Minister of the Solomon Islands, Snyder Rini, no-confidence_
+_Context: Honiara, Prime Minister of the Solomon Islands, Snyder Rini, no confidence_
 
 ### [ Egyptian police arrest 10 people in relation to the 2006 Dahab bombings, which has killed 24 people and injured more than 80 on 24 April. ](/news/2006/04/26/egyptian-police-arrest-10-people-in-relation-to-the-2006-dahab-bombings-which-has-killed-24-people-and-injured-more-than-80-on-24-april.md)
 _Context: 2006 Dahab bombings, Egypt_

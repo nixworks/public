@@ -4,7 +4,7 @@
 _Context: English, Ireland, Let England Shake, Mercury Prize, PJ Harvey, United Kingdom_
 
 ### [A Russian Air Force Mikoyan MiG-31 crashes in Perm Krai in the Ural Mountains. ](/news/2011/09/6/a-russian-air-force-mikoyan-mig-31-crashes-in-perm-krai-in-the-ural-mountains.md)
-_Context: MiG-31, Perm Krai, Russian, Ural Mountains_
+_Context: MiG-31, Perm Krai, Russian Air Force, Ural Mountains_
 
 ### [A wildfire destroys at least 118,500 acres and destroys over 700 homes in Central Texas since Saturday with two deaths. ](/news/2011/09/6/a-wildfire-destroys-at-least-118-500-acres-and-destroys-over-700-homes-in-central-texas-since-saturday-with-two-deaths.md)
 A raging wildfire near Austin, Texas, killed two people, officials said Tuesday, as firefighters fought to gain the upper hand against flames, wind and fatigue.

@@ -7,7 +7,7 @@ _Context: Operation Omari, Taliban, War in Afghanistan (2015-present)_
 _Context: Hani, PKK rebellion (2015-present), Turkish police, car bomb, gendarmerie_
 
 ### [  A Russian Air Force Mi-28 attack helicopter crashes near the Syrian city of Homs, killing two pilots. ](/news/2016/04/12/a-russian-air-force-mi-28-attack-helicopter-crashes-near-the-syrian-city-of-homs-killing-two-pilots.md)
-_Context: Homs, Mi-28, Russian, Russian military intervention in the Syrian Civil War, Syria, helicopters_
+_Context: Homs, Mi-28, Russian Air Force, Russian military intervention in the Syrian Civil War, Syria, helicopters_
 
 ### [  A French Army soldier is killed and three others are injured after their convoy hit a landmine in northern Mali. ](/news/2016/04/12/a-french-army-soldier-is-killed-and-three-others-are-injured-after-their-convoy-hit-a-landmine-in-northern-mali.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

@@ -13,7 +13,7 @@ _Context: Houthi, Sana'a, Saudi Arabian-led intervention in Yemen_
 _Context: Mali, UN peacekeepers_
 
 ### [London-based BP  agrees,  pending court approval, to pay $US18.7 billion to compensate the United States government and the five  Gulf Coast states--Alabama, Florida, Louisiana, Mississippi and Texas--for damages stemming from the 2010 Gulf of Mexico oil spill. The settlement includes a civil penalty of $US5.5 billion under the Clean Water Act. ](/news/2015/07/2/london-based-bp-agrees-pending-court-approval-to-pay-us18-7-billion-to-compensate-the-united-states-government-and-the-five-gulf-coast.md)
-_Context: Alabama, BP, Deepwater Horizon oil spill, Florida, Gulf Coast of the United States, Gulf of Mexico, London, Louisiana, Mississippi, Texas, United States, civil penalty, federal Clean Water Act_
+_Context: Alabama, BP, Deepwater Horizon oil spill, Florida, Gulf, Gulf Coast of the United States, London, Louisiana, Mississippi, Texas, United States, civil penalty, federal Clean Water Act_
 
 ### [According to a statement from Ukraine's nuclear energy authority, Yadernoye Toplivo, a private U.S. nuclear energy company, ConverDyn, could begin helping Ukraine in the production of enriched uranium, a day after Russia shut off natural gas supplies to the country after the two failed to reach agreement over Ukraine's unpaid gas debts to Russia.](/news/2015/07/2/according-to-a-statement-from-ukraine-s-nuclear-energy-authority-yadernoye-toplivo-a-private-u-s-nuclear-energy-company-converdyn-could.md)
 _Context: ConverDyn, Russia, U.S., Ukraine, Yadernoye Toplivo, enriched uranium, natural gas, nuclear energy company, nuclear power_

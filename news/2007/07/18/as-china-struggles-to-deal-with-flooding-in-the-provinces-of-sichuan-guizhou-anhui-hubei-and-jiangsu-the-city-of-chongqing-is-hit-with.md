@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [A magnitude 6.5 earthquake strikes Sichuan in southwest China, killing at least five people and injuring more than 60. ](/news/2017/08/8/a-magnitude-6-5-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-five-people-and-injuring-more-than-60.md) _Context: China, Sichuan_
+1. [A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. ](/news/2017/08/8/a-magnitude-7-0-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-thirteen-people-and-injuring-more-than-175.md) _Context: China, Sichuan_
 2. [At least 18 people die and two more are injured in a bus accident in Hubei, China. ](/news/2016/12/2/at-least-18-people-die-and-two-more-are-injured-in-a-bus-accident-in-hubei-china.md) _Context: China, Hubei_
 3. [At least 13 people are killed and 20 others are missing following a gas explosion in a coal mine in western China's Chongqing region. ](/news/2016/10/31/at-least-13-people-are-killed-and-20-others-are-missing-following-a-gas-explosion-in-a-coal-mine-in-western-china-s-chongqing-region.md) _Context: China, Chongqing_
 4. [A stone quarry collapses in Hubei province, China, leaving five people missing. ](/news/2016/10/3/a-stone-quarry-collapses-in-hubei-province-china-leaving-five-people-missing.md) _Context: China, Hubei_

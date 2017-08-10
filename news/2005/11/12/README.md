@@ -1,7 +1,7 @@
 ## [2005-11-12](/news/2005/11/12/index.md)
 
 ### [ Amir Peretz, the new head of the Israeli Labor Party, warns Israeli Prime Minister Ariel Sharon that if Sharon does not pick a date for an early election, Peretz will institute a motion of no-confidence forcing a snap election within 90 days. ](/news/2005/11/12/amir-peretz-the-new-head-of-the-israeli-labor-party-warns-israeli-prime-minister-ariel-sharon-that-if-sharon-does-not-pick-a-date-for-an.md)
-_Context: Amir Peretz, Ariel Sharon, Israeli Labor Party, Israeli Prime Minister, no-confidence, snap election_
+_Context: Amir Peretz, Ariel Sharon, Israeli Labor Party, Israeli Prime Minister, no confidence, snap election_
 
 ### [ Iraq War: The UN Secretary-General Kofi Annan, makes a surprise visit to Iraq and expresses support for an Arab League conference discussing cooperation with Iraq's many factions. ](/news/2005/11/12/iraq-war-p-the-un-secretary-general-kofi-annan-makes-a-surprise-visit-to-iraq-and-expresses-support-for-an-arab-league-conference-discussi.md)
 _Context: Arab League, Iraq, Iraq War, Kofi Annan, Secretary General_

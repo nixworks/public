@@ -13,7 +13,7 @@ _Context: Aerolneas Argentinas, Argentina, Argentine National Congress_
 _Context: Afghanistan President, Afghanistan's, Mohammed Daoud Khan_
 
 ### [ 2008 Canadian parliamentary dispute: At the request of Prime Minister Stephen Harper, Governor General of Canada Michalle Jean prorogues the parliament until January 26, 2009, to avoid a confidence motion by a newly-formed coalition of opposition parties. ](/news/2008/12/4/2008-canadian-parliamentary-dispute-at-the-request-of-prime-minister-stephen-harper-governor-general-of-canada-michaelle-jean-prorogues-t.md)
-_Context: Canadian Prime Minister, Governor General, Michalle Jean, Stephen Harper, coalition, no-confidence, proposed opposition coalition_
+_Context: Canadian Prime Minister, Governor General, Michalle Jean, Stephen Harper, coalition, no confidence, proposed opposition coalition_
 
 ## [Previous Day...](/news/2008/12/3/index.md)
 

@@ -22,7 +22,7 @@ A passenger train crashed into the back of a freight train in the eastern Belgia
 Calabasas is a city of about 24,000 northwest of downtown Los Angeles. The city is home to several affluent communities and numerous celebrities.
 
 ### [Tropical Storm Colin forms in the Gulf of Mexico and is likely to hit Florida's Gulf Coast tomorrow. ](/news/2016/06/5/tropical-storm-colin-forms-in-the-gulf-of-mexico-and-is-likely-to-hit-florida-s-gulf-coast-tomorrow.md)
-_Context: Florida, Gulf Coast of the United States, Gulf of Mexico, Tropical Storm Colin_
+_Context: Florida, Gulf, Gulf Coast of the United States, Tropical Storm Colin_
 
 ### [ Six people are hurt as an unknown assailant fires shots at a Czech tourist bus on the A7 autoroute near Saulce-sur-Rhone in southeastern France. ](/news/2016/06/5/six-people-are-hurt-as-an-unknown-assailant-fires-shots-at-a-czech-tourist-bus-on-the-a7-autoroute-near-saulce-sur-rha-ne-in-southeastern-f.md)
 Six people are hurt as shots are fired at a bus carrying Czech tourists in south-east France, police say.

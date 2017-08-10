@@ -46,7 +46,7 @@ _Context: Balrampur, Rapti_
 _Context: Gaza Strip, Israel, Middle East, sniper_
 
 ### [Deepwater Horizon oil spill :The COO of BP says a gusher of oil pouring from its damaged Gulf of Mexico well could be shut off as early as next week, but noted the plugging operation is "quite complex" and has never been tried in water that deep. ](/news/2010/05/21/deepwater-horizon-oil-spill-pthe-coo-of-bp-says-a-gusher-of-oil-pouring-from-its-damaged-gulf-of-mexico-well-could-be-shut-off-as-early-as.md)
-_Context: BP, Deepwater Horizon oil spill, Gulf of Mexico_
+_Context: BP, Deepwater Horizon oil spill, Gulf_
 
 ### [United States Director of National Intelligence, Dennis C. Blair, announces his resignation.  (Al Jazeera)]](/news/2010/05/21/united-states-director-of-national-intelligence-dennis-c-blair-announces-his-resignation-al-jazeera.md)
 _Context: Dennis C. Blair, Director of National Intelligence, U.S._

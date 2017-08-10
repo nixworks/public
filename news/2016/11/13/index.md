@@ -19,7 +19,7 @@ BUENOS AIRES, Argentina (AP) — A strong earthquake with a magnitude of 6.2 str
 _Context: Australia, Australia-United States relations, Manus Island, Nauru, Papua New Guinea, U.S._
 
 ### [Philippine president Rodrigo Duterte threatens to suspend the country's habeas corpus "if forced to" by what he says the worsening lawlessness in the country. He mentioned in the same speech, the alleged widespread illegal drug trade in the country, the rebellion in Mindanao, and the worsening campaign against the militant Maute group. ](/news/2016/11/13/philippine-president-rodrigo-duterte-threatens-to-suspend-the-country-s-habeas-corpus-if-forced-to-by-what-he-says-the-worsening-lawlessne.md)
-_Context: Maute, Moro conflict, Philippine, Rodrigo Duterte, habeas corpus_
+_Context: Maute group, Moro conflict, Philippine, Rodrigo Duterte, habeas corpus_
 
 ### [Bulgarians head to the polls in a presidential runoff between BSP backed Rumen Radev, of the socialist opposition, and Tsetska Tsacheva, Chairwoman of the National Assembly, from incumbent prime-minister Boyko Borisov's conservative GERB. Exit polls by Alpha Research and Gallup International show Radev with about 58 percent of the  vote with Tsacheva getting around 35 percent. ](/news/2016/11/13/bulgarians-head-to-the-polls-in-a-presidential-runoff-between-bsp-backed-rumen-radev-of-the-socialist-opposition-and-tsetska-tsacheva-cha.md)
 _Context: Boyko Borisov, Bulgarian presidential election, 2016, Chairwoman of the National Assembly, GERB, Gallup International, Prime Minister, Rumen Radev, Socialist Party, Tsetska Tsacheva, conservative, socialist_

@@ -22,7 +22,7 @@ Kavya Shivashankar emerges spelling bee winner after spelling her final word, &q
 _Context: Roh Moo-hyun, Seoul, South Korea, South Korean President, state funeral_
 
 ### [ The United States Department of Defense will create a computer-security military command. ](/news/2009/05/29/the-united-states-department-of-defense-will-create-a-computer-security-military-command.md)
-_Context: Computer security, Defense Department, U.S., military command_
+_Context: Computer security, The Pentagon, U.S., military command_
 
 ### [ Four people are killed when a dam bursts in Piaui, Brazil. ](/news/2009/05/29/four-people-are-killed-when-a-dam-bursts-in-piaua-brazil.md)
 _Context: Brazil, Piaui, dam_

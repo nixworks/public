@@ -4,7 +4,7 @@
 Scientists are restarting a giant sub-atomic particle collider built to reproduce &quot;Big Bang&quot; conditions, the European Organisation for Nuclear Research (CERN) said on Friday.
 
 ### [ Three political parties file a motion of no confidence against French Polynesian President Oscar Temaru. ](/news/2009/11/20/three-political-parties-file-a-motion-of-no-confidence-against-french-polynesian-president-oscar-temaru.md)
-_Context: French Polynesian President, Oscar Temaru, no-confidence_
+_Context: French Polynesian President, Oscar Temaru, no confidence_
 
 ### [ The United States Senate clears Senator Roland Burris of legal wrongdoing in relation to his appointment to the Senate. ](/news/2009/11/20/the-united-states-senate-clears-senator-roland-burris-of-legal-wrongdoing-in-relation-to-his-appointment-to-the-senate.md)
 _Context: Roland Burris, U.S., United States Senate_

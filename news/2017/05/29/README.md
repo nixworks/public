@@ -1,7 +1,7 @@
 ## [2017-05-29](/news/2017/05/29/index.md)
 
 ### [Philippine forces continue to battle Maute militants for the city of Marawi. ](/news/2017/05/29/philippine-forces-continue-to-battle-maute-militants-for-the-city-of-marawi.md)
-_Context: Marawi, Marawi crisis, Maute, Philippine_
+_Context: Marawi, Marawi crisis, Maute group, Philippine_
 
 ### [Damascus's governor says the last group of rebels and civilians have left the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md)
 _Context: Barzeh, Damascus, Syrian Civil War_

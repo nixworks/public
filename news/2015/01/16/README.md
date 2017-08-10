@@ -1,7 +1,7 @@
 ## [2015-01-16](/news/2015/01/16/index.md)
 
 ### [The United States Department of Defense announces that it will send 400 troops to train moderate Syrian rebels in the spring of 2015. ](/news/2015/01/16/the-united-states-department-of-defense-announces-that-it-will-send-400-troops-to-train-moderate-syrian-rebels-in-the-spring-of-2015.md)
-_Context: Defense Department, Free Syrian Army, Syrian Civil War_
+_Context: Free Syrian Army, Syrian Civil War, The Pentagon_
 
 ### [A hostage crisis at a post office in Colombes, Paris, ends with the attacker releasing the hostages and surrendering himself to the police. ](/news/2015/01/16/a-hostage-crisis-at-a-post-office-in-colombes-paris-ends-with-the-attacker-releasing-the-hostages-and-surrendering-himself-to-the-police.md)
 _Context: Colombes, Paris_

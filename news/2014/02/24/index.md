@@ -46,7 +46,7 @@ _Context: 2013-14 Thai political crisis, Thailand, Yingluck Shinawatra_
 _Context: Abdel Fattah al-Sisi, Egypt_
 
 ### [The Pentagon announces plans to reduce the size of the United States Army to pre-World War II levels. ](/news/2014/02/24/the-pentagon-announces-plans-to-reduce-the-size-of-the-united-states-army-to-pre-world-war-ii-levels.md)
-_Context: Defense Department, United States soldiers, World War II_
+_Context: The Pentagon, United States soldiers, World War II_
 
 ### [In Russia, police arrested over 400 people in Manege Square hours after picking up some 200 people outside the court where the Bolotnaya square case defendants were being tried. ](/news/2014/02/24/in-russia-police-arrested-over-400-people-in-manege-square-hours-after-picking-up-some-200-people-outside-the-court-where-the-bolotnaya-squ.md)
 _Context: Bolotnaya square case, Manege Square, Russia_

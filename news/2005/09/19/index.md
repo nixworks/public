@@ -1,7 +1,7 @@
 ## [2005-09-19](/news/2005/09/19/index.md)
 
 ### [ Hurricane Rita is forecast to become a major storm in the Gulf of Mexico this week.  Mayor Ray Nagin has ordered an evacuation of  New Orleans.  ](/news/2005/09/19/hurricane-rita-is-forecast-to-become-a-major-storm-in-the-gulf-of-mexico-this-week-mayor-ray-nagin-has-ordered-an-evacuation-of-new-orle.md)
-_Context: Gulf of Mexico, New Orleans, Ray Nagin, Rita_
+_Context: Gulf, New Orleans, Ray Nagin, Rita_
 
 ### [ Conflict in Iraq: A US diplomat and three  American security guards are killed following an insurgent Suicide car bomb attack in Mosul, northern Iraq. ](/news/2005/09/19/conflict-in-iraq-p-a-us-diplomat-and-three-american-security-guards-are-killed-following-an-insurgent-suicide-car-bomb-attack-in-mosul-no.md)
 News and opinion from The Times &amp; The Sunday Times

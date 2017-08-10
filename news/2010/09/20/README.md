@@ -34,7 +34,7 @@ _Context: India, Madhya Pradesh, Shivpuri district, train_
 _Context: Chinese, Fujian, Taiwan, Typhoon Fanapi_
 
 ### [A Russian Air Force Sukhoi Su-27 aircraft crashes in the Russian Far East; both pilots are rescued alive. ](/news/2010/09/20/a-russian-air-force-sukhoi-su-27-aircraft-crashes-in-the-russian-far-east-both-pilots-are-rescued-alive.md)
-_Context: Far East, Russian, Russian SU-27 fighter jet_
+_Context: Far East, Russian Air Force, Russian SU-27 fighter jet_
 
 ### [Admiral Thad Allen of the United States Coast Guard, the man responsible for leading the cleanup of the Deepwater Horizon oil spill, declares that BP's Macondo well is sealed. ](/news/2010/09/20/admiral-thad-allen-of-the-united-states-coast-guard-the-man-responsible-for-leading-the-cleanup-of-the-deepwater-horizon-oil-spill-declare.md)
 _Context: BP, Deepwater Horizon oil spill, Macondo, Thad Allen, U.S. Coast Guard, admiral_

@@ -43,7 +43,7 @@ Edward Snowden might set up residence in any of nearly 30 European nations after
 _Context: Admiral John M. Richardson, Admiral Wu Shengli, China, China-United States relations, Code for Unplanned Encounters at Sea, People's Liberation Army Navy, South China Sea, Territorial disputes in the South China Sea, U.S., United States Chief of Naval Operations, man-made islands_
 
 ### [Lockheed Martin vice president of air and missile defense Mike Trotsky tells the National Press Club in Washington, D.C., that the United States and South Korea are holding both formal and informal discussions on THAAD (Terminal High Altitude Area Defense System) deployment. South Korea's Defense Ministry and the U.S. Department of Defense deny the report. ](/news/2015/10/29/lockheed-martin-vice-president-of-air-and-missile-defense-mike-trotsky-tells-the-national-press-club-in-washington-d-c-that-the-united-st.md)
-_Context: Defense Department, Lockheed Martin, Ministry of National Defense, National Press Club, South Korea, U.S., U.S. Terminal High Altitude Area Defense (THAAD) system launchers, Washington, D.C._
+_Context: Lockheed Martin, Ministry of National Defense, National Press Club, South Korea, The Pentagon, U.S., U.S. Terminal High Altitude Area Defense (THAAD) system launchers, Washington, D.C._
 
 ### [The carrier USS ''Ronald Reagan'', during a military exercise with South Korea  in the Sea of Japan's international waters, scrambled four fighter jets to intercept approaching Russian warplanes,  according to the U.S. Navy. IHS Jane's Defence Weekly said encounters such as these were common during the Cold War, subsided with its end but picked up again under current Russian President Vladimir Putin.  ](/news/2015/10/29/the-carrier-uss-ronald-reagan-during-a-military-exercise-with-south-korea-in-the-sea-of-japan-s-international-waters-scrambled-four-f.md)
 _Context: Cold War, F/A-18 Hornet, IHS Jane's Defence Weekly, Russia, Russian President Vladimir Putin, Sea of Japan, South Korea, USS ''Ronald Reagan'', United States Navy, Vladimir Putin, international waters, warplanes_
@@ -61,7 +61,7 @@ WASHINGTON — The US House passed a multiyear budget deal, deemed favorable to 
 _Context: John Boehner, Ohio, Paul Ryan, Speaker of the United States House of Representatives, Speaker of the United States House of Representatives election, October 2015_
 
 ### [The Parliament of Moldova passes a no-confidence vote against pro-EU incumbent prime-minister Valeriu Strelet's cabinet amidst growing political turmoil in the country. ](/news/2015/10/29/the-parliament-of-moldova-passes-a-no-confidence-vote-against-pro-eu-incumbent-prime-minister-valeriu-strelee-s-cabinet-amidst-growing-poli.md)
-_Context: Moldovan Prime Minister, Parliament, Valeriu Strelet, cabinet, no-confidence_
+_Context: Moldovan Prime Minister, Parliament, Valeriu Strelet, cabinet, no confidence_
 
 ### [Astronaut Scott Kelly sets another record; this time for the single-longest spaceflight (216 days) by an American. His ISS year long mission is a scientific research project to study the health effects of long term spaceflight. Astronaut Michael Lopez-Alegria spent 215 consecutive days as Expedition 14 commander in 2006. Both are nowhere close to Valeri Polyakovs 437 days record. ](/news/2015/10/29/astronaut-scott-kelly-sets-another-record-this-time-for-the-single-longest-spaceflight-216-days-by-an-american-his-iss-year-long-mission.md)
 Scott Kelly has officially spent more time in space than any other American.

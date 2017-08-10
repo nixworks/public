@@ -16,7 +16,7 @@ _Context: Abdullah Ahmad Badawi, Ahmad Ismail, Malaysia, Malaysian Prime Ministe
 _Context: LTTE, Sri Lanka, United Nations_
 
 ### [ Hurricane Ike makes its second landfall on Cuba, near San Cristobal, north of the Isle of Youth, on its way into the Gulf of Mexico. ](/news/2008/09/9/hurricane-ike-makes-its-second-landfall-on-cuba-near-san-crista3bal-north-of-the-isle-of-youth-on-its-way-into-the-gulf-of-mexico.md)
-_Context: Cuba, Gulf of Mexico, Hurricane Ike, Isle of Youth, San Cristobal_
+_Context: Cuba, Gulf, Hurricane Ike, Isle of Youth, San Cristobal_
 
 ### [ A Thai court rules that Prime Minister Samak Sundaravej  must be removed from office for receiving payment for appearing on a television cooking show.  ](/news/2008/09/9/a-thai-court-rules-that-prime-minister-samak-sundaravej-must-be-removed-from-office-for-receiving-payment-for-appearing-on-a-television-co.md)
 _Context: Prime Minister of Thailand, Samak Sundaravej, Thailand, cooking show_

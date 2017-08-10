@@ -16,7 +16,7 @@ Former&#x20;interior&#x20;minister&#x20;Charles&#x20;Pasqua&#x20;has&#x20;been&#
 _Context: Tonga, attorney general, government_
 
 ### [Deepwater Horizon drilling rig explosion aftermath:The oil spill resulting from the explosion of the ''Deepwater Horizon'' drilling rig in the Gulf of Mexico reaches the Louisiana coast. ](/news/2010/04/30/deepwater-horizon-drilling-rig-explosion-aftermath-pthe-oil-spill-resulting-from-the-explosion-of-the-deepwater-horizon-drilling-rig-in.md)
-_Context: Deepwater Horizon, Deepwater Horizon drilling rig explosion, Gulf of Mexico, Louisiana, oil spill_
+_Context: Deepwater Horizon, Deepwater Horizon drilling rig explosion, Gulf, Louisiana, oil spill_
 
 ### [Former Pakistani spy Khalid Khawaja is murdered; a previously unknown militant group - Asian Tigers - claims responsibility. ](/news/2010/04/30/former-pakistani-spy-khalid-khawaja-is-murdered-a-previously-unknown-militant-group-asian-tigers-claims-responsibility.md)
 _Context: Khalid Khawaja, Pakistan_

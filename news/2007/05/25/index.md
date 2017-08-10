@@ -4,7 +4,7 @@
 _Context: Electricity, Paul VI Audience Hall, Vatican City, photovoltaic panels_
 
 ### [ A United States Department of Defense report warns of the growing power of the Chinese military. ](/news/2007/05/25/a-united-states-department-of-defense-report-warns-of-the-growing-power-of-the-chinese-military.md)
-_Context: Defense Department, defense spending_
+_Context: The Pentagon, defense spending_
 
 ### [ The widow of Anthony Ashley-Cooper, 10th Earl of Shaftesbury, and her brother, are found guilty of the  murder of her husband. ](/news/2007/05/25/the-widow-of-anthony-ashley-cooper-10th-earl-of-shaftesbury-and-her-brother-are-found-guilty-of-the-murder-of-her-husband.md)
 _Context: Anthony Ashley-Cooper, 10th Earl of Shaftesbury, widow_

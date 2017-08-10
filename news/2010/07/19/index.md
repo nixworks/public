@@ -40,7 +40,7 @@ Death came at express speed to the sleepy station of Sainthia early Monday when 
 China launches an operation to clean up an oil spill in the Yellow Sea after two oil pipelines exploded causing a massive fire.
 
 ### [Retired United States Coast Guard Admiral Thad Allen, the person in charge of cleaning up the Deepwater Horizon oil spill in the Gulf of Mexico states that the cap is leaking but it is not a major concern so far. ](/news/2010/07/19/retired-united-states-coast-guard-admiral-thad-allen-the-person-in-charge-of-cleaning-up-the-deepwater-horizon-oil-spill-in-the-gulf-of-mex.md)
-_Context: Admiral, Deepwater Horizon oil spill, Gulf of Mexico, Thad Allen, U.S. Coast Guard, cap_
+_Context: Admiral, Deepwater Horizon oil spill, Gulf, Thad Allen, U.S. Coast Guard, cap_
 
 ### [President of Iran Mahmoud Ahmadinejad asks that the United States stop using what he describes as "cowboy logic" if it wants to engage in dialogue with Iran over its nuclear programme, adding that he would support negotiations. ](/news/2010/07/19/president-of-iran-mahmoud-ahmadinejad-asks-that-the-united-states-stop-using-what-he-describes-as-cowboy-logic-if-it-wants-to-engage-in-di.md)
 The US must stop using &quot;cowboy logic&quot; if it wants dialogue with Iran over its nuclear programme, the Iranian president says.

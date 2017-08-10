@@ -22,7 +22,7 @@ The U.S. poverty rate rose to 14.3 percent in 2009 from 13.2 percent the year be
 _Context: BP, Deepwater Horizon, Deepwater Horizon oil spill, Transocean, explosion, offshore oil platform_
 
 ### [BP's first relief well intersects with its Gulf of Mexico Macondo well prior to pumping heavy mud and cement to seal permanently the oil reservoir adjacent to the well. ](/news/2010/09/16/bp-s-first-relief-well-intersects-with-its-gulf-of-mexico-macondo-well-prior-to-pumping-heavy-mud-and-cement-to-seal-permanently-the-oil-res.md)
-_Context: BP, Gulf of Mexico, Macondo well_
+_Context: BP, Gulf, Macondo well_
 
 ### [The state of emergency in Christchurch, New Zealand, following the 2010 Canterbury earthquake is lifted. ](/news/2010/09/16/the-state-of-emergency-in-christchurch-new-zealand-following-the-2010-canterbury-earthquake-is-lifted.md)
 _Context: 2010 Canterbury earthquake, Christchurch, New Zealand, state of emergency_
@@ -31,7 +31,7 @@ _Context: 2010 Canterbury earthquake, Christchurch, New Zealand, state of emerge
 _Context: Flushing, Macroburst, New York City_
 
 ### [Hurricane Karl becomes a Category 2 hurricane as it heads across Mexico's offshore oil wells in the Gulf of Mexico. ](/news/2010/09/16/hurricane-karl-becomes-a-category-2-hurricane-as-it-heads-across-mexico-s-offshore-oil-wells-in-the-gulf-of-mexico.md)
-_Context: 2010 Atlantic hurricane season, Gulf of Mexico, Mexico, hurricane_
+_Context: 2010 Atlantic hurricane season, Gulf, Mexico, hurricane_
 
 ### [Iranian state television allegedly airs an interview with Sakineh Mohammadi Ashtiani claiming that she has not been tortured. ](/news/2010/09/16/iranian-state-television-allegedly-airs-an-interview-with-sakineh-mohammadi-ashtiani-claiming-that-she-has-not-been-tortured.md)
 Iranian TV airs what it says is an interview with Sakineh Mohammadi Ashtiani, who faces being stoned to death, in which she denies being lashed for not wearing the veil.

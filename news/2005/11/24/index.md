@@ -13,7 +13,7 @@ _Context: M&M's, Macy's Thanksgiving Day Parade, New York City, Times Square_
 _Context: Conflict in Iraq, Hilla, suicide bomb_
 
 ### [ Canadian federal election, 2006: Opposition leader Stephen Harper introduces a motion of no confidence in the Canadian House of Commons.  With the support of all opposition parties, it is expected to pass on Monday, toppling Prime Minister Paul Martin's minority Liberals and forcing a campaign spanning the holiday season. ](/news/2005/11/24/canadian-federal-election-2006-opposition-leader-stephen-harper-introduces-a-motion-of-no-confidence-in-the-canadian-house-of-commons-w.md)
-_Context: Canadian House of Commons, Canadian Prime Minister, Canadian federal election, 2006, Leader of the Opposition, Liberal Party's, Paul Martin, Stephen Harper, minority government, no-confidence, opposition parties_
+_Context: Canadian House of Commons, Canadian Prime Minister, Canadian federal election, 2006, Leader of the Opposition, Liberal Party's, Paul Martin, Stephen Harper, minority government, no confidence, opposition parties_
 
 ### [ There are further calls in the media and Parliament of the United Kingdom for Prime Minister Tony Blair to publish a full account of his discussions with US President Bush on the bombing of Al Jazeera TV station headquarters in Doha. A memo on the conversation has been partly leaked to the ''Daily Mirror'' newspaper, before the Official Secrets Act was invoked. ](/news/2005/11/24/there-are-further-calls-in-the-media-and-parliament-of-the-united-kingdom-for-prime-minister-tony-blair-to-publish-a-full-account-of-his-di.md)
 _Context: Al Jazeera, British House of Commons, Daily Mirror, Doha, George W. Bush, Tony Blair, United Kingdom, media_

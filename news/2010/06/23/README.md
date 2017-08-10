@@ -43,7 +43,7 @@ _Context: Agadir, Iceland, International Whaling Commission , Japan, Morocco, No
 _Context: Albert II, Prince of Monaco, Charlene, Princess of Monaco, Palace of Monaco, South Africa_
 
 ### [BP chief executive Tony Hayward hands over responsibility for cleaning up the Gulf of Mexico oil spill to senior executive Bob Dudley "effective immediately". ](/news/2010/06/23/bp-chief-executive-tony-hayward-hands-over-responsibility-for-cleaning-up-the-gulf-of-mexico-oil-spill-to-senior-executive-bob-dudley-effec.md)
-_Context: BP, Deepwater Horizon oil spill, Gulf of Mexico, Tony Hayward, chief executive_
+_Context: BP, Deepwater Horizon oil spill, Gulf, Tony Hayward, chief executive_
 
 ### [2 American service members die following bomb attacks in southern Afghanistan. ](/news/2010/06/23/2-american-service-members-die-following-bomb-attacks-in-southern-afghanistan.md)
 June On Track to Become 1 of Deadliest Months of War as Uncertainty Over U.S. Command Builds

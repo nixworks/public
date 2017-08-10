@@ -40,7 +40,7 @@ There are now conflicting reports about whether an Australian tourist is among a
 A series of blasts at a military ammunition depot kills at least 20 people in Tanzanian capital Dar es Salaam.
 
 ### [The inquiry into the Deepwater Horizon oil spill in the Gulf of Mexico is released finding that the accident was entirely preventable. ](/news/2011/02/17/the-inquiry-into-the-deepwater-horizon-oil-spill-in-the-gulf-of-mexico-is-released-finding-that-the-accident-was-entirely-preventable.md)
-_Context: Deepwater Horizon oil spill, Gulf of Mexico_
+_Context: Deepwater Horizon oil spill, Gulf_
 
 ### [Palestinian National Authority President Mahmoud Abbas says that general elections in September would be canceled if Hamas refused to allow voting in the Gaza Strip. ](/news/2011/02/17/palestinian-national-authority-president-mahmoud-abbas-says-that-general-elections-in-september-would-be-canceled-if-hamas-refused-to-allow.md)
 PA president declares that elections must include West Bank and the Hamas-controlled Gaza Strip.

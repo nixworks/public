@@ -34,7 +34,7 @@ _Context: 67th Venice International Film Festival, Black Swan_
 _Context: One Direction_
 
 ### [Alarms on the ''Deepwater Horizon'' oil rig are found to have been disabled before the explosion and subsequent oil spill in the Gulf of Mexico. ](/news/2010/07/23/alarms-on-the-deepwater-horizon-oil-rig-are-found-to-have-been-disabled-before-the-explosion-and-subsequent-oil-spill-in-the-gulf-of-mex.md)
-_Context: Deepwater Horizon, Deepwater Horizon oil spill, Gulf of Mexico, explosion_
+_Context: Deepwater Horizon, Deepwater Horizon oil spill, Gulf, explosion_
 
 ### [Serbia states its intention to never recognize Kosovo's independence after International Court of Justice's yesterday ruling. ](/news/2010/07/23/serbia-states-its-intention-to-never-recognize-kosovo-s-independence-after-international-court-of-justice-s-yesterday-ruling.md)
 _Context: International Court of Justice, Kosovo, Kosovo, Serbia, yesterday ruling_

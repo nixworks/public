@@ -52,7 +52,7 @@ _Context: New Zealand, North Island, South Island, weather warnings_
 * Flash flooding, mudslides possible in Veracruz state * Karl weakens to Category 1 hurricane * Mexico oil industry spared big d
 
 ### [BP starts pumping cement into the Deepwater Horizon oil well in the Gulf of Mexico at the culmination of cleanup efforts for the Deepwater Horizon oil spill. ](/news/2010/09/17/bp-starts-pumping-cement-into-the-deepwater-horizon-oil-well-in-the-gulf-of-mexico-at-the-culmination-of-cleanup-efforts-for-the-deepwater-h.md)
-_Context: BP, Deepwater Horizon, Deepwater Horizon oil spill, Gulf of Mexico_
+_Context: BP, Deepwater Horizon, Deepwater Horizon oil spill, Gulf_
 
 ### [Japan says China has shipped drilling equipment to a disputed gas field amid a diplomatic row over the seizure of a Chinese fishing boat captain near the disputed Senkaku Islands. ](/news/2010/09/17/japan-says-china-has-shipped-drilling-equipment-to-a-disputed-gas-field-amid-a-diplomatic-row-over-the-seizure-of-a-chinese-fishing-boat-cap.md)
 Japan says China has shipped drilling equipment to a disputed gas field in the East China Sea, fuelling diplomatic tensions between the Asian giants.

@@ -13,7 +13,7 @@ _Context: Bosnia, Bosnian War, Ratko Mladic, Serbia, genocide_
 _Context: General Motors, Koenigsegg, Norway, Saab Automobile, Sweden_
 
 ### [ Dail Eireann debates the findings of the Commission to Inquire into Child Abuse, delayed by the motion of no confidence in the Irish Government opened by Fine Gael. ](/news/2009/06/11/da-il-aireann-debates-the-findings-of-the-commission-to-inquire-into-child-abuse-delayed-by-the-motion-of-no-confidence-in-the-irish-gove.md)
-_Context: Commission to Inquire into Child Abuse, Dail Eireann, Fine Gael, Government of Ireland, no-confidence_
+_Context: Commission to Inquire into Child Abuse, Dail Eireann, Fine Gael, Government of Ireland, no confidence_
 
 ### [ Ireland's Garda Commissioner sends two Garda forensic specialists to Brazil to assist in the identification of bodies from Air France Flight 447. ](/news/2009/06/11/ireland-s-garda-commissioner-sends-two-garda-forensic-specialists-to-brazil-to-assist-in-the-identification-of-bodies-from-air-france-fligh.md)
 Two garda forensic specialists will be assisting in the identification of bodies from the Air France crash.

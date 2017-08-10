@@ -22,7 +22,7 @@ _Context: Baghdad, Fallujah, Iraq_
 Zsa Zsa Gabor was not released from hospital on Saturday as expected after going into shock, her publicist says.
 
 ### [The Gulf of Mexico seafood industry starts to reopen after the Gulf of Mexico oil spill. ](/news/2010/08/7/the-gulf-of-mexico-seafood-industry-starts-to-reopen-after-the-gulf-of-mexico-oil-spill.md)
-_Context: Deepwater Horizon oil spill, Gulf of Mexico, seafood_
+_Context: Deepwater Horizon oil spill, Gulf, seafood_
 
 ### [Pakistan issues a red alert as the worst floods in its history move south towards Sindh, with hundreds of thousands of people being evacuated, at least 10,000 cows killed and Prime Minister Yousaf Raza Gillani appealing on television for help from the international community. ](/news/2010/08/7/pakistan-issues-a-red-alert-as-the-worst-floods-in-its-history-move-south-towards-sindh-with-hundreds-of-thousands-of-people-being-evacuate.md)
 Pakistan issues a red alert as floods that have devastated northern areas sweep south into the agricultural heartland of Sindh province.

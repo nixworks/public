@@ -10,7 +10,7 @@ _Context: German Democratic Republic, IKEA_
 Global retail sales for the new Call of Duty surpassed $500million (&pound;312m) in the first 24 hours it was on sale, publisher Activision has said.
 
 ### [Two people are missing and at least 4 are injured after an oil rig exploded in the Gulf of Mexico, near Louisiana. ](/news/2012/11/16/two-people-are-missing-and-at-least-4-are-injured-after-an-oil-rig-exploded-in-the-gulf-of-mexico-near-louisiana.md)
-_Context: Gulf of Mexico, Louisiana, offshore oil platform_
+_Context: Gulf, Louisiana, offshore oil platform_
 
 ### [Egyptian Prime Minister Hesham Qandil makes a visit to Gaza City in hopes of lulling the ongoing conflict between Israel and Hamas. ](/news/2012/11/16/egyptian-prime-minister-hesham-qandil-makes-a-visit-to-gaza-city-in-hopes-of-lulling-the-ongoing-conflict-between-israel-and-hamas.md)
 _Context: Egypt, Gaza, Hamas, Hesham Qandil, Israel, prime minister_

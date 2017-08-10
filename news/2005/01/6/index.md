@@ -7,7 +7,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 _Context: 2004 United States election voting controversies, United States House Committee on the Judiciary_
 
 ### [ Camp X-Ray: The United States Department of Defense announces a new investigation into allegations of prisoner abuse at the Camp X-Ray detention center in Guantanamo Bay, Cuba. ](/news/2005/01/6/camp-x-ray-the-united-states-department-of-defense-announces-a-new-investigation-into-allegations-of-prisoner-abuse-at-the-camp-x-ray-dete.md)
-_Context: Camp X-Ray, Cuba, Defense Department, Guantanamo Bay_
+_Context: Camp X-Ray, Cuba, Guantanamo Bay, The Pentagon_
 
 ### [ Conflict in Iraq: An Iraqi civilian testifies that U.S soldiers, including Sergeant Tracy Perkins, forced him and his cousin to jump into the Tigris and laughed as his relative was swept to his death. ](/news/2005/01/6/conflict-in-iraq-an-iraqi-civilian-testifies-that-u-s-soldiers-including-sergeant-tracy-perkins-forced-him-and-his-cousin-to-jump-into-t.md)
 _Context: Conflict in Iraq, Iraq, Tigris River, Tracy Perkins_

@@ -13,7 +13,7 @@ _Context: ''Dawn'' spacecraft, 4 Vesta, Ceres, NASA_
 _Context: Interpol, Jackie Selebi, National Prosecuting Authority, South Africa, arrest warrant_
 
 ### [ 2007 Atlantic hurricane season: Lorenzo strengthens into a hurricane and makes landfall on Mexico's Gulf coast. ](/news/2007/09/27/2007-atlantic-hurricane-season-lorenzo-strengthens-into-a-hurricane-and-makes-landfall-on-mexico-s-gulf-coast.md)
-_Context: 2007 Atlantic hurricane season, Gulf of Mexico, Lorenzo, Mexico, hurricane_
+_Context: 2007 Atlantic hurricane season, Gulf, Lorenzo, Mexico, hurricane_
 
 ### [ The Third Circuit Court of Appeal in the U.S. state of Louisiana rules that Mychal Bell should not have been tried as an adult in the Jena Six case, and he is released on a $45,000 bail bond. ](/news/2007/09/27/the-third-circuit-court-of-appeal-in-the-u-s-state-of-louisiana-rules-that-mychal-bell-should-not-have-been-tried-as-an-adult-in-the-jena.md)
 A teenager accused of assaulting a white schoolmate in a small Louisiana town was freed on bail on Thursday, one week after African-Americans staged a major protest in the town over the case.

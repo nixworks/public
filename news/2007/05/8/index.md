@@ -22,7 +22,7 @@ _Context: Democratic Unionist Party, First Minister, Ian Paisley, Martin McGuinn
 _Context: Iraq, Kufa, Shi'ite, War in Iraq, suicide bomber_
 
 ### [ The U.S. Department of Defense announces plans to deploy 35,000 troops in Iraq starting from August 2007. ](/news/2007/05/8/the-u-s-department-of-defense-announces-plans-to-deploy-35-000-troops-in-iraq-starting-from-august-2007.md)
-_Context: Defense Department, Iraq, U.S._
+_Context: Iraq, The Pentagon, U.S._
 
 ### [ Tomislav Nikolic, the temporary leader of the Serbian Radical Party, is elected as the Speaker of the National Assembly of Serbia. ](/news/2007/05/8/tomislav-nikolia-the-temporary-leader-of-the-serbian-radical-party-is-elected-as-the-speaker-of-the-national-assembly-of-serbia.md)
 _Context: Serbian Radical Party, Speaker, Tomislav Nikolic, parliament_

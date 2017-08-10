@@ -7,7 +7,7 @@ The Irish Red Cross has appealed for donations to aid victims of the current flo
 _Context: 2009 South Yemen insurgency_
 
 ### [ President of French Polynesia Oscar Temaru is ousted in a motion of no confidence by the Assembly of French Polynesia. The Assembly elects Gaston Tong Sang as president. Gaston returns to power just nine months after leaving office. This is the eleventh new government in five years. ](/news/2009/11/25/president-of-french-polynesia-oscar-temaru-is-ousted-in-a-motion-of-no-confidence-by-the-assembly-of-french-polynesia-the-assembly-elects.md)
-_Context: Assembly of French Polynesia, French Polynesia, Gaston Tong Sang, Oscar Temaru, President, no-confidence_
+_Context: Assembly of French Polynesia, French Polynesia, Gaston Tong Sang, Oscar Temaru, President, no confidence_
 
 ### [ Dubai World, the state-owned real-estate and ports giant, asks for a moratorium on its 59 billion US dollars' in debt until at least May 30, 2010. ](/news/2009/11/25/dubai-world-the-state-owned-real-estate-and-ports-giant-asks-for-a-moratorium-on-its-59-billion-us-dollars-in-debt-until-at-least-may-30.md)
 _Context: Dubai World, moratorium_

@@ -37,7 +37,7 @@ _Context: Australian Stock Exchange, Singapore Stock Exchange, Treasurer of Aust
 _Context: National Semiconductor, Texas Instruments, analog chip_
 
 ### [Cuba and its partners announce plans to drill for oil in Cuban waters in the Gulf of Mexico. ](/news/2011/04/5/cuba-and-its-partners-announce-plans-to-drill-for-oil-in-cuban-waters-in-the-gulf-of-mexico.md)
-_Context: Cuba, Gulf of Mexico, territorial waters_
+_Context: Cuba, Gulf, territorial waters_
 
 ### [Japan sets a maximum level of radiation for fish after a catch from Ibaraki prefecture is found with a high level of radioactive iodine from the nuclear accidents. ](/news/2011/04/5/japan-sets-a-maximum-level-of-radiation-for-fish-after-a-catch-from-ibaraki-prefecture-is-found-with-a-high-level-of-radioactive-iodine-from.md)
 _Context: Fukushima I nuclear accidents, Ibaraki prefecture, Japan, radiation, radioactive iodine_

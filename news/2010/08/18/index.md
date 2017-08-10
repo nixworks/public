@@ -46,7 +46,7 @@ _Context: Chinese, Japan, Mazda, U.S., power steering_
 Only 40 per cent of funds needed for immediate flood relief have been received, UN says.
 
 ### [Scientists dispute the claim by the United States that all the oil has gone from the Gulf of Mexico. ](/news/2010/08/18/scientists-dispute-the-claim-by-the-united-states-that-all-the-oil-has-gone-from-the-gulf-of-mexico.md)
-_Context: Gulf of Mexico, U.S._
+_Context: Gulf, U.S._
 
 ### [A North Korean fighter plane crashes in China near the border, killing the pilot and possibly a second pilot bailing out. Pictures posted by local residents show a Soviet plane design which were used in the Korean War. It is suggested to have been a defection attempt. ](/news/2010/08/18/a-north-korean-fighter-plane-crashes-in-china-near-the-border-killing-the-pilot-and-possibly-a-second-pilot-bailing-out-pictures-posted-by.md)
 A North Korean aircraft, which may be a fighter jet carrying a suspected defector, has crashed in China, according to reports.

@@ -22,7 +22,7 @@ _Context: Chinese, Uyghur, Xinjiang, riots_
 _Context: Brazil, Sao Paulo, hutment_
 
 ### [ The government in East Timor faces a motion of no confidence after releasing an Indonesian militia member, Martenus Bere, accused of crimes against humanity a decade ago. ](/news/2009/10/12/the-government-in-east-timor-faces-a-motion-of-no-confidence-after-releasing-an-indonesian-militia-member-martenus-bere-accused-of-crimes.md)
-_Context: East Timor, Indonesia, crimes against humanity, no-confidence_
+_Context: East Timor, Indonesia, crimes against humanity, no confidence_
 
 ### [ The pro-Kremlin United Russia party wins around 80% of regional and local seats in elections held in 76 regions in Russia. Opposition alleges vote rigging ](/news/2009/10/12/the-pro-kremlin-united-russia-party-wins-around-80-of-regional-and-local-seats-in-elections-held-in-76-regions-in-russia-opposition-alleg.md)
 Vladimir Putin&#39;s United Russia party has won nearly 80% of the seats in local and regional elections held yesterday.

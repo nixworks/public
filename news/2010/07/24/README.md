@@ -40,7 +40,7 @@ Residents Flee as Rising Floodwater Eats 30-Foot-Wide Hole in the Earthen Dam
 Three Spaniards arrested by Israel during a raid on a Gaza-bound aid flotilla are filing a court case against the Israeli prime minister.
 
 ### [An investigation reveals that several dozen staff and contractors of the United States Department of Defense, some with high-level security clearances, allegedly downloaded child pornography; an undisclosed number did so on government-owned computers. ](/news/2010/07/24/an-investigation-reveals-that-several-dozen-staff-and-contractors-of-the-united-states-department-of-defense-some-with-high-level-security.md)
-_Context: Defense Department, child pornography_
+_Context: The Pentagon, child pornography_
 
 ### [In the United States House of Representatives, Republicans introduce Resolution 1553, which expresses United States support for Israeli use of any necessary military force to eliminate any threat it believes Iran poses. ](/news/2010/07/24/in-the-united-states-house-of-representatives-republicans-introduce-resolution-1553-which-expresses-united-states-support-for-israeli-use.md)
 _Context: Iran, Israel, U.S., United States House of Representatives_

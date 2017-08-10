@@ -16,7 +16,7 @@ _Context: Barack Obama, Elena Kagan, Justice, President of the United States, U.
 _Context: Angela Merkel, German Chancellor, economically troubled euro-zone nations, upper house of parliament_
 
 ### [BP sprays more chemicals into the main massive undersea oil leak in the Gulf of Mexico using a deep-sea robot in an attempt to thin the oil which is rushing up from the seabed at the rate of about 210,000 gallons (795,000 liters) per day. ](/news/2010/05/10/bp-sprays-more-chemicals-into-the-main-massive-undersea-oil-leak-in-the-gulf-of-mexico-using-a-deep-sea-robot-in-an-attempt-to-thin-the-oil.md)
-_Context: BP, Deepwater Horizon oil spill, Gulf of Mexico_
+_Context: BP, Deepwater Horizon oil spill, Gulf_
 
 ### [A mass grave containing the bodies of 250 ethnic Albanians from the Kosovo War is discovered in Serbia. ](/news/2010/05/10/a-mass-grave-containing-the-bodies-of-250-ethnic-albanians-from-the-kosovo-war-is-discovered-in-serbia.md)
 _Context: Albanians, Kosovo War, Serbia_

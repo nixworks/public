@@ -19,7 +19,7 @@ _Context: Chinese, Fujian, Typhoon Chaba_
 _Context: Hurricane Earl, Hurricane Earl, Long Island, New York, U.S., tropical storm_
 
 ### [An oil rig explodes in the Gulf of Mexico, west of the Deepwater Horizon oil rig that exploded in April, killing no people. ](/news/2010/09/2/an-oil-rig-explodes-in-the-gulf-of-mexico-west-of-the-deepwater-horizon-oil-rig-that-exploded-in-april-killing-no-people.md)
-_Context: Deepwater Horizon, Gulf of Mexico, oil rig explodes_
+_Context: Deepwater Horizon, Gulf, oil rig explodes_
 
 ### [Lebanon requests an Interpol arrest warrant for Ghassan al-Jidd, a former General in the Lebanese Army who allegedly spied for the Mossad. ](/news/2010/09/2/lebanon-requests-an-interpol-arrest-warrant-for-ghassan-al-jidd-a-former-general-in-the-lebanese-army-who-allegedly-spied-for-the-mossad.md)
 Former Lebanese general accused of collaborating with Israeli intelligence; five alleged spies face death sentence.

@@ -28,7 +28,7 @@ _Context: Japan, Rikuzentakata, an earthquake and tsunami_
 Repercussions of Japan&#39;s triple disaster came into clearer focus Monday after the World Bank said the earthquake and tsunami caused up to $235 billion in damage and health officials reported more cases of radiation-tainted vegetables and tap water.
 
 ### [The U.S. Coast Guard begins investigating a reported oil spill in the Gulf of Mexico. ](/news/2011/03/19/the-u-s-coast-guard-begins-investigating-a-reported-oil-spill-in-the-gulf-of-mexico.md)
-_Context: Gulf of Mexico, U.S. Coast Guard, oil spill_
+_Context: Gulf, U.S. Coast Guard, oil spill_
 
 ### [Carlos Pascual resigns as United States Ambassador to Mexico due in part to tensions with the President of Mexico Felipe Calderon. ](/news/2011/03/19/carlos-pascual-resigns-as-united-states-ambassador-to-mexico-due-in-part-to-tensions-with-the-president-of-mexico-felipe-caldera3n.md)
 _Context: Carlos Pascual, Felipe Calderon, President, United States Ambassador to Mexico_

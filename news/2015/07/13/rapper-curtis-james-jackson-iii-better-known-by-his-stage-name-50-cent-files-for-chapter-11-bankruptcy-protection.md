@@ -11,7 +11,7 @@ Curtis James Jackson III, the rapper better known as 50 Cent, files for chapter 
 
 ### Related:
 
-1. [Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado and Portland, Oregon. ](/news/2017/08/7/air-carrier-penair-declares-chapter-11-bankruptcy-in-the-united-states-and-ends-service-to-denver-colorado-and-portland-oregon.md) _Context: Chapter 11, bankruptcy_
+1. [Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado, and Portland, Oregon. ](/news/2017/08/7/air-carrier-penair-declares-chapter-11-bankruptcy-in-the-united-states-and-ends-service-to-denver-colorado-and-portland-oregon.md) _Context: Chapter 11, bankruptcy_
 2. [ General Motors files for bankruptcy under Chapter 11 of the U.S. Bankruptcy Code. ](/news/2009/06/1/general-motors-files-for-bankruptcy-under-chapter-11-of-the-u-s-bankruptcy-code.md) _Context: Chapter 11, bankruptcy_
 3. [Puerto Rico files for the largest "local government" bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md) _Context: bankruptcy_
 4. [RadioShack files for chapter 11 protection from creditors for the second time in two years. ](/news/2017/03/8/radioshack-files-for-chapter-11-protection-from-creditors-for-the-second-time-in-two-years.md) _Context: Chapter 11_

@@ -22,7 +22,7 @@ _Context: George W. Bush, President of the United States, U.S., government_
 Seven years after the Sept. 11 attacks, there is no consensus outside the United States that Islamist militants from al Qaeda were responsible, according to an international poll published on Wednesday.
 
 ### [ Two Russian Air Force Tu-160 bombers arrive in Venezuela to carry out training flights over a course of several days. ](/news/2008/09/11/two-russian-air-force-tu-160-bombers-arrive-in-venezuela-to-carry-out-training-flights-over-a-course-of-several-days.md)
-_Context: Russian, Tu-160, Venezuela_
+_Context: Russian Air Force, Tu-160, Venezuela_
 
 ### [ A 6.6 magnitude earthquake hits near Ternate, Indonesia, followed by a 7.2 magnitude quake near Hokkaido, Japan. ](/news/2008/09/11/a-6-6-magnitude-earthquake-hits-near-ternate-indonesia-followed-by-a-7-2-magnitude-quake-near-hokkaido-japan.md)
 _Context: Hokkaido, Indonesia, Japan, Ternate, earthquake, magnitude_

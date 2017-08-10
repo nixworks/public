@@ -4,7 +4,7 @@
 _Context: Hat Yai Airport, Krabi Airport, Phuket Airport, Royal Thai Government, yellow shirt_
 
 ### [ Hurricane Gustav reaches hurricane strength en route to the Cayman Islands, Cuba and the Gulf of Mexico. ](/news/2008/08/29/hurricane-gustav-reaches-hurricane-strength-en-route-to-the-cayman-islands-cuba-and-the-gulf-of-mexico.md)
-_Context: Cayman Islands, Cuba, Gulf of Mexico, Hurricane Gustav, hurricane_
+_Context: Cayman Islands, Cuba, Gulf, Hurricane Gustav, hurricane_
 
 ### [ Georgia cuts diplomatic ties with Russia following Russian recognition of South Ossetia and Abkhazia. ](/news/2008/08/29/georgia-cuts-diplomatic-ties-with-russia-following-russian-recognition-of-south-ossetia-and-abkhazia.md)
 Georgia has cut diplomatic links with Russia, withdrawing its diplomats from Moscow.
