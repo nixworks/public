@@ -1,4 +1,15 @@
-## [News](/news/2017/08/9/index.md)
+## [News](/news/2017/08/10/index.md)
+
+### [Business and economyNew York State based GateHouse Media announces an agreement to buy 11 U.S. newspapers from Georgia-based Morris Communications. Included in the deal is the Log Cabin Democrat, founded in 1879. Also included are three Alaskan newspapers; the Juneau Empire, the Peninsula Clarion and Homer News. The deal is expected to close on October 2. ](/news/2017/08/10/business-and-economypnew-york-state-based-gatehouse-media-announces-an-agreement-to-buy-11-u-s-newspapers-from-georgia-based-morris-communi.md)
+Mix includes publications in Alaska, Georgia and Florida.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/08/9/index.md)
 
 ### [In a suspected terror attack, six French soldiers are injured, three seriously, after a car is slammed into them at a barracks in the Paris suburb of Levallois-Perret. ](/news/2017/08/9/in-a-suspected-terror-attack-six-french-soldiers-are-injured-three-seriously-after-a-car-is-slammed-into-them-at-a-barracks-in-the-paris.md)
 Six French soldiers have been injured after a car slammed into them before speeding off in a suspected terror attack in Paris. The BMW was parked in an alley before it accelerated into the soldiers as they left their barracks to go on patrol, Patrick Balkany, the mayor of Levallois-Perret, said. &quot;The vehicle did not stop. It hurtled at them... it accelerated rapidly,&quot; he told broadcaster BFM TV.
@@ -27,13 +38,9 @@ _Context: GT road rally, Nawaz Sharif, Panama Papers case, Prime Minister of Pak
 ### [President of the Philippines Rodrigo Duterte abolishes the Negros Island Region (first created in 2015 by his predecessor) through Executive Order no. 38, citing lack of funds to fully establish the region. Negros Occidental reverts back to the Western Visayas region, while Negros Oriental back to the Central Visayas region. ](/news/2017/08/9/president-of-the-philippines-rodrigo-duterte-abolishes-the-negros-island-region-first-created-in-2015-by-his-predecessor-through-executive.md)
 Official Gazette of the Republic of the Philippines - The Official Gazette is the official journal of the Republic of the Philippines. Edited at the Office of the President of the Philippines Under Commonwealth Act No. 638
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/08/8/index.md)
+## [Day Before Yesterday](/news/2017/08/8/index.md)
 
 ### [The Pentagon is considering conducting airstrikes in Marawi, which if approved would later put U.S. troops on the ground to battle the ISIS-affiliated Maute group as well as related Islamist terror groups. A spokesperson later denied the claims as well as clarified that the Philippines has yet to make a request. ](/news/2017/08/8/the-pentagon-is-considering-conducting-airstrikes-in-marawi-which-if-approved-would-later-put-u-s-troops-on-the-ground-to-battle-the-isis.md)
 The strikes would likely be conducted by drones, and would be part of an official military operation that may be named as early as Tuesday. 
@@ -55,26 +62,7 @@ _Context: Corruption in South Africa, Jacob Zuma, President, rand_
 
 ---
 
-## [Day Before Yesterday](/news/2017/08/7/index.md)
-
-### [Haruo Nakajima, who portrayed the monster Godzilla from 1954 to 1972, dies at the age of 88. ](/news/2017/08/7/haruo-nakajima-who-portrayed-the-monster-godzilla-from-1954-to-1972-dies-at-the-age-of-88.md)
-_Context: Godzilla, Godzilla in popular culture, Haruo Nakajima_
-
-### [Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado, and Portland, Oregon. ](/news/2017/08/7/air-carrier-penair-declares-chapter-11-bankruptcy-in-the-united-states-and-ends-service-to-denver-colorado-and-portland-oregon.md)
-Regional airline Peninsula Airways filed for bankruptcy over the weekend, blaming its financial decline on money-losing hubs in Portland, Ore., and Denver that it plans to shut down.
-
-### [Two more Filipino journalists are murdered in a span of two days adding to toll of more than a hundred journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-span-of-two-days-adding-to-toll-of-more-than-a-hundred-journalists-killed-since-2000.md)
-ZAMBOANGA, Philippines (AFP) - Two journalists have been shot dead in two days in separate incidents in the Philippines, reinforcing the country&#039;s image as one of the world&#039;s most dangerous for media workers, officials said Monday (Aug 7).. Read more at straitstimes.com.
-
-### [Results from Saturday's constitutional referendum show Mauritanians have voted to abolish the Senate. Turnout was 53.73%, with 85% of voters supporting the change, according to officials. ](/news/2017/08/7/results-from-saturday-s-constitutional-referendum-show-mauritanians-have-voted-to-abolish-the-senate-turnout-was-53-73-with-85-of-voters.md)
-The referendum result is seen as a victory for the president, accused of trying to stay in power.
-
-### [The Speaker of the National Assembly of South Africa, Baleka Mbete, announces that a vote of no confidence in President Jacob Zuma will be held by secret ballot. The vote, to be held on 8 August 2017, will be the eighth vote of no confidence against the president and the first by secret ballot. ](/news/2017/08/7/the-speaker-of-the-national-assembly-of-south-africa-baleka-mbete-announces-that-a-vote-of-no-confidence-in-president-jacob-zuma-will-be-h.md)
-_Context: Baleka Mbete, Corruption in South Africa, Jacob Zuma, National Assembly of South Africa, President, Speaker, no confidence, secret ballot_
-
----
-
-## [Previous Day...](/news/2017/08/6/index.md)
+## [Previous Day...](/news/2017/08/7/index.md)
 
 ---
 
