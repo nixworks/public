@@ -18,11 +18,14 @@ Washington imposed sanctions on eight Venezuelan officials on Wednesday for thei
 ### [North Korea releases imprisoned Canadian pastor Hyeon Soo Lim on "sick bail." ](/news/2017/08/9/north-korea-releases-imprisoned-canadian-pastor-hyeon-soo-lim-on-sick-bail.md)
 North Korea frees a Canadian pastor who was serving a life sentence of hard labour, one day after a Canadian delegation arrived to negotiate his release. 
 
+### [Five transgender United States military personnel, with nearly 60 years of combined military service, sue President Donald Trump and top Pentagon officials over the President's policy change announced late last month banning transgender people from serving in the military. The suit asks the court to prevent the ban from going into effect. ](/news/2017/08/9/five-transgender-united-states-military-personnel-with-nearly-60-years-of-combined-military-service-sue-president-donald-trump-and-top-pen.md)
+The lawsuit was filed by two rights groups, but others say they are holding off until the Trump administration takes steps toward implementing the ban.
+
 ### [Former Prime Minister of Pakistan Nawaz Sharif goes home after his disqualification by the Supreme Court in the Panama Papers case. ](/news/2017/08/9/former-prime-minister-of-pakistan-nawaz-sharif-goes-home-after-his-disqualification-by-the-supreme-court-in-the-panama-papers-case.md)
 _Context: GT road rally, Nawaz Sharif, Panama Papers case, Prime Minister of Pakistan, Supreme Court_
 
-### [President Rodrigo Duterte abolishes the Negros Island Region, first created in 2015. Negros Occidental reverts to the Western Visayas region, while Negros Oriental is moved to the Central Visayas region. ](/news/2017/08/9/president-rodrigo-duterte-abolishes-the-negros-island-region-first-created-in-2015-negros-occidental-reverts-to-the-western-visayas-region.md)
-_Context: Central Visayas, Negros Island Region, Negros Occidental, Negros Oriental, Regions of the Philippines, Rodrigo Duterte, Western Visayas_
+### [President of the Philippines Rodrigo Duterte abolishes the Negros Island Region (first created in 2015 by his predecessor) through Executive Order no. 38, citing lack of funds to fully establish the region. Negros Occidental reverts back to the Western Visayas region, while Negros Oriental back to the Central Visayas region. ](/news/2017/08/9/president-of-the-philippines-rodrigo-duterte-abolishes-the-negros-island-region-first-created-in-2015-by-his-predecessor-through-executive.md)
+Official Gazette of the Republic of the Philippines - The Official Gazette is the official journal of the Republic of the Philippines. Edited at the Office of the President of the Philippines Under Commonwealth Act No. 638
 
 ## [Previous Day...](/news/2017/08/8/index.md)
 
