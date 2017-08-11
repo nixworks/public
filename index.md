@@ -1,7 +1,10 @@
 ## [News](/news/2017/08/11/index.md)
 
-### [Two trains collide in Alexandria, Egypt, killing at least 21 people and leaving at least 55 injured. ](/news/2017/08/11/two-trains-collide-in-alexandria-egypt-killing-at-least-21-people-and-leaving-at-least-55-injured.md)
+### [Two trains collide in Alexandria, Egypt, killing at least 36 people and leaving at least 55 injured. ](/news/2017/08/11/two-trains-collide-in-alexandria-egypt-killing-at-least-36-people-and-leaving-at-least-55-injured.md)
 _Context: Alexandria, Egypt_
+
+### [Cambodia-Laos relationsAccording to Cambodian Prime Minister Hun Sen, 30 Laotian soldiers crossed the border into Steung Treng Province despite repeated requests for them them to leave. Hun Sen gives Laos a six-day ultimatum to withdraw the soldiers or face a military response. ](/news/2017/08/11/cambodiaalaos-relationspaccording-to-cambodian-prime-minister-hun-sen-30-laotian-soldiers-crossed-the-border-into-steung-treng-province-d.md)
+Hun Sen accuses Laotian troops of trespassing into border area and threatens military response if they fail to withdraw.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -30,7 +33,7 @@ August 10, 2017 by: Najmeh Bozorgmehr in Tehran Tehran metropolis council has un
 
 ## [Day Before Yesterday](/news/2017/08/9/index.md)
 
-### [In a suspected terror attack, six French soldiers are injured, three seriously, when a muslim man drives a car into them at a barracks in the Paris suburb of Levallois-Perret. ](/news/2017/08/9/in-a-suspected-terror-attack-six-french-soldiers-are-injured-three-seriously-when-a-muslim-man-drives-a-car-into-them-at-a-barracks-in-th.md)
+### [In a suspected terror attack, six French soldiers are injured, three seriously, when a Muslim man drives a car into them at a barracks in the Paris suburb of Levallois-Perret. ](/news/2017/08/9/in-a-suspected-terror-attack-six-french-soldiers-are-injured-three-seriously-when-a-muslim-man-drives-a-car-into-them-at-a-barracks-in-th.md)
 Six French soldiers have been injured after a car slammed into them before speeding off in a suspected terror attack in Paris. The BMW was parked in an alley before it accelerated into the soldiers as they left their barracks to go on patrol, Patrick Balkany, the mayor of Levallois-Perret, said. &quot;The vehicle did not stop. It hurtled at them... it accelerated rapidly,&quot; he told broadcaster BFM TV.
 
 ### [Hurricane Franklin, the Atlantic Ocean's first hurricane of the season, is set to hit Mexico's  Gulf state of Veracruz tonight or tomorrow morning. The category 1 storm is  expected to lose strength as it moves inland through the oil-producing state. ](/news/2017/08/9/hurricane-franklin-the-atlantic-ocean-s-first-hurricane-of-the-season-is-set-to-hit-mexico-s-gulf-state-of-veracruz-tonight-or-tomorrow-m.md)
