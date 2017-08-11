@@ -6,8 +6,14 @@ Mix includes publications in Alaska, Georgia and Florida.
 ### [The United Nations International Organization for Migration reports, over the last two days in two incidents, smugglers have thrown 280 migrants from Ethiopia and other Horn of Africa countries into the sea off the coast of Yemen. More than 50 refugees have drowned with over 30 people still missing. ](/news/2017/08/10/the-united-nations-international-organization-for-migration-reports-over-the-last-two-days-in-two-incidents-smugglers-have-thrown-280-migr.md)
 Smugglers have caused more than 50 to drown, the U.N. migration agency says
 
-### [Mohammad-Ali Najafi is elected Mayor of Tehran, ending the 12-year tenure of principlist Mohammad-Bagher Ghalibaf. ](/news/2017/08/10/mohammad-ali-najafi-is-elected-mayor-of-tehran-ending-the-12-year-tenure-of-principlist-mohammad-bagher-ghalibaf.md)
-_Context: Mayor of Tehran, Mohammad-Ali Najafi, Mohammad-Bagher Ghalibaf, elected_
+### [At least 36 people die in a bus crash in China's Shaanxi province. The bus was travelling between Chengdu and Luoyang. ](/news/2017/08/10/at-least-36-people-die-in-a-bus-crash-in-china-s-shaanxi-province-the-bus-was-travelling-between-chengdu-and-luoyang.md)
+A passenger coach crashed into the wall of an expressway tunnel in China&#39;s northwest, killing at least 36 people and injuring 13 others, official media reported on Friday.
+
+### [The Canadian government says at least one of their diplomats in Havana has been treated for hearing loss, following up on yesterday's report that American diplomats had similar injuries. U.S. officials say the problems started in the fall of 2016. The Cuban Foreign Ministry says it was informed of the incidents in February and has been investigating since that time. ](/news/2017/08/10/the-canadian-government-says-at-least-one-of-their-diplomats-in-havana-has-been-treated-for-hearing-loss-following-up-on-yesterday-s-report.md)
+_Context: Canada-Cuba relations, Cuba-United States relations, Cuban Foreign Ministry, Havana_
+
+### [Reform candidate Mohammad-Ali Najafi is  unanimously elected  Mayor of Tehran by the city council, ending the 12-year tenure of Principlist Mohammad-Bagher Ghalibaf. ](/news/2017/08/10/reform-candidate-mohammad-ali-najafi-is-unanimously-elected-mayor-of-tehran-by-the-city-council-ending-the-12-year-tenure-of-principlist.md)
+August 10, 2017 by: Najmeh Bozorgmehr in Tehran Tehran metropolis council has unanimously elected a outstanding reformist as town’s mayor, ending hardliners’ 14-year maintain on the Iranian capital’s prime publish. Mohammad-Ali Najaf, a former training minister, replaces Mohammad-Baqer Qalibaf, a former commander of the Revolutionary Guards who contested the presidency in 2005 and 2013. Mr &hellip;
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -17,7 +23,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/08/9/index.md)
 
-### [In a suspected terror attack, six French soldiers are injured, three seriously, after a man drove a car into them at a barracks in the Paris suburb of Levallois-Perret. ](/news/2017/08/9/in-a-suspected-terror-attack-six-french-soldiers-are-injured-three-seriously-after-a-man-drove-a-car-into-them-at-a-barracks-in-the-paris.md)
+### [In a suspected terror attack, six French soldiers are injured, three seriously, when a man drives a car into them at a barracks in the Paris suburb of Levallois-Perret. ](/news/2017/08/9/in-a-suspected-terror-attack-six-french-soldiers-are-injured-three-seriously-when-a-man-drives-a-car-into-them-at-a-barracks-in-the-paris.md)
 Six French soldiers have been injured after a car slammed into them before speeding off in a suspected terror attack in Paris. The BMW was parked in an alley before it accelerated into the soldiers as they left their barracks to go on patrol, Patrick Balkany, the mayor of Levallois-Perret, said. &quot;The vehicle did not stop. It hurtled at them... it accelerated rapidly,&quot; he told broadcaster BFM TV.
 
 ### [Hurricane Franklin, the Atlantic Ocean's first hurricane of the season, is set to hit Mexico's  Gulf state of Veracruz tonight or tomorrow morning. The category 1 storm is  expected to lose strength as it moves inland through the oil-producing state. ](/news/2017/08/9/hurricane-franklin-the-atlantic-ocean-s-first-hurricane-of-the-season-is-set-to-hit-mexico-s-gulf-state-of-veracruz-tonight-or-tomorrow-m.md)

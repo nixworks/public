@@ -8,6 +8,7 @@ Mix includes publications in Alaska, Georgia and Florida.
 ### Source:
 
 1. [AdWeek](http://www.adweek.com/digital/gatehouse-media-morris-communications/)
+2. [USA Today](https://www.usatoday.com/story/money/2017/08/10/many-160-applebees-and-ihop-locations-close/556343001/)
 
 ### Related:
 
