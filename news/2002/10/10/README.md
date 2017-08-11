@@ -1,7 +1,7 @@
 ## [2002-10-10](/news/2002/10/10/index.md)
 
 ### [ France confirms that an explosion aboard French oil tanker ''Limburg'' off the coast of Yemen was, indeed, a terrorist act.](/news/2002/10/10/france-confirms-that-an-explosion-aboard-french-oil-tanker-limburg-off-the-coast-of-yemen-was-indeed-a-terrorist-act.md)
-_Context: Yemen's, oil tanker, terrorism_
+_Context: Yemen, oil tanker, terrorism_
 
 ### [  A suicide bomber killed a 71-year-old woman and injured several other at a bus stop near Tel Aviv, Israel. A large crowd of Palestinian police officers and militiamen marched in a funeral procession for a policeman killed by a Hamas militiaman.  Hamas claims that, although they did not authorize the killing, it was justified under Islamic law.](/news/2002/10/10/a-suicide-bomber-killed-a-71-year-old-woman-and-injured-several-other-at-a-bus-stop-near-tel-aviv-israel-p-a-large-crowd-of-palestinian-p.md)
 _Context: Hamas, Israel, Israeli-Palestinian conflict, Palestinian National Authority, Tel Aviv_

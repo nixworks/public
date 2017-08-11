@@ -1,7 +1,7 @@
 ## [2013-12-6](/news/2013/12/6/index.md)
 
 ### [Al-Qaeda insurgency in Yemen:The Yemeni Defense Ministry regains control of their military compound in Sana'a, Yemen, killing 11 militants in the process. ](/news/2013/12/6/al-qaeda-insurgency-in-yemen-pthe-yemeni-defense-ministry-regains-control-of-their-military-compound-in-sana-a-yemen-killing-11-militants.md)
-_Context: Al-Qaeda insurgency in Yemen, Sana'a, Yemen's_
+_Context: Al-Qaeda insurgency in Yemen, Sana'a, Yemen_
 
 ### [Central African Republic conflict under the Djotodia administration:The Red Cross claims that at least 300 people have died in two days of fighting in Bangui, the capital of the Central African Republic. ](/news/2013/12/6/central-african-republic-conflict-under-the-djotodia-administration-pthe-red-cross-claims-that-at-least-300-people-have-died-in-two-days-of.md)
 At least 300 people have been killed in two days of violence in the Central African Republic capital, Bangui, the Red Cross says.

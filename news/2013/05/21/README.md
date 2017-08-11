@@ -34,7 +34,7 @@ _Context: Brigadier General, Bryan T. Roberts, Commanding General, Fort Jackson,
 _Context: House of Commons, Marriage (Same Sex Couples) Bill, marriage_
 
 ### [Iranian presidential election, 2013:Final list of candidates are announced by Guardian Council. This included Mohammad-Bagher Ghalibaf, Hassan Rouhani, Saeed Jalili, Mohsen Rezaei and four others. ](/news/2013/05/21/iranian-presidential-election-2013-pfinal-list-of-candidates-are-announced-by-guardian-council-this-included-mohammad-bagher-ghalibaf-has.md)
-_Context: Guardian Council, Hassan Rouhani, Mohammad Bagher Ghalibaf, Mohsen Rezaei, Saeed Jalili, presidential_
+_Context: Guardian Council, Hassan Rouhani, Mohammad-Bagher Ghalibaf, Mohsen Rezaei, Saeed Jalili, presidential_
 
 ### [The United States Senate Committee on the Judiciary approves immigration reform legislation that would give citizenship to millions living in the country illegally. ](/news/2013/05/21/the-united-states-senate-committee-on-the-judiciary-approves-immigration-reform-legislation-that-would-give-citizenship-to-millions-living-i.md)
 _Context: Senate Judiciary Committee, citizenship_

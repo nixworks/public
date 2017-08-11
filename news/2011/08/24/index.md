@@ -4,7 +4,7 @@
 Col Muammar Gaddafi last night reportedly vowed death or victory in the fight against &#034;aggression&#034; after his fortified headquarters in Tripoli were overrun.
 
 ### [Air strikes kill 30 Al-Qaeda linked militants near Zinjibar in Yemen's Abyan Governorate  with eight army soldiers killed in fighting. ](/news/2011/08/24/air-strikes-kill-30-al-qaeda-linked-militants-near-zinjibar-in-yemen-s-abyan-governorate-with-eight-army-soldiers-killed-in-fighting.md)
-_Context: Abyan Governorate, Yemen's, Yemeni Army, Zinjibar, al-Qaeda_
+_Context: Abyan Governorate, Yemen, Yemeni Army, Zinjibar, al-Qaeda_
 
 ### [Moody's credit rating agency downgrades Japan to Aa3 due to weak economic growth prospects and high levels of public debt. ](/news/2011/08/24/moody-s-credit-rating-agency-downgrades-japan-to-aa3-due-to-weak-economic-growth-prospects-and-high-levels-of-public-debt.md)
 _Context: Japan, Moody's, credit rating, economic growth, public debt_

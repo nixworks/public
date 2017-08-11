@@ -49,7 +49,7 @@ _Context: Detroit, Kwame Kilpatrick, Mayor of Detroit, corruption_
 In announcing a settlement, the agency said the state had misled investors about the health of its pension system.
 
 ### [A New York state judge invalidates a New York City ban on the sale of soft drinks larger than 16 ounces that was set to take effect on March 12. The office of Mayor Michael Bloomberg indicates it will appeal. ](/news/2013/03/11/a-new-york-state-judge-invalidates-a-new-york-city-ban-on-the-sale-of-soft-drinks-larger-than-16-ounces-that-was-set-to-take-effect-on-march.md)
-_Context: March 12, Mayor, Michael Bloomberg, New York, New York City, ban, ounces, soft drinks_
+_Context: March 12, Mayor, Michael Bloomberg, New York City, New York State, ban, ounces, soft drinks_
 
 ### [Chris Huhne and Vicky Pryce are each jailed for eight months for perverting the course of justice. ([http://www.bbc.co.uk/news/uk-21737627 BBC])](/news/2013/03/11/chris-huhne-and-vicky-pryce-are-each-jailed-for-eight-months-for-perverting-the-course-of-justice-http-www-bbc-co-uk-news-uk-21737627-b.md)
 _Context: Chris Huhne, Vicky Pryce, jailed, perverting the course of justice_

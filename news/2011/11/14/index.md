@@ -10,7 +10,7 @@ _Context: floods_
 _Context: Interpol, Libya, Muammar Gaddafi, National Transitional Council, Niger, Saadi Gaddafi_
 
 ### [Three French aid workers with Triangle Generation Humanitaire kidnapped in Yemen in May are freed. ](/news/2011/11/14/three-french-aid-workers-with-triangle-generation-humanitaire-kidnapped-in-yemen-in-may-are-freed.md)
-_Context: French-born, Triangle Generation Humanitaire, Yemen's_
+_Context: French-born, Triangle Generation Humanitaire, Yemen_
 
 ### [Anders Breivik goes on trial for terrorism in Norway. ](/news/2011/11/14/anders-breivik-goes-on-trial-for-terrorism-in-norway.md)
 _Context: Anders Behring Breivik, Norway_

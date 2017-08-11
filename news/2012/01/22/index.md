@@ -34,7 +34,7 @@ _Context: Arizona, Gabrielle Giffords, United States House of Representatives, a
 _Context: Finnish Presidential election_
 
 ### [Yemeni President Ali Abdullah Saleh announces that he is to leave for treatment in the United States. ](/news/2012/01/22/yemeni-president-ali-abdullah-saleh-announces-that-he-is-to-leave-for-treatment-in-the-united-states.md)
-_Context: Saleh, U.S., Yemen's, Yemeni President_
+_Context: Saleh, U.S., Yemen, Yemeni President_
 
 ## [Previous Day...](/news/2012/01/21/index.md)
 

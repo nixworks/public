@@ -19,7 +19,7 @@ The family of John McAreavey has appealed for privacy and cautioned members of t
 _Context: Burma, Mandalay, Yangon_
 
 ### [Voters in the US states of Arkansas and Kentucky go to the polls, with Mitt Romney winning the Republican primaries, and President Barack Obama winning but performing relatively poorly against token opposition in the Democratic primaries. ](/news/2012/05/22/voters-in-the-us-states-of-arkansas-and-kentucky-go-to-the-polls-with-mitt-romney-winning-the-republican-primaries-and-president-barack-ob.md)
-_Context: Arkansas, Barack Obama, Democratic primaries, Kentucky, Mitt Romney, President of the United States, Republican primaries, US state_
+_Context: Arkansas, Barack Obama, Democratic primaries, Kentucky, Mitt Romney, President, Republican primaries, US state_
 
 ### [British naval officer Commander Sarah West is appointed commander of the Royal Navy frigate Portland|F79|6, becoming the first female officer to take command of a major British warship. ](/news/2012/05/22/british-naval-officer-commander-sarah-west-is-appointed-commander-of-the-royal-navy-frigate-portland-f79-6-becoming-the-first-female-office.md)
 The first female commander of a major Royal Navy (RN) warship is taking up her post today.

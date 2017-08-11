@@ -10,7 +10,7 @@ More than 100,000 protesters took to the streets in Spain on Sunday blaming bank
 _Context: South Kordofan, Southern Sudan, Sudan People's Armed Forces_
 
 ### [16 people are killed in clashes between the army and militants in southern Yemen. ](/news/2011/06/19/16-people-are-killed-in-clashes-between-the-army-and-militants-in-southern-yemen.md)
-_Context: Yemen's_
+_Context: Yemen_
 
 ### [The Philippines commemorates the 150th birth anniversary of Jose Rizal with the unveiling of the world's tallest statue of him in his hometown of Calamba, Laguna. ](/news/2011/06/19/the-philippines-commemorates-the-150th-birth-anniversary-of-josa-c-rizal-with-the-unveiling-of-the-world-s-tallest-statue-of-him-in-his-homet.md)
 _Context: Calamba, Laguna, Jose Rizal, Philippines_

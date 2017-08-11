@@ -1,7 +1,7 @@
 ## [2009-02-24](/news/2009/02/24/index.md)
 
 ### [ United States President Barack Obama addresses a joint session of Congress. ](/news/2009/02/24/united-states-president-barack-obama-addresses-a-joint-session-of-congress.md)
-_Context: Barack Obama, President of the United States, addresses, joint session of Congress_
+_Context: Barack Obama, President, addresses, joint session of Congress_
 
 ### [ The U.S. Senate confirms Hilda Solis as the Secretary of Labor. ](/news/2009/02/24/the-u-s-senate-confirms-hilda-solis-as-the-secretary-of-labor.md)
 Earlier we reported that the Senate would hold a vote to cut off debate today on the nomination of Rep. Hilda Solis, D-Calif., as secretary of Labor. Now comes word that senators have reached an agreement to avoid that and...
@@ -34,13 +34,13 @@ Dublin&#39;s ISEQ index hit a 14-year low this morning, as markets around the wo
 Gardaí attached to the ODCE have ended their search at the Anglo Irish Bank headquarters in Dublin.
 
 ### [ Iraq's Police Service kills an Iraqi interpreter and injures at least three U.S. soldiers in Mosul. ](/news/2009/02/24/iraq-s-police-service-kills-an-iraqi-interpreter-and-injures-at-least-three-u-s-soldiers-in-mosul.md)
-_Context: Iraq, Iraq War, Iraqi, Iraqi Police, Mosul, U.S., United States Armed Forces, interpreter_
+_Context: Iraq, Iraq War, Iraqi, Iraqi Police, Mosul, U.S., United States military personnel, interpreter_
 
 ### [ At least 15 people are killed and 90 injured in heavy fighting in Mogadishu, Somalia. ](/news/2009/02/24/at-least-15-people-are-killed-and-90-injured-in-heavy-fighting-in-mogadishu-somalia.md)
 _Context: Mogadishu, Somalia, heavy fighting_
 
 ### [ U.S. President Obama and Japanese Prime Minister Taro Aso pledge to cooperate in stimulating economic demand and combating protectionism. ](/news/2009/02/24/u-s-president-obama-and-japanese-prime-minister-taro-aso-pledge-to-cooperate-in-stimulating-economic-demand-and-combating-protectionism.md)
-_Context: Barack Obama, Japan, President of the United States, Prime Minister of Japan, Taro Aso, U.S., protectionism, stimulating economic demand_
+_Context: Barack Obama, Japan, President, Prime Minister of Japan, Taro Aso, U.S., protectionism, stimulating economic demand_
 
 ### [ Italian Prime Minister Silvio Berlusconi and French President Nicolas Sarkozy agree to cooperate in reviving nuclear power in Italy. ](/news/2009/02/24/italian-prime-minister-silvio-berlusconi-and-french-president-nicolas-sarkozy-agree-to-cooperate-in-reviving-nuclear-power-in-italy.md)
 _Context: France, Italian, Italian Prime Minister, Nicolas Sarkozy, President of France, Silvio Berlusconi, nuclear power_

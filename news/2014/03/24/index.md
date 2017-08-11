@@ -1,7 +1,7 @@
 ## [2014-03-24](/news/2014/03/24/index.md)
 
 ### [Twenty soldiers are killed in an attack on a military checkpoint in eastern Yemen. ](/news/2014/03/24/twenty-soldiers-are-killed-in-an-attack-on-a-military-checkpoint-in-eastern-yemen.md)
-_Context: Yemen's_
+_Context: Yemen_
 
 ### [Malaysia Airlines Flight 370:Chinese aircrew report seeing "suspicious objects" in the southern Indian Ocean while searching for the missing Malaysian Airlines plane. ](/news/2014/03/24/malaysia-airlines-flight-370-pchinese-aircrew-report-seeing-suspicious-objects-in-the-southern-indian-ocean-while-searching-for-the-missin.md)
 _Context: Indian Ocean, Malaysia Airlines Flight 370, Malaysian Airlines_

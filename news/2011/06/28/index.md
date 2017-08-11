@@ -37,7 +37,7 @@ _Context: Christine Lagarde, Dominique Strauss-Kahn, International Monetary Fund
 Angry Tepco shareholders fail to force the company to abandon nuclear power in the wake of the Fukushima Daiichi radiation crisis.
 
 ### [The New York Court of Appeals rules that insurance policyholders opposed to a restructuring plan undertaken by MBIA in 2009 with the approval of its primary regulator, New York's insurance authorities, may sue for fraudulent conveyance in a trial court in that state.  ](/news/2011/06/28/the-new-york-court-of-appeals-rules-that-insurance-policyholders-opposed-to-a-restructuring-plan-undertaken-by-mbia-in-2009-with-the-approva.md)
-_Context: 2009, MBIA, New York, New York Court of Appeals, fraudulent conveyance_
+_Context: 2009, MBIA, New York Court of Appeals, New York State, fraudulent conveyance_
 
 ### [The crew of the International Space Station rush to a rescue shuttle amid concern of the need for a possible emergency evacuation back to Earth as a piece of space debris hurtles dangerously close. ](/news/2011/06/28/the-crew-of-the-international-space-station-rush-to-a-rescue-shuttle-amid-concern-of-the-need-for-a-possible-emergency-evacuation-back-to-ea.md)
 A piece of debris narrowly misses the International Space Station in an incident that forced its crew to scramble to their rescue craft.

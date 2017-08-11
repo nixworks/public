@@ -46,7 +46,7 @@ Decision blamed on legal move by Holland-based pro-Moluccan group to have Yudhoy
 Former Pakistani military ruler Pervez Musharraf says that his forces trained militant groups to fight in Indian-administered Kashmir.
 
 ### [President of the United States Barack Obama announces plans via Secretary of Energy Steven Chu that additional solar panels will be installed at the White House, while the founder of Sungevity plans to install solar panels at the private official residence of President of the Maldives Mohamed Nasheed for the "Global Work Party" event planned by 350. ](/news/2010/10/5/president-of-the-united-states-barack-obama-announces-plans-via-secretary-of-energy-steven-chu-that-additional-solar-panels-will-be-installe.md)
-_Context: Barack Obama, Mohamed Nasheed, President, President of the United States, Steven Chu, Sungevity, White House, solar panel_
+_Context: Barack Obama, Mohamed Nasheed, President, President, Steven Chu, Sungevity, White House, solar panel_
 
 ### [1976 Nobel Peace Prize laureate Mairead Maguire is deported by Israel ending her joint effort with other Nobel laureates to meet Israeli and Palestinian peace activists. ](/news/2010/10/5/1976-nobel-peace-prize-laureate-mairead-maguire-is-deported-by-israel-ending-her-joint-effort-with-other-nobel-laureates-to-meet-israeli-and.md)
 Israel deported Irish Nobel peace laureate Mairead Maguire on Tuesday, after the country’s highest court rejected her appeal against a deportation order. “The supreme court yesterday ruled that she mu
@@ -58,7 +58,7 @@ _Context: Israel Defense Forces, Palestinian_
 A Saudi Arabian prince murdered his servant in a London hotel in an attack with a &quot;gay sexual element&quot;, the Old Bailey hears.
 
 ### [Faisal Shahzad, the failed Times Square bomber, is sentenced to life imprisonment without the possibility of parole by a court in New York. ](/news/2010/10/5/faisal-shahzad-the-failed-times-square-bomber-is-sentenced-to-life-imprisonment-without-the-possibility-of-parole-by-a-court-in-new-york.md)
-_Context: Faisal Shahzad, New York, Times Square bomber, life imprisonment_
+_Context: Faisal Shahzad, New York State, Times Square bomber, life imprisonment_
 
 ### [Former Societe Generale trader Jerome Kerviel is sentenced to three years in jail in France for his role in the 2008 Societe Generale trading loss. ](/news/2010/10/5/former-socia-c-ta-c-ga-c-na-c-rale-trader-ja-c-ra-me-kerviel-is-sentenced-to-three-years-in-jail-in-france-for-his-role-in-the-2008-socia-c-ta-c-ga-c-na-c-r.md)
 Former Societe Generale trader Jerome Kerviel sentenced to three years in jail and ordered to repay 4.9 billion euros.

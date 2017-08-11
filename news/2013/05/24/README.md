@@ -7,7 +7,7 @@ Afghan security forces battle Taliban insurgents for hours in central Kabul, fol
 _Context: Pakistan, Peshawar, War in North-West Pakistan, suicide bombing_
 
 ### [Al-Qaeda insurgency in Yemen:Attackers blow up Yemen's main oil pipeline, halting the flow of crude oil. ](/news/2013/05/24/al-qaeda-insurgency-in-yemen-pattackers-blow-up-yemen-s-main-oil-pipeline-halting-the-flow-of-crude-oil.md)
-_Context: Al-Qaeda insurgency in Yemen, Yemen's, crude oil, pipeline_
+_Context: Al-Qaeda insurgency in Yemen, Yemen, crude oil, pipeline_
 
 ### [A collision between a hotel shuttle bus and a tractor-trailer occurs near the Atlanta airport, injuring eighteen people. ](/news/2013/05/24/a-collision-between-a-hotel-shuttle-bus-and-a-tractor-trailer-occurs-near-the-atlanta-airport-injuring-eighteen-people.md)
 Authorities say 18 people have been taken to the hospital following a crash between a hotel shuttle bus and a tractor-trailer near Atlanta&#39;s airport.

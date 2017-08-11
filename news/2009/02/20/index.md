@@ -16,7 +16,7 @@ _Context: Ivars Godmanis, Latvia, Prime Minister of Latvia, government_
 _Context: US$, futures, gold_
 
 ### [ New York State Attorney General Andrew Cuomo subpoenas Bank of America Chairman and CEO Kenneth Lewis for misleading investors during the purchase of Merrill Lynch. ](/news/2009/02/20/new-york-state-attorney-general-andrew-cuomo-subpoenas-bank-of-america-chairman-and-ceo-kenneth-lewis-for-misleading-investors-during-the-p.md)
-_Context: Andrew Cuomo, Bank of America, Kenneth Lewis, Merrill Lynch, New York, State Attorney General, chief executive officer, subpoena_
+_Context: Andrew Cuomo, Bank of America, Kenneth Lewis, Merrill Lynch, New York State, State Attorney General, chief executive officer, subpoena_
 
 ### [ Saab Automobile files for bankruptcy protection. ](/news/2009/02/20/saab-automobile-files-for-bankruptcy-protection.md)
 _Context: Saab Automobile, bankruptcy, bankruptcy protection_

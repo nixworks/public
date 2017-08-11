@@ -4,7 +4,7 @@
 _Context: Arab, Human Rights Watch, South Darfur, conflict, militia_
 
 ### [ Severe flooding in Yemen kills 58 people and displaces 20,000 more. ](/news/2008/10/25/severe-flooding-in-yemen-kills-58-people-and-displaces-20-000-more.md)
-_Context: Severe flooding, Yemen's_
+_Context: Severe flooding, Yemen_
 
 ## [Previous Day...](/news/2008/10/24/index.md)
 

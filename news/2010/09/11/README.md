@@ -40,7 +40,7 @@ A moderate 5.9-magnitude earthquake struck Indonesia&#039;s North Maluku provinc
 _Context: California, San Bruno, San Francisco, California, U.S., pipeline explosion_
 
 ### [Four people are dead and twenty-five people are hospitalised after a Coach USA Megabus crashes into a railroad overpass in Salina, New York. ](/news/2010/09/11/four-people-are-dead-and-twenty-five-people-are-hospitalised-after-a-coach-usa-megabus-crashes-into-a-railroad-overpass-in-salina-new-york.md)
-_Context: Coach USA, Megabus, New York, Salina, overpass, railroad_
+_Context: Coach USA, Megabus, New York State, Salina, overpass, railroad_
 
 ### [More than 300 flights from Shanghai, China are delayed due to torrential rain caused by Tropical Storm Meranti. ](/news/2010/09/11/more-than-300-flights-from-shanghai-china-are-delayed-due-to-torrential-rain-caused-by-tropical-storm-meranti.md)
 _Context: Chinese, Shanghai, Typhoon Chaba_

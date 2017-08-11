@@ -64,7 +64,7 @@ The exiled Tibetan Parliament here on Friday unanimously accepted the Dalai Lama
 _Context: Minister of Public Works, Movement for Democratic Change, Theresa Makone, Zimbabwe_
 
 ### [Yassin Noman, the head of Yemen's opposition coalition, rejects the offers by the President of Yemen Ali Abdullah Saleh to resign by the end of the year. ](/news/2011/03/25/yassin-noman-the-head-of-yemen-s-opposition-coalition-rejects-the-offers-by-the-president-of-yemen-ali-abdullah-saleh-to-resign-by-the-end.md)
-_Context: Saleh, Yassin Noman, Yemen's, Yemeni President_
+_Context: Saleh, Yassin Noman, Yemen, Yemeni President_
 
 ### [The Northern Ireland Assembly dissolves ahead of May elections. ](/news/2011/03/25/the-northern-ireland-assembly-dissolves-ahead-of-may-elections.md)
 _Context: Northern Ireland Assembly, Northern Ireland Assembly election_

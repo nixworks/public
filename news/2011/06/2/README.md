@@ -10,7 +10,7 @@ _Context: Bashar al-Assad, President, Syria, Syrian Civil War, Turkey_
 _Context: Afghan, Dir District, Pakistan Army_
 
 ### [A freelance reporter claims that snipers are shooting at protesters in the Yemeni capital Sana'a. ](/news/2011/06/2/a-freelance-reporter-claims-that-snipers-are-shooting-at-protesters-in-the-yemeni-capital-sana-a.md)
-_Context: 2011 Yemeni uprising, Sana'a, Yemen's, sniper_
+_Context: 2011 Yemeni uprising, Sana'a, Yemen, sniper_
 
 ### [The FBI investigate claims that hackers in China attacked the Google email accounts of officials in the United States and Asian countries, as well as Chinese pro-democracy activists. ](/news/2011/06/2/the-fbi-investigate-claims-that-hackers-in-china-attacked-the-google-email-accounts-of-officials-in-the-united-states-and-asian-countries-a.md)
 China rejects allegations of involvement in a cyber-spying campaign targeting the Gmail accounts of top US officials, military personnel and journalists.

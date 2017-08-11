@@ -7,7 +7,7 @@ Venezuelan President Hugo Chavez received on Tuesday Argentine President Cristin
 _Context: killer whale_
 
 ### [ Yemeni troops, backed by tanks and fighter aircraft, launch a major offensive on the stronghold of Shia fighters in northern Yemen. ](/news/2009/08/12/yemeni-troops-backed-by-tanks-and-fighter-aircraft-launch-a-major-offensive-on-the-stronghold-of-shia-fighters-in-northern-yemen.md)
-_Context: Shia, Shia insurgency in Yemen, Yemen's_
+_Context: Shia, Shia insurgency in Yemen, Yemen_
 
 ### [ Thirty people are killed in Warrap state in southern Sudan, in a resurgence of the nomadic conflicts. ](/news/2009/08/12/thirty-people-are-killed-in-warrap-state-in-southern-sudan-in-a-resurgence-of-the-nomadic-conflicts.md)
 _Context: Sudan, Warrap state, renewed violence_

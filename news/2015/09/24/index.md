@@ -1,7 +1,7 @@
 ## [2015-09-24](/news/2015/09/24/index.md)
 
 ### [At least 29 people are killed in a bombing of a mosque in the Yemeni capital Sana'a during prayers for Eid al-Adha. ](/news/2015/09/24/at-least-29-people-are-killed-in-a-bombing-of-a-mosque-in-the-yemeni-capital-sana-a-during-prayers-for-eid-al-adha.md)
-_Context: Eid al-Adha, Sana'a, Yemen's, Yemeni Crisis (2011-present), mosque_
+_Context: Eid al-Adha, Sana'a, Yemen, Yemeni Crisis (2011-present), mosque_
 
 ### [The government of Armenia claims that Azerbaijani forces shelled Tavush Province resulting in three deaths. ](/news/2015/09/24/the-government-of-armenia-claims-that-azerbaijani-forces-shelled-tavush-province-resulting-in-three-deaths.md)
 _Context: Armenia, Azerbaijani forces, Nagorno-Karabakh conflict, Tavush Province_

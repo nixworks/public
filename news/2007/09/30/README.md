@@ -28,7 +28,7 @@ _Context: National League East, New York Mets, Philadelphia Phillies, Washington
 _Context: 1959, 1977, 1992, AP Poll, Boston College, Kentucky, Louisiana State University, U.S., University of South Florida, college football_
 
 ### [ A dormant volcano erupts on Jabal al-Tair, a Yemeni island in the Red Sea. ](/news/2007/09/30/a-dormant-volcano-erupts-on-jabal-al-tair-a-yemeni-island-in-the-red-sea.md)
-_Context: Jabal al-Tair, Red Sea, Yemen's, volcanic activity_
+_Context: Jabal al-Tair, Red Sea, Yemen, volcanic activity_
 
 ## [Previous Day...](/news/2007/09/29/index.md)
 

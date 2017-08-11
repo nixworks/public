@@ -4,7 +4,7 @@
 Meeting comes as funerals for 44 victims of twin car bombs in Damascus turn into a strong display of support for Assad.
 
 ### [Government troops in Yemen fire on anti-government protesters demanding the trial of President Ali Abdullah Saleh, killing at least nine people. ](/news/2011/12/24/government-troops-in-yemen-fire-on-anti-government-protesters-demanding-the-trial-of-president-ali-abdullah-saleh-killing-at-least-nine-peo.md)
-_Context: Saleh, Yemen's, Yemeni President_
+_Context: Saleh, Yemen, Yemeni President_
 
 ### [Gun battles in Nigeria between government troops and Islamist Boko Haram militants kill 68 people. ](/news/2011/12/24/gun-battles-in-nigeria-between-government-troops-and-islamist-boko-haram-militants-kill-68-people.md)
 Gun battles between Nigerian security forces and an Islamist sect killed at least 68 people in two days of fighting in northern Nigeria, authorities and hospital sources said on Saturday.

@@ -40,7 +40,7 @@ Remains of the first plane taken to Antarctica, in 1912, have been found by Aust
 Burst oil pipeline dumps thousands of litres of diesel into major tributary.
 
 ### [The United States and United Kingdom close their embassies in Yemen, citing threats from Al-Qaeda. ](/news/2010/01/3/the-united-states-and-united-kingdom-close-their-embassies-in-yemen-citing-threats-from-al-qaeda.md)
-_Context: U.S., United Kingdom, Yemen's, al-Qaeda_
+_Context: U.S., United Kingdom, Yemen, al-Qaeda_
 
 ### [The Supreme Court of Peru upholds a 25 year prison sentence for former President Alberto Fujimori, convicted of mass human rights violations. ](/news/2010/01/3/the-supreme-court-of-peru-upholds-a-25-year-prison-sentence-for-former-president-alberto-fujimori-convicted-of-mass-human-rights-violations.md)
 _Context: Alberto Fujimori, Human rights, President, Supreme Court of Peru_

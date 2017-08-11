@@ -4,7 +4,7 @@
 A wave of car bombs and shootings across Iraq killed at least 36 people on Sunday, police sources said.
 
 ### [Saboteurs blow up an export oil pipeline in Yemen. ](/news/2013/09/15/saboteurs-blow-up-an-export-oil-pipeline-in-yemen.md)
-_Context: Saboteurs, Yemen's, oil pipeline_
+_Context: Saboteurs, Yemen, oil pipeline_
 
 ### [At least 27 miners die in an Afghanistan coal mine collapse. ](/news/2013/09/15/at-least-27-miners-die-in-an-afghanistan-coal-mine-collapse.md)
 Officials say tunnel collapse at Abkhorak mine in northern Samangan province has killed at least 24 workers.

@@ -7,7 +7,7 @@ Gunmen shot dead at least 29 people in Pakistan&#039;s commercial hub Karachi, d
 _Context: Pakistan, Quetta_
 
 ### [Yemen begins a ground and air campaign against al-Qaeda forces, killing at least 6; Western embassies in Yemen  go on high security alert. ](/news/2010/10/17/yemen-begins-a-ground-and-air-campaign-against-al-qaeda-forces-killing-at-least-6-western-embassies-in-yemen-go-on-high-security-alert.md)
-_Context: Yemen's, al-Qaeda_
+_Context: Yemen, al-Qaeda_
 
 ### [70 films from 23 countries and territorries will be shown during the first Vietnam International Film Festival opening in Hanoi. ](/news/2010/10/17/70-films-from-23-countries-and-territorries-will-be-shown-during-the-first-vietnam-international-film-festival-opening-in-hanoi.md)
 _Context: Hanoi, Vietnam International Film Festival_

@@ -16,7 +16,7 @@ _Context: Lou Reed, The Velvet Underground_
 Commuters are being warned of travel disruption on Monday as a storm bringing severe gale-force winds and rain starts to move across England and Wales.
 
 ### [A 37-year-old woman and four children are stabbed to death in Brooklyn, New York City, New York. A man is arrested in connection with the murders. ](/news/2013/10/27/a-37-year-old-woman-and-four-children-are-stabbed-to-death-in-brooklyn-new-york-city-new-york-a-man-is-arrested-in-connection-with-the-mu.md)
-_Context: Brooklyn, New York, New York City_
+_Context: Brooklyn, New York City, New York State_
 
 ### [Voters in Georgia go to the polls for a presidential election with Giorgi Margvelashvili winning a landslide victory. ](/news/2013/10/27/voters-in-georgia-go-to-the-polls-for-a-presidential-election-with-giorgi-margvelashvili-winning-a-landslide-victory.md)
 Voters in Georgia go to the polls in presidential elections that will end nearly a decade in power for Mikheil Saakashvili.

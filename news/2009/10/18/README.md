@@ -1,7 +1,7 @@
 ## [2009-10-18](/news/2009/10/18/index.md)
 
 ### [ Yemen claims to have killed 18 Shia rebels in fighting in the north of the country.](/news/2009/10/18/yemen-claims-to-have-killed-18-shia-rebels-in-fighting-in-the-north-of-the-country.md)
-_Context: Shia, Yemen's_
+_Context: Shia, Yemen_
 
 ### [ Iraq accuses neighbouring countries of stealing sections of its national archives, including centuries-old documents. ](/news/2009/10/18/iraq-accuses-neighbouring-countries-of-stealing-sections-of-its-national-archives-including-centuries-old-documents.md)
 _Context: Iraq, its national archives_

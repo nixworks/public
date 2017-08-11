@@ -46,7 +46,7 @@ _Context: Spain_
 _Context: Brazilian jurisprudence system, Gol Transportes Aereos Flight 1907, U.S._
 
 ### [A 4.0-magnitude (originally, 4.6) earthquake strikes Hollis Center, Maine, roughly 20 miles west of Portland, Maine, the state's largest city. At 3.1 miles deep, it is a shallow earthquake, felt in Maine, southwestern Connecticut, and eastern New York state. There were reports of very minor damage and cellular phone outages, but no serious property damage, injuries, or deaths. ](/news/2012/10/16/a-4-0-magnitude-originally-4-6-earthquake-strikes-hollis-center-maine-roughly-20-miles-west-of-portland-maine-the-state-s-largest-cit.md)
-_Context: Connecticut, Hollis Center, Maine, New York, Portland, cellular phone_
+_Context: Connecticut, Hollis Center, Maine, New York State, Portland, cellular phone_
 
 ### [The European Commissioner for Health and Consumer Policy, John Dalli of Malta, resigns amid corruption charges that he denies. ](/news/2012/10/16/the-european-commissioner-for-health-and-consumer-policy-john-dalli-of-malta-resigns-amid-corruption-charges-that-he-denies.md)
 John Dalli has resigned from the European Commission, the Commission announced in a shock announcement this afternoon. It said that Mr Dalli resigned following an investigation by the EU&#039;s anti-fraud office into a complaint made in May by the tobacco producer Swedish Match. It alleged that a...

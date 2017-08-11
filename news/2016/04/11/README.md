@@ -22,7 +22,7 @@ Intense spell of hot and dry weather brought on by El Nino hits food and water s
 U.S. Secretary of State John Kerry on Monday called his visit to a memorial to victims of the 1945 U.S. nuclear attack on Hiroshima &quot;gut-wrenching&quot; and said it was a reminder of the need to pursue a world free of nuclear weapons.
 
 ### [Ismail Ould Cheikh Ahmed, the United Nations special envoy for Yemen, says he welcomes the tentative truce that started at midnight Yemen time.  The truce opens  unhindered access for relief aid to all of Yemen. Peace talks are set to start later this month. ](/news/2016/04/11/ismail-ould-cheikh-ahmed-the-united-nations-special-envoy-for-yemen-says-he-welcomes-the-tentative-truce-that-started-at-midnight-yemen-ti.md)
-_Context: Houthi insurgency in Yemen, Ismail Ould Cheikh Ahmed, United Nations, Yemen's, Yemeni Crisis (2011-present)_
+_Context: Houthi insurgency in Yemen, Ismail Ould Cheikh Ahmed, United Nations, Yemen, Yemeni Crisis (2011-present)_
 
 ### [South Korea announces that a colonel from North Korea's military spy agency defected to the south last year. Senior-level defections are rare, most being low level operatives. ](/news/2016/04/11/south-korea-announces-that-a-colonel-from-north-korea-s-military-spy-agency-defected-to-the-south-last-year-senior-level-defections-are-rar.md)
 SEOUL, South Korea (AP) — A colonel from North Korea&#039;s military spy agency fled to South Korea last year in a rare senior-level defection, Seoul officials said Monday. The announcement came three days after Seoul revealed…

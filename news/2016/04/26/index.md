@@ -55,7 +55,7 @@ _Context: Juba, Riek Machar, South Sudanese Civil War, Vice-President_
 Clashes break out between migrants and riot police at a detention centre on the Greek island of Lesbos, police say.
 
 ### [Following heavy pressure from world powers, Yemen's warring factions agree on an agenda for U.N.-backed peace negotiations to continue. ](/news/2016/04/26/following-heavy-pressure-from-world-powers-yemen-s-warring-factions-agree-on-an-agenda-for-u-n-backed-peace-negotiations-to-continue.md)
-_Context: United Nations, Yemen's, Yemeni Civil War_
+_Context: United Nations, Yemen, Yemeni Civil War_
 
 ### [After many delays, Venezuela's electoral council releases petition sheets to the opposition alliance that wants to initiate a recall referendum against President Nicolas Maduro. Within three days, the petitioners need to collect about 200,000 signatures (1 percent of registered voters) before proceeding to the next step, the collection of 20 million signatures to get the referendum on the ballot. ](/news/2016/04/26/after-many-delays-venezuela-s-electoral-council-releases-petition-sheets-to-the-opposition-alliance-that-wants-to-initiate-a-recall-referen.md)
 CARACAS, Venezuela (AP) — Venezuela&#039;s electoral council on Tuesday took steps to allow opponents of President Nicolas Maduro to try and initiate a recall referendum against the socialist leader. The electoral authority…

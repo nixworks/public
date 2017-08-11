@@ -4,7 +4,7 @@
 _Context: Baghdad, Iraqi Civil War, suicide bombing_
 
 ### [Saudi-led air strikes kill at least ten al Qaeda in the Arabian Peninsula fighters in southern Yemen. ](/news/2016/04/24/saudi-led-air-strikes-kill-at-least-ten-al-qaeda-in-the-arabian-peninsula-fighters-in-southern-yemen.md)
-_Context: Yemen's, Yemeni Civil War, al-Qaida_
+_Context: Yemen, Yemeni Civil War, al-Qaida_
 
 ### [Rockets fired by ISIL from northern Syria hit a poor neighborhood and a mosque in the Turkish city of Kilis, killing one person and injuring 26 others. Turkish security forces responded by returning fire into Syria. ](/news/2016/04/24/rockets-fired-by-isil-from-northern-syria-hit-a-poor-neighborhood-and-a-mosque-in-the-turkish-city-of-kilis-killing-one-person-and-injuring.md)
 One person was killed and 26 others injured on Sunday in the Turkish border town of Kilis after rockets were fired from a region of Syria controlled

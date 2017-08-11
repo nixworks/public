@@ -28,7 +28,7 @@ _Context: Bernard Kouchner, Carl Bildt, European Union, France, Minister of Fore
 _Context: Chinese, Lhasa, Tibet Autonomous Region, free Tibet_
 
 ### [ Governor of New York Eliot Spitzer resigns effective March 17 amid a prostitution ring scandal. He will be replaced by David Paterson, the first African American and legally blind person to hold this position. ](/news/2008/03/12/governor-of-new-york-eliot-spitzer-resigns-effective-march-17-amid-a-prostitution-ring-scandal-he-will-be-replaced-by-david-paterson-the.md)
-_Context: African-American, David Paterson, Eliot Spitzer, Governor, March 17, New York_
+_Context: African-American, David Paterson, Eliot Spitzer, Governor, March 17, New York State_
 
 ### [ A gunman opens fire at a bank in McComb, Mississippi, killing two people, before forcing his wife into a car and driving away, later killing her and committing suicide. ](/news/2008/03/12/a-gunman-opens-fire-at-a-bank-in-mccomb-mississippi-killing-two-people-before-forcing-his-wife-into-a-car-and-driving-away-later-killin.md)
 _Context: McComb, Mississippi_

@@ -22,7 +22,7 @@ _Context: Microsoft, Windows Vista, beta test_
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ### [ At least 36 people are dead after two days of violent fuel riots in Yemen. ](/news/2005/07/22/at-least-36-people-are-dead-after-two-days-of-violent-fuel-riots-in-yemen.md)
-_Context: Yemen's_
+_Context: Yemen_
 
 ### [ At least 15 people are killed when a dam collapses in south-west China. ](/news/2005/07/22/at-least-15-people-are-killed-when-a-dam-collapses-in-south-west-china.md)
 _Context: China, dam_
@@ -37,7 +37,7 @@ _Context: (Wikinews), London, mosque_
 _Context: Chiba prefecture, Chinese, cargo ship_
 
 ### [ The Pentagon confirms that 52 detainees of the Guantanamo camp have gone on hunger strike. ](/news/2005/07/22/the-pentagon-confirms-that-52-detainees-of-the-guantanamo-camp-have-gone-on-hunger-strike.md)
-_Context: Guantnamo Bay detainment camp, The Pentagon, hunger strike_
+_Context: Guantnamo Bay detainment camp, Pentagon officials, hunger strike_
 
 ### [ Leaked excerpts from the United Nations' report into Zimbabwe's Operation Murambatsvina state that the operation has been a "disastrous venture" that has violated international law and created a grave humanitarian crisis. It further suggests that the act might qualify as a crime against humanity and urged Zimbabwe to prosecute those responsible. ](/news/2005/07/22/leaked-excerpts-from-the-united-nations-report-into-zimbabwe-s-operation-murambatsvina-state-that-the-operation-has-been-a-disastrous-ven.md)
 _Context: Operation Murambatsvina, United Nations, Zimbabwe, crimes against humanity, humanitarian crisis, international law_

@@ -4,7 +4,7 @@
 A suicide bomber in an explosive-laden car rammed into a police station in Peshawar, Pakistan, on Wednesday in a Taliban attack that killed seven police officers and injured several others, a senior police official said.
 
 ### [Violent clashes occur between tribesmen and government officials in Sana'a, Yemen. ](/news/2011/05/25/violent-clashes-occur-between-tribesmen-and-government-officials-in-sana-a-yemen.md)
-_Context: 2011 Yemeni uprising, Sana'a, Yemen's_
+_Context: 2011 Yemeni uprising, Sana'a, Yemen_
 
 ### [South African President Jacob Zuma will visit Libya for talks with  Libyan leader Muammar Gaddafi, in renewed efforts by the African Union to broker a cease-fire in the 2011 Libyan civil war. ](/news/2011/05/25/south-african-president-jacob-zuma-will-visit-libya-for-talks-with-libyan-leader-muammar-gaddafi-in-renewed-efforts-by-the-african-union-t.md)
 _Context: African Union, Jacob Zuma, Libya, Libyan Civil War, Muammar Gaddafi, President, South Africa_
@@ -37,7 +37,7 @@ _Context: Fukushima Daiichi Nuclear Power Plant, Fukushima Daiichi nuclear disas
 A small aircraft with 7 on board crashed into a colony in Faridabad on Wednesday, killing all on board. 3 more persons were killed on the ground. 
 
 ### [Barack Obama, the President of the United States, addresses the Parliament of the United Kingdom. ](/news/2011/05/25/barack-obama-the-president-of-the-united-states-addresses-the-parliament-of-the-united-kingdom.md)
-_Context: Barack Obama, Parliament, President of the United States_
+_Context: Barack Obama, Parliament, President_
 
 ### [Christine Lagarde, the French Minister for Finance, announces her candidacy to be head of the International Monetary Fund. ](/news/2011/05/25/christine-lagarde-the-french-minister-for-finance-announces-her-candidacy-to-be-head-of-the-international-monetary-fund.md)
 Since Dominique Strauss-Kahn resigned to fight sexual assault charges, Finance Minister Christine Lagarde of France has become a top candidate to lead the International Monetary Fund.

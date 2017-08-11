@@ -4,19 +4,19 @@
 _Context: Catholic, Ireland, Roman Catholic, Treaty of Lisbon, bishop, the second Irish referendum_
 
 ### [ At least 87 refugees are killed after an army air raid on a camp for displaced people in 'Amran Governorate, northern Yemen. ](/news/2009/09/17/at-least-87-refugees-are-killed-after-an-army-air-raid-on-a-camp-for-displaced-people-in-amran-governorate-northern-yemen.md)
-_Context: 'Amran Governorate, Yemen's, soldiers_
+_Context: 'Amran Governorate, Yemen, soldiers_
 
 ### [ The President of France Nicolas Sarkozy says European Union leaders agree to impose a cap on banker pay. ](/news/2009/09/17/the-president-of-france-nicolas-sarkozy-says-european-union-leaders-agree-to-impose-a-cap-on-banker-pay.md)
 _Context: European Union, Nicolas Sarkozy, President of France, banking_
 
 ### [ The Prime Minister of the Czech Republic, Jan Fischer, says that President Barack Obama told him that the United States is abandoning plans for a missile shield based in Poland and the Czech Republic. ](/news/2009/09/17/the-prime-minister-of-the-czech-republic-jan-fischer-says-that-president-barack-obama-told-him-that-the-united-states-is-abandoning-plans.md)
-_Context: Barack Obama, Czech Republic, Jan Fischer, Poland, President of the United States, Prime Minister of the Czech Republic, U.S., missile shield_
+_Context: Barack Obama, Czech Republic, Jan Fischer, Poland, President, Prime Minister of the Czech Republic, U.S., missile shield_
 
 ### [ Two large explosions hit the main base of African Union peacekeepers in Mogadishu, Somalia. ](/news/2009/09/17/two-large-explosions-hit-the-main-base-of-african-union-peacekeepers-in-mogadishu-somalia.md)
 _Context: African Union, Mogadishu, Somalia_
 
 ### [ Shia insurgency in Yemen: More than 80 people are killed in an air raid on a camp for displaced people in northern Yemen. ](/news/2009/09/17/shia-insurgency-in-yemen-more-than-80-people-are-killed-in-an-air-raid-on-a-camp-for-displaced-people-in-northern-yemen.md)
-_Context: Shia insurgency in Yemen, Yemen's_
+_Context: Shia insurgency in Yemen, Yemen_
 
 ### [ A number of children are injured in an attack at the Carolinum secondary school in the Bavarian town of Ansbach. German police arrest a man. ](/news/2009/09/17/a-number-of-children-are-injured-in-an-attack-at-the-carolinum-secondary-school-in-the-bavarian-town-of-ansbach-german-police-arrest-a-man.md)
 An 18-year-old student armed with an axe has been arrested in Germany after throwing petrol bombs into two classrooms at his school.

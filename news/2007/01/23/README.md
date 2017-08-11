@@ -31,7 +31,7 @@ _Context: Guinea, Lansana Conte, President of Guinea, general strike_
 _Context: Mogadishu, two years of helping_
 
 ### [ President of the United States George W. Bush delivers the 2007 State of the Union Address, in which he remains steadfast to his Iraq policies, but also reaches out to political opponents by proposing environmental and social reforms. ](/news/2007/01/23/president-of-the-united-states-george-w-bush-delivers-the-2007-state-of-the-union-address-in-which-he-remains-steadfast-to-his-iraq-polic.md)
-_Context: 2007 State of the Union Address, Democratic, George W. Bush, President of the United States, U.S. presence in Iraq_
+_Context: 2007 State of the Union Address, Democratic, George W. Bush, President, U.S. presence in Iraq_
 
 ## [Previous Day...](/news/2007/01/22/index.md)
 

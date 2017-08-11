@@ -10,7 +10,7 @@ Opposition calls for further reform at first protest in months after martial law
 _Context: 1998 United States embassy bombings, Fazul Abdullah Mohammed, Kenya, Somalia, Tanzania_
 
 ### [2011 Yemeni uprising: Yemeni President Ali Abdullah Saleh's health is in poor condition a week after a bomb blast injured him and killed several others. ](/news/2011/06/11/2011-yemeni-uprising-yemeni-president-ali-abdullah-saleh-s-health-is-in-poor-condition-a-week-after-a-bomb-blast-injured-him-and-killed-sev.md)
-_Context: 2011 Yemeni uprising, Saleh, Yemen's, Yemeni President_
+_Context: 2011 Yemeni uprising, Saleh, Yemen, Yemeni President_
 
 ### [2011 Libyan civil war: Rebels make further gains west of Tripoli, battling in Zawiya just 30 miles from the capital. ](/news/2011/06/11/2011-libyan-civil-war-rebels-make-further-gains-west-of-tripoli-battling-in-zawiya-just-30-miles-from-the-capital.md)
 _Context: Libyan Civil War, Tripoli, Zawiya_

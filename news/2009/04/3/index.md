@@ -19,7 +19,7 @@ _Context: Iowa, Iowa Supreme Court, U.S. state, legalizes, same-sex marriage_
 _Context: Clondalkin, Dublin, Ireland, riot_
 
 ### [ Fourteen people die and 26 are injured during a shooting at the American Civic Association in Binghamton, New York. ](/news/2009/04/3/fourteen-people-die-and-26-are-injured-during-a-shooting-at-the-american-civic-association-in-binghamton-new-york.md)
-_Context: American Civic Association, Binghamton, New York, shooting_
+_Context: American Civic Association, Binghamton, New York State, shooting_
 
 ### [ Scottish footballers Barry Ferguson and Allan McGregor receive lifetime bans from the Scottish Football Association and are transfer-listed by Rangers Football Club. ](/news/2009/04/3/scottish-footballers-barry-ferguson-and-allan-mcgregor-receive-lifetime-bans-from-the-scottish-football-association-and-are-transfer-listed.md)
 _Context: Allan McGregor, Barry Ferguson, Rangers F.C., Scotland, Scottish Football Association, association football, bans, transfer-listed_

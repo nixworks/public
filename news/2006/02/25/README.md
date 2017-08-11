@@ -4,7 +4,7 @@
 _Context: 2006 Chad Presidential Election, Chad President, Idriss Deby, Mohammed Nour_
 
 ### [ A New Jersey company is accused of harvesting body parts from New York funeral homes for transplants. An estimated 12,000 people received the body parts. ](/news/2006/02/25/a-new-jersey-company-is-accused-of-harvesting-body-parts-from-new-york-funeral-homes-for-transplants-an-estimated-12-000-people-received-t.md)
-_Context: New Jersey, New York_
+_Context: New Jersey, New York State_
 
 ### [ Ugandan general election, 2006: Yoweri Museveni, President of Uganda since 1986, is re-elected. ](/news/2006/02/25/ugandan-general-election-2006-yoweri-museveni-president-of-uganda-since-1986-is-re-elected.md)
 _Context: President, Uganda, Ugandan general election, 2006, Yoweri Museveni_

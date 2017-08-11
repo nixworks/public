@@ -37,7 +37,7 @@ _Context: Alliance for Austria's Future, Jrg Haider_
 _Context: GAM, Helsinki, Indonesia, Martti Ahtisaari_
 
 ### [ Students at the University at Albany in Albany, New York set the record for the world's largest pillow fight with 3,648 participants, observed by Guinness Records officials. ](/news/2005/04/17/students-at-the-university-at-albany-in-albany-new-york-set-the-record-for-the-world-s-largest-pillow-fight-with-3-648-participants-obser.md)
-_Context: Albany, New York, University at Albany, pillow fight_
+_Context: Albany, New York State, University at Albany, pillow fight_
 
 ## [Previous Day...](/news/2005/04/16/index.md)
 

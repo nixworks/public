@@ -28,7 +28,7 @@ _Context: Massachusetts, Northeastern United States, blizzard_
 _Context: Gujarat, India, swine flu_
 
 ### [The United Arab Emirates suspends its embassy operations in Yemen due to security concerns surrounding the recent Shiite Houthi rebel take over of the country. ](/news/2015/02/14/the-united-arab-emirates-suspends-its-embassy-operations-in-yemen-due-to-security-concerns-surrounding-the-recent-shiite-houthi-rebel-take-o.md)
-_Context: United Arab Emirates, Yemen's, Yemeni Crisis (2011-present)_
+_Context: United Arab Emirates, Yemen, Yemeni Crisis (2011-present)_
 
 ### [The Prime Minister of Australia Tony Abbott issues a last-minute plea for Bali Nine drug smugglers Andrew Chan and Myuran Sukumaran facing the death penalty in Indonesia. ](/news/2015/02/14/the-prime-minister-of-australia-tony-abbott-issues-a-last-minute-plea-for-bali-nine-drug-smugglers-andrew-chan-and-myuran-sukumaran-facing-t.md)
 _Context: Andrew Chan, Australian Prime Minister, Bali Nine, Indonesia, Myuran Sukumaran, Tony Abbott, death penalty_
@@ -37,7 +37,7 @@ _Context: Andrew Chan, Australian Prime Minister, Bali Nine, Indonesia, Myuran S
 _Context: Hissene Habre, President of Chad, Senegal_
 
 ### [A motorcycle gunman shoots and kills a journalist in the Philippines who had been critical of local officials' alleged involvement in the illegal drug trade. The murder of the journalist is the 34th since the regime of Benigno Aquino III began in 2010. ](/news/2015/02/14/a-motorcycle-gunman-shoots-and-kills-a-journalist-in-the-philippines-who-had-been-critical-of-local-officials-alleged-involvement-in-the-il.md)
-_Context: Benigno "Noynoy" Aquino III, Philippines, journalist_
+_Context: Philippines, his predecessor, journalist_
 
 ### [Canadian Police foil a planned Valentines Day massacre in Halifax, Nova Scotia. ](/news/2015/02/14/canadian-police-foil-a-planned-valentines-day-massacre-in-halifax-nova-scotia.md)
 A group of &#39;murderous misfits&#39; planned to massacre as many people as possible in a Valentine&#39;s Day shooting spree that police foiled after an anonymous tip off.

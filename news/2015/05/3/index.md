@@ -1,7 +1,7 @@
 ## [2015-05-3](/news/2015/05/3/index.md)
 
 ### [Yemen officials say that at least 20 members of the Arab coalition have landed in Aden on a 'reconnaissance' mission. ](/news/2015/05/3/yemen-officials-say-that-at-least-20-members-of-the-arab-coalition-have-landed-in-aden-on-a-reconnaissance-mission.md)
-_Context: Aden, Yemen's, Yemeni Civil War (2015)_
+_Context: Aden, Yemen, Yemeni Civil War (2015)_
 
 ### [Fugitive Abdul Basit Usman dies in a clash in Mindanao. ](/news/2015/05/3/fugitive-abdul-basit-usman-dies-in-a-clash-in-mindanao.md)
 Usman is the other target in the botched police Special Action Force (SAF) operation in Mamasapano, Maguindanao on January 25

@@ -16,7 +16,7 @@ _Context: Iran, Neda Agha Soltan, Oxford University, Queen's College_
 A huge power failure involving the world’s largest operating hydroelectric plant exposed the vulnerability of Brazil’s electricity infrastructure.
 
 ### [ Yemen criticises "interference" by Iran in the conflict with Houthi rebels in the country, after Iran criticised Saudi Arabian intervention in the conflict. ](/news/2009/11/11/yemen-criticises-interference-by-iran-in-the-conflict-with-houthi-rebels-in-the-country-after-iran-criticised-saudi-arabian-intervention.md)
-_Context: Houthi, Iran, Saudi Arabia, Shia insurgency in Yemen, Yemen's, ongoing fight_
+_Context: Houthi, Iran, Saudi Arabia, Shia insurgency in Yemen, Yemen, ongoing fight_
 
 ### [ Anti-monarchy protesters and riot police clash in Montreal, Quebec, during a tour by Prince Charles. ](/news/2009/11/11/anti-monarchy-protesters-and-riot-police-clash-in-montreal-quebec-during-a-tour-by-prince-charles.md)
 The Prince of Wales&#039; tour of Canada has been marred by an anti-monarchy protest, with Quebec separatists clashing with riot police during a demonstration in Montreal.

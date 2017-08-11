@@ -7,7 +7,7 @@ _Context: LTTE, Sri Lanka_
 _Context: Lafayette, Louisiana, hydrochloric acid, train_
 
 ### [ The President of the United States George W. Bush states that a Palestinian state can be "defined" by the end of his Presidency including the issue of borders and right to resettlement. ](/news/2008/05/17/the-president-of-the-united-states-george-w-bush-states-that-a-palestinian-state-can-be-defined-by-the-end-of-his-presidency-including-t.md)
-_Context: George W. Bush, Palestinian state, President of the United States, resettlement_
+_Context: George W. Bush, Palestinian state, President, resettlement_
 
 ### [ An assassination threat delays the return of Morgan Tsvangarai to Zimbabwe to contest a runoff election to decide the presidential election. ](/news/2008/05/17/an-assassination-threat-delays-the-return-of-morgan-tsvangarai-to-zimbabwe-to-contest-a-runoff-election-to-decide-the-presidential-election.md)
 _Context: Morgan Tsvangarai, Zimbabwe, assassinated, presidential election, runoff election_

@@ -11,7 +11,7 @@ Hooded gunmen believed engaged in a drugs feud burst into a bar in northern Mexi
 
 ### [ 27 people were killed by a suicide car bomb in Pakistan near the Afghanistan border during a tribal meeting planning the eviction of the Taliban from the area. ](/news/2008/10/10/27-people-were-killed-by-a-suicide-car-bomb-in-pakistan-near-the-afghanistan-border-during-a-tribal-meeting-planning-the-eviction-of-the-ta.md)
 ### [ Dozens of bodies that washed ashore in Yemen are believed to be from the 130 migrants from Somalia thrown overboard by smugglers; prompting calls for action against human trafficking in the Gulf of Aden. ](/news/2008/10/10/dozens-of-bodies-that-washed-ashore-in-yemen-are-believed-to-be-from-the-130-migrants-from-somalia-thrown-overboard-by-smugglers-prompting.md)
-_Context: Gulf of Aden, Somalia, Yemen's_
+_Context: Gulf of Aden, Somalia, Yemen_
 
 ### [ An Alaskan legislative committee finds that the Governor of Alaska Sarah Palin unlawfully abused her authority in terminating the Public Safety Commissioner Walter Monegan. ](/news/2008/10/10/an-alaskan-legislative-committee-finds-that-the-governor-of-alaska-sarah-palin-unlawfully-abused-her-authority-in-terminating-the-public-sa.md)
 _Context: Alaska, Governor, Sarah Palin, Walter Monegan, legislative_

@@ -52,7 +52,7 @@ _Context: Sierra Leone, main opposition party_
 _Context: Chicago, Chicago police, Jody Weis_
 
 ### [The protests in Yemen continue with tens of thousands of protestors in the streets in a "Day of Rage". ](/news/2011/03/1/the-protests-in-yemen-continue-with-tens-of-thousands-of-protestors-in-the-streets-in-a-day-of-rage.md)
-_Context: 2011 Yemeni protests, Yemen's_
+_Context: 2011 Yemeni protests, Yemen_
 
 ### [The German Federal Minister for Defence Karl-Theodor zu Guttenberg resigns over a plagiarism scandal. ](/news/2011/03/1/the-german-federal-minister-for-defence-karl-theodor-zu-guttenberg-resigns-over-a-plagiarism-scandal.md)
 _Context: Federal Minister for Defence, Germany, Karl-Theodor zu Guttenberg, plagiarising_

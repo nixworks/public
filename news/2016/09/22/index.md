@@ -1,7 +1,7 @@
 ## [2016-09-22](/news/2016/09/22/index.md)
 
 ### [The death toll from a Saudi-led Arab coalition airstrike which hit a house in a residential area in western Yemen has risen to 26 people. ](/news/2016/09/22/the-death-toll-from-a-saudi-led-arab-coalition-airstrike-which-hit-a-house-in-a-residential-area-in-western-yemen-has-risen-to-26-people.md)
-_Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen's_
+_Context: Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen_
 
 ### [Iraqi Armed Forces recapture al-Shirqat, southwest of al Hujayl, from ISIL. ](/news/2016/09/22/iraqi-armed-forces-recapture-al-shirqat-southwest-of-al-hujayl-from-isil.md)
 Iraqi forces backed by air strikes from the U.S.-led coalition gained complete control of the northern district of Shirqat on Thursday, bringing the military a step closer to a main push on Mosul later this year.

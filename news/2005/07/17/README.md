@@ -25,7 +25,7 @@ _Context: Gaza Strip, Israeli settlement, Israeli soldier, Israeli-Palestinian c
 _Context: Muslim, Narathiwat, Pattani, Thailand, Yala, insurgency, state of emergency_
 
 ### [ In Yemen, president Ali Abdullah Saleh announces that he won't seek re-election next year. ](/news/2005/07/17/in-yemen-president-ali-abdullah-saleh-announces-that-he-won-t-seek-re-election-next-year.md)
-_Context: Saleh, Yemen's_
+_Context: Saleh, Yemen_
 
 ### [ In Egypt, presidential feminist aspirant Nawal El Saadawi pulls out of the race due to restrictive election regulations for first-time candidates. ](/news/2005/07/17/in-egypt-presidential-feminist-aspirant-nawal-el-saadawi-pulls-out-of-the-race-due-to-restrictive-election-regulations-for-first-time-cand.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

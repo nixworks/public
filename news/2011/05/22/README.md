@@ -82,7 +82,7 @@ _Context: British government_
 _Context: People's Party, Socialist Workers' Party, Spain, local and regional elections_
 
 ### [Tim Pawlenty, ex-Governor of Minnesota, announces his candidacy for the Republican nomination as President of the United States. ](/news/2011/05/22/tim-pawlenty-ex-governor-of-minnesota-announces-his-candidacy-for-the-republican-nomination-as-president-of-the-united-states.md)
-_Context: Minnesota Governor, President of the United States, Tim Pawlenty, candidacy, nomination_
+_Context: Minnesota Governor, President, Tim Pawlenty, candidacy, nomination_
 
 ## [Previous Day...](/news/2011/05/21/index.md)
 

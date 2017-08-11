@@ -19,7 +19,7 @@ _Context: Iraq, Mehdi Army, Muqtada al-Sadr, militia_
 Sen. Tim Johnson, a Democrat who has been recovering from brain surgery since December, plans to return to his Senate office on September 5, his office said on Wednesday.
 
 ### [ The United States Department of Defense's inspector general launches an investigation into the United States military's inability to account for weapons sent to Iraq after reports that Kurdish militants were using US weapons to attack Turkey. ](/news/2007/08/29/the-united-states-department-of-defense-s-inspector-general-launches-an-investigation-into-the-united-states-military-s-inability-to-accoun.md)
-_Context: Iraq, Kurd, The Pentagon, Turkey_
+_Context: Iraq, Kurd, Pentagon officials, Turkey_
 
 ### [ Thousands of people protest in Chile against the economic policies of the President Michelle Bachelet with 350 arrests made when they attempt to enter the grounds of the presidential palace. ](/news/2007/08/29/thousands-of-people-protest-in-chile-against-the-economic-policies-of-the-president-michelle-bachelet-with-350-arrests-made-when-they-attem.md)
 Thousands of workers have marched in Santiago against the economic policies of President Michelle Bachelet, arguing for more social equality.

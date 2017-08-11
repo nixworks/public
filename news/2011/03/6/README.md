@@ -16,7 +16,7 @@ Intense gunfire was heard in the center of the Libyan capital Tripoli before daw
 _Context: 2011 Bahraini protests, Al-Qudaibiya Palace, Manama_
 
 ### [2011 Yemeni protests:Demonstrations against the Saleh regime in Yemen continue. ](/news/2011/03/6/2011-yemeni-protests-pdemonstrations-against-the-saleh-regime-in-yemen-continue.md)
-_Context: 2011 Yemeni protests, Yemen's_
+_Context: 2011 Yemeni protests, Yemen_
 
 ### [Other protests:Chinese state media warn against protests inspired by Arab Spring. ](/news/2011/03/6/other-protests-pchinese-state-media-warn-against-protests-inspired-by-arab-spring.md)
 Chinese government has dismissed chances of West Asia style revolution in the Communist nation, saying it has brought development to the masses, even as it has stepped up security to avert attempts by dissidents to stir up protests.
@@ -64,7 +64,7 @@ _Context: Israel, Ron Prosor, United Nations_
 _Context: North Korea, South Korea_
 
 ### [The United States Department of State warns U.S. citizens of a high security threat level in Yemen due to what it describes as "terrorist activities and civil unrest". ](/news/2011/03/6/the-united-states-department-of-state-warns-u-s-citizens-of-a-high-security-threat-level-in-yemen-due-to-what-it-describes-as-terrorist-ac.md)
-_Context: 2011 Yemeni protests, State Department's, Yemen's_
+_Context: 2011 Yemeni protests, State Department's, Yemen_
 
 ### [Kenya arrests six Somali Islamist al-Shabaab fighters in the border town of Mandera. ](/news/2011/03/6/kenya-arrests-six-somali-islamist-al-shabaab-fighters-in-the-border-town-of-mandera.md)
 _Context: Islamist, Kenya, Mandera, Somalia, al-Shabaab militants_

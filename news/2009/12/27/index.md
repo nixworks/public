@@ -4,7 +4,7 @@
 A consortium led by the Korea Electric Power Corp. won a $40 billion contract Sunday to build nuclear power plants in the United Arab Emirates, paving the way for South Korea to become a major energy facility exporter.
 
 ### [ Officials in Yemen say top Houthi leader Abdul-Malik al-Houthi has been killed during an offensive in the north of the country. ](/news/2009/12/27/officials-in-yemen-say-top-houthi-leader-abdul-malik-al-houthi-has-been-killed-during-an-offensive-in-the-north-of-the-country.md)
-_Context: Abdul-Malik al-Houthi, Houthi, Shia insurgency in Yemen, Yemen's_
+_Context: Abdul-Malik al-Houthi, Houthi, Shia insurgency in Yemen, Yemen_
 
 ### [ At least six people are dead and many missing after a ferry sinks off Verde Island near Batangas, Philippines, the second such disaster in as many days. ](/news/2009/12/27/at-least-six-people-are-dead-and-many-missing-after-a-ferry-sinks-off-verde-island-near-batangas-philippines-the-second-such-disaster-in.md)
 _Context: Batangas, Philippines, Verde Island_

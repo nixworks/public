@@ -37,7 +37,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Amnesty International appeals to the government of Yemen to stop execution of Amina Ali Abduladif. She is sentenced to death for murder and the execution is to take place May 2. ](/news/2005/04/27/amnesty-international-appeals-to-the-government-of-yemen-to-stop-execution-of-amina-ali-abduladif-she-is-sentenced-to-death-for-murder-and.md)
-_Context: Amina Ali Abduladif, Amnesty International, May 2, Yemen's, execution, murder_
+_Context: Amina Ali Abduladif, Amnesty International, May 2, Yemen, execution, murder_
 
 ### [ Zimbabwe opposition party Movement for Democratic Change says that the country has run out of maize grain and asks Robert Mugabe to apply for foreign food aid. ](/news/2005/04/27/zimbabwe-opposition-party-movement-for-democratic-change-says-that-the-country-has-run-out-of-maize-grain-and-asks-robert-mugabe-to-apply-f.md)
 _Context: Movement for Democratic Change, Robert Mugabe, Zimbabwe, food aid, maize_

@@ -4,7 +4,7 @@
 Several people reported dead in latest clashes even as number of UN monitors charged with overseeing truce reaches 145.
 
 ### [The United States conducts two drone strikes in southeastern Yemen, killing 11 suspected Al-Qaeda militants. ](/news/2012/05/12/the-united-states-conducts-two-drone-strikes-in-southeastern-yemen-killing-11-suspected-al-qaeda-militants.md)
-_Context: Yemen's, al-Qaeda, combat drone_
+_Context: Yemen, al-Qaeda, combat drone_
 
 ### [Nigerian police claim to have captured a senior commander of the radical Islamist militant group Boko Haram. ](/news/2012/05/12/nigerian-police-claim-to-have-captured-a-senior-commander-of-the-radical-islamist-militant-group-boko-haram.md)
 Nigerian police say they have arrested a senior commander of the Islamist militant group Boko Haram in the troubled northern city of Kano.

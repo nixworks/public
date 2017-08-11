@@ -19,7 +19,7 @@ Threat comes as Dutch ambassador banned from re-entry by Ankara and President Er
 _Context: First Minister, Nicola Sturgeon, Proposed second Scottish independence referendum, Scotland, Scottish independence, United Kingdom_
 
 ### [The state of Washington, joined by the states of California, Maryland, Massachusetts, New York, and Oregon, asks a federal judge to  stop, on constitutional grounds, the revised federal immigration/refugee rules from taking effect on Thursday, March 16. The state of Hawaii has filed a separate, similar request. ](/news/2017/03/13/the-state-of-washington-joined-by-the-states-of-california-maryland-massachusetts-new-york-and-oregon-asks-a-federal-judge-to-stop-o.md)
-_Context: California, Hawaii, Maryland, Massachusetts, New York, Oregon, United States immigration ban, Washington_
+_Context: California, Hawaii, Maryland, Massachusetts, New York State, Oregon, United States immigration ban, Washington_
 
 ### [Janos Ader is re-elected President of Hungary by the National Assembly. ](/news/2017/03/13/ja-nos-ader-is-re-elected-president-of-hungary-by-the-national-assembly.md)
 Hungarian President Janos Ader was re-elected by parliament to a second, five-year term, defeating a challenger his party claimed was backed by George Soros.

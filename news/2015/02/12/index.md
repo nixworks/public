@@ -4,7 +4,7 @@
 A breakthrough in Minsk as Putin announces a ceasefire deal following marathon talks to end the fighting in east Ukraine. The Russian president said
 
 ### [Fighters from the Al-Qaeda affiliated Ansar al-Sharia take control of an army base in southern Yemen. ](/news/2015/02/12/fighters-from-the-al-qaeda-affiliated-ansar-al-sharia-take-control-of-an-army-base-in-southern-yemen.md)
-_Context: Ansar al-Sharia, Yemen's, Yemeni Civil War, al-Qaeda_
+_Context: Ansar al-Sharia, Yemen, Yemeni Civil War, al-Qaeda_
 
 ### [Reporters without Borders's annual review finds "(t)here was a drastic decline in freedom of information in 2014" because of information wars and action by non-state groups. ](/news/2015/02/12/reporters-without-borders-s-annual-review-finds-t-here-was-a-drastic-decline-in-freedom-of-information-in-2014-because-of-information-war.md)
 Media freedom suffered a “drastic decline” worldwide last year in part because of extremist groups such as ISIS and Boko Haram, the watchdog group Reporters without Borders said in its annual evaluation released Thursday.

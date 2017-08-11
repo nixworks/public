@@ -10,7 +10,7 @@ _Context: European Union, European commissioner, Hong Kong, Ministerial Conferen
 _Context: New Jersey_
 
 ### [ The President of the United States, George W. Bush, acknowledges the deaths of approximately 30,000 Iraqi civilians since the commencement of the Iraq War. ](/news/2005/12/13/the-president-of-the-united-states-george-w-bush-acknowledges-the-deaths-of-approximately-30-000-iraqi-civilians-since-the-commencement.md)
-_Context: George W. Bush, Iraq War, President of the United States_
+_Context: George W. Bush, Iraq War, President_
 
 ### [ Swiss Councillor Dick Marty, commissioned by the Council of Europe to investigate CIA black sites and prisoner abuse in Europe says that the CIA has "disregarded all standards of legality". ](/news/2005/12/13/swiss-councillor-dick-marty-commissioned-by-the-council-of-europe-to-investigate-cia-black-sites-and-prisoner-abuse-in-europe-says-that-th.md)
 _Context: CIA, Council of Europe, Dick Marty, Swiss Councillor, black site_
@@ -28,7 +28,7 @@ _Context: California, San Quentin State Prison, Stanley Williams, U.S. state, de
 _Context: Canada, Canadian Prime Minister, David Wilkins, U.S., ambassador, climate change_
 
 ### [ North America: The Canadian provinces, Ontario and Quebec and the US states Illinois, Indiana, Michigan, Minnesota, New York, Ohio, Pennsylvania and Wisconsin sign an international agreement to preclude significant water diversion from the Great Lakes. ](/news/2005/12/13/north-america-the-canadian-provinces-ontario-and-quebec-and-the-us-states-illinois-indiana-michigan-minnesota-new-york-ohio-pennsyl.md)
-_Context: Great Lakes, Illinois, Indiana, Michigan, Minnesota, New York, North America, Ohio, Ontario, Pennsylvania, Quebec, US state, Wisconsin, water diversion_
+_Context: Great Lakes, Illinois, Indiana, Michigan, Minnesota, New York State, North America, Ohio, Ontario, Pennsylvania, Quebec, US state, Wisconsin, water diversion_
 
 ### [ The $100 laptop project announces that it has chosen Quanta Computers to make its laptops, which it hopes to distribute to low-income people around the world. ](/news/2005/12/13/the-100-laptop-project-announces-that-it-has-chosen-quanta-computers-to-make-its-laptops-which-it-hopes-to-distribute-to-low-income-peopl.md)
 _Context: $100 laptop, Quanta Computers_

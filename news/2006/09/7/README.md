@@ -4,7 +4,7 @@
 _Context: Burundi, Burundi Civil War, National Liberation Forces_
 
 ### [Ralph "Bucky" Phillips is the most recent addition to the FBI Ten Most Wanted Fugitives list following his jail break and suspected shooting of New York State troopers. ](/news/2006/09/7/ralph-bucky-phillips-is-the-most-recent-addition-to-the-fbi-ten-most-wanted-fugitives-list-following-his-jail-break-and-suspected-shooting.md)
-_Context: 10 Most Wanted Fugitives list, New York, Ralph "Bucky" Phillips_
+_Context: 10 Most Wanted Fugitives list, New York State, Ralph "Bucky" Phillips_
 
 ### [Ukrainian archaeologists claim they have found underground pyramids near Luhansk that predate the pyramids at Giza. BBC news's Helen Fawkes calls the complex the "Ukrainian Stonehenge." ](/news/2006/09/7/ukrainian-archaeologists-claim-they-have-found-underground-pyramids-near-luhansk-that-predate-the-pyramids-at-giza-bbc-news-s-helen-fawkes.md)
 _Context: Giza, Luhansk, Stonehenge, Ukraine, underground pyramids_

@@ -7,7 +7,7 @@
 The leader of the Roman Catholic Church in England and Wales is created a cardinal at a ceremony in Rome.
 
 ### [One person is dead and 28 are ill from a carbon monoxide leak at the Walt Whitman Shops in Huntington, New York. ](/news/2014/02/22/one-person-is-dead-and-28-are-ill-from-a-carbon-monoxide-leak-at-the-walt-whitman-shops-in-huntington-new-york.md)
-_Context: Huntington, New York, Walt Whitman Shops, carbon monoxide_
+_Context: Huntington, New York State, Walt Whitman Shops, carbon monoxide_
 
 ### [The Sinaloa cartel drug lord Joaquin Guzman Loera, also known as "El Chapo", is arrested in Mexico. ](/news/2014/02/22/the-sinaloa-cartel-drug-lord-joaquan-guzma-n-loera-also-known-as-el-chapo-is-arrested-in-mexico.md)
 _Context: Joaquin Guzman Loera_

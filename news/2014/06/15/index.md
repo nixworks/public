@@ -7,7 +7,7 @@ _Context: Kessab, Syria, Syrian Civil War, Syrian Military_
 A comprehensive operation against terrorists is being launched upon direction of govt.
 
 ### [7 people are killed in Aden, Yemen, after a gunman opens fire on a minibus. ](/news/2014/06/15/7-people-are-killed-in-aden-yemen-after-a-gunman-opens-fire-on-a-minibus.md)
-_Context: Aden, Yemen's_
+_Context: Aden, Yemen_
 
 ### [2014 Northern Iraq offensive:The United States evacuates personnel from its embassy in Baghdad as Islamic State in Iraq and the Levant nears the city. ](/news/2014/06/15/2014-northern-iraq-offensive-pthe-united-states-evacuates-personnel-from-its-embassy-in-baghdad-as-islamic-state-in-iraq-and-the-levant-near.md)
 _Context: 2014 Northern Iraq offensive, Baghdad, Islamic State in Iraq and the Levant, U.S._

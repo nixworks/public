@@ -16,7 +16,7 @@ A Pakistani diplomat calls for a probe into allegations that rich landowners div
 _Context: Chinese, Fujian, Typhoon Chaba_
 
 ### [A tropical storm warning is issued for the coast of Long Island in New York as Hurricane Earl approaches the east coast of the United States. ](/news/2010/09/2/a-tropical-storm-warning-is-issued-for-the-coast-of-long-island-in-new-york-as-hurricane-earl-approaches-the-east-coast-of-the-united-states.md)
-_Context: Hurricane Earl, Hurricane Earl, Long Island, New York, U.S., tropical storm_
+_Context: Hurricane Earl, Hurricane Earl, Long Island, New York State, U.S., tropical storm_
 
 ### [An oil rig explodes in the Gulf of Mexico, west of the Deepwater Horizon oil rig that exploded in April, killing no people. ](/news/2010/09/2/an-oil-rig-explodes-in-the-gulf-of-mexico-west-of-the-deepwater-horizon-oil-rig-that-exploded-in-april-killing-no-people.md)
 _Context: Deepwater Horizon, Gulf, oil rig explodes_

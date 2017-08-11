@@ -43,7 +43,7 @@ Khaltmaa Battulga won more than 50 percent of the votes in a scandal-ridden pres
 With many Venezuelans angry at the government and planning to sit out a July 30 vote for a new superbody assembly, President Nicolas Maduro has ordered all state workers to take part, seeking to avoid an embarrassingly low turnout.
 
 ### [Thousands of supporters of Yemen's secessionists rally in the southern city of Aden, backing a new group led by former head of Aden Governorate Aidarus al-Zoubaidi that advocates for autonomy of the country's south. ](/news/2017/07/7/thousands-of-supporters-of-yemen-s-secessionists-rally-in-the-southern-city-of-aden-backing-a-new-group-led-by-former-head-of-aden-governor.md)
-_Context: Aden, Aden Governorate, Aidarus al-Zoubaidi, Yemen's, Yemeni Civil War_
+_Context: Aden, Aden Governorate, Aidarus al-Zoubaidi, Yemen, Yemeni Civil War_
 
 ### [South Australia finalizes a deal with Tesla, spearheaded by tweets originating from CEO of Tesla Elon Musk, to install a battery system in the state. Tesla said in a statement that upon completion by December 2017, the system would be the largest lithium-ion battery storage project in the world, overtaking an 80 megawatt-hour power station at Mira Loma in California also built using Tesla batteries. ](/news/2017/07/7/south-australia-finalizes-a-deal-with-tesla-spearheaded-by-tweets-originating-from-ceo-of-tesla-elon-musk-to-install-a-battery-system-in-t.md)
 _Context: California, Elon Musk, Mira Loma, Renewable energy in Australia, South Australia, Tesla, lithium-ion battery, megawatt-hour_

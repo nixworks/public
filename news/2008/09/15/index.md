@@ -56,7 +56,7 @@ _Context: midwestern_
 
 ### [More than one million households in the Midwestern United States are left without electricity due to high winds. ](/news/2008/09/15/more-than-one-million-households-in-the-midwestern-united-states-are-left-without-electricity-due-to-high-winds.md)
 ### [President George W. Bush warns that motorists will face a "pinch" from rising costs caused by Hurricane Ike. ](/news/2008/09/15/president-george-w-bush-warns-that-motorists-will-face-a-pinch-from-rising-costs-caused-by-hurricane-ike.md)
-_Context: George W. Bush, President of the United States_
+_Context: George W. Bush, President_
 
 ### [ NASA scientists report that the ozone hole over the Antarctic has reached its largest expanse, 27 million square kilometers, vs 26 million square kilometers in 2006. ](/news/2008/09/15/nasa-scientists-report-that-the-ozone-hole-over-the-antarctic-has-reached-its-largest-expanse-27-million-square-kilometers-vs-26-million.md)
 _Context: Antarctic, ozone hole_

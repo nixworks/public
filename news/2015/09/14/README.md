@@ -7,7 +7,7 @@ Five Saudi soldiers have died on the border with Yemen, the Saudi-led coalition 
 Taliban militants storm a jail in Ghazni, central Afghanistan, killing at least four police officers and freeing more than 350 prisoners.
 
 ### [United States Department of Defense says that Russia has deployed armoured vehicles and troops to Syria in what has been described as the "first clear sign of offensive weapons arriving in Syria" and "the largest deployment of Russian forces outside the former Soviet Union since the collapse of the USSR". ](/news/2015/09/14/united-states-department-of-defense-says-that-russia-has-deployed-armoured-vehicles-and-troops-to-syria-in-what-has-been-described-as-the-f.md)
-_Context: Russia, Russia's role in the Syrian Civil War, Russian Armed Forces, Soviet, Syria, Syrian Civil War, The Pentagon, collapse of the USSR_
+_Context: Pentagon officials, Russia, Russia's role in the Syrian Civil War, Russian Armed Forces, Soviet, Syria, Syrian Civil War, collapse of the USSR_
 
 ### [Brazil announces a $17 billion austerity package after Standard and Poors further downgrades its credit rating. ](/news/2015/09/14/brazil-announces-a-17-billion-austerity-package-after-standard-and-poors-further-downgrades-its-credit-rating.md)
 Brasília (AFP) - Brazil announced a massive $17 billion austerity package Monday in a bid to boost its ailing economy amid a deepening crisis that already caused a downgrade of the country&#x27;s credit rating. The package -- announced at a news conference by Planning Minister Nelson Barbosa -- includes

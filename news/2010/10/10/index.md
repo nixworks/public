@@ -16,7 +16,7 @@ _Context: Miramshah, North Waziristan, Pakistan, Shewa, U.S._
 _Context: Balarampur, Communist Party of India-Marxist, Maoist, Purulia district_
 
 ### [Riots in Lawdar, Yemen, reinforcements sent in to maintain order. Dozens killed in Lawdar District during the protests.](/news/2010/10/10/riots-in-lawdar-yemen-reinforcements-sent-in-to-maintain-order-dozens-killed-in-lawdar-district-during-the-protests.md)
-_Context: Lawdar, Lawdar District, Yemen's_
+_Context: Lawdar, Lawdar District, Yemen_
 
 ### [Works of art created by 30 celebrated Iranian artists go on sale at Bonhams auction house in Dubai. ](/news/2010/10/10/works-of-art-created-by-30-celebrated-iranian-artists-go-on-sale-at-bonhams-auction-house-in-dubai.md)
 _Context: Bonhams, Dubai, Iran_

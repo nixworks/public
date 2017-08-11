@@ -19,7 +19,7 @@ _Context: 2011 Moroccan protests, Rabat_
 Lebanon tries to seal northern border with Syria to &quot;prevent illegal entry&quot;; four killed in Tel Kelakh during anti-Assad protest.
 
 ### [2011 Yemeni protests:Gunmen open fire on two soldiers in southern Yemen, killing one. ](/news/2011/05/15/2011-yemeni-protests-pgunmen-open-fire-on-two-soldiers-in-southern-yemen-killing-one.md)
-_Context: 2011 Yemeni protests, Yemen's_
+_Context: 2011 Yemeni protests, Yemen_
 
 ### [Ugandan opposition leader Kizza Besigye says the government may fall amid ongoing protests, unless President Yoweri Museveni offers concessions. ](/news/2011/05/15/ugandan-opposition-leader-kizza-besigye-says-the-government-may-fall-amid-ongoing-protests-unless-president-yoweri-museveni-offers-concessi.md)
 _Context: Kizza Besigye, Uganda, Yoweri Museveni_

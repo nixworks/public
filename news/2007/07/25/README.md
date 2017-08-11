@@ -16,7 +16,7 @@ _Context: 2007 Tour de France, Christian Moreni, Italian, doping_
 The move came after President Luiz Inácio Lula da Silva had assured Brazilians that he had ordered changes in the country’s flawed civil aviation system.
 
 ### [ The United States House Committee on the Judiciary votes 22-17 to approve a report citing former White House counsel Harriet Miers and current Chief of Staff for President George W. Bush Joshua Bolten for failing to comply with subpoenas regarding the dismissal of U.S. attorneys controversy. ](/news/2007/07/25/the-united-states-house-committee-on-the-judiciary-votes-22-17-to-approve-a-report-citing-former-white-house-counsel-harriet-miers-and-curr.md)
-_Context: George W. Bush, Harriet Miers, Joshua Bolten, President of the United States, United States House Committee on the Judiciary, White House, firings, subpoena_
+_Context: George W. Bush, Harriet Miers, Joshua Bolten, President, United States House Committee on the Judiciary, White House, firings, subpoena_
 
 ### [ A car bomb in the Mansour district of Baghdad kills at least 30 Iraqis celebrating their team's victory in an Asian Cup match against South Korea. Another suicide attack in East Baghdad kills another 20. ](/news/2007/07/25/a-car-bomb-in-the-mansour-district-of-baghdad-kills-at-least-30-iraqis-celebrating-their-team-s-victory-in-an-asian-cup-match-against-south.md)
 _Context: Asian Cup, Baghdad, Iraq, Iraq, Mansour district, South Korea, car bomb_

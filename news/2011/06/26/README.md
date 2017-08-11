@@ -16,7 +16,7 @@ Gunmen believed to be from the Boko Haram Islamist sect throw bombs at a beer ga
 _Context: Sao Paulo_
 
 ### [It is confirmed that Daniel Craig, the current James Bond, has married the Academy Award-winning actress Rachel Weisz at a private ceremony in the U.S. state of New York. ](/news/2011/06/26/it-is-confirmed-that-daniel-craig-the-current-james-bond-has-married-the-academy-award-winning-actress-rachel-weisz-at-a-private-ceremony.md)
-_Context: Academy Award, Daniel Craig, James Bond, New York, Rachel Weisz, U.S. state_
+_Context: Academy Award, Daniel Craig, James Bond, New York State, Rachel Weisz, U.S. state_
 
 ### [Glastonbury Festival 2011 in Pilton, Somerset:Beyonce makes her debut at the Glastonbury Festival, becoming one of only a small number of women to have headlined. ](/news/2011/06/26/glastonbury-festival-2011-in-pilton-somerset-pbeyonca-c-makes-her-debut-at-the-glastonbury-festival-becoming-one-of-only-a-small-number-of.md)
 US star Beyonce makes her debut at Glastonbury, bringing the three-day festival to a close.

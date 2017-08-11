@@ -4,7 +4,7 @@
 _Context: James G. Stavridis, Libya, Libyan Civil War, NATO, Operation Unified Protector_
 
 ### [Iraq War:The President of the United States, Barack Obama, announces a plan to withdraw all of the remaining American military forces from Iraq by the end of 2011. ](/news/2011/10/21/iraq-war-pthe-president-of-the-united-states-barack-obama-announces-a-plan-to-withdraw-all-of-the-remaining-american-military-forces-from.md)
-_Context: Barack Obama, Iraq, Iraq War, President of the United States_
+_Context: Barack Obama, Iraq, Iraq War, President_
 
 ### [Verizon Communications reports that its third-quarter earnings have doubled. ](/news/2011/10/21/verizon-communications-reports-that-its-third-quarter-earnings-have-doubled.md)
 _Context: Verizon Communications_

@@ -4,7 +4,7 @@
 At least 20 people are killed by Syrian security forces in the north-west town of Khan Sheikhoun during a visit by UN observers, activists say.
 
 ### [At least 44 people are killed amid a Yemeni government offensive to retake Zinjibar and Jaar from Islamist militants. Among the casualties are three soldiers and at least 11 civilians. ](/news/2012/05/15/at-least-44-people-are-killed-amid-a-yemeni-government-offensive-to-retake-zinjibar-and-jaar-from-islamist-militants-among-the-casualties-a.md)
-_Context: Ja'ar, Yemen's, Zinjibar_
+_Context: Ja'ar, Yemen, Zinjibar_
 
 ### [A targeted bombing in the Colombian capital Bogota injures former Interior Minister Fernando Londono, and kills his driver and a police officer. ](/news/2012/05/15/a-targeted-bombing-in-the-colombian-capital-bogota-injures-former-interior-minister-fernando-londoa-o-and-kills-his-driver-and-a-police-off.md)
 _Context: Bogota, Colombia, Fernando Londono, Interior Minister_

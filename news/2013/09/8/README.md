@@ -19,7 +19,7 @@ _Context: Indonesia, Jakarta_
 Kremlin ally Sergei Sobyanin won 57.7 won percent of the votes in a Moscow mayoral election on Sunday, enough to secure victory without a second-round runoff, initial partial results showed.
 
 ### [Mohammad Bagher Ghalibaf is reelected for a third term as Mayor of Tehran. ](/news/2013/09/8/mohammad-bagher-ghalibaf-is-reelected-for-a-third-term-as-mayor-of-tehran.md)
-_Context: Mayor, Mohammad Bagher Ghalibaf, reelected_
+_Context: Mayor of Tehran, Mohammad-Bagher Ghalibaf, reelected_
 
 ### [The President of Pakistan, Asif Ali Zardari has a farewell ceremony after the completion of his five year term. He will be replaced by Mamnoon Hussain. ](/news/2013/09/8/the-president-of-pakistan-asif-ali-zardari-has-a-farewell-ceremony-after-the-completion-of-his-five-year-term-he-will-be-replaced-by-mamno.md)
 _Context: Asif Ali Zardari, Mamnoon Hussain, President_

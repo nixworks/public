@@ -4,7 +4,7 @@
 A general strike was being observed on Sunday in several regions of Syria to step up the pressure on the regime, activists said, as fears grew of an &#034;invasion&#034; of the besieged protest hub of Homs.
 
 ### [2011 Yemeni uprising: Hundreds of thousands of protesters demonstrate in Yemen calling for the trial of President Ali Abdullah Saleh. ](/news/2011/12/11/2011-yemeni-uprising-hundreds-of-thousands-of-protesters-demonstrate-in-yemen-calling-for-the-trial-of-president-ali-abdullah-saleh.md)
-_Context: 2011 Yemeni uprising, Saleh, Yemen's_
+_Context: 2011 Yemeni uprising, Saleh, Yemen_
 
 ### [Two people are injured during a gun battle at Tripoli International Airport between militia and the Libyan army.](/news/2011/12/11/two-people-are-injured-during-a-gun-battle-at-tripoli-international-airport-between-militia-and-the-libyan-army.md)
 _Context: Tripoli International Airport_

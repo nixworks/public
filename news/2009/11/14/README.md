@@ -13,7 +13,7 @@ _Context: Ethiopia, Ogaden National Liberation Front, Somalia_
 _Context: Chile, Peru, espionage_
 
 ### [ Two Saudi soldiers are killed and five wounded killed in fighting with Houthi rebels in northern Yemen. ](/news/2009/11/14/two-saudi-soldiers-are-killed-and-five-wounded-killed-in-fighting-with-houthi-rebels-in-northern-yemen.md)
-_Context: Houthi, Saudi Arabia, Shia insurgency in Yemen, Yemen's_
+_Context: Houthi, Saudi Arabia, Shia insurgency in Yemen, Yemen_
 
 ### [ More than 1,000 ultra-Orthodox Jews demonstrate outside the offices of U.S. firm Intel in Israel in protest at work taking place at the site on the Jewish Sabbath. ](/news/2009/11/14/more-than-1-000-ultra-orthodox-jews-demonstrate-outside-the-offices-of-u-s-firm-intel-in-israel-in-protest-at-work-taking-place-at-the-sit.md)
 _Context: Intel, Israel, Jew, Sabbath, U.S., ultra-orthodox_

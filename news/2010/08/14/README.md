@@ -19,7 +19,7 @@ Lebanese security officials say they have killed the suspected leader of the mil
 Attacks on checkpoints leave at least six officers dead in Baghdad.
 
 ### [4 people are fatally shot outside a Buffalo restaurant in the U.S. state of New York, with 3 others sustaining injuries. ](/news/2010/08/14/4-people-are-fatally-shot-outside-a-buffalo-restaurant-in-the-u-s-state-of-new-york-with-3-others-sustaining-injuries.md)
-_Context: Buffalo, New York, U.S. state_
+_Context: Buffalo, New York State, U.S. state_
 
 ### [3 children are wounded after a wheelie bin explodes in Lurgan, County Armagh. ](/news/2010/08/14/3-children-are-wounded-after-a-wheelie-bin-explodes-in-lurgan-county-armagh.md)
 Police investigating suspicious packages in Lurgan, County Armagh, are attacked with petrol bombs.

@@ -40,7 +40,7 @@ _Context: Abdullah, Al-Sakhir Palace, Bahrain, Imam Turki bin Abdullah, Sheikh I
 _Context: King Oyo, Rukidi IV of Toro, Uganda_
 
 ### [Former President of the United States George Washington owes $300,000 for overdue library books he borrowed from New York Society Library five months into his presidency and which he failed to return. ](/news/2010/04/18/former-president-of-the-united-states-george-washington-owes-300-000-for-overdue-library-books-he-borrowed-from-new-york-society-library-fi.md)
-_Context: George Washington, New York Society Library, President of the United States_
+_Context: George Washington, New York Society Library, President_
 
 ### [69-year-old Spanish tenor opera star Placido Domingo returns to the stage at Milan's Teatro alla Scala weeks after colorectal cancer surgery. ](/news/2010/04/18/69-year-old-spanish-tenor-opera-star-pla-cido-domingo-returns-to-the-stage-at-milan-s-teatro-alla-scala-weeks-after-colorectal-cancer-surger.md)
 _Context: Milan, Placido Domingo, Spain, Teatro alla Scala, colorectal cancer_

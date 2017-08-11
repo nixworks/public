@@ -25,7 +25,7 @@ Embattled Australian Prime Minister Tony Abbott said he will fight a challenge t
 _Context: Prime Minister of East Timor, Xanana Gusmo_
 
 ### [Houthi rebels take control in Yemen and dissolve the parliament. ](/news/2015/02/6/houthi-rebels-take-control-in-yemen-and-dissolve-the-parliament.md)
-_Context: Houthi insurgency in Yemen, Yemen's, parliament_
+_Context: Houthi insurgency in Yemen, Yemen, parliament_
 
 ## [Previous Day...](/news/2015/02/5/index.md)
 

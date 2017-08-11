@@ -52,7 +52,7 @@ The US House of Representatives’ Foreign Affairs Committee on Wednesday unanim
 Records are set to be broken as 168 countries line up to sign the historic UN Paris agreement on climate change in New York, but what happens after that?
 
 ### [U.S. General Curtis Scaparrotti, the incoming head of the United States military forces in Europe, says he supports a permanent brigade-sized presence of U.S. combat troops in Eastern Europe to deter Russia's expanded and assertive actions. ](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-says-he-supports-a-permanent-brigade-size.md)
-_Context: Cold War II, Curtis Scaparrotti, Europe, NATO-Russia relations, Russia, U.S., United States Armed Forces, eastern Europe_
+_Context: Cold War II, Curtis Scaparrotti, Europe, NATO-Russia relations, Russia, U.S., United States military personnel, eastern Europe_
 
 ### [Belize accuses Guatemala of "amassing" troops on the disputed Belize-Guatemala border following the death of a teenage Guatemalan boy in a shooting incident apparently involving Belize Defence Force soldiers. Guatemalan President Jimmy Morales called the shooting a "cowardly and excessive attack" that merits the "total condemnation of the Guatemalan state". ](/news/2016/04/22/belize-accuses-guatemala-of-amassing-troops-on-the-disputed-belizeaguatemala-border-following-the-death-of-a-teenage-guatemalan-boy-in-a.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

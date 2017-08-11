@@ -16,7 +16,7 @@ _Context: Thailand, censorship, curfew_
 _Context: Bandar bin Sultan, Saudi Arabia_
 
 ### [ In Yemen, 8-13 people die during demonstrations against oil price increases ](/news/2005/07/20/in-yemen-8-13-people-die-during-demonstrations-against-oil-price-increases.md)
-_Context: Yemen's_
+_Context: Yemen_
 
 ### [ Indonesian government confirms first deaths connected to bird flu  ](/news/2005/07/20/indonesian-government-confirms-first-deaths-connected-to-bird-flu.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

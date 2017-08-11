@@ -7,7 +7,7 @@ _Context: Millennium Dome_
 _Context: century, millennium_
 
 ### [The December 2000 nor'easter is dissipated. The storm affected, specially, New Jersey and New York.](/news/2000/12/31/the-december-2000-nor-easter-is-dissipated-the-storm-affected-specially-new-jersey-and-new-york.md)
-_Context: December 2000 nor'easter, New Jersey, New York_
+_Context: December 2000 nor'easter, New Jersey, New York State_
 
 ## [Previous Day...](/news/2000/12/30/index.md)
 

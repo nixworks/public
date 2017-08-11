@@ -7,7 +7,7 @@ _Context: 2011 Bahraini protests, Cooperation Council for the Arab States of the
 The four journalists, freed by the Libyan government on Monday, provided harrowing details about their capture.
 
 ### [A top Yemeni commander and at least 18 other officers defect to the Opposition as the 2011 Yemeni protests continue. ](/news/2011/03/21/a-top-yemeni-commander-and-at-least-18-other-officers-defect-to-the-opposition-as-the-2011-yemeni-protests-continue.md)
-_Context: 2011 Yemeni protests, Yemen's_
+_Context: 2011 Yemeni protests, Yemen_
 
 ### [Thousands of people march in the southern Syrian city of Deraa calling for more political freedoms. ](/news/2011/03/21/thousands-of-people-march-in-the-southern-syrian-city-of-deraa-calling-for-more-political-freedoms.md)
 Thousands of demonstrators march through the southern Syrian city of Deraa calling for greater freedoms, following the funeral of a protester killed on Sunday.

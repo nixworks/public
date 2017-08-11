@@ -19,7 +19,7 @@ Pakistani troops took the main town in strategically important Buner Valley on W
 _Context: Solomon Islands, Truth and Reconciliation Commission_
 
 ### [ President of the United States Barack Obama delivers his 3rd primetime news conference on his 100th day in office](/news/2009/04/29/president-of-the-united-states-barack-obama-delivers-his-3rd-primetime-news-conference-on-his-100th-day-in-office.md)
-_Context: Barack Obama, President of the United States_
+_Context: Barack Obama, President_
 
 ## [Previous Day...](/news/2009/04/28/index.md)
 

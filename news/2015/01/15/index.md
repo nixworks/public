@@ -7,7 +7,7 @@ Five men accused of involvement in a Pakistan school massacre have been arrested
 Police have launched an anti-terror operation in an eastern Belgian city, according to news reports, who said they heard gunfire and explosions near a train station.
 
 ### [Pope Francis arrives in Manila and meets Philippines President Benigno Aquino III. ](/news/2015/01/15/pope-francis-arrives-in-manila-and-meets-philippines-president-benigno-aquino-iii.md)
-_Context: Benigno "Noynoy" Aquino III, Manila, Philippines, Pope Francis, Pope Francis' visit to the Philippines, President of the Philippines_
+_Context: Manila, Philippines, Pope Francis, Pope Francis' visit to the Philippines, President of the Philippines, his predecessor_
 
 ### [The Motion Picture Academy announces the nominees for the 87th Academy Awards best picture at the Samuel Goldwyn Theater in Beverly Hills, California. The nominations are ''American Sniper'', ''Birdman'', ''Boyhood'', ''The Grand Budapest Hotel'', ''The Imitation Game'', ''Selma'', ''The Theory of Everything'', and ''Whiplash''. ](/news/2015/01/15/the-motion-picture-academy-announces-the-nominees-for-the-87th-academy-awards-best-picture-at-the-samuel-goldwyn-theater-in-beverly-hills-c.md)
 The impetus behind today’s announcement to reveal the Oscar nominees in 24 categories next Thursday wasn’t the result of an outcry by those nominees who are omitted from the short-burst telecast th…

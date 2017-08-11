@@ -1,7 +1,7 @@
 ## [2015-05-8](/news/2015/05/8/index.md)
 
 ### [Saudi Arabia announces a five day ceasefire in Yemen starting Tuesday next week. ](/news/2015/05/8/saudi-arabia-announces-a-five-day-ceasefire-in-yemen-starting-tuesday-next-week.md)
-_Context: Saudi Arabia, Saudi-led intervention in Yemen (2015-present), Yemen's_
+_Context: Saudi Arabia, Saudi-led intervention in Yemen (2015-present), Yemen_
 
 ### [Bill Simmons will leave American broadcaster ESPN in fall 2015 when his contract expires. ](/news/2015/05/8/bill-simmons-will-leave-american-broadcaster-espn-in-fall-2015-when-his-contract-expires.md)
 _Context: Bill Simmons, ESPN_

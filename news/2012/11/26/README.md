@@ -7,7 +7,7 @@ Activists in Syria say a government MiG fighter jet has dropped a cluster bomb o
 Mark Carney, the head of the Canadian central bank, is named as the surprise choice for new governor of the Bank of England by Chancellor George Osborne.
 
 ### [Governor of New York Andrew Cuomo announces that Hurricane Sandy ran up a bill of $32 billion in New York. ](/news/2012/11/26/governor-of-new-york-andrew-cuomo-announces-that-hurricane-sandy-ran-up-a-bill-of-32-billion-in-new-york.md)
-_Context: Andrew Cuomo, Hurricane Sandy, New York, New York Governor_
+_Context: Andrew Cuomo, Hurricane Sandy, New York Governor, New York State_
 
 ### [President of Paraguay Federico Franco announces that his country will become an oil producing nation, after a recent discovery in the Chaco region, close to the border with Argentina. ](/news/2012/11/26/president-of-paraguay-federico-franco-announces-that-his-country-will-become-an-oil-producing-nation-after-a-recent-discovery-in-the-chaco.md)
 Paraguayan president Federico Franco announced that starting in 2013, his country will become an oil producing nation, after a recent discovery made close to the border with Argentina.

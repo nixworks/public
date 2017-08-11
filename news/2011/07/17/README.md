@@ -19,7 +19,7 @@ _Context: Indonesia, Mount Lokon, Sulawesi island, volcanic activity_
 _Context: Bahamas, Hurricane Rina_
 
 ### [At least two people are killed and 35 injured due to a bus crash on Interstate 390 near the US town of Bath, New York. ](/news/2011/07/17/at-least-two-people-are-killed-and-35-injured-due-to-a-bus-crash-on-interstate-390-near-the-us-town-of-bath-new-york.md)
-_Context: Bath, Interstate 390, New York_
+_Context: Bath, Interstate 390, New York State_
 
 ### [At the conclusion of Ottawa Bluesfest, strong winds from a sudden thunderstorm cause one of the main stages to collapse at around 7:30 pm EDT, injuring three people. ](/news/2011/07/17/at-the-conclusion-of-ottawa-bluesfest-strong-winds-from-a-sudden-thunderstorm-cause-one-of-the-main-stages-to-collapse-at-around-7-30-pm-ed.md)
 _Context: Ottawa Bluesfest, thunderstorm_

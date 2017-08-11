@@ -7,7 +7,7 @@ _Context: Africa, Djibouti, Eritrea, Ethiopia, Islam, Kenya, Somalia, Sudan, Uga
 _Context: Colorado, Denver, FBI, U.S._
 
 ### [ Attacks by rebels in Yemen are reported despite a  ceasefire. ](/news/2009/09/19/attacks-by-rebels-in-yemen-are-reported-despite-a-ceasefire.md)
-_Context: Yemen's, ceasefire_
+_Context: Yemen, ceasefire_
 
 ### [ Pro and anti government protestors demonstrate in the Thai capital Bangkok and near the Preah Vihear Temple along the border with Cambodia. ](/news/2009/09/19/pro-and-anti-government-protestors-demonstrate-in-the-thai-capital-bangkok-and-near-the-preah-vihear-temple-along-the-border-with-cambodia.md)
 _Context: Bangkok, Cambodia, Preah Vihear Temple, Thailand, red shirt, yellow shirt_

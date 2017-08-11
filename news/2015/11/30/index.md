@@ -10,7 +10,7 @@ Iraqi forces have launched an offensive to retake Ramadi from Islamic State mili
 US soldiers have reportedly arrived in northern Syria - the first official deployment of US ground troops in the country. The troops are tasked with training Kurdish and Syrian opposition forces battling &quot;Islamic State.&quot;
 
 ### [Clashes with Yemeni forces in the kingdom's southern Jizan Region near the border with Yemen leave at least three Saudi border guards killed. ](/news/2015/11/30/clashes-with-yemeni-forces-in-the-kingdom-s-southern-jizan-region-near-the-border-with-yemen-leave-at-least-three-saudi-border-guards-killed.md)
-_Context: Jizan Region, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen's, border guards_
+_Context: Jizan Region, Saudi Arabia, Saudi Arabian-led intervention in Yemen, Yemen, border guards_
 
 ### [Responding to reports, the American Tribune Publishing Co. states  it is not in talks to sell the company. ](/news/2015/11/30/responding-to-reports-the-american-tribune-publishing-co-states-it-is-not-in-talks-to-sell-the-company.md)
 Tribune Publishing — owner of the Chicago Tribune, Los Angeles Times and other daily papers — denies Rupert Murdoch-fueled rumor that a sale is imminent.

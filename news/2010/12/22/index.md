@@ -56,7 +56,7 @@ _Context: Metropolitan Police Authority, kettling_
 Former Argentine military ruler Jorge Videla is sentenced to life in prison for crimes against humanity.
 
 ### [President of the United States Barack Obama signs into law the Don't Ask, Don't Tell Repeal Act of 2010, which will bring an end the "don't ask, don't tell" policy of discriminating against the presence of openly gay people in the country's military. More than 13,000 people were sacked by the United States under this policy. ](/news/2010/12/22/president-of-the-united-states-barack-obama-signs-into-law-the-don-t-ask-don-t-tell-repeal-act-of-2010-which-will-bring-an-end-the-don-t.md)
-_Context: Barack Obama, Don't Ask, Don't Tell Repeal Act of 2010, President of the United States, don't ask, don't tell, openly gay_
+_Context: Barack Obama, Don't Ask, Don't Tell Repeal Act of 2010, President, don't ask, don't tell, openly gay_
 
 ### [The fears of British Liberal Democrat government ministers over policies relating to welfare and tuition fees are secretly recorded by ''The Daily Telegraph'' newspaper. ](/news/2010/12/22/the-fears-of-british-liberal-democrat-government-ministers-over-policies-relating-to-welfare-and-tuition-fees-are-secretly-recorded-by-the.md)
 Fresh secret recording released by a newspaper shows Liberal Democrat ministers expressing concerns over coalition government policies.

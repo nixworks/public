@@ -58,7 +58,7 @@ _Context: Petit family home invasion_
 Police say a bomb attack on officers in West Belfast could have ended in &quot;mass murder&quot;.
 
 ### [A judge in Yemen orders the capture of militant Islamic cleric Anwar al-Awlaki to face charges of "forming an armed gang". ](/news/2010/11/6/a-judge-in-yemen-orders-the-capture-of-militant-islamic-cleric-anwar-al-awlaki-to-face-charges-of-forming-an-armed-gang.md)
-_Context: Anwar al-Awlaki, Islam, Yemen's_
+_Context: Anwar al-Awlaki, Islam, Yemen_
 
 ### [Armed attackers attempt to carjack Formula One World Champion Jensen Button in Sao Paulo as he was returning from practice for the Brazilian Grand Prix at Interlagos. ](/news/2010/11/6/armed-attackers-attempt-to-carjack-formula-one-world-champion-jensen-button-in-sapso-paulo-as-he-was-returning-from-practice-for-the-brazilia.md)
 F1 champion Jenson Button praises the actions of his police driver after armed men attempt to threaten him while driving in Sao Paulo, Brazil.

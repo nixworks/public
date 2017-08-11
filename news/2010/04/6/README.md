@@ -46,7 +46,7 @@ _Context: Cairo, Egypt_
 _Context: Eugene Terre'Blanche, South Africa, Ventersdorp_
 
 ### [President of Yemen Ali Abdullah Saleh frees prisoners as part of its support for the cease-fire. ](/news/2010/04/6/president-of-yemen-ali-abdullah-saleh-frees-prisoners-as-part-of-its-support-for-the-cease-fire.md)
-_Context: Saleh, Yemen's, Yemeni President_
+_Context: Saleh, Yemen, Yemeni President_
 
 ### [Campaigning ahead of Sri Lanka's parliamentary election comes to an end. ](/news/2010/04/6/campaigning-ahead-of-sri-lanka-s-parliamentary-election-comes-to-an-end.md)
 Opposition vows to deny ruling party the majority needed to enact constitution changes.

@@ -22,7 +22,7 @@ _Context: North Waziristan, Pakistan_
 _Context: Pakistan_
 
 ### [Four suspected al-Qaida gunmen blast their way into the intelligence headquarters. The attack on the heavily protected security complex kills 18 in the southern port city of Aden, Yemen. ](/news/2010/06/19/four-suspected-al-qaida-gunmen-blast-their-way-into-the-intelligence-headquarters-the-attack-on-the-heavily-protected-security-complex-kill.md)
-_Context: Aden, Al Qaida's, Yemen's_
+_Context: Aden, Al Qaida's, Yemen_
 
 ### [Sweden's Crown Princess Victoria marries Daniel Westling; Westling becomes Duke of Vastergotland. ](/news/2010/06/19/sweden-s-crown-princess-victoria-marries-daniel-westling-westling-becomes-duke-of-va-stergaptland.md)
 _Context: Crown Princess Victoria, Daniel Westling, marries_

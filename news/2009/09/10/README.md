@@ -4,7 +4,7 @@
 British Prime Minister Gordon Brown apologized Friday for the &quot;inhumane&quot; treatment of Second World War code-breaker Alan Turing who was convicted of gross indecency for being homosexual at a time when it was illegal in Britain.
 
 ### [ Libyan leader Muammar al-Gaddafi says he will demand a permanent place in the United Nations Security Council for Africa and compensation worth 777 trillion dollars for years of colonialism in New York later this month. ](/news/2009/09/10/libyan-leader-muammar-al-gaddafi-says-he-will-demand-a-permanent-place-in-the-united-nations-security-council-for-africa-and-compensation-w.md)
-_Context: Africa, Libya, Muammar al-Gaddafi, New York, United Nations_
+_Context: Africa, Libya, Muammar al-Gaddafi, New York State, United Nations_
 
 ### [ A Hong Kong court convicts Du Jun, a former senior banker at Morgan Stanley, in the country's largest insider trading case. ](/news/2009/09/10/a-hong-kong-court-convicts-du-jun-a-former-senior-banker-at-morgan-stanley-in-the-country-s-largest-insider-trading-case.md)
 _Context: Du Jun, Hong Kong, Morgan Stanley_

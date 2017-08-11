@@ -4,7 +4,7 @@
 _Context: Mogadishu, War in Somalia (2009-present), al-Shabaab militants_
 
 ### [   Airstrikes by the Saudi-led coalition kill at least 10 in Yemen. ](/news/2016/05/9/airstrikes-by-the-saudi-led-coalition-kill-at-least-10-in-yemen.md)
-_Context: Saudi Arabian-led intervention in Yemen, Yemen's, Yemeni conflict_
+_Context: Saudi Arabian-led intervention in Yemen, Yemen, Yemeni conflict_
 
 ### [  The Pentagon announces the death of  Islamic State of Iraq and Syria (ISIL) leader Abu Waheeb and three other militants in an airstrike near the town of Rutba, Iraq. ](/news/2016/05/9/the-pentagon-announces-the-death-of-islamic-state-of-iraq-and-syria-isil-leader-abu-waheeb-and-three-other-militants-in-an-airstrike-ne.md)
 A U.S. airstrike on Friday killed four Islamic State fighters in western Iraq, including a leader who appeared in ISIS execution videos and was considered an heir apparent to terror mastermind Abu Musab al-Zarqawi, the Pentagon announced Monday.

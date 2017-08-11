@@ -31,7 +31,7 @@ _Context: Jos, Nigeria, curfew, events earlier this year_
 _Context: Antwerp, Belgium, General Motors, Opel_
 
 ### [Yemen stops issuing visas at international airports to "halt terrorist infiltration" following the Christmas Day bomb plot. ](/news/2010/01/21/yemen-stops-issuing-visas-at-international-airports-to-halt-terrorist-infiltration-following-the-christmas-day-bomb-plot.md)
-_Context: Northwest Airlines Flight 253, Yemen's, terrorism, visa-free travel_
+_Context: Northwest Airlines Flight 253, Yemen, terrorism, visa-free travel_
 
 ### [The internet forum boards.ie is attacked by hackers, forcing it to go offline and change the passwords of thousands of its users. ](/news/2010/01/21/the-internet-forum-boards-ie-is-attacked-by-hackers-forcing-it-to-go-offline-and-change-the-passwords-of-thousands-of-its-users.md)
 Popular Irish internet forum Boards.ie has reported an attack on its user database which could affect thousands of users.

@@ -1,7 +1,7 @@
 ## [2015-06-2](/news/2015/06/2/index.md)
 
 ### [Armed tribesmen kill 18 Houthi fighters in an ambush in Yemen's Ibb Governorate. ](/news/2015/06/2/armed-tribesmen-kill-18-houthi-fighters-in-an-ambush-in-yemen-s-ibb-governorate.md)
-_Context: Houthi, Ibb Governorate, Yemen's, Yemeni Civil War (2015)_
+_Context: Houthi, Ibb Governorate, Yemen, Yemeni Civil War (2015)_
 
 ### [Adelberto Silva, the highest ranked leader of the Communist Party of the Philippines and New People's Army, has been arrested. ](/news/2015/06/2/adelberto-silva-the-highest-ranked-leader-of-the-communist-party-of-the-philippines-and-new-people-s-army-has-been-arrested.md)
 _Context: Communist Party of the Philippines, Communist insurgency in the Philippines, New People's Army_

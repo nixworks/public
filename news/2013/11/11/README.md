@@ -13,7 +13,7 @@ _Context: India, Mumbai, Vikhroli_
 _Context: Puntland, Somalia_
 
 ### [Three members of the Iranian rock band The Yellow Dogs are shot and killed in Brooklyn, New York by a member of a different band. The shooter then commits suicide. ](/news/2013/11/11/three-members-of-the-iranian-rock-band-the-yellow-dogs-are-shot-and-killed-in-brooklyn-new-york-by-a-member-of-a-different-band-the-shoote.md)
-_Context: Brooklyn, Iran, New York, The Yellow Dogs, rock music_
+_Context: Brooklyn, Iran, New York State, The Yellow Dogs, rock music_
 
 ## [Previous Day...](/news/2013/11/10/index.md)
 

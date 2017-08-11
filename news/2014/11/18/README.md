@@ -13,7 +13,7 @@ _Context: Australia, Camino de Santiago, Dampier Archipelago, Machu Picchu, Mani
 South Korea launches a massive new government agency this week to handle emergency rescue and safety management seven months after a ferry disaster killed 304 people and was blamed by President Park Geun-hye on a failed response by the coast guard.
 
 ### [Lake effect snow pummels areas around the Great Lake states, including New York, Pennsylvania, Michigan, Wisconsin and Ohio, stranding hundreds of vehicles and causing Erie County, New York, to declare a state of emergency. ](/news/2014/11/18/lake-effect-snow-pummels-areas-around-the-great-lake-states-including-new-york-pennsylvania-michigan-wisconsin-and-ohio-stranding-hundr.md)
-_Context: Erie County, New York, Lake effect snow, Michigan, New York, November 2014 North American cold wave, Ohio, Pennsylvania, Wisconsin_
+_Context: Erie County, New York, Lake effect snow, Michigan, New York State, November 2014 North American cold wave, Ohio, Pennsylvania, Wisconsin_
 
 ### [Human Rights Watch claims that police in the Democratic Republic of the Congo's capital Kinshasa had killed at least 51 people in extrajudicial killings in a crackdown on kuluna gangs last November. ](/news/2014/11/18/human-rights-watch-claims-that-police-in-the-democratic-republic-of-the-congo-s-capital-kinshasa-had-killed-at-least-51-people-in-extrajudic.md)
 _Context: Democratic Republic of the Congo, Human Rights Watch, Kinshasa, extrajudicial killing, had killed_

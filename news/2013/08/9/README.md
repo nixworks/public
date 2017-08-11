@@ -1,7 +1,7 @@
 ## [2013-08-9](/news/2013/08/9/index.md)
 
 ### [An American drone strike kills five suspected Al Qaeda terrorists in eastern Yemen. ](/news/2013/08/9/an-american-drone-strike-kills-five-suspected-al-qaeda-terrorists-in-eastern-yemen.md)
-_Context: Yemen's, al-Qaeda_
+_Context: Yemen, al-Qaeda_
 
 ### [The United States withdraws diplomats from its consulate in the Pakistani city of Lahore due to terrorist threats. ](/news/2013/08/9/the-united-states-withdraws-diplomats-from-its-consulate-in-the-pakistani-city-of-lahore-due-to-terrorist-threats.md)
 _Context: Lahore, Pakistan, U.S._

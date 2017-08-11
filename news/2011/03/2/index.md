@@ -4,7 +4,7 @@
 Rebel forces in the eastern Libyan town of Brega fight off an attack by soldiers loyal to Col Muammar Gaddafi.
 
 ### [Thousands of anti-government protesters demonstrate across Yemen, amid mounting pressure for President Ali Abdullah Saleh to step down. ](/news/2011/03/2/thousands-of-anti-government-protesters-demonstrate-across-yemen-amid-mounting-pressure-for-president-ali-abdullah-saleh-to-step-down.md)
-_Context: 2011 Yemeni protests, Saleh, Yemen's_
+_Context: 2011 Yemeni protests, Saleh, Yemen_
 
 ### [Iran's opposition says 200 people were arrested during protests in the capital Tehran yesterday. ](/news/2011/03/2/iran-s-opposition-says-200-people-were-arrested-during-protests-in-the-capital-tehran-yesterday.md)
 Iranian opposition groups say more than 200 people were arrested on Tuesday while trying to protest in Tehran over the reported imprisonment of two opposition leaders.
@@ -76,7 +76,7 @@ _Context: Cyprus, Nicosia, Turkish, Turkish government_
 Senate Republicans stepped up their efforts Wednesday to compel the 14 Senate Democrats who fled Wisconsin two weeks ago to come home.
 
 ### [The President of the United States Barack Obama signs a bill preventing a shutdown of the United States government for another two weeks. ](/news/2011/03/2/the-president-of-the-united-states-barack-obama-signs-a-bill-preventing-a-shutdown-of-the-united-states-government-for-another-two-weeks.md)
-_Context: Barack Obama, President of the United States, United States government_
+_Context: Barack Obama, President, United States government_
 
 ### [The South Dakota Senate passes a bill requiring additional steps to provide informed consent before a woman can have an abortion. ](/news/2011/03/2/the-south-dakota-senate-passes-a-bill-requiring-additional-steps-to-provide-informed-consent-before-a-woman-can-have-an-abortion.md)
 After a long and emotional debate, the South Dakota Senate on Wednesday approved a bill requiring additional steps to provide informed consent before a woman can have an abortion.

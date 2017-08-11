@@ -19,7 +19,7 @@ Wartime leader of Bosnian Serbs found guilty of 10 of 11 charges at internationa
 _Context: Jian Ghomeshi, due process_
 
 ### [In New York, an appeals court upheld a lower court's decision to dismiss a lawsuit trying to keep Ted Cruz off the ballot in the U.S. Presidential contest on the ground of his Canadian birth. ](/news/2016/03/24/in-new-york-an-appeals-court-upheld-a-lower-court-s-decision-to-dismiss-a-lawsuit-trying-to-keep-ted-cruz-off-the-ballot-in-the-u-s-presid.md)
-_Context: New York, Ted Cruz_
+_Context: New York State, Ted Cruz_
 
 ### [Myanmar's parliament approves Nobel Peace Prize laureate Aung San Suu Kyi and 17 other nominees to positions in the incoming government's cabinet. Which ministry each will head was not announced. ](/news/2016/03/24/myanmar-s-parliament-approves-nobel-peace-prize-laureate-aung-san-suu-kyi-and-17-other-nominees-to-positions-in-the-incoming-government-s-ca.md)
 Myanmar’s parliament approved Aung San Suu Kyi and 17 other nominees to take positions in the incoming government’s cabinet, though what ministries they will head has yet to be announced.

@@ -16,7 +16,7 @@ _Context: Barbara Walters, U.S._
 _Context: Detroit, Kevyn Orr, Michigan_
 
 ### [A military aircraft crashes in residential area in Yemen's capital of Sana'a. ](/news/2013/05/13/a-military-aircraft-crashes-in-residential-area-in-yemen-s-capital-of-sana-a.md)
-_Context: Sana'a, Yemen's_
+_Context: Sana'a, Yemen_
 
 ### [The search of the wreckage of the 2013 Savar building collapse in Bangladesh ends with 1,127 people found dead. ](/news/2013/05/13/the-search-of-the-wreckage-of-the-2013-savar-building-collapse-in-bangladesh-ends-with-1-127-people-found-dead.md)
 Nearly three weeks after a Bangladesh garment-factory building collapsed, the search for the dead ended Monday at the site of the worst disaster in the history of the global garment industry. The death toll: 1,127.

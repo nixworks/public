@@ -7,7 +7,7 @@ The body of Tassos Papadopoulos, the former Greek Cypriot president, could have 
 Minister for Arts, Sport and Tourism Martin Cullen is to resign from the Cabinet and the Dáil as a result of a back complaint.
 
 ### [New York politician Eric Massa resigns after admitting to sexual harassment. ](/news/2010/03/8/new-york-politician-eric-massa-resigns-after-admitting-to-sexual-harassment.md)
-_Context: Eric Massa, New York, sexual harassment_
+_Context: Eric Massa, New York State, sexual harassment_
 
 ### [A strong earthquake in Turkey kills dozens. ](/news/2010/03/8/a-strong-earthquake-in-turkey-kills-dozens.md)
 _Context: Turkey, strong earthquake_

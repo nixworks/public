@@ -16,7 +16,7 @@ _Context: 2008 East Timor assassination attempts, Alfredo Reinhado, Jose Ramos-H
 _Context: Ferris wheel, London Eye, The Singapore Flyer_
 
 ### [ Gregg Bergersen, a United States Defense Department Analyst, is arrested and charged with espionage after being accused of leaking American military secrets to the Chinese government. ](/news/2008/02/11/gregg-bergersen-a-united-states-defense-department-analyst-is-arrested-and-charged-with-espionage-after-being-accused-of-leaking-american.md)
-_Context: China, Gregg Bergersen, The Pentagon, U.S., espionage_
+_Context: China, Gregg Bergersen, Pentagon officials, U.S., espionage_
 
 ## [Previous Day...](/news/2008/02/10/index.md)
 

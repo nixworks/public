@@ -34,7 +34,7 @@ _Context: China_
 A poster campaign is launched in Germany aimed at tracking down the last surviving Nazi war criminals not yet brought to justice.
 
 ### [A New York nuclear power plant supervisor is charged with falsifying test results involving emergency generators to prevent the plant from being shut down. ](/news/2013/07/23/a-new-york-nuclear-power-plant-supervisor-is-charged-with-falsifying-test-results-involving-emergency-generators-to-prevent-the-plant-from-b.md)
-_Context: New York, nuclear power plants_
+_Context: New York State, nuclear power plants_
 
 ### [Protesters besiege the Parliament of Bulgaria in Sofia amid major anti-government rallies. ](/news/2013/07/23/protesters-besiege-the-parliament-of-bulgaria-in-sofia-amid-major-anti-government-rallies.md)
 _Context: Parliament of Bulgaria, Sofia_

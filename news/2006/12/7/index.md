@@ -4,7 +4,7 @@
 _Context: Discovery, NASA, STS-116_
 
 ### [ George W. Bush, the President of the United States says that Syria and Iran might be included in regional talks on the future of Iraq if they meet certain conditions. ](/news/2006/12/7/george-w-bush-the-president-of-the-united-states-says-that-syria-and-iran-might-be-included-in-regional-talks-on-the-future-of-iraq-if-th.md)
-_Context: George W. Bush, Iran, Iraq, President of the United States, Syria_
+_Context: George W. Bush, Iran, Iraq, President, Syria_
 
 ### [ Hewlett-Packard pays a fine of $14.5 million to settle an investigation by the Attorney General of California related to leaks from its boardroom. ](/news/2006/12/7/hewlett-packard-pays-a-fine-of-14-5-million-to-settle-an-investigation-by-the-attorney-general-of-california-related-to-leaks-from-its-boa.md)
 _Context: Attorney General of California, Hewlett-Packard_

@@ -37,7 +37,7 @@ Authorities accused Lai Changxing of running a multi-billion-dollar smuggling ne
 Defying opinion polls that suggested yesterday&#039;s general election was too close to call, the People&#039;s National Party (PNP) secured a stunning victory, winning 41 of the 63 seats in the House of Representatives....
 
 ### [2011 Yemeni uprising:Tens of thousands of Yemenis protest against an immunity deal for former President Ali Abdullah Saleh demanding he face trial for deaths in the 2011 Yemeni uprising. ](/news/2011/12/30/2011-yemeni-uprising-ptens-of-thousands-of-yemenis-protest-against-an-immunity-deal-for-former-president-ali-abdullah-saleh-demanding-he-fac.md)
-_Context: 2011 Yemeni uprising, Saleh, Yemen's, Yemeni President_
+_Context: 2011 Yemeni uprising, Saleh, Yemen, Yemeni President_
 
 ### [The party of Democratic Republic of the Congo politician tienne Tshisekedi says he has been placed under house arrest in Kinshasa since he claimed to have won the presidential election earlier this year. ](/news/2011/12/30/the-party-of-democratic-republic-of-the-congo-politician-etienne-tshisekedi-says-he-has-been-placed-under-house-arrest-in-kinshasa-since-he.md)
 _Context: Democratic Republic of the Congo, Kinshasa, presidential election, tienne Tshisekedi_

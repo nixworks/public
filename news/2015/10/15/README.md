@@ -19,7 +19,7 @@ _Context: Boko Haram insurgency, Maiduguri, Nigeria_
 Uri Rezken, the victim of a stabbing attack in Kiryat Ata, in Haifa, Israel, describes the moment he was mistaken for an Arab and stabbed by an Israeli
 
 ### [Lennart Anderson died at age 87 in Brooklyn, New York.  Also a teacher at several notable institutions such as Pratt Institute, the Art Students League of New York, Yale, Princeton, Columbia, and Brooklyn College, Anderson's influence was felt by generations of artists.](/news/2015/10/15/lennart-anderson-died-at-age-87-in-brooklyn-new-york-also-a-teacher-at-several-notable-institutions-such-as-pratt-institute-the-art-stud.md)
-_Context: Art Students League of New York, Brooklyn, Brooklyn College, Columbia, Lennart Anderson, New York, Pratt Institute, Princeton, Yale_
+_Context: Art Students League of New York, Brooklyn, Brooklyn College, Columbia, Lennart Anderson, New York State, Pratt Institute, Princeton, Yale_
 
 ### [The German  automotive watchdog KBA orders Volkswagen to recall 2.4 million cars in that country after the emissions scandal becomes public knowledge. ](/news/2015/10/15/the-german-automotive-watchdog-kba-orders-volkswagen-to-recall-2-4-million-cars-in-that-country-after-the-emissions-scandal-becomes-public.md)
 German automotive watchdog KBA ordered Volkswagen to recall 2.4 million vehicles in the country after Europe&#039;s biggest carmaker admitted to cheating on emissions tests for diesel vehicles.
@@ -37,7 +37,7 @@ The Navy is scrambling a ship and an underwater search team to find the missing 
 Raban Alou, 18, from Wentworthville, faces terrorism charges, while Talal Alameddine, 22, has been charged with supplying a weapon
 
 ### [A cache of classified intelligence documents published from The Intercept, released by an anonymous whistleblower, highlight details surrounding post-September 11 attacks United States drone strikes in Afghanistan, Somalia, and Yemen, alleging that the United States conducts these strikes under extremely unreliable information and faulty pretenses. ](/news/2015/10/15/a-cache-of-classified-intelligence-documents-published-from-the-intercept-released-by-an-anonymous-whistleblower-highlight-details-surroun.md)
-_Context: Afghanistan's, September 11 attacks, Somalia, The Intercept, U.S., Yemen's, whistleblower_
+_Context: Afghanistan's, September 11 attacks, Somalia, The Intercept, U.S., Yemen, whistleblower_
 
 ### [ Five individuals - four men and a teenage boy - are arrested in connection with the gang-rape of a 16-year-old girl at a Sydney, Australia, house party. ](/news/2015/10/15/five-individuals-a-four-men-and-a-teenage-boy-a-are-arrested-in-connection-with-the-gang-rape-of-a-16-year-old-girl-at-a-sydney-austra.md)
 _Context: Australia, Sydney_

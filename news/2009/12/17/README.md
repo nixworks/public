@@ -25,7 +25,7 @@ _Context: Iraq, MQ-1 Predator_
 _Context: Asif Ali Zardari, Pakistan, Supreme Court, amnesty protecting him_
 
 ### [ Yemen authorities say 34 suspected Al-Qaeda militants have been killed and 17 captured in raids at hideouts and training camps in the west of the country. ](/news/2009/12/17/yemen-authorities-say-34-suspected-al-qaeda-militants-have-been-killed-and-17-captured-in-raids-at-hideouts-and-training-camps-in-the-west.md)
-_Context: Yemen's, al-Qaeda_
+_Context: Yemen, al-Qaeda_
 
 ### [ Two of Colombia's main rebel groups, the Revolutionary Armed Forces of Colombia (FARC) and the National Liberation Army (ELN), announce they are to unite. ](/news/2009/12/17/two-of-colombia-s-main-rebel-groups-the-revolutionary-armed-forces-of-colombia-farc-and-the-national-liberation-army-eln-announce-the.md)
 _Context: Colombia, National Liberation Army, Revolutionary Armed Forces of Colombia_

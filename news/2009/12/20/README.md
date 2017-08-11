@@ -7,7 +7,7 @@ _Context: Tanzania, earthquake_
 _Context: Malawi, earthquake, state of emergency_
 
 ### [ Shi'ites say Saudi air attacks on northern Yemen have led to the deaths of 54 people, including women and children. ](/news/2009/12/20/shi-ites-say-saudi-air-attacks-on-northern-yemen-have-led-to-the-deaths-of-54-people-including-women-and-children.md)
-_Context: Saudi Arabia, Shi'ite, Yemen's_
+_Context: Saudi Arabia, Shi'ite, Yemen_
 
 ### [ Madagascar President Andry Rajoelina appoints Colonel Vital Albert Camille as the new Prime Minister, days after sacking former Prime Minister Eugene Mangalaza, who had been appointed as part of a power sharing agreement. ](/news/2009/12/20/madagascar-president-andry-rajoelina-appoints-colonel-vital-albert-camille-as-the-new-prime-minister-days-after-sacking-former-prime-minis.md)
 _Context: Andry Rajoelina, Eugene Mangalaza, Madagascar, Prime Minister of Madagascar, Vital Albert Camille_

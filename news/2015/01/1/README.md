@@ -1,7 +1,7 @@
 ## [2015-01-1](/news/2015/01/1/index.md)
 
 ### [The death toll of the suicide bombing in Ibb, Yemen, that occurred on December 31 rises to 49 with the injury count rising to 70. ](/news/2015/01/1/the-death-toll-of-the-suicide-bombing-in-ibb-yemen-that-occurred-on-december-31-rises-to-49-with-the-injury-count-rising-to-70.md)
-_Context: Ibb, Terrorism in Yemen, Yemen's, suicide bombing_
+_Context: Ibb, Terrorism in Yemen, Yemen, suicide bombing_
 
 ### [A shooting kills one and injures six people in Killarney, Calgary, Canada, with police making no arrests. ](/news/2015/01/1/a-shooting-kills-one-and-injures-six-people-in-killarney-calgary-canada-with-police-making-no-arrests.md)
 _Context: Killarney, Calgary_
@@ -22,7 +22,7 @@ The Eurasian Economic Union (EEU) officially starts functioning on January 1. Th
 _Context: Vietnam, law_
 
 ### [Mario Cuomo, former governor of the U.S. state of New York, dies at the age of 82. ](/news/2015/01/1/mario-cuomo-former-governor-of-the-u-s-state-of-new-york-dies-at-the-age-of-82.md)
-_Context: Mario Cuomo, New York_
+_Context: Mario Cuomo, New York State_
 
 ## [Previous Day...](/news/2014/12/31/index.md)
 

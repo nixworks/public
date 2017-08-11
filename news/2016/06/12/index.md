@@ -4,7 +4,7 @@
 Government forces and allied Shia militias targeted east of Iraqi city, leaving at least 50 dead.
 
 ### [Missiles, fired from a U.S. drone, strike a four-wheel drive vehicle in southern Yemen, killing two and injuring another suspected militant. ](/news/2016/06/12/missiles-fired-from-a-u-s-drone-strike-a-four-wheel-drive-vehicle-in-southern-yemen-killing-two-and-injuring-another-suspected-militant.md)
-_Context: Yemen's, Yemeni Civil War, drones_
+_Context: Yemen, Yemeni Civil War, drones_
 
 ### [Around 10,000 people attend a street party in front of Buckingham Palace to celebrate Queen Elizabeth II's 90th birthday. ](/news/2016/06/12/around-10-000-people-attend-a-street-party-in-front-of-buckingham-palace-to-celebrate-queen-elizabeth-ii-s-90th-birthday.md)
 _Context: Buckingham Palace, Elizabeth II, Queen_

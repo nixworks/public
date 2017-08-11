@@ -1,7 +1,7 @@
 ## [2011-04-6](/news/2011/04/6/index.md)
 
 ### [2011 Yemeni protests: six people are killed and hundreds injured in Yemen violence. ](/news/2011/04/6/2011-yemeni-protests-six-people-are-killed-and-hundreds-injured-in-yemen-violence.md)
-_Context: 2011 Yemeni protests, Yemen's_
+_Context: 2011 Yemeni protests, Yemen_
 
 ### [2011 Libyan civil war:NATO pledges to protect the besieged town of Misrata amid criticism from rebel fighters. ](/news/2011/04/6/2011-libyan-civil-war-pnato-pledges-to-protect-the-besieged-town-of-misrata-amid-criticism-from-rebel-fighters.md)
 Military alliance says besieged town is now its top priority after rebels accuse bloc of failing to protect civilians.

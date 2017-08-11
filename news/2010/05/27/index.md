@@ -10,7 +10,7 @@ The death toll in a bombing in the southern Russia city of Stavropol has risen t
 _Context: Alaska, Deepwater Horizon oil spill, Exxon Valdez_
 
 ### [A US-born Yemenite cleric linked to Al-Qaeda, Anwar Al-Awlaki, advocates the killing of US civilians in a new Al Qaeda video. ](/news/2010/05/27/a-us-born-yemenite-cleric-linked-to-al-qaeda-anwar-al-awlaki-advocates-the-killing-of-us-civilians-in-a-new-al-qaeda-video.md)
-_Context: Anwar al-Awlaki, Yemen's, al-Qaeda_
+_Context: Anwar al-Awlaki, Yemen, al-Qaeda_
 
 ### [Two campaigners for LGBT rights in Zimbabwe are freed after spending six days in custody on charges of possessing pornographic material and insulting President Robert Mugabe. ](/news/2010/05/27/two-campaigners-for-lgbt-rights-in-zimbabwe-are-freed-after-spending-six-days-in-custody-on-charges-of-possessing-pornographic-material-and.md)
 Two campaigners for gay rights in Zimbabwe are freed after spending six days in custody, their lawyers say.

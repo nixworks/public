@@ -4,7 +4,7 @@
 _Context: Clara Rojas, Colombia, Consuelo Gonzalez, FARC, Operation Emmanuel, guerrilla, hostage_
 
 ### [ U.S. President George W. Bush says Israel must return to its pre-1967 borders to enable the establishment of a Palestinian state. ](/news/2008/01/10/u-s-president-george-w-bush-says-israel-must-return-to-its-pre-1967-borders-to-enable-the-establishment-of-a-palestinian-state.md)
-_Context: George W. Bush, Israel, Palestinian state, President of the United States, occupied territories_
+_Context: George W. Bush, Israel, Palestinian state, President, occupied territories_
 
 ### [ United States presidential election, 2008: Governor of New Mexico Bill Richardson withdraws his candidacy. ](/news/2008/01/10/united-states-presidential-election-2008-p-governor-of-new-mexico-bill-richardson-withdraws-his-candidacy.md)
 _Context: 2008, Bill Richardson, Governor of New Mexico_

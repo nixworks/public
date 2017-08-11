@@ -4,7 +4,7 @@
 Heavy clashes in the eastern Libyan city of Benghazi have left at least 14 people dead and 32 wounded, medical officials said on Saturday.
 
 ### [Al-Qaeda militants take control of the southern Yemeni town of Ahwar in the Abyan Governorate. ](/news/2016/02/20/al-qaeda-militants-take-control-of-the-southern-yemeni-town-of-ahwar-in-the-abyan-governorate.md)
-_Context: Abyan Governorate, Ahwar, Yemen's, Yemeni conflict, al-Qaida_
+_Context: Abyan Governorate, Ahwar, Yemen, Yemeni conflict, al-Qaida_
 
 ### [A United States Air Force operated MQ-9 Reaper drone crashes at the Kandahar Airfield in southern Afghanistan. ](/news/2016/02/20/a-united-states-air-force-operated-mq-9-reaper-drone-crashes-at-the-kandahar-airfield-in-southern-afghanistan.md)
 An American MQ-9 Reaper has crashed at the Kandahar airbase in southern Afghanistan, the US Air Force reported. The incident came less than three months after a similar armed drone went down at the same location. 

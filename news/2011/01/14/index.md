@@ -7,7 +7,7 @@ Thousands of demonstrators stage an unprecedented protest in the Tunisian capita
 Twelve suspected gang members and two soldiers have been killed in a shootout between the security forces and a drug gang in Veracruz, officials say.
 
 ### [At least 10 people arrested in clashes between police and protesters in Yemen. ](/news/2011/01/14/at-least-10-people-arrested-in-clashes-between-police-and-protesters-in-yemen.md)
-_Context: Yemen's_
+_Context: Yemen_
 
 ### [Somali pirates capture six crew from Denmark and the Philippines leaving the ship intact. They are thought to be held on a captured Taiwanese fishing boat. ](/news/2011/01/14/somali-pirates-capture-six-crew-from-denmark-and-the-philippines-leaving-the-ship-intact-they-are-thought-to-be-held-on-a-captured-taiwanes.md)
 Pirates operating off the Somali coast kidnap six crew from a Danish ship thought to have been transporting weapons in the Gulf of Aden.

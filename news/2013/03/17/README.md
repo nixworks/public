@@ -7,7 +7,7 @@ Ten people are killed as a car bomb explodes at a bus station near Basra in sout
 _Context: Japan, Pritzker Architecture Prize, Toyo Ito, architect_
 
 ### [Following a train derailment, Amtrak temporarily suspends service along the busy New York-to-Boston route. ](/news/2013/03/17/following-a-train-derailment-amtrak-temporarily-suspends-service-along-the-busy-new-york-to-boston-route.md)
-_Context: Amtrak, Boston, New York, train derailment_
+_Context: Amtrak, Boston, New York State, train derailment_
 
 ### [An Albanian hitman serving time in Greece takes six people hostage in an apparent escape attempt. ](/news/2013/03/17/an-albanian-hitman-serving-time-in-greece-takes-six-people-hostage-in-an-apparent-escape-attempt.md)
 A hostage drama at a Greek prison ends peacefully with the surrender of an Albanian killer who previously escaped twice from a high-security jail.

@@ -1,7 +1,7 @@
 ## [2009-04-27](/news/2009/04/27/index.md)
 
 ### [ A low-flying Boeing VC-25, ''Air Force One'', causes momentary panic in New York City, New York, United States. ](/news/2009/04/27/a-low-flying-boeing-vc-25-air-force-one-causes-momentary-panic-in-new-york-city-new-york-united-states.md)
-_Context: Air Force One, Boeing, New York, New York City, U.S., VC-25, panic_
+_Context: Air Force One, Boeing, New York City, New York State, U.S., VC-25, panic_
 
 ### [ Mexico reports 149 deaths from the outbreak of swine influenza. ](/news/2009/04/27/mexico-reports-149-deaths-from-the-outbreak-of-swine-influenza.md)
 _Context: Mexico, current outbreak, swine flu_
@@ -13,7 +13,7 @@ _Context: General Motors, Pontiac, brand_
 _Context: Japan, NEC Corporation, Renesas Technology, pre-merger_
 
 ### [ Yemen's military rescues four oil tankers from Somali pirates. ](/news/2009/04/27/yemen-s-military-rescues-four-oil-tankers-from-somali-pirates.md)
-_Context: Somali pirates, Somalia, Yemen's, Yemeni, oil tanker_
+_Context: Somali pirates, Somalia, Yemen, Yemeni, oil tanker_
 
 ### [ A 5.6-magnitude earthquake strikes near Chilpancingo, Guerrero, Mexico. ](/news/2009/04/27/a-5-6-magnitude-earthquake-strikes-near-chilpancingo-guerrero-mexico.md)
 _Context: Chilpancingo, Guerrero, Mexico, earthquake, magnitude earthquake_

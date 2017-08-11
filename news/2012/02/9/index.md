@@ -4,7 +4,7 @@
 Syrian government artillery barrages killed dozens of civilians in Homs on Thursday, activists said, as President Bashar al-Assad, bolstered by Russian support, ignored appeals from world leaders to halt the carnage.
 
 ### [The United States Department of Defense issues new guidelines removing restrictions on use of women in combat. ](/news/2012/02/9/the-united-states-department-of-defense-issues-new-guidelines-removing-restrictions-on-use-of-women-in-combat.md)
-_Context: The Pentagon, combat_
+_Context: Pentagon officials, combat_
 
 ### [Greek government debt crisis:Talks continue in order to resolve the debt crisis with a tentative agreement made. ](/news/2012/02/9/greek-government-debt-crisis-ptalks-continue-in-order-to-resolve-the-debt-crisis-with-a-tentative-agreement-made.md)
 _Context: Greek government-debt crisis_

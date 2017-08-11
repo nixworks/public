@@ -37,7 +37,7 @@ _Context: Abdellah Baali, Algeria, Dora Akunyili, Nigeria, U.S._
 _Context: U.S., visa-free travel_
 
 ### [Yemen arrests three suspected Al-Qaeda members, including one leader, northwest of the capital Sana'a. ](/news/2010/01/6/yemen-arrests-three-suspected-al-qaeda-members-including-one-leader-northwest-of-the-capital-sana-a.md)
-_Context: Sana'a, Yemen's, al-Qaeda_
+_Context: Sana'a, Yemen, al-Qaeda_
 
 ### [50-year-old Chinese journalist Li Junqi is imprisoned for 16 years after accepting bribes for his part in a mass three-month cover-up of a coal mine disaster in Hebei in which 35 people, including a rescue worker, were killed prior to the 2008 Summer Olympics in Beijing. ](/news/2010/01/6/50-year-old-chinese-journalist-li-junqi-is-imprisoned-for-16-years-after-accepting-bribes-for-his-part-in-a-mass-three-month-cover-up-of-a-c.md)
 _Context: Beijing, Beijing Olympiad, Hebei, Li Junqi, bribes_

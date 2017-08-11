@@ -4,7 +4,7 @@
 Two Arab newspapers and alJazeera television said on Monday Libyan leader Muammar Gaddafiwas looking for an agreement allowing him to step down, butthere was no official confirmation of the reports.
 
 ### [Protesters in the central jail of the Yemeni capital Sana'a take part in anti-Saleh demonstrations, where warning shots are fired. ](/news/2011/03/7/protesters-in-the-central-jail-of-the-yemeni-capital-sana-a-take-part-in-anti-saleh-demonstrations-where-warning-shots-are-fired.md)
-_Context: 2011 Yemeni protests, Saleh, Sana'a, Yemen's_
+_Context: 2011 Yemeni protests, Saleh, Sana'a, Yemen_
 
 ### [Rebel forces seize a third town in western Ivory Coast from government forces.](/news/2011/03/7/rebel-forces-seize-a-third-town-in-western-ivory-coast-from-government-forces.md)
 _Context: 2010-2011 Ivorian crisis, Ivory Coast_
@@ -73,7 +73,7 @@ _Context: 2012, John Ensign, Nevada, Senator_
 US President Barack Obama is lifting the two-year freeze on new military trials for detainees at the Guantanamo Bay prison.
 
 ### [ABC News reports that President Barack Obama will nominate the United States Secretary of Commerce Gary Locke as the next United States ambassador to the People's Republic of China. ](/news/2011/03/7/abc-news-reports-that-president-barack-obama-will-nominate-the-united-states-secretary-of-commerce-gary-locke-as-the-next-united-states-amba.md)
-_Context: ABC News, Barack Obama, Chinese, Gary Locke, President of the United States, U.S., United States Secretary of Commerce_
+_Context: ABC News, Barack Obama, Chinese, Gary Locke, President, U.S., United States Secretary of Commerce_
 
 ### [A possible discovery of extraterrestrial life forms in samples of CI1 meteorites is reported in the ''Journal of Cosmology'' by Richard B. Hoover. ](/news/2011/03/7/a-possible-discovery-of-extraterrestrial-life-forms-in-samples-of-ci1-meteorites-is-reported-in-the-journal-of-cosmology-by-richard-b-h.md)
 Top NASA scientists have hosed down claims from a colleague that fossils of alien microbes were found in meteorites.

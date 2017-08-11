@@ -7,7 +7,7 @@ Activists report deaths in several provinces as Sarkozy calls for tougher sancti
 _Context: Afghanistan's, Ahmed Wali Karzai, Kandahar, War in Afghanistan (2001-present), suicide bombing_
 
 ### [At least six Yemeni militants are killed following an air strike on a police station in the Abyan Governorate that the militants had overrun. ](/news/2011/07/14/at-least-six-yemeni-militants-are-killed-following-an-air-strike-on-a-police-station-in-the-abyan-governorate-that-the-militants-had-overrun.md)
-_Context: Abyan Governorate, Yemen's_
+_Context: Abyan Governorate, Yemen_
 
 ### [Kurdish-Turkish conflict:Kurdistan Workers Party fighters ambush the Turkish Army in Diyarbakir Province, resulting in the death of 13 soldiers and five militants. ](/news/2011/07/14/kurdishaturkish-conflict-pkurdistan-workers-party-fighters-ambush-the-turkish-army-in-diyarbaka-r-province-resulting-in-the-death-of-13-s.md)
 Kurdish fighters killed 13 Turkish soldiers in an ambush Thursday and seven militants died in the firefight that marked the worst clash since the Kurdistan Workers Party (PKK) ended a cease-fire in February.

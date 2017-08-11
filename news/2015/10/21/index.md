@@ -7,7 +7,7 @@ Map detailing Taliban-controlled or contested districts. Click colored district 
 _Context: ISIL, Raqqa, Syria, Syrian Civil War_
 
 ### [Rockets fired by Houthi forces reportedly kill 14 people in city of Taiz, southwestern Yemen. ](/news/2015/10/21/rockets-fired-by-houthi-forces-reportedly-kill-14-people-in-city-of-taiz-southwestern-yemen.md)
-_Context: Houthi, Taiz, Yemen's, Yemeni Civil War (2015)_
+_Context: Houthi, Taiz, Yemen, Yemeni Civil War (2015)_
 
 ### [According to a civilian vigilante, 20 people are killed after Boko Haram militants open fire on cars outside a village in Nigeria's restive northeast Borno state. ](/news/2015/10/21/according-to-a-civilian-vigilante-20-people-are-killed-after-boko-haram-militants-open-fire-on-cars-outside-a-village-in-nigeria-s-restive.md)
 Twenty people were shot dead by suspected Boko Haram gunmen Wednesday on a road outside a village in Nigeria&#x27;s northeast Borno state, local sources said. A large group of Boko Haram gunmen fleeing a military offensive on their camp in Nganzai district opened fire on four cars just outside Jingalta

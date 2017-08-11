@@ -10,7 +10,7 @@ In Pakistan, at least 22 paramilitary policemen are reported to have been kidnap
 Toyota Motor Corp., moving to put years of legal problems behind it, has agreed to pay more than $1 billion to settle dozens of lawsuits relating to sudden acceleration. The proposed deal, filed...
 
 ### [A New York state appeals court dismissed a lawsuit brought by several hedge funds against Porsche Automobil Holding, in a controversy that dates to the volatility of the stock price of Volkswagen in October 2008. ](/news/2012/12/27/a-new-york-state-appeals-court-dismissed-a-lawsuit-brought-by-several-hedge-funds-against-porsche-automobil-holding-in-a-controversy-that-d.md)
-_Context: New York, Porsche Automobil Holding, Volkswagen, hedge funds, state appeals court_
+_Context: New York State, Porsche Automobil Holding, Volkswagen, hedge funds, state appeals court_
 
 ### [Japan's Coast Guard sends a rescue team to the Russian fishing trawler "Alanet" with 24 fishermen on board which is in distress off Japanese Hokkaido Island. ](/news/2012/12/27/japan-s-coast-guard-sends-a-rescue-team-to-the-russian-fishing-trawler-alanet-with-24-fishermen-on-board-which-is-in-distress-off-japanese.md)
 _Context: Hokkaido Island, Japan, Japan Coast Guard, Russia, fishermen, rescue team, trawler_

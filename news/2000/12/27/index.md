@@ -4,7 +4,7 @@
 _Context: Bmlafjord Tunnel, Fyno_
 
 ### [The December 2000 nor'easter is formed, beginning as an Alberta clipper, affecting, specially, Northern New Jersey and Eastern New York.](/news/2000/12/27/the-december-2000-nor-easter-is-formed-beginning-as-an-alberta-clipper-affecting-specially-northern-new-jersey-and-eastern-new-york.md)
-_Context: Alberta clipper, December 2000 nor'easter, New Jersey, New York_
+_Context: Alberta clipper, December 2000 nor'easter, New Jersey, New York State_
 
 ## [Previous Day...](/news/2000/12/26/index.md)
 

@@ -40,7 +40,7 @@ _Context: Alternative League for Haitian Progress and Emancipation, Fanmi Lavala
 Paul Nuttall says he wants UKIP to &quot;replace Labour&quot; as he takes over from Nigel Farage as leader.
 
 ### [Yemen's Houthi movement and its allies form a new government. ](/news/2016/11/28/yemen-s-houthi-movement-and-its-allies-form-a-new-government.md)
-_Context: Houthi, Yemen's, Yemeni Civil War_
+_Context: Houthi, Yemen, Yemeni Civil War_
 
 ### [President-elect Donald Trump is declared as the winner in Michigan, causing his electoral college vote to rise to 306. Hillary Clinton's margin in the popular vote rises to over two million. ](/news/2016/11/28/president-elect-donald-trump-is-declared-as-the-winner-in-michigan-causing-his-electoral-college-vote-to-rise-to-306-hillary-clinton-s-mar.md)
 _Context: 2016 U.S. presidential election, Donald Trump, Hillary Clinton, Michigan, electoral college_

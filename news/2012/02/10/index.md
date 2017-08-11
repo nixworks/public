@@ -34,7 +34,7 @@ _Context: Dublin, James Joyce, The Cats of Copenhagen_
 _Context: The Guard, The Guardian_
 
 ### [Spanish photographer Samuel Aranda wins the 2011 World Press Photo of the Year with an image of a veiled woman holding a wounded relative in her arms after a demonstration in Yemen. ](/news/2012/02/10/spanish-photographer-samuel-aranda-wins-the-2011-world-press-photo-of-the-year-with-an-image-of-a-veiled-woman-holding-a-wounded-relative-in.md)
-_Context: Samuel Aranda, World Press Photo of the Year, Yemen's_
+_Context: Samuel Aranda, World Press Photo of the Year, Yemen_
 
 ### [A Histadrut general strike in Israel continues for a third day with banks, ports and the Tel Aviv Stock Exchange closed. ](/news/2012/02/10/a-histadrut-general-strike-in-israel-continues-for-a-third-day-with-banks-ports-and-the-tel-aviv-stock-exchange-closed.md)
 _Context: Histadrut, Israel, Tel Aviv Stock Exchange, general strike_
@@ -61,7 +61,7 @@ _Context: Daily Mail, Nat Rothschild, Oleg Deripaska, Peter Mandelson_
 A man suspected of involvement in the 2003 killing of Serbian Prime Minister Zoran Djindjic is arrested in Spain, police say.
 
 ### [An Uzbek man Ulugbek Kodirov pleads guilty to plotting with the Islamic Movement of Uzbekistan to assassinate President of the United States Barack Obama in a hearing in Birmingham, Alabama. ](/news/2012/02/10/an-uzbek-man-ulugbek-kodirov-pleads-guilty-to-plotting-with-the-islamic-movement-of-uzbekistan-to-assassinate-president-of-the-united-states.md)
-_Context: Alabama, Barack Obama, Birmingham, Islamic Movement of Uzbekistan, President of the United States, Ulugbek Kodirov, Uzbek_
+_Context: Alabama, Barack Obama, Birmingham, Islamic Movement of Uzbekistan, President, Ulugbek Kodirov, Uzbek_
 
 ### [Chinese Premier Wen Jiabao pledges greater freedoms in Tibet, hours after two protesters are killed demanding the end of Chinese rule in the region; seven officials are also sacked for "neglecting state duties". ](/news/2012/02/10/chinese-premier-wen-jiabao-pledges-greater-freedoms-in-tibet-hours-after-two-protesters-are-killed-demanding-the-end-of-chinese-rule-in-the.md)
 _Context: Chinese, Tibet, Wen Jiabao_

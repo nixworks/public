@@ -64,7 +64,7 @@ _Context: Government of India, Supreme Court of India_
 Co-founder of Jemaah Islamiyah proclaims innocence over terror charges and rejects trial as outside Islamic law.
 
 ### [Former International Monetary Fund chief Dominique Strauss-Kahn will be arraigned on sexual assault charges in the US state of New York. ](/news/2011/06/6/former-international-monetary-fund-chief-dominique-strauss-kahn-will-be-arraigned-on-sexual-assault-charges-in-the-us-state-of-new-york.md)
-_Context: Dominique Strauss-Kahn, International Monetary Fund, New York, arraigned, sexual assault_
+_Context: Dominique Strauss-Kahn, International Monetary Fund, New York State, arraigned, sexual assault_
 
 ### [The sodomy trial of Malaysian opposition leader Anwar Ibrahim is delayed after the presiding judge Mohamad Zabidin Diah dismisses the defence's efforts to have him replaced. ](/news/2011/06/6/the-sodomy-trial-of-malaysian-opposition-leader-anwar-ibrahim-is-delayed-after-the-presiding-judge-mohamad-zabidin-diah-dismisses-the-defenc.md)
 _Context: Anwar Ibrahim, Malaysia, Mohamad Zabidin Diah_
@@ -82,10 +82,10 @@ _Context: France, Overseas departments and territories of France, indigenous lan
 _Context: Keiko Fujimori, Ollanta Humala, Peruvian general election, President_
 
 ### [U.S. House Representative Anthony Weiner of New York admits sending a risqu picture of himself to a college student on Twitter. ](/news/2011/06/6/u-s-house-representative-anthony-weiner-of-new-york-admits-sending-a-risque-picture-of-himself-to-a-college-student-on-twitter.md)
-_Context: Anthony Weiner, New York, United States House of Representatives, tweets_
+_Context: Anthony Weiner, New York State, United States House of Representatives, tweets_
 
 ### [Austan Goolsbee announces plans to leave the position of Chairman of President of the United States Council of Economic Advisers by September. ](/news/2011/06/6/austan-goolsbee-announces-plans-to-leave-the-position-of-chairman-of-president-of-the-united-states-council-of-economic-advisers-by-septembe.md)
-_Context: Austan Goolsbee, Council of Economic Advisers, President of the United States_
+_Context: Austan Goolsbee, Council of Economic Advisers, President_
 
 ## [Previous Day...](/news/2011/06/5/index.md)
 

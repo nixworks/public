@@ -4,7 +4,7 @@
 _Context: Myanmar, Thailand, helicopter, military_
 
 ### [A car bomb in the Yemeni port of Aden kills at least eight Army soldiers and wounds scores. ](/news/2011/07/24/a-car-bomb-in-the-yemeni-port-of-aden-kills-at-least-eight-army-soldiers-and-wounds-scores.md)
-_Context: Aden, Yemen's, Yemeni, car bomb_
+_Context: Aden, Yemen, Yemeni, car bomb_
 
 ### [Japanese television switches totally to digital television from midday. ](/news/2011/07/24/japanese-television-switches-totally-to-digital-television-from-midday.md)
 _Context: Japanese television, digital television_

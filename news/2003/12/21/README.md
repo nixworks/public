@@ -1,7 +1,7 @@
 ## [2003-12-21](/news/2003/12/21/index.md)
 
 ### [ "The American Soldier" is named as ''TIME'' magazine's "Person of the Year". The periodical's editors chose the anonymous soldier to represent the 1.4 million men and women serving in the United States Armed Forces. ](/news/2003/12/21/the-american-soldier-is-named-as-time-magazine-s-person-of-the-year-the-periodical-s-editors-chose-the-anonymous-soldier-to-repres.md)
-_Context: Person of the Year, TIME, United States Armed Forces_
+_Context: Person of the Year, TIME, United States military personnel_
 
 ### [ Citing increased "chatter" regarding potential terrorist attacks over the holiday period, the U.S. Department of Homeland Security raises its terrorism alert level from "elevated" (yellow) to "high" (orange). [http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=4028248]](/news/2003/12/21/citing-increased-chatter-regarding-potential-terrorist-attacks-over-the-holiday-period-the-u-s-department-of-homeland-security-raises-i.md)
 _Context: U.S. Department of Homeland Security, terrorism_

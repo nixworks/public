@@ -7,7 +7,7 @@ _Context: Brazil, Doha round of negotiations, European Union, India, New Delhi, 
 Critics of the Bush administration say that the focus on the Iraq war has jeopardized the early military victory in Afghanistan in 2001.
 
 ### [ The United States Senate votes to ease funding restrictions on stem-cell research but President Bush threatens to veto the bill. ](/news/2007/04/11/the-united-states-senate-votes-to-ease-funding-restrictions-on-stem-cell-research-but-president-bush-threatens-to-veto-the-bill.md)
-_Context: George W. Bush, President of the United States, United States Senate, stem-cell research, veto_
+_Context: George W. Bush, President, United States Senate, stem-cell research, veto_
 
 ### [ The United States extends the tour of duty for troops in Iraq and Afghanistan from a year to 15 months. ](/news/2007/04/11/the-united-states-extends-the-tour-of-duty-for-troops-in-iraq-and-afghanistan-from-a-year-to-15-months.md)
 _Context: Afghanistan's, Iraq, U.S., tour of duty_

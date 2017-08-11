@@ -1,13 +1,13 @@
 ## [2016-03-15](/news/2016/03/15/index.md)
 
 ### [A senior Iraqi intelligence official, who is also a Syrian activist leader, says Islamic State of Iraq and the Levant commander Omar al-Shishani (Omar the Chechen, real name Tarkhan Tayumurazovich Batirashvili) died of wounds suffered in a March 4 U.S. airstrike  near the Syrian town of Al-Shaddadah. The U.S. State Department offered up to $5 million for information on his whereabouts.  Amaq news agency, which supports ISIL, says Shishani is neither dead nor hurt. ](/news/2016/03/15/a-senior-iraqi-intelligence-official-who-is-also-a-syrian-activist-leader-says-islamic-state-of-iraq-and-the-levant-commander-omar-al-shis.md)
-_Context: Al-Shaddadah, American-led intervention in Syria, ISIL, Iraq, Omar al-Shishani, State Department's, Syria, United States Armed Forces, airstrike_
+_Context: Al-Shaddadah, American-led intervention in Syria, ISIL, Iraq, Omar al-Shishani, State Department's, Syria, United States military personnel, airstrike_
 
 ### [Belgian security forces hunt gunmen linked to the November 2015 Paris attacks following a raid on a house in Brussels which left four officers wounded and one suspect dead after an exchange of gunfire. Roads have been blocked off in the Belgian capital's southern suburb of Forest as one or more gunmen remain at large. ](/news/2016/03/15/belgian-security-forces-hunt-gunmen-linked-to-the-november-2015-paris-attacks-following-a-raid-on-a-house-in-brussels-which-left-four-office.md)
 Police in Brussels have shot dead a suspect in an anti-terror operation linked to the Paris attacks, after gunmen with assault rifles opened fire and wounded four officers. The dead person has not been identified but prosecutors said it was not Salah Abdeslam, a key suspect in the November Paris massacre which killed 130 people, and who fled to Brussels after the attacks.
 
 ### [Airstrikes reportedly kill at least 41 people and wound 75 others in Yemen's northern Hajjah Governorate. ](/news/2016/03/15/airstrikes-reportedly-kill-at-least-41-people-and-wound-75-others-in-yemen-s-northern-hajjah-governorate.md)
-_Context: Hajjah Governorate, Saudi Arabian-led intervention in Yemen, Yemen's_
+_Context: Hajjah Governorate, Saudi Arabian-led intervention in Yemen, Yemen_
 
 ### [Pope Francis announces that Mother Teresa will be canonized on September 4. ](/news/2016/03/15/pope-francis-announces-that-mother-teresa-will-be-canonized-on-september-4.md)
 Pope Francis announces elevation months after approving Nobel prize winning nun’s second miracle

@@ -31,7 +31,7 @@ _Context: Archbishop of York, Birmingham, Church of England, John Sentamu, Ugand
 _Context: Leon Dehon, Reverend, Roman Curia, anti-Semitism, beatified_
 
 ### [ Dennis Kozlowski, the former chief executive of Tyco International, and Mark Swartz, its erstwhile chief financial officer, are found guilty by a New York state court jury on all but one of 31 counts of grand larceny, conspiracy, falsifying business records and securities fraud. ](/news/2005/06/17/dennis-kozlowski-the-former-chief-executive-of-tyco-international-and-mark-swartz-its-erstwhile-chief-financial-officer-are-found-guilt.md)
-_Context: Dennis Kozlowski, New York, Tyco International, jury_
+_Context: Dennis Kozlowski, New York State, Tyco International, jury_
 
 ## [Previous Day...](/news/2005/06/16/index.md)
 

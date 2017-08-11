@@ -31,7 +31,7 @@ Hundreds of right-wing activists gathered in the West Bank settlement of Ofra, a
 _Context: Royal Thai Government_
 
 ### [The Trump administration plans to increase the budget of the United States Armed Forces by more than 9%. ](/news/2017/02/28/the-trump-administration-plans-to-increase-the-budget-of-the-united-states-armed-forces-by-more-than-9.md)
-_Context: Trump Administration, United States Armed Forces_
+_Context: Trump Administration, United States military personnel_
 
 ## [Previous Day...](/news/2017/02/27/index.md)
 

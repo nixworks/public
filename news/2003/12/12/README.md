@@ -1,7 +1,7 @@
 ## [2003-12-12](/news/2003/12/12/index.md)
 
 ### [ A plot by militants linked to Al Qaeda to blow up the United Kingdom embassy in Yemen is foiled. [http://www.reuters.co.uk/newsPackageArticle.jhtml?type=topNews&storyID=421471&section=news]](/news/2003/12/12/a-plot-by-militants-linked-to-al-qaeda-to-blow-up-the-united-kingdom-embassy-in-yemen-is-foiled-http-www-reuters-co-uk-newspackageartic.md)
-_Context: United Kingdom, Yemen's, al-Qaeda_
+_Context: United Kingdom, Yemen, al-Qaeda_
 
 ### [ Germany announces plans to commemorate gay victims of the Nazi Holocaust, with a monument to be erected in central Berlin. [http://news.bbc.co.uk/2/hi/europe/3314887.stm]](/news/2003/12/12/germany-announces-plans-to-commemorate-gay-victims-of-the-nazi-holocaust-with-a-monument-to-be-erected-in-central-berlin-http-news-bbc.md)
 _Context: Berlin, Germany, Holocaust, Nazism, homosexuality_

@@ -25,7 +25,7 @@ _Context: Iranian Revolutionary guards, Iraq, Kurd_
 _Context: Afghanistan's, NATO_
 
 ### [Yemen issues a list of eight alleged Al Qaeda operatives wanted for possible involvement in an attack on a Yemen police bus on Saturday in Sana'a. ](/news/2010/09/26/yemen-issues-a-list-of-eight-alleged-al-qaeda-operatives-wanted-for-possible-involvement-in-an-attack-on-a-yemen-police-bus-on-saturday-in-s.md)
-_Context: Sana'a, Yemen's, al-Qaeda, policemen_
+_Context: Sana'a, Yemen, al-Qaeda, policemen_
 
 ### [America's Department of Defense (The Pentagon) admits purchasing nearly 10,000 copies of a memoir by U.S. Army Reserve officer Anthony Shaffer, destroying all of them in an effort to suppress secret information and ordering heavy redactions of the book's second printing. ](/news/2010/09/26/america-s-department-of-defense-the-pentagon-admits-purchasing-nearly-10-000-copies-of-a-memoir-by-u-s-army-reserve-officer-anthony-shaff.md)
 The Pentagon has admitted buying up and destroying 10,000 copies of an insider&#039;s account of life in Afghanistan by an army intelligence officer.

@@ -16,7 +16,7 @@ _Context: ISIL, Insurgency in the Maghreb (2002-present), Tunis, Tunisia_
 Germany will send up to 650 soldiers to Mali, Defence Minister Ursula von der Leyen said Wednesday, to provide some relief to France in its global fight against ISIS extremists
 
 ### [The United Arab Emirates has recruited several hundred Central and South American mercenaries to fight the Houthis in Yemen. ](/news/2015/11/25/the-united-arab-emirates-has-recruited-several-hundred-central-and-south-american-mercenaries-to-fight-the-houthis-in-yemen.md)
-_Context: Central America, Houthi, South America, United Arab Emirates, Yemen's, Yemeni Civil War (2015)_
+_Context: Central America, Houthi, South America, United Arab Emirates, Yemen, Yemeni Civil War (2015)_
 
 ### [The French Senate votes 325-0 to extend the fight against the Islamic State of Iraq and the Levant. ](/news/2015/11/25/the-french-senate-votes-325-0-to-extend-the-fight-against-the-islamic-state-of-iraq-and-the-levant.md)
 _Context: French Senate, ISIL, November 2015 Paris Attacks_

@@ -1,7 +1,7 @@
 ## [2012-06-15](/news/2012/06/15/index.md)
 
 ### [The Yemeni army captures Shuqra, the third militant stronghold to fall in the last week. ](/news/2012/06/15/the-yemeni-army-captures-shuqra-the-third-militant-stronghold-to-fall-in-the-last-week.md)
-_Context: Shuqra, Yemen's_
+_Context: Shuqra, Yemen_
 
 ### [Police officers attempting to evict landless farmers occupying a property in the Paraguayan department of Canindey turn into clashes, killing 16 officers and farmers. ](/news/2012/06/15/police-officers-attempting-to-evict-landless-farmers-occupying-a-property-in-the-paraguayan-department-of-canindeyu-turn-into-clashes-killi.md)
 At least 16 people die in eastern Paraguay as evictions of landless farmers turn violent, triggering senior resignations.

@@ -10,7 +10,7 @@ _Context: 61st Primetime Emmy Awards, Toni Collette, United States of Tara_
 Ivory Coast residents to give up claims against Trafigura under $50m deal, firm says.
 
 ### [ More than 140 Shiite Houthi rebels are killed in northern Yemen after they attempt to take over the government palace in the city of Sa'dah. ](/news/2009/09/20/more-than-140-shiite-houthi-rebels-are-killed-in-northern-yemen-after-they-attempt-to-take-over-the-government-palace-in-the-city-of-sa-dah.md)
-_Context: Sa'dah, Shi'ite, Yemen's_
+_Context: Sa'dah, Shi'ite, Yemen_
 
 ### [ In Havana's Plaza de la Revolucin, Juanes, Silvio Rodrguez and Miguel Bos headline Cuba's largest open-air concert since the 1959 Revolution. ](/news/2009/09/20/in-havana-s-plaza-de-la-revolucion-juanes-silvio-rodriguez-and-miguel-bose-headline-cuba-s-largest-open-air-concert-since-the-1959-revolu.md)
 _Context: Cuba, Cuban Revolution, Havana, Juanes, Miguel Bos, Plaza de la Revolucin, Silvio Rodrguez_
