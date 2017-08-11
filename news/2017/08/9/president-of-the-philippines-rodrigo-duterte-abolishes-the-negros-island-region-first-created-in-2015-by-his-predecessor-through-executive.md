@@ -1,6 +1,6 @@
 ### [2017-08-9](/news/2017/08/9/index.md)
 
-# President of the Philippines Rodrigo Duterte abolishes the Negros Island Region (first created in 2015 by his predecessor) through Executive Order no. 38, citing lack of funds to fully establish the region. Negros Occidental reverts back to the Western Visayas region, while Negros Oriental back to the Central Visayas region. 
+# President of the Philippines Rodrigo Duterte abolishes the Negros Island Region (first created in 2015 by his predecessor) through Executive Order no. 38, citing lack of funds to fully establish the region. Negros Occidental reverts back to the Western Visayas region, Negros Oriental back to the Central Visayas region. 
 
 Official Gazette of the Republic of the Philippines - The Official Gazette is the official journal of the Republic of the Philippines. Edited at the Office of the President of the Philippines Under Commonwealth Act No. 638
 

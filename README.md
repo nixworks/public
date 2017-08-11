@@ -3,7 +3,7 @@
 ### [Two trains collide in Alexandria, Egypt, killing at least 36 people and leaving at least 55 injured. ](/news/2017/08/11/two-trains-collide-in-alexandria-egypt-killing-at-least-36-people-and-leaving-at-least-55-injured.md)
 _Context: Alexandria, Egypt_
 
-### [Cambodia-Laos relationsAccording to Cambodian Prime Minister Hun Sen, 30 Laotian soldiers crossed the border into Steung Treng Province despite repeated requests for them them to leave. Hun Sen gives Laos a six-day ultimatum to withdraw the soldiers or face a military response. ](/news/2017/08/11/cambodiaalaos-relationspaccording-to-cambodian-prime-minister-hun-sen-30-laotian-soldiers-crossed-the-border-into-steung-treng-province-d.md)
+### [Cambodia-Laos relationsAccording to Cambodian Prime Minister Hun Sen, 30 Laotian soldiers crossed the border into Steung Treng Province despite repeated requests for them to leave. Hun Sen gives Laos a six-day ultimatum to withdraw the soldiers or face a military response. ](/news/2017/08/11/cambodiaalaos-relationspaccording-to-cambodian-prime-minister-hun-sen-30-laotian-soldiers-crossed-the-border-into-steung-treng-province-d.md)
 Hun Sen accuses Laotian troops of trespassing into border area and threatens military response if they fail to withdraw.
 
 ## Opinion
@@ -57,7 +57,7 @@ The lawsuit was filed by two rights groups, but others say they are holding off 
 ### [Former Prime Minister of Pakistan Nawaz Sharif goes home after his disqualification by the Supreme Court in the Panama Papers case. ](/news/2017/08/9/former-prime-minister-of-pakistan-nawaz-sharif-goes-home-after-his-disqualification-by-the-supreme-court-in-the-panama-papers-case.md)
 _Context: GT road rally, Nawaz Sharif, Panama Papers case, Prime Minister of Pakistan, Supreme Court_
 
-### [President of the Philippines Rodrigo Duterte abolishes the Negros Island Region (first created in 2015 by his predecessor) through Executive Order no. 38, citing lack of funds to fully establish the region. Negros Occidental reverts back to the Western Visayas region, while Negros Oriental back to the Central Visayas region. ](/news/2017/08/9/president-of-the-philippines-rodrigo-duterte-abolishes-the-negros-island-region-first-created-in-2015-by-his-predecessor-through-executive.md)
+### [President of the Philippines Rodrigo Duterte abolishes the Negros Island Region (first created in 2015 by his predecessor) through Executive Order no. 38, citing lack of funds to fully establish the region. Negros Occidental reverts back to the Western Visayas region, Negros Oriental back to the Central Visayas region. ](/news/2017/08/9/president-of-the-philippines-rodrigo-duterte-abolishes-the-negros-island-region-first-created-in-2015-by-his-predecessor-through-executive.md)
 Official Gazette of the Republic of the Philippines - The Official Gazette is the official journal of the Republic of the Philippines. Edited at the Office of the President of the Philippines Under Commonwealth Act No. 638
 
 ---

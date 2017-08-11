@@ -24,7 +24,7 @@ The lawsuit was filed by two rights groups, but others say they are holding off 
 ### [Former Prime Minister of Pakistan Nawaz Sharif goes home after his disqualification by the Supreme Court in the Panama Papers case. ](/news/2017/08/9/former-prime-minister-of-pakistan-nawaz-sharif-goes-home-after-his-disqualification-by-the-supreme-court-in-the-panama-papers-case.md)
 _Context: GT road rally, Nawaz Sharif, Panama Papers case, Prime Minister of Pakistan, Supreme Court_
 
-### [President of the Philippines Rodrigo Duterte abolishes the Negros Island Region (first created in 2015 by his predecessor) through Executive Order no. 38, citing lack of funds to fully establish the region. Negros Occidental reverts back to the Western Visayas region, while Negros Oriental back to the Central Visayas region. ](/news/2017/08/9/president-of-the-philippines-rodrigo-duterte-abolishes-the-negros-island-region-first-created-in-2015-by-his-predecessor-through-executive.md)
+### [President of the Philippines Rodrigo Duterte abolishes the Negros Island Region (first created in 2015 by his predecessor) through Executive Order no. 38, citing lack of funds to fully establish the region. Negros Occidental reverts back to the Western Visayas region, Negros Oriental back to the Central Visayas region. ](/news/2017/08/9/president-of-the-philippines-rodrigo-duterte-abolishes-the-negros-island-region-first-created-in-2015-by-his-predecessor-through-executive.md)
 Official Gazette of the Republic of the Philippines - The Official Gazette is the official journal of the Republic of the Philippines. Edited at the Office of the President of the Philippines Under Commonwealth Act No. 638
 
 ## [Previous Day...](/news/2017/08/8/index.md)

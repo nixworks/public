@@ -1,6 +1,6 @@
 ### [2017-08-11](/news/2017/08/11/index.md)
 
-# Cambodia-Laos relationsAccording to Cambodian Prime Minister Hun Sen, 30 Laotian soldiers crossed the border into Steung Treng Province despite repeated requests for them them to leave. Hun Sen gives Laos a six-day ultimatum to withdraw the soldiers or face a military response. 
+# Cambodia-Laos relationsAccording to Cambodian Prime Minister Hun Sen, 30 Laotian soldiers crossed the border into Steung Treng Province despite repeated requests for them to leave. Hun Sen gives Laos a six-day ultimatum to withdraw the soldiers or face a military response. 
 
 Hun Sen accuses Laotian troops of trespassing into border area and threatens military response if they fail to withdraw.
 
