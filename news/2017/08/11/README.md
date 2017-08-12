@@ -24,8 +24,5 @@ _Context: Nicolas Maduro, Pedro Pablo Kuczynski, Peru-Venezuela relations, Venez
 ### [The Kenyan electoral commission announces that President Uhuru Kenyatta has re-election. Kenyatta leads ODM candidate Raila Odinga by  more than 1.4 million votes. The opposition National Super Alliance rejects this finding as fraudulent. ](/news/2017/08/11/the-kenyan-electoral-commission-announces-that-president-uhuru-kenyatta-has-re-election-kenyatta-leads-odm-candidate-raila-odinga-by-more.md)
 _Context: Kenya, Kenyan general election, 2017, National Super Alliance, ODM, President, Raila Odinga, Uhuru Kenyatta, electoral commission, re-election_
 
-### [A white nationalist rally called Unite The Right took place in Charlottesville, Virginia](/news/2017/08/11/a-white-nationalist-rally-called-unite-the-right-took-place-in-charlottesville-virginia.md)
-_Context: Unite The Right_
-
 ## [Previous Day...](/news/2017/08/10/index.md)
 
