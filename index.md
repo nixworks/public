@@ -1,13 +1,10 @@
 ## [News](/news/2017/08/12/index.md)
 
-### [Seven White Helmets are shot dead by unidentified gunmen who storm the volunteers' office in northwestern Syria ](/news/2017/08/12/seven-white-helmets-are-shot-dead-by-unidentified-gunmen-who-storm-the-volunteers-office-in-northwestern-syria.md)
+### [Seven members of the White Helmets group are shot dead by unidentified gunmen who has stormed their office in rebel-held part of northwestern Syria ](/news/2017/08/12/seven-members-of-the-white-helmets-group-are-shot-dead-by-unidentified-gunmen-who-has-stormed-their-office-in-rebel-held-part-of-northwester.md)
 _Context: Syria, Syrian Civil War, White Helmets_
 
-### [Clashes break out between white supremacists and counter protestors in Charlottesville, Virginia over the removal of a Confederate statue. Several people are injured after a car drives into a crowd of protesters. ](/news/2017/08/12/clashes-break-out-between-white-supremacists-and-counter-protestors-in-charlottesville-virginia-over-the-removal-of-a-confederate-statue-s.md)
+### [Fights break out between white supremacists and counter protestors in Charlottesville, Virginia over the removal of the Robert Edward Lee Sculpture. One person dies and several people are injured after a car drives into a crowd of protesters. ](/news/2017/08/12/fights-break-out-between-white-supremacists-and-counter-protestors-in-charlottesville-virginia-over-the-removal-of-the-robert-edward-lee-sc.md)
 A car rams into a crowd after clashes between white nationalists and counter-protesters in Virginia.
-
-### [The Governor of Virginia declares a state of emergency due to the protests. ](/news/2017/08/12/the-governor-of-virginia-declares-a-state-of-emergency-due-to-the-protests.md)
-_Context: Governor of Virginia, state of emergency_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -41,8 +38,8 @@ _Context: Nicols Maduro, Pedro Pablo Kuczynski, Peru-Venezuela relations, Venezu
 ### [The Kenyan electoral commission announces that President Uhuru Kenyatta has re-election. Kenyatta leads ODM candidate Raila Odinga by  more than 1.4 million votes. The opposition National Super Alliance rejects this finding as fraudulent. ](/news/2017/08/11/the-kenyan-electoral-commission-announces-that-president-uhuru-kenyatta-has-re-election-kenyatta-leads-odm-candidate-raila-odinga-by-more.md)
 _Context: Kenya, Kenyan general election, 2017, National Super Alliance, ODM, President, Raila Odinga, Uhuru Kenyatta, electoral commission, re-election_
 
-### [A white nationalist rally called Unite The Right took place in Charlottesville, Virginia. ](/news/2017/08/11/a-white-nationalist-rally-called-unite-the-right-took-place-in-charlottesville-virginia.md)
-_Context: break out_
+### [A white supremacist rally called "Unite The Right" takes place in Charlottesville, Virginia. ](/news/2017/08/11/a-white-supremacist-rally-called-unite-the-right-takes-place-in-charlottesville-virginia.md)
+_Context: 2017 Unite the Right Rally, Charlottesville, Virginia_
 
 ---
 
