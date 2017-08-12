@@ -9,6 +9,9 @@ The Obelisk is headline winner in a year marked by diminished presence of conser
 ### [Two trains collide in Alexandria, Egypt, killing at least 49 people and injuring at least 100. ](/news/2017/08/11/two-trains-collide-in-alexandria-egypt-killing-at-least-49-people-and-injuring-at-least-100.md)
 _Context: Alexandria, Egypt, collide_
 
+### [At least 56 African migrants drown in the Red Sea while traveling from the Horn of Africa to Yemen. Human traffickers had forced 300 people aboard two boats into the sea. ](/news/2017/08/11/at-least-56-african-migrants-drown-in-the-red-sea-while-traveling-from-the-horn-of-africa-to-yemen-human-traffickers-had-forced-300-people.md)
+At least 56 people have drowned over the past 24 hours, and dozens remain missing, after human traffickers forced 300 African migrants off two Yemen-bound boats and into the sea. Survivors -- all Ethiopian and Somali migrants -- managed to make their way to Shabwa, a southern province along Yemen&#x27;
+
 ### [According to Cambodian Prime Minister Hun Sen, 30 Laotian soldiers cross the border into Steung Treng Province despite repeated requests for them to leave. Hun Sen gives Laos a six-day ultimatum to withdraw the soldiers or face a military response. ](/news/2017/08/11/according-to-cambodian-prime-minister-hun-sen-30-laotian-soldiers-cross-the-border-into-steung-treng-province-despite-repeated-requests-for.md)
 Hun Sen accuses Laotian troops of trespassing into border area and threatens military response if they fail to withdraw.
 
