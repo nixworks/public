@@ -1,0 +1,23 @@
+### [2017-08-11](/news/2017/08/11/index.md)
+
+# Shortly after Peruvian President Pedro Pablo Kuczynski called Maduro a "dictator", Peru expels Venezuela's ambassador to Peru to protest Venezuela's recent formation of an all-powerful constituent assembly that has been widely condemned as a power grab by socialist President Nicolas Maduro. 
+
+
+
+
+### Source:
+
+1. [Reuters](https://www.reuters.com/article/us-venezuela-politics-peru-idUSKBN1AR2B7)
+
+### Related:
+
+1. [Supporters of Venezuelan President Nicols Maduro storm the opposition-controlled National Assembly and injure several lawmakers, including the President of the National Assembly, Julio Borges. Several journalists were also injured in the assault. ](/news/2017/07/5/supporters-of-venezuelan-president-nicolas-maduro-storm-the-opposition-controlled-national-assembly-and-injure-several-lawmakers-including.md) _Context: Nicolas Maduro_
+2. [Protesters march towards Venezuelan Supreme Court against what they feel is bias in favor of President Nicolas Maduro. ](/news/2017/07/22/protesters-march-towards-venezuelan-supreme-court-against-what-they-feel-is-bias-in-favor-of-president-nicolas-maduro.md) _Context: Nicolas Maduro_
+3. [President Nicolas Maduro announces the drafting of a new constitution amid massive protests. ](/news/2017/05/2/president-nicolas-maduro-announces-the-drafting-of-a-new-constitution-amid-massive-protests.md) _Context: Nicolas Maduro_
+4. [Peru-Venezuela relationsPeruvian  President Pedro Pablo Kuczynski's government creates a temporary visa for thousands of Venezuelans whose country  is mired in a deep economic crisis. Visa holders will be able to study, work, and receive health services in Peru for a year. "This is part of our migratory policy that aims to build bridges not walls", says Interior Minister Carlos Basombrio. ](/news/2017/02/3/peruavenezuela-relationspperuvian-president-pedro-pablo-kuczynski-s-government-creates-a-temporary-visa-for-thousands-of-venezuelans-whos.md) _Context: Pedro Pablo Kuczynski_
+5. [The President of Venezuela, Nicolas Maduro suspends plans to eliminate the 100 bolivar note from circulation, in a country where much of the population lives on cash, without bank accounts. ](/news/2016/12/17/the-president-of-venezuela-nicolas-maduro-suspends-plans-to-eliminate-the-100-bolavar-note-from-circulation-in-a-country-where-much-of-th.md) _Context: Nicolas Maduro_
+6. [Election officials announce  all ballots have been processed  and Pedro Pablo Kuczynski wins the  closest presidential contest in five decades with 50.1 percent of the votes versus 49.9% for Keiko Fujimori.  Fujimori has yet to concede defeat.  As many as 50,000 ballots still need to be reviewed, but experts say Fujimori can not make up the difference of roughly 40,000 votes separating her from Kuczynski.  ](/news/2016/06/9/election-officials-announce-all-ballots-have-been-processed-and-pedro-pablo-kuczynski-wins-the-closest-presidential-contest-in-five-decad.md) _Context: Pedro Pablo Kuczynski_
+7. [With more than 92% of the vote counted, Pedro Pablo Kuczynski is ahead of  Keiko Fujimori by just over 103,000 votes,  50.3 percent to 49.6 percent, in the  electorate of  23 million citizens. Ballots of Peruvians living abroad will begin to arrive tonight.  Mariano Cucho, the head of the electoral office, says the count may not be finalized until Thursday or Friday. ](/news/2016/06/6/with-more-than-92-of-the-vote-counted-pedro-pablo-kuczynski-is-ahead-of-keiko-fujimori-by-just-over-103-000-votes-50-3-percent-to-49-6.md) _Context: Pedro Pablo Kuczynski_
+8. [Voters in Peru go to the polls for the second round of voting in a presidential election where Keiko Fujimori and Pedro Pablo Kuczynski are the remaining candidates. ](/news/2016/06/5/voters-in-peru-go-to-the-polls-for-the-second-round-of-voting-in-a-presidential-election-where-keiko-fujimori-and-pedro-pablo-kuczynski-are.md) _Context: Pedro Pablo Kuczynski_
+9. [Venezuela's National Election Council cancels a planned meeting to determine the validity of 1.85 million signatures on a petition for a referendum to oust President Nicols Maduro. ](/news/2016/06/3/venezuela-s-national-election-council-cancels-a-planned-meeting-to-determine-the-validity-of-1-85-million-signatures-on-a-petition-for-a-ref.md) _Context: Nicolas Maduro_
+10. [Voters in Peru go to the polls for a general election with Keiko Fujimori and Pedro Kuczynski going through to the second round. ](/news/2016/04/10/voters-in-peru-go-to-the-polls-for-a-general-election-with-keiko-fujimori-and-pedro-kuczynski-going-through-to-the-second-round.md) _Context: Pedro Pablo Kuczynski_
