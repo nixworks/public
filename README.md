@@ -6,6 +6,9 @@ _Context: Syria, Syrian Civil War, White Helmets_
 ### [Clashes break out between white supremacists and counter protestors in Charlottesville, Virginia over the removal of a Confederate statue. Several people are injured after a car drives into a crowd of protesters. ](/news/2017/08/12/clashes-break-out-between-white-supremacists-and-counter-protestors-in-charlottesville-virginia-over-the-removal-of-a-confederate-statue-s.md)
 A car rams into a crowd after clashes between white nationalists and counter-protesters in Virginia.
 
+### [The Governor of Virginia declares a state of emergency due to the protests. ](/news/2017/08/12/the-governor-of-virginia-declares-a-state-of-emergency-due-to-the-protests.md)
+_Context: Governor of Virginia, state of emergency_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
