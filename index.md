@@ -1,4 +1,13 @@
-## [News](/news/2017/08/11/index.md)
+## [News](/news/2017/08/12/index.md)
+
+### [ More than 50 children dies in Gorakhpur Hospital due to negligence. ](/news/2017/08/12/more-than-50-children-dies-in-gorakhpur-hospital-due-to-negligence.md)
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/08/11/index.md)
 
 ### [The world's oldest man, Polish-Israeli Yisrael Kristal, who was also recognized as the oldest living Holocaust survivor, dies at age 113 years, 330 days, in Haifa, Israel. ](/news/2017/08/11/the-world-s-oldest-man-polish-israeli-yisrael-kristal-who-was-also-recognized-as-the-oldest-living-holocaust-survivor-dies-at-age-113-yea.md)
 _Context: Haifa, Holocaust survivor, Israel, Polish, Yisrael Kristal_
@@ -24,13 +33,9 @@ _Context: Nicolas Maduro, Pedro Pablo Kuczynski, Peru-Venezuela relations, Venez
 ### [The Kenyan electoral commission announces that President Uhuru Kenyatta wins re-election. Kenyatta leads ODM candidate Raila Odinga by  more than 1.4 million votes. The Coalition for Reforms and Democracy opposition rejects this finding as fraudulent. ](/news/2017/08/11/the-kenyan-electoral-commission-announces-that-president-uhuru-kenyatta-wins-re-election-kenyatta-leads-odm-candidate-raila-odinga-by-more.md)
 _Context: Coalition for Reforms and Democracy, Kenya, Kenyan general election, 2017, ODM, President, Raila Odinga, Uhuru Kenyatta, electoral commission, re-election_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/08/10/index.md)
+## [Day Before Yesterday](/news/2017/08/10/index.md)
 
 ### [New York State-based GateHouse Media announces an agreement to buy 11 U.S. newspapers from Georgia-based Morris Communications. Included in the deal is the ''Log Cabin Democrat'', founded in 1879, and three Alaskan newspapers: the ''Juneau Empire'', the ''Peninsula Clarion'' and ''Homer News''. The deal is expected to close on October 2. ](/news/2017/08/10/new-york-state-based-gatehouse-media-announces-an-agreement-to-buy-11-u-s-newspapers-from-georgia-based-morris-communications-included-in.md)
 Mix includes publications in Alaska, Georgia and Florida.
@@ -49,38 +54,7 @@ August 10, 2017 by: Najmeh Bozorgmehr in Tehran Tehran metropolis council has un
 
 ---
 
-## [Day Before Yesterday](/news/2017/08/9/index.md)
-
-### [In a suspected terror attack, six French soldiers are injured, three seriously, when a man drives a car into them at a barracks in the Paris suburb of Levallois-Perret. ](/news/2017/08/9/in-a-suspected-terror-attack-six-french-soldiers-are-injured-three-seriously-when-a-man-drives-a-car-into-them-at-a-barracks-in-the-paris.md)
-Six French soldiers have been injured after a car slammed into them before speeding off in a suspected terror attack in Paris. The BMW was parked in an alley before it accelerated into the soldiers as they left their barracks to go on patrol, Patrick Balkany, the mayor of Levallois-Perret, said. &quot;The vehicle did not stop. It hurtled at them... it accelerated rapidly,&quot; he told broadcaster BFM TV.
-
-### [Hurricane Franklin, the Atlantic Ocean's first hurricane of the season, is set to hit Mexico's  Gulf state of Veracruz tonight or tomorrow morning. The category 1 storm is  expected to lose strength as it moves inland through the oil-producing state. ](/news/2017/08/9/hurricane-franklin-the-atlantic-ocean-s-first-hurricane-of-the-season-is-set-to-hit-mexico-s-gulf-state-of-veracruz-tonight-or-tomorrow-m.md)
-_Context: 2017 Atlantic hurricane season, Atlantic Ocean, Gulf, Hurricane Franklin, Mexico, Veracruz_
-
-### [Two Cuban diplomats are expelled from the Embassy of Cuba in Washington, D.C., after an incident in Havana forced U.S. officials to return home. ](/news/2017/08/9/two-cuban-diplomats-are-expelled-from-the-embassy-of-cuba-in-washington-d-c-after-an-incident-in-havana-forced-u-s-officials-to-return-h.md)
-Two Cuban diplomats were kicked out of their embassy in Washington by the State Department after a number of mysterious incidents forced U.S. officials in Cuba to return home.
-
-### [Unarmed Russian Air Force reconnaissance jets, under the authority provided by international Open Skies Treaty,  fly over several Washington, D.C., area government buildings and landmarks as well as the President's residence in Bedminster, New Jersey. ](/news/2017/08/9/unarmed-russian-air-force-reconnaissance-jets-under-the-authority-provided-by-international-open-skies-treaty-fly-over-several-washington.md)
-The flight was allowed under the Open Skies Treaty
-
-### [The U.S.  imposes new sanctions on eight Venezuelan officials, including Secretary of the 2017 Constituent Assembly Adan Chavez - the late President Hugo Chavez's brother,  to "deter further democratic backsliding" in the South American country. ](/news/2017/08/9/the-u-s-imposes-new-sanctions-on-eight-venezuelan-officials-including-secretary-of-the-2017-constituent-assembly-ada-n-cha-vez-the-late.md)
-Washington imposed sanctions on eight Venezuelan officials on Wednesday for their role in creating an all-powerful legislative body loyal to President Nicolas Maduro, while a mayor-turned-fugitive called for more anti-government protests.
-
-### [North Korea releases imprisoned Canadian pastor Hyeon Soo Lim on "sick bail." ](/news/2017/08/9/north-korea-releases-imprisoned-canadian-pastor-hyeon-soo-lim-on-sick-bail.md)
-North Korea frees a Canadian pastor who was serving a life sentence of hard labour, one day after a Canadian delegation arrived to negotiate his release. 
-
-### [Five transgender United States military personnel sue President Donald Trump and top Pentagon officials over the President's policy change announced late last month banning transgender people from serving in the military. The suit asks the court to prevent the ban from going into effect. ](/news/2017/08/9/five-transgender-united-states-military-personnel-sue-president-donald-trump-and-top-pentagon-officials-over-the-president-s-policy-change-a.md)
-The lawsuit was filed by two rights groups, but others say they are holding off until the Trump administration takes steps toward implementing the ban.
-
-### [Former Prime Minister of Pakistan Nawaz Sharif goes home after his disqualification by the Supreme Court in the Panama Papers case. ](/news/2017/08/9/former-prime-minister-of-pakistan-nawaz-sharif-goes-home-after-his-disqualification-by-the-supreme-court-in-the-panama-papers-case.md)
-_Context: GT road rally, Nawaz Sharif, Panama Papers case, Prime Minister of Pakistan, Supreme Court_
-
-### [President of the Philippines Rodrigo Duterte abolishes the Negros Island Region (first created in 2015 by his predecessor) through Executive Order no. 38, citing lack of funds to fully establish the region. Negros Occidental reverts back to the Western Visayas region, Negros Oriental back to the Central Visayas region. ](/news/2017/08/9/president-of-the-philippines-rodrigo-duterte-abolishes-the-negros-island-region-first-created-in-2015-by-his-predecessor-through-executive.md)
-Official Gazette of the Republic of the Philippines - The Official Gazette is the official journal of the Republic of the Philippines. Edited at the Office of the President of the Philippines Under Commonwealth Act No. 638
-
----
-
-## [Previous Day...](/news/2017/08/8/index.md)
+## [Previous Day...](/news/2017/08/9/index.md)
 
 ---
 
