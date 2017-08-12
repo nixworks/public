@@ -3,6 +3,9 @@
 ### [Seven White Helmets are shot dead by unidentified gunmen who storm the volunteers' office in northwestern Syria ](/news/2017/08/12/seven-white-helmets-are-shot-dead-by-unidentified-gunmen-who-storm-the-volunteers-office-in-northwestern-syria.md)
 _Context: Syria, Syrian Civil War, White Helmets_
 
+### [Clashes break out between white supremacists and counter protestors in Charlottesville, Virginia over the removal of a Confederate statue. ](/news/2017/08/12/clashes-break-out-between-white-supremacists-and-counter-protestors-in-charlottesville-virginia-over-the-removal-of-a-confederate-statue.md)
+_Context: Charlottesville, Virginia, Confederate, Robert Edward Lee Sculpture, break out_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -29,8 +32,8 @@ Hun Sen accuses Laotian troops of trespassing into border area and threatens mil
 ### [Because of a recent pair of deadly crashes, the U.S. Marine Corps will ground its flight operations for 24 hours for  an operational reset. The suspensions will be spread out over the next two weeks. ](/news/2017/08/11/because-of-a-recent-pair-of-deadly-crashes-the-u-s-marine-corps-will-ground-its-flight-operations-for-24-hours-for-an-operational-reset.md)
 The U.S. Marine Corps on Friday ordered its aircraft squadrons to suspend flight operations for 24 hours sometime during the next two weeks to review procedures after two of its planes crashed, killing dozens.
 
-### [Shortly after Peruvian President Pedro Pablo Kuczynski called Maduro a "dictator", Peru expels Venezuela's ambassador to Peru to protest Venezuela's recent formation of an all-powerful constituent assembly that has been widely condemned as a power grab by socialist President Nicolas Maduro. ](/news/2017/08/11/shortly-after-peruvian-president-pedro-pablo-kuczynski-called-maduro-a-dictator-peru-expels-venezuela-s-ambassador-to-peru-to-protest-ven.md)
-_Context: Nicolas Maduro, Pedro Pablo Kuczynski, Peru-Venezuela relations, Venezuelan constitutional crisis_
+### [Shortly after Peruvian President Pedro Pablo Kuczynski called Venezuelan President Nicols Maduro a "dictator", Peru expels Venezuela's ambassador to Peru to protest Venezuela's recent formation of an all-powerful constituent assembly that has been widely condemned as a power grab by Maduro. ](/news/2017/08/11/shortly-after-peruvian-president-pedro-pablo-kuczynski-called-venezuelan-president-nicolas-maduro-a-dictator-peru-expels-venezuela-s-amba.md)
+_Context: Nicols Maduro, Pedro Pablo Kuczynski, Peru-Venezuela relations, Venezuelan constitutional crisis, constituent assembly_
 
 ### [The Kenyan electoral commission announces that President Uhuru Kenyatta has re-election. Kenyatta leads ODM candidate Raila Odinga by  more than 1.4 million votes. The opposition National Super Alliance rejects this finding as fraudulent. ](/news/2017/08/11/the-kenyan-electoral-commission-announces-that-president-uhuru-kenyatta-has-re-election-kenyatta-leads-odm-candidate-raila-odinga-by-more.md)
 _Context: Kenya, Kenyan general election, 2017, National Super Alliance, ODM, President, Raila Odinga, Uhuru Kenyatta, electoral commission, re-election_
