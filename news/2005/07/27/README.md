@@ -19,7 +19,7 @@ _Context: Australia, Bob Carr, New South Wales_
 _Context: ASEAN, Malaysia_
 
 ### [ In China, the human death toll from an outbreak of the pig pathogen ''Streptococcus suis'' is 24. 21 are in critical condition and number of infections has increased to 117 ](/news/2005/07/27/in-china-the-human-death-toll-from-an-outbreak-of-the-pig-pathogen-streptococcus-suis-is-24-21-are-in-critical-condition-and-number-o.md)
-_Context: Chinese, Streptococcus suis, pig_
+_Context: China, Streptococcus suis, pig_
 
 ### [ In Kyrgyzstan, about 400 Vamshi Uzbek refugees who fled from Uzbekistan after crushing of an uprising last May will be moved to Romania ](/news/2005/07/27/in-kyrgyzstan-about-400-vamshi-uzbek-refugees-who-fled-from-uzbekistan-after-crushing-of-an-uprising-last-may-will-be-moved-to-romania.md)
 _Context: Kyrgyzstan, Romania, Uzbekistan_

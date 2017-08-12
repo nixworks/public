@@ -16,7 +16,7 @@ _Context: Kano, Nigeria, Nigerian Sharia conflict, bus park_
 A deadly explosion at a military ammunition storage facility in Nevada during a training exercise Monday prompted the U.S. Marine Corps to issue a blanket suspension of 60-millimeter mortars and associated tubes pending a review of the accident.
 
 ### [Japan protests to France about the sale of DCNS helicopter landing equipment to the People's Republic of China. ](/news/2013/03/18/japan-protests-to-france-about-the-sale-of-dcns-helicopter-landing-equipment-to-the-people-s-republic-of-china.md)
-_Context: Chinese, DCNS, France, Japan_
+_Context: China, DCNS, France, Japan_
 
 ### [Argentine President Cristina Fernandez de Kirchner appeals to Pope Francis for assistance in settling Argentina's dispute over the Falkland Islands with the United Kingdom. ](/news/2013/03/18/argentine-president-cristina-ferna-ndez-de-kirchner-appeals-to-pope-francis-for-assistance-in-settling-argentina-s-dispute-over-the-falkland.md)
 _Context: Argentina, Cristina Fernandez de Kirchner, Falkland Islands sovereignty dispute, Pope Francis, President of Argentina, United Kingdom_

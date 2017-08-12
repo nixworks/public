@@ -25,7 +25,7 @@ _Context: Mandurah Line, New MetroRail, Perth, The Esplanade Station, Western Au
 _Context: Maori, New Zealand, Police raids, Tame Iti, Terrorism Suppression Act_
 
 ### [ The 17th National Congress of the Communist Party of China opens in Beijing, China, marking the beginning of a 7-day conclave of China's top leadership. General Secretary Hu Jintao delivers the work report for the past five years, and sets the party's direction in the coming five years. Hu also said in the keynote speech that the Communist Party has "fallen short of the people's expectations". ](/news/2007/10/15/the-17th-national-congress-of-the-communist-party-of-china-opens-in-beijing-china-marking-the-beginning-of-a-7-day-conclave-of-china-s-to.md)
-_Context: 17th Party Congress, Beijing, Chinese, Communist Party general secretary, Communist Party of China, Hu Jintao_
+_Context: 17th Party Congress, Beijing, China, Communist Party general secretary, Communist Party of China, Hu Jintao_
 
 ### [ Richard Brunstrom, the Chief Constable of North Wales Police, calls for all classified drugs to be legalised in the United Kingdom. He argues that the current policy of prohibition is not working, and is based on dogma. ](/news/2007/10/15/richard-brunstrom-the-chief-constable-of-north-wales-police-calls-for-all-classified-drugs-to-be-legalised-in-the-united-kingdom-he-argu.md)
 _Context: Chief Constable, North Wales Police, Richard Brunstrom, United Kingdom, dogma, drug_

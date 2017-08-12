@@ -13,7 +13,7 @@ _Context: 2008 South Ossetian war, Georgian, Russia, South Ossetia, Tskhinvali_
 _Context: Beijing Olympiad, Michael Phelps, Swimmer, U.S., world record_
 
 ### [ A number of blasts in China's western Xinjiang province kill at least two people. ](/news/2008/08/10/a-number-of-blasts-in-china-s-western-xinjiang-province-kill-at-least-two-people.md)
-_Context: A number of blasts, Chinese, Xinjiang_
+_Context: A number of blasts, China, Xinjiang_
 
 ### [ Bolivia holds a Vote of confidence referendum over whether the president, vice president and most prefects should face re-election. Unofficial results indicate that President Evo Morales has won a decisive mandate.](/news/2008/08/10/bolivia-holds-a-vote-of-confidence-referendum-over-whether-the-president-vice-president-and-most-prefects-should-face-re-election-unoffic.md)
 President Evo Morales appeared to have won a sweeping victory Sunday in a nationwide recall election that the leftist chief of state crafted as a means of consolidating support against fierce...

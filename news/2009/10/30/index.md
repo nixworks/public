@@ -34,7 +34,7 @@ _Context: North Korea, South Korea, South Korea's intelligence agency, wave of c
 _Context: India, Jaipur, Rajasthan, large fire, oil depot_
 
 ### [ Taiwan's President Ma Ying-jeou calls on China to remove missiles targeting the island. ](/news/2009/10/30/taiwan-s-president-ma-ying-jeou-calls-on-china-to-remove-missiles-targeting-the-island.md)
-_Context: Chinese, Ma Ying-jeou, President of Taiwan, Taiwan_
+_Context: China, Ma Ying-jeou, President of Taiwan, Taiwan_
 
 ### [ Burmese authorities arrest 50 people &ndash; including journalists, students and political activists, in a security crackdown, according to a Thailand based human rights group. ](/news/2009/10/30/burmese-authorities-arrest-50-people-ndash-including-journalists-students-and-political-activists-in-a-security-crackdown-according-to.md)
 Myanmar authorities have arrested up to 50 people including journalists, political activists and students in a security crackdown this month in its biggest city, a Thailand-based human rights group said on Friday.

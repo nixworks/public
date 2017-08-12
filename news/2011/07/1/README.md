@@ -19,7 +19,7 @@ _Context: Bank of Moscow, Russian Central Bank, asset, bailout_
 _Context: Bank of Japan, an earthquake and tsunami, business confidence_
 
 ### [Manufacturing activity in the People's Republic of China is at its lowest level in more than two years after three successive months of falls indicating a continued slowdown. ](/news/2011/07/1/manufacturing-activity-in-the-people-s-republic-of-china-is-at-its-lowest-level-in-more-than-two-years-after-three-successive-months-of-fall.md)
-_Context: Chinese_
+_Context: China_
 
 ### [The towns of Colman and Flandreau in the US state of South Dakota are hit by a heavy storm resulting in the loss of power for several days. ](/news/2011/07/1/the-towns-of-colman-and-flandreau-in-the-us-state-of-south-dakota-are-hit-by-a-heavy-storm-resulting-in-the-loss-of-power-for-several-days.md)
 _Context: Colman, Flandreau, South Dakota_

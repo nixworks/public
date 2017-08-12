@@ -43,7 +43,7 @@ _Context: flood, southern Thailand_
 _Context: U.S. state, Washington_
 
 ### [19 people are trapped after a tunnel under construction collapses in southwest China. ](/news/2011/03/30/19-people-are-trapped-after-a-tunnel-under-construction-collapses-in-southwest-china.md)
-_Context: Chinese_
+_Context: China_
 
 ### [Former U.S. President Jimmy Carter ends a three-day visit to Cuba, saying that the American trade embargo and travel ban has damaged the people and disrupted progress. ](/news/2011/03/30/former-u-s-president-jimmy-carter-ends-a-three-day-visit-to-cuba-saying-that-the-american-trade-embargo-and-travel-ban-has-damaged-the-peo.md)
 Former US President Jimmy Carter strongly criticises US policy towards Cuba at the end of his visit to the communist-run island.
@@ -55,7 +55,7 @@ _Context: Iran, Kuwait_
 _Context: North Korea, South Korea, Yeonpyeong Island_
 
 ### [The Yonhap news agency in South Korea reports that the People's Republic of China has reinforced fences and increased patrols along its border with North Korea in order to stop a flow of refugees. ](/news/2011/03/30/the-yonhap-news-agency-in-south-korea-reports-that-the-people-s-republic-of-china-has-reinforced-fences-and-increased-patrols-along-its-bord.md)
-_Context: Chinese, North Korea, South Korea, Yonhap, refugee_
+_Context: China, North Korea, South Korea, Yonhap, refugee_
 
 ### [Three Filipinos are executed on drug charges in the People's Republic of China. ](/news/2011/03/30/three-filipinos-are-executed-on-drug-charges-in-the-people-s-republic-of-china.md)
 Vice President Jejomar Binay confirms that the three convicted Filipino drug mules were executed in China.

@@ -22,7 +22,7 @@ _Context: Australia, Victoria, recent bushfires_
 _Context: LTTE, Sri Lanka, Sri Lankan Civil War, refugee camp, suicide bombing_
 
 ### [ The Associated Press receives a video showing Pakistani militants beheading kidnapped Polish engineer Piotr Stanczak. ](/news/2009/02/9/the-associated-press-receives-a-video-showing-pakistani-militants-beheading-kidnapped-polish-engineer-piotr-stanczak.md)
-_Context: Associated Press, Pakistan, Poland, engineer, militant_
+_Context: Associated Press, Pakistan, Polish, engineer, militant_
 
 ### [ A video confirms that al-Qaeda has kidnapped Canadian diplomat Robert Fowler in Niger. ](/news/2009/02/9/a-video-confirms-that-al-qaeda-has-kidnapped-canadian-diplomat-robert-fowler-in-niger.md)
 _Context: Canada, Niger, Robert Fowler, al-Qaeda, diplomatic_

@@ -13,7 +13,7 @@ _Context: Italian, Vittorio Emanuele, Prince of Naples, pretender_
 _Context: Avian flu virus, Canadian, Prince Edward Island_
 
 ### [ Chinese journalist Yang Xiaoqing, a reporter for the state-run China Industrial Economy News, is sentenced to one year in prison at the Longhui No. 1 People's Court in Hunan province for extortion. Xiaoqing wrote an article exposing local Communist Party official Yang Jianxin's embezzlement of state assets. Jianxin has been reassigned to an advisory post in Shaoyang city. Hundreds of protesters block police cars to prevent them from taking Xiaoqing to jail. ](/news/2006/06/16/chinese-journalist-yang-xiaoqing-a-reporter-for-the-state-run-china-industrial-economy-news-is-sentenced-to-one-year-in-prison-at-the-lon.md)
-_Context: China Industrial Economy News, Chinese, Hunan Province, Shaoyang city, Yang Jianxin, Yang Xiaoqing, extortion_
+_Context: China, China Industrial Economy News, Hunan Province, Shaoyang city, Yang Jianxin, Yang Xiaoqing, extortion_
 
 ### [ The Winnipeg police have made numerous arrests in the relation to the Shedden massacre, including five members from the Bandidos motorcycle club. ](/news/2006/06/16/the-winnipeg-police-have-made-numerous-arrests-in-the-relation-to-the-shedden-massacre-including-five-members-from-the-bandidos-motorcycle.md)
 _Context: Bandidos, Shedden massacre, Winnipeg_

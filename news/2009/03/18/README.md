@@ -1,7 +1,7 @@
 ## [2009-03-18](/news/2009/03/18/index.md)
 
 ### [ China's Ministry of Commerce rejects Coca-Cola's bid to acquire the Huiyuan Juice Group. ](/news/2009/03/18/china-s-ministry-of-commerce-rejects-coca-cola-s-bid-to-acquire-the-huiyuan-juice-group.md)
-_Context: Chinese, Coca-Cola, Huiyuan Juice Group, Ministry of Commerce_
+_Context: China, Coca-Cola, Huiyuan Juice Group, Ministry of Commerce_
 
 ### [ Josef Fritzl of Austria changes his plea to guilty on all charges.  ](/news/2009/03/18/josef-fritzl-of-austria-changes-his-plea-to-guilty-on-all-charges.md)
 _Context: Austria, Josef Fritzl_

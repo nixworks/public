@@ -40,7 +40,7 @@ _Context: Jestina Mukoko, Robert Mugabe, Zimbabwe_
 _Context: Gregoire Ndahimana, Rwanda, United Nations_
 
 ### [ ''Chinese Civilisation Revisited'' by Xiao Jiansheng, a book about Chinese history which is outlawed in China, goes on sale in Hong Kong. ](/news/2009/09/28/chinese-civilisation-revisited-by-xiao-jiansheng-a-book-about-chinese-history-which-is-outlawed-in-china-goes-on-sale-in-hong-kong.md)
-_Context: Chinese, Chinese Civilisation Revisited, Hong Kong_
+_Context: China, Chinese Civilisation Revisited, Hong Kong_
 
 ### [ A police officer who served at the G20 demonstrations in London in April 2009 is to face a charge of assaulting a woman with a baton after becoming involved in a confrontation at a vigil for Ian Tomlinson. ](/news/2009/09/28/a-police-officer-who-served-at-the-g20-demonstrations-in-london-in-april-2009-is-to-face-a-charge-of-assaulting-a-woman-with-a-baton-after.md)
 A police sergeant who allegedly struck a woman, Nicola Fisher, during G20 protests will be charged with assault, the Crown Prosecution Service (CPS) said.

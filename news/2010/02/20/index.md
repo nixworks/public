@@ -25,7 +25,7 @@ At least 32 killed in floods and mudslides triggered by torrential rain in Madei
 _Context: Morocco, a minaret collapse_
 
 ### [The Chinese military and several schools deny involvement in cyber attacks on Google, following a ''New York Times'' report cited investigators linking Lanxiang Vocational School and Shanghai Jiaotong University to the attacks. ](/news/2010/02/20/the-chinese-military-and-several-schools-deny-involvement-in-cyber-attacks-on-google-following-a-new-york-times-report-cited-investigat.md)
-_Context: Chinese, Google, Shanghai Jiaotong University, The New York Times, cyber attacks, military_
+_Context: China, Google, Shanghai Jiaotong University, The New York Times, cyber attacks, military_
 
 ### [The Dutch cabinet Balkenende IV collapses after a dispute on extending the mandate of Task Force Uruzgan in Afghanistan. ](/news/2010/02/20/the-dutch-cabinet-balkenende-iv-collapses-after-a-dispute-on-extending-the-mandate-of-task-force-uruzgan-in-afghanistan.md)
 Government collapses following disagreement on date for withdrawing troops.

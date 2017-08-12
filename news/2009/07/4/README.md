@@ -13,7 +13,7 @@ A senior Church of England bishop has called on homosexuals to repent and &#034;
 North Korea launched seven ballistic missiles on Saturday morning, further escalating tensions on the Korean Peninsula and exposing the outlaw regime to the threat of more UN sanctions.
 
 ### [ Torrential rain forces over 150,000 people from their homes, topples hundreds of houses and punches a hole in the spillway of a dam in southern China. ](/news/2009/07/4/torrential-rain-forces-over-150-000-people-from-their-homes-topples-hundreds-of-houses-and-punches-a-hole-in-the-spillway-of-a-dam-in-sout.md)
-_Context: Chinese_
+_Context: China_
 
 ### [ The United Nations Secretary General Ban Ki-moon is denied access to meet detained National League for Democracy leader Aung San Suu Kyi while on a visit to Burma. ](/news/2009/07/4/the-united-nations-secretary-general-ban-ki-moon-is-denied-access-to-meet-detained-national-league-for-democracy-leader-aung-san-suu-kyi-wh.md)
 _Context: Aung San Suu Kyi, Ban Ki-moon, Burma, National League for Democracy, Secretary General, United Nations_

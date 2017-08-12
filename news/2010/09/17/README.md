@@ -61,7 +61,7 @@ Japan says China has shipped drilling equipment to a disputed gas field in the E
 A husband and wife team of former nuclear contractors are charged in the US with attempting to leak nuclear secrets to Venezuela.
 
 ### [Poland arrests exiled Chechen rebel leader Akhmed Zakayev. ](/news/2010/09/17/poland-arrests-exiled-chechen-rebel-leader-akhmed-zakayev.md)
-_Context: Akhmed Zakayev, Chechen, Poland_
+_Context: Akhmed Zakayev, Chechen, Polish_
 
 ### [The Indonesian Air Force announces plans to buy six more Sukhoi fighter aircraft. ](/news/2010/09/17/the-indonesian-air-force-announces-plans-to-buy-six-more-sukhoi-fighter-aircraft.md)
 _Context: Indonesian Air Force, Sukhoi, fighter aircraft_

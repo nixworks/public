@@ -22,7 +22,7 @@ U.S. President Donald Trump grudgingly signed into law new sanctions against Rus
 Anti-crime watchdogs on Tuesday filed an impeachment complaint against Chief Justice Maria Lourdes Sereno for supposed culpable violation of the Constitution and betrayal of public trust. 
 
 ### [The parliament of Papua New Guinea re-elects Peter O'Neill as Prime Minister, ending a chaotic election campaign marred by violence, which analysts fear may continue amid widespread voter unrest. ](/news/2017/08/2/the-parliament-of-papua-new-guinea-re-elects-peter-o-neill-as-prime-minister-ending-a-chaotic-election-campaign-marred-by-violence-which-a.md)
-_Context: Papua New Guinea, Papua New Guinean general election, 2017, Peter O'Neill, Prime Minister, parliament, re-elects_
+_Context: Papua New Guinea, Papua New Guinean general election, 2017, Peter O'Neill, Prime Minister, parliament, re-election_
 
 ### [At a news briefing in London, the CEO of Smartmatic,  the Venezuelan-owned multinational company that provided the election system used in  Sunday's election, says the number of those participating in the poll was tampered with, off by at least one million. ](/news/2017/08/2/at-a-news-briefing-in-london-the-ceo-of-smartmatic-the-venezuelan-owned-multinational-company-that-provided-the-election-system-used-in.md)
 _Context: London, Smartmatic, Venezuelan Constitutional Assembly election, 2017, election system_

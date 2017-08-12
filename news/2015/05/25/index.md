@@ -22,7 +22,7 @@ At least 13 people died and dozens more were injured after a freak tornado rippe
 The searing heatwave in Andhra Pradesh and Telangana has killed 432 people so far with more deaths being reported on Monday as vast swathes of the country reeled under the unrelenting summer heat.
 
 ### [At least 38 people are killed and 6 injured in a nursing home fire in Lushan County of China's Henan Province. ](/news/2015/05/25/at-least-38-people-are-killed-and-6-injured-in-a-nursing-home-fire-in-lushan-county-of-china-s-henan-province.md)
-_Context: Chinese, Henan Province, Lushan County, nursing home_
+_Context: China, Henan Province, Lushan County, nursing home_
 
 ### [Emergency workers have recovered the final bodies from a collapsed gold mine in Colombia with 15 people recovered. ](/news/2015/05/25/emergency-workers-have-recovered-the-final-bodies-from-a-collapsed-gold-mine-in-colombia-with-15-people-recovered.md)
 _Context: Colombia, gold mine_

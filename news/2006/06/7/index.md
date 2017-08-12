@@ -10,7 +10,7 @@ _Context: Cloture, United States Senate, constitutional amendment, same-sex marr
 _Context: Abdual-Halim Khaddam, Israel, Kurd, Mohammad Ghanem, Syria, Syrian Government, Vice President of Syria, blogger, democratic progress_
 
 ### [ Swiss investigator Dick Marty concludes that there are "serious indications" that the CIA operated secret prisons for suspected al-Qaeda leaders in Poland and Romania, adding that "authorities in several European countries actively participated with the CIA in these unlawful activities. Other countries ignored them knowingly, or did not want to know." ](/news/2006/06/7/swiss-investigator-dick-marty-concludes-that-there-are-serious-indications-that-the-cia-operated-secret-prisons-for-suspected-al-qaeda-le.md)
-_Context: CIA, Dick Marty, Poland, Romania_
+_Context: CIA, Dick Marty, Polish, Romania_
 
 ## [Previous Day...](/news/2006/06/6/index.md)
 

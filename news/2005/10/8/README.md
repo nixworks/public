@@ -10,7 +10,7 @@ _Context: Guatemala, Panabaj_
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ### [ After 26 months of construction as part of People's Republic of China's Tenth Five-Year Plan, Nanjing's Third Yangtze Bridge opens. ](/news/2005/10/8/after-26-months-of-construction-as-part-of-people-s-republic-of-china-s-tenth-five-year-plan-nanjing-s-third-yangtze-bridge-opens.md)
-_Context: Chinese, Five-Year Plan, Nanjing_
+_Context: China, Five-Year Plan, Nanjing_
 
 ### [ Uganda Human Rights Commission, in its 2004 report, states that at least 4,000 children who were among the tens of thousands abducted by the Lord's Resistance Army rebels cannot be traced. This estimate is much lower than the previous estimate of 20,000 kidnapped children released by the most recent Human Rights Watch report. The UHRC accuses the Uganda People's Defence Forces (UPDF) of torturing the Acholi people of northern Uganda through brutal methods to extract information or to instill discipline in suspects. ](/news/2005/10/8/uganda-human-rights-commission-in-its-2004-report-states-that-at-least-4-000-children-who-were-among-the-tens-of-thousands-abducted-by-th.md)
 _Context: Acholi, Human Rights Watch, Lord's Resistance Army, Uganda Human Rights Commission, Uganda People's Defence Forces_

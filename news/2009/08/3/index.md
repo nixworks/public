@@ -25,7 +25,7 @@ _Context: Barclays_
 Supreme Leader Ayatollah Ali Khamenei formally endorsed the second term presidency of Mahmoud Ahmadinejad on Monday after a disputed election that plunged Iran into its worst crisis since the 1979 Islamic Revolution.
 
 ### [ Water supplies in Chifeng, Inner Mongolia, China, are cut off to over 580,000 people after contaminants caused the hospitalization of 4,125 people due to gastrointestinal illness. ](/news/2009/08/3/water-supplies-in-chifeng-inner-mongolia-china-are-cut-off-to-over-580-000-people-after-contaminants-caused-the-hospitalization-of-4-125.md)
-_Context: Chifeng, Chinese, Inner Mongolia, gastrointestinal_
+_Context: Chifeng, China, Inner Mongolia, gastrointestinal_
 
 ### [ A town in Qinghai, China, is sealed off after a second person dies of pneumonic plague. ](/news/2009/08/3/a-town-in-qinghai-china-is-sealed-off-after-a-second-person-dies-of-pneumonic-plague.md)
 _Context: Qinghai, pneumonic plague_

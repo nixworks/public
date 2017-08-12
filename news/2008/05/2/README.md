@@ -4,7 +4,7 @@
 _Context: Boris Johnson, Conservative Party, Ken Livingstone, London Mayor, local elections_
 
 ### [ The Olympic flame is back on Chinese soil as the Olympics torch relay continues in Hong Kong, Special Administrative Region of the People's Republic of China. ](/news/2008/05/2/the-olympic-flame-is-back-on-chinese-soil-as-the-olympics-torch-relay-continues-in-hong-kong-special-administrative-region-of-the-people-s.md)
-_Context: 2008 Summer Olympics torch relay, Chinese, Hong Kong, Olympic Torch, Special Administrative Region_
+_Context: 2008 Summer Olympics torch relay, China, Hong Kong, Olympic Torch, Special Administrative Region_
 
 ### [ May 1-2, 2008 tornado outbreak: Tornadoes affecting the south-central United States kill at least seven in Arkansas. ](/news/2008/05/2/may-1-2-2008-tornado-outbreak-tornadoes-affecting-the-south-central-united-states-kill-at-least-seven-in-arkansas.md)
 _Context: Arkansas, May 1-2, 2008 tornado outbreak, U.S., tornado_

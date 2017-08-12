@@ -7,7 +7,7 @@ _Context: Afghanistan's, Kandahar, Nichola Goddard, RCHA, Taliban_
 _Context: Brazil, Sao Paulo, violence_
 
 ### [ Incumbent Prime Minister Laisenia Qarase of Fiji claims victory in the 2006 general election. ](/news/2006/05/17/incumbent-prime-minister-laisenia-qarase-of-fiji-claims-victory-in-the-2006-general-election.md)
-_Context: 2006 general election, Fiji, Laisenia Qarase, Prime Minister, re-elects_
+_Context: 2006 general election, Fiji, Laisenia Qarase, Prime Minister, re-election_
 
 ### [ A gunman opens fire at the Turkish Council of State, the top court in Ankara, while the court is in session, injuring four judges, and killing one - Mustafa Ycel zbilgin.  The shooting represents a rise in tensions between the secular apparatus of state and supporters of Islamic fundamentalism.  ](/news/2006/05/17/a-gunman-opens-fire-at-the-turkish-council-of-state-the-top-court-in-ankara-while-the-court-is-in-session-injuring-four-judges-and-kill.md)
 _Context: Ankara, Council of State, Islamic fundamentalism, Mustafa Ycel zbilgin, Turkey, judge, secular apparatus of state_

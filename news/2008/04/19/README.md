@@ -10,7 +10,7 @@ _Context: Arkalyk, Kazakhstan, Soyuz TMA-11_
 _Context: 2008 Summer Olympics torch relay, Carrefour, Chinese, French-born, Hefei, Kunming, Wuhan, boycott, flag, racism, water bottle_
 
 ### [ A South African court blocks unloading of the ''An Yue Jiang'', a Chinese cargo ship carrying 77 tonnes of small arms bound for Zimbabwe, purportedly from the Chinese Ministry of Defense. According to reports, the ship has since left for Mozambique. ](/news/2008/04/19/a-south-african-court-blocks-unloading-of-the-an-yue-jiang-a-chinese-cargo-ship-carrying-77-tonnes-of-small-arms-bound-for-zimbabwe-p.md)
-_Context: Chinese, Chinese Ministry of Defense, Mozambique, South Africa, Zimbabwe, cargo ship, small arms, tonne_
+_Context: China, Chinese Ministry of Defense, Mozambique, South Africa, Zimbabwe, cargo ship, small arms, tonne_
 
 ## [Previous Day...](/news/2008/04/18/index.md)
 

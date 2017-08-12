@@ -13,13 +13,13 @@ _Context: Egypt, Gaza Strip, Palestinian, Viva Palestina_
 The wife of Northern Ireland First Minister Peter Robinson tried to kill herself after confessing to her husband that she had an affair.
 
 ### [China becomes the largest exporting country, pushing Germany from first place. ](/news/2010/01/6/china-becomes-the-largest-exporting-country-pushing-germany-from-first-place.md)
-_Context: Chinese, Germany, top export market_
+_Context: China, Germany, top export market_
 
 ### [China's tourism revenue hits USD 185 billion in 2009. ](/news/2010/01/6/china-s-tourism-revenue-hits-usd-185-billion-in-2009.md)
 _Context: US$, tourism_
 
 ### [Extreme weather across Europe leads to dozens of deaths, including at least 122 in Poland and at least 7 as a result of an avalanche in Switzerland. ](/news/2010/01/6/extreme-weather-across-europe-leads-to-dozens-of-deaths-including-at-least-122-in-poland-and-at-least-7-as-a-result-of-an-avalanche-in-swit.md)
-_Context: Europe, Poland, Switzerland_
+_Context: Europe, Polish, Switzerland_
 
 ### [At least 25 people are killed and at least three others are trapped in a mine fire in Xiangtan County in Hunan. ](/news/2010/01/6/at-least-25-people-are-killed-and-at-least-three-others-are-trapped-in-a-mine-fire-in-xiangtan-county-in-hunan.md)
 _Context: Hunan, Xiangtan County_

@@ -22,7 +22,7 @@ _Context: England, New Zealand, Women's Cricket World Cup, win_
 _Context: Australia, Sydney Airport, assailant, outlaw motorcycle gangs_
 
 ### [ Ninety-three Tibetan monks are arrested after attacking a police station in Qinghai, China. ](/news/2009/03/22/ninety-three-tibetan-monks-are-arrested-after-attacking-a-police-station-in-qinghai-china.md)
-_Context: Chinese, Qinghai, Tibet, arrest, attacking, monk, police station_
+_Context: China, Qinghai, Tibet, arrest, attacking, monk, police station_
 
 ### [ Thousands of people assemble for Pope Benedict XVI's Catholic Mass in Luanda, Angola. ](/news/2009/03/22/thousands-of-people-assemble-for-pope-benedict-xvi-s-catholic-mass-in-luanda-angola.md)
 _Context: Angola, Luanda, Mass, Pope, Pope Benedict XVI, Roman Catholic Church_

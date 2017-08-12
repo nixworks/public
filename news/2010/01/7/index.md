@@ -22,7 +22,7 @@ The ultimate news source for music, celebrity, entertainment, movies, and curren
 _Context: BBC, Iris Robinson, Northern Ireland, Spotlight, deputy First Minister of Northern Ireland_
 
 ### [The United States approves arms sales to Taiwan, amid opposition from China. ](/news/2010/01/7/the-united-states-approves-arms-sales-to-taiwan-amid-opposition-from-china.md)
-_Context: Chinese, Taiwan, U.S._
+_Context: China, Taiwan, U.S._
 
 ### [Extreme weather in Europe kills nine people in Germany, traps a Eurostar train in the Channel Tunnel, disrupts flights at international airports in Amsterdam, Dublin, Knock and Paris, shuts hundreds of schools in Ireland and disrupts Norway's bus service in Oslo. ](/news/2010/01/7/extreme-weather-in-europe-kills-nine-people-in-germany-traps-a-eurostar-train-in-the-channel-tunnel-disrupts-flights-at-international-airp.md)
 _Context: Amsterdam, Channel Tunnel, Dublin, Europe, Eurostar, Germany, Ireland, Knock, Norway, Oslo, Paris_

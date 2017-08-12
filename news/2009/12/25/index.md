@@ -7,10 +7,10 @@ UK politician appeals to President Mubarak to let convoy enter Gaza through Red 
 _Context: Japan, suicide_
 
 ### [ China sentences activist Liu Xiaobo to 11 years in prison for "subversion of state power". ](/news/2009/12/25/china-sentences-activist-liu-xiaobo-to-11-years-in-prison-for-subversion-of-state-power.md)
-_Context: Chinese, Liu Xiaobo, subverting_
+_Context: China, Liu Xiaobo, subverting_
 
 ### [ China's National Bureau of Statistics revised the growth rate of its gross domestic product (GDP) for 2008 to 9.6 percent from 9 percent. ](/news/2009/12/25/china-s-national-bureau-of-statistics-revised-the-growth-rate-of-its-gross-domestic-product-gdp-for-2008-to-9-6-percent-from-9-percent.md)
-_Context: Chinese_
+_Context: China_
 
 ### [ The 19th century St Mel's Cathedral of Longford in Ireland is destroyed by an ongoing fire in the town. ](/news/2009/12/25/the-19th-century-st-mel-s-cathedral-of-longford-in-ireland-is-destroyed-by-an-ongoing-fire-in-the-town.md)
 The Bishop of Ardagh and Clonmacnoise has said he will restore St Mel&#39;s Cathedral in Longford after a devastating fire on Christmas morning.

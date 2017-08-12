@@ -28,7 +28,7 @@ NORTH Korea has issued a fresh warning to Seoul and Washington, threatening a hu
 The matter is likely to come up when US Vice&nbsp;President Joe Biden&nbsp;travels to Ankara for an official trip on Wednesday.
 
 ### [A Thai military court commences the trial of two Uighurs from the People's Republic of China with the bombing of a popular shrine in Bangkok that killed 20 people. ](/news/2016/08/23/a-thai-military-court-commences-the-trial-of-two-uighurs-from-the-people-s-republic-of-china-with-the-bombing-of-a-popular-shrine-in-bangkok.md)
-_Context: 2015 Bangkok bombing, Bangkok, Chinese, Thailand, Uighur_
+_Context: 2015 Bangkok bombing, Bangkok, China, Thailand, Uighur_
 
 ### [The Philippine human rights commission says that the International Criminal Court may have jurisdiction over the mass killings. ](/news/2016/08/23/the-philippine-human-rights-commission-says-that-the-international-criminal-court-may-have-jurisdiction-over-the-mass-killings.md)
 _Context: Commission on Human Rights, International Criminal Court, Philippine Drug War_

@@ -1,7 +1,7 @@
 ## [2010-01-21](/news/2010/01/21/index.md)
 
 ### [Operation Aurora:Chinese Vice-Foreign Minister He Yafei downplays the government's row with Google, saying it does not affect relations with the United States. ](/news/2010/01/21/operation-aurora-pchinese-vice-foreign-minister-he-yafei-downplays-the-government-s-row-with-google-saying-it-does-not-affect-relations-wit.md)
-_Context: Chinese, Foreign Minister, Google, He Yafei, U.S., cyber attacks, government_
+_Context: China, Foreign Minister, Google, He Yafei, U.S., cyber attacks, government_
 
 ### [U.S. Secretary of Defense Robert Gates makes his first visit to Pakistan. ](/news/2010/01/21/u-s-secretary-of-defense-robert-gates-makes-his-first-visit-to-pakistan.md)
 _Context: Pakistan, Robert Gates, Secretary of Defense, U.S._
@@ -13,7 +13,7 @@ Goldman Sachs reported strong earnings on Thursday, but the bank reduced the sha
 _Context: 2010 Haiti earthquake, Haiti, U.S., relief_
 
 ### [Chinese economy grows 8.7% in 2009. ](/news/2010/01/21/chinese-economy-grows-8-7-in-2009.md)
-_Context: Chinese, Economy of the People's Republic of China_
+_Context: China, Economy of the People's Republic of China_
 
 ### [Virginia, United States shootings suspect Christopher Speight is charged with first degree murder. ](/news/2010/01/21/virginia-united-states-shootings-suspect-christopher-speight-is-charged-with-first-degree-murder.md)
 _Context: Christopher Speight, U.S., Virginia, first-degree murder_

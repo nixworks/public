@@ -16,7 +16,7 @@ _Context: Beirut, Lebanon, Maronite Christian, Pierre Amine Gemayel, assassinate
 _Context: George W. Bush, Iraq, Iraq Prime Minister, Nouri al-Maliki, President_
 
 ### [ Twenty-three miners are killed in a gas explosion in a coal mine in Ruda Slaska, Poland, approximately 1,000 meters below the ground. ](/news/2006/11/21/twenty-three-miners-are-killed-in-a-gas-explosion-in-a-coal-mine-in-ruda-alaska-poland-approximately-1-000-meters-below-the-ground.md)
-_Context: Poland, Ruda Slaska_
+_Context: Polish, Ruda Slaska_
 
 ### [ Klaus Volkert, former chairman of the works council of Volkswagen, is arrested. He is suspected of attempting collusion and perfidy in the trial concerning Volkert's role in the corruption affair with the German car maker. ](/news/2006/11/21/klaus-volkert-former-chairman-of-the-works-council-of-volkswagen-is-arrested-he-is-suspected-of-attempting-collusion-and-perfidy-in-the.md)
 _Context: Germany, Klaus Volkert, Volkswagen, collusion, perfidy, works council_

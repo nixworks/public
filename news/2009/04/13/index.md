@@ -1,7 +1,7 @@
 ## [2009-04-13](/news/2009/04/13/index.md)
 
 ### [ A fire destroys a homeless hostel and kills at least 22 people in Kamien Pomorski, Poland. ](/news/2009/04/13/a-fire-destroys-a-homeless-hostel-and-kills-at-least-22-people-in-kamiea-pomorski-poland.md)
-_Context: Kamien Pomorski, Poland, destroys, homeless people, hostel, house fire_
+_Context: Kamien Pomorski, Polish, destroys, homeless people, hostel, house fire_
 
 ### [ The Taliban's Students' Movement imposes sharia law in Swat, Pakistan. ](/news/2009/04/13/the-taliban-s-students-movement-imposes-sharia-law-in-swat-pakistan.md)
 Pakistani Taliban are imposing their rule in a Pakistani mountain valley they took over last week, spreading fear in the area only 100 km (60 miles) from the capital, police and residents said on Monday.
@@ -13,7 +13,7 @@ _Context: Abhisit Vejjajiva, Bangkok, Prime Minister of Thailand, Royal Thai Gov
 _Context: Fiji, censorship, government, mass media, protest_
 
 ### [ China's government publishes a National Human Rights Action Plan. ](/news/2009/04/13/china-s-government-publishes-a-national-human-rights-action-plan.md)
-_Context: Chinese, Chinese human rights, government_
+_Context: China, Chinese human rights, government_
 
 ### [ An unmanned Palestinian fishing vessel explodes near an Israeli Navy patrol in the Gaza Strip. ](/news/2009/04/13/an-unmanned-palestinian-fishing-vessel-explodes-near-an-israeli-navy-patrol-in-the-gaza-strip.md)
 _Context: Gaza Strip, Israel, Israeli Navy, Israeli-Palestinian conflict, Palestinian, fishing boat, patrol_

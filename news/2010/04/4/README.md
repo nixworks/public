@@ -1,7 +1,7 @@
 ## [2010-04-4](/news/2010/04/4/index.md)
 
 ### [114 miners trapped in a flooded mine for more than a week in Shanxi, China, are rescued. ](/news/2010/04/4/114-miners-trapped-in-a-flooded-mine-for-more-than-a-week-in-shanxi-china-are-rescued.md)
-_Context: Chinese, Shanxi province, death toll in Wangjialing coal mine's flood_
+_Context: China, Shanxi province, death toll in Wangjialing coal mine's flood_
 
 ### [At least 10 Indian security personnel are killed and three injured when Maoist guerrillas blow up a police bus in Orissa's Koraput district. ](/news/2010/04/4/at-least-10-indian-security-personnel-are-killed-and-three-injured-when-maoist-guerrillas-blow-up-a-police-bus-in-orissa-s-koraput-district.md)
 _Context: Naxalite-Maoist insurgency_

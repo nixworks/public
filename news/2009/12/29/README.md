@@ -1,7 +1,7 @@
 ## [2009-12-29](/news/2009/12/29/index.md)
 
 ### [ Akmal Shaikh becomes the first EU native to be executed in China in 50 years. Gordon Brown releases a statement indicating that he is appalled. ](/news/2009/12/29/akmal-shaikh-becomes-the-first-eu-native-to-be-executed-in-china-in-50-years-gordon-brown-releases-a-statement-indicating-that-he-is-appal.md)
-_Context: Akmal Shaikh, Chinese, European Union, Gordon Brown_
+_Context: Akmal Shaikh, China, European Union, Gordon Brown_
 
 ### [ The Sudanese parliament approves legislation for a referendum on the independence of South Sudan. ](/news/2009/12/29/the-sudanese-parliament-approves-legislation-for-a-referendum-on-the-independence-of-south-sudan.md)
 _Context: South Sudan, Sudanese parliament, independent, referendum_
@@ -31,7 +31,7 @@ A Greek-owned cargo ship and a British-flagged chemical tanker have been seized,
 _Context: China, Japan, U.S._
 
 ### [ An American Christian activist is reportedly arrested after crossing into North Korea from China, according to North Korean media. ](/news/2009/12/29/an-american-christian-activist-is-reportedly-arrested-after-crossing-into-north-korea-from-china-according-to-north-korean-media.md)
-_Context: Chinese, Christian, North Korea, U.S., state media_
+_Context: China, Christian, North Korea, U.S., state media_
 
 ### [ Two Italians are injured and one American is killed in a shooting incident in Badghis Province, Afghanistan. ](/news/2009/12/29/two-italians-are-injured-and-one-american-is-killed-in-a-shooting-incident-in-badghis-province-afghanistan.md)
 _Context: Afghanistan's, Badghis Province, Italian, U.S._

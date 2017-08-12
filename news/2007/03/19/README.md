@@ -10,7 +10,7 @@ A Virender Sehwag century steered India to a record World Cup total as debutants
 _Context: CAN$, Canadian Prime Minister, Ontario, Quebec, Stephen Harper, budget_
 
 ### [ People's Bank of China Governor Zhou Xiaochuan starts talks with leadership of the Inter-American Development Bank to include the People's Republic of China as its newest member. This may signal erosion of Taiwan's status in the Latin American and Caribbean region. ](/news/2007/03/19/people-s-bank-of-china-governor-zhou-xiaochuan-starts-talks-with-leadership-of-the-inter-american-development-bank-to-include-the-people-s.md)
-_Context: Caribbean, Chinese, Inter-American Development Bank, Latin America, People's Bank of China, Taiwan, Zhou Xiaochuan, status_
+_Context: Caribbean, China, Inter-American Development Bank, Latin America, People's Bank of China, Taiwan, Zhou Xiaochuan, status_
 
 ### [ The government of Iraq seeks custody of former Vice President Taha Yassin Ramadan so he can be hanged at dawn tomorrow after having been recently sentenced to death for his role in killing 148 Shiites in 1982. ](/news/2007/03/19/the-government-of-iraq-seeks-custody-of-former-vice-president-taha-yassin-ramadan-so-he-can-be-hanged-at-dawn-tomorrow-after-having-been-re.md)
 _Context: Iraq, Shiite, Taha Yassin Ramadan, Vice President, hanging_

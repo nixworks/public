@@ -1,13 +1,13 @@
 ## [2007-10-10](/news/2007/10/10/index.md)
 
 ### [ Polish police evict about 65 rebellious ex-nuns who had illegally occupied a convent in Kazimierz Dolny, Poland, for more than two years in defiance of a Vatican order. ](/news/2007/10/10/polish-police-evict-about-65-rebellious-ex-nuns-who-had-illegally-occupied-a-convent-in-kazimierz-dolny-poland-for-more-than-two-years-in.md)
-_Context: Holy See, Kazimierz Dolny, Nun, Poland, Polish police, convent, evict, rebellious_
+_Context: Holy See, Kazimierz Dolny, Nun, Polish, Polish police, convent, evict, rebellious_
 
 ### [ The general election in the Canadian province of Ontario gives the Liberal government of Premier Dalton McGuinty an enlarged majority. ](/news/2007/10/10/the-general-election-in-the-canadian-province-of-ontario-gives-the-liberal-government-of-premier-dalton-mcguinty-an-enlarged-majority.md)
 _Context: Canada, Dalton McGuinty, Ontario, Ontario Liberal Party, general election, province_
 
 ### [ Tibetan exiles storm the embassy of the People's Republic of China in New Delhi to protest the lack of religious freedom in China. ](/news/2007/10/10/tibetan-exiles-storm-the-embassy-of-the-people-s-republic-of-china-in-new-delhi-to-protest-the-lack-of-religious-freedom-in-china.md)
-_Context: China, Chinese, New Delhi, Tibet, embassies, religious freedom_
+_Context: China, China, New Delhi, Tibet, embassies, religious freedom_
 
 ### [ Taliban frees one German and four Afghan hostages kidnapped in mid-July.date=December 2007](/news/2007/10/10/taliban-frees-one-german-and-four-afghan-hostages-kidnapped-in-mid-july-date-december-2007.md)
 _Context: Taliban, hostages_

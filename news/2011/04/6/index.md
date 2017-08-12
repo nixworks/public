@@ -52,7 +52,7 @@ _Context: Mexico, Tamaulipas_
 Efforts to curtail the environmental agency’s programs are not likely to end: Republican leaders are trying to attach similar measures to the budget bill.
 
 ### [The Chinese state-run ''Global Times'' newspaper dismisses international criticism over the arrest of artist Ai Weiwei. ](/news/2011/04/6/the-chinese-state-run-global-times-newspaper-dismisses-international-criticism-over-the-arrest-of-artist-ai-weiwei.md)
-_Context: Ai Weiwei, Chinese, Global Times, state media_
+_Context: Ai Weiwei, China, Global Times, state media_
 
 ## [Previous Day...](/news/2011/04/5/index.md)
 

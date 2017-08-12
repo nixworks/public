@@ -52,7 +52,7 @@ _Context: Burma_
 _Context: Hong Kong, Philippines, Ronald Singson, cocaine, lower house of the Philippine Congress_
 
 ### [The People's Republic of China gets rid of the death penalty for 13 non-violent economic crimes. ](/news/2011/02/25/the-people-s-republic-of-china-gets-rid-of-the-death-penalty-for-13-non-violent-economic-crimes.md)
-_Context: Chinese, death penalty_
+_Context: China, death penalty_
 
 ### [A United States district court approves a $624 million payout to former investors in Countrywide Financial. ](/news/2011/02/25/a-united-states-district-court-approves-a-624-million-payout-to-former-investors-in-countrywide-financial.md)
 _Context: Countrywide Financial, U.S. federal court_
@@ -61,7 +61,7 @@ _Context: Countrywide Financial, U.S. federal court_
 Transitional government announces mid-July elections as tens of thousands rally to demand prime minister steps down.
 
 ### [Several people are charged after calling for Middle-East style protests in China. ](/news/2011/02/25/several-people-are-charged-after-calling-for-middle-east-style-protests-in-china.md)
-_Context: Arab Spring, Chinese_
+_Context: Arab Spring, China_
 
 ### [Communist Party of China official Jia Qinglin urges a "renewed struggle" against the Dalai Lama and controls over Tibetan Buddhism. ](/news/2011/02/25/communist-party-of-china-official-jia-qinglin-urges-a-renewed-struggle-against-the-dalai-lama-and-controls-over-tibetan-buddhism.md)
 _Context: 14th Dalai Lama, Communist Party of China, Jia Qinglin, Tibetan Buddhist_

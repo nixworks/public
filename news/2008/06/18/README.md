@@ -25,7 +25,7 @@ _Context: Abyei, Sudan_
 _Context: Anna Politkovskaya, Russia, murder_
 
 ### [ China and Japan agree to joint development of the Chunxiao gas field in a disputed area of the East China Sea. ](/news/2008/06/18/china-and-japan-agree-to-joint-development-of-the-chunxiao-gas-field-in-a-disputed-area-of-the-east-china-sea.md)
-_Context: Chinese, Chunxiao gas field, East China Sea, Japan_
+_Context: China, Chunxiao gas field, East China Sea, Japan_
 
 ### [ Relatives of Srebrenica massacre victims open a case in a Dutch court against the United Nations and the Netherlands for the failure of the Dutchbat force to prevent the killings. ](/news/2008/06/18/relatives-of-srebrenica-massacre-victims-open-a-case-in-a-dutch-court-against-the-united-nations-and-the-netherlands-for-the-failure-of-the.md)
 _Context: Dutchbat, Netherlands, Srebrenica massacre, United Nations_

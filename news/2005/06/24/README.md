@@ -24,7 +24,7 @@ _Context: Chief Executive, Donald Tsang, Great Hall of the People, appointment b
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In China, death toll in summer floods has risen to 536 ](/news/2005/06/24/in-china-death-toll-in-summer-floods-has-risen-to-536.md)
-_Context: Chinese_
+_Context: China_
 
 ### [ In the Indian state of Bihar, Maoist rebels clash with police, leaving at least 21 people dead. ](/news/2005/06/24/in-the-indian-state-of-bihar-maoist-rebels-clash-with-police-leaving-at-least-21-people-dead.md)
 _Context: Bihar, India, Indian state, Maoist, police_

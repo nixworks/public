@@ -1,7 +1,7 @@
 ## [2011-08-1](/news/2011/08/1/index.md)
 
 ### [At least 11 people, including 5 suspects, are killed and 15 others are injured on Sunday's violence in China's Xinjiang region, raising the death toll to 20 over the weekend attacks in Kashgar. ](/news/2011/08/1/at-least-11-people-including-5-suspects-are-killed-and-15-others-are-injured-on-sunday-s-violence-in-china-s-xinjiang-region-raising-the.md)
-_Context: Chinese, Kashgar, Xinjiang, recent unrest_
+_Context: China, Kashgar, Xinjiang, recent unrest_
 
 ### [2011 Syrian uprising:More than 142 people are killed across the country in a continuing crackdown on protests. ](/news/2011/08/1/2011-syrian-uprising-pmore-than-142-people-are-killed-across-the-country-in-a-continuing-crackdown-on-protests.md)
 More deaths reported in several cities, a day after activists said 142 were killed across the country.

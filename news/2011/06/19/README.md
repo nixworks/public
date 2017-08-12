@@ -22,10 +22,10 @@ _Context: Alyssa Campanella, Miss California, Miss USA_
 _Context: Boeing 747-8, Paris Air Show_
 
 ### [More than two million people are reported to have been displaced or otherwise affected by flooding in the Chinese province of Zhejiang. ](/news/2011/06/19/more-than-two-million-people-are-reported-to-have-been-displaced-or-otherwise-affected-by-flooding-in-the-chinese-province-of-zhejiang.md)
-_Context: Chinese, Zhejiang, heavy flood_
+_Context: China, Zhejiang, heavy flood_
 
 ### [Hundreds of Vietnamese citizens protest outside the Chinese embassy in Hanoi for the third straight week as tensions escalate over disputed areas of the South China Sea. ](/news/2011/06/19/hundreds-of-vietnamese-citizens-protest-outside-the-chinese-embassy-in-hanoi-for-the-third-straight-week-as-tensions-escalate-over-disputed.md)
-_Context: Chinese, Hanoi, South China Sea, Vietnamese_
+_Context: China, Hanoi, South China Sea, Vietnamese_
 
 ### [Six foreigners including two Britons and an American are jailed for lengthy terms in Somalia after the seizure of a plane containing $3.6 million in ransom for pirates. ](/news/2011/06/19/six-foreigners-including-two-britons-and-an-american-are-jailed-for-lengthy-terms-in-somalia-after-the-seizure-of-a-plane-containing-3-6-mi.md)
 _Context: British people, Somali pirates, Somalia, U.S._

@@ -7,7 +7,7 @@ _Context: Military, Niger Delta_
 Kenyan navy officers on patrolin the India Ocean shot dead three suspected Somali pirates whoboarded their vessel after mistaking it for a merchant ship, amilitary spokesman said on Saturday.
 
 ### [Somali pirates hijack a Chinese ship with 29 crew on board in the Arabian Sea. ](/news/2010/11/13/somali-pirates-hijack-a-chinese-ship-with-29-crew-on-board-in-the-arabian-sea.md)
-_Context: Arabian Sea, Chinese_
+_Context: Arabian Sea, China_
 
 ### [Taliban insurgents attack the airport in the Afghan city of Jalalabad and a nearby base. ](/news/2010/11/13/taliban-insurgents-attack-the-airport-in-the-afghan-city-of-jalalabad-and-a-nearby-base.md)
 Eight Taliban militants have been killed in an attack on a military outpost near the airport in the eastern Afghan city of Jalalabad, Nato officials say.

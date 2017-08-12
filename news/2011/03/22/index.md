@@ -37,7 +37,7 @@ _Context: Firefox 4, Mozilla Foundation_
 Tokyo Electric Power will have to compensate farmers for losses caused by the nuclear radiation leaks.
 
 ### [South Korea agrees to hold talks with North Korea about a potential eruption of Baekdu Mountain near the North's border with the People's Republic of China. ](/news/2011/03/22/south-korea-agrees-to-hold-talks-with-north-korea-about-a-potential-eruption-of-baekdu-mountain-near-the-north-s-border-with-the-people-s-re.md)
-_Context: Baekdu Mountain, Chinese, North Korea, South Korea_
+_Context: Baekdu Mountain, China, North Korea, South Korea_
 
 ### [An explosion at the Sorange coal mine in Pakistan's Baluchistan province kills 52 people. ](/news/2011/03/22/an-explosion-at-the-sorange-coal-mine-in-pakistan-s-baluchistan-province-kills-52-people.md)
 _Context: Baluchistan province, Pakistan, coal mine_

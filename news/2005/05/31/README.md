@@ -37,10 +37,10 @@ _Context: Beijing, China, East China Sea, Japan_
 Get the latest breaking news and top news headlines at Reuters.com
 
 ### [ China claims that arrested Singaporean journalist Ching Cheong was spying. ](/news/2005/05/31/china-claims-that-arrested-singaporean-journalist-ching-cheong-was-spying.md)
-_Context: Chinese, Ching Cheong, Singapore_
+_Context: China, Ching Cheong, Singapore_
 
 ### [ China opens Three Gorges Dam to tourists. ](/news/2005/05/31/china-opens-three-gorges-dam-to-tourists.md)
-_Context: Chinese, Three Gorges Dam_
+_Context: China, Three Gorges Dam_
 
 ### [ In Senegal, opposition leader Abdourahim Agne is charged with incitement to rebellion after he urged demonstrations against the president Abdoulaye Wade. ](/news/2005/05/31/in-senegal-opposition-leader-abdourahim-agne-is-charged-with-incitement-to-rebellion-after-he-urged-demonstrations-against-the-president-a.md)
 _Context: Abdoulaye Wade, Abdourahim Agne, Senegal, demonstration, rebel_

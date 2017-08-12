@@ -7,7 +7,7 @@ _Context: 2011 Yemeni uprising, Sana'a, Yemen_
 * Offer deadline extended from Sept. 30 to Oct. 31 * Maple says continues to work toward regulatory approvals * TMX shares rise 2.24 pct
 
 ### [The Hong Kong Stock Exchange closes as Typhoon Nesat nears China's Hainan Island with schools, transport services and government offices also closing. ](/news/2011/09/29/the-hong-kong-stock-exchange-closes-as-typhoon-nesat-nears-china-s-hainan-island-with-schools-transport-services-and-government-offices-als.md)
-_Context: 2011 Pacific typhoon season, Chinese, Hainan Island, Hong Kong Stock Exchange, Typhoon Nesat, government_
+_Context: 2011 Pacific typhoon season, China, Hainan Island, Hong Kong Stock Exchange, Typhoon Nesat, government_
 
 ### [Eighteen people are feared dead after a small plane crashes in the Bohorok region of Indonesia's North Sumatra province. ](/news/2011/09/29/eighteen-people-are-feared-dead-after-a-small-plane-crashes-in-the-bohorok-region-of-indonesia-s-north-sumatra-province.md)
 _Context: Bohorok, Indonesia, North Sumatra_
@@ -22,7 +22,7 @@ The government is to launch a consultation on increasing the speed limit on Engl
 _Context: Bundestag, European Financial Stability Facility, German_
 
 ### [The People's Republic of China successfully launches the Tiangong 1 space laboratory, the country's first space station module, from the Jiuquan Satellite Launch Center in Gansu Province. ](/news/2011/09/29/the-people-s-republic-of-china-successfully-launches-the-tiangong-1-space-laboratory-the-country-s-first-space-station-module-from-the-jiu.md)
-_Context: Chinese, Gansu province, Jiuquan Satellite Launch Center, Tiangong-1, space station module_
+_Context: China, Gansu province, Jiuquan Satellite Launch Center, Tiangong-1, space station module_
 
 ## [Previous Day...](/news/2011/09/28/index.md)
 

@@ -4,7 +4,7 @@
 _Context: CIA, U.S., U.S. Department of Justice, al-Qaeda, destroying CIA interrogation videos_
 
 ### [ A second human case of H5N1 bird flu is confirmed in eastern China. ](/news/2007/12/8/a-second-human-case-of-h5n1-bird-flu-is-confirmed-in-eastern-china.md)
-_Context: Avian flu virus, Chinese, bird flu_
+_Context: Avian flu virus, China, bird flu_
 
 ### [ Gunmen attack a party office of former Prime Minister Benazir Bhutto in Karachi, Pakistan, killing three supporters. ](/news/2007/12/8/gunmen-attack-a-party-office-of-former-prime-minister-benazir-bhutto-in-karachi-pakistan-killing-three-supporters.md)
 _Context: Benazir Bhutto, Karachi, Pakistan, Prime Minister of Pakistan_

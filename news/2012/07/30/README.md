@@ -16,7 +16,7 @@ Thirty-two people die in a fire on a passenger train travelling in the Indian st
 A massive grid failure inDelhi and much of northern India left more than 300 millionpeople without electricity on Monday in one of the worstblackouts to hit the country in more than a decade.
 
 ### [Nine people are killed after a train crash in Bratoszewice in Poland. ](/news/2012/07/30/nine-people-are-killed-after-a-train-crash-in-bratoszewice-in-poland.md)
-_Context: Bratoszewice, Poland_
+_Context: Bratoszewice, Polish_
 
 ### [A fire ignites at the U.S. Bank Arena in Cincinnati during pyrotechnic testing before ''WWE Raw''. No one was injured. ](/news/2012/07/30/a-fire-ignites-at-the-u-s-bank-arena-in-cincinnati-during-pyrotechnic-testing-before-wwe-raw-no-one-was-injured.md)
 _Context: Cincinnati, U.S. Bank Arena, WWE Raw_

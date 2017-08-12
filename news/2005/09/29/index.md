@@ -10,7 +10,7 @@ _Context: CIA, CIA leak scandal, Judith Miller, The New York Times, Valerie Plam
 _Context: Algeria, Algerian Civil War_
 
 ### [ The People's Republic of China Government unveils their new official Internet website, now to be found at ](/news/2005/09/29/the-people-s-republic-of-china-government-unveils-their-new-official-internet-website-now-to-be-found-at.md)
-_Context: Chinese_
+_Context: China_
 
 ### [ The family of Jean Charles de Menezes arrives in London looking for justice. The innocent Brazilian was shot six times by police exercising a shoot-to-kill policy. Metropolitan Police Commissioner Ian Blair has offered his personal apology for the killing, but this has been rejected by the family. ](/news/2005/09/29/the-family-of-jean-charles-de-menezes-arrives-in-london-looking-for-justice-the-innocent-brazilian-was-shot-six-times-by-police-exercising.md)
 News and opinion from The Times &amp; The Sunday Times

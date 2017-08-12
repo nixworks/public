@@ -1,7 +1,7 @@
 ## [2009-07-5](/news/2009/07/5/index.md)
 
 ### [ Three people are killed and twenty injured following clashes in rmqi, capital of Xinjiang, western China. ](/news/2009/07/5/three-people-are-killed-and-twenty-injured-following-clashes-in-urumqi-capital-of-xinjiang-western-china.md)
-_Context: Chinese, Urumqi, Xinjiang, riots_
+_Context: China, Urumqi, Xinjiang, riots_
 
 ### [ At least eight people die in blasts at two explosives factories in Madhya Pradesh, India. ](/news/2009/07/5/at-least-eight-people-die-in-blasts-at-two-explosives-factories-in-madhya-pradesh-india.md)
 _Context: India, Madhya Pradesh_

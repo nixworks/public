@@ -19,7 +19,7 @@ More than 700 people fleeing Africa and the Middle East may have drowned in ship
 _Context: Bass Lake, California_
 
 ### [Ewa Kopacz becomes Poland's second female prime minister. ](/news/2014/09/15/ewa-kopacz-becomes-poland-s-second-female-prime-minister.md)
-_Context: Ewa Kopacz, Poland, prime minister_
+_Context: Ewa Kopacz, Polish, prime minister_
 
 ### [Swedish Minister of Finance Anders Borg quits politics after he was considered to be the next leader of the Moderate Party, which he did not want. ](/news/2014/09/15/swedish-minister-of-finance-anders-borg-quits-politics-after-he-was-considered-to-be-the-next-leader-of-the-moderate-party-which-he-did-not.md)
 _Context: Anders Borg, Moderate Party, Swedish Minister of Finance_

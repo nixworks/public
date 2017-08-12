@@ -52,13 +52,13 @@ _Context: Argentina, Dirty War, Julio Alberto Poch, Spain, Transavia_
 In his first U.N. appearance, Libyan leader Moammar Gadhafi slams the Security Council and chastised the world body on Wednesday for failing to intervene or prevent some 65 wars.
 
 ### [ China relaxes travel curbs for Guangdong residents visiting Macau. ](/news/2009/09/23/china-relaxes-travel-curbs-for-guangdong-residents-visiting-macau.md)
-_Context: Chinese, Guangdong province, Macau_
+_Context: China, Guangdong province, Macau_
 
 ### [ Human Rights Watch urges world leaders to call on Sri Lanka to free hundreds of thousands of displaced people detained in camps since the island's civil war ended. ](/news/2009/09/23/human-rights-watch-urges-world-leaders-to-call-on-sri-lanka-to-free-hundreds-of-thousands-of-displaced-people-detained-in-camps-since-the-i.md)
 _Context: Human Rights Watch, Sri Lanka_
 
 ### [ A Polish court awards EUR7,400 damages to Alicja Tysiac, likened to a child killer and Nazi war criminal by Catholic magazine ''Gosc Niedzielny'' for wanting an abortion. ](/news/2009/09/23/a-polish-court-awards-a-7-400-damages-to-alicja-tysiac-likened-to-a-child-killer-and-nazi-war-criminal-by-catholic-magazine-goaa-nie.md)
-_Context: Alicja Tysiac, Catholic, Gosc Niedzielny, Nazism, Poland, abortion_
+_Context: Alicja Tysiac, Catholic, Gosc Niedzielny, Nazism, Polish, abortion_
 
 ### [ Germany's first nudist hiking trail opens. ](/news/2009/09/23/germany-s-first-nudist-hiking-trail-opens.md)
 German naturists will soon have their own 18-km (11-mile) long trail for hiking in the nude and some enthusiasts have been trying it out before the official opening next May.

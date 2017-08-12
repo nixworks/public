@@ -7,7 +7,7 @@ _Context: CIA leak scandal, Robert Novak, brain tumour_
 _Context: Himalayas, K2 mountain, are reported dead, mountaineering_
 
 ### [ A police post near Kashgar in the Xinjiang Uyghur Autonomous Region of China is attacked, leaving 16 officers dead and 16 others injured. ](/news/2008/08/4/a-police-post-near-kashgar-in-the-xinjiang-uyghur-autonomous-region-of-china-is-attacked-leaving-16-officers-dead-and-16-others-injured.md)
-_Context: Autonomous Region, Chinese, Kashgar, Uyghur, Xinjiang, attacked_
+_Context: Autonomous Region, China, Kashgar, Uyghur, Xinjiang, attacked_
 
 ## [Previous Day...](/news/2008/08/3/index.md)
 

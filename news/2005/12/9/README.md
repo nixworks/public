@@ -13,7 +13,7 @@ _Context: FIFA, Germany, World Cup_
 _Context: Canada, Canadian Prime Minister, Canadian federal election, 2006, Frank McKenna, George W. Bush, Paul Martin, U.S., U.S.-Canada relations, UN Climate Change Conference, ambassador, criticism on December 7_
 
 ### [ Reports emerge of an alleged massacre of protesting farmers and fishermen in Dongzhou, Guangdong, China by police forces. The protesters are believed to be upset with government plans to build a new power plant in the area and infill part of the bay. The death toll, pegged at 20, is the worst act of violence by Chinese security forces since the Tiananmen Square protests of 1989. The town is reportedly still sealed off by government forces. ](/news/2005/12/9/reports-emerge-of-an-alleged-massacre-of-protesting-farmers-and-fishermen-in-dongzhou-guangdong-china-by-police-forces-the-protesters-ar.md)
-_Context: Chinese, Dongzhou, Guangdong, Tiananmen Square protests of 1989, infill, massacres, protesting farmers and fishermen, violence_
+_Context: China, Dongzhou, Guangdong, Tiananmen Square protests of 1989, infill, massacres, protesting farmers and fishermen, violence_
 
 ### [ The wedding day of Lorna Ramiso Cantre and Cliff Simonne Rivero Velasco at the Transfiguration Chapel [http://www.caleruega-philippines.ph/ Caleruega], Philippines.](/news/2005/12/9/the-wedding-day-of-lorna-ramiso-cantre-and-cliff-simonne-rivero-velasco-at-the-transfiguration-chapel-http-www-caleruega-philippines-ph.md)
 ### [ The last London Routemaster double-decker bus makes its final journey on route 159 before being withdrawn from general service. ](/news/2005/12/9/the-last-london-routemaster-double-decker-bus-makes-its-final-journey-on-route-159-before-being-withdrawn-from-general-service.md)

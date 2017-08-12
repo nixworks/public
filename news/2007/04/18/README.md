@@ -31,13 +31,13 @@ _Context: Australia, Guantanamo Bay Detention Camp, Nauru, U.S., asylum seeker_
 The mayor of the Japanese city of Nagasaki died early on Wednesday after being gunned down by a suspected gangster, stunning a nation where shootings are extremely rare.
 
 ### [ The People's Republic of China begins a new service of high-speed trains capable of reaching speeds of 200km/h (124 mph). ](/news/2007/04/18/the-people-s-republic-of-china-begins-a-new-service-of-high-speed-trains-capable-of-reaching-speeds-of-200km-h-124-mph.md)
-_Context: Chinese, high-speed rail_
+_Context: China, high-speed rail_
 
 ### [ Thirty-two steel workers are killed and two more injured in China after a ladle full of liquid steel failed, engulfing an adjacent room full of workers. ](/news/2007/04/18/thirty-two-steel-workers-are-killed-and-two-more-injured-in-china-after-a-ladle-full-of-liquid-steel-failed-engulfing-an-adjacent-room-ful.md)
 _Context: China, ladle_
 
 ### [ UEFA chooses Poland and Ukraine as joint hosts for the 2012 UEFA European Football Championship. ](/news/2007/04/18/uefa-chooses-poland-and-ukraine-as-joint-hosts-for-the-2012-uefa-european-football-championship.md)
-_Context: 2012 UEFA European Football Championship, Poland, UEFA, Ukraine_
+_Context: 2012 UEFA European Football Championship, Polish, UEFA, Ukraine_
 
 ## [Previous Day...](/news/2007/04/17/index.md)
 

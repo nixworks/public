@@ -46,7 +46,7 @@ _Context: Papua, Papuan people, President of Indonesia, Susilo Bambang Yudhoyono
 Authorities arrested 27 people accused of operating a terror cell in the Western Sahara led by a member of the local branch of Al Qaeda.
 
 ### [Chinese authorities implement new controls on the content of text messages sent to mobile phones according to service providers, including references to democracy, human rights, and corruption.](/news/2011/01/6/chinese-authorities-implement-new-controls-on-the-content-of-text-messages-sent-to-mobile-phones-according-to-service-providers-including-r.md)
-_Context: Chinese, Chinese human rights, censorship, corruption, democratic progress, mobile phone, text messages_
+_Context: China, Chinese human rights, censorship, corruption, democratic progress, mobile phone, text messages_
 
 ### [Aaron Swartz is arrested by MIT police on state breaking-and-entering charges, after systematically downloading academic journal articles from JSTOR. ](/news/2011/01/6/aaron-swartz-is-arrested-by-mit-police-on-state-breaking-and-entering-charges-after-systematically-downloading-academic-journal-articles-fr.md)
 Arrest report filed by Cambridge Police Dept, Cambridge, Mass. on January 13, 2011 regarding JSTOR-MIT hacker Aaron Swartz.

@@ -19,7 +19,7 @@ Haiti-born hip-hop star Wyclef Jean is released from hospital after being treate
 _Context: 1390, Nowruz_
 
 ### [The BBC World Service is expected to sign an agreement with the United States State Department to enable it to combat censorship in Iran and the People's Republic of China. ](/news/2011/03/20/the-bbc-world-service-is-expected-to-sign-an-agreement-with-the-united-states-state-department-to-enable-it-to-combat-censorship-in-iran-and.md)
-_Context: BBC World Service, Chinese, Iran, State Department_
+_Context: BBC World Service, China, Iran, State Department_
 
 ### [AT&T and Deutsche Telekom reach an agreement for AT&T to purchase T-Mobile USA for $39 billion in cash and stock. ](/news/2011/03/20/at-t-and-deutsche-telekom-reach-an-agreement-for-at-t-to-purchase-t-mobile-usa-for-39-billion-in-cash-and-stock.md)
 AT&amp;amp;T Inc. (NYSE: T) and Deutsche Telekom AG (FWB: DTE) today announced that they have entered into a definitive agreement under which AT&amp;a

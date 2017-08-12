@@ -37,7 +37,7 @@ _Context: Coalition for Unity and Democracy, Ethiopia, election fraud_
 _Context: 2006, February 15, Haiti, United Nations Security Council, peacekeepers_
 
 ### [ In Poland, opposition demands resignation of prime minister Marek Belka because of allegations that declassified files show he had ties to communist-era security services. Belka refuses to do so, stating that he signed a contract to be allowed to go to study trip to USA ](/news/2005/06/22/in-poland-opposition-demands-resignation-of-prime-minister-marek-belka-because-of-allegations-that-declassified-files-show-he-had-ties-to.md)
-_Context: Marek Belka, Poland_
+_Context: Marek Belka, Polish_
 
 ## [Previous Day...](/news/2005/06/21/index.md)
 

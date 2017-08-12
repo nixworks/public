@@ -10,7 +10,7 @@ Poland on Friday approved a law making chemical castration mandatory for pedophi
 _Context: Greek_
 
 ### [ Nigerian MPs ask the government to investigate the status of Chinese citizens living in the country, after allegations that Nigerians in China have been mistreated. ](/news/2009/09/25/nigerian-mps-ask-the-government-to-investigate-the-status-of-chinese-citizens-living-in-the-country-after-allegations-that-nigerians-in-ch.md)
-_Context: Chinese, Nigeria_
+_Context: China, Nigeria_
 
 ### [ The trial of former Israeli Prime Minister Ehud Olmert on corruption charges begins in Jerusalem. He is the first ever Israeli Prime Minister to be brought to trial. ](/news/2009/09/25/the-trial-of-former-israeli-prime-minister-ehud-olmert-on-corruption-charges-begins-in-jerusalem-he-is-the-first-ever-israeli-prime-minist.md)
 Former Israeli Prime Minister Ehud Olmert has gone on trial in Jerusalem on corruption charges.

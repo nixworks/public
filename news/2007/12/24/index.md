@@ -7,7 +7,7 @@ _Context: Islam Karimov, President, Uzbekistan, presidential elections_
 _Context: Alexandria, Egypt_
 
 ### [ Sebastian Kawa of Poland is FAI World GP Gliding Champion after 5 intensive competition days in Omarama, New Zealand. ](/news/2007/12/24/sebastian-kawa-of-poland-is-fai-world-gp-gliding-champion-after-5-intensive-competition-days-in-omarama-new-zealand.md)
-_Context: GP Gliding, New Zealand, Omarama, Poland, Sebastian Kawa_
+_Context: GP Gliding, New Zealand, Omarama, Polish, Sebastian Kawa_
 
 ## [Previous Day...](/news/2007/12/23/index.md)
 

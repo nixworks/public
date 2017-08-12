@@ -49,7 +49,7 @@ _Context: Geert Wilders, Islam, MP, Netherlands, Parliament, United Kingdom, ant
 Microsoft is offering a $250,000 reward for information leading to the conviction of the Conficker worm&#039;s author.
 
 ### [ China's Sanlu Group declares bankruptcy, due to the country's 2008 milk scandal. ](/news/2009/02/12/china-s-sanlu-group-declares-bankruptcy-due-to-the-country-s-2008-milk-scandal.md)
-_Context: 2008 Chinese milk scandal, Chinese, Sanlu Group, bankruptcy_
+_Context: 2008 Chinese milk scandal, China, Sanlu Group, bankruptcy_
 
 ## [Previous Day...](/news/2009/02/11/index.md)
 

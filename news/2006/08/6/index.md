@@ -7,7 +7,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Action Against Hunger, LTTE, Sri Lanka, Sri Lankan military_
 
 ### [ The Deby administration of Chad establishes official relations with the People's Republic of China. Chad had recognized the Republic of China (Taiwan) from 1997-2006. Chadian diplomats cited the prospects of greater financial investments and the PRC status in the United Nations Security Council as the principal factors motivating the diplomatic shift. ](/news/2006/08/6/the-da-c-by-administration-of-chad-establishes-official-relations-with-the-people-s-republic-of-china-chad-had-recognized-the-republic-of-ch.md)
-_Context: Chad, Chinese, Taiwan, United Nations Security Council, second Dby administration_
+_Context: Chad, China, Taiwan, United Nations Security Council, second Dby administration_
 
 ### [ 2006 Israel-Lebanon conflict: Lebanon rejects a draft U.N. resolution calling for an end to the conflict between Israel and Hizbollah, insisting it must include an explicit demand for a full Israeli pullout from south Lebanon.](/news/2006/08/6/2006-israel-lebanon-conflict-p-lebanon-rejects-a-draft-u-n-resolution-calling-for-an-end-to-the-conflict-between-israel-and-hizbollah-ins.md)
 (VIDEO) Haifa under attack: Rocket hits building, causes it to collapse; body of one woman recovered. Two people critically injured, die in hospital. More than 100 residents hurt. Defense minister, army chief hold security consultation

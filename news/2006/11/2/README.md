@@ -16,7 +16,7 @@ _Context: Science_
 _Context: Iran, bombs, military, military exercise, missiles_
 
 ### [ The UK Office for National Statistics announces that, in 2005, 565,000 immigrants arrived in the UK, mainly from Poland, India, Pakistan, Bangladesh and Sri Lanka, while there were 380,000 emigrants, over half of whom were UK citizens. The most popular emigration destinations were Australia, Spain, and France. The net immigration total, 185,000, was 17,000 less than 2004's record. ](/news/2006/11/2/the-uk-office-for-national-statistics-announces-that-in-2005-565-000-immigrants-arrived-in-the-uk-mainly-from-poland-india-pakistan-b.md)
-_Context: Australia, Bangladesh, France, India, Office for National Statistics, Pakistan, Poland, Spain, Sri Lanka, United Kingdom_
+_Context: Australia, Bangladesh, France, India, Office for National Statistics, Pakistan, Polish, Spain, Sri Lanka, United Kingdom_
 
 ### [ Gazprom, Russia's state-controlled natural gas monopoly, intends to double the price it charges Georgia. This follows the 2006 Georgian-Russian espionage controversy in early October. ](/news/2006/11/2/gazprom-russia-s-state-controlled-natural-gas-monopoly-intends-to-double-the-price-it-charges-georgia-this-follows-the-2006-georgian-rus.md)
 _Context: 2006 Georgian-Russian espionage controversy, Gazprom, Georgian, Russia, natural gas_

@@ -61,7 +61,7 @@ _Context: Emperor Akihito, Japan, Naoto Kan, Prime Minister of Japan_
 _Context: Spain_
 
 ### [China defends its censorship of the internet in a document laying out the government's attitude towards the web. ](/news/2010/06/8/china-defends-its-censorship-of-the-internet-in-a-document-laying-out-the-government-s-attitude-towards-the-web.md)
-_Context: Chinese, blocks mentions_
+_Context: China, blocks mentions_
 
 ### [Egypt permits legislators from the Muslim Brotherhood and other groups to enter the blockaded Gaza Strip. ](/news/2010/06/8/egypt-permits-legislators-from-the-muslim-brotherhood-and-other-groups-to-enter-the-blockaded-gaza-strip.md)
 _Context: Egypt, Gaza Strip, Muslim Brotherhood_

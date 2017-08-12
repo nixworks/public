@@ -13,7 +13,7 @@ _Context: Mogadishu, Somalia_
 _Context: Cyclone Nargis, Myanmar_
 
 ### [ Three people are killed and another three injured after an explosion on a bus in Shanghai, China. ](/news/2008/05/5/three-people-are-killed-and-another-three-injured-after-an-explosion-on-a-bus-in-shanghai-china.md)
-_Context: Chinese, Shanghai_
+_Context: China, Shanghai_
 
 ### [ In Bolivia's Santa Cruz department, 86% of voters supported proposals for greater autonomy in a referendum. Bolivian President Evo Morales condemned the referendum, calling it illegal. ](/news/2008/05/5/in-bolivia-s-santa-cruz-department-86-of-voters-supported-proposals-for-greater-autonomy-in-a-referendum-bolivian-president-evo-morales.md)
 _Context: Bolivia, Evo Morales, President of Bolivia, Santa Cruz, referendum_

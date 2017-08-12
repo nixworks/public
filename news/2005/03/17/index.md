@@ -4,7 +4,7 @@
 _Context: Horatiu Nastase, Relativistic Heavy Ion Collider, Upton, New York, black hole, particle accelerator, physicist_
 
 ### [ The People's Republic of China frees Uyghur dissident and businesswoman Rebiya Kadeer on medical parole. ](/news/2005/03/17/the-people-s-republic-of-china-frees-uyghur-dissident-and-businesswoman-rebiya-kadeer-on-medical-parole.md)
-_Context: Chinese, Rebiya Kadeer, Uyghur, medical parole_
+_Context: China, Rebiya Kadeer, Uyghur, medical parole_
 
 ### [ U.S. Congressman Rob Portman (R-Ohio) was nominated by President George W. Bush to be the United States Trade Representative, replacing Robert Zoellick.  Portman is subject to Senate confirmation.  (Reuters) [http://edition.cnn.com/2005/BUSINESS/03/17/us.trade.rep.reut/]](/news/2005/03/17/u-s-congressman-rob-portman-r-ohio-was-nominated-by-president-george-w-bush-to-be-the-united-states-trade-representative-replacing-rob.md)
 _Context: George W. Bush, Ohio, Republican, Reuters, Rob Portman, Robert Zoellick, United States Senate, United States Trade Representative_

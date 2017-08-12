@@ -35,7 +35,7 @@ In 1660, New France had six male settlers for every female settler. The Filles d
 Foreign Minister Ahmet Davutoglu continues to demand apology for flotilla raid, says rifts in Israeli government making it difficult to patch up ties. &#39;Messages it sends are contradictory, tough rivalry exists in coalition,&#39; he explains
 
 ### [Three fishermen from the People's Republic of China are released from South Korean custody after their vessel collided with a Coast Guard vessel last week. ](/news/2010/12/25/three-fishermen-from-the-people-s-republic-of-china-are-released-from-south-korean-custody-after-their-vessel-collided-with-a-coast-guard-ve.md)
-_Context: Chinese, South Korea_
+_Context: China, South Korea_
 
 ### [Ecuador recognises Palestine as an independent state within its 1967 borders. ](/news/2010/12/25/ecuador-recognises-palestine-as-an-independent-state-within-its-1967-borders.md)
 _Context: Ecuador, Palestinian, officially recognises_

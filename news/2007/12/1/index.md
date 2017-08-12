@@ -10,7 +10,7 @@ _Context: Christmas, Great Britain, Home Secretary, Jacqui Smith, terrorism, war
 _Context: Benazir Bhutto, Pakistan, by-elections_
 
 ### [ In another regional leadership reshuffle following the 17th Party Congress in the People's Republic of China, Minister of Commerce Bo Xilai is appointed the CPC Chongqing Committee Secretary, replacing Wang Yang, who is now Party Secretary in Guangdong. Zhang Dejiang resigns from his posts in Guangdong. ](/news/2007/12/1/in-another-regional-leadership-reshuffle-following-the-17th-party-congress-in-the-people-s-republic-of-china-minister-of-commerce-bo-xilai.md)
-_Context: 17th Party Congress, Bo Xilai, Chinese, Chongqing, Guangdong province, Wang Yang, Zhang Dejiang_
+_Context: 17th Party Congress, Bo Xilai, China, Chongqing, Guangdong province, Wang Yang, Zhang Dejiang_
 
 ### [  Formateur Yves Leterme resigns. ](/news/2007/12/1/formateur-yves-leterme-resigns.md)
 _Context: Informateur, Yves Leterme, forms a temporary coalition government_

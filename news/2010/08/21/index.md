@@ -19,7 +19,7 @@ _Context: Rio de Janeiro, So Conrado_
 A painting by Vincent Van Gogh, stolen from a Cairo museum, is still missing, says the culture minister, hours after he said it had been found.
 
 ### [More than 50,000 people are evacuated after the Yalu River floods in China; flooding is also reported in North Korea with the city of Sinuiju particularly affected. ](/news/2010/08/21/more-than-50-000-people-are-evacuated-after-the-yalu-river-floods-in-china-flooding-is-also-reported-in-north-korea-with-the-city-of-sinuij.md)
-_Context: Chinese, North Korea, Sinuiju, Yalu River_
+_Context: China, North Korea, Sinuiju, Yalu River_
 
 ### [The charity Save the Children says the food crisis in Niger is being made worse by hoarders selling grain at higher prices than most people can afford. ](/news/2010/08/21/the-charity-save-the-children-says-the-food-crisis-in-niger-is-being-made-worse-by-hoarders-selling-grain-at-higher-prices-than-most-people.md)
 The lives of hundreds of thousands of children in Niger are being put at risk by grain hoarders, Save the Children says.

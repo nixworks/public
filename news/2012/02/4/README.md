@@ -25,7 +25,7 @@ _Context: Andrew Wight, Australian, Berry, Mike deGruy, New South Wales, Santa B
 _Context: Charlie White, Indiana, Secretary of State, voter fraud_
 
 ### [Three more Tibetan protesters set themselves on fire in Sichuan, China. ](/news/2012/02/4/three-more-tibetan-protesters-set-themselves-on-fire-in-sichuan-china.md)
-_Context: Chinese, Sichuan, Tibet_
+_Context: China, Sichuan, Tibet_
 
 ### [2011-2012 Russian protests: Over 100,000 people protest for and against Russian Prime Minister Vladimir Putin in Moscow. ](/news/2012/02/4/2011a2012-russian-protests-over-100-000-people-protest-for-and-against-russian-prime-minister-vladimir-putin-in-moscow.md)
 _Context: Moscow, Russia, Vladimir Putin, rally_

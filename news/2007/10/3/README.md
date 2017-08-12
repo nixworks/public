@@ -10,7 +10,7 @@ _Context: Mars, Moon, NASA, Russia, U.S., water_
 _Context: George W. Bush, President, State Children's Health Insurance Program, U.S._
 
 ### [ Edward Pietrzyk, the Polish ambassador to Iraq, is hurt and his bodyguard is killed by a bomb attack in Baghdad. ](/news/2007/10/3/edward-pietrzyk-the-polish-ambassador-to-iraq-is-hurt-and-his-bodyguard-is-killed-by-a-bomb-attack-in-baghdad.md)
-_Context: Baghdad, Edward Pietrzyk, Iraq, Poland, ambassador, bodyguard, improvised explosive device_
+_Context: Baghdad, Edward Pietrzyk, Iraq, Polish, ambassador, bodyguard, improvised explosive device_
 
 ### [ Former Pakistani Prime Minister Benazir Bhutto says that the corruption charges against her have not been dropped, and that Minister Shaikh Rasheed Ahmad's announcement is part of a disinformation campaign. ](/news/2007/10/3/former-pakistani-prime-minister-benazir-bhutto-says-that-the-corruption-charges-against-her-have-not-been-dropped-and-that-minister-shaikh.md)
 Benazir Bhutto left open the possibility that her party would resign from Parliament before presidential elections on Saturday.

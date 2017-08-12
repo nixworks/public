@@ -28,13 +28,13 @@ Thirty-five people missing after series of blasts at depot outside city of Ulyan
 * UNICEF says villages evacuated in S. Arabia, schools shut * Agency reports Yemeni children dying from malnutrition * UNHCR, ICRC say more civi
 
 ### [ Chinese nationals in Angola say they are increasingly being targeted in "mafia-style" attacks by Angolan gangs. ](/news/2009/11/13/chinese-nationals-in-angola-say-they-are-increasingly-being-targeted-in-mafia-style-attacks-by-angolan-gangs.md)
-_Context: Angola, Chinese_
+_Context: Angola, China_
 
 ### [ Four members of Algeria's national football team are injured when their bus comes under attack by stone throwers in Cairo, Egypt. ](/news/2009/11/13/four-members-of-algeria-s-national-football-team-are-injured-when-their-bus-comes-under-attack-by-stone-throwers-in-cairo-egypt.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 ### [ 38 people are killed in collapsed school buildings and road accidents caused by heavy snowfall in China, the heaviest in 60 years. ](/news/2009/11/13/38-people-are-killed-in-collapsed-school-buildings-and-road-accidents-caused-by-heavy-snowfall-in-china-the-heaviest-in-60-years.md)
-_Context: Chinese, snow_
+_Context: China, snow_
 
 ### [ Czech Prime minister Jan Fischer deposits the Treaty of Lisbon ratification instrument at the Italian foreign ministry in Rome. ](/news/2009/11/13/czech-prime-minister-jan-fischer-deposits-the-treaty-of-lisbon-ratification-instrument-at-the-italian-foreign-ministry-in-rome.md)
 _Context: Czech Republic, Italian, Jan Fischer, Rome, Treaty of Lisbon, deposits_

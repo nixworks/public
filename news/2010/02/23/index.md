@@ -13,7 +13,7 @@ The United Arab Emirates has identified a further two Irish passport numbers all
 _Context: United Nations, developing countries, mobile phone_
 
 ### [China increases controls on the internet, requiring anyone who wishes to set up a website to produce identification and meet regulators. ](/news/2010/02/23/china-increases-controls-on-the-internet-requiring-anyone-who-wishes-to-set-up-a-website-to-produce-identification-and-meet-regulators.md)
-_Context: Chinese, blocks mentions_
+_Context: China, blocks mentions_
 
 ### [Mauritania recalls its ambassador from Mali after the latter released four members of Al-Qaeda in the Islamic Maghreb. ](/news/2010/02/23/mauritania-recalls-its-ambassador-from-mali-after-the-latter-released-four-members-of-al-qaeda-in-the-islamic-maghreb.md)
 _Context: Al Qaeda in the Islamic Maghreb, Mali, Mauritanian, its ambassador_

@@ -25,7 +25,7 @@ _Context: Federal Aviation Administration, Hamas, Israel, U.S._
 Tehran bureau chief Jason Rezaian and three others believed detained;
 
 ### [The European Court for Human Rights censures Poland over CIA renditions. ](/news/2014/07/24/the-european-court-for-human-rights-censures-poland-over-cia-renditions.md)
-_Context: Poland_
+_Context: Polish_
 
 ### [Arseniy Yatsenyuk resigns as Ukraine's Prime minister after the ruling coalition in parliament collapsed, accusing lawmakers of imperiling the nation by putting politics above urgent needs during wartime. ](/news/2014/07/24/arseniy-yatsenyuk-resigns-as-ukraine-s-prime-minister-after-the-ruling-coalition-in-parliament-collapsed-accusing-lawmakers-of-imperiling-t.md)
 Ukraine says two warplanes downed Wednesday were out of reach of shoulder-fired missiles.

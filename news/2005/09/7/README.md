@@ -16,7 +16,7 @@ As an aerial coordinator for Hollywood movies, helicopter pilot Alan Purwin has 
 _Context: Moussa Arafat, Palestinian Authority, Popular Resistance Committees, Yassir Arafat_
 
 ### [  Egyptian presidential election, 2005: The first ever multi-party elections in Egypt are conducted, with incumbent President Hosni Mubarak expected to win a fifth six-year term. ](/news/2005/09/7/egyptian-presidential-election-2005-the-first-ever-multi-party-elections-in-egypt-are-conducted-with-incumbent-president-hosni-mubarak.md)
-_Context: Hosni Mubarak, President, elections in Egypt, first multi-candidate presidential election, multi-party, re-elects, term of office_
+_Context: Hosni Mubarak, President, elections in Egypt, first multi-candidate presidential election, multi-party, re-election, term of office_
 
 ### [ The California State Assembly passes a bill recognizing same-sex marriage. Earlier this week the state Senate approved the measure; it now heads to the desk of Governor Arnold Schwarzenegger where there is uncertainty whether he will sign or veto the measure. The legislation is the first passed by a U.S. state legislature recognizing same-sex marriage. ](/news/2005/09/7/the-california-state-assembly-passes-a-bill-recognizing-same-sex-marriage-earlier-this-week-the-state-senate-approved-the-measure-it-now.md)
 _Context: Arnold Schwarzenegger, California, California State Assembly, California state senator, Governor of California, same-sex marriage_

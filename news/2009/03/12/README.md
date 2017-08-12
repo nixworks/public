@@ -1,7 +1,7 @@
 ## [2009-03-12](/news/2009/03/12/index.md)
 
 ### [ China's retail sales have increased 15.2% in 2009. ](/news/2009/03/12/china-s-retail-sales-have-increased-15-2-in-2009.md)
-_Context: Chinese, retail sales_
+_Context: China, retail sales_
 
 ### [ Iraqi journalist Muntadhar al-Zaidi is sentenced to three years in prison for throwing shoes at then-United States President George W. Bush. ](/news/2009/03/12/iraqi-journalist-muntadhar-al-zaidi-is-sentenced-to-three-years-in-prison-for-throwing-shoes-at-then-united-states-president-george-w-bush.md)
 _Context: George W. Bush, Iraq, Muntadhar al-Zaidi, President, U.S., throws a shoe_

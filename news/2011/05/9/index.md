@@ -37,7 +37,7 @@ _Context: European Union, Greek, Standard & Poor's_
 Seven boats have capsized in a storm in the west African nation of Togo, leaving at least 36 people dead, a police sources says, as authorities search for more victims. 
 
 ### [More than 20 quarry workers are buried by a landslide in Luojiang near the Chinese resort city of Guilin. ](/news/2011/05/9/more-than-20-quarry-workers-are-buried-by-a-landslide-in-luojiang-near-the-chinese-resort-city-of-guilin.md)
-_Context: Chinese, Guilin, Luojiang, landslide, quarry_
+_Context: China, Guilin, Luojiang, landslide, quarry_
 
 ### [A boat carrying up to 600 people trying to flee from the 2011 Libyan civil war sinks outside the port of Tripoli. ](/news/2011/05/9/a-boat-carrying-up-to-600-people-trying-to-flee-from-the-2011-libyan-civil-war-sinks-outside-the-port-of-tripoli.md)
 A ship carrying up to 600 migrants trying to flee Libya has sunk just off the coast of the North African country, the U.N. Refugee Agency said Monday, citing witness accounts.

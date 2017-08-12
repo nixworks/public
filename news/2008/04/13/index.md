@@ -13,7 +13,7 @@ _Context: Hajredin Kui, Kosovo, Prime Minister, embassies_
 _Context: Australia, Australian Prime Minister, Governor, Governor General of Australia, Kevin Rudd, Quentin Bryce_
 
 ### [ Thousands of pro-China demonstrators gathered in front of the Canadian Parliament Building in Ottawa to show their support for the Chinese government and 2008 Beijing Olympics. ](/news/2008/04/13/thousands-of-pro-china-demonstrators-gathered-in-front-of-the-canadian-parliament-building-in-ottawa-to-show-their-support-for-the-chinese.md)
-_Context: 2008 Beijing Olympics, Chinese, Ottawa, Parliament of Canada, government_
+_Context: 2008 Beijing Olympics, China, Ottawa, Parliament of Canada, government_
 
 ## [Previous Day...](/news/2008/04/12/index.md)
 

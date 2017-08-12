@@ -1,7 +1,7 @@
 ## [2009-04-15](/news/2009/04/15/index.md)
 
 ### [ China launches a second satellite as part of its Compass global navigation system. ](/news/2009/04/15/china-launches-a-second-satellite-as-part-of-its-compass-global-navigation-system.md)
-_Context: Chinese, Compass satellite navigation system, global navigation system, launches, released an object into orbit_
+_Context: China, Compass satellite navigation system, global navigation system, launches, released an object into orbit_
 
 ### [ Swiss investment bank UBS AG will cut 8,700 jobs. ](/news/2009/04/15/swiss-investment-bank-ubs-ag-will-cut-8-700-jobs.md)
 _Context: Switzerland, UBS AG, investment banking, layoff_

@@ -4,7 +4,7 @@
 _Context: Saleh, Sana'a, Saudi Arabia, Yemeni Civil War, Yemeni President_
 
 ### [The People's Bank of China in the People's Republic of China lowers its benchmark interest rate for the third time in half a year. ](/news/2015/05/10/the-people-s-bank-of-china-in-the-people-s-republic-of-china-lowers-its-benchmark-interest-rate-for-the-third-time-in-half-a-year.md)
-_Context: Chinese, People's Bank of China, interest rate_
+_Context: China, People's Bank of China, interest rate_
 
 ### [Typhoon Noul (Dodong) makes landfall in the northern Philippines as a Category&nbsp;5 typhoon with thousands of passengers stranded and warnings of landslides. ](/news/2015/05/10/typhoon-noul-dodong-makes-landfall-in-the-northern-philippines-as-a-category-nbsp-5-typhoon-with-thousands-of-passengers-stranded-and-warn.md)
 Typhoon expected to hit coast on Sunday, as volcano spews ash over central province, forcing evacuation of thousands.
@@ -37,7 +37,7 @@ _Context: Hattiesburg, Mississippi_
 A gunman kills three relatives and a neighbour before turning the gun on himself in the Swiss town of Wuerenlingen, north-west of Zurich, police say.
 
 ### [Voters in Poland go to the polls for a presidential election with a second round of voting scheduled with Andrzej Duda of the Law and Justice Party challenging incumbent President Bronislaw Komorowski. ](/news/2015/05/10/voters-in-poland-go-to-the-polls-for-a-presidential-election-with-a-second-round-of-voting-scheduled-with-andrzej-duda-of-the-law-and-justic.md)
-_Context: Andrzej Duda, Bronislaw Komorowski, Law and Justice Party, Poland, Polish presidential election, 2015, President_
+_Context: Andrzej Duda, Bronislaw Komorowski, Law and Justice Party, Polish, Polish presidential election, 2015, President_
 
 ## [Previous Day...](/news/2015/05/9/index.md)
 

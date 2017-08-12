@@ -10,7 +10,7 @@ _Context: 2004 Indian Ocean earthquake, Cardiff, Live Aid, Millennium Stadium, T
 _Context: Abu Ghraib prison, Center for Constitutional Rights, Donald Rumsfeld, Munich Security Conference, U.S. Defense Secretary, war crimes_
 
 ### [ Song Xiuyan is confirmed by the 3rd Plenum of the 10th Qinghai People's Congress as Governor of Qinghai, making her the only female Provincial Governor in the People's Republic of China at the time. ](/news/2005/01/22/song-xiuyan-is-confirmed-by-the-3rd-plenum-of-the-10th-qinghai-people-s-congress-as-governor-of-qinghai-making-her-the-only-female-provinc.md)
-_Context: Chinese, Qinghai, Song Xiuyan_
+_Context: China, Qinghai, Song Xiuyan_
 
 ### [ Israeli-Palestinian Conflict: The al-Aqsa Martyrs' Brigades agrees to a ceasefire if Israel will promise to fully halt military operations inside the West Bank and Gaza Strip, including arrest raids and assassinations and releases Palestinian prisoners from its jails.  The militant group rejects Israel's offer to ease operations. [http://news.bbc.co.uk/2/hi/middle_east/4198271.stm (BBC)] [http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2005-01-22T174931Z_01_N22668666_RTRIDST_0_NEWS-MIDEAST-DC.XML (Reuters)] (Link dead as of 02:35, 15 January 2007 (UTC)), [http://www.haaretz.com/hasen/spages/530080.html (Haaretz)] (Link dead as of 02:35, 15 January 2007 (UTC))](/news/2005/01/22/israeli-palestinian-conflict-the-al-aqsa-martyrs-brigades-agrees-to-a-ceasefire-if-israel-will-promise-to-fully-halt-military-operations.md)
 _Context: 15 January, 2007, Al-Aqsa Martyrs' Brigades, Gaza Strip, Israel, Israeli-Palestinian conflict, West Bank_

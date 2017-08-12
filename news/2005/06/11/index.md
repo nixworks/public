@@ -13,7 +13,7 @@ _Context: Coalition for Unity and Democracy, Ethiopia, Hailu Shawel, Lidetu Ayal
 _Context: Carnation Revolution, Portugal, Vasco Gonalves_
 
 ### [ In Poland, gay rights activists defy ban and march in the streets of Warsaw ](/news/2005/06/11/in-poland-gay-rights-activists-defy-ban-and-march-in-the-streets-of-warsaw.md)
-_Context: Poland, Warsaw, gay rights_
+_Context: Polish, Warsaw, gay rights_
 
 ## [Previous Day...](/news/2005/06/10/index.md)
 

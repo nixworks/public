@@ -17,7 +17,7 @@ _Context: Case-Shiller index, S&P, U.S._
 _Context: Aung San Suu Kyi, State Peace and Development Council, house arrest_
 
 ### [ In the aftermath of the Sichuan earthquake, the People's Republic of China evacuates 100,000 people from Mianyang as engineers prepare to drain the landslide dam-created Tangjiashan Lake.](/news/2008/05/27/in-the-aftermath-of-the-sichuan-earthquake-the-people-s-republic-of-china-evacuates-100-000-people-from-mianyang-as-engineers-prepare-to-d.md)
-_Context: Chinese, Mianyang, Tangjiashan Lake, deadly earthquake, landslide dam_
+_Context: China, Mianyang, Tangjiashan Lake, deadly earthquake, landslide dam_
 
 ### [ Thabo Mbeki, the President of South Africa, leaves for Japan to attend a conference on African development despite concerns about the 2008 South African riots. ](/news/2008/05/27/thabo-mbeki-the-president-of-south-africa-leaves-for-japan-to-attend-a-conference-on-african-development-despite-concerns-about-the-2008.md)
 _Context: 2008 South African riots, Africa, Japan, President, Thabo Mbeki_

@@ -25,7 +25,7 @@ US and Afghan negotiators finalise a long-term partnership deal governing the US
 The US Army has investigated 56 soldiers in Afghanistan on suspicion of using or distributing heroin, morphine or other opiates during 2010 and 2011, newly-obtained data shows. Eight soldiers died of drug overdoses during that time.
 
 ### [Russia and China begin naval exercises in the Yellow Sea. ](/news/2012/04/22/russia-and-china-begin-naval-exercises-in-the-yellow-sea.md)
-_Context: Chinese, Russia, Yellow Sea, naval exercise_
+_Context: China, Russia, Yellow Sea, naval exercise_
 
 ### [Voters in France go to the polls for the first round of the French presidential election with Francois Hollande of the French Socialist Party and incumbent President Nicolas Sarkozy through to the second round. ](/news/2012/04/22/voters-in-france-go-to-the-polls-for-the-first-round-of-the-french-presidential-election-with-franassois-hollande-of-the-french-socialist-par.md)
 Socialist champion Francois Hollande stamped his authority on the French presidential race Sunday, winning the first round of polling and setting up a May 6 run-off with incumbent Nicolas Sarkozy.

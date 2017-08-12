@@ -1,7 +1,7 @@
 ## [2005-08-26](/news/2005/08/26/index.md)
 
 ### [ 120,000 people are expected at the Jean Michel Jarre's concert ''Space of Freedom'' in Gdansk Shipyard in Poland commemorating 25th anniversary of the creation of "Solidarity" trade union; live at 20:00 CET at ](/news/2005/08/26/120-000-people-are-expected-at-the-jean-michel-jarre-s-concert-space-of-freedom-in-gdaask-shipyard-in-poland-commemorating-25th-annive.md)
-_Context: Gdansk Shipyard, Jean Michel Jarre, Poland, Solidarity, Space of Freedom_
+_Context: Gdansk Shipyard, Jean Michel Jarre, Polish, Solidarity, Space of Freedom_
 
 ### [ The High Court of Fiji overturns that country's sodomy laws after hearing the case of one Australian and one native Fijian who were previously sentenced to two years in jail under the legislation ](/news/2005/08/26/the-high-court-of-fiji-overturns-that-country-s-sodomy-laws-after-hearing-the-case-of-one-australian-and-one-native-fijian-who-were-previou.md)
 _Context: Australian, High Court of Fiji, sodomy laws_

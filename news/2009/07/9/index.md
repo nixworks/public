@@ -4,7 +4,7 @@
 _Context: China, Yunnan_
 
 ### [  Chinese President Hu Jintao returns to Beijing and chairs Politburo Meeting, vowing "severe punishment" on culprits as the social order in rmqi is being restored. ](/news/2009/07/9/chinese-president-hu-jintao-returns-to-beijing-and-chairs-politburo-meeting-vowing-severe-punishment-on-culprits-as-the-social-order-in.md)
-_Context: Beijing, Chinese, Chinese President, Hu Jintao, Politburo Standing Committee, Urumqi, riots_
+_Context: Beijing, China, Chinese President, Hu Jintao, Politburo Standing Committee, Urumqi, riots_
 
 ### [  Tehran Governor Morteza Tamaddon vows to "smash" any new protests. ](/news/2009/07/9/tehran-governor-morteza-tamaddon-vows-to-smash-any-new-protests.md)
 _Context: Tehran, protests against the regime_

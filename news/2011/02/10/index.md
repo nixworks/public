@@ -43,7 +43,7 @@ India and Pakistan haveagreed to formally resume peace talks that were broken of
 _Context: Abu Bakar Bashir, Indonesia, Jakarta, Muslim, terrorism_
 
 ### [Blind Chinese activist Chen Guangcheng says, in a secretly shot video, that he is still under house arrest after being released from prison. ](/news/2011/02/10/blind-chinese-activist-chen-guangcheng-says-in-a-secretly-shot-video-that-he-is-still-under-house-arrest-after-being-released-from-prison.md)
-_Context: Chen Guangcheng, Chinese, house arrest_
+_Context: Chen Guangcheng, China, house arrest_
 
 ### [The British House of Commons votes 234-22 against prisoners receiving the right to vote. ](/news/2011/02/10/the-british-house-of-commons-votes-234-22-against-prisoners-receiving-the-right-to-vote.md)
 The Commons overwhelmingly votes to keep the ban on prisoners voting, in defiance of a ruling by the European Court of Human Rights.

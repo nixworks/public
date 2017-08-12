@@ -13,7 +13,7 @@ _Context: United States Senate, automaker, offshore_
 _Context: Constitution, People's Council, Turkmenistan_
 
 ### [ During mission Shenzhou 7, Zhai Zhigang successfully performs the first spacewalk by a Chinese astronaut, as China becomes the third country to carry out extra-vehicular activity independently. ](/news/2008/09/27/during-mission-shenzhou-7-zhai-zhigang-successfully-performs-the-first-spacewalk-by-a-chinese-astronaut-as-china-becomes-the-third-countr.md)
-_Context: Chinese, Shenzhou 7, Zhai Zhigang, astronaut, extra-vehicular activity_
+_Context: China, Shenzhou 7, Zhai Zhigang, astronaut, extra-vehicular activity_
 
 ### [ In Australian football, the Hawthorn Football Club defeats the Geelong Football Club in the 2008 AFL Grand Final by 115 points to 89. ](/news/2008/09/27/in-australian-football-the-hawthorn-football-club-defeats-the-geelong-football-club-in-the-2008-afl-grand-final-by-115-points-to-89.md)
 Hawthorn won its first AFL premiership for 17 years at the MCG, emphatically toppling the Cats by 26 points.

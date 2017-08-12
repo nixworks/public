@@ -37,7 +37,7 @@ _Context: Iraq, suicide bombing_
 _Context: Philippines, Zamboanga City, Zamboanga International Airport_
 
 ### [ Hu Jintao, the President of the People's Republic of China calls for resumption of official talks between mainland China and Taiwan in a meeting with Wu Po-hsiung, the Chairman of Taiwan's ruling party the Kuomintang. ](/news/2008/05/29/hu-jintao-the-president-of-the-people-s-republic-of-china-calls-for-resumption-of-official-talks-between-mainland-china-and-taiwan-in-a-me.md)
-_Context: Chinese, Chinese President, Cross-Strait relations, Hu Jintao, Kuomintang (Chinese Nationalist Party), Taiwan, Wu Po-hsiung_
+_Context: China, Chinese President, Cross-Strait relations, Hu Jintao, Kuomintang (Chinese Nationalist Party), Taiwan, Wu Po-hsiung_
 
 ### [ Twenty-six people are dead and fifty-one missing as a result of snowstorms in eastern Mongolia. ](/news/2008/05/29/twenty-six-people-are-dead-and-fifty-one-missing-as-a-result-of-snowstorms-in-eastern-mongolia.md)
 _Context: Mongolia, snowstorms_

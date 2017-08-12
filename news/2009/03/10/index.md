@@ -16,10 +16,10 @@ _Context: Baghdad, Iraq, suicide bombing_
 Two man have been arrested amid widespread condemnation of the murder of a policeman in Northern Ireland.
 
 ### [ Tibet's Central Administration claims that China's accusations of the Dalai Lama's "genocide" are "fabricated." ](/news/2009/03/10/tibet-s-central-administration-claims-that-china-s-accusations-of-the-dalai-lama-s-genocide-are-fabricated.md)
-_Context: Central Tibetan Administration, Chinese, Dalai Lama, Tibet Autonomous Region, genocide_
+_Context: Central Tibetan Administration, China, Dalai Lama, Tibet Autonomous Region, genocide_
 
 ### [ China disputes that its ships illegally harassed USNS ''Impeccable'' in the South China Sea. ](/news/2009/03/10/china-disputes-that-its-ships-illegally-harassed-usns-impeccable-in-the-south-china-sea.md)
-_Context: ''Impeccable'', Chinese, South China Sea, USNS, ship_
+_Context: ''Impeccable'', China, South China Sea, USNS, ship_
 
 ### [ North Korea readmits South Koreans into the Kaesong Industrial Region. ](/news/2009/03/10/north-korea-readmits-south-koreans-into-the-kaesong-industrial-region.md)
 North Korea on Tuesday allowed South Koreans back into a lucrative factory just across the border, a day after the reclusive state accused its neighbor and the United States of threatening war.

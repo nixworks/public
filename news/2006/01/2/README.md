@@ -4,7 +4,7 @@
 _Context: Microsoft Windows, Windows security vulnerability, e-mail, exploits, instant messaging, unofficial patch, website_
 
 ### [ Russia-Ukraine gas dispute: Countries across Europe report reductions in gas supplies after Russia disconnected supplies to Ukraine yesterday. Russia accuses Ukraine of stealing 100 million cubic metres of gas yesterday from pipelines transiting the country; Ukraine denies this but has previously claimed the right to 15% of the gas as a transit toll. Hungary reports supplies are down by 40%, France and Italy by 30%, and Poland by 14%. Germany, Russia's principal customer, also reports reductions. Russian supplier Gazprom says that it will increase supplies and return them to normal by Tuesday night. ](/news/2006/01/2/russia-ukraine-gas-dispute-p-countries-across-europe-report-reductions-in-gas-supplies-after-russia-disconnected-supplies-to-ukraine-yester.md)
-_Context: Gazprom, Hungary, Poland, Ukraine, restarts_
+_Context: Gazprom, Hungary, Polish, Ukraine, restarts_
 
 ### [ Thirteen U.S. coal miners are trapped after an underground explosion in Upshur County, West Virginia. ](/news/2006/01/2/thirteen-u-s-coal-miners-are-trapped-after-an-underground-explosion-in-upshur-county-west-virginia.md)
 Get the latest breaking news across the U.S. on ABCNews.com

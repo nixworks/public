@@ -25,7 +25,7 @@ Thousands of people have taken to the streets of Kuala Lumpur in protest at laws
 _Context: Venezuela_
 
 ### [ Chinese hackers target the website of the Melbourne International Film Festival for a second time as Uyghur leader Rebiya Kadeer is to visit the country. ](/news/2009/08/1/chinese-hackers-target-the-website-of-the-melbourne-international-film-festival-for-a-second-time-as-uyghur-leader-rebiya-kadeer-is-to-visi.md)
-_Context: Chinese, Melbourne International Film Festival, Rebiya Kadeer, Uyghur_
+_Context: China, Melbourne International Film Festival, Rebiya Kadeer, Uyghur_
 
 ### [ North Korea says a South Korean fishing boat it seized "illegally" entered its waters. ](/news/2009/08/1/north-korea-says-a-south-korean-fishing-boat-it-seized-illegally-entered-its-waters.md)
 _Context: North Korea, South Korea_

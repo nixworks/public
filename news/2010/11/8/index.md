@@ -31,7 +31,7 @@ Australian airline Qantas says it is keeping its Airbus A380s grounded for furth
 _Context: DHL, Greek, Yemen bomb attacks, parcel bomb_
 
 ### [A government conservation campaign, and possible hoarding by state oil companies, causes a severe shortage on diesel fuel in the People's Republic of China, disrupting industry and commerce. ](/news/2010/11/8/a-government-conservation-campaign-and-possible-hoarding-by-state-oil-companies-causes-a-severe-shortage-on-diesel-fuel-in-the-people-s-re.md)
-_Context: Chinese, diesel fuel_
+_Context: China, diesel fuel_
 
 ### [At least 120 people are tested for cholera in the capital of Haiti, Port-au-Prince. ](/news/2010/11/8/at-least-120-people-are-tested-for-cholera-in-the-capital-of-haiti-port-au-prince.md)
 _Context: Haiti, Port-au-Prince, worst epidemic of cholera_
@@ -85,7 +85,7 @@ _Context: Australian Prime Minister, Constitution, Indigenous, Julia Gillard, re
 _Context: Ba Ria-Vung Tau Province, Leiolepis ngovantrii, Vietnam Academy of Science and Technology, cloning_
 
 ### [Chinese Premier Wen Jiabao unveils pictures of the moon's Sinus Iridum, or Bay of Rainbows, taken during China's Chang`e-2 lunar probe mission. ](/news/2010/11/8/chinese-premier-wen-jiabao-unveils-pictures-of-the-moon-s-sinus-iridum-or-bay-of-rainbows-taken-during-china-s-chang-e-2-lunar-probe-missi.md)
-_Context: Chang'e 2, Chinese, Moon, Sinus Iridum, Wen Jiabao_
+_Context: Chang'e 2, China, Moon, Sinus Iridum, Wen Jiabao_
 
 ## [Previous Day...](/news/2010/11/7/index.md)
 

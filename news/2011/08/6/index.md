@@ -16,7 +16,7 @@ Among the dead were elite Navy Seal commandos from the broader unit that killed 
 Police are on the streets of Tottenham, north London, where overnight riots saw petrol bombs thrown at officers and patrol cars and buildings set alight.
 
 ### [500,000 people are evacuated in eastern China as Typhoon Muifa approaches. ](/news/2011/08/6/500-000-people-are-evacuated-in-eastern-china-as-typhoon-muifa-approaches.md)
-_Context: Chinese, Typhoon Muifa_
+_Context: China, Typhoon Muifa_
 
 ### [Asylum seekers at the Christmas Island Immigration Reception and Processing Centre off the Indian Ocean coast of Western Australia start a hunger strike in protest at their deportation to Malaysia. ](/news/2011/08/6/asylum-seekers-at-the-christmas-island-immigration-reception-and-processing-centre-off-the-indian-ocean-coast-of-western-australia-start-a-h.md)
 _Context: Christmas Island Immigration Reception and Processing Centre, Indian Ocean, Malaysia, Western Australia, asylum seeker, hunger strike_

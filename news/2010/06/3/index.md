@@ -10,7 +10,7 @@ South Africa latest country to express anger over Israeli attack on Gaza aid con
 Heavy fighting between government forces and Islamist militants in Mogadishu kills at least 28 leaves scores wounded.
 
 ### [The Chinese newspaper ''Southern Metropolitan Daily'' publishes a cartoon referring to the Tiananmen Square protests of 1989; the image is later removed. ](/news/2010/06/3/the-chinese-newspaper-southern-metropolitan-daily-publishes-a-cartoon-referring-to-the-tiananmen-square-protests-of-1989-the-image-is-l.md)
-_Context: Chinese, Tiananmen Square protests of 1989_
+_Context: China, Tiananmen Square protests of 1989_
 
 ### [ITV postpones a second night of its soap opera ''Coronation Street'' due to a storyline which had similar themes to the Cumbria shootings. ](/news/2010/06/3/itv-postpones-a-second-night-of-its-soap-opera-coronation-street-due-to-a-storyline-which-had-similar-themes-to-the-cumbria-shootings.md)
 _Context: Coronation Street, Cumbria shootings, ITV_

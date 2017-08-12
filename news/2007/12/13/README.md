@@ -22,7 +22,7 @@ _Context: Democratic Republic of the Congo, Kivu conflict, Laurent Nkunda_
 _Context: Assam, Chungajan, India, Rajdhani Express_
 
 ### [ ZANU-PF, the ruling party in Zimbabwe, endorses incumbent Robert Mugabe for the 2008 presidential election set for March. ](/news/2007/12/13/zanuapf-the-ruling-party-in-zimbabwe-endorses-incumbent-robert-mugabe-for-the-2008-presidential-election-set-for-march.md)
-_Context: Robert Mugabe, ZANU-PF, Zimbabwe, re-elects, run-off presidential election_
+_Context: Robert Mugabe, ZANU-PF, Zimbabwe, re-election, run-off presidential election_
 
 ### [ Lucy Kibaki, the wife of Kenyan President Mwai Kibaki, slaps a government official during independence day celebrations after he accidentally referred to her as "Mama Lucy Wambui," widely rumored to be the President's mistress. ](/news/2007/12/13/lucy-kibaki-the-wife-of-kenyan-president-mwai-kibaki-slaps-a-government-official-during-independence-day-celebrations-after-he-accidental.md)
 _Context: Kenya, Lucy Kibaki, Mama Lucy Wambui, Mwai Kibaki, President_

@@ -28,7 +28,7 @@ Brazilian police seek charges against US oil company Chevron and drilling contra
 An Australian teenager who stabbed an Indian student to death in an attack that sparked a diplomatic row with India is jailed for 13 years.
 
 ### [Teargas is fired and protesters arrested in Haimen, southern China, in a demonstration against the construction of a power plant. ](/news/2011/12/22/teargas-is-fired-and-protesters-arrested-in-haimen-southern-china-in-a-demonstration-against-the-construction-of-a-power-plant.md)
-_Context: Chinese, Haimen, teargas_
+_Context: China, Haimen, teargas_
 
 ### [Russian President Dmitry Medvedev proposes political reforms at his final state-of-the-nation address. ](/news/2011/12/22/russian-president-dmitry-medvedev-proposes-political-reforms-at-his-final-state-of-the-nation-address.md)
 Simplifying the registration of political parties and presidential candidates, and returning to direct voting to elect regional governors are among the key reforms proposed by President Medvedev in his annual address to Russia’s Federal Assembly.

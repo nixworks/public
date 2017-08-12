@@ -25,7 +25,7 @@ Thousands of others were stranded on rooftops, surrounded by water left by the t
 _Context: Colorado, Mary Fallin, Oklahoma!, Wildfire, governor, state of emergency_
 
 ### [A bus plunges into a ravine in the Xinjiang region in western China killing at least 16 people and with 24 people injured. ](/news/2011/03/11/a-bus-plunges-into-a-ravine-in-the-xinjiang-region-in-western-china-killing-at-least-16-people-and-with-24-people-injured.md)
-_Context: Chinese, Xinjiang, ravine_
+_Context: China, Xinjiang, ravine_
 
 ### [Mount Karangetang erupts in Sulawesi, Indonesia, forcing local evacuations. ](/news/2011/03/11/mount-karangetang-erupts-in-sulawesi-indonesia-forcing-local-evacuations.md)
 One of Indonesia’s most active volcanoes has erupted, sending lava and searing gas clouds tumbling down its slopes. Volcanology official Agus Budianto said on Friday that authorities were still trying

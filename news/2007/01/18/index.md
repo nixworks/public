@@ -7,7 +7,7 @@ The Senate passed a new ethics reform bill on Thursday night, intended to change
 _Context: British House of Commons, Celebrity Big Brother 2007, Chancellor of the Exchequer, Gordon Brown, India, PS, Prime Minister, Shilpa Shetty, Tony Blair_
 
 ### [ The United States government reports that the People's Republic of China successfully tested a missile that destroyed an orbiting satellite of the Dong Fang Hong program. ](/news/2007/01/18/the-united-states-government-reports-that-the-people-s-republic-of-china-successfully-tested-a-missile-that-destroyed-an-orbiting-satellite.md)
-_Context: Chinese, Dong Fang Hong, United States, ballistic missile, released an object into orbit_
+_Context: China, Dong Fang Hong, United States, ballistic missile, released an object into orbit_
 
 ### [ The longest reigning minister-president in 200 years in Bavaria, Edmund Stoiber, quits his position as minister-president and chairman of the CSU. Stoiber held the first position from 1993 and the second position from 1999. ](/news/2007/01/18/the-longest-reigning-minister-president-in-200-years-in-bavaria-edmund-stoiber-quits-his-position-as-minister-president-and-chairman-of-t.md)
 _Context: 1993, 1999, Bavaria, CSU, Edmund Stoiber_

@@ -46,7 +46,7 @@ Jamaicans head to the polls on the tourism-dependent Caribbean island today, wit
 The Rajya Sabha broke up for recess on Thursday without voting on a bill to create a Lokpal before a deadline set by activist Anna Hazare, who has led a campaign for the measure using hunger strikes.
 
 ### [Poland announces an amnesty for illegal immigrants from January 1, 2012. ](/news/2011/12/29/poland-announces-an-amnesty-for-illegal-immigrants-from-january-1-2012.md)
-_Context: Poland, amnesty, illegal migrants_
+_Context: Polish, amnesty, illegal migrants_
 
 ## [Previous Day...](/news/2011/12/28/index.md)
 

@@ -13,7 +13,7 @@ Additional rules may be needed to monitor growth in Big Data, or collection of h
 _Context: Beijing, northern China_
 
 ### [Polish protesters block the parliament in order to prevent the possibility of legalizing restrictions on press freedom. ](/news/2016/12/19/polish-protesters-block-the-parliament-in-order-to-prevent-the-possibility-of-legalizing-restrictions-on-press-freedom.md)
-_Context: Poland, Poland's parliament, press freedom_
+_Context: Poland's parliament, Polish, press freedom_
 
 ### [A court in Paris finds International Monetary Fund Managing Director Christine Lagarde guilty of negligence in a 404 million euro "misuse of public funds" case. The court ruled that Lagarde won't be fined, won't serve any jail time, or receive a criminal record. The IMF Executive Board "looks forward to continuing to work with" her. ](/news/2016/12/19/a-court-in-paris-finds-international-monetary-fund-managing-director-christine-lagarde-guilty-of-negligence-in-a-404-million-euro-misuse-of.md)
 Christine Lagarde, the head of the International Monetary Fund, has been found guilty of negligence over her handling of a long-running French fraud case.

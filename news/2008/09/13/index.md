@@ -13,10 +13,10 @@ A tropical storm warning remains in effect from east of sargent texas eastward t
 _Context: Afghanistan's, Lowgar Province_
 
 ### [ A mudslide caused by an illegal mine in Shanxi province in China kills 254 people. ](/news/2008/09/13/a-mudslide-caused-by-an-illegal-mine-in-shanxi-province-in-china-kills-254-people.md)
-_Context: Chinese, Shanxi province, deadly landslide_
+_Context: China, Shanxi province, deadly landslide_
 
 ### [ A bus crashes into a 100 m gorge in Sichuan, China, killing 51. ](/news/2008/09/13/a-bus-crashes-into-a-100-m-gorge-in-sichuan-china-killing-51.md)
-_Context: Chinese, Sichuan_
+_Context: China, Sichuan_
 
 ### [ The All Blacks defeat Australia (28-24) to win the 2008 Tri Nations Series at the Suncorp Stadium in Brisbane, Australia. ](/news/2008/09/13/the-all-blacks-defeat-australia-28a24-to-win-the-2008-tri-nations-series-at-the-suncorp-stadium-in-brisbane-australia.md)
 _Context: 2008 Tri Nations Series, All Blacks, Australia, Australia, Brisbane, Suncorp Stadium_

@@ -25,7 +25,7 @@ _Context: Bangladesh, Khaleda Zia, Prime Minister, Supreme Court, bail, case, ex
 _Context: Antonov An-26, DR Congo, Kinshasa, cargo plane, crashes into a residential area_
 
 ### [ North Korea and South Korea agree to seek talks with the People's Republic of China and the United States to reach a permanent peace agreement to formally end the Korean War. ](/news/2007/10/4/north-korea-and-south-korea-agree-to-seek-talks-with-the-people-s-republic-of-china-and-the-united-states-to-reach-a-permanent-peace-agreem.md)
-_Context: Chinese, Korean War, North Korea, South Korea, U.S._
+_Context: China, Korean War, North Korea, South Korea, U.S._
 
 ### [ Malcolm Turnbull, the Australian Federal Environment Minister, approves the Gunns Tamar Valley Pulp Mill but with an extensive list of conditions. ](/news/2007/10/4/malcolm-turnbull-the-australian-federal-environment-minister-approves-the-gunns-tamar-valley-pulp-mill-but-with-an-extensive-list-of-cond.md)
 _Context: Australia, Gunns, Malcolm Turnbull, Tamar Valley Pulp Mill_

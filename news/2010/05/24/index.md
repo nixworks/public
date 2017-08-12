@@ -25,7 +25,7 @@ Fierce fighting erupts as Jamaican security forces hunting an alleged drugs lord
 _Context: Beijing_
 
 ### [The second round of the U.S.-China Strategic and Economic Dialogue begins in Beijing, China. ](/news/2010/05/24/the-second-round-of-the-u-s-achina-strategic-and-economic-dialogue-begins-in-beijing-china.md)
-_Context: Beijing, Chinese, U.S.-China Strategic and Economic Dialogue_
+_Context: Beijing, China, U.S.-China Strategic and Economic Dialogue_
 
 ### [The assassination of Bashar al-Ageidi from the election-winning Iraqiya bloc of Ayad Allawi takes place outside his house in Mosul. ](/news/2010/05/24/the-assassination-of-bashar-al-ageidi-from-the-election-winning-iraqiya-bloc-of-ayad-allawi-takes-place-outside-his-house-in-mosul.md)
 An Iraqi MP from the secular Iraqiya bloc is shot and killed by gunmen in the northern city of Mosul.

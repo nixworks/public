@@ -4,7 +4,7 @@
 _Context: Baghdad, Iraq War, Sadr City, Sectarian war in Iraq, Shi'a, series of car bombs and mortar attacks_
 
 ### [ Lech Kaczynski, the President of Poland, announces three days of national mourning for the twenty-three victims of the mining disaster at the Halemba mine in Ruda Slaska, Poland. ](/news/2006/11/23/lech-kaczyaski-the-president-of-poland-announces-three-days-of-national-mourning-for-the-twenty-three-victims-of-the-mining-disaster-at.md)
-_Context: Halemba, Lech Kaczynski, Poland, President, Ruda Slaska_
+_Context: Halemba, Lech Kaczynski, Polish, President, Ruda Slaska_
 
 ### [ Somali Civil War: Ethiopia has made preparations for a conflict with the Islamic Courts Union, whom control much of southern Somalia, Prime Minister Meles Zenawi has told MPs. ](/news/2006/11/23/somali-civil-war-ethiopia-has-made-preparations-for-a-conflict-with-the-islamic-courts-union-whom-control-much-of-southern-somalia-prime.md)
 _Context: Ethiopia, Islamic Courts Union, Meles Zenawi, Somalia, War in Somalia_

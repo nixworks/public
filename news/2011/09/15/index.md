@@ -43,7 +43,7 @@ _Context: UNICEF, child mortality_
 _Context: Indian Mujahideen, U.S., terrorism_
 
 ### [The People's Republic of China sentences four people to death in the Xinjiang region following threats to crack down on terrorism in the far-western region. ](/news/2011/09/15/the-people-s-republic-of-china-sentences-four-people-to-death-in-the-xinjiang-region-following-threats-to-crack-down-on-terrorism-in-the-far.md)
-_Context: Chinese, Xinjiang, terrorism_
+_Context: China, Xinjiang, terrorism_
 
 ### [Figures from the United Kingdom's Ministry of Justice indicate that three quarters of those charged with offences relating to the riots which occurred in August had previous criminal convictions. One quarter had committed more than ten previous offences. ](/news/2011/09/15/figures-from-the-united-kingdom-s-ministry-of-justice-indicate-that-three-quarters-of-those-charged-with-offences-relating-to-the-riots-whic.md)
 One in four people charged over the riots in English cities last month had committed more than 10 previous offences, Ministry of Justice figures show.

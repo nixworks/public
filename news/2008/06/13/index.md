@@ -31,7 +31,7 @@ _Context: Group of Eight, Japan, Osaka, finance minister_
 _Context: Islamabad, Pakistan, Pervez Musharraf, President_
 
 ### [ The People's Republic of China and Taiwan agree to regular civil aviation flights across the Taiwan Strait for the first time since 1949 with flights limited to weekend charters. ](/news/2008/06/13/the-people-s-republic-of-china-and-taiwan-agree-to-regular-civil-aviation-flights-across-the-taiwan-strait-for-the-first-time-since-1949-wi.md)
-_Context: 1949, Chinese, Taiwan, Taiwan Strait, civil aviation_
+_Context: 1949, China, Taiwan, Taiwan Strait, civil aviation_
 
 ### [ Irish voters reject the Treaty of Lisbon in a referendum, thus putting into question the reform programme of the European Union. ](/news/2008/06/13/irish-voters-reject-the-treaty-of-lisbon-in-a-referendum-thus-putting-into-question-the-reform-programme-of-the-european-union.md)
 Irish voters have rejected the Lisbon Treaty by 110,000 votes - a margin of 53.4% to 46.6%.

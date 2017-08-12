@@ -28,7 +28,7 @@ A MAJOR economic forum aimed at generating new links and ideas to aid Ireland&rs
 _Context: Amazon rainforest, Brazil, Government of Brazil, sugarcane_
 
 ### [ North Korean leader Kim Jong-il tells a visiting envoy of Chinese President Hu Jintao he is willing to engage in talks on his country's nuclear programme. ](/news/2009/09/18/north-korean-leader-kim-jong-il-tells-a-visiting-envoy-of-chinese-president-hu-jintao-he-is-willing-to-engage-in-talks-on-his-country-s-nuc.md)
-_Context: Chinese, Chinese President, Hu Jintao, Kim Jong-il, North Korea_
+_Context: China, Chinese President, Hu Jintao, Kim Jong-il, North Korea_
 
 ### [ Uruguayan President Tabare Vazquez calls for an integrated Mercosur with a greater number of countries to make it more competitive overseas, but also demands greater balance inside the group among members. ](/news/2009/09/18/uruguayan-president-tabara-c-va-zquez-calls-for-an-integrated-mercosur-with-a-greater-number-of-countries-to-make-it-more-competitive-overse.md)
 Uruguayan president Tabare Vazquez called for an integrated Mercosur with a greater number of countries to make it more competitive overseas, but also demanded greater balance inside the group among members.
@@ -49,7 +49,7 @@ At least 33 people have been killed in a suspected suicide bomb attack in northw
 _Context: Australia, Minister for Indigenous Health and Aged Care, Nicola Roxon, Therapeutic Goods Administration, swine flu, vaccine_
 
 ### [ The ''Raptorex kriegsteini'', a smaller version of the ''Tyrannosaurus rex'', is discovered in northeastern China. ](/news/2009/09/18/the-raptorex-kriegsteini-a-smaller-version-of-the-tyrannosaurus-rex-is-discovered-in-northeastern-china.md)
-_Context: Chinese, Raptorex kriegsteini, Tyrannosaurus rex_
+_Context: China, Raptorex kriegsteini, Tyrannosaurus rex_
 
 ### [ The African Union says a twin bombing that killed 17 peacekeepers on its base in Mogadishu, Somalia, was conducted in UN marked cars. ](/news/2009/09/18/the-african-union-says-a-twin-bombing-that-killed-17-peacekeepers-on-its-base-in-mogadishu-somalia-was-conducted-in-un-marked-cars.md)
 _Context: African Union, Mogadishu, Somalia, United Nations, twin bombing_

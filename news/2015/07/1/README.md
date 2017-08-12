@@ -16,7 +16,7 @@ The measure passed by an overwhelming margin at the denomination&#x27;s national
 _Context: Greek, Greek government-debt crisis, International Monetary Fund_
 
 ### [The World Bank urges the People's Republic of China to undertake financial reforms to keep economic growth on track. ](/news/2015/07/1/the-world-bank-urges-the-people-s-republic-of-china-to-undertake-financial-reforms-to-keep-economic-growth-on-track.md)
-_Context: Chinese, World Bank_
+_Context: China, World Bank_
 
 ### [The death toll from yesterday's crash in the Indonesian city of Medan rises to 141. ](/news/2015/07/1/the-death-toll-from-yesterday-s-crash-in-the-indonesian-city-of-medan-rises-to-141.md)
 Rescue workers still searching for victims on the ground after Hercules military aircraft crashed into Sumatran city of Medan

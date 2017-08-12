@@ -37,7 +37,7 @@ _Context: Airbus, Indonesia, Qantas, Rolls-Royce_
 _Context: 2011 Puyehue-Cordon Caulle eruption, Australia, New Zealand, Tasmania_
 
 ### [Officials from the People's Republic of China warn that the 2011 China floods will have a negative impact on food prices. ](/news/2011/06/22/officials-from-the-people-s-republic-of-china-warn-that-the-2011-china-floods-will-have-a-negative-impact-on-food-prices.md)
-_Context: Chinese, heavy flood_
+_Context: China, heavy flood_
 
 ### [The death toll from RusAir Flight 9605 in Petrozavodsk, Russia, rises to 45. ](/news/2011/06/22/the-death-toll-from-rusair-flight-9605-in-petrozavodsk-russia-rises-to-45.md)
 _Context: Petrozavodsk, RusAir Flight 9605, Russia_

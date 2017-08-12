@@ -64,7 +64,7 @@ A man suspected of involvement in the 2003 killing of Serbian Prime Minister Zor
 _Context: Alabama, Barack Obama, Birmingham, Islamic Movement of Uzbekistan, President, Ulugbek Kodirov, Uzbek_
 
 ### [Chinese Premier Wen Jiabao pledges greater freedoms in Tibet, hours after two protesters are killed demanding the end of Chinese rule in the region; seven officials are also sacked for "neglecting state duties". ](/news/2012/02/10/chinese-premier-wen-jiabao-pledges-greater-freedoms-in-tibet-hours-after-two-protesters-are-killed-demanding-the-end-of-chinese-rule-in-the.md)
-_Context: Chinese, Tibet, Wen Jiabao_
+_Context: China, Tibet, Wen Jiabao_
 
 ### [Chinese dissident Zhu Yufi is jailed for seven years for "inciting subversion", after publishing a poem in support of freedom. ](/news/2012/02/10/chinese-dissident-zhu-yufi-is-jailed-for-seven-years-for-inciting-subversion-after-publishing-a-poem-in-support-of-freedom.md)
 A court in eastern China has sentenced dissident writer Zhu Yufu to seven years in jail for inciting subversion, rights groups say.

@@ -19,10 +19,10 @@ Armed men killed sevensoldiers and wounded 12 others in clashes in the southern 
 _Context: Kaduqli, South Kordofan, South Sudan, Sudan_
 
 ### [Around 100 people are detained after ethnic unrest in the Inner Mongolia region of China. ](/news/2011/06/6/around-100-people-are-detained-after-ethnic-unrest-in-the-inner-mongolia-region-of-china.md)
-_Context: 2011 Xilinhot incident, Chinese, Inner Mongolia_
+_Context: 2011 Xilinhot incident, China, Inner Mongolia_
 
 ### [North Korea is to establish a special economic zone on two islands close to the Chinese border. ](/news/2011/06/6/north-korea-is-to-establish-a-special-economic-zone-on-two-islands-close-to-the-chinese-border.md)
-_Context: Chinese, North Korea_
+_Context: China, North Korea_
 
 ### [Bloomberg reports Italian company Prada SpA is planning an initial public offering for the Hong Kong Stock Exchange. ](/news/2011/06/6/bloomberg-reports-italian-company-prada-spa-is-planning-an-initial-public-offering-for-the-hong-kong-stock-exchange.md)
 _Context: Bloomberg, Hong Kong Stock Exchange, IPO, Italian, Prada_
@@ -37,7 +37,7 @@ Hackers calling themselves Lulz Security said on Monday that they had broken int
 Apple&#039;s new cloud music service has been criticised by sections of the music industry for encouraging piracy by allowing people to essentially legitimise their pirated music collections.
 
 ### [At least 21 people die as two coal mines in the People's Republic of China flood. ](/news/2011/06/6/at-least-21-people-die-as-two-coal-mines-in-the-people-s-republic-of-china-flood.md)
-_Context: Chinese, coal mine_
+_Context: China, coal mine_
 
 ### [Test results will confirm whether the German ''E. Coli'' outbreak came from vegetable sprouts grown in the Uelzen area. ](/news/2011/06/6/test-results-will-confirm-whether-the-german-e-coli-outbreak-came-from-vegetable-sprouts-grown-in-the-uelzen-area.md)
 _Context: E. coli blamed for 46 deaths, Germany, Uelzen_

@@ -13,7 +13,7 @@ Demonstrations involving around 1000 people in the capital are halted by securit
 After government cuts petrol subsidies in South American nation, drivers announce open-ended protest against price hike.
 
 ### [At least seven people are killed and fifteen injured in a 100-vehicle pile up in southwest China. ](/news/2010/12/27/at-least-seven-people-are-killed-and-fifteen-injured-in-a-100-vehicle-pile-up-in-southwest-china.md)
-_Context: Chinese_
+_Context: China_
 
 ### [A Seoul-based radio station targeting North Koreans reports that a train carrying birthday gifts for North Korean future leader Kim Jong-un derailed, in what it describes as a possible act of revolt by opponents. South Korea's National Intelligence Service (NIS) states that it is checking the report. ](/news/2010/12/27/a-seoul-based-radio-station-targeting-north-koreans-reports-that-a-train-carrying-birthday-gifts-for-north-korean-future-leader-kim-jong-un.md)
 _Context: Kim Jong-un, North Korea, Seoul, South Korea, South Korea's intelligence agency_

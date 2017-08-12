@@ -28,7 +28,7 @@ _Context: Prince Saud al-Faisal, Saudi Arabia, U.S._
 _Context: Kazakhstan, Taldykorgan, drug abuse, fire_
 
 ### [ Hundreds of people protest in Hong Kong over alleged beatings of its journalists in mainland China covering unrest in Xinjiang. ](/news/2009/09/13/hundreds-of-people-protest-in-hong-kong-over-alleged-beatings-of-its-journalists-in-mainland-china-covering-unrest-in-xinjiang.md)
-_Context: Chinese, Hong Kong, Xinjiang, riots_
+_Context: China, Hong Kong, Xinjiang, riots_
 
 ### [ At least 6 people die in a fall down an elevator shaft of a skyscraper under construction in Hong Kong. ](/news/2009/09/13/at-least-6-people-die-in-a-fall-down-an-elevator-shaft-of-a-skyscraper-under-construction-in-hong-kong.md)
 _Context: Hong Kong_

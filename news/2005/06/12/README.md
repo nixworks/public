@@ -24,7 +24,7 @@ _Context: Gloria Arroyo, Philippines, coup, electoral fraud_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ In China, official death toll in the flood in Heilongjiang Province rises to 92 ](/news/2005/06/12/in-china-official-death-toll-in-the-flood-in-heilongjiang-province-rises-to-92.md)
-_Context: Chinese, Heilongjiang, flood_
+_Context: China, Heilongjiang, flood_
 
 ### [ Ethiopian opposition appeals for calm after the last week's protests ](/news/2005/06/12/ethiopian-opposition-appeals-for-calm-after-the-last-week-s-protests.md)
 _Context: Ethiopia_

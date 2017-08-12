@@ -40,7 +40,7 @@ _Context: Japanese government, economic stimulus_
 _Context: BlackBerry, United Arab Emirates_
 
 ### [Premier Wen Jiabao of the People's Republic of China denies reports that China is using its control over minerals crucial to high technology (called "rare earth") as a bargaining chip, especially in a dispute with Japan over Japan's arrest of a Chinese fishing-boat captain ](/news/2010/10/8/premier-wen-jiabao-of-the-people-s-republic-of-china-denies-reports-that-china-is-using-its-control-over-minerals-crucial-to-high-technology.md)
-_Context: Chinese, Japan, Wen Jiabao, rare earth element_
+_Context: China, Japan, Wen Jiabao, rare earth element_
 
 ### [Ajka alumina plant accident in Hungary:2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. ](/news/2010/10/8/ajka-alumina-plant-accident-in-hungary-p2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-orb.md)
 Residents blame aluminium company for toxic spill that killed four people and devastated three villages.

@@ -10,7 +10,7 @@ _Context: 1953 British Mount Everest Expedition, George Lowe_
 Cypriot leaders are set to decide on a new bailout plan as the US central bank plays down the impact of the crisis.
 
 ### [19 miners, who were trapped underground, are rescued from the Rudna mine after a small earthquake hits the heavily industrialized region of Silesia, Poland. ](/news/2013/03/20/19-miners-who-were-trapped-underground-are-rescued-from-the-rudna-mine-after-a-small-earthquake-hits-the-heavily-industrialized-region-of.md)
-_Context: Poland, Rudna mine, Silesia, earthquake, miners_
+_Context: Polish, Rudna mine, Silesia, earthquake, miners_
 
 ### [President of the United States Barack Obama begins a four-day visit to the Middle East, visiting Palestine and Israel. ](/news/2013/03/20/president-of-the-united-states-barack-obama-begins-a-four-day-visit-to-the-middle-east-visiting-palestine-and-israel.md)
 Barack Obama says Israel has &quot;no greater friend&quot; than the US, as he makes his first visit to the country as president.

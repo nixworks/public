@@ -19,7 +19,7 @@ _Context: Capital One, ING Direct_
 Hurricane Irene was bearing down on North Carolina Thursday on track to make landfall in the Outer Banks Saturday afternoon, WRAL meteorologist Mike Maze said. The first signs of the storm could be felt in North Carolina Friday night as tropical storm force winds and heavy rain. 
 
 ### [The Japanese National Police Agency reveals that 90 per cent of cyberattacks on its web site on July 10 came from Internet Protocol addresses in the People's Republic of China. ](/news/2011/08/26/the-japanese-national-police-agency-reveals-that-90-per-cent-of-cyberattacks-on-its-web-site-on-july-10-came-from-internet-protocol-addresse.md)
-_Context: Chinese, Internet Protocol, Japan, cyberattack, police_
+_Context: China, Internet Protocol, Japan, cyberattack, police_
 
 ### [The Associated Press reports that U.S. President Barack Obama's uncle, Onyango Obama, 67, is stopped on suspicion of drunken driving in Framingham, Massachusetts. ](/news/2011/08/26/the-associated-press-reports-that-u-s-president-barack-obama-s-uncle-onyango-obama-67-is-stopped-on-suspicion-of-drunken-driving-in-fram.md)
 President Barack Obama&#39;s uncle was stopped on suspicion of drunken driving in Massachusetts, told police he planned to arrange bail through the White

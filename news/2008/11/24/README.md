@@ -13,7 +13,7 @@ _Context: 2008 Santa Catarina floods, Brazil, Santa Catarina, Southern_
 _Context: Bangladesh, December 18, December 29, Electoral Commission, wins_
 
 ### [ Aftermath of the 2008 South Ossetia war: Georgian Interior Ministry claims "shots were fired" at a convoy including Georgian President Mikheil Saakashvili and Polish President Lech Kaczynski on the border of Georgia and South Ossetia. Several witnesses travelling with the convoy say they heard the automatic gunfire, though it was unclear from which direction it came. Polish Parliament spokesman later comments the incident was "not very serious at all", though "unfortunate" as it put the Polish president in an "awkward" situation.](/news/2008/11/24/aftermath-of-the-2008-south-ossetia-war-p-georgian-interior-ministry-claims-shots-were-fired-at-a-convoy-including-georgian-president-mik.md)
-_Context: 2008 South Ossetia war, Georgian, Lech Kaczynski, Poland, President, President of Georgia, Saakashvili, South Ossetia_
+_Context: 2008 South Ossetia war, Georgian, Lech Kaczynski, Polish, President, President of Georgia, Saakashvili, South Ossetia_
 
 ### [ People's Alliance for Democracy protestors surround Thailand's National Assembly as part of a "final push" against the government. ](/news/2008/11/24/people-s-alliance-for-democracy-protestors-surround-thailand-s-national-assembly-as-part-of-a-final-push-against-the-government.md)
 Thousands of Thai protesters surrounded parliament Monday in an effort to prevent lawmakers from meeting in what they say is their final push in a six-month campaign against the government.

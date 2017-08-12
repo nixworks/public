@@ -4,7 +4,7 @@
 _Context: Federal Open Market Committee, Federal Reserve, U.S., central bank, federal funds rate_
 
 ### [ China declassifies its rare diplomatic files from between 1956 and 1960, including records of the Sino-Soviet split. ](/news/2006/05/10/china-declassifies-its-rare-diplomatic-files-from-between-1956-and-1960-including-records-of-the-sino-soviet-split.md)
-_Context: 1956, 1960, Chinese, Sino-Soviet split_
+_Context: 1956, 1960, China, Sino-Soviet split_
 
 ## [Previous Day...](/news/2006/05/9/index.md)
 

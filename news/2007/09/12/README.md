@@ -25,7 +25,7 @@ _Context: Indian Ocean, Indonesia, September 2007 Sumatra earthquakes, Sumatra, 
 _Context: Mikhail Fradkov's Second Cabinet, Viktor Zubkov, Vladimir Putin_
 
 ### [ Thousands of ex-soldiers are rioting in the People's Republic of China in the cities of Baotou, Wuhan, and Baoji, breaking into cars, destroying classrooms, and setting fires. The riot is the largest protest since the 1989 Tiananmen Square protest. ](/news/2007/09/12/thousands-of-ex-soldiers-are-rioting-in-the-people-s-republic-of-china-in-the-cities-of-baotou-wuhan-and-baoji-breaking-into-cars-destr.md)
-_Context: Chinese_
+_Context: China_
 
 ### [ A cholera epidemic occurs in northern Iraq with 7,000 infected and 10 deaths so far. ](/news/2007/09/12/a-cholera-epidemic-occurs-in-northern-iraq-with-7-000-infected-and-10-deaths-so-far.md)
 Ten people are known to have died and health officials warned that the epidemic could reach Baghdad within weeks.

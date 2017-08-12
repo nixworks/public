@@ -10,7 +10,7 @@ _Context: Canada, HMCS ''Winnipeg'', Norway, Somali pirates, Somalia, U.S., USS 
 _Context: Iran, Iranian-American, Roxana Saberi, espionage, journalism_
 
 ### [ An explosion at a warehouse kills at least 18 people in Hunan Province, China. ](/news/2009/04/18/an-explosion-at-a-warehouse-kills-at-least-18-people-in-hunan-province-china.md)
-_Context: Chinese, Hunan, explosion, warehouse_
+_Context: China, Hunan, explosion, warehouse_
 
 ### [ The Abu Sayyaf Group releases Swiss Red Cross worker Andreas Notter from captivity in the Philippines. ](/news/2009/04/18/the-abu-sayyaf-group-releases-swiss-red-cross-worker-andreas-notter-from-captivity-in-the-philippines.md)
 Islamic rebels in the Philippines freed a Swiss Red Cross worker held hostage for over three months but continued to hold another European captive, security officials said Saturday.

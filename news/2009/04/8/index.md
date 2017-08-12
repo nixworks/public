@@ -4,7 +4,7 @@
 _Context: Earth, Kwangmyongsong-2, North Korea, Pyongyang, communications satellite, orbit_
 
 ### [ Chinese and Russian cyber-spies allegedly infiltrate the United States' electrical grid. ](/news/2009/04/8/chinese-and-russian-cyber-spies-allegedly-infiltrate-the-united-states-electrical-grid.md)
-_Context: Chinese, Russia, U.S., cyber espionage, electrical grid_
+_Context: China, Russia, U.S., cyber espionage, electrical grid_
 
 ### [ Police in Chisinau reclaim Moldova's Parliament from protesters of the Communist Party's absolute majority in the country's legislative election. ](/news/2009/04/8/police-in-chiainau-reclaim-moldova-s-parliament-from-protesters-of-the-communist-party-s-absolute-majority-in-the-country-s-legislative-e.md)
 _Context: Chisinau, Moldova, PCRM, Parliament, Police, absolute majority, election, protesters_
@@ -13,7 +13,7 @@ _Context: Chisinau, Moldova, PCRM, Parliament, Police, absolute majority, electi
 Thai Prime Minister Abhisit Vejjajiva insisted on Wednesday that an Asian summit, postponed once already, would go ahead in Thailand this week despite a mass rally in Bangkok by demonstrators intent on toppling him.
 
 ### [ Venezuelan President Hugo Chavez and Chinese President Hu Jintao meet in Beijing. ](/news/2009/04/8/venezuelan-president-hugo-cha-vez-and-chinese-president-hu-jintao-meet-in-beijing.md)
-_Context: Beijing, Chinese, Chinese President, Hu Jintao, Hugo Chavez, Venezuela, Venezuelan President_
+_Context: Beijing, China, Chinese President, Hu Jintao, Hugo Chavez, Venezuela, Venezuelan President_
 
 ### [ One person is killed and four are injured in a shooting in Temecula, California, United States. ](/news/2009/04/8/one-person-is-killed-and-four-are-injured-in-a-shooting-in-temecula-california-united-states.md)
 _Context: California, Temecula, U.S._

@@ -16,7 +16,7 @@ _Context: Barack Obama, Italian, Italian Prime Minister, President, President-el
 _Context: Australia, Border-Gavaskar Trophy, India, Test_
 
 ### [ An earthquake of magnitude 6.5 on Richter scale shakes western China's Qinghai province. ](/news/2008/11/10/an-earthquake-of-magnitude-6-5-on-richter-scale-shakes-western-china-s-qinghai-province.md)
-_Context: Chinese, Qinghai, Richter scale_
+_Context: China, Qinghai, Richter scale_
 
 ## [Previous Day...](/news/2008/11/9/index.md)
 

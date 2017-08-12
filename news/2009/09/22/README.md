@@ -28,7 +28,7 @@ For the first time since 1995 more people left Ireland than moved here, accordin
 _Context: Calais, France, migrants_
 
 ### [ China bans foreigners from entering Tibet, ahead of the 60th anniversary celebrations of the People's Republic. ](/news/2009/09/22/china-bans-foreigners-from-entering-tibet-ahead-of-the-60th-anniversary-celebrations-of-the-people-s-republic.md)
-_Context: 60th anniversary of the founding, Chinese, Tibet Autonomous Region_
+_Context: 60th anniversary of the founding, China, Tibet Autonomous Region_
 
 ### [ Taiwan shows a documentary on Uyghur leader Rebiya Kadeer, as the website of the Kaoshiung Film Festival is hacked. ](/news/2009/09/22/taiwan-shows-a-documentary-on-uyghur-leader-rebiya-kadeer-as-the-website-of-the-kaoshiung-film-festival-is-hacked.md)
 _Context: Kaoshiung, Rebiya Kadeer, Taiwan, Uyghur_

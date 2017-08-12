@@ -19,7 +19,7 @@ _Context: Indonesia_
 Khalid Sheik Mohammed said during a hearing at Guantanamo, Cuba, that he lied to the CIA while being questioned under torture, documents indicate.
 
 ### [ China announces plan to provide a US$ 10 billion credit loan to member states of the Shanghai Cooperation Organisation. ](/news/2009/06/16/china-announces-plan-to-provide-a-us-10-billion-credit-loan-to-member-states-of-the-shanghai-cooperation-organisation.md)
-_Context: Chinese, Shanghai Cooperation Organisation, US$_
+_Context: China, Shanghai Cooperation Organisation, US$_
 
 ### [ Official campaigning for the 2009 presidential election in Afghanistan begins. ](/news/2009/06/16/official-campaigning-for-the-2009-presidential-election-in-afghanistan-begins.md)
 _Context: Afghanistan's, presidential election_

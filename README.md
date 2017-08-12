@@ -6,7 +6,7 @@ The Obelisk is headline winner in a year marked by diminished presence of conser
 ### [The world's oldest man, Polish-Israeli Yisrael Kristal, who was also recognized as the oldest living Holocaust survivor, dies at age 113 years, 330 days, in Haifa, Israel. ](/news/2017/08/11/the-world-s-oldest-man-polish-israeli-yisrael-kristal-who-was-also-recognized-as-the-oldest-living-holocaust-survivor-dies-at-age-113-yea.md)
 _Context: Haifa, Holocaust survivor, Israel, Polish, Yisrael Kristal_
 
-### [Two trains collide near Alexandria, Egypt, killing at least 36 people and injuring at least 55. ](/news/2017/08/11/two-trains-collide-near-alexandria-egypt-killing-at-least-36-people-and-injuring-at-least-55.md)
+### [Two trains collide in Alexandria, Egypt, killing at least 36 people and injuring at least 55. ](/news/2017/08/11/two-trains-collide-in-alexandria-egypt-killing-at-least-36-people-and-injuring-at-least-55.md)
 _Context: Alexandria, Egypt, collide_
 
 ### [According to Cambodian Prime Minister Hun Sen, 30 Laotian soldiers cross the border into Steung Treng Province despite repeated requests for them to leave. Hun Sen gives Laos a six-day ultimatum to withdraw the soldiers or face a military response. ](/news/2017/08/11/according-to-cambodian-prime-minister-hun-sen-30-laotian-soldiers-cross-the-border-into-steung-treng-province-despite-repeated-requests-for.md)

@@ -31,7 +31,7 @@ _Context: Lebanon_
 _Context: July 2, Korean Confederation of Trade Unions, Lee Myung-bak, South Korean President_
 
 ### [ Summer 2008 China region floods: Large areas of southern China are hit by the worst floods in decades with Guangzhou and Shenzhen worst affected. So far, 63 people have died and 1.66 million have been evacuated. ](/news/2008/06/17/summer-2008-china-region-floods-large-areas-of-southern-china-are-hit-by-the-worst-floods-in-decades-with-guangzhou-and-shenzhen-worst-aff.md)
-_Context: Chinese, Guangzhou, Shenzhen, Summer 2008 China region floods_
+_Context: China, Guangzhou, Shenzhen, Summer 2008 China region floods_
 
 ## [Previous Day...](/news/2008/06/16/index.md)
 

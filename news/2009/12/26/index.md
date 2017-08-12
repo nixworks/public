@@ -19,7 +19,7 @@ _Context: Greek, Philippines, Venezuela_
 _Context: Ipoh, Malaysia_
 
 ### [ Five Chinese are sentenced to execution by firing squad before a court in Vietnam for their roles in one of the largest drug seizures in the country's history. ](/news/2009/12/26/five-chinese-are-sentenced-to-execution-by-firing-squad-before-a-court-in-vietnam-for-their-roles-in-one-of-the-largest-drug-seizures-in-th.md)
-_Context: Chinese, Vietnam, execution by firing squad, history_
+_Context: China, Vietnam, execution by firing squad, history_
 
 ## [Previous Day...](/news/2009/12/25/index.md)
 

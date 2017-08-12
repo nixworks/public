@@ -34,7 +34,7 @@ Australia&#39;s News Limited has sold the Fiji Times for an undisclosed sum to F
 Israel is aware of the reports and preparing itself for possible row at the International Court of Justice.
 
 ### [A Chinese fishing boat returns to Quanzhou after being captured by the Japan Coast Guard off the disputed Senkaku Islands. ](/news/2010/09/15/a-chinese-fishing-boat-returns-to-quanzhou-after-being-captured-by-the-japan-coast-guard-off-the-disputed-senkaku-islands.md)
-_Context: Chinese, Japan Coast Guard, Quanzhou, Senkaku Islands, fishing boat_
+_Context: China, Japan Coast Guard, Quanzhou, Senkaku Islands, fishing boat_
 
 ### [The United States and Russia establish a working group to improve relations between the United States military and Russian military. ](/news/2010/09/15/the-united-states-and-russia-establish-a-working-group-to-improve-relations-between-the-united-states-military-and-russian-military.md)
 _Context: Russia, Russian military, U.S., United States military_

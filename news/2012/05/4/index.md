@@ -19,7 +19,7 @@ Beastie Boys rapper Adam Yauch has died at the age of 47, after a three-year bat
 Study says long hours spent studying and lack of outdoor light to blame for 90 per cent short-sightedness rate.
 
 ### [Chinese official ''Beijing Daily'' describes dissident Chen Guangcheng as a "tool and a pawn of  American politicians". ](/news/2012/05/4/chinese-official-beijing-daily-describes-dissident-chen-guangcheng-as-a-tool-and-a-pawn-of-american-politicians.md)
-_Context: Beijing Daily, Chen Guangcheng, Chinese_
+_Context: Beijing Daily, Chen Guangcheng, China_
 
 ### [Former media mogul Conrad Black is released from prison in Miami after being locked up for just over three years for defrauding investors. ](/news/2012/05/4/former-media-mogul-conrad-black-is-released-from-prison-in-miami-after-being-locked-up-for-just-over-three-years-for-defrauding-investors.md)
 Former media mogul Conrad Black has been released from prison in Miami after serving just over three years for defrauding investors.

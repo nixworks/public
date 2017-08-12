@@ -7,7 +7,7 @@ The soldier was taking part in an operation against Islamic State, which is thou
 _Context: A freight train derails, Hunedoara County, Romania_
 
 ### [ In Swiebodzice, Poland, an old tenement house collapses killing at least six people, including two children, and injuring six. The exploration teams are looking for 4 missing people. ](/news/2017/04/8/in-awiebodzice-poland-an-old-tenement-house-collapses-killing-at-least-six-people-including-two-children-and-injuring-six-the-explora.md)
-_Context: Poland, Swiebodzice, tenement house_
+_Context: Polish, Swiebodzice, tenement house_
 
 ### [Another body has been found after flooding in eastern Queensland, raising the death toll to twelve. ](/news/2017/04/8/another-body-has-been-found-after-flooding-in-eastern-queensland-raising-the-death-toll-to-twelve.md)
 The body of one of three men who went missing during Cyclone Debbie and the following floods is found.

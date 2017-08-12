@@ -1,10 +1,10 @@
 ## [2006-05-5](/news/2006/05/5/index.md)
 
 ### [ The government of China has made artificial rainfall to wash a layer of sand and dust off Beijing. ](/news/2006/05/5/the-government-of-china-has-made-artificial-rainfall-to-wash-a-layer-of-sand-and-dust-off-beijing.md)
-_Context: Beijing, Chinese, cloud seeding_
+_Context: Beijing, China, cloud seeding_
 
 ### [ The Agriculture Ministry of China confirmed another outbreak of bird flu in Qinghai Province, killing more than 120 birds. ](/news/2006/05/5/the-agriculture-ministry-of-china-confirmed-another-outbreak-of-bird-flu-in-qinghai-province-killing-more-than-120-birds.md)
-_Context: Avian flu virus, Chinese, Qinghai Province_
+_Context: Avian flu virus, China, Qinghai Province_
 
 ### [ The government of Sudan signs an accord with the main Darfur rebel group, the Alliance of Revolutionary Forces of West Sudan, reached through mediation in Abuja, Nigeria. ](/news/2006/05/5/the-government-of-sudan-signs-an-accord-with-the-main-darfur-rebel-group-the-alliance-of-revolutionary-forces-of-west-sudan-reached-throu.md)
 _Context: Abuja, Alliance of Revolutionary Forces of West Sudan, Darfur conflict, Nigeria, Sudan_

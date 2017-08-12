@@ -22,7 +22,7 @@ _Context: Indonesia, Papua, Richter scale, earthquake_
 _Context: Buyat Bay, Indonesia, Newmont Minahasa Raya, Newmont Mining, Sulawesi island, mine, subsidiary_
 
 ### [ The People's Republic of China formally charges Hong Kong reporter Ching Cheong, journalist for ''The Straits Times'', of spying.  ](/news/2005/08/5/the-people-s-republic-of-china-formally-charges-hong-kong-reporter-ching-cheong-journalist-for-the-straits-times-of-spying.md)
-_Context: Chinese, Ching Cheong, Hong Kong, The Straits Times, spying_
+_Context: China, Ching Cheong, Hong Kong, The Straits Times, spying_
 
 ### [ Typhoon Matsa hits Taiwan ](/news/2005/08/5/typhoon-matsa-hits-taiwan.md)
 _Context: Taiwan, Typhoon Matsa_

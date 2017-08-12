@@ -10,7 +10,7 @@ _Context: Iraq, October 1, U.S., United States House of Representatives, legisla
 _Context: Boris Yeltsin, Moscow, Novodevichy Cemetery, Russian President Vladimir Putin, funeral_
 
 ### [ Former Polish government minister Barbara Blida commits suicide during a police searching of her house ](/news/2007/04/25/former-polish-government-minister-barbara-blida-commits-suicide-during-a-police-searching-of-her-house.md)
-_Context: Barbara Blida, Poland, suicide_
+_Context: Barbara Blida, Polish, suicide_
 
 ### [ U.S. Deputy Assistant Secretary of State for European and Eurasian Affairs David Kramer, speaking on behalf of the U.S. government, offers to normalize relations with Belarus if it releases imprisoned politicians. ](/news/2007/04/25/u-s-deputy-assistant-secretary-of-state-for-european-and-eurasian-affairs-david-kramer-speaking-on-behalf-of-the-u-s-government-offers.md)
 _Context: Assistant Secretary of State for European and Eurasian Affairs, Belarus, U.S. government_

@@ -10,7 +10,7 @@ Monarch asks ex-army general to form new government in the wake of streets prote
 _Context: Buddhists, South Thailand insurgency, Thailand_
 
 ### [The owner of China's fourth-most visited website, Sohu.com Inc, posted a better-than-estimated 41 percent gain in profit after the company raised prices and boosted services such as video sharing. ](/news/2011/02/1/the-owner-of-china-s-fourth-most-visited-website-sohu-com-inc-posted-a-better-than-estimated-41-percent-gain-in-profit-after-the-company-r.md)
-_Context: Chinese, Sohu.com_
+_Context: China, Sohu.com_
 
 ### [A court in London bars the oil company BP from entering into a planned joint venture and share swap with Rosneft, a state-controlled Russian company.  ](/news/2011/02/1/a-court-in-london-bars-the-oil-company-bp-from-entering-into-a-planned-joint-venture-and-share-swap-with-rosneft-a-state-controlled-russian.md)
 _Context: BP, London, share swap_
@@ -43,7 +43,7 @@ _Context: Palestinian, Suriname, officially recognises_
 US soldier accused of giving a dossier of secret documents to WikiLeaks is held in solitary confinement awaiting trial.
 
 ### [The Karmapa Lama, Ogyen Trinley Dorje, Tibetan Buddhism's third-highest lama, is questioned by police after large amounts of foreign money are found at his monastery in Dharamsala, northern India. Some Indian media allege he is acting as a spy for China. ](/news/2011/02/1/the-karmapa-lama-ogyen-trinley-dorje-tibetan-buddhism-s-third-highest-lama-is-questioned-by-police-after-large-amounts-of-foreign-money-a.md)
-_Context: Chinese, Dharamsala, India, Karmapa Lama, Ogyen Trinley Dorje, Tibetan Buddhist_
+_Context: China, Dharamsala, India, Karmapa Lama, Ogyen Trinley Dorje, Tibetan Buddhist_
 
 ### [Irish general election, 2011:Brian Cowen resigns by requesting the dissolution of the 30th Dail, allowing a general election to take place, the first such election of the eurozone debt crisis. ](/news/2011/02/1/irish-general-election-2011-pbrian-cowen-resigns-by-requesting-the-dissolution-of-the-30th-da-il-allowing-a-general-election-to-take-place.md)
 Ireland will vote on February 25 in the first general election in Europe dominated by the euro zone debt crisis and by demands to renegotiate an unpopular EU/IMF bailout.

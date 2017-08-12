@@ -19,7 +19,7 @@ The number of Iraqi civilians killed in violence in Iraq this year fell to its l
 _Context: President, Tunisia, Zine El Abidine Ben Ali, protests_
 
 ### [The minimum wage in the Chinese capital Beijing is raised by 20% for the second time in six months, amid rising food costs. ](/news/2010/12/29/the-minimum-wage-in-the-chinese-capital-beijing-is-raised-by-20-for-the-second-time-in-six-months-amid-rising-food-costs.md)
-_Context: Beijing, Chinese, minimum wage reform_
+_Context: Beijing, China, minimum wage reform_
 
 ### [12 Vietnamese sailors are missing after a cargo ship sinks in the South China Sea. 11 other crew were rescued. ](/news/2010/12/29/12-vietnamese-sailors-are-missing-after-a-cargo-ship-sinks-in-the-south-china-sea-11-other-crew-were-rescued.md)
 _Context: South China Sea, Vietnam_

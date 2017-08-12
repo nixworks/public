@@ -19,7 +19,7 @@ _Context: Indonesia, Islamic clerics, Parliament, sharia law_
 UN chief voices concern at lack of progress ahead of planned elections.
 
 ### [Chinese police arrests a suspect for poisoning frozen dumplings for revenge. Those dumplings were exported to Japan and sickened 10 people in 2008. ](/news/2010/03/26/chinese-police-arrests-a-suspect-for-poisoning-frozen-dumplings-for-revenge-those-dumplings-were-exported-to-japan-and-sickened-10-people-i.md)
-_Context: 2008, Chinese, Japan, dumplings, poison_
+_Context: 2008, China, Japan, dumplings, poison_
 
 ### [11 people are killed in a highway accident on Interstate 65 in the U.S. state of Kentucky, near Munfordville. The wreck site is roughly 40 miles northwest of the city of Bowling Green, near Mammoth Cave National Park. ](/news/2010/03/26/11-people-are-killed-in-a-highway-accident-on-interstate-65-in-the-u-s-state-of-kentucky-near-munfordville-the-wreck-site-is-roughly-40-m.md)
 A tractor-trailer loaded with auto parts crosses a highway median and slams head-on into a van carrying a Mennonite family, killing 11 people before dawn on a hilly stretch of interstate. 

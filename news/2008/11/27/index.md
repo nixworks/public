@@ -4,7 +4,7 @@
 _Context: Air New Zealand, Air New Zealand Flight 901, Airbus A320, NZDT_
 
 ### [ A Polish ABW secret service report says the shooting incident in Georgia involving Polish President Lech Kaczynski and Georgian President Mikheil Saakashvili was most likely "a provocation" staged by the Georgians ](/news/2008/11/27/a-polish-abw-secret-service-report-says-the-shooting-incident-in-georgia-involving-polish-president-lech-kaczyaski-and-georgian-president.md)
-_Context: ABW, Georgian, Lech Kaczynski, Mikhail Saakashvili, Poland_
+_Context: ABW, Georgian, Lech Kaczynski, Mikhail Saakashvili, Polish_
 
 ### [ 2008 Santa Catarina floods: The Brazilian federal government authorizes nearly 2 billion reais (881 million U.S. dollars) in emergency relief funds. ](/news/2008/11/27/2008-santa-catarina-floods-the-brazilian-federal-government-authorizes-nearly-2-billion-reais-881-million-u-s-dollars-in-emergency-reli.md)
 Brazil sent hundreds of stateand federal police officers on Wednesday to quell looting byhomeless and hungry landslide victims facing the threat ofdisease after heavy flooding that authorities say killed morethan 100 people and displaced 54,000.

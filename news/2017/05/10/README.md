@@ -4,7 +4,7 @@
 _Context: Fatima, Pope Francis, canonize_
 
 ### [A spokesman for the Taiwan Affairs Office of People's Republic of China says Taiwan is barred from observing this year's World Health Assembly because current President Tsai Ing-wen has not endorsed the Beijing view that both sides belong to a single China under the One-China policy; the spokesman further said that the health of people in Taiwan is not being put at risk by Taiwan's inability to attend. ](/news/2017/05/10/a-spokesman-for-the-taiwan-affairs-office-of-people-s-republic-of-china-says-taiwan-is-barred-from-observing-this-yearas-world-health-asse.md)
-_Context: Chinese, Cross-Strait relations, One-China policy, Taiwan, Taiwan Affairs Office, Tsai Ing-wen, World Health Assembly_
+_Context: China, Cross-Strait relations, One-China policy, Taiwan, Taiwan Affairs Office, Tsai Ing-wen, World Health Assembly_
 
 ### [Voters in the Bahamas go to the polls to elect all 39 members of the House of Assembly. ](/news/2017/05/10/voters-in-the-bahamas-go-to-the-polls-to-elect-all-39-members-of-the-house-of-assembly.md)
 Prime Minister Perry Christie is seeking a second-consecutive term for his Progressive Liberal Party in the Bahamas. But will voter anger and frustration over the lack of progress in the island-nation stymie his bid?

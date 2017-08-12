@@ -61,7 +61,7 @@ Pakistan lodged a strong protest with the United States over what it called an u
 _Context: LTTE, Sri Lankan Navy_
 
 ### [ Taiwanese negotiators led by Chiang Pin-kung, Chairman of the Strait Exchange Foundation, travel to the People's Republic of China to conduct talks on improving Cross-Strait relations. ](/news/2008/06/11/taiwanese-negotiators-led-by-chiang-pin-kung-chairman-of-the-strait-exchange-foundation-travel-to-the-people-s-republic-of-china-to-condu.md)
-_Context: Chiang Pin-kung, Chinese, Cross-Strait relations, Strait Exchange Foundation, Taiwan_
+_Context: Chiang Pin-kung, China, Cross-Strait relations, Strait Exchange Foundation, Taiwan_
 
 ## [Previous Day...](/news/2008/06/10/index.md)
 

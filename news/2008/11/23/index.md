@@ -22,7 +22,7 @@ _Context: Alberta, Canada, Saskatchewan, University of Calgary, a meteorite_
 _Context: Caracas, Hugo Chvez, Miranda, Venezuela, Venezuelan President, Zulia, opposition, regional elections, states_
 
 ### [ The Dalai Lama warns that he is losing confidence in Chinese officials and that the Tibetan people are facing "great danger". ](/news/2008/11/23/the-dalai-lama-warns-that-he-is-losing-confidence-in-chinese-officials-and-that-the-tibetan-people-are-facing-great-danger.md)
-_Context: Chinese, Dalai Lama, Tibet, Tibetan_
+_Context: China, Dalai Lama, Tibet, Tibetan_
 
 ### [ The Calgary Stampeders defeat the Montreal Alouettes 22-14 to win the 96th Grey Cup. ](/news/2008/11/23/the-calgary-stampeders-defeat-the-montreal-alouettes-22-14-to-win-the-96th-grey-cup.md)
 _Context: 96th Grey Cup, Calgary Stampeders, Montreal Alouettes_

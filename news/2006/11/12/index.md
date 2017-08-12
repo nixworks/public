@@ -19,7 +19,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Caucasus, Georgian, Georgian-Ossetian conflict, South Ossetia, oblast, referendum on independence_
 
 ### [ The first round of the 2006 local elections for local mayors and local city councils takes place in Poland.](/news/2006/11/12/the-first-round-of-the-2006-local-elections-for-local-mayors-and-local-city-councils-takes-place-in-poland.md)
-_Context: 2006 local elections, Poland_
+_Context: 2006 local elections, Polish_
 
 ## [Previous Day...](/news/2006/11/11/index.md)
 

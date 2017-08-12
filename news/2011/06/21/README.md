@@ -40,7 +40,7 @@ Former South Korean foreign minister re-elected by acclamation as secretary gene
 _Context: First Lady, Michelle Obama, Nelson Mandela, Southern Africa_
 
 ### [A Chinese court sentences a forklift driver to death for killing a protester in an incident that started unrest in Inner Mongolia. ](/news/2011/06/21/a-chinese-court-sentences-a-forklift-driver-to-death-for-killing-a-protester-in-an-incident-that-started-unrest-in-inner-mongolia.md)
-_Context: Chinese, Inner Mongolia_
+_Context: China, Inner Mongolia_
 
 ### [A French court upholds a life sentence for Yvan Colonna, a former shepherd and Corsican separatist convicted of fatally shooting police prefect Claude Erignac near a concert hall in Ajaccio in 1998. Colonna has denied killing Erignac. ](/news/2011/06/21/a-french-court-upholds-a-life-sentence-for-yvan-colonna-a-former-shepherd-and-corsican-separatist-convicted-of-fatally-shooting-police-pref.md)
 _Context: Ajaccio, Claude Erignac, Prefect, Yvan Colonna, shepherd_

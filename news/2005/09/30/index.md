@@ -16,7 +16,7 @@ _Context: Malawi, United Nations, World Food Programme, maize, malnutrition_
 _Context: Avian flu virus, epidemic, flu_
 
 ### [ An Osaka High Court judge rules that the visit by Japanese Prime Minister Junichiro Koizumi to the Yasukuni Shrine violates the constitution's separation of church and state.  The visit by a Japanese head of government to the war shrine is a sensitive issue with China and South Korea. ](/news/2005/09/30/an-osaka-high-court-judge-rules-that-the-visit-by-japanese-prime-minister-junichiro-koizumi-to-the-yasukuni-shrine-violates-the-constitutio.md)
-_Context: Chinese, Junichiro Koizumi, Osaka, Prime Minister of Japan, South Korea, Yasukuni Shrine, constitution_
+_Context: China, Junichiro Koizumi, Osaka, Prime Minister of Japan, South Korea, Yasukuni Shrine, constitution_
 
 ### [ United States negotiators in Geneva are caught off guard by European demands for a change from U.S. Commerce Department control to international regulation of the Internet. ](/news/2005/09/30/united-states-negotiators-in-geneva-are-caught-off-guard-by-european-demands-for-a-change-from-u-s-commerce-department-control-to-internat.md)
 _Context: Europe, Geneva, Internet, U.S. Commerce Department_

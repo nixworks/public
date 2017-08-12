@@ -31,7 +31,7 @@ _Context: Norway_
 _Context: DNA, Denisova hominin, Russia, Siberia, human_
 
 ### [Go Daddy, the largest domain name registration company in the world, announces it will cease registering websites in China after the Chinese government required customers to provide photographs and other identifying information before registering. ](/news/2010/03/24/go-daddy-the-largest-domain-name-registration-company-in-the-world-announces-it-will-cease-registering-websites-in-china-after-the-chinese.md)
-_Context: Chinese, Go Daddy, government_
+_Context: China, Go Daddy, government_
 
 ### [Indonesia bans a conference of Asian gay activists, saying it could prompt violent protests by conservative Muslim groups. ](/news/2010/03/24/indonesia-bans-a-conference-of-asian-gay-activists-saying-it-could-prompt-violent-protests-by-conservative-muslim-groups.md)
 _Context: Indonesia, Muslim, homosexuality_

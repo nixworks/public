@@ -13,7 +13,7 @@ North Korea said on Thursday it would put two U.S. journalists it arrested in Ma
 _Context: Democratic Forces for the Liberation of Rwanda, Democratic Republic of the Congo, South Kivu_
 
 ### [ Chinese Communist Party General Secretary Zhao Ziyang's secret memoirs about the 1989 protests in Tiananmen Square are published. ](/news/2009/05/14/chinese-communist-party-general-secretary-zhao-ziyang-s-secret-memoirs-about-the-1989-protests-in-tiananmen-square-are-published.md)
-_Context: 1989, Chinese, Communist Party general secretary, Communist Party of China, Tiananmen Square, Tiananmen Square protests of 1989, Zhao Ziyang, memoir_
+_Context: 1989, China, Communist Party general secretary, Communist Party of China, Tiananmen Square, Tiananmen Square protests of 1989, Zhao Ziyang, memoir_
 
 ### [ The South Korean Navy destroyer ''Mummu the Great'' and the U.S. Navy cruiser ''Gettysburg'' capture 17 suspected Somali pirates in the Gulf of Aden. ](/news/2009/05/14/the-south-korean-navy-destroyer-mummu-the-great-and-the-u-s-navy-cruiser-gettysburg-capture-17-suspected-somali-pirates-in-the-gul.md)
 _Context: ''Gettysburg'', ''Mummu the Great'', Gulf of Aden, Somali pirates, Somalia, South Korea, South Korean Navy, U.S., United States Navy, cruiser, destroyer_

@@ -55,7 +55,7 @@ MI5 was directly involved in the rendition of a Moroccan national, illegally tak
 A former Pennsylvania judge pleads guilty to a charge of racketeering conspiracy for putting juvenile defendants behind bars for money.
 
 ### [China sentences an Uyghur journalist who spoke to foreign media after riots in Xinjiang last year to 15 years imprisonment. ](/news/2010/07/23/china-sentences-an-uyghur-journalist-who-spoke-to-foreign-media-after-riots-in-xinjiang-last-year-to-15-years-imprisonment.md)
-_Context: Chinese, Uyghur, Xinjiang, ethnic riots_
+_Context: China, Uyghur, Xinjiang, ethnic riots_
 
 ### [A court in the U.S. state of Arizona listens to challenges to the state's policy against illegal immigrants. ](/news/2010/07/23/a-court-in-the-u-s-state-of-arizona-listens-to-challenges-to-the-state-s-policy-against-illegal-immigrants.md)
 _Context: Arizona, U.S. state_

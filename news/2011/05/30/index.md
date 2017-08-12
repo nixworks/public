@@ -40,7 +40,7 @@ _Context: Saudi Arabia_
 _Context: Alaa Mubarak, Egyptian President, Hosni Mubarak, Jamal Mubarak, unfair_
 
 ### [A Han Chinese man is to face trial for the killing of a Mongolian man, amid a crackdown on ethnic protests in the Inner Mongolia region of China. ](/news/2011/05/30/a-han-chinese-man-is-to-face-trial-for-the-killing-of-a-mongolian-man-amid-a-crackdown-on-ethnic-protests-in-the-inner-mongolia-region-of-c.md)
-_Context: Chinese, Chinese, Inner Mongolia, Mongolia_
+_Context: China, Chinese, Inner Mongolia, Mongolia_
 
 ### [Voters in Italian cities including Milan and Naples go to the polls for the second round of local government elections with candidates supported by Prime Minister Silvio Berlusconi losing in both cities. ](/news/2011/05/30/voters-in-italian-cities-including-milan-and-naples-go-to-the-polls-for-the-second-round-of-local-government-elections-with-candidates-suppo.md)
 Italian Prime Minister Silvio Berlusconi loses the key cities of Milan and Naples in local elections seen as a major test of his popularity.

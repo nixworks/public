@@ -13,7 +13,7 @@ Israel has apologised for the spy scandal and has promised it will take steps to
 News and opinion from The Times &amp; The Sunday Times
 
 ### [  The Socialists win a plurality with 31.44% of the vote, with incumbent Prime Minister and ex-Tsar Simeon Saxe-Coburg receiving 20.13%. Despite the plurality, the results fall far short of pre-election forecasts for the Socialists. ](/news/2005/06/26/the-socialists-win-a-plurality-with-31-44-of-the-vote-with-incumbent-prime-minister-and-ex-tsar-simeon-saxe-coburg-receiving-20-13-des.md)
-_Context: Elections in Bulgaria, Simeon Saxe-Coburg, Socialists, Tsar, plurality, re-elects_
+_Context: Elections in Bulgaria, Simeon Saxe-Coburg, Socialists, Tsar, plurality, re-election_
 
 ### [ Florida beaches reopen after the shark attack Saturday that killed Jamie Daigle. ](/news/2005/06/26/florida-beaches-reopen-after-the-shark-attack-saturday-that-killed-jamie-daigle.md)
 _Context: Florida_

@@ -34,7 +34,7 @@ The US government has subpoenaed the social networking site Twitter for personal
 Shia leader urges peaceful resistance and a rejection of violence in his first address since returning from exile.
 
 ### [Chinese prosecutors say more than 600 people were killed over a period of seven years in Yunnan due to official misconduct. ](/news/2011/01/8/chinese-prosecutors-say-more-than-600-people-were-killed-over-a-period-of-seven-years-in-yunnan-due-to-official-misconduct.md)
-_Context: Chinese, Yunnan_
+_Context: China, Yunnan_
 
 ## [Previous Day...](/news/2011/01/7/index.md)
 

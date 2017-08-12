@@ -7,7 +7,7 @@ EXTREME weather has killed and injured dozens of people across Europe, with Spai
 More than 50 Nigerians were killed today in clashes between security forces and militants in the northeastern city of Bauchi, &hellip;
 
 ### [ Chinese hackers target the website of Australia's biggest film festival in Melbourne over a documentary about Uyghur leader Rebiya Kadeer. ](/news/2009/07/26/chinese-hackers-target-the-website-of-australia-s-biggest-film-festival-in-melbourne-over-a-documentary-about-uyghur-leader-rebiya-kadeer.md)
-_Context: Australia, Chinese, Melbourne, Melbourne International Film Festival, Rebiya Kadeer, Uyghur_
+_Context: Australia, China, Melbourne, Melbourne International Film Festival, Rebiya Kadeer, Uyghur_
 
 ### [ Fernando Chui Sai On is elected the third Chief Executive of Macau. ](/news/2009/07/26/fernando-chui-sai-on-is-elected-the-third-chief-executive-of-macau.md)
 _Context: Chief Executive, Fernando Chui Sai On, Macau_

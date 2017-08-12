@@ -10,7 +10,7 @@ Economists say that California’s budget foreshadows the difficult choices othe
 _Context: Allen Stanford, FBI, SEC, Stanford Financial Group, U.S., Virginia, chairman, complaint, fraud_
 
 ### [ China claims it has artificially produced snowfall by cloud seeding to ease drought. ](/news/2009/02/19/china-claims-it-has-artificially-produced-snowfall-by-cloud-seeding-to-ease-drought.md)
-_Context: Chinese, artificially produced, cloud seeding, drought, snow_
+_Context: China, artificially produced, cloud seeding, drought, snow_
 
 ### [ Palestinian militants fire three rockets into Israel.  ](/news/2009/02/19/palestinian-militants-fire-three-rockets-into-israel.md)
 _Context: Israel, Palestinian, fire, militant, rocket_
@@ -31,7 +31,7 @@ _Context: ''Danton'', France, Mediterranean Sea, battleship_
 _Context: Barack Obama, Canada, Canadian Prime Minister, Ottawa, President, Stephen Harper, U.S._
 
 ### [ China's Ministry of Health reports that HIV/AIDS was the country's leading cause of death from infectious disease in 2008. ](/news/2009/02/19/china-s-ministry-of-health-reports-that-hiv-aids-was-the-country-s-leading-cause-of-death-from-infectious-disease-in-2008.md)
-_Context: 2008, AIDS, Chinese, HIV, Ministry of Health, infectious disease, leading cause of death_
+_Context: 2008, AIDS, China, HIV, Ministry of Health, infectious disease, leading cause of death_
 
 ### [ Two Tupolev Tu-95 bombers are intercepted by two Canadian CF-18's near Canada's airspace hours before United States President Barack Obama arrives in Ottawa, Ontario.](/news/2009/02/19/two-tupolev-tu-95-bombers-are-intercepted-by-two-canadian-cf-18-s-near-canada-s-airspace-hours-before-united-states-president-barack-obama.md)
 _Context: Barack Obama, CF-18, Canada, Canadian, Ontario, Ottawa, President, Tupolev Tu-95, U.S., bombers, international airspace_

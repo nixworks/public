@@ -4,7 +4,7 @@
 _Context: National Museum of Science and Technology, Sweden, The Pirate Bay, server, trial_
 
 ### [ China's economy grows by 6.1% in the first quarter of 2009, the lowest increase since 1999. ](/news/2009/04/16/china-s-economy-grows-by-6-1-in-the-first-quarter-of-2009-the-lowest-increase-since-1999.md)
-_Context: Chinese, Economy of the People's Republic of China_
+_Context: China, Economy of the People's Republic of China_
 
 ### [ The Naxalite movement kills 17 people as India's general election begins. ](/news/2009/04/16/the-naxalite-movement-kills-17-people-as-india-s-general-election-begins.md)
 _Context: India, Naxalite, Naxalite-Maoist insurgency, becomes_

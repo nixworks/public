@@ -1,7 +1,7 @@
 ## [2008-08-14](/news/2008/08/14/index.md)
 
 ### [ Donald Tusk, the Prime Minister of Poland, announces that the United States and Poland have reached an agreement on basing missile defense in Poland. ](/news/2008/08/14/donald-tusk-the-prime-minister-of-poland-announces-that-the-united-states-and-poland-have-reached-an-agreement-on-basing-missile-defense.md)
-_Context: Donald Tusk, Poland, Polish Prime Minister, U.S., missile defense shield_
+_Context: Donald Tusk, Polish, Polish Prime Minister, U.S., missile defense shield_
 
 ### [ The Consumer Price Index in the United States rises by .8 per cent in July 2008 giving an annual inflation rate of 5.6 per cent, the highest in 17 years. ](/news/2008/08/14/the-consumer-price-index-in-the-united-states-rises-by-8-per-cent-in-july-2008-giving-an-annual-inflation-rate-of-5-6-per-cent-the-highes.md)
 _Context: July 2008, U.S., consumer price index_

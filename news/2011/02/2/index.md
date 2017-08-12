@@ -22,7 +22,7 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 Looking for local news? Find your Fairfax newspaper on the list below.
 
 ### [Over 60,000 people are evacuated in China's Yunnan Province following an earthquake. ](/news/2011/02/2/over-60-000-people-are-evacuated-in-china-s-yunnan-province-following-an-earthquake.md)
-_Context: Chinese, Yunnan Province_
+_Context: China, Yunnan Province_
 
 ### [Fourteen job seekers traveling home on the rooftop of an overcrowded train, are killed when they hit a low overhead bridge in northern India. ](/news/2011/02/2/fourteen-job-seekers-traveling-home-on-the-rooftop-of-an-overcrowded-train-are-killed-when-they-hit-a-low-overhead-bridge-in-northern-india.md)
 Fifteen youths were killed and several others injured on Tuesday when they fell from the roof of two speeding trains crammed with job aspirants returning from an ITBP recruitment camp in Bareilly in UP.

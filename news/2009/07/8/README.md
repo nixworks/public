@@ -13,7 +13,7 @@ _Context: Kim Il-sung, Kim Jong-il, North Korea_
 _Context: G8, Italian, L'Aquila_
 
 ### [  Chinese President Hu Jintao leaves the 35th G8 Summit and returns to Beijing to deal with the ongoing riots in Urumqi. ](/news/2009/07/8/chinese-president-hu-jintao-leaves-the-35th-g8-summit-and-returns-to-beijing-to-deal-with-the-ongoing-riots-in-ara1-4mqi.md)
-_Context: Beijing, Chinese, Chinese President, G8, Hu Jintao, Urumqi, ethnic riots_
+_Context: Beijing, China, Chinese President, G8, Hu Jintao, Urumqi, ethnic riots_
 
 ### [ Debris and bodies from Yemenia Flight 626, which crashed off the Comoros in the Indian Ocean, wash up on Mafia Island, Tanzania. ](/news/2009/07/8/debris-and-bodies-from-yemenia-flight-626-which-crashed-off-the-comoros-in-the-indian-ocean-wash-up-on-mafia-island-tanzania.md)
 _Context: Comoros, Indian Ocean, Mafia Island, Tanzania, Yemenia Flight 626_

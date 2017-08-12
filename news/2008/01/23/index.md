@@ -1,7 +1,7 @@
 ## [2008-01-23](/news/2008/01/23/index.md)
 
 ### [ 20 people are killed in a military transport plane crash near Miroslawiec, northern Poland; senior Polish Air Force officers are among the victims. ](/news/2008/01/23/20-people-are-killed-in-a-military-transport-plane-crash-near-mirosaawiec-northern-poland-senior-polish-air-force-officers-are-among-the.md)
-_Context: Miroslawiec, Poland, Polish Air Force_
+_Context: Miroslawiec, Polish, Polish Air Force_
 
 ### [ Scaled Composites ''SpaceShipTwo'', being built for Virgin Galactic to become the world's first commercial spacecraft, is unveiled, and will begin test flights in mid-2008. ](/news/2008/01/23/scaled-composites-spaceshiptwo-being-built-for-virgin-galactic-to-become-the-world-s-first-commercial-spacecraft-is-unveiled-and-wil.md)
 _Context: Scaled Composites, Scaled Composites SpaceShipTwo, Virgin Galactic's, spacecraft_

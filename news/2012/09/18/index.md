@@ -16,7 +16,7 @@ _Context: PEMEX, Reynosa, Tamaulipas_
 _Context: Israel, Mitt Romney, Palestinian_
 
 ### [People in over 180 cities of China attend protests sparked by Japan's nationalization of the Senkaku Islands and the 81st anniversary of the Mukden Incident. ](/news/2012/09/18/people-in-over-180-cities-of-china-attend-protests-sparked-by-japan-s-nationalization-of-the-senkaku-islands-and-the-81st-anniversary-of-the.md)
-_Context: Chinese, Mukden Incident, Senkaku Islands dispute, protests_
+_Context: China, Mukden Incident, Senkaku Islands dispute, protests_
 
 ### [Bahrain's public prosecution charges seven police officers with torturing Shia medics to obtain confessions during the ongoing Bahraini uprising. ](/news/2012/09/18/bahrain-s-public-prosecution-charges-seven-police-officers-with-torturing-shia-medics-to-obtain-confessions-during-the-ongoing-bahraini-upri.md)
 _Context: Bahrain, Bahraini uprising (2011-present), Shi'ite_

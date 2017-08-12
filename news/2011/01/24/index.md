@@ -31,7 +31,7 @@ _Context: Alassane Ouattara, Coffee, Ivory Coast, Laurent Gbagbo, cocoa_
 Customs and Border Protection personnel responded appropriately to the Christmas Island boat disaster in December, an internal review has found.
 
 ### [Chinese state media reports that Shandong province is facing its worst drought in a century. ](/news/2011/01/24/chinese-state-media-reports-that-shandong-province-is-facing-its-worst-drought-in-a-century.md)
-_Context: Chinese, Shandong_
+_Context: China, Shandong_
 
 ### [Heavy snow and freezing rain fall in Southwestern China, causing roof collapses and damages to crops. ](/news/2011/01/24/heavy-snow-and-freezing-rain-fall-in-southwestern-china-causing-roof-collapses-and-damages-to-crops.md)
 _Context: Southwestern China, freezing-rain_

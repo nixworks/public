@@ -7,10 +7,10 @@ An earthquake measuring 4.7 in magnitude hit Haiti on Sunday afternoon, accordin
 _Context: Indianapolis Colts, National Football League, New Orleans Saints, Super Bowl XLIV, playoff_
 
 ### [One person is killed and three more are injured when an explosion occurs at a thermo-electric plant near Gryfino, Poland. ](/news/2010/01/24/one-person-is-killed-and-three-more-are-injured-when-an-explosion-occurs-at-a-thermo-electric-plant-near-gryfino-poland.md)
-_Context: Gryfino, Poland_
+_Context: Gryfino, Polish_
 
 ### [The Chinese government denies state involvement in the cyber attacks on Google, while the state-run ''China Daily'' newspaper accuses the United States of hypocrisy. ](/news/2010/01/24/the-chinese-government-denies-state-involvement-in-the-cyber-attacks-on-google-while-the-state-run-china-daily-newspaper-accuses-the-un.md)
-_Context: China Daily, Chinese, Google, U.S., cyber attacks, government, hypocrisy_
+_Context: China, China Daily, Google, U.S., cyber attacks, government, hypocrisy_
 
 ### [A flight operated by Kolavia on behalf of Taban Air crashes on landing at Mashhad International Airport, Iran, injuring at least 46 people. ](/news/2010/01/24/a-flight-operated-by-kolavia-on-behalf-of-taban-air-crashes-on-landing-at-mashhad-international-airport-iran-injuring-at-least-46-people.md)
 _Context: International Airport, Iran, Kolavia, Mashhad, Taban Air, crashes on landing_

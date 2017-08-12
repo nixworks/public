@@ -7,7 +7,7 @@ Japanese Prime Minister Yukio Hatoyama said he will resign if proven guilty of r
 Ten rhino horns, with an estimated value of €500,000, have been seized by Customs officials at Shannon Airport.
 
 ### [Operation Aurora:China rejects criticism by the United States of its internet controls, saying it could harm relations between the two countries. ](/news/2010/01/22/operation-aurora-pchina-rejects-criticism-by-the-united-states-of-its-internet-controls-saying-it-could-harm-relations-between-the-two-coun.md)
-_Context: Chinese, Sino-American relations, U.S., blocks mentions, cyber attacks_
+_Context: China, Sino-American relations, U.S., blocks mentions, cyber attacks_
 
 ### [U.K. Home Secretary Alan Johnson announces the Joint Terrorism Analysis Centre has raised the terrorist threat level from "substantial" to "severe". ](/news/2010/01/22/u-k-home-secretary-alan-johnson-announces-the-joint-terrorism-analysis-centre-has-raised-the-terrorist-threat-level-from-substantial-to.md)
 _Context: Alan Johnson, Home Secretary, Joint Terrorism Analysis Centre, United Kingdom, terror threat level_

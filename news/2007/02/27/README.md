@@ -1,7 +1,7 @@
 ## [2007-02-27](/news/2007/02/27/index.md)
 
 ### [ In Senegal, unofficial results from government sources indicate that incumbent President Abdoulaye Wade has won the 2007 presidential election with more than 50% of the votes. ](/news/2007/02/27/in-senegal-unofficial-results-from-government-sources-indicate-that-incumbent-president-abdoulaye-wade-has-won-the-2007-presidential-elect.md)
-_Context: 2007 presidential election, Abdoulaye Wade, President, Senegal, re-elects_
+_Context: 2007 presidential election, Abdoulaye Wade, President, Senegal, re-election_
 
 ### [ Richard M. Daley, the Mayor of Chicago, is elected for his sixth term. If he serves the length of this term, he will become the longest serving mayor of Chicago, surpassing his father Richard J. Daley. ](/news/2007/02/27/richard-m-daley-the-mayor-of-chicago-is-elected-for-his-sixth-term-if-he-serves-the-length-of-this-term-he-will-become-the-longest-ser.md)
 Get the latest Chicago local news and US & World news. See recent updates on politics, sports, health, tech, and weird news on NBC Chicago.
@@ -37,7 +37,7 @@ _Context: Italian, Mortar, Sri Lanka, U.S., ambassador_
 _Context: Julian Moti, Martin Aini, Michael Somare, Minister for Defence, Prime Minister_
 
 ### [ Drought in southwestern China is threatening the drinking water supply of 1.5 million people. ](/news/2007/02/27/drought-in-southwestern-china-is-threatening-the-drinking-water-supply-of-1-5-million-people.md)
-_Context: Chinese, drought, water_
+_Context: China, drought, water_
 
 ### [ A hail storm damages the Space Shuttle ''Atlantis'', delaying the STS-117 launch originally scheduled for March 15. ](/news/2007/02/27/a-hail-storm-damages-the-space-shuttle-atlantis-delaying-the-sts-117-launch-originally-scheduled-for-march-15.md)
 _Context: March 15, STS-117, Space Shuttle, Space Shuttle Atlantis, hail_

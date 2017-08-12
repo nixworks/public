@@ -40,7 +40,7 @@ Singapore reports finding low levels of radioactivity in vegetables from Japan a
 _Context: North Korea, United Nations_
 
 ### [Lian Yang, a US citizen, pleads guilty to conspiring to violate the Arms Export Control Act by trying to sell radiation-hardened" military and aerospace technology to the People's Republic of China. ](/news/2011/03/24/lian-yang-a-us-citizen-pleads-guilty-to-conspiring-to-violate-the-arms-export-control-act-by-trying-to-sell-radiation-hardened-military-a.md)
-_Context: Chinese, U.S. Arms Export Control Act_
+_Context: China, U.S. Arms Export Control Act_
 
 ### [Serial rapist Delroy Grant is convicted of 18 sexual assaults and rapes in London, England, with fears that he may have committed hundreds of offences. ](/news/2011/03/24/serial-rapist-delroy-grant-is-convicted-of-18-sexual-assaults-and-rapes-in-london-england-with-fears-that-he-may-have-committed-hundreds-o.md)
 A British man dubbed the Night Stalker has been convicted of being one of the most prolific and depraved sex attackers in British history. Police apologised for botched chances to stop Delroy Grant, 53, earlier as he was found guilty of preying on the elderly in a campaign of perverted terror lasting 17 years.

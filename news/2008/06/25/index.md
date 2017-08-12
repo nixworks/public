@@ -13,7 +13,7 @@ In a 5-4 decision, the justices struck down a Louisiana law, ruling that it woul
 _Context: Amarnath, Jammu and Kashmir, Srinagar_
 
 ### [ China reopens Tibet to foreign tourists as a ban imposed during the Tibetan unrest is lifted. ](/news/2008/06/25/china-reopens-tibet-to-foreign-tourists-as-a-ban-imposed-during-the-tibetan-unrest-is-lifted.md)
-_Context: Chinese, Tibet, tourism, unrest in 2008_
+_Context: China, Tibet, tourism, unrest in 2008_
 
 ### [ The Italian Senate passes a bill which the opposition claims is designed to ameliorate the legal troubles of Prime Minister Silvio Berlusconi. ](/news/2008/06/25/the-italian-senate-passes-a-bill-which-the-opposition-claims-is-designed-to-ameliorate-the-legal-troubles-of-prime-minister-silvio-berlusco.md)
 _Context: Italian Prime Minister, Italian Senate, Silvio Berlusconi, legal troubles_

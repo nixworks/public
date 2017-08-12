@@ -25,7 +25,7 @@ _Context: Blaise Compaor, Burkina Faso, President_
 Ben Quilty has won Australia&#039;s most prestigious portraiture prize, the Archibald, with his painting of esteemed artist Margaret Olley.
 
 ### [The Chinese economy grew by 9.7 per cent in the first quarter of 2011 while inflation was 5.4%, the highest level in nearly three years. ](/news/2011/04/15/the-chinese-economy-grew-by-9-7-per-cent-in-the-first-quarter-of-2011-while-inflation-was-5-4-the-highest-level-in-nearly-three-years.md)
-_Context: Chinese_
+_Context: China_
 
 ### [Two South Korean internet search engines accuse Google of antitrust violations. ](/news/2011/04/15/two-south-korean-internet-search-engines-accuse-google-of-antitrust-violations.md)
 _Context: Google, South Korea, antitrust, internet search engine_

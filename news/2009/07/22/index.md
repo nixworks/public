@@ -1,7 +1,7 @@
 ## [2009-07-22](/news/2009/07/22/index.md)
 
 ### [ Chinese and Russian troops begin a five-day joint military drill, aimed at boosting their ability to fight terrorism. ](/news/2009/07/22/chinese-and-russian-troops-begin-a-five-day-joint-military-drill-aimed-at-boosting-their-ability-to-fight-terrorism.md)
-_Context: Chinese, Russia, terrorism_
+_Context: China, Russia, terrorism_
 
 ### [ The Permanent Court of Arbitration in The Hague issues a decision on the borders of Abyei, a region subject to violent contention in Sudan. ](/news/2009/07/22/the-permanent-court-of-arbitration-in-the-hague-issues-a-decision-on-the-borders-of-abyei-a-region-subject-to-violent-contention-in-sudan.md)
 _Context: Abyei, Permanent Court of Arbitration's, Sudan, The Hague_

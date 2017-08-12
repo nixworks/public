@@ -10,7 +10,7 @@ The SNP set out its vision for a referendum on Scottish independence today.
 _Context: Equatorial Guinea, Teodoro Obiang Nguema, presidential election_
 
 ### [ In a major provincial leadership reshuffle in the People's Republic of China, Lu Zhangong was appointed secretary of the Henan CPC Provincial Committee, replacing Xu Guangchun. Sun Chunlan was appointed secretary of the Fujian CPC Committee. Former Jilin Party chief Wang Min was appointed secretary of the Liaoning CPC Committee, replacing Zhang Wenyue. Former Minister of Agriculture Sun Zhengcai took over as Party chief of Jilin Province. And former governor of Hebei Hu Chunhua was appointed Party chief of Inner Mongolia Autonomous Region, replacing Chu Bo, who retired.](/news/2009/11/30/in-a-major-provincial-leadership-reshuffle-in-the-people-s-republic-of-china-lu-zhangong-was-appointed-secretary-of-the-henan-cpc-provinci.md)
-_Context: Chinese, Chu Bo, Fujian, Hebei, Henan, Hu Chunhua, Inner Mongolia, Lu Zhangong, Sun Chunlan, Sun Zhengcai, Wang Min, Xu Guangchun, Zhang Wenyue_
+_Context: China, Chu Bo, Fujian, Hebei, Henan, Hu Chunhua, Inner Mongolia, Lu Zhangong, Sun Chunlan, Sun Zhengcai, Wang Min, Xu Guangchun, Zhang Wenyue_
 
 ### [ An explosive device goes off under a train travelling from Tyumen, Russia, to Baku in Azerbaijan, in the northern Caucasus republic of Dagestan. ](/news/2009/11/30/an-explosive-device-goes-off-under-a-train-travelling-from-tyumen-russia-to-baku-in-azerbaijan-in-the-northern-caucasus-republic-of-dage.md)
 _Context: Azerbaijan, Baku, Caucasus, Dagestan, Russia, Tyumen_

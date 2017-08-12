@@ -10,7 +10,7 @@ _Context: Anglican Church, Anglican Church of Canada, Anglican Consultative Coun
 _Context: Chen Shui-bian, James Soong, People First Party, Taiwan, Taiwan Strait, status_
 
 ### [ The PRC objects to former US President Bill Clinton's plan to visit Taiwan and meet with the ROC President Chen Shui-bian. ](/news/2005/02/24/the-prc-objects-to-former-us-president-bill-clinton-s-plan-to-visit-taiwan-and-meet-with-the-roc-president-chen-shui-bian.md)
-_Context: Bill Clinton, Chen Shui-bian, Chinese, President of Taiwan, Taiwan, Taiwan_
+_Context: Bill Clinton, Chen Shui-bian, China, President of Taiwan, Taiwan, Taiwan_
 
 ### [ Pope John Paul II returns to hospital in Rome for more specialist treatments and tests. ](/news/2005/02/24/pope-john-paul-ii-returns-to-hospital-in-rome-for-more-specialist-treatments-and-tests.md)
 _Context: Pope John Paul II_

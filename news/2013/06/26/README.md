@@ -4,7 +4,7 @@
 A case has been registered against unknown persons at the Aram Bagh police station.
 
 ### [Riots in China's Xinjiang region kill at least 36 people. ](/news/2013/06/26/riots-in-china-s-xinjiang-region-kill-at-least-36-people.md)
-_Context: Chinese, Xinjiang, kill at least 36 people_
+_Context: China, Xinjiang, kill at least 36 people_
 
 ### [Syrian Civil War:The Syrian Observatory for Human Rights estimates that 100,000 people have died in the fighting. ](/news/2013/06/26/syrian-civil-war-pthe-syrian-observatory-for-human-rights-estimates-that-100-000-people-have-died-in-the-fighting.md)
 _Context: Syrian Civil War, Syrian Observatory for Human Rights_

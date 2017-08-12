@@ -22,7 +22,7 @@ The culling is part of a series of precautionary steps being taken after the chi
 _Context: Indonesia, Maluku Islands_
 
 ### [North Korea closes its border with China ahead of the funeral of former leader Kim Jong-il. ](/news/2011/12/21/north-korea-closes-its-border-with-china-ahead-of-the-funeral-of-former-leader-kim-jong-il.md)
-_Context: Chinese, Kim Jong-il, North Korea_
+_Context: China, Kim Jong-il, North Korea_
 
 ### [Argentina, Brazil and Uruguay agree to close their ports to ships flying the flag of the Falkland Islands at a Mercosur meeting; Argentina and the United Kingdom both claim the islands. ](/news/2011/12/21/argentina-brazil-and-uruguay-agree-to-close-their-ports-to-ships-flying-the-flag-of-the-falkland-islands-at-a-mercosur-meeting-argentina-a.md)
 Brazil, Argentina and Uruguay agree to close their ports to shipping bearing flag of disputed South Atlantic islands.

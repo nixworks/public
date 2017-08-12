@@ -22,7 +22,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Cuba, tobacco, tobacco smoking_
 
 ### [ In China, the Ministry of Agriculture announces that it has developed a vaccine against bird flu spreading to humans ](/news/2005/02/8/in-china-the-ministry-of-agriculture-announces-that-it-has-developed-a-vaccine-against-bird-flu-spreading-to-humans.md)
-_Context: Avian flu virus, Chinese, vaccine_
+_Context: Avian flu virus, China, vaccine_
 
 ### [ The parliament in Greece elects Karolos Papoulias as their new president for the next five-year term. ](/news/2005/02/8/the-parliament-in-greece-elects-karolos-papoulias-as-their-new-president-for-the-next-five-year-term.md)
 _Context: Greek, Karolos Papoulias, government, president_

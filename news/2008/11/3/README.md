@@ -4,7 +4,7 @@
 Gov. Sarah Palin violated no ethics laws when she fired her public safety commissioner, the state personnel board concluded in a report released Monday.
 
 ### [ ARATS president Chen Yunlin, the official delegation of the People's Republic of China, arrives in Taiwan for talks with SEF chairman Chiang Pin-kung. ](/news/2008/11/3/arats-president-chen-yunlin-the-official-delegation-of-the-people-s-republic-of-china-arrives-in-taiwan-for-talks-with-sef-chairman-chian.md)
-_Context: Association for Relations Across the Taiwan Straits, Chen Yunlin, Chiang Pin-kung, Chinese, Straits Exchange Foundation, Taiwan_
+_Context: Association for Relations Across the Taiwan Straits, Chen Yunlin, Chiang Pin-kung, China, Straits Exchange Foundation, Taiwan_
 
 ### [ Ita and Unibanco announce they will merge their banking, credit, and insurance operations, creating the largest financial services group in Brazil and the Southern Hemisphere. ](/news/2008/11/3/itau-and-unibanco-announce-they-will-merge-their-banking-credit-and-insurance-operations-creating-the-largest-financial-services-group-i.md)
 _Context: Brazil, Ita, Unibanco, pre-merger, southern hemisphere_

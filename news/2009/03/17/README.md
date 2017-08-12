@@ -16,7 +16,7 @@ The handset maker prepares to drop 1,700 employees, but more announcements may b
 _Context: Seattle Post-Intelligencer, newspaper, online, print edition_
 
 ### [ North Korean Premier Kim Yong-il begins a five-day goodwill tour of China in Jinan, Shandong. ](/news/2009/03/17/north-korean-premier-kim-yong-il-begins-a-five-day-goodwill-tour-of-china-in-jinan-shandong.md)
-_Context: Chinese, Jinan, Kim Yong-il, North Korea, Premier, Shandong, goodwill tour_
+_Context: China, Jinan, Kim Yong-il, North Korea, Premier, Shandong, goodwill tour_
 
 ### [ The European Space Agency's Gravity Field and Steady-State Ocean Circulation Explorer launches from the Plesetsk Cosmodrome in Arkhangelsk Oblast, Russia. ](/news/2009/03/17/the-european-space-agency-s-gravity-field-and-steady-state-ocean-circulation-explorer-launches-from-the-plesetsk-cosmodrome-in-arkhangelsk.md)
 _Context: Arkhangelsk Oblast, European Space Agency, Goce, Plesetsk Cosmodrome, Russia_

@@ -19,7 +19,7 @@ Jaeger collapses into administration after failing to find a buyer, putting 700 
 People in northern parts of New Caledonia are told to stay indoors as Cyclone Cook buffets the French territory.
 
 ### [People's Republic of China detains Taiwanese political activist Lee Ming-che on suspicion of endangering national security and revokes his wife's travel permit. ](/news/2017/04/10/people-s-republic-of-china-detains-taiwanese-political-activist-lee-ming-che-on-suspicion-of-endangering-national-security-and-revokes-his-w.md)
-_Context: Chinese, Cross-Strait relations_
+_Context: China, Cross-Strait relations_
 
 ### [An elementary school teacher and an 8-year-old student  were shot and killed by the teacher's estranged husband, who then killed himself, at  North Park Elementary School in San Bernardino, California. Another student, a 9-year-old boy who was also behind the teacher, was wounded.  ](/news/2017/04/10/an-elementary-school-teacher-and-an-8-year-old-student-were-shot-and-killed-by-the-teacher-s-estranged-husband-who-then-killed-himself-at.md)
 A gunman opened fire inside his wife&#x27;s elementary school classroom in San Bernardino on Monday, killing her and one a student before shooting himself.

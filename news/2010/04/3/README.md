@@ -13,7 +13,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 Prime Minister Kevin Rudd has announced that Tony Burke will take on the new role of minister for population.
 
 ### [Rescuers enter a flooded mine in Shanxi, China to help over 153 workers trapped there for over a week. ](/news/2010/04/3/rescuers-enter-a-flooded-mine-in-shanxi-china-to-help-over-153-workers-trapped-there-for-over-a-week.md)
-_Context: Chinese, Shanxi province_
+_Context: China, Shanxi province_
 
 ### [Eight people are missing and one dies as a fishing boat sinks while searching for the South Korean ''Cheonan'' warship that sank last week near the Northern Limit Line border with North Korea. ](/news/2010/04/3/eight-people-are-missing-and-one-dies-as-a-fishing-boat-sinks-while-searching-for-the-south-korean-cheonan-warship-that-sank-last-week-n.md)
 _Context: North Korea, Northern Limit Line, ROKS ''Cheonan'', South Korea, sinking_

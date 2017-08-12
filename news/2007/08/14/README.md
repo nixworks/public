@@ -13,7 +13,7 @@ _Context: Italian, Lampedusa, coast guard, illegal immigrant_
 _Context: Dagestan, Internet, Russia, Tajikistan, far right_
 
 ### [ A Polish soldier is killed by Taliban near Gardez, Afghanistan. It is the first Polish casualty in the War in Afghanistan. ](/news/2007/08/14/a-polish-soldier-is-killed-by-taliban-near-gardez-afghanistan-it-is-the-first-polish-casualty-in-the-war-in-afghanistan.md)
-_Context: Afghanistan's, Gardez, Poland, Taliban, War in Afghanistan (2001-present), casualty_
+_Context: Afghanistan's, Gardez, Polish, Taliban, War in Afghanistan (2001-present), casualty_
 
 ### [ The Central Bank of Nigeria announces the naira will be made convertible by 2009. It will also be redenominated from August 2008. ](/news/2007/08/14/the-central-bank-of-nigeria-announces-the-naira-will-be-made-convertible-by-2009-it-will-also-be-redenominated-from-august-2008.md)
 _Context: Central Bank of Nigeria, Nigeria, convertible, naira, redenomination_

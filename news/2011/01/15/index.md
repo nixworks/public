@@ -37,7 +37,7 @@ The town of Echuca, on the Victorian-New South Wales border, is facing unprecede
 A BRITISH undercover police officer who infiltrated protest movements across Europe over seven years made several visits to Ireland&hellip;
 
 ### [Iranian diplomatic tour and medical discovery:A group of international diplomats begins a two-day tour given by Iran as a gesture of goodwill and transparency in response to foreign concerns over its nuclear program. The European Union, Russia, and the People's Republic of China refuses its invitation. ](/news/2011/01/15/iranian-diplomatic-tour-and-medical-discovery-pa-group-of-international-diplomats-begins-a-two-day-tour-given-by-iran-as-a-gesture-of-goodwi.md)
-_Context: Chinese, European Union, Iran, Russia, nuclear scientist_
+_Context: China, European Union, Iran, Russia, nuclear scientist_
 
 ### [The Southern Sudanese independence referendum, 2011 ends. ](/news/2011/01/15/the-southern-sudanese-independence-referendum-2011-ends.md)
 Huge turnout in south Sudan referendum expected to back secession from the north of the country.
@@ -46,7 +46,7 @@ Huge turnout in south Sudan referendum expected to back secession from the north
 France pledges to overhaul its medical regulatory system after a failure to ban a diabetes drug that may have killed up to 2,000 people.
 
 ### [China may station troops in North Korea to protect its investment projects and citizens.](/news/2011/01/15/china-may-station-troops-in-north-korea-to-protect-its-investment-projects-and-citizens.md)
-_Context: Chinese, North Korea, military_
+_Context: China, North Korea, military_
 
 ## [Previous Day...](/news/2011/01/14/index.md)
 

@@ -28,7 +28,7 @@ _Context: California, Los Angeles, California, Redondo Beach_
 _Context: Harrisburg, PA_
 
 ### [China reiterates its claim over the disputed Spratly Islands after Vietnam and the Philippines protest over Chinese naval activity in their waters. ](/news/2011/03/8/china-reiterates-its-claim-over-the-disputed-spratly-islands-after-vietnam-and-the-philippines-protest-over-chinese-naval-activity-in-their.md)
-_Context: Chinese, Philippines, Spratly Islands, Vietnam_
+_Context: China, Philippines, Spratly Islands, Vietnam_
 
 ### [Lt. General Hideyuki Yoshioka, responsible for air systems development at Japan's Ministry of Defense, estimates that it  is on track to develop a stealth fighter within three years. ](/news/2011/03/8/lt-general-hideyuki-yoshioka-responsible-for-air-systems-development-at-japan-s-ministry-of-defense-estimates-that-it-is-on-track-to-dev.md)
 _Context: Hideyuki Yoshioka, Japan, Ministry of Defense, stealth fighter_

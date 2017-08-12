@@ -43,7 +43,7 @@ Army ceases military operations against Houthi fighters following ceasefire.
 Senior General says elections to proceed this year but gives no specific dates.
 
 ### [Chinese human rights activist Feng Zhenghu, stranded at Japan's Narita International Airport after being refused entry to China for three months, returns home. ](/news/2010/02/12/chinese-human-rights-activist-feng-zhenghu-stranded-at-japan-s-narita-international-airport-after-being-refused-entry-to-china-for-three-mo.md)
-_Context: Chinese, Feng Zhenghu, Japan, Narita International Airport_
+_Context: China, Feng Zhenghu, Japan, Narita International Airport_
 
 ## [Previous Day...](/news/2010/02/11/index.md)
 

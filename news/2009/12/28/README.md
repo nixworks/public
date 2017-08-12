@@ -7,7 +7,7 @@ _Context: Hirohisa Fujii, Japan, finance minister_
 _Context: Argentine, Latin America, civil ceremony, homosexuality, same-sex marriage_
 
 ### [ Xinhua News Agency says China has rescued 25 sailors and the ''De Xin Hai'', the hijacked Chinese cargo ship, two months after they were seized off Somalia. ](/news/2009/12/28/xinhua-news-agency-says-china-has-rescued-25-sailors-and-the-de-xin-hai-the-hijacked-chinese-cargo-ship-two-months-after-they-were-se.md)
-_Context: China, Chinese, De Xin Hai, Somalia, Xinhua News Agency_
+_Context: China, China, De Xin Hai, Somalia, Xinhua News Agency_
 
 ### [ A mine explosion in Shuangbai County, Yunnan causes more deaths to add to those from a similar incident in Jiexiu, Shanxi yesterday, bringing the total deaths for the two incidents to 17, with six other people still trapped. ](/news/2009/12/28/a-mine-explosion-in-shuangbai-county-yunnan-causes-more-deaths-to-add-to-those-from-a-similar-incident-in-jiexiu-shanxi-yesterday-bringi.md)
 _Context: Jiexiu, Shanxi province, Shuangbai County, Yunnan_
@@ -49,7 +49,7 @@ _Context: Albina, Brazil, Suriname_
 _Context: Italian, avalanche_
 
 ### [ At least 10 people die and 19 others are injured when more than 100 vehicles smash into each other near Poyang Lake in Jiangxi, China. ](/news/2009/12/28/at-least-10-people-die-and-19-others-are-injured-when-more-than-100-vehicles-smash-into-each-other-near-poyang-lake-in-jiangxi-china.md)
-_Context: Chinese, Jiangxi, Poyang Lake_
+_Context: China, Jiangxi, Poyang Lake_
 
 ### [ One woman dies and at least 18 people are injured after a bus overturns in Gorey, Ireland. An ambulance also overturns. ](/news/2009/12/28/one-woman-dies-and-at-least-18-people-are-injured-after-a-bus-overturns-in-gorey-ireland-an-ambulance-also-overturns.md)
 A woman in her 40s has been killed and 18 others injured after a minibus overturned near Gorey, Co Wexford.

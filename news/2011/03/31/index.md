@@ -37,7 +37,7 @@ _Context: Libya, Miguel d'Escoto Brockmann, Muammar Gaddafi, Nicaragua, United N
 _Context: Afghanistan's, Australia, Indonesia_
 
 ### [Philippine authorities are to seek long jail terms for six Chinese poachers as part of a crackdown on foreigners stealing marine wildlife. ](/news/2011/03/31/philippine-authorities-are-to-seek-long-jail-terms-for-six-chinese-poachers-as-part-of-a-crackdown-on-foreigners-stealing-marine-wildlife.md)
-_Context: Chinese, Philippine_
+_Context: China, Philippine_
 
 ### [Moriarty Tribunal:Taoiseach Enda Kenny confirms that disgraced former minister Michael Lowry is to be censured by Dail Eireann today without any discussion of the matter, following two days of debate on the tribunal's findings. ](/news/2011/03/31/moriarty-tribunal-ptaoiseach-enda-kenny-confirms-that-disgraced-former-minister-michael-lowry-is-to-be-censured-by-da-il-aireann-today-with.md)
 AN AGREED all-party motion of censure against former minister Michael Lowry will be put to the D&aacute;il today without any discussion&hellip;
@@ -58,7 +58,7 @@ _Context: The 5 Browns, sexual abuse_
 Former Labour MP Jim Devine is jailed for 16 months at the Old Bailey for fraudulently claiming £8,385 in expenses.
 
 ### [China launches its largest crackdown on dissenters in years, according to activists, amid unrest in the Middle East. ](/news/2011/03/31/china-launches-its-largest-crackdown-on-dissenters-in-years-according-to-activists-amid-unrest-in-the-middle-east.md)
-_Context: Chinese, dissent_
+_Context: China, dissent_
 
 ### [The Governor of Ohio John Kasich signs a bill removing collective bargaining rights from Ohio government employees. ](/news/2011/03/31/the-governor-of-ohio-john-kasich-signs-a-bill-removing-collective-bargaining-rights-from-ohio-government-employees.md)
 COLUMBUS—Gov. John Kasich plans to follow through on Thursday night with his pledge to sign into law a bill severely restricting the collective bargaining power of some 350,000 public employees in Ohio. At 7 p.m., after the Statehouse has been closed for the night, the Republican governor will sign Senate Bill 5 in his ceremonial office. The bill, however, is unlikely to go into effect for another seven months, if at all. An expensive, manpower-intensive petition effort is expected to put the bill to voters via a referendum on Nov. 8, a move that would place the law on hold at least temporarily. “There is a reason that the union bosses opposed these changes; because it strips power from the union leaders and returns it to the taxpayers and workers…,’’ he wrote in a campaign fund-

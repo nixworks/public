@@ -34,7 +34,7 @@ _Context: North Korea, Panmunjom, South Korea_
 _Context: Aung San Suu Kyi, Burma, National League for Democracy_
 
 ### [Taiwan arrests Major General Lo Hsieh-che, head of the Taiwanese Army's electronic communications and information department, for allegedly leaking secrets to the People's Republic of China. ](/news/2011/02/8/taiwan-arrests-major-general-lo-hsieh-che-head-of-the-taiwanese-army-s-electronic-communications-and-information-department-for-allegedly.md)
-_Context: Chinese, Lo Hsieh-che, Taiwan, Taiwanese Army, major general_
+_Context: China, Lo Hsieh-che, Taiwan, Taiwanese Army, major general_
 
 ### [Several dozen Rohingya boat refugees from Bangladesh and Myanmar are accepted to India at Port Blair in the Andaman Islands after being detained by the Thai Navy and rejected at sea, but face repatriation to Bangladesh. ](/news/2011/02/8/several-dozen-rohingya-boat-refugees-from-bangladesh-and-myanmar-are-accepted-to-india-at-port-blair-in-the-andaman-islands-after-being-deta.md)
 _Context: Andaman Islands, Bangladesh, India, Myanmar, Port Blair, Rohingya, Thai Navy, refugee, repatriation_

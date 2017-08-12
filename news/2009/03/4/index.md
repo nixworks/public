@@ -13,7 +13,7 @@ _Context: Gordon Brown, Prime Minister, U.S., United Kingdom, United States Cong
 _Context: France, Nicolas Sarkozy, President of France, death threat, politician_
 
 ### [ China plans to increase its military budget by 14.9% in 2009. ](/news/2009/03/4/china-plans-to-increase-its-military-budget-by-14-9-in-2009.md)
-_Context: Chinese, military budget_
+_Context: China, military budget_
 
 ### [ U.S. Secretary of State Hillary Clinton and Palestinian National Authority President Mahmoud Abbas meet in the West Bank. ](/news/2009/03/4/u-s-secretary-of-state-hillary-clinton-and-palestinian-national-authority-president-mahmoud-abbas-meet-in-the-west-bank.md)
 _Context: Hillary Clinton, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, U.S., United States Secretary of State, West Bank_

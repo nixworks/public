@@ -1,7 +1,7 @@
 ## [2009-12-17](/news/2009/12/17/index.md)
 
 ### [ Europe is hit by heavy snowfall leading to disruptions in France, Germany, Poland and Spain. ](/news/2009/12/17/europe-is-hit-by-heavy-snowfall-leading-to-disruptions-in-france-germany-poland-and-spain.md)
-_Context: Europe, France, Germany, Poland, Spain_
+_Context: Europe, France, Germany, Polish, Spain_
 
 ### [ The Panamanian livestock transporter MV ''Danny F II'' sinks off the coast of Lebanon while travelling from Uruguay to Syria with 83 people on board. ](/news/2009/12/17/the-panamanian-livestock-transporter-mv-danny-f-ii-sinks-off-the-coast-of-lebanon-while-travelling-from-uruguay-to-syria-with-83-people.md)
 _Context: Lebanon, MV ''Danny F II'', Panama, Syria, Uruguay_

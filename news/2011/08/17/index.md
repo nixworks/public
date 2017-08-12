@@ -4,7 +4,7 @@
 _Context: Afghanistan President, Kabul_
 
 ### [Workers at the Polish Przewozy Regionalne passenger rail network commence a 24-hour strike. ](/news/2011/08/17/workers-at-the-polish-przewozy-regionalne-passenger-rail-network-commence-a-24-hour-strike.md)
-_Context: Poland, Przewozy Regionalne_
+_Context: Polish, Przewozy Regionalne_
 
 ### [Verizon Communications says that striking workers who do not return to work by the end of August will lose medical, prescription drug, and related benefits. ](/news/2011/08/17/verizon-communications-says-that-striking-workers-who-do-not-return-to-work-by-the-end-of-august-will-lose-medical-prescription-drug-and-r.md)
 _Context: Verizon Communications, prescription drug_

@@ -7,10 +7,10 @@ Tens of thousands protest across Syria days after the bloody crackdown on the ci
 Rebel spokesman says Libyan army commander Khamis Gaddafi killed in NATO airstrike on Zlitan, a claim government denies.
 
 ### [Meng Jianzhu, the Minister for Public Security in the People's Republic of China, orders a clampdown in Xinjiang following recent unrest. ](/news/2011/08/5/meng-jianzhu-the-minister-for-public-security-in-the-people-s-republic-of-china-orders-a-clampdown-in-xinjiang-following-recent-unrest.md)
-_Context: Chinese, Meng Jianzhu, Ministry of Public Security of the People's Republic of China, Xinjiang, recent unrest_
+_Context: China, Meng Jianzhu, Ministry of Public Security of the People's Republic of China, Xinjiang, recent unrest_
 
 ### [Burmese state media say rebels in the northeast of the country killed seven workers from a Chinese-backed hydroelectric power project. ](/news/2011/08/5/burmese-state-media-say-rebels-in-the-northeast-of-the-country-killed-seven-workers-from-a-chinese-backed-hydroelectric-power-project.md)
-_Context: Burma, Chinese, state media_
+_Context: Burma, China, state media_
 
 ### [Stock markets in Asia and Australia continue falls from Europe and the United States. ](/news/2011/08/5/stock-markets-in-asia-and-australia-continue-falls-from-europe-and-the-united-states.md)
 Stock markets worldwide plunged on Thursday amid fears of a new global economic downturn, with Wall Street suffering its worst day since the financial crisis.

@@ -19,7 +19,7 @@ _Context: Fukushima Daiichi nuclear disaster, Grain Exchange, Japan, Tokyo, futu
 _Context: Cameron Highlands, Malaysia, landslide_
 
 ### [More than 100,000 people have been evacuated from China's Shandong Province as former Typhoon Muifa travels along the eastern coast as a tropical storm. ](/news/2011/08/8/more-than-100-000-people-have-been-evacuated-from-china-s-shandong-province-as-former-typhoon-muifa-travels-along-the-eastern-coast-as-a-tro.md)
-_Context: Chinese, Shandong Province, Typhoon Muifa, tropical storm_
+_Context: China, Shandong Province, Typhoon Muifa, tropical storm_
 
 ### [The High Court of Australia grants an injunction against the removal of asylum seekers to Malaysia until a full hearing later this month. ](/news/2011/08/8/the-high-court-of-australia-grants-an-injunction-against-the-removal-of-asylum-seekers-to-malaysia-until-a-full-hearing-later-this-month.md)
 The injunction preventing the removal of asylum seekers to Malaysia has been extended until there is a full hearing later this month.

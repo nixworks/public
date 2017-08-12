@@ -19,7 +19,7 @@ _Context: Archaeologist, Kings of Scotland, Robert the Bruce, Scone Palace_
 NAB’s $13b bid for AXA Asia Pacific has been knocked back for a second time by the nation&#039;s competition regulator, opening the way for rival AMP to take another shot at AXA.
 
 ### [Tropical Storm Meranti is forecast to bring heavy rains to Fujian, Guangdong, Guangxi and Hainan provinces in the People's Republic of China, as well as in Taiwan. ](/news/2010/09/9/tropical-storm-meranti-is-forecast-to-bring-heavy-rains-to-fujian-guangdong-guangxi-and-hainan-provinces-in-the-people-s-republic-of-china.md)
-_Context: Chinese, Fujian, Guangdong province, Guangxi Zhuang, Hainan, Taiwan, Typhoon Chaba_
+_Context: China, Fujian, Guangdong province, Guangxi Zhuang, Hainan, Taiwan, Typhoon Chaba_
 
 ### [The 2010 San Bruno, California fire begins with a massive explosion in a natural gas line destroying dozens of houses, killing at least 6 people, and continues burning in San Bruno, California near the US city of San Francisco. ](/news/2010/09/9/the-2010-san-bruno-california-fire-begins-with-a-massive-explosion-in-a-natural-gas-line-destroying-dozens-of-houses-killing-at-least-6-pe.md)
 The official death toll from the natural-gas-line explosion in a Bay Area suburb stands at four people, with 38 homes destroyed, as authorities investigate what caused the blast.
@@ -31,7 +31,7 @@ _Context: Iran, Sarah Shourd, U.S., United Nations, diplomat_
 Barack Obama has condemned an American pastor&rsquo;s plan to burn copies of the Koran on the ninth anniversary of September 11 as a &ldquo;recruitment bonanza for al-Qaeda&rdquo;, as outrage has built across the Islam world.
 
 ### [Wang Huayuan, a top anti-corruption official in China's Shandong province, is sentenced to death for accepting $1 million in bribes. ](/news/2010/09/9/wang-huayuan-a-top-anti-corruption-official-in-china-s-shandong-province-is-sentenced-to-death-for-accepting-1-million-in-bribes.md)
-_Context: Chinese, Shandong, anti-corruption, bribe_
+_Context: China, Shandong, anti-corruption, bribe_
 
 ### [Investigators in the Philippines admit that Manila Police District officers may have shot dead some of the tourists killed in the Manila hostage crisis in August. ](/news/2010/09/9/investigators-in-the-philippines-admit-that-manila-police-district-officers-may-have-shot-dead-some-of-the-tourists-killed-in-the-manila-hos.md)
 _Context: Manila Police District, Manila hostage crisis, Philippines_

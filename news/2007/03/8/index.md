@@ -10,7 +10,7 @@ _Context: 2006-07 Southern Hemisphere tropical cyclone season, George, Port Hedl
 _Context: 2008, Democratic, Iraq, United States House of Representatives, United States military personnel_
 
 ### [ 2007 National People's Congress: The People's Republic of China launches a property law designed to better protect individual property rights. ](/news/2007/03/8/2007-national-people-s-congress-the-people-s-republic-of-china-launches-a-property-law-designed-to-better-protect-individual-property-righ.md)
-_Context: 2007 National People's Congress, Chinese, property rights_
+_Context: 2007 National People's Congress, China, property rights_
 
 ### [ Sri Lankan Civil War: Thousands of civilians flee their homes in Sri Lanka because of fighting between government troops and the Tamil Tigers. ](/news/2007/03/8/sri-lankan-civil-war-thousands-of-civilians-flee-their-homes-in-sri-lanka-because-of-fighting-between-government-troops-and-the-tamil-tige.md)
 _Context: Army, Sri Lanka, Sri Lankan Civil War, Tamil Tigers_

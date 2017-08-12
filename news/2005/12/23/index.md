@@ -13,7 +13,7 @@ _Context: 2012 Summer Olympics, IOC, London_
 _Context: Hubble Space Telescope, Moon, Uranus, ring system_
 
 ### [ Lech Kaczynski was sworn in as President of the Republic of Poland. ](/news/2005/12/23/lech-kaczyaski-was-sworn-in-as-president-of-the-republic-of-poland.md)
-_Context: Lech Kaczynski, Poland, President_
+_Context: Lech Kaczynski, Polish, President_
 
 ### [ ''U.S. News and World Report'' claimed that the United States government has been monitoring mosques in the United States since September 11 for traces of radiation. ](/news/2005/12/23/u-s-news-and-world-report-claimed-that-the-united-states-government-has-been-monitoring-mosques-in-the-united-states-since-september-1.md)
 _Context: September 11, 2001 attacks, U.S., U.S. News and World Report, mosque, radiation_

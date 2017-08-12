@@ -34,7 +34,7 @@ _Context: Indonesia, Java, Mounts Merapi, Yogyakarta_
 _Context: Caracas, Colombia, Colombian President, Hugo Chvez, Juan Manuel Santos, Venezuela, Venezuelan President_
 
 ### [A senior military intelligence officer is arrested in Taiwan for being a double agent for China. ](/news/2010/11/2/a-senior-military-intelligence-officer-is-arrested-in-taiwan-for-being-a-double-agent-for-china.md)
-_Context: Chinese, Taiwan, double agent_
+_Context: China, Taiwan, double agent_
 
 ### [Japan temporarily recalls its ambassador to Russia amid a dispute over a visit by President Dmitry Medvedev to the Kuril Islands. ](/news/2010/11/2/japan-temporarily-recalls-its-ambassador-to-russia-amid-a-dispute-over-a-visit-by-president-dmitry-medvedev-to-the-kuril-islands.md)
 Russian President Dmitry Medvedev is said to be planning to visit more of the disputed Kuril Islands, despite growing anger from Japan.
@@ -43,7 +43,7 @@ Russian President Dmitry Medvedev is said to be planning to visit more of the di
 _Context: David Cameron, London, Nicolas Sarkozy, President of France, Prime Minister, army, expeditionary force, nuclear warhead_
 
 ### [A court in Zambia grants bail to two Chinese managers accused of attempted murder for shooting and injuring 11 coal miners during a protest over pay and working conditions. ](/news/2010/11/2/a-court-in-zambia-grants-bail-to-two-chinese-managers-accused-of-attempted-murder-for-shooting-and-injuring-11-coal-miners-during-a-protest.md)
-_Context: Chinese, Zambia, bail_
+_Context: China, Zambia, bail_
 
 ### [Yemen charges militant Islamic cleric Anwar al-Awlaki with incitement to kill foreigners. ](/news/2010/11/2/yemen-charges-militant-islamic-cleric-anwar-al-awlaki-with-incitement-to-kill-foreigners.md)
 _Context: Anwar al-Awlaki, Islam, Yemen_

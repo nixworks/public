@@ -1,7 +1,7 @@
 ## [2007-06-8](/news/2007/06/8/index.md)
 
 ### [ The Council of Europe publishes a report claiming to prove that member states Romania and Poland conspired with the American CIA to kidnap and torture suspected terrorists. ](/news/2007/06/8/the-council-of-europe-publishes-a-report-claiming-to-prove-that-member-states-romania-and-poland-conspired-with-the-american-cia-to-kidnap.md)
-_Context: CIA, Council of Europe, Poland, Romania_
+_Context: CIA, Council of Europe, Polish, Romania_
 
 ### [ Chinese police rescue 31 workers kept as slaves at a brickworks in Linfen, in Shanxi province, run by the son of a local official of the Communist Party of China. ](/news/2007/06/8/chinese-police-rescue-31-workers-kept-as-slaves-at-a-brickworks-in-linfen-in-shanxi-province-run-by-the-son-of-a-local-official-of-the-co.md)
 _Context: China, Communist Party of China, Linfen, Shanxi province, brickworks, police, slave_

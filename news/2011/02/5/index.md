@@ -13,7 +13,7 @@ A Thai soldier is shot dead in a disputed area around the Cambodia border, where
 Rebellion by former pro-Khartoum fighters against giving up their heavy weapons leaves 20 people dead and many injured.
 
 ### [Pope Benedict XVI ordains five new bishops, including a Chinese prelate from Hong Kong despite attempts by China's official church to ordain bishops without his approval. ](/news/2011/02/5/pope-benedict-xvi-ordains-five-new-bishops-including-a-chinese-prelate-from-hong-kong-despite-attempts-by-china-s-official-church-to-ordain.md)
-_Context: Chinese, Hong Kong, Pope Benedict XVI_
+_Context: China, Hong Kong, Pope Benedict XVI_
 
 ### [Comedian Steve Coogan criticises the presenters of BBC television series ''Top Gear'' in relation to their recent insulting of Mexicans. He also criticies the BBC's "pitiful" and "mealy-mouthed" apology after it offended Mexicans. ](/news/2011/02/5/comedian-steve-coogan-criticises-the-presenters-of-bbc-television-series-top-gear-in-relation-to-their-recent-insulting-of-mexicans-he.md)
 _Context: BBC, Steve Coogan, Top Gear_

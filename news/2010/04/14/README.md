@@ -16,7 +16,7 @@ _Context: Eyjafjallajokull, Iceland_
 _Context: Barack Obama, Mars_
 
 ### [Controversy arises over the decision to bury Polish President Lech Kaczynski in Wawel Cathedral in Krakow--a place reserved for Poland's kings and heroes. Hundreds of people have taken to the streets in protest, and thousands have joined an internet campaign objecting to the plan. ](/news/2010/04/14/controversy-arises-over-the-decision-to-bury-polish-president-lech-kaczyaski-in-wawel-cathedral-in-kraka3waa-place-reserved-for-poland-s.md)
-_Context: Lech Kaczynski, Poland, Wawel Cathedral_
+_Context: Lech Kaczynski, Polish, Wawel Cathedral_
 
 ### [Tokelau outlaws whaling within its territorial waters. ](/news/2010/04/14/tokelau-outlaws-whaling-within-its-territorial-waters.md)
 _Context: Tokelau, hunt_

@@ -29,7 +29,7 @@ A family was paid more than £600,000 in damages and costs by the Crown Prosecut
 Four TCU football players were arrested in a drug sweep on and around campus on Wednesday.
 
 ### [ACTA loses further support in Europe as Bulgaria and the Netherlands join Poland and Germany in declining to ratify it due to privacy and human rights concerns. ](/news/2012/02/15/acta-loses-further-support-in-europe-as-bulgaria-and-the-netherlands-join-poland-and-germany-in-declining-to-ratify-it-due-to-privacy-and-hu.md)
-_Context: Anti-Counterfeiting Trade Agreement, Bulgaria, Europe, Germany, Netherlands, Poland_
+_Context: Anti-Counterfeiting Trade Agreement, Bulgaria, Europe, Germany, Netherlands, Polish_
 
 ### [A giant statue of Kim Jong-il is unveiled in North Korea ahead of the 70th anniversary of his birthday. ](/news/2012/02/15/a-giant-statue-of-kim-jong-il-is-unveiled-in-north-korea-ahead-of-the-70th-anniversary-of-his-birthday.md)
 _Context: Kim Jong-il, North Korea_

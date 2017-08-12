@@ -7,7 +7,7 @@ _Context: Hakkari Province, Hakkri, Kurdish, Kurdistan Workers' Party, Turkey_
 _Context: 2005, Blaise Compaor, Burkina Faso presidential elections_
 
 ### [ The Health Ministry of the People's Republic of China announces the country's first one confirmed and one suspected cases of avian flu in humans in Hunan Province, and one confirmed case in Anhui. ](/news/2005/11/16/the-health-ministry-of-the-people-s-republic-of-china-announces-the-country-s-first-one-confirmed-and-one-suspected-cases-of-avian-flu-in-h.md)
-_Context: Anhui, Chinese, Hunan, avian flu_
+_Context: Anhui, China, Hunan, avian flu_
 
 ### [ The United States government has won its fight to keep its supervisory authority over the internet through the ICANN, despite opposition from many nations. ](/news/2005/11/16/the-united-states-government-has-won-its-fight-to-keep-its-supervisory-authority-over-the-internet-through-the-icann-despite-opposition-fr.md)
 _Context: Internet, Internet Corporation for Assigned Names and Numbers, U.S._

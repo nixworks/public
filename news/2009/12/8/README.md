@@ -19,7 +19,7 @@ A Serbian court has fined President Boris Tadic €400 for drinking champagne to
 _Context: Guinea, Moussa Dadis Camara, junta_
 
 ### [ Eight children are killed and a further 26 injured in a stampede at a school in Xiangtan, Hunan, in central China. ](/news/2009/12/8/eight-children-are-killed-and-a-further-26-injured-in-a-stampede-at-a-school-in-xiangtan-hunan-in-central-china.md)
-_Context: Chinese, Hunan, Xiangtan, stampede_
+_Context: China, Hunan, Xiangtan, stampede_
 
 ### [ A series of earthquakes and aftershocks kill a 1 year old child and injure several other people in northern Malawi. ](/news/2009/12/8/a-series-of-earthquakes-and-aftershocks-kill-a-1-year-old-child-and-injure-several-other-people-in-northern-malawi.md)
 _Context: Aftershock, Malawi, earthquake_

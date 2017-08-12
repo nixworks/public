@@ -25,7 +25,7 @@ _Context: 2010 Atlantic hurricane season, Mexico, Texas_
 _Context: Colorado, U.S., Wildfire_
 
 ### [North Korea announces it will release seven detained Chinese and South Korean fishermen. ](/news/2010/09/6/north-korea-announces-it-will-release-seven-detained-chinese-and-south-korean-fishermen.md)
-_Context: Chinese, North Korea, South Korea_
+_Context: China, North Korea, South Korea_
 
 ### [Bernard Kouchner, the French Minister of Foreign Affairs, and the Vatican offer to assist Sakineh Mohammadi Ashtiani sentenced to death by stoning for adultery in Iran. ](/news/2010/09/6/bernard-kouchner-the-french-minister-of-foreign-affairs-and-the-vatican-offer-to-assist-sakineh-mohammadi-ashtiani-sentenced-to-death-by-s.md)
 _Context: Bernard Kouchner, France, Holy See, Iran, Minister of Foreign Affairs, Sakineh Mohammadi Ashtiani, adultery_

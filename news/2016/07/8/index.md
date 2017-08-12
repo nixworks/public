@@ -22,7 +22,7 @@ The death in June is the first related to the Zika virus in the continental U.S.
 Edhi created a charitable empire out of nothing, masterminding Pakistan&rsquo;s largest welfare organisation.
 
 ### [NATO members gather in Warsaw, Poland, for a two-day summit. Much of the focus will be on Russia and NATO's commitments in bolstering its presence in Eastern Europe. Other issues to be discussed will include Europe's migrant crises, ISIL extremists, and the United Kingdom's withdrawal from the European Union. ](/news/2016/07/8/nato-members-gather-in-warsaw-poland-for-a-two-day-summit-much-of-the-focus-will-be-on-russia-and-nato-s-commitments-in-bolstering-its-pr.md)
-_Context: 2016 Warsaw summit, Aftermath of the United Kingdom European Union membership referendum, 2016, European migrant crisis, ISIL, NATO, Poland, Russia, Warsaw, eastern Europe_
+_Context: 2016 Warsaw summit, Aftermath of the United Kingdom European Union membership referendum, 2016, European migrant crisis, ISIL, NATO, Polish, Russia, Warsaw, eastern Europe_
 
 ### [American and South Korean military officials agree to deploy a U.S. Terminal High Altitude Area Defense (THAAD) missile defense system in the country to counter North Korea's growing threats and use of ballistic missile and nuclear tests. ](/news/2016/07/8/american-and-south-korean-military-officials-agree-to-deploy-a-u-s-terminal-high-altitude-area-defense-thaad-missile-defense-system-in-th.md)
 Officials say Terminal High-Altitude Area Defence will be quickly deployed to counter North Korea’s missile threat

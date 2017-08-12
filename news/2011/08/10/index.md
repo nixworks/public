@@ -1,7 +1,7 @@
 ## [2011-08-10](/news/2011/08/10/index.md)
 
 ### [The People's Republic of China's first aircraft carrier, the refitted Soviet aircraft carrier Varyag, commences its first sea trial under the Chinese flag. ](/news/2011/08/10/the-people-s-republic-of-china-s-first-aircraft-carrier-the-refitted-soviet-aircraft-carrier-varyag-commences-its-first-sea-trial-under-th.md)
-_Context: Chinese, Soviet aircraft carrier Varyag, aircraft carrier_
+_Context: China, Soviet aircraft carrier Varyag, aircraft carrier_
 
 ### [Korean Peninsula:The Yonhap news agency reports that sources have advised them that North Korea is plotting to assassinate Kim Kwan-jin, currently South Korea's defence minister. ](/news/2011/08/10/korean-peninsula-pthe-yonhap-news-agency-reports-that-sources-have-advised-them-that-north-korea-is-plotting-to-assassinate-kim-kwan-jin-cu.md)
 _Context: Kim Kwan-jin, Korean Peninsula, North Korea, South Korea, Yonhap_
@@ -16,7 +16,7 @@ WELLINGTON (Reuters Life!) - New Zealand will name a part of its highest mountai
 _Context: Asia, Australia, United States Federal Reserve, interest rates, stock market_
 
 ### [The trade surplus of the People's Republic of China rises to US$31.5 billion in July, the highest level in two years. ](/news/2011/08/10/the-trade-surplus-of-the-people-s-republic-of-china-rises-to-us-31-5-billion-in-july-the-highest-level-in-two-years.md)
-_Context: Chinese, trade deficit_
+_Context: China, trade deficit_
 
 ### [Australia's Civil Aviation Safety Authority gives Tiger Airways the all clear to resume operations after a six-week suspension for safety violations. ](/news/2011/08/10/australia-s-civil-aviation-safety-authority-gives-tiger-airways-the-all-clear-to-resume-operations-after-a-six-week-suspension-for-safety-vi.md)
 _Context: Australia, Civil Aviation Safety Authority, Tiger Airways_
