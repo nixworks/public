@@ -21,8 +21,11 @@ The U.S. Marine Corps on Friday ordered its aircraft squadrons to suspend flight
 ### [Shortly after Peruvian President Pedro Pablo Kuczynski called Maduro a "dictator", Peru expels Venezuela's ambassador to Peru to protest Venezuela's recent formation of an all-powerful constituent assembly that has been widely condemned as a power grab by socialist President Nicolas Maduro. ](/news/2017/08/11/shortly-after-peruvian-president-pedro-pablo-kuczynski-called-maduro-a-dictator-peru-expels-venezuela-s-ambassador-to-peru-to-protest-ven.md)
 _Context: Nicolas Maduro, Pedro Pablo Kuczynski, Peru-Venezuela relations, Venezuelan constitutional crisis_
 
-### [The Kenyan electoral commission announces that President Uhuru Kenyatta wins re-election. Kenyatta leads ODM candidate Raila Odinga by  more than 1.4 million votes. The Coalition for Reforms and Democracy opposition rejects this finding as fraudulent. ](/news/2017/08/11/the-kenyan-electoral-commission-announces-that-president-uhuru-kenyatta-wins-re-election-kenyatta-leads-odm-candidate-raila-odinga-by-more.md)
-_Context: Coalition for Reforms and Democracy, Kenya, Kenyan general election, 2017, ODM, President, Raila Odinga, Uhuru Kenyatta, electoral commission, re-election_
+### [The Kenyan electoral commission announces that President Uhuru Kenyatta has re-election. Kenyatta leads ODM candidate Raila Odinga by  more than 1.4 million votes. The opposition National Super Alliance rejects this finding as fraudulent. ](/news/2017/08/11/the-kenyan-electoral-commission-announces-that-president-uhuru-kenyatta-has-re-election-kenyatta-leads-odm-candidate-raila-odinga-by-more.md)
+_Context: Kenya, Kenyan general election, 2017, National Super Alliance, ODM, President, Raila Odinga, Uhuru Kenyatta, electoral commission, re-election_
+
+### [A white nationalist rally called Unite The Right took place in Charlottesville, Virginia](/news/2017/08/11/a-white-nationalist-rally-called-unite-the-right-took-place-in-charlottesville-virginia.md)
+_Context: Unite The Right_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
