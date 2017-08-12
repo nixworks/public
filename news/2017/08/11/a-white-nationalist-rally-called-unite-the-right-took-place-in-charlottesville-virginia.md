@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [Clashes break out between white supremacists and counter protestors in Charlottesville, Virginia over the removal of a Confederate statue. ](/news/2017/08/12/clashes-break-out-between-white-supremacists-and-counter-protestors-in-charlottesville-virginia-over-the-removal-of-a-confederate-statue.md) _Context: break out_
+1. [Clashes break out between white supremacists and counter protestors in Charlottesville, Virginia over the removal of a Confederate statue. Several people are injured after a car drives into a crowd of protesters. ](/news/2017/08/12/clashes-break-out-between-white-supremacists-and-counter-protestors-in-charlottesville-virginia-over-the-removal-of-a-confederate-statue-s.md) _Context: break out_
