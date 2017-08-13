@@ -1,4 +1,15 @@
-## [News](/news/2017/08/12/index.md)
+## [News](/news/2017/08/13/index.md)
+
+### [A magnitude 6.5 earthquake occurs off the Indonesian island of Sumatra. ](/news/2017/08/13/a-magnitude-6-5-earthquake-occurs-off-the-indonesian-island-of-sumatra.md)
+SINGAPORE: An earthquake of magnitude 6.5 struck west of Indonesia&#039;s island of Sumatra on Sunday (Aug 13), the United States Geological Survey (USGS) said. There were no immediate reports of casualties or damage in the quake, which hit at a depth of 67km, at a distance of 81km west of the city of Bengkulu. &#034;The earthquake was quite strong and shallow, it was felt all the way to Padang, West Sumatra, but there was no threat of a tsunami,&#034; Mochammad Riyadi, an official at Indonesia&#039;s meteorology and geophysics agency told AFP. He said officials were checking if there were any casualties or damage. Bengkulu resident Neng Hasnah said the quake felt very strong for a few seconds, forcing her and her family members to flee her house. &#034;I was carrying my seven-month old granddaughter and I had to run, all the neighbours also ran outside their homes,&#034; Hasnah told AFP. TREMORS FELT IN SINGAPORE Channel NewsAsia received calls from residents in Singapore living in Toa Payoh and Farrer Road saying they felt tremors. &#034;Tremors felt in Lor 1 Toa Payoh at around 11.10am,&#034; said Andrew Tan after contacting Channel NewsAsia via WhatsApp. Some took to twitter wondering if the tremors were a result of an earthquake in the region. https://twitter.com/dogmacatmamagma/status/896570356680359937 https://twitter.com/rohitdadwal/status/896572452968341506 Twitter user Pieterldenburg posted a video of a ceiling lamp swaying: https://twitter.com/MRPIE314/status/896570511127224320 Indonesia sits on the Pacific &#034;Ring of Fire&#034; where tectonic plates collide, causing frequent seismic and volcanic activity. An earthquake struck Indonesia&#039;s western Aceh province in December 2016, killing more than 100 people, injuring many more and leaving tens of thousands homeless.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/08/12/index.md)
 
 ### [Seven members of the White Helmets are shot dead by unidentified gunmen who stormed their office in rebel-held Sarmin, in northwestern Syria. ](/news/2017/08/12/seven-members-of-the-white-helmets-are-shot-dead-by-unidentified-gunmen-who-stormed-their-office-in-rebel-held-sarmin-in-northwestern-syria.md)
 _Context: Sarmin, Syria, Syrian Civil War, White Helmets_
@@ -9,13 +20,9 @@ A car rams into a crowd after clashes between white nationalists and counter-pro
 ### [Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md)
 Many of the casualties were reported from the Terai region bordering India, which faced massive flooding after receiving heavy rainfall since Friday.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/08/11/index.md)
+## [Day Before Yesterday](/news/2017/08/11/index.md)
 
 ### [The world's oldest man, Polish-Israeli Yisrael Kristal, who was also recognized as the oldest living Holocaust survivor, dies at age 113 years, 330 days, in Haifa, Israel. ](/news/2017/08/11/the-world-s-oldest-man-polishaisraeli-yisrael-kristal-who-was-also-recognized-as-the-oldest-living-holocaust-survivor-dies-at-age-113-y.md)
 _Context: Haifa, Holocaust survivor, Israel, Oldest men, Polish, Yisrael Kristal_
@@ -23,7 +30,7 @@ _Context: Haifa, Holocaust survivor, Israel, Oldest men, Polish, Yisrael Kristal
 ### [The winners of the annual Hugo Awards are announced at the 75th World Science Fiction Convention in Helsinki. ](/news/2017/08/11/the-winners-of-the-annual-hugo-awards-are-announced-at-the-75th-world-science-fiction-convention-in-helsinki.md)
 The Obelisk is headline winner in a year marked by diminished presence of conservative Sad Puppy lobby and strong showing from women
 
-### [Two trains collide in Alexandria, Egypt, killing at least 43 people and injuring at least 179. ](/news/2017/08/11/two-trains-collide-in-alexandria-egypt-killing-at-least-43-people-and-injuring-at-least-179.md)
+### [Two trains collide in Alexandria, Egypt, killing at least 41 people and injuring at least 179. ](/news/2017/08/11/two-trains-collide-in-alexandria-egypt-killing-at-least-41-people-and-injuring-at-least-179.md)
 _Context: Alexandria, Egypt, collide_
 
 ### [At least 56 African migrants drown in the Red Sea while traveling from the Horn of Africa to Yemen. Human traffickers had forced 300 people aboard two boats into the sea. ](/news/2017/08/11/at-least-56-african-migrants-drown-in-the-red-sea-while-traveling-from-the-horn-of-africa-to-yemen-human-traffickers-had-forced-300-people.md)
@@ -49,26 +56,7 @@ _Context: 2017 Unite the Right rally, Charlottesville, Virginia_
 
 ---
 
-## [Day Before Yesterday](/news/2017/08/10/index.md)
-
-### [New York State-based GateHouse Media announces an agreement to buy 11 U.S. newspapers from Georgia-based Morris Communications. Included in the deal is the ''Log Cabin Democrat'', founded in 1879, and three Alaskan newspapers: the ''Juneau Empire'', the ''Peninsula Clarion'' and ''Homer News''. The deal is expected to close on October 2. ](/news/2017/08/10/new-york-state-based-gatehouse-media-announces-an-agreement-to-buy-11-u-s-newspapers-from-georgia-based-morris-communications-included-in.md)
-Mix includes publications in Alaska, Georgia and Florida.
-
-### [The United Nations International Organization for Migration reports, over the last two days in two incidents, smugglers have thrown 280 migrants from Ethiopia and other Horn of Africa countries into the sea off the coast of Yemen. More than 50 refugees have drowned with over 30 people still missing. ](/news/2017/08/10/the-united-nations-international-organization-for-migration-reports-over-the-last-two-days-in-two-incidents-smugglers-have-thrown-280-migr.md)
-Smugglers have caused more than 50 to drown, the U.N. migration agency says
-
-### [At least 36 people die in a bus crash in China's Shaanxi province. The bus was travelling between Chengdu and Luoyang. ](/news/2017/08/10/at-least-36-people-die-in-a-bus-crash-in-china-s-shaanxi-province-the-bus-was-travelling-between-chengdu-and-luoyang.md)
-A passenger coach crashed into the wall of an expressway tunnel in China&#39;s northwest, killing at least 36 people and injuring 13 others, official media reported on Friday.
-
-### [The Canadian government says at least one of their diplomats in Havana has been treated for hearing loss, following up on yesterday's report that American diplomats had similar injuries. U.S. officials say the problems started in the fall of 2016. The Cuban Foreign Ministry says it was informed of the incidents in February and has been investigating since that time. ](/news/2017/08/10/the-canadian-government-says-at-least-one-of-their-diplomats-in-havana-has-been-treated-for-hearing-loss-following-up-on-yesterday-s-report.md)
-_Context: Canada-Cuba relations, Cuba-United States relations, Cuban Foreign Ministry, Havana_
-
-### [Reformist candidate Mohammad-Ali Najafi is unanimously elected Mayor of Tehran by the city council, ending the 12-year tenure of Principlist Mohammad-Bagher Ghalibaf. ](/news/2017/08/10/reformist-candidate-mohammad-ali-najafi-is-unanimously-elected-mayor-of-tehran-by-the-city-council-ending-the-12-year-tenure-of-principlist.md)
-August 10, 2017 by: Najmeh Bozorgmehr in Tehran Tehran metropolis council has unanimously elected a outstanding reformist as town’s mayor, ending hardliners’ 14-year maintain on the Iranian capital’s prime publish. Mohammad-Ali Najaf, a former training minister, replaces Mohammad-Baqer Qalibaf, a former commander of the Revolutionary Guards who contested the presidency in 2005 and 2013. Mr &hellip;
-
----
-
-## [Previous Day...](/news/2017/08/9/index.md)
+## [Previous Day...](/news/2017/08/10/index.md)
 
 ---
 
