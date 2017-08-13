@@ -1,6 +1,6 @@
 ### [2017-08-12](/news/2017/08/12/index.md)
 
-# Fights break out between white supremacists and counterprotesters in Charlottesville, Virginia, over the removal of the Robert Edward Lee Sculpture. One person is killed and several people are injured after a white supremacist drove his car into a crowd of counter-protesters. 
+# Fights break out between white supremacists and counterprotesters in Charlottesville, Virginia, over the removal of the Robert Edward Lee Sculpture. One person is killed and several people are injured after a man drove his car into a crowd of counter-protesters. 
 
 A car rams into a crowd after clashes between white nationalists and counter-protesters in Virginia.
 
@@ -9,7 +9,7 @@ A car rams into a crowd after clashes between white nationalists and counter-pro
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-40912509)
 2. [CNN](http://edition.cnn.com/2017/08/12/us/charlottesville-white-nationalists-rally/index.html)
-3. [Daily Mail](http://www.dailymail.co.uk/news/article-4785418/Police-helicopter-crashes-near-Charlottesville.html)
+3. [NBC News](http://www.nbcnews.com/news/us-news/2-virginia-officers-killed-helicopter-crash-near-charlottesville-are-mourned-n792146)
 4. [The Independent](http://www.independent.co.uk/news/world/americas/violence-clashes-far-right-rally-charlottesville-virginia-latest-unite-the-right-a7890096.html)
 
 ### Related:
