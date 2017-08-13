@@ -1,0 +1,23 @@
+### [2017-08-11](/news/2017/08/11/index.md)
+
+# ISIS forces raid an Iranian Revolutionary Guards Corps base in vast desert spaces of eastern Homs Governorate, Syria, manned by between 12 to 18 fighters. All but one of which are killed. 
+
+BEIRUT, LEBANON (1:40 P.M.) - The ISIS terrorist group has released a 7-minute video showing their forces raiding an Iranian Revolutionary Guards Corps (IR
+
+
+### Source:
+
+1. [Almasdar News](https://www.almasdarnews.com/article/video-isis-assaults-iranian-base-east-homs-no-survivors/)
+
+### Related:
+
+1. [A Syrian Army commando unit backed by Russian warplanes and helicopters kills 25 ISIL militants in Central Syria, in the northeast of the Homs Governorate. ](/news/2017/08/13/a-syrian-army-commando-unit-backed-by-russian-warplanes-and-helicopters-kills-25-isil-militants-in-central-syria-in-the-northeast-of-the-ho.md) _Context: Homs Governorate, Syrian Civil War_
+2. [Iran fires medium range ballistic missiles from western Iran to ISIL targets in Deir ez-Zor Governorate, eastern Syria, in retaliation for the June 7 Tehran attacks. ](/news/2017/06/18/iran-fires-medium-range-ballistic-missiles-from-western-iran-to-isil-targets-in-deir-ez-zor-governorate-eastern-syria-in-retaliation-for-t.md) _Context: Iran, Syrian Civil War_
+3. [A memorandum is signed by Russia, Iran, and Turkey calling for de-escalation of the Syrian Civil War, although neither the Syrian government nor the Syrian opposition are signatories. ](/news/2017/05/4/a-memorandum-is-signed-by-russia-iran-and-turkey-calling-for-de-escalation-of-the-syrian-civil-war-although-neither-the-syrian-government.md) _Context: Iran, Syrian Civil War_
+4. [The United States launches 60  Tomahawk cruise missiles aimed at the Ash Sha'irat air base in Homs Governorate in response to the Syrian government's alleged use of chemical weapons in its attack on the town of Khan Shaykhun. The Government of Syria claims the attack killed six soldiers and nine civilians, including four children. ](/news/2017/04/7/the-united-states-launches-60-tomahawk-cruise-missiles-aimed-at-the-ash-sha-irat-air-base-in-homs-governorate-in-response-to-the-syrian-gov.md) _Context: Homs Governorate, Syrian Civil War_
+5. [The second day of peace negotiations in Astana, Kazakhstan, end with the sponsors of the talks, Russia, Turkey and Iran, agreeing to set up commission between the three to monitor and enforce the fragile ceasefire to the Syrian Civil War. ](/news/2017/01/24/the-second-day-of-peace-negotiations-in-astana-kazakhstan-end-with-the-sponsors-of-the-talks-russia-turkey-and-iran-agreeing-to-set-up.md) _Context: Iran, Syrian Civil War_
+6. [Iran confirms that Russia will stop using its Hamadan Airbase to launch attacks in Syria, saying Russia's use of Hamadan Airbase was "temporary, based on a Russian request," and that Russian operations are "finished for now". Iranian Defence Minister Hossein Dehghan earlier criticized Russia's announcement of its use of the base in Iran, saying "There has been a kind of showing-off and inconsiderate attitude behind the announcement of this news." ](/news/2016/08/22/iran-confirms-that-russia-will-stop-using-its-hamadan-airbase-to-launch-attacks-in-syria-saying-russia-s-use-of-hamadan-airbase-was-tempor.md) _Context: Iran, Syrian Civil War_
+7. [   At least 13 Iranian soldiers are killed in a battle with Islamist militants in a village near Aleppo, Syria. This is the largest single day loss for the Iranians since the start of the conflict. ](/news/2016/05/7/at-least-13-iranian-soldiers-are-killed-in-a-battle-with-islamist-militants-in-a-village-near-aleppo-syria-this-is-the-largest-single-d.md) _Context: Iran, Syrian Civil War_
+8. [The Syrian Army retakes control of al-Qaryatayn, Homs Governorate, after driving out ISIL militants. ](/news/2016/04/3/the-syrian-army-retakes-control-of-al-qaryatayn-homs-governorate-after-driving-out-isil-militants.md) _Context: Homs Governorate, Syrian Civil War_
+9. [Saudi Arabian  Foreign Minister Adel al-Jubeir says the country's recent tensions with Iran will not interfere with Syrian peace talks scheduled to begin in Geneva, Switzerland, later this month. ](/news/2016/01/5/saudi-arabian-foreign-minister-adel-al-jubeir-says-the-country-s-recent-tensions-with-iran-will-not-interfere-with-syrian-peace-talks-sched.md) _Context: Iran, Syrian Civil War_
+10. [The Syrian Observatory for Human Rights reports Russia conducted multiple airstrikes on ISIS-held Palmyra. ](/news/2015/11/3/the-syrian-observatory-for-human-rights-reports-russia-conducted-multiple-airstrikes-on-isis-held-palmyra.md) _Context: ISIS, Syrian Civil War_

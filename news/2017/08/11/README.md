@@ -1,6 +1,6 @@
 ## [2017-08-11](/news/2017/08/11/index.md)
 
-### [ISIS forces raid an Iranian Revolutionary Guards Corps base in vast desert spaces of eastern Homs Governorate, Syria, manning by between 12 to 18 fighters. All but one of which are killed. ](/news/2017/08/11/isis-forces-raid-an-iranian-revolutionary-guards-corps-base-in-vast-desert-spaces-of-eastern-homs-governorate-syria-manning-by-between-12.md)
+### [ISIS forces raid an Iranian Revolutionary Guards Corps base in vast desert spaces of eastern Homs Governorate, Syria, manned by between 12 to 18 fighters. All but one of which are killed. ](/news/2017/08/11/isis-forces-raid-an-iranian-revolutionary-guards-corps-base-in-vast-desert-spaces-of-eastern-homs-governorate-syria-manned-by-between-12-t.md)
 BEIRUT, LEBANON (1:40 P.M.) - The ISIS terrorist group has released a 7-minute video showing their forces raiding an Iranian Revolutionary Guards Corps (IR
 
 ### [The world's oldest man, Polish-Israeli Yisrael Kristal, who was also recognized as the oldest living Holocaust survivor, dies at age 113 years, 330 days, in Haifa, Israel. ](/news/2017/08/11/the-world-s-oldest-man-polishaisraeli-yisrael-kristal-who-was-also-recognized-as-the-oldest-living-holocaust-survivor-dies-at-age-113-y.md)

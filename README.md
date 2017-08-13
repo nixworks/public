@@ -1,8 +1,5 @@
 ## [News](/news/2017/08/13/index.md)
 
-### [Syrian Civil War](/news/2017/08/13/syrian-civil-war.md)
-_Context: Syrian Civil War_
-
 ### [A Syrian Army commando unit backed by Russian warplanes and helicopters kills 25 ISIL militants in Central Syria, in the northeast of the Homs Governorate. ](/news/2017/08/13/a-syrian-army-commando-unit-backed-by-russian-warplanes-and-helicopters-kills-25-isil-militants-in-central-syria-in-the-northeast-of-the-ho.md)
 A commando operation backed by Russian warplanes and helicopters has killed 25 members of the Islamic State jihadist group in central Syria, a monitor said Sunday. Supported by regime ally Russia, Syria&#x27;s army has waged a months-long offensive to recapture the vast desert region that stretches from
 
@@ -36,7 +33,7 @@ India has increased its military alert along its eastern border with China, plac
 
 ## [Day Before Yesterday](/news/2017/08/11/index.md)
 
-### [ISIS forces raid an Iranian Revolutionary Guards Corps base in vast desert spaces of eastern Homs Governorate, Syria, manning by between 12 to 18 fighters. All but one of which are killed. ](/news/2017/08/11/isis-forces-raid-an-iranian-revolutionary-guards-corps-base-in-vast-desert-spaces-of-eastern-homs-governorate-syria-manning-by-between-12.md)
+### [ISIS forces raid an Iranian Revolutionary Guards Corps base in vast desert spaces of eastern Homs Governorate, Syria, manned by between 12 to 18 fighters. All but one of which are killed. ](/news/2017/08/11/isis-forces-raid-an-iranian-revolutionary-guards-corps-base-in-vast-desert-spaces-of-eastern-homs-governorate-syria-manned-by-between-12-t.md)
 BEIRUT, LEBANON (1:40 P.M.) - The ISIS terrorist group has released a 7-minute video showing their forces raiding an Iranian Revolutionary Guards Corps (IR
 
 ### [The world's oldest man, Polish-Israeli Yisrael Kristal, who was also recognized as the oldest living Holocaust survivor, dies at age 113 years, 330 days, in Haifa, Israel. ](/news/2017/08/11/the-world-s-oldest-man-polishaisraeli-yisrael-kristal-who-was-also-recognized-as-the-oldest-living-holocaust-survivor-dies-at-age-113-y.md)
