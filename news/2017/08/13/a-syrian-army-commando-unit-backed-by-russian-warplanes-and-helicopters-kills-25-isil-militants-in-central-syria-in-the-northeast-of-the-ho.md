@@ -8,6 +8,8 @@ A commando operation backed by Russian warplanes and helicopters has killed 25 m
 ### Source:
 
 1. [AFP via Yahoo](https://www.yahoo.com/news/commandos-kill-25-jihadists-central-syria-monitor-093231505.html)
+2. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/strong-earthquake-strikes-off-indonesian-island-of-sumatra/2017/08/12/f55acf02-7fd9-11e7-b2b1-aeba62854dfa_story.html?utm_term=.0fab3ab36f7e)
+3. [US Geological Survey](https://earthquake.usgs.gov/earthquakes/eventpage/us2000a7q2#executive)
 
 ### Related:
 
