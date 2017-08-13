@@ -17,7 +17,7 @@ _Context: Sarmin, Syria, Syrian Civil War, White Helmets_
 ### [Fights break out between white supremacists and counterprotesters in Charlottesville, Virginia, over the removal of the Robert Edward Lee Sculpture. One person is killed and several people are injured after a man drove his car into a crowd of counter-protesters. ](/news/2017/08/12/fights-break-out-between-white-supremacists-and-counterprotesters-in-charlottesville-virginia-over-the-removal-of-the-robert-edward-lee-sc.md)
 A car rams into a crowd after clashes between white nationalists and counter-protesters in Virginia.
 
-### [Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md)
+### [Floods in Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/floods-in-flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md)
 Many of the casualties were reported from the Terai region bordering India, which faced massive flooding after receiving heavy rainfall since Friday.
 
 ### [India increases its military alert amid a border standoff with the People's Liberation Army of China at Doklam. ](/news/2017/08/12/india-increases-its-military-alert-amid-a-border-standoff-with-the-people-s-liberation-army-of-china-at-doklam.md)
