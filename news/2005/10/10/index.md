@@ -10,7 +10,7 @@ _Context: Japan Aerospace Exploration Agency, speed of sound_
 _Context: 2005 Kashmir earthquake, Muzaffarabad, SOS Children_
 
 ### [ Conflict in Iraq: Insurgent attacks throughout Iraq leave seven Iraqis, two security officials from the Arab league and one U.S. soldier dead. ](/news/2005/10/10/conflict-in-iraq-insurgent-attacks-throughout-iraq-leave-seven-iraqis-two-security-officials-from-the-arab-league-and-one-u-s-soldier-de.md)
-_Context: Arab League, Conflict in Iraq, Iraq, Iraqi insurgency, military_
+_Context: Arab League, Conflict in Iraq, Iraq, Iraqi insurgency, Military of the United States_
 
 ### [ Following the German federal election, 2005, Christian Democrat Angela Merkel will become the next Chancellor of Germany, replacing Social Democrat Gerhard Schroder, although Schroder's party will be the dominant party in the grand coalition.](/news/2005/10/10/following-the-german-federal-election-2005-christian-democrat-angela-merkel-will-become-the-next-chancellor-of-germany-replacing-social.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

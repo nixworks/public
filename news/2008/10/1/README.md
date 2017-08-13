@@ -19,7 +19,7 @@ _Context: Afghanistan's, David D. McKiernan, NATO, United States soldiers, gener
 _Context: Carol Shea-Porter, Nobel Memorial Prize in Economic Sciences, United States Congress, United States House of Representatives, housing crisis, proposed bailout plan_
 
 ### [ A new U.S. Armed Forces Unified Combatant Command for Africa&mdash;AFRICOM&mdash;is created. Main functions of AFRICOM include fighting terror, securing oil supplies in Africa, and supporting U.S. foreign policy in the region where Chinese influence is growing. ](/news/2008/10/1/a-new-u-s-armed-forces-unified-combatant-command-for-africa-mdash-africom-mdash-is-created-main-functions-of-africom-include-fighting-ter.md)
-_Context: AFRICOM, Africa, China, U.S. foreign policy, Unified Combatant Command, crude oil, military_
+_Context: AFRICOM, Africa, China, Military of the United States, U.S. foreign policy, Unified Combatant Command, crude oil_
 
 ### [ A series of 4 blasts set off in Agartala, capital of the Indian state of Tripura, killing at least 4 people and injuring 100. ](/news/2008/10/1/a-series-of-4-blasts-set-off-in-agartala-capital-of-the-indian-state-of-tripura-killing-at-least-4-people-and-injuring-100.md)
 Terrorists struck Agartala for the first time as four people were killed and 76 injured in five blasts. Police suspect HuJI hand.

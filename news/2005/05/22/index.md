@@ -15,8 +15,8 @@ _Context: 2003 invasion of Iraq, Iraq, United Kingdom_
 ### [ Israel arrests a 15-year-old Palestinian at a Hawara checkpoint, near Nablus, wearing a suicide bomb belt. ](/news/2005/05/22/israel-arrests-a-15-year-old-palestinian-at-a-hawara-checkpoint-near-nablus-wearing-a-suicide-bomb-belt.md)
 _Context: Hawara, Israel, Nablus, Palestinian, suicide bomber_
 
-### [ German Chancellor Gerhard Schrder has declared that he will seek the next German federal election to be held this autumn, a year earlier than set out by the constitution, after the CDU and FDP defeated the Social Democrats (SPD), who were in coalition with the Greens, at the regional election in North Rhine-Westphalia. ](/news/2005/05/22/german-chancellor-gerhard-schroder-has-declared-that-he-will-seek-the-next-german-federal-election-to-be-held-this-autumn-a-year-earlier-t.md)
-_Context: Chancellor, Christian Democratic Union, FDP, Gerhard Schrder, German Constitution, German federal election, 2005, Germany, North Rhine-Westphalia, Social Democrats, autumn_
+### [ German Chancellor Goo Schrder has declared that he will seek the next German federal election to be held this autumn, a year earlier than set out by the constitution, after the CDU and FDP defeated the Social Democrats (SPD), who were in coalition with the Greens, at the regional election in North Rhine-Westphalia. ](/news/2005/05/22/german-chancellor-goo-schroder-has-declared-that-he-will-seek-the-next-german-federal-election-to-be-held-this-autumn-a-year-earlier-than.md)
+_Context: Chancellor, Christian Democratic Union, FDP, German Constitution, German federal election, 2005, Germany, Goo Schrder, North Rhine-Westphalia, Social Democrats, autumn_
 
 ### [ Elections in Mongolia: Former Prime Minister of Mongolia Nambaryn Enkhbayar wins presidential election. ](/news/2005/05/22/elections-in-mongolia-former-prime-minister-of-mongolia-nambaryn-enkhbayar-wins-presidential-election.md)
 _Context: Elections in Mongolia, Nambaryn Enkhbayar, Prime Minister, presidential election_

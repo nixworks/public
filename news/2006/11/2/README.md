@@ -25,7 +25,7 @@ _Context: 2006 Georgian-Russian espionage controversy, Gazprom, Georgian, Russia
 _Context: Commonwealth of Nations, Don McKinnon, Fiji, Laisenia Qarase, Prime Minister, Secretary-General, Voreqe Bainimarama, coup d'tat_
 
 ### [ The U.S. military identifies Ahmed Qusai al-Taai, an Iraqi-American translator, as the U.S. soldier kidnapped at gunpoint in Iraq on October 23, 2006. ](/news/2006/11/2/the-u-s-military-identifies-ahmed-qusai-al-taai-an-iraqi-american-translator-as-the-u-s-soldier-kidnapped-at-gunpoint-in-iraq-on-octobe.md)
-_Context: Ahmed Qusai al-Taai, Iraq, military, soldier_
+_Context: Ahmed Qusai al-Taai, Iraq, Military of the United States, soldier_
 
 ## [Previous Day...](/news/2006/11/1/index.md)
 

@@ -13,7 +13,7 @@ _Context: Black Monday, Dow Jones Industrial Average_
 _Context: Washington, midwestern_
 
 ### [ Two US Marines including a battalion commander will face a court martial in connection with the killing of 24 civilians in Haditha in 2005. ](/news/2007/10/19/two-us-marines-including-a-battalion-commander-will-face-a-court-martial-in-connection-with-the-killing-of-24-civilians-in-haditha-in-2005.md)
-_Context: Haditha, United States Marine Corps, battalion, court-martial_
+_Context: Haditha, U.S. Marine Corps, battalion, court-martial_
 
 ### [ Tens of thousands of people are evacuated from villages near Mount Kelud on Java as the volcano threatens to erupt. ](/news/2007/10/19/tens-of-thousands-of-people-are-evacuated-from-villages-near-mount-kelud-on-java-as-the-volcano-threatens-to-erupt.md)
 _Context: Java, Mount Kelud, village, volcanic activity_

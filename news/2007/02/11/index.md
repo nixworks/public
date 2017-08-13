@@ -22,7 +22,7 @@ _Context:  Insurgency in Somalia, Abdi Mahdi, Kismayo_
 _Context: Kosovo, Pristina, Serbia, United Nations_
 
 ### [ Iran: The U. S. military accuses the government of Iran of supplying sophisticated roadside bombs to insurgents in Iraq. ](/news/2007/02/11/iran-p-the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.md)
-_Context: Iran, Iranian government, Iraq, Iraqi insurgency, military, sophisticated roadside bombs_
+_Context: Iran, Iranian government, Iraq, Iraqi insurgency, Military of the United States, sophisticated roadside bombs_
 
 ### [ U. S. Senator Barack Obama (D-IL) following a political rally in Ames, Iowa, regretted saying the lives of military personnel had been "wasted." ](/news/2007/02/11/u-s-senator-barack-obama-d-il-following-a-political-rally-in-ames-iowa-regretted-saying-the-lives-of-military-personnel-had-been-was.md)
 _Context: Ames, Barack Obama, Democratic, Illinois, United States Senate, military personnel_

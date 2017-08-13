@@ -7,7 +7,7 @@ _Context: Augusto Pinochet, Luca Hiriart, Marco Antonio Pinochet, Santiago, Serg
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Conflict in Iraq: Six US soldiers are killed in insurgent attacks throughout Iraq, including four killed in one attack in the northern oil-producing Kurdish town of Baiji, bringing the total US military death toll in Iraq to 1,841. ](/news/2005/08/10/conflict-in-iraq-six-us-soldiers-are-killed-in-insurgent-attacks-throughout-iraq-including-four-killed-in-one-attack-in-the-northern-oil.md)
-_Context: Baiji, Conflict in Iraq, Iraqi insurgency, Kurdish, military, oil_
+_Context: Baiji, Conflict in Iraq, Iraqi insurgency, Kurdish, Military of the United States, oil_
 
 ### [ A Sikorsky S-76 helicopter of the Finnish company Copterline has crashed into the Gulf of Finland near Estonia's capital Tallinn with 14 on board; eight Finns, four Estonians and two Americans. There are no survivors. ](/news/2005/08/10/a-sikorsky-s-76-helicopter-of-the-finnish-company-copterline-has-crashed-into-the-gulf-of-finland-near-estonia-s-capital-tallinn-with-14-on.md)
 _Context: Copterline, Estonia, Finland, Gulf of Finland, Sikorsky S-76, Tallinn, crashed, helicopter_

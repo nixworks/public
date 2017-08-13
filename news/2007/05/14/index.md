@@ -19,7 +19,7 @@ _Context: Fatah, Hamas, Hani Kawasmeh, Palestinian, ceasefire_
 _Context: Auto, George W. Bush, President, U.S._
 
 ### [ The U.S. military is to block troops from using YouTube and MySpace and 11 other popular websites for sharing photos, video clips and messages. ](/news/2007/05/14/the-u-s-military-is-to-block-troops-from-using-youtube-and-myspace-and-11-other-popular-websites-for-sharing-photos-video-clips-and-messa.md)
-_Context: MySpace, YouTube, military, video clips_
+_Context: Military of the United States, MySpace, YouTube, video clips_
 
 ### [ 2007 Pakistan unrest: A strike in Pakistan closes shops and clears transport from the roads after two days of violence in Karachi left 41 people dead. ](/news/2007/05/14/2007-pakistan-unrest-a-strike-in-pakistan-closes-shops-and-clears-transport-from-the-roads-after-two-days-of-violence-in-karachi-left-41-p.md)
 _Context: 2007 Pakistan unrest, Karachi, Pakistan_

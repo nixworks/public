@@ -49,7 +49,7 @@ _Context: 2007 Peru earthquake, Alan Garcia, Looting, President_
 _Context: International Atomic Energy Agency, North Korea, United States government_
 
 ### [ Four people die as a United States Marine Corps helicopter crashes on a training flight north of Yuma, Arizona. ](/news/2007/08/17/four-people-die-as-a-united-states-marine-corps-helicopter-crashes-on-a-training-flight-north-of-yuma-arizona.md)
-_Context: United States Marine Corps, Yuma, Arizona, helicopter_
+_Context: U.S. Marine Corps, Yuma, Arizona, helicopter_
 
 ### [ Australian Prime Minister John Howard says the country has decided to export Uranium to India.](/news/2007/08/17/australian-prime-minister-john-howard-says-the-country-has-decided-to-export-uranium-to-india.md)
 _Context: Australia, India, John Howard, export, uranium_

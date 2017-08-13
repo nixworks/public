@@ -7,7 +7,7 @@ _Context: 2008 Russian financial crisis, Credit rating agency, Russia, Russian C
 _Context: AIDS, Moscow, Vasily Aleksanyan, Yukos, bail, lymphoma, ruble, tuberculosis_
 
 ### [ A United States Marine Corps F/A-18 Hornet crashes into the University City neighborhood of San Diego, California, two miles from Marine Corps Air Station Miramar, killing four people. ](/news/2008/12/8/a-united-states-marine-corps-f-a-18-hornet-crashes-into-the-university-city-neighborhood-of-san-diego-california-two-miles-from-marine-co.md)
-_Context: California, F/A-18 Hornet, Marine Corps Air Station Miramar, San Diego, United States Marine Corps, University City, crashes_
+_Context: California, F/A-18 Hornet, Marine Corps Air Station Miramar, San Diego, U.S. Marine Corps, University City, crashes_
 
 ### [ 2008 Canadian parliamentary dispute: Stphane Dion announces his plans to resign as leader of the Liberal Party of Canada. ](/news/2008/12/8/2008-canadian-parliamentary-dispute-stephane-dion-announces-his-plans-to-resign-as-leader-of-the-liberal-party-of-canada.md)
 _Context: Liberal Party's, Stphane Dion, proposed opposition coalition_

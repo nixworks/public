@@ -4,7 +4,7 @@
 _Context: Ariel Sharon, Israeli Prime Minister, Israeli legislative election, Kadima, Likud, President_
 
 ### [ Conflict in Iraq: Five Iraqi civilians, including three children, are shot dead by U.S. troops as they approached a checkpoint in Baquba. The minibus they were travelling in failed to stop as it approached a roadblock. ](/news/2005/11/21/conflict-in-iraq-five-iraqi-civilians-including-three-children-are-shot-dead-by-u-s-troops-as-they-approached-a-checkpoint-in-baquba-t.md)
-_Context: Baquba, Conflict in Iraq, Iraq, military_
+_Context: Baquba, Conflict in Iraq, Iraq, Military of the United States_
 
 ### [ As more than one million Zambians face severe food shortages due to drought, President Levy Mwanawasa declares a national disaster and appealed for international food aid. ](/news/2005/11/21/as-more-than-one-million-zambians-face-severe-food-shortages-due-to-drought-president-levy-mwanawasa-declares-a-national-disaster-and-appe.md)
 _Context: Levy Mwanawasa, Zambia_

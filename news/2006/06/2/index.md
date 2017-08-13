@@ -7,7 +7,7 @@ _Context: Geronimo, Skull and Bones, The Independent_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ The BBC shows a video about a new alleged massacre by US troops in Ishaqi, Iraq, on March 15, 2006. ](/news/2006/06/2/the-bbc-shows-a-video-about-a-new-alleged-massacre-by-us-troops-in-ishaqi-iraq-on-march-15-2006.md)
-_Context: BBC, Iraq, Ishaqi, military, new alleged massacre_
+_Context: BBC, Iraq, Ishaqi, Military of the United States, new alleged massacre_
 
 ### [ Robert F. Kennedy, Jr., writing in ''Rolling Stone'' magazine, accuses George W. Bush and his Republican Party of widespread voting fraud during the 2004 Presidential Election. ](/news/2006/06/2/robert-f-kennedy-jr-writing-in-rolling-stone-magazine-accuses-george-w-bush-and-his-republican-party-of-widespread-voting-fraud-d.md)
 Get the latest News news with exclusive stories and pictures from Rolling Stone.

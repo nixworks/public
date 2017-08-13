@@ -24,7 +24,7 @@ _Context: 3G Capital, Berkshire Hathaway Inc., H.J. Heinz_
 ### [Westminster's Independent Parliamentary Standards Authority launches an investigation into expenses claims submitted by MP Nadine Dorries. ](/news/2013/02/15/westminster-s-independent-parliamentary-standards-authority-launches-an-investigation-into-expenses-claims-submitted-by-mp-nadine-dorries.md)
 The Independent Parliamentary Standards Authority says it will investigate expenses claims submitted by MP Nadine Dorries.
 
-### [Former Congressman Jesse Jackson, Jr. is charged with misusing campaign funds while in office. ](/news/2013/02/15/former-congressman-jesse-jackson-jr-is-charged-with-misusing-campaign-funds-while-in-office.md)
+### [Former Congressman Jesse Jackson Jr. is charged with misusing campaign funds while in office. ](/news/2013/02/15/former-congressman-jesse-jackson-jr-is-charged-with-misusing-campaign-funds-while-in-office.md)
 Former congressman Jesse Jackson Jr. was charged Friday with misusing $750,000 in campaign funds.
 
 ### [Near-Earth asteroid 2012 DA14 with an estimated diameter of about 50|m|sp=us comes within 17,200 miles (27,700 km) from the Earth's surface. This distance is a record close approach for a known object of such size. ](/news/2013/02/15/near-earth-asteroid-2012-da14-with-an-estimated-diameter-of-about-50-m-sp-us-comes-within-17-200-miles-27-700-km-from-the-earth-s-surface.md)

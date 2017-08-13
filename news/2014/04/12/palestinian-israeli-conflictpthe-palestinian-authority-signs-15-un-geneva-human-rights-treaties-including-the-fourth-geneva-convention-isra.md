@@ -12,4 +12,5 @@ Israel sets a tax sanction on the Palestinian Authority in the latest retaliator
 
 ### Related:
 
-1. [United Nations report says that Israeli settlements must be immediately withdrawn without preconditions, to comply with article 49 of the Fourth Geneva Convention. ](/news/2013/01/31/united-nations-report-says-that-israeli-settlements-must-be-immediately-withdrawn-without-preconditions-to-comply-with-article-49-of-the-fo.md) _Context: Fourth Geneva Convention_
+1. [Israeli-Palestinian peace talks start amid controversy over Israeli settlement expansion and the release of 26 Palestinians convicted of murdering Israelis. ](/news/2013/08/13/israeliapalestinian-peace-talks-start-amid-controversy-over-israeli-settlement-expansion-and-the-release-of-26-palestinians-convicted-of-m.md) _Context: Peace talks_
+2. [United Nations report says that Israeli settlements must be immediately withdrawn without preconditions, to comply with article 49 of the Fourth Geneva Convention. ](/news/2013/01/31/united-nations-report-says-that-israeli-settlements-must-be-immediately-withdrawn-without-preconditions-to-comply-with-article-49-of-the-fo.md) _Context: Fourth Geneva Convention_

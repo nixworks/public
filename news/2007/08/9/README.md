@@ -22,7 +22,7 @@ _Context: Arctic, Canada, Canadian Prime Minister, North Pole, Russia, Stephen H
 _Context: China, U.S., export, toy_
 
 ### [ Charges against two United States Marines accused of involvement in the killing of Iraqis in 2005 are dropped. ](/news/2007/08/9/charges-against-two-united-states-marines-accused-of-involvement-in-the-killing-of-iraqis-in-2005-are-dropped.md)
-_Context: Iraq, United States Marine Corps_
+_Context: Iraq, U.S. Marine Corps_
 
 ### [ BNP Paribas announced that it could not fairly value the underlying assets in three funds as a result of exposure to U.S. subprime mortgage lending markets. Faced with potentially massive (though unquantifiable) exposure, the European Central Bank (ECB) immediately stepped in to ease market worries by opening lines of EUR96.8 billion (then US$130 billion) in low-interest credit.](/news/2007/08/9/bnp-paribas-announced-that-it-could-not-fairly-value-the-underlying-assets-in-three-funds-as-a-result-of-exposure-to-u-s-subprime-mortgage.md)
 _Context: BNP Paribas_

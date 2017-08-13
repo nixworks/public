@@ -1,7 +1,7 @@
 ## [2008-11-25](/news/2008/11/25/index.md)
 
 ### [ Reports indicate that President-elect Barack Obama has decided to keep Robert Gates as the United States Secretary of Defense and tap Marine General James L. Jones as National Security Advisor. ](/news/2008/11/25/reports-indicate-that-president-elect-barack-obama-has-decided-to-keep-robert-gates-as-the-united-states-secretary-of-defense-and-tap-marin.md)
-_Context: Barack Obama, General, James L. Jones, National Security Advisor, President-elect, Robert Gates, Secretary of Defense, United States Marine Corps_
+_Context: Barack Obama, General, James L. Jones, National Security Advisor, President-elect, Robert Gates, Secretary of Defense, U.S. Marine Corps_
 
 ### [ The U.S. Federal Reserve announces a new US$800 billion "stimulus" package in which it will buy debt and mortgage-backed securities and make loans to holders of consumer debt ](/news/2008/11/25/the-u-s-federal-reserve-announces-a-new-us-800-billion-stimulus-package-in-which-it-will-buy-debt-and-mortgage-backed-securities-and-mak.md)
 _Context: 800 billion "stimulus" package, U.S. Federal Reserve, US$_

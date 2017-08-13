@@ -4,7 +4,7 @@
 ABC News Anchor Peter Jennings died today at his home in New York City. He was 67. On April 5, Jennings announced he had been diagnosed with lung cancer. He is survived by his wife, Kayce Freed, his two children, Elizabeth, 25, and Christopher, 23, and his sister, Sarah Jennings. &quot;Peter died with...
 
 ### [ Conflict in Iraq: 39 people have died, including at least two U.S. soldiers, following a series of insurgent attacks throughout Iraq. ](/news/2005/08/7/conflict-in-iraq-39-people-have-died-including-at-least-two-u-s-soldiers-following-a-series-of-insurgent-attacks-throughout-iraq.md)
-_Context: Conflict in Iraq, Iraq, Iraqi insurgency, military_
+_Context: Conflict in Iraq, Iraq, Iraqi insurgency, Military of the United States_
 
 ### [ Israeli-Palestinian Conflict: A 10-year-old Israeli boy is severely wounded after being shot in the head when an Al-Aqsa Martyrs Brigades gunman opened fire on the vehicle he was travelling in outside the Israeli settlement of Ateret in the West Bank. ](/news/2005/08/7/israeli-palestinian-conflict-p-a-10-year-old-israeli-boy-is-severely-wounded-after-being-shot-in-the-head-when-an-al-aqsa-martyrs-brigades.md)
 _Context: Al-Aqsa Martyrs' Brigades, Ateret, Israeli settlement, Israeli-Palestinian conflict, Israelis, West Bank_

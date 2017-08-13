@@ -14,7 +14,7 @@ _Context: Gazprom, Ukraine, restarts_
 _Context: Bo Xilai, Hong Kong, Jiang Weiping, Liaoning, State Secrets Law, anti-corruption, economic minister, journalist, subversion, whistleblower_
 
 ### [ Conflict in Iraq: Six members of the same family of 14 have been confirmed killed following a U.S. airstrike in Northern Iraq. ](/news/2006/01/3/conflict-in-iraq-six-members-of-the-same-family-of-14-have-been-confirmed-killed-following-a-u-s-airstrike-in-northern-iraq.md)
-_Context: Iraq, Iraqi insurgency, airstrike, military_
+_Context: Iraq, Iraqi insurgency, Military of the United States, airstrike_
 
 ### [ Israeli-Palestinian Conflict: Israel Police prevents Palestinians in East Jerusalem from campaigning in the upcoming Elections in the Palestinian National Authority. ](/news/2006/01/3/israeli-palestinian-conflict-israel-police-prevents-palestinians-in-east-jerusalem-from-campaigning-in-the-upcoming-elections-in-the-pales.md)
 _Context: East Jerusalem, Israeli police, Israeli-Palestinian conflict, Palestinians, elections_

@@ -16,7 +16,7 @@ _Context: American military, Iran_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ The U.S. military admits publicly for the first time that four U.S. helicopters were downed by ground fire in Iraq. ](/news/2007/02/4/the-u-s-military-admits-publicly-for-the-first-time-that-four-u-s-helicopters-were-downed-by-ground-fire-in-iraq.md)
-_Context: Iraq, downed by ground fire, military_
+_Context: Iraq, Military of the United States, downed by ground fire_
 
 ### [ Greece's conservative government wins a vote of confidence, ending a three-day debate that started with the opposition Socialist Party calling for early elections ](/news/2007/02/4/greece-s-conservative-government-wins-a-vote-of-confidence-ending-a-three-day-debate-that-started-with-the-opposition-socialist-party-call.md)
 _Context: Greek_

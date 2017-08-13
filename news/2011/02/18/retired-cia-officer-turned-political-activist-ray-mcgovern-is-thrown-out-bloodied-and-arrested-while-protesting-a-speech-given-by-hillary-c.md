@@ -1,6 +1,6 @@
 ### [2011-02-18](/news/2011/02/18/index.md)
 
-# Retired CIA officer-turned-political activist Ray McGovern is thrown out, bloodied and arrested while protesting a speech given by Hillary Clinton on internet freedom at George Washington University in Washington, D.C. Veterans for Peace requests that Clinton apologise. 
+# Retired CIA officer-turned-political activist Ray McGovern is thrown out, bloodied and arrested while protesting a speech given by Hillary Clinton on internet freedomdate=August 2017 at George Washington University in Washington, D.C. Veterans for Peace requests that Clinton apologise. 
 
 
 
@@ -13,7 +13,7 @@
 ### Related:
 
 1. [Hillary Clinton wins the Washington D.C. Democratic Party primary, the last scheduled primary on the party's schedule before the 2016 Democratic National Convention in late July. ](/news/2016/06/14/hillary-clinton-wins-the-washington-d-c-democratic-party-primary-the-last-scheduled-primary-on-the-party-s-schedule-before-the-2016-democr.md) _Context: Hillary Clinton, Washington, D.C._
-2. [The United States Secretary of State Hillary Clinton outlines a new policy on Internet freedom. ](/news/2011/02/15/the-united-states-secretary-of-state-hillary-clinton-outlines-a-new-policy-on-internet-freedom.md) _Context: Hillary Clinton, internet freedom_
+2. [The United States Secretary of State Hillary Clinton outlines a new policy on Internet freedomdate=August 2017. ](/news/2011/02/15/the-united-states-secretary-of-state-hillary-clinton-outlines-a-new-policy-on-internet-freedomdate-august-2017.md) _Context: Hillary Clinton, internet freedom_
 3. [U.S. envoy to Afghanistan and Pakistan Richard Holbrooke is hospitalised in a critically ill state in Washington, D.C., after gasping at a meeting with Hillary Clinton. ](/news/2010/12/11/u-s-envoy-to-afghanistan-and-pakistan-richard-holbrooke-is-hospitalised-in-a-critically-ill-state-in-washington-d-c-after-gasping-at-a-m.md) _Context: Hillary Clinton, Washington, D.C._
 4. [ United States presidential election, 2008: Illinois Senator Barack Obama wins the District of Columbia, Maryland  and Virginia Democratic primaries. Obama now leads Sen. Hillary Clinton in the delegate count for the first time since early in the campaign. ](/news/2008/02/12/united-states-presidential-election-2008-p-illinois-senator-barack-obama-wins-the-district-of-columbia-maryland-and-virginia-democratic.md) _Context: Hillary Clinton, Washington, D.C._
 5. [Unarmed Russian Air Force reconnaissance jets, under the authority provided by international Open Skies Treaty,  fly over several Washington, D.C., area government buildings and landmarks as well as the President's residence in Bedminster, New Jersey. ](/news/2017/08/9/unarmed-russian-air-force-reconnaissance-jets-under-the-authority-provided-by-international-open-skies-treaty-fly-over-several-washington.md) _Context: Washington, D.C._

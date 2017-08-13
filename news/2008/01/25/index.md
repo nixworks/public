@@ -4,7 +4,7 @@
 _Context: Colombia, Hugo Chvez, President, Venezuela_
 
 ### [ United States Secretary of Defense Robert Gates says the U.S. is "ready and willing" to send troops to Pakistan to combat al-Qaeda and the Taliban. ](/news/2008/01/25/united-states-secretary-of-defense-robert-gates-says-the-u-s-is-ready-and-willing-to-send-troops-to-pakistan-to-combat-al-qaeda-and-the.md)
-_Context: Pakistan, Robert Gates, Secretary of Defense, Taliban, U.S., al-Qaeda, military_
+_Context: Military of the United States, Pakistan, Robert Gates, Secretary of Defense, Taliban, U.S., al-Qaeda_
 
 ### [ Iraq War: Prime Minister Nouri al-Maliki claims al-Qaeda in Iraq has been pushed out of most of the nation, and Iraqi security forces are preparing a "decisive" offensive against the group in Mosul, their last stronghold, in response to attacks in the city that have killed around 40 people, including the area's police chief. ](/news/2008/01/25/iraq-war-prime-minister-nouri-al-maliki-claims-al-qaeda-in-iraq-has-been-pushed-out-of-most-of-the-nation-and-iraqi-security-forces-are-p.md)
 Iraqi security forces have begun a &quot;decisive&quot; final offensive against al Qaeda in Iraq to push the Sunni Islamist militants out of their last major stronghold in the north, Prime Minister Nuri al-Maliki said on Friday.

@@ -4,7 +4,7 @@
 The 17-year-old daughter of Republican vice presidential candidate Sarah Palin is pregnant, the Alaska governor said today, in an announcement which could anger the extreme Christian right within her party.
 
 ### [ The U.S. military hands control of Al Anbar Governorate over to the Iraqi government. ](/news/2008/09/1/the-u-s-military-hands-control-of-al-anbar-governorate-over-to-the-iraqi-government.md)
-_Context: Anbar province, Iraq, military_
+_Context: Anbar province, Iraq, Military of the United States_
 
 ### [ An ACLU lawsuit challenges gag orders in National Security Letters. ](/news/2008/09/1/an-aclu-lawsuit-challenges-gag-orders-in-national-security-letters.md)
 _Context: ACLU, National Security Letter, gagged_

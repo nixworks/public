@@ -1,7 +1,7 @@
 ## [2007-02-17](/news/2007/02/17/index.md)
 
 ### [ United States presidential election, 2008: Presidential contender and U. S. Senator Hillary Clinton (D-NY) has called for a 90-day deadline to start withdrawing U.S. troops from Iraq. She states in a video on her website: "If George Bush doesn't end the war before he leaves office, when I'm president, I will." ](/news/2007/02/17/united-states-presidential-election-2008-presidential-contender-and-u-s-senator-hillary-clinton-d-ny-has-called-for-a-90-day-deadline.md)
-_Context: 2008, Democratic, George W. Bush, Hillary Clinton, Iraq War, New York State, President, United States Senate, military_
+_Context: 2008, Democratic, George W. Bush, Hillary Clinton, Iraq War, Military of the United States, New York State, President, United States Senate_
 
 ### [ United States Secretary of State Condoleezza Rice visits Iraq for talks. ](/news/2007/02/17/united-states-secretary-of-state-condoleezza-rice-visits-iraq-for-talks.md)
 _Context: Condoleezza Rice, Iraq, United States Secretary of State_
