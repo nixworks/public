@@ -6,7 +6,7 @@ _Context: Haifa, Holocaust survivor, Israel, Oldest men, Polish, Yisrael Kristal
 ### [The winners of the annual Hugo Awards are announced at the 75th World Science Fiction Convention in Helsinki. ](/news/2017/08/11/the-winners-of-the-annual-hugo-awards-are-announced-at-the-75th-world-science-fiction-convention-in-helsinki.md)
 The Obelisk is headline winner in a year marked by diminished presence of conservative Sad Puppy lobby and strong showing from women
 
-### [Two trains collide in Alexandria, Egypt, killing at least 49 people and injuring at least 100. ](/news/2017/08/11/two-trains-collide-in-alexandria-egypt-killing-at-least-49-people-and-injuring-at-least-100.md)
+### [Two trains collide in Alexandria, Egypt, killing at least 43 people and injuring at least 179. ](/news/2017/08/11/two-trains-collide-in-alexandria-egypt-killing-at-least-43-people-and-injuring-at-least-179.md)
 _Context: Alexandria, Egypt, collide_
 
 ### [At least 56 African migrants drown in the Red Sea while traveling from the Horn of Africa to Yemen. Human traffickers had forced 300 people aboard two boats into the sea. ](/news/2017/08/11/at-least-56-african-migrants-drown-in-the-red-sea-while-traveling-from-the-horn-of-africa-to-yemen-human-traffickers-had-forced-300-people.md)

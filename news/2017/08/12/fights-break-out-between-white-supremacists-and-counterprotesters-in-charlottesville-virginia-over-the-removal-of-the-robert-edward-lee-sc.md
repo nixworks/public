@@ -1,6 +1,6 @@
 ### [2017-08-12](/news/2017/08/12/index.md)
 
-# Fights break out between white supremacists and counterprotesters in Charlottesville, Virginia, over the removal of the Robert Edward Lee Sculpture. Three people are killed and several people are injured after a car drives into a crowd of counter-protesters. 
+# Fights break out between white supremacists and counterprotesters in Charlottesville, Virginia, over the removal of the Robert Edward Lee Sculpture. One person is killed and several people are injured after a white supremacist drove his car into a crowd of counter-protesters. 
 
 A car rams into a crowd after clashes between white nationalists and counter-protesters in Virginia.
 

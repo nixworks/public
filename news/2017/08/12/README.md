@@ -3,8 +3,11 @@
 ### [Seven members of the White Helmets are shot dead by unidentified gunmen who stormed their office in rebel-held Sarmin, in northwestern Syria. ](/news/2017/08/12/seven-members-of-the-white-helmets-are-shot-dead-by-unidentified-gunmen-who-stormed-their-office-in-rebel-held-sarmin-in-northwestern-syria.md)
 _Context: Sarmin, Syria, Syrian Civil War, White Helmets_
 
-### [Fights break out between white supremacists and counterprotesters in Charlottesville, Virginia, over the removal of the Robert Edward Lee Sculpture. Three people are killed and several people are injured after a car drives into a crowd of counter-protesters. ](/news/2017/08/12/fights-break-out-between-white-supremacists-and-counterprotesters-in-charlottesville-virginia-over-the-removal-of-the-robert-edward-lee-sc.md)
+### [Fights break out between white supremacists and counterprotesters in Charlottesville, Virginia, over the removal of the Robert Edward Lee Sculpture. One person is killed and several people are injured after a white supremacist drove his car into a crowd of counter-protesters. ](/news/2017/08/12/fights-break-out-between-white-supremacists-and-counterprotesters-in-charlottesville-virginia-over-the-removal-of-the-robert-edward-lee-sc.md)
 A car rams into a crowd after clashes between white nationalists and counter-protesters in Virginia.
+
+### [Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md)
+Many of the casualties were reported from the Terai region bordering India, which faced massive flooding after receiving heavy rainfall since Friday.
 
 ## [Previous Day...](/news/2017/08/11/index.md)
 
