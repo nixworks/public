@@ -1,0 +1,23 @@
+### [2017-08-14](/news/2017/08/14/index.md)
+
+#  Merck chief executive officer Kenneth Frazier resigns from President Trump's American Manufacturing Council, citing his opposition to Trump's lack of a strong response denouncing the incidents instigated by white nationalists in Charlottesville, Virginia. 
+
+
+
+
+### Source:
+
+1. [CNN](http://money.cnn.com/2017/08/14/investing/merck-ceo-trump-charlottesville/index.html)
+
+### Related:
+
+1. [Five transgender United States military personnel sue President Donald Trump and top Pentagon officials over the President's policy change announced late last month banning transgender people from serving in the military. The suit asks the court to prevent the ban from going into effect. ](/news/2017/08/9/five-transgender-united-states-military-personnel-sue-president-donald-trump-and-top-pentagon-officials-over-the-president-s-policy-change-a.md) _Context: President Trump_
+2. [U.S. President Donald Trump promises "fire and fury like the world has never seen" if North Korea threatens the United States. ](/news/2017/08/8/u-s-president-donald-trump-promises-fire-and-fury-like-the-world-has-never-seen-if-north-korea-threatens-the-united-states.md) _Context: President Trump_
+3. [West Virginia Governor Jim Justice announces, during U.S. President Donald Trump's rally in Huntington, he is changing his party affiliation from Democratic to Republican. ](/news/2017/08/3/west-virginia-governor-jim-justice-announces-during-u-s-president-donald-trump-s-rally-in-huntington-he-is-changing-his-party-affiliation.md) _Context: President Trump_
+4. [Two transcripts of telephone conversations between U.S. President Donald Trump and foreign leaders are leaked. Trump was shown to disagree with Mexican President Enrique Pena Nieto on 27 January over the proposed border wall, and with Australian Prime Minister Malcolm Turnbull the next day over the resettlement deal of refugees in Nauru and Manus. ](/news/2017/08/3/two-transcripts-of-telephone-conversations-between-u-s-president-donald-trump-and-foreign-leaders-are-leaked-trump-was-shown-to-disagree-w.md) _Context: President Trump_
+5. [United States President Donald Trump, together with Senators Tom Cotton and David Perdue, unveils the RAISE Act, a plan that would, if passed, reduce legal immigration to the U.S. by half each year, and implement a "merit-based system" prioritizing skilled workers, instead of the current family-based chain migration system. ](/news/2017/08/2/united-states-president-donald-trump-together-with-senators-tom-cotton-and-david-perdue-unveils-the-raise-act-a-plan-that-would-if-passe.md) _Context: President Trump_
+6. [President of the United States Donald Trump signs the Countering America's Adversaries Through Sanctions Act. Prime Minister of Russia Dmitry Medvedev calls it a "trade war". ](/news/2017/08/2/president-of-the-united-states-donald-trump-signs-the-countering-americaas-adversaries-through-sanctions-act-prime-minister-of-russia-dmi.md) _Context: President Trump_
+7. [Fights break out between alt-right protestors and left-wing counterprotesters in Charlottesville, Virginia, over the removal of the Robert Edward Lee Sculpture. One person is killed and several people are injured after a man drove his car into a crowd of counterprotesters. ](/news/2017/08/12/fights-break-out-between-alt-right-protestors-and-left-wing-counterprotesters-in-charlottesville-virginia-over-the-removal-of-the-robert-e.md) _Context: Charlottesville, Virginia_
+8. [A white supremacist rally called "Unite the Right" takes place in Charlottesville, Virginia. ](/news/2017/08/11/a-white-supremacist-rally-called-unite-the-right-takes-place-in-charlottesville-virginia.md) _Context: Charlottesville, Virginia_
+9. [U.S. President Donald Trump says he and Russian President Vladimir Putin "discussed forming an impenetrable cyber security unit so that election hacking, and many other negative things, will be guarded and safe." Trump later says he does not think this will happen. ](/news/2017/07/9/u-s-president-donald-trump-says-he-and-russian-president-vladimir-putin-discussed-forming-an-impenetrable-cyber-security-unit-so-that-elec.md) _Context: President Trump_
+10. [Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-president-donald-trump-who-is.md) _Context: President Trump_
