@@ -1,6 +1,6 @@
 ### [2017-08-14](/news/2017/08/14/index.md)
 
-#  Merck chief executive officer Kenneth Frazier resigns from President Trump's American Manufacturing Council, citing his opposition to Trump's lack of a strong response denouncing the incidents instigated by white nationalists in Charlottesville, Virginia. 
+#  Merck chief executive officer Kenneth Frazier resigns from President Trump's American Manufacturing Council, citing his opposition to Trump's lack of a strong response denouncing the incidents instigated by white supremacists in Charlottesville, Virginia. 
 
 
 

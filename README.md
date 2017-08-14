@@ -1,7 +1,7 @@
 ## [News](/news/2017/08/14/index.md)
 
-### [India announces that it is to deport an estimated 40,000 Rohingya refugees including 14,000 of those registered with the U.N. refugee agency. In the months leading up to the announcement, a string of anti-Rohingya protests had been held in the country.](/news/2017/08/14/india-announces-that-it-is-to-deport-an-estimated-40-000-rohingya-refugees-including-14-000-of-those-registered-with-the-u-n-refugee-agency.md)
-All of an estimated 40,000 Rohingya Muslims living in India are illegal immigrants, even those registered with the U.N. refugee agency, and the government aims to deport them, a senior government official told Reuters.
+### [A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 179 people with the death toll expected to rise. ](/news/2017/08/14/a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-179-people-with-the-death-toll-expected-to-rise.md)
+There are fears for many who may have been asleep when the mudslide hit near Freetown, Sierra Leone.
 
 ### [ The National Archives of Korea has received a donation of around 6,000 records showing the forced mobilization of Koreans during Korea's colonial occupation by Imperial Japan; part of them dealing about Hashima Island. The government agency plans to publish the records online after classification. ](/news/2017/08/14/the-national-archives-of-korea-has-received-a-donation-of-around-6-000-records-showing-the-forced-mobilization-of-koreans-during-korea-s-co.md)
 The National Archives announced it will release some six-thousand written and photographic records showing the forced mobilization of Koreans during J
@@ -12,7 +12,7 @@ New Zealand&#039;s Prime Minister confirms that unwittingly or not, Barnaby Joyc
 ### [The Garden Bridge project is officially abandoned after Mayor  of London Sadiq Khan withdraws support ](/news/2017/08/14/the-garden-bridge-project-is-officially-abandoned-after-mayor-of-london-sadiq-khan-withdraws-support.md)
 _Context: Garden Bridge, Mayor  of London, Sadiq Khan_
 
-### [ Merck chief executive officer Kenneth Frazier resigns from President Trump's American Manufacturing Council, citing his opposition to Trump's lack of a strong response denouncing the incidents instigated by white nationalists in Charlottesville, Virginia. ](/news/2017/08/14/merck-chief-executive-officer-kenneth-frazier-resigns-from-president-trump-s-american-manufacturing-council-citing-his-opposition-to-trump.md)
+### [ Merck chief executive officer Kenneth Frazier resigns from President Trump's American Manufacturing Council, citing his opposition to Trump's lack of a strong response denouncing the incidents instigated by white supremacists in Charlottesville, Virginia. ](/news/2017/08/14/merck-chief-executive-officer-kenneth-frazier-resigns-from-president-trump-s-american-manufacturing-council-citing-his-opposition-to-trump.md)
 _Context: Charlottesville, Virginia, Kenneth Frazier, Merck, President Trump_
 
 ## Opinion
