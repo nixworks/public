@@ -46,7 +46,7 @@ Huge turnout in south Sudan referendum expected to back secession from the north
 France pledges to overhaul its medical regulatory system after a failure to ban a diabetes drug that may have killed up to 2,000 people.
 
 ### [China may station troops in North Korea to protect its investment projects and citizens.](/news/2011/01/15/china-may-station-troops-in-north-korea-to-protect-its-investment-projects-and-citizens.md)
-_Context: China, North Korea, military_
+_Context: China, North Korea, People's Liberation Army_
 
 ## [Previous Day...](/news/2011/01/14/index.md)
 

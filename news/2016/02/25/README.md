@@ -4,7 +4,7 @@
 _Context: Shyrokyne, Ukrainian military, War in Donbass_
 
 ### [Two ISIL suicide bombers attack a Shiite mosque in Baghdad, killing at least 15 people. ](/news/2016/02/25/two-isil-suicide-bombers-attack-a-shiite-mosque-in-baghdad-killing-at-least-15-people.md)
-_Context: Baghdad, ISIL, Iraqi Civil War (2014-present), Shiite, suicide bomber_
+_Context: Baghdad, ISIS, Iraqi Civil War (2014-present), Shiite, suicide bomber_
 
 ### [The Syrian Army, backed by Russian airstrikes, recaptures the town of Khanasir from ISIL militants in the Aleppo Governorate. ](/news/2016/02/25/the-syrian-army-backed-by-russian-airstrikes-recaptures-the-town-of-khanasir-from-isil-militants-in-the-aleppo-governorate.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

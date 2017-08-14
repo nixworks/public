@@ -1,7 +1,7 @@
 ## [2015-08-21](/news/2015/08/21/index.md)
 
 ### [The Islamic State in Iraq and the Levant destroys the historic Mar Elian monastery near the town of Al-Qaryatayn in the Homs Governorate in Syria. ](/news/2015/08/21/the-islamic-state-in-iraq-and-the-levant-destroys-the-historic-mar-elian-monastery-near-the-town-of-al-qaryatayn-in-the-homs-governorate-in.md)
-_Context: Homs Governorate, Islamic State in Iraq and the Levant, Mar Elian monastery, Syria, al-Qaryatayn, destroyed_
+_Context: Homs Governorate, ISIL, Mar Elian monastery, Syria, al-Qaryatayn, destroyed_
 
 ### [Saudi-led coalition air-strikes on the Yemeni city of Taiz leave at least 65 civilians killed. ](/news/2015/08/21/saudi-led-coalition-air-strikes-on-the-yemeni-city-of-taiz-leave-at-least-65-civilians-killed.md)
 At least 65 civilians die in air strikes by a Saudi-led coalition in the Yemeni city of Taiz, aid agency Medecins Sans Frontieres says.

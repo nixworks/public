@@ -10,7 +10,7 @@ _Context: Albania, Bosnia and Herzegovina, Bulgaria, Central European Free Trade
 _Context: Government of Kazakhstan, Kyrgyzstan, USD_
 
 ### [ The 2006 Malaysian floods caused by heavy monsoon rain force the evacuation of 26,000 people in the southern Malaysian state of Johor. Flooding is also reported in the southern states of Malacca and Negeri Sembilan but the situation there is not as serious. ](/news/2006/12/20/the-2006-malaysian-floods-caused-by-heavy-monsoon-rain-force-the-evacuation-of-26-000-people-in-the-southern-malaysian-state-of-johor-floo.md)
-_Context: 2006 Malaysian floods, Johor, Malacca, Malaysia, Negeri Sembilan, monsoon_
+_Context: 2006 Malaysian floods, Johor, Malacca, Malaysia, Monsoon, Negeri Sembilan_
 
 ### [ Somali Civil War: Heavy fighting breaks out on at least two fronts near the Somali interim government's base in Baidoa. Somalia's interim government and the Islamic Courts Union pledge to begin peace negotiations. ](/news/2006/12/20/somali-civil-war-heavy-fighting-breaks-out-on-at-least-two-fronts-near-the-somali-interim-government-s-base-in-baidoa-somalia-s-interim-g.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

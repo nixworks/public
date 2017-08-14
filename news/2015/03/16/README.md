@@ -1,7 +1,7 @@
 ## [2015-03-16](/news/2015/03/16/index.md)
 
 ### [Islamic State kidnaps about 20 medical workers from the Ibn Sina Hospital in the Libyan city of Sirte. ](/news/2015/03/16/islamic-state-kidnaps-about-20-medical-workers-from-the-ibn-sina-hospital-in-the-libyan-city-of-sirte.md)
-_Context: ISIL, Ibn Sina Hospital, Libya, Libyan Civil War, Sirte_
+_Context: ISIS, Ibn Sina Hospital, Libya, Libyan Civil War, Sirte_
 
 ### [The remnants of Cyclone Pam move down the east coast of New Zealand causing evacuations, heavy flooding, and power outages. ](/news/2015/03/16/the-remnants-of-cyclone-pam-move-down-the-east-coast-of-new-zealand-causing-evacuations-heavy-flooding-and-power-outages.md)
 ARE YOU AFFECTED BY THE STORM? SEND IN YOUR PHOTOS AND VIDEO HERE. - New Zealand Herald

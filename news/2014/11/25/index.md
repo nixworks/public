@@ -4,7 +4,7 @@
 _Context: Al-Qaeda insurgency in Yemen, Hadhramaut Governorate, al-Qaeda, special operations forces_
 
 ### [Syrian Air Force raids on the city of Raqqa kill at least 36 people. ](/news/2014/11/25/syrian-air-force-raids-on-the-city-of-raqqa-kill-at-least-36-people.md)
-_Context: Islamic State in Iraq and the Levant, Raqqa, Syrian Air Force_
+_Context: ISIL, Raqqa, Syrian Air Force_
 
 ### [Islamist insurgency in Nigeria:Two teenage girl suicide bombers kill more than 40 people in Maiduguri, the capital of Borno state in northeastern Nigeria. ](/news/2014/11/25/islamist-insurgency-in-nigeria-ptwo-teenage-girl-suicide-bombers-kill-more-than-40-people-in-maiduguri-the-capital-of-borno-state-in-northe.md)
 They carried the bombs under their hijabs, detonating them in a double suicide attack.

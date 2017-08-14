@@ -7,7 +7,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 Armando Rios First Front calls on other units to join in the ‘fight for the taking of power by the people for the people’
 
 ### [At least 35 people are killed and 60 others injured in an attack on a Shiite mausoleum located in north of Baghdad. Islamic State in Iraq and the Levant have claimed responsibility. ](/news/2016/07/7/at-least-35-people-are-killed-and-60-others-injured-in-an-attack-on-a-shiite-mausoleum-located-in-north-of-baghdad-islamic-state-in-iraq-an.md)
-_Context: Baghdad, Iraqi Civil War (2014-present), Islamic State in Iraq and the Levant, Shiite, mausoleum_
+_Context: Baghdad, ISIL, Iraqi Civil War (2014-present), Shiite, mausoleum_
 
 ### [French food company Danone agrees to buy American company WhiteWave Foods for $10 billion. ](/news/2016/07/7/french-food-company-danone-agrees-to-buy-american-company-whitewave-foods-for-10-billion.md)
 _Context: Danone, WhiteWave Foods_

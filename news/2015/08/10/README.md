@@ -10,7 +10,7 @@ A Taliban suicide bomber attacks a checkpoint near the entrance to the internati
 _Context: IKEA, Vasteras, Sweden_
 
 ### [ISIL claims responsibility for a bombing in central Iraqi city of Baquba that killed at least 30 people and injured 40 more. ](/news/2015/08/10/isil-claims-responsibility-for-a-bombing-in-central-iraqi-city-of-baquba-that-killed-at-least-30-people-and-injured-40-more.md)
-_Context: Baquba, Iraq, Islamic State in Iraq and the Levant_
+_Context: Baquba, ISIL, Iraq_
 
 ### [Google creates a new holding company called Alphabet Inc. containing Google Inc. and Calico containing Google Ventures, Google Capital, Google X, and other subsidiaries. ](/news/2015/08/10/google-creates-a-new-holding-company-called-alphabet-inc-containing-google-inc-and-calico-containing-google-ventures-google-capital-goog.md)
 _Context: Alphabet Inc., Calico, Google, Google, Google Capital, Google Ventures_

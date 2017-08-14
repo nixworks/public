@@ -1,7 +1,7 @@
 ## [2015-11-7](/news/2015/11/7/index.md)
 
 ### [The Assyrian Human Rights Network (AHRN) reports Islamic State militants  released 37 Syrian Christians, mostly women, who were among more than 200 people from the Assyrian minority group abducted in February. ](/news/2015/11/7/the-assyrian-human-rights-network-ahrn-reports-islamic-state-militants-released-37-syrian-christians-mostly-women-who-were-among-more-t.md)
-_Context: Chaldean, ISIL, Syrian Christians, Syrian Civil War_
+_Context: Chaldean, ISIS, Syrian Christians, Syrian Civil War_
 
 ### [Bombs in and around Baghdad kill at least nine people, police and medical sources say. There is  no immediate claim of responsibility. ](/news/2015/11/7/bombs-in-and-around-baghdad-kill-at-least-nine-people-police-and-medical-sources-say-there-is-no-immediate-claim-of-responsibility.md)
 Bombs in and around Baghdad killed at least nine people on Saturday, police and medical sources said, highlighting security challenges that include Islamist militancy and sectarian conflict.

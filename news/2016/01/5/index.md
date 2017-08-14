@@ -13,7 +13,7 @@ _Context: Al-Awamiyah, Eastern Province, Nimr al-Nimr_
 Islamic State militants attacked checkpoints near the Libyan oil port of Es Sider for a second day on Tuesday and an oil storage tank in the port was set on fire by a long-range rocket, a spokesman for the security guards said.
 
 ### [The Islamic State, following Saudi Arabia's  execution of 47 people on Saturday,  threatens to destroy Saudi Arabia's Tarfiya  and al-Ha'ir Prisons holding Al-Qaeda and ISIL supporters. ](/news/2016/01/5/the-islamic-state-following-saudi-arabia-s-execution-of-47-people-on-saturday-threatens-to-destroy-saudi-arabia-s-tarfiya-and-al-ha-ir.md)
-_Context: ISIL, Saudi Arabia, al-Ha'ir Prison, al-Qaida_
+_Context: ISIS, Saudi Arabia, al-Ha'ir Prison, al-Qaida_
 
 ### [A bus catches fire in the Chinese city of Yinchuan resulting in at least 14 deaths and over 30 injured. ](/news/2016/01/5/a-bus-catches-fire-in-the-chinese-city-of-yinchuan-resulting-in-at-least-14-deaths-and-over-30-injured.md)
 A Chinese man upset over a financial dispute set fire to a moving bus and fled as the flames trapped people inside, killing 17 of them and injuring 32, authorities and state media said.
@@ -28,7 +28,7 @@ Saudi Arabia signaled on Tuesday that the breach in its relations with Iran woul
 TAIPEI • China will allow transit stops in Taiwan for flights from three Chinese cities, China&#039;s Taiwan Affairs Office said yesterday, allowing people from the mainland to travel on from the island for the first time.. Read more at straitstimes.com.
 
 ### [Reform of the People's Liberation Army in China:The Second Artillery Corps is re-organized into the People's Liberation Army Rocket Force.The People's Liberation Army Strategic Support Force is founded, with Gao Jin as its inaugural commander and Liu Fulian as Political Commissar.The Ground Force is re-organized under the People's Liberation Army Ground Force Command, under commander Li Zuocheng. ](/news/2016/01/5/reform-of-the-people-s-liberation-army-in-china-pthe-second-artillery-corps-is-re-organized-into-the-people-s-liberation-army-rocket-force-p.md)
-_Context: Gao Jin, Ground Force, Li Zuocheng, Liu Fulian, People's Liberation Army Rocket Force, People's Liberation Army Strategic Support Force, military_
+_Context: Gao Jin, Ground Force, Li Zuocheng, Liu Fulian, People's Liberation Army, People's Liberation Army Rocket Force, People's Liberation Army Strategic Support Force_
 
 ### [Former Beijing Deputy Communist Party Secretary Lu Xiwen is expelled from the Communist Party of China for "interfering with the market economy and law enforcement" and "living a luxurious lifestyle", among other offenses. ](/news/2016/01/5/former-beijing-deputy-communist-party-secretary-lu-xiwen-is-expelled-from-the-communist-party-of-china-for-interfering-with-the-market-econ.md)
 _Context: Deputy Communist Party Secretary, Lu Xiwen_

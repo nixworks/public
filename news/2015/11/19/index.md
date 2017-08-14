@@ -1,7 +1,7 @@
 ## [2015-11-19](/news/2015/11/19/index.md)
 
 ### [China vows to "bring to justice" those responsible for executing one of its citizens after the Islamic State of Iraq and the Levant said it had killed a Chinese hostage. China's Foreign Ministry also confirms the hostage's identity for the first time, naming him as Fan Jinghui. ](/news/2015/11/19/china-vows-to-bring-to-justice-those-responsible-for-executing-one-of-its-citizens-after-the-islamic-state-of-iraq-and-the-levant-said-it.md)
-_Context: China, Chinese Foreign Ministry spokesperson, Fan Jinghui, ISIL, Killing of captives by ISIL_
+_Context: China, Chinese Foreign Ministry spokesperson, Fan Jinghui, ISIS, Killing of captives by ISIL_
 
 ### [According to the Islamic State of Iraq and the Levant's official propaganda magazine, a soft drink can with an IED, a so-called "Schweppes bomb," was used to destroy the Russian airliner. ](/news/2015/11/19/according-to-the-islamic-state-of-iraq-and-the-levant-s-official-propaganda-magazine-a-soft-drink-can-with-an-ied-a-so-called-schweppes-b.md)
 * Islamic State shows components purportedly used to blow upplane* Includes soft drink can and apparent detonator* Feasible the device could

@@ -7,7 +7,7 @@ A suicide car bomb kills 13 off-duty soldiers in central Turkey and wounds 56 ot
 _Context: Nicolas Maduro, Venezuela, bolivar_
 
 ### [Tsunami warnings are issued for the Pacific region, including Indonesia and  the Solomon Islands, following a 7.9 magnitude earthquake east of Papua New Guinea. The Pacific Tsunami Warning Center later reports the threat has largely passed. ](/news/2016/12/17/tsunami-warnings-are-issued-for-the-pacific-region-including-indonesia-and-the-solomon-islands-following-a-7-9-magnitude-earthquake-east.md)
-_Context: Indonesia, Pacific Tsunami Warning Center, Papua New Guinea, Solomon Islands, magnitude earthquake_
+_Context: Indonesia, Pacific Tsunami Warning Center, Papua New Guinea, Solomon Islands, magnitude_
 
 ### [Two people are killed and at least 15 are hospitalized following a 55-vehicle accident, involving a gas  tanker explosion, on Interstate 95 in Baltimore, Maryland, as cold air causes rain and wet roads to freeze across the Eastern U.S.  Three other deaths are reported from other accidents in the Baltimore-Washington, D.C. area. At least six people have been killed in total on icy roads. ](/news/2016/12/17/two-people-are-killed-and-at-least-15-are-hospitalized-following-a-55-vehicle-accident-involving-a-gas-tanker-explosion-on-interstate-95.md)
 A winter storm of snow, freezing rain and bone-chilling temperatures socked the nation&#039;s mid-section and East Coast on Saturday, causing hundreds of accidents on icy roads and putting a crimp on Christmas shopping. At least…

@@ -1,7 +1,7 @@
 ## [2015-01-26](/news/2015/01/26/index.md)
 
 ### [Kurdish fighters recapture at least 90% of Kobani, Syria. ](/news/2015/01/26/kurdish-fighters-recapture-at-least-90-of-kobana-r-syria.md)
-_Context: ISIL, Kobani, Syria, YPG, recapture_
+_Context: ISIS, Kobani, Syria, YPG, recapture_
 
 ### [India honors billionaire philanthropist Bill Gates and his wife Melinda with the Padma Bhushan award for their work on improving health in developing countries. ](/news/2015/01/26/india-honors-billionaire-philanthropist-bill-gates-and-his-wife-melinda-with-the-padma-bhushan-award-for-their-work-on-improving-health-in-d.md)
 India conferred one of its highest civilian awards on billionaire philanthropist and Microsoft co-founder Bill Gates and his wife Melinda for their work to improve health in developing countries.

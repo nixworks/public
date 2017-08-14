@@ -13,7 +13,7 @@ A powerful typhoon made landfall in southern Taiwan before dawn Friday, toppling
 Tropical Storm Isaac dumps rain on eastern Cuba after bringing flood misery to the south coast of Haiti, where four people were killed.
 
 ### [Heavy monsoon rain and floods kill 26 people in Pakistan. ](/news/2012/08/24/heavy-monsoon-rain-and-floods-kill-26-people-in-pakistan.md)
-_Context: Pakistan, flood, monsoon_
+_Context: Monsoon, Pakistan, flood_
 
 ### [The newly-built Yangmingtan Bridge in Harbin City in China collapses, killing three and injuring five people. ](/news/2012/08/24/the-newly-built-yangmingtan-bridge-in-harbin-city-in-china-collapses-killing-three-and-injuring-five-people.md)
 A section of a multi-million dollar bridge in China that opened in November has collapsed, leaving three people dead, state media say.

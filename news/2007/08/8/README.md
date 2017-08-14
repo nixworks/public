@@ -37,7 +37,7 @@ Two fossils have shaken the human family tree, possibly rearranging major branch
 _Context: An earthquake, Indonesia, Jakarta, magnitude_
 
 ### [ 2007 South Asian floods: Fresh round of floods hits Gujarat, India. People make trains at railway stations their homes in Bihar. Many places inaccessible by road or rail.](/news/2007/08/8/2007-south-asian-floods-fresh-round-of-floods-hits-gujarat-india-people-make-trains-at-railway-stations-their-homes-in-bihar-many-place.md)
-_Context: 2007 South Asian floods, Bihar, Gujarat, India, floods_
+_Context: 2007 South Asian floods, Bihar, Floods, Gujarat, India_
 
 ### [ In Germany the labour court of Nuremberg prohibited the strike prepared by the ''Gewerkschaft Deutscher Lokomotivfuhrer'' (GDL), which was to be the largest in 15 years. According to the ''Deutsche Bahn'' train company, the strike was prohibited because of the heavy tribute which would have been paid by the national economy ](/news/2007/08/8/in-germany-the-labour-court-of-nuremberg-prohibited-the-strike-prepared-by-the-gewerkschaft-deutscher-lokomotivfa1-4hrer-gdl-which-was.md)
 _Context: Deutsche Bahn, Germany, Gewerkschaft Deutscher Lokomotivfuhrer, Nuremberg, economy of Germany, labour court, strike_

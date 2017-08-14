@@ -4,7 +4,7 @@
 Jan Bartunek and Philip Blenkinsop
 
 ### [Rochester, New York, police arrest 25-year-old Emanuel Lutchman who allegedly planned to attack a local bar with knives and machetes and a pressure cooker bomb to prove he was worthy of joining the Islamic State group. Rochester cancels New Year's Eve fireworks. ](/news/2015/12/31/rochester-new-york-police-arrest-25-year-old-emanuel-lutchman-who-allegedly-planned-to-attack-a-local-bar-with-knives-and-machetes-and-a-p.md)
-_Context: ISIL, Rochester, New York, machete, pressure cooker bomb_
+_Context: ISIS, Rochester, New York, machete, pressure cooker bomb_
 
 ### [Record flooding along the Mississippi River and its tributaries that has closed major highways, forced evacuations, and overflowed levees, continues to threaten the Midwestern United States where at least 24 have died. The Mississippi  is expected to crest in the next few days in Thebes, Illinois, at 47.5 feet, breaking the 1995 record by more than a foot and a half (46 cm). And now periods of below-freezing air will cause some flooded areas to turn icy. ](/news/2015/12/31/record-flooding-along-the-mississippi-river-and-its-tributaries-that-has-closed-major-highways-forced-evacuations-and-overflowed-levees-c.md)
 Record flooding from rain-swollen rivers has washed out hundreds of structures in Missouri, Illinois, Arkansas and eastern Oklahoma, forcing thousands to flee their homes, and 9.3 million Americans still face flood warnings.

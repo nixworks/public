@@ -4,7 +4,7 @@
 A senior officer of the Afghan Supreme Court is among those killed in the spate of violence.
 
 ### [Iraqi officials claim that ISIL have shot down a military helicopter near Samarra, killing both pilots. ](/news/2014/12/13/iraqi-officials-claim-that-isil-have-shot-down-a-military-helicopter-near-samarra-killing-both-pilots.md)
-_Context: Iraq, Islamic State in Iraq and the Levant, Samarra_
+_Context: ISIL, Iraq, Samarra_
 
 ### [Germany's most successful television show, ''Wetten, dass..?'', ends after a 33-year-run. ](/news/2014/12/13/germany-s-most-successful-television-show-wetten-dass-ends-after-a-33-year-run.md)
 _Context: Germany, Wetten, dass..?_

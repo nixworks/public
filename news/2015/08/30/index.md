@@ -4,7 +4,7 @@
 An air strike by warplanes from a Saudi-led coalition, which said it targeted a bomb-making factory, killed 36 civilians working at a bottling plant in the northern Yemeni province of Hajjah on Sunday, residents said.
 
 ### [The Syrian Observatory for Human Rights claims that ISIL has blown up the ancient Temple of Bel in Palmyra. ](/news/2015/08/30/the-syrian-observatory-for-human-rights-claims-that-isil-has-blown-up-the-ancient-temple-of-bel-in-palmyra.md)
-_Context: Islamic State in Iraq and the Levant, Palmyra, Syrian Observatory for Human Rights, Temple of Bel_
+_Context: ISIL, Palmyra, Syrian Observatory for Human Rights, Temple of Bel_
 
 ### [A fire at an Aramco housing complex in the Saudi Arabian city of Khobar kills at least two people and injures 105 others. ](/news/2015/08/30/a-fire-at-an-aramco-housing-complex-in-the-saudi-arabian-city-of-khobar-kills-at-least-two-people-and-injures-105-others.md)
 _Context: Aramco, Khobar, Saudi Arabia_

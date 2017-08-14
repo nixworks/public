@@ -10,7 +10,7 @@ A US air strike has probably killed Abu Nabil, the &quot;senior leader&quot; of 
 _Context: Iraq, Iraqi Civil War (2014-present), Peshmerga, Sinjar, Yazidi minority, Yazidis, mass grave, recently liberated_
 
 ### [Turkish forces engage Islamic State in Iraq and the Levant (ISIL) militants along the Syrian border:Turkish troops kill four Islamic State militants in Turkey's southeastern Gaziantep Province when two cars with ISIS passengers advanced on a Turkish armored vehicle near a border post in Oguzeli. ](/news/2015/11/14/turkish-forces-engage-islamic-state-in-iraq-and-the-levant-isil-militants-along-the-syrian-border-pturkish-troops-kill-four-islamic-state.md)
-_Context: Gaziantep Province, Islamic State in Iraq and the Levant, Oguzeli, Spillover of the Syrian Civil War, Syria, Turkey-ISIL conflict, Turkish troops_
+_Context: Gaziantep Province, ISIL, Oguzeli, Spillover of the Syrian Civil War, Syria, Turkey-ISIL conflict, Turkish troops_
 
 ### [The U.S. Geological Survey reports a magnitude 6.7 earthquake struck off the southwest coast of Japan. The quake occurred 119 miles (191 km) west-southwest of Kagoshima. The Pacific Tsunami Center reported no major tsunami threat. A small tsunami, 30 centimeters (11.8 inches), was observed on the southern island of Nakanoshima. No reports of major damage or injuries. ](/news/2015/11/14/the-u-s-geological-survey-reports-a-magnitude-6-7-earthquake-struck-off-the-southwest-coast-of-japan-the-quake-occurred-119-miles-191-km.md)
 A magnitude 7.0 earthquake hit off the southern coast of Japan, the U.S. Geological Survey reported on Friday.

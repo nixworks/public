@@ -4,7 +4,7 @@
 _Context: North Pacific Ocean, Samoan Islands, the deadly tsunami, tsunami_
 
 ### [ A 7.6 magnitude earthquake strikes western Indonesia, killing at least 75 and trapping thousands of people under rubble. ](/news/2009/09/30/a-7-6-magnitude-earthquake-strikes-western-indonesia-killing-at-least-75-and-trapping-thousands-of-people-under-rubble.md)
-_Context: Indonesia, earthquake, magnitude earthquake_
+_Context: Indonesia, earthquake, magnitude_
 
 ### [ Guinea's military leader Captain Moussa Dadis Camara bans all "subversive" gatherings and demonstrations in the aftermath of opposition protests. ](/news/2009/09/30/guinea-s-military-leader-captain-moussa-dadis-camara-bans-all-subversive-gatherings-and-demonstrations-in-the-aftermath-of-opposition-pro.md)
 _Context: Guinea, Moussa Dadis Camara, massacre of opposition protesters_

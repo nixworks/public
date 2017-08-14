@@ -1,13 +1,13 @@
 ## [2016-04-30](/news/2016/04/30/index.md)
 
 ### [A car bombing in southeastern Baghdad kills at least 19 and injures nearly 50 Shi'ite pilgrims. ISIL has claimed responsibility.  ](/news/2016/04/30/a-car-bombing-in-southeastern-baghdad-kills-at-least-19-and-injures-nearly-50-shi-ite-pilgrims-isil-has-claimed-responsibility.md)
-_Context: April 2016 Baghdad bombing, Baghdad, Iraqi Civil War (2014-present), Islamic State in Iraq and the Levant, Shi'ite, car bombing_
+_Context: April 2016 Baghdad bombing, Baghdad, ISIL, Iraqi Civil War (2014-present), Shi'ite, car bombing_
 
 ### [The Syrian Observatory for Human Rights claims that twenty air strikes have hit the northern areas of Aleppo. Bombardments by both sides have killed nearly 250 people since April 22. ](/news/2016/04/30/the-syrian-observatory-for-human-rights-claims-that-twenty-air-strikes-have-hit-the-northern-areas-of-aleppo-bombardments-by-both-sides-hav.md)
 _Context: Aleppo, Syrian Civil War, Syrian Observatory for Human Rights_
 
 ### [A Hindu man is hacked to death in Tangail district. He is alleged to have made comments against Prophet Muhammad. Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/04/30/a-hindu-man-is-hacked-to-death-in-tangail-district-he-is-alleged-to-have-made-comments-against-prophet-muhammad-islamic-state-of-iraq-and.md)
-_Context: Attacks on secularists in Bangladesh, Hindu, ISIL, Prophet Muhammad, Tangail_
+_Context: Attacks on secularists in Bangladesh, Hindu, ISIS, Prophet Muhammad, Tangail_
 
 ### [Sweden celebrates the 70th birthday of their King Carl XVI Gustaf, whose celebration was attended by fellow European royals, including Denmark's Margrethe II, former King of Spain Juan Carlos I and former Queen of the Netherlands Beatrix. ](/news/2016/04/30/sweden-celebrates-the-70th-birthday-of-their-king-carl-xvi-gustaf-whose-celebration-was-attended-by-fellow-european-royals-including-denma.md)
 Sweden’s King Carl XVI Gustaf may be young compared to Britain’s Queen Elizabeth – he’s 70, she’s just turned 90 – but he celebrated his birthday in

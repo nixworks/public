@@ -7,7 +7,7 @@ Ukrainian government forces and pro-Russian separatists exchange dozens of priso
 The head of US homeland security urges vigilance after Somali-based militants call for attacks on shopping centres in the US, Canada and Britain.
 
 ### [Islamic State militants claim responsibility for bombing the Iranian ambassador's residence in Tripoli and a rocket attack on Al Abraq International Airport. ](/news/2015/02/22/islamic-state-militants-claim-responsibility-for-bombing-the-iranian-ambassador-s-residence-in-tripoli-and-a-rocket-attack-on-al-abraq-inter.md)
-_Context: Al Abraq International Airport, Iran, Islamic State in Iraq and the Levant, Second Libyan Civil War (2014-present), Tripoli_
+_Context: Al Abraq International Airport, ISIL, Iran, Second Libyan Civil War (2014-present), Tripoli_
 
 ### [ISIS burns more than 8,000 rare books and manuscripts in Mosul, Iraq. ](/news/2015/02/22/isis-burns-more-than-8-000-rare-books-and-manuscripts-in-mosul-iraq.md)
 More than 8,000 rare books and manuscripts – including books printed in Iraq’s first printing house in the 19th century – have been burned by Islamic State militants in Mosul, despite pleas from the public.

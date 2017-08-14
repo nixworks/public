@@ -22,7 +22,7 @@ _Context: Michaels_
 Three others injured and seven missing after avalanche caught work party as they prepared route for fee-paying western climbers
 
 ### [A 7.5-magnitude earthquake hits near Petatlan, Guerrero, Mexico. ](/news/2014/04/18/a-7-5-magnitude-earthquake-hits-near-petatla-n-guerrero-mexico.md)
-_Context: Guerrero, Petatlan, magnitude earthquake_
+_Context: Guerrero, Petatlan, magnitude_
 
 ### [Pollution in China:An official study released by the Chinese government reveals that about one-fifth of China's soil is contaminated. ](/news/2014/04/18/pollution-in-china-pan-official-study-released-by-the-chinese-government-reveals-that-about-one-fifth-of-china-s-soil-is-contaminated.md)
 _Context: Government of China, Pollution in China, soil is contaminated_

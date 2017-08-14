@@ -4,7 +4,7 @@
 South Sudanese President Salva Kiir has ordered all government troops to cease fighting rebel forces as part of a peace agreement, his spokesman said, ahead of a full ceasefire on Saturday.
 
 ### [Turkey launches its first air strikes against ISIL in Syria. ](/news/2015/08/29/turkey-launches-its-first-air-strikes-against-isil-in-syria.md)
-_Context: Islamic State in Iraq and the Levant, Syria, Turkey_
+_Context: ISIL, Syria, Turkey_
 
 ### [Roadside bombings in Iraq leave at least 10 people killed. ](/news/2015/08/29/roadside-bombings-in-iraq-leave-at-least-10-people-killed.md)
 _Context: Iraq, Iraq War (2014-present)_

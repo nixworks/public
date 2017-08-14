@@ -1,7 +1,7 @@
 ## [2014-11-2](/news/2014/11/2/index.md)
 
 ### [Islamic State in Iraq and the Levant:Over 300 members of the Sunni Albu Nimr tribe are executed by ISIS militants in Anbar Province, western Iraq. ](/news/2014/11/2/islamic-state-in-iraq-and-the-levant-pover-300-members-of-the-sunni-albu-nimr-tribe-are-executed-by-isis-militants-in-anbar-province-wester.md)
-_Context: Albu Nimr, Anbar province, Iraq, Islamic State in Iraq and the Levant, Islamic State of Iraq and Syria, Sunni_
+_Context: Albu Nimr, Anbar province, ISIL, Iraq, Islamic State of Iraq and Syria, Sunni_
 
 ### [Libyan Civil War:The death toll surpasses 200 from fighting between loyalist troops and Islamist militias in Benghazi since an offensive launched by Khalifa Hifter began two weeks ago. ](/news/2014/11/2/libyan-civil-war-pthe-death-toll-surpasses-200-from-fighting-between-loyalist-troops-and-islamist-militias-in-benghazi-since-an-offensive-la.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

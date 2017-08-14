@@ -7,7 +7,7 @@ A Saudi-led coalition resumes air strikes against Houthi rebels in Yemen after a
 Casualties have been reported after several explosions hit 2 leftwing pro-Kurdish party HQs in Turkey.
 
 ### [The Governor of Iraq's Anbar Governorate estimates that 500 people were killed and 8000 fled as ISIS captured the strategically important city of Ramadi. ](/news/2015/05/18/the-governor-of-iraq-s-anbar-governorate-estimates-that-500-people-were-killed-and-8000-fled-as-isis-captured-the-strategically-important-ci.md)
-_Context: Anbar Governorate, ISIS, Iraq, Islamic State in Iraq and the Levant, Ramadi_
+_Context: Anbar Governorate, ISIL, ISIS, Iraq, Ramadi_
 
 ### [The Dow Jones Industrial Average and S&P 500 end at record levels. ](/news/2015/05/18/the-dow-jones-industrial-average-and-s-p-500-end-at-record-levels.md)
 U.S. stocks closed higher, with the Dow and S&amp;P setting records, as investors shook off concerns about Greek debt and a renewed rise in bond yields.

@@ -19,7 +19,7 @@ _Context: Gaza Strip, Israeli-Palestinian conflict, Khan Yunis_
 Thousands of Muslim Bosniaks paid respect to 127 victims of the 1995 Srebrenica massacre buried in individual graves on Monday in a ceremony avoided by Serbs after survivors said they were not welcome because they denied genocide had occurred.
 
 ### [Floods resulting from the annual monsoon season cause 22 deaths and make 100,000 people homeless in India. ](/news/2016/07/11/floods-resulting-from-the-annual-monsoon-season-cause-22-deaths-and-make-100-000-people-homeless-in-india.md)
-_Context: India, flood, monsoon_
+_Context: India, Monsoon, flood_
 
 ### [A Lockheed C-130 Hercules owned by the Portuguese Armed Forces catches fire while taking off from Montijo Air Base, killing at least three people. ](/news/2016/07/11/a-lockheed-c-130-hercules-owned-by-the-portuguese-armed-forces-catches-fire-while-taking-off-from-montijo-air-base-killing-at-least-three-p.md)
 _Context: Lockheed C-130 Hercules, Montijo Air Base, Portuguese Armed Forces_

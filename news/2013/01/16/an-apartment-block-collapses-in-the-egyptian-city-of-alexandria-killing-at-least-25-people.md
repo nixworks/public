@@ -12,7 +12,7 @@ At least 25 people were killed on Wednesday when a 12-storey building collapsed 
 
 ### Related:
 
-1. [Two trains collide in Alexandria, Egypt, killing at least 49 people and injuring at least 100. ](/news/2017/08/11/two-trains-collide-in-alexandria-egypt-killing-at-least-49-people-and-injuring-at-least-100.md) _Context: Alexandria, Egypt_
+1. [Two trains collide in Alexandria, Egypt, killing at least 41 people and injuring at least 179. ](/news/2017/08/11/two-trains-collide-in-alexandria-egypt-killing-at-least-41-people-and-injuring-at-least-179.md) _Context: Alexandria, Egypt_
 2. [At least 45 people have been killed and 50 injured in explosions near two Coptic Christian churches packed with worshippers on Palm Sunday in the Egyptian cities of Tanta and Alexandria. ](/news/2017/04/9/at-least-45-people-have-been-killed-and-50-injured-in-explosions-near-two-coptic-christian-churches-packed-with-worshippers-on-palm-sunday-i.md) _Context: Alexandria, Egypt_
 3. [A bomb explodes outside French supermarket Carrefour in Alexandria, Egypt, killing one person and wounding six. ](/news/2015/03/8/a-bomb-explodes-outside-french-supermarket-carrefour-in-alexandria-egypt-killing-one-person-and-wounding-six.md) _Context: Alexandria, Egypt_
 4. [2012 Egyptian protests:Clashes break out in Alexandria, Egypt, on the evening of the second leg of voting in the constitutional referendum. ](/news/2012/12/21/2012-egyptian-protests-pclashes-break-out-in-alexandria-egypt-on-the-evening-of-the-second-leg-of-voting-in-the-constitutional-referendum.md) _Context: Alexandria, Egypt_

@@ -13,7 +13,7 @@ Illicit commerce thrives in the Republic of Georgia, where some regions have bec
 _Context: Huautla de Jimnez, Mexico, Oaxaca_
 
 ### [ An earthquake measuring 6.2 M<sub>w</sub> strikes Taiwan's east coast. There is no report of damage or injuries. ](/news/2007/01/25/an-earthquake-measuring-6-2-mw-strikes-taiwan-s-east-coast-there-is-no-report-of-damage-or-injuries.md)
-_Context: Taiwan, magnitude earthquake_
+_Context: Taiwan, magnitude_
 
 ## [Previous Day...](/news/2007/01/24/index.md)
 

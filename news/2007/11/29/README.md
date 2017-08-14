@@ -4,7 +4,7 @@
 In a setback for journalistic freedom in Mexico, the judges ruled 6 to 4 against the journalist, Lydia Cacho, despite claims that public officials conspired to harass her.
 
 ### [ A 7.4 M<sub>w</sub> earthquake rocks the Windward Islands in the Caribbean near the island of Martinique. ](/news/2007/11/29/a-7-4-mw-earthquake-rocks-the-windward-islands-in-the-caribbean-near-the-island-of-martinique.md)
-_Context: Caribbean, Martinique, Windward Islands, earthquake, magnitude earthquake_
+_Context: Caribbean, Martinique, Windward Islands, earthquake, magnitude_
 
 ### [ Gillian Gibbons is found guilty of inciting religious hatred and sentenced to 15 days in prison and deportation from Sudan, after she let pupils name a teddy bear "Muhammad". ](/news/2007/11/29/gillian-gibbons-is-found-guilty-of-inciting-religious-hatred-and-sentenced-to-15-days-in-prison-and-deportation-from-sudan-after-she-let-p.md)
 _Context: Gillian Gibbons_

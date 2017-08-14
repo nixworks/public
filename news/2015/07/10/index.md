@@ -4,7 +4,7 @@
 _Context: Mogadishu, Somalia, War in Somalia (2009-present), al-Shabaab militants_
 
 ### [Turkey arrests 21 people with alleged links to Daesh (ISIL). ](/news/2015/07/10/turkey-arrests-21-people-with-alleged-links-to-daesh-isil.md)
-_Context: Daesh, ISIL, Islamic State in Iraq and the Levant, Turkey_
+_Context: Daesh, ISIL, ISIL, Turkey_
 
 ### [ A bailout plan is submitted two hours before the midnight deadline. The plan would raise a retirement age to 67 and cut pensions by 15% for those retiring at 62. ](/news/2015/07/10/a-bailout-plan-is-submitted-two-hours-before-the-midnight-deadline-the-plan-would-raise-a-retirement-age-to-67-and-cut-pensions-by-15-for.md)
 Sobered by reports that Eurozone partners were ready to let Greece fall out of the common currency club, the Greek government Thursday delivered a new package of economic reforms to its creditors that capitulated to lenders’ demands for raising taxes and the retirement age.

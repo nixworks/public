@@ -1,7 +1,7 @@
 ## [2016-07-4](/news/2016/07/4/index.md)
 
 ### [Malaysia confirms it has suffered its first bombing by the Islamic State of Iraq and the Levant during the previous week raising fears about the spread of influence of the militant group. ](/news/2016/07/4/malaysia-confirms-it-has-suffered-its-first-bombing-by-the-islamic-state-of-iraq-and-the-levant-during-the-previous-week-raising-fears-about.md)
-_Context: ISIL, Malaysia, Terrorism in Malaysia_
+_Context: ISIS, Malaysia, Terrorism in Malaysia_
 
 ### [CPP-NPA-NDF rebellion; The Communist Party of the Philippines agrees to fight drug lords after its legal wing Bagong Alyansang Makabayan joins the government cabinet of Rodrigo Duterte. ](/news/2016/07/4/cppanpaandf-rebellion-the-communist-party-of-the-philippines-agrees-to-fight-drug-lords-after-its-legal-wing-bagong-alyansang-makabayan.md)
 _Context: Bagong Alyansang Makabayan, CPP-NPA-NDF rebellion, Communist Party of the Philippines, Philippine Drug War, Rodrigo Duterte, cabinet, illegal drug trade_

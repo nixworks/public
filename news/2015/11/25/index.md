@@ -10,7 +10,7 @@ The Russian Air Force base in Latakia will be reinforced with S-400 SAM system, 
 _Context: Balochistan conflict, Pasni_
 
 ### [The Islamic State of Iraq and the Levant claim responsibility for yesterday's attack on Tunisia's presidential guard in Tunis that killed 14 people. ](/news/2015/11/25/the-islamic-state-of-iraq-and-the-levant-claim-responsibility-for-yesterday-s-attack-on-tunisia-s-presidential-guard-in-tunis-that-killed-14.md)
-_Context: ISIL, Insurgency in the Maghreb (2002-present), Tunis, Tunisia_
+_Context: ISIS, Insurgency in the Maghreb (2002-present), Tunis, Tunisia_
 
 ### [Germany will deploy up to 650 troops to Mali as part of the U.N. peacekeeping mission in Mali (MINUSMA). ](/news/2015/11/25/germany-will-deploy-up-to-650-troops-to-mali-as-part-of-the-u-n-peacekeeping-mission-in-mali-minusma.md)
 Germany will send up to 650 soldiers to Mali, Defence Minister Ursula von der Leyen said Wednesday, to provide some relief to France in its global fight against ISIS extremists
@@ -19,7 +19,7 @@ Germany will send up to 650 soldiers to Mali, Defence Minister Ursula von der Le
 _Context: Central America, Houthi, South America, United Arab Emirates, Yemen, Yemeni Civil War (2015)_
 
 ### [The French Senate votes 325-0 to extend the fight against the Islamic State of Iraq and the Levant. ](/news/2015/11/25/the-french-senate-votes-325-0-to-extend-the-fight-against-the-islamic-state-of-iraq-and-the-levant.md)
-_Context: French Senate, ISIL, November 2015 Paris Attacks_
+_Context: French Senate, ISIS, November 2015 Paris Attacks_
 
 ### [Several American personnel are suspended after an official report finds that human error was to blame for an airstrike on a Doctors without Borders hospital in the Afghan city of Kunduz in October that killed 30 people. No criminal charges were filed. ](/news/2015/11/25/several-american-personnel-are-suspended-after-an-official-report-finds-that-human-error-was-to-blame-for-an-airstrike-on-a-doctors-without.md)
 _Context: Afghanistan's, American, Doctors without Borders, Kunduz, Kunduz hospital airstrike, War in Afghanistan (2015-present)_
@@ -49,7 +49,7 @@ Joey Masciantonio vividly remembers the moment his baby daughter Gianna met Pope
 Pope Francis called on Wednesday for ethnic and religious reconciliation at the start of his first tour of Africa, where he will address a fast-growing Catholic population and seek to heal Christian-Muslim divisions.
 
 ### [The Associated Press reports that Russia's crackdown on Muslims is fueling their exodus to ISIS.  For example, Russia's southernmost republic of Dagestan keeps devout Muslims under surveillance, routinely raids their homes, and hauls them to police stations to give DNA samples and fingerprints. Regional police say nearly a third of the estimated 3,000 Russians who are believed to have gone to fight alongside IS militants in Syria are from Dagestan. The AP added, "Few efforts are made by Russian authorities to stop young men from leaving." ](/news/2015/11/25/the-associated-press-reports-that-russia-s-crackdown-on-muslims-is-fueling-their-exodus-to-isis-for-example-russia-s-southernmost-republi.md)
-_Context: Associated Press, Dagestan, ISIL, Muslim, Russia, Syria, fingerprint, genetic testing, surveillance_
+_Context: Associated Press, Dagestan, ISIS, Muslim, Russia, Syria, fingerprint, genetic testing, surveillance_
 
 ### [The U.S. Treasury Department sanctions Syrian businessman George Haswani who  "serves as a middleman" for oil purchases by the Syrian government from the Islamic State of Iraq and the Levant. His company, an engineering and construction firm, is also sanctioned. ](/news/2015/11/25/the-u-s-treasury-department-sanctions-syrian-businessman-george-haswani-who-serves-as-a-middleman-for-oil-purchases-by-the-syrian-govern.md)
 The United States sanctioned a Syrian businessman on Wednesday who it said was a middleman for oil sales between Islamic State and the Syrian government, the latest salvo in an effort to cut off the flow of funds to the militant group.

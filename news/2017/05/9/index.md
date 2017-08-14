@@ -1,7 +1,7 @@
 ## [2017-05-9](/news/2017/05/9/index.md)
 
 ### [Despite opposition from Turkey, President Donald Trump authorizes an arms deal with the Syrian Kurds to assist the Syrian Democratic Forces in their fight against Islamic State of Iraq and the Levant (ISIL). ](/news/2017/05/9/despite-opposition-from-turkey-president-donald-trump-authorizes-an-arms-deal-with-the-syrian-kurds-to-assist-the-syrian-democratic-forces.md)
-_Context: Donald Trump, ISIL, Syria-United States relations, Syrian Democratic Forces, Syrian Kurds, Turkey, Turkey-United States relations_
+_Context: Donald Trump, ISIS, Syria-United States relations, Syrian Democratic Forces, Syrian Kurds, Turkey, Turkey-United States relations_
 
 ### [Former Jakarta Governor Basuki Tjahaja Purnama, popularly known as "Ahok", is found guilty of blasphemy and sentenced to two years in prison. The accusation that he insulted the Quran sparked large protests last November. ](/news/2017/05/9/former-jakarta-governor-basuki-tjahaja-purnama-popularly-known-as-ahok-is-found-guilty-of-blasphemy-and-sentenced-to-two-years-in-prison.md)
 Shock sentence comes after hardline Islamist groups called for Christian official to be jailed for referencing Qur’an verse

@@ -25,7 +25,7 @@ General Electric Co notched a better-than-expected 21.6 percent rise in earnings
 _Context: China, Xinyang_
 
 ### [Nepalese officials say monsoon rains have swollen two major rivers in the country and have increased the threat of widespread flooding. ](/news/2011/07/22/nepalese-officials-say-monsoon-rains-have-swollen-two-major-rivers-in-the-country-and-have-increased-the-threat-of-widespread-flooding.md)
-_Context: Nepal, monsoon_
+_Context: Monsoon, Nepal_
 
 ### [The al-Shabaab Islamist militant group in Somalia says a ban on aid groups working in parts of the country remains. ](/news/2011/07/22/the-al-shabaab-islamist-militant-group-in-somalia-says-a-ban-on-aid-groups-working-in-parts-of-the-country-remains.md)
 Rejecting UN famine claims, opposition group says it will not allow certain support groups into drought-hit Somalia.

@@ -1,10 +1,10 @@
 ## [2016-01-8](/news/2016/01/8/index.md)
 
 ### [Two suspected ISIS militants are killed and three tourists injured in an unsuccessful attack on a hotel in the city of Hurghada. ](/news/2016/01/8/two-suspected-isis-militants-are-killed-and-three-tourists-injured-in-an-unsuccessful-attack-on-a-hotel-in-the-city-of-hurghada.md)
-_Context: 2016 Hurghada attack, Hurghada, ISIL_
+_Context: 2016 Hurghada attack, Hurghada, ISIS_
 
 ### [A gunman stating to have sworn allegiance to the Islamic State of Iraq and the Levant (ISIS) shoots and seriously wounds a Philadelphia police officer before being arrested. ](/news/2016/01/8/a-gunman-stating-to-have-sworn-allegiance-to-the-islamic-state-of-iraq-and-the-levant-isis-shoots-and-seriously-wounds-a-philadelphia-poli.md)
-_Context: 2016 shooting of Philadelphia police officer, ISIL, Philadelphia_
+_Context: 2016 shooting of Philadelphia police officer, ISIS, Philadelphia_
 
 ### [Three people are unaccounted for and at least 135 structures are destroyed, including the historic Yarloop Workshops, following a bushfire in the small Western Australian town of Yarloop. Reports coming out of the area suggest the town of Yarloop has been almost completely destroyed with one local official, Murray Cowper, saying, "A big fireball came through and there was no way they were going to stop it. This could well be the end of the town". ](/news/2016/01/8/three-people-are-unaccounted-for-and-at-least-135-structures-are-destroyed-including-the-historic-yarloop-workshops-following-a-bushfire-i.md)
 At least 95 homes have been razed by a bushfire burning south of Perth, while three people are feared missing.

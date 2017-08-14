@@ -1,5 +1,8 @@
 ## [2017-08-13](/news/2017/08/13/index.md)
 
+### [During combat operations in northern Iraq, two U.S. service members are killed and five injured. ](/news/2017/08/13/during-combat-operations-in-northern-iraq-two-u-s-service-members-are-killed-and-five-injured.md)
+Two U.S. service members were killed and five injured during combat operations in northern Iraq on Sunday, the military said, adding that initial reports indicated the incident was not due to enemy contact.
+
 ### [A Syrian Army commando unit backed by Russian warplanes and helicopters kills 25 ISIL militants in Central Syria, in the northeast of the Homs Governorate. ](/news/2017/08/13/a-syrian-army-commando-unit-backed-by-russian-warplanes-and-helicopters-kills-25-isil-militants-in-central-syria-in-the-northeast-of-the-ho.md)
 A commando operation backed by Russian warplanes and helicopters has killed 25 members of the Islamic State jihadist group in central Syria, a monitor said Sunday. Supported by regime ally Russia, Syria&#x27;s army has waged a months-long offensive to recapture the vast desert region that stretches from
 

@@ -11,7 +11,7 @@ A bomb has exploded outside a branch of a French supermarket chain in Alexandria
 
 ### Related:
 
-1. [Two trains collide in Alexandria, Egypt, killing at least 49 people and injuring at least 100. ](/news/2017/08/11/two-trains-collide-in-alexandria-egypt-killing-at-least-49-people-and-injuring-at-least-100.md) _Context: Alexandria, Egypt_
+1. [Two trains collide in Alexandria, Egypt, killing at least 41 people and injuring at least 179. ](/news/2017/08/11/two-trains-collide-in-alexandria-egypt-killing-at-least-41-people-and-injuring-at-least-179.md) _Context: Alexandria, Egypt_
 2. [At least 45 people have been killed and 50 injured in explosions near two Coptic Christian churches packed with worshippers on Palm Sunday in the Egyptian cities of Tanta and Alexandria. ](/news/2017/04/9/at-least-45-people-have-been-killed-and-50-injured-in-explosions-near-two-coptic-christian-churches-packed-with-worshippers-on-palm-sunday-i.md) _Context: Alexandria, Egypt_
 3. [An apartment block collapses in the Egyptian city of Alexandria, killing at least 25 people. ](/news/2013/01/16/an-apartment-block-collapses-in-the-egyptian-city-of-alexandria-killing-at-least-25-people.md) _Context: Alexandria, Egypt_
 4. [2012 Egyptian protests:Clashes break out in Alexandria, Egypt, on the evening of the second leg of voting in the constitutional referendum. ](/news/2012/12/21/2012-egyptian-protests-pclashes-break-out-in-alexandria-egypt-on-the-evening-of-the-second-leg-of-voting-in-the-constitutional-referendum.md) _Context: Alexandria, Egypt_

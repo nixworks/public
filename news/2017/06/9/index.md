@@ -4,7 +4,7 @@
 Iranians mourn 17 killed in two attacks on the capital this week
 
 ### [Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan, were killed by members of the Islamic State of Iraq and the Levant. ](/news/2017/06/9/chinese-authorities-report-grave-concern-over-reports-that-two-kidnapped-chinese-teachers-in-quetta-pakistan-were-killed-by-members-of-t.md)
-_Context: China, ISIL, Pakistan, Quetta, War in North-West Pakistan_
+_Context: China, ISIS, Pakistan, Quetta, War in North-West Pakistan_
 
 ### [Human rights activists accuse forces led by Saudi Arabia and the UAE of kidnapping and torturing people during the Yemeni conflict. ](/news/2017/06/9/human-rights-activists-accuse-forces-led-by-saudi-arabia-and-the-uae-of-kidnapping-and-torturing-people-during-the-yemeni-conflict.md)
 Fighters backed by UAE accused of kidnapping and torturing hundreds of men, according to independent investigation.

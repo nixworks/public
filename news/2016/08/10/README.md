@@ -4,7 +4,7 @@
 Vladimir Putin accused Ukraine on Wednesday of using terrorist tactics to try to provoke a new conflict and destabilize annexed Crimea after Russia said it had thwarted two armed Ukrainian attempts to get saboteurs into the contested peninsula.
 
 ### [Royal Canadian Mounted Police kill 24-year-old Aaron Driver in Strathroy, Ontario. Driver was accused of supporting the Islamic State of Iraq and the Levant, and was believed to have been plotting an "imminent" attack against Canadians. ](/news/2016/08/10/royal-canadian-mounted-police-kill-24-year-old-aaron-driver-in-strathroy-ontario-driver-was-accused-of-supporting-the-islamic-state-of-ira.md)
-_Context: ISIL, Royal Canadian Mounted Police, Strathroy, Ontario_
+_Context: ISIS, Royal Canadian Mounted Police, Strathroy, Ontario_
 
 ### [400-year old petroglyphs are discovered off the Waianae coast of Hawaii. ](/news/2016/08/10/400-year-old-petroglyphs-are-discovered-off-the-waianae-coast-of-hawaii.md)
 _Context: Waianae, petroglyphs_

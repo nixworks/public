@@ -4,7 +4,7 @@
 At least 10 people are killed and more than 65 wounded in the northern Afghan city of Mazar-e-Sharif after gunmen storm a court complex.
 
 ### [Sohaib al Rawi, Governor of Al Anbar Governorate in Iraq, claims that ISIL has killed 52 people, mostly police officers on the border with Syria in the past week. ](/news/2015/04/9/sohaib-al-rawi-governor-of-al-anbar-governorate-in-iraq-claims-that-isil-has-killed-52-people-mostly-police-officers-on-the-border-with-s.md)
-_Context: Anbar province, ISIL, Iraq, Iraqi police, Syria_
+_Context: Anbar province, ISIS, Iraq, Iraqi police, Syria_
 
 ### [The regional branch of the Communist Party of China in Tibet demands that Buddhist monasteries display the Chinese flag in an effort to shore up Chinese rule. ](/news/2015/04/9/the-regional-branch-of-the-communist-party-of-china-in-tibet-demands-that-buddhist-monasteries-display-the-chinese-flag-in-an-effort-to-shor.md)
 _Context: Buddhists, Chinese flags, Communist Party of China, Tibet_

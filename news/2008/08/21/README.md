@@ -16,7 +16,7 @@ _Context: 2008 Wah bombing, Pakistan, Wah Cantonment, cantonment, suicide bombin
 _Context: Central High School, Knoxville, Tennessee_
 
 ### [ At least 74 people die in northern India as a result of heavy monsoon rains. ](/news/2008/08/21/at-least-74-people-die-in-northern-india-as-a-result-of-heavy-monsoon-rains.md)
-_Context: India, monsoon_
+_Context: India, Monsoon_
 
 ## [Previous Day...](/news/2008/08/20/index.md)
 

@@ -16,7 +16,7 @@ _Context: Japan, NEC Corporation, Renesas Technology, pre-merger_
 _Context: Somali pirates, Somalia, Yemen, Yemeni, oil tanker_
 
 ### [ A 5.6-magnitude earthquake strikes near Chilpancingo, Guerrero, Mexico. ](/news/2009/04/27/a-5-6-magnitude-earthquake-strikes-near-chilpancingo-guerrero-mexico.md)
-_Context: Chilpancingo, Guerrero, Mexico, earthquake, magnitude earthquake_
+_Context: Chilpancingo, Guerrero, Mexico, earthquake, magnitude_
 
 ### [ The People's Armed Forces invade Madagascar's constitutional court. ](/news/2009/04/27/the-people-s-armed-forces-invade-madagascar-s-constitutional-court.md)
 _Context: Madagascan Army, Madagascar, constitutional court, political crisis_

@@ -4,7 +4,7 @@
 _Context: Pakistani forces, War in North-West Pakistan_
 
 ### [A suicide bomber kills eight people in the centre of Baiji in northern Iraq. ](/news/2014/11/11/a-suicide-bomber-kills-eight-people-in-the-centre-of-baiji-in-northern-iraq.md)
-_Context: Baiji, ISIL, Iraq_
+_Context: Baiji, ISIS, Iraq_
 
 ### [Renowned Zen Buddhist master Thich Nhat Hanh suffers a massive brain hemorrhage and is rushed to a hospital in western France. ](/news/2014/11/11/renowned-zen-buddhist-master-thich-nhat-hanh-suffers-a-massive-brain-hemorrhage-and-is-rushed-to-a-hospital-in-western-france.md)
 Prominent Buddhist leader Zen Master Thich Nhat Hanh has suffered a severe brain hemorrhage, a monastery he founded says, and is recovering in France.

@@ -1,7 +1,7 @@
 ## [2015-05-27](/news/2015/05/27/index.md)
 
 ### [Islamic State militants have carried out multiple suicide bombings targeting the Iraqi Army in Anbar Province killing at least 17 people. ](/news/2015/05/27/islamic-state-militants-have-carried-out-multiple-suicide-bombings-targeting-the-iraqi-army-in-anbar-province-killing-at-least-17-people.md)
-_Context: Anbar province, Iraqi Army, Islamic State in Iraq and the Levant, suicide bombing_
+_Context: Anbar province, ISIL, Iraqi Army, suicide bombing_
 
 ### [At least 12 people, associated with the Kangleyuan Rest Home in the Chinese city of Pingdingshan in Henan province which was destroyed by fire with the loss of 38 lives, are detained for questioning. ](/news/2015/05/27/at-least-12-people-associated-with-the-kangleyuan-rest-home-in-the-chinese-city-of-pingdingshan-in-henan-province-which-was-destroyed-by-fi.md)
 _Context: Chinese, Henan, Pingdingshan_

@@ -1,7 +1,7 @@
 ## [2014-09-4](/news/2014/09/4/index.md)
 
 ### [Monsoon rains in Pakistan kill more than 40 people. ](/news/2014/09/4/monsoon-rains-in-pakistan-kill-more-than-40-people.md)
-_Context: Pakistan, monsoon_
+_Context: Monsoon, Pakistan_
 
 ### [In the Indian state of Jammu and Kashmir, over 60 people are feared dead from floods. ](/news/2014/09/4/in-the-indian-state-of-jammu-and-kashmir-over-60-people-are-feared-dead-from-floods.md)
 Army personnel rescued flood-affected villagers of Mirbaazar in Kulgam district after heavy rains deluged the village. 

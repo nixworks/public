@@ -16,7 +16,7 @@ _Context: Omar Bongo Ondimba, presidential elections_
 _Context: Elections in Honduras, Honduran general election, 2005, Manuel Zelaya_
 
 ### [ An earthquake hits southern Iran, measuring 5.9 on the moment magnitude scale. ](/news/2005/11/27/an-earthquake-hits-southern-iran-measuring-5-9-on-the-moment-magnitude-scale.md)
-_Context: earthquake hits southern Iran, magnitude earthquake_
+_Context: earthquake hits southern Iran, magnitude_
 
 ### [ Leader of the Democratic Action Party Lim Kit Siang calls for the resignation of the Malaysian Deputy Inspector-General of the Police for his actions in the Malaysian prisoner abuse scandal. ](/news/2005/11/27/leader-of-the-democratic-action-party-lim-kit-siang-calls-for-the-resignation-of-the-malaysian-deputy-inspector-general-of-the-police-for-h.md)
 _Context: Democratic Action Party, Lim Kit Siang, Malaysia, Malaysian prisoner abuse scandal_
