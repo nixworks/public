@@ -1,0 +1,20 @@
+### [2017-08-12](/news/2017/08/12/index.md)
+
+# Fights break out between alt-right protestors and left-wing counterprotesters in Charlottesville, Virginia, over the removal of the Robert Edward Lee Sculpture. One person is killed and several people are injured after a man drove his car into a crowd of counterprotesters. 
+
+A car rams into a crowd after clashes between white nationalists and counter-protesters in Virginia.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-us-canada-40912509)
+2. [CNN](http://edition.cnn.com/2017/08/12/us/charlottesville-white-nationalists-rally/index.html)
+3. [NBC News](http://www.nbcnews.com/news/us-news/2-virginia-officers-killed-helicopter-crash-near-charlottesville-are-mourned-n792146)
+4. [The Independent](http://www.independent.co.uk/news/world/americas/violence-clashes-far-right-rally-charlottesville-virginia-latest-unite-the-right-a7890096.html)
+
+### Related:
+
+1. [A white supremacist rally called "Unite the Right" takes place in Charlottesville, Virginia. ](/news/2017/08/11/a-white-supremacist-rally-called-unite-the-right-takes-place-in-charlottesville-virginia.md) _Context: 2017 Unite the Right rally, Charlottesville, Virginia_
+2. [An attacker carries out a vehicle-ramming attack outside the Houses of Parliament in London, before stabbing a police officer and subsequently being shot by security forces. Including the attacker, there are at least four people dead. ](/news/2017/03/22/an-attacker-carries-out-a-vehicle-ramming-attack-outside-the-houses-of-parliament-in-london-before-stabbing-a-police-officer-and-subsequent.md) _Context: drove his car into_
+3. [In Charlottesville, Virginia, U.S., the prosecution and defense both make their opening statements in the trial of former University of Virginia men's lacrosse player George Huguely on murder charges in the 2010 death of former UVA women's lacrosse player Yeardley Love. ](/news/2012/02/8/in-charlottesville-virginia-u-s-the-prosecution-and-defense-both-make-their-opening-statements-in-the-trial-of-former-university-of-virg.md) _Context: Charlottesville, Virginia_
+4. [In Charlottesville, Virginia, U.S., former University of Virginia men's lacrosse player George Huguely is found guilty of second-degree murder in the 2010 death of former UVA women's lacrosse player Yeardley Love. The jury recommends a 26-year prison sentence, with formal sentencing scheduled for April. ](/news/2012/02/22/in-charlottesville-virginia-u-s-former-university-of-virginia-men-s-lacrosse-player-george-huguely-is-found-guilty-of-second-degree-murd.md) _Context: Charlottesville, Virginia_

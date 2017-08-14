@@ -1,6 +1,6 @@
 ## [2017-08-11](/news/2017/08/11/index.md)
 
-### [ISIS forces raid an Iranian Revolutionary Guards Corps base in vast desert spaces of eastern Homs Governorate, Syria, manned by between 12 to 18 fighters, all but one of which are killed. ](/news/2017/08/11/isis-forces-raid-an-iranian-revolutionary-guards-corps-base-in-vast-desert-spaces-of-eastern-homs-governorate-syria-manned-by-between-12-t.md)
+### [ISIL forces raid an Iranian Islamic Revolutionary Guard Corps base in vast desert spaces of eastern Homs Governorate, Syria, manned by between 12 to 18 fighters, all but one of which are killed. ](/news/2017/08/11/isil-forces-raid-an-iranian-islamic-revolutionary-guard-corps-base-in-vast-desert-spaces-of-eastern-homs-governorate-syria-manned-by-betwe.md)
 BEIRUT, LEBANON (1:40 P.M.) - The ISIS terrorist group has released a 7-minute video showing their forces raiding an Iranian Revolutionary Guards Corps (IR
 
 ### [The world's oldest man, Polish-Israeli Yisrael Kristal, who was also recognized as the oldest living Holocaust survivor, dies at age 113 years, 330 days, in Haifa, Israel. ](/news/2017/08/11/the-world-s-oldest-man-polishaisraeli-yisrael-kristal-who-was-also-recognized-as-the-oldest-living-holocaust-survivor-dies-at-age-113-y.md)
@@ -21,8 +21,8 @@ Officials admitted that the hospital owed its oxygen supplier more than $50,000,
 ### [Cambodia-Laos relationsAccording to Cambodian Prime Minister Hun Sen, 30 Laotian soldiers cross the border into Steung Treng Province despite repeated requests for them to leave. Hun Sen gives Laos a six-day ultimatum to withdraw the soldiers or face a military response. ](/news/2017/08/11/cambodiaalaos-relationspaccording-to-cambodian-prime-minister-hun-sen-30-laotian-soldiers-cross-the-border-into-steung-treng-province-des.md)
 Hun Sen accuses Laotian troops of trespassing into border area and threatens military response if they fail to withdraw.
 
-### [Peru-Venezuela relationsShortly after Peruvian President Pedro Pablo Kuczynski called Venezuelan President Nicolas Maduro a "dictator", Peru expels Venezuela's ambassador to Peru to protest Venezuela's recent formation of an all-powerful constituent assembly that has been widely condemned as a power grab by Maduro. ](/news/2017/08/11/peruavenezuela-relationspshortly-after-peruvian-president-pedro-pablo-kuczynski-called-venezuelan-president-nicola-s-maduro-a-dictator.md)
-_Context: Nicolas Maduro, Pedro Pablo Kuczynski, Peru, Venezuela, constituent assembly, dictator_
+### [Peru-Venezuela relationsShortly after Peruvian President Pedro Pablo Kuczynski called Venezuelan President Nicolas Maduro a "dictator" in response to the Venezuelan constitutional crisis, Peru expels Venezuela's ambassador to Peru to protest Venezuela's recent formation of an all-powerful constituent assembly that has been widely condemned as a power grab by Maduro. ](/news/2017/08/11/peruavenezuela-relationspshortly-after-peruvian-president-pedro-pablo-kuczynski-called-venezuelan-president-nicola-s-maduro-a-dictator-i.md)
+_Context: Nicolas Maduro, Pedro Pablo Kuczynski, Peru, Venezuela, Venezuelan constitutional crisis, constituent assembly_
 
 ### [The Kenyan electoral commission announces that President Uhuru Kenyatta has re-election. Kenyatta leads ODM candidate Raila Odinga by more than 1.4 million votes. The opposition National Super Alliance rejects this finding as fraudulent. ](/news/2017/08/11/the-kenyan-electoral-commission-announces-that-president-uhuru-kenyatta-has-re-election-kenyatta-leads-odm-candidate-raila-odinga-by-more-t.md)
 _Context: Kenya, Kenyan general election, 2017, National Super Alliance, ODM, President, Raila Odinga, Uhuru Kenyatta, electoral commission, re-election_
@@ -30,7 +30,7 @@ _Context: Kenya, Kenyan general election, 2017, National Super Alliance, ODM, Pr
 ### [Because of a recent pair of deadly crashes, the U.S. Marine Corps will ground its flight operations for 24 hours for an operational reset. The suspensions will be spread out over the next two weeks. ](/news/2017/08/11/because-of-a-recent-pair-of-deadly-crashes-the-u-s-marine-corps-will-ground-its-flight-operations-for-24-hours-for-an-operational-reset-t.md)
 The U.S. Marine Corps on Friday ordered its aircraft squadrons to suspend flight operations for 24 hours sometime during the next two weeks to review procedures after two of its planes crashed, killing dozens.
 
-### [A white supremacist rally called "Unite The Right" takes place in Charlottesville, Virginia. ](/news/2017/08/11/a-white-supremacist-rally-called-unite-the-right-takes-place-in-charlottesville-virginia.md)
+### [A white supremacist rally called "Unite the Right" takes place in Charlottesville, Virginia. ](/news/2017/08/11/a-white-supremacist-rally-called-unite-the-right-takes-place-in-charlottesville-virginia.md)
 _Context: 2017 Unite the Right rally, Charlottesville, Virginia_
 
 ## [Previous Day...](/news/2017/08/10/index.md)
