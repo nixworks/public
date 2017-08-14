@@ -7,7 +7,9 @@ SINGAPORE: An earthquake of magnitude 6.5 struck west of Indonesia&#039;s island
 
 ### Source:
 
-1. [Reuters via Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/magnitude-6-5-quake-strikes-off-indonesia-s-sumatra-island-9119160)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/strong-earthquake-strikes-off-indonesian-island-of-sumatra/2017/08/12/f55acf02-7fd9-11e7-b2b1-aeba62854dfa_story.html?utm_term=.0fab3ab36f7e)
+2. [Reuters via Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/magnitude-6-5-quake-strikes-off-indonesia-s-sumatra-island-9119160)
+3. [US Geological Survey](https://earthquake.usgs.gov/earthquakes/eventpage/us2000a7q2#executive)
 
 ### Related:
 
