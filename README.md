@@ -1,6 +1,5 @@
 ## [News](/news/2017/08/15/index.md)
 
-### [;Politics and elections](/news/2017/08/15/politics-and-elections.md)
 ### [Intel CEO Brian Krzanich, Under Armour CEO Kevin Plank, and Merck CEO Kenneth Frazier resign from President Trump's American Manufacturing Council due to Trump's response to incidents instigated by white supremacists in Charlottesville, Virginia. ](/news/2017/08/15/intel-ceo-brian-krzanich-under-armour-ceo-kevin-plank-and-merck-ceo-kenneth-frazier-resign-from-president-trump-s-american-manufacturing-c.md)
 The executive has tendered his resignation from the American Manufacturing Council, the company announced in a blog post late on Monday. 
 
@@ -38,9 +37,6 @@ New Zealand&#039;s Prime Minister confirms that unwittingly or not, Barnaby Joyc
 
 ### [The Garden Bridge project is officially abandoned after Mayor of London Sadiq Khan withdraws support. ](/news/2017/08/14/the-garden-bridge-project-is-officially-abandoned-after-mayor-of-london-sadiq-khan-withdraws-support.md)
 _Context: Garden Bridge, Mayor of London, Sadiq Khan_
-
-### [Merck chief executive officer Kenneth Frazier resigns from President Trump's American Manufacturing Council, citing his opposition to Trump's lack of a strong response denouncing the incidents instigated by white supremacists in Charlottesville, Virginia. ](/news/2017/08/14/merck-chief-executive-officer-kenneth-frazier-resigns-from-president-trump-s-american-manufacturing-council-citing-his-opposition-to-trump.md)
-_Context: Charlottesville, Virginia, Kenneth Frazier, Merck, President Trump, incidents instigated by white supremacists_
 
 ---
 
