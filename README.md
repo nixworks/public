@@ -23,7 +23,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [London's Big Ben, atop Elizabeth Tower, will fall silent for four years beginning 21 August while essential repair works are performed. ](/news/2017/08/14/london-s-big-ben-atop-elizabeth-tower-will-fall-silent-for-four-years-beginning-21-august-while-essential-repair-works-are-performed.md)
 The famous chimes will sound for the final time on Monday before maintenance work takes place.
 
-### [African-American stuntwoman Joi 'SJ' Harris is killed in a motorcycle crash in Vancouver, British Columbia, Canada while filming for ''Deadpool 2. ](/news/2017/08/14/african-american-stuntwoman-joi-sj-harris-is-killed-in-a-motorcycle-crash-in-vancouver-british-columbia-canada-while-filming-for-deadp.md)
+### [American stuntwoman Joi 'SJ' Harris is killed in a motorcycle crash in Vancouver, British Columbia, Canada while filming for ''Deadpool 2. ](/news/2017/08/14/american-stuntwoman-joi-sj-harris-is-killed-in-a-motorcycle-crash-in-vancouver-british-columbia-canada-while-filming-for-deadpool-2.md)
 The late SJ Harris was noted for being the first African-American female professional road racer.
 
 ### [A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 350 people with the death toll expected to rise as high as 500. ](/news/2017/08/14/a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-350-people-with-the-death-toll-expected-to-rise-as-h.md)
