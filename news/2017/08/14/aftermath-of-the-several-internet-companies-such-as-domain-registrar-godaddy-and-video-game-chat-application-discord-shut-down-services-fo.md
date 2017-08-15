@@ -1,6 +1,6 @@
 ### [2017-08-14](/news/2017/08/14/index.md)
 
-# Aftermath of the Several internet companies, such as domain registrar GoDaddy and video game chat application Discord, shut down services for neo-Nazi, white supremacist, alt-right website The Daily Stormer for violation of terms of service, and in response to this weekend's violence in Charlottesville, Virginia. 
+# Aftermath of the Several internet companies, such as domain registrar GoDaddy and video game chat application Discord, shut down services for neo-Nazi, white supremacist, alt-right website ''The Daily Stormer'' for violation of terms of service, and in response to this weekend's violence in Charlottesville, Virginia. 
 
 The internet has long been a gathering place for white supremacists. But in the wake of the Virginia attack, some are reconsidering their willingness to host hate
 
