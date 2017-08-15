@@ -8,7 +8,7 @@ The famous chimes will sound for the final time on Monday before maintenance wor
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-40922169)
-2. [The Washington Post](https://www.washingtonpost.com/world/europe/just-a-few-more-bongs-for-big-ben-before-london-bell-is-silenced-for-four-years/2017/08/14/b61c59f2-80ef-11e7-902a-2a9f2d808496_story.html?utm_term=.68a14fe3ce8e)
+2. [The Washington Post](https://www.washingtonpost.com/world/europe/just-a-few-more-bongs-for-big-ben-before-london-bell-is-silenced-for-four-years/2017/08/14/b61c59f2-80ef-11e7-902a-2a9f2d808496_story.html)
 
 ### Related:
 

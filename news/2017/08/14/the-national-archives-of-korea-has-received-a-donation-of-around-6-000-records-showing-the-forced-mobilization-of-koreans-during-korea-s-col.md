@@ -1,0 +1,22 @@
+### [2017-08-14](/news/2017/08/14/index.md)
+
+# The National Archives of Korea has received a donation of around 6,000 records showing the forced mobilization of Koreans during Korea's colonial occupation by the Empire of Japan, some of them involving Hashima Island. The government agency plans to publish the records online after classification. 
+
+The National Archives announced it will release some six-thousand written and photographic records showing the forced mobilization of Koreans during J
+
+
+### Source:
+
+1. [KBS World Radio](http://world.kbs.co.kr/english/news/news_Po_detail.htm?No=129377)
+
+### Related:
+
+1. [The aviator Amelia Earhart and her navigator Fred Noonan may have survived in the Marshall Islands and were held captive by the Japanese according to an allegedly undoctored photo in the  National Archives. Experts remain divided on the claim, however. ](/news/2017/07/5/the-aviator-amelia-earhart-and-her-navigator-fred-noonan-may-have-survived-in-the-marshall-islands-and-were-held-captive-by-the-japanese-acc.md) _Context: Empire of Japan_
+2. [Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. ](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-hawaii-offering-sincere-and-ever.md) _Context: Empire of Japan_
+3. [North Korea will change its time zone to UTC+08:30 on August 15, returning to the time used by the Korean Empire until Japanese occupation in 1910. ](/news/2015/08/7/north-korea-will-change-its-time-zone-to-utc-08-30-on-august-15-returning-to-the-time-used-by-the-korean-empire-until-japanese-occupation-i.md) _Context: Korea's colonial occupation_
+4. [ The Republic of China (Taiwan) holds a large military parade in Taipei to commemorate World War II in support of its claims that Kuomintang forces led by Chiang Kai-Shek played a leading role in the defeat of the Empire of Japan with the Chinese Communist Party under Mao Tse-Tung playing a minor role. ](/news/2015/07/4/the-republic-of-china-taiwan-holds-a-large-military-parade-in-taipei-to-commemorate-world-war-ii-in-support-of-its-claims-that-kuomintang.md) _Context: Empire of Japan_
+5. [North Korea announces a criminal amnesty in honor of the 70th anniversary of independence from Japanese rule. ](/news/2015/07/14/north-korea-announces-a-criminal-amnesty-in-honor-of-the-70th-anniversary-of-independence-from-japanese-rule.md) _Context: Korea's colonial occupation_
+6. [Nine months after a goodwill gesture Japan and South Korea will commence negotiations in August on the return of more than 1,200 volumes of ancient Korean royal archives taken during Japanese rule between 1910 and 1945. ](/news/2011/07/18/nine-months-after-a-goodwill-gesture-japan-and-south-korea-will-commence-negotiations-in-august-on-the-return-of-more-than-1-200-volumes-of.md) _Context: Korea's colonial occupation_
+7. [The Prime Minister of Japan Naoto Kan apologises to South Korea for colonising the Korean peninsula for three decades in the early 1900s and promises to return cultural relics in the near future. ](/news/2010/08/10/the-prime-minister-of-japan-naoto-kan-apologises-to-south-korea-for-colonising-the-korean-peninsula-for-three-decades-in-the-early-1900s-and.md) _Context: Korea's colonial occupation_
+8. [ The government of South Korea complains to the Japanese government about a revised set of official Japanese history schoolbooks. The complaint alleges the textbooks whitewash Japan's "imperialist" past, and question Korean sovereignty of the disputed Liancourt Rocks. ](/news/2005/04/5/the-government-of-south-korea-complains-to-the-japanese-government-about-a-revised-set-of-official-japanese-history-schoolbooks-the-compla.md) _Context: Korea's colonial occupation_
+9. [ 2005 anti-Japanese demonstrations: 20,000 protesters marching in two cities in southern Guangdong province objecting to a recently amended Japanese schoolbook which allegedly glosses over Japan's imperialist past. ([http://www.cnn.com/2005/WORLD/asiapcf/04/10/china.japan.protest/index.html CNN])](/news/2005/04/11/2005-anti-japanese-demonstrations-20-000-protesters-marching-in-two-cities-in-southern-guangdong-province-objecting-to-a-recently-amended.md) _Context: Empire of Japan_
