@@ -1,5 +1,14 @@
 ## [News](/news/2017/08/14/index.md)
 
+### [A 13-year-old girl is killed when a car is deliberately driven into a  pizza restaurant's sidewalk cafe in Sept-Sorts, France. At least 12 other people are injured, four critically. The driver is arrested. Police do not believe the incident was political terrorism-related. ](/news/2017/08/14/a-13-year-old-girl-is-killed-when-a-car-is-deliberately-driven-into-a-pizza-restaurant-s-sidewalk-cafe-in-sept-sorts-france-at-least-12-o.md)
+8-year-old girl killed and at least eight injured when vehicle slams into sidewalk cafe east of Paris on Monday
+
+### [London's Big Ben, atop Elizabeth Tower, will fall silent for four years beginning 21 August while essential repair works are performed. ](/news/2017/08/14/london-s-big-ben-atop-elizabeth-tower-will-fall-silent-for-four-years-beginning-21-august-while-essential-repair-works-are-performed.md)
+The famous chimes will sound for the final time on Monday before maintenance work takes place.
+
+### [Internet companies, such as domain registrar GoDaddy and video game chat application Discord, shut down services for neo-Nazi, white supremacist, alt-right website The Daily Stormer for violation of terms of service, and  in response to this weekend's violence in Charlottesville, Va. ](/news/2017/08/14/internet-companies-such-as-domain-registrar-godaddy-and-video-game-chat-application-discord-shut-down-services-for-neo-nazi-white-suprema.md)
+The internet has long been a gathering place for white supremacists. But in the wake of the Virginia attack, some are reconsidering their willingness to host hate
+
 ### [A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 179 people with the death toll expected to rise. ](/news/2017/08/14/a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-179-people-with-the-death-toll-expected-to-rise.md)
 There are fears for many who may have been asleep when the mudslide hit near Freetown, Sierra Leone.
 
