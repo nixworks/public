@@ -1,5 +1,8 @@
 ## [News](/news/2017/08/15/index.md)
 
+### [A tree falls over at a religious ceremony in Funchal, Madeira, killing at least 12 people and injures over 50 others. ](/news/2017/08/15/a-tree-falls-over-at-a-religious-ceremony-in-funchal-madeira-killing-at-least-12-people-and-injures-over-50-others.md)
+Fifty-two others are injured when the tree falls at a religious festival on the Portuguese island.
+
 ### [ Aftermath of the Intel CEO Brian Krzanich, Under Armour CEO Kevin Plank, and Merck CEO Kenneth Frazier resign from President Trump's American Manufacturing Council due to their disagreements with Trump's August 12 speech denouncing the incidents at the Charlottesville, Virginia, rally, for which Trump was criticized for not specifically referencing the violent clashes caused by and the views of white supremacists in the initial statement. ](/news/2017/08/15/aftermath-of-the-intel-ceo-brian-krzanich-under-armour-ceo-kevin-plank-and-merck-ceo-kenneth-frazier-resign-from-president-trump-s-americ.md)
 The executive has tendered his resignation from the American Manufacturing Council, the company announced in a blog post late on Monday. 
 
@@ -17,7 +20,9 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [London's Big Ben, atop Elizabeth Tower, will fall silent for four years beginning 21 August while essential repair works are performed. ](/news/2017/08/14/london-s-big-ben-atop-elizabeth-tower-will-fall-silent-for-four-years-beginning-21-august-while-essential-repair-works-are-performed.md)
 The famous chimes will sound for the final time on Monday before maintenance work takes place.
 
-### [African-American stuntwoman Joi 'SJ' Harris is killed in a motorcycle crash in Vancouver, British Columbia, Canada while filming dor Deadpool 2.](/news/2017/08/14/african-american-stuntwoman-joi-sj-harris-is-killed-in-a-motorcycle-crash-in-vancouver-british-columbia-canada-while-filming-dor-deadpoo.md)
+### [African-American stuntwoman Joi 'SJ' Harris is killed in a motorcycle crash in Vancouver, British Columbia, Canada while filming for ''Deadpool 2. ](/news/2017/08/14/african-american-stuntwoman-joi-sj-harris-is-killed-in-a-motorcycle-crash-in-vancouver-british-columbia-canada-while-filming-for-deadp.md)
+The late SJ Harris was noted for being the first African-American female professional road racer.
+
 ### [A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 350 people with the death toll expected to rise as high as 500. ](/news/2017/08/14/a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-350-people-with-the-death-toll-expected-to-rise-as-h.md)
 There are fears for many who may have been asleep when the mudslide hit near Freetown, Sierra Leone.
 
