@@ -1,4 +1,16 @@
-## [News](/news/2017/08/14/index.md)
+## [News](/news/2017/08/15/index.md)
+
+### [;Politics and elections](/news/2017/08/15/politics-and-elections.md)
+### [Intel CEO Brian Krzanich, Under Armour CEO Kevin Plank, and Merck CEO Kenneth Frazier resign from President Trump's American Manufacturing Council due to Trump's response to incidents instigated by white supremacists in Charlottesville, Virginia. ](/news/2017/08/15/intel-ceo-brian-krzanich-under-armour-ceo-kevin-plank-and-merck-ceo-kenneth-frazier-resign-from-president-trump-s-american-manufacturing-c.md)
+The executive has tendered his resignation from the American Manufacturing Council, the company announced in a blog post late on Monday. 
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/08/14/index.md)
 
 ### [A 13-year-old girl is killed when a car is deliberately driven into a  pizza restaurant's sidewalk cafe in Sept-Sorts, France. At least 12 other people are injured, four critically. The driver is arrested. Police do not believe the incident was terrorism-related. ](/news/2017/08/14/a-13-year-old-girl-is-killed-when-a-car-is-deliberately-driven-into-a-pizza-restaurant-s-sidewalk-cafe-in-sept-sorts-france-at-least-12-o.md)
 8-year-old girl killed and at least eight injured when vehicle slams into sidewalk cafe east of Paris on Monday
@@ -30,13 +42,9 @@ _Context: Garden Bridge, Mayor of London, Sadiq Khan_
 ### [Merck chief executive officer Kenneth Frazier resigns from President Trump's American Manufacturing Council, citing his opposition to Trump's lack of a strong response denouncing the incidents instigated by white supremacists in Charlottesville, Virginia. ](/news/2017/08/14/merck-chief-executive-officer-kenneth-frazier-resigns-from-president-trump-s-american-manufacturing-council-citing-his-opposition-to-trump.md)
 _Context: Charlottesville, Virginia, Kenneth Frazier, Merck, President Trump, incidents instigated by white supremacists_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/08/13/index.md)
+## [Day Before Yesterday](/news/2017/08/13/index.md)
 
 ### [During combat operations in northern Iraq, two U.S. service members are killed and five injured. ](/news/2017/08/13/during-combat-operations-in-northern-iraq-two-u-s-service-members-are-killed-and-five-injured.md)
 Two U.S. service members were killed and five injured during combat operations in northern Iraq on Sunday, the military said, adding that initial reports indicated the incident was not due to enemy contact.
@@ -55,23 +63,7 @@ _Context: Himachal Pradesh, India, Monsoon, highway_
 
 ---
 
-## [Day Before Yesterday](/news/2017/08/12/index.md)
-
-### [Seven members of the White Helmets are shot dead by unidentified gunmen who stormed their office in rebel-held Sarmin, in northwestern Syria. ](/news/2017/08/12/seven-members-of-the-white-helmets-are-shot-dead-by-unidentified-gunmen-who-stormed-their-office-in-rebel-held-sarmin-in-northwestern-syria.md)
-_Context: Sarmin, Syria, Syrian Civil War, White Helmets_
-
-### [Fights break out between alt-right protestors and left-wing counterprotesters in Charlottesville, Virginia, over the removal of the Robert Edward Lee Sculpture. One person is killed and several people are injured after a man drove his car into a crowd of counterprotesters. ](/news/2017/08/12/fights-break-out-between-alt-right-protestors-and-left-wing-counterprotesters-in-charlottesville-virginia-over-the-removal-of-the-robert-e.md)
-A car rams into a crowd after clashes between white nationalists and counter-protesters in Virginia.
-
-### [Floods in Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/floods-in-flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md)
-Many of the casualties were reported from the Terai region bordering India, which faced massive flooding after receiving heavy rainfall since Friday.
-
-### [India increases its military alert amid a border standoff with the People's Liberation Army of China at Doklam. ](/news/2017/08/12/india-increases-its-military-alert-amid-a-border-standoff-with-the-people-s-liberation-army-of-china-at-doklam.md)
-India has increased its military alert along its eastern border with China, placing around 50,000 soldiers on notice amid an eight-week-long stand-off with Chinese troops near a three-way junction between Bhutan, China and India, people familiar with the matter said.
-
----
-
-## [Previous Day...](/news/2017/08/11/index.md)
+## [Previous Day...](/news/2017/08/12/index.md)
 
 ---
 
