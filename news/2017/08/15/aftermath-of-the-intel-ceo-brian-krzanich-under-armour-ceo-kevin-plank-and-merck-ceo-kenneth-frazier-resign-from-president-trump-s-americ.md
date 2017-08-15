@@ -1,6 +1,6 @@
 ### [2017-08-15](/news/2017/08/15/index.md)
 
-#  Aftermath of the Intel CEO Brian Krzanich, Under Armour CEO Kevin Plank, and Merck CEO Kenneth Frazier resign from President Trump's American Manufacturing Council due to their disagreements with Trump's August 12 speech denouncing the incidents at the Charlottesville, Virginia rally, for which Trump was criticized for not specifically referencing the violent clashes caused by and the views of white supremacists in the initial statement. 
+#  Aftermath of the Intel CEO Brian Krzanich, Under Armour CEO Kevin Plank, and Merck CEO Kenneth Frazier resign from President Trump's American Manufacturing Council due to their disagreements with Trump's August 12 speech denouncing the incidents at the Charlottesville, Virginia, rally, for which Trump was criticized for not specifically referencing the violent clashes caused by and the views of white supremacists in the initial statement. 
 
 The executive has tendered his resignation from the American Manufacturing Council, the company announced in a blog post late on Monday. 
 
