@@ -1,6 +1,6 @@
 ### [2017-08-14](/news/2017/08/14/index.md)
 
-# A 13-year-old girl is killed when a car is deliberately driven into a  pizza restaurant's sidewalk cafe in Sept-Sorts, France. At least 12 other people are injured, four critically. The driver is arrested. Police do not believe the incident was political terrorism-related. 
+# A 13-year-old girl is killed when a car is deliberately driven into a  pizza restaurant's sidewalk cafe in Sept-Sorts, France. At least 12 other people are injured, four critically. The driver is arrested. Police do not believe the incident was terrorism-related. 
 
 8-year-old girl killed and at least eight injured when vehicle slams into sidewalk cafe east of Paris on Monday
 

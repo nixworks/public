@@ -1,22 +1,22 @@
 ## [2017-08-14](/news/2017/08/14/index.md)
 
-### [A 13-year-old girl is killed when a car is deliberately driven into a  pizza restaurant's sidewalk cafe in Sept-Sorts, France. At least 12 other people are injured, four critically. The driver is arrested. Police do not believe the incident was political terrorism-related. ](/news/2017/08/14/a-13-year-old-girl-is-killed-when-a-car-is-deliberately-driven-into-a-pizza-restaurant-s-sidewalk-cafe-in-sept-sorts-france-at-least-12-o.md)
+### [A 13-year-old girl is killed when a car is deliberately driven into a  pizza restaurant's sidewalk cafe in Sept-Sorts, France. At least 12 other people are injured, four critically. The driver is arrested. Police do not believe the incident was terrorism-related. ](/news/2017/08/14/a-13-year-old-girl-is-killed-when-a-car-is-deliberately-driven-into-a-pizza-restaurant-s-sidewalk-cafe-in-sept-sorts-france-at-least-12-o.md)
 8-year-old girl killed and at least eight injured when vehicle slams into sidewalk cafe east of Paris on Monday
 
 ### [London's Big Ben, atop Elizabeth Tower, will fall silent for four years beginning 21 August while essential repair works are performed. ](/news/2017/08/14/london-s-big-ben-atop-elizabeth-tower-will-fall-silent-for-four-years-beginning-21-august-while-essential-repair-works-are-performed.md)
 The famous chimes will sound for the final time on Monday before maintenance work takes place.
 
-### [Internet companies, such as domain registrar GoDaddy and video game chat application Discord, shut down services for neo-Nazi, white supremacist, alt-right website The Daily Stormer for violation of terms of service, and  in response to this weekend's violence in Charlottesville, Va. ](/news/2017/08/14/internet-companies-such-as-domain-registrar-godaddy-and-video-game-chat-application-discord-shut-down-services-for-neo-nazi-white-suprema.md)
-The internet has long been a gathering place for white supremacists. But in the wake of the Virginia attack, some are reconsidering their willingness to host hate
-
-### [A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 200 people with the death toll expected to rise. ](/news/2017/08/14/a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-200-people-with-the-death-toll-expected-to-rise.md)
+### [A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 350 people with the death toll expected to rise as high as 500. ](/news/2017/08/14/a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-350-people-with-the-death-toll-expected-to-rise-as-h.md)
 There are fears for many who may have been asleep when the mudslide hit near Freetown, Sierra Leone.
 
 ### [ The National Archives of Korea has received a donation of around 6,000 records showing the forced mobilization of Koreans during Korea's colonial occupation by the Empire of Japan, some of them involving Hashima Island. The government agency plans to publish the records online after classification. ](/news/2017/08/14/the-national-archives-of-korea-has-received-a-donation-of-around-6-000-records-showing-the-forced-mobilization-of-koreans-during-korea-s-co.md)
 The National Archives announced it will release some six-thousand written and photographic records showing the forced mobilization of Koreans during J
 
-### [The International Institute for Strategic Studies releases a report presenting evidence that North Korea has acquired a high-performance liquid-propellant engine for its missile program from illicit networks in Russia and Ukraine, likely produced by Yuzhmash  facilities. Ukraine denies the allegations. ](/news/2017/08/14/the-international-institute-for-strategic-studies-releases-a-report-presenting-evidence-that-north-korea-has-acquired-a-high-performance-liq.md)
+### [The International Institute for Strategic Studies releases a report presenting evidence that North Korea has acquired a high-performance liquid-propellant engine for its missile program from illicit networks in Russia and Ukraine, likely produced by Yuzhmash facilities. Ukraine denies the allegations. ](/news/2017/08/14/the-international-institute-for-strategic-studies-releases-a-report-presenting-evidence-that-north-korea-has-acquired-a-high-performance-liq.md)
 Ukraine denied on Monday that it had ever supplied defense technology to North Korea, responding to an article in the New York Times that said North Korea may have purchased rocket engines from Ukrainian factory Yuzhmash.
+
+### [Several internet companies, such as domain registrar GoDaddy and video game chat application Discord, shut down services for neo-Nazi, white supremacist, alt-right website The Daily Stormer for violation of terms of service, and in response to this weekend's violence in Charlottesville, Virginia. ](/news/2017/08/14/several-internet-companies-such-as-domain-registrar-godaddy-and-video-game-chat-application-discord-shut-down-services-for-neo-nazi-white.md)
+The internet has long been a gathering place for white supremacists. But in the wake of the Virginia attack, some are reconsidering their willingness to host hate
 
 ### [India announces that it is to deport an estimated 40,000 Rohingya refugees including 14,000 of those registered with the U.N. refugee agency. In the months leading up to the announcement, a string of anti-Rohingya protests had been held in the country.](/news/2017/08/14/india-announces-that-it-is-to-deport-an-estimated-40-000-rohingya-refugees-including-14-000-of-those-registered-with-the-u-n-refugee-agency.md)
 All of an estimated 40,000 Rohingya Muslims living in India are illegal immigrants, even those registered with the U.N. refugee agency, and the government aims to deport them, a senior government official told Reuters.
@@ -24,11 +24,11 @@ All of an estimated 40,000 Rohingya Muslims living in India are illegal immigran
 ### [The Deputy Prime Minister of Australia Barnaby Joyce is revealed to have unknowingly held dual citizenship with New Zealand since his election, which may have rendered him ineligible for candidacy under section 44 of the Constitution of Australia. ](/news/2017/08/14/the-deputy-prime-minister-of-australia-barnaby-joyce-is-revealed-to-have-unknowingly-held-dual-citizenship-with-new-zealand-since-his-electi.md)
 New Zealand&#039;s Prime Minister confirms that unwittingly or not, Barnaby Joyce is a citizen of the nation.
 
-### [The Garden Bridge project is officially abandoned after Mayor  of London Sadiq Khan withdraws support ](/news/2017/08/14/the-garden-bridge-project-is-officially-abandoned-after-mayor-of-london-sadiq-khan-withdraws-support.md)
-_Context: Garden Bridge, Mayor  of London, Sadiq Khan_
+### [The Garden Bridge project is officially abandoned after Mayor of London Sadiq Khan withdraws support. ](/news/2017/08/14/the-garden-bridge-project-is-officially-abandoned-after-mayor-of-london-sadiq-khan-withdraws-support.md)
+_Context: Garden Bridge, Mayor of London, Sadiq Khan_
 
-### [ Merck chief executive officer Kenneth Frazier resigns from President Trump's American Manufacturing Council, citing his opposition to Trump's lack of a strong response denouncing the incidents instigated by white supremacists in Charlottesville, Virginia. ](/news/2017/08/14/merck-chief-executive-officer-kenneth-frazier-resigns-from-president-trump-s-american-manufacturing-council-citing-his-opposition-to-trump.md)
-_Context: Charlottesville, Virginia, Kenneth Frazier, Merck, President Trump_
+### [Merck chief executive officer Kenneth Frazier resigns from President Trump's American Manufacturing Council, citing his opposition to Trump's lack of a strong response denouncing the incidents instigated by white supremacists in Charlottesville, Virginia. ](/news/2017/08/14/merck-chief-executive-officer-kenneth-frazier-resigns-from-president-trump-s-american-manufacturing-council-citing-his-opposition-to-trump.md)
+_Context: Charlottesville, Virginia, Kenneth Frazier, Merck, President Trump, incidents instigated by white supremacists_
 
 ## [Previous Day...](/news/2017/08/13/index.md)
 

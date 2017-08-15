@@ -1,6 +1,6 @@
 ### [2017-08-14](/news/2017/08/14/index.md)
 
-# The International Institute for Strategic Studies releases a report presenting evidence that North Korea has acquired a high-performance liquid-propellant engine for its missile program from illicit networks in Russia and Ukraine, likely produced by Yuzhmash  facilities. Ukraine denies the allegations. 
+# The International Institute for Strategic Studies releases a report presenting evidence that North Korea has acquired a high-performance liquid-propellant engine for its missile program from illicit networks in Russia and Ukraine, likely produced by Yuzhmash facilities. Ukraine denies the allegations. 
 
 Ukraine denied on Monday that it had ever supplied defense technology to North Korea, responding to an article in the New York Times that said North Korea may have purchased rocket engines from Ukrainian factory Yuzhmash.
 
