@@ -19,7 +19,7 @@ A high court in Zimbabwe dropped charges against a professional hunter who led t
 Hundreds of thousands called on President Park Geun-hye to resign amid a widening corruption and influence-peddling scandal.
 
 ### [Protests against American president-elect Donald Trump continue in his hometown New York City. ](/news/2016/11/12/protests-against-american-president-elect-donald-trump-continue-in-his-hometown-new-york-city.md)
-_Context: Anti-Trump protests, Donald Trump, New York City_
+_Context: Anti-Trump protests, New York City, President Trump_
 
 ### [The Government of Colombia and rebel group FARC announce a new peace deal after an earlier agreement was rejected by a referendum six weeks ago. ](/news/2016/11/12/the-government-of-colombia-and-rebel-group-farc-announce-a-new-peace-deal-after-an-earlier-agreement-was-rejected-by-a-referendum-six-weeks.md)
 Colombia and Farc rebels reach a revised peace deal, six weeks after voters rejected the original.

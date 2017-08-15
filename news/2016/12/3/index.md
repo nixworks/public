@@ -22,7 +22,7 @@ With no smoke detectors in the North Hill rental house, a deadly fire spread qui
 _Context: Government of Malaysia, Kuala Lumpur, Malaysian Prime Minister, Muslim, Myanmar, Najib Razak, Rohingya, Rohingya insurgency in Western Myanmar, ethnic cleansing_
 
 ### [The People's Republic of China lodges a complaint with the United States after President-elect of the United States Donald Trump speaks with President of Taiwan Tsai Ing-wen. The PRC and the United States view Taiwan as a breakaway province. ](/news/2016/12/3/the-people-s-republic-of-china-lodges-a-complaint-with-the-united-states-after-president-elect-of-the-united-states-donald-trump-speaks-with.md)
-_Context: China, China-United States relations, Donald Trump, One-China policy, President of Taiwan, President-elect, Taiwan, Tsai Ing-wen, U.S._
+_Context: China, China-United States relations, One-China policy, President Trump, President of Taiwan, President-elect, Taiwan, Tsai Ing-wen, U.S._
 
 ### [A man believed responsible for starting a devastating factory fire in Karachi has been arrested in Bangkok. ](/news/2016/12/3/a-man-believed-responsible-for-starting-a-devastating-factory-fire-in-karachi-has-been-arrested-in-bangkok.md)
 _Context: 2012 Pakistan garment factory fires, Bangkok, Karachi_

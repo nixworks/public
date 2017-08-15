@@ -4,7 +4,7 @@
 _Context: Carpatair, Chisinau, Flight 128, Moldova, Romania, Saab 2000, Timisoara, Traian Vuia International Airport, emergency landing, undercarriage_
 
 ### [ Burma's government announces it will allow Rohingyas who have fled to neighboring countries to return only if they identify themselves as Bengalis. ](/news/2009/02/28/burma-s-government-announces-it-will-allow-rohingyas-who-have-fled-to-neighboring-countries-to-return-only-if-they-identify-themselves-as-b.md)
-_Context: Bengalis, Burma, Rohingya, government_
+_Context: Bengalis, Burma, Rohingya refugees, government_
 
 ### [ Chinese Premier Wen Jiabao holds the first online discussion with Internet users before the National People's Congress's annual plenary session. ](/news/2009/02/28/chinese-premier-wen-jiabao-holds-the-first-online-discussion-with-internet-users-before-the-national-people-s-congress-s-annual-plenary-ses.md)
 _Context: China, Internet, National People's Congress, Premier, Wen Jiabao, parliament_

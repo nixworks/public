@@ -2,7 +2,7 @@
 
 ### [ Zachary Hall Day - Valdosta, Georgia USA](/news/2005/04/5/zachary-hall-day-valdosta-georgia-usa.md)
 ### [ The government of South Korea complains to the Japanese government about a revised set of official Japanese history schoolbooks. The complaint alleges the textbooks whitewash Japan's "imperialist" past, and question Korean sovereignty of the disputed Liancourt Rocks. ](/news/2005/04/5/the-government-of-south-korea-complains-to-the-japanese-government-about-a-revised-set-of-official-japanese-history-schoolbooks-the-compla.md)
-_Context: Japan, Japanese occupation, Liancourt Rocks, South Korea, schoolbooks_
+_Context: Japan, Korea's colonial occupation, Liancourt Rocks, South Korea, schoolbooks_
 
 ### [ Tony Blair calls the General Election in the United Kingdom for May 5, 2005, on the same day as the local elections. ](/news/2005/04/5/tony-blair-calls-the-general-election-in-the-united-kingdom-for-may-5-2005-on-the-same-day-as-the-local-elections.md)
 _Context: Tony Blair, United Kingdom, United Kingdom general election, 2005_

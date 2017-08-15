@@ -13,7 +13,7 @@ _Context: Gaza Strip, Operation Summer Rains, U.N., U.S._
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Merck & Co. wins a trial over a grandmother's claim that its Vioxx painkiller caused her to have a heart attack, reducing pressure on the company to settle 12,000 other cases about the drug. ](/news/2006/07/13/merck-co-wins-a-trial-over-a-grandmother-s-claim-that-its-vioxx-painkiller-caused-her-to-have-a-heart-attack-reducing-pressure-on-the-c.md)
-_Context: Merck & Co., Vioxx_
+_Context: Merck, Vioxx_
 
 ### [ A complete First Folio edition of William Shakespeare's plays is auctioned in London for 2.8 million. It had been owned by Dr Williams's Library, which paid about 500 for it in 1716. When new in 1623, the Folio would have cost 1. ](/news/2006/07/13/a-complete-first-folio-edition-of-william-shakespeare-s-plays-is-auctioned-in-london-for-ps2-8-million-it-had-been-owned-by-dr-williams-s-l.md)
 _Context: Dr Williams's Library, First Folio, William Shakespeare_

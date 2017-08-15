@@ -1,7 +1,7 @@
 ## [2016-11-19](/news/2016/11/19/index.md)
 
 ### [At least 12 tribal fighters were killed by ISIL insurgents. The attack occurred in Shirqat. ](/news/2016/11/19/at-least-12-tribal-fighters-were-killed-by-isil-insurgents-the-attack-occurred-in-shirqat.md)
-_Context: ISIS, Iraqi Civil War, Shirqat_
+_Context: ISIL, Iraqi Civil War, Shirqat_
 
 ### [The Saudi-led coalition announces a 48 hour ceasefire in Yemen from noon. ](/news/2016/11/19/the-saudi-led-coalition-announces-a-48-hour-ceasefire-in-yemen-from-noon.md)
 Cairo (AP) -- The Saudi-led military coalition declared a 48-hour ceasefire in Yemen on Saturday, on the condition that Shiite rebels abide by it and allow humanitarian assistance into besieged cities, particularly the city of Taiz.

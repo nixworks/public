@@ -16,7 +16,7 @@ Scientists have now put together all the pieces to confirm that the enormous Tot
 China will return an underwater U.S. drone seized by a naval vessel this week in the South China Sea, both countries said on Saturday, but Beijing complained that Washington had been &quot;hyping up&quot; the incident.
 
 ### [President-elect Donald Trump nominates his middle-eastern affairs advisor and former bankruptcy lawyer David Friedman as the next United States Ambassador to Israel. ](/news/2016/12/16/president-elect-donald-trump-nominates-his-middle-eastern-affairs-advisor-and-former-bankruptcy-lawyer-david-friedman-as-the-next-united-sta.md)
-_Context: David Friedman, Donald Trump, Israel-United States relations, United States Ambassador to Israel_
+_Context: David Friedman, Israel-United States relations, President Trump, United States Ambassador to Israel_
 
 ### [A riot breaks out inside the G4S-run HM Prison Birmingham in Winson Green, Birmingham, United Kingdom. At least one inmate has been badly injured. The Ministry of Justice says riot police have regained control of the prison. ](/news/2016/12/16/a-riot-breaks-out-inside-the-g4s-run-hm-prison-birmingham-in-winson-green-birmingham-united-kingdom-at-least-one-inmate-has-been-badly-in.md)
 Specialist team deal with incident involving hundreds of prisoners at city centre facility run by G4S

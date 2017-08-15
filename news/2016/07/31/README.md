@@ -1,7 +1,7 @@
 ## [2016-07-31](/news/2016/07/31/index.md)
 
 ### [Islamic State militants attack two gas facilities northwest of Kirkuk in northern Iraq, killing at least five people and wounding six policemen. Three assailants detonated their explosive vests and a fourth was killed in clash with security forces. ](/news/2016/07/31/islamic-state-militants-attack-two-gas-facilities-northwest-of-kirkuk-in-northern-iraq-killing-at-least-five-people-and-wounding-six-police.md)
-_Context: ISIS, Iraq, Iraqi Civil War (2014-present), Kirkuk, explosive belt_
+_Context: ISIL, Iraq, Iraqi Civil War (2014-present), Kirkuk, explosive belt_
 
 ### [An Al-Shabaab attack on the Central Investigations Department kills at least nine people.  ](/news/2016/07/31/an-al-shabaab-attack-on-the-central-investigations-department-kills-at-least-nine-people.md)
 _Context: War in Somalia (2009-present), al-Shabaab militants_

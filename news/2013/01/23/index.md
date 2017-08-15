@@ -19,7 +19,7 @@ Police in Bedfordshire and Hertfordshire say they have had calls reporting the s
 _Context: Alex Sparrow, Los Angeles, USA, accident_
 
 ### [Rescuers from New Zealand and McMurdo Station looking for three Canadians aboard an airplane presumed to have gone down in Antarctica were grappling with bad weather conditions. ](/news/2013/01/23/rescuers-from-new-zealand-and-mcmurdo-station-looking-for-three-canadians-aboard-an-airplane-presumed-to-have-gone-down-in-antarctica-were-g.md)
-_Context: Antarctica, Canadian, McMurdo Station, New Zealand, airplane_
+_Context: Antarctica, Canadians, McMurdo Station, New Zealand, airplane_
 
 ### [A court in Thailand sentences a magazine editor to ten years' imprisonment for publishing articles that were deemed to have insulted the monarchy. ](/news/2013/01/23/a-court-in-thailand-sentences-a-magazine-editor-to-ten-years-imprisonment-for-publishing-articles-that-were-deemed-to-have-insulted-the-mon.md)
 A Thai court jails a magazine editor for 10 years for publishing two articles that were deemed to insult the monarchy.

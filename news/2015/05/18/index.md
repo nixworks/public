@@ -22,7 +22,7 @@ A massive landslide tore through a ravine in northwest Colombia Monday before da
 _Context: John Kerry, North Korea, Seoul, South Korea, United States Secretary of State_
 
 ### [The Philippines says that it is willing to accept 3,000 Rohingya refugees after an accusation by a newspaper was made. Last week Indonesia turned away boats carrying over 1,000 Rohingya refugees. ](/news/2015/05/18/the-philippines-says-that-it-is-willing-to-accept-3-000-rohingya-refugees-after-an-accusation-by-a-newspaper-was-made-last-week-indonesia-t.md)
-_Context: Indonesia, Philippines, Rohingya_
+_Context: Indonesia, Philippines, Rohingya refugees_
 
 ### [Scott Driscoll, a former member of the Legislative Assembly of the Australian state of Queensland, has been committed to stand trial on fraud charges. ](/news/2015/05/18/scott-driscoll-a-former-member-of-the-legislative-assembly-of-the-australian-state-of-queensland-has-been-committed-to-stand-trial-on-frau.md)
 _Context: Legislative Assembly, Queensland, Scott Driscoll, State_

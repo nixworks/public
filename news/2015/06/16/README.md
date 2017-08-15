@@ -4,7 +4,7 @@
 Al-Qaeda confirms that a key commander - Nasser al-Wuhayshi, who headed Al-Qaeda in the Arabian Peninsula - has been killed in a US drone strike in Yemen.
 
 ### [Kurdish People's Protection Units have captured the border town of Tell Abyad from Islamic State of Iraq and the Levant forces. ](/news/2015/06/16/kurdish-people-s-protection-units-have-captured-the-border-town-of-tell-abyad-from-islamic-state-of-iraq-and-the-levant-forces.md)
-_Context: ISIS, Kurdish, Syrian Civil War, Tell Abyad, YPG_
+_Context: ISIL, Kurdish, Syrian Civil War, Tell Abyad, YPG_
 
 ### [Three of the ten Tunisian consular staff kidnapped last week have been released and negotiation is ongoing about the others. ](/news/2015/06/16/three-of-the-ten-tunisian-consular-staff-kidnapped-last-week-have-been-released-and-negotiation-is-ongoing-about-the-others.md)
 _Context: Libyan Crisis (2011-present), Tunisia, kidnapped_
@@ -40,7 +40,7 @@ _Context: Ali Ahsan Mohammad Mojaheed, Bangladesh, Islamist, Supreme Court_
 Court yet to rule whether it will confirm or commute a death sentence it handed down against Morsi in a separate case.
 
 ### [Real estate mogul and reality television host Donald Trump announces that he will be a candidate for the Republican Party nomination. ](/news/2015/06/16/real-estate-mogul-and-reality-television-host-donald-trump-announces-that-he-will-be-a-candidate-for-the-republican-party-nomination.md)
-_Context: 2016 U.S. presidential election, Donald Trump, Republican_
+_Context: 2016 U.S. presidential election, President Trump, Republican_
 
 ## [Previous Day...](/news/2015/06/15/index.md)
 

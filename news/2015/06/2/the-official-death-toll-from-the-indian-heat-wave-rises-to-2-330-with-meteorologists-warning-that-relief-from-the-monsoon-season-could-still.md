@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [At least 44 are killed in a landslide on a highway in the northern India province of Himachal Pradesh. ](/news/2017/08/13/at-least-44-are-killed-in-a-landslide-on-a-highway-in-the-northern-india-province-of-himachal-pradesh.md) _Context: Monsoon_
+1. [Monsoons in At least 44 are killed in a landslide on a highway in the northern India province of Himachal Pradesh. ](/news/2017/08/13/monsoons-in-at-least-44-are-killed-in-a-landslide-on-a-highway-in-the-northern-india-province-of-himachal-pradesh.md) _Context: Monsoon_
 2. [2017 heat wave in EuropeFirefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/2017-heat-wave-in-europepfirefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _Context: heat wave_
 3. [A temperature of 53.7degC (128.7degF) is recorded during the 2017 heat wave in Ahvaz, Khuzestan Province, breaking Iran's previous record and becoming one of the highest temperatures ever recorded on Earth. ](/news/2017/06/30/a-temperature-of-53-7adegc-128-7adegf-is-recorded-during-the-2017-heat-wave-in-ahvaz-khuzestan-province-breaking-iran-s-previous-record-and.md) _Context: heat wave_
 4. [A heat wave strikes the Western U.S. states of Arizona, California, and Nevada. It is predicted to last until June 23. ](/news/2017/06/20/a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-it-is-predicted-to-last-until-june-23.md) _Context: heat wave_

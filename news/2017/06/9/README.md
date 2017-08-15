@@ -4,7 +4,7 @@
 Iranians mourn 17 killed in two attacks on the capital this week
 
 ### [Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan, were killed by members of the Islamic State of Iraq and the Levant. ](/news/2017/06/9/chinese-authorities-report-grave-concern-over-reports-that-two-kidnapped-chinese-teachers-in-quetta-pakistan-were-killed-by-members-of-t.md)
-_Context: China, ISIS, Pakistan, Quetta, War in North-West Pakistan_
+_Context: China, ISIL, Pakistan, Quetta, War in North-West Pakistan_
 
 ### [Human rights activists accuse forces led by Saudi Arabia and the UAE of kidnapping and torturing people during the Yemeni conflict. ](/news/2017/06/9/human-rights-activists-accuse-forces-led-by-saudi-arabia-and-the-uae-of-kidnapping-and-torturing-people-during-the-yemeni-conflict.md)
 Fighters backed by UAE accused of kidnapping and torturing hundreds of men, according to independent investigation.
@@ -25,7 +25,7 @@ Theresa May will visit Buckingham Palace to seek to form a government with backi
 Japan&#039;s parliament has passed a law allowing Emperor Akihito to become the first monarch to abdicate in 200 years.
 
 ### [President Donald Trump claims that James Comey committed perjury during his testimony yesterday, and offers to give his own testimony, "under oath," refuting that he requested Comey to drop the Flynn investigation and that he had asked for Comey's allegence. ](/news/2017/06/9/president-donald-trump-claims-that-james-comey-committed-perjury-during-his-testimony-yesterday-and-offers-to-give-his-own-testimony-unde.md)
-_Context: "under oath,", Donald Trump, James Comey, James Comey Senate Intelligence Committee testimony, committed perjury_
+_Context: "under oath,", James Comey, James Comey Senate Intelligence Committee testimony, President Trump, committed perjury_
 
 ## [Previous Day...](/news/2017/06/8/index.md)
 

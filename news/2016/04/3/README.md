@@ -4,10 +4,10 @@
 Azerbaijan announces a &quot;unilateral ceasefire&quot; in fighting with Armenian forces over the disputed Nagorno-Karabakh region, but its opponents say fighting continues.
 
 ### [The Syrian Army retakes control of al-Qaryatayn, Homs Governorate, after driving out ISIL militants. ](/news/2016/04/3/the-syrian-army-retakes-control-of-al-qaryatayn-homs-governorate-after-driving-out-isil-militants.md)
-_Context: Battle of al-Qaryatayn (March-April 2016), Homs Governorate, ISIS, Syrian Army, Syrian Civil War, al-Qaryatayn_
+_Context: Battle of al-Qaryatayn (March-April 2016), Homs Governorate, ISIL, Syrian Army, Syrian Civil War, al-Qaryatayn_
 
 ### [Four Sarawakian Malaysians are kidnapped off the coast of Sabah by suspected members of the Abu Sayyaf, a group linked to the Islamic State of Iraq and the Levant. ](/news/2016/04/3/four-sarawakian-malaysians-are-kidnapped-off-the-coast-of-sabah-by-suspected-members-of-the-abu-sayyaf-a-group-linked-to-the-islamic-state.md)
-_Context: Abu Sayyaf, ISIS, Malaysians, Moro attacks on Sabah, Moro conflict, Sabah, Sarawak_
+_Context: Abu Sayyaf, ISIL, Malaysians, Moro attacks on Sabah, Moro conflict, Sabah, Sarawak_
 
 ### [The United States military reports a drone attack killed ISIL rocket expert Jasim Khadijah. The unmanned airstrike also killed other IS militants and destroyed at least one makeshift drone. Khadijah, a former Iraqi officer, is believed responsible for the March attack that killed a U.S. Marine in northern Iraq. ](/news/2016/04/3/the-united-states-military-reports-a-drone-attack-killed-isil-rocket-expert-jasim-khadijah-the-unmanned-airstrike-also-killed-other-is-mili.md)
 HIT, Iraq (AP) — Iraqi forces took the northern edge of the Islamic State-held town of Hit, west of Baghdad, on Sunday in an operation led by the country&#039;s elite counterterrorism forces, military officials said. The operation…

@@ -19,7 +19,7 @@ Oliver Schmidt faces up to seven years in prison for his role in the Volkswagen 
 Rwandan President Paul Kagame has extended his 17 years in power after winning the presidential election.
 
 ### [Socorro Flores Liera, Mexico's deputy foreign minister for Latin America and the Caribbean, speaks during an interview with Reuters in Mexico City, that during the first half of 2017, 1,420 Venezuelans have sought asylum in Mexico, a nearly four-fold jump compared to the 361 total Venezuelan asylum applicants for all of 2016, as the result of Venezuela's deepening political and economic crisis. ](/news/2017/08/4/socorro-flores-liera-mexico-s-deputy-foreign-minister-for-latin-america-and-the-caribbean-speaks-during-an-interview-with-reuters-in-mexic.md)
-_Context: Mexico, Mexico City, Venezuela, dictator_
+_Context: Mexico, Mexico City, Venezuela, Venezuelan constitutional crisis_
 
 ## [Previous Day...](/news/2017/08/3/index.md)
 

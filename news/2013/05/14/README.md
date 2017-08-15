@@ -19,7 +19,7 @@ _Context: Antwerp, Belgium, Beyonce, Mrs. Carter Show World Tour_
 _Context: Freeport-McMoRan, Grasberg mine, Indonesia, Papua_
 
 ### [Several boats carrying over 100 Rohingya Muslims away from an oncoming cyclone capsize off the coast of Myanmar leaving only 42 survivors. ](/news/2013/05/14/several-boats-carrying-over-100-rohingya-muslims-away-from-an-oncoming-cyclone-capsize-off-the-coast-of-myanmar-leaving-only-42-survivors.md)
-_Context: Myanmar, Rohingya_
+_Context: Myanmar, Rohingya refugees_
 
 ### [An alleged CIA agent is arrested in Moscow for trying to recruit a Russian intelligence officer. ](/news/2013/05/14/an-alleged-cia-agent-is-arrested-in-moscow-for-trying-to-recruit-a-russian-intelligence-officer.md)
 Russia is expelling a US diplomat briefly detained in Moscow for allegedly trying to recruit a Russian intelligence officer, officials say.

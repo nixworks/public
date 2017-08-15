@@ -4,7 +4,7 @@
 Malian youths clashed with ruling Islamists in the city of Gao in a protest against the planned punishment by amputation of a suspected robber and the beating of a journalist covering the demonstration, local residents said.
 
 ### [2012 Rakhine State riots: Renewed fighting between Buddhist Rakhine and Muslim Rohingya in western Burma kills three people. ](/news/2012/08/6/2012-rakhine-state-riots-renewed-fighting-between-buddhist-rakhine-and-muslim-rohingya-in-western-burma-kills-three-people.md)
-_Context: Buddhists, Burma, Muslim, Rakhine, Rohingya, fighting between Buddhists and Muslims_
+_Context: Buddhists, Burma, Muslim, Rakhine, Rohingya refugees, fighting between Buddhists and Muslims_
 
 ### [Mexican Drug War: Alleged members of Los Zetas, a drug cartel originally set up by former soldiers of the Mexican Army, attack several media outlets in Monterrey for publishing on a rumored split between the two principal Zetas bosses. ](/news/2012/08/6/mexican-drug-war-alleged-members-of-los-zetas-a-drug-cartel-originally-set-up-by-former-soldiers-of-the-mexican-army-attack-several-media.md)
 _Context: Los Zetas, Mexican Drug War, Monterrey_

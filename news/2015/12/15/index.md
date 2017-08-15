@@ -16,7 +16,7 @@ The French air force used its first cruise missiles against Islamic State group 
 _Context: 2015 Pacific typhoon season, Philippines_
 
 ### [The United States Food and Drug Administration approves the Merck & Co. drug, Bridion, that reverses the effects of muscle relaxants used during surgery. ](/news/2015/12/15/the-united-states-food-and-drug-administration-approves-the-merck-co-drug-bridion-that-reverses-the-effects-of-muscle-relaxants-used-du.md)
-_Context: Bridion, Merck & Co., U.S., U.S. Food and Drug Administration, muscle relaxant_
+_Context: Bridion, Merck, U.S., U.S. Food and Drug Administration, muscle relaxant_
 
 ### [Saudi Arabia announces the formation of a 34-member Islamic Military Alliance against terrorism including Egypt, Qatar, the United Arab Emirates, Turkey, Malaysia and Pakistan with a joint operations centre based in Riyadh. ](/news/2015/12/15/saudi-arabia-announces-the-formation-of-a-34-member-islamic-military-alliance-against-terrorism-including-egypt-qatar-the-united-arab-emir.md)
 A new Saudi-led Islamic alliance to fight terrorism will share information and train, equip and provide forces if necessary for the fight against Islamic State militants, Saudi Foreign Minister Adel al-Jubeir said.

@@ -17,7 +17,7 @@ _Context: Venezuela_
 Astronomers have detected a new type of cosmic outburst that they can&#039;t yet explain. The event was very nearby, they said.
 
 ### [ Ken Livingstone, the Mayor of London, is suspended from his position for one month by a three member panel of the Adjudication Panel for England for being "unnecessarily insensitive" in comparing a Jewish ''Evening Standard'' reporter to a Nazi concentration camp guard. Nicky Gavron, his deputy, will take over his responsibilities whilst Livingstone is suspended. ](/news/2006/02/24/ken-livingstone-the-mayor-of-london-is-suspended-from-his-position-for-one-month-by-a-three-member-panel-of-the-adjudication-panel-for-en.md)
-_Context: Adjudication Panel for England, Evening Standard, Ken Livingstone, London Mayor, Nazis, Nicky Gavron_
+_Context: Adjudication Panel for England, Evening Standard, Ken Livingstone, Mayor  of London, Nazis, Nicky Gavron_
 
 ### [ An explosion and gunshots are reported at Abqaiq, home of largest Saudi Arabian oil facilities.  ](/news/2006/02/24/an-explosion-and-gunshots-are-reported-at-abqaiq-home-of-largest-saudi-arabian-oil-facilities.md)
 _Context: Abqaiq, Saudi Arabian_

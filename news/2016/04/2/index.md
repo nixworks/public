@@ -10,7 +10,7 @@ A mass grave including the bodies of women and children has been uncovered in th
 Two guards were killed in an attempted attack on an oil field in eastern Libya by suspected Islamic State militants on Saturday, a guards spokesman said.
 
 ### [Iraqi security forces free a large number of prisoners from an underground ISIL-operated jail in the city of Hit. Malallah al-Obeidi, a local official in the Al Anbar Governorate, put the number of freed prisoners at around 1,500, saying most of them were civilians. ](/news/2016/04/2/iraqi-security-forces-free-a-large-number-of-prisoners-from-an-underground-isil-operated-jail-in-the-city-of-ha-t-malallah-al-obeidi-a-loc.md)
-_Context: Anbar province, Hit, Hit offensive (2016), ISIS, Iraq, Iraqi Civil War (2014-present)_
+_Context: Anbar province, Hit, Hit offensive (2016), ISIL, Iraq, Iraqi Civil War (2014-present)_
 
 ### [A bombing kills at least five Turkish soldiers and one special forces police officer in the southeastern city of Nusaybin, near the Syria-Turkey border. ](/news/2016/04/2/a-bombing-kills-at-least-five-turkish-soldiers-and-one-special-forces-police-officer-in-the-southeastern-city-of-nusaybin-near-the-syriaa.md)
 Five soldiers and one special forces police officer have been killed in a bomb attack in south-eastern Turkey blamed on Kurdish rebels, reports say.
@@ -43,7 +43,7 @@ International Monetary Fund Managing Director Christine Lagarde denied on Sunday
 Members of Indian women activist group Bhumata Ranragini Brigade were prevented from entering Shani Shingnapur temple on Saturday.
 
 ### [The Republican National Committeeman for North Dakota, Curly Haugland, says that the likelihood for outsiders such as Donald Trump to get state electoral votes are slim as the party honor its own elders. ](/news/2016/04/2/the-republican-national-committeeman-for-north-dakota-curly-haugland-says-that-the-likelihood-for-outsiders-such-as-donald-trump-to-get-st.md)
-_Context: 2016 U.S. presidential election, Curly Haugland, Donald Trump, Republican National Committee, Republican Party presidential candidates, 2016_
+_Context: 2016 U.S. presidential election, Curly Haugland, President Trump, Republican National Committee, Republican Party presidential candidates, 2016_
 
 ### [Tran Dai Quang is sworn in as the President of Vietnam. ](/news/2016/04/2/traossn-aao-i-quang-is-sworn-in-as-the-president-of-vietnam.md)
 _Context: President of Vietnam, Tran Dai Quang_

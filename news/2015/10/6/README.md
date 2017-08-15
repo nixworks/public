@@ -1,13 +1,13 @@
 ## [2015-10-6](/news/2015/10/6/index.md)
 
 ### [A hotel where Vice President of Yemen and Prime Minister Khaled Bahah was staying in Aden which was also being used as a de facto military base by Arab coalition forces is hit by multiple explosions killing at least 15 coalition soldiers. Although the Houthis were first suspected and accused of being behind the attack, the Islamic State of Iraq and the Levant has since claimed responsibility, marking the first attack on Arab coalition forces in Yemen by the extremist group. ](/news/2015/10/6/a-hotel-where-vice-president-of-yemen-and-prime-minister-khaled-bahah-was-staying-in-aden-which-was-also-being-used-as-a-de-facto-military-b.md)
-_Context: Aden, Houthi, ISIS, Khaled Bahah, Prime Minister, Saudi Arabian-led intervention in Yemen, Vice President of Yemen, Yemen, Yemeni Civil War (2015)_
+_Context: Aden, Houthi, ISIL, Khaled Bahah, Prime Minister, Saudi Arabian-led intervention in Yemen, Vice President of Yemen, Yemen, Yemeni Civil War (2015)_
 
 ### [NATO Secretary-General Jens Stoltenberg says Russia's pair of violations of Turkish airspace over the weekend do not look like accidents. Russia, which said it's looking into claims of a second violation, reported the first violation lasted a few seconds and was due to poor weather. ](/news/2015/10/6/nato-secretary-general-jens-stoltenberg-says-russia-s-pair-of-violations-of-turkish-airspace-over-the-weekend-do-not-look-like-accidents-ru.md)
 Russian jets hit Islamic State targets in the Syrian city of Palmyra and the northern province of Aleppo, Syrian state television and a monitoring group said on Tuesday, in some of the heaviest Russian attacks on the hardline Islamist group.
 
 ### [Russia says it would consider extending its air-strikes against Islamic State militants in Syria to Iraq if it receives such a request from the Iraqi government. Iraqi President, Fuad Masum has recently said he would welcome this assistance. ](/news/2015/10/6/russia-says-it-would-consider-extending-its-air-strikes-against-islamic-state-militants-in-syria-to-iraq-if-it-receives-such-a-request-from.md)
-_Context: Fuad Masum, ISIS, Iraq, Iraqi Civil War (2014-present), Russia_
+_Context: Fuad Masum, ISIL, Iraq, Iraqi Civil War (2014-present), Russia_
 
 ### [A Boko Haram attack near Lake Chad kills at least 11 Chadian troops while 17 Boko Haram militants are also reportedly killed in the fighting following the pre-dawn strike on Chadian army positions. ](/news/2015/10/6/a-boko-haram-attack-near-lake-chad-kills-at-least-11-chadian-troops-while-17-boko-haram-militants-are-also-reportedly-killed-in-the-fighting.md)
 N&#x27;Djamena (AFP) - Boko Haram Islamists attacked Chadian soldiers on Tuesday, killing 11 and wounding 13, the Chadian army said, in the latest deadly raid by the militants despite a regional offensive against them. &quot;The enemy infiltrated (Chad) from the Nigerian side (of the border) to attack

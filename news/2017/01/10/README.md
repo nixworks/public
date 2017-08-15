@@ -25,7 +25,7 @@ The same jury that convicted Dylann Roof in the 2015 massacre at Emanuel AME chu
 _Context: Akbar Hashemi Rafsanjani, Death and state funeral of Akbar Hashemi Rafsanjani, Tehran_
 
 ### [President-elect Donald Trump appoints businessman and son-in-law Jared Kushner as his senior advisor in the White House. ](/news/2017/01/10/president-elect-donald-trump-appoints-businessman-and-son-in-law-jared-kushner-as-his-senior-advisor-in-the-white-house.md)
-_Context: Donald Trump, Jared Kushner, Presidential transition of Donald Trump, White House_
+_Context: Jared Kushner, President Trump, Presidential transition of Donald Trump, White House_
 
 ## [Previous Day...](/news/2017/01/9/index.md)
 

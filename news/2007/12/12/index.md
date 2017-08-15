@@ -7,7 +7,7 @@ _Context: George W. Bush, President, State Children's Health Insurance Program, 
 The International Olympic Committee ended the once stellar Olympic career of U.S. sprinter Marion Jones on Wednesday, taking back her five Sydney 2000 Games medals after she admitted to taking drugs.
 
 ### [ Merck & Co. recalls a million doses of a childhood vaccines after tests show a sterilization problem at a Pennsylvania factory. ](/news/2007/12/12/merck-co-recalls-a-million-doses-of-a-childhood-vaccines-after-tests-show-a-sterilization-problem-at-a-pennsylvania-factory.md)
-_Context: Merck & Co., Pennsylvania, recall, sterilization, vaccine_
+_Context: Merck, Pennsylvania, recall, sterilization, vaccine_
 
 ### [ The Lebanese armed forces' chief of operations, General Franois al-Hajj, is killed in a bomb attack in Beirut. ](/news/2007/12/12/the-lebanese-armed-forces-chief-of-operations-general-francois-al-hajj-is-killed-in-a-bomb-attack-in-beirut.md)
 _Context: Beirut, Franois al-Hajj, Lebanese Armed Forces, Lebanon_

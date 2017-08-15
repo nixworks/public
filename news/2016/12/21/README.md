@@ -55,7 +55,7 @@ Turkey suspended nearly 2,000 teachers and school employees on Wednesday, an off
 _Context: Gambian presidential election, 2016, Nigeria, President, Sierra Leone, Yahya Jammeh_
 
 ### [President-elect Donald Trump names Carl Icahn as the Special Advisor to the President on Regulatory Reform. ](/news/2016/12/21/president-elect-donald-trump-names-carl-icahn-as-the-special-advisor-to-the-president-on-regulatory-reform.md)
-_Context: Carl Icahn, Donald Trump, President-elect, Presidential transition of Donald Trump_
+_Context: Carl Icahn, President Trump, President-elect, Presidential transition of Donald Trump_
 
 ### [ Snow falls in the Sahara desert for the first time in 37 years. ](/news/2016/12/21/snow-falls-in-the-sahara-desert-for-the-first-time-in-37-years.md)
 _Context: Sahara_

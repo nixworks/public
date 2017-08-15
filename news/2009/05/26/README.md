@@ -16,7 +16,7 @@ _Context: Dawit Isaak, Eritrea, Isaias Afewerki, President, journalism, prison_
 _Context: Nawaz Sharif, Pakistan, Prime Minister of Pakistan, Supreme Court, election_
 
 ### [ North Korea tests two more missiles. ](/news/2009/05/26/north-korea-tests-two-more-missiles.md)
-_Context: North Korea, intercontinental ballistic, rocket attacks_
+_Context: North Korea, North Korea and weapons of mass destruction, rocket attacks_
 
 ### [ Trial of Aung San Suu Kyi: The National League for Democracy's General Secretary testifies in Burma. ](/news/2009/05/26/trial-of-aung-san-suu-kyi-p-the-national-league-for-democracy-s-general-secretary-testifies-in-burma.md)
 Myanmar opposition leader Aung San Suu Kyi denied violating her house arrest on Tuesday as the ruling generals tried to justify her trial, which has drawn condemnation from around the world.

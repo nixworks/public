@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ISIS forces raid an Iranian Revolutionary Guards Corps base in vast desert spaces of eastern Homs Governorate, Syria, manned by between 12 to 18 fighters, all but one of which are killed. ](/news/2017/08/11/isis-forces-raid-an-iranian-revolutionary-guards-corps-base-in-vast-desert-spaces-of-eastern-homs-governorate-syria-manned-by-between-12-t.md) _Context: Iran_
+1. [ISIL forces raid an Iranian Islamic Revolutionary Guard Corps base in vast desert spaces of eastern Homs Governorate, Syria, manned by between 12 to 18 fighters, all but one of which are killed. ](/news/2017/08/11/isil-forces-raid-an-iranian-islamic-revolutionary-guard-corps-base-in-vast-desert-spaces-of-eastern-homs-governorate-syria-manned-by-betwe.md) _Context: Iran_
 2. [The United States Navy says the USS ''Thunderbolt'' fired a warning shot at an Iranian patrol boat after it came within 150 yards of the U.S. ship. ](/news/2017/07/25/the-united-states-navy-says-the-uss-thunderbolt-fired-a-warning-shot-at-an-iranian-patrol-boat-after-it-came-within-150-yards-of-the-u-s.md) _Context: Iran_
 3. [Negotiators from the Democratic and Republican parties agree on new sanctions against Russia, Iran, and  North Korea. Both chambers of the United States Congress are scheduled to vote on passage on Tuesday. ](/news/2017/07/22/negotiators-from-the-democratic-and-republican-parties-agree-on-new-sanctions-against-russia-iran-and-north-korea-both-chambers-of-the-u.md) _Context: Iran_
 4. [Singapore implements a new law that bans foreigners from taking part in protests. ](/news/2017/07/1/singapore-implements-a-new-law-that-bans-foreigners-from-taking-part-in-protests.md) _Context: Singapore_

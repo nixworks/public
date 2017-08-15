@@ -31,7 +31,7 @@ Police raided the headquarters of Korean Air Lines Co Ltd on Friday as part of a
 _Context: Dan Coats, Deputy Attorney General, Guantanamo Bay Detention Camp, Jeff Sessions, National Intelligence Director, Rod Rosenstein, United States Attorney General_
 
 ### [A request by the state of Hawaii to issue an order blocking President Donald Trump's Executive Order 13780 is rejected in the United States Court of Appeals for the Ninth Circuit. ](/news/2017/07/7/a-request-by-the-state-of-hawaii-to-issue-an-order-blocking-president-donald-trump-s-executive-order-13780-is-rejected-in-the-united-states.md)
-_Context: Donald Trump, Executive Order 13780, Hawaii, Legal challenges to Executive Order 13780, United States Court of Appeals for the Ninth Circuit_
+_Context: Executive Order 13780, Hawaii, Legal challenges to Executive Order 13780, President Trump, United States Court of Appeals for the Ninth Circuit_
 
 ### [Former president of Panama Ricardo Martinelli is denied bond by United States magistrate judge Edwin Torres. He is accused of charges that include illegally monitoring phone and other conversations of at least 150 people. Martinelli was arrested in Miami last month on an extradition warrant from Panama. ](/news/2017/07/7/former-president-of-panama-ricardo-martinelli-is-denied-bond-by-united-states-magistrate-judge-edwin-torres-he-is-accused-of-charges-that-i.md)
 _Context: Edwin Torres, Miami, Panama, Ricardo Martinelli, United States magistrate judge, bond, illegally monitoring, warrant_

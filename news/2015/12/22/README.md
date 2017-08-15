@@ -1,7 +1,7 @@
 ## [2015-12-22](/news/2015/12/22/index.md)
 
 ### [The Iraqi Army advances into the center of Ramadi, the latest development in the effort, which began in November, to regain the city from the Islamic State of Iraq and the Levant. ](/news/2015/12/22/the-iraqi-army-advances-into-the-center-of-ramadi-the-latest-development-in-the-effort-which-began-in-november-to-regain-the-city-from-th.md)
-_Context: Battle of Ramadi, ISIS, Iraqi Army, Ramadi_
+_Context: Battle of Ramadi, ISIL, Iraqi Army, Ramadi_
 
 ### [More than 1 million children have been forced out of school as a result of Boko Haram terrorism in northeastern Nigeria and its neighboring countries, which leaves the children more susceptible to violence, poverty and child marriage,  Manuel Fontaine, UNICEF's West and Central Africa regional director, said in a statement. ](/news/2015/12/22/more-than-1-million-children-have-been-forced-out-of-school-as-a-result-of-boko-haram-terrorism-in-northeastern-nigeria-and-its-neighboring.md)
 By Kieran GuilbertDAKAR (Thomson Reuters Foundation) - Violence in northeast Nigeria and neighboring countries targeted by Boko Haram has forced more

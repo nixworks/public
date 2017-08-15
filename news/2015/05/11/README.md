@@ -28,7 +28,7 @@ _Context: May 5-10, 2015 tornado outbreak sequence, U.S._
 _Context: Avian flu virus, H5N8, U.S., Whitley County, Indiana, poultry_
 
 ### [Malaysia detains over a thousand Bangladeshi and Rohingya people asylum seekers who arrived by boat on Monday. The Indonesian Navy confirms that it had turned the boats away. ](/news/2015/05/11/malaysia-detains-over-a-thousand-bangladeshi-and-rohingya-people-asylum-seekers-who-arrived-by-boat-on-monday-the-indonesian-navy-confirms.md)
-_Context: Bangladesh, Indonesian Navy, Malaysia, Rohingya_
+_Context: Bangladesh, Indonesian Navy, Malaysia, Rohingya refugees_
 
 ### [The Swedish Supreme Court rejects a bid from Wikileaks founder Julian Assange to revoke the warrant for his detention in 2010. ](/news/2015/05/11/the-swedish-supreme-court-rejects-a-bid-from-wikileaks-founder-julian-assange-to-revoke-the-warrant-for-his-detention-in-2010.md)
 _Context: Julian Assange, Swedish Supreme Court, WikiLeaks_

@@ -22,7 +22,7 @@ Hurricane Earl had been downgraded to a tropical storm by the time it hit southe
 While remnants of Tropical Storm Earl were helping fuel the formation of Tropical Storm Javier off Mexico&#8217;s Pacific coast early Monday Aug. 8, at least 40 people were reported killed by lands…
 
 ### [A Filipino lawmaker proposes a bill banning Republican U.S. presidential candidate Donald Trump from entering the Philippines after Trump compared Filipino legal immigrants to terrorists. ](/news/2016/08/8/a-filipino-lawmaker-proposes-a-bill-banning-republican-u-s-presidential-candidate-donald-trump-from-entering-the-philippines-after-trump-co.md)
-_Context: 2016 U.S. presidential election, Donald Trump, Philippines, Republican, Terrorism in the United States_
+_Context: 2016 U.S. presidential election, Philippines, President Trump, Republican, Terrorism in the United States_
 
 ### [Japan orders its military to shoot down any North Korean missiles that threaten to strike Japan at anytime, and is placing its forces on a state of alert for at least three months, according to a Ministry of Defense official. ](/news/2016/08/8/japan-orders-its-military-to-shoot-down-any-north-korean-missiles-that-threaten-to-strike-japan-at-anytime-and-is-placing-its-forces-on-a-s.md)
 Japan ordered its military on Monday to be ready at any time to shoot down any North Korean missiles that threaten to strike Japan, putting its forces on a state of alert for at least three months, a defense ministry official and media said.

@@ -4,7 +4,7 @@
 Taliban fighters drove through checkpoints dressed in army uniforms before launching the attack.
 
 ### [Two people are killed in an attack in a Federal Security Service office in the Russian city of Khabarovsk. The gunman is also killed. The US-Israeli SITE Intelligence Group says Amaq News Agency claims the attack for Islamic State of Iraq and the Levant. The Russian Federal Security Service says the native 18-year-old perpetrator was a known member of a neo-nazi group. ](/news/2017/04/21/two-people-are-killed-in-an-attack-in-a-federal-security-service-office-in-the-russian-city-of-khabarovsk-the-gunman-is-also-killed-the-us.md)
-_Context: Amaq News Agency, Federal Security Service, ISIS, Khabarovsk, Russia, SITE Intelligence Group, neo-nazi_
+_Context: Amaq News Agency, Federal Security Service, ISIL, Khabarovsk, Russia, SITE Intelligence Group, neo-nazi_
 
 ### [Queen Elizabeth II celebrates her 91st birthday. ](/news/2017/04/21/queen-elizabeth-ii-celebrates-her-91st-birthday.md)
 The monarch marks the milestone at Newbury Racecourse, while volleys are fired in her honour.

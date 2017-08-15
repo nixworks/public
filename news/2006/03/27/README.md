@@ -4,7 +4,7 @@
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ The mayor of London, Ken Livingstone, refers to the United States Ambassador to the United Kingdom, Robert Tuttle, as a 'chiseling little crook' because the United States embassy continues to refuse to pay the London congestion charge. ](/news/2006/03/27/the-mayor-of-london-ken-livingstone-refers-to-the-united-states-ambassador-to-the-united-kingdom-robert-tuttle-as-a-chiseling-little-c.md)
-_Context: Ken Livingstone, London Mayor, London congestion charge, Robert Tuttle, United States Ambassador to the United Kingdom_
+_Context: Ken Livingstone, London congestion charge, Mayor  of London, Robert Tuttle, United States Ambassador to the United Kingdom_
 
 ### [ ''The New York Times'' reports that it has seen a memo that shows George W. Bush was determined to go to war at least two months before the 2003 invasion of Iraq. ](/news/2006/03/27/the-new-york-times-reports-that-it-has-seen-a-memo-that-shows-george-w-bush-was-determined-to-go-to-war-at-least-two-months-before-the.md)
 _Context: 2003 invasion of Iraq, George W. Bush, The New York Times, a memo_

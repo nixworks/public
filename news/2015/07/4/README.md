@@ -10,7 +10,7 @@ Yemen&#39;s dominant Houthi group and its army allies said on Saturday it had sh
 _Context: Derna, Second Libyan Civil War_
 
 ### [  A shell kills a woman and her two children as fighting continues on the Sinai Peninsula between the Egyptian Army and Islamic State of Iraq and the Levant militants. ](/news/2015/07/4/a-shell-kills-a-woman-and-her-two-children-as-fighting-continues-on-the-sinai-peninsula-between-the-egyptian-army-and-islamic-state-of-ira.md)
-_Context: Egyptian Army, ISIS, Sinai, Sinai insurgency_
+_Context: Egyptian Army, ISIL, Sinai, Sinai insurgency_
 
 ### [  A mosque bombing in northern Syria kills 15 members of Al Qaida's affiliate Nusra Front. ](/news/2015/07/4/a-mosque-bombing-in-northern-syria-kills-15-members-of-al-qaida-s-affiliate-nusra-front.md)
 _Context: Al Qaida's, Nusra Front, Syrian Civil War_
@@ -19,7 +19,7 @@ _Context: Al Qaida's, Nusra Front, Syrian Civil War_
 _Context: Armenia, Azerbaijani military, Nagorno-Karabakh conflict_
 
 ### [ The Republic of China (Taiwan) holds a large military parade in Taipei to commemorate World War II in support of its claims that Kuomintang forces led by Chiang Kai-Shek played a leading role in the defeat of the Empire of Japan with the Chinese Communist Party under Mao Tse-Tung playing a minor role. ](/news/2015/07/4/the-republic-of-china-taiwan-holds-a-large-military-parade-in-taipei-to-commemorate-world-war-ii-in-support-of-its-claims-that-kuomintang.md)
-_Context: Chiang Kai-Shek, Chinese Communist Party, Japan, Kuomintang (Chinese Nationalist Party), Mao Tse-Tung, Taipei, Taiwan, World War II_
+_Context: Chiang Kai-Shek, Chinese Communist Party, Empire of Japan, Kuomintang (Chinese Nationalist Party), Mao Tse-Tung, Taipei, Taiwan, World War II_
 
 ### [ UNESCO adds new sites to the World Heritage List: Tusi Sites (China), Susa, Cultural Landscape of Maymand (both in Iran), Singapore Botanic Gardens (Singapore), Baekje Historic Areas (Republic of Korea), Great Burkhan Khaldun Mountain and its surrounding sacred landscape (Mongolia), and the French wine producing regions of Champagne and Burgundy. ](/news/2015/07/4/unesco-adds-new-sites-to-the-world-heritage-list-tusi-sites-china-susa-cultural-landscape-of-maymand-both-in-iran-singapore-botanic.md)
 BERLIN (AFP) - The historic vineyards, wine cellars and champagne houses where the world’s most famous sparkling wines are produced were listed as a world heritage site by Unesco on Saturday.. Read more at straitstimes.com.

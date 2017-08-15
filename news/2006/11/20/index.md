@@ -16,7 +16,7 @@ Diplomatic Relations Were Severed In 1982; Iran Invites Syria, Iraq To Summit
 _Context: Kazakh Government_
 
 ### [ Ken Livingstone, the Mayor of London, accuses Home Secretary Jack Straw of participating in "demonization of Muslims only comparable to the demonization of Jews from the end of the 19th century" for his comments regarding veils. ](/news/2006/11/20/ken-livingstone-the-mayor-of-london-accuses-home-secretary-jack-straw-of-participating-in-demonization-of-muslims-only-comparable-to-the.md)
-_Context: 19th century, Home Secretary, Jack Straw, Ken Livingstone, London Mayor, anti-Islam, veil_
+_Context: 19th century, Home Secretary, Jack Straw, Ken Livingstone, Mayor  of London, anti-Islam, veil_
 
 ### [ A Berlin underground train rear-ends a stationary maintenance vehicle at the busy Sdkreuz station injuring 33 people, two of them seriously, officials said. ](/news/2006/11/20/a-berlin-underground-train-rear-ends-a-stationary-maintenance-vehicle-at-the-busy-sudkreuz-station-injuring-33-people-two-of-them-seriousl.md)
 _Context: Berlin underground_

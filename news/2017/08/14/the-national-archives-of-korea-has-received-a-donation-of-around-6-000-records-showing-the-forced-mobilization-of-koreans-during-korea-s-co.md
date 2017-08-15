@@ -1,6 +1,6 @@
 ### [2017-08-14](/news/2017/08/14/index.md)
 
-#  The National Archives of Korea has received a donation of around 6,000 records showing the forced mobilization of Koreans during Korea's colonial occupation by the Empire of Japan; part of them dealing about Hashima Island. The government agency plans to publish the records online after classification. 
+#  The National Archives of Korea has received a donation of around 6,000 records showing the forced mobilization of Koreans during Korea's colonial occupation by the Empire of Japan, some of them involving Hashima Island. The government agency plans to publish the records online after classification. 
 
 The National Archives announced it will release some six-thousand written and photographic records showing the forced mobilization of Koreans during J
 

@@ -16,7 +16,7 @@ _Context: AT&T, Al Franken, Federal Communications Commission, Minnesota, T-Mobi
 A Hercules military transport plane crashes in southern Morocco, killing 78 people, the Moroccan army says.
 
 ### [Senior North Korean diplomat Kim Kye Gwan heads to the United States for discussions on reopening the six party talks on his country's nuclear weapons program. ](/news/2011/07/26/senior-north-korean-diplomat-kim-kye-gwan-heads-to-the-united-states-for-discussions-on-reopening-the-six-party-talks-on-his-country-s-nucle.md)
-_Context: Kim Kye Gwan, North Korea, U.S., intercontinental ballistic, six-party talks_
+_Context: Kim Kye Gwan, North Korea, North Korea and weapons of mass destruction, U.S., six-party talks_
 
 ### [Senegalese rapper and government critic Omar Toure is arrested. ](/news/2011/07/26/senegalese-rapper-and-government-critic-omar-toure-is-arrested.md)
 _Context: Omar Toure, Senegal_
