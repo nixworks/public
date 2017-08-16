@@ -9,6 +9,9 @@ _Context: Abu Dhabi, Air Berlin, Etihad Airways_
 ### [Disasters in A tree falls over at a religious ceremony in Funchal, Madeira, killing at least 12 people and injuring over 50 others. ](/news/2017/08/15/disasters-in-a-tree-falls-over-at-a-religious-ceremony-in-funchal-madeira-killing-at-least-12-people-and-injuring-over-50-others.md)
 Fifty-two others are injured when the tree falls at a religious festival on the Portuguese island.
 
+### [  The International Criminal Court issues an arrest warrant against Mahmoud al-Werfalli for the war crime of murder following the circulation of several videos in which he appears to oversee the execution of over 30 prisoners. ](/news/2017/08/15/the-international-criminal-court-issues-an-arrest-warrant-against-mahmoud-al-werfalli-for-the-war-crime-of-murder-following-the-circulatio.md)
+Judges at the International Criminal Court (ICC) on Tuesday issued an arrest warrant for a Libyan National Army (LNA)commander accused over the alleged execution of dozens of prisoners.
+
 ### [ Aftermath of the Several CEOs, including Intel CEO Brian Krzanich, Under Armour CEO Kevin Plank, Merck CEO Kenneth Frazier, and Alliance for American Manufacturing president Scott Paul resign from President Trump's American Manufacturing Council due to their disagreements with Trump's response to the rally. ](/news/2017/08/15/aftermath-of-the-several-ceos-including-intel-ceo-brian-krzanich-under-armour-ceo-kevin-plank-merck-ceo-kenneth-frazier-and-alliance-fo.md)
 President Trump, on a day he faced a rebuke from Walmart’s C.E.O. and another departure from his manufacturing council, said the executives were “embarrassed” for making products overseas.
 

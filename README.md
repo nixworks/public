@@ -1,4 +1,15 @@
-## [News](/news/2017/08/15/index.md)
+## [News](/news/2017/08/16/index.md)
+
+### [A mass burial of victims of the landslide is held in Freetown to free up space in mortuaries. Nearly 400 people are confirmed dead with at least 600 missing. ](/news/2017/08/16/a-mass-burial-of-victims-of-the-landslide-is-held-in-freetown-to-free-up-space-in-mortuaries-nearly-400-people-are-confirmed-dead-with-at-l.md)
+Nearly 400 are dead and 600 are still unaccounted for as rescue efforts continue in Freetown.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/08/15/index.md)
 
 ### [Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md)
 A woman suicide bomber blew herself up and killed 27 others at a market in northeast Nigeria on Tuesday, two local officials said, in an attack bearing the hallmark of Boko Haram militants.
@@ -9,16 +20,15 @@ _Context: Abu Dhabi, Air Berlin, Etihad Airways_
 ### [Disasters in A tree falls over at a religious ceremony in Funchal, Madeira, killing at least 12 people and injuring over 50 others. ](/news/2017/08/15/disasters-in-a-tree-falls-over-at-a-religious-ceremony-in-funchal-madeira-killing-at-least-12-people-and-injuring-over-50-others.md)
 Fifty-two others are injured when the tree falls at a religious festival on the Portuguese island.
 
+### [  The International Criminal Court issues an arrest warrant against Mahmoud al-Werfalli for the war crime of murder following the circulation of several videos in which he appears to oversee the execution of over 30 prisoners. ](/news/2017/08/15/the-international-criminal-court-issues-an-arrest-warrant-against-mahmoud-al-werfalli-for-the-war-crime-of-murder-following-the-circulatio.md)
+Judges at the International Criminal Court (ICC) on Tuesday issued an arrest warrant for a Libyan National Army (LNA)commander accused over the alleged execution of dozens of prisoners.
+
 ### [ Aftermath of the Several CEOs, including Intel CEO Brian Krzanich, Under Armour CEO Kevin Plank, Merck CEO Kenneth Frazier, and Alliance for American Manufacturing president Scott Paul resign from President Trump's American Manufacturing Council due to their disagreements with Trump's response to the rally. ](/news/2017/08/15/aftermath-of-the-several-ceos-including-intel-ceo-brian-krzanich-under-armour-ceo-kevin-plank-merck-ceo-kenneth-frazier-and-alliance-fo.md)
 President Trump, on a day he faced a rebuke from Walmart’s C.E.O. and another departure from his manufacturing council, said the executives were “embarrassed” for making products overseas.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/08/14/index.md)
+## [Day Before Yesterday](/news/2017/08/14/index.md)
 
 ### [London's Big Ben, atop Elizabeth Tower, will fall silent for four years beginning 21 August while essential repair works are performed. ](/news/2017/08/14/london-s-big-ben-atop-elizabeth-tower-will-fall-silent-for-four-years-beginning-21-august-while-essential-repair-works-are-performed.md)
 The famous chimes will sound for the final time on Monday before maintenance work takes place.
@@ -26,10 +36,13 @@ The famous chimes will sound for the final time on Monday before maintenance wor
 ### [''Deadpool 2''American stuntwoman Joi 'SJ' Harris is killed in a motorcycle crash in Vancouver, British Columbia, Canada, while filming for ''Deadpool 2''. ](/news/2017/08/14/deadpool-2-pamerican-stuntwoman-joi-sj-harris-is-killed-in-a-motorcycle-crash-in-vancouver-british-columbia-canada-while-filming-for.md)
 The late SJ Harris was noted for being the first African-American female professional road racer.
 
+### [Confederate monuments and memorials, Aftermath of the During a protest in Durham, North Carolina to show solidarity with the events in Charlottesville, Virginia, a Confederate monument was pulled down; a woman has been arrested and charged in connection with the event. ](/news/2017/08/14/confederate-monuments-and-memorials-aftermath-of-the-during-a-protest-in-durham-north-carolina-to-show-solidarity-with-the-events-in-charl.md)
+_Context: 2017 Unite the Right rally, Confederate monuments and memorials, Durham, North Carolina_
+
 ### [A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 350 people with the death toll expected to rise as high as 500. ](/news/2017/08/14/a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-350-people-with-the-death-toll-expected-to-rise-as-h.md)
 There are fears for many who may have been asleep when the mudslide hit near Freetown, Sierra Leone.
 
-### [The National Archives of Korea has received a donation of around 6,000 records showing the forced mobilization of Koreans during Korea's colonial occupation by the Empire of Japan, some of them involving Hashima Island. The government agency plans to publish the records online after classification. ](/news/2017/08/14/the-national-archives-of-korea-has-received-a-donation-of-around-6-000-records-showing-the-forced-mobilization-of-koreans-during-korea-s-col.md)
+### [The National Archives of Korea has received a donation of around 6,000 records showing the forced mobilization of Koreans during Korea's colonial occupation by Japan, some of them involving Hashima Island. The government agency plans to publish the records online after classification. ](/news/2017/08/14/the-national-archives-of-korea-has-received-a-donation-of-around-6-000-records-showing-the-forced-mobilization-of-koreans-during-korea-s-col.md)
 The National Archives announced it will release some six-thousand written and photographic records showing the forced mobilization of Koreans during J
 
 ### [The International Institute for Strategic Studies releases a report arguing that North Korea has acquired a high-performance liquid-propellant engine for its missile program, probably from illicit networks in Russia and Ukraine, likely produced by Yuzhmash facilities. Ukraine denies the allegations. ](/news/2017/08/14/the-international-institute-for-strategic-studies-releases-a-report-arguing-that-north-korea-has-acquired-a-high-performance-liquid-propella.md)
@@ -52,26 +65,7 @@ _Context: Garden Bridge, Mayor of London, Politics of London, Sadiq Khan_
 
 ---
 
-## [Day Before Yesterday](/news/2017/08/13/index.md)
-
-### [During combat operations in northern Iraq, two U.S. service members are killed and five injured. ](/news/2017/08/13/during-combat-operations-in-northern-iraq-two-u-s-service-members-are-killed-and-five-injured.md)
-Two U.S. service members were killed and five injured during combat operations in northern Iraq on Sunday, the military said, adding that initial reports indicated the incident was not due to enemy contact.
-
-### [A Syrian Army commando unit backed by Russian warplanes and helicopters kills 25 ISIL militants in Central Syria, in the northeast of the Homs Governorate. ](/news/2017/08/13/a-syrian-army-commando-unit-backed-by-russian-warplanes-and-helicopters-kills-25-isil-militants-in-central-syria-in-the-northeast-of-the-ho.md)
-A commando operation backed by Russian warplanes and helicopters has killed 25 members of the Islamic State jihadist group in central Syria, a monitor said Sunday. Supported by regime ally Russia, Syria&#x27;s army has waged a months-long offensive to recapture the vast desert region that stretches from
-
-### [At least 17 people, including two Canadians, are reported dead and eight others injured in an attack on a Turkish themed restaurant in Ouagadougou, the capital of Burkina Faso. ](/news/2017/08/13/at-least-17-people-including-two-canadians-are-reported-dead-and-eight-others-injured-in-an-attack-on-a-turkish-themed-restaurant-in-ouaga.md)
-At least 17 people, including foreigners, were reportedly shot dead as suspected Islamist militants attacked a Turkish restaurant in central Ouagadougou, the capital of Burkina-Faso, and started a gun battle with the military.
-
-### [A magnitude 6.4 earthquake occurs off the Indonesian island of Sumatra. There are no reports of  casualties or structural damage to buildings. ](/news/2017/08/13/a-magnitude-6-4-earthquake-occurs-off-the-indonesian-island-of-sumatra-there-are-no-reports-of-casualties-or-structural-damage-to-building.md)
-SINGAPORE: An earthquake of magnitude 6.5 struck west of Indonesia&#039;s island of Sumatra on Sunday (Aug 13), the United States Geological Survey (USGS) said. There were no immediate reports of casualties or damage in the quake, which hit at a depth of 67km, at a distance of 81km west of the city of Bengkulu. &#034;The earthquake was quite strong and shallow, it was felt all the way to Padang, West Sumatra, but there was no threat of a tsunami,&#034; Mochammad Riyadi, an official at Indonesia&#039;s meteorology and geophysics agency told AFP. He said officials were checking if there were any casualties or damage. Bengkulu resident Neng Hasnah said the quake felt very strong for a few seconds, forcing her and her family members to flee her house. &#034;I was carrying my seven-month old granddaughter and I had to run, all the neighbours also ran outside their homes,&#034; Hasnah told AFP. TREMORS FELT IN SINGAPORE Channel NewsAsia received calls from residents in Singapore living in Toa Payoh and Farrer Road saying they felt tremors. &#034;Tremors felt in Lor 1 Toa Payoh at around 11.10am,&#034; said Andrew Tan after contacting Channel NewsAsia via WhatsApp. Some took to twitter wondering if the tremors were a result of an earthquake in the region. https://twitter.com/dogmacatmamagma/status/896570356680359937 https://twitter.com/rohitdadwal/status/896572452968341506 Twitter user Pieterldenburg posted a video of a ceiling lamp swaying: https://twitter.com/MRPIE314/status/896570511127224320 Indonesia sits on the Pacific &#034;Ring of Fire&#034; where tectonic plates collide, causing frequent seismic and volcanic activity. An earthquake struck Indonesia&#039;s western Aceh province in December 2016, killing more than 100 people, injuring many more and leaving tens of thousands homeless.
-
-### [At least 44 are killed in a landslide on a highway in the northern India province of Himachal Pradesh. ](/news/2017/08/13/at-least-44-are-killed-in-a-landslide-on-a-highway-in-the-northern-india-province-of-himachal-pradesh.md)
-_Context: August 2017 Nepal and India floods, Himachal Pradesh, highway_
-
----
-
-## [Previous Day...](/news/2017/08/12/index.md)
+## [Previous Day...](/news/2017/08/13/index.md)
 
 ---
 
