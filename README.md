@@ -15,7 +15,7 @@ Most of the daily information we see on the mainstream media today is the news e
 A woman suicide bomber blew herself up and killed 27 others at a market in northeast Nigeria on Tuesday, two local officials said, in an attack bearing the hallmark of Boko Haram militants.
 
 ### [Air Berlin, Germany's second largest airline, files for bankruptcy protection after its main shareholder, Abu Dhabi-based Etihad Airways, chose not to make more financing available. ](/news/2017/08/15/air-berlin-germany-s-second-largest-airline-files-for-bankruptcy-protection-after-its-main-shareholder-abu-dhabi-based-etihad-airways-ch.md)
-_Context: Abu Dhabi, Air Berlin, Etihad Airways_
+_Context: Abu Dhabi, Air Berlin, Airlines of Germany, Etihad Airways_
 
 ### [Disasters in A tree falls over at a religious ceremony in Funchal, Madeira, killing at least 12 people and injuring over 50 others. ](/news/2017/08/15/disasters-in-a-tree-falls-over-at-a-religious-ceremony-in-funchal-madeira-killing-at-least-12-people-and-injuring-over-50-others.md)
 Fifty-two others are injured when the tree falls at a religious festival on the Portuguese island.
@@ -36,13 +36,13 @@ The famous chimes will sound for the final time on Monday before maintenance wor
 ### [''Deadpool 2''American stuntwoman Joi 'SJ' Harris is killed in a motorcycle crash in Vancouver, British Columbia, Canada, while filming for ''Deadpool 2''. ](/news/2017/08/14/deadpool-2-pamerican-stuntwoman-joi-sj-harris-is-killed-in-a-motorcycle-crash-in-vancouver-british-columbia-canada-while-filming-for.md)
 The late SJ Harris was noted for being the first African-American female professional road racer.
 
-### [Confederate monuments and memorials, Aftermath of the During a protest in Durham, North Carolina to show solidarity with the events in Charlottesville, Virginia, a Confederate monument was pulled down; a woman has been arrested and charged in connection with the event. ](/news/2017/08/14/confederate-monuments-and-memorials-aftermath-of-the-during-a-protest-in-durham-north-carolina-to-show-solidarity-with-the-events-in-charl.md)
-_Context: 2017 Unite the Right rally, Confederate monuments and memorials, Durham, North Carolina_
+### [During a protest in Durham, North Carolina, to show solidarity with the events in Charlottesville, Virginia, a Confederate monument was pulled down; a woman has been arrested and charged in connection with the event. ](/news/2017/08/14/during-a-protest-in-durham-north-carolina-to-show-solidarity-with-the-events-in-charlottesville-virginia-a-confederate-monument-was-pull.md)
+_Context: Charlottesville, Virginia, Confederate monuments and memorials, Durham, North Carolina, Unite the Right rally_
 
 ### [A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 350 people with the death toll expected to rise as high as 500. ](/news/2017/08/14/a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-350-people-with-the-death-toll-expected-to-rise-as-h.md)
 There are fears for many who may have been asleep when the mudslide hit near Freetown, Sierra Leone.
 
-### [The National Archives of Korea has received a donation of around 6,000 records showing the forced mobilization of Koreans during Korea's colonial occupation by Japan, some of them involving Hashima Island. The government agency plans to publish the records online after classification. ](/news/2017/08/14/the-national-archives-of-korea-has-received-a-donation-of-around-6-000-records-showing-the-forced-mobilization-of-koreans-during-korea-s-col.md)
+### [The National Archives of Korea has received a donation of around 6,000 records showing the forced mobilization of Koreans during Korea's colonial occupation by the Empire of Japan, some of them involving Hashima Island. The government agency plans to publish the records online after classification. ](/news/2017/08/14/the-national-archives-of-korea-has-received-a-donation-of-around-6-000-records-showing-the-forced-mobilization-of-koreans-during-korea-s-col.md)
 The National Archives announced it will release some six-thousand written and photographic records showing the forced mobilization of Koreans during J
 
 ### [The International Institute for Strategic Studies releases a report arguing that North Korea has acquired a high-performance liquid-propellant engine for its missile program, probably from illicit networks in Russia and Ukraine, likely produced by Yuzhmash facilities. Ukraine denies the allegations. ](/news/2017/08/14/the-international-institute-for-strategic-studies-releases-a-report-arguing-that-north-korea-has-acquired-a-high-performance-liquid-propella.md)

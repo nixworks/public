@@ -4,7 +4,7 @@
 A woman suicide bomber blew herself up and killed 27 others at a market in northeast Nigeria on Tuesday, two local officials said, in an attack bearing the hallmark of Boko Haram militants.
 
 ### [Air Berlin, Germany's second largest airline, files for bankruptcy protection after its main shareholder, Abu Dhabi-based Etihad Airways, chose not to make more financing available. ](/news/2017/08/15/air-berlin-germany-s-second-largest-airline-files-for-bankruptcy-protection-after-its-main-shareholder-abu-dhabi-based-etihad-airways-ch.md)
-_Context: Abu Dhabi, Air Berlin, Etihad Airways_
+_Context: Abu Dhabi, Air Berlin, Airlines of Germany, Etihad Airways_
 
 ### [Disasters in A tree falls over at a religious ceremony in Funchal, Madeira, killing at least 12 people and injuring over 50 others. ](/news/2017/08/15/disasters-in-a-tree-falls-over-at-a-religious-ceremony-in-funchal-madeira-killing-at-least-12-people-and-injuring-over-50-others.md)
 Fifty-two others are injured when the tree falls at a religious festival on the Portuguese island.
