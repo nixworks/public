@@ -1,15 +1,15 @@
 ## [News](/news/2017/08/16/index.md)
 
-### [Several Confederate monuments are taken down overnight in the city of Baltimore, Maryland, including the Stonewall Jackson and Robert E. Lee Monument, Confederate Soldiers and Sailors Monument, Confederate Women's Monument and the Roger B. Taney sculpture. The Baltimore City Council unanimously voted to remove and destroy the monuments on August 14. ](/news/2017/08/16/several-confederate-monuments-are-taken-down-overnight-in-the-city-of-baltimore-maryland-including-the-stonewall-jackson-and-robert-e-lee.md)
-Journalists in Maryland city post images of monuments being removed after death of civil rights activist at Charlottesville protest
+### [Several Confederate monuments are taken down overnight in the city of Baltimore, Maryland, including the Stonewall Jackson and Robert E. Lee Monument, Confederate Soldiers and Sailors Monument, Confederate Women's Monument and the Roger B. Taney sculpture. ](/news/2017/08/16/several-confederate-monuments-are-taken-down-overnight-in-the-city-of-baltimore-maryland-including-the-stonewall-jackson-and-robert-e-lee.md)
+City leaders had vowed to remove the city&#x27;s four Confederacy-linked monuments following the deadly violence in Virginia over the weekend.
 
-### [ Aftermath of the 3M CEO Inge Thulin and Campbell CEO Denise Morrison resign from the American Manufacturing Council in protest of Trump's reaction to the Alt-right's actions at Charlottesville, Virginia, bringing the total number of resignations this week to 8. ](/news/2017/08/16/aftermath-of-the-3m-ceo-inge-thulin-and-campbell-ceo-denise-morrison-resign-from-the-american-manufacturing-council-in-protest-of-trump-s-r.md)
-The business backlash to the president follows his tepid response to violence at a white nationalist rally over the weekend. 
+### [Aftermath of the 3M CEO Inge Thulin and Campbell CEO Denise Morrison resign from the American Manufacturing Council in protest of Trump's reaction to the alt-right's actions at Charlottesville, Virginia, bringing the total number of resignations this week to 8. ](/news/2017/08/16/aftermath-of-the-3m-ceo-inge-thulin-and-campbell-ceo-denise-morrison-resign-from-the-american-manufacturing-council-in-protest-of-trump-s-re.md)
+Campbell Soup CEO Denise Morrison resigned from the president&#039;s manufacturing jobs initiative. 
 
 ### [A mass burial of victims of the landslide is held in Freetown to free up space in mortuaries. Nearly 400 people are confirmed dead with at least 600 missing. ](/news/2017/08/16/a-mass-burial-of-victims-of-the-landslide-is-held-in-freetown-to-free-up-space-in-mortuaries-nearly-400-people-are-confirmed-dead-with-at-l.md)
 Nearly 400 are dead and 600 are still unaccounted for as rescue efforts continue in Freetown.
 
-### [A United States Army Combat Aviation Brigade UH-60 Black Hawk helicopter crashes off the coast of Hawaii, with five people on board. A United States Coast Guard-led search for the missing is underway.  ](/news/2017/08/16/a-united-states-army-combat-aviation-brigade-uh-60-black-hawk-helicopter-crashes-off-the-coast-of-hawaii-with-five-people-on-board-a-unite.md)
+### [A United States Army Combat Aviation Brigade UH-60 Black Hawk helicopter crashes off the coast of Hawaii, with five people on board. A United States Coast Guard-led search for the missing is underway. ](/news/2017/08/16/a-united-states-army-combat-aviation-brigade-uh-60-black-hawk-helicopter-crashes-off-the-coast-of-hawaii-with-five-people-on-board-a-unite.md)
 A debris field was spotted in the ocean after the Army Black Hawk went down near the island of Oahu.
 
 ### [At least 32 people are killed in a series of police raids near Manila, Philippines, allegedly due to the ongoing drug war. ](/news/2017/08/16/at-least-32-people-are-killed-in-a-series-of-police-raids-near-manila-philippines-allegedly-due-to-the-ongoing-drug-war.md)
@@ -52,7 +52,7 @@ The famous chimes will sound for the final time on Monday before maintenance wor
 The late SJ Harris was noted for being the first African-American female professional road racer.
 
 ### [During a protest in Durham, North Carolina, to show solidarity with the events in Charlottesville, Virginia, a Confederate monument was pulled down; a woman has been arrested and charged in connection with the event. ](/news/2017/08/14/during-a-protest-in-durham-north-carolina-to-show-solidarity-with-the-events-in-charlottesville-virginia-a-confederate-monument-was-pull.md)
-_Context: Charlottesville, Virginia, Confederate monuments and memorials, Durham, North Carolina, events_
+_Context: Charlottesville, Virginia, Confederate monuments and memorials, Durham, North Carolina, Unite the Right rally_
 
 ### [A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 350 people with the death toll expected to rise as high as 500. ](/news/2017/08/14/a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-350-people-with-the-death-toll-expected-to-rise-as-h.md)
 There are fears for many who may have been asleep when the mudslide hit near Freetown, Sierra Leone.
