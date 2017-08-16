@@ -12,7 +12,7 @@ Nearly 400 are dead and 600 are still unaccounted for as rescue efforts continue
 ### [A United States Army Combat Aviation Brigade UH-60 Black Hawk helicopter crashes off the coast of Hawaii, with five people on board. A United States Coast Guard-led search for the missing is underway.  ](/news/2017/08/16/a-united-states-army-combat-aviation-brigade-uh-60-black-hawk-helicopter-crashes-off-the-coast-of-hawaii-with-five-people-on-board-a-unite.md)
 A debris field was spotted in the ocean after the Army Black Hawk went down near the island of Oahu.
 
-### [Around 32 people are killed in a series of police raids near Manila, Philippines, allegedly due to the ongoing drug war. ](/news/2017/08/16/around-32-people-are-killed-in-a-series-of-police-raids-near-manila-philippines-allegedly-due-to-the-ongoing-drug-war.md)
+### [At least 32 people are killed in a series of police raids near Manila, Philippines, allegedly due to the ongoing drug war. ](/news/2017/08/16/at-least-32-people-are-killed-in-a-series-of-police-raids-near-manila-philippines-allegedly-due-to-the-ongoing-drug-war.md)
 Raids near Manila latest in campaign that has killed thousands and follow claim US has toned down criticism of human rights abuses
 
 ### [Researchers from the University of Cambridge suggest that the ''Chilesaurus'' may be the so-called 'missing link' between the ''Stegosaurus'' and the ''Tyrannosaurus''. ](/news/2017/08/16/researchers-from-the-university-of-cambridge-suggest-that-the-chilesaurus-may-be-the-so-called-missing-link-between-the-stegosaurus.md)
