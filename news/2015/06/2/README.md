@@ -13,7 +13,7 @@ _Context: Boko Haram, Maiduguri, Nigeria_
 The boyfriend of a teenager who had her leg amputated after The Smiler ride crash said Alton Towers should have known there was something wrong with the ride. Joe Pugh, who was on the rollercoaster with his girlfriend, Leah Washington, at Alton Towers, was giving his views nearly two weeks after the crash that left his knees shattered.
 
 ### [The official death toll from the Indian heat wave rises to 2,330 with meteorologists warning that relief from the monsoon season could still be days away. ](/news/2015/06/2/the-official-death-toll-from-the-indian-heat-wave-rises-to-2-330-with-meteorologists-warning-that-relief-from-the-monsoon-season-could-still.md)
-_Context: 2015 Indian heat wave, Monsoon, heat wave, meteorologist_
+_Context: 2015 Indian heat wave, heat wave, meteorologist, monsoon_
 
 ### [Rescue efforts continue for people on board the ship that sank on the Yangtze River in China's Hubei province with over 450 people on board. So far, fewer than 12 have been rescued and five bodies recovered. ](/news/2015/06/2/rescue-efforts-continue-for-people-on-board-the-ship-that-sank-on-the-yangtze-river-in-china-s-hubei-province-with-over-450-people-on-board.md)
 _Context: China, Hubei, Sinking of the ''Dong Fang Zhi Xing'', Yangtze River_

@@ -22,7 +22,7 @@ The Latest on a wrong-way crash that killed five Vermont high school students (a
 Ethiopia declares a six-month state of emergency following months of anti-government protests by members of the two largest ethnic groups.
 
 ### [Hillary Clinton and Donald Trump hold the second presidential debate of the 2016 U.S. presidential election at Washington University in St. Louis, Missouri, in a "town meeting" format. ](/news/2016/10/9/hillary-clinton-and-donald-trump-hold-the-second-presidential-debate-of-the-2016-u-s-presidential-election-at-washington-university-in-st.md)
-_Context: 2016 U.S. presidential election, Hillary Clinton, Missouri, President Trump, United States presidential election debates, 2016, Washington University in St. Louis_
+_Context: 2016 U.S. presidential election, Donald Trump, Hillary Clinton, Missouri, United States presidential election debates, 2016, Washington University in St. Louis_
 
 ### [Voters in Lithuania vote to elect representatives for the 141-seat parliament. ](/news/2016/10/9/voters-in-lithuania-vote-to-elect-representatives-for-the-141-seat-parliament.md)
 _Context: Lithuania, Lithuanian parliamentary election, 2016, parliament_

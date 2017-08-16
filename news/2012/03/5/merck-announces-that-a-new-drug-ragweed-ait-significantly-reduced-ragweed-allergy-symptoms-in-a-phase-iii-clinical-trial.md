@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [ Merck chief executive officer Kenneth Frazier resigns from President Trump's American Manufacturing Council, citing his opposition to Trump's lack of a strong response denouncing the incidents instigated by white supremacists in Charlottesville, Virginia. ](/news/2017/08/14/merck-chief-executive-officer-kenneth-frazier-resigns-from-president-trump-s-american-manufacturing-council-citing-his-opposition-to-trump.md) _Context: Merck_
+1. [ Aftermath of the Several CEOs, including Intel CEO Brian Krzanich, Under Armour CEO Kevin Plank, Merck CEO Kenneth Frazier, and Alliance for American Manufacturing president Scott Paul resign from President Trump's American Manufacturing Council due to their disagreements with Trump's response to the rally. ](/news/2017/08/15/aftermath-of-the-several-ceos-including-intel-ceo-brian-krzanich-under-armour-ceo-kevin-plank-merck-ceo-kenneth-frazier-and-alliance-fo.md) _Context: Merck_
 2. [The United States Food and Drug Administration approves the Merck & Co. drug, Bridion, that reverses the effects of muscle relaxants used during surgery. ](/news/2015/12/15/the-united-states-food-and-drug-administration-approves-the-merck-co-drug-bridion-that-reverses-the-effects-of-muscle-relaxants-used-du.md) _Context: Merck_
 3. [Merck agrees to buy "superbug"-fighter Cubist Pharmaceuticals for $9.5 billion. ](/news/2014/12/8/merck-agrees-to-buy-superbug-fighter-cubist-pharmaceuticals-for-9-5-billion.md) _Context: Merck_
 4. [Merck & Co. agrees to buy Idenix Pharmaceuticals for US$3.85 billion. ](/news/2014/06/9/merck-co-agrees-to-buy-idenix-pharmaceuticals-for-us-3-85-billion.md) _Context: Merck_

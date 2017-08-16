@@ -22,7 +22,7 @@ _Context: Mingora, Pakistan, Swat, Pakistan, Taliban, captures, military_
 _Context: Canada, Germany, Magna International, Opel, automakers, company_
 
 ### [ North Korea launches its sixth ballistic missile despite the United Nations Security Council's possible international sanctions. ](/news/2009/05/30/north-korea-launches-its-sixth-ballistic-missile-despite-the-united-nations-security-council-s-possible-international-sanctions.md)
-_Context: North Korea, North Korea and weapons of mass destruction, United Nations, United Nations Security Council, ballistic missile, sanctions_
+_Context: North Korea, United Nations, United Nations Security Council, ballistic missile, intercontinental ballistic, sanctions_
 
 ### [ Sale, Victoria, Australia hosts triple J's One Night Stand](/news/2009/05/30/sale-victoria-australia-hosts-triple-j-s-one-night-stand.md)
 ## [Previous Day...](/news/2009/05/29/index.md)

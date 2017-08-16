@@ -7,7 +7,7 @@ News and opinion from The Times &amp; The Sunday Times
 _Context: Baghdad, Conflict in Iraq, US Troops_
 
 ### [ 2005 Maharashtra floods: The death toll from the series of heavy monsoon rains and landslides they have triggered has been raised to at least 418 people in India's western state of Maharashtra.](/news/2005/07/27/2005-maharashtra-floods-the-death-toll-from-the-series-of-heavy-monsoon-rains-and-landslides-they-have-triggered-has-been-raised-to-at-lea.md)
-_Context: Maharashtra, Monsoon, death toll, recent floods_
+_Context: Maharashtra, death toll, monsoon, recent floods_
 
 ### [ NASA postpones indefinitely future launches of the Space Shuttle after a piece of insulation broke off the Space Shuttle external tank during the July 26 launch of the ''Discovery''. ](/news/2005/07/27/nasa-postpones-indefinitely-future-launches-of-the-space-shuttle-after-a-piece-of-insulation-broke-off-the-space-shuttle-external-tank-duri.md)
 _Context: Discovery, External Tank, July 26, NASA, Space Shuttle_

@@ -1,7 +1,7 @@
 ## [2008-05-2](/news/2008/05/2/index.md)
 
 ### [ Conservative Party candidate Boris Johnson is elected as the Mayor of London replacing Ken Livingstone, capping huge gains by the Conservatives in local elections, which gave them a net gain of 256 council seats and a net gain of 12 city councils. ](/news/2008/05/2/conservative-party-candidate-boris-johnson-is-elected-as-the-mayor-of-london-replacing-ken-livingstone-capping-huge-gains-by-the-conservat.md)
-_Context: Boris Johnson, Conservative Party, Ken Livingstone, Mayor  of London, local elections_
+_Context: Boris Johnson, Conservative Party, Ken Livingstone, Mayor of London, local elections_
 
 ### [ The Olympic flame is back on Chinese soil as the Olympics torch relay continues in Hong Kong, Special Administrative Region of the People's Republic of China. ](/news/2008/05/2/the-olympic-flame-is-back-on-chinese-soil-as-the-olympics-torch-relay-continues-in-hong-kong-special-administrative-region-of-the-people-s.md)
 _Context: 2008 Summer Olympics torch relay, China, Hong Kong, Olympic Torch, Special Administrative Region_

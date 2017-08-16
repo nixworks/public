@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Floods in Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/floods-in-flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md) _Context: Nepal_
+1. [Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md) _Context: Nepal_
 2. [In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military-exercises-focusing-on-co.md) _Context: Nepal_
 3. [Three UNHCR workers - one from Sudan and two from Nepal - are kidnapped by unidentified gunmen in Geneina, the capital of the West Darfur state. ](/news/2016/11/28/three-unhcr-workers-one-from-sudan-and-two-from-nepal-are-kidnapped-by-unidentified-gunmen-in-geneina-the-capital-of-the-west-darfur-st.md) _Context: Nepal_
 4. [A bus skids off a mountain road in central Nepal, killing at least 19 people and injuring more than a dozen others. ](/news/2016/09/27/a-bus-skids-off-a-mountain-road-in-central-nepal-killing-at-least-19-people-and-injuring-more-than-a-dozen-others.md) _Context: Nepal_

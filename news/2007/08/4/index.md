@@ -40,7 +40,7 @@ _Context: Martian, NASA, Phoenix Mars Lander, Planum Boreum_
 Britain tried to contain an outbreak of highly infectious foot and mouth on Saturday, culling cattle at a farm outside London to prevent a repeat of the ruinous damage caused by the disease six years ago.
 
 ### [ 2007 South Asian floods: The Ganges River system will come under further strain from monsoon floods as 20 million are homeless in Nepal, India and Bangladesh. Almost 200 people have died. ](/news/2007/08/4/2007-south-asian-floods-the-ganges-river-system-will-come-under-further-strain-from-monsoon-floods-as-20-million-are-homeless-in-nepal-in.md)
-_Context: 2007 South Asian floods, Bangladesh, Ganges River, India, Monsoon, Nepal, flood_
+_Context: 2007 South Asian floods, Bangladesh, Ganges River, India, Nepal, flood, monsoon_
 
 ### [ Ten pro-Taliban militants and four Pakistan Army soldiers are killed in a clash in North Waziristan near the Afghanistan border. In another incident, a suicide car bomber kills six in Parachinar, North West Frontier Province in Pakistan. ](/news/2007/08/4/ten-pro-taliban-militants-and-four-pakistan-army-soldiers-are-killed-in-a-clash-in-north-waziristan-near-the-afghanistan-border-in-another.md)
 _Context: Afghanistan's, Khyber Pakhtunkhwa, Pakistan Army, Parachinar, Taliban, Waziristan, soldier_

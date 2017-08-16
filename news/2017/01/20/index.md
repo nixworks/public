@@ -34,7 +34,7 @@ Donald J Trump has capped the day of his inauguration with dancing and celebrati
 The Gambian strongman Yahya Jammeh has agreed to step down, officials involved in negotiations say.
 
 ### [The U.S. Senate confirms the first two members of President Donald Trump's Cabinet: retired Marine General James Mattis as Secretary of Defense, and retired Marine general John F. Kelly as Secretary of Homeland Security. ](/news/2017/01/20/the-u-s-senate-confirms-the-first-two-members-of-president-donald-trump-s-cabinet-retired-marine-general-james-mattis-as-secretary-of-defe.md)
-_Context: Cabinet, Homeland Security Secretary, James Mattis, John F. Kelly, President, President Trump, Secretary of Defense, Trump administration_
+_Context: Cabinet, Donald Trump, Homeland Security Secretary, James Mattis, John F. Kelly, President, Secretary of Defense, Trump administration_
 
 ## [Previous Day...](/news/2017/01/19/index.md)
 

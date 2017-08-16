@@ -28,7 +28,7 @@ Her party’s top official was forced to step aside after he was cited questioni
 _Context: Brazil, general strike_
 
 ### [In a meeting for the NRA, U.S. president Donald Trump criticizes Democratic candidate Jon Ossoff. ](/news/2017/04/28/in-a-meeting-for-the-nra-u-s-president-donald-trump-criticizes-democratic-candidate-jon-ossoff.md)
-_Context: Georgia's 6th congressional district special election, 2017, Jon Ossoff, NRA, President Trump_
+_Context: Donald Trump, Georgia's 6th congressional district special election, 2017, Jon Ossoff, NRA_
 
 ## [Previous Day...](/news/2017/04/27/index.md)
 

@@ -13,7 +13,7 @@
 
 1. [At least 41 people have been killed, 8 injured, and scores are missing in landslides in Nepal's Taplejung District caused by heavy rain. ](/news/2015/06/11/at-least-41-people-have-been-killed-8-injured-and-scores-are-missing-in-landslides-in-nepal-s-taplejung-district-caused-by-heavy-rain.md) _Context: Nepal, landslide_
 2. [Landslides in two remote Nepalese villages kill six people and injure another ten. ](/news/2011/07/15/landslides-in-two-remote-nepalese-villages-kill-six-people-and-injure-another-ten.md) _Context: Nepal, landslide_
-3. [Floods in Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/floods-in-flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md) _Context: Nepal_
+3. [Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md) _Context: Nepal_
 4. [At least 24 people are killed by a landslide in the small village of Ayu in southern Kyrgyzstan. ](/news/2017/04/29/at-least-24-people-are-killed-by-a-landslide-in-the-small-village-of-ayu-in-southern-kyrgyzstan.md) _Context: landslide_
 5. [At least 17 people are killed after an Andean landslide strikes the Colombian city of Manizales. ](/news/2017/04/19/at-least-17-people-are-killed-after-an-andean-landslide-strikes-the-colombian-city-of-manizales.md) _Context: landslide_
 6. [In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military-exercises-focusing-on-co.md) _Context: Nepal_

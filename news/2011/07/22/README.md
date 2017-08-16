@@ -25,7 +25,7 @@ General Electric Co notched a better-than-expected 21.6 percent rise in earnings
 _Context: China, Xinyang_
 
 ### [Nepalese officials say monsoon rains have swollen two major rivers in the country and have increased the threat of widespread flooding. ](/news/2011/07/22/nepalese-officials-say-monsoon-rains-have-swollen-two-major-rivers-in-the-country-and-have-increased-the-threat-of-widespread-flooding.md)
-_Context: Monsoon, Nepal_
+_Context: Nepal, monsoon_
 
 ### [The al-Shabaab Islamist militant group in Somalia says a ban on aid groups working in parts of the country remains. ](/news/2011/07/22/the-al-shabaab-islamist-militant-group-in-somalia-says-a-ban-on-aid-groups-working-in-parts-of-the-country-remains.md)
 Rejecting UN famine claims, opposition group says it will not allow certain support groups into drought-hit Somalia.
@@ -34,7 +34,7 @@ Rejecting UN famine claims, opposition group says it will not allow certain supp
 _Context: ASEAN Regional Forum, Bali, Indonesia, North Korea, South Korea_
 
 ### [North Korea appoints Ri Yong-ho as its new negotiator in the Six-party talks on the North Korean nuclear weapons program. ](/news/2011/07/22/north-korea-appoints-ri-yong-ho-as-its-new-negotiator-in-the-six-party-talks-on-the-north-korean-nuclear-weapons-program.md)
-_Context: North Korea, North Korea and weapons of mass destruction, Ri Yong-ho, six-party talks_
+_Context: North Korea, Ri Yong-ho, intercontinental ballistic, six-party talks_
 
 ### [Up to 100 asylum seekers, many from Iran, riot again at Australia's Christmas Island Immigration Reception and Processing Centre. ](/news/2011/07/22/up-to-100-asylum-seekers-many-from-iran-riot-again-at-australia-s-christmas-island-immigration-reception-and-processing-centre.md)
 The Immigration Department says up to 100 people armed with makeshift weapons may have been involved in the latest riot at the Christmas Island Detention Centre overnight.

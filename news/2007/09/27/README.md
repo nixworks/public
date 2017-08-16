@@ -28,7 +28,7 @@ _Context: Afghanistan's, International Red Cross, Wardak province_
 _Context: 2007 Pakistani presidential election, Pakistan, Pervez Musharraf, President_
 
 ### [ A new round of talks aimed at ending North Korea's nuclear program starts in Beijing. ](/news/2007/09/27/a-new-round-of-talks-aimed-at-ending-north-korea-s-nuclear-program-starts-in-beijing.md)
-_Context: Beijing, North Korea and weapons of mass destruction_
+_Context: Beijing, intercontinental ballistic_
 
 ### [ 2007 Burmese anti-government protests: According to sources close to the military, Senior General Than Shwe is now directly commanding soldiers after several commanders refused to use force to crack down on protesters. ](/news/2007/09/27/2007-burmese-anti-government-protests-p-according-to-sources-close-to-the-military-senior-general-than-shwe-is-now-directly-commanding-sol.md)
 _Context: 2007 Burmese anti-government protests, Than Shwe_

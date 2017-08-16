@@ -4,7 +4,7 @@
 _Context: Fourth Circuit Appeals Court, Richmond, Virginia, U.S. residents, United States government, enemy combatant_
 
 ### [ At least 78 die in monsoons in Bangladesh. ](/news/2007/06/11/at-least-78-die-in-monsoons-in-bangladesh.md)
-_Context: Bangladesh, Monsoon_
+_Context: Bangladesh, monsoon_
 
 ### [ Two-thirds of the Iraqi Council of Representatives removes Speaker of the Council of Representatives Mahmoud al-Mashhadani due to repeated acts of violence to other members by him or his staff. ](/news/2007/06/11/two-thirds-of-the-iraqi-council-of-representatives-removes-speaker-of-the-council-of-representatives-mahmoud-al-mashhadani-due-to-repeated.md)
 The vote today opened the way for the Sunni coalition that had installed him to choose a replacement.

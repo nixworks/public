@@ -22,7 +22,7 @@ The head of the French armed forces, General Pierre de Villiers, has quit his po
 McCain was diagnosed with a tumor called a glioblastoma after the removal of a blood clot above his left eye last week.
 
 ### [U.S. President Donald Trump nominates Mark Esper as Secretary of the Army. ](/news/2017/07/19/u-s-president-donald-trump-nominates-mark-esper-as-secretary-of-the-army.md)
-_Context: Mark Esper, Political appointments by Donald Trump, President Trump, Secretary of the Army_
+_Context: Donald Trump, Mark Esper, Political appointments by Donald Trump, Secretary of the Army_
 
 ### [Vietnam pledges on ending the trafficking and farming of bears. ](/news/2017/07/19/vietnam-pledges-on-ending-the-trafficking-and-farming-of-bears.md)
 The country has agreed to move about a thousand animals to sanctuaries.

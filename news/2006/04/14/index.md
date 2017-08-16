@@ -10,7 +10,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Burundi, curfew_
 
 ### [ 2006 European floods: The Danube, swollen by heavy rain and melting snow, rises to record levels, and floods hundreds of homes in Serbia, Bulgaria and Romania. ](/news/2006/04/14/2006-european-floods-the-danube-swollen-by-heavy-rain-and-melting-snow-rises-to-record-levels-and-floods-hundreds-of-homes-in-serbia-b.md)
-_Context: 2006 European floods, Bulgaria, Danube, Floods, Romania, Serbia_
+_Context: 2006 European floods, Bulgaria, Danube, Romania, Serbia, floods_
 
 ### [ In Delhi, India, two explosions inside the 16th century mosque Jama Masjid injure at least nine people. ](/news/2006/04/14/in-delhi-india-two-explosions-inside-the-16th-century-mosque-jama-masjid-injure-at-least-nine-people.md)
 _Context: Delhi, Jama Masjid, mosque, two explosions_

@@ -38,10 +38,10 @@ Departure will allow Turkey’s president, Recep Tayyip Erdoğan, to further con
 Anti-establishment Philippine politician Rodrigo Duterte&#039;s rollicking ride to presidential favouritism triggers warnings of a coup should he win next week&#039;s election.
 
 ### [Members of the British public head to local polling stations to cast their vote for various governmental positions, including the Mayor of London. ](/news/2016/05/5/members-of-the-british-public-head-to-local-polling-stations-to-cast-their-vote-for-various-governmental-positions-including-the-mayor-of-l.md)
-_Context: Mayor  of London, United Kingdom local elections, 2016_
+_Context: Mayor of London, United Kingdom local elections, 2016_
 
 ### [Former Governor of Texas and Republican presidential candidate Rick Perry endorses Donald Trump for president and says he is open to being Trump's vice-presidential running mate. ](/news/2016/05/5/former-governor-of-texas-and-republican-presidential-candidate-rick-perry-endorses-donald-trump-for-president-and-says-he-is-open-to-being-t.md)
-_Context: 2016 U.S. presidential election, Governor of Texas, President Trump, Republican, Rick Perry, presidential candidate_
+_Context: 2016 U.S. presidential election, Donald Trump, Governor of Texas, Republican, Rick Perry, presidential candidate_
 
 ## [Previous Day...](/news/2016/05/4/index.md)
 

@@ -16,7 +16,7 @@ Lehman Brothers Holdings Inc LEHMQ.PK told a bankruptcy judge on Tuesday it has 
 The death toll from Hurricane Irene has spiralled to 38 across 11 states in the US as bodies were pulled from floodwaters and people were electrocuted by downed power lines.
 
 ### [Monsoonal rain causes heavy floods in the Indian state of Gujarat. ](/news/2011/08/30/monsoonal-rain-causes-heavy-floods-in-the-indian-state-of-gujarat.md)
-_Context: Gujarat, India, Monsoon_
+_Context: Gujarat, India, monsoon_
 
 ### [Nineteen coal miners are rescued from a flooded pit in China's Heilongjiang Province. ](/news/2011/08/30/nineteen-coal-miners-are-rescued-from-a-flooded-pit-in-china-s-heilongjiang-province.md)
 _Context: China, Heilongjiang province, coal miner_

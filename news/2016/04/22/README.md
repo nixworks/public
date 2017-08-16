@@ -43,7 +43,7 @@ Tropical Cyclone Amos was upgraded to a category three on Friday night, and was 
 MEXICO CITY (AP) — Searchers recovered four more bodies from a petrochemical plant wrecked by a huge explosion this week on Mexico&#039;s southeastern Gulf coast, raising the death toll to 28, the state oil company said Friday…
 
 ### [Mayor of London and cabinet member Boris Johnson says that U.S. President Barack Obama is "inconsistent and hypocritical" in persuading the British people to remain in the European Union. ](/news/2016/04/22/mayor-of-london-and-cabinet-member-boris-johnson-says-that-u-s-president-barack-obama-is-inconsistent-and-hypocritical-in-persuading-the.md)
-_Context: Barack Obama, Boris Johnson, European Union, Mayor  of London, U.S., United Kingdom withdrawal from the European Union_
+_Context: Barack Obama, Boris Johnson, European Union, Mayor of London, U.S., United Kingdom withdrawal from the European Union_
 
 ### [The U.S. House Committee on Foreign Affairs unanimously passes a resolution reaffirming the Taiwan Relations Act and the Six Assurances. ](/news/2016/04/22/the-u-s-house-committee-on-foreign-affairs-unanimously-passes-a-resolution-reaffirming-the-taiwan-relations-act-and-the-six-assurances.md)
 The US House of Representatives’ Foreign Affairs Committee on Wednesday unanimously passed a resolution reaffirming the Taiwan Relations Act (TRA) and the “six assurances” as the “cornerstone of US-Taiwan relations.”

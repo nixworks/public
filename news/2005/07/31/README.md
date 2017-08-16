@@ -1,7 +1,7 @@
 ## [2005-07-31](/news/2005/07/31/index.md)
 
 ### [ More torrential monsoon rains have returned to Mumbai in India, as it tries to recover from the recent floods. The death toll in the floods rises to about 1,000. ](/news/2005/07/31/more-torrential-monsoon-rains-have-returned-to-mumbai-in-india-as-it-tries-to-recover-from-the-recent-floods-the-death-toll-in-the-floods.md)
-_Context: India, Monsoon, Mumbai, recent floods_
+_Context: India, Mumbai, monsoon, recent floods_
 
 ### [ 7 more suspects are arrested in Brighton following the 21 July 2005 London bombings. ](/news/2005/07/31/7-more-suspects-are-arrested-in-brighton-following-the-21-july-2005-london-bombings.md)
 _Context: 21 July 2005 London bombings, Brighton_

@@ -19,7 +19,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Dombivli, India, Mumbai_
 
 ### [Heavy floods and related disasters across China, especially in the drainage basin of the Han and Wei Rivers, leave 90 dead and 22 missing. ](/news/2011/09/22/heavy-floods-and-related-disasters-across-china-especially-in-the-drainage-basin-of-the-han-and-wei-rivers-leave-90-dead-and-22-missing.md)
-_Context: China, Floods, Han, Wei River, drainage basin_
+_Context: China, Han, Wei River, drainage basin, floods_
 
 ### [2011 Pacific hurricane season: Hurricane Hilary reaches category-three strength off the coast of Mexico, but is not expected to make landfall. ](/news/2011/09/22/2011-pacific-hurricane-season-hurricane-hilary-reaches-category-three-strength-off-the-coast-of-mexico-but-is-not-expected-to-make-landfal.md)
 _Context: Hilary, Hurricane Jova, Mexico, category-three_

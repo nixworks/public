@@ -15,7 +15,7 @@ Thirty-four people, including six children and 12 women, were killed and another
 
 ### Related:
 
-1. [Monsoons in At least 44 are killed in a landslide on a highway in the northern India province of Himachal Pradesh. ](/news/2017/08/13/monsoons-in-at-least-44-are-killed-in-a-landslide-on-a-highway-in-the-northern-india-province-of-himachal-pradesh.md) _Context: Himachal Pradesh_
+1. [At least 44 are killed in a landslide on a highway in the northern India province of Himachal Pradesh. ](/news/2017/08/13/at-least-44-are-killed-in-a-landslide-on-a-highway-in-the-northern-india-province-of-himachal-pradesh.md) _Context: Himachal Pradesh_
 2. [A bus plunges off a mountain road in the Indian state of Himachal Pradesh, killing at least 18 people and injuring 14 others. ](/news/2013/06/7/a-bus-plunges-off-a-mountain-road-in-the-indian-state-of-himachal-pradesh-killing-at-least-18-people-and-injuring-14-others.md) _Context: Himachal Pradesh_
 3. [The Indian Army is deployed to help rescue people in the flood-hit northern states of Uttarakhand and Himachal Pradesh, where the number of confirmed deaths has reached 130. ](/news/2013/06/19/the-indian-army-is-deployed-to-help-rescue-people-in-the-flood-hit-northern-states-of-uttarakhand-and-himachal-pradesh-where-the-number-of.md) _Context: Himachal Pradesh_
 4. [2013 North India floods:The death toll from several days of heavy rain, flooding, and landslides in Uttarakhand, Uttar Pradesh, and Himachal Pradesh, hits 99. ](/news/2013/06/18/2013-north-india-floods-pthe-death-toll-from-several-days-of-heavy-rain-flooding-and-landslides-in-uttarakhand-uttar-pradesh-and-himacha.md) _Context: Himachal Pradesh_

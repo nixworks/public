@@ -19,7 +19,7 @@ News and opinion from The Times &amp; The Sunday Times
 _Context: Israel Air Force, South Lebanon_
 
 ### [ China announces the resumption of the stalled six-party talks to find a peaceful resolution to concerns about North Korean nuclear weapons program. ](/news/2006/10/31/china-announces-the-resumption-of-the-stalled-six-party-talks-to-find-a-peaceful-resolution-to-concerns-about-north-korean-nuclear-weapons.md)
-_Context: China, North Korea, North Korea and weapons of mass destruction, six-party talks_
+_Context: China, North Korea, intercontinental ballistic, six-party talks_
 
 ### [ Taliban insurgency: Suspected militants attack a convoy of NATO troops in Afghanistan's eastern province of Nuristan killing three soldiers. ](/news/2006/10/31/taliban-insurgency-suspected-militants-attack-a-convoy-of-nato-troops-in-afghanistan-s-eastern-province-of-nuristan-killing-three-soldiers.md)
 _Context: Afghanistan's, NATO, Nuristan, Taliban insurgency_

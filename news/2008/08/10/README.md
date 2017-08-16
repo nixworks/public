@@ -4,7 +4,7 @@
 _Context: 2008 Toronto explosions, Canada, Downsview, Highway 401, Toronto, propane_
 
 ### [ Monsoon rains in India kill at least 40 people with flooding heaviest in Andhra Pradesh with flooding in the capital Hyderabad killing 14 people. ](/news/2008/08/10/monsoon-rains-in-india-kill-at-least-40-people-with-flooding-heaviest-in-andhra-pradesh-with-flooding-in-the-capital-hyderabad-killing-14-p.md)
-_Context: Andhra Pradesh, Hyderabad, India, Monsoon, flood_
+_Context: Andhra Pradesh, Hyderabad, India, flood, monsoon_
 
 ### [ 2008 South Ossetian War: Georgian troops are forced to withdraw from Tskhinvali, the capital of South Ossetia by Russian army. ](/news/2008/08/10/2008-south-ossetian-war-p-georgian-troops-are-forced-to-withdraw-from-tskhinvali-the-capital-of-south-ossetia-by-russian-army.md)
 _Context: 2008 South Ossetian war, Georgian, Russia, South Ossetia, Tskhinvali_

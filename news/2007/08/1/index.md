@@ -22,7 +22,7 @@ _Context: 2008, Association of South East Asian Nations, Australia, Free Trade A
 _Context: 1994, France, Rwandan Genocide_
 
 ### [ At least 28 people die in Uttar Pradesh, India as an overcrowded boat carrying flood evacuees and aid workers capsizes on the Rohni River. Monsoon floods have killed more than 150 people in India during July while at least 82 people have died in Nepal over the past two weeks and 38 in Bangladesh. ](/news/2007/08/1/at-least-28-people-die-in-uttar-pradesh-india-as-an-overcrowded-boat-carrying-flood-evacuees-and-aid-workers-capsizes-on-the-rohni-river.md)
-_Context: Bangladesh, India, Monsoon, Nepal, Rohni River, Uttar Pradesh, flood_
+_Context: Bangladesh, India, Nepal, Rohni River, Uttar Pradesh, flood, monsoon_
 
 ### [ 2007 Russian North Pole expedition: A Russian expedition with the aim of claiming petroleum beneath the Arctic reaches the North Pole. ](/news/2007/08/1/2007-russian-north-pole-expedition-a-russian-expedition-with-the-aim-of-claiming-petroleum-beneath-the-arctic-reaches-the-north-pole.md)
 _Context: 2007 Russian North Pole expedition, Arctic, North Pole, Russia, crude oil_
