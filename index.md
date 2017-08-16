@@ -63,6 +63,9 @@ New Zealand&#039;s Prime Minister confirms that unwittingly or not, Barnaby Joyc
 ### [The Garden Bridge project is officially abandoned after Mayor of London Sadiq Khan withdraws support. ](/news/2017/08/14/the-garden-bridge-project-is-officially-abandoned-after-mayor-of-london-sadiq-khan-withdraws-support.md)
 _Context: Garden Bridge, Mayor of London, Politics of London, Sadiq Khan_
 
+### [California and San Francisco sue the United States Federal government over its opposition towards sanctuary cities. ](/news/2017/08/14/california-and-san-francisco-sue-the-united-states-federal-government-over-its-opposition-towards-sanctuary-cities.md)
+California is joining two localities already suing over the policy change the Trump administration announced last month: Chicago and San Francisco.
+
 ---
 
 ## [Previous Day...](/news/2017/08/13/index.md)

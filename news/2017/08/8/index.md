@@ -3,9 +3,6 @@
 ### [The Pentagon is considering conducting airstrikes in Marawi, which if approved would later put U.S. troops on the ground to battle the ISIS-affiliated Maute group as well as related Islamist terror groups. A spokesperson later denied the claims as well as clarified that the Philippines has yet to make a request. ](/news/2017/08/8/the-pentagon-is-considering-conducting-airstrikes-in-marawi-which-if-approved-would-later-put-u-s-troops-on-the-ground-to-battle-the-isis.md)
 The strikes would likely be conducted by drones, and would be part of an official military operation that may be named as early as Tuesday. 
 
-### [Country singer Glen Campbell dies at the age of 81, after suffering from Alzheimer's disease for six years. ](/news/2017/08/8/country-singer-glen-campbell-dies-at-the-age-of-81-after-suffering-from-alzheimer-s-disease-for-six-years.md)
-The singer of Rhinestone Cowboy and Wichita Lineman has died at the age of 81, his family says.
-
 ### [A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. ](/news/2017/08/8/a-magnitude-7-0-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-thirteen-people-and-injuring-more-than-175.md)
 At least five people have reportedly died and more than 60 wounded in the 6.5-magnitude quake.
 
