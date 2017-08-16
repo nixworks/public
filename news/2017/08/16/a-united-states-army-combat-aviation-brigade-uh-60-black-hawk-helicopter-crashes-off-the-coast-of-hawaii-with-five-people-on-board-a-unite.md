@@ -1,6 +1,6 @@
 ### [2017-08-16](/news/2017/08/16/index.md)
 
-# A United States Army Combat Aviation Brigade UH-60 Black Hawk helicopter crashes off the coast of Hawaii, with five people on board. A United States Coast Guard-led search for the missing is now underway.  
+# A United States Army Combat Aviation Brigade UH-60 Black Hawk helicopter crashes off the coast of Hawaii, with five people on board. A United States Coast Guard-led search for the missing is underway.  
 
 A debris field was spotted in the ocean after the Army Black Hawk went down near the island of Oahu.
 
