@@ -1,0 +1,23 @@
+### [2017-08-16](/news/2017/08/16/index.md)
+
+# A United States Army Combat Aviation Brigade UH-60 Black Hawk helicopter crashes off the coast of Hawaii, with five people on board. A United States Coast Guard-led search for the missing is now underway.  
+
+A debris field was spotted in the ocean after the Army Black Hawk went down near the island of Oahu.
+
+
+### Source:
+
+1. [Sky News](http://news.sky.com/story/five-crew-missing-after-us-helicopter-crashes-off-hawaii-10991333)
+
+### Related:
+
+1. [A United States Army UH-60 Black Hawk helicopter crashes on a golf course in Leonardtown, Maryland. At least one crew member is injured and taken to hospital. ](/news/2017/04/17/a-united-states-army-uh-60-black-hawk-helicopter-crashes-on-a-golf-course-in-leonardtown-maryland-at-least-one-crew-member-is-injured-and.md) _Context: UH-60 Black Hawk, United States Army_
+2. [A request by the state of Hawaii to issue an order blocking President Donald Trump's Executive Order 13780 is rejected in the United States Court of Appeals for the Ninth Circuit. ](/news/2017/07/7/a-request-by-the-state-of-hawaii-to-issue-an-order-blocking-president-donald-trump-s-executive-order-13780-is-rejected-in-the-united-states.md) _Context: Hawaii_
+3. [Jordanian authorities release a video of a Jordanian Air Force sergeant shooting United States soldiers. ](/news/2017/07/25/jordanian-authorities-release-a-video-of-a-jordanian-air-force-sergeant-shooting-united-states-soldiers.md) _Context: United States Army_
+4. [At least three people are killed and two hospitalized, one in serious condition, from a fire in a  condominium tower in the U.S. city of Honolulu, Hawaii. An unknown number of residents are reportedly still trapped in their apartments. ](/news/2017/07/14/at-least-three-people-are-killed-and-two-hospitalized-one-in-serious-condition-from-a-fire-in-a-condominium-tower-in-the-u-s-city-of-hon.md) _Context: Hawaii_
+5. [The state of Hawaii becomes the first state to enact a law, to document sea level rise and set strategies to reduce greenhouse gas emissions, that aligns the state's goals with the Paris climate accord. Governor David Ige  says the islands are seeing the impacts of climate change first-hand. ](/news/2017/06/8/the-state-of-hawaii-becomes-the-first-state-to-enact-a-law-to-document-sea-level-rise-and-set-strategies-to-reduce-greenhouse-gas-emissions.md) _Context: Hawaii_
+6. [United States Army soldier Chelsea Manning is released from prison after serving seven years. Manning was sentenced by a U.S. military court to 35 years in prison, but her sentence was commuted by President Barack Obama. ](/news/2017/05/17/united-states-army-soldier-chelsea-manning-is-released-from-prison-after-serving-seven-years-manning-was-sentenced-by-a-u-s-military-court.md) _Context: United States Army_
+7. [Twelve Saudi Arabian military officers die after their Sikorsky UH-60 Black Hawk crashes in Yemen's Ma'rib Governorate. ](/news/2017/04/18/twelve-saudi-arabian-military-officers-die-after-their-sikorsky-uh-60-black-hawk-crashes-in-yemen-s-ma-rib-governorate.md) _Context: UH-60 Black Hawk_
+8. [A U.S. federal judge in Hawaii, finding the revised federal immigration/refugee executive order violates the U.S. Constitution's religious establishment clause, grants the state of Hawaii's motion for a nationwide temporary restraining order on these rules that were set to become effective at midnight. President Donald Trump vows to appeal this ruling. Two other federal courts held hearings on similar requests filed by the states of Maryland and Washington; neither of these judges issued a ruling. ](/news/2017/03/15/a-u-s-federal-judge-in-hawaii-finding-the-revised-federal-immigration-refugee-executive-order-violates-the-u-s-constitution-s-religious-e.md) _Context: Hawaii_
+9. [The state of Washington, joined by the states of California, Maryland, Massachusetts, New York, and Oregon, asks a federal judge to  stop, on constitutional grounds, the revised federal immigration/refugee rules from taking effect on Thursday, March 16. The state of Hawaii has filed a separate, similar request. ](/news/2017/03/13/the-state-of-washington-joined-by-the-states-of-california-maryland-massachusetts-new-york-and-oregon-asks-a-federal-judge-to-stop-o.md) _Context: Hawaii_
+10. [President Donald Trump names United States Army Lt. General H. R. McMaster as National Security Advisor and says that U.S. Lt. Gen. Keith Kellogg, who has been the acting NSA, will remain as the NSC's Chief of Staff. ](/news/2017/02/20/president-donald-trump-names-united-states-army-lt-general-h-r-mcmaster-as-national-security-advisor-and-says-that-u-s-lt-gen-keith-ke.md) _Context: United States Army_
