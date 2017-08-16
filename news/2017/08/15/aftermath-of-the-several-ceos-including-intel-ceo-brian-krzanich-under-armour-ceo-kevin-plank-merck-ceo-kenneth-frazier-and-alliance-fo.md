@@ -1,6 +1,6 @@
 ### [2017-08-15](/news/2017/08/15/index.md)
 
-#  Aftermath of the Several CEOs, including Intel CEO Brian Krzanich, Under Armour CEO Kevin Plank, Merck CEO Kenneth Frazier, and Alliance for American Manufacturing president Scott Paul resign from President Trump's American Manufacturing Council due to their disagreements with Trump's response to the rally. 
+#  Aftermath of the Several CEOs, including Intel CEO Brian Krzanich, Under Armour CEO Kevin Plank, Merck CEO Kenneth Frazier, and Alliance for American Manufacturing president Scott Paul, as well as the AFL-CIO's Richard Trumka and Thea Lee, resign from President Trump's American Manufacturing Council due to their disagreements with Trump's response to the rally. 
 
 President Trump, on a day he faced a rebuke from Walmart’s C.E.O. and another departure from his manufacturing council, said the executives were “embarrassed” for making products overseas.
 
