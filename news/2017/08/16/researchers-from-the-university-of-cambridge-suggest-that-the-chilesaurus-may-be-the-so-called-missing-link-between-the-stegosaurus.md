@@ -1,6 +1,6 @@
 ### [2017-08-16](/news/2017/08/16/index.md)
 
-# Researchers from the University of Cambridge suggest that the ''Chilesaurus'' may be the so-called 'missing link' between the ''Stegosaurus'' and the ''Tyrannosaurus''. 
+# Researchers from the University of Cambridge suggest that the ''Chilesaurus'' may be the so-called "missing link" between the ''Stegosaurus'' and the ''Tyrannosaurus''. 
 
 
 
