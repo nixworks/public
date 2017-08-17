@@ -58,7 +58,7 @@ The famous chimes will sound for the final time on Monday before maintenance wor
 The late SJ Harris was noted for being the first African-American female professional road racer.
 
 ### [During a protest in Durham, North Carolina, to show solidarity with the events in Charlottesville, Virginia, a Confederate monument was pulled down; a woman has been arrested and charged in connection with the event. ](/news/2017/08/14/during-a-protest-in-durham-north-carolina-to-show-solidarity-with-the-events-in-charlottesville-virginia-a-confederate-monument-was-pull.md)
-_Context: Charlottesville, Virginia, Confederate monuments and memorials, Durham, North Carolina, Unite the Right rally_
+_Context: Charlottesville, Virginia, Confederate monuments, Durham, North Carolina, Removal of Confederate monuments and memorials, Unite the Right rally_
 
 ### [A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 350 people with the death toll expected to rise as high as 500. ](/news/2017/08/14/a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-350-people-with-the-death-toll-expected-to-rise-as-h.md)
 There are fears for many who may have been asleep when the mudslide hit near Freetown, Sierra Leone.
@@ -74,6 +74,9 @@ The internet has long been a gathering place for white supremacists. But in the 
 
 ### [A 13-year-old girl is killed when a car is deliberately driven into a pizza restaurant's sidewalk cafe in Sept-Sorts, France. At least 12 other people are injured, four critically. The driver is arrested. Police do not believe the incident was terrorism-related. ](/news/2017/08/14/a-13-year-old-girl-is-killed-when-a-car-is-deliberately-driven-into-a-pizza-restaurant-s-sidewalk-cafe-in-sept-sorts-france-at-least-12-ot.md)
 8-year-old girl killed and at least eight injured when vehicle slams into sidewalk cafe east of Paris on Monday
+
+### [Senate Majority Leader Vicente "Tito" Sotto III has lashed out at UN special rapporteurs headed by Agnes Callamard, in his privilege speech caling them "helicopter experts" for offering "solutions" to a decades-old problem of a country "they are not even familiar with". ](/news/2017/08/14/senate-majority-leader-vicente-tito-sotto-iii-has-lashed-out-at-un-special-rapporteurs-headed-by-agnes-callamard-in-his-privilege-speech.md)
+_Context: Agnes Callamard, Senate Majority Leader, UN special rapporteurs, Vicente "Tito" Sotto III, decades-old problem, drug war_
 
 ### [India announces that it is to deport an estimated 40,000 Rohingya refugees including 14,000 of those registered with the U.N. refugee agency. In the months leading up to the announcement, a string of anti-Rohingya protests had been held in the country.](/news/2017/08/14/india-announces-that-it-is-to-deport-an-estimated-40-000-rohingya-refugees-including-14-000-of-those-registered-with-the-u-n-refugee-agency.md)
 All of an estimated 40,000 Rohingya Muslims living in India are illegal immigrants, even those registered with the U.N. refugee agency, and the government aims to deport them, a senior government official told Reuters.
