@@ -1,6 +1,6 @@
 ## [News](/news/2017/08/17/index.md)
 
-### [A car drives into people in Barcelona in what Spanish police are calling a terrorist attack; there are reports of 13 deaths and armed gunmen taking hostages at a restaurant. ](/news/2017/08/17/a-car-drives-into-people-in-barcelona-in-what-spanish-police-are-calling-a-terrorist-attack-there-are-reports-of-13-deaths-and-armed-gunmen.md)
+### [A van drives into people in Barcelona in what Spanish police are calling a terrorist attack; there are reports of 13 deaths and armed gunmen taking hostages at a restaurant. ](/news/2017/08/17/a-van-drives-into-people-in-barcelona-in-what-spanish-police-are-calling-a-terrorist-attack-there-are-reports-of-13-deaths-and-armed-gunmen.md)
 At least one reportedly been killed and several others are injured after a suspected terrorist crashed into a crowd of people on a pavement in a popular tourist area of Barcelona.
 
 ### [A large fire continues to burn at the Peter Pan Seafoods fish processing plant in Port Moller, Alaska, on the Alaska Peninsula. Much of the facility has been destroyed, and the plant is out of commission. Power is out in the village. ](/news/2017/08/17/a-large-fire-continues-to-burn-at-the-peter-pan-seafoods-fish-processing-plant-in-port-moller-alaska-on-the-alaska-peninsula-much-of-the.md)
