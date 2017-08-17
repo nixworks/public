@@ -1,7 +1,7 @@
 ## [2008-12-19](/news/2008/12/19/index.md)
 
 ### [ Administration of United States President-elect Barack Obama: Republican Party Representative Ray LaHood of Illinois is nominated as the next Secretary of Transportation. ](/news/2008/12/19/administration-of-united-states-president-elect-barack-obama-p-republican-party-representative-ray-lahood-of-illinois-is-nominated-as-the-n.md)
-_Context: Barack Obama, Illinois, President-elect, Ray LaHood, Republican, Secretary of Transportation, U.S., United States House of Representatives, nomination_
+_Context: Barack Obama, Illinois, President-elect, Ray LaHood, Republican, Secretary of Transportation, United States, United States House of Representatives, nomination_
 
 ### [ U.S. President George W. Bush's administration files a trade case to the World Trade Organization against the People's Republic of China over the alleged use of export subsidies to promote Chinese-made goods. ](/news/2008/12/19/u-s-president-george-w-bush-s-administration-files-a-trade-case-to-the-world-trade-organization-against-the-people-s-republic-of-china-ov.md)
 _Context:  subsidies, Bush Administration, China, George W. Bush, President, World Trade Organization, export_

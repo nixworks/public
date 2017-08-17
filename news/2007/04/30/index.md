@@ -1,7 +1,7 @@
 ## [2007-04-30](/news/2007/04/30/index.md)
 
 ### [ The European Union and the United States inks a new Open Skies Agreement which will take effect on 30 March 2008 and replace the restrictive Bermuda II agreement. ](/news/2007/04/30/the-european-union-and-the-united-states-inks-a-new-open-skies-agreement-which-will-take-effect-on-30-march-2008-and-replace-the-restrictiv.md)
-_Context: Bermuda II, European Union, Open Skies Agreement, U.S._
+_Context: Bermuda II, European Union, Open Skies Agreement, United States_
 
 ### [ The United States Supreme Court decides the case of ''Scott v. Harris,'' holding that a "police officer's attempt to terminate a dangerous high-speed car chase that threatens the lives of innocent bystanders does not violate the Fourth Amendment, even when it places the fleeing motorist at risk of serious injury or death." ](/news/2007/04/30/the-united-states-supreme-court-decides-the-case-of-scott-v-harris-holding-that-a-police-officer-s-attempt-to-terminate-a-dangerous.md)
 _Context: Scott v. Harris, United States Supreme Court, unreasonable search or seizure_
@@ -28,7 +28,7 @@ A smoking ban in enclosed public places has come into effect in Northern Ireland
 _Context: Bangkok, Intergovernmental Panel on Climate Change, climate change_
 
 ### [ The US-led Coalition claims to have killed scores of Taliban forces in Afghanistan. ](/news/2007/04/30/the-us-led-coalition-claims-to-have-killed-scores-of-taliban-forces-in-afghanistan.md)
-_Context: Afghanistan's, Taliban, U.S._
+_Context: Afghanistan's, Taliban, United States_
 
 ### [ Five men arrested in 2004 as part of Operation Crevice are convicted at the Old Bailey of a plot to explode fertiliser bombs in the UK.  ](/news/2007/04/30/five-men-arrested-in-2004-as-part-of-operation-crevice-are-convicted-at-the-old-bailey-of-a-plot-to-explode-fertiliser-bombs-in-the-uk.md)
 The Sydney Morning Herald 404 Page

@@ -22,7 +22,7 @@ _Context: Billie Joe Armstrong, Green Day, IHeartRadio music festival_
 _Context: Harvard Theological Review, Jesus of Nazareth, my wife_
 
 ### [A researcher at the University of Cambridge predicts that in about four years, the Arctic polar ice cap will melt completely during the summer months. ](/news/2012/09/21/a-researcher-at-the-university-of-cambridge-predicts-that-in-about-four-years-the-arctic-polar-ice-cap-will-melt-completely-during-the-summ.md)
-_Context: Cambridge University , North Pole, polar ice cap_
+_Context: North Pole, University of Cambridge, polar ice cap_
 
 ## [Previous Day...](/news/2012/09/20/index.md)
 

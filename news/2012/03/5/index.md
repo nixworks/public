@@ -46,7 +46,7 @@ _Context: OSCE, Vladimir Putin, last week's election_
 Children who snore, or who have other night-time breathing conditions are at risk from behavioural problems, a study of 11,000 UK children suggests.
 
 ### [Merck announces that a new drug, ragweed AIT, significantly reduced ragweed allergy symptoms in a Phase III clinical trial. ](/news/2012/03/5/merck-announces-that-a-new-drug-ragweed-ait-significantly-reduced-ragweed-allergy-symptoms-in-a-phase-iii-clinical-trial.md)
-_Context: Merck, Phase III clinical trial, ragweed_
+_Context: Merck & Co., Phase III clinical trial, ragweed_
 
 ### [The Apple App Store passes 25 billion downloads. ](/news/2012/03/5/the-apple-app-store-passes-25-billion-downloads.md)
 _Context: Apple App Store_

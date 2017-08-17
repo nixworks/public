@@ -22,7 +22,7 @@ _Context: Panamerican Highway, Peru_
 _Context: Astronomer, GSC 02620-00648, Hercules Constellation, TrES-4, Trans-Atlantic Exoplanet Survey, Universe, planet, star_
 
 ### [ The Taliban attacks Firebase Anaconda in Uruzgan province but is repulsed by a joint force of Afghan fighters and United States Army forces with 20 militants killed. ](/news/2007/08/7/the-taliban-attacks-firebase-anaconda-in-uruzgan-province-but-is-repulsed-by-a-joint-force-of-afghan-fighters-and-united-states-army-forces.md)
-_Context: Afghanistan's, Firebase Anaconda, Taliban, United States soldiers, Uruzgan province_
+_Context: Afghanistan's, Firebase Anaconda, Taliban, United States Army, Uruzgan province_
 
 ### [ Jordan opens its government schools to Iraqi refugees. ](/news/2007/08/7/jordan-opens-its-government-schools-to-iraqi-refugees.md)
 _Context: Iraq, Jordan, government school, refugee_
@@ -31,7 +31,7 @@ _Context: Iraq, Jordan, government school, refugee_
 Israel has plunged into a bitter debate over the source of authority for many of its soldiers after a group of troops refused orders to evacuate hardline Jewish settlers in the occupied West Bank.
 
 ### [ Juan Carlos Ramirez-Abadia, Colombian cocaine trafficker boss of the Norte del Valle Cartel is apprehended in Brazil and faces extradition to the United States. The US Government had offered a reward of US$5 million dollars. ](/news/2007/08/7/juan-carlos-ramirez-abadia-colombian-cocaine-trafficker-boss-of-the-norte-del-valle-cartel-is-apprehended-in-brazil-and-faces-extradition.md)
-_Context: Brazil, Colombian, Juan Carlos Ramirez-Abadia, Norte del Valle cartel, U.S., cocaine_
+_Context: Brazil, Colombian, Juan Carlos Ramirez-Abadia, Norte del Valle cartel, United States, cocaine_
 
 ### [ Malaysia bans hiring of foreign security guards following rape and murder of a student by a Pakistani security guard recently. ](/news/2007/08/7/malaysia-bans-hiring-of-foreign-security-guards-following-rape-and-murder-of-a-student-by-a-pakistani-security-guard-recently.md)
 _Context: Malaysia, Pakistan, security guard_

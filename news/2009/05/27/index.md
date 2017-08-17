@@ -1,7 +1,7 @@
 ## [2009-05-27](/news/2009/05/27/index.md)
 
 ### [ United States President Barack Obama nominates Hispanic Roman Catholic theologian Miguel H. Diaz as Ambassador to the Holy See. ](/news/2009/05/27/united-states-president-barack-obama-nominates-hispanic-roman-catholic-theologian-miguel-h-diaz-as-ambassador-to-the-holy-see.md)
-_Context: Ambassador, Barack Obama, Hispanic, Holy See, Miguel H. Diaz, President, Roman Catholic Church, U.S., theologian_
+_Context: Ambassador, Barack Obama, Hispanic, Holy See, Miguel H. Diaz, President, Roman Catholic Church, United States, theologian_
 
 ### [ FC Barcelona defeats Manchester United F.C. to win the 2008-09 UEFA Champions League Final. ](/news/2009/05/27/fc-barcelona-defeats-manchester-united-f-c-to-win-the-2008-09-uefa-champions-league-final.md)
 _Context: 2008-09, 2009 UEFA Champions League Final, FC Barcelona, Manchester United, UEFA, UEFA Champions League_
@@ -22,7 +22,7 @@ A Russian Soyuz spacecraft with three astronauts on board blasted off from Kazak
 _Context: New Zealand, Whangarei, Zion Wildlife Gardens, euthanizing animals, white tiger, zookeeper_
 
 ### [ Russia will supply US$1 billion of uranium to civilian nuclear reactors in the United States. ](/news/2009/05/27/russia-will-supply-us-1-billion-of-uranium-to-civilian-nuclear-reactors-in-the-united-states.md)
-_Context: Russia, U.S., US$, civilian, nuclear reactors, uranium_
+_Context: Russia, US$, United States, civilian, nuclear reactors, uranium_
 
 ### [ An anti-piracy warship destroys a Yemeni fishing vessel in the Red Sea, killing at least two people. ](/news/2009/05/27/an-anti-piracy-warship-destroys-a-yemeni-fishing-vessel-in-the-red-sea-killing-at-least-two-people.md)
 _Context: Red Sea, Somali pirates, Yemen, fishing boat, warships_

@@ -10,7 +10,7 @@ _Context: Mahmoud Ahmadinejad, President, nuclear scientist_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ A roadside bomb kills three United States Army soldiers and wounds another north of Baghdad. ](/news/2006/12/17/a-roadside-bomb-kills-three-united-states-army-soldiers-and-wounds-another-north-of-baghdad.md)
-_Context: Baghdad, United States soldiers_
+_Context: Baghdad, United States Army_
 
 ### [ Masked gunmen kidnap 30 workers from the Red Crescent in Iraq with six low-level employees of the organisation later being released. ](/news/2006/12/17/masked-gunmen-kidnap-30-workers-from-the-red-crescent-in-iraq-with-six-low-level-employees-of-the-organisation-later-being-released.md)
 _Context: Iraq, Red Crescent_

@@ -25,7 +25,7 @@ _Context: Abortion in Chile, Chilean lawmakers, South America, abortion, conserv
 Raytheon Co (RTN.N) on Thursday won the dismissal of a $1 billion whistleblower lawsuit accusing the defense contractor of overbilling the U.S. government on a contract for satellite sensors, nearly 1-1/2 years after a federal appeals court revived the case.
 
 ### [U.S. lawmakers break for summer recess. ](/news/2017/08/3/u-s-lawmakers-break-for-summer-recess.md)
-_Context: 115th United States Congress, U.S., recess_
+_Context: 115th United States Congress, United States, recess_
 
 ### [Prime Minister of Japan Shinzo Abe appoints Taro Kono as Foreign Minister. ](/news/2017/08/3/prime-minister-of-japan-shinza-abe-appoints-tara-kano-as-foreign-minister.md)
 Japanese Prime Minister Shinzo Abe, beset by scandals and falling support, opted for safe hands over fresh faces in a cabinet reshuffle on Thursday but the changes may not boost his support to the extent he seeks.

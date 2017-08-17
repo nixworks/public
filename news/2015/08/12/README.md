@@ -16,7 +16,7 @@ U.S. stocks staged a rebound in late trading Wednesday as the major indexes clim
 At least 17 people are killed and hundreds injured, state media report, as huge explosions rock the northern Chinese port city of Tianjin.
 
 ### [A U.S. Army Sikorsky UH-60 Black Hawk helicopter crashes while landing on a U.S. Navy cargo vessel near the Japanese island of Okinawa, with seven people injured. ](/news/2015/08/12/a-u-s-army-sikorsky-uh-60-black-hawk-helicopter-crashes-while-landing-on-a-u-s-navy-cargo-vessel-near-the-japanese-island-of-okinawa-with.md)
-_Context: Japan, Okinawa, Sikorsky UH-60 Black Hawk, U.S. Army, U.S. Navy, helicopter_
+_Context: Japan, Okinawa, U.S. Army, U.S. Navy, UH-60 Black Hawk, helicopter_
 
 ### [The death toll from a heat wave in Egypt this week rises to 60. ](/news/2015/08/12/the-death-toll-from-a-heat-wave-in-egypt-this-week-rises-to-60.md)
 _Context: Egypt, heat wave_

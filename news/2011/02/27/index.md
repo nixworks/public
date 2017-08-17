@@ -9,7 +9,7 @@ _Context: Abidjan, Ivory Coast, Laurent Gbagbo_
 ### [At least 115 people are killed in a government offensive against Al-Qaeda linked militants in Somalia. ](/news/2011/02/27/at-least-115-people-are-killed-in-a-government-offensive-against-al-qaeda-linked-militants-in-somalia.md)
 _Context: Somalia, al-Qaeda_
 
-### [Birmingham-Shuttlesworth International Airport in the US city of Birmingham, Alabama is evacuated following the discovery of a suspicious package. ](/news/2011/02/27/birmingham-shuttlesworth-international-airport-in-the-us-city-of-birmingham-alabama-is-evacuated-following-the-discovery-of-a-suspicious-pa.md)
+### [Birmingham-Shuttlesworth International Airport in the US city of Birmingham, Alabama is evacuated following the discovery of a suspicious package. ](/news/2011/02/27/birminghamashuttlesworth-international-airport-in-the-us-city-of-birmingham-alabama-is-evacuated-following-the-discovery-of-a-suspicious.md)
 BIRMINGHAM,AL (WBRC) - The Birmingham - Shuttlesworth International Airport has been evacutated because of a suspicious package found late this afternoon
 
 ### [Academy AwardsThe 83rd Academy Awards are held to honor the best films in 2010 at the Kodak Theater in Hollywood, California. ](/news/2011/02/27/academy-awardspthe-83rd-academy-awards-are-held-to-honor-the-best-films-in-2010-at-the-kodak-theater-in-hollywood-california.md)
@@ -48,7 +48,7 @@ _Context: Beji Caid el Sebsi, Jasmine Revolution of 2011_
 ### [ Yemen: President Ali Abdullah Saleh says that protests against his rule are an attempt to split the nation. ](/news/2011/02/27/yemen-president-ali-abdullah-saleh-says-that-protests-against-his-rule-are-an-attempt-to-split-the-nation.md)
 _Context: 2011 Yemeni protests, Saleh_
 
-### [Irish general election, 2011:PBPA candidate Richard Boyd Barrett of the United Left Alliance, and son of actress Sinad Cusack, defeats former minister and deputy Fianna Fil leader Mary Hanafin in the Dn Laoghaire constituency. This leaves Fianna Fil with one representative in the capital city (Brian Lenihan, Jnr) and no Fianna Fil women at all in the 31st Dil. ](/news/2011/02/27/irish-general-election-2011-ppbpa-candidate-richard-boyd-barrett-of-the-united-left-alliance-and-son-of-actress-sinead-cusack-defeats-for.md)
+### [Irish general election, 2011:PBPA candidate Richard Boyd Barrett of the United Left Alliance, and son of actress Sinead Cusack, defeats former minister and deputy Fianna Fail leader Mary Hanafin in the Dun Laoghaire constituency. This leaves Fianna Fail with one representative in the capital city (Brian Lenihan Jnr) and no Fianna Fail women at all in the 31st Dail. ](/news/2011/02/27/irish-general-election-2011-ppbpa-candidate-richard-boyd-barrett-of-the-united-left-alliance-and-son-of-actress-sina-c-ad-cusack-defeats-fo.md)
 People Before Profit candidate Richard Boyd-Barrett, running under the United Left Alliance ticket, has taken the fourth and &hellip;
 
 ### [Large numbers of police and security forces are deployed in Chinese cities after calls for protests inspired by events in North Africa and the Middle East. ](/news/2011/02/27/large-numbers-of-police-and-security-forces-are-deployed-in-chinese-cities-after-calls-for-protests-inspired-by-events-in-north-africa-and-t.md)
@@ -57,10 +57,10 @@ Beijing: Security was stepped up here today to check strolling protests called b
 ### [For a second day, Croatian war veterans gather in the thousands to protest, this time in Split. ](/news/2011/02/27/for-a-second-day-croatian-war-veterans-gather-in-the-thousands-to-protest-this-time-in-split.md)
 _Context: Croatia, Split_
 
-### [The Wisconsin AFL-CIO warns that hundreds of unionists will risk arrest in trying to prevent police clearing the Wisconsin State Capitol in the US city of Madison. ](/news/2011/02/27/the-wisconsin-afl-cio-warns-that-hundreds-of-unionists-will-risk-arrest-in-trying-to-prevent-police-clearing-the-wisconsin-state-capitol-in.md)
+### [The Wisconsin AFL-CIO warns that hundreds of unionists will risk arrest in trying to prevent police clearing the Wisconsin State Capitol in the US city of Madison. ](/news/2011/02/27/the-wisconsin-aflacio-warns-that-hundreds-of-unionists-will-risk-arrest-in-trying-to-prevent-police-clearing-the-wisconsin-state-capitol-i.md)
 _Context: AFL-CIO, Madison, Wisconsin, Wisconsin, Wisconsin State Capitol_
 
-### [Anonymous targets Koch Brothers-backed Americans For Prosperity to demonstrate against its support of anti-union legislation in Wisconsin and the influence of money in US politics. ](/news/2011/02/27/anonymous-targets-koch-brothers-backed-americans-for-prosperity-to-demonstrate-against-its-support-of-anti-union-legislation-in-wisconsin-an.md)
+### [Anonymous targets Koch Brothers-backed Americans for Prosperity to demonstrate against its support of anti-union legislation in Wisconsin and the influence of money in US politics. ](/news/2011/02/27/anonymous-targets-koch-brothers-backed-americans-for-prosperity-to-demonstrate-against-its-support-of-anti-union-legislation-in-wisconsin-an.md)
 There was nothing terribly sophisticated about the denial of service attack executed by the activist hackers at Anonymous to temporarily knock out Americansforprosperity.org, the conservative advocacy group backed by billionaire brothers David and Charles Koch.
 
 ### [The head of the Arab League Amr Moussa announces that he will run as a candidate in the Egyptian presidential election. ](/news/2011/02/27/the-head-of-the-arab-league-amr-moussa-announces-that-he-will-run-as-a-candidate-in-the-egyptian-presidential-election.md)

@@ -10,7 +10,7 @@ _Context: Santika Club fire, Thailand_
 The body of the Georgian luger killed during a practice run at the Vancouver Olympics was flown Wednesday to his hometown, where his grief-stricken mother threw herself on his coffin and cried: &quot;Why have I survived you?&quot;
 
 ### [Guam Governor Felix Perez Camacho issues an executive order changing the name of ''Guam'' to ''Guahan'' in government documents and signage and calls for unification with the Northern Mariana Islands. ](/news/2010/02/17/guam-governor-felix-perez-camacho-issues-an-executive-order-changing-the-name-of-guam-to-guahan-in-government-documents-and-signage.md)
-_Context: Felix Perez Camacho, Governor, Guam, Northern Mariana Islands, executive actions, unification_
+_Context: Felix Perez Camacho, Governor, Guam, Northern Mariana Islands, executive order, unification_
 
 ### [At least 22 people are killed in a bus crash in Northern India. ](/news/2010/02/17/at-least-22-people-are-killed-in-a-bus-crash-in-northern-india.md)
 At least 22 people have died after a bus filled with wedding guests plunged into a river in northern India, police say.

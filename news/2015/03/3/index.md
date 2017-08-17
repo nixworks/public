@@ -19,7 +19,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 North Korea will once again allow tourists into the country after four months of severe restrictions to prevent the spread of Ebola.
 
 ### [Former CIA director and U.S. Army officer David Petraeus pleads guilty in federal court to a charge of unauthorized removal and retention of classified information. ](/news/2015/03/3/former-cia-director-and-u-s-army-officer-david-petraeus-pleads-guilty-in-federal-court-to-a-charge-of-unauthorized-removal-and-retention-of.md)
-_Context: David Petraeus, Director of the CIA, United States soldiers_
+_Context: David Petraeus, Director of the CIA, United States Army_
 
 ### [A Turkish court orders President Recep Tayyip Erdogan to pay 10,000 lira ($4,000) in compensation for the mental anguish caused to artist Mehmet Aksoy for having called his sculpture ''Monument to Humanity'' -- meant to promote reconciliation between Turkey and Armenia -- a "monstrosity" in 2011. ](/news/2015/03/3/a-turkish-court-orders-president-recep-tayyip-erdoaan-to-pay-10-000-lira-4-000-in-compensation-for-the-mental-anguish-caused-to-artist-m.md)
 _Context: Armenia, Mehmet Aksoy, Monument to Humanity, Recep Tayyip Erdogan, Turkey, US$, lira_

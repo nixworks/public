@@ -28,7 +28,7 @@ _Context: Al Jazeera, Al Jazeera English, Al Jazeera International, English_
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ United States Army soldier James P. Barker pleads guilty to raping and murdering a girl in Iraq thus avoiding a possible death sentence. ](/news/2006/11/15/united-states-army-soldier-james-p-barker-pleads-guilty-to-raping-and-murdering-a-girl-in-iraq-thus-avoiding-a-possible-death-sentence.md)
-_Context: United States soldiers, death penalty_
+_Context: United States Army, death penalty_
 
 ### [ Richard Causey, former Chief Accounting Officer at Enron is sentenced to 66 months or five and a half years in prison for his role in the collapse of the company. ](/news/2006/11/15/richard-causey-former-chief-accounting-officer-at-enron-is-sentenced-to-66-months-or-five-and-a-half-years-in-prison-for-his-role-in-the-c.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

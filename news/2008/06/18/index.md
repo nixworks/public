@@ -10,7 +10,7 @@ _Context: Abdullahi Yusuf Ahmed, President, Somalia, assassinated_
 _Context: Parliament, Treaty of Lisbon_
 
 ### [ The United States and China agree to negotiate an investment treaty and to cooperate more closely on energy security and global pollution. ](/news/2008/06/18/the-united-states-and-china-agree-to-negotiate-an-investment-treaty-and-to-cooperate-more-closely-on-energy-security-and-global-pollution.md)
-_Context: China, U.S., energy security_
+_Context: China, United States, energy security_
 
 ### [ The European Parliament passes legislation to allow undocumented aliens to be held in detention centres for up to 18 months and banned from European Union territory for five years. ](/news/2008/06/18/the-european-parliament-passes-legislation-to-allow-undocumented-aliens-to-be-held-in-detention-centres-for-up-to-18-months-and-banned-from.md)
 Lawmakers voted to allow undocumented migrants to be held in detention centers for up to 18 months and banned from European Union territory for five years.
@@ -34,7 +34,7 @@ _Context: Dutchbat, Netherlands, Srebrenica massacre, United Nations_
 _Context: Banjara, Gujjar, Other Backward Class, Rabari, Rajasthan, reservations_
 
 ### [ American golfer Tiger Woods will miss the rest of the golf season to have additional surgery on his left knee. ](/news/2008/06/18/american-golfer-tiger-woods-will-miss-the-rest-of-the-golf-season-to-have-additional-surgery-on-his-left-knee.md)
-_Context: PGA Tour, Tiger Woods, U.S., golfer, knee, surgery_
+_Context: PGA Tour, Tiger Woods, United States, golfer, knee, surgery_
 
 ### [ Romanian villagers vote to re-elect a dead man as their mayor, to prevent his living rival winning. ](/news/2008/06/18/romanian-villagers-vote-to-re-elect-a-dead-man-as-their-mayor-to-prevent-his-living-rival-winning.md)
 _Context: Romania, mayor_

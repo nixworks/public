@@ -4,13 +4,13 @@
 _Context: Holy See, Israel, Palestinian, Pope, Pope Benedict XVI, ambassador_
 
 ### [ Bilateral negotiations have resumed between the US and North Korea. ](/news/2005/07/25/bilateral-negotiations-have-resumed-between-the-us-and-north-korea.md)
-_Context: Bilateral negotiations, North Korea, U.S._
+_Context: Bilateral negotiations, North Korea_
 
-### [ The Service Employees International Union and the Teamsters, the two largest unions in the AFL-CIO, announce their intentions to leave the labor federation, underscoring a major schism within the U.S. labour movement. ](/news/2005/07/25/the-service-employees-international-union-and-the-teamsters-the-two-largest-unions-in-the-afl-cio-announce-their-intentions-to-leave-the.md)
+### [ The Service Employees International Union and the Teamsters, the two largest unions in the AFL-CIO, announce their intentions to leave the labor federation, underscoring a major schism within the U.S. labour movement. ](/news/2005/07/25/the-service-employees-international-union-and-the-teamsters-the-two-largest-unions-in-the-aflacio-announce-their-intentions-to-leave-th.md)
 _Context: AFL-CIO, Service Employees International Union, Teamsters, labour movement_
 
 ### [ Two men, one today, one yesterday, have been arrested in the New Southgate area of London during police investigations into the recent London bombings. ](/news/2005/07/25/two-men-one-today-one-yesterday-have-been-arrested-in-the-new-southgate-area-of-london-during-police-investigations-into-the-recent-lond.md)
-_Context: London, London bombings, New Southgate_
+_Context: 21 July 2005 London bombings, New Southgate_
 
 ### [ At least five people have been killed after grenades were thrown at a night-club and official residences in Ethiopia's Somali region. ](/news/2005/07/25/at-least-five-people-have-been-killed-after-grenades-were-thrown-at-a-night-club-and-official-residences-in-ethiopia-s-somali-region.md)
 _Context: Ethiopia_
@@ -49,7 +49,7 @@ _Context: Nova Iguacu massacre, Paulo Henrique Machado, Rio de Janeiro_
 _Context: Bill Graham, Greenland, Hans Island_
 
 ### [ In Malawi, president Bingu wa Mutharika bans all exports of maize and fertilizers to alleviate the food crisis in the country ](/news/2005/07/25/in-malawi-president-bingu-wa-mutharika-bans-all-exports-of-maize-and-fertilizers-to-alleviate-the-food-crisis-in-the-country.md)
-_Context: Bingu wa Mutharika, Malawi, export, fertilizer, maize_
+_Context: Bingu wa Mutharika, Malawi, fertilizer, maize_
 
 ## [Previous Day...](/news/2005/07/24/index.md)
 

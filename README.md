@@ -1,6 +1,6 @@
 ## [News](/news/2017/08/16/index.md)
 
-### [Several Confederate monuments are taken down overnight in the city of Baltimore, Maryland, including the Stonewall Jackson and Robert E. Lee Monument, Confederate Soldiers and Sailors Monument, Confederate Women's Monument and the Roger B. Taney sculpture. ](/news/2017/08/16/several-confederate-monuments-are-taken-down-overnight-in-the-city-of-baltimore-maryland-including-the-stonewall-jackson-and-robert-e-lee.md)
+### [Several Confederate monuments are taken down overnight in the city of Baltimore, Maryland, including the Stonewall Jackson and Robert E. Lee Monument, Confederate Soldiers and Sailors Monument, Confederate Women's Monument and the Roger B. Taney sculpture.  The Baltimore City Council unanimously voted to remove the monuments on August 14. ](/news/2017/08/16/several-confederate-monuments-are-taken-down-overnight-in-the-city-of-baltimore-maryland-including-the-stonewall-jackson-and-robert-e-lee.md)
 City leaders had vowed to remove the city&#x27;s four Confederacy-linked monuments following the deadly violence in Virginia over the weekend.
 
 ### [Aftermath of the 3M CEO Inge Thulin and Campbell CEO Denise Morrison resign from the American Manufacturing Council in protest of Trump's reaction to the alt-right's actions at Charlottesville, Virginia, bringing the total number of resignations this week to 8. ](/news/2017/08/16/aftermath-of-the-3m-ceo-inge-thulin-and-campbell-ceo-denise-morrison-resign-from-the-american-manufacturing-council-in-protest-of-trump-s-re.md)
@@ -14,6 +14,9 @@ A debris field was spotted in the ocean after the Army Black Hawk went down near
 
 ### [At least 32 people are killed in a series of police raids near Manila, Philippines, allegedly due to the ongoing drug war. ](/news/2017/08/16/at-least-32-people-are-killed-in-a-series-of-police-raids-near-manila-philippines-allegedly-due-to-the-ongoing-drug-war.md)
 Raids near Manila latest in campaign that has killed thousands and follow claim US has toned down criticism of human rights abuses
+
+### [Venezuelan security forces raid a prison in Puerto Ayacucho, Amazonas State, killing at least 37 inmates. Amazonas Governor Liborio Guarulla describes the killings as a "massacre". ](/news/2017/08/16/venezuelan-security-forces-raid-a-prison-in-puerto-ayacucho-amazonas-state-killing-at-least-37-inmates-amazonas-governor-liborio-guarulla.md)
+_Context: Amazonas State, Liborio Guarulla, Puerto Ayacucho, Venezuela_
 
 ### [Researchers from the University of Cambridge suggest that the ''Chilesaurus'' may be the so-called 'missing link' between the ''Stegosaurus'' and the ''Tyrannosaurus''. ](/news/2017/08/16/researchers-from-the-university-of-cambridge-suggest-that-the-chilesaurus-may-be-the-so-called-missing-link-between-the-stegosaurus.md)
 _Context: Chilesaurus, Evolution, Stegosaurus, Tyrannosaurus, University of Cambridge, missing link_

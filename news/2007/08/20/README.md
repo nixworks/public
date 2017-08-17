@@ -13,7 +13,7 @@ _Context: AMISOM, United Nations Security Council_
 Storms that deluged widely separated parts of the country from the upper Mississippi to Texas have caused at least 20 deaths since last week.
 
 ### [ A military judge dismisses two charges against Lieutenant Colonel Steven Jordan, a United States Army officer in charge of the interrogation centre at the Abu Ghraib prison in Iraq. Jordan still faces several more charges including cruelty and maltreatment of detainees, disobeying a superior officer and failure to obey orders. ](/news/2007/08/20/a-military-judge-dismisses-two-charges-against-lieutenant-colonel-steven-jordan-a-united-states-army-officer-in-charge-of-the-interrogatio.md)
-_Context: Abu Ghraib, Iraq, United States soldiers, judge, lieutenant colonel_
+_Context: Abu Ghraib, Iraq, United States Army, judge, lieutenant colonel_
 
 ### [ The thirteenth and final victim is recovered from the site of the I-35W Mississippi River Bridge Collapse. ](/news/2007/08/20/the-thirteenth-and-final-victim-is-recovered-from-the-site-of-the-i-35w-mississippi-river-bridge-collapse.md)
 _Context: I-35W Mississippi River Bridge Collapse_
@@ -49,7 +49,7 @@ Rebel Federal Labor MP Harry Quick has been thrown out of the party.
 _Context: Hurricane Dean, Jamaica, eye, storm surge_
 
 ### [ A summit between US president George W. Bush, Canadian prime minister Stephen Harper, Mexican president Felipe Caldern, and about 30 CEOs from the three countries begins in the resort town of Montebello, Quebec, near Ottawa. The talks will deal with the Security and Prosperity Partnership of North America. Protesters representing a variety of issues hold demonstrations regarding the exclusion of civil society from the talks and the secrecy of the process; police respond with tear gas. ](/news/2007/08/20/a-summit-between-us-president-george-w-bush-canadian-prime-minister-stephen-harper-mexican-president-felipe-calderon-and-about-30-ceos.md)
-_Context: Canada, Felipe Caldern, George W. Bush, Mexico, Montebello, Quebec, Ottawa, Security and Prosperity Partnership of North America, Stephen Harper, U.S., protest, tear gas_
+_Context: Canada, Felipe Caldern, George W. Bush, Mexico, Montebello, Quebec, Ottawa, Security and Prosperity Partnership of North America, Stephen Harper, United States, protest, tear gas_
 
 ### [ A China Airlines Boeing 737 airplane explodes less than a minute after all passengers and crew are evacuated shortly after landing at Naha, Japan. (Wikinews)](/news/2007/08/20/a-china-airlines-boeing-737-airplane-explodes-less-than-a-minute-after-all-passengers-and-crew-are-evacuated-shortly-after-landing-at-naha.md)
 _Context: (Wikinews), 737, China Airlines, Naha, explodes_

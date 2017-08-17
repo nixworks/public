@@ -28,7 +28,7 @@ _Context: Kul Bahadur Khadka, Maoist, Nepal, Prachanda, Prime Minister, coup d't
 British police investigating whether a News Corporation subsidiary hacked into cellphone messages concluded that a report in The Guardian newspaper on Wednesday contained no new information.
 
 ### [ A drone strike by the United States kills 50 Taliban militants in South Waziristan, Pakistan. ](/news/2009/07/9/a-drone-strike-by-the-united-states-kills-50-taliban-militants-in-south-waziristan-pakistan.md)
-_Context: Pakistan, South Waziristan, Taliban, U.S., drone_
+_Context: Pakistan, South Waziristan, Taliban, United States, drone_
 
 ### [ 25 people, including 21 civilians and 4 police, die and four are injured when an overturned truck carrying explosives blows up on a road south of Kabul, Afghanistan. ](/news/2009/07/9/25-people-including-21-civilians-and-4-police-die-and-four-are-injured-when-an-overturned-truck-carrying-explosives-blows-up-on-a-road-so.md)
 An overturned truck carrying explosives has blown up on a road south of Kabul in Afghanistan, killing 25 people.

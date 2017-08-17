@@ -7,7 +7,7 @@ _Context: Europe, Greek, Middle East, Turkey, natural gas_
 _Context: England, Surrey, foot-and-mouth disease, livestock, outbreak of 2007_
 
 ### [Jesse Spielman - a United States Army soldier was given sentences of 110 years in prison in plea deals that spared him the death penalty  for his role in the gang-rape and murder of an Iraqi girl and the mass murder of her family. ](/news/2007/08/4/jesse-spielman-a-a-united-states-army-soldier-was-given-sentences-of-110-years-in-prison-in-plea-deals-that-spared-him-the-death-penalty.md)
-_Context: United States soldiers, gang rape, plea deals_
+_Context: United States Army, gang rape, plea deals_
 
 ### [ The United States House of Representatives passes the budget for the United States Department of Defense. ](/news/2007/08/4/the-united-states-house-of-representatives-passes-the-budget-for-the-united-states-department-of-defense.md)
 _Context: Pentagon officials, United States House of Representatives_
@@ -31,7 +31,7 @@ _Context: Alex Rodriguez, Barry Bonds, Hank Aaron, Major League Baseball, San Fr
 _Context: Chauncey Bailey, Oakland, California, The Oakland Post, police_
 
 ### [ United States forces claim that they have killed Haitham al-Badri, the leader of al-Qaeda in Salahuddin province in Iraq and believed to be the man responsible for the bombing of the Al-Askari Mosque in Samarra in June. ](/news/2007/08/4/united-states-forces-claim-that-they-have-killed-haitham-al-badri-the-leader-of-al-qaeda-in-salahuddin-province-in-iraq-and-believed-to-be.md)
-_Context: Al-Askari Mosque, Haitham al-Badri, Iraq, Salahuddin province, Samarra, U.S., al-Qaeda_
+_Context: Al-Askari Mosque, Haitham al-Badri, Iraq, Salahuddin province, Samarra, United States, al-Qaeda_
 
 ### [ NASA launches the Phoenix Mars Lander which is due to land in Planum Boreum on the Martian northern ice cap next year. ](/news/2007/08/4/nasa-launches-the-phoenix-mars-lander-which-is-due-to-land-in-planum-boreum-on-the-martian-northern-ice-cap-next-year.md)
 _Context: Martian, NASA, Phoenix Mars Lander, Planum Boreum_

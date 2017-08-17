@@ -19,7 +19,7 @@ At least 32 people, mostly Christians, died after consuming homemade liquor in a
 Israel curbed relations with countries that voted in favor of a recent U.N. Security Council resolution condemning the country&#x27;s West Bank settlements.
 
 ### [Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. ](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-hawaii-offering-sincere-and-ever.md)
-_Context: Empire of Japan, Hawaii, Japan, Japan-United States relations, Naval Station Pearl Harbor, Pearl Harbor, Prime Minister of Japan, Shinzo Abe, attack on Pearl Harbor_
+_Context: Hawaii, Japan, Japan, Japan-United States relations, Naval Station Pearl Harbor, Pearl Harbor, Prime Minister of Japan, Shinzo Abe, attack on Pearl Harbor_
 
 ### [Basuki Tjahaja Purnama, the Christian Governor of the Indonesian capital Jakarta, will face prosecution for blasphemy. ](/news/2016/12/27/basuki-tjahaja-purnama-the-christian-governor-of-the-indonesian-capital-jakarta-will-face-prosecution-for-blasphemy.md)
 An Indonesian court will proceed with a controversial blasphemy trial against Jakarta&#039;s Christian Governor, who is accused of insulting the Koran.

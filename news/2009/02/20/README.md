@@ -4,7 +4,7 @@
 _Context: Colombo, LTTE, Sri Lanka, aerially attack_
 
 ### [ The United States will return Benyam Mohammed to the United Kingdom after four years of imprisonment at Guantanamo Bay Naval Base's detention camp. ](/news/2009/02/20/the-united-states-will-return-benyam-mohammed-to-the-united-kingdom-after-four-years-of-imprisonment-at-guantanamo-bay-naval-base-s-detenti.md)
-_Context: Benyam Mohammed, Guantanamo Bay Detention Camp, U.S., United Kingdom, military base at Guantanamo Bay_
+_Context: Benyam Mohammed, Guantanamo Bay Detention Camp, United Kingdom, United States, military base at Guantanamo Bay_
 
 ### [ Israel seizes 425 acres of Palestinian Authority state land in the West Bank for a Jewish settlement. ](/news/2009/02/20/israel-seizes-425-acres-of-palestinian-authority-state-land-in-the-west-bank-for-a-jewish-settlement.md)
 _Context: Israel, Israeli settlement, Palestinian Authority, West Bank_

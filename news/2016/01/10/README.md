@@ -31,7 +31,7 @@ _Context: Air Force, American B-52 strategic bomber, Guam, Korean Demilitarized 
 Poland criticises German politicians for what it calls &quot;anti-Polish&quot; comments but will not say which comments or politicians.
 
 ### [U.S. Army officials set August 8 as the start date for Sgt. Bowe Bergdahl's court-martial.  Bergdahl, charged with desertion and misbehavior before the enemy, was held captive by the Taliban for five years after he left his base in Afghanistan.  A pre-trial hearing is scheduled for early this week. ](/news/2016/01/10/u-s-army-officials-set-august-8-as-the-start-date-for-sgt-bowe-bergdahlas-court-martial-bergdahl-charged-with-desertion-and-misbehavi.md)
-_Context: Bowe Bergdahl, Taliban, United States soldiers, court-martial_
+_Context: Bowe Bergdahl, Taliban, United States Army, court-martial_
 
 ### [Mexican authorities want to question American actor Sean Penn and Mexican actress Kate del Castillo about a secret October meeting and interview with Joaquin Guzman, published by ''Rolling Stone'' magazine yesterday. Mexico Attorney General Arely Gomez says it was the Penn interview that led authorities to a Guzman hiding place. ](/news/2016/01/10/mexican-authorities-want-to-question-american-actor-sean-penn-and-mexican-actress-kate-del-castillo-about-a-secret-october-meeting-and-inter.md)
 _Context: Arely Gomez, Attorney General of Mexico, Joaquin "El Chapo" Guzman, Kate del Castillo, Mexican Drug War, Rolling Stone, Sean Penn_

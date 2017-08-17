@@ -64,7 +64,7 @@ Turkish Foreign Minister Ahmet Davutoglu has met with Hamas supremo Khaled Mesha
 _Context: Ban Ki-moon, Secretary General_
 
 ### [ASEAN formally invites Russia and the United States to attend the East Asia Summit and urges Myanmar to hold free and fair elections in a foreign ministers meeting in Hanoi, Vietnam. ](/news/2010/07/20/asean-formally-invites-russia-and-the-united-states-to-attend-the-east-asia-summit-and-urges-myanmar-to-hold-free-and-fair-elections-in-a-fo.md)
-_Context: ASEAN, East Asia Summit, Hanoi, Myanmar, Russia, U.S., Vietnam_
+_Context: ASEAN, East Asia Summit, Hanoi, Myanmar, Russia, United States, Vietnam_
 
 ### [Former MI5 head Baroness Manningham-Buller gives evidence in public before the Iraq Inquiry into Iraq's alleged weapons of mass destruction, admitting that the 2003 invasion of Iraq served to "substantially" increase the security threat to the UK. ](/news/2010/07/20/former-mi5-head-baroness-manningham-buller-gives-evidence-in-public-before-the-iraq-inquiry-into-iraq-s-alleged-weapons-of-mass-destruction.md)
 The ex-MI5 chief Baroness Manningham-Buller says Iraq posed only a &quot;very limited&quot; threat to the UK - but the war increased the threat from terrorism.

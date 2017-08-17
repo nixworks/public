@@ -25,7 +25,7 @@ _Context: Puebla_
 The crew was flying a routine training mission when their UH-60 chopper went down, the U.S. Army said. The cause was under investigation.
 
 ### [The United States issues a worldwide travel alert due to heightened activity by Islamic State in Iraq and the Levant (aka Da'esh/ISIS), Boko Haram, al-Qa'ida and other terrorist groups through February 24, 2016.  ](/news/2015/11/23/the-united-states-issues-a-worldwide-travel-alert-due-to-heightened-activity-by-islamic-state-in-iraq-and-the-levant-aka-daaesh-isis-bo.md)
-_Context: Boko Haram, ISIL, U.S., al-Qa'ida_
+_Context: Boko Haram, ISIL, United States, al-Qa'ida_
 
 ### [Hong Kong's pro-democracy movement gets a boost with Umbrella Soldiers winning at least four seats in Sunday's election although the distribution of political power over the district council seats remains broadly the same vis-a-vis the Hong Kong local elections, 2011. ](/news/2015/11/23/hong-kong-s-pro-democracy-movement-gets-a-boost-with-umbrella-soldiers-winning-at-least-four-seats-in-sunday-s-election-although-the-distrib.md)
 Young supporters of Hong Kong&#x27;s democracy movement, known as &#x27;Umbrella Soldiers&#x27;, took seats in the city&#x27;s first vote since mass street protests -- but pro-Beijing forces dominated the polls in a key test of public sentiment. The spotlight was on Sunday&#x27;s district elections to gauge

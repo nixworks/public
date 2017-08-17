@@ -1,7 +1,7 @@
 ## [2005-09-26](/news/2005/09/26/index.md)
 
 ### [ U.S. Army PFC Lynndie England is found guilty of six of seven charges by a military court in connection with the Abu Ghraib prisoner abuse scandal.  A sentencing hearing is scheduled to begin September 27. [http://news.yahoo.com/s/ap/20050926/ap_on_go_ca_st_pe/prisoner_abuse_england (Yahoo!News)] (Link dead as of 21:25, 14 January 2007 (UTC))](/news/2005/09/26/u-s-army-pfc-lynndie-england-is-found-guilty-of-six-of-seven-charges-by-a-military-court-in-connection-with-the-abu-ghraib-prisoner-abuse.md)
-_Context: Abu Ghraib abuse, Lynndie England, PFC, September 27, United States soldiers_
+_Context: Abu Ghraib abuse, Lynndie England, PFC, September 27, United States Army_
 
 ### [ Anti-Iraq War activist Cindy Sheehan is arrested while protesting outside the White House. [http://news.yahoo.com/s/ap/20050926/ap_on_re_us/war_demonstrations_8 (Yahoo! News)] (Link dead as of 21:25, 14 January 2007 (UTC))](/news/2005/09/26/anti-iraq-war-activist-cindy-sheehan-is-arrested-while-protesting-outside-the-white-house-http-news-yahoo-com-s-ap-20050926-ap_on_re_us.md)
 _Context: 2003 invasion of Iraq, Cindy Sheehan, White House, arrest_

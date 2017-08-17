@@ -1,7 +1,7 @@
 ## [2005-03-24](/news/2005/03/24/index.md)
 
 ### [ Paleontologists from North Carolina State University announce the discovery of structures resembling blood vessels and red blood cells inside the hindlimb fossil of a ''Tyrannosaurus rex''. ](/news/2005/03/24/paleontologists-from-north-carolina-state-university-announce-the-discovery-of-structures-resembling-blood-vessels-and-red-blood-cells-insi.md)
-_Context: North Carolina State University, Paleontologists, Tyrannosaurus rex, blood vessels, fossil, red blood cells_
+_Context: North Carolina State University, Paleontologists, Tyrannosaurus, blood vessels, fossil, red blood cells_
 
 ### [ The ''Washington Post'' claims to have obtained documents indicating that "ghosting", the use of Army prisons in Iraq by the CIA to hold unregistered inmates, is "systematic and known to three senior intelligence officials", contradicting earlier claims by the Army that such incidences were rare and ad hoc. ](/news/2005/03/24/the-washington-post-claims-to-have-obtained-documents-indicating-that-ghosting-the-use-of-army-prisons-in-iraq-by-the-cia-to-hold-un.md)
 _Context: CIA, Iraq, Washington Post, ghosting_

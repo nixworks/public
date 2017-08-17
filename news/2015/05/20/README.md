@@ -10,7 +10,7 @@ _Context: People's Liberation Army Navy, South China Sea, United States Navy_
 Get the latest science news and technology news, read tech reviews and more at ABC News.
 
 ### [The last edition of the ''Late Show with David Letterman'' goes to air on CBS Television in the United States. Following his retirement, David Letterman will be succeeded by Stephen Colbert on September 8, 2015. ](/news/2015/05/20/the-last-edition-of-the-late-show-with-david-letterman-goes-to-air-on-cbs-television-in-the-united-states-following-his-retirement-dav.md)
-_Context: CBS Television, David Letterman, Late Show with David Letterman, Stephen Colbert, U.S._
+_Context: CBS Television, David Letterman, Late Show with David Letterman, Stephen Colbert, United States_
 
 ### [A Shosholoza Meyl passenger train collides head-on with a goods train in Eastern Cape, South Africa, killing two people and injuring 20. ](/news/2015/05/20/a-shosholoza-meyl-passenger-train-collides-head-on-with-a-goods-train-in-eastern-cape-south-africa-killing-two-people-and-injuring-20.md)
 _Context: Eastern Cape, Shosholoza Meyl, South Africa_

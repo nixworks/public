@@ -4,7 +4,7 @@
 The shootout in Chihuahua comes amid rising violence nationwide.
 
 ### [The aviator Amelia Earhart and her navigator Fred Noonan may have survived in the Marshall Islands and were held captive by the Japanese according to an allegedly undoctored photo in the  National Archives. Experts remain divided on the claim, however. ](/news/2017/07/5/the-aviator-amelia-earhart-and-her-navigator-fred-noonan-may-have-survived-in-the-marshall-islands-and-were-held-captive-by-the-japanese-acc.md)
-_Context: Amelia Earhart, Disappearance of Amelia Earhart, Empire of Japan, Fred Noonan, Marshall Islands, National Archives_
+_Context: Amelia Earhart, Disappearance of Amelia Earhart, Fred Noonan, Japan, Marshall Islands, National Archives_
 
 ### [Volvo says it plans to phase out fossil fuels by building only electric or hybrid cars. ](/news/2017/07/5/volvo-says-it-plans-to-phase-out-fossil-fuels-by-building-only-electric-or-hybrid-cars.md)
 It became the first mainstream automaker to sound the death knell of the traditional engine, saying all the models it introduces from 2019 will be either hybrids or powered solely by batteries.

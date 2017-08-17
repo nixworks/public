@@ -25,7 +25,7 @@ _Context: 2008-09, Stockholm, Volvo Ocean Race_
 _Context: Anna Politkovskaya, Russia, Supreme Court, murder_
 
 ### [ Burma denies any link to the North Korean ship ''Kang Nam 1'' being tracked by the United States on suspicion of carrying weapons in violation of a United Nations embargo. ](/news/2009/06/25/burma-denies-any-link-to-the-north-korean-ship-kang-nam-1-being-tracked-by-the-united-states-on-suspicion-of-carrying-weapons-in-violat.md)
-_Context: Burma, Kang Nam 1, North Korea, U.S., United Nations_
+_Context: Burma, Kang Nam 1, North Korea, United Nations, United States_
 
 ### [ Honduran President Manuel Zelaya fires his armed forces chief after he refuses to give logistical support for a referendum on constitutional change. The Supreme Court then orders that he be returned to his job immediately. ](/news/2009/06/25/honduran-president-manuel-zelaya-fires-his-armed-forces-chief-after-he-refuses-to-give-logistical-support-for-a-referendum-on-constitutiona.md)
 _Context: Honduras, Manuel Zelaya, President, Supreme Court, constitutional referendum_

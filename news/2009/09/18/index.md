@@ -49,7 +49,7 @@ At least 33 people have been killed in a suspected suicide bomb attack in northw
 _Context: Australia, Minister for Indigenous Health and Aged Care, Nicola Roxon, Therapeutic Goods Administration, swine flu, vaccine_
 
 ### [ The ''Raptorex kriegsteini'', a smaller version of the ''Tyrannosaurus rex'', is discovered in northeastern China. ](/news/2009/09/18/the-raptorex-kriegsteini-a-smaller-version-of-the-tyrannosaurus-rex-is-discovered-in-northeastern-china.md)
-_Context: China, Raptorex kriegsteini, Tyrannosaurus rex_
+_Context: China, Raptorex kriegsteini, Tyrannosaurus_
 
 ### [ The African Union says a twin bombing that killed 17 peacekeepers on its base in Mogadishu, Somalia, was conducted in UN marked cars. ](/news/2009/09/18/the-african-union-says-a-twin-bombing-that-killed-17-peacekeepers-on-its-base-in-mogadishu-somalia-was-conducted-in-un-marked-cars.md)
 _Context: African Union, Mogadishu, Somalia, United Nations, twin bombing_

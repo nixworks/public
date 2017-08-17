@@ -4,7 +4,7 @@
 A 22-year-old man died in a hospital after being shot during protests in southern Turkey, as trade unions prepare to strike in support of those on the streets.
 
 ### [War in Afghanistan (2001-present):Three corpses are dug up near a former U.S. military base in Narkh bringing the number of corpses whose deaths locals blame on the presence of United States personnel to 10; people flood the streets of Maidan Shar calling for the U.S. to leave. ](/news/2013/06/4/war-in-afghanistan-2001apresent-pthree-corpses-are-dug-up-near-a-former-u-s-military-base-in-narkh-bringing-the-number-of-corpses-whose.md)
-_Context: Maidan Shar, Narkh, U.S., War in Afghanistan (2001-present)_
+_Context: Maidan Shar, Narkh, United States, War in Afghanistan (2001-present)_
 
 ### [The United States expands its military presence in Jordan, sending a Patriot missile battery and an undeclared number of F-16 fighters to the area. ](/news/2013/06/4/the-united-states-expands-its-military-presence-in-jordan-sending-a-patriot-missile-battery-and-an-undeclared-number-of-f-16-fighters-to-th.md)
 Washington says weapons may remain there after exercise to help Amman deal with threat from conflict in Syria.
@@ -37,7 +37,7 @@ More than 150 marine scientists call on federal and Qld governments to stop all 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [''United States v. Bradley Manning'':The trial of U.S. serviceman Bradley Manning for leaking classified material to WikiLeaks continues in Fort Meade, Maryland. Former computer hacker Adrian Lamo, who turned Manning in to his persecutors, gives evidence at the court martial. ](/news/2013/06/4/united-states-v-bradley-manning-pthe-trial-of-u-s-serviceman-bradley-manning-for-leaking-classified-material-to-wikileaks-continues-in.md)
-_Context: Adrian Lamo, Bradley Manning, Fort Meade, Maryland, United States soldiers, United States v Bradley Manning, WikiLeaks_
+_Context: Adrian Lamo, Bradley Manning, Fort Meade, Maryland, United States Army, United States v Bradley Manning, WikiLeaks_
 
 ### [Lawyers gather outside Britain's Ministry of Justice to demonstrate against PS220 million of proposed legal aid cuts and removal of the right of defendants to choose their own solicitor. ](/news/2013/06/4/lawyers-gather-outside-britain-s-ministry-of-justice-to-demonstrate-against-aps220-million-of-proposed-legal-aid-cuts-and-removal-of-the-righ.md)
 ### [South African athlete Oscar Pistorius appears in court charged with the murder of his girlfriend Reeva Steenkamp. ](/news/2013/06/4/south-african-athlete-oscar-pistorius-appears-in-court-charged-with-the-murder-of-his-girlfriend-reeva-steenkamp.md)

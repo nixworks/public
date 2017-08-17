@@ -10,7 +10,7 @@ Incidents mark first day of violence since Gaza ceasfires were declared.
 A man shot and killed his wife and five young children before taking his own life Tuesday, possibly out of despair from losing a job, the authorities said.
 
 ### [ Florida hedge fund manager Arthur Nadel is arrested by the United States Federal Bureau of Investigation and charged with fraud. ](/news/2009/01/27/florida-hedge-fund-manager-arthur-nadel-is-arrested-by-the-united-states-federal-bureau-of-investigation-and-charged-with-fraud.md)
-_Context: Arthur Nadel, FBI, Florida, Hedge fund, U.S., fraud_
+_Context: Arthur Nadel, FBI, Florida, Hedge fund, United States, fraud_
 
 ### [ The United Kingdom Information Tribunal orders Her Majesty's Government to release the minutes of Cabinet discussions regarding the 2003 invasion of Iraq. ](/news/2009/01/27/the-united-kingdom-information-tribunal-orders-her-majesty-s-government-to-release-the-minutes-of-cabinet-discussions-regarding-the-2003-in.md)
 _Context: 2003, 2003 invasion of Iraq, British Cabinet, His Majesty's Government, Information Tribunal, Iraq, United Kingdom, minutes_

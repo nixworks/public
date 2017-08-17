@@ -4,7 +4,7 @@
 _Context: 2014-15 Australian region cyclone season, Australia, Cape York Peninsula, Category 2, Nathan, Queensland, tropical cyclone_
 
 ### [A search continues after an army helicopter crashed March 10 during a foggy night training exercise at Eglin Air Force Base in the Florida Panhandle leaving seven Marines and four United States Army soldiers missing. ](/news/2015/03/11/a-search-continues-after-an-army-helicopter-crashed-march-10-during-a-foggy-night-training-exercise-at-eglin-air-force-base-in-the-florida-p.md)
-_Context: Eglin Air Force Base, Florida Panhandle, U.S. Marine Corps, United States soldiers_
+_Context: Eglin Air Force Base, Florida Panhandle, U.S. Marine Corps, United States Army_
 
 ### [A fire and partial collapse of the Admiral shopping complex in the Russian city of Kazan kills at least 17 people with 55 more injured. ](/news/2015/03/11/a-fire-and-partial-collapse-of-the-admiral-shopping-complex-in-the-russian-city-of-kazan-kills-at-least-17-people-with-55-more-injured.md)
 _Context: Kazan, Russia, fire and partial collapse_

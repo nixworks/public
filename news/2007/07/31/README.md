@@ -1,10 +1,10 @@
 ## [2007-07-31](/news/2007/07/31/index.md)
 
 ### [ Nuradin Abdi, a Somali citizen living in the United States, pleads guilty to providing material support to terrorists in connection with a plot to blow up a shopping mall in Columbus, Ohio. ](/news/2007/07/31/nuradin-abdi-a-somali-citizen-living-in-the-united-states-pleads-guilty-to-providing-material-support-to-terrorists-in-connection-with-a.md)
-_Context: Columbus, Nuradin Abdi, Somalia, U.S., shopping mall, terrorist_
+_Context: Columbus, Nuradin Abdi, Somalia, United States, shopping mall, terrorist_
 
 ### [ The President of Nicaragua Daniel Ortega offers to give up SAM-7 surface-to-air missiles in exchange for helicopters, surgical supplies and medicine from the United States. ](/news/2007/07/31/the-president-of-nicaragua-daniel-ortega-offers-to-give-up-sam-7-surface-to-air-missiles-in-exchange-for-helicopters-surgical-supplies-and.md)
-_Context: Daniel Ortega, Nicaraguan President, SAM-7, U.S., helicopters, surface-to-air missiles_
+_Context: Daniel Ortega, Nicaraguan President, SAM-7, United States, helicopters, surface-to-air missiles_
 
 ### [ The board of News Corporation formally approves a $5 billion bid for Dow Jones with Dow Jones agreeing to the terms. ](/news/2007/07/31/the-board-of-news-corporation-formally-approves-a-5-billion-bid-for-dow-jones-with-dow-jones-agreeing-to-the-terms.md)
 Rupert Murdoch is set to achieve his decades-long dream of owning the Wall Street Journal.
@@ -13,7 +13,7 @@ Rupert Murdoch is set to achieve his decades-long dream of owning the Wall Stree
 _Context: Alexandria, Archaeologist, Rhakotis_
 
 ### [ Retired United States Army Lieutenant-General Philip Kensinger is censured by the Army over his role in the series of errors following the death of Ranger Pat Tillman in 2004. ](/news/2007/07/31/retired-united-states-army-lieutenant-general-philip-kensinger-is-censured-by-the-army-over-his-role-in-the-series-of-errors-following-the.md)
-_Context: Lieutenant General, Pat Tillman, Philip Kensinger, Ranger, United States soldiers_
+_Context: Lieutenant General, Pat Tillman, Philip Kensinger, Ranger, United States Army_
 
 ### [ The United Nations Security Council authorises up to 26,000 troops and soldiers being sent to the Darfur region of Sudan (United Nations African Union Mission in Darfur or UNAMID). ](/news/2007/07/31/the-united-nations-security-council-authorises-up-to-26-000-troops-and-soldiers-being-sent-to-the-darfur-region-of-sudan-united-nations-af.md)
 _Context: Darfur, Sudan, UNAMID, United Nations African Union Mission in Darfur, United Nations Security Council_

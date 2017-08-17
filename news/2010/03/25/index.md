@@ -13,7 +13,7 @@ _Context: Mamozai, Pakistan_
 _Context: Gaza Strip, Israel_
 
 ### [The United States weakens proposed sanctions against Iran in a bid to win broader support on the UN Security Council as Iranian President Mahmoud Ahmadinejad dismisses the impact of any new measures to stop Iran's nuclear program. ](/news/2010/03/25/the-united-states-weakens-proposed-sanctions-against-iran-in-a-bid-to-win-broader-support-on-the-un-security-council-as-iranian-president-ma.md)
-_Context: Iran, Iran and weapons of mass destruction, Mahmoud Ahmadinejad, Security Council, U.S._
+_Context: Iran, Iran and weapons of mass destruction, Mahmoud Ahmadinejad, Security Council, United States_
 
 ### [Child sex abuse in the Catholic Church:Pope Benedict XVI is accused of failing to act in a case of the sexual abuse of 200 deaf boys. ](/news/2010/03/25/child-sex-abuse-in-the-catholic-church-ppope-benedict-xvi-is-accused-of-failing-to-act-in-a-case-of-the-sexual-abuse-of-200-deaf-boys.md)
 Bishop of Waterford &amp; Lismore Dr William Lee has described as &#39;seriously inadequate&#39; his handling of child sexual abuse allegations.
@@ -28,7 +28,7 @@ _Context: Mogadishu, Somalia_
 _Context: Barack Obama, Cuba, President, political prisoner_
 
 ### [3 die in a medical helicopter crash in Tennessee, United States, with the helicopter that crashed being operated by Hospital Wing. ](/news/2010/03/25/3-die-in-a-medical-helicopter-crash-in-tennessee-united-states-with-the-helicopter-that-crashed-being-operated-by-hospital-wing.md)
-_Context: Hospital Wing, Tennessee, U.S._
+_Context: Hospital Wing, Tennessee, United States_
 
 ### [U.S. defense secretary Robert Gates announces new rules that make it more difficult to expel gay service members. ](/news/2010/03/25/u-s-defense-secretary-robert-gates-announces-new-rules-that-make-it-more-difficult-to-expel-gay-service-members.md)
 The defense secretary announced an interim plan while the Pentagon looks at how it would implement a repeal of the “don’t ask, don’t tell” policy. 

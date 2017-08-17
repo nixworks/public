@@ -25,7 +25,7 @@ _Context: Iran, Tehran, United Kingdom, protests against the regime, trial_
 Meet Australia&#039;s answer to velociraptor.
 
 ### [ Syria invites United States President Barack Obama to the Damascus summit. ](/news/2009/07/3/syria-invites-united-states-president-barack-obama-to-the-damascus-summit.md)
-_Context: Barack Obama, Damascus, President, Syria, U.S._
+_Context: Barack Obama, Damascus, President, Syria, United States_
 
 ### [ Algerian ra music star Cheb Mami is jailed for five years in France for trying to force his former partner to have an abortion. ](/news/2009/07/3/algerian-rai-music-star-cheb-mami-is-jailed-for-five-years-in-france-for-trying-to-force-his-former-partner-to-have-an-abortion.md)
 Algerian singer Cheb Mami went on trial in France on Thursday over accusations that he forced his former lover into an attempted abortion in 2005.
@@ -46,7 +46,7 @@ _Context: Camberwell, England, London, killed after a fire_
 The move is one of the most concrete achievements in the effort to rebuild strained U.S.-Russian relations.
 
 ### [ American politician Sarah Palin, current Governor of Alaska and 2008 Vice Presidential candidate, announces her resignation as Governor, effective July 26. ](/news/2009/07/3/american-politician-sarah-palin-current-governor-of-alaska-and-2008-vice-presidential-candidate-announces-her-resignation-as-governor-ef.md)
-_Context: 2008, Alaska, Governor, Sarah Palin, U.S., U.S. Vice President_
+_Context: 2008, Alaska, Governor, Sarah Palin, U.S. Vice President, United States_
 
 ### [ Two aid workers, including one Irish woman, with the charity GOAL are kidnapped by an armed gang in Sudan's Darfur region. ](/news/2009/07/3/two-aid-workers-including-one-irish-woman-with-the-charity-goal-are-kidnapped-by-an-armed-gang-in-sudan-s-darfur-region.md)
 _Context: Darfur, GOAL, Ireland, Sudan_

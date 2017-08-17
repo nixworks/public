@@ -1,7 +1,7 @@
 ## [2007-11-28](/news/2007/11/28/index.md)
 
 ### [ An explosion and fire southeast of Clearbrook, Minnesota, kills two workers and forced the closure of a pipeline that carries nearly a fifth of U.S. crude oil imports from Canada. ](/news/2007/11/28/an-explosion-and-fire-southeast-of-clearbrook-minnesota-kills-two-workers-and-forced-the-closure-of-a-pipeline-that-carries-nearly-a-fift.md)
-_Context: Canada, Clearbrook, Minnesota, U.S., crude oil, pipeline_
+_Context: Canada, Clearbrook, Minnesota, United States, crude oil, pipeline_
 
 ### [ Striking Broadway stagehands and producers reach a deal. ](/news/2007/11/28/striking-broadway-stagehands-and-producers-reach-a-deal.md)
 _Context: Broadway_

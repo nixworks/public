@@ -21,9 +21,9 @@ The High Court has ordered the release of a man who was placed in custody this m
 
 ### Related:
 
-1. [ Irish Finance Minister Brian Lenihan announces an emergency budget. ](/news/2009/04/7/irish-finance-minister-brian-lenihan-announces-an-emergency-budget.md) _Context: Brian Lenihan, Jnr, Finance Minister, Ireland, falls back into recession_
-2. [Irish Minister for Finance Brian Lenihan, Jnr applies for an international bailout to deal with the Irish financial crisis. ](/news/2010/11/21/irish-minister-for-finance-brian-lenihan-jnr-applies-for-an-international-bailout-to-deal-with-the-irish-financial-crisis.md) _Context: Brian Lenihan, Jnr, Finance Minister, Ireland_
-3. [ Irish Minister for Finance Brian Lenihan delivers the nation's Budget for 2010. ](/news/2009/12/9/irish-minister-for-finance-brian-lenihan-delivers-the-nation-s-budget-for-2010.md) _Context: Brian Lenihan, Jnr, Finance Minister, Ireland_
+1. [ Irish Finance Minister Brian Lenihan announces an emergency budget. ](/news/2009/04/7/irish-finance-minister-brian-lenihan-announces-an-emergency-budget.md) _Context: Brian Lenihan Jnr, Finance Minister, Ireland, falls back into recession_
+2. [Irish Minister for Finance Brian Lenihan, Jnr applies for an international bailout to deal with the Irish financial crisis. ](/news/2010/11/21/irish-minister-for-finance-brian-lenihan-jnr-applies-for-an-international-bailout-to-deal-with-the-irish-financial-crisis.md) _Context: Brian Lenihan Jnr, Finance Minister, Ireland_
+3. [ Irish Minister for Finance Brian Lenihan delivers the nation's Budget for 2010. ](/news/2009/12/9/irish-minister-for-finance-brian-lenihan-delivers-the-nation-s-budget-for-2010.md) _Context: Brian Lenihan Jnr, Finance Minister, Ireland_
 4. [Ireland officially falls back into recession. ](/news/2012/03/22/ireland-officially-falls-back-into-recession.md) _Context: Ireland, falls back into recession_
 5. [ Ireland unveils a 15 billion euro austerity package to secure a bailout from the financial crisis. ](/news/2010/11/24/ireland-unveils-a-15-billion-euro-austerity-package-to-secure-a-bailout-from-the-financial-crisis.md) _Context: Ireland, falls back into recession_
 6. [ Ireland exits "one of Europe's worst recessions". ](/news/2009/12/17/ireland-exits-one-of-europe-s-worst-recessions.md) _Context: Ireland, falls back into recession_

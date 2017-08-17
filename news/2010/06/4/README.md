@@ -31,7 +31,7 @@ Links between WHO experts and drug firms that profited from H1N1 pandemic under 
 _Context: Aruba, Chile, Joran van der Sloot, Natalee Holloway, Peru_
 
 ### [A Joint Base Lewis-McChord United States Army soldier is charged with three counts of premeditated murder in connection with the deaths of three Afghan civilians. ](/news/2010/06/4/a-joint-base-lewis-mcchord-united-states-army-soldier-is-charged-with-three-counts-of-premeditated-murder-in-connection-with-the-deaths-of-t.md)
-_Context: Afghanistan's, Joint Base Lewis-McChord, United States soldiers, murder_
+_Context: Afghanistan's, Joint Base Lewis-McChord, United States Army, murder_
 
 ### [French Interior Minister Brice Hortefeux is convicted of racism. ](/news/2010/06/4/french-interior-minister-brice-hortefeux-is-convicted-of-racism.md)
 A&#x20;French&#x20;court&#x20;fined&#x20;Interior&#x20;Minister&#x20;Brice&#x20;Hortefeux&#x20;&#x20AC;750&#x20;on&#x20;Friday&#x20;for&#x20;making&#x20;a&#x20;racial&#x20;remark&#x20;in&#x20;reference&#x20;to&#x20;a&#x20;party&#x20;member&#x20;of&#x20;Arab&#x20;origin&#x20;during&#x20;an&#x20;informal&#x20;political&#x20;gathering&#x20;last&#x20;year.&#x20;Hortefeux&#x20;says&#x20;he&#x20;will&#x20;appeal.

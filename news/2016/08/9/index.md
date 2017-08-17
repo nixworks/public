@@ -19,7 +19,7 @@ A wildfire burning out of control in mountains and foothills east of Los Angeles
 At least three people have died in Funchal, the capital of the Portuguese holiday island of Madeira, as wildfires rage there and on the mainland.
 
 ### [Rodrigo Duterte says he might declare martial law in the Philippines if his spat with the Supreme Court escalates. ](/news/2016/08/9/rodrigo-duterte-says-he-might-declare-martial-law-in-the-philippines-if-his-spat-with-the-supreme-court-escalates.md)
-_Context: Martial law in the Philippines, Philippine Drug War, Philippines, Rodrigo Duterte, Supreme Court of the Philippines_
+_Context: Martial law in the Philippines, Philippines, Rodrigo Duterte, Supreme Court of the Philippines, drug war_
 
 ### [Irom Chanu Sharmila is set to end her 16-year fast against India's Armed Forces (Special Powers) Act.](/news/2016/08/9/irom-chanu-sharmila-is-set-to-end-her-16-year-fast-against-india-s-armed-forces-special-powers-act.md)
 Irom Sharmila, the iconic activist who didn&#039;t eat for 16 years in protest against alleged army atrocities in Manipur, burst into tears on Tuesday as she licked honey from her palm to end her fast.

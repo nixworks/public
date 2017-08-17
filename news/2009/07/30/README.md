@@ -13,7 +13,7 @@ _Context: Albania, Prime Minister, Sali Berisha, he may legalise, same-sex marri
 _Context: Boko Haram, Nigeria, alive when captured, radical Islamists_
 
 ### [ The United States Coast Guard calls off its search for as many as 79 Haitians missing after their boat capsized near the Turks and Caicos Islands with two hundred people onboard. ](/news/2009/07/30/the-united-states-coast-guard-calls-off-its-search-for-as-many-as-79-haitians-missing-after-their-boat-capsized-near-the-turks-and-caicos-i.md)
-_Context: Haiti, Turks and Caicos Islands, U.S. Coast Guard, boat capsized_
+_Context: Haiti, Turks and Caicos Islands, United States Coast Guard, boat capsized_
 
 ### [ Iranian police clash with mourners at a Tehranian cemetery for a memorial to those killed in post-election violence, using teargas to disperse crowds from the grave of Neda Agha-Soltan and forcing Opposition leader Mir-Hossein Mousavi to make his exit. ](/news/2009/07/30/iranian-police-clash-with-mourners-at-a-tehranian-cemetery-for-a-memorial-to-those-killed-in-post-election-violence-using-teargas-to-dispe.md)
 Iranian riot police have clashed with mourners who gathered at a cemetery to commemorate protestors killed in post-election violence.
@@ -31,7 +31,7 @@ The Communist President Vladimir Voronin of Moldova has said that he is ready fo
 _Context: Australia, Australian Prime Minister, Kevin Rudd_
 
 ### [ U.S. President Barack Obama arranged a meeting with police officer Sgt. James Crowley and African American public intellectual Henry Louis Gates at the White House in a bid to quell a dispute over racial profiling that arose from an altercation between the two of them. ](/news/2009/07/30/u-s-president-barack-obama-arranged-a-meeting-with-police-officer-sgt-james-crowley-and-african-american-public-intellectual-henry-louis.md)
-_Context: African-American, Barack Obama, Henry Louis Gates, President, U.S., White House, altercation, public intellectual, racial profiling_
+_Context: African-American, Barack Obama, Henry Louis Gates, President, United States, White House, altercation, public intellectual, racial profiling_
 
 ### [ Referendum Commission research indicates a significant increase in the level of understanding of the Treaty of Lisbon among Irish voters. ](/news/2009/07/30/referendum-commission-research-indicates-a-significant-increase-in-the-level-of-understanding-of-the-treaty-of-lisbon-among-irish-voters.md)
 Research indicates that there has been a substantial increase in the level of understanding of the Lisbon Treaty among Irish voters.
@@ -52,7 +52,7 @@ _Context: Baghdad, Iran, Iraq_
 Figures from the Department of health confirm that 19 people have been hospitalised for swine flu so far.
 
 ### [ The United States Presidential Medal of Freedom is awarded to several international figures including Stephen Hawking, Billie Jean King, Harvey Milk, Sidney Poitier, Mary Robinson, Desmond Tutu and Muhammad Yunus. ](/news/2009/07/30/the-united-states-presidential-medal-of-freedom-is-awarded-to-several-international-figures-including-stephen-hawking-billie-jean-king-ha.md)
-_Context: Billie Jean King, Desmond Tutu, Harvey Milk, Mary Robinson, Muhammad Yunus, Presidential Medal of Freedom with Distinction, Sidney Poitier, Stephen Hawking, U.S._
+_Context: Billie Jean King, Desmond Tutu, Harvey Milk, Mary Robinson, Muhammad Yunus, Presidential Medal of Freedom with Distinction, Sidney Poitier, Stephen Hawking, United States_
 
 ## [Previous Day...](/news/2009/07/29/index.md)
 

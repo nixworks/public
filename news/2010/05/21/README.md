@@ -49,7 +49,7 @@ _Context: Gaza Strip, Israel, Middle East, sniper_
 _Context: BP, Deepwater Horizon oil spill, Gulf_
 
 ### [United States Director of National Intelligence, Dennis C. Blair, announces his resignation.  (Al Jazeera)]](/news/2010/05/21/united-states-director-of-national-intelligence-dennis-c-blair-announces-his-resignation-al-jazeera.md)
-_Context: Dennis C. Blair, Director of National Intelligence, U.S._
+_Context: Dennis C. Blair, Director of National Intelligence, United States_
 
 ### [Around 125 people become ill at a wedding ceremony in Khanpur. ](/news/2010/05/21/around-125-people-become-ill-at-a-wedding-ceremony-in-khanpur.md)
 _Context: Khanpur_

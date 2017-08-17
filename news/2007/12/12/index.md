@@ -1,13 +1,13 @@
 ## [2007-12-12](/news/2007/12/12/index.md)
 
 ### [ United States President George W. Bush vetos an expansion of the federally funded, State Children's Health Insurance Program for the second time. ](/news/2007/12/12/united-states-president-george-w-bush-vetos-an-expansion-of-the-federally-funded-state-children-s-health-insurance-program-for-the-second.md)
-_Context: George W. Bush, President, State Children's Health Insurance Program, U.S., vetos_
+_Context: George W. Bush, President, State Children's Health Insurance Program, United States, vetos_
 
 ### [ The International Olympic Committee strips sprinter Marion Jones of five medals from the 2000 Summer Olympics after she admits to having taken banned substances. ](/news/2007/12/12/the-international-olympic-committee-strips-sprinter-marion-jones-of-five-medals-from-the-2000-summer-olympics-after-she-admits-to-having-ta.md)
 The International Olympic Committee ended the once stellar Olympic career of U.S. sprinter Marion Jones on Wednesday, taking back her five Sydney 2000 Games medals after she admitted to taking drugs.
 
 ### [ Merck & Co. recalls a million doses of a childhood vaccines after tests show a sterilization problem at a Pennsylvania factory. ](/news/2007/12/12/merck-co-recalls-a-million-doses-of-a-childhood-vaccines-after-tests-show-a-sterilization-problem-at-a-pennsylvania-factory.md)
-_Context: Merck, Pennsylvania, recall, sterilization, vaccine_
+_Context: Merck & Co., Pennsylvania, recall, sterilization, vaccine_
 
 ### [ The Lebanese armed forces' chief of operations, General Franois al-Hajj, is killed in a bomb attack in Beirut. ](/news/2007/12/12/the-lebanese-armed-forces-chief-of-operations-general-francois-al-hajj-is-killed-in-a-bomb-attack-in-beirut.md)
 _Context: Beirut, Franois al-Hajj, Lebanese Armed Forces, Lebanon_

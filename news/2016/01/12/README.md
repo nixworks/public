@@ -31,7 +31,7 @@ _Context: Hezbollah, Iran, Kuwait_
 The implementation of a nuclear agreement reached last July is now just days away.
 
 ### [Iran seizes the crew of two small United States Navy boats near Farsi Island, in the Persian Gulf, after they had allegedly entered Iranian waters. Pentagon spokesman, Peter Cook, told Associated Press that Iran has assured the United States that the crew and vessels will be returned promptly. ](/news/2016/01/12/iran-seizes-the-crew-of-two-small-united-states-navy-boats-near-farsi-island-in-the-persian-gulf-after-they-had-allegedly-entered-iranian.md)
-_Context: Associated Press, Farsi Island, Iran, Iran-United States relations, Persian Gulf, Peter Cook, U.S., United States Navy_
+_Context: Associated Press, Farsi Island, Iran, Iran-United States relations, Persian Gulf, Peter Cook, United States, United States Navy_
 
 ### [The United States House of Representatives votes overwhelmingly in favor of legislation to tighten sanctions on North Korea in response to the North's latest nuclear test. ](/news/2016/01/12/the-united-states-house-of-representatives-votes-overwhelmingly-in-favor-of-legislation-to-tighten-sanctions-on-north-korea-in-response-to-t.md)
 It would block North Korea&#039;s access to hard currency following a claimed nuclear test.

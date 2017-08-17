@@ -10,7 +10,7 @@ _Context: Israel, Israeli settlement, West Bank_
 _Context: Alistair Darling, Chancellor of the Exchequer, United Kingdom_
 
 ### [ Irish Minister for Finance Brian Lenihan delivers the nation's Budget for 2010. ](/news/2009/12/9/irish-minister-for-finance-brian-lenihan-delivers-the-nation-s-budget-for-2010.md)
-_Context: Brian Lenihan, Jnr, Budget for 2010, Finance Minister, Ireland_
+_Context: Brian Lenihan Jnr, Budget for 2010, Finance Minister, Ireland_
 
 ### [ The Irish Bishops Conference apologises for the sexual abuse suffered by its children after spending the first day of its winter conference examining the Murphy Report. ](/news/2009/12/9/the-irish-bishops-conference-apologises-for-the-sexual-abuse-suffered-by-its-children-after-spending-the-first-day-of-its-winter-conference.md)
 The Irish Bishops&#39; Conference has issued an apology to all those who were abused by priests.

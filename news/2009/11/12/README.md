@@ -4,7 +4,7 @@
 The vessels, one meant to take part in attacks on American cities, were captured by the United States at the end of World War II and sunk.
 
 ### [ United States Army Major Nidal Malik Hasan will face 13 charges of murder for the Fort Hood shooting. ](/news/2009/11/12/united-states-army-major-nidal-malik-hasan-will-face-13-charges-of-murder-for-the-fort-hood-shooting.md)
-_Context: Fort Hood massacre, Major, Nidal Malik Hasan, United States soldiers_
+_Context: Fort Hood massacre, Major, Nidal Malik Hasan, United States Army_
 
 ### [ United States Federal prosecutors begin legal action to seize properties owned by the Alavi Foundation on the grounds that it has ties with Iran. ](/news/2009/11/12/united-states-federal-prosecutors-begin-legal-action-to-seize-properties-owned-by-the-alavi-foundation-on-the-grounds-that-it-has-ties-with.md)
 Federal prosecutors sought a Manhattan skyscraper, the Piaget Building, and parcels of land that are home to mosques in Queens, Maryland, Texas and California.

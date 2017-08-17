@@ -7,7 +7,7 @@ _Context: Carolina Hurricanes, Edmonton Oilers, Stanley Cup, ice hockey_
 _Context: Governor of Louisiana, Kathleen Blanco, Louisiana, Louisiana National Guard, New Orleans, U.S. state_
 
 ### [ The United States Army charges three soldiers of the 101st Airborne Division 3rd Brigade Combat Team with murder in relation to the deaths of three men in custody in Iraq. ](/news/2006/06/19/the-united-states-army-charges-three-soldiers-of-the-101st-airborne-division-3rd-brigade-combat-team-with-murder-in-relation-to-the-deaths.md)
-_Context: 101st Airborne Division, Iraq, United States soldiers_
+_Context: 101st Airborne Division, Iraq, United States Army_
 
 ### [ The Mujahedeen Shura Council in Iraq claims that they have captured two United States soldiers. ](/news/2006/06/19/the-mujahedeen-shura-council-in-iraq-claims-that-they-have-captured-two-united-states-soldiers.md)
 An Iraqi militant group claimed Monday that it abducted two U.S. soldiers in an attack last week south of Baghdad.
