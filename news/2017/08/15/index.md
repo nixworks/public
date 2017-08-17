@@ -6,7 +6,7 @@ A woman suicide bomber blew herself up and killed 27 others at a market in north
 ### [Air Berlin, Germany's second largest airline, files for bankruptcy protection after its main shareholder, Abu Dhabi-based Etihad Airways, chose not to make more financing available. ](/news/2017/08/15/air-berlin-germany-s-second-largest-airline-files-for-bankruptcy-protection-after-its-main-shareholder-abu-dhabi-based-etihad-airways-ch.md)
 _Context: Abu Dhabi, Air Berlin, Airlines of Germany, Etihad Airways_
 
-### [Disasters in PortugalA tree falls over at a religious ceremony in Funchal, Madeira, killing at least 12 people and injuring over 50 others. ](/news/2017/08/15/disasters-in-portugalpa-tree-falls-over-at-a-religious-ceremony-in-funchal-madeira-killing-at-least-12-people-and-injuring-over-50-others.md)
+### [A tree falls over at a religious ceremony in Funchal, Madeira, killing at least 12 people and injuring over 50 others. ](/news/2017/08/15/a-tree-falls-over-at-a-religious-ceremony-in-funchal-madeira-killing-at-least-12-people-and-injuring-over-50-others.md)
 Fifty-two others are injured when the tree falls at a religious festival on the Portuguese island.
 
 ### [  The International Criminal Court issues an arrest warrant against Mahmoud al-Werfalli for the war crime of murder following the circulation of several videos in which he appears to oversee the execution of over 30 prisoners. ](/news/2017/08/15/the-international-criminal-court-issues-an-arrest-warrant-against-mahmoud-al-werfalli-for-the-war-crime-of-murder-following-the-circulatio.md)
