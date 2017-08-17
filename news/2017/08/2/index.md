@@ -6,7 +6,7 @@ A suicide bomb attack killed two American troops in Afghanistan on Wednesday as 
 ### [Prince Philip, Duke of Edinburgh, retires from public appearances at the age of 96, after having completed 22,219 solo engagements since 1952. ](/news/2017/08/2/prince-philip-duke-of-edinburgh-retires-from-public-appearances-at-the-age-of-96-after-having-completed-22-219-solo-engagements-since-195.md)
 Crowds cheer as Prince Philip, the 96-year-old husband of Queen Elizabeth, braves pouring rain to make his 22,219th and final solo public engagement.
 
-### [Several streets in Miami and Miami Beach are underwater after Tropical Depression Emily causes 4 to 7 inches of rain overnight. ](/news/2017/08/2/several-streets-in-miami-and-miami-beach-are-underwater-after-tropical-depression-emily-causes-4-to-7-inches-of-rain-overnight.md)
+### [Several streets in Miami and Miami Beach are underwater after Tropical Depression Emily causes 102 to 178 millimetres of rain overnight. ](/news/2017/08/2/several-streets-in-miami-and-miami-beach-are-underwater-after-tropical-depression-emily-causes-102-to-178-millimetres-of-rain-overnight.md)
 _Context: Floods in the United States, Miami, Miami Beach, Tropical Depression Emily_
 
 ### [A natural gas explosion at college prep school Minnehaha Academy in Minneapolis, Minnesota, kills two staff members. Another nine people were injured, seven of whom are hospitalized, three in critical and four in serious condition. ](/news/2017/08/2/a-natural-gas-explosion-at-college-prep-school-minnehaha-academy-in-minneapolis-minnesota-kills-two-staff-members-another-nine-people-wer.md)

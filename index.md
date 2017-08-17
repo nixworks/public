@@ -41,6 +41,9 @@ Fifty-two others are injured when the tree falls at a religious festival on the 
 ### [  The International Criminal Court issues an arrest warrant against Mahmoud al-Werfalli for the war crime of murder following the circulation of several videos in which he appears to oversee the execution of over 30 prisoners. ](/news/2017/08/15/the-international-criminal-court-issues-an-arrest-warrant-against-mahmoud-al-werfalli-for-the-war-crime-of-murder-following-the-circulatio.md)
 Judges at the International Criminal Court (ICC) on Tuesday issued an arrest warrant for a Libyan National Army (LNA)commander accused over the alleged execution of dozens of prisoners.
 
+### [At least 37 people are killed during clashes between armed inmates and security forces in a prison in Venezuela's Amazonas state. ](/news/2017/08/15/at-least-37-people-are-killed-during-clashes-between-armed-inmates-and-security-forces-in-a-prison-in-venezuela-s-amazonas-state.md)
+Fighting erupted between inmates and security forces in the prison in the city of Puerto Ayacucho, in Amazonas state.
+
 ### [ Aftermath of the  During a press conference at Trump Tower in New York City, which was intended to announce an executive order on infrastructure policy, President Donald Trump defended his August 12 remarks about the Charlottesville rally, placing "blame on both sides" for the incidents at the rally and criticizing what he referred to as the "alt-left," equating them with white supremacists and neo-Nazis on the right. ](/news/2017/08/15/aftermath-of-the-during-a-press-conference-at-trump-tower-in-new-york-city-which-was-intended-to-announce-an-executive-order-on-infrastru.md)
 President Trump told reporters the counter-protesters demonstrating against white nationalists are also to blame for violence in Charlottesville Saturday. 
 
