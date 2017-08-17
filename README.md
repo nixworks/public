@@ -1,6 +1,6 @@
 ## [News](/news/2017/08/17/index.md)
 
-### [A van drives into people in Barcelona in what Spanish police are calling a terrorist attack, killing at least 12 people. Two suspects are taken into custody, and ISIS claims responsibility. ](/news/2017/08/17/a-van-drives-into-people-in-barcelona-in-what-spanish-police-are-calling-a-terrorist-attack-killing-at-least-12-people-two-suspects-are-ta.md)
+### [A van drives into crowds of people in La Rambla, Barcelona, in what Spanish police are calling a terrorist attack, killing at least 12 people. Two suspects are taken into custody, and ISIL claims responsibility. ](/news/2017/08/17/a-van-drives-into-crowds-of-people-in-la-rambla-barcelona-in-what-spanish-police-are-calling-a-terrorist-attack-killing-at-least-12-peopl.md)
 The Islamic State later claimed responsibility for the attack, which Spanish authorities were treating as terrorism.
 
 ### [A large fire continues to burn at the Peter Pan Seafoods fish processing plant in Port Moller, Alaska, on the Alaska Peninsula. Much of the facility has been destroyed, and the plant is out of commission. Power is out in the village. ](/news/2017/08/17/a-large-fire-continues-to-burn-at-the-peter-pan-seafoods-fish-processing-plant-in-port-moller-alaska-on-the-alaska-peninsula-much-of-the.md)
@@ -8,6 +8,9 @@ Murphy says the plant offices, the processing section and the facility&#39;s lar
 
 ### [An English-language Chinese propaganda video from Xinhua, entitled ''The Spark: 7 Sins of India'' about the Doklam stand-off involving China, India and Bhutan, goes viral and sparks anger within India. ](/news/2017/08/17/an-english-language-chinese-propaganda-video-from-xinhua-entitled-the-spark-7-sins-of-india-about-the-doklam-stand-off-involving-china.md)
 It features a Chinese actor in a turban and fake beard, mockingly assuming an Indian accent.
+
+### [The South African Police Service issues a red alert at the country's borders to prevent First Lady of Zimbabwe Grace Mugabe from leaving the country. She is wanted on charges of "assault with intent to cause grievous bodily harm" on a 20-year-old woman in a hotel room in Johannesburg. ](/news/2017/08/17/the-south-african-police-service-issues-a-red-alert-at-the-country-s-borders-to-prevent-first-lady-of-zimbabwe-grace-mugabe-from-leaving-the.md)
+_Context: First Lady of Zimbabwe, Grace Mugabe, Johannesburg, South Africa-Zimbabwe relations, South African Police Service_
 
 ### [Hong Kong opposition activists Alex Chow, Joshua Wong, and Nathan Law are sentenced between six to eight months in prison and barred from holding office until 2022 as the Hong Kong government imposes harsher punishments on the individuals for their role in the Umbrella Movement. ](/news/2017/08/17/hong-kong-opposition-activists-alex-chow-joshua-wong-and-nathan-law-are-sentenced-between-six-to-eight-months-in-prison-and-barred-from-ho.md)
 _Context: Alex Chow, Joshua Wong, Nathan Law, Politics of Hong Kong, Umbrella Movement_
