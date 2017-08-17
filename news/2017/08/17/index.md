@@ -4,7 +4,7 @@
 It features a Chinese actor in a turban and fake beard, mockingly assuming an Indian accent.
 
 ### [Hong Kong opposition activists Alex Chow, Joshua Wong, and Nathan Law are sentenced between six to eight months in prison and barred from holding office until 2022 as the Hong Kong government imposes harsher punishments on the individuals for their role in the Umbrella Movement. ](/news/2017/08/17/hong-kong-opposition-activists-alex-chow-joshua-wong-and-nathan-law-are-sentenced-between-six-to-eight-months-in-prison-and-barred-from-ho.md)
-_Context: Alex Chow, Joshua Wong, Nathan Law, Umbrella Movement_
+_Context: Alex Chow, Joshua Wong, Nathan Law, Politics of Hong Kong, Umbrella Movement_
 
 ## [Previous Day...](/news/2017/08/16/index.md)
 
