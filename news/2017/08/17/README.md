@@ -1,5 +1,8 @@
 ## [2017-08-17](/news/2017/08/17/index.md)
 
+### [A car drives into people in Barcelona; there are reports of armed gunmen taking hostages at a restaurant. ](/news/2017/08/17/a-car-drives-into-people-in-barcelona-there-are-reports-of-armed-gunmen-taking-hostages-at-a-restaurant.md)
+“.@JonScottFNC: Reports: Gunmen holding hostages in Turkish restaurant nearby. #Barcelona https://t.co/MAnY05OEAp”
+
 ### [ An English-language Chinese propaganda video from Xinhua, entitled ''The Spark: 7 Sins of India'' about the Doklam stand-off involving China, India and Bhutan, goes viral and sparks anger within India. ](/news/2017/08/17/an-english-language-chinese-propaganda-video-from-xinhua-entitled-the-spark-7-sins-of-india-about-the-doklam-stand-off-involving-chin.md)
 It features a Chinese actor in a turban and fake beard, mockingly assuming an Indian accent.
 
