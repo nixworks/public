@@ -3,7 +3,7 @@
 ### [Aftermath of the Spanish police  in the coastal town of Cambrils kill five suspected terrorists in a counter-terror operation to stop a second van attack. The police reported the attackers were wearing explosive vests, however they were later discovered to be fakes. ](/news/2017/08/18/aftermath-of-the-spanish-police-in-the-coastal-town-of-cambrils-kill-five-suspected-terrorists-in-a-counter-terror-operation-to-stop-a-seco.md)
 _Context: 2017 Barcelona attack, Cambrils, Spanish, police, van attack_
 
-### [At least one person is reportedly killed in stabbing in Turku, Finland. ](/news/2017/08/18/at-least-one-person-is-reportedly-killed-in-stabbing-in-turku-finland.md)
+### [At least one person is reportedly killed, and several others wounded in a stabbing in Turku, Finland. Police said they arrested one person after a shootout and had launched a manhunt for other possible attackers. ](/news/2017/08/18/at-least-one-person-is-reportedly-killed-and-several-others-wounded-in-a-stabbing-in-turku-finland-police-said-they-arrested-one-person-a.md)
 Several people were stabbed in the Finnish city of Turku, police said on Friday, adding they had shot at and arrested one person.
 
 ## Opinion
@@ -41,7 +41,7 @@ _Context: Ahmad al-Faqi al-Mahdi, EUR, International Criminal Court, Internation
 ### [President Donald Trump has ended his planned ](/news/2017/08/17/president-donald-trump-has-ended-his-planned.md)
 President Donald Trump will not move forward with a planned Advisory Council on Infrastructure, a person familiar with the matter said Thursday.
 
-### [Aftermath of the Internet firm CloudFlare has also terminated the neo-Nazi, white supremacist, alt-right website ''The Daily Stormer'', following criticism due to the events in Charlottesville, Virginia. ''The Daily Stormer'' website had already lost web-hosting services by the domain register GoDaddy and Google ](/news/2017/08/17/aftermath-of-the-internet-firm-cloudflare-has-also-terminated-the-neo-nazi-white-supremacist-alt-right-website-the-daily-stormer-foll.md)
+### [Aftermath of the Internet firm CloudFlare ceased CDN support for the neo-Nazi, white supremacist, alt-right website ''The Daily Stormer'', after The ''Daily Stormer'' claimed that the company supported their cause. ''The Daily Stormer'' website had already lost web-hosting services by the domain register GoDaddy and Google ](/news/2017/08/17/aftermath-of-the-internet-firm-cloudflare-ceased-cdn-support-for-the-neo-nazi-white-supremacist-alt-right-website-the-daily-stormer-a.md)
 Cloudflare said claims that it secretly supported The Daily Stormer site were the last straw.
 
 ---

@@ -7,7 +7,7 @@ The famous chimes will sound for the final time on Monday before maintenance wor
 The late SJ Harris was noted for being the first African-American female professional road racer.
 
 ### [During a protest in Durham, North Carolina, to show solidarity with the events in Charlottesville, Virginia, a Confederate monument was pulled down; a woman has been arrested and charged in connection with the event. ](/news/2017/08/14/during-a-protest-in-durham-north-carolina-to-show-solidarity-with-the-events-in-charlottesville-virginia-a-confederate-monument-was-pull.md)
-_Context: Charlottesville, Virginia, Confederate monuments, Durham, North Carolina, Removal of Confederate monuments and memorials, events_
+_Context: Charlottesville, Virginia, Confederate monuments, Durham, North Carolina, Removal of Confederate monuments and memorials, Unite the Right rally_
 
 ### [A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 350 people with the death toll expected to rise as high as 500. ](/news/2017/08/14/a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-350-people-with-the-death-toll-expected-to-rise-as-h.md)
 There are fears for many who may have been asleep when the mudslide hit near Freetown, Sierra Leone.

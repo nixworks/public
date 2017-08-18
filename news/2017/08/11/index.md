@@ -31,7 +31,7 @@ _Context: Kenya, Kenyan general election, 2017, National Super Alliance, ODM, Pr
 The U.S. Marine Corps on Friday ordered its aircraft squadrons to suspend flight operations for 24 hours sometime during the next two weeks to review procedures after two of its planes crashed, killing dozens.
 
 ### [A white supremacist rally called "Unite the Right" takes place in Charlottesville, Virginia. ](/news/2017/08/11/a-white-supremacist-rally-called-unite-the-right-takes-place-in-charlottesville-virginia.md)
-_Context: Charlottesville, Virginia, events_
+_Context: Charlottesville, Virginia, Unite the Right rally_
 
 ## [Previous Day...](/news/2017/08/10/index.md)
 

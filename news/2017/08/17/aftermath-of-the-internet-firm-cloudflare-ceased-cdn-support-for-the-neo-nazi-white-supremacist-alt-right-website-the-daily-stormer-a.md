@@ -1,0 +1,24 @@
+### [2017-08-17](/news/2017/08/17/index.md)
+
+# Aftermath of the Internet firm CloudFlare ceased CDN support for the neo-Nazi, white supremacist, alt-right website ''The Daily Stormer'', after The ''Daily Stormer'' claimed that the company supported their cause. ''The Daily Stormer'' website had already lost web-hosting services by the domain register GoDaddy and Google 
+
+Cloudflare said claims that it secretly supported The Daily Stormer site were the last straw.
+
+
+### Source:
+
+1. [CNN Money](http://money.cnn.com/2017/08/17/technology/business/cloudflare-drops-daily-stormer/index.html)
+2. [Cloudflare's Official Blog](https://blog.cloudflare.com/why-we-terminated-daily-stormer/)
+
+### Related:
+
+1. [Aftermath of the Several internet companies, such as domain registrar GoDaddy and video game chat application Discord, shut down services for neo-Nazi, white supremacist, alt-right website ''The Daily Stormer'' for violation of terms of service, and in response to this weekend's violence in Charlottesville, Virginia. ](/news/2017/08/14/aftermath-of-the-several-internet-companies-such-as-domain-registrar-godaddy-and-video-game-chat-application-discord-shut-down-services-fo.md) _Context: GoDaddy, The Daily Stormer, Unite the Right rally, alt-right, neo-Nazi, white supremacist_
+2. [Aftermath of the 3M CEO Inge Thulin and Campbell CEO Denise Morrison resign from the American Manufacturing Council in protest of Trump's reaction to the alt-right's actions at Charlottesville, Virginia, bringing the total number of resignations this week to 8. ](/news/2017/08/16/aftermath-of-the-3m-ceo-inge-thulin-and-campbell-ceo-denise-morrison-resign-from-the-american-manufacturing-council-in-protest-of-trump-s-re.md) _Context: Unite the Right rally, alt-right_
+3. [Fights break out between alt-right protestors and left-wing counterprotesters in Charlottesville, Virginia, over the removal of the Robert Edward Lee Sculpture. One person is killed and several people are injured after a man drove his car into a crowd of counterprotesters. ](/news/2017/08/12/fights-break-out-between-alt-right-protestors-and-left-wing-counterprotesters-in-charlottesville-virginia-over-the-removal-of-the-robert-e.md) _Context: Unite the Right rally, alt-right_
+4. [ Two Neo-Nazi white supremacists are arrested for plotting to assassinate US presidential candidate Barack Obama. ](/news/2008/10/27/two-neo-nazi-white-supremacists-are-arrested-for-plotting-to-assassinate-us-presidential-candidate-barack-obama.md) _Context: neo-Nazi, white supremacist_
+5. [Aftermath of the During a press conference at Trump Tower in New York City, which was intended to announce an executive order on infrastructure policy, President Donald Trump defended his August 12 remarks about the Charlottesville rally, placing "blame on both sides" for the incidents at the rally and criticizing what he referred to as the "alt-left," equating them with white supremacists and neo-Nazis on the right. ](/news/2017/08/15/aftermath-of-the-during-a-press-conference-at-trump-tower-in-new-york-city-which-was-intended-to-announce-an-executive-order-on-infrastruct.md) _Context: Unite the Right rally_
+6. [During a protest in Durham, North Carolina, to show solidarity with the events in Charlottesville, Virginia, a Confederate monument was pulled down; a woman has been arrested and charged in connection with the event. ](/news/2017/08/14/during-a-protest-in-durham-north-carolina-to-show-solidarity-with-the-events-in-charlottesville-virginia-a-confederate-monument-was-pull.md) _Context: Unite the Right rally_
+7. [A white supremacist rally called "Unite the Right" takes place in Charlottesville, Virginia. ](/news/2017/08/11/a-white-supremacist-rally-called-unite-the-right-takes-place-in-charlottesville-virginia.md) _Context: Unite the Right rally_
+8. [German police detain two suspects with over 150kg of pyrotechnic explosives and an IED inscribed with a swastika and SS runes, stating the two may have a connection to a neo-Nazi terrorist group. ](/news/2017/01/14/german-police-detain-two-suspects-with-over-150kg-of-pyrotechnic-explosives-and-an-ied-inscribed-with-a-swastika-and-ss-runes-stating-the-t.md) _Context: neo-Nazi_
+9. [White supremacist Thomas Mair is found guilty of the murder of British Member of Parliament Jo Cox and is sentenced to life imprisonment with a whole life order. ](/news/2016/11/23/white-supremacist-thomas-mair-is-found-guilty-of-the-murder-of-british-member-of-parliament-jo-cox-and-is-sentenced-to-life-imprisonment-wit.md) _Context: white supremacist_
+10. [Suspected Neo-Nazis attack people at a vegan cafe with slabs of meat in Tbilisi, Georgia. ](/news/2016/06/1/suspected-neo-nazis-attack-people-at-a-vegan-cafe-with-slabs-of-meat-in-tbilisi-georgia.md) _Context: neo-Nazi_
