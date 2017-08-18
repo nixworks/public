@@ -27,7 +27,7 @@ _Context: Ahmad al-Faqi al-Mahdi, EUR, International Criminal Court, Internation
 ### [President Donald Trump has ended his planned ](/news/2017/08/17/president-donald-trump-has-ended-his-planned.md)
 President Donald Trump will not move forward with a planned Advisory Council on Infrastructure, a person familiar with the matter said Thursday.
 
-### [Aftermath of the Internet firm CloudFlare ceased CDN support for the neo-Nazi, white supremacist, alt-right website ''The Daily Stormer'', after The ''Daily Stormer'' claimed that the company supported their cause. ''The Daily Stormer'' website had already lost web-hosting services by the domain register GoDaddy and Google ](/news/2017/08/17/aftermath-of-the-internet-firm-cloudflare-ceased-cdn-support-for-the-neo-nazi-white-supremacist-alt-right-website-the-daily-stormer-a.md)
+### [Aftermath of the Internet firm CloudFlare ceased CDN support for the neo-Nazi, white supremacist website ''The Daily Stormer'', after The ''Daily Stormer'' claimed that the company supported their cause. ''The Daily Stormer'' website had already lost web-hosting services by the domain register GoDaddy and Google ](/news/2017/08/17/aftermath-of-the-internet-firm-cloudflare-ceased-cdn-support-for-the-neo-nazi-white-supremacist-website-the-daily-stormer-after-the.md)
 Cloudflare said claims that it secretly supported The Daily Stormer site were the last straw.
 
 ## [Previous Day...](/news/2017/08/16/index.md)
