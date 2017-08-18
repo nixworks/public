@@ -1,6 +1,6 @@
 ### [2017-08-18](/news/2017/08/18/index.md)
 
-# Aftermath of the Spanish police  in the coastal town of Cambrils kill five suspected terrorists in a counter-terror operation to stop a second van attack. The police reported the attackers were wearing explosive vests. 
+# Aftermath of the Spanish police  in the coastal town of Cambrils kill five suspected terrorists in a counter-terror operation to stop a second van attack. The police reported the attackers were wearing explosive vests, however they were later found out to be fakes. 
 
 
 
