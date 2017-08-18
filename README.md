@@ -32,6 +32,12 @@ _Context: Alex Chow, Joshua Wong, Nathan Law, Politics of Hong Kong, Umbrella Mo
 ### [The International Criminal Court has ruled that Ahmad al-Faqi al-Mahdi was liable for about EUR 2.7 million in personal damages for the destruction of Timbuktu's heritage sites, and that the victims (including Mali itself and the international community) be paid "individual, collective, and symbolic" reparations. The Trust Fund for Victims is to decide until 16 February 2018 how the amount will be paid. ](/news/2017/08/17/the-international-criminal-court-has-ruled-that-ahmad-al-faqi-al-mahdi-was-liable-for-about-a-2-7-million-in-personal-damages-for-the-dest.md)
 _Context: Ahmad al-Faqi al-Mahdi, EUR, International Criminal Court, International Criminal Court investigation in Mali, Mali, Timbuktu's heritage sites, destruction_
 
+### [Pesident Donald Trump has ended plans for an Advisory Council on Infrastructure after only a month, coming a day after two other advisory councils were scrapped. No reason was given. ](/news/2017/08/17/pesident-donald-trump-has-ended-plans-for-an-advisory-council-on-infrastructure-after-only-a-month-coming-a-day-after-two-other-advisory-co.md)
+President Donald Trump will not move forward with a planned Advisory Council on Infrastructure, a person familiar with the matter said Thursday.
+
+### [Aftermath of the Internet firm CloudFlare has also terminated the neo-Nazi, white supremacist, alt-right website ''The Daily Stormer'', following criticism due to the events in Charlottesville, Virginia. ](/news/2017/08/17/aftermath-of-the-internet-firm-cloudflare-has-also-terminated-the-neo-nazi-white-supremacist-alt-right-website-the-daily-stormer-foll.md)
+Earlier today, Cloudflare terminated the account of the Daily Stormer. We&#x27;ve stopped proxying their traffic and stopped answering DNS requests for their sites. We&#x27;ve taken measures to ensure that they cannot sign up for Cloudflare&#x27;s services ever again. Our terms of service reserve the right for us to terminate users
+
 ---
 
 ## [Day Before Yesterday](/news/2017/08/16/index.md)

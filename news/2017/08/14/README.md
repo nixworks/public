@@ -18,9 +18,6 @@ The National Archives announced it will release some six-thousand written and ph
 ### [The International Institute for Strategic Studies releases a report arguing that North Korea has acquired a high-performance liquid-propellant engine for its missile program, probably from illicit networks in Russia and Ukraine, likely produced by Yuzhmash facilities. Ukraine denies the allegations. ](/news/2017/08/14/the-international-institute-for-strategic-studies-releases-a-report-arguing-that-north-korea-has-acquired-a-high-performance-liquid-propella.md)
 Ukraine denied on Monday that it had ever supplied defense technology to North Korea, responding to an article in the New York Times that said North Korea may have purchased rocket engines from Ukrainian factory Yuzhmash.
 
-### [Aftermath of the Several internet companies, such as domain registrar GoDaddy and video game chat application Discord, shut down services for neo-Nazi, white supremacist, alt-right website ''The Daily Stormer'' for violation of terms of service, and in response to this weekend's violence in Charlottesville, Virginia. ](/news/2017/08/14/aftermath-of-the-several-internet-companies-such-as-domain-registrar-godaddy-and-video-game-chat-application-discord-shut-down-services-fo.md)
-The internet has long been a gathering place for white supremacists. But in the wake of the Virginia attack, some are reconsidering their willingness to host hate
-
 ### [A 13-year-old girl is killed when a car is deliberately driven into a pizza restaurant's sidewalk cafe in Sept-Sorts, France. At least 12 other people are injured, four critically. The driver is arrested. Police do not believe the incident was terrorism-related. ](/news/2017/08/14/a-13-year-old-girl-is-killed-when-a-car-is-deliberately-driven-into-a-pizza-restaurant-s-sidewalk-cafe-in-sept-sorts-france-at-least-12-ot.md)
 8-year-old girl killed and at least eight injured when vehicle slams into sidewalk cafe east of Paris on Monday
 
@@ -38,6 +35,9 @@ _Context: Garden Bridge, Mayor of London, Politics of London, Sadiq Khan_
 
 ### [California and San Francisco sue the United States Federal government over its opposition towards sanctuary cities. ](/news/2017/08/14/california-and-san-francisco-sue-the-united-states-federal-government-over-its-opposition-towards-sanctuary-cities.md)
 California is joining two localities already suing over the policy change the Trump administration announced last month: Chicago and San Francisco.
+
+### [Aftermath of the Several internet companies, such as domain registrar GoDaddy and video game chat application Discord, shut down services for neo-Nazi, white supremacist, alt-right website ''The Daily Stormer'' for violation of terms of service, and in response to this weekend's violence in Charlottesville, Virginia. ](/news/2017/08/14/aftermath-of-the-several-internet-companies-such-as-domain-registrar-godaddy-and-video-game-chat-application-discord-shut-down-services-fo.md)
+The internet has long been a gathering place for white supremacists. But in the wake of the Virginia attack, some are reconsidering their willingness to host hate
 
 ## [Previous Day...](/news/2017/08/13/index.md)
 
