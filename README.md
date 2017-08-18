@@ -6,8 +6,11 @@ _Context: 2017 Barcelona attack, Cambrils, Spanish, police, van attack_
 ### [At least two people are reportedly killed, and several others wounded in a stabbing in Turku, Finland. Police said they arrested one person after a shootout and had launched a manhunt for other possible attackers. ](/news/2017/08/18/at-least-two-people-are-reportedly-killed-and-several-others-wounded-in-a-stabbing-in-turku-finland-police-said-they-arrested-one-person.md)
 Several people were stabbed in the Finnish city of Turku, police said on Friday, adding they had shot at and arrested one person.
 
-### [ United States President Donald Trump discusses the removal of White House Chief Strategist Steve Bannon with senior aides. ](/news/2017/08/18/united-states-president-donald-trump-discusses-the-removal-of-white-house-chief-strategist-steve-bannon-with-senior-aides.md)
-Stephen K. Bannon had clashed for months with other senior West Wing advisers and members of the president’s family.
+### [The 145-year-old Roger B. Taney Monument outside Maryland State House in Annapolis, Maryland, is removed overnight by authorities. Maryland Governor Larry Hogan called on Wednesday for the monument to be taken down immediately. ](/news/2017/08/18/the-145-year-old-roger-b-taney-monument-outside-maryland-state-house-in-annapolis-maryland-is-removed-overnight-by-authorities-maryland.md)
+Maryland authorities took down a statue on Friday of a 19th century chief justice who wrote an infamous pro-slavery decision, the latest example of action across the United States over memorials that have triggered racially charged protests.
+
+### [Steve Bannon resigns as President Donald Trump's White House Chief Strategist. ](/news/2017/08/18/steve-bannon-resigns-as-president-donald-trump-s-white-house-chief-strategist.md)
+Steve Bannon has resigned from his role as White House chief strategist, the White House said today. A source close to Bannon told ABC News the resignation was effective Aug. 14, exactly one year after he joined the Trump campaign. &quot;White House Chief of Staff John Kelly and Steve Bannon have...
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
