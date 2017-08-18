@@ -3,7 +3,7 @@
 ### [A van drives into crowds of people in La Rambla, Barcelona, in what Spanish police are calling a terrorist attack, killing at least 12 people. Two suspects are taken into custody, and ISIL claims responsibility. ](/news/2017/08/17/a-van-drives-into-crowds-of-people-in-la-rambla-barcelona-in-what-spanish-police-are-calling-a-terrorist-attack-killing-at-least-12-peopl.md)
 The Islamic State later claimed responsibility for the attack, which Spanish authorities were treating as terrorism.
 
-### [A large fire continues to burn at the Peter Pan Seafoods fish processing plant in Port Moller, Alaska, on the Alaska Peninsula. Much of the facility has been destroyed, and the plant is out of commission. Power is out in the village. ](/news/2017/08/17/a-large-fire-continues-to-burn-at-the-peter-pan-seafoods-fish-processing-plant-in-port-moller-alaska-on-the-alaska-peninsula-much-of-the.md)
+### [Disasters in A large fire continues to burn at the Peter Pan Seafoods fish processing plant in Port Moller, Alaska, on the Alaska Peninsula. Much of the facility has been destroyed, and the plant is out of commission. Power is out in the village. ](/news/2017/08/17/disasters-in-a-large-fire-continues-to-burn-at-the-peter-pan-seafoods-fish-processing-plant-in-port-moller-alaska-on-the-alaska-peninsula.md)
 Murphy says the plant offices, the processing section and the facility&#39;s large freezer were destroyed.
 
 ### [The US Navy has announced that about a dozen sailors are to be disciplined after the death of 7 crew members of the USS Fitzgerald due to a collision with a container ship last June. ](/news/2017/08/17/the-us-navy-has-announced-that-about-a-dozen-sailors-are-to-be-disciplined-after-the-death-of-7-crew-members-of-the-uss-fitzgerald-due-to-a.md)
