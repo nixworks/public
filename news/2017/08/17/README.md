@@ -24,11 +24,11 @@ _Context: Alex Chow, Joshua Wong, Nathan Law, Politics of Hong Kong, Umbrella Mo
 ### [The International Criminal Court has ruled that Ahmad al-Faqi al-Mahdi is liable for about EUR 2.7 million in personal damages for the destruction of Timbuktu's heritage sites, and that the victims (including Mali itself and the international community) be paid "individual, collective, and symbolic" reparations. The Trust Fund for Victims is to decide until 16 February 2018 how the amount will be paid (the Court has also recognized that the penniless al-Mahdi would be unable to pay). ](/news/2017/08/17/the-international-criminal-court-has-ruled-that-ahmad-al-faqi-al-mahdi-is-liable-for-about-a-2-7-million-in-personal-damages-for-the-destr.md)
 _Context: Ahmad al-Faqi al-Mahdi, EUR, International Criminal Court, International Criminal Court investigation in Mali, Mali, Timbuktu's heritage sites, destruction_
 
-### [Pesident Donald Trump has ended his planed ](/news/2017/08/17/pesident-donald-trump-has-ended-his-planed.md)
+### [President Donald Trump has ended his planned ](/news/2017/08/17/president-donald-trump-has-ended-his-planned.md)
 President Donald Trump will not move forward with a planned Advisory Council on Infrastructure, a person familiar with the matter said Thursday.
 
-### [Aftermath of the Internet firm CloudFlare has also terminated the neo-Nazi, white supremacist, alt-right website ''The Daily Stormer'', following criticism due to the events in Charlottesville, Virginia. ](/news/2017/08/17/aftermath-of-the-internet-firm-cloudflare-has-also-terminated-the-neo-nazi-white-supremacist-alt-right-website-the-daily-stormer-foll.md)
-Earlier today, Cloudflare terminated the account of the Daily Stormer. We&#x27;ve stopped proxying their traffic and stopped answering DNS requests for their sites. We&#x27;ve taken measures to ensure that they cannot sign up for Cloudflare&#x27;s services ever again. Our terms of service reserve the right for us to terminate users
+### [Aftermath of the Internet firm CloudFlare has also terminated the neo-Nazi, white supremacist, alt-right website ''The Daily Stormer'', following criticism due to the events in Charlottesville, Virginia. ''The Daily Stormer'' website had already lost web-hosting services by the domain register GoDaddy and Google ](/news/2017/08/17/aftermath-of-the-internet-firm-cloudflare-has-also-terminated-the-neo-nazi-white-supremacist-alt-right-website-the-daily-stormer-foll.md)
+Cloudflare said claims that it secretly supported The Daily Stormer site were the last straw.
 
 ## [Previous Day...](/news/2017/08/16/index.md)
 
