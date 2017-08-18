@@ -22,7 +22,7 @@ Officials admitted that the hospital owed its oxygen supplier more than $50,000,
 Hun Sen accuses Laotian troops of trespassing into border area and threatens military response if they fail to withdraw.
 
 ### [Peru-Venezuela relationsShortly after Peruvian President Pedro Pablo Kuczynski called Venezuelan President Nicolas Maduro a "dictator" in response to the Venezuelan constitutional crisis, Peru expels Venezuela's ambassador to Peru to protest Venezuela's recent formation of an all-powerful constituent assembly that has been widely condemned as a power grab by Maduro. ](/news/2017/08/11/peruavenezuela-relationspshortly-after-peruvian-president-pedro-pablo-kuczynski-called-venezuelan-president-nicola-s-maduro-a-dictator-i.md)
-_Context: Nicolas Maduro, Pedro Pablo Kuczynski, Peru, Venezuela, Venezuelan constitutional crisis, constituent assembly_
+_Context: 2017 Venezuelan constitutional crisis, National Constituent Assembly, Nicolas Maduro, Pedro Pablo Kuczynski, Peru, Venezuela_
 
 ### [The Kenyan electoral commission announces that President Uhuru Kenyatta has won re-election. Kenyatta leads ODM candidate Raila Odinga by more than 1.4 million votes. The opposition National Super Alliance rejects this finding as fraudulent. ](/news/2017/08/11/the-kenyan-electoral-commission-announces-that-president-uhuru-kenyatta-has-won-re-election-kenyatta-leads-odm-candidate-raila-odinga-by-mo.md)
 _Context: Kenya, Kenyan general election, 2017, National Super Alliance, ODM, President, Raila Odinga, Uhuru Kenyatta, electoral commission, re-election_

@@ -7,8 +7,7 @@ The Islamic State later claimed responsibility for the attack, which Spanish aut
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-40971004)
-2. [The Washington Post](https://www.washingtonpost.com/world/europe/van-swerves-into-crowds-in-barcelonas-popular-las-ramblas-district/2017/08/17/01556ed2-8365-11e7-b359-15a3617c767b_story.html)
+1. [The Washington Post](https://www.washingtonpost.com/world/europe/van-swerves-into-crowds-in-barcelonas-popular-las-ramblas-district/2017/08/17/01556ed2-8365-11e7-b359-15a3617c767b_story.html)
 
 ### Related:
 

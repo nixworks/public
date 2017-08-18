@@ -8,7 +8,8 @@ Steve Bannon has resigned from his role as White House chief strategist, the Whi
 ### Source:
 
 1. [ABC News](http://abcnews.go.com/Politics/steve-bannon-white-house-chief-strategist/story?id=49295772)
-2. [NYT](https://www.nytimes.com/2017/08/18/us/politics/steve-bannon-trump-white-house.html)
+2. [CNN](http://money.cnn.com/2017/08/18/news/donald-trump-carl-icahn/index.html)
+3. [NYT](https://www.nytimes.com/2017/08/18/us/politics/steve-bannon-trump-white-house.html)
 
 ### Related:
 

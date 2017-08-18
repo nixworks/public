@@ -12,5 +12,8 @@ Maryland authorities took down a statue on Friday of a 19th century chief justic
 ### [Steve Bannon resigns as President Donald Trump's White House Chief Strategist. ](/news/2017/08/18/steve-bannon-resigns-as-president-donald-trump-s-white-house-chief-strategist.md)
 Steve Bannon has resigned from his role as White House chief strategist, the White House said today. A source close to Bannon told ABC News the resignation was effective Aug. 14, exactly one year after he joined the Trump campaign. &quot;White House Chief of Staff John Kelly and Steve Bannon have...
 
+### [The controversial National Constituent Assembly votes unanimously to assume the powers of the opposition-led National Assembly of Venezuela. ](/news/2017/08/18/the-controversial-national-constituent-assembly-votes-unanimously-to-assume-the-powers-of-the-opposition-led-national-assembly-of-venezuela.md)
+The opposition-led parliament says the move will be rejected by Venezuelans.
+
 ## [Previous Day...](/news/2017/08/17/index.md)
 
