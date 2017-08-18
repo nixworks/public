@@ -10,7 +10,7 @@ By Garba Muhammed KADUNA Nigeria (Reuters) - At least 82 people were killed on W
 UN human rights chief Navi Pillay says Israel may have committed war crimes in the Gaza Strip, while also condemning Hamas rocket attacks.
 
 ### [Lithuania and the euro:The Council of the European Union (General Affairs Council) adopts a final decision allowing Lithuania to adopt the euro as its currency on January 1, 2015. ](/news/2014/07/23/lithuania-and-the-euro-pthe-council-of-the-european-union-general-affairs-council-adopts-a-final-decision-allowing-lithuania-to-adopt-the.md)
-_Context: Council of the European Union, Lithuania, Lithuania adopts the euro, euro_
+_Context: Council of the European Union, EUR, Lithuania, Lithuania adopts the euro_
 
 ### [TransAsia Airways Flight 222 crashes into residential buildings in an emergency landing in Taiwan's Penghu Islands, with at least 47 feared dead and 11 injured. ](/news/2014/07/23/transasia-airways-flight-222-crashes-into-residential-buildings-in-an-emergency-landing-in-taiwan-s-penghu-islands-with-at-least-47-feared.md)
 Over 40 people are feared dead after a TransAsia Airways plane crashed Wednesday while making an emergency landing in bad weather in the Penghu Islands off the coast of Taiwan.

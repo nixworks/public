@@ -4,7 +4,7 @@
 _Context: CeBIT, Expo, Hanover, information technology_
 
 ### [ Slovenia asks to join the Euro monetary union. ](/news/2006/03/8/slovenia-asks-to-join-the-euro-monetary-union.md)
-_Context: Slovenia, euro, monetary union_
+_Context: EUR, Slovenia, monetary union_
 
 ### [ The United States House Appropriations Committee votes to block the Bush administration's plan for Dubai Ports World to take over operations at six major U.S. ports. ](/news/2006/03/8/the-united-states-house-appropriations-committee-votes-to-block-the-bush-administration-s-plan-for-dubai-ports-world-to-take-over-operation.md)
 _Context: Dubai Ports World, George W. Bush administration, House Appropriations Committee, United States House of Representatives_

@@ -7,7 +7,7 @@ _Context: Iraq, Sabawi Ibrahim al-Hasan al-Tikriti, Saddam Hussein, Syria_
 _Context: Framework Convention on Tobacco Control, World Health Organization, countries, legally binding, ratifying_
 
 ### [ A small bomb explodes at a hotel in Villajoyosa, Spain, after a warning by the Basque separatist group ETA. No one is injured. ](/news/2005/02/27/a-small-bomb-explodes-at-a-hotel-in-villajoyosa-spain-after-a-warning-by-the-basque-separatist-group-eta-no-one-is-injured.md)
-_Context: ETA, Spain, Villajoyosa_
+_Context: ETA, Spanish, Villajoyosa_
 
 ### [ Russia agrees to sell fuel to Iran for development of a nuclear reactor, stating that tough safeguards will be enacted to prevent any diversion to a nuclear weapons programme. ](/news/2005/02/27/russia-agrees-to-sell-fuel-to-iran-for-development-of-a-nuclear-reactor-stating-that-tough-safeguards-will-be-enacted-to-prevent-any-diver.md)
 Get the latest breaking news and top news headlines at Reuters.com

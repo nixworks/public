@@ -40,7 +40,7 @@ Europe’s 22 biggest banks may have accumulated about 400 billion euros in cred
 _Context: 2009 AFL Grand Final, Geelong, Melbourne Cricket Ground, St Kilda Football Club_
 
 ### [ The Spanish government formally unveils plans to liberalise the country's abortion law. ](/news/2009/09/26/the-spanish-government-formally-unveils-plans-to-liberalise-the-country-s-abortion-law.md)
-_Context: Spain, abortion_
+_Context: Spanish, abortion_
 
 ### [ Nigerian President Umaru Yar'Adua returns to Abuja after a visit to Saudi Arabia. ](/news/2009/09/26/nigerian-president-umaru-yar-adua-returns-to-abuja-after-a-visit-to-saudi-arabia.md)
 _Context: Abuja, Nigeria, President of Nigeria, Saudi Arabia, Umaru Yar'Adua_

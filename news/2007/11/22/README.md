@@ -19,7 +19,7 @@ _Context: North Ossetia, Russia, bomb, bus_
 _Context: Croatia, England, Steve McClaren, Terry Venables, Wembley Stadium_
 
 ### [ Danish Prime Minister Anders Fogh Rasmussen says that Denmark will hold a new referendum on relinquishing its opt-outs, including an exemption from the European common currency, the euro, during the next four years. ](/news/2007/11/22/danish-prime-minister-anders-fogh-rasmussen-says-that-denmark-will-hold-a-new-referendum-on-relinquishing-its-opt-outs-including-an-exempt.md)
-_Context: Anders Fogh Rasmussen, Denmark, Europe, a new referendum on relinquishing its opt-outs, common currency, euro_
+_Context: Anders Fogh Rasmussen, Denmark, EUR, Europe, a new referendum on relinquishing its opt-outs, common currency_
 
 ### [  Pakistan is suspended from the Commonwealth of Nations again for its imposition of the state of emergency. ](/news/2007/11/22/pakistan-is-suspended-from-the-commonwealth-of-nations-again-for-its-imposition-of-the-state-of-emergency.md)
 _Context: 2007 Pakistani state of emergency, Commonwealth of Nations, Pakistan, state of emergency_

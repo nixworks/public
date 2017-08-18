@@ -13,7 +13,7 @@ Suspected rebels hacked to death at least nine people in northeastern Democratic
 A suicide bomb blast claimed by Islamic State killed at least 16 people in the mostly Kurdish-controlled city of Hasaka in northeastern Syria on Tuesday, the monitoring group the Syrian Observatory for Human Rights said.
 
 ### [The Central Bank of Russia announces it will start buying the Chinese yuan in an attempt to diversify its foreign-currency reserves away from the Euro and the U.S. dollar and to become less vulnerable to Western sanctions. ](/news/2016/07/5/the-central-bank-of-russia-announces-it-will-start-buying-the-chinese-yuan-in-an-attempt-to-diversify-its-foreign-currency-reserves-away-fro.md)
-_Context: Russian Central Bank, US$, against, euro, yuan_
+_Context: EUR, Russian Central Bank, US$, against, yuan_
 
 ### [At least seven people are killed and eight are injured after a helicopter carrying Turkish Armed Forces personnel crashes in Turkey's northern Giresun Province, on the Black Sea coast. ](/news/2016/07/5/at-least-seven-people-are-killed-and-eight-are-injured-after-a-helicopter-carrying-turkish-armed-forces-personnel-crashes-in-turkey-s-northe.md)
 Seven people were killed and eight injured when a helicopter carrying Turkish military personnel, their wives and children crashed in the Black Sea region of northeast Turkey on Tuesday, the Turkish armed forces said.

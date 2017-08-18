@@ -31,7 +31,7 @@ _Context: Abdurisaq Mohamed Nor, Mogadishu_
 Thai capital braces for violence as anti-government red shirts prepare for major rally.
 
 ### [The United Nations Special Rapporteur to Burma Tomas Quintana calls for investigations into war crimes and crimes against humanity perpetrated against Burmese civilians. ](/news/2010/03/12/the-united-nations-special-rapporteur-to-burma-tomas-quintana-calls-for-investigations-into-war-crimes-and-crimes-against-humanity-perpetrat.md)
-_Context: Burma, United Nations, United Nations special human rights envoy, crimes against humanity, war crime_
+_Context: Burma, UN special rapporteurs, United Nations, crimes against humanity, war crime_
 
 ### [Darfur peace talks are threatened by new violence as Sudanese army steps up military operations against a major Darfur rebel faction. ](/news/2010/03/12/darfur-peace-talks-are-threatened-by-new-violence-as-sudanese-army-steps-up-military-operations-against-a-major-darfur-rebel-faction.md)
 _Context: Sudan, conflict_

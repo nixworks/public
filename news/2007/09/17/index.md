@@ -19,7 +19,7 @@ _Context: 2008, Democratic, Hillary Clinton, universal healthcare_
 US President George W Bush has nominated a retired federal judge and law and order conservative to replace embattled Alberto Gonzales as US Attorney-General.
 
 ### [ Microsoft loses its appeal against a European Union antitrust ruling forcing it to pay a 497 million euro fine. ](/news/2007/09/17/microsoft-loses-its-appeal-against-a-european-union-antitrust-ruling-forcing-it-to-pay-a-497-million-euro-fine.md)
-_Context: European Union, Microsoft, antitrust, euro_
+_Context: EUR, European Union, Microsoft, antitrust_
 
 ### [ The Supreme Court of Pakistan hears petitions as to whether Pervez Musharraf should remain as head of the Pakistani Army while serving as the President of Pakistan. ](/news/2007/09/17/the-supreme-court-of-pakistan-hears-petitions-as-to-whether-pervez-musharraf-should-remain-as-head-of-the-pakistani-army-while-serving-as-t.md)
 _Context: Pakistani Army, Pervez Musharraf, President, Supreme Court_

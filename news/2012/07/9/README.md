@@ -7,7 +7,7 @@ Police in northern Mexico find 10 decapitated bodies in the city of Torreon, bel
 _Context: Bashar Assad's, Damascus, Kofi Annan, Syrian uprising (2011-present)_
 
 ### [Gunmen open fire at a Pakistan Army training camp near the city of Wazirabad resulting in seven deaths and five people being injured. ](/news/2012/07/9/gunmen-open-fire-at-a-pakistan-army-training-camp-near-the-city-of-wazirabad-resulting-in-seven-deaths-and-five-people-being-injured.md)
-_Context: Pakistan Army, Wazirabad_
+_Context: Pakistan army, Wazirabad_
 
 ### [Two men are killed after protests in the eastern part of Saudi Arabia, following the arrest of a Shi'ite cleric, Nimr al Nimr yesterday.](/news/2012/07/9/two-men-are-killed-after-protests-in-the-eastern-part-of-saudi-arabia-following-the-arrest-of-a-shi-ite-cleric-nimr-al-nimr-yesterday.md)
 _Context: Nimr al-Nimr, Saudi Arabia_

@@ -7,7 +7,7 @@ _Context: List of politicians killed in the Mexican Drug War, Mexican Drug War, 
 Turkey deploys anti-aircraft guns along its border with Syria; meanwhile, explosions are reported outside court buildings in central Damascus.
 
 ### [The Taliban releases a video of 17 decapitated Pakistani soldiers. ](/news/2012/06/28/the-taliban-releases-a-video-of-17-decapitated-pakistani-soldiers.md)
-_Context: Pakistan Army, Taliban_
+_Context: Pakistan army, Taliban_
 
 ### [In Pakistan, a bomb in Quetta explodes next to a bus carrying Shias, killing 10 and leaving 30 injured.](/news/2012/06/28/in-pakistan-a-bomb-in-quetta-explodes-next-to-a-bus-carrying-shias-killing-10-and-leaving-30-injured.md)
 _Context: Pakistan, Quetta, Shia_
@@ -22,7 +22,7 @@ _Context: Barclays_
 _Context: News Corporation, The Wall Street Journal_
 
 ### [Eurozone leaders hold an emergency meeting on assistance to Spain and Italy. ](/news/2012/06/28/eurozone-leaders-hold-an-emergency-meeting-on-assistance-to-spain-and-italy.md)
-_Context: Eurozone, Italian, Spain_
+_Context: Eurozone, Italian, Spanish_
 
 ### [The United Nations expresses concern over the historical city of Timbuktu. ](/news/2012/06/28/the-united-nations-expresses-concern-over-the-historical-city-of-timbuktu.md)
 _Context: Timbuktu, United Nations_

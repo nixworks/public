@@ -13,7 +13,7 @@ _Context: Galveston Island, Hurricane Ike, Texas_
 _Context: George W. Bush administration, United States Congress, housing crisis_
 
 ### [ War in North-West Pakistan: A suicide bomber attacks a Pakistan Army convoy, killing eight soldiers. ](/news/2008/09/20/war-in-north-west-pakistan-p-a-suicide-bomber-attacks-a-pakistan-army-convoy-killing-eight-soldiers.md)
-_Context: Pakistan Army, War in North-West Pakistan, suicide bomber_
+_Context: Pakistan army, War in North-West Pakistan, suicide bomber_
 
 ### [ South African President Thabo Mbeki agrees to resign after the ruling African National Congress requested him to step down.](/news/2008/09/20/south-african-president-thabo-mbeki-agrees-to-resign-after-the-ruling-african-national-congress-requested-him-to-step-down.md)
 _Context: African National Congress, South African, Thabo Mbeki_

@@ -7,7 +7,7 @@ _Context: Chechnya, Doku Umarov, Insurgency in the North Caucasus, Russia_
 Two people are shot dead and more than 400 injured in protests across Egypt sparked by the deaths of 74 people after a football match.
 
 ### [Seven Pakistan Army soldiers are killed and three others wounded following a Taliban attack in the Kurram Agency. ](/news/2012/02/3/seven-pakistan-army-soldiers-are-killed-and-three-others-wounded-following-a-taliban-attack-in-the-kurram-agency.md)
-_Context: Kurram, Pakistan Army, Taliban_
+_Context: Kurram, Pakistan army, Taliban_
 
 ### [The Syrian Observatory For Human Rights claims that more than 100 people have been killed in shelling in the city of Homs. ](/news/2012/02/3/the-syrian-observatory-for-human-rights-claims-that-more-than-100-people-have-been-killed-in-shelling-in-the-city-of-homs.md)
 _Context: Homs, Syrian Observatory for Human Rights_

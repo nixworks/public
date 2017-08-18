@@ -1,7 +1,7 @@
 ## [2010-04-24](/news/2010/04/24/index.md)
 
 ### [In separate events, 29 people are killed in a suicide attack on a prison van, six NATO oil tankers are torched, and the Pakistan Army attacked Taliban fighters. ](/news/2010/04/24/in-separate-events-29-people-are-killed-in-a-suicide-attack-on-a-prison-van-six-nato-oil-tankers-are-torched-and-the-pakistan-army-attack.md)
-_Context: NATO, Pakistan Army_
+_Context: NATO, Pakistan army_
 
 ### [Paraguay passes a bill, requested by President, Fernando Lugo, that suspends constitutional rights for 30 days in parts of the country after the Paraguayan People's Army (PPA) kills four people. ](/news/2010/04/24/paraguay-passes-a-bill-requested-by-president-fernando-lugo-that-suspends-constitutional-rights-for-30-days-in-parts-of-the-country-after.md)
 _Context: Fernando Lugo, Paraguay, Paraguayan People's Army, Paraguayan President_
@@ -34,7 +34,7 @@ _Context: Catholic Church, Chile, President, Sebastin Piera_
 _Context: Yerevan, genocide of Armenians_
 
 ### [Marchers march in a dozen Spanish cities, including thousands in Madrid, to support Judge Baltasar Garzn who has been told he may face a trial for launching an inquiry into the acts of General Francisco Franco. Falange arranges a smaller protest in Madrid in opposition to Garzn. ](/news/2010/04/24/marchers-march-in-a-dozen-spanish-cities-including-thousands-in-madrid-to-support-judge-baltasar-garzon-who-has-been-told-he-may-face-a-tr.md)
-_Context: Baltasar Garzn, Falange, Franco, Madrid, Spain_
+_Context: Baltasar Garzn, Falange, Franco, Madrid, Spanish_
 
 ### [Former Nazi corporal and founder of Villa Baviera in Chile Paul Schfer dies in prison at the age of 88. ](/news/2010/04/24/former-nazi-corporal-and-founder-of-villa-baviera-in-chile-paul-schafer-dies-in-prison-at-the-age-of-88.md)
 _Context: Chile, Nazi, Paul Schfer, Villa Baviera_

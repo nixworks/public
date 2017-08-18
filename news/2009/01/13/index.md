@@ -10,7 +10,7 @@ _Context: Gaza, Hamas, Israel, Israel Defense Forces, fire, militant, urban warf
 _Context: Foreign Relations Committee, Hillary Clinton, United States, United States Secretary of State, United States Senate, confirmation hearings, nomination_
 
 ### [ Late 2000s recession: German Chancellor Angela Merkel announces a EUR50-billion economic stimulus package. ](/news/2009/01/13/late-2000s-recession-p-german-chancellor-angela-merkel-announces-a-a-50-billion-economic-stimulus-package.md)
-_Context: Angela Merkel, Chancellor, Germany, euro, late 2000s recession_
+_Context: Angela Merkel, Chancellor, EUR, Germany, late 2000s recession_
 
 ### [ Yahoo! names Autodesk chairwoman Carol Bartz as its CEO. ](/news/2009/01/13/yahoo-names-autodesk-chairwoman-carol-bartz-as-its-ceo.md)
 _Context: Autodesk, Carol Bartz, Yahoo!, chairman, chief executive officer_

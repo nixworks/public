@@ -13,7 +13,7 @@ _Context: International Atomic Energy Agency, Iran, United Nations Security Coun
 _Context: Georgian, Mikhail Saakashvili, President of Georgia, assassinated, helicopter_
 
 ### [ Queues build up at vendors as the EuroMillions lottery offers a jackpot of EUR180 million after 11 successive rollovers (statistically expected once in 25 years). Some British vendors report a 1200% increase in sales. EuroMillions tickets are sold in Austria, Belgium. France, Ireland, Luxembourg, Portugal, Spain, Switzerland and the United Kingdom. An Irish woman won EUR115,436,126 last July. ](/news/2006/02/3/queues-build-up-at-vendors-as-the-euromillions-lottery-offers-a-jackpot-of-a-180-million-after-11-successive-rollovers-statistically-expe.md)
-_Context: Euromillions, Luxembourg, euro, lottery_
+_Context: EUR, Euromillions, Luxembourg, lottery_
 
 ### [ Two car bombs explode minutes apart in southern Baghdad, killing at least 16 people and wounding more than 90 others. ](/news/2006/02/3/two-car-bombs-explode-minutes-apart-in-southern-baghdad-killing-at-least-16-people-and-wounding-more-than-90-others.md)
 _Context: Baghdad, car bombs_

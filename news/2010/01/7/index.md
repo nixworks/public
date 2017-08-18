@@ -40,7 +40,7 @@ _Context: Gambia, Jamaica, Kenya, Muslim_
 Teary-eyed but hopeful of a bright future, more than 200 former Maoist child soldiers began leaving their jungle camp on Thursday as part of a peace deal that ended a bloody insurrection four years ago.
 
 ### [United Nations Special Rapporteur Philip Alston says three independent experts have confirmed that mobile phone video footage showing extra-judicial killings by the Sri Lankan military is authentic. ](/news/2010/01/7/united-nations-special-rapporteur-philip-alston-says-three-independent-experts-have-confirmed-that-mobile-phone-video-footage-showing-extra.md)
-_Context: Philip Alston, Sri Lankan military, United Nations special human rights envoy, extra-judicial killings_
+_Context: Philip Alston, Sri Lankan military, UN special rapporteurs, extra-judicial killings_
 
 ### [An ABB employee commits suicide after shooting eight people, three fatally, at the ABB Power building in St. Louis, Missouri in the United States. ](/news/2010/01/7/an-abb-employee-commits-suicide-after-shooting-eight-people-three-fatally-at-the-abb-power-building-in-st-louis-missouri-in-the-united-s.md)
 _Context: ABB Power, Missouri, St. Louis's, United States, shooting eight people_

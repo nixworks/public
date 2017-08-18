@@ -1,7 +1,7 @@
 ## [2009-11-17](/news/2009/11/17/index.md)
 
 ### [ A prominent human rights campaigner for the Western Sahara region, Aminatou Haidar, who is on hunger strike at an airport in the Canary Islands, is to appear in a Spanish court on charges of public disorder. ](/news/2009/11/17/a-prominent-human-rights-campaigner-for-the-western-sahara-region-aminatou-haidar-who-is-on-hunger-strike-at-an-airport-in-the-canary-isl.md)
-_Context: Aminatou Haidar, Canary Islands', Spain, Western Sahara, human rights, hunger strike_
+_Context: Aminatou Haidar, Canary Islands', Spanish, Western Sahara, human rights, hunger strike_
 
 ### [ The head of the opposition in Comoros is arrested after openly criticising President Ahmed Abdallah Mohamed Sambi. ](/news/2009/11/17/the-head-of-the-opposition-in-comoros-is-arrested-after-openly-criticising-president-ahmed-abdallah-mohamed-sambi.md)
 _Context: Ahmed Abdallah Mohamed Sambi, Comoros, President_

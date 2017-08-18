@@ -22,7 +22,7 @@ President Bush on Tuesday named a retired Army lieutenant general and executive 
 _Context: Internet taxes, United States Congress_
 
 ### [ Six people are killed and 11 injured in a suicide bomb attack near Pakistan Army headquarters in Rawalpindi.date=December 2007 ](/news/2007/10/30/six-people-are-killed-and-11-injured-in-a-suicide-bomb-attack-near-pakistan-army-headquarters-in-rawalpindi-date-december-2007.md)
-_Context: Pakistan Army, Rawalpindi, attack, headquarters, suicide bomb_
+_Context: Pakistan army, Rawalpindi, attack, headquarters, suicide bomb_
 
 ### [ US light crude oil hits an all-time high of $US 93.53 ](/news/2007/10/30/us-light-crude-oil-hits-an-all-time-high-of-us-93-53.md)
 ### [ The New Zealand Cabinet is reshuffled, with three new ministers appointed, and two leaving Cabinet. ](/news/2007/10/30/the-new-zealand-cabinet-is-reshuffled-with-three-new-ministers-appointed-and-two-leaving-cabinet.md)

@@ -16,7 +16,7 @@ _Context: Hurricane Gustav, National Hurricane Center_
 _Context: Floods, Indian Armed Forces_
 
 ### [ The Pakistan Army claims that 30 militants have been killed in Swat, NWFP, in heavy fighting in recent days. ](/news/2008/08/30/the-pakistan-army-claims-that-30-militants-have-been-killed-in-swat-nwfp-in-heavy-fighting-in-recent-days.md)
-_Context: Khyber Pakhtunkhwa, Pakistan Army, Swat, Pakistan_
+_Context: Khyber Pakhtunkhwa, Pakistan army, Swat, Pakistan_
 
 ### [ Italy compensates Libya for the forced colonization in the 1910s, promising to pay US$5 billion over the next 25 years. ](/news/2008/08/30/italy-compensates-libya-for-the-forced-colonization-in-the-1910s-promising-to-pay-us-5-billion-over-the-next-25-years.md)
 _Context: Italian, Libya, forced colonization_

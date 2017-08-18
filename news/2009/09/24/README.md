@@ -43,7 +43,7 @@ _Context: Daily Mail, England, England, Fabio Capello, Italian, News of the Worl
 _Context: South Korea, Tanzania_
 
 ### [ A painting worth up to 3 million euros by surrealist artist Rene Magritte is stolen by thieves at a museum in Brussels. ](/news/2009/09/24/a-painting-worth-up-to-3-million-euros-by-surrealist-artist-rena-c-magritte-is-stolen-by-thieves-at-a-museum-in-brussels.md)
-_Context: Brussels, Rene Magritte, euro, surrealist_
+_Context: Brussels, EUR, Rene Magritte, surrealist_
 
 ### [ Detained Burmese National League for Democracy leader Aung San Suu Kyi welcomes a new United States policy shift which would engage with the Burmese military government. ](/news/2009/09/24/detained-burmese-national-league-for-democracy-leader-aung-san-suu-kyi-welcomes-a-new-united-states-policy-shift-which-would-engage-with-th.md)
 _Context: Aung San Suu Kyi, Burma, National League for Democracy, State Peace and Development Council, United States_

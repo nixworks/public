@@ -43,7 +43,7 @@ _Context: Canada, Maurice Strong, Tongsun, United Nations, oil-for-food_
 _Context: European Union, Maulana Sami ul-Haq, Pakistan, Taliban_
 
 ### [ Spanish officials state that they are "concerned" about an apparent disappearance of Severo Moto, leader of an opposition political movement in Equatorial Guinea, who has lived in Spain in exile. His wife reported him missing. ](/news/2005/04/20/spanish-officials-state-that-they-are-concerned-about-an-apparent-disappearance-of-severo-moto-leader-of-an-opposition-political-movemen.md)
-_Context: Equatorial Guinea, Severo Moto, Spain_
+_Context: Equatorial Guinea, Severo Moto, Spanish_
 
 ### [ An explosion in a mining explosives factory near the Chambishi copper mine in Zambia kills 46. ](/news/2005/04/20/an-explosion-in-a-mining-explosives-factory-near-the-chambishi-copper-mine-in-zambia-kills-46.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

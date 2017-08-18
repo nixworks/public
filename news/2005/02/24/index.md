@@ -40,7 +40,7 @@ _Context: Bangladesh, Burma, Myanmar, Nyan Win, Shamsher M Chowdhury, refugee_
 Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.
 
 ### [ Italian court orders Diego Maradona to pay 30 million euros of back taxes (equal to US$39.6 million) ](/news/2005/02/24/italian-court-orders-diego-maradona-to-pay-30-million-euros-of-back-taxes-equal-to-us-39-6-million.md)
-_Context: Diego Maradona, back taxes, euro_
+_Context: Diego Maradona, EUR, back taxes_
 
 ### [ New EU laws declare lottery scams illegal ](/news/2005/02/24/new-eu-laws-declare-lottery-scams-illegal.md)
 _Context: European Union, lottery scam_

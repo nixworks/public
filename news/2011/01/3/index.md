@@ -13,7 +13,7 @@ _Context: South Darfur, Sudanese soldiers_
 The air force hit three targets in the Strip including weapons factory; IDF says it holds Hamas responsible for all terrorist activity in Gaza.
 
 ### [Pakistani forces fire on Indian posts along the border along the Line of Control in the Poonch district of the disputed Kashmir region, in a second ceasefire violation since December 29. ](/news/2011/01/3/pakistani-forces-fire-on-indian-posts-along-the-border-along-the-line-of-control-in-the-poonch-district-of-the-disputed-kashmir-region-in-a.md)
-_Context: India, Kashmir, Line of Control, Pakistan Army, Poonch district_
+_Context: India, Kashmir, Line of Control, Pakistan army, Poonch district_
 
 ### [Investments in Facebook totaling US$500 million lead to speculation that its value could be as high as US$50 billion. ](/news/2011/01/3/investments-in-facebook-totaling-us-500-million-lead-to-speculation-that-its-value-could-be-as-high-as-us-50-billion.md)
 _Context: Facebook, Inc._

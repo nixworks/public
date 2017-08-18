@@ -4,7 +4,7 @@
 _Context: Indonesia, Padang, UTC, West Sumatra, earthquake_
 
 ### [ The Mainland Affairs Council of the Republic of China (Taiwan) bans reporters from the People's Daily and Xinhua from Taiwan, saying the mainland's state-controlled media "tried to present their people with a distorted image of Taiwan". ](/news/2005/04/10/the-mainland-affairs-council-of-the-republic-of-china-taiwan-bans-reporters-from-the-people-s-daily-and-xinhua-from-taiwan-saying-the-ma.md)
-_Context: Mainland Affairs Council, People's Daily, Taiwan, Taiwan, Xinhua News Agency, mainland's state-controlled media_
+_Context: Mainland Affairs Council, People's Daily, Taiwan, Taiwan, Xinhua, mainland's state-controlled media_
 
 ### [ Chinese Premier Wen Jiabao pushed for cooperation between India and the PRC to dominate high-tech industries. Urging the historical rivals to forget past tension, Wen said cooperation "will signify the coming of the Asian century of the IT industry." ](/news/2005/04/10/chinese-premier-wen-jiabao-pushed-for-cooperation-between-india-and-the-prc-to-dominate-high-tech-industries-urging-the-historical-rivals.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
@@ -25,7 +25,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: MG Rover, United Kingdom_
 
 ### [ Spanish police seize an ETA cache of explosives in Hernani, near San Sebastin. ](/news/2005/04/10/spanish-police-seize-an-eta-cache-of-explosives-in-hernani-near-san-sebastian.md)
-_Context: ETA, Hernani, San Sebastin, Spain_
+_Context: ETA, Hernani, San Sebastin, Spanish_
 
 ### [ Italian deputy prime minister Marco Follini calls for an early general election after the centre-right coalition of prime minister Silvio Berlusconi lost in a regional ballot last week. ](/news/2005/04/10/italian-deputy-prime-minister-marco-follini-calls-for-an-early-general-election-after-the-centre-right-coalition-of-prime-minister-silvio-b.md)
 _Context: Italian, Marco Follini, Silvio Berlusconi, parliamentary election_

@@ -4,7 +4,7 @@
 _Context: Beijing, Beijing Olympiad, Chinese, Donkey meat, dog meat, restaurants_
 
 ### [ At a donors' conference in Brussels, 1.2 billion euros (1.9 billion U.S. dollars) are pledged to Kosovo's socio-economic development. ](/news/2008/07/11/at-a-donors-conference-in-brussels-1-2-billion-euros-1-9-billion-u-s-dollars-are-pledged-to-kosovo-s-socio-economic-development.md)
-_Context: Brussels, Kosovo, U.S. dollar, euro_
+_Context: Brussels, EUR, Kosovo, U.S. dollar_
 
 ### [ The U.S. federal government's Office of Thrift Supervision closes down the IndyMac Bank, the largest savings and loan bank in the Los Angeles area, after determining that it is unlikely to be able to meet depositors' demands. ](/news/2008/07/11/the-u-s-federal-government-s-office-of-thrift-supervision-closes-down-the-indymac-bank-the-largest-savings-and-loan-bank-in-the-los-angel.md)
 _Context: Government of the United States, IndyMac Bank, Los Angeles, Office of Thrift Supervision, savings and loan_

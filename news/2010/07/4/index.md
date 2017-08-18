@@ -40,7 +40,7 @@ Opposition party set to gain from frustration over drug violence and weak econom
 The Oktoberfest beer festival in Munich is to become smoke-free after a referendum.
 
 ### [Rafael Nadal of Spain wins the men's singles titles at the 2010 Wimbledon Championships. ](/news/2010/07/4/rafael-nadal-of-spain-wins-the-men-s-singles-titles-at-the-2010-wimbledon-championships.md)
-_Context: 2010 Wimbledon Championships, Rafael Nadal, Spain, men's singles titles_
+_Context: 2010 Wimbledon Championships, Rafael Nadal, Spanish, men's singles titles_
 
 ## [Previous Day...](/news/2010/07/3/index.md)
 

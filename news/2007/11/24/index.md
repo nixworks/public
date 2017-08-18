@@ -10,7 +10,7 @@ _Context: China, Shanghai, explosion, petrol station_
 _Context: 2007 UK child benefit data scandal, HM Revenue and Customs, London, Preston_
 
 ### [ Polish Prime Minister Donald Tusk declares that Poland should concentrate on getting its economy ready for euro-zone entry as quickly as possible rather than setting a concrete target date to adopt the euro. ](/news/2007/11/24/polish-prime-minister-donald-tusk-declares-that-poland-should-concentrate-on-getting-its-economy-ready-for-euro-zone-entry-as-quickly-as-po.md)
-_Context: Donald Tusk, Polish, euro_
+_Context: Donald Tusk, EUR, Polish_
 
 ### [ 12 people are killed when a students' union rally turns violent in Guwahati, India.date=December 2007 ](/news/2007/11/24/12-people-are-killed-when-a-students-union-rally-turns-violent-in-guwahati-india-date-december-2007.md)
 _Context: Guwahati, India, demonstration_

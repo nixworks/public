@@ -31,7 +31,7 @@ _Context: Gaza flotilla raid, Israel, Turkey_
 _Context: Ethiopia, Ogaden, United Nations_
 
 ### [An Indian Army soldier is killed in an exchange of fire with the Pakistan Army over the Kashmir border. ](/news/2011/05/14/an-indian-army-soldier-is-killed-in-an-exchange-of-fire-with-the-pakistan-army-over-the-kashmir-border.md)
-_Context: Indian Army, Kashmir, Pakistan Army_
+_Context: Indian Army, Kashmir, Pakistan army_
 
 ### [Azeri duo Eldar & Nigar win the 2011 Eurovision Song Contest in Dusseldorf, North Rhine-Westphalia, with the song "Running Scared". ](/news/2011/05/14/azeri-duo-eldar-nigar-win-the-2011-eurovision-song-contest-in-da1-4sseldorf-north-rhine-westphalia-with-the-song-running-scared.md)
 _Context: 2011 Eurovision Song Contest, Azeri, Dusseldorf, Eldar & Nigar, North Rhine-Westphalia, Running Scared_

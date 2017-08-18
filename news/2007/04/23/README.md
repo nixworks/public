@@ -10,7 +10,7 @@ _Context: Adhamiyah, Baghdad, Iraq, Iraq Insurgency, Iraq Prime Minister, Nouri 
 _Context: Bali Nine, Denpasar, Matthew Norman, Si Yi Chen, Tan Duc Thanh Nguyen, judicial review_
 
 ### [ Barclays plc agrees to buy ABN Amro in a EUR67 billion deal. ](/news/2007/04/23/barclays-plc-agrees-to-buy-abn-amro-in-a-a-67-billion-deal.md)
-_Context: ABN Amro, Barclays plc, euro_
+_Context: ABN Amro, Barclays plc, EUR_
 
 ### [ Umaru Yar'Adua is declared the winner of Nigeria's presidential election that EU observers said "cannot be considered to have been credible." ](/news/2007/04/23/umaru-yar-adua-is-declared-the-winner-of-nigeria-s-presidential-election-that-eu-observers-said-cannot-be-considered-to-have-been-credible.md)
 _Context: European Union, Nigeria, Umaru Yar'Adua, presidential election_

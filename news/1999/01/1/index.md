@@ -1,7 +1,7 @@
 ## [1999-01-1](/news/1999/01/1/index.md)
 
 ### [ The euro currency is introduced.](/news/1999/01/1/the-euro-currency-is-introduced.md)
-_Context: euro_
+_Context: EUR_
 
 ### [ An avalanche destroys a school gymnasium during New Year celebrations in Kangiqsualujjuaq in far northern Quebec, killing nine.](/news/1999/01/1/an-avalanche-destroys-a-school-gymnasium-during-new-year-celebrations-in-kangiqsualujjuaq-in-far-northern-quebec-killing-nine.md)
 _Context: Kangiqsualujjuaq, Quebec, avalanche_

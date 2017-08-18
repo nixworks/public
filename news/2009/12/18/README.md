@@ -4,7 +4,7 @@
 Leaders and ministers from 28 countries including Australia have outlined a draft accord to fight global warming.
 
 ### [ The Catalan Parliament votes to ban bull fighting in the Spanish region. ](/news/2009/12/18/the-catalan-parliament-votes-to-ban-bull-fighting-in-the-spanish-region.md)
-_Context: Catalonia, Parliament of Catalonia, Spain, bull fighting_
+_Context: Catalonia, Parliament of Catalonia, Spanish, bull fighting_
 
 ### [ Russian television news channels air repeated coverage of a UFO, shaped like a pyramid and similar to an Imperial Cruiser from ''Star Wars''. ](/news/2009/12/18/russian-television-news-channels-air-repeated-coverage-of-a-ufo-shaped-like-a-pyramid-and-similar-to-an-imperial-cruiser-from-star-wars.md)
 A giant pyramid which appears to be a UFO hovering over the Kremlin has caused frenzied speculation in Russia that it is an alien spacecraft.

@@ -1,7 +1,7 @@
 ## [2015-11-3](/news/2015/11/3/index.md)
 
 ### [At least two Indian soldiers are killed after Pakistani forces opened fire along the de facto border that divides Kashmir between the two countries. ](/news/2015/11/3/at-least-two-indian-soldiers-are-killed-after-pakistani-forces-opened-fire-along-the-de-facto-border-that-divides-kashmir-between-the-two-co.md)
-_Context: 2014-15 India-Pakistan border skirmishes, India, Indian Army, Kashmir, Line of Control, Pakistan, Pakistan Army_
+_Context: 2014-15 India-Pakistan border skirmishes, India, Indian Army, Kashmir, Line of Control, Pakistan, Pakistan army_
 
 ### [The Syrian Observatory for Human Rights reports Russia conducted multiple airstrikes on ISIS-held Palmyra. ](/news/2015/11/3/the-syrian-observatory-for-human-rights-reports-russia-conducted-multiple-airstrikes-on-isis-held-palmyra.md)
 Suspected Russian warplanes bombed the outskirts of Islamic State-held Palmyra on Monday, sending smoke rising out of an area that includes a historic castle overlooking the Syrian city&#039;s Roman ruins, activists said.

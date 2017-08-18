@@ -31,7 +31,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Chile, Michelle Bachelet, President, Soledad Alvear_
 
 ### [ An ETA car bomb explodes near Madrid, Spain after a warning call. ](/news/2005/05/25/an-eta-car-bomb-explodes-near-madrid-spain-after-a-warning-call.md)
-_Context: ETA, Madrid, Spain_
+_Context: ETA, Madrid, Spanish_
 
 ### [ In Guinea-Bissau, an armed group of men led by former President Kumba Iala briefly occupies the presidential palace. The ousted president claims that he is still in charge. ](/news/2005/05/25/in-guinea-bissau-an-armed-group-of-men-led-by-former-president-kumba-iala-briefly-occupies-the-presidential-palace-the-ousted-president.md)
 _Context: Guinea-Bissau, Kumba Iala, former President, presidential palace_

@@ -67,7 +67,7 @@ _Context: Arab League, Israel, Libya, Mahmoud Abbas, Palestinian National Author
 _Context: International Criminal Court, Thomas Lubanga, child soldiers, civil war in the Democratic Republic of Congo_
 
 ### [Pakistani army Chief of Staff General Ashfaq Parvez Kayani orders an investigation into a video showing the firing squad execution of 6 blindfolded Pakistanis by men dressed in what appear to be Pakistani army uniforms. ](/news/2010/10/8/pakistani-army-chief-of-staff-general-ashfaq-parvez-kayani-orders-an-investigation-into-a-video-showing-the-firing-squad-execution-of-6-blin.md)
-_Context: Ashfaq Parvez Kayani, Chief of Army Staff, Pakistan Army, Pakistani, firing squad_
+_Context: Ashfaq Parvez Kayani, Chief of Army Staff, Pakistan army, Pakistani, firing squad_
 
 ### [The Supreme Court in Burma agrees to hear an appeal by Aung San Suu Kyi against her house arrest. ](/news/2010/10/8/the-supreme-court-in-burma-agrees-to-hear-an-appeal-by-aung-san-suu-kyi-against-her-house-arrest.md)
 _Context: Aung San Suu Kyi, Burma, house arrest_

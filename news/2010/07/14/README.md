@@ -70,7 +70,7 @@ A new text service to report hate speech in Kenya is launched ahead of a referen
 Police have found 48kg of cannabis in Launceston and charged two men in one of the largest seizures of the drug in Tasmanian history.
 
 ### [Two more Cuban dissidents arrive in Spain out of the 52 political prisoners due to be released on humanitarian grounds. ](/news/2010/07/14/two-more-cuban-dissidents-arrive-in-spain-out-of-the-52-political-prisoners-due-to-be-released-on-humanitarian-grounds.md)
-_Context: Cuba, Spain_
+_Context: Cuba, Spanish_
 
 ### [The United Nations, European Union and United States express their opposition to the demolition of six more Palestinian homes by Israel. ](/news/2010/07/14/the-united-nations-european-union-and-united-states-express-their-opposition-to-the-demolition-of-six-more-palestinian-homes-by-israel.md)
 Israeli bulldozing of Palestinian property comes week after US pushes peace talks.

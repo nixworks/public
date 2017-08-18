@@ -4,7 +4,7 @@
 _Context: Palestinian Islamic Jihad, Tel Aviv, suicide bomber_
 
 ### [ At Amsterdam's Schiphol airport an armoured car is hijacked on the cargo ramp. Unconfirmed reports say that it contained diamonds and other gems worth at least 75 million euros (US$99 million). The vehicle was later recovered in the nearby town of Hoofddorp. ](/news/2005/02/25/at-amsterdam-s-schiphol-airport-an-armoured-car-is-hijacked-on-the-cargo-ramp-unconfirmed-reports-say-that-it-contained-diamonds-and-other.md)
-_Context: Amsterdam, Hoofddorp, Schiphol airport, euro_
+_Context: Amsterdam, EUR, Hoofddorp, Schiphol airport_
 
 ### [ Three British soldiers convicted earlier this week of abusing Iraqi prisoners are jailed for periods between five months and two years, and dismissed from the army. ](/news/2005/02/25/three-british-soldiers-convicted-earlier-this-week-of-abusing-iraqi-prisoners-are-jailed-for-periods-between-five-months-and-two-years-and.md)
 _Context: Iraq, United Kingdom_

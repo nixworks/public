@@ -22,7 +22,7 @@ Senator John McCain won the biggest delegate prize so far in a closely contested
 _Context: 2007 TU|24, Earth, near-Earth asteroid_
 
 ### [ A missile strike by the Pakistan Army in North Waziristan kills ten suspected militants. ](/news/2008/01/29/a-missile-strike-by-the-pakistan-army-in-north-waziristan-kills-ten-suspected-militants.md)
-_Context: North Waziristan, Pakistan Army_
+_Context: North Waziristan, Pakistan army_
 
 ### [ A car bomb in Thenia, Algeria kills at least three people. ](/news/2008/01/29/a-car-bomb-in-thenia-algeria-kills-at-least-three-people.md)
 _Context: Algeria, Thenia, car bomb_

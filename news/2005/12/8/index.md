@@ -13,7 +13,7 @@ Saudis fumed Friday that Iran&#39;s president marred a Mecca summit dedicated to
 A bomber jumped on a bus after security checks had been completed detonated an explosives belt killing up to 30 people and wounding nearly 40, officials said.
 
 ### [ Croatian general Ante Gotovina, rated the third-most-wanted war criminal from the Yugoslav wars by the International Criminal Tribunal for the Former Yugoslavia, is arrested by Spanish police in Tenerife and extradited to face the tribunal in The Hague. ](/news/2005/12/8/croatian-general-ante-gotovina-rated-the-third-most-wanted-war-criminal-from-the-yugoslav-wars-by-the-international-criminal-tribunal-for.md)
-_Context: Ante Gotovina, Croatia, International Criminal Tribunal for the former Yugoslavia, Spain, Tenerife, The Hague, Yugoslav Wars, war crime_
+_Context: Ante Gotovina, Croatia, International Criminal Tribunal for the former Yugoslavia, Spanish, Tenerife, The Hague, Yugoslav Wars, war crime_
 
 ### [ Former Prime Minister of the United Kingdom Margaret Thatcher has left hospital after being given a clean bill of health by doctors after feeling faint yesterday. ](/news/2005/12/8/former-prime-minister-of-the-united-kingdom-margaret-thatcher-has-left-hospital-after-being-given-a-clean-bill-of-health-by-doctors-after-f.md)
 _Context: Margaret Thatcher, Prime Minister_

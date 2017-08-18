@@ -7,7 +7,7 @@ Suspected Boko Haram militants in Nigeria opened fire on villagers who had gathe
 Fourteen soldiers and tribesmen have been killed in an attack by suspected al-Qaeda militants on an army checkpoint in southern Yemen, officials say.
 
 ### [The European Central Bank cuts the prime interest rate to 0.15% and sets the deposit rate at -0.10% in an attempt to devalue the euro and boost the stagnant Eurozone economy. ](/news/2014/06/5/the-european-central-bank-cuts-the-prime-interest-rate-to-0-15-and-sets-the-deposit-rate-at-0-10-in-an-attempt-to-devalue-the-euro-and-bo.md)
-_Context: European Central Bank, devalue, euro, stagnant Eurozone economy_
+_Context: EUR, European Central Bank, devalue, stagnant Eurozone economy_
 
 ### [A AV-8B Harrier jet crashes in the U.S. city of Imperial, California, resulting in the destruction of three homes.  ](/news/2014/06/5/a-av-8b-harrier-jet-crashes-in-the-u-s-city-of-imperial-california-resulting-in-the-destruction-of-three-homes.md)
 A US military Harrier jet crashes into homes in Imperial, southern California, with no serious injuries reported.

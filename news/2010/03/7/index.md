@@ -4,7 +4,7 @@
 * Death toll may be above 300 - local official * Jonathan places security forces on red alert * Violence in same area killed hundreds in J
 
 ### [Tens of thousands demonstrate against an abortion bill in several Spanish cities. ](/news/2010/03/7/tens-of-thousands-demonstrate-against-an-abortion-bill-in-several-spanish-cities.md)
-_Context: Spain, abortion_
+_Context: Spanish, abortion_
 
 ### [Melbourne, Australia experiences flooding after a once-in-a-century thunderstorm of marble-sized hailstones which tears the roof from a railway station and leads to the postponement of sports fixtures. A state of emergency is declared in Queensland.](/news/2010/03/7/melbourne-australia-experiences-flooding-after-a-once-in-a-century-thunderstorm-of-marble-sized-hailstones-which-tears-the-roof-from-a-rail.md)
 _Context: Australia, Melbourne, Queensland, a once-in-a-century thunderstorm of marble-sized hailstones_

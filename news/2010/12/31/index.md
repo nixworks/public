@@ -13,7 +13,7 @@ A protester dies after being shot by police, as activists criticise government r
 Singer Annie Lennox is recognised in the New Year Honours, along with actors David Suchet and Sheila Hancock and BA chairman Martin Broughton.
 
 ### [Estonia, one of the Baltic republics of the former Soviet Union, adopts the euro as its official currency, becoming the 17th country to do so. ](/news/2010/12/31/estonia-one-of-the-baltic-republics-of-the-former-soviet-union-adopts-the-euro-as-its-official-currency-becoming-the-17th-country-to-do-s.md)
-_Context: Estonia, Soviet, euro_
+_Context: EUR, Estonia, Soviet_
 
 ### [Tornadoes touch down in midwestern and southern United States, including Washington County, Arkansas; Greater St. Louis, Sunset Hills, Missouri, Illinois and Oklahoma, with a few tornadoes in the early hours of January 1, 2011. A total 36 tornadoes touched down, resulting in the deaths of 9 people.](/news/2010/12/31/tornadoes-touch-down-in-midwestern-and-southern-united-states-including-washington-county-arkansas-greater-st-louis-sunset-hills-misso.md)
 _Context: Illinois, Oklahoma!, Southern United States, St. Louis-area municipalities, Sunset Hills, Missouri, United States, Washington County, Arkansas, midwestern, tornado outbreak_

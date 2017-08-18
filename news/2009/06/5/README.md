@@ -13,7 +13,7 @@ _Context: Dublin Central, Dublin South, Ireland, by-election, local elections_
 Nobel Prize-winning economist Paul Krugman has predicted that the Irish economic recovery could take five years.
 
 ### [ The Prime Minister of Italy Silvio Berlusconi threatens to sue the Spanish newspaper ''El Pais'' for publishing indecent photographs of people at his villa in Sardinia. ](/news/2009/06/5/the-prime-minister-of-italy-silvio-berlusconi-threatens-to-sue-the-spanish-newspaper-el-paas-for-publishing-indecent-photographs-of-pe.md)
-_Context: El Pais, Italian Prime Minister, Sardinia, Silvio Berlusconi, Spain, indecent exposure_
+_Context: El Pais, Italian Prime Minister, Sardinia, Silvio Berlusconi, Spanish, indecent exposure_
 
 ### [ Ireland's rate of unemployment reaches 11.8%. ](/news/2009/06/5/ireland-s-rate-of-unemployment-reaches-11-8.md)
 The number of people on the Live Register hit 400,000 for the first time last month.

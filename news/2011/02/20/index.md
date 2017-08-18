@@ -10,7 +10,7 @@ Beijing, Feb 20 (IANS) Hundreds of people gathered Sunday in Chinas major cities
 Nato says it will investigate allegations that its forces have killed dozens of civilians in recent days in air and ground strikes in eastern Afghanistan.
 
 ### [War in Pakistan:The Pakistan Army kills up to 15 insurgents in operations in the Mohmand Agency near the Afghan border. ](/news/2011/02/20/war-in-pakistan-pthe-pakistan-army-kills-up-to-15-insurgents-in-operations-in-the-mohmand-agency-near-the-afghan-border.md)
-_Context: Mohmand Agency, Pakistan Army_
+_Context: Mohmand Agency, Pakistan army_
 
 ### [War in Afghanistan:Sapper Jamie Larkham of the 1st Combat Engineer Regiment (Australia) and an Afghan interpreter die in overnight fighting. ](/news/2011/02/20/war-in-afghanistan-psapper-jamie-larkham-of-the-1st-combat-engineer-regiment-australia-and-an-afghan-interpreter-die-in-overnight-fighting.md)
 _Context: 1st Combat Engineer Regiment (Australia), Afghanistan's, Jamie Larkham, sapping_

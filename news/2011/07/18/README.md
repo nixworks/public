@@ -10,7 +10,7 @@ Gen. David Petraeus, the outgoing top commander of the NATO forces in Afghanista
 _Context: China, Hotan, Xinjiang_
 
 ### [Nine months after a goodwill gesture Japan and South Korea will commence negotiations in August on the return of more than 1,200 volumes of ancient Korean royal archives taken during Japanese rule between 1910 and 1945. ](/news/2011/07/18/nine-months-after-a-goodwill-gesture-japan-and-south-korea-will-commence-negotiations-in-august-on-the-return-of-more-than-1-200-volumes-of.md)
-_Context: Japan, Korea's colonial occupation by the Empire of Japan, South Korea_
+_Context: Japan, Korea's colonial occupation, South Korea_
 
 ### [The ''Philadelphia Daily News'' reports that Cardinal Justin Rigali will resign five months after a U.S. grand jury accuses the Archdiocese of Philadelphia that he heads of failing to investigate claims of sexual abuse of children by clergy in the diocese. ](/news/2011/07/18/the-philadelphia-daily-news-reports-that-cardinal-justin-rigali-will-resign-five-months-after-a-u-s-grand-jury-accuses-the-archdiocese.md)
 _Context: Archdiocese of Philadelphia, Cardinal, Justin Rigali, Philadelphia Daily News, grand jury, sexual abuse_

@@ -4,7 +4,7 @@
 _Context: Germany, Greek, May Day, Turkey, battle, demonstration, police, protest_
 
 ### [ The Pakistani Army kills approximately 60 Taliban militants during Operation Black Thunder. ](/news/2009/05/1/the-pakistani-army-kills-approximately-60-taliban-militants-during-operation-black-thunder.md)
-_Context: Pakistan, Pakistan Army, Taliban, War in North-West Pakistan, militant_
+_Context: Pakistan, Pakistan army, Taliban, War in North-West Pakistan, militant_
 
 ### [ The man who attacked the Netherlands' Royal Family on Queen's Day dies. ](/news/2009/05/1/the-man-who-attacked-the-netherlands-royal-family-on-queen-s-day-dies.md)
 The car driver who had sought to ram the Dutch royal family but killed five onlookers has died from his injuries.

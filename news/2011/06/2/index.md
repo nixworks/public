@@ -7,7 +7,7 @@ _Context: Abyei, South Sudan, Sudan_
 _Context: Bashar al-Assad, President, Syria, Syrian Civil War, Turkey_
 
 ### [Twenty-five Pakistan Army soldiers die after an attack by Afghan militants on a border post in the Dir District. ](/news/2011/06/2/twenty-five-pakistan-army-soldiers-die-after-an-attack-by-afghan-militants-on-a-border-post-in-the-dir-district.md)
-_Context: Afghan, Dir District, Pakistan Army_
+_Context: Afghan, Dir District, Pakistan army_
 
 ### [A freelance reporter claims that snipers are shooting at protesters in the Yemeni capital Sana'a. ](/news/2011/06/2/a-freelance-reporter-claims-that-snipers-are-shooting-at-protesters-in-the-yemeni-capital-sana-a.md)
 _Context: 2011 Yemeni uprising, Sana'a, Yemen, sniper_

@@ -19,7 +19,7 @@ The late John Paul II is one of two popes who are to be simultaneously declared 
 Samsung Electronics Co Ltd missed already modest expectations for its quarterly earnings guidance on Friday, deepening worries that its smartphone business may have peaked, as growth in sales of its blockbuster Galaxy phones begins to wane and new rivals emerge to eat away at its market share.
 
 ### [The European Central Bank and the European Commission release a joint report on the banking system in Spain, indicating that system is solvent and will not require "further program disbursements." ](/news/2013/07/5/the-european-central-bank-and-the-european-commission-release-a-joint-report-on-the-banking-system-in-spain-indicating-that-system-is-solve.md)
-_Context: European Central Bank, European Commission, Spain_
+_Context: European Central Bank, European Commission, Spanish_
 
 ### [39 people are injured due to malfunctioning fireworks at a 4th of July event in Simi Valley, California. ](/news/2013/07/5/39-people-are-injured-due-to-malfunctioning-fireworks-at-a-4th-of-july-event-in-simi-valley-california.md)
 More than two dozen people were injured when a wood platform holding live fireworks tipped over, sending the pyrotechnics into a crowd at an annual 4th of July show northwest of Los Angeles, authorities said Friday.

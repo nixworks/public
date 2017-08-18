@@ -10,7 +10,7 @@ _Context: European Parliament, European Parliament election, 2007, Greater Roman
 _Context: Chad, Darfur, Sudan, War in Chad (2005-present), rebel_
 
 ### [ 35 militants are killed in a ground offensive against pro-Taliban militants by the Pakistan Army.date=December 2007 ](/news/2007/11/26/35-militants-are-killed-in-a-ground-offensive-against-pro-taliban-militants-by-the-pakistan-army-date-december-2007.md)
-_Context: Pakistan Army, Taliban, militant_
+_Context: Pakistan army, Taliban, militant_
 
 ### [ The Federation Council of Russia sets March 2, 2008 as the date of the Russian presidential election, 2008. ](/news/2007/11/26/the-federation-council-of-russia-sets-march-2-2008-as-the-date-of-the-russian-presidential-election-2008.md)
 _Context: Federation Council, Russia, go to the polls_

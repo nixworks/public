@@ -22,7 +22,7 @@ _Context: Alejandro Garca Padilla, Governor of Puerto Rico, Puerto Rico_
  South Korea reported an additional death from Middle East Respiratory Syndrome on Sunday, bringing its death toll to 32.
 
 ### [A six-year-old boy whose parents refused to have him vaccinated dies of diphtheria, the first case in Spain since 1987. ](/news/2015/06/28/a-six-year-old-boy-whose-parents-refused-to-have-him-vaccinated-dies-of-diphtheria-the-first-case-in-spain-since-1987.md)
-_Context: Spain, diphtheria_
+_Context: Spanish, diphtheria_
 
 ### [Remaining escapee David Sweat is shot and captured in upstate New York near the border with Canada. ](/news/2015/06/28/remaining-escapee-david-sweat-is-shot-and-captured-in-upstate-new-york-near-the-border-with-canada.md)
 Convicted murderer and escaped inmate David Sweat was shot near the Canadian border Sunday, more than three weeks after breaking free from prison.

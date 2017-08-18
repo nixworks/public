@@ -10,7 +10,7 @@ South Dakota carried out its first execution in 60 years on Wednesday, putting t
 _Context: 695 BC, British Museum, Nebo-Sarsekim Tablet, Old Testament, clay tablet, cuneiform_
 
 ### [ The Pakistan Army claims that Operation Silence at the Lal Masjid is in its final stages and that 95% of the complex is under its control. It has found the bodies of 73 militants.  ](/news/2007/07/11/the-pakistan-army-claims-that-operation-silence-at-the-lal-masjid-is-in-its-final-stages-and-that-95-of-the-complex-is-under-its-control.md)
-_Context: Lal Masjid, Operation Silence, Pakistan Army_
+_Context: Lal Masjid, Operation Silence, Pakistan army_
 
 ### [ Four people who carried out failed suicide bombings in London are jailed for life, with no chance of release for at least 40 years. In passing the sentence, the judge ruled that the plot was "part of an al-Qaida inspired and controlled sequence of attacks", although the British government has always claimed the attacks were "home grown", and not connected to al-Qaida. ](/news/2007/07/11/four-people-who-carried-out-failed-suicide-bombings-in-london-are-jailed-for-life-with-no-chance-of-release-for-at-least-40-years-in-pass.md)
 _Context: 21 July 2005 London bombings, Al Qaida's_

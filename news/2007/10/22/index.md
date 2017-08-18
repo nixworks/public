@@ -31,7 +31,7 @@ _Context: Pakistan, Pakistan Peoples Party_
 _Context: Fakaofo, Tokelauan self-determination referendum_
 
 ### [ The United States dollar reaches a new record low against the euro, which is traded at $1.4348. ](/news/2007/10/22/the-united-states-dollar-reaches-a-new-record-low-against-the-euro-which-is-traded-at-1-4348.md)
-_Context: US$, euro_
+_Context: EUR, US$_
 
 ### [ The 2007 Kyrgyzstani constitutional referendum is approved by about 75% of voters. President of Kyrgyzstan Kurmanbek Bakiyev dissolves the parliament and announces a snap legislative election will take place in December 2007, which he will contest with his newly founded party Ak Zhol. ](/news/2007/10/22/the-2007-kyrgyzstani-constitutional-referendum-is-approved-by-about-75-of-voters-president-of-kyrgyzstan-kurmanbek-bakiyev-dissolves-the.md)
 _Context: Ak Zhol, December 2007, Kurmanbek Bakiyev, Kyrgyzstan, President, constitutional changes in a referendum, parliament, snap legislative election_

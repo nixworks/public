@@ -49,7 +49,7 @@ Thousands of workers have marched in cities in France to protest over plans to r
 A Zambian court orders the air force to pay damages to two ex-pilots who say they were tested for HIV without their knowledge.
 
 ### [Spain's parliament approves by one vote a EUR15 billion austerity package to rein in the country's budget deficit. ](/news/2010/05/27/spain-s-parliament-approves-by-one-vote-a-a-15-billion-austerity-package-to-rein-in-the-country-s-budget-deficit.md)
-_Context: Spain_
+_Context: Spanish_
 
 ### [French Polynesia Vice President Edouard Fritch is arrested in a bribery probe. ](/news/2010/05/27/french-polynesia-vice-president-edouard-fritch-is-arrested-in-a-bribery-probe.md)
 _Context: Edouard Fritch, French Polynesia, Vice President, bribes_

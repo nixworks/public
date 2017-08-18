@@ -4,7 +4,7 @@
 _Context: Saddam Hussein, UTC, executed_
 
 ### [ A bomb exploding in the parking lot of Terminal 4 of Barajas Airport, Madrid, Spain, killes two people, damages cars and buildings. ](/news/2006/12/30/a-bomb-exploding-in-the-parking-lot-of-terminal-4-of-barajas-airport-madrid-spain-killes-two-people-damages-cars-and-buildings.md)
-_Context: Barajas Airport, Madrid, Spain, bomb exploding_
+_Context: Barajas Airport, Madrid, Spanish, bomb exploding_
 
 ### [ The Supreme Council of Kyrgyzstan votes 50 to 1 in favor of amendments to the Constitution giving greater power to the executive branch after President Kurmanbek Bakiyev accuses Parliamentarians of "sabotaging" the political process. The President will now have the power to appoint and dismiss the Prime Minister and his cabinet and regional governors. The SNB, the domestic intelligence organization, will report to the President, not the legislature. ](/news/2006/12/30/the-supreme-council-of-kyrgyzstan-votes-50-to-1-in-favor-of-amendments-to-the-constitution-giving-greater-power-to-the-executive-branch-aft.md)
 _Context: Kurmanbek Bakiyev, President, Prime Minister, Supreme Council, constitution, executive branch_

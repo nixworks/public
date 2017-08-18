@@ -25,7 +25,7 @@ _Context: Alan Ayckbourn, University of York_
 Facebook use among over-50s in the UK has risen faster than any other age group, according to market research.
 
 ### [Greek economic crisis:The Parliament of Greece begins debate on unpopular austerity measures designed to avert the threat of bankruptcy through a 78-billion-euro rescue package. ](/news/2011/06/27/greek-economic-crisis-pthe-parliament-of-greece-begins-debate-on-unpopular-austerity-measures-designed-to-avert-the-threat-of-bankruptcy-thr.md)
-_Context: Greek economic crisis, Parliament of Greece, euro_
+_Context: EUR, Greek economic crisis, Parliament of Greece_
 
 ### [The Los Angeles Dodgers file for Chapter 11 bankruptcy protection. ](/news/2011/06/27/the-los-angeles-dodgers-file-for-chapter-11-bankruptcy-protection.md)
 The Los Angeles Dodgers filed for bankruptcy protection in a Delaware court Monday, blaming Major League Baseball for refusing to approve a multibillion-dollar TV deal that owner Frank McCourt was counting on to keep the troubled team afloat.

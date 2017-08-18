@@ -4,7 +4,7 @@
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 ### [Pakistan Army's Inter-Services Public Relations (ISPR) reports seven Pakistani soldiers have been killed by Indian cross-border shelling in Bhimber District, Azad Kashmir. ](/news/2016/11/14/pakistan-army-s-inter-services-public-relations-ispr-reports-seven-pakistani-soldiers-have-been-killed-by-indian-cross-border-shelling-in.md)
-_Context: 2016 India-Pakistan military confrontation, Azad Kashmir, Bhimber District, India, Inter-Services Public Relations, Pakistan, Pakistan Army_
+_Context: 2016 India-Pakistan military confrontation, Azad Kashmir, Bhimber District, India, Inter-Services Public Relations, Pakistan, Pakistan army_
 
 ### [A suicide bomber kills six people near Karbala. ](/news/2016/11/14/a-suicide-bomber-kills-six-people-near-karbala.md)
 Eight people were killed and nearly 20 wounded on Monday in two separate car bomb blasts that hit police checkpoints in Falluja, a former stronghold of Islamic State west of Baghdad, police sources said.

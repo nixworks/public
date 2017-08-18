@@ -22,7 +22,7 @@ U.S. Secretary of State Condoleezza Rice on Wednesday named retired Marine Gen. 
 _Context: British, Harry Redknapp, Portsmouth, alleged corruption, footballer, manager_
 
 ### [ 2007 Pakistani state of emergency: The President of Pakistan Pervez Musharraf stands down as the head of the Pakistan Army. [http://www.foxnews.com/story/0,2933,313348,00.html (Fox News)] General Ashfaq Parvez Kayani succeeds Musharraf as the 14th Chief of Army Staff of the Pakistan Army.date=December 2007 ](/news/2007/11/28/2007-pakistani-state-of-emergency-p-the-president-of-pakistan-pervez-musharraf-stands-down-as-the-head-of-the-pakistan-army-http-www-fo.md)
-_Context: 2007 Pakistani state of emergency, Ashfaq Parvez Kayani, Chief of Army Staff of the Pakistan Army, Pakistan Army, Pervez Musharraf, President_
+_Context: 2007 Pakistani state of emergency, Ashfaq Parvez Kayani, Chief of Army Staff of the Pakistan Army, Pakistan army, Pervez Musharraf, President_
 
 ### [ A suicide bomber blows herself up outside Sri Lankan Minister's office, killing one and injuring two.date=December 2007 ](/news/2007/11/28/a-suicide-bomber-blows-herself-up-outside-sri-lankan-minister-s-office-killing-one-and-injuring-two-date-december-2007.md)
 _Context: Sri Lanka, suicide bomber_

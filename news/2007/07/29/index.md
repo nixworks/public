@@ -19,7 +19,7 @@ Britain&#039;s Prime Minister Gordon Brown has arrived in the United States for 
 _Context: Brazil, Sao Paulo, TAM Linhas Areas Flight 3054_
 
 ### [ Alberto Contador of Spain wins the 2007 Tour de France with Cadel Evans of Australia finishing second and Levi Leipheimer of the United States finishing third. ](/news/2007/07/29/alberto-contador-of-spain-wins-the-2007-tour-de-france-with-cadel-evans-of-australia-finishing-second-and-levi-leipheimer-of-the-united-sta.md)
-_Context: Alberto Contador, Australia, Cadel Evans, Levi Leipheimer, Spain, Tour de France, United States_
+_Context: Alberto Contador, Australia, Cadel Evans, Levi Leipheimer, Spanish, Tour de France, United States_
 
 ### [ Iraq beats Saudi Arabia to win the Asian Cup, creating a rare moment of recent national unity. ](/news/2007/07/29/iraq-beats-saudi-arabia-to-win-the-asian-cup-creating-a-rare-moment-of-recent-national-unity.md)
 _Context: Asian Cup, Iraq, Saudi Arabia_

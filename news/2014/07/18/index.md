@@ -4,7 +4,7 @@
 _Context: Barack Obama, Donbass war, Malaysia Airlines Flight 17_
 
 ### [War in North-West Pakistan:At least eight members of the Pakistan Army Frontier Corps are killed in a militant attack in the Khyber Agency. ](/news/2014/07/18/war-in-north-west-pakistan-pat-least-eight-members-of-the-pakistan-army-frontier-corps-are-killed-in-a-militant-attack-in-the-khyber-agency.md)
-_Context: Khyber Agency, Pakistan Army, War in North-West Pakistan, paramilitary soldiers_
+_Context: Khyber Agency, Pakistan army, War in North-West Pakistan, paramilitary soldiers_
 
 ### [Syrian Civil War:About 100 soldiers, guards and employees are killed as insurgents belonging to the Islamic State (ISIS) seize control of the Shaer gas field in Palmyra, central Syria. The United Kingdom-based Syrian Observatory for Human Rights said 115 people were killed in total. ](/news/2014/07/18/syrian-civil-war-pabout-100-soldiers-guards-and-employees-are-killed-as-insurgents-belonging-to-the-islamic-state-isis-seize-control-of-t.md)
 About 100 soldiers, guards and employees have been killed as jihadis seized a gas field in central Syria, activists say.

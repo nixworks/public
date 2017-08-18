@@ -85,7 +85,7 @@ Researchers have discovered two previously unknown species of bottom-dwelling fi
 NBA superstar LeBron James has announced he will play for Miami Heat next season, making official the most high-profile move in American basketball history.
 
 ### [Two people are gored and five injured during the Running of the Bulls at the San Fermin festival in Spain. ](/news/2010/07/8/two-people-are-gored-and-five-injured-during-the-running-of-the-bulls-at-the-san-ferman-festival-in-spain.md)
-_Context: Running of the Bulls, San Fermin, Spain_
+_Context: Running of the Bulls, San Fermin, Spanish_
 
 ## [Previous Day...](/news/2010/07/7/index.md)
 

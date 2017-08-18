@@ -40,7 +40,7 @@ _Context: Kiribati, North Pacific Ocean, outrigger canoe, search and rescue_
 _Context: ASEAN, Abhisit Vejjajiva, Cambodian Prime Minister, Hun Sen, Jakarta, Prime Minister of Thailand_
 
 ### [The Pakistan Army places its forces on high alert following last Sunday's raid on Osama bin Laden's compound in Abbottabad. ](/news/2011/05/8/the-pakistan-army-places-its-forces-on-high-alert-following-last-sunday-s-raid-on-osama-bin-laden-s-compound-in-abbottabad.md)
-_Context: Abbottabad, Osama bin Laden, Pakistan Army, father's killing_
+_Context: Abbottabad, Osama bin Laden, Pakistan army, father's killing_
 
 ### [Voters in Albania go to the polls for local elections. ](/news/2011/05/8/voters-in-albania-go-to-the-polls-for-local-elections.md)
 _Context: Albania, local elections_

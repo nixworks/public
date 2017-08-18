@@ -46,7 +46,7 @@ Founder of electronics chain faces 15 years in jail if convicted of corruption c
 Death sentences imposed on two Norwegians in the DRC for killing a driver have been overturned but the men would be retried.
 
 ### [The Euro falls to near year-low levels amid concerns about Greece's debt crisis. ](/news/2010/04/22/the-euro-falls-to-near-year-low-levels-amid-concerns-about-greece-s-debt-crisis.md)
-_Context: Greek, euro_
+_Context: EUR, Greek_
 
 ### [Indian police investigate potential attacks on shopping centres in New Delhi. ](/news/2010/04/22/indian-police-investigate-potential-attacks-on-shopping-centres-in-new-delhi.md)
 Officials say alert follows intercepted telephonic messages of fighter groups.

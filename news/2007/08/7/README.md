@@ -52,7 +52,7 @@ Breaking News from Perth and Western Australia | Perth Now
 _Context: ''Fortune'' magazine, Bill Gates, Carlos Slim, Mexico, Microsoft_
 
 ### [ The Pakistan Army launches a strike on a militant base in the Degan area near Miranshah in North Waziristan. ](/news/2007/08/7/the-pakistan-army-launches-a-strike-on-a-militant-base-in-the-degan-area-near-miranshah-in-north-waziristan.md)
-_Context: Degan, Miranshah, Pakistan Army, Waziristan_
+_Context: Degan, Miranshah, Pakistan army, Waziristan_
 
 ### [ A storm kills at least 17 people in Vietnam with another 12 missing. ](/news/2007/08/7/a-storm-kills-at-least-17-people-in-vietnam-with-another-12-missing.md)
 _Context: Vietnam, another tropical storm_

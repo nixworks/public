@@ -19,7 +19,7 @@ Somali government troops backed by Ethiopian tanks and MiG fighter jets have cap
 _Context: Bulgaria, European Union, Romania_
 
 ### [ Slovenia adopts the euro, replacing the tolar and becoming the second enlargement to the eurozone. ](/news/2007/01/1/slovenia-adopts-the-euro-replacing-the-tolar-and-becoming-the-second-enlargement-to-the-eurozone.md)
-_Context: Eurozone, Slovenia, euro, tolar_
+_Context: EUR, Eurozone, Slovenia, tolar_
 
 ### [ CITIC, a state-owned investment enterprise of the Chinese government, buys Nations Energy Company, a Canadian petroleum extraction company, giving it a majority stake in KazMunayGas, the state-owned oil and gas company in Kazakhstan, for USD $1.91 billion. The deal is highly controversial because of the amount of control China now has over Kazakhstan's natural resources. Kazakh Oil Minister Baktykozha Izmukhambetov has criticized the deal since it was first considered in October 2006. ](/news/2007/01/1/citic-a-state-owned-investment-enterprise-of-the-chinese-government-buys-nations-energy-company-a-canadian-petroleum-extraction-company.md)
 _Context: Baktykozha Izmukhambetov, CITIC, KazMunayGas, USD_

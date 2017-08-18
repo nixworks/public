@@ -7,7 +7,7 @@ The Syrian city of Aleppo is back fully under government control, the military s
 KARACHI: At least seven Pakistanis are reportedly killed in a rocket attack on a cargo ship off Yemen coast, Geo News reported on Thursday. All the members of crew of the Iranian ship were...
 
 ### [Residents of the economically struggling town of Pinos Puente in Granada, Spain, win the El Gordo lottery. ](/news/2016/12/22/residents-of-the-economically-struggling-town-of-pinos-puente-in-granada-spain-win-the-el-gordo-lottery.md)
-_Context: El Gordo, Granada, Pinos Puente, Spain_
+_Context: El Gordo, Granada, Pinos Puente, Spanish_
 
 ### [A vaccine for the ebola virus is discovered to be 99.78%-99.87% effective. ](/news/2016/12/22/a-vaccine-for-the-ebola-virus-is-discovered-to-be-99-78-a99-87-effective.md)
 The results are in from the clinical trials of a new vaccine — and it looks like a potent weapon. In fact, they are already stockpiling it.

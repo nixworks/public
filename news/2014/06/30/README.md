@@ -13,7 +13,7 @@ A cameraman for Russia&#039;s Channel One TV station died from injuries after be
 According to military assessments, Hamas has not been behind recent rocket attacks, but rather, smaller terrorist groups in the Strip.
 
 ### [The Pakistan Army begins a ground offensive against militants in the town of Miramshah in North Waziristan. ](/news/2014/06/30/the-pakistan-army-begins-a-ground-offensive-against-militants-in-the-town-of-miramshah-in-north-waziristan.md)
-_Context: Miramshah, North Waziristan, Pakistan Army, War in North-West Pakistan_
+_Context: Miramshah, North Waziristan, Pakistan army, War in North-West Pakistan_
 
 ### [The bodies of three kidnapped Israeli teenagers, including one with dual American citizenship, are found partially buried near Hebron on the West Bank. Shin Bet determined they were murdered shortly after being kidnapped, and is searching for two Hamas kidnappers and accomplices.](/news/2014/06/30/the-bodies-of-three-kidnapped-israeli-teenagers-including-one-with-dual-american-citizenship-are-found-partially-buried-near-hebron-on-the.md)
 The bodies of three Israeli teenagers who were kidnapped in the West Bank earlier this month have been found north of the city of Hebron, a source confirmed to ABC News today.
@@ -34,7 +34,7 @@ _Context: China, Xinjiang_
 min Park and James Pearson
 
 ### [Philippines Senator Jinggoy Estrada is arrested for alleged corruption. ](/news/2014/06/30/philippines-senator-jinggoy-estrada-is-arrested-for-alleged-corruption.md)
-_Context: Jinggoy Estrada, Senate_
+_Context: Jinggoy Estrada, Senate Majority Leader_
 
 ### [Australian entertainer Rolf Harris is convicted in London, England, of 12 counts of indecent assault against young girls between 1968 and 1986. The 84-year-old is to be sentenced on Friday 4 July. ](/news/2014/06/30/australian-entertainer-rolf-harris-is-convicted-in-london-england-of-12-counts-of-indecent-assault-against-young-girls-between-1968-and-19.md)
 Rolf Harris has been found guilty of indecently assaulting four girls in the UK between 1968 and 1986.

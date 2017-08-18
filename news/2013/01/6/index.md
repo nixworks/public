@@ -4,7 +4,7 @@
 Syrian President Bashar al-Assad delivers a rare televised speech, denouncing the opposition as &quot;puppets of the West&quot;.
 
 ### [Kashmir conflict:A cross-border raid conducted by Indian troops in the disputed Kashmir region results in the death of one Pakistani soldier and another critically wounded, according to Pakistani reports. ](/news/2013/01/6/kashmir-conflict-pa-cross-border-raid-conducted-by-indian-troops-in-the-disputed-kashmir-region-results-in-the-death-of-one-pakistani-soldie.md)
-_Context: Indian Army, Kashmir, Kashmir conflict, Pakistan Army_
+_Context: Indian Army, Kashmir, Kashmir conflict, Pakistan army_
 
 ### [War in North-West Pakistan:A drone attack conducted by the United States kills at least ten people (suspected militants) in South Waziristan, Pakistan. ](/news/2013/01/6/war-in-north-west-pakistan-pa-drone-attack-conducted-by-the-united-states-kills-at-least-ten-people-suspected-militants-in-south-wazirista.md)
 A US drone attack kills at least eight suspected militants in a Pakistan north-western tribal area near the Afghan border, officials say.

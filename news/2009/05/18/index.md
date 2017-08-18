@@ -28,7 +28,7 @@ _Context: Bible, Donald Rumsfeld, George W. Bush, President, Secretary of Defens
 U.S. President Barack Obama on Monday pressed a two-state solution to the Middle East conflict but failed to win a commitment from Israeli Prime Minister Benjamin Netanyahu to back Palestinian statehood.
 
 ### [ Italian Camorra leader Raffaele Amato is arrested in Marbella, Spain. ](/news/2009/05/18/italian-camorra-leader-raffaele-amato-is-arrested-in-marbella-spain.md)
-_Context: Camorra, Italian, Marbella, Raffaele Amato, Spain_
+_Context: Camorra, Italian, Marbella, Raffaele Amato, Spanish_
 
 ## [Previous Day...](/news/2009/05/17/index.md)
 

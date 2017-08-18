@@ -1,7 +1,7 @@
 ## [2005-01-2](/news/2005/01/2/index.md)
 
 ### [ Global tsunami aid donations exceed USD 2 billion (EUR 1.5 billion). ](/news/2005/01/2/global-tsunami-aid-donations-exceed-usd-2-billion-eur-1-5-billion.md)
-_Context: 2004 Indian Ocean earthquake, US$, euro_
+_Context: 2004 Indian Ocean earthquake, EUR, US$_
 
 ### [ Anbal Acevedo Vil officially becomes governor of Puerto Rico. He is the eighth popularly elected governor of the Commonwealth. ](/news/2005/01/2/anibal-acevedo-vila-officially-becomes-governor-of-puerto-rico-he-is-the-eighth-popularly-elected-governor-of-the-commonwealth.md)
 _Context: Anbal Acevedo Vil, Puerto Rico_

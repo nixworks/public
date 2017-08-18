@@ -7,7 +7,7 @@ _Context: Israeli-Palestinian conflict_
 _Context: 2001: A Space Odyssey, A black monolith, Seattle_
 
 ### [ Greece adopts the euro as its currency. ](/news/2001/01/1/greece-adopts-the-euro-as-its-currency.md)
-_Context: euro_
+_Context: EUR_
 
 ### [ In the Gregorian calendar and its followers, it was the first day of the new millennium and the new century.](/news/2001/01/1/in-the-gregorian-calendar-and-its-followers-it-was-the-first-day-of-the-new-millennium-and-the-new-century.md)
 _Context: century, millennium_

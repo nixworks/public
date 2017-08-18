@@ -1,7 +1,7 @@
 ## [2014-06-28](/news/2014/06/28/index.md)
 
 ### [At least 19 militants have been killed in a Pakistan Army offensive in North Waziristan. ](/news/2014/06/28/at-least-19-militants-have-been-killed-in-a-pakistan-army-offensive-in-north-waziristan.md)
-_Context: North Waziristan, Pakistan Army, War in North-West Pakistan_
+_Context: North Waziristan, Pakistan army, War in North-West Pakistan_
 
 ### [The Iraqi Army expels militants from the centre of the city of Tikrit amongst heavy fighting. ](/news/2014/06/28/the-iraqi-army-expels-militants-from-the-centre-of-the-city-of-tikrit-amongst-heavy-fighting.md)
 _Context: 2014 Northern Iraq offensive, Iraqi Army, Tikrit_

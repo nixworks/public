@@ -13,7 +13,7 @@ A Yemeni air force plane crashed in the capital Sanaa on Tuesday, killing at lea
 _Context: Country Club Plaza, Kansas City, Missouri, United States_
 
 ### [European sovereign-debt crisis: Workers for the Spanish  flag carrier airline Iberia strike over plans to axe 3,807 jobs. ](/news/2013/02/19/european-sovereign-debt-crisis-workers-for-the-spanish-flag-carrier-airline-iberia-strike-over-plans-to-axe-3-807-jobs.md)
-_Context: European sovereign-debt crisis, Iberia, Spain, commercial air traffic, flag carrier_
+_Context: European sovereign-debt crisis, Iberia, Spanish, commercial air traffic, flag carrier_
 
 ### [The governments of Singapore and Malaysia announce plans to build a high-speed rail link between the city-state of Singapore and Kuala Lumpur by 2020. ](/news/2013/02/19/the-governments-of-singapore-and-malaysia-announce-plans-to-build-a-high-speed-rail-link-between-the-city-state-of-singapore-and-kuala-lumpu.md)
 SINGAPORE and Malaysia announced that they will build a high-speed rail link between the city-state and Kuala Lumpur with a target to complete it around 2020.

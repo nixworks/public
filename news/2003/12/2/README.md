@@ -7,7 +7,7 @@ _Context: Hugo Chvez, Venezuela_
 _Context: DeCSS, Jon Johansen_
 
 ### [ The US dollar continues to decline, hitting a new low of 1.2 against the euro; the dollar is suffering from deteriorating support against the background of a large current account deficit and fears of growing protectionism. [http://quote.bloomberg.com/apps/news?pid=10000101&sid=ae5WntLCCGd0&refer=japan]](/news/2003/12/2/the-us-dollar-continues-to-decline-hitting-a-new-low-of-1-2-against-the-euro-the-dollar-is-suffering-from-deteriorating-support-against-t.md)
-_Context: US$, current account, euro, protectionism_
+_Context: EUR, US$, current account, protectionism_
 
 ### [ Andrei Illarionov, economic advisor to President Vladimir Putin, indicates Russia will not ratify the Kyoto Protocol in its current form, a decision that would kill the accord. Some observers speculate that this is purely domestic posturing for forthcoming elections. [http://news.bbc.co.uk/2/hi/science/nature/3256604.stm]](/news/2003/12/2/andrei-illarionov-economic-advisor-to-president-vladimir-putin-indicates-russia-will-not-ratify-the-kyoto-protocol-in-its-current-form-a.md)
 _Context: Andrei Illarionov, Kyoto Protocol, Russia, Vladimir Putin, election_

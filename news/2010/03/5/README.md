@@ -28,7 +28,7 @@ _Context: Palestinian, Temple Mount_
 _Context: Kigali, genocide_
 
 ### [Pakistan army kills 30 Taliban militants near Peshawar, the capital of North West Frontier Province. ](/news/2010/03/5/pakistan-army-kills-30-taliban-militants-near-peshawar-the-capital-of-north-west-frontier-province.md)
-_Context: Khyber Pakhtunkhwa, Pakistan Army, Peshawar, Taliban_
+_Context: Khyber Pakhtunkhwa, Pakistan army, Peshawar, Taliban_
 
 ### [A suicide bomber attacked a convoy of Shi'ite Muslims in northwest Pakistan, killing at least 12 people. ](/news/2010/03/5/a-suicide-bomber-attacked-a-convoy-of-shi-ite-muslims-in-northwest-pakistan-killing-at-least-12-people.md)
 _Context: Shi'ite Muslims_

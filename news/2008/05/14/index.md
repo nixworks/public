@@ -31,7 +31,7 @@ Two thousand Chinese soldiers are working to plug an &#034;extremely dangerous&#
 The death toll from the cyclone in Burma could wind up climbing to between 68,833 and 127,990, the Red Cross said Wednesday, as the United Nations warned that a second cyclone was forming in the region.
 
 ### [ A car bomb explodes in a civil guards barracks in the town of Legutiano in the Basque Country of Spain killing at least one person and injuring several others. ](/news/2008/05/14/a-car-bomb-explodes-in-a-civil-guards-barracks-in-the-town-of-legutiano-in-the-basque-country-of-spain-killing-at-least-one-person-and-inju.md)
-_Context: Basque, Legutiano, Spain, barracks, car bomb_
+_Context: Basque, Legutiano, Spanish, barracks, car bomb_
 
 ### [ In football, Zenit St Petersburg of Russia win the 2008 UEFA Cup after defeating Scottish side Rangers 2-0 in the final. ](/news/2008/05/14/in-football-zenit-st-petersburg-of-russia-win-the-2008-uefa-cup-after-defeating-scottish-side-rangers-2a0-in-the-final.md)
 _Context: 2008 UEFA Cup, Rangers F.C., Russia, Scotland, Zenit St Petersburg, association football, final_

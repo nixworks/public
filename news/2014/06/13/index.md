@@ -4,7 +4,7 @@
 Ukrainian government forces reclaimed the port city of Mariupol from pro-Russian separatists in heavy fighting on Friday and said they had regained control of a long stretch of the border with Russia.
 
 ### [The city council of Pello, Finland, offers 50 euro to each Finnish speaking taxpayer who changes language to Swedish in order to secure the bilingual Finnish-Swedish regime. ](/news/2014/06/13/the-city-council-of-pello-finland-offers-50-euro-to-each-finnish-speaking-taxpayer-who-changes-language-to-swedish-in-order-to-secure-the.md)
-_Context: Finland, Pello, bilingual, euro_
+_Context: EUR, Finland, Pello, bilingual_
 
 ### [Actors Daniel Day-Lewis and Angelina Jolie, and the late charity campaigner Stephen Sutton are among those honoured in the 2014 Birthday Honours. ](/news/2014/06/13/actors-daniel-day-lewis-and-angelina-jolie-and-the-late-charity-campaigner-stephen-sutton-are-among-those-honoured-in-the-2014-birthday-hon.md)
 Late cancer fundraiser Stephen Sutton becomes an MBE in a Birthday Honours List also recognising actors Daniel Day-Lewis and Angelina Jolie.

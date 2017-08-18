@@ -49,7 +49,7 @@ Thousands of people in Gaza have protested against the ruling Hamas movement dur
 _Context: (Wikinews), Finland, Iraq_
 
 ### [ Waziristan War: The Pakistan government disputes claims by pro-Taliban militants that they have captured 300 Pakistan Army soldiers stating that a convoy of 100 soldiers has been trapped and they are working to relieve them. ](/news/2007/08/31/waziristan-war-the-pakistan-government-disputes-claims-by-pro-taliban-militants-that-they-have-captured-300-pakistan-army-soldiers-stating.md)
-_Context: Pakistan, Pakistan Army, Taliban, Waziristan War, convoy_
+_Context: Pakistan, Pakistan army, Taliban, Waziristan War, convoy_
 
 ### [ Negotiators from 158 countries reach rough agreements on greenhouse gas targets at a United Nations climate change conference. ](/news/2007/08/31/negotiators-from-158-countries-reach-rough-agreements-on-greenhouse-gas-targets-at-a-united-nations-climate-change-conference.md)
 _Context: United Nations, climate change, greenhouse gas_
@@ -73,7 +73,7 @@ _Context: Kenya, Kisii, minibus, tanker_
 The leaders of France and Britain on Friday revived the specter of sanctions against Khartoum if progress is not made on a Darfur ceasefire and upcoming political talks.
 
 ### [ While Greece brings the 2007 Greek forest fires under control, 8 people have died in 48 hours in forest fires in northern Algeria, six firefighters die in Croatia and the village of Les Useres in the Valencia region of Spain is evacuated. ](/news/2007/08/31/while-greece-brings-the-2007-greek-forest-fires-under-control-8-people-have-died-in-48-hours-in-forest-fires-in-northern-algeria-six-fire.md)
-_Context: 2007 Greek forest fires, Algeria, Croatia, Greek, Les Useres, Spain, Valencia, forest fire_
+_Context: 2007 Greek forest fires, Algeria, Croatia, Greek, Les Useres, Spanish, Valencia, forest fire_
 
 ### [ Angry Victorian farmers trap the Premier of Victoria John Brumby and Rural and Regional Development Minister Jacinta Allan as well as advisers and media in a machinery yard outside Colbinabbin, east of Bendigo to raise concerns about the Government's water plans. ](/news/2007/08/31/angry-victorian-farmers-trap-the-premier-of-victoria-john-brumby-and-rural-and-regional-development-minister-jacinta-allan-as-well-as-advis.md)
 _Context: Bendigo, Colbinabbin, Jacinta Allan, John Brumby, Premier, Victoria_

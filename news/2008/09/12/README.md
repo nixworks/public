@@ -19,7 +19,7 @@ _Context: Dujail, Iraq, Shiite, car bomb_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ The Pakistan Army claims that at least 30 militants and 2 soldiers have been killed in fighting in the Bajaur region of the Federally Administered Tribal Areas. ](/news/2008/09/12/the-pakistan-army-claims-that-at-least-30-militants-and-2-soldiers-have-been-killed-in-fighting-in-the-bajaur-region-of-the-federally-admin.md)
-_Context: Bajaur, Federally Administered Tribal Areas, Pakistan Army_
+_Context: Bajaur, Federally Administered Tribal Areas, Pakistan army_
 
 ### [ The Malaysian government arrests the editor and prominent blogger activist Raja Petra Kamarudin of the Malaysia Today website, a journalist from Sin Chew Jit Poh and opposition politician Teresa Kok under the Internal Security Act. ](/news/2008/09/12/the-malaysian-government-arrests-the-editor-and-prominent-blogger-activist-raja-petra-kamarudin-of-the-malaysia-today-website-a-journalist.md)
 _Context: Malaysia, Malaysia Today, Raja Petra Kamarudin, Sin Chew Jit Poh, Teresa Kok, indefinite detention without trial_

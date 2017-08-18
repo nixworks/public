@@ -22,7 +22,7 @@ _Context: Adamawa State, Nigeria, Nigerian Sharia conflict_
 _Context: California, Hayward, San Mateo Bridge, United States, limousine_
 
 ### [A military aircraft crashes during an air show killing the pilot and injuring another 19 on the ground in Madrid, Spain. ](/news/2013/05/5/a-military-aircraft-crashes-during-an-air-show-killing-the-pilot-and-injuring-another-19-on-the-ground-in-madrid-spain.md)
-_Context: Madrid, Spain, air show_
+_Context: Madrid, Spanish, air show_
 
 ### [2013 Savar building collapse:The death toll in Bangladesh rises to 622. ](/news/2013/05/5/2013-savar-building-collapse-pthe-death-toll-in-bangladesh-rises-to-622.md)
 _Context: 2013 Savar building collapse, Bangladesh_

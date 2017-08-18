@@ -34,7 +34,7 @@ Two Iranian terror suspects in the hands of police have reportedly confessed the
 Ramallah sources say remains of former chairman will be exhumed following report suggesting his death was caused by radioactive poisoning
 
 ### [Spain's national court opens a criminal investigation into last year's listing of Bankia SA on the stock market, with former chairman Rodrigo Rato and 32 others listed as suspects. ](/news/2012/07/4/spain-s-national-court-opens-a-criminal-investigation-into-last-year-s-listing-of-bankia-sa-on-the-stock-market-with-former-chairman-rodrig.md)
-_Context: Bankia, Rodrigo Rato, Spain_
+_Context: Bankia, Rodrigo Rato, Spanish_
 
 ### [Hundreds of protesters clash with police in the Ukrainian capital Kiev and the parliament speaker offers to resign over moves to boost the status of the Russian language in the country. ](/news/2012/07/4/hundreds-of-protesters-clash-with-police-in-the-ukrainian-capital-kiev-and-the-parliament-speaker-offers-to-resign-over-moves-to-boost-the-s.md)
 Hundreds clash with police in central Kiev and parliament speaker offers to resign amid row over language decision.

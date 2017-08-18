@@ -31,7 +31,7 @@ Tens of thousands of anti-abortion campaigners protesting against a proposal to 
 The funeral of Boyzone singer Stephen Gately has taken place.
 
 ### [ 30,000 troops from the Pakistan Army begin an offensive operation against the Taliban and their allies in South Waziristan. ](/news/2009/10/17/30-000-troops-from-the-pakistan-army-begin-an-offensive-operation-against-the-taliban-and-their-allies-in-south-waziristan.md)
-_Context: Pakistan Army, South Waziristan, Taliban, ongoing offensive_
+_Context: Pakistan army, South Waziristan, Taliban, ongoing offensive_
 
 ### [ The government of the Maldives, including President Mohamed Nasheed, holds the world's first underwater Cabinet meeting, to highlight the threat of global warming. ](/news/2009/10/17/the-government-of-the-maldives-including-president-mohamed-nasheed-holds-the-world-s-first-underwater-cabinet-meeting-to-highlight-the-t.md)
 _Context: Global warming, Maldives, Mohamed Nasheed, his party_

@@ -25,7 +25,7 @@ _Context: Dubai Ports World controversy, Israel, United Arab Emirates_
 _Context: Menzies Campbell, leader of the Liberal Democrats_
 
 ### [ The European Central Bank raises Euro base interest rates by 0.25% to 2.5%. The move affects the 12 members of the Eurozone. ](/news/2006/03/2/the-european-central-bank-raises-euro-base-interest-rates-by-0-25-to-2-5-the-move-affects-the-12-members-of-the-eurozone.md)
-_Context: European Central Bank, Eurozone, euro_
+_Context: EUR, European Central Bank, Eurozone_
 
 ### [ Kenya: Masked gunmen, since revealed to be Kenyan police, attack the offices of leading newspaper ''The Standard'' and its television station KTN, following their report that President Mwai Kibaki held secret meetings with key opposition figure Kalonzo Musyoka. ](/news/2006/03/2/kenya-masked-gunmen-since-revealed-to-be-kenyan-police-attack-the-offices-of-leading-newspaper-the-standard-and-its-television-stati.md)
 _Context: KTN, Kalonzo Musyoka, Kenya, Mwai Kibaki, President, The Standard_

@@ -22,7 +22,7 @@ _Context: Fiji, Pacific Islands Forum_
 Unhappy with Criminal Conviction of a Garuda Pilot, Indonesian Aviators May Ground National Air Fleet if Strike Threat Materializes.
 
 ### [ Two Army soldiers and 13 Taliban militants are killed during a raid in Mohmand Agency, Pakistan. ](/news/2009/05/2/two-army-soldiers-and-13-taliban-militants-are-killed-during-a-raid-in-mohmand-agency-pakistan.md)
-_Context: Mohmand Agency, Pakistan, Pakistan Army, Taliban, War in North-West Pakistan, militant, raid, soldier_
+_Context: Mohmand Agency, Pakistan, Pakistan army, Taliban, War in North-West Pakistan, militant, raid, soldier_
 
 ### [ The Republic of China allows financial investment from mainland China for the first time since 1949. ](/news/2009/05/2/the-republic-of-china-allows-financial-investment-from-mainland-china-for-the-first-time-since-1949.md)
 _Context: China, Cross-Strait relations, Taiwan, financial investment_

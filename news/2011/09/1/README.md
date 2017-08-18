@@ -16,7 +16,7 @@ _Context: Australia, HM Prison Pentridge, Melbourne, Ned Kelly, Victoria, bushra
 _Context: BBC Proms, Israel Philharmonic Orchestra, London, Palestine Solidarity Campaign, Royal Albert Hall_
 
 ### [The world's largest food group,  Nestle SA, opens a new production unit in Konolfingen, Switzerland, and its CEO affirms that the company is committed to its home country, despite problems created by the unusually strong Swiss franc against the euro.  ](/news/2011/09/1/the-world-s-largest-food-group-nestla-c-sa-opens-a-new-production-unit-in-konolfingen-switzerland-and-its-ceo-affirms-that-the-company-i.md)
-_Context: Konolfingen, Nestle Canada Inc., Switzerland, euro, francs_
+_Context: EUR, Konolfingen, Nestle Canada Inc., Switzerland, francs_
 
 ### [Former Dutch Minister of Economic Affairs and Minister of Education, Culture and Science, Maria van der Hoeven, takes office as  Executive Director of the International Energy Agency. ](/news/2011/09/1/former-dutch-minister-of-economic-affairs-and-minister-of-education-culture-and-science-maria-van-der-hoeven-takes-office-as-executive-d.md)
 _Context: International Energy Agency, Maria van der Hoeven, Minister of Economic Affairs, Minister of Education, Culture and Science, Netherlands_
