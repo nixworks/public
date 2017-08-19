@@ -12,7 +12,7 @@ The flood toll in Gujarat has risen to 218 this monsoon, with 61 people killed i
 ### [Russian President Vladimir Putin expels 755 U.S. diplomats in response to new sanctions imposed by the United States. ](/news/2017/07/30/russian-president-vladimir-putin-expels-755-u-s-diplomats-in-response-to-new-sanctions-imposed-by-the-united-states.md)
 President Vladimir Putin orders reduction in staff and vows for additional measures in retaliation to new US sanctions.
 
-### [A man shoots several people in a nightclub in Konstanz, Germany, killing one. The gunman was shot and killed by police. ](/news/2017/07/30/a-man-shoots-several-people-in-a-nightclub-in-konstanz-germany-killing-one-the-gunman-was-shot-and-killed-by-police.md)
+### [Konstanz shootingA man shoots several people in a nightclub in Konstanz, Germany, killing one. The gunman was shot and killed by police. ](/news/2017/07/30/konstanz-shootingpa-man-shoots-several-people-in-a-nightclub-in-konstanz-germany-killing-one-the-gunman-was-shot-and-killed-by-police.md)
 A man who opened fire in a nightclub in Constance was then shot by police and later died.
 
 ### [Former Iranian President Mahmoud Ahmadinejad faces sentences on seven verdicts of misusing billions of dollars in government funds while in office, the  Supreme Audit Court public prosecutor said. If confirmed, Ahmadinejad will be barred from public office for seven years. ](/news/2017/07/30/former-iranian-president-mahmoud-ahmadinejad-faces-sentences-on-seven-verdicts-of-misusing-billions-of-dollars-in-government-funds-while-in.md)

@@ -1,15 +1,15 @@
 ## [News](/news/2017/08/19/index.md)
 
-### [A 23-year-old stabs and injures eight people in the Russian city of Surgut, before being killed by police. ISIL claimed responsibility for the act. ](/news/2017/08/19/a-23-year-old-stabs-and-injures-eight-people-in-the-russian-city-of-surgut-before-being-killed-by-police-isil-claimed-responsibility-for-t.md)
+### [A 23-year-old stabs and injures eight people in the Russian city of Surgut, before being killed by police. ISIL claims responsibility for the attack. ](/news/2017/08/19/a-23-year-old-stabs-and-injures-eight-people-in-the-russian-city-of-surgut-before-being-killed-by-police-isil-claims-responsibility-for-th.md)
 ISIS claimed responsibility for a stabbing attack in the Russian city of Surgut. Earlier today, a 23-year-old local resident with a...
 
-### [The Lebanese Armed Forces launches operation ''Fajr al-Joroud'', and on the first day recaptures 30 Km worth of territory near the Syrian border formerly occupied by ISIL militants. 20 ISIL militants were killed, and 10 Lebanese soldiers were wounded.  ](/news/2017/08/19/the-lebanese-armed-forces-launches-operation-fajr-al-joroud-and-on-the-first-day-recaptures-30-km-worth-of-territory-near-the-syrian-bo.md)
+### [The Lebanese Armed Forces launches operation ''Fajr al-Joroud'', and on the first day recaptures 30 km of territory near the Lebanon-Syria border formerly occupied by ISIL militants. 20 ISIL militants were killed, and 10 Lebanese soldiers were wounded. ](/news/2017/08/19/the-lebanese-armed-forces-launches-operation-fajr-al-joroud-and-on-the-first-day-recaptures-30-km-of-territory-near-the-lebanonasyria.md)
 The Lebanese launched &#39;Fajr al-Joroud&#39; operation against Daesh (ISIS) positions on the outskirts of al-Qaa and Ras Baalbek towns Saturday.
 
 ### [A magnitude 6.4 earthquake strikes west of the Pacific Island of Tonga. There are no immediate reports of casualties or damage. ](/news/2017/08/19/a-magnitude-6-4-earthquake-strikes-west-of-the-pacific-island-of-tonga-there-are-no-immediate-reports-of-casualties-or-damage.md)
 An earthquake of 6.4 magnitude struck 500 km (310 miles) west of the Pacific island of Tonga on Saturday, the U.S. Geological Survey (USGS) said, but there were no immediate reports of any casualties or damage.
 
-### [A train derails near Muzaffarnagar, Uttar Pradesh, India, causing at least 10 fatalities. ](/news/2017/08/19/a-train-derails-near-muzaffarnagar-uttar-pradesh-india-causing-at-least-10-fatalities.md)
+### [A train derails near Muzaffarnagar, Uttar Pradesh, India, resulting in at least 20 deaths and 120 injuries. The death toll is expected to rise further. ](/news/2017/08/19/a-train-derails-near-muzaffarnagar-uttar-pradesh-india-resulting-in-at-least-20-deaths-and-120-injuries-the-death-toll-is-expected-to-ri.md)
 A train came off the tracks in Uttar Pradesh on Saturday, killing at least 10 people and wounding more than 100 as carriages slammed into each other, the local chief medical officer said.
 
 ### [Australian Senator Nick Xenophon is discovered to hold dual citizenship with Britain. ](/news/2017/08/19/australian-senator-nick-xenophon-is-discovered-to-hold-dual-citizenship-with-britain.md)
@@ -54,7 +54,7 @@ The opposition-led parliament says the move will be rejected by Venezuelans.
 ### [A van drives into crowds of people in La Rambla, Barcelona, in what Spanish police are calling a terrorist attack, killing at least 12 people. Two suspects are taken into custody, and ISIL claims responsibility. ](/news/2017/08/17/a-van-drives-into-crowds-of-people-in-la-rambla-barcelona-in-what-spanish-police-are-calling-a-terrorist-attack-killing-at-least-12-peopl.md)
 The Islamic State later claimed responsibility for the attack, which Spanish authorities were treating as terrorism.
 
-### [A large fire continues to burn at the Peter Pan Seafoods fish processing plant in Port Moller, Alaska, on the Alaska Peninsula. Much of the facility has been destroyed, and the plant is out of commission. Power is out in the village. ](/news/2017/08/17/a-large-fire-continues-to-burn-at-the-peter-pan-seafoods-fish-processing-plant-in-port-moller-alaska-on-the-alaska-peninsula-much-of-the.md)
+### [Disasters in A large fire continues to burn at the Peter Pan Seafoods fish processing plant in Port Moller, Alaska, on the Alaska Peninsula. Much of the facility has been destroyed, and the plant is out of commission. Power is out in the village. ](/news/2017/08/17/disasters-in-a-large-fire-continues-to-burn-at-the-peter-pan-seafoods-fish-processing-plant-in-port-moller-alaska-on-the-alaska-peninsula.md)
 Murphy says the plant offices, the processing section and the facility&#39;s large freezer were destroyed.
 
 ### [The US Navy has announced that about a dozen sailors of the USS ''Fitzgerald'' are to be disciplined in the aftermath of the collision with a container ship last June, where 7 crew members died. ](/news/2017/08/17/the-us-navy-has-announced-that-about-a-dozen-sailors-of-the-uss-fitzgerald-are-to-be-disciplined-in-the-aftermath-of-the-collision-with.md)
