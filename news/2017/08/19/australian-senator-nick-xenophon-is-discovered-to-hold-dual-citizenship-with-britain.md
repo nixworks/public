@@ -1,6 +1,6 @@
 ### [2017-08-19](/news/2017/08/19/index.md)
 
-# Australian Senator Nick Xenophon is discovered to hold dual citizenship with Britain.
+# Australian Senator Nick Xenophon is discovered to hold dual citizenship with Britain. 
 
 
 
