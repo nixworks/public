@@ -9,7 +9,7 @@ The Lebanese launched &#39;Fajr al-Joroud&#39; operation against Daesh (ISIS) po
 ### [A magnitude 6.4 earthquake strikes west of the Pacific Island of Tonga. There are no immediate reports of casualties or damage. ](/news/2017/08/19/a-magnitude-6-4-earthquake-strikes-west-of-the-pacific-island-of-tonga-there-are-no-immediate-reports-of-casualties-or-damage.md)
 An earthquake of 6.4 magnitude struck 500 km (310 miles) west of the Pacific island of Tonga on Saturday, the U.S. Geological Survey (USGS) said, but there were no immediate reports of any casualties or damage.
 
-### [A train derails near Muzaffarnagar, Uttar Pradesh, India causing at least 10 fatalities. ](/news/2017/08/19/a-train-derails-near-muzaffarnagar-uttar-pradesh-india-causing-at-least-10-fatalities.md)
+### [A train derails near Muzaffarnagar, Uttar Pradesh, India, causing at least 10 fatalities. ](/news/2017/08/19/a-train-derails-near-muzaffarnagar-uttar-pradesh-india-causing-at-least-10-fatalities.md)
 A train came off the tracks in Uttar Pradesh on Saturday, killing at least 10 people and wounding more than 100 as carriages slammed into each other, the local chief medical officer said.
 
 ### [Australian Senator Nick Xenophon is discovered to hold dual citizenship with Britain. ](/news/2017/08/19/australian-senator-nick-xenophon-is-discovered-to-hold-dual-citizenship-with-britain.md)
@@ -29,8 +29,8 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/08/18/index.md)
 
-### [Aftermath of the Spanish police  in the coastal town of Cambrils kill five suspected terrorists in a counter-terror operation to stop a second van attack. The police reported the attackers were wearing explosive vests, however they were later discovered to be fakes. ](/news/2017/08/18/aftermath-of-the-spanish-police-in-the-coastal-town-of-cambrils-kill-five-suspected-terrorists-in-a-counter-terror-operation-to-stop-a-seco.md)
-_Context: 2017 Barcelona attack, Cambrils, Spanish, police, van attack_
+### [Aftermath of the Catalan police  in the coastal town of Cambrils kill five suspected terrorists in a counter-terror operation to stop a second van attack. The police reported the attackers were wearing explosive vests, however they were later discovered to be fakes. ](/news/2017/08/18/aftermath-of-the-catalan-police-in-the-coastal-town-of-cambrils-kill-five-suspected-terrorists-in-a-counter-terror-operation-to-stop-a-seco.md)
+_Context: 2017 Barcelona attack, Cambrils, Catalan, police, van attack_
 
 ### [At least two people are reportedly killed, and several others wounded in a stabbing in Turku, Finland. Police said they arrested one person after a shootout and had launched a manhunt for other possible attackers. ](/news/2017/08/18/at-least-two-people-are-reportedly-killed-and-several-others-wounded-in-a-stabbing-in-turku-finland-police-said-they-arrested-one-person.md)
 Several people were stabbed in the Finnish city of Turku, police said on Friday, adding they had shot at and arrested one person.

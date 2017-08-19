@@ -1,6 +1,6 @@
 ### [2017-08-19](/news/2017/08/19/index.md)
 
-# A train derails near Muzaffarnagar, Uttar Pradesh, India causing at least 10 fatalities. 
+# A train derails near Muzaffarnagar, Uttar Pradesh, India, causing at least 10 fatalities. 
 
 A train came off the tracks in Uttar Pradesh on Saturday, killing at least 10 people and wounding more than 100 as carriages slammed into each other, the local chief medical officer said.
 
