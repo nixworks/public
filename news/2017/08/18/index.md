@@ -9,6 +9,9 @@ Several people were stabbed in the Finnish city of Turku, police said on Friday,
 ### [The 145-year-old Roger B. Taney Monument outside Maryland State House in Annapolis, Maryland, is removed overnight by authorities. Maryland Governor Larry Hogan called on Wednesday for the monument to be taken down immediately. ](/news/2017/08/18/the-145-year-old-roger-b-taney-monument-outside-maryland-state-house-in-annapolis-maryland-is-removed-overnight-by-authorities-maryland.md)
 Maryland authorities took down a statue on Friday of a 19th century chief justice who wrote an infamous pro-slavery decision, the latest example of action across the United States over memorials that have triggered racially charged protests.
 
+### [Workers at two British McDonald's restaurants overwhelming vote to authorize a strike  over working conditions and the use of zero-hour contracts, which would be the first such labor action against the fast-food chain in the U.K. ](/news/2017/08/18/workers-at-two-british-mcdonald-s-restaurants-overwhelming-vote-to-authorize-a-strike-over-working-conditions-and-the-use-of-zero-hour-cont.md)
+Workers at two restaurants in England have voted to strike in what would be the first industrial action taken against the fast-food chain in Britain
+
 ### [Steve Bannon resigns as President Donald Trump's White House Chief Strategist. ](/news/2017/08/18/steve-bannon-resigns-as-president-donald-trump-s-white-house-chief-strategist.md)
 Steve Bannon has resigned from his role as White House chief strategist, the White House said today. A source close to Bannon told ABC News the resignation was effective Aug. 14, exactly one year after he joined the Trump campaign. &quot;White House Chief of Staff John Kelly and Steve Bannon have...
 

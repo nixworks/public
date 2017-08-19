@@ -1,4 +1,15 @@
-## [News](/news/2017/08/18/index.md)
+## [News](/news/2017/08/19/index.md)
+
+### [A magnitude 6.4 earthquake strikes west of the Pacific Island of Tonga. There are no immediate reports of casualties or damage. ](/news/2017/08/19/a-magnitude-6-4-earthquake-strikes-west-of-the-pacific-island-of-tonga-there-are-no-immediate-reports-of-casualties-or-damage.md)
+An earthquake of 6.4 magnitude struck 500 km (310 miles) west of the Pacific island of Tonga on Saturday, the U.S. Geological Survey (USGS) said, but there were no immediate reports of any casualties or damage.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/08/18/index.md)
 
 ### [Aftermath of the Spanish police  in the coastal town of Cambrils kill five suspected terrorists in a counter-terror operation to stop a second van attack. The police reported the attackers were wearing explosive vests, however they were later discovered to be fakes. ](/news/2017/08/18/aftermath-of-the-spanish-police-in-the-coastal-town-of-cambrils-kill-five-suspected-terrorists-in-a-counter-terror-operation-to-stop-a-seco.md)
 _Context: 2017 Barcelona attack, Cambrils, Spanish, police, van attack_
@@ -9,19 +20,18 @@ Several people were stabbed in the Finnish city of Turku, police said on Friday,
 ### [The 145-year-old Roger B. Taney Monument outside Maryland State House in Annapolis, Maryland, is removed overnight by authorities. Maryland Governor Larry Hogan called on Wednesday for the monument to be taken down immediately. ](/news/2017/08/18/the-145-year-old-roger-b-taney-monument-outside-maryland-state-house-in-annapolis-maryland-is-removed-overnight-by-authorities-maryland.md)
 Maryland authorities took down a statue on Friday of a 19th century chief justice who wrote an infamous pro-slavery decision, the latest example of action across the United States over memorials that have triggered racially charged protests.
 
+### [Workers at two British McDonald's restaurants overwhelming vote to authorize a strike  over working conditions and the use of zero-hour contracts, which would be the first such labor action against the fast-food chain in the U.K. ](/news/2017/08/18/workers-at-two-british-mcdonald-s-restaurants-overwhelming-vote-to-authorize-a-strike-over-working-conditions-and-the-use-of-zero-hour-cont.md)
+Workers at two restaurants in England have voted to strike in what would be the first industrial action taken against the fast-food chain in Britain
+
 ### [Steve Bannon resigns as President Donald Trump's White House Chief Strategist. ](/news/2017/08/18/steve-bannon-resigns-as-president-donald-trump-s-white-house-chief-strategist.md)
 Steve Bannon has resigned from his role as White House chief strategist, the White House said today. A source close to Bannon told ABC News the resignation was effective Aug. 14, exactly one year after he joined the Trump campaign. &quot;White House Chief of Staff John Kelly and Steve Bannon have...
 
 ### [The controversial National Constituent Assembly votes unanimously to assume the powers of the opposition-led National Assembly of Venezuela. ](/news/2017/08/18/the-controversial-national-constituent-assembly-votes-unanimously-to-assume-the-powers-of-the-opposition-led-national-assembly-of-venezuela.md)
 The opposition-led parliament says the move will be rejected by Venezuelans.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/08/17/index.md)
+## [Day Before Yesterday](/news/2017/08/17/index.md)
 
 ### [A van drives into crowds of people in La Rambla, Barcelona, in what Spanish police are calling a terrorist attack, killing at least 12 people. Two suspects are taken into custody, and ISIL claims responsibility. ](/news/2017/08/17/a-van-drives-into-crowds-of-people-in-la-rambla-barcelona-in-what-spanish-police-are-calling-a-terrorist-attack-killing-at-least-12-peopl.md)
 The Islamic State later claimed responsibility for the attack, which Spanish authorities were treating as terrorism.
@@ -55,32 +65,7 @@ Cloudflare said claims that it secretly supported The Daily Stormer site were th
 
 ---
 
-## [Day Before Yesterday](/news/2017/08/16/index.md)
-
-### [Several Confederate monuments are taken down overnight in the city of Baltimore, Maryland, including the Stonewall Jackson and Robert E. Lee Monument, Confederate Soldiers and Sailors Monument, Confederate Women's Monument and the Roger B. Taney sculpture.  The Baltimore City Council unanimously voted to remove the monuments on August 14. ](/news/2017/08/16/several-confederate-monuments-are-taken-down-overnight-in-the-city-of-baltimore-maryland-including-the-stonewall-jackson-and-robert-e-lee.md)
-City leaders had vowed to remove the city&#x27;s four Confederacy-linked monuments following the deadly violence in Virginia over the weekend.
-
-### [Aftermath of the 3M CEO Inge Thulin and Campbell CEO Denise Morrison resign from the American Manufacturing Council in protest of Trump's reaction to the alt-right's actions at Charlottesville, Virginia, bringing the total number of resignations this week to 8. ](/news/2017/08/16/aftermath-of-the-3m-ceo-inge-thulin-and-campbell-ceo-denise-morrison-resign-from-the-american-manufacturing-council-in-protest-of-trump-s-re.md)
-Campbell Soup CEO Denise Morrison resigned from the president&#039;s manufacturing jobs initiative. 
-
-### [A mass burial of victims of the landslide is held in Freetown to free up space in mortuaries. Nearly 400 people are confirmed dead with at least 600 missing. ](/news/2017/08/16/a-mass-burial-of-victims-of-the-landslide-is-held-in-freetown-to-free-up-space-in-mortuaries-nearly-400-people-are-confirmed-dead-with-at-l.md)
-Nearly 400 are dead and 600 are still unaccounted for as rescue efforts continue in Freetown.
-
-### [A United States Army Combat Aviation Brigade UH-60 Black Hawk helicopter crashes off the coast of Hawaii, with five people on board. A United States Coast Guard-led search for the missing is underway. ](/news/2017/08/16/a-united-states-army-combat-aviation-brigade-uh-60-black-hawk-helicopter-crashes-off-the-coast-of-hawaii-with-five-people-on-board-a-unite.md)
-A debris field was spotted in the ocean after the Army Black Hawk went down near the island of Oahu.
-
-### [At least 32 people are killed in a series of police raids near Manila, Philippines, allegedly due to the ongoing drug war. ](/news/2017/08/16/at-least-32-people-are-killed-in-a-series-of-police-raids-near-manila-philippines-allegedly-due-to-the-ongoing-drug-war.md)
-Raids near Manila latest in campaign that has killed thousands and follow claim US has toned down criticism of human rights abuses
-
-### [Venezuelan security forces raid a prison in Puerto Ayacucho, Amazonas State, killing at least 37 inmates. Amazonas Governor Liborio Guarulla describes the killings as a "massacre". ](/news/2017/08/16/venezuelan-security-forces-raid-a-prison-in-puerto-ayacucho-amazonas-state-killing-at-least-37-inmates-amazonas-governor-liborio-guarulla.md)
-_Context: Amazonas State, Crisis in Venezuela, Liborio Guarulla, Puerto Ayacucho, Venezuela_
-
-### [Researchers from the University of Cambridge suggest that the ''Chilesaurus'' may be the so-called "missing link" between the ''Stegosaurus'' and the ''Tyrannosaurus''. ](/news/2017/08/16/researchers-from-the-university-of-cambridge-suggest-that-the-chilesaurus-may-be-the-so-called-missing-link-between-the-stegosaurus.md)
-_Context: Chilesaurus, Evolution, Stegosaurus, Tyrannosaurus, University of Cambridge, missing link_
-
----
-
-## [Previous Day...](/news/2017/08/15/index.md)
+## [Previous Day...](/news/2017/08/16/index.md)
 
 ---
 

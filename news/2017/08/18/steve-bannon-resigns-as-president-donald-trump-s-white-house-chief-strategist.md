@@ -12,6 +12,7 @@ Steve Bannon has resigned from his role as White House chief strategist, the Whi
 3. [CNN](http://money.cnn.com/2017/08/18/news/donald-trump-carl-icahn/index.html)
 4. [India-West](http://www.indiawest.com/news/global_indian/kal-penn-jhumpa-lahiri-among-members-who-resign-from-trump/article_a23e4540-844f-11e7-9798-3be4036534a2.html)
 5. [NYT](https://www.nytimes.com/2017/08/18/us/politics/steve-bannon-trump-white-house.html)
+6. [UPI](https://www.upi.com/Top_News/US/2017/08/18/Presidential-arts-committee-resigns-en-masse-after-Charlottesville/6441503096571/)
 
 ### Related:
 
