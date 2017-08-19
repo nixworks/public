@@ -12,6 +12,9 @@ An earthquake of 6.4 magnitude struck 500 km (310 miles) west of the Pacific isl
 ### [A train derails near Muzaffarnagar, Uttar Pradesh, India, resulting in at least 20 deaths and 120 injuries. The death toll is expected to rise further. ](/news/2017/08/19/a-train-derails-near-muzaffarnagar-uttar-pradesh-india-resulting-in-at-least-20-deaths-and-120-injuries-the-death-toll-is-expected-to-ri.md)
 A train came off the tracks in Uttar Pradesh on Saturday, killing at least 10 people and wounding more than 100 as carriages slammed into each other, the local chief medical officer said.
 
+### [The wreckage of the warship the USS Indianapolis is discovered on the floor of the North Pacific Ocean, 18,000 feet below the surface. The vessel was sunk by an Imperial Japanese Navy torpedo on 30 July 1945 after delivering parts for the Little Boy atomic weapon. ](/news/2017/08/19/the-wreckage-of-the-warship-the-uss-indianapolis-is-discovered-on-the-floor-of-the-north-pacific-ocean-18-000-feet-below-the-surface-the-v.md)
+_Context: Imperial Japanese Navy, Little Boy, Pacific Ocean, USS Indianapolis, torpedo_
+
 ### [Australian Senator Nick Xenophon is discovered to hold dual citizenship with Britain. ](/news/2017/08/19/australian-senator-nick-xenophon-is-discovered-to-hold-dual-citizenship-with-britain.md)
 _Context: 2017 Australian constitutional crisis, Nick Xenophon_
 
@@ -40,6 +43,12 @@ Maryland authorities took down a statue on Friday of a 19th century chief justic
 
 ### [Workers at two British McDonald's restaurants overwhelming vote to authorize a strike  over working conditions and the use of zero-hour contracts, which would be the first such labor action against the fast-food chain in the U.K. ](/news/2017/08/18/workers-at-two-british-mcdonald-s-restaurants-overwhelming-vote-to-authorize-a-strike-over-working-conditions-and-the-use-of-zero-hour-cont.md)
 Workers at two restaurants in England have voted to strike in what would be the first industrial action taken against the fast-food chain in Britain
+
+### [Flooding in South Asia has displaced tens of thousands of people and resulted in an estimated 500 deaths across India, Bangladesh, and Nepal. ](/news/2017/08/18/flooding-in-south-asia-has-displaced-tens-of-thousands-of-people-and-resulted-in-an-estimated-500-deaths-across-india-bangladesh-and-nepal.md)
+The Red Cross says the floods are becoming one of the worst regional humanitarian crises in years.
+
+### [A landslide in a village along Lake Albert in the Democratic Republic of the Congo leaves at least 60 dead. ](/news/2017/08/18/a-landslide-in-a-village-along-lake-albert-in-the-democratic-republic-of-the-congo-leaves-at-least-60-dead.md)
+At least 60 people killed after heavy rain triggers landslide in fishing village near Lake Albert in the DR Congo.
 
 ### [Steve Bannon resigns as President Donald Trump's White House Chief Strategist. ](/news/2017/08/18/steve-bannon-resigns-as-president-donald-trump-s-white-house-chief-strategist.md)
 Steve Bannon has resigned from his role as White House chief strategist, the White House said today. A source close to Bannon told ABC News the resignation was effective Aug. 14, exactly one year after he joined the Trump campaign. &quot;White House Chief of Staff John Kelly and Steve Bannon have...

@@ -12,6 +12,9 @@ An earthquake of 6.4 magnitude struck 500 km (310 miles) west of the Pacific isl
 ### [A train derails near Muzaffarnagar, Uttar Pradesh, India, resulting in at least 20 deaths and 120 injuries. The death toll is expected to rise further. ](/news/2017/08/19/a-train-derails-near-muzaffarnagar-uttar-pradesh-india-resulting-in-at-least-20-deaths-and-120-injuries-the-death-toll-is-expected-to-ri.md)
 A train came off the tracks in Uttar Pradesh on Saturday, killing at least 10 people and wounding more than 100 as carriages slammed into each other, the local chief medical officer said.
 
+### [The wreckage of the warship the USS Indianapolis is discovered on the floor of the North Pacific Ocean, 18,000 feet below the surface. The vessel was sunk by an Imperial Japanese Navy torpedo on 30 July 1945 after delivering parts for the Little Boy atomic weapon. ](/news/2017/08/19/the-wreckage-of-the-warship-the-uss-indianapolis-is-discovered-on-the-floor-of-the-north-pacific-ocean-18-000-feet-below-the-surface-the-v.md)
+_Context: Imperial Japanese Navy, Little Boy, Pacific Ocean, USS Indianapolis, torpedo_
+
 ### [Australian Senator Nick Xenophon is discovered to hold dual citizenship with Britain. ](/news/2017/08/19/australian-senator-nick-xenophon-is-discovered-to-hold-dual-citizenship-with-britain.md)
 _Context: 2017 Australian constitutional crisis, Nick Xenophon_
 
