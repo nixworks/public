@@ -4,7 +4,7 @@
 Hundreds of Gulf Arab troops from the Saudi-led coalition fighting Iran-backed rebels in Yemen have entered the southern port of Aden, a military source told AFP on Monday. The source said the troops arrived in Yemen&#x27;s second city on Sunday with tanks and armoured vehicles. The Saudi-owned Al-Hayat
 
 ### [The U.S. Navy's newest submarine, the 12th in the Virginia-class submarine line, the John Warner, joins the fleet in a commissioning ceremony at Norfolk Naval Station in Norfolk, Virginia. ](/news/2015/08/4/the-u-s-navy-s-newest-submarine-the-12th-in-the-virginia-class-submarine-line-the-john-warner-joins-the-fleet-in-a-commissioning-ceremon.md)
-_Context: Norfolk Naval Station, Norfolk, Virginia, United States Navy, Virginia-class submarine, submarine_
+_Context: Norfolk Naval Station, Norfolk, Virginia, US Navy, Virginia-class submarine, submarine_
 
 ### [The Government of the United Kingdom sells 5.4% of the Royal Bank of Scotland raising 2.1bn. ](/news/2015/08/4/the-government-of-the-united-kingdom-sells-5-4-of-the-royal-bank-of-scotland-raising-ps2-1bn.md)
 The Government has sold a 5.4% stake in Royal Bank of Scotland for £2.1bn, but the taxpayer has made a loss of around £1bn on the sale. 

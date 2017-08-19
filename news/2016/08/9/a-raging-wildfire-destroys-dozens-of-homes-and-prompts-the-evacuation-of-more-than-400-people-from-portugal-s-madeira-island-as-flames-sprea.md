@@ -11,7 +11,7 @@ At least three people have died in Funchal, the capital of the Portuguese holida
 
 ### Related:
 
-1. [A tree falls over at a religious ceremony in Funchal, Madeira, killing at least 12 people and injuring over 50 others. ](/news/2017/08/15/a-tree-falls-over-at-a-religious-ceremony-in-funchal-madeira-killing-at-least-12-people-and-injuring-over-50-others.md) _Context: Funchal, Madeira_
+1. [Disasters in A tree falls over at a religious ceremony in Funchal, Madeira, killing at least 12 people and injuring over 50 others. ](/news/2017/08/15/disasters-in-a-tree-falls-over-at-a-religious-ceremony-in-funchal-madeira-killing-at-least-12-people-and-injuring-over-50-others.md) _Context: Funchal, Madeira, Portugal_
 2. [Wildfires prompt the evacuation of 12,000 people along the French Riviera, while more than 4,000 firefighters and French Armed Forces personnel backed by 19 water-bomber planes are mobilised to extinguish the flames. ](/news/2017/07/26/wildfires-prompt-the-evacuation-of-12-000-people-along-the-french-riviera-while-more-than-4-000-firefighters-and-french-armed-forces-person.md) _Context: Wildfire_
 3. [2017 heat wave in EuropeFirefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/2017-heat-wave-in-europepfirefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _Context: Wildfire_
 4. [A Canadair firefighting plane reportedly crashes in Pedrogao Grande, central Portugal, while tackling raging wildfires. However, this claim has been denied by Portuguese authorities. ](/news/2017/06/20/a-canadair-firefighting-plane-reportedly-crashes-in-pedra3gapso-grande-central-portugal-while-tackling-raging-wildfires-however-this-clai.md) _Context: Portugal_

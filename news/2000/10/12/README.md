@@ -1,7 +1,7 @@
 ## [2000-10-12](/news/2000/10/12/index.md)
 
 ### [In Aden, Yemen, the Cole|DDG-67|6 is badly damaged by two suicide bombers who placed a small boat laden with explosives alongside the United States Navy destroyer, killing 17 crew members and wounding at least 39.](/news/2000/10/12/in-aden-yemen-the-cole-ddg-67-6-is-badly-damaged-by-two-suicide-bombers-who-placed-a-small-boat-laden-with-explosives-alongside-the-united.md)
-_Context: Aden, United States Navy, Yemen, explosive, suicide bomber_
+_Context: Aden, US Navy, Yemen, explosive, suicide bomber_
 
 ### [The Lowry theatre and gallery centre in Salford, England is officially open by the Queen Elizabeth II.](/news/2000/10/12/the-lowry-theatre-and-gallery-centre-in-salford-england-is-officially-open-by-the-queen-elizabeth-ii.md)
 _Context: Queen Elizabeth II, Salford, England, The Lowry_

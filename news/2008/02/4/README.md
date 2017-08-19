@@ -4,7 +4,7 @@
 _Context: Congress of France, Constitution of France, European Union, France, National Assembly, Senate, Treaty of Lisbon_
 
 ### [ United States district court judge Florence-Marie Cooper rules that President George W. Bush cannot exempt the United States Navy from complying with environmental laws banning sonar training. ](/news/2008/02/4/united-states-district-court-judge-florence-marie-cooper-rules-that-president-george-w-bush-cannot-exempt-the-united-states-navy-from-comp.md)
-_Context: George W. Bush, President, U.S. federal court, United States Navy, judge, sonar_
+_Context: George W. Bush, President, U.S. federal court, US Navy, judge, sonar_
 
 ### [ Thomas S. Monson is chosen as the 16th president of The Church of Jesus Christ of Latter-day Saints. ](/news/2008/02/4/thomas-s-monson-is-chosen-as-the-16th-president-of-the-church-of-jesus-christ-of-latter-day-saints.md)
 _Context: The Church of Jesus Christ of Latter-day Saints, Thomas S. Monson_

@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [BBC](http://news.bbc.co.uk/2/hi/africa/6997095.stm)
+1. [[(BBC](http://news.bbc.co.uk/2/hi/africa/6997095.stm)
 
 ### Related:
 

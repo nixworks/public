@@ -11,7 +11,7 @@ Ma. Aurora Moynihan, an alleged drug pusher to celebrities, was the sister of ac
 
 ### Related:
 
-1. [Over 25 persons and 48 are arrested are killed by the Philippine National Police Manila Police District on consecutive anti-drug operations in Manila within 24 hours. ](/news/2017/08/17/over-25-persons-and-48-are-arrested-are-killed-by-the-philippine-national-police-manila-police-district-on-consecutive-anti-drug-operations.md) _Context: Manila, Philippine Drug War_
+1. [At least 25 people are killed and 48 are arrested by the Philippine National Police Manila Police District in consecutive anti-drug operations in Manila within 24 hours. ](/news/2017/08/17/at-least-25-people-are-killed-and-48-are-arrested-by-the-philippine-national-police-manila-police-district-in-consecutive-anti-drug-operatio.md) _Context: Manila, Philippine Drug War_
 2. [At least 32 people are killed in a series of police raids near Manila, Philippines, allegedly due to the ongoing drug war. ](/news/2017/08/16/at-least-32-people-are-killed-in-a-series-of-police-raids-near-manila-philippines-allegedly-due-to-the-ongoing-drug-war.md) _Context: Manila, Philippine Drug War_
 3. [As many as fifty thousand people gather in Manila for a march organized by the Philippine Catholic Church to protest the Philippine Drug War. ](/news/2017/02/18/as-many-as-fifty-thousand-people-gather-in-manila-for-a-march-organized-by-the-philippine-catholic-church-to-protest-the-philippine-drug-war.md) _Context: Manila, Philippine Drug War_
 4. [Musician James Taylor cancels a concert in Manila to protest the ongoing drug war. ](/news/2016/12/21/musician-james-taylor-cancels-a-concert-in-manila-to-protest-the-ongoing-drug-war.md) _Context: Manila, Philippine Drug War_

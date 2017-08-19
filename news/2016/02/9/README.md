@@ -28,7 +28,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 HONG KONG • Scores of police officers were hurt yesterday when a riot erupted in Hong Kong&#039;s Mongkok district after the authorities tried to remove illegal street stalls set up for Chinese New Year celebrations.. Read more at straitstimes.com.
 
 ### [The Maryland House of Delegates and Senate override Governor Larry Hogan's veto of a bill extending felons' voting rights to those who  have not completed the terms of their probation or parole. The law goes into effect March 10, 2016. ](/news/2016/02/9/the-maryland-house-of-delegates-and-senate-override-governor-larry-hogan-s-veto-of-a-bill-extending-felons-voting-rights-to-those-who-have.md)
-_Context: Felony disenfranchisement, Governor, Larry Hogan's, Maryland House of Delegates, Senate, parole, probation_
+_Context: Felony disenfranchisement, Governor, Larry Hogan, Maryland House of Delegates, Senate, parole, probation_
 
 ### [Warner/Chappell Music agrees to return $14 million collected in copyright fees for  the song ''Happy Birthday to You'' which a federal judge ruled in September belongs  in the public domain. ](/news/2016/02/9/warner-chappell-music-agrees-to-return-14-million-collected-in-copyright-fees-for-the-song-happy-birthday-to-you-which-a-federal-judge.md)
 The details of the copyright case that placed the song &quot;Happy Birthday&quot; in the public domain have been revealed.

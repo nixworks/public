@@ -10,7 +10,7 @@ Islamic State fighters drove Syrian government forces from a western town on Sun
 Three Israeli border police were injured when they were hit by a car in the occupied West Bank Sunday, police said
 
 ### [The United States Navy sends a remotely operated underwater craft to investigate a wreck which they believe is the remains of the El Faro which disappeared on October 1 near the Bahamas during Hurricane Joaquin with 33 people on board. ](/news/2015/11/1/the-united-states-navy-sends-a-remotely-operated-underwater-craft-to-investigate-a-wreck-which-they-believe-is-the-remains-of-the-el-faro-wh.md)
-_Context: Hurricane Joaquin, United States Navy, the Bahamas_
+_Context: Hurricane Joaquin, US Navy, the Bahamas_
 
 ### [Airlines including Emirates, Lufthansa and Air France refuse to fly over the Sinai Peninsula until the cause of the crash is known. ](/news/2015/11/1/airlines-including-emirates-lufthansa-and-air-france-refuse-to-fly-over-the-sinai-peninsula-until-the-cause-of-the-crash-is-known.md)
 The cause of the crash that killed all 224 people aboard a Russian airliner in Egypt&#39;s Sinai peninsula early Saturday has yet to be determined.
