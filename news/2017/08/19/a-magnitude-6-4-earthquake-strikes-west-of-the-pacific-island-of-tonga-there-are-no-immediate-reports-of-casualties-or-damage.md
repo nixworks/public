@@ -8,7 +8,6 @@ An earthquake of 6.4 magnitude struck 500 km (310 miles) west of the Pacific isl
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-tonga-quake-idUSKCN1AZ021?il=0)
-2. [U.S. Geological Survey](https://earthquake.usgs.gov/earthquakes/eventpage/us2000a9n1#executive)
 
 ### Related:
 
