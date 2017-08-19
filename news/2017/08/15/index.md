@@ -3,7 +3,6 @@
 ### [Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md)
 A woman suicide bomber blew herself up and killed 27 others at a market in northeast Nigeria on Tuesday, two local officials said, in an attack bearing the hallmark of Boko Haram militants.
 
-### [The sixth anniversary of 15 August 2011. That was the day when Raymond Wang, then 14, finally got off an unjust grounding for email hacking, which he never actually did. As of now, it is 23:59:54 on 14 August, so let's begin the countdown to the end of the sixth year. Five. Four. Three. Two. One. Time!](/news/2017/08/15/the-sixth-anniversary-of-15-august-2011-that-was-the-day-when-raymond-wang-then-14-finally-got-off-an-unjust-grounding-for-email-hacking.md)
 ### [Air Berlin, Germany's second largest airline, files for bankruptcy protection after its main shareholder, Abu Dhabi-based Etihad Airways, chose not to make more financing available. ](/news/2017/08/15/air-berlin-germany-s-second-largest-airline-files-for-bankruptcy-protection-after-its-main-shareholder-abu-dhabi-based-etihad-airways-ch.md)
 _Context: Abu Dhabi, Air Berlin, Airlines of Germany, Etihad Airways_
 
