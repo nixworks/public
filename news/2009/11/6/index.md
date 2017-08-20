@@ -10,7 +10,7 @@ Defence Minister Karl-Theodor zu Guttenberg said that mistakes were made in a Ge
 Thirty-four people, including six children and 12 women, were killed and another 29 injured when a bus rolled down over 100 ft from a bridge in Kangra district on Friday morning.
 
 ### [ At least nine people are missing following the crash of a Russian military plane in the Pacific Ocean. ](/news/2009/11/6/at-least-nine-people-are-missing-following-the-crash-of-a-russian-military-plane-in-the-pacific-ocean.md)
-_Context: North Pacific Ocean_
+_Context: Pacific Ocean_
 
 ### [ Three people are hurt and a gunman takes his own life in a rare shooting incident in Yokohama, Japan. ](/news/2009/11/6/three-people-are-hurt-and-a-gunman-takes-his-own-life-in-a-rare-shooting-incident-in-yokohama-japan.md)
 _Context: Japan, Yokohama_

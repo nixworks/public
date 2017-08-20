@@ -22,7 +22,7 @@ _Context: Solomon Islands, two major earthquakes and tsunami_
 _Context: Brazil, Rio Grande do Sul_
 
 ### [The United Kingdom is once again deluged by heavy snowfall as the country endures its worst cold snap since 1979. ](/news/2010/01/5/the-united-kingdom-is-once-again-deluged-by-heavy-snowfall-as-the-country-endures-its-worst-cold-snap-since-1979.md)
-_Context: United Kingdom, heavy snowfall_
+_Context: Britain, heavy snowfall_
 
 ### [A Learjet cargo plane on approach to Chicago Executive Airport crashes into the Des Plaines River in Wheeling, Illinois. ](/news/2010/01/5/a-learjet-cargo-plane-on-approach-to-chicago-executive-airport-crashes-into-the-des-plaines-river-in-wheeling-illinois.md)
 _Context: Chicago Executive Airport, Des Plaines River, Learjet, Wheeling, Illinois_
@@ -46,7 +46,7 @@ _Context: Andal Ampatuan Jr., Maguindanao massacre, Philippines_
 Iceland&#39;s president has said he will not sign a bill to compensate the British &amp; Dutch govts over the failure of Icesave bank.
 
 ### [Opposition parties in Nigeria raise their concerns over "missing" President Umaru Yar'Adua who has been at a hospital in Saudi Arabia for six weeks. ](/news/2010/01/5/opposition-parties-in-nigeria-raise-their-concerns-over-missing-president-umaru-yar-adua-who-has-been-at-a-hospital-in-saudi-arabia-for-si.md)
-_Context: Nigeria, President of Nigeria, Saudi Arabia, Umaru Yar'Adua_
+_Context: Nigeria, President, Saudi Arabia, Umaru Yar'Adua_
 
 ## [Previous Day...](/news/2010/01/4/index.md)
 

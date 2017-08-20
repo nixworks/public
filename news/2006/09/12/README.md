@@ -10,7 +10,7 @@ _Context: (Wikinews), Belgian Army, Belgium, Bloed, Bodem, Eer en Trouw, negatio
 _Context: Ibb, Saleh, Yemen, Yemeni President, stampede_
 
 ### [ Tom Noe, a rare-coin dealer and fundraiser for the United States Republican Party, is sentenced to two years jail for illegally channelling US$45,000 into President George W. Bush's re-election campaign. ](/news/2006/09/12/tom-noe-a-rare-coin-dealer-and-fundraiser-for-the-united-states-republican-party-is-sentenced-to-two-years-jail-for-illegally-channelling.md)
-_Context: George W. Bush, President, Republican, Tom Noe, US$, United States_
+_Context: George W. Bush, Republican, Tom Noe, US$, United States, president_
 
 ### [ Norwegian politician Erik Solheim announces that the Government of Sri Lanka and the Tamil Tigers have agreed to hold "unconditional peace talks" in October in Oslo. The Sri Lankan government denies ever agreeing to talks without conditions, and criticizes the Government of Norway for violating Sri Lankan sovereignty. ](/news/2006/09/12/norwegian-politician-erik-solheim-announces-that-the-government-of-sri-lanka-and-the-tamil-tigers-have-agreed-to-hold-unconditional-peace.md)
 _Context: Erik Solheim, Norway, Oslo, Tamil Tigers, government, government of Norway_

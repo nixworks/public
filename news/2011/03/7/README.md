@@ -37,7 +37,7 @@ _Context: AOL, Huffington Post_
 The national state of emergency imposed after last month&#039;s devastating Christchurch earthquake will be extended on Monday and is likely to be in place for some time, Prime Minister John Key says.
 
 ### [A strong 6.6 magnitude earthquake occurs off the coast of the Solomon Islands in the Pacific Ocean. ](/news/2011/03/7/a-strong-6-6-magnitude-earthquake-occurs-off-the-coast-of-the-solomon-islands-in-the-pacific-ocean.md)
-_Context: North Pacific Ocean, Solomon Islands, earthquake_
+_Context: Pacific Ocean, Solomon Islands, earthquake_
 
 ### [China closes Tibet to foreign tourists, ahead of the third anniversary since unrest there in 2008. ](/news/2011/03/7/china-closes-tibet-to-foreign-tourists-ahead-of-the-third-anniversary-since-unrest-there-in-2008.md)
 _Context: Tibet, unrest in 2008_
@@ -49,7 +49,7 @@ _Context: Foreign Minister, Taiwan, United States, Yang_
 Defense Secretary Robert Gates described the mistaken killing of nine Afghan boys by NATO aircraft as a &quot;setback&quot; on Monday as the issue overshadowed a visit to Afghanistan to assess security progress.
 
 ### [Britain upgrades its relation with Palestine to a mission, the second-highest rank.](/news/2011/03/7/britain-upgrades-its-relation-with-palestine-to-a-mission-the-second-highest-rank.md)
-_Context: Palestinian, United Kingdom, its relation_
+_Context: Britain, Palestinian, its relation_
 
 ### [A court in Zimbabwe frees 38 people detained for weeks on charges of attempting to overthrow President Robert Mugabe, after they watched videos of the Arab Spring. ](/news/2011/03/7/a-court-in-zimbabwe-frees-38-people-detained-for-weeks-on-charges-of-attempting-to-overthrow-president-robert-mugabe-after-they-watched-vid.md)
 _Context: Arab Spring, President, Robert Mugabe, Zimbabwe_
@@ -73,7 +73,7 @@ _Context: 2012, John Ensign, Nevada, Senator_
 US President Barack Obama is lifting the two-year freeze on new military trials for detainees at the Guantanamo Bay prison.
 
 ### [ABC News reports that President Barack Obama will nominate the United States Secretary of Commerce Gary Locke as the next United States ambassador to the People's Republic of China. ](/news/2011/03/7/abc-news-reports-that-president-barack-obama-will-nominate-the-united-states-secretary-of-commerce-gary-locke-as-the-next-united-states-amba.md)
-_Context: ABC News, Barack Obama, China, Gary Locke, President, United States, United States Secretary of Commerce_
+_Context: ABC News, Barack Obama, China, Gary Locke, United States, United States Secretary of Commerce, president_
 
 ### [A possible discovery of extraterrestrial life forms in samples of CI1 meteorites is reported in the ''Journal of Cosmology'' by Richard B. Hoover. ](/news/2011/03/7/a-possible-discovery-of-extraterrestrial-life-forms-in-samples-of-ci1-meteorites-is-reported-in-the-journal-of-cosmology-by-richard-b-h.md)
 Top NASA scientists have hosed down claims from a colleague that fossils of alien microbes were found in meteorites.

@@ -34,7 +34,7 @@ _Context: Bakassi, Cameroon, Nigeria, oil_
 _Context: Morgan Stanley, Parmalat_
 
 ### [ In the equatorial Pacific Ocean, a Sea Launch Zenit-3SL rocket lifts off at 1403 GMT, and successfully places its payload, the 12,125-pound Intelsat Americas 8 satellite, in orbit. ](/news/2005/06/23/in-the-equatorial-pacific-ocean-a-sea-launch-zenit-3sl-rocket-lifts-off-at-1403-gmt-and-successfully-places-its-payload-the-12-125-pound.md)
-_Context: Intelsat, North Pacific Ocean, Sea Launch, Zenit-3SL rocket, equator, orbit, payload, released an object into orbit_
+_Context: Intelsat, Pacific Ocean, Sea Launch, Zenit-3SL rocket, equator, orbit, payload, released an object into orbit_
 
 ## [Previous Day...](/news/2005/06/22/index.md)
 

@@ -19,10 +19,10 @@ A Swedish pilot who had been flying on a fake licence for more than a decade was
 Two cruise passengers died when their liner was hit by a freak wave off the Mediterranean coast of France.
 
 ### [President of Nigeria Umaru Yar'Adua does not attend a cabinet meeting in Abuja after his arrival home from medical treatment in Saudi Arabia. Acting President Goodluck Jonathan chairs instead. ](/news/2010/03/3/president-of-nigeria-umaru-yar-adua-does-not-attend-a-cabinet-meeting-in-abuja-after-his-arrival-home-from-medical-treatment-in-saudi-arabia.md)
-_Context: Abuja, Goodluck Jonathan, President of Nigeria, Saudi Arabia, Umaru Yar'Adua_
+_Context: Abuja, Goodluck Jonathan, President, Saudi Arabia, Umaru Yar'Adua_
 
 ### [Spain says Venezuela has said it will assist an investigation into allegations of support for ETA. ](/news/2010/03/3/spain-says-venezuela-has-said-it-will-assist-an-investigation-into-allegations-of-support-for-eta.md)
-_Context: ETA, Spanish, Venezuela_
+_Context: ETA, Spain, Venezuela_
 
 ### [5 police officials in Chiniot, Punjab, are detained after footage of them whipping people in their custody are broadcast across national television channels. ](/news/2010/03/3/5-police-officials-in-chiniot-punjab-are-detained-after-footage-of-them-whipping-people-in-their-custody-are-broadcast-across-national-tel.md)
 _Context: Chiniot, Punjab_

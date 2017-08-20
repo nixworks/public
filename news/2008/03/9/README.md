@@ -13,7 +13,7 @@ _Context: Andean diplomatic crisis, Colombia, Venezuela_
 _Context: 2008 municipal elections, France_
 
 ### [ The Socialist Workers' Party wins the Spanish general election, with the People's Party conceding defeat. ](/news/2008/03/9/the-socialist-workers-party-wins-the-spanish-general-election-with-the-people-s-party-conceding-defeat.md)
-_Context: People's Party, Socialist Workers' Party, Spanish, general election_
+_Context: People's Party, Socialist Workers' Party, Spain, general election_
 
 ### [ An Ariane 5 rocket launches the first Automated Transfer Vehicle, ''Jules Verne'', from the Guiana Space Centre in French Guiana. The spaceship will rendezvous with and provide supplies to the International Space Station on March 29. ](/news/2008/03/9/an-ariane-5-rocket-launches-the-first-automated-transfer-vehicle-jules-verne-from-the-guiana-space-centre-in-french-guiana-the-space.md)
  ESA PR 15-2008. Jules Verne, the first of ESA’s Automated Transfer Vehicles (ATVs), a new series of autonomous spaceships designed to resupply and reboost the International Space Station (ISS), was successfully launched into low Earth orbit by an Ariane 5 vehicle this morning. 

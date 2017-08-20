@@ -34,7 +34,7 @@ _Context: Beijing, China, Protestant_
 _Context: Centre Party, Finland, National Coalition Party, Social Democratic Party, True Finns, parliamentary election_
 
 ### [Goodluck Jonathan will be reelected as President of Nigeria based on unofficial results in the presidential election. ](/news/2011/04/17/goodluck-jonathan-will-be-reelected-as-president-of-nigeria-based-on-unofficial-results-in-the-presidential-election.md)
-_Context: Goodluck Jonathan, President of Nigeria, presidential election_
+_Context: Goodluck Jonathan, President, presidential election_
 
 ### [The Supreme Leader of Iran Ayatollah Ali Khamenei refuses to accept the resignation of Intelligence Chief Heyder Moslehi. ](/news/2011/04/17/the-supreme-leader-of-iran-ayatollah-ali-khamenei-refuses-to-accept-the-resignation-of-intelligence-chief-heyder-moslehi.md)
 _Context: Ali Khamenei, Ayatollah, Heyder Moslehi, Supreme Leader of Iran_

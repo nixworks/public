@@ -55,7 +55,7 @@ Police clashed with supporters of presidential candidate Maryse Narcisse in Port
 _Context: Austrian presidential election, 2016, European Union, Freedom Party of Austria, Norbert Hofer_
 
 ### [Voters in Grenada choose whether they should be more independent from the British legal system, among other amendments. ](/news/2016/11/24/voters-in-grenada-choose-whether-they-should-be-more-independent-from-the-british-legal-system-among-other-amendments.md)
-_Context: Grenada, Grenadian constitutional referendum, 2016, United Kingdom_
+_Context: Britain, Grenada, Grenadian constitutional referendum, 2016_
 
 ## [Previous Day...](/news/2016/11/23/index.md)
 

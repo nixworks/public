@@ -22,7 +22,7 @@ A ban on product placement is lifted, allowing advertisers to pay for their good
 _Context: Arab Spring, Europe, United States, crude oil, stock market_
 
 ### [The United Kingdom's largest bank HSBC doubles its profits to $19bn (11.8bn) in 2010. ](/news/2011/02/28/the-united-kingdom-s-largest-bank-hsbc-doubles-its-profits-to-19bn-ps11-8bn-in-2010.md)
-_Context: HSBC, United Kingdom_
+_Context: Britain, HSBC_
 
 ### [The United States Government grants its first deepwater drilling license since the Deepwater Horizon oil spill to Noble Energy. ](/news/2011/02/28/the-united-states-government-grants-its-first-deepwater-drilling-license-since-the-deepwater-horizon-oil-spill-to-noble-energy.md)
 _Context: Deepwater Horizon oil spill, Noble Energy, United States government, deepwater drilling_

@@ -22,7 +22,7 @@ _Context: Italian, Rome, United Nations_
 Leaked IAEA report says visit to Qom facility raises questions of possible further sites.
 
 ### [ One of the United Kingdom's most prolific rapists, known as the "Night Stalker" who it thought to have struck more than 200 times, is charged with 22 offences against the elderly from 1992 to 2009. ](/news/2009/11/16/one-of-the-united-kingdom-s-most-prolific-rapists-known-as-the-night-stalker-who-it-thought-to-have-struck-more-than-200-times-is-charg.md)
-_Context: Delroy Grant, United Kingdom_
+_Context: Britain, Delroy Grant_
 
 ### [ Algeria deploys security at the Egyptian embassy in Algiers after Egyptian businesses are attacked in the capital, and security is also tightened in Sudan ahead of a World Cup play off between the two countries. ](/news/2009/11/16/algeria-deploys-security-at-the-egyptian-embassy-in-algiers-after-egyptian-businesses-are-attacked-in-the-capital-and-security-is-also-tig.md)
 _Context: Algeria, Algiers, Egypt, Sudan, World Cup play off between the two countries_

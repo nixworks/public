@@ -10,7 +10,7 @@ _Context: 400th anniversary, Colonial Williamsburg, Elizabeth II, England, Gener
 Republican presidential candidates gave a qualified endorsement Thursday night to President Bush&#8217;s Iraq strategy, criticizing Bush for mismanaging the war but insisting that U.S. troops should not be withdrawn.&#160;&#160;[!]
 
 ### [ The United Kingdom's Ministry of Defence announces plans to release their UFO files to the public, seven weeks after France's space agency CNES opened its UFO files to the public. ](/news/2007/05/3/the-united-kingdom-s-ministry-of-defence-announces-plans-to-release-their-ufo-files-to-the-public-seven-weeks-after-france-s-space-agency.md)
-_Context: CNES, France, Ministry of Defence, UFO files, United Kingdom_
+_Context: Britain, CNES, France, Ministry of Defence, UFO files_
 
 ### [ The Ulster Volunteer Force, a loyalist paramilitary group in Northern Ireland, renounces the use of force. ](/news/2007/05/3/the-ulster-volunteer-force-a-loyalist-paramilitary-group-in-northern-ireland-renounces-the-use-of-force.md)
 There has been a broad welcome for the announcement by the loyalist paramilitary organisation, the UVF, that it is renouncing violence.

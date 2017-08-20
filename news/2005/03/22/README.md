@@ -22,7 +22,7 @@ _Context: Democratic Republic of Congo, Ituri, Thomas Lubanga, Union of Congoles
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Nigerian President Olusegun Obasanjo sacks education minister Fabian Osuji for corruption. [http://www.vanguardngr.com/articles/2002/headline/f123032005.html (Vanguard, Nigeria)] [http://allafrica.com/stories/200503210766.html (AllAfrica)] [http://www.reuters.co.za/locales/c_newsArticle.jsp;:423c1bf9:67cb6051ffa8377b?type=topNews&localeKey=en_ZA&storyID=7950277 (Reuters SA)] (Link dead as of 03:13, 15 January 2007 (UTC))](/news/2005/03/22/nigerian-president-olusegun-obasanjo-sacks-education-minister-fabian-osuji-for-corruption-http-www-vanguardngr-com-articles-2002-headli.md)
-_Context: 15 January, 2007, Fabian Osuji, Nigeria, Olusegun Obasanjo, President of Nigeria_
+_Context: 15 January, 2007, Fabian Osuji, Nigeria, Olusegun Obasanjo, President_
 
 ### [ German airline Lufthansa announces its takeover of Swiss Airlines. ](/news/2005/03/22/german-airline-lufthansa-announces-its-takeover-of-swiss-airlines.md)
 _Context: Germany, Lufthansa, Swiss Airlines_

@@ -34,13 +34,13 @@ A damning report on St Patrick&#39;s Institution in Dublin has found a culture t
 The judge who led the inquiry into serial killer Harold Shipman will chair an investigation into Sir Jimmy Savile&rsquo;s alleged abuse of children at the BBC.
 
 ### [The United Kingdom announces its intention to close its consulate in Basra, Iraq. ](/news/2012/10/16/the-united-kingdom-announces-its-intention-to-close-its-consulate-in-basra-iraq.md)
-_Context: Basra, Iraq, United Kingdom, its consulate_
+_Context: Basra, Britain, Iraq, its consulate_
 
 ### [The British computer hacker Gary McKinnon wins his ten-year legal battle to avoid extradition to the United States after Home Secretary Theresa May tells the House of Commons she has blocked the order. ](/news/2012/10/16/the-british-computer-hacker-gary-mckinnon-wins-his-ten-year-legal-battle-to-avoid-extradition-to-the-united-states-after-home-secretary-ther.md)
 The mother of British computer hacker Gary McKinnon says she is &quot;overwhelmed&quot; after the UK blocked his extradition to the US, ending a 10-year ordeal.
 
 ### [The captain of the Prestige oil tanker goes on trial in Spain. ](/news/2012/10/16/the-captain-of-the-prestige-oil-tanker-goes-on-trial-in-spain.md)
-_Context: Spanish_
+_Context: Spain_
 
 ### [The Brazilian jurisprudence system upholds the convictions of two United States pilots for their roles in the 2006 Gol Transportes Aereos Flight 1907 disaster. ](/news/2012/10/16/the-brazilian-jurisprudence-system-upholds-the-convictions-of-two-united-states-pilots-for-their-roles-in-the-2006-gol-transportes-aa-c-reos-f.md)
 _Context: Brazilian jurisprudence system, Gol Transportes Aereos Flight 1907, United States_

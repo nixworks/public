@@ -52,7 +52,7 @@ _Context: Inter-Services Intelligence, Pakistan, Peshawar_
 Taoiseach Brian Cowen is to attend the 13th British-Irish Council Summit today in Jersey.
 
 ### [ The Japan Coast Guard evacuates 28 passengers and crew from the ''Ariake'' commercial ferry after it rolls over onto its side in rough seas off Mie Prefecture in the Pacific Ocean. ](/news/2009/11/13/the-japan-coast-guard-evacuates-28-passengers-and-crew-from-the-ariake-commercial-ferry-after-it-rolls-over-onto-its-side-in-rough-seas.md)
-_Context: Ariake, Japan Coast Guard, Mie Prefecture, North Pacific Ocean_
+_Context: Ariake, Japan Coast Guard, Mie Prefecture, Pacific Ocean_
 
 ### [ Kosovo prepares for historic elections after a flare-up earlier this week targeted Prime Minister Hashim Thaci in the western town of Decan. ](/news/2009/11/13/kosovo-prepares-for-historic-elections-after-a-flare-up-earlier-this-week-targeted-prime-minister-hashim-thaci-in-the-western-town-of-deassa.md)
 _Context: Decan, Hashim Thai, Kosovo_

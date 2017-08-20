@@ -16,7 +16,7 @@ Militant groups vow to intensify anti-government and peacekeepers assaults as th
 _Context: Afghanistan's, International Security Assistance Force, Iranian Revolutionary Guard, NATO_
 
 ### [A Christmas message by Pope Benedict XVI is broadcast by BBC Radio 4's ''Thought for the Day'' programme in the United Kingdom. ](/news/2010/12/24/a-christmas-message-by-pope-benedict-xvi-is-broadcast-by-bbc-radio-4-s-thought-for-the-day-programme-in-the-united-kingdom.md)
-_Context: BBC Radio 4, Christmas, Pope Benedict XVI, Thought for the Day, United Kingdom_
+_Context: BBC Radio 4, Britain, Christmas, Pope Benedict XVI, Thought for the Day_
 
 ### [Thousands of people gather in Bethlehem to celebrate Christmas. ](/news/2010/12/24/thousands-of-people-gather-in-bethlehem-to-celebrate-christmas.md)
 Pope Benedict calls on Christians to join God in love as he delivers his traditional Christmas Eve homily amid tight security in Rome.
@@ -70,7 +70,7 @@ Laos approves a new prime minister after the surprise resignation of Bouasone Bo
 _Context: Tunisia_
 
 ### [The Roman Catholic Church in Cuba announces that the government will release two more political prisoners to exile in Spain. ](/news/2010/12/24/the-roman-catholic-church-in-cuba-announces-that-the-government-will-release-two-more-political-prisoners-to-exile-in-spain.md)
-_Context: Cuba, Roman Catholic Church, Spanish, political prisoner_
+_Context: Cuba, Roman Catholic Church, Spain, political prisoner_
 
 ### [State television in Cte d'Ivoire goes off the air outside the capital Abidjan amid a political crisis. The Economic Community of West African States threatens to remove incumbent President Laurent Gbagbo by "legitimate force". ](/news/2010/12/24/state-television-in-cote-d-ivoire-goes-off-the-air-outside-the-capital-abidjan-amid-a-political-crisis-the-economic-community-of-west-afric.md)
 State television in Ivory Coast goes off air outside the main city, Abidjan, amid heightened tensions over the disputed presidency.

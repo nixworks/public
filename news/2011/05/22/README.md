@@ -22,7 +22,7 @@ _Context: African Union, Mogadishu, Somalia_
 _Context: Karachi, Pakistan Air Force_
 
 ### [The UK's military operation in Iraq will officially end at midnight, after the Royal Navy completes its training of Iraqi sailors. ](/news/2011/05/22/the-uk-s-military-operation-in-iraq-will-officially-end-at-midnight-after-the-royal-navy-completes-its-training-of-iraqi-sailors.md)
-_Context: Iraq, Royal Navy, United Kingdom, military operation_
+_Context: Britain, Iraq, Royal Navy, military operation_
 
 ### [The Taliban warn that Kazakhstan's decision to send troops to Afghanistan will have "severe consequences". ](/news/2011/05/22/the-taliban-warn-that-kazakhstan-s-decision-to-send-troops-to-afghanistan-will-have-severe-consequences.md)
 _Context: Afghanistan's, Kazakhstan, Taliban_
@@ -79,10 +79,10 @@ _Context: 2011 Spanish protests_
 _Context: British government_
 
 ### [In local and regional elections in Spain, the conservative People's Party performs well, while the ruling Socialist Party suffers heavy losses. ](/news/2011/05/22/in-local-and-regional-elections-in-spain-the-conservative-people-s-party-performs-well-while-the-ruling-socialist-party-suffers-heavy-loss.md)
-_Context: People's Party, Socialist Workers' Party, Spanish, local and regional elections_
+_Context: People's Party, Socialist Workers' Party, Spain, local and regional elections_
 
 ### [Tim Pawlenty, ex-Governor of Minnesota, announces his candidacy for the Republican nomination as President of the United States. ](/news/2011/05/22/tim-pawlenty-ex-governor-of-minnesota-announces-his-candidacy-for-the-republican-nomination-as-president-of-the-united-states.md)
-_Context: Minnesota Governor, President, Tim Pawlenty, candidacy, nomination_
+_Context: Minnesota Governor, Tim Pawlenty, candidacy, nomination, president_
 
 ## [Previous Day...](/news/2011/05/21/index.md)
 

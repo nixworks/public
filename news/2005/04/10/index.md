@@ -22,10 +22,10 @@ _Context: Jeremy Jaynes, United States, spam_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ British carmaker MG Rover receives a loan of 6.5 million from the British government. ](/news/2005/04/10/british-carmaker-mg-rover-receives-a-loan-of-ps6-5-million-from-the-british-government.md)
-_Context: MG Rover, United Kingdom_
+_Context: Britain, MG Rover_
 
 ### [ Spanish police seize an ETA cache of explosives in Hernani, near San Sebastin. ](/news/2005/04/10/spanish-police-seize-an-eta-cache-of-explosives-in-hernani-near-san-sebastian.md)
-_Context: ETA, Hernani, San Sebastin, Spanish_
+_Context: ETA, Hernani, San Sebastin, Spain_
 
 ### [ Italian deputy prime minister Marco Follini calls for an early general election after the centre-right coalition of prime minister Silvio Berlusconi lost in a regional ballot last week. ](/news/2005/04/10/italian-deputy-prime-minister-marco-follini-calls-for-an-early-general-election-after-the-centre-right-coalition-of-prime-minister-silvio-b.md)
 _Context: Italian, Marco Follini, Silvio Berlusconi, parliamentary election_

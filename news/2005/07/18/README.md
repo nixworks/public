@@ -4,7 +4,7 @@
 _Context: Ivan Stambolic, President, Serb, Slobodan Milosevic, prison, secret police_
 
 ### [ The Federal Constitutional Court, the highest Court in Germany, has ordered the release of Mamoun Darkazanli who has been accused by Spain of having funded the September 11, 2001 attacks. ](/news/2005/07/18/the-federal-constitutional-court-the-highest-court-in-germany-has-ordered-the-release-of-mamoun-darkazanli-who-has-been-accused-by-spain.md)
-_Context: Federal Constitutional Court of Germany, Germany, Mamoun Darkazanli, September 11, 2001 attacks, Spanish, court_
+_Context: Federal Constitutional Court of Germany, Germany, Mamoun Darkazanli, September 11, 2001 attacks, Spain, court_
 
 ### [ Hurricane Emily slams into the Yucatan Peninsula in Mexico. Tens of thousands of tourists and residents were evacuated from the beach resorts in and around Cancun and Cozumel in the state of Quintana Roo. ](/news/2005/07/18/hurricane-emily-slams-into-the-yucata-n-peninsula-in-mexico-tens-of-thousands-of-tourists-and-residents-were-evacuated-from-the-beach-reso.md)
 Hurricane Emily like a &quot;freight train&quot; as it passed over houses in the Yucatan Peninsula, but left the Mexican resort area relatively unscathed.

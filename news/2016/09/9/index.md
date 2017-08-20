@@ -28,7 +28,7 @@ _Context: Mayon Volcano, Philippines_
 _Context: Nigeria, famine_
 
 ### [A train derails at a station in the town of O Porrino in Galicia, Spain, killing at least four people. ](/news/2016/09/9/a-train-derails-at-a-station-in-the-town-of-o-porria-o-in-galicia-spain-killing-at-least-four-people.md)
-_Context: Galicia, O Porrino, Spanish, train derails_
+_Context: Galicia, O Porrino, Spain, train derails_
 
 ### [More than a hundred tourists in the French Alps spend an evening suspended in midair inside cable cars that ceased to move. ](/news/2016/09/9/more-than-a-hundred-tourists-in-the-french-alps-spend-an-evening-suspended-in-midair-inside-cable-cars-that-ceased-to-move.md)
 Helicopters managed to extract 65 people from the gondolas late on Thursday — but then night fell, and the remaining trapped tourists had to wait until morning to be rescued.

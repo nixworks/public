@@ -10,7 +10,7 @@ _Context: Afghanistan's, War in Afghanistan (2001-present), presidential electio
 _Context: Zimbabwe, currency, dollar_
 
 ### [ Spanish Judge Fernando Andreu investigates a possible Israeli crime against humanity during the 2002 assassination of Salah Shehade. ](/news/2009/01/29/spanish-judge-fernando-andreu-investigates-a-possible-israeli-crime-against-humanity-during-the-2002-assassination-of-salah-shehade.md)
-_Context: 2002, Fernando Andreu, Israel, Salah Shehade, Spanish, assassinated, crimes against humanity, judge_
+_Context: 2002, Fernando Andreu, Israel, Salah Shehade, Spain, assassinated, crimes against humanity, judge_
 
 ### [ An Israeli Defense Forces air raid injures nine people in the Gaza Strip in response to continued militant rocket fire. ](/news/2009/01/29/an-israeli-defense-forces-air-raid-injures-nine-people-in-the-gaza-strip-in-response-to-continued-militant-rocket-fire.md)
 At least nine Palestinians wounded in attack as Olmert considers expanded military action.

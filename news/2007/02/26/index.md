@@ -34,7 +34,7 @@ _Context: 19 February, Central American Parliament, El Salvador, Guatemala_
 _Context: Afghanistan President, Afghanistan's, Dick Cheney, Hamid Karzai, Pakistan, Pervez Musharraf, President, Taliban, U.S. Vice President, al-Qaeda_
 
 ### [ United Kingdom Secretary of State for Defence Des Browne announces the deployment of an additional 1,400 troops to Afghanistan. ](/news/2007/02/26/united-kingdom-secretary-of-state-for-defence-des-browne-announces-the-deployment-of-an-additional-1-400-troops-to-afghanistan.md)
-_Context: Afghanistan's, British military personnel, Des Browne, Secretary of State for Defence, United Kingdom_
+_Context: Afghanistan's, Britain, British military personnel, Des Browne, Secretary of State for Defence_
 
 ## [Previous Day...](/news/2007/02/25/index.md)
 

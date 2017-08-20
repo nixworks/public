@@ -10,7 +10,7 @@ _Context: Fort Wayne, Indiana, News-Sentinel, White House_
 _Context: United States, United States Department of Agriculture, biggest meat recall_
 
 ### [ The British Ministry of Defence announces that Prince Harry will have to return home from his deployment in Afghanistan as recent publicity made it too dangerous for him to stay there. ](/news/2008/02/29/the-british-ministry-of-defence-announces-that-prince-harry-will-have-to-return-home-from-his-deployment-in-afghanistan-as-recent-publicity.md)
-_Context: Afghanistan's, International Security Assistance Force, Ministry of Defence, Prince Harry, United Kingdom_
+_Context: Afghanistan's, Britain, International Security Assistance Force, Ministry of Defence, Prince Harry_
 
 ### [ Turkey has announced a complete withdrawal and end to operations in northern Iraq. ](/news/2008/02/29/turkey-has-announced-a-complete-withdrawal-and-end-to-operations-in-northern-iraq.md)
 _Context: 2008 Turkish incursion into northern Iraq, Iraq, Turkey_

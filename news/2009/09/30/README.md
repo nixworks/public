@@ -1,7 +1,7 @@
 ## [2009-09-30](/news/2009/09/30/index.md)
 
 ### [ The death toll from an earthquake and tsunami in the Samoan Islands region in the South Pacific rises to at least 113. ](/news/2009/09/30/the-death-toll-from-an-earthquake-and-tsunami-in-the-samoan-islands-region-in-the-south-pacific-rises-to-at-least-113.md)
-_Context: North Pacific Ocean, Samoan Islands, the deadly tsunami, tsunami_
+_Context: Pacific Ocean, Samoan Islands, the deadly tsunami, tsunami_
 
 ### [ A 7.6 magnitude earthquake strikes western Indonesia, killing at least 75 and trapping thousands of people under rubble. ](/news/2009/09/30/a-7-6-magnitude-earthquake-strikes-western-indonesia-killing-at-least-75-and-trapping-thousands-of-people-under-rubble.md)
 _Context: Indonesia, earthquake, magnitude_

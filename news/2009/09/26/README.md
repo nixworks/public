@@ -13,7 +13,7 @@ _Context: Metro Manila, Philippines, Tropical Storm Ketsana_
 Three detainees held at the U.S. military prison at Guantanamo Bay, Cuba, have been sent to Ireland and Yemen, the Justice Department said on Saturday, the latest transfers as President Barack Obama tries to close the facility by January.
 
 ### [ Kenyan President Mwai Kibaki writes to President of the United States Barack Obama to express his concern and disappointment over threats it has received from that country concerning a travel ban on Kenyan officials it blames for hindering reforms. ](/news/2009/09/26/kenyan-president-mwai-kibaki-writes-to-president-of-the-united-states-barack-obama-to-express-his-concern-and-disappointment-over-threats-i.md)
-_Context: Barack Obama, Kenya, Mwai Kibaki, President, president_
+_Context: Barack Obama, Kenya, Mwai Kibaki, president, president_
 
 ### [ Two car bomb blasts kill at least 12 people in northwestern Pakistan. ](/news/2009/09/26/two-car-bomb-blasts-kill-at-least-12-people-in-northwestern-pakistan.md)
 Police officers and civilians among casualties of car-bomb attacks in Bannu and Peshawar.
@@ -40,10 +40,10 @@ Europe’s 22 biggest banks may have accumulated about 400 billion euros in cred
 _Context: 2009 AFL Grand Final, Geelong, Melbourne Cricket Ground, St Kilda Football Club_
 
 ### [ The Spanish government formally unveils plans to liberalise the country's abortion law. ](/news/2009/09/26/the-spanish-government-formally-unveils-plans-to-liberalise-the-country-s-abortion-law.md)
-_Context: Spanish, abortion_
+_Context: Spain, abortion_
 
 ### [ Nigerian President Umaru Yar'Adua returns to Abuja after a visit to Saudi Arabia. ](/news/2009/09/26/nigerian-president-umaru-yar-adua-returns-to-abuja-after-a-visit-to-saudi-arabia.md)
-_Context: Abuja, Nigeria, President of Nigeria, Saudi Arabia, Umaru Yar'Adua_
+_Context: Abuja, Nigeria, President, Saudi Arabia, Umaru Yar'Adua_
 
 ### [ Pope Benedict XVI's robes are graced by a spider as he addresses politicians and diplomats in Prague. ](/news/2009/09/26/pope-benedict-xvi-s-robes-are-graced-by-a-spider-as-he-addresses-politicians-and-diplomats-in-prague.md)
 _Context: Pope Benedict XVI, Prague, spider_

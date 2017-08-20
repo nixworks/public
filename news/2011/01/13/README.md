@@ -7,7 +7,7 @@ In bid to placate protesters, Zine El Abidine Ben Ali vows to broaden political 
 World body accuses security forces loyal to incumbent president of attacking its vehicles and personnel.
 
 ### [A British cruise ship avoids a possible Somali pirate attack 100|mi|km off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-100-mi-km-off-the-coast-of-tanzania-in-the-indian-ocean.md)
-_Context: Indian Ocean, Somali pirates, Tanzania, United Kingdom_
+_Context: Britain, Indian Ocean, Somali pirates, Tanzania_
 
 ### [Israeli-Lebanese conflict:Israel places troops stationed in northern Israel on high alert following the collapse of the Lebanese government. ](/news/2011/01/13/israelialebanese-conflict-pisrael-places-troops-stationed-in-northern-israel-on-high-alert-following-the-collapse-of-the-lebanese-governme.md)
 BEIRUT: The shepherd abducted by the Israeli Army was returned to Lebanon Thursday following intense lobbying from the United Nations Interim Force in Lebanon (UNIFIL) for his release.
@@ -58,7 +58,7 @@ _Context: 250,000 documents, Bradley Manning, WikiLeaks_
 A German man is sentenced to four years in prison for making pornographic films in the breakaway Somaliland republic.
 
 ### [Thousands of members of Nigeria's ruling People's Democratic Party begin voting on whether incumbent President Goodluck Jonathan should be their choice of candidate in April presidential elections. ](/news/2011/01/13/thousands-of-members-of-nigeria-s-ruling-people-s-democratic-party-begin-voting-on-whether-incumbent-president-goodluck-jonathan-should-be-t.md)
-_Context: Goodluck Jonathan, Nigeria, People's Democratic Party, President of Nigeria, presidential election_
+_Context: Goodluck Jonathan, Nigeria, People's Democratic Party, President, presidential election_
 
 ### [The Southern Sudanese independence referendum, 2011 is confirmed by organisers to have had a turnout above the necessary threshold needed for it to be valid. ](/news/2011/01/13/the-southern-sudanese-independence-referendum-2011-is-confirmed-by-organisers-to-have-had-a-turnout-above-the-necessary-threshold-needed-fo.md)
 Celebrations erupt as turnout of registered voters exceeds necessary 60 per cent in South Sudan referendum.

@@ -1,7 +1,7 @@
 ## [2007-05-16](/news/2007/05/16/index.md)
 
 ### [ Tony Blair, the Prime Minister of the United Kingdom, meets with the President of the United States George W. Bush for the final time before his departure from politics. ](/news/2007/05/16/tony-blair-the-prime-minister-of-the-united-kingdom-meets-with-the-president-of-the-united-states-george-w-bush-for-the-final-time-befor.md)
-_Context: George W. Bush, President, Prime Minister, Tony Blair_
+_Context: George W. Bush, Prime Minister, Tony Blair, president_
 
 ### [ Alex Salmond, the leader of the Scottish National Party, is elected as the first non-Labour First Minister of Scotland.  ](/news/2007/05/16/alex-salmond-the-leader-of-the-scottish-national-party-is-elected-as-the-first-non-labour-first-minister-of-scotland.md)
 _Context: Alex Salmond, First Minister, Scottish Labour Party, Scottish National Party_
@@ -19,7 +19,7 @@ _Context: Fatah, Gaza Strip, Hamas, Qassam rocket_
 _Context: F-16, New Jersey, New Jersey National Guard, Pinelands National Reserve, Wildfire, flare_
 
 ### [ The United Kingdom's Ministry of Defence announces that HRH Prince Harry of the British Royal Family will not be deployed to Iraq as originally planned, due to the security risks to both himself and his regiment the Blues and Royals. ](/news/2007/05/16/the-united-kingdom-s-ministry-of-defence-announces-that-hrh-prince-harry-of-the-british-royal-family-will-not-be-deployed-to-iraq-as-origin.md)
-_Context: Blues and Royals, British Royal Family, HRH, Iraq, Ministry of Defence, Prince Harry, United Kingdom_
+_Context: Blues and Royals, Britain, British Royal Family, HRH, Iraq, Ministry of Defence, Prince Harry_
 
 ## [Previous Day...](/news/2007/05/15/index.md)
 

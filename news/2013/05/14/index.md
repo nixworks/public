@@ -4,7 +4,7 @@
 Three US soldiers with the Nato-led force in Kandahar province in southern Afghanistan have been killed by a roadside bomb, officials say.
 
 ### [Nigerian Sharia conflict:The President of Nigeria, Goodluck Jonathan, declares a state of emergency in Adamawa, Borno and Yobe to fight an Islamist insurgency. ](/news/2013/05/14/nigerian-sharia-conflict-pthe-president-of-nigeria-goodluck-jonathan-declares-a-state-of-emergency-in-adamawa-borno-and-yobe-to-fight-an.md)
-_Context: Adamawa State, Borno State, Goodluck Jonathan, Islamist, Nigerian Sharia conflict, President of Nigeria, Yobe State, state of emergency_
+_Context: Adamawa State, Borno State, Goodluck Jonathan, Islamist, Nigerian Sharia conflict, President, Yobe State, state of emergency_
 
 ### [American actress Angelina Jolie announces that she underwent an elective double mastectomy due to her family history of lethal cases of breast cancer. ](/news/2013/05/14/american-actress-angelina-jolie-announces-that-she-underwent-an-elective-double-mastectomy-due-to-her-family-history-of-lethal-cases-of-brea.md)
 _Context: Angelina Jolie, U.S., breast cancer, mastectomy_

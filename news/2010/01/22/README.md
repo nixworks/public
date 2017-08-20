@@ -10,7 +10,7 @@ Ten rhino horns, with an estimated value of €500,000, have been seized by Cust
 _Context: China, Sino-American relations, United States, blocks mentions, cyber attacks_
 
 ### [U.K. Home Secretary Alan Johnson announces the Joint Terrorism Analysis Centre has raised the terrorist threat level from "substantial" to "severe". ](/news/2010/01/22/u-k-home-secretary-alan-johnson-announces-the-joint-terrorism-analysis-centre-has-raised-the-terrorist-threat-level-from-substantial-to.md)
-_Context: Alan Johnson, Home Secretary, Joint Terrorism Analysis Centre, United Kingdom, terror threat level_
+_Context: Alan Johnson, Britain, Home Secretary, Joint Terrorism Analysis Centre, terror threat level_
 
 ### [A U.S. Justice Department task force recommends 47 Guantanamo Bay detainees should be held indefinitely without charge. ](/news/2010/01/22/a-u-s-justice-department-task-force-recommends-47-guantanamo-bay-detainees-should-be-held-indefinitely-without-charge.md)
 _Context: Guantanamo Bay Detention Camp, United States, United States Justice Department, detainees, detention camps, task force_
@@ -25,10 +25,10 @@ _Context: Argentina, Germany, Jorge Rafael Videla, Nuremberg, arrest warrant_
 _Context: Belgrade, Bishop Irinej of Nis, Electoral Synod, Serbian Orthodox Church, Serbian Patriarch_
 
 ### [European banking stocks drop sharply following U.S. President Barack Obama's plans to restrict activities of the biggest American banks. ](/news/2010/01/22/european-banking-stocks-drop-sharply-following-u-s-president-barack-obama-s-plans-to-restrict-activities-of-the-biggest-american-banks.md)
-_Context: Barack Obama, Europe, President, United States, banking_
+_Context: Barack Obama, Europe, United States, banking, president_
 
 ### [The Supreme Court of Nigeria gives the government 14 days to decide whether ailing President Umaru Yar'Adua is fit to rule the country. ](/news/2010/01/22/the-supreme-court-of-nigeria-gives-the-government-14-days-to-decide-whether-ailing-president-umaru-yar-adua-is-fit-to-rule-the-country.md)
-_Context: Nigeria, President of Nigeria, Supreme Court, Umaru Yar'Adua, government_
+_Context: Nigeria, President, Supreme Court, Umaru Yar'Adua, government_
 
 ### [Turkish police arrest 120 suspects in a major anti-terrorism operation against Al-Qaeda. ](/news/2010/01/22/turkish-police-arrest-120-suspects-in-a-major-anti-terrorism-operation-against-al-qaeda.md)
 _Context: Turkey, Turkish police, al-Qaeda, anti-terrorism_

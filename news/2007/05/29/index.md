@@ -31,7 +31,7 @@ _Context: Ami Ayalon, Ehud Barak, Israel, Israeli Prime Minister, Labor Party_
 _Context: Adam Air, Flight 574, black box_
 
 ### [ Umaru Yar'Adua assumes office as the President of Nigeria. ](/news/2007/05/29/umaru-yar-adua-assumes-office-as-the-president-of-nigeria.md)
-_Context: President of Nigeria, Umaru Yar'Adua_
+_Context: President, Umaru Yar'Adua_
 
 ## [Previous Day...](/news/2007/05/28/index.md)
 

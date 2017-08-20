@@ -97,7 +97,7 @@ _Context: Governor-General of Papua New Guinea, Michael Ogio, Pato Kakaraya_
 _Context: Nursultan Nazarbayev's, President, parliament_
 
 ### [Nigeria's ruling People's Democratic Party nominates incumbent President Goodluck Jonathan as its candidate for April presidential elections. ](/news/2011/01/14/nigeria-s-ruling-people-s-democratic-party-nominates-incumbent-president-goodluck-jonathan-as-its-candidate-for-april-presidential-elections.md)
-_Context: Goodluck Jonathan, Nigeria, People's Democratic Party, President of Nigeria, presidential election_
+_Context: Goodluck Jonathan, Nigeria, People's Democratic Party, President, presidential election_
 
 ### [Prime Minister of Japan Naoto Kan reshuffles his Cabinet. ](/news/2011/01/14/prime-minister-of-japan-naoto-kan-reshuffles-his-cabinet.md)
 _Context: Naoto Kan, Prime Minister of Japan, Tokyo_

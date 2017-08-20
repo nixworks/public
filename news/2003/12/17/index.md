@@ -31,7 +31,7 @@ _Context: Europe, J. R. R. Tolkien, Peter Jackson, The Lord of the Rings, The Lo
 _Context: Brazzaville, Republic of Congo_
 
 ### [Health: The UK government says that a case of variant Creutzfeldt-Jakob disease may have occurred through blood transfusion. [http://news.bbc.co.uk/1/hi/health/3327745.stm]](/news/2003/12/17/health-the-uk-government-says-that-a-case-of-variant-creutzfeldtajakob-disease-may-have-occurred-through-blood-transfusion-http-news.md)
-_Context: United Kingdom, blood transfusion, health, variant Creutzfeldt-Jakob disease_
+_Context: Britain, blood transfusion, health, variant Creutzfeldt-Jakob disease_
 
 ### [Former Governor of Illinois George H. Ryan is indicted on corruption charges for receiving payoffs, gifts and vacations in return for government contracts and leases while he served as the Governor and Secretary of State of Illinois. [http://www.dallasnews.com/sharedcontent/dallas/politics/national/stories/121703dnnatindict.9f1c0.html]](/news/2003/12/17/former-governor-of-illinois-george-h-ryan-is-indicted-on-corruption-charges-for-receiving-payoffs-gifts-and-vacations-in-return-for-govern.md)
 _Context: George H. Ryan, Governor of Illinois, Illinois_

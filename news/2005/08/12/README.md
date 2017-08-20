@@ -10,7 +10,7 @@ _Context: Colombo, Foreign Minister, Lakshman Kadirgamar, Sri Lanka, Tamil Tiger
 _Context: Kashmir, Udhampur_
 
 ### [ 104 Ecuadorians trying to emigrate to the United States are killed when their ship sinks in the Pacific Ocean off the coast of Colombia.  Nine people are rescued after floating at sea for two days.](/news/2005/08/12/104-ecuadorians-trying-to-emigrate-to-the-united-states-are-killed-when-their-ship-sinks-in-the-pacific-ocean-off-the-coast-of-colombia-n.md)
-_Context: Colombia, Ecuador, North Pacific Ocean, United States, illegal migrants_
+_Context: Colombia, Ecuador, Pacific Ocean, United States, illegal migrants_
 
 ### [ At least 80 people have died from water-borne diseases and over 5,000 are sick in the western Indian state of Maharashtra following recent floods. ](/news/2005/08/12/at-least-80-people-have-died-from-water-borne-diseases-and-over-5-000-are-sick-in-the-western-indian-state-of-maharashtra-following-recent.md)
 _Context: India, Maharashtra, recent floods_
@@ -22,7 +22,7 @@ _Context: British Airways, Heathrow_
 _Context: Salva Kiir, Sudan_
 
 ### [ Omar Bakri Mohammed is banned from returning to the United Kingdom. ](/news/2005/08/12/omar-bakri-mohammed-is-banned-from-returning-to-the-united-kingdom.md)
-_Context: Omar Bakri Mohammed, United Kingdom_
+_Context: Britain, Omar Bakri Mohammed_
 
 ### [ Former Israeli sergeant Taysir Hayb is sentenced to eight years in prison and two years suspended sentence for shooting and killing Tom Hurndall. ](/news/2005/08/12/former-israeli-sergeant-taysir-hayb-is-sentenced-to-eight-years-in-prison-and-two-years-suspended-sentence-for-shooting-and-killing-tom-hur.md)
 _Context: Israel, Taysir Hayb, Tom Hurndall_

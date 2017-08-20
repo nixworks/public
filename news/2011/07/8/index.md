@@ -7,7 +7,7 @@ Former first lady Betty Ford, who died this evening, is being remembered for her
 A possible inquiry into the handling of a 2007 French court case by Christine Lagarde, the new head of the I.M.F., has been set aside for the time being.
 
 ### [Tropical Storm Calvin forms off the Pacific coast of Mexico. ](/news/2011/07/8/tropical-storm-calvin-forms-off-the-pacific-coast-of-mexico.md)
-_Context: Hurricane Jova, Mexico, North Pacific Ocean_
+_Context: Hurricane Jova, Mexico, Pacific Ocean_
 
 ### [A Hewa Bora Boeing 727 airliner crashes in the Democratic Republic of the Congo killing 74 people. ](/news/2011/07/8/a-hewa-bora-boeing-727-airliner-crashes-in-the-democratic-republic-of-the-congo-killing-74-people.md)
 _Context: Boeing 727, Democratic Republic of the Congo, Hewa Bora, crashes_

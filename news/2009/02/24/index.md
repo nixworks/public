@@ -1,7 +1,7 @@
 ## [2009-02-24](/news/2009/02/24/index.md)
 
 ### [ United States President Barack Obama addresses a joint session of Congress. ](/news/2009/02/24/united-states-president-barack-obama-addresses-a-joint-session-of-congress.md)
-_Context: Barack Obama, President, addresses, joint session of Congress_
+_Context: Barack Obama, addresses, joint session of Congress, president_
 
 ### [ The U.S. Senate confirms Hilda Solis as the Secretary of Labor. ](/news/2009/02/24/the-u-s-senate-confirms-hilda-solis-as-the-secretary-of-labor.md)
 Earlier we reported that the Senate would hold a vote to cut off debate today on the nomination of Rep. Hilda Solis, D-Calif., as secretary of Labor. Now comes word that senators have reached an agreement to avoid that and...
@@ -25,7 +25,7 @@ _Context: Government House, Thailand, assemble, elections, red shirt_
 Pakistani Taliban militants announced on Tuesday an indefinite ceasefire in the Swat valley in the northwest of the country, a day after the army said it was ceasing operations in the region.
 
 ### [ NASA's Orbiting Carbon Observatory lands in the Pacific Ocean near Antarctica after failing to reach Earth's orbit. ](/news/2009/02/24/nasa-s-orbiting-carbon-observatory-lands-in-the-pacific-ocean-near-antarctica-after-failing-to-reach-earth-s-orbit.md)
-_Context: Antarctica, Earth, NASA, North Pacific Ocean, Orbiting Carbon Observatory, orbit_
+_Context: Antarctica, Earth, NASA, Orbiting Carbon Observatory, Pacific Ocean, orbit_
 
 ### [ Ireland's Stock Exchange falls to its lowest level since 1995. ](/news/2009/02/24/ireland-s-stock-exchange-falls-to-its-lowest-level-since-1995.md)
 Dublin&#39;s ISEQ index hit a 14-year low this morning, as markets around the world tumble on fears over the global financial system.
@@ -40,7 +40,7 @@ _Context: Iraq, Iraq War, Iraqi, Iraqi Police, Mosul, United States, United Stat
 _Context: Mogadishu, Somalia, heavy fighting_
 
 ### [ U.S. President Obama and Japanese Prime Minister Taro Aso pledge to cooperate in stimulating economic demand and combating protectionism. ](/news/2009/02/24/u-s-president-obama-and-japanese-prime-minister-taro-aso-pledge-to-cooperate-in-stimulating-economic-demand-and-combating-protectionism.md)
-_Context: Barack Obama, Japan, President, Prime Minister of Japan, Taro Aso, United States, protectionism, stimulating economic demand_
+_Context: Barack Obama, Japan, Prime Minister of Japan, Taro Aso, United States, president, protectionism, stimulating economic demand_
 
 ### [ Italian Prime Minister Silvio Berlusconi and French President Nicolas Sarkozy agree to cooperate in reviving nuclear power in Italy. ](/news/2009/02/24/italian-prime-minister-silvio-berlusconi-and-french-president-nicolas-sarkozy-agree-to-cooperate-in-reviving-nuclear-power-in-italy.md)
 _Context: France, Italian, Italian Prime Minister, Nicolas Sarkozy, President of France, Silvio Berlusconi, nuclear power_

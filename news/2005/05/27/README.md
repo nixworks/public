@@ -19,10 +19,10 @@ _Context: Federal Court of Australia_
 _Context: Director-General, European Union, Pascal Lamy, World Trade Organization_
 
 ### [ The majority of members of Basque parliament, Spain, condemn the ETA bomb attack in Madrid, though the communists abstain. A bomb explodes later in a Basque train station. ](/news/2005/05/27/the-majority-of-members-of-basque-parliament-spain-condemn-the-eta-bomb-attack-in-madrid-though-the-communists-abstain-a-bomb-explodes.md)
-_Context: Basque, Basque, ETA, Madrid, Spanish, abstain_
+_Context: Basque, Basque, ETA, Madrid, Spain, abstain_
 
 ### [ The planned 48 hour strike at the BBC in Britain is called off, unions announce, following talks. ](/news/2005/05/27/the-planned-48-hour-strike-at-the-bbc-in-britain-is-called-off-unions-announce-following-talks.md)
-_Context: BBC, United Kingdom_
+_Context: BBC, Britain_
 
 ### [ 14 people die as a bomb explodes near a shrine in Islamabad, Pakistan. ](/news/2005/05/27/14-people-die-as-a-bomb-explodes-near-a-shrine-in-islamabad-pakistan.md)
 _Context: Islamabad, Pakistan_

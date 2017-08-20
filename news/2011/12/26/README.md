@@ -4,7 +4,7 @@
 More Arab League observers are set to arrive in Syria as human rights activists say at least 13 people are killed in the central city of Homs.
 
 ### [Brazil surpasses the United Kingdom to become the world's sixth-largest economy. ](/news/2011/12/26/brazil-surpasses-the-united-kingdom-to-become-the-world-s-sixth-largest-economy.md)
-_Context: Brazil, United Kingdom, sixth-largest economy_
+_Context: Brazil, Britain, sixth-largest economy_
 
 ### [Tens of thousands of people are left without power after one of the biggest storms for 30 years hits Scandinavia. ](/news/2011/12/26/tens-of-thousands-of-people-are-left-without-power-after-one-of-the-biggest-storms-for-30-years-hits-scandinavia.md)
 _Context: Scandinavians_

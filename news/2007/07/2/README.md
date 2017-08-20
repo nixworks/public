@@ -13,7 +13,7 @@ A New Zealand soldier has been awarded the Victoria Cross for the first time sin
 _Context: A$, Australia, Coles Group, Wesfarmers_
 
 ### [ U.S. President George W. Bush holds talks with the President of Russia Vladimir Putin in Kennebunkport, Maine discussing missile defense and Iran. ](/news/2007/07/2/u-s-president-george-w-bush-holds-talks-with-the-president-of-russia-vladimir-putin-in-kennebunkport-maine-discussing-missile-defense-an.md)
-_Context: George W. Bush, Iran, Kennebunkport, Maine, President, Russian President Vladimir Putin, Vladimir Putin, missile defense shield_
+_Context: George W. Bush, Iran, Kennebunkport, Maine, Russian President Vladimir Putin, Vladimir Putin, missile defense shield, president_
 
 ### [ The United States accuses Iran of using Hezbollah to train Shia militants in Iraq. The Iranian Defence Minister had earlier called the US the "biggest sponsor of terrorism" in the world. ](/news/2007/07/2/the-united-states-accuses-iran-of-using-hezbollah-to-train-shia-militants-in-iraq-the-iranian-defence-minister-had-earlier-called-the-us-t.md)
 _Context: Hezbollah, Iran, Iraq, Shia, United States_

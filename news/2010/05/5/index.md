@@ -1,7 +1,7 @@
 ## [2010-05-5](/news/2010/05/5/index.md)
 
 ### [Umaru Yar'Adua, President of Nigeria, dies at age 58. Acting President Goodluck Jonathan succeeds Yar'Adua as President in his own right. ](/news/2010/05/5/umaru-yar-adua-president-of-nigeria-dies-at-age-58-acting-president-goodluck-jonathan-succeeds-yar-adua-as-president-in-his-own-right.md)
-_Context: Goodluck Jonathan, President of Nigeria, Umaru Yar'Adua_
+_Context: Goodluck Jonathan, President, Umaru Yar'Adua_
 
 ### [One hundred thousand Greeks participate in a general strike in Greece to protest against "austerity measures" set up by the recent Papandreou's gouverment. ](/news/2010/05/5/one-hundred-thousand-greeks-participate-in-a-general-strike-in-greece-to-protest-against-austerity-measures-set-up-by-the-recent-papandreo.md)
 Protests against proposed spending cuts by the Greek government have turned violent, as protesters clashed with riot police and torched buildings, killing at least three people.

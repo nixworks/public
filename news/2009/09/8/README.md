@@ -13,7 +13,7 @@ _Context: Apollo, Hierapolis, Turkey, UNESCO, statue, world heritage site_
 _Context: Democratic Republic of Congo, Joshua French and Tjostolv Moland, Norway, espionage, murder_
 
 ### [ Mobile network operators T-Mobile and Orange agree to merge their British businesses. ](/news/2009/09/8/mobile-network-operators-t-mobile-and-orange-agree-to-merge-their-british-businesses.md)
-_Context: Orange, T-Mobile, United Kingdom, wireless mobile carriers_
+_Context: Britain, Orange, T-Mobile, wireless mobile carriers_
 
 ### [ A magnitude 6.2 earthquake strikes northern Georgia. ](/news/2009/09/8/a-magnitude-6-2-earthquake-strikes-northern-georgia.md)
 _Context: Georgian, magnitude_

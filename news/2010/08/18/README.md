@@ -16,7 +16,7 @@ The last full U.S. combat brigade crossed the border into Kuwait on Thursday mor
 Rebels kill three Indian peacekeepers in a night-time ambush at a base in the eastern region of the Democratic Republic of Congo.
 
 ### [The United States deploys troops along its border with Mexico by the order of President Barack Obama. ](/news/2010/08/18/the-united-states-deploys-troops-along-its-border-with-mexico-by-the-order-of-president-barack-obama.md)
-_Context: Barack Obama, Mexico, President, United States_
+_Context: Barack Obama, Mexico, United States, president_
 
 ### [The American Ballet Theatre is given permission by its country's President, Barack Obama, to perform in Cuba; it would be the first time in 50 years. American tourists are still banned by their government from travelling to Cuba. ](/news/2010/08/18/the-american-ballet-theatre-is-given-permission-by-its-country-s-president-barack-obama-to-perform-in-cuba-it-would-be-the-first-time-in.md)
 The American Ballet Theatre company is to perform in Cuba later this year for the first time in 50 years.
@@ -70,7 +70,7 @@ _Context: Dunedin, New Zealand, South Island, South Korea, fishing boat_
 _Context: Melilla, Morocco, Ramadan_
 
 ### [Mauritania extradites a man to Mali convicted for kidnapping three Spanish aid workers believed to be held by the Al-Qaeda Organization in the Islamic Maghreb. ](/news/2010/08/18/mauritania-extradites-a-man-to-mali-convicted-for-kidnapping-three-spanish-aid-workers-believed-to-be-held-by-the-al-qaeda-organization-in-t.md)
-_Context: Al Qaeda in the Islamic Maghreb, Mali, Mauritanian, Spanish_
+_Context: Al Qaeda in the Islamic Maghreb, Mali, Mauritanian, Spain_
 
 ### [Russia, Afghanistan, Tajikistan and Pakistan agree to step up the fight against terrorism and narcotics in a summit in the Russian Black Sea resort of Sochi. ](/news/2010/08/18/russia-afghanistan-tajikistan-and-pakistan-agree-to-step-up-the-fight-against-terrorism-and-narcotics-in-a-summit-in-the-russian-black-sea.md)
 Russia, Afghanistan, Pakistan and Tajikistan agreed to step up joint fight against terrorism and narcotics at a quadripartite summit on Wednesday. Terrorism and drug trafficking pose a “threat to peac

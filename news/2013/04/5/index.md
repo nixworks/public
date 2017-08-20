@@ -7,7 +7,7 @@ _Context: Gulf Cartel, Mario Ramirez Trevino, Mexican Drug War, Miguel ''El Grin
 An official says a bomb attached to a donkey has exploded, killing a policeman and wounded three civilians.
 
 ### [Queen Elizabeth of the United Kingdom receives an honorary BAFTA award for her support of British film and television and she is honored as the "most memorable Bond girl" for her appearance at the 2012 London Olympics. ](/news/2013/04/5/queen-elizabeth-of-the-united-kingdom-receives-an-honorary-bafta-award-for-her-support-of-british-film-and-television-and-she-is-honored-as.md)
-_Context: 2012 London Olympics, BAFTA award, Bond girl, British film, Elizabeth II, United Kingdom, television_
+_Context: 2012 London Olympics, BAFTA award, Bond girl, Britain, British film, Elizabeth II, television_
 
 ### [Japan's stock market index, the Nikkei 225, hits its highest level in almost five years, after a Bank of Japan stimulus plan raises hope of economic revival. ](/news/2013/04/5/japan-s-stock-market-index-the-nikkei-225-hits-its-highest-level-in-almost-five-years-after-a-bank-of-japan-stimulus-plan-raises-hope-of.md)
 _Context: Bank of Japan, Japan, Nikkei 225, index, stock market_

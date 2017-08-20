@@ -16,7 +16,7 @@ _Context: Hreiar Mr Sigursson, Iceland, Kaupthing Bank, embezzlement_
 Myanmar opposition party says campaign will go on as it faces being disbanded.
 
 ### [Nigeria's acting President, Goodluck Jonathan, is sworn in as President of Nigeria following the death of Umaru Yar'Adua. ](/news/2010/05/6/nigeria-s-acting-president-goodluck-jonathan-is-sworn-in-as-president-of-nigeria-following-the-death-of-umaru-yar-adua.md)
-_Context: Goodluck Jonathan, Nigeria, President of Nigeria, Umaru Yar'Adua_
+_Context: Goodluck Jonathan, Nigeria, President, Umaru Yar'Adua_
 
 ### [The Irish Aviation Authority announces new flight restrictions at several airports, including Shannon Airport and Ireland West Airport Knock, from midnight because of the (Iceland) volcano. ](/news/2010/05/6/the-irish-aviation-authority-announces-new-flight-restrictions-at-several-airports-including-shannon-airport-and-ireland-west-airport-knock.md)
 The Irish Aviation Authority has said that Irish airports will operate as normal until at least 1pm tomorrow.
@@ -28,7 +28,7 @@ _Context: Afghanistan's, Iran_
 _Context: Arthur Mutambara, Morgan Tsvangirai, Robert Mugabe, Zimbabwe_
 
 ### [United Kingdom general election:Voters in the United Kingdom head to the polls to elect Members of Parliament. ](/news/2010/05/6/united-kingdom-general-election-pvoters-in-the-united-kingdom-head-to-the-polls-to-elect-members-of-parliament.md)
-_Context: 2010 general election, Members of Parliament, United Kingdom_
+_Context: 2010 general election, Britain, Members of Parliament_
 
 ### [Ajmal Kasab, the only surviving member of a group responsible for the 2008 Mumbai attacks, is sentenced to death. ](/news/2010/05/6/ajmal-kasab-the-only-surviving-member-of-a-group-responsible-for-the-2008-mumbai-attacks-is-sentenced-to-death.md)
 Pak terrorist Ajmal Amir Kasab has been awarded the death sentence by special judge Tahaliyani. Kasab was in tears as the sentence was announced. The judge said there was no chance of Kasab reforming.

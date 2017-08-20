@@ -46,7 +46,7 @@ _Context: Bullfighting, Frank Evans_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Spanish prime minister Zapatero signs an agreement with president Hugo Chavez of Venezuela on the sale of warships and military transport planes. Conservative opposition leader Mariano Rajoy denounces the sale. ](/news/2005/03/29/spanish-prime-minister-zapatero-signs-an-agreement-with-president-hugo-cha-vez-of-venezuela-on-the-sale-of-warships-and-military-transport.md)
-_Context: Hugo Chavez, Jose Luis Rodriguez Zapatero, Mariano Rajoy, Spanish, Venezuela, warships_
+_Context: Hugo Chavez, Jose Luis Rodriguez Zapatero, Mariano Rajoy, Spain, Venezuela, warships_
 
 ### [ Political activists in Mongolia demonstrate in Ulan Bator for new elections. ](/news/2005/03/29/political-activists-in-mongolia-demonstrate-in-ulan-bator-for-new-elections.md)
 _Context: Mongolia, Ulan Bator_

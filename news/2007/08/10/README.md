@@ -46,7 +46,7 @@ _Context: United Nations Assistance Mission in Iraq, United Nations Security Cou
 _Context: Hamid Ansari, Vice-President of India_
 
 ### [ Thabo Mbeki, the President of South Africa, sacks Nozizwe Madlala-Routledge as the Deputy Health Minister for attending an AIDS conference in Spain without authorisation and criticising hospital conditions. ](/news/2007/08/10/thabo-mbeki-the-president-of-south-africa-sacks-nozizwe-madlala-routledge-as-the-deputy-health-minister-for-attending-an-aids-conference.md)
-_Context: AIDS, Nozizwe Madlala-Routledge, President, Spanish, Thabo Mbeki, hospital_
+_Context: AIDS, Nozizwe Madlala-Routledge, President, Spain, Thabo Mbeki, hospital_
 
 ### [ The President of Venezuela Hugo Chvez meets with the President of Bolivia Evo Morales and the President of Argentina Nstor Kirchner in Tarija, Bolivia. ](/news/2007/08/10/the-president-of-venezuela-hugo-chavez-meets-with-the-president-of-bolivia-evo-morales-and-the-president-of-argentina-nestor-kirchner-in-ta.md)
 _Context: Evo Morales, Hugo Chvez, Nstor Kirchner, President, President of Argentina, President of Bolivia, Tarija, Bolivia_
@@ -79,7 +79,7 @@ East Timor is facing a new humanitarian emergency, with hundreds of houses burnt
 _Context: European Union, Kosovo, Russia, Serbia, United States_
 
 ### [ Britain's Chief Veterinary Officer Debby Reynolds raises concern about another possible outbreak of foot-and-mouth disease in England. ](/news/2007/08/10/britain-s-chief-veterinary-officer-debby-reynolds-raises-concern-about-another-possible-outbreak-of-foot-and-mouth-disease-in-england.md)
-_Context: Debby Reynolds, England, United Kingdom, outbreak of 2007_
+_Context: Britain, Debby Reynolds, England, outbreak of 2007_
 
 ## [Previous Day...](/news/2007/08/9/index.md)
 

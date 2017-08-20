@@ -4,7 +4,7 @@
 _Context: U.S. state legislature, Virginia, Virginia General Assembly, slavery_
 
 ### [ Thousands of people in Madrid, Spain, protest a decision by the Supreme Court to reduce the sentence served by Basque separatist Iaki de Juana Chaos, who has been on a hunger strike for 110 days. ](/news/2007/02/24/thousands-of-people-in-madrid-spain-protest-a-decision-by-the-supreme-court-to-reduce-the-sentence-served-by-basque-separatist-inaki-de-j.md)
-_Context: Basque separatist, Iaki de Juana Chaos, Madrid, Spanish, Supreme Court, hunger strike_
+_Context: Basque separatist, Iaki de Juana Chaos, Madrid, Spain, Supreme Court, hunger strike_
 
 ### [ Iraq War: At least 39 people are killed and 61 injured as a car bomb explodes at a mosque in Habbaniya. ](/news/2007/02/24/iraq-war-at-least-39-people-are-killed-and-61-injured-as-a-car-bomb-explodes-at-a-mosque-in-habbaniya.md)
 _Context: Habbaniya, Iraq War, car bomb, mosque_

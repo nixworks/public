@@ -22,7 +22,7 @@ Aligarh (Uttar Padesh), Dec 11 (IANS) Five children of a rickshaw-puller, all ag
 Venezuelan President Hugo Chavez is moving into a tent given by Libyan leader Muammar Gaddafi so flood victims can take refuge in his office.
 
 ### [Eight fatal cases of A/H1N1 swine flu and two from seasonal flu are confirmed within six weeks in the United Kingdom. ](/news/2010/12/11/eight-fatal-cases-of-a-h1n1-swine-flu-and-two-from-seasonal-flu-are-confirmed-within-six-weeks-in-the-united-kingdom.md)
-_Context: A/H1N1, United Kingdom, swine flu_
+_Context: A/H1N1, Britain, swine flu_
 
 ### [Delegates at the United Nations Climate Change Conference in Cancun, Mexico, agree to a compromise on slowing climate change, though overall failing to reach a "deal that many activists and governments want." ](/news/2010/12/11/delegates-at-the-united-nations-climate-change-conference-in-cancaon-mexico-agree-to-a-compromise-on-slowing-climate-change-though-overal.md)
 Delegates from 190 nations reach a deal to curb climate change, including a fund to help developing countries, at UN talks in Cancun.

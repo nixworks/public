@@ -31,7 +31,7 @@ The Communist President Vladimir Voronin of Moldova has said that he is ready fo
 _Context: Australia, Australian Prime Minister, Kevin Rudd_
 
 ### [ U.S. President Barack Obama arranged a meeting with police officer Sgt. James Crowley and African American public intellectual Henry Louis Gates at the White House in a bid to quell a dispute over racial profiling that arose from an altercation between the two of them. ](/news/2009/07/30/u-s-president-barack-obama-arranged-a-meeting-with-police-officer-sgt-james-crowley-and-african-american-public-intellectual-henry-louis.md)
-_Context: African-American, Barack Obama, Henry Louis Gates, President, United States, White House, altercation, public intellectual, racial profiling_
+_Context: African-American, Barack Obama, Henry Louis Gates, United States, White House, altercation, president, public intellectual, racial profiling_
 
 ### [ Referendum Commission research indicates a significant increase in the level of understanding of the Treaty of Lisbon among Irish voters. ](/news/2009/07/30/referendum-commission-research-indicates-a-significant-increase-in-the-level-of-understanding-of-the-treaty-of-lisbon-among-irish-voters.md)
 Research indicates that there has been a substantial increase in the level of understanding of the Lisbon Treaty among Irish voters.

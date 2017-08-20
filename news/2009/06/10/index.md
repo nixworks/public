@@ -25,7 +25,7 @@ _Context: Bathaa, Dhiqar_
 _Context: Constituent Assembly, Philippines, constitutional constraints, demonstration_
 
 ### [ A two-day strike by the United Kingdom National Union of Rail, Maritime and Transport Workers disrupts train services in London. ](/news/2009/06/10/a-two-day-strike-by-the-united-kingdom-national-union-of-rail-maritime-and-transport-workers-disrupts-train-services-in-london.md)
-_Context: London, National Union of Rail, Maritime and Transport Workers, United Kingdom, strike_
+_Context: Britain, London, National Union of Rail, Maritime and Transport Workers, strike_
 
 ### [ Russia begins destroying 6,000 tons of nerve gas in Shchuchye, Kurgan Oblast. ](/news/2009/06/10/russia-begins-destroying-6-000-tons-of-nerve-gas-in-shchuchye-kurgan-oblast.md)
 _Context: Russia, Shchuchye, Kurgan Oblast, nerve agent_

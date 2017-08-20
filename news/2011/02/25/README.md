@@ -19,7 +19,7 @@ _Context: Cairo, Egypt, Egyptian Army, Protesters, Tahrir Square_
 Ivory Coast rebels take the town of Zouan-Hounien in the west, as the UN warns that the country may be heading towards civil war.
 
 ### [Victorian era photographs and parole details for women prisoners in the United Kingdom are published on Ancestry.com. ](/news/2011/02/25/victorian-era-photographs-and-parole-details-for-women-prisoners-in-the-united-kingdom-are-published-on-ancestry-com.md)
-_Context: Ancestry.com, United Kingdom, Victorian era, parole_
+_Context: Ancestry.com, Britain, Victorian era, parole_
 
 ### [The video game ''Mortal Kombat'' is refused classification in Australia. ](/news/2011/02/25/the-video-game-mortal-kombat-is-refused-classification-in-australia.md)
 _Context: Australia, Mortal Kombat_

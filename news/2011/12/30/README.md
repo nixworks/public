@@ -10,7 +10,7 @@ Syrian troops fire on tens of thousands of protesters as they hold rallies in fr
 An attack blamed on the Islamist Boko Haram group hits the Nigerian city of Maiduguri, reports say, killing at least two people.
 
 ### [The stock for McDonald's rose 31 percent in 2011, the largest gain in the Dow Jones Industrial Average, while Bank of America fell 59 percent, the largest loss in the Dow Jones. ](/news/2011/12/30/the-stock-for-mcdonald-s-rose-31-percent-in-2011-the-largest-gain-in-the-dow-jones-industrial-average-while-bank-of-america-fell-59-percen.md)
-_Context: Bank of America, Dow Jones Industrial Average, McDonald's_
+_Context: Bank of America, Dow Jones Industrial Average, McDonald's restaurants_
 
 ### [Members of the Canadian Auto Workers vote in favour of a strike at Caterpillar Inc's locomotive manufacturing plant in London, Ontario. ](/news/2011/12/30/members-of-the-canadian-auto-workers-vote-in-favour-of-a-strike-at-caterpillar-inc-s-locomotive-manufacturing-plant-in-london-ontario.md)
 Contract deadline set for just before 12 a.m. Sunday, while 98% voted in favour of action

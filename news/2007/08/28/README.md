@@ -1,7 +1,7 @@
 ## [2007-08-28](/news/2007/08/28/index.md)
 
 ### [ A total lunar eclipse takes place in the early morning hours across most of North America and the eastern Pacific Ocean region. ](/news/2007/08/28/a-total-lunar-eclipse-takes-place-in-the-early-morning-hours-across-most-of-north-america-and-the-eastern-pacific-ocean-region.md)
-_Context: North America, North Pacific Ocean, lunar eclipse_
+_Context: North America, Pacific Ocean, lunar eclipse_
 
 ### [ The Supreme Court of Chile confirms a life sentence for Hugo Salas Wenzel, a Chilean general under former dictator Augusto Pinochet, for his role in the murder of 12 opponents of the regime. ](/news/2007/08/28/the-supreme-court-of-chile-confirms-a-life-sentence-for-hugo-salas-wenzel-a-chilean-general-under-former-dictator-augusto-pinochet-for-hi.md)
 _Context: Augusto Pinochet, Chile, Hugo Salas Wenzel, Supreme Court_

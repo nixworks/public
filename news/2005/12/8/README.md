@@ -13,7 +13,7 @@ Saudis fumed Friday that Iran&#39;s president marred a Mecca summit dedicated to
 A bomber jumped on a bus after security checks had been completed detonated an explosives belt killing up to 30 people and wounding nearly 40, officials said.
 
 ### [ Croatian general Ante Gotovina, rated the third-most-wanted war criminal from the Yugoslav wars by the International Criminal Tribunal for the Former Yugoslavia, is arrested by Spanish police in Tenerife and extradited to face the tribunal in The Hague. ](/news/2005/12/8/croatian-general-ante-gotovina-rated-the-third-most-wanted-war-criminal-from-the-yugoslav-wars-by-the-international-criminal-tribunal-for.md)
-_Context: Ante Gotovina, Croatia, International Criminal Tribunal for the former Yugoslavia, Spanish, Tenerife, The Hague, Yugoslav Wars, war crime_
+_Context: Ante Gotovina, Croatia, International Criminal Tribunal for the former Yugoslavia, Spain, Tenerife, The Hague, Yugoslav Wars, war crime_
 
 ### [ Former Prime Minister of the United Kingdom Margaret Thatcher has left hospital after being given a clean bill of health by doctors after feeling faint yesterday. ](/news/2005/12/8/former-prime-minister-of-the-united-kingdom-margaret-thatcher-has-left-hospital-after-being-given-a-clean-bill-of-health-by-doctors-after-f.md)
 _Context: Margaret Thatcher, Prime Minister_
@@ -22,7 +22,7 @@ _Context: Margaret Thatcher, Prime Minister_
 _Context: Israel, Red Crescent, Red Crystal_
 
 ### [ UK Law Lords rule in ''A v. Secretary of State for the Home Department'' that evidence which may have been obtained by torture cannot be used against suspects in terrorism cases. ](/news/2005/12/8/uk-law-lords-rule-in-a-v-secretary-of-state-for-the-home-department-that-evidence-which-may-have-been-obtained-by-torture-cannot-be-us.md)
-_Context: A v. Secretary of State for the Home Department, Appellate Committee of the House of Lords, United Kingdom, terrorism, torture_
+_Context: A v. Secretary of State for the Home Department, Appellate Committee of the House of Lords, Britain, terrorism, torture_
 
 ### [ Lawyers for convicted murderer and Crips co-founder Stanley "Tookie" Williams meet with Governor of California Arnold Schwarzenegger in a final plea for clemency. ](/news/2005/12/8/lawyers-for-convicted-murderer-and-crips-co-founder-stanley-tookie-williams-meet-with-governor-of-california-arnold-schwarzenegger-in-a-f.md)
 _Context: Arnold Schwarzenegger, Crips, Governor of California, Stanley Williams, clemency_

@@ -16,7 +16,7 @@ _Context: Bombardier Aerospace, Dash 8 Q400, Denmark, Lithuania, Scandinavian Ai
 _Context: Eritrea, Somalia, new alliance_
 
 ### [ A new case of Foot-and-mouth disease in the UK was confirmed after it was assumed that the outbreak of 2007 had been under control. ](/news/2007/09/12/a-new-case-of-foot-and-mouth-disease-in-the-uk-was-confirmed-after-it-was-assumed-that-the-outbreak-of-2007-had-been-under-control.md)
-_Context: United Kingdom, foot-and-mouth disease, outbreak of 2007_
+_Context: Britain, foot-and-mouth disease, outbreak of 2007_
 
 ### [ A major earthquake with a magnitude of 8.4 occurs off the west-coast of the island Sumatra, Indonesia. Sea level readings indicate a tsunami might follow and a tsunami watch is put in place for the whole of the Indian Ocean.  ](/news/2007/09/12/a-major-earthquake-with-a-magnitude-of-8-4-occurs-off-the-west-coast-of-the-island-sumatra-indonesia-sea-level-readings-indicate-a-tsunam.md)
 _Context: Indian Ocean, Indonesia, September 2007 Sumatra earthquakes, Sumatra, earthquake, tsunami_

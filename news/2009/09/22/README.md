@@ -10,7 +10,7 @@ _Context: AWACS, Ilyushin Il-76, Iran, mid-air collision_
 _Context: Moscow, Russia, racial bias_
 
 ### [ U.S. President Barack Obama calls for the resumption of the Middle East peace process in meetings with the Prime Minister of Israel Benjamin Netanyahu and the President of the Palestinian Authority Mahmoud Abbas. ](/news/2009/09/22/u-s-president-barack-obama-calls-for-the-resumption-of-the-middle-east-peace-process-in-meetings-with-the-prime-minister-of-israel-benjami.md)
-_Context: Barack Obama, Benjamin Netanyahu, Israeli Prime Minister, Mahmoud Abbas, Middle East, Palestinian Authority President, President_
+_Context: Barack Obama, Benjamin Netanyahu, Israeli Prime Minister, Mahmoud Abbas, Middle East, Palestinian Authority President, president_
 
 ### [ Honduran soldiers break up protests outside the Brazilian embassy in Tegucigalpa in support of deposed President Manuel Zelaya, who is staying inside. ](/news/2009/09/22/honduran-soldiers-break-up-protests-outside-the-brazilian-embassy-in-tegucigalpa-in-support-of-deposed-president-manuel-zelaya-who-is-stay.md)
 Honduras de facto leader Roberto Micheleti demanded that Brazil hand over deposed constitutional president Manuel Zelaya who is currently in the Brazilian embassy in Tegucigalpa following a dramatic secret return to the country.
@@ -40,7 +40,7 @@ _Context: Iran, Mahmoud Ahmadinejad, New York City, President, United Nations, U
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ A Spanish doctor, identified as AM, is sentenced to a year in prison for his role in the death of the former First Lady of Nigeria, Stella Obasanjo. ](/news/2009/09/22/a-spanish-doctor-identified-as-am-is-sentenced-to-a-year-in-prison-for-his-role-in-the-death-of-the-former-first-lady-of-nigeria-stella.md)
-_Context: First Lady, Nigeria, Spanish, Stella Obasanjo_
+_Context: First Lady, Nigeria, Spain, Stella Obasanjo_
 
 ### [ Ireland's National Ploughing Championships, the largest ploughing championship in the world and the largest outdoor agricultural event in Europe, begins in Athy, County Kildare. ](/news/2009/09/22/ireland-s-national-ploughing-championships-the-largest-ploughing-championship-in-the-world-and-the-largest-outdoor-agricultural-event-in-e.md)
 An estimated 49,000 people attended the National Ploughing Championship today.

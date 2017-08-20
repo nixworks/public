@@ -10,7 +10,7 @@ _Context: Marcus Stephen, Nauru, Parliament, President of Nauru, parliamentary e
 _Context: Archbishop of Armagh, Cardinal Sen Brady, Father Brendan Smyth, Martin McGuinness, Nuremberg defence, Primate of All Ireland, oath of silence_
 
 ### [A man who used to teach at a Roman Catholic religious order's schools in Spain is arrested in Chile on suspicion of sexually abusing children. ](/news/2010/03/16/a-man-who-used-to-teach-at-a-roman-catholic-religious-order-s-schools-in-spain-is-arrested-in-chile-on-suspicion-of-sexually-abusing-childre.md)
-_Context: Chile, Roman Catholic, Spanish_
+_Context: Chile, Roman Catholic, Spain_
 
 ### [The military trial of Sri Lanka's former army chief Sarath Fonseka, charged with participating in politics while in uniform, is adjourned at the end of day one. ](/news/2010/03/16/the-military-trial-of-sri-lanka-s-former-army-chief-sarath-fonseka-charged-with-participating-in-politics-while-in-uniform-is-adjourned-at.md)
 Sri Lanka&#039;s former army chief, Sarath Fonseka, appeared in a military court yesterday on charges of sedition.

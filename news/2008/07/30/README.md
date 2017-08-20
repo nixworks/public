@@ -10,7 +10,7 @@ _Context: Ehud Olmert, Israeli Prime Minister, Kadima_
 U.S. President George W. Bush on Wednesday signed into law a sweeping rescue package aimed at resurrecting the housing market from its worst slump since the Great Depression and stabilizing the two largest mortgage finance companies.
 
 ### [ In the United Kingdom, the Appellate Committee of the House of Lords rejects an appeal by alleged British computer hacker Gary McKinnon against extradition to the United States to face charges of hacking into Pentagon and NASA computers. ](/news/2008/07/30/in-the-united-kingdom-the-appellate-committee-of-the-house-of-lords-rejects-an-appeal-by-alleged-british-computer-hacker-gary-mckinnon-aga.md)
-_Context: Appellate Committee of the House of Lords, Gary McKinnon, NASA, United Kingdom, United States, United States military, computer, extradited, hackers_
+_Context: Appellate Committee of the House of Lords, Britain, Gary McKinnon, NASA, United States, United States military, computer, extradited, hackers_
 
 ### [  Air safety investigators from the Australian Transport Safety Bureau confirm an oxygen cylinder was responsible for an explosion on board Qantas Flight 30 on 25 July 2008. ](/news/2008/07/30/air-safety-investigators-from-the-australian-transport-safety-bureau-confirm-an-oxygen-cylinder-was-responsible-for-an-explosion-on-board.md)
 _Context: Australia, Australian Transport Safety Bureau, Qantas Flight 30, oxygen cylinder, safety_

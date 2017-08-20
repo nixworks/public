@@ -34,7 +34,7 @@ _Context: Archbishop Ieronymos II of Athens, Church of Greece, Eastern Orthodox 
 _Context: Afghanistan's, Lithuania, NATO, NATO meets, Vilnius_
 
 ### [ The United States Secretary of State Condoleezza Rice and United Kingdom Secretary of State for Foreign and Commonwealth Affairs David Miliband visit Afghanistan. ](/news/2008/02/7/the-united-states-secretary-of-state-condoleezza-rice-and-united-kingdom-secretary-of-state-for-foreign-and-commonwealth-affairs-david-mili.md)
-_Context: Afghanistan's, Condoleezza Rice, David Miliband, Secretary of State for Foreign and Commonwealth Affairs, United Kingdom, United States Secretary of State_
+_Context: Afghanistan's, Britain, Condoleezza Rice, David Miliband, Secretary of State for Foreign and Commonwealth Affairs, United States Secretary of State_
 
 ### [ Rio Tinto rejects BHP Billiton's $147 billion hostile takeover bid. ](/news/2008/02/7/rio-tinto-rejects-bhp-billiton-s-147-billion-hostile-takeover-bid.md)
 _Context: BHP Billiton, Rio Tinto, hostile takeover_

@@ -7,7 +7,7 @@ _Context: Eliot Spitzer, New York City, New York Governor, primary election_
 _Context: Guantanamo Bay Detention Camp, force fed, hunger strike, prison, protest_
 
 ### [ The United Kingdom Ministry of Defence bans any more of the 15 Royal Navy sailors and Royal Marines held captive by Iran from selling their stories to the media reversing a previous decision following widespread criticism. ](/news/2007/04/9/the-united-kingdom-ministry-of-defence-bans-any-more-of-the-15-royal-navy-sailors-and-royal-marines-held-captive-by-iran-from-selling-their.md)
-_Context: Ministry of Defence, Royal Marine, Royal Navy, United Kingdom, held captive by Iran, sailor_
+_Context: Britain, Ministry of Defence, Royal Marine, Royal Navy, held captive by Iran, sailor_
 
 ### [ Tim Montgomery, a former 100-metre world record holder, pleads guilty to charges of bank fraud and money laundering. ](/news/2007/04/9/tim-montgomery-a-former-100-metre-world-record-holder-pleads-guilty-to-charges-of-bank-fraud-and-money-laundering.md)
 _Context: 100 metres, Tim Montgomery, bank, fraud, money laundering, world record_

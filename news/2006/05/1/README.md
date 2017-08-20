@@ -10,7 +10,7 @@ _Context: Baburam Bhattarai, Girija Prasad Koirala, Gyanendra of Nepal, Maoist s
 _Context: Chadian government, Chadian rebels, Donald Yamamoto, Idriss Deby, President of Chad, presidential elections_
 
 ### [ Spain, Portugal, Finland and Greece join the United Kingdom, Republic of Ireland and Sweden in allowing workers from the ten countries which joined the European Union two years ago free access to their labour markets. ](/news/2006/05/1/spain-portugal-finland-and-greece-join-the-united-kingdom-republic-of-ireland-and-sweden-in-allowing-workers-from-the-ten-countries-whic.md)
-_Context: European Union, Finland, Greek, Ireland, Portugal, Spanish, Sweden, United Kingdom_
+_Context: Britain, European Union, Finland, Greek, Ireland, Portugal, Spain, Sweden_
 
 ### [ Bolivian Gas War: President Evo Morales has signed a decree nationalising the nation's natural gas industry, instructing foreign energy firms to channel their activities through the Bolivian government within a six-month deadline or face expulsion, and ordering the Bolivian military to occupy and secure key energy installations. ](/news/2006/05/1/bolivian-gas-war-president-evo-morales-has-signed-a-decree-nationalising-the-nation-s-natural-gas-industry-instructing-foreign-energy-fir.md)
 _Context: Bolivian Gas War, Bolivian military, Evo Morales, President of Bolivia, nationalising, natural gas_

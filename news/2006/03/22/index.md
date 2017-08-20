@@ -10,7 +10,7 @@ _Context: Avian flu virus, University of Wisconsin-Madison, bird flu_
 _Context: BC Ferries, British Columbia, Inside Passage, MV ''Queen of the North'', ferry, shipwreck_
 
 ### [ Basque separatist group ETA announce a permanent ceasefire to their 38-year campaign for independence from Spain, which has cost over 800 lives. ](/news/2006/03/22/basque-separatist-group-eta-announce-a-permanent-ceasefire-to-their-38-year-campaign-for-independence-from-spain-which-has-cost-over-800-l.md)
-_Context: Basque, ETA, Spanish_
+_Context: Basque, ETA, Spain_
 
 ### [ Russian President Vladimir Putin pays a visit to the Shaolin Temple, the symbol of Chinese Martial arts on his state visit to China. ](/news/2006/03/22/russian-president-vladimir-putin-pays-a-visit-to-the-shaolin-temple-the-symbol-of-chinese-martial-arts-on-his-state-visit-to-china.md)
 _Context: Martial arts, Shaolin Temple, Vladimir Putin, state visit_

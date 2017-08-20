@@ -19,7 +19,7 @@ _Context: Ohio State Fair_
 The FBI is investigating the death of a Utah woman stemming from a domestic dispute aboard a cruise ship traveling in U.S. waters off Alaska.
 
 ### [U.S. President Donald Trump tweets that transgender Americans will not be allowed to serve "in any capacity" in the United States Armed Forces. ](/news/2017/07/26/u-s-president-donald-trump-tweets-that-transgender-americans-will-not-be-allowed-to-serve-in-any-capacity-in-the-united-states-armed-forc.md)
-_Context: Donald Trump, President, Sexual orientation and gender identity in the United States military, United States military personnel, transgender, tweets_
+_Context: Donald Trump, Sexual orientation and gender identity in the United States military, United States military personnel, president, transgender, tweets_
 
 ### [The United States Senate rejects "repeal only" propositions of the Patient Protection and Affordable Care Act. United States President Donald Trump lashes out at Republican Senator Lisa Murkowski, who voted against the proposal. ](/news/2017/07/26/the-united-states-senate-rejects-repeal-only-propositions-of-the-patient-protection-and-affordable-care-act-united-states-president-donal.md)
 The legislative showdown will continue Wednesday as the Senate considers various measures to replace the health law.

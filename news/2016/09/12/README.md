@@ -37,7 +37,7 @@ _Context: Armed Forces, Manila, Mindanao, Moro conflict, Philippines-United Stat
 _Context: Indonesia, Indonesia-Philippines relations, Joko Widodo, Manila Bulletin, Manny Pinol, Mary Jane Veloso, Philippine, Rodrigo Duterte_
 
 ### [In a protest in Barcelona, an estimated 800,000 people (370,000 in the government claim) demand secession from the Madrid-based Spanish government. ](/news/2016/09/12/in-a-protest-in-barcelona-an-estimated-800-000-people-370-000-in-the-government-claim-demand-secession-from-the-madrid-based-spanish-gove.md)
-_Context: Barcelona, Catalan independence, Madrid, Spanish_
+_Context: Barcelona, Catalan independence, Madrid, Spain_
 
 ### [Former Prime Minister of the United Kingdom David Cameron resigns as MP for Witney, triggering a by-election. ](/news/2016/09/12/former-prime-minister-of-the-united-kingdom-david-cameron-resigns-as-mp-for-witney-triggering-a-by-election.md)
 David Cameron has quit as an MP saying that he did not want his disagreements with Theresa May to become a &ldquo;distraction&rdquo;, amid a growing row over grammar schools.

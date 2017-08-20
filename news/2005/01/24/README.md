@@ -25,7 +25,7 @@ _Context: Parliament, South Africa, ZAR, fraud_
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ### [ In the United Kingdom, Alan Roy Williams, a doctor who gave evidence against Sally Clark who was wrongfully convicted of the murder of her two sons, is charged with serious professional misconduct. ](/news/2005/01/24/in-the-united-kingdom-alan-roy-williams-a-doctor-who-gave-evidence-against-sally-clark-who-was-wrongfully-convicted-of-the-murder-of-her.md)
-_Context: Alan Roy Williams, Sally Clark, United Kingdom, murder_
+_Context: Alan Roy Williams, Britain, Sally Clark, murder_
 
 ### [ North Korea has cut its food rations to half the amount that the United Nations World Food Program recommends. U.N. officials say the cut appears temporary and is not unprecedented in a country where fluctuations in public food distribution are regular. ](/news/2005/01/24/north-korea-has-cut-its-food-rations-to-half-the-amount-that-the-united-nations-world-food-program-recommends-u-n-officials-say-the-cut-a.md)
 _Context: North Korea, United Nations World Food Program_

@@ -10,7 +10,7 @@ _Context: United States Capitol, Washington, D.C._
 _Context: One World Trade Center, World Trade Center_
 
 ### [ In Spain, Manuel Fraga, the last politician from the era of Francisco Franco, loses in elections in Galicia.](/news/2005/06/29/in-spain-manuel-fraga-the-last-politician-from-the-era-of-francisco-franco-loses-in-elections-in-galicia.md)
-_Context: Franco, Galicia, Manuel Fraga, Spanish_
+_Context: Franco, Galicia, Manuel Fraga, Spain_
 
 ### [ A Belgian jury finds two Rwandans, Etienne Nzabonimana and Samuel Ndashyikirwa, guilty of involvement in the Rwandan genocide.](/news/2005/06/29/a-belgian-jury-finds-two-rwandans-etienne-nzabonimana-and-samuel-ndashyikirwa-guilty-of-involvement-in-the-rwandan-genocide.md)
 _Context: Belgium, Etienne Nzabonimana, Rwanda, Rwandan Genocide, Samuel Ndashyikirwa_

@@ -10,13 +10,13 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: After 48 rounds of voting, Panama, Security Council, United Nations_
 
 ### [ Jos Montilla becomes the new President of the ''Generalitat'' of Catalonia, renewing the left-of-centre tripartite pact between his PSC, the pro-independence ERC and the leftist ICV-EUiA alliance after the election held on 2006-11-01. ](/news/2006/11/7/jose-montilla-becomes-the-new-president-of-the-generalitat-of-catalonia-renewing-the-left-of-centre-tripartite-pact-between-his-psc-t.md)
-_Context: ''Generalitat'', Catalonia, ERC, EUiA, ICV, Jos Montilla, PSC, election_
+_Context: ''Generalitat'', Catalan, ERC, EUiA, ICV, Jos Montilla, PSC, election_
 
 ### [ John R. Bolton, the United States Ambassador to the United Nations, claims that United States diplomat Josette Shiner has been selected to head the United Nations World Food Programme. ](/news/2006/11/7/john-r-bolton-the-united-states-ambassador-to-the-united-nations-claims-that-united-states-diplomat-josette-shiner-has-been-selected-to.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [ Dhiren Barot of London is convicted of conspiracy to murder for developing al-Qaeda plots to kill thousands of people in the United Kingdom and United States in the 2004 Financial buildings plot. ](/news/2006/11/7/dhiren-barot-of-london-is-convicted-of-conspiracy-to-murder-for-developing-al-qaeda-plots-to-kill-thousands-of-people-in-the-united-kingdom.md)
-_Context: 2004 Financial buildings plot, Dhiren Barot, London, United Kingdom, United States, al-Qaeda_
+_Context: 2004 Financial buildings plot, Britain, Dhiren Barot, London, United States, al-Qaeda_
 
 ### [ United States general elections, 2006: Voters go to the polls today in the United States. ](/news/2006/11/7/united-states-general-elections-2006-voters-go-to-the-polls-today-in-the-united-states.md)
 A woman who died two months ago won a county commissioner&#39;s race in Jerauld County on Tuesday. 

@@ -49,7 +49,7 @@ _Context: Burma, Myanmar Times_
 The authorities in Shanghai, China, announce they will introduce a one-dog policy to bring the canine population under control.
 
 ### [A Saudi Arabian student is arrested in Texas for allegedly planning a terrorist attack against the Dallas home of former President of the United States George W. Bush as a target as well as New York City and dams in California and Colorado. ](/news/2011/02/24/a-saudi-arabian-student-is-arrested-in-texas-for-allegedly-planning-a-terrorist-attack-against-the-dallas-home-of-former-president-of-the-un.md)
-_Context: California, Colorado, Dallas, Texas, George W. Bush, New York City, President, Saudi Arabia, Texas_
+_Context: California, Colorado, Dallas, Texas, George W. Bush, New York City, Saudi Arabia, Texas, president_
 
 ### [A British judge orders Julian Assange to be extradited to Sweden but the Wikileaks founder says that he will appeal. ](/news/2011/02/24/a-british-judge-orders-julian-assange-to-be-extradited-to-sweden-but-the-wikileaks-founder-says-that-he-will-appeal.md)
 A BRITISH judge has ordered Julian Assange to be extradited to Sweden to face sexual assault allegations, but the Australian plans to lodge an appeal and still hopes the matter can be finalised in the UK.
@@ -64,7 +64,7 @@ Law enforcement officials across the country are conducting a nationwide sweep o
 _Context: Kizza Besigye, Uganda, Yoweri Museveni, elections_
 
 ### [Shimon Peres, the President of Israel, is on a four day state visit to Spain as King Juan Carlos expressed his support for the Middle East peace process. ](/news/2011/02/24/shimon-peres-the-president-of-israel-is-on-a-four-day-state-visit-to-spain-as-king-juan-carlos-expressed-his-support-for-the-middle-east-p.md)
-_Context: Israel, Juan Carlos, Shimon Peres, Spanish_
+_Context: Israel, Juan Carlos, Shimon Peres, Spain_
 
 ### [The Prime Minister of Australia Julia Gillard announces a carbon pricing scheme to start on July 1, 2012. ](/news/2011/02/24/the-prime-minister-of-australia-julia-gillard-announces-a-carbon-pricing-scheme-to-start-on-july-1-2012.md)
 A carbon price scheme will be rolled out from July 2012 with a fixed price for the first three to five years.

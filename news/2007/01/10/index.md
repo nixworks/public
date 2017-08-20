@@ -19,7 +19,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Two Squirrel helicopters collide at RAF Ternhill in Shropshire, UK, killing one and injuring two others. ](/news/2007/01/10/two-squirrel-helicopters-collide-at-raf-ternhill-in-shropshire-uk-killing-one-and-injuring-two-others.md)
-_Context: RAF Ternhill, Shropshire, Squirrel, United Kingdom_
+_Context: Britain, RAF Ternhill, Shropshire, Squirrel_
 
 ### [ Iranian news agency reports a UFO has crashed in the Kerman province. ](/news/2007/01/10/iranian-news-agency-reports-a-ufo-has-crashed-in-the-kerman-province.md)
 _Context: Kerman, unidentified flying object_

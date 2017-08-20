@@ -4,7 +4,7 @@
 A series of barrel bombs dropped by Syria&#39;s regime killed at least 45 civilians and wounded dozens in Aleppo province Saturday, said the Syrian Observatory for Human Rights.
 
 ### [A suicide bomber kills 26 people in a Maiduguri mosque hours after militants launch an attack on the first full day of President of Nigeria Muhammadu Buhari's term of office. ](/news/2015/05/30/a-suicide-bomber-kills-26-people-in-a-maiduguri-mosque-hours-after-militants-launch-an-attack-on-the-first-full-day-of-president-of-nigeria.md)
-_Context: Boko Haram, Maiduguri, Muhammadu Buhari, President of Nigeria, suicide bomber_
+_Context: Boko Haram, Maiduguri, Muhammadu Buhari, President, suicide bomber_
 
 ### [A 7.8 magnitude earthquake occurs off the coast of Japan. No tsunami warning is issued. ](/news/2015/05/30/a-7-8-magnitude-earthquake-occurs-off-the-coast-of-japan-no-tsunami-warning-is-issued.md)
 A powerful undersea earthquake south of Japan shakes buildings in the capital Tokyo and is felt across the country.

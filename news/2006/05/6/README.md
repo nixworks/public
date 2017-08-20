@@ -13,7 +13,7 @@ _Context: Australia, Brisbane, Grant McLennan, The Go-Betweens, heart attack_
 _Context: 2006 general election, People's Action Party, Singapore_
 
 ### [ The starboard engine of the cruise liner ''The Calypso'', sailing from Tilbury to St Peter Port on Guernsey, catches fire at 4 am, 16 miles off Eastbourne, southeast of the British coast. Its crew puts the fire out, after its 708 passengers are moved into its lifeboats.  Rescue lifeboats attend but neither these nor the ship's lifeboats are needed.](/news/2006/05/6/the-starboard-engine-of-the-cruise-liner-the-calypso-sailing-from-tilbury-to-st-peter-port-on-guernsey-catches-fire-at-4-am-16-miles.md)
-_Context: ''The Calypso'', Eastbourne, Guernsey, St Peter Port, Tilbury, United Kingdom, crew, cruise liner, lifeboat, lifeboat_
+_Context: ''The Calypso'', Britain, Eastbourne, Guernsey, St Peter Port, Tilbury, crew, cruise liner, lifeboat, lifeboat_
 
 ### [ The People's Republic of China plans to launch satellites for lunar surveying, probing the moon's surface, physiognomy, landform and geological structure. ](/news/2006/05/6/the-people-s-republic-of-china-plans-to-launch-satellites-for-lunar-surveying-probing-the-moon-s-surface-physiognomy-landform-and-geolog.md)
 _Context: China, Moon, physiognomy, satellites_

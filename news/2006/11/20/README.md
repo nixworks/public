@@ -25,7 +25,7 @@ _Context: Berlin underground_
 _Context: London Stock Exchange, Nasdaq_
 
 ### [ The President of the United States George W. Bush visits Indonesia to meet with the President of Indonesia Susilo Bambang Yudhoyono with large crowds protesting US foreign policy. ](/news/2006/11/20/the-president-of-the-united-states-george-w-bush-visits-indonesia-to-meet-with-the-president-of-indonesia-susilo-bambang-yudhoyono-with-la.md)
-_Context: George W. Bush, Indonesia, President, President of Indonesia, Susilo Bambang Yudhoyono_
+_Context: George W. Bush, Indonesia, President of Indonesia, Susilo Bambang Yudhoyono, president_
 
 ### [ An 18-year-old armed man takes hostage several children and teachers of his former school in the German town of Emsdetten. He dies from bullet wounds. According to a police spokesman, these wounds were self-inflicted. Several hostages are injured. ](/news/2006/11/20/an-18-year-old-armed-man-takes-hostage-several-children-and-teachers-of-his-former-school-in-the-german-town-of-emsdetten-he-dies-from-bul.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

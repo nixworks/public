@@ -46,7 +46,7 @@ An 18-year-old man is arrested in the Shetland Islands as part of an investigati
 House Republicans delayed a vote on their bill to lift the debt ceiling as they scrambled Tuesday night to rewrite the measure to ensure that accompanying spending cuts were large enough, according to three senior GOP aides.
 
 ### [Spanish protesters known as the "Indignants" begin a march from Madrid to Brussels in Belgium to protest at cuts in government expenditure in Spain. ](/news/2011/07/27/spanish-protesters-known-as-the-indignants-begin-a-march-from-madrid-to-brussels-in-belgium-to-protest-at-cuts-in-government-expenditure-i.md)
-_Context: Belgium, Brussels, Madrid, Spanish, Spanish politicians_
+_Context: Belgium, Brussels, Madrid, Spain, Spanish politicians_
 
 ## [Previous Day...](/news/2011/07/26/index.md)
 

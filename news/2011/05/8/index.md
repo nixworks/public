@@ -34,7 +34,7 @@ _Context: Fukushima Daiichi Nuclear Power Plant, radiation_
 Incident comes a day after a boat laden with another such group of 600 people sank off Libyan coast.
 
 ### [An international search and rescue mission is launched in Kiribati after six teenagers on an outrigger canoe go missing in the Pacific Ocean. ](/news/2011/05/8/an-international-search-and-rescue-mission-is-launched-in-kiribati-after-six-teenagers-on-an-outrigger-canoe-go-missing-in-the-pacific-ocean.md)
-_Context: Kiribati, North Pacific Ocean, outrigger canoe, search and rescue_
+_Context: Kiribati, Pacific Ocean, outrigger canoe, search and rescue_
 
 ### [Hun Sen, the Prime Minister of Cambodia and Abhisit Vejjajiva, the Prime Minister of Thailand, meet during an ASEAN summit meeting in Jakarta to try to resolve an ongoing territorial dispute, but fail. ](/news/2011/05/8/hun-sen-the-prime-minister-of-cambodia-and-abhisit-vejjajiva-the-prime-minister-of-thailand-meet-during-an-asean-summit-meeting-in-jakart.md)
 _Context: ASEAN, Abhisit Vejjajiva, Cambodian Prime Minister, Hun Sen, Jakarta, Prime Minister of Thailand_
@@ -55,7 +55,7 @@ Nick Clegg promises the Lib Dems will be &quot;a moderating influence&quot; on t
 Thousands of Mexicans on Sunday marched into the capital city to protest the wave of killing that has claimed 38,000 lives since President Felipe Calderon launched his war on drug gangs in late 2006.
 
 ### [The President of the United States Barack Obama claims that "there had to be some sort of support network for bin Laden inside of Pakistan" on 60 Minutes. ](/news/2011/05/8/the-president-of-the-united-states-barack-obama-claims-that-there-had-to-be-some-sort-of-support-network-for-bin-laden-inside-of-pakistan.md)
-_Context: 60 Minutes, Barack Obama, Osama bin Laden, Pakistan, President_
+_Context: 60 Minutes, Barack Obama, Osama bin Laden, Pakistan, president_
 
 ## [Previous Day...](/news/2011/05/7/index.md)
 

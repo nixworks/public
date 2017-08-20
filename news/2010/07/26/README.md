@@ -28,7 +28,7 @@ More than 90,000 secret US military records are leaked to the media by Wikileaks
 _Context: 15th Congress of the Philippines_
 
 ### [The ''Plastiki'', a catamaran made out of recycled plastic, arrives in Sydney, Australia, after travelling across the Pacific Ocean from San Francisco, United States, to raise awareness of environmental issues. ](/news/2010/07/26/the-plastiki-a-catamaran-made-out-of-recycled-plastic-arrives-in-sydney-australia-after-travelling-across-the-pacific-ocean-from-san.md)
-_Context: Australia, North Pacific Ocean, Plastiki, San Francisco, California, Sydney, United States, catamaran, environmental, plastic, recycling_
+_Context: Australia, Pacific Ocean, Plastiki, San Francisco, California, Sydney, United States, catamaran, environmental, plastic, recycling_
 
 ### [The opening ceremony of the 2010 European Athletics Championships takes place in Barcelona. ](/news/2010/07/26/the-opening-ceremony-of-the-2010-european-athletics-championships-takes-place-in-barcelona.md)
 European Athletics

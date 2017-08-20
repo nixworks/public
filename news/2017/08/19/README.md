@@ -3,7 +3,7 @@
 ### [A 23-year-old stabs and injures eight people in the Russian city of Surgut, before being killed by police. ISIL claims responsibility for the attack. ](/news/2017/08/19/a-23-year-old-stabs-and-injures-eight-people-in-the-russian-city-of-surgut-before-being-killed-by-police-isil-claims-responsibility-for-th.md)
 ISIS claimed responsibility for a stabbing attack in the Russian city of Surgut. Earlier today, a 23-year-old local resident with a...
 
-### [The Lebanese Armed Forces launches operation ''Fajr al-Joroud'', and on the first day recaptures 30 km of territory near the Lebanon-Syria border formerly occupied by ISIL militants. 20 ISIL militants were killed, and 10 Lebanese soldiers were wounded. ](/news/2017/08/19/the-lebanese-armed-forces-launches-operation-fajr-al-joroud-and-on-the-first-day-recaptures-30-km-of-territory-near-the-lebanonasyria.md)
+### [The Lebanese Armed Forces launches operation ''Fajr al-Joroud'', and on the first day recaptures 30 km of territory near the Lebanon-Syria border formerly occupied by ISIL militants. Twenty ISIL militants were killed and 10 Lebanese soldiers were wounded. ](/news/2017/08/19/the-lebanese-armed-forces-launches-operation-fajr-al-joroud-and-on-the-first-day-recaptures-30-km-of-territory-near-the-lebanonasyria.md)
 The Lebanese launched &#39;Fajr al-Joroud&#39; operation against Daesh (ISIS) positions on the outskirts of al-Qaa and Ras Baalbek towns Saturday.
 
 ### [A magnitude 6.4 earthquake strikes west of the Pacific Island of Tonga. There are no immediate reports of casualties or damage. ](/news/2017/08/19/a-magnitude-6-4-earthquake-strikes-west-of-the-pacific-island-of-tonga-there-are-no-immediate-reports-of-casualties-or-damage.md)

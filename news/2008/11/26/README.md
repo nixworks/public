@@ -7,7 +7,7 @@ The U.N. Security Council cleared the way on Wednesday for a European Union poli
 _Context: Czech Constitution, Czech Republic, Lisbon Treaty_
 
 ### [ Woolworths Group PLC agrees to put its chain of 815 stores in the United Kingdom and DVD distribution businesses into administration with 30,000 jobs at risk. ](/news/2008/11/26/woolworths-group-plc-agrees-to-put-its-chain-of-815-stores-in-the-united-kingdom-and-dvd-distribution-businesses-into-administration-with-3.md)
-_Context: DVD, United Kingdom, Woolworths Group PLC_
+_Context: Britain, DVD, Woolworths Group PLC_
 
 ### [ The European Union proposes a EUR200 billion stimulus package that will include already-spent money ](/news/2008/11/26/the-european-union-proposes-a-a-200-billion-stimulus-package-that-will-include-already-spent-money.md)
 _Context: EUR, European Union_

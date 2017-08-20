@@ -1,6 +1,6 @@
 ### [2017-08-19](/news/2017/08/19/index.md)
 
-# The Lebanese Armed Forces launches operation ''Fajr al-Joroud'', and on the first day recaptures 30 km of territory near the Lebanon-Syria border formerly occupied by ISIL militants. 20 ISIL militants were killed, and 10 Lebanese soldiers were wounded. 
+# The Lebanese Armed Forces launches operation ''Fajr al-Joroud'', and on the first day recaptures 30 km of territory near the Lebanon-Syria border formerly occupied by ISIL militants. Twenty ISIL militants were killed and 10 Lebanese soldiers were wounded. 
 
 The Lebanese launched &#39;Fajr al-Joroud&#39; operation against Daesh (ISIS) positions on the outskirts of al-Qaa and Ras Baalbek towns Saturday.
 

@@ -1,7 +1,7 @@
 ## [2010-03-31](/news/2010/03/31/index.md)
 
 ### [Algerian authorities arrest an Israeli spy found with a false Spanish passport under the 35-year-old pseudonym Alberto Vagilo. This was initially reported by some sources as the abduction of a Spanish citizen by an al-Qaeda-linked group. ](/news/2010/03/31/algerian-authorities-arrest-an-israeli-spy-found-with-a-false-spanish-passport-under-the-35-year-old-pseudonym-alberto-vagilo-this-was-init.md)
-_Context: Algeria, Israel, Spanish_
+_Context: Algeria, Israel, Spain_
 
 ### [Yemeni Minister of Justice Ghazi al-Aghbari and Palestinian ambassador to Yemen Bassem Al-Agha hold discussions on the issue of bilateral judicial cooperation. ](/news/2010/03/31/yemeni-minister-of-justice-ghazi-al-aghbari-and-palestinian-ambassador-to-yemen-bassem-al-agha-hold-discussions-on-the-issue-of-bilateral-ju.md)
 _Context: Bassem Al-Agha, Ghazi al-Aghbari, Palestinian, Yemen_

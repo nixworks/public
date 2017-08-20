@@ -19,7 +19,7 @@ Many students and teachers have reportedly been killed after gunmen suspected to
 _Context: Tuareg_
 
 ### [President of Nigeria Goodluck Jonathan announces a N3 billion fund to "intervene" in Nollywood. ](/news/2013/06/18/president-of-nigeria-goodluck-jonathan-announces-a-n3-billion-fund-to-intervene-in-nollywood.md)
-_Context: Goodluck Jonathan, N, Nollywood, President of Nigeria_
+_Context: Goodluck Jonathan, N, Nollywood, President_
 
 ### [American journalist Michael Hastings dies in a car crash at age 33. ](/news/2013/06/18/american-journalist-michael-hastings-dies-in-a-car-crash-at-age-33.md)
 _Context: Michael Hastings_

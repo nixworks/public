@@ -4,7 +4,7 @@
 _Context: Canada, Christmas, Gilles Duceppe, Jack Layton, Liberal Party's, Paul Martin, Stephen Harper, motion of non-confidence, next Canadian federal election, opposition parties, parliamentary opposition_
 
 ### [ British doctors are to continue checks on Andrew Stimpson, a Scotsman whose body has reportedly cured itself of HIV infection. ](/news/2005/11/13/british-doctors-are-to-continue-checks-on-andrew-stimpson-a-scotsman-whose-body-has-reportedly-cured-itself-of-hiv-infection.md)
-_Context: Andrew Stimpson, HIV, Scotland, United Kingdom_
+_Context: Andrew Stimpson, Britain, HIV, Scotland_
 
 ### [ Iraq War: Iraqi president Jalal Talabani tells British television that Iraqi troops could replace UK forces by the close of 2006. ](/news/2005/11/13/iraq-war-iraqi-president-jalal-talabani-tells-british-television-that-iraqi-troops-could-replace-uk-forces-by-the-close-of-2006.md)
 _Context: Iraq War, Jalal Talabani_

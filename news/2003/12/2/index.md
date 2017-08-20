@@ -19,7 +19,7 @@ _Context: 2004, Australian Prime Minister, John Howard, Kim Beazley, Labor Party
 _Context: Colin Powell, Geneva plan, Israel, Palestinian Authority, Politics of Israel, U.S. Secretary of State_
 
 ### [ US Defense Secretary Donald Rumsfeld wins the annual "Foot in Mouth Prize" awarded by the UK's Plain English Campaign for the most nonsensical remark made by a public figure. Among the runners-up are Arnold Schwarzenegger and Chris Patten. [http://news.bbc.co.uk/2/hi/americas/3254852.stm]](/news/2003/12/2/us-defense-secretary-donald-rumsfeld-wins-the-annual-foot-in-mouth-prize-awarded-by-the-uk-s-plain-english-campaign-for-the-most-nonsensi.md)
-_Context: Arnold Schwarzenegger, Chris Patten, Donald Rumsfeld, Plain English Campaign, Secretary of Defense, United Kingdom_
+_Context: Arnold Schwarzenegger, Britain, Chris Patten, Donald Rumsfeld, Plain English Campaign, Secretary of Defense_
 
 ### [ Hospitals around Paris struggle to cope with an outbreak of influenza and gastro-enteritis. [http://news.bbc.co.uk/2/hi/europe/3253286.stm]](/news/2003/12/2/hospitals-around-paris-struggle-to-cope-with-an-outbreak-of-influenza-and-gastro-enteritis-http-news-bbc-co-uk-2-hi-europe-3253286-stm.md)
 _Context: Paris, flu_

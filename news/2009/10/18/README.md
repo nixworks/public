@@ -22,7 +22,7 @@ _Context: 2009 Brazilian Grand Prix, Brazil, Formula One, Interlagos, Jenson But
 _Context: Adolf Hitler, Bangkok, Germany, Israel, billboard, museum, salute_
 
 ### [ Hurricane Rick strengthens to a Category 5 storm, becoming the strongest hurricane in a decade in the eastern Pacific Ocean. ](/news/2009/10/18/hurricane-rick-strengthens-to-a-category-5-storm-becoming-the-strongest-hurricane-in-a-decade-in-the-eastern-pacific-ocean.md)
-_Context: Category 4, Hurricane Rick, North Pacific Ocean, strongest hurricane in a decade_
+_Context: Category 4, Hurricane Rick, Pacific Ocean, strongest hurricane in a decade_
 
 ### [ The Australian state of Queensland declares a state of emergency after more than 50 wildfires burn out of control. ](/news/2009/10/18/the-australian-state-of-queensland-declares-a-state-of-emergency-after-more-than-50-wildfires-burn-out-of-control.md)
 State of emergency declared in Queensland where homes have been destroyed.
@@ -43,7 +43,7 @@ _Context: Puerto Rico_
 GOAL aid worker Sharon Commins has thanked the people of Sudan for their work to secure her release and that of her Ugandan colleague Hilda Kawuki.
 
 ### [ A boat with 76 migrant workers on board headed for Canada is seized by the Canadian Navy and RCMP off its west coast in the Pacific Ocean. ](/news/2009/10/18/a-boat-with-76-migrant-workers-on-board-headed-for-canada-is-seized-by-the-canadian-navy-and-rcmp-off-its-west-coast-in-the-pacific-ocean.md)
-_Context: Canada, Canadian Navy, North Pacific Ocean, Royal Canadian Mounted Police_
+_Context: Canada, Canadian Navy, Pacific Ocean, Royal Canadian Mounted Police_
 
 ### [ The Australian Maritime Safety Authority (AMSA) assists Indonesian and Malaysian agencies with two distressed boats. ](/news/2009/10/18/the-australian-maritime-safety-authority-amsa-assists-indonesian-and-malaysian-agencies-with-two-distressed-boats.md)
 Hundreds of people believed to be heading to Australia are reportedly aboard two boats in distress in Indonesian waters, but there is no confirmation at this stage that they are asylum seekers.

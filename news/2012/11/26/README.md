@@ -16,7 +16,7 @@ Paraguayan president Federico Franco announced that starting in 2013, his countr
 _Context: Baden-Wurttemberg, Caritas International, Germany, Titisee-Neustadt_
 
 ### [A scorpion stings a passenger on a flight from Costa Rica to Spain, which forced the sealing of the Iberia airlines Airbus A340 at Madrid's Barajas International Airport. ](/news/2012/11/26/a-scorpion-stings-a-passenger-on-a-flight-from-costa-rica-to-spain-which-forced-the-sealing-of-the-iberia-airlines-airbus-a340-at-madrid-s.md)
-_Context: Airbus A340, Barajas International Airport, Costa Rica, Iberia airlines, Madrid, Spanish, scorpion_
+_Context: Airbus A340, Barajas International Airport, Costa Rica, Iberia airlines, Madrid, Spain, scorpion_
 
 ### [Norway's public broadcaster NRK publishes for the first time video footage of Anders Behring Breivik parking his van bomb that killed eight people in Oslo on 22 July 2011. ](/news/2012/11/26/norway-s-public-broadcaster-nrk-publishes-for-the-first-time-video-footage-of-anders-behring-breivik-parking-his-van-bomb-that-killed-eight.md)
 _Context: 2011 Norway attacks, Anders Behring Breivik, NRK, Norway, Oslo, bomb, van_

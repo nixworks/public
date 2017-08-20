@@ -46,7 +46,7 @@ Police are sheltering a number of people in a house at Yuendumu, as more forces 
 _Context: Guinea, November's presidential poll_
 
 ### [Nigerian President Goodluck Jonathan announces he will contest the presidential election in January 2011. ](/news/2010/09/15/nigerian-president-goodluck-jonathan-announces-he-will-contest-the-presidential-election-in-january-2011.md)
-_Context: Goodluck Jonathan, Nigeria, President of Nigeria, presidential election_
+_Context: Goodluck Jonathan, Nigeria, President, presidential election_
 
 ### [An anti-American protest in Kabul, sparked in part by the 2010 Qur'an-burning controversy, turns violent with five members of the Afghan National Police being injured and two demonstrators being shot. ](/news/2010/09/15/an-anti-american-protest-in-kabul-sparked-in-part-by-the-2010-qur-an-burning-controversy-turns-violent-with-five-members-of-the-afghan-nat.md)
 _Context: 2010 Qur'an-burning controversy, Afghan police, Kabul, United States_

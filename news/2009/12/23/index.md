@@ -13,7 +13,7 @@ A Christmas goat made of straw has been burned down by vandals in a Swedish city
 _Context: Bella Yalla, Ellen Johnson Sirleaf, President of Liberia_
 
 ### [ Farouk Adamu Aliyu of the All Nigeria Peoples Party initiates legal action in a bid to tempt the unwell President of Nigeria Umaru Yar'Adua, who is hospitalised in Saudi Arabia, to resign the position on health grounds. ](/news/2009/12/23/farouk-adamu-aliyu-of-the-all-nigeria-peoples-party-initiates-legal-action-in-a-bid-to-tempt-the-unwell-president-of-nigeria-umaru-yar-adua.md)
-_Context: All Nigeria Peoples Party, Farouk Adamu Aliyu, President of Nigeria, Saudi Arabia, Umaru Yar'Adua_
+_Context: All Nigeria Peoples Party, Farouk Adamu Aliyu, President, Saudi Arabia, Umaru Yar'Adua_
 
 ### [ Clashes between police and protesters take place in the Iranian city of Isfahan at a memorial service for Ayatollah Hussein-Ali Montazeri. ](/news/2009/12/23/clashes-between-police-and-protesters-take-place-in-the-iranian-city-of-isfahan-at-a-memorial-service-for-ayatollah-hussein-ali-montazeri.md)
 Incidents occur as crowds in Isfahan mourn death of dissident Hossein Ali Montazeri.

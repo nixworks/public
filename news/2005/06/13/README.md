@@ -40,7 +40,7 @@ _Context: Niger River, Nigeria, Olusegun Obasanjo, refinery_
 _Context: Mexico, Nuevo Laredo, United States, drug testing, drug trafficking, federales, police_
 
 ### [ 14 people drown off the coast of Morocco in a boat that tried to reach Spain ](/news/2005/06/13/14-people-drown-off-the-coast-of-morocco-in-a-boat-that-tried-to-reach-spain.md)
-_Context: Morocco, Spanish_
+_Context: Morocco, Spain_
 
 ### [ In France, police arrest serial impostor Frederic Bourdin, who had taken a role of a schoolboy ](/news/2005/06/13/in-france-police-arrest-serial-impostor-frederic-bourdin-who-had-taken-a-role-of-a-schoolboy.md)
 _Context: France, Frederic Bourdin, impostor_

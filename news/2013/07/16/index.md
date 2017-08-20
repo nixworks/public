@@ -7,7 +7,7 @@ At least six mediators have been killed by pro-government militiamen in the Syri
 _Context: Greek, general strike_
 
 ### [McDonald's announces that it will open its first outlet in Viet Nam early next year, which will be in Ho Chi Minh City, and will be operated by Henry Nguyen, a Vietnamese businessman and the son-in-law of Vietnam's Prime Minister Nguyen Tan Dung. ](/news/2013/07/16/mcdonald-s-announces-that-it-will-open-its-first-outlet-in-viet-nam-early-next-year-which-will-be-in-ho-chi-minh-city-and-will-be-operated.md)
-_Context: Ho Chi Minh City, McDonald's, Nguyen Tan Dung, Viet Nam_
+_Context: Ho Chi Minh City, McDonald's restaurants, Nguyen Tan Dung, Viet Nam_
 
 ### [The British Columbia coroner's office reports that actor Cory Monteith died of an overdose of heroin and alcohol. ](/news/2013/07/16/the-british-columbia-coroner-s-office-reports-that-actor-cory-monteith-died-of-an-overdose-of-heroin-and-alcohol.md)
 _Context: British Columbia, Cory Monteith, coronial, drug overdose, ethanol (C|H|3|C|H|2|O|H), heroin_

@@ -7,7 +7,7 @@ _Context: Somalia, martial law, two years of helping_
 _Context: Belarus, Mikhail Fradkov, Russia, Sergey Sidorsky, energy dispute_
 
 ### [ A major earthquake measuring approximately 8.2 magnitude occurs in the north-western Pacific Ocean at 04:23:20 UTC. A tsunami is detected and a warning is issued for Russia, Japan, Marcus Island, Wake Island, Midway Island, Northern Mariana Islands, Guam, Marshall Islands, Taiwan, Yap, Pohnpei, and Chuuk. ](/news/2007/01/13/a-major-earthquake-measuring-approximately-8-2-magnitude-occurs-in-the-north-western-pacific-ocean-at-04-23-20-utc-a-tsunami-is-detected-a.md)
-_Context: 8.2 magnitude, Chuuk, Guam, Japan, Marcus Island, Marshall Islands, Midway Island, North Pacific Ocean, Northern Mariana Islands, Pohnpei, Russia, Taiwan, Wake Island, Yap, earthquake, tsunami_
+_Context: 8.2 magnitude, Chuuk, Guam, Japan, Marcus Island, Marshall Islands, Midway Island, Northern Mariana Islands, Pacific Ocean, Pohnpei, Russia, Taiwan, Wake Island, Yap, earthquake, tsunami_
 
 ### [ 10 former members of the Nazi SS are sentenced ''in absentia'' to life imprisonment for their role in the Marzabotto massacre, the worst massacre in Italy during World War II. ](/news/2007/01/13/10-former-members-of-the-nazi-ss-are-sentenced-in-absentia-to-life-imprisonment-for-their-role-in-the-marzabotto-massacre-the-worst-ma.md)
 _Context: Italian, Marzabotto massacre, Schutzstaffel, World War II, life imprisonment_

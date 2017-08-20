@@ -13,7 +13,7 @@ _Context: India, Jharkhand, Jharkhand Mukti Morcha, Lok Sabha, Naxalite, Sunil K
 China plans to cut its 2007budget deficit to 245 billion yuan, or 1.1 percent of grossdomestic product, the finance ministry will project in a reportto parliament on Monday.
 
 ### [ A memorial service is held at St Mary's Church in Dover, United Kingdom, to mark the 20th anniversary of the Zeebrugge ferry disaster. ](/news/2007/03/4/a-memorial-service-is-held-at-st-mary-s-church-in-dover-united-kingdom-to-mark-the-20th-anniversary-of-the-zeebrugge-ferry-disaster.md)
-_Context: Dover, St Mary, United Kingdom, Zeebrugge ferry disaster, church, memorial service_
+_Context: Britain, Dover, St Mary, Zeebrugge ferry disaster, church, memorial service_
 
 ### [ War in Afghanistan (2001-present): U.S. troops open fire after a suicide bomb attack on a convoy and kill 8 or more civilians on the main road linking Jalalabad with the Pakistan border. Local people protest at the soldiers' actions. ](/news/2007/03/4/war-in-afghanistan-2001apresent-p-u-s-troops-open-fire-after-a-suicide-bomb-attack-on-a-convoy-and-kill-8-or-more-civilians-on-the-mai.md)
 _Context: Jalalabad, Pakistan, United States military personnel, War in Afghanistan (2001-present), suicide bomb_

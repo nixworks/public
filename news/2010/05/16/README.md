@@ -52,7 +52,7 @@ _Context: North Korea, South Korean Navy_
 _Context: Iceland, Ireland_
 
 ### [David Triesman, Baron Triesman resigns as chairman of The Football Association as well as England's 2018 FIFA World Cup bid after his "entrapment" by ''The Mail on Sunday'' in which he suggested Spain could drop its bid if Russia bribed referees at the 2010 FIFA World Cup next month. ](/news/2010/05/16/david-triesman-baron-triesman-resigns-as-chairman-of-the-football-association-as-well-as-england-s-2018-fifa-world-cup-bid-after-his-entra.md)
-_Context: 2010 FIFA World Cup, 2018 FIFA World Cup, David Triesman, Baron Triesman, England, Russia, Spanish, The Football Association, The Mail on Sunday_
+_Context: 2010 FIFA World Cup, 2018 FIFA World Cup, David Triesman, Baron Triesman, England, Russia, Spain, The Football Association, The Mail on Sunday_
 
 ### [Oxford United F.C. get promoted out of the Conference National after beating York City F.C. 3-1 at Wembley Stadium](/news/2010/05/16/oxford-united-f-c-get-promoted-out-of-the-conference-national-after-beating-york-city-f-c-3-1-at-wembley-stadium.md)
 _Context: Conference National, Oxford United F.C., Wembley Stadium, York City F.C._

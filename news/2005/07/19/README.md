@@ -7,7 +7,7 @@ _Context: British military personnel, Iraq, September 2003, court-martial, war c
 _Context: Hizbul Mujahideen, Srinagar_
 
 ### [ US President George W. Bush has nominated federal appeals court judge John G. Roberts, Jr. to replace Sandra Day O'Connor. Wikinews ](/news/2005/07/19/us-president-george-w-bush-has-nominated-federal-appeals-court-judge-john-g-roberts-jr-to-replace-sandra-day-o-connor-wikinews.md)
-_Context: George W. Bush, John G. Roberts, Jr., President, Sandra Day O'Connor, Wikinews_
+_Context: George W. Bush, John G. Roberts, Jr., Sandra Day O'Connor, Wikinews, president_
 
 ### [ According to reports from Russia, at least 14 people have been killed and several injured in an explosion in Chechnya. ](/news/2005/07/19/according-to-reports-from-russia-at-least-14-people-have-been-killed-and-several-injured-in-an-explosion-in-chechnya.md)
 _Context: Chechnya, Russia, explosion_
@@ -34,7 +34,7 @@ _Context: Miroslav Bralo, war crime_
 After three weeks of political squabbling over key posts Lebanon&#39;s Prime Minister Fouad Siniora formed the new government which excludes Free Patriotic Movement leader Michel Aoun but includes for&nbsp; the first time a senior member of Hizbullah. The inclusion of Hizbullah drew an immediate rebuke from the U.S. officials.
 
 ### [ In Spain, huge forest fire continues to rage, threatening villages of Selas and Ablanque. A group of ten day-trippers has confessed being responsible for the start of the fire and one of them has been charged ](/news/2005/07/19/in-spain-huge-forest-fire-continues-to-rage-threatening-villages-of-selas-and-ablanque-a-group-of-ten-day-trippers-has-confessed-being-r.md)
-_Context: Ablanque, Selas, Spanish, day-tripper, forest fire_
+_Context: Ablanque, Selas, Spain, day-tripper, forest fire_
 
 ## [Previous Day...](/news/2005/07/18/index.md)
 

@@ -22,7 +22,7 @@ _Context: Barclays_
 _Context: News Corporation, The Wall Street Journal_
 
 ### [Eurozone leaders hold an emergency meeting on assistance to Spain and Italy. ](/news/2012/06/28/eurozone-leaders-hold-an-emergency-meeting-on-assistance-to-spain-and-italy.md)
-_Context: Eurozone, Italian, Spanish_
+_Context: Eurozone, Italian, Spain_
 
 ### [The United Nations expresses concern over the historical city of Timbuktu. ](/news/2012/06/28/the-united-nations-expresses-concern-over-the-historical-city-of-timbuktu.md)
 _Context: Timbuktu, United Nations_

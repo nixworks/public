@@ -19,7 +19,7 @@ _Context: East Timor, Fretilin, coalition, political party_
 _Context: Georgian, Tbilisi Metro_
 
 ### [ The terror threat level in the United Kingdom is reduced from critical to severe. ](/news/2007/07/4/the-terror-threat-level-in-the-united-kingdom-is-reduced-from-critical-to-severe.md)
-_Context: United Kingdom_
+_Context: Britain_
 
 ### [ The 9th summit of the Assembly of the African Union, which lasted for 3 days, ends in Accra, Ghana. ](/news/2007/07/4/the-9th-summit-of-the-assembly-of-the-african-union-which-lasted-for-3-days-ends-in-accra-ghana.md)
 _Context: Accra, Assembly of the African Union, Ghana_

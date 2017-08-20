@@ -22,7 +22,7 @@ _Context: Bangkok, Several grenades explode, Thailand_
 NATO ministers agreed on Thursday to grant a Membership Action Plan (MAP) for Bosnia that could see it join the alliance in coming years, but attached conditions to its implementation.
 
 ### [Acting President of Nigeria Goodluck Jonathan signs the country's 4.6 trillion naira budget for 2010 into law. ](/news/2010/04/22/acting-president-of-nigeria-goodluck-jonathan-signs-the-country-s-4-6-trillion-naira-budget-for-2010-into-law.md)
-_Context: Goodluck Jonathan, N, Nigeria, President of Nigeria_
+_Context: Goodluck Jonathan, N, Nigeria, President_
 
 ### [Minas Gerais, one of Brazil's biggest states, bans the sale of the Toyota Corolla over safety fears. ](/news/2010/04/22/minas-gerais-one-of-brazil-s-biggest-states-bans-the-sale-of-the-toyota-corolla-over-safety-fears.md)
 _Context: Brazil, Minas Gerais, Toyota Corolla_
@@ -52,7 +52,7 @@ _Context: EUR, Greek_
 Officials say alert follows intercepted telephonic messages of fighter groups.
 
 ### [President of the United States Barack Obama calls on Wall Street to join him in his efforts to reform the financial sector in a visit to Manhattan. ](/news/2010/04/22/president-of-the-united-states-barack-obama-calls-on-wall-street-to-join-him-in-his-efforts-to-reform-the-financial-sector-in-a-visit-to-man.md)
-_Context: Barack Obama, Manhattan, President, Wall Street_
+_Context: Barack Obama, Manhattan, Wall Street, president_
 
 ### [The Melbourne Storm are stripped of their 2007 and 2009 National Rugby League titles after being found to have cheated the salary cap. ](/news/2010/04/22/the-melbourne-storm-are-stripped-of-their-2007-and-2009-national-rugby-league-titles-after-being-found-to-have-cheated-the-salary-cap.md)
 _Context: 2007, 2009, Melbourne Storm, National Rugby League, salary cap_

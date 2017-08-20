@@ -10,7 +10,7 @@ _Context: 9/11, Abu Zubaydah, Al Qaida's, CIA, Guantnamo Bay detainment camp, Kh
 _Context: International Finance Corporation, Singapore's economy, World Bank_
 
 ### [ In the United Kingdom junior defense minister Tom Watson and six Parliamentary Private Secretaries (Khalid Mahmood, Wayne David, Ian Lucas, Mark Tami, Chris Mole and David Wright) resign over Tony Blair's continuing refusal to declare when he will step down as Prime Minister. ](/news/2006/09/6/in-the-united-kingdom-junior-defense-minister-tom-watson-and-six-parliamentary-private-secretaries-khalid-mahmood-wayne-david-ian-lucas.md)
-_Context: Chris Mole, David Wright, Ian Lucas, Khalid Mahmood, Mark Tami, PPS, Prime Minister, Tom Watson, Tony Blair, United Kingdom, Wayne David_
+_Context: Britain, Chris Mole, David Wright, Ian Lucas, Khalid Mahmood, Mark Tami, PPS, Prime Minister, Tom Watson, Tony Blair, Wayne David_
 
 ### [ Japan's Princess Kiko gives birth to a son by caesarean section. The as-yet unnamed boy is the first male heir born to the Japanese Imperial Family in more than 40 years, and will ultimately become Emperor if the current succession laws are unchanged. The child's father, Prince Akishino is the second son of Emperor Akihito.  ](/news/2006/09/6/japan-s-princess-kiko-gives-birth-to-a-son-by-caesarean-section-the-as-yet-unnamed-boy-is-the-first-male-heir-born-to-the-japanese-imperia.md)
 _Context: Akihito, Japan, Prince Akishino, Princess Kiko, caesarean section_

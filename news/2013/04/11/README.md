@@ -10,7 +10,7 @@ _Context: Pattani region, South Thailand insurgency, Thailand, arson, bomb, shoo
 Children and women said to be among victims of attacks on two towns in Deraa apparently prompted by army defections.
 
 ### [Nigerian Sharia conflict:Boko Haram rejects the idea of an amnesty offer for militants by Nigerian President Goodluck Jonathan. ](/news/2013/04/11/nigerian-sharia-conflict-pboko-haram-rejects-the-idea-of-an-amnesty-offer-for-militants-by-nigerian-president-goodluck-jonathan.md)
-_Context: Boko Haram, Goodluck Jonathan, Nigeria, Nigerian Sharia conflict, President of Nigeria, amnesty_
+_Context: Boko Haram, Goodluck Jonathan, Nigeria, Nigerian Sharia conflict, President, amnesty_
 
 ### [War in North-West Pakistan:A candidate for election in Pakistan is attacked and killed by assumed Taliban militants. ](/news/2013/04/11/war-in-north-west-pakistan-pa-candidate-for-election-in-pakistan-is-attacked-and-killed-by-assumed-taliban-militants.md)
 _Context: 2013 Pakistani general election, Pakistan, Taliban, War in North-West Pakistan_

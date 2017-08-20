@@ -4,10 +4,10 @@
 _Context: Barack Obama, Illinois, President-elect, Ray LaHood, Republican, Secretary of Transportation, United States, United States House of Representatives, nomination_
 
 ### [ U.S. President George W. Bush's administration files a trade case to the World Trade Organization against the People's Republic of China over the alleged use of export subsidies to promote Chinese-made goods. ](/news/2008/12/19/u-s-president-george-w-bush-s-administration-files-a-trade-case-to-the-world-trade-organization-against-the-people-s-republic-of-china-ov.md)
-_Context:  subsidies, Bush Administration, China, George W. Bush, President, World Trade Organization, export_
+_Context:  subsidies, Bush Administration, China, George W. Bush, World Trade Organization, export, president_
 
 ### [ Rangzieb Ahmed, the highest-ranked al-Qaeda operative in the United Kingdom, becomes the first person convicted of the charge of directing terrorism. ](/news/2008/12/19/rangzieb-ahmed-the-highest-ranked-al-qaeda-operative-in-the-united-kingdom-becomes-the-first-person-convicted-of-the-charge-of-directing.md)
-_Context: Rangzieb Ahmed, United Kingdom, al-Qaeda, terrorism_
+_Context: Britain, Rangzieb Ahmed, al-Qaeda, terrorism_
 
 ### [ President Bush announces a $17.4 billion emergency bailout of the automobile industry to protect General Motors and Chrysler from bankruptcy during the current automotive crisis. The plan is conditional on the companies' reorganization by March 31, 2009, to show that they can return to viability. ](/news/2008/12/19/president-bush-announces-a-17-4-billion-emergency-bailout-of-the-automobile-industry-to-protect-general-motors-and-chrysler-from-bankruptc.md)
 A $13.4 billion loan to General Motors and Chrysler may be followed by $4 billion more if the Obama administration finds sufficient progress.

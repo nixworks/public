@@ -49,7 +49,7 @@ _Context: Committee for the Respect of Freedoms, Ennama Asfari, Western Sahara_
 _Context: Burkina Faso, Ouagadougou, Tertius Zongo, prime minister_
 
 ### [ A woman kills a man by jumping on top of him in Barcelona, Spain. ](/news/2009/09/2/a-woman-kills-a-man-by-jumping-on-top-of-him-in-barcelona-spain.md)
-_Context: Barcelona, Spanish_
+_Context: Barcelona, Spain_
 
 ### [ Sixteen Somalis drown after being forced overboard into the Gulf of Aden. ](/news/2009/09/2/sixteen-somalis-drown-after-being-forced-overboard-into-the-gulf-of-aden.md)
 _Context: Gulf of Aden, Somalia_

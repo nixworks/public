@@ -7,7 +7,7 @@ _Context: Cyprus, Czech Republic, European Parliament, European Union, France, I
 _Context: Dublin Central, Dublin South, Fianna Fail, Ireland, by-election, local elections, parliament, ruling party_
 
 ### [ The Conservative Party gains seven county councils, the Liberal Democrats lose one, and the Labour Party loses four during the United Kingdom's local elections. ](/news/2009/06/6/the-conservative-party-gains-seven-county-councils-the-liberal-democrats-lose-one-and-the-labour-party-loses-four-during-the-united-kingd.md)
-_Context: Conservative Party, Labour, Liberal Democrats, United Kingdom, county council, local elections_
+_Context: Britain, Conservative Party, Labour, Liberal Democrats, county council, local elections_
 
 ### [ Twenty-six people are killed during and 100 others remain missing after a landslide near Chongqing, China. ](/news/2009/06/6/twenty-six-people-are-killed-during-and-100-others-remain-missing-after-a-landslide-near-chongqing-china.md)
 _Context: China, Chongqing, landslide_

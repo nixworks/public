@@ -16,7 +16,7 @@ _Context: Chicago, United States, magnitude_
 _Context: 2004 Indian Ocean earthquake, 2010 Haiti earthquake, Haiti_
 
 ### [Vice President Goodluck Jonathan is appointed acting President of Nigeria in place of Umaru Yar'Adua. ](/news/2010/02/10/vice-president-goodluck-jonathan-is-appointed-acting-president-of-nigeria-in-place-of-umaru-yar-adua.md)
-_Context: Goodluck Jonathan, President of Nigeria, Umaru Yar'Adua_
+_Context: Goodluck Jonathan, President, Umaru Yar'Adua_
 
 ### [Nationwide strikes led by Communist and Socialist parties take place in Greece to protest the government's handing of the country's debt. Most of the country was brought to a standstill as factories, schools, airports and hospitals closed down or reduced capacity ](/news/2010/02/10/nationwide-strikes-led-by-communist-and-socialist-parties-take-place-in-greece-to-protest-the-government-s-handing-of-the-country-s-debt-mo.md)
 _Context: Greek_

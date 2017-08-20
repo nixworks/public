@@ -22,7 +22,7 @@ Australian and New Zealand researchers have used ancient DNA to identify a previ
 _Context: Anand Satyanand, Governor-General, John Key, New Zealand, Prime Minister, sworn in_
 
 ### [ The first successful trachea transplant using a tissue-engineered organ is performed in Spain. ](/news/2008/11/19/the-first-successful-trachea-transplant-using-a-tissue-engineered-organ-is-performed-in-spain.md)
-_Context: Spanish, tissue-engineered organ, trachea, transplant_
+_Context: Spain, tissue-engineered organ, trachea, transplant_
 
 ### [ NASA successfully tests the first deep-space communications protocol to pave the way for Interplanetary Internet. ](/news/2008/11/19/nasa-successfully-tests-the-first-deep-space-communications-protocol-to-pave-the-way-for-interplanetary-internet.md)
 _Context: Interplanetary Internet, NASA, communications protocol, space_

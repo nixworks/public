@@ -25,7 +25,7 @@ _Context: London, Met Office, South East England, heat wave_
 The Taoiseach has told the Dáil that the number of people who signed on the Live Register last month was up 11,400.
 
 ### [ Three staff from the British Embassy in Tehran, Iran, are released after being detained for allegedly having a role in the post-election protests. ](/news/2009/07/1/three-staff-from-the-british-embassy-in-tehran-iran-are-released-after-being-detained-for-allegedly-having-a-role-in-the-post-election-pr.md)
-_Context: Iran, Tehran, United Kingdom_
+_Context: Britain, Iran, Tehran_
 
 ### [ The remains of Jane Deasy are positively identified in the bodies recovered from Air France Flight 447. ](/news/2009/07/1/the-remains-of-jane-deasy-are-positively-identified-in-the-bodies-recovered-from-air-france-flight-447.md)
 The remains of Jane Deasy have been positively identified among the bodies recovered after the Air France flight AF447 crash.

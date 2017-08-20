@@ -13,7 +13,7 @@ _Context: Ivory Coast, Laurent Gbagbo, Nigeria, West Africa_
 _Context: Somali pirates, South Korea, South Korean Navy, the killing of pirates by South Koreans_
 
 ### [A group of engineers from United Kingdom are teaming up with the Royal Air Force in this year in order to excavate a long-forgotten escape tunnel from the Second World War. ](/news/2011/01/21/a-group-of-engineers-from-united-kingdom-are-teaming-up-with-the-royal-air-force-in-this-year-in-order-to-excavate-a-long-forgotten-escape-t.md)
-_Context: Royal Air Force, Second World War, United Kingdom_
+_Context: Britain, Royal Air Force, Second World War_
 
 ### [MSNBC terminates a contract with their highest-rated cable news host, Keith Olbermann. ](/news/2011/01/21/msnbc-terminates-a-contract-with-their-highest-rated-cable-news-host-keith-olbermann.md)
 _Context: Keith Olbermann, MSNBC_

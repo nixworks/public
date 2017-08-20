@@ -46,7 +46,7 @@ _Context: China, Chinese Civilisation Revisited, Hong Kong_
 A police sergeant who allegedly struck a woman, Nicola Fisher, during G20 protests will be charged with assault, the Crown Prosecution Service (CPS) said.
 
 ### [ Spain's Pablo Pineda wins the best actor award at the San Sebastian International Film Festival, the first actor with Down's syndrome to win an international film award. ](/news/2009/09/28/spain-s-pablo-pineda-wins-the-best-actor-award-at-the-san-sebastia-n-international-film-festival-the-first-actor-with-down-s-syndrome-to-w.md)
-_Context: Down's syndrome, Pablo Pineda, San Sebastian International Film Festival, Spanish_
+_Context: Down's syndrome, Pablo Pineda, San Sebastian International Film Festival, Spain_
 
 ### [ Art historian Henry Adams claims abstract impressionist Jackson Pollock camouflaged his signature as a "hidden message" inside his famous 1943 ''Mural''. ](/news/2009/09/28/art-historian-henry-adams-claims-abstract-impressionist-jackson-pollock-camouflaged-his-signature-as-a-hidden-message-inside-his-famous-1.md)
 Jackson Pollock hid his signature inside one of his most important and valuable paintings, an art historian believes.

@@ -37,7 +37,7 @@ Ross Ulbricht, founder and mastermind of the Silk Road, has been sentenced to li
 _Context: Dustin Diamond, Wisconsin_
 
 ### [Muhammadu Buhari is sworn in as the President of Nigeria following a recent election. ](/news/2015/05/29/muhammadu-buhari-is-sworn-in-as-the-president-of-nigeria-following-a-recent-election.md)
-_Context: Muhammadu Buhari, President of Nigeria_
+_Context: Muhammadu Buhari, President_
 
 ### [Former Governor of Maryland Martin O'Malley will announce his candidacy for President of the United States at 10:00 am on May 30. ](/news/2015/05/29/former-governor-of-maryland-martin-o-malley-will-announce-his-candidacy-for-president-of-the-united-states-at-10-00-am-on-may-30.md)
 _Context: Democratic Party presidential primaries, 2016, Governor, Martin O'Malley_

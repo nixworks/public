@@ -34,7 +34,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Abeer Qassim Hamza, Iraq, Mujahideen Shura Council, United States, al-Qaeda_
 
 ### [ Hurricane Bud forms in the Eastern Pacific Ocean, south of the tip of the Baja California Peninsula. ](/news/2006/07/11/hurricane-bud-forms-in-the-eastern-pacific-ocean-south-of-the-tip-of-the-baja-california-peninsula.md)
-_Context: Baja California Peninsula, North Pacific Ocean, Pacific_
+_Context: Baja California Peninsula, Pacific, Pacific Ocean_
 
 ### [ In the 2006 Major League Baseball All-Star Game, the American League defeats the National League 3 to 2. Michael Young of the Texas Rangers is named Most Valuable Player. ](/news/2006/07/11/in-the-2006-major-league-baseball-all-star-game-the-american-league-defeats-the-national-league-3-to-2-michael-young-of-the-texas-rangers.md)
 _Context: American League, Major League Baseball All-Star Game, Michael Young, Most Valuable Player, National League, Texas Rangers_

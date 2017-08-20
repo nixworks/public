@@ -4,7 +4,7 @@
 Six people have been arrested on allegations of plotting to kill soldiers at an army installation, an official said today.
 
 ### [ Former U.S. President Bill Clinton announces a deal with drug companies to lower the price of anti-AIDS drugs in Third World countries. ](/news/2007/05/8/former-u-s-president-bill-clinton-announces-a-deal-with-drug-companies-to-lower-the-price-of-anti-aids-drugs-in-third-world-countries.md)
-_Context: Bill Clinton, President, Third World, anti-AIDS drugs_
+_Context: Bill Clinton, Third World, anti-AIDS drugs, president_
 
 ### [ Andre Boisclair resigns as the leader of Canada's Parti Quebecois. ](/news/2007/05/8/andra-c-boisclair-resigns-as-the-leader-of-canada-s-parti-qua-c-ba-c-cois.md)
 _Context: Andre Boisclair, Canada, Parti Quebecois_

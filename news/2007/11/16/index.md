@@ -43,13 +43,13 @@ _Context: Civic Platform, Donald Tusk, Polish People's Party, Polish Prime Minis
 _Context: India, Jaish-e-Mohammed, Kidnap, Pakistan, Uttar Pradesh_
 
 ### [ Japanese Prime Minister Yasuo Fukuda flies to the United States to hold talks with U.S. President George W. Bush. ](/news/2007/11/16/japanese-prime-minister-yasuo-fukuda-flies-to-the-united-states-to-hold-talks-with-u-s-president-george-w-bush.md)
-_Context: George W. Bush, Japan, President, Prime Minister of Japan, United States, Yasuo Fukuda_
+_Context: George W. Bush, Japan, Prime Minister of Japan, United States, Yasuo Fukuda, president_
 
 ### [ The death toll from Cyclone Sidr increases to 242 as the storm weakens and passes through the Bangladeshi capital Dhaka. ](/news/2007/11/16/the-death-toll-from-cyclone-sidr-increases-to-242-as-the-storm-weakens-and-passes-through-the-bangladeshi-capital-dhaka.md)
 _Context: Bangladesh, Dhaka, cyclone Sidr_
 
 ### [ Former Russian frogman Eduard Koltsov claims he killed British diver Lionel Crabb while he was spying on a Soviet warship in 1956. ](/news/2007/11/16/former-russian-frogman-eduard-koltsov-claims-he-killed-british-diver-lionel-crabb-while-he-was-spying-on-a-soviet-warship-in-1956.md)
-_Context: Eduard Koltsov, Lionel Crabb, Russia, Soviet, United Kingdom, diver, espionage, frogman, warship_
+_Context: Britain, Eduard Koltsov, Lionel Crabb, Russia, Soviet, diver, espionage, frogman, warship_
 
 ### [ U.S. Senator John Kerry accepts T. Boone Pickens' one-million-dollar Swift Boat challenge. ](/news/2007/11/16/u-s-senator-john-kerry-accepts-t-boone-pickens-one-million-dollar-swift-boat-challenge.md)
 _Context: John Kerry, Swift Boat challenge, T. Boone Pickens_

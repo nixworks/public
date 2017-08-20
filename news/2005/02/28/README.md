@@ -7,7 +7,7 @@ _Context: Country Reports on Human Rights Practices_
 _Context: Steve Fossett, Virgin Atlantic GlobalFlyer_
 
 ### [ At the Old Bailey, Briton Saajid Badat pleads guilty to planning a suicide attack on a US bound aircraft. Badat subsequently withdrew from the conspiracy, leaving fellow "shoe bomber" Richard Reid to act alone. ](/news/2005/02/28/at-the-old-bailey-briton-saajid-badat-pleads-guilty-to-planning-a-suicide-attack-on-a-us-bound-aircraft-badat-subsequently-withdrew-from.md)
-_Context: Old Bailey, Richard Reid, Saajid Badat, United Kingdom, United States of America_
+_Context: Britain, Old Bailey, Richard Reid, Saajid Badat, United States of America_
 
 ### [ Following week-long public protests (in the wake of Rafik Hariri's assassination) and a no confidence vote, the entire government of Lebanon resigns. ](/news/2005/02/28/following-week-long-public-protests-in-the-wake-of-rafik-hariri-s-assassination-and-a-no-confidence-vote-the-entire-government-of-lebano.md)
 The president of Lebanon reappointed Omar Karami as the country&#39;s prime minister on Thursday, 10 days after the staunchly pro-Syrian Karami stepped down amid street protests and international pressure.
@@ -19,13 +19,13 @@ _Context: Israeli security guard, Israeli-Palestinian conflict, Jenin, Palestini
 _Context: Baghdad, Hilla, Iraq, suicide car bomb explodes_
 
 ### [ UK aid agency Oxfam states that atrocities still continue in Darfur ](/news/2005/02/28/uk-aid-agency-oxfam-states-that-atrocities-still-continue-in-darfur.md)
-_Context: Darfur, Oxfam, United Kingdom_
+_Context: Britain, Darfur, Oxfam_
 
 ### [ People of Burundi vote on a new constitution ](/news/2005/02/28/people-of-burundi-vote-on-a-new-constitution.md)
 _Context: Burundi, constitution_
 
 ### [ In Spain, police arrest Raffaele Amato, head of a mafia gang that has waged turf wars against other gangs in Naples, Italy. ](/news/2005/02/28/in-spain-police-arrest-raffaele-amato-head-of-a-mafia-gang-that-has-waged-turf-wars-against-other-gangs-in-naples-italy.md)
-_Context: Italian, Mafia, Naples, Raffaele Amato, Spanish_
+_Context: Italian, Mafia, Naples, Raffaele Amato, Spain_
 
 ### [ Cannes police, investigating the November 2004 disappearance of Earl of Shaftesbury Anthony Ashley-Cooper, arrest his estranged wife Djamilia M'Barek. Her brother, Mohammed, is arrested in Munich. ](/news/2005/02/28/cannes-police-investigating-the-november-2004-disappearance-of-earl-of-shaftesbury-anthony-ashley-cooper-arrest-his-estranged-wife-djamil.md)
 _Context: Anthony Ashley-Cooper, 10th Earl of Shaftesbury, Cannes, Djamilia M'Barek, Earl of Shaftesbury, Mohammed, Munich_

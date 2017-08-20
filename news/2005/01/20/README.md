@@ -4,7 +4,7 @@
 _Context: China, Grenada, Taiwan_
 
 ### [ In Belize, unrest over the government's new taxes boils over as people burn the government offices and union workers strike, closing ports and shutting down water services. There are reports that the United Kingdom says it will send in 1500 soldiers to maintain peace. ](/news/2005/01/20/in-belize-unrest-over-the-government-s-new-taxes-boils-over-as-people-burn-the-government-offices-and-union-workers-strike-closing-ports.md)
-_Context: Belize, United Kingdom, unrest_
+_Context: Belize, Britain, unrest_
 
 ### [ Israeli-Palestinian Conflict: Israeli soldiers shoot dead a 13- or 14-year-old Palestinian boy, after he points a toy rifle at them, and kill another 13-year-old boy walking with his parents near Rafah. ](/news/2005/01/20/israeli-palestinian-conflict-israeli-soldiers-shoot-dead-a-13-or-14-year-old-palestinian-boy-after-he-points-a-toy-rifle-at-them-and-ki.md)
 _Context: Israel, Israeli-Palestinian conflict, Palestinian, rifle, toy_

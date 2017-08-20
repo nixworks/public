@@ -16,7 +16,7 @@ _Context: Baiji, ISIL, Iraq, Iraqi Civil War (2014-present), Saladin province, S
 Earlier, Palestinian taxi driver tries to stab Israeli after failing to run over pedestrians near Jerusalem; 16-year-old Palestinian girl tries to stab Israelis near Itamar, run over by former head of Samaria regional council, and shot dead.
 
 ### [The UK may not face a credit rating downgrade if it votes to leave the EU in a referendum due by the end of 2017, according to the lead UK analyst at Moody's. ](/news/2015/11/22/the-uk-may-not-face-a-credit-rating-downgrade-if-it-votes-to-leave-the-eu-in-a-referendum-due-by-the-end-of-2017-according-to-the-lead-uk-a.md)
-_Context: European Union, Moody's Investors Service, United Kingdom, United Kingdom European Union membership referendum, United Kingdom withdrawal from the European Union_
+_Context: Britain, European Union, Moody's Investors Service, United Kingdom European Union membership referendum, United Kingdom withdrawal from the European Union_
 
 ### [The death toll in a landslide near a jade mine in northern Myanmar rises to about 100 people, with up to 200 others missing. Most of the victims were villagers digging for jade in a mountain of displaced earth.  ](/news/2015/11/22/the-death-toll-in-a-landslide-near-a-jade-mine-in-northern-myanmar-rises-to-about-100-people-with-up-to-200-others-missing-most-of-the-vic.md)
 A landslide near a jade mine in northern Myanmar killed about 100 people, most of them villagers digging for green stones in a mountain of displaced earth. 
@@ -49,7 +49,7 @@ _Context: Kim Young-sam, Seoul, South Korea, South Korean President_
 _Context: Cairo, Egypt, Egyptian parliamentary election, 2015_
 
 ### [United States President Barack Obama orders an assessment of whether intelligence reports from U.S. Central Command were changed by supervisory military personnel before formal submission to present a more optimistic picture of the American military campaign against Daesh (Islamic State). The Pentagon's Office of the Inspector General investigators seized emails from military servers over the last few weeks. ](/news/2015/11/22/united-states-president-barack-obama-orders-an-assessment-of-whether-intelligence-reports-from-u-s-central-command-were-changed-by-supervis.md)
-_Context: Barack Obama, CENTCOM, ISIL, Pentagon's Office of the Inspector General, President, United States military personnel_
+_Context: Barack Obama, CENTCOM, ISIL, Pentagon's Office of the Inspector General, United States military personnel, president_
 
 ### [Nola, a 41-year-old female northern white rhino, dies at the San Diego Zoo Safari Park. She was euthanized after her health took a turn for the worse. Nola was rescued from violent poaching in the southern savanna woodlands of Sudan and came to the park in 1989. Only three animals of this endangered species are known left in the world. ](/news/2015/11/22/nola-a-41-year-old-female-northern-white-rhino-dies-at-the-san-diego-zoo-safari-park-she-was-euthanized-after-her-health-took-a-turn-for.md)
 The 41-year-old rhino has been under veterinary care for a bacterial infection and age-related health issues. Her condition took a turn for the worse over the weekend and the San Diego Zoo Safari Park team “made the difficult decision to euthanize her.”

@@ -58,7 +58,7 @@ _Context: Joseph Estrada, Noynoy Aquino, Philippine presidential election, Phili
 _Context: Emperor Akihito, Japan, Naoto Kan, Prime Minister of Japan_
 
 ### [Public sector workers in Spain hold a major strike in protest against a 5% pay cut due to come into effect this month as part of a government austerity package. ](/news/2010/06/8/public-sector-workers-in-spain-hold-a-major-strike-in-protest-against-a-5-pay-cut-due-to-come-into-effect-this-month-as-part-of-a-governmen.md)
-_Context: Spanish_
+_Context: Spain_
 
 ### [China defends its censorship of the internet in a document laying out the government's attitude towards the web. ](/news/2010/06/8/china-defends-its-censorship-of-the-internet-in-a-document-laying-out-the-government-s-attitude-towards-the-web.md)
 _Context: China, blocks mentions_

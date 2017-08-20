@@ -31,7 +31,7 @@ Palestinian president condemns PLO criticism as factions prepare to meet Egyptia
 _Context: Gaza Strip, Israel, Israel Defense Forces, Mortar, Palestinian, negotiate, rocket_
 
 ### [ Wildcat strikes spread across the United Kingdom. ](/news/2009/02/2/wildcat-strikes-spread-across-the-united-kingdom.md)
-_Context: United Kingdom, Wildcat strikes, spread_
+_Context: Britain, Wildcat strikes, spread_
 
 ## [Previous Day...](/news/2009/02/1/index.md)
 

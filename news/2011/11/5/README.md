@@ -10,7 +10,7 @@ Israel has said no one was injured in its takeover of the Canadian ship Tahrir
 Rescuers in China save the remaining 45 miners who were trapped underground for 36 hours after a cave-in, state media say.
 
 ### [Residents of El Hierro in Spain's Canary Islands are evacuated following continuing volcanic activity. ](/news/2011/11/5/residents-of-el-hierro-in-spain-s-canary-islands-are-evacuated-following-continuing-volcanic-activity.md)
-_Context: Canary Islands', El Hierro, Spanish_
+_Context: Canary Islands', El Hierro, Spain_
 
 ### [A Pakistan anti-terror court indicts two police officers and five alleged members of the Taliban for the murder of former Prime Minister of Pakistan Benazir Bhutto. ](/news/2011/11/5/a-pakistan-anti-terror-court-indicts-two-police-officers-and-five-alleged-members-of-the-taliban-for-the-murder-of-former-prime-minister-of.md)
 _Context: Benazir Bhutto, Pakistan, Prime Minister of Pakistan, Taliban, indicted_

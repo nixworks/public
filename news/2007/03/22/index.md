@@ -16,7 +16,7 @@ _Context: AOL, MSN, NBC, News Limited, Yahoo!, YouTube, video_
 _Context: Archbishop, Bulawayo, Pius Ncube, President of Zimbabwe, Robert Mugabe, Roman Catholic Church, Zimbabwean political crisis_
 
 ### [ Fighting erupts in Kinshasa, Democratic Republic of Congo, between Government troops and the personal militia of Jean-Pierre Bemba, defeated presidential candidate in 2006 and recently elected Senator. The Spanish embassy is caught in the crossfire, leading to its evacuation under United Nations guard. ](/news/2007/03/22/fighting-erupts-in-kinshasa-democratic-republic-of-congo-between-government-troops-and-the-personal-militia-of-jean-pierre-bemba-defeate.md)
-_Context: Democratic Republic of Congo, Jean-Pierre Bemba, Kinshasa, Senator, Spanish, United Nations, embassies, militia, presidential candidate in 2006, recently elected_
+_Context: Democratic Republic of Congo, Jean-Pierre Bemba, Kinshasa, Senator, Spain, United Nations, embassies, militia, presidential candidate in 2006, recently elected_
 
 ### [ The European Union agrees to open the trans-Atlantic air market to greater competition. ](/news/2007/03/22/the-european-union-agrees-to-open-the-trans-atlantic-air-market-to-greater-competition.md)
 European Union governments backed a deal with the United States that would open restricted airline routes to new rivals.

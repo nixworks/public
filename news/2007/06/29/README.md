@@ -4,7 +4,7 @@
 _Context: European Pressurized Reactor, Finland_
 
 ### [ Spanish scientists find fossil evidence of humans living in Europe over a million years ago in Burgos, Spain. ](/news/2007/06/29/spanish-scientists-find-fossil-evidence-of-humans-living-in-europe-over-a-million-years-ago-in-burgos-spain.md)
-_Context: Burgos, Europe, Spanish, fossil_
+_Context: Burgos, Europe, Spain, fossil_
 
 ### [ Rebels unsuccessfully try to assassinate Guillaume Soro, Prime Minister of Ivory Coast, but kill three others in a rocket attack. ](/news/2007/06/29/rebels-unsuccessfully-try-to-assassinate-guillaume-soro-prime-minister-of-ivory-coast-but-kill-three-others-in-a-rocket-attack.md)
 _Context: Guillaume Soro, Prime Minister of Ivory Coast_

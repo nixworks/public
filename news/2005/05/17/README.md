@@ -25,7 +25,7 @@ _Context: Australia, Kylie Minogue, breast cancer_
 _Context: Belinda Stronach, Canada, Canadian House of Commons, Conservative Party's, Liberal Party's, MP, crosses the floor_
 
 ### [ The Spanish parliament approves plan to begin negotiations with the Basque ETA. ](/news/2005/05/17/the-spanish-parliament-approves-plan-to-begin-negotiations-with-the-basque-eta.md)
-_Context: Basque, ETA, Spanish_
+_Context: Basque, ETA, Spain_
 
 ### [ Judges at the International Criminal Court at The Hague send a case of Radovan Stankovic back to new war crimes court in Bosnia. Stankovic is accused of rape of Bosnian Muslim women in Foca in 1992. ](/news/2005/05/17/judges-at-the-international-criminal-court-at-the-hague-send-a-case-of-radovan-stankovia-back-to-new-war-crimes-court-in-bosnia-stankovia.md)
 _Context: Bosnia and Herzegovina, Foca, Hague, International Criminal Court, Muslim, Radovan Stankovic, rape_
@@ -43,7 +43,7 @@ Reuters.com for the weird, oddly enough stories.
 _Context: Kenya, Thomas P. G. Cholmondeley, insufficient evidence, murder_
 
 ### [ British Prime Minister Tony Blair's government unveils a controversial proposal for national identity cards and other counter-terrorism measures besides a bill on immigration. ](/news/2005/05/17/british-prime-minister-tony-blair-s-government-unveils-a-controversial-proposal-for-national-identity-cards-and-other-counter-terrorism-mea.md)
-_Context: Prime Minister, Tony Blair, United Kingdom, migrants, national identity card_
+_Context: Britain, Prime Minister, Tony Blair, migrants, national identity card_
 
 ### [ American alternative metal band System of a Down release their first installment of their double album, Mezmerize](/news/2005/05/17/american-alternative-metal-band-system-of-a-down-release-their-first-installment-of-their-double-album-mezmerize.md)
 _Context: Mezmerize, System of a Down, alternative metal_

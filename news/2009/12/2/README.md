@@ -10,7 +10,7 @@ The Jakarta Foreign Correspondents Club (JFCC) decided to &quot;err on the side 
 _Context: Austria, Friedrich Karl Flick, German, billionaire_
 
 ### [ More than 50 prominent Nigerian public figures call for President Umaru Yar'Adua to resign, saying his health is impairing his judgment. ](/news/2009/12/2/more-than-50-prominent-nigerian-public-figures-call-for-president-umaru-yar-adua-to-resign-saying-his-health-is-impairing-his-judgment.md)
-_Context: Nigeria, President of Nigeria, Umaru Yar'Adua_
+_Context: Nigeria, President, Umaru Yar'Adua_
 
 ### [ An Islamist group in the North Caucasus claims the bomb attack on a Nevsky Express train in Russia was conducted on orders of "Emir of the Caucasus Emirate" Dokka Umarov. ](/news/2009/12/2/an-islamist-group-in-the-north-caucasus-claims-the-bomb-attack-on-a-nevsky-express-train-in-russia-was-conducted-on-orders-of-emir-of-the.md)
 Islamist separatists say they are behind train attack that killed 26 people.

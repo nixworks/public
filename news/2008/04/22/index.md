@@ -10,7 +10,7 @@ _Context: Las Vegas, Nevada, U.S., grand jury, ricin, toxin_
 A U.S. Army mechanical engineer has been arrested on charges that he slipped classified documents about nuclear weapons to an employee of the Israeli Consulate.
 
 ### [ The United States Secretary of State Condoleezza Rice says that former President of the United States Jimmy Carter was advised not to hold talks with Hamas. ](/news/2008/04/22/the-united-states-secretary-of-state-condoleezza-rice-says-that-former-president-of-the-united-states-jimmy-carter-was-advised-not-to-hold.md)
-_Context: Condoleezza Rice, Hamas, Jimmy Carter, President, United States Secretary of State_
+_Context: Condoleezza Rice, Hamas, Jimmy Carter, United States Secretary of State, president_
 
 ### [ Zimbabwe churches claim that people are being tortured, abducted and some murdered in a campaign of political retribution against the opposition Movement for Democratic Change. ](/news/2008/04/22/zimbabwe-churches-claim-that-people-are-being-tortured-abducted-and-some-murdered-in-a-campaign-of-political-retribution-against-the-oppos.md)
 _Context: Movement for Democratic Change, Zimbabwe_

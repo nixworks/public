@@ -16,7 +16,7 @@ The man was shot by fellow soldiers along the Gaza border in an operation aimed 
 The Taoiseach has promoted two TDs to senior positions and moved four ministers to different portfolios as part of the Cabinet reshuffle.
 
 ### [Nigerian cabinet reshuffle: Acting President Goodluck Jonathan picks new ministers after firing all members of his cabinet last week. ](/news/2010/03/23/nigerian-cabinet-reshuffle-acting-president-goodluck-jonathan-picks-new-ministers-after-firing-all-members-of-his-cabinet-last-week.md)
-_Context: Goodluck Jonathan, President of Nigeria_
+_Context: Goodluck Jonathan, President_
 
 ### [Sudan's President Omar al-Bashir threatens to expel international observers for the first general elections in the country in 21 years, after they called for a delay to deal with "logistical" problems. ](/news/2010/03/23/sudan-s-president-omar-al-bashir-threatens-to-expel-international-observers-for-the-first-general-elections-in-the-country-in-21-years-afte.md)
 _Context: Omar al-Bashir, President of Sudan, Sudan, post-election protests_

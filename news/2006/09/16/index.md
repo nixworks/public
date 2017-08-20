@@ -10,7 +10,7 @@ Italian media report security around Benedict XVI tightened following harsh resp
 _Context: Category 3 hurricane, Hurricane Lane, Mexico, Pacific_
 
 ### [ Darfur conflict: On the eve of the International Day for Darfur, British Prime Minister Tony Blair insists the government of Sudan must start to "live up to its obligations" towards the war-torn region. ](/news/2006/09/16/darfur-conflict-on-the-eve-of-the-international-day-for-darfur-british-prime-minister-tony-blair-insists-the-government-of-sudan-must-sta.md)
-_Context: Darfur, Darfur conflict, Prime Minister, Sudan, Tony Blair, United Kingdom_
+_Context: Britain, Darfur, Darfur conflict, Prime Minister, Sudan, Tony Blair_
 
 ### [ Iraq insurgency: Baghdad police find 47 corpses across the city, most bound and shot, thought to be more victims of the ongoing sectarian killing that has been taking place in the region and appears aimed at provoking civil war. ](/news/2006/09/16/iraq-insurgency-baghdad-police-find-47-corpses-across-the-city-most-bound-and-shot-thought-to-be-more-victims-of-the-ongoing-sectarian-k.md)
 _Context: Baghdad, Iraq Insurgency, civil war, sectarian_

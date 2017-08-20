@@ -16,13 +16,13 @@ A sharp rise in insurgent attacks in Afghanistan causes a 31% rise in civilian c
 _Context: Foreign Minister, Hassan Nasrallah, Hezbollah, Israel, Lebanese Prime Minister, Lebanon, Rafic Hariri_
 
 ### [A much-publicised project backed by Spain's government sells just 16 of the 2,000 electric cars it had intended so far in 2010. ](/news/2010/08/10/a-much-publicised-project-backed-by-spain-s-government-sells-just-16-of-the-2-000-electric-cars-it-had-intended-so-far-in-2010.md)
-_Context: Spanish_
+_Context: Spain_
 
 ### [The Niger River bursts its banks forcing 5,000 people to lose their homes and crops. ](/news/2010/08/10/the-niger-river-bursts-its-banks-forcing-5-000-people-to-lose-their-homes-and-crops.md)
 _Context: Niger River_
 
 ### [A 7.6 magnitude earthquake and small tsunami hits the Pacific Ocean nation of Vanuatu. ](/news/2010/08/10/a-7-6-magnitude-earthquake-and-small-tsunami-hits-the-pacific-ocean-nation-of-vanuatu.md)
-_Context: North Pacific Ocean, Vanuatu, earthquake, tsunami_
+_Context: Pacific Ocean, Vanuatu, earthquake, tsunami_
 
 ### [Rescuers in China's Gansu province continue to search for 1,100 missing people in a recent landslide, as the death toll rises to 702. ](/news/2010/08/10/rescuers-in-china-s-gansu-province-continue-to-search-for-1-100-missing-people-in-a-recent-landslide-as-the-death-toll-rises-to-702.md)
 _Context: China, Gansu province, landslide_

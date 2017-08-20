@@ -10,10 +10,10 @@ _Context: Afghanistan's, Kandahar massacre, Leon Panetta, Secretary of Defense_
 _Context: Peruvian, Puerto Maldonado, gold miner_
 
 ### [The United Kingdom towns of Chelmsford, Perth and St Asaph are awarded city status to mark the Diamond Jubilee of Elizabeth II. ](/news/2012/03/14/the-united-kingdom-towns-of-chelmsford-perth-and-st-asaph-are-awarded-city-status-to-mark-the-diamond-jubilee-of-elizabeth-ii.md)
-_Context: Chelmsford, Perth, St Asaph, United Kingdom, city status, diamond jubilee_
+_Context: Britain, Chelmsford, Perth, St Asaph, city status, diamond jubilee_
 
 ### [Unemployment in the United Kingdom reaches 2.67 million, the most people since 1995. ](/news/2012/03/14/unemployment-in-the-united-kingdom-reaches-2-67-million-the-most-people-since-1995.md)
-_Context: United Kingdom_
+_Context: Britain_
 
 ### [Tropical Cyclone Lua heads towards Western Australia's Pilbara region. ](/news/2012/03/14/tropical-cyclone-lua-heads-towards-western-australia-s-pilbara-region.md)
 _Context: Pilbara, Severe Tropical Cyclone Lua, Western Australia_
@@ -31,7 +31,7 @@ Distraught parents flew to Switzerland on Wednesday after a bus carrying a Belgi
 The authorities in Azerbaijan arrest 22 people on suspicion of spying for Iran, accusing them of links to the Iranian Revolutionary Guards.
 
 ### [The President of the United States Barack Obama and the Prime Minister of the United Kingdom David Cameron meet at the White House in Washington D.C. to discuss Afghanistan, Syria, the global economy and Iran. ](/news/2012/03/14/the-president-of-the-united-states-barack-obama-and-the-prime-minister-of-the-united-kingdom-david-cameron-meet-at-the-white-house-in-washin.md)
-_Context: Afghanistan's, Barack Obama, David Cameron, Iran, President, Prime Minister, Syria, Washington, D.C., White House_
+_Context: Afghanistan's, Barack Obama, David Cameron, Iran, Prime Minister, Syria, Washington, D.C., White House, president_
 
 ### [The  International Criminal Court in the Hague delivers a verdict of guilty in the case of Thomas Lubanga Dyilo of the Democratic Republic of the Congo on war crimes charges. ](/news/2012/03/14/the-international-criminal-court-in-the-hague-delivers-a-verdict-of-guilty-in-the-case-of-thomas-lubanga-dyilo-of-the-democratic-republic-o.md)
 The war crimes court at The Hague found Congolese warlord Thomas Lubanga Dyilo guilty on Wednesday in its first ever ruling after a decade of work limited largely to Africa while major cases elsewhere remain beyond its reach.

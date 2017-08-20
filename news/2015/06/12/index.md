@@ -31,7 +31,7 @@ _Context: 2012-15 North American drought, California_
  South Korea confirmed its 11th death from Middle East Respiratory Syndrome (MERS) on Friday, while reporting four new cases that brought the number of people diagnosed with the disease here to 126.
 
 ### [The Pacific Ocean nation of Palau burns four Vietnamese fishing boats caught poaching sea cucumbers and other marine life in its waters. ](/news/2015/06/12/the-pacific-ocean-nation-of-palau-burns-four-vietnamese-fishing-boats-caught-poaching-sea-cucumbers-and-other-marine-life-in-its-waters.md)
-_Context: North Pacific Ocean, Palau, Vietnam, sea cucumber_
+_Context: Pacific Ocean, Palau, Vietnam, sea cucumber_
 
 ### [Pakistan orders the Save the Children NGO to leave the country claiming it supports "anti-Pakistan" activity. ](/news/2015/06/12/pakistan-orders-the-save-the-children-ngo-to-leave-the-country-claiming-it-supports-anti-pakistan-activity.md)
 Pakistan orders the charity Save the Children out of the country, sealing its offices and accusing it of &quot;anti-Pakistan&quot; activities.

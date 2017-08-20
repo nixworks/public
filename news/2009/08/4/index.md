@@ -46,7 +46,7 @@ Protesting former staff at traveloperator Thomas Cook (TCG.L) were arrested on T
 * Locals say about 100 people involved in fight, three hurt * Official figures say 35,000 Chinese work in Algeria * High unemployment fuel
 
 ### [ Nigerian President Umaru Yar'Adua orders an investigation into the recent sectarian violence in the north of the country. ](/news/2009/08/4/nigerian-president-umaru-yar-adua-orders-an-investigation-into-the-recent-sectarian-violence-in-the-north-of-the-country.md)
-_Context: Nigeria, President of Nigeria, Umaru Yar'Adua, sectarian violence_
+_Context: Nigeria, President, Umaru Yar'Adua, sectarian violence_
 
 ### [ Opposition groups in Iran call for further protests ahead of President Mahmoud Ahmadinejad's inauguration. ](/news/2009/08/4/opposition-groups-in-iran-call-for-further-protests-ahead-of-president-mahmoud-ahmadinejad-s-inauguration.md)
 _Context: Iran, Mahmoud Ahmadinejad, President, protests against the regime_
