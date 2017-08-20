@@ -9,10 +9,10 @@ The event is being held for the first time in five years. with reports speaking 
 ### [American comedian Jerry Lewis dies in Las Vegas, Nevada, at the age of 91. ](/news/2017/08/20/american-comedian-jerry-lewis-dies-in-las-vegas-nevada-at-the-age-of-91.md)
 Once Hollywood&#x27;s most bankable star, Lewis fronted more than 50 movies, from the light Martin-and-Lewis fare of &quot;Artists and Models&quot; to Martin Scorsese&#x27;s darkly funny &quot;The King of Comedy.&quot;
 
-### [Disasters in An explosion at a South Korean shipyard owned by STX Offshore & Shipbuilding kills four workers. ](/news/2017/08/20/disasters-in-an-explosion-at-a-south-korean-shipyard-owned-by-stx-offshore-shipbuilding-kills-four-workers.md)
+### [An explosion at a South Korean shipyard owned by STX Offshore & Shipbuilding kills four workers. ](/news/2017/08/20/an-explosion-at-a-south-korean-shipyard-owned-by-stx-offshore-shipbuilding-kills-four-workers.md)
 _Context: STX Offshore & Shipbuilding, South Korea_
 
-### [Iranian MPs approved 16 out of 17 cabinet members nominated by recently re-elected President Hassan Rouhani. ](/news/2017/08/20/iranian-mps-approved-16-out-of-17-cabinet-members-nominated-by-recently-re-elected-president-hassan-rouhani.md)
+### [Iranian MPs approves 16 out of 17 cabinet members nominated by recently re-elected President Hassan Rouhani. ](/news/2017/08/20/iranian-mps-approves-16-out-of-17-cabinet-members-nominated-by-recently-re-elected-president-hassan-rouhani.md)
 Iranian lawmakers on Sunday approved 16 Cabinet members nominated by recently re-elected President Hassan Rouhani, including the first defense minister unaffiliated with the elite, hard-line Revolutionary Guard in 25 years.
 
 ## Opinion
@@ -26,7 +26,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [A 23-year-old stabs and injures eight people in the Russian city of Surgut, before being killed by police. ISIL claims responsibility for the attack. ](/news/2017/08/19/a-23-year-old-stabs-and-injures-eight-people-in-the-russian-city-of-surgut-before-being-killed-by-police-isil-claims-responsibility-for-th.md)
 ISIS claimed responsibility for a stabbing attack in the Russian city of Surgut. Earlier today, a 23-year-old local resident with a...
 
-### [The Lebanese Armed Forces launches operation ''Fajr al-Joroud'', and on the first day recaptures 30 km of territory near the Lebanon-Syria border formerly occupied by ISIL militants. Twenty ISIL militants were killed and 10 Lebanese soldiers were wounded. ](/news/2017/08/19/the-lebanese-armed-forces-launches-operation-fajr-al-joroud-and-on-the-first-day-recaptures-30-km-of-territory-near-the-lebanonasyria.md)
+### [A day after a Russian sponsored ceasefire with a rebel group agreed a halt of fighting in the last opposition enclave in the capital, Assad regime's jets and artillery strike rebel-held eastern Damascus suburbs and Ghouta with barrel bombs, killing at least five civilians in the towns of Hamouriya and Zalamka with several case of suffocation from rockets filled with chlorine that were fired at the front lines of Jobar and Ain Terma. ](/news/2017/08/19/a-day-after-a-russian-sponsored-ceasefire-with-a-rebel-group-agreed-a-halt-of-fighting-in-the-last-opposition-enclave-in-the-capital-assad.md)
 The Lebanese launched &#39;Fajr al-Joroud&#39; operation against Daesh (ISIS) positions on the outskirts of al-Qaa and Ras Baalbek towns Saturday.
 
 ### [Pakistan holds a state funeral for German-born Catholic nun Ruth Pfau, known as "Pakistan's Mother Teresa," who devoted her life to eradicating leprosy in the South Asian country. ](/news/2017/08/19/pakistan-holds-a-state-funeral-for-german-born-catholic-nun-ruth-pfau-known-as-pakistan-s-mother-teresa-who-devoted-her-life-to-eradicat.md)
