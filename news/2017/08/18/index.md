@@ -15,9 +15,6 @@ Workers at two restaurants in England have voted to strike in what would be the 
 ### [Flooding in South Asia has displaced tens of thousands of people and resulted in an estimated 500 deaths across India, Bangladesh, and Nepal. ](/news/2017/08/18/flooding-in-south-asia-has-displaced-tens-of-thousands-of-people-and-resulted-in-an-estimated-500-deaths-across-india-bangladesh-and-nepal.md)
 The Red Cross says the floods are becoming one of the worst regional humanitarian crises in years.
 
-### [A landslide in a village along Lake Albert in the Democratic Republic of the Congo leaves at least 60 dead. ](/news/2017/08/18/a-landslide-in-a-village-along-lake-albert-in-the-democratic-republic-of-the-congo-leaves-at-least-60-dead.md)
-At least 60 people killed after heavy rain triggers landslide in fishing village near Lake Albert in the DR Congo.
-
 ### [Steve Bannon resigns as President Donald Trump's White House Chief Strategist. ](/news/2017/08/18/steve-bannon-resigns-as-president-donald-trump-s-white-house-chief-strategist.md)
 Steve Bannon has resigned from his role as White House chief strategist, the White House said today. A source close to Bannon told ABC News the resignation was effective Aug. 14, exactly one year after he joined the Trump campaign. &quot;White House Chief of Staff John Kelly and Steve Bannon have...
 

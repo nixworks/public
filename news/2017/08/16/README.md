@@ -9,6 +9,9 @@ Campbell Soup CEO Denise Morrison resigned from the president&#039;s manufacturi
 ### [A mass burial of victims of the landslide is held in Freetown to free up space in mortuaries. Nearly 400 people are confirmed dead with at least 600 missing. ](/news/2017/08/16/a-mass-burial-of-victims-of-the-landslide-is-held-in-freetown-to-free-up-space-in-mortuaries-nearly-400-people-are-confirmed-dead-with-at-l.md)
 Nearly 400 are dead and 600 are still unaccounted for as rescue efforts continue in Freetown.
 
+### [A landslide in a village along Lake Albert in the Democratic Republic of the Congo leaves at least 60 dead. ](/news/2017/08/16/a-landslide-in-a-village-along-lake-albert-in-the-democratic-republic-of-the-congo-leaves-at-least-60-dead.md)
+At least 60 people killed after heavy rain triggers landslide in fishing village near Lake Albert in the DR Congo.
+
 ### [A United States Army Combat Aviation Brigade UH-60 Black Hawk helicopter crashes off the coast of Hawaii, with five people on board. A United States Coast Guard-led search for the missing is underway. ](/news/2017/08/16/a-united-states-army-combat-aviation-brigade-uh-60-black-hawk-helicopter-crashes-off-the-coast-of-hawaii-with-five-people-on-board-a-unite.md)
 A debris field was spotted in the ocean after the Army Black Hawk went down near the island of Oahu.
 
