@@ -6,14 +6,17 @@ ISIS claimed responsibility for a stabbing attack in the Russian city of Surgut.
 ### [The Lebanese Armed Forces launches operation ''Fajr al-Joroud'', and on the first day recaptures 30 km of territory near the Lebanon-Syria border formerly occupied by ISIL militants. Twenty ISIL militants were killed and 10 Lebanese soldiers were wounded. ](/news/2017/08/19/the-lebanese-armed-forces-launches-operation-fajr-al-joroud-and-on-the-first-day-recaptures-30-km-of-territory-near-the-lebanonasyria.md)
 The Lebanese launched &#39;Fajr al-Joroud&#39; operation against Daesh (ISIS) positions on the outskirts of al-Qaa and Ras Baalbek towns Saturday.
 
+### [Pakistan holds a state funeral for German-born Catholic nun Ruth Pfau, known as "Pakistan's Mother Teresa," who devoted her life to eradicating leprosy in the South Asian country. ](/news/2017/08/19/pakistan-holds-a-state-funeral-for-german-born-catholic-nun-ruth-pfau-known-as-pakistan-s-mother-teresa-who-devoted-her-life-to-eradicat.md)
+Pakistani soldiers on Saturday carried the flag-draped coffin of German-born Catholic nun Ruth Pfau to a state funeral where she was honored after devoting her life to eradicating leprosy in the country.
+
 ### [A magnitude 6.4 earthquake strikes west of the Pacific Island of Tonga. There are no immediate reports of casualties or damage. ](/news/2017/08/19/a-magnitude-6-4-earthquake-strikes-west-of-the-pacific-island-of-tonga-there-are-no-immediate-reports-of-casualties-or-damage.md)
 An earthquake of 6.4 magnitude struck 500 km (310 miles) west of the Pacific island of Tonga on Saturday, the U.S. Geological Survey (USGS) said, but there were no immediate reports of any casualties or damage.
 
 ### [A train derails near Muzaffarnagar, Uttar Pradesh, India, resulting in at least 20 deaths and 120 injuries. The death toll is expected to rise further. ](/news/2017/08/19/a-train-derails-near-muzaffarnagar-uttar-pradesh-india-resulting-in-at-least-20-deaths-and-120-injuries-the-death-toll-is-expected-to-ri.md)
 A train came off the tracks in Uttar Pradesh on Saturday, killing at least 10 people and wounding more than 100 as carriages slammed into each other, the local chief medical officer said.
 
-### [The wreckage of the warship the USS Indianapolis is discovered on the floor of the North Pacific Ocean, 18,000 feet below the surface. The vessel was sunk by an Imperial Japanese Navy torpedo on 30 July 1945 after delivering parts for the Little Boy atomic weapon. ](/news/2017/08/19/the-wreckage-of-the-warship-the-uss-indianapolis-is-discovered-on-the-floor-of-the-north-pacific-ocean-18-000-feet-below-the-surface-the-v.md)
-_Context: Imperial Japanese Navy, Little Boy, Pacific Ocean, USS Indianapolis, torpedo_
+### [The wreckage of the USS Indianapolis warship, torpedoed by the Imperial Japanese Navy submarine I-58 and sunk in 1945 after delivering parts for the Little Boy atomic weapon, is discovered on the floor of the North Pacific Ocean. Only 317 of the U.S. Sailors/Marines who survived the sinking were finally rescued  after  4/5 days in shark-infested waters.  ](/news/2017/08/19/the-wreckage-of-the-uss-indianapolis-warship-torpedoed-by-the-imperial-japanese-navy-submarine-i-58-and-sunk-in-1945-after-delivering-parts.md)
+_Context: I-58, Little Boy, Marines, Pacific Ocean, Sailor, USS Indianapolis, warship_
 
 ### [Australian Senator Nick Xenophon is discovered to hold dual citizenship with Britain. ](/news/2017/08/19/australian-senator-nick-xenophon-is-discovered-to-hold-dual-citizenship-with-britain.md)
 _Context: 2017 Australian constitutional crisis, Nick Xenophon_
