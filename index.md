@@ -9,7 +9,7 @@ The event is being held for the first time in five years. with reports speaking 
 ### [American comedian Jerry Lewis dies in Las Vegas, Nevada, at the age of 91. ](/news/2017/08/20/american-comedian-jerry-lewis-dies-in-las-vegas-nevada-at-the-age-of-91.md)
 Once Hollywood&#x27;s most bankable star, Lewis fronted more than 50 movies, from the light Martin-and-Lewis fare of &quot;Artists and Models&quot; to Martin Scorsese&#x27;s darkly funny &quot;The King of Comedy.&quot;
 
-### [An explosion at a South Korean shipyard owned by STX Offshore & Shipbuilding kills four workers. ](/news/2017/08/20/an-explosion-at-a-south-korean-shipyard-owned-by-stx-offshore-shipbuilding-kills-four-workers.md)
+### [Disasters in An explosion at a South Korean shipyard owned by STX Offshore & Shipbuilding kills four workers. ](/news/2017/08/20/disasters-in-an-explosion-at-a-south-korean-shipyard-owned-by-stx-offshore-shipbuilding-kills-four-workers.md)
 _Context: STX Offshore & Shipbuilding, South Korea_
 
 ### [Iranian MPs approved 16 out of 17 cabinet members nominated by recently re-elected President Hassan Rouhani. ](/news/2017/08/20/iranian-mps-approved-16-out-of-17-cabinet-members-nominated-by-recently-re-elected-president-hassan-rouhani.md)
