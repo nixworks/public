@@ -1,6 +1,6 @@
 ### [2017-08-19](/news/2017/08/19/index.md)
 
-# The wreckage of the USS Indianapolis warship, torpedoed by the Imperial Japanese Navy submarine I-58 and sunk in 1945 after delivering parts for the Little Boy atomic weapon, is discovered on the floor of the North Pacific Ocean. Only 317 of the U.S. Sailors/Marines who survived the sinking were finally rescued  after  4/5 days in shark-infested waters.  
+# The wreckage of the USS Indianapolis warship, torpedoed by the Imperial Japanese Navy submarine I-58 and sunk in 1945 after delivering parts for the Little Boy atomic weapon, is discovered on the floor of the North Pacific Ocean. Only 317 of the U.S. Sailors/Marines who survived the sinking were finally rescued  after 4-5 days in shark-infested waters.  
 
 
 

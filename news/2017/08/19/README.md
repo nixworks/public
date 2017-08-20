@@ -15,8 +15,8 @@ An earthquake of 6.4 magnitude struck 500 km (310 miles) west of the Pacific isl
 ### [A train derails near Muzaffarnagar, Uttar Pradesh, India, resulting in at least 20 deaths and 120 injuries. The death toll is expected to rise further. ](/news/2017/08/19/a-train-derails-near-muzaffarnagar-uttar-pradesh-india-resulting-in-at-least-20-deaths-and-120-injuries-the-death-toll-is-expected-to-ri.md)
 A train came off the tracks in Uttar Pradesh on Saturday, killing at least 10 people and wounding more than 100 as carriages slammed into each other, the local chief medical officer said.
 
-### [The wreckage of the USS Indianapolis warship, torpedoed by the Imperial Japanese Navy submarine I-58 and sunk in 1945 after delivering parts for the Little Boy atomic weapon, is discovered on the floor of the North Pacific Ocean. Only 317 of the U.S. Sailors/Marines who survived the sinking were finally rescued  after  4/5 days in shark-infested waters.  ](/news/2017/08/19/the-wreckage-of-the-uss-indianapolis-warship-torpedoed-by-the-imperial-japanese-navy-submarine-i-58-and-sunk-in-1945-after-delivering-parts.md)
-_Context: I-58, Little Boy, Marines, Pacific Ocean, Sailor, USS Indianapolis, warship_
+### [The wreckage of the USS Indianapolis warship, torpedoed by the Imperial Japanese Navy submarine I-58 and sunk in 1945 after delivering parts for the Little Boy atomic weapon, is discovered on the floor of the North Pacific Ocean. Only 317 of the U.S. Sailors/Marines who survived the sinking were finally rescued  after 4-5 days in shark-infested waters.  ](/news/2017/08/19/the-wreckage-of-the-uss-indianapolis-warship-torpedoed-by-the-imperial-japanese-navy-submarine-i-58-and-sunk-in-1945-after-delivering-parts.md)
+_Context: I-58, Little Boy, Marines, Pacific Ocean, Sailor, US Navy losses in World War II, USS Indianapolis, warship_
 
 ### [Australian Senator Nick Xenophon is discovered to hold dual citizenship with Britain. ](/news/2017/08/19/australian-senator-nick-xenophon-is-discovered-to-hold-dual-citizenship-with-britain.md)
 _Context: 2017 Australian constitutional crisis, Nick Xenophon_
