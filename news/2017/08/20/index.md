@@ -12,11 +12,11 @@ Once Hollywood&#x27;s most bankable star, Lewis fronted more than 50 movies, fro
 ### [An explosion at a South Korean shipyard owned by STX Offshore & Shipbuilding kills four workers. ](/news/2017/08/20/an-explosion-at-a-south-korean-shipyard-owned-by-stx-offshore-shipbuilding-kills-four-workers.md)
 _Context: STX Offshore & Shipbuilding, South Korea_
 
-### [The Philippine Catholic Church condemns the killings in the Philippines after anger erupts due to the death of 17-year old Kian Loyd delos Santos.](/news/2017/08/20/the-philippine-catholic-church-condemns-the-killings-in-the-philippines-after-anger-erupts-due-to-the-death-of-17-year-old-kian-loyd-delos-s.md)
-It comes as questions are raised over the killing of a teenager by police during a week of violence.
-
 ### [Iranian MPs approve 16 out of 17 cabinet members nominated by recently re-elected President Hassan Rouhani. ](/news/2017/08/20/iranian-mps-approve-16-out-of-17-cabinet-members-nominated-by-recently-re-elected-president-hassan-rouhani.md)
 Iranian lawmakers on Sunday approved 16 Cabinet members nominated by recently re-elected President Hassan Rouhani, including the first defense minister unaffiliated with the elite, hard-line Revolutionary Guard in 25 years.
+
+### [The director of the BBC World Service says it is prepared for the North Korean government's reaction over the targeted launch of a radio service on North Korea in September, despite the recent international tensions. The North Korean embassy in London has alrady told the BBC "in no uncertain terms" that Pyongyang does not want any such service. ](/news/2017/08/20/the-director-of-the-bbc-world-service-says-it-is-prepared-for-the-north-korean-government-s-reaction-over-the-targeted-launch-of-a-radio-ser.md)
+Director of BBC World Service says tensions over North Korea’s nuclear tests vindicate the launch of a targeted service
 
 ## [Previous Day...](/news/2017/08/19/index.md)
 
