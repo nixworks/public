@@ -6,7 +6,7 @@ Iraqi security forces launched on Sunday an offensive to take back the city of T
 ### [A rocket hits and injures several people at the Damascus International Fair. The Syrian Observatory for Human Rights says five people have died. ](/news/2017/08/20/a-rocket-hits-and-injures-several-people-at-the-damascus-international-fair-the-syrian-observatory-for-human-rights-says-five-people-have-d.md)
 The event is being held for the first time in five years. with reports speaking of five deaths.
 
-### [American comedian Jerry Lewis dies in Las Vegas, Nevada, at the age of 91. ](/news/2017/08/20/american-comedian-jerry-lewis-dies-in-las-vegas-nevada-at-the-age-of-91.md)
+### [American comedian and Muscular Dystrophy Association chairman Jerry Lewis dies in Las Vegas, Nevada, at the age of 91. ](/news/2017/08/20/american-comedian-and-muscular-dystrophy-association-chairman-jerry-lewis-dies-in-las-vegas-nevada-at-the-age-of-91.md)
 Once Hollywood&#x27;s most bankable star, Lewis fronted more than 50 movies, from the light Martin-and-Lewis fare of &quot;Artists and Models&quot; to Martin Scorsese&#x27;s darkly funny &quot;The King of Comedy.&quot;
 
 ### [An explosion at a South Korean shipyard owned by STX Offshore & Shipbuilding kills four workers. ](/news/2017/08/20/an-explosion-at-a-south-korean-shipyard-owned-by-stx-offshore-shipbuilding-kills-four-workers.md)
