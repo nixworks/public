@@ -1,6 +1,6 @@
 ## [2017-08-20](/news/2017/08/20/index.md)
 
-### [Iraqi security forces, along with Shi'ite volunteers and Kurdish Peshmerga fighters,  launch a ground offensive to take the city of shanas afar back from Islamic State of Iraq and the Levant militants. Tal Afar has been isolated from the rest of the ISIL-held territory since the recent Mosul liberation. ](/news/2017/08/20/iraqi-security-forces-along-with-shi-ite-volunteers-and-kurdish-peshmerga-fighters-launch-a-ground-offensive-to-take-the-city-of-shanas-a.md)
+### [Iraqi security forces, along with Shi'ite volunteers and Kurdish Peshmerga fighters,  launch a ground offensive to take the city of Tal Afar back from Islamic State of Iraq and the Levant militants. The city has been isolated from the rest of the ISIL-held territory since the recent Mosul liberation. ](/news/2017/08/20/iraqi-security-forces-along-with-shi-ite-volunteers-and-kurdish-peshmerga-fighters-launch-a-ground-offensive-to-take-the-city-of-tal-afar.md)
 Iraqi security forces launched on Sunday an offensive to take back the city of Tal Afar, their next objective in the U.S.-backed campaign to defeat Islamic State militants, Prime Minister Haider al-Abadi said.
 
 ### [A rocket hits and injures several people at the Damascus International Fair. The Syrian Observatory for Human Rights says five people have died. ](/news/2017/08/20/a-rocket-hits-and-injures-several-people-at-the-damascus-international-fair-the-syrian-observatory-for-human-rights-says-five-people-have-d.md)
