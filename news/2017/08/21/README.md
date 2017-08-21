@@ -6,5 +6,8 @@ Ten sailors are missing after a U.S. warship collided with an oil tanker east of
 ### [Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-through-north-america-it-is-the-fir.md)
 _Context: North America, Solar eclipse of August 21, 2017, United States, contiguous United States, solar eclipse of June 8, 1918, total solar eclipse_
 
+### [ Spanish Police hunting the chief suspect in last Thursday's Barcelona van attack have shot dead a man to the west of the city who appeared to be wearing an explosive belt. ](/news/2017/08/21/spanish-police-hunting-the-chief-suspect-in-last-thursday-s-barcelona-van-attack-have-shot-dead-a-man-to-the-west-of-the-city-who-appeared.md)
+Police hunting the chief suspect shoot a man in an area to the west of the city.
+
 ## [Previous Day...](/news/2017/08/20/index.md)
 
