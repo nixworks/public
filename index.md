@@ -15,7 +15,7 @@ _Context: EDSA, Philippine Catholic Church, Philippine Drug War, Philippines, dr
 ### [Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-through-north-america-it-is-the-fir.md)
 _Context: North America, Solar eclipse of August 21, 2017, United States, contiguous United States, solar eclipse of June 8, 1918, total solar eclipse_
 
-### [The famed clock tower chimes for the final time until 2021 while undergoing repairs.](/news/2017/08/21/the-famed-clock-tower-chimes-for-the-final-time-until-2021-while-undergoing-repairs.md)
+### [The famed clock tower chimes for the final time until 2021 while undergoing repairs. ](/news/2017/08/21/the-famed-clock-tower-chimes-for-the-final-time-until-2021-while-undergoing-repairs.md)
 _Context: 2021, Big Ben_
 
 ## Opinion
@@ -66,8 +66,8 @@ An earthquake of 6.4 magnitude struck 500 km (310 miles) west of the Pacific isl
 ### [A train derails near Muzaffarnagar, Uttar Pradesh, India, resulting in at least 20 deaths and 120 injuries. The death toll is expected to rise further. ](/news/2017/08/19/a-train-derails-near-muzaffarnagar-uttar-pradesh-india-resulting-in-at-least-20-deaths-and-120-injuries-the-death-toll-is-expected-to-ri.md)
 A train came off the tracks in Uttar Pradesh on Saturday, killing at least 10 people and wounding more than 100 as carriages slammed into each other, the local chief medical officer said.
 
-### [The wreckage of the Indianapolis|CA-35|6 warship, torpedoed by the Imperial Japanese Navy submarine I-58 and sunk in 1945 after delivering parts for the Little Boy atomic weapon, is discovered on the floor of the North Pacific Ocean. Only 317 of the U.S. Sailors/Marines who survived the sinking were finally rescued  after 4-5 days in shark-infested waters.  ](/news/2017/08/19/the-wreckage-of-the-indianapolis-ca-35-6-warship-torpedoed-by-the-imperial-japanese-navy-submarine-i-58-and-sunk-in-1945-after-delivering-p.md)
-_Context: I-58, Little Boy, Marines, Pacific Ocean, Sailor, US Navy losses in World War II, warship_
+### [The wreckage of the Indianapolis|CA-35|6 heavy cruiser, torpedoed by the Imperial Japanese Navy submarine I-58 and sunk in 1945 after delivering parts for the Little Boy atomic weapon, is discovered on the floor of the North Pacific Ocean. Only 317 of the U.S. Sailors/Marines who survived the sinking were finally rescued  after 4-5 days in shark-infested waters.  ](/news/2017/08/19/the-wreckage-of-the-indianapolis-ca-35-6-heavy-cruiser-torpedoed-by-the-imperial-japanese-navy-submarine-i-58-and-sunk-in-1945-after-delive.md)
+_Context: I-58, Little Boy, Marines, Pacific Ocean, Sailor, US Navy losses in World War II, heavy cruiser_
 
 ### [Australian Senator Nick Xenophon is discovered to hold dual citizenship with Britain. ](/news/2017/08/19/australian-senator-nick-xenophon-is-discovered-to-hold-dual-citizenship-with-britain.md)
 _Context: 2017 Australian constitutional crisis, Nick Xenophon_

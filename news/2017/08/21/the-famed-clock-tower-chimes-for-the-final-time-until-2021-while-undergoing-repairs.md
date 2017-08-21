@@ -1,6 +1,6 @@
 ### [2017-08-21](/news/2017/08/21/index.md)
 
-# The famed clock tower chimes for the final time until 2021 while undergoing repairs.
+# The famed clock tower chimes for the final time until 2021 while undergoing repairs. 
 
 
 
