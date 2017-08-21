@@ -1,7 +1,7 @@
 ## [News](/news/2017/08/21/index.md)
 
-### [The United States Navy's USS ''John S. McCain'' collides with a merchant vessel near Singapore. Rescue efforts are underway. ](/news/2017/08/21/the-united-states-navy-s-uss-john-s-mccain-collides-with-a-merchant-vessel-near-singapore-rescue-efforts-are-underway.md)
-The guided-missile destroyer USS John S. McCain was involved in a collision with a merchant vessel east of Singapore and the Strait of Malacca, the Navy said in a tweet.
+### [The United States Navy's USS ''John S. McCain'' collides with a merchant vessel near Singapore. Rescue efforts are underway with ten sailors reported as missing. ](/news/2017/08/21/the-united-states-navy-s-uss-john-s-mccain-collides-with-a-merchant-vessel-near-singapore-rescue-efforts-are-underway-with-ten-sailors.md)
+Ten sailors are missing after a U.S. warship collided with an oil tanker east of Singapore on Monday, the U.S. Navy said, the second accident involving U.S. Navy destroyers in Asian waters in little more than two months.
 
 ### [Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-through-north-america-it-is-the-fir.md)
 _Context: North America, Solar eclipse of August 21, 2017, United States, contiguous United States, solar eclipse of June 8, 1918, total solar eclipse_
@@ -26,10 +26,10 @@ Once Hollywood&#x27;s most bankable star, Lewis fronted more than 50 movies, fro
 ### [An explosion at a South Korean shipyard owned by STX Offshore & Shipbuilding kills four workers. ](/news/2017/08/20/an-explosion-at-a-south-korean-shipyard-owned-by-stx-offshore-shipbuilding-kills-four-workers.md)
 _Context: STX Offshore & Shipbuilding, South Korea_
 
-### [The Philippine Catholic Church condemns the killings in the Philippines after anger erupts due to the death of a 17-year old male student. ](/news/2017/08/20/the-philippine-catholic-church-condemns-the-killings-in-the-philippines-after-anger-erupts-due-to-the-death-of-a-17-year-old-male-student.md)
+### [The Philippine Catholic Church condemns the killings in the Philippines after anger erupts due to the death of 17-year old Kian Loyd delos Santos.](/news/2017/08/20/the-philippine-catholic-church-condemns-the-killings-in-the-philippines-after-anger-erupts-due-to-the-death-of-17-year-old-kian-loyd-delos-s.md)
 It comes as questions are raised over the killing of a teenager by police during a week of violence.
 
-### [Iranian MPs approves 16 out of 17 cabinet members nominated by recently re-elected President Hassan Rouhani. ](/news/2017/08/20/iranian-mps-approves-16-out-of-17-cabinet-members-nominated-by-recently-re-elected-president-hassan-rouhani.md)
+### [Iranian MPs approve 16 out of 17 cabinet members nominated by recently re-elected President Hassan Rouhani. ](/news/2017/08/20/iranian-mps-approve-16-out-of-17-cabinet-members-nominated-by-recently-re-elected-president-hassan-rouhani.md)
 Iranian lawmakers on Sunday approved 16 Cabinet members nominated by recently re-elected President Hassan Rouhani, including the first defense minister unaffiliated with the elite, hard-line Revolutionary Guard in 25 years.
 
 ---
