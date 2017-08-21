@@ -11,7 +11,7 @@ Many of the casualties were reported from the Terai region bordering India, whic
 
 ### Related:
 
-1. [Flooding in South Asia has displaced tens of thousands of people and resulted in an estimated 500 deaths across India, Bangladesh, and Nepal. ](/news/2017/08/18/flooding-in-south-asia-has-displaced-tens-of-thousands-of-people-and-resulted-in-an-estimated-500-deaths-across-india-bangladesh-and-nepal.md) _Context: Nepal_
+1. [Flooding in South Asia has displaced tens of thousands of people and resulted in an estimated 500 deaths across India, Bangladesh, and Nepal. ](/news/2017/08/18/flooding-in-south-asia-has-displaced-tens-of-thousands-of-people-and-resulted-in-an-estimated-500-deaths-across-india-bangladesh-and-nepal.md) _Context: August 2017 Nepal and India floods, Nepal_
 2. [At least 44 are killed in a landslide on a highway in the northern India province of Himachal Pradesh. ](/news/2017/08/13/at-least-44-are-killed-in-a-landslide-on-a-highway-in-the-northern-india-province-of-himachal-pradesh.md) _Context: August 2017 Nepal and India floods_
 3. [In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military-exercises-focusing-on-co.md) _Context: Nepal_
 4. [The government of Nepal proposes to amend the constitution to make it more inclusive. ](/news/2016/11/30/the-government-of-nepal-proposes-to-amend-the-constitution-to-make-it-more-inclusive.md) _Context: Nepal_

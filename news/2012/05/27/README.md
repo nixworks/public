@@ -25,7 +25,7 @@ _Context: Enda Kenny, European Fiscal Compact, Irish referendum_
 _Context: Saakashvili, Tbilisi_
 
 ### [The new season of the Parliament of Iran is opened. ](/news/2012/05/27/the-new-season-of-the-parliament-of-iran-is-opened.md)
-_Context: parliament_
+_Context: MPs_
 
 ## [Previous Day...](/news/2012/05/26/index.md)
 

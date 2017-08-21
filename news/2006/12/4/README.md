@@ -16,7 +16,7 @@ _Context: Brussels, Kazakhstan, London, Nursultan Nazarbayev's, OSCE, Tony Blair
 _Context: Gloria Arroyo, President of the Philippines, Typhoon Durian_
 
 ### [ A US Marine is jailed for raping a woman at Subic Bay after joint exercises with the Philippines. Three other Marines were acquitted in a case which caused anti-American protests. ](/news/2006/12/4/a-us-marine-is-jailed-for-raping-a-woman-at-subic-bay-after-joint-exercises-with-the-philippines-three-other-marines-were-acquitted-in-a-c.md)
-_Context: Philippines, Subic Bay, U.S. Marine Corps, anti-American_
+_Context: Marines, Philippines, Subic Bay, anti-American_
 
 ### [ Kevin Rudd is elected as the new leader of the Federal Australian Labor Party with the caucus electing him by 49 votes to 39 votes for Kim Beazley. Julia Gillard is the new deputy leader. ](/news/2006/12/4/kevin-rudd-is-elected-as-the-new-leader-of-the-federal-australian-labor-party-with-the-caucus-electing-him-by-49-votes-to-39-votes-for-kim.md)
 _Context: Julia Gillard, Kevin Rudd, Kim Beazley, Labor Party, caucus, leader_

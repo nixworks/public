@@ -19,7 +19,7 @@ The so-called Islamic State group says it is responsible for decapitating a seni
 _Context: Afghanistan's, European migrant crisis, Greek, Macedonian_
 
 ### [Germany is considering sending troops to Tunisia to help train the Tunisian Army in the fight against Islamist militants, particularly ISIL who control territory in neighboring Libya. ](/news/2016/02/21/germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-against-islamist-militants-particularly-isil.md)
-_Context: Germany, ISIL, Insurgency in the Maghreb (2002-present), Libya, Tunisia, army, radical Islamists_
+_Context: Germany, Insurgency in the Maghreb (2002-present), Islamic State of Iraq and the Levant, Libya, Tunisia, army, radical Islamists_
 
 ### [U.S. Secretary of State John Kerry says  a tentative  ceasefire agreement  reached with Russian Foreign Minister Sergey Lavrov  is now being presented  to the opposing forces. ](/news/2016/02/21/u-s-secretary-of-state-john-kerry-says-a-tentative-ceasefire-agreement-reached-with-russian-foreign-minister-sergey-lavrov-is-now-being.md)
 Explosions rip through Homs and Damascus suburb as world leaders attempt to get all warring parties to end hostilities for a bit

@@ -31,7 +31,7 @@ The Moors Murderer Ian Brady has died at a high security psychiatric hospital in
 _Context: Culiacn, Javier Valdez Crdenas, Mexican Drug War, Mexico, Sinaloa_
 
 ### [Tehran Mayor Mohammad Bagher Ghalibaf withdraws his candidacy. ](/news/2017/05/15/tehran-mayor-mohammad-bagher-ghalibaf-withdraws-his-candidacy.md)
-_Context: Iranian presidential election, 2017, Mohammad-Bagher Ghalibaf, candidacy_
+_Context: Mohammad-Bagher Ghalibaf, candidacy, re-elected_
 
 ## [Previous Day...](/news/2017/05/14/index.md)
 

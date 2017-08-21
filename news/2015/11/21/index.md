@@ -46,7 +46,7 @@ _Context: American Journal of Epidemiology, Columbus, Nationwide Children's Hosp
 Japanese Prime Minister Shinzo Abe told President Barack Obama he’ll consider sending the country’s maritime forces to back up U.S. operations in the South China Sea.
 
 ### [Malaysian Prime Minister Najib Razak denounces the Islamic State of Iraq and the Levant as an "evil" terrorist group. He said his Muslim-majority country is ready to join others to defeat it, cautioning that a military solution alone is not enough and that it is also necessary to vanquish the ideology of the group. ](/news/2015/11/21/malaysian-prime-minister-najib-razak-denounces-the-islamic-state-of-iraq-and-the-levant-as-an-evil-terrorist-group-he-said-his-muslim-maj.md)
-_Context: ISIL, Malaysian Prime Minister, Muslim-majority country, Najib Razak, Reactions to the November 2015 Paris attacks, ideology_
+_Context: Islamic State of Iraq and the Levant, Malaysian Prime Minister, Muslim-majority country, Najib Razak, Reactions to the November 2015 Paris attacks, ideology_
 
 ### [A student, whose disappearance with a gun caused the precautionary closing of Washington College in Maryland (U.S.) this week, is found dead in Pennsylvania  of a self-inflicted gunshot wound. The campus will reopen after Thanksgiving. ](/news/2015/11/21/a-student-whose-disappearance-with-a-gun-caused-the-precautionary-closing-of-washington-college-in-maryland-u-s-this-week-is-found-dead.md)
 Please stay tuned to washcoll.edu/updates for information as it becomes available.

@@ -7,7 +7,7 @@ _Context: Afghanistan's, Helmand Province, United States Army, War in Afghanista
 _Context: Ahmadiyya, Mandi Bahauddin, Pakistan, Punjab, Salah, mosque_
 
 ### [ Conflict in Iraq: At least twenty-nine Iraqi fighters and six U.S. Marines are killed in major fighting in western Iraq. ](/news/2005/10/7/conflict-in-iraq-p-at-least-twenty-nine-iraqi-fighters-and-six-u-s-marines-are-killed-in-major-fighting-in-western-iraq.md)
-_Context: Conflict in Iraq, Iraq, U.S. Marine Corps_
+_Context: Conflict in Iraq, Iraq, Marines_
 
 ### [ The UN International Atomic Energy Agency and its Director General Mohamed ElBaradei share the 2005 Nobel Peace Prize for their efforts to limit the spread of atomic weapons. ](/news/2005/10/7/the-un-international-atomic-energy-agency-and-its-director-general-mohamed-elbaradei-share-the-2005-nobel-peace-prize-for-their-efforts-to.md)
 _Context: International Atomic Energy Agency, Mohamed ElBaradei, Nobel Peace Prize, United Nations, nuclear warheads_

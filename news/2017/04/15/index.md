@@ -19,7 +19,7 @@ State television says 20 people still missing after flash floods triggered by he
 _Context: 2016 campaign rally, Clinton v. Jones, Donald Trump, Legal affairs of Donald Trump, Louisville, Kentucky, U.S. Supreme Court, case, incitement to riot, negligence, president_
 
 ### [Tehran Mayor Mohammad-Bagher Ghalibaf and First Vice President Eshaq Jahangiri submit their candidacies as registration closes. The final list of approved candidates will be announced on April 27. ](/news/2017/04/15/tehran-mayor-mohammad-bagher-ghalibaf-and-first-vice-president-eshaq-jahangiri-submit-their-candidacies-as-registration-closes-the-final-li.md)
-_Context: Eshaq Jahangiri, First Vice President, Iranian presidential election, 2017, Mayor of Tehran, Mohammad-Bagher Ghalibaf, Tehran_
+_Context: Eshaq Jahangiri, First Vice President, Mayor of Tehran, Mohammad-Bagher Ghalibaf, Tehran, re-elected_
 
 ### [ United States Vice President Mike Pence visits Alaska, where he meets with Governor Bill Walker and discusses stationing F-35 squadrons in the state. Pence is beginning a 10-day trip to South Korea, Australia, Indonesia and Japan. ](/news/2017/04/15/united-states-vice-president-mike-pence-visits-alaska-where-he-meets-with-governor-bill-walker-and-discusses-stationing-f-35-squadrons-in.md)
 _Context: Alaska, Australia, Bill Walker, F-35, Indonesia, Japan, Mike Pence, South Korea_

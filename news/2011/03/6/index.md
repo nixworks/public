@@ -28,7 +28,7 @@ _Context: Bay of Bengal, India_
 _Context: Bradley Manning, Washington Post, whistleblower_
 
 ### [United States Navy commandos from the destroyer USS ''Bulkeley'' capture four Somali pirates who boarded the Japanese oil tanker, the MV Guanabara. ](/news/2011/03/6/united-states-navy-commandos-from-the-destroyer-uss-bulkeley-capture-four-somali-pirates-who-boarded-the-japanese-oil-tanker-the-mv-gua.md)
-_Context: Japan, MV Guanabara, Somali pirates, US Navy, USS ''Bulkeley'', commando, destroyer, oil tanker_
+_Context: Japan, MV Guanabara, Somali pirates, USS ''Bulkeley'', United States Navy, commando, destroyer, oil tanker_
 
 ### [Hamid Karzai, the President of Afghanistan, warns General David Petraeus the head of United States and NATO forces in Afghanistan that civilian casualties in the Afghanistan war and rejects an apology for the mistaken killings of nine boys in a NATO air attack. ](/news/2011/03/6/hamid-karzai-the-president-of-afghanistan-warns-general-david-petraeus-the-head-of-united-states-and-nato-forces-in-afghanistan-that-civil.md)
 _Context: Afghanistan President, Afghanistan's, David Petraeus, General, Hamid Karzai, NATO, United States military, War in Afghanistan (2001-present)_

@@ -34,7 +34,7 @@ _Context: British people, Somali pirates, Somalia, U.S._
 _Context: Indonesia, Saudi Arabia, beheading_
 
 ### [Members of the Parliament of Iran sign a scroll to impeach Foreign Minister Ali Akbar Salehi following the appointment of Mohammad Sharif Malekzadeh as deputy foreign minister.](/news/2011/06/19/members-of-the-parliament-of-iran-sign-a-scroll-to-impeach-foreign-minister-ali-akbar-salehi-following-the-appointment-of-mohammad-sharif-ma.md)
-_Context: Ali Akbar Salehi, Foreign Minister, Foreign Minister, Mohammad Sharif Malekzadeh, parliament_
+_Context: Ali Akbar Salehi, Foreign Minister, Foreign Minister, MPs, Mohammad Sharif Malekzadeh_
 
 ### [The Somali Prime Minister, Mohamed Abdullahi Farmajo, resigns. ](/news/2011/06/19/the-somali-prime-minister-mohamed-abdullahi-farmajo-resigns.md)
 _Context: Mohamed Abdullahi Farmajo, Prime Minister of Somalia, Somalia_

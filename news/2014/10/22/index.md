@@ -7,7 +7,7 @@ Sweden could use weapons in the search for a suspected foreign submarine near th
 Martin Couture Rouleau shot dead by Quebec police after driving his car into two soldiers in act ‘linked to terrorist ideology’
 
 ### [The Syrian Air Force claims to have shot down two of the three fighter jets operated by ISIL in northern Syria. ](/news/2014/10/22/the-syrian-air-force-claims-to-have-shot-down-two-of-the-three-fighter-jets-operated-by-isil-in-northern-syria.md)
-_Context: ISIL, Syria, Syrian Air Force_
+_Context: Islamic State of Iraq and the Levant, Syria, Syrian Air Force_
 
 ### [The United States Centers for Disease Control and Prevention announces that there will be a 21-day monitoring period for all travelers from Liberia, Sierra Leone and Guinea. ](/news/2014/10/22/the-united-states-centers-for-disease-control-and-prevention-announces-that-there-will-be-a-21-day-monitoring-period-for-all-travelers-from.md)
 The Centers for Disease Control and Prevention on Wednesday announced that all travelers arriving in the U.S. from the three Ebola-stricken African countries will be subject to a 21-day monitoring program.

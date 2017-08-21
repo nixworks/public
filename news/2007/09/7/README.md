@@ -22,7 +22,7 @@ _Context: Naval Air Station Oceana, Virginia Beach, World War II, stunt plane_
 _Context: Levy Mwanawasa, President, President of Zimbabwe, Robert Mugabe, Southern African Development Community_
 
 ### [ United States District Court judge Royce Lamberth orders Iran to pay $2.6 billion to victims and families in the 1983 Hezbollah bombing of a United States Marine Corps barracks in Lebanon that claimed 241 American lives. ](/news/2007/09/7/united-states-district-court-judge-royce-lamberth-orders-iran-to-pay-2-6-billion-to-victims-and-families-in-the-1983-hezbollah-bombing-of.md)
-_Context: Hezbollah, Iran, Lebanon, Royce Lamberth, U.S. District Court for the District of Columbia, U.S. Marine Corps, US$, bomb_
+_Context: Hezbollah, Iran, Lebanon, Marines, Royce Lamberth, U.S. District Court for the District of Columbia, US$, bomb_
 
 ### [ The Roman Catholic Diocese of San Diego agrees to pay $198.1 million to settle 144 claims of sexual abuse by clergy. ](/news/2007/09/7/the-roman-catholic-diocese-of-san-diego-agrees-to-pay-198-1-million-to-settle-144-claims-of-sexual-abuse-by-clergy.md)
 _Context: Roman Catholic Diocese of San Diego, US$, sexual abuse_

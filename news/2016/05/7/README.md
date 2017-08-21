@@ -22,7 +22,7 @@ The by-election is being contested by Singapore Democratic Party chief Dr Chee S
 _Context: 2016 U.S. presidential election, Democratic Party presidential primaries, 2016, Guam, United States presidential election in Guam, 2016, caucus_
 
 ### [Iran's elected Parliament member from Maragheh and Ajabshir district, Mohammad-Ali Hosseinzadeh, dies in a car crash in Zanjan. He was set to take office on 28 May. ](/news/2016/05/7/iran-s-elected-parliament-member-from-maragheh-and-ajabshir-district-mohammad-ali-hosseinzadeh-dies-in-a-car-crash-in-zanjan-he-was-set-t.md)
-_Context: Iranian legislative election, 2016, Maragheh and Ajabshir, Mohammad-Ali Hosseinzadeh, Zanjan, parliament_
+_Context: Iranian legislative election, 2016, MPs, Maragheh and Ajabshir, Mohammad-Ali Hosseinzadeh, Zanjan_
 
 ## [Previous Day...](/news/2016/05/6/index.md)
 

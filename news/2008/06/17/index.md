@@ -13,7 +13,7 @@ The Boston Celtics have beaten the LA Lakers 131-92 in game six of the NBA final
 _Context: 1966, Charles de Gaulle, France, NATO, Nicolas Sarkozy, President of France_
 
 ### [ Iraq: A military judge dismisses charges against a United States Marine Corps colonel of failing to investigate the Haditha killings. ](/news/2008/06/17/iraq-p-a-military-judge-dismisses-charges-against-a-united-states-marine-corps-colonel-of-failing-to-investigate-the-haditha-killings.md)
-_Context: Haditha killings, Iraq, U.S. Marine Corps, military judge_
+_Context: Haditha killings, Iraq, Marines, military judge_
 
 ### [ In its annual report, the UNHCR says the number of refugees in the world rose to 11.4 million in 2007 from 9.9m in 2006. ](/news/2008/06/17/in-its-annual-report-the-unhcr-says-the-number-of-refugees-in-the-world-rose-to-11-4-million-in-2007-from-9-9m-in-2006.md)
 _Context: UNHCR, refugee_

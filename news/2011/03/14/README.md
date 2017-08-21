@@ -43,7 +43,7 @@ Chinese Premier Wen Jiabao said his country will undertake a &quot;step by step&
 _Context: Australia, Christmas Island, Christmas Island Immigration Detention Centre, asylum seeker, tear gas_
 
 ### [Five Somali pirates are sentenced to life in a United States prison plus 80 years for an attack on the United States Navy frigate USS Nicholas. ](/news/2011/03/14/five-somali-pirates-are-sentenced-to-life-in-a-united-states-prison-plus-80-years-for-an-attack-on-the-united-states-navy-frigate-uss-nichol.md)
-_Context: Somali pirates, US Navy, USS Nicholas, United States, frigate_
+_Context: Somali pirates, USS Nicholas, United States, United States Navy, frigate_
 
 ### [The 14th Dalai Lama formally submits his resignation as Tibet's political leader to the Tibetan Parliament-in-exile in Dharamsala, India. ](/news/2011/03/14/the-14th-dalai-lama-formally-submits-his-resignation-as-tibet-s-political-leader-to-the-tibetan-parliament-in-exile-in-dharamsala-india.md)
 _Context: 14th Dalai Lama, Dharamsala, India, Tibet, exiled Tibetan parliament_

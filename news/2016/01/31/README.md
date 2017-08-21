@@ -7,7 +7,7 @@ At least 100 people were killed and over hundred others injured when the Boko Ha
 The explosions occurred as representatives of Syria&#x27;s government and its divided opposition began convening in Geneva for U.N.-mediated peace talks.
 
 ### [Yemen's top salafist cleric, Samahan Abdel-Aziz, is found dead, with signs of torture, in Sheikh Othman, Aden Governorate, after being abducted by gunmen outside his mosque after delivering a sermon against Al-Qaeda and the Islamic State. ](/news/2016/01/31/yemen-s-top-salafist-cleric-samahan-abdel-aziz-is-found-dead-with-signs-of-torture-in-sheikh-othman-aden-governorate-after-being-abduc.md)
-_Context: Aden Governorate, ISIL, Sheikh Othman, Yemen, Yemeni conflict, al-Qaeda, salafist_
+_Context: Aden Governorate, Islamic State of Iraq and the Levant, Sheikh Othman, Yemen, Yemeni conflict, al-Qaeda, salafist_
 
 ### [Tropical Cyclone Stan makes landfall on the Western Australian coast east of Pardoo. ](/news/2016/01/31/tropical-cyclone-stan-makes-landfall-on-the-western-australian-coast-east-of-pardoo.md)
 Cyclone Stan is starting to weaken as it moves over WA&#039;s Pilbara but locals are still urged to take shelter due to the system&#039;s strong winds and potential flash flooding.

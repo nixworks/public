@@ -13,7 +13,7 @@
 
 ### Related:
 
-1. [A landslide in a village along Lake Albert in the Democratic Republic of the Congo leaves at least 60 dead. ](/news/2017/08/18/a-landslide-in-a-village-along-lake-albert-in-the-democratic-republic-of-the-congo-leaves-at-least-60-dead.md) _Context: Democratic Republic of the Congo_
+1. [A landslide in a village along Lake Albert in the Democratic Republic of the Congo leaves at least 60 dead. ](/news/2017/08/16/a-landslide-in-a-village-along-lake-albert-in-the-democratic-republic-of-the-congo-leaves-at-least-60-dead.md) _Context: Democratic Republic of the Congo_
 2. [Voters in the Republic of the Congo return to the polls for the second round of an election for 139 National Assembly members, after the governing Congolese Party of Labour won 70 seats in the first round two weeks earlier. ](/news/2017/07/30/voters-in-the-republic-of-the-congo-return-to-the-polls-for-the-second-round-of-an-election-for-139-national-assembly-members-after-the-gov.md) _Context: Republic of the Congo_
 3. [Voters in the Republic of the Congo participate in the first round of an election of National Assembly members. ](/news/2017/07/16/voters-in-the-republic-of-the-congo-participate-in-the-first-round-of-an-election-of-national-assembly-members.md) _Context: Republic of the Congo_
 4. [Bundu dia Kongo followers free their leader and 50 other inmates with an attack on the Makala jail of Kinshasa, Democratic Republic of the Congo. ](/news/2017/05/17/bundu-dia-kongo-followers-free-their-leader-and-50-other-inmates-with-an-attack-on-the-makala-jail-of-kinshasa-democratic-republic-of-the-c.md) _Context: Democratic Republic of the Congo_

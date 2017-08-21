@@ -4,7 +4,7 @@
 Taliban fighters drove through checkpoints dressed in army uniforms before launching the attack.
 
 ### [Two people are killed in an attack in a Federal Security Service office in the Russian city of Khabarovsk. The gunman is also killed. The US-Israeli SITE Intelligence Group says Amaq News Agency claims the attack for Islamic State of Iraq and the Levant. The Russian Federal Security Service says the native 18-year-old perpetrator was a known member of a neo-nazi group. ](/news/2017/04/21/two-people-are-killed-in-an-attack-in-a-federal-security-service-office-in-the-russian-city-of-khabarovsk-the-gunman-is-also-killed-the-us.md)
-_Context: Amaq News Agency, Federal Security Service, ISIL, Khabarovsk, Russia, SITE Intelligence Group, neo-nazi_
+_Context: Amaq News Agency, Federal Security Service, Islamic State of Iraq and the Levant, Khabarovsk, Russia, SITE Intelligence Group, neo-nazi_
 
 ### [Queen Elizabeth II celebrates her 91st birthday. ](/news/2017/04/21/queen-elizabeth-ii-celebrates-her-91st-birthday.md)
 The monarch marks the milestone at Newbury Racecourse, while volleys are fired in her honour.
@@ -31,7 +31,7 @@ With the motives of the Champs-Elys&eacute;es gunman considered terror-related, 
 The death toll in three weeks of violence at anti-government protests in Venezuela jumped to 20 people after a night of clashes and pillaging left 12 people dead in Caracas. Riot police and pro-government vigilantes fought running battles with protesters demanding the ouster of President Nicolas Maduro
 
 ### [The six approved candidates, including the incumbent Hassan Rouhani, begin campaigning. ](/news/2017/04/21/the-six-approved-candidates-including-the-incumbent-hassan-rouhani-begin-campaigning.md)
-_Context: Hassan Rouhani, Iranian presidential election, 2017_
+_Context: Hassan Rouhani, re-elected_
 
 ### [The White House dismisses U.S. Surgeon General Vivek Murthy in its continuing transition from the prior presidential administration.  The current Deputy Surgeon General, Rear Admiral Sylvia Trent-Adams, will serve as the acting SG. ](/news/2017/04/21/the-white-house-dismisses-u-s-surgeon-general-vivek-murthy-in-its-continuing-transition-from-the-prior-presidential-administration-the-cu.md)
 _Context: Presidency of Donald Trump, Sylvia Trent-Adams, U.S. Surgeon General, Vivek Murthy, White House_

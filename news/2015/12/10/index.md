@@ -7,7 +7,7 @@ It’s not just Obama’s critics in Congress who think he can’t defeat the Is
 Arab coalition forces have captured a Yemeni Red Sea archipelago used by Iran-allied Houthis for storing and smuggling weapons into Yemen, the Saudi-led alliance and local fishermen said on Thursday.
 
 ### [Swiss officials say police, based on a CIA tip, are hunting for at least four Islamic State-associated suspects believed to be plotting an attack in Geneva. ](/news/2015/12/10/swiss-officials-say-police-based-on-a-cia-tip-are-hunting-for-at-least-four-islamic-state-associated-suspects-believed-to-be-plotting-an-a.md)
-_Context: CIA, ISIL, Swiss authorities, Switzerland_
+_Context: CIA, Islamic State of Iraq and the Levant, Swiss authorities, Switzerland_
 
 ### [A United States Treasury official says ISIL has made over $500 million selling oil to Syrian President Bashar Assad's government, and has also sold oil to Turkey. ](/news/2015/12/10/a-united-states-treasury-official-says-isil-has-made-over-500-million-selling-oil-to-syrian-president-bashar-assadas-government-and-has.md)
 Adam Szubin, a senior U.S. Treasury official, said Thursday that ISIS also looted between $500 million and $1 billion from bank vaults captured in Iraq and Syria.

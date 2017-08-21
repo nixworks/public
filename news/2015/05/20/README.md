@@ -4,7 +4,7 @@
 Ancient Palmyra is home to 2,000-year-old monuments; Syrian antiquities chief says world must save site; Attack is part of Islamic State’s westward advance.
 
 ### [The Chinese navy issues warnings eight times as a United States Navy surveillance plane flies over manmade islands in the South China Sea. ](/news/2015/05/20/the-chinese-navy-issues-warnings-eight-times-as-a-united-states-navy-surveillance-plane-flies-over-manmade-islands-in-the-south-china-sea.md)
-_Context: People's Liberation Army Navy, South China Sea, US Navy_
+_Context: People's Liberation Army Navy, South China Sea, United States Navy_
 
 ### [Tools found near Lake Turkana in Kenya by Sonia Harmand and Jason Lewis of Stony Brook University are dated at 3.3 million years making them the oldest yet discovered. ](/news/2015/05/20/tools-found-near-lake-turkana-in-kenya-by-sonia-harmand-and-jason-lewis-of-stony-brook-university-are-dated-at-3-3-million-years-making-them.md)
 Get the latest science news and technology news, read tech reviews and more at ABC News.

@@ -22,7 +22,7 @@ At least seven killed and many injured after building in Indian city collapses a
 William Hague faced anger from MPs of all parties and civil liberties campaigners as he refused to be drawn on claims that Britons could have been spied on by GCHQ through a covert deal with the American security agencies.
 
 ### [Gholam-Ali Haddad-Adel, former Speaker of the Iranian parliament, withdraws his candidacy from the June 14 presidential election. ](/news/2013/06/10/gholam-ali-haddad-adel-former-speaker-of-the-iranian-parliament-withdraws-his-candidacy-from-the-june-14-presidential-election.md)
-_Context: Gholam-Ali Haddad-Adel, Speaker, parliament, presidential_
+_Context: Gholam-Ali Haddad-Adel, MPs, Speaker, presidential_
 
 ## [Previous Day...](/news/2013/06/9/index.md)
 

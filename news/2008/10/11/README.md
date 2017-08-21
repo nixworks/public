@@ -22,7 +22,7 @@ _Context: Chechnya, Russia, earthquake_
 _Context: 2008 Pacific hurricane season, Baja California, Hurricane Norbert, Mexico, Saffir-Simpson Hurricane Scale_
 
 ### [ Turkey bombs Kurdish military targets in northern Iraq. ](/news/2008/10/11/turkey-bombs-kurdish-military-targets-in-northern-iraq.md)
-_Context: Iraq, Iraqi Kurdistan, Peshmerga, Turkey_
+_Context: Iraq, Iraqi Kurdistan, Kurdish Peshmerga, Turkey_
 
 ### [ Malaysia's opposition leader Anwar Ibrahim says he expects to seize power by December by winning over defectors of the ruling Barisan Nasional government. ](/news/2008/10/11/malaysia-s-opposition-leader-anwar-ibrahim-says-he-expects-to-seize-power-by-december-by-winning-over-defectors-of-the-ruling-barisan-nasio.md)
 _Context: Anwar Ibrahim, Barisan Nasional, Malaysia, Opposition Leader, government_

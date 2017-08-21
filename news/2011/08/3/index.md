@@ -31,7 +31,7 @@ _Context: Heather Mills, Mirror Group, Newsnight, Paul McCartney, conspiracy to 
 _Context: Independent Parliamentary Standards Authority, MPs expenses_
 
 ### [The Iranian parliament confirms four new ministers including Rostam Ghasemi as Minister of Petroleum. ](/news/2011/08/3/the-iranian-parliament-confirms-four-new-ministers-including-rostam-ghasemi-as-minister-of-petroleum.md)
-_Context: Iran's oil ministry, Rostam Ghasemi, parliament_
+_Context: Iran's oil ministry, MPs, Rostam Ghasemi_
 
 ### [David Wu resigns his seat representing Oregon's 1st congressional district in the United States House of Representatives  as a result of a sex scandal. ](/news/2011/08/3/david-wu-resigns-his-seat-representing-oregon-s-1st-congressional-district-in-the-united-states-house-of-representatives-as-a-result-of-a-s.md)
 Rep. David Wu resigns. Now Gov. John Kitzhaber can pick a date for the replacement election. 

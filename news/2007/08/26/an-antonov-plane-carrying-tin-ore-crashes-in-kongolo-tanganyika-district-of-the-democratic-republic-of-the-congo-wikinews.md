@@ -7,7 +7,7 @@
 
 ### Related:
 
-1. [A landslide in a village along Lake Albert in the Democratic Republic of the Congo leaves at least 60 dead. ](/news/2017/08/18/a-landslide-in-a-village-along-lake-albert-in-the-democratic-republic-of-the-congo-leaves-at-least-60-dead.md) _Context: Democratic Republic of the Congo_
+1. [A landslide in a village along Lake Albert in the Democratic Republic of the Congo leaves at least 60 dead. ](/news/2017/08/16/a-landslide-in-a-village-along-lake-albert-in-the-democratic-republic-of-the-congo-leaves-at-least-60-dead.md) _Context: Democratic Republic of the Congo_
 2. [Bundu dia Kongo followers free their leader and 50 other inmates with an attack on the Makala jail of Kinshasa, Democratic Republic of the Congo. ](/news/2017/05/17/bundu-dia-kongo-followers-free-their-leader-and-50-other-inmates-with-an-attack-on-the-makala-jail-of-kinshasa-democratic-republic-of-the-c.md) _Context: Democratic Republic of the Congo_
 3. [At least 17 new mass graves are discovered  by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. ](/news/2017/04/19/at-least-17-new-mass-graves-are-discovered-by-united-nations-investigators-in-kasaa-central-democratic-republic-of-the-congo-mostly-arou.md) _Context: Democratic Republic of the Congo_
 4. [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md) _Context: Democratic Republic of the Congo_

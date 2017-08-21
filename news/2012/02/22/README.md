@@ -19,7 +19,7 @@ _Context: 2011 Christchurch earthquake, Christchurch, New Zealand_
 A commuter train crash at a station in the Argentine capital Buenos Aires kills at least 49 people and leaves more than 600 injured, officials say.
 
 ### [Seven US Marines die in a helicopter crash on the border of the states of California and Arizona. ](/news/2012/02/22/seven-us-marines-die-in-a-helicopter-crash-on-the-border-of-the-states-of-california-and-arizona.md)
-_Context: Arizona, California, U.S. Marine Corps, helicopter_
+_Context: Arizona, California, Marines, helicopter_
 
 ### [Azerbaijan's National Security Ministry says it has uncovered a terrorist plot aimed at Jewish targets organized by a non-state group linked to Iran's Revolutionary Guard and Lebanon's Hezbollah. ](/news/2012/02/22/azerbaijan-s-national-security-ministry-says-it-has-uncovered-a-terrorist-plot-aimed-at-jewish-targets-organized-by-a-non-state-group-linked.md)
 _Context: Azerbaijan, Hezbollah, Iran, Iranian Revolutionary guards, Lebanon_

@@ -10,7 +10,7 @@ A mass grave including the bodies of women and children has been uncovered in th
 Two guards were killed in an attempted attack on an oil field in eastern Libya by suspected Islamic State militants on Saturday, a guards spokesman said.
 
 ### [Iraqi security forces free a large number of prisoners from an underground ISIL-operated jail in the city of Hit. Malallah al-Obeidi, a local official in the Al Anbar Governorate, put the number of freed prisoners at around 1,500, saying most of them were civilians. ](/news/2016/04/2/iraqi-security-forces-free-a-large-number-of-prisoners-from-an-underground-isil-operated-jail-in-the-city-of-ha-t-malallah-al-obeidi-a-loc.md)
-_Context: Anbar province, Hit, Hit offensive (2016), ISIL, Iraq, Iraqi Civil War (2014-present)_
+_Context: Anbar province, Hit, Hit offensive (2016), Iraq, Iraqi Civil War (2014-present), Islamic State of Iraq and the Levant_
 
 ### [A bombing kills at least five Turkish soldiers and one special forces police officer in the southeastern city of Nusaybin, near the Syria-Turkey border. ](/news/2016/04/2/a-bombing-kills-at-least-five-turkish-soldiers-and-one-special-forces-police-officer-in-the-southeastern-city-of-nusaybin-near-the-syriaa.md)
 Five soldiers and one special forces police officer have been killed in a bomb attack in south-eastern Turkey blamed on Kurdish rebels, reports say.

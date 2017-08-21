@@ -70,7 +70,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 Protest organisers asked to appear in court on Tuesday, when they had planned to attend mass opposition rally in Moscow.
 
 ### [Ali Larijani is sworn in as Chairman of the Parliament of Iran for another term. ](/news/2012/06/11/ali-larijani-is-sworn-in-as-chairman-of-the-parliament-of-iran-for-another-term.md)
-_Context: Ali Larijani, Speaker, parliament_
+_Context: Ali Larijani, MPs, Speaker_
 
 ### [The European Extremely Large Telescope is given the go-ahead by member states of the European Southern Observatory organisation.  ](/news/2012/06/11/the-european-extremely-large-telescope-is-given-the-go-ahead-by-member-states-of-the-european-southern-observatory-organisation.md)
 _Context: European Extremely Large Telescope, European Southern Observatory_

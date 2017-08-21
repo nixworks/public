@@ -31,7 +31,7 @@ _Context: Prince, autopsy, fentanyl, heroin, opioid, overdose_
 _Context: 2016 UCLA shooting, Minnesota, UCLA, code, mechanical engineering_
 
 ### [Four Syrians who are suspected of traveling to Europe on behalf of the Islamic State to attack Dusseldorf are arrested. ](/news/2016/06/2/four-syrians-who-are-suspected-of-traveling-to-europe-on-behalf-of-the-islamic-state-to-attack-da1-4sseldorf-are-arrested.md)
-_Context: Dusseldorf, Europe, ISIL, Syrians_
+_Context: Dusseldorf, Europe, Islamic State of Iraq and the Levant, Syrians_
 
 ### [ 24 people are killed and 368 arrested in the Indian city of Mathura as police attempt to clear members of a squatter group from land they are occupying. ](/news/2016/06/2/24-people-are-killed-and-368-arrested-in-the-indian-city-of-mathura-as-police-attempt-to-clear-members-of-a-squatter-group-from-land-they-a.md)
 Mathura clashes: 24 killed, 368 arrested in violence - The clashes took place when police went to evict the members of Azad Bharat Vidhik Vaicharik Kranti Satyagrahi, which has made outlandish demands for the removal of the President and Prime Minister and replacing of the Indian currency.

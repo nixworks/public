@@ -1,7 +1,7 @@
 ## [2015-02-4](/news/2015/02/4/index.md)
 
 ### [Jordan executes convicted Iraqi terrorists Sajida al-Rishawi and Ziad al-Karbouli in response to the execution by ISIL of Jordanian Air Force lieutenant Muath Al-Kasasbeh. ](/news/2015/02/4/jordan-executes-convicted-iraqi-terrorists-sajida-al-rishawi-and-ziad-al-karbouli-in-response-to-the-execution-by-isil-of-jordanian-air-forc.md)
-_Context: ISIL, Iraq, Jordan, Jordanian air force, Muath Al-Kasasbeh, Sajida al-Rishawi, Ziad al-Karbouli_
+_Context: Iraq, Islamic State of Iraq and the Levant, Jordan, Jordanian air force, Muath Al-Kasasbeh, Sajida al-Rishawi, Ziad al-Karbouli_
 
 ### [Gunmen storm Libya's al-Mabrook oil field. ](/news/2015/02/4/gunmen-storm-libya-s-al-mabrook-oil-field.md)
 Gunmen have stormed theal-Mabrook oilfield in central Libya, oil and military officialssaid on Wednesday, the latest oil facility hit by violence inthe North African country.

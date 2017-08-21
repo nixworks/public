@@ -1,7 +1,7 @@
 ## [2016-10-26](/news/2016/10/26/index.md)
 
 ### [A militant group affiliated with ISIL seizes the coastal town of Qandala in the autonomous Puntland region. ](/news/2016/10/26/a-militant-group-affiliated-with-isil-seizes-the-coastal-town-of-qandala-in-the-autonomous-puntland-region.md)
-_Context: ISIL, Puntland, Qandala, War in Somalia (2009-present)_
+_Context: Islamic State of Iraq and the Levant, Puntland, Qandala, War in Somalia (2009-present)_
 
 ### [Ghor Province Governor's spokesman claims ISIL insurgents killed 26-42 civilians in his governed province, Afghanistan. ](/news/2016/10/26/ghor-province-governor-s-spokesman-claims-isil-insurgents-killed-26-42-civilians-in-his-governed-province-afghanistan.md)
 Gunmen rounded up and shot dozens of civilians in a remote part of Afghanistan on Tuesday, UN officials said, in an attack that prompted angry protests from residents about government failure to protect them.

@@ -13,7 +13,7 @@ _Context: Indonesia, Sumatra, United States Geological Survey_
 _Context: South Korea_
 
 ### [ The United States military imposes a curfew on all personnel on the Japanese island Okinawa following the arrest of a member of the United States Marine Corps on suspicion of rape. ](/news/2008/02/20/the-united-states-military-imposes-a-curfew-on-all-personnel-on-the-japanese-island-okinawa-following-the-arrest-of-a-member-of-the-united.md)
-_Context: Japan, Military of the United States, Okinawa, U.S. Marine Corps_
+_Context: Japan, Marines, Military of the United States, Okinawa_
 
 ### [ The government of Morocco arrests 23 alleged terrorists, including Mustapha Moatassim, the Secretary General of Alternative Civilization, a political party recognized by the state. ](/news/2008/02/20/the-government-of-morocco-arrests-23-alleged-terrorists-including-mustapha-moatassim-the-secretary-general-of-alternative-civilization-a.md)
 _Context: Alternative Civilization, Morocco, Mustapha Moatassim_

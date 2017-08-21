@@ -7,7 +7,7 @@ French prosecutors said on Saturday that three coordinated teams of gunmen and s
 A US air strike has probably killed Abu Nabil, the &quot;senior leader&quot; of the Islamic State group in Libya, the Pentagon says.
 
 ### [Kurdish Peshmerga forces discover a mass grave believed to contain the remains of more than 70 members of Iraq's Yazidi minority, mostly women, east of the recently liberated town of Sinjar. ](/news/2015/11/14/kurdish-peshmerga-forces-discover-a-mass-grave-believed-to-contain-the-remains-of-more-than-70-members-of-iraq-s-yazidi-minority-mostly-wom.md)
-_Context: Iraq, Iraqi Civil War (2014-present), Peshmerga, Sinjar, Yazidi minority, Yazidis, mass grave, recently liberated_
+_Context: Iraq, Iraqi Civil War (2014-present), Kurdish Peshmerga, Sinjar, Yazidi minority, Yazidis, mass grave, recently liberated_
 
 ### [Turkish forces engage Islamic State in Iraq and the Levant (ISIL) militants along the Syrian border:Turkish troops kill four Islamic State militants in Turkey's southeastern Gaziantep Province when two cars with ISIS passengers advanced on a Turkish armored vehicle near a border post in Oguzeli. ](/news/2015/11/14/turkish-forces-engage-islamic-state-in-iraq-and-the-levant-isil-militants-along-the-syrian-border-pturkish-troops-kill-four-islamic-state.md)
 _Context: Gaziantep Province, ISIL, Oguzeli, Spillover of the Syrian Civil War, Syria, Turkey-ISIL conflict, Turkish troops_

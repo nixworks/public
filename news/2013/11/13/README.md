@@ -31,7 +31,7 @@ Starbucks has been ordered to pay almost $3bn in damages and other costs in a di
 _Context: Philippines, Typhoon Haiyan (Yolanda)_
 
 ### [Four members of the United States Marine Corps are killed after ordnance accidentally explodes after a training exercise at Marine Corps Base Camp Pendleton in Southern California. ](/news/2013/11/13/four-members-of-the-united-states-marine-corps-are-killed-after-ordnance-accidentally-explodes-after-a-training-exercise-at-marine-corps-bas.md)
-_Context: Marine Corps Base Camp Pendleton, Southern California, U.S. Marine Corps, ordnance_
+_Context: Marine Corps Base Camp Pendleton, Marines, Southern California, ordnance_
 
 ### [The United States State Department designates Boko Haram as a "terrorist" group. ](/news/2013/11/13/the-united-states-state-department-designates-boko-haram-as-a-terrorist-group.md)
 The United States formally designated Nigerian militant groups Boko Haram and Ansaru as &quot;Foreign Terrorist Organizations and Specially Designated Global Terrorists&quot; on Wednesday, the White House said in a statement.

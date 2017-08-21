@@ -19,7 +19,7 @@ The UN says criminal groups are filling the power vacuum left by rebels near the
 _Context: 1993 World Trade Center bombing, Butner, North Carolina, Omar Abdel-Rahman_
 
 ### [As many as fifty thousand people gather in Manila for a march organized by the Philippine Catholic Church to protest the Philippine Drug War. ](/news/2017/02/18/as-many-as-fifty-thousand-people-gather-in-manila-for-a-march-organized-by-the-philippine-catholic-church-to-protest-the-philippine-drug-war.md)
-_Context: Catholic Church, Manila, Philippine Drug War, gather_
+_Context: Manila, Philippine Catholic Church, Philippine Drug War, gather_
 
 ### [Adama Barrow is officially sworn in as the Gambia's new President. ](/news/2017/02/18/adama-barrow-is-officially-sworn-in-as-the-gambia-s-new-president.md)
 Thousands witness Adama Barrow becoming the third Gambian president in history.
