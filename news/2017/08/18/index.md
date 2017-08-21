@@ -9,6 +9,9 @@ Several people were stabbed in the Finnish city of Turku, police said on Friday,
 ### [The 145-year-old Roger B. Taney Monument outside Maryland State House in Annapolis, Maryland, is removed overnight by authorities. Maryland Governor Larry Hogan called on Wednesday for the monument to be taken down immediately. ](/news/2017/08/18/the-145-year-old-roger-b-taney-monument-outside-maryland-state-house-in-annapolis-maryland-is-removed-overnight-by-authorities-maryland.md)
 Maryland authorities took down a statue on Friday of a 19th century chief justice who wrote an infamous pro-slavery decision, the latest example of action across the United States over memorials that have triggered racially charged protests.
 
+### [Two Joseon Dynasty-era royal seals which were repatriated last July from the U.S. after being illegally taken out by an American soldier during the Korean War, are on exhibit at the National Palace Museum of Korea. ](/news/2017/08/18/two-joseon-dynasty-era-royal-seals-which-were-repatriated-last-july-from-the-u-s-after-being-illegally-taken-out-by-an-american-soldier-dur.md)
+_Context: Joseon Dynasty-era, Korean War, National Palace Museum of Korea, illegally taken out, repatriated, royal seals_
+
 ### [Workers at two British McDonald's restaurants overwhelmingly vote to authorize a strike  over working conditions and the use of zero-hour contracts, which would be the first such labor action against the fast-food chain in the U.K. ](/news/2017/08/18/workers-at-two-british-mcdonald-s-restaurants-overwhelmingly-vote-to-authorize-a-strike-over-working-conditions-and-the-use-of-zero-hour-co.md)
 Workers at two restaurants in England have voted to strike in what would be the first industrial action taken against the fast-food chain in Britain
 
