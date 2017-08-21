@@ -9,6 +9,9 @@ Ten sailors are missing after a U.S. warship collided with an oil tanker east of
 ### [After the murder of a 17-year old student in the so-called campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. ](/news/2017/08/21/after-the-murder-of-a-17-year-old-student-in-the-so-called-campaign-against-drugs-in-the-philippines-thousands-of-marchers-protest-in-edsa.md)
 _Context: EDSA, Philippine Catholic Church, Philippine Drug War, Philippines, drug war_
 
+### [A judge, Joseph Bruzzese, Jr., was ambushed and shot as he was walking from his vehicle to a court house in Steubenville, Ohio. Judge Bruzzese returned fire with his own weapon, but was injured and airlifted to a local hospital. A probation officer near the shooting shot and killed the gunman. A second person in the suspects vehicle was arrested. ](/news/2017/08/21/a-judge-joseph-bruzzese-jr-was-ambushed-and-shot-as-he-was-walking-from-his-vehicle-to-a-court-house-in-steubenville-ohio-judge-bruzze.md)
+A judge walking from his car into the county courthouse was shot by a gunman Monday morning but managed to fire back before a probation officer stepped in and ultimately killed the suspect, authorities said. Jefferson County Judge Joseph Bruzzese Jr. was shot at around 8 a.m. near the...
+
 ### [Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-through-north-america-it-is-the-fir.md)
 _Context: North America, Solar eclipse of August 21, 2017, United States, contiguous United States, solar eclipse of June 8, 1918, total solar eclipse_
 
