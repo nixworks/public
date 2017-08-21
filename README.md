@@ -9,11 +9,14 @@ A cease-fire Sunday brought a tentative calm to Ain al-Hilweh after days of clas
 ### [The United States Navy's USS ''John S. McCain'' collides with the Liberian-flagged ''Alnic'' MC near Singapore. Rescue efforts are underway with ten sailors reported as missing. ](/news/2017/08/21/the-united-states-navy-s-uss-john-s-mccain-collides-with-the-liberian-flagged-alnic-mc-near-singapore-rescue-efforts-are-underway.md)
 Ten sailors are missing after a U.S. warship collided with an oil tanker east of Singapore on Monday, the U.S. Navy said, the second accident involving U.S. Navy destroyers in Asian waters in little more than two months.
 
-### [After the murder of a 17-year old student in the so-called campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. [http://www.aljazeera.com/news/2017/08/thousands-demand-killings-duterte-drug-war-170821124440845.html (''al-Jazeera'')](/news/2017/08/21/after-the-murder-of-a-17-year-old-student-in-the-so-called-campaign-against-drugs-in-the-philippines-thousands-of-marchers-protest-in-edsa.md)
+### [After the murder of a 17-year old student in the so-called campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. ](/news/2017/08/21/after-the-murder-of-a-17-year-old-student-in-the-so-called-campaign-against-drugs-in-the-philippines-thousands-of-marchers-protest-in-edsa.md)
 _Context: EDSA, Philippine Catholic Church, Philippine Drug War, Philippines, drug war_
 
 ### [Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-through-north-america-it-is-the-fir.md)
 _Context: North America, Solar eclipse of August 21, 2017, United States, contiguous United States, solar eclipse of June 8, 1918, total solar eclipse_
+
+### [The famed clock tower chimes for the final time until 2021 while undergoing repairs.](/news/2017/08/21/the-famed-clock-tower-chimes-for-the-final-time-until-2021-while-undergoing-repairs.md)
+_Context: 2021, Big Ben_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)

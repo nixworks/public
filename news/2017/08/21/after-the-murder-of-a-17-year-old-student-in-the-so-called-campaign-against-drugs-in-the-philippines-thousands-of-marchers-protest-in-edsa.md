@@ -1,9 +1,13 @@
 ### [2017-08-21](/news/2017/08/21/index.md)
 
-# After the murder of a 17-year old student in the so-called campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. [http://www.aljazeera.com/news/2017/08/thousands-demand-killings-duterte-drug-war-170821124440845.html (''al-Jazeera'')
+# After the murder of a 17-year old student in the so-called campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. 
 
 
 
+
+### Source:
+
+1. [al-Jazeera](http://www.aljazeera.com/news/2017/08/thousands-demand-killings-duterte-drug-war-170821124440845.html)
 
 ### Related:
 
