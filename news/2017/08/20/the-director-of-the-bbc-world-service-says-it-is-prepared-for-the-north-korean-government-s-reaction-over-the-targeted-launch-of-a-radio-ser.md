@@ -1,6 +1,6 @@
 ### [2017-08-20](/news/2017/08/20/index.md)
 
-# The director of the BBC World Service says it is prepared for the North Korean government's reaction over the targeted launch of a radio service on North Korea in September, despite the recent international tensions. The North Korean embassy in London has alrady told the BBC "in no uncertain terms" that Pyongyang does not want any such service. 
+# The director of the BBC World Service says it is prepared for the North Korean government's reaction over the targeted launch of a radio service on North Korea in September, despite the recent international tensions. The North Korean embassy in London has already told the BBC "in no uncertain terms" that Pyongyang does not want any such service. 
 
 Director of BBC World Service says tensions over North Korea’s nuclear tests vindicate the launch of a targeted service
 
