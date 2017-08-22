@@ -6,7 +6,7 @@ _Context: Sarmin, Syria, Syrian Civil War, White Helmets_
 ### [A suicide bombing took place near a Pakistan army truck in Quetta, Balochistan, Pakistan, leaving 15 people dead including 8 soldiers, while injuring 40 others. ](/news/2017/08/12/a-suicide-bombing-took-place-near-a-pakistan-army-truck-in-quetta-balochistan-pakistan-leaving-15-people-dead-including-8-soldiers-while.md)
 Twenty-five people wounded after 25kg bomb detonates in Quetta amid celebrations for forthcoming independence day
 
-### [Fights break out between alt-right protestors and left-wing counterprotesters in Charlottesville, Virginia, over the removal of the Robert Edward Lee Sculpture. One person is killed and several people are injured after a man drove his car into a crowd of counterprotesters. ](/news/2017/08/12/fights-break-out-between-alt-right-protestors-and-left-wing-counterprotesters-in-charlottesville-virginia-over-the-removal-of-the-robert-e.md)
+### [Fights break out between white supremacists and counterprotesters in Charlottesville, Virginia, over the removal of the Robert Edward Lee Sculpture. One person is killed and several people are injured after a man drove his car into a crowd of counterprotesters. ](/news/2017/08/12/fights-break-out-between-white-supremacists-and-counterprotesters-in-charlottesville-virginia-over-the-removal-of-the-robert-edward-lee-sc.md)
 A car rams into a crowd after clashes between white nationalists and counter-protesters in Virginia.
 
 ### [Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md)

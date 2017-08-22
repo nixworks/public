@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Korea Times](http://www.koreatimes.co.kr/www/culture/2017/08/317_234987.html(''The)
+1. [The Korea Times](http://www.koreatimes.co.kr/www/culture/2017/08/317_234987.html)
 
 ### Related:
 
