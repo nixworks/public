@@ -15,6 +15,9 @@ Ten sailors are missing after a U.S. warship collided with an oil tanker east of
 ### [A magnitude 4.0 earthquake strikes the Italian island of Ischia, leaving one person dead and 25 others injured. Italian media report 10 others are unaccounted for after several buildings collapsed in Casamicciola Terme. ](/news/2017/08/21/a-magnitude-4-0-earthquake-strikes-the-italian-island-of-ischia-leaving-one-person-dead-and-25-others-injured-italian-media-report-10-othe.md)
 An earthquake on Ischia leaves at least one person dead, with reports of others trapped and injured.
 
+### [After the murder of Kian Loyd delos Santos, a 17-year old student, in the campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. ](/news/2017/08/21/after-the-murder-of-kian-loyd-delos-santos-a-17-year-old-student-in-the-campaign-against-drugs-in-the-philippines-thousands-of-marchers-p.md)
+_Context: EDSA, Philippine Catholic Church, Philippine Drug War, Philippines, drug war, murder of Kian Loyd delos Santos_
+
 ### [Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-through-north-america-it-is-the-fir.md)
 _Context: North America, Solar eclipse of August 21, 2017, United States, contiguous United States, solar eclipse of June 8, 1918, total solar eclipse_
 
