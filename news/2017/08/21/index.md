@@ -3,7 +3,7 @@
 ### [Aftermath of the Spanish police hunting the chief suspect in last Thursday's van attack in Barcelona shoot dead a man to the west of the city who appeared to be wearing an explosive belt. ](/news/2017/08/21/aftermath-of-the-spanish-police-hunting-the-chief-suspect-in-last-thursday-s-van-attack-in-barcelona-shoot-dead-a-man-to-the-west-of-the-cit.md)
 Police hunting the chief suspect shoot a man in an area to the west of the city.
 
-### [A cease-fire brings calm after heavy fighting between Fatah and extremists that left two people dead at the Palestinian refugees camp of Ain al-Hilweh, Lebanon. ](/news/2017/08/21/a-cease-fire-brings-calm-after-heavy-fighting-between-fatah-and-extremists-that-left-two-people-dead-at-the-palestinian-refugees-camp-of-ain.md)
+### [A ceasefire brings calm after heavy fighting between Fatah and extremists that left two people dead at the Palestinian refugees camp of Ain al-Hilweh, Lebanon. ](/news/2017/08/21/a-ceasefire-brings-calm-after-heavy-fighting-between-fatah-and-extremists-that-left-two-people-dead-at-the-palestinian-refugees-camp-of-ain.md)
 A cease-fire Sunday brought a tentative calm to Ain al-Hilweh after days of clashes shook the south Lebanon Palestinian refugee camp.
 
 ### [The famed clock tower chimes for the final time until 2021 while undergoing repairs. ](/news/2017/08/21/the-famed-clock-tower-chimes-for-the-final-time-until-2021-while-undergoing-repairs.md)

@@ -3,7 +3,7 @@
 ### [Aftermath of the Spanish police hunting the chief suspect in last Thursday's van attack in Barcelona shoot dead a man to the west of the city who appeared to be wearing an explosive belt. ](/news/2017/08/21/aftermath-of-the-spanish-police-hunting-the-chief-suspect-in-last-thursday-s-van-attack-in-barcelona-shoot-dead-a-man-to-the-west-of-the-cit.md)
 Police hunting the chief suspect shoot a man in an area to the west of the city.
 
-### [A cease-fire brings calm after heavy fighting between Fatah and extremists that left two people dead at the Palestinian refugees camp of Ain al-Hilweh, Lebanon. ](/news/2017/08/21/a-cease-fire-brings-calm-after-heavy-fighting-between-fatah-and-extremists-that-left-two-people-dead-at-the-palestinian-refugees-camp-of-ain.md)
+### [A ceasefire brings calm after heavy fighting between Fatah and extremists that left two people dead at the Palestinian refugees camp of Ain al-Hilweh, Lebanon. ](/news/2017/08/21/a-ceasefire-brings-calm-after-heavy-fighting-between-fatah-and-extremists-that-left-two-people-dead-at-the-palestinian-refugees-camp-of-ain.md)
 A cease-fire Sunday brought a tentative calm to Ain al-Hilweh after days of clashes shook the south Lebanon Palestinian refugee camp.
 
 ### [The famed clock tower chimes for the final time until 2021 while undergoing repairs. ](/news/2017/08/21/the-famed-clock-tower-chimes-for-the-final-time-until-2021-while-undergoing-repairs.md)
@@ -66,7 +66,7 @@ Pakistani soldiers on Saturday carried the flag-draped coffin of German-born Cat
 ### [A magnitude 6.4 earthquake strikes west of the Pacific Island of Tonga. There are no immediate reports of casualties or damage. ](/news/2017/08/19/a-magnitude-6-4-earthquake-strikes-west-of-the-pacific-island-of-tonga-there-are-no-immediate-reports-of-casualties-or-damage.md)
 An earthquake of 6.4 magnitude struck 500 km (310 miles) west of the Pacific island of Tonga on Saturday, the U.S. Geological Survey (USGS) said, but there were no immediate reports of any casualties or damage.
 
-### [A train derails near Muzaffarnagar, Uttar Pradesh, India, resulting in at least 20 deaths and 120 injuries. The death toll is expected to rise further. ](/news/2017/08/19/a-train-derails-near-muzaffarnagar-uttar-pradesh-india-resulting-in-at-least-20-deaths-and-120-injuries-the-death-toll-is-expected-to-ri.md)
+### [A train derails near Khatauli, Uttar Pradesh, India, resulting in at least 23 deaths and 156 injuries.  ](/news/2017/08/19/a-train-derails-near-khatauli-uttar-pradesh-india-resulting-in-at-least-23-deaths-and-156-injuries.md)
 A train came off the tracks in Uttar Pradesh on Saturday, killing at least 10 people and wounding more than 100 as carriages slammed into each other, the local chief medical officer said.
 
 ### [The wreckage of the Indianapolis|CA-35|6 heavy cruiser, torpedoed by the Imperial Japanese Navy submarine I-58 and sunk in 1945 after delivering parts for the Little Boy atomic weapon, is discovered on the floor of the North Pacific Ocean. Only 317 of the U.S. Sailors/Marines who survived the sinking were finally rescued  after 4-5 days in shark-infested waters.  ](/news/2017/08/19/the-wreckage-of-the-indianapolis-ca-35-6-heavy-cruiser-torpedoed-by-the-imperial-japanese-navy-submarine-i-58-and-sunk-in-1945-after-delive.md)
