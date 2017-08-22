@@ -19,7 +19,7 @@ _Context: Johannes Heesters, Netherlands_
 _Context: China, People's Bank of China, reserve requirements_
 
 ### [North Korean media name Kim Jong-un &ndash; the son and successor of late leader Kim Jong-il &ndash; as the Supreme Commander of the Korean People's Army. ](/news/2011/12/24/north-korean-media-name-kim-jong-un-ndash-the-son-and-successor-of-late-leader-kim-jong-il-ndash-as-the-supreme-commander-of-the-korean.md)
-_Context: Kim Jong-il, Kim Jong-un, Korean People's Army, North Korea, Supreme Commander, state media_
+_Context: Kim Jong-il, Kim Jong-un, Korean People's Army, Media of North Korea, North Korea, Supreme Commander_
 
 ### [Tens of thousands of people protest across Russia against parliamentary elections that they allege were rigged in favour of the ruling United Russia party. ](/news/2011/12/24/tens-of-thousands-of-people-protest-across-russia-against-parliamentary-elections-that-they-allege-were-rigged-in-favour-of-the-ruling-unite.md)
 _Context: Russia, United Russia, parliamentary elections, protest_

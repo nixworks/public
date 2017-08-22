@@ -12,7 +12,7 @@ Iranian lawmakers approved three new ministers on Tuesday, signaling support for
 
 ### Related:
 
-1. [Iranian MPs approves 16 out of 17 cabinet members nominated by recently re-elected President Hassan Rouhani. ](/news/2017/08/20/iranian-mps-approves-16-out-of-17-cabinet-members-nominated-by-recently-re-elected-president-hassan-rouhani.md) _Context: Hassan Rouhani, MPs_
+1. [Iranian MPs approve 16 out of 17 cabinet members nominated by recently re-elected President Hassan Rouhani. ](/news/2017/08/20/iranian-mps-approve-16-out-of-17-cabinet-members-nominated-by-recently-re-elected-president-hassan-rouhani.md) _Context: Hassan Rouhani, MPs_
 2. [Hassan Rouhani is officially inaugurated as President of Iran in the House of the Parliament  and announces the members of his cabinet to the parliament. ](/news/2013/08/4/hassan-rouhani-is-officially-inaugurated-as-president-of-iran-in-the-house-of-the-parliament-and-announces-the-members-of-his-cabinet-to-th.md) _Context: Hassan Rouhani, MPs_
 3. [The Parliament of Iran confirms Hassan Rouhani's cabinet. However, three designated ministers did not receive a vote of confidence, including Mohammad-Ali Najafi who was the Minister of Education-nominate. ](/news/2013/08/15/the-parliament-of-iran-confirms-hassan-rouhani-s-cabinet-however-three-designated-ministers-did-not-receive-a-vote-of-confidence-includin.md) _Context: Hassan Rouhani, MPs_
 4. [Iranian President Hassan Rouhani takes the oath of office to start his second four-year term. ](/news/2017/08/5/iranian-president-hassan-rouhani-takes-the-oath-of-office-to-start-his-second-four-year-term.md) _Context: Hassan Rouhani_

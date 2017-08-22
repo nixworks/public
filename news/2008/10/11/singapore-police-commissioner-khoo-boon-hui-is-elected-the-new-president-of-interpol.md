@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The United States Navy's USS ''John S. McCain'' collides with a merchant vessel near Singapore. Rescue efforts are underway. ](/news/2017/08/21/the-united-states-navy-s-uss-john-s-mccain-collides-with-a-merchant-vessel-near-singapore-rescue-efforts-are-underway.md) _Context: Singapore_
+1. [The United States Navy's USS ''John S. McCain'' collides with the Liberian-flagged ''Alnic'' MC near Singapore. Rescue efforts are underway with ten sailors reported as missing. ](/news/2017/08/21/the-united-states-navy-s-uss-john-s-mccain-collides-with-the-liberian-flagged-alnic-mc-near-singapore-rescue-efforts-are-underway.md) _Context: Singapore_
 2. [Singapore implements a new law that bans foreigners from taking part in protests. ](/news/2017/07/1/singapore-implements-a-new-law-that-bans-foreigners-from-taking-part-in-protests.md) _Context: Singapore_
 3. [Following a joint police operation by Europol and Interpol last October and November across much of Europe, dubbed "Operation Pandora", more than 3,500 stolen artwork and artifacts are recovered, with 75 people arrested and 48,588 more being investigated. ](/news/2017/01/23/following-a-joint-police-operation-by-europol-and-interpol-last-october-and-november-across-much-of-europe-dubbed-operation-pandora-more.md) _Context: Interpol_
 4. [An Indonesian police plane, reportedly carrying 13 people, goes missing near Singapore on route to Batam. ](/news/2016/12/3/an-indonesian-police-plane-reportedly-carrying-13-people-goes-missing-near-singapore-on-route-to-batam.md) _Context: Singapore_

@@ -15,7 +15,7 @@
 ### Related:
 
 1. [ The People's Republic of China formally charges Hong Kong reporter Ching Cheong, journalist for ''The Straits Times'', of spying.  ](/news/2005/08/5/the-people-s-republic-of-china-formally-charges-hong-kong-reporter-ching-cheong-journalist-for-the-straits-times-of-spying.md) _Context: China, Ching Cheong_
-2. [The United States Navy's USS ''John S. McCain'' collides with a merchant vessel near Singapore. Rescue efforts are underway. ](/news/2017/08/21/the-united-states-navy-s-uss-john-s-mccain-collides-with-a-merchant-vessel-near-singapore-rescue-efforts-are-underway.md) _Context: Singapore_
+2. [The United States Navy's USS ''John S. McCain'' collides with the Liberian-flagged ''Alnic'' MC near Singapore. Rescue efforts are underway with ten sailors reported as missing. ](/news/2017/08/21/the-united-states-navy-s-uss-john-s-mccain-collides-with-the-liberian-flagged-alnic-mc-near-singapore-rescue-efforts-are-underway.md) _Context: Singapore_
 3. [At least 36 people die in a bus crash in China's Shaanxi province. The bus was travelling between Chengdu and Luoyang. ](/news/2017/08/10/at-least-36-people-die-in-a-bus-crash-in-china-s-shaanxi-province-the-bus-was-travelling-between-chengdu-and-luoyang.md) _Context: China_
 4. [An early morning fire in the Chinese city of Changshu in Jiangsu province kills 22 people and injures three. ](/news/2017/07/16/an-early-morning-fire-in-the-chinese-city-of-changshu-in-jiangsu-province-kills-22-people-and-injures-three.md) _Context: China_
 5. [Singapore implements a new law that bans foreigners from taking part in protests. ](/news/2017/07/1/singapore-implements-a-new-law-that-bans-foreigners-from-taking-part-in-protests.md) _Context: Singapore_

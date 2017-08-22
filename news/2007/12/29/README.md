@@ -10,7 +10,7 @@ _Context: Britain, Ian McKellen, Ian Wilmut, Kylie Minogue, Marks & Spencer, Mic
 _Context: Australia, David Hicks, Guantanamo Bay Detention Camp, South Australia, Yatala Labour Prison, terrorism_
 
 ### [ Kenyan presidential election, 2007: Vote counting is delayed for a day with the opposition, led by Raila Odinga, holding a 40,000 vote lead with 90% of votes counted. Violence and looting ensue, especially in the capital Nairobi, with "several" fatalities amidst claims of election fraud from both camps. ](/news/2007/12/29/kenyan-presidential-election-2007-vote-counting-is-delayed-for-a-day-with-the-opposition-led-by-raila-odinga-holding-a-40-000-vote-lead.md)
-_Context: Kenyan presidential election, 2007, Looting, Nairobi, Raila Odinga_
+_Context: Kenyan presidential election, 2007, Nairobi, Raila Odinga, illegally taken out_
 
 ### [ The New England Patriots are the first team in the NFL to ever finish the regular season with a record of 16-0, the first perfect regular season in the league since the 1972 Miami Dolphins. ](/news/2007/12/29/the-new-england-patriots-are-the-first-team-in-the-nfl-to-ever-finish-the-regular-season-with-a-record-of-16-0-the-first-perfect-regular-s.md)
 _Context: 16-0, NFL, New England Patriots_

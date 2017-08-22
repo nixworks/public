@@ -10,7 +10,7 @@ Go to NBCNews.com for breaking news, videos, and the latest top stories in world
 _Context: 2014 pro-Russian conflict in Ukraine, Arsen Avakov, Ukraine's Minister of the Interior, Ukrainian military_
 
 ### [Three Israeli teenagers were kidnapped by Palestinian militants. The Israel Defense Forces and Shin-Bet deployed large forces through the West Bank in order to find and rescue them. ([http://www.jpost.com/Defense/Names-of-missing-teenage-yeshiva-students-released-359317 Jerusalem Post])](/news/2014/06/12/three-israeli-teenagers-were-kidnapped-by-palestinian-militants-the-israel-defense-forces-and-shin-bet-deployed-large-forces-through-the-we.md)
-_Context: 2014 kidnapping and murder of Israeli teenagers, Israel, Israel Defense Forces, Palestinian terrorist, Shin Bet's, West Bank_
+_Context: 2014 kidnapping and murder of Israeli teenagers, Israel, Israel Defense Forces, Palestinian political violence, Shin Bet's, West Bank_
 
 ### [For his exploration of Colombia's drug trade Juan Gabriel Vasquez wins the prestigious EUR100,000 International Dublin Literary Award, the first South American to win the prize. ](/news/2014/06/12/for-his-exploration-of-colombia-s-drug-trade-juan-gabriel-va-squez-wins-the-prestigious-a-100-000-international-dublin-literary-award-the.md)
 _Context: International Dublin Literary Award, Juan Gabriel Vasquez_

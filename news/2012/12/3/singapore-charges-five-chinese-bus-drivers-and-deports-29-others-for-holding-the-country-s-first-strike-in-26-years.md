@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The United States Navy's USS ''John S. McCain'' collides with a merchant vessel near Singapore. Rescue efforts are underway. ](/news/2017/08/21/the-united-states-navy-s-uss-john-s-mccain-collides-with-a-merchant-vessel-near-singapore-rescue-efforts-are-underway.md) _Context: Singapore_
+1. [The United States Navy's USS ''John S. McCain'' collides with the Liberian-flagged ''Alnic'' MC near Singapore. Rescue efforts are underway with ten sailors reported as missing. ](/news/2017/08/21/the-united-states-navy-s-uss-john-s-mccain-collides-with-the-liberian-flagged-alnic-mc-near-singapore-rescue-efforts-are-underway.md) _Context: Singapore_
 2. [Singapore implements a new law that bans foreigners from taking part in protests. ](/news/2017/07/1/singapore-implements-a-new-law-that-bans-foreigners-from-taking-part-in-protests.md) _Context: Singapore_
 3. [A boat with 31 people on board, including more than 20 Chinese tourists, goes missing after sailing from the eastern Malaysian port of Kota Kinabalu to visit the island of Pulau Mengalum. ](/news/2017/01/28/a-boat-with-31-people-on-board-including-more-than-20-chinese-tourists-goes-missing-after-sailing-from-the-eastern-malaysian-port-of-kota.md) _Context: Chinese_
 4. [An Indonesian police plane, reportedly carrying 13 people, goes missing near Singapore on route to Batam. ](/news/2016/12/3/an-indonesian-police-plane-reportedly-carrying-13-people-goes-missing-near-singapore-on-route-to-batam.md) _Context: Singapore_

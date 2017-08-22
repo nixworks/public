@@ -43,7 +43,7 @@ Hurricane Dean has intensified and developed into a category three hurricane, wi
 _Context: Europe, Federal Reserve, United States, housing crisis_
 
 ### [  The death toll from the 2007 Peru earthquake rises to 510 with another 1,500 people being injured. Aid reaches affected areas with President Alan Garca appealing for calm after reports of looting. ](/news/2007/08/17/the-death-toll-from-the-2007-peru-earthquake-rises-to-510-with-another-1-500-people-being-injured-aid-reaches-affected-areas-with-preside.md)
-_Context: 2007 Peru earthquake, Alan Garcia, Looting, President_
+_Context: 2007 Peru earthquake, Alan Garcia, President, illegally taken out_
 
 ### [ The International Atomic Energy Agency and the United States Government advises that North Korea is co-operating with plans to shut down its nuclear program. ](/news/2007/08/17/the-international-atomic-energy-agency-and-the-united-states-government-advises-that-north-korea-is-co-operating-with-plans-to-shut-down-it.md)
 _Context: International Atomic Energy Agency, North Korea, United States government_

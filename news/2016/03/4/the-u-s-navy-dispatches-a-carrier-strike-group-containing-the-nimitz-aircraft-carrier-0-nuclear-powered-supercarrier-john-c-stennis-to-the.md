@@ -11,7 +11,7 @@ The USS John C. Stennis arrived with three other ships Tuesday.
 
 ### Related:
 
-1. [The United States Navy's USS ''John S. McCain'' collides with a merchant vessel near Singapore. Rescue efforts are underway. ](/news/2017/08/21/the-united-states-navy-s-uss-john-s-mccain-collides-with-a-merchant-vessel-near-singapore-rescue-efforts-are-underway.md) _Context: United States Navy_
+1. [The United States Navy's USS ''John S. McCain'' collides with the Liberian-flagged ''Alnic'' MC near Singapore. Rescue efforts are underway with ten sailors reported as missing. ](/news/2017/08/21/the-united-states-navy-s-uss-john-s-mccain-collides-with-the-liberian-flagged-alnic-mc-near-singapore-rescue-efforts-are-underway.md) _Context: United States Navy_
 2. [The US Navy has announced that about a dozen sailors of the USS ''Fitzgerald'' are to be disciplined in the aftermath of the collision with a container ship last June, where 7 crew members died. ](/news/2017/08/17/the-us-navy-has-announced-that-about-a-dozen-sailors-of-the-uss-fitzgerald-are-to-be-disciplined-in-the-aftermath-of-the-collision-with.md) _Context: United States Navy_
 3. [The United States Navy says the USS ''Thunderbolt'' fired a warning shot at an Iranian patrol boat after it came within 150 yards of the U.S. ship. ](/news/2017/07/25/the-united-states-navy-says-the-uss-thunderbolt-fired-a-warning-shot-at-an-iranian-patrol-boat-after-it-came-within-150-yards-of-the-u-s.md) _Context: United States Navy_
 4. [Indonesia renames part of the South China Sea as "North Natuna Sea," angering China. ](/news/2017/07/15/indonesia-renames-part-of-the-south-china-sea-as-north-natuna-sea-angering-china.md) _Context: South China Sea disputes_

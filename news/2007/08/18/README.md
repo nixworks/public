@@ -25,7 +25,7 @@ At least 16 people have been killed and 30 others wounded in a fierce gun battle
 _Context: Cornish, Newquay, fire_
 
 ### [ Survivors of the 2007 Peru earthquake flee the worst hit areas as looting intensifies. The President of Peru Alan Garca sends another 1,000 troops to the area.  ](/news/2007/08/18/survivors-of-the-2007-peru-earthquake-flee-the-worst-hit-areas-as-looting-intensifies-the-president-of-peru-alan-garcia-sends-another-1-00.md)
-_Context: 2007 Peru earthquake, Alan Garcia, Looting, President_
+_Context: 2007 Peru earthquake, Alan Garcia, President, illegally taken out_
 
 ### [ Voters in the Maldives go to the polls in a constitutional referendum to decide between a presidential or parliamentary system of government. ](/news/2007/08/18/voters-in-the-maldives-go-to-the-polls-in-a-constitutional-referendum-to-decide-between-a-presidential-or-parliamentary-system-of-governmen.md)
 _Context: Maldives, a constitutional referendum, parliamentary system, presidential_

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The United States Navy's USS ''John S. McCain'' collides with a merchant vessel near Singapore. Rescue efforts are underway. ](/news/2017/08/21/the-united-states-navy-s-uss-john-s-mccain-collides-with-a-merchant-vessel-near-singapore-rescue-efforts-are-underway.md) _Context: Singapore_
+1. [The United States Navy's USS ''John S. McCain'' collides with the Liberian-flagged ''Alnic'' MC near Singapore. Rescue efforts are underway with ten sailors reported as missing. ](/news/2017/08/21/the-united-states-navy-s-uss-john-s-mccain-collides-with-the-liberian-flagged-alnic-mc-near-singapore-rescue-efforts-are-underway.md) _Context: Singapore_
 2. [ISIL forces raid an Iranian Islamic Revolutionary Guard Corps base in vast desert spaces of eastern Homs Governorate, Syria, manned by between 12 to 18 fighters, all but one of which are killed. ](/news/2017/08/11/isil-forces-raid-an-iranian-islamic-revolutionary-guard-corps-base-in-vast-desert-spaces-of-eastern-homs-governorate-syria-manned-by-betwe.md) _Context: Iran_
 3. [The United States Navy says the USS ''Thunderbolt'' fired a warning shot at an Iranian patrol boat after it came within 150 yards of the U.S. ship. ](/news/2017/07/25/the-united-states-navy-says-the-uss-thunderbolt-fired-a-warning-shot-at-an-iranian-patrol-boat-after-it-came-within-150-yards-of-the-u-s.md) _Context: Iran_
 4. [Negotiators from the Democratic and Republican parties agree on new sanctions against Russia, Iran, and  North Korea. Both chambers of the United States Congress are scheduled to vote on passage on Tuesday. ](/news/2017/07/22/negotiators-from-the-democratic-and-republican-parties-agree-on-new-sanctions-against-russia-iran-and-north-korea-both-chambers-of-the-u.md) _Context: Iran_
