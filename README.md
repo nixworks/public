@@ -1,7 +1,13 @@
 ## [News](/news/2017/08/23/index.md)
 
-### [The United States Navy relieves Admiral Joseph Aucoin as Commander of the United States Seventh Fleet following the death of 12 sailors in four collisions in Asia. ](/news/2017/08/23/the-united-states-navy-relieves-admiral-joseph-aucoin-as-commander-of-the-united-states-seventh-fleet-following-the-death-of-12-sailors-in-f.md)
+### [Aftermath of the USS John S. McCain (DDG-56) collisionThe United States Navy relieves Admiral Joseph Aucoin as Commander of the United States Seventh Fleet following the death of 12 sailors in four collisions in Asia. ](/news/2017/08/23/aftermath-of-the-uss-john-s-mccain-ddg-56-collisionpthe-united-states-navy-relieves-admiral-joseph-aucoin-as-commander-of-the-united-stat.md)
 Divers found the remains of missing sailors in a search of the Navy destroyer John S. McCain that collided with an oil tanker on Monday near Singapore.
+
+### [An impeachment complaint has been filed in the House of Representatives against Commission on Elections chairman Andres D. Bautista for betrayal of public trust and culpable violation of the Constitution, over recent allegations of ill-gotten wealth & graft and corruption. ](/news/2017/08/23/an-impeachment-complaint-has-been-filed-in-the-house-of-representatives-against-commission-on-elections-chairman-andres-d-bautista-for-betr.md)
+_Context: Andres D. Bautista, Commission on Elections, Constitution, House of Representatives, Impeachment in the Philippines_
+
+### [Voters in Angola go to the polls to elect 220 National Assembly members. The leader of the winning party will become the new President, following the retirement of Jos Eduardo dos Santos, who has held the role since 1979. ](/news/2017/08/23/voters-in-angola-go-to-the-polls-to-elect-220-national-assembly-members-the-leader-of-the-winning-party-will-become-the-new-president-foll.md)
+Millions of Angolans to cast their votes on Wednesday as 74-year-old, who has ruled for 38-years, leaves office.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -35,6 +41,9 @@ Ten sailors are missing after a U.S. warship collided with an oil tanker east of
 
 ### [A magnitude 4.0 earthquake strikes the Italian island of Ischia, leaving one person dead and 25 others injured. Italian media report 10 others are unaccounted for after several buildings collapsed in Casamicciola Terme. ](/news/2017/08/21/a-magnitude-4-0-earthquake-strikes-the-italian-island-of-ischia-leaving-one-person-dead-and-25-others-injured-italian-media-report-10-othe.md)
 An earthquake on Ischia leaves at least one person dead, with reports of others trapped and injured.
+
+### [In a video interview posed on the state-run website Uriminzokkiri, the two sons of James Joseph Dresnok, the last remaining American defector to North Korea, has confirmed that their father has died of a stroke last November 2016. ](/news/2017/08/21/in-a-video-interview-posed-on-the-state-run-website-uriminzokkiri-the-two-sons-of-james-joseph-dresnok-the-last-remaining-american-defecto.md)
+Dresnok was among a handful of American servicemen to desert after the Korean war and was loyal to Kim Jong-un
 
 ### [After the murder of Kian Loyd delos Santos, a 17-year old student, in the campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. ](/news/2017/08/21/after-the-murder-of-kian-loyd-delos-santos-a-17-year-old-student-in-the-campaign-against-drugs-in-the-philippines-thousands-of-marchers-p.md)
 _Context: EDSA, Philippine Catholic Church, Philippine Drug War, Philippines, murder of Kian Loyd delos Santos_
