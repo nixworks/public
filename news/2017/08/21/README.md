@@ -6,7 +6,7 @@ Police hunting the chief suspect shoot a man in an area to the west of the city.
 ### [A ceasefire brings calm after heavy fighting between Fatah and extremists that left two people dead at the Palestinian refugees camp of Ain al-Hilweh, Lebanon. ](/news/2017/08/21/a-ceasefire-brings-calm-after-heavy-fighting-between-fatah-and-extremists-that-left-two-people-dead-at-the-palestinian-refugees-camp-of-ain.md)
 A cease-fire Sunday brought a tentative calm to Ain al-Hilweh after days of clashes shook the south Lebanon Palestinian refugee camp.
 
-### [The famed clock tower chimes for the final time until 2021 while undergoing repairs. ](/news/2017/08/21/the-famed-clock-tower-chimes-for-the-final-time-until-2021-while-undergoing-repairs.md)
+### [The famed clock tower Big Ben chimes for the final time until 2021 before undergoing repairs. ](/news/2017/08/21/the-famed-clock-tower-big-ben-chimes-for-the-final-time-until-2021-before-undergoing-repairs.md)
 _Context: 2021, Big Ben_
 
 ### [The United States Navy's USS ''John S. McCain'' collides with the Liberian-flagged ''Alnic'' MC near Singapore. Rescue efforts are underway with ten sailors reported as missing. ](/news/2017/08/21/the-united-states-navy-s-uss-john-s-mccain-collides-with-the-liberian-flagged-alnic-mc-near-singapore-rescue-efforts-are-underway.md)
