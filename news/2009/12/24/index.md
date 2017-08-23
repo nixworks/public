@@ -46,7 +46,7 @@ _Context: Archbishop of York, John Sentamu, Uganda, bill into law, homosexuality
 _Context: United States Senate, health care reform_
 
 ### [ An Israeli man is shot dead  by Palestinian gunmen in the northern West Bank. ](/news/2009/12/24/an-israeli-man-is-shot-dead-by-palestinian-gunmen-in-the-northern-west-bank.md)
-_Context: Israel, Palestinian political violence, West Bank_
+_Context: Israel, Palestinian terrorist, West Bank_
 
 ### [ At least 30 suspected Al-Qaeda militants are killed in an airstrike in Shabwah Governorate, Yemen. ](/news/2009/12/24/at-least-30-suspected-al-qaeda-militants-are-killed-in-an-airstrike-in-shabwah-governorate-yemen.md)
 _Context: Shabwa province, Yemen, al-Qaeda_

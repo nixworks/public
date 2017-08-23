@@ -7,7 +7,7 @@ _Context: 2015 Nepal fuel crisis, India, Nepal, relations_
 _Context: Lower Shebelle, Somalia army soldiers, Wanlaweyn, War in Somalia (2009-present), al-Shabaab militants_
 
 ### [A Palestinian terrorist stabs an 80-year-old woman and two men in the Israeli town of Rishon Letzion, and another Palestinian attacks an 71-year-old man and critically wounds him in Netanya.](/news/2015/11/2/a-palestinian-terrorist-stabs-an-80-year-old-woman-and-two-men-in-the-israeli-town-of-rishon-letzion-and-another-palestinian-attacks-an-71.md)
-_Context: Netanya, Palestinian political violence, Rishon Letzion_
+_Context: Netanya, Palestinian terrorist, Rishon Letzion_
 
 ### [New Australian Prime Minister Malcolm Turnbull announces knights and dames will no longer be part of the nation's honors system.  He said Queen Elizabeth signed off on the decision. ](/news/2015/11/2/new-australian-prime-minister-malcolm-turnbull-announces-knights-and-dames-will-no-longer-be-part-of-the-nationas-honors-system-he-said.md)
 _Context: Australian Prime Minister, Elizabeth II, Malcolm Turnbull, knights and dames_

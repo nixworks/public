@@ -11,7 +11,7 @@ Official say Lancet report linking country to antibiotic-resistant bug is irrati
 
 ### Related:
 
-1. [A train derails near Muzaffarnagar, Uttar Pradesh, India, resulting in at least 20 deaths and 120 injuries. The death toll is expected to rise further. ](/news/2017/08/19/a-train-derails-near-muzaffarnagar-uttar-pradesh-india-resulting-in-at-least-20-deaths-and-120-injuries-the-death-toll-is-expected-to-ri.md) _Context: India_
+1. [A train derails near Khatauli, Uttar Pradesh, India, resulting in at least 23 deaths and 156 injuries.  ](/news/2017/08/19/a-train-derails-near-khatauli-uttar-pradesh-india-resulting-in-at-least-23-deaths-and-156-injuries.md) _Context: India_
 2. [Flooding in South Asia has displaced tens of thousands of people and resulted in an estimated 500 deaths across India, Bangladesh, and Nepal. ](/news/2017/08/18/flooding-in-south-asia-has-displaced-tens-of-thousands-of-people-and-resulted-in-an-estimated-500-deaths-across-india-bangladesh-and-nepal.md) _Context: India_
 3. [India announces that it is to deport an estimated 40,000 Rohingya refugees including 14,000 of those registered with the U.N. refugee agency. In the months leading up to the announcement, a string of anti-Rohingya protests had been held in the country.](/news/2017/08/14/india-announces-that-it-is-to-deport-an-estimated-40-000-rohingya-refugees-including-14-000-of-those-registered-with-the-u-n-refugee-agency.md) _Context: India_
 4. [India increases its military alert amid a border standoff with the People's Liberation Army of China at Doklam. ](/news/2017/08/12/india-increases-its-military-alert-amid-a-border-standoff-with-the-people-s-liberation-army-of-china-at-doklam.md) _Context: India_
