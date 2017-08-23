@@ -1,6 +1,6 @@
 ### [2017-08-21](/news/2017/08/21/index.md)
 
-# In a video interview posed on the state-run website Uriminzokkiri, the two sons of James Joseph Dresnok, the last remaining American defector to North Korea, has confirmed that their father has died of a stroke last November 2016. 
+# In a video interview posed on the state-run website Uriminzokkiri, the two sons of James Joseph Dresnok (the last remaining American defector to North Korea) have confirmed that their father has died of a stroke last November 2016. 
 
 Dresnok was among a handful of American servicemen to desert after the Korean war and was loyal to Kim Jong-un
 
