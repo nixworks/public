@@ -1,6 +1,6 @@
 ### [2017-08-23](/news/2017/08/23/index.md)
 
-# Aftermath of the USS ''John S. McCain'' collisionThe United States Navy relieves vice admiral Joseph Aucoin as commander of the United States Seventh Fleet following the death of 12 sailors in four collisions in Asia. 
+# Aftermath of the USS ''John S. McCain'' collisionThe United States Navy relieves vice admiral Joseph Aucoin as commander of the United States Seventh Fleet following four collisions in Asia this year that claimed the lives of 17 sailors. 
 
 Divers found the remains of missing sailors in a search of the Navy destroyer John S. McCain that collided with an oil tanker on Monday near Singapore.
 
