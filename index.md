@@ -6,13 +6,16 @@ At least 35 people were killed in air strikes that hit a small hotel near a Hout
 ### [Aftermath of the USS ''John S. McCain'' collisionThe United States Navy relieves Admiral Joseph Aucoin as Commander of the United States Seventh Fleet following the death of 12 sailors in four collisions in Asia. ](/news/2017/08/23/aftermath-of-the-uss-john-s-mccain-collisionpthe-united-states-navy-relieves-admiral-joseph-aucoin-as-commander-of-the-united-states-se.md)
 Divers found the remains of missing sailors in a search of the Navy destroyer John S. McCain that collided with an oil tanker on Monday near Singapore.
 
-### [A passenger train collided with a lorry on the line at Auraiya, India and was derailed. Twenty five people were injured. ](/news/2017/08/23/a-passenger-train-collided-with-a-lorry-on-the-line-at-auraiya-india-and-was-derailed-twenty-five-people-were-injured.md)
+### [A passenger train collided with a dump truck on the line at Auraiya, India and was derailed. Twenty five people were injured. ](/news/2017/08/23/a-passenger-train-collided-with-a-dump-truck-on-the-line-at-auraiya-india-and-was-derailed-twenty-five-people-were-injured.md)
 At least one out of 10 derailed coaches capsized causing injuries to passengers
 
-### [An impeachment complaint has been filed in the House of Representatives against Commission on Elections chairman Andres D. Bautista for betrayal of public trust and culpable violation of the Constitution, over recent allegations of ill-gotten wealth & graft and corruption. ](/news/2017/08/23/an-impeachment-complaint-has-been-filed-in-the-house-of-representatives-against-commission-on-elections-chairman-andres-d-bautista-for-betr.md)
-_Context: Andres D. Bautista, Commission on Elections, Constitution, House of Representatives, Impeachment in the Philippines_
+### [China rejects claims that it is escalating disputes in the South China Sea when its ships sailed near a Philippines sandbar. ](/news/2017/08/23/china-rejects-claims-that-it-is-escalating-disputes-in-the-south-china-sea-when-its-ships-sailed-near-a-philippines-sandbar.md)
+Beijing has noted remarks accusing them of invading the territory of the Philippines, which President Rodrigo Duterte already denied. 
 
-### [Voters in Angola go to the polls to elect 220 National Assembly members. The leader of the winning party will become the new President, following the retirement of Jose Eduardo dos Santos, who has held the role since 1979. ](/news/2017/08/23/voters-in-angola-go-to-the-polls-to-elect-220-national-assembly-members-the-leader-of-the-winning-party-will-become-the-new-president-foll.md)
+### [An impeachment complaint has been filed in the House of Representatives against Commission on Elections chairman Andres D. Bautista for betrayal of public trust and culpable violation of the Constitution, over recent allegations of ill-gotten wealth & graft and corruption related to the recent elections. ](/news/2017/08/23/an-impeachment-complaint-has-been-filed-in-the-house-of-representatives-against-commission-on-elections-chairman-andres-d-bautista-for-betr.md)
+_Context: Andres D. Bautista, Commission on Elections, Constitution, House of Representatives, Impeachment in the Philippines, recent elections_
+
+### [Voters in Angola go to the polls to elect 220 National Assembly members. The leader of the winning party will become the new President, following the retirement of Jos Eduardo dos Santos, who has held the role since 1979. ](/news/2017/08/23/voters-in-angola-go-to-the-polls-to-elect-220-national-assembly-members-the-leader-of-the-winning-party-will-become-the-new-president-foll.md)
 Millions of Angolans to cast their votes on Wednesday as 74-year-old, who has ruled for 38-years, leaves office.
 
 ## Opinion
@@ -51,14 +54,11 @@ Ten sailors are missing after a U.S. warship collided with an oil tanker east of
 ### [A magnitude 4.0 earthquake strikes the Italian island of Ischia, leaving one person dead and 25 others injured. Italian media report 10 others are unaccounted for after several buildings collapsed in Casamicciola Terme. ](/news/2017/08/21/a-magnitude-4-0-earthquake-strikes-the-italian-island-of-ischia-leaving-one-person-dead-and-25-others-injured-italian-media-report-10-othe.md)
 An earthquake on Ischia leaves at least one person dead, with reports of others trapped and injured.
 
-### [In a video interview posed on the state-run website Uriminzokkiri, the two sons of James Joseph Dresnok (the last remaining American defector to North Korea) have confirmed that their father has died of a stroke last November 2016. ](/news/2017/08/21/in-a-video-interview-posed-on-the-state-run-website-uriminzokkiri-the-two-sons-of-james-joseph-dresnok-the-last-remaining-american-defecto.md)
+### [In a video interview posted on the state-run website Uriminzokkiri, the two sons of James Joseph Dresnok (the last remaining American defector to North Korea) have confirmed that their father has died of a stroke last November 2016. ](/news/2017/08/21/in-a-video-interview-posted-on-the-state-run-website-uriminzokkiri-the-two-sons-of-james-joseph-dresnok-the-last-remaining-american-defect.md)
 Dresnok was among a handful of American servicemen to desert after the Korean war and was loyal to Kim Jong-un
 
 ### [Two North Korean shipments to a Syrian government agency of its chemical weapons program were intercepted in the past 6 months, according to a confidential United Nations report on violations of North Korea's sactions. ](/news/2017/08/21/two-north-korean-shipments-to-a-syrian-government-agency-of-its-chemical-weapons-program-were-intercepted-in-the-past-6-months-according-to.md)
 _Context: North Korea's sactions, United Nations, chemical weapons program_
-
-### [After the murder of Kian Loyd delos Santos, a 17-year old student, in the campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. ](/news/2017/08/21/after-the-murder-of-kian-loyd-delos-santos-a-17-year-old-student-in-the-campaign-against-drugs-in-the-philippines-thousands-of-marchers-p.md)
-_Context: EDSA, Philippine Catholic Church, Philippine Drug War, Philippines, murder of Kian Loyd delos Santos_
 
 ### [Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-through-north-america-it-is-the-fir.md)
 _Context: North America, Solar eclipse of August 21, 2017, United States, contiguous United States, solar eclipse of June 8, 1918, total solar eclipse_
