@@ -21,6 +21,9 @@ Dresnok was among a handful of American servicemen to desert after the Korean wa
 ### [Two North Korean shipments to a Syrian government agency of its chemical weapons program were intercepted in the past 6 months, according to a confidential United Nations report on violations of North Korea's sactions. ](/news/2017/08/21/two-north-korean-shipments-to-a-syrian-government-agency-of-its-chemical-weapons-program-were-intercepted-in-the-past-6-months-according-to.md)
 _Context: North Korea's sactions, United Nations, chemical weapons program_
 
+### [After the murder of Kian Loyd delos Santos, a 17-year old student, in the campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. [http://www.aljazeera.com/news/2017/08/thousands-demand-killings-duterte-drug-war-170821124440845.html (''al-Jazeera'')];Science and technology](/news/2017/08/21/after-the-murder-of-kian-loyd-delos-santos-a-17-year-old-student-in-the-campaign-against-drugs-in-the-philippines-thousands-of-marchers-p.md)
+_Context: EDSA, Philippine Catholic Church, Philippines, drug war, shooting of a 17-year old male student_
+
 ### [Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-through-north-america-it-is-the-fir.md)
 _Context: North America, Solar eclipse of August 21, 2017, United States, contiguous United States, solar eclipse of June 8, 1918, total solar eclipse_
 
