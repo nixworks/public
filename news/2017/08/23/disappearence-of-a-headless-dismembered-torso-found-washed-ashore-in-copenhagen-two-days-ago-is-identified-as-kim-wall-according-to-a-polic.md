@@ -1,6 +1,6 @@
 ### [2017-08-23](/news/2017/08/23/index.md)
 
-# Disappearence of A headless dismembered torso found washed ashore in Copenhagen two days ago is identified as Kim Wall. According to a police spokesperson, the body was deliberately mutilated, and had metal attached to it so that it would not float. 
+# Disappearence of A headless dismembered torso found washed ashore in Copenhagen two days ago is identified as Kim Wall. According to a police spokesperson, the body was deliberately mutilated and had metal attached to it so that it would not float. 
 
 A Danish inventor is accused of the negligent manslaughter of a Swedish journalist.
 
